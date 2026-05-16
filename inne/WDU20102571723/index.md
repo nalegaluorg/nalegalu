@@ -8,11 +8,10 @@ pos: 1723
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
-
-*USTAWA dnia 3 grudnia 2010 r.*
+# Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
 
 | Pole | Wartość |
 |---|---|
@@ -26,11 +25,33 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102571723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1723/text.pdf) |
 
-**Art. 1.** W ustawie dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 r. 164, poz. 1027, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** Akt wykonawczy wydany podstawie
+**Art. 13a.** Minister właściwy do spraw zdrowia, w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, sposób i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej:
 
-**Art. 2.** W ustawie dnia 5 grudnia 2008 r. o zapo- 13a ustawy, o której mowa 1, zachowuje bieganiu oraz zwalczaniu zakażeń i chorób zakaźnych moc do dnia wejścia życie aktu wykonawczego wyu ludzi (Dz. U. 234, poz. 1570, 2009 r. 76, danego podstawie 13a ustawy, o której mowa poz. 641 oraz 2010 r. 107, poz. 679) wprowadza 1, brzmieniu nadanym niniejszą ustawą. się następujące zmiany:
+**Art. 83.**
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni
+1. W przypadku gdy składka na ubezpieczenie zdrowotne obliczona przez płatnika, o którym mowa w art. 85 ust. 1 – 13, zgodnie z przepisami art. 79 i 81 jest wyższa od zaliczki na podatek dochodowy od osób fizycznych obliczonej przez tego płatnika zgodnie z przepisami ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2010 r. Nr 51, poz. 307, z późn. zm.), składkę obliczoną za poszczególne miesiące obniża się do wysokości tej zaliczki.
+
+2. W przypadku nieobliczania zaliczki na podatek dochodowy od osób fizycznych przez płatnika, od przychodów stanowiących podstawę wymiaru składki, zgodnie z przepisami ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, składkę obliczoną za poszczególne miesiące obniża się do wysokości 0 zł.
+
+3. Jeżeli podstawę obliczenia składki na ubezpieczenie zdrowotne stanowi:
+
+- **1)** przychód ubezpieczonego wolny od podatku dochodowego na podstawie art. 21 ust. 1 pkt 46 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, od którego płatnik nie oblicza zaliczki na ten podatek,
+- **2)** przychód członka służby zagranicznej wykonującego obowiązki służbowe w placówce zagranicznej, z wyłączeniem dodatku zagranicznego i innych świadczeń przysługujących tym osobom,
+- **3)** przychód ubezpieczonego wolny od podatku dochodowego na podstawie art. 21 ust. 1 pkt 74 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, od którego płatnik nie oblicza zaliczki na ten podatek, w stosunku do ubezpieczonych, o których mowa w art. 66 ust. 1 pkt 16,
+- **4)** przychód ubezpieczonego zwolniony od podatku na podstawie umów o unikaniu podwójnego opodatkowania lub innych umów międzynarodowych, od którego płatnik nie oblicza zaliczki na ten podatek, w stosunku do ubezpieczonych, o których mowa w art. 66 ust. 1 pkt 1 i 16,
+- **5)** inny niż wymieniony w pkt 4 przychód ubezpieczonego, od którego płatnik nie oblicza zaliczki na podatek dochodowy od osób fizycznych na podstawie art. 32 ust. 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych,
+- **6)** przychód z tytułu wykonywania pracy na podstawie umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z przepisami Kodeksu cywilnego stosuje się przepisy dotyczące zlecenia, lub przychód z tytułu pełnienia funkcji członka rady nadzorczej, od którego, na mocy przepisów ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, pobiera się zryczałtowany podatek dochodowy składkę na ubezpieczenie zdrowotne płatnik oblicza zgodnie z przepisami art. 79 i 81. ” ;
+- **4)** w art. 97 ust. 8 otrzymuje brzmienie: „
+
+8. Fundusz otrzymuje dotację z budżetu państwa na sfinansowanie kosztów realizacji zadania, o którym mowa w ust. 3 pkt 2a, 3 i 3b. Dotacja nie uwzględnia kosztów administracyjnych. ” .
+
+**Art. 2.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570, z 2009 r. Nr 76, poz. 641 oraz z 2010 r. Nr 107, poz. 679) wprowadza się następujące zmiany:
+
+**Art. 68.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 4, art. 6 ust. 2, art. 6 ust. 3, art. 6 ust. 3a, art. 6 ust. 4, art. 6 ust. 9, art. 9 ust. 1, art. 11 ust. 2, art. 13 ust. 2, art. 14 ust. 8, art. 16 ust. 5, art. 17 ust. 2, art. 19 ust. 6, art. 20 ust. 10, art. 21 ust. 7, art. 29 ust. 3, art. 31 ust. 5, art. 34 ust. 12 i ustawy, o której mowa w art. 69, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 ust. 1, art. 10 ust. 2, art. 14 ust. 7, art. 17 ust. 10, art. 20 ust. 4, art. 21 ust. 9, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 3, art. 24 ust. 6, art. 27 ust. 9 i art. 29 ust. 7 niniejszej ustawy, nie dłużej jednak niż przez okres 3 lat od dnia jej wejścia w życie. ” .
+
+**Art. 3.** Akt wykonawczy wydany na podstawie art. 13a ustawy, o której mowa w art. 1, zachowuje moc do dnia wejścia w życie aktu wykonawczego wydanego na podstawie art. 13a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2 i 3 oraz art. 2 pkt 6, które wchodzą w życie z dniem 1 stycznia 2011 r.
 

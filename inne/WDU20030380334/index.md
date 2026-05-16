@@ -8,9 +8,10 @@ pos: 334
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# do lat 18 lub osoby znajdujące się pod prawną czeniami 4, 5, 6, 7.
+# Wyrok Trybunału Konstytucyjnegoz dnia 18 lutego 2003 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,39 +25,130 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030380334) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/334/text.pdf) |
 
-lub faktyczną opieką podlegające wymeldowaniu nieposiadające tymczasowych dowodów osobistych:”, Prezes Rady Ministrów: L. Miller WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 18 lutego 2003 r.
-sygn. akt K.24/02 Trybunał Konstytucyjny wskładzie: Andrzej Mączyński przewodniczący, Jerzy Ciemniewski, Teresa Dębowska-Romanowska, Marian Grzybowski, Biruta Lewaszkiewicz-Petrykowska, Ewa Ęętowska, Marek Mazurkiewicz, Janusz Niemcewicz, Jadwiga Skórzewska-Ęosiak, Jerzy Stępień, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki sprawozdawca, po rozpoznaniu, udziałem wnioskodawców Sejmu iProkuratora Generalnego, na rozprawie wdniu 12 lutego 2003 r.,
-1) wniosku Rady Gminy Warszawa-Ursynów, Rady Gminy Warszawa-Bielany, Rady Gminy Warszawa-Targówek, Rady Gminy Warszawa-Ursus, Rady Gminy Warszawa-Wilanów, Rady Gminy Warszawa-Włochy ozbadanie zgodności: i2, i6 5 Europejskiej Karty Samorządu Terytorialnego (Dz.U. z1994 r. 124, poz. 607; dalej: EKST) wzwiązku 170 11 tej Karty wzwiązku 9, 91 iart. 241 Konstytucji,
-b) trybu przygotowania warszawskiej, atakże określonego wart. 33 tej trybu jej wejścia wżycie przepisów przejściowych z: 2, 16, 165 167 Konstytucji, 11 EKST w związku 9, 91 iart. 241 Konstytucji,
-c) i2 wzwiązku wzwiązku 13 warszawskiej z: w związku postanowieniami Preambuły do Konstytucji, 2, EKST jej Preambułą wzwiązku 9, 91 iart. 241 Konstytucji,
-d) 5 warszawskiej 165 w związku 171 Konstytucji,
-e) 5—12 14 warszawskiej zart.2, 164 i3 wzależności od przyjętego statusu dzielnic zart.169 albo 165 Konstytucji,
-f) wzwiązku warszawskiej z: 15, 16, 164 w związku postanowieniami Preambuły do Konstytucji, i4 EKST ijej Pre15, 16 164 i3 Konstytucji w związku postanowieniami Preambuły do Konstytucji, i4 EKST ijej Preambułą w związku 9, 91 iart.241 Konstytucji;
-2) wniosku Rady Gminy Warszawa-Białołęka ozbadanie zgodności warszawskiej z:
-a) 7 iart. 165 ust.1 iart. 164 Konstytucji,
-b) 6 iart. 5 EKST wzwiązku Konstytucji;
-3) wniosku Rady Gminy Warszawa-Rembertów ozbadanie zgodności:
-a) warszawskiej z: 7 iart. 165 Konstytucji, 6 EKST,
-b) 13 warszawskiej iart. 7 Konstytucji,
-c) warszawskiej z: 1, 16 164 w związku postanowieniami Preambuły do Konstytucji, i3 EKST,
-d) 4austawy osamorządzie gminnym z: 15, 16, 164 Konstytucji, iart. i3 EKST;
-4) wniosku Rady Miasta Sulejówek o zbadanie zgodności:
-a) warszawskiej z: 2, 10, 15, 16, 31 164 w związku postanowieniami Preambuły do Konstytucji, 1, 6 5 EKST wzwiązku 170 iart. 11 EKST wzwiązku 9, 91 iart. 241 Konstytucji,
-b) wzwiązku warszawskiej z: 15, 16 164 i3 Konstytucji w związku postanowieniami Preambuły do Konstytucji, i4 EKST ijej Preambułą w związku 9, 91 iart.241 Konstytucji,
-c) 16 warszawskiej z: wzwiązku 31 iart.241 Konstytucji;
-5) wniosku Rady Gminy Warszawa-Wawer ozbadanie zgodności:
-a) warszawskiej z: 2, 15, 16 31 Konstytucji w związku postanowieniami Preambuły do Konstytucji, i2, i6 5 EKST w związku 170 11 EKST wzwiązku 9, 91 iart. 241 Konstytucji,
-b) trybu przygotowania warszawskiej, atakże określonego wart. 33 tej trybu jej wejścia wżycie przepisów przejściowych z: 2, 16 iart. 165 Konstytucji, 11 EKST w związku 9, 91 iart. 241 Konstytucji,
-c) i2 wzwiązku warszawskiej z: w związku postanowieniami Preambuły do Konstytucji, i2 EKST wzwiązku 9, 91 iart. 241 Konstytucji,
-d) 5—12 14 warszawskiej 2, 164 w zależności od przyjętego statusu dzielnic 169 albo zart.165 Konstytucji,
-e) wzwiązku warszawskiej z: iart. 16 Konstytucji, 11 EKST wzwiązku 9, 91 iart. 241 ust.1 Konstytucji,
-f) 18 i4 warszawskiej Konstytucji,
-g) 21 warszawskiej 165 ust.1 Konstytucji, orzeka:
-1. Ustawa zdnia marca 2002 r. oustroju miasta stołecznego Warszawy (Dz. U. 41, poz. 361 iNr 127, poz. 1087), zwyjątkiem 16 2:
-a) jest zgodna z: 2, 7, 10, 15, 16, 164 165 167 Rzeczypospolitej Polskiej,
-a) jest zgodny 6 iart. 11 Europejskiej Karty Samorządu Terytorialnego;
-b) nie jest niezgodny z: Rzeczypospolitej Polskiej, 5 Europejskiej Karty Samorządu Terytorialnego.
-4. Art. 21 powołanej wpunkcie jest zgodny 165 Rzeczypospolitej Polskiej.
-5. Art. i4austawy zdnia 8 marca 1990 r. osamorządzie gminnym (Dz. U. z2001 r. 142, poz. 1591 2002 r. 23, poz. 220, 62, poz. 558, 113, poz. 984 iNr 214, poz. 1806) jest zgodny z: 15, 16 164 i3 stytucyjnym (Dz. U. 102, poz. 643, ze zm.) na skutek cofnięcia wniosku umorzyć postępowanie wzakresie dotyczącym badania zgodności 5—12 14 powołanej w punkcie 165 169 Rzeczypospolitej Polskiej.
-Andrzej Mączyński Jerzy Ciemniewski Teresa Dębowska-Romanowska Marian Grzybowski Biruta Lewaszkiewicz-Petrykowska Ewa Ęętowska Marek Mazurkiewicz Janusz Niemcewicz Jadwiga Skórzewska-Ęosiak Jerzy Stępień Mirosław Wyrzykowski Rzeczypospolitej Polskiej, Marian Zdyb Bohdan Zdziennicki Ceny brutto prenumeraty na 2003 r. (w tym 7% VAT):
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Mączyński – przewodniczący, Jerzy Ciemniewski, Teresa Dębowska-Romanowska, Marian Grzybowski, Biruta Lewaszkiewicz-Petrykowska, Ewa Łętowska, Marek Mazurkiewicz, Janusz Niemcewicz, Jadwiga Skórzewska-Łosiak, Jerzy Stępień, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki – sprawozdawca, protokolant: Dorota Raczkowska, po rozpoznaniu, z udziałem wnioskodawców oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 12 lutego 2003 r.,
+1)
+wniosku Rady Gminy Warszawa-Ursynów, Rady Gminy Warszawa-Bielany, Rady Gminy Warszawa-Targówek, Rady Gminy Warszawa-Ursus, Rady Gminy Warszawa-Wilanów, Rady Gminy Warszawa-Włochy o zbadanie zgodności:
+a)
+ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361, ze zm.; dalej: ustawa warszawska) z:
+– art. 2, art. 15, art. 16, art. 31 ust. 3 oraz art. 164 ust. 1 i 3 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 3 ust. 1 i 2, art. 4 ust. 3 i 6 oraz art. 5 Europejskiej Karty Samorządu Terytorialnego (Dz. U. z 1994 r. Nr 124, poz. 607; dalej: EKST) w związku z art. 170 Konstytucji oraz art. 11 tej Karty w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+b)
+trybu przygotowania ustawy warszawskiej, a także określonego w art. 33 tej ustawy trybu jej wejścia w życie oraz przepisów przejściowych z:
+– art. 2, art. 16, art. 165 ust. 2 i art. 167 ust. 4 Konstytucji,
+– art. 11 EKST w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+c)
+art. 1 i 2 w związku z art. 15 oraz art. 1 w związku z art. 13 ustawy warszawskiej z:
+– art. 2 i art. 15 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 3 ust. 1 i 2, art. 4 ust. 3 EKST i jej Preambułą w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+d)
+art. 4 ust. 2 i 5 ustawy warszawskiej z art. 165 ust. 2 w związku z art. 2 i art. 171 ust. 1 Konstytucji,
+e)
+art. 5–12 oraz art. 14 ustawy warszawskiej z art. 2, art. 164 ust. 1 i 3 Konstytucji oraz – w zależności od przyjętego statusu dzielnic – z art. 169 ust. 4 albo z art. 165 ust. 1 Konstytucji,
+f)
+art. 15 w związku z art. 1 ustawy warszawskiej z:
+– art. 15, art. 16, art. 164 ust. 1 i 3 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 3 ust. 1 oraz art. 4 ust. 3 i 4 EKST i jej Preambułą w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+g)
+art. 18 ust. 3 i 4 ustawy warszawskiej z art. 2 Konstytucji,
+h)
+art. 21 ustawy warszawskiej z art. 2 i art. 165 ust. 1 Konstytucji,
+i)
+art. 24 ust. 1 w związku z art. 33 ustawy warszawskiej z art. 2 i art. 7 Konstytucji,
+j)
+art. 4 i 4a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, ze zm.; dalej: ustawa o samorządzie gminnym) z:
+– art. 15, art. 16 oraz art. 164 ust. 1 i 3 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 3 ust. 1 oraz art. 4 ust. 3 i 4 EKST i jej Preambułą w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji;
+2)
+wniosku Rady Gminy Warszawa-Białołęka o zbadanie zgodności ustawy warszawskiej z:
+a)
+art. 7 i art. 165 ust. 2 Konstytucji oraz art. 15 ust. 1 i art. 164 ust. 1 Konstytucji,
+b)
+art. 4 ust. 6 i art. 5 EKST w związku z art. 2 Konstytucji;
+3)
+wniosku Rady Gminy Warszawa-Rembertów o zbadanie zgodności:
+a)
+ustawy warszawskiej z:
+– art. 7 i art. 165 ust. 2 Konstytucji,
+– art. 4 ust. 6 EKST,
+b)
+art. 13 ustawy warszawskiej z art. 2 i art. 7 Konstytucji,
+c)
+art. 15 ustawy warszawskiej z:
+– art. 15 ust. 1, art. 16 ust. 2 oraz art. 164 ust. 1 i 3 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 3 ust. 1 oraz art. 4 ust. 2 i 3 EKST,
+d)
+art. 4 i 4a ustawy o samorządzie gminnym z:
+– art. 15, art. 16, art. 164 ust. 3 Konstytucji,
+– art. 3 ust. 1 i art. 4 ust. 2 i 3 EKST;
+4)
+wniosku Rady Miasta Sulejówek o zbadanie zgodności:
+a)
+ustawy warszawskiej z:
+– art. 2, art. 10, art. 15, art. 16, art. 31 ust. 3 oraz art. 164 ust. 1 i 3 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 3 ust. 1, art. 4 ust. 3 i 6 oraz art. 5 EKST w związku z art. 170 Konstytucji i art. 11 EKST w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+b)
+art. 15 w związku z art. 1 ustawy warszawskiej z:
+– art. 15, art. 16 oraz art. 164 ust. 1 i 3 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 3 ust. 1 oraz art. 4 ust. 3 i 4 EKST i jej Preambułą w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+c)
+art. 16 ustawy warszawskiej z:
+– art. 2 w związku z art. 31 ust. 3 Konstytucji oraz art. 15 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 4 ust. 3 i 6 oraz art. 5 EKST w związku z art. 170 Konstytucji i art. 11 EKST w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+d)
+art. 4 i 4a ustawy o samorządzie gminnym z:
+– art. 15, art. 16 oraz art. 164 ust. 1 i 3 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 3 ust. 1 oraz art. 4 ust. 3 i 4 EKST i jej Preambułą w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji;
+5)
+wniosku Rady Gminy Warszawa-Wawer o zbadanie zgodności:
+a)
+ustawy warszawskiej z:
+– art. 2, art. 15, art. 16 i art. 31 ust. 3 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 3 ust. 1 i 2, art. 4 ust. 3 i 6 oraz art. 5 EKST w związku z art. 170 Konstytucji oraz art. 11 EKST w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+b)
+trybu przygotowania ustawy warszawskiej, a także określonego w art. 33 tej ustawy trybu jej wejścia w życie oraz przepisów przejściowych z:
+– art. 2, art. 16 i art. 165 ust. 2 Konstytucji,
+– art. 11 EKST w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+c)
+art. 1 i 2 w związku z art. 15 ustawy warszawskiej z:
+– art. 2 i art. 15 Konstytucji w związku z postanowieniami Preambuły do Konstytucji,
+– art. 3 ust. 1 i 2 oraz art. 4 ust. 3 EKST w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+d)
+art. 5–12 oraz art. 14 ustawy warszawskiej z art. 2, art. 164 ust. 3 oraz – w zależności od przyjętego statusu dzielnic – z art. 169 ust. 4 albo z art. 165 ust. 1 Konstytucji,
+e)
+art. 15 w związku z art. 1 ustawy warszawskiej z:
+– art. 15 i art. 16 Konstytucji,
+– art. 3 ust. 1 i art. 4 ust. 3 oraz art. 11 EKST w związku z art. 9, art. 91 ust. 2 i art. 241 ust. 1 Konstytucji,
+f)
+art. 18 ust. 3 i 4 ustawy warszawskiej z art. 2 Konstytucji,
+g)
+art. 21 ustawy warszawskiej z art. 2 i art. 165 ust. 1 Konstytucji,
+orzeka:
+1.
+Ustawa z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361 i Nr 127, poz. 1087), z wyjątkiem art. 16 ust. 2:
+a)
+jest zgodna z:
+– art. 2, art. 7, art. 10, art. 15, art. 16, art. 164 ust. 1 i 3 oraz art. 165 ust. 2 i art. 167 ust. 4 Konstytucji Rzeczypospolitej Polskiej,
+– art. 3 ust. 1 i 2, art. 4 ust. 3 i 6 oraz art. 5 i art. 11 Europejskiej Karty Samorządu Terytorialnego sporządzonej w Strasburgu dnia 15 października 1985 r. (Dz. U. z 1994 r. Nr 124, poz. 607),
+b)
+nie jest niezgodna z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 15 w związku z art. 1 ustawy powołanej w punkcie 1 jest zgodny z:
+– art. 165 Konstytucji Rzeczypospolitej Polskiej,
+– art. 4 ust. 2 i 4 Europejskiej Karty Samorządu Terytorialnego.
+3.
+Art. 16 ust. 2 ustawy powołanej w punkcie 1:
+a)
+jest zgodny z art. 4 ust. 6 i art. 11 Europejskiej Karty Samorządu Terytorialnego;
+b)
+nie jest niezgodny z:
+– art. 2 i art. 15 Konstytucji Rzeczypospolitej Polskiej,
+– art. 4 ust. 3 i art. 5 Europejskiej Karty Samorządu Terytorialnego.
+4.
+Art. 21 ustawy powołanej w punkcie 1 jest zgodny z art. 165 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
+5.
+Art. 4 i 4a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591 oraz z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984 i Nr 214, poz. 1806) jest zgodny z:
+– art. 15, art. 16 oraz art. 164 ust. 1 i 3 Konstytucji Rzeczypospolitej Polskiej,
+– art. 3 ust. 1 oraz art. 4 ust. 2, 3 i 4 Europejskiej Karty Samorządu Terytorialnego.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 2 w związku z art. 39 ust. 2 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, ze zm.) na skutek cofnięcia wniosku umorzyć postępowanie w zakresie dotyczącym badania zgodności art. 5–12 oraz art. 14 ustawy powołanej w punkcie 1 z art. 165 ust. 1 oraz art. 169 ust. 4 Konstytucji Rzeczypospolitej Polskiej.
 

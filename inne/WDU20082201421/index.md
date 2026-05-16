@@ -8,6 +8,7 @@ pos: 1421
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 23 października 2008 r. o nadaniu nowej nazwy Akademii Ekonomicznej w Poznaniu
@@ -24,5 +25,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201421) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1421/text.pdf) |
 
-**Art. 1.** Akademii Ekonomicznej wPoznaniu nadaje Art. 2. Ustawa wchodzi w˝ycie po up∏ywie 14 dni si´ nazw´ „Uniwersytet Ekonomiczny wPoznaniu”. od dnia og∏oszenia. 1421 USTAWA zdnia 23 paêdziernika 2008 r. onadaniu nowej nazwy Akademii Ekonomicznej wPoznaniu Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 1.** Akademii Ekonomicznej w Poznaniu nadaje się nazwę „Uniwersytet Ekonomiczny w Poznaniu”.
+
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

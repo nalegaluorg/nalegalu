@@ -8,9 +8,10 @@ pos: 443
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# brzmienie: ,,1. art. 27 ust. 1, Minister Finansów organy kontroli skar bowej."
+# Ustawa z dnia 16 października 1991 r. o zmianie ustaw – Prawo o ustroju sądów powszechnych, o Sądzie Najwyższym, o prokuraturze, o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe
 
 | Pole | Wartość |
 |---|---|
@@ -24,23 +25,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911000443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/443/text.pdf) |
 
-**Art. 53.** W ustawie dnia 28 grudnia 1989 r. - Prawo celne (Dz. U. 75, 445 oraz 1991 r. 60, 253 73, 320) wprowadza zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1985 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 1990 r. Nr 23, poz. 138, Nr 34, poz. 198, Nr 53, poz. 306, Nr 89, poz. 517 oraz z 1991 r. Nr 55, poz. 234) wprowadza się następujące zmiany:
 
-**Art. 56.** Do czasu uregulowania do zakresu organów kontroli skarbowej weryfikacja rocznych finansowych.
+**Art. 2.** W ustawie z dnia 20 września 1984 r. o Sądzie Najwyższym (Dz. U. z 1990 r. Nr 26, poz. 153 i Nr 53, poz. 306 oraz z 1991 r. Nr 83, poz. 371) wprowadza się następujące zmiany:
 
-**Art. 57.**
+**Art. 3.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 1991 r. Nr 25, poz. 103 i Nr 55, poz. 234) wprowadza się następujące zmiany:
 
-1. Generalnego Inspektora Kontroli Skarbowej do jednorazowego pracowników M inisterstwa Finansów oraz organów podleg Ministrowi Finansów - inspektorów kontroli skar bowej, bez zachowania wymogów wart. 39 ust. 1 pkt 3-5.
+**Art. 4.** W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. Nr 20, poz. 101, z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 22, poz. 98 i Nr 50, poz. 262, z 1987 r. Nr 21, poz. 123 oraz z 1989 r. Nr 34, poz. 178) wprowadza się następujące zmiany:
 
-2. Inspektorzy trybie ust. 1 do egzaminu kwalifikacyjnego, o którym mowa wart. 39 ust. 1 pkt 5, terminie jednego roku od dnia
-
-**Art. 58.** Ilekroć przepisach jest mowa o organach kontroli finansowej albo o kontroli finansowej, rozumie przez to odpowiednio organy kontroli skarbowej
-
-**Art. 59.** Ustawa wchodzi po 3 cy od dnia art. 8 ust. 2 3, art. 9 ust. 3, art. 10, art. 40 art. 57 ust. 1, które dniem Prezydent Rzeczypospolitej Polskiej: L. USTAWA dnia 16 1991 r. o zmianie ustaw - Prawo o ustroju powszechnych, o o prokuraturze, o wyna grodzeniu osób kierownicze stanowiska
-
-**Art. 1.** W ustawie dnia 20 czerwca 1985 r. - Prawo o ustroju powszechnych (Dz. U. 1990 r. 23, 138, 34, 198, 53, 306, 89, 517 oraz 1991 r. 55, 234) wprowadza zmiany:
-
-**Art. 2.** W ustawie dnia 20 1984 r. o (Dz. U. 1990 r. 26, 153 53, 306 oraz 1991 r. 83, 371) wprowadza na zmiany:
-
-**Art. 5.** Ustawa wchodzi dniem Prezydent Rzeczypospolitej Polskiej: L. PL ISSN 0867-3411 Cena 880 zł
+**Art. 5.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

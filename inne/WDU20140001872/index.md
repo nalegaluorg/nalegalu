@@ -8,9 +8,10 @@ pos: 1872
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 grudnia 2014 r.
+# Ustawa z dnia 23 października 2014 r. o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,31 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001872) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1872/text.pdf) |
 
-Poz. 1872
-USTAWA z dnia 23 października 2014 r.
-o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
-
 **Art. 1.** W ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2012 r. poz. 86 oraz z 2013 r. poz. 1537) wprowadza się następujące zmiany:
+
+**Art. 3a.**
+
+1. Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że przepisy ustawy stanowią inaczej.
+
+2. W postępowaniach, o których mowa w ust. 1, organ administracji publicznej:
+
+- **1)** stoi na straży praworządności;
+- **2)** jest obowiązany w sposób wyczerpujący rozpatrzyć cały materiał dowodowy;
+- **3)** udziela stronom, na ich żądanie, niezbędnych pouczeń, co do okoliczności faktycznych i prawnych, które mogą mieć wpływ na ustalenie ich praw i obowiązków będących przedmiotem postępowania;
+- **4)** zapewnia stronom, na ich żądanie, czynny udział w każdym stadium postępowania i na ich żądanie, przed wydaniem decyzji, umożliwia im wypowiedzenie się co do zebranych dowodów i materiałów oraz zgłoszonych żądań; przepisu art. 81 Kodeksu postępowania administracyjnego nie stosuje się.
+
+3. Strony oraz inne osoby uczestniczące w postępowaniu, o którym mowa w ust. 1, są obowiązane przedstawiać dowody oraz dawać wyjaśnienia co do okoliczności sprawy zgodnie z prawdą i bez zatajania czegokolwiek; ciężar udowodnienia faktu spoczywa na osobie, która z tego faktu wywodzi skutki prawne. ” ;
+
+- **2)** po art. 10 dodaje się art. 10a w brzmieniu: „
+
+**Art. 10a.** Właściwy w sprawach dotyczących wpisu do ewidencji producentów i wykreślenia z tej ewidencji jest kierownik biura powiatowego Agencji, właściwy ze względu na miejsce zamieszkania lub siedzibę wnioskodawcy. ” ;
+
+**Art. 17.** Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, szczegółowe wymagania, jakie powinien spełniać wniosek o wpis do ewidencji producentów, uwzględniając dane, o których mowa w art. 7, oraz biorąc pod uwagę zapewnienie prawidłowego funkcjonowania systemu. ” .
 
 **Art. 2.**
 
 1. Wpisy do ewidencji producentów dokonane przed dniem wejścia w życie niniejszej ustawy, numery identyfikacyjne nadane przed dniem jej wejścia w życie oraz zaświadczenia o nadanym numerze identyfikacyjnym wydane przed dniem jej wejścia w życie zachowują ważność.
 
-2. Zaświadczenia, o których mowa w ust. 1, uznaje się za decyzje administracyjne o wpisie producenta do ewidencji producentów.
+2. Zaświadczenia, o których mowa w ust. 1, uznaje się za decyzje administracyjne o wpisie producenta do ewidencji producentów. Ustawa wchodzi w życie z dniem 1 stycznia 2015 r.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

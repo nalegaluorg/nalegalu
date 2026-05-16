@@ -8,9 +8,10 @@ pos: 1703
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 4. Agencja Rezerw Materiałowych staje się stroną umów porozumień zawartych przez Agencję związanych gospodarowaniem rezerwami państwowymi produktów rolnych, produktów półproduktów żywnościowych.
+# Wyrok Trybunału Konstytucyjnegoz dnia 4 grudnia 2007 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,18 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072311703) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1703/text.pdf) |
 
-5. (uchylony).
-
-**Art. 57.** (pominięty).
-
-**Art. 56.**
-
-1. W postępowaniach administracyjnych wszczętych przez Prezesa Agencji oraz ministra właściwego do spraw rynków rolnych na podstawie art. 22 ustawy, októrej mowa wart. 43, iniezakończonych przed dniem wejścia życie niniejszej ustawy, organami właściwymi tych sprawach stają się odpowiednio Prezes Agencji Rezerw Materiałowych albo minister właściwy do spraw gospodarki.
-
-2. Organy prowadzące postępowania, o których mowa wust. 1, przekażą odpowiednio Prezesowi Agencji Rezerw Materiałowych albo ministrowi właściwemu do spraw gospodarki akta tych postępowań, wterminie 30 dni od dnia wejścia wżycie niniejszej ustawy.
-
-**Art. 58.** Tracą moc:
-
-**Art. 59.** Ustawa wchodzi życie dniem uzyskania przez Rzeczpospolitą Polską członkostwa Unii Europejskiej, zwyjątkiem art. 12 ust. 2, art. 16, art. 17, art. 20—23, art. 43, art. 48, art. 51, art. 52, art. 53 ust. 1 pkt 4 art. 54—56, które wchodzą życie dniem ogłoszenia ——————— . ——————— WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 4 grudnia 2007 sygn. akt K 26/05 Trybunał Konstytucyjny składzie: Jerzy Ciemniewski przewodniczący, Marian Grzybowski, Adam Jamróz sprawozdawca, Teresa Liszcz, Mirosław Wyrzykowski, art. 4 ust. 2 i4, art. 14 ust. 1 zdanie drugie, ust. 2 6, art. 18 ust. 4, art. 22 art. 23 ust. 4 ustawy dnia 21 czerwca 2001 o ochronie praw lokatorów, mieszkaniowym zasobie gminy o zmianie Kodeksu cywilnego (Dz. U. 71, poz. 733, zm.), art. 1046 § 4 ustawy dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. Nr43, poz. 296, zm.), art. 81 ustawy dnia 8 września 2000 o komercjalizacji, restrukturyzacji prywatyzacji przedsiębiorstwa państwowego ŃPolskie Koleje Państwowe” (Dz. U. 84, poz. 948, zm.); po rozpoznaniu, udziałem wnioskodawcy oraz 2) art. 165 ust. 2 Konstytucji następujących przepiSejmu Prokuratora Generalnego, na rozprawie sów: dniu 4 grudnia 2007 r., wniosku Rady Miasta Gdyni o zbadanie zgodności: art. 81 ustawy dnia 8 września 2000 o komercjalizacji, restrukturyzacji prywatyzacji
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Jerzy Ciemniewski – przewodniczący, Marian Grzybowski, Adam Jamróz – sprawozdawca, Teresa Liszcz, Mirosław Wyrzykowski, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 4 grudnia 2007 r., wniosku Rady Miasta Gdyni o zbadanie zgodności:
+1)
+z art. 167 ust. 1 i 4 Konstytucji Rzeczypospolitej Polskiej następujących przepisów:
+– art. 4 ust. 2 i 4, art. 14 ust. 1 zdanie drugie, ust. 2 i 6, art. 18 ust. 4, art. 22 i art. 23 ust. 4 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. Nr 71, poz. 733, ze zm.),
+– art. 1046 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.),
+– art. 81 ustawy z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, ze zm.);
+2)
+z art. 165 ust. 2 Konstytucji następujących przepisów:
+– art. 81 ustawy z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”,
+– art. 4 ust. 2, art. 18 ust. 4 i art. 22 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego;
+3)
+z art. 2 w związku z art. 7 Konstytucji art. 1046 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego,
+orzeka: Art. 1046 § 4 ustawy z dnia 17 listopada 1964 r. -Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) jest zgodny z art. 2 w związku z art. 7 i nie jest niezgodny z art. 167 ust. 1 i 4 Konstytucji. Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 2 w związku z art. 39 ust. 2 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie w pozostałym zakresie na skutek cofnięcia wniosku.
 

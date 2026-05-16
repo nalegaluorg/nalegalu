@@ -8,9 +8,10 @@ pos: 793
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# w danym okresie, liczony w rachunku narasta
+# Ustawa z dnia 1 grudnia 1995 r. zmieniająca ustawę o zmianie Kodeksu postępowania karnego, ustawy o ustroju sądów wojskowych, ustawy o opłatach w sprawach karnych i ustawy o postępowaniu w sprawach nieletnich
 
 | Pole | Wartość |
 |---|---|
@@ -24,28 +25,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951540793) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/793/text.pdf) |
 
-6. Do z zysku stosuje przepisy o zaniach podatkowych, z art. 5 ust. 2.
-7. Minister Finansów, w drodze tryb, terminy z zysku i nia deklaracji oraz wzory tych deklaracji.
+**Art. 1.** W ustawie z dnia 29 czerwca 1995 r. o zmianie Kodeksu postępowania karnego, ustawy o ustroju sądów wojskowych, ustawy o opłatach w sprawach karnych i ustawy o postępowaniu w sprawach nieletnich (Dz. U. Nr 89, poz. 443) wprowadza się następujące zmiany:
 
-**Art. 3.** W przypadku zbycia akcji na za sadach i w trybie przepisów o prywatyzacji biorstw wart. 2 ust. 1 ustaje z w którym dokonano zbycia akcji
+**Art. 10a.**
 
-**Art. 4.** Wpłaty z zysku dokonywane w wysoko 15% zysku, o którym mowa wart. 2 ust. 1.
+1. W sprawach, w których łączny czas tymczasowego aresztowania, zastosowanego przed dniem 4 sierpnia 1996 r., przekracza terminy określone w art. 222 § 2 pkt 2 i § 3 Kodeksu postępowania karnego w brzmieniu nadanym art. 1 pkt 20, tymczasowe aresztowanie zostaje utrzymane do czasu rozpoznania przez Sąd Najwyższy wniosku o przedłużenie stosowania tego środka na podstawie art. 222 § 4 Kodeksu postępowania karnego.
 
-**Art. 5.**
+2. W sprawach określonych w ust. 1, w razie niezłożenia wniosku o przedłużenie stosowania tymczasowego aresztowania, areszt tymczasowy należy uchylić nie później niż z dniem 1 stycznia 1997 r. ” ;
 
-1. Z o których mowa wart. 4, zwol nione jednoosobowe Skarbu po z wych przy karnych i aresztach Ministrowi
+- **2)** art. 11 otrzymuje brzmienie: „
 
-2. Rada Ministrów, w drodze mo na wniosek organu Skarb stwa jednoosobowe Skarbu w lub w zadania na potrze by i z dokonywania z zysku lub tym ulgi we z zysku.
+**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 1996 r., z tym że zmiany zawarte w art. 1 odnoszące się do tymczasowego aresztowania wchodzą w życie z dniem 4 sierpnia 1996 r., z zastrzeżeniem art. 10a. ”
 
-**Art. 6.** Jednoosobowe Skarbu któ re na swój wniosek z listy ustalonej przez Ministrów na podstawie ustawy, o której mowa wart. 7 pkt 1, do uiszczania o których mowa wart. 4, za okres pozostawania na tej
-
-**Art. 7.** Przepisów ustawy nie stosuje do jedno osobowych Skarbu
-
-**Art. 8.** Traci moc ustawa z dnia 19 lipca 1991 r. o oprocentowaniu w jednoosobowych kach Skarbu (Dz. U. Nr 75, poz. 330 i z 1992 r. Nr 45, poz. 200).
-
-**Art. 9.** Ustawa wchodzi w z dniem 1 stycznia 1996 r. Prezydent Rzeczypospolitej Polskiej: L. 793 USTAWA z dnia 1 grudnia 1995 r. o zmianie Kodeksu karnego, ustawy o ustroju wojskowych, usta wy o w sprawach karnych i ustawy o w sprawach nieletnich.
-
-**Art. 1.** W ustawie z dnia 29 czerwca 1995 r. o zmia nie Kodeksu karnego, ustawy o ustroju wojskowych, ustawy o w sprawach karnych i ustawy o w sprawach nielet nich (Dz. U. Nr 89, poz. 443) wprowadza ce zmiany:
-
-**Art. 2.** Ustawa wchodzi w z dniem 1 stycznia 1996 r. Prezydent Rzeczypospolitej Polskiej: A.
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 1996 r.
 

@@ -8,9 +8,10 @@ pos: 983
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Krzysztof Tomasz Dybowski - sprawozdawca, Jadwiga protokolant: Joanna Szymczak po rozpoznaniu dniu 26 listopada 1997 na roz prawie sprawy wniosku Krajowego Ogólno polskiego Zawodowego Lekarzy, umocowanych przedstawicieli uczestników wania: wnioskodawcy, Ministra Zdrowia Opieki Spo Ministra Pracy Polityki Socjalnej oraz Proku ratora Generalnego, o zbadanie 11 ust. 1 Ministra Zdrowia Opieki dnia lipca 1992 sprawie zasad wynagradzania pracowników publicznych opieki zdrowotnej u. 55, 273 ze zmianami) art. 13, art. 134 1 1 art. 144 Kodeksu pracy oraz art. 67 ust.
+# Wyrok Trybunału Konstytucyjnegoz dnia 27 listopada 1997 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,8 +24,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971450983) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/983/text.pdf) |
 
-przepisów konstytucyjnych utrzymanych mocy na podstawie art. 77 ustawy konstytucyjnej dnia 17 dziernika 1992 o wzajemnych stosunkach Rzeczypospolitej Polskiej oraz o terytorialnym 84, 426 ze zm.), a obecnie art. 32 Konstytucji Rzeczy pospolitej Polskiej orzeka: 11 ust. 1 Ministra Zdrowia Opie ki dnia lipca 1992 sprawie zasad wy nagradzania pracowników publicznych opie ki zdrowotnej 55, 273, 1993 41, 122, 594, 1996 80, 377 oraz 1997 24, 127 34, 214), brzmieniu ustalor· nym Ministra Zdr-Q.';: wia Opieki dnia 6 lipca 1995 84, 424), rozumiany jako przepis tyl ko podstawowy (minimalny) poziom wynagrodzenia za które powinno ustalone przy rzeczywistego pracy przez lekarza czasie zgod nie godziwego wynagrodzenia za jest zgod ny art. 13 ustawy dnia 26 czerwca 1974 - Kodeks pracy 24, 141, 1975 16, 91, 1981 6, 23, 1982 31, 214, 1985 20, 85 35, 162, 1986 42, 201, 1987 21, 124, 1988 20, 134, 1989 20, 107 35, 192, 1990 4, 19, 43, 251 55, 319, 1991 53, 226, 55, 236 237, 1994 113, 547, 1995 16, 77, 1996 24, 110, 87, 396 147, 687 oraz 1997 121, 770), nie jest niezgodny art. 32 Konstytucji Rzeczypo spolitej Polskiej art. 134 1 l' oraz art. 144 Kodeksu pracy.
-Krzysztof Tomasz Dybowski Jadwiga 983 dnia 27 listopada 1997 akt 11/97.
-Konstytucyjny Janusz Wojciech Sokolewicz, Andrzej Zoli - sprawozdawca, protokolant - Joanna Szymczak po rozpoznaniu dniu 27 listopada 1997 na roz prawie sprawy wniosku Rzecznika Praw Obywatel skich, umocowanych przedstawicieli uczestników wnioskodawcy, Ministra Pracy Polityki Socjalnej Prokuratora Generalnego, o zbadanie
-a) 3 Ministra Pracy Polityki So cjalnej dnia 5 maja 1997 rozpo sprawie zasad zawie szania lub zmniejszania emerytury renty 47, 310) art. 7 Konstytucji dnia kwiet nia 1997 78, 483), Janusz Wojciech Sokolewicz Andrzej Zoli o Cena 56 gr
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Janusz Trzciński – przewodniczący, Wojciech Sokolewicz, Andrzej Zoll – sprawozdawca, protokolant: Joanna Szymczak po rozpoznaniu w dniu 27 listopada 1997 r. na rozprawie sprawy z wniosku Rzecznika Praw Obywatelskich, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Ministra Pracy i Polityki Socjalnej i Prokuratora Generalnego, o zbadanie zgodności:
+a)
+§ 2 i 3 rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 5 maja 1997 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zawieszania lub zmniejszania emerytury i renty (Dz. U. Nr 47, poz. 310) z art. 2 i 7 Konstytucji z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483),
+b)
+§ 1 ust. 1 lit. b) rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 5 maja 1997 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zawieszania lub zmniejszania emerytury i renty (Dz. U. Nr 47, poz. 310) z art. 2, 7 i 31 Konstytucji z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) oraz art. 24 ustawy z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz. U. Nr 104, poz. 450, z 1992 r. Nr 21, poz. 84, z 1993 r. Nr 127, poz. 583 i Nr 129, poz. 602, z 1994 r. Nr 84, poz. 385, z 1995 r. Nr 4, poz. 17, Nr 95, poz. 473 i Nr 138, poz. 681, z 1996 r. Nr 87, poz. 395, Nr 100, poz. 461, Nr 136, poz. 636 i Nr 147, poz. 687 oraz z 1997 r. Nr 30, poz. 164, Nr 106, poz. 676, Nr 111, poz. 725 i Nr 141, poz. 943)
+orzeka:
+1)
+§ 2 oraz § 3 rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 5 maja 1997 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zawieszania lub zmniejszania emerytury i renty (Dz. U. Nr 47, poz. 310) w zakresie obejmującym § 1 pkt 1 lit. b) są niezgodne z art. 2 Konstytucji z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) przez to, iż naruszyły wynikający z zasady państwa prawnego nakaz ochrony zaufania obywateli do państwa i stanowionego przezeń prawa wyrażający się w zakazie retroaktywnego działania prawa oraz nakazie ochrony praw słusznie nabytych, jak również nakazie stosowania odpowiedniego okresu dostosowawczego dla regulacji w sposób istotny modyfikujących zakres dotychczasowych praw i obowiązków obywateli oraz naruszyły nakaz dostatecznej określoności regulacji ograniczających prawa i wolności obywatelskie;
+2)
+§ 2 oraz § 3 rozporządzenia Ministra Pracy i Polityki Socjalnej powołanego w pkt 1 wyroku, nie jest niezgodny z art. 7 Konstytucji z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483);
+3)
+§ 1 ust. 1 lit. b) rozporządzenia Ministra Pracy i Polityki Socjalnej powołanego w pkt 1 wyroku nie jest niezgodny z art. 31 ust. 3 Konstytucji;
+4)
+§ 1 ust. 1 lit. b) rozporządzenia Ministra Pracy i Polityki Socjalnej powołanego w pkt 1 wyroku nie jest niezgodny z art. 24 ustawy z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz. U. Nr 104, poz. 450, z 1992 r. Nr 21, poz. 84, z 1993 r. Nr 127, poz. 583 i Nr 129, poz. 602, z 1994 r. Nr 84, poz. 385, z 1995 r. Nr 4, poz. 17, Nr 95, poz. 473 i Nr 138, poz. 681, z 1996 r. Nr 87, poz. 395, Nr 100, poz. 461, Nr 136, poz. 636 i Nr 147, poz. 687 oraz z 1997 r. Nr 30, poz. 164, Nr 106, poz. 676, Nr 111, poz. 725 i Nr 141, poz. 943).
 

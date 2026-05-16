@@ -1,0 +1,266 @@
+---
+title: Rozporządzenie Ministra Finansów z dnia 17 grudnia 2024 r. w sprawie zwolnień z obowiązku prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących
+address: WDU20240001902
+eli: DU/2024/1902
+publisher: DU
+year: 2024
+pos: 1902
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Finansówz dnia 17 grudnia 2024 r. w sprawie zwolnień z obowiązku prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 1902 |
+| ISAP | WDU20240001902 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-12-17 |
+| Data wydania | 2024-12-20 |
+| Ostatnia zmiana | 2026-03-30 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001902) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1902/text.pdf) |
+
+Treść rozporządzenia
+Załącznik –
+Treść rozporządzenia
+Na podstawie art. 111 ust. 8 oraz art. 145a ust. 17 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473 i 1721) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa zwolnienia na czas określony niektórych grup podatników i niektórych czynności z obowiązku prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących, zwanej dalej „ewidencją”, oraz warunki korzystania ze zwolnienia.
+§ 2.
+1.
+Zwalnia się z obowiązku prowadzenia ewidencji w danym roku podatkowym, nie dłużej jednak niż do dnia 31 grudnia 2027 r., czynności wymienione w załączniku do rozporządzenia.
+2.
+W odniesieniu do niektórych czynności wymienionych w załączniku do rozporządzenia zwolnienie, o którym mowa w ust. 1, stosuje się zgodnie z warunkami określonymi w tym załączniku.
+§ 3.
+1.
+Zwalnia się z obowiązku prowadzenia ewidencji w danym roku podatkowym, nie dłużej jednak niż do dnia 31 grudnia 2027 r.:
+1)
+podatników, u których wartość sprzedaży dokonanej na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych w poprzednim roku podatkowym nie przekroczyła kwoty 20 000 zł, a w przypadku podatników rozpoczynających w poprzednim roku podatkowym dostawę towarów lub świadczenie usług na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych, jeżeli wartość sprzedaży z tego tytułu, w proporcji do okresu wykonywania tych czynności w poprzednim roku podatkowym, nie przekroczyła kwoty 20 000 zł;
+2)
+podatników rozpoczynających po dniu 31 grudnia 2024 r. dostawę towarów lub świadczenie usług na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych, jeżeli przewidywana przez podatnika wartość sprzedaży z tego tytułu, w proporcji do okresu wykonywania tych czynności w danym roku podatkowym, nie przekroczy kwoty 20 000 zł;
+3)
+podatników, którzy dokonują dostawy towarów lub świadczenia usług zwolnionych z obowiązku prowadzenia ewidencji, wymienionych w części I załącznika do rozporządzenia, w przypadku gdy udział sprzedaży z tytułu czynności zwolnionych z obowiązku prowadzenia ewidencji, wymienionych w części I załącznika do rozporządzenia, w całkowitej sprzedaży podatnika dokonanej na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych, zwany dalej „udziałem procentowym sprzedaży”, w poprzednim roku podatkowym był wyższy niż 80%;
+4)
+podatników rozpoczynających po dniu 31 grudnia 2024 r. dostawę towarów lub świadczenie usług na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych, jeżeli przewidywany przez podatnika udział procentowy sprzedaży:
+a)
+za okres pierwszych sześciu miesięcy wykonywania tych czynności,
+b)
+za okres do końca roku, w przypadku gdy okres wykonywania tych czynności w roku podatkowym jest krótszy niż sześć miesięcy
+będzie wyższy niż 80%;
+5)
+jednostki samorządu terytorialnego w zakresie czynności wykonywanych przez ich jednostki organizacyjne, o których mowa w art. 2 pkt 1 ustawy z dnia 5 września 2016 r. o szczególnych zasadach rozliczeń podatku od towarów i usług oraz dokonywania zwrotu środków publicznych przeznaczonych na realizację projektów finansowanych z udziałem środków pochodzących z budżetu Unii Europejskiej lub od państw członkowskich Europejskiego Porozumienia o Wolnym Handlu przez jednostki samorządu terytorialnego (Dz. U. z 2018 r. poz. 280):
+a)
+które na dzień 31 grudnia 2016 r. korzystały ze zwolnienia, o którym mowa w art. 8 ust. 2 tej ustawy, albo
+b)
+jeżeli ich jednostki organizacyjne na dzień 31 grudnia 2016 r. korzystały ze zwolnienia z takiego obowiązku.
+2.
+Zwolnienia, o którym mowa w ust. 1:
+1)
+pkt 1, nie stosuje się do podatników, którzy w poprzednim roku podatkowym byli obowiązani do prowadzenia ewidencji lub przestali spełniać warunki do zwolnienia z obowiązku prowadzenia ewidencji;
+2)
+pkt 3, nie stosuje się do podatników, którzy w pierwszym lub drugim półroczu poprzedniego roku podatkowego osiągnęli udział procentowy sprzedaży równy 80% albo niższy niż 80%.
+3.
+Na potrzeby korzystania ze zwolnienia, o którym mowa w ust. 1:
+1)
+nie uwzględnia się dokonanej lub przewidywanej sprzedaży z tytułu czynności, o których mowa w poz. 40 i 50 załącznika do rozporządzenia;
+2)
+przy obliczaniu wartości sprzedaży nie uwzględnia się należnego podatku od towarów i usług.
+§ 4.
+1.
+Zwolnień, o których mowa w § 2 i § 3, nie stosuje się w przypadku:
+1)
+dostawy:
+a)
+gazu płynnego,
+b)
+części do silników (CN 8409 91 00 i 8409 99 00),
+c)
+silników do napędu pojazdów i motocykli, silników spalinowych tłokowych z zapłonem iskrowym i samoczynnym do różnego rodzaju jednostek, w tym motocykli (CN 8407 i 8408),
+d)
+nadwozi do pojazdów silnikowych (CN 8707),
+e)
+przyczep i naczep (CN 8716 10, 8716 31 00, ex 8716 39, 8716 40 00), kontenerów (CN 8609 00),
+f)
+części przyczep, naczep i pozostałych pojazdów bez napędu mechanicznego (CN 8716 90),
+g)
+części i akcesoriów do pojazdów silnikowych (CN 8708, 9401 99 20 i 9401 99 80), to jest do:
+– ciągników,
+– pojazdów silnikowych do przewozu dziesięciu lub więcej osób z kierowcą,
+– samochodów i pozostałych pojazdów silnikowych przeznaczonych zasadniczo do przewozu osób, włącznie z samochodami osobowo-towarowymi (kombi) oraz samochodami wyścigowymi,
+– pojazdów silnikowych do transportu towarów,
+– pojazdów silnikowych specjalnego przeznaczenia, innych niż te zasadniczo przeznaczone do przewozu osób lub towarów, w szczególności: pojazdów pogotowia technicznego, dźwigów samochodowych, pojazdów strażackich, betoniarek samochodowych, zamiatarek, polewaczek, przewoźnych warsztatów, ruchomych stacji radiologicznych
+– z wyłączeniem motocykli,
+h)
+komputerów stacjonarnych i przenośnych, w tym laptopów i tabletów, oraz urządzeń peryferyjnych do nich, konsol do gier, części do komputerów i konsol,
+i)
+wyrobów elektronicznych, w tym odbiorników telewizyjnych i radiowych, gramofonów, głośników, telefonów, w tym smartfonów, smartwatchów, anten, wyświetlaczy, monitorów, aparatów do zapisu lub odtwarzania obrazu i dźwięku, nawigacji, urządzeń pamięci trwałej, taśm, dysków, urządzeń alarmowych,
+j)
+wyrobów optycznych, w tym lornetek, lunet, rzutników,
+k)
+silników elektrycznych, prądnic i transformatorów,
+l)
+sprzętu fotograficznego, w tym cyfrowych i konwencjonalnych aparatów fotograficznych, soczewek, obiektywów, kamer, projektorów filmowych,
+m)
+wyrobów z metali szlachetnych lub z udziałem tych metali, których dostawa nie może korzystać ze zwolnienia od podatku, o którym mowa w art. 113 ust. 1 i 9 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, zwanej dalej „ustawą”,
+n)
+zapisanych i niezapisanych nośników danych cyfrowych i analogowych,
+o)
+wyrobów przeznaczonych do użycia, oferowanych na sprzedaż lub używanych jako paliwa silnikowe albo jako dodatki lub domieszki do paliw silnikowych, bez względu na kod CN,
+p)
+wyrobów tytoniowych (CN 2401, 2402, 2403), z wyłączeniem towarów dostarczanych na pokładach samolotów,
+q)
+napojów alkoholowych o zawartości alkoholu powyżej 1,2%, napojów alkoholowych będących mieszaniną piwa i napojów bezalkoholowych, w których zawartość alkoholu przekracza 0,5% (bez względu na kod CN), z wyłączeniem towarów dostarczanych na pokładach samolotów,
+r)
+perfum i wód toaletowych (CN 3303 00 10, 3303 00 90), z wyłączeniem towarów dostarczanych na pokładach samolotów,
+s)
+wyrobów klasyfikowanych do CN 2404 i 8543 40 00, przeznaczonych do palenia lub do wdychania bez spalania, z wyłączeniem towarów dostarczanych na pokładach samolotów,
+t)
+wyrobów zawierających w swym składzie alkohol etylowy o objętościowej mocy powyżej 50% objętości, nieprzeznaczonych do spożycia przez ludzi, w tym rozpuszczalników, płynów odkażających, rozcieńczalników farb, płynów do odmrażania,
+u)
+węgla, brykietów i podobnych paliw stałych wytwarzanych z węgla, węgla brunatnego, koksu i półkoksu, przeznaczonych do celów opałowych,
+w)
+towarów przy użyciu urządzeń obsługiwanych przez klienta, które również w systemie bezobsługowym przyjmują należność w bilonie, banknotach lub innej formie (bezgotówkowej) i wydają towar;
+2)
+świadczenia usług:
+a)
+przewozów pasażerskich w samochodowej komunikacji, z wyłączeniem przewozów wymienionych w poz. 19 i 20 załącznika do rozporządzenia,
+b)
+taksówek (PKWiU 49.32.11.0), z wyłączeniem wynajmu samochodów osobowych z kierowcą,
+c)
+naprawy pojazdów silnikowych oraz motorowerów, w tym naprawy opon, ich zakładania, bieżnikowania i regenerowania,
+d)
+w zakresie wymiany opon lub kół dla pojazdów silnikowych oraz motorowerów,
+e)
+w zakresie badań i przeglądów technicznych pojazdów,
+f)
+w zakresie opieki medycznej świadczonej przez lekarzy i lekarzy dentystów, z wyłączeniem usług świadczonych przez osoby wymienione w poz. 51 załącznika do rozporządzenia,
+g)
+prawniczych, z wyłączeniem usług wymienionych w poz. 31 załącznika do rozporządzenia,
+h)
+doradztwa podatkowego,
+i)
+związanych z wyżywieniem (PKWiU ex 56.10, 56.21, ex 56.29, ex 56.30), wyłącznie:
+– świadczonych przez stacjonarne placówki gastronomiczne, w tym również sezonowo, oraz
+– usług przygotowywania żywności dla odbiorców zewnętrznych (catering),
+j)
+fryzjerskich, kosmetycznych i kosmetologicznych,
+k)
+kulturalnych i rozrywkowych – wyłącznie w zakresie wstępu na przedstawienia cyrkowe,
+l)
+związanych z rozrywką i rekreacją – wyłącznie w zakresie wstępu do wesołych miasteczek, parków rozrywki, na dyskoteki, sale taneczne,
+m)
+mycia, czyszczenia samochodów i podobnych usług (PKWiU 45.20.30.0),
+n)
+parkingu samochodów i innych pojazdów,
+o)
+przy użyciu urządzeń, w tym wydających bilety, obsługiwanych przez klienta, które również w systemie bezobsługowym przyjmują należność w bilonie, banknotach lub innej formie (bezgotówkowej).
+2.
+Przepisu ust. 1 nie stosuje się do dostawy towarów i świadczenia usług, o których mowa w poz. 53 i 57 załącznika do rozporządzenia.
+3.
+Przepisu ust. 1:
+1)
+pkt 1 nie stosuje się do:
+a)
+dostawy towarów, o których mowa w ust. 1 pkt 1 lit. b-n, będącej dostawą towarów, o której mowa w poz. 39 załącznika do rozporządzenia,
+b)
+sprzedaży, o której mowa w poz. 54 załącznika do rozporządzenia,
+c)
+dostawy towarów, o których mowa w ust. 1 pkt 1 lit. u, dokonywanej przez przedsiębiorstwo górnicze, w tym kopalnię, jeżeli dostawa ta w całości została udokumentowana fakturą,
+d)
+dostawy towarów przy użyciu urządzeń, o których mowa w ust. 1 pkt 1 lit. w:
+– jeżeli dostawa ta jest dokonywana przy użyciu urządzeń obsługiwanych przez klienta, które w systemie bezobsługowym przyjmują należność w bilonie i nie posiadają stałego zasilania elektrycznego, a towar jest wydawany mechanicznie bez użycia prądu,
+– w zakresie energii elektrycznej, o której mowa w poz. 2 załącznika do rozporządzenia,
+e)
+dostawy towarów, o których mowa w ust. 1 pkt 1 lit. u, będącej dostawą towarów, o której mowa w poz. 56 załącznika do rozporządzenia;
+2)
+pkt 2 nie stosuje się do świadczenia usług:
+a)
+zgodnie z warunkami określonymi w poz. 39 załącznika do rozporządzenia przez podatnika, o którym mowa w art. 8 ust. 2a ustawy,
+b)
+o których mowa w ust. 1 pkt 2 lit. f-h, jeżeli świadczenie tych usług zgodnie z warunkami określonymi w poz. 42 załącznika do rozporządzenia ma miejsce wyłącznie przy wykorzystaniu środków porozumiewania się na odległość, lub których rezultat jest przekazywany wyłącznie przy wykorzystaniu tych środków,
+c)
+o których mowa w ust. 1 pkt 2 lit. f, zgodnie z warunkami określonymi w poz. 51 załącznika do rozporządzenia,
+d)
+o których mowa w ust. 1 pkt 2 lit. i, na pokładach samolotów lub w sposób określony w poz. 47 załącznika do rozporządzenia,
+e)
+o których mowa w ust. 1 pkt 2 lit. n, zgodnie z warunkami określonymi w poz. 38 załącznika do rozporządzenia,
+f)
+przy użyciu urządzeń, o których mowa w ust. 1 pkt 2 lit. o:
+– w zakresie publicznego transportu zbiorowego, o którym mowa w poz. 58 załącznika do rozporządzenia,
+– w zakresie usług, o których mowa w ust. 1 pkt 2 lit. n, świadczonych zgodnie z warunkami określonymi w poz. 38 załącznika do rozporządzenia,
+– w zakresie usług finansowych, o których mowa w poz. 28 załącznika do rozporządzenia.
+§ 5.
+1.
+W przypadku podatników korzystających ze zwolnienia, o którym mowa w § 3 ust. 1:
+1)
+pkt 1, zwolnienie to traci moc po upływie dwóch miesięcy następujących po miesiącu, w którym wartość sprzedaży podatnika dokonanej na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych przekroczyła kwotę 20 000 zł;
+2)
+pkt 2, zwolnienie to traci moc po upływie dwóch miesięcy następujących po miesiącu, w którym wartość sprzedaży podatnika z tytułu dostawy towarów lub świadczenia usług na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych, w proporcji do okresu wykonywania tych czynności, przekroczyła kwotę 20 000 zł;
+3)
+pkt 3, zwolnienie to traci moc po upływie dwóch miesięcy, licząc od końca półrocza danego roku podatkowego, w którym podatnik korzysta z tego zwolnienia, jeżeli w okresie tego półrocza udział procentowy sprzedaży był równy 80% albo niższy niż 80%;
+4)
+pkt 4:
+a)
+lit. a, u których udział procentowy sprzedaży w okresie pierwszych sześciu miesięcy jest równy 80% albo niższy niż 80%, zwolnienie to traci moc po upływie dwóch miesięcy następujących po miesiącu, w którym upłynął ten okres,
+b)
+lit. b, u których udział procentowy sprzedaży za okres do końca roku podatkowego jest równy 80% albo niższy niż 80%, zwolnienie to traci moc po upływie dwóch miesięcy od zakończenia tego roku podatkowego.
+2.
+W przypadku podatników korzystających ze zwolnienia, o którym mowa w § 3 ust. 1, zwolnienie to traci moc z chwilą wykonania czynności, o której mowa w § 4 ust. 1.
+3.
+W przypadku gdy przepisy ust. 1 i 2 przewidują różne terminy utraty mocy zwolnień, o których mowa w § 3 ust. 1, zwolnienia te tracą moc w terminie najwcześniejszym.
+§ 6.
+W przypadku podatników, którzy w 2024 r. przestali spełniać warunki do zwolnienia z obowiązku prowadzenia ewidencji, stosuje się terminy rozpoczęcia prowadzenia ewidencji określone w przepisach rozporządzenia Ministra Finansów z dnia 24 listopada 2023 r. w sprawie zwolnień z obowiązku prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących (Dz. U. poz. 2605).
+§ 7.
+1.
+W przypadku podatników, którzy:
+1)
+nie przestali spełniać warunków do zwolnienia z obowiązku prowadzenia ewidencji przed dniem wejścia w życie niniejszego rozporządzenia oraz
+2)
+nie zostali zwolnieni z obowiązku prowadzenia ewidencji na podstawie § 2 i § 3
+zwolnienie z obowiązku prowadzenia ewidencji traci moc z dniem 1 lipca 2025 r., z zastrzeżeniem § 8 ust. 2–4.
+2.
+Zwolnienia, o którym mowa w § 3 ust. 1 pkt 1, nie stosuje się w przypadku podatników, którzy w 2024 r. byli obowiązani do prowadzenia ewidencji lub przestali spełniać warunki do zwolnień, o których mowa w § 3 ust. 1 pkt 1 rozporządzenia Ministra Finansów z dnia 24 listopada 2023 r. w sprawie zwolnień z obowiązku prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących.
+3.
+Zwolnienia, o którym mowa w § 3 ust. 1 pkt 3, nie stosuje się w przypadku podatników, którzy w 2024 r. przestali spełniać warunki do zwolnień, o których mowa w § 3 ust. 1 pkt 3 i 4 rozporządzenia Ministra Finansów z dnia 24 listopada 2023 r. w sprawie zwolnień z obowiązku prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących.
+§ 8.
+1.
+W przypadku podatników korzystających ze zwolnień, o których mowa w § 2 i § 3, którzy:
+1)
+w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r. kontynuują lub rozpoczynają dostawę towarów, o których mowa w § 4 ust. 1 pkt 1 lit. s-u,
+2)
+przed dniem 1 stycznia 2025 r. zaprzestali dostawy towarów, o których mowa w § 4 ust. 1 pkt 1 lit. s-u, a następnie w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r. rozpoczną dostawę tych towarów
+dostawa tych towarów nie wyłącza korzystania z tych zwolnień do dnia 30 czerwca 2025 r.
+2.
+W przypadku podatników korzystających ze zwolnień, o których mowa w § 2 i § 3, którzy:
+1)
+w okresie od dnia 1 stycznia 2025 r. do dnia 31 marca 2026 r. kontynuują lub rozpoczynają świadczenie usług, o których mowa w § 4 ust. 1 pkt 2 lit. n,
+2)
+przed dniem 1 stycznia 2025 r. zaprzestali świadczenia usług, o których mowa w § 4 ust. 1 pkt 2 lit. n, a następnie w okresie od dnia 1 stycznia 2025 r. do dnia 31 marca 2026 r. rozpoczną świadczenie tych usług
+świadczenie tych usług nie wyłącza korzystania z tych zwolnień do dnia 31 marca 2026 r.
+3.
+W przypadku podatników, którzy:
+1)
+w okresie od dnia 1 stycznia 2025 r. do dnia 31 marca 2026 r. kontynuują lub rozpoczynają świadczenie usług, o których mowa w § 4 ust. 1 pkt 2 lit. a, przy użyciu urządzeń, o których mowa w § 4 ust. 1 pkt 2 lit. o,
+2)
+przed dniem 1 stycznia 2025 r. zaprzestali świadczenia usług, o których mowa w § 4 ust. 1 pkt 2 lit. a, przy użyciu urządzeń, o których mowa w § 4 ust. 1 pkt 2 lit. o, a następnie w okresie od dnia 1 stycznia 2025 r. do dnia 31 marca 2026 r. rozpoczną świadczenie tych usług
+świadczenie tych usług jest zwolnione z obowiązku prowadzenia ewidencji do dnia 31 marca 2026 r.
+4.
+W przypadku podatników, którzy:
+1)
+w okresie od dnia 1 stycznia 2025 r. do dnia 31 marca 2027 r. kontynuują lub rozpoczynają dostawę towarów lub świadczenie usług, innych niż wymienione w ust. 3, przy użyciu urządzeń, o których mowa w § 4 ust. 1 pkt 1 lit. w lub pkt 2 lit. o, z wyłączeniem usług, o których mowa w § 4 ust. 1 pkt 2 lit. m,
+2)
+przed dniem 1 stycznia 2025 r. zaprzestali dostawy towarów lub świadczenia usług, innych niż wymienione w ust. 3, przy użyciu urządzeń, o których mowa w § 4 ust. 1 pkt 1 lit. w lub pkt 2 lit. o, z wyłączeniem usług, o których mowa w § 4 ust. 1 pkt 2 lit. m, a następnie w okresie od dnia 1 stycznia 2025 r. do dnia 31 marca 2027 r. rozpoczną dostawę tych towarów lub świadczenie tych usług
+dostawa tych towarów i świadczenie tych usług są zwolnione z obowiązku prowadzenia ewidencji do dnia 31 marca 2027 r.
+5.
+W przypadku podatników, którzy w 2024 r. rozpoczęli prowadzenie ewidencji czynności wymienionych w poz. 39 lub 40 załącznika do rozporządzenia Ministra Finansów z dnia 24 listopada 2023 r. w sprawie zwolnień z obowiązku prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących, zwolnień, o których mowa w ust. 3 i 4, nie stosuje się.
+§ 9.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
+1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 listopada 2023 r. w sprawie zwolnień z obowiązku prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących (Dz. U. poz. 2605).
+Załącznik –
+Poz. Symbol CN/PKWiU Czynności zwolnione z obowiązku prowadzenia ewidencji I. Dostawa towarów lub świadczenie usług, których przedmiotem są następujące towary lub usługi: 1 PKWiU ex 01.6 Usługi związane z rolnictwem oraz chowem i hodowlą zwierząt, z wyłączeniem usług weterynaryjnych – z wyjątkiem usług podkuwania koni (PKWiU ex 01.62.10.0) 2 CN 2716 00 00 Energia elektryczna 3 CN 2705 00 00 Gaz węglowy, gaz wodny, gaz generatorowy i podobne gazy, inne niż gaz ziemny (mokry) i pozostałe węglowodory gazowe 4 CN 2711 Gaz ziemny (mokry) i pozostałe węglowodory gazowe 5 CN ex 2201 Wody, włącznie z naturalnymi lub sztucznymi wodami mineralnymi i wodami gazowanymi, niezawierające dodatku cukru lub innego środka słodzącego ani aromatyzującego; lód i śnieg – wyłącznie woda dostarczana za pośrednictwem sieci wodociągowych, cysternami lub innymi środkami transportu 6 Bez względu na symbol CN Para wodna i gorąca woda, powietrze do układów klimatyzacyjnych 7 PKWiU 36 Usługi związane z uzdatnianiem i dostarczaniem wody 8 PKWiU ex 37 Usługi związane z odprowadzaniem i oczyszczaniem ścieków; osady ze ścieków kanalizacyjnych, z wyłączeniem usług związanych z opróżnianiem szamb i dołów gnilnych (PKWiU 37.00.12) , chyba że świadczenie tych usług w całości zostało udokumentowane fakturą 9 PKWiU 38.11.1 Usługi związane ze zbieraniem odpadów innych niż niebezpieczne nadających się do recyklingu 10 PKWiU 38.11.2 Usługi związane ze zbieraniem odpadów innych niż niebezpieczne nienadających się do recyklingu 11 PKWiU 38.11.6 Usługi związane z infrastrukturą przeznaczoną do przemieszczania odpadów innych niż niebezpieczne 12 PKWiU 38.12.1 Usługi związane ze zbieraniem odpadów niebezpiecznych 13 PKWiU 38.12.30.0 Usługi związane z infrastrukturą przeznaczoną do przemieszczania odpadów niebezpiecznych nadających się do recyklingu 14 PKWiU 38.21.10.0 Usługi związane z obróbką odpadów innych niż niebezpieczne w celu ich ostatecznego usunięcia 15 PKWiU 38.22.19.0 Usługi związane z przetwarzaniem pozostałych odpadów niebezpiecznych 16 PKWiU ex 38.22.2 Usługi związane z unieszkodliwianiem odpadów promieniotwórczych 17 PKWiU 39 Usługi związane z rekultywacją i pozostałe usługi związane z gospodarką odpadami 18 PKWiU ex 49.31.10.0 Transport kolejowy pasażerski, miejski i podmiejski- dotyczy wyłącznie przewozów metrem rozkładowych pasażerskich, za które są pobierane ceny ustalone przez gminę (Radę m.st. Warszawy) lub związek komunalny 19 PKWiU ex 49.31.2 Pozostały transport lądowy pasażerski, miejski i podmiejski- dotyczy wyłącznie przewozów miejskich rozkładowych pasażerskich, innych niż kolejowe, za które są pobierane ceny ustalone przez gminę (Radę m.st. Warszawy) lub związek komunalny 20 PKWiU ex 49.39.1 Transport lądowy pasażerski, rozkładowy: międzymiastowy i specjalizowany – dotyczy wyłącznie przewozów miejskich rozkładowych pasażerskich, innych niż kolejowe, za które są pobierane ceny ustalone przez gminę (Radę m.st. Warszawy) lub związek komunalny 21 PKWiU ex 53 Usługi pocztowe i kurierskie 22 PKWiU ex 55.10.10.0 Usługi w zakresie noclegów i usługi towarzyszące świadczone przez hotele, motele, pensjonaty i inne obiekty hotelowe- dotyczy wyłącznie usług świadczonych przez obozowiska dla dzieci 23 PKWiU ex 55.20.19.0 Pozostałe usługi obiektów noclegowych turystycznych i miejsc krótkotrwałego zakwaterowania bez obsługi- dotyczy wyłącznie usług świadczonych przez obozowiska dla dzieci 24 PKWiU ex 55.90.1 Pozostałe usługi związane z zakwaterowaniem z wyłączeniem PKWiU 55.90.13.0- dotyczy wyłącznie: usług krótkotrwałego zakwaterowania pozostałych, gdzie indziej niesklasyfikowanych (z wyłączeniem usług hotelarskich i turystycznych), jeżeli świadczenie tych usług w całości zostało udokumentowane fakturą 25 bez względu na symbol PKWiU Usługi telekomunikacyjne, o których mowa w art. 2 pkt 25a ustawy 26 bez względu na symbol PKWiU Usługi nadawcze, o których mowa w art. 2 pkt 25b ustawy, jeżeli podatnik świadczy usługi telekomunikacyjne, o których mowa w art. 2 pkt 25a ustawy 27 bez względu na symbol PKWiU Usługi elektroniczne, o których mowa w art. 2 pkt 26 ustawy, jeżeli podatnik świadczy usługi telekomunikacyjne, o których mowa w art. 2 pkt 25a ustawy 28 PKWiU 64–66 Usługi finansowe i ubezpieczeniowe 29 PKWiU ex 68.20.1 Wynajem i usługi zarządzania nieruchomościami własnymi lub dzierżawionymi, jeżeli świadczenie tych usług w całości zostało udokumentowane fakturą lub świadczący usługę otrzyma w całości zapłatę za wykonaną czynność za pośrednictwem poczty, banku lub spółdzielczej kasy oszczędnościowo-kredytowej (odpowiednio na rachunek bankowy podatnika lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem), a z ewidencji i dowodów dokumentujących zapłatę jednoznacznie wynika, jakiej konkretnie czynności dotyczyła 30 PKWiU ex 68.3 Usługi związane z obsługą rynku nieruchomości, jeżeli świadczenie tych usług w całości zostało udokumentowane fakturą 31 bez względu na symbol PKWiU Czynności notarialne 32 bez względu na symbol PKWiU Usługi wykonywane przez komornika sądowego w ramach czynności egzekucyjnych lub innych czynności przekazanych do kompetencji komornika sądowego na podstawie odrębnych przepisów 33 PKWiU 84 Usługi administracji publicznej i obrony narodowej; usługi w zakresie obowiązkowych zabezpieczeń społecznych 34 PKWiU ex 85 Usługi w zakresie edukacji – z wyłączeniem:- usług w zakresie pozaszkolnych form edukacji sportowej oraz zajęć sportowych i rekreacyjnych (PKWiU 85.51.10.0),- usług świadczonych przez szkoły tańca i instruktorów tańca (PKWiU 85.52.11.0),- usług świadczonych przez szkoły nauki jazdy (PKWiU 85.53.11) 35 PKWiU ex 91.01.12.0 Usługi archiwów publicznych (gromadzenie, katalogowanie, ochrona i odzyskiwanie zbiorów), włączając usługi archiwów historycznych, archiwów i kartotek rządowych, łącznie z usługami archiwów elektronicznych 36 PKWiU 94 Usługi świadczone przez organizacje członkowskie 37 PKWiU 99 Usługi świadczone przez organizacje i zespoły eksterytorialne 38 bez względu na symbol PKWiU Usługi parkingu samochodów i innych pojazdów świadczone przez podatnika na rzecz jego pracowników II. Sprzedaż dotycząca szczególnych czynności 39 Dostawa towarów i świadczenie usług przez podatnika na rzecz jego pracowników oraz przez spółdzielnie mieszkaniowe na rzecz członków lub innych osób, którym przysługuje spółdzielcze własnościowe prawo do lokalu lub które są właścicielami lokali położonych w budynkach administrowanych przez spółdzielnie mieszkaniowe, jak również przez wspólnoty mieszkaniowe na rzecz właścicieli lokali 40 Dostawa nieruchomości 41 Dostawa towarów w systemie wysyłkowym (pocztą lub przesyłkami kurierskimi), jeżeli dostawca towaru otrzyma w całości zapłatę za wykonaną czynność za pośrednictwem poczty, banku lub spółdzielczej kasy oszczędnościowo-kredytowej (odpowiednio na rachunek bankowy podatnika lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem), a z ewidencji i dowodów dokumentujących zapłatę jednoznacznie wynika, jakiej konkretnie czynności dotyczyła i na czyją rzecz została dokonana (dane nabywcy, w tym jego adres) 42 Świadczenie usług na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych, jeżeli świadczący usługę otrzyma w całości zapłatę za wykonaną czynność za pośrednictwem poczty, banku lub spółdzielczej kasy oszczędnościowo-kredytowej (odpowiednio na rachunek bankowy podatnika lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem), a z ewidencji i dowodów dokumentujących zapłatę jednoznacznie wynika, jakiej konkretnie czynności dotyczyła 43 Dzierżawa gruntów oraz oddanie gruntów w użytkowanie wieczyste 44 Przyjmowanie przez rewizorów, w przypadku braku odpowiedniego dokumentu przewozu albo dokumentu uprawniającego do przejazdu bezpłatnego lub ulgowego, należności związanych z wykonywaniem usług przewozu osób oraz przewożonych przez nie rzeczy i zwierząt, a w przypadkach tego wymagających – również opłat dodatkowych (w transporcie kolejowym dotyczy to również należności pobieranych na pokładzie pociągu przez osoby uprawnione do ich poboru na rzecz przewoźnika kolejowego, a w szczególności przez drużyny konduktorskie) 45 Sprzedaż biletów komunikacji lotniczej oraz posiłków i towarów na pokładach samolotów 46 Czynności wymienione w art. 7 ust. 1 pkt 5 i ust. 2 oraz w art. 8 ust. 2 ustawy 47 Usługi stołówek w placówkach wymienionych w art. 43 ust. 9 ustawy, prowadzonych przez te placówki, udostępnianych wyłącznie dla uczniów, studentów i innych podopiecznych oraz nauczycieli i personelu 48 Dostawa towarów i świadczenie usług, do których ma zastosowanie zwolnienie od podatku wymienione w art. 43 ust. 1 pkt 15 ustawy 49 Dostawa produktów rolnych i świadczenie usług rolniczych przez rolników ryczałtowych korzystających ze zwolnienia od podatku na podstawie art. 43 ust. 1 pkt 3 ustawy 50 Dostawa towarów i świadczenie usług, które na podstawie przepisów o podatku dochodowym są zaliczane przez podatnika do środków trwałych lub wartości niematerialnych i prawnych podlegających amortyzacji, jeżeli czynności te w całości zostały udokumentowane fakturą 51 Usługi świadczone osobiście przez osoby niewidome posiadające orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, które prowadzą samodzielnie działalność gospodarczą lub zatrudniają pracowników niewidomych posiadających orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności 52 Dostawa towarów i świadczenie usług przez koła gospodyń wiejskich w rozumieniu ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2023 r. poz. 1179 oraz z 2024 r. poz. 1560 i 1761), w przypadku gdy koło gospodyń wiejskich prowadzi uproszczoną ewidencję przychodów i kosztów na podstawie art. 24 tej ustawy 53 Dostawa towarów i świadczenie usług rozliczanych w procedurach szczególnych, o których mowa w dziale XII w rozdziałach 6a i 7 ustawy 54 Sprzedaż na odległość towarów importowanych, rozliczana w procedurze szczególnej, o której mowa w dziale XII w rozdziale 9 ustawy 55 Dostawa towarów i świadczenie usług przez operatora pocztowego obowiązanego do świadczenia usług powszechnych, wybranego na podstawie art. 71 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) 56 Dostawa węgla kamiennego przez gminę nabytego z przeznaczeniem do sprzedaży dla gospodarstw domowych w ramach zakupu preferencyjnego w rozumieniu ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. z 2024 r. poz. 114) i niesprzedanego do dnia 31 lipca 2023 r., jeżeli dostawa ta w całości jest udokumentowana fakturą 57 Dostawa towarów i świadczenie usług przez podatnika, który korzysta ze zwolnienia na podstawie art. 113a ustawy 58 Sprzedaż biletów w publicznym transporcie zbiorowym przy użyciu urządzeń obsługiwanych przez klienta, które również w systemie bezobsługowym przyjmują należność w:1) bilonie lub banknotach, lub2) innej formie (bezgotówkowej), jeżeli z ewidencji i dowodów dokumentujących zapłatę lub czynność jednoznacznie wynika, jakiej konkretnie czynności zapłata dotyczyła
+

@@ -8,9 +8,10 @@ pos: 78
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 9 marca 1992 r.
+# Ustawa z dnia 14 lutego 1992 r. o zmianie ustawy – Prawo bankowe i niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,173 +25,423 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920200078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/78/text.pdf) |
 
-z
-USTAWA z dnia 14 lutego 1992 r.
-o zmianie ustawy Prawo bankowe i niektórych innych ustaw.
+**Art. 1.** W ustawie z dnia 31 stycznia 1989 r. – Prawo bankowe (Dz. U. Nr 4, poz. 21, Nr 54, poz. 320, Nr 59, poz. 350 i Nr 74, poz. 439 i 440 oraz z 1991 r. Nr 100, poz. 442 i Nr 111, poz. 480) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 31 stycznia 1989 r. Prawo bankowe (Dz. U. 4. poz. 21. 54. poz. 320. 59. poz. 350 i 74. poz. 439 i 440 oraz z 1991 r. 1 00. poz. 442 i 111. poz. 480) wprowadza zmiany:
+**Art. 111.**
+
+1. Z zastrzeżeniem art. 11 ust. 5 Prezes Narodowego Banku Polskiego w porozumieniu z Ministrem Finansów może udzielić spółce prawa handlowego zezwolenia na wykonywanie niektórych czynności bankowych, z wyłączeniem w szczególności przyjmowania wkładów oszczędnościowych i lokat terminowych, emitowania papierów wartościowych i wydawania gwarancji bankowych.
+
+2. W zezwoleniu, o którym mowa w ust. 1, określa się szczegółowo warunki wykonywania dopuszczonych nim czynności bankowych.
+
+3. Prezes Narodowego Banku Polskiego w porozumieniu z Ministrem Finansów określi w drodze zarządzenia tryb wydawania zezwoleń, o których mowa w ust. 1, oraz wykonywania nadzoru nad realizacją czynności bankowych dopuszczonych tymi zezwoleniami. ” ;
+
+- **6)** w art. 12 w ust. 1: dodaje się nowy pkt 1 w brzmieniu: „
+    - **a)**
+
+- **1)** warunki otwierania i prowadzenia rachunków bankowych, ” dotychczasowe pkt 1–4 otrzymują oznaczenie pkt 2–5;
+    - **b)**
+
+- **7)** w art. 13: w ust. 2: – w pkt 1 skreśla się wyrazy „dla rozliczeń krajowych”, – w pkt 2 skreśla się wyrazy „dla określonych rozliczeń krajowych”, – skreśla się pkt 4, w ust. 3 wyrazy „w innym banku rachunku pomocniczego lub rachunku dla rozliczeń zagranicznych” zastępuje się wyrazami „rachunku w innym banku”;
+    - **a)**
+    - **b)**
+
+- **8)** skreśla się art. 15;
+- **9)** w art. 16 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** określa ogólne warunki otwierania i prowadzenia rachunków bankowych,
+- **2)** określa formy i tryb przeprowadzania rozliczeń pieniężnych za pośrednictwem banków ” ;
+- **10)** w art. 21 wyrazy „pracowników jednostek gospodarki uspołecznionej w roku kalendarzowym poprzedzającym zajęcie” zastępuje się wyrazami „pracowników w gospodarce narodowej, publikowanej przez Główny Urząd Statystyczny”;
+- **11)** w art. 22 w ust. 1 w pkt 2 wyrazy „pracowników w gospodarce uspołecznionej” zastępuje się wyrazami „pracowników w gospodarce narodowej, publikowanej przez Główny Urząd Statystyczny”;
+- **12)** w art. 30: dotychczasowa treść otrzymuje oznaczenie ust. 1, dodaje się ust. 2 i 3 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2. W razie ustanowienia zastawu na pojeździe mechanicznym podlegającym rejestracji, zastaw zostaje odnotowany w dowodzie rejestracyjnym pojazdu.
+
+3. Minister Transportu i Gospodarki Morskiej określi tryb dokonywania adnotacji, o której mowa w ust. 2. ” ,
+
+- **13)** w art. 35: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W celu zapobieżenia nadmiernej koncentracji kredytów i innych wierzytelności:
+
+- **1)** suma kredytów i pożyczek pieniężnych oraz wierzytelności z tytułu gwarancji bankowych, poręczeń i akredytyw oraz innych zobowiązań banku zaciąganych na zlecenie klienta w stosunkach z jednym podmiotem lub grupą związanych ze sobą kapitałowo lub organizacyjnie podmiotów nie może przekroczyć 15%
+- **2)** wierzytelność wynikająca z jednej umowy nie może przekroczyć 10% sumy funduszy własnych banku. ” , w ust. 2 wyrazy „niepodzielnych funduszy własnych banku oraz środków pieniężnych zgromadzonych w banku na rachunkach lokat terminowych” zastępuje się wyrazami „funduszy własnych banku”, w ust. 3 kropkę na końcu zastępuje się przecinkiem i dodaje wyrazy „jednakże do wysokości nie przekraczającej 50% funduszy własnych banku.”, dodaje się nowe ust. 4 i 5 w brzmieniu: „
+    - **b)**
+    - **c)**
+    - **d)**
+
+4. Fundusze własne banku, o których mowa w ust. 1–3, stanowią:
+
+- **1)** w banku państwowym – fundusz statutowy, fundusz rezerwowy i fundusz zapasowy,
+- **2)** w banku w formie spółki akcyjnej – kapitał akcyjny oraz wszelkiego rodzaju fundusze zapasowe i rezerwowe,
+- **3)** w bankach spółdzielczych – fundusz udziałowy, fundusz zasobowy i fundusz rezerwowy,
+- **4)** inne fundusze zaliczone przez Prezesa Narodowego Banku Polskiego do funduszy własnych.
+
+5. Prezes Narodowego Banku Polskiego:
+
+- **1)** określi, w drodze zarządzenia, banki, które do czasu odpowiedniego zwiększenia funduszy własnych mogą w zakresie, o jakim mowa w ust. 1 i 2, uwzględniać również środki pieniężne zgromadzone na rachunkach bankowych, oraz ustali obowiązujące wówczas wskaźniki procentowe dopuszczalnej koncentracji kredytów i innych wierzytelności,
+- **2)** może zezwolić bankom na traktowanie, jako określonej części funduszy własnych, środków pieniężnych zgromadzonych na rachunkach lokat długoterminowych, jeżeli zostało zapewnione pozostawanie tych środków w banku przez okres dłuższy niż 3 lata,
+- **3)** może zezwolić na to, aby dla celów określonych w ust. 1 była uwzględniana łączna suma funduszy własnych banków, związanych ze sobą kapitałowo i organizacyjnie. Decyzje w tej sprawie Prezes Narodowego Banku Polskiego może uzależnić od spełnienia postawionych przez niego wymogów. ” , dotychczasowy ust. 4 otrzymuje oznaczenie ust. 6; w ustępie tym skreśla się wyrazy „na wniosek kredytobiorcy”;
+    - **e)**
+
+- **14)** w art. 40 w ust. 2 dodaje się zdanie drugie i trzecie w brzmieniu: „ W treści gwarancji określa się w szczególności uprawnienia, jakie z niej wynikają, osobę upoważnioną do wykonywania tych uprawnień, gwarantowaną kwotę oraz termin obowiązywania gwarancji. Prezes Narodowego Banku Polskiego określi, w drodze zarządzenia, szczegółowy tryb i formy udzielania gwarancji bankowych. ” ;
+- **15)** w art. 42 w ust. 1 wyrazy „Polska Rzeczpospolita Ludowa” zastępuje się wyrazami „Rzeczpospolita Polska”;
+- **16)** w art. 48: w ust. 2 skreśla się na końcu wyrazy „i organom państwowym upoważnionym do tego na podstawie obowiązujących przepisów”, w ust. 3 dodaje się zdanie drugie i trzecie w brzmieniu: „ Informacje w powyższym zakresie dotyczącym podmiotów gospodarczych banki okresowo przekazują właściwym miejscowo oddziałom okręgowym Narodowego Banku Polskiego. Prezes Narodowego Banku Polskiego ustali zakres informacji o podmiotach gospodarczych, tryb ich przekazywania, a także udostępniania bankom. ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+4. Informacje o obrotach i stanach rachunków bankowych nie mogą być udzielane poza przypadkami określonymi w ust. 2 i 3, chyba że informacji takich zażąda sąd lub prokurator w związku z toczącą się:
+
+- **1)** przeciwko posiadaczowi rachunku będącemu osobą fizyczną – sprawą karną, karną skarbową lub sprawą o alimenty, o rentę o charakterze alimentacyjnym lub podział majątku wspólnego małżonków, a także w postępowaniu spadkowym,
+- **2)** sprawą karną lub karną skarbową o przestępstwo popełnione w zakresie działalności osoby prawnej lub jednostki organizacyjnej nie posiadającej osobowości prawnej, która jest posiadaczem rachunku. ” ;
+- **17)** po art. 48 dodaje się art. 481 w brzmieniu: „
+
+**Art. 481.** Banki są obowiązane ogłaszać swoje zweryfikowane bilanse oraz rachunki zysków i strat na zasadach określonych przez Prezesa Narodowego Banku Polskiego. ” ;
+
+**Art. 51.** Minister Sprawiedliwości w porozumieniu z Prezesem Narodowego Banku Polskiego, w drodze rozporządzenia, określi ulgowe stawki opłat sądowych oraz zwolnienia od tych opłat w sprawach o zabezpieczenie należności z tytułu udzielonych kredytów, gwarancji i poręczeń. ” ;
+
+**Art. 59.**
+
+1. Organami banku państwowego są rada nadzorcza i zarząd.
+
+2. Radę nadzorczą powołuje się na okres trzech lat spośród osób posiadających odpowiednie kwalifikacje. Przewodniczącego rady nadzorczej powołuje i odwołuje Prezes Rady Ministrów na wniosek Ministra Finansów, uzgodniony z Prezesem Narodowego Banku Polskiego. Członkowie rady są powoływani w równej liczbie przez Ministra Finansów, Prezesa Narodowego Banku Polskiego i pracowników banku spośród osób nie będących członkami zarządu. Odwołanie członków rady następuje w takim samym trybie, w jakim zostali oni powołani.
+
+3. Tryb powoływania członków rady nadzorczej przez pracowników banku określi Minister Finansów.
+
+4. Prezesa zarządu banku państwowego powołuje i odwołuje rada nadzorcza banku. Wiceprezesów i pozostałych członków zarządu powołuje i odwołuje rada nadzorcza banku na wniosek prezesa zarządu.
 
 **Art. 60.**
 
-1. Rada nadzorcza sprawuje nadzór nad dzia banku zatwierdza jego bilans, przyjmuje sprawozdania z dzia banku, udziela banku oraz ciach banku.
+1. Rada nadzorcza sprawuje nadzór nad działalnością banku państwowego, zatwierdza jego bilans, przyjmuje sprawozdania z działalności banku, udziela zarządowi banku zaleceń oraz może zawieszać w czynnościach członków zarządu banku.
 
-2. banku rozpatruje sprawy banku oraz podejmuje tych sprawach których wykonanie za pewnia prezes banku.
+2. Zarząd banku rozpatruje sprawy dotyczące działalności banku oraz podejmuje w tych sprawach uchwały, których wykonanie zapewnia prezes zarządu banku.
 
-3. Rada nadzorcza uchyla banku razie stwierdzenia, jest ona niezgodna z przepisami prawa lub statutem banku.
+3. Rada nadzorcza uchyla uchwałę zarządu banku w razie stwierdzenia, ze jest ona niezgodna z przepisami prawa lub statutem banku.
 
-4. Prezes banku re prezentuje bank na przewodni czy banku oraz organizuje dzia banku.
+4. Prezes zarządu banku państwowego reprezentuje bank na zewnątrz, przewodniczy zarządowi banku oraz organizuje działalność banku.
 
-5. zakres rady nadzor czej i statut banku wowego.";
+5. Szczegółowy zakres działania rady nadzorczej i zarządu określa statut banku państwowego. ” ;
 
-- **25)** rozdziale 5 C. Banki
-- **26)** wart. 75 ust. 2 na przecinkiem i dodaje wyrazy statut banku nie stanowi inaczej.";
-- **27)** art. 76;
-- **28)** art. otrzymuje brzmienie: "Art. 78. 1. Bank formie akcyjnej jest zany:
-- **1)** Narodowemu Bankowi Pols kiemu przypadki posiadania przez jed nego akcjonariusza pakietu akcji cego prawo do ponad 10% podczas walnego zgromadzenia,
-- **2)** Narodowego Banku Po lskiego na J1rzeniesienie akcji, jego wyniku jeden akcjonariusz dzie pakietem akcji cym prawo do ponad 20%, 33%, 50%, 66% lub 75% podczas walnego zgromadzenia.
+- **25)** w rozdziale 5 skreśla się podrozdział C. Banki państwowo-spółdzielcze;
+- **26)** w art. 75 w ust. 2 kropkę na końcu zastępuje się przecinkiem i dodaje wyrazy „jeżeli statut banku nie stanowi inaczej.”;
+- **27)** skreśla się art. 76;
+- **28)** art. 78 otrzymuje brzmienie: „
 
-2. Akcjonariusz jest bank o zamiarze nabycia akcji, które wraz z akcjami jego dyspozycji pakiet prawo do przewidzianej ust. 1. W razie tego akcjona riusz ma prawo do 10% podczas walnego zgromadzenia lub takiej liczby która wynika z uzys kanej. zgody. Przez podmiot rozu mie podmiot sytuacji przepisach art. 2 pkt 9 i art. 4 ustawy, o której mowa ust. 4.
+**Art. 78.**
 
-4. Przepisy niniejszego nie przepisów 7 ustawy z dnia 22 marca 1991 r. Prawo o publicznym obrocie papierami i fun duszach powierniczych (Dz. U. 35, poz. 155 i 103, poz. 447).";
+1. Bank w formie spółki akcyjnej jest obowiązany:
 
-- **29)** art. 80 i 81 brzmienie: "Art. 80. 1. Utworzenie banku
-- **1)** zapewnione ban ku w:
-    - **a)** którego dostosowana do rodzajów bankowych przewidzia nych do wykonywania i do rozmia rów zamierzonej z tym jeden cicielem nie tego z przepisu art. 57 ust. 2,
-    - **b)** pomieszczenia przystosowane do na zabezpieczenia przechowy wanych banku lub na do takiego przystosowania,
+- **1)** zgłaszać Narodowemu Bankowi Polskiemu przypadki posiadania przez jednego akcjonariusza pakietu akcji dającego prawo do ponad 10% głosów podczas walnego zgromadzenia,
+- **2)** uzyskać zgodę Narodowego Banku Polskiego na przeniesienie akcji, jeżeli w jego wyniku jeden akcjonariusz będzie dysponował pakietem akcji dającym prawo do ponad 20%, 33%, 50%, 66% lub 75% głosów podczas walnego zgromadzenia.
 
-- **2)** oraz osoby przewidziane do banku stanowisk kierowni czych prowadzenia dzia sposób zabezpie interesy klientów banku,
-- **3)** co najmniej dwie osoby przewidziane do banku stanowisk kierow niczych i do zawodowe do kierowania bankiem,
-- **4)** przedstawiony przez plan banku na okres co najmniej trzyletni wskazuje, ta dzie bezpieczna dla nych gromadzonych banku.
+2. Akcjonariusz obowiązany jest zawiadomić bank o zamiarze nabycia akcji, które wraz z akcjami będącymi w jego dyspozycji będą stanowić pakiet dający prawo do głosów w ilości przewidzianej w ust. 1. W razie niedopełnienia tego obowiązku, akcjonariusz ma prawo do 10% głosów podczas walnego zgromadzenia lub takiej liczby głosów, która wynika z wcześniej uzyskanej zgody.
 
-2. banku nie z kredytu lub jakikowiek spo sób
+3. Nabycie lub posiadanie akcji przez podmiot zależny uważa się za nabycie lub posiadanie przez podmiot dominujący. Przez podmiot dominujący (zależny) rozumie się podmiot w sytuacji określonej w przepisach art. 2 pkt 9 i art. 4 ustawy, o której mowa w ust. 4.
 
-3. Bank po stwierdzeniu przez Narodowy Bank Po lski posiadania przystosowa nych do zabezpieczenia prze chowywanych banku
+4. Przepisy niniejszego artykułu nie naruszają przepisów rozdziału 7 ustawy z dnia 22 marca 1991 r. – Prawo o publicznym obrocie papierami wartościowymi i funduszach powierniczych (Dz. U. Nr 35, poz. 155 i Nr 103, poz. 447). ” ;
+
+- **29)** art. 80 i 81 otrzymują brzmienie: „
+
+**Art. 80.**
+
+1. Utworzenie banku może nastąpić, jeżeli:
+
+- **1)** zostało zapewnione wyposażenie banku w: kapitał własny, którego wielkość będzie dostosowana do rodzajów czynności bankowych przewidzianych do wykonywania i do rozmiarów zamierzonej działalności, z tym że jeden założyciel może być właścicielem nie więcej niż połowy tego kapitału, z zastrzeżeniem przepisu art. 57 ust. 2, pomieszczenia przystosowane do należytego zabezpieczenia przechowywanych w banku wartości lub nadające się do takiego przystosowania,
+    - **a)**
+    - **b)**
+
+- **2)** założyciele oraz osoby przewidziane do objęcia w banku stanowisk kierowniczych dają rękojmię prowadzenia działalności w sposób należycie zabezpieczający interesy klientów banku,
+- **3)** co najmniej dwie osoby przewidziane do objęcia w banku stanowisk kierowniczych posiadają wykształcenie i doświadczenie zawodowe niezbędne do kierowania bankiem,
+- **4)** przedstawiony przez założycieli plan działalności banku na okres co najmniej trzyletni wskazuje, ze działalność ta będzie bezpieczna dla środków pieniężnych gromadzonych w banku.
+
+2. Kapitał własny banku nie może pochodzić z pożyczki, kredytu lub w jakikolwiek sposób być obciążony.
+
+3. Bank może podjąć działalność operacyjną po stwierdzeniu przez Narodowy Bank Polski posiadania pomieszczeń przystosowanych do należytego zabezpieczenia przechowywanych w banku wartości.
 
 **Art. 81.**
 
-1. Wniosek do Prezesa Narodowego Banku Polskiego o zgody na utworze nie banku powinien
+1. Wniosek do Prezesa Narodowego Banku Polskiego o wyrażenie zgody na utworzenie banku powinien zawierać:
 
-- **1)** i banku,
-- **2)** rodzaje bankowych, do któ rych wykonywania bank ma upo oraz dane o zakresie zamie rzonej
-- **3)** dane
-    - **a)** i osób przewidzianych do banku stanowisk kierow niczych,
-    - **b)** przygotowanego i przewidzianego do zgromadzenia który zostanie bank.
+- **1)** nazwę i siedzibę banku,
+- **2)** rodzaje czynności bankowych, do których wykonywania bank ma być upoważniony, oraz dane o zakresie zamierzonej działalności,
+- **3)** dane dotyczące: założycieli i osób przewidzianych do objęcia w banku stanowisk kierowniczych, przygotowanego i przewidzianego do zgromadzenia kapitału, w który zostanie wyposażony bank.
+    - **a)**
+    - **b)**
 
-- **30)** art. 82: najmniej trzyletni.
+2. Do wniosku załącza się:
 
-3. Prezes Narodowego Banku Polskiego, porozumieniu z Ministrem Finansów, drodze wymagania banku we a mini mum banku z polskiego i banku z kapi zagranicznego, a tryb wania przy informacji i wydawa niu decyzji sprawie zgody przypadkach, o których mowa wart. ust. 1."; pie tym wyrazy "jednego wyrazami "trzech i wyraz "od
+- **1)** projekt statutu banku,
+- **2)** program działalności banku na okres co najmniej trzyletni.
 
-- **a)** oznacza jako ust. 1;
-- **b)** dodaje ust. 2 brzmieniu: ,,2. Prezes Narodowego Banku Polskiego uzasad nionych przypadkach termin, o którym mowa ust. 1, do
-- **31)** art. 83 otrzymuje brzmienie: "Art. 83. 1. Decyzja o przez Prezesa Narodo wego Banku Polskiego zgody na utworzenie banku, o którym mowa wart. 81, obejmuje jego bankowych, do których wykonywania bank jest oraz nazwy (nazwiska) Decyzja ta jest dla banku oraz dla banku.
+3. Prezes Narodowego Banku Polskiego, w porozumieniu z Ministrem Finansów, w drodze zarządzenia, określi szczegółowe wymagania dotyczące wyposażenia banku we własny kapitał, a w szczególności minimum kapitału własnego banku z udziałem kapitału polskiego i banku z udziałem kapitału zagranicznego, a także tryb postępowania przy składaniu informacji i wydawaniu decyzji w sprawie wyrażenia zgody w przypadkach, o których mowa w art. 78 ust. 1. ” ;
 
-2. W zakresie ust. 1 statut banku powinien zgodny z o której mowa tym przepisie, a zmiana statutu wymaga zgody Prezesa Narodowe go Banku Polskiego.
+- **30)** w art. 82: dotychczasową treść oznacza się jako ust. 1; w ustępie tym wyrazy „jednego miesiąca” zastępuje się wyrazami „trzech miesięcy” i skreśla się wyraz „odpowiednią”, dodaje się ust. 2 w brzmieniu: „
+    - **a)**
+    - **b)**
 
-3. na utworzenie banku przez osoby zagraniczne lub z zagranicznego, Prezes Narodowe go Banku Polskiego zysku, osoba zagraniczna za bez zezwolenia dewi zowego, przy czym ta nie 15% zysku osobie zagranicznej.
+2. Prezes Narodowego Banku Polskiego w uzasadnionych przypadkach może przedłużyć termin, o którym mowa w ust. 1, do sześciu miesięcy. ” ;
 
-4. Do wniosku o zgody na statutu banku przepisy art. 81 i 82 stosuje odpowiednio.
+- **31)** art. 83 otrzymuje brzmienie: „
 
-5. Do pracowników banku cych osobami zagranicznymi zakresie zakupu waluty obcej i jej przekazania za stosuje odpowiednio przepisy o z zagranicz nego.
+**Art. 83.**
 
-6. Decyzja o zgody na utworzenie banku traci moc, okresie roku od jej wydania bank nie
+1. Decyzja o wyrażeniu przez Prezesa Narodowego Banku Polskiego zgody na utworzenie banku, o którym mowa w art. 81, obejmuje jego nazwę, siedzibę, określenie czynności bankowych, do których wykonywania bank jest upoważniony, oraz nazwy (nazwiska) założycieli. Decyzja ta jest wiążąca dla założycieli banku oraz dla banku.
 
-- **32)** art 86 otrzymuje brzmienie: "Art. 86. Otwarcie na obszarze Rzeczypospolitej Pol skiej lub przedstawicielstwa zagrani cznego banku za Prezesa Finansów. W decyzji tej oznaczone, jaka zagranicznego banku powinna na operacje finan sowe na obszarze Rzeczypospolitej Polskiej.";
-- **33)** art. 86 otrzymuje brzmienie: "Art. 86 Bank bank formie akcyjnej.";
-- **34)** wart. 86
-    - **a)** zdaniu wyrazy "a przypad ku banku po uzyskaniu stosownej zjazdu delegatów tego banku,"
-    - **b)** pkt 1 i 2 wyrazy "lub banku
+2. W zakresie określonym w ust. 1 statut banku powinien być zgodny z decyzją, o której mowa w tym przepisie, a zmiana statutu wymaga zgody Prezesa Narodowego Banku Polskiego.
 
-- **35)** art. 86 otrzymuje brzmienie: "Art. 86 1. banku lub banku nie powoduje zmian za kresie i cych z art. 49 oraz z zawartych przez bank umów i decyzji administracyjnych. Bank formie akcyjnej przejmuje wierzy i banku lub banku
+3. Wyrażając zgodę na utworzenie banku przez osoby zagraniczne lub z udziałem kapitału zagranicznego, Prezes Narodowego Banku Polskiego określa część zysku, którą osoba zagraniczna może przekazać za granicę bez odrębnego zezwolenia dewizowego, przy czym część ta nie może być niższa niż 15% zysku wypłaconego osobie zagranicznej.
 
-2. Pracownicy banku z mocy prawa pracownikami banku formie akcyjnej.
+4. Do wniosku o wyrażenie zgody na zmianę statutu banku przepisy art. 81 i 82 stosuje się odpowiednio.
 
-3. Za ze stosunku pracy, przed banku, odpowiada bank formie akcyjnej.";
+5. Do uprawnień pracowników banku będących osobami zagranicznymi w zakresie zakupu waluty obcej i jej przekazania za granicę stosuje się odpowiednio przepisy o spółkach z udziałem kapitału zagranicznego.
 
-- **36)** wart. 86 na przecinkiem i dodaje wyrazy "z art. 313 i 347.";
-- **37)** dodaje art. 86 i 86 brzmieniu: "Art. 86 1. Do czasu osobom trzecim akcji banku wyniku prze banku wowego, którym nadzor wart. 59 ust. 2, pracownicy banku swoich przedstawicieli do rady banku li czbie nie 1/3 rady.
+6. Decyzja o wyrażeniu zgody na utworzenie banku traci moc, jeżeli w okresie roku od jej wydania bank nie podjął działalności. ” ;
 
-2. Minister Finansów dla banku przedstawicieli pracowni ków, o których mowa ust. 1, oraz tryb i zasady ich wyboru.
+- **32)** art. 86 otrzymuje brzmienie: „
 
-3. Przy osobom trzecim nale do Skarbu akcji banku wyniku banku przepisy 3 oraz art. 44 ustawy z dnia 13 lipca 1990 o prywatyzacji (Dz. U. 51, poz. 298 oraz z 1991 r. 60, poz. 253 i 111, poz. 480) stosuje odpowiednio, z tym przewidziane tych przepisach uprawnienia Ministra Prze wykonuje Mi nister Finansów. Art. 86 7 Za notarialne z prze banku banku biuro notarialne pobiera notarial przez Ministra drodze
+**Art. 86.** Otwarcie na obszarze Rzeczypospolitej Polskiej oddziału lub przedstawicielstwa zagranicznego banku może nastąpić za zgodą Prezesa Narodowego Banku Polskiego, wydaną w formie decyzji w porozumieniu z Ministrem Finansów. W decyzji tej może być oznaczone, jaka część środków kapitału zagranicznego banku powinna być użyta na operacje finansowe wyłącznie na obszarze Rzeczypospolitej Polskiej. ” ;
 
-- **38)** 6. Rada Banków;
-- **39)** wart. 96:
-    - **a)** dotychczasowa otrzymuje oznaczenie ust. 1,
-    - **b)** dodaje ust. 2 i 3 brzmieniu: ,,2. Banki kosztów od pisu na fundusz ryzyka pokryciu strat z udzielonych kredytów i
+**Art. 861.** Bank państwowy może być przekształcony w bank w formie spółki akcyjnej. ” ;
 
-3. Maksymalna corocznego odpisu, o którym mowa ust. 2, wynosi 1 % kwoty nie kredytów i na koniec poszczególnych roku bilan sowego z udzielonych kredytów i czek, nie jednak kwota odpisu na fundusz ryzyka, dokonywanego roku z zysku banku.";
+**Art. 863.**
 
-- **40)** wart. 97 zdanie drugie;
-- **41)** dodaje art. 97 brzmieniu: "Art. 97 1. Banki miejscu wykonywania czynnoscl bankowych, sposób ogólnie stosowane przez nie stawki oprocentowania lokat i na rachunkach bankowych, kredytów i a prowizji za i bankowe.
+1. Przekształcenie banku państwowego lub banku państwowo-spółdzielczego w spółkę akcyjną nie powoduje zmian w zakresie uprawnień i obowiązków wynikających z art. 49 oraz z zawartych przez bank umów i decyzji administracyjnych. Bank w formie spółki akcyjnej przejmuje wierzytelności i długi banku państwowego lub banku państwowo-spółdzielczego.
 
-2. Bank nie wobec pracow ników, akcjonariuszy i organów banku stawek opro centowania wych, lokat i na rachunkach terminowych oraz kredytów korzy stniejszych od ogólnie stosowanych przez ten bank czasie zawierania umowy z tymi osobami.
+2. Pracownicy przekształconego banku stają się z mocy prawa pracownikami banku w formie spółki akcyjnej.
 
-3. W przypadku, o którym mowa ust. 2, przepisy art. 100 i 101 stosuje od powiednio.";
+3. Za zobowiązania wynikające ze stosunku pracy, powstałe przed przekształceniem banku, odpowiada bank w formie spółki akcyjnej. ” ;
 
-- **42)** 8. Rady pracownicze;
-- **43)** wart. 100:
-    - **a)** ust. 4 pkt 5 po wyrazie "lokat," dodaje wyrazy "ze szczególnym przypadków, o których mowa wart. 97 ust. 1,",
-    - **b)** dodaje ust. 5 brzmieniu: ,,5. na cele nadzoru ust. 3, Prezes Narodowego Banku Polskiego ustala banki:
+- **36)** w art. 865 kropkę na końcu zastępuje się przecinkiem i dodaje wyrazy „z wyłączeniem art. 313 i 347.”;
+- **37)** dodaje się art. 866 i 867 w brzmieniu: „
 
-- **1)** normy normy pokrycia funduszami aktywów banku oraz normy dopuszczalnego ryzyka banków,
-- **2)** zasady przy zawieraniu umów rachunku bankowego, przyjmowaniu depo zytów oraz wykonywaniu innych jak zawiadamiania wych organów razie ujaw nienia loko wane banku lub inne z wa lub z uczestnictwa jego
-- **3)** zasady przy dokonywaniu gotówkowych okre rejestrowania tych i prze chowywania z tym dokumentów.";
-- **44)** art. 101 otrzymuje brzmienie: "Art. 101. 1. Prezes Narodowego Banku Polskiego ramach nadzoru bankowi:
-- **1)** koniecznych do przywrócenia lub norm, o których mowa wart. 100 ust. 5 pkt 1,
-- **2)** funduszy
-- **3)** zaniechanie form rekla my.
+**Art. 866.**
 
-2. W razie stwierdzenia, bank uporczywie nie realizuje ust. 1 lub banku jest wykonywana z naruszeniem prawa lub statutu albo stwarza istotne dla in teresów posiadaczy i lokat zgromadzonych ban ku, Prezes Narodowego Banku Polskiego, po bezskutecznym upomnieniu na
+1. Do czasu udostępnienia osobom trzecim akcji banku powstałego w wyniku przekształcenia w spółkę akcyjną banku państwowego, w którym powołano radę nadzorczą w składzie określonym w art. 59 ust. 2, pracownicy banku wybierają swoich przedstawicieli do składu rady banku w liczbie nie przekraczającej 1/3 składu rady.
 
-- **1)** do organu ban ku z wnioskiem o prezesa, wiceprezesa lub innego za banku odpowie dzialnego za stwierdzone nieprawid
-- **2)** o których mowa pkt 1, do czasu rozpatrzenia wniosku o ich od zawieszenie polega na z podejmowa nia decyzji za bank zakresie jego praw i
-- **3)** zakres banku; ograniczenie to polega na zakazie za wierania nowych umów,
-- **4)** o zgody na utworzenie banku i jego lik
+2. Minister Finansów określi dla każdego banku liczbę przedstawicieli pracowników, o których mowa w ust. 1, oraz tryb i zasady ich wyboru.
 
-3. Ograniczenie lub decyzji o wy zgody na utworzenie banku razie stwierdzenia, bank nie warunków decyzji o jego utworzeniu.
+3. Przy udostępnianiu osobom trzecim należących do Skarbu Państwa akcji banku powstałego w wyniku przekształcenia banku państwowego przepisy rozdziału 3 oraz art. 44 ustawy z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych (Dz. U. Nr 51, poz. 298 oraz z 1991 r. Nr 60, poz. 253 i Nr 111, poz. 480) stosuje się odpowiednio, z tym zastrzeżeniem, że przewidziane w tych przepisach uprawnienia Ministra Przekształceń Własnościowych wykonuje Minister Finansów.
 
-4. bank jego funduszy albo gdy istnieje realne zagro powstania strat takim rozmiarze, Prezes Narodowego Banku Polskiego od zastosowania sank cji ust. 2 pkt 1-3, ustano tymczasowy na okres nie szy 3 tymczasowy podejmuje za bank decyzje zakresie jego praw i
+**Art. 867.** Za czynności notarialne związane z przekształceniem banku państwowego, banku państwowo-spółdzielczego lub w przypadku przekształcenia, o którym mowa w art. 1161, biuro notarialne pobiera stałą opłatę notarialną określoną przez Ministra Sprawiedliwości w drodze rozporządzenia. ” ;
 
-5. podejmowane ramach nadzoru nie umów zawartych przez ·bank.'
+**Art. 971.**
 
-- **45)** wart. 102 pkt 2 po wyrazach "inne dokumenty oraz" dodaje wyrazy na pisemne pracowników Narodowego Banku Po lskiego kopii tych dokumentów i innych informacji";
-- **46)** wart. 105 ust. 2 zdaniu drugim wyrazy "a prezes i wiceprezesi
-- **47)** wart. 107:
-    - **a)** ust. 1: wyraz "niepodzielnych", pkt 1 wyrazy "albo czasowe banku przez Narodowy Bank Polski",
-    - **b)** ust. 3 zdaniu drugim wyrazy "prezes i wiceprezesi banku oraz wyraz "kolegialne";
+1. Banki są obowiązane ogłaszać w miejscu wykonywania czynności bankowych, w sposób ogólnie dostępny, stosowane przez nie stawki oprocentowania lokat i środków na rachunkach bankowych, kredytów i pożyczek, a także prowizji za czynności i usługi bankowe.
 
-- **48)** dodaje 10 brzmieniu: Art. 115 1 1. Kto: 1 01 Przepisy karne
-- **1)** nie do tego uprawnionym pro wadzi polega na przyjmowaniu lub lo kat terminowych celu udzielania kredytów lub albo wykorzy stywania tych inny spo sób albo
-- **2)** wbrew warunkom ustawie nazwie jednostki organizacyjnej nie bankiem oraz do jej lub reklamy wyrazów "bank" lub "kasa" podlega karze pozbawienia do lat 3 lub ograniczenia
+2. Bank nie może stosować wobec pracowników, akcjonariuszy (udziałowców) i członków organów banku stawek oprocentowania wkładów oszczędnościowych, lokat i środków na rachunkach terminowych oraz kredytów rażąco korzystniejszych od ogólnie stosowanych przez ten bank w czasie zawierania umowy z tymi osobami.
 
-2. Tej samej karze podlega ten, kto dopuszcza czynu ust. 1 za
+3. W przypadku, o którym mowa w ust. 2, przepisy art. 100 i 101 stosuje się odpowiednio. ” ;
 
-- **49)** po art. 116 dodaje art. 116 brzmieniu: "Art. 116 1. Do dnia 30 czerwca 1992 r. Bank Gos podarki bank formie akcyjnej.
+- **42)** skreśla się rozdział 8. Rady pracownicze;
+- **43)** w art. 100: w ust. 4 w pkt 5 po wyrazie „lokat,” dodaje się wyrazy „ze szczególnym uwzględnieniem przypadków, o których mowa w art. 971 ust. 1,”, dodaje się ust. 5 w brzmieniu: „
+    - **a)**
+    - **b)**
 
-2. Fundusz Banku Gospodarki akcyjny, który banki cze i Skarb odpowiednio do dniu struk tury Fundusz zasobowy Banku Gospodarki ciowej staje zapasowym banku formie akcyjnej.
+5. Mając na względzie cele nadzoru określone w ust. 3, Prezes Narodowego Banku Polskiego ustala wiążące banki:
 
-3. Banki banki regionalne formie akcyjnych, z wykorzystaniem Banku Gospodarki
+- **1)** normy płynności, normy dotyczące pokrycia funduszami własnymi aktywów banku oraz normy dopuszczalnego ryzyka w działalności banków,
+- **2)** zasady postępowania przy zawieraniu umów rachunku bankowego, przyjmowaniu depozytów oraz wykonywaniu innych usług, jak również dotyczące zawiadamiania właściwych organów państwowych w razie ujawnienia okoliczności wskazujących, że lokowane w banku środki pieniężne lub inne wartości majątkowe pochodzą z przestępstwa lub z uczestnictwa w jego popełnieniu albo że ich pochodzenie, stan lub przeznaczenie mają zostać ukryte z przyczyn mających związek z przestępstwem,
+- **3)** zasady postępowania przy dokonywaniu wpłat gotówkowych przekraczających określoną kwotę, rejestrowania tych wpłat i przechowywania sporządzonych w związku z tym dokumentów. ” ;
+- **44)** art. 101 otrzymuje brzmienie: „
 
-4. Akcje Skarbu Banku Gos podarki nym bank formie akcyjnej, przeniesione, z wcami Banku Gospodarki wej, terminie nie 51at od dnia ustawy, na warun kach uzgodnionych z tymi bankami.
+**Art. 101.**
 
-5. Do czasu z rejestru Bank Gospodarki na pod stawie dotychczasowych przepisów.
+1. Prezes Narodowego Banku Polskiego może w ramach nadzoru zalecić bankowi:
 
-6. Przy akcji pracownikom Banku Gospodarki prze stosuje odpowiednio przepisy ustawy z dnia 13 lipca 1990 r. o prywatyzacji przed (Dz. U. 51, poz. 298 orazz 1991 r. 60, poz. 253 i 111, poz. 480). Akcje te nie prawa na walnym zgromadzeniu banku. akcji powinno nie dwóch od chwili przeniesienia pierwszych akcji trybie przewidzianym ust. 4.
+- **1)** podjęcie środków koniecznych do przywrócenia płynności płatniczej lub osiągnięcie norm, o których mowa w art. 100 ust. 5 pkt 1,
+- **2)** zwiększenie funduszy własnych,
+- **3)** zaniechanie określonych form reklamy.
 
-7. Przy Banku Gospodarki uprawnienia Ministra wynika z przepisów ustawy, o której mowa ust. 6, wykonuje Minister Finansów.
+2. W razie stwierdzenia, że bank uporczywie nie realizuje zaleceń określonych w ust. 1 lub działalność banku jest wykonywana z rażącym naruszeniem prawa lub statutu albo stwarza istotne zagrożenie dla interesów posiadaczy wkładów oszczędnościowych i lokat zgromadzonych w banku, Prezes Narodowego Banku Polskiego, po bezskutecznym upomnieniu na piśmie, może:
 
-8. zasady i tryb cenia Banku Gospodarki oraz zasady i zakres wykorzystania tku, o którym mowa ust. 3, Rada Ministrów drodze nia.";
+- **1)** wystąpić do właściwego organu banku z wnioskiem o odwołanie prezesa, wiceprezesa lub innego członka zarządu banku bezpośrednio odpowiedzialnego za stwierdzone nieprawidłowości,
+- **2)** zawiesić w czynnościach członków zarządu, o których mowa w pkt 1, do czasu rozpatrzenia wniosku o ich odwołanie; zawieszenie w czynnościach polega na wyłączeniu z podejmowania decyzji za bank w zakresie jego praw i obowiązków majątkowych,
+- **3)** ograniczyć zakres działalności banku; ograniczenie to polega na zakazie zawierania nowych umów,
+- **4)** cofnąć decyzję o wyrażeniu zgody na utworzenie banku i zarządzić jego likwidację.
 
-- **50)** po art. 118 dodaje art. 118 brzmieniu: "Art. 118 Przepisów art. 29 ustawy z dnia 22 marca 1991 r. Prawo o publicznym obrocie papierami i funduszach po wierniczych (Dz. U. 35, poz. 155 i 103, poz. 447) nie stosuje do banków rozumieniu niniejszej ustawy.";
-- **51)** wart. 120 wyrazy "z art. 96 ust. 1 pkt 1, Banku Gospodarstwa Krajowego".
+3. Ograniczenie lub cofnięcie decyzji o wyrażeniu zgody na utworzenie banku może również nastąpić w razie stwierdzenia, że bank nie spełnia warunków określonych w decyzji o jego utworzeniu.
 
-**Art. 2.** W ustawie z dnia 31 stycznia 1989 r. o Narodo wym Banku Polskim (Dz. U. 4, poz. 22 i 74, poz. 439) wprowadza zmiany:
+4. Jeżeli bank poniósł stratę w wysokości przewyższającej kwotę jego funduszy własnych albo gdy istnieje realne zagrożenie powstania strat w takim rozmiarze, Prezes Narodowego Banku Polskiego może, niezależnie od zastosowania sankcji określonych w ust. 2 pkt 1–3, ustanowić zarząd tymczasowy na okres nie dłuższy niż 3 miesiące. Zarząd tymczasowy podejmuje za bank decyzje w zakresie jego praw i obowiązków majątkowych.
 
-**Art. 3.** Bank Gospodarstwa Krajowego do dnia 31 grudnia 1991 r. na dotychczasowych zasadach.
+5. Środki podejmowane w ramach nadzoru nie mogą naruszać umów zawartych przez bank.
 
-**Art. 4.** W ustawie z dnia 17 czerwca 1966 o po egzekucyjnym administracji (Dz. U. z 1991 r. 36, poz. 161) wart. 85 1 zdaniu przedostatnim wyrazy "Minister Finansów" wyrazami "Prezes Narodowego Banku Polskiego porozumieniu z Ministrami i
+6. Decyzje wymienione w niniejszym artykule mogą być zaskarżone do właściwego sądu gospodarczego. ” ;
 
-**Art. 5.** Prezes NBP Dzienniku jednolite teksty:
+- **45)** w art. 102 w pkt 2 po wyrazach „inne dokumenty oraz” dodaje się wyrazy „umożliwiać na pisemne żądanie upoważnionych pracowników Narodowego Banku Polskiego sporządzanie kopii tych dokumentów i innych nośników informacji”;
+- **46)** w art. 105 w ust. 2 w zdaniu drugim skreśla się wyrazy „a prezes i wiceprezesi zarządu zostają odwołani”;
+- **47)** w art. 107: w ust. 1: – skreśla się wyraz „niepodzielnych”, – w pkt 1 skreśla się wyrazy „albo ustalić czasowe przejęcie banku przez Narodowy Bank Polski”, w ust. 3 w zdaniu drugim skreśla się wyrazy „prezes i wiceprezesi przejętego banku zostają odwołani” oraz wyraz „kolegialne”;
+    - **a)**
+    - **b)**
 
-**Art. 6.** Ustawa wchodzi po 30 dni od dnia z tym
+- **48)** dodaje się rozdział 101 w brzmieniu: „
+
+#### Rozdział 101 Przepisy karne
+
+**Art. 1151.**
+
+1. Kto:
+
+- **1)** nie będąc do tego uprawnionym prowadzi działalność zarobkową polegającą na przyjmowaniu wkładów oszczędnościowych ludności lub lokat terminowych w celu udzielania kredytów lub pożyczek albo wykorzystywania tych środków w inny sposób albo
+- **2)** prowadząc działalność zarobkową wbrew warunkom określonym w ustawie używa w nazwie jednostki organizacyjnej nie będącej bankiem oraz do określenia jej działalności lub reklamy wyrazów „bank” lub „kasa” podlega karze pozbawienia wolności do lat 3 lub ograniczenia wolności.
+
+2. Tej samej karze podlega również ten, kto dopuszcza się czynu określonego w ust. 1 działając za osobę prawną. ” ;
+
+- **49)** po art. 116 dodaje się art. 1161 w brzmieniu: „
+
+**Art. 1161.**
+
+1. Do dnia 30 czerwca 1992 r. Bank Gospodarki Żywnościowej przekształci się w bank w formie spółki akcyjnej.
+
+2. Fundusz udziałowy Banku Gospodarki Żywnościowej przekształca się w kapitał akcyjny, który obejmują banki spółdzielcze i Skarb Państwa odpowiednio do istniejącej w dniu przekształcenia struktury własnościowej udziałów. Fundusz zasobowy Banku Gospodarki Żywnościowej staje się kapitałem zapasowym banku w formie spółki akcyjnej.
+
+3. Banki spółdzielcze mogą tworzyć banki regionalne w formie spółek akcyjnych, z wykorzystaniem części majątku Banku Gospodarki Żywnościowej.
+
+4. Akcje Skarbu Państwa w Banku Gospodarki Żywnościowej, przekształconym w bank w formie spółki akcyjnej, zostaną przeniesione, z zastrzeżeniem ust. 6, na rzecz banków regionalnych, o których mowa w ust. 3, lub banków spółdzielczych będących współudziałowcami Banku Gospodarki Żywnościowej, w terminie nie dłuższym niż 5 lat od dnia wejścia w życie ustawy, na warunkach uzgodnionych z tymi bankami.
+
+5. Do czasu wykreślenia z rejestru Bank Gospodarki Żywnościowej działa na podstawie dotychczasowych przepisów.
+
+6. Przy udostępnianiu akcji pracownikom Banku Gospodarki Żywnościowej, przekształconego w spółkę akcyjną, stosuje się odpowiednio przepisy ustawy z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych (Dz. U. Nr 51, poz. 298 oraz z 1991 r. Nr 60, poz. 253 i Nr 111, poz. 480). Akcje te nie mają prawa głosu na walnym zgromadzeniu banku. Udostępnienie akcji powinno nastąpić nie później niż w ciągu dwóch miesięcy od chwili przeniesienia pierwszych akcji w trybie przewidzianym w ust. 4.
+
+7. Przy przekształcaniu Banku Gospodarki Żywnościowej uprawnienia Ministra Przekształceń Własnościowych wynikające z przepisów ustawy, o której mowa w ust. 6, wykonuje Minister Finansów.
+
+8. Szczegółowe zasady i tryb przekształcenia Banku Gospodarki Żywnościowej oraz zasady i zakres wykorzystania majątku, o którym mowa w ust. 3, określi Rada Ministrów w drodze rozporządzenia. ” ;
+
+- **50)** po art. 118 dodaje się art. 1181 w brzmieniu: „
+
+**Art. 1181.** Przepisów art. 29 ustawy z dnia 22 marca 1991 r. – Prawo o publicznym obrocie papierami wartościowymi i funduszach powierniczych (Dz. U. Nr 35, poz. 155 i Nr 103, poz. 447) nie stosuje się do banków w rozumieniu niniejszej ustawy. ” ;
+
+**Art. 2.** W ustawie z dnia 31 stycznia 1989 r. o Narodowym Banku Polskim (Dz. U. Nr 4, poz. 22 i Nr 74, poz. 439) wprowadza się następujące zmiany:
+
+**Art. 17.**
+
+1. Prezes NBP przedkłada Sejmowi raport o stanie pieniądza i projekt założeń NBP w zakresie polityki pieniężnej na rok następny równocześnie z projektem budżetu państwa przedkładanym przez rząd.
+
+2. Założenia polityki pieniężnej uchwala Sejm wraz z ustawą budżetową. ” ;
+
+- **9)** w art. 19 skreśla się oznaczenie ust. 1 i ust. 2;
+- **10)** w art. 20 w ust. 1: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** ustala w drodze zarządzenia stopę rezerw obowiązkowych banków, stopę redyskontową weksli, oprocentowanie kredytu refinansowego i maksymalną wysokość prowizji pobieranej przez NBP, ” pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** przedstawia Sejmowi i Radzie Ministrów: okresowe sprawozdania z realizacji założeń polityki pieniężnej, sprawozdanie z realizacji bilansu płatniczego, ” dodaje się nowy pkt 3 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** może w przypadku zagrożenia realizacji polityki pieniężnej wprowadzić ograniczenie wielkości środków pieniężnych, które mogą być oddane przez banki do dyspozycji kredytobiorców i pożyczkobiorców; ograniczenie to nie narusza umów wcześniej zawartych przez bank, ” dotychczasowy pkt 3 otrzymuje oznaczenie pkt 4;
+    - **d)**
+
+- **11)** w art. 20 w ust. 2 wyrazy „ust. 1 pkt 3” zastępuje się wyrazami „ust. 1 pkt 4”,
+- **12)** art. 21 otrzymuje brzmienie: „
+
+**Art. 21.**
+
+1. Banki i inne osoby prawne, jednostki organizacyjne nie będące osobami prawnymi oraz inne podmioty gospodarcze uczestniczące w obrotach z zagranicą są obowiązane przekazywać, na żądanie NBP, dane niezbędne do sporządzenia sprawozdawczego bilansu płatniczego oraz bilansu należności i zobowiązań państwa, a także do opracowania założeń polityki pieniężnej i okresowych ocen sytuacji pieniężnej państwa na zasadach i w trybie określonym przez Prezesa NBP.
+
+2. Dane uzyskiwane przez NBP, w trybie określonym w ust. 1, mogą być wykorzystywane wyłącznie do celów, o których mowa w tym ustępie. ” ;
+
+- **13)** w art. 30 ust. 2 otrzymuje brzmienie: „
+
+2. Rezerwę obowiązkową stanowi wyrażona w procentach część środków pieniężnych w złotych i walutach obcych, zgromadzonych na rachunkach związanych z działalnością gospodarczą, na rachunkach oszczędnościowych i innych rachunkach, z zastrzeżeniem art. 31 ust. 2 pkt 2 i ust. 3. ” ;
+
+- **14)** w art. 31: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) nie podlega oprocentowaniu, jeżeli nie przekracza 10% sumy środków pieniężnych zgromadzonych na rachunkach, których dotyczy obowiązek odprowadzania rezerw, ” – dodaje się pkt 3 w brzmieniu: „ 3) w części przewyższającej sumę określoną w pkt 2 podlega oprocentowaniu w wysokości ustalonej przez Prezesa NBP, nie niższej jednak aniżeli 50% stopy redyskontowej weksli, z tym że do dnia 30 czerwca 1992 r. oprocentowanie to NBP przekazuje w całości na Fundusz Restrukturyzacji i Oddłużenia Rolnictwa. Rada Ministrów, po zasięgnięciu opinii komisji sejmowych, określi, w drodze rozporządzenia, zasady funkcjonowania tego funduszu oraz inne źródła jego zasilania. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Prezes NBP w drodze zarządzenia:
+
+- **1)** ustala wysokość procentową środków pieniężnych podlegających odprowadzeniu na rachunek rezerw, z tym że dla każdego rodzaju wkładów rezerwa może być ustalona w innej wysokości,
+- **2)** ustala zasady i tryb odprowadzania środków pieniężnych na rachunek rezerw oraz określa rodzaje rachunków bankowych, których nie dotyczy obowiązek odprowadzania rezerw, a ponadto może określić wysokość zapasu gotówki, którego utrzymywanie w kasach bankowych będzie uważane za równoznaczne z odprowadzeniem na rachunek rezerw. ” , dodaje się ust; 3 w brzmieniu: „
+    - **c)**
+
+3. Nie podlegają odprowadzeniu na rachunek rezerw środki przyjęte od innego banku. ” ;
+
+- **15)** w art. 34 wyrazy „budżetu centralnego” zastępuje się wyrazami „budżetu państwa”;
+- **16)** art. 38 otrzymuje brzmienie: „
+
+**Art. 38.** Interesy Rzeczypospolitej Polskiej w międzynarodowych instytucjach bankowych reprezentuje Prezes NBP. ” ;
+
+**Art. 43.** NBP może upoważnić inne niż bank osoby prawne oraz podmioty nie będące osobami prawnymi do wykonywania obsługi dewizowej i walutowej ludności. Przepisy art. 40 ust. 2 i 3 stosuje się odpowiednio. ” ;
+
+**Art. 49.**
+
+1. Prezesa NBP powołuje i odwołuje Sejm na wniosek Prezydenta Rzeczypospolitej Polskiej.
+
+2. Kadencja Prezesa NBP trwa 6 lat, licząc od dnia powzięcia uchwały o jego powołaniu.
+
+3. Ta sama osoba nie może być Prezesem NBP dłużej niż przez dwie kolejne kadencje.
+
+4. Kadencja Prezesa NBP wygasa przed upływem sześcioletniego okresu w razie jego śmierci. Prezes NBP może być odwołany przed upływem kadencji, jeżeli:
+
+- **1)** zrzekł się wykonywania obowiązków,
+- **2)** stał się niezdolny do pełnienia powierzonych mu obowiązków na skutek długotrwałej choroby,
+- **3)** został skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa,
+- **4)** wyrokiem Trybunału Stanu został orzeczony w stosunku do niego zakaz zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością w organach państwowych.
+
+5. Wiceprezesów NBP powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej na wniosek Prezesa NBP, a pozostałych członków Zarządu NBP – Prezes NBP.
+
+6. Wynagrodzenie Prezesa i wiceprezesów NBP ustalane jest zgodnie z przepisami o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, z tym że wynagrodzenie ustala się na podstawie przeciętnego wynagrodzenia w sektorze bankowym. ” ;
+
+- **23)** w art. 51 w ust. 2: w pkt 1 skreśla się wyrazy „planów kredytowych i”, pkt 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **3)** polityki pieniężnej, ” w pkt 9 skreśla się wyrazy „i gospodarczych”;
+    - **c)**
+
+- **24)** w art. 52 w pkt 4 po wyrazach „stosowane w” dodaje się wyrazy „bankach i”;
+- **25)** w art. 54 w ust. 1 skreśla się pkt 2, a pkt 3, 4 i 5 otrzymują oznaczenie pkt 2, 3 i 4;
+- **26)** art. 60 otrzymuje brzmienie: „
+
+1. Przy Prezesie NBP działają w charakterze organów opiniodawczo-doradczych Rada Ekonomiczna i Rada Naukowa.
+
+2. Prezes NBP ustala liczbę członków organów wymienionych w ust. 1 oraz powołuje i odwołuje przewodniczącego i ich członków spośród przedstawicieli środowisk przemysłowo-handlowych, finansowych i naukowych, z tym że powołanie przewodniczącego i członków Rady Ekonomicznej następuje po zasięgnięciu opinii właściwej komisji sejmowej.
+
+3. Rada Ekonomiczna i Rada Naukowa działają na podstawie regulaminów wydanych przez Prezesa NBP. ” ;
+
+- **27)** w art. 61 w ust. 2 w pkt 1 skreśla się wyrazy „po zasięgnięciu opinii właściwej rady pracowniczej”;
+- **28)** skreśla się art. 66;
+- **29)** w art. 69 wyrazy „500.000 mln” zastępuje się wyrazami „2 biliony”;
+- **30)** w art. 72 w ust. 11 skreśla się wyrazy „radami pracowniczymi i”;
+- **31)** art. 73 otrzymuje brzmienie: „
+
+**Art. 73.**
+
+1. NBP prowadzi własną gospodarkę finansową zgodnie z założeniami polityki społeczno-gospodarczej państwa, uchwalanymi przez Sejm.
+
+2. Plan finansowy NBP uchwala na każdy rok Zarząd NBP. ” ;
+
+- **32)** art. 74 otrzymuje brzmienie: „
+
+**Art. 74.**
+
+1. Wielkość środków na wynagrodzenia ustalana jest corocznie w planie finansowym NBP, z uwzględnieniem poziomu płac w sektorze bankowym.
+
+2. Zasady wynagradzania pracowników NBP ustala Prezes NBP. ” ;
+
+- **33)** w art. 77 wyraz „centralnego” zastępuje się wyrazem „państwa”;
+- **34)** skreśla się art. 78;
+- **35)** dodaje się art. 791 w brzmieniu: „
+
+**Art. 791.**
+
+1. Z zastrzeżeniem art. 29 NBP przekaże innym bankom na warunkach uzgodnionych z tymi bankami w terminie do dnia 30 czerwca 1992 r. prowadzenie rachunków osób prawnych i fizycznych, w tym obsługi dewizowej i walutowej ludności.
+
+2. Przepis ust. 1 nie narusza uprawnień klientów NBP gwarantowanych przez ustawę lub umowę rachunku bankowego, z tym jednak że wypowiedzenie umowy rachunku w związku z jego realizacją uważa się za dokonane z ważnych powodów.
+
+3. Banki przejmujące od NBP czynności określone w ust. 1:
+
+- **1)** zapewnią dalsze prowadzenie rachunków bankowych,
+- **2)** zawiadomią posiadaczy rachunków bankowych określonych w pkt 1 o ich przejęciu oraz o trybie, w jakim będzie następować wykonywanie zleceń. ”
+
+**Art. 3.** Bank Gospodarstwa Krajowego działa do dnia 31 grudnia 1991 r. na dotychczasowych zasadach.
+
+**Art. 4.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 1991 r. Nr 36, poz. 161) w art. 85 w § 1 w zdaniu przedostatnim wyrazy „Minister Finansów” zastępuje się wyrazami „Prezes Narodowego Banku Polskiego w porozumieniu z Ministrami Sprawiedliwości i Łączności”.
+
+**Art. 5.** Prezes NBP ogłosi w Dzienniku Ustaw jednolite teksty:
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z tym że:
 

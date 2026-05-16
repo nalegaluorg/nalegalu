@@ -8,11 +8,10 @@ pos: 2111
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# ochronie zdrowia przed następstwami korzystania
-
-*USTAWA dnia 15 września 2017 r.*
+# Ustawa z dnia 15 września 2017 r. o ochronie zdrowia przed następstwami korzystania z solarium
 
 | Pole | Wartość |
 |---|---|
@@ -30,64 +29,71 @@ domain: null
 
 1. Ustawa określa:
 
-- **1)** zadania organów administracji rządowej jednostek samorządu terytorialnego ochrony zdrowia społeczeństwa przed następstwami korzystania solarium;
-- **2)** szczególne warunki świadczenia solarium.
+- **1)** zadania organów administracji rządowej i jednostek samorządu terytorialnego w zakresie ochrony zdrowia społeczeństwa przed następstwami korzystania z solarium;
+- **2)** szczególne warunki świadczenia usług w zakresie udostępniania solarium.
 
-2. Przepisów ustawy nie stosuje się do urządzeń elektrycznych wyposażonych lampy UV, wykorzystywanych przy udzielaniu świadczeń zdrowotnych rozumieniu 5 pkt 40 ustawy dnia 27 sierpnia 2004 r. świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2017 r. poz. 1938 2110).
+2. Przepisów ustawy nie stosuje się do urządzeń elektrycznych wyposażonych w lampy UV, wykorzystywanych przy udzielaniu świadczeń zdrowotnych w rozumieniu art. 5 pkt 40 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938 i 2110).
 
-**Art. 2.** Użyte ustawie określenia oznaczają:
+**Art. 2.** Użyte w ustawie określenia oznaczają:
 
 **Art. 3.**
 
-1. Organy administracji rządowej jednostek samorządu terytorialnego są obowiązane do podejmowania działań mających celu ochronę zdrowia społeczeństwa przed następstwami korzystania solarium.
+1. Organy administracji rządowej i jednostek samorządu terytorialnego są obowiązane do podejmowania działań mających na celu ochronę zdrowia społeczeństwa przed następstwami korzystania z solarium.
 
-2. Działania, których mowa 1, obejmują szczególności:
+2. Działania, o których mowa w ust. 1, obejmują w szczególności:
 
-- **1)** upowszechnianie wiedzy temat szkodliwości korzystania szczególności wśród dzieci młodzieży;
-- **2)** minimalizowanie negatywnych następstw korzystania solarium;
+- **1)** upowszechnianie wiedzy na temat szkodliwości korzystania z solarium, w szczególności wśród dzieci i młodzieży;
+- **2)** minimalizowanie negatywnych następstw korzystania z solarium;
 - **3)** leczenie osób uzależnionych od solarium;
-- **4)** profilaktykę nowotworów skóry, szczególności czerniaka złośliwego.
-- **1)** telewizji, radiu, prasie, kinach, podmiotach leczniczych, szkołach placówkach oświatowo-wychowawczych, terenie obiektów sportowo-rekreacyjnych oraz innych miejscach publicznych;
-- **2)** plakatach, tym plakatach wielkoformatowych;
-- **3)** środkach informatycznych.
+- **4)** profilaktykę nowotworów skóry, w szczególności czerniaka złośliwego.
+
+3. Działania, o których mowa w ust. 1, są uwzględniane w Narodowym Programie Zdrowia, o którym mowa w art. 9 ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. poz. 1916 oraz z 2016 r. poz. 2003), i realizowane zgodnie z tym Programem.
+
+4. W ramach działań, o których mowa w ust. 1, organy administracji rządowej i jednostek samorządu terytorialnego mogą współdziałać z samorządami zawodów medycznych, organizacjami społecznymi, w tym organizacjami pacjentów, oraz innymi podmiotami zainteresowanymi wsparciem działań, o których mowa w ust. 1.
+
+**Art. 4.** Zabrania się reklamy i promocji usług w zakresie udostępniania solarium, w szczególności:
 
 **Art. 5.**
 
-1. Zabrania się małoletnim.
+1. Zabrania się udostępniania solarium małoletnim.
 
-2. W przypadku wątpliwości co do pełnoletności osoby zamierzającej skorzystać osoba udostępniająca uprawniona jest do żądania okazania przez tę osobę dokumentu potwierdzającego jej wiek.
+2. W przypadku wątpliwości co do pełnoletności osoby zamierzającej skorzystać z solarium, osoba udostępniająca solarium uprawniona jest do żądania okazania przez tę osobę dokumentu potwierdzającego jej wiek.
 
-3. W razie nieokazania dokumentu, którym mowa 2, osoba udostępniająca odmawia udostępnienia solarium.
+3. W razie nieokazania dokumentu, o którym mowa w ust. 2, osoba udostępniająca solarium odmawia udostępnienia solarium.
 
 **Art. 6.**
 
-1. Podmiot świadczący usługi obowiązany jest umieścić miejscu udostępniania czytelne widoczne informacje:
+1. Podmiot świadczący usługi w zakresie udostępniania solarium obowiązany jest umieścić w miejscu udostępniania solarium czytelne i widoczne informacje:
 
-- **1)** treści: „Zakaz osobom, które nie ukończyły 18. roku życia (art. 5 ustawy dnia 15 września 2017 r. ochronie zdrowia przed następstwami korzystania solarium)”;
-- **2)** ryzyku związanym korzystaniem solarium.
+- **1)** o treści: „Zakaz udostępniania solarium osobom, które nie ukończyły 18. roku życia (art. 5 ust. 1 ustawy z dnia 15 września 2017 r. o ochronie zdrowia przed następstwami korzystania z solarium)”;
+- **2)** o ryzyku związanym z korzystaniem z solarium.
 
-2. Minister właściwy do spraw zdrowia określi, drodze rozporządzenia, wielkość, wzór sposób umieszczenia informacji, których mowa 1, oraz treść informacji, której mowa pkt 2, mając względzie ich czytelność dla adresatów oraz zwiększenie świadomości społeczeństwa szkodliwości korzystania solarium.
+2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wielkość, wzór i sposób umieszczenia informacji, o których mowa w ust. 1, oraz treść informacji, o której mowa w ust. 1 pkt 2, mając na względzie ich czytelność dla adresatów oraz zwiększenie świadomości społeczeństwa w zakresie szkodliwości korzystania z solarium.
 
 **Art. 7.**
 
-1. Kontroli świadczenia dokonują organy Państwowej Inspekcji Sanitarnej inne organy posiadanych kompetencji określonych ustawach regulujących ich funkcjonowanie oraz zasadach wskazanych tych ustawach.
+1. Kontroli świadczenia usług w zakresie udostępniania solarium dokonują organy Państwowej Inspekcji Sanitarnej i inne organy w zakresie posiadanych kompetencji określonych w ustawach regulujących ich funkcjonowanie oraz na zasadach wskazanych w tych ustawach.
 
-2. W przypadku wątpliwości co do pełnoletności osoby korzystającej organy, których mowa 1, są uprawnione do żądania okazania przez tę osobę dokumentu potwierdzającego jej wiek.
+2. W przypadku wątpliwości co do pełnoletności osoby korzystającej z solarium, organy, o których mowa w ust. 1, są uprawnione do żądania okazania przez tę osobę dokumentu potwierdzającego jej wiek.
 
 **Art. 8.**
 
-1. Organy, których mowa 7 1, mogą, drodze decyzji, nałożyć podmiot świadczący usługi karę pieniężną wysokości od 1000 zł do 50 000 zł za:
+1. Organy, o których mowa w art. 7 ust. 1, mogą, w drodze decyzji, nałożyć na podmiot świadczący usługi w zakresie udostępniania solarium karę pieniężną w wysokości od 1000 zł do 50 000 zł za:
 
-- **1)** udostępnienie małoletniemu;
-- **2)** nieumieszczenie miejscu informacji, których mowa 6 1, albo umieszczenie informacji niespełniających wymagań określonych tym przepisie lub przepisach wydanych podstawie 6 2;
-- **3)** reklamę lub promocję solarium;
-- **4)** utrudnianie przeprowadzenia kontroli świadczenia solarium.
+- **1)** udostępnienie solarium małoletniemu;
+- **2)** nieumieszczenie w miejscu udostępniania solarium informacji, o których mowa w art. 6 ust. 1, albo umieszczenie informacji niespełniających wymagań określonych w tym przepisie lub w przepisach wydanych na podstawie art. 6 ust. 2;
+- **3)** reklamę lub promocję usług w zakresie udostępniania solarium;
+- **4)** utrudnianie przeprowadzenia kontroli świadczenia usług w zakresie udostępniania solarium.
 
-2. Przy ustalaniu wysokości kary pieniężnej, której mowa 1, uwzględnia się szczególności rodzaj okoliczności naruszenia oraz jego potencjalny wpływ zagrożenie dla zdrowia publicznego.
+2. Przy ustalaniu wysokości kary pieniężnej, o której mowa w ust. 1, uwzględnia się w szczególności rodzaj i okoliczności naruszenia oraz jego potencjalny wpływ na zagrożenie dla zdrowia publicznego.
 
-3. Karę pieniężną uiszcza się rachunek budżetu państwa, wskazany przez organ, którym mowa 7 1, terminie 14 dni od dnia, którym decyzja wymierzeniu tej kary stała się ostateczna. Od kary pieniężnej nieuiszczonej terminie nalicza się odsetki ustawowe.
+3. Karę pieniężną uiszcza się na rachunek budżetu państwa, wskazany przez organ, o którym mowa w art. 7 ust. 1, w terminie 14 dni od dnia, w którym decyzja o wymierzeniu tej kary stała się ostateczna. Od kary pieniężnej nieuiszczonej w terminie nalicza się odsetki ustawowe.
 
-4. W sprawach dotyczących kary pieniężnej stosuje się odpowiednio przepisy działu III ustawy dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 2017 r. poz. 201, 648, 768, 935, 1428 1537), tym że uprawnienia organu podatkowego przysługują organowi, którym mowa 7 1. nie zdrowia przed następstwami korzystania (Dz. U. poz. 2111).”.
+4. W sprawach dotyczących kary pieniężnej stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768, 935, 1428 i 1537), z tym że uprawnienia organu podatkowego przysługują organowi, o którym mowa w art. 7 ust. 1.
 
-**Art. 11.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 9.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2017 r. poz. 1261) w art. 4 w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
+
+**Art. 10.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2017 r. poz. 1414) w art. 16b w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+
+**Art. 11.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

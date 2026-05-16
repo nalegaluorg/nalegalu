@@ -8,9 +8,10 @@ pos: 60
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# D7.iennil< Ustaw Nr 9' 89 Poz. 60 60 WA :a dnia 1964 r.
+# Ustawa z dnia 25 lutego 1964 r.Przepisy wprowadzające kodeks rodzinny i opiekuńczy
 
 | Pole | Wartość |
 |---|---|
@@ -24,49 +25,88 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1964/60/text.pdf) |
 
-Pneptay kodeks rodzinny loplekwkzy.
-Przepisy ogólne.
-Kodeks 1 wchodzi ..
-dnioem lstycZliia '1965
-Art. U.§ 1. Z dniem "" "±yci-ekodeksu" rodzinne· go Goty ·przedmiotów"W tynl kodeksie. unormowanych.
-moc:
-1) kodeks rodzinny z dnia 27 czerwca 1950r. Dz. Nr 34, poz. 308 z 1953 r. Nr 31, poz.
-przepisy kodeks rodzinny (ustawa z dnia 27 czerwca 1950 Dz. 34, poz. 309).
-3. w mocy przepisy art. 20 ustawy z dnia grudnia 1959 r. o zwalczaniu alkoholizmu (Dz. 69, poz. 434).
-Art. III. JeŹeli. przepisy na przepisy uchylone albo ogólnie do przepisów', które przedmiotów unormowanych w ko deksie rodzinnym . odpowiednio przepisy tego kodeksu.
-R o z·d z II.
-Zmiany w przepisach
-Art. IV. W prawie o aktach stanu cywilnego (dekret z dnia 8 czerwca 1955 Dz. Nr 25, poz. 151" z 1956 r.
-Nr 41, poz., 189, z 1958 Nr poz. 358 z 1962 r. Nr poz. 46) wprowadza zmiany wart. 34 tlst. 1 otrzymuje brzmienie: ,,1. przepisów kodeksu I opie istnieje domniemanie, ojcem dziec ka jest matki, dane osoby ojca wpisane tylko w razie uznania dziecka albo w razie ustalenia o'jcostwa przez art. otrzymuje brzmienie: "Art. 38. 1. rodzice -po uro dzeniu dziecka, w[)isuje na marqine sie aktu urodzenia _ o zawarciu oraz o przepisów kodeksu zmianie nazwiska dziecka.
-wzmianki w,ust. do konywa na wniosek osoby zainteresowa nej po wykazaniu dokumentem publicznym, d;:'ieckopochodziod' J li w cuwili zgloszeniawn-iosk ojcostwo matki jest jeszcze us alone, v,miosek z. uznaniem dz ecka ,przez matki.
-3.Wni{)sek. () wpisimie wzmianki ust.· rodzice dziecka'· przy lub wkaidym stany cywilnego.
-zainteresowane wni:o.,lle'.k lyUw.w w,kto.,..
-r-ym akt urodzenia dzi:ecka.";
-3} 8rt .. ,_39 usL• . :lotrzymnle,br.7.mienie:' ,,1.
-wiinego uZl'18t1iu dziecka lub o na daniu któ.re nosi nazwiska ojca albo któremu nazwisko ojca nadane na podstawie ustalenia ojcostwa, nazwiska wpisuje w akcie stanu cywilnego wzmian o u:waniu dziecka o przepis&w kodeksu opie kUl1czego zmianie nazwiska dziecka albo o nadaniu nazwiska.";
-art. na ust. przecin7 kiem dodaje wyrazy "a skutki przysposobienia prze.pisom art. 124 kodeksu roJzinnego opie przed art. dodaje nowy art. w brzmieniu: "Art. 4}1, Sposób zawierania prze pisy kodeksu Po nadto przepisy zawarte w ar art. 45 otrzymuje brzmi'enie: "Art. 45. Do udzielenia zezwolenia na zawarcie stwa bez zachowania wart.
-kodeksu opiekunczego terminu jest organ nadzoru nad sta nu cywilnego, w którym ma zawarte."; 7) uchyla art.
-wart. 50 ust. pkt otrzymu1ebrzmienie: o nazwisku, które noslC po zawarciu a w wypadku zachowuje' swoje dotychczasowe nazwisko albo do daje do nie.go nazwisko ó nazwisku dzieci' zrodzonych z tego wart. 50 ust. 2 otrzymuje brzmienie: ,,2. obywatelka przy zawieraniu stwa za obcym stanu cywilneffo os\viadczenia o nazwisku, które po zawarciu albo obywa tele polscy przy zawieraniu za w obcym sJanu cywilnego.nie czenia o nazwisku dzieci zrodzonych z tego sIwa (ust. 1 pkt oni takie oswiad czenie w od dnia zawarcia te powinny we wniosku o wpisanie aktu do staDU cywilnego w Polsce.", pziennik Ustaw Nr 9
-10) w art. 79 ust. 1 pkt 3 otrzymuje brzmienie: ,,3) przyjmowania o uznanju dziecka oraz o nadaniu dziecku nazwiska matki." R d III.
-Przepisy .
-. :,c:, Art. V. kodeksu stosuje sldsunkówwnim unormowanych, przed:. lego. w chyba przepisy inaczej.
-Art. VI. 1. Zawarcie które zo-' przed kodeksu rgdzinnego opi~kuńc;ego, ocenia .się według przepisów obowiązujących w chwili zawarcia
-2. J ednakze po dniu w .Js0deksu rodzin nego takjego mo orzecZOne tylko przepisów tego kodeksu.
-Art. . VII. Ustanie, unieważnienie lubro~łączenie mał które przed dniem w ko deks~ opiekuńczego,' ,ocenia według przepi só_w prawa w 's:hwili ustania, lub Nie dotyczy to jednak skutków prawnych ustania lub które po wej w kodeksu rodzinnegq
-Art. VIII. Jeżeli w chwili w kodeksu ro dzinnego stosunki kami ustawowej w rozumieriiu kodeksu z 1950 r., w .chwili w kodeksu go zalicza 'od tej chwili do wspólne.go do stosownie do przepisów kodeksu rodzin ,
-Art. IX. ~~§ 1. Jeżeli w chwili wejścia w życie kodeksu stosunki .
-oparte na umowie do stosunków tych stosuje nadal przepisy w chwili zawarcia umowy. strony przez dotychczasowy ustrój stosownie do prze pisów kodeksu
-2. w chwili kodeksJl fI stosunki ustawowej ani przez 90 :-:" w rozumieniu kodeksu rodzin,nego opiekuaczego.
-Art. X.Do wszczętych przed dni61m w deksu spraw o zaprzeczenie stwa, o uznania dziecka oraz o stosuje przepisy dotychczasowe .
-Art. XI. Jezeli przed dniem w kodeksu zmiana ,nazwiska dziecka z tego tylko powodu, od rych zmiana ta stosownie do art. 36 37 kodeksu dzinnego z 1950 po. uzyskaniu przez dziecko (arh 38 kodeksu rodzfnnego z 1950 r.), strony w roku od dnia w;
-kodeksu rddi irmego cywilnego; w którym akf urodzenia ka, wni,osek o dokonanie zmiany -pisów art. 88-90 kodeksu
-Art. XII. Ważność przysposobienia.
-ku przysposobienia, jak uzn a'ni a , dziecka or~z wszelkich innych czynności prawnych unormowanych w kodeksie rodzinnym a dokonanych dniem w kodeksu, ocenia przepisów w chwili ich dokonania.
-Art. XIII. 1. Przysposobienie dokonane przed w wywo skutki przewidziane wart. tego kodeksu.
-2. W lat od dnia w kodeksu na wniosek orzec, skutki przysposobienia nanego przed tym 'dniem przepisom art.
-123 tego kodeksu.
-3. jednak w mocy postanowienia aktu sposobienia 'nazwiska przysposobionego.
-Przepis.
-Art. XIV. Usta\va wchodzi w z dniem 1 nia 1965 Rady A.
-Sekretarz Rady 61 MINISTRA ZDROWIA I . OPIEKI z dnia 13 lutego 1964 w sprawie warunków zdrowia wymaganych od osób zatrudnianych na polskich morskich statkach handlowych w Na podstawie art.' 6 ust. 2 z dpia 28 kwietnia 1952 o pracy na polskich morskich statkach handlowych w (Dz. U. z 1952 r. Nr 25, poz. 171 z 1954 r; Nr 37, poz. 16.0 1958: Nr 68, poz. 338) co
+Treść ustawy Rozdział I – Przepisy ogólne Rozdział II – Zmiany w przepisach obowiązujących Rozdział III – Przepisy przejściowe – Przepis końcowy
+Art. I.
+Kodeks rodzinny i opiekuńczy wchodzi w życie z dniem 1 stycznia 1965 r.
+Art. II.
+§ 1.
+Z dniem wejścia w życie kodeksu rodzinnego i opiekuńczego tracą moc dotychczasowe przepisy dotyczące przedmiotów w tym kodeksie unormowanych.
+§ 2.
+W szczególności tracą moc:
+1)
+kodeks rodzinny (ustawa z dnia 27 czerwca 1950 r. – Dz. U. Nr 34, poz. 308 i z 1953 r. Nr 31, poz. 124);
+2)
+przepisy wprowadzające kodeks rodzinny (ustawa z dnia 27 czerwca 1950 r. – Dz. U. Nr 34, poz. 309).
+§ 3.
+Pozostają w mocy przepisy art. 20 ustawy z dnia 10 grudnia 1959 r. o zwalczaniu alkoholizmu (Dz. U. Nr 69, poz. 434).
+Art. III.
+Jeżeli obowiązujące przepisy powołują się na przepisy uchylone niniejszą ustawą albo odsyłają ogólnie do przepisów, które dotyczą przedmiotów unormowanych w kodeksie rodzinnym i opiekuńczym, stosuje się odpowiednio przepisy tego kodeksu.
+Art. IV.
+W prawie o aktach stanu cywilnego (dekret z dnia 8 czerwca 1955 r. – Dz. U. Nr 25, poz. 151, z 1956 r. Nr 41, poz. 189, z 1958 r. Nr 72, poz. 358 i z 1962 r. Nr 10, poz. 46) wprowadza się zmiany następujące:
+1)
+w art. 34 ust. 1 otrzymuje brzmienie:
+„
+1.
+Jeżeli według przepisów kodeksu rodzinnego i opiekuńczego nie istnieje domniemanie, że ojcem dziecka jest mąż matki, dane dotyczące osoby ojca będą wpisane tylko w razie uznania dziecka albo w razie ustalenia ojcostwa przez sąd.
+” ;
+2)
+art. 38 otrzymuje brzmienie:
+„
+Art. V.
+Przepisy kodeksu rodzinnego i opiekuńczego stosuje się do stosunków w nim unormowanych, chociażby powstały przed jego wejściem w życie, chyba że przepisy poniższe stanowią inaczej.
+Art. VI.
+§ 1.
+Zawarcie i ważność małżeństwa, które zostało zawarte przed wejściem w życie kodeksu rodzinnego i opiekuńczego, ocenia się według przepisów obowiązujących w chwili zawarcia małżeństwa.
+§ 2.
+Jednakże po dniu wejścia w życie kodeksu rodzinnego i opiekuńczego unieważnienie takiego małżeństwa może być orzeczone tylko według przepisów tego kodeksu.
+Art. VII.
+Ustanie, unieważnienie lub rozłączenie małżeństwa, które nastąpiło przed dniem wejścia w życie kodeksu rodzinnego i opiekuńczego, ocenia się według przepisów prawa obowiązującego w chwili ustania, unieważnienia lub rozłączenia małżeństwa. Nie dotyczy to jednak skutków prawnych ustania lub unieważnienia, które powstały po wejściu w życie kodeksu rodzinnego i opiekuńczego.
+Art. VIII.
+Jeżeli w chwili wejścia w życie kodeksu rodzinnego i opiekuńczego stosunki majątkowe między małżonkami podlegały wspólności ustawowej w rozumieniu kodeksu rodzinnego z 1950 r., składniki majątku małżonków istniejące w chwili wejścia w życie kodeksu rodzinnego i opiekuńczego zalicza się od tej chwili do majątku wspólnego albo do majątku odrębnego stosownie do przepisów kodeksu rodzinnego i opiekuńczego.
+Art. IX.
+§ 1.
+Jeżeli w chwili wejścia w życie kodeksu rodzinnego i opiekuńczego stosunki majątkowe między małżonkami były oparte na umowie majątkowej małżeńskiej, do stosunków tych stosuje się nadal przepisy obowiązujące w chwili zawarcia umowy. Jednakże strony mogą przez umowę zmienić dotychczasowy ustrój majątkowy stosownie do przepisów kodeksu rodzinnego i opiekuńczego.
+§ 2.
+Jeżeli w chwili wejścia w życie kodeksu rodzinnego i opiekuńczego stosunki majątkowe między małżonkami nie podlegały wspólności ustawowej ani nie były określone przez umowę majątkową małżeńską, istnieje między małżonkami rozdzielność majątkowa w rozumieniu kodeksu rodzinnego i opiekuńczego.
+Art. X.
+Do wszczętych przed dniem wejścia w życie kodeksu rodzinnego i opiekuńczego spraw o zaprzeczenie ojcostwa, o unieważnienie uznania dziecka oraz o rozwiązanie stosunku przysposobienia stosuje się przepisy dotychczasowe.
+Art. XI.
+Jeżeli przed dniem wejścia w życie kodeksu rodzinnego i opiekuńczego zmiana nazwiska dziecka nie mogła nastąpić z tego tylko powodu, że okoliczności, od których zmiana ta zależy stosownie do art. 36 i 37 kodeksu rodzinnego z 1950 r., nastąpiły już po uzyskaniu przez dziecko pełnoletności (art. 38 kodeksu rodzinnego z 1950 r.), strony zainteresowane mogą w ciągu roku od dnia wejścia w życie kodeksu rodzinnego i opiekuńczego złożyć w urzędzie stanu cywilnego, w którym został sporządzony akt urodzenia dziecka, wniosek o dokonanie zmiany nazwiska stosownie do przepisów art. 88–90 kodeksu rodzinnego i opiekuńczego.
+Art. XII.
+Ważność przysposobienia i rozwiązania stosunku przysposobienia, jak również ważność uznania dziecka oraz wszelkich innych czynności prawnych unormowanych w kodeksie rodzinnym i opiekuńczym, a dokonanych przed dniem wejścia w życie tegoż kodeksu, ocenia się według przepisów obowiązujących w chwili ich dokonania.
+Art. XIII.
+§ 1.
+Przysposobienie dokonane przed dniem wejścia w życie kodeksu rodzinnego i opiekuńczego wywołuje skutki przewidziane w art. 124 tego kodeksu.
+§ 2.
+W ciągu lat pięciu od dnia wejścia w życie kodeksu rodzinnego i opiekuńczego sąd opiekuńczy może na wniosek przysposabiającego orzec, że skutki przysposobienia dokonanego przed tym dniem będą podlegały przepisom art. 121–123 tego kodeksu.
+§ 3.
+Pozostają jednak w mocy postanowienia aktu przysposobienia dotyczące nazwiska przysposobionego.
+Przepis końcowy
+Art. XIV.
+Ustawa wchodzi w życie z dniem 1 stycznia 1965 r.
+
+#### Rozdział I Przepisy ogólne
+
+#### Rozdział II Zmiany w przepisach obowiązujących
+
+**Art. 38.**
+
+1. Jeżeli rodzice zawierają małżeństwo po urodzeniu się dziecka, wpisuje się na marginesie aktu urodzenia wzmiankę dodatkową o zawarciu małżeństwa oraz o wynikającej stąd według przepisów kodeksu rodzinnego i opiekuńczego zmianie nazwiska dziecka.
+
+2. Wpisania wzmianki określonej w ust. 1 dokonywa się na wniosek osoby zainteresowanej po wykazaniu dokumentem publicznym, że dziecko pochodzi od małżonków. Jeżeli w chwili zgłoszenia wniosku ojcostwo męża matki nie jest jeszcze ustalone, wniosek o wpisanie wzmianki może być zgłoszony jednocześnie z uznaniem dziecka przez męża matki.
+
+3. Wniosek o wpisanie wzmianki określonej w ust. 1 mogą rodzice dziecka zgłosić przy sporządzaniu aktu małżeństwa lub później w każdym urzędzie stanu cywilnego. Inne osoby zainteresowane mogą zgłosić wniosek tylko w urzędzie stanu cywilnego, w którym sporządzony został akt urodzenia dziecka. ” ;
+
+- **3)** w art. 39 ust. 1 otrzymuje brzmienie: „
+
+1. W razie zgłoszenia kierownikowi urzędu stanu cywilnego oświadczenia o uznaniu dziecka lub o nadaniu dziecku żony, które nie nosi nazwiska ojca albo któremu nazwisko ojca zostało nadane na podstawie sądowego ustalenia ojcostwa, nazwiska jej męża, wpisuje się w akcie stanu cywilnego wzmiankę dodatkową o uznaniu dziecka i o wynikającej stąd według przepisów kodeksu rodzinnego i opiekuńczego zmianie nazwiska dziecka albo o nadaniu nazwiska. ” ;
+
+- **4)** w art. 40 na końcu ust. 1 kropkę zastępuje się przecinkiem i dodaje się wyrazy „a skutki przysposobienia podlegają przepisom art. 124 kodeksu rodzinnego i opiekuńczego.”;
+- **5)** przed art. 42 dodaje się nowy art. 411 w brzmieniu: „
+
+**Art. 411.** Sposób zawierania małżeństwa określają przepisy kodeksu rodzinnego i opiekuńczego. Ponadto należy stosować przepisy zawarte w artykułach poniższych. ” ;
+
+**Art. 45.** Do udzielenia zezwolenia na zawarcie małżeństwa bez zachowania przewidzianego w art. 4 kodeksu rodzinnego i opiekuńczego terminu właściwy jest organ nadzoru nad urzędem stanu cywilnego, w którym małżeństwo ma być zawarte. ” ;
+
+#### Rozdział III Przepisy przejściowe
 

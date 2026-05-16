@@ -8,9 +8,10 @@ pos: 273
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 141i wust. i4, 141j, 141k wust. i4, 141l, 142 wust. 1—3, Art. 3. Ustawa wchodzi wżycie zdniem kwietnia 143 we wprowadzeniu do 2007 r., wyjątkiem który wchodzi życie wyliczenia 144 dniem stycznia 2008 r.
+# Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy o systemie informacji oświatowej oraz ustawy o systemie oświaty
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,27 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070420273) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/273/text.pdf) |
 
-7—10, 145 1, 2a 5, art.146 3, 147 we Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
-USTAWA dnia 26 stycznia 2007 r.
-zmianie ustawy systemie informacji oświatowej ustawy systemie oświaty
+**Art. 1.** W ustawie z dnia 19 lutego 2004 r. o systemie informacji oświatowej (Dz. U. Nr 49, poz. 463 oraz z 2005 r. Nr 64, poz. 565) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 19 lutego 2004 r. systemie informacji oświatowej (Dz. U. 49, poz. 463 2005 r. 64, poz. 565) wprowadza się następujące zmiany:
+**Art. 8.**
 
-**Art. 2.** Wustawie zdnia 7 września 1991 r. osystemie oświaty (Dz. U. z2004 r. 256, poz. 2572, zpóên. zm. Ń4. Dokumentację przebiegu nauczania zlikwidowanej szkoły przekazuje się organowi sprawującemu nadzór pedagogiczny, terminie jednego miesiąca od dnia zakończenia likwidacji. Po zakończeniu likwidacji wpis do ewidencji ulega wykreśleniu.”.
+1. Dane w bazach danych oświatowych są aktualizowane i przekazywane według stanu na dzień 31 marca i dzień 30 września każdego roku, z zastrzeżeniem ust. 2–4.
 
-**Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. ) wprowadza się następujące zmiany: Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 274 OBWIESZCZENIE MARSZAĘKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 14 lutego 2007 r. sprawie ogłoszenia jednolitego tekstu ustawy specjalnych strefach ekonomicznych 1. Na podstawie 16 zdanie pierwsze usta- ustawą dnia 20 czerwca 2002 r. bezpośrednim wy dnia 20 lipca 2000 r. ogłaszaniu aktów norma- wyborze wójta, burmistrza prezydenta miasta tywnych niektórych innych aktów prawnych (Dz. U. (Dz. U. 113, poz. 984), 2005 r. 190, poz. 1606 267, poz. 2253 2006 r. 73, poz. 501, 104, poz. 708, 145, 6) ustawą dnia 5 grudnia 2002 r. zmianie ustawy poz.1050 iNr 220, poz. 1600) ogłasza się wzałączniku zasadach wykonywania uprawnień przysługujądo niniejszego obwieszczenia jednolity tekst ustawy cych Skarbowi Państwa, ustawy komercjalizacji dnia 20 paêdziernika 1994 r. specjalnych strefach prywatyzacji przedsiębiorstw państwowych ekonomicznych (Dz. U. 123, poz. 600), uwzględ- niektórych innych ustaw (Dz. U. 240, poz. 2055), nieniem zmian wprowadzonych: 7) ustawą dnia 2 paêdziernika 2003 r. zmianie
+2. Dane, o których mowa w art. 3 ust. 5, są aktualizowane i przekazywane według stanu na dzień 31 marca.
+
+3. Dane, o których mowa w art. 3 ust. 3 pkt 3, są aktualizowane i przekazywane według stanu na dzień 30 września.
+
+4. Dane w bazach danych oświatowych prowadzonych przez zakłady kształcenia nauczycieli oraz kolegia pracowników służb społecznych są aktualizowane i przekazywane według stanu na dzień 31 marca i dzień 10 października. ” ;
+
+- **6)** po art. 8 dodaje się art. 8a w brzmieniu: „
+
+1. Dane, o których mowa w art. 3 ust. 3 pkt 1 lit. c, ust. 4 pkt 1 lit. a-g, i, k, l i pkt 2, są dodatkowo aktualizowane i przekazywane według stanu na dzień 10 września.
+
+2. Obowiązek dodatkowego aktualizowania i przekazywania danych, o których mowa w art. 3 ust. 3 pkt 1 lit. c, nie dotyczy szkół i placówek oświatowych prowadzonych przez właściwych ministrów, a także szkół wpisanych do ewidencji, o której mowa w art. 82 ust. 1a ustawy o systemie oświaty.
+
+3. Obowiązek dodatkowego aktualizowania i przekazywania danych, o których mowa w art. 3 ust. 4 pkt 1 lit. a-g, i, k, l i pkt 2, nie dotyczy szkół i placówek oświatowych prowadzonych przez osoby fizyczne i osoby prawne inne niż jednostki samorządu terytorialnego. ” .
+
+**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -1,0 +1,151 @@
+---
+title: Rozporządzenie Ministra Finansów z dnia 22 grudnia 2023 r. w sprawie przekazywania informacji Narodowemu Bankowi Polskiemu przez dostawców usług płatniczych i inne podmioty zobowiązane
+address: WDU20230002808
+eli: DU/2023/2808
+publisher: DU
+year: 2023
+pos: 2808
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Finansówz dnia 22 grudnia 2023 r. w sprawie przekazywania informacji Narodowemu Bankowi Polskiemu przez dostawców usług płatniczych i inne podmioty zobowiązane
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2808 |
+| ISAP | WDU20230002808 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-12-22 |
+| Data wydania | 2023-12-29 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002808) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2808/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 14d ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2022 r. poz. 2360 i 2640 oraz z 2023 r. poz. 1394 i 1723) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowy zakres informacji, o których mowa w art. 14a-14c ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, zwanej dalej „ustawą”, przekazywanych Narodowemu Bankowi Polskiemu oraz sposób realizacji obowiązku ich przekazywania.
+§ 2.
+1.
+Szczegółowy zakres informacji, o których mowa w art. 14a ust. 1 pkt 1 ustawy, obejmuje informacje o:
+1)
+liczbie akceptantów, z uwzględnieniem liczby punktów handlowo-usługowych, oraz liczbie urządzeń akceptujących karty płatnicze, zlokalizowanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na rodzaj i funkcję urządzenia;
+2)
+liczbie akceptantów, z uwzględnieniem liczby punktów handlowo-usługowych, oraz liczbie urządzeń akceptujących pieniądz elektroniczny, zlokalizowanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na rodzaj i funkcję urządzenia;
+3)
+liczbie akceptantów, z uwzględnieniem liczby punktów handlowo-usługowych, oraz liczbie urządzeń akceptujących inne instrumenty płatnicze, zlokalizowanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na rodzaj i funkcję urządzenia;
+4)
+liczbie urządzeń, o których mowa w pkt 1–3, zlokalizowanych poza terytorium Rzeczypospolitej Polskiej, w podziale na kraje.
+2.
+Szczegółowy zakres informacji, o których mowa w art. 14a ust. 1 pkt 2 ustawy, obejmuje informacje o:
+1)
+liczbie i wartości transakcji płatniczych wykonanych przez klientów indywidualnych i biznesowych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, przy użyciu wydanych kart płatniczych, w tym kart umożliwiających dokonywanie płatności mobilnych i zbliżeniowych, w podziale na kraj wydawcy karty i kraj urządzenia akceptującego usługi płatnicze, formę inicjowania płatności, rodzaj uwierzytelnienia, rodzaj karty, sposób i rodzaj płatności, transakcje płatnicze gotówkowe i bezgotówkowe, transakcje płatnicze zdalne i niezdalne, schematy płatnicze oraz kategorię punktu handlowo-usługowego;
+2)
+liczbie i wartości transakcji płatniczych wykonanych przez klientów indywidualnych i biznesowych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, przy użyciu innych instrumentów płatniczych, w tym umożliwiających dokonywanie płatności mobilnych i zbliżeniowych, w podziale na kraj wydawcy instrumentu płatniczego, kraj urządzenia akceptującego usługi płatnicze, formę inicjowania płatności, rodzaj uwierzytelnienia, rodzaj instrumentu płatniczego, sposób i rodzaj płatności, transakcje płatnicze gotówkowe i bezgotówkowe, transakcje płatnicze zdalne i niezdalne, schematy płatnicze oraz kategorię punktu handlowo-usługowego.
+3.
+Szczegółowy zakres informacji, o których mowa w art. 14a ust. 1 pkt 3 ustawy, obejmuje informacje o liczbie i wartości transakcji płatniczych naruszających przepisy prawa lub reguły uczciwego obrotu, wykonanych przez klientów indywidualnych i biznesowych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, przy użyciu kart płatniczych oraz innych instrumentów płatniczych, w tym umożliwiających dokonywanie płatności mobilnych i zbliżeniowych, w podziale na kraj wydawcy karty i kraj urządzenia akceptującego usługi płatnicze, formę inicjowania płatności, rodzaj uwierzytelnienia, rodzaj karty, sposób i rodzaj płatności, transakcje płatnicze gotówkowe i bezgotówkowe, transakcje płatnicze zdalne i niezdalne, schematy płatnicze oraz wysokość spowodowanych nimi strat.
+§ 3.
+Szczegółowy zakres informacji, o których mowa w art. 14aa ust. 1 ustawy, obejmuje informacje o:
+1)
+liczbie bankomatów i wpłatomatów zlokalizowanych na terytorium Rzeczypospolitej Polskiej i poza nim w podziale na kraje, typ i funkcję;
+2)
+liczbie i wartości transakcji wykonanych w bankomatach i wpłatomatach zlokalizowanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, przy użyciu instrumentów płatniczych wydanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, formę inicjowania płatności, rodzaj uwierzytelnienia, sposób i rodzaj transakcji, transakcje gotówkowe i bezgotówkowe oraz schematy płatnicze;
+3)
+liczbie i wartości transakcji płatniczych, naruszających przepisy prawa lub reguły uczciwego obrotu, zarejestrowanych w bankomatach lub wpłatomatach zlokalizowanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje. Transakcje takie klasyfikowane są ze względu na formę, sposób i rodzaj transakcji płatniczych, transakcje płatnicze gotówkowe i bezgotówkowe, transakcje płatnicze zdalne i niezdalne, rodzaj uwierzytelnienia, sposób dokonania płatności oraz schematy płatnicze, sposób dokonania oszustwa, z wyszczególnieniem rodzaju źródła naruszenia prawa lub reguł uczciwego obrotu oraz wysokości spowodowanych nimi strat oraz w podziale na użyty instrument płatniczy wydany na terytorium Rzeczypospolitej Polskiej i poza terytorium Rzeczypospolitej Polskiej, w podziale na kraje.
+§ 4.
+Szczegółowy zakres informacji, o których mowa w art. 14ab ust. 1 ustawy, obejmuje informacje o:
+1)
+liczbie prowadzonych rachunków płatniczych;
+2)
+liczbie rachunków płatniczych, do których dostęp posiadają dostawcy świadczący usługę dostępu do informacji o rachunku na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, oraz liczbie użytkowników, którzy zezwolili na dostęp do informacji o rachunku.
+§ 5.
+Szczegółowy zakres informacji, o których mowa w art. 14ac ust. 1 ustawy, obejmuje informacje o:
+1)
+liczbie użytkowników, dla których dostawca świadczy usługę inicjowania transakcji płatniczej;
+2)
+liczbie i wartości zainicjowanych transakcji płatniczych wykonanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, rodzaj płatności, transakcje zdalne i niezdalne oraz rodzaj uwierzytelnienia;
+3)
+liczbie i wartości zainicjowanych transakcji płatniczych, naruszających przepisy prawa lub reguły uczciwego obrotu, wykonanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, rodzaj płatności, transakcje zdalne i niezdalne oraz rodzaj uwierzytelnienia.
+§ 6.
+Szczegółowy zakres informacji, o których mowa w art. 14ad ust. 1 ustawy, obejmuje informacje o:
+1)
+liczbie użytkowników, którym dostawca świadczy usługę dostępu do informacji o rachunku;
+2)
+liczbie rachunków płatniczych, do których zapewniono dostęp w ramach usługi dostępu do informacji o rachunku.
+§ 7.
+1.
+Szczegółowy zakres informacji, o których mowa w art. 14b ust. 1 pkt 1 ustawy, obejmuje informacje o:
+1)
+liczbie wydanych kart płatniczych dla klientów indywidualnych i biznesowych, w tym umożliwiających dokonywanie płatności zbliżeniowych i mobilnych, w podziale na rodzaj, funkcję karty, technologię zapisu danych, funkcję oraz schematy płatnicze;
+2)
+liczbie wydanych innych instrumentów płatniczych dla klientów indywidualnych i biznesowych, w tym umożliwiających dokonywanie płatności zbliżeniowych i mobilnych, w podziale na rodzaj, technologię zapisu danych, funkcję oraz schematy płatnicze.
+2.
+Szczegółowy zakres informacji, o których mowa w art. 14b ust. 1 pkt 2 ustawy, obejmuje informacje o:
+1)
+liczbie i wartości transakcji płatniczych wykonanych przez klientów indywidualnych i biznesowych przy użyciu wydanych kart płatniczych, w tym kart umożliwiających dokonywanie płatności mobilnych i zbliżeniowych, na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraj agenta i kraj urządzenia akceptującego usługi płatnicze, formę inicjowania płatności, rodzaj uwierzytelnienia, rodzaj karty, sposób i rodzaj płatności, transakcje płatnicze gotówkowe i bezgotówkowe, transakcje płatnicze zdalne i niezdalne, schematy płatnicze oraz kategorię punktu handlowo-usługowego;
+2)
+liczbie i wartości transakcji płatniczych wykonanych przez klientów indywidualnych i biznesowych, przy użyciu innych instrumentów płatniczych, w tym umożliwiających dokonywanie płatności mobilnych i zbliżeniowych, na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraj agenta i kraj urządzenia akceptującego usługi płatnicze, formę inicjowania płatności, rodzaj uwierzytelnienia, sposób i rodzaj płatności, transakcje płatnicze gotówkowe i bezgotówkowe, transakcje płatnicze zdalne i niezdalne, schematy płatnicze oraz kategorię punktu handlowo-usługowego;
+3)
+liczbie i wartości transakcji płatniczych wykonanych w drodze polecenia przelewu, w których środki pieniężne były wysłane i otrzymane przez klientów indywidualnych i biznesowych na terytorium Rzeczypospolitej Polskiej oraz wysłane poza terytorium Rzeczypospolitej Polskiej i otrzymane spoza terytorium Rzeczypospolitej Polskiej, w podziale na kraje, sposób i rodzaj transakcji płatniczych, transakcje płatnicze zdalne i niezdalne, rodzaj uwierzytelnienia, formę inicjowania płatności, z wyszczególnieniem schematu polecenia przelewu;
+4)
+liczbie i wartości transakcji płatniczych wykonanych w drodze polecenia zapłaty, w których środki pieniężne były wysłane i otrzymane przez klientów indywidualnych i biznesowych na terytorium Rzeczypospolitej Polskiej oraz wysłane poza terytorium Rzeczypospolitej Polskiej i otrzymane spoza terytorium Rzeczypospolitej Polskiej, w podziale na kraje, formę, sposób i rodzaj transakcji płatniczych, formę inicjowania płatności, rodzaj upoważnienia, z wyszczególnieniem schematu polecenia zapłaty;
+5)
+liczbie i wartości transakcji płatniczych wykonanych przy użyciu czeków, w których środki pieniężne były wysłane i otrzymane przez klientów indywidualnych i biznesowych na terytorium Rzeczypospolitej Polskiej oraz wysłane poza terytorium Rzeczypospolitej Polskiej i otrzymane spoza terytorium Rzeczypospolitej Polskiej, w podziale na kraje;
+6)
+liczbie i wartości transakcji płatniczych wykonanych przy użyciu instrumentów płatniczych wydanych na terytorium Rzeczypospolitej Polskiej, umożliwiających dokonywanie płatności mobilnych, w podziale na systemy płatności mobilnych, rodzaj transakcji płatniczych oraz liczbę użytkowników systemu płatności mobilnych.
+3.
+Szczegółowy zakres informacji, o których mowa w art. 14b ust. 1 pkt 3 ustawy, obejmuje informacje o:
+1)
+liczbie udostępnionych bankomatów zlokalizowanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, typ i funkcję;
+2)
+liczbie i wartości transakcji płatniczych wykonanych w udostępnionych bankomatach zlokalizowanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, przy użyciu instrumentów płatniczych wydanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, formę inicjowania płatności, rodzaj uwierzytelnienia, sposób i rodzaj transakcji płatniczych, transakcje płatnicze gotówkowe i bezgotówkowe, oraz schematy płatnicze.
+4.
+Szczegółowy zakres informacji, o których mowa w art. 14b ust. 1 pkt 4 ustawy, obejmuje informacje o transakcjach płatniczych naruszających przepisy prawa lub reguły uczciwego obrotu, w tym informacje o:
+1)
+liczbie i wartości transakcji płatniczych wykonanych przez klientów indywidualnych i biznesowych przy użyciu wydanych kart płatniczych, w tym kart umożliwiających dokonywanie płatności zbliżeniowych, na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraj agenta i kraj urządzenia akceptującego usługi płatnicze, formę inicjowania płatności, rodzaj uwierzytelnienia, rodzaj karty, typ, sposób i rodzaj płatności, transakcje płatnicze gotówkowe i bezgotówkowe, transakcje płatnicze zdalne i niezdalne, schematy płatnicze oraz wysokość spowodowanych nimi strat;
+2)
+liczbie i wartości transakcji płatniczych wykonanych przez klientów indywidualnych i biznesowych na terytorium Rzeczypospolitej Polskiej i poza nim przy użyciu wydanych innych instrumentów płatniczych, w tym umożliwiających dokonywanie płatności mobilnych i zbliżeniowych, w podziale na kraj agenta i kraj urządzenia akceptującego usługi płatnicze, formę inicjowania płatności, rodzaj uwierzytelnienia, rodzaj karty, typ, sposób i rodzaj płatności, transakcje płatnicze gotówkowe i bezgotówkowe, transakcje płatnicze zdalne i niezdalne, schematy płatnicze oraz wysokość spowodowanych nimi strat;
+3)
+liczbie i wartości transakcji płatniczych wykonanych przez klientów indywidualnych i biznesowych przy użyciu polecenia przelewu na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, formę, sposób i rodzaj transakcji płatniczych, sposób uwierzytelnienia, formę inicjowania płatności, z wyszczególnieniem schematu polecenia przelewu, i sposób dokonania oszustwa, z wyszczególnieniem rodzaju źródła naruszenia prawa lub reguł uczciwego obrotu oraz wysokości spowodowanych nimi strat;
+4)
+liczbie i wartości transakcji płatniczych wykonanych przez klientów indywidualnych i biznesowych przy użyciu polecenia zapłaty na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, formę, sposób i rodzaj transakcji płatniczych, sposób uwierzytelnienia, formę inicjowania płatności, z wyszczególnieniem schematu polecenia zapłaty, i sposób dokonania oszustwa, z wyszczególnieniem rodzaju źródła naruszenia prawa lub reguł uczciwego obrotu oraz wysokości spowodowanych nim strat;
+5)
+liczbie i wartości transakcji płatniczych wykonanych przy użyciu czeków przez klientów indywidualnych i biznesowych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje;
+6)
+liczbie i wartości transakcji płatniczych, zarejestrowanych w udostępnionych bankomatach zlokalizowanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje. Transakcje takie klasyfikowane są ze względu na formę, sposób i rodzaj transakcji płatniczych, transakcje płatnicze gotówkowe i bezgotówkowe, transakcje płatnicze zdalne i niezdalne, rodzaj uwierzytelnienia, sposób dokonania płatności oraz schematy płatnicze, sposób dokonania oszustwa, z wyszczególnieniem rodzaju źródła naruszenia prawa lub reguł uczciwego obrotu oraz wysokości spowodowanych nim strat oraz w podziale na użyty instrument płatniczy wydany na terytorium Rzeczypospolitej Polskiej i poza terytorium Rzeczypospolitej Polskiej, w podziale na kraje.
+§ 8.
+Szczegółowy zakres informacji, o których mowa w art. 14b ust. 2 oraz art. 14c ust. 1 ustawy, obejmuje informacje o:
+1)
+liczbie instrumentów płatniczych umożliwiających przechowywanie pieniądza elektronicznego wydanych przez wydawcę, w podziale na funkcję i rodzaj instrumentu płatniczego;
+2)
+liczbie urządzeń akceptujących instrumenty płatnicze umożliwiające przechowywanie pieniądza elektronicznego, w podziale na funkcję terminala i kraje;
+3)
+liczbie urządzeń do ładowania i rozładowania kart pieniądza elektronicznego i terminali akceptujących karty pieniądza elektronicznego, w podziale na kraje;
+4)
+liczbie i wartości transakcji płatniczych z użyciem pieniądza elektronicznego przy wykorzystaniu kart z funkcją pieniądza elektronicznego wykonanych w terminalach zlokalizowanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje;
+5)
+liczbie i wartości transakcji ładowania i rozładowywania kart pieniądza elektronicznego wykonanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje;
+6)
+liczbie i wartości transakcji płatniczych wykonanych przy użyciu pieniądza elektronicznego oraz wartości wydanego pieniądza elektronicznego pozostającego w obiegu;
+7)
+liczbie i wartości transakcji płatniczych wykonanych na terytorium Rzeczypospolitej Polskiej i poza nim, w podziale na kraje, przy użyciu pieniądza elektronicznego, przy wykorzystaniu kart umożliwiających przechowywanie pieniądza elektronicznego, wydanych na terytorium Rzeczypospolitej Polskiej i poza nim, oraz przy użyciu rachunku pieniądza elektronicznego, w podziale na transakcje płatnicze, w których środki pieniężne były wysłane na i poza terytorium Rzeczypospolitej Polskiej oraz otrzymane na terytorium Rzeczypospolitej Polskiej i spoza terytorium Rzeczypospolitej Polskiej, transakcje płatnicze zdalne i niezdalne, formę, sposób i rodzaj transakcji płatniczych oraz uwierzytelnienia;
+8)
+liczbie i wartości transakcji płatniczych naruszających przepisy prawa lub reguły uczciwego obrotu wykonanych na terytorium Rzeczypospolitej Polskiej i poza nim, przy użyciu pieniądza elektronicznego, przy wykorzystaniu kart umożliwiających przechowywanie pieniądza elektronicznego, wydanych na terytorium Rzeczypospolitej Polskiej i poza nim, oraz przy użyciu rachunku pieniądza elektronicznego, w podziale na kraje, transakcje płatnicze, w których środki pieniężne były wysłane na i poza terytorium Rzeczypospolitej Polskiej oraz otrzymane na terytorium Rzeczypospolitej Polskiej i spoza terytorium Rzeczypospolitej Polskiej, transakcje płatnicze zdalne i niezdalne, formę, sposób i rodzaj transakcji płatniczych oraz uwierzytelnienia, transakcje płatnicze gotówkowe i bezgotówkowe, formę, sposób dokonania oszustw oraz ze wskazaniem wysokości spowodowanych nimi strat.
+§ 9.
+1.
+Informacje, o których mowa w § 2−8, są przekazywane w postaci elektronicznej za pośrednictwem internetowego Portalu Systemu Informacji Sprawozdawczej, przy użyciu taksonomii XBRL udostępnionej przez Narodowy Bank Polski w internetowym Portalu Systemu Informacji Sprawozdawczej.
+2.
+Mała instytucja płatnicza, przekazując informacje, o których mowa w § 2–4 i § 7, może użyć taksonomii innej niż XBRL.
+§ 10.
+1.
+Przepisy rozporządzenia stosuje się po raz pierwszy do informacji przekazywanych za pierwszy kwartał 2024 r. i pierwsze półrocze 2024 r.
+2.
+Informacje obejmujące okres czwartego kwartału 2023 r. przekazuje się w zakresie i sposób określonych w przepisach dotychczasowych.
+§ 11.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.
+1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Europejskiego Banku Centralnego (EU) nr 1409/2013 z dnia 28 listopada 2013 r. w sprawie statystyki płatności (Dz. Urz. UE L 352 z 24.12.2013, str. 18 oraz Dz. Urz. UE L 418 z 11.12.2020, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 grudnia 2022 r. w sprawie przekazywania informacji Narodowemu Bankowi Polskiemu przez agentów rozliczeniowych, wydawców instrumentów płatniczych oraz wydawców pieniądza elektronicznego (Dz. U. poz. 2819), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 64 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723).
+

@@ -8,9 +8,10 @@ pos: 805
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lipca 2013 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 25 czerwca 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +25,10 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000805) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/805/text.pdf) |
 
-Poz. 805 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 25 czerwca 2013 r.
-sygn. akt K 30/12 Trybunał Konstytucyjny w składzie: Małgorzata Pyziak-Szafnicka – przewodniczący, Teresa Liszcz, Stanisław Rymar – sprawozdawca, Piotr Tuleja, Sławomira Wronkowska-Jaśkiewicz, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 25 czerwca 2013 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 40 ust. 5 pkt 1 lit. b ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287) z art. 92 ust. 1 w związku z art. 217 Konstytucji, orzeka: I
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Małgorzata Pyziak-Szafnicka – przewodniczący, Teresa Liszcz, Stanisław Rymar – sprawozdawca, Piotr Tuleja, Sławomira Wronkowska-Jaśkiewicz, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 25 czerwca 2013 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 40 ust. 5 pkt 1 lit. b ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287) z art. 92 ust. 1 w związku z art. 217 Konstytucji, orzeka:
+I
 Art. 40 ust. 5 pkt 1 lit. b ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287) jest niezgodny z art. 92 ust. 1 i art. 217 Konstytucji Rzeczypospolitej Polskiej.
-II Przepis wymieniony w części I traci moc obowiązującą z upływem 12 (dwunastu) miesięcy od dnia ogłoszenia wyroku w Dzienniku Ustaw Rzeczypospolitej Polskiej.
-Małgorzata Pyziak-Szafnicka Teresa Liszcz Stanisław Rymar Piotr Tuleja Sławomira Wronkowska-Jaśkiewicz
+II
+Przepis wymieniony w części I traci moc obowiązującą z upływem 12 (dwunastu) miesięcy od dnia ogłoszenia wyroku w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 

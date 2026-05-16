@@ -8,6 +8,7 @@ pos: 429
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 7 marca 2007 r. o zmianie ustawy o produktach pochodzenia zwierzęcego oraz ustawy o systemie identyfikacji i rejestracji zwierząt
@@ -24,33 +25,112 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070640429) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/429/text.pdf) |
 
-**Art. 2.** Dyplomy nurków IIIklasy, dyplomy nurków II klasy dyplomy kierowników prac podwodnych II klasy podlegają wymianie trybie określonym art. 32 ustawy wymienionej art. 1. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA z dnia 7 marca 2007 r. zmianie ustawy produktach pochodzenia oraz ustawy systemie identyfikacji
+**Art. 1.** W ustawie z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2006 r. Nr 17, poz. 127 i Nr 171, poz. 1225) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 16 grudnia 2005 r. produktach pochodzenia (Dz. U. z 2006 r. Nr17, poz. 127 iNr 171, poz. 1225) wprowadza się następujące zmiany:
+**Art. 9a.**
+
+1. Produkty pochodzenia zwierzęcego wywożone z terytorium Rzeczypospolitej Polskiej do państw trzecich zaopatruje się w świadectwa zdrowia lub inne dokumenty, jeżeli są one wymagane przez państwo trzecie miejsca przeznaczenia tych produktów.
+
+2. Świadectwa zdrowia lub inne dokumenty są dołączane do przesyłki produktów pochodzenia zwierzęcego i udostępniane na każde żądanie organu celnego.
+
+3. Organy Inspekcji Weterynaryjnej nakładają plomby na środki transportu, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich, niezwłocznie po każdym załadowaniu produktów pochodzenia zwierzęcego.
+
+4. Uprawnienie organów Inspekcji Weterynaryjnej do nakładania plomb nie narusza uprawnień i obowiązków organów celnych związanych z przeprowadzeniem kontroli celnej.
+
+5. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, informacje, jakie umieszcza się na plombach nakładanych na środki transportu, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich, mając na względzie zapewnienie możliwości identyfikacji produktów pochodzenia zwierzęcego wywożonych środkami transportu. ” ;
+
+- **5)** w art. 11: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przy produkcji produktów pochodzenia zwierzęcego, w zakresie nieuregulowanym w przepisach rozporządzenia nr 852/2004, rozporządzenia nr 853/2004 i w przepisach Unii Europejskiej wydanych w trybie tych rozporządzeń, a także w zakresie, w jakim te przepisy upoważniają państwo członkowskie Unii Europejskiej do wydania odrębnych regulacji prawnych, powinny być spełnione wymagania zdrowotne, higieniczne, sanitarne, organizacyjne, lokalizacyjne, techniczne i technologiczne, zwane dalej „wymaganiami weterynaryjnymi”, jeżeli zostały określone w przepisach wydanych na podstawie ust. 2, obejmujące w szczególności: ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, wymagania weterynaryjne, jakie powinny być spełnione przy produkcji produktów pochodzenia zwierzęcego lub przez produkty pochodzenia zwierzęcego wprowadzane na rynek, w zakresie nieuregulowanym w przepisach rozporządzenia nr 852/2004 i rozporządzenia nr 853/2004 oraz w przepisach Unii Europejskiej wydanych w trybie tych rozporządzeń lub w zakresie, w jakim te przepisy upoważniają państwo członkowskie Unii Europejskiej do wydania odrębnych regulacji prawnych, biorąc pod uwagę wielkość produkcji, w tym specyfikę zakładów o małej zdolności produkcyjnej, oraz ochronę zdrowia publicznego, w tym potrzebę zapewnienia bezpieczeństwa produktów pochodzenia zwierzęcego. ” ;
+
+- **6)** po art. 11 dodaje się art. 11a w brzmieniu: „
+
+**Art. 11a.**
+
+1. Przy produkcji mięsa przeznaczonego na użytek własny powinny być spełnione wymagania zdrowotne, higieniczne i sanitarne, zwane dalej „wymaganiami weterynaryjnymi przy produkcji mięsa przeznaczonego na użytek własny”, obejmujące w szczególności:
+
+- **1)** wymagania dotyczące zdrowia zwierząt, z których pozyskuje się mięso, lub
+- **2)** wymagania, jakie powinny być spełnione przy uboju na terenie gospodarstwa, lub
+- **3)** wymagania dotyczące badania poubojowego mięsa, w tym mięsa pozyskanego w wyniku odstrzału zwierząt łownych, lub
+- **4)** sposób znakowania mięsa.
+
+2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wymagania weterynaryjne przy produkcji mięsa przeznaczonego na użytek własny, biorąc pod uwagę ochronę zdrowia publicznego, w tym potrzebę zapewnienia bezpieczeństwa produktów pochodzenia zwierzęcego. ” ;
+
+- **7)** w art. 17 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Dopuszcza się ubój na terenie gospodarstwa, utrzymywanych w tym gospodarstwie, cieląt do szóstego miesiąca życia, świń, owiec, kóz, drobiu oraz zwierząt dzikich utrzymywanych w warunkach fermowych, w celu produkcji mięsa przeznaczonego na użytek własny. ” ;
+
+- **8)** w art. 20 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** prowadzi: rejestr zakładów obejmujący zakłady, które podlegają rejestracji zgodnie z art. 4 ust. 1 lit. b rozporządzenia nr 853/2004, zakłady zatwierdzone zgodnie z art. 4 ust. 2 rozporządzenia nr 853/2004, zakłady prowadzące działalność marginalną, lokalną i ograniczoną oraz zakłady prowadzące działalność w zakresie produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej, wykaz podmiotów prowadzących działalność rejestrowaną; ” ;
+    - **a)**
+    - **b)**
+
+- **9)** po art. 21 dodaje się art. 21a i 21b w brzmieniu: „
+
+**Art. 21a.**
+
+1. Jeżeli państwo trzecie uzależnia wysyłkę produktów pochodzenia zwierzęcego do tego państwa od nadania zakładowi uprawnienia do produkcji na rynek danego państwa trzeciego, powiatowy lekarz weterynarii, w drodze decyzji, nadaje zakładowi takie uprawnienie.
+
+2. Powiatowy lekarz weterynarii po wydaniu decyzji, o której mowa w ust. 1, w prowadzonym rejestrze zakładów umieszcza informację o nadaniu uprawnienia danemu zakładowi do produkcji na rynek państwa trzeciego.
+
+3. Jeżeli państwo trzecie uzależnia uzyskanie uprawnienia do produkcji na rynek tego państwa od wyników przeprowadzonej przez właściwy organ tego państwa kontroli, powiatowy lekarz weterynarii wydaje decyzję, o której mowa w ust. 1, po uzyskaniu przez ten zakład zatwierdzenia przez właściwy organ państwa trzeciego.
+
+4. Koszty kontroli, o której mowa w ust. 3, ponosi podmiot ubiegający się o uzyskanie uprawnienia, chyba że są one ponoszone przez państwo trzecie.
+
+5. Decyzję w sprawie nadania zakładowi uprawnienia do produkcji na rynek państwa trzeciego powiatowy lekarz weterynarii wydaje:
+
+- **1)** w terminie 30 dni od dnia złożenia przez podmiot wniosku o nadanie uprawnienia, po przeprowadzeniu kontroli w zakładzie;
+- **2)** w terminie 14 dni od dnia złożenia przez podmiot wniosku o nadanie uprawnienia, w przypadku, o którym mowa w ust. 3.
+
+6. Podmiot prowadzący zakład, który posiada uprawnienie do prowadzenia produkcji na rynek państwa trzeciego, informuje powiatowego lekarza weterynarii o zaprzestaniu prowadzenia tej produkcji oraz o każdej zmianie stanu prawnego lub faktycznego związanej z prowadzeniem tej produkcji, w terminie 7 dni od dnia zaistnienia takiej zmiany. Produkty pochodzenia zwierzęcego, z wyłączeniem produktów produkcji pierwotnej, stanowiące surowiec do produkcji w zakładach zatwierdzonych mogą pochodzić tylko z zakładów zatwierdzonych. ” ;
+
+- **10)** art. 22 i 23 otrzymują brzmienie: „
+
+**Art. 22.**
+
+1. Powiatowy lekarz weterynarii:
+
+- **1)** przekazuje, za pośrednictwem wojewódzkiego lekarza weterynarii, Głównemu Lekarzowi Weterynarii informacje zawarte w rejestrze i wykazach, o których mowa w art. 20 ust. 1, w tym informacje o każdej zmianie stanu faktycznego lub prawnego ujawnionego w tym rejestrze albo wykazach;
+- **2)** powiadamia o skreśleniu zakładu z rejestru, o którym mowa w art. 20 ust. 1 pkt 1 lit. a: państwowego powiatowego inspektora sanitarnego, wojewódzkiego inspektora inspekcji handlowej.
+    - **a)**
+    - **b)**
+
+2. Główny Lekarz Weterynarii, na podstawie informacji przekazywanych przez powiatowego lekarza weterynarii, o których mowa w ust. 1 pkt 1, sporządza i uaktualnia, w formie papierowej lub elektronicznej:
+
+- **1)** ogólny rejestr zakładów, o których mowa w art. 20 ust. 1 pkt 1 lit. a;
+- **2)** ogólny wykaz podmiotów prowadzących działalność rejestrowaną;
+- **3)** ogólny wykaz zatwierdzonych zakładów.
 
 **Art. 23.**
 
-1. Jeżeli zostanie stwierdzone, że wzakładach, októrych wart. 21a ust. 1, nie są spełniane wymagania określone przez państwo trzecie, powiatowy lekarz weterynarii, zależności od stopnia uchybienia, wydaje decyzję, której:
+1. Jeżeli zostanie stwierdzone, że w zakładach, o których mowa w art. 21a ust. 1, nie są spełniane wymagania określone przez państwo trzecie, powiatowy lekarz weterynarii, w zależności od stopnia uchybienia, wydaje decyzję, w której:
 
 - **1)** nakazuje usunięcie uchybień lub
-- **2)** zakazuje rynek państwa trzeciego niektórych rodzajów produktów pochodzenia zwierzęcego, lub
-- **3)** zakazuje wprowadzania partii produktów pochodzenia rynek państwa trzeciego, lub
-- **4)** zakazuje produktów pochodzenia rynek państwa trzeciego. twem wojewódzkiego lekarza weterynarii, Głównego Lekarza Weterynarii.
+- **2)** zakazuje produkcji na rynek państwa trzeciego niektórych rodzajów produktów pochodzenia zwierzęcego, lub
+- **3)** zakazuje wprowadzania partii produktów pochodzenia zwierzęcego na rynek państwa trzeciego, lub
+- **4)** zakazuje produkcji produktów pochodzenia zwierzęcego na rynek państwa trzeciego.
 
-5. Powiatowy lekarz weterynarii uchyla, wdrodze decyzji, zakazy, októrych mowa ust. 1 2—4, jeżeli przeprowadzona kontrola zakładu, którym mowa ust. 1, lub produktów pochodzenia pochodzących z tego zakładu potwierdzi spełnianie wymagań określonych przez państwo trzecie.”;
+2. W decyzji, o której mowa w ust. 1 pkt 1, powiatowy lekarz weterynarii może, biorąc pod uwagę rodzaj uchybień oraz stopień zagrożenia dla zdrowia publicznego lub zdrowia zwierząt, określić termin usunięcia uchybień.
 
-- **11)** wart. 24 wust. 2 wpkt 3 kropkę zastępuje się średnikiem dodaje się 4 brzmieniu: Ń4) uzgadniania z właściwą władzą państwa trzeciego wymagań weterynaryjnych, jakie powinny być spełnione przy przywozie z państwa trzeciego wywozie tego państwa produktów pochodzenia zwierzęcego, zakresie nieokreślonym przepisach Unii Europejskiej.”;
-- **12)** art. 25 otrzymuje brzmienie: ŃArt. 25. Kto:
-- **1)** podaje zwierzętom, z których lub od których pozyskuje się produkty pochodzenia zwierzęcego, substancje niedozwolone z wyłączeniem substancji działaniu beta-agonistycznym oraz hormonalnym, tym tyreostatycznym, podanych celu leczniczym lub zootechnicznym,
-- **2)** wykorzystuje zwierzęta, którym podawano substancje niedozwolone, produktów pochodzenia zwierzęcego, z wyłączeniem zwierząt, którym podawano substancje działaniu beta-agonistycznym oraz hormonalnym, tym tyreostatycznym, celu leczniczym lub zootechnicznym, jeżeli upłynął okres karencji określony tych substancji,
-- **3)** poddaje ubojowi zwierzęta poza rzeênią, wbrew przepisom art. 17, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności roku.”;
-- **13)** art. 26 ust. 1 2:
-    - **a)** wprowadzenie wyliczenia otrzymuje brzmienie: Ńprowadząc produkcję produktów pochodzenia zwierzęcego, powoduje zagrożenie zdrowia publicznego, nie zapewniając spełniania:”,
-    - **b)** lit. a otrzymuje brzmienie: Ńa) przez produkty pochodzenia wprowadzane rynek wymagań określonych tych produktów lub”.
+3. Powiatowy lekarz weterynarii, wydając decyzję, o której mowa w ust. 1 pkt 4, może cofnąć uprawnienia do produkcji produktów pochodzenia zwierzęcego na rynek państwa trzeciego.
 
-**Art. 2.** Wustawie zdnia 2 kwietnia 2004 r. osystemie identyfikacji (Dz. U. 91, poz. 872, z2005 r. 100, poz. 837 oraz z 2007 r. 52, poz. 345) art. 17 ust.3a 2 kropkę zastępuje się średnikiem dodaje się 3 brzmieniu: Ń3) uboju terenie gospodarstwa cieląt szóstego miesiąca życia, świń, owiec kóz, celu produkcji mięsa przeznaczonego własny, zgodnie z przepisami produktach pochodzenia zniszczenia kolczyka lub duplikatu kolczyka dokonuje posiadacz tych zwierząt.”. Art. Rejestr wykazy prowadzone podstawie art. 20 ust. 1 ustawy wymienionej wart. 1 stają się odpowiednio rejestrem wykazami prowadzonymi podstawie art. 20 ust. 1 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą.
+4. Powiatowy lekarz weterynarii o wydaniu decyzji, o których mowa w ust. 1 pkt 2–4, powiadamia, za pośrednictwem wojewódzkiego lekarza weterynarii, Głównego Lekarza Weterynarii.
 
-**Art. 4.** Dotychczasowe przepisy wykonawcze wydane podstawie art. 11 ust. 2 ustawy, mowa art. 1, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych podstawie art. 11 ust. 2 tej ustawy, brzmieniu nadanym niniejszą ustawą.
+5. Powiatowy lekarz weterynarii uchyla, w drodze decyzji, zakazy, o których mowa w ust. 1 pkt 2–4, jeżeli przeprowadzona kontrola zakładu, o którym mowa w ust. 1, lub produktów pochodzenia zwierzęcego pochodzących z tego zakładu potwierdzi spełnianie wymagań określonych przez państwo trzecie. ” ;
 
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni
+- **11)** w art. 24 w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** uzgadniania z właściwą władzą państwa trzeciego wymagań weterynaryjnych, jakie powinny być spełnione przy przywozie z państwa trzeciego i wywozie do tego państwa produktów pochodzenia zwierzęcego, w zakresie nieokreślonym w przepisach Unii Europejskiej. ” ;
+- **12)** art. 25 otrzymuje brzmienie: „
+
+**Art. 25.** Kto:
+
+**Art. 2.** W ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. Nr 91, poz. 872, z 2005 r. Nr 100, poz. 837 oraz z 2007 r. Nr 52, poz. 345) w art. 17 w ust. 3a w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+
+**Art. 3.** Rejestr i wykazy prowadzone na podstawie art. 20 ust. 1 ustawy wymienionej w art. 1 stają się odpowiednio rejestrem i wykazami prowadzonymi na podstawie art. 20 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 11 ust. 2 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 ust. 2 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

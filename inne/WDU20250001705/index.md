@@ -8,9 +8,10 @@ pos: 1705
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 grudnia 2025 r.
+# z dnia 7 listopada 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +25,21 @@ domain: null
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001705) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1705/text.pdf) |
 
-USTAWA dnia 7 listopada 2025 r.
-zmianie systemie informacji ochronie oraz ochronie ludności obronie cywilnej
+zmianie ustawy systemie informacji ochronie zdrowia oraz ustawy ochronie ludności i obronie cywilnej
 
-**Art. 1.** W ustawie dnia 28 kwietnia 2011 r. systemie informacji ochronie (Dz. U. 2025 r. poz. 302, 779
-
-**Art. 2.** W ustawie dnia 5 grudnia 2024 r. ochronie ludności obronie cywilnej (Dz. U. poz. 1907) art. 30:
+**Art. 1.** W ustawie z dnia 28 kwietnia 2011 r. systemie informacji ochronie zdrowia (Dz. U. z 2025 r. poz. 302, 779 i 1537) wprowadza się następujące zmiany:
 
 **Art. 3.**
 
-1. System Ewidencji Zasobów Ochrony Zdrowia, którym mowa art. 24 zmienianej art. 1, staje się dniem stycznia 2027 r. Systemem Ewidencji Potencjału Świadczeniodawcy, którym mowa art. 24 zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+1. System Ewidencji Zasobów Ochrony Zdrowia, którym 1 ustawy zmienianej 1, staje się z dniem 1 stycznia 2027 r. Systemem Ewidencji Potencjału Świadczeniodawcy, którym 1 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
 
-2. Dane zgromadzone Systemie Ewidencji Zasobów Ochrony Zdrowia, którym mowa art. 24 zmienianej art. 1, stają się dniem stycznia 2027 r. danymi Systemu Ewidencji Potencjału Świadczeniodawcy, którym mowa art. 24 zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+2. Dane zgromadzone Systemie Ewidencji Zasobów Ochrony Zdrowia, którym 1 ustawy zmienianej 1, stają się z dniem 1 stycznia 2027 r. danymi Systemu Ewidencji Potencjału Świadczeniodawcy, którym 1 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
 
 **Art. 4.**
 
-1. Usługodawcy, których mowa art. 24 5 6 zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, przekazują do Systemu Ewidencji Potencjału Świadczeniodawcy, którym mowa art. 24 zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, dane, których mowa art. 24 6 lit. a, b f zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, nie później niż od dnia lipca 2027 r.
+1. Usługodawcy, których 5 i 6 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, przekazują do Systemu Ewidencji Potencjału Świadczeniodawcy, którym 1 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, dane, których 1 6 lit. a, b i f ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, nie później niż od dnia 1 lipca 2027 r.
 
-2. Do dnia 30 czerwca 2027 r. podmiotom, których mowa art. 24 10–12 zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, są udostępniane Systemu Ewidencji Potencjału Świadczeniodawcy, którym mowa art. 24 zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, dane, których mowa art. 24 6 lit. a, b f zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, tylko takim zakresie, jakim zostały przekazane do tego systemu zgodnie 1.
+2. Do dnia 30 czerwca 2027 r. podmiotom, których 10–12 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, udostępniane z Systemu Ewidencji Potencjału Świadczeniodawcy, którym 1 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, dane, których 1 6 lit. a, b i f ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, tylko takim zakresie, jakim zostały przekazane do tego systemu zgodnie z 1.
 
-**Art. 5.** Ustawa wchodzi życie dniem stycznia 2027 r. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 5.** Ustawa wchodzi życie z dniem 1 stycznia 2027 r.
 

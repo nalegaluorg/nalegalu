@@ -8,11 +8,10 @@ pos: 1103
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy zakazie propagowania komunizmu lub innego ustroju totalitarnego nazwy organizacyjnych, pomocniczych gminy, budowli, obiektów urządzeń użyteczności publicznej pomniki Na podstawie 16 zdanie pierwsze ustawy z 20 lipca 2000 r. ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza załączniku niniejszego obwieszczenia jednolity tekst ustawy z kwietnia 2016 r. zakazie propagowania komunizmu lub innego ustroju totalitarnego nazwy budowli, obiektów urządzeń użyteczności publicznej (Dz. U. poz. 744), z uwzględnieniem zmian wprowadzonych:
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z 10 maja 2018 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 10 maja 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej oraz pomniki
 
 | Pole | Wartość |
 |---|---|
@@ -26,51 +25,108 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001103) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1103/text.pdf) |
 
-1) ustawą z 22 czerwca 2017 r. zmianie ustawy zakazie propagowania komunizmu lub innego ustroju totalitarnego nazwy budowli, obiektów urządzeń użyteczności publicznej (Dz. U. poz. 1389 z 2017 r. poz. 2495),
-2) ustawą z 14 grudnia 2017 r. zmianie ustawy zakazie propagowania komunizmu lub innego ustroju totalitarnego nazwy organizacyjnych, pomocniczych gminy, budowli, obiektów urządzeń użyteczności publicznej pomniki ustawy zmianie ustawy zakazie propagowania komunizmu lub innego ustroju totalitarnego nazwy budowli, obiektów urządzeń użyteczności publicznej (Dz. U. poz. 2495) zmian wynikających z przepisów ogłoszonych przed dniem 9 maja 2018 r.
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) 2–4 ustawy z 22 czerwca 2017 r. zmianie ustawy zakazie propagowania komunizmu lub innego ustroju totalitarnego nazwy budowli, obiektów urządzeń użyteczności publicznej (Dz. U. poz. 1389 z 2017 r.
-poz. 2495), które stanowią: „Art. 2. Obowiązujące dniu wejścia życie ustawy nazwy organizacyjnych pomocniczych gminy upamiętniające osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujące taki ustrój inny sposób, właściwy organ jednostki samorządu terytorialnego, związku jednostek samorządu terytorialnego albo związku metropolitalnego zmienia terminie 12 miesięcy od jej wejścia życie. 2 3 6 2–4 ustawy zmienianej stosuje odpowiednio.
-3. Właściciel albo użytkownik wieczysty nieruchomości, na której dniu wejścia życie ustawy znajduje pomnik upamiętniający osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujący taki ustrój inny sposób, usuwa ten pomnik terminie 31 marca 2018 r.
-2 5a 2 3 ustawy zmienianej stosuje się.
-2. W przypadku wykonania obowiązku, którym 1, koszty usunięcia pomnika zwraca Skarb Państwa ze środków budżetu państwa, których dysponentem jest wojewoda, jeżeli właściciel albo użytkownik wieczysty nieruchomości, na której znajdował pomnik, nie uczestniczył procedurze wzniesienia tego pomnika.
-3. W przypadku niewykonania obowiązku, którym 1, stosuje przepisy 5b ustawy zmieniaDo spraw wszczętych niezakończonych przed dniem wejścia życie ustawy stosuje przepisy ustawy brzmieniu nadanym niniejszą ustawą.
-5. Ustawa wchodzi życie po upływie 7 dni od ogłoszenia.”.
-Marszałek Sejmu: M. Kuchciński
-2. Za propagujące komunizm uważa także nazwy odwołujące osób, organizacji, wydarzeń lub dat symbolizujących represyjny, autorytarny niesuwerenny system władzy Polsce latach 1944–1989.
-3. Za jednostki organizacyjne uważa szczególności szkoły ich zespoły, przedszkola, szpitale, placówki opiekuńczo-wychowawcze, instytucje kultury instytucje społeczne.
-2. Stwierdzenie wojewodę nieważności uchwały nadającej nazwę jednostce organizacyjnej, jednostce pomocniczej gminy, budowli, obiektowi lub urządzeniu użyteczności publicznej, zakresie jakim nadaje nazwę niezgodną z 1, wymaga opinii Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej tę niezgodność.
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 1 kwietnia 2016 r. o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej oraz pomniki Rozdział 1 – Zakaz propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej Rozdział 2 – Zakaz propagowania komunizmu lub innego ustroju totalitarnego przez pomniki Rozdział 3 – Przepisy dostosowujące i przepis końcowy
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 1 kwietnia 2016 r. o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy budowli, obiektów i urządzeń użyteczności publicznej (Dz. U. poz. 744), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 22 czerwca 2017 r. o zmianie ustawy o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy budowli, obiektów i urządzeń użyteczności publicznej (Dz. U. poz. 1389 oraz z 2017 r. poz. 2495),
+2)
+ustawą z dnia 14 grudnia 2017 r. o zmianie ustawy o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej oraz pomniki oraz ustawy o zmianie ustawy o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy budowli, obiektów i urządzeń użyteczności publicznej (Dz. U. poz. 2495)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 maja 2018 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 2–4 ustawy z dnia 22 czerwca 2017 r. o zmianie ustawy o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy budowli, obiektów i urządzeń użyteczności publicznej (Dz. U. poz. 1389 oraz z 2017 r. poz. 2495), które stanowią:
+„
+1.
+Pomniki nie mogą upamiętniać osób, organizacji, wydarzeń lub dat symbolizujących komunizm lub inny ustrój totalitarny, ani w inny sposób takiego ustroju propagować. Przepis art. 1 ust. 2 stosuje się.
+2.
+Przez pomniki rozumie się również kopce, obeliski, kolumny, rzeźby, posągi, popiersia, kamienie pamiątkowe, płyty i tablice pamiątkowe, napisy i znaki.
+3.
+Przepisu ust. 1 nie stosuje się do pomników:
+1)
+niewystawionych na widok publiczny;
+2)
+znajdujących się na terenie cmentarzy albo innych miejsc spoczynku;
+3)
+wystawionych na widok publiczny w ramach działalności artystycznej, edukacyjnej, kolekcjonerskiej, naukowej lub o podobnym charakterze, w celu innym niż propagowanie ustroju totalitarnego;
+4)
+wpisanych – samodzielnie albo jako część większej całości – do rejestru zabytków.
+1.
+Wojewoda, w drodze decyzji, nakazuje właścicielowi albo użytkownikowi wieczystemu nieruchomości, na której znajduje się pomnik, który nie spełnia warunków określonych w art. 5a ust. 1, usunięcie tego pomnika.
+2.
+Wydanie decyzji o usunięciu pomnika wymaga opinii Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej, że pomnik nie spełnia warunków określonych w art. 5a ust. 1. Przepis art. 2 ust. 3 zdanie pierwsze stosuje się odpowiednio.
+3.
+Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650) w stosunku do wojewody w sprawach o usunięcie pomnika jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+4.
+Koszty usunięcia pomnika ponosi właściciel albo użytkownik wieczysty nieruchomości, na której znajduje się pomnik.
+Do stwierdzenia przez wojewodę nieważności uchwały o wzniesieniu pomnika, który nie spełnia warunków określonych w art. 5a ust. 1, przepisy art. 2 stosuje się odpowiednio.
+
+**Art. 2.** Obowiązujące w dniu wejścia w życie ustawy nazwy jednostek organizacyjnych oraz jednostek pomocniczych gminy upamiętniające osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujące taki ustrój w inny sposób, właściwy organ jednostki samorządu terytorialnego, związku jednostek samorządu terytorialnego albo związku metropolitalnego zmienia w terminie 12 miesięcy od dnia jej wejścia w życie. Przepisy art. 1 ust. 2 i 3 oraz art. 6 ust. 2–4 ustawy zmienianej w art. 1 stosuje się odpowiednio.
+
+**Art. 3.**
+
+1. Właściciel albo użytkownik wieczysty nieruchomości, na której w dniu wejścia w życie ustawy znajduje się pomnik upamiętniający osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujący taki ustrój w inny sposób, usuwa ten pomnik w terminie do dnia 31 marca 2018 r. Przepisy art. 1 ust. 2 oraz art. 5a ust. 2 i 3 ustawy zmienianej w art. 1 stosuje się.
+
+2. W przypadku wykonania obowiązku, o którym mowa w ust. 1, koszty usunięcia pomnika zwraca Skarb Państwa ze środków budżetu państwa, których dysponentem jest wojewoda, jeżeli właściciel albo użytkownik wieczysty nieruchomości, na której znajdował się pomnik, nie uczestniczył w procedurze wzniesienia tego pomnika.
+
+3. W przypadku niewykonania obowiązku, o którym mowa w ust. 1, stosuje się przepisy art. 5b ustawy zmienianej w art. 1.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. ” ;
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 1 kwietnia 2016 r. o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej oraz pomniki
+
+#### Rozdział 1 Zakaz propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej
+
+**Art. 1.**
+
+1. Nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej, w tym dróg, ulic, mostów i placów, nadawane przez jednostki samorządu terytorialnego nie mogą upamiętniać osób, organizacji, wydarzeń lub dat symbolizujących komunizm lub inny ustrój totalitarny, ani w inny sposób takiego ustroju propagować.
+
+2. Za propagujące komunizm uważa się także nazwy odwołujące się do osób, organizacji, wydarzeń lub dat symbolizujących represyjny, autorytarny i niesuwerenny system władzy w Polsce w latach 1944–1989.
+
+3. Za jednostki organizacyjne uważa się w szczególności szkoły i ich zespoły, przedszkola, szpitale, placówki opiekuńczo-wychowawcze, instytucje kultury oraz instytucje społeczne.
+
+1. Stwierdzenie przez wojewodę nieważności uchwały nadającej nazwę jednostce organizacyjnej, jednostce pomocniczej gminy, budowli, obiektowi lub urządzeniu użyteczności publicznej, w zakresie w jakim nadaje nazwę niezgodną z art. 1, wymaga opinii Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej tę niezgodność.
+
 2. (uchylony)
-3. Opinia, której 1, jest przedstawiana terminie miesiąca, a sprawie szczególnie skomplikowanej nie później niż terminie 2 miesięcy, od doręczenia żądania wojewody. Oczekiwanie na opinię wstrzymuje bieg terminu na stwierdzenie nieważności aktu.
-3. Jeżeli terminie 3 miesięcy od uprawomocnienia rozstrzygnięcia nadzorczego, którym 2 1, nie zostanie nadana nowa nazwa, a jej nadanie jest konieczne oznaczania adresów, wojewoda wydaje zarządzenie zastępcze, którym nadaje nazwę zgodną z
+
+3. Opinia, o której mowa w ust. 1, jest przedstawiana w terminie miesiąca, a w sprawie szczególnie skomplikowanej – nie później niż w terminie 2 miesięcy, od dnia doręczenia żądania wojewody. Oczekiwanie na opinię wstrzymuje bieg terminu na stwierdzenie nieważności aktu.
+
+1. Jeżeli w terminie 3 miesięcy od dnia uprawomocnienia się rozstrzygnięcia nadzorczego, o którym mowa w art. 2 ust. 1, nie zostanie nadana nowa nazwa, a jej nadanie jest konieczne do oznaczania adresów, wojewoda wydaje zarządzenie zastępcze, w którym nadaje nazwę zgodną z art. 1.
+
 2. (uchylony)
-3. Do czasu nadania nowej nazwy stosuje nazwę dotychczasową.
-98, 100 102a ustawy z 8 marca 1990 r. samorządzie gminnym (Dz. U. z 2017 r.
-poz. 1875 2232 z 2018 r. poz. 130), 85, 86 90a ustawy z 5 czerwca 1998 r. samorządzie powiatowym (Dz. U. z 2017 r. poz. 1868 z 2018 r. poz. 130) 86, 87 88a ustawy z 5 czerwca 1998 r.
-samorządzie województwa (Dz. U. z 2017 r. poz. 2096 z 2018 r. poz. 130) stosuje odpowiednio.
-5. Zarządzenie zastępcze, którym 1, podlega wykonaniu począwszy od wejścia życie.
-2. Przez pomniki rozumie również kopce, obeliski, kolumny, rzeźby, posągi, popiersia, kamienie pamiątkowe, płyty tablice pamiątkowe, napisy znaki.
-3. Przepisu nie stosuje pomników:
-1) niewystawionych na widok publiczny;
-2) znajdujących na terenie cmentarzy albo innych miejsc spoczynku;
-3) wystawionych na widok publiczny ramach działalności artystycznej, edukacyjnej, kolekcjonerskiej, naukowej lub podobnym charakterze, celu innym niż propagowanie ustroju totalitarnego;
-4) wpisanych samodzielnie albo jako część większej całości rejestru zabytków.
-5b. Wojewoda, drodze decyzji, nakazuje właścicielowi albo użytkownikowi wieczystemu nieruchomości, na której znajduje pomnik, który nie spełnia warunków określonych 5a 1, usunięcie tego pomnika.
-2. Wydanie decyzji usunięciu pomnika wymaga opinii Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej, że pomnik nie spełnia warunków określonych 5a Przepis 2 3 zdanie pierwsze stosuje odpowiednio.
-3. Organem wyższego stopnia rozumieniu przepisów ustawy z 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 z 2018 r. poz. 149 650) stosunku wojewody sprawach usunięcie pomnika jest minister właściwy spraw kultury ochrony dziedzictwa narodowego.
-Koszty usunięcia pomnika ponosi właściciel albo użytkownik wieczysty nieruchomości, na której znajduje pomnik.
-5c. Do stwierdzenia wojewodę nieważności uchwały wzniesieniu pomnika, który nie spełnia warunków określonych 5a 1, przepisy 2 stosuje odpowiednio.
-6. Obowiązujące dniu wejścia życie ustawy nazwy budowli, obiektów urządzeń użyteczności publicznej, tym dróg, ulic, mostów placów, upamiętniające osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujące taki ustrój inny sposób, właściwy organ jednostki samorządu terytorialnego albo związku, którym 4, zmienia terminie 12 miesięcy od jej wejścia życie.
-2. W przypadku niewykonania obowiązku, którym 1, wojewoda wydaje zarządzenie zastępcze, którym nadaje nazwę zgodną z 1, terminie 3 miesięcy od dnia, którym upłynął termin, którym
-3. Wydanie zarządzenia zastępczego, którym 2, wymaga opinii Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej niezgodność nazwy obowiązującej dniu wejścia życie ustawy z Przepis 2 3 stosuje odpowiednio.
-dokumentów finansowo-księgowych, terminie 30 dni od ich przekazania wojewodę.
-6b. W przypadku nadania nazwy trybie zarządzenia zastępczego, którym 3 6 2, jej zmiana jednostkę samorządu terytorialnego albo związek, którym 4, wymaga uprzedniej zgody Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu właściwego miejscowo wojewody.
-6c. Skarga sądu administracyjnego na zarządzenie zastępcze, którym 3 6 2, przysługuje jednostce samorządu terytorialnego albo związkowi, którym 4, jedynie przypadku, gdy brak możliwości wykonania obowiązku, którym 3 6 1, wynikał z przyczyn niezależnych od tej jednostki albo związku.
-7. Ustawa wchodzi życie po upływie 3 miesięcy od ogłoszenia .
 
-#### Rozdział Zakaz propagowania komunizmu lub innego ustroju totalitarnego nazwy organizacyjnych, pomocniczych gminy, budowli, obiektów urządzeń użyteczności publicznej Nazwy organizacyjnych, pomocniczych gminy, budowli, obiektów urządzeń użyteczności publicznej, tym dróg, ulic, mostów placów, nadawane jednostki samorządu terytorialnego nie mogą upamiętniać osób, organizacji, wydarzeń lub dat symbolizujących komunizm lub inny ustrój totalitarny, ani inny sposób takiego ustroju propagować.
+3. Do czasu nadania nowej nazwy stosuje się nazwę dotychczasową.
 
-#### Rozdział 2 Zakaz propagowania komunizmu lub innego ustroju totalitarnego pomniki 5a. Pomniki nie mogą upamiętniać osób, organizacji, wydarzeń lub dat symbolizujących komunizm lub inny ustrój totalitarny, ani inny sposób takiego ustroju propagować. Przepis 2 stosuje się.
+4. Przepisy art. 98, art. 100 i art. 102a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2017 r. poz. 1875 i 2232 oraz z 2018 r. poz. 130), art. 85, art. 86 i art. 90a ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2017 r. poz. 1868 oraz z 2018 r. poz. 130) oraz art. 86, art. 87 i art. 88a ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2017 r. poz. 2096 oraz z 2018 r. poz. 130) stosuje się odpowiednio.
 
-#### Rozdział 3 dostosowujące przepis końcowy
+5. Zarządzenie zastępcze, o którym mowa w ust. 1, podlega wykonaniu począwszy od dnia wejścia w życie. Przepisy art. 1–3 stosuje się odpowiednio do nazw jednostek organizacyjnych, budowli, obiektów i urządzeń użyteczności publicznej nadawanych przez związki jednostek samorządu terytorialnego i związki metropolitalne.
+
+1. Pisma oraz postępowania sądowe i administracyjne w sprawach dotyczących ujawnienia w księgach wieczystych oraz uwzględnienia w rejestrach, ewidencjach i dokumentach urzędowych zmiany nazwy dokonanej na podstawie ustawy są wolne od opłat.
+
+2. Zmiana nazwy dokonana na podstawie ustawy nie ma wpływu na ważność dokumentów zawierających nazwę dotychczasową.
+
+#### Rozdział 2 Zakaz propagowania komunizmu lub innego ustroju totalitarnego przez pomniki
+
+#### Rozdział 3 Przepisy dostosowujące i przepis końcowy
+
+**Art. 6.**
+
+1. Obowiązujące w dniu wejścia w życie ustawy nazwy budowli, obiektów i urządzeń użyteczności publicznej, w tym dróg, ulic, mostów i placów, upamiętniające osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujące taki ustrój w inny sposób, właściwy organ jednostki samorządu terytorialnego albo związku, o którym mowa w art. 4, zmienia w terminie 12 miesięcy od dnia jej wejścia w życie.
+
+2. W przypadku niewykonania obowiązku, o którym mowa w ust. 1, wojewoda wydaje zarządzenie zastępcze, w którym nadaje nazwę zgodną z art. 1, w terminie 3 miesięcy od dnia, w którym upłynął termin, o którym mowa w ust. 1.
+
+3. Wydanie zarządzenia zastępczego, o którym mowa w ust. 2, wymaga opinii Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej niezgodność nazwy obowiązującej w dniu wejścia w życie ustawy z art. 1. Przepis art. 2 ust. 3 stosuje się odpowiednio.
+
+4. Przepisy art. 3 ust. 4 oraz art. 5 stosuje się odpowiednio.
+
+5. Zarządzenie zastępcze, o którym mowa w ust. 2, podlega wykonaniu począwszy od dnia wejścia w życie.
+
+1. W przypadku niewykonania przez jednostkę samorządu terytorialnego albo związek wskazany w art. 4 zarządzenia zastępczego, o którym mowa w art. 3 ust. 1 oraz art. 6 ust. 2, w terminie 30 dni od dnia jego wejścia w życie, wojewoda zapewnia jego wykonanie na koszt tej jednostki albo związku.
+
+2. W przypadku wykonania przez wojewodę czynności, o których mowa w ust. 1, zwrot kosztów przez jednostkę samorządu terytorialnego albo związek, o którym mowa w art. 4, następuje na podstawie właściwych w danym przypadku dokumentów finansowo-księgowych, w terminie 30 dni od dnia ich przekazania przez wojewodę. W przypadku nadania nazwy w trybie zarządzenia zastępczego, o którym mowa w art. 3 ust. 1 oraz art. 6 ust. 2, jej zmiana przez jednostkę samorządu terytorialnego albo związek, o którym mowa w art. 4, wymaga uprzedniej zgody Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz właściwego miejscowo wojewody. Skarga do sądu administracyjnego na zarządzenie zastępcze, o którym mowa w art. 3 ust. 1 oraz art. 6 ust. 2, przysługuje jednostce samorządu terytorialnego albo związkowi, o którym mowa w art. 4, jedynie w przypadku, gdy brak możliwości wykonania obowiązku, o którym mowa w art. 3 ust. 1 oraz art. 6 ust. 1, wynikał z przyczyn niezależnych od tej jednostki albo związku.
+
+**Art. 7.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

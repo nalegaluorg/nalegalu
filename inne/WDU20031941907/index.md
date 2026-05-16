@@ -8,9 +8,10 @@ pos: 1907
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# WYKAZ STANÓW CHOROBOWYCH I ZABURZE¡ FUNKCJONOWANIA PSYCHICZNEGO, WYKLUCZAJÑCYCH MO˚LIWOÂå WYDANIA POZWOLENIA NA BRO¡ I REJESTRACJI BRONI
+# Wyrok Trybunału Konstytucyjnegoz dnia 4 listopada 2003 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +25,21 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031941907) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1907/text.pdf) |
 
-1. Organiczne zaburzenia psychiczne włącznie ze- 5. Zaburzenia nerwicowe, związane ze stresem pod społami objawowymi. postacią somatyczną.
-Zaburzenia psychiczne zaburzenia zachowania spowodowane używaniem substancji psychoak- 6. Zespoły behawioralne związane zaburzeniami fitywnych, wyłączeniem palenia tytoniu. zjologicznymi czynnikami fizycznymi.
-3. Schizofrenia, zaburzenia typu schizofrenii (schizo- 7. Zaburzenia osobowości zachowania dorosłych.
-typowe) urojeniowe.
-4. Zaburzenia nastroju (afektywne). 8. Upośledzenie umysłowe.
-1906 WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 4 listopada 2003 sygn. akt SK 30/02 Trybunał Konstytucyjny składzie: Mirosław Wyrzykowski przewodniczący, Adam Jamróz, Biruta Lewaszkiewicz-Petrykowska, Marek Mazurkiewicz sprawozdawca, Janusz Niemcewicz, 8 marca 1990 o samorządzie gminnym (Dz. U.
-z2001 142, poz. 1591, ze zm.) zart. 2, art. 45 ust.
-iart. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej, orzeka: art. 101 ust. 2 ustawy 8 marca 1990 osamorządzie gminnym (Dz. U. z2001 142, poz. 1591, ze zm.) jest zgodny art. 45 ust. art. 77 ust. 2 Konstytucji wzwiązku zart. 2 Konstytucji.
-po rozpoznaniu, udziałem skarżącego oraz Pro- Mirosław Wyrzykowski kuratora Generalnego, na rozprawie dniu 21 paêdziernika 2003 r., skargi konstytucyjnej Jerzego Geler- Adam Jamróz Biruta Lewaszkiewicz-Petrykowska ta o zbadanie zgodności art. 101 ust. 2 ustawy dnia Marek Mazurkiewicz Janusz Niemcewicz WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 4 listopada 2003 sygn. akt K 1/03 Trybunał Konstytucyjny składzie: Biruta Lewaszkiewicz-Petrykowska przewodniJerzy Ciemniewski, Teresa Dębowska-Romanowska sprawozdawca, czący, Marian Zdyb, o samorządzie gminnym (Dz. U. 2001 142, poz. 1591, z2002 23, poz. 220, 62, poz. 558, 113, poz. 984 214, poz. 1806) art. 2 iart. 15 ust. 2 Konstytucji RP oraz zart. 5 Europejskiej Karty Samorządu Terytorialnego, sporządzonej Strasburgu dnia 15 paêdziernika 1985 (Dz. U. 1994 124, poz. 607),
-2) § pkt 2 rozporządzenia Rady Ministrów dnia 25 czerwca 2002 wsprawie ustalenia granic niektórych gmin miast oraz nadania miejscowości statusu miasta (Dz. U. 93, poz. 822) art. 2 art. 15 ust. 2 Konstytucji RP oraz art. 4 ust. 3 ustawy dnia 8 marca 1990 o samorządzie powołanej pkt sentencji wyroku.
-Ponadto postanawia: na podstawie art. 39 ust. pkt ust. 2 ustawy dnia sierpnia 1997 o Trybunale Konstytucyjnym (Dz. U. 102, poz. 643, 2000 48, poz. 552 iNr 53, poz. 638 oraz z2001 98, poz. 1070) umorzyć postępowanie zakresie badania zgodności:
-1) art. 4 ust. pkt 1, art. 4a art. 4b ustawy o samorządzie gminnym powołanej wpkt sentencji wygminnym, orzeka:
-1. Art. 4 ust. pkt 1, art. 4 ust. 3 wzwiązku zust. 2, art. 4aiart. 4bustawy 8 marca 1990 osamorządzie gminnym (Dz. U. 2001 142, poz. 1591, 2002 23, poz. 220, 62, poz. 558, 113, poz. 984 214, poz. 1806 oraz 2003 80, poz. 717) zakresie, jakim odnoszą się do zmiany granic gmin, są zgodne zart. 2 Konstytucji Rzeczypospolitej Polskiej oraz art. 5 Europejskiej Karty Samorządu Terytorialnego.
-roku art. 15 ust. 2 Konstytucji,
-2) art. 4 ust. pkt 2 i3, ust. 4 oraz ust. 5 ustawy osamorządzie gminnym powołanej pkt sentencji wyroku zart. 2, art. 15 ust. 2 Konstytucji iart. 5 Europejskiej Karty Samorządu Terytorialnego, ze względu na niedopuszczalność orzekania.
-Biruta Lewaszkiewicz-Petrykowska Jerzy Ciemniewski Teresa Dębowska-Romanowska Marian Zdyb Bohdan Zdziennicki ISSN 0867-3411 Cena 9,80 zł
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Biruta Lewaszkiewicz-Petrykowska – przewodniczący, Jerzy Ciemniewski, Teresa Dębowska-Romanowska – sprawozdawca, Marian Zdyb, Bohdan Zdziennicki, protokolant: Dorota Raczkowska-Paluch, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu, Prokuratora Generalnego i Prezesa Rady Ministrów, na rozprawie w dniu 4 listopada 2003 r., wniosku Rady Miasta Radzionków o zbadanie zgodności:
+1)
+art. 4, art. 4a i art. 4b ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984 i Nr 214, poz. 1806) z art. 2 i art. 15 ust. 2 Konstytucji RP oraz z art. 5 Europejskiej Karty Samorządu Terytorialnego, sporządzonej w Strasburgu dnia 15 października 1985 r. (Dz. U. z 1994 r. Nr 124, poz. 607),
+2)
+§ 1 pkt 2 rozporządzenia Rady Ministrów z dnia 25 czerwca 2002 r. w sprawie ustalenia granic niektórych gmin i miast oraz nadania miejscowości statusu miasta (Dz. U. Nr 93, poz. 822) z art. 2 i art. 15 ust. 2 Konstytucji RP oraz z art. 4 ust. 3 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym,
+orzeka:
+1.
+Art. 4 ust. 1 pkt 1, art. 4 ust. 3 w związku z ust. 2, art. 4a i art. 4b ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984 i Nr 214, poz. 1806 oraz z 2003 r. Nr 80, poz. 717) w zakresie, w jakim odnoszą się do zmiany granic gmin, są zgodne z art. 2 Konstytucji Rzeczypospolitej Polskiej oraz art. 5 Europejskiej Karty Samorządu Terytorialnego.
+2.
+3.
+§ 1 pkt 2 rozporządzenia Rady Ministrów z dnia 25 czerwca 2002 r. w sprawie ustalenia granic niektórych gmin i miast oraz nadania miejscowości statusu miasta (Dz. U. Nr 93, poz. 822) jest zgodny z art. 2 i art. 15 ust. 2 Konstytucji oraz z art. 4 ust. 3 ustawy powołanej w pkt 1 sentencji wyroku.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 i ust. 2 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638 oraz z 2001 r. Nr 98, poz. 1070) umorzyć postępowanie w zakresie badania zgodności:
+1)
+art. 4 ust. 1 pkt 1, art. 4a i art. 4b ustawy o samorządzie gminnym powołanej w pkt 1 sentencji wyroku z art. 15 ust. 2 Konstytucji,
+2)
+art. 4 ust. 1 pkt 2 i 3, ust. 4 oraz ust. 5 ustawy o samorządzie gminnym powołanej w pkt 1 sentencji wyroku z art. 2, art. 15 ust. 2 Konstytucji i art. 5 Europejskiej Karty Samorządu Terytorialnego, ze względu na niedopuszczalność orzekania.
 

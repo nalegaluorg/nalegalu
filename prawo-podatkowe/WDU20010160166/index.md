@@ -8,9 +8,10 @@ pos: 166
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ustawa z dnia 3 lutego 2001 r. o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców oraz ustawy - Ordynacja Podatkowa - w związku z dostosowaniem do prawa Unii Europejskiej.
+# Ustawa z dnia 3 lutego 2001 r. o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców oraz ustawy – Ordynacja Podatkowa – w związku z dostosowaniem do prawa Unii Europejskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,27 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010160166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/166/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 1996 r. 54, poz. 245, z 1997 r. 140, poz. 939 i z 1998 r. 106, poz. 668) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 1996 r. Nr 54, poz. 245, z 1997 r. Nr 140, poz. 939i z 1998 r. Nr 106, poz. 668) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 137, poz. 926 i 160, som ustawy, minister właściwy do spraw poz. 1083, z 1998 r. 106, poz. 668, z 1999 r. 11, poz.95 iNr 92, poz. 1062 oraz z2000 r. 94, poz. 1037, USTAWA zdnia 3 lutego 2001 r. ozmianie ustawy onabywaniu nieruchomości przez cudzoziemców oraz ustawy Ordynacja podatkowa wzwiązku zdostosowaniem do prawa Unii Europejskiej. 116, poz. 1216, 120, poz. 1268 iNr 122, poz. 1315) poz.245, z1997 r. 140, poz. 939, z1998 r. 106, wart.299 w§ 3 wpkt 3 kropkę na końcu zastępuje poz. 668 oraz z2001 r. 16, poz. 166).” przecinkiem idodaje pkt 4 wbrzmieniu:
+**Art. 2a.** Minister właściwy do spraw wewnętrznych może zwracać się do innych niż określone w art. 2 ust. 1 pkt 2 organów administracji rządowej, samorządu terytorialnego, organizacji zawodowych i instytucji państwowych o wyrażenie opinii oraz przekazanie dokumentów i informacji, w szczególności zawartych w ewidencji gruntów i budynków, niezbędnych do realizacji zadań, o których mowa w art. 1 ust. 1, art. 3e oraz w art. 8 ust. 4. ” ;
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni Ń4) ministrowi właściwemu do spraw wewnętrznych od dnia ogłoszenia. w celu realizacji zadań, o których mowa w art. 1 ust. 1, art. 3e oraz w art. 8 ust. 4 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 1996 r. 54, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 167 USTAWA zdnia 3 lutego 2001 r. ozmianie ustawy oniektórych formach popierania budownictwa mieszkaniowego iustawy oporęczeniach igwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne.
+**Art. 5a.** W okresie 10 lat od dnia wydania zezwolenia minister właściwy do spraw wewnętrznych dokonuje kontroli w zakresie przestrzegania warunków określonych w zezwoleniu. W przypadku stwierdzenia wykorzystania zezwolenia wbrew przepisom ustawy, minister właściwy do spraw wewnętrznych stwierdza nieważność decyzji o zezwoleniu. ” ;
 
-**Art. 1.** W ustawie z dnia 26 paêdziernika 1995 r. oniektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. 98, poz. 1070 i z 2001 r. 4, poz. 27)wprowadza następujące zmiany:
+**Art. 7a.**
+
+1. Jeżeli o zezwolenie ubiega się przedsiębiorca Wspólnoty, którego przedsiębiorstwo zostało założone na terytorium Rzeczypospolitej Polskiej lub oddział założony w Rzeczypospolitej Polskiej przez przedsiębiorcę Wspólnoty, minister właściwy do spraw wewnętrznych wydaje zezwolenie, gdy jest to bezpośrednio konieczne dla prowadzenia działalności gospodarczej, dla której przedsiębiorstwo lub oddział zostały założone.
+
+2. Minister właściwy do spraw wewnętrznych odmawia wydania zezwolenia, o którym mowa w ust. 1, jeżeli jest to uzasadnione względami polityki społecznej, bezpieczeństwa publicznego lub zdrowia społeczeństwa.
+
+3. Przepis ust. 1 nie dotyczy obywateli Wspólnoty działających w Rzeczypospolitej Polskiej na zasadzie samozatrudnienia w rozumieniu Układu Europejskiego ustanawiającego stowarzyszenie między Rzecząpospolitą Polską, z jednej strony, a Wspólnotami Europejskimi i ich Państwami Członkowskimi, z drugiej strony, sporządzonego w Brukseli dnia 16 grudnia 1991 r. (Dz. U. z 1994 r. Nr 11, poz. 38, z 1995 r. Nr 63, poz. 324 i 326, z 1997 r. Nr 104, poz. 662, z 1999 r. Nr 30, poz. 288 oraz z 2000 r. Nr 21, poz. 263).
+
+4. Przepisu ust. 1 nie stosuje się w przypadku nabywania zasobów naturalnych, gruntów rolnych i leśnych. ” ;
+
+- **6)** w art. 8 w ust. 1: w pkt 5 wyrazy „osobę prawną, określoną w art. 1 ust. 2 pkt 3, na jej” zastępuje się wyrazami „podmiot, o którym mowa w art. 1 ust. 2 pkt 4, na jego”, w pkt 7 wyrazy „art. 1 ust. 2 pkt 3” zastępuje się wyrazami „art. 1 ust. 2 pkt 4”. W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95i Nr 92, poz. 1062oraz z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268i Nr 122, poz. 1315) w art. 299 w § 3 w pkt 3 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **4)** ministrowi właściwemu do spraw wewnętrznych w celu realizacji zadań, o których mowa w art. 1 ust. 1, art. 3e oraz w art. 8 ust. 4 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 1996 r. Nr 54, poz. 245, z 1997 r. Nr 140, poz. 939, z 1998 r. Nr 106, poz. 668 oraz z 2001 r. Nr 16, poz. 166). ”
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

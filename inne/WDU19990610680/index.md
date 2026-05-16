@@ -8,9 +8,10 @@ pos: 680
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 61 - 3467 679 z dnia 6 lipca sygn. akt Konstytucyjny w Jadwiga Teresa - sprawozdawca, Ferdynand Rymarz, po rozpoznaniu w dniu 61ipca 1999 r. na rozprawie, z umocowanych przedstawicieli uczestników w Koszalinie, Rady Ministrów i Prokuratora Generalnego, pytania prawne go Wojewódzkiego w Ko szalinie, czy 2 Rady Ministrów z dnia 15 maja 1989 r. w sprawie do emerytury pracowników wy opieki (Dz. U. Nr 28, poz. 149) jest zgodny z art. 33 Konstytucji Rzeczypospolitej Polskiej, 680 z dnia 6 lipca sygn. akt Konstytucyjny w Andrzej Krzysztof Biruta Lewaszkiewicz-Petrykowska, Ferdynand Rymarz - sprawozdawca, Jadwiga po rozpoznaniu w dniu 6 lipca 1999 r. na rozprawie pytania prawnego III Karny we z umocowanych przedstawi cieli uczestników we Sejmu Rzeczypospolitej Polskiej i Pro kuratora Generalnego, czy przepis art. 9 2 ustawy z dnia 20 marca 1997 r. - Przepisy KoSzanowni III 69/71, 02-903 694-67-50,694-67-52;
+# Wyrok Trybunału Konstytucyjnegoz dnia 6 lipca 1999 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,5 +24,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990610680) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/680/text.pdf) |
 
-o
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Mączyński – przewodniczący, Krzysztof Kolasiński, Biruta Lewaszkiewicz-Petrykowska, Ferdynand Rymarz – sprawozdawca, Jadwiga Skórzewska-Łosiak, protokolant: Joanna Szymczak, po rozpoznaniu w dniu 6 lipca 1999 r. na rozprawie pytania prawnego Sądu Okręgowego III Wydział Karny we Wrocławiu, z udziałem umocowanych przedstawicieli uczestników postępowania: Sądu Okręgowego we Wrocławiu, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego, czy przepis art. 9 § 2 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554) jest zgodny z art. 31 ust. 3, art. 32 ust. 1 i art. 42 ust. 1 Konstytucji] Rzeczypospolitej Polskiej, orzeka: Art. 9 § 2 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083 oraz z 1998 r. Nr 113, poz. 715) jest zgodny z art. 31 ust. 3, art. 32 ust. 1 i art. 42 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
 

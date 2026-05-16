@@ -8,9 +8,10 @@ pos: 932
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 104 — 6790 — Poz. 932 i 933 Trybunał Konstytucyjny wskładzie: Andrzej Mączyński — przewodniczący, Biruta Lewaszkiewicz-Petrykowska — sprawozdawca, Mirosław Wyrzykowski, orzeka: § 3 pkt 4 rozporządzenia Ministra Gospodarki Przestrzennej i Budownictwa z dnia 14 grudnia 1994 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 2 lipca 2002 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021040932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/932/text.pdf) |
 
-wsprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. z 1999 r.
-Nr 15, poz. 140 i Nr 44, poz. 434, z 2000 r. Nr 16, poz. 214 oraz z 2001 r. Nr 17, poz. 207) jest zgodny po rozpoznaniu, z udziałem sądu przedstawiające- zart. 7 ust. 2 pkt 1 ustawy zdnia 7 lipca 1994 r. — Prago pytanie prawne oraz Ministra Infrastruktury iProku- wo budowlane (Dz. U. z 2000 r. Nr 106, poz. 1126, ratora Generalnego, na rozprawie w dniu 2 lipca Nr 109, poz. 1157 i Nr 120, poz. 1268; z 2001 r. Nr 5, 2002 r., pytania prawnego Naczelnego Sądu Admini- poz. 42, Nr 100, poz. 1085, Nr 110, poz. 1190, Nr 115, stracyjnego w Warszawie o zbadanie zgodności § 3 poz. 1229, Nr 129, poz. 1439 i Nr 154, poz. 1800 oraz pkt 4 rozporządzenia Ministra Gospodarki Przestrzennej iBudownictwa zdnia 14 grudnia 1994 r. wsprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. z 1999 r. Nr 15, poz. 140 ze zm.) zart. 7 ust. 2 pkt 1 ustawy zdnia 7 lipca 1994 r. — Prawo budowlane (Dz. U. z2000 r. Nr 106, poz. 1126), z2002 r. Nr 74, poz. 676).
-Andrzej Mączyński Biruta Lewaszkiewicz-Petrykowska Mirosław Wyrzykowski 932 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 2 lipca 2002 r.
-sygn. akt P. 11/01.
-933 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 2 lipca 2002 r.
-sygn. akt U. 7/01.
-Trybunał Konstytucyjny wskładzie: Marek Safjan — przewodniczący, Jerzy Ciemniewski, Marian Grzybowski, Wiesław Johann — Isprawozdawca, Biruta Lewaszkiewicz-Petrykowska, Ewa Ęętowska — II sprawozdawca, Marek Mazurkiewicz, Andrzej Mączyński, Janusz Niemcewicz, Jadwiga Skórzewska-Ęosiak, Jerzy Stępień, Marian Zdyb, Bohdan Zdziennicki, po rozpoznaniu, z udziałem wnioskodawcy, Prezesa Rady Ministrów iProkuratora Generalnego, na rozprawie w dniu 18 czerwca 2002 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności: rozporządzenia Rady Ministrów z dnia 22 stycznia 1991 r.
-w sprawie warunków, form, trybu przyznawania i wypłacania oraz wysokości świadczeń pomocy materialnej dla studentów studiów dziennych (Dz. U. Nr 9, poz. 32 ze zm.) zart. 152 ust. 3 ustawy zdnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385 ze zm.) w związku z art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej, atakże zart. 31 ust. 3, art. 32 ust. 1 iart. 70 ust. 4 Konstytucji oraz zart. 14 Konwencji oochronie praw człowieka ipodstawowych wolności, orzeka: Rozporządzenie Rady Ministrów z dnia 22 stycznia 1991 r. wsprawie warunków, form, trybu przyznawania
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Mączyński – przewodniczący, Biruta Lewaszkiewicz-Petrykowska – sprawozdawca, Mirosław Wyrzykowski, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem sądu przedstawiającego pytanie prawne oraz Ministra Infrastruktury i Prokuratora Generalnego, na rozprawie w dniu 2 lipca 2002 r., pytania prawnego Naczelnego Sądu Administracyjnego w Warszawie o zbadanie zgodności § 3 pkt 4 rozporządzenia Ministra Gospodarki Przestrzennej i Budownictwa z dnia 14 grudnia 1994 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. z 1999 r. Nr 15, poz. 140 ze zm.) z art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2000 r. Nr 106, poz. 1126), orzeka: § 3 pkt 4 rozporządzenia Ministra Gospodarki Przestrzennej i Budownictwa z dnia 14 grudnia 1994 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. z 1999 r. Nr 15, poz. 140 i Nr 44, poz. 434, z 2000 r. Nr 16, poz. 214 oraz z 2001 r. Nr 17, poz. 207) jest zgodny z art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2000 r. Nr 106, poz. 1126, Nr 109, poz. 1157 i Nr 120, poz. 1268; z 2001 r. Nr 5, poz. 42, Nr 100, poz. 1085, Nr 110, poz. 1190, Nr 115, poz. 1229, Nr 129, poz. 1439 i Nr 154, poz. 1800 oraz z 2002 r. Nr 74, poz. 676).
 

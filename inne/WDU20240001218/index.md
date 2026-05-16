@@ -8,9 +8,10 @@ pos: 1218
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 sierpnia 2024 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 1 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
 
 | Pole | Wartość |
 |---|---|
@@ -21,19 +22,19 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-01 |
 | Data wydania | 2024-08-09 |
-| Ostatnia zmiana | 2024-08-18 |
+| Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1218/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r.
-o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 49 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), który stanowi: „Art. 49. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 4 ust. 2, który wchodzi w życie z dniem 21 sierpnia 2023 r.;
-2) art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, które wchodzą w życie z dniem 1 stycznia 2025 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 9 marca 2017 r.
-o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 49 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), który stanowi:
+„
+
+**Art. 49.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 **Art. 1.** Ustawa określa:
 
@@ -45,24 +46,24 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 2. Systemowi monitorowania przewozu i obrotu podlega przewóz:
 
-- **1)** towarów objętych pozycjami CN:
-    - **a)** 2207 nieoznaczonych znakami akcyzy,
-    - **b)** 2707,
-    - **c)** 2710,
-    - **d)** 2905,
-    - **e)** 2917,
-    - **f)** 3403,
-    - **g)** 3811,
-    - **h)** 3814 zawierających alkohol etylowy,
-    - **i)** 3820 zawierających alkohol etylowy,
-    - **j)** 3824,
-    - **k)** 3826 jeżeli masa brutto przesyłki towarów objętych tymi pozycjami przekracza 500 kg lub jej objętość przekracza 500 litrów;
+- **1)** towarów objętych pozycjami CN: 2207 nieoznaczonych znakami akcyzy, 2707, 2710, 2905, 2917, 3403, 3811, 3814 zawierających alkohol etylowy, 3820 zawierających alkohol etylowy, 3824, 3826 jeżeli masa brutto przesyłki towarów objętych tymi pozycjami przekracza 500 kg lub jej objętość przekracza 500 litrów;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
 
 - **1a)** paliw opałowych, bez względu na ich ilość w przesyłce;
-- **2)** alkoholu całkowicie skażonego wskazanymi przez dowolne państwo członkowskie Unii Europejskiej środkami dopuszczonymi do skażania alkoholu etylowego na podstawie rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r. w sprawie wzajemnego uznawania procedur całkowitego skażenia alkoholu etylowego do celów zwolnienia z podatku akcyzowego (Dz. Urz. WE L 288 z 23.11.1993, str. 12, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 249, z późn. zm.), w tym zawartego w wyrobach nieprzeznaczonych do spożycia przez ludzi w przypadku przesyłek o objętości powyżej 500 litrów;
+- **2)** alkoholu całkowicie skażonego wskazanymi przez dowolne państwo członkowskie Unii Europejskiej środkami dopuszczonymi do skażania alkoholu etylowego na podstawie rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r. w sprawie wzajemnego uznawania procedur całkowitego skażenia alkoholu etylowego do celów zwolnienia z podatku akcyzowego (Dz. Urz. WE L 288 z 23.11.1993, str. 12, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 249, z późn. zm.), w tym zawartego w wyrobach nieprzeznaczonych do spożycia przez ludzi w przypadku przesyłek o objętości powyżej 500 litrów;
 - **3)** suszu tytoniowego w rozumieniu przepisów o podatku akcyzowym, nieoznaczonego znakami akcyzy, bez względu na jego ilość w przesyłce;
-- **3a)** produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686);
-- **4)** towarów innych niż wymienione w pkt 1–3a, w stosunku do których zachodzi uzasadnione prawdopodobieństwo wystąpienia naruszeń przepisów prawa podatkowego w zakresie podatku od towarów i usług lub podatku akcyzowego, mogących powodować, ze względu na skalę lub częstotliwość obrotu tymi towarami, znaczne uszczuplenia tych podatków określonych w przepisach wydanych na podstawie ust. 11.
+- **3a)** produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686);
+- **4)** towarów innych niż wymienione w pkt 1–3a, w stosunku do których zachodzi uzasadnione prawdopodobieństwo wystąpienia naruszeń przepisów prawa podatkowego w zakresie podatku od towarów i usług lub podatku akcyzowego, mogących powodować, ze względu na skalę lub częstotliwość obrotu tymi towarami, znaczne uszczuplenia tych podatków – określonych w przepisach wydanych na podstawie ust. 11.
 
 2a. Przewóz towarów, o których mowa w ust. 2 pkt 1 lit. d i j, podlega systemowi monitorowania przewozu i obrotu, o ile towary te są wymienione w załączniku nr 1 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, bez względu na przeznaczenie.
 
@@ -71,13 +72,15 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 4. Systemowi monitorowania przewozu i obrotu nie podlega przewóz towarów objętych:
 
 - **1)** (uchylony)
-- **2)** pozycjami CN:
-    - **a)** 2207 nieoznaczonych znakami akcyzy w opakowaniach jednostkowych nie większych niż 5 litrów, aa) 2707 w opakowaniach jednostkowych nie większych niż 11 litrów,
-    - **b)** 2710 w opakowaniach jednostkowych nie większych niż 11 litrów, z wyłączeniem paliw opałowych,
-    - **c)** 2905 w opakowaniach jednostkowych nie większych niż 11 litrów,
-    - **d)** 3403 w opakowaniach jednostkowych nie większych niż 16 litrów,
-    - **e)** 3811 w opakowaniach jednostkowych nie większych niż 16 litrów, ea) 3814 zawierających alkohol etylowy w opakowaniach jednostkowych nie większych niż 11 litrów,
-    - **f)** 3820 zawierających alkohol etylowy w opakowaniach jednostkowych nie większych niż 16 litrów.
+- **2)** pozycjami CN: 2207 nieoznaczonych znakami akcyzy w opakowaniach jednostkowych nie większych niż 5 litrów, 2707 w opakowaniach jednostkowych nie większych niż 11 litrów, 2710 w opakowaniach jednostkowych nie większych niż 11 litrów, z wyłączeniem paliw opałowych, 2905 w opakowaniach jednostkowych nie większych niż 11 litrów, 3403 w opakowaniach jednostkowych nie większych niż 16 litrów, 3811 w opakowaniach jednostkowych nie większych niż 16 litrów, 3820 zawierających alkohol etylowy w opakowaniach jednostkowych nie większych niż 16 litrów.
+    - **a)**
+    - **aa)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **ea)** 3814 zawierających alkohol etylowy w opakowaniach jednostkowych nie większych niż 11 litrów,
+    - **f)**
 
 5. Systemowi monitorowania przewozu i obrotu nie podlega przewóz towarów, o których mowa w ust. 2 pkt 2, w opakowaniach jednostkowych nie większych niż 5 litrów.
 
@@ -85,25 +88,25 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 6. Systemowi monitorowania przewozu i obrotu nie podlega przewóz towarów, o których mowa w ust. 2 pkt 1–3:
 
-- **1)** przewożonych przez operatorów pocztowych w paczkach pocztowych w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467);
-- **2)** objętych:
-    - **a)** procedurą celną tranzytu, składowania, odprawy czasowej, przetwarzania lub wywozu,
-    - **b)** powrotnym wywozem;
+- **1)** przewożonych przez operatorów pocztowych w paczkach pocztowych w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467);
+- **2)** objętych: procedurą celną tranzytu, składowania, odprawy czasowej, przetwarzania lub wywozu, powrotnym wywozem;
+    - **a)**
+    - **b)**
 
-- **3)** przemieszczanych, w ramach procedury zawieszenia poboru akcyzy, z zastosowaniem:
-    - **a)** e-AD, o którym mowa w art. 2 ust. 1 pkt 15 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym: z nadanym numerem referencyjnym, uzyskanym z krajowego systemu teleinformatycznego, o którym mowa w art. 2 ust. 1 pkt 26 lit. a tej ustawy, albo przekazanego do krajowego systemu teleinformatycznego, o którym mowa w art. 2 ust. 1 pkt 26 lit. a tej ustawy, przez właściwe władze innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, albo
-    - **b)** dokumentu zastępującego e-AD, o którym mowa w art. 2 ust. 1 pkt 15a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
+- **3)** przemieszczanych, w ramach procedury zawieszenia poboru akcyzy, z zastosowaniem: e-AD, o którym mowa w art. 2 ust. 1 pkt 15 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym: – z nadanym numerem referencyjnym, uzyskanym z krajowego systemu teleinformatycznego, o którym mowa w art. 2 ust. 1 pkt 26 lit. a tej ustawy, albo – przekazanego do krajowego systemu teleinformatycznego, o którym mowa w art. 2 ust. 1 pkt 26 lit. a tej ustawy, przez właściwe władze innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, albo dokumentu zastępującego e-AD, o którym mowa w art. 2 ust. 1 pkt 15a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
+    - **a)**
+    - **b)**
 
 7. Systemowi monitorowania przewozu i obrotu nie podlega przewóz towarów, który nie jest związany z wykonaniem czynności podlegających opodatkowaniu podatkiem od towarów i usług, jeżeli przewożonym towarom towarzyszy dokument potwierdzający przesunięcie międzymagazynowe wystawiony przez nadawcę towarów, który zawiera w szczególności:
 
-- **1)** dane nadawcy towaru obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **1)** dane nadawcy towaru obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
 - **2)** numer identyfikacji podatkowej nadawcy;
 - **3)** dane dotyczące towaru będącego przedmiotem przewozu, w szczególności rodzaju towaru, pozycji CN, ilości, masy brutto lub objętości towaru;
-- **4)** dane adresowe miejsca magazynowania towaru wysyłki;
-- **5)** dane adresowe miejsca magazynowania towaru przyjęcia;
+- **4)** dane adresowe miejsca magazynowania towaru – wysyłki;
+- **5)** dane adresowe miejsca magazynowania towaru – przyjęcia;
 - **6)** numer rejestracyjny środka transportu, o którym mowa w art. 2 pkt 11 lit. a, albo numer pociągu wraz z numerem pojazdu kolejowego bez napędu;
 - **7)** datę wystawienia.
 
@@ -167,10 +170,10 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 5. Dane, o których mowa w ust. 4:
 
-- **1)** pkt 1 i 2 są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia;
-- **1)** pkt 1 i 2 są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia, z wyjątkiem danych dotyczących zgłoszenia wykonywania międzynarodowego przewozu drogowego rzeczy oraz zgłoszenia wykonywania przewozu kabotażowego rzeczy, o których mowa w art. 28b ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 728 i 731), które są przechowywane przez 2 lata, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia;
-- **1a)** pkt 1b są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym przesłano miesięczne zestawienie informacji dotyczących okresowych umów;
-- **2)** pkt 1a są przechowywane nie dłużej niż 12 miesięcy, licząc od daty zakończenia przewozu towaru, chyba że przed upływem tego terminu wszczęte zostanie postępowanie administracyjne, w którym dane te są niezbędne; w takim przypadku dane geolokalizacyjne są przechowywane do czasu prawomocnego zakończenia postępowania administracyjnego.
+- **1)** pkt 1 i 2 – są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia;
+- **1)** pkt 1 i 2 – są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia, z wyjątkiem danych dotyczących zgłoszenia wykonywania międzynarodowego przewozu drogowego rzeczy oraz zgłoszenia wykonywania przewozu kabotażowego rzeczy, o których mowa w art. 28b ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 728 i 731), które są przechowywane przez 2 lata, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia;
+- **1a)** pkt 1b – są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym przesłano miesięczne zestawienie informacji dotyczących okresowych umów;
+- **2)** pkt 1a – są przechowywane nie dłużej niż 12 miesięcy, licząc od daty zakończenia przewozu towaru, chyba że przed upływem tego terminu wszczęte zostanie postępowanie administracyjne, w którym dane te są niezbędne; w takim przypadku dane geolokalizacyjne są przechowywane do czasu prawomocnego zakończenia postępowania administracyjnego.
 
 5a. Szef Krajowej Administracji Skarbowej dokonuje weryfikacji danych, o których mowa w ust. 4 pkt 1a, nie rzadziej niż raz na 3 miesiące, usuwając zbędne dane.
 
@@ -194,18 +197,18 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 2. W przypadku dostawy towarów zgłoszenie zawiera:
 
 - **1)** planowaną datę rozpoczęcia przewozu;
-- **2)** dane podmiotu wysyłającego obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **2)** dane podmiotu wysyłającego obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
-- **3)** dane podmiotu odbierającego obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **3)** dane podmiotu odbierającego obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
 - **4)** numer identyfikacji podatkowej podmiotu wysyłającego albo numer, za pomocą którego podmiot wysyłający jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej;
-- **4a)** informację, czy: o podatku akcyzowym jeżeli dostawa dotyczy paliw opałowych;
-    - **a)** podmiot wysyłający jest pośredniczącym podmiotem olejowym,
-    - **b)** dostawa jest realizowana w ramach umowy, o której mowa w art. 89 ust. 5e albo 5f ustawy z dnia 6 grudnia 2008 r.
+- **4a)** informację, czy: podmiot wysyłający jest pośredniczącym podmiotem olejowym, dostawa jest realizowana w ramach umowy, o której mowa w art. 89 ust. 5e albo 5f ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym jeżeli dostawa dotyczy paliw opałowych;
+    - **a)**
+    - **b)**
 
 - **5)** numer identyfikacji podatkowej podmiotu odbierającego, numer, za pomocą którego podmiot odbierający jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, albo numer PESEL, a jeżeli nie został nadany, nazwę i numer dokumentu stwierdzającego tożsamość osoby fizycznej nieprowadzącej działalności gospodarczej będącej podmiotem odbierającym;
 - **6)** dane adresowe miejsca załadunku towaru;
@@ -214,13 +217,13 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 3. W przypadku wewnątrzwspólnotowej dostawy towarów albo eksportu towarów w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług zgłoszenie zawiera:
 
 - **1)** planowaną datę rozpoczęcia przewozu;
-- **2)** dane podmiotu wysyłającego obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **2)** dane podmiotu wysyłającego obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
-- **3)** dane odbiorcy towaru obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **3)** dane odbiorcy towaru obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
 - **4)** numer identyfikacji podatkowej podmiotu wysyłającego albo numer, za pomocą którego podmiot wysyłający jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej;
 - **5)** w przypadku wewnątrzwspólnotowej dostawy towarów numer, za pomocą którego odbiorca towaru jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej;
@@ -230,27 +233,27 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 4. W przypadku przewozu towaru, o którym mowa w ust. 1, przewoźnik jest obowiązany przed rozpoczęciem przewozu towaru:
 
-- **1)** po drodze publicznej uzupełnić zgłoszenie o:
-    - **a)** dane przewoźnika obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby,
-    - **b)** numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej,
-    - **c)** numery rejestracyjne środka transportu, o którym mowa w art. 2 pkt 11 lit. a,
-    - **d)** datę faktycznego rozpoczęcia przewozu towaru,
-    - **e)** planowaną datę zakończenia przewozu towaru,
-    - **f)** numer zezwolenia, zaświadczenia lub licencji w rozumieniu przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym, o ile są wymagane,
-    - **g)** dane adresowe miejsca dostarczenia towaru albo miejsce zakończenia przewozu na terytorium kraju, albo numer identyfikacyjny miejsca, o którym mowa w art. 16b ust. 3 pkt 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym,
-    - **h)** numer dokumentu przewozowego towarzyszącego przewożonemu towarowi,
-    - **i)** numer lokalizatora albo numer urządzenia;
+- **1)** po drodze publicznej uzupełnić zgłoszenie o: dane przewoźnika obejmujące: – imię i nazwisko albo nazwę, – adres zamieszkania albo siedziby, numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, numery rejestracyjne środka transportu, o którym mowa w art. 2 pkt 11 lit. a, datę faktycznego rozpoczęcia przewozu towaru, planowaną datę zakończenia przewozu towaru, numer zezwolenia, zaświadczenia lub licencji w rozumieniu przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym, o ile są wymagane, dane adresowe miejsca dostarczenia towaru albo miejsce zakończenia przewozu na terytorium kraju, albo numer identyfikacyjny miejsca, o którym mowa w art. 16b ust. 3 pkt 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, numer dokumentu przewozowego towarzyszącego przewożonemu towarowi, numer lokalizatora albo numer urządzenia;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
 
-- **2)** po krajowej sieci kolejowej uzupełnić zgłoszenie o:
-    - **a)** dane przewoźnika obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby,
-    - **b)** numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej,
-    - **c)** numer pociągu,
-    - **d)** numer pojazdu kolejowego bez napędu,
-    - **e)** datę faktycznego rozpoczęcia przewozu towaru,
-    - **f)** planowaną datę zakończenia przewozu towaru,
-    - **g)** dane adresowe miejsca dostarczenia towaru albo miejsce zakończenia przewozu na terytorium kraju,
-    - **h)** numer dokumentu przewozowego towarzyszącego przewożonemu towarowi,
-    - **i)** numer lokalizatora albo numer urządzenia.
+- **2)** po krajowej sieci kolejowej uzupełnić zgłoszenie o: dane przewoźnika obejmujące: – imię i nazwisko albo nazwę, – adres zamieszkania albo siedziby, numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, numer pociągu, numer pojazdu kolejowego bez napędu, datę faktycznego rozpoczęcia przewozu towaru, planowaną datę zakończenia przewozu towaru, dane adresowe miejsca dostarczenia towaru albo miejsce zakończenia przewozu na terytorium kraju, numer dokumentu przewozowego towarzyszącego przewożonemu towarowi, numer lokalizatora albo numer urządzenia.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
 
 4a. W przypadku dostawy paliw opałowych przewoźnik jest obowiązany przed rozpoczęciem przewozu towaru uzupełnić zgłoszenie o numer lub numery identyfikacyjne urządzeń grzewczych niestacjonarnych, o których mowa w art. 16b ust. 3 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, jeżeli dostawa towarów następuje do miejsca, w którym znajdują się te urządzenia.
 
@@ -263,8 +266,6 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 - **3)** oświadczenie, o którym mowa w art. 89 ust. 5 pkt 3 lit. a lub b ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
 
 7. Przepisu ust. 6 pkt 3 nie stosuje się w przypadku, o którym mowa w art. 89 ust. 5e ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
-
-**Art. 5a.**
 
 1. W przypadku odmowy przyjęcia przez podmiot odbierający towaru będącego przedmiotem dostawy towarów, o której mowa w art. 5 ust. 1, podmiot wysyłający jest obowiązany, przed rozpoczęciem przewozu towarów:
 
@@ -281,13 +282,13 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 2. Zgłoszenie zawiera:
 
-- **1)** dane podmiotu odbierającego obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **1)** dane podmiotu odbierającego obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
-- **2)** dane nadawcy towarów obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **2)** dane nadawcy towarów obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
 - **3)** numer identyfikacji podatkowej podmiotu odbierającego, numer, za pomocą którego podmiot odbierający jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, albo numer PESEL, a jeżeli nie został nadany, nazwę i numer dokumentu stwierdzającego tożsamość osoby fizycznej nieprowadzącej działalności gospodarczej będącej podmiotem odbierającym;
 - **4)** w przypadku wewnątrzwspólnotowego nabycia towarów w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług numer, za pomocą którego nadawca towarów jest zidentyfikowany na potrzeby podatku od wartości dodanej;
@@ -298,43 +299,41 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 3. W przypadku przewozu towaru, o którym mowa w ust. 1, przewoźnik jest obowiązany przed rozpoczęciem przewozu towaru na terytorium kraju:
 
-- **1)** po drodze publicznej uzupełnić zgłoszenie o:
-    - **a)** dane przewoźnika obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby,
-    - **b)** numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej,
-    - **c)** numery rejestracyjne środka transportu, o którym mowa w art. 2 pkt 11 lit. a,
-    - **d)** miejsce i datę rozpoczęcia przewozu towaru na terytorium kraju,
-    - **e)** planowaną datę zakończenia przewozu towaru,
-    - **f)** numer zezwolenia, zaświadczenia lub licencji w rozumieniu przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym, o ile są wymagane,
-    - **g)** numer dokumentu przewozowego towarzyszącego przewożonemu towarowi,
-    - **h)** numer lokalizatora albo numer urządzenia;
+- **1)** po drodze publicznej uzupełnić zgłoszenie o: dane przewoźnika obejmujące: – imię i nazwisko albo nazwę, – adres zamieszkania albo siedziby, numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, numery rejestracyjne środka transportu, o którym mowa w art. 2 pkt 11 lit. a, miejsce i datę rozpoczęcia przewozu towaru na terytorium kraju, planowaną datę zakończenia przewozu towaru, numer zezwolenia, zaświadczenia lub licencji w rozumieniu przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym, o ile są wymagane, numer dokumentu przewozowego towarzyszącego przewożonemu towarowi, numer lokalizatora albo numer urządzenia;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
-- **2)** po krajowej sieci kolejowej uzupełnić zgłoszenie o:
-    - **a)** dane przewoźnika obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby,
-    - **b)** numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej,
-    - **c)** numer pociągu,
-    - **d)** numer pojazdu kolejowego bez napędu,
-    - **e)** miejsce i planowaną datę rozpoczęcia przewozu na terytorium kraju,
-    - **f)** planowaną datę zakończenia przewozu towaru,
-    - **g)** numer dokumentu przewozowego towarzyszącego przewożonemu towarowi,
-    - **h)** numer lokalizatora albo numer urządzenia.
+- **2)** po krajowej sieci kolejowej uzupełnić zgłoszenie o: dane przewoźnika obejmujące: – imię i nazwisko albo nazwę, – adres zamieszkania albo siedziby, numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, numer pociągu, numer pojazdu kolejowego bez napędu, miejsce i planowaną datę rozpoczęcia przewozu na terytorium kraju, planowaną datę zakończenia przewozu towaru, numer dokumentu przewozowego towarzyszącego przewożonemu towarowi, numer lokalizatora albo numer urządzenia.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
 4. Podmiot odbierający uzupełnia zgłoszenie o informację o odbiorze towaru, nie później niż w następnym dniu roboczym po dniu dostarczenia towaru.
 
 5. W przypadku wewnątrzwspólnotowego nabycia paliw opałowych podmiot odbierający uzupełnia zgłoszenie o informację o ilości odebranego towaru w dniu dostarczenia towaru.
 
-**Art. 6a.**
-
 1. W przypadku dostawy paliw opałowych znajdujących się poza procedurą zawieszenia poboru akcyzy w rozumieniu ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, w przypadku dostawy niezwiązanej z przewozem, podmiot sprzedający jest obowiązany przesłać do rejestru zgłoszenie i uzyskać numer referencyjny dla tego zgłoszenia nie później niż z chwilą przeniesienia posiadania lub własności tych paliw.
 
 2. W przypadku, o którym mowa w ust. 1, zgłoszenie zawiera:
 
-- **1)** dane podmiotu sprzedającego obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **1)** dane podmiotu sprzedającego obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
-- **2)** dane podmiotu nabywającego obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **2)** dane podmiotu nabywającego obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
 - **3)** numer identyfikacji podatkowej podmiotu sprzedającego;
 - **4)** numer identyfikacji podatkowej podmiotu nabywającego;
@@ -346,8 +345,6 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 - **2)** informację, że działa jako zużywający podmiot olejowy lub pośredniczący podmiot olejowy;
 - **3)** oświadczenie, o którym mowa w art. 89 ust. 5 pkt 3 lit. a lub b ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
 
-**Art. 6b.**
-
 1. W przypadku wewnątrzwspólnotowego nabycia paliw opałowych w procedurze zawieszenia poboru akcyzy przez zarejestrowanego odbiorcę w rozumieniu ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym będącego:
 
 - **1)** zużywającym podmiotem olejowym lub pośredniczącym podmiotem olejowym, gdy nabycie to nastąpiło na potrzeby prowadzonej działalności gospodarczej, albo
@@ -356,9 +353,9 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 2. W przypadku, o którym mowa w ust. 1 pkt 1, zgłoszenie zawiera:
 
 - **1)** informację, czy podmiot jest zużywającym podmiotem olejowym lub pośredniczącym podmiotem olejowym;
-- **2)** dane zużywającego podmiotu olejowego lub pośredniczącego podmiotu olejowego obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **2)** dane zużywającego podmiotu olejowego lub pośredniczącego podmiotu olejowego obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
 - **3)** numer identyfikacji podatkowej zużywającego podmiotu olejowego lub pośredniczącego podmiotu olejowego;
 - **4)** dane adresowe miejsca dostarczenia towaru;
@@ -367,35 +364,33 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 3. W przypadku, o którym mowa w ust. 1 pkt 2, zgłoszenie zawiera:
 
-- **1)** dane pośredniczącego podmiotu olejowego nabywającego paliwa opałowe na rzecz innych podmiotów obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **1)** dane pośredniczącego podmiotu olejowego nabywającego paliwa opałowe na rzecz innych podmiotów obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
 - **2)** numer identyfikacji podatkowej pośredniczącego podmiotu olejowego, o którym mowa w pkt 1;
-- **3)** dane zużywającego podmiotu olejowego lub pośredniczącego podmiotu olejowego, na którego rzecz nabywane są paliwa opałowe, obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby;
+- **3)** dane zużywającego podmiotu olejowego lub pośredniczącego podmiotu olejowego, na którego rzecz nabywane są paliwa opałowe, obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
 
 - **4)** numer identyfikacji podatkowej zużywającego podmiotu olejowego lub pośredniczącego podmiotu olejowego, o którym mowa w pkt 3;
 - **5)** dane adresowe miejsca dostarczenia towaru;
 - **6)** dane dotyczące towaru, w szczególności rodzaju towaru, kodu CN, ilości, masy brutto lub objętości towaru;
 - **7)** oświadczenie, o którym mowa w art. 89 ust. 5c pkt 3 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
 
-**Art. 6c.**
-
 1. W przypadku gdy podmiot wysyłający albo podmiot sprzedający stosuje przy dostawie paliw opałowych okresową umowę, o której mowa w art. 89 ust. 5e albo 5f ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, odpowiednio podmiot wysyłający albo podmiot sprzedający jest obowiązany, przed dokonaniem pierwszej dostawy albo przeniesieniem własności lub posiadania paliw opałowych, przesłać do rejestru zgłoszenie. Z chwilą przesłania zgłoszenia odpowiednio podmiot wysyłający albo podmiot sprzedający uzyskują unikatowy identyfikator tej umowy.
 
 2. W przypadku, o którym mowa w ust. 1, zgłoszenie obejmuje dane:
 
-- **1)** podmiotu wysyłającego albo podmiotu sprzedającego obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby,
-    - **c)** numer identyfikacji podatkowej;
+- **1)** podmiotu wysyłającego albo podmiotu sprzedającego obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby, numer identyfikacji podatkowej;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** podmiotu odbierającego albo podmiotu nabywającego obejmujące:
-    - **a)** imię i nazwisko albo nazwę,
-    - **b)** adres zamieszkania albo siedziby,
-    - **c)** numer identyfikacji podatkowej;
+- **2)** podmiotu odbierającego albo podmiotu nabywającego obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby, numer identyfikacji podatkowej;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** dotyczące towaru będącego przedmiotem umowy, w szczególności rodzaju towaru, kodu CN, ilości lub objętości towaru.
 
@@ -416,48 +411,42 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 2. Zgłoszenie zawiera w przypadku:
 
-- **1)** przewozu po drodze publicznej:
-    - **a)** dane przewoźnika obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby,
-    - **b)** numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, jeżeli jest obowiązany go posiadać,
-    - **c)** dane nadawcy towarów obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby,
-    - **d)** dane odbiorcy towarów obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby,
-    - **e)** miejsce i datę rozpoczęcia przewozu towaru na terytorium kraju,
-    - **f)** miejsce zakończenia przewozu towaru na terytorium kraju,
-    - **g)** planowaną datę zakończenia przewozu towaru na terytorium kraju,
-    - **h)** dane dotyczące towaru będącego przedmiotem przewozu, w szczególności rodzaju towaru, pozycji CN, ilości, masy brutto lub objętości towaru,
-    - **i)** numer dokumentu przewozowego towarzyszącego przewożonemu towarowi,
-    - **j)** numer zezwolenia, zaświadczenia lub licencji w rozumieniu przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym, o ile są wymagane,
-    - **k)** numery rejestracyjne środka transportu, o którym mowa w art. 2 pkt 11 lit. a,
-    - **l)** numer lokalizatora albo numer urządzenia;
+- **1)** przewozu po drodze publicznej: dane przewoźnika obejmujące: – imię i nazwisko albo nazwę, – adres zamieszkania albo siedziby, numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, jeżeli jest obowiązany go posiadać, dane nadawcy towarów obejmujące: – imię i nazwisko albo nazwę, – adres zamieszkania albo siedziby, dane odbiorcy towarów obejmujące: – imię i nazwisko albo nazwę, – adres zamieszkania albo siedziby, miejsce i datę rozpoczęcia przewozu towaru na terytorium kraju, miejsce zakończenia przewozu towaru na terytorium kraju, planowaną datę zakończenia przewozu towaru na terytorium kraju, dane dotyczące towaru będącego przedmiotem przewozu, w szczególności rodzaju towaru, pozycji CN, ilości, masy brutto lub objętości towaru, numer dokumentu przewozowego towarzyszącego przewożonemu towarowi, numer zezwolenia, zaświadczenia lub licencji w rozumieniu przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym, o ile są wymagane, numery rejestracyjne środka transportu, o którym mowa w art. 2 pkt 11 lit. a, numer lokalizatora albo numer urządzenia;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
 
-- **2)** przewozu po krajowej sieci kolejowej:
-    - **a)** dane przewoźnika obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby,
-    - **b)** numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, jeżeli jest obowiązany go posiadać,
-    - **c)** dane nadawcy towarów obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby,
-    - **d)** dane odbiorcy towarów obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby,
-    - **e)** miejsce i datę rozpoczęcia przewozu towaru na terytorium kraju,
-    - **f)** miejsce zakończenia przewozu towaru na terytorium kraju,
-    - **g)** planowaną datę zakończenia przewozu towaru na terytorium kraju,
-    - **h)** dane dotyczące towaru będącego przedmiotem przewozu, w szczególności rodzaju towaru, pozycji CN, ilości, masy brutto lub objętości towaru,
-    - **i)** numer dokumentu przewozowego towarzyszącego przewożonemu towarowi,
-    - **j)** numer pociągu,
-    - **k)** numer pojazdu bez napędu,
-    - **l)** numer lokalizatora albo numer urządzenia.
+- **2)** przewozu po krajowej sieci kolejowej: dane przewoźnika obejmujące: – imię i nazwisko albo nazwę, – adres zamieszkania albo siedziby, numer identyfikacji podatkowej przewoźnika albo numer, za pomocą którego przewoźnik jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, jeżeli jest obowiązany go posiadać, dane nadawcy towarów obejmujące: – imię i nazwisko albo nazwę, – adres zamieszkania albo siedziby, dane odbiorcy towarów obejmujące: – imię i nazwisko albo nazwę, – adres zamieszkania albo siedziby, miejsce i datę rozpoczęcia przewozu towaru na terytorium kraju, miejsce zakończenia przewozu towaru na terytorium kraju, planowaną datę zakończenia przewozu towaru na terytorium kraju, dane dotyczące towaru będącego przedmiotem przewozu, w szczególności rodzaju towaru, pozycji CN, ilości, masy brutto lub objętości towaru, numer dokumentu przewozowego towarzyszącego przewożonemu towarowi, numer pociągu, numer pojazdu bez napędu, numer lokalizatora albo numer urządzenia. Ze względu na specyfikę rodzaju przewozu, towarzyszące mu warunki techniczne, specyfikę przewozu danego towaru lub rodzaj transakcji podlegającej zgłoszeniu jednym zgłoszeniem można objąć więcej niż jedną przesyłkę w rozumieniu art. 3 ust. 3 – w przypadkach określonych w przepisach wydanych na podstawie art. 9 ust. 7.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
 
-**Art. 7a.** Ze względu na specyfikę rodzaju przewozu, towarzyszące mu warunki techniczne, specyfikę przewozu danego towaru lub rodzaj transakcji podlegającej zgłoszeniu jednym zgłoszeniem można objąć więcej niż jedną przesyłkę w rozumieniu art. 3 ust. 3 w przypadkach określonych w przepisach wydanych na podstawie art. 9 ust. 7.
-
-**Art. 7b.**
-
-1. W przypadku niektórych przewozów towarów może zostać wyłączony obowiązek przesłania do rejestru zgłoszenia lub mogą zostać wyłączone inne obowiązki w zakresie uzupełniania i aktualizacji zgłoszenia lub w zakresie przekazywania aktualnych danych geolokalizacyjnych środka transportu, jeżeli ich realizacja jest szczególnie utrudniona, ze względu na specyfikę rodzaju przewozu, towarzyszące mu warunki techniczne, specyfikę przewozu danego towaru lub rodzaj transakcji podlegającej zgłoszeniu, a przedmiot danego obowiązku można zrealizować w inny sposób lub można od niego odstąpić ze względu na niskie ryzyko wystąpienia nieprawidłowości wynikające z tego zwolnienia w przypadkach określonych w przepisach wydanych na podstawie ust. 2.
+1. W przypadku niektórych przewozów towarów może zostać wyłączony obowiązek przesłania do rejestru zgłoszenia lub mogą zostać wyłączone inne obowiązki w zakresie uzupełniania i aktualizacji zgłoszenia lub w zakresie przekazywania aktualnych danych geolokalizacyjnych środka transportu, jeżeli ich realizacja jest szczególnie utrudniona, ze względu na specyfikę rodzaju przewozu, towarzyszące mu warunki techniczne, specyfikę przewozu danego towaru lub rodzaj transakcji podlegającej zgłoszeniu, a przedmiot danego obowiązku można zrealizować w inny sposób lub można od niego odstąpić ze względu na niskie ryzyko wystąpienia nieprawidłowości wynikające z tego zwolnienia – w przypadkach określonych w przepisach wydanych na podstawie ust. 2.
 
 2. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:
 
 - **1)** przypadki, w których przewóz towarów jest wyłączony z obowiązku przesłania do rejestru zgłoszenia lub innych obowiązków w zakresie uzupełniania i aktualizacji zgłoszenia lub w zakresie przekazywania aktualnych danych geolokalizacyjnych środka transportu,
 - **2)** warunki wyłączenia, o którym mowa w pkt 1 uwzględniając stopień obciążenia administracyjnego, skuteczność monitorowania przewozu towarów albo obrotu danym towarem oraz ryzyko powstania uszczupleń w zakresie podatku od towarów i usług lub podatku akcyzowego.
 
-**Art. 7c.**
-
-1. W przypadku niektórych towarów odpowiednio podmiot wysyłający, podmiot odbierający i przewoźnik są obowiązani do wskazania lub uzupełnienia w zgłoszeniu dodatkowych danych, jeżeli dane te ze względu na specyfikę towaru lub przewozu towaru, lub obrotu tym towarem są przekazywane do innych organów na podstawie przepisów odrębnych oraz jest to konieczne do zapewnienia skuteczności monitorowania przewozu towarów w przypadkach określonych w przepisach wydanych na podstawie ust. 2.
+1. W przypadku niektórych towarów odpowiednio podmiot wysyłający, podmiot odbierający i przewoźnik są obowiązani do wskazania lub uzupełnienia w zgłoszeniu dodatkowych danych, jeżeli dane te ze względu na specyfikę towaru lub przewozu towaru, lub obrotu tym towarem są przekazywane do innych organów na podstawie przepisów odrębnych oraz jest to konieczne do zapewnienia skuteczności monitorowania przewozu towarów – w przypadkach określonych w przepisach wydanych na podstawie ust. 2.
 
 2. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, dodatkowe dane, o których mowa w ust. 1, uwzględniając potrzebę zapewnienia skuteczności monitorowania przewozu towarów, specyfikę towaru, przewozu towarów lub obrotu tymi towarami.
 
@@ -510,17 +499,19 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 4. W przypadku nieotrzymania przez kierującego, o którym mowa w art. 2 pkt 2 lit. a, numeru referencyjnego, dokumentu zastępującego zgłoszenie i potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie albo dokumentu, o którym mowa w art. 3 ust. 7, kierujący jest obowiązany odmówić rozpoczęcia przewozu towaru.
 
-**Art. 10a.**
-
 1. Przewoźnik, w trakcie całej trasy przewozu towaru objętego zgłoszeniem, jest obowiązany zapewnić przekazywanie aktualnych danych geolokalizacyjnych środka transportu objętego tym zgłoszeniem.
 
 2. Przewoźnik jest obowiązany wyposażyć środek transportu, o którym mowa w ust. 1, w lokalizator.
 
-3. Przepisu ust. 2 nie stosuje się, jeżeli dane geolokalizacyjne środka transportu są przekazywane do rejestru z zewnętrznego systemu lokalizacji.
+3. Przepisu ust. 2 nie stosuje się, jeżeli dane geolokalizacyjne środka transportu są przekazywane do rejestru z zewnętrznego systemu lokalizacji. W przypadku gdy środek transportu jest wyposażony w lokalizator, kierujący jest obowiązany:
 
-**Art. 10b.** W przypadku gdy środek transportu jest wyposażony w lokalizator, kierujący jest obowiązany:
+- **1)** włączyć lokalizator: przed rozpoczęciem przewozu towaru – w przypadku przewozu towaru, o którym mowa w art. 5 ust. 1, a w przypadku kilku miejsc załadunku na terytorium kraju z chwilą rozpoczęcia przewozu towaru z pierwszego miejsca załadunku na terytorium kraju, z chwilą rozpoczęcia przewozu towaru na terytorium kraju – w przypadku przewozu towaru, o którym mowa w art. 6 ust. 1 i art. 7 ust. 1;
+    - **a)**
+    - **b)**
 
-**Art. 10c.**
+- **2)** wyłączyć lokalizator nie wcześniej niż z chwilą: dostarczenia towaru do miejsca dostarczenia towaru na terytorium kraju, a w przypadku kilku miejsc dostarczenia towaru na terytorium kraju z chwilą dostarczenia towaru do ostatniego miejsca dostarczenia towaru na terytorium kraju, zakończenia przewozu towaru na terytorium kraju.
+    - **a)**
+    - **b)**
 
 1. W przypadku stwierdzenia trwającej dłużej niż godzinę niesprawności lokalizatora albo zewnętrznego systemu lokalizacji, kierujący, o którym mowa w art. 2 pkt 2 lit. a, jest obowiązany do niezwłocznego zatrzymania się na najbliższym parkingu samochodowym lub w najbliższej zatoce postojowej.
 
@@ -531,7 +522,7 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 - **1)** przywróceniu sprawności lokalizatora albo zewnętrznego systemu lokalizacji albo
 - **2)** przeładunku towaru na środek transportu wyposażony w sprawny lokalizator albo którego dane geolokalizacyjne są przekazywane do rejestru z zewnętrznego systemu lokalizacji, albo
 - **3)** wyposażeniu środka transportu w sprawny lokalizator, albo
-- **4)** nałożeniu zamknięć urzędowych na środek transportu lub towar albo zarządzeniu konwoju, o którym mowa w art. 67 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ).
+- **4)** nałożeniu zamknięć urzędowych na środek transportu lub towar albo zarządzeniu konwoju, o którym mowa w art. 67 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.).
 
 4. Rozstrzygnięcie w zakresie, o którym mowa w ust. 3 pkt 4, jest podejmowane przez naczelnika urzędu celno-skarbowego, na terenie którego znajduje się środek transportu, po uzyskaniu informacji od przewoźnika dotyczącej potrzeby kontynuowania przewozu towaru.
 
@@ -547,11 +538,11 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 1. Podmiotami uprawnionymi do korzystania z danych zgromadzonych w rejestrze oraz ich przetwarzania za pomocą telekomunikacyjnego urządzenia końcowego są:
 
-- **1)** w celu wykonywania kontroli przewozu towarów:
-    - **a)** funkcjonariusze Służby Celno-Skarbowej,
-    - **b)** Policja,
-    - **c)** Straż Graniczna,
-    - **d)** Inspekcja Transportu Drogowego;
+- **1)** w celu wykonywania kontroli przewozu towarów: funkcjonariusze Służby Celno-Skarbowej, Policja, Straż Graniczna, Inspekcja Transportu Drogowego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** funkcjonariusze Służby Celno-Skarbowej i pracownicy organów Krajowej Administracji Skarbowej w toku postępowania podatkowego, wykonywania kontroli podatkowej lub kontroli celno-skarbowej;
 - **3)** Główny Inspektor Farmaceutyczny w zakresie niezbędnym do realizacji jego ustawowych zadań.
@@ -573,13 +564,11 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 - **1)** sądu,
 - **2)** prokuratora w związku z toczącym się postępowaniem.
 
-4. Szef Krajowej Administracji Skarbowej udostępnia organom, o których mowa w ust. 2 pkt 5 i ust. 3, dane z rejestru w drodze teletransmisji, jeżeli dane te są niezbędne do realizacji ich ustawowych zadań i odpowiednio Urząd Regulacji Energetyki albo jednostka organizacyjna odpowiednio Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego będący odbiorcą informacji spełnia łącznie następujące warunki: Szef Krajowej Administracji Skarbowej udostępnia organom, o których mowa w ust. 2 pkt 1–3, 5 i 7 oraz ust. 3, dane z rejestru w drodze teletransmisji, jeżeli dane te są niezbędne do realizacji ich ustawowych zadań i odpowiednio Urząd Regulacji Energetyki, urząd obsługujący ministra do spraw transportu albo jednostka organizacyjna odpowiednio Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Straży Granicznej będąca odbiorcą informacji, spełnia łącznie następujące warunki:
+4. Szef Krajowej Administracji Skarbowej udostępnia organom, o których mowa w ust. 2 pkt 5 i ust. 3, dane z rejestru w drodze teletransmisji, jeżeli dane te są niezbędne do realizacji ich ustawowych zadań i odpowiednio Urząd Regulacji Energetyki albo jednostka organizacyjna odpowiednio Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego będący odbiorcą informacji spełnia łącznie następujące warunki:Szef Krajowej Administracji Skarbowej udostępnia organom, o których mowa w ust. 2 pkt 1–3, 5 i 7 oraz ust. 3, dane z rejestru w drodze teletransmisji, jeżeli dane te są niezbędne do realizacji ich ustawowych zadań i odpowiednio Urząd Regulacji Energetyki, urząd obsługujący ministra do spraw transportu albo jednostka organizacyjna odpowiednio Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Straży Granicznej będąca odbiorcą informacji, spełnia łącznie następujące warunki:
 
 - **1)** posiada urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu oraz jakie dane uzyskał;
 - **2)** posiada zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania;
 - **3)** specyfika lub zakres wykonywanych zadań uzasadnia takie udostępnienie.
-
-**Art. 12a.**
 
 1. Jeżeli w wyniku analizy danych w rejestrze stwierdzono, że przewóz towarów wskazany w zgłoszeniu wiąże się ze zwiększonym ryzykiem, odpowiednio podmiot wysyłający, podmiot odbierający lub przewoźnik otrzymują wezwanie do przedstawienia środka transportu w czasie i miejscu, o których mowa odpowiednio w ust. 3 albo 4, przesłane wraz z numerem referencyjnym albo potwierdzeniem aktualizacji danych w rejestrze.
 
@@ -602,7 +591,7 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 2. Kontrola obejmuje weryfikację danych zawartych w dokumentach okazanych przez kierującego, dokonanie oględzin towaru, w tym pobranie próbki towaru, oraz weryfikację wskazań lokalizatora albo zewnętrznego systemu lokalizacji.
 
-2a. W przypadku kontroli przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, wymagających szczególnych warunków przechowywania, można skierować je w celu dokonania oględzin do miejsca, w którym możliwe jest ich dokonanie zgodnie z umową, o której mowa w art. 37ay ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne.
+2a. W przypadku kontroli przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, wymagających szczególnych warunków przechowywania, można skierować je w celu dokonania oględzin do miejsca, w którym możliwe jest ich dokonanie zgodnie z umową, o której mowa w art. 37ay ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 
 3. Kontrolę przewozu towarów przeprowadzają funkcjonariusze Służby Celno-Skarbowej.
 
@@ -669,22 +658,22 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 - **1)** ujawniono niedokonanie zgłoszenia,
 - **2)** nie zostanie przedstawiony przez kierującego numer referencyjny dla dokonywanego przewozu towaru, dokument zastępujący zgłoszenie i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie albo dokument, o którym mowa w art. 3 ust. 7 towar albo środek transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem może zostać zatrzymany.
 
-1a. Jeżeli w trakcie kontroli przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, ujawniono, że przewóz towarów jest dokonywany:
+1a. Jeżeli w trakcie kontroli przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, ujawniono, że przewóz towarów jest dokonywany:
 
-- **1)** bez dokonania Głównemu Inspektorowi Farmaceutycznemu zgłoszenia, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne,
-- **2)** przed upływem terminu na zgłoszenie sprzeciwu, określonego w art. 37av ust. 3 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne,
-- **3)** wbrew sprzeciwowi, o którym mowa w art. 37av ust. 3 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne,
-- **4)** bez dokumentu, o którym mowa w art. 37av ust. 16a ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, albo gdy dokument ten zawiera dane niekompletne lub niezgodne ze stanem faktycznym towar zatrzymuje się.
+- **1)** bez dokonania Głównemu Inspektorowi Farmaceutycznemu zgłoszenia, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
+- **2)** przed upływem terminu na zgłoszenie sprzeciwu, określonego w art. 37av ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
+- **3)** wbrew sprzeciwowi, o którym mowa w art. 37av ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
+- **4)** bez dokumentu, o którym mowa w art. 37av ust. 16a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, albo gdy dokument ten zawiera dane niekompletne lub niezgodne ze stanem faktycznym towar zatrzymuje się.
 
 1b. W przypadku przewozu towarów po krajowej sieci kolejowej towar może zostać zatrzymany w miejscu dostarczenia towaru na terytorium kraju.
 
 2. Zatrzymany towar albo środek transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem jest kierowany albo usuwany do najbliższego wyznaczonego miejsca, które spełnia warunki przechowywania towarów będących przedmiotem przewozu.
 
-2a. W przypadku zatrzymania, o którym mowa w ust. 1a, towar albo środek transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem jest kierowany do miejsca określonego w umowie, o której mowa w art. 37ay ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne.
+2a. W przypadku zatrzymania, o którym mowa w ust. 1a, towar albo środek transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem jest kierowany do miejsca określonego w umowie, o której mowa w art. 37ay ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 
 3. Towar zatrzymuje się do czasu ustalenia, przez naczelnika urzędu celno-skarbowego właściwego ze względu na miejsce kontroli przewozu towarów, podmiotu posiadającego prawo do dysponowania towarem jak właściciel w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług i złożenia zgłoszenia. W przypadku nieustalenia podmiotu, który posiada prawo do dysponowania towarem jak właściciel, w terminie 60 dni od dnia zatrzymania towaru, orzeka się przepadek towaru na rzecz Skarbu Państwa.
 
-4. Z wnioskiem o orzeczenie przepadku towaru na rzecz Skarbu Państwa występuje do sądu cywilnego naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce kontroli przewozu towarów. Do spraw o przepadek towaru stosuje się odpowiednio przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
+4. Z wnioskiem o orzeczenie przepadku towaru na rzecz Skarbu Państwa występuje do sądu cywilnego naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce kontroli przewozu towarów. Do spraw o przepadek towaru stosuje się odpowiednio przepisy art. 6101–6105 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.).
 
 5. W przypadku towarów łatwo psujących się termin, o którym mowa w ust. 3, wynosi 3 dni.
 
@@ -692,15 +681,13 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 7. W przypadku, o którym mowa w ust. 1a, kontrolujący przekazuje dokumenty z przeprowadzonej kontroli przewozu towarów Głównemu Inspektorowi Farmaceutycznemu.
 
-8. Do przechowywania i strzeżenia zatrzymanych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, oraz ich przepadku, sprzedaży albo zniszczenia stosuje się przepisy rozdziału 2c tej ustawy.
-
-**Art. 16a.**
+8. Do przechowywania i strzeżenia zatrzymanych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, oraz ich przepadku, sprzedaży albo zniszczenia stosuje się przepisy rozdziału 2c tej ustawy.
 
 1. Jeżeli uprawnienie do zatrzymania środka transportu wraz z towarem lub usunięcia, o którym mowa w art. 16 ust. 2, zbiega się z uprawnieniem do zatrzymania lub usunięcia środka transportu wraz z towarem określonym w przepisach innych ustaw, w pierwszej kolejności stosuje się przepisy ustawy.
 
 2. W przypadku stwierdzenia nieprawidłowości związanych z przewozem drogowym towarów niebezpiecznych, mającym wpływ na bezpieczeństwo tego przewozu, w pierwszej kolejności stosuje się art. 102 ust. 1 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych.
 
-3. Przepisów ust. 1 i 2 nie stosuje się w przypadku, o którym mowa w art. 217, art. 228 oraz art. 308 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37).
+3. Przepisów ust. 1 i 2 nie stosuje się w przypadku, o którym mowa w art. 217, art. 228 oraz art. 308 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37).
 
 **Art. 17.**
 
@@ -712,13 +699,14 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 4. Na postanowienie, o którym mowa w ust. 3, służy zażalenie.
 
-5. W zakresie nieuregulowanym w ustawie do opłat stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
+5. W zakresie nieuregulowanym w ustawie do opłat stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
 
-6. W przypadku produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, w zakresie opłat za ich przechowywanie i strzeżenie stosuje się przepisy rozdziału 2c tej ustawy.
+6. W przypadku produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, w zakresie opłat za ich przechowywanie i strzeżenie stosuje się przepisy rozdziału 2c tej ustawy.
 
 **Art. 18.**
 
-- **10)** 1. Zwrot:
+1. Zwrot:
+
 - **1)** środka transportu z wyznaczonego miejsca następuje po uiszczeniu opłat dotyczących środka transportu ustalonych w postanowieniu, o którym mowa w art. 17 ust. 3;
 - **2)** towaru z wyznaczonego miejsca następuje po uiszczeniu opłat dotyczących towaru ustalonych w postanowieniu, o którym mowa w art. 17 ust. 3, z wyjątkiem art. 31.
 
@@ -739,22 +727,20 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 3. Ustala się maksymalną wysokość stawek kwotowych opłat, o których mowa w art. 17 ust. 1, za:
 
-- **1)** środek transportu:
-    - **a)** o dopuszczalnej masie całkowitej do 3,5 t za usunięcie 476 zł ; za każdą dobę przechowywania i strzeżenia 39 zł ,
-    - **b)** o dopuszczalnej masie całkowitej powyżej 3,5 t do 7,5 t za usunięcie 594 zł ; za każdą dobę przechowywania i strzeżenia 51 zł ,
-    - **c)** o dopuszczalnej masie całkowitej powyżej 7,5 t do 16 t za usunięcie 841 zł ; za każdą dobę przechowywania i strzeżenia 73 zł ,
-    - **d)** o dopuszczalnej masie całkowitej powyżej 16 t za usunięcie 1239 zł ; za każdą dobę przechowywania i strzeżenia 133 zł ,
-    - **e)** przewożący materiały niebezpieczne za usunięcie 1508 zł ; za każdą dobę przechowywania i strzeżenia 196 zł ;
+- **1)** środek transportu: o dopuszczalnej masie całkowitej do 3,5 t – za usunięcie – 476 zł; za każdą dobę przechowywania i strzeżenia – 39 zł, o dopuszczalnej masie całkowitej powyżej 3,5 t do 7,5 t – za usunięcie – 594 zł; za każdą dobę przechowywania i strzeżenia – 51 zł, o dopuszczalnej masie całkowitej powyżej 7,5 t do 16 t – za usunięcie – 841 zł; za każdą dobę przechowywania i strzeżenia – 73 zł, o dopuszczalnej masie całkowitej powyżej 16 t – za usunięcie – 1239 zł; za każdą dobę przechowywania i strzeżenia – 133 zł, przewożący materiały niebezpieczne – za usunięcie – 1508 zł; za każdą dobę przechowywania i strzeżenia – 196 zł;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **2)** towar:
-    - **a)** za usunięcie 1508 zł ,
-    - **b)** za każdą dobę przechowywania i strzeżenia 4 zł za 1 m albo 0,80 zł za 1 m powierzchni magazynowej.
+- **2)** towar: za usunięcie – 1508 zł, za każdą dobę przechowywania i strzeżenia – 4 zł za 1 m3albo 0,80 zł za 1 m2 powierzchni magazynowej.
+    - **a)**
+    - **b)**
 
 4. Maksymalne stawki opłat, o których mowa w ust. 3, obowiązujące w danym roku kalendarzowym, ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
 
-5. Minister właściwy do spraw finansów publicznych, w terminie do dnia 1 grudnia danego roku ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalne stawki opłat, o których mowa w ust. 3, z uwzględnieniem zasady określonej w ust. 4, obowiązujące w następnym roku kalendarzowym, zaokrąglając opłaty, o których mowa w ust. 3 pkt 1 i pkt 2 lit. a, w górę do pełnych złotych, a opłaty, o których mowa w ust. 3 pkt 2 lit. b, w górę do pełnych dziesiątek groszy.
-
-**Art. 20a.** Do usuwania środka transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem przez funkcjonariuszy i inspektorów, o których mowa w art. 13 ust. 4, w zakresie nieuregulowanym ustawą stosuje się odpowiednio zasady i warunki określone w przepisach ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+5. Minister właściwy do spraw finansów publicznych, w terminie do dnia 1 grudnia danego roku ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalne stawki opłat, o których mowa w ust. 3, z uwzględnieniem zasady określonej w ust. 4, obowiązujące w następnym roku kalendarzowym, zaokrąglając opłaty, o których mowa w ust. 3 pkt 1 i pkt 2 lit. a, w górę do pełnych złotych, a opłaty, o których mowa w ust. 3 pkt 2 lit. b, w górę do pełnych dziesiątek groszy. Do usuwania środka transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem przez funkcjonariuszy i inspektorów, o których mowa w art. 13 ust. 4, w zakresie nieuregulowanym ustawą stosuje się odpowiednio zasady i warunki określone w przepisach ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 **Art. 21.**
 
@@ -790,8 +776,6 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 3. W przypadkach uzasadnionych ważnym interesem przewoźnika lub interesem publicznym, na wniosek przewoźnika lub z urzędu, organ może odstąpić od nałożenia kary pieniężnej, o której mowa w ust. 1–2a, z uwzględnieniem art. 26 ust. 3.
 
-**Art. 22a.**
-
 1. W przypadku niedostarczenia zgłoszonego towaru do miejsca dostarczenia towaru albo miejsca zakończenia przewozu na terytorium kraju na przewoźnika nakłada się karę pieniężną w wysokości 100 000 zł, o ile nie ustalono podmiotu, który nabył lub posiada te towary, lub nie ustalono miejsca zakończenia przewozu na terytorium kraju.
 
 2. W przypadkach uzasadnionych ważnym interesem przewoźnika lub interesem publicznym, na wniosek przewoźnika lub z urzędu, organ może odstąpić od nałożenia kary pieniężnej, o której mowa w ust. 1, z uwzględnieniem art. 26 ust. 3.
@@ -809,8 +793,8 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 1b. W przypadku gdy odpowiednio podmiot odbierający lub podmiot nabywający nie wykona obowiązku, o którym mowa w art. 5 ust. 6, art. 6 ust. 5 albo art. 6a ust. 3, odpowiednio na podmiot odbierający albo na podmiot nabywający nakłada się karę pieniężną w wysokości:
 
-- **1)** 5000 zł w przypadku podmiotu prowadzącego działalność gospodarczą;
-- **2)** 1000 zł w przypadku podmiotu nieprowadzącego działalności gospodarczej.
+- **1)** 5000 zł – w przypadku podmiotu prowadzącego działalność gospodarczą;
+- **2)** 1000 zł – w przypadku podmiotu nieprowadzącego działalności gospodarczej.
 
 2. Odstępuje się od nałożenia kary pieniężnej za niewykonanie obowiązku, o którym mowa w art. 8 ust. 1, jeżeli jego niedopełnienie wynikało z niedostępności rejestru.
 
@@ -824,8 +808,8 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 2. Karę pieniężną nakłada naczelnik urzędu celno-skarbowego właściwy:
 
-- **1)** dla miejsca kontroli w przypadku kontroli przewozu towarów,
-- **2)** ze względu na adres zamieszkania lub na adres siedziby podmiotu odbierającego albo podmiotu nabywającego w przypadku, o którym mowa w art. 24 ust. 1b z wyjątkiem przypadków, o których mowa w art. 30.
+- **1)** dla miejsca kontroli – w przypadku kontroli przewozu towarów,
+- **2)** ze względu na adres zamieszkania lub na adres siedziby podmiotu odbierającego albo podmiotu nabywającego – w przypadku, o którym mowa w art. 24 ust. 1b z wyjątkiem przypadków, o których mowa w art. 30.
 
 3. Organ może odstąpić od nałożenia kary pieniężnej, jeżeli to odstąpienie:
 
@@ -837,7 +821,7 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 4a. Organem odwoławczym od decyzji naczelnika urzędu celno-skarbowego nakładającej karę pieniężną jest dyrektor izby administracji skarbowej właściwy ze względu na siedzibę naczelnika urzędu celno-skarbowego, który wydał decyzję w pierwszej instancji.
 
-5. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+5. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 **Art. 27.**
 
@@ -899,9 +883,7 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 - **3)** funkcjonariuszem Straży Granicznej,
 - **4)** inspektorem Inspekcji Transportu Drogowego przysługuje prawo do nakładania i pobierania grzywny w drodze mandatu karnego za czyn, o którym mowa w ust. 1.
 
-3. Orzekanie w sprawie nałożenia grzywny, o której mowa w ust. 1, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977).
-
-**Art. 32a.** Grzywny, o których mowa w art. 32 ust. 1, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402). Art. 33–36. (pominięte)
+3. Orzekanie w sprawie nałożenia grzywny, o której mowa w ust. 1, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977). Grzywny, o których mowa w art. 32 ust. 1, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402). Art. 33–36. (pominięte)
 
 **Art. 37.** Z dniem wejścia w życie ustawy tworzy się rejestr zgłoszeń.
 
@@ -909,16 +891,16 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań sektora finansów publicznych wynikających z niniejszej ustawy wynosi w roku:
 
-- **1)** 2017 15,5 mln zł;
-- **2)** 2018 20,4 mln zł;
-- **3)** 2019 9,9 mln zł;
-- **4)** 2020 9,9 mln zł;
-- **5)** 2021 9,9 mln zł;
-- **6)** 2022 9,9 mln zł;
-- **7)** 2023 9,9 mln zł;
-- **8)** 2024 9,9 mln zł;
-- **9)** 2025 9,9 mln zł;
-- **10)** 2026 9,9 mln zł.
+- **1)** 2017 – 15,5 mln zł;
+- **2)** 2018 – 20,4 mln zł;
+- **3)** 2019 – 9,9 mln zł;
+- **4)** 2020 – 9,9 mln zł;
+- **5)** 2021 – 9,9 mln zł;
+- **6)** 2022 – 9,9 mln zł;
+- **7)** 2023 – 9,9 mln zł;
+- **8)** 2024 – 9,9 mln zł;
+- **9)** 2025 – 9,9 mln zł;
+- **10)** 2026 – 9,9 mln zł.
 
 2. Minister właściwy do spraw finansów publicznych monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizmy korygujące, o których mowa w ust. 3.
 
@@ -926,5 +908,5 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 4. W przypadku gdy wysokość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
-**Art. 39.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem przepisów art. 21–32, art. 34 oraz art. 35 pkt 2, które wchodzą w życie z dniem 1 maja 2017 r.
+**Art. 39.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 21–32, art. 34 oraz art. 35 pkt 2, które wchodzą w życie z dniem 1 maja 2017 r.
 

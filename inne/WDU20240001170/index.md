@@ -8,9 +8,10 @@ pos: 1170
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 sierpnia 2024 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 23 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Rozwoju
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +25,28 @@ domain: null
 | Ostatnia zmiana | 2024-08-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1170/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 lipca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Rozwoju
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2022 r. poz. 2279), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 227),
-2) ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 lipca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 227), które stanowią: „Art. 6. 1. Z dniem wejścia w życie niniejszej ustawy minister właściwy do spraw szkolnictwa wyższego i nauki przejmuje prawa oraz obowiązki ministra właściwego do spraw rozwoju regionalnego określone w ustawach zmienianych w art. 1 i art. 2, w tym wynikające z zawartych umów i porozumień, z wyjątkiem prawa do wskazywania członka Rady Narodowego Centrum Badań i Rozwoju zgodnie z art. 12 ust. 1 pkt 3 ustawy zmienianej w art. 1.
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju Rozdział 1 – Przepisy ogólne Rozdział 2 – Organy i organizacja Centrum Rozdział 3 – Zadania Centrum oraz kompetencje nadzorcze Ministra Rozdział 4 – Tryb realizacji zadań Centrum Rozdział 5 – Gospodarka finansowa Centrum Rozdział 6 – Przepis końcowy
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2022 r. poz. 2279), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 227),
+2)
+ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 lipca 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 227), które stanowią:
+„
+
+**Art. 6.**
+
+1. Z dniem wejścia w życie niniejszej ustawy minister właściwy do spraw szkolnictwa wyższego i nauki przejmuje prawa oraz obowiązki ministra właściwego do spraw rozwoju regionalnego określone w ustawach zmienianych w art. 1 i art. 2, w tym wynikające z zawartych umów i porozumień, z wyjątkiem prawa do wskazywania członka Rady Narodowego Centrum Badań i Rozwoju zgodnie z art. 12 ust. 1 pkt 3 ustawy zmienianej w art. 1.
+
 2. Do wynikających z przejęcia praw oraz obowiązków, o którym mowa w ust. 1, spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że sprawy te toczą się przed ministrem właściwym do spraw szkolnictwa wyższego i nauki.
+
 3. Czynności dokonane przed dniem wejścia w życie niniejszej ustawy przez ministra właściwego do spraw rozwoju regionalnego w sprawach wynikających z praw oraz obowiązków przejmowanych przez ministra właściwego do spraw szkolnictwa wyższego i nauki oraz dokumenty sporządzone przez ministra właściwego do spraw rozwoju regionalnego albo przy jego udziale przed dniem wejścia w życie niniejszej ustawy, w szczególności powołania, ustalenia, zatwierdzenia i zgody, zachowują ważność, przy czym dokumenty wydane na czas określony zachowują ważność do końca okresu, na który zostały wydane.
 
 **Art. 7.** Dyrektor generalny urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, przekaże protokolarnie dyrektorowi generalnemu urzędu obsługującego ministra właściwego do spraw szkolnictwa wyższego i nauki dokumentację, w tym w postaci informatycznych nośników danych, związaną z wykonywaniem praw oraz obowiązków przejętych zgodnie z art. 6 ust. 1, w tym dotyczącą spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy.
@@ -44,7 +59,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 2. We wniosku, o którym mowa w ust. 1, minister właściwy do spraw szkolnictwa wyższego i nauki wskazuje zakres wnioskowanych zmian w rocznym planie działalności Narodowego Centrum Badań i Rozwoju na rok 2024 i termin ich przedłożenia do zatwierdzenia.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 ust. 2 i 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 ust. 2 i 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” ;
+
+**Art. 84.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -52,7 +69,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 1. Ustawa określa zasady działania Narodowego Centrum Badań i Rozwoju, zwanego dalej „Centrum”.
 
-2. Centrum jest agencją wykonawczą w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ), powołaną do realizacji zadań z zakresu polityki naukowej państwa, o której mowa w art. 6 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ).
+2. Centrum jest agencją wykonawczą w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.), powołaną do realizacji zadań z zakresu polityki naukowej państwa, o której mowa w art. 6 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.).
 
 3. Siedzibą Centrum jest miasto stołeczne Warszawa.
 
@@ -77,14 +94,14 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 2. Minister ogłasza konkurs na stanowisko Dyrektora:
 
 - **1)** co najmniej na 6 tygodni przed upływem kadencji Dyrektora;
-- **2)** niezwłocznie w przypadku odwołania albo śmierci Dyrektora.
+- **2)** niezwłocznie – w przypadku odwołania albo śmierci Dyrektora.
 
 3. Dyrektor powołuje nie więcej niż dwóch zastępców Dyrektora spośród kandydatów wyłonionych w drodze konkursu przeprowadzonego przez Dyrektora.
 
 4. Dyrektor ogłasza konkurs na stanowisko zastępcy Dyrektora:
 
 - **1)** co najmniej na 6 tygodni przed upływem kadencji zastępcy Dyrektora;
-- **2)** niezwłocznie w przypadku odwołania albo śmierci zastępcy Dyrektora.
+- **2)** niezwłocznie – w przypadku odwołania albo śmierci zastępcy Dyrektora.
 
 5. Informację o ogłoszonym konkursie Dyrektor przekazuje niezwłocznie Ministrowi.
 
@@ -112,29 +129,21 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 - **3)** posiada doświadczenie w kierowaniu zespołami pracowniczymi;
 - **4)** posiada co najmniej 5-letnie doświadczenie w sektorze badawczo-rozwojowym, gospodarczym lub finansowym.
 
-**Art. 6.**
-
 1. Kadencja Dyrektora i zastępców Dyrektora trwa 4 lata.
 
 2. Ta sama osoba może pełnić funkcję Dyrektora lub zastępcy Dyrektora nie dłużej niż przez dwie kadencje.
 
 3. Dyrektor oraz jego zastępcy pełnią obowiązki do dnia powołania ich następców.
 
-**Art. 7.**
-
 1. Wynagrodzenie Dyrektora ustala Minister, po zasięgnięciu opinii Rady.
 
 2. Wynagrodzenie zastępców Dyrektora ustala Dyrektor, po zasięgnięciu opinii Rady.
-
-**Art. 8.**
 
 1. Powołanie, o którym mowa w art. 4 ust. 1 i 3, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów Kodeksu pracy.
 
 2. Do powołania Dyrektora, zastępców Dyrektora oraz kierowników komórek organizacyjnych Centrum i ich zastępców nie stosuje się przepisów ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409).
 
 3. W Centrum nie może powstać stosunek podległości służbowej między małżonkami oraz osobami pozostającymi ze sobą w stosunku pokrewieństwa do drugiego stopnia włącznie lub powinowactwa pierwszego stopnia.
-
-**Art. 9.**
 
 1. Minister odwołuje Dyrektora w przypadku:
 
@@ -150,8 +159,6 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 3. W przypadku odwołania Dyrektora albo jego śmierci przed upływem kadencji nowo powołany Dyrektor może odwołać zastępców Dyrektora i przeprowadzić konkurs na stanowiska zastępców Dyrektora.
 
 3a. W przypadku odwołania Dyrektora albo jego śmierci przed upływem kadencji, do czasu powołania nowego Dyrektora obowiązki Dyrektora pełni wskazany przez Ministra zastępca Dyrektora lub inna osoba wskazana przez Ministra, spełniająca warunki określone w art. 5 ust. 1, przez okres nie dłuższy niż 6 miesięcy.
-
-**Art. 10.**
 
 1. Dyrektor kieruje działalnością Centrum, w szczególności podejmuje decyzje w sprawach związanych z realizacją i podziałem środków finansowych na realizację strategicznych programów badań naukowych i prac rozwojowych oraz realizacją innych zadań Centrum. Dyrektor jest odpowiedzialny za prawidłowość i sprawność realizacji zadań Centrum.
 
@@ -228,7 +235,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 5. W przypadku odwołania lub śmierci członka Rady przed upływem kadencji Minister niezwłocznie powołuje na jego miejsce inną osobę do końca kadencji, z zachowaniem zasady, o której mowa w art. 12 ust. 1.
 
-6. Członkostwa w Radzie nie można łączyć z członkostwem w Komisji Ewaluacji Nauki oraz Komitecie Polityki Naukowej, o których mowa w przepisach ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, oraz w organach Narodowego Centrum Nauki i Narodowej Agencji Wymiany Akademickiej.
+6. Członkostwa w Radzie nie można łączyć z członkostwem w Komisji Ewaluacji Nauki oraz Komitecie Polityki Naukowej, o których mowa w przepisach ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, oraz w organach Narodowego Centrum Nauki i Narodowej Agencji Wymiany Akademickiej.
 
 7. Członkiem Rady nie może być również osoba pełniąca funkcję:
 
@@ -260,7 +267,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 6. Szczegółowy tryb działania Rady, wyboru przewodniczącego oraz powoływania komisji, o których mowa w ust. 5, i komisji odwoławczej, o której mowa w art. 40 ust. 2, określa regulamin ustanowiony przez Radę.
 
-7. Zamiejscowi członkowie Rady otrzymują zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+7. Zamiejscowi członkowie Rady otrzymują zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy.
 
 8. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, wysokość miesięcznego wynagrodzenia przewodniczącego oraz członków Rady, mając na uwadze zakres wykonywanych przez nich zadań oraz znaczenie tych zadań dla efektywnego funkcjonowania Centrum.
 
@@ -322,7 +329,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 5. Szczegółowy tryb działania Komitetu Sterującego oraz wyboru przewodniczącego określa regulamin ustanowiony przez Komitet Sterujący.
 
-6. Zamiejscowi członkowie Komitetu Sterującego otrzymują zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+6. Zamiejscowi członkowie Komitetu Sterującego otrzymują zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy.
 
 7. Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, wysokość miesięcznego wynagrodzenia przewodniczącego oraz członków Komitetu Sterującego, mając na uwadze zakres wykonywanych przez nich zadań oraz znaczenie tych zadań dla efektywnego funkcjonowania Centrum.
 
@@ -382,9 +389,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 1. Centrum zarządza strategicznymi programami badań naukowych i prac rozwojowych oraz finansuje lub współfinansuje te programy.
 
-2. Strategiczne programy badań naukowych i prac rozwojowych, w tym na rzecz obronności i bezpieczeństwa państwa, są finansowane ze środków finansowych, o których mowa w art. 365 pkt 11 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, zgodnie z rocznym planem finansowym Centrum, o którym mowa w art. 48 ust. 1.
+2. Strategiczne programy badań naukowych i prac rozwojowych, w tym na rzecz obronności i bezpieczeństwa państwa, są finansowane ze środków finansowych, o których mowa w art. 365 pkt 11 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zgodnie z rocznym planem finansowym Centrum, o którym mowa w art. 48 ust. 1.
 
-3. Centrum może realizować programy badań naukowych lub prac rozwojowych, które nie zostały ustanowione w polityce naukowej państwa, o której mowa w art. 6 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, oraz inne zadania Centrum finansowane ze środków pochodzących z innych źródeł niż budżet państwa.
+3. Centrum może realizować programy badań naukowych lub prac rozwojowych, które nie zostały ustanowione w polityce naukowej państwa, o której mowa w art. 6 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, oraz inne zadania Centrum finansowane ze środków pochodzących z innych źródeł niż budżet państwa.
 
 **Art. 28.**
 
@@ -402,14 +409,14 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 - **1)** wspieranie komercjalizacji wyników badań naukowych lub prac rozwojowych oraz innych form ich transferu do gospodarki;
 - **2)** inicjowanie i realizacja programów obejmujących finansowanie badań naukowych lub prac rozwojowych oraz działań przygotowujących do wdrożenia wyniki badań naukowych lub prac rozwojowych;
-- **3)** inicjowanie i realizacja programów obejmujących finansowanie badań aplikacyjnych, o których mowa w art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **3)** inicjowanie i realizacja programów obejmujących finansowanie badań aplikacyjnych, o których mowa w art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **4)** udział w realizacji międzynarodowych programów badań naukowych lub prac rozwojowych, w tym programów współfinansowanych ze środków zagranicznych;
 - **4a)** finansowanie badań aplikacyjnych realizowanych w formie niepodlegających współfinansowaniu z zagranicznych środków finansowych projektów badawczych realizowanych w ramach programów lub inicjatyw międzynarodowych ogłaszanych we współpracy dwu- lub wielostronnej oraz projektów badawczych realizowanych przy wykorzystaniu przez polskie zespoły badawcze wielkich międzynarodowych urządzeń badawczych;
 - **5)** upowszechnianie w środowisku naukowym i gospodarczym informacji o planowanych i ogłaszanych konkursach na wykonanie projektów finansowanych przez Centrum;
 - **6)** popularyzowanie efektów zrealizowanych zadań;
 - **7)** realizacja innych zadań zlecanych przez Ministra, przy zapewnieniu środków finansowych na te cele.
 
-2. Centrum wspiera rozwój kadry naukowej, w szczególności przez finansowanie programów adresowanych do młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+2. Centrum wspiera rozwój kadry naukowej, w szczególności przez finansowanie programów adresowanych do młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 3. Przy realizacji zadań, o których mowa w ust. 1 i 2, Centrum może, na podstawie umów, współpracować z podmiotami krajowymi i zagranicznymi.
 
@@ -421,21 +428,17 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 7. Do realizacji przez Centrum zadań, o których mowa w ust. 5 i 6, nie stosuje się przepisów rozdziału 4. Realizacja tych zadań odbywa się zgodnie z przepisami ustaw, o których mowa w ust. 5 i 6.
 
-**Art. 30a.**
-
 1. W celu realizacji zadań, o których mowa w art. 29 i art. 30 ust. 1 i 2, Centrum może:
 
-- **1)** udzielać finansowania w formie:
-    - **a)** wsparcia bezzwrotnego,
-    - **b)** pomocy zwrotnej, o której mowa w art. 67 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ),
-    - **c)** instrumentów finansowych, o których mowa w art. 2 lit. p rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002 (Dz. Urz. UE L 298 z 26.10.2012, str. 1, z późn. zm. );
+- **1)** udzielać finansowania w formie: wsparcia bezzwrotnego, pomocy zwrotnej, o której mowa w art. 67 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), instrumentów finansowych, o których mowa w art. 2 lit. p rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002 (Dz. Urz. UE L 298 z 26.10.2012, str. 1, z późn. zm.);
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** za zgodą Ministra tworzyć spółki, obejmować oraz nabywać udziały i akcje, a także obejmować warranty subskrypcyjne uprawniające do zapisu lub objęcia akcji w spółkach mających siedzibę na terytorium Rzeczypospolitej Polskiej albo za granicą;
 - **3)** obejmować lub nabywać certyfikaty inwestycyjne, o których mowa w art. 117 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034).
 
 2. Przepisy ust. 1 mogą być odpowiednio stosowane w przypadku wsparcia udzielanego ze środków innych niż pochodzące z budżetu Unii Europejskiej.
-
-**Art. 30b.**
 
 1. Za pośrednictwem Centrum może być udzielana pomoc finansowa w ramach programu, o którym mowa w ustawie z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027.
 
@@ -458,9 +461,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 3. Właścicielem wynalazku, wzoru użytkowego, wzoru przemysłowego lub topografii układu scalonego, wyhodowanej albo odkrytej i wyprowadzonej odmiany rośliny oraz autorskich praw majątkowych powstałych w wyniku realizacji projektu dotyczącego badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa, finansowanych przez Centrum, jest Skarb Państwa reprezentowany przez podmiot wskazany w umowie o wykonanie i finansowanie projektu, jeżeli umowa ta tak stanowi.
 
-4. W przypadku finansowania przez Centrum projektu dotyczącego badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa Skarb Państwa może, w terminie do dwunastu miesięcy od dnia zakończenia realizacji projektu, złożyć podmiotowi, któremu Dyrektor przyznał środki finansowe, pisemne oświadczenie o korzystaniu z utworu lub z wynalazku, wzoru użytkowego, wzoru przemysłowego lub topografii układu scalonego, wyhodowanej albo odkrytej i wyprowadzonej odmiany rośliny powstałych w wyniku realizacji tego projektu. W takim przypadku Skarb Państwa uprawniony jest do nieodpłatnego korzystania z utworu na polach eksploatacji wymienionych w złożonym oświadczeniu, wybranych spośród wszystkich znanych na dzień zakończenia projektu, lub z wynalazku, wzoru użytkowego, wzoru przemysłowego lub topografii układu scalonego, wyhodowanej albo odkrytej i wyprowadzonej odmiany rośliny na zasadzie licencji pełnej, niewyłącznej, nieograniczonej terytorialnie i czasowo, wraz z prawem do dokonywania dowolnych zmian, adaptacji, przeróbek i modyfikacji oraz prawem do udzielania sublicencji. Skarb Państwa reprezentowany jest w tych sprawach przez podmiot wskazany w umowie o wykonanie i finansowanie projektu, a przy braku takiego wskazania Ministra Obrony Narodowej.
+4. W przypadku finansowania przez Centrum projektu dotyczącego badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa Skarb Państwa może, w terminie do dwunastu miesięcy od dnia zakończenia realizacji projektu, złożyć podmiotowi, któremu Dyrektor przyznał środki finansowe, pisemne oświadczenie o korzystaniu z utworu lub z wynalazku, wzoru użytkowego, wzoru przemysłowego lub topografii układu scalonego, wyhodowanej albo odkrytej i wyprowadzonej odmiany rośliny powstałych w wyniku realizacji tego projektu. W takim przypadku Skarb Państwa uprawniony jest do nieodpłatnego korzystania z utworu na polach eksploatacji wymienionych w złożonym oświadczeniu, wybranych spośród wszystkich znanych na dzień zakończenia projektu, lub z wynalazku, wzoru użytkowego, wzoru przemysłowego lub topografii układu scalonego, wyhodowanej albo odkrytej i wyprowadzonej odmiany rośliny na zasadzie licencji pełnej, niewyłącznej, nieograniczonej terytorialnie i czasowo, wraz z prawem do dokonywania dowolnych zmian, adaptacji, przeróbek i modyfikacji oraz prawem do udzielania sublicencji. Skarb Państwa reprezentowany jest w tych sprawach przez podmiot wskazany w umowie o wykonanie i finansowanie projektu, a przy braku takiego wskazania – Ministra Obrony Narodowej.
 
-5. Do wynalazków, wzorów użytkowych, wzorów przemysłowych lub topografii układów scalonych, wyhodowanych albo odkrytych i wyprowadzonych odmian roślin, uzyskanych przez pracownika uczelni publicznej w ramach wykonywania obowiązków ze stosunku pracy w tej uczelni, stosuje się przepisy ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+5. Do wynalazków, wzorów użytkowych, wzorów przemysłowych lub topografii układów scalonych, wyhodowanych albo odkrytych i wyprowadzonych odmian roślin, uzyskanych przez pracownika uczelni publicznej w ramach wykonywania obowiązków ze stosunku pracy w tej uczelni, stosuje się przepisy ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 6. Do wynalazków, wzorów użytkowych, wzorów przemysłowych lub topografii układów scalonych, wyhodowanych albo odkrytych i wyprowadzonych odmian roślin, uzyskanych przez pracownika instytutu naukowego Polskiej Akademii Nauk w ramach wykonywania obowiązków ze stosunku pracy w tym instytucie, stosuje się przepisy ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796).
 
@@ -488,8 +491,6 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 - **5)** przyjmuje kwartalne sprawozdania finansowe Centrum;
 - **6)** przyjmuje roczne sprawozdanie z działalności Centrum wraz z informacją o wynikach ewaluacji, o której mowa w art. 31 ust. 2;
 - **7)** przyjmuje okresowe sprawozdania i końcowe sprawozdanie z realizacji strategicznych programów badań naukowych i prac rozwojowych oraz z realizacji innych zadań Centrum.
-
-**Art. 34a.**
 
 1. Działalność Centrum podlega audytowi zewnętrznemu w zakresie prawidłowości realizacji zadań, rocznego planu finansowego i sprawozdawczości, a także funkcjonowania kontroli zarządczej.
 
@@ -523,7 +524,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 1. W konkursie na wykonanie projektów mogą brać udział:
 
-- **1)** podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **1)** podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **1a)** grupy podmiotów, w skład których wchodzą co najmniej dwa podmioty, o których mowa w pkt 1, albo co najmniej jeden z tych podmiotów oraz co najmniej jeden przedsiębiorca;
 - **2)** (uchylony)
 - **3)** (uchylony)
@@ -575,7 +576,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 - **2)** innowacyjność rozwiązania będącego rezultatem projektu;
 - **3)** dorobek wykonawców;
 - **4)** zasadność planowanych kosztów w stosunku do zakresu zadań objętych projektem oraz w stosunku do oczekiwanych wyników;
-- **5)** planowaną współpracę przy wykonywaniu projektu między podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, i przedsiębiorcami;
+- **5)** planowaną współpracę przy wykonywaniu projektu między podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, i przedsiębiorcami;
 - **6)** posiadanie odpowiednich zasobów materialnych i ludzkich niezbędnych do wykonania projektu;
 - **7)** przewidywane efekty ekonomiczne.
 
@@ -589,11 +590,11 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 1. Rozstrzygnięcia w sprawie przyznania środków finansowych na wykonanie projektów, w tym promesy finansowania, o której mowa w art. 37 ust. 2, są podejmowane przez Dyrektora w drodze decyzji, na podstawie listy rankingowej pozytywnie zaopiniowanych wniosków.
 
-2. W przypadku naruszenia procedury konkursowej lub innych naruszeń formalnych wnioskodawcy przysługuje odwołanie do komisji odwoławczej Rady, a w przypadku konkursów, o których mowa w art. 17 pkt 6 do Komitetu Sterującego, w terminie 14 dni od dnia doręczenia decyzji Dyrektora.
+2. W przypadku naruszenia procedury konkursowej lub innych naruszeń formalnych wnioskodawcy przysługuje odwołanie do komisji odwoławczej Rady, a w przypadku konkursów, o których mowa w art. 17 pkt 6 – do Komitetu Sterującego, w terminie 14 dni od dnia doręczenia decyzji Dyrektora.
 
 3. Komisja odwoławcza Rady lub Komitet Sterujący rozstrzyga w sprawie odwołania nie później niż w terminie 3 miesięcy od dnia złożenia odwołania.
 
-4. Jeżeli przepisy ustawy albo przepisy odrębne nie stanowią inaczej, do postępowań w sprawach przyznania środków finansowych na wykonanie projektów stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), z wyłączeniem art. 10, art. 13, art. 14, art. 28, art. 31, art. 56, art. 61 § 4, art. 63, art. 64, art. 75–103, art. 107, art. 114–122 oraz art. 123.
+4. Jeżeli przepisy ustawy albo przepisy odrębne nie stanowią inaczej, do postępowań w sprawach przyznania środków finansowych na wykonanie projektów stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), z wyłączeniem art. 10, art. 13, art. 14, art. 28, art. 31, art. 56, art. 61 § 4, art. 63, art. 64, art. 75–103, art. 107, art. 114–122 oraz art. 123.
 
 5. Na rozstrzygnięcie komisji odwoławczej Rady albo Komitetu Sterującego przysługuje skarga do sądu administracyjnego.
 
@@ -628,57 +629,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 2. Dyrektor, po uzyskaniu końcowej oceny merytorycznej projektu, dokonuje przyjęcia i oceny wyników projektu.
 
-**Art. 44.** Projekty, których całkowita wartość przyznanego dofinansowania przekracza 3 000 000 zł, podlegają obowiązkowemu zewnętrznemu audytowi.
+**Art. 44.** Projekty, których całkowita wartość przyznanego dofinansowania przekracza 3 000 000 zł, podlegają obowiązkowemu zewnętrznemu audytowi. 1. Należności finansowe wynikające z rozliczenia środków finansowych przyznanych na wykonanie projektów Dyrektor może umorzyć z urzędu albo na wniosek dłużnika, jeżeli:
 
-**Art. 44a.**
-
-1. Należności finansowe wynikające z rozliczenia środków finansowych przyznanych na wykonanie projektów Dyrektor może umorzyć z urzędu albo na wniosek dłużnika, jeżeli:
-
-- **1)** dłużnik został wykreślony z właściwego rejestru, a odpowiedzialność za długi nie przeszła na osoby trzecie;
-- **2)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się sumy wyższej od kosztów egzekucyjnych albo postępowanie egzekucyjne okazało się nieskuteczne;
-- **3)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika z przyczyn, o których mowa w art. 13 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2024 r. poz. 794), albo umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 361 ust. 1 tej ustawy.
-
-2. Dyrektor, na uzasadniony wniosek dłużnika albo z urzędu, może odroczyć termin spłaty lub rozłożyć na raty płatność należności finansowej wynikającej z rozliczenia środków finansowych przyznanych na wykonanie projektów, albo umorzyć w całości albo w części należność finansową wynikającą z rozliczenia środków finansowych przyznanych na wykonanie projektów, o ile umorzenie nie będzie stanowiło pomocy publicznej lub pomocy de minimis, jeżeli:
-
-- **1)** wystąpiła nadzwyczajna zmiana stosunków gospodarczych, której strony nie mogły przewidzieć w dniu otrzymania środków finansowych, z powodu której zapłata należności przez dłużnika groziłaby znacznym pogorszeniem jego sytuacji ekonomicznej;
-- **2)** wystąpiły ważne zdarzenia losowe niezależne od dłużnika;
-- **3)** jest to uzasadnione ryzykiem naukowym wynikającym z charakteru wykonywanego projektu;
-- **4)** jest to uzasadnione ważnymi względami społecznymi lub gospodarczymi oraz uzasadnionym interesem Skarbu Państwa.
-
-3. Umorzenie należności finansowej wynikającej z rozliczenia środków finansowych przyznanych na wykonanie projektów wymaga zgody Ministra w przypadku, o którym mowa:
-
-- **1)** w ust. 1 pkt 3 i ust. 2 pkt 1–3, jeżeli wartość należności finansowej przekracza 150 000 zł;
-- **2)** w ust. 2 pkt 4.
-
-4. Spłata należności finansowej odroczonej albo rozłożonej na raty następuje na podstawie umowy zawartej z dłużnikiem.
-
-5. Do umorzenia należności finansowych wynikających z rozliczenia środków finansowych przyznanych na wykonanie projektów w przypadkach, o których mowa w ust. 1, stosuje się odpowiednio przepisy o pomocy publicznej lub pomocy de minimis.
-
-6. Dyrektor zamieszcza, na stronie podmiotowej Centrum w Biuletynie Informacji Publicznej, kwartalną informację o umorzeniach należności finansowych wynikających z rozliczenia środków finansowych przyznanych na wykonanie projektów, zawierającą wykaz podmiotów wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia, do końca miesiąca następującego po zakończeniu kwartału.
-
-**Art. 44b.**
-
-1. Dyrektor, za zgodą Ministra, może zarządzić realizację zadań Centrum, z wyłączeniem zadań realizowanych w ramach strategicznych programów badań naukowych i prac rozwojowych, w trybie uproszczonym, jeżeli jest to uzasadnione potrzebą weryfikacji nowego modelu realizacji przyszłych programów lub ochroną porządku publicznego, bezpieczeństwa publicznego, zdrowia publicznego lub szczególnym interesem gospodarczym.
-
-2. W konkursie na wykonanie projektów w programie realizowanym w trybie uproszczonym mogą brać udział podmioty, o których mowa w art. 37 ust. 1, oraz nieposiadające osobowości prawnej jednostki sektora finansów publicznych i podmioty lecznicze.
-
-3. Wybór wykonawców projektów w programie realizowanym w trybie uproszczonym następuje w sposób przejrzysty i obiektywny.
-
-4. Do realizacji zadań Centrum w trybie uproszczonym nie stosuje się przepisów art. 35 ust. 2, art. 36 ust. 2 i 3 oraz art. 39 ust. 2 pkt 5 i 7.
-
-**Art. 44c.**
-
-1. Jeżeli badania naukowe lub prace rozwojowe dotyczą metod prewencji rozprzestrzeniania się zakażenia lub zwalczania zakażenia lub choroby zakaźnej będącej przyczyną ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, Dyrektor może, w drodze decyzji, za zgodą Ministra, przyznać środki finansowe na wykonanie projektów obejmujących te badania naukowe lub prace rozwojowe poza realizowanymi przez Centrum programami, z pominięciem procedury konkursowej.
-
-2. Przyznanie środków finansowych w trybie, o którym mowa w ust. 1, może nastąpić na rzecz podmiotów, o których mowa w art. 37 ust. 1, oraz nieposiadających osobowości prawnej jednostek sektora finansów publicznych i podmiotów leczniczych.
-
-3. Do przyznawania środków finansowych w trybie, o którym mowa w ust. 1, nie stosuje się przepisów art. 35 ust. 2, art. 38 i art. 39 ust. 1 pkt 2 oraz ust. 2 pkt 1–3, 5 i 7.
-
-4. Dyrektor zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej Centrum informację o zawarciu umowy z podmiotem wybranym w trybie, o którym mowa w ust. 1, wraz ze wskazaniem danych wykonawcy projektu, ogólnym opisem projektu i uzasadnieniem wyboru tego projektu.
-
-**Art. 45.**
-
-- **4)** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, szczegółowy tryb realizacji zadań Centrum, uwzględniając konieczność zapewnienia przejrzystości i bezstronności procedury oceny wniosków i wyboru projektów do finansowania.
+**Art. 45.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, szczegółowy tryb realizacji zadań Centrum, uwzględniając konieczność zapewnienia przejrzystości i bezstronności procedury oceny wniosków i wyboru projektów do finansowania.
 
 #### Rozdział 5 Gospodarka finansowa Centrum
 
@@ -737,9 +690,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Roz
 
 1. Roczne sprawozdanie finansowe Centrum podlega badaniu przez firmę audytorską.
 
-2. Minister dokonuje wyboru firmy audytorskiej w trybie przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720).
+2. Minister dokonuje wyboru firmy audytorskiej w trybie przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720).
 
 #### Rozdział 6 Przepis końcowy
 
-**Art. 51.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 30 kwietnia 2010 r. Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756).
+**Art. 51.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756).
 

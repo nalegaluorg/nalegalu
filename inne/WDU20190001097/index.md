@@ -8,9 +8,10 @@ pos: 1097
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 czerwca 2019 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 16 maja 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o leśnym materiale rozmnożeniowym
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +25,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1097/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 maja 2019 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o leśnym materiale rozmnożeniowym
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym (Dz. U.
-z 2017 r. poz. 116), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 3 lipca 2018 r. Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 maja 2019 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „Art. 350. Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
-1) art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.”.
-Marszałek Sejmu: M. Kuchciński
-USTAWA z dnia 7 czerwca 2001 r.
-o leśnym materiale rozmnożeniowym
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym Rozdział 1 – Przepisy ogólne Rozdział 2 – Organy właściwe w sprawach obrotu leśnym materiałem rozmnożeniowym Rozdział 3 – Krajowy Rejestr Leśnego Materiału Podstawowego Rozdział 4 – Obrót leśnym materiałem rozmnożeniowym Rozdział 5 – Regionalizacja nasienna Rozdział 6 – Przepisy karne Rozdział 7 – Zmiany w przepisach obowiązujących Rozdział 8 – Przepisy przejściowe i końcowe
+Załącznik – Wykaz gatunków drzew oraz ich sztucznych hybryd
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym (Dz. U. z 2017 r. poz. 116), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 maja 2019 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi:
+„
+
+**Art. 350.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -87,7 +89,7 @@ o leśnym materiale rozmnożeniowym
 
 3. Biurem kieruje Dyrektor powoływany i odwoływany przez Ministra.
 
-4. Zastępcę Dyrektora Biura powołuje i odwołuje Minister na wniosek Dyrektora Biura.
+4. Zastępcę Dyrektora Biura powołuje i odwołuje Minister na wniosek Dyrektora Biura. i 823.
 
 5. Decyzje administracyjne w sprawach określonych niniejszą ustawą wydaje, w imieniu Ministra, Dyrektor Biura.
 
@@ -171,25 +173,25 @@ o leśnym materiale rozmnożeniowym
 - **5)** nazwę botaniczną leśnego materiału podstawowego, zgodnie z wykazem zamieszczonym w załączniku do ustawy;
 - **6)** rodzaj leśnego materiału podstawowego;
 - **7)** przeznaczenie leśnego materiału podstawowego;
-- **8)** lokalizację, poprzez podanie nazwy gminy właściwej ze względu na miejsce położenia leśnego materiału podstawowego, jak również:
-    - **a)** w części I i II symbolu regionu pochodzenia i współrzędnych geograficznych, a w części III i IV współrzędnych geograficznych oraz
-    - **b)** nazwy właściwej ze względu na położenie leśnego materiału podstawowego: regionalnej dyrekcji Lasów Państwowych, nadleśnictwa, obrębu leśnego, leśnictwa oraz numeru oddziału i litery pododdziału w przypadku gdy zarządcą leśnego materiału podstawowego jest Państwowe Gospodarstwo Leśne Lasy Państwowe;
+- **8)** lokalizację, poprzez podanie nazwy gminy właściwej ze względu na miejsce położenia leśnego materiału podstawowego, jak również: w części I i II – symbolu regionu pochodzenia i współrzędnych geograficznych, a w części III i IV – współrzędnych geograficznych oraz nazwy właściwej ze względu na położenie leśnego materiału podstawowego: regionalnej dyrekcji Lasów Państwowych, nadleśnictwa, obrębu leśnego, leśnictwa oraz numeru oddziału i litery pododdziału – w przypadku gdy zarządcą leśnego materiału podstawowego jest Państwowe Gospodarstwo Leśne Lasy Państwowe;
+    - **a)**
+    - **b)**
 
 - **9)** wysokość położenia leśnego materiału podstawowego nad poziomem morza lub zakres tych wysokości;
 - **10)** powierzchnię, jaką zajmuje leśny materiał podstawowy w postaci źródła nasion, drzewostanu lub plantacji nasiennej;
 - **11)** czy leśny materiał podstawowy jest autochtoniczny, czy jest nieautochtoniczny;
 - **12)** czy leśny materiał podstawowy jest rodzimy, czy jest nierodzimy;
-- **13)** o pochodzeniu pierwotnym leśnego materiału podstawowego, jeżeli jest znane w przypadku gdy leśny materiał podstawowy nie jest autochtoniczny i nie jest rodzimy;
-- **14)** o nieznanym pochodzeniu leśnego materiału podstawowego jeżeli pochodzenie pierwotne leśnego materiału podstawowego jest nieznane;
+- **13)** o pochodzeniu pierwotnym leśnego materiału podstawowego, jeżeli jest znane – w przypadku gdy leśny materiał podstawowy nie jest autochtoniczny i nie jest rodzimy;
+- **14)** o nieznanym pochodzeniu leśnego materiału podstawowego – jeżeli pochodzenie pierwotne leśnego materiału podstawowego jest nieznane;
 - **15)** opis warunków glebowych i klimatycznych w miejscu, w którym znajduje się leśny materiał podstawowy;
 - **16)** numery świadectw pochodzenia wydanych dla leśnego materiału rozmnożeniowego wyprodukowanego z leśnego materiału podstawowego;
 - **17)** ilość leśnego materiału rozmnożeniowego wyprodukowanego z leśnego materiału podstawowego wyrażoną w kilogramach lub sztukach;
-- **18)** o prowadzonym przerzedzaniu plantacji oraz o kryteriach uwzględnianych podczas jego przeprowadzania w przypadku rejestracji plantacji nasiennych;
-- **19)** o kontrolowanym, uzupełniającym bądź niekontrolowanym zapylaniu w przypadku rejestracji drzew matecznych;
-- **20)** proporcję udziału poszczególnych drzew matecznych w produkowanym leśnym materiale rozmnożeniowym w przypadku rejestracji drzew matecznych;
-- **21)** liczbę drzew matecznych w przypadku rejestracji drzew matecznych;
+- **18)** o prowadzonym przerzedzaniu plantacji oraz o kryteriach uwzględnianych podczas jego przeprowadzania – w przypadku rejestracji plantacji nasiennych;
+- **19)** o kontrolowanym, uzupełniającym bądź niekontrolowanym zapylaniu – w przypadku rejestracji drzew matecznych;
+- **20)** proporcję udziału poszczególnych drzew matecznych w produkowanym leśnym materiale rozmnożeniowym – w przypadku rejestracji drzew matecznych;
+- **21)** liczbę drzew matecznych – w przypadku rejestracji drzew matecznych;
 - **22)** sposób oznaczenia drzew matecznych umożliwiający ich identyfikację;
-- **23)** sposób oznaczenia klonów wchodzących w skład mieszanki umożliwiający ich identyfikację, liczbę i proporcje klonów wchodzących w skład mieszanki, kryteria wyboru klonów do mieszanki oraz numery rejestrowe w Krajowym Rejestrze, pod którymi zarejestrowano osobniki użyte do produkcji klonów w przypadku rejestracji mieszanki klonów;
+- **23)** sposób oznaczenia klonów wchodzących w skład mieszanki umożliwiający ich identyfikację, liczbę i proporcje klonów wchodzących w skład mieszanki, kryteria wyboru klonów do mieszanki oraz numery rejestrowe w Krajowym Rejestrze, pod którymi zarejestrowano osobniki użyte do produkcji klonów – w przypadku rejestracji mieszanki klonów;
 - **24)** dane podlegające ujawnieniu w Krajowym Rejestrze, określone w rozporządzeniu, o którym mowa w art. 15 ust. 6.
 
 2. W części IV Krajowego Rejestru zamieszcza się ponadto informację o modyfikacji genetycznej leśnego materiału podstawowego, w rozumieniu przepisów o organizmach genetycznie zmodyfikowanych.
@@ -222,17 +224,17 @@ o leśnym materiale rozmnożeniowym
 
 - **1)** numer części w Krajowym Rejestrze, w której ma być zarejestrowany leśny materiał podstawowy;
 - **2)** dane, o których mowa w art. 16 ust. 1 pkt 4–15 oraz pkt 24;
-- **3)** dane, o których mowa w art. 16 ust. 1 pkt 18 w przypadku rejestracji plantacji nasiennych;
-- **4)** dane, o których mowa w art. 16 ust. 1 pkt 21 w przypadku rejestracji drzew matecznych;
-- **5)** dane, o których mowa w art. 16 ust. 1 pkt 23 w przypadku rejestracji mieszanki klonów;
-- **6)** informację o modyfikacji genetycznej leśnego materiału podstawowego w rozumieniu przepisów o organizmach zmodyfikowanych genetycznie w przypadku rejestracji leśnego materiału podstawowego w części IV Krajowego Rejestru.
+- **3)** dane, o których mowa w art. 16 ust. 1 pkt 18 – w przypadku rejestracji plantacji nasiennych;
+- **4)** dane, o których mowa w art. 16 ust. 1 pkt 21 – w przypadku rejestracji drzew matecznych;
+- **5)** dane, o których mowa w art. 16 ust. 1 pkt 23 – w przypadku rejestracji mieszanki klonów;
+- **6)** informację o modyfikacji genetycznej leśnego materiału podstawowego w rozumieniu przepisów o organizmach zmodyfikowanych genetycznie – w przypadku rejestracji leśnego materiału podstawowego w części IV Krajowego Rejestru.
 
 3. Do wniosku należy dołączyć:
 
-- **1)** plan rozmieszczenia poszczególnych osobników na plantacji nasiennej sporządzony w sposób umożliwiający ich rozróżnienie w przypadku rejestracji plantacji nasiennej;
-- **2)** wyniki testów potwierdzających spełnienie wymagań określonych w rozporządzeniu, o którym mowa w art. 15 ust. 6 w przypadku rejestracji leśnego materiału podstawowego w części IV Krajowego Rejestru;
-- **3)** wyniki badań określających procent sztucznych hybryd w produkowanym leśnym materiale rozmnożeniowym w przypadku rejestracji plantacji nasiennych lub drzew matecznych, przeznaczonych do produkcji sztucznych hybryd;
-- **4)** wyniki oceny określającej cechy i wartość użytkową leśnego materiału podstawowego w przypadku rejestracji klonów lub mieszanki klonów.
+- **1)** plan rozmieszczenia poszczególnych osobników na plantacji nasiennej sporządzony w sposób umożliwiający ich rozróżnienie – w przypadku rejestracji plantacji nasiennej;
+- **2)** wyniki testów potwierdzających spełnienie wymagań określonych w rozporządzeniu, o którym mowa w art. 15 ust. 6 – w przypadku rejestracji leśnego materiału podstawowego w części IV Krajowego Rejestru;
+- **3)** wyniki badań określających procent sztucznych hybryd w produkowanym leśnym materiale rozmnożeniowym – w przypadku rejestracji plantacji nasiennych lub drzew matecznych, przeznaczonych do produkcji sztucznych hybryd;
+- **4)** wyniki oceny określającej cechy i wartość użytkową leśnego materiału podstawowego – w przypadku rejestracji klonów lub mieszanki klonów.
 
 **Art. 20.**
 
@@ -370,8 +372,8 @@ o leśnym materiale rozmnożeniowym
 - **7)** symbol regionu pochodzenia leśnego materiału podstawowego, z którego został wyprodukowany leśny materiał rozmnożeniowy, chyba że określenie regionu pochodzenia jest niemożliwe;
 - **8)** czy leśny materiał podstawowy, z którego został wyprodukowany leśny materiał rozmnożeniowy, jest autochtoniczny lub nieautochtoniczny;
 - **9)** czy leśny materiał podstawowy, z którego został wyprodukowany leśny materiał rozmnożeniowy, jest rodzimy lub nierodzimy;
-- **10)** o nieznanym pochodzeniu pierwotnym leśnego materiału podstawowego, z którego został wyprodukowany leśny materiał rozmnożeniowy jeżeli dane, o których mowa w pkt 8 i 9, są nieznane;
-- **11)** w przypadku jednostek nasiennych rok dojrzewania;
+- **10)** o nieznanym pochodzeniu pierwotnym leśnego materiału podstawowego, z którego został wyprodukowany leśny materiał rozmnożeniowy – jeżeli dane, o których mowa w pkt 8 i 9, są nieznane;
+- **11)** w przypadku jednostek nasiennych – rok dojrzewania;
 - **12)** wiek i rodzaj materiału sadzeniowego w postaci sadzonek lub ściętych części pędów nasadzonych w glebie, służących do rozmnażania bezpłciowego (czy jest to materiał przycinany, szkółkowany, kontenerowany);
 - **13)** o modyfikacji genetycznej leśnego materiału rozmnożeniowego w rozumieniu przepisów o organizmach genetycznie zmodyfikowanych.
 
@@ -454,10 +456,10 @@ o leśnym materiale rozmnożeniowym
 
 7. Ustala się następujące kolory etykiet, o których mowa w art. 42 ust. 1:
 
-- **1)** żółty dla leśnego materiału rozmnożeniowego należącego do kategorii ze zidentyfikowanego źródła;
-- **2)** zielony dla leśnego materiału rozmnożeniowego należącego do kategorii wyselekcjonowany;
-- **3)** różowy dla leśnego materiału rozmnożeniowego należącego do kategorii kwalifikowany;
-- **4)** niebieski dla leśnego materiału rozmnożeniowego należącego do kategorii przetestowany.
+- **1)** żółty – dla leśnego materiału rozmnożeniowego należącego do kategorii ze zidentyfikowanego źródła;
+- **2)** zielony – dla leśnego materiału rozmnożeniowego należącego do kategorii wyselekcjonowany;
+- **3)** różowy – dla leśnego materiału rozmnożeniowego należącego do kategorii kwalifikowany;
+- **4)** niebieski – dla leśnego materiału rozmnożeniowego należącego do kategorii przetestowany.
 
 **Art. 44.**
 
@@ -482,7 +484,7 @@ o leśnym materiale rozmnożeniowym
 - **2)** imię i nazwisko lub nazwę dostawcy oraz jego adres;
 - **3)** numer i datę wydania decyzji o rejestracji dostawcy;
 - **4)** numer i datę wydania decyzji o wykreśleniu dostawcy z rejestru dostawców;
-- **5)** numer rejestrowy leśnego materiału podstawowego w Krajowym Rejestrze jeżeli dostawca jest jednocześnie producentem;
+- **5)** numer rejestrowy leśnego materiału podstawowego w Krajowym Rejestrze – jeżeli dostawca jest jednocześnie producentem;
 - **6)** numer dostawcy w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile taki numer posiada, oraz numer identyfikacji podatkowej (NIP).
 
 3. Rejestracji, o której mowa w ust. 1, dokonuje Minister, na wniosek zainteresowanego dostawcy.
@@ -550,9 +552,7 @@ o leśnym materiale rozmnożeniowym
 
 **Art. 58.** (uchylony)
 
-**Art. 59.** (uchylony)
+**Art. 59.** (uchylony) Zezwala się na obrót leśnym materiałem rozmnożeniowym, niespełniającym warunków określonych w ustawie, w postaci jednostek nasiennych, części roślin przeznaczonych do produkcji materiału sadzeniowego oraz materiału sadzeniowego wyprodukowanego z jednostek nasiennych pozyskanych przed dniem wejścia w życie ustawy, aż do wyczerpania zapasów.
 
-**Art. 59a.** Zezwala się na obrót leśnym materiałem rozmnożeniowym, niespełniającym warunków określonych w ustawie, w postaci jednostek nasiennych, części roślin przeznaczonych do produkcji materiału sadzeniowego oraz materiału sadzeniowego wyprodukowanego z jednostek nasiennych pozyskanych przed dniem wejścia w życie ustawy, aż do wyczerpania zapasów.
-
-**Art. 60.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej . WYKAZ GATUNKÓW DRZEW ORAZ ICH SZTUCZNYCH HYBRYD 1. Brzoza brodawkowata (Betula pendula Roth.), 2. Brzoza omszona (Betula pubescens Ehrh.), 3. Buk zwyczajny (Fagus sylvatica L.), 4. Cedr atlantycki (Cedrus atlantica Carr.), 5. Cedr libański (Cedrus libani A. Richard), 6. Czereśnia ptasia (Prunus avium L.), 7. Daglezja zielona (Pseudotsuga menziesii Franco), 8. Dąb bezszypułkowy (Quercus petraea Liebl.), 9. Dąb burgundzki (Quercus cerris L.), 10. Dąb czerwony (Quercus rubra L.), 11. Dąb korkowy (Quercus suber L.), 12. Dąb omszony (Quercus pubescens Willd), 13. Dąb ostrolistny (Quercus ilex L.), 14. Dąb szypułkowy (Quercus robur L.), 15. Grab zwyczajny (Carpinus betulus L.), 16. Grochodrzew (Robinia pseudoacacia L.), 17. Jesion wyniosły (Fraxinus excelsior L.), 18. Jesion wyniosły odmiana wąskolistna (Fraxinus angustifolia Vahl.), 19. Jodła grecka (Abies cephalonica Loud.), 20. Jodła hiszpańska (Abies pinsapo Boiss.), 21. Jodła olbrzymia (Abies grandis Lindl.), 22. Jodła pospolita (Abies alba Mill.), 23. Kasztan jadalny (Castanea sativa Mill.), 24. Klon jawor (Acer pseudoplatanus L.), 25. Klon zwyczajny (Acer platanoides L.), 26. Lipa drobnolistna (Tilia cordata Mill.), 27. Lipa szerokolistna (Tilia platyphyllos Scop.), 28. Modrzew europejski (Larix decidua Mill.), 29. Modrzew eurojapoński (Larix x eurolepis Henry), 30. Modrzew japoński (Larix kaempferi Carr.), 31. Modrzew syberyjski (Larix sibirica Ledeb.), 32. Olsza czarna (Alnus glutinosa Gaertn.), 33. Olsza szara (Alnus incana Moench.), 34. Pinus canariensis C. Smith, 35. Sosna alepska (Pinus halepensis Mill.), 36. Sosna alepska odmiana kalabryjska (Pinus halepensis var. brutia Henry), 37. Sosna bośniacka (Pinus leucodermis Antoine), 38. Sosna czarna (Pinus nigra Arnold), 39. Sosna limba (Pinus cembra L.), 40. Sosna kalifornijska (Pinus radiata D. Don), 41. Sosna nadmorska (Pinus pinaster Ait.), 42. Sosna pinia (Pinus pinea L.), 43. Sosna wejmutka (Pinus strobus L.), 44. Sosna wydmowa (Pinus contorta Loud.), 45. Sosna zwyczajna (Pinus sylvestris L.), 46. Świerk pospolity (Picea abies Karst.), 47. Świerk sitkajski (Picea sitchensis Carr.), 48. Topola (Populus spp.) oraz jej sztuczne hybrydy.
+**Art. 60.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. Załącznik – Wykaz gatunków drzew oraz ich sztucznych hybryd 1. Brzoza brodawkowata (Betula pendula Roth.) , 2. Brzoza omszona (Betula pubescens Ehrh.) , 3. Buk zwyczajny (Fagus sylvatica L.) , 4. Cedr atlantycki (Cedrus atlantica Carr.) , 5. Cedr libański (Cedrus libani A. Richard) , 6. Czereśnia ptasia (Prunus avium L.) , 7. Daglezja zielona (Pseudotsuga menziesii Franco) , 8. Dąb bezszypułkowy (Quercus petraea Liebl.) , 9. Dąb burgundzki (Quercus cerris L.) , 10. Dąb czerwony (Quercus rubra L.) , 11. Dąb korkowy (Quercus suber L.) , 12. Dąb omszony (Quercus pubescens Willd) , 13. Dąb ostrolistny (Quercus ilex L.) , 14. Dąb szypułkowy (Quercus robur L.) , 15. Grab zwyczajny (Carpinus betulus L.) , 16. Grochodrzew (Robinia pseudoacacia L.) , 17. Jesion wyniosły (Fraxinus excelsior L.) , 18. Jesion wyniosły odmiana wąskolistna (Fraxinus angustifolia Vahl.) , 19. Jodła grecka (Abies cephalonica Loud.) , 20. Jodła hiszpańska (Abies pinsapo Boiss.) , 21. Jodła olbrzymia (Abies grandis Lindl.) , 22. Jodła pospolita (Abies alba Mill.) , 23. Kasztan jadalny (Castanea sativa Mill.) , 24. Klon jawor (Acer pseudoplatanus L.) , 25. Klon zwyczajny (Acer platanoides L.) , 26. Lipa drobnolistna (Tilia cordata Mill.) , 27. Lipa szerokolistna (Tilia platyphyllos Scop.) , 28. Modrzew europejski (Larix decidua Mill.) , 29. Modrzew eurojapoński (Larix x eurolepis Henry) , 30. Modrzew japoński (Larix kaempferi Carr.) , 31. Modrzew syberyjski (Larix sibirica Ledeb.) , 32. Olsza czarna (Alnus glutinosa Gaertn.) , 33. Olsza szara (Alnus incana Moench.) , 34. Pinus canariensis C. Smith , 35. Sosna alepska (Pinus halepensis Mill.) , 36. Sosna alepska odmiana kalabryjska (Pinus halepensis var. brutia Henry) , 37. Sosna bośniacka (Pinus leucodermis Antoine) , 38. Sosna czarna (Pinus nigra Arnold) , 39. Sosna limba (Pinus cembra L.) , 40. Sosna kalifornijska (Pinus radiata D. Don) , 41. Sosna nadmorska (Pinus pinaster Ait.) , 42. Sosna pinia (Pinus pinea L.) , 43. Sosna wejmutka (Pinus strobus L.) , 44. Sosna wydmowa (Pinus contorta Loud.) , 45. Sosna zwyczajna (Pinus sylvestris L.) , 46. Świerk pospolity (Picea abies Karst.) , 47. Świerk sitkajski (Picea sitchensis Carr.) , 48. Topola (Populus spp.) oraz jej sztuczne hybrydy.
 

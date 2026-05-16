@@ -8,9 +8,12 @@ pos: 753
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# 14 ust. 1 pkt 1-3,
+# Prawo o ustroju sądów wojskowych
+
+*USTAWA z dnia 21 sierpnia 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,442 +27,751 @@ domain: null
 | Ostatnia zmiana | 2025-12-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971170753) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/753/text.pdf) |
 
-2) zakwalifikowana przez komi po przeprowadze niu konkursu, o którym mowa wart. 91 ust. 4.
+Art. 65–69. (pominięte)
 
-**Art. 94b.**
+#### Rozdział 1 Przepisy ogólne
 
-1. Prokurator apelacyjny, na wniosek prokuratora wojewódzkiego, cofa aplikantowi zezwolenie na odbywanie aplikacji pozaetatowej,
+**Art. 1.**
 
-- **1)** zrezygnuje on z odbywania aplika cji,
-- **2)** narusza aplikan ta.
+§ 1. Sądy wojskowe sprawują Siłach Zbrojnych Rzeczypospolitej Polskiej wymiar sprawiedliwości sprawach karnych zakresie przewidzianym ustawach oraz orzekają innych sprawach, jeżeli zostały one przekazane do ich właściwości odrębnymi ustawami.
 
-2. zezwolenia na odbywanie aplikacji pozaetatowej z dniem przez prokurato ra apelacyjnego. pisów ustawy, o której mowa wart. 1, z tym dniem starszymi inspektorami
+§ 2. W wypadkach przewidzianych ustawach sądy wojskowe sprawują wymiar sprawiedliwości sprawach karnych stosunku do osób nienależących do Sił Zbrojnych Rzeczypospolitej Polskiej.
 
-**Art. 6.** Do osób, które lub przed dniem ni niejszej ustawy, stosuje przepisy dotychczasowe.
-
-**Art. 7.** Do asesorów którym powierzono przed dniem niniejszej ustawy, stosuje przepisy dotych czasowe.
-
-**Art. 8.** Ustawa wchodzi z dniem 1 stycznia 1998 r. Prezydent Rzeczypospolitej Polskiej: A. USTAWA z dnia 21 sierpnia 1997 r. Prawo o ustroju wojskowych. 1 Przepisy ogólne
-
-**Art. 1¹.** wojskowe Zbroj nych Rzeczypospolitej Polskiej wymiar sprawiedliwo sprawach karnych oraz innych spra wach, one przekazane do ich ustawami. 2. W wypadkach przewidzianych ustawach dy wojskowe wymiar sprawach karnych stosunku do osób nie cych do Zbrojnych Rzeczypospolitej Polskiej.
-
-**Art. 2.** Do wojskowych oraz cych tych zastosowanie przepisy jednostek wojskowych i czynnej wojskowej, ustawa nie stanowi inaczej.
+**Art. 2.** Do sądów wojskowych oraz żołnierzy pełniących służbę tych sądach mają zastosowanie przepisy dotyczące jednostek wojskowych i żołnierzy czynnej służbie wojskowej, jeżeli ustawa nie stanowi inaczej.
 
 **Art. 3.**
 
-1. wojskowymi wojskowe i wojskowe garnizonowe.
+§ 1. Sądami wojskowymi są wojskowe sądy okręgowe i wojskowe sądy garnizonowe.
 
-2. Wojskowe stosunku do wojskowych garnizono wych.
+§ 2. (uchylony) § 3. Minister Obrony Narodowej porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, drodze rozporządzenia, tworzy i znosi sądy wojskowe oraz określa ich siedziby i obszary właściwości, mając na względzie potrzebę zapewnienia racjonalnej organizacji sądownictwa wojskowego przez dostosowanie liczby sądów, ich wielkości i obszarów właściwości do rozmieszczenia Sił Zbrojnych, realizującej zasadę dostępu do sądu i uwzględniającej ekonomię postępowania sądowego, celu zagwarantowania realizacji prawa do Zbrojnych przypadku ogłoszenia mobilizacji i czasie wojny.
 
-3. Minister Obrony Narodowej porozumieniu z Ministrem po opinii Krajowej Rady tworzy i znosi, drodze wojskowe oraz ich siedzi by i obszary
+§ 4. Kierując się kryteriami i celem, o których mowa § 3, Minister Obrony Narodowej porozumieniu z Ministrem Sprawiedliwości, drodze rozporządzenia, może tworzyć i znosić wydziały zamiejscowe wojskowych sądów garnizonowych.
 
-4. Minister Obrony Narodowej porozumieniu z Ministrem i drodze zamiejscowe poza siedzibami wojskowych garnizonowych.
-
-5. Minister Obrony Narodowej porozumieniu z Ministrem razie mo bilizacji i czasie wojny, drodze roz inne wojskowe 1.
-
-6. Do o których mowa 5, stosuje odpowiednio przepisy ustawy.
+§ 5. (uchylony) § 6. (uchylony)
 
 **Art. 4.**
 
-1. wojskowych jest fi nansowana z Ministerstwa Obrony Narodowej.
+§ 1. Działalność sądów wojskowych jest finansowana z wyodrębnionych środków budżetowych Ministerstwa Obrony Narodowej.
 
-2. Minister Obrony Narodowej porozumieniu z Ministrem i Ministrem Finansów ustala zasady planowania i wykorzysta nia o których mowa 1.
+§ 2. Minister Obrony Narodowej, jako dysponent części budżetowej, nie jest uprawniony do dokonywania przeniesień, o których mowa art. 171 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483), jeżeli powodowałoby to zmniejszenie wydatków rozdziale klasyfikacji wydatków dotyczących sądów wojskowych.
+
+§ 3. Organami kierującymi gospodarką finansową sądów wojskowych są prezesi tych sądów.
+
+§ 4. Projekty planów finansowych oraz plany finansowe dla sądów wojskowych opracowują prezesi tych sądów, według zasad określonych odrębnych przepisach o finansach publicznych, które Minister Sprawiedliwości przedkłada Krajowej Radzie Sądownictwa, a ta na ich podstawie składa wniosek do Ministra Obrony Narodowej o opracowanie dochodów i wydatków sądów wojskowych.
+
+§ 5. Organy wymienione § 4 są związane założeniami, o których mowa art. 138 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+§ 6. Minister Obrony Narodowej porozumieniu z Ministrem Sprawiedliwości i ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, szczegółowe zasady planowania i prowadzenia gospodarki finansowej i działalności inwestycyjnej sądów wojskowych.
 
 **Art. 5.**
 
-1. Nadzór nad wojsko wych zakresie orzekania sprawuje
+§ 1. Nadzór nad działalnością sądów wojskowych zakresie orzekania sprawuje Sąd Najwyższy.
 
-4. Zadania zwierzchniego nadzoru, o którym mo wa 2, wykonuje komórka organizacyjna Minister stwa randze departamentu.
+§ 2. Zwierzchni nadzór nad sądami wojskowymi zakresie organizacji i działalności administracyjnej sprawuje Minister Sprawiedliwości.
 
-5. Dyrektora departamentu, o którym mowa 4, i Minister porozumieniu z Ministrem Obrony Narodowej spo wojskowych
+§ 3. Nadzór zakresie czynnej służby wojskowej żołnierzy pełniących służbę sądach wojskowych sprawuje Minister Obrony Narodowej.
 
-6. na stanowiska departa mencie, o którym mowa 4, i Mi nister porozumieniu z Ministrem Obrony Narodowej.
+§ 4. (uchylony) § 6. (uchylony)
 
-**Art. 6.** Minister przedstawia Pre zydentowi Rzeczypospolitej Polskiej i Krajowej Radzie o wojsko wych.
+**Art. 6.** Minister Sprawiedliwości przedstawia Prezydentowi Rzeczypospolitej Polskiej i Krajowej Radzie Sądownictwa informację o działalności sądów wojskowych.
+
+**Art. 6a.** Prezesi wojskowych sądów okręgowych właściwych dla siedziby organu wnioskującego o udostępnienie danych przekazują corocznie Ministrowi Sprawiedliwości informację na temat przetwarzania danych telekomunikacyjnych, pocztowych i internetowych, z podziałem na liczbę i rodzaj udostępnianych danych, oraz wyników przeprowadzonych kontroli, terminie do dnia 31 marca roku następującego po roku nią objętym, celem realizacji zadania, o którym mowa art. 175b § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907 oraz z 2025 r. poz. 526, 820, 1172 i 1178).
+
+**Art. 6b.**
+
+§ 1. Sądy wojskowe są administratorami danych osobowych przetwarzanych postępowaniach sądowych.
+
+§ 2. Do przetwarzania danych osobowych postępowaniach sądowych przepisów art. 15, art. 16 – zakresie, jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się.
+
+§ 3. W związku z przetwarzaniem danych osobowych postępowaniach sądowych wykonanie obowiązków, o których mowa art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych art. 13 ust. 2 rozporządzenia 2016/679 Biuletynie Informacji Publicznej na stronie podmiotowej oraz widocznym miejscu budynku sądu.
+
+**Art. 6c.**
+
+§ 1. Nadzór nad przetwarzaniem danych osobowych postępowaniach sądowych wykonują:
+
+- **1)** zakresie działalności wojskowego sądu garnizonowego – prezes wojskowego sądu okręgowego; Sądownictwa.
+
+§ 2. Do nadzoru, o którym mowa § 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych stosuje się odpowiednio.
 
 **Art. 7.**
 
-1. wojskowe sprawy swojej siedzibie, z 2 i 3.
+§ 1. Sądy wojskowe rozpoznają sprawy swojej siedzibie, z zastrzeżeniem § 2 i 3.
 
-2. wymaga tego dobro wymiaru sprawie wojskowe sprawy lub inne poza a ra zie i poza obszarem swojej tym umowa tak stanowi poza granicami Rzeczypospolitej Polskiej.
+§ 2. Jeżeli wymaga tego dobro wymiaru sprawiedliwości, sądy wojskowe mogą rozpoznawać sprawy lub pełnić inne czynności poza swoją siedzibą, a razie konieczności i poza obszarem swojej właściwości, tym również – jeżeli umowa międzynarodowa tak stanowi – poza granicami Rzeczypospolitej Polskiej.
 
-3. W wypadku 2 rozpoznawanie spraw na terytorium Rzeczypospolitej Polskiej odbywa tylko siedzibach wojskowych lub powszechnych.
+§ 3. W wypadku określonym § 2 rozpoznawanie spraw karnych na terytorium Rzeczypospolitej Polskiej odbywa się tylko siedzibach sądów wojskowych lub sądów powszechnych.
+
+**Art. 7a.** Osoby pozostające ze sobą stosunku pokrewieństwa linii prostej lub powinowactwa linii prostej albo stosunku przysposobienia, małżonkowie oraz rodzeństwo nie mogą być sędziami tym samym sądzie.
 
 **Art. 8.**
 
-1. W wypadkach, których ustawy przewi wniesienie do wojskowego odwo od lub decyzji wydanych przez or gany wojskowe, rozpoznaje wojskowy gar nizonowy której woj lub pracownik jest zatrudniony, te ustawy nie inaczej.
+§ 1. W wypadkach, których ustawy przewidują wniesienie do sądu wojskowego środka odwoławczego od orzeczeń lub decyzji wydanych przez organy wojskowe, sprawę rozpoznaje wojskowy sąd garnizonowy obejmujący swoją właściwością jednostkę wojskową, której żołnierz pełni czynną służbę wojskową lub pracownik jest zatrudniony, jeżeli te ustawy nie stanowią inaczej.
 
-2. W sprawach, o których mowa 1, usta wy nie inaczej, stosuje odpowiednio prze pisy Kodeksu karnego powania 2 Organy
+§ 2. W sprawach, o których mowa § 1, jeżeli ustawy nie stanowią inaczej, stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące postępowania odwoławczego.
 
-**Art. 9.** Organami wojskowych Zgromadzenie Wojskowych, wojskowych prezes oraz kolegium wojskowego wojskowych garnizonowych prezes du. 3. Do Zgromadzenia przedstawianie Krajowej Radzie kan dydatów na stanowiska wojskowych dów garnizonowych oraz wojskowych gowych, wybór Krajowej Rady wybór kolegiów wojskowych wybór dyscyplinarnych nych do orzekania sprawach dyscyplinarnych wojskowych, wybór rzecznika dyscyplinarnego wojskowych, informacji dyrektora departamen tu, o którym mowa wart. 5 4, o dów wojskowych oraz opinii tym za kresie, podejmowanie zakresie doskonalenia kwalifikacji zawodowych i dów wojskowych, wypowiadanie sprawach i praw opinii sprawach przez Ministra Sprawiedli Ministra Obrony Narodowej oraz dyrektora departamentu, o którym mowa wart. 5 4. 4. Do wyboru oraz opinii, o których mowa 3, wymagana jest przynajmniej dwóch trzecich liczby Zgromadzenia, a tych sprawach 5. W sprawach, o których mowa 4, je tajne, takie by jeden z obecnych na posiedzeniu Zgroma dzenia. 6. wojskowych posiedzeniach Zgromadzenia. Asesorzy wojskowych posiedzeniach Zgromadzenia bez prawa i wyboru. 7. Zgromadzenie zbiera co najmniej raz ro ku. Posiedzenie Zgromadzenia jego przewod z inicjatywy, na wniosek Ministra Ministra Obrony Narodowej, dyrek tora departamentu, o którym mowa wart. 5 4, albo na wnios,ek jednej liczby Zgromadze nia. 8. tryb odbywania Zgro madzenia Wojskowych regu lamin uchwalony przez Zgromadzenie. ny lub 3. Prezesa wojskowego i jego i woj skowych Minister Sprawiedliwo porozumieniu z Ministrem Obrony Narodowej. 4. Prezesa wojskowego garnizonowego i je go i dów wojskowych, Minister porozu mieniu z Ministrem Obrony Narodowej.
+#### Rozdział 2 Samorząd sędziowski i organy sądów
+
+**Art. 9.** Organem samorządu sędziowskiego jest Zgromadzenie Sędziów Sądów Wojskowych.
+
+**Art. 10.**
+
+§ 1. Zgromadzenie Sędziów Sądów Wojskowych, zwane dalej „Zgromadzeniem”, tworzą sędziowie sądów wojskowych. okręgowych. Kadencja przewodniczącego trwa 2 lata.
+
+§ 3. Do zadań Zgromadzenia należy:
+
+- **1)** przedstawianie Krajowej Radzie Sądownictwa kandydatów na stanowiska sędziów wojskowych sądów garnizonowych oraz wojskowych sądów okręgowych;
+- **2)** (uchylony)
+- **3)** wybór członków kolegiów wojskowych sądów okręgowych;
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** wysłuchanie informacji Ministra Sprawiedliwości o działalności sądów wojskowych oraz wyrażanie opinii tym zakresie;
+- **7)** podejmowanie działań zakresie doskonalenia kwalifikacji zawodowych sędziów i działalności sądów wojskowych;
+- **8)** wypowiadanie się sprawach obowiązków i praw sędziów;
+- **9)** wyrażanie opinii sprawach zgłoszonych przez Krajową Radę Sądownictwa, Ministra Sprawiedliwości oraz Ministra Obrony Narodowej.
+
+§ 4. Do wyboru oraz wyrażania opinii, o których mowa § 3, wymagana jest obecność przynajmniej dwóch trzecich liczby członków Zgromadzenia, a uchwały tych sprawach zapadają bezwzględną większością głosów.
+
+§ 5. Głosowanie jest tajne sprawach, o których mowa § 3 pkt 1–3, a ponadto, jeżeli żądanie takie zgłosi chociażby jeden z obecnych członków Zgromadzenia.
+
+§ 6. Sędziowie sądów wojskowych są obowiązani brać udział posiedzeniach Zgromadzenia.
+
+§ 7. Zgromadzenie zbiera się co najmniej raz roku. Posiedzenie Zgromadzenia zwołuje jego przewodniczący z własnej inicjatywy, na wniosek Ministra Sprawiedliwości, Ministra Obrony Narodowej, albo na wniosek jednej piątej liczby członków Zgromadzenia.
+
+§ 8. Szczegółowy tryb odbywania posiedzeń Zgromadzenia Sędziów Sądów Wojskowych określa regulamin uchwalony przez Zgromadzenie.
+
+**Art. 10a.** Organami sądów wojskowych są:
+
+**Art. 11.**
+
+§ 1. Prezes wojskowego sądu okręgowego i prezes wojskowego sądu garnizonowego, zwani dalej „prezesami sądów wojskowych”, kierują działalnością sądu oraz są przełożonymi sędziów i pozostałego składu osobowego danego sądu.
+
+§ 2. Prezesa sądu wojskowego zastępuje wyznaczony zastępca lub sędzia.
+
+§ 3. Prezesa sądu wojskowego i jego zastępcę powołuje, spośród sędziów sądów wojskowych, Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej.
+
+§ 4. (uchylony) § 5. Prezes sądu wojskowego i jego zastępca mogą być odwołani przez Ministra Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej toku kadencji przypadku:
+
+- **1)** rażącego lub uporczywego niewywiązywania się z obowiązków służbowych;
+- **2)** gdy dalsze pełnienie funkcji z innych powodów nie da się pogodzić z dobrem wymiaru sprawiedliwości;
+- **3)** stwierdzenia szczególnie niskiej efektywności działań zakresie pełnionego nadzoru administracyjnego lub organizacji pracy sądzie lub sądach niższych;
+- **4)** złożenia rezygnacji z pełnionej funkcji.
+
+§ 6. Odwołanie prezesa sądu wojskowego albo jego zastępcy następuje po zasięgnięciu opinii Krajowej Rady Sądownictwa. Zamiar odwołania, wraz z pisemnym uzasadnieniem, Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej przedstawia Krajowej Radzie Sądownictwa celu uzyskania opinii.
+
+§ 6a. Występując o opinię do Krajowej Rady Sądownictwa Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej może zawiesić prezesa sądu wojskowego albo jego zastępcę pełnieniu czynności. Przepis art. 22b § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych stosuje się odpowiednio.
+
+§ 6b. Negatywna opinia Krajowej Rady Sądownictwa dotycząca odwołania prezesa sądu wojskowego jest dla Ministra Sprawiedliwości wiążąca, jeżeli uchwała tej sprawie została podjęta większością dwóch trzecich głosów.
+
+§ 7. Niewydanie opinii przez Krajową Radę Sądownictwa terminie 30 dni od dnia przedstawienia przez Ministra Sprawiedliwości porozumieniu z Ministrem nie stoi na przeszkodzie odwołaniu.
+
+§ 8. W przypadku złożenia przez prezesa sądu wojskowego albo jego zastępcę rezygnacji z pełnionej funkcji toku kadencji, Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej odwołuje go bez zasięgania opinii, o której mowa § 6.
+
+**Art. 11a.**
+
+§ 1. Prezes wojskowego sądu okręgowego jest powoływany na okres 4 lat i nie może być ponownie powołany do pełnienia funkcji prezesa lub jego zastępcy tym sądzie przed upływem 4 lat od dnia zakończenia kadencji.
+
+§ 2. Zastępca prezesa wojskowego sądu okręgowego jest powoływany na okres 4 lat i nie może być ponownie powołany do pełnienia tej samej funkcji tym sądzie przed upływem 4 lat od dnia zakończenia kadencji.
+
+§ 3. Prezes wojskowego sądu garnizonowego jest powoływany na okres 4 lat, najwyżej na dwie kolejne kadencje, i nie może być powołany do pełnienia funkcji prezesa lub jego zastępcy przed upływem 4 lat od dnia zakończenia pełnienia tej funkcji.
+
+§ 4. Zastępca prezesa wojskowego sądu garnizonowego jest powoływany na okres 4 lat, najwyżej na 2 kolejne kadencje.
+
+§ 5. W przypadku podziału sądu lub połączenia sądów, przy obejmowaniu funkcji prezesa sądu wojskowego albo jego zastępcy sądzie utworzonym wskutek podziału lub połączenia, do okresu kadencji zalicza się okres pełnienia takiej samej funkcji sądzie, który uległ podziałowi lub połączeniu.
 
 **Art. 12.**
 
-1. Kolegium wojskowego go, zwane dalej "kolegium", z czterech do wybranych orzeka na obszarze wojskowego
+§ 1. Kolegium wojskowego sądu okręgowego, zwane dalej „kolegium”, składa się z prezesa wojskowego sądu okręgowego oraz 6 członków, tym 3 sędziów wojskowego sądu okręgowego i 3 sędziów wojskowych sądów garnizonowych, wybranych przez Zgromadzenie spośród sędziów orzekających sądach działających na obszarze właściwości wojskowego sądu okręgowego.
 
-2. kolegium jest prezes woj skowego a razie jego nieobecno wybrany przez kole gium jego
+§ 2. Przewodniczącym kolegium jest prezes wojskowego sądu okręgowego, a razie jego nieobecności – zastępca przewodniczącego, wybrany przez kolegium spośród jego członków.
 
-3. Kadencja kolegium trwa 2 lata.
+§ 3. Kadencja kolegium trwa 2 lata.
 
 **Art. 13.**
 
-1. Do kolegium sprawy nie ustawie do Zgro madzenia, a
+§ 1. Do zadań kolegium należą sprawy niezastrzeżone ustawie do wyłącznej właściwości Zgromadzenia, a szczególności: sądów wojskowych;
 
-- **1)** przedstawianie Zgromadzeniu opinii o kandyda tach na stanowiska wojskowych,
-- **2)** opinii sprawach wyznaczania na sta nowiska oraz zwalniania z tych stano wisk prezesów wojskowych i ich
-- **3)** opiniowanie wniosków o przeniesienie oraz o od trybie art. 32 2,
-- **4)** opinii sprawach przedstawionych przez Ministra Spra Ministra Obrony Narodowej, dyrekto ra departamentu, o którym mowa wart. 5 4, oraz przez prezesa wojskowego
+- **2)** wyrażanie opinii sprawach wyznaczania na stanowiska służbowe prezesów sądów wojskowych i ich zastępców;
+- **3)** opiniowanie wniosków o przeniesienie sędziego na inne miejsce służbowe;
+- **4)** wyrażanie opinii sprawach przedstawionych przez Krajową Radę Sądownictwa, Ministra Sprawiedliwości, Ministra Obrony Narodowej oraz przez prezesa wojskowego sądu okręgowego;
+- **5)** wypowiadanie się przypadkach zachowań sędziów naruszających zasady etyki;
+- **6)** wyrażanie zgody na delegowanie sędziego wojskowego sądu garnizonowego przez prezesa wojskowego sądu okręgowego.
 
-2. Do wymagana jest przynajmniej dwóch trzecich kolegium. kolegium przy czym razie równej liczby decyduje prze
+§ 2. Do podjęcia uchwał wymagana jest obecność przynajmniej dwóch trzecich członków kolegium. Uchwały kolegium zapadają większością głosów, przy czym razie równej liczby głosów decyduje głos przewodniczącego.
 
-3. Kolegium zbiera od potrzeb, nie rzadziej na roku.
+§ 3. Kolegium zbiera się zależności od potrzeb, nie rzadziej niż raz na pół roku.
 
-4. Posiedzenia kolegium jego przewodni z inicjatywy lub na wniosek jednej trze ciej kolegium. 3 Nadzór i administracja
+§ 4. Posiedzenia kolegium zwołuje jego przewodniczący z własnej inicjatywy lub na wniosek jednej trzeciej członków kolegium.
+
+#### Rozdział 3 Nadzór i administracja sądowa
 
 **Art. 14.**
 
-1. Prezesi wojskowych nadzoru i administracji si tych dyrektorowi departamentu, o którym mowa wart. 5 4.
+§ 1. Prezesi sądów wojskowych wykonują czynności nadzoru służbowego i administracji sądowej przewidziane przepisach postępowania sądowego oraz regulaminach urzędowania, a także inne czynności określone ustawach i odrębnych przepisach.
 
-3. Prezesi wojskowych po szczególne nadzoru i admini stracji swoim a szczególnych przypadkach
+§ 2. W zakresie, o którym mowa § 1, prezesi wojskowych sądów garnizonowych podlegają prezesom właściwych wojskowych sądów okręgowych, a prezesi tych sądów – Ministrowi Sprawiedliwości.
 
-4. Prezes wojskowego wyznacza do sprawowania nadzoru penitencjarnego.
+§ 3. Prezesi sądów wojskowych mogą zlecać poszczególne czynności nadzoru służbowego i administracji sądowej swoim zastępcom, a szczególnych przypadkach – sędziom.
 
-**Art. 15.**
+§ 4. Prezes sądu wojskowego wyznacza sędziego do sprawowania nadzoru penitencjarnego. administracyjną sądów wojskowych mają prawo wglądu czynności tych sądów, mogą żądać wyjaśnień oraz usunięcia uchybień. Minister Sprawiedliwości oraz prezesi sądów wojskowych mogą uchylać zarządzenia administracyjne niezgodne z prawem albo naruszające sprawność postępowania sądowego lub z innych powodów niecelowe.
 
-1. Osoby do kierowania i nad zoru nad wojsko wych prawo tych oraz Mini ster oraz prezesi wojskowych administracyjne niezgodne z prawem.
+§ 2. Sędziowie wykonujący czynności, o których mowa § 1, mogą być obecni na rozprawie toczącej się z wyłączeniem jawności.
 
-2. o których mowa 1, obecni na rozprawie z
+§ 3. W razie stwierdzenia uchybienia zakresie sprawności postępowania sądowego, Minister Sprawiedliwości oraz prezesi sądów wojskowych mogą zwrócić na nie, na piśmie, uwagę i żądać usunięcia skutków tego uchybienia. Sędzia, którego dotyczy zwrócona uwaga może, terminie 7 dni, złożyć pisemne zastrzeżenie do organu, który zwrócił uwagę, co nie zwalnia go od obowiązku usunięcia skutków uchybienia.
 
-3. W razie stwierdzenia uchybienia zakresie Minister Spra oraz prezesi wojskowych na nie i skutków tego uchybienia.
+§ 3a. W razie złożenia zastrzeżenia organ, o którym mowa § 3, uchyla uwagę albo przekazuje sprawę do rozpoznania sądowi dyscyplinarnemu.
 
-**Art. 16.** Czynności z zakresu nadzoru i administra cji o których mowa wart. 5 2 i 3, art. 14 1 i 3 oraz wart. 15, nie której
+§ 3b. W przypadku przewidzianym § 3a, sąd dyscyplinarny wydaje postanowienie po wysłuchaniu Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych oraz sędziego, chyba że nie jest to możliwe. Na postanowienie odmawiające uwzględnienia zastrzeżenia sędziemu przysługuje zażalenie. Zażalenie rozpoznaje ten sam sąd dyscyplinarny innym równorzędnym składzie.
+
+§ 4. Minister Sprawiedliwości może zwrócić prezesowi lub zastępcy prezesa sądu wojskowego pisemną uwagę, jeżeli stwierdzi uchybienia zakresie kierowania sądem albo sprawowania przez prezesa przysługującego mu nadzoru nad działalnością administracyjną sądów wojskowych.
+
+§ 5. Uprawnienia określone § 4 przysługują Ministrowi Obrony Narodowej odnośnie do nadzoru zakresie czynnej służby wojskowej żołnierzy pełniących służbę sądach wojskowych.
+
+**Art. 16.** Czynności z zakresu nadzoru i administracji sądowej, o których mowa art. 5 § 2 i 3, art. 14 § 1 i 3 oraz art. 15, nie mogą wkraczać dziedzinę, której sędziowie są niezawiśli.
 
 **Art. 17.**
 
-1. W wojskowych sekre tariaty oraz inne komórki organizacyjne, które tworzy prezes wojskowego.
-
-2. Zasady wyznaczania zawodowych i pracowników cywilnych na stanowiska sekretaria tach i innych komórkach organizacyjnych woj skowych oraz kwalifikacje wymagane do sta nowisk przepisy.
+§ 1. W sądach wojskowych działają sekretariaty oraz inne komórki organizacyjne, które tworzy prezes sądu wojskowego. stanowiska sekretariatach i innych komórkach organizacyjnych sądów wojskowych oraz kwalifikacje wymagane do objęcia stanowisk określają odrębne przepisy.
 
 **Art. 18.**
 
-1. Minister porozu mieniu z Ministrem Obrony Narodowej dro dze
+§ 1. Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej określa, drodze rozporządzenia:
 
-- **1)** wójskowych oraz ustala regula min tych
-- **2)** szczegółowy tryb wykonywania nadzoru, o którym mowa wart. 5 2, art. 14 i art. 15,
-- **3)** zasady archiwizacji, niszczenia i prze kazywania archiwom akt spraw
+- **1)** organizację sądów wojskowych oraz ustala regulamin wewnętrzny urzędowania tych sądów;
+- **2)** szczegółowy tryb wykonywania nadzoru, o którym mowa art. 5 § 2, art. 14 i art. 15;
+- **3)** szczegółowe zasady archiwizacji, niszczenia i przekazywania właściwym archiwom państwowym akt spraw sądowych.
 
-2. Minister Obrony Narodowej porozumieniu z Ministrem drodze rozpo sposób wykonywania nadzoru, o którym mowa wart. 5 3. Izby Wojskowej drodze sposób wykonywania przez departament, o którym mowa wart. 5 4, na rzecz Izby Woj skowej z ustawy o wojskowej zawodowych oraz z in nych przepisów wojskowych. 4 wojskowych
+§ 1a. Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej określi, drodze zarządzenia, organizację i zakres działania sekretariatów sądowych oraz innych działów administracji sądowej.
+
+§ 2. Minister Obrony Narodowej porozumieniu z Ministrem Sprawiedliwości określa, drodze rozporządzenia, sposób wykonywania nadzoru, o którym mowa art. 5 § 3.
+
+§ 3. Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej określa, drodze rozporządzenia, liczbę sędziów sądach wojskowych, mając na względzie konieczność prawidłowej organizacji sądów wojskowych oraz potrzebę zapewnienia sprawności postępowania sądowego.
+
+§ 4. (uchylony)
+
+#### Rozdział 4 Sędziowie sądów wojskowych
 
 **Art. 19.**
 
-1. Wojskowy garnizonowy z i asesorów tego
+§ 1. Wojskowy sąd garnizonowy składa się z sędziów tego sądu.
 
-2. Wojskowy z tego
+§ 2. Wojskowy sąd okręgowy składa się z sędziów tego sądu.
 
-**Art. 20.** Sędziowie wojskowych zakresie orzekania i tylko ustawom.
+**Art. 20.** Sędziowie sądów wojskowych zakresie orzekania są niezawiśli i podlegają tylko ustawom.
 
 **Art. 21.**
 
-1. wojskowego jest zany zgodnie ze skim oraz stale kwalifikacje zawodowe.
+§ 1. Sędzia sądu wojskowego jest obowiązany postępować zgodnie ze ślubowaniem sędziowskim oraz stale podnosić kwalifikacje zawodowe. stanowiska sędziowskiego i unikać wszystkiego, co mogłoby przynieść ujmę godności sędziego lub osłabiać zaufanie do jego bezstronności.
 
-2. wojskowego powinien i poza strzec powagi stanowiska i wszystkiego, co god lub zaufanie do jego bezstron
+§ 3. W okresie zajmowania stanowiska sędzia sądu wojskowego nie może należeć do partii politycznych ani brać udziału żadnej działalności politycznej.
 
-3. W okresie zajmowania stanowiska wojskowego nie do partii politycznych ani politycznej.
+**Art. 21a.** Sędzia jest obowiązany wykonywać czynności związane z powierzonymi mu obowiązkami sędziego sądu dyscyplinarnego przy wojskowym sądzie okręgowym.
 
 **Art. 22.**
 
-1. wojskowego, zwanym da lej oficer który:
+§ 1. Sędzią sądu wojskowego, zwanym dalej „sędzią”, może być oficer pełniący zawodową służbę wojskową, który:
 
-- **1)** korzysta z praw cywilnych i obywatelskich,
-- **2)** jest nieskazitelnego charakteru,
-- **3)** studia prawnicze,
-- **4)**
-- **5)** egzamin
-- **6)** na stanowisku asesora wojsko wym,
-- **7)** 26 lat.
+- **1)** posiada wyłącznie obywatelstwo polskie i korzysta z pełni praw cywilnych i publicznych, a także nie był prawomocnie skazany za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
+- **2)** jest nieskazitelnego charakteru;
+- **3)** ukończył wyższe studia prawnicze Polsce i uzyskał tytuł magistra lub zagraniczne uznane Polsce;
+- **4)** (uchylony)
+- **5)** złożył egzamin sędziowski lub prokuratorski;
+- **6)** ukończył aplikację sędziowską Krajowej Szkole Sądownictwa i Prokuratury lub pracował charakterze asesora prokuratorskiego co najmniej trzy lata;
+- **7)** ukończył 29 lat.
 
-2. Odbycie aplikacji powszechnym lub jednostce organizacyjnej prokuratury, egza minu lub prokuratorskiego albo odby cie na stanowisku asesora lub jed nostce organizacyjnej prokuratury jest równoznaczne ze odpowiednio 1 pkt 4-6.
+§ 2. (uchylony) § 3. Wymagania określone § 1 pkt 5 i 6 nie dotyczą:
 
-3. Wymagania 1 pkt 4-6 nie doty3) adwokatów, radców prawnych oraz notariuszy, któ rzy wykonywali ten zawód co najmniej przez 3 lata.
+- **1)** profesorów i doktorów habilitowanych nauk prawnych polskich szkołach wyższych, Polskiej Akademii Nauk oraz innych placówkach naukowych i naukowo-badawczych;
+- **2)** osób, które zajmowały stanowiska sędziów, prokuratorów, wiceprokuratorów i podprokuratorów;
+- **3)** adwokatów, radców prawnych oraz notariuszy, którzy wykonywali ten zawód co najmniej przez 3 lata, a także osób, które, przez taki sam okres, zajmowały stanowiska: prezesa, wiceprezesa lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej. warunki, o których mowa art. 22, są powoływani do zawodowej służby wojskowej na podstawie dobrowolnego zgłoszenia się do tej służby, po odbyciu szkolenia wojskowego i zdaniu egzaminu na oficera.
+
+§ 2. Do odbycia szkolenia wojskowego, o którym mowa § 1, powołuje, na wniosek Ministra Sprawiedliwości, organ uprawniony do powoływania do służby wojskowej na podstawie odrębnych przepisów, określając miejsce szkolenia.
+
+§ 3. Kandydaci na stanowiska sędziów, o których mowa § 1, są mianowani na stopień wojskowy odpowiadający stopniowi etatowemu z dniem powołania do pełnienia urzędu na stanowisku sędziego.
+
+§ 4. Rozkaz personalny o powołaniu do zawodowej służby wojskowej kandydatów na stanowiska sędziów, o których mowa § 1, wydaje, na wniosek Ministra Sprawiedliwości, z dniem powołania do pełnienia urzędu na stanowisku sędziego, Minister Obrony Narodowej.
+
+§ 5. (uchylony)
 
 **Art. 23.**
 
-1. Prezydent Rzeczypo spolitej Polskiej na wniosek Krajowej Rady twa.
+§ 1. Sędzią sądu wojskowego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej.
 
-2. Kandydatów na stanowiska przedsta wionych przez Zgromadzenie Wojsko wych, Krajowej Radzie Minister porozumieniu z Ministrem Obrony Narodowej, którzy o kandyda tach.
+§ 1a. Sędziowie sądów wojskowych są powoływani na stanowiska:
 
-3. Kandydatów na stanowiska Zgromadzeniu dyrektor departamentu, o którym mo wa wart. 5 4.
+- **1)** sędziego wojskowego sądu garnizonowego;
+- **2)** sędziego wojskowego sądu okręgowego.
 
-4. Minister porozumieniu z Ministrem Obrony Narodowej po opinii kolegium Krajowej Ra dzie kandydatów na stanowiska dziów.
+§ 1b. Powołując do pełnienia urzędu na stanowisku sędziowskim, Prezydent Rzeczypospolitej Polskiej wyznacza miejsce służbowe (siedzibę) sędziego.
+
+§ 2. Zgromadzenie ocenia zgłoszonych kandydatów na stanowiska sędziów drodze głosowania i przekazuje wszystkie zgłoszone kandydatury, ze wskazaniem liczby uzyskanych głosów, Krajowej Radzie Sądownictwa, za pośrednictwem Ministra Sprawiedliwości. Minister Sprawiedliwości i Minister Obrony Narodowej wyrażają o każdym z kandydatów do objęcia stanowiska sędziowskiego opinie wraz z uzasadnieniem, które Minister Sprawiedliwości przedstawia Krajowej Radzie Sądownictwa wraz z kandydaturami, a także z informacjami uzyskanymi od organu Policji o każdym z kandydatów.
+
+§ 3. Kandydatów na stanowiska sędziów zgłasza Zgromadzeniu Minister Sprawiedliwości. może, po wysłuchaniu opinii kolegium właściwego sądu, zgłosić Krajowej Radzie Sądownictwa kandydatów na stanowiska sędziów.
+
+§ 5. Kandydaci na stanowiska sędziów zgłaszają swoje kandydatury Ministrowi Sprawiedliwości. Minister Sprawiedliwości, przed zgłoszeniem kandydatur Zgromadzeniu ocenia kwalifikacje kandydatów, zasięga opinii właściwego kolegium i zawiadamia Ministra Obrony Narodowej, przekazując wypełnioną kartę zgłoszenia kandydata.
+
+**Art. 23a.**
+
+§ 1. W ramach działalności sądu wojskowego lub jego organów niedopuszczalne jest kwestionowanie umocowania sądów i trybunałów, konstytucyjnych organów państwowych oraz organów kontroli i ochrony prawa.
+
+§ 2. Niedopuszczalne jest ustalanie lub ocena przez sąd wojskowy lub inny organ władzy zgodności z prawem powołania sędziego lub wynikającego z tego powołania uprawnienia do wykonywania zadań z zakresu wymiaru sprawiedliwości.
+
+§ 3. Okoliczności towarzyszące powołaniu sędziego nie mogą stanowić wyłącznej podstawy do podważenia orzeczenia wydanego z udziałem tego sędziego lub kwestionowania jego niezawisłości i bezstronności.
+
+§ 4. Dopuszczalne jest badanie spełnienia przez sędziego wymogów niezawisłości i bezstronności z uwzględnieniem okoliczności towarzyszących jego powołaniu i jego postępowania po powołaniu, na wniosek uprawnionego, o którym mowa § 7, jeżeli okolicznościach danej sprawy może to doprowadzić do naruszenia standardu niezawisłości lub bezstronności, mającego wpływ na wynik sprawy z uwzględnieniem okoliczności dotyczących uprawnionego oraz charakteru sprawy.
+
+§ 5. Wniosek o stwierdzenie przesłanek, o których mowa § 4, może być złożony wobec sędziego wyznaczonego do składu sądu rozpoznającego sprawę pierwszej instancji lub apelację, z wyłączeniem spraw, których termin do ich rozpoznania i wydania orzeczenia jest nie dłuższy niż miesiąc od dnia złożenia pisma procesowego wszczynającego postępowanie sprawie.
+
+§ 6. Wniosek składa się terminie 7 dni od dnia zawiadomienia uprawnionego do złożenia wniosku o składzie rozpoznającym sprawę. Po upływie terminu, o którym mowa zdaniu pierwszym, prawo do wniesienia wniosku wygasa. Sąd przy doręczeniu pierwszego pisma sprawie zawiadamia uprawnionego do złożenia rozpoznający sprawę uległ zmianie.
+
+§ 7. Uprawnionym do złożenia wniosku jest strona postępowania karnego przed sądem wojskowym sprawach, o których mowa § 5, a postępowaniu dyscyplinarnym – obwiniony.
+
+§ 8. Wniosek powinien czynić zadość wymaganiom przewidzianym dla pisma procesowego, a ponadto zawierać:
+
+- **1)** żądanie stwierdzenia, że danej sprawie zachodzą przesłanki, o których mowa § 4;
+- **2)** przytoczenie okoliczności uzasadniających żądanie wraz z dowodami na ich poparcie.
+
+§ 9. Wniosek niespełniający wymagań, o których mowa § 8, podlega odrzuceniu bez wezwania do usunięcia braków formalnych. Odrzuceniu podlega również wniosek złożony po upływie terminu albo z innych przyczyn niedopuszczalny.
+
+§ 10. Wniosek złożony wobec sędziego wyznaczonego do składu sądu dokonującego czynności toku postępowania przygotowawczego postępowaniu sprawach o przestępstwa skarbowe lub postępowaniu karnym pozostawia się bez rozpoznania.
+
+§ 11. Jeżeli uprawniony do złożenia wniosku złożył wnioski wobec więcej niż jednego sędziego wyznaczonego do składu rozpoznającego sprawę lub wnioski zostały złożone tej samej sprawie przez kilku uprawnionych do złożenia wniosku, sąd może zarządzić połączenie wniosków celu ich łącznego rozpoznania. W przypadku łącznego rozpoznania wniosków, wnioski rozpoznaje skład sądu wyznaczony do rozpoznania wniosku, który został złożony jako pierwszy.
+
+§ 12. Uwzględniając wniosek sąd wyłącza sędziego od rozpoznania sprawy. Wyłączenie sędziego od udziału danej sprawie nie może stanowić podstawy do wyłączenia tego sędziego innych prowadzonych przez niego sprawach.
+
+§ 13. W razie uwzględnienia wniosku, sąd z urzędu sporządza terminie 3 dni uzasadnienie postanowienia.
+
+§ 14. W razie uwzględnienia wniosku, odpis postanowienia wraz z uzasadnieniem doręcza się sędziemu, którego wniosek dotyczy. Sędzia może terminie 3 dni złożyć wniosek o ponowne rozpoznanie do Sądu Najwyższego. Sąd Najwyższy składzie 5 sędziów losowanych spośród całego składu Sądu sędziego albo uchyla postanowienie o wyłączeniu sędziego i oddala wniosek. Do czasu rozpoznania sprawy przez Sąd Najwyższy, sędzia podejmuje czynności niecierpiące zwłoki.
+
+§ 15. W zakresie nieuregulowanym przepisami ustawy do rozpoznania wniosku, o którym mowa § 5, stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420) dotyczące rozpoznania wniosku o wyłączenie sędziego, z wyłączeniem art. 42 § 3 zdanie trzecie tej ustawy zakresie dotyczącym czynności niecierpiących zwłoki, szczególności przedmiocie tymczasowego aresztowania.
 
 **Art. 24.**
 
-1. obejmuje stanowisko nym aktem wojskowym.
+§ 1. Sędziowie zajmują stanowiska:
 
-2. stanowiska przez stwierdza Minister Obrony Narodowej.
+- **1)** sędziego wojskowego sądu garnizonowego;
+- **2)** sędziego wojskowego sądu okręgowego.
+- **3)** (uchylony)
+- **4)** (uchylony) § 2. (uchylony) § 3. Objęcie stanowiska przez sędziego stwierdza Minister Obrony Narodowej.
 
 **Art. 25.**
 
-1. i na rozprawach togi jako stroju
+§ 1. Sędziowie i ławnicy na rozprawach używają stroju urzędowego. Strojem urzędowym sędziego i ławnika na rozprawie sądowej jest toga, a sędziego przewodniczącego na rozprawie – także nakładany na kołnierz togi łańcuch z wizerunkiem orła.
 
-2. Minister porozumieniu z Ministrem Obrony Narodowej' drodze za stroju i ników.
+§ 2. Minister Sprawiedliwości, porozumieniu z Ministrem Obrony Narodowej, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, drodze rozporządzenia, wzór stroju urzędowego sędziów i ławników, uwzględniając uroczysty charakter stroju, odpowiedni dla powagi sądu, i tradycję utrwaloną sądownictwie.
 
 **Art. 26.**
 
-1. Minister porozu mieniu z Ministrem Obrony Narodowej delego na okres nie 3 roku kalendarzowym, do dziowskich lub wykonywania administracyj nych innym wojskowym lub po wszechnym albo departamencie, o którym mowa wart. 5 4, a na wniosek Pierwszego Prezesa
+§ 1. Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej, po uzyskaniu zgody sędziego, może delegować sędziego na okres nieprzekraczający trzech miesięcy roku kalendarzowym do pełnienia obowiązków sędziowskich lub wykonywania czynności administracyjnych innym sądzie wojskowym lub sądzie powszechnym albo Ministerstwie Sprawiedliwości, a na wniosek Pierwszego Prezesa Sądu Najwyższego lub Prezesa Naczelnego Sądu administracyjnym.
 
-2. Za okres delegowania, o któ rym mowa 1, 3
+§ 2. Prezes wojskowego sądu okręgowego, po uzyskaniu zgody sędziego oraz kolegium właściwego sądu, może delegować sędziego wojskowego sądu garnizonowego do pełnienia obowiązków sędziego na obszarze właściwości danego wojskowego sądu okręgowego na czas nie dłuższy niż miesiąc roku kalendarzowym.
 
-3. Prezes wojskowego wojskowego garnizonowe go do na obszarze danego wojskowego na czas nie roku kalendarzowym.
+§ 3. Za zgodą sędziego okres delegowania, o którym mowa § 1 i 2, może zostać przedłużony na czas określony.
 
-4. czas delegacji na podstawie przepisów 1 i 3 nie 3 roku kalen darzowym.
+§ 4. Sędzia nie może łączyć funkcji orzekania z wykonywaniem czynności administracyjnych Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej, z wyłączeniem Krajowej Szkoły Sądownictwa i Prokuratury.
 
-**Art. 28.**
+**Art. 26a.**
 
-1. do o swoim stanie czenie o stanie dotyczy go oraz to powinno in formacje o posiadanych zasobach nieru i akcjach prawa handlowego, a ponadto o nabytym przez al bo jej od Skarbu innej osoby prawnej, gminy lub mieniu, które zbyciu drodze przetargu. to powinno dane doty prowadzenia gospodarczej oraz nienia funkcji prawa handlowego lub dzielniach, z funkcji radzie nadzorczej mieszkaniowej.
+§ 1. Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej może delegować sędziego, za jego zgodą, do pełnienia obowiązków lub pełnienia określonej funkcji poza granicami państwa ramach działań podejmowanych przez organizacje międzynarodowe lub ponadnarodowe oraz zespoły międzynarodowe, działające na podstawie umów międzynarodowych, tym umów konstytuujących organizację międzynarodową, ratyfikowanych przez Rzeczpospolitą Polską, zgodnie z kwalifikacjami sędziego, na czas określony, nie dłuższy niż cztery lata, z możliwością ponownego delegowania na kolejny okres, nieprzekraczający czterech lat.
 
-2. o którym mowa 1, wie prezesowi wojskowego który dokonuje analizy zawartych nim danych.
+§ 2. Wydatki związane z delegacją sędziego sądu wojskowego poza granice państwa są pokrywane z budżetu państwa, z wyodrębnionych środków budżetowych Ministerstwa Obrony Narodowej.
 
-3. Prezesi wojskowych o którym mowa 1, Krajowej Ra dzie która dokonuje analizy danych nim zawartych.
+§ 3. Wydatki, o których mowa § 2, mogą być również pokrywane całości lub części ze środków przeznaczonych na ten cel przez organizację międzynarodową, którymi dysponowanie powierzono Ministrowi Obrony Narodowej.
 
-4. o którym mowa 1, przed stanowiska, a co roku do dnia 31 marca, stanu na 31 grudnia roku poprzedniego, a dniu opuszczenia stanowiska
+**Art. 27.** Minister Obrony Narodowej porozumieniu z Ministrem Sprawiedliwości może powierzyć czasowe pełnienie czynności sędziowskich oficerowi rezerwy powołanemu na ćwiczenia wojskowe, który jest sędzią sądu powszechnego. majątkowym. Oświadczenie o stanie majątkowym dotyczy majątku osobistego oraz objętego małżeńską wspólnością majątkową. Oświadczenie to powinno zawierać szczególności informacje o:
 
-5. Informacje zawarte o stanie chyba który zgo na ich ujawnienie. W szczególnie uzasadnionych przypadkach podmiot uprawniony, zgodnie z 2 lub 3, do odebrania je pomimo braku zgody nie przechowuje przez 6 lat.
-
-**Art. 29.** Do o którym mowa wart. 28, stosuje odpowiednio formularz przepisami wydanymi na podstawie art. 11 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia gospodarczej przez osoby funk cje publiczne (Dz.U. 106, poz. 679), o którym mowa wart. 10 ust. 1 ustawy.
+**Art. 29.** Do złożenia oświadczenia, o którym mowa art. 28, stosuje się odpowiednio formularz, którego wzór określony jest przepisach wykonawczych wydanych na podstawie art. 88 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 
 **Art. 30.**
 
-1. Przeciwko karne jedynie za zezwoleniem dys cyplinarnego. Do czasu uzyskania zezwolenia na karnego tylko nie
+§ 1. Sędzia nie może być zatrzymany ani pociągnięty do odpowiedzialności karnej bez zezwolenia właściwego sądu dyscyplinarnego. Nie dotyczy to zatrzymania razie ujęcia sędziego na gorącym uczynku popełnienia przestępstwa, jeżeli zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. Do czasu wydania uchwały zezwalającej na pociągnięcie sędziego do odpowiedzialności karnej wolno podejmować tylko czynności niecierpiące zwłoki.
 
-2. Przed wydaniem postanowienia o udzieleniu zezwolenia na karnego na tylko razie go na lenie na karnego. W razie od mowy wydania zezwolenia nadal jest za trzymany, podlega zwolnieniu.
+§ 1a. Jeżeli wniosek o zezwolenie na pociągnięcie sędziego do odpowiedzialności karnej lub tymczasowe aresztowanie dotyczy sędziego ujętego na gorącym uczynku zbrodni lub występku zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 8 lat, występku, o którym mowa art. 177 § 1 Kodeksu karnego związku z art. 178 § 1 Kodeksu karnego, a także art. 178a § 1 lub 4 Kodeksu karnego, i pozostającego nadal zatrzymanym, sąd dyscyplinarny podejmuje uchwałę przedmiocie wniosku niezwłocznie, nie później niż przed upływem 24 godzin od jego wpłynięcia do sądu dyscyplinarnego. Uchwała zezwalająca na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie sędziego jest natychmiast wykonalna.
 
-4. W 7 dni od dnia postanowie nia zezwolenia na wania karnego przeciwko organowi, który o zezwolenie, oraz rzecznikowi dyscyplinarne mu do dyscy plinarnego drugiej instancji.
+§ 2. O zatrzymaniu sędziego niezwłocznie powiadamia się prezesa wojskowego sądu okręgowego właściwego ze względu na miejsce zatrzymania. Może on nakazać natychmiastowe zwolnienie zatrzymanego sędziego. O fakcie zatrzymania sędziego prezes wojskowego sądu okręgowego niezwłocznie zawiadamia Krajową Radę Sądownictwa, Ministra Sprawiedliwości i Ministra Obrony Narodowej.
 
-5. W terminie 4 przy na postanowienie na przeciwko niemu karnego.
+§ 3. Wniosek o zezwolenie na pociągnięcie sędziego do odpowiedzialności karnej, jeżeli nie pochodzi od prokuratora, powinien być sporządzony i podpisany przez adwokata albo radcę prawnego będącego pełnomocnikiem. karnego można wydać, jeżeli zachodzi dostatecznie uzasadnione podejrzenie popełnienia przez niego przestępstwa.
 
-**Art. 31.** Sędziowie nieusuwalni ze swojego sta nowiska, z wypadków przewidzianych ustawie.
+§ 5. Jeżeli wniosek o zezwolenie na pociągnięcie sędziego do odpowiedzialności karnej nie odpowiada warunkom formalnym pisma procesowego określonym Kodeksie postępowania karnego lub jest oczywiście bezzasadny, prezes sądu dyscyplinarnego odmawia jego przyjęcia. Na zarządzenie o odmowie przyjęcia wniosku przysługuje zażalenie do sądu dyscyplinarnego właściwego do rozpoznania wniosku.
+
+§ 6. W terminie siedmiu dni od dnia doręczenia uchwały odmawiającej zezwolenia na pociągnięcie sędziego do odpowiedzialności karnej, organowi lub osobie, która wniosła o zezwolenie, oraz Rzecznikowi Dyscyplinarnemu Sędziów Sądów Wojskowych przysługuje zażalenie do sądu dyscyplinarnego drugiej instancji. W tym samym terminie sędziemu przysługuje zażalenie na uchwałę zezwalającą na pociągnięcie go do odpowiedzialności karnej. Poza tym do postępowania przed sądem dyscyplinarnym sprawach o zezwolenie na pociągnięcie sędziego do odpowiedzialności karnej stosuje się przepisy o postępowaniu dyscyplinarnym.
+
+**Art. 31.** Sędziowie są nieusuwalni ze swojego stanowiska, z wyjątkiem wypadków przewidzianych ustawie.
 
 **Art. 32.**
 
-1. Prezydent Rzeczypospolitej Polskiej na wniosek Krajowej Rady dziego,
+§ 1. Stosunek służbowy sędziego rozwiązuje się z mocy prawa, jeżeli sędzia zrzekł się urzędu lub został przeniesiony stan spoczynku z powodu uznania orzeczeniem wojskowej komisji lekarskiej za trwale niezdolnego do zawodowej służby wojskowej. Zrzeczenie się urzędu jest skuteczne po upływie trzech miesięcy od dnia złożenia na ręce Ministra Sprawiedliwości oświadczenia, chyba że na wniosek sędziego Minister Sprawiedliwości określi inny termin. O rozwiązaniu stosunku służbowego z mocy prawa Minister Sprawiedliwości zawiadamia Krajową Radę Sądownictwa, Ministra Obrony Narodowej i sędziego, z tym że wypadku zrzeczenia się urzędu również Prezydenta Rzeczypospolitej Polskiej.
 
-- **1)** stanowiska,
-- **2)** obywatelstwo polskie lub obywatel stwo innego
-- **3)** wojskowa komisja lekarska jego niezdol do zawodowej wojskowej na stanowi sku
-- **4)** wiek 60 lat.
+§ 2. Sędziego, który zrzekł się urzędu, wyznacza się za jego zgodą ponownie na stanowisko zajmowane poprzednio lub na stanowisko równorzędne poprzednio zajmowanemu, jeżeli nie ma innych przeszkód prawnych i istnieje taka możliwość.
 
-2. Wniosek, wypadkach 1 pkt 2-4, Krajowej Radzie Mini ster Obrony Narodowej po opinii przez Mi nistra
+§ 3. W przypadku nieskorzystania przez sędziego z przysługującego mu prawa, o którym mowa § 2, zwalnia się go z zawodowej służby wojskowej, chociażby nie o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080).
 
-3. z przyczyny 1 pkt 1 wyznacza za jego ponownie na stanowisko zajmowane poprzednio lub na stanowi sko poprzednio zajmowanemu, nie ma innych przeszkód prawnych istnieje taka
+§ 4. (uchylony) § 5. (uchylony) § 6. (uchylony) § 7. (uchylony) § 8. (uchylony) § 9. (uchylony)
 
-4. W wypadku nieskorzystania przez z mu prawa, o którym mowa 3, zwalnia go z zawodowej wojskowej, by nie warunków przepisach o wojskowej zawodowych.
+**Art. 32a.**
+
+§ 1. W przypadku zniesienia sądu wojskowego sędzia tego sądu, na swój wniosek lub za swoją zgodą, jest powoływany, trybie określonym przepisach ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, na urząd sędziego sądu powszechnego, jeżeli nie ma innych przeszkód prawnych.
+
+§ 2. W wypadku przewidzianym § 1 Krajowa Rada Sądownictwa, z inicjatywy zainteresowanego, przedstawia Prezydentowi Rzeczypospolitej Polskiej, bez zasięgania opinii właściwego zgromadzenia sędziów, wniosek o powołanie sędziego sądu wojskowego na urząd sędziego sądu powszechnego.
+
+§ 3. Powołanie sędziego sądu wojskowego na urząd sędziego sądu powszechnego trybie, o którym mowa § 2, następuje odpowiednio: sędzia wojskowego sądu garnizonowego na stanowisko sędziego sądzie rejonowym, a sędzia wojskowego sądu okręgowego na stanowisko sędziego sądzie okręgowym.
+
+§ 4. W razie odmowy przedstawienia Prezydentowi Rzeczypospolitej Polskiej wniosku, o którym mowa § 2, zainteresowanemu służy odwołanie do Sądu Najwyższego.
+
+§ 5. Z chwilą powołania sędziego sądu wojskowego na urząd sędziego sądu powszechnego zwalnia się go, z mocy prawa, z zawodowej służby wojskowej.
 
 **Art. 33.**
 
-1. mianowany, lub wy brany do funkcji organach terytorialnego, dyplomatycznej, konsularnej lub organach organizacji dowych na podstawie umów dowych ratyfikowanych przez jest zrzec swojego stanowiska.
+§ 1. Sędzia, który został mianowany, powołany lub wybrany do pełnienia funkcji organach państwowych, samorządu terytorialnego, służbie dyplomatycznej, konsularnej lub organach organizacji międzynarodowych i ponadnarodowych działających na podstawie umów międzynarodowych ratyfikowanych przez Rzeczpospolitą Polską, jest obowiązany zrzec się niezwłocznie swojego urzędu.
 
-2. który stanowiska z przyczyn 1, na poprzednio zajspolitej Polskiej wniosek o go na poprzed nio zajmowane stanowisko, od liczby sta nowisk danym
+§ 2. Sędzia, który zrzekł się urzędu z przyczyn określonych § 1, może powrócić na urząd sędziego i poprzednio zajmowane stanowisko, jeżeli przerwa pełnieniu obowiązków sędziego nie przekracza dziewięciu lat, chyba że pełnił sądowych.
 
-**Art. 34.** Sędzia traci stanowisko razie:
+§ 3. W wypadku przewidzianym § 2 Krajowa Rada Sądownictwa, z inicjatywy zainteresowanego, po uzyskaniu opinii Zgromadzenia Sądów Wojskowych, przedstawia Prezydentowi Rzeczypospolitej Polskiej wniosek o powołanie byłego sędziego na urząd sędziego na poprzednio zajmowane stanowisko i miejsce służbowe, niezależnie od liczby stanowisk sędziowskich danym sądzie, chyba że nie spełnia on warunków wymaganych do powołania na urząd sędziego.
 
-**Art. 35.** Sędziego nie z zawodowej wojskowej przed go ze stanowiska lub przed przez niego tego stanowiska.
+§ 4. W razie odmowy przedstawienia Prezydentowi Rzeczypospolitej Polskiej wniosku, o którym mowa § 3, zainteresowanemu służy odwołanie do Sądu Najwyższego.
+
+**Art. 34.**
+
+§ 1. Prawomocny wyrok sądu dyscyplinarnego o złożeniu sędziego z urzędu oraz prawomocne orzeczenie sądu orzekające środek karny postaci pozbawienia praw publicznych lub zakazu zajmowania stanowiska sędziego pociąga za sobą, z mocy prawa, utratę urzędu i stanowiska sędziego; stosunek służbowy sędziego wygasa z chwilą uprawomocnienia się orzeczenia lub wyroku.
+
+§ 2. O wygaśnięciu stosunku służbowego, o którym mowa § 1, sędziego zawiadamia Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej.
+
+**Art. 35.**
+
+§ 1. Sędziego nie można zwolnić z zawodowej służby wojskowej przed rozwiązaniem stosunku służbowego z mocy prawa lub przed utratą przez niego stanowiska albo przeniesieniem stan spoczynku.
+
+§ 2. W przypadku, o którym mowa § 1, sędziego zwalnia się z zawodowej służby wojskowej jednocześnie z rozwiązaniem stosunku służbowego z mocy prawa lub utratą przez niego tego stanowiska, a przypadku stanu spoczynku – z dniem podjęcia ostatecznej uchwały o przeniesieniu.
+
+§ 2a. W przypadku przeniesienia stan spoczynku oraz przypadku powołania na urząd sędziego sądu powszechnego trybie określonym art. 32a uznaje się, iż zwolnienie sędziego z zawodowej służby wojskowej nastąpiło drodze wypowiedzenia stosunku służbowego zawodowej służby wojskowej dokonanego przez właściwy organ.
+
+§ 3. Sędziego przenosi się stan spoczynku, jeżeli z powodu choroby lub utraty sił uznany został orzeczeniem wojskowej komisji lekarskiej za niezdolnego do zawodowej służby wojskowej, chyba że na swój wniosek jest powoływany, trybie i 5, na urząd sędziego sądu powszechnego, jeżeli nie ma innych przeszkód prawnych i istnieje taka możliwość.
+
+§ 4. W przypadku uznania sędziego orzeczeniem wojskowej komisji lekarskiej za trwale niezdolnego do zawodowej służby wojskowej Krajowa Rada Sądownictwa, z inicjatywy zainteresowanego, przedstawia Prezydentowi Rzeczypospolitej Polskiej – bez zasięgania opinii właściwego zgromadzenia sędziów – wniosek o powołanie sędziego sądu wojskowego na urząd sędziego sądu powszechnego.
+
+§ 5. Powołanie sędziego sądu wojskowego na urząd sędziego sądu powszechnego trybie, o którym mowa § 3 i 4, następuje sposób, o którym mowa art. 32a § 3.
+
+§ 6. W razie odmowy przedstawienia Prezydentowi Rzeczypospolitej Polskiej wniosku, o którym mowa § 4, zainteresowanemu służy odwołanie do Sądu Najwyższego.
 
 **Art. 36.**
 
-1. który z przyczyn wart. 34 stanowisko, zwalnia z zawodowej wojskowej.
+§ 1. Sędziego, który z przyczyn określonych art. 34 utracił stanowisko, zwalnia się z zawodowej służby wojskowej.
 
-2. Zwolnienie z przyczyn 1 ga za takie same skutki, jak zwolnienie ukaranego z zawodowej wojskowej, przepisach o dyscy plinie wojskowej. 5 dyscyplinarna wojskowych
+§ 2. Zwolnienie z przyczyn określonych § 1 pociąga za sobą takie same skutki, jak zwolnienie żołnierza ukaranego karą dyscyplinarną usunięcia z zawodowej służby wojskowej, przewidzianą przepisach o dyscyplinie wojskowej.
+
+**Art. 36a.**
+
+§ 1. Uposażenie sędziów sądów wojskowych stanie spoczynku i uposażenie rodzinne członków ich rodzin ustala:
+
+- **1)** prezes wojskowego sądu garnizonowego – stosunku do sędziów tego sądu;
+- **2)** prezes wojskowego sądu okręgowego – stosunku do sędziów tego sądu oraz prezesa wojskowego sądu garnizonowego i jego zastępcy;
+- **3)** Minister Sprawiedliwości – stosunku do prezesa wojskowego sądu okręgowego jego zastępców.
+- **4)** (uchylony) § 2. Uposażenie sędziów sądów wojskowych stanie spoczynku i uposażenie rodzinne członków ich rodzin wypłaca wojskowy organ emerytalny.
+
+§ 3. W razie orzeczenia kary wymienionej art. 104 § 3 pkt 4 lub przypadkach przewidzianych art. 104 § 4 ustawy powołanej art. 32a § 1 sędzia pozbawiony prawa do stanu spoczynku i uposażenia albo członek jego rodziny pozbawiony prawa do uposażenia rodzinnego nabywa prawo do zaopatrzenia emerytalnego, jeżeli spełnia warunki określone przepisach ustawy z dnia 10 grudnia z 2025 r. poz. 305).
+
+§ 4. Minister Obrony Narodowej porozumieniu z Ministrem Sprawiedliwości określi, drodze rozporządzenia, szczegółowe zasady i tryb ustalania i wypłacania uposażeń sędziom sądów wojskowych stanie spoczynku oraz uposażeń rodzinnych członkom ich rodzin, mając na uwadze konieczność zapewnienia osobom uprawnionym ciągłości źródeł utrzymania oraz udogodnień odbiorze uposażeń i uposażeń rodzinnych.
+
+#### Rozdział 5 Odpowiedzialność dyscyplinarna sędziów sądów wojskowych
 
 **Art. 37.**
 
-1. Za wykroczenia oraz za przewinienia dyscyplinarne przed dyscyplinarnymi.
+§ 1. Za wykroczenia oraz za przewinienia dyscyplinarne sędziowie ponoszą odpowiedzialność dyscyplinarną przed sądami dyscyplinarnymi.
 
-2. Przewinieniem dyscyplinarnym rozumieniu ustawy jest naruszenie uchy bienie powadze stanowiska naruszenie dyscypliny wojskowej oraz zasad honoru i
+§ 2. Przewinieniem dyscyplinarnym rozumieniu ustawy jest naruszenie obowiązków sędziego, tym:
 
-3. odpowiada dyscyplinarnie za swo je przed stanowiska, przez nie piastowanego wówczas lub niegodnym stano wiska
+- **1)** oczywista i rażąca obraza przepisów prawa;
+- **1a)** odmowa wykonywania wymiaru sprawiedliwości;
+- **2)** działanie lub zaniechanie mogące uniemożliwić lub istotnie utrudnić funkcjonowanie organu wymiaru sprawiedliwości;
+- **3)** działanie kwestionujące istnienie stosunku służbowego sędziego, skuteczność powołania sędziego, lub umocowanie konstytucyjnego organu Rzeczypospolitej Polskiej;
+- **4)** działalność publiczną nie dającą się pogodzić z zasadami niezależności sądów i niezawisłości sędziów;
+- **5)** uchybienie godności urzędu;
+- **6)** naruszenie dyscypliny wojskowej oraz zasad honoru i godności żołnierskiej.
 
-**Art. 38.** Prowadzenie karnego prze ciwko nie wyklucza dyscypli narnego o ten sam czyn.
+§ 3. Sędzia odpowiada dyscyplinarnie także za swoje postępowanie przed objęciem stanowiska, jeżeli przez nie uchybił obowiązkowi piastowanego wówczas urzędu państwowego lub okazał się niegodnym stanowiska sędziego.
+
+§ 4. Nie stanowi przewinienia dyscyplinarnego:
+
+- **1)** okoliczność, że orzeczenie sądowe wydane z udziałem danego sędziego obarczone jest błędem zakresie wykładni i stosowania przepisów prawa krajowego lub prawa Unii Europejskiej lub zakresie ustalenia stanu faktycznego lub oceny dowodów; o rozpatrzenie pytania prejudycjalnego, o którym mowa art. 267 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. U. z 2004 r. poz. 864 i 865, z 2021 r. poz. 1309 i 1852 oraz z 2023 r. poz. 2735);
+- **3)** badanie spełniania wymogów niezawisłości i bezstronności przypadku, o którym mowa art. 23a § 4 lub art. 42a § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, lub art. 5a § 1 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2024 r. poz. 1267), lub badanie spełniania wymogów niezależności lub niezawisłości przypadku, o którym mowa art. 26 § 2 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2024 r. poz. 622), lub badanie spełniania wymogów niezawisłości i bezstronności przypadku, o którym mowa art. 29 § 5 tej ustawy.
+
+**Art. 38.** Prowadzenie postępowania karnego przeciwko sędziemu nie wyklucza postępowania dyscyplinarnego o ten sam czyn.
 
 **Art. 39.**
 
-1. Karami dyscyplinarnymi
+§ 1. Karami dyscyplinarnymi są:
 
-- **1)** upomnienie,
-- **2)** nagana,
-- **3)** wyznaczenie na stanowisko
-- **4)** wydalenie ze 3 lat na stanowisko oraz mianowany na wojskowy, a nie wybrany do kolegium wojskowego i do dyscyplinarnych.
+- **1)** upomnienie;
+- **2)** nagana;
+- **2a)** obniżenie uposażenia zasadniczego sędziego o 5 %–20 % na okres od sześciu miesięcy do dwóch lat;
+- **2b)** kara pieniężna wysokości podlegającego wypłacie za miesiąc poprzedzający wydanie prawomocnego wyroku skazującego jednomiesięcznego wynagrodzenia zasadniczego powiększonego o przysługujący sędziemu dodatek za długoletnią pracę, dodatek funkcyjny i dodatek specjalny;
+- **3)** usunięcie z zajmowanej funkcji;
+- **4)** przeniesienie na inne miejsce służbowe;
+- **5)** złożenie sędziego z urzędu.
+
+§ 1a. Za przewinienie dyscyplinarne określone art. 37 § 2 pkt 2–4, wymierza się karę, o której mowa § 1 pkt 4 lub 5, a przypadku mniejszej wagi – karę, o której mowa § 1 pkt 2a, 2b lub 3.
+
+§ 2. Orzekając karę złożenia sędziego z urzędu, sądy dyscyplinarne mogą wystąpić do właściwego organu z wnioskiem o pozbawienie ukaranego stopnia oficerskiego. wyznaczony przez okres pięciu lat na wyższe sędziowskie stanowisko służbowe, a także nie może być tym czasie członkiem kolegium sądu wojskowego, orzekać sądzie dyscyplinarnym ani objąć sądzie funkcji prezesa sądu, wiceprezesa sądu lub kierownika wydziału zamiejscowego sądu.
+
+§ 3a. Kara określona § 1 pkt 4 polega na zmianie miejsca służbowego sędziego na znajdujące się w:
+
+- **1)** wojskowym sądzie garnizonowym z siedzibą na obszarze innego okręgu wojskowego sądu okręgowego – przypadku sędziego wojskowego sądu garnizonowego;
+- **2)** innym wojskowym sądzie okręgowym – przypadku sędziego wojskowego sądu okręgowego.
+
+§ 3b. Okręg lub sąd, o którym mowa § 3a, określa sąd dyscyplinarny wyroku.
+
+§ 3c. W przypadku gdy określenie miejsca służbowego zgodnie z § 3a pkt 1 byłoby niecelowe z uwagi na szczególne okoliczności związane z ukaranym, sąd dyscyplinarny może określić nowe miejsce służbowe sędziego miejscu znajdującym się sądzie na obszarze tego samego okręgu wojskowego sądu okręgowego.
+
+§ 4. Wymierzenie kary określonej § 1 pkt 5 pociąga za sobą utratę możliwości ponownego powołania ukaranego na urząd sędziego.
+
+§ 5. W wypadku przewinienia dyscyplinarnego lub wykroczenia mniejszej wagi, sąd dyscyplinarny może odstąpić od wymierzania kary.
+
+**Art. 39a.**
+
+§ 1. W sprawach dyscyplinarnych sędziów orzekają:
+
+- **1)** pierwszej instancji: Izbie Odpowiedzialności Zawodowej i jednego ławnika Sądu Najwyższego.
+    - **a)** sądy dyscyplinarne przy wojskowych sądach okręgowych składzie trzech sędziów,
+    - **b)** Sąd Najwyższy składzie dwóch sędziów orzekających Izbie Odpowiedzialności Zawodowej i jednego ławnika Sądu Najwyższego sprawach przewinień dyscyplinarnych wyczerpujących znamiona umyślnych przestępstw ściganych z oskarżenia publicznego, umyślnych przestępstw skarbowych lub sprawach, których Sąd Najwyższy zwrócił się z wnioskiem o rozpoznanie sprawy dyscyplinarnej wraz z wytknięciem uchybienia oraz sprawach, o których mowa art. 37 § 2 pkt 3;
+
+§ 2. Od rozpoznania spraw dyscyplinarnych których właściwy jest sąd dyscyplinarny przy wojskowym sądzie okręgowym, o którym mowa § 1 pkt 1 lit. a jest wyłączony sąd dyscyplinarny, okręgu którego pełni służbę sędzia objęty postępowaniem dyscyplinarnym.
+
+§ 2a. W sprawach, o których mowa art. 30, orzeka pierwszej instancji Sąd Najwyższy składzie jednego sędziego orzekającego Izbie Odpowiedzialności Zawodowej, a drugiej instancji – Sąd Najwyższy składzie trzech sędziów orzekających Izbie Odpowiedzialności Zawodowej.
+
+§ 2b. W sprawach, których właściwy jest Sąd Najwyższy, czynności prezesa sądu dyscyplinarnego wykonuje Prezes Sądu Najwyższego kierujący pracą Izby Odpowiedzialności Zawodowej.
+
+§ 3. (uchylony) § 4. Jeżeli z powodu wyłączenia sędziów rozpoznanie sprawy danym sądzie dyscyplinarnym nie jest możliwe i nie ma również możliwości przekazania tej sprawy innemu równorzędnemu sądowi dyscyplinarnemu, Sąd Najwyższy – Izba Odpowiedzialności Zawodowej przekazuje sprawę do rozpoznania odpowiedniemu sądowi dyscyplinarnemu ustanowionemu dla sędziów sądów powszechnych.
+
+**Art. 39b.**
+
+§ 1. Minister Sprawiedliwości powierza obowiązki sędziego sądu dyscyplinarnego przy wojskowym sądzie okręgowym sędziemu posiadającemu co najmniej dziesięcioletni staż pracy na stanowisku sędziego, po zasięgnięciu opinii Krajowej Rady Sądownictwa.
+
+§ 2. Wykonywanie obowiązków sędziego sądu dyscyplinarnego przy wojskowym sądzie okręgowym jest niezależne od wykonywania obowiązków służbowych związanych z zajmowanym przez sędziego miejscem służbowym.
+
+§ 3. Kadencja sędziego sądu dyscyplinarnego przy wojskowym sądzie okręgowym trwa sześć lat.
+
+§ 4. Po upływie kadencji sędzia sądu dyscyplinarnego przy wojskowym sądzie okręgowym może brać udział rozpoznawaniu sprawy rozpoczętej wcześniej z jego udziałem, do czasu jej zakończenia.
+
+§ 5. Kadencja sędziego sądu dyscyplinarnego przy wojskowym sądzie okręgowym wygasa przed jej upływem przypadku:
+
+- **1)** rozwiązania albo wygaśnięcia stosunku służbowego sędziego;
+- **3)** ukarania sędziego karą dyscyplinarną określoną art. 39 § 1 pkt 2–4.
+
+**Art. 39c.**
+
+§ 1. Prezesa sądu dyscyplinarnego przy wojskowym sądzie okręgowym powołuje spośród sędziów tego sądu dyscyplinarnego Pierwszy Prezes Sądu Najwyższego. Kadencja prezesa sądu dyscyplinarnego przy wojskowym sądzie okręgowym trwa trzy lata.
+
+§ 2. Prezes sądu dyscyplinarnego przy wojskowym sądzie okręgowym może być odwołany przez Pierwszego Prezesa Sądu Najwyższego toku kadencji przypadku:
+
+- **1)** rażącego lub uporczywego niewywiązywania się z obowiązków służbowych;
+- **2)** gdy dalsze pełnienie funkcji z innych powodów nie da się pogodzić z dobrem wymiaru sprawiedliwości;
+- **3)** złożenia rezygnacji z pełnionej funkcji.
+
+§ 3. W razie nieobecności prezesa sądu dyscyplinarnego przy wojskowym sądzie okręgowym jego obowiązki pełni najstarszy służbą sędzia sądu dyscyplinarnego przy wojskowym sądzie okręgowym.
+
+§ 4. Prezes wojskowego sądu okręgowego zapewnia odpowiednie warunki lokalowe i techniczne oraz obsługę administracyjno-finansową sądu dyscyplinarnego przy wojskowym sądzie okręgowym.
+
+**Art. 39d.** Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej określi, drodze rozporządzenia, liczbę sędziów sądach dyscyplinarnych przy wojskowych sądach okręgowych, kierując się względami organizacyjnymi oraz potrzebą zapewnienia sprawnego postępowania sprawach dyscyplinarnych.
 
 **Art. 40.**
 
-1. W dyscyplinarnym bie rze dyscyplinarny.
+§ 1. Oskarżycielem przed sądem dyscyplinarnym sprawach sędziów wojskowych sądów okręgowych, a także prezesów oraz zastępców prezesów wojskowych sądów garnizonowych jest Rzecznik Dyscyplinarny Sędziów Sądów Wojskowych, zaś sprawach pozostałych sędziów – Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych.
 
-2. Kadencja rzecznika dyscyplinarnego z kadencji dyscyplinarnego.
+§ 2. Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych oraz Zastępcę Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych powołuje na czteroletnią kadencję Minister Sprawiedliwości, po zasięgnięciu opinii Ministra Obrony Narodowej i Krajowej Rady Sądownictwa. trzydziestu dni od dnia przedstawienia przez Ministra Sprawiedliwości zamiaru powołania Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych oraz Zastępcy Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych, nie przedstawi opinii, Minister Sprawiedliwości powołuje ich bez opinii.
 
-3. Obwiniony tylko spo wojskowego lub Izby Woj skowej
+§ 4. Rzecznik Dyscyplinarny Sędziów Sądów Wojskowych oraz Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych działają przy Krajowej Radzie Sądownictwa, która zapewnia im obsługę administracyjną przez utworzenie odrębnej komórki organizacyjnej ramach Biura Krajowej Rady Sądownictwa.
+
+§ 5. Rzecznik Dyscyplinarny Sędziów Sądów Wojskowych oraz Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych wykonują swoje obowiązki do czasu powołania osób pełniących te funkcje kolejnej kadencji.
+
+§ 6. Obwiniony może ustanowić obrońcę spośród sędziów, prokuratorów, adwokatów lub radców prawnych.
+
+**Art. 40a.**
+
+§ 1. Minister Sprawiedliwości może powołać Rzecznika Dyscyplinarnego Ministra Sprawiedliwości do prowadzenia określonej sprawy sędziego. Powołanie Rzecznika Dyscyplinarnego Ministra Sprawiedliwości wyłącza innego rzecznika od podejmowania czynności sprawie.
+
+§ 2. Rzecznik Dyscyplinarny Ministra Sprawiedliwości jest powoływany spośród sędziów lub sędziów sądów powszechnych. W sprawie przewinień dyscyplinarnych wyczerpujących znamiona umyślnych przestępstw ściganych z oskarżenia publicznego, Rzecznik Dyscyplinarny Ministra Sprawiedliwości może zostać powołany także spośród prokuratorów wskazanych przez Prokuratora Krajowego. W uzasadnionych przypadkach, szczególności śmierci lub przedłużającej się przeszkody pełnieniu funkcji Rzecznika Dyscyplinarnego Ministra Sprawiedliwości, Minister Sprawiedliwości wyznacza miejsce tej osoby innego sędziego, albo, sprawie przewinienia dyscyplinarnego wyczerpującego znamiona umyślnego przestępstwa ściganego z oskarżenia publicznego, sędziego lub prokuratora.
+
+§ 3. Rzecznik Dyscyplinarny Ministra Sprawiedliwości może wszcząć postępowanie na wniosek Ministra Sprawiedliwości albo wstąpić do toczącego się postępowania. równoznaczne z żądaniem podjęcia postępowania wyjaśniającego albo postępowania dyscyplinarnego.
+
+§ 5. Funkcja Rzecznika Dyscyplinarnego Ministra Sprawiedliwości wygasa z chwilą uprawomocnienia się orzeczenia o odmowie wszczęcia postępowania dyscyplinarnego, umorzeniu postępowania dyscyplinarnego albo uprawomocnienia się orzeczenia kończącego postępowanie dyscyplinarne.
+
+**Art. 40b.** Przepisy art. 41–41aa zakresie dotyczącym Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych stosuje się odpowiednio do Zastępcy Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych i Rzecznika Dyscyplinarnego Ministra Sprawiedliwości.
 
 **Art. 41.**
 
-1. Rzecznik dyscyplinarny wniosek o dyscyplinarnego na nie Ministra Ministra Obrony Naro dowej oraz prezesów wojskowych.
+§ 1. Rzecznik Dyscyplinarny Sędziów Sądów Wojskowych podejmuje czynności dyscyplinarne na żądanie Krajowej Rady Sądownictwa, Ministra Sprawiedliwości, Ministra Obrony Narodowej, prezesów właściwych sądów wojskowych, kolegium, a także z własnej inicjatywy, po wstępnym ustaleniu okoliczności koniecznych dla stwierdzenia znamion przewinienia dyscyplinarnego. Rzecznik Dyscyplinarny Sędziów Sądów Wojskowych, zakresie prowadzenia postępowania wyjaśniającego, jest związany wskazaniem organu uprawnionego. Czynności wyjaśniające powinny być przeprowadzone terminie trzydziestu dni od dnia podjęcia pierwszej czynności przez Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych.
 
-2. Rzecznik dyscyplinarny przeprowadza wanie, które ma na celu okolicz koniecznych do ustalenia znamion czynu zarzu canego obwinionemu oraz zgromadzenie i utrwalenie dowodów dla dyscyplinarnego, tym przez obwinionego.
+§ 2. (uchylony) § 3. (uchylony) § 4. (uchylony) § 5. (uchylony)
+
+**Art. 41a.**
+
+§ 1. Sąd dyscyplinarny rozpoznaje sprawę dyscyplinarną na rozprawie, chyba że wystarczające jest rozpoznanie sprawy na posiedzeniu, terminie 30 dni od wpływu wniosku o rozpoznanie sprawy dyscyplinarnej.
+
+§ 2. Jeżeli przewinienie zawiera znamiona przestępstwa, sąd dyscyplinarny z urzędu rozpoznaje sprawę zakresie zezwolenia na pociągnięcie sędziego do odpowiedzialności karnej i wydaje postanowienie przedmiocie zezwolenia, o którym mowa art. 30 § 1, co nie wstrzymuje biegu postępowania dyscyplinarnego. postanowienia i zarządzenia zamykających drogę do wydania wyroku przysługuje odwołanie obwinionemu i Rzecznikowi Dyscyplinarnemu Sędziów Sądów Wojskowych, a także Krajowej Radzie Sądownictwa, Ministrowi Sprawiedliwości oraz Ministrowi Obrony Narodowej, którym doręcza się odpis orzeczenia.
+
+§ 4. Rozstrzygnięcia zapadające toku postępowania dyscyplinarnego wymagają z urzędu uzasadnienia na piśmie i doręczenia ich stronom. Art. 41aa. § 1. Sąd dyscyplinarny, uznając na podstawie materiału zebranego przez Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych, że okoliczności czynu i wina obwinionego nie budzą wątpliwości, a wystarczające będzie wymierzenie kar określonych art. 39 § 1 pkt 1–3, może wydać wyrok nakazowy.
+
+§ 2. Wyrok nakazowy wydaje sąd dyscyplinarny składzie jednego sędziego.
+
+§ 3. Wyrokiem nakazowym karę, o której mowa art. 39 § 1 pkt 2a, orzeka się wymiarze od 5 % do 10 % uposażenia zasadniczego na okres od sześciu miesięcy do roku.
+
+§ 4. Od wyroku nakazowego obwinionemu, Rzecznikowi Dyscyplinarnemu Sędziów Sądów Wojskowych, Krajowej Radzie Sądownictwa, Ministrowi Sprawiedliwości i Ministrowi Obrony Narodowej służy sprzeciw.
+
+§ 5. Sprzeciw wnosi się do sądu dyscyplinarnego, który wydał wyrok nakazowy, terminie zawitym siedmiu dni od dnia jego doręczenia.
+
+**Art. 41b.**
+
+§ 1. Sąd dyscyplinarny może zawiesić czynnościach służbowych sędziego, przeciwko któremu wszczęto postępowanie dyscyplinarne lub o ubezwłasnowolnienie.
+
+§ 1a. Jeżeli sąd dyscyplinarny wydaje uchwałę zezwalającą na pociągnięcie sędziego do odpowiedzialności karnej za przestępstwo umyślne, z urzędu zawiesza sędziego czynnościach służbowych, a wydając uchwałę zezwalającą na pociągnięcie sędziego do odpowiedzialności karnej za przestępstwo nieumyślne, może z urzędu zawiesić sędziego czynnościach służbowych.
+
+§ 2. Zawieszenie czynnościach sędziego pociąga za sobą skutki zawieszenia czynnościach służbowych na podstawie przepisów o dyscyplinie wojskowej; nie dotyczy to osób, stosunku do których wszczęto postępowanie o ubezwłasnowolnienie. postępowania, o którym mowa § 1, jeżeli sąd dyscyplinarny wcześniej nie uchylił zawieszenia.
+
+§ 4. Na uchwałę przedmiocie zawieszenia czynnościach sędziego przysługuje zażalenie do sądu drugiej instancji. Wniesienie zażalenia nie wstrzymuje wykonania uchwały.
+
+**Art. 41c.**
+
+§ 1. Przewodniczący sądu dyscyplinarnego pierwszej instancji przesyła odpis prawomocnego wyroku sądu dyscyplinarnego Krajowej Radzie Sądownictwa, Ministrowi Sprawiedliwości i Ministrowi Obrony Narodowej, a ponadto prezesowi właściwego sądu i kolegium.
+
+§ 2. Wykonanie wyroku należy do Ministra Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej.
+
+**Art. 41d.** Minister Sprawiedliwości ma wgląd czynności sądu dyscyplinarnego pierwszej instancji.
 
 **Art. 42.**
 
-1. Odpis prawomocnego wyroku cego na do akt osobo wych ukaranego.
+§ 1. Odpis prawomocnego wyroku skazującego na karę dyscyplinarną oraz odpis prawomocnego wyroku określonego art. 39 § 5 dołącza się do akt osobowych sędziego.
 
-2. Po 3 lat od uprawomocnienia wy roku wart. 39 1 pkt 1-3, a po 5 lat od uprawomocnienia wyroku wart. 39 1 pkt 4, Minister Obrony Narodowej na wniosek ukara nego odpisu wyroku z akt osobo wych, tym okresie nie wydano przeciwko uka ranemu innego wyroku 6 Asesorzy wojskowych
+§ 2. Po upływie pięciu lat od dnia uprawomocnienia się wyroku orzekającego karę przewidzianą art. 39 § 1 pkt 1–4 oraz wyroku określonego art. 39 § 5, Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej zarządza usunięcie odpisu wyroku z akt osobowych, jeżeli tym okresie nie wydano przeciwko sędziemu innego wyroku skazującego. W takim przypadku dopuszczalne jest tylko jednoczesne usunięcie z akt osobowych sędziego odpisów wszystkich wyroków.
 
-**Art. 43.**
+§ 3. Prezes sądu prowadzący akta osobowe sędziego niezwłocznie zawiadamia Ministra Sprawiedliwości o wystąpieniu okoliczności, o których mowa § 2 zdanie pierwsze.
 
-1. Asesorem wojskowego, zwanym dalej "asesorem", zawodowy i wojskowy korpusie oficerów, który wymagania okre art. 22 1 pkt 1-5.
+**Art. 42a.** Krajowa Rada Sądownictwa, Pierwszy Prezes Sądu Najwyższego, Minister Sprawiedliwości oraz Minister Obrony Narodowej mogą wystąpić o wznowienie postępowania dyscyplinarnego.
 
-2. Asesora i Minister Spra porozumieniu z Ministrem Obrony Na rodowej.
+#### Rozdział 6
 
-3. asesorski odbywa wojskowym dzie garnizonowym, trwa on co najmniej 2 lata i nie 4 lata, przy czym przez okres 6 ase sor wykonuje rejono wym.
+#### Rozdział 8 Ławnicy
 
-**Art. 44.** Do asesorów stosuje przepisy art. 28 i 29.
-
-**Art. 45.** Minister porozumieniu z Ministrem Obrony Narodowej ase sorowi pełnie!1ie czynności sędziowskich wojsko wym garnizonowym oraz wojskowym jako
-
-**Art. 46.**
-
-1. Do asesorów, którym powierzono nienie stosuje przepisy do Asesor na roz prawie lub na posiedzeniach tylko wówczas, gdy ustawa przewiduje rozpoznawanie sprawy dzie jednego i dwóch
-
-2. Przed asesor, któremu powierzono wobec prezesa wojskowego wanie.
-
-3. Asesor nie nadzoru peniten cjarnego.
-
-**Art. 47.** Asesorzy, którym nie powierzono czynno na zasa dach do zawodowych, z tym prawo karania ich za przewinienia dyscyplinarne i Ministrowi Obrony Narodowej.
-
-**Art. 48.** Minister Obrony Narodowej porozumie niu z Ministrem nienie wojskowym garnizonowym oficerowi rezerwy czenia wojskowe, który jest asesorem powszech nego i ma uprawnienia do dziowskich. 7 Aplikanci
-
-**Art. 49.**
-
-1. Aplikantem wojskowym, zwa nym dalej "aplikantem", zawodowy i wojskowy korpusie oficerów, który wymagania okre wart. 22 1 pkt 1-3.
-
-2. Aplikanta wojskowym garnizonowym i Minister poro zumieniu z Ministrem Obrony Narodowej.
-
-**Art. 50.**
-
-1. Aplikant odbywa po wszechnym na zasadach i sposób dla apli kantów a wojskowym.
-
-2. Aplikacja trwa 2 lata i 6
-
-3. Po okresu aplikacji aplikant eg zamin W wypadku niedostatecznego wyni5. Aplikant zostaje zwolniony z zawodowej wojskowej razie do egzaminu, nie dostatecznego wyniku egzaminu lub nie mianovyania go ases9rem.
-
-6. Przepisu 5 nie stosuje gdy or gan wojskowy, za aplikanta, wyznaczy go na in ne stanowisko wojskowe.
-
-7. Zezwolenia na zdawanie egzaminu szym terminie od przewidzianego 3 udzie razie stwierdzenia do egzaminu tym terminie. Zezwolenia udziela prezes wojskowego
-
-**Art. 51.** Przed aplikant da wobec prezesa wojskowego bowanie roty przewidzianej dla aplikantów dowych.
-
-**Art. 52.** Minister porozumieniu z Ministrem Obrony Narodowej drodze roz tryb przeprowadzenia konkursu na stano wisko aplikanta, przebieg aplikacji, zakres egzaminu oraz komisji egzaminacyjnej, zasady wynagradzania komisji i sposób jej
-
-**Art. 53.** Aplikanci na za sadach do zawodowych, z tym prawo karania ich za przewinienia dyscyplinar ne i Ministrowi Obrony Narodowej. 8
-
-**Art. 54.** Ławnikiem wojskowym, zwanym dalej tylko czynnej wojskowej, a przypadkach ustawie powszechnego.
+**Art. 54.** Ławnikiem sądzie wojskowym, zwanym dalej „ławnikiem”, może być tylko żołnierz czynnej służbie wojskowej, a przypadkach określonych ustawie – również ławnik sądu powszechnego.
 
 **Art. 55.**
 
-1. który:
+§ 1. Ławnikiem może być żołnierz, który:
 
-- **1)** 181at i korzysta z praw cywilnych i obywa telskich,
-- **2)** jest nieskazitelnego charakteru oraz wykonywaniu i przestrzega niu dyscypliny wojskowej.
+- **1)** ukończył 18 lat i korzysta z praw cywilnych i obywatelskich;
+- **2)** jest nieskazitelnego charakteru oraz wyróżnia się wykonywaniu zadań służbowych i przestrzeganiu dyscypliny wojskowej.
 
-2. nie który departamencie, o którym mowa wart. 5 4, wojskowym, wojskowej jednostce organi zacyjnej prokuratury lub wojskowej.
+§ 2. Ławnikiem nie może być żołnierz, który pełni służbę sądzie wojskowym, wojskowej jednostce organizacyjnej prokuratury lub żandarmerii wojskowej.
 
-3. Nie cej jednym dów wojskowych, kandydatów na
+§ 3. Nie można być ławnikiem jednocześnie więcej niż jednym sądzie.
 
-3. Kadencja ławnika trwa 3' lata.oŁawników będą cych woj skową wybiera się na okres odbywania 'tej służby. .
+**Art. 56.**
 
-4. wybieranych do poszczegól nych wojskowych oraz termin ich wyboru okre prezesi wojskowych.
+§ 1. Ławników wybiera się do wojskowych sądów okręgowych.
 
-**Art. 57.** Ławnik wojskowego wyzna czony do sprawach przed tego samego
+§ 2. Ławników wybiera się większością głosów na zebraniach żołnierzy jednostek wojskowych, stacjonujących na obszarze właściwości poszczególnych sądów wojskowych, spośród kandydatów zgłoszonych na zebraniu.
+
+§ 3. Kadencja ławnika trwa 3 lata. Ławników będących żołnierzami pełniącymi zasadniczą służbę wojskową wybiera się na okres odbywania tej służby.
+
+§ 4. Liczbę ławników wybieranych do poszczególnych sądów wojskowych oraz termin ich wyboru określają prezesi właściwych sądów wojskowych.
+
+**Art. 57.** (uchylony)
 
 **Art. 58.**
 
-1. Mandat wygasa:
+§ 1. Mandat ławnika wygasa:
 
-- **1)** razie
-- **2)** z kadencji,
-- **3)** z dniem zwolnienia z czynnej wojskowej, razie przeniesienia do orga nach wymienionych wart. 55 2,
-- **5)** razie przeniesienia do innej jednostki wojskowej, na obszarze innego du wojskowego,
-- **6)** razie skazania prawomocnym wyrokiem lub warunkowego umorzenia karne go,
-- **7)** razie orzeczenia prawomocnym wyrokiem o ograniczeniu lub utracie praw cywilnych,
-- **8)** razie wydania przez honorowy albo ko orzeczenia winnym naruszenia honoru i
-- **9)** razie przez zebranie jednostce wojskowej, której
-- **10)** wskutek zrzeczenia mandatu.
+- **1)** razie śmierci;
+- **2)** z upływem kadencji;
+- **3)** z dniem zwolnienia z czynnej służby wojskowej;
+- **4)** razie przeniesienia do pełnienia służby organach wymienionych art. 55 § 2;
+- **5)** razie przeniesienia do innej jednostki wojskowej, stacjonującej na obszarze właściwości innego sądu wojskowego; postępowania karnego;
+- **7)** razie orzeczenia prawomocnym wyrokiem o ograniczeniu lub utracie praw cywilnych;
+- **8)** razie ukarania prawomocnym orzeczeniem dyscyplinarnym;
+- **9)** razie odwołania ławnika przez zebranie żołnierzy jednostce wojskowej, której pełni służbę;
+- **10)** wskutek zrzeczenia się mandatu.
 
-2. Prezes stwierdza cie mandatu
+§ 2. Prezes właściwego sądu stwierdza wygaśnięcie mandatu ławnika.
 
 **Art. 59.**
 
-1. Zebranie jednostce wojsko wej, której razie:
+§ 1. Zebranie żołnierzy jednostce wojskowej, której ławnik pełni służbę, odwołuje ławnika większością głosów razie:
 
-- **1)** niewykonywania
-- **2)** zachowania
-- **3)** utraty warunków, o których mowa wart. 55 1 pkt 2.
+- **1)** niewykonywania obowiązków ławnika;
+- **2)** zachowania godzącego powagę sądu;
+- **3)** utraty warunków, o których mowa art. 55 § 1 pkt 2.
 
-2. Zebranie o którym mowa 1, mo z inicjatywy lub na wnio sek prezesa wojskowego.
+§ 2. Zebranie żołnierzy, o którym mowa § 1, może odwołać ławnika z własnej inicjatywy lub na wniosek prezesa właściwego sądu wojskowego.
 
 **Art. 60.**
 
-1. W wypadku mandatu lub dokonuje razie potrzeby, wy boru nowego
+§ 1. W wypadku wygaśnięcia mandatu lub odwołania ławnika dokonuje się, razie potrzeby, wyboru nowego ławnika.
 
-**Art. 61.** W wypadkach wart. 58 1 pkt 2, 3 i 5 jeszcze wyznaczony do udzia rozpoznaniu sprawy z jegoprted dniem mandatu, do czasu jej czenia. ..
+§ 2. Dodatkowe wybory ławników zarządza prezes właściwego sądu wojskowego.
 
-**Art. 62.** Ławnicy składają ślubow~nie według roty ustalonej dla wobec prezesa wojskowego, który po odebraniu dokonu je wpisu na
+§ 3. Mandat ławnika wybranego dodatkowo czasie trwania kadencji wygasa z upływem kadencji ogółu ławników sądu.
 
-**Art. 63.** Ławnicy garnizonach, poza miejscem rozpoznania sprawy, zawo dowym z
+**Art. 61.** W wypadkach określonych art. 58 § 1 pkt 2, 3 i 5 ławnik może jeszcze być wyznaczony do udziału rozpoznaniu sprawy rozpoczętej z jego udziałem przed dniem wygaśnięcia mandatu, do czasu jej zakończenia.
 
-**Art. 64.** Minister Obrony Narodowej porozumie niu z Ministrem drodze roz oraz zasady wybierania i ków. 9 Zmiany przepisach oraz przepisy i
+**Art. 62.** Ławnicy składają ślubowanie według roty ustalonej dla sędziów wobec prezesa właściwego sądu wojskowego, który po odebraniu ślubowania dokonuje wpisu na listę ławników.
 
-**Art. 65.** W ustawie z dnia 21 maja 1963 r. o dyscy plinie wojskowej oraz o za przewinienia dyscyplinarne i za naruszenie honoru i (Dz. U. z 1992 r. 5, poz. 17) wprowadza zmiany:
+**Art. 63.** Ławnicy pełniący czynną służbę wojskową garnizonach, poza miejscem rozpoznania sprawy, otrzymują należności przysługujące żołnierzom zawodowym z tytułu podróży służbowej. Sprawiedliwości określa, drodze rozporządzenia, organizację zebrań żołnierskich oraz szczegółowe zasady wybierania i odwoływania ławników.
 
-**Art. 66.** W ustawie z dnia 30 czerwca 1970 r. o bie wojskowej zawodowych (Dz. U. z 1997 r. 10, poz. 55, 28, poz. 153, 106, poz. 678 i 107, poz. 688) wart. 75 po ust. 2 dodaje ust. 2a -2c brzmieniu: ,,2a. Zwolnienie z powodu wieku rza zawodowego, wojsko wego, przepisy Prawo o ustroju dów wojskowych. 2b. Przepis ust. 2a stosuje do Izby Woj skowej 2c. Zwolnienie z powodu wieku zawodowego, prokuratorem wojsko wej jednostki organizacyjnej prokuratury, puje po przez niego 60 lat." nie Wojskowych."
+#### Rozdział 8a Asystenci sędziów, urzędnicy i inni pracownicy sądów wojskowych
 
-**Art. 68.** W ustawie z dnia 20 czerwca 1985 r. o pro kuraturze (Dz. U. z 1994 r. 19, poz. 70, 105, poz. 509, z 1995 r. 34, poz. 163, z 1996 r. 77, poz. 367 oraz z 1997 r. 90, poz. 557, 98, poz. 604 i 106, poz. 679) wprowadza zmiany:
+**Art. 64a.** W sądach wojskowych mogą być zatrudniani asystenci sędziów.
 
-**Art. 69.** W ustawie z dnia 20 grudnia 1989 r. o Kra jowej Radzie (Dz. U. 73, poz. 435, z 1990 r. 53, poz. 306, z 1993 r. 47, poz. 213 i z 1996 r. 72, poz. 347) wprowadza zmiany:
+**Art. 64b.**
+
+§ 1. W sądach wojskowych są zatrudniani urzędnicy i inni pracownicy sądowi.
+
+§ 2. Zasady zatrudniania urzędników i innych pracowników sądów wojskowych oraz ich obowiązki i prawa określają przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2025 r. poz. 1332).
+
+#### Rozdział 9 Zmiany przepisach obowiązujących oraz przepisy przejściowe i końcowe
 
 **Art. 70.**
 
-1. Do wojskowych, oraz tych stosuje odpowiednio przepi sy art. 5-8, art. 23-26, art. 36, 36 42-47, art. 49, art. 52 2, art. 53, 54, 56, art. 59 1 pkt 4 i 3, art. 61, 67,68 2, art. 69 1, art. 70, 72, 75, 78, 81, 83, 84, 85 2, art. 87, 88 2-4, art. 89-96, art. 98-106, art. 111, 133 1 pkt 5, art. 141 3, art. 143, 144 3 i art. 145-148 ustawy z dnia 20 czerwca 1985 r. Prawo o ustroju dów powszechnych (Dz. U. z 1994 r. 7, poz. 25, 77, poz. 355, 91, poz. 421, 105, poz. 509, z 1995 r. 34, poz. 163 i 81, poz. 406, z 1996 r. 77, poz. 367 oraz z 1997 r. 75, poz. 471, 98, poz. 604 i 106, poz. 679), z tym tych przepisach woje wódzkiego prezesa tego wykonuje woj skowy prezes tego uprawnienie wart. 72 je wojskowego nie prawa do urlopu dodatkowego przepisach o wojskowej zawo dowych,
+§ 1. Do sądów wojskowych, asystentów sędziów oraz ławników stosuje się odpowiednio przepisy art. 4, art. 5, art. 8, art. 9c, art. 9d, art. 20a, art. 22b § 2, art. 37 § 8, art. 37e § 1 i 3, art. 40, art. 41a–41d, art. 42, art. 44–52, art. 53 § 1–3, art. 54, art. 57 § 1 i 7 zdanie pierwsze i drugie, art. 58 § 1, 3–4a, 5 i 6, art. 60, art. 65, art. 66, art. 69 § 1 i 1b–2a, art. 70, art. 71, art. 73–75, art. 77 § 2–2b, 3c–4a i 6–6b, art. 78 § 1–4, art. 78a § 1–3 i 6, art. 79, art. 80 § 2d–2h i 4, art. 82a, art. 83, art. 84 § 3, art. 85, art. 86, art. 88a–90, art. 91 § 1, 1c–2, 6, 7 i 9–12, art. 91a, art. 92, art. 93, art. 94 § 1, 3 i 4, art. 95, art. 98 § 1 i 2, art. 99, art. 100 § 1–4, art. 101 § 2–4, art. 102, art. 104–106, art. 108, art. 109a, art. 109b, art. 111, art. 113 § 2–4, art. 113b, art. 114 § 2–13, art. 115, art. 115a, art. 115c–118, art. 120–122, art. 125–128, art. 130, art. 131, art. 133, art. 133a, art. 147 § 3, art. 156, art. 159 § 1 pkt 5 i 6, art. 167, art. 169, art. 170 § 3 i art. 171–174 ustawy, o której mowa art. 32a § 1, oraz przepisy wykonawcze wydane na podstawie art. 41 § 2, art. 41e, art. 57 § 9, art. 78 § 5, art. 78a § 7, art. 91 § 8 i art. 148 § 3 tej ustawy, z tym że:
 
-- **3)** uprawnienia wart. 146-148 wypadku wart. 61 niniejszej usta wy.
+- **1)** określone przepisach czynności i uprawnienia Ministra Sprawiedliwości, zgromadzenia ogólnego sędziów, kolegium sądu, prezesów sądów rejonowych, okręgowych i apelacyjnych oraz prezesa sądu dyscyplinarnego wykonują odpowiednio: Minister Sprawiedliwości porozumieniu z Ministrem Obrony sądu okręgowego, prezesi sądów wojskowych i prezes sądu dyscyplinarnego, a czynności i uprawnienia prezesa sądu apelacyjnego zakresie nadzoru administracyjnego – Minister Sprawiedliwości;
+- **2)** uprawnienia określone art. 92 § 1 powołanej ustawy przysługują, jeżeli sędzia wojskowy nie nabył wcześniej prawa do urlopu dodatkowego określonego przepisach ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny;
+- **3)** oceny pracy sędziów sądów wojskowych dokonują sędziowie wizytatorzy, powoływani przez Ministra Sprawiedliwości spośród sędziów wojskowego sądu okręgowego, po zasięgnięciu opinii kolegium wojskowego sądu okręgowego; negatywna opinia kolegium jest dla Ministra Sprawiedliwości wiążąca; kandydatów do sprawowania funkcji wizytatora zgłasza prezes wojskowego sądu okręgowego;
+- **4)** przepisów art. 131 powołanej ustawy nie stosuje się przypadkach określonych art. 15 niniejszej ustawy;
+- **5)** uprawnienia określone art. 172–174 powołanej ustawy przysługują przypadku określonym art. 61 niniejszej ustawy;
+- **6)** uprawnienia określone art. 172 § 3 i 4a oraz art. 173 powołanej ustawy nie przysługują ławnikom czynnej służbie wojskowej;
+- **7)** obsada wolnych stanowisk sędziowskich, o których mowa art. 20a § 1–2a powołanej ustawy, następuje z uwzględnieniem potrzeb kadrowych sądownictwa wojskowego;
+- **8)** zgłoszenia kandydatury na wolne stanowisko sędziowskie dokonuje się poprzez złożenie karty zgłoszenia dwóch egzemplarzach; nie ma zastosowania system teleinformatyczny obsługujący postępowanie sprawie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego.
 
-2. W sprawach nie uregulowanych ustawie pra wa i asesorów wojskowych oraz aplikantów wojskowych prze pisy o wojskowej zawodowych.
+§ 1a. (uchylony) § 2. W sprawach nieuregulowanych ustawie prawa i obowiązki sędziów sądów wojskowych określają przepisy o służbie wojskowej żołnierzy zawodowych.
 
-3. asesorów i aplikantów, o których mowa 2, przepisy o z tym nie ono od wyna grodzenia asesorów i aplikantów po wszechnych na stanowiskach ustalo nych przez Prezydenta Rzeczypospolitej Polskiej.
+§ 3. Uposażenie sędziów sądów wojskowych określają przepisy o uposażeniu żołnierzy, z tym że nie może być ono niższe od wynagrodzenia sędziów sądów powszechnych na stanowiskach równorzędnych, ustalonych przez Prezydenta Rzeczypospolitej Polskiej.
 
-4. W stosunku do asesorów i aplikantów, o których mowa 2, nie stosuje art. 17 ust. 1 usta wy z dnia 30 czerwca 1970 r. o wojskowej nierzy zawodowych (Dz. U. z 1997 r. 10, poz. 55, 28, poz. 153, 106, poz. 678 i 107, poz. 688) kontraktowej.
+§ 4. (uchylony)
 
-**Art. 71.** Do pracowników wojskowych sto suje odpowiednio przepisy ustawy z dnia 16 wrze 1982 r. o pracownikach (Dz. U. 31, poz. 214, z 1984 35, poz. 187, z 1988 r. 19., poz. 132, z 1989 r. 4, poz. 24, 34, poz. 178 i poz. 182, z 1990 r. 20, poz. 121, z 1991 r. 55, poz. 234, 88, poz. 400 i 95, poz. 425, z 199? r. 54, poz. 254 i 90, poz. 451, z 1994 r. 136, poz. 704, z 1995 r. 132, poz. 640, z 1996 r. 89, ustawie sprawuje Prezes Izby Wojskowej Naj a funkcje tego departamentu organy nadzoru Izby Wojskowej go.
+**Art. 72.** (pominięty)
 
 **Art. 73.**
 
-1. którzy dniu cie ustawy wojskowych garnizo nowych i wojskowych nadal na dotychczasowych stanowiskach wych.
+§ 1. Sędziowie, którzy dniu wejścia życie ustawy są sędziami wojskowych sądów garnizonowych i wojskowych sądów okręgowych, pozostają nadal na dotychczasowych stanowiskach służbowych.
 
-2. Przepis 1 stosuje odpowiednio do aplikan tów i asesorów garnizonowych.
+§ 2. Przepis § 1 stosuje się odpowiednio do aplikantów i asesorów sądów garnizonowych.
 
-3. wojskowi Izbie Wojskowej dotychczas nad zoru administracyjnego nad wojskowymi, oraz wojskowi wyznaczeni na stanowiska Biu rze Nadzoru Pozainstancyjnego Izbie Wojskowej du z dniem usta wy wojskowych
+§ 3. Sędziowie wojskowi Izbie Wojskowej Sądu Najwyższego, wykonujący dotychczas czynności nadzoru administracyjnego nad sądami wojskowymi, oraz sędziowie wojskowi wyznaczeni na stanowiska Biurze Nadzoru Pozainstancyjnego Izbie Wojskowej Sądu Najwyższego stają się z dniem wejścia życie ustawy sędziami wojskowych sądów okręgowych.
 
-4. o których mowa 3, wyznaczeni na stanowiska w:
+§ 4. Sędziowie, o których mowa § 3, mogą być wyznaczeni na stanowiska służbowe w:
 
-- **1)** Biurze Nadzoru Pozainstancyjnego Izbie Wojsko wej
-- **2)** departamencie, o którym mowa wart. 5 4,
-- **3)** wojskowym
+- **1)** Biurze Nadzoru Pozainstancyjnego Izbie Wojskowej Sądu Najwyższego;
+- **2)** departamencie, o którym mowa art. 5 § 4;
+- **3)** wojskowym sądzie okręgowym.
 
-**Art. 75.** Ilekroć innych ustawach jest mowa o sze fie wojskowego lub jego przez to prezesa wojskowego lub jego
+§ 5. Wyznaczenia, o którym mowa § 4 pkt 3, dokonuje Minister Sprawiedliwości porozumieniu z Ministrem Obrony Narodowej.
 
-**Art. 76.** Postępowanie dyscyplinarne przed dniem niniejszej ustawy prowa dzi nadal przepisów dotychczasowych.
+**Art. 74.** Po wejściu życie ustawy kadencję, o której mowa art. 10 § 2, rozpoczyna Prezes Wojskowego Sądu Okręgowego Warszawie.
 
-**Art. 77.** Do osób, które asesorski lub wojskowych przed dniem ustawy, stosuje przepisy do tychczasowe.
+**Art. 75.** Ilekroć innych ustawach jest mowa o szefie sądu wojskowego lub jego zastępcy, należy przez to rozumieć prezesa sądu wojskowego lub jego zastępcę.
 
-**Art. 78.** Do czasu wydania przepisów wykonaw czych przewidzianych ustawie, nie jednak przez okres 6 a zakresie art. 18 3 3 od dnia ustawy, za moc przepisy dotychczas o ile nie z sprzeczne.
+**Art. 76.** Postępowanie dyscyplinarne wszczęte przed dniem wejścia życie niniejszej ustawy prowadzi się nadal według przepisów dotychczasowych.
 
-**Art. 79.** Traci moc ustawa z dnia 8 czerwca 1972 r. o ustroju wojskowych (Dz. U. 23, poz. 166, z 1989 r. 73, poz. 436, z 1991 r. 113, poz. 491, z 1995 89, poz. 443, z 1996 r. 7, poz. 44 i z 1997 r. 98, poz. 604).
+**Art. 77.** Do osób, które rozpoczęły staż asesorski lub aplikację sądową sądach wojskowych przed dniem wejścia życie ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 80.** Ustawa wchodzi z dniem 1 stycznia 1998 r. Prezydent Rzeczypospolitej Polskiej: A. o ISSN 0867-3411 Cena 1 60 gr
+**Art. 78.** (pominięty)
+
+**Art. 79.** Traci moc ustawa z dnia 8 czerwca 1972 r. o ustroju sądów wojskowych (Dz. U. poz. 166, z 1989 r. poz. 436, z 1991 r. poz. 491, z 1995 r. poz. 443, z 1996 r. poz. 44 oraz z 1997 r. poz. 604).
 

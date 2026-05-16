@@ -8,9 +8,10 @@ pos: 2550
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia
+# Ustawa z dnia 12 grudnia 2019 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o Krajowej Administracji Skarbowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,31 +25,37 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2550/text.pdf) |
 
-USTAWA dnia 12 grudnia o zmianie o systemie ubezpieczeń społecznych oraz o Krajowej Administracji Skarbowej
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. poz. 300, późn. zm. ) wprowadza następujące zmiany:
+**Art. 48c.**
 
-**Art. 3.** Do okresów ustalania podstawy wymiaru na ubezpieczenia emerytalne i rentowe, o których mowa 18c 11 pkt 6 zmienianej 1 brzmieniu nadanym niniejszą ustawą, zalicza okresy ustalania najniższej podstawy wymiaru na ubezpieczenia emerytalne i rentowe zgodnie 18c 1 zmienianej 1 brzmieniu dotychczasowym.
+1. Ubezpieczony ustalający podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe zgodnie z art. 18c, na żądanie Zakładu, jest obowiązany przedstawić dokumenty potwierdzające zastosowane formy opodatkowania obowiązujące tego ubezpieczonego w poprzednim roku kalendarzowym oraz wysokość rocznego przychodu z pozarolniczej działalności gospodarczej i rocznego dochodu z tej działalności uzyskanych w poprzednim roku kalendarzowym, w terminie 14 dni od dnia doręczenia wezwania, pod rygorem ustalenia przez Zakład za wszystkie miesiące danego roku kalendarzowego podstawy wymiaru składek na zasadach określonych w art. 18 ust. 8.
+
+2. Zakład może żądać od ubezpieczonego dokumentów potwierdzających informacje, o których mowa w ust. 1, jeżeli nie posiada tych informacji i nie może uzyskać do nich dostępu na podstawie odrębnych przepisów albo ma uzasadnione wątpliwości co do poprawności lub kompletności tych informacji. ” .
+
+**Art. 2.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r. poz. 768, 730, 1520, 1556 i 2200) wprowadza się następujące zmiany:
+
+**Art. 3.** Do okresów ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe, o których mowa w art. 18c ust. 11 pkt 6 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, zalicza się okresy ustalania najniższej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe zgodnie z art. 18c ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
 **Art. 4.**
 
-1. Ubezpieczony, który na 2020 ustalał najniższą podstawę wymiaru na ubezpieczenia emerytalne i rentowe zgodnie 18c 1 zmienianej 1 brzmieniu dotychczasowym po wejściu życie niniejszej ustala podstawę wymiaru na te ubezpieczenia zgodnie 18c 1 zmienianej 1 brzmieniu nadanym niniejszą ustawą bez złożenia zgłoszenia wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych, o których mowa 36 14 zmienianej 1.
+1. Ubezpieczony, który na 2020 r. ustalał najniższą podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe zgodnie z art. 18c ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym po wejściu w życie niniejszej ustawy ustala podstawę wymiaru składek na te ubezpieczenia zgodnie z art. 18c ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą bez złożenia zgłoszenia wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych, o których mowa w art. 36 ust. 14 ustawy zmienianej w art. 1.
 
-2. Ubezpieczony, o którym mowa 1, przekazuje:
+2. Ubezpieczony, o którym mowa w ust. 1, przekazuje:
 
-- **1)** informację, o której mowa 18c zmienianej 1 brzmieniu dotychczasowym odpowiednio imiennym raporcie miesięcznym albo deklaracji rozliczeniowej, składanych za styczeń 2020 r., oraz
-- **2)** informację, o której mowa 18c zmienianej 1 brzmieniu nadanym niniejszą ustawą odpowiednio imiennym raporcie miesięcznym albo deklaracji rozliczeniowej, składanych za luty 2020 terminach określonych 47 1 pkt 1 3 zmienianej 1.
+- **1)** informację, o której mowa w art. 18c ust. 9 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym odpowiednio w imiennym raporcie miesięcznym albo w deklaracji rozliczeniowej, składanych za styczeń 2020 r., oraz
+- **2)** informację, o której mowa w art. 18c ust. 9 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą odpowiednio w imiennym raporcie miesięcznym albo w deklaracji rozliczeniowej, składanych za luty 2020 r. w terminach określonych w art. 47 ust. 1 pkt 1 lub 3 ustawy zmienianej w art. 1.
 
 **Art. 5.**
 
-1. Ubezpieczony, o którym mowa 8 6 pkt 1 zmienianej 1, który ustala na 2020 podstawę wymiaru na ubezpieczenia emerytalne i rentowe zgodnie 18c 1 zmienianej 1 brzmieniu nadanym niniejszą ustawą i:
+1. Ubezpieczony, o którym mowa w art. 8 ust. 6 pkt 1 ustawy zmienianej w art. 1, który ustala na 2020 r. podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe zgodnie z art. 18c ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą i:
 
-- **1)** przed dniem wejścia życie niniejszej ustalał podstawę wymiaru na ubezpieczenia emerytalne i rentowe sposób inny niż określony 18c 1 zmienianej 1 brzmieniu dotychczasowym zawiadamia Zakład Ubezpieczeń Społecznych o zmianie danych dotyczących tytułu ubezpieczenia przez złożenie zgłoszenia wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych, o którym mowa 36 14 zmienianej 1, zawierającego prawidłowe dane,
-- **2)** rozpoczął wznowił prowadzenie pozarolniczej działalności gospodarczej lutym 2020 r., dokonuje zgłoszenia do ubezpieczeń społecznych, o którym mowa 36 4b zmienianej 1 terminie do końca lutego 2020
+- **1)** przed dniem wejścia w życie niniejszej ustawy ustalał podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe w sposób inny niż określony w art. 18c ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zawiadamia Zakład Ubezpieczeń Społecznych o zmianie danych dotyczących tytułu ubezpieczenia przez złożenie zgłoszenia wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych, o którym mowa w art. 36 ust. 14 ustawy zmienianej w art. 1, zawierającego prawidłowe dane,
+- **2)** rozpoczął lub wznowił prowadzenie pozarolniczej działalności gospodarczej w lutym 2020 r., dokonuje zgłoszenia do ubezpieczeń społecznych, o którym mowa w art. 36 ust. 4b ustawy zmienianej w art. 1 w terminie do końca lutego 2020 r.
 
-2. Jeżeli termin określony 1 jest krótszy niż 7 dni, ubezpieczony składa zgłoszenie wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych albo zgłoszenie do ubezpieczeń społecznych, terminie 7 dni odpowiednio od zaistnienia zmiany danych albo od daty powstania obowiązku ubezpieczenia.
+2. Jeżeli termin określony w ust. 1 jest krótszy niż 7 dni, ubezpieczony składa zgłoszenie wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych albo zgłoszenie do ubezpieczeń społecznych, w terminie 7 dni odpowiednio od zaistnienia zmiany danych albo od daty powstania obowiązku ubezpieczenia.
 
-3. Objęcie dobrowolnie ubezpieczeniem chorobowym przypadkach, o których mowa 1, następuje od dnia wskazanego we wniosku o objęcie ubezpieczeniami emerytalnym, rentowymi i chorobowym, o ile ubezpieczony dokona zgłoszenia, o którym mowa odpowiednio 1 pkt 1 2, terminie określonym 1.
+3. Objęcie dobrowolnie ubezpieczeniem chorobowym w przypadkach, o których mowa w ust. 1, następuje od dnia wskazanego we wniosku o objęcie ubezpieczeniami emerytalnym, rentowymi i chorobowym, o ile ubezpieczony dokona zgłoszenia, o którym mowa odpowiednio w ust. 1 pkt 1 lub 2, w terminie określonym w ust. 1.
 
-**Art. 6.** Ustawa wchodzi życie dniem 1 lutego 2020
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 lutego 2020 r.
 

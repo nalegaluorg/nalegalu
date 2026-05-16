@@ -1,0 +1,174 @@
+---
+title: "Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz niektórych innych ustaw"
+address: WDU20170001387
+eli: DU/2017/1387
+publisher: DU
+year: 2017
+pos: 1387
+act_type: Ustawa
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz niektórych innych ustaw
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 1387 |
+| ISAP | WDU20170001387 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2017-07-07 |
+| Data wydania | 2017-07-18 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001387) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1387/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2017 r. poz. 1210) wprowadza się następujące zmiany:
+
+**Art. 27.**
+
+1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego przekazują operatorowi systemu przesyłowego gazowego lub operatorowi systemów połączonych gazowych informacje o miejscu magazynowania zapasów obowiązkowych gazu ziemnego w celu weryfikacji technicznych możliwości dostarczenia tych zapasów do systemu gazowego – do dnia 15 czerwca każdego roku.
+
+2. Przedsiębiorstwa i podmioty, o których mowa w ust. 1, przedstawiają ministrowi właściwemu do spraw energii i Prezesowi URE informacje o:
+
+- **1)** rzeczywistej wielkości utrzymywanych zapasów obowiązkowych gazu ziemnego oraz miejscu ich magazynowania, według stanu na dzień 15 września – do dnia 20 września każdego roku;
+- **2)** działaniach podjętych w okresie od dnia 1 stycznia do dnia 31 grudnia poprzedniego roku, w celu zapewnienia bezpieczeństwa paliwowego państwa w zakresie obrotu gazem ziemnym z zagranicą lub przywozu gazu ziemnego oraz realizacji obowiązku utrzymywania zapasów obowiązkowych gazu ziemnego – do dnia 15 maja każdego roku.
+
+3. Prezes URE ma prawo wglądu do dokumentów przedsiębiorstw lub podmiotów, o których mowa w art. 24 ust. 1 oraz w art. 24b ust. 1, oraz może żądać przedstawienia dokumentów lub informacji dotyczących wykonywanej przez te przedsiębiorstwa lub podmioty działalności w zakresie utrzymywania zapasów obowiązkowych gazu ziemnego, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych. ” ;
+
+- **7)** w art. 30: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4. Kontrola, o której mowa w ust. 1, polega na analizie wyjaśnień oraz dokumentów przedstawionych przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego, lub podmiot któremu zlecono utrzymywanie zapasów obowiązkowych gazu ziemnego. ” , w ust. 8 zdanie pierwsze otrzymuje brzmienie: „ W przypadku odmowy podpisania protokołu z kontroli przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego, lub podmiot któremu zlecono utrzymywanie zapasów obowiązkowych gazu ziemnego, kontrolujący dokonuje stosownej adnotacji w protokole. ” , ust. 9 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+
+9. Prezes URE może wezwać przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą, podmiot dokonujący przywozu gazu ziemnego lub podmiot, któremu zlecono utrzymywanie zapasów obowiązkowych gazu ziemnego do usunięcia uchybień określonych w protokole z kontroli, wyznaczając termin ich usunięcia. ” ;
+
+- **8)** art. 52 otrzymuje brzmienie: „
+
+**Art. 52.**
+
+1. Operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych uruchamia zapasy obowiązkowe gazu ziemnego po uzyskaniu zgody, o której mowa w art. 26 ust. 1, w ilościach niezbędnych do bilansowania systemu gazowego w okresie występowania zakłóceń w dostarczaniu gazu ziemnego lub nieprzewidzianego wzrostu jego zużycia, o których mowa w art. 49 ust. 1.
+
+2. Operatorzy, o których mowa w ust. 1, informują o uruchomieniu zapasów obowiązkowych gazu ziemnego utrzymywanych w instalacjach magazynowych:
+
+- **1)** na terytorium Rzeczypospolitej Polskiej – operatora systemu magazynowania,
+- **2)** poza terytorium Rzeczypospolitej Polskiej – przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego, którzy utrzymują te zapasy, lub podmiot, któremu zlecono utrzymywanie zapasów obowiązkowych gazu ziemnego najpóźniej w dniu uruchomienia tych zapasów.
+
+3. Operator systemu magazynowania gazu ziemnego przekazuje niezwłocznie przedsiębiorstwom energetycznym wykonującym działalność w zakresie obrotu gazem ziemnym z zagranicą lub podmiotom dokonującym przywozu gazu ziemnego, lub podmiotom, którym zlecono utrzymywanie zapasów obowiązkowych gazu ziemnego, utrzymującym zapasy obowiązkowe gazu ziemnego w zarządzanych przez niego instalacjach magazynowych, informację o uruchomieniu zapasów obowiązkowych gazu ziemnego.
+
+4. W przypadku uruchomienia zapasów obowiązkowych:
+
+- **1)** operator systemu magazynowania – w stosunku do zapasów obowiązkowych gazu ziemnego utrzymywanych na terytorium Rzeczypospolitej Polskiej,
+- **2)** przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą, podmiot dokonujący przywozu gazu ziemnego lub podmiot, któremu zlecono utrzymywanie zapasów obowiązkowych gazu ziemnego – w stosunku do zapasów obowiązkowych gazu ziemnego utrzymywanych poza terytorium Rzeczypospolitej Polskiej po otrzymaniu informacji, o której mowa w ust. 2, dostarczają do systemu gazowego gaz ziemny w ilościach i w terminach wskazanych przez operatora systemu przesyłowego lub operatora systemów połączonych.
+
+5. W przypadku uruchomienia zapasów obowiązkowych gazu ziemnego z instalacji magazynowej na terytorium Rzeczypospolitej Polskiej, w której zapasy te są utrzymywane przez więcej niż jedno przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą, podmiot dokonujący przywozu gazu ziemnego lub podmiot, któremu zlecono utrzymywanie zapasów obowiązkowych gazu ziemnego, przyjmuje się, że uruchomiono zapasy obowiązkowe gazu ziemnego w ilościach proporcjonalnych do wielkości zapasów obowiązkowych gazu ziemnego utrzymywanych przez każde z tych przedsiębiorstw lub podmiotów w tej instalacji magazynowej.
+
+6. W okresie uruchomienia zapasów obowiązkowych gazu ziemnego operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych dokonuje bilansowania systemu przesyłowego gazowego z uwzględnieniem art. 2 rozporządzenia Komisji (UE) nr 312/2014 z dnia 26 marca 2014 r. ustanawiającego kodeks sieci dotyczący bilansowania gazu w sieciach przesyłowych (Dz. Urz. UE L 91 z 27.03.2014, str. 15).
+
+7. W okresie uruchomienia zapasów obowiązkowych gazu ziemnego operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych:
+
+- **1)** dokonuje rozliczeń finansowych za pobrane ilości gazu ziemnego od przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub od podmiotów dokonujących przywozu gazu ziemnego, których zapasy obowiązkowe gazu ziemnego zostały uruchomione;
+- **2)** dokonuje rozliczeń finansowych z tytułu dostarczonych ilości gazu ziemnego podmiotom zlecającym usługę przesyłania lub dystrybucji gazu ziemnego, na rzecz których zapasy obowiązkowe gazu ziemnego zostały uruchomione;
+- **3)** bilansuje system przesyłowy gazowy oraz prowadzi rozliczenia z użytkownikami tego systemu z tytułu niezbilansowania;
+- **4)** zapewnia neutralność kosztową działalności w zakresie bilansowania systemu przesyłowego gazowego przez przeniesienie kosztów i przychodów z tytułu prowadzenia tej działalności na użytkowników systemu gazowego.
+
+8. Rozliczenia kosztów wynikających z uruchomienia zapasów obowiązkowych gazu ziemnego, prowadzone są dla każdej doby gazowej rozumianej jako okres od godziny 600danego dnia do godziny 600następnego dnia, w której nastąpiło uruchomienie tych zapasów odrębnie z:
+
+- **1)** przedsiębiorstwami energetycznymi wykonującymi działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiotami dokonującymi przywozu gazu ziemnego zobowiązanymi do utrzymywania zapasów obowiązkowych gazu ziemnego, których zapasy obowiązkowe zostały uruchomione lub z podmiotami przyjmującymi zlecenie wykonywania zadań w zakresie utrzymywania zapasów obowiązkowych gazu ziemnego,
+- **2)** podmiotami zlecającymi usługi przesyłania lub dystrybucji gazu ziemnego, na rzecz których nastąpiło uruchomienie zapasów obowiązkowych gazu ziemnego po zakończeniu miesiąca, w którym uruchomiono te zapasy.
+
+9. Minister właściwy do spraw energii może określić, w drodze rozporządzenia:
+
+- **1)** sposób prowadzenia rozliczeń za uruchomione zapasy obowiązkowe gazu ziemnego oraz kalkulacji ceny za paliwa gazowe stosowanej do tych rozliczeń,
+- **2)** szczegółowy sposób bilansowania systemu przesyłowego gazowego i prowadzenia rozliczeń z tytułu jego niezbilansowania w okresie uruchomienia zapasów obowiązkowych gazu ziemnego biorąc pod uwagę konieczność zapewnienia bezpieczeństwa paliwowego państwa, potrzebę zapewnienia neutralności kosztowej działań bilansujących podejmowanych przez operatora systemu przesyłowego gazowego lub operatora systemów połączonych gazowych, równoprawne traktowanie przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą, podmiotów dokonujących przywozu gazu ziemnego oraz innych użytkowników systemu gazowego, a także przejrzysty i obiektywny charakter przyjętego systemu rozliczeń. ” ;
+- **9)** po art. 52 dodaje się art. 52a w brzmieniu: „
+
+1. Operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych, po zakończeniu każdej doby gazowej, w której uruchomiono zapasy obowiązkowe gazu ziemnego, do godziny 1200, przekazuje ministrowi właściwemu do spraw energii oraz Prezesowi URE informacje o:
+
+- **1)** terminie i ilości uruchomionych zapasów obowiązkowych gazu ziemnego w tej dobie gazowej oraz instalacjach magazynowych, z których zostały uruchomione;
+- **2)** przedsiębiorstwach energetycznych i podmiotach, o których mowa w art. 52 ust. 7 pkt 1, od których zostały odebrane zapasy obowiązkowe gazu ziemnego w tej dobie gazowej.
+
+2. Informacje, o których mowa w ust. 1 pkt 1, przekazują operatorowi systemu przesyłowego gazowego lub operatorowi systemów połączonych gazowych:
+
+- **1)** operator systemu magazynowania, w zakresie zapasów obowiązkowych gazu ziemnego utrzymywanych na terytorium Rzeczypospolitej Polskiej, oraz
+- **2)** przedsiębiorstwo energetyczne wykonujące działalność w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego, w zakresie zapasów obowiązkowych gazu ziemnego utrzymywanych przez te podmioty poza terytorium Rzeczypospolitej Polskiej po zakończeniu każdej doby gazowej, w której doszło do uruchomienia tych zapasów, do godziny 1000.
+
+3. Operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych, po zakończeniu każdego miesiąca gazowego, rozumianego jako okres od godziny 600pierwszego dnia danego miesiąca do godziny 600 pierwszego dnia kolejnego miesiąca, w którym uruchomiono zapasy obowiązkowe gazu ziemnego, przekazuje ministrowi właściwemu do spraw energii oraz Prezesowi URE raport obejmujący w formie zbiorczej informacje, o których mowa w ust. 1.
+
+4. Po zakończeniu miesiąca gazowego, w którym uruchomiono zapasy obowiązkowe gazu ziemnego, operator systemu magazynowania przekazuje operatorowi systemu przesyłowego gazowego lub operatorowi systemów połączonych gazowych, oraz przedsiębiorstwom energetycznym lub podmiotom, o których mowa w art. 52 ust. 7 pkt 1, informacje o ilościach gazu ziemnego stanowiących podstawę do prowadzenia rozliczeń za odebrane zapasy obowiązkowe gazu ziemnego niezwłocznie po ich ustaleniu. ” ;
+
+- **10)** w art. 59 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** dysponuje pełną mocą i pojemnością instalacji magazynowania gazu ziemnego oraz skraplania gazu ziemnego przyłączonych do systemu gazowego oraz dysponuje zapasami obowiązkowymi gazu ziemnego. ” ;
+- **11)** w art. 63: w ust. 1: – po pkt 5a dodaje się pkt 5b i 5c w brzmieniu: „ 5b) wykorzystuje zdolności przesyłowe zarezerwowane na potrzeby dostarczenia całkowitych ilości zapasów obowiązkowych gazu ziemnego utrzymywanych poza terytorium Rzeczypospolitej Polskiej do sieci przesyłowej lub dystrybucyjnej krajowej w sposób niezgodny z art. 24a ust. 3; 5c) nie ustali wielkości zapasów obowiązkowych gazu ziemnego lub nie przedstawi Prezesowi URE informacji o wielkości zapasów obowiązkowych w celu weryfikacji; ” , – pkt 6 otrzymuje brzmienie: „ 6) będąc osobą kierującą działalnością przedsiębiorstwa lub podmiotu, o którym mowa w art. 24, nie przedstawi, w wyznaczonym terminie, informacji, o których mowa w art. 27 ust. 1 i 2, albo przedstawi w tej informacji dane nieprawdziwe; ” , – po pkt 6a dodaje się pkt 6b i 6c w brzmieniu: „ 6b) nie dopełnia obowiązku poinformowania Prezesa URE o zamiarze rozpoczęcia przywozu gazu ziemnego, o którym mowa w art. 25 ust. 6; 6c) świadomie lub w wyniku niedbalstwa wprowadza w błąd Prezesa URE w zakresie przedstawionych na jego żądanie informacji, o których mowa w art. 27 ust. 3, lub odmawia ich udzielenia; ” , – pkt 19 otrzymuje brzmienie: „ 19) będąc osobą kierującą działalnością przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiotu dokonującego przywozu gazu ziemnego, lub podmiotu, któremu zlecono utrzymywanie zapasów obowiązkowych gazu ziemnego, nie usunie, w wyznaczonym terminie, uchybień do czego został zobowiązany na podstawie art. 30 ust. 9; ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+4. W przypadkach, o których mowa w ust. 1 pkt 3a-5a, 6 i pkt 19b, kara pieniężna wynosi od dwukrotnego do dziesięciokrotnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, obowiązującego w kwartale, w którym nastąpiło niedopełnienie obowiązku. ” , po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „
+
+- **c)**
+
+6a. W przypadku, o którym mowa w ust. 1 pkt 5b i 5c, kara pieniężna wynosi od 1% do 15% przychodu ukaranego przedsiębiorcy osiągniętego w poprzednim roku podatkowym, a jeżeli kara dotyczy działalności wykonywanej na podstawie koncesji, wysokość kary wynosi od 1% do 15% przychodu ukaranego przedsiębiorcy, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
+
+6b. W przypadkach, o których mowa w ust. 1 pkt 6b i 6c, kara pieniężna wynosi od 5000 zł do 50 000 zł. ” ;
+
+- **12)** w art. 64: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) pkt 1, 2, 3, 5b, 5c, 6, 6b, 6c, 11, 16 i 18a w zakresie kontroli, o której mowa w art. 30 ust. 1, oraz pkt 19 i 19b – wymierza Prezes URE; 2) pkt 1–5a, 7, 8, 18 i 18a z wyłączeniem kontroli, o której mowa w art. 30 ust. 1, oraz pkt 18b i 20 – wymierza Prezes Agencji; ” , – pkt 7 otrzymuje brzmienie: „ 7) pkt 6a, 17 i 19a – wymierza minister właściwy do spraw energii. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Prezes Agencji wymierza kary, o których mowa w art. 63 ust. 1 pkt 1–5a, 7, 8, 18, pkt 18a z wyłączeniem kontroli, o której mowa w art. 30 ust. 1, oraz pkt 18b i 20, w drodze decyzji, od której przysługuje odwołanie do ministra właściwego do spraw energii. ” , ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+
+3. Prezes URE wymierza kary, o których mowa w art. 63 ust. 1 pkt 1, 2, 3, 5b, 5c, 6, 6b, 6c, 11, 16 i 18a w zakresie kontroli, o której mowa w art. 30 ust. 1, oraz pkt 19 i 19b, w drodze decyzji, od której przysługuje odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów. ” ;
+
+- **13)** uchyla się art. 65;
+- **14)** w art. 66: w ust. 4 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** wniesienia skargi do sądu administracyjnego lub odwołania do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów od decyzji w sprawie nałożenia kary pieniężnej. ” , w ust. 5 pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** orzeczenie sądu stało się prawomocne. ” , dodaje się ust. 7 i 8 w brzmieniu: „
+    - **c)**
+
+7. Kary pieniężne, o których mowa w art. 64 ust. 1 pkt 1 i 3–7, płatne są na konto właściwego urzędu skarbowego.
+
+8. Kary pieniężne, o których mowa w art. 64 ust. 1, uiszcza się w terminie 14 dni od dnia, w którym decyzja o ich wymierzeniu stała się prawomocna. ” .
+
+**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, 791 i 1089) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 22 lipca 2016 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1165 i 1986) art. 37 otrzymuje brzmienie: „
+
+**Art. 37.**
+
+1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego, które w dniu wejścia w życie niniejszej ustawy nie utrzymują zapasów obowiązkowych gazu ziemnego, ustalają wielkość zapasów obowiązkowych na okres od dnia 1 października 2017 r. do dnia 30 września 2018 r. Informacje o wielkości zapasów obowiązkowych przedsiębiorstwa i podmioty przekazują Prezesowi Urzędu Regulacji Energetyki do dnia 5 sierpnia 2017 r., w celu ich weryfikacji. Prezes URE, w drodze decyzji, dokonuje weryfikacji tych informacji na podstawie danych o wielkości dokonanego przywozu w okresie od dnia 1 stycznia 2017 r. do dnia 30 czerwca 2017 r. wynikających ze sprawozdań statystycznych sporządzanych przez to przedsiębiorstwo lub podmiot oraz danych przekazanych w trybie art. 49c ust. 1 ustawy zmienianej w art. 1.
+
+2. Prezes Urzędu Regulacji Energetyki przedstawia ministrowi właściwemu do spraw energii oraz operatorowi systemu przesyłowego gazowego informacje o wielkościach zapasów obowiązkowych gazu ziemnego ustalonych zgodnie z ust. 1, do dnia 5 września 2017 r. ” .
+
+**Art. 4.** Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego przedstawia ministrowi właściwemu do spraw energii i Prezesowi Urzędu Regulacji Energetyki informacje o rzeczywistej wielkości zapasów obowiązkowych gazu ziemnego utrzymywanych w okresie od dnia 1 października 2017 r. do dnia 30 września 2018 r. oraz miejscu ich magazynowania, według stanu na dzień 1 października 2017 r. – do dnia 10 października 2017 r.
+
+**Art. 5.** Wterminie trzech miesięcy od dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 52 ust. 9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, operator systemu przesyłowego gazowego przedłoży Prezesowi Urzędu Regulacji Energetyki do zatwierdzenia instrukcję ruchu i eksploatacji sieci przesyłowej, o której mowa w art. 9g ustawy zmienianej w art. 2, dostosowaną do treści tych przepisów wykonawczych, w trybie określonym w art. 9g ustawy zmienianej w art. 2.
+
+**Art. 6.**
+
+1. W celu weryfikacji technicznych możliwości dostarczenia zapasów obowiązkowych gazu ziemnego utrzymywanych w instalacjach poza granicami Rzeczypospolitej Polskiej do systemu gazowego przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego przedstawia operatorowi systemu przesyłowego gazowego lub operatorowi systemów połączonych gazowych:
+
+- **1)** informacje o miejscu magazynowania zapasów obowiązkowych gazu ziemnego w wielkości ustalonej zgodnie z art. 37 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą,
+- **2)** dokumenty umożliwiające weryfikację technicznych możliwości dostarczenia do sieci przesyłowej lub dystrybucyjnej krajowej całkowitej ilości zapasów gazu ziemnego utrzymywanych w instalacjach magazynowych poza terytorium Rzeczypospolitej Polskiej, w szczególności umowy, o których mowa w art. 24a ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą do dnia 10 września 2017 r.
+
+2. W celu weryfikacji technicznych możliwości dostarczenia zapasów obowiązkowych gazu ziemnego utrzymywanych w instalacjach na terytorium Rzeczypospolitej Polskiej do systemu gazowego:
+
+- **1)** przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego przedstawia informacje o miejscu magazynowania zapasów obowiązkowych gazu ziemnego w wielkości ustalonej zgodnie z art. 37 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą,
+- **2)** operator systemu magazynowania przedstawia charakterystykę instalacji magazynowej, w której są utrzymywane zapasy obowiązkowe gazu ziemnego wraz ze szczegółowym wykazem podmiotów utrzymujących zapasy obowiązkowe w tej instalacji i ilością tych zapasów operatorowi systemu przesyłowego gazowego lub operatorowi systemów połączonych gazowych, do dnia 10 września 2017 r.
+
+3. Operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych przedstawi Prezesowi Urzędu Regulacji Energetyki informacje o zdolnościach przesyłowych zarezerwowanych na potrzeby dostarczania całkowitych ilości zapasów obowiązkowych gazu ziemnego utrzymywanych poza terytorium Rzeczypospolitej Polskiej do sieci przesyłowej lub dystrybucyjnej krajowej do dnia 10 października 2017 r.
+
+**Art. 7.** Obowiązku utrzymywania zapasów nie stosuje się do:
+
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+

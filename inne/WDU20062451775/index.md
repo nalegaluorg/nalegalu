@@ -8,9 +8,10 @@ pos: 1775
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ń6) umyślnie powoduje opuszczenie przez suŃ4) będąc pierwszym przetwórcą, zbywa suro- rowiec tytoniowy punktu odbioru surowca wiec tytoniowy lub surowiec tytoniowy po tytoniowego lub przyjmuje ten surowiec pierwszym przetworzeniu niezgodnie z wa- wcelu innym niż określony wart. 30 7”.
+# Ustawa z dnia 7 grudnia 2006 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej i niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,44 +25,191 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062451775) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1775/text.pdf) |
 
-runkami określonymi art. 29 1 lub 2,”, Art. 2.Pierwsi przetwórcy dostosują swoją działalność do wymagań określonych wart. 29 3 ustawy,
-b) po pkt 4 dodaje się pkt 4a brzmieniu: októrej mowa wart. 1, wterminie 30 dni od dnia wejŃ4a) będąc pierwszym przetwórcą, przechowuje ścia życie niniejszej ustawy.
-surowiec tytoniowy lub surowiec tytonio- Art. 3. Ustawa wchodzi życie po upływie 14 dni wy po pierwszym przetworzeniu niezgod- od dnia ogłoszenia.
-nie z warunkami określonymi art.29 3,”, Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
-USTAWA z dnia 7 grudnia 2006 r.
-o zmianie ustawy o postępowaniu sprawach dotyczących publicznej i niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291 oraz z 2006 r. Nr 191, poz. 1411) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 30 kwietnia 2004 r. o po- rotem produktami rybołówstwa (Dz. Urz. stępowaniu wsprawach dotyczących publicz- UE L 291 z 14.09.2004, str. 3), nej (Dz. U. 123, poz. 1291 oraz z 2006 r. 191, e) rozporządzeniem Komisji (WE) nr 1/2004 poz. 1411) wprowadza się następujące zmiany: z dnia 23 grudnia 2003 r. sprawie stoso1) art. 1 pkt 2 otrzymuje brzmienie: wania art. 87 i88 Traktatu WE wodniesieniu do państwa dla małych i średnich Ń2) zasady współpracy Prezesa Urzędu Ochrony przedsiębiorstw prowadzących działalność Konkurencji i Konsumentów, zwanego dalej związaną z produkcją, przetwórstwem i obŃPrezesem Urzędu”, oraz ministra właściwego rotem produktami rolnymi (Dz. Urz. UE L 1 do spraw rolnictwa zpodmiotami opracowują- z3.01.2004, str. 1; Dz. Urz. UE Polskie wydacymi programy pomocowe, podmiotami nie specjalne, rozdz. 8, t. 3, str. 24);”, udzielającymi pomocy, podmiotami ubiegającymi się o pomoc oraz beneficjentami pomo- b) po pkt 4 dodaje się pkt 4a brzmieniu: cy, zakresie publicznej;”; Ń4a) rozporządzeniu o de minimis wrolnictwie irybołówstwie należy przez
+**Art. 3.** Zasady dopuszczalności udzielania pomocy publicznej określają przepisy art. 16, art. 36, art. 73 oraz art. 86–89 Traktatu WE. ” ;
 
-**Art. 2.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z2006 r. 136, poz. 969 i 191, poz. 1412) art. 13e otrzymuje brzmienie: ŃArt. 13e. Rada gminy, drodze uchwały, może wprowadzić inne zwolnienia i ulgi przedmiotowe niż określone ustawie, z uwzględnieniem przepisów dotyczących publicznej.”.
+**Art. 5.**
 
-**Art. 3.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. 121, poz. 844, 220, poz. 1601 i 225, poz. 1635) wprowadza się następujące zmiany:
+1. Przy obliczaniu pomocy de minimis nie wlicza się pomocy publicznej udzielonej w ramach programu pomocowego, pomocy indywidualnej oraz pomocy indywidualnej na restrukturyzację, zatwierdzonych przez Komisję zgodnie z art. 88 Traktatu WE, pomocy udzielanej w ramach wyłączeń grupowych, a także pomocy de minimis w rolnictwie lub rybołówstwie.
 
-**Art. 4.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. 45, poz. 435, z póên. zm. ) art. 14 5 otrzymuje brzmienie: Ń5. Właściciele lub użytkownicy wieczyści gruntów mogą otrzymać dotacje z budżetu państwa przeznaczone na całkowite lub częściowe pokrycie kosztów zalesienia gruntów, o których mowa 3. Decyzję sprawie przyznania środków na pokrycie tych kosztów wydaje starosta na wniosek właściciela lub użytkownika wieczystego, po zaopiniowaniu przez wójta (burmistrza, prezydenta miasta), zuwzględnieniem przepisów dotyczących publicznej.”.
+2. Przepis ust. 1 stosuje się odpowiednio do obliczania pomocy de minimis w rolnictwie lub rybołówstwie.
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, z póên. zm. ) art. 105 1 pkt 2 lit. p kropkę zastępuje się przecinkiem i dodaje się lit. r brzmieniu: Ńr) Prezesa Urzędu Ochrony Konkurencji i KonsuArt. 6. W ustawie z dnia 30 paêdziernika 2002 r. o podatku leśnym (Dz. U. 200, poz. 1682, z póên. zm. mentów zakresie określonym ustawą z dnia 30 kwietnia 2004 r. o postępowaniu sprawach dotyczących publicznej (Dz. U. 123, ) art. 7 3 otrzymuje brzmienie: Ń3. Rada gminy, drodze uchwały, może wprowadzić inne zwolnienia przedmiotowe niż określone 1, z uwzględnieniem przepisów dotyczących publicznej.”.
+3. Podmioty udzielające pomocy wydają beneficjentowi pomocy zaświadczenie stwierdzające, że udzielona pomoc publiczna jest pomocą de minimis albo pomocą de minimis w rolnictwie lub rybołówstwie.
 
-**Art. 7.** Wustawie zdnia 22 września 2006 r. oprzejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. 191, poz. 1411) wart. 21 pkt 3 otrzymuje brzmienie: Ń3) art. 44 1 otrzymuje brzmienie: Ń1. Za niewykonanie lub nienależyte wykonanie obowiązków, o których mowa art. 21 2 i art. 39, oraz za utrudnianie przeprowadzenia kontroli u beneficjenta pomocy, Prezes Urzędu, a zakresie publicznej rolnictwie lub rybołówstwie minister właściwy do spraw rolnictwa, może, drodze decyzji, nałożyć na beneficjenta karę pieniężną do wysokości równowartości 10 000 euro.”.”.
+4. Rada Ministrów określi, w drodze rozporządzenia, formę i treść zaświadczeń, o których mowa w ust. 3, oraz terminy lub sposób ich wydawania, biorąc pod uwagę konieczność zapewnienia przejrzystości informacji o pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie udzielanej poszczególnym beneficjentom pomocy oraz monitorowania krajowego limitu skumulowanej kwoty pomocy de minimis w rolnictwie lub rybołówstwie. ” ;
+
+- **6)** w art. 7 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+
+3a. Projekt programu pomocowego przewidujący udzielanie pomocy de minimis w rolnictwie lub rybołówstwie podlega wyłącznie zgłoszeniu ministrowi właściwemu do spraw rolnictwa, który w terminie 14 dni może przedstawić zastrzeżenia dotyczące przejrzystości zasad udzielania pomocy.
+
+3b. Przepisu ust. 3a nie stosuje się w przypadku projektu programu pomocowego przewidującego udzielanie pomocy de minimis w rolnictwie lub rybołówstwie opracowywanego przez ministra właściwego do spraw rolnictwa. ” ;
+
+- **7)** art. 8 i 9 otrzymują brzmienie: „
 
 **Art. 8.**
 
-1. Podmiot ubiegający się opomoc de minimis wrolnictwie lub rybołówstwie jest obowiązany do przedstawienia podmiotowi udzielającemu oświadczenia, że okresie od dnia 1 stycznia 2005 r. do dnia wejścia życie niniejszej ustawy:
+1. W przypadku programu pomocowego, w którym akt prawa miejscowego przewiduje udzielanie pomocy publicznej zgodnie z warunkami udzielania pomocy określonymi w rozporządzeniach wydanych na podstawie ustaw zawierających upoważnienie do wydania aktów prawa miejscowego, notyfikacji podlegają wyłącznie projekty tych rozporządzeń.
 
-- **1)** nie otrzymał de minimis rolnictwie lub rybołówstwie albo
-- **2)** otrzymał pomoc de minimis wrolnictwie lub rybołówstwie, ze wskazaniem szczególności podmiotu, który udzielił pomocy, dnia otrzymania pomocy, podstawy prawnej, wysokości, formy iprzeznaczenia tej pomocy.
+2. Organ jednostki samorządu terytorialnego przesyła do Prezesa Urzędu akt prawa miejscowego, o którym mowa w ust. 1, w terminie 30 dni od dnia wejścia w życie tego aktu.
 
-2. Obowiązek, októrym mowa wust. 1, wygasa po upływie 3 lat od dnia wejścia życie niniejszej ustawy.
+**Art. 9.** Notyfikacji podlega również zmiana, o której mowa w art. 4 ust. 1 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (WE) nr 659/1999 ustanawiającego szczegółowe zasady stosowania art. 93 Traktatu WE (Dz. Urz. UE L 140 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zatwierdzonego przez Komisję, zgodnie z art. 88 Traktatu WE, programu pomoco-wego, pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację. ” ;
 
-**Art. 9.**
+**Art. 12.**
 
-1. Podmiot udzielający de minimis rolnictwie lub rybołówstwie jest obowiązany do przekazania ministrowi właściwemu do spraw rolnictwa, terminie miesiąca od dnia wejścia życie niniejszej ustawy, informacji oudzielonej przez ten podmiot de minimis rolnictwie lub rybołówstwie wokresie od dnia 1 stycznia 2005 r. do dnia wejścia wżycie niniejszej ustawy, ze wskazaniem wszczególności dnia udzielenia pomocy, podstawy prawnej, wysokości, formy i przeznaczenia tej pomocy.
+1. Projekty programów pomocowych, w tym przewidujących udzielanie pomocy w ramach wyłączeń grupowych, oraz pomocy indywidualnej, a także pomocy indywidualnej na restrukturyzację, wymagają uzyskania opinii Prezesa Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa.
 
-2. Informacja, o której mowa 1, jest przekazywana za pośrednictwem organu nadzorującego mu do spraw rolnictwa. nionej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie
+2. Projekt pomocy indywidualnej udzielanej w ramach wyłączeń grupowych nie wymaga uzyskania opinii, o której mowa w ust. 1, chyba że podmiot udzielający pomocy wystąpi o jego notyfikację. Do notyfikacji przepis art. 18 ust. 2 stosuje się odpowiednio.
+
+3. Przepisu ust. 1 nie stosuje się w przypadku projektów programów pomocowych przewidujących udzielanie pomocy publicznej w rolnictwie lub rybołówstwie opracowywanych przez ministra właściwego do spraw rolnictwa.
+
+4. Opinia, o której mowa w ust. 1, zawiera w szczególności:
+
+- **1)** stanowisko, czy projekt przewiduje udzielanie pomocy publicznej;
+- **2)** stanowisko w sprawie zgodności pomocy publicznej ze wspólnym rynkiem;
+- **3)** propozycje zmian przedstawione w celu zapewnienia zgodności postanowień projektu ze wspólnym rynkiem;
+- **4)** stanowisko w sprawie obowiązku notyfikacji projektu.
+
+5. Do opinii, o której mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.). ” ;
+
+- **9)** w art. 13 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+
+3a. Podmioty udzielające pomocy są zobowiązane do wydania opinii w sprawie możliwości udzielenia pomocy, o której mowa w ust. 3.
+
+3b. Wnioski o wydanie opinii, o której mowa w art. 12 ust. 1, wraz z załączonymi do nich projektami, informacjami lub planem restrukturyzacyjnym, przekazuje się w formie papierowej i elektronicznej. ” ;
+
+- **10)** w art. 15 ust. 1 otrzymuje brzmienie: „
+
+1. Prezes Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, przed wydaniem opinii, o której mowa w art. 12 ust. 1, może wystąpić do organu opracowującego projekt programu pomocowego, podmiotu udzielającego pomocy, podmiotu ubiegającego się o pomoc lub innych właściwych podmiotów, o przekazanie w wyznaczonym terminie dodatkowych wyjaśnień i informacji. ” ;
+
+- **11)** w art. 16 ust. 2 otrzymuje brzmienie: „
+
+2. Rada Ministrów podejmuje uchwałę w sprawie dokonania notyfikacji po zapoznaniu się z opinią, o której mowa w art. 12 ust. 1. ” ;
+
+- **12)** po art. 16 dodaje się art. 16a w brzmieniu: „
+
+**Art. 16a.** W przypadku projektu ustawy będącej programem pomocowym opracowanym przez podmiot niebędący organem administracji publicznej, organ właściwy na podstawie regulaminu Sejmu występuje z wnioskiem do Prezesa Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa, o:
+
+**Art. 20a.** Dokonanie notyfikacji projektu programu pomocowego ustanowionego na podstawie aktu prawa miejscowego nie wymaga zgody Rady Ministrów i następuje niezwłocznie po wydaniu opinii, o której mowa w art. 12 ust. 1. ” ;
+
+**Art. 31.**
+
+1. Monitorowanie pomocy publicznej obejmuje gromadzenie, przetwarzanie i przekazywanie informacji o udzielanej pomocy publicznej, w szczególności o jej rodzajach, formach i wielkości, oraz przestrzeganie krajowego limitu skumulowanej kwoty pomocy de mini-mis w rolnictwie lub rybołówstwie.
+
+2. Organem monitorującym pomoc publiczną jest Prezes Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa.
+
+3. Prezes Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, przekazuje Komisji sprawozdanie roczne z pomocy publicznej, o którym mowa w art. 6 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (WE) nr 659/1999 ustanawiającego szczegółowe zasady stosowania art. 93 Traktatu WE. ” ;
+
+- **22)** po art. 31 dodaje się art. 31a w brzmieniu: „ Art. 31 a. Minister właściwy do spraw rolnictwa, w drodze obwieszczenia, ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej raz na kwartał, a w przypadku wyczerpania krajowego limitu skumulowanej kwoty pomocy de minimis w rolnictwie lub rybołówstwie – niezwłocznie, informacje o wysokości wykorzystanego krajowego limitu skumulowanej kwoty pomocy de minimis w rolnictwie lub rybołówstwie. ” ;
+- **23)** w art. 32: ust. 6 otrzymuje brzmienie: „
+    - **a)**
+
+6. Wojewodowie przekazują sprawozdania, o których mowa w ust. 1, bezpośrednio Prezesowi Urzędu albo ministrowi właściwemu do spraw rolnictwa. ” , po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „
+
+- **b)**
+
+6a. Regionalne instytucje finansujące przekazują sprawozdania, o których mowa w ust. 1, Polskiej Agencji Rozwoju Przedsiębiorczości, która następnie przekazuje je Prezesowi Urzędu za pośrednictwem ministra właściwego do spraw gospodarki.
+
+6b. Ochotnicze Hufce Pracy przekazują sprawozdania, o których mowa w ust. 1, za pośrednictwem ministra właściwego do spraw pracy. ” . ust. 7 i 8 otrzymują brzmienie: „
+
+- **c)**
+
+7. Podmioty niewymienione w ust. 2–6b przekazują sprawozdania, o których mowa w ust. 1, za pośrednictwem organów je nadzorujących, a w przypadku braku takich organów – bezpośrednio Prezesowi Urzędu albo ministrowi właściwemu do spraw rolnictwa.
+
+8. Sprawozdania, o których mowa w ust. 1, przekazuje się przez teletransmisję danych w formie elektronicznej, na formularzach zamieszczonych w powszechnie dostępnej sieci teleinformatycznej przez Prezesa Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa. ” ;
+
+- **24)** po art. 32 dodaje się art. 32a w brzmieniu: „
+
+**Art. 32a.**
+
+1. Podmioty udzielające pomocy są zobowiązane do przedstawienia Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – ministrowi właściwemu do spraw rolnictwa, informacji o nie-udzieleniu pomocy w danym okresie sprawozdawczym.
+
+2. W przypadku gdy pomoc publiczna jest przewidziana w akcie normatywnym, o którym mowa w art. 6 ust. 2, do przedstawienia informacji, o której mowa w ust. 1, są zobowiązane podmioty, które nie otrzymały deklaracji lub innych dokumentów, z których wynika, że nastąpiło pomniejszenie świadczeń na podstawie tego aktu normatywnego.
+
+3. Informacje, o których mowa w ust. 1, są przedstawiane za okresy i w terminach określonych dla sprawozdań o udzielonej pomocy publicznej.
+
+4. Przepisy art. 32 ust. 3–8 stosuje się odpowiednio. ” ;
+
+- **25)** art. 33 otrzymuje brzmienie: „
+
+**Art. 33.**
+
+1. Podmioty udzielające pomocy są zobowiązane do przekazywania, na żądanie Prezesa Urzędu, ministra właściwego do spraw rolnictwa lub ministra właściwego do spraw finansów publicznych, informacji dotyczących udzielonej pomocy publicznej, w zakresie i terminie wskazanym w żądaniu.
+
+2. Podmioty opracowujące programy po-mocowe przewidujące udzielanie pomocy w ramach wyłączeń grupowych niezwłocznie informują Prezesa Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa, o rozpoczęciu udzielania pomocy na podstawie programu pomocowego.
+
+3. Podmioty udzielające pomocy indywidualnej w ramach wyłączeń grupowych niezwłocznie informują Prezesa Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa, o udzieleniu tej pomocy.
+
+4. Udzielenie informacji, o których mowa w ust. 2 i 3, następuje przez teletransmisję danych w formie elektronicznej, na formularzach zamieszczonych w powszechnie dostępnej sieci teleinformatycznej przez Prezesa Urzędu albo ministra właściwego do spraw rolnictwa. ” ;
+
+- **26)** po art. 33 dodaje się art. 33a w brzmieniu: „ Prezes Urzędu ewidencjonuje akty prawa miejscowego, o których mowa w art. 8 ust. 1. ” ;
+- **27)** w art. 34 ust. 2 otrzymuje brzmienie: „
+
+2. Przepisy art. 32 ust. 2–8 stosuje się odpowiednio. ” ;
+
+- **28)** art. 35 otrzymuje brzmienie: „
+
+**Art. 35.** Rada Ministrów określi, w drodze rozporządzeń:
+
+**Art. 37.**
+
+1. Podmiot ubiegający się o pomoc de minimis jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, wszystkich zaświadczeń o pomocy de minimis, jakie otrzymał w ciągu 3 ostatnich lat poprzedzających dzień wystąpienia z wnioskiem o udzielenie pomocy.
+
+2. Przepis ust. 1 stosuje się odpowiednio do podmiotu ubiegającego się o pomoc de minimis w rolnictwie lub rybołówstwie.
+
+3. Prezes Urzędu przedstawia Komisji, na jej wniosek, o którym mowa w art. 3 ust. 3 rozporządzenia o pomocy de minimis, informacje o pomocy de minimis.
+
+4. Minister właściwy do spraw rolnictwa przedstawia Komisji, na jej wniosek, o którym mowa w art. 4 ust. 3 rozporządzenia o pomocy de minimis w rolnictwie lub rybołówstwie, informacje o pomocy de minimis w rolnictwie lub rybołówstwie.
+
+5. Podmiot ubiegający się o pomoc inną niż pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o jej udzielenie, informacji o otrzymanej pomocy publicznej, zawierających w szczególności wskazanie dnia i podstawy prawnej jej udzielenia, formy i przeznaczenia, albo informacji o nieotrzymaniu pomocy.
+
+6. Rada Ministrów określi, w drodze rozporządzenia, zakres informacji, o których mowa w ust. 5, oraz wzory formularzy informacji, biorąc pod uwagę przeznaczenie planowanej pomocy oraz konieczność zapewnienia nieprzekroczenia dopuszczalnej wielkości pomocy udzielonej w związku z realizacją danego przedsięwzięcia przez poszczególne podmioty ubiegające się o pomoc.
+
+7. Do czasu przekazania przez podmiot ubiegający się o pomoc zaświadczeń albo informacji zgodnie z ust. 1, 2 i 5, pomoc nie może być udzielona temu podmiotowi. ” ;
+
+- **31)** w art. 40 uchyla się ust. 1 i 2;
+- **32)** art. 41 otrzymuje brzmienie: „
+
+**Art. 41.**
+
+1. Pracownicy podmiotów realizujących zadania określone w ustawie są zobowiązani do ochrony tajemnicy przedsiębiorstwa, jak również innych informacji podlegających ochronie na podstawie odrębnych przepisów, o których powzięli wiadomość w związku z toczącymi się postępowaniami lub realizacją innych zadań określonych w ustawie.
+
+2. Przepisu ust. 1 nie stosuje się do informacji powszechnie dostępnych, wskazania podmiotu ubiegającego się o pomoc, beneficjenta pomocy, informacji o wielkości i formie udzielonej mu pomocy oraz o jej przeznaczeniu, podstawie prawnej, a także podmiotach udzielających pomocy.
+
+3. Nie stanowi naruszenia obowiązku zachowania tajemnicy przedsiębiorstwa, jak również innych tajemnic ustawowo chronionych, przekazywanie informacji do Komisji w związku z realizacją zadań określonych prawem Unii Europejskiej w zakresie pomocy publicznej, przekazywanie sprawozdań o udzielonej pomocy w trybie art. 32 oraz sprawozdań o zaległościach, o których mowa w art. 34 ust. 1. ” ;
+
+- **33)** art. 44 otrzymuje brzmienie: „
+
+**Art. 44.**
+
+1. Za niewykonanie lub nienależyte wykonanie obowiązków, o których mowa w art. 21 ust. 2, art. 39 oraz art. 40 ust. 3 pkt 2, oraz za utrudnianie przeprowadzania kontroli u beneficjenta pomocy Prezes Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, może, w drodze decyzji, nałożyć na beneficjenta pomocy karę pieniężną do wysokości równowartości 10 000 euro.
+
+2. Wysokość kar pieniężnych, o których mowa w ust. 1, ustala się, uwzględniając w szczególności stopień oraz okoliczności naruszenia przepisów ustawy.
+
+3. Kwotę, o której mowa w ust. 1, przelicza się na złote według kursu średniego walut obcych ogłoszonego przez Narodowy Bank Polski, obowiązującego w dniu wydania decyzji Prezesa Urzędu albo decyzji ministra właściwego do spraw rolnictwa. ” ;
+
+- **34)** w art. 45 ust. 1 otrzymuje brzmienie: „
+
+1. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja Prezesa Urzędu albo ministra właściwego do spraw rolnictwa o jej nałożeniu na beneficjenta pomocy stała się ostateczna. ” ;
+
+- **35)** w art. 46 uchyla się ust. 4;
+- **36)** w art. 14, art. 15 ust. 2, art. 17, art. 18 ust. 1–3, art. 19 ust. 2, art. 21 ust. 1, art. 22 ust. 1 i 3, art. 24 ust. 2, art. 26 ust. 2, art. 27 ust. 3, art. 29 ust. 1–6, art. 30, art. 32 ust. 1, art. 39 ust. 1, art. 40 ust. 3 pkt 2, art. 42 i art. 43 po użytych w różnych przypadkach wyrazach „Prezes Urzędu” dodaje się użyte w odpowiednich przypadkach wyrazy „, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa,”.
+
+**Art. 2.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2006 r. Nr 136, poz. 969 i Nr 191, poz. 1412) art. 13e otrzymuje brzmienie: „
+
+**Art. 13e.** Rada gminy, w drodze uchwały, może wprowadzić inne zwolnienia i ulgi przedmiotowe niż określone w ustawie, z uwzględnieniem przepisów dotyczących pomocy publicznej. ” . W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844, Nr 220, poz. 1601 i Nr 225, poz. 1635) wprowadza się następujące zmiany:
+
+**Art. 4.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.) w art. 14 ust. 5 otrzymuje brzmienie: „ 5. Właściciele lub użytkownicy wieczyści gruntów mogą otrzymać dotacje z budżetu państwa przeznaczone na całkowite lub częściowe pokrycie kosztów zalesienia gruntów, o których mowa w ust. 3. Decyzję w sprawie przyznania środków na pokrycie tych kosztów wydaje starosta na wniosek właściciela lub użytkownika wieczystego, po zaopiniowaniu przez wójta (burmistrza, prezydenta miasta), z uwzględnieniem przepisów dotyczących pomocy publicznej. ” . W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) w art. 105 w ust. 1 w pkt 2 w lit. p kropkę zastępuje się przecinkiem i dodaje się lit. r w brzmieniu: „
+
+**Art. 6.** W ustawie z dnia 30 października 2002 r. o podatku leśnym (Dz. U. Nr 200, poz. 1682, z późn. zm.) w art. 7 ust. 3 otrzymuje brzmienie: „ 3. Rada gminy, w drodze uchwały, może wprowadzić inne zwolnienia przedmiotowe niż określone w ust. 1, z uwzględnieniem przepisów dotyczących pomocy publicznej. ” .
+
+**Art. 7.** W ustawie z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411) w art. 21 pkt 3 otrzymuje brzmienie: „
 
 **Art. 10.**
 
-1. W przypadku programu pomocowego, art. 5 4, art. 35 iart. 37 6 tej ustawy, wbrzmiektórym akt prawa miejscowego wydany na podsta- niu nadanym niniejszą ustawą. wie ustawy, októrej mowa wart. 3, przewiduje udzielanie publicznej zgodnie zwarunkami udziela- Art. 12. Marszałek Sejmu ogłosi tekst jednolity nia określonymi rozporządzeniu wydanym ustawy, októrej mowa wart. 1, wterminie 3 miesięcy na podstawie art. 70 3 ustawy, o której mowa od dnia wejścia życie niniejszej ustawy. art. 1, notyfikacji podlega wyłącznie projekt tego rozporządzenia. Art. 13. Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia.
+1. W przypadku programu pomocowego, w którym akt prawa miejscowego wydany na podstawie ustawy, o której mowa w art. 3, przewiduje udzielanie pomocy publicznej zgodnie z warunkami udzielania pomocy określonymi w rozporządzeniu wydanym na podstawie art. 70 ust. 3 ustawy, o której mowa w art. 1, notyfikacji podlega wyłącznie projekt tego rozporządzenia.
 
-2. Przepisy art. 8 2 i art. 33a ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1776 ROZPORZÑDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 18 grudnia 2006 r. zmieniające rozporządzenie sprawie ustalenia liczby stanowisk sędziowskich Naczelnym Sądzie Administracyjnym oraz liczby wiceprezesów Na podstawie art. 33 ustawy zdnia 25 lipca 2002 r. Ń§ 1. Liczbę stanowisk sędziowskich Naczelnym Prawo o ustroju sądów administracyjnych (Dz. U. Sądzie Administracyjnym ustala się na 85, 153, poz. 1269 oraz z 2005 r. 169, poz. 1417) za- tym 4 stanowiska wiceprezesów.”. rządza się, co następuje: § 2. Rozporządzenie wchodzi wżycie zdniem ogło§ 1. W rozporządzeniu Prezydenta Rzeczypospoli- szenia. tej Polskiej z dnia 18 lutego 2004 r. sprawie ustalenia liczby stanowisk sędziowskich Naczelnym Są- Prezydent Rzeczypospolitej Polskiej: dzie Administracyjnym oraz liczby wiceprezesów L. Kaczyński (Dz. U. 26, poz. 228 i 187, poz. 1928) § 1 otrzy- Prezes Rady Ministrów: muje brzmienie: J. Kaczyński 1777 ROZPORZÑDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 grudnia 2006 r. zmieniające rozporządzenie sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe Na podstawie art. 3 3 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. 20, poz. 101, z póên. zm. ) zarządza się, co następuje: ———————
+2. Przepisy art. 8 ust. 2 i art. 33a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
+**Art. 11.** Przepisy wykonawcze wydane na podstawie art. 5 ust. 3, art. 35 i art. 37 ust. 4 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 5 ust. 4, art. 35 i art. 37 ust. 6 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
 

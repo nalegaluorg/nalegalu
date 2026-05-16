@@ -8,9 +8,10 @@ pos: 1552
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 sierpnia 2018 r.
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,27 +25,29 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001552) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1552/text.pdf) |
 
-Poz. 1552
-USTAWA z dnia 20 lipca 2018 r.
-o zmianie ustawy o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
+**Art. 1.** W ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2014 r. poz. 1001) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 31 maja 1996 r. o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2014 r. poz. 1001) wprowadza się następujące zmiany:
+**Art. 6a.**
 
-**Art. 6b.** Osobie deportowanej do pracy przymusowej lub osadzonej obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich przysługuje prawo pierwszeństwa do środowiskowej opieki socjalnej, tym uzyskaniu miejsca domu pomocy społecznej.
+1. Legitymację wydaje Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych wraz z wydaniem decyzji, o której mowa w art. 4 ust. 1.
 
-**Art. 6c.** Samorząd terytorialny może udzielać pomocy osobom deportowanym do pracy przymusowej lub osadzonym obozach pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich, zakresie udogodnień komunikacyjnych, świadczeń mieszkaniowych, kulturalnych, zdrowotnych i oświatowych.”. Dziennik Ustaw – 2 – Poz. 1552
+2. Legitymacja jest dokumentem potwierdzającym prawo do korzystania z uprawnień, o których mowa w art. 6b i art. 6c, oraz z uprawnień, o których mowa w art. 47c ust. 1 i art. 57 ust. 2 pkt 10 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, 1515, 1532, 1544 i 1552).
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509 i 1540) 21 ust. pkt 45 otrzymuje brzmienie: „45) świadczenie pieniężne przyznane na podstawie ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2014 r. poz. 1001 oraz z 2018 r. poz. 1552);”.
+3. W legitymacji ujawnia się imię (imiona), nazwisko i PESEL jej posiadacza.
+
+4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór legitymacji, mając na względzie konieczność zapewnienia sprawności postępowania przy wydawaniu tej legitymacji i zapewnienie jej trwałości. Osobie deportowanej do pracy przymusowej lub osadzonej w obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich przysługuje prawo pierwszeństwa do środowiskowej opieki socjalnej, w tym w uzyskaniu miejsca w domu pomocy społecznej. Samorząd terytorialny może udzielać pomocy osobom deportowanym do pracy przymusowej lub osadzonym w obozach pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich, w zakresie udogodnień komunikacyjnych, świadczeń mieszkaniowych, kulturalnych, zdrowotnych i oświatowych. ” .
+
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509 i 1540) w art. 21 w ust. 1 pkt 45 otrzymuje brzmienie: „
 
 **Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, 1515, 1532 i 1544) wprowadza się następujące zmiany:
 
 **Art. 4.**
 
-1. Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych wydaje legitymację osoby deportowanej do pracy przymusowej lub osadzonej obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich na wniosek osoby deportowanej do pracy przymusowej lub osadzonej obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich, która dniu wejścia życie niniejszej ustawy posiada uprawnienie stwierdzone decyzją, o której mowa 4 ust. ustawy zmienianej 1.
+1. Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych wydaje legitymację osoby deportowanej do pracy przymusowej lub osadzonej w obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich na wniosek osoby deportowanej do pracy przymusowej lub osadzonej w obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich, która w dniu wejścia w życie niniejszej ustawy posiada uprawnienie stwierdzone decyzją, o której mowa w art. 4 ust. 1 ustawy zmienianej w art. 1.
 
-2. Wniosek o wydanie legitymacji, o którym mowa ust. 1, powinien zawierać imię (imiona), nazwisko, datę i miejsce urodzenia, PESEL, adres miejsca zamieszkania lub adres korespondencyjny wnioskodawcy, numer telefonu lub adres poczty elektronicznej.
+2. Wniosek o wydanie legitymacji, o którym mowa w ust. 1, powinien zawierać imię (imiona), nazwisko, datę i miejsce urodzenia, PESEL, adres miejsca zamieszkania lub adres korespondencyjny wnioskodawcy, numer telefonu lub adres poczty elektronicznej.
 
-3. Legitymacja osoby deportowanej do pracy przymusowej lub osadzonej obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich wydawana jest terminie 30 dni od dnia złożenia wniosku o jej wydanie.
+3. Legitymacja osoby deportowanej do pracy przymusowej lub osadzonej w obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich wydawana jest w terminie 30 dni od dnia złożenia wniosku o jej wydanie.
 
-**Art. 5.** Ustawa wchodzi życie z dniem 30 października 2018 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 5.** Ustawa wchodzi w życie z dniem 30 października 2018 r.
 

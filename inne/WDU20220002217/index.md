@@ -1,0 +1,249 @@
+---
+title: Rozporządzenie Ministra Klimatu i Środowiska z dnia 26 października 2022 r. w sprawie szczegółowego zakresu informacji zawartych w raporcie oraz sposobu jego wprowadzania do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji
+address: WDU20220002217
+eli: DU/2022/2217
+publisher: DU
+year: 2022
+pos: 2217
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 października 2022 r. w sprawie szczegółowego zakresu informacji zawartych w raporcie oraz sposobu jego wprowadzania do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2217 |
+| ISAP | WDU20220002217 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-10-26 |
+| Data wydania | 2022-10-28 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002217) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2217/text.pdf) |
+
+Treść rozporządzenia
+Załącznik – Szczegółowy zakres informacji zawartych w raporcie, o którym mowa w art. 7 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
+Treść rozporządzenia
+Na podstawie art. 7 ust. 7 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+szczegółowy zakres informacji zawartych w raporcie, o którym mowa w art. 7 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, zwanym dalej „raportem”;
+2)
+sposób wprowadzania raportu do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji, o której mowa w art. 3 ust. 2 pkt 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, zwanej dalej „Krajową bazą”.
+§ 2.
+Szczegółowy zakres informacji zawartych w raporcie jest określony w załączniku do rozporządzenia.
+§ 3.
+1.
+Wprowadzenia raportu do Krajowej bazy oraz innych czynności w Krajowej bazie, o których mowa w § 4 ust. 8 pkt 1, § 5 ust. 1 i 3, § 6 ust. 1 oraz § 7 ust. 1 pkt 1 i 2, dokonuje się za pośrednictwem konta w Krajowej bazie utworzonego dla podmiotu korzystającego ze środowiska, zwanego dalej „kontem podmiotu”, przez stronę internetową http://www.krajowabaza.kobize.pl, w trybie bezpośredniego połączenia z systemem teleinformatycznym w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087).
+2.
+Czynności w Krajowej bazie są dokonywane przez użytkowników Krajowej bazy, to jest przez:
+1)
+głównego użytkownika konta podmiotu w Krajowej bazie, zwanego dalej „głównym użytkownikiem”;
+2)
+dodatkowych użytkowników konta podmiotu w Krajowej bazie, zwanych dalej „dodatkowymi użytkownikami”.
+§ 4.
+1.
+Podmiot korzystający ze środowiska, zwany dalej „podmiotem”, składa do Krajowego ośrodka bilansowania i zarządzania emisjami, zwanego dalej „Krajowym ośrodkiem”, formularz rejestracyjny w celu utworzenia konta, który zawiera:
+1)
+imię i nazwisko albo nazwę podmiotu oraz określenie jego formy prawnej;
+2)
+adres miejsca zamieszkania albo adres siedziby podmiotu, numer telefonu komórkowego lub telefonu stacjonarnego, adres do doręczeń elektronicznych w rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2022 r. poz. 569 i 1002) wpisany do bazy adresów elektronicznych, o której mowa w rozdziale 3 tej ustawy, lub adres strony internetowej podmiotu, o ile podmiot posiada stronę internetową;
+3)
+numer identyfikacyjny w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON), numer identyfikacji podatkowej (NIP) oraz numer w Krajowym Rejestrze Sądowym (KRS), o ile te numery zostały nadane;
+4)
+numer PESEL albo serię i numer dokumentu potwierdzającego tożsamość, jeżeli nie nadano numeru identyfikacji podatkowej (NIP), w przypadku podmiotu, o którym mowa w art. 3 pkt 20 lit. c ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.);
+5)
+dane osoby składającej formularz, obejmujące imię i nazwisko oraz adres poczty elektronicznej i numer telefonu komórkowego lub telefonu stacjonarnego wykorzystywane do celów służbowych.
+2.
+Osoba, o której mowa w ust. 1 pkt 5, po utworzeniu konta podmiotu uzyskuje dostęp do tego konta jako główny użytkownik.
+3.
+W przypadku utraty przez podmiot dostępu do konta podmiotu dostęp ten uzyskuje się po złożeniu przez podmiot formularza uzyskania dostępu. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+4.
+W przypadku podmiotów niezarejestrowanych w Krajowym Rejestrze Sądowym (KRS), Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG), Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON) albo w Rejestrze Szkół i Placówek Oświatowych (RSPO) do formularza, o którym mowa w ust. 1 lub 3, dołącza się kopię zaświadczenia potwierdzającego nadanie numeru identyfikacji podatkowej (NIP).
+5.
+W przypadku przedsiębiorcy zagranicznego, który na terytorium Rzeczypospolitej Polskiej nie ustanowił oddziału, do formularza, o którym mowa w ust. 1 lub 3, dołącza się dokument określający zasady reprezentacji podmiotu.
+6.
+W przypadku gdy uprawnienie do reprezentacji podmiotu dla osoby składającej formularz, o której mowa w ust. 1 pkt 5, nie wynika z informacji zawartych w:
+1)
+rejestrach, o których mowa w ust. 4,
+2)
+Biuletynie Informacji Publicznej jednostki organizacyjnej niepodlegającej obowiązkowi wpisu do rejestrów, o których mowa w ust. 4,
+3)
+dokumencie określającym zasady reprezentacji podmiotu, o którym mowa w ust. 5
+do formularza, o którym mowa w ust. 1 lub 3, dołącza się pełnomocnictwo do reprezentowania podmiotu przed Krajowym ośrodkiem opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+7.
+Formularze, o których mowa w ust. 1 i 3, składa się w postaci elektronicznej na formularzach dostępnych na stronie internetowej http://www.krajowabaza.kobize.pl, przez tę stronę internetową, po uwierzytelnieniu osoby składającej formularz przez węzeł krajowy identyfikacji elektronicznej.
+8.
+Zamknięcie konta podmiotu następuje po:
+1)
+złożeniu formularza zamknięcia konta podmiotu niezwłocznie po wystąpieniu okoliczności uzasadniających to zamknięcie;
+2)
+uzyskaniu przez Krajowy ośrodek informacji z rejestrów, o których mowa w ust. 4, o wykreśleniu podmiotu.
+9.
+W przypadku gdy formularze, o których mowa w ust. 1, 3 lub ust. 8 pkt 1, zostały złożone zgodnie z rozporządzeniem, a dane zawarte w tych formularzach są zgodne z informacjami zawartymi odpowiednio w rejestrach, zaświadczeniu, Biuletynie Informacji Publicznej, dokumencie określającym zasady reprezentacji podmiotu lub pełnomocnictwie, o których mowa w ust. 4–6, Krajowy ośrodek przekazuje drogą elektroniczną na adres poczty elektronicznej osoby składającej formularz, wskazany w formularzu, odpowiednio informację o:
+1)
+utworzeniu konta podmiotu oraz sposobie logowania do tego konta;
+2)
+uzyskaniu dostępu do konta podmiotu oraz sposobie logowania do tego konta;
+3)
+akceptacji formularza zamknięcia konta podmiotu.
+§ 5.
+1.
+Zmiana danych, o których mowa w § 4 ust. 1 pkt 1–3 oraz w pkt 4 w zakresie serii i numeru dokumentu potwierdzającego tożsamość, następuje przez złożenie formularza aktualizacji danych podmiotu niezwłocznie po wystąpieniu okoliczności uzasadniających dokonanie aktualizacji tych danych. W formularzu podaje się dane, o których mowa w § 4 ust. 1 pkt 1–4, w zakresie dokonanej aktualizacji, oraz imię i nazwisko użytkownika Krajowej bazy składającego formularz aktualizacji danych podmiotu. Przepisy § 4 ust. 5 i 6 stosuje się odpowiednio, o ile aktualne pełnomocnictwo dla osoby składającej ten formularz nie znajduje się już na koncie podmiotu. 1260, 1504, 1576, 1747, 2088 i 2127.
+2.
+Dane użytkownika Krajowej bazy w zakresie jego imienia lub nazwiska ulegają automatycznej aktualizacji po uwierzytelnieniu tego użytkownika przez węzeł krajowy identyfikacji elektronicznej na stronie internetowej http://www.krajowabaza.kobize.pl. Użytkownik Krajowej bazy dokonuje tej czynności niezwłocznie po wystąpieniu okoliczności uzasadniających dokonanie aktualizacji tych danych.
+3.
+Zmiany danych użytkownika Krajowej bazy w zakresie jego adresu poczty elektronicznej, numeru telefonu komórkowego lub numeru telefonu stacjonarnego dokonuje się niezwłocznie po wystąpieniu okoliczności uzasadniających dokonanie aktualizacji tych danych.
+§ 6.
+1.
+Główny użytkownik może dodawać i usuwać dodatkowych użytkowników, którzy uzyskują dostęp do konta podmiotu. Dodając dodatkowego użytkownika, główny użytkownik podaje imię i nazwisko oraz adres poczty elektronicznej i numer telefonu komórkowego lub telefonu stacjonarnego dodatkowego użytkownika wykorzystywane do celów służbowych, a także zakres czynności, do których ma być on uprawniony.
+2.
+Dodatkowy użytkownik, o którym mowa w ust. 1, uzyskuje dostęp do konta podmiotu po uwierzytelnieniu się przez węzeł krajowy identyfikacji elektronicznej oraz po otrzymaniu informacji, o której mowa w ust. 3.
+3.
+Krajowy ośrodek przekazuje informację o sposobie logowania do konta podmiotu na adres poczty elektronicznej dodatkowego użytkownika dodanego przez głównego użytkownika.
+§ 7.
+1.
+Zmiana głównego użytkownika następuje przez:
+1)
+wskazanie przez głównego użytkownika na koncie podmiotu nowego głównego użytkownika spośród dodatkowych użytkowników;
+2)
+złożenie formularza zmiany głównego użytkownika, w którym wskazuje się dane nowego głównego użytkownika, obejmujące imię i nazwisko oraz adres poczty elektronicznej i numer telefonu komórkowego lub telefonu stacjonarnego wykorzystywane do celów służbowych, w przypadku braku możliwości zmiany głównego użytkownika w sposób, o którym mowa w pkt 1; przepisy § 4 ust. 5 i 6 stosuje się odpowiednio;
+3)
+złożenie formularza uzyskania dostępu, o którym mowa w § 4 ust. 3, w przypadku braku możliwości zmiany głównego użytkownika w sposób, o którym mowa w pkt 1 i 2.
+2.
+Po dokonaniu zmiany, o której mowa w ust. 1 pkt 1, dotychczasowy główny użytkownik staje się dodatkowym użytkownikiem. Po dokonaniu zmiany, o której mowa w ust. 1 pkt 2 lub 3, dotychczasowy główny użytkownik traci dostęp do konta podmiotu.
+3.
+W przypadku gdy formularz zmiany głównego użytkownika, o którym mowa w ust. 1 pkt 2, został złożony zgodnie z rozporządzeniem, nowy główny użytkownik po uwierzytelnieniu się przez węzeł krajowy identyfikacji elektronicznej oraz po otrzymaniu informacji, o której mowa w ust. 4, uzyskuje dostęp do konta podmiotu.
+4.
+Krajowy ośrodek przekazuje informację o aktualizacji danych oraz o sposobie logowania do konta podmiotu na adres poczty elektronicznej nowego głównego użytkownika wskazany w formularzu.
+§ 8.
+Formularze, o których mowa w § 4 ust. 8 pkt 1, § 5 ust. 1 i § 7 ust. 1 pkt 2, użytkownik Krajowej bazy składa po uwierzytelnieniu się przez węzeł krajowy identyfikacji elektronicznej.
+§ 9.
+1.
+W przypadku zaistnienia okoliczności uzasadniających odebranie dostępu do konta podmiotu danemu użytkownikowi Krajowej bazy użytkownik, którego dotyczą te okoliczności i który nie ma możliwości zaktualizowania dotyczących go danych w sposób, o którym mowa w § 6 ust. 1 lub w § 7 ust. 1 pkt 1 lub 2, może wystąpić do Krajowego ośrodka z wnioskiem o odebranie mu dostępu do konta podmiotu.
+2.
+Wniosek, o którym mowa w ust. 1, składa się w formie pisemnej albo w formie elektronicznej, albo w postaci elektronicznej opatrzonej podpisem zaufanym albo podpisem osobistym. We wniosku podaje się imię i nazwisko, dane do kontaktu, dane podmiotu, o których mowa w § 4 ust. 1 pkt 1, 3 lub 4, oraz okoliczności uzasadniające odebranie dostępu do konta podmiotu.
+3.
+W przypadku gdy wniosek, o którym mowa w ust. 1, został złożony zgodnie z rozporządzeniem, Krajowy ośrodek przekazuje podmiotowi drogą elektroniczną na adres do doręczeń elektronicznych, o którym mowa w § 4 ust. 1 pkt 2, lub w formie pisemnej informację o wpływie wniosku oraz wzywa do aktualizacji danych na koncie podmiotu w wyznaczonym terminie.
+4.
+W przypadku niedokonania aktualizacji danych na koncie podmiotu w wyznaczonym w terminie Krajowy ośrodek aktualizuje te dane w zakresie, o którym mowa we wniosku, oraz przekazuje podmiotowi drogą elektroniczną na adres do doręczeń elektronicznych, o którym mowa w § 4 ust. 1 pkt 2, lub w formie pisemnej informację o dokonanych zmianach.
+§ 10.
+1.
+Krajowy ośrodek może poprawiać w złożonych formularzach, o których mowa w § 4 ust. 1, 3 i ust. 8 pkt 1, § 5 ust. 1 oraz w § 7 ust. 1 pkt 2, oczywiste omyłki pisarskie polegające na niezgodności informacji w nich zawartych z informacjami zawartymi w rejestrach lub zaświadczeniu, o których mowa w § 4 ust. 4.
+2.
+W przypadku gdy formularze, o których mowa w § 4 ust. 1, 3 i ust. 8 pkt 1, § 5 ust. 1 oraz w § 7 ust. 1 pkt 2, zostały złożone niezgodnie z rozporządzeniem lub dane zawarte w złożonych formularzach zawierają braki lub są niezgodne z informacjami zawartymi w rejestrach lub zaświadczeniu, o których mowa w § 4 ust. 4, i nie mogą zostać poprawione zgodnie z ust. 1 lub są niezgodne z informacjami zawartymi w Biuletynie Informacji Publicznej, dokumencie określającym zasady reprezentacji podmiotu lub z informacjami zawartymi w pełnomocnictwie, o których mowa w § 4 ust. 6, Krajowy ośrodek przekazuje informacje o stwierdzonych brakach lub o niezgodności drogą elektroniczną na adres poczty elektronicznej osoby składającej formularz, wskazany w formularzu, oraz wzywa do ich usunięcia w wyznaczonym terminie.
+3.
+W przypadku nieusunięcia braków lub niezgodności w wyznaczonym terminie formularz pozostawia się bez rozpoznania.
+§ 11.
+1.
+Z dniem wejścia w życia niniejszego rozporządzenia głównym użytkownikiem staje się osoba, która jest jedynym użytkownikiem Krajowej bazy, o którym mowa w § 3 ust. 2 pkt 5 rozporządzenia Ministra Środowiska z dnia 14 listopada 2016 r. w sprawie szczegółowego zakresu informacji zawartych w raporcie oraz sposobu jego wprowadzania do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji (Dz. U. poz. 1877), a jeżeli takich użytkowników jest więcej – użytkownik Krajowej bazy, który dokonał wprowadzenia ostatniego raportu do Krajowej bazy.
+2.
+Jeżeli nie można wskazać głównego użytkownika w sposób określony w ust. 1, głównym użytkownikiem staje się użytkownik Krajowej bazy, który został wskazany jako pierwszy na liście dodawanych użytkowników Krajowej bazy, o których mowa w § 3 ust. 2 pkt 5 rozporządzenia, o którym mowa w ust. 1, w ostatnim złożonym formularzu, o którym mowa w § 3 ust. 2, 3 lub 10 tego rozporządzenia, zaakceptowanym przez Krajowy ośrodek.
+3.
+Użytkownik Krajowej bazy, o którym mowa w § 3 ust. 2 pkt 5 rozporządzenia, o którym mowa w ust. 1, który przed dniem wejścia w życie niniejszego rozporządzenia uzyskał dostęp do danych podmiotu w Krajowej bazie i na podstawie przepisów ust. 1 lub 2 nie stał się głównym użytkownikiem, staje się dodatkowym użytkownikiem.
+4.
+Identyfikator (login) i hasło dostępu do Krajowej bazy, nadane przed dniem wejścia w życie rozporządzenia osobom, o których mowa w ust. 1–3, zachowują ważność.
+§ 12.
+Formularze, o których mowa w § 3 ust. 2, 3, 10 i 12 rozporządzenia Ministra Środowiska z dnia 14 listopada 2016 r. w sprawie szczegółowego zakresu informacji zawartych w raporcie oraz sposobu jego wprowadzania do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji, nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia Krajowy ośrodek pozostawia bez rozpatrzenia, o czym informuje drogą elektroniczną osobę, która wypełniła formularz.
+§ 13.
+Traci moc rozporządzenie Ministra Środowiska z dnia 14 listopada 2016 r. w sprawie szczegółowego zakresu informacji zawartych w raporcie oraz sposobu jego wprowadzania do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji (Dz. U. poz. 1877).
+§ 14.
+Rozporządzenie wchodzi w życie z dniem 31 października 2022 r.
+1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079,
+Załącznik – Szczegółowy zakres informacji zawartych w raporcie, o którym mowa w art. 7 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
+Raport, o którym mowa w art. 7 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673), zawiera:
+1)
+w części dotyczącej podmiotu korzystającego ze środowiska:
+a)
+imię i nazwisko albo nazwę podmiotu, oznaczenie jego miejsca zamieszkania i adresu albo siedziby i adresu, numer telefonu komórkowego lub telefonu stacjonarnego, adres do doręczeń elektronicznych i adres strony internetowej podmiotu, o ile posiada stronę internetową,
+b)
+formę prawną podmiotu,
+c)
+numer identyfikacyjny w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON), numer identyfikacji podatkowej (NIP) oraz numer w Krajowym Rejestrze Sądowym (KRS), o ile te numery zostały nadane;
+2)
+w części dotyczącej korzystania ze środowiska:
+a)
+oznaczenie miejsca korzystania ze środowiska, gdzie jest prowadzona działalność powodująca emisje:
+– w przypadku zakładu: adres, numer telefonu, adres poczty elektronicznej i adres strony internetowej, o ile je posiada, współrzędne geograficzne lokalizacji zakładu odniesione do geograficznego środka zakładu, przeważający rodzaj działalności wykonywanej w zakładzie – według Polskiej Klasyfikacji Działalności (PKD), numer identyfikacyjny zakładu w Krajowym Rejestrze Uwalniania i Transferu Zanieczyszczeń, o ile go posiada,
+– w przypadku innego miejsca korzystania ze środowiska niż zakład: adres i współrzędne geograficzne,
+b)
+rok rozpoczęcia działalności oraz rok i sposób zakończenia działalności w miejscu korzystania ze środowiska,
+c)
+rodzaj korzystania ze środowiska (wprowadzanie gazów lub pyłów do powietrza, składowanie odpadów),
+d)
+informacje dotyczące eksploatowanych instalacji:
+– oznaczenie, sektor, rodzaj, podsektor, w tym rodzaj prowadzonego procesu,
+– kod PKD, numer rodzaju działalności, o którym mowa w załączniku I do rozporządzenia (WE) nr 166/2006 Parlamentu Europejskiego i Rady z dnia 18 stycznia 2006 r. w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającego dyrektywę Rady 91/689/EWG i 96/61/WE (Dz. Urz. UE L 33 z 04.02.2006, str. 1, z późn. zm.) (kod rodzaju działalności E-PRTR) i numer w Krajowym Planie Rozdziału Uprawnień (KPRU),
+– datę oddania do użytkowania, datę nabycia tytułu prawnego do instalacji,
+– zmiany dokonane w instalacji w okresie sprawozdawczym mające wpływ na wielkość emisji,
+– czas pracy instalacji i jej odstawienia (w tym czas pracy w warunkach normalnych i odbiegających od normalnych, liczba przerw),
+– parametry techniczne lub technologiczne instalacji właściwe dla danego rodzaju instalacji, w tym np. całkowitą pojemność, energię młota, liczbę kwater, liczbę budynków inwentarskich, duże jednostki przeliczeniowe inwentarza (DJP), rozumiane zgodnie z przepisami w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko, średnią długość cyklu produkcyjnego,
+– datę i formę zakończenia eksploatacji, a w przypadku nabycia tytułu prawnego do instalacji przez inny podmiot – REGON podmiotu, który stał się prowadzącym instalację,
+e)
+informacje o źródłach powstania emisji wchodzących w skład instalacji:
+– oznaczenie, rodzaj, typ,
+– proces prowadzony w źródle,
+– datę uzyskania pozwolenia na budowę, datę oddania do użytkowania, datę wyrejestrowania źródła na podstawie decyzji Urzędu Dozoru Technicznego lub datę trwałego wyłączenia źródła, planowany termin trwałego wyłączenia źródła,
+– zmiany dokonane w źródle,
+– czas pracy źródła, czas remontu źródła, czas odstawienia źródła (w tym czas pracy w warunkach normalnych i odbiegających od normalnych),
+– parametry techniczne lub technologiczne źródła właściwe dla danego rodzaju źródła, w tym np. nominalną moc cieplną, moc znamionową, sprawność nominalną, wydajność nominalną, wydajność topienia, pojemność wanny, metodę produkcji,
+f)
+informacje o miejscach emisji – emitorach, którymi gazy cieplarniane i inne substancje są wprowadzane do powietrza:
+– oznaczenie, rodzaj wylotu,
+– współrzędne geograficzne,
+– wysokość, średnicę,
+– temperaturę gazów odlotowych[3) Średnia temperatura gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w kelwinach [K].](#gloss-0:3:),
+– strumień objętości gazów odlotowych[4) Średni strumień objętości gazów odlotowych na wylocie emitora odniesiony do roku, wyrażony w metrach sześciennych na godzinę [m3/h].](#gloss-0:4:), prędkość gazów odlotowych[5) Średnia prędkość gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w metrach na sekundę [m/s].](#gloss-0:5:),
+– czas pracy emitora lub przewodu emitora,
+– średnioroczne stężenia zanieczyszczeń,
+– źródła i instalacje podłączone do emitora,
+g)
+charakterystykę środków technicznych mających na celu zapobieganie emisji lub ograniczanie emisji:
+– typ urządzenia redukcyjnego,
+– metodę redukcji,
+– źródła, instalacje i emitory podłączone do tego urządzenia redukcyjnego,
+– rodzaje zanieczyszczeń, których emisja jest redukowana,
+– sprawność redukcji,
+h)
+rodzaje i wielkości produkcji lub procesów przetwarzania związanych z emisjami i prowadzonych w instalacji,
+i)
+charakterystykę związanych z emisjami surowców i paliw zużywanych w instalacjach i źródłach powstawania emisji oraz odpadów poddawanych procesom unieszkodliwiania lub odzysku w instalacjach lub źródłach powstawania emisji:
+– rodzaj paliwa, odpadu i surowca,
+– ilość, wartość opałową, zawartość siarki i popiołu,
+j)
+rodzaje i ilości gazów cieplarnianych i innych substancji wprowadzanych do powietrza:
+– z instalacji lub źródeł powstawania emisji, metody ustalania wielkości emisji, a jeżeli emisja została ustalona metodą wskaźnikową – wskaźniki emisji, na których podstawie określono roczne wielkości emisji,
+– z procesów prowadzonych poza instalacjami oraz rodzaje tych procesów,
+k)
+informacje o pozwoleniach zintegrowanych lub pozwoleniach na wprowadzanie gazów lub pyłów do powietrza, o których mowa w art. 181, decyzjach, o których mowa w art. 154 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.), zezwoleniach, o których mowa w art. 51 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2022 r. poz. 1092, z późn. zm.), oraz o zgłoszeniach instalacji mogących negatywnie oddziaływać na środowisko z uwagi na wprowadzanie gazów lub pyłów do powietrza, o których mowa w art. 152 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, w tym:
+– organ wydający decyzję i jej znak,
+– datę wydania decyzji i termin jej obowiązywania,
+– informacje na temat zmiany decyzji, sprostowania błędów lub omyłek, w szczególności organ wydający decyzję lub postanowienie, znak i datę wydania decyzji lub postanowienia, zakres zmiany, rodzaj sprostowanego błędu lub sprostowanej omyłki,
+– instalacje objęte decyzją oraz rodzaje i ilości gazów lub pyłów dopuszczonych do wprowadzania do powietrza,
+– organ, który przyjął zgłoszenie,
+– datę dokonania zgłoszenia,
+l)
+informacje o korzystaniu z odstępstw od dopuszczalnych wielkości emisji dla źródła spalania paliw dotyczących w szczególności:
+– źródła, które będzie eksploatowane w ograniczonym czasie użytkowania, o którym mowa w art. 146a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska,
+– źródła szczytowego,
+– źródła, w którym są stosowane lokalne paliwa stałe,
+– źródła, w którego przypadku co najmniej 50% produkcji ciepła użytkowego wytwarzanego w tym źródle stanowi ciepło przekazywane do publicznej sieci ciepłowniczej w postaci pary lub gorącej wody, o którym mowa w art. 146b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska,
+m)
+informacje o korzystaniu z odstępstw od dopuszczalnych wielkości emisji dla instalacji, w których są używane rozpuszczalniki organiczne, do których stosuje się przepisy wydane na podstawie art. 146 ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+3)
+w części dotyczącej urządzeń, których eksploatacja powoduje emisje, rodzaj urządzenia oraz rodzaje i ilości gazów cieplarnianych i innych substancji wprowadzonych do powietrza w wyniku eksploatacji urządzenia albo rodzaj silnika stosowanego w urządzeniu oraz rodzaj i ilość spalonego w nim paliwa;
+4)
+w części dotyczącej przedsięwzięć inwestycyjnych:
+a)
+rodzaj przedsięwzięcia i adres jego realizacji,
+b)
+planowaną datę zakończenia realizacji przedsięwzięcia,
+c)
+prognozowane wielkości emisji ze zrealizowanego przedsięwzięcia lub prognozowane sprawności redukcji emisji albo prognozowane stężenia substancji w gazach odlotowych planowane do osiągnięcia w wyniku realizacji tego przedsięwzięcia.
+1) Podmiot przedkładający raport podaje tylko te informacje, które dotyczą realizowanego sposobu i zakresu korzystania ze środowiska. 2) Z wyjątkiem lokalizacji, dla których współrzędne geograficzne są informacjami niejawnymi w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742, z późn. zm.). 3) Średnia temperatura gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w kelwinach [K]. 4) Średni strumień objętości gazów odlotowych na wylocie emitora odniesiony do roku, wyrażony w metrach sześciennych na godzinę [m3/h]. 5) Średnia prędkość gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w metrach na sekundę [m/s].
+

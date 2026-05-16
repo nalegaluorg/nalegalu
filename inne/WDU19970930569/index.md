@@ -8,9 +8,10 @@ pos: 569
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 sierpnia 1997 r.
+# Ustawa z dnia 27 czerwca 1997 r. o zmianie ustawy o zasiłkach rodzinnych i pielęgnacyjnych oraz o zmianie innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,34 +25,199 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970930569) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/569/text.pdf) |
 
-Nr 93 Poz.: z 18 569
-USTAWA z dnia 27 czerwca 1997 r_ o zmianie ustawy o rodzinnych i oraz o zmianie innych ustaw_
+**Art. 1.** W ustawie z dnia 1 grudnia 1994 r. o zasiłkach rodzinnych i pielęgnacyjnych (Dz. U. z 1995 r. Nr 4, poz. 17 i Nr 138, poz. 681) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 1 grudnia 1994 r. o kach rodzinnych i (Dz. U. z 1995 r. Nr 4, poz. 17 i Nr 138, poz. 681) wprowadza zmiany: wart. 1 ust. 2 po wyrazach pobytu" do daje wyrazy "lub status umowy nie inaczej"; wart.
+**Art. 3.**
 
-**Art. 2.** W ustawie z dnia 14 grudnia 1982 r. o zaopa trzeniu emerytalnym pracowników i ich rodzin (Dz. U. Nr 40, poz. 267, z 1984 r. Nr 52, poz. 268 i 270, z 1986 r. Nr 1, poz. 1, z 1989 r. Nr 35, poz. 190 i 192, z 1990 r. Nr lO, poz. 58 i 61, Nr 36, poz. 206, Nr 66, poz. 390 i Nr87, poz. 506, z 1991 r. Nr7, poz. 24, Nr80, poz. 350 i Nr 94, poz. 422, z 1992 r. Nr 21, poz. 84 i Nr 64, poz. 321, z 1994 r. Nr 74, poz. 339 i Nr 108, poz. 516, z 1995 r. Nr 4, poz. 17, z 1996 r. Nr 100, poz. 461, Nr 136, poz. 636 i Nr 147, poz. 687 oraz z 1997 r. Nr 28, poz. 153) wart. 107 ust. 1 pkt 3 po wyrazach "funduszu ali mentacyjnego," dodaje wyrazy "a pobranych rodzinnych lub razie braku z za rodzinnych lub
+1. Przy ustalaniu prawa do zasiłku rodzinnego uwzględnia się dochody członków rodziny: uprawnionego, jego małżonka i dzieci, pozostających we wspólnym gospodarstwie domowym.
 
-**Art. 3.** W ustawie z dnia 29 listopada 1990 r. o po mocy (Dz.U. z 1993 r. Nr 13, poz. 60, z 1994 r. Nr 62, poz. 265, z 1996 r. Nr 100, poz. 459 i Nr 147, poz. 687 oraz z 1997 r. Nr 28, poz. 153) wprowadza zmiany:
+2. Za dochody, o których mowa w ust. 1, uważa się:
 
-**Art. 4.** W ustawie z dnia 14 grudnia 1994 r. o zatrud nieniu i bezrobociu (Dz. U. z 1997 r. Nr 25, poz. 128, Nr 28, poz. 153, Nr 41, poz. 255 i Nr 63, poz. 403) wprowadza zmiany:
+- **1)** dochody podlegające opodatkowaniu podatkiem dochodowym od osób fizycznych, z wyłączeniem kwot świadczonych alimentów ustalonych wyrokiem lub ugodą sądową,
+- **2)** renty inwalidów wojennych i wojskowych oraz ich rodzin, renty kombatanckie i renty osób represjonowanych oraz członków ich rodzin – przyznane na zasadach określonych w przepisach o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin,
+- **3)** dodatki kombatanckie, świadczenia pieniężne przysługujące osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę Niemiecką lub ZSRR, dodatek do emerytur i rent przyznany żołnierzom-górnikom na podstawie przepisów o dodatku i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnionym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu, dochody z tytułu emerytur i rent otrzymywanych przez osoby, które utraciły wzrok w wyniku działań wojennych w latach 1939–1945 lub eksplozji pozostałych po tej wojnie niewypałów i niewybuchów,
+- **4)** ryczałt energetyczny przysługujący kombatantom i innym osobom uprawnionym,
+- **5)** otrzymywane z zagranicy: renty z tytułu inwalidztwa wojennego, kwoty zaopatrzenia przyznane ofiarom wojny oraz członkom ich rodzin, renty wypadkowe osób, których inwalidztwo powstało w związku z przymusowym pobytem na robotach w III Rzeszy Niemieckiej w latach 1939–1945,
+- **6)** zasiłki wychowawcze,
+- **7)** rentę socjalną, stały zasiłek, stały zasiłek wyrównawczy i gwarantowany zasiłek okresowy,
+- **8)** zasiłki chorobowe wypłacane na podstawie odrębnych przepisów o ubezpieczeniu społecznym rolników oraz ubezpieczeniu członków rolniczych spółdzielni produkcyjnych, spółdzielni kółek rolniczych oraz ich rodzin,
+- **9)** dochody pochodzące z międzypaństwowych instytucji finansowych lub ze środków przyznanych przez rządy obcych państw na podstawie umów zawartych z tymi instytucjami lub państwami przez Radę Ministrów, właściwego ministra lub agencje rządowe oraz odsetki od tych dochodów lub środków lokowanych na bankowych rachunkach terminowych,
+- **10)** część dochodów osób fizycznych mających miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, a przebywających czasowo za granicą i uzyskujących dochody ze stosunku pracy lub stypendiów – w wysokości odpowiadającej równowartości diet określonych w odrębnych przepisach obowiązujących w przedsiębiorstwach państwowych w sprawie pokrywania kosztów podróży służbowych poza granicami kraju – obliczonych za okres, w którym była wykonywana praca lub było otrzymywane stypendium,
+- **11)** część dochodów osób fizycznych mających miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, przebywających czasowo za granicą i uzyskujących tam dochody z innych tytułów niż stosunek pracy lub stypendium – w wysokości odpowiadającej równowartości diet, określonych w odrębnych ustawach lub przepisach wydanych przez właściwego ministra w sprawie diet i innych należności z tytułu podróży służbowych poza granicami kraju, obliczonych za okres, w którym osoby te uzyskiwały dochód,
+- **12)** należności pieniężne wypłacane żołnierzom i pracownikom skierowanym do polskich kontyngentów w misjach międzynarodowych,
+- **13)** przychody ze stosunku służbowego otrzymywane w czasie służby kandydackiej przez funkcjonariuszy Policji, Państwowej Straży Pożarnej i Straży Granicznej,
+- **14)** wynagrodzenie otrzymywane przez członków rolniczych spółdzielni produkcyjnych z tytułu użytkowania przez spółdzielnię wniesionych wkładów gruntowych,
+- **15)** alimenty otrzymywane na rzecz dzieci na podstawie wyroku lub ugody sądowej,
+- **16)** stypendia.
+
+3. Dochody z tytułu prowadzenia działalności gospodarczej i współpracy przy prowadzeniu tej działalności przyjmuje się w wysokości nie niższej, niż zadeklarowane przez osoby osiągające te dochody kwoty stanowiące podstawę wymiaru składek na ubezpieczenie społeczne, a jeżeli z tytułu tej działalności lub współpracy nie istnieje obowiązek ubezpieczenia społecznego – kwoty nie niższe od najniższej podstawy wymiaru składek obowiązujących osoby ubezpieczone.
+
+4. Przeciętny miesięczny dochód rodziny ustala się dzieląc łączną kwotę dochodów uzyskanych przez członków rodziny, o których mowa w ust. 1, w roku kalendarzowym poprzedzającym okres zasiłkowy przez liczbę dwanaście. ” ;
+
+- **4)** w art. 4: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Przez osobę samotnie wychowującą dziecko rozumie się osobę stanu wolnego: pannę, kawalera, rozwiedzioną, rozwiedzionego, wdowę lub wdowca. ” , w ust. 4 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „
+
+- **b)**
+- **3)** małżonka oraz dzieci, o których mowa w ust. 3, nie zamieszkujących wspólnie z uprawnionym, na których ustala się prawo do zasiłku rodzinnego. ” ;
+- **5)** art. 5 otrzymuje brzmienie: „
 
 **Art. 5.**
 
-1. Przepisy ustawy, o której mowa wart. 3, zastosowanie do osób, które przed jej warunki niniejszej usta wie, tej sprawie odmow z wnioskiem o przyznanie czenia lub o na ubezpieczenie spo terminie 30 dni od dnia usta wy.
+1. W przypadku zwiększenia się liczby członków rodziny pozostających we wspólnym gospodarstwie domowym, na wniosek uprawnionego, przeciętny miesięczny dochód przypadający na jedną osobę w rodzinie ustala się ponownie. Prawo do zasiłku ustala się od miesiąca, w którym powstało prawo, do końca okresu zasiłkowego, z zastrzeżeniem art. 28.
 
-2. Termin 30 dni, o którym mowa wart. 31 ust. 4a ustawy, o której mowa wart. 3 brzmieniu nada nym nie dotyczy osób, o których mo wa ust. 1.
+2. W przypadku zmniejszenia się liczby członków rodziny pozostającej we wspólnym gospodarstwie domowym, przeciętny miesięczny dochód przypadający na jedną osobę w rodzinie ustala się ponownie. Prawo do zasiłku ustala się od miesiąca następującego po miesiącu, w którym wystąpiła ta okoliczność.
 
-3. W przypadku gdy okresie od 1 stycznia 1997 r. do dnia niniejszej ustawy osobom, o których mowa ust. l, przyznany okre sowy na podstawie art. 31 ust. 1 ustawy, o której mo wa wart. 3, kwoty przyznanego zalicza na poczet gwarantowanego okresowego i nie do konuje wyrównania.
+3. O zmniejszeniu się liczby członków rodziny uprawniony powinien niezwłocznie powiadomić organ wypłacający zasiłek. ” ;
+
+- **6)** art. 6 otrzymuje brzmienie: „
 
 **Art. 6.**
 
-1. Prawo do rodzinnego ustala po raz pierwszy na okres od dnia 1 1997 r. do dnia 31 maja 1998 r.
+1. W razie utraty źródła dochodu, o którym mowa w art. 3 ust. 2, przez uprawnionego lub członka jego rodziny, pozostającego we wspólnym gospodarstwie domowym, prawo do zasiłku, na wniosek uprawnionego, ustala się ponownie na podstawie przeciętnego miesięcznego dochodu przypadającego na osobę w rodzinie, z wyłączeniem utraconego źródła dochodu. Prawo do zasiłku ustala się od miesiąca następującego po miesiącu, w którym nastąpiła utrata źródła dochodu, z zastrzeżeniem art. 28. Przepisy art. 3 i 4 stosuje się odpowiednio.
 
-2. pracy do 31 grudnia 1997 r. za rodzinne i osobom gwarantowany okresowy, osobom tym dniu niniejszej ustawy pracy rodzinny lub albo prawo do gwarantowanego okresowego od dnia niniejszej ustawy.
+2. W razie uzyskania nowego źródła dochodu, o którym mowa w art. 3 ust. 2, przez uprawnionego lub członka jego rodziny, pozostającego we wspólnym gospodarstwie domowym, prawo do zasiłku rodzinnego ustala się ponownie od miesiąca następującego po upływie pełnego miesiąca kalendarzowego od uzyskania dochodu z tego źródła. Prawo to ustala się na podstawie przeciętnego miesięcznego dochodu przypadającego na osobę w rodzinie, z okresu, o którym mowa w art. 2 ust. 1, z doliczeniem dochodu na osobę w rodzinie z nowego źródła z miesiąca kalendarzowego, w którym został uzyskany.
 
-**Art. 7.** Zasiłki emerytom i rencistom z wieku 75 lat lub zaliczenia do I grupy inwalidów z mocy prawa od dnia ustawy dodatkami nymi rozumieniu przepisów o zaopatrzeniu emery talnym pracowników i ich rodzin lub o ubezpieczeniu bez wydawania decyzji.
+3. O uzyskaniu nowego źródła dochodu, o którym mowa w art. 3 ust. 2, uprawniony powinien niezwłocznie powiadomić organ wypłacający zasiłek. ” ;
 
-**Art. 8.** Minister Pracy i Polityki Socjalnej Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy o rodzinnych i z zmian z przepisów przed dniem wydania jednolitego tekstu.
+- **7)** w art. 9: w ust. 1 pkt 3 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 9.** Ustawa wchodzi z dniem 1 1997 r., z art. 13 ust. l pkt l, 2 i 3 oraz ust. la ustawy, o której mowa wart. 1 brzmieniu nada nym który wchodzi z dniem 1 stycznia 1998 r., oraz z art. 3, art. 4, art. 5 i art. 6 ust. 2, które z dniem nia ustawy. Prezydent Rzeczypospolitej Polskiej: A.
+- **3)** jest niepełnosprawny w stopniu znacznym lub umiarkowanym. ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
+
+2. Zasiłek rodzinny przysługuje na osobę wymienioną w art. 4 ust. 3 bez względu na wiek, gdy jest ona niepełnosprawna w stopniu znacznym lub umiarkowanym, jeżeli niepełnosprawność w stopniu umiarkowanym powstała w wieku uprawniającym do zasiłku. ” ;
+
+- **8)** w art. 13: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Zasiłek rodzinny przysługuje, z zastrzeżeniem ust. 2, w wysokości:
+
+- **1)** 29,10 złotych miesięcznie na małżonka oraz na pierwsze i drugie dziecko,
+- **2)** 36 złotych miesięcznie na trzecie dziecko,
+- **3)** 45 złotych na każde kolejne dziecko. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. Osobie samotnie wychowującej dziecko zasiłek rodzinny na to dziecko przysługuje w podwójnej wysokości, o ile dziecku przysługuje zasiłek pielęgnacyjny. ” , w ust. 2 i 4 wyrazy „1000 złotych” zastępuje się wyrazami „10 groszy”, w ust. 3 wyrazy „od dnia 1 marca” zastępuje się wyrazami „od dnia 1 czerwca”;
+
+- **c)**
+- **d)**
+- **9)** w art. 14: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Zasiłek pielęgnacyjny przysługuje:
+
+- **1)** dziecku w wieku do lat 16 w przypadku stwierdzenia przez publiczny zakład opieki zdrowotnej, że ze względu na stan zdrowia wymaga ono ze strony innej osoby stałej opieki polegającej na pielęgnacji lub na systematycznym współdziałaniu w postępowaniu leczniczym lub rehabilitacyjnym; stwierdzenie to jest równoznaczne z uznaniem dziecka za niepełnosprawne,
+- **2)** osobie w wieku powyżej 16 lat, jeżeli jest niepełnosprawna w stopniu umiarkowanym, a niepełnosprawność ta powstała w wieku uprawniającym do zasiłku rodzinnego,
+- **3)** osobie, która ukończyła 75 lat,
+- **4)** osobie, która jest niepełnosprawna w stopniu znacznym. ” , w ust. 4: – skreśla się wyrazy „przez komisję lekarską do spraw inwalidztwa i zatrudnienia”, – wyrazy „20 lat” zastępuje się wyrazami „24 lat”, ust. 5 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+5. Minister Zdrowia i Opieki Społecznej określi w drodze rozporządzenia:
+
+- **1)** stany zdrowia, o których mowa w ust. 3 pkt 1,
+- **2)** szczegółowe zasady, warunki oraz tryb wydawania zaświadczeń będących podstawą uzyskania zasiłku pielęgnacyjnego. ” ;
+- **10)** po art. 14 dodaje się art. 14a w brzmieniu: „
+
+**Art. 14a.**
+
+1. Zasiłek pielęgnacyjny nie przysługuje osobie przebywającej w domu pomocy społecznej, w domu dziecka lub innej placówce opiekuńczo-wychowawczej, z wyjątkiem osób, za których pobyt rodzina ponosi odpłatność.
+
+2. Zasiłek pielęgnacyjny przysługuje za miesiące, w których osoba uprawniona do zasiłku nie przebywała w placówce, o której mowa w ust. 1, co najmniej przez dwa tygodnie. ” ;
+
+- **11)** w art. 17 skreśla się ust. 3;
+- **12)** w art. 18: w pkt 1 na końcu zdania dodaje się wyrazy „o których mowa w art. 14 ust. 3 pkt 1,” pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2)** orzeczenie o niepełnosprawności wydane na podstawie odrębnych przepisów, ” ;
+- **13)** art. 19 otrzymuje brzmienie: „
+
+**Art. 19.**
+
+1. Niepełnosprawność, o której mowa w ustawie, ustala się na zasadach i w trybie określonych w przepisach o zatrudnieniu i rehabilitacji osób niepełnosprawnych.
+
+2. Ilekroć w ustawie jest mowa o:
+
+- **1)** niepełnosprawności w stopniu znacznym – należy przez to rozumieć również całkowitą niezdolność do pracy oraz do samodzielnej egzystencji, orzeczoną na podstawie przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin, lub stałą albo długotrwałą niezdolność do pracy w gospodarstwie rolnym i do samodzielnej egzystencji, orzeczoną na podstawie przepisów o ubezpieczeniu społecznym rolników, w celu uzyskania świadczeń określonych w tych przepisach,
+- **2)** niepełnosprawności w stopniu umiarkowanym – należy przez to rozumieć również całkowitą niezdolność do pracy, orzeczoną na podstawie przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin, lub stałą albo długotrwałą niezdolność do pracy w gospodarstwie rolnym, orzeczoną na podstawie przepisów o ubezpieczeniu społecznym rolników w celu uzyskania świadczeń określonych w tych przepisach. ” ;
+- **14)** w art. 20: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Uprawnienia do zasiłków rodzinnych i pielęgnacyjnych ustalają oraz zasiłki te wypłacają:
+
+- **1)** pracodawcy zatrudniający co najmniej 5 pracowników – swoim pracownikom w czasie trwania ich zatrudnienia, a po rozwiązaniu stosunku pracy – za miesiące kalendarzowe, w których pracodawca wypłacił zasiłek z ubezpieczenia społecznego w razie choroby i macierzyństwa,
+- **2)** właściwe jednostki organizacyjne podległe Ministrowi Obrony Narodowej, Ministrowi Spraw Wewnętrznych i Administracji, Szefowi Urzędu Ochrony Państwa oraz Ministrowi Sprawiedliwości – żołnierzom lub funkcjonariuszom tych służb,
+- **3)** Prezes Kasy Rolniczego Ubezpieczenia Społecznego – osobom podlegającym ubezpieczeniu społecznemu rolników,
+- **4)** jednostki, które zawarły umowę agencyjną lub umowę zlecenia – osobom ubezpieczonym z tytułu wykonywania pracy na podstawie umowy agencyjnej lub umowy zlecenia,
+- **5)** rolnicze spółdzielnie produkcyjne – swoim członkom,
+- **6)** zespoły adwokackie – adwokatom, członkom zespołów adwokackich,
+- **7)** rejonowe urzędy pracy – bezrobotnym oraz osobom pobierającym zasiłki przedemerytalne i świadczenia przedemerytalne,
+- **8)** oddziały Zakładu Ubezpieczeń Społecznych – ubezpieczonym innym niż wymienieni w pkt 1 i 3–7,
+- **9)** właściwe organy rentowe – osobom, którym wypłacają świadczenia emerytalno-rentowe,
+- **10)** właściwe jednostki organizacyjne gminy – ośrodki pomocy społecznej – w pozostałych przypadkach ” , w ust. 2 wyraz „wypłacają” zastępuje się wyrazem „realizują” oraz wyrazy „pkt 6” zastępuje się wyrazami „pkt 10”, ust. 3 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+3. Ustalenie uprawnień do zasiłków rodzinnych i pielęgnacyjnych w przypadkach, o których mowa w ust. 1 pkt 2, 3, 8, 9 i 10, następuje w formie decyzji. ” ;
+
+- **15)** art. 21 otrzymuje brzmienie: „
+
+**Art. 21.** Pracodawcy, właściwe jednostki organizacyjne podległe Ministrowi Obrony Narodowej, Ministrowi Spraw Wewnętrznych i Administracji, Szefowi Urzędu Ochrony Państwa, Ministrowi Sprawiedliwości, jednostki, które zawarły umowę agencyjną lub umowę zlecenia, rolnicze spółdzielnie produkcyjne, zespoły adwokackie, właściwe organy finansowe oraz urzędy administracji rządowej i samorządowej są obowiązane wydawać zaświadczenia potrzebne do ustalenia uprawnień do zasiłku rodzinnego i pielęgnacyjnego. Zaświadczenia takie są wolne od opłat. ” ;
+
+**Art. 23.** Wypłacone przez pracodawców, jednostki, które zawarły umowę agencyjną lub umowę zlecenia, rolnicze spółdzielnie produkcyjne, zespoły adwokackie i rejonowe urzędy pracy zasiłki rodzinne i pielęgnacyjne zalicza się na poczet należnych składek na ubezpieczenie społeczne, z wyjątkiem zasiłków, których wypłata uznana została za bezpodstawną na podstawie decyzji oddziału Zakładu Ubezpieczeń Społecznych. ” ;
+
+**Art. 24a.**
+
+1. Kontrola prawidłowości wypłacania zasiłków rodzinnych należy do organu uprawnionego do wydania decyzji w sprawach zasiłków.
+
+2. W razie powzięcia wątpliwości przez organ uprawniony do wydania decyzji może on poddać weryfikacji oświadczenia, o których mowa w art. 17 ust. 1. W tym celu organ ten może w szczególności wezwać osobę, której przyznano zasiłek, do złożenia dodatkowych wyjaśnień lub do udokumentowania dochodów. ” ;
+
+- **19)** w art. 25 ust. 2 otrzymuje brzmienie: „
+
+2. Odwołanie od decyzji jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, Ministrowi Spraw Wewnętrznych i Administracji, Szefowi Urzędu Ochrony Państwa, Ministrowi Sprawiedliwości oraz od decyzji ośrodków pomocy społecznej następuje w trybie przepisów Kodeksu postępowania administracyjnego. ” ;
+
+- **20)** w art. 26 ust. 6 otrzymuje brzmienie: „
+
+6. Kwoty nienależnie pobranych zasiłków rodzinnych lub pielęgnacyjnych, ustalone prawomocną decyzją wydaną zgodnie z przepisami art. 20 ust. 3 i art. 24, podlegają potrąceniu z wypłacanych zasiłków rodzinnych lub pielęgnacyjnych, a jeżeli prawo do pobierania zasiłków nie istnieje, podlegają:
+
+- **1)** potrąceniu przez organ rentowy z wypłacanych emerytur i rent, jeżeli organ ten wypłacał je wraz z emeryturą lub rentą,
+- **2)** ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji – w pozostałych przypadkach. ” ;
+- **21)** w art. 27 ust. 2 otrzymuje brzmienie: „
+
+2. W przypadku nabycia prawa do zasiłków po raz pierwszy lub ponownego ustalenia uprawnień zasiłki rodzinne i pielęgnacyjne wypłaca się nie później niż do 15. dnia miesiąca następującego po miesiącu, w którym przedstawione zostały dowody niezbędne do wypłaty zasiłków. ” ;
+
+- **22)** w art. 28 ust. 1 otrzymuje brzmienie: „
+
+1. Zasiłek rodzinny i pielęgnacyjny wypłaca się, poczynając od miesiąca kalendarzowego, w którym powstało prawo do zasiłku, jednak za okres nie dłuższy niż jeden miesiąc wstecz od miesiąca, w którym zgłoszono wniosek. ” ;
+
+- **23)** w art. 29 ust. 4 otrzymuje brzmienie: „
+
+4. W razie zbiegu prawa do zasiłku rodzinnego z prawem do walutowego dodatku rodzinnego, przysługującego pracownikom polskich placówek dyplomatycznych i urzędów konsularnych, wypłaca się świadczenie wybrane przez zainteresowanego. ” ;
+
+- **24)** art. 30 otrzymuje brzmienie: „
+
+**Art. 30.**
+
+1. Uprawnionemu wypłaca się tylko jeden zasiłek pielęgnacyjny.
+
+2. W przypadku zbiegu prawa do zasiłku pielęgnacyjnego z prawem do dodatku pielęgnacyjnego do emerytury lub renty wypłaca się dodatek pielęgnacyjny, z zastrzeżeniem ust. 3.
+
+3. Dodatek pielęgnacyjny wypłaca się od miesiąca, od którego przyznano emeryturę lub rentę, bądź od miesiąca następnego po zaprzestaniu wypłaty zasiłku pielęgnacyjnego. ” ;
+
+- **25)** po art. 33 dodaje się art. 33a w brzmieniu: „
+
+**Art. 33a.** Osobom indywidualnie opłacającym składki na ubezpieczenie społeczne zasiłki rodzinne i pielęgnacyjne mogą być, na ich wniosek, wypłacane przez pomniejszenie należności z tytułu składek na ubezpieczenie społeczne o kwoty przysługujących zasiłków. ” .
+
+**Art. 2.** W ustawie z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. Nr 40, poz. 267, z 1984 r. Nr 52, poz. 268 i 270, z 1986 r. Nr 1, poz. 1, z 1989 r. Nr 35, poz. 190 i 192, z 1990 r. Nr 10, poz. 58 i 61, Nr 36, poz. 206, Nr 66, poz. 390 i Nr 87, poz. 506, z 1991 r. Nr 7, poz. 24, Nr 80, poz. 350 i Nr 94, poz. 422, z 1992 r. Nr 21, poz. 84 i Nr 64, poz. 321, z 1994 r. Nr 74, poz. 339 i Nr 108, poz. 516, z 1995 r. Nr 4, poz. 17, z 1996 r. Nr 100, poz. 461, Nr 136, poz. 636 i Nr 147, poz. 687 oraz z 1997 r. Nr 28, poz. 153) w art. 107 w ust. 1 w pkt 3 po wyrazach „funduszu alimentacyjnego,” dodaje się wyrazy „a także nienależnie pobranych zasiłków rodzinnych lub pielęgnacyjnych w razie braku możliwości potrącenia z wypłaconych zasiłków rodzinnych lub pielęgnacyjnych,”. W ustawie z dnia 29 listopada 1990 r. o pomocy społecznej (Dz. U. z 1993 r. Nr 13, poz. 60, z 1994 r. Nr 62, poz. 265, z 1996 r. Nr 100, poz. 459 i Nr 147, poz. 687 oraz z 1997 r. Nr 28, poz. 153) wprowadza się następujące zmiany:
+
+**Art. 4.** W ustawie z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U. z 1997 r. Nr 25, poz. 128, Nr 28, poz. 153, Nr 41, poz. 255 i Nr 63, poz. 403) wprowadza się następujące zmiany:
+
+**Art. 7.** Zasiłki pielęgnacyjne wypłacane emerytom i rencistom z tytułu ukończenia wieku 75 lat życia lub zaliczenia do I grupy inwalidów stają się z mocy prawa od dnia wejścia w życie ustawy dodatkami pielęgnacyjnymi w rozumieniu przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin lub o ubezpieczeniu społecznym bez konieczności wydawania decyzji.
+
+**Art. 8.** Minister Pracy i Polityki Socjalnej ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy o zasiłkach rodzinnych i pielęgnacyjnych, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
+
+**Art. 9.** Ustawa wchodzi w życie z dniem 1 września 1997 r., z wyjątkiem art. 13 ust. 1 pkt 1, 2 i 3 oraz ust. 1a ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie z dniem 1 stycznia 1998 r., oraz z wyjątkiem art. 3, art. 4, art. 5 i art. 6 ust. 2, które wchodzą w życie z dniem ogłoszenia ustawy.
 

@@ -8,9 +8,10 @@ pos: 1769
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Poz. 1769 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 27 listopada 2024 sprawie ogłoszenia jednolitego tekstu ochronie baz
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie baz danych
 
 | Pole | Wartość |
 |---|---|
@@ -24,78 +25,123 @@ domain: null
 | Ostatnia zmiana | 2024-12-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001769) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1769/text.pdf) |
 
-1. Na podstawie 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst 27 lipca 2001 ochronie baz (Dz. U. 2021 poz. 386), uwzględnieniem zmian wprowadzonych ustawą 26 lipca 2024 zmianie prawie autorskim prawach pokrewnych, ochronie baz oraz zbiorowym zarządzaniu prawami autorskimi prawami pokrewnymi (Dz. U. poz. 1254) oraz zmian wynikających przepisów ogłoszonych przed dniem 27 listopada 2024 Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje 5 26 lipca 2024 zmianie prawie autorskim prawach pokrewnych, ochronie baz oraz zbiorowym zarządzaniu prawami autorskimi prawami pokrewnymi (Dz. U. poz. 1254), który stanowi: „Art. 5. Ustawa wchodzi życie po upływie miesiąca od ogłoszenia, wyjątkiem 1 24, który wchodzi życie po upływie 6 miesięcy od ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia 4 lutego 1994 prawie autorskim prawach pokrewnych (Dz. U. 2022 poz. 2509 oraz 2024 poz. 1222
-1254) bazom spełniającym cechy utworu.
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 27 lipca 2001 r. o ochronie baz danych
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 lipca 2001 r. o ochronie baz danych (Dz. U. z 2021 r. poz. 386), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 lipca 2024 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. poz. 1254) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 listopada 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 26 lipca 2024 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. poz. 1254), który stanowi:
+„
 
-**Art. 1.** W rozumieniu ustawy:
+**Art. 5.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 24, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 27 lipca 2001 r. o ochronie baz danych
 
-**Art. 3.** Wypożyczenie baz nie stanowi pobierania wtórnego ich wykorzystania.
+**Art. 1.** Bazy danych podlegają ochronie określonej w ustawie niezależnie od ochrony przyznanej na podstawie ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509 oraz z 2024 r. poz. 1222 i 1254) bazom danych spełniającym cechy utworu.
 
-**Art. 4.** Ochrona przyznana bazom nie obejmuje programów komputerowych użytych sporządzenia baz korzystania nich.
+**Art. 2.**
 
-**Art. 5.** Z ochrony korzystają bazy danych, których:
+1. W rozumieniu ustawy:
+
+- **1)** baza danych oznacza zbiór danych lub jakichkolwiek innych materiałów i elementów zgromadzonych według określonej systematyki lub metody, indywidualnie dostępnych w jakikolwiek sposób, w tym środkami elektronicznymi, wymagający istotnego, co do jakości lub ilości, nakładu inwestycyjnego w celu sporządzenia, weryfikacji lub prezentacji jego zawartości;
+- **2)** pobieranie danych oznacza stałe lub czasowe przejęcie lub przeniesienie całości lub istotnej, co do jakości lub ilości, części zawartości bazy danych na inny nośnik, bez względu na sposób lub formę tego przejęcia lub przeniesienia, z zastrzeżeniem art. 3;
+- **3)** wtórne wykorzystanie oznacza publiczne udostępnienie bazy danych w dowolnej formie, a w szczególności poprzez rozpowszechnianie, bezpośrednie przekazywanie lub najem, z zastrzeżeniem art. 3;
+- **4)** producentem bazy danych jest osoba fizyczna, prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która ponosi ryzyko nakładu inwestycyjnego przy tworzeniu bazy danych;
+- **5)** eksploracja tekstów i danych oznacza eksplorację tekstów i danych w rozumieniu art. 6 ust. 1 pkt 22 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych;
+- **6)** instytucja oświatowa oznacza instytucję oświatową w rozumieniu art. 6 ust. 1 pkt 13 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych;
+- **7)** instytucja dziedzictwa kulturowego oznacza instytucję dziedzictwa kulturowego w rozumieniu art. 6 ust. 1 pkt 21 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych.
+
+2. Ilekroć w ustawie jest mowa o producencie, należy przez to rozumieć także jego następcę prawnego.
+
+**Art. 3.** Wypożyczenie baz danych nie stanowi pobierania danych lub wtórnego ich wykorzystania.
+
+**Art. 4.** Ochrona przyznana bazom danych nie obejmuje programów komputerowych użytych do sporządzenia baz danych lub korzystania z nich. Z ochrony korzystają bazy danych, których:
+
+**Art. 6.**
+
+1. Producentowi bazy danych przysługuje wyłączne i zbywalne prawo pobierania danych i wtórnego ich wykorzystania w całości lub w istotnej części, co do jakości lub ilości.
+
+2. Domniemywa się, że producentem jest osoba, której nazwisko lub firmę (nazwę) w tym charakterze uwidoczniono na egzemplarzach bazy danych lub której nazwisko lub firmę (nazwę) podano do publicznej wiadomości w jakikolwiek inny sposób w związku z rozpowszechnieniem bazy danych.
 
 **Art. 7.**
 
-1. Producent bazy udostępnionej publicznie jakikolwiek sposób nie może zabronić użytkownikowi korzystającemu zgodnie prawem takiej bazy danych, pobierania wtórnego wykorzystania jakimkolwiek nieistotnej, co jakości ilości, części jej zawartości. Jeżeli użytkownik korzystający zgodnie prawem bazy jest uprawniony pobierania wtórnego wykorzystania jedynie części bazy danych, przepis ust. 1 dotyczy tylko tej części.
+1. Producent bazy danych udostępnionej publicznie w jakikolwiek sposób nie może zabronić użytkownikowi korzystającemu zgodnie z prawem z takiej bazy danych, pobierania lub wtórnego wykorzystania w jakimkolwiek celu nieistotnej, co do jakości lub ilości, części jej zawartości.
 
-3. Korzystanie baz danych, którym ust. 1, nie może naruszać normalnego korzystania baz godzić słuszne interesy producenta baz danych.
+2. Jeżeli użytkownik korzystający zgodnie z prawem z bazy danych jest uprawniony do pobierania lub wtórnego wykorzystania jedynie części bazy danych, przepis ust. 1 dotyczy tylko tej części.
 
-4. Postanowienia umowne sprzeczne ust. 1 są nieważne.
+3. Korzystanie z baz danych, o którym mowa w ust. 1, nie może naruszać normalnego korzystania z baz danych lub godzić w słuszne interesy producenta baz danych.
+
+4. Postanowienia umowne sprzeczne z ust. 1 i 2 są nieważne.
 
 **Art. 8.**
 
-1. Wolno korzystać istotnej, co jakości ilości, części rozpowszechnionej bazy danych:
+1. Wolno korzystać z istotnej, co do jakości lub ilości, części rozpowszechnionej bazy danych:
 
-- **1)** własnego użytku osobistego, ale tylko zawartości nieelektronicznej bazy danych;
-- **2)** charakterze ilustracji, celach dydaktycznych badawczych, ze wskazaniem źródła, jeżeli takie korzystanie jest uzasadnione niekomercyjnym celem, dla którego wykorzystano bazę;
-- **3)** celów bezpieczeństwa wewnętrznego, postępowania sądowego administracyjnego;
-- **4)** dla dobra osób niepełnosprawnych będących beneficjentami rozumieniu 6 ust. 1 18 4 lutego 1994 prawie autorskim prawach pokrewnych, odpowiednio na zasadach określonych rozdziale 3 oddziale 3 tej ustawy.
+- **1)** do własnego użytku osobistego, ale tylko z zawartości nieelektronicznej bazy danych;
+- **2)** w charakterze ilustracji, w celach dydaktycznych lub badawczych, ze wskazaniem źródła, jeżeli takie korzystanie jest uzasadnione niekomercyjnym celem, dla którego wykorzystano bazę;
+- **3)** do celów bezpieczeństwa wewnętrznego, postępowania sądowego lub administracyjnego;
+- **4)** dla dobra osób niepełnosprawnych będących beneficjentami w rozumieniu art. 6 ust. 1 pkt 18 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, odpowiednio na zasadach określonych w rozdziale 3 w oddziale 31 tej ustawy.
 
-1a. W przypadku instytucji oświatowych oraz podmiotów, których 7 ust. 1 1, 4–8 20 lipca 2018 Prawo szkolnictwie wyższym nauce (Dz. U. 2024 poz. 1571), korzystanie, którym ust. 1 2, odbywa się na odpowiedzialność tych instytucji podmiotów, na ich terenie innym miejscu, za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla osób uczących się nauczających prowadzących działalność naukową danej instytucji danym podmiocie.
+1a. W przypadku instytucji oświatowych oraz podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571), korzystanie, o którym mowa w ust. 1 pkt 2, odbywa się na odpowiedzialność tych instytucji lub podmiotów, na ich terenie lub w innym miejscu, lub za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla osób uczących się i nauczających lub prowadzących działalność naukową w danej instytucji lub danym podmiocie.
 
-1b. Uznaje się, że korzystanie baz charakterze ilustracji celach dydaktycznych, za pośrednictwem bezpiecznego środowiska elektronicznego, sposób określony ust. 1a, odbywa się państwie członkowskim Unii Europejskiej państwie członkowskim Europejskiego Porozumienia Wolnym Handlu (EFTA) stronie umowy Europejskim Obszarze Gospodarczym, którym dana instytucja oświatowa dany podmiot mają siedzibę. Nie jest dozwolone powtarzające się systematyczne pobieranie wtórne wykorzystanie sprzeczne normalnym korzystaniem powodujące nieusprawiedliwione naruszenie słusznych interesów producenta.
+1b. Uznaje się, że korzystanie z baz danych w charakterze ilustracji w celach dydaktycznych, za pośrednictwem bezpiecznego środowiska elektronicznego, w sposób określony w ust. 1a, odbywa się w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w którym dana instytucja oświatowa lub dany podmiot mają siedzibę.
 
-**Art. 8a.**
+2. Nie jest dozwolone powtarzające się i systematyczne pobieranie lub wtórne wykorzystanie sprzeczne z normalnym korzystaniem i powodujące nieusprawiedliwione naruszenie słusznych interesów producenta.
 
-- **7)** 1. Wolno zwielokrotniać rozpowszechnione bazy eksploracji tekstów danych, chyba że uprawniony zastrzegł inaczej. Zastrzeżenia, którym ust. 1, dokonuje się wyraźnie odpowiednio sposobu, jaki baza została udostępniona. W przypadku baz publicznie udostępnionych taki sposób, aby każdy mógł mieć nich dostęp miejscu czasie siebie wybranym, zastrzeżenia dokonuje się formacie przeznaczonym odczytu maszynowego rozumieniu 7 11 sierpnia 2021 otwartych ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. 2023 poz. 1524) wraz metadanymi. jącego dostęp nich wyłącznie upoważnionym osobom, uwzględnieniem procedur uwierzytelniających.
+1. Wolno zwielokrotniać rozpowszechnione bazy danych w celu eksploracji tekstów i danych, chyba że uprawniony zastrzegł inaczej.
 
-3. Uprawniony, zapewnienia bezpieczeństwa integralności sieci baz danych, których utwory są przechowywane, może stosować wyłącznie środki niezbędne osiągnięcia tego celu.
+2. Zastrzeżenia, o którym mowa w ust. 1, dokonuje się wyraźnie i odpowiednio do sposobu, w jaki baza danych została udostępniona. W przypadku baz danych publicznie udostępnionych w taki sposób, aby każdy mógł mieć do nich dostęp w miejscu i czasie przez siebie wybranym, zastrzeżenia dokonuje się w formacie przeznaczonym do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524) wraz z metadanymi.
 
-**Art. 8c.**
+3. Bazy danych zwielokrotnione zgodnie z ust. 1 mogą być przechowywane wyłącznie w celu eksploracji tekstów i danych tak długo, jak jest to konieczne do osiągnięcia tego celu.
 
-- **7)** Instytucje dziedzictwa kulturowego mogą zwielokrotniać bazy znajdujące się na stałe ich zbiorach, niezależnie od formatu nośnika, uzupełnienia, zachowania ochrony tych zbiorów.
+1. Instytucje dziedzictwa kulturowego, a także podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, mogą zwielokrotniać bazy danych w celu eksploracji tekstów i danych do celów badań naukowych, jeżeli czynności te nie są dokonywane w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej.
 
-**Art. 8d.**
+2. Bazy danych zwielokrotnione zgodnie z ust. 1 mogą być przechowywane do celów badań naukowych, w tym weryfikacji wyników tych badań. Przechowywanie baz danych odbywa się z zachowaniem poziomu bezpieczeństwa zapewniającego dostęp do nich wyłącznie upoważnionym osobom, z uwzględnieniem procedur uwierzytelniających.
 
-- **7)** Instytucje dziedzictwa kulturowego mogą zwielokrotniać znajdujące się na stałe ich zbiorach bazy uznane za niedostępne handlu oraz rozpowszechniać je na stronach internetowych, które nie są prowadzone celach zarobkowych. Przepisy oddziałów 6 6 rozdziału 3 4 lutego 1994 prawie autorskim prawach pokrewnych stosuje się odpowiednio.
+3. Uprawniony, w celu zapewnienia bezpieczeństwa i integralności sieci i baz danych, w których utwory są przechowywane, może stosować wyłącznie środki niezbędne do osiągnięcia tego celu. Instytucje dziedzictwa kulturowego mogą zwielokrotniać bazy danych znajdujące się na stałe w ich zbiorach, niezależnie od formatu lub nośnika, w celu uzupełnienia, zachowania lub ochrony tych zbiorów. Instytucje dziedzictwa kulturowego mogą zwielokrotniać znajdujące się na stałe w ich zbiorach bazy danych uznane za niedostępne w handlu oraz rozpowszechniać je na stronach internetowych, które nie są prowadzone w celach zarobkowych. Przepisy oddziałów 6 i 62 rozdziału 3 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych stosuje się odpowiednio.
 
 **Art. 9.**
 
-1. (utracił moc) Pierwsza sprzedaż kopii bazy państwach członkowskich Unii Europejskiej państwach członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) stronach umowy Europejskim Obszarze Gospodarczym uprawnionego za jego zgodą, wyczerpuje prawo kontrolowania odsprzedaży tej kopii na ich terytorium.
+1. (utracił moc)
+
+2. Pierwsza sprzedaż kopii bazy danych w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym przez uprawnionego lub za jego zgodą, wyczerpuje prawo do kontrolowania odsprzedaży tej kopii na ich terytorium.
 
 **Art. 10.**
 
-1. Czas trwania ochrony bazy liczy się od jej sporządzenia okres piętnastu lat następujących po roku, którym baza została sporządzona. Jeżeli okresie, którym ust. 1, baza została jakikolwiek sposób udostępniona publicznie, okres jej ochrony wygasa upływem piętnastu lat następujących po roku, którym doszło jej udostępnienia po raz pierwszy.
+1. Czas trwania ochrony bazy danych liczy się od jej sporządzenia przez okres piętnastu lat następujących po roku, w którym baza danych została sporządzona.
 
-3. W przypadku jakiejkolwiek istotnej zmiany treści bazy danych, co jakości ilości, tym jej uzupełnienia, zmiany usunięcia jej części, mających znamiona nowego istotnego, co jakości ilości, nakładu, okres jej ochrony liczy się odrębnie.
+2. Jeżeli w okresie, o którym mowa w ust. 1, baza danych została w jakikolwiek sposób udostępniona publicznie, okres jej ochrony wygasa z upływem piętnastu lat następujących po roku, w którym doszło do jej udostępnienia po raz pierwszy.
+
+3. W przypadku jakiejkolwiek istotnej zmiany treści bazy danych, co do jakości lub ilości, w tym jej uzupełnienia, zmiany lub usunięcia jej części, mających znamiona nowego istotnego, co do jakości lub ilości, nakładu, okres jej ochrony liczy się odrębnie.
 
 **Art. 11.**
 
-1. Producent, którego prawa bazy zostały naruszone, może żądać od osoby, która naruszyła te prawa:
+1. Producent, którego prawa do bazy danych zostały naruszone, może żądać od osoby, która naruszyła te prawa:
 
 - **1)** zaniechania naruszania;
 - **2)** usunięcia skutków naruszenia;
-- **3)** naprawienia wyrządzonej szkody:
-    - **a)** na zasadach ogólnych albo
-    - **b)** poprzez zapłatę sumy pieniężnej wysokości odpowiadającej dwukrotności, a przypadku gdy naruszenie jest zawinione trzykrotności stosownego wynagrodzenia, które chwili jego dochodzenia byłoby należne tytułem udzielenia uprawnionego zgody na korzystanie bazy danych;
+- **3)** naprawienia wyrządzonej szkody: na zasadach ogólnych albo poprzez zapłatę sumy pieniężnej w wysokości odpowiadającej dwukrotności, a w przypadku gdy naruszenie jest zawinione – trzykrotności stosownego wynagrodzenia, które w chwili jego dochodzenia byłoby należne tytułem udzielenia przez uprawnionego zgody na korzystanie z bazy danych;
+    - **a)**
+    - **b)**
 
-- **4)** wydania uzyskanych korzyści. Niezależnie od roszczeń, określonych ust. 1, producent może się domagać jednokrotnego albo wielokrotnego ogłoszenia prasie oświadczenia odpowiedniej treści odpowiedniej formie podania publicznej wiadomości części albo całości orzeczenia sądu wydanego rozpatrywanej sprawie, sposób zakresie określonym sąd.
+- **4)** wydania uzyskanych korzyści.
 
-3. Sąd może nakazać osobie, która naruszyła prawa bazy danych, na jej wniosek za zgodą producenta, przypadku gdy naruszenie jest niezawinione, zapłatę stosownej sumy pieniężnej na rzecz producenta, jeżeli zaniechanie naruszania usunięcie skutków naruszenia byłoby dla osoby naruszającej niewspółmiernie dotkliwe.
+2. Niezależnie od roszczeń, określonych w ust. 1, producent może się domagać jednokrotnego albo wielokrotnego ogłoszenia w prasie oświadczenia odpowiedniej treści i w odpowiedniej formie lub podania do publicznej wiadomości części albo całości orzeczenia sądu wydanego w rozpatrywanej sprawie, w sposób i w zakresie określonym przez sąd.
 
-4. Sąd, rozstrzygając naruszeniu prawa, może orzec na wniosek producenta, którego prawa zostały naruszone, bez3. (uchylony)
+3. Sąd może nakazać osobie, która naruszyła prawa do bazy danych, na jej wniosek i za zgodą producenta, w przypadku gdy naruszenie jest niezawinione, zapłatę stosownej sumy pieniężnej na rzecz producenta, jeżeli zaniechanie naruszania lub usunięcie skutków naruszenia byłoby dla osoby naruszającej niewspółmiernie dotkliwe.
+
+4. Sąd, rozstrzygając o naruszeniu prawa, może orzec na wniosek producenta, którego prawa zostały naruszone, o bezprawnie wytworzonych przedmiotach oraz środkach i materiałach użytych do ich wytworzenia, w szczególności może orzec o ich wycofaniu z obrotu, przyznaniu producentowi na poczet należnego odszkodowania lub zniszczeniu. Orzekając, sąd uwzględnia wagę naruszenia oraz interesy osób trzecich.
+
+5. Domniemywa się, że środki i materiały, o których mowa w ust. 4, są własnością osoby, która naruszyła prawa do bazy danych.
+
+1. W sprawach dotyczących roszczeń cywilnoprawnych z zakresu ochrony baz danych, nienależących do kompetencji innych organów, sąd rozpoznaje wniosek o:
+
+- **1)** zabezpieczenie środka dowodowego;
+- **2)** wyjawienie lub wydanie środka dowodowego;
+- **3)** wezwanie do udzielenia informacji.
+
+2. Sprawy, o których mowa w ust. 1, są rozstrzygane w postępowaniu w sprawach własności intelektualnej.
+
+3. (uchylony)
 
 4. (uchylony)
 
@@ -105,21 +151,27 @@ Marszałek Sejmu: S. Hołownia 4 lutego 1994 prawie autorskim prawach pokrewnych
 
 **Art. 12.**
 
-1. Kto osiągnięcia korzyści majątkowych, bez uprawnienia wbrew jego warunkom, pobiera dane wtórnie wykorzystuje całości istotnej, co jakości ilości, części bazy danych, podlega karze grzywny. Orzekanie następuje na podstawie Kodeksu postępowania sprawach wykroczenia.
+1. Kto w celu osiągnięcia korzyści majątkowych, bez uprawnienia lub wbrew jego warunkom, pobiera dane lub wtórnie wykorzystuje w całości lub w istotnej, co do jakości lub ilości, części bazy danych, podlega karze grzywny.
+
+2. Orzekanie następuje na podstawie Kodeksu postępowania w sprawach o wykroczenia.
 
 3. Sąd może orzec przepadek, na rzecz Skarbu Państwa, bezprawnie wykonanych egzemplarzy bazy danych.
 
-**Art. 13.** Prawo bazy nie narusza ochrony treści bazy udzielanej na podstawie 4 lutego 1994 prawie autorskim prawach pokrewnych, ochrony jakichkolwiek składających się na bazę elementów, udzielanej na podstawie przepisów wynalazkach, znakach towarowych, wzorach przemysłowych, oznaczeniach pochodzenia, zwalczaniu nieuczciwej konkurencji, tajemnicy prawnie chronionej, ochronie informacji niejawnych, ochronie osobowych, a także prawa cywilnego prawa pracy.
+**Art. 13.** Prawo do bazy danych nie narusza ochrony treści bazy danych udzielanej na podstawie ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, lub ochrony jakichkolwiek składających się na bazę danych elementów, udzielanej na podstawie przepisów o wynalazkach, znakach towarowych, wzorach przemysłowych, oznaczeniach pochodzenia, zwalczaniu nieuczciwej konkurencji, tajemnicy prawnie chronionej, ochronie informacji niejawnych, ochronie danych osobowych, a także prawa cywilnego i prawa pracy.
 
 **Art. 14.** (pominięty)
 
 **Art. 15.**
 
-1. Ustawę stosuje się także baz istniejących dniu jej wejścia życie odniesieniu korzystania nich po tej dacie. Dokonane przed dniem wejścia życie czynności prawne odnoszące się baz są skuteczne podlegają ochronie według zasad dotychczasowych.
+1. Ustawę stosuje się także do baz danych istniejących w dniu jej wejścia w życie w odniesieniu do korzystania z nich po tej dacie.
+
+2. Dokonane przed dniem wejścia w życie ustawy czynności prawne odnoszące się do baz danych są skuteczne i podlegają ochronie według zasad dotychczasowych.
 
 **Art. 16.**
 
-1. Przepisy 5 3 oraz 9 ust. stosuje się od uzyskania Rzeczpospolitą Polską członkostwa Unii Europejskiej . Przepisy 5 1 9 ust. 1 tracą moc dniem uzyskania Rzeczpospolitą Polską członkostwa Unii Europejskiej.
+1. Przepisy art. 5 pkt 2 i 3 oraz art. 9 ust. 2 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
-**Art. 17.** Ustawa wchodzi życie po upływie 12 miesięcy od ogłoszenia .
+2. Przepisy art. 5 pkt 1 i art. 9 ust. 1 tracą moc z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+
+**Art. 17.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
 

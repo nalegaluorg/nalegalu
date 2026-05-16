@@ -8,9 +8,10 @@ pos: 1286
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 września 2002 r.
+# Ustawa z dnia 29 sierpnia 2002 r. o zmianie ustawy o czasie pracy kierowców oraz ustawy – Prawo o miarach
 
 | Pole | Wartość |
 |---|---|
@@ -24,27 +25,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021551286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1286/text.pdf) |
 
-Nr 155 1286
-USTAWA zdnia 29 sierpnia 2002 r.
-ozmianie ustawy oczasie pracy kierowców oraz ustawy — Prawo omiarach.
+**Art. 1.** W ustawie z dnia 24 sierpnia 2001 r. o czasie pracy kierowców (Dz. U. Nr 123, poz. 1354) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 24 sierpnia 2001 r. oczasie ŃArt. 38a. Przepisy art. 31 ust. 1, w zakresie karty pracy kierowców (Dz. U. Nr 123, poz. 1354) wprowadza drogowej, stosuje się do dnia 31 grudnia się następujące zmiany: 2002 r. — w odniesieniu do pojazdów,
+**Art. 38a.** Przepisy art. 31 ust. 1, w zakresie karty drogowej, stosuje się do dnia 31 grudnia 2002 r. – w odniesieniu do pojazdów, które w dniu wejścia w życie ustawy nie były wyposażone w przyrząd kontrolny, o którym mowa w art. 35 ust. 1. ” ;
 
-**Art. 3.** Ustawa wchodzi wżycie zdniem 30 września
+**Art. 39.** Ustawa wchodzi w życie z dniem 1 października 2002 r., z tym że rozdział czwarty oraz art. 37 wchodzą w życie z dniem 1 stycznia 2003 r. ” .
 
-**Art. 2.** W ustawie z dnia 11 maja 2001 r. — Prawo 2002 r. o miarach (Dz. U. Nr 63, poz. 636 i Nr 154, poz. 1800) art. 27 otrzymuje brzmienie: ŃArt. 27. Przyrządy pomiarowe zalegalizowane lub uwierzytelnione przed dniem wejścia w ży- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1287 USTAWA zdnia 30 sierpnia 2002 r. orestrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców.
+**Art. 2.** W ustawie z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. Nr 63, poz. 636 i Nr 154, poz. 1800) art. 27 otrzymuje brzmienie: „
 
-#### Rozdział 1 Przepisy ogólne
+**Art. 27.** Przyrządy pomiarowe zalegalizowane lub uwierzytelnione przed dniem wejścia w życie ustawy, niespełniające jej przepisów, mogą być nadal legalizowane, o ile spełniają wymagania dotychczasowych przepisów, lecz nie dłużej niż przez 10 lat od dnia wejścia w życie ustawy, z wyłączeniem przyrządów kontrolnych, o których mowa w przepisach o czasie pracy kierowców. ” .
 
-**Art. 1.**
-
-1. Ustawa określa:
-
-- **1)** warunki restrukturyzacji należności publicznoprawnych od przedsiębiorców, zwanej dalej Ńrestrukturyzacją”;
-- **2)** zasady ustalania należności podlegających restrukturyzacji i tryb postępowania restrukturyzacyjnego;
-- **3)** warunki uzyskania preferencji podatkowych dla przedsiębiorców nieposiadających zaległości podatkowych.
-
-2. Restrukturyzacją są objęci przedsiębiorcy, októrych mowa w przepisach o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców, wszczególności którzy tracą zdolność do konkurowania na rynku, wyrażającą się zwłaszcza wznacznym stopniu: zmniejszeniem obrotów, nadmierną zdolnością produkcyjną, wzrostem zapasów, spadkiem zyskowności lub ponoszeniem strat, jak również wzrostem zadłużenia i brakiem możliwości uzyskania bankowych kredytów, poręczeń lub gwarancji.
-
-**Art. 2.** Ilekroć wustawie jest mowa o:
+**Art. 3.** Ustawa wchodzi w życie z dniem 30 września 2002 r.
 

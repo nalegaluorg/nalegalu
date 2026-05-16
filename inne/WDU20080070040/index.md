@@ -8,9 +8,10 @@ pos: 40
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 7 — 312 — Poz. 39 i 40 prokuratorów powszechnych jednostek organizacyj- czelnych organów administracji państwowej oraz kienych prokuratury oraz prokuratorów wojskowych jed- rowników urzędów centralnych.
+# Wyrok Trybunału Konstytucyjnegoz dnia 8 stycznia 2008 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080070040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/40/text.pdf) |
 
-nostek organizacyjnych prokuratury, niebędących oficerami, stosuje się odpowiednio przepisy ustawy Art. 120. 1. Traci moc ustawa z dnia 14 kwietnia z dnia 16 września 1982 r. o pracownikach urzędów 1967 r. o Prokuraturze Polskiej Rzeczypospolitej Ludopaństwowych, a w sprawach nieuregulowanych, tak- wej (Dz. U. z1980 r. Nr 10, poz. 30 orazz1982 r. Nr 31, że wprzepisach tej ustawy — przepisy Kodeksu pracy. poz. 214).
-
-**Art. 119.** Ilekroć w ustawie jest mowa o mini- 2. Do czasu wydania przepisów wykonawczych strach, rozumie się przez to również przewodniczą- przewidzianych w niniejszej ustawie zachowują moc cych komisji i komitetów sprawujących funkcje na- przepisy dotychczasowe, jeżeli nie są z nią sprzeczne. Trybunał Konstytucyjny w składzie: Bohdan Zdziennicki — przewodniczący, Zbigniew Cieślak, Maria Gintowt-Jankowicz — sprawozdawca, Mirosław Granat, Ewa Ęętowska, cach Âląskich, czy art. 17 § 1 pkt 2 i 4 oraz art. 18 § 1 pkt 1 ustawy zdnia 10 września 1999 r. — Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, ze zm.) są zgodne z art. 2 oraz z art. 42 ust. 1 i 3 Konstytucji, orzeka: Art. 17 § 1 pkt 2 i 4 oraz art. 18 § 1 pkt 1 ustawy z dnia 10 września 1999 r. — Kodeks karny skarbowy (Dz. U. z 2007 r. Nr 111, poz. 765, ze zm.) są zgodne zart. 42 ust. 1 i3 oraz zart. 2 Konstytucji Rzeczypospolitej Polskiej. Bohdan Zdziennicki po rozpoznaniu, z udziałem Sejmu i Prokuratora Generalnego, na rozprawie w dniu 8 stycznia 2008 r., Zbigniew Cieślak Maria Gintowt-Jankowicz pytania prawnego Sądu Rejonowego w Siemianowi- Mirosław Granat Ewa Ęętowska 40 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 8 stycznia 2008 r. sygn. akt P 35/06
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Bohdan Zdziennicki – przewodniczący, Zbigniew Cieślak, Maria Gintowt-Jankowicz – sprawozdawca, Mirosław Granat, Ewa Łętowska, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem Sejmu i Prokuratora Generalnego, na rozprawie w dniu 8 stycznia 2008 r., pytania prawnego Sądu Rejonowego w Siemianowicach Śląskich, czy art. 17 § 1 pkt 2 i 4 oraz art. 18 § 1 pkt 1 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, ze zm.) są zgodne z art. 2 oraz z art. 42 ust. 1 i 3 Konstytucji, orzeka: Art. 17 § 1 pkt 2 i 4 oraz art. 18 § 1 pkt 1 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2007 r. Nr 111, poz. 765, ze zm.) są zgodne z art. 42 ust. 1 i 3 oraz z art. 2 Konstytucji Rzeczypospolitej Polskiej.
 

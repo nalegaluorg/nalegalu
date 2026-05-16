@@ -8,9 +8,10 @@ pos: 1457
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny wskładzie: Wiesław Johann przewodniczący, Jerzy Ciemniewski sprawozdawca, Teresa Dębowska-Romanowska, Marian Grzybowski, Marek Mazurkiewicz, po rozpoznaniu, zudziałem wnioskodawcy, Sejmu, Ministra Spraw Wewnętrznych iAdministracji, Komendanta Głównego Policji iProkuratora Generalnego, na rozprawie w dniu i 8 paêdziernika 2002 r., wniosku Krajowej Komisji Wykonawczej Niezależnego Samorządnego Związku Zawodowego Policjantów, ozbadanie zgodności:
+# Wyrok Trybunału Konstytucyjnegoz dnia 8 października 2002 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,48 +25,82 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021761457) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1457/text.pdf) |
 
-1) art. 132 ustawy 6 kwietnia 1990 o Policji (Dz. 1990 30, 179, ze zm.) art. 14 7 Międzynarodowego Paktu Praw Obywatelskich iPolitycznych (Dz. z1977 38, 167) iart. 5 Konstytucji Rzeczypospolitej Polskiej;
-2) art. 26 2, art. 33 2, art. 34, art. 46 3, art. 57, art. 86, art. 91 2, art. 92 2, art. 97 i 2, art. 101, art. 102, art. 104 3, art. 110 i 2, art. 113 i art. 139 ustawy 6 kwietnia 1990 o Policji (Dz. 1990 30, 179, ze zm.) 92 Konstytucji;
-3) § 9 pkt rozporządzenia Ministra Spraw Wewnętrznych i Administracji 19 grudnia w sprawie szczegółowych zasad i trybu udzielania wyróżnień przeprowadzania postępowania dyscyplinarnego wstosunku do policjantów (Dz. 1998 4, 14) art. 31 3 Konstytucji iart. 139 ustawy oPolicji;
-4) § 33 rozporządzenia powołanego w pkt 3 art. 31 3, art. 45 iart. 77 Konstytucji;
-5) § pkt i 5 rozporządzenia powołanego w pkt 3 92 Konstytucji izart. 6 pkt 139 ustawy oPolicji;
-6) § pkt i 2, § 4, 5, 6 i 8 rozporządzenia Ministra Spraw Wewnętrznych i Administracji 28 lipca 1999 w sprawie warunków przyznawania policjantom nagród rocznych, nagród uznaniowych i zapomóg (Dz. 1999 66,
-747) art. 31 3 i art. 42 Konstytucji
-7) § 7 i rozporządzenia Ministra Spraw Wewnętrznych i Administracji 31 grudnia 1998 w sprawie uposażenia zasadniczego policjantów, jego wzrostu tytułu wysługi lat szczegółowych zasad otrzymywania i wysokości dodatków do uposażenia policjantów (Dz.
-z1999 6, 47) 31 3, art. 42 Konstytucji i art. 35, art. 104 3 art. 134 ustawy oPolicji;
-8) § 6 3 rozporządzenia Ministra Spraw Wewnętrznych 9 lipca 1991 w sprawie właściwości i trybu postępowania komisji lekarskich podległych Ministrowi Spraw Wewnętrznych (Dz.
-1991 79, 349, ze zm.) 31 3 Konstytucji i art. 26 2, art. 40 art. 86 ustawy oPolicji;
-9) § 31 4 rozporządzenia powołanego w pkt 8 45 iart. 77 Konstytucji;
-10) § 7 4 zarządzenia nr 11 Komendanta Głównego Policji 8 lipca 1992 w sprawie zasad okresowego opiniowania policjantów trybu wnoszenia irozpatrywania odwołań od opinii służbowych (opublikowane wewnętrznie) art. 45 iart. 77 Konstytucji;
-11) zarządzenia nr 21 Komendanta Głównego Policji 20 maja 1993 w sprawie funkcjonowania organizacji hierarchicznej w Policji (opublikowane wewnętrznie) art. 31 3, art. 93 i 3 Konstytucji 5 1, art. 7 ustawy oPolicji;
-12) § zarządzenia Ministra Spraw Wewnętrznych i Administracji 30 września wsprawie pomocy finansowej na uzyskanie lokalu mieszkalnego lub domu przez policjantów (M. P.
-76, 709) 93 i3 Konstytucji art. 96 iart. 94 ustawy oPolicji;
-13) § zarządzenia Ministra Spraw Wewnętrznych i Administracji 15 paêdziernika w sprawie warunków najmu lokali mieszkalnych znajdujących się w budynkach będących własnością Skarbu Państwa, pozostających w zarządzie Policji, zasad obliczania czynszu najmu za te lokale (M. P. 78, 746) 93 ust.2 i3 Konstytucji 97 ustawy oPolicji, a także art. ustawy lipca 1994 o najmie lokali mieszkalnych i dodatkach mieszkaniowych (Dz. 1994 105, 509, ze zm.);
-14) art. 129 ustawy 6 kwietnia 1990 o Policji sygn. akt K. 36/00.
-orzeka: I
-1. Art. 17 ustawy 6 kwietnia 1990 oPolicji (Dz. z2002 7, 58, 19, 185, 74, 676 iNr 115, 996) jest zgodny Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej wRzymie 4 listopada 1950 (Dz. 1993 61, 284, 1995 36, 175, i177 z1998 147, 962) nie jest niezgodny art. i art. 5 Konstytucji Rzeczypospolitej Polskiej.
-2. Art. 129 ustawy powołanej wpkt nie jest niezgodny 12, art. 31 3 iart. 32 Konstytucji.
-3. Art. 132 ustawy powołanej wpkt jest zgodny 14 7 Międzynarodowego Paktu Praw Obywatelskich i Politycznych, otwartego do podpisu w Nowym Jorku 19 grudnia 1966 (Dz. 1977 38, 167) nie jest niezgodny art.
-iart. 5 Konstytucji.
-4. Art. 26 ustawy powołanej w pkt jest zgodny 92 Konstytucji.
-5. Art. 46 3 ustawy powołanej w pkt jest zgodny 92 Konstytucji.
-6. Art. 139 ustawy powołanej wpkt 1, wczęści dotyczącej postępowania dyscyplinarnego jest niezgodny 92 Konstytucji.
-7. § pkt rozporządzenia Ministra Spraw Wewnętrznych i Administracji 19 grudnia wsprawie szczegółowych zasad itrybu udzielania wyróżnień przeprowadzania postępowania dyscyplinarnego w stosunku do policjantów (Dz. 1998 4, 14) jest zgodny 92 Konstytucji izart. 6 pkt 139 ustawy oPolicji (Dz. z2002 7, 58, ze zm.).
-8. § 6 3 rozporządzenia Ministra Spraw Wewnętrznych zdnia 9 lipca 1991 wsprawie właściwości itrybu postępowania komisji lekarskich podległych Ministrowi Spraw Wewnętrznych (Dz. 1991 Nr79, 349, z1992 83, 425 z1995 Nr146, 712) nie jest niezgodny 31 3 Konstytucji ijest zgodny 26 iart. 40 ustawy oPolicji (Dz. z2002 7, 58, ze zm.).
-9. § 31 4 rozporządzenia powołanego w pkt 8 nie jest niezgodny art. 45 i art. 77 Konstytucji.
-10. Zarządzenie nr 11 Komendanta Głównego Poliwnętrznie) jest zgodne 93 i3 Konstytucji Rzeczypospolitej Polskiej 5 1, art. 7 ustawy zdnia 6 kwietnia 1990 oPolicji (Dz. z2002r.
-7, 58, ze zm.) i nie jest niezgodne art. 31 3 Konstytucji.
-12. Zarządzenie Ministra Spraw Wewnętrznych iAdministracji zdnia 15 paêdziernika wsprawie warunków najmu lokali mieszkalnych znajdujących się w budynkach będących własnością Skarbu Państwa, pozostających wzarządzie Policji, zasad obliczania czynszu najmu za te lokale (M. P. 78, poz.746) jest niezgodne 93 i3 Konstytucji art. 97 ustawy o Policji (Dz. 2002 Nr7, 58, ze zm.).
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Wiesław Johann – przewodniczący, Jerzy Ciemniewski – sprawozdawca, Teresa Dębowska-Romanowska, Marian Grzybowski, Marek Mazurkiewicz, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy, Sejmu, Ministra Spraw Wewnętrznych i Administracji, Komendanta Głównego Policji i Prokuratora Generalnego, na rozprawie w dniu 1 i 8 października 2002 r., wniosku Krajowej Komisji Wykonawczej Niezależnego Samorządnego Związku Zawodowego Policjantów, o zbadanie zgodności:
+1)
+art. 132 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 1990 r. Nr 30, poz. 179, ze zm.) z art. 14 ust. 7 Międzynarodowego Paktu Praw Obywatelskich i Politycznych (Dz. U. z 1977 r. Nr 38, poz. 167) oraz z art. 2 i art. 5 Konstytucji Rzeczypospolitej Polskiej;
+2)
+art. 26 ust. 2, art. 33 ust. 2, art. 34, art. 46 ust. 3, art. 57, art. 86, art. 91 ust. 2, art. 92 ust. 2, art. 97 ust. 1 i 2, art. 101, art. 102, art. 104 ust. 3, art. 110 ust. 1 i 2, art. 113 i art. 139 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 1990 r. Nr 30, poz. 179, ze zm.) z art. 92 ust. 1 Konstytucji;
+3)
+§ 9 ust. 1 pkt 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 1997 r. w sprawie szczegółowych zasad i trybu udzielania wyróżnień oraz przeprowadzania postępowania dyscyplinarnego w stosunku do policjantów (Dz. U. z 1998 r. Nr 4, poz. 14) z art. 31 ust. 3 Konstytucji i art. 139 ust. 2 ustawy o Policji;
+4)
+§ 33 rozporządzenia powołanego w pkt 3 z art. 31 ust. 3, art. 45 ust. 1 i art. 77 ust. 2 Konstytucji;
+5)
+§ 1 pkt 2 i 5 rozporządzenia powołanego w pkt 3 z art. 92 ust. 1 Konstytucji i z art. 6 ust. 1 pkt 2 oraz z art. 139 ust. 2 ustawy o Policji;
+6)
+§ 2 ust. 1 pkt 2 i ust. 2, § 4, 5, 6 i 8 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 lipca 1999 r. w sprawie warunków przyznawania policjantom nagród rocznych, nagród uznaniowych i zapomóg (Dz. U. z 1999 r. Nr 66, poz. 747) z art. 31 ust. 3 i art. 42 ust. 1 Konstytucji oraz z art. 32 i art. 39 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 1997 r. Nr 88, poz. 553, ze zm.), a także z art. 110 ust. 1 i art. 134 ustawy o Policji;
+7)
+§ 7 ust. 1 i 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 grudnia 1998 r. w sprawie uposażenia zasadniczego policjantów, jego wzrostu z tytułu wysługi lat oraz szczegółowych zasad otrzymywania i wysokości dodatków do uposażenia policjantów (Dz. U. z 1999 r. Nr 6, poz. 47) z art. 31 ust. 3, art. 42 ust. 1 Konstytucji i art. 35, art. 104 ust. 3 oraz art. 134 ustawy o Policji;
+8)
+§ 6 ust. 3 rozporządzenia Ministra Spraw Wewnętrznych z dnia 9 lipca 1991 r. w sprawie właściwości i trybu postępowania komisji lekarskich podległych Ministrowi Spraw Wewnętrznych (Dz. U. z 1991 r. Nr 79, poz. 349, ze zm.) z art. 31 ust. 3 Konstytucji i art. 26 ust. 2, art. 40 oraz art. 86 ustawy o Policji;
+9)
+§ 31 ust. 4 rozporządzenia powołanego w pkt 8 z art. 45 ust. 1 i art. 77 ust. 2 Konstytucji;
+10)
+§ 7 ust. 4 zarządzenia nr 11 Komendanta Głównego Policji z dnia 8 lipca 1992 r. w sprawie zasad okresowego opiniowania policjantów oraz trybu wnoszenia i rozpatrywania odwołań od opinii służbowych (opublikowane wewnętrznie) z art. 45 ust. 1 i art. 77 ust. 2 Konstytucji;
+11)
+zarządzenia nr 21 Komendanta Głównego Policji z dnia 20 maja 1993 r. w sprawie funkcjonowania organizacji hierarchicznej w Policji (opublikowane wewnętrznie) z art. 31 ust. 3, art. 93 ust. 2 i 3 Konstytucji oraz z art. 5 ust. 1, art. 7 ust. 1 ustawy o Policji;
+12)
+§ 1 ust. 2 zarządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 1997 r. w sprawie pomocy finansowej na uzyskanie lokalu mieszkalnego lub domu przez policjantów (M. P. z 1997 r. Nr 76, poz. 709) z art. 93 ust. 2 i 3 Konstytucji oraz z art. 96 ust. 1 i art. 94 ust. 2 ustawy o Policji;
+13)
+§ 2 zarządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 października 1997 r. w sprawie warunków najmu lokali mieszkalnych znajdujących się w budynkach będących własnością Skarbu Państwa, pozostających w zarządzie Policji, oraz zasad obliczania czynszu najmu za te lokale (M. P. z 1997 r. Nr 78, poz. 746) z art. 93 ust. 2 i 3 Konstytucji oraz z art. 97 ust. 2 ustawy o Policji, a także z art. 2 ustawy z dnia 2 lipca 1994 r. o najmie lokali mieszkalnych i dodatkach mieszkaniowych (Dz. U. z 1994 r. Nr 105, poz. 509, ze zm.);
+14)
+art. 129 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 1990 r. Nr 30, poz. 179, ze zm.) z art. 12, art. 31 ust. 3 i art. 32 Konstytucji oraz z art. 27 ust. 3 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 1991 r. Nr 55, poz. 234, ze zm.);
+15)
+art. 17 ust. 1 i 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 1990 r. Nr 30, poz. 179, ze zm.) z art. 2 ust. 2 Konwencji o ochronie praw człowieka i podstawowych wolności (Dz. U. z 1993 r. Nr 61, poz. 284, ze zm.) oraz z art. 2 i art. 5 Konstytucji,
+orzeka:
+I
+1.
+Art. 17 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, Nr 19, poz. 185, Nr 74, poz. 676 i Nr 115, poz. 996) jest zgodny z art. 2 ust. 2 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. Nr 61, poz. 284, z 1995 r. Nr 36, poz. 175, 176i 177 oraz z 1998 r. Nr 147, poz. 962) oraz nie jest niezgodny z art. 2 i art. 5 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 129 ustawy powołanej w pkt 1 nie jest niezgodny z art. 12, art. 31 ust. 3 i art. 32 Konstytucji.
+3.
+Art. 132 ustawy powołanej w pkt 1 jest zgodny z art. 14 ust. 7 Międzynarodowego Paktu Praw Obywatelskich i Politycznych, otwartego do podpisu w Nowym Jorku dnia 19 grudnia 1966 r. (Dz. U. z 1977 r. Nr 38, poz. 167) oraz nie jest niezgodny z art. 2 i art. 5 Konstytucji.
+4.
+Art. 26 ust. 2 ustawy powołanej w pkt 1 jest zgodny z art. 92 ust. 1 Konstytucji.
+5.
+Art. 46 ust. 3 ustawy powołanej w pkt 1 jest zgodny z art. 92 ust. 1 Konstytucji.
+6.
+Art. 139 ust. 2 ustawy powołanej w pkt 1, w części dotyczącej postępowania dyscyplinarnego jest niezgodny z art. 92 ust. 1 Konstytucji.
+7.
+§ 1 pkt 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 1997 r. w sprawie szczegółowych zasad i trybu udzielania wyróżnień oraz przeprowadzania postępowania dyscyplinarnego w stosunku do policjantów (Dz. U. z 1998 r. Nr 4, poz. 14) jest zgodny z art. 92 ust. 1 Konstytucji i z art. 6 ust. 1 pkt 2 oraz z art. 139 ust. 2 ustawy o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, ze zm.).
+8.
+§ 6 ust. 3 rozporządzenia Ministra Spraw Wewnętrznych z dnia 9 lipca 1991 r. w sprawie właściwości i trybu postępowania komisji lekarskich podległych Ministrowi Spraw Wewnętrznych (Dz. U. z 1991 r. Nr 79, poz. 349, z 1992 r. Nr 83, poz. 425 oraz z 1995 r. Nr 146, poz. 712) nie jest niezgodny z art. 31 ust. 3 Konstytucji i jest zgodny z art. 26 ust. 2 i art. 40 ustawy o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, ze zm.).
+9.
+§ 31 ust. 4 rozporządzenia powołanego w pkt 8 nie jest niezgodny z art. 45 ust. 1 i art. 77 ust. 2 Konstytucji.
+10.
+Zarządzenie nr 11 Komendanta Głównego Policji z dnia 8 lipca 1992 r. w sprawie zasad okresowego opiniowania policjantów oraz trybu wnoszenia i rozpatrywania odwołań od opinii służbowych (opublikowane wewnętrznie) jest niezgodne z art. 35 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, ze zm.).
+11.
+Zarządzenie nr 21 Komendanta Głównego Policji z dnia 20 maja 1993 r. w sprawie funkcjonowania organizacji hierarchicznej w Policji (opublikowane wewnętrznie) jest zgodne z art. 93 ust. 2 i 3 Konstytucji Rzeczypospolitej Polskiej oraz z art. 5 ust. 1, art. 7 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, ze zm.) i nie jest niezgodne z art. 31 ust. 3 Konstytucji.
+12.
+Zarządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 października 1997 r. w sprawie warunków najmu lokali mieszkalnych znajdujących się w budynkach będących własnością Skarbu Państwa, pozostających w zarządzie Policji, oraz zasad obliczania czynszu najmu za te lokale (M. P. z 1997 r. Nr 78, poz. 746) jest niezgodne z art. 93 ust. 2 i 3 Konstytucji oraz z art. 97 ust. 2 ustawy o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, ze zm.).
 II
-1. Art. 139 ustawy o Policji (Dz. 2002 7, 58, ze zm.) w części dotyczącej postępowania dyscyplinarnego traci moc dniem 30 września 2003
-2. Zarządzenie Ministra Spraw Wewnętrznych iAdministracji zdnia 15 paêdziernika wsprawie warunków najmu lokali mieszkalnych znajdujących się w budynkach będących własnością Skarbu Państwa, pozostających wzarządzie Policji, zasad obliczania czynszu najmu za te lokale (M. P. 78, poz.746) traci moc zdniem 8 kwietnia 2003
-3. Zarządzenie nr 11 Komendanta Głównego Policji zdnia 8 lipca 1992 wsprawie zasad okresowego opiniowania policjantów trybu wnoszenia irozpatrywania odwołań od opinii służbowych (opublikowane wewnętrznie) traci moc zdniem 4 stycznia 2003 Ponadto postanawia: Na podstawie art. 39 pkt i 3 w związku 39 ustawy zdnia sierpnia oTrybunale Konstytucyjnym (Dz. 102, 643, z2000 48, 552 iNr 53, 638 z2001 98, 1070) umorzyć postępowanie w zakresie badania zgodności:
-1) art. 17 3 ustawy zdnia 6 kwietnia 1990 oPolicji (Dz. 2002 7, 58, ze zm.) art.
-Konwencji oochronie praw człowieka ipodstawowych wolności, sporządzonej wRzymie 4 listopada 1950 (Dz. z1993 61, 284, ze zm.) iart. 5 Konstytucji Rzeczypospolitej Polskiej;
-2) art. 33 2, art. 34, art. 57, art. 86, art. 91 2, art. 92 2, art. 97 i 2, art. 101, art. 102, art. 104 3, art. 110 i 2, art. 113 ustawy 6 kwietnia 1990 o Policji (Dz. 2002
-318) art. 31 3, art. 42 Konstytucji cji (Dz. z2002 7, 58, ze zm.) i art. 35, art. 104 3 art. 134 ustawy wobec utraty mocy obowiązującej przepisów 6 kwietnia 1990 o Policji (Dz. 2002 7, przed wydaniem orzeczenia;
-58, ze zm.);
-6) § pkt 5, § 9 pkt i§ 33 rozporządzenia Mini4) § pkt i 2, § 4, 5, 6 i 8 rozporządzenia stra Spraw Wewnętrznych i Administracji Ministra Spraw Wewnętrznych i Administracji 19 grudnia wsprawie szczegółowych zasad 28 lipca 1999 w sprawie warunków przy- itrybu udzielania wyróżnień przeprowadzania znawania policjantom nagród rocznych, nagród postępowania dyscyplinarnego wstosunku do pouznaniowych i zapomóg (Dz. 1999 66, licjantów (Dz. 1998 4, 14) art. 31
-747) art. 31 3 i art. 42 Konstytucji 3, art. 45 iart. 77 Konstytucji woart. 32 i art. 39 ustawy 6 czerwca bec zbędności orzekania wtym zakresie.
-Kodeks karny (Dz. 88, 553, ze zm.), a także art. 110 i art. 134 Wiesław Johann ustawy o Policji (Dz. 2002 7, 58, Jerzy Ciemniewski Teresa Dębowska-Romanowska ze zm.); Marian Grzybowski Marek Mazurkiewicz
+1.
+2.
+Zarządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 października 1997 r. w sprawie warunków najmu lokali mieszkalnych znajdujących się w budynkach będących własnością Skarbu Państwa, pozostających w zarządzie Policji, oraz zasad obliczania czynszu najmu za te lokale (M. P. z 1997 r. Nr 78, poz. 746) traci moc z dniem 8 kwietnia 2003 r.
+3.
+Zarządzenie nr 11 Komendanta Głównego Policji z dnia 8 lipca 1992 r. w sprawie zasad okresowego opiniowania policjantów oraz trybu wnoszenia i rozpatrywania odwołań od opinii służbowych (opublikowane wewnętrznie) traci moc z dniem 4 stycznia 2003 r.
+Ponadto postanawia: Na podstawie art. 39 ust. 1 pkt 1 i 3 w związku z art. 39 ust. 2 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. z 1997 r. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638 oraz z 2001 r. Nr 98, poz. 1070) umorzyć postępowanie w zakresie badania zgodności:
+1)
+art. 17 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, ze zm.) z art. 2 ust. 2 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. Nr 61, poz. 284, ze zm.) oraz z art. 2 i art. 5 Konstytucji Rzeczypospolitej Polskiej;
+2)
+art. 33 ust. 2, art. 34, art. 57, art. 86, art. 91 ust. 2, art. 92 ust. 2, art. 97 ust. 1 i 2, art. 101, art. 102, art. 104 ust. 3, art. 110 ust. 1 i 2, art. 113 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, ze zm.) z art. 92 ust. 1 Konstytucji;
+3)
+§ 7 ust. 1 i 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 grudnia 1998 r. w sprawie uposażenia zasadniczego policjantów, jego wzrostu z tytułu wysługi lat oraz szczegółowych zasad otrzymywania i wysokości dodatków do uposażenia policjantów (Dz. U. z 1999 r. Nr 6, poz. 47 i Nr 12, poz. 109, z 2000 r. Nr 30, poz. 375 i Nr 83, poz. 945 oraz z 2001 r. Nr 28, poz. 318) z art. 31 ust. 3, art. 42 ust. 1 Konstytucji i art. 35, art. 104 ust. 3 oraz art. 134 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, ze zm.);
+4)
+§ 2 ust. 1 pkt 2 i ust. 2, § 4, 5, 6 i 8 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 lipca 1999 r. w sprawie warunków przyznawania policjantom nagród rocznych, nagród uznaniowych i zapomóg (Dz. U. z 1999 r. Nr 66, poz. 747) z art. 31 ust. 3 i art. 42 ust. 1 Konstytucji oraz z art. 32 i art. 39 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 1997 r. Nr 88, poz. 553, ze zm.), a także z art. 110 ust. 1 i art. 134 ustawy o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, ze zm.);
+5)
+§ 1 ust. 2 zarządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 1997 r. w sprawie pomocy finansowej na uzyskanie lokalu mieszkalnego lub domu przez policjantów (M. P. z 1997 r. Nr 76, poz. 709) z art. 93 ust. 2 i 3 Konstytucji oraz art. 96 ust. 1 i art. 94 ust. 2 ustawy o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, ze zm.)
+wobec utraty mocy obowiązującej przepisów przed wydaniem orzeczenia;
+6)
+§ 1 pkt 5, § 9 ust. 1 pkt 2 i § 33 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 1997 r. w sprawie szczegółowych zasad i trybu udzielania wyróżnień oraz przeprowadzania postępowania dyscyplinarnego w stosunku do policjantów (Dz. U. z 1998 r. Nr 4, poz. 14) z art. 31 ust. 3, art. 45 ust. 1 i art. 77 ust. 2 Konstytucji – wobec zbędności orzekania w tym zakresie.
 

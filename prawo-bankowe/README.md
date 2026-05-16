@@ -2,14 +2,13 @@
 
 Akty prawne z dziedziny: **Prawo bankowe**.
 
-Łącznie: **24** aktów
+Łącznie: **23** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
 | [WDU20260000038](WDU20260000038/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 grudnia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250001191](WDU20250001191/index.md) | Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy - Prawo bankowe oraz niektó | Ustawa | obowiązujący |  |
 | [WDU20250001170](WDU20250001170/index.md) | Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy - Prawo bankowe oraz niek | Ustawa | obowiązujący |  |
-| [WDU20210000680](WDU20210000680/index.md) | Ustawa z dnia 25 lutego 2021 r. o zmianie ustawy - Prawo bankowe oraz niekt | Ustawa | obowiązujący |  |
 | [WDU20190001074](WDU20190001074/index.md) | Ustawa z dnia 16 maja 2019 r. o zmianie ustawy o pracowniczych planach kapi | Ustawa | obowiązujący |  |
 | [WDU20150001864](WDU20150001864/index.md) | Ustawa z dnia 9 października 2015 r. o zmianie ustawy - Prawo bankowe oraz  | Ustawa | obowiązujący |  |
 | [WDU20150001854](WDU20150001854/index.md) | Ustawa z dnia 25 września 2015 r. o zmianie ustawy - Prawo bankowe oraz nie | Ustawa | obowiązujący |  |
@@ -31,4 +30,4 @@ Akty prawne z dziedziny: **Prawo bankowe**.
 | [WDU19930060029](WDU19930060029/index.md) | Ustawa z dnia 19 grudnia 1992 r. o zmianie ustawy - Prawo bankowe i niektór | Ustawa | obowiązujący |  |
 | [WDU19920200078](WDU19920200078/index.md) | Ustawa z dnia 14 lutego 1992 r. o zmianie ustawy - Prawo bankowe i niektóry | Ustawa | obowiązujący |  |
 
-*24 aktów • [← Powrót do spisu głównego](../README.md)*
+*23 aktów • [← Powrót do spisu głównego](../README.md)*

@@ -8,6 +8,7 @@ pos: 1207
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o orderach i odznaczeniach oraz zmieniająca ustawę o zmianie ustawy o orderach i odznaczeniach
@@ -24,9 +25,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112051207) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1207/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450, z późn. zm. ) w art. 19a wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450, z późn. zm.) w art. 19a wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 14 czerwca 2007 r. o zmianie ustawy o orderach i odznaczeniach (Dz. U. Nr 123, poz. 848 oraz z 2010 r. Nr 254, poz. 1701) w art. 2 ust. 1 otrzymuje brzmienie: „1. Przepisu art. 6 ust. 2 zmienianej ustawy, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do nadań Orderu Krzyża Wojskowego, Krzyża Wojskowego, Wojskowego Krzyża Zasługi z Mieczami, Morskiego Krzyża Zasługi z Mieczami oraz Lotniczego Krzyża Zasługi z Mieczami za czyny dokonane w czasie działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa w latach 2002—2007.”. kontyngentami wojskowymi i wykonującym zadania w przestrzeni powietrznej nad tery- Art. 3. Przepisu art. 6 ust. 2 ustawy, o której mowa torium objętym działaniami polskiego kon- w art. 1, nie stosuje się do nadań wojskowych odznatyngentu wojskowego lub prowadzonej czeń o charakterze pamiątkowym mających w nazwie operacji wojskowej, co najmniej za jeden wyraz „Gwiazda”, za nienaganną służbę w okresie od lot.”; dnia 1 stycznia 2002 r. do dnia 31 grudnia 2010 r. Nadanie tych odznaczeń uznaje się za zakończone z dniem 31 grudnia 2013 r.
+**Art. 2.** W ustawie z dnia 14 czerwca 2007 r. o zmianie ustawy o orderach i odznaczeniach (Dz. U. Nr 123, poz. 848 oraz z 2010 r. Nr 254, poz. 1701) w art. 2 ust. 1 otrzymuje brzmienie: „ 1. Przepisu art. 6 ust. 2 zmienianej ustawy, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do nadań Orderu Krzyża Wojskowego, Krzyża Wojskowego, Wojskowego Krzyża Zasługi z Mieczami, Morskiego Krzyża Zasługi z Mieczami oraz Lotniczego Krzyża Zasługi z Mieczami za czyny dokonane w czasie działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa w latach 2002–2007. ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski 1207 USTAWA z dnia 19 sierpnia 2011 r. o zmianie ustawy o orderach i odznaczeniach oraz zmieniająca ustawę o zmianie ustawy o orderach i odznaczeniach
+**Art. 3.** Przepisu art. 6 ust. 2 ustawy, o której mowa w art. 1, nie stosuje się do nadań wojskowych odznaczeń o charakterze pamiątkowym mających w nazwie wyraz „Gwiazda”, za nienaganną służbę w okresie od dnia 1 stycznia 2002 r. do dnia 31 grudnia 2010 r. Nadanie tych odznaczeń uznaje się za zakończone z dniem 31 grudnia 2013 r.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

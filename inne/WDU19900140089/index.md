@@ -8,9 +8,10 @@ pos: 89
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 19, 132) wprowadza zmiany:
+# Ustawa z dnia 24 lutego 1990 r. o likwidacji Wspólnoty Węgla Kamiennego i Wspólnoty Energetyki i Węgla Brunatnego oraz o zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,56 +25,39 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900140089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/89/text.pdf) |
 
-1) wart. 2 pkt 11
-2) art. 5a
-27. W ustawie 20 czerwca 1985 Prawo ustroju powszechnych (Dz. U. 31, 137 oraz 4, 24, 33, 175 73, 436) po art. 19 dodaje art. 19 brzmieniu: "Art. 19 Minister drodze nia, utworzy Wojewódzkim War szawie do spraw antymonopolowych antymonopolowy)."
-28. W ustawie 17 maja Funduszu Rozwoju Rynku Demonopolizacji Handlu (Dz. U. 30,
-159) wart. 3 ust. 1 pkt 4
-29. W ustawie 24 maja rozpoz nawaniu przez spraw gospodarczych (Dz. U. Nr33, 175 41, 229) wart. 2 ust. 2 pkt 5
-30. 1. Nie prawomocnie do wej niniejszej ustawy sprawy, rozpatrywane przez dniem niniejszej ustawy, rozpatruje Naczelny Administracyjny przepisów dotychczasowych.
-W razie uchylenia decyzji, Naczelny Administracyjny przekazuje do rozpoznania Antymonopo lowemu.
-3. Wznowienie uchylenie, zmiana lub stwierdzenie decyzji, wydanej przez Ministra Finansów przed dniem niniejszej ustawy, przepisów dotychczasowych, tym do rozpoznania sprawy jest Antymonopo lowy.
-31. przepisach jest mowa organie antymonopolowym, rozumie przez to Antymonopolowy.
-32. Traci moc 28 stycznia praktykom monopolistycznym gos podarce narodowej (Dz. U. 3, 18 oraz r: 1 O, 57, 30, 159 35, 192).
-33. Ustawa wchodzi po 30 dni Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski
-USTAWA 24 lutego 1990 likwidacji Wspólnoty Kamiennego Wspólnoty Energetyki Brunatnego oraz zmianie niektórych ustaw.
-1. Wspólnota Kamiennego, utworzona 23 utworzeniu Wspól noty Kamiennego (Dz. U. 33, 183), oraz Wspólnota Energetyki Brunatnego, utworzona usta 23 utworzeniu Wspólnoty Energetyki Brunatnego (Dz. U. 33, 184), zwane dalej "wspólnotami", stan likwidacji dniem ustawy.
-2. zadania likwidatora wspólnot po wierza Ministrowi
-3. po likwidacji nie cy do innych osób prawnych wspólnot przechodzi na Skarbu
-4. 1. Do likwidacji wspólnot stosuje odpowie dnio przepisy likwidacji chyba stanowi inaczej.
-2. Rada Ministrów drodze dzenia, szczególny tryb likwidacji wspólnot.
-5. W okresie likwidacyjnego wspó lnoty ich organy na dotychczasowych zasadach, chyba stanowi inaczej.
-6. Minister okresie likwidacji
-2) zakres organów wspólnoty,
-3) wszystkich rad nad zorczych wspólnot.
-7. Minister trakcie wania likwidacyjnego poszczególne jednostki organizacyjne ze zgrupowania we wspólnocie.
-8. 1. Rada Ministrów drodze wykonywanie niektórych oraz upraw wspólnot naczelnym organom administracji wej lub innym organom administracji, ich ustawowo zakresach a do powierzenia wykonywania przez te organy jednostkom orga()izacyjnym.
-2. Rada Ministrów drodze szczególne zasady gospodarki finansowej jednostek, któ ryc,h mowa ust, 1, a podmiotów gos podarczych dziedzinie górnict wa energetyki, zakresie pokrywania kosztów wykonywa nia jednostek.
-9. 1. Znosi Górnictwa Gospodarki Energetycznej.
-2. W dekrecie 6 maja 1956 Prawo górnicze
-10. Z dniem 30 1990 moc ustawy: 90 Energetyki Brunatnego (Dz. U. 33, 184).
-11. Ustawa wchodzi dniem Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski
-USTAWA 24 lutego 1990 niektórych warunkach funkcjonowania ubezpieczenia rolników indywidualnych ich rodzin VIi 1990
-1. Przez wart. 2-5 9
-1) rozumie 14 grudnia 1982 ubezpieczeniu rolników indywidualnych ich rodzin, brzmieniu ustalonym
-2) Fundusz rozumie Fundusz Ubezpieczenia cznego Rolników, tworzony na podstawie ustawy, której mowa pkt 1 .
-2. 1. W 1990 wydatki Funduszu pokrywane 82,7% dotacji 17,3% ze przez rolników.
-2. Niedobór Funduszu za pokrywa dotacji
-3. 1. na ubezpieczenie wy mierza jednorazowo na okres roku, chyba lub jej przypada na okres krótszy.
-2. Rolnik ratach kwartalnych. Pierw jest do 31 marca, do 15 ostatniego danego a do 15 listopada.
-3. Pierwsza rata kwartalna wynosi:
-1) 96.000 jednej osoby ubezpieczonej,
-2) 15.600 hektara przeliczeniowego,
-3) 1 % dochodu szacunkowego specjalnych, ustalonego norm roku bie
-4. Druga rata kwartalna jest równa racie pierw szej. Trzecia czwarta rata stanowi pierwszej raty.
-4. 1. Nie ewidencjonuje do celów emerytalno -rentowych produktów rolnych sprzedawanych 1 stycznia 1990 produktów rolnych sprzedanych przed prowadzi na zasadach trybie dotychczasowym.
-2. Przy ustalaniu emerytury lub renty inwalidzkiej produktów rolnych sprzedanych
-3. produktów rolnych sprzedanych przyjmuje wykazanej ewidencji za ten rok albo, jest to korzystniejsze dla rolnika, za rok 1 988.
-4. Przy ustalaniu emerytur rent, do których prawo powstanie okresie 1 kwietnia 1990 r., sprzedanych produktów rolnych przyjmuje obliczonej stosownie do ust. 2 3, za stosowaniem art. 19 ust. 2 ustawy, zrewaloryzowanej dodat kowo procent waloryzacji podstaw wymiaru emerytur rent pracowniczych, dokonywanej 1 stycznia do kalendarzowego nabycia prawa do
-5. 1. Emerytury renty ubezpieczenia spo rolników indywidualnych ich ro dzin waloryzacji na zasadach ust. 2-4.
-2. renty inwalidzkie, do których prawo do 31 marca 1990 r., waloryzuje 1 stycznia tego roku sposób:
-1) do kwoty szej emerytury pracowniczej, pierw szym kwartale,
-2) sprzedanych produktów rolnych przekazaniem gos podarstwa rolnego procent stosowany przy waloryzacji podstaw wymiaru emerytur rent pracowniczych pierwszym kwartale, jednak nie podstawy wymiaru
-3. Renty rodzinne, do których prawo do 31 marca 1990 r., waloryzuje 1 stycznia tego roku przez ponowne ustalenie ich wyso ust. 2, stosownie do art. 29 ustawy.
-4. Od 1 kwietnia 1990 emerytury renty, wraz ze oraz dodatkami wowych, dodatkami kombatanckimi dodatkami tajnego nauczania, waloryzuje terminach waloryzacji emerytur rent pracowniczych przez procent
+**Art. 1.** Wspólnota Węgla Kamiennego, utworzona ustawą z dnia 23 października 1987 r. o utworzeniu Wspólnoty Węgla Kamiennego (Dz. U. Nr 33, poz. 183), oraz Wspólnota Energetyki i Węgla Brunatnego, utworzona ustawą z dnia 23 października 1987 r. o utworzeniu Wspólnoty Energetyki i Węgla Brunatnego (Dz. U. Nr 33, poz. 184), zwane dalej „wspólnotami”, przechodzą w stan likwidacji z dniem wejścia w życie ustawy.
+
+**Art. 2.** Obowiązki i zadania likwidatora wspólnot powierza się Ministrowi Przemysłu.
+
+**Art. 3.** Pozostały po zakończeniu likwidacji nie należący do innych osób prawnych majątek wspólnot przechodzi na własność Skarbu Państwa.
+
+**Art. 4.**
+
+1. Do likwidacji wspólnot stosuje się odpowiednio przepisy o likwidacji przedsiębiorstw państwowych, chyba że ustawa stanowi inaczej.
+
+2. Rada Ministrów może określić, w drodze rozporządzenia, szczególny tryb likwidacji wspólnot.
+
+**Art. 5.** W okresie postępowania likwidacyjnego wspólnoty i ich organy działają na dotychczasowych zasadach, chyba że ustawa stanowi inaczej.
+
+**Art. 6.** Minister Przemysłu w okresie likwidacji może:
+
+**Art. 7.** Minister Przemysłu wyłącza w trakcie postępowania likwidacyjnego poszczególne jednostki organizacyjne ze zgrupowania we wspólnocie.
+
+**Art. 8.**
+
+1. Rada Ministrów może powierzyć, w drodze rozporządzenia, wykonywanie niektórych zadań oraz uprawnień wspólnot naczelnym organom administracji państwowej lub innym organom administracji, mieszczących się w ich ustawowo określonych zakresach działania, a także upoważnić do powierzenia wykonywania tych zadań powołanym przez te organy jednostkom organizacyjnym.
+
+2. Rada Ministrów określi, w drodze rozporządzenia, szczególne zasady gospodarki finansowej jednostek, o których mowa w ust. 1, a także obowiązki podmiotów gospodarczych prowadzących działalność w dziedzinie górnictwa i energetyki, w zakresie pokrywania kosztów wykonywania zadań tych jednostek.
+
+**Art. 9.**
+
+1. Znosi się Państwową Radę Górnictwa i Państwową Radę Gospodarki Energetycznej.
+
+2. W dekrecie z dnia 6 maja 1953 r. – Prawo górnicze (Dz. U. z 1978 r. Nr 4, poz. 12, z 1984 r. Nr 35, poz. 186, z 1987 r. Nr 33, poz. 180, z 1988 r. Nr 41, poz. 324 i z 1989 r. Nr 35, poz. 192) skreśla się art. 147
+
+3. W ustawie z dnia 6 kwietnia 1984 r. o gospodarce energetycznej (Dz. U. Nr 21, poz. 96, z 1987 r. Nr 33, poz. 180, z 1988 r. Nr 19, poz. 132 i z 1989 r. Nr 35, poz. 192) skreśla się art. 12.
+
+**Art. 10.** Z dniem 30 września 1990 r. tracą moc ustawy:
+
+**Art. 11.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

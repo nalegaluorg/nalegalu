@@ -8,9 +8,10 @@ pos: 2138
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 grudnia 2016 r.
+# Ustawa z dnia 16 listopada 2016 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,28 +25,192 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002138) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2138/text.pdf) |
 
-USTAWA z dnia 16 listopada 2016 r.
-o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+Terytorialna służba wojskowa
 
-**Art. 1.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 1534) wprowadza si ę nast ę puj ą ce zmiany:
+**Art. 1.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 1534) wprowadza się następujące zmiany:
+
+**Art. 11c.**
+
+1. Dowódca Wojsk Obrony Terytorialnej jest właściwy w zakresie dowodzenia jednostkami wojskowymi i związkami organizacyjnymi Wojsk Obrony Terytorialnej.
+
+2. Do zakresu działania Dowódcy Wojsk Obrony Terytorialnej należy w szczególności:
+
+- **1)** realizacja programów rozwoju Sił Zbrojnych;
+- **2)** planowanie, organizowanie i prowadzenie szkolenia podległych jednostek wojskowych i związków organizacyjnych;
+- **3)** planowanie oraz organizowanie mobilizacyjnego i operacyjnego rozwinięcia oraz użycia Wojsk Obrony Terytorialnej;
+- **4)** przygotowanie sił i środków Wojsk Obrony Terytorialnej do działań bojowych;
+- **5)** wykonywanie zadań związanych z udziałem oddziałów i pododdziałów Wojsk Obrony Terytorialnej w zwalczaniu klęsk żywiołowych i likwidacji ich skutków, ochrony mienia, akcjach poszukiwawczych oraz ratowania lub ochrony zdrowia i życia ludzkiego, a także udziału w realizacji zadań z zakresu zarządzania kryzysowego;
+- **6)** współpraca z innymi organami i podmiotami w sprawach związanych z obronnością państwa;
+- **7)** zarządzanie i przeprowadzanie kontroli podległych jednostek wojskowych i związków organizacyjnych na zasadach i w trybie określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. poz. 1092).
+
+3. Dowódca Wojsk Obrony Terytorialnej wykonuje swoje zadania przy pomocy Dowództwa Wojsk Obrony Terytorialnej.
+
+4. Minister Obrony Narodowej określi, w drodze zarządzenia, szczegółowy zakres działania, siedzibę i strukturę organizacyjną Dowództwa Wojsk Obrony Terytorialnej. ” ;
+
+- **4)** w art. 13c w ust. 2 pkt 3 otrzymuje brzmienie: „
+- **3)** zarządzanie wydzielonymi siłami inżynierii wojskowej i obrony przed bronią masowego rażenia; ” ;
+- **5)** w art. 14: w ust. 3: – pkt 5a otrzymuje brzmienie: „ 5a) koordynacji czynności realizowanych w ramach gromadzenia zasobów osobowych na potrzeby uzupełnienia mobilizacyjnego Sił Zbrojnych oraz Narodowych Sił Rezerwowych i w czasie wojny; ” , – pkt 5d otrzymuje brzmienie: „ 5d) organizowania szkoleń lub kursów dla żołnierzy rezerwy posiadających nadane przydziały kryzysowe oraz żołnierzy pełniących terytorialną służbę wojskową dyspozycyjnie w celu nabywania przez nich kwalifikacji przydatnych w Siłach Zbrojnych, w tym wykorzystując również współpracę z pracodawcami zatrudniającymi tych żołnierzy; ” , w ust. 4 po pkt 5 dodaje się pkt 5a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **5a)** realizacji czynności w ramach gromadzenia zasobów osobowych na potrzeby uzupełnienia mobilizacyjnego Sił Zbrojnych i w czasie wojny; ” ;
+- **6)** w art. 29 ust. 3a otrzymuje brzmienie: „
+
+3a. W czasie pokoju nie kieruje się do wojskowej komisji lekarskiej osoby, wobec której wydano ostateczne orzeczenie ustalające kategorię zdolności do czynnej służby wojskowej E. ” ;
+
+- **7)** w art. 30a w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** kategoria D – niezdolny do czynnej służby wojskowej, o której mowa w pkt 1, w czasie pokoju, z wyjątkiem niektórych stanowisk służbowych przeznaczonych dla terytorialnej służby wojskowej; ” ;
+- **8)** w art. 32 ust. 12 otrzymuje brzmienie: „
+
+12. Rada Ministrów może, w drodze rozporządzenia, wprowadzić w razie ogłoszenia mobilizacji i w czasie wojny obowiązek stawienia się do kwalifikacji wojskowej osób, które w danym roku kalendarzowym kończą co najmniej osiemnaście lat życia, trwający do końca roku kalendarzowego, w którym te osoby kończą pięćdziesiąt pięć lat życia, uwzględniając potrzeby Sił Zbrojnych, zagrożenie zewnętrznego i wewnętrznego bezpieczeństwa państwa oraz wskazując granice wieku osób, których ten obowiązek dotyczy. ” ;
+
+- **9)** art. 34 otrzymuje brzmienie: „
+
+**Art. 34.** Osoby, które podlegały obowiązkowi stawienia się do kwalifikacji wojskowej i z jakichkolwiek powodów nie stawiły się do niej, są obowiązane zgłosić się do wojskowego komendanta uzupełnień właściwego ze względu na ich miejsce pobytu stałego lub pobytu czasowego trwającego ponad trzy miesiące w celu uregulowania stosunku do powszechnego obowiązku obrony. Obowiązek ten trwa do czasu ukończenia pięćdziesięciu pięciu lat życia, a w razie ogłoszenia mobilizacji i w czasie wojny – do czasu ukończenia sześćdziesięciu lat życia. ” ;
+
+**Art. 49a.**
+
+1. Jednolitą ewidencję żołnierzy w czynnej służbie wojskowej, w tym żołnierzy zawodowych i żołnierzy pełniących służbę kandydacką, oraz pracowników jednostek wojskowych i jednostek organizacyjnych podległych Ministrowi Obrony Narodowej i przez niego nadzorowanych oraz komórek organizacyjnych Ministerstwa Obrony Narodowej, zwaną dalej „jednolitą ewidencją”, prowadzą:
+
+- **1)** Minister Obrony Narodowej;
+- **2)** szef komórki organizacyjnej właściwej w sprawach kadr;
+- **3)** szef komórki organizacyjnej właściwej w sprawach zarządzania zasobami osobowymi;
+- **4)** szef komórki organizacyjnej właściwej w sprawach pracowniczych;
+- **5)** organ właściwy do wyznaczania na stanowiska służbowe;
+- **6)** organ właściwy do zawierania umów o pracę;
+- **7)** szef wojewódzkiego sztabu wojskowego;
+- **8)** dowódca jednostki wojskowej i jego przełożeni;
+- **9)** wojskowy komendant uzupełnień.
+
+2. W jednolitej ewidencji mogą być gromadzone i przetwarzane następujące dane:
+
+- **1)** imię lub imiona oraz nazwisko, w tym nazwisko rodowe, oraz nazwiska i imiona poprzednie;
+- **2)** data i miejsce urodzenia;
+- **3)** numer PESEL;
+- **4)** imiona i nazwiska rodowe rodziców;
+- **5)** stan cywilny i rodzinny, w tym imiona i nazwiska oraz daty urodzenia małżonka i dzieci;
+- **6)** obywatelstwo;
+- **7)** płeć;
+- **8)** rodzaj, seria i numer dowodu tożsamości;
+- **9)** miejsce pobytu stałego lub pobytu czasowego trwającego ponad trzy miesiące oraz adres do korespondencji, a także adres najbliższej rodziny;
+- **10)** dotyczące wykształcenia i kwalifikacji;
+- **11)** stopień wojskowy, specjalność wojskowa, klasa kwalifikacyjna, korpus osobowy i grupa osobowa;
+- **12)** dotyczące przebiegu czynnej służby wojskowej i pracy;
+- **13)** dotyczące prawomocnych orzeczeń w sprawach karnych, w sprawach o wykroczenia oraz w postępowaniu administracyjnym lub dyscyplinarnym, a także odpowiedzialności zawodowej;
+- **14)** dotyczące stanu zdrowia;
+- **15)** dotyczące uposażeń lub wynagrodzeń i wyróżnień.
+
+3. Jednolita ewidencja jest prowadzona w formie elektronicznej.
+
+4. Przetwarzanie danych osobowych zgromadzonych w jednolitej ewidencji może odbywać się bez wiedzy i zgody osoby, której te dane dotyczą.
+
+5. Do jednolitej ewidencji stosuje się odpowiednio przepisy art. 49 ust. 1c, 1d pkt 1–4, 6 i 7 oraz ust. 1e, 1f, 2 i 2e.
+
+6. Jednolitą ewidencję aktualizuje się niezwłocznie.
+
+7. Żołnierz lub pracownik informuje dowódcę jednostki wojskowej, w której pełni służbę lub jest zatrudniony, o zmianach danych gromadzonych i przetwarzanych w jednolitej ewidencji i przedstawia dokumenty potwierdzające te zmiany.
+
+8. Jednolitą ewidencję prowadzi się do dnia zwolnienia żołnierza z czynnej służby wojskowej lub wygaśnięcia stosunku służbowego służby wojskowej oraz rozwiązania lub wygaśnięcia stosunku pracy pracownika.
+
+9. Dane gromadzone i przetwarzane w jednolitej ewidencji przechowuje się przez okres 10 lat od dnia, o którym mowa w ust. 8.
+
+10. Po upływie terminu, o którym mowa w ust. 9, dane gromadzone i przetwarzane w jednolitej ewidencji usuwa niezwłocznie komisja powołana przez Ministra Obrony Narodowej. Z czynności komisji sporządza się protokół zawierający wykaz osób, których dane zostały usunięte. ” ;
+
+- **14)** w art. 53: w ust. 3 zdanie drugie otrzymuje brzmienie: „ W przypadku żołnierzy pełniących terytorialną służbę wojskową dyspozycyjnie oraz osób, którym nadano przydział kryzysowy, przydział mobilizacyjny lub pracowniczy przydział mobilizacyjny, obowiązek ten może zostać spełniony przez zgłoszenie zmian dowódcy jednostki wojskowej, w której pełnią służbę lub do której nadano przydział. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+5a. Żołnierze pełniący terytorialną służbę wojskową dyspozycyjnie mają również obowiązek powiadamiania dowódcy jednostki wojskowej, w której pełnią służbę, w sposób ustalony z tym dowódcą, o aktualnym adresie korespondencyjnym lub sposobie ich zawiadamiania o sprawach związanych z tą służbą, w tym w przypadku wystąpienia obowiązku ich stawienia się do służby pełnionej rotacyjnie. ” ;
+
+- **15)** w art. 55 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** pełnieniu terytorialnej służby wojskowej przez żołnierzy; ” ;
+- **16)** po art. 55a dodaje się art. 55b w brzmieniu: „
+
+**Art. 55b.** Równoznaczne ze spełnianiem obowiązku zasadniczej służby wojskowej przez osoby podlegające obowiązkowi jej odbycia jest pełnienie terytorialnej służby wojskowej w Wojskach Obrony Terytorialnej przez okres i na warunkach, o których mowa w art. 98l. ” ;
+
+**Art. 59.**
+
+1. Żołnierzami w czynnej służbie wojskowej, w rozumieniu niniejszej ustawy, są osoby, które odbywają lub pełnią następujące jej rodzaje:
+
+- **1)** zasadniczą służbę wojskową;
+- **2)** przeszkolenie wojskowe;
+- **3)** terytorialną służbę wojskową;
+- **4)** ćwiczenia wojskowe;
+- **5)** służbę przygotowawczą;
+- **6)** okresową służbę wojskową;
+- **7)** służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny.
+
+2. Żołnierzy w czynnej służbie wojskowej dzieli się na:
+
+- **1)** korpus oficerów, do którego zalicza się: oficerów młodszych, oficerów starszych, generałów i admirałów;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** korpus podoficerów, do którego zalicza się: podoficerów młodszych, podoficerów, podoficerów starszych;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** korpus szeregowych.
+
+3. Korpusy oficerów, podoficerów i szeregowych dzielą się na korpusy osobowe. Korpusy osobowe dzielą się na grupy osobowe, w których występuje podział na specjalności wojskowe.
+
+4. Żołnierza w czynnej służbie wojskowej dowódca jednostki wojskowej, w której żołnierz pełni służbę, zalicza do określonego korpusu osobowego, grupy osobowej i specjalności wojskowej i stwierdza ten fakt w rozkazie dziennym.
+
+5. Żołnierz w czynnej służbie wojskowej może być przeniesiony do innego korpusu osobowego, innej grupy osobowej lub innej specjalności wojskowej przez dowódcę jednostki wojskowej w przypadku wyznaczenia na inne stanowisko służbowe lub zmiany tego korpusu osobowego, grupy osobowej lub specjalności wojskowej na zajmowanym stanowisku służbowym.
+
+6. Minister Obrony Narodowej, w drodze rozporządzenia, tworzy i znosi korpusy osobowe, ustala ich podział na grupy osobowe i specjalności wojskowe, zapewniając zaspokojenie potrzeb Sił Zbrojnych. ” ;
+
+- **19)** w art. 59a po ust. 1b dodaje się ust. 1c w brzmieniu: „
+
+1c. Przydziałów mobilizacyjnych nie nadaje się osobom, które są reklamowane od obowiązku pełnienia czynnej służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny, oraz osobom, którym zawieszono obowiązek służby wojskowej. ” ;
+
+- **20)** w art. 60: w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zorganizowanie doręczania i doręczanie kart powołania do odbycia ćwiczeń wojskowych przeprowadzanych w trybie natychmiastowego stawiennictwa, okresowej służby wojskowej pełnionej w trybie natychmiastowego stawiennictwa oraz do czynnej służby wojskowej pełnionej w razie ogłoszenia mobilizacji i w czasie wojny, a także wezwań do pełnienia terytorialnej służby wojskowej rotacyjnie w trybie natychmiastowego stawiennictwa należy: ” , po ust. 8a dodaje się ust. 8aa w brzmieniu: „ 8aa. Wezwanie żołnierzy pełniących terytorialną służbę wojskową do stawienia się w trybie natychmiastowego stawiennictwa do pełnienia terytorialnej służby wojskowej rotacyjnie może nastąpić w celu:
+    - **a)**
+    - **b)**
+
+- **1)** sprawdzenia gotowości mobilizacyjnej i bojowej jednostek wojskowych;
+- **2)** udziału jednostek wojskowych w zwalczaniu klęsk żywiołowych i likwidacji ich skutków, działaniach antyterrorystycznych i z zakresu ochrony mienia, akcjach poszukiwawczych oraz ratowania lub ochrony zdrowia i życia ludzkiego, oczyszczaniu terenów z materiałów wybuchowych i niebezpiecznych pochodzenia wojskowego oraz ich unieszkodliwianiu, a także w realizacji zadań z zakresu zarządzania kryzysowego;
+- **3)** przeciwdziałania zagrożeniu bezpieczeństwa państwa, jeżeli jest to niezbędne do wykonywania zadań Sił Zbrojnych i roli Wojsk Obrony Terytorialnej w tym zakresie. ” ;
+- **21)** w art. 65 ust. 6 otrzymuje brzmienie: „
+
+6. Żołnierze w czynnej służbie wojskowej mogą wstępować do stowarzyszeń i innych organizacji działających poza wojskiem oraz brać udział w działalności stowarzyszeń i innych organizacji, do których należeli w chwili powołania do tej służby, po pisemnym poinformowaniu dowódcy jednostki wojskowej, w której pełnią służbę. ” ;
+
+- **22)** w art. 67: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Żołnierze w czynnej służbie wojskowej, z wyjątkiem żołnierzy pełniących terytorialną służbę wojskową dyspozycyjnie, są obowiązani w czasie wykonywania zadań służbowych nosić umundurowanie oraz odznaki i oznaki wojskowe. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Żołnierzom pełniącym terytorialną służbę wojskową dyspozycyjnie wydaje się przedmioty umundurowania i wyekwipowania wojskowego. Żołnierze ci są obowiązani stawić się w wydanym umundurowaniu wraz z ekwipunkiem w przypadku pełnienia terytorialnej służby wojskowej rotacyjnie. ” , w ust. 4 pkt 4 otrzymuje brzmienie: „
+
+- **c)**
+- **4)** sposób wydawania przedmiotów umundurowania i wyekwipowania wojskowego oraz normy należności i czas używalności tych przedmiotów w przypadkach, o których mowa w ust. 1a i 2 ” ;
+- **23)** w art. 68 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** bezpłatne wyżywienie lub równoważnik pieniężny, z wyjątkiem żołnierzy pełniących terytorialną służbę wojskową dyspozycyjnie; ” ;
+- **24)** art. 69 otrzymuje brzmienie: „
+
+**Art. 69.** Żołnierze odbywający zasadniczą służbę wojskową, przeszkolenie wojskowe lub ćwiczenia wojskowe oraz żołnierze pełniący służbę przygotowawczą, terytorialną służbę wojskową pełnioną rotacyjnie lub służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny są objęci obowiązkiem ubezpieczenia zdrowotnego na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. ” ;
+
+#### Rozdział 4b
 
 **Art. 98i.**
 
-1. Terytorialną służbę wojskową mogą pełnić, na ich wniosek lub za ich zgodą, osoby posiadające uregulowany stosunek do służby wojskowej, a także inne osoby niepodlegające obowiązkowi odbycia zasadniczej służby wojskowej lub przeszkolenia wojskowego, a przypadku wprowadzenia obowiązku odbycia zasadniczej służby wojskowej lub przeszkolenia wojskowego także osoby podlegające temu obowiązkowi.
+1. Terytorialną służbę wojskową mogą pełnić, na ich wniosek lub za ich zgodą, osoby posiadające uregulowany stosunek do służby wojskowej, a także inne osoby niepodlegające obowiązkowi odbycia zasadniczej służby wojskowej lub przeszkolenia wojskowego, a w przypadku wprowadzenia obowiązku odbycia zasadniczej służby wojskowej lub przeszkolenia wojskowego – także osoby podlegające temu obowiązkowi.
 
-2. Terytorialną służbę wojskową pełni się jednostkach wojskowych i związkach organizacyjnych Wojsk Obrony Terytorialnej oraz Dowództwie Wojsk Obrony Terytorialnej.
+2. Terytorialną służbę wojskową pełni się w jednostkach wojskowych i związkach organizacyjnych Wojsk Obrony Terytorialnej oraz w Dowództwie Wojsk Obrony Terytorialnej.
 
-3. Z dniem rozpocz ę cia pełnienia terytorialnej słu ż by wojskowej ż ołnierze otrzymuj ą tytuł „ ż ołnierz OT”.
+3. Z dniem rozpoczęcia pełnienia terytorialnej służby wojskowej żołnierze otrzymują tytuł „żołnierz OT”.
 
-**Art. 98j.**
+1. Czas trwania terytorialnej służby wojskowej wynosi od roku do sześciu lat.
 
-1. Czas trwania terytorialnej słu ż by wojskowej wynosi od roku do sze ś ciu lat. OT, przez jednostki wojskowej, której OT pełni trakcie pełnienia tej służby.
+2. Czas trwania terytorialnej służby wojskowej może zostać przedłużony na kolejny okres, na wniosek lub za zgodą żołnierza OT, przez dowódcę jednostki wojskowej, w której żołnierz OT pełni służbę, w trakcie pełnienia tej służby.
 
-**Art. 98k.**
+1. Stosunek służbowy terytorialnej służby wojskowej powstaje w drodze powołania, na podstawie dobrowolnego zgłoszenia się do tej służby.
 
-1. Stosunek służbowy terytorialnej służby wojskowej powstaje drodze powołania, na podstawie dobrowolnego zgłoszenia się do tej służby.
-
-2. W powołaniu wskazuje się miejsce i okres pełnienia terytorialnej służby wojskowej oraz stanowisko służbowe występujące etacie jednostki wojskowej przeznaczone dla żołnierza OT.
+2. W powołaniu wskazuje się miejsce i okres pełnienia terytorialnej służby wojskowej oraz stanowisko służbowe występujące w etacie jednostki wojskowej przeznaczone dla żołnierza OT.
 
 3. Do terytorialnej służby wojskowej może być powołana osoba, która spełnia następujące warunki:
 
@@ -55,92 +220,80 @@ o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz 
 - **4)** nie była karana za przestępstwo umyślne,
 - **5)** nie była przeznaczona do służby zastępczej,
 - **6)** nie pełni innego rodzaju czynnej służby wojskowej lub nie posiada nadanego przydziału kryzysowego,
-- **7)** nie jest reklamowana od obowiązku pełnienia czynnej służby wojskowej razie ogłoszenia mobilizacji i czasie wojny lub przypadku nadania przydziału organizacyjno-mobilizacyjnego formie zbiorowej listy imiennej jednostce przewidzianej do militaryzacji,
-- **8)** posiada wykształcenie:
-    - **a)** co najmniej wyższe przypadku pełnienia służby na stanowisku służbowym korpusie oficerów,
-    - **b)** co najmniej średnie przypadku pełnienia służby na stanowisku służbowym korpusie podoficerów,
-    - **c)** co najmniej podstawowe przypadku pełnienia służby na stanowisku służbowym korpusie szeregowych jeżeli występują potrzeby uzupełnieniowe Sił Zbrojnych.
+- **7)** nie jest reklamowana od obowiązku pełnienia czynnej służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny lub w przypadku nadania przydziału organizacyjno-mobilizacyjnego w formie zbiorowej listy imiennej w jednostce przewidzianej do militaryzacji,
+- **8)** posiada wykształcenie: co najmniej wyższe – w przypadku pełnienia służby na stanowisku służbowym w korpusie oficerów, co najmniej średnie – w przypadku pełnienia służby na stanowisku służbowym w korpusie podoficerów, co najmniej podstawowe – w przypadku pełnienia służby na stanowisku służbowym w korpusie szeregowych jeżeli występują potrzeby uzupełnieniowe Sił Zbrojnych.
+    - **a)**
+    - **b)**
+    - **c)**
 
 4. Powołanie do terytorialnej służby wojskowej może być również uzależnione od:
 
 - **1)** posiadania przez kandydata na żołnierza OT kwalifikacji wymaganych do zajmowania stanowiska służbowego;
 - **2)** posiadania orzeczenia wojskowej pracowni psychologicznej o braku przeciwskazań do pełnienia służby na stanowiskach wymagających szczególnych predyspozycji psychofizycznych;
-- **3)** złożenia wniosku wraz z ankietą bezpieczeństwa o przeprowadzenie właściwego postępowania sprawdzającego, o którym mowa art. 64 ust. 5.
+- **3)** złożenia wniosku wraz z ankietą bezpieczeństwa o przeprowadzenie właściwego postępowania sprawdzającego, o którym mowa w art. 64 ust. 5.
 
-5. Pierwszeństwo powołaniu do terytorialnej służby wojskowej przysługuje:
+5. Pierwszeństwo w powołaniu do terytorialnej służby wojskowej przysługuje:
 
 - **1)** osobom posiadającym pobyt stały (zamieszkanie) lub pobyt czasowy powyżej trzech miesięcy na obszarze dyslokacji miejsca pełnienia tej służby;
 - **2)** byłym żołnierzom zawodowym;
 - **3)** członkom proobronnych organizacji pozarządowych, które podpisały porozumienie o współpracy z Ministrem Obrony Narodowej lub dowódcami jednostek wojskowych, posiadającym rekomendacje władz tych organizacji;
 - **4)** absolwentom szkół realizujących programy innowacyjne lub eksperymentalne przysposobienia obronnego lub edukacji dla bezpieczeństwa.
 
-6. W przypadku osób, które wcześniej nie pełniły czynnej służby wojskowej i nie złożyły przysięgi wojskowej, powołanie może nastąpić wyłącznie na stanowisko służbowe korpusie szeregowych.
-
-**Art. 98l.** W przypadku wprowadzenia obowiązku odbywania zasadniczej służby wojskowej lub przeszkolenia wojskowego nie podlegają temu obowiązkowi osoby, które zostały powołane do terytorialnej służby wojskowej i będą ją pełnić przez okres co najmniej sześciu lat.
-
-**Art. 98m.**
+6. W przypadku osób, które wcześniej nie pełniły czynnej służby wojskowej i nie złożyły przysięgi wojskowej, powołanie może nastąpić wyłącznie na stanowisko służbowe w korpusie szeregowych. W przypadku wprowadzenia obowiązku odbywania zasadniczej służby wojskowej lub przeszkolenia wojskowego nie podlegają temu obowiązkowi osoby, które zostały powołane do terytorialnej służby wojskowej i będą ją pełnić przez okres co najmniej sześciu lat.
 
 1. Terytorialną służbę wojskową żołnierz OT pełni rotacyjnie lub dyspozycyjnie.
 
-2. Terytorialną służbę wojskową żołnierz OT pełni rotacyjnie jednostce wojskowej, określonych przez dowódc ę jednostki wojskowej dniach słu ż by, co najmniej raz miesi ą cu przez okres dwóch dni czasie wolnym od pracy.
+2. Terytorialną służbę wojskową żołnierz OT pełni rotacyjnie w jednostce wojskowej, w określonych przez dowódcę jednostki wojskowej dniach służby, co najmniej raz w miesiącu przez okres dwóch dni w czasie wolnym od pracy.
 
-3. Terytorialn ą słu ż b ę wojskow ą ż ołnierz OT mo ż e pełni ć rotacyjnie równie ż inne dni, stosownie do potrzeb Sił Zbrojnych, zgodnie z rocznym wykazem sporz ą dzonym przez dowódc ę jednostki wojskowej, której ż ołnierz OT pełni słu ż b ę , uzgodnionym z tym ż ołnierzem. do stawienia do pełnionej rotacyjnie terminie i miejscu wskazanych przez jednostki wojskowej.
+3. Terytorialną służbę wojskową żołnierz OT może pełnić rotacyjnie również w inne dni, stosownie do potrzeb Sił Zbrojnych, zgodnie z rocznym wykazem sporządzonym przez dowódcę jednostki wojskowej, w której żołnierz OT pełni służbę, uzgodnionym z tym żołnierzem.
 
-5. Żołnierze OT, którzy wcześniej nie pełnili czynnej służby wojskowej i nie złożyli przysięgi wojskowej, pierwszym okresie pełnią terytorialną służbę wojskową rotacyjnie nieprzerwanie przez okres szesnastu dni, ramach którego żołnierze OT odbywają szkolenie podstawowe i składają przysięgę wojskową.
+4. Terytorialną służbę wojskową żołnierz OT pełni dyspozycyjnie poza jednostką wojskową, pozostając w gotowości do stawienia się do służby pełnionej rotacyjnie w terminie i miejscu wskazanych przez dowódcę jednostki wojskowej.
 
-6. W uzasadnionych przypadkach szkolenie podstawowe można odbyć kilku okresach ciągu czterech miesięcy czasie wolnym od pracy.
+5. Żołnierze OT, którzy wcześniej nie pełnili czynnej służby wojskowej i nie złożyli przysięgi wojskowej, w pierwszym okresie pełnią terytorialną służbę wojskową rotacyjnie nieprzerwanie przez okres szesnastu dni, w ramach którego żołnierze OT odbywają szkolenie podstawowe i składają przysięgę wojskową.
 
-7. Powołanie do terytorialnej służby wojskowej żołnierzy, o których mowa ust. 5, następuje raz na kwartał, z określeniem miejsca stawienia się na szkolenie podstawowe. Po zakończeniu szkolenia żołnierza OT kieruje się do jednostki wojskowej celu pełnienia dalszej służby i objęcia stanowiska służbowego.
+6. W uzasadnionych przypadkach szkolenie podstawowe można odbyć w kilku okresach w ciągu czterech miesięcy w czasie wolnym od pracy.
 
-**Art. 98n.**
+7. Powołanie do terytorialnej służby wojskowej żołnierzy, o których mowa w ust. 5, następuje raz na kwartał, z określeniem miejsca stawienia się na szkolenie podstawowe. Po zakończeniu szkolenia żołnierza OT kieruje się do jednostki wojskowej w celu pełnienia dalszej służby i objęcia stanowiska służbowego.
 
-1. W trakcie pełnienia terytorialnej służby wojskowej przez żołnierza OT dowódca jednostki wojskowej, której żołnierz OT pełni służbę, może kierować żołnierza OT, na jego wniosek lub za jego zgodą, na kurs, tym kurs podoficerski lub oficerski, lub szkolenie specjalistyczne, stosownie do potrzeb Sił Zbrojnych i jednostki wojskowej.
+1. W trakcie pełnienia terytorialnej służby wojskowej przez żołnierza OT dowódca jednostki wojskowej, w której żołnierz OT pełni służbę, może kierować żołnierza OT, na jego wniosek lub za jego zgodą, na kurs, w tym kurs podoficerski lub oficerski, lub szkolenie specjalistyczne, stosownie do potrzeb Sił Zbrojnych i jednostki wojskowej.
 
 2. Żołnierz OT może być powołany do służby kandydackiej lub zawodowej służby wojskowej na zasadach określonych dla żołnierzy rezerwy, na zasadach pierwszeństwa powołania do tych służb przed innymi osobami, jeżeli pełnił terytorialną służbę wojskową przez okres co najmniej trzech lat.
 
-**Art. 98o.**
+1. Dowódca jednostki wojskowej, w której żołnierze OT pełnią terytorialną służbę wojskową, ustala – w formie zbiorowego wykazu dla jednostki wojskowej – dni, w których w danym roku kalendarzowym służba jest pełniona rotacyjnie. Dni, w których służba jest pełniona rotacyjnie w trybie natychmiastowego stawiennictwa, są uwzględniane w wykazie po zakończeniu pełnienia tej służby, w formie załącznika do wykazu.
 
-1. Dowódca jednostki wojskowej, której żołnierze OT pełnią terytorialną służbę wojskową, ustala formie zbiorowego wykazu dla jednostki wojskowej dni, których danym roku kalendarzowym słu ż ba jest pełniona rotacyjnie. Dni, których służba jest pełniona rotacyjnie trybie natychmiastowego stawiennictwa, są uwzględniane wykazie po zakończeniu pełnienia tej służby, formie załącznika do wykazu.
+2. Wykaz sporządza się nie później niż na trzydzieści dni przed upływem roku kalendarzowego poprzedzającego rok kalendarzowy, w którym terytorialna służba wojskowa będzie pełniona rotacyjnie, i zapoznaje się z nim żołnierzy OT za pisemnym potwierdzeniem, a wyciąg z wykazu przesyła się właściwemu wojskowemu komendantowi uzupełnień.
 
-2. Wykaz sporządza się nie później niż na trzydzieści dni przed upływem roku kalendarzowego poprzedzającego rok kalendarzowy, którym terytorialna służba wojskowa będzie pełniona rotacyjnie, i zapoznaje się z nim żołnierzy OT za pisemnym potwierdzeniem, a wyciąg z wykazu przesyła się właściwemu wojskowemu komendantowi uzupełnień.
+3. Ustalenie dni, o których mowa w ust. 1, w pierwszym roku kalendarzowym pełnienia przez żołnierza OT terytorialnej służby wojskowej może nastąpić w okresie tego roku, w formie załącznika do wykazu.
 
-3. Ustalenie dni, o których mowa ust. 1, pierwszym roku kalendarzowym pełnienia przez żołnierza OT terytorialnej służby wojskowej może nastąpić okresie tego roku, formie załącznika do wykazu.
+4. Wykaz może być zmieniany na uzasadniony wniosek żołnierza OT albo za jego zgodą, z wyjątkiem przypadku pełnienia terytorialnej służby wojskowej rotacyjnie w trybie natychmiastowego stawiennictwa.
 
-4. Wykaz może być zmieniany na uzasadniony wniosek żołnierza OT albo za jego zgodą, z wyjątkiem przypadku pełnienia terytorialnej służby wojskowej rotacyjnie trybie natychmiastowego stawiennictwa.
+5. Żołnierz OT po zapoznaniu się z wykazem zawiadamia niezwłocznie swojego pracodawcę o dniach, w których będzie pełnił terytorialną służbę wojskową rotacyjnie, oraz o zmianach tych terminów, a także zawiadamia pracodawcę o wezwaniu go do pełnienia tej służby w innych dniach, z wyjątkiem przypadku pełnienia terytorialnej służby wojskowej rotacyjnie w trybie natychmiastowego stawiennictwa.
 
-5. Żołnierz OT po zapoznaniu się z wykazem zawiadamia niezwłocznie swojego pracodawcę o dniach, których będzie pełnił terytorialną służbę wojskową rotacyjnie, oraz o zmianach tych terminów, a także zawiadamia pracodawcę o wezwaniu go do pełnienia tej służby innych dniach, z wyjątkiem przypadku pełnienia terytorialnej służby wojskowej rotacyjnie trybie natychmiastowego stawiennictwa.
+6. W przypadku wezwania żołnierza OT do pełnienia terytorialnej służby wojskowej rotacyjnie w trybie natychmiastowego stawiennictwa wojskowy komendant uzupełnień niezwłocznie po otrzymaniu informacji od dowódcy jednostki wojskowej, do której żołnierz został wezwany, o stawieniu się żołnierza OT do służby zawiadamia o tym fakcie pracodawcę tego żołnierza.
 
-6. W przypadku wezwania żołnierza OT do pełnienia terytorialnej służby wojskowej rotacyjnie trybie natychmiastowego stawiennictwa wojskowy komendant uzupełnień niezwłocznie po otrzymaniu informacji od dowódcy jednostki wojskowej, do której żołnierz został wezwany, o stawieniu się żołnierza OT do służby zawiadamia o tym fakcie pracodawcę tego żołnierza.
+7. Przed rozpoczęciem kolejnego okresu szkoleniowego, jednak nie później niż na sześć miesięcy przed przewidywanym terminem skierowania na kurs lub szkolenie specjalistyczne prowadzone w ramach terytorialnej służby wojskowej pełnionej rotacyjnie, dowódca jednostki wojskowej, w której żołnierz OT pełni służbę, informuje żołnierza OT o możliwości skierowania na ten kurs lub szkolenie.
 
-7. Przed rozpoczęciem kolejnego okresu szkoleniowego, jednak nie później niż na sześć miesięcy przed przewidywanym terminem skierowania na kurs lub szkolenie specjalistyczne prowadzone ramach terytorialnej służby wojskowej pełnionej rotacyjnie, dowódca jednostki wojskowej, której żołnierz OT pełni służbę, informuje żołnierza OT o możliwości skierowania na ten kurs lub szkolenie.
+1. Dzień stawienia się żołnierza OT do terytorialnej służby wojskowej dowódca jednostki wojskowej, w której żołnierz OT pełni służbę, stwierdza w rozkazie dziennym.
 
-**Art. 98p.**
+2. W pierwszym dniu pełnienia terytorialnej służby wojskowej rotacyjnie dowódca jednostki wojskowej, w której żołnierz OT pełni służbę, wyznacza żołnierza OT na stanowisko służbowe i nadaje mu przydział mobilizacyjny.
 
-1. Dzień stawienia się żołnierza OT do terytorialnej służby wojskowej dowódca jednostki wojskowej, której żołnierz OT pełni służbę, stwierdza rozkazie dziennym.
+3. W czasie pełnienia terytorialnej służby wojskowej rotacyjnie żołnierza OT można kierować w podróż służbową, delegować do wykonywania zadań poza jednostką wojskową lub w innej jednostce wojskowej, w tym w ośrodku szkolenia, a także kierować za jego zgodą lub na jego wniosek na kurs lub szkolenie specjalistyczne oraz przenosić do innej jednostki wojskowej w celu dalszego pełnienia tej służby.
 
-2. W pierwszym dniu pełnienia terytorialnej służby wojskowej rotacyjnie dowódca jednostki wojskowej, której żołnierz OT pełni służbę, wyznacza żołnierza OT na stanowisko służbowe i nadaje mu przydział mobilizacyjny.
+1. Żołnierz OT pełniący terytorialną służbę wojskową dyspozycyjnie może być wezwany przez dowódcę jednostki wojskowej, w której pełni służbę, właściwego wojskowego komendanta uzupełnień lub w sposób określony w art. 60 ust. 4 do jej pełnienia rotacyjnie w trybie natychmiastowego stawiennictwa.
 
-3. W czasie pełnienia terytorialnej służby wojskowej rotacyjnie żołnierza OT można kierować podróż służbową, delegować do wykonywania zadań poza jednostką wojskową lub innej jednostce wojskowej, tym o ś rodku szkolenia, a tak ż e kierowa ć za jego zgod ą lub na jego wniosek na kurs lub szkolenie specjalistyczne oraz przenosi ć do innej jednostki wojskowej celu dalszego pełnienia tej słu ż by.
+2. Żołnierz OT wezwany do pełnienia terytorialnej służby wojskowej rotacyjnie w trybie natychmiastowego stawiennictwa jest obowiązany stawić się do tej służby w określonym terminie i miejscu.
 
-**Art. 98q.**
+1. W czasie pełnienia terytorialnej służby wojskowej dyspozycyjnie żołnierz OT jest obowiązany kształcić się i doskonalić, w tym podnosić sprawność fizyczną w zakresie niezbędnym do wykonywania zadań na stanowisku służbowym, a także utrzymywać stały kontakt z jednostką wojskową.
 
-1. Ż ołnierz OT pełni ą cy terytorialn ą słu ż b ę wojskow ą dyspozycyjnie mo ż e by ć wezwany przez dowódc ę jednostki wojskowej, której pełni słu ż b ę , wła ś ciwego wojskowego komendanta uzupełnie ń lub sposób okre ś lony art. 60 ust. 4 do jej pełnienia rotacyjnie trybie natychmiastowego stawiennictwa. stawiennictwa jest do tej terminie i miejscu.
+2. W czasie terytorialnej służby wojskowej pełnionej dyspozycyjnie żołnierz OT może przebywać w jednostce wojskowej za zgodą dowódcy tej jednostki. Czas ten nie zalicza się do czasu trwania terytorialnej służby wojskowej pełnionej rotacyjnie.
 
-**Art. 98r.**
+1. W czasie pełnienia terytorialnej służby wojskowej żołnierz OT podlega opiniowaniu służbowemu, w formie opinii służbowej.
 
-1. W czasie pełnienia terytorialnej służby wojskowej dyspozycyjnie żołnierz OT jest obowiązany kształcić się i doskonalić, tym podnosić sprawność fizyczną zakresie niezbędnym do wykonywania zadań na stanowisku służbowym, a także utrzymywać stały kontakt z jednostką wojskową.
+2. Opiniowanie służbowe prowadzi, w formie pisemnej, przełożony żołnierza OT, zajmujący stanowisko służbowe co najmniej dowódcy kompanii lub równorzędne.
 
-2. W czasie terytorialnej służby wojskowej pełnionej dyspozycyjnie żołnierz OT może przebywać jednostce wojskowej za zgodą dowódcy tej jednostki. Czas ten nie zalicza się do czasu trwania terytorialnej służby wojskowej pełnionej rotacyjnie.
+3. Opinię służbową sporządza się nie rzadziej niż raz w roku kalendarzowym, w pierwszym kwartale roku za rok poprzedni.
 
-**Art. 98s.**
-
-1. W czasie pełnienia terytorialnej służby wojskowej żołnierz OT podlega opiniowaniu służbowemu, formie opinii służbowej.
-
-2. Opiniowanie służbowe prowadzi, formie pisemnej, przełożony żołnierza OT, zajmujący stanowisko służbowe co najmniej dowódcy kompanii lub równorzędne.
-
-3. Opinię służbową sporządza się nie rzadziej niż raz roku kalendarzowym, pierwszym kwartale roku za rok poprzedni.
-
-4. W przypadku żołnierza, który został powołany do terytorialnej służby wojskowej ostatnim kwartale roku kalendarzowego, opinię sporządza się kolejnym roku kalendarzowym po upływie 365 dni od dnia powołania.
+4. W przypadku żołnierza, który został powołany do terytorialnej służby wojskowej w ostatnim kwartale roku kalendarzowego, opinię sporządza się w kolejnym roku kalendarzowym po upływie 365 dni od dnia powołania.
 
 5. W ramach opiniowania żołnierza OT przełożony ocenia:
 
@@ -161,223 +314,166 @@ o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz 
 
 8. Od opinii służbowej żołnierzowi OT przysługuje odwołanie do wyższego przełożonego.
 
-9. Odwołanie wnosi się na piśmie wraz z uzasadnieniem, za pośrednictwem przełożonego sporządzającego opinię służbową, terminie siedmiu dni od dnia zapoznania się żołnierza OT z opinią służbową.
+9. Odwołanie wnosi się na piśmie wraz z uzasadnieniem, za pośrednictwem przełożonego sporządzającego opinię służbową, w terminie siedmiu dni od dnia zapoznania się żołnierza OT z opinią służbową.
 
-10. Odwołanie wniesione po terminie, o którym mowa ust. 9, pozostawia się bez rozpatrzenia, o czym informuje się żołnierza OT.
+10. Odwołanie wniesione po terminie, o którym mowa w ust. 9, pozostawia się bez rozpatrzenia, o czym informuje się żołnierza OT.
 
-11. W przypadku gdy przełożony, o którym mowa ust. 9, uwzględni odwołanie żołnierza OT całości, zmienia treść zaskarżonej opinii służbowej. Taka opinia służbowa jest ostateczna.
+11. W przypadku gdy przełożony, o którym mowa w ust. 9, uwzględni odwołanie żołnierza OT w całości, zmienia treść zaskarżonej opinii służbowej. Taka opinia służbowa jest ostateczna.
 
-12. W przypadku nieuwzględnienia odwołania żołnierza OT lub uwzględnienia go części przełożony, o którym mowa ust. 9, przekazuje odwołanie wyższemu przełożonemu wraz z opinią służbową, od której wniesiono odwołanie, oraz swoim stanowiskiem tej sprawie nie później niż terminie trzech dni od dnia otrzymania odwołania.
+12. W przypadku nieuwzględnienia odwołania żołnierza OT lub uwzględnienia go w części przełożony, o którym mowa w ust. 9, przekazuje odwołanie wyższemu przełożonemu wraz z opinią służbową, od której wniesiono odwołanie, oraz swoim stanowiskiem w tej sprawie nie później niż w terminie trzech dni od dnia otrzymania odwołania.
 
 13. Wyższy przełożony może opinię służbową, od której wniesiono odwołanie:
 
-- **1)** utrzymać mocy;
+- **1)** utrzymać w mocy;
 - **2)** zmienić lub uzupełnić;
 - **3)** uchylić i wydać nową;
-- **4)** uchyli ć , je ż eli brak było podstaw prawnych do jej wydania.
+- **4)** uchylić, jeżeli brak było podstaw prawnych do jej wydania.
 
-14. Wy ż szy przeło ż ony mo ż e zmieni ć opini ę słu ż bow ą na niekorzy ść ż ołnierza OT wył ą cznie przypadku ujawnienia okoliczno ś ci lub faktów maj ą cych negatywny wpływ na wynik opinii słu ż bowej, które nie były znane opiniuj ą cemu, o którym mowa ust. 9, dniu wydania opinii, od której wniesiono odwołanie. płatnie:
+14. Wyższy przełożony może zmienić opinię służbową na niekorzyść żołnierza OT wyłącznie w przypadku ujawnienia okoliczności lub faktów mających negatywny wpływ na wynik opinii służbowej, które nie były znane opiniującemu, o którym mowa w ust. 9, w dniu wydania opinii, od której wniesiono odwołanie.
+
+15. Opinię służbową dowódca jednostki wojskowej, w której żołnierz OT pełni służbę, może udostępnić nieodpłatnie:
 
 - **1)** przełożonym,
 - **2)** wojskowemu komendantowi uzupełnień i jego przełożonym,
-- **3)** sądom wojskowym, powszechnym jednostkom organizacyjnym prokuratury, których utworzono komórki organizacyjne do spraw wojskowych, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego i Żandarmerii Wojskowej,
+- **3)** sądom wojskowym, powszechnym jednostkom organizacyjnym prokuratury, w których utworzono komórki organizacyjne do spraw wojskowych, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego i Żandarmerii Wojskowej,
 - **4)** sądom powszechnym, powszechnym jednostkom organizacyjnym prokuratury, Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu i Biuru Ochrony Rządu, jeżeli jest to niezbędne do prowadzonego przez nie postępowania jeżeli wymagają tego ich zadania.
 
-16. Minister Obrony Narodowej określi, drodze rozporządzenia:
+16. Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
 - **1)** sposób oceniania żołnierzy,
-- **2)** wzór arkusza opinii służbowej uwzględniając zróżnicowany charakter służby i wykonywanych zadań ramach jej pełnienia dyspozycyjnie lub rotacyjnie, aby wzór arkusza opinii służbowej zawierał wszystkie dane niezbędne do jej sporządzenia oraz umożliwiał opiniowanemu wypowiedzenie się sprawie dalszego przebiegu służby, a także aby opiniowanie było oparte na zasadzie jawności dla opiniowanego.
+- **2)** wzór arkusza opinii służbowej uwzględniając zróżnicowany charakter służby i wykonywanych zadań w ramach jej pełnienia dyspozycyjnie lub rotacyjnie, aby wzór arkusza opinii służbowej zawierał wszystkie dane niezbędne do jej sporządzenia oraz umożliwiał opiniowanemu wypowiedzenie się w sprawie dalszego przebiegu służby, a także aby opiniowanie było oparte na zasadzie jawności dla opiniowanego.
 
-**Art. 98t.**
+1. Żołnierza OT zwalnia się z terytorialnej służby wojskowej z dniem jej zakończenia ustalonym w powołaniu lub przedłużeniu, o którym mowa w art. 98j ust. 2.
 
-1. Żołnierza OT zwalnia się z terytorialnej służby wojskowej z dniem jej zakończenia ustalonym powołaniu lub przedłużeniu, o którym mowa art. 98j ust. 2.
+2. Żołnierza OT zwalnia się z terytorialnej służby wojskowej przed upływem czasu jej trwania w przypadku:
 
-2. Żołnierza OT zwalnia się z terytorialnej służby wojskowej przed upływem czasu jej trwania przypadku:
-
-- **1)** osiągnięcia wieku, którym przestaje podlegać obowiązkowi służby wojskowej, określonego art. 58 ust. 1 odpowiednio do posiadanego stopnia wojskowego;
-- **2)** niespełniania warunków, o których mowa art. 98k ust. 3;
+- **1)** osiągnięcia wieku, w którym przestaje podlegać obowiązkowi służby wojskowej, określonego w art. 58 ust. 1 – odpowiednio do posiadanego stopnia wojskowego;
+- **2)** niespełniania warunków, o których mowa w art. 98k ust. 3;
 - **3)** utraty stopnia wojskowego albo degradacji;
 - **4)** prawomocnego orzeczenia kary dyscyplinarnej usunięcia z tej służby;
 - **5)** prawomocnego orzeczenia środka karnego pozbawienia praw publicznych;
 - **6)** skazania prawomocnym wyrokiem na karę ograniczenia wolności, pozbawienia wolności lub karę aresztu wojskowego;
-- **7)** powołania do zawodowej służby wojskowej lub przyjęcia do służby wojskowej charakterze kandydata na żołnierza zawodowego;
-- **8)** otrzymania opinii służbowej ogólnej oceny niedostatecznej;
-- **9)** nieukończenia szkolenia podstawowego lub niezłożenia przysięgi wojskowej przypadku żołnierzy, o których mowa art. 98m ust. 5;
-- **10)** niewyrażenia zgody na zmianę stanowiska służbowego na stanowisko innej jednostce wojskowej przypadku rozformowania jednostki wojskowej, której pełnił tę służbę;
-- **11)** niewyrażenia zgody na zmianę stanowiska służbowego przypadku zniesienia etacie jednostki wojskowej stanowiska służbowego, na które był wyznaczony.
+- **7)** powołania do zawodowej służby wojskowej lub przyjęcia do służby wojskowej w charakterze kandydata na żołnierza zawodowego;
+- **8)** otrzymania w opinii służbowej ogólnej oceny niedostatecznej;
+- **9)** nieukończenia szkolenia podstawowego lub niezłożenia przysięgi wojskowej w przypadku żołnierzy, o których mowa w art. 98m ust. 5;
+- **10)** niewyrażenia zgody na zmianę stanowiska służbowego na stanowisko w innej jednostce wojskowej w przypadku rozformowania jednostki wojskowej, w której pełnił tę służbę;
+- **11)** niewyrażenia zgody na zmianę stanowiska służbowego w przypadku zniesienia w etacie jednostki wojskowej stanowiska służbowego, na które był wyznaczony.
 
-3. Żołnierza OT można zwolnić z terytorialnej służby wojskowej przed upływem czasu jej trwania przypadku:
+3. Żołnierza OT można zwolnić z terytorialnej służby wojskowej przed upływem czasu jej trwania w przypadku:
 
 - **1)** złożenia przez niego, drogą służbową, pisemnego wniosku uzasadnionego szczególnie ważnymi względami osobistymi lub rodzinnymi;
 - **2)** zaistnienia potrzeb Sił Zbrojnych;
 - **3)** niestawienia się do terytorialnej służby wojskowej pełnionej rotacyjnie;
-- **4)** odmowy wydania lub cofnięcia żołnierzowi OT poświadczenia bezpieczeństwa, wszczęcia kontrolnego postępowania sprawdzającego tej sprawie lub niewyrażenia przez żołnierza OT zgody na przeprowadzenie postępowania sprawdzaj ą cego;
-- **5)** odmowy przyj ę cia skierowania do wojskowej komisji lekarskiej lub wojskowej pracowni psychologicznej, niezgłoszenia si ę do tej komisji lub pracowni okre ś lonym terminie i miejscu albo niepoddania si ę badaniom, do których ż ołnierz OT został zobowi ą zany przez t ę komisj ę lub pracowni ę ;
-- **6)** otrzymania opinii służbowej ogólnej oceny dostatecznej; skowej, jego przygotowaniu zawodowemu oraz kwalifikacjom i przydatnym Siłach Zbrojnych, gdy żołnierz ten wyraził zgodę na zmianę stanowiska służbowego.
+- **4)** odmowy wydania lub cofnięcia żołnierzowi OT poświadczenia bezpieczeństwa, wszczęcia kontrolnego postę-powania sprawdzającego w tej sprawie lub niewyrażenia przez żołnierza OT zgody na przeprowadzenie postę-powania sprawdzającego;
+- **5)** odmowy przyjęcia skierowania do wojskowej komisji lekarskiej lub wojskowej pracowni psychologicznej, niezgłoszenia się do tej komisji lub pracowni w określonym terminie i miejscu albo niepoddania się badaniom, do których żołnierz OT został zobowiązany przez tę komisję lub pracownię;
+- **6)** otrzymania w opinii służbowej ogólnej oceny dostatecznej;
+- **7)** braku możliwości wyznaczenia żołnierza OT na inne stanowisko służbowe w tej samej lub innej jednostce wojskowej, odpowiadające jego przygotowaniu zawodowemu oraz kwalifikacjom i umiejętnościom przydatnym w Siłach Zbrojnych, gdy żołnierz ten wyraził zgodę na zmianę stanowiska służbowego.
 
-4. Żołnierza OT, o którym mowa art. 98m ust. 5, zwolnionego z terytorialnej służby wojskowej dowódca jednostki wojskowej przenosi do rezerwy.
+4. Żołnierza OT, o którym mowa w art. 98m ust. 5, zwolnionego z terytorialnej służby wojskowej dowódca jednostki wojskowej przenosi do rezerwy.
 
-**Art. 98u.**
+1. Zwolnienie żołnierza OT z terytorialnej służby wojskowej oraz fakt jego odejścia z tej służby w danym dniu jej pełnienia rotacyjnie dowódca jednostki wojskowej, w której pełni służbę, stwierdza w rozkazie dziennym, ustalając jednocześnie łączną nieprzerwaną liczbę dni pełnienia tej służby.
 
-1. Zwolnienie żołnierza OT z terytorialnej służby wojskowej oraz fakt jego odejścia z tej służby danym dniu jej pełnienia rotacyjnie dowódca jednostki wojskowej, której pełni służbę, stwierdza rozkazie dziennym, ustalając jednocześnie łączną nieprzerwaną liczbę dni pełnienia tej służby.
+2. Na wniosek żołnierza OT dowódca jednostki wojskowej, w której żołnierz OT pełni służbę, wydaje mu zaświadczenie o okresie pełnienia terytorialnej służby wojskowej, wskazując w nim okres i liczbę dni, w których pełnił tę służbę rotacyjnie.
 
-2. Na wniosek żołnierza OT dowódca jednostki wojskowej, której żołnierz OT pełni służbę, wydaje mu zaświadczenie o okresie pełnienia terytorialnej służby wojskowej, wskazując nim okres i liczbę dni, których pełnił tę służbę rotacyjnie.
+1. W ramach pełnienia terytorialnej służby wojskowej rotacyjnie żołnierz OT jest szkolony w specjalności wojskowej odpowiadającej stanowisku służbowemu, na które został wyznaczony, oraz funkcji, która została mu powierzona.
 
-**Art. 98v.**
+2. Szkolenie, o którym mowa w ust. 1, może być prowadzone w centrach i ośrodkach szkolenia oraz jednostkach wojskowych.
 
-1. W ramach pełnienia terytorialnej służby wojskowej rotacyjnie żołnierz OT jest szkolony specjalności wojskowej odpowiadającej stanowisku służbowemu, na które został wyznaczony, oraz funkcji, która została mu powierzona.
+1. Żołnierz OT pełniący terytorialną służbę wojskową rotacyjnie może być czasowo delegowany, na podstawie rozkazu dowódcy jednostki wojskowej, w której pełni służbę, do wykonywania zadań w innej jednostce wojskowej.
 
-2. Szkolenie, o którym mowa ust. 1, może być prowadzone centrach i ośrodkach szkolenia oraz jednostkach wojskowych.
+2. Okres delegowania nie może przekraczać jednorazowo dwóch dni, a w przypadku wyrażenia zgody przez żołnierza OT – trzech miesięcy.
 
-**Art. 98w.**
+1. Żołnierz OT pełniący terytorialną służbę wojskową rotacyjnie może być skierowany w podróż służbową.
 
-1. Żołnierz OT pełniący terytorialną służbę wojskową rotacyjnie może być czasowo delegowany, na podstawie rozkazu dowódcy jednostki wojskowej, której pełni służbę, do wykonywania zadań innej jednostce wojskowej.
+2. W krajową podróż służbową żołnierza OT kieruje dowódca jednostki wojskowej, w której żołnierz OT pełni służbę.
 
-2. Okres delegowania nie może przekraczać jednorazowo dwóch dni, a przypadku wyrażenia zgody przez żołnierza OT trzech miesięcy.
+3. W zagraniczną podróż służbową żołnierza OT, za jego zgodą i na wniosek dowódcy jednostki wojskowej, w której żołnierz OT pełni służbę, kieruje dowódca brygady lub Dowódca Wojsk Obrony Terytorialnej.
 
-**Art. 98x.**
+4. Zagraniczną podróż służbową żołnierz OT odbywa w obecności i pod nadzorem żołnierza zawodowego.
 
-1. Żołnierz OT pełniący terytorialną służbę wojskową rotacyjnie może być skierowany podróż służbową.
-
-2. W krajową podróż służbową żołnierza OT kieruje dowódca jednostki wojskowej, której żołnierz OT pełni służbę.
-
-3. W zagraniczną podróż służbową żołnierza OT, za jego zgodą i na wniosek dowódcy jednostki wojskowej, której żołnierz OT pełni służbę, kieruje dowódca brygady lub Dowódca Wojsk Obrony Terytorialnej.
-
-4. Zagraniczną podróż służbową żołnierz OT odbywa obecności i pod nadzorem żołnierza zawodowego.
-
-5. Żołnierzowi OT, który odbył podróż służbową godzinach nocnych, przysługuje bezpośrednio po zakończeniu podróży co najmniej sześć godzin odpoczynku.
-
-**Art. 98y.**
+5. Żołnierzowi OT, który odbył podróż służbową w godzinach nocnych, przysługuje bezpośrednio po zakończeniu podróży co najmniej sześć godzin odpoczynku.
 
 1. Żołnierz OT może zostać przeniesiony, z urzędu lub na swój wniosek, do innej jednostki wojskowej Wojsk Obrony Terytorialnej.
 
-2. Przeniesienie żołnierza OT do innej jednostki wojskowej może nastąpić z urzędu, szczególności:
+2. Przeniesienie żołnierza OT do innej jednostki wojskowej może nastąpić z urzędu, w szczególności:
 
 - **1)** ze względów szkoleniowych;
-- **2)** celu uzupełnienia potrzeb etatowych innych jednostek wojskowych;
-- **3)** razie rozformowania jednostki wojskowej;
-- **4)** razie zmniejszenia stanu etatowego jednostki wojskowej.
+- **2)** w celu uzupełnienia potrzeb etatowych innych jednostek wojskowych;
+- **3)** w razie rozformowania jednostki wojskowej;
+- **4)** w razie zmniejszenia stanu etatowego jednostki wojskowej. Minister Obrony Narodowej określi, w drodze rozporządzenia:
+- **1)** szczegółowy tryb powoływania do terytorialnej służby wojskowej,
+- **2)** wzór wniosku o powołanie do terytorialnej służby wojskowej,
+- **3)** dokumenty składane wraz z wnioskiem, o którym mowa w pkt 2,
+- **4)** szczegółowy sposób pełnienia terytorialnej służby wojskowej uwzględniając potrzeby uzupełnieniowe Sił Zbrojnych i przeznaczenie Wojsk Obrony Terytorialnej. ” ;
+- **28)** w art. 99a w ust. 11: pkt 2 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 98z.** Minister Obrony Narodowej określi, drodze rozporządzenia:
+- **2)** osiągnięcia wieku, w którym przestaje podlegać obowiązkowi służby wojskowej, określonego w art. 58 ust. 1 – odpowiednio do posiadanego stopnia wojskowego; ” , po pkt 9 dodaje się pkt 9a w brzmieniu: „
+    - **b)**
 
-**Art. 132k.**
+- **9a)** powołania do terytorialnej służby wojskowej; ” ;
+- **29)** w art. 119: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
 
-1. Żołnierz zwolniony z terytorialnej służby wojskowej, który pełnił zawodową służbę wojskową co najmniej przez dziesięć lat, ze względu na szczególny charakter wykształcenia, doświadczenia wojskowego i wiedzy specjalistycznej korzysta z pierwszeństwa zatrudnieniu na stanowiskach związanych z obronnością kraju administracji publicznej.
+- **2)** na jeden dzień, jeżeli pracownikowi doręczono kartę powołania do odbycia ćwiczeń wojskowych trwających powyżej trzydziestu dni lub pełnienia terytorialnej służby wojskowej. ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
 
-2. Uprawnienie, o którym mowa ust. 1, pierwszej kolejno ś ci przysługuje byłym ż ołnierzom OT, którzy zostali zwolnieni z terytorialnej słu ż by wojskowej wskutek ustalenia przez wojskow ą komisj ę lekarsk ą niezdolno ś ci do pełnienia terytorialnej słu ż by wojskowej wskutek wypadku lub choroby pozostaj ą cych zwi ą zku z pełnieniem terytorialnej słu ż by wojskowej. administracji publicznej, na których wykonywane zadania i dla których kwalifikacje zwolnionych z terytorialnej służby wojskowej są szczególnie przydatne, uwzględniając potrzeby obronne kraju.
+3. Na wniosek pracownika, który odbył ćwiczenia wojskowe trwające powyżej trzydziestu dni lub pełnił terytorialną służbę wojskową rotacyjnie jednorazowo nieprzerwanie przez okres co najmniej trzydziestu dni, pracodawca jest obowiązany udzielić mu zwolnienia od pracy po odbyciu tych ćwiczeń lub pełnienia tej służby na jeden dzień, bez zachowania prawa do wynagrodzenia. ” ;
 
-**Art. 132l.**
+- **30)** po art. 119a dodaje się art. 119b w brzmieniu: „
 
-1. Żołnierzom OT, którzy pełnili terytorialną służbę wojskową przez okres co najmniej trzech lat na stanowiskach służbowych lub funkcjach wojskowych odpowiadających ich kwalifikacjom nabytym przed powołaniem do tej służby lub jej trakcie, wypłaca się ekwiwalent pieniężny z tytułu poniesionych kosztów związanych z uzyskaniem kwalifikacji przydatnych Siłach Zbrojnych, zrewaloryzowany o prognozowany ustawie budżetowej na dany rok wskaźnik cen towarów i usług konsumpcyjnych obowiązujący dniu zwolnienia żołnierza ze służby wojskowej.
+**Art. 119b.**
 
-2. Podstawę do wypłaty ekwiwalentu stanowi umowa zawarta między wojskowym komendantem uzupełnień a żołnierzem OT, na podstawie której żołnierz OT zobowiązał się do uzyskania przed powołaniem do terytorialnej służby wojskowej określonych kwalifikacji, a wojskowy komendant uzupełnień zobowiązał się, po uzgodnieniu z dowódcą jednostki wojskowej, do powołania żołnierza OT na stanowisko służbowe lub funkcję wojskową odpowiadającą uzyskanym kwalifikacjom.
+1. Żołnierzom OT, którzy pełnili terytorialną służbę wojskową rotacyjnie, z wyjątkiem służby pełnionej jednorazowo w czasie lub dniu wolnym od pracy, przysługuje świadczenie pieniężne rekompensujące utracone wynagrodzenie ze stosunku pracy lub stosunku służbowego albo dochód z prowadzonej działalności gospodarczej lub rolniczej, które mogliby uzyskać w okresie pełnienia terytorialnej służby wojskowej rotacyjnie.
 
-3. Ekwiwalent jest wypłacany po upływie trzech lat pełnienia terytorialnej służby wojskowej. Na wniosek żołnierza OT ekwiwalent można wypłacić przed upływem tego okresu przypadku, gdy zobowiąże się on do zwrotu wypłaconego ekwiwalentu razie zwolnienia go z tej służby przed jej zakończeniem z przyczyn niezależnych od organów wojskowych, z wyjątkiem przypadku wynikającego z orzeczenia o niezdolności do czynnej służby wojskowej lub orzeczenia psychologicznego stwierdzającego przeciwwskazania do pełnienia tej służby albo powołania do zawodowej służby wojskowej lub przyjęcia do służby wojskowej charakterze kandydata na żołnierza zawodowego.
+2. Świadczenie pieniężne za każdy dzień terytorialnej służby wojskowej pełnionej rotacyjnie stanowi kwota 1/21 miesięcznego wynagrodzenia lub dochodu, o których mowa w ust. 1, pomnożona przez liczbę dni pełnienia tej służby w danym miesiącu.
 
-**Art. 132m.**
+3. Kwota dziennego świadczenia pieniężnego nie może być wyższa od 1/21 dwuipółkrotnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw obowiązującego w roku poprzedzającym pełnienie terytorialnej służby wojskowej rotacyjnie, którego wysokość ogłasza Prezes Głównego Urzędu Statystycznego.
 
-1. Żołnierze OT, którzy zobowiązali się do pełnienia terytorialnej służby wojskowej nieprzerwanie przez okres nie krótszy niż trzy lata, mogą zostać skierowani przez wojskowego komendanta uzupełnień, drodze decyzji, na wniosek dowódcy jednostki wojskowej, której żołnierz pełni służbę, albo na swój wniosek, za zgodą dowódcy jednostki wojskowej, do odbycia kursu lub szkolenia specjalistycznego prowadzonego poza Siłami Zbrojnymi celu uzyskania kwalifikacji przydatnych Siłach Zbrojnych, o ile ma ono związek z zajmowanym stanowiskiem służbowym lub skierowanie żołnierza OT na kurs lub szkolenie specjalistyczne wynika z potrzeby zmiany stanowiska służbowego albo pozostawienia go terytorialnej służbie wojskowej na kolejny okres, nie krótszy niż trzy lata.
+4. W przypadku gdy prowadzona przez żołnierza OT działalność gospodarcza w roku poprzedzającym okres pełnienia terytorialnej służby wojskowej rotacyjnie nie przynosiła dochodu lub przynosiła straty lub gdy nie jest możliwe ustalenie wysokości dochodu uzyskiwanego przez żołnierza z prowadzonej działalności gospodarczej, świadczenie pieniężne przysługuje mu w kwocie wynikającej z podzielenia przez 21 minimalnego wynagrodzenia za pracę pracowników ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, obowiązującego w okresie pełnienia terytorialnej służby wojskowej rotacyjnie, i następnie pomnożenia przez liczbę dni pełnienia tej służby.
 
-2. Żołnierz OT ponosi koszty związane ze skierowaniem na kurs lub szkolenie specjalistyczne przypadku:
+5. Świadczenie pieniężne za dany miesiąc ustala i wypłaca dowódca jednostki wojskowej, w której żołnierz OT pełni służbę, na udokumentowany wniosek uprawnionego żołnierza OT, złożony nie później niż w ciągu trzech miesięcy po upływie miesiąca, w którym terytorialna służba wojskowa była pełniona rotacyjnie.
 
-- **1)** nieukończenia kursu lub szkolenia specjalistycznego lub nieuzyskania kwalifikacji przydatnych Siłach Zbrojnych;
-- **2)** zwolnienia go z terytorialnej służby wojskowej z przyczyn niezależnych od organów wojskowych przed ustalonym okresem jej pełnienia trwającym nie krócej niż trzy lata, z wyjątkiem przypadku wynikającego z orzeczenia o niezdolności do czynnej służby wojskowej lub orzeczenia psychologicznego stwierdzającego przeciwwskazania do pełnienia tej służby albo powołania do zawodowej służby wojskowej lub przyjęcia do służby wojskowej charakterze kandydata na żołnierza zawodowego.
+6. Świadczenie pieniężne wypłaca się w kwocie pomniejszonej o uposażenie, jakie żołnierz OT otrzymał z tytułu pełnienia w danym miesiącu terytorialnej służby wojskowej rotacyjnie.
 
-3. Uczestnikom kursu lub szkolenia specjalistycznego, którzy są pracownikami, przysługuje:
+7. Do okresu pełnienia terytorialnej służby wojskowej rotacyjnie, za które przysługuje świadczenie pieniężne, nie wlicza się dni stwierdzonych w rozkazie dziennym jednostki wojskowej, w których żołnierz OT:
 
-- **1)** zwolnienie z pracy na czas niezbędny do odbycia zajęć, z uwzględnieniem czasu koniecznego na dojazd;
-- **2)** wynagrodzenie pełnej wysokości za czas zwolnienia z pracy z powodu odbywania zajęć.
+- **1)** samowolnie opuścił jednostkę wojskową lub wyznaczone miejsce przebywania albo samowolnie poza nimi pozostawał;
+- **2)** z powodu spożycia alkoholu lub zażycia środków odurzających, substancji psychotropowych, ich preparatów, prekursorów oraz środków zastępczych był niezdolny do wykonywania obowiązków służbowych;
+- **3)** odmówił uczestnictwa w szkoleniu lub wykonywania obowiązków służbowych;
+- **4)** nie pełnił terytorialnej służby wojskowej rotacyjnie w pełnym ustalonym wymiarze z powodu niestawienia się do niej w terminie lub nieusprawiedliwionego spóźnienia z przepustki, urlopu albo podróży służbowej.
 
-4. Koszty związane z realizacją kursu lub szkolenia specjalistycznego oraz koszty świadczeń, o których mowa ust. 3, są pokrywane z budżetu państwa, z części, której dysponentem jest Minister Obrony Narodowej.
+8. W przypadku zbiegu uprawnień do wynagrodzenia ze stosunku pracy lub stosunku służbowego albo dochodu z prowadzonej działalności gospodarczej lub rolniczej stanowiących podstawę do wyliczenia świadczenia pieniężnego, żołnierzowi OT przysługuje tylko jeden, korzystniejszy rodzaj świadczenia pieniężnego.
 
-**Art. 132n.** Minister Obrony Narodowej określi, drodze rozporządzenia:
+9. Wydatki z tytułu wypłaty świadczeń pieniężnych są pokrywane z budżetu państwa, z części, której dysponentem jest Minister Obrony Narodowej.
 
-**Art. 132o.**
+10. Minister Obrony Narodowej określi, w drodze rozporządzenia, szczegółowy sposób i tryb ustalania i wypłacania świadczenia pieniężnego, uwzględniając potrzebę rekompensaty utraconego wynagrodzenia albo dochodu oraz konieczność zapewnienia sprawności i szybkości postępowania. ” ;
 
-1. Ż ołnierzowi OT mo ż na przyzna ć dofinansowanie kosztów studiów, nauki, sta ż u, kursu lub specjalizacji, zwłaszcza specjalno ś ciach wojskowych wymagaj ą cych podwy ż szonych kwalifikacji, wymiarze proporcjonalnym do deklarowanego okresu pełnienia terytorialnej słu ż by wojskowej. z wymaganiami kwalifikacyjnymi na zajmowanym lub na planowanym do wyznaczenia stanowisku
+- **31)** w art. 120 dodaje się ust. 7 w brzmieniu: „
 
-3. Podstawę dofinansowania stanowi umowa zawarta między dowódcą jednostki wojskowej a żołnierzem OT, określająca zasady, wysokość i sposób tego dofinansowania oraz warunki jego zwrotu.
+7. W przypadku żołnierzy OT do okresu zatrudnienia, o którym mowa w ust. 1–3, wlicza się wyłącznie okres pełnienia terytorialnej służby wojskowej rotacyjnie. ” ;
 
-4. Dofinansowanie przyznaje się żołnierzowi OT formie zwrotu opłaty uiszczonej przez żołnierza OT.
+- **32)** w art. 124 ust. 1 otrzymuje brzmienie: „
 
-5. Dofinansowanie kosztów studiów, nauki, stażu, kursu lub specjalizacji, które trwały krócej niż sześć miesięcy, następuje po ich zakończeniu oraz przedstawieniu przez żołnierza OT dowodu uiszczenia opłaty.
+1. Pracodawca udziela pracownikowi powołanemu do odbycia ćwiczeń wojskowych, pełnienia okresowej służby wojskowej lub terytorialnej służby wojskowej rotacyjnie urlopu bezpłatnego na okres trwania tych ćwiczeń lub służby. ” ;
 
-6. Dofinansowanie przyznaje się wysokości 1/3 kosztów, o których mowa ust. 1, za każdy rok pełnienia terytorialnej służby wojskowej przez żołnierza OT po zakończeniu kształcenia.
+- **33)** art. 125 otrzymuje brzmienie: „
 
-7. Jeżeli studia, nauka, staż, kurs lub specjalizacja trwały dłużej niż sześć miesięcy, żołnierz OT przedstawia dowódcy jednostki wojskowej, której pełni służbę, zaświadczenie potwierdzające zaliczenie ich kolejnych okresów oraz dowód uiszczenia opłaty.
+**Art. 125.** Pracownik powołany do zasadniczej służby wojskowej, okresowej służby wojskowej lub terytorialnej służby wojskowej otrzymuje od pracodawcy odprawę w wysokości dwutygodniowego wynagrodzenia obliczonego według zasad określonych dla ustalania ekwiwalentu za urlop wypoczynkowy. Odprawa nie przysługuje w razie ponownego powołania do tej samej służby. ” ;
 
-8. Zwrot dofinansowania przez żołnierza OT następuje przypadku przerwania kształcenia lub zwolnienia z terytorialnej służby wojskowej przed ustalonym umowie okresem jej pełnienia, trwającym nie krócej niż trzy lata, z przyczyn niezależnych od organów wojskowych, z wyjątkiem przypadku wynikającego z orzeczenia o niezdolności do czynnej służby wojskowej lub orzeczenia psychologicznego stwierdzającego przeciwwskazania do pełnienia tej służby albo powołania do zawodowej służby wojskowej lub przyjęcia do służby wojskowej charakterze kandydata na żołnierza zawodowego.
+**Art. 132j.**
 
-9. Zwrotu, o którym mowa ust. 8, dochodzi dowódca jednostki wojskowej, której żołnierz OT pełni służbę.
+1. Żołnierzom OT:
 
-10. Minister Obrony Narodowej okre ś li, drodze rozporz ą dzenia:
+- **1)** zamieszkującym poza miejscem pełnienia służby – przysługuje prawo do zwrotu kosztów dojazdów z miejsca zamieszkania do miejsca pełnienia tej służby rotacyjnie i z powrotem na zasadach określonych w art. 72;
+- **2)** okres urlopu bezpłatnego w związku z tą służbą udzielonego przez pracodawcę jest wliczany do okresu pracy, od którego zależą uprawnienia pracownicze, w tym wymiar urlopu wypoczynkowego za dany rok.
 
-- **1)** tryb udzielania żołnierzom OT dofinansowania kosztów studiów, nauki, stażu, kursu lub specjalizacji,
-- **2)** sposób dokumentowania poniesionych przez żołnierza OT wydatków objętych dofinansowaniem,
-- **3)** wzór umowy, o której mowa ust. 3 uwzględniając sprawność postępowania sprawie dofinansowania, wysokość rzeczywistych kosztów studiów, nauki, stażu, kursu lub specjalizacji, możliwość weryfikacji tych kosztów oraz prawa i obowiązki stron umowy.”;
-- **39)** art. 134a:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Pracodawcy zatrudniającemu pracownika będącego żołnierzem rezerwy posiadającym nadany przydział kryzysowy lub żołnierzem OT przysługuje świadczenie pieniężne za okres odbywania ćwiczeń wojskowych, pełnienia okresowej służby wojskowej lub terytorialnej służby wojskowej rotacyjnie przez tego żołnierza.”,
-    - **b)** ust. 5 otrzymuje brzmienie: „5. Pracodawca przesyła wniosek sprawie wypłaty świadczenia wraz z dokumentami potwierdzającymi poniesione koszty, o których mowa ust. 2, szefowi wojewódzkiego sztabu wojskowego właściwemu ze względu na siedzibę pracodawcy nie później niż przed upływem dziewięćdziesięciu dni od dnia zwolnienia żołnierza rezerwy z ćwiczeń wojskowych, z pełnienia okresowej służby wojskowej lub pełnienia terytorialnej służby wojskowej rotacyjnie.”,
-    - **c)** ust. 8–10 otrzymują brzmienie: „8. Kwota świadczenia za każdy dzień odbywania przez żołnierza rezerwy ćwiczeń wojskowych, pełnienia przez żołnierza rezerwy okresowej służby wojskowej lub pełnienia przez żołnierza OT terytorialnej służby wojskowej rotacyjnie nie może być wyższa od 1/21 dwuipółkrotnego przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw obowiązującego okresie poprzedzającym termin powołania do odbycia ćwiczeń wojskowych albo okresie poprzedzającym dany miesiąc pełnienia okresowej służby wojskowej lub terytorialnej służby wojskowej pełnionej rotacyjnie, którego wysokość ogłasza Prezes Głównego Urzędu Statystycznego.
+2. Koszty związane ze świadczeniami dla żołnierzy OT z tytułu pełnienia czynnej służby wojskowej są pokrywane z budżetu państwa, z części, której dysponentem jest Minister Obrony Narodowej.
 
-9. Kwotę świadczenia ustala się i wypłaca każdorazowo za czas odbywania danego rodzaju ćwiczeń wojskowych, a przypadku okresowej służby wojskowej lub terytorialnej służby wojskowej pełnionej rotacyjnie za dany miesiąc ich pełnienia.
+1. Żołnierz zwolniony z terytorialnej służby wojskowej, który pełnił zawodową służbę wojskową co najmniej przez dziesięć lat, ze względu na szczególny charakter wykształcenia, doświadczenia wojskowego i wiedzy specjalistycznej korzysta z pierwszeństwa w zatrudnieniu na stanowiskach związanych z obronnością kraju w administracji publicznej.
 
-10. Jeżeli żołnierz rezerwy posiadający nadany przydział kryzysowy lub żołnierz OT jest zatrudniony u dwóch lub więcej pracodawców, świadczenie przysługuje wszystkim zatrudniającym go pracodawcom, proporcjonalnie do poniesionych przez nich kosztów, z uwzględnieniem, że wysokość świadczenia dla jednego pracodawcy za ka ż dy dzie ń odbytych ć wicze ń wojskowych albo pełnionej okresowej słu ż by wojskowej lub terytorialnej słu ż by wojskowej pełnionej rotacyjnie nie mo ż e przekracza ć kwoty obliczonej na podstawie ust. 8.”;
+2. Uprawnienie, o którym mowa w ust. 1, w pierwszej kolejności przysługuje byłym żołnierzom OT, którzy zostali zwolnieni z terytorialnej służby wojskowej wskutek ustalenia przez wojskową komisję lekarską niezdolności do pełnienia terytorialnej służby wojskowej wskutek wypadku lub choroby pozostających w związku z pełnieniem terytorialnej służby wojskowej.
 
-- **40)** art. 142 ust. 1 pkt 2 lit. c otrzymuje brzmienie: „c) kobiety, pocz ą wszy od 1 stycznia roku, którym ko ń cz ą osiemna ś cie lat ż ycia, do ko ń ca roku kalendarzowego, którym ko ń cz ą pi ęć dziesi ą t pi ęć lat ż ycia.”;
-    - **a)** ust. 3 zdanie pierwsze otrzymuje brzmienie: „W czasie pokoju przydziały organizacyjno-mobilizacyjne mogą być nadawane mężczyznom, którzy nie ukończyli sześćdziesięciu lat życia, i kobietom, które nie ukończyły pięćdziesięciu pięciu lat życia.”,
-    - **b)** ust. 4 po pkt 2 dodaje się pkt 2a brzmieniu: „2a) są żołnierzami czynnej służbie wojskowej;”;
+3.
 
-- **42)** art. 199b otrzymuje brzmienie: „Art. 199b. Obywatelowi polskiemu podlegającemu powszechnemu obowiązkowi obrony może być udzielona zgoda na służbę obcym wojsku lub obcej organizacji wojskowej tylko przypadku, gdy ma uregulowany stosunek do służby wojskowej, nie jest żołnierzem czynnej służbie wojskowej oraz nie posiada przydziału kryzysowego, przydziału mobilizacyjnego, pracowniczego przydziału mobilizacyjnego lub przydziału organizacyjno-mobilizacyjnego, a właściwy wojskowy komendant uzupełnień nie prowadzi postępowania sprawie nadania temu obywatelowi któregokolwiek z tych przydziałów.”;
-- **43)** art. 200 ust. 4 otrzymuje brzmienie: „4. W stosunku do kurierów obowiązek świadczeń osobistych może być nałożony celu sprawdzenia gotowości mobilizacyjnej Sił Zbrojnych oraz przypadku powoływania trybie natychmiastowego stawiennictwa żołnierzy rezerwy posiadających przydziały kryzysowe lub wezwania żołnierzy OT do stawienia się do pełnienia terytorialnej służby wojskowej rotacyjnie.”.
-
-**Art. 2.** W ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996 i 1579) art. 88a otrzymuje brzmienie: „Art. 88a. W razie uchybienia przez żołnierza czynnej służbie wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, obowiązkom, o których mowa art. 88 § 1, organ przeprowadzający dowód, zamiast wymierzyć żołnierzowi karę grzywny, występuje do dowódcy jednostki wojskowej, której żołnierz ten pełni służbę, z wnioskiem o pociągnięcie go do odpowiedzialności dyscyplinarnej.”.
-
-**Art. 3.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, 1823, 1860 i 1948) wprowadza się następujące zmiany:
-
-**Art. 4.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2016 r. poz. 871) art. 30 ust. 1 pkt 1 otrzymuje brzmienie: „1) czasie odbywania czynnej słu ż by wojskowej okresie pokoju, z wyj ą tkiem terytorialnej słu ż by wojskowej pełnionej dyspozycyjnie;”.
-
-**Art. 5.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2016 r. poz. 1666) wprowadza się następujące zmiany:
-
-**Art. 6.** W ustawie z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych (Dz. U. z 2016 r. poz. 616) wprowadza się następujące zmiany:
-
-**Art. 7.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2016 r. poz. 191, 298 i 904) art. 19 po ust. 1b dodaje się ust. 1c i 1d brzmieniu: „1c. Ochotnicza straż pożarna może współdziałać z Wojskami Obrony Terytorialnej zakresie niezbędnym do realizacji ich zadań. 1d. Minister właściwy do spraw wewnętrznych, porozumieniu z Ministrem Obrony Narodowej, może określić, drodze rozporządzenia, formy współdziałania ochotniczej straży pożarnej z Wojskami Obrony Terytorialnej, sprawy wymagające współdziałania, sposób wymiany informacji dotyczących spraw wymagających współdziałania oraz formy koordynacji wspólnych przedsięwzięć, uwzględniając potrzebę sprawnej realizacji tej współpracy.”.
-
-**Art. 8.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2015 r. poz. 2100 oraz z 2016 r. poz. 422, 586, 903, 1020 i 1948) po art. 48a dodaje się art. 48b brzmieniu: „Art. 48b. 1. Straż Leśna może współpracować z Wojskami Obrony Terytorialnej zakresie niezbędnym do realizacji ich zadań. 2. Minister właściwy do spraw środowiska, porozumieniu z Ministrem Obrony Narodowej, może określić, drodze rozporządzenia, formy współdziałania Straży Leśnej z Wojskami Obrony Terytorialnej, sprawy wymagające współdziałania, sposób wymiany informacji dotyczących spraw wymagających współdziałania oraz formy koordynacji wspólnych przedsięwzięć, uwzględniając potrzebę sprawnej realizacji tej współpracy.”.
-
-**Art. 9.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2016 r. poz. 1037) wprowadza się następujące zmiany:
-
-**Art. 11.** W ustawie z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej (Dz. U. z 2013 r. poz. 189 i 852 oraz z 2014 r. poz. 932) wprowadza się następujące zmiany:
-
-**Art. 12.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2016 r. poz. 1137) art. 115:
-
-**Art. 13.** W ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2016 r. poz. 1749 i 1948) wprowadza się następujące zmiany:
-
-**Art. 14.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 158.** Wniosek o zwolnienie od wykonania kary pozbawienia wolności, o której mowa art. 336 § 3 i 4 Kodeksu karnego, wobec żołnierza, z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie, może złożyć również dowódca jednostki. Termin zawity do złożenia wniosku upływa dniu ukończenia służby przez ż ołnierza.”;
-
-**Art. 15.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm. ) art. 18 ust. 4 pkt 5 otrzymuje brzmienie: „5) żołnierzy niezawodowych pełniących czynną służbę wojskową, z wyjątkiem żołnierzy pełniących służbę kandydacką oraz żołnierzy pełniących terytorialną służbę wojskową, stanowi kwota minimalnego wynagrodzenia za pracę obowiązującego grudniu roku poprzedniego, ustalonego na podstawie odrębnych przepisów, z zastrzeżeniem ust. 9 i 10, a przypadku żołnierzy niezawodowych pełniących służbę ramach Narodowych Sił Rezerwowych lub pełniących terytorialną służbę wojskową rotacyjnie kwota uposażenia z tytułu tej służby.”.
-
-**Art. 16.** W ustawie z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2016 r. poz. 2137) wprowadza się następujące zmiany:
-
-**Art. 18.** W ustawie z dnia 25 maja 2001 r. o odpowiedzialności majątkowej żołnierzy (Dz. U. poz. 967 oraz z 2003 r. poz. 1750) art. 2 pkt 1 otrzymuje brzmienie: „1) żołnierzu należy przez to rozumieć żołnierza czynnej służbie wojskowej, o którym mowa ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2016 r. poz. 1726 i 2138) i ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 1534 i 2138), z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie,”.
-
-**Art. 19.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2016 r. poz. 1727, 1823, 1920, 1923 i 1948) art. 62:
-
-**Art. 20.** W ustawie z dnia 11 kwietnia 2003 r. o świadczeniach odszkodowawczych przysługujących razie wypadków i chorób pozostających związku ze służbą wojskową (Dz. U. z 2014 r. poz. 213 i 1822) wprowadza się następujące zmiany:
-
-**Art. 22.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2016 r. poz. 645, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 23.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, 1807, 1860 i 1948) art. 66 ust. 1 pkt 2 otrzymuje brzmienie: „2) żołnierze odbywający zasadniczą służbę wojskową, przeszkolenie wojskowe, ćwiczenia wojskowe oraz pełniący terytorialną służbę wojskową, służbę kandydacką, służbę przygotowawczą lub służbę wojskową razie ogłoszenia mobilizacji i czasie wojny o ile nie podlegają obowiązkowi ubezpieczenia z innego tytułu;”.
-
-**Art. 24.** W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2016 r. poz. 1318 i 1955) art. 10:
-
-**Art. 25.** W ustawie z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. z 2016 r. poz. 772) art. 84 ust. 6 po pkt 3 dodaje się pkt 3a brzmieniu: „3a) Wojsk Obrony Terytorialnej prowadzi i przechowuje się sposób określony pkt 1 jednostce wojskowej, której żołnierz pełni terytorialną służbę wojskową;”.
-
-**Art. 26.** Obywatele polscy, którzy do dnia 31 grudnia 2016 r. ukończyli pięćdziesiąt lat życia:
-
-**Art. 27.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
-
-**Art. 28.** Ustawa wchodzi życie z dniem 1 stycznia 2017 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

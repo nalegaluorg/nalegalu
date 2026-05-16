@@ -8,9 +8,10 @@ pos: 658
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 658 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 7 czerwca 2001 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 7 czerwca 2001 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010640658) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/658/text.pdf) |
 
-sygn. akt K. 20/2000.
-Trybunał Konstytucyjny wskładzie: Wiesław Johann przewodniczący, Jerzy Ciemniewski, Zdzisław Czeszejko-Sochacki, Jadwiga Skórzewska-Ęosiak sprawozdawca, Janusz Trzciński, po rozpoznaniu w dniach 15 maja i 7 czerwca 2001r. na rozprawie sprawy zpołączonych wniosków: Rady Gminy Kleszczów, Rady Gminy iMiasta wBogaz1998 r. Nr 106, poz. 668 orazz2000 r. Nr 12, poz. 136), wprowadzonego ustawą zdnia 24 lipca 1998 r. ozmianie niektórych ustaw określających kompetencje organów administracji publicznej w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), z art. 2, art. 7 iart. 167 Konstytucji Rzeczypospolitej Polskiej, orzeka:
-Art. 87dustawy zdnia 31 stycznia 1980 r. oochronie ikształtowaniu środowiska (Dz. U. z1994 r. Nr 49, poz. 196, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 132, poz. 622, z 1997 r. Nr 46, poz. 296, Nr 96, poz. 592, Nr 121, poz. 770 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 101, poz. 1178, z2000 r. Nr 12, poz.136, Nr 48, poz. 550, Nr62, poz. 718 tyni,Rady Miejskiej wPolicach oraz Rady Gminy Rud- iNr 109, poz.1157orazz2001 r. Nr 38, poz.452 iNr 45, na,zudziałem umocowanych przedstawicieli uczestni- poz.497) jest zgodny zart. 2, art. 7 iart. 167 Konstyków postępowania: wnioskodawców, Sejmu Rzeczy- tucji Rzeczypospolitej Polskiej.
-pospolitej Polskiej, Ministra Ârodowiska i Prokuratora Generalnego, o stwierdzenie niezgodności art. 87d ustawy z dnia 31 stycznia 1980 r. o ochronie Wiesław Johann i kształtowaniu środowiska (Dz. U. z 1994 r. Nr 49, poz. 196, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, Jerzy Ciemniewski Zdzisław Czeszejko-Sochacki poz. 496 i Nr 132, poz. 622, z 1997 r. Nr 46, poz. 296, Nr 96, poz. 592, Nr 121, poz. 770 i Nr 133, poz. 885, Jadwiga Skórzewska-Ęosiak Janusz Trzciński ISSN 0867-3411 Cena brutto 8,50 zł Szanowni Państwo
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Wiesław Johann – przewodniczący, Jerzy Ciemniewski, Zdzisław Czeszejko-Sochacki, Jadwiga Skórzewska-Łosiak – sprawozdawca, Janusz Trzciński, protokolant: Joanna Szymczak, po rozpoznaniu w dniach 15 maja i 7 czerwca 2001 r. na rozprawie sprawy z połączonych wniosków: Rady Gminy Kleszczów, Rady Gminy i Miasta w Bogatyni, Rady Miejskiej w Policach oraz Rady Gminy Rudna, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawców, Sejmu Rzeczypospolitej Polskiej, Ministra Środowiska i Prokuratora Generalnego, o stwierdzenie niezgodności art. 87d ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. Nr 49, poz. 196, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496i Nr 132, poz. 622, z 1997 r. Nr 46, poz. 296, Nr 96, poz. 592, Nr 121, poz. 770i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668oraz z 2000 r. Nr 12, poz. 136), wprowadzonego ustawą z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), z art. 2, art. 7 i art. 167 Konstytucji Rzeczypospolitej Polskiej, orzeka: Art. 87d ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. Nr 49, poz. 196, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496i Nr 132, poz. 622, z 1997 r. Nr 46, poz. 296, Nr 96, poz. 592, Nr 121, poz. 770i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 101, poz. 1178, z 2000 r. Nr 12, poz. 136, Nr 48, poz. 550, Nr 62, poz. 718i Nr 109, poz. 1157oraz z 2001 r. Nr 38, poz. 452i Nr 45, poz. 497) jest zgodny z art. 2, art. 7 i art. 167 Konstytucji Rzeczypospolitej Polskiej.
 

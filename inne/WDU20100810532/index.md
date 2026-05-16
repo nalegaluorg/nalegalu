@@ -8,6 +8,7 @@ pos: 532
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 9 kwietnia 2010 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym
@@ -30,7 +31,7 @@ domain: null
 
 1. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-2. Do zdarzeń zaistniałych przed dniem wejścia w życie niniejszej ustawy, stanowiących naruszenie przepisów art. 63 ust. 1 pkt 1—3, 7 oraz 20 ustawy wymienionej w art. 1, stosuje się dotychczasowe przepisy o karach pieniężnych, chyba że kara pieniężna wymierzona według przepisów w brzmieniu nadanym niniejszą ustawą byłaby względniejsza.
+2. Do zdarzeń zaistniałych przed dniem wejścia w życie niniejszej ustawy, stanowiących naruszenie przepisów art. 63 ust. 1 pkt 1–3, 7 oraz 20 ustawy wymienionej w art. 1, stosuje się dotychczasowe przepisy o karach pieniężnych, chyba że kara pieniężna wymierzona według przepisów w brzmieniu nadanym niniejszą ustawą byłaby względniejsza.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Międzynarodowej Giełdzie Paliwowej Marszałek Sejmu wykonujący obowiązki Prezydenta Rzeczypospolitej Polskiej: B. Komorowski 532 USTAWA z dnia 9 kwietnia 2010 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

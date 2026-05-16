@@ -8,9 +8,10 @@ pos: 1655
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ustawa z dnia 25 listopada 2010 r. o zmianie ustawy - Kodeks pracy
+# Ustawa z dnia 25 listopada 2010 r. o zmianie ustawy – Kodeks pracy
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102491655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1655/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. — Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ) w art. 182 przez dziecko 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o od§ 1 otrzymuje brzmienie: roczeniu obowiązku szkolnego, nie dłużej niż do ukończenia przez nie 10 roku życia.”. „§ 1. P racownik — ojciec wychowujący dziecko ma prawo do urlopu ojcowskiego w wymiarze 2 ty- Art. 2. Przepisu art. 182 godni, nie dłużej jednak niż:
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.) w art. 1823 § 1 otrzymuje brzmienie: „
 
-**Art. 3.** Wymiar urlopu ojcowskiego, o którym mowa w art. 182 § 1 ustawy zmienianej w art. 1, wynosi w 2011 r. 1 tydzień.
+**Art. 2.** Przepisu art. 1823 § 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do pracownika – ojca wychowującego dziecko przysposobione, który skorzystał z urlopu ojcowskiego w związku z przysposobieniem dziecka przed dniem wejścia w życie niniejszej ustawy.
+
+**Art. 3.** Wymiar urlopu ojcowskiego, o którym mowa w art. 1823 § 1 ustawy zmienianej w art. 1, wynosi w 2011 r. 1 tydzień.
 
 **Art. 4.**
 
-1. Pracownik — ojciec wychowujący dziecko, korzystający w dniu 1 stycznia 2012 r. z urlopu ojcowskiego w wymiarze określonym w art. 3, ma prawo do części urlopu w wymiarze odpowiadającym różnicy między podwyższonym a dotychczasowym wymiarem urlopu ojcowskiego.
+1. Pracownik – ojciec wychowujący dziecko, korzystający w dniu 1 stycznia 2012 r. z urlopu ojcowskiego w wymiarze określonym w art. 3, ma prawo do części urlopu w wymiarze odpowiadającym różnicy między podwyższonym a dotychczasowym wymiarem urlopu ojcowskiego.
 
 2. Części urlopu ojcowskiego udziela się bezpośrednio po wykorzystaniu urlopu w dotychczasowym wymiarze, na pisemny wniosek składany w terminie nie krótszym niż 3 dni przed rozpoczęciem korzystania z takiej części urlopu.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2011 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski 1655 USTAWA z dnia 25 listopada 2010 r. o zmianie ustawy — Kodeks pracy
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2011 r.
 

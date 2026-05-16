@@ -8,9 +8,10 @@ pos: 1614
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# orzeka: Jerzy Ciemniewski Adam Jamróz
+# Wyrok Trybunału Konstytucyjnegoz dnia 28 listopada 2006 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +25,16 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062201614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1614/text.pdf) |
 
-Art. 2 ust. 1 pkt 3 ustawy zdnia 30 kwietnia 2004 r. Wiesław Johann Biruta Lewaszkiewiczświadczeniach przedemerytalnych (Dz. U. 120, -Petrykowska 1613 WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 27 listopada r.
-sygn. akt K 47/04 Trybunał Konstytucyjny w składzie: Wiesław Johann przewodniczący, Biruta Lewaszkiewicz-Petrykowska, Jerzy Stępień, Mirosław Wyrzykowski sprawozdawca, Bohdan Zdziennicki, wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 27 listopada wniosku Rzecznika Praw Obywatelskich zbadanie zgodności ustawy dnia 9lipca 2003 r. gwarancji zapłaty za roboty budowlane (Dz. U. 180, 1758) 2, 22 i 32 ust.1 Konstytucji Rzeczypospolitej Polskiej, orzeka: I
-1. Art. 1—3, 4 ust. 1—3, 5 ust. 3 oraz art.6—8 ustawy dnia 9 lipca 2003 r. gwarancji zapłaty za roboty budowlane (Dz. U. 180, 1758) są zgodne 2 iart. 32 ust. 1 Konstytucji Rzeczypospolitej Polskiej oraz nie są niezgodne 22 Konstytucji.
-2. Art. 4 ust. 4 ustawy powołanej wpunkcie 1 jest niezgodny 2 Konstytucji przez to, że różnicuje wysokość kosztów udzielonych gwarancji ponoszonych przez wykonawcę i zamawiającego.
-3. Art. 5 ust. 1 i 2 ustawy powołanej w punkcie 1 jest niezgodny 2 Konstytucji.
-II
-Art. 4 ust. 4 i 5 ust. 1 i 2 ustawy powołanej wczęści I wpunkcie 1 tracą moc obowiązującą zdniem 30 czerwca 2007 r.
-Wiesław Johann Biruta Lewaszkiewicz-Petrykowska Jerzy Stępień Mirosław Wyrzykowski Bohdan Zdziennicki WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 28 listopada r.
-sygn. akt P 31/05 Trybunał Konstytucyjny w składzie: Adam Jamróz, Wiesław Johann, Andrzej Mączyński przewodniczący, Mirosław Wyrzykowski sprawozdawca, Marian Grzybowski, mieszkalnych przez przedsiębiorstwa państwowe z2005 r. 167, 1398) wzakresie, wjakim na pod(Dz. U. 119, 567, ze zm.) wzwiązku zart. 40a stawie 40a ust. 10 ustawy dnia 28 września ust. 10 ustawy dnia 28 września 1991 r. lasach 1991r. lasach (Dz. U. 2005 r. 45, 435, (Dz. U. z2005 r. 45, 435, ze zm.) wzakresie, Nr157, 1315, 167, 1399 i 175, poz.1460 w jakim ma zastosowanie do jednostki organiza- i 1462) stosuje się do roszczenia zawarcie umowy cyjnej Skarbu Państwa Lasów Państwowych, przekazania nieodpłatnie gminie lokalu łącznie zgrunjest zgodny zart. 2 iart. 165 Konstytucji, tami i przynależnościami niezbędnymi do korzystania zlokalu, jest niezgodny zart. 165 ust. 1 Konstytucji
-2) Sądu Rejonowego w Gryfinie, czy: Rzeczypospolitej Polskiej.
-a) 40a powołanej wpunkcie 1 ustawy olasach w zakresie, w jakim umożliwia Państwowemu Gospodarstwu Leśnemu ŃLasy Państwowe” Ponadto postanawia: nieodpłatne przekazywanie gminie lokali mieszkalnych, na podstawie 39 ust. 1 pkt 1 ustawy dnia
-b) 5 powołanej wpunkcie 1 ustawy ozasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe w zakresie, w jakim przyznaje Państwowemu Gospodarstwu Leśnemu ŃLasy Państwowe” roszczenie zawarcie umowy przekazania nieruchomości, których nie nabyły na zasadzie 40a ust. 4—6 ustawy lasach uprawnione osoby są zgodne zart. 2, 165 ust. 1 i2 oraz art.167 ust. 4 Konstytucji, 1sierpnia 1997 r. Trybunale Konstytucyjnym (Dz. U.
-102, 643, 2000 r. 48, 552 i 53, poz.638, 2001 r. 98, 1070 oraz 2005 r.
-Nr169, 1417) umorzyć postępowanie w pozostałym zakresie ze względu na zbędność wydania orzeczenia.
-Andrzej Mączyński Marian Grzybowski Adam Jamróz Wiesław Johann Mirosław Wyrzykowski
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Mączyński – przewodniczący, Marian Grzybowski, Adam Jamróz, Wiesław Johann, Mirosław Wyrzykowski – sprawozdawca, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem sądów przedstawiających pytania prawne oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 28 listopada 2006 r., pytań prawnych:
+1)
+Sądu Rejonowego w Gorzowie Wielkopolskim, czy art. 5 ust. 1 ustawy z dnia 12 października 1994 r. o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe (Dz. U. Nr 119, poz. 567, ze zm.) w związku z art. 40a ust. 10 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, ze zm.) w zakresie, w jakim ma zastosowanie do jednostki organizacyjnej Skarbu Państwa – Lasów Państwowych, jest zgodny z art. 2 i art. 165 Konstytucji,
+2)
+Sądu Rejonowego w Gryfinie, czy:
+a)
+art. 40a powołanej w punkcie 1 ustawy o lasach w zakresie, w jakim umożliwia Państwowemu Gospodarstwu Leśnemu „Lasy Państwowe” nieodpłatne przekazywanie gminie lokali mieszkalnych,
+b)
+art. 5 powołanej w punkcie 1 ustawy o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe w zakresie, w jakim przyznaje Państwowemu Gospodarstwu Leśnemu „Lasy Państwowe” roszczenie o zawarcie umowy przekazania nieruchomości, których nie nabyły – na zasadzie art. 40a ust. 4–6 ustawy o lasach – uprawnione osoby
+są zgodne z art. 2, art. 165 ust. 1 i 2 oraz art. 167 ust. 4 Konstytucji,
+orzeka: Art. 5 ust. 1 ustawy z dnia 12 października 1994 r. o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe (Dz. U. Nr 119, poz. 567, z 1996 r. Nr 52, poz. 236, z 1997 r. Nr 6, poz. 32, z 2000 r. Nr 39, poz. 442 oraz z 2005 r. Nr 167, poz. 1398) w zakresie, w jakim na podstawie art. 40a ust. 10 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462) stosuje się do roszczenia o zawarcie umowy przekazania nieodpłatnie gminie lokalu łącznie z gruntami i przynależnościami niezbędnymi do korzystania z lokalu, jest niezgodny z art. 165 ust. 1 Konstytucji Rzeczypospolitej Polskiej. Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie w pozostałym zakresie ze względu na zbędność wydania orzeczenia.
 

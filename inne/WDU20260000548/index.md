@@ -8,6 +8,7 @@ pos: 548
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # U. 2026 poz. 548
@@ -21,8 +22,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-27 |
 | Data wydania | 2026-04-22 |
-| Wejście w życie | 2026-07-23 |
-| Ostatnia zmiana | 2026-04-23 |
+| Ostatnia zmiana | 2026-05-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/548/text.pdf) |
 
 USTAWA 27 marca 2026 r.
@@ -225,5 +225,5 @@ zarządzaniu danymi
 
 **Art. 37.** W ustawie 29 czerwca 1995 r. statystyce publicznej (Dz. U. 2024 r. poz. 1799, 2025 r. poz. 1792 2026 r. poz. 507) 25 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Prezes Głównego Urzędu Statystycznego jest właściwym podmiotem, którym mowa 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 30 maja 2022 r. sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt sprawie zarządzania danymi) (Dz. 152 03.06.2022, 1, późn. zm. ).”.
 
-**Art. 39.** Ustawa wchodzi życie po upływie 3 miesięcy od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 39.** Ustawa wchodzi życie po upływie 3 miesięcy od ogłoszenia.
 

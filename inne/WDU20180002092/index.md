@@ -8,9 +8,10 @@ pos: 2092
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 listopada 2018 r.
+# Ustawa z dnia 23 października 2018 r. zmieniająca ustawę o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2092/text.pdf) |
 
-Poz. 2092
-USTAWA z dnia 23 października 2018 r.
-zmieniająca ustawę o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 18 marca 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 652) w art. 7:
 
-**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 września 2018 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 września 2018 r.
 

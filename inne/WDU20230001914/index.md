@@ -8,9 +8,10 @@ pos: 1914
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Poz. 1914
+# Ustawa z dnia 28 lipca 2023 r. o zmianie ustawy o współpracy Rady Ministrów z Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej oraz ustawy o Komitecie do Spraw Europejskich
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +25,16 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001914) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1914/text.pdf) |
 
-USTAWA z dnia 28 lipca 2023 r.
-o zmianie ustawy o współpracy Rady z Sejmem i Senatem sprawach związanych z członkostwem Unii Europejskiej oraz ustawy o Komitecie do Spraw Europejskich
+**Art. 1.** W ustawie z dnia 8 października 2010 r. o współpracy Rady Ministrów z Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej (Dz. U. poz. 1395) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 8 października 2010 r. o współpracy Rady z Sejmem i Senatem sprawach związanych z członkostwem Unii Europejskiej (Dz. U. poz. 1395) wprowadza się następujące zmiany:
+**Art. 4a.**
 
-**Art. 20b.** W okresie sprawowania przez przedstawicieli Rady prezydencji składów Rady, Prezydent bierze udział posiedzeniach Rady Europejskiej oraz posiedzeniach międzynarodowych z udziałem Unii Europejskiej, na których przewidziana jest obecność szefów państw lub rządów państw członkowskich.”;
+1. Rada Ministrów przekazuje Prezydentowi Rzeczypospolitej Polskiej, niezwłocznie po ich otrzymaniu, dokumenty Unii Europejskiej podlegające konsultacjom z państwami członkowskimi w związku z posiedzeniem Rady Europejskiej lub posiedzeniem międzynarodowym z udziałem Unii Europejskiej.
 
-**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. o Komitecie do Spraw Europejskich (Dz. U. z 2020 r. poz. 2084) art. 3 ust. 1 pkt 1 lit. i po wyrazach „współpracy Rady z” dodaje się wyrazy „Prezydentem oraz”.
+2. Rada Ministrów przekazuje Prezydentowi Rzeczypospolitej Polskiej, niezwłocznie po ich otrzymaniu, oceny dokumentów, o których mowa w ust. 1, sformułowane przez właściwe instytucje lub organy Unii Europejskiej.
 
-**Art. 3.** W sprawach wyłaniania kandydatur na stanowiska, o których mowa art. ustawy zmienianej art. 1, brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+3. Rada Ministrów niezwłocznie przekazuje Prezydentowi Rzeczypospolitej Polskiej projekt stanowiska Rzeczypospolitej Polskiej, jakie ma zostać przedstawione w Radzie Europejskiej lub w związku z posiedzeniem międzynarodowym z udziałem Unii Europejskiej.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Polskiej: A. Duda
+4.
+
 

@@ -8,11 +8,10 @@ pos: 613
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# o zmianie ustawy o ustanowieniu programu wieloletniego „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006—2010”
-
-*USTAWA z dnia kwietnia 2011 r.*
+# Ustawa z dnia 1 kwietnia 2011 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006–2010”
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +25,21 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111050613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/613/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 4 marca 2005 r. o ustanowieniu programu wieloletniego „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006—2010” (Dz. U. 94, poz. 784) wprowadza się następujące zmiany:
+Załącznik – Nakłady w poszczególnych latach na realizację zadań (w mln zł)
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia stycznia 2011 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski NAKŁADY W POSZCZEGÓLNYCH LATACH NA REALIZACJĘ ZADAŃ (W MLN ZŁ) 2006 r. 2007 r. 2008 r. 2009 r. 2010 r. 2011 r. 2012 r. 2013 r. poziom poziom poziom poziom poziom poziom Razem Zadania cen cen cen cen cen cen poziom cen 2006—2013 roku roku roku roku roku roku roku 2009 2006 2007 2008 2009 2010 2011 2 3 4 5 6 7 8 9 10 ZADANIE I 123,3 138,8 50,3 59 142,7 220,9 229,5 174,8 139,3 ZADANIE II 28,3 14 35,4 11,4 21 47,3 25 34,6 217 ZADANIE III 0 29,5 3,2 5,5 1,3 37 50 89 215,5 ZADANIE IV 18,9 30,3 4,3 0 0 0 0 0 53,5 RAZEM 170,5 212,6 93,2 75,9 165 305,2 304,5 298,4 625,3 REZERWA 0 20,1 27 59,6 106,7 RAZEM 170,5 212,6 93,2 75,9 165 325,3 331,5 358 732 Z REZERWĄ
+**Art. 1.** W ustawie z dnia 4 marca 2005 r. o ustanowieniu programu wieloletniego „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006–2010” (Dz. U. Nr 94, poz. 784) wprowadza się następujące zmiany:
+
+**Art. 3a.**
+
+1. Przekazanie środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej na finansowanie Programu odbywa się w formie dotacji w rozumieniu art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.).
+
+2. Środki, o których mowa w ust. 1, są przekazywane na podstawie umowy zawartej przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej z państwową jednostką budżetową realizującą Program na wyodrębniony rachunek tej jednostki, otwarty dla Programu, zwany dalej „rachunkiem Programu”.
+
+3. Środki gromadzone na rachunku Programu wraz z odsetkami są przeznaczane wyłącznie na realizację zadań wynikających z Programu.
+
+4. Środki, o których mowa w ust. 3, wykorzystane niezgodnie z przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości podlegają zwrotowi na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej określony w umowie, o której mowa w ust. 2. ” ;
+
+- **5)** załącznik do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
+
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2011 r. Załącznik – Nakłady w poszczególnych latach na realizację zadań (w mln zł) Zadania 2006 r. 2007 r. 2008 r. 2009 r. 2010 r. 2011 r. 2012 r. 2013 r. Razem 2006–2013 poziom cen roku 2006 poziom cen roku 2007 poziom cen roku 2008 poziom cen roku 2009 poziom cen roku 2010 poziom cen roku 2011 poziom cen roku 2009 1 2 3 4 5 6 7 8 9 10 ZADANIE I 123,3 138,8 50,3 59 142,7 220,9 229,5 174,8 1 139,3 ZADANIE II 28,3 14 35,4 11,4 21 47,3 25 34,6 217 ZADANIE III 0 29,5 3,2 5,5 1,3 37 50 89 215,5 ZADANIE IV 18,9 30,3 4,3 0 0 0 0 0 53,5 RAZEM 170,5 212,6 93,2 75,9 165 305,2 304,5 298,4 1 625,3 REZERWA 0 20,1 27 59,6 106,7 RAZEM Z REZERWĄ 170,5 212,6 93,2 75,9 165 325,3 331,5 358 1 732
 

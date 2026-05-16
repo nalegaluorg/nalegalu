@@ -8,9 +8,10 @@ pos: 843
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 843
+# Ustawa z dnia 30 kwietnia 2020 r. o zmianie ustawy – Prawo energetyczne oraz ustawy o promowaniu energii elektrycznej z wysokosprawnej kogeneracji
 
 | Pole | Wartość |
 |---|---|
@@ -24,43 +25,69 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/843/text.pdf) |
 
-USTAWA dnia 30 kwietnia 2020 r.
-zmianie ustawy – Prawo energetyczne oraz ustawy promowaniu energii elektrycznej wysokosprawnej kogeneracji
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2020 r. poz. 833) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. 2020 r. poz. 833) wprowadza się następujące zmiany:
+**Art. 15h.**
+
+1. Minister właściwy do spraw energii przed rozpoczęciem negocjacji umowy międzynarodowej w sprawie eksploatacji gazociągu międzysystemowego, o którym mowa w art. 3 pkt 11d lit. b, w zakresie, w jakim umowa ta dotyczy rynku wewnętrznego gazu ziemnego Unii Europejskiej, powiadamia o tym pisemnie Komisję Europejską nie później niż pięć miesięcy przed planowanym rozpoczęciem negocjacji.
+
+2. Powiadomienie, o którym mowa w ust. 1, zawiera informacje o celach i zakresie negocjacji oraz informacje niezbędne do oceny ich:
+
+- **1)** zgodności z prawem Unii Europejskiej;
+- **2)** wpływu na: funkcjonowanie rynku wewnętrznego gazu ziemnego Unii Europejskiej, bezpieczeństwo dostaw paliw gazowych w Rzeczypospolitej Polskiej i gazu ziemnego w Unii Europejskiej, konkurencję w Unii Europejskiej, w tym w Rzeczypospolitej Polskiej.
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Minister właściwy do spraw energii przekazuje Komisji Europejskiej:
+
+- **1)** informacje o postępach i wynikach negocjacji, o których mowa w ust. 1 – na bieżąco;
+- **2)** przyjęty tekst umowy, o której mowa w ust. 1 – przed jej podpisaniem;
+- **3)** informacje o zawarciu, zmianie mocy obowiązującej i zmianie zakresu obowiązywania umowy, o której mowa w ust. 1 – niezwłocznie. ” ;
+- **6)** w art. 23 w ust. 2 w pkt 14b po wyrazach „na poziomie regionalnym” dodaje się wyrazy „oraz w celu spójnego stosowania prawa Unii Europejskiej w odniesieniu do gazociągów międzysystemowych”;
+- **7)** w art. 56 w ust. 1 pkt 1c otrzymuje brzmienie: „
+- **1c)** nie przedstawia informacji, o których mowa w art. 7 ust. 8l, art. 9c ust. 3 pkt 9a lit. f, ust. 9–9b i 14, art. 9d ust. 8, art. 11c ust. 3, art. 11e ust. 5 i art. 16 ust. 21 i 22, lub nie przekazuje kopii umowy, o której mowa w art. 9c ust. 13, lub jej każdorazowej zmiany; ” .
+
+**Art. 2.** W ustawie z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji (Dz. U. z 2020 r. poz. 250) wprowadza się następujące zmiany:
 
 **Art. 3.**
 
-1. W przypadku gazociągu międzysystemowego, 3 11d lit. b ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, którego pierwszy punkt połączenia znajduje się terytorium Rzeczypospolitej Polskiej oraz którego budowę ukończono dnia 23 maja 2019 r. i którego przed dniem wejścia życie niniejszej ustawy:
+1. W przypadku gazociągu międzysystemowego, o którym mowa w art. 3 pkt 11d lit. b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, którego pierwszy punkt połączenia znajduje się na terytorium Rzeczypospolitej Polskiej oraz którego budowę ukończono do dnia 23 maja 2019 r. i do którego przed dniem wejścia w życie niniejszej ustawy:
 
 - **1)** nie miały zastosowania przepisy prawa Unii Europejskiej,
-- **2)** nie stosowało się obowiązków:
-    - **a)** świadczenia usług, których 4 2 ustawy zmienianej 1,
-    - **b)** przedkładania taryf zatwierdzenia, 47 1 ustawy zmienianej 1,
-    - **c)** spełniania kryteriów niezależności, których 9d 1a ustawy zmienianej 1,
-    - **d)** których 9h–9h ustawy zmienianej 1 – Prezes Urzędu Energetyki, uzasadniony wniosek przedsiębiorstwa energetycznego, po uzyskaniu opinii ministra właściwego spraw energii, może zwolnić przedsiębiorstwo wykonywania obowiązków, których Zwolnienia, 1, można udzielić czas określony, nie dłuższy niż 20 lat, jeżeli są spełnione łącznie następujące warunki:
+- **2)** nie stosowało się obowiązków: świadczenia usług, o których mowa w art. 4 ust. 2 ustawy zmienianej w art. 1, przedkładania taryf do zatwierdzenia, o którym mowa w art. 47 ust. 1 ustawy zmienianej w art. 1, spełniania kryteriów niezależności, o których mowa w art. 9d ust. 1a ustawy zmienianej w art. 1, o których mowa w art. 9h-9h2 ustawy zmienianej w art. 1 Prezes Urzędu Regulacji Energetyki, na uzasadniony wniosek przedsiębiorstwa energetycznego, po uzyskaniu opinii ministra właściwego do spraw energii, może zwolnić to przedsiębiorstwo z wykonywania obowiązków, o których mowa w pkt 2.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **1)** nie będzie miało ono szkodliwego wpływu konkurencję rynku wewnętrznym gazu ziemnego Unii Europejskiej oraz krajowym rynku paliw gazowych;
-- **2)** nie będzie miało ono szkodliwego wpływu skuteczne funkcjonowanie rynku wewnętrznego gazu ziemnego Unii Europejskiej oraz krajowego rynku paliw gazowych;
-- **3)** nie będzie miało ono szkodliwego wpływu efektywne funkcjonowanie systemów gazowych Unii Europejskiej;
-- **4)** nie wpłynie ono negatywnie bezpieczeństwo dostaw gazu ziemnego Unii Europejskiej i paliw gazowych Rzeczypospolitej Polskiej;
-- **5)** bez jego udzielenia nie jest możliwe odzyskanie nakładów inwestycyjnych poniesionych budowę gazociągu międzysystemowego, którego dotyczy wniosek, 1. organami tych państw członkowskich Unii Europejskiej. Niezajęcie stanowiska przez konsultowane organy wyznaczonym terminie nie stanowi przeszkody wydania decyzji przez Prezesa Urzędu Energetyki.
+2. Zwolnienia, o którym mowa w ust. 1, można udzielić na czas określony, nie dłuższy niż 20 lat, jeżeli są spełnione łącznie następujące warunki:
 
-5. Wniosek sprawie zwolnienia, 1, składa się terminie 7 dni od dnia wejścia życie niniejszej ustawy, pod rygorem pozostawienia tego wniosku bez rozpatrzenia.
+- **1)** nie będzie miało ono szkodliwego wpływu na konkurencję na rynku wewnętrznym gazu ziemnego Unii Europejskiej oraz na krajowym rynku paliw gazowych;
+- **2)** nie będzie miało ono szkodliwego wpływu na skuteczne funkcjonowanie rynku wewnętrznego gazu ziemnego Unii Europejskiej oraz krajowego rynku paliw gazowych;
+- **3)** nie będzie miało ono szkodliwego wpływu na efektywne funkcjonowanie systemów gazowych Unii Europejskiej;
+- **4)** nie wpłynie ono negatywnie na bezpieczeństwo dostaw gazu ziemnego w Unii Europejskiej i paliw gazowych w Rzeczypospolitej Polskiej;
+- **5)** bez jego udzielenia nie jest możliwe odzyskanie nakładów inwestycyjnych poniesionych na budowę gazociągu międzysystemowego, którego dotyczy wniosek, o którym mowa w ust. 1.
 
-6. Decyzja sprawie zwolnienia, 1, nie może być wydana po dniu 24 maja 2020 r.
+3. Zwolnienia, o którym mowa w ust. 1, nie udziela się w stosunku do gazociągu międzysystemowego, o którym mowa w art. 3 pkt 11d lit. b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w przypadku gdy państwo inne niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, którego infrastruktura gazowa jest połączona tym gazociągiem z systemem przesyłowym, o którym mowa w ustawie zmienianej w art. 1, ma obowiązek stosowania zasad, których dotyczy zwolnienie, na mocy umowy, której stronami są Unia Europejska i to państwo.
 
-7. Prezes Urzędu Energetyki powiadamia Komisję Europejską wydaniu decyzji sprawie zwolnienia, 1, i publikuje tę decyzję Biuletynie Urzędu Energetyki.
+4. W przypadku gdy gazociąg międzysystemowy, którego dotyczy wniosek, o którym mowa w ust. 1, znajduje się na terytorium więcej niż jednego państwa członkowskiego Unii Europejskiej, Prezes Urzędu Regulacji Energetyki wydaje decyzję w sprawie zwolnienia, o którym mowa w ust. 1, w odniesieniu do tego gazociągu po konsultacji z właściwymi organami tych państw członkowskich Unii Europejskiej. Niezajęcie stanowiska przez konsultowane organy w wyznaczonym terminie nie stanowi przeszkody do wydania decyzji przez Prezesa Urzędu Regulacji Energetyki.
 
-8. Zwolnienie, 1, może być uzasadnionym przypadku udzielone ponownie. Przepisy 1–4 i 7 stosuje się odpowiednio.
+5. Wniosek w sprawie zwolnienia, o którym mowa w ust. 1, składa się w terminie 7 dni od dnia wejścia w życie niniejszej ustawy, pod rygorem pozostawienia tego wniosku bez rozpatrzenia.
 
-9. Prezes Urzędu Energetyki może zwrócić się wnioskiem Komisji Europejskiej jej przystąpienie charakterze obserwatora konsultacji prowadzonych między państwem członkowskim Unii Europejskiej, którego terytorium znajduje się pierwszy punkt połączenia gazociągu przesyłowego, a państwem innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia Wolnym Handlu (EFTA) – strona umowy Europejskim Obszarze Gospodarczym.
+6. Decyzja w sprawie zwolnienia, o którym mowa w ust. 1, nie może być wydana po dniu 24 maja 2020 r.
 
-**Art. 4.** Kopie umów, których 9c 13 ustawy zmienianej 1, i ich zmian, zawartych przed dniem wejścia życie niniejszej ustawy, operator systemu przesyłowego gazowego operator systemu połączonego gazowego przekazuje Prezesowi Urzędu Energetyki terminie 14 dni od dnia wejścia życie niniejszej ustawy.
+7. Prezes Urzędu Regulacji Energetyki powiadamia Komisję Europejską o wydaniu decyzji w sprawie zwolnienia, o którym mowa w ust. 1, i publikuje tę decyzję w Biuletynie Urzędu Regulacji Energetyki.
+
+8. Zwolnienie, o którym mowa w ust. 1, może być w uzasadnionym przypadku udzielone ponownie. Przepisy ust. 1–4 i 7 stosuje się odpowiednio.
+
+9. Prezes Urzędu Regulacji Energetyki może zwrócić się z wnioskiem do Komisji Europejskiej o jej przystąpienie w charakterze obserwatora do konsultacji prowadzonych między państwem członkowskim Unii Europejskiej, na którego terytorium znajduje się pierwszy punkt połączenia gazociągu przesyłowego, a państwem innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym.
+
+**Art. 4.** Kopie umów, o których mowa w art. 9c ust. 13 ustawy zmienianej w art. 1, i ich zmian, zawartych przed dniem wejścia w życie niniejszej ustawy, operator systemu przesyłowego gazowego albo operator systemu połączonego gazowego przekazuje Prezesowi Urzędu Regulacji Energetyki w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 5.**
 
-1. Limit wydatków budżetu państwa przeznaczonych wykonywanie zadań Prezesa Urzędu Energetyki wynikających niniejszej ustawy wynosi w:
+1. Limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań Prezesa Urzędu Regulacji Energetyki wynikających z niniejszej ustawy wynosi w:
 
 - **1)** 2020 r. – 0 zł;
 - **2)** 2021 r. – 207 625 zł;
@@ -71,11 +98,13 @@ zmianie ustawy – Prawo energetyczne oraz ustawy promowaniu energii elektryczne
 - **7)** 2026 r. – 234 909 zł;
 - **8)** 2027 r. – 240 781 zł;
 - **9)** 2028 r. – 253 801 zł;
-- **10)** 2029 r. – 252 971 zł. Prezes Urzędu Energetyki monitoruje wykorzystanie limitu wydatków, 1, oraz wdraża mechanizmy korygujące, których 3.
+- **10)** 2029 r. – 252 971 zł.
 
-3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych dany rok, dysponent środków obniża wielkość środków przeznaczonych wydatki drugim półroczu kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków.
+2. Prezes Urzędu Regulacji Energetyki monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizmy korygujące, o których mowa w ust. 3.
 
-4. W przypadku gdy wielkość wydatków poszczególnych miesiącach jest zgodna planem finansowym, przepisu 3 nie stosuje się.
+3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, dysponent środków obniża wielkość środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków.
 
-**Art. 6.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
+
+**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -8,9 +8,10 @@ pos: 672
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o usługach turystycznych oraz o zmianie ustawy - Kodeks wykroczeń
+# Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o usługach turystycznych oraz o zmianie ustawy – Kodeks wykroczeń
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +25,273 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101060672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/672/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. usługach turystycznych (Dz. U. z 2004 r. 223, poz. 2268, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2004 r. Nr 223, poz. 2268, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 4.** Umowy gwarancji bankowej i ubezpieczeniowej oraz umowy ubezpieczenia rzecz klientów zawarte zgodnie z dotychczasowymi przepisami obowiązują przez okres nie dłuższy niż 12 miesięcy od dnia wejścia życie ustawy.
+**Art. 2.** Zawieranie na terytorium Rzeczypospolitej Polskiej w imieniu przedsiębiorcy zagranicznego nieposiadającego siedziby na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej umów z klientami o organizowanie imprez turystycznych jest dopuszczalne, jeżeli przedsiębiorca ten prowadzi w tym zakresie na terytorium Rzeczypospolitej Polskiej działalność gospodarczą w formie oddziału, na warunkach określonych w ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.). ” ;
 
-**Art. 5.** Dotychczasowe przepisy wykonawcze wydane podstawie art. 10 ust. 1 oraz art. 34 ust. 1 ustawy, której mowa art. 1, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych podstawie art. 10 ust. 1 oraz art. 34 ust. 1 ustawy, której mowa art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak, niż przez 3 miesiące od dnia wejścia życie niniejszej ustawy.
+**Art. 7a.**
 
-**Art. 6.** Ustawa wchodzi życie po upływie 3 miestycznego pilota wycieczek.”. sięcy od dnia ogłoszenia.
+1. W przypadku zawieszenia wykonywania działalności gospodarczej, o którym mowa w art. 14a ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, przez organizatora turystyki lub pośrednika turystycznego na okres krótszy niż 24 miesiące, przedsiębiorca może przedłużyć ten okres łącznie do 24 miesięcy.
+
+2. O zawieszeniu wykonywania działalności organizatora turystyki lub pośrednika turystycznego, przedłużeniu zawieszenia lub wznowieniu jej wykonywania przedsiębiorca jest obowiązany zawiadomić pisemnie organ prowadzący rejestr w terminie 7 dni od dnia zawieszenia, przedłużenia zawieszenia lub wznowienia wykonywania działalności organizatora turystyki lub pośrednika turystycznego.
+
+3. Zawieszenie przez przedsiębiorcę wykonywania działalności organizatora turystyki lub pośrednika turystycznego nie zwalnia przedsiębiorcy z obowiązku wywiązania się z umów zawartych z klientami w okresie przed zawieszeniem działalności organizatora turystyki lub pośrednika turystycznego.
+
+4. Obowiązki, o których mowa w art. 5 ust. 1 pkt 2 oraz ust. 1a i 1b, nie mają zastosowania do przedsiębiorcy w okresie zawieszenia przez niego wykonywania działalności organizatora turystyki lub pośrednika turystycznego.
+
+5. W wypadku niepowiadomienia przez przedsiębiorcę o wznowieniu wykonywania działalności organizatora turystyki lub pośrednika turystycznego, po upływie okresu zawieszenia organ prowadzący rejestr z urzędu wykreśla, w drodze decyzji, przedsiębiorcę z rejestru. ” ;
+
+- **7)** w art. 8: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Marszałek województwa przesyła ministrowi właściwemu do spraw turystyki kopie:
+
+- **1)** zaświadczeń o wpisie do rejestru;
+- **2)** dokumentów, o których mowa w art. 5 ust. 1 pkt 2 oraz ust. 1a i 1b;
+- **3)** decyzji o wykreśleniu przedsiębiorcy z rejestru lub o zakazie wykonywania działalności objętej wpisem do rejestru wydawanych z urzędu;
+- **4)** decyzji o wykreśleniu przedsiębiorcy z rejestru wydawanych na wniosek przedsiębiorcy;
+- **5)** decyzji o stwierdzeniu wykonywania działalności organizatora turystyki lub pośrednika turystycznego bez wymaganego wpisu do rejestru;
+- **6)** zawiadomień o wszczęciu postępowania w sprawie wykreślenia z rejestru;
+- **7)** decyzji o umorzeniu postępowania w sprawie wykreślenia z rejestru;
+- **8)** zawiadomień o zawieszeniu, przedłużeniu zawieszenia lub wznowieniu przez przedsiębiorcę wykonywania działalności organizatora turystyki lub pośrednika turystycznego. ” , ust. 4–7 otrzymują brzmienie: „
+    - **b)**
+
+4. W ramach Ewidencji prowadzi się także wykazy przedsiębiorców:
+
+- **1)** wykreślonych z rejestru z urzędu i objętych zakazem wykonywania działalności objętej wpisem do rejestru;
+- **2)** którzy wykonywali działalność bez wymaganego wpisu do rejestru;
+- **3)** wobec których wszczęto postępowanie w sprawie wykreślenia z rejestru.
+
+5. Podstawą umieszczenia w wykazie, o którym mowa w ust. 4 pkt 1, jest ostateczna decyzja marszałka województwa o wykreśleniu z rejestru i o zakazie wykonywania działalności gospodarczej objętej wpisem do rejestru.
+
+6. Podstawą umieszczenia w wykazie, o którym mowa w ust. 4 pkt 2, jest ostateczna decyzja marszałka województwa o stwierdzeniu wykonywania działalności bez wymaganego wpisu do rejestru lub w wypadku decyzji, której marszałek województwa nadał rygor natychmiastowej wykonalności – taka decyzja.
+
+7. Podstawą umieszczenia w wykazie, o którym mowa w ust. 4 pkt 3, jest zawiadomienie pisemne lub w formie elektronicznej o wszczęciu postępowania w sprawie wykreślenia z rejestru. ” , po ust. 7 dodaje się ust. 7a-7c w brzmieniu: „
+
+- **c)**
+
+7a. W wykazach, o których mowa w ust. 4 pkt 1 i 2, wskazuje się termin obowiązywania zakazu wykonywania działalności organizatora turystyki lub pośrednika turystycznego.
+
+7b. Z wykazów, o których mowa w ust. 4 pkt 1 i 2, wykreśla się przedsiębiorcę po upływie terminu, o którym mowa w ust. 7a.
+
+7c. Z wykazu, o którym mowa w ust. 4 pkt 3, wykreśla się przedsiębiorcę z dniem, w którym decyzja o wykreśleniu z rejestru i zakazie wykonywania działalności objętej wpisem do rejestru albo decyzja o umorzeniu postępowania w sprawie wykreślenia z rejestru stały się ostateczne. ” ;
+
+- **8)** w art. 9: po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+    - **a)**
+
+1a. Minister właściwy do spraw turystyki oraz marszałek województwa są upoważnieni do kontroli działalności w zakresie organizowania imprez turystycznych oraz pośredniczenia na zlecenie klientów w zawieraniu umów o świadczenie usług turystycznych, prowadzonej przez przedsiębiorców i inne osoby niezgłoszone do rejestru, o którym mowa w art. 4 ust. 1, w zakresie niezbędnym do ustalenia, czy prowadzona działalność jest działalnością regulowaną.
+
+1b. Minister właściwy do spraw turystyki oraz marszałek województwa są upoważnieni do kontroli działalności agentów turystycznych i innych osób, zawierających z klientami umowy o imprezy turystyczne w imieniu organizatorów turystyki, w zakresie spełnienia przy zawieraniu tych umów obowiązków określonych ustawą. ” , ust. 3 i 4 otrzymują brzmienie: „
+
+- **b)**
+
+3. Marszałek województwa wydaje:
+
+- **1)** z urzędu decyzje o wykreśleniu przedsiębiorcy z rejestru oraz o zakazie wykonywania działalności objętej wpisem do rejestru przez okres 3 lat – w wypadkach, o których mowa w art. 71 ust. 1 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej;
+- **2)** na wniosek przedsiębiorcy w związku z zaprzestaniem przez niego wykonywania działalności objętej wpisem do rejestru, decyzje o wykreśleniu przedsiębiorcy z rejestru;
+- **3)** z urzędu decyzje o stwierdzeniu wykonywania działalności organizatora turystyki lub pośrednika turystycznego bez wymaganego wpisu do rejestru i o zakazie wykonywania działalności organizatora turystyki lub pośrednika turystycznego przez okres 3 lat;
+- **4)** decyzje o umorzeniu postępowania w sprawie wykreślenia przedsiębiorcy z rejestru.
+
+4. Decyzje, o których mowa w ust. 3 pkt 3, zawierają w szczególności datę stwierdzenia wykonywania działalności organizatora turystyki lub pośrednika turystycznego bez wymaganego wpisu do rejestru. ” ;
+
+- **9)** w art. 10 ust. 1 otrzymuje brzmienie: „
+
+1. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, minimalną wysokość sumy gwarancji, o których mowa w art. 5 ust. 1 pkt 2 lit. a, uwzględniając zakres i rodzaj działalności wykonywanej przez organizatorów turystyki i pośredników turystycznych oraz termin i wysokość przyjmowanych przedpłat. ” ;
+
+- **10)** w art. 10a: pkt 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+- **1)** proponowanie klientowi zawarcia lub zawarcie z klientem umowy o imprezę turystyczną bez uprzedniego zawarcia umowy, o której mowa w art. 5 ust. 1 pkt 2 lit. a i b oraz ust. 1a i 1b, lub bez złożenia oświadczenia, o którym mowa w art. 5 ust. 1 pkt 2 lit. c;
+- **2)** nieprzedłożenie, mimo wezwania, marszałkowi województwa oryginału lub potwierdzonego przez podmioty, które go podpisały, odpisu aktualnego dokumentu, o którym mowa w art. 5 ust. 1 pkt 2 oraz ust. 1a i 1b; ” , uchyla się pkt 3–5, po pkt 6 dodaje się pkt 7 w brzmieniu: „
+    - **b)**
+    - **c)**
+
+- **7)** przyjmowanie od klientów wpłat z pominięciem rachunku powierniczego, mimo złożenia oświadczenia, o którym mowa w art. 5 ust. 1 pkt 2 lit. c. ” ;
+- **11)** art. 10b otrzymuje brzmienie: „
+
+**Art. 10b.**
+
+1. Przedsiębiorcę wpisanego do rejestru występującego wobec klientów jako agent turystyczny, który dopuszcza się następujących uchybień:
+
+- **1)** w umowach zawieranych z klientami nie wskazuje jednoznacznie właściwego organizatora turystyki, którego reprezentuje, lub
+- **2)** zawiera umowy o organizowanie imprez turystycznych na rzecz przedsiębiorcy, który nie uzyskał wpisu do rejestru, lub
+- **3)** działa bez ważnej umowy agencyjnej lub przekracza jej zakres marszałek województwa wykreśla w drodze decyzji z rejestru.
+
+2. Przedsiębiorca, o którym mowa w ust. 1, nie może uzyskać ponownego wpisu do rejestru przed upływem 3 lat od dnia, w którym decyzja o wykreśleniu z rejestru i o zakazie wykonywania działalności objętej wpisem do rejestru stała się ostateczna.
+
+3. Przedsiębiorcę, który nie jest wpisany do rejestru, a występując wobec klientów jako agent turystyczny dopuszcza się uchybień, o których mowa w ust. 1, uznaje się za organizatora turystyki wykonującego działalność bez wymaganego wpisu do rejestru. ” ;
+
+- **12)** w art. 16b po ust. 2 dodaje się ust. 3–5 w brzmieniu: „
+
+3. Niezależnie od zawiadomienia, o którym mowa w ust. 1, klient może złożyć organizatorowi turystyki reklamację zawierającą wskazanie uchybienia w sposobie wykonania umowy oraz określenie swojego żądania, w terminie nie dłuższym niż 30 dni od dnia zakończenia imprezy.
+
+4. W wypadku odmowy uwzględnienia reklamacji organizator turystyki jest obowiązany szczegółowo uzasadnić na piśmie przyczyny odmowy.
+
+5. Jeżeli organizator turystyki nie ustosunkuje się na piśmie do reklamacji, złożonej zgodnie z ust. 3, w terminie 30 dni od dnia jej złożenia, a w razie reklamacji złożonej w trakcie trwania imprezy turystycznej w terminie 30 dni od dnia zakończenia imprezy turystycznej, uważa się, że uznał reklamację za uzasadnioną. ” ;
+
+- **13)** art. 19a otrzymuje brzmienie: „
+
+**Art. 19a.** Przedsiębiorca występujący wobec klientów jako agent turystyczny, który:
+
+**Art. 24.**
+
+1. Szkolenie, o którym mowa w art. 22 pkt 5, mogą prowadzić osoby fizyczne lub jednostki organizacyjne, które uzyskają wpis do rejestru organizatorów szkoleń dla kandydatów na przewodników turystycznych i pilotów wycieczek, zwanego dalej „rejestrem organizatorów szkoleń”, prowadzonego przez marszałka województwa właściwego ze względu na miejsce zamieszkania osoby fizycznej lub siedzibę jednostki organizacyjnej wnioskującej o wpis do rejestru organizatorów szkoleń, a w wypadku osób fizycznych posiadających miejsce zamieszkania lub jednostek organizacyjnych posiadających siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, prowadzonego przez marszałka województwa wybranego przez wnioskodawcę.
+
+2. Wpis do rejestru organizatorów szkoleń może dotyczyć zgłoszenia przeprowadzenia jednego szkolenia lub szkolenia na stałe.
+
+3. Osoby i jednostki organizacyjne organizujące szkolenia dla kandydatów na przewodników turystycznych i pilotów wycieczek, są obowiązane:
+
+- **1)** zapewnić kadrę: wykładowców posiadających wykształcenie wyższe – do prowadzenia zajęć teoretycznych, instruktorów posiadających udokumentowaną praktykę w zakresie wykonywania zadań odpowiednio przewodnika turystycznego lub pilota wycieczek w wymiarze co najmniej 50 dni w okresie 5 lat poprzedzających dzień złożenia wniosku o wpis do rejestru organizatorów szkoleń – do prowadzenia zajęć praktycznych;
+    - **a)**
+    - **b)**
+
+- **2)** zapewnić warunki umożliwiające realizację zajęć, w tym także praktycznych, oraz odpowiednią obsługę biurową wraz z przechowywaniem i udostępnianiem dokumentacji szkolenia;
+- **3)** realizować program szkolenia dla kandydatów na przewodników turystycznych i pilotów wycieczek, określony w przepisach wydanych na podstawie art. 34 ust. 1 pkt 4;
+- **4)** przedstawiać uczestnikom szkoleń wewnętrzny regulamin szkolenia, określający w szczególności warunki potwierdzania udziału w zajęciach teoretycznych i praktycznych oraz ich zaliczania.
+
+4. Potwierdzeniem posiadania praktyki, o której mowa w ust. 3 pkt 1 lit. b, jest zaświadczenie wydane przez organizatora turystyki lub jednostkę organizacyjną powierzającą zadania odpowiednio przewodnika turystycznego lub pilota wycieczek.
+
+5. Wniosek o wpis do rejestru organizatorów szkoleń zawiera następujące dane:
+
+- **1)** nazwę wnioskodawcy, jego siedzibę i adres, a w wypadku gdy wnioskodawca jest przedsiębiorcą będącym osobą fizyczną – imię i nazwisko oraz adres miejsca zamieszkania;
+- **2)** wskazanie, czy działalność szkoleniowa będzie prowadzona w ramach działalności gospodarczej;
+- **3)** określenie zakresu szkolenia, które wnioskodawca zamierza prowadzić, w tym wskazanie: czy szkolenie ma mieć charakter podstawowy czy uzupełniający, obszaru uprawnień, którego ma dotyczyć szkolenie przewodników turystycznych, z podaniem zasięgu regionu lub trasy turystycznej dla uprawnień przewodnika terenowego innych niż obszar całego województwa;
+    - **a)**
+    - **b)**
+
+- **4)** wskazanie, czy wpis do rejestru organizatorów szkoleń ma dotyczyć zorganizowania jednego szkolenia, czy organizowania szkoleń na stałe;
+- **5)** wskazanie kierownika szkolenia lub innej osoby upoważnionej do występowania wobec marszałka województwa w sprawach związanych ze szkoleniem;
+- **6)** informację o dotychczasowych szkoleniach prowadzonych przez wnioskodawcę, jeżeli wnioskodawca prowadził uprzednio szkolenia;
+- **7)** opis warunków szkolenia, w tym wskazanie miejsca odbywania wykładów i zajęć praktycznych, a także określenie miejsca przechowywania dokumentacji szkolenia i archiwum wydanych dokumentów.
+
+6. Do wniosku wnioskodawca dołącza oświadczenie następującej treści: „ Oświadczam, że:
+
+- **1)** dane zawarte we wniosku o wpis do rejestru organizatorów szkoleń są kompletne i zgodne z prawdą;
+- **2)** znane mi są i spełniam warunki wykonywania działalności w zakresie organizowania szkoleń dla kandydatów na przewodników turystycznych i pilotów wycieczek, określone w ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych. ” .
+
+7. Oświadczenie, o którym mowa w ust. 6, zawiera:
+
+- **1)** oznaczenie miejsca i datę złożenia oświadczenia;
+- **2)** podpis osoby uprawnionej do reprezentowania wnioskodawcy, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
+
+8. Dokumentem poświadczającym dokonanie wpisu do rejestru organizatorów szkoleń jest zaświadczenie wydane przez marszałka województwa.
+
+9. Organizator szkolenia dla kandydatów na przewodników turystycznych i pilotów wycieczek, rozpoczynając szkolenie, pisemnie informuje marszałka województwa właściwego dla miejsca odbywania szkolenia o miejscu i terminach zajęć.
+
+10. Wpis do rejestru organizatorów szkoleń obejmuje dane, określone w ust. 5, z wyjątkiem adresu miejsca zamieszkania organizatora szkoleń będącego osobą fizyczną.
+
+11. Rejestr jest jawny.
+
+12. Rejestr jest prowadzony w systemie teleinformatycznym.
+
+13. Na podstawie informacji o dokonanych wpisach do rejestru organizatorów szkoleń przekazywanych drogą elektroniczną przez marszałków województw, na stronie internetowej ministra właściwego do spraw turystyki zamieszcza się Centralny Wykaz Organizatorów Szkoleń dla Kandydatów na Przewodników Turystycznych i Pilotów Wycieczek. ” ;
+
+- **19)** art. 24a otrzymuje brzmienie: „
+
+1. Marszałek województwa jest upoważniony do kontroli organizatorów szkoleń dla kandydatów na przewodników turystycznych i pilotów wycieczek w zakresie:
+
+- **1)** zgodności ze stanem faktycznym danych zawartych w oświadczeniu, o którym mowa w art. 24 ust. 6;
+- **2)** zgodności wykonywanej działalności z uzyskanym wpisem do rejestru organizatorów szkoleń;
+- **3)** przestrzegania warunków szkolenia określonych ustawą.
+
+2. Kontrola organizatora szkoleń dla kandydatów na przewodników turystycznych lub pilotów wycieczek obejmuje w szczególności:
+
+- **1)** sprawdzenie dokumentacji szkolenia;
+- **2)** ocenę zgodności harmonogramu zajęć z procesem jego realizacji;
+- **3)** sprawdzenie zapewnienia odpowiedniej obsługi biurowej wraz z przechowywaniem i udostępnianiem dokumentacji szkolenia;
+- **4)** sprawdzenie zapewnienia warunków umożliwiających realizację zajęć, w tym także praktycznych.
+
+3. Marszałek województwa, który otrzymał informację o odbywającym się na jego terenie szkoleniu dla kandydatów na przewodników turystycznych lub pilotów wycieczek organizowanym przez organizatora szkolenia wpisanego do rejestru organizatorów szkoleń prowadzonego przez marszałka innego województwa, ma prawo przeprowadzić kontrolę organizatora szkolenia w czasie trwania szkolenia.
+
+4. Kontrola organizatora szkolenia dla kandydatów na przewodników turystycznych lub pilotów wycieczek odbywa się w obecności kierownika szkolenia lub osoby upoważnionej do zastępowania kierownika szkolenia.
+
+5. Kontroli, o której mowa w ust. 1, dokonują osoby imiennie upoważnione przez marszałków województw.
+
+6. Osoby dokonujące kontroli organizatora szkolenia dla kandydatów na przewodników turystycznych lub pilotów wycieczek powiadamiają o stwierdzonych uchybieniach marszałka województwa, na którego terenie odbywa się szkolenie.
+
+7. Uchybieniem w prowadzeniu działalności objętej wpisem do rejestru organizatorów szkoleń jest w szczególności:
+
+- **1)** niespełnienie warunków, o których mowa w art. 24 ust. 3;
+- **2)** niezgodność ze stanem faktycznym danych zawartych we wniosku, o którym mowa w art. 24 ust. 5, i w oświadczeniu, o którym mowa w art. 24 ust. 6.
+
+8. Marszałek województwa, na którego terenie odbywa się szkolenie dla kandydatów na przewodników turystycznych lub pilotów wycieczek, po uzyskaniu informacji o uchybieniach organizatora szkolenia dla kandydatów na przewodników turystycznych lub pilotów wycieczek powiadamia o tych uchybieniach marszałka województwa, który wpisał organizatora szkolenia do rejestru organizatorów szkoleń.
+
+9. Marszałek województwa może wezwać organizatora szkoleń dla kandydatów na przewodników turystycznych lub pilotów wycieczek do usunięcia stwierdzonych uchybień w terminie 30 dni, pod rygorem wykreślenia z rejestru organizatorów szkoleń, dokonywanego w drodze decyzji.
+
+10. Organizator szkolenia wykreślony z rejestru organizatorów szkoleń na podstawie ust. 9 nie może zostać wpisany do rejestru organizatorów szkoleń przed upływem 3 lat od dnia wydania decyzji o wykreśleniu z rejestru organizatorów szkoleń.
+
+11. Marszałek województwa, nie rzadziej niż raz na 3 lata, dokonuje z urzędu kontroli organizatora szkoleń dla kandydatów na przewodników turystycznych lub pilotów wycieczek, którego wpis do rejestru organizatorów szkoleń dotyczy organizowania szkoleń na stałe. ” ;
+
+- **20)** uchyla się art. 24b;
+- **21)** w art. 27 uchyla się pkt 3;
+- **22)** w art. 28 po ust. 5 dodaje się ust. 6 i 7 w brzmieniu: „
+
+6. Na podstawie danych o nadanych uprawnieniach przewodnika turystycznego i pilota wycieczek przekazywanych w formie elektronicznej przez marszałków województw na stronie internetowej ministra właściwego do spraw turystyki są udostępniane dane liczbowe dotyczące nadanych przez poszczególnych marszałków województw uprawnień przewodnika turystycznego i pilota wycieczek. Dane te są jawne.
+
+7. Informacje o nadanych uprawnieniach przewodnika turystycznego i pilota wycieczek wpisywane i przekazywane w formie elektronicznej przez marszałków województw ministrowi właściwemu do spraw turystyki są udostępniane przez ministra właściwego do spraw turystyki w formie elektronicznej wszystkim marszałkom województw. ” ;
+
+- **23)** w art. 29 uchyla się ust. 2;
+- **24)** art. 30 otrzymuje brzmienie: „
+
+**Art. 30.**
+
+1. Organizatorzy turystyki są obowiązani zapewnić klientom uczestniczącym w imprezach turystycznych opiekę osób posiadających kwalifikacje odpowiednie do rodzaju imprezy. Jeżeli umowa nie stanowi inaczej, za odpowiednie kwalifikacje uważa się, w zależności od rodzaju imprezy, uprawnienia przewodnika turystycznego lub pilota wycieczek.
+
+2. Powierzenie reprezentowania organizatora turystyki wobec jego lokalnych kontrahentów świadczących usługi turystyczne klientom osobie nieposiadającej uprawnień pilota wycieczek jest dopuszczalne, jeżeli umowa o imprezę turystyczną tak stanowi, a osoba ta nie wykonuje zadań, o których mowa w art. 20 ust. 3.
+
+3. Organizatorzy turystyki są obowiązani wystawić przewodnikowi turystycznemu lub pilotowi wycieczek pisemne zlecenie, określając w nim miejsce lub obszar oraz czas świadczenia usługi, a także, jeżeli jest to konieczne, upoważnienie do działania w imieniu organizatora w zakresie niezbędnym do prowadzenia imprezy turystycznej. ” ;
+
+- **25)** art. 32 otrzymuje brzmienie: „
+
+**Art. 32.**
+
+1. Znajomość języka obcego dokumentuje się dyplomem ukończenia studiów filologicznych, nauczycielskiego kolegium języków obcych, świadectwem ukończenia szkoły z obcym językiem wykładowym za granicą lub dokumentem poświadczającym znajomość języka obcego na poziomie biegłości B2 zgodnie z Europejskim Systemem Opisu Kształcenia Językowego Rady Europy.
+
+2. Osoby, które nie legitymują się dokumentami wymienionymi w ust. 1, mogą złożyć egzamin ze znajomości języka obcego przed komisją egzaminacyjną języków obcych, powoływaną przez marszałków województw. ” ;
+
+- **26)** w art. 34: w ust. 1 pkt 7 i 8 otrzymują brzmienie: „
+    - **a)**
+
+- **7)** skład oraz sposób i tryb działania komisji egzaminacyjnych języków obcych, o których mowa w art. 32 ust. 2, oraz wzór świadectwa wydawanego przez te komisje, ze szczególnym uwzględnieniem warunków, jakie powinni spełniać kandydaci do powołania przez marszałka województwa do tych komisji;
+- **8)** wysokość opłat za sprawdzenie kwalifikacji osób ubiegających się o uprawnienia przewodnika turystycznego lub pilota wycieczek oraz sprawdzenie znajomości języka obcego przez komisję egzaminacyjną języków obcych, o której mowa w art. 32 ust. 2, w tym wysokość opłat za poszczególne części egzaminów, warunki zwrotu wniesionych opłat w wypadku nieprzystąpienia do egzaminu, a także wysokość wynagrodzenia egzaminatorów za przeprowadzenie poszczególnych rodzajów i części egzaminów, mając na względzie rzeczywiste koszty przeprowadzenia egzaminu i funkcjonowania komisji egzaminacyjnych; ” , uchyla się ust. 2 i 3;
+    - **b)**
+
+- **27)** w art. 36 pkt 2 otrzymuje brzmienie: „
+- **2)** motele – obiekty położone przy drogach, dysponujące parkingiem, posiadające co najmniej 10 pokoi, w tym większość miejsc w pokojach jedno- i dwuosobowych; ” ;
+- **28)** w art. 38 po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „
+
+4a. Marszałek województwa powołuje zespół oceniający obiekty hotelarskie w zakresie spełniania wymagań, o których mowa w art. 35 ust. 1. W skład zespołu powołuje się przedstawicieli marszałka województwa, ponadto mogą być powołane:
+
+- **1)** osoby posiadające kwalifikacje zawodowe i praktykę w świadczeniu usług hotelarskich lub turystycznych, wskazane przez jednostki samorządu gospodarczego i stowarzyszenia działające w zakresie turystyki i hotelarstwa;
+- **2)** osoby będące przedstawicielami Państwowej Straży Pożarnej, Państwowej Inspekcji Sanitarnej, administracji architektoniczno-budowlanej i nadzoru budowlanego.
+
+4b. Członkom zespołów oceniających, o których mowa w ust. 4a pkt 1, przysługuje wynagrodzenie za przeprowadzanie oceny spełniania przez obiekt hotelarski wymagań niezbędnych do zaszeregowania go do odpowiedniego rodzaju i kategorii, a członkom zespołu wykonującym czynności poza miejscem zamieszkania – także zwrot kosztów podróży na zasadach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
+
+4c. Minister właściwy do spraw turystyki określi, w drodze rozporządzenia, wysokość wynagrodzenia członków zespołów oceniających obiekty hotelarskie, o których mowa w ust. 4a pkt 1, oraz sposób i termin wypłaty tego wynagrodzenia, uwzględniając, że wynagrodzenie dla jednej osoby za ocenę jednego obiektu nie może być wyższe niż 10% minimalnego wynagrodzenia za pracę ustalonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę. ” ;
+
+- **29)** w art. 42 dodaje się ust. 3 w brzmieniu: „
+
+3. Na podstawie przekazywanych w formie elektronicznej przez marszałków województw danych dotyczących skategoryzowanych w województwie obiektów hotelarskich na stronie internetowej ministra właściwego do spraw turystyki zamieszcza się Centralny Wykaz Obiektów Hotelarskich. Wykaz ten jest jawny. ” . W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2010 r. Nr 46, poz. 275) wprowadza się następujące zmiany:
+
+- **1)** w art. 601 w § 4 dodaje się pkt 5 w brzmieniu: „
+- **5)** nie zawiadamia organu prowadzącego rejestr działalności regulowanej organizatorów turystyki i pośredników turystycznych o zawieszeniu wykonywania działalności organizatora turystyki lub pośrednika turystycznego w terminie 7 dni od dnia tego zawieszenia. ” ;
+- **2)** po art. 138c dodaje się art. 138d w brzmieniu: „
+
+**Art. 138d.**
+
+§ 1. Kto, podejmując zadania przewodnika turystycznego lub pilota wycieczek, wprowadza w błąd co do posiadanych uprawnień, podlega karze ograniczenia wolności albo grzywny.
+
+§ 2. Tej samej karze podlega organizator turystyki, który wprowadza klientów w błąd co do uprawnień osób, którym powierza wykonywanie zadań przewodnika turystycznego lub pilota wycieczek. ” .
 
 **Art. 3.**
 
-1. Upoważnienia do szkolenia dla kandydatów przewodników turystycznych i pilotów wycieczek wydane podstawie przepisów ustawy, której mowa art. 1, zachowują ważność i stają się wpisami Marszałek Sejmu wykonujący obowiązki do rejestru organizatorów szkoleń. Prezydenta Rzeczypospolitej Polskiej: B. Komorowski
+1. Upoważnienia do szkolenia dla kandydatów na przewodników turystycznych i pilotów wycieczek wydane na podstawie przepisów ustawy, o której mowa w art. 1, zachowują ważność i stają się wpisami do rejestru organizatorów szkoleń.
 
+2. W postępowaniach dotyczących udzielenia upoważnienia do wykonywania działalności w zakresie organizowania szkoleń dla kandydatów na przewodników turystycznych lub pilotów wycieczek, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.** Umowy gwarancji bankowej i ubezpieczeniowej oraz umowy ubezpieczenia na rzecz klientów zawarte zgodnie z dotychczasowymi przepisami obowiązują przez okres nie dłuższy niż 12 miesięcy od dnia wejścia w życie ustawy.
+
+**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10 ust. 1 oraz art. 34 ust. 1 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 1 oraz art. 34 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak, niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

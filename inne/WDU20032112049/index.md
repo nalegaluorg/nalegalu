@@ -8,11 +8,10 @@ pos: 2049
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# o zmianie ustawy Prawo przewozowe ustawy o żegludze śródlądowej
-
-*USTAWA dnia 17 paêdziernika 2003 r.*
+# Ustawa z dnia 17 października 2003 r. o zmianie ustawy – Prawo przewozowe oraz ustawy o żegludze śródlądowej
 
 | Pole | Wartość |
 |---|---|
@@ -26,11 +25,21 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032112049) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2049/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 15 listopada 1984 r. Prawo przewozowe (Dz. 2000 r. 50, 601, póên. zm. wej, określając czas ich obowiązywania zakres przedmiotowy lub terytorialny ) po 9 dodaje się 9a brzmieniu: ich stosowania, biorąc pod uwagę środki podjęte przez Komisję Europejską na podŃArt. 9a. W przypadku wystąpienia poważnych za- stawie właściwych przepisów Unii Europejkłóceń na rynku usług przewozowych wże- skiej gludze śródlądowej, tym nadmiernej podaży usług przewozowych, minister właściwy spraw transportu może, drodze rozporządzenia, wprowadzić ograniczenia .”.
+**Art. 1.** W ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2000 r. Nr 50, poz. 601, z późn. zm.) po art. 9 dodaje się art. 9a w brzmieniu: „
 
-**Art. 2.** Wustawie zdnia 21 grudnia 2000 r. ożegludze śródlądowej (Dz. z2001 r. 5, 43 i 100, 1085 2002 r. 199, 1672) po 15 właściwy spraw transportu może, drodze rozporządzenia, ustanowić na czas określony ograniczenia wydawaniu pozwoleń na przewóz lub korzystaniu wydanych pozwoleń. 2. Rozporządzenie, o którym mowa ust. 1, powinno określać rodzaje pozwoleń podlegających ograniczeniu zakres ograniczeń pod względem drogi wodnej, portów lub określonego ładunku sposobu korzystania pozwoleń zależności od ograniczeń wprowadzonych na podstawie 9austawy Prawych przez inspektorów, stosuje się odpowiednio kontroli przestrzegania ograniczeń wprowadzonych przewozie rzeczy wżegludze śródlądowej, októrych mowa ust. 1 i 2. 4. Organami właściwymi administrowania ograniczeniami przewozie rzeczy żegludze śródlądowej są dyrektorzy urzędów żeglugi śródlądowej.”.
+**Art. 9a.** W przypadku wystąpienia poważnych zakłóceń na rynku usług przewozowych w żegludze śródlądowej, w tym nadmiernej podaży usług przewozowych, minister właściwy do spraw transportu może, w drodze rozporządzenia, wprowadzić ograniczenia w przewozie rzeczy w żegludze śródlądowej, określając czas ich obowiązywania oraz zakres przedmiotowy lub terytorialny ich stosowania, biorąc pod uwagę środki podjęte przez Komisję Europejską na podstawie właściwych przepisów Unii Europejskiej. ” .
 
-**Art. 3.** Ustawa wchodzi życie dniem uzyskania przez Rzeczpospolitą Polską członkostwa wUnii Europejskiej. wo przewozowe. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 2050 USTAWA dnia 14 listopada 2003 r. o zmianie ustawy o transporcie drogowym
+**Art. 2.** W ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2001 r. Nr 5, poz. 43 i Nr 100, poz. 1085 oraz z 2002 r. Nr 199, poz. 1672) po art. 15 dodaje się art. 15a w brzmieniu: „
 
-**Art. 1.** Wustawie zdnia 6 września 2001 r. otransporcie drogowym (Dz. 125, 1371, póên. zm. pojazdów samochodowych określonych we wniosku o udzielenie licencji.”, ) wprowadza się następujące zmiany:
+**Art. 15a.**
+
+1. W przypadku wprowadzenia ograniczeń w przewozie rzeczy w żegludze śródlądowej na podstawie art. 9a ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2000 r. Nr 50, poz. 601, z 2001 r. Nr 125, poz. 1371, z 2002 r. Nr 113, poz. 984 i Nr 130, poz. 1112 oraz z 2003 r. Nr 149, poz. 1452 i Nr 211, poz. 2049) minister właściwy do spraw transportu może, w drodze rozporządzenia, ustanowić na czas określony ograniczenia w wydawaniu pozwoleń na przewóz lub w korzystaniu z wydanych pozwoleń.
+
+2. Rozporządzenie, o którym mowa w ust. 1, powinno określać rodzaje pozwoleń podlegających ograniczeniu oraz zakres ograniczeń pod względem drogi wodnej, portów lub określonego ładunku oraz sposobu korzystania z pozwoleń w zależności od ograniczeń wprowadzonych na podstawie art. 9a ustawy – Prawo przewozowe.
+
+3. Przepisy art. 9 ust. 2 pkt 7 i 8 oraz art. 10 ust. 5, odnoszące się do kontroli dokumentów przewozowych, zgodności przewożonego ładunku z tymi dokumentami, kontroli obcych statków w zakresie zgodności wykonywanych przewozów z postanowieniami umów międzynarodowych oraz pozwoleń na te przewozy, jak również wykonywania zadań służbowych przez inspektorów, stosuje się odpowiednio do kontroli przestrzegania ograniczeń wprowadzonych w przewozie rzeczy w żegludze śródlądowej, o których mowa w ust. 1 i 2.
+
+4. Organami właściwymi do administrowania ograniczeniami w przewozie rzeczy w żegludze śródlądowej są dyrektorzy urzędów żeglugi śródlądowej. ” .
+
+**Art. 3.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 

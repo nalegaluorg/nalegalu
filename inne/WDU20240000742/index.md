@@ -8,9 +8,10 @@ pos: 742
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 maja 2024 r.
+# Ustawa z dnia 26 kwietnia 2024 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz ustawy o promocji zatrudnienia i instytucjach rynku pracy
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,11 @@ domain: null
 | Ostatnia zmiana | 2024-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000742) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/742/text.pdf) |
 
-Poz. 742
-USTAWA z dnia 26 kwietnia 2024 r.
-o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz ustawy o promocji zatrudnienia i instytucjach rynku pracy
-
 **Art. 1.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177) w art. 197:
 
-**Art. 2.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2024 r. poz. 475) w art. 109h pkt 2 otrzymuje brzmienie: „2) nie większej niż 85 mln zł – na dofinansowanie, o którym mowa w art. 197 ust. 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej.”.
+**Art. 2.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2024 r. poz. 475) w art. 109h pkt 2 otrzymuje brzmienie: „
 
 **Art. 3.** Minister właściwy do spraw rodziny przekaże w 2024 r. na wyodrębniony rachunek wojewodów środki Funduszu Pracy w kwocie nie większej niż 62,5 mln zł na dofinansowanie, o którym mowa w art. 197 ust. 1 ustawy zmienianej w art. 1.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

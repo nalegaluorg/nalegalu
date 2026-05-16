@@ -8,9 +8,10 @@ pos: 422
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ.
+# Ustawa z dnia 28 września 1990 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach
 
 | Pole | Wartość |
 |---|---|
@@ -24,40 +25,32 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900720422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/422/text.pdf) |
 
-Warszawa, dnia 24 października 1990 r.
-Poz.: 422
-USTAWA dnia 28 1990 r.
-o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach.
-Nr
+**Art. 1.** W Kodeksie karnym wprowadza się następujące zmiany:
 
-**Art. 1.** W Kodeksie karnym wprowadza zmiany:
+**Art. 2.** W ustawie z dnia 19 kwietnia 1969 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 13, poz. 95, z 1982 r. Nr 40, poz. 271 i z 1985 r. Nr 23, poz. 100) w art. X:
 
-**Art. 2.** W ustawie dnia 19 kwietnia 1969 Kodeks karny (Dz. U. Nr
+**Art. 3.** Ilekroć przepisy ustaw przewidują za przestępstwo:
 
-**Art. 3.** Ilekroć przepisy ustaw za przes
-
-**Art. 4.** W Kodeksie karnego wprowadza zmiany:
+**Art. 4.** W Kodeksie postępowania karnego wprowadza się następujące zmiany:
 
 **Art. 5.**
 
-1. W Kodeksie wprowadza na zmiany:
+1. W Kodeksie wykroczeń wprowadza się następujące zmiany:
 
-- **1)** wart. 1 wyrazy "do 50000 wyrazami "do 1000000
-- **2)** wart. 10 2 wyrazy "od 500 do 1 500 wyrazami "od 10000 do 30000
-- **3)** wart. 23 wyrazy "od 10000 do 30000 wyrazami "od 150000 do 450000 tych";
-- **4)** wart. 24 1 wyrazy "od 1000 do 50000 wyrazami "od 20000 do 1 000000 tych";
-- **5)** wart. 25 1 wyrazy ,,10000 wyrazami" 1 00 000 a wyrazy "od 500 do - wyrazami "od 10000 do 30000
-- **6)** wart. 37 wyrazy ,,20000 mi ,,200000
-- **7)** art. 37a.
+- **1)** w art. 1 wyrazy „do 50 000 złotych” zastępuje się wyrazami „do 1 000 000 złotych”;
+- **2)** w art. 10 w § 2 wyrazy „od 500 do 1 500 złotych” zastępuje się wyrazami „od 10 000 do 30 000 złotych”;
+- **3)** w art. 23 wyrazy „od 10 000 do 30 000 złotych” zastępuje się wyrazami „od 150 000 do 450 000 złotych”;
+- **4)** w art. 24 w § 1 wyrazy „od 1 000 do 50 000 złotych” zastępuje się wyrazami „od 20 000 do 1 000 000 złotych”;
+- **5)** w art. 25 w § 1 wyrazy „10 000 złotych” zastępuje się wyrazami „100 000 złotych”, a wyrazy „od 500 do 1 500 złotych” – wyrazami „od 10 000 do 30 000 złotych”;
+- **6)** w art. 37 wyrazy „20 000 złotych” zastępuje się wyrazami „200 000 złotych”;
+- **7)** skreśla się art. 37a.
 
-2. przepisy ustaw za wykroczenia:
+2. Ilekroć przepisy ustaw przewidują za wykroczenia:
 
-- **1)** lub grzywny przepisów ogólnej Kodeksu
-- **2)** lub albo mienia, towaru lub szkody, je
+- **1)** inną dolną lub górną granicę grzywny niż wynikająca z przepisów części ogólnej Kodeksu wykroczeń, ustala się ją w wysokości dziesięciokrotnej,
+- **2)** dolną lub górną granicę nawiązki albo określają wartość kwotową mienia, towaru lub wyrządzonej szkody, ustala się je w wysokości dziesięciokrotnej.
 
-**Art. 6.** W Kodeksie sprawach kroczenia wprowadza zmiany:
+**Art. 6.** W Kodeksie postępowania w sprawach o wykroczenia wprowadza się następujące zmiany:
 
-**Art. 7.** Ustawa wchodzi po 14 dnia Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski 423 USTAWA dnia 28 1990 r. o zmianie ustawy - Karta Nauczyciela.
-
-**Art. 1.** W ustawie dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz. U. Nr 3, poz. 19, Nr 25, poz. 187 i Nr 31, poz. 214, 1983 r. Nr 5, poz. 33, 1988 r. Nr 19, poz. 132, 1989 r. Nr 4, poz. 24 i Nr 35, poz. 192 oraz 1990 r. Nr 34, poz. 197 i Nr 36, poz. 206) wprowadza wi Art. 67 otrzymuje brzmienie: wynagrodzenie, jakie by gdyby tym czasie Wynagro dzenie za godziny ponadwymiarowe i dodatkowe oblicza na podstawie nego wynagrodzenia okresu wszystkich danego roku szkolnego, urlopu, a okres trudnienia jest krótszy od roku szkolnego
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

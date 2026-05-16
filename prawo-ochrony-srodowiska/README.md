@@ -2,13 +2,12 @@
 
 Akty prawne z dziedziny: **Prawo ochrony środowiska**.
 
-Łącznie: **49** aktów
+Łącznie: **48** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
 | [WDU20260000445](WDU20260000445/index.md) | Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy o zmianie ustawy o szczegó | Ustawa | obowiązujący |  |
 | [WDU20250000960](WDU20250000960/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000647](WDU20250000647/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 maja 2025  | Obwieszczenie | obowiązujący |  |
 | [WDU20250000216](WDU20250000216/index.md) | Ustawa z dnia 24 stycznia 2025 r. zmieniająca ustawę - Prawo wodne oraz ust | Ustawa | obowiązujący |  |
 | [WDU20250001812](WDU20250001812/index.md) | Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy - Prawo ochrony środowis | Ustawa | obowiązujący |  |
 | [WDU20240001940](WDU20240001940/index.md) | Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy - Prawo ochrony środowi | Ustawa | obowiązujący |  |
@@ -19,6 +18,7 @@ Akty prawne z dziedziny: **Prawo ochrony środowiska**.
 | [WDU20220001260](WDU20220001260/index.md) | Ustawa z dnia 9 czerwca 2022 r. o zmianie ustawy - Prawo ochrony środowiska | Ustawa | obowiązujący |  |
 | [WDU20210002127](WDU20210002127/index.md) | Ustawa z dnia 1 października 2021 r. o zmianie ustawy - Prawo ochrony środo | Ustawa | obowiązujący |  |
 | [WDU20210001648](WDU20210001648/index.md) | Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o utrzymaniu czystości i | Ustawa | obowiązujący |  |
+| [WDU20200001657](WDU20200001657/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 10 | Rozporządzenie | obowiązujący |  |
 | [WDU20190000412](WDU20190000412/index.md) | Ustawa z dnia 21 lutego 2019 r. zmieniająca ustawę o zmianie ustawy o podat | Ustawa | obowiązujący |  |
 | [WDU20190002170](WDU20190002170/index.md) | Ustawa z dnia 11 września 2019 r. o zmianie ustawy - Prawo wodne oraz niekt | Ustawa | obowiązujący |  |
 | [WDU20190002166](WDU20190002166/index.md) | Ustawa z dnia 16 października 2019 r. o zmianie ustawy - Prawo ochrony środ | Ustawa | obowiązujący |  |
@@ -53,7 +53,6 @@ Akty prawne z dziedziny: **Prawo ochrony środowiska**.
 | [WDU20031751693](WDU20031751693/index.md) | Ustawa z dnia 29 sierpnia 2003 r. o zmianie ustawy o restrukturyzacji finan | Ustawa | obowiązujący |  |
 | [WDU20022331957](WDU20022331957/index.md) | Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy - Prawo ochrony środowi | Ustawa | obowiązujący |  |
 | [WDU20021431196](WDU20021431196/index.md) | Ustawa z dnia 18 lipca 2002 r. o zmianie ustawy o wprowadzeniu ustawy - Pra | Ustawa | obowiązujący |  |
-| [WDU20010620627](WDU20010620627/index.md) | Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska. | Ustawa | akt posiada tekst jednolity | [tak](WDU20010620627/orzecznictwo.md) |
 | [WDU20011001085](WDU20011001085/index.md) | Ustawa z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środow | Ustawa | obowiązujący | [tak](WDU20011001085/orzecznictwo.md) |
 
-*49 aktów • [← Powrót do spisu głównego](../README.md)*
+*48 aktów • [← Powrót do spisu głównego](../README.md)*

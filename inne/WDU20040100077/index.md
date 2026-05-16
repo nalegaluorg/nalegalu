@@ -8,11 +8,10 @@ pos: 77
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ustawa z dnia 18 grudnia 2003 r. o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
-
-*USTAWA dnia 18 grudnia 2003 o zmianie Przepisy wprowadzające ustawę Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych rąc pod uwagę zapewnienie prawidłowego funkcjonowania systemu.*
+# Ustawa z dnia 18 grudnia 2003 r. o zmianie ustawy – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +25,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040100077) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/77/text.pdf) |
 
-**Art. 18.** Wustawie zdnia 17 maja 1989 Prawo geodezyjne kartograficzne (Dz. U. 2000 100, 1086, póên. zm. kiego wniosku od Agencji. 2. Podmioty prowadzące zakłady utylizacyjne dniu wejścia życie są obowiązane zło) art. 24 wprowadza się na- żenia wniosków o wpis ewidencji producentów stępujące zmiany: terminie 21 dni od dnia jej wejścia życie.
+**Art. 1.** W ustawie z dnia 6 września 2001 r. – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 126, poz. 1382 i Nr 154, poz. 1801 oraz z 2002 r. Nr 32, poz. 300 i Nr 152, poz. 1266) wprowadza się następujące zmiany:
 
-**Art. 24.** Ustawa wchodzi wżycie po upływie 14 dni ——————— od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski medycznym wydane przed dniem 1 paê- kiem zgodności CE dnia 7 grudnia dziernika 2002 zachowują ważność 2005 r.”. wterminach wnich określonych, nie dłużej jednak niż dnia 31 grudnia Art. 2. Ustawa wchodzi życie dniem ogłosze2005 r.”; nia.
+**Art. 4b.** Świadectwa jakości, świadectwa rejestracji, świadectwa dopuszczenia do obrotu, świadectwa dopuszczania do stosowania oraz pozytywne opinie o wyrobie medycznym wydane przed dniem 1 października 2002 r. zachowują ważność w terminach w nich określonych, nie dłużej jednak niż do dnia 31 grudnia 2005 r. ” ;
+
+**Art. 24a.**
+
+1. Wyroby medyczne do diagnostyki in vitro, będące w obrocie w dniu 1 października 2002 r., wytwórca jest obowiązany zgłosić do Rejestru Wytwórców i Wyrobów Medycznych nie później niż w terminie do dnia 29 lutego 2004 r.
+
+2. Dopuszcza się wprowadzanie do używania wyrobów medycznych do diagnostyki in vitro nieoznaczonych znakiem zgodności CE do dnia 7 grudnia 2005 r. ” .
+
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

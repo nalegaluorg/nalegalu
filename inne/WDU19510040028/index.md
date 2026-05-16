@@ -8,9 +8,12 @@ pos: 28
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# . , Dziennik pstaw Nr, . 25 27 u S T AW A z dnia 8 stycznia 1951.
+# o dniach wolnych od pracy
+
+*USTAWA z dnia 18 stycznia 1951 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +27,17 @@ domain: null
 | Ostatnia zmiana | 2025-03-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510040028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1951/28/text.pdf) |
 
-o poborze rekruta.
+**Art. 1.** Dniami wolnymi od pracy są:
 
-**Art. 1.** , Zezwala na przeprowadzenie w 1951 poboru rekruta.
+**Art. 1a.**
 
-**Art. 2.** Powołanie poborowych w 1951 do odby cia zasadniczej wojskowej w ramach stanu liczebnego wojska; którego granice na Fok 1951. Art. .3. Rady Minist.rów
+1. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, dniem wolnym od pracy jest także dzień określony przez Prezesa Rady Ministrów, w drodze rozporządzenia.
 
-**Art. 4.** Prezydent. Radv Minister Obrony 23 USTAWA z dnia 18 stycznia 195,1 r. o od'pracy.
+2. Wydając rozporządzenie, o którym mowa w ust. 1, Prezes Rady Ministrów uwzględnia zapewnienie bezpieczeństwa zdrowotnego na terytorium Rzeczypospolitej Polskiej.
 
-**Art. 1.** Dniami wolnymi od pracy
+**Art. 2.** Tracą moc wszystkie przepisy, regulujące sprawę dni wolnych od pracy odmiennie od przepisów niniejszej ustawy.
 
-**Art. 4.** Prezydent Prezes Rady 29 MINISTROW z dnIa 8 stycznia 1951 r. '\v sprawie zakazu lub ograniczenia I?iektórych " Na podstawie art. 3 ustawy z dnia 8 stycznia 1951 r. o transporcie drogowym (Dz. U, R. P. Nr 4, poz. 26) za co I. Przepis ogólny.
+**Art. 3.** Wykonanie ustawy porucza się Prezesowi Rady Ministrów i wszystkim ministrom.
+
+**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia .
 

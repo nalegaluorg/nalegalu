@@ -8,9 +8,10 @@ pos: 668
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 maja 2016 r.
+# Ustawa z dnia 18 marca 2016 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +25,26 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/668/text.pdf) |
 
-USTAWA z dnia 18 marca 2016 r.
-o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2014 r. poz. 191 i 1198 oraz z 2015 r. poz. 357, 1268 i 1418) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2014 r. poz. 191 i 1198 oraz z 2015 r. poz. 357, 1268 i 1418) wprowadza się następujące zmiany:
+**Art. 31.**
+
+1. Nauczycielowi dyplomowanemu, który uzyskał tytuł honorowy profesora oświaty, minister właściwy do spraw oświaty i wychowania wypłaca jednorazową gratyfikację pieniężną w wysokości 18 tys. zł.
+
+2. W części budżetu państwa, której dysponentem jest minister właściwy do spraw oświaty i wychowania, na wypłatę gratyfikacji, o której mowa w ust. 1, wyodrębnia się corocznie środki w wysokości do 450 tys. zł. ” ;
+
+- **5)** w art. 42: w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** inne zajęcia i czynności wynikające z zadań statutowych szkoły, w tym zajęcia opiekuńcze i wychowawcze uwzględniające potrzeby i zainteresowania uczniów; ” , uchyla się ust. 3a-3c, ust. 7a otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+7a. Zajęcia i czynności realizowane w ramach czasu pracy nauczyciela, o których mowa w ust. 2 pkt 1, są rejestrowane i rozliczane w okresach tygodniowych odpowiednio w dziennikach lekcyjnych lub dziennikach zajęć. ” ;
+
+- **6)** rozdział 10 otrzymuje brzmienie: „
+
+#### Rozdział 10 Odpowiedzialność dyscyplinarna
 
 **Art. 75.**
 
@@ -58,13 +75,13 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 1. W sprawach dyscyplinarnych nauczycieli orzekają komisje dyscyplinarne:
 
-- **1)** w pierwszej instancji:
-    - **a)** komisja dyscyplinarna przy wojewodzie właściwa dla nauczycieli wszystkich szkół funkcjonujących na terenie województwa,
-    - **b)** komisja dyscyplinarna przy ministrze właściwym do spraw oświaty i wychowania właściwa dla nauczycieli, o których mowa w art. 1 ust. 2 pkt 1a;
+- **1)** w pierwszej instancji: komisja dyscyplinarna przy wojewodzie właściwa dla nauczycieli wszystkich szkół funkcjonujących na terenie województwa, komisja dyscyplinarna przy ministrze właściwym do spraw oświaty i wychowania właściwa dla nauczycieli, o których mowa w art. 1 ust. 2 pkt 1a;
+    - **a)**
+    - **b)**
 
-- **2)** w drugiej instancji:
-    - **a)** odwoławcza komisja dyscyplinarna przy ministrze właściwym do spraw oświaty i wychowania,
-    - **b)** odwoławcza komisja dyscyplinarna przy ministrze właściwym do spraw kultury i ochrony dziedzictwa narodowego.
+- **2)** w drugiej instancji: odwoławcza komisja dyscyplinarna przy ministrze właściwym do spraw oświaty i wychowania, odwoławcza komisja dyscyplinarna przy ministrze właściwym do spraw kultury i ochrony dziedzictwa narodowego.
+    - **a)**
+    - **b)**
 
 2. Właściwość miejscową komisji dyscyplinarnej pierwszej instancji, o której mowa w ust. 1 pkt 1 lit. a, ustala się według miejsca zatrudnienia nauczyciela w chwili popełnienia czynu stanowiącego podstawę odpowiedzialności dyscyplinarnej.
 
@@ -90,14 +107,14 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 3. Kandydatów na członków:
 
-- **1)** komisji dyscyplinarnych pierwszej instancji mogą zgłaszać:
-    - **a)** rady pedagogiczne szkół objętych właściwością danej komisji dyscyplinarnej, spośród nauczycieli zatrudnionych w danej szkole,
-    - **b)** organy sprawujące nadzór pedagogiczny, spośród pracowników zatrudnionych w tych organach,
-    - **c)** organy właściwych wojewódzkich struktur reprezentatywnych związków zawodowych zrzeszających nauczycieli w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240);
+- **1)** komisji dyscyplinarnych pierwszej instancji mogą zgłaszać: rady pedagogiczne szkół objętych właściwością danej komisji dyscyplinarnej, spośród nauczycieli zatrudnionych w danej szkole, organy sprawujące nadzór pedagogiczny, spośród pracowników zatrudnionych w tych organach, organy właściwych wojewódzkich struktur reprezentatywnych związków zawodowych zrzeszających nauczycieli w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240);
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** odwoławczej komisji dyscyplinarnej mogą zgłaszać:
-    - **a)** organy sprawujące nadzór pedagogiczny spośród pracowników zatrudnionych w tych organach oraz nauczycieli zatrudnionych w szkołach objętych właściwością danego organu spośród kandydatów zgłoszonych przez rady pedagogiczne tych szkół,
-    - **b)** organy reprezentatywnych związków zawodowych zrzeszających nauczycieli w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego.
+- **2)** odwoławczej komisji dyscyplinarnej mogą zgłaszać: organy sprawujące nadzór pedagogiczny spośród pracowników zatrudnionych w tych organach oraz nauczycieli zatrudnionych w szkołach objętych właściwością danego organu spośród kandydatów zgłoszonych przez rady pedagogiczne tych szkół, organy reprezentatywnych związków zawodowych zrzeszających nauczycieli w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego.
+    - **a)**
+    - **b)**
 
 4. Organ zgłaszający kandydata na członka komisji dyscyplinarnej przedstawia uzasadnienie rekomendujące daną osobę do pełnienia obowiązków członka komisji dyscyplinarnej.
 
@@ -141,7 +158,7 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 - **1)** 3 członków, jeżeli komisja dyscyplinarna pierwszej instancji wydała orzeczenie o ukaraniu karą dyscyplinarną, o której mowa w art. 76 ust. 1 pkt 1–3;
 - **2)** 5 członków, jeżeli komisja dyscyplinarna pierwszej instancji wydała orzeczenie o ukaraniu karą dyscyplinarną, o której mowa w art. 76 ust. 1 pkt 4.
 
-3. Do składu orzekającego komisji dyscyplinarnej pierwszej instancji, o której mowa w art. 77 ust. 1 pkt 1 lit. a, wchodzi co najmniej jeden nauczyciel zatrudniony w szkole tego samego typu, a do składu odwoławczej komisji dyscyplinarnej co najmniej dwóch nauczycieli zatrudnionych w szkole tego samego typu co nauczyciel, którego dotyczy postępowanie.
+3. Do składu orzekającego komisji dyscyplinarnej pierwszej instancji, o której mowa w art. 77 ust. 1 pkt 1 lit. a, wchodzi co najmniej jeden nauczyciel zatrudniony w szkole tego samego typu, a do składu odwoławczej komisji dyscyplinarnej – co najmniej dwóch nauczycieli zatrudnionych w szkole tego samego typu co nauczyciel, którego dotyczy postępowanie.
 
 4. Do składu orzekającego komisji dyscyplinarnej nie mogą być wyznaczeni członkowie komisji, którzy poprzednio brali udział w sprawie w jakimkolwiek charakterze.
 
@@ -190,7 +207,7 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 1. Rzecznik dyscyplinarny powołany przy komisji dyscyplinarnej pierwszej instancji wszczyna postępowanie wyjaśniające na polecenie organu, który go powołał.
 
-2. O wszczęciu postępowania wyjaśniającego rzecznik dyscyplinarny zawiadamia nauczyciela, którego dotyczy to postępowanie, oraz dyrektora szkoły, w której nauczyciel jest zatrudniony, a w przypadku nauczyciela pełniącego funkcję dyrektora szkoły tego nauczyciela oraz organ prowadzący szkołę. O wszczęciu postępowania wyjaśniającego dotyczącego czynu naruszającego prawa i dobro dziecka rzecznik dyscyplinarny zawiadamia także Rzecznika Praw Dziecka.
+2. O wszczęciu postępowania wyjaśniającego rzecznik dyscyplinarny zawiadamia nauczyciela, którego dotyczy to postępowanie, oraz dyrektora szkoły, w której nauczyciel jest zatrudniony, a w przypadku nauczyciela pełniącego funkcję dyrektora szkoły – tego nauczyciela oraz organ prowadzący szkołę. O wszczęciu postępowania wyjaśniającego dotyczącego czynu naruszającego prawa i dobro dziecka rzecznik dyscyplinarny zawiadamia także Rzecznika Praw Dziecka.
 
 3. Po przeprowadzeniu postępowania wyjaśniającego rzecznik dyscyplinarny, za zgodą organu, który go powołał, kieruje do komisji dyscyplinarnej pierwszej instancji wniosek o wszczęcie postępowania dyscyplinarnego albo wydaje postanowienie o umorzeniu postępowania wyjaśniającego.
 
@@ -203,11 +220,9 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 - **5)** postępowanie dyscyplinarne co do tego samego czynu tej samej osoby zostało prawomocnie zakończone lub wcześniej wszczęte toczy się;
 - **6)** nastąpiło przedawnienie odpowiedzialności dyscyplinarnej.
 
-5. Na postanowienie o umorzeniu postępowania wyjaśniającego nauczycielowi, którego dotyczy to postępowanie, oraz dyrektorowi szkoły, w której nauczyciel jest zatrudniony, a w przypadku nauczyciela pełniącego funkcję dyrektora szkoły temu nauczycielowi oraz organowi prowadzącemu szkołę, służy zażalenie do komisji dyscyplinarnej pierwszej instancji w terminie 7 dni od dnia doręczenia postanowienia. Na postanowienie o umorzeniu postępowania wyjaśniającego dotyczącego czynu naruszającego prawa i dobro dziecka Rzecznikowi Praw Dziecka służy zażalenie do komisji dyscyplinarnej pierwszej instancji w terminie 14 dni od dnia doręczenia postanowienia.
+5. Na postanowienie o umorzeniu postępowania wyjaśniającego nauczycielowi, którego dotyczy to postępowanie, oraz dyrektorowi szkoły, w której nauczyciel jest zatrudniony, a w przypadku nauczyciela pełniącego funkcję dyrektora szkoły – temu nauczycielowi oraz organowi prowadzącemu szkołę, służy zażalenie do komisji dyscyplinarnej pierwszej instancji w terminie 7 dni od dnia doręczenia postanowienia. Na postanowienie o umorzeniu postępowania wyjaśniającego dotyczącego czynu naruszającego prawa i dobro dziecka Rzecznikowi Praw Dziecka służy zażalenie do komisji dyscyplinarnej pierwszej instancji w terminie 14 dni od dnia doręczenia postanowienia.
 
 6. Postanowienie komisji dyscyplinarnej pierwszej instancji jest ostateczne.
-
-**Art. 85a.**
 
 1. Komisje dyscyplinarne są niezawisłe w zakresie orzekania.
 
@@ -219,11 +234,21 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 5. Orzeczenia i postanowienia zapadają zwykłą większością głosów.
 
-6. Orzeczenia komisji dyscyplinarnych wydane na rozprawie są ogłaszane jawnie.
+6. Orzeczenia komisji dyscyplinarnych wydane na rozprawie są ogłaszane jawnie. l. Komisja dyscyplinarna pierwszej instancji wydaje:
 
-**Art. 85b.** l. Komisja dyscyplinarna pierwszej instancji wydaje:
+- **1)** postanowienie o wszczęciu postępowania dyscyplinarnego albo
+- **2)** postanowienie o odmowie wszczęcia postępowania dyscyplinarnego, jeżeli: postępowanie wyjaśniające nie potwierdziło popełnienia przez nauczyciela zarzucanego mu czynu, zarzucany czyn nie zawiera znamion uchybienia godności zawodu nauczyciela lub obowiązkom, o których mowa w art. 6, za popełniony czyn nauczyciel został ukarany karą porządkową zgodnie z art. 108 Kodeksu pracy, nauczyciel, w chwili popełnienia zarzucanego czynu, nie był zatrudniony na stanowisku nauczyciela w jednostkach organizacyjnych, o których mowa w art. 1 ust. 1 oraz ust. 2 pkt 1a i 2, nauczyciel zmarł, postępowanie dyscyplinarne co do tego samego czynu tej samej osoby zostało prawomocnie zakończone lub wcześniej wszczęte toczy się, nastąpiło przedawnienie odpowiedzialności dyscyplinarnej.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-**Art. 85c.**
+2. Na postanowienie o odmowie wszczęcia postępowania dyscyplinarnego nauczycielowi, którego dotyczy wniosek o wszczęcie tego postępowania, oraz dyrektorowi szkoły, w której nauczyciel jest zatrudniony, a w przypadku nauczyciela pełniącego funkcję dyrektora szkoły – temu nauczycielowi oraz organowi prowadzącemu szkołę, służy zażalenie do odwoławczej komisji dyscyplinarnej w terminie 7 dni od dnia doręczenia postanowienia. Na postanowienie o odmowie wszczęcia postępowania dyscyplinarnego dotyczącego czynu naruszającego prawa i dobro dziecka Rzecznikowi Praw Dziecka służy zażalenie do odwoławczej komisji dyscyplinarnej w terminie 14 dni od dnia doręczenia postanowienia.
+
+3. Postanowienie odwoławczej komisji dyscyplinarnej jest ostateczne.
 
 1. Za obwinionego uważa się nauczyciela, któremu doręczono postanowienie o wszczęciu postępowania dyscyplinarnego.
 
@@ -231,9 +256,7 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 3. Niedające się usunąć wątpliwości rozstrzyga się na korzyść obwinionego.
 
-**Art. 85d.**
-
-1. W postępowaniu wyjaśniającym nauczyciel, którego dotyczy to postępowanie, a w postępowaniu dyscyplinarnym obwiniony, mają prawo do korzystania z pomocy wybranego przez siebie obrońcy. Obrońcą nie może być członek komisji dyscyplinarnej, przed którą toczy się postępowanie.
+1. W postępowaniu wyjaśniającym nauczyciel, którego dotyczy to postępowanie, a w postępowaniu dyscyplinarnym – obwiniony, mają prawo do korzystania z pomocy wybranego przez siebie obrońcy. Obrońcą nie może być członek komisji dyscyplinarnej, przed którą toczy się postępowanie.
 
 2. W przypadku gdy rzecznik dyscyplinarny wnosi o orzeczenie kary dyscyplinarnej, o której mowa w art. 76 ust. 1 pkt 4, a obwiniony nie ma obrońcy z wyboru, przewodniczący składu orzekającego wyznacza obrońcę z urzędu.
 
@@ -244,8 +267,6 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 5. Obwiniony może mieć jednocześnie nie więcej niż dwóch obrońców z wyboru.
 
 6. Obrońca jest obowiązany zachować w tajemnicy wszystko, o czym dowiedział się w związku z wykonywaniem czynności obrońcy.
-
-**Art. 85e.**
 
 1. Rozprawa jest jawna.
 
@@ -259,25 +280,19 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 6. W przypadku uznania za usprawiedliwione niestawiennictwo na rozprawie obwinionego lub jego obrońcy, przewodniczący składu orzekającego wydaje postanowienie o odroczeniu rozprawy, ustalając jej nowy termin.
 
-**Art. 85f.**
-
 1. Jeżeli zachodzi długotrwała przeszkoda uniemożliwiająca prowadzenie postępowania dyscyplinarnego lub jeżeli o ten sam czyn wszczęto postępowanie karne albo postępowanie w sprawach o wykroczenia, przewodniczący składu orzekającego może wydać postanowienie o zawieszeniu postępowania dyscyplinarnego na czas trwania przeszkody lub postępowania karnego albo postępowania w sprawach o wykroczenia.
 
 2. Na postanowienie, o którym mowa w ust. 1, rzecznikowi dyscyplinarnemu oraz obwinionemu lub jego obrońcy służy zażalenie do komisji odwoławczej, w terminie 14 dni od dnia doręczenia postanowienia.
 
 3. Przewodniczący składu orzekającego podejmuje zawieszone postępowanie dyscyplinarne nie później niż w terminie 30 dni od dnia powzięcia wiadomości o ustaniu przeszkody, o której mowa w ust. 1, albo o prawomocnym zakończeniu postępowania karnego albo postępowania w sprawach o wykroczenia.
 
-**Art. 85g.**
-
-1. W postępowaniu wyjaśniającym dowody są przeprowadzane przez rzecznika dyscyplinarnego, a w postępowaniu dyscyplinarnym przez komisję dyscyplinarną. Nie wyłącza to prawa do zgłoszenia wniosku dowodowego przez nauczyciela, którego dotyczy postępowanie wyjaśniające, lub obwinionego.
+1. W postępowaniu wyjaśniającym dowody są przeprowadzane przez rzecznika dyscyplinarnego, a w postępowaniu dyscyplinarnym – przez komisję dyscyplinarną. Nie wyłącza to prawa do zgłoszenia wniosku dowodowego przez nauczyciela, którego dotyczy postępowanie wyjaśniające, lub obwinionego.
 
 2. W postępowaniu wyjaśniającym i postępowaniu dyscyplinarnym rzecznik dyscyplinarny lub komisja dyscyplinarna może przesłuchiwać świadków, zbierać i przeprowadzać wszelkie dowody konieczne dla wyjaśnienia sprawy, w tym zasięgać opinii biegłych, oraz przeglądać akta osobowe odpowiednio nauczyciela, którego dotyczy postępowanie wyjaśniające, lub obwinionego, a także sporządzać z nich notatki i kopie.
 
 3. W postępowaniu wyjaśniającym i postępowaniu dyscyplinarnym należy przesłuchać odpowiednio nauczyciela, którego dotyczy postępowanie wyjaśniające, lub obwinionego oraz umożliwić mu złożenie wyjaśnień mogących mieć znaczenie dla sprawy.
 
 4. Odmowa złożenia wyjaśnień przez nauczyciela, którego dotyczy postępowanie wyjaśniające, lub niezłożenie wyjaśnień z przyczyn leżących po stronie tego nauczyciela nie stanowi przeszkody w złożeniu przez rzecznika dyscyplinarnego wniosku o wszczęcie postępowania dyscyplinarnego.
-
-**Art. 85h.**
 
 1. W postępowaniu wyjaśniającym świadka, który w chwili przesłuchania nie ukończył 18. roku życia, można przesłuchać, jeżeli jego zeznania mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy.
 
@@ -295,13 +310,9 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 8. Przy przesłuchaniu świadka, o którym mowa w ust. 1 i 4, powinien być obecny rodzic, opiekun prawny lub osoba (podmiot) sprawująca pieczę zastępczą. Rodzic, opiekun prawny lub osoba (podmiot) sprawująca pieczę zastępczą w szczególnie uzasadnionych przypadkach może zrezygnować z obecności w przesłuchaniu.
 
-**Art. 85i.**
-
 1. W postępowaniu wyjaśniającym i postępowaniu dyscyplinarnym w zakresie nieuregulowanym odmiennie w ustawie stosuje się odpowiednio przepisy art. 168–170, art. 171 § 1, 2 i 4–7, art. 173, art. 177 § 1 i 2, art. 178, art. 182, art. 183, art. 185, art. 186, art. 190 i art. 191 oraz art. 193–196, art. 198, art. 199, art. 200, art. 201 i art. 204–208 Kodeksu postępowania karnego.
 
-2. Na każdym etapie postępowania wyjaśniającego nauczyciel, którego dotyczy postępowanie wyjaśniające, lub jego obrońca, a na każdym etapie postępowania dyscyplinarnego obwiniony lub jego obrońca, mogą przeglądać akta sprawy oraz sporządzać z nich notatki i kopie.
-
-**Art. 85j.**
+2. Na każdym etapie postępowania wyjaśniającego nauczyciel, którego dotyczy postępowanie wyjaśniające, lub jego obrońca, a na każdym etapie postępowania dyscyplinarnego – obwiniony lub jego obrońca, mogą przeglądać akta sprawy oraz sporządzać z nich notatki i kopie.
 
 1. Skład orzekający orzeka według swego przekonania opartego na ocenie wszystkich dowodów ujawnionych w toku rozprawy.
 
@@ -314,22 +325,20 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 5. Komisja dyscyplinarna wydaje orzeczenie o:
 
 - **1)** ukaraniu, mocą którego uznaje obwinionego winnym w całości lub w części zarzucanego mu czynu i wymierza karę dyscyplinarną, albo
-- **2)** uniewinnieniu, w przypadku gdy:
-    - **a)** postępowanie dyscyplinarne nie potwierdziło popełnienia przez nauczyciela zarzucanego mu czynu,
-    - **b)** zarzucany czyn nie zawiera znamion uchybienia godności zawodu nauczyciela lub obowiązkom, o których mowa w art. 6, albo
+- **2)** uniewinnieniu, w przypadku gdy: postępowanie dyscyplinarne nie potwierdziło popełnienia przez nauczyciela zarzucanego mu czynu, zarzucany czyn nie zawiera znamion uchybienia godności zawodu nauczyciela lub obowiązkom, o których mowa w art. 6, albo
+    - **a)**
+    - **b)**
 
-- **3)** umorzeniu postępowania dyscyplinarnego, jeżeli:
-    - **a)** za popełniony czyn nauczyciel został ukarany karą porządkową zgodnie z art. 108 Kodeksu pracy,
-    - **b)** nauczyciel, w chwili popełnienia zarzucanego czynu, nie był zatrudniony na stanowisku nauczyciela w jednostkach organizacyjnych, o których mowa w art. 1 ust. 1 oraz ust. 2 pkt 1a i 2,
-    - **c)** nauczyciel zmarł,
-    - **d)** postępowanie dyscyplinarne co do tego samego czynu tej samej osoby zostało prawomocnie zakończone lub wcześniej wszczęte toczy się,
-    - **e)** nastąpiło przedawnienie odpowiedzialności dyscyplinarnej.
+- **3)** umorzeniu postępowania dyscyplinarnego, jeżeli: za popełniony czyn nauczyciel został ukarany karą porządkową zgodnie z art. 108 Kodeksu pracy, nauczyciel, w chwili popełnienia zarzucanego czynu, nie był zatrudniony na stanowisku nauczyciela w jednostkach organizacyjnych, o których mowa w art. 1 ust. 1 oraz ust. 2 pkt 1a i 2, nauczyciel zmarł, postępowanie dyscyplinarne co do tego samego czynu tej samej osoby zostało prawomocnie zakończone lub wcześniej wszczęte toczy się, nastąpiło przedawnienie odpowiedzialności dyscyplinarnej.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 6. Jeżeli postępowanie dyscyplinarne umorzono z powodu śmierci nauczyciela, jego małżonek, rodzeństwo, krewny lub powinowaty w linii prostej mogą złożyć wniosek o uwolnienie nauczyciela od zarzutów, w terminie roku od dnia śmierci nauczyciela.
 
 7. W przypadku złożenia wniosku, o którym mowa w ust. 6, komisja dyscyplinarna uchyla orzeczenie o umorzeniu postępowania dyscyplinarnego. Postępowanie dyscyplinarne toczy się dalej z udziałem pełnomocnika ustanowionego przez osobę, która złożyła wniosek.
-
-**Art. 85k.**
 
 1. Od wydanego przez komisję dyscyplinarną pierwszej instancji orzeczenia rzecznikowi dyscyplinarnemu i obwinionemu lub jego obrońcy przysługuje prawo wniesienia odwołania, za pośrednictwem komisji dyscyplinarnej, która wydała orzeczenie, do odwoławczej komisji dyscyplinarnej, w terminie 14 dni od dnia doręczenia orzeczenia. Wniesienie odwołania wstrzymuje wykonanie orzeczenia.
 
@@ -343,8 +352,6 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 6. Orzeczenie, od którego odwołanie nie zostało wniesione w terminie lub wniesione odwołanie cofnięto, jest prawomocne i podlega wykonaniu.
 
-**Art. 85l.**
-
 1. Po przeprowadzeniu rozprawy odwoławcza komisja dyscyplinarna:
 
 - **1)** utrzymuje w mocy zaskarżone orzeczenie;
@@ -357,13 +364,9 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 4. Orzeczenie odwoławczej komisji dyscyplinarnej jest prawomocne z chwilą jego ogłoszenia.
 
-**Art. 85m.**
-
-1. Od prawomocnego orzeczenia odwoławczej komisji dyscyplinarnej rzecznikowi dyscyplinarnemu i obwinionemu lub jego obrońcy przysługuje odwołanie do sądu apelacyjnego sądu pracy i ubezpieczeń społecznych właściwego ze względu na miejsce zamieszkania obwinionego. Odwołanie wnosi się za pośrednictwem odwoławczej komisji dyscyplinarnej, w terminie 14 dni od dnia doręczenia orzeczenia wraz z uzasadnieniem.
+1. Od prawomocnego orzeczenia odwoławczej komisji dyscyplinarnej rzecznikowi dyscyplinarnemu i obwinionemu lub jego obrońcy przysługuje odwołanie do sądu apelacyjnego – sądu pracy i ubezpieczeń społecznych właściwego ze względu na miejsce zamieszkania obwinionego. Odwołanie wnosi się za pośrednictwem odwoławczej komisji dyscyplinarnej, w terminie 14 dni od dnia doręczenia orzeczenia wraz z uzasadnieniem.
 
 2. Do rozpatrzenia odwołania, o którym mowa w ust. 1, stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego nie służy skarga kasacyjna.
-
-**Art. 85n.**
 
 1. Postępowanie dyscyplinarne zakończone prawomocnym orzeczeniem można wznowić, jeżeli:
 
@@ -371,11 +374,11 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 - **2)** po wydaniu orzeczenia ujawniono nowe fakty lub dowody nieznane w chwili jego wydania, wskazujące na to, że obwiniony jest niewinny, ukarano go za popełnienie innego czynu lub komisja dyscyplinarna bezpodstawnie umorzyła postępowanie;
 - **3)** w trakcie postępowania naruszono przepisy, przez co uniemożliwiono lub w poważnym stopniu utrudniono obwinionemu korzystanie z prawa do obrony, albo skład komisji dyscyplinarnej nie odpowiadał warunkom określonym w art. 81 ust. 2–4 lub zasiadała w niej osoba podlegająca wyłączeniu.
 
-2. Wznowienie nie może nastąpić z przyczyny wymienionej w ust. 1 pkt 1, jeżeli była ona przedmiotem rozpoznania przez sąd apelacyjny sąd pracy i ubezpieczeń społecznych, o którym mowa w art. 85m ust. 1.
+2. Wznowienie nie może nastąpić z przyczyny wymienionej w ust. 1 pkt 1, jeżeli była ona przedmiotem rozpoznania przez sąd apelacyjny – sąd pracy i ubezpieczeń społecznych, o którym mowa w art. 85m ust. 1.
 
-3. Wznowienie postępowania dyscyplinarnego na niekorzyść obwinionego nie jest dopuszczalne po jego śmierci albo po upływie 3 lat od popełnienia czynu, którego dotyczy orzeczenie, a gdy czyn stanowił przestępstwo po upływie okresu przedawnienia ścigania tego przestępstwa, lub w razie wykonania kary i jej zatarcia.
+3. Wznowienie postępowania dyscyplinarnego na niekorzyść obwinionego nie jest dopuszczalne po jego śmierci albo po upływie 3 lat od popełnienia czynu, którego dotyczy orzeczenie, a gdy czyn stanowił przestępstwo – po upływie okresu przedawnienia ścigania tego przestępstwa, lub w razie wykonania kary i jej zatarcia.
 
-4. Wniosek o wznowienie postępowania dyscyplinarnego mogą składać obwiniony, jego obrońca, rzecznik dyscyplinarny, a po śmierci obwinionego lub gdy zachodzą uzasadnione wątpliwości co do jego poczytalności także jego małżonek, rodzeństwo, krewny lub powinowaty w linii prostej. Wniosek składa się do komisji dyscyplinarnej, która wydała prawomocne orzeczenie w sprawie, w terminie 30 dni od dnia powzięcia wiadomości o przyczynie uzasadniającej wznowienie.
+4. Wniosek o wznowienie postępowania dyscyplinarnego mogą składać obwiniony, jego obrońca, rzecznik dyscyplinarny, a po śmierci obwinionego lub gdy zachodzą uzasadnione wątpliwości co do jego poczytalności – także jego małżonek, rodzeństwo, krewny lub powinowaty w linii prostej. Wniosek składa się do komisji dyscyplinarnej, która wydała prawomocne orzeczenie w sprawie, w terminie 30 dni od dnia powzięcia wiadomości o przyczynie uzasadniającej wznowienie.
 
 5. Komisja dyscyplinarna, o której mowa w ust. 4, wydaje:
 
@@ -392,8 +395,6 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 10. We wznowionym postępowaniu dyscyplinarnym nie można wydać orzeczenia na niekorzyść obwinionego, jeżeli wniosek o wznowienie postępowania dyscyplinarnego złożono na jego korzyść.
 
-**Art. 85o.**
-
 1. Postępowanie dyscyplinarne nie może być wszczęte po upływie 3 miesięcy od dnia powzięcia przez organ, przy którym działa komisja dyscyplinarna pierwszej instancji, wiadomości o popełnieniu czynu uchybiającego godności zawodu nauczyciela lub obowiązkom, o których mowa w art. 6, oraz po upływie 3 lat od popełnienia tego czynu.
 
 2. W przypadku popełnienia czynu o charakterze seksualnym na szkodę małoletniego przedawnienie odpowiedzialności dyscyplinarnej nie może nastąpić przed ukończeniem przez niego 24. roku życia.
@@ -406,25 +407,19 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 6. Jeżeli czyn stanowi przestępstwo, okresy, o których mowa w ust. 1 i 4, nie mogą być krótsze niż okres przedawnienia karalności tego przestępstwa.
 
-**Art. 85p.**
-
 1. Przewodniczący komisji dyscyplinarnych i ich zastępcy, przewodniczący składów orzekających oraz rzecznicy dyscyplinarni i ich zastępcy otrzymują wynagrodzenie:
 
-- **1)** przewodniczący komisji dyscyplinarnej i jego zastępcy wynagrodzenie miesięczne;
-- **2)** przewodniczący składu orzekającego wynagrodzenie za rozpoznanie sprawy zakończonej wydaniem orzeczenia lub postanowienia;
-- **3)** rzecznik dyscyplinarny i jego zastępcy wynagrodzenie za przeprowadzenie postępowania wyjaśniającego oraz wynagrodzenie za udział w postępowaniu dyscyplinarnym.
+- **1)** przewodniczący komisji dyscyplinarnej i jego zastępcy – wynagrodzenie miesięczne;
+- **2)** przewodniczący składu orzekającego – wynagrodzenie za rozpoznanie sprawy zakończonej wydaniem orzeczenia lub postanowienia;
+- **3)** rzecznik dyscyplinarny i jego zastępcy – wynagrodzenie za przeprowadzenie postępowania wyjaśniającego oraz wynagrodzenie za udział w postępowaniu dyscyplinarnym.
 
-2. Wysokość wynagrodzenia rzeczników dyscyplinarnych i ich zastępców ustala organ, który ich powołał, a wysokość wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców oraz przewodniczących składów orzekających organ, przy którym działa komisja dyscyplinarna.
+2. Wysokość wynagrodzenia rzeczników dyscyplinarnych i ich zastępców ustala organ, który ich powołał, a wysokość wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców oraz przewodniczących składów orzekających – organ, przy którym działa komisja dyscyplinarna.
 
 3. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, sposób ustalania wysokości wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych i ich zastępców, a także wysokość wynagrodzenia obrońcy z urzędu, uwzględniając zakres obciążenia zadaniami oraz konieczność sprawnego prowadzenia postępowań.
-
-**Art. 85q.**
 
 1. Obwinionemu, którego uniewinniono od popełnienia zarzucanego czynu, oraz świadkom i biegłym przysługuje równowartość zarobku utraconego w związku z udziałem w rozprawie oraz zwrot kosztów przejazdu zgodnie z przepisami w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej, na obszarze kraju.
 
 2. Członkom komisji dyscyplinarnej i rzecznikowi dyscyplinarnemu lub jego zastępcy przysługuje zwrot kosztów przejazdu zgodnie z przepisami, o których mowa w ust. 1.
-
-**Art. 85r.**
 
 1. Do kosztów postępowania należą:
 
@@ -441,23 +436,19 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 5. Obsługę komisji dyscyplinarnej zapewnia organ, przy którym działa komisja dyscyplinarna.
 
-**Art. 85s.**
-
 1. Kary dyscyplinarne, o których mowa w art. 76 ust. 1 pkt 1–3, podlegają zatarciu, a odpis orzeczenia o ukaraniu dołączony do akt osobowych nauczyciela podlega zniszczeniu.
 
-2. Kary dyscyplinarne, o których mowa w art. 76 ust. 1 pkt 1 i 2, podlegają zatarciu po upływie 3 lat od dnia doręczenia nauczycielowi prawomocnego orzeczenia o ukaraniu, a kara dyscyplinarna, o której mowa w art. 76 ust. 1 pkt 3 po upływie 6 lat od dnia doręczenia nauczycielowi prawomocnego orzeczenia o ukaraniu.
+2. Kary dyscyplinarne, o których mowa w art. 76 ust. 1 pkt 1 i 2, podlegają zatarciu po upływie 3 lat od dnia doręczenia nauczycielowi prawomocnego orzeczenia o ukaraniu, a kara dyscyplinarna, o której mowa w art. 76 ust. 1 pkt 3 – po upływie 6 lat od dnia doręczenia nauczycielowi prawomocnego orzeczenia o ukaraniu.
 
 3. Jeżeli w okresie przed zatarciem kary dyscyplinarnej nauczyciel zostanie ponownie ukarany dyscyplinarnie, terminy, o których mowa w ust. 2, liczy się od dnia doręczenia nauczycielowi prawomocnego orzeczenia o ponownym ukaraniu.
 
-4. Dyrektor szkoły, a w stosunku do nauczyciela pełniącego funkcję dyrektora szkoły organ prowadzący szkołę, wykonuje czynności wymienione w ust. 1 oraz zawiadamia ukaranego nauczyciela o zatarciu kary i zniszczeniu orzeczenia o ukaraniu, dołączonego do jego akt osobowych.
+4. Dyrektor szkoły, a w stosunku do nauczyciela pełniącego funkcję dyrektora szkoły – organ prowadzący szkołę, wykonuje czynności wymienione w ust. 1 oraz zawiadamia ukaranego nauczyciela o zatarciu kary i zniszczeniu orzeczenia o ukaraniu, dołączonego do jego akt osobowych.
 
 5. Z chwilą zatarcia kary dyscyplinarnej uważa się ją za niebyłą.
 
-**Art. 85t.**
+1. Dyrektor szkoły może zawiesić w pełnieniu obowiązków nauczyciela, a organ prowadzący szkołę – nauczyciela pełniącego funkcję dyrektora szkoły, przeciwko któremu wszczęto postępowanie karne lub złożono wniosek o wszczęcie postępowania dyscyplinarnego, jeżeli ze względu na powagę i wiarygodność wysuniętych zarzutów celowe jest odsunięcie nauczyciela od wykonywania obowiązków w szkole. W sprawach niecierpiących zwłoki nauczyciel i nauczyciel pełniący funkcję dyrektora szkoły mogą być zawieszeni przed złożeniem wniosku o wszczęcie postępowania dyscyplinarnego.
 
-1. Dyrektor szkoły może zawiesić w pełnieniu obowiązków nauczyciela, a organ prowadzący szkołę nauczyciela pełniącego funkcję dyrektora szkoły, przeciwko któremu wszczęto postępowanie karne lub złożono wniosek o wszczęcie postępowania dyscyplinarnego, jeżeli ze względu na powagę i wiarygodność wysuniętych zarzutów celowe jest odsunięcie nauczyciela od wykonywania obowiązków w szkole. W sprawach niecierpiących zwłoki nauczyciel i nauczyciel pełniący funkcję dyrektora szkoły mogą być zawieszeni przed złożeniem wniosku o wszczęcie postępowania dyscyplinarnego.
-
-2. Dyrektor szkoły zawiesza w pełnieniu obowiązków nauczyciela, a organ prowadzący szkołę nauczyciela pełniącego funkcję dyrektora szkoły, jeżeli wszczęte postępowanie karne lub złożony wniosek o wszczęcie postępowania dyscyplinarnego dotyczy czynu naruszającego prawa i dobro dziecka.
+2. Dyrektor szkoły zawiesza w pełnieniu obowiązków nauczyciela, a organ prowadzący szkołę – nauczyciela pełniącego funkcję dyrektora szkoły, jeżeli wszczęte postępowanie karne lub złożony wniosek o wszczęcie postępowania dyscyplinarnego dotyczy czynu naruszającego prawa i dobro dziecka.
 
 3. Nauczyciel i nauczyciel pełniący funkcję dyrektora szkoły zostają z mocy prawa zawieszeni w pełnieniu obowiązków w razie ich tymczasowego aresztowania lub w razie pozbawienia ich wolności w związku z postępowaniem karnym.
 
@@ -477,25 +468,19 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 11. Postanowienie odwoławczej komisji dyscyplinarnej jest ostateczne.
 
-**Art. 85u.**
-
 1. Wynagrodzenie zasadnicze nauczyciela oraz nauczyciela pełniącego funkcję dyrektora szkoły w okresie zawieszenia w pełnieniu obowiązków może ulec zmniejszeniu, a tymczasowo aresztowanego ulega zmniejszeniu najwyżej do połowy, w zależności od stanu rodzinnego nauczyciela, począwszy od pierwszego dnia miesiąca kalendarzowego następującego po miesiącu, w którym nastąpiło zawieszenie.
 
 2. W okresie zawieszenia w pełnieniu obowiązków nie przysługują dodatki oraz wynagrodzenie za godziny ponadwymiarowe.
 
 3. W okresie odbywania kary pozbawienia wolności nauczycielowi oraz nauczycielowi pełniącemu funkcję dyrektora szkoły nie przysługuje wynagrodzenie.
 
-4. Jeżeli postępowanie karne lub postępowanie dyscyplinarne zakończy się umorzeniem z braku dowodów winy albo wydaniem wyroku lub orzeczenia uniewinniającego, nauczycielowi oraz nauczycielowi pełniącemu funkcję dyrektora szkoły należy zwrócić zatrzymane kwoty wynagrodzenia.
-
-**Art. 85v.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowy tryb prowadzenia postępowania wyjaśniającego i dyscyplinarnego oraz wznawiania postępowania dyscyplinarnego, biorąc pod uwagę konieczność zapewnienia rzetelności, obiektywności i sprawności rozpatrywania spraw dyscyplinarnych nauczycieli.
-
-**Art. 85w.**
+4. Jeżeli postępowanie karne lub postępowanie dyscyplinarne zakończy się umorzeniem z braku dowodów winy albo wydaniem wyroku lub orzeczenia uniewinniającego, nauczycielowi oraz nauczycielowi pełniącemu funkcję dyrektora szkoły należy zwrócić zatrzymane kwoty wynagrodzenia. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowy tryb prowadzenia postępowania wyjaśniającego i dyscyplinarnego oraz wznawiania postępowania dyscyplinarnego, biorąc pod uwagę konieczność zapewnienia rzetelności, obiektywności i sprawności rozpatrywania spraw dyscyplinarnych nauczycieli.
 
 1. Minister właściwy do spraw oświaty i wychowania prowadzi centralny rejestr orzeczeń dyscyplinarnych, zwany dalej „rejestrem”, w którym gromadzi się informacje o nauczycielach prawomocnie ukaranych karami dyscyplinarnymi, o których mowa w art. 76 ust. 1 pkt 3 i 4, oraz informacje o zawieszeniu nauczyciela w pełnieniu obowiązków, o którym mowa w art. 85t ust. 1–3.
 
 2. Rejestr zawiera:
 
-- **1)** dane identyfikujące nauczyciela nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a w przypadku braku tego numeru numer i serię dokumentu potwierdzającego tożsamość;
+- **1)** dane identyfikujące nauczyciela – nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a w przypadku braku tego numeru – numer i serię dokumentu potwierdzającego tożsamość;
 - **2)** rodzaj orzeczonej kary dyscyplinarnej, o której mowa w art. 76 ust. 1 pkt 3 albo 4, oraz okres ukarania;
 - **3)** oznaczenie komisji dyscyplinarnej, która wydała prawomocne orzeczenie o ukaraniu karą dyscyplinarną, oraz sygnaturę akt sprawy;
 - **4)** datę wydania oraz uprawomocnienia się orzeczenia, o którym mowa w pkt 3;
@@ -509,22 +494,18 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 5. Do wprowadzania danych do rejestru, dokonywania zmian danych w rejestrze oraz usuwania danych z rejestru są uprawnione wyłącznie osoby upoważnione przez ministra właściwego do spraw oświaty i wychowania.
 
-**Art. 85x.**
-
 1. Prawo do uzyskania informacji z rejestru przysługuje:
 
-- **1)** osobie ubiegającej się o zatrudnienie na stanowisku nauczyciela w odniesieniu do informacji, które bezpośrednio jej dotyczą;
+- **1)** osobie ubiegającej się o zatrudnienie na stanowisku nauczyciela – w odniesieniu do informacji, które bezpośrednio jej dotyczą;
 - **2)** dyrektorowi szkoły w stosunku do nauczycieli zatrudnionych w danej szkole;
-- **3)** rzecznikom dyscyplinarnym i komisjom dyscyplinarnym w związku z prowadzonym postępowaniem wyjaśniającym lub postępowaniem dyscyplinarnym;
-- **4)** sądom sprawującym w Rzeczypospolitej Polskiej wymiar sprawiedliwości w związku z prowadzonym postępowaniem;
-- **5)** prokuratorom, Policji i innym organom uprawnionym do prowadzenia postępowania przygotowawczego w sprawach karnych i karnych skarbowych oraz czynności wyjaśniających w sprawach o wykroczenia w związku z prowadzonym postępowaniem;
+- **3)** rzecznikom dyscyplinarnym i komisjom dyscyplinarnym – w związku z prowadzonym postępowaniem wyjaśniającym lub postępowaniem dyscyplinarnym;
+- **4)** sądom sprawującym w Rzeczypospolitej Polskiej wymiar sprawiedliwości – w związku z prowadzonym postępowaniem;
+- **5)** prokuratorom, Policji i innym organom uprawnionym do prowadzenia postępowania przygotowawczego w sprawach karnych i karnych skarbowych oraz czynności wyjaśniających w sprawach o wykroczenia – w związku z prowadzonym postępowaniem;
 - **6)** organom administracji rządowej, organom samorządu terytorialnego oraz innym organom wykonującym zadania publiczne, w przypadkach kiedy jest to uzasadnione potrzebą wykonania nałożonych na nie zadań, określonych w ustawie.
 
 2. Każdemu przysługuje prawo do uzyskania informacji, czy jego dane osobowe zgromadzone są w rejestrze. Osobie, której dane osobowe znajdują się w rejestrze, na jej wniosek, udostępnia się informację o treści wszystkich danych dotyczących tej osoby.
 
 3. Minister właściwy do spraw oświaty i wychowania przekazuje organom państw członkowskich w trybie ostrzeżenia w systemie IMI, o którym mowa w art. 56 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65), informacje z rejestru, o których mowa w art. 85w ust. 2 pkt 1–3 i 7.
-
-**Art. 85y.**
 
 1. Informacji z rejestru udziela się na wniosek osób i podmiotów, o których mowa w art. 85x ust. 1 i 2.
 
@@ -532,8 +513,8 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 3. Wniosek zawiera:
 
-- **1)** dane wnioskodawcy imię i nazwisko osoby lub nazwę podmiotu, o którym mowa w art. 85x ust. 1 pkt 3–6 i ust. 2, oraz adres do korespondencji;
-- **2)** dane osobowe osoby, której dotyczy wniosek nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a w przypadku braku tego numeru numer i serię dokumentu potwierdzającego tożsamość;
+- **1)** dane wnioskodawcy – imię i nazwisko osoby lub nazwę podmiotu, o którym mowa w art. 85x ust. 1 pkt 3–6 i ust. 2, oraz adres do korespondencji;
+- **2)** dane osobowe osoby, której dotyczy wniosek – nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a w przypadku braku tego numeru – numer i serię dokumentu potwierdzającego tożsamość;
 - **3)** uzasadnienie uzyskania informacji;
 - **4)** wskazanie rodzaju i zakresu danych, które mają być przedmiotem informacji;
 - **5)** datę i miejsce sporządzenia wniosku.
@@ -544,15 +525,15 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 6. Informacja z rejestru zawiera:
 
-- **1)** dane osobowe osoby, której dotyczy wniosek nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a w przypadku braku tego numeru numer i serię dokumentu potwierdzającego tożsamość;
+- **1)** dane osobowe osoby, której dotyczy wniosek – nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a w przypadku braku tego numeru – numer i serię dokumentu potwierdzającego tożsamość;
 - **2)** dane w zakresie objętym wnioskiem albo stwierdzenie, że osoba, której dotyczy wniosek, nie figuruje w rejestrze;
 - **3)** datę i miejsce wydania;
 - **4)** imię i nazwisko oraz podpis osoby upoważnionej do jej wydania.
 
 7. Informacji z rejestru udziela się w następujących terminach:
 
-- **1)** osobie, o której mowa w art. 85x ust. 1 pkt 1 i 2 oraz ust. 2 w terminie 7 dni roboczych od dnia otrzymania wniosku;
-- **2)** podmiotom, o których mowa w art. 85x ust. 1 pkt 3–6 w terminie 10 dni roboczych od dnia otrzymania wniosku.
+- **1)** osobie, o której mowa w art. 85x ust. 1 pkt 1 i 2 oraz ust. 2 – w terminie 7 dni roboczych od dnia otrzymania wniosku;
+- **2)** podmiotom, o których mowa w art. 85x ust. 1 pkt 3–6 – w terminie 10 dni roboczych od dnia otrzymania wniosku.
 
 8. Informację z rejestru wydaje się nieodpłatnie.
 
@@ -560,37 +541,43 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 10. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, wzór formularza wniosku o udzielenie informacji z rejestru, uwzględniając konieczność sprawnego uzyskiwania informacji z rejestru przez osoby i podmioty uprawnione.
 
-**Art. 85z.**
-
 1. Informacje wprowadza się do rejestru na podstawie zawiadomienia:
 
 - **1)** o prawomocnym ukaraniu nauczyciela karą dyscyplinarną, o której mowa w art. 76 ust. 1 pkt 3 albo 4, sporządzonego odpowiednio przez przewodniczącego komisji dyscyplinarnej pierwszej instancji albo przewodniczącego odwoławczej komisji dyscyplinarnej i przesłanego do rejestru niezwłocznie po uprawomocnieniu się orzeczenia; zawiadomienie zawiera informacje, o których mowa w art. 85w ust. 2 pkt 1–6;
-- **2)** o zawieszeniu nauczyciela w pełnieniu obowiązków oraz o okresie zawieszenia, sporządzonego przez dyrektora szkoły, a w przypadku zawieszenia w pełnieniu obowiązków dyrektora szkoły przez organ prowadzący szkołę, i przesłanego do rejestru niezwłocznie po wydaniu decyzji o zawieszeniu za pośrednictwem właściwej komisji dyscyplinarnej pierwszej instancji; zawiadomienie zawiera informacje, o których mowa w art. 85w ust. 2 pkt 1 i 7.
+- **2)** o zawieszeniu nauczyciela w pełnieniu obowiązków oraz o okresie zawieszenia, sporządzonego przez dyrektora szkoły, a w przypadku zawieszenia w pełnieniu obowiązków dyrektora szkoły – przez organ prowadzący szkołę, i przesłanego do rejestru niezwłocznie po wydaniu decyzji o zawieszeniu za pośrednictwem właściwej komisji dyscyplinarnej pierwszej instancji; zawiadomienie zawiera informacje, o których mowa w art. 85w ust. 2 pkt 1 i 7.
 
 2. Dane osobowe nauczyciela usuwa się z rejestru, jeżeli kara dyscyplinarna, o której mowa w art. 76 ust. 1 pkt 3, uległa zatarciu.
 
 3. Dane osobowe nauczyciela usuwa się z rejestru po otrzymaniu zawiadomienia:
 
-- **1)** o uchyleniu prawomocnego orzeczenia odwoławczej komisji dyscyplinarnej przez sąd apelacyjny sąd pracy i ubezpieczeń społecznych, o którym mowa w art. 85m ust. 1, sporządzonego przez przewodniczącego odwoławczej komisji dyscyplinarnej i przesłanego do rejestru niezwłocznie po uchyleniu orzeczenia;
+- **1)** o uchyleniu prawomocnego orzeczenia odwoławczej komisji dyscyplinarnej przez sąd apelacyjny – sąd pracy i ubezpieczeń społecznych, o którym mowa w art. 85m ust. 1, sporządzonego przez przewodniczącego odwoławczej komisji dyscyplinarnej i przesłanego do rejestru niezwłocznie po uchyleniu orzeczenia;
 - **2)** o zakończeniu okresu zawieszenia w pełnieniu obowiązków nauczyciela albo dyrektora szkoły, sporządzonego odpowiednio przez dyrektora szkoły albo organ prowadzący szkołę i przesłanego do rejestru niezwłocznie po zakończeniu okresu zawieszenia, za pośrednictwem właściwej komisji dyscyplinarnej pierwszej instancji;
 - **3)** o uchyleniu decyzji o zawieszeniu w pełnieniu obowiązków nauczyciela lub dyrektora szkoły, sporządzonego odpowiednio przez przewodniczącego komisji dyscyplinarnej pierwszej instancji albo odwoławczej komisji dyscyplinarnej i przesłanego do rejestru niezwłocznie po uchyleniu decyzji;
 - **4)** o uchyleniu prawomocnego orzeczenia w wyniku wznowienia postępowania, sporządzonego przez komisję dyscyplinarną, o której mowa w art. 85n ust. 8, i przesłanego do rejestru niezwłocznie po uchyleniu orzeczenia.
 
 4. Dane osób zmarłych usuwa się z rejestru po uzyskaniu informacji o ich zgonie.
 
-5. Zawiadomienia, o których mowa w ust. 1 i 3, przesyła się do rejestru w postaci elektronicznej. Zawiadomienie powinno być uwierzytelnione przy użyciu mechanizmów określonych w art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne oraz zawierać adres elektroniczny organu.”;
+5. Zawiadomienia, o których mowa w ust. 1 i 3, przesyła się do rejestru w postaci elektronicznej. Zawiadomienie powinno być uwierzytelnione przy użyciu mechanizmów określonych w art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne oraz zawierać adres elektroniczny organu. ” ;
 
-- **7)** w art. 91a ust. 4 otrzymuje brzmienie: „4. Do nauczycieli zatrudnionych w publicznych szkołach i szkolnych punktach konsultacyjnych przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych mają zastosowanie przepisy rozdziałów 2–4, art. 31, art. 42 ust. 1, 2 i 7a, art. 51, art. 63–67 oraz rozdziałów 8–11.”;
-- **8)** w art. 91b:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Do nauczycieli zatrudnionych w:
+- **7)** w art. 91a ust. 4 otrzymuje brzmienie: „
+
+4. Do nauczycieli zatrudnionych w publicznych szkołach i szkolnych punktach konsultacyjnych przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych mają zastosowanie przepisy rozdziałów 2–4, art. 31, art. 42 ust. 1, 2 i 7a, art. 51, art. 63–67 oraz rozdziałów 8–11. ” ;
+
+- **8)** w art. 91b: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Do nauczycieli zatrudnionych w:
 
 - **1)** przedszkolach i szkołach, o których mowa w art. 1 ust. 2 pkt 2, bez względu na wymiar zatrudnienia, mają zastosowanie przepisy art. 6, art. 9, art. 11a, art. 26, art. 63 i art. 75–85z;
 - **2)** placówkach, o których mowa w art. 1 ust. 2 pkt 2, bez względu na wymiar zatrudnienia, mają zastosowanie przepisy art. 6, art. 9, art. 26, art. 63 i art. 75–85z;
-- **3)** przedszkolach, o których mowa w art. 1 ust. 2 pkt 2 lit. a, oraz szkołach i placówkach, o których mowa w art. 1 ust. 2 pkt 2, w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć, w tym do nauczyciela zatrudnionego na stanowisku dyrektora, mają zastosowanie przepisy art. 9a–9i, art. 22 ust. 3 i 4, art. 49 ust. 1 pkt 2 i 3, art. 51, art. 70a ust. 3, 4 i 6, art. 86, art. 88 i art. 90;
-- **4)** przedszkolach, o których mowa w art. 1 ust. 2 pkt 2 lit. b, w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć, w tym do nauczyciela zatrudnionego na stanowisku dyrektora, mają zastosowanie przepisy art. 9a–9i, art. 22 ust. 3 i 4, art. 49 ust. 1 pkt 2 i 3, art. 51, art. 70a ust. 3, 4 i 6 oraz art. 88.”,
-    - **b)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Nie można nawiązać stosunku pracy z nauczycielem przedszkola, szkoły lub placówki, o których mowa w art. 1 ust. 2 pkt 2, który nie spełnia warunków, o których mowa w art. 10 ust. 5 pkt 2–5. Przepisy art. 10 ust. 8a i 8b stosuje się odpowiednio.”;
+- **3)** przedszkolach, o których mowa w art. 1 ust. 2 pkt 2 lit. a, oraz szkołach i placówkach, o których mowa w art. 1 ust. 2 pkt 2, w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć, w tym do nauczyciela zatrudnionego na stanowisku dyrektora, mają zastosowanie przepisy art. 9a-9i, art. 22 ust. 3 i 4, art. 49 ust. 1 pkt 2 i 3, art. 51, art. 70a ust. 3, 4 i 6, art. 86, art. 88 i art. 90;
+- **4)** przedszkolach, o których mowa w art. 1 ust. 2 pkt 2 lit. b, w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć, w tym do nauczyciela zatrudnionego na stanowisku dyrektora, mają zastosowanie przepisy art. 9a-9i, art. 22 ust. 3 i 4, art. 49 ust. 1 pkt 2 i 3, art. 51, art. 70a ust. 3, 4 i 6 oraz art. 88. ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
+    - **b)**
 
-- **9)** w art. 91d pkt 3 otrzymuje brzmienie: „3) art. 6a ust. 1 pkt 3 oraz ust. 6 i 13, art. 9b ust. 3, 3a i 4 pkt 2 oraz ust. 6 i 7 pkt 1, art. 9f ust. 1, art. 9g ust. 3 pkt 1 i ust. 4, art. 18 ust. 4 i 5, art. 19 ust. 1, art. 22 ust. 1, art. 26 ust. 2, art. 54 ust. 2 i 5, art. 56 ust. 2, art. 61 ust. 3, art. 63 ust. 2, art. 66 ust. 1, art. 85s ust. 4, art. 85t ust. 1, 2 i 5 oraz art. 85z ust. 1 pkt 2 i ust. 3 pkt 2 wykonuje odpowiednio: wójt, burmistrz (prezydent miasta), starosta, marszałek województwa.”.
+2b. Nie można nawiązać stosunku pracy z nauczycielem przedszkola, szkoły lub placówki, o których mowa w art. 1 ust. 2 pkt 2, który nie spełnia warunków, o których mowa w art. 10 ust. 5 pkt 2–5. Przepisy art. 10 ust. 8a i 8b stosuje się odpowiednio. ” ;
+
+- **9)** w art. 91d pkt 3 otrzymuje brzmienie: „
+- **3)** art. 6a ust. 1 pkt 3 oraz ust. 6 i 13, art. 9b ust. 3, 3a i 4 pkt 2 oraz ust. 6 i 7 pkt 1, art. 9f ust. 1, art. 9g ust. 3 pkt 1 i ust. 4, art. 18 ust. 4 i 5, art. 19 ust. 1, art. 22 ust. 1, art. 26 ust. 2, art. 54 ust. 2 i 5, art. 56 ust. 2, art. 61 ust. 3, art. 63 ust. 2, art. 66 ust. 1, art. 85s ust. 4, art. 85t ust. 1, 2 i 5 oraz art. 85z ust. 1 pkt 2 i ust. 3 pkt 2 – wykonuje odpowiednio: wójt, burmistrz (prezydent miasta), starosta, marszałek województwa. ” .
 
 **Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2015 r. poz. 2156 oraz z 2016 r. poz. 35, 64 i 195) wprowadza się następujące zmiany:
 
@@ -598,9 +585,11 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 **Art. 4.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2015 r. poz. 45, 357, 855, 1045 i 1607 oraz z 2016 r. poz. 35) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 11 lipca 2014 r. o zmianie ustawy Prawo o szkolnictwie wyższym oraz niektórych innych ustaw (Dz. U. poz. 1198, z 2015 r. poz. 357 oraz z 2016 r. poz. 35) w art. 3 w pkt 3 uchyla się lit. b.
+**Art. 30.** Podmiot zobowiązany do przekazywania danych do zbioru danych szkoły lub placówki oświatowej, zbioru danych jednostki, zbioru danych nauczyciela i zbioru danych ucznia przekazuje dane do bazy danych SIO, w terminie 7 dni od dnia, w którym nastąpiła zmiana w stanie faktycznym, z wyjątkiem danych, o których mowa w art. 8 pkt 1 lit. c, e-k i pkt 2–4, art. 9 pkt 2, art. 14 pkt 25, art. 20 pkt 1, art. 29 ust. 1 pkt 1 lit. i oraz pkt 2 lit. g, w zakresie dotyczącym uzyskania kolejnego stopnia awansu zawodowego, oraz w przypadku nauczycieli w szkołach specjalnych zorganizowanych w podmiotach leczniczych – art. 29 ust. 1 pkt 1 lit. e oraz ust. 3 pkt 1 lit. c, w zakresie dotyczącym wymiaru zatrudnienia, i art. 29 ust. 1 pkt 1 lit. g, ust. 3 pkt 1 lit. e oraz ust. 4 pkt 5, a także danych identyfikacyjnych uczniów przystępujących do sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie. ” ;
 
-**Art. 6.** W ustawie z dnia 29 grudnia 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. z 2016 r. poz. 35) w art. 8 ust. 1 otrzymuje brzmienie: „1. Dzieciom, które w roku szkolnym 2016/2017 rozpoczną naukę w klasie I szkoły podstawowej, organ wykonawczy jednostki samorządu terytorialnego, prowadzącej szkołę podstawową, może wskazać jako miejsce realizacji obowiązku szkolnego szkołę podstawową inną niż szkoła, w obwodzie której dziecko mieszka. W tym przypadku przepisu art. 20a ust. 5 ustawy zmienianej w art. 1 nie stosuje się, a przepis art. 17 ust. 3 ustawy zmienianej w art. 1 stosuje się odpowiednio.”.
+**Art. 5.** W ustawie z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw (Dz. U. poz. 1198, z 2015 r. poz. 357 oraz z 2016 r. poz. 35) w art. 3 w pkt 3 uchyla się lit. b.
+
+**Art. 6.** W ustawie z dnia 29 grudnia 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. z 2016 r. poz. 35) w art. 8 ust. 1 otrzymuje brzmienie: „ 1. Dzieciom, które w roku szkolnym 2016/2017 rozpoczną naukę w klasie I szkoły podstawowej, organ wykonawczy jednostki samorządu terytorialnego, prowadzącej szkołę podstawową, może wskazać jako miejsce realizacji obowiązku szkolnego szkołę podstawową inną niż szkoła, w obwodzie której dziecko mieszka. W tym przypadku przepisu art. 20a ust. 5 ustawy zmienianej w art. 1 nie stosuje się, a przepis art. 17 ust. 3 ustawy zmienianej w art. 1 stosuje się odpowiednio. ” .
 
 **Art. 7.**
 
@@ -612,12 +601,12 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 1. Od dnia 1 września 2016 r. do dnia 31 grudnia 2016 r. do rejestru, o którym mowa w art. 85w ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, wprowadza się informacje o nauczycielach prawomocnie ukaranych:
 
-- **1)** w okresie od dnia 1 stycznia 2011 r. do dnia 31 grudnia 2016 r. karą dyscyplinarną zwolnienia z pracy z zakazem przyjmowania ukaranego do pracy w zawodzie nauczyciela w okresie 3 lat od ukarania;
-- **2)** w okresie od dnia 26 stycznia 1982 r. do dnia 31 grudnia 2016 r. karą dyscyplinarną wydalenia z zawodu nauczyciela.
+- **1)** w okresie od dnia 1 stycznia 2011 r. do dnia 31 grudnia 2016 r. – karą dyscyplinarną zwolnienia z pracy z zakazem przyjmowania ukaranego do pracy w zawodzie nauczyciela w okresie 3 lat od ukarania;
+- **2)** w okresie od dnia 26 stycznia 1982 r. do dnia 31 grudnia 2016 r. – karą dyscyplinarną wydalenia z zawodu nauczyciela.
 
 2. Od dnia 1 września 2016 r. do dnia 31 grudnia 2016 r. minister właściwy do spraw oświaty i wychowania wprowadza do rejestru, o którym mowa w art. 85w ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, następujące informacje o nauczycielach, o których mowa w ust. 1:
 
-- **1)** dane identyfikujące nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, a ponadto imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a w przypadku braku tego numeru numer i serię dokumentu potwierdzającego tożsamość, jeżeli organ, o którym mowa w ust. 3, posiada te informacje;
+- **1)** dane identyfikujące – nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, a ponadto imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a w przypadku braku tego numeru – numer i serię dokumentu potwierdzającego tożsamość, jeżeli organ, o którym mowa w ust. 3, posiada te informacje;
 - **2)** rodzaj kary dyscyplinarnej, o której mowa w ust. 1 pkt 1 albo 2, oraz okres ukarania, jeżeli kara nie uległa zatarciu;
 - **3)** oznaczenie komisji dyscyplinarnej, która wydała prawomocne orzeczenie o ukaraniu karą dyscyplinarną, oraz sygnaturę akt sprawy;
 - **4)** datę wydania oraz uprawomocnienia się orzeczenia, o którym mowa w pkt 3;
@@ -640,16 +629,16 @@ o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw
 
 1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na realizację zadania, o którym mowa w art. 31 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą:
 
-- **1)** w 2017 r. 450 tys. zł;
-- **2)** w 2018 r. 450 tys. zł;
-- **3)** w 2019 r. 450 tys. zł;
-- **4)** w 2020 r. 450 tys. zł;
-- **5)** w 2021 r. 450 tys. zł;
-- **6)** w 2022 r. 450 tys. zł;
-- **7)** w 2023 r. 450 tys. zł;
-- **8)** w 2024 r. 450 tys. zł;
-- **9)** w 2025 r. 450 tys. zł;
-- **10)** w 2026 r. 450 tys. zł.
+- **1)** w 2017 r. – 450 tys. zł;
+- **2)** w 2018 r. – 450 tys. zł;
+- **3)** w 2019 r. – 450 tys. zł;
+- **4)** w 2020 r. – 450 tys. zł;
+- **5)** w 2021 r. – 450 tys. zł;
+- **6)** w 2022 r. – 450 tys. zł;
+- **7)** w 2023 r. – 450 tys. zł;
+- **8)** w 2024 r. – 450 tys. zł;
+- **9)** w 2025 r. – 450 tys. zł;
+- **10)** w 2026 r. – 450 tys. zł.
 
 2. Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadanie, o którym mowa w ust. 1, oraz, w razie potrzeby, wdraża mechanizmy korygujące.
 

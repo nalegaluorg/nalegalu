@@ -8,9 +8,10 @@ pos: 1100
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Kodeks postępowania administracyjnego (Dz. U.
+# Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy – Kodeks postępowania administracyjnego oraz ustawy – Ordynacja podatkowa
 
 | Pole | Wartość |
 |---|---|
@@ -24,29 +25,49 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111861100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1100/text.pdf) |
 
-2000 r. 98, poz. 1071, późn. zm. ) dziale II:
-1) tytuł rozdziału 2 brzmienie: „Metryki, protokoły i adnotacje”;
-2) rozdziale 2 po art. 66 dodaje art. 66a brzmieniu: „Art. 66a. § 1. aktach sprawy zakłada metrykę sprawy formie pisemnej lub elektronicznej.
-§ 2. treści metryki sprawy wskazuje wszystkie osoby, które uczestniczyły podejmowaniu czynności postępowaniu administracyjnym oraz określa wszystkie podejmowane przez te osoby czynności wraz odpowiednim odesłaniem do dokumentów zachowanych formie pisemnej lub elektronicznej określających te czynności.
-§ 3. Metryka sprawy, wraz dokumentami do których odsyła, stanowi obowiązkową część akt sprawy i jest na bieżąco aktualizowana.
-§ 4. Minister właściwy do spraw administracji publicznej określa, drodze rozporządzenia, wzór i sposób prowadzenia metryki sprawy, uwzględniając treść i formę metryki określoną § 1 i 2 oraz obowiązek bieżącej aktualizacji metryki, a także, aby oparciu treść metryki było możliwe ustalenie treści czynności postępowaniu administracyjnym podejmowanych sprawie przez poszczególne osoby.
-§ 5. Minister właściwy do spraw adminiOrdynacja podatkowa (Dz. U. 2005 r. 8, poz. 60, późn. zm.
-stracji publicznej określa, drodze rozporządzenia, rodzaje spraw, których obowiązek prowadzenia metryki sprawy jest wyłączony ze względu na nieproporcjonalność nakładu środków koniecznych do prowadzenia metryki stosunku do prostego i powtarzalnego charakteru tych spraw.”.
-) dziale IV:
-1) tytuł rozdziału 9 brzmienie: „Metryki, protokoły i adnotacje”;
-2) rozdziale 9 po art. 171 dodaje art. 171a brzmieniu: „Art. 171a. § 1. aktach sprawy zakłada metrykę sprawy formie pisemnej lub elektronicznej.
-§ 2. treści metryki sprawy wskazuje wszystkie osoby, które uczestniczyły podejmowaniu czynności postępowaniu podatkowym oraz określa wszystkie podejmowane przez te osoby czynności wraz odpowiednim odesłaniem do dokumentów zachowanych formie pisemnej lub elektronicznej określających te czynności.
-§ 3. Metryka sprawy, wraz dokumentami do których odsyła, stanowi obowiązkową część akt sprawy i jest na bieżąco aktualizowana.
-§ 4. Minister właściwy do spraw finansów publicznych określa, drodze rozporządzenia, wzór i sposób prowadzenia metryki sprawy, uwzględniając treść i formę metryki określoną § 1 i 2 oraz obowiązek bieżącej aktualizacji metryki, a także, aby oparciu treść metryki było możliwe ustalenie treści czynności postępowaniu podatkowym podejmowanych sprawie przez poszczególne osoby.
-§ 5. Minister właściwy do spraw finansów publicznych określa, drodze rozporządzenia, rodzaje spraw, których obowiązek prowadzenia c do których mają zastosowanie przepisy niniejszego działu.”;
-3) art. 280 brzmienie: „Art. 280. sprawach nieuregulowanych niniejszym dziale stosuje odpowiednio przepisy art. 143 oraz przepisy rozdziałów 1—3, 5, 6, 9 wyłączeniem art. 171a, rozdziałów 10, 14, 16 oraz 23 działu IV.”;
-4) art. 292 brzmienie: „Art. 292. sprawach nieuregulowanych niniejszym dziale stosuje odpowiednio przepisy art. 102 § 2 i 3, 14, 16 oraz 23 działu IV.”.
+**Art. 1.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.) w dziale II:
+
+**Art. 66a.**
+
+§ 1. W aktach sprawy zakłada się metrykę sprawy w formie pisemnej lub elektronicznej.
+
+§ 2. W treści metryki sprawy wskazuje się wszystkie osoby, które uczestniczyły w podejmowaniu czynności w postępowaniu administracyjnym oraz określa się wszystkie podejmowane przez te osoby czynności wraz z odpowiednim odesłaniem do dokumentów zachowanych w formie pisemnej lub elektronicznej określających te czynności.
+
+§ 3. Metryka sprawy, wraz z dokumentami do których odsyła, stanowi obowiązkową część akt sprawy i jest na bieżąco aktualizowana.
+
+§ 4. Minister właściwy do spraw administracji publicznej określa, w drodze rozporządzenia, wzór i sposób prowadzenia metryki sprawy, uwzględniając treść i formę metryki określoną w § 1 i 2 oraz obowiązek bieżącej aktualizacji metryki, a także, aby w oparciu o treść metryki było możliwe ustalenie treści czynności w postępowaniu administracyjnym podejmowanych w sprawie przez poszczególne osoby.
+
+§ 5. Minister właściwy do spraw administracji publicznej określa, w drodze rozporządzenia, rodzaje spraw, w których obowiązek prowadzenia metryki sprawy jest wyłączony ze względu na nieproporcjonalność nakładu środków koniecznych do prowadzenia metryki w stosunku do prostego i powtarzalnego charakteru tych spraw. ” .
+
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) w dziale IV:
+
+**Art. 171a.**
+
+§ 1. W aktach sprawy zakłada się metrykę sprawy w formie pisemnej lub elektronicznej.
+
+§ 2. W treści metryki sprawy wskazuje się wszystkie osoby, które uczestniczyły w podejmowaniu czynności w postępowaniu podatkowym oraz określa się wszystkie podejmowane przez te osoby czynności wraz z odpowiednim odesłaniem do dokumentów zachowanych w formie pisemnej lub elektronicznej określających te czynności.
+
+§ 3. Metryka sprawy, wraz z dokumentami do których odsyła, stanowi obowiązkową część akt sprawy i jest na bieżąco aktualizowana.
+
+§ 4. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, wzór i sposób prowadzenia metryki sprawy, uwzględniając treść i formę metryki określoną w § 1 i 2 oraz obowiązek bieżącej aktualizacji metryki, a także, aby w oparciu o treść metryki było możliwe ustalenie treści czynności w postępowaniu podatkowym podejmowanych w sprawie przez poszczególne osoby.
+
+§ 5. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, rodzaje spraw, w których obowiązek prowadzenia metryki sprawy jest wyłączony ze względu na nieproporcjonalność nakładu środków koniecznych do prowadzenia metryki w stosunku do prostego i powtarzalnego charakteru tych spraw.
+
+§ 6. Przepisy § 4 i 5 stosuje się odpowiednio do postępowań uregulowanych w odrębnych przepisach, do których mają zastosowanie przepisy niniejszego działu. ” ;
+
+- **3)** art. 280 otrzymuje brzmienie: „
+
+**Art. 280.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy art. 143 oraz przepisy rozdziałów 1–3, 5, 6, 9 z wyłączeniem art. 171a, rozdziałów 10, 14, 16 oraz 23 działu IV. ” ;
+
+**Art. 292.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy art. 102 § 2 i 3, art. 135–138, art. 139 § 4, art. 140 § 2, art. 141 i art. 142 oraz przepisy rozdziałów 1, 2, 5, 6, 9 z wyłączeniem art. 171a, rozdziałów 10–12, 14, 16, 22 oraz 23 działu IV. ” ;
+
+**Art. 306k.** W sprawach nieuregulowanych w art. 306a-306i oraz art. 306l i art. 306m stosuje się odpowiednio przepisy rozdziałów 1–6, 8, 9 z wyłączeniem art. 171a, rozdziałów 10–12, 14, 16 oraz 23 działu IV. ” .
 
 **Art. 3.**
 
-1. przypadku spraw, których mowa art. 1 i art. 2, będących toku dniu wejścia życie niniejszej ustawy, metrykę sprawy zakłada ciągu 30 dni od dnia wejścia życie niniejszej ustawy.
+1. W przypadku spraw, o których mowa w art. 1 i art. 2, będących w toku w dniu wejścia w życie niniejszej ustawy, metrykę sprawy zakłada się w ciągu 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-2. Metryka spraw, których mowa ust. 1, wskazuje osoby, które uczestniczyły podejmowaniu czynności postępowaniu i podejmowane przez te osoby czynności od dnia wejścia życie niniejszej ustawy.
+2. Metryka spraw, o których mowa w ust. 1, wskazuje osoby, które uczestniczyły w podejmowaniu czynności w postępowaniu i podejmowane przez te osoby czynności od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 6 mieart. 135—138, art. 139 § 4, art. 140 § 2, sięcy od dnia ogłoszenia. art. 141 i art. 142 oraz przepisy rozdziałów 1, 2, 5, 6, 9 wyłączeniem art. 171a, Prezydent Rzeczypospolitej Polskiej: B. Komorowski c
+**Art. 4.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
 

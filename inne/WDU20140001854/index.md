@@ -8,11 +8,10 @@ pos: 1854
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o specjalnych strefach ekonomicznych oraz niektórych innych ustaw
-
-*USTAWA dnia 28 listopada 2014 o zmianie ustawy o specjalnych strefach ekonomicznych oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -26,33 +25,49 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001854) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1854/text.pdf) |
 
-**Art. 1.** W ustawie dnia 20 października 1994 o specjalnych strefach ekonomicznych (Dz. 2007 Nr 42, 274, 2008 Nr 118, 746 oraz 2009 Nr 18, 97) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2007 r. Nr 42, poz. 274, z 2008 r. Nr 118, poz. 746 oraz z 2009 r. Nr 18, poz. 97) wprowadza się następujące zmiany:
 
-**Art. 12b.**
+**Art. 12a.**
 
-1. W przypadku cofnięcia zezwolenia, o którym mowa 16 ust. 1, przedsiębiorca jest obowiązany zwrotu pomocy publicznej, udzielonej zgodnie ustawą. Do dnia zwrotu tej pomocy przedsiębiorcy nie może zostać udzielone nowe zezwolenie.
+1. Przedsiębiorcy korzystający z pomocy publicznej, udzielanej zgodnie z ustawą, obowiązani do prowadzenia ksiąg podatkowych – przechowują księgi i związane z ich prowadzeniem dokumenty, a przedsiębiorcy korzystający z pomocy publicznej, udzielanej zgodnie z ustawą, z tytułu tworzenia nowych miejsc pracy – dodatkowo przechowują dokumenty związane z poborem podatków oraz innych dochodów budżetu państwa, a także przychodów państwowych funduszy celowych.
 
-2. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, o którym mowa 16 ust. 1, minister właściwy spraw gospodarki przekazuje naczelnikowi urzędu skarbowego właściwemu dla przedsiębiorcy sprawach podatku dochodowego kopię wydanej decyzji terminie 14 dni, licząc od dnia, którym decyzja ta stała się prawomocna.
+2. Księgi oraz dokumenty określone w ust. 1 są przechowywane do czasu upływu okresu przedawnienia roszczeń związanych ze zwrotem pomocy publicznej.
 
-3. W przypadku cofnięcia zezwolenia, o którym mowa 16 ust. 1, naczelnik urzędu skarbowego, o którym mowa ust. 2, określa drodze decyzji kwotę pomocy podlegającą zwrotowi pomniejszoną o kwotę należnego podatku ustalonego zgodnie 21 ust. 5b ustawy dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. 2012 361, późn. zm. ) lub 17 ust. 5 ustawy dnia 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz. 2014 851, późn. zm. ).
+1. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, przedsiębiorca jest obowiązany do zwrotu pomocy publicznej, udzielonej zgodnie z ustawą. Do dnia zwrotu tej pomocy przedsiębiorcy nie może zostać udzielone nowe zezwolenie.
 
-4. W kwocie pomocy podlegającej zwrotowi, o której mowa ust. 3, uwzględnia się odsetki liczone jak dla zaległości podatkowej. Odsetki te należne są za okres od dnia udzielenia pomocy dnia jej zwrotu.
+2. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, o którym mowa w art. 16 ust. 1, minister właściwy do spraw gospodarki przekazuje naczelnikowi urzędu skarbowego właściwemu dla przedsiębiorcy w sprawach podatku dochodowego kopię wydanej decyzji w terminie 14 dni, licząc od dnia, w którym decyzja ta stała się prawomocna.
 
-**Art. 12c.** Roszczenia związane ze zwrotem pomocy publicznej, udzielanej zgodnie ustawą, przedawniają się upływem 10 lat, licząc od końca roku kalendarzowego, którym przedsiębiorca skorzystał tej pomocy.”;
+3. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, naczelnik urzędu skarbowego, o którym mowa w ust. 2, określa w drodze decyzji kwotę pomocy podlegającą zwrotowi pomniejszoną o kwotę należnego podatku ustalonego zgodnie z art. 21 ust. 5b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) lub art. 17 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.).
 
-**Art. 2.** W ustawie dnia 2 października 2003 o zmianie ustawy o specjalnych strefach ekonomicznych niektórych ustaw (Dz. Nr 188, 1840, późn. zm. ) 10 dodaje się ust. 11 brzmieniu: „11. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, zmienionego stosownie przepisów 6, przedsiębiorcy, którego stosuje się 5 ust. 2, minister właściwy spraw gospodarki przekazuje wójtowi (burmistrzowi, prezydentowi miasta) właściwemu dla przedsiębiorcy sprawach podatku od nieruchomości kopię wydanej decyzji terminie 14 dni od dnia, którym decyzja ta stała się prawomocna.”.
+4. W kwocie pomocy podlegającej zwrotowi, o której mowa w ust. 3, uwzględnia się odsetki liczone jak dla zaległości podatkowej. Odsetki te należne są za okres od dnia udzielenia pomocy do dnia jej zwrotu. Roszczenia związane ze zwrotem pomocy publicznej, udzielanej zgodnie z ustawą, przedawniają się z upływem 10 lat, licząc od końca roku kalendarzowego, w którym przedsiębiorca skorzystał z tej pomocy. ” ;
 
-**Art. 3.** W ustawie dnia 30 maja 2008 o zmianie ustawy o specjalnych strefach ekonomicznych (Dz. Nr 118,
+- **5)** po art. 17 dodaje się art. 17a w brzmieniu: „
 
-**Art. 4.** Rada nadzorcza spółki, o której mowa 6 ust. 1 ustawy wymienionej 1, działa dotychczasowym składzie dnia powołania rady nadzorczej nowym składzie, zgodnie 7 ust. 1 1 ustawy wymienionej 1 brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 17a.**
+
+1. Wniosek o przyznanie pomocy publicznej, udzielanej zgodnie z ustawą, jest składany w ramach przetargu lub rokowań, o których mowa w art. 17 ust. 1.
+
+2. Wniosek o przyznanie pomocy publicznej, udzielanej zgodnie z ustawą, może być również złożony do ministra właściwego do spraw gospodarki przez dużego przedsiębiorcę w rozumieniu art. 2 pkt 24 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1), zamierzającego podjąć przedsięwzięcie gospodarcze na gruncie, o którym mowa w art. 5 ust. 3, nieobjętym strefą w dniu złożenia wniosku. Do wniosku przedsiębiorca załącza dokumentację wykazującą wystąpienie efektu zachęty, o którym mowa w art. 6 ust. 3 tego rozporządzenia. Po potwierdzeniu efektu zachęty przez ministra właściwego do spraw gospodarki przedsiębiorca może rozpocząć przedsięwzięcie gospodarcze na tym gruncie.
+
+3. Dużemu przedsiębiorcy nie przysługują żadne roszczenia w przypadku niewłączenia gruntu, o którym mowa w ust. 2, do strefy albo nieuzyskania zezwolenia na prowadzenie działalności gospodarczej na tym gruncie. ” ;
+
+- **6)** art. 18 otrzymuje brzmienie: „
+
+**Art. 18.** Minister właściwy do spraw gospodarki wykonuje kontrolę działalności gospodarczej prowadzonej na terenie strefy w zakresie i na zasadach określonych w art. 57 oraz rozdziale 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.). ” ;
+
+**Art. 2.** W ustawie z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. Nr 188, poz. 1840, z późn. zm.) w art. 10 dodaje się ust. 11 w brzmieniu: „ 11. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, zmienionego stosownie do przepisów art. 6, przedsiębiorcy, do którego stosuje się art. 5 ust. 2, minister właściwy do spraw gospodarki przekazuje wójtowi (burmistrzowi, prezydentowi miasta) właściwemu dla przedsiębiorcy w sprawach podatku od nieruchomości kopię wydanej decyzji w terminie 14 dni od dnia, w którym decyzja ta stała się prawomocna. ” .
+
+**Art. 3.** W ustawie z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych strefach ekonomicznych (Dz. U. Nr 118, poz. 746) w art. 4 uchyla się ust. 2.
+
+**Art. 4.** Rada nadzorcza spółki, o której mowa w art. 6 ust. 1 ustawy wymienionej w art. 1, działa w dotychczasowym składzie do dnia powołania rady nadzorczej w nowym składzie, zgodnie z art. 7 ust. 1 pkt 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 5.**
 
-1. Do spraw wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy dotyczących stwierdzenia wygaśnięcia zezwolenia, zmiany lub cofnięcia zezwolenia stosuje się przepisy dotychczasowe.
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących stwierdzenia wygaśnięcia zezwolenia, zmiany lub cofnięcia zezwolenia stosuje się przepisy dotychczasowe.
 
-2. Do pomocy publicznej udzielonej, na podstawie ustawy wymienionej 1, przed dniem wejścia życie niniejszej ustawy stosuje się przepisy niniejszej ustawy, przypadku gdy roszczenie związane ze zwrotem tej pomocy nie uległo przedawnieniu przed dniem wejścia życie niniejszej ustawy.
+2. Do pomocy publicznej udzielonej, na podstawie ustawy wymienionej w art. 1, przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy niniejszej ustawy, w przypadku gdy roszczenie związane ze zwrotem tej pomocy nie uległo przedawnieniu przed dniem wejścia w życie niniejszej ustawy.
 
-3. Do pomocy publicznej, o której mowa ust. 2, przepisu 12b ust. 4 ustawy wymienionej 1 nie stosuje się.
+3. Do pomocy publicznej, o której mowa w ust. 2, przepisu art. 12b ust. 4 ustawy wymienionej w art. 1 nie stosuje się.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

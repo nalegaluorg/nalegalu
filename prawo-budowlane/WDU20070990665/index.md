@@ -8,9 +8,10 @@ pos: 665
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# się przepisy o prokuratorze.
+# Ustawa z dnia 10 maja 2007 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,25 +25,80 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/665/text.pdf) |
 
-§ 2. Do obrońcy ipełnomocnika, będącego adwokatem aplikantem adwokackim, uprawnionym występowania przed sądem na podstawie przepisów dnia 26 maja 1982 Prawo o adwokaturze (Dz. U. 2002 123, 1058, póên. zm. ), radcą prawnym aplikantem radcowskim, uprawnionym występowania przed sądem na podstawie przepisów ustawy dnia 6 lipca 1982 o radcach 106, 1148, póên. zm. ) 8 otrzymuje brzmienie: ŃArt. 8. W postępowaniu uregulowanym niniejszym kodeksie stosuje się odpowiednio przepisy 2, 4, 5, 7—9, 13, 14, 15 § 2 3, art.16, 18 § 2, 20 i23 Kodeksu postępowania karnego.”.
+**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118 i Nr 170, poz. 1217 oraz z 2007 r. Nr 88, poz. 587) wprowadza się następujące zmiany:
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— USTAWA dnia 10 maja o zmianie Prawo budowlane niektórych innych ustaw
+**Art. 59e.** Obowiązkową kontrolę budowy lub obiektu budowlanego może przeprowadzać, z upoważnienia właściwego organu nadzoru budowlanego, wyłącznie osoba zatrudniona w tym organie i posiadająca uprawnienia budowlane. ” ;
 
-**Art. 1.** W ustawie dnia 7 lipca 1994 Prawo 2) zapewnić, dochowując należytej staranbudowlane (Dz. U. z2006 156, 1118 iNr 170, ności, bezpieczne użytkowanie 1217 88, 587) wprowadza się razie wystąpienia czynników zenastępujące zmiany: wnętrznych odziaływujących na obiekt, związanych działaniem człowieka
+**Art. 61.** Właściciel lub zarządca obiektu budowlanego jest obowiązany:
+
+**Art. 66.**
+
+1. W przypadku stwierdzenia, że obiekt budowlany:
+
+- **1)** może zagrażać życiu lub zdrowiu ludzi, bezpieczeństwu mienia bądź środowiska albo
+- **2)** jest użytkowany w sposób zagrażający życiu lub zdrowiu ludzi, bezpieczeństwu mienia lub środowisku, albo
+- **3)** jest w nieodpowiednim stanie technicznym, albo
+- **4)** powoduje swym wyglądem oszpecenie otoczenia właściwy organ nakazuje, w drodze decyzji, usunięcie stwierdzonych nieprawidłowości, określając termin wykonania tego obowiązku.
+
+2. W decyzji, o której mowa w ust. 1 pkt 1–3, właściwy organ może zakazać użytkowania obiektu budowlanego lub jego części do czasu usunięcia stwierdzonych nieprawidłowości. Decyzja o zakazie użytkowania obiektu, jeżeli występują okoliczności, o których mowa w ust. 1 pkt 1 i 2, podlega natychmiastowemu wykonaniu i może być ogłoszona ustnie. ” ;
+
+- **5)** art. 70 otrzymuje brzmienie: „
+
+**Art. 70.**
+
+1. Właściciel, zarządca lub użytkownik obiektu budowlanego, na których spoczywają obowiązki w zakresie napraw, określone w przepisach odrębnych bądź umowach, są obowiązani w czasie lub bezpośrednio po przeprowadzonej kontroli, o której mowa w art. 62 ust. 1, usunąć stwierdzone uszkodzenia oraz uzupełnić braki, które mogłyby spowodować zagrożenie życia lub zdrowia ludzi, bezpieczeństwa mienia bądź środowiska, a w szczególności katastrofę budowlaną, pożar, wybuch, porażenie prądem elektrycznym albo zatrucie gazem.
+
+2. Obowiązek, o którym mowa w ust. 1, powinien być potwierdzony w protokole z kontroli obiektu budowlanego. Osoba dokonująca kontroli jest obowiązana bezzwłocznie przesłać kopię tego protokołu do właściwego organu. Właściwy organ, po otrzymaniu kopii protokołu, przeprowadza bezzwłocznie kontrolę obiektu budowlanego w celu potwierdzenia usunięcia stwierdzonych uszkodzeń oraz uzupełnienia braków, o których mowa w ust. 1. ” ;
+
+- **6)** w art. 76 dodaje się ust. 4 w brzmieniu: „
+
+4. Organ, o którym mowa w art. 74, może nakazać właścicielowi lub zarządcy, w drodze decyzji, zabezpieczenie miejsca katastrofy oraz obiektu budowlanego, który uległ katastrofie, uporządkowanie terenu lub wykonanie innych niezbędnych czynności i robót budowlanych. Decyzja podlega natychmiastowemu wykonaniu i może być ogłoszona ustnie. W razie niewykonania lub nadmiernej zwłoki w wykonaniu decyzji przez właściciela lub zarządcę obiektu budowlanego, organ zapewni jej wykonanie na koszt i ryzyko zobowiązanego. ” ;
+
+- **7)** w art. 83 ust. 1 otrzymuje brzmienie: „
+
+1. Do właściwości powiatowego inspektora nadzoru budowlanego jako organu pierwszej instancji należą zadania i kompetencje, o których mowa w art. 40 ust. 2, art. 41 ust. 4, art. 44 ust. 1, art. 48–51, art. 54, art. 55, art. 57 ust. 4, 7 i 8, art. 59, art. 59a, art. 59c ust. 1, art. 59d ust. 1, art. 59g ust. 1, art. 62 ust. 1 pkt 3 i ust. 3, art. 65, art. 66, art. 67 ust. 1 i 3, art. 68, art. 69, art. 70 ust. 2, art. 71a, art. 74, art. 75 ust. 1 pkt 3 lit. a, art. 76, art. 78 oraz art. 97 ust. 1. ” ;
+
+- **8)** w art. 84: w ust. 2 dodaje się pkt 4 w brzmieniu: „
+    - **a)**
+
+- **4)** prowadzenia ewidencji zawiadomień o kontrolach, o których mowa w art. 62 ust. 1 pkt 3. ” , uchyla się ust. 3 i 4;
+    - **b)**
+
+- **9)** w art. 88a po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Główny Inspektor Nadzoru Budowlanego może, w sprawach nieobjętych postępowaniem administracyjnym w rozumieniu działu II Kodeksu postępowania administracyjnego, w szczególnie uzasadnionych przypadkach, wydać polecenie podjęcia określonych działań wojewódzkiemu lub powiatowemu inspektorowi nadzoru budowlanego. ” ;
+
+- **10)** w art. 89c: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W przypadkach bezpośredniego zagrożenia życia lub zdrowia ludzi związanych z budową, utrzymaniem lub rozbiórką obiektów budowlanych starosta, wójt, burmistrz i prezydent miasta mogą wydać właściwemu powiatowemu inspektorowi nadzoru budowlanego polecenie podjęcia działań zmierzających do usunięcia tego zagrożenia. Przepisy art. 10 ust. 2 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. Nr 62, poz. 558, z późn. zm.) stosuje się odpowiednio. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Polecenie podlega niezwłocznemu wykonaniu. Powiatowy inspektor nadzoru budowlanego przedkłada bezzwłocznie sprawę wojewódzkiemu inspektorowi nadzoru budowlanego, jeżeli nie jest w stanie wykonać polecenia albo jeżeli polecenie narusza prawo. ” ;
+
+- **11)** po art. 91 dodaje się art. 91a w brzmieniu: „
+
+**Art. 91a.** Kto nie spełnia, określonego w art. 61, obowiązku utrzymania obiektu budowlanego w należytym stanie technicznym, użytkuje obiekt w sposób niezgodny z przepisami lub nie zapewnia bezpieczeństwa użytkowania obiektu budowlanego, podlega grzywnie nie mniejszej niż 100 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do roku. ” ;
+
+**Art. 2.** W ustawie z dnia 22 sierpnia 1997 r. o bezpieczeństwie imprez masowych (Dz. U. z 2005 r. Nr 108, poz. 909 oraz z 2007 r. Nr 99, poz. 663) w art. 7:
 
 **Art. 3.**
 
-1. Do budowlanego jego części wybudowanego bez wymaganego pozwolenia na bu) stosuje się odpowiednio.”,
+1. Do obiektu budowlanego lub jego części wybudowanego bez wymaganego pozwolenia na budowę albo zgłoszenia, bądź też pomimo wniesienia sprzeciwu przez właściwy organ administracji publicznej, jeżeli budowa została zakończona po dniu 31 grudnia 1994 r. a przed dniem 11 lipca 1998 r., i przed dniem 11 lipca 2003 r. nie zostało wszczęte postępowanie administracyjne przez właściwy organ nadzoru budowlanego, nie stosuje się do dnia 1 stycznia 2008 r. przepisów art. 48–49b ustawy, o której mowa w art. 1.
 
-- **b)** 4 otrzymuje brzmienie: Ń4. Polecenie podlega niezwłocznemu wykonaniu. Powiatowy inspektor nadzoru budowlanego przedkłada bezzwłocznie sprawę wojewódzkiemu inspektorowi nadzoru budowlanego, jeżeli nie jest stanie wykonać polecenia jeżeli polecenie narusza prawo.”;
-- **11)** po 91 dodaje się 91a brzmieniu: ŃArt. 91a. Kto nie spełnia, określonego 61, obowiązku utrzymania budowlanego należytym stanie technicznym, użytkuje obiekt wsposób niezgodny przepisami nie zapewnia bezpieczeństwa budowlanego, podlega grzywnie nie mniejszej niż 100 stawek dziennych, karze ograniczenia wolności pozbawienia wolności roku.”;
-- **12)** 92 2 uchyla się pkt 2.
+2. W przypadku, o którym mowa w ust. 1, na właścicielu spoczywa obowiązek uzyskania pozwolenia na użytkowanie obiektu budowlanego. W razie nieuzyskania pozwolenia na użytkowanie, właściwy organ nadzoru budowlanego nakazuje rozbiórkę obiektu budowlanego lub jego części.
 
-**Art. 2.** W ustawie dnia 22 sierpnia 1997 o bezpieczeństwie imprez masowych (Dz. U. 2005 Nr108, 909 99, 663) wart.7:
+3. Właściciel obiektu budowlanego jest obowiązany dołączyć do wniosku o pozwolenie na użytkowanie inwentaryzację powykonawczą obiektu budowlanego, sporządzoną przez osobę posiadającą odpowiednie uprawnienia budowlane i ekspertyzę techniczną, potwierdzającą przydatność obiektu do użytkowania oraz oświadczenia, o których mowa w art. 57 ust. 3 ustawy, o której mowa w art. 1.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni
+4. Jeżeli obiekt budowlany, o którym mowa w ust. 1, nie narusza:
 
-**Art. 4.** Do spraw wszczętych aniezakończonych od dnia ogłoszenia. dnia wejścia życie stosuje się przepisy niniejszej ustawy. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 666 USTAWA dnia 11 maja o zmianie o podatku akcyzowym o zmianie niektórych innych ustaw
+- **1)** przepisów, w tym techniczno-budowlanych, w zakresie uniemożliwiającym doprowadzenie obiektu budowlanego do stanu zgodnego z prawem,
+- **2)** ustaleń miejscowego planu zagospodarowania przestrzennego, obowiązującego w dniu zakończenia budowy albo w dniu orzekania właściwy organ nadzoru budowlanego, po protokolarnym potwierdzeniu zgodności inwentaryzacji powykonawczej ze stanem faktycznym, wydaje, z zastrzeżeniem ust. 5, decyzję w sprawie pozwolenia na użytkowanie.
 
-**Art. 1.** W ustawie dnia 23 stycznia 2004 o po- jakościowe określone odrębnych przedatku akcyzowym (Dz. U. 29, 257 68, pisach stawka akcyzy określona poz.623, 2005 160, 1341 2006 pkt1 obniżona o 1,565 zł od każdego Nr169, 1199) wprowadza się następujące zmia- litra biokomponentów dodanych tych ny: benzyn, ztym że kwota należnej akcyzy nie może być niższa niż 10,00 zł/1 l;
+5. Jeżeli obiekt budowlany, o którym mowa w ust. 1, narusza przepisy lub ustalenia miejscowego planu zagospodarowania przestrzennego, w zakresie umożliwiającym doprowadzenie obiektu do stanu zgodnego z prawem, właściwy organ nadzoru budowlanego, w drodze postanowienia, nakłada obowiązek usunięcia tych naruszeń w wyznaczonym terminie. W razie niewykonania obowiązku w terminie, organ ten nakazuje rozbiórkę obiektu budowlanego lub jego części.
+
+**Art. 4.** Do spraw wszczętych a niezakończonych do dnia wejścia w życie ustawy stosuje się przepisy niniejszej ustawy.
+
+**Art. 5.**
 

@@ -8,9 +8,10 @@ pos: 758
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# ,,5) przyjmuje o uznaniu dziecka,
+# Ustawa z dnia 24 lipca 1998 r. o zmianie ustawy – Kodeks cywilny oraz ustawy – Prawo przewozowe
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +25,35 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981170758) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/758/text.pdf) |
 
-6) przyjmuje od rozwiedzionego o powrocie do nazwiska, które przed zawarciem
+**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040 oraz z 1998 r. Nr 106, poz. 668) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 15 listopada 1956 r. o zmia nie imion i nazwisk (Dz. U. 1963 r. Nr 59, poz. 328, 1990 r. Nr 34, poz. 198 i 1998 r. Nr 106, poz. 668) skre art. 4.
+**Art. 846.**
 
-**Art. 6.** W ustawie dnia 17 maja 1989 r. o stosunku do dodaje Katolickiego w Rzeczypospolitej Polskiej (Dz.U. Nr 29, poz. 154, 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459, 1993 r. Nr 7, poz. 34, 1994 r. Nr 1, art. 15a w brzmieniu: "Art. 15a. 1. zawarte w formie przewi dzianej przez prawo kanoniczne wy wiera takie skutki, jak za warte przed kierownikiem sta nu cywilnego, wymagania w Kodeksie ro dzinnym i 2. przed o zawarciu stwa, prawo kanoniczne."
+§ 1. Utrzymujący zarobkowo hotel lub podobny zakład jest odpowiedzialny za utratę lub uszkodzenie rzeczy wniesionych przez osobę korzystającą z usług hotelu lub podobnego zakładu, zwaną dalej „gościem”, chyba że szkoda wynikła z właściwości rzeczy wniesionej lub wskutek siły wyższej albo że powstała wyłącznie z winy poszkodowanego lub osoby, która mu towarzyszyła, była u niego zatrudniona albo go odwiedzała.
 
-**Art. 7.** Ustawa wchodzi w dniem 15 listopa da 1998 r. Prezydent Rzeczypospolitej Polskiej: A. 758 USTAWA dnia 24 lipca 1998 r. o zmianie ustawy - Kodeks cywilny oraz ustawy - Prawo przewozowe.
+§ 2. Rzeczą wniesioną w rozumieniu przepisów tytułu niniejszego jest rzecz, która w czasie korzystania przez gościa z usług hotelu lub podobnego zakładu znajduje się w tym hotelu lub podobnym zakładzie albo znajduje się poza nim, a została powierzona utrzymującemu zarobkowo hotel lub podobny zakład lub osobie u niego zatrudnionej albo umieszczona w miejscu przez nich wskazanym lub na ten cel przeznaczonym.
 
-**Art. 1.** W ustawie dnia 23 kwietnia 1964 r. - Ko deks cywilny (Dz. U. Nr 16, poz. 93, 1971 r. Nr 27, poz. 252, 1976 r. Nr 19, poz. 122, 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, 1984 r. Nr 45, poz. 242, 1985 r. Nr 22, poz. 99, 1989 r. Nr 3, poz. 11, 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, 1993 r. Nr 17, poz. 78, 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, 1995 r. Nr 83, poz. 417, 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040 oraz 1998 r. Nr 106, poz: 668) wprowadza się następujące zmiany:
+§ 3. Rzeczą wniesioną jest również rzecz, która w krótkim, zwyczajowo przyjętym okresie poprzedzającym lub następującym po tym, kiedy gość korzystał z usług hotelu lub podobnego zakładu, została powierzona utrzymującemu zarobkowo hotel lub podobny zakład lub osobie u niego zatrudnionej albo umieszczona w miejscu przez nich wskazanym lub na ten cel przeznaczonym.
 
-**Art. 2.** W ustawie dnia 15 listopada 1984 r. - Pra wo przewozowe (Dz.U. 1995 r. Nr 119, poz. 575, 1997 r. Nr 23, poz. 117, Nr 96, poz. 591, Nr 101, poz. 629 i Nr 141, poz. 942 oraz 1998 r. Nr 106, poz.
+§ 4. Pojazdów mechanicznych i rzeczy w nich pozostawionych oraz żywych zwierząt nie uważa się za rzeczy wniesione. Utrzymujący zarobkowo hotel lub podobny zakład może za nie odpowiadać jako przechowawca, jeżeli została zawarta umowa przechowania.
 
-**Art. 3.** Ustawa wchodzi w po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: A. 759 USTAWA dnia 25 lipca 1998 r. o zmianie ustawy o systemie
+§ 5. Wyłączenie lub ograniczenie odpowiedzialności, o której mowa w § 1, przez umowę lub ogłoszenie nie ma skutku prawnego, ” ;
 
-**Art. 1.** W ustawie dnia 7 1991 r. o syste mie (Dz.U. 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496 oraz 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943) wprowadza zmiany:
+- **2)** art. 849 otrzymuje brzmienie: „
+
+**Art. 849.**
+
+§ 1. Zakres obowiązku naprawienia szkody przez utrzymującego zarobkowo hotel lub podobny zakład w wypadku utraty lub uszkodzenia rzeczy wniesionych ogranicza się, względem jednego gościa, do wysokości stokrotnej należności za dostarczone mu mieszkanie, liczonej za jedną dobę. Jednakże odpowiedzialność za każdą rzecz nie może przekraczać pięćdziesięciokrotnej wysokości tej należności.
+
+§ 2. Ograniczenia zakresu obowiązku naprawienia szkody nie dotyczą wypadku, gdy utrzymujący zarobkowo hotel lub podobny zakład przyjął rzeczy na przechowanie albo odmówił ich przyjęcia na przechowanie, mimo że obowiązany był je przyjąć, jak również wypadku, gdy szkoda wynikła z winy umyślnej lub rażącego niedbalstwa jego lub osoby u niego zatrudnionej.
+
+§ 3. Utrzymujący zarobkowo hotel lub podobny zakład jest obowiązany przyjąć na przechowanie pieniądze, papiery wartościowe i cenne przedmioty, w szczególności kosztowności i przedmioty mające wartość naukową lub artystyczną. Może odmówić przyjęcia tych rzeczy tylko wówczas, jeżeli zagrażają one bezpieczeństwu albo jeżeli w stosunku do wielkości lub standardu hotelu albo podobnego zakładu mają zbyt dużą wartość lub gdy zajmują zbyt dużo miejsca. ” ;
+
+- **3)** art. 852 otrzymuje brzmienie: „
+
+**Art. 852.** Przepisy o odpowiedzialności i ustawowym prawie zastawu utrzymującego zarobkowo hotel lub podobny zakład stosuje się odpowiednio do zakładów kąpielowych. Jednakże co się tyczy przedmiotów, które zazwyczaj nie bywają wnoszone przez osoby korzystające z usług tych zakładów, odpowiedzialność prowadzącego zakład ogranicza się do wypadku, gdy przyjął taki przedmiot na przechowanie albo gdy szkoda wynikła z winy umyślnej lub rażącego niedbalstwa jego albo osoby u niego zatrudnionej. ”
+
+**Art. 2.** W ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 1995 r. Nr 119, poz. 575, z 1997 r. Nr 23, poz. 117, Nr 96, poz. 591, Nr 101, poz. 629 i Nr 141, poz. 942 oraz z 1998 r. Nr 106, poz. 668) w art. 63 ust. 2–5 otrzymują brzmienie: „ 2. Przewoźnik odpowiada za przewożone przez podróżnego rzeczy jak za przesyłkę, jeżeli podróżny umieści je, bez możliwości sprawowania nad nimi stałego nadzoru, w miejscu wskazanym przez przewoźnika lub na ten cel przeznaczonym. 3. Prowadzący przedsiębiorstwo eksploatujące środki transportowe z pomieszczeniami przeznaczonymi do spania ponosi odpowiedzialność określoną w ust. 2 za rzeczy zazwyczaj wnoszone do takich pomieszczeń. Za inne rzeczy odpowiedzialność prowadzącego przedsiębiorstwo ogranicza się do wypadku, gdy przyjął je na przechowanie albo gdy szkoda wynikła z winy umyślnej lub rażącego niedbalstwa jego lub osoby u niego zatrudnionej. 4. Wysokość odszkodowania należnego od przewoźnika albo prowadzącego przedsiębiorstwo eksploatujące środki transportowe z pomieszczeniami przeznaczonymi do spania za utratę, ubytek lub uszkodzenie rzeczy wymienionych w ust. 1–3 nie może przewyższać zwykłej wartości rzeczy. 5. Przewoźnik albo prowadzący przedsiębiorstwo eksploatujące środki transportowe z pomieszczeniami przeznaczonymi do spania nie ponosi odpowiedzialności za utratę lub uszkodzenie pieniędzy, papierów wartościowych i cennych przedmiotów, w szczególności kosztowności albo przedmiotów mających wartość naukową lub artystyczną, chyba że rzeczy te przyjął na przechowanie albo szkoda wynikła z winy umyślnej lub rażącego niedbalstwa jego lub osoby u niego zatrudnionej. ”
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

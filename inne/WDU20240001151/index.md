@@ -8,9 +8,12 @@ pos: 1151
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 lipca 2024 r.
+# Prawo geodezyjne i kartograficzne
+
+*USTAWA z dnia 17 maja 1989 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,44 +26,6 @@ domain: null
 | Data wydania | 2024-07-31 |
 | Ostatnia zmiana | 2026-03-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1151/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 czerwca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo geodezyjne i kartograficzne
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688),
-2) ustawą z dnia 28 lipca 2023 r. o zmianie ustawy Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615),
-3) ustawą z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762 oraz z 2024 r. poz. 859) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 czerwca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 78 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), który stanowi: „Art. 78. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 62 lit. e w zakresie ust. 3b oraz art. 67 ust. 3 pkt 3, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-2) art. 1 pkt 10 w zakresie art. 8f i art. 8g ust. 3 i 4, pkt 12 w zakresie art. 13b pkt 1 i art. 13i ust. 3 pkt 4, 7 i 11, pkt 17 lit. d, g i lit. k w zakresie pkt 13c, pkt 25 w zakresie art. 27b ust. 4 pkt 3 i 7, pkt 29 lit. b, pkt 38 lit. b tiret drugie, tiret trzecie w zakresie pkt 7b i tiret piąte w zakresie pkt 11, pkt 39 w zakresie art. 37eb ust. 4 pkt 1 i art. 37ec ust. 2 pkt 3 i 8, pkt 45 lit. a tiret drugie, trzecie i tiret szóste w zakresie pkt 7, pkt 47 lit. a tiret czwarte i szóste, pkt 53 i 60, pkt 62 lit. b i f, pkt 63 i 64, art. 6 pkt 1 lit. a i b, art. 11–13, art. 14 pkt 2 lit. b, art. 16 pkt 3, art. 22 pkt 1 i 3, art. 27 pkt 4–9, art. 37 pkt 2 lit. d w zakresie ust. 8 i 9, art. 39 pkt 2, art. 41 pkt 1 w zakresie pkt 4a, art. 43 pkt 1, 3, 5, 10, pkt 11 lit. b i pkt 13 lit. a w zakresie ust. 1, art. 54, art. 56 ust. 2, art. 62, art. 67 ust. 3 pkt 3 i art. 75–77, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
-2) art. 14 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615), który stanowi: „Art. 14. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 1–3 i art. 3 pkt 10, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia;
-2) art. 4 i art. 9, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.”;
-3) art. 50 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762 oraz z 2024 r. poz. 859), który stanowi: „Art. 50. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, z wyjątkiem:
-1) art. 4 pkt 2 i art. 46, które wchodzą w życie z dniem 30 listopada 2023 r.;
-2) art. 1 pkt 3 lit. g, pkt 30, pkt 31 w zakresie dodawanych art. 38aa–38ac, art. 38ae i art. 38af, oraz art. 1 pkt 48 lit. a, pkt 98–106, pkt 113 lit. a w zakresie dodawanego pkt 1b i lit. d, pkt 121, a także art. 10 pkt 3, art. 16 i art. 32, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-3) art. 11, który wchodzi w życie z dniem 1 lipca 2025 r.;
-4) art. 1:
-a) pkt 31 w zakresie dodawanego art. 38ad,
-b) (uchylona)
-c) (uchylona)
-d) pkt 129 lit. l,
-e) pkt 130,
-f) pkt 131 lit. f w zakresie dodawanego ust. 7 pkt 3,
-g) pkt 134 w zakresie dodawanych art. 184k–184m które wchodzą w życie z dniem 2 lipca 2024 r.;
-4a) art. 1 pkt 41 i pkt 53 lit. b w zakresie, w jakim dotyczy prosumenta wirtualnego energii odnawialnej, które wchodzą w życie z dniem 2 lipca 2025 r.;
-5) art. 1:
-a) pkt 63 lit. b i lit. c w zakresie dodawanego pkt 4a,
-b) pkt 69, 81 i 82,
-c) pkt 85, 87 i pkt 88 lit. a w zakresie dodawanych w tych przepisach wyrazów „art. 70h ust. 3 pkt 6” i wyrazów „art. 83h ust. 3 pkt 6 i 7”,
-d) pkt 86 w zakresie, w jakim dotyczy wytwórcy, który uzyskał wsparcie, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1, albo wygrał aukcję na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1,
-e) pkt 90 lit. f tiret drugie w zakresie, w jakim dotyczy aukcji na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1, i wsparcia, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1,
-f) pkt 91 lit. b, d, f i g w zakresie, w jakim dotyczą aukcji na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1, i wsparcia, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1,
-g) pkt 92, 93, pkt 129 lit. h i pkt 131 lit. e w zakresie, w jakim dotyczą wytwórcy, który uzyskał wsparcie, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1, albo wygrał aukcję na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1 które wchodzą w życie z dniem 1 lipca 2025 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 17 maja 1989 r.
-Prawo geodezyjne i kartograficzne
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -76,8 +41,8 @@ Prawo geodezyjne i kartograficzne
 
 3. Projekty osnów geodezyjnych są zatwierdzane przez:
 
-- **1)** Głównego Geodetę Kraju w porozumieniu z Ministrem Obrony Narodowej w zakresie osnów podstawowych;
-- **2)** starostów w zakresie osnów szczegółowych.
+- **1)** Głównego Geodetę Kraju w porozumieniu z Ministrem Obrony Narodowej – w zakresie osnów podstawowych;
+- **2)** starostów – w zakresie osnów szczegółowych.
 
 4. Przepisy ust. 1, 2 i ust. 3 pkt 1 stosuje się odpowiednio do osnów grawimetrycznych i magnetycznych.
 
@@ -93,7 +58,6 @@ Prawo geodezyjne i kartograficzne
 - **4)** państwowego rejestru granic i powierzchni jednostek podziałów terytorialnych kraju;
 - **5)** państwowego rejestru nazw geograficznych;
 - **6)** ewidencji miejscowości, ulic i adresów;
-- **7)** rejestru cen nieruchomości;
 - **8)** obiektów topograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:10 000–1:100 000, w tym kartograficznych opracowań numerycznego modelu rzeźby terenu;
 - **9)** obiektów ogólnogeograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:250 000 i mniejszych, w tym kartograficznych opracowań numerycznego modelu rzeźby terenu;
 - **10)** szczegółowych osnów geodezyjnych;
@@ -109,9 +73,7 @@ Prawo geodezyjne i kartograficzne
 - **1)** mapy ewidencyjne w skalach: 1:500, 1:1000, 1:2000, 1:5000;
 - **2)** mapy zasadnicze w skalach: 1:500, 1:1000, 1:2000, 1:5000;
 - **3)** mapy topograficzne w skalach: 1:10 000, 1:25 000, 1:50 000, 1:100 000;
-- **4)** mapy ogólnogeograficzne w skalach: 1:250 000, 1:500 000, 1:1 000 000.
-
-2. Dla terenów zamkniętych, zamiast mapy zasadniczej, sporządza się odrębne mapy zawierające w swojej treści również sieć podziemnego uzbrojenia terenu. Sporządzanie i aktualizowanie tych map oraz ustalanie granic terenów zamkniętych należy do właściwych ministrów i kierowników urzędów centralnych.
+- **4)** mapy ogólnogeograficzne w skalach: 1:250 000, 1:500 000, 1:1 000 000. mapy zawierające w swojej treści również sieć podziemnego uzbrojenia terenu. Sporządzanie i aktualizowanie tych map oraz ustalanie granic terenów zamkniętych należy do właściwych ministrów i kierowników urzędów centralnych.
 
 2a. Tereny zamknięte są ustalane przez właściwych ministrów i kierowników urzędów centralnych w drodze decyzji. W decyzji tej określane są również granice terenu zamkniętego. Dokumentacja geodezyjna określająca przebieg granic i powierzchnię terenu zamkniętego przekazywana jest przez organy wydające decyzje o zamknięciu terenu właściwym terytorialnie starostom w trybie art. 22.
 
@@ -129,11 +91,7 @@ Prawo geodezyjne i kartograficzne
 
 2. Organy Służby Geodezyjnej i Kartograficznej mogą, w drodze porozumień, tworzyć i utrzymywać wspólne elementy infrastruktury technicznej przeznaczonej do przechowywania i udostępniania zbiorów danych, o których mowa w art. 4 ust. 1a, mając na względzie minimalizację kosztów budowy i utrzymania tej infrastruktury oraz optymalizację dostępności do danych, ich bezpieczeństwa i jakości.
 
-3. Organy Służby Geodezyjnej i Kartograficznej współdziałają przy tworzeniu i utrzymywaniu krajowego systemu informacji o terenie.
-
-**Art. 5a.**
-
-1. W związku z przetwarzaniem przez Głównego Geodetę Kraju, marszałków województw, starostów albo prezydentów miast na prawach powiatu, wojewodów, organów i podmiotów tworzących i utrzymujących zintegrowany system informacji o nieruchomościach oraz wojewódzkich inspektorów nadzoru geodezyjnego i kartograficznego danych osobowych uzyskanych odpowiednio przy:
+3. Organy Służby Geodezyjnej i Kartograficznej współdziałają przy tworzeniu i utrzymywaniu krajowego systemu informacji o terenie. marszałków województw, starostów albo prezydentów miast na prawach powiatu, wojewodów, organów i podmiotów tworzących i utrzymujących zintegrowany system informacji o nieruchomościach oraz wojewódzkich inspektorów nadzoru geodezyjnego i kartograficznego danych osobowych uzyskanych odpowiednio przy:
 
 - **1)** prowadzeniu państwowego zasobu geodezyjnego i kartograficznego,
 - **2)** przechowywaniu kopii zabezpieczających baz danych, o którym mowa w art. 7b ust. 1 pkt 4,
@@ -142,11 +100,11 @@ Prawo geodezyjne i kartograficzne
 - **5)** prowadzeniu postępowań kontrolnych, o których mowa w art. 9,
 - **6)** wydawaniu dzienników praktyki zawodowej, o których mowa w art. 44b ust. 5, oraz prowadzeniu rejestrów wydanych dzienników praktyki zawodowej,
 - **7)** nadawaniu uprawnień zawodowych w dziedzinie geodezji i kartografii oraz prowadzeniu centralnego rejestru osób posiadających uprawnienia zawodowe w dziedzinie geodezji i kartografii,
-- **8)** prowadzeniu postępowań dyscyplinarnych prawo, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), w zakresie wystąpień zawierających dane osobowe osób trzecich, które nie skutkują wszczęciem postępowania administracyjnego, przysługuje w zakresie, w jakim nie ma wpływu na ochronę praw i wolności osób, od których dane pozyskano.
+- **8)** prowadzeniu postępowań dyscyplinarnych – prawo, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), w zakresie wystąpień zawierających dane osobowe osób trzecich, które nie skutkują wszczęciem postępowania administracyjnego, przysługuje w zakresie, w jakim nie ma wpływu na ochronę praw i wolności osób, od których dane pozyskano.
 
 2. Podmioty, o których mowa w ust. 1, informują o ograniczeniu, o którym mowa w ust. 1, przy pierwszej czynności skierowanej do osoby, której dane są przetwarzane.
 
-3. W przypadku gdy okres przechowywania danych osobowych, o których mowa w ust. 1, nie wynika z przepisów ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164) albo przepisów odrębnych, podmioty, o których mowa w ust. 1, przechowują dane przez okres ustalony zgodnie z przepisami wydanymi na podstawie art. 6 ust. 2 i 2b ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
+3. W przypadku gdy okres przechowywania danych osobowych, o których mowa w ust. 1, nie wynika z przepisów ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164) albo przepisów odrębnych, podmioty, o których mowa w ust. 1, przechowują dane przez okres ustalony zgodnie o narodowym zasobie archiwalnym i archiwach.
 
 4. Dane osobowe, o których mowa w ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazaniu polegającym co najmniej na:
 
@@ -177,7 +135,7 @@ Prawo geodezyjne i kartograficzne
 
 - **1)** organy nadzoru geodezyjnego i kartograficznego:
     - **a)** Główny Geodeta Kraju,
-    - **b)** wojewoda wykonujący zadania przy pomocy wojewódzkiego inspektora nadzoru geodezyjnego i kartograficznego jako kierownika inspekcji geodezyjnej i kartograficznej, wchodzącej w skład zespolonej administracji rządowej w województwie;
+    - **b)** wojewoda wykonujący zadania przy pomocy wojewódzkiego inspektora nadzoru geodezyjnego i kartograficznego jako kierownika inspekcji rządowej w województwie;
 
 - **2)** organy administracji geodezyjnej i kartograficznej:
     - **a)** marszałek województwa wykonujący zadania przy pomocy geodety województwa wchodzącego w skład urzędu marszałkowskiego,
@@ -189,7 +147,7 @@ Prawo geodezyjne i kartograficzne
 
 3. Zadania organów określonych w ust. 1 pkt 2 wykonywane są jako zadania z zakresu administracji rządowej.
 
-3a. Organ Służby Geodezyjnej i Kartograficznej prowadzący państwowy zasób geodezyjny i kartograficzny może upoważnić pracowników obsługujących ten organ do załatwiania spraw, do których nie stosuje się przepisów ustawy Kodeks postępowania administracyjnego, w jego imieniu w ustalonym zakresie, przy czym udzielenie upoważnienia przez organ administracji geodezyjnej i kartograficznej następuje na wniosek odpowiednio geodety województwa albo geodety powiatowego, wskazujący zakres upoważnienia i osobę, której ma zostać udzielone.
+3a. Organ Służby Geodezyjnej i Kartograficznej prowadzący państwowy zasób geodezyjny i kartograficzny może upoważnić pracowników obsługujących ten organ do załatwiania spraw, do których nie stosuje się przepisów ustawy – Kodeks postępowania administracyjnego, w jego imieniu w ustalonym zakresie, przy czym udzielenie upoważnienia przez organ administracji geodezyjnej i kartograficznej następuje na wniosek odpowiednio geodety województwa albo geodety powiatowego, wskazujący zakres upoważnienia i osobę, której ma zostać udzielone.
 
 4. Starosta na wniosek gminy powierza wójtowi (burmistrzowi, prezydentowi miasta), w drodze porozumienia, prowadzenie spraw należących do zakresu jego zadań i kompetencji, w tym wydawanie decyzji administracyjnych, po spełnieniu warunków, o których mowa w ust. 6.
 
@@ -199,7 +157,7 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 6b.**
 
-1. Głównego Geodetę Kraju powołuje, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, Prezes Rady Ministrów, na wniosek ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa. Prezes Rady Ministrów odwołuje Głównego Geodetę Kraju.
+1. Głównego Geodetę Kraju powołuje, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, Prezes Rady Ministrów, na wniosek przestrzennego oraz mieszkalnictwa. Prezes Rady Ministrów odwołuje Głównego Geodetę Kraju.
 
 2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, na wniosek Głównego Geodety Kraju, powołuje jego zastępców, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa odwołuje, na wniosek Głównego Geodety Kraju, jego zastępców.
 
@@ -223,9 +181,7 @@ Prawo geodezyjne i kartograficzne
 - **6)** termin i miejsce składania dokumentów;
 - **7)** informację o metodach i technikach naboru.
 
-5. Termin, o którym mowa w ust. 4 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
-
-6. Nabór na stanowisko Głównego Geodety Kraju przeprowadza zespół, powołany przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
+5. Termin, o którym mowa w ust. 4 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. powołany przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
 
 7. Ocena wiedzy i kompetencji kierowniczych, o których mowa w ust. 6, może być dokonana na zlecenie zespołu przez osobę niebędącą członkiem zespołu, która posiada odpowiednie kwalifikacje do dokonania tej oceny.
 
@@ -248,9 +204,7 @@ Prawo geodezyjne i kartograficzne
 - **2)** określenie stanowiska, na które był prowadzony nabór;
 - **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.
 
-12. Umieszczenie w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
-
-13. Zespół przeprowadzający nabór na stanowiska, o których mowa w ust. 2, powołuje Główny Geodeta Kraju.
+12. Umieszczenie w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne. powołuje Główny Geodeta Kraju.
 
 14. Do sposobu przeprowadzania naboru na stanowiska, o których mowa w ust. 2, stosuje się odpowiednio ust. 3–12.
 
@@ -273,8 +227,7 @@ Prawo geodezyjne i kartograficzne
 - **5)** (uchylony)
 - **6)** prowadzenie państwowego rejestru granic oraz powierzchni jednostek podziałów terytorialnych kraju;
 - **7)** sporządzanie map topograficznych i tematycznych kraju oraz mapy zasadniczej;
-- **8)** nadawanie, do czasu utworzenia odpowiednich samorządów zawodowych, uprawnień zawodowych w dziedzinie geodezji i kartografii, prowadzenie rejestru osób uprawnionych oraz współpraca z tymi samorządami zawodowymi;
-- **9)** współpraca z wyspecjalizowanymi w dziedzinie geodezji i kartografii organizacjami krajowymi, międzynarodowymi i regionalnymi oraz organami i urzędami innych krajów;
+- **8)** nadawanie, do czasu utworzenia odpowiednich samorządów zawodowych, uprawnień zawodowych w dziedzinie geodezji i kartografii, prowadzenie rejestru osób uprawnionych oraz współpraca z tymi samorządami zawodowymi; organizacjami krajowymi, międzynarodowymi i regionalnymi oraz organami i urzędami innych krajów;
 - **10)** inicjowanie prac naukowych i badawczo-rozwojowych w zakresie standardów organizacyjno-technicznych oraz zastosowania metod informatycznych, fotogrametrycznych i satelitarnych w dziedzinie geodezji i kartografii oraz w krajowym systemie informacji o terenie;
 - **11)** prowadzenie spraw związanych z ochroną informacji niejawnych w działalności geodezyjnej i kartograficznej;
 - **12)** przygotowanie organizacyjno-techniczne i wdrożenie katastru.
@@ -290,9 +243,9 @@ Prawo geodezyjne i kartograficzne
 - **3)** prowadzi centralny zasób geodezyjny i kartograficzny oraz dysponuje środkami Funduszu Gospodarki Zasobem Geodezyjnym i Kartograficznym;
 - **4)** zakłada podstawowe osnowy geodezyjne, grawimetryczne i magnetyczne i prowadzi w oparciu o bazę danych, o której mowa w art. 4 ust. 1a pkt 1, państwowy rejestr podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych;
 - **5)** inicjuje i koordynuje działania w zakresie tworzenia zintegrowanego systemu informacji o nieruchomościach oraz tworzy i utrzymuje, we współpracy z innymi organami administracji publicznej, infrastrukturę techniczną tego systemu;
-- **6)** zakłada i prowadzi, we współpracy z właściwymi organami administracji publicznej, bazę danych, o której mowa w art. 4 ust. 1a pkt 4, oraz prowadzi na podstawie tej bazy, państwowy rejestr granic i powierzchni jednostek podziałów terytorialnych kraju, zintegrowany z ewidencją gruntów i budynków oraz ewidencją miejscowości, ulic i adresów, umożliwiający gromadzenie, aktualizowanie i udostępnianie danych dotyczących:
+- **6)** zakłada i prowadzi, we współpracy z właściwymi organami administracji publicznej, bazę danych, o której mowa w art. 4 ust. 1a pkt 4, oraz prowadzi na podstawie tej bazy, państwowy rejestr granic i powierzchni jednostek podziałów ewidencją miejscowości, ulic i adresów, umożliwiający gromadzenie, aktualizowanie i udostępnianie danych dotyczących:
     - **a)** granic państwa,
-    - **b)** granic jednostek podziałów terytorialnych kraju, w tym w szczególności: zasadniczego trójstopniowego podziału terytorialnego państwa, podziału kraju na potrzeby ewidencji gruntów i budynków, podziału kraju na potrzeby statystyki publicznej, podziału kraju ze względu na właściwość miejscową sądów, podziału kraju ze względu na właściwość miejscową organów i jednostek organizacyjnych administracji specjalnej, w szczególności: archiwów państwowych, urzędów skarbowych, izb administracji skarbowej, nadleśnictw, regionalnych dyrekcji Lasów Państwowych, zarządów zlewni Państwowego Gospodarstwa Wodnego Wody Polskie, regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie, urzędów morskich,
+    - **b)** granic jednostek podziałów terytorialnych kraju, w tym w szczególności: – zasadniczego trójstopniowego podziału terytorialnego państwa, – podziału kraju na potrzeby ewidencji gruntów i budynków, [– podziału kraju na potrzeby statystyki publicznej,] – podziału kraju ze względu na właściwość miejscową sądów, – podziału kraju ze względu na właściwość miejscową organów i jednostek organizacyjnych administracji specjalnej, w szczególności: archiwów państwowych, urzędów skarbowych, izb administracji skarbowej, nadleśnictw, regionalnych dyrekcji Lasów Państwowych, zarządów zlewni Państwowego Gospodarstwa Wodnego Wody Polskie, regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie, urzędów morskich,
     - **c)** granic pasa nadbrzeżnego, granic portów i przystani morskich, morskiej linii brzegowej, linii podstawowej i granicy morza terytorialnego Rzeczypospolitej Polskiej,
     - **d)** pola powierzchni jednostek zasadniczego trójstopniowego podziału terytorialnego państwa, pola powierzchni obszarów morskich Rzeczypospolitej Polskiej oraz pola powierzchni jednostek podziału kraju na potrzeby ewidencji gruntów i budynków,
     - **e)** adresów i ich lokalizacji przestrzennej;
@@ -300,8 +253,7 @@ Prawo geodezyjne i kartograficzne
 - **7)** (uchylony)
 - **8)** współpracuje z wyspecjalizowanymi w dziedzinie geodezji i kartografii organizacjami międzynarodowymi, regionalnymi oraz organami i urzędami innych krajów;
 - **9)** inicjuje prace naukowe i badawczo-rozwojowe w zakresie standardów organizacyjno-technicznych oraz zastosowania metod informatycznych, fotogrametrycznych i satelitarnych w dziedzinie geodezji i kartografii oraz w krajowym systemie informacji o terenie;
-- **10)** nadaje uprawnienia zawodowe w dziedzinie geodezji i kartografii, prowadzi rejestr osób uprawnionych oraz współpracuje z samorządami i organizacjami zawodowymi geodetów i kartografów;
-- **11)** prowadzi sprawy związane z ochroną informacji niejawnych w działalności geodezyjnej i kartograficznej;
+- **10)** nadaje uprawnienia zawodowe w dziedzinie geodezji i kartografii, prowadzi rejestr osób uprawnionych oraz współpracuje z samorządami i organizacjami zawodowymi geodetów i kartografów; geodezyjnej i kartograficznej;
 - **12)** (uchylony)
 - **13)** koordynuje działania organów administracji publicznej oraz innych podmiotów realizujących zadania publiczne dotyczące baz danych, o których mowa w art. 4 ust. 1a, oraz standardowych opracowań kartograficznych, o których mowa w art. 4 ust. 1e, a także współdziała, na podstawie odrębnych porozumień, w zakresie merytorycznym i finansowym w ich realizacji;
 - **14)** tworzy, prowadzi i udostępnia:
@@ -316,11 +268,11 @@ Prawo geodezyjne i kartograficzne
     - **b)** polskojęzycznego brzmienia nazw obiektów geograficznych położonych poza granicami Rzeczypospolitej Polskiej;
 
 - **16)** (uchylony) 16a) zakłada i prowadzi dla obszaru kraju bazę danych geodezyjnej ewidencji sieci uzbrojenia terenu, o której mowa w art. 4 ust. 1a pkt 3, zwaną dalej „krajową bazą GESUT”;
-- **17)** opracowuje i przedkłada Radzie Ministrów, za pośrednictwem ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, projekty rządowych programów realizacji zadań z dziedziny geodezji i kartografii, a w szczególności w zakresie: modernizacji ewidencji gruntów i budynków (katastru nieruchomości), tworzenia baz danych obiektów topograficznych i ogólnogeograficznych wraz z numerycznymi modelami rzeźby terenu, opracowań tematycznych i specjalnych, zobrazowań lotniczych i satelitarnych oraz ortofotomapy i numerycznego modelu terenu;
+- **17)** opracowuje i przedkłada Radzie Ministrów, za pośrednictwem ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, projekty rządowych programów realizacji zadań z dziedziny geodezji i kartografii, a w szczególności w zakresie: modernizacji ewidencji gruntów i budynków (katastru nieruchomości), tworzenia baz danych obiektów topograficznych i ogólnogeograficznych wraz i specjalnych, zobrazowań lotniczych i satelitarnych oraz ortofotomapy i numerycznego modelu terenu;
 - **18)** tworzy system i program szkoleń w dziedzinie geodezji i kartografii oraz współdziała z ośrodkami naukowymi, badawczo-rozwojowymi i organizacjami zawodowymi w realizacji tych szkoleń;
 - **19)** utrzymuje i rozbudowuje infrastrukturę i systemy teleinformatyczne umożliwiające dostęp do danych przestrzennych centralnego zasobu geodezyjnego i kartograficznego oraz usług związanych z tymi danymi.
 
-2. Główny Geodeta Kraju oraz Minister Obrony Narodowej współdziałają przy realizacji zadań w zakresie geodezji i kartografii mających znaczenie dla obronności państwa, w tym przy tworzeniu standardowych opracowań kartograficznych w skalach: 1:25 000, 1:50 000, 1:100 000, 1:250 000, 1:500 000 oraz 1:1 000 000.
+2. Główny Geodeta Kraju oraz Minister Obrony Narodowej współdziałają przy realizacji zadań w zakresie geodezji i kartografii mających znaczenie dla obronności państwa, w tym przy tworzeniu standardowych opracowań kartograficznych w skalach: 1:25 000, 1:50 000, 1:100 000, 1:250 000, 1:500 000 oraz 1:1 000 000. <3. Główny Geodeta Kraju współdziała z Prezesem Głównego Urzędu Statystycznego przy wyjaśnianiu poprawności informacji gromadzonych w rejestrze TERYT w rozumieniu art. 2 pkt 12b ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792) w zakresie rejestrów, o których mowa w art. 4 ust. 1a pkt 4 i 5.>
 
 **Art. 7b.**
 
@@ -334,10 +286,7 @@ Prawo geodezyjne i kartograficzne
 - **3)** współdziała z Głównym Geodetą Kraju oraz organami kontroli państwowej w zakresie właściwości nadzoru geodezyjnego i kartograficznego;
 - **4)** przechowuje kopie zabezpieczające baz danych, w szczególności bazy danych ewidencji gruntów i budynków;
 - **5)** (uchylony)
-- **6)** na wniosek starosty wyraża opinię o przygotowaniu gminy do przejęcia zadań w trybie art. 6a ust. 4.
-
-2. W rozumieniu Kodeksu postępowania administracyjnego wojewódzki inspektor nadzoru geodezyjnego i kartograficznego jest organem:
-
+- **6)** na wniosek starosty wyraża opinię o przygotowaniu gminy do przejęcia zadań w trybie art. 6a ust. 4. inspektor nadzoru geodezyjnego i kartograficznego jest organem:
 - **1)** pierwszej instancji w sprawach określonych w ustawie;
 - **2)** wyższego stopnia w stosunku do organów administracji geodezyjnej i kartograficznej.
 
@@ -360,8 +309,17 @@ Prawo geodezyjne i kartograficzne
 
 - **1)** aktualizacji bazy danych, o której mowa w art. 4 ust. 1a pkt 8;
 - **2)** tworzenia standardowych opracowań kartograficznych w skali 1:10 000, o których mowa w art. 4 ust. 1e pkt 3.
+- **1)** prowadzenie powiatowego zasobu geodezyjnego i kartograficznego, w tym:
+    - **a)** prowadzenie dla obszaru powiatu: – ewidencji gruntów i budynków, w tym bazy danych, o której mowa w art. 4 ust. 1a pkt 2, – geodezyjnej ewidencji sieci uzbrojenia terenu, w tym bazy danych, o której mowa w art. 4 ust. 1a pkt 3, zwanej dalej „powiatową bazą GESUT”, – gleboznawczej klasyfikacji gruntów,
+    - **b)** tworzenie, prowadzenie i udostępnianie dla obszaru powiatu baz danych, o których mowa w art. 4 ust. 1a pkt 7, 10 i 12,
+    - **c)** tworzenie i udostępnianie dla obszaru powiatu standardowych opracowań kartograficznych, co najmniej w jednej ze skal, o których mowa w art. 4 ust. 1e pkt 1 i 2;
 
-**Art. 7d.** Do zadań starosty należy w szczególności:
+- **2)** koordynacja usytuowania projektowanych sieci uzbrojenia terenu;
+- **3)** zakładanie osnów szczegółowych;
+- **4)** (uchylony)
+- **5)** przeprowadzanie powszechnej taksacji nieruchomości oraz opracowywanie i prowadzenie map i tabel taksacyjnych dotyczących nieruchomości;
+- **6)** ochrona znaków geodezyjnych, grawimetrycznych i magnetycznych.
+- **7)** (uchylony)
 
 **Art. 7e.** Służba Geodezyjna i Kartograficzna współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych.
 
@@ -374,7 +332,7 @@ Prawo geodezyjne i kartograficzne
 
 2. Główny Geodeta Kraju określa skład osobowy Rady i Komisji, o których mowa w ust. 1 i 3.
 
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, tryb i zakres działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej oraz zasady wynagradzania ich członków, mając na uwadze konieczność zapewnienia odpowiedniego poziomu przedstawianych Głównemu Geodecie Kraju opracowań i opinii.
+3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, tryb i zakres działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji wynagradzania ich członków, mając na uwadze konieczność zapewnienia odpowiedniego poziomu przedstawianych Głównemu Geodecie Kraju opracowań i opinii.
 
 **Art. 9.**
 
@@ -390,14 +348,13 @@ Prawo geodezyjne i kartograficzne
 
 6. Okresowy plan kontroli, o którym mowa w art. 12 ust. 1 ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej, opracowany przez wojewódzkiego inspektora nadzoru geodezyjnego i kartograficznego, przed jego zatwierdzeniem przez wojewodę, podlega uzgodnieniu z Głównym Geodetą Kraju.
 
-7. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236).
+7. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236).
 
 8. Kontrola działalności przedsiębiorcy oraz jednostki organizacyjnej, w zakresie wykonywania prac geodezyjnych, może dotyczyć:
 
 - **1)** zgłaszania prac geodezyjnych;
 - **2)** przekazywania do państwowego zasobu geodezyjnego i kartograficznego wyników prac geodezyjnych;
 - **3)** przestrzegania przepisów dotyczących wykonywania samodzielnych funkcji w zakresie geodezji i kartografii;
-- **4)** rzetelności wykonywania prac geodezyjnych.
 
 9. Z wyników kontroli, o której mowa w ust. 7, osoby kontrolujące sporządzają i podpisują protokół w dwóch jednobrzmiących egzemplarzach.
 
@@ -409,13 +366,13 @@ Prawo geodezyjne i kartograficzne
 - **4)** przedmiot, zakres kontroli oraz okres objęty kontrolą;
 - **5)** imiona i nazwiska osób kontrolujących oraz datę i numer upoważnienia do przeprowadzenia kontroli;
 - **6)** opis stanu faktycznego ze wskazaniem dokumentacji wykorzystanej podczas kontroli;
-- **7)** ustalone nieprawidłowości jeżeli zostały stwierdzone;
+- **7)** ustalone nieprawidłowości – jeżeli zostały stwierdzone;
 - **8)** wnioski z kontroli;
 - **9)** spis załączników do protokołu;
 - **10)** datę i miejscowość podpisania protokołu;
 - **11)** pouczenie przedsiębiorcy o prawie do złożenia zastrzeżeń do protokołu;
-- **12)** informację o wynikach rozpatrzenia przez organ przeprowadzający kontrolę złożonych przez przedsiębiorcę zastrzeżeń do protokołu jeżeli zostały złożone;
-- **13)** wzmiankę o odmowie podpisania protokołu przez przedsiębiorcę jeżeli została stwierdzona.
+- **12)** informację o wynikach rozpatrzenia przez organ przeprowadzający kontrolę złożonych przez przedsiębiorcę zastrzeżeń do protokołu – jeżeli zostały złożone;
+- **13)** wzmiankę o odmowie podpisania protokołu przez przedsiębiorcę – jeżeli została stwierdzona.
 
 11. Przedsiębiorca przed podpisaniem protokołu kontroli może zgłosić do organu przeprowadzającego kontrolę pisemne zastrzeżenia w terminie 7 dni od dnia jego otrzymania.
 
@@ -425,7 +382,7 @@ Prawo geodezyjne i kartograficzne
 
 14. Przedsiębiorca podpisuje skorygowany protokół kontroli w terminie 7 dni od dnia jego doręczenia. Niepodpisanie skorygowanego protokołu we wskazanym terminie oznacza odmowę jego podpisania.
 
-**Art. 9a.** Rada Ministrów określi, w drodze rozporządzenia, rodzaje kartograficznych opracowań tematycznych i specjalnych, których wykonywanie i udostępnianie należy do obowiązków Głównego Geodety Kraju oraz organizację i tryb współdziałania z Głównym Geodetą Kraju innych organów administracji publicznej przy realizacji tych zadań, mając na względzie potrzeby państwa i obywateli, a także odpowiednie wykorzystanie informacji zgromadzonych przez organy administracji publicznej.
+**Art. 9a.** Rada Ministrów określi, w drodze rozporządzenia, rodzaje kartograficznych opracowań tematycznych i specjalnych, których wykonywanie i udostępnianie należy do obowiązków Głównego Geodety Kraju oraz organizację i tryb współdziałania z Głównym Geodetą Kraju innych organów administracji i obywateli, a także odpowiednie wykorzystanie informacji zgromadzonych przez organy administracji publicznej.
 
 **Art. 10.**
 
@@ -441,9 +398,7 @@ Prawo geodezyjne i kartograficzne
 
 5. (uchylony)
 
-6. Do jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, wykonujących prace geodezyjne lub prace kartograficzne, oraz innych wykonawców działających na zlecenie tych jednostek nie stosuje się przepisów art. 6, art. 7 ust. 1, art. 9, art. 12–12b, art. 12c ust. 1, art. 12d, art. 19 ust. 2, art. 42–46w, art. 49 i art. 50 ust. 2.
-
-#### Rozdział 3 Prace geodezyjne i kartograficzne
+6. Do jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, wykonujących prace geodezyjne lub prace kartograficzne, oraz innych wykonawców działających na zlecenie tych jednostek nie stosuje się przepisów art. 6, art. 7 ust. 1, art. 9, art. 12–12b, art. 12c ust. 1, art. 12d, art. 19 ust. 2, art. 42–46w, art. 49 i art. 50 ust. 2. Prace geodezyjne i kartograficzne
 
 **Art. 11.**
 
@@ -473,8 +428,7 @@ Prawo geodezyjne i kartograficzne
     - **g)** sporządzenie projektu scalenia i podziału nieruchomości,
     - **h)** sporządzenie innej niż wymienione w lit. f oraz g mapy do celów prawnych,
     - **i)** sporządzenie mapy do celów projektowych,
-    - **j)** sporządzenie projektu scalenia lub wymiany gruntów,
-    - **k)** sporządzenie dokumentacji geodezyjnej na potrzeby rozgraniczenia nieruchomości,
+    - **j)** sporządzenie projektu scalenia lub wymiany gruntów, nieruchomości,
     - **l)** wykonanie innych niż wymienione w lit. b, c oraz f–k czynności lub dokumentacji geodezyjnej w postaci map, rejestrów lub wykazów, których wykonanie może skutkować zmianą w bazach danych, o których mowa w art. 4 ust. 1a pkt 2, 3, 10 lub 12, z wyjątkiem prac wykonywanych na zamówienie organu Służby Geodezyjnej i Kartograficznej.
 
 1a. Zgłoszenie prac geodezyjnych, zwane dalej „zgłoszeniem prac”, może nastąpić po ich rozpoczęciu, jednak nie później niż w terminie 5 dni roboczych od dnia rozpoczęcia tych prac.
@@ -498,8 +452,7 @@ Prawo geodezyjne i kartograficzne
 
 2c. W trakcie wykonywania prac geodezyjnych dopuszcza się uzupełnianie zgłoszenia prac przez:
 
-- **1)** zwiększenie obszaru objętego tym zgłoszeniem o obszar bezpośrednio do niego przyległy;
-- **2)** wydłużenie przewidywanego terminu przekazania do organu Służby Geodezyjnej i Kartograficznej zbiorów danych lub dokumentów, o których mowa w art. 12a ust. 1;
+- **1)** zwiększenie obszaru objętego tym zgłoszeniem o obszar bezpośrednio do niego przyległy; Geodezyjnej i Kartograficznej zbiorów danych lub dokumentów, o których mowa w art. 12a ust. 1;
 - **3)** zmianę kierownika zgłoszonych prac geodezyjnych;
 - **4)** zgłoszenie wznowienia znaków granicznych, wyznaczenia punktów granicznych lub ustalenia przebiegu granic działek ewidencyjnych, o ile prace te są niezbędne do realizacji celu zgłoszonych prac geodezyjnych.
 
@@ -511,9 +464,7 @@ Prawo geodezyjne i kartograficzne
 
 4. Termin określony w ust. 3 ma zastosowanie również do udostępnienia materiałów zasobu w związku z uzupełnieniem zgłoszenia prac. W przypadku braku konieczności uiszczenia opłaty, o której mowa w art. 40a ust. 1, termin określony w ust. 3 jest liczony od dnia otrzymania przez organ Służby Geodezyjnej i Kartograficznej uzupełnienia zgłoszenia prac.
 
-5. Z inicjatywy wykonawcy prac geodezyjnych, na etapie zgłoszenia prac lub jego uzupełnienia, organ Służby Geodezyjnej i Kartograficznej i wykonawca mogą uzgodnić zakres materiałów zasobu niezbędnych lub przydatnych do wykonania tych prac lub inny niż określony w ust. 3 termin udostępnienia tych materiałów.
-
-6. Na pisemne wystąpienie wykonawcy prac geodezyjnych złożone w trakcie wykonywania zgłoszonych prac organ Służby Geodezyjnej i Kartograficznej udostępnia wskazane w tym wystąpieniu dodatkowe materiały zasobu niezbędne lub przydatne do wykonania tych prac. Udostępnianie dodatkowych materiałów zasobu następuje niezwłocznie, nie później niż w terminie 5 dni roboczych od dnia otrzymania wystąpienia.
+5. Z inicjatywy wykonawcy prac geodezyjnych, na etapie zgłoszenia prac lub jego uzupełnienia, organ Służby Geodezyjnej i Kartograficznej i wykonawca mogą uzgodnić zakres materiałów zasobu niezbędnych lub przydatnych do wykonania tych prac lub inny niż określony w ust. 3 termin udostępnienia tych materiałów. wykonywania zgłoszonych prac organ Służby Geodezyjnej i Kartograficznej udostępnia wskazane w tym wystąpieniu dodatkowe materiały zasobu niezbędne lub przydatne do wykonania tych prac. Udostępnianie dodatkowych materiałów zasobu następuje niezwłocznie, nie później niż w terminie 5 dni roboczych od dnia otrzymania wystąpienia.
 
 7. Organ Służby Geodezyjnej i Kartograficznej, który otrzymał zgłoszenie prac, przekazuje wykonawcy zgłoszonych prac geodezyjnych, razem z udostępnianymi materiałami zasobu, informację o innych zgłoszonych pracach geodezyjnych wykonywanych na obszarze objętym tym zgłoszeniem.
 
@@ -530,9 +481,7 @@ Prawo geodezyjne i kartograficzne
 
 1a. Organ Służby Geodezyjnej i Kartograficznej i wykonawca prac geodezyjnych mogą, na etapie zgłoszenia prac lub jego uzupełnienia, uzgodnić harmonogram i zakres częściowego przekazywania wyników zgłoszonych prac geodezyjnych.
 
-1b. Niezłożenie zawiadomienia o przekazaniu wyników zgłoszonych prac geodezyjnych i nieprzekazanie tych wyników zgłoszonych prac geodezyjnych przed upływem przewidywanego terminu ich przekazania do organu Służby Geodezyjnej i Kartograficznej jest równoznaczne z zaniechaniem wykonywania tych prac. W przypadku gdy wykonawca prac geodezyjnych pisemnie zawiadomi organ Służby Geodezyjnej i Kartograficznej o zaniechaniu ich wykonania, przepisu ust. 1 nie stosuje się.
-
-1c. Ponowne podjęcie zaniechanych prac geodezyjnych wymaga dokonania nowego zgłoszenia prac.
+1b. Niezłożenie zawiadomienia o przekazaniu wyników zgłoszonych prac geodezyjnych i nieprzekazanie tych wyników zgłoszonych prac geodezyjnych przed upływem przewidywanego terminu ich przekazania do organu Służby Geodezyjnej i Kartograficznej jest równoznaczne z zaniechaniem wykonywania tych prac. W przypadku gdy wykonawca prac geodezyjnych pisemnie zawiadomi organ Służby Geodezyjnej i Kartograficznej o zaniechaniu ich wykonania, przepisu ust. 1 nie stosuje się. nowego zgłoszenia prac.
 
 2. Wykonawca prac geodezyjnych przekazuje właściwemu organowi Służby Geodezyjnej i Kartograficznej wyniki wykonanych na zamówienie podmiotów publicznych, o których mowa w art. 2 ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307), lub wykonanych na zamówienie podmiotu, któremu podmiot publiczny powierzył lub zlecił realizację zadania publicznego, i sfinansowanych ze środków publicznych następujących prac geodezyjnych:
 
@@ -552,13 +501,13 @@ Prawo geodezyjne i kartograficzne
 
 1a. Weryfikacja jest dokonywana niezwłocznie, a w przypadku prac, o których mowa w art. 12 ust. 1 pkt 3, dla obszaru objętego zgłoszeniem prac:
 
-- **1)** do 1 ha nie później niż w terminie 7 dni roboczych,
-- **2)** powyżej 1 ha do 10 ha nie później niż w terminie 10 dni roboczych,
-- **3)** powyżej 10 ha nie później niż w terminie 20 dni roboczych od dnia otrzymania przez organ Służby Geodezyjnej i Kartograficznej zawiadomienia o przekazaniu wyników zgłoszonych prac.
+- **1)** do 1 ha – nie później niż w terminie 7 dni roboczych,
+- **2)** powyżej 1 ha do 10 ha – nie później niż w terminie 10 dni roboczych,
+- **3)** powyżej 10 ha – nie później niż w terminie 20 dni roboczych – od dnia otrzymania przez organ Służby Geodezyjnej i Kartograficznej zawiadomienia o przekazaniu wyników zgłoszonych prac.
 
 1b. Do terminów, o których mowa w ust. 1a, nie wlicza się okresów opóźnień spowodowanych z przyczyn niezależnych od organu.
 
-2. Weryfikacji nie podlegają zbiory danych lub inne materiały stanowiące wynik prac geodezyjnych lub prac kartograficznych wykonanych w związku z realizacją zamówienia publicznego przez Głównego Geodetę Kraju lub organy administracji geodezyjnej i kartograficznej, a także przez inne podmioty działające z upoważnienia tych organów.
+2. Weryfikacji nie podlegają zbiory danych lub inne materiały stanowiące wynik prac geodezyjnych lub prac kartograficznych wykonanych w związku z realizacją zamówienia publicznego przez Głównego Geodetę Kraju lub organy administracji tych organów.
 
 3. Wyniki weryfikacji utrwala się w protokole. Wynik weryfikacji może być pozytywny albo negatywny.
 
@@ -572,7 +521,7 @@ Prawo geodezyjne i kartograficzne
 
 5b. Oświadczenie, o którym mowa w ust. 5a, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-5c. Treść oświadczenia, o którym mowa w ust. 5a, zawiera dane identyfikujące zgłoszenie prac, w tym nazwę organu Służby Geodezyjnej i Kartograficznej, który otrzymał zgłoszenie prac, wykonawcę prac geodezyjnych, numer uprawnień zawodowych kierownika prac geodezyjnych, a także numer oraz datę wystawienia protokołu.
+5c. Treść oświadczenia, o którym mowa w ust. 5a, zawiera dane identyfikujące zgłoszenie prac, w tym nazwę organu Służby Geodezyjnej i Kartograficznej, który zawodowych kierownika prac geodezyjnych, a także numer oraz datę wystawienia protokołu.
 
 6. W przypadku negatywnego wyniku weryfikacji organ Służby Geodezyjnej i Kartograficznej zwraca wykonawcy prac geodezyjnych przekazane przez niego wyniki zgłoszonych prac wraz z protokołem zawierającym opis stwierdzonych uchybień i nieprawidłowości.
 
@@ -591,13 +540,13 @@ Prawo geodezyjne i kartograficzne
 1. Obowiązek dokonania zgłoszenia prac oraz przekazania wyników zgłoszonych prac geodezyjnych do organu Służby Geodezyjnej i Kartograficznej nie obejmuje prac geodezyjnych dotyczących:
 
 - **1)** terenów zamkniętych, jeżeli przedmiotem tych prac nie są obiekty objęte ewidencją gruntów i budynków;
-- **2)** zobrazowań lotniczych, ortofotomapy lub numerycznego modelu terenu, a także map tematycznych i specjalnych wykonywanych na zamówienie innych podmiotów niż podmioty, o których mowa w art. 2 ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **2)** zobrazowań lotniczych, ortofotomapy lub numerycznego modelu terenu, a także map tematycznych i specjalnych wykonywanych na zamówienie innych 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
 - **3)** tyczenia budynków lub sieci uzbrojenia terenu.
 
 2. (uchylony) Art. 12ca. Do aktualizacji przez:
 
 - **1)** marszałka województwa bazy danych, o której mowa w art. 4 ust. 1a pkt 8,
-- **2)** Głównego Geodetę Kraju baz danych, o których mowa w art. 4 ust. 1a pkt 1, 4, 5, 9 i 11 nierealizowanej jako przedmiot zamówienia publicznego nie stosuje się przepisów art. 11–12b i art. 42–46w.
+- **2)** Głównego Geodetę Kraju baz danych, o których mowa w art. 4 ust. 1a pkt 1, 4, 5, 9 i 11 – nierealizowanej jako przedmiot zamówienia publicznego nie stosuje się przepisów art. 11–12b i art. 42–46w.
 
 **Art. 12d.**
 
@@ -606,7 +555,7 @@ Prawo geodezyjne i kartograficzne
 - **1)** wzór zgłoszenia prac geodezyjnych,
 - **2)** (uchylony)
 - **3)** wzór zawiadomienia o przekazaniu wyników zgłoszonych prac,
-- **4)** wzór protokołu weryfikacji wyników zgłoszonych prac geodezyjnych mając na względzie zapewnienie jednolitości informacji o planowanych i wykonywanych pracach geodezyjnych, jak również zapewnienie wysokiej jakości i kompletności danych i materiałów przekazywanych do państwowego zasobu geodezyjnego i kartograficznego oraz szczególne znaczenie zbiorów danych gromadzonych w państwowym zasobie geodezyjnym i kartograficznym.
+- **4)** wzór protokołu weryfikacji wyników zgłoszonych prac geodezyjnych – mając na względzie zapewnienie jednolitości informacji o planowanych i wykonywanych pracach geodezyjnych, jak również zapewnienie wysokiej jakości i kompletności danych i materiałów przekazywanych do państwowego zasobu geodezyjnego i kartograficznego oraz szczególne znaczenie zbiorów danych gromadzonych w państwowym zasobie geodezyjnym i kartograficznym.
 
 2. (uchylony)
 
@@ -618,9 +567,6 @@ Prawo geodezyjne i kartograficzne
 - **2)** dokonywania przecinek drzew i krzewów, niezbędnych do wykonania prac geodezyjnych;
 - **3)** nieodpłatnego umieszczania na gruntach i obiektach budowlanych znaków geodezyjnych, grawimetrycznych i magnetycznych oraz urządzeń zabezpieczających te znaki;
 - **4)** umieszczania na gruntach i obiektach budowlanych budowli triangulacyjnych.
-
-2. Uprawnienia, o których mowa w ust. 1, nie naruszają:
-
 - **1)** przepisów o ochronie zabytków i opiece nad zabytkami, o ochronie środowiska, o lasach i o drogach publicznych;
 - **2)** przywilejów i immunitetów przysługujących obcym przedstawicielstwom dyplomatycznym, misjom specjalnym i urzędom konsularnym, a także członkom ich personelu oraz innym osobom korzystającym z przywilejów i immunitetów na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych.
 
@@ -645,9 +591,11 @@ Prawo geodezyjne i kartograficzne
 
 1. Szkody wyrządzone w związku z wykonywaniem prac geodezyjnych i kartograficznych podlegają naprawieniu na zasadach prawa cywilnego.
 
-2. W razie ograniczenia korzystania z nieruchomości przy wykonywaniu czynności określonych w art. 13 ust. 1 pkt 3 i 4, właścicielowi lub innej osobie władającej nieruchomością przysługuje wynagrodzenie.
+2. W razie ograniczenia korzystania z nieruchomości przy wykonywaniu czynności określonych w art. 13 ust. 1 pkt 3 i 4, właścicielowi lub innej osobie władającej nieruchomością przysługuje wynagrodzenie. i zagospodarowania przestrzennego oraz mieszkalnictwa, w porozumieniu z ministrem właściwym do spraw zagranicznych, ustala, w drodze rozporządzenia, sposób przedstawiania na mapach przedmiotów sporów międzynarodowych, uwzględniając na mapach:
 
-**Art. 17.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w porozumieniu z ministrem właściwym do spraw zagranicznych, ustala, w drodze rozporządzenia, sposób przedstawiania na mapach przedmiotów sporów międzynarodowych, uwzględniając na mapach:
+- **1)** sporne terytoria państwa lub ich części, terytoria okupowane, terytoria i granice pomiędzy państwami ościennymi;
+- **2)** granice polityczne będące liniami demarkacyjnymi;
+- **3)** nazewnictwo niektórych terytoriów spornych.
 
 **Art. 18.** (uchylony)
 
@@ -660,12 +608,11 @@ Prawo geodezyjne i kartograficzne
 - **3)** w porozumieniu z Ministrem Obrony Narodowej, rodzaje prac geodezyjnych i kartograficznych mających znaczenie dla obronności i bezpieczeństwa państwa oraz sposób współdziałania Głównego Geodety Kraju z Ministrem Obrony Narodowej w zakresie wykonania tych prac, a także wzajemnego przekazywania materiałów, uwzględniając potrzeby obronności i bezpieczeństwa państwa oraz potrzeby administracji publicznej;
 - **4)** (uchylony)
 - **5)** (uchylony)
-- **6)** organizację, tryb i standardy techniczne zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych, szczegółowy zakres informacji gromadzonych w bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz w bazie danych szczegółowych osnów geodezyjnych, a także standardy techniczne dotyczące tworzenia tych baz, ich aktualizacji i udostępniania, mając na uwadze ich referencyjne znaczenie dla infrastruktury informacji przestrzennej oraz harmonizację zbiorów danych tych baz z innymi zbiorami danych, o których mowa w art. 4 ust. 1a;
+- **6)** organizację, tryb i standardy techniczne zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych, szczegółowy zakres informacji gromadzonych w bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz w bazie danych szczegółowych osnów geodezyjnych, a także standardy techniczne dotyczące tworzenia tych baz, ich aktualizacji i udostępniania, mając na uwadze ich referencyjne znaczenie dla infrastruktury informacji przestrzennej oraz mowa w art. 4 ust. 1a;
 - **7)** zakres informacji gromadzonych w bazie danych obiektów topograficznych, o której mowa w art. 4 ust. 1a pkt 12, organizację, tryb i standardy techniczne tworzenia tej bazy, jej aktualizacji i udostępniania, a także tworzenia mapy zasadniczej, o której mowa w art. 4 ust. 1e pkt 2, mając na uwadze podstawowe znaczenie tej bazy i mapy zasadniczej dla infrastruktury informacji przestrzennej, zasadę interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej, a także konieczność harmonizacji zbiorów danych tej bazy z innymi zbiorami danych, o których mowa w art. 4 ust. 1a;
 - **8)** zakres informacji gromadzonych w bazie danych państwowego rejestru nazw geograficznych, organizację, tryb i standardy techniczne jego tworzenia, aktualizacji i okresowej weryfikacji, a także udostępniania jego danych, mając na uwadze podstawowe znaczenie tego rejestru dla infrastruktury informacji przestrzennej oraz zasadę interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej, a także konieczność harmonizacji zbiorów danych tego rejestru z innymi zbiorami danych, o których mowa w art. 4 ust. 1a;
 - **9)** zakres informacji gromadzonych w bazie danych obiektów topograficznych oraz bazie danych obiektów ogólnogeograficznych, o których mowa w art. 4 ust. 1a pkt 8 i 9, organizację, tryb i standardy techniczne tworzenia tych baz, ich aktualizacji i udostępniania, a także tworzenia standardowych opracowań kartograficznych, o których mowa w art. 4 ust. 1e pkt 3 i 4, mając na uwadze podstawowe znaczenie tych baz i opracowań dla infrastruktury informacji przestrzennej oraz zasadę interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej, a także konieczność harmonizacji zbiorów danych tych baz ze zbiorami danych, o których mowa w art. 4 ust. 1a;
-- **10)** zakres informacji gromadzonych w bazach danych dotyczących zobrazowań lotniczych i satelitarnych oraz ortofotomapy i numerycznego modelu terenu, organizację, tryb i standardy techniczne tworzenia, aktualizacji i udostępniania tych baz, mając na uwadze ich znaczenie dla infrastruktury informacji przestrzennej oraz zasadę interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej, a także ich referencyjny charakter w stosunku do innych zbiorów, o których mowa w art. 4 ust. 1a;
-- **11)** standardy techniczne wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego na potrzeby: ewidencji gruntów i budynków, geodezyjnej ewidencji sieci uzbrojenia terenu, podziałów nieruchomości, typowych postępowań sądowych i administracyjnych, zagospodarowania przestrzennego, budownictwa, w tym geodezyjnej obsługi inwestycji budowlanych, mając na celu zapewnienie jednolitości i spójności opracowań geodezyjnych i kartograficznych, usprawnienie, w tym automatyzację, procesów zakładania i aktualizacji baz danych, o których mowa w art. 4 ust. 1a, oraz harmonijność i interoperacyjność zawartych w nich zbiorów danych.
+- **10)** zakres informacji gromadzonych w bazach danych dotyczących zobrazowań lotniczych i satelitarnych oraz ortofotomapy i numerycznego modelu terenu, organizację, tryb i standardy techniczne tworzenia, aktualizacji i udostępniania tych baz, mając na uwadze ich znaczenie dla infrastruktury informacji przestrzennej oraz zasadę interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej, a także ich referencyjny charakter w stosunku do innych zbiorów, o których mowa w art. 4 ust. 1a; i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego na potrzeby: ewidencji gruntów i budynków, geodezyjnej ewidencji sieci uzbrojenia terenu, podziałów nieruchomości, typowych postępowań sądowych i administracyjnych, zagospodarowania przestrzennego, budownictwa, w tym geodezyjnej obsługi inwestycji budowlanych, mając na celu zapewnienie jednolitości i spójności opracowań geodezyjnych i kartograficznych, usprawnienie, w tym automatyzację, procesów zakładania i aktualizacji baz danych, o których mowa w art. 4 ust. 1a, oraz harmonijność i interoperacyjność zawartych w nich zbiorów danych.
 
 1a. Rada Ministrów określi, w drodze rozporządzenia, zakres informacji gromadzonych w bazie danych państwowego rejestru granic i powierzchni jednostek podziałów terytorialnych kraju, organizację, tryb i standardy techniczne tworzenia, aktualizacji i okresowej weryfikacji tego rejestru, w tym tryb przekazywania Głównemu Geodecie Kraju przez inne organy administracji publicznej informacji i zbiorów danych niezbędnych do tworzenia i aktualizacji rejestru, a także tryb udostępniania danych z rejestru, mając na uwadze podstawowe znaczenie tego rejestru dla infrastruktury informacji przestrzennej oraz zasadę interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej, a także konieczność harmonizacji zbiorów danych tego rejestru z innymi zbiorami danych, o których mowa w art. 4 ust. 1a.
 
@@ -677,15 +624,14 @@ Prawo geodezyjne i kartograficzne
 
 1. Ewidencja gruntów i budynków obejmuje informacje dotyczące:
 
-- **1)** gruntów ich położenia, granic, powierzchni, rodzajów użytków gruntowych oraz ich klas bonitacyjnych, oznaczenia ksiąg wieczystych lub zbiorów dokumentów, jeżeli zostały założone dla nieruchomości, w skład której wchodzą grunty;
-- **2)** budynków ich położenia, przeznaczenia, funkcji użytkowych i ogólnych danych technicznych;
-- **3)** lokali ich położenia, funkcji użytkowych oraz powierzchni użytkowej.
+- **1)** gruntów – ich położenia, granic, powierzchni, rodzajów użytków gruntowych oraz ich klas bonitacyjnych, oznaczenia ksiąg wieczystych lub zbiorów dokumentów, jeżeli zostały założone dla nieruchomości, w skład której wchodzą grunty; danych technicznych;
+- **3)** lokali – ich położenia, funkcji użytkowych oraz powierzchni użytkowej.
 
 2. W ewidencji gruntów i budynków wykazuje się także:
 
 - **1)** właścicieli nieruchomości, a w przypadku:
-    - **a)** nieruchomości Skarbu Państwa lub jednostek samorządu terytorialnego oprócz właścicieli inne podmioty, w których władaniu lub gospodarowaniu, w rozumieniu przepisów o gospodarowaniu nieruchomościami Skarbu Państwa, znajdują się te nieruchomości,
-    - **b)** gruntów, dla których ze względu na brak księgi wieczystej, zbioru dokumentów albo innych dokumentów nie można ustalić ich właścicieli osoby lub inne podmioty, które władają tymi gruntami na zasadach samoistnego posiadania;
+    - **a)** nieruchomości Skarbu Państwa lub jednostek samorządu terytorialnego – oprócz właścicieli inne podmioty, w których władaniu lub gospodarowaniu, w rozumieniu przepisów o gospodarowaniu nieruchomościami Skarbu Państwa, znajdują się te nieruchomości,
+    - **b)** gruntów, dla których ze względu na brak księgi wieczystej, zbioru dokumentów albo innych dokumentów nie można ustalić ich właścicieli – osoby lub inne podmioty, które władają tymi gruntami na zasadach samoistnego posiadania;
 
 - **2)** miejsce pobytu stałego lub adres siedziby podmiotów, o których mowa w pkt 1.
 - **3)** (uchylony)
@@ -699,9 +645,7 @@ Prawo geodezyjne i kartograficzne
 
 3a. Ewidencję gruntów i budynków, w części dotyczącej lasów, prowadzi się z uwzględnieniem przepisów o lasach.
 
-3b. Przepisu ust. 3 nie stosuje się do gruntów leśnych stanowiących własność Skarbu Państwa zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe, z wyjątkiem gruntów leśnych o powierzchni do 10 ha znajdujących się w enklawach i półenklawach wśród gruntów o innej formie własności.
-
-4. Rada Ministrów może rozszerzyć, w drodze rozporządzenia, zakres informacji objętych ewidencją gruntów i budynków, uwzględniając zadania administracji publicznej.
+3b. Przepisu ust. 3 nie stosuje się do gruntów leśnych stanowiących własność Skarbu Państwa zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe, z wyjątkiem gruntów leśnych o powierzchni do 10 ha znajdujących się w enklawach i półenklawach wśród gruntów o innej formie własności. objętych ewidencją gruntów i budynków, uwzględniając zadania administracji publicznej.
 
 **Art. 21.**
 
@@ -718,16 +662,14 @@ Prawo geodezyjne i kartograficzne
 3. Jeżeli uzyskanie danych niezbędnych do aktualizacji bazy danych ewidencji gruntów i budynków nie jest możliwe w inny sposób, starosta może, w drodze decyzji administracyjnej, nałożyć na podmioty, o których mowa w art. 20 ust. 2 pkt 1, obowiązek:
 
 - **1)** opracowania dokumentacji geodezyjnej niezbędnej do aktualizacji bazy danych ewidencji gruntów i budynków, w przypadku ustalenia, że stan faktyczny nieruchomości jest inny niż ujawniony w tej bazie danych;
-- **2)** udostępnienia dokumentacji budowy lub dokumentacji powykonawczej, o których mowa w art. 3 pkt 13 i 14 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2024 r. poz. 725 i 834), jeżeli jest to niezbędne do ujawnienia w bazie danych ewidencji gruntów i budynków danych dotyczących budynku lub działki;
-- **3)** udzielenia informacji o sposobie użytkowania budynków i lokali.
-
-4. W przypadku uchylania się obowiązanych podmiotów od wykonania nałożonego decyzją administracyjną obowiązku opracowania dokumentacji geodezyjnej niezbędnej do aktualizacji bazy danych ewidencji gruntów i budynków, następuje egzekucja tego obowiązku w drodze wykonania zastępczego w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858 i 859).
+- **2)** udostępnienia dokumentacji budowy lub dokumentacji powykonawczej, o których mowa w art. 3 pkt 13 i 14 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725 i 834), jeżeli jest to niezbędne do ujawnienia w bazie danych ewidencji gruntów i budynków danych dotyczących budynku lub działki;
+- **3)** udzielenia informacji o sposobie użytkowania budynków i lokali. nałożonego decyzją administracyjną obowiązku opracowania dokumentacji geodezyjnej niezbędnej do aktualizacji bazy danych ewidencji gruntów i budynków, następuje egzekucja tego obowiązku w drodze wykonania zastępczego w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858 i 859).
 
 5. Właściwy organ, na wniosek podmiotu obowiązanego do poniesienia kosztów wykonania zastępczego dokumentacji geodezyjnej niezbędnej do aktualizacji bazy danych ewidencji gruntów i budynków, złożony w terminie 7 dni od dnia otrzymania zawiadomienia, o którym mowa w art. 133 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, może:
 
-- **1)** umorzyć koszty w całości lub w części, jeżeli obowiązany przedstawi dokument potwierdzający: o pomocy społecznej, lub otrzymanie takich zasiłków w okresie ostatnich 3 lat poprzedzających złożenie wniosku;
-    - **a)** pobieranie zasiłku, o którym mowa w art. 37 lub art. 38 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm. ), lub pobieranie takich zasiłków w okresie 2 lat, lub
-    - **b)** otrzymanie zasiłku, o którym mowa w art. 5 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654), lub art. 40 ust. 2 ustawy z dnia 12 marca 2004 r.
+- **1)** umorzyć koszty w całości lub w części, jeżeli obowiązany przedstawi dokument potwierdzający: zm. ), lub pobieranie takich zasiłków w okresie 2 lat, lub
+    - **a)** pobieranie zasiłku, o którym mowa w art. 37 lub art. 38 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn.
+    - **b)** otrzymanie zasiłku, o którym mowa w art. 5 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654), lub art. 40 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, lub otrzymanie takich zasiłków w okresie ostatnich 3 lat poprzedzających złożenie wniosku;
 
 - **2)** rozłożyć koszty na raty, jeżeli przemawia za tym ważny interes obowiązanego.
 
@@ -735,8 +677,8 @@ Prawo geodezyjne i kartograficzne
 
 1. Sądy przekazują właściwemu staroście:
 
-- **1)** odpisy prawomocnych orzeczeń sądu, a w przypadkach dotyczących europejskiego poświadczenia spadkowego odpisy orzeczeń sądu, w sprawach o:
-    - **a)** własność nieruchomości lub jej części, w szczególności dotyczących: stwierdzenia nabycia prawa własności do nieruchomości przez zasiedzenie, nabycia praw do spadku, działu spadku, zniesienia współwłasności, podziału majątku wspólnego, potwierdzenia nabycia prawa własności w wyniku uwłaszczenia,
+- **1)** odpisy prawomocnych orzeczeń sądu, a w przypadkach dotyczących europejskiego poświadczenia spadkowego – odpisy orzeczeń sądu, w sprawach o:
+    - **a)** własność nieruchomości lub jej części, w szczególności dotyczących: – stwierdzenia nabycia prawa własności do nieruchomości przez zasiedzenie, – nabycia praw do spadku, – działu spadku, – zniesienia współwłasności, – potwierdzenia nabycia prawa własności w wyniku uwłaszczenia,
     - **b)** wydanie nieruchomości lub jej części,
     - **c)** rozgraniczenie nieruchomości;
 
@@ -764,8 +706,7 @@ Prawo geodezyjne i kartograficzne
     - **l)** zmianie sposobu użytkowania gruntu;
     - **m)** (uchylona)
 
-- **2)** odpisy zgłoszeń dotyczących zmiany sposobu użytkowania budynku lub jego części, o których mowa w art. 71 ust. 2 ustawy z dnia 7 lipca 1994 r. Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu;
-- **3)** zawiadomienia o zmianach danych, zawartych w zbiorze danych osobowych Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) w rozumieniu przepisów o ewidencji ludności i dowodach osobistych, dotyczących osób fizycznych ujawnianych w ewidencji gruntów i budynków jako właściciele lub władający nieruchomościami.
+- **2)** odpisy zgłoszeń dotyczących zmiany sposobu użytkowania budynku lub jego części, o których mowa w art. 71 ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu; Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) w rozumieniu przepisów o ewidencji ludności i dowodach osobistych, dotyczących osób fizycznych ujawnianych w ewidencji gruntów i budynków jako właściciele lub władający nieruchomościami.
 
 4. Wraz z odpisami decyzji administracyjnych, o których mowa w ust. 3 pkt 1 lit. j–l, oraz odpisami zgłoszeń, o których mowa w ust. 3 pkt 2, przekazywane są uwierzytelnione kopie zatwierdzonych projektów zagospodarowania działki lub terenu.
 
@@ -790,27 +731,25 @@ Prawo geodezyjne i kartograficzne
 
 2a. Informacje zawarte w ewidencji gruntów i budynków podlegają aktualizacji:
 
-- **1)** z urzędu, jeżeli zmiany tych informacji wynikają z:
+- **1)** z urzędu, jeżeli zmiany tych informacji wynikają z: gruntami na zasadach samoistnego posiadania.
     - **a)** przepisów prawa,
     - **b)** dokumentów, o których mowa w art. 23 ust. 1–4,
     - **c)** materiałów zasobu,
     - **d)** wykrycia błędnych informacji;
-
-- **2)** na wniosek podmiotów, o których mowa w art. 20 ust. 2 pkt 1, lub władających gruntami na zasadach samoistnego posiadania.
 
 2b. Aktualizacja informacji zawartych w ewidencji gruntów i budynków następuje:
 
 - **1)** w drodze czynności materialno-technicznej na podstawie:
     - **a)** przepisów prawa,
     - **b)** wpisów w księgach wieczystych,
-    - **c)** prawomocnych orzeczeń sądu, a w przypadkach dotyczących europejskiego poświadczenia spadkowego orzeczeń sądu,
+    - **c)** prawomocnych orzeczeń sądu, a w przypadkach dotyczących europejskiego poświadczenia spadkowego – orzeczeń sądu,
     - **d)** ostatecznych decyzji administracyjnych,
     - **e)** aktów notarialnych, ea) aktów poświadczenia dziedziczenia oraz europejskich poświadczeń spadkowych,
-    - **f)** zgłoszeń dotyczących zmiany sposobu użytkowania budynku lub jego części, o których mowa w art. 71 ust. 2 ustawy z dnia 7 lipca 1994 r. Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu,
+    - **f)** zgłoszeń dotyczących zmiany sposobu użytkowania budynku lub jego części, o których mowa w art. 71 ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu,
     - **g)** wpisów w innych rejestrach publicznych,
     - **h)** dokumentacji geodezyjnej przyjętej do państwowego zasobu geodezyjnego i kartograficznego, z uwzględnieniem art. 20 ust. 2b;
 
-- **2)** w drodze decyzji administracyjnej w pozostałych przypadkach.
+- **2)** w drodze decyzji administracyjnej – w pozostałych przypadkach.
 
 2c. Odmowa aktualizacji informacji zawartych w ewidencji gruntów i budynków następuje w drodze decyzji administracyjnej.
 
@@ -822,19 +761,16 @@ Prawo geodezyjne i kartograficzne
 - **4)** plików komputerowych sformatowanych zgodnie z obowiązującym standardem wymiany danych ewidencyjnych;
 - **5)** usług, o których mowa w art. 9 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej.
 
-4. Każdy, z zastrzeżeniem ust. 5, może żądać udostępnienia informacji zawartych w operacie ewidencyjnym.
-
-5. Starosta udostępnia dane ewidencji gruntów i budynków zawierające dane podmiotów, o których mowa w art. 20 ust. 2 pkt 1, oraz wydaje wypisy z operatu ewidencyjnego, zawierające takie dane, na żądanie:
+4. Każdy, z zastrzeżeniem ust. 5, może żądać udostępnienia informacji zawartych w operacie ewidencyjnym. podmiotów, o których mowa w art. 20 ust. 2 pkt 1, oraz wydaje wypisy z operatu ewidencyjnego, zawierające takie dane, na żądanie:
 
 - **1)** właścicieli oraz osób i jednostek organizacyjnych władających gruntami, budynkami lub lokalami, których dotyczy udostępniany zbiór danych lub wypis;
 - **2)** organów administracji publicznej albo podmiotów niebędących organami administracji publicznej, realizujących, na skutek powierzenia lub zlecenia przez organ administracji publicznej, zadania publiczne związane z gruntami, budynkami lub lokalami, których dotyczy udostępniany zbiór danych lub wypis;
-- **2a)** operatorów: z 2024 r. poz. 604 i 834),
-    - **a)** sieci, w rozumieniu ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U.
-    - **b)** systemu przesyłowego, systemu dystrybucyjnego oraz systemu połączonego, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859);
+- **2a)** operatorów:
+    - **a)** sieci, w rozumieniu ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2024 r. poz. 604 i 834),
+    - **b)** systemu przesyłowego, systemu dystrybucyjnego oraz systemu połączonego, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859);
 
 - **2b)** sądów na potrzeby prowadzonych postępowań;
-- **3)** innych podmiotów niż wymienione w pkt 1–2a, które mają interes prawny w tym zakresie.
-- **3)** innych podmiotów niż wymienione w pkt 1–2b, które mają interes prawny w tym zakresie.
+- **3)** innych podmiotów niż wymienione w pkt 1–2b, które mają interes prawny w tym zakresie. <6. Starosta na potrzeby rejestru TERYT w rozumieniu art. 2 pkt 12b ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej powiadamia właściwy miejscowo urząd statystyczny o każdej zmianie w numeracji i przebiegu granic obrębów ewidencyjnych, o których mowa w przepisach wydanych na podstawie art. 26 ust. 2.>
 
 **Art. 24a.**
 
@@ -844,7 +780,9 @@ Prawo geodezyjne i kartograficzne
 
 3. Informacje, o których mowa w ust. 2, podlegają wywieszeniu na okres 14 dni na tablicy ogłoszeń w siedzibie starostwa powiatowego.
 
-4. Projekt operatu opisowo-kartograficznego podlega, na okres 15 dni roboczych, wyłożeniu do wglądu osób fizycznych, osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej, w siedzibie starostwa powiatowego, a także udostępnieniu za pomocą środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
+4. Projekt operatu opisowo-kartograficznego podlega, na okres 15 dni roboczych, wyłożeniu do wglądu osób fizycznych, osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej, w siedzibie starostwa powiatowego, a także udostępnieniu za pomocą środków komunikacji elektronicznej w rozumieniu ustawy
+
+- **344)** .
 
 5. Starosta informuje o terminie i miejscu wyłożenia, o którym mowa w ust. 4, poprzez wywieszenie tej informacji na tablicy ogłoszeń w siedzibie starostwa powiatowego i właściwego urzędu gminy, na co najmniej 14 dni przed dniem wyłożenia, oraz ogłoszenia jej w prasie o zasięgu krajowym.
 
@@ -864,16 +802,14 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 24b.**
 
-1. Główny Geodeta Kraju, we współpracy ze starostami, wojewodami i marszałkami województw oraz Ministrem Sprawiedliwości, ministrem właściwym do spraw informatyzacji, ministrem właściwym do spraw wewnętrznych, ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw klimatu, Prezesem Głównego Urzędu Statystycznego oraz Prezesem Agencji Restrukturyzacji i Modernizacji Rolnictwa, tworzy i utrzymuje zintegrowany system informacji o nieruchomościach, będący systemem teleinformatycznym, umożliwiającym w szczególności:
+1. Główny Geodeta Kraju, we współpracy ze starostami, wojewodami i marszałkami województw oraz Ministrem Sprawiedliwości, ministrem właściwym właściwym do spraw finansów publicznych, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw klimatu, Prezesem Głównego Urzędu Statystycznego oraz Prezesem Agencji Restrukturyzacji i Modernizacji Rolnictwa, tworzy i utrzymuje zintegrowany system informacji o nieruchomościach, będący systemem teleinformatycznym, umożliwiającym w szczególności:
 
 - **1)** prowadzenie centralnego repozytorium kopii zbiorów danych ewidencji gruntów i budynków;
 - **2)** monitorowanie w skali poszczególnych województw oraz całego kraju spójności i jakości zbiorów danych ewidencji gruntów i budynków;
 - **3)** wymianę danych w formie dokumentów elektronicznych między ewidencją gruntów i budynków a innymi rejestrami publicznymi, takimi jak: księga wieczysta, państwowy rejestr granic i powierzchni jednostek podziałów terytorialnych kraju, krajowy rejestr urzędowy podziału terytorialnego kraju, krajowy rejestr urzędowy podmiotów gospodarki narodowej, krajowy system ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, w zakresie niezbędnym do prowadzenia tych rejestrów publicznych, a także przekazywanie w formie dokumentów elektronicznych zawiadomień o zmianach danych, dokonywanych w poszczególnych rejestrach publicznych, mających znaczenie dla innych rejestrów publicznych włączonych do zintegrowanego systemu informacji o nieruchomościach;
-- **4)** dokonywanie przez sądy prowadzące księgi wieczyste sprawdzeń, o których mowa w art. 626 § 4 Kodeksu postępowania cywilnego;
+- **4)** dokonywanie przez sądy prowadzące księgi wieczyste sprawdzeń, o których mowa w art. 6268 § 4 Kodeksu postępowania cywilnego;
 - **5)** weryfikację zgodności danych ewidencji gruntów i budynków z danymi zawartymi w: księgach wieczystych, Powszechnym Elektronicznym Systemie Ewidencji Ludności, krajowym rejestrze urzędowym podmiotów gospodarki narodowej oraz krajowym rejestrze urzędowym podziału terytorialnego kraju, a także pozyskiwanie danych zawartych w tych rejestrach na potrzeby ewidencji gruntów i budynków;
-- **6)** udostępnianie organom administracji publicznej oraz innym podmiotom, realizującym zadania publiczne na podstawie odrębnych przepisów albo na skutek ich powierzenia lub zlecenia przez organ administracji publicznej, danych ewidencji gruntów i budynków niezbędnych do realizacji przez te podmioty zadań publicznych;
-- **6)** udostępnianie organom administracji publicznej oraz innym podmiotom, realizującym zadania publiczne na podstawie odrębnych przepisów albo na skutek ich powierzenia lub zlecenia przez organ administracji publicznej, danych ewidencji gruntów i budynków, niezbędnych do realizacji przez te podmioty zadań publicznych, a także sądom na potrzeby prowadzonych postępowań;
-- **7)** przeprowadzanie analiz przestrzennych na zbiorach danych ewidencji gruntów i budynków obejmujących obszary większe niż jeden powiat.
+- **6)** udostępnianie organom administracji publicznej oraz innym podmiotom, realizującym zadania publiczne na podstawie odrębnych przepisów albo na skutek ich powierzenia lub zlecenia przez organ administracji publicznej, danych ewidencji gruntów i budynków, niezbędnych do realizacji przez te podmioty zadań publicznych, a także sądom na potrzeby prowadzonych postępowań; i budynków obejmujących obszary większe niż jeden powiat.
 
 2. Współpraca podmiotów, o których mowa w ust. 1, z Głównym Geodetą Kraju dotyczy tworzenia i utrzymywania oprogramowania interfejsowego w rozumieniu art. 3 pkt 11 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne zapewniających realizację funkcjonalności zintegrowanego systemu informacji o nieruchomościach, w tym dostępu na potrzeby tego systemu do odpowiednich danych zawartych w prowadzonych przez te podmioty rejestrach publicznych.
 
@@ -894,7 +830,7 @@ Prawo geodezyjne i kartograficzne
 1. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** urzędową tabelę klas gruntów,
-- **2)** sposób i tryb przeprowadzania gleboznawczej klasyfikacji gruntów mając na celu wykonanie prawidłowego podziału gleb na klasy bonitacyjne ze względu na ich jakość produkcyjną, ustaloną na podstawie cech genetycznych gleb, oraz zapewnienie prawidłowego poziomu merytorycznego wykonywania gleboznawczej klasyfikacji gruntów.
+- **2)** sposób i tryb przeprowadzania gleboznawczej klasyfikacji gruntów względu na ich jakość produkcyjną, ustaloną na podstawie cech genetycznych gleb, oraz zapewnienie prawidłowego poziomu merytorycznego wykonywania gleboznawczej klasyfikacji gruntów.
 
 2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w porozumieniu z ministrem właściwym do spraw rozwoju wsi, określi, w drodze rozporządzenia, sposób zakładania i prowadzenia ewidencji gruntów i budynków oraz szczegółowy zakres informacji objętych tą ewidencją, sposób i terminy sporządzania powiatowych, wojewódzkich i krajowych zestawień zbiorczych danych objętych tą ewidencją, a także rodzaje budynków i lokali, które nie będą wykazywane w ewidencji, oraz zakres informacji objętych rejestrem cen nieruchomości, zapewniając informację o gruntach, budynkach, lokalach, ich właścicielach oraz o innych osobach fizycznych lub prawnych, władających tymi gruntami, budynkami i lokalami, a także szczegółowe zasady wymiany danych ewidencyjnych.
 
@@ -910,8 +846,7 @@ Prawo geodezyjne i kartograficzne
 
 2. Informacje, o których mowa w ust. 1, gromadzi się w postaci:
 
-- **1)** baz danych geodezyjnej ewidencji sieci uzbrojenia terenu, o których mowa w art. 4 ust. 1a pkt 3;
-- **2)** dokumentów dotyczących sieci uzbrojenia terenu, utrwalonych na innych niż elektroniczne nośnikach danych.
+- **1)** baz danych geodezyjnej ewidencji sieci uzbrojenia terenu, o których mowa w art. 4 ust. 1a pkt 3; elektroniczne nośnikach danych.
 
 3. W bazach danych geodezyjnej ewidencji sieci uzbrojenia terenu gromadzi się dane dotyczące:
 
@@ -920,8 +855,8 @@ Prawo geodezyjne i kartograficzne
 
 4. Geodezyjną ewidencję sieci uzbrojenia terenu zakładają i prowadzą:
 
-- **1)** dla obszaru powiatu starosta;
-- **2)** dla obszaru kraju Główny Geodeta Kraju.
+- **1)** dla obszaru powiatu – starosta;
+- **2)** dla obszaru kraju – Główny Geodeta Kraju.
 
 5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, szczegółowy zakres danych gromadzonych w powiatowej bazie GESUT i krajowej bazie GESUT, tryb i standardy tworzenia i aktualizacji tych baz oraz udostępniania danych z tych baz, mając na uwadze podstawowe znaczenie tych baz dla infrastruktury informacji przestrzennej, zasadę interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej, a także konieczność harmonizacji zbiorów danych tych baz z innymi zbiorami danych, o których mowa w art. 4 ust. 1a.
 
@@ -935,7 +870,7 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 28b.**
 
-1. Sytuowanie projektowanych sieci uzbrojenia terenu na obszarach miast oraz w pasach drogowych na terenie istniejącej lub projektowanej zwartej zabudowy obszarów wiejskich koordynuje się na naradach koordynacyjnych organizowanych przez starostę.
+1. Sytuowanie projektowanych sieci uzbrojenia terenu na obszarach miast oraz w pasach drogowych na terenie istniejącej lub projektowanej zwartej organizowanych przez starostę.
 
 2. Przepisu ust. 1 nie stosuje się do:
 
@@ -957,25 +892,25 @@ Prawo geodezyjne i kartograficzne
 
 6. Wraz z zawiadomieniem o naradzie koordynacyjnej starosta przekazuje kopię planu sytuacyjnego, o którym mowa w ust. 3, albo, w przypadku braku technicznych możliwości sporządzenia tej kopii, informację o miejscu i terminie zapoznania się z planem sytuacyjnym.
 
-7. Na wniosek inwestora lub projektanta sieci uzbrojenia terenu, podmiotu władającego siecią uzbrojenia terenu lub wójta (burmistrza, prezydenta miasta), uzasadniony w szczególności potrzebą wyeliminowania zagrożeń wynikających z możliwej kolizji między sytuowanymi na tym samym terenie sieciami uzbrojenia terenu, przedmiotem narady koordynacyjnej może być sytuowanie projektowanych sieci uzbrojenia terenu na obszarach innych niż wymienione w ust. 1 lub sytuowanie przyłączy.
+7. Na wniosek inwestora lub projektanta sieci uzbrojenia terenu, podmiotu władającego siecią uzbrojenia terenu lub wójta (burmistrza, prezydenta miasta), uzasadniony w szczególności potrzebą wyeliminowania zagrożeń wynikających terenu, przedmiotem narady koordynacyjnej może być sytuowanie projektowanych sieci uzbrojenia terenu na obszarach innych niż wymienione w ust. 1 lub sytuowanie przyłączy.
 
 8. Naradzie koordynacyjnej przewodniczy starosta lub upoważniona przez niego osoba.
 
 9. Rezultaty narady koordynacyjnej utrwala się w protokole zawierającym:
 
-- **1)** określenie sposobu przeprowadzenia narady, miejsce i termin jej odbycia, a w przypadku przeprowadzenia narady z wykorzystaniem środków komunikacji elektronicznej termin jej zakończenia, oraz znak sprawy zgodny z instrukcją kancelaryjną;
+- **1)** określenie sposobu przeprowadzenia narady, miejsce i termin jej odbycia, a w przypadku przeprowadzenia narady z wykorzystaniem środków komunikacji elektronicznej – termin jej zakończenia, oraz znak sprawy zgodny z instrukcją kancelaryjną;
 - **2)** opis przedmiotu narady;
 - **3)** imię i nazwisko oraz inne dane identyfikujące wnioskodawcę;
 - **4)** imię i nazwisko oraz stanowisko służbowe przewodniczącego;
 - **5)** imiona i nazwiska uczestników oraz oznaczenie podmiotów, które te osoby reprezentują, lub informację o przyczynach uczestnictwa danej osoby w naradzie;
 - **6)** stanowiska uczestników narady;
-- **7)** wnioski o koordynację robót budowlanych, o których mowa w art. 36a ust. 3 pkt 5 lit. b ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych o ile zostały złożone;
+- **7)** wnioski o koordynację robót budowlanych, o których mowa w art. 36a ust. 3 pkt 5 lit. b ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych – o ile zostały złożone;
 - **8)** informacje o podmiotach zawiadomionych o naradzie, które w niej nie uczestniczyły;
 - **9)** podpisy uczestników narady.
 
 10. W przypadku gdy narada koordynacyjna została przeprowadzona za pomocą środków komunikacji elektronicznej, protokół tej narady zawiera, zamiast podpisów wszystkich uczestników tej narady, podpisy jej przewodniczącego, protokolanta oraz innych osób, które osobiście stawiły się na naradzie, a także adnotację o uzgodnieniu treści protokołu z osobami, które uczestniczyły w naradzie wyłącznie za pomocą środków komunikacji elektronicznej.
 
-11. Odpisy protokołu narady koordynacyjnej wydaje się wnioskodawcy w dniu jej zakończenia, a innym podmiotom zawiadomionym o naradzie w terminie 3 dni od dnia złożenia żądania w tej sprawie. Art. 28ba. 1. Nieobecność na naradzie koordynacyjnej podmiotu należycie zawiadomionego o jej miejscu i terminie nie stanowi przeszkody do jej przeprowadzenia. Przyjmuje się, że podmiot ten nie składa zastrzeżeń do usytuowania projektowanej sieci uzbrojenia terenu przedstawionego w planie sytuacyjnym, o którym mowa w art. 28b ust. 3.
+11. Odpisy protokołu narady koordynacyjnej wydaje się wnioskodawcy w dniu jej zakończenia, a innym podmiotom zawiadomionym o naradzie – w terminie 3 dni od dnia złożenia żądania w tej sprawie. Art. 28ba. 1. Nieobecność na naradzie koordynacyjnej podmiotu należycie zawiadomionego o jej miejscu i terminie nie stanowi przeszkody do jej projektowanej sieci uzbrojenia terenu przedstawionego w planie sytuacyjnym, o którym mowa w art. 28b ust. 3.
 
 2. W przypadku gdy na naradzie koordynacyjnej jej uczestnicy uzgodnią zmiany w usytuowaniu projektowanej sieci uzbrojenia terenu w stosunku do usytuowania przedstawionego na planie sytuacyjnym, o którym mowa w art. 28b ust. 3, starosta, w terminie 7 dni od dnia przeprowadzenia narady, zawiadamia podmioty, o których mowa w ust. 1, o jej ustaleniach.
 
@@ -993,7 +928,7 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 28c.**
 
-1. Na dokumentacji projektowej będącej przedmiotem narady koordynacyjnej zamieszcza się adnotację zawierającą informację, iż ta dokumentacja była przedmiotem narady koordynacyjnej, oraz dane, o których mowa w art. 28b ust. 9 pkt 1.
+1. Na dokumentacji projektowej będącej przedmiotem narady koordynacyjnej zamieszcza się adnotację zawierającą informację, iż ta dokumentacja pkt 1.
 
 2. Adnotację sporządza przewodniczący narady, potwierdzając ją swoim podpisem.
 
@@ -1022,7 +957,7 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 28f.**
 
-1. Na wniosek podmiotu władającego siecią uzbrojenia terenu starosta wydaje decyzję administracyjną o wyłączeniu z geodezyjnej ewidencji sieci uzbrojenia terenu danych o sieciach uzbrojenia terenu, które są wykorzystywane wyłącznie przez ten podmiot i są położone na gruntach znajdujących się w wyłącznym władaniu tego podmiotu, oraz o bezpłatnym udostępnieniu temu podmiotowi danych, dotyczących tych sieci, zgromadzonych w państwowym zasobie geodezyjnym i kartograficznym.
+1. Na wniosek podmiotu władającego siecią uzbrojenia terenu starosta wydaje decyzję administracyjną o wyłączeniu z geodezyjnej ewidencji sieci wyłącznie przez ten podmiot i są położone na gruntach znajdujących się w wyłącznym władaniu tego podmiotu, oraz o bezpłatnym udostępnieniu temu podmiotowi danych, dotyczących tych sieci, zgromadzonych w państwowym zasobie geodezyjnym i kartograficznym.
 
 2. Z dniem określonym w decyzji, o której mowa w ust. 1, podmiot władający siecią uzbrojenia terenu przejmuje na siebie obowiązki:
 
@@ -1054,9 +989,7 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 30.**
 
-1. Wójtowie (burmistrzowie, prezydenci miast) przeprowadzają rozgraniczenie nieruchomości z urzędu lub na wniosek strony.
-
-2. Postępowanie o rozgraniczenie nieruchomości przeprowadza się z urzędu przy scaleniu gruntów, a także jeżeli jest brak wniosku strony, a potrzeby gospodarki narodowej lub interes społeczny uzasadniają przeprowadzenie rozgraniczenia.
+1. Wójtowie (burmistrzowie, prezydenci miast) przeprowadzają rozgraniczenie nieruchomości z urzędu lub na wniosek strony. scaleniu gruntów, a także jeżeli jest brak wniosku strony, a potrzeby gospodarki narodowej lub interes społeczny uzasadniają przeprowadzenie rozgraniczenia.
 
 3. Postanowienie o wszczęciu postępowania w sprawie scalenia gruntów zastępuje postanowienie o wszczęciu postępowania o rozgraniczenie nieruchomości.
 
@@ -1080,11 +1013,11 @@ Prawo geodezyjne i kartograficzne
 
 3. Nieusprawiedliwione niestawiennictwo stron nie wstrzymuje czynności geodety.
 
-4. W razie usprawiedliwionego niestawiennictwa strony, geodeta wstrzymuje czynności do czasu ustania przeszkody lub wyznaczenia pełnomocnika nie dłużej jednak niż na okres jednego miesiąca.
+4. W razie usprawiedliwionego niestawiennictwa strony, geodeta wstrzymuje czynności do czasu ustania przeszkody lub wyznaczenia pełnomocnika – nie dłużej jednak niż na okres jednego miesiąca.
 
 5. Z czynności ustalenia przebiegu granic sporządza się protokół graniczny lub akt ugody.
 
-6. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w porozumieniu z ministrem właściwym do spraw rozwoju wsi, określi, w drodze rozporządzenia, szczegółowe zasady rozgraniczania nieruchomości, określając w szczególności rodzaje dokumentów stanowiących podstawę ustalania przebiegu granic oraz sposób i tryb wykonywania przez geodetę czynności ustalania przebiegu granic i sporządzania dokumentacji przy rozgraniczaniu nieruchomości, mając na względzie dążenie do ugodowego rozstrzygnięcia sporu oraz poszanowanie prawa własności nieruchomości uczestników postępowania.
+6. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w porozumieniu z ministrem właściwym do spraw rozwoju wsi, określi, w drodze rozporządzenia, szczegółowe zasady rozgraniczania nieruchomości, określając w szczególności rodzaje dokumentów stanowiących podstawę ustalania przebiegu granic oraz sposób i tryb wykonywania przez geodetę czynności ustalania przebiegu granic i sporządzania dokumentacji przy rozstrzygnięcia sporu oraz poszanowanie prawa własności nieruchomości uczestników postępowania.
 
 **Art. 33.**
 
@@ -1109,9 +1042,7 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 35.**
 
-1. Na obszarach objętych postępowaniem scaleniowym sprawy sporne związane z ustaleniem przebiegu granic nieruchomości rozstrzyga organ prowadzący to postępowanie, stosując odpowiednio przepisy o rozgraniczaniu nieruchomości.
-
-2. Sprawy o rozgraniczenie nieruchomości, toczące się przed organami administracji państwowej po wszczęciu postępowania scaleniowego, są rozpatrywane w ramach tego postępowania.
+1. Na obszarach objętych postępowaniem scaleniowym sprawy sporne związane z ustaleniem przebiegu granic nieruchomości rozstrzyga organ prowadzący to postępowanie, stosując odpowiednio przepisy o rozgraniczaniu nieruchomości. administracji państwowej po wszczęciu postępowania scaleniowego, są rozpatrywane w ramach tego postępowania.
 
 3. Decyzja o scaleniu gruntów, wydana w trybie określonym w ust. 1, zastępuje decyzję o rozgraniczeniu nieruchomości.
 
@@ -1137,9 +1068,7 @@ Prawo geodezyjne i kartograficzne
 
 4. Z czynności wznowienia znaków granicznych sporządza się protokół.
 
-5. Przepisy ust. 1–4 stosuje się odpowiednio przy wyznaczaniu punktów granicznych ujawnionych uprzednio w ewidencji gruntów i budynków.
-
-#### Rozdział 7 Państwowy zasób geodezyjny i kartograficzny
+5. Przepisy ust. 1–4 stosuje się odpowiednio przy wyznaczaniu punktów granicznych ujawnionych uprzednio w ewidencji gruntów i budynków. Państwowy zasób geodezyjny i kartograficzny
 
 **Art. 40.**
 
@@ -1151,16 +1080,15 @@ Prawo geodezyjne i kartograficzne
 
 3. Prowadzenie państwowego zasobu geodezyjnego i kartograficznego oraz weryfikacja opracowań przyjmowanych do zasobu należy do:
 
-- **1)** Głównego Geodety Kraju w zakresie centralnego zasobu geodezyjnego i kartograficznego;
-- **2)** marszałków województw w zakresie wojewódzkich zasobów geodezyjnych i kartograficznych;
-- **3)** starostów w zakresie powiatowych zasobów geodezyjnych i kartograficznych.
+- **1)** Głównego Geodety Kraju – w zakresie centralnego zasobu geodezyjnego i kartograficznego;
+- **2)** marszałków województw – w zakresie wojewódzkich zasobów geodezyjnych i kartograficznych;
+- **3)** starostów – w zakresie powiatowych zasobów geodezyjnych i kartograficznych.
 
 3a. Nadzór nad prowadzeniem państwowego zasobu geodezyjnego i kartograficznego należy do Głównego Geodety Kraju, a w zakresie wojewódzkich zasobów geodezyjnych i kartograficznych oraz powiatowych zasobów geodezyjnych i kartograficznych, także do wojewódzkich inspektorów nadzoru geodezyjnego i kartograficznego.
 
 3b. (uchylony) 3c. (uchylony) 3d. (uchylony) 3e. Główny Geodeta Kraju, we współpracy z innymi podmiotami realizującymi zadania publiczne, utrzymuje i rozbudowuje system teleinformatyczny umożliwiający dostęp do danych przestrzennych pozwalający w szczególności na:
 
-- **1)** udostępnienie interoperacyjnych zbiorów i usług związanych z państwowym zasobem geodezyjnym i kartograficznym;
-- **2)** udostępnienie interfejsu komunikacyjnego łączącego infrastrukturę teleinformatyczną państwowego zasobu geodezyjnego i kartograficznego z systemami teleinformatycznymi podmiotów realizujących zadania publiczne za pomocą interoperacyjnych zbiorów i usług związanych z państwowym zasobem geodezyjnym i kartograficznym;
+- **1)** udostępnienie interoperacyjnych zbiorów i usług związanych z państwowym zasobem geodezyjnym i kartograficznym; teleinformatyczną państwowego zasobu geodezyjnego i kartograficznego z systemami teleinformatycznymi podmiotów realizujących zadania publiczne za pomocą interoperacyjnych zbiorów i usług związanych z państwowym zasobem geodezyjnym i kartograficznym;
 - **3)** integrację danych i usług państwowego zasobu geodezyjnego i kartograficznego ze zbiorami i usługami utrzymywanymi przez podmioty, o których mowa w pkt 2, a także przetwarzanie połączonych i udostępnionych zbiorów danych oraz dokonywanie na nich analiz przestrzennych;
 - **4)** zapewnienie dostępności i ciągłości działania systemu odpowiedzialnego za udostępnienie danych i usług państwowego zasobu geodezyjnego i kartograficznego.
 
@@ -1180,7 +1108,7 @@ Prawo geodezyjne i kartograficzne
     - **a)** (uchylona)
     - **b)** (utraciła moc)
 
-- **2)** w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, szczegółowy sposób klasyfikowania i kwalifikowania materiałów przeznaczonych do wyłączania z państwowego zasobu geodezyjnego i kartograficznego, a także sposób ich porządkowania i tryb wyłączania z zasobu, uwzględniając przydatność użytkową w zakresie geodezji i kartografii oraz posiadaną wartość historyczną;
+- **2)** w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, szczegółowy sposób klasyfikowania i kwalifikowania materiałów przeznaczonych do wyłączania z państwowego zasobu geodezyjnego z zasobu, uwzględniając przydatność użytkową w zakresie geodezji i kartografii oraz posiadaną wartość historyczną;
 - **3)** w porozumieniu z zainteresowanymi ministrami, szczegółowe zasady i tryb założenia i prowadzenia krajowego systemu informacji o terenie, zakres danych zawartych w systemie, szczegółowy tryb zakładania, prowadzenia i przetwarzania danych systemu oraz ewidencjonowania lokalnych systemów informacji o terenie, uwzględniając konieczność systematycznego gromadzenia, aktualizowania i udostępniania danych systemu oraz zasady współpracy organów administracji publicznej i innych podmiotów współtworzących system.
 
 6. (uchylony)
@@ -1194,13 +1122,11 @@ Prawo geodezyjne i kartograficzne
 - **3)** sposób i tryb udostępniania materiałów i zbiorów danych,
 - **4)** wzory klauzul urzędowych, o których mowa w ust. 3g,
 - **5)** tryb wymiany danych między centralnym zasobem geodezyjnym i kartograficznym, wojewódzkim zasobem geodezyjnym i kartograficznym i powiatowym zasobem geodezyjnym i kartograficznym oraz między bazami danych zasobu a wykonawcami prac geodezyjnych lub prac kartograficznych,
-- **6)** tryb wyłączania materiałów i zbiorów danych z zasobu oraz sposób ich przekazywania do właściwych archiwów państwowych mając na uwadze szczególne znaczenie zbiorów danych gromadzonych w państwowym zasobie geodezyjnym i kartograficznym dla infrastruktury informacji przestrzennej, a także potrzebę sprawnego funkcjonowania ośrodków dokumentacji geodezyjnej i kartograficznej i sprawnego udostępniania gromadzonych materiałów i zbiorów danych.
+- **6)** tryb wyłączania materiałów i zbiorów danych z zasobu oraz sposób ich przekazywania do właściwych archiwów państwowych – mając na uwadze szczególne znaczenie zbiorów danych gromadzonych w państwowym zasobie geodezyjnym i kartograficznym dla infrastruktury informacji przestrzennej, a także potrzebę sprawnego funkcjonowania ośrodków dokumentacji geodezyjnej i kartograficznej i sprawnego udostępniania gromadzonych materiałów i zbiorów danych.
 
 **Art. 40a.**
 
 1. Organy prowadzące państwowy zasób geodezyjny i kartograficzny udostępniają materiały zasobu odpłatnie.
-
-2. Nie pobiera się opłaty za:
 
 - **1)** udostępnianie zbiorów danych:
     - **a)** państwowego rejestru granic i powierzchni jednostek podziałów terytorialnych kraju,
@@ -1212,18 +1138,17 @@ Prawo geodezyjne i kartograficzne
     - **g)** szczegółowych osnów geodezyjnych,
     - **h)** obiektów topograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:10 000–1:100 000,
     - **i)** dotyczących działek ewidencyjnych w zakresie ich identyfikatorów i geometrii,
-    - **j)** dotyczących budynków w zakresie ich identyfikatorów, geometrii i rodzaju według Klasyfikacji Środków Trwałych;
+    - **j)** dotyczących budynków w zakresie ich identyfikatorów, geometrii i rodzaju według Klasyfikacji Środków Trwałych,
+    - **k)** rejestru cen nieruchomości;
 
-- **2)** udostępnianie w postaci elektronicznej zbiorów danych państwowego zasobu geodezyjnego i kartograficznego: poz. 742, z późn. zm. ), podmiotom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571 oraz z 2024 r. poz. 834), zm. ), podmiotom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie,
-    - **a)** w celu edukacyjnym: jednostkom organizacyjnym wchodzącym w skład systemu oświaty, o którym mowa w ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854), uczelniom w rozumieniu ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r.
-    - **b)** w celu prowadzenia badań naukowych oraz prac rozwojowych: podmiotom, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–7 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, oraz innym podmiotom posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej, będącym organizacjami prowadzącymi badania i upowszechniającymi wiedzę w rozumieniu art. 2 pkt 83 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn.
-    - **c)** w celu realizacji ustawowych zadań w zakresie ochrony bezpieczeństwa wewnętrznego państwa i jego porządku konstytucyjnego służbom specjalnym w rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812),
-    - **d)** w celu realizacji zadań w zakresie obronności państwa Ministrowi Obrony Narodowej;
+- **2)** udostępnianie w postaci elektronicznej zbiorów danych państwowego zasobu geodezyjnego i kartograficznego: poz. 812),
+    - **a)** w celu edukacyjnym: – jednostkom organizacyjnym wchodzącym w skład systemu oświaty, o którym mowa w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854), – uczelniom w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), – podmiotom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571 oraz z 2024 r. poz. 834), – podmiotom, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, oraz innym podmiotom posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej, będącym organizacjami prowadzącymi badania i upowszechniającymi wiedzę w rozumieniu art. 2 pkt 83 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), – podmiotom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie,
+    - **c)** w celu realizacji ustawowych zadań w zakresie ochrony bezpieczeństwa wewnętrznego państwa i jego porządku konstytucyjnego – służbom specjalnym w rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r.
+    - **d)** w celu realizacji zadań w zakresie obronności państwa – Ministrowi Obrony Narodowej;
 
-- **3)** udostępnianie wykonawcy prac geodezyjnych lub prac kartograficznych materiałów zasobu w przypadku prac geodezyjnych lub prac kartograficznych wykonywanych w celu realizacji określonych w ustawie zadań organów administracji geodezyjnej i kartograficznej lub Głównego Geodety Kraju, po podpisaniu umowy w sprawie udzielenia zamówienia publicznego obejmującego takie prace, a w przypadku prac scaleniowych lub wymiennych realizowanych na podstawie ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2023 r. poz. 1197) po podpisaniu porozumienia na wykonanie takich prac;
-- **4)** udostępnianie danych na podstawie:
-    - **a)** art. 12 ust. 1 i 2, art. 14 ust. 1, art. 15 ust. 2 i 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej,
-    - **b)** art. 15 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **3)** udostępnianie wykonawcy prac geodezyjnych lub prac kartograficznych materiałów zasobu – w przypadku prac geodezyjnych lub prac kartograficznych wykonywanych w celu realizacji określonych w ustawie zadań organów administracji geodezyjnej i kartograficznej lub Głównego Geodety Kraju, po podpisaniu umowy w sprawie udzielenia zamówienia publicznego obejmującego takie prace, a w przypadku prac scaleniowych lub wymiennych realizowanych na podstawie ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2023 r. poz. 1197) po podpisaniu porozumienia na wykonanie takich prac;
+- **4)** udostępnianie danych na podstawie: o infrastrukturze informacji przestrzennej, podmiotów realizujących zadania publiczne;
+    - **a)** art. 12 ust. 1 i 2, art. 14 ust. 1, art. 15 ust. 2 i 3 ustawy z dnia 4 marca 2010 r.
 
 - **5)** pierwsze udostępnienie podmiotowi władającemu siecią uzbrojenia terenu zbiorów danych powiatowej bazy GESUT, dotyczących sieci uzbrojenia terenu znajdującej się we władaniu tego podmiotu, po otrzymaniu przez starostę od tego podmiotu opinii, o której mowa w art. 28e ust. 1 pkt 1;
 - **6)** udostępnianie materiałów zasobu w związku ze zgłoszeniem prac, o których mowa w art. 12 ust. 1 pkt 1 lit. b, lub jego uzupełnieniem;
@@ -1249,8 +1174,7 @@ Prawo geodezyjne i kartograficzne
 - **2)** sądów rozpoznających sprawy, w których stroną jest Skarb Państwa;
 - **3)** organów kontroli państwowej w związku z wykonywaniem przez te organy ich ustawowych zadań;
 - **4)** organów administracji rządowej oraz jednostek samorządu terytorialnego, w związku z ich działaniami mającymi na celu:
-    - **a)** ujawnienie prawa do nieruchomości Skarbu Państwa lub jednostki samorządu terytorialnego w księdze wieczystej,
-    - **b)** przeniesienie praw do nieruchomości Skarbu Państwa na rzecz jednostki samorządu terytorialnego,
+    - **a)** ujawnienie prawa do nieruchomości Skarbu Państwa lub jednostki samorządu terytorialnego w księdze wieczystej, samorządu terytorialnego,
     - **c)** przeniesienie praw do nieruchomości jednostki samorządu terytorialnego na rzecz Skarbu Państwa;
 
 - **5)** Krajowego Zasobu Nieruchomości w związku z jego działaniami mającymi na celu regulację stanu prawnego nieruchomości wchodzących w skład Zasobu, o którym mowa w art. 2 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2023 r. poz. 1054, 1688 i 1693), oraz zbycie lub udostępnienie nieruchomości wchodzących w skład tego zasobu.
@@ -1261,8 +1185,8 @@ Prawo geodezyjne i kartograficzne
 
 2. Uprawnienia określone w licencji dotyczą:
 
-- **1)** w przypadku materiałów zasobu w postaci elektronicznej możliwości wykonywania jakichkolwiek operacji na tych danych i materiałach, w szczególności ich utrwalania, zmieniania, udostępniania, zwłaszcza wykonywanych w systemach teleinformatycznych;
-- **2)** w przypadku materiałów zasobu w postaci nieelektronicznej ich powielanie, a także ich przekształcenie do postaci elektronicznej.
+- **1)** w przypadku materiałów zasobu w postaci elektronicznej – możliwości wykonywania jakichkolwiek operacji na tych danych i materiałach, w szczególności ich utrwalania, zmieniania, udostępniania, zwłaszcza wykonywanych w systemach teleinformatycznych;
+- **2)** w przypadku materiałów zasobu w postaci nieelektronicznej – ich powielanie, a także ich przekształcenie do postaci elektronicznej.
 
 3. Podmioty, które wykorzystują materiały zasobu, zamieszczają w publikowanych opracowaniach informacje o źródle pochodzenia użytego materiału.
 
@@ -1274,7 +1198,7 @@ Prawo geodezyjne i kartograficzne
 
 1. Opłata za udostępnianie materiałów zasobu oraz za wykonanie czynności, o których mowa w art. 40b ust. 1, jest iloczynem odpowiednich stawek podstawowych, liczby jednostek rozliczeniowych oraz współczynników korygujących lub sumą takich iloczynów.
 
-1a. Za udostępnianie materiałów zasobu w związku ze zgłoszeniem prac, o których mowa w art. 12 ust. 1 pkt 3, lub jego uzupełnieniem, pobiera się opłatę zryczałtowaną, której wysokość jest uzależniona od wielkości obszaru wskazanego w tym zgłoszeniu lub jego uzupełnieniu.
+1a. Za udostępnianie materiałów zasobu w związku ze zgłoszeniem prac, o których mowa w art. 12 ust. 1 pkt 3, lub jego uzupełnieniem, pobiera się opłatę w tym zgłoszeniu lub jego uzupełnieniu.
 
 2. Wysokość stawek podstawowych w odniesieniu do odpowiednich jednostek rozliczeniowych, wysokość współczynników korygujących oraz zasady ustalania tych współczynników, a także szczegółowe zasady obliczania wysokości opłaty, w tym opłaty zryczałtowanej, określa załącznik do ustawy.
 
@@ -1301,8 +1225,7 @@ Prawo geodezyjne i kartograficzne
 
 - **3)** nazwy oraz liczbę jednostek rozliczeniowych udostępnianych materiałów zasobu lub czynności, o których mowa w art. 40b ust. 1, a także oznaczenia pozycji w odpowiedniej tabeli opłat zawartej w załączniku do ustawy;
 - **4)** wysokość użytych do wyliczenia podstawowych stawek jednostkowych oraz współczynników korygujących;
-- **5)** kwotę opłaty;
-- **6)** datę wystawienia dokumentu oraz podpis organu lub upoważnionej przez niego osoby.
+- **5)** kwotę opłaty; osoby.
 
 1a. W przypadku udostępniania materiałów zasobu w związku ze zgłoszeniem prac lub jego uzupełnieniem Dokument Obliczenia Opłaty zawiera informacje, o których mowa w ust. 1 pkt 1, 2, 5 i 6, oraz powierzchnię obszaru objętego tym zgłoszeniem lub jego uzupełnieniem.
 
@@ -1322,13 +1245,7 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 40h.** (uchylony)
 
-**Art. 40i.** (uchylony)
-
-**Art. 40j.**
-
-1. Stawki opłat za udostępnianie materiałów zasobu, określone w załączniku do ustawy, podlegają corocznej waloryzacji w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki te są waloryzowane, w stosunku do analogicznego okresu roku poprzedniego, ogłaszanego komunikatem Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. W przypadku gdy wskaźnik ten ma wartość ujemną, stawki opłat nie ulegają zmianie.
-
-2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ogłasza, najpóźniej do dnia 31 października każdego roku, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokości zwaloryzowanych stawek, które będą obowiązywały od dnia 1 stycznia następnego roku.
+**Art. 40i.** (uchylony) w załączniku do ustawy, podlegają corocznej waloryzacji w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki te są waloryzowane, w stosunku do analogicznego okresu roku poprzedniego, ogłaszanego komunikatem Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. W przypadku gdy wskaźnik ten ma wartość ujemną, stawki opłat nie ulegają zmianie. 2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ogłasza, najpóźniej do dnia 31 października każdego roku, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokości zwaloryzowanych stawek, które będą obowiązywały od dnia 1 stycznia następnego roku.
 
 **Art. 40k.** W zakresie nieuregulowanym niniejszą ustawą stosuje się przepisy ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524).
 
@@ -1341,10 +1258,7 @@ Prawo geodezyjne i kartograficzne
 - **1)** za udostępnienie zbiorów danych oraz innych materiałów z zasobu centralnego oraz za czynności urzędowe związane z prowadzeniem tego zasobu;
 - **2)** za przeprowadzenie postępowania kwalifikacyjnego dla osób ubiegających się o nadanie uprawnień zawodowych w dziedzinie geodezji i kartografii oraz za wydanie dziennika praktyki zawodowej;
 - **3)** za przeprowadzenie testu umiejętności w postępowaniu w sprawie uznania kwalifikacji do wykonywania zawodów regulowanych w dziedzinie geodezji i kartografii.
-- **4)** (uchylony)
-
-3. Środki Funduszu są przeznaczone na dofinansowanie zadań związanych z aktualizacją i utrzymywaniem państwowego zasobu geodezyjnego i kartograficznego, w szczególności na:
-
+- **4)** (uchylony) z aktualizacją i utrzymywaniem państwowego zasobu geodezyjnego i kartograficznego, w szczególności na:
 - **1)** zakładanie, aktualizację i modernizację krajowego systemu informacji o terenie, map topograficznych i tematycznych, osnów geodezyjnych, mapy zasadniczej, geodezyjnej ewidencji sieci uzbrojenia terenu, ewidencji gruntów i budynków;
 - **2)** zakup urządzeń i wyposażenia lokali niezbędnych do prowadzenia zasobu;
 - **3)** informatyzację zasobu, w tym zakup sprzętu informatycznego i oprogramowania;
@@ -1367,7 +1281,7 @@ Prawo geodezyjne i kartograficzne
 
 1a. (uchylony)
 
-2. Wpływy z udostępniania map, danych z ewidencji gruntów i budynków oraz innych materiałów i informacji z zasobów powiatowych, a także z opłat za czynności związane z prowadzeniem tych zasobów i uzgadnianiem usytuowania projektowanych sieci uzbrojenia terenu są dochodami własnymi budżetu powiatu.
+2. Wpływy z udostępniania map, danych z ewidencji gruntów i budynków oraz innych materiałów i informacji z zasobów powiatowych, a także z opłat za czynności projektowanych sieci uzbrojenia terenu są dochodami własnymi budżetu powiatu.
 
 2a. (uchylony)
 
@@ -1386,9 +1300,7 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 42.**
 
-1. Do wykonywania samodzielnych funkcji w dziedzinie geodezji i kartografii jest niezbędne posiadanie uprawnień zawodowych.
-
-2. Przez wykonywanie samodzielnych funkcji w dziedzinie geodezji i kartografii rozumie się:
+1. Do wykonywania samodzielnych funkcji w dziedzinie geodezji i kartografii jest niezbędne posiadanie uprawnień zawodowych. rozumie się:
 
 - **1)** kierowanie pracami geodezyjnymi i kartograficznymi, podlegającymi zgłoszeniu do organu Służby Geodezyjnej i Kartograficznej lub wykonywanymi na zlecenie tego organu, oraz sprawowanie nad nimi bezpośredniego nadzoru;
 - **2)** wykonywanie czynności rzeczoznawcy z zakresu prac geodezyjnych, podlegających zgłoszeniu do organu Służby Geodezyjnej i Kartograficznej lub wykonywanych na zlecenie tego organu, oraz sprawowanie nad nimi bezpośredniego nadzoru;
@@ -1423,9 +1335,9 @@ Prawo geodezyjne i kartograficzne
 1. Uprawnienia zawodowe w dziedzinie geodezji i kartografii w zakresach, o których mowa w art. 43 pkt 3, 6 i 7, mogą uzyskać osoby, które:
 
 - **1)** posiadają pełną zdolność do czynności prawnych;
-- **2)** nie były karane za przestępstwo przeciwko działalności instytucji państwowych oraz samorządu terytorialnego, za przestępstwo przeciwko wymiarowi sprawiedliwości, za przestępstwo przeciwko wiarygodności dokumentów, za przestępstwo przeciwko mieniu, za przestępstwo przeciwko obrotowi gospodarczemu, za przestępstwo przeciwko obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe;
+- **2)** nie były karane za przestępstwo przeciwko działalności instytucji państwowych oraz samorządu terytorialnego, za przestępstwo przeciwko wymiarowi sprawiedliwości, za przestępstwo przeciwko wiarygodności dokumentów, za przestępstwo przeciwko mieniu, za przestępstwo przeciwko obrotowi wartościowymi lub za przestępstwo skarbowe;
 - **3)** posiadają odpowiednio:
-    - **a)** dyplom ukończenia studiów wyższych pierwszego stopnia, studiów wyższych drugiego stopnia lub jednolitych studiów magisterskich: na kierunku studiów w obszarze nauk technicznych, którego program umożliwia nabycie umiejętności dotyczących geodezyjnych pomiarów podstawowych dla zakresu geodezyjne pomiary podstawowe, na kierunku studiów w obszarze nauk technicznych lub w obszarze nauk przyrodniczych, którego program umożliwia nabycie umiejętności dotyczących redakcji map dla zakresu redakcja map, na kierunku studiów w obszarze nauk technicznych lub w obszarze nauk przyrodniczych, którego program umożliwia nabycie umiejętności dotyczących fotogrametrii i teledetekcji dla zakresu fotogrametria i teledetekcja,
+    - **a)** dyplom ukończenia studiów wyższych pierwszego stopnia, studiów wyższych drugiego stopnia lub jednolitych studiów magisterskich: – na kierunku studiów w obszarze nauk technicznych, którego program umożliwia nabycie umiejętności dotyczących geodezyjnych pomiarów podstawowych – dla zakresu geodezyjne pomiary podstawowe, – na kierunku studiów w obszarze nauk technicznych lub w obszarze nauk przyrodniczych, którego program umożliwia nabycie umiejętności dotyczących redakcji map – dla zakresu redakcja map, – na kierunku studiów w obszarze nauk technicznych lub w obszarze nauk przyrodniczych, którego program umożliwia nabycie umiejętności dotyczących fotogrametrii i teledetekcji – dla zakresu fotogrametria i teledetekcja,
     - **b)** rok praktyki zawodowej w przypadku ukończenia studiów wyższych drugiego stopnia lub jednolitych studiów magisterskich albo 2 lata praktyki zawodowej w przypadku ukończenia studiów wyższych pierwszego stopnia.
 
 2. Uprawnienia, o których mowa w ust. 1, mogą otrzymać również osoby, które:
@@ -1438,7 +1350,7 @@ Prawo geodezyjne i kartograficzne
 
 3. Osoby posiadające w dziedzinie geodezji i kartografii tytuł naukowy profesora albo I lub II stopień specjalizacji zawodowej, nadane w trybie odrębnych przepisów, są zwolnione z obowiązku spełnienia wymagań określonych w ust. 1 pkt 3 lit. b.
 
-4. Główny Geodeta Kraju może w uzasadnionych przypadkach, na wniosek osoby ubiegającej się o uzyskanie uprawnień zawodowych, uznać posiadanie innego pokrewnego wykształcenia i długoletniej geodezyjnej lub kartograficznej praktyki zawodowej za spełnienie wymagań kwalifikacyjnych, o których mowa w ust. 1 lub 2.
+4. Główny Geodeta Kraju może w uzasadnionych przypadkach, na wniosek osoby ubiegającej się o uzyskanie uprawnień zawodowych, uznać posiadanie innego zawodowej za spełnienie wymagań kwalifikacyjnych, o których mowa w ust. 1 lub 2.
 
 **Art. 44b.**
 
@@ -1453,7 +1365,7 @@ Prawo geodezyjne i kartograficzne
 
 4. Osoba zainteresowana prowadzi dziennik praktyki zawodowej. Prace geodezyjne i kartograficzne wykonywane w ramach praktyki zawodowej są potwierdzane przez osobę posiadającą uprawnienia zawodowe w odpowiednim zakresie, pod kierunkiem której prace te były wykonywane.
 
-5. praktyki zawodowej wydaje, na wniosek osoby zainteresowanej, Główny Geodeta Kraju.
+5. Dziennik praktyki zawodowej wydaje, na wniosek osoby zainteresowanej, Główny Geodeta Kraju.
 
 6. Osoba zainteresowana ponosi opłatę za wydanie dziennika praktyki zawodowej w wysokości 50 zł.
 
@@ -1463,8 +1375,7 @@ Prawo geodezyjne i kartograficzne
 
 - **1)** datę wydania dziennika praktyki zawodowej;
 - **2)** imię, nazwisko i adres osoby zainteresowanej, której wydano dziennik praktyki zawodowej;
-- **3)** określenie zakresu uprawnień zawodowych, o których nadanie ubiega się osoba zainteresowana;
-- **4)** oznaczenie dokumentu potwierdzającego wykształcenie osoby zainteresowanej wymagane do rozpoczęcia praktyki zawodowej;
+- **3)** określenie zakresu uprawnień zawodowych, o których nadanie ubiega się osoba zainteresowana; wymagane do rozpoczęcia praktyki zawodowej;
 - **5)** potwierdzenie odbioru dziennika praktyki zawodowej przez osobę zainteresowaną.
 
 **Art. 45.**
@@ -1489,8 +1400,7 @@ Prawo geodezyjne i kartograficzne
 
 2. Postępowanie kwalifikacyjne obejmuje:
 
-- **1)** część wstępną, polegającą na weryfikacji dokumentów, o których mowa w art. 45 ust. 3;
-- **2)** część sprawdzającą, polegającą na przeprowadzeniu egzaminu ze znajomości przepisów w dziedzinie geodezji i kartografii.
+- **1)** część wstępną, polegającą na weryfikacji dokumentów, o których mowa w art. 45 ust. 3; przepisów w dziedzinie geodezji i kartografii.
 
 3. Postępowania kwalifikacyjnego określonego w ust. 2 pkt 2 nie prowadzi się wobec osób, o których mowa w art. 44 ust. 3 i art. 44a ust. 1 pkt 3 i ust. 3.
 
@@ -1520,9 +1430,7 @@ Prawo geodezyjne i kartograficzne
 
 2. Wysokość opłaty za przeprowadzenie postępowania kwalifikacyjnego nie może być większa niż połowa wysokości kwoty przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w roku poprzedzającym przeprowadzenie postępowania kwalifikacyjnego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672 oraz z 2024 r. poz. 834 i 858).
 
-3. W przypadku gdy postępowanie kwalifikacyjne obejmuje tylko część wstępną, o której mowa w art. 45a ust. 2 pkt 1, wysokość opłaty nie może być większa niż 20 % opłaty, o której mowa w ust. 2.
-
-4. Wniesiona opłata za przeprowadzenie postępowania kwalifikacyjnego podlega zwrotowi:
+3. W przypadku gdy postępowanie kwalifikacyjne obejmuje tylko część wstępną, o której mowa w art. 45a ust. 2 pkt 1, wysokość opłaty nie może być większa niż 20 % opłaty, o której mowa w ust. 2. podlega zwrotowi:
 
 - **1)** w całości, w przypadku gdy osoba zainteresowana nie później niż w terminie 14 dni przed wyznaczoną datą przeprowadzenia części wstępnej wycofa wniosek o nadanie uprawnień zawodowych;
 - **2)** za część sprawdzającą, o której mowa w art. 45a ust. 2 pkt 2, w przypadku gdy osoba zainteresowana:
@@ -1531,11 +1439,20 @@ Prawo geodezyjne i kartograficzne
 
 5. Opłatę wniesioną za przeprowadzenie postępowania kwalifikacyjnego, na wniosek osoby zainteresowanej, zwraca się na podany przez tę osobę numer rachunku bankowego albo przekazem pocztowym.
 
-**Art. 45e.** Postępowanie kwalifikacyjne w sprawie nadania uprawnień zawodowych trwa nie dłużej niż 4 miesiące od dnia jego wszczęcia, a w przypadku postępowania obejmującego tylko część wstępną nie dłużej niż 2 miesiące.
+**Art. 45e.** Postępowanie kwalifikacyjne w sprawie nadania uprawnień zawodowych trwa nie dłużej niż 4 miesiące od dnia jego wszczęcia, a w przypadku postępowania obejmującego tylko część wstępną – nie dłużej niż 2 miesiące.
 
 **Art. 45f.**
 
 1. Po zakończeniu postępowania kwalifikacyjnego stwierdzającego spełnienie wymagań określonych w art. 44 lub art. 44a Główny Geodeta Kraju wydaje osobie zainteresowanej świadectwo stwierdzające nadanie uprawnień zawodowych i wpisuje ją do centralnego rejestru osób posiadających uprawnienia zawodowe. Odmowa nadania uprawnień zawodowych następuje w drodze decyzji.
+
+1a. Świadectwo, o którym mowa w ust. 1, może być udostępnione w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019), po uwierzytelnieniu osoby zainteresowanej przy użyciu certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 tej ustawy.
+
+1b. Świadectwo, o którym mowa w ust. 1, udostępnione w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, zawiera następujące informacje:
+
+- **1)** wskazanie organu wydającego świadectwo;
+- **2)** numer świadectwa;
+- **3)** zdjęcie osoby, której nadano uprawnienia zawodowe;
+- **4)** nazwisko i imię (imiona) osoby, której nadano uprawnienia zawodowe;
 
 2. (uchylony)
 
@@ -1563,30 +1480,20 @@ Prawo geodezyjne i kartograficzne
 
 5. Wyciągi z rejestru zawierające dane wymienione w ust. 3 pkt 1–3, 8 i 9 podlegają publikacji w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Urzędu Geodezji i Kartografii. Publikacji podlegają także zmiany w rejestrze.
 
-6. Publikacji w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Urzędu Geodezji i Kartografii nie podlegają dane, o których mowa w ust. 3 pkt 1–3, 8 i 9, dotyczące osób, wobec których prawomocnie orzeczono karę, o której mowa w art. 46a ust. 1 pkt 3, w okresie jej trwania.
+6. Publikacji w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Urzędu Geodezji i Kartografii nie podlegają dane, o których mowa w ust. 3 pkt 1–3, 8 i 9, dotyczące osób, wobec których prawomocnie orzeczono karę, o której mowa w art. 46a ust. 1 pkt 3, w okresie jej trwania. i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia:
 
-**Art. 45h.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia:
+- **1)** sposób, tryb i szczegółowe warunki nadawania uprawnień zawodowych oraz działania komisji kwalifikacyjnej, w szczególności:
+    - **a)** tryb składania dokumentów, o których mowa w art. 45 ust. 3,
+    - **b)** warunki uznawania praktyki zawodowej, a także sposób prowadzenia dziennika praktyki zawodowej, w tym jego wzór,
+    - **c)** organizację i sposób działania komisji kwalifikacyjnej,
+    - **d)** sposób przeprowadzania postępowania kwalifikacyjnego i ustalania jego kosztów,
+    - **e)** wzory świadectw stwierdzających nadanie uprawnień zawodowych w dziedzinie geodezji i kartografii,
+    - **f)** warunki, które powinien spełniać program studiów osób ubiegających się o nadanie uprawnień zawodowych w zakresach, o których mowa w art. 43 pkt 3, 6 i 7, aby komisja kwalifikacyjna mogła uznać umiejętności, o których mowa w art. 44a ust. 1 pkt 3 lit. a, jako spełniające wymagania do nadania uprawnień zawodowych – mając na względzie zapewnienie przejrzystego i sprawnego przeprowadzania czynności związanych z nadawaniem uprawnień zawodowych, a także uznawaniem praktyki zawodowej;
+
+- **2)** wysokość opłaty za postępowanie kwalifikacyjne, kierując się wysokością kosztów postępowania kwalifikacyjnego i wydatków związanych z funkcjonowaniem komisji kwalifikacyjnej oraz tryb pobierania tej opłaty, uwzględniając części postępowania kwalifikacyjnego;
+- **3)** wysokość wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej, uwzględniając liczbę osób przystępujących do postępowania kwalifikacyjnego oraz sposób przeprowadzenia postępowania kwalifikacyjnego.
 
 **Art. 46.** Osoba wykonująca samodzielne funkcje w dziedzinie geodezji i kartografii ponosi odpowiedzialność dyscyplinarną, jeżeli wykonuje swoje zadania:
-
-**Art. 46a.**
-
-1. Karami dyscyplinarnymi są:
-
-- **1)** upomnienie;
-- **2)** nagana;
-- **3)** zawieszenie możliwości wykonywania uprawnień zawodowych na okres od 6 miesięcy do 1 roku;
-- **4)** odebranie uprawnień zawodowych.
-
-2. Osoba, której odebrano uprawnienia zawodowe, może ubiegać się o ponowne ich uzyskanie po upływie 3 lat od dnia ich odebrania.
-
-3. Organ orzekający w sprawach odpowiedzialności dyscyplinarnej osób wykonujących samodzielne funkcje w dziedzinie geodezji i kartografii wymierza karę w granicach określonych w ustawie, uwzględniając stopień szkodliwości czynu, stopień winy, a także cele kary w zakresie społecznego oddziaływania oraz cele zapobiegawcze i dyscyplinujące, które ma osiągnąć w stosunku do ukaranego.
-
-4. Wymierzając karę, organ orzekający uwzględnia motywy i sposób działania, okoliczności działania lub zaniechania, jak również właściwości, warunki osobiste osoby, wobec której toczy się postępowanie dyscyplinarne oraz jej doświadczenie zawodowe.
-
-5. Karę określoną w ust. 1 pkt 3 wymierza się w przypadku rażącego naruszenia przepisów obowiązujących w geodezji i kartografii.
-
-6. Karę określoną w ust. 1 pkt 4 wymierza się w przypadku, gdy na skutek rażącego naruszenia przepisów nastąpiło zagrożenie dla zdrowia, życia lub mienia o dużej wartości.
 
 **Art. 46b.** Postępowanie dyscyplinarne może być wszczęte niezależnie od innych rodzajów odpowiedzialności za ten sam czyn.
 
@@ -1594,15 +1501,11 @@ Prawo geodezyjne i kartograficzne
 
 1. Nie można wszcząć postępowania dyscyplinarnego, jeżeli od chwili popełnienia czynu upłynęły trzy lata.
 
-2. Jeżeli jednak czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie następuje wcześniej niż przedawnienie przewidziane w przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2024 r. poz. 17).
+2. Jeżeli jednak czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie następuje wcześniej niż przedawnienie przewidziane w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17).
 
 3. Wszczęcie postępowania wyjaśniającego przerywa bieg terminu przedawnienia, o którym mowa w ust. 1.
 
-4. Karalność przewinienia dyscyplinarnego ustaje, jeżeli od czasu jego popełnienia upłynęło pięć lat.
-
-**Art. 46d.**
-
-1. Rzecznika dyscyplinarnego powołuje i odwołuje wojewoda na wniosek wojewódzkiego inspektora nadzoru geodezyjnego i kartograficznego.
+4. Karalność przewinienia dyscyplinarnego ustaje, jeżeli od czasu jego popełnienia upłynęło pięć lat. wniosek wojewódzkiego inspektora nadzoru geodezyjnego i kartograficznego.
 
 2. Rzecznikiem dyscyplinarnym może być osoba zatrudniona w urzędzie wojewódzkim dająca należytą rękojmię wykonywania tej funkcji z racji posiadanej wiedzy oraz doświadczenia w dziedzinie geodezji i kartografii.
 
@@ -1634,7 +1537,7 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 46h.**
 
-1. Członków wojewódzkiej komisji dyscyplinarnej, w tym przewodniczącego, powołuje, w drodze zarządzenia, na czteroletnią kadencję, wojewoda, na wniosek wojewódzkiego inspektora nadzoru geodezyjnego i kartograficznego.
+1. Członków wojewódzkiej komisji dyscyplinarnej, w tym przewodniczącego, powołuje, w drodze zarządzenia, na czteroletnią kadencję, i kartograficznego.
 
 2. Członkiem wojewódzkiej komisji dyscyplinarnej może być osoba dająca należytą rękojmię wykonywania tej funkcji z racji posiadanej wiedzy oraz doświadczenia w dziedzinie geodezji i kartografii.
 
@@ -1650,7 +1553,7 @@ Prawo geodezyjne i kartograficzne
 
 2. Członkowie komisji dyscyplinarnych w zakresie orzekania są niezawiśli.
 
-3. Obsługę administracyjną wojewódzkich komisji dyscyplinarnych zapewniają odpowiedni wojewodowie, a Odwoławczej Komisji Dyscyplinarnej Główny Geodeta Kraju.
+3. Obsługę administracyjną wojewódzkich komisji dyscyplinarnych zapewniają odpowiedni wojewodowie, a Odwoławczej Komisji Dyscyplinarnej – Główny Geodeta Kraju.
 
 **Art. 46k.**
 
@@ -1664,9 +1567,7 @@ Prawo geodezyjne i kartograficzne
 
 1. Stronami w postępowaniu dyscyplinarnym są obwiniony i rzecznik dyscyplinarny.
 
-2. Oskarżycielem jest rzecznik dyscyplinarny.
-
-3. Za obwinionego uważa się osobę wykonującą samodzielne funkcje w dziedzinie geodezji i kartografii, przeciwko której rzecznik dyscyplinarny złożył do wojewódzkiej komisji dyscyplinarnej wniosek o ukaranie.
+2. Oskarżycielem jest rzecznik dyscyplinarny. w dziedzinie geodezji i kartografii, przeciwko której rzecznik dyscyplinarny złożył do wojewódzkiej komisji dyscyplinarnej wniosek o ukaranie.
 
 **Art. 46m.**
 
@@ -1686,13 +1587,13 @@ Prawo geodezyjne i kartograficzne
 
 **Art. 46p.**
 
-1. Od orzeczeń Odwoławczej Komisji Dyscyplinarnej stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego sądu pracy i ubezpieczeń społecznych. Do rozpoznania odwołania stosuje się przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o apelacji.
+1. Od orzeczeń Odwoławczej Komisji Dyscyplinarnej stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego – sądu pracy i ubezpieczeń społecznych. Do rozpoznania odwołania stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o apelacji.
 
 2. Odwołanie wnosi się za pośrednictwem Odwoławczej Komisji Dyscyplinarnej w terminie 30 dni od dnia doręczenia orzeczenia wraz z uzasadnieniem.
 
 **Art. 46r.**
 
-1. Karę dyscyplinarną, z wyjątkiem kary odebrania uprawnień zawodowych, uważa się za niebyłą i wzmiankę o niej wykreśla się z centralnego rejestru osób posiadających uprawnienia zawodowe po upływie 2 lat od uprawomocnienia się orzeczenia.
+1. Karę dyscyplinarną, z wyjątkiem kary odebrania uprawnień zawodowych, uważa się za niebyłą i wzmiankę o niej wykreśla się z centralnego uprawomocnienia się orzeczenia.
 
 2. Karę dyscyplinarną odebrania uprawnień zawodowych uważa się za niebyłą po upływie 5 lat od uprawomocnienia się orzeczenia.
 
@@ -1717,13 +1618,11 @@ Prawo geodezyjne i kartograficzne
 
 1. Koszty postępowania dyscyplinarnego stanowią wydatki poniesione w związku z tym postępowaniem.
 
-2. W razie ukarania koszty postępowania dyscyplinarnego ponosi obwiniony. W pozostałych przypadkach koszty postępowania przed wojewódzką komisją dyscyplinarną pokrywa właściwy wojewoda, a koszty postępowania przed Odwoławczą Komisją Dyscyplinarną Główny Geodeta Kraju.
+2. W razie ukarania koszty postępowania dyscyplinarnego ponosi obwiniony. W pozostałych przypadkach koszty postępowania przed wojewódzką komisją dyscyplinarną pokrywa właściwy wojewoda, a koszty postępowania przed Odwoławczą Komisją Dyscyplinarną – Główny Geodeta Kraju.
 
 3. Wpływy z tytułu zwrotu kosztów postępowania dyscyplinarnego stanowią dochód budżetu państwa.
 
-**Art. 46w.** Do postępowań przed komisjami dyscyplinarnymi w sprawach odpowiedzialności dyscyplinarnej, w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37), z tym że nie stosuje się przepisów o oskarżycielu prywatnym, przedstawicielu społecznym, postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej.
-
-**Art. 47.** Jeżeli przy wykonywaniu funkcji mierniczych górniczych lub biegłych sądowych jest niezbędne prowadzenie prac geodezyjnych podlegających obowiązkowi zgłoszenia do organu Służby Geodezyjnej i Kartograficznej, osoby wykonujące te prace powinny posiadać uprawnienia zawodowe zgodnie z przepisami ustawy.
+**Art. 46w.** Do postępowań przed komisjami dyscyplinarnymi w sprawach odpowiedzialności dyscyplinarnej, w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37), z tym że nie stosuje się przepisów o oskarżycielu prywatnym, przedstawicielu społecznym, postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej. sądowych jest niezbędne prowadzenie prac geodezyjnych podlegających obowiązkowi zgłoszenia do organu Służby Geodezyjnej i Kartograficznej, osoby wykonujące te prace powinny posiadać uprawnienia zawodowe zgodnie z przepisami ustawy.
 
 #### Rozdział 8a Ewidencja miejscowości, ulic i adresów
 
@@ -1751,7 +1650,7 @@ Prawo geodezyjne i kartograficzne
 - **1)** nazwy miejscowości oraz dane określające położenie tych miejscowości;
 - **2)** nazwy ulic i placów oraz dane określające położenie tych ulic i placów;
 - **3)** identyfikatory miejscowości, ulic i placów pochodzące z krajowego rejestru urzędowego podziału terytorialnego kraju;
-- **4)** dodatkowe tradycyjne nazwy miejscowości, ulic i placów w języku mniejszości, jeżeli zachodzą okoliczności, o których mowa w art. 12 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r. poz. 823);
+- **4)** dodatkowe tradycyjne nazwy miejscowości, ulic i placów w języku mniejszości, jeżeli zachodzą okoliczności, o których mowa w art. 12 ustawy z dnia 6 stycznia (Dz. U. z 2017 r. poz. 823);
 - **5)** dane adresowe określające:
     - **a)** numery porządkowe budynków mieszkalnych oraz innych budynków przeznaczonych do stałego lub czasowego przebywania ludzi, w tym w szczególności budynków: biurowych, ogólnodostępnych wykorzystywanych na cele kultury i kultury fizycznej, o charakterze edukacyjnym, szpitali i opieki medycznej oraz przeznaczonych do działalności gospodarczej, wybudowanych, w trakcie budowy i prognozowanych do wybudowania,
     - **b)** kody pocztowe,
@@ -1771,11 +1670,7 @@ Prawo geodezyjne i kartograficzne
 
 8. W przypadku braku porozumienia, o którym mowa w ust. 7, numery porządkowe ustala, w drodze zarządzenia, wojewoda.
 
-9. Numery porządkowe nowo budowanych budynków, niewykazanych w ewidencji, o której mowa w ust. 4, ustala się przed rozpoczęciem ich użytkowania.
-
-**Art. 47b.**
-
-1. Właściciele nieruchomości zabudowanych lub inne podmioty uwidocznione w ewidencji gruntów i budynków, które takimi nieruchomościami władają, mają obowiązek umieszczenia w widocznym miejscu na ścianie frontowej budynku albo ogrodzeniu tabliczki z numerem porządkowym w terminie 30 dni od dnia otrzymania zawiadomienia o ustaleniu tego numeru.
+9. Numery porządkowe nowo budowanych budynków, niewykazanych w ewidencji, o której mowa w ust. 4, ustala się przed rozpoczęciem ich użytkowania. uwidocznione w ewidencji gruntów i budynków, które takimi nieruchomościami władają, mają obowiązek umieszczenia w widocznym miejscu – na ścianie frontowej budynku albo ogrodzeniu tabliczki z numerem porządkowym w terminie 30 dni od dnia otrzymania zawiadomienia o ustaleniu tego numeru.
 
 2. (uchylony)
 
@@ -1793,13 +1688,13 @@ Prawo geodezyjne i kartograficzne
 
 - **1)** wbrew przepisom art. 12 ust. 1 nie zgłasza prac geodezyjnych do organu Służby Geodezyjnej i Kartograficznej lub wbrew przepisom art. 12a nie przekazuje do organu Służby Geodezyjnej i Kartograficznej wyników zgłoszonych prac geodezyjnych,
 - **2)** wbrew przepisom art. 13 ust. 1 pkt 1 utrudnia lub uniemożliwia osobie wykonującej prace geodezyjne i kartograficzne wejście na grunt lub do obiektu budowlanego i dokonanie niezbędnych czynności związanych z wykonywaną pracą,
-- **3)** wbrew przepisom art. 15 niszczy, uszkadza, przemieszcza znaki geodezyjne, grawimetryczne lub magnetyczne i urządzenia zabezpieczające te znaki oraz budowle triangulacyjne, a także nie zawiadamia właściwych organów o zniszczeniu, uszkodzeniu lub przemieszczeniu znaków geodezyjnych, grawimetrycznych lub magnetycznych, urządzeń zabezpieczających te znaki oraz budowli triangulacyjnych,
+- **3)** wbrew przepisom art. 15 niszczy, uszkadza, przemieszcza znaki geodezyjne, grawimetryczne lub magnetyczne i urządzenia zabezpieczające te znaki oraz budowle triangulacyjne, a także nie zawiadamia właściwych organów grawimetrycznych lub magnetycznych, urządzeń zabezpieczających te znaki oraz budowli triangulacyjnych,
 - **4)** (uchylony)
 - **5)** wbrew przepisom art. 22 ust. 2, będąc obowiązany do zgłoszenia zmian danych objętych ewidencją gruntów i budynków, nie zgłosi ich do właściwego organu w ciągu 30 dni od dnia powstania zmian,
 - **6)** (uchylony)
-- **7)** wbrew przepisom art. 42 bez wymaganych uprawnień zawodowych wykonuje samodzielne funkcje w dziedzinie geodezji i kartografii podlega karze grzywny.
+- **7)** wbrew przepisom art. 42 bez wymaganych uprawnień zawodowych wykonuje samodzielne funkcje w dziedzinie geodezji i kartografii – podlega karze grzywny.
 
-1a. Kto wbrew przepisom art. 47b ust. 1, będąc obowiązanym do umieszczenia tabliczki z numerem porządkowym, nie umieści jej w widocznym miejscu na ścianie frontowej budynku albo ogrodzeniu w terminie 30 dni od dnia otrzymania zawiadomienia o ustaleniu tego numeru podlega karze grzywny do 250 złotych albo karze nagany.
+1a. Kto wbrew przepisom art. 47b ust. 1, będąc obowiązanym do umieszczenia tabliczki z numerem porządkowym, nie umieści jej w widocznym miejscu – na ścianie frontowej budynku albo ogrodzeniu w terminie 30 dni od dnia otrzymania zawiadomienia o ustaleniu tego numeru podlega karze grzywny do 250 złotych albo karze nagany.
 
 2. W wypadkach określonych w ust. 1 i 1a orzekanie następuje na podstawie przepisów o postępowaniu w sprawach o wykroczenia.
 
@@ -1814,9 +1709,7 @@ Prawo geodezyjne i kartograficzne
 - **1)** Główny Geodeta Kraju, jeżeli naruszenie dotyczy wykorzystywania materiałów centralnego zasobu geodezyjnego i kartograficznego;
 - **2)** wojewódzki inspektor nadzoru geodezyjnego i kartograficznego, jeżeli naruszenie dotyczy wykorzystywania materiałów wojewódzkiego lub powiatowego zasobu geodezyjnego i kartograficznego.
 
-3. Kary pieniężne stanowią dochód budżetu państwa.
-
-4. W przypadku uchylenia albo stwierdzenia nieważności decyzji oraz uwzględnienia skargi przez sąd administracyjny uiszczona kara pieniężna podlega zwrotowi.
+3. Kary pieniężne stanowią dochód budżetu państwa. uwzględnienia skargi przez sąd administracyjny uiszczona kara pieniężna podlega zwrotowi.
 
 #### Rozdział 10 Przepisy przejściowe i końcowe
 
@@ -1844,13 +1737,11 @@ Prawo geodezyjne i kartograficzne
 
 1. Organ administracji może prowadzić mapę zasadniczą w postaci analogowej do czasu jej przekształcenia do postaci cyfrowej i utworzenia baz danych, o których mowa w art. 4 ust. 1a pkt 2, 3 i 10 oraz ust. 1b, nie dłużej jednak niż do dnia 31 grudnia 2013 r.
 
-2. W okresie od dnia 1 stycznia 2014 r. do dnia 31 grudnia 2024 r., w przypadku nieutworzenia baz danych, o których mowa w art. 4 ust. 1a pkt 2, 3, 10 i 12, mapa zasadnicza może być prowadzona w postaci wektorowej lub w postaci rastrowej uzupełnianej systematycznie danymi wektorowymi, na zasadach stosowanych przed dniem 1 stycznia 2014 r.
+2. W okresie od dnia 1 stycznia 2014 r. do dnia 31 grudnia 2027 r., w przypadku nieutworzenia baz danych, o których mowa w art. 4 ust. 1a pkt 2, 3, 10 i 12, mapa uzupełnianej systematycznie danymi wektorowymi, na zasadach stosowanych przed dniem 1 stycznia 2014 r.
 
 **Art. 54.** Ustawa nie narusza przepisów:
 
-**Art. 58.** Tracą moc:
-
 **Art. 59.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie pozostają w mocy dotychczasowe przepisy, jeżeli nie są z nią sprzeczne.
 
-**Art. 60.** Ustawa wchodzi w życie z dniem 1 lipca 1989 r.
+**Art. 60.** Ustawa wchodzi w życie z dniem 1 lipca 1989 r. Załącznik do ustawy z dnia 17 Wop = Sp × Ljr × CL × SU × PD gdzie Ljr jest liczbą jednostek rozliczeniowych udostępnianych materiałów zasobu. Wop = Sp × [L1 + (Ljr – L1) × LR1] x CL Wop = Sp × [L1 + (L2 – L1) × LR1 + (Ljr – L2) × LR2] UDOSTĘPNIANIE MATERIAŁÓW ZASOBU DOTYCZĄCYCH O KTÓRYCH MOWA W ART. 12
 

@@ -8,9 +8,12 @@ pos: 779
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 czerwca 2025 r.
+# o Krajowej Sieci Kardiologicznej
+
+*USTAWA z dnia 4 czerwca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2025-06-17 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000779) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/779/text.pdf) |
-
-USTAWA z dnia 4 czerwca 2025 r.
-o Krajowej Sieci Kardiologicznej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -41,8 +41,8 @@ o Krajowej Sieci Kardiologicznej
 
 2. W przypadku podmiotu leczniczego, w którego strukturze działają zakłady lecznicze, które samodzielnie spełniają warunki zakwalifikowania podmiotu leczniczego, w zakresie dotyczącym zakładu leczniczego, na dany poziom zabezpieczenia opieki kardiologicznej KSK, o których mowa w art. 16 ust. 1, oraz szczegółowe kryteria określone w przepisach wydanych na podstawie art. 16 ust. 2, podmiot ten kwalifikuje się do KSK, jeżeli za pomocą tych zakładów udziela się świadczeń opieki zdrowotnej w:
 
-- **1)** różnych lokalizacjach na odpowiednie poziomy zabezpieczenia opieki kardiologicznej KSK w zakresie każdego zakładu leczniczego oddzielnie;
-- **2)** ramach jednej lokalizacji na dany poziom zabezpieczenia opieki kardiologicznej KSK, którego kryteria spełniają łącznie zakłady lecznicze w tej lokalizacji.
+- **1)** różnych lokalizacjach – na odpowiednie poziomy zabezpieczenia opieki kardiologicznej KSK w zakresie każdego zakładu leczniczego oddzielnie;
+- **2)** ramach jednej lokalizacji – na dany poziom zabezpieczenia opieki kardiologicznej KSK, którego kryteria spełniają łącznie zakłady lecznicze w tej lokalizacji.
 
 **Art. 4.**
 
@@ -118,7 +118,7 @@ o Krajowej Sieci Kardiologicznej
 
 2. Do udzielania świadczeń gwarantowanych z zakresu kardiologii interwencyjnej są uprawnione wyłącznie ośrodki kardiologiczne drugiego i trzeciego poziomu zabezpieczenia opieki kardiologicznej KSK, z wyjątkiem świadczeń opieki zdrowotnej udzielanych w stanach nagłych zgodnie z art. 19 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-**Art. 11.** Narodowy Instytut Kardiologii Stefana Kardynała Wyszyńskiego Państwowy Instytut Badawczy z siedzibą w Warszawie pełni rolę ośrodka koordynującego funkcjonowanie KSK, zwanego dalej „ośrodkiem koordynującym”.
+**Art. 11.** Narodowy Instytut Kardiologii Stefana Kardynała Wyszyńskiego – Państwowy Instytut Badawczy z siedzibą w Warszawie pełni rolę ośrodka koordynującego funkcjonowanie KSK, zwanego dalej „ośrodkiem koordynującym”.
 
 **Art. 12.** Ośrodki kardiologiczne współpracują w zakresie realizacji i koordynacji opieki kardiologicznej z niezakwalifikowanymi do KSK podmiotami leczniczymi, które posiadają zawartą z Funduszem umowę o udzielanie świadczeń opieki zdrowotnej w zakresie:
 
@@ -177,10 +177,10 @@ o Krajowej Sieci Kardiologicznej
 
 1. Prezes Funduszu, w drodze decyzji, w przypadku:
 
-- **1)** stwierdzenia niespełniania przez ośrodek kardiologiczny warunków zakwalifikowania podmiotu leczniczego, w zakresie dotyczącym zakładu leczniczego, na dany poziom zabezpieczenia opieki kardiologicznej KSK, o których mowa w art. 16 ust. 1, oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 wykreśla ośrodek kardiologiczny z wykazu, o którym mowa w art. 13 ust. 3, albo kwalifikuje go na inny poziom zabezpieczenia opieki kardiologicznej KSK;
-- **2)** stwierdzenia nieosiągnięcia przez ośrodek kardiologiczny wartości minimalnej wskaźników jakości opieki kardiologicznej wskazanych w planie naprawczym KSK, o którym mowa w art. 20 ust. 3 wykreśla ośrodek kardiologiczny z wykazu, o którym mowa w art. 13 ust. 3;
-- **3)** wydania przez Radę negatywnej opinii dotyczącej planu naprawczego, o której mowa w art. 20 ust. 6 wykreśla ośrodek kardiologiczny z wykazu, o którym mowa w art. 13 ust. 3;
-- **4)** stwierdzenia niespełniania warunku określonego w art. 13 ust. 1 pkt 1 wykreśla ośrodek kardiologiczny z wykazu, o którym mowa w art. 13 ust. 3.
+- **1)** stwierdzenia niespełniania przez ośrodek kardiologiczny warunków zakwalifikowania podmiotu leczniczego, w zakresie dotyczącym zakładu leczniczego, na dany poziom zabezpieczenia opieki kardiologicznej KSK, o których mowa w art. 16 ust. 1, oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 – wykreśla ośrodek kardiologiczny z wykazu, o którym mowa w art. 13 ust. 3, albo kwalifikuje go na inny poziom zabezpieczenia opieki kardiologicznej KSK;
+- **2)** stwierdzenia nieosiągnięcia przez ośrodek kardiologiczny wartości minimalnej wskaźników jakości opieki kardiologicznej wskazanych w planie naprawczym KSK, o którym mowa w art. 20 ust. 3 – wykreśla ośrodek kardiologiczny z wykazu, o którym mowa w art. 13 ust. 3;
+- **3)** wydania przez Radę negatywnej opinii dotyczącej planu naprawczego, o której mowa w art. 20 ust. 6 – wykreśla ośrodek kardiologiczny z wykazu, o którym mowa w art. 13 ust. 3;
+- **4)** stwierdzenia niespełniania warunku określonego w art. 13 ust. 1 pkt 1 – wykreśla ośrodek kardiologiczny z wykazu, o którym mowa w art. 13 ust. 3.
 
 2. Do postępowania, o którym mowa w ust. 1, przepisy art. 14 ust. 2, 4 i 5 stosuje się odpowiednio.
 
@@ -193,7 +193,7 @@ o Krajowej Sieci Kardiologicznej
 - **1)** liczba i kwalifikacje personelu medycznego;
 - **2)** potencjał diagnostyczno-terapeutyczny, obejmujący posiadane komórki organizacyjne oraz organizację udzielania świadczeń, zapewniający odpowiednią jakość i bezpieczeństwo udzielanych świadczeń opieki zdrowotnej;
 - **3)** rodzaj wykonywanych procedur medycznych;
-- **4)** liczba wykonywanych procedur medycznych lub liczba świadczeniobiorców, którym są udzielane świadczenia opieki zdrowotnej w przypadku CDK.
+- **4)** liczba wykonywanych procedur medycznych lub liczba świadczeniobiorców, którym są udzielane świadczenia opieki zdrowotnej – w przypadku CDK.
 
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe kryteria kwalifikacji do KSK, o których mowa w ust. 1 pkt 1–3, mając na uwadze konieczność zapewnienia kompleksowej opieki kardiologicznej w ramach danego poziomu zabezpieczenia opieki kardiologicznej KSK.
 
@@ -208,11 +208,11 @@ o Krajowej Sieci Kardiologicznej
 
 2. Wyniki weryfikacji, o której mowa w art. 13 ust. 1 pkt 3, decydują o:
 
-- **1)** pozostaniu ośrodka kardiologicznego na danym poziomie zabezpieczenia opieki kardiologicznej KSK w przypadku spełniania kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 w zakresie poziomu, na który był zakwalifikowany;
-- **2)** utrzymaniu statusu CDK w przypadku spełniania szczegółowych kryteriów kwalifikacji CDK określonych w przepisach wydanych na podstawie art. 16 ust. 3;
-- **3)** zmianie poziomu zabezpieczenia opieki kardiologicznej KSK ośrodka kardiologicznego na wyższy poziom w przypadku spełnienia kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 w zakresie wyższego poziomu zabezpieczenia opieki kardiologicznej KSK niż poziom, na który był zakwalifikowany;
-- **4)** zmianie poziomu zabezpieczenia opieki kardiologicznej KSK ośrodka kardiologicznego na niższy poziom w przypadku niespełniania kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 w zakresie poziomu, na który był zakwalifikowany;
-- **5)** wykreśleniu z wykazu, o którym mowa w art. 13 ust. 3, ośrodka kardiologicznego w przypadku niespełniania kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 w zakresie któregokolwiek z poziomów zabezpieczenia opieki kardiologicznej KSK.
+- **1)** pozostaniu ośrodka kardiologicznego na danym poziomie zabezpieczenia opieki kardiologicznej KSK – w przypadku spełniania kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 w zakresie poziomu, na który był zakwalifikowany;
+- **2)** utrzymaniu statusu CDK – w przypadku spełniania szczegółowych kryteriów kwalifikacji CDK określonych w przepisach wydanych na podstawie art. 16 ust. 3;
+- **3)** zmianie poziomu zabezpieczenia opieki kardiologicznej KSK ośrodka kardiologicznego na wyższy poziom – w przypadku spełnienia kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 w zakresie wyższego poziomu zabezpieczenia opieki kardiologicznej KSK niż poziom, na który był zakwalifikowany;
+- **4)** zmianie poziomu zabezpieczenia opieki kardiologicznej KSK ośrodka kardiologicznego na niższy poziom – w przypadku niespełniania kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 w zakresie poziomu, na który był zakwalifikowany;
+- **5)** wykreśleniu z wykazu, o którym mowa w art. 13 ust. 3, ośrodka kardiologicznego – w przypadku niespełniania kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 w zakresie któregokolwiek z poziomów zabezpieczenia opieki kardiologicznej KSK.
 
 3. Ośrodek kardiologiczny wykreślony z wykazu, o którym mowa w art. 13 ust. 3, na podstawie ust. 2 pkt 5 może złożyć wniosek o warunkową kwalifikację, o której mowa w art. 18, nie wcześniej niż po upływie 2 lat od dnia wykreślenia z wykazu.
 
@@ -231,11 +231,11 @@ o Krajowej Sieci Kardiologicznej
 5. Prezes Funduszu po zapoznaniu się z opinią Rady, o której mowa w ust. 3, może dokonać w przypadku, o którym mowa w:
 
 - **1)** ust. 1, warunkowej kwalifikacji podmiotu leczniczego, w zakresie dotyczącym danego zakładu leczniczego, na dany poziom zabezpieczenia opieki kardiologicznej KSK,
-- **2)** ust. 2, warunkowej kwalifikacji ośrodka kardiologicznego, w zakresie dotyczącym danego zakładu leczniczego, na wyższy poziom zabezpieczenia opieki kardiologicznej KSK oraz dokonuje odpowiedniej zmiany w wykazie, o którym mowa w art. 13 ust. 3.
+- **2)** ust. 2, warunkowej kwalifikacji ośrodka kardiologicznego, w zakresie dotyczącym danego zakładu leczniczego, na wyższy poziom zabezpieczenia opieki kardiologicznej KSK – oraz dokonuje odpowiedniej zmiany w wykazie, o którym mowa w art. 13 ust. 3.
 
 6. Podmiot leczniczy, o którym mowa w ust. 1, warunkowo zakwalifikowany do KSK, w zakresie zakładu leczniczego, u którego w trakcie weryfikacji, o której mowa w art. 13 ust. 1 pkt 3, nie zostanie potwierdzone spełnienie kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2, podlega wykreśleniu z wykazu, o którym mowa w art. 13 ust. 3. Podmiot wykreślony z wykazu, o którym mowa w art. 13 ust. 3, może złożyć wniosek o kolejną warunkową kwalifikację do KSK nie wcześniej niż po upływie 2 lat od dnia wykreślenia podmiotu z wykazu.
 
-7. Ośrodek kardiologiczny, o którym mowa w ust. 2, którego zakład leczniczy został warunkowo zakwalifikowany na wyższy poziom zabezpieczenia opieki kardiologicznej KSK, u którego w trakcie weryfikacji, o której mowa w art. 13 ust. 1 pkt 3, nie zostanie potwierdzone spełnienie kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 na ten poziom, podlega kwalifikacji na poziom zabezpieczenia opieki kardiologicznej KSK zgodnie ze spełnianymi w dniu weryfikacji kryteriami kwalifikacji do KSK oraz szczegółowymi kryteriami określonymi w przepisach wydanych na podstawie art. 16 ust. 2 albo w przypadku niespełnienia tych kryteriów wykreśleniu z wykazu, o którym mowa w art. 13 ust. 3.
+7. Ośrodek kardiologiczny, o którym mowa w ust. 2, którego zakład leczniczy został warunkowo zakwalifikowany na wyższy poziom zabezpieczenia opieki kardiologicznej KSK, u którego w trakcie weryfikacji, o której mowa w art. 13 ust. 1 pkt 3, nie zostanie potwierdzone spełnienie kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2 na ten poziom, podlega kwalifikacji na poziom zabezpieczenia opieki kardiologicznej KSK zgodnie ze spełnianymi w dniu weryfikacji kryteriami kwalifikacji do KSK oraz szczegółowymi kryteriami określonymi w przepisach wydanych na podstawie art. 16 ust. 2 albo w przypadku niespełnienia tych kryteriów – wykreśleniu z wykazu, o którym mowa w art. 13 ust. 3.
 
 8. Prezes Funduszu niezwłocznie ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Funduszu zmiany, o których mowa w ust. 5–7, w wykazie, o którym mowa w art. 13 ust. 3.
 
@@ -243,14 +243,14 @@ o Krajowej Sieci Kardiologicznej
 
 1. Ocena poziomu jakości opieki kardiologicznej jest prowadzona w podziale na poszczególne rozpoznania na podstawie wskaźników jakości opieki kardiologicznej mieszczących się w zakresie obszarów:
 
-- **1)** klinicznego opisywanego przez parametry dotyczące poziomów i efektów realizowanych świadczeń opieki zdrowotnej:
+- **1)** klinicznego – opisywanego przez parametry dotyczące poziomów i efektów realizowanych świadczeń opieki zdrowotnej:
     - **a)** efekt leczniczy,
     - **b)** powtórne hospitalizacje z tej samej przyczyny,
     - **c)** śmiertelność po zabiegach w trakcie hospitalizacji w okresach 30 dni, 90 dni oraz roku od dnia zakończenia hospitalizacji,
     - **d)** strukturę procedur medycznych wykonywanych w przypadkach określonych problemów zdrowotnych,
     - **e)** doświadczenie w wykonywaniu określonych świadczeń opieki zdrowotnej;
 
-- **2)** zarządczego opisywanego przez parametry dotyczące organizacji udzielanych świadczeń opieki zdrowotnej:
+- **2)** zarządczego – opisywanego przez parametry dotyczące organizacji udzielanych świadczeń opieki zdrowotnej:
     - **a)** koordynację opieki kardiologicznej,
     - **b)** ciągłość opieki kardiologicznej,
     - **c)** realizację opieki kardiologicznej zgodnie z kluczowymi zaleceniami,
@@ -293,7 +293,7 @@ o Krajowej Sieci Kardiologicznej
 
 **Art. 23.** Ośrodek koordynujący realizuje następujące zadania:
 
-**Art. 24.** Fundusz na podstawie danych przetwarzanych w Systemie RUM NFZ, o którym mowa w art. 22 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, oraz w serwisach internetowych lub usługach informatycznych, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, o świadczeniach opieki zdrowotnej udzielonych świadczeniobiorcom, o których mowa w art. 40 ust. 1 pkt 1, sprawozdanych do Funduszu i do systemu KSK, w tym za pośrednictwem Karty e-KOK, przez ośrodki kardiologiczne i ośrodki współpracujące opracowuje analizę osiąganych przez ośrodki kardiologiczne wskaźników jakości opieki kardiologicznej i przekazuje ją Radzie nie później niż 3 miesiące przed terminem przeprowadzenia weryfikacji, o której mowa w art. 20 ust. 1.
+**Art. 24.** Fundusz na podstawie danych przetwarzanych w Systemie RUM – NFZ, o którym mowa w art. 22 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, oraz w serwisach internetowych lub usługach informatycznych, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, o świadczeniach opieki zdrowotnej udzielonych świadczeniobiorcom, o których mowa w art. 40 ust. 1 pkt 1, sprawozdanych do Funduszu i do systemu KSK, w tym za pośrednictwem Karty e-KOK, przez ośrodki kardiologiczne i ośrodki współpracujące opracowuje analizę osiąganych przez ośrodki kardiologiczne wskaźników jakości opieki kardiologicznej i przekazuje ją Radzie nie później niż 3 miesiące przed terminem przeprowadzenia weryfikacji, o której mowa w art. 20 ust. 1.
 
 **Art. 25.**
 
@@ -311,7 +311,7 @@ o Krajowej Sieci Kardiologicznej
 5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres danych, o których mowa w ust. 4,
-- **2)** terminy wprowadzania do systemu KSK danych, o których mowa w ust. 4 mając na uwadze potrzebę zapewnienia jednolitości i aktualności danych wprowadzanych do systemu KSK.
+- **2)** terminy wprowadzania do systemu KSK danych, o których mowa w ust. 4 – mając na uwadze potrzebę zapewnienia jednolitości i aktualności danych wprowadzanych do systemu KSK.
 
 #### Rozdział 4 Zasady funkcjonowania Rady
 
@@ -440,8 +440,8 @@ o Krajowej Sieci Kardiologicznej
 - **1)** oznaczenie świadczeniobiorcy pozwalające na ustalenie jego tożsamości: z 2024 r. poz. 581) oraz adres jego miejsca zamieszkania,
     - **a)** imię (imiona) i nazwisko,
     - **b)** adres miejsca zamieszkania (ulica, numer domu i lokalu, kod pocztowy, miejscowość),
-    - **c)** numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
-    - **d)** w przypadku gdy świadczeniobiorcą jest osoba całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody imię (imiona) i nazwisko przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
+    - **c)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
+    - **d)** w przypadku gdy świadczeniobiorcą jest osoba całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody – imię (imiona) i nazwisko przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
     - **e)** numer telefonu, jeżeli posiada;
 
 - **2)** nazwę (firmę) świadczeniodawcy, który udziela świadczeń opieki zdrowotnej w ramach opieki kardiologicznej, i adres miejsca udzielania świadczeń opieki zdrowotnej;
@@ -468,7 +468,7 @@ o Krajowej Sieci Kardiologicznej
 3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres danych, o których mowa w ust. 1 pkt 6 lit. b–h,
-- **2)** termin przekazywania danych, o których mowa w ust. 1 pkt 6 lit. b–h mając na uwadze potrzebę zapewnienia kompletności, jednolitości i aktualności danych umożliwiających koordynację opieki kardiologicznej oraz monitorowanie wskaźników jakości opieki kardiologicznej.
+- **2)** termin przekazywania danych, o których mowa w ust. 1 pkt 6 lit. b–h – mając na uwadze potrzebę zapewnienia kompletności, jednolitości i aktualności danych umożliwiających koordynację opieki kardiologicznej oraz monitorowanie wskaźników jakości opieki kardiologicznej.
 
 #### Rozdział 7 Zmiany w przepisach
 
@@ -491,9 +491,9 @@ o Krajowej Sieci Kardiologicznej
 1. Prezes Funduszu po raz pierwszy:
 
 - **1)** kwalifikuje podmioty lecznicze na jeden z trzech poziomów zabezpieczenia opieki kardiologicznej KSK na podstawie kryteriów kwalifikacji do KSK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 2,
-- **2)** przyznaje ośrodkowi kardiologicznemu status CDK na podstawie kryteriów kwalifikacji CDK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 3 w terminie 6 miesięcy od dnia wejścia w życie ustawy.
+- **2)** przyznaje ośrodkowi kardiologicznemu status CDK na podstawie kryteriów kwalifikacji CDK oraz szczegółowych kryteriów określonych w przepisach wydanych na podstawie art. 16 ust. 3 – w terminie 6 miesięcy od dnia wejścia w życie ustawy.
 
-2. Prezes Funduszu dokona kwalifikacji oraz przyznania statusu, o których mowa w ust. 1, na podstawie danych przetwarzanych w Systemie RUM NFZ, o którym mowa w art. 22 ust. 1 ustawy zmienianej w art. 42, w serwisach internetowych lub usługach informatycznych, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy zmienianej w art. 41, oraz na podstawie przekazanych do Funduszu przez podmioty lecznicze informacji dotyczących zapewnienia koordynowanego dostępu do świadczeń, o których mowa w art. 8 ust. 2 i art. 9 ust. 3.
+2. Prezes Funduszu dokona kwalifikacji oraz przyznania statusu, o których mowa w ust. 1, na podstawie danych przetwarzanych w Systemie RUM – NFZ, o którym mowa w art. 22 ust. 1 ustawy zmienianej w art. 42, w serwisach internetowych lub usługach informatycznych, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy zmienianej w art. 41, oraz na podstawie przekazanych do Funduszu przez podmioty lecznicze informacji dotyczących zapewnienia koordynowanego dostępu do świadczeń, o których mowa w art. 8 ust. 2 i art. 9 ust. 3.
 
 3. Pierwszy wykaz ośrodków kardiologicznych, o którym mowa w art. 13 ust. 3, będzie obowiązywał przez 3 lata od dnia następującego po dniu jego ogłoszenia w Biuletynie Informacji Publicznej na stronie podmiotowej Funduszu.
 
@@ -533,5 +533,5 @@ o Krajowej Sieci Kardiologicznej
 
 2. Ośrodki kardiologiczne oraz ośrodki współpracujące są obowiązane do realizacji opieki kardiologicznej na podstawie Karty e-KOK od dnia 1 stycznia 2028 r.
 
-**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 8 ust. 1 pkt 1 i 3, art. 9 ust. 1 pkt 5 oraz art. 10, które wchodzą w życie po upływie 36 miesięcy od dnia wejścia w życie ustawy. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 8 ust. 1 pkt 1 i 3, art. 9 ust. 1 pkt 5 oraz art. 10, które wchodzą w życie po upływie 36 miesięcy od dnia wejścia w życie ustawy.
 

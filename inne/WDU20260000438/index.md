@@ -8,9 +8,12 @@ pos: 438
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 marca 2026 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielni europejskiej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000438) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/438/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielni europejskiej
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 lipca 2006 r. o spółdzielni europejskiej (Dz. U. z 2018 r. poz. 2043), z uwzględnieniem stanu prawnego na dzień 10 marca 2026 r. oraz zmiany wprowadzonej ustawą z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 ustawy z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556), który stanowi: „Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 i 7 oraz art. 10 pkt 2, które wchodzą w życie z dniem 1 kwietnia 2027 r.”.
 Marszałek Sejmu: W. Czarzasty
@@ -48,7 +49,7 @@ poz. 593 oraz z 2025 r. poz. 1556), zwanej dalej „Prawem spółdzielczym”;
 4. 1. Organem właściwym w rozumieniu art. 7 ust. 8 i art. 73 ust. 1 rozporządzenia jest sąd rejestrowy właściwy według siedziby statutowej SCE.
 2. Organem właściwym w rozumieniu art. 29 i 30 rozporządzenia jest sąd rejestrowy właściwy według siedziby statutowej spółdzielni uczestniczącej w założeniu SCE przez połączenie.
 5. Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie z art. 13 rozporządzenia podlegają ogłoszeniu w Dzienniku Urzędowym Unii Europejskiej, do Urzędu Oficjalnych Publikacji Unii Europejskiej w terminie miesiąca od dnia ich wpisu do rejestru.
-pospolitej Polskiej, jak również z terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego, stosuje się odpowiednio art. 12 ust. 1 i 2 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ).
+powiednio art. 12 ust. 1 i 2 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ).
 7. W tworzeniu SCE może uczestniczyć, poza podmiotami wymienionymi w art. 2 ust. 1 rozporządzenia, również osoba prawna, która spełnia wymagania określone w art. 2 ust. 2 rozporządzenia.
 8. 1. Jeżeli spółdzielnia uczestnicząca w połączeniu w celu utworzenia SCE, która ma mieć siedzibę statutową w innym państwie członkowskim, jest bankiem spółdzielczym z siedzibą statutową na terytorium Rzeczypospolitej Polskiej, o zamiarze połączenia właściwy organ spółdzielni zawiadamia właściwy organ nadzoru najpóźniej w dniu ogłoszenia planu połączenia.
 2. Właściwy organ nadzoru może, w terminie dwóch miesięcy od dnia ogłoszenia planu połączenia, w drodze decyzji administracyjnej, wyrazić sprzeciw wobec połączenia. Na decyzję organu nadzoru o sprzeciwie spółdzielni przysługuje skarga do sądu administracyjnego.
@@ -104,7 +105,6 @@ W razie wątpliwości, czy do rady administrującej lub jej członków należy s
 4) dowód zabezpieczenia albo zaspokojenia roszczeń wierzycieli zgodnie z art. 26.
 3. Sąd rejestrowy może wydać zaświadczenie, o którym mowa w art. 7 ust. 8 rozporządzenia, mimo wytoczenia powództwa o uchylenie albo o ustalenie nieważności, albo nieistnienia uchwały o przeniesieniu siedziby statutowej, jeżeli zostanie uprawdopodobnione, że powództwo to jest oczywiście bezzasadne. W przypadku gdy po wydaniu zaświadczenia sąd prawomocnym orzeczeniem stwierdzi nieważność albo nieistnienie tej uchwały albo ją uchyli, członek SCE, który poniósł szkodę w wyniku dokonania wpisów na podstawie uchwały uznanej za nieważną, nieistniejącą albo uchylonej, może dochodzić jej naprawienia od SCE bez względu na winę członków jej organów.
 4. W przedmiocie wydania zaświadczenia, o którym mowa w art. 7 ust. 8 rozporządzenia, sąd rejestrowy orzeka postanowieniem, na które przysługuje apelacja. Do postępowania stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu rejestrowym.
-powinien zawierać odpowiednie dane, o których mowa w art. 318 Kodeksu spółek handlowych. Do zgłoszenia dołącza się:
 1) statut SCE w formie zgodnej z przepisami o SCE obowiązującymi w Rzeczypospolitej Polskiej;
 2) zaświadczenie, o którym mowa w art. 7 ust. 8 rozporządzenia, wystawione przez właściwy organ państwa, którego prawo stosuje się do SCE.
 2. Jeżeli dokumenty, o których mowa w ust. 1, są sporządzone w języku obcym, dołącza się również ich uwierzytelnione tłumaczenie na język polski.
@@ -140,7 +140,7 @@ nie do stosunków pracy;
 2. W celu rozpoczęcia postępowania, o którym mowa w ust. 1, podmiot uczestniczący przedstawia przedstawicielom pracowników, a w razie ich nieustanowienia pracownikom, w sposób przyjęty w tym podmiocie:
 1) dane identyfikacyjne tego podmiotu uczestniczącego, zainteresowanych spółek zależnych i zakładów;
 2) informację o liczbie pracowników zatrudnionych w każdym z podmiotów uczestniczących, w zainteresowanych spółkach zależnych i zakładach.
-cownikom z danego państwa członkowskiego, podmiot uczestniczący ustala liczbę pracowników na dzień rozpoczęcia postępowania, o którym mowa w art. 37 ust. 1.
+stępowania, o którym mowa w art. 37 ust. 1.
 2. Jeżeli w okresie od dnia ustalenia liczby pracowników, o którym mowa w ust. 1, do dnia powołania specjalnego zespołu negocjacyjnego liczba tych pracowników ulegnie istotnej zmianie, to podział miejsc w specjalnym zespole negocjacyjnym również ulega zmianie, przy zachowaniu warunków określonych w art. 40.
 3. Przy ustalaniu liczby pracowników uwzględnia się zarówno osoby zatrudnione w pełnym, jak i niepełnym wymiarze czasu pracy w przeliczeniu na pełny wymiar czasu pracy.
 39. 1. Członkowie specjalnego zespołu negocjacyjnego są wybierani lub wyznaczani w każdym państwie członkowskim zgodnie z prawem tego państwa członkowskiego.
@@ -156,7 +156,6 @@ cownikom z danego państwa członkowskiego, podmiot uczestniczący ustala liczb�
 3. Podmiot uczestniczący oraz zainteresowana spółka zależna albo zakład określa termin wyznaczenia członków specjalnego zespołu negocjacyjnego w trybie, o którym mowa w ust. 1 i 2.
 4. Jeżeli porozumienie między reprezentatywnymi zakładowymi organizacjami związkowymi, o których mowa w ust. 2, nie zostanie osiągnięte, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi spośród kandydatów zgłoszonych przez reprezentatywne zakładowe organizacje związkowe. W przypadku gdy reprezentatywne zakładowe organizacje związkowe nie zgłoszą kandydatów, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi.
 5. Członkami specjalnego zespołu negocjacyjnego mogą zostać przedstawiciele organizacji związkowej, reprezentatywnej w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), niebędący pracownikami podmiotu uczestniczącego, zainteresowanej spółki zależnej lub zakładu, rekomendowani przez tę organizację.
-resowanych spółek zależnych lub zakładów.
 7. Organizacje związkowe, o których mowa w ust. 5, mogą delegować swoich przedstawicieli do uczestniczenia w czynnościach związanych z przeprowadzeniem wyborów członków specjalnego zespołu negocjacyjnego.
 42. 1. Wybory członków specjalnego zespołu negocjacyjnego organizuje podmiot uczestniczący, spółka zależna lub kierownictwo zakładu, powiadamiając pracowników, zakładowe organizacje związkowe oraz organizacje związkowe, o których mowa w art. 41 ust. 5, o terminie i sposobie ich przeprowadzenia niepóźniej niż na 14 dni przed dniem wyborów, w sposób przyjęty u danego pracodawcy.
 2. Wybory są bezpośrednie i odbywają się w głosowaniu tajnym. Uchwały o wyborze członków specjalnego zespołu negocjacyjnego są podejmowane zwykłą większością głosów.
@@ -195,7 +194,7 @@ poz. 123 oraz z 2025 r. poz. 1661), jeżeli statutowa siedziba SCE ma być zarej
 56. 1. Podmioty uczestniczące oraz specjalny zespół negocjacyjny zawierają porozumienie w formie pisemnej pod rygorem nieważności.
 2. Porozumienie podpisują osoby upoważnione do składania oświadczeń woli w imieniu podmiotów uczestniczących oraz przewodniczący specjalnego zespołu negocjacyjnego i co najmniej jeden członek tego zespołu.
 3. Porozumienie dotyczy wszystkich pracowników SCE.
-bez zawarcia porozumienia. Specjalny zespół negocjacyjny niezwłocznie zawiadamia podmioty uczestniczące o treści tej uchwały. W przypadku podjęcia uchwały o niepodejmowaniu negocjacji lub o ich zakończeniu bez zawarcia porozumienia nie stosuje się przepisów rozdziału 3 niniejszego działu.
+uchwały. W przypadku podjęcia uchwały o niepodejmowaniu negocjacji lub o ich zakończeniu bez zawarcia porozumienia nie stosuje się przepisów rozdziału 3 niniejszego działu.
 2. Do podjęcia uchwały o niepodejmowaniu negocjacji lub o ich zakończeniu bez zawarcia porozumienia jest wymagana większość dwóch trzecich głosów członków specjalnego zespołu negocjacyjnego reprezentujących co najmniej dwie trzecie liczby pracowników, w tym głosów członków reprezentujących pracowników zatrudnionych w co najmniej dwóch państwach członkowskich.
 3. W przypadku podjęcia uchwały, o której mowa w ust. 1, wobec pracowników zatrudnionych w SCE stosuje się przepisy danego państwa członkowskiego dotyczące konsultacji i informowania pracowników.
 4. Przepisów ust. 1 i 2 nie stosuje się w przypadku utworzenia SCE w drodze przekształcenia, jeżeli w spółdzielni, która ma być przekształcana, jest zapewnione uczestnictwo pracowników.
@@ -235,7 +234,6 @@ b) przed dniem rejestracji SCE jedna lub więcej form uczestnictwa były stosowa
 65. 1. Liczba członków organu przedstawicielskiego oraz podział miejsc w tym organie podlegają weryfikacji co 2 lata, stosownie do zmiany liczby pracowników zatrudnionych w SCE, jej spółkach zależnych i zakładach.
 2. W przypadku wystąpienia istotnej zmiany liczby pracowników zatrudnionych w SCE, jej spółkach zależnych i zakładach, właściwy organ SCE zwraca się do przedstawicieli pracowników, a w razie ich braku do pracowników zatrudnionych w poszczególnych państwach członkowskich, o dokonanie ponownego wyznaczenia lub wyboru członków organu przedstawicielskiego w liczbie określonej w art. 40 ust. 1–3.
 3. Z dniem wyznaczenia lub wyboru nowych członków organu przedstawicielskiego kończy się kadencja członków organu przedstawicielskiego pochodzących z państwa członkowskiego, którego dotyczą zmiany.
-Polskiej są wybierani lub wyznaczani w trybie określonym w art. 41 ust. 1–4 i 7 oraz art. 42–44.
 2. Czynności prowadzące do wyboru członków organu przedstawicielskiego podejmuje się w ciągu miesiąca od dnia wystąpienia okoliczności, o których mowa w art. 60.
 67. Organ przedstawicielski niezwłocznie zawiadamia właściwy organ SCE o swym składzie. Właściwy organ SCE przekazuje informację o składzie organu przedstawicielskiego właściwym organom spółek zależnych i kierownictwom zakładów.
 68. Właściwy organ SCE niezwłocznie po otrzymaniu informacji o składzie organu przedstawicielskiego zwołuje zebranie organizacyjne, na którym:
@@ -326,7 +324,7 @@ Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstw
 3) oznaczenia sądu rejestrowego i numeru, pod którym SCE jest wpisana do rejestru, podlega grzywnie do 10 000 zł.
 104. W sprawach, o których mowa w art. 102 i 103, grzywnę nakłada sąd rejestrowy.
 105. Kto, będąc członkiem zarządu, członkiem rady administrującej albo likwidatorem SCE, ogłasza dane nieprawdziwe albo przedstawia je organom SCE, władzom państwowym, członkom SCE lub lustratorowi, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-czenia, o którym mowa w art. 29 ust. 2 rozporządzenia, albo zaświadczenia, o którym mowa w art. 7 ust. 8 rozporządzenia, albo do wniosku o wpis SCE do rejestru, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+albo do wniosku o wpis SCE do rejestru, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 107. (uchylony)
 108. Kto, będąc członkiem zarządu, członkiem rady administrującej albo likwidatorem SCE, na których ciąży obowiązek zgłoszenia wniosku o upadłość SCE, nie zgłasza tego wniosku pomimo powstania warunków uzasadniających upadłość SCE, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 109. 1. Kto, będąc członkiem zarządu, członkiem rady administrującej albo likwidatorem SCE, dopuszcza do objęcia przez SCE własnych udziałów, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.

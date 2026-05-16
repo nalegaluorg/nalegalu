@@ -8,9 +8,10 @@ pos: 116
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, 18 stycznia 2021 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 17 grudnia 2020 sprawie ogłoszenia jednolitego tekstu zasadach nabywania od Skarbu Państwa procesie konsolidacji sektora elektroenergetycznego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 17 grudnia 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
 
 | Pole | Wartość |
 |---|---|
@@ -24,66 +25,96 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000116) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/116/text.pdf) |
 
-1. Na podstawie 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst 7 września 2007 zasadach nabywania od Skarbu Państwa procesie konsolidacji sektora elektroenergetycznego (Dz. U. 2017 poz. 1966), uwzględnieniem zmian wprowadzonych ustawą 23 stycznia 2020 zmianie działach administracji rządowej oraz niektórych innych ustaw (Dz. U.
-poz. 284) oraz zmian wynikających przepisów ogłoszonych przed dniem 9 grudnia 2020 Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje 98 114 23 stycznia 2020 zmianie działach administracji rządowej oraz niektórych innych ustaw (Dz. U.
-poz. 284), które stanowią: „Art. 98. 1. Do spraw wszczętych niezakończonych przed dniem wejścia niniejszej stosuje się przepisy dotychczasowe, tym że sprawy te toczą się przed organami, które przejęły zadania kompetencje na podstawie niniejszej ustawy, zastrzeżeniem 99.
-Organy, które przejęły zadania kompetencje na podstawie niniejszej ustawy, przejmują związane tymi zadaniami kompetencjami obowiązki organów, które utraciły te zadania kompetencje, tym także wynikające umów porozumień.
-3. Akta spraw, rejestry, ewidencje, listy bazy danych, prowadzone przed dniem wejścia niniejszej organy, które utraciły zadania kompetencje na podstawie niniejszej ustawy, przejmują organy, które przejęły od nich tym zakresie zadania kompetencje na podstawie niniejszej ustawy.
-4. Organy, które utraciły zadania kompetencje na podstawie niniejszej ustawy, przekazują niezwłocznie organom, które przejęły od nich zadania kompetencje na podstawie niniejszej ustawy, dokumentację związaną wykonywaniem przejętych zadań kompetencji, tym także postaci informatycznych nośników danych.
-5. Z czynności, których mowa ust. 3 4, sporządza się protokół.” „Art. 114. Ustawa wchodzi po upływie 7 dni od ogłoszenia, wyjątkiem 106 ust. 4, 107 ust. 2 108 ust. 2, które wchodzą dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: E. Witek zasadach nabywania od Skarbu Państwa procesie konsolidacji sektora elektroenergetycznego
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 7 września 2007 r. o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 września 2007 r. o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego (Dz. U. z 2017 r. poz. 1966), z uwzględnieniem zmian wprowadzonych ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 grudnia 2020 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 98 i art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), które stanowią:
+„
 
-**Art. 1.** Ustawa reguluje zasady nabywania uprawnionych pracowników lub ich spadkobierców oraz zamiany posiadanych uprawnionych akcjonariuszy lub zamiany ekwiwalentu związku procesem konsolidacji sektora elektroenergetycznego. Art. Ilekroć ustawie jest mowa o:
+**Art. 98.**
+
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że sprawy te toczą się przed organami, które przejęły zadania i kompetencje na podstawie niniejszej ustawy, z zastrzeżeniem art. 99.
+
+2. Organy, które przejęły zadania i kompetencje na podstawie niniejszej ustawy, przejmują związane z tymi zadaniami i kompetencjami prawa i obowiązki organów, które utraciły te zadania i kompetencje, w tym także wynikające z umów i porozumień.
+
+3. Akta spraw, rejestry, ewidencje, listy i bazy danych, prowadzone przed dniem wejścia w życie niniejszej ustawy przez organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, przejmują organy, które przejęły od nich w tym zakresie zadania i kompetencje na podstawie niniejszej ustawy.
+
+4. Organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, przekazują niezwłocznie organom, które przejęły od nich zadania i kompetencje na podstawie niniejszej ustawy, dokumentację związaną z wykonywaniem przejętych zadań i kompetencji, w tym także w postaci informatycznych nośników danych.
+
+5. Z czynności, o których mowa w ust. 3 i 4, sporządza się protokół. ” „
+
+**Art. 114.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 7 września 2007 r. o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
+
+**Art. 1.** Ustawa reguluje zasady nieodpłatnego nabywania akcji przez uprawnionych pracowników lub ich spadkobierców oraz zamiany akcji posiadanych przez uprawnionych akcjonariuszy lub zamiany prawa do ekwiwalentu w związku z procesem konsolidacji spółek sektora elektroenergetycznego.
+
+**Art. 2.** Ilekroć w ustawie jest mowa o:
 
 **Art. 3.**
 
-1. przypadku wniesienia Skarb Państwa spółki konsolidowanej na pokrycie kapitału zakładowego spółki konsolidującej uprawnieni pracownicy, miejsce spółki konsolidowanej, mogą skorzystać spółki konsolidującej. przypadku wniesienia Skarb Państwa wszystkich spółki konsolidowanej na pokrycie kapitału zakładowego spółki konsolidującej będącej jednoosobową spółką Skarbu Państwa uprawnieni pracownicy, miejsce ekwiwalentu, mogą skorzystać spółki konsolidującej.
+1. W przypadku wniesienia przez Skarb Państwa akcji spółki konsolidowanej na pokrycie kapitału zakładowego spółki konsolidującej uprawnieni pracownicy, w miejsce prawa do nieodpłatnego nabycia akcji spółki konsolidowanej, mogą skorzystać z prawa do nieodpłatnego nabycia akcji spółki konsolidującej.
 
-3. Suma spółki konsolidującej udostępnionych uprawnionym pracownikom konsolidowanych ich spadkobiercom oraz uprawnionym akcjonariuszom, na zasadach określonych ustawie, nie może przekroczyć 15% liczby objętych Skarb Państwa spółce konsolidującej zamian za wniesione akcje spółki konsolidowanej.
+2. W przypadku wniesienia przez Skarb Państwa wszystkich akcji spółki konsolidowanej na pokrycie kapitału zakładowego spółki konsolidującej będącej jednoosobową spółką Skarbu Państwa uprawnieni pracownicy, w miejsce prawa do ekwiwalentu, mogą skorzystać z prawa do nieodpłatnego nabycia akcji spółki konsolidującej.
 
-4. Suma spółki konsolidującej, której mowa ust. 2, udostępnionych uprawnionym pracownikom spółki konsolidowanej, na zasadach określonych ust. 2 oraz 6, nie może przekroczyć 15% objętych Skarb Państwa spółce konsolidującej zamian za wniesione akcje spółki konsolidowanej.
+3. Suma akcji spółki konsolidującej udostępnionych uprawnionym pracownikom spółek konsolidowanych i ich spadkobiercom oraz uprawnionym akcjonariuszom, na zasadach określonych w ustawie, nie może przekroczyć 15% liczby akcji objętych przez Skarb Państwa w spółce konsolidującej w zamian za wniesione akcje spółki konsolidowanej.
+
+4. Suma akcji spółki konsolidującej, o której mowa w ust. 2, udostępnionych uprawnionym pracownikom spółki konsolidowanej, na zasadach określonych w ust. 2 oraz art. 6, nie może przekroczyć 15% akcji objętych przez Skarb Państwa w spółce konsolidującej w zamian za wniesione akcje spółki konsolidowanej.
 
 **Art. 4.**
 
-1. Prawo spółki konsolidującej powstaje po upływie sześciu miesięcy od powstania spółki konsolidowanej wygasa upływem dwunastu miesięcy od nowienia sądu stwierdzeniu spadku albo zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego notariusza.
+1. Prawo do nieodpłatnego nabycia akcji spółki konsolidującej powstaje po upływie sześciu miesięcy od dnia powstania prawa do nieodpłatnego nabycia akcji spółki konsolidowanej i wygasa z upływem dwunastu miesięcy od dnia jego powstania.
 
-3. przypadku śmierci uprawnionego pracownika termin na zrealizowanie jego spadkobierców nieodpłatnego spółki konsolidującej nie rozpoczyna biegu, a rozpoczęty ulega przerwaniu czasu uzyskania prawomocnego postanowienia sądu stwierdzeniu spadku, albo przypadku przedstawienia zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego notariusza ulega przedłużeniu miesiąc. razie przerwania biegu terminu, termin ten biegnie na nowo od uprawomocnienia się postanowienia sądu stwierdzeniu spadku.
+2. Uprawnieni pracownicy mogą skorzystać z prawa do nieodpłatnego nabycia akcji spółki konsolidującej, o ile złożą pisemne oświadczenie o zamiarze nabycia akcji tej spółki. Termin do składania oświadczeń o zamiarze nieodpłatnego nabycia akcji spółki konsolidującej rozpoczyna się w dniu powstania prawa do nieodpłatnego nabycia akcji spółki konsolidowanej i kończy się z upływem trzech miesięcy od dnia jego rozpoczęcia. Niezłożenie oświadczenia w powyższym terminie powoduje utratę prawa do nieodpłatnego nabycia akcji spółki konsolidującej. Do złożenia oświadczenia o zamiarze nieodpłatnego nabycia akcji przez spadkobiercę uprawnionego pracownika nie jest wymagane przedstawienie postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza.
 
-4. Prawo spadkobierców może być zrealizowane, ile wniosek stwierdzenie spadku został złożony nie później niż dniu, którym upłynął termin wygaśnięcia prawa, którym mowa ust. 1, albo tym terminie został przedstawiony zarejestrowany akt poświadczenia dziedziczenia sporządzony notariusza.
+3. W przypadku śmierci uprawnionego pracownika termin na zrealizowanie przez jego spadkobierców prawa do nieodpłatnego nabycia akcji spółki konsolidującej nie rozpoczyna biegu, a rozpoczęty ulega przerwaniu do czasu uzyskania prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku, albo w przypadku przedstawienia zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza ulega przedłużeniu o miesiąc. W razie przerwania biegu terminu, termin ten biegnie na nowo od dnia uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku.
 
-5. Do udostępniania spółki konsolidującej mają zastosowanie przepisy działu IV, wyłączeniem przepisów 38 ust. 1 2–4 oraz 38c 30 sierpnia 1996 komercjalizacji niektórych uprawnieniach pracowników.
+4. Prawo do nieodpłatnego nabycia akcji przez spadkobierców może być zrealizowane, o ile wniosek o stwierdzenie nabycia spadku został złożony nie później niż w dniu, w którym upłynął termin wygaśnięcia prawa, o którym mowa w ust. 1, albo w tym terminie został przedstawiony zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza.
 
-6. Do udostępniania spółki konsolidowanej mają zastosowanie przepisy działu IV 30 sierpnia 1996 komercjalizacji niektórych uprawnieniach pracowników, tym że zamiany spółki konsolidowanej na akcje spółki konsolidującej nie mają zastosowania przepisy 38 ust. 3 4 tej ustawy.
+5. Do nieodpłatnego udostępniania akcji spółki konsolidującej mają zastosowanie przepisy działu IV, z wyłączeniem przepisów art. 38 ust. 1 i 2–4 oraz art. 38c ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników.
+
+6. Do nieodpłatnego udostępniania akcji spółki konsolidowanej mają zastosowanie przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników, z tym że do zamiany akcji spółki konsolidowanej na akcje spółki konsolidującej nie mają zastosowania przepisy art. 38 ust. 3 i 4 tej ustawy.
 
 **Art. 5.**
 
-1. Uprawnieni pracownicy konsolidowanych oraz uprawnieni akcjonariusze mogą skorzystać zamiany posiadanych spółki konsolidowanej na akcje spółki konsolidującej, ile złożą pisemne oświadczenie zamiarze dokonania zamiany wszystkich posiadanych akcji. Przepis 38c 30 sierpnia 1996 komercjalizacji niektórych uprawnieniach pracowników stosuje się odpowiednio. Art. 4 ust. 2 3 stosuje się odpowiednio zamiany uprawnionych akcjonariuszy, tym że bieg terminu na składanie oświadczeń rozpoczyna się po upływie sześciu miesięcy od wejścia ustawy.
+1. Uprawnieni pracownicy spółek konsolidowanych oraz uprawnieni akcjonariusze mogą skorzystać z prawa zamiany posiadanych akcji spółki konsolidowanej na akcje spółki konsolidującej, o ile złożą pisemne oświadczenie o zamiarze dokonania zamiany wszystkich posiadanych akcji. Przepis art. 38c ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników stosuje się odpowiednio.
 
-3. Prawo zamiany, którym mowa ust. 1, powstaje po upływie dwunastu miesięcy od wejścia wygasa upływem dwunastu miesięcy od powstania.
+2.
 
-4. Do zamiany, której mowa ust. 1, nie stosuje się przepisów 38 ust. 2–4 30 sierpnia 1996 komercjalizacji niektórych uprawnieniach pracowników.
+3. Prawo do zamiany, o którym mowa w ust. 1, powstaje po upływie dwunastu miesięcy od dnia wejścia w życie ustawy i wygasa z upływem dwunastu miesięcy od dnia powstania.
 
-**Art. 5a.**
-
-- **1)** sprawach roszczeń przeciwko Skarbowi Państwa związanych zamianą na podstawie Skarb Państwa jest reprezentowany ministra właściwego spraw aktywów państwowych.
+4. Do zamiany, o której mowa w ust. 1, nie stosuje się przepisów art. 38 ust. 2–4 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników. W sprawach roszczeń przeciwko Skarbowi Państwa związanych z zamianą akcji na podstawie ustawy Skarb Państwa jest reprezentowany przez ministra właściwego do spraw aktywów państwowych.
 
 **Art. 6.**
 
-1. Uprawnieni pracownicy, którzy nabyli prawo ekwiwalentu, mogą skorzystać zamiany tego na prawo spółki konsolidującej, ile złożą pisemne oświadczenie zamiarze dokonania tej zamiany. Termin składania oświadczeń zamiarze dokonania tej zamiany rozpoczyna się dniu powstania ekwiwalentu kończy się upływem trzech miesięcy od jego rozpoczęcia. Niezłożenie oświadczenia powyższym terminie powoduje utratę zamiany. Prawo spółki konsolidującej powstaje po upływie trzech miesięcy od zbycia Skarb Państwa pierwszych spółki konsolidującej na zasadach ogólnych wygasa upływem dwunastu miesięcy od powstania tego prawa. Jeżeli zbycie Skarbu Państwa na zasadach ogólnych nastąpiło okresie, którym mowa ust. 1, prawo powstaje po trzech miesiącach od upływu terminu na złożenie oświadczenia, którym mowa ust. 1.
+1. Uprawnieni pracownicy, którzy nabyli prawo do ekwiwalentu, mogą skorzystać z prawa do zamiany tego prawa na prawo do nieodpłatnego nabycia akcji spółki konsolidującej, o ile złożą pisemne oświadczenie o zamiarze dokonania tej zamiany. Termin do składania oświadczeń o zamiarze dokonania tej zamiany rozpoczyna się w dniu powstania prawa do ekwiwalentu i kończy się z upływem trzech miesięcy od dnia jego rozpoczęcia. Niezłożenie oświadczenia w powyższym terminie powoduje utratę prawa do zamiany.
 
-**Art. 7.** Rada Ministrów określi, drodze rozporządzenia:
+2. Prawo do nieodpłatnego nabycia akcji spółki konsolidującej powstaje po upływie trzech miesięcy od dnia zbycia przez Skarb Państwa pierwszych akcji spółki konsolidującej na zasadach ogólnych i wygasa z upływem dwunastu miesięcy od dnia powstania tego prawa. Jeżeli zbycie akcji Skarbu Państwa na zasadach ogólnych nastąpiło w okresie, o którym mowa w ust. 1, prawo do nieodpłatnego nabycia akcji powstaje po trzech miesiącach od upływu terminu na złożenie oświadczenia, o którym mowa w ust. 1.
 
-**Art. 9.** Wartość konsolidowanych konsolidujących zostanie określona według następujących zasad:
+**Art. 7.** Rada Ministrów określi, w drodze rozporządzenia:
+
+**Art. 8.**
+
+1. Minister właściwy do spraw aktywów państwowych określi, w drodze rozporządzenia, sposób określenia liczby akcji spółki konsolidującej przeznaczonych do nieodpłatnego nabycia przez uprawnionych pracowników spółki konsolidowanej lub do nabycia przez uprawnionych akcjonariuszy w drodze zamiany akcji spółki konsolidowanej, której akcje zostały wniesione na pokrycie kapitału zakładowego spółki konsolidującej, tryb nabywania akcji przez uprawnionych pracowników oraz tryb dokonywania zamiany akcji spółki konsolidowanej na akcje spółki konsolidującej, mając na uwadze równe traktowanie uprawnionych pracowników i uprawnionych akcjonariuszy, wartość akcji spółek konsolidowanych i konsolidujących oraz konieczność zapewnienia zgodnie z interesem uprawnionych pracowników i uprawnionych akcjonariuszy organizacji czynności związanych z udostępnianiem i zamianą akcji.
+
+2. W przypadku zamiany, o której mowa w art. 6, uprawnieni pracownicy spółki konsolidowanej lub ich spadkobiercy otrzymają akcje spółki konsolidującej o wartości równej przyznanej kwocie ekwiwalentu prawa do akcji, ustalonej na podstawie wyceny, o której mowa w art. 9.
+
+**Art. 9.** Wartość akcji spółek konsolidowanych i konsolidujących zostanie określona według następujących zasad:
 
 **Art. 10.**
 
-1. Do zbywania Skarb Państwa konsolidujących objętych zamian za aport postaci konsolidowanych ograniczenia wynikającego 336 § 1 2 15 września 2000 Kodeks handlowych nie stosuje się. Akcje konsolidujących nabyte uprawnionych pracowników lub ich spadkobierców na podstawie 4 nie mogą być przedmiotem obrotu przed upływem dwóch lat od wejścia ustawy.
+1. Do zbywania przez Skarb Państwa akcji spółek konsolidujących objętych w zamian za aport w postaci akcji spółek konsolidowanych ograniczenia wynikającego z art. 336 § 1 i 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych nie stosuje się.
+
+2. Akcje spółek konsolidujących nabyte przez uprawnionych pracowników lub ich spadkobierców na podstawie art. 4 nie mogą być przedmiotem obrotu przed upływem dwóch lat od dnia wejścia w życie ustawy.
 
 **Art. 11.**
 
-1. Akcjonariusze PGE-Energia spółka akcyjna siedzibą Lublinie oraz PGE Górnictwo Energetyka spółka akcyjna siedzibą Łodzi, którzy nabyli akcje tych na zasadach określonych niniejszej ustawie, stają się akcjonariuszami spółki PGE Polska Grupa Energetyczna spółka akcyjna siedzibą Lublinie wyniku połączenia spółki PGE-Energia spółka akcyjna siedzibą Lublinie oraz PGE Górnictwo Energetyka spółka akcyjna siedzibą Łodzi ze spółką PGE Polska Grupa Energetyczna spółka akcyjna siedzibą Lublinie, trybie 492 § 1 1 15 września 2000 Kodeks handlowych, przeniesienie całego majątku PGE-Energia spółka akcyjna siedzibą Lublinie oraz PGE Górnictwo Energetyka spółka akcyjna siedzibą Łodzi na spółkę PGE Polska Grupa Energetyczna spółka akcyjna siedzibą Lublinie. Plan połączenia uwzględni spadkobierców, których mowa 4 5. Wydanie spadkobiercom spółki przejmującej nastąpi na zasadach określonych 38c 30 sierpnia 1996 komercjalizacji niektórych uprawnieniach pracowników.
+1. Akcjonariusze spółek PGE-Energia spółka akcyjna z siedzibą w Lublinie oraz PGE Górnictwo i Energetyka spółka akcyjna z siedzibą w Łodzi, którzy nabyli akcje tych spółek na zasadach określonych w niniejszej ustawie, stają się akcjonariuszami spółki PGE Polska Grupa Energetyczna spółka akcyjna z siedzibą w Lublinie w wyniku połączenia spółki PGE-Energia spółka akcyjna z siedzibą w Lublinie oraz PGE Górnictwo i Energetyka spółka akcyjna z siedzibą w Łodzi ze spółką PGE Polska Grupa Energetyczna spółka akcyjna z siedzibą w Lublinie, w trybie art. 492 § 1 pkt 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, przez przeniesienie całego majątku spółek PGE-Energia spółka akcyjna z siedzibą w Lublinie oraz PGE Górnictwo i Energetyka spółka akcyjna z siedzibą w Łodzi na spółkę PGE Polska Grupa Energetyczna spółka akcyjna z siedzibą w Lublinie.
+
+2. Plan połączenia uwzględni spadkobierców, o których mowa w art. 4 i art. 5. Wydanie akcji spadkobiercom spółki przejmującej nastąpi na zasadach określonych w art. 38c ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników.
 
 **Art. 12.** (pominięty)
 
-**Art. 13.** Ustawa wchodzi po upływie 30 dni od ogłoszenia .
+**Art. 13.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

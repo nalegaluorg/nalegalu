@@ -8,9 +8,10 @@ pos: 265
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 lutego 2023 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 stycznia 2023 w sprawie ogłoszenia jednolitego tekstu ustawy o gwarancjach wolności sumienia i wyznania
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 11 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gwarancjach wolności sumienia i wyznania
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,77 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000265) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/265/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania (Dz. U. z 2022 poz. 1435), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 o wspieraniu i resocjalizacji nieletnich (Dz. U.
-poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 stycznia 2023
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „Art. 417. Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia i wyznania, nawiązując do godnej trwałego szacunku i kontynuacji tradycji tolerancji i wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań i światopoglądów w rozwoju i pomyślności Ojczyzny, uznając historyczny wkład kościołów i innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie i umacnianie podstawowych wartości moralnych, kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, umacniając warunki do czynnego i równoprawnego uczestnictwa obywateli w życiu publicznym i społecznym, bez względu na ich stosunek do religii, stanowi, co następuje:
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania Dział I – Wolność sumienia i wyznania Dział II – Stosunek państwa do kościołów i innych związków wyznaniowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Działalność kościołów i innych związków wyznaniowych Dział III – Rejestrowanie kościołów i innych związków wyznaniowych Dział IIIa – Regulacja spraw majątkowych niektórych kościołów Dział IV – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2022 r. poz. 1435), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 stycznia 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi:
+„
+1.
+Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami i ich osobami prawnymi, które zgłosiły roszczenia w trybie i na zasadach określonych w:
+1)
+art. 24–26 ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 483);
+2)
+art. 37 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1712 oraz z 2022 r. poz. 1700);
+3)
+art. 40–42 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 169 oraz z 2022 r. poz. 1700);
+4)
+art. 35 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 2616).
+2.
+Roszczenia majątkowe wobec Państwa mogą również zgłaszać do Komisji w terminie do dnia 31 grudnia 1998 r. kościoły i inne związki wyznaniowe, niewymienione w ust. 1, a także krajowe organizacje międzykościelne, jeżeli wskażą we wniosku, że na rzecz Skarbu Państwa przejęto własność nieruchomości lub ich części będących uprzednio własnością tych kościołów i związków wyznaniowych oraz krajowych organizacji międzykościelnych.
+3.
+Do oceny dopuszczalności postępowania regulacyjnego w sprawach, o których mowa w ust. 2, mają odpowiednie zastosowanie przepisy ustaw wskazanych w ust. 1 pkt 1–4.
+4.
+Jeżeli przywrócenie kościelnej osobie prawnej własności nieruchomości nie jest możliwe z uwagi na trudne do przezwyciężenia przeszkody, przyznaje się jej nieruchomość zamienną, a jeżeli nie jest to możliwe, osobie tej przyznaje się odszkodowanie ustalone według przepisów o wywłaszczeniu nieruchomości .
+5.
+Rada Ministrów określi, w drodze rozporządzenia, z mienia których państwowych jednostek organizacyjnych lub gmin może być wyłączona nieruchomość zamienna lub na którą państwową jednostkę organizacyjną może być nałożony obowiązek zapłaty odszkodowania.
+1.
+Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie na własność nieruchomości lub ich części, które były własnością kościelnych osób prawnych działających do 1945 r. na Ziemiach Zachodnich i Północnych, w celu przywrócenia w nich sprawowania kultu religijnego, działalności oświatowo-wychowawczej, charytatywno-opiekuńczej i opiekuńczo-wychowawczej.
+2.
+W razie niemożności dokonania regulacji, o której mowa w ust. 1, postępowanie ulega umorzeniu.
+Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.), podlega postępowaniu, o którym mowa w art. 38a i 38b.
+1.
+Minister właściwy do spraw wyznań religijnych  po zasięgnięciu opinii władz kościołów, o których mowa w art. 38a ust. 1 pkt 1–4, określi, w drodze rozporządzenia, liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego, uwzględniając w szczególności organizację pracy Komisji, zadania współprzewodniczących zespołów orzekających, oraz sposób prowadzenia i protokołowania rozpraw, orzekania i nadawania klauzul wykonalności orzeczeniom i ugodom.
+2.
+Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez ministra właściwego do spraw wyznań religijnych  i władze kościoła lub związku wyznaniowego, którego wniosek dotyczy.
+3.
+Postępowanie regulacyjne wszczyna się z chwilą złożenia wniosku w Komisji. Zespół orzekający po otrzymaniu wniosku o wszczęcie postępowania regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca.
+4.
+Postępowania sądowe lub administracyjne dotyczące nieruchomości, w stosunku do których wszczęto postępowanie regulacyjne, ulegają zawieszeniu, a sądy i organy prowadzące postępowania administracyjne przekazują ich akta do Komisji.
+5.
+Uczestnikami postępowania regulacyjnego są, oprócz wnioskodawcy, wszystkie zainteresowane jednostki państwowe, samorządowe i kościelne.
+6.
+Uczestnicy postępowania regulacyjnego mogą zawrzeć ugodę przed zespołem orzekającym. Jeżeli ugoda nie zostanie zawarta, zespół orzekający wydaje orzeczenie.
+7.
+Regulacja nie może naruszać praw nabytych przez niepaństwowe osoby trzecie, a w szczególności przez inne kościoły i związki wyznaniowe oraz rolników indywidualnych.
+8.
+Ugody zawarte przed zespołem orzekającym, jak i orzeczenia uwzględniające wniosek, powinny określać:
+1)
+stan prawny nieruchomości;
+2)
+związane z tym stanem obowiązki uczestników postępowania, a w szczególności obowiązek wydania nieruchomości w wyznaczonym terminie, jeżeli nie znajduje się ona we władaniu wnioskodawcy;
+3)
+w razie przyznania odszkodowania, obowiązek i termin zapłaty należnej z tego tytułu kwoty.
+9.
+Od orzeczenia zespołu orzekającego nie przysługuje odwołanie.
+1.
+Ugody i orzeczenia mają moc sądowych tytułów egzekucyjnych.
+2.
+Ugody i orzeczenia stanowią podstawę do dokonywania wpisów w księgach wieczystych i w ewidencji gruntów.
+1.
+Postępowanie regulacyjne jest wolne od opłat.
+2.
+Nabycie własności nieruchomości lub ich części na podstawie ugody lub orzeczenia jest wolne od podatków i opłat z tym związanych.
+1.
+Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
+2.
+Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte – wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a i 38b.
 
-### DZIAŁ I Wolność sumienia i wyznania
+**Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: – wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia i wyznania, – nawiązując do godnej trwałego szacunku i kontynuacji tradycji tolerancji i wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań i światopoglądów w rozwoju i pomyślności Ojczyzny, – uznając historyczny wkład kościołów i innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie i umacnianie podstawowych wartości moralnych, – kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, – umacniając warunki do czynnego i równoprawnego uczestnictwa obywateli w życiu publicznym i społecznym, bez względu na ich stosunek do religii, stanowi, co następuje:
+
+### Dział I Wolność sumienia i wyznania
 
 **Art. 1.**
 
@@ -48,14 +113,14 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 2. Korzystanie z wolności sumienia i wyznania nie może prowadzić do uchylania się od wykonywania obowiązków publicznych nałożonych przez ustawy.
 
-3. Ze względu na przekonania religijne lub wyznawane zasady moralne obywatele mogą występować o przeznaczenie do służby zastępczej na zasadach i w trybie określonych w ustawie z dnia 11 marca 2022 o obronie Ojczyzny (Dz. U. poz. 2305).
+3. Ze względu na przekonania religijne lub wyznawane zasady moralne obywatele mogą występować o przeznaczenie do służby zastępczej na zasadach i w trybie określonych w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305).
 
 **Art. 4.**
 
 1. Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom:
 
 - **1)** pełniącym służbę wojskową lub zasadniczą służbę w obronie cywilnej;
-- **2)** przebywającym w zakładach służby zdrowia i opieki społecznej oraz dzieciom i młodzieży na krajowych koloniach i obozach organizowanych przez instytucje państwowe;
+- **2)** przebywającym w zakładach służby zdrowia  i opieki społecznej  oraz dzieciom i młodzieży na krajowych koloniach i obozach organizowanych przez instytucje państwowe;
 - **3)** przebywającym w zakładach karnych, zakładach poprawczych, okręgowych ośrodkach wychowawczych, młodzieżowych ośrodkach wychowawczych, aresztach śledczych oraz schroniskach dla nieletnich.
 
 2. Sposób realizacji uprawnień określonych w ust. 1 regulują odrębne ustawy oraz przepisy wydane na ich podstawie.
@@ -74,7 +139,7 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 2. Przepis ust. 1 stosuje się odpowiednio do bezpaństwowców.
 
-### DZIAŁ II Stosunek państwa do kościołów i innych związków wyznaniowych
+### Dział II Stosunek państwa do kościołów i innych związków wyznaniowych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -126,17 +191,17 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 6. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania i od świadczeń na fundusz gminny i fundusz miejski , od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
 
-7. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla osób prawnych kościołów i innych związków wyznaniowych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 342 z 10.12.2009, str. 23).
+7. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla osób prawnych kościołów i innych związków wyznaniowych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 342 z 10.12.2009, str. 23).
 
 **Art. 14.**
 
-1. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia ministra właściwego do spraw wyznań religijnych i wojewodę właściwego ze względu na siedzibę jednostki organizacyjnej kościoła lub innego związku wyznaniowego o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale i zniesieniu diecezji (okręgów i porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin i porównywalnych jednostek organizacyjnych).
+1. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia ministra właściwego do spraw wyznań religijnych  i wojewodę właściwego ze względu na siedzibę jednostki organizacyjnej kościoła lub innego związku wyznaniowego o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale i zniesieniu diecezji (okręgów i porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin i porównywalnych jednostek organizacyjnych).
 
-2. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia w terminie 30 dni ministra właściwego do spraw wyznań religijnych i wojewodę właściwego ze względu na siedzibę kościoła lub innego związku wyznaniowego o zmianie siedziby oraz o zmianie osób wchodzących do kierowniczych organów wykonawczych, podając ich imiona i nazwiska, obywatelstwo i miejsce zamieszkania.
+2. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia w terminie 30 dni ministra właściwego do spraw wyznań religijnych  i wojewodę właściwego ze względu na siedzibę kościoła lub innego związku wyznaniowego o zmianie siedziby oraz o zmianie osób wchodzących do kierowniczych organów wykonawczych, podając ich imiona i nazwiska, obywatelstwo i miejsce zamieszkania.
 
 3. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, o których mowa w ust. 1.
 
-4. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed objęciem stanowisk, o których mowa w ust. 2 i 3, przez cudzoziemca, władze kościoła lub innego związku wyznaniowego powinny się upewnić, czy minister właściwy do spraw wyznań religijnych nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody.
+4. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed objęciem stanowisk, o których mowa w ust. 2 i 3, przez cudzoziemca, władze kościoła lub innego związku wyznaniowego powinny się upewnić, czy minister właściwy do spraw wyznań religijnych  nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody.
 
 **Art. 15.** (uchylony)
 
@@ -145,8 +210,6 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 1. Państwo współdziała z kościołami i innymi związkami wyznaniowymi w zachowaniu pokoju, kształtowaniu warunków rozwoju kraju oraz zwalczaniu patologii społecznych.
 
 2. W celach, o których mowa w ust. 1, oraz do rozpatrywania problemów związanych z rozwojem stosunków między państwem a poszczególnymi kościołami i innymi związkami wyznaniowymi mogą być, na zasadach wzajemnego uzgodnienia, tworzone różne, w tym stałe formy współdziałania. Przepis ten nie narusza właściwości organów państwowych oraz organów kościołów i innych związków wyznaniowych.
-
-**Art. 16a.**
 
 1. Dla określenia szczegółowych zasad stosunków, o których mowa w art. 16, mogą być zawierane umowy między właściwymi rzeczowo centralnymi organami administracji rządowej a władzami poszczególnych kościołów i innych związków wyznaniowych.
 
@@ -191,8 +254,6 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 3. Za wypełnianie funkcji religijnych, o których mowa w ust. 1, nie uznaje się oddziaływania poprzez badania i eksperymenty psychologiczne.
 
-**Art. 19a.**
-
 1. Kościoły i inne związki wyznaniowe mają prawo posiadania, zarządzania oraz zakładania i poszerzania cmentarzy grzebalnych.
 
 2. Przepis ust. 1 nie narusza przepisów dotyczących cmentarzy i chowania zmarłych.
@@ -209,9 +270,7 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 1. Kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić szkoły i przedszkola oraz inne placówki oświatowo-wychowawcze i opiekuńczo-wychowawcze na zasadach określonych w ustawach.
 
-2. Szkoły, przedszkola oraz inne placówki, o których mowa w ust. 1, będą dotowane przez państwo lub organy samorządu terytorialnego w przypadkach i na zasadach określonych w odrębnych ustawach.
-
-**Art. 21a.** Działalność służąca celom humanitarnym, charytatywno-opiekuńczym, naukowym i oświatowo-wychowawczym, podejmowana przez osoby prawne kościołów i innych związków wyznaniowych, jest zrównana pod względem prawnym z działalnością służącą analogicznym celom i prowadzoną przez instytucje państwowe.
+2. Szkoły, przedszkola oraz inne placówki, o których mowa w ust. 1, będą dotowane przez państwo lub organy samorządu terytorialnego w przypadkach i na zasadach określonych w odrębnych ustawach. Działalność służąca celom humanitarnym, charytatywno-opiekuńczym, naukowym i oświatowo-wychowawczym, podejmowana przez osoby prawne kościołów i innych związków wyznaniowych, jest zrównana pod względem prawnym z działalnością służącą analogicznym celom i prowadzoną przez instytucje państwowe.
 
 **Art. 22.**
 
@@ -223,7 +282,7 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 4. Kościoły i inne związki wyznaniowe mają prawo zakładać religijne instytuty naukowe i naukowo-dydaktyczne.
 
-5. Status prawny wydziałów teologicznych na uniwersytetach państwowych regulują odrębne umowy pomiędzy ministrem właściwym do spraw szkolnictwa wyższego a władzami kościołów lub innych związków wyznaniowych.
+5. Status prawny wydziałów teologicznych na uniwersytetach państwowych regulują odrębne umowy pomiędzy ministrem właściwym do spraw szkolnictwa wyższego  a władzami kościołów lub innych związków wyznaniowych.
 
 **Art. 23.** (uchylony)
 
@@ -280,7 +339,7 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 3. Władze kościołów i innych związków wyznaniowych czuwają nad zgodnością działania tych organizacji z ich celami religijnymi i moralnymi.
 
-### DZIAŁ III Rejestrowanie kościołów i innych związków wyznaniowych
+### Dział III Rejestrowanie kościołów i innych związków wyznaniowych
 
 **Art. 30.** Prawo wpisu do rejestru kościołów i innych związków wyznaniowych, zwanego dalej „rejestrem”, prowadzonego przez ministra właściwego do spraw wyznań religijnych , jest realizowane przez złożenie temu ministrowi, zwanemu dalej „organem rejestrowym”, deklaracji o utworzeniu kościoła lub innego związku wyznaniowego i wniosku o wpis do rejestru.
 
@@ -299,12 +358,12 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 - **1)** listę, o której mowa w art. 31 ust. 2;
 - **2)** informację o dotychczasowych formach życia religijnego i metodach działania kościoła lub innego związku wyznaniowego na terytorium Rzeczypospolitej Polskiej;
 - **3)** informację o podstawowych celach, źródłach i zasadach doktrynalnych, obrzędach religijnych;
-- **4)** adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych:
-    - **a)** imiona i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** adres zamieszkania,
-    - **d)** nazwę, serię i numer dokumentu tożsamości,
-    - **e)** nr PESEL;
+- **4)** adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych: imiona i nazwisko, datę urodzenia, adres zamieszkania, nazwę, serię i numer dokumentu tożsamości, nr PESEL;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **5)** statut.
 
@@ -382,88 +441,21 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 6. Przed zniesieniem osoby prawnej, o której mowa w art. 32 ust. 3, kościół lub inny związek wyznaniowy zarządza jej likwidację i wyznacza likwidatora informując o tym organ rejestrowy oraz określa przeznaczenie majątku pozostałego po zakończeniu likwidacji.
 
-7. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 Prawo o stowarzy8. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego.
+7. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261).
 
-**Art. 36a.**
+8. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego.
 
 1. Organ rejestrowy lub prokurator może wystąpić do sądu okręgowego o stwierdzenie niezgodności działania kościoła lub innego związku wyznaniowego z przepisami prawa, o których mowa w art. 27 ust. 1, lub ze statutem, o którym mowa w art. 32.
 
 2. W razie stwierdzenia prawomocnym wyrokiem sądu, że działalność kościoła lub innego związku wyznaniowego rażąco narusza prawo lub postanowienia statutu, organ rejestrowy wykreśli z rejestru ten kościół lub inny związek wyznaniowy.
 
-**Art. 37.** Minister właściwy do spraw wyznań religijnych określa, w drodze rozporządzenia, zasady i sposób prowadzenia rejestru, dane i informacje podlegające wpisowi, sposób, formę i termin aktualizacji wpisów do rejestru, warunki udostępniania rejestru, wydawania wyciągów z rejestru oraz sposób wykreślania kościoła lub innego związku wyznaniowego z rejestru.
+**Art. 37.** Minister właściwy do spraw wyznań religijnych  określa, w drodze rozporządzenia, zasady i sposób prowadzenia rejestru, dane i informacje podlegające wpisowi, sposób, formę i termin aktualizacji wpisów do rejestru, warunki udostępniania rejestru, wydawania wyciągów z rejestru oraz sposób wykreślania kościoła lub innego związku wyznaniowego z rejestru.
 
 **Art. 38.** Przepisy niniejszego działu stosuje się odpowiednio do krajowych organizacji międzykościelnych, jeżeli mają one mieć osobowość prawną. Do utworzenia takiej organizacji jest wymagana deklaracja podpisana przez władze co najmniej dwóch działających w Rzeczypospolitej Polskiej kościołów i innych związków wyznaniowych.
 
-### DZIAŁ IIIa Regulacja spraw majątkowych niektórych kościołów
+### Dział IIIa Regulacja spraw majątkowych niektórych kościołów
 
-**Art. 38a.**
-
-1. Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami i ich osobami prawnymi, które zgłosiły roszczenia w trybie i na zasadach określonych w:
-
-- **1)** art. 24–26 ustawy z dnia 13 maja 1994 o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej (Dz. U. z 2015 poz. 483);
-- **2)** art. 37 ustawy z dnia 30 czerwca 1995 o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2014 poz. 1712 oraz z 2022 poz. 1700);
-- **3)** art. 40–42 ustawy z dnia 30 czerwca 1995 o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2015 poz. 169 oraz z 2022 poz. 1700);
-- **4)** art. 35 ustawy z dnia 30 czerwca 1995 o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2022 poz. 2616).
-
-2. Roszczenia majątkowe wobec Państwa mogą również zgłaszać do Komisji w terminie do dnia 31 grudnia 1998 kościoły i inne związki wyznaniowe, niewymienione w ust. 1, a także krajowe organizacje międzykościelne, jeżeli wskażą we wniosku, że na rzecz Skarbu Państwa przejęto własność nieruchomości lub ich części będących uprzednio własnością tych kościołów i związków wyznaniowych oraz krajowych organizacji międzykościelnych.
-
-3. Do oceny dopuszczalności postępowania regulacyjnego w sprawach, o których mowa w ust. 2, mają odpowiednie zastosowanie przepisy ustaw wskazanych w ust. 1 pkt 1–4.
-
-4. Jeżeli przywrócenie kościelnej osobie prawnej własności nieruchomości nie jest możliwe z uwagi na trudne do przezwyciężenia przeszkody, przyznaje się jej nieruchomość zamienną, a jeżeli nie jest to możliwe, osobie tej przyznaje się odszkodowanie ustalone według przepisów o wywłaszczeniu nieruchomości .
-
-5. Rada Ministrów określi, w drodze rozporządzenia, z mienia których państwowych jednostek organizacyjnych lub gmin może być wyłączona nieruchomość zamienna lub na którą państwową jednostkę organizacyjną może być nałożony obowiązek zapłaty odszkodowania.
-
-**Art. 38b.**
-
-1. Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie na własność nieruchomości lub ich części, które były własnością kościelnych osób prawnych działających do 1945 na Ziemiach Zachodnich i Północnych, w celu przywrócenia w nich sprawowania kultu religijnego, działalności oświatowo-wychowawczej, charytatywno-opiekuńczej i opiekuńczo-wychowawczej.
-
-2. W razie niemożności dokonania regulacji, o której mowa w ust. 1, postępowanie ulega umorzeniu.
-
-**Art. 38c.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 38a i 38b.
-
-**Art. 38d.**
-
-1. Minister właściwy do spraw wyznań religijnych po zasięgnięciu opinii władz kościołów, o których mowa w art. 38a ust. 1 pkt 1–4, określi, w drodze rozporządzenia, liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego, uwzględniając w szczególności organizację pracy Komisji, zadania współprzewodniczących zespołów orzekających, oraz sposób prowadzenia i protokołowania rozpraw, orzekania i nadawania klauzul wykonalności orzeczeniom i ugodom.
-
-2. Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez ministra właściwego do spraw wyznań religijnych i władze kościoła lub związku wyznaniowego, którego wniosek dotyczy.
-
-3. Postępowanie regulacyjne wszczyna się z chwilą złożenia wniosku w Komisji. Zespół orzekający po otrzymaniu wniosku o wszczęcie postępowania regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca.
-
-4. Postępowania sądowe lub administracyjne dotyczące nieruchomości, w stosunku do których wszczęto postępowanie regulacyjne, ulegają zawieszeniu, a sądy i organy prowadzące postępowania administracyjne przekazują ich akta do Komisji.
-
-5. Uczestnikami postępowania regulacyjnego są, oprócz wnioskodawcy, wszystkie zainteresowane jednostki państwowe, samorządowe i kościelne.
-
-6. Uczestnicy postępowania regulacyjnego mogą zawrzeć ugodę przed zespołem orzekającym. Jeżeli ugoda nie zostanie zawarta, zespół orzekający wydaje orzeczenie.
-
-7. Regulacja nie może naruszać praw nabytych przez niepaństwowe osoby trzecie, a w szczególności przez inne kościoły i związki wyznaniowe oraz rolników indywidualnych.
-
-8. Ugody zawarte przed zespołem orzekającym, jak i orzeczenia uwzględniające wniosek, powinny określać:
-
-- **1)** stan prawny nieruchomości;
-- **2)** związane z tym stanem obowiązki uczestników postępowania, a w szczególności obowiązek wydania nieruchomości w wyznaczonym terminie, jeżeli nie znajduje się ona we władaniu wnioskodawcy;
-- **3)** w razie przyznania odszkodowania, obowiązek i termin zapłaty należnej z tego tytułu kwoty.
-
-9. Od orzeczenia zespołu orzekającego nie przysługuje odwołanie.
-
-**Art. 38e.**
-
-1. Ugody i orzeczenia mają moc sądowych tytułów egzekucyjnych.
-
-2. Ugody i orzeczenia stanowią podstawę do dokonywania wpisów w księgach wieczystych i w ewidencji gruntów.
-
-**Art. 38f.**
-
-1. Postępowanie regulacyjne jest wolne od opłat.
-
-2. Nabycie własności nieruchomości lub ich części na podstawie ugody lub orzeczenia jest wolne od podatków i opłat z tym związanych.
-
-**Art. 38g.**
-
-1. Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
-
-2. Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a i 38b.
-
-### DZIAŁ IV Przepisy przejściowe i końcowe
+### Dział IV Przepisy przejściowe i końcowe
 
 **Art. 39.** (pominięty)
 
@@ -485,5 +477,5 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 **Art. 44.** (pominięty)
 
-**Art. 45.** Ustawa wchodzi w życie z dniem ogłoszenia .
+**Art. 45.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

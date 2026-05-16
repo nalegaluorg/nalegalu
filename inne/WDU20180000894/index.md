@@ -8,9 +8,12 @@ pos: 894
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 maja 2018 r.
+# o przetwarzaniu danych dotyczących przelotu pasażera
+
+*USTAWA z dnia 9 maja 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-09-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000894) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/894/text.pdf) |
 
-USTAWA z dnia 9 maja 2018 r.
-o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
@@ -37,7 +37,7 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 **Art. 2.** Użyte w ustawie określenia i skróty oznaczają:
 
-**Art. 3.** Dane PNR przekazane przez przewoźników lotniczych mogą być przetwarzane w celu zapobiegania, wykrywania i zwalczania oraz ścigania sprawców:
+**Art. 3.** Dane PNR pasażerów lotów pozaunijnych i lotów wewnątrzunijnych przekazane przez przewoźników lotniczych mogą być przetwarzane w celu zapobiegania, wykrywania i zwalczania oraz ścigania sprawców:
 
 **Art. 4.**
 
@@ -64,11 +64,11 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 - **12)** informacje dotyczące osoby małoletniej podróżującej bez opieki statkiem powietrznym, obejmujące:
     - **a)** imię i nazwisko osoby małoletniej, jej płeć, wiek oraz języki, którymi włada,
     - **b)** imię i nazwisko opiekuna osoby małoletniej w momencie startu tego statku, jego adres, numer telefonu, adres e-mail, rodzaj i numer dokumentu tożsamości oraz rodzaj więzi łączącej go z osobą małoletnią,
-    - **c)** imię i nazwisko opiekuna osoby małoletniej w momencie lądowania tego statku, jego adres, numer telefonu, adres e-mail, rodzaj i numer dokumentu to ż samo ś ci oraz rodzaj wi ę zi ł ą cz ą cej go z osob ą małoletni ą ,
-    - **d)** imi ę i nazwisko przedstawiciela przewo ź nika lotniczego obecnego przy odlocie i przylocie;
+    - **c)** imię i nazwisko opiekuna osoby małoletniej w momencie lądowania tego statku, jego adres, numer telefonu, adres e-mail, rodzaj i numer dokumentu tożsamości oraz rodzaj więzi łączącej go z osobą małoletnią,
+    - **d)** imię i nazwisko przedstawiciela przewoźnika lotniczego obecnego przy odlocie i przylocie;
 
-- **13)** numer biletu, dat ę jego wystawienia i informacj ę , czy został wystawiony w jedn ą stron ę , oraz informacj ę o automatycznie skalkulowanej taryfie słu żą cej do ustalenia ceny biletu;
-- **14)** numer miejsca na pokładzie statku powietrznego i inne informacje dotycz ą ce tego miejsca;
+- **13)** numer biletu, datę jego wystawienia i informację, czy został wystawiony w jedną stronę, oraz informację o automatycznie skalkulowanej taryfie służącej do ustalenia ceny biletu;
+- **14)** numer miejsca na pokładzie statku powietrznego i inne informacje dotyczące tego miejsca;
 - **15)** informacje o wspólnej obsłudze połączeń;
 - **16)** informacje dotyczące liczby, rodzaju i wagi bagażu;
 - **17)** liczba oraz imiona i nazwiska innych pasażerów wymienionych w danych PNR dotyczących dokonanej rezerwacji;
@@ -79,17 +79,40 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
     - **d)** płeć,
     - **e)** datę urodzenia,
     - **f)** nazwę linii lotniczych, numer lotu PNR oraz datę i godzinę startu i lądowania statku powietrznego,
-    - **g)** nazwę portu lotniczego, w którym nastąpił start oraz lądowanie zwane dalej „danymi API”;
+    - **g)** nazwę portu lotniczego, w którym nastąpił start oraz lądowanie – zwane dalej „danymi API”;
 
 - **19)** zmiany danych PNR zawartych w kategoriach, o których mowa w pkt 1–18.
 
 2. Nie przetwarza się danych PNR ujawniających rasę, pochodzenie etniczne, poglądy polityczne, przekonania religijne lub światopoglądowe, przynależność do związków zawodowych, stan zdrowia, życie seksualne lub orientację seksualną danej osoby.
 
-#### Rozdział 2 Obowi ą zek przekazywania danych PNR przez przewo ź ników lotniczych
+**Art. 4a.**
+
+1. W przypadku zaistnienia rzeczywistego i aktualnego lub możliwego do przewidzenia zagrożenia wystąpieniem przestępstw lub przestępstw skarbowych, o których mowa w art. 3, w szczególności zagrożenia o charakterze terrorystycznym, JIP może przetwarzać dane PNR pasażerów lotów wewnątrzunijnych zgromadzone w KSI PNR.
+
+2. Przetwarzanie danych PNR, o którym mowa w ust. 1, dotyczy danych PNR pasażerów lotów wewnątrzunijnych w przypadku:
+
+- **1)** obowiązywania na terytorium Rzeczypospolitej Polskiej stopnia alarmowego, o którym mowa w art. 15 ust. 1 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194), albo
+- **2)** określenia lotu zgodnie z ust. 3 albo 5.
+
+3. Minister właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Straży Granicznej, sporządzony na podstawie informacji uzyskanych od właściwych organów, uwzględniających kryteria tras lotniczych, planów podróży oraz lotnisk, z zachowaniem przepisów o ochronie informacji niejawnych, może określić, w drodze zarządzenia niepodlegającego ogłoszeniu, loty wewnątrzunijne objęte prawem przetwarzania danych PNR.
+
+4. Komendant Główny Straży Granicznej na podstawie informacji uzyskanych od właściwych organów dokonuje na bieżąco weryfikacji zasadności objęcia lotów wewnątrzunijnych prawem przetwarzania danych PNR i nie rzadziej niż raz na rok przedkłada ministrowi właściwemu do spraw wewnętrznych informację w tej sprawie.
+
+5. Właściwy organ, osoba przez niego upoważniona albo inna osoba upoważniona w trybie, o którym mowa w art. 31 ust. 4, mogą się zwrócić do JIP we wniosku, o którym mowa w art. 21 ust. 1, o objęcie lotu wewnątrzunijnego prawem przetwarzania danych PNR, w przypadku:
+
+- **1)** postępowania przed sądem – za zgodą sądu prowadzącego postępowanie;
+- **2)** postępowania przygotowawczego – za zgodą prokuratora prowadzącego lub nadzorującego postępowanie;
+- **3)** czynności operacyjno-rozpoznawczych – za zgodą prokuratora okręgowego właściwego ze względu na siedzibę organu wykonującego te czynności.
+
+6. Zgoda na objęcie lotu wewnątrzunijnego prawem przetwarzania danych PNR może być wydana, w przypadku gdy przetwarzanie danych PNR pasażerów lotów wewnątrzunijnych jest niezbędne ze względu na zaistnienie zagrożenia wystąpieniem przestępstw lub przestępstw skarbowych, o których mowa w art. 3, w szczególności zagrożenia o charakterze terrorystycznym, a lot ten nie został określony na podstawie zarządzenia, o którym mowa w ust. 3, albo takie zarządzenie nie obowiązuje.
+
+7. Zgoda na objęcie lotu wewnątrzunijnego prawem przetwarzania danych PNR jest udzielana na wniosku, o którym mowa w art. 21 ust. 1.
+
+#### Rozdział 2 Obowiązek przekazywania danych PNR przez przewoźników lotniczych
 
 **Art. 5.**
 
-1. Przewoźnik lotniczy, który organizuje lot PNR, przekazuje do JIP dane PNR dotyczące pasażerów tego lotu, spośród kategorii danych PNR, które gromadzi w trakcie prowadzonej przez siebie działalności w celu dokonania rezerwacji lub realizacji przewozu lotniczego.
+1. Przewoźnik lotniczy, który obsługuje lot PNR, przekazuje do JIP dane PNR dotyczące pasażerów tego lotu, spośród kategorii danych PNR, które gromadzi w trakcie prowadzonej przez siebie działalności w celu dokonania rezerwacji lub realizacji przewozu lotniczego, niezależnie od ograniczeń dotyczących przetwarzania danych PNR określonych w art. 4a.
 
 2. Przekazywanie danych PNR przez przewoźników lotniczych do JIP odbywa się nieodpłatnie.
 
@@ -102,10 +125,10 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 2. Przekazanie danych PNR w terminie określonym w ust. 1:
 
-- **1)** pkt 1 polega na jednokrotnym albo wielokrotnym przesłaniu danych PNR do JIP;
-- **2)** pkt 2 polega na przekazaniu danych PNR albo aktualizacji danych, które zostały przekazane w terminie, o którym mowa w ust. 1 pkt 1.
+- **1)** pkt 1 – polega na jednokrotnym albo wielokrotnym przesłaniu danych PNR do JIP;
+- **2)** pkt 2 – polega na przesłaniu danych PNR pasażerów znajdujących się na pokładzie statku powietrznego, którzy po zakończeniu odprawy biletowo-bagażowej i wejściu na pokład statku powietrznego nie mogą go opuścić przed startem, a inni pasażerowie nie mogą wejść na pokład. Przekazanie tych danych PNR może polegać na aktualizacji danych PNR przekazanych w terminie, o którym mowa w ust. 1 pkt 1.
 
-3. W przypadku zmiany danych PNR, przekazanych na podstawie ust. 1 pkt 2, przed startem statku powietrznego, przewoźnik lotniczy przekazuje dane PNR ponownie.
+3. W przypadku zmiany danych PNR, przekazanych na podstawie ust. 1 pkt 2, przed startem statku powietrznego, przewoźnik lotniczy przekazuje dane PNR ponownie, z uwzględnieniem tych zmian.
 
 **Art. 7.**
 
@@ -114,8 +137,8 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
 - **1)** nazwę przewoźnika lotniczego i numer lotu PNR, którego dotyczy wniosek;
-- **2)** podstaw ę prawn ą wniosku i jego uzasadnienie wskazuj ą ce bezpo ś rednie i rzeczywiste zagro ż enie przest ę pstwem lub przest ę pstwem skarbowym, o którym mowa w art. 3, oraz przyczyny przekazania przez przewo ź nika lotniczego danych PNR w innych terminach ni ż okre ś lone w art. 6 ust. 1;
-- **3)** okre ś lenie terminu lub terminów przekazania danych PNR do JIP;
+- **2)** podstawę prawną wniosku i jego uzasadnienie wskazujące bezpośrednie i rzeczywiste zagrożenie przestępstwem lub przestępstwem skarbowym, o którym mowa w art. 3, oraz przyczyny przekazania przez przewoźnika lotniczego danych PNR w innych terminach niż określone w art. 6 ust. 1;
+- **3)** określenie terminu lub terminów przekazania danych PNR do JIP;
 - **4)** oznaczenie sprawy, w której dane PNR lub wyniki ich przetwarzania będą wykorzystywane;
 - **5)** numer telefonu osoby prowadzącej sprawę;
 - **6)** nazwę właściwego organu albo imię i nazwisko osoby upoważnionej przez niego do złożenia wniosku.
@@ -145,17 +168,17 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 - **1)** protokoły i formaty danych wykorzystywane do przekazywania danych PNR do JIP,
-- **2)** format danych, zgodnie z którym przekazywane są dane API, które przewoźnicy lotniczy gromadzą odrębnie od pozostałych danych PNR dla tego samego lotu PNR uwzględniając konieczność zapewnienia bezpiecznego i efektywnego przekazywania danych PNR oraz optymalizacji kosztów.
+- **2)** format danych, zgodnie z którym przekazywane są dane API, które przewoźnicy lotniczy gromadzą odrębnie od pozostałych danych PNR dla tego samego lotu PNR – uwzględniając konieczność zapewnienia bezpiecznego i efektywnego przekazywania danych PNR oraz optymalizacji kosztów.
 
 4. Przewoźnik lotniczy wykonujący nieregularny przewóz lotniczy pasażerów i niedysponujący infrastrukturą, która umożliwiałaby obsługę protokołów i formatów danych określonych w przepisach wykonawczych wydanych na podstawie ust. 3, przekazuje dane PNR do JIP za pomocą środków komunikacji elektronicznej, w sposób gwarantujący ochronę danych osobowych przed niedozwolonymi formami ich przetwarzania, w szczególności przed ich zniszczeniem, utratą, modyfikacją, ujawnieniem lub dostępem do nich, uwzględniający ryzyko wiążące się z przetwarzaniem i charakterem danych podlegających ochronie oraz koszty jego wdrożenia. Przewoźnik lotniczy i Komendant Główny Straży Granicznej uzgadniają w drodze pisemnego porozumienia rodzaje stosowanych środków komunikacji elektronicznej, za pomocą których dane PNR są przekazywane, oraz sposób ich zabezpieczenia.
 
-5. W przypadku gdy przekazanie danych PNR w sposób określony w ust. 1–4 jest niemożliwe z powodu awarii technicznej, przewoźnik lotniczy i JIP uzgadniają w drodze porozumienia inny sposób przekazania tych danych, zapewniający sprawny przekaz danych, gwarantujący ochronę danych osobowych przed niedozwolonymi formami ich przetwarzania, w szczególności przed ich zniszczeniem, utratą, modyfikacją, ujawnieniem lub dostępem do nich, uwzględniający ryzyko wiążące się z przetwarzaniem i charakterem danych podlegających ochronie oraz biorąc pod uwagę koszty jego wdrożenia. Przewoźnik lotniczy i JIP niezwłocznie potwierdzają pisemnie uzgodnione porozumienie.
+5. W przypadku gdy przekazanie danych PNR w sposób określony w ust. 1– 4 jest niemożliwe z powodu awarii technicznej, przewoźnik lotniczy i JIP uzgadniają w drodze porozumienia inny sposób przekazania tych danych, zapewniający sprawny przekaz danych, gwarantujący ochronę danych osobowych przed niedozwolonymi formami ich przetwarzania, w szczególności przed ich zniszczeniem, utratą, modyfikacją, ujawnieniem lub dostępem do nich, uwzględniający ryzyko wiążące się z przetwarzaniem i charakterem danych podlegających ochronie oraz biorąc pod uwagę koszty jego wdrożenia. Przewoźnik lotniczy i JIP niezwłocznie potwierdzają pisemnie uzgodnione porozumienie.
 
 6. Komendant Główny Straży Granicznej udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej Komendy Głównej Straży Granicznej informacje dotyczące sposobu przekazywania danych PNR przez przewoźników lotniczych do JIP.
 
 **Art. 9.**
 
-1. Przewo ź nik lotniczy, podczas dokonywania rezerwacji lub wystawiania biletu na przewóz lotniczy informuje w formie pisemnej, w postaci papierowej lub elektronicznej, ka ż dego pasa ż era o przetwarzaniu jego danych PNR i przekazywaniu ich do JIP, w celu okre ś lonym w art. 1 ust. 1, oraz o przysługuj ą cym mu prawie do ochrony jego danych osobowych przekazanych do JIP.
+1. Przewoźnik lotniczy, podczas dokonywania rezerwacji lub wystawiania biletu na przewóz lotniczy informuje w formie pisemnej, w postaci papierowej lub elektronicznej, każdego pasażera o przetwarzaniu jego danych PNR i przekazywaniu ich do JIP, w celu określonym w art. 1 ust. 1, oraz o przysługującym mu prawie do ochrony jego danych osobowych przekazanych do JIP.
 
 2. Informacja o przysługującym pasażerowi prawie do ochrony jego danych osobowych przekazanych do JIP zawiera:
 
@@ -163,26 +186,23 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 - **2)** adres, numer telefonu i adres e-mail Komendanta Głównego Straży Granicznej jako administratora danych PNR;
 - **3)** pouczenie o prawie do dostępu do jego danych osobowych, żądania ich uzupełnienia, uaktualnienia, sprostowania lub usunięcia, jeżeli są one niekompletne, nieaktualne, nieprawdziwe lub zostały zgromadzone z naruszeniem prawa, a także o prawie do odszkodowania oraz dochodzenia swoich praw na drodze sądowej, w przypadku naruszenia zasad przetwarzania jego danych osobowych przez JIP;
 - **4)** pouczenie o prawie do kontaktu z Inspektorem do spraw ochrony danych o pasażerach, zwanym dalej „Inspektorem”, oraz jego adres, numer telefonu i adres e-mail;
-- **5)** pouczenie o prawie do złożenia wniosku o udzielenie informacji o przysługujących mu prawach lub złożenia skargi do Generalnego Inspektora Ochrony Danych Osobowych w zakresie przetwarzania danych osobowych pasażera w związku z przetwarzaniem danych PNR.
+- **5)** pouczenie o prawie do złożenia wniosku o udzielenie informacji o przysługujących mu prawach lub złożenia skargi do Prezesa Urzędu Ochrony Danych Osobowych w zakresie przetwarzania danych osobowych pasażera w związku z przetwarzaniem danych PNR.
 
 **Art. 10.**
 
-1. Przewoźnik lotniczy, w celu zapewnienia skutecznego przekazywania danych PNR, informuje JIP, w formie pisemnej, w postaci papierowej lub dokumentu elektronicznego, o:
+1. Przewoźnik lotniczy, na wniosek JIP, w celu zapewnienia skutecznego przekazania danych PNR, informuje JIP w formie pisemnej w postaci papierowej lub elektronicznej o:
 
-- **1)** swojej nazwie, adresie, numerze telefonu oraz adresie e-mail,
-- **2)** wybranym przez siebie spośród określonych w przepisach wykonawczych wydanych na podstawie art. 8 ust. 3 pkt 1 protokole i formacie danych, wykorzystywanych do przesyłania danych PNR do JIP,
-- **3)** ustalonych przez siebie rozkładach lub programach lotów PNR,
-- **4)** elementach kategorii gromadzonych przez siebie danych PNR w terminie do 14 dni przed rozpoczęciem wykonywania lotów PNR.
+- **1)** swoich danych: nazwie, adresie, numerze telefonu oraz adresie e-mail,
+- **2)** wybranym przez siebie spośród określonych w przepisach wykonawczych wydanych na podstawie art. 8 ust. 3 pkt 1 protokole i formacie danych, wykorzystywanych do przekazania danych PNR do JIP,
+- **3)** elementach kategorii gromadzonych przez siebie danych PNR – w terminie 14 dni od dnia doręczenia wniosku JIP.
 
 2. W stosunku do przewoźnika lotniczego, o którym mowa w art. 8 ust. 4, nie stosuje się obowiązku określonego w ust. 1 pkt 2.
 
-3. W przypadku lotów PNR nieuwzględnionych w rozkładach lub programach lotów PNR obowiązek, o którym mowa w ust. 1, przewoźnik lotniczy wykonuje niezwłocznie po wprowadzeniu planowanego lotu PNR do rozkładu lub programu lotów PNR.
-
-4. W przypadku gdy informacje, o których mowa w ust. 1, uległy zmianie, przewoźnik lotniczy niezwłocznie przekazuje ich aktualizację do JIP.
+3. W przypadku gdy zmieniły się dane, o których mowa w ust. 1, przewoźnik lotniczy niezwłocznie, jednak nie później niż w terminie 30 dni od dnia, w którym nastąpiła zmiana tych danych, przekazuje ich aktualizację w formie pisemnej w postaci papierowej lub elektronicznej do JIP.
 
 **Art. 11.** Prezes Urzędu Lotnictwa Cywilnego współdziała z Komendantem Głównym Straży Granicznej w zakresie niezbędnym do zapewnienia wykonywania przez przewoźników lotniczych obowiązku przekazywania danych PNR do JIP, w szczególności przez udostępnianie na wniosek Komendanta Głównego Straży Granicznej, złożony w formie pisemnej, w postaci papierowej lub elektronicznej, posiadanych informacji dotyczących nazwy, adresu, numeru telefonu oraz adresu e-mail przewoźników lotniczych lub zakresu ich działalności.
 
-#### Rozdział 3 Krajowa Jednostka do spraw Informacji o Pasa ż erach
+#### Rozdział 3 Krajowa Jednostka do spraw Informacji o Pasażerach
 
 **Art. 12.**
 
@@ -194,9 +214,9 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 - **2)** przekazywanie danych PNR lub wyników ich przetwarzania właściwym organom;
 - **3)** wymiana danych PNR lub wyników ich przetwarzania z innymi państwami członkowskimi;
 - **4)** przekazywanie danych PNR lub wyników ich przetwarzania do Europolu;
-- **5)** przekazywanie danych PNR lub wyników ich przetwarzania pa ń stwom trzecim;
-- **6)** dokonywanie sprawdze ń danych PNR według kryteriów przetwarzania danych PNR;
-- **7)** dokonywanie analizy danych PNR w celu aktualizacji, usuni ę cia lub ustalenia kryteriów przetwarzania danych PNR;
+- **5)** przekazywanie danych PNR lub wyników ich przetwarzania państwom trzecim;
+- **6)** dokonywanie sprawdzeń danych PNR według kryteriów przetwarzania danych PNR;
+- **7)** dokonywanie analizy danych PNR w celu aktualizacji, usunięcia lub ustalenia kryteriów przetwarzania danych PNR;
 - **8)** opracowywanie informacji statystycznych o danych PNR przekazanych do JIP.
 
 3. JIP realizuje zadania w systemie całodobowym przez 7 dni w tygodniu.
@@ -243,7 +263,7 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 4. Komendant Główny Straży Granicznej występuje z wnioskiem do właściwego organu w terminie umożliwiającym rozpoczęcie wykonywania zadań w JIP przez przedstawiciela właściwego organu proponowanego do oddelegowania w planowanym terminie.
 
-5. Wła ś ciwy organ, w terminie 14 dni od dnia otrzymania wniosku, zawiadamia Komendanta Głównego Stra ż y Granicznej o decyzji w sprawie oddelegowania swojego przedstawiciela do Stra ż y Granicznej do wykonywania zada ń w JIP.
+5. Właściwy organ, w terminie 14 dni od dnia otrzymania wniosku, zawiadamia Komendanta Głównego Straży Granicznej o decyzji w sprawie oddelegowania swojego przedstawiciela do Straży Granicznej do wykonywania zadań w JIP.
 
 6. W przypadku uwzględnienia wniosku przez właściwy organ i wyznaczenia przez niego swojego przedstawiciela, Komendant Główny Straży Granicznej zawiera z tym organem w formie pisemnej w postaci papierowej lub elektronicznej porozumienie o oddelegowaniu jego przedstawiciela do Straży Granicznej do wykonywania zadań w JIP.
 
@@ -284,20 +304,30 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 1. Dane PNR przekazane przez przewoźników lotniczych podlegają weryfikacji przez JIP pod względem:
 
 - **1)** ich zgodności z kategoriami danych PNR określonymi w art. 4 ust. 1;
-- **2)** ich kompletności z elementami kategorii danych PNR, o których mowa w art. 10 ust. 1 pkt 4, gromadzonych przez danego przewoźnika lotniczego;
-- **3)** zastosowania przez przewo ź nika lotniczego:
-    - **a)** wybranego formatu przekazanych danych PNR, zgodnego z formatem okre ś lonym w przepisach wykonawczych wydanych na podstawie art. 8 ust. 3 pkt 1,
-    - **b)** formatu zgodnego z formatem okre ś lonym w przepisach wykonawczych wydanych na podstawie art. 8 ust. 3 pkt 2, w przypadku przekazywania danych API odrębnie od pozostałych danych PNR dla tego samego lotu PNR,
+- **2)** ich kompletności z elementami kategorii danych PNR, o których mowa w art. 10 ust. 1 pkt 3, gromadzonych przez danego przewoźnika lotniczego;
+- **3)** zastosowania przez przewoźnika lotniczego:
+    - **a)** wybranego formatu przekazanych danych PNR, zgodnego z formatem określonym w przepisach wykonawczych wydanych na podstawie art. 8 ust. 3 pkt 1,
+    - **b)** formatu zgodnego z formatem określonym w przepisach wykonawczych wydanych na podstawie art. 8 ust. 3 pkt 2, w przypadku przekazywania danych API odrębnie od pozostałych danych PNR dla tego samego lotu PNR,
     - **c)** środków komunikacji elektronicznej i sposobów zabezpieczenia danych, uzgodnionych z Komendantem Głównym Straży Granicznej w przypadku, o którym mowa w art. 8 ust. 4,
     - **d)** sposobu przekazania danych PNR, uzgodnionego z JIP w przypadku, o którym mowa w art. 8 ust. 5;
 
 - **4)** dotrzymania terminów przekazywania danych PNR.
+
+1a. JIP dokonuje weryfikacji na podstawie rocznego planu weryfikacji lub na polecenie Komendanta Głównego Straży Granicznej.
+
+1b. Roczny plan weryfikacji na każdy kolejny rok opracowuje JIP na podstawie analizy ryzyka wystąpienia nieprawidłowości przy przekazaniu danych PNR, w szczególności nieprawidłowości przy przekazaniu danych PNR mających istotne znaczenie dla wykrywania i zwalczania przestępstw lub przestępstw skarbowych, o których mowa w art. 3, a następnie przedkłada go Komendantowi Głównemu Straży Granicznej do zatwierdzenia.
+
+1c. Komendant Główny Straży Granicznej zatwierdza przedłożony mu roczny plan weryfikacji nie później niż do dnia 20 grudnia roku poprzedzającego rok, na który ten plan opracowano.
 
 2. JIP, w sposób zautomatyzowany, trwale usuwa dane przekazane przez przewoźników lotniczych, nienależące do kategorii danych PNR, o których mowa w art. 4 ust. 1, niezwłocznie po ich otrzymaniu, przy wykorzystaniu KSI PNR lub przez osobę wykonującą zadania w JIP.
 
 3. W przypadku otrzymania przez JIP danych, o których mowa w art. 4 ust. 2, JIP niezwłocznie, w sposób zautomatyzowany, trwale je usuwa, przy wykorzystaniu KSI PNR lub przez osobę wykonującą zadania w JIP.
 
 4. W przypadku gdy w wyniku weryfikacji zostaną stwierdzone naruszenia w zakresie niedopełnienia przez przewoźników lotniczych obowiązku przekazywania danych PNR, JIP zawiadamia o nich Komendanta Głównego Straży Granicznej.
+
+5. Naruszenia stwierdzone przez JIP w wyniku weryfikacji uznaje się za niedopełnienie obowiązku przekazania danych PNR, o którym mowa w art. 5 ust. 1, chyba że przewoźnik lotniczy przedstawi w terminie 60 dni od dnia doręczenia zawiadomienia o wszczęciu postępowania administracyjnego w sprawie naruszenia przez przewoźnika lotniczego obowiązku przekazania danych PNR dowód potwierdzający, że wykonany lot nie był lotem PNR, przewoźnik lotniczy nie posiadał danych PNR w terminach, o których mowa w art. 6 ust. 1, lub wystąpiły okoliczności, o których mowa w art. 69.
+
+6. Za dowód, o którym mowa w ust. 5, może być uznana w szczególności informacja uzyskana od Polskiej Agencji Żeglugi Powietrznej, zarządzającego lotniskiem, podmiotu, na rzecz którego był realizowany lot, podmiotu, który gromadzi dane pasażerów w celu rezerwacji lub realizacji lotu przez przewoźnika lotniczego, lub podmiotu realizującego zadania w zakresie obsługi naziemnej statków powietrznych. Jeżeli informacja stanowiąca dowód została sporządzona w języku obcym, przewoźnik lotniczy przesyła ją wraz z tłumaczeniem na język polski wykonanym przez tłumacza przysięgłego na koszt przewoźnika lotniczego.
 
 **Art. 19.**
 
@@ -327,16 +357,16 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 - **1)** oznaczenie sprawy, w której dane PNR lub wyniki ich przetwarzania będą wykorzystywane;
 - **2)** podstawę prawną wniosku;
 - **3)** określenie przestępstwa lub przestępstwa skarbowego, o których mowa w art. 3, uzasadniającego przekazanie danych PNR lub wyników ich przetwarzania;
-- **4)** dane osoby lub osób, których dotyczy wniosek imię i nazwisko, datę urodzenia lub inne dane pozwalające na jednoznaczne wyszukanie danych PNR;
+- **4)** dane osoby lub osób, których dotyczy wniosek – imię i nazwisko, datę urodzenia lub inne dane pozwalające na jednoznaczne wyszukanie danych PNR;
 - **5)** określenie okresu, którego dotyczą dane PNR;
 - **6)** uzasadnienie wskazujące, że dostęp do danych PNR lub wyników ich przetwarzania jest niezbędny;
 - **7)** numer telefonu osoby prowadzącej sprawę;
-- **8)** nazw ę wła ś ciwego organu albo imi ę i nazwisko osoby upowa ż nionej przez niego do zło ż enia wniosku.
+- **8)** nazwę właściwego organu albo imię i nazwisko osoby upoważnionej przez niego do złożenia wniosku.
 
-4. Wniosek o przekazanie danych PNR mo ż e równie ż zawiera ć :
+4. Wniosek o przekazanie danych PNR może również zawierać:
 
-- **1)** zgod ę , o której mowa w art. 33 ust. 2;
-- **2)** inne dane, które w ocenie wła ś ciwego organu s ą istotne dla prawidłowej realizacji wniosku.
+- **1)** zgodę, o której mowa w art. 4a ust. 5 lub art. 33 ust. 2;
+- **2)** inne dane, które w ocenie właściwego organu są istotne dla prawidłowej realizacji wniosku.
 
 5. JIP dokonuje weryfikacji wniosku o przekazanie danych PNR pod względem spełnienia warunków, o których mowa w ust. 3.
 
@@ -372,9 +402,9 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 2. Wniosek o ustalenie kryteriów przetwarzania danych PNR zawiera:
 
-- **1)** oznaczenie sprawy, w której dane PNR lub wyniki ich przetwarzania b ę d ą wykorzystywane;
-- **2)** podstaw ę prawn ą wniosku;
-- **3)** okre ś lenie przest ę pstwa lub przest ę pstwa skarbowego, o których mowa w art. 3, uzasadniaj ą cego przetwarzanie danych PNR;
+- **1)** oznaczenie sprawy, w której dane PNR lub wyniki ich przetwarzania będą wykorzystywane;
+- **2)** podstawę prawną wniosku;
+- **3)** określenie przestępstwa lub przestępstwa skarbowego, o których mowa w art. 3, uzasadniającego przetwarzanie danych PNR;
 - **4)** uzasadnienie wskazujące, że dostęp do danych PNR lub wyników ich przetwarzania jest niezbędny;
 - **5)** elementy kategorii danych niezbędnych do sformułowania kryteriów przetwarzania danych PNR;
 - **6)** określenie okresu przekazywania danych PNR wytypowanych w oparciu o ustalone kryteria ich przetwarzania;
@@ -418,9 +448,9 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 **Art. 28.**
 
-1. W przypadku gdy JIP, dokonując analizy danych PNR, o której mowa w art. 12 ust. 2 pkt 7, stwierdzi potrzebę ustalenia nowych kryteriów przetwarzania danych PNR, aktualizacji ustalonych kryteriów albo ich usunięcia, składa do wła ś ciwego organu, w formie pisemnej, w postaci papierowej lub elektronicznej, wniosek o podj ę cie działa ń , o których mowa w art. 25–27.
+1. W przypadku gdy JIP, dokonując analizy danych PNR, o której mowa w art. 12 ust. 2 pkt 7, stwierdzi potrzebę ustalenia nowych kryteriów przetwarzania danych PNR, aktualizacji ustalonych kryteriów albo ich usunięcia, składa do właściwego organu, w formie pisemnej, w postaci papierowej lub elektronicznej, wniosek o podjęcie działań, o których mowa w art. 25–27.
 
-2. JIP usuwa kryteria przetwarzania danych PNR, je ż eli w terminie 7 dni od dnia zło ż enia wniosku, o którym mowa w ust. 1, wła ś ciwy organ nie uzgodni z JIP potrzeby aktualizacji, usuni ę cia albo dalszego stosowania ustalonych kryteriów przetwarzania danych PNR.
+2. JIP usuwa kryteria przetwarzania danych PNR, jeżeli w terminie 7 dni od dnia złożenia wniosku, o którym mowa w ust. 1, właściwy organ nie uzgodni z JIP potrzeby aktualizacji, usunięcia albo dalszego stosowania ustalonych kryteriów przetwarzania danych PNR.
 
 **Art. 29.**
 
@@ -444,12 +474,15 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 **Art. 32.**
 
-1. Dane PNR są przechowywane przez JIP przez 5 lat od dnia ich zgromadzenia, a po upływie tego okresu podlegają niezwłocznie trwałemu usunięciu w sposób zautomatyzowany, przy wykorzystaniu KSI PNR.
+1. Dane PNR są przechowywane przez JIP przez:
+
+- **1)** 5 lat od dnia ich zgromadzenia – w przypadku danych PNR pasażerów lotów pozaunijnych,
+- **2)** 3 lata od dnia ich zgromadzenia – w przypadku danych PNR pasażerów lotów wewnątrzunijnych – a po upływie tego okresu podlegają niezwłocznie trwałemu usunięciu w sposób zautomatyzowany przy wykorzystaniu KSI PNR.
 
 2. W przypadku gdy w wyniku indywidualnej oceny, o której mowa w art. 20 ust. 1, ustalono, że pozytywny wynik sprawdzenia:
 
-- **1)** podlega przekazaniu przez JIP właściwemu organowi jest on przechowywany wyłącznie przez okres niezbędny do jego przekazania, a następnie jest on niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR;
-- **2)** nie podlega przekazaniu przez JIP właściwemu organowi jest on niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR w sposób zautomatyzowany.
+- **1)** podlega przekazaniu przez JIP właściwemu organowi – jest on przechowywany wyłącznie przez okres niezbędny do jego przekazania, a następnie jest on niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR;
+- **2)** nie podlega przekazaniu przez JIP właściwemu organowi – jest on niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR w sposób zautomatyzowany.
 
 3. W przypadku, o którym mowa w ust. 2 pkt 2, pozytywny wynik sprawdzenia może być przechowywany przez JIP w celu zapobiegania wynikom fałszywie pozytywnym, dopóki dane PNR nie zostaną usunięte zgodnie z ust. 1.
 
@@ -461,8 +494,8 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 - **1)** imienia i nazwiska lub imion i nazwisk pasażera, a także liczby oraz imion i nazwisk innych pasażerów wymienionych w danych PNR dotyczących dokonanej rezerwacji;
 - **2)** adresu, numer telefonu i adresu e-mail pasażera;
-- **3)** informacji dotycz ą cych płatno ś ci obejmuj ą cych numer karty płatniczej, informacji o płatno ś ci gotówk ą , informacji znajduj ą cych si ę na fakturze albo na innym dowodzie płatno ś ci za bilet oraz informacji zawartych w poleceniu przelewu: numerów rachunków bankowych nadawcy i odbiorcy, imion i nazwisk lub nazwy nadawcy i odbiorcy, kwoty i waluty przelewu, daty i czasu wykonania przelewu oraz jego tytułu;
-- **4)** informacji o programach lojalno ś ciowych;
+- **3)** informacji dotyczących płatności obejmujących numer karty płatniczej, informacji o płatności gotówką, informacji znajdujących się na fakturze albo na innym dowodzie płatności za bilet oraz informacji zawartych w poleceniu przelewu: numerów rachunków bankowych nadawcy i odbiorcy, imion i nazwisk lub nazwy nadawcy i odbiorcy, kwoty i waluty przelewu, daty i czasu wykonania przelewu oraz jego tytułu;
+- **4)** informacji o programach lojalnościowych;
 - **5)** informacji dotyczących osoby małoletniej podróżującej bez opieki statkiem powietrznym, obejmujących:
     - **a)** imię i nazwisko (imiona i nazwiska), płeć, wiek, języki, którymi włada osoba małoletnia,
     - **b)** imię i nazwisko (imiona i nazwiska) opiekuna osoby małoletniej w momencie startu tego statku, jego adres, numer telefonu, adres e-mail, rodzaj i numer dokumentu tożsamości oraz rodzaj więzi łączącej go z osobą małoletnią,
@@ -473,11 +506,13 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 2. Po upływie okresu, o którym mowa w ust. 1, ujawnienie zdepersonalizowanych danych PNR przez JIP jest dopuszczalne wyłącznie, gdy uzyskano zgodę:
 
-- **1)** w przypadku postępowania przed sądem sądu prowadzącego postępowanie;
-- **2)** w przypadku postępowania przygotowawczego prokuratora prowadzącego lub nadzorującego postępowanie;
-- **3)** w przypadku czynności operacyjno-rozpoznawczych prokuratora okręgowego właściwego ze względu na siedzibę organu wykonującego te czynności.
+- **1)** w przypadku postępowania przed sądem – sądu prowadzącego postępowanie;
+- **2)** w przypadku postępowania przygotowawczego – prokuratora prowadzącego lub nadzorującego postępowanie;
+- **3)** w przypadku czynności operacyjno-rozpoznawczych – prokuratora okręgowego właściwego ze względu na siedzibę organu wykonującego te czynności.
 
-3. Zgoda, o której mowa w ust. 2, jest wydawana, w przypadku gdy przetwarzanie zdepersonalizowanych danych PNR jest niezbędne do realizacji celu określonego w art. 1 ust. 1.
+3. Zgoda, o której mowa w ust. 2, jest wydawana, w przypadku gdy przetwarzanie zdepersonalizowanych danych PNR jest niezbędne do realizacji celu określonego w art. 1 ust. 1 i dotyczy danych PNR zgromadzonych w KSI PNR nie wcześniej niż 2 lata od dnia ich zgromadzenia.
+
+3a. W przypadku gdy przetwarzanie zdepersonalizowanych danych PNR jest niezbędne do realizacji celu określonego w art. 1 ust. 1, a uzyskanie takich informacji w inny sposób okazało się bezskuteczne albo nie jest możliwe, zgoda, o której mowa w ust. 2, może dotyczyć także danych PNR zgromadzonych w KSI PNR wcześniej niż 2 lata od dnia ich zgromadzenia.
 
 4. Właściwy organ, osoba przez niego upoważniona lub inna osoba upoważniona w trybie, o którym mowa w art. 31 ust. 4, składa wniosek o wyrażenie zgody na ujawnienie zdepersonalizowanych danych PNR. Do wniosku dołącza się wniosek o przekazanie danych PNR.
 
@@ -500,15 +535,15 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
     - **b)** przekazanie danych PNR przez przewoźnika lotniczego w terminach innych niż określone w art. 6 ust. 1,
     - **c)** ustalenie kryteriów przetwarzania danych PNR,
     - **d)** aktualizację kryteriów przetwarzania danych PNR,
-    - **e)** usunięcie kryteriów przetwarzania danych PNR podlegają rejestracji w KSI PNR.
+    - **e)** usunięcie kryteriów przetwarzania danych PNR – podlegają rejestracji w KSI PNR.
 
-3. JIP prowadzi dokumentacj ę w formie pisemnej, w postaci papierowej lub elektronicznej, w tym przy wykorzystaniu KSI PNR, w sposób zapewniaj ą cy bezpiecze ń stwo danych przed ich przypadkowym lub nielegalnym zniszczeniem, przypadkow ą utrat ą , modyfikacj ą , nieuprawnionym ujawnieniem lub dost ę pem do nich, a tak ż e wszelkimi innymi niedozwolonymi formami przetwarzania oraz zapewniaj ą cy rozliczalno ść czynno ś ci wykonanych podczas przetwarzania danych PNR.
+3. JIP prowadzi dokumentację w formie pisemnej, w postaci papierowej lub elektronicznej, w tym przy wykorzystaniu KSI PNR, w sposób zapewniający bezpieczeństwo danych przed ich przypadkowym lub nielegalnym zniszczeniem, przypadkową utratą, modyfikacją, nieuprawnionym ujawnieniem lub dostępem do nich, a także wszelkimi innymi niedozwolonymi formami przetwarzania oraz zapewniający rozliczalność czynności wykonanych podczas przetwarzania danych PNR.
 
-4. JIP, przy wykorzystaniu KSI PNR, prowadzi ewidencje dotycz ą ce gromadzenia, przegl ą dania, przekazywania, ujawniania i usuwania danych PNR lub wyników ich przetwarzania.
+4. JIP, przy wykorzystaniu KSI PNR, prowadzi ewidencje dotyczące gromadzenia, przeglądania, przekazywania, ujawniania i usuwania danych PNR lub wyników ich przetwarzania.
 
 5. Ewidencja dotycząca gromadzenia danych PNR zawiera datę i godzinę każdej operacji oraz dane przewoźnika lotniczego, który przekazał takie dane.
 
-6. Ewidencja dotycząca przeglądania, przekazywania i ujawniania danych PNR lub wyników ich przetwarzania zawiera określenie celu, datę i godzinę każdej operacji oraz imię i nazwisko osoby, która przeglądała, przekazała lub ujawniła dane PNR lub wyniki ich przetwarzania, a także w przypadku odbiorcy danych PNR lub wyników ich przetwarzania imię i nazwisko osoby lub nazwę podmiotu.
+6. Ewidencja dotycząca przeglądania, przekazywania i ujawniania danych PNR lub wyników ich przetwarzania zawiera określenie celu, datę i godzinę każdej operacji oraz imię i nazwisko osoby, która przeglądała, przekazała lub ujawniła dane PNR lub wyniki ich przetwarzania, a także – w przypadku odbiorcy danych PNR lub wyników ich przetwarzania – imię i nazwisko osoby lub nazwę podmiotu.
 
 7. Ewidencja dotycząca usuwania danych PNR zawiera przyczynę ich usunięcia, datę i godzinę każdej operacji oraz imię i nazwisko osoby, która usunęła dane PNR.
 
@@ -518,13 +553,13 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 **Art. 35.** Rada Ministrów określi, w drodze rozporządzenia:
 
-#### Rozdział 5 Wła ś ciwe organy
+#### Rozdział 5 Właściwe organy
 
 **Art. 36.** Właściwymi organami są:
 
 **Art. 37.**
 
-1. Wła ś ciwy organ, o którym mowa w art. 36 pkt 1, 2 i 4–11, wyznacza punkt kontaktowy wła ś ciwy w sprawach przetwarzania danych PNR, o czym zawiadamia pisemnie Komendanta Głównego Stra ż y Granicznej.
+1. Właściwy organ, o którym mowa w art. 36 pkt 1, 2 i 4–11, wyznacza punkt kontaktowy właściwy w sprawach przetwarzania danych PNR, o czym zawiadamia pisemnie Komendanta Głównego Straży Granicznej.
 
 2. W zakresie współpracy z JIP punkt kontaktowy:
 
@@ -547,9 +582,9 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 3. Warunkiem wydania upoważnień, o których mowa w ust. 1 i 2, jest ukończenie szkolenia w zakresie ochrony danych osobowych.
 
-#### Rozdział 6 Współpraca mi ę dzynarodowa w zakresie wymiany danych PNR
+#### Rozdział 6 Współpraca międzynarodowa w zakresie wymiany danych PNR
 
-##### Oddział 1 Wymiana danych PNR z pa ń stwami członkowskimi
+##### Oddział 1 Wymiana danych PNR z państwami członkowskimi
 
 **Art. 39.** JIP przekazuje do właściwej JIP PCz dane PNR lub wyniki ich przetwarzania, które uzyskała:
 
@@ -561,10 +596,10 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 3. W przypadku gdy w wyniku indywidualnej oceny, o której mowa w art. 20 ust. 1, ustalono, że pozytywny wynik sprawdzenia:
 
-- **1)** podlega przekazaniu przez JIP właściwej JIP PCz jest on przechowywany wyłącznie przez okres niezbędny do przekazania, a następnie jest niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR;
-- **2)** nie podlega przekazaniu przez JIP wła ś ciwej JIP PCz jest on niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR, w sposób zautomatyzowany.
+- **1)** podlega przekazaniu przez JIP właściwej JIP PCz – jest on przechowywany wyłącznie przez okres niezbędny do przekazania, a następnie jest niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR;
+- **2)** nie podlega przekazaniu przez JIP właściwej JIP PCz – jest on niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR, w sposób zautomatyzowany.
 
-4. W przypadku, o którym mowa w ust. 3 pkt 2, pozytywny wynik sprawdzenia mo ż e by ć przechowywany przez JIP w celu zapobiegania wynikom fałszywie pozytywnym, dopóki dane PNR nie zostan ą usuni ę te zgodnie z art. 32 ust. 1.
+4. W przypadku, o którym mowa w ust. 3 pkt 2, pozytywny wynik sprawdzenia może być przechowywany przez JIP w celu zapobiegania wynikom fałszywie pozytywnym, dopóki dane PNR nie zostaną usunięte zgodnie z art. 32 ust. 1.
 
 **Art. 41.**
 
@@ -606,7 +641,7 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 **Art. 46.**
 
-1. Dane PNR lub wyniki ich przetwarzania, zgromadzone przez JIP PCz, są uzyskiwane na wniosek właściwego organu, za po ś rednictwem JIP. Do wniosku stosuje si ę odpowiednio przepisy art. 21 ust. 3 i ust. 4 pkt 2 oraz uzupełnia si ę go o wskazanie pa ń stwa członkowskiego, które zgromadziło dane PNR. Wniosek o przekazanie danych PNR lub wyników ich przetwarzania mo ż e dotyczy ć okre ś lonych elementów kategorii danych PNR, słu żą cych do realizacji celu, o którym mowa w art. 1 ust. 1.
+1. Dane PNR lub wyniki ich przetwarzania, zgromadzone przez JIP PCz, są uzyskiwane na wniosek właściwego organu, za pośrednictwem JIP. Do wniosku stosuje się odpowiednio przepisy art. 21 ust. 3 i ust. 4 pkt 2 oraz uzupełnia się go o wskazanie państwa członkowskiego, które zgromadziło dane PNR. Wniosek o przekazanie danych PNR lub wyników ich przetwarzania może dotyczyć określonych elementów kategorii danych PNR, służących do realizacji celu, o którym mowa w art. 1 ust. 1.
 
 2. W przypadku bezpośredniego i rzeczywistego zagrożenia przestępstwem lub przestępstwem skarbowym, o których mowa w art. 3, właściwy organ może wystąpić z wnioskiem do JIP PCz, za pośrednictwem JIP, o przekazanie danych PNR przez przewoźnika lotniczego w terminach innych niż określone w art. 6 ust. 1.
 
@@ -638,8 +673,8 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 3. W przypadku gdy w wyniku indywidualnej oceny, o której mowa w art. 20 ust. 1, ustalono, że pozytywny wynik sprawdzenia:
 
-- **1)** podlega przekazaniu przez JIP Europolowi jest on przechowywany wyłącznie przez okres niezbędny do ich przekazania, a następnie jest niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR;
-- **2)** nie podlega przekazaniu przez JIP Europolowi jest on niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR, w sposób zautomatyzowany.
+- **1)** podlega przekazaniu przez JIP Europolowi – jest on przechowywany wyłącznie przez okres niezbędny do ich przekazania, a następnie jest niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR;
+- **2)** nie podlega przekazaniu przez JIP Europolowi – jest on niezwłocznie trwale usuwany przez JIP przy wykorzystaniu KSI PNR, w sposób zautomatyzowany.
 
 4. W przypadku, o którym mowa w ust. 3 pkt 2, pozytywny wynik sprawdzenia może być przechowywany przez JIP w celu zapobiegania wynikom fałszywie pozytywnym, dopóki dane PNR nie zostaną usunięte zgodnie z art. 32 ust. 1.
 
@@ -647,9 +682,9 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 1. JIP weryfikuje podstawę prawną i cel wniosku o przekazanie danych PNR lub wyników ich przetwarzania Europolowi.
 
-2. Realizacja wniosku o przekazanie danych PNR lub wyników ich przetwarzania Europolowi następuje po dokonaniu przez JIP indywidualnej oceny, w sposób niezautomatyzowany, w celu ustalenia, czy dane PNR lub wyniki ich przetwarzania s ą identyczne lub zbie ż ne z zakresem wniosku.
+2. Realizacja wniosku o przekazanie danych PNR lub wyników ich przetwarzania Europolowi następuje po dokonaniu przez JIP indywidualnej oceny, w sposób niezautomatyzowany, w celu ustalenia, czy dane PNR lub wyniki ich przetwarzania są identyczne lub zbieżne z zakresem wniosku.
 
-3. W przypadku stwierdzenia identyczno ś ci lub zbie ż no ś ci uzyskanych danych PNR lub wyników ich przetwarzania z zakresem wniosku o przekazanie danych PNR lub wyników ich przetwarzania Europolowi, JIP niezwłocznie przekazuje je Europolowi.
+3. W przypadku stwierdzenia identyczności lub zbieżności uzyskanych danych PNR lub wyników ich przetwarzania z zakresem wniosku o przekazanie danych PNR lub wyników ich przetwarzania Europolowi, JIP niezwłocznie przekazuje je Europolowi.
 
 4. Realizacja wniosku o przekazanie danych PNR lub wyników ich przetwarzania Europolowi, w zakresie przekazania wyników przetwarzania danych PNR, uzyskanych w wyniku sprawdzeń pasażerów lotów PNR w trybie określonym w art. 19, następuje, jeżeli uprzednio dokonano tych sprawdzeń, o ile wyniki te nie zostały usunięte.
 
@@ -661,7 +696,7 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 **Art. 52.** JIP odmawia przekazania danych PNR lub wyników ich przetwarzania do Europolu, w przypadku gdy:
 
-##### Oddział 3 Przekazywanie danych PNR do pa ń stw trzecich
+##### Oddział 3 Przekazywanie danych PNR do państw trzecich
 
 **Art. 53.**
 
@@ -669,14 +704,11 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 - **1)** ich przekazanie jest konieczne dla realizacji celu, o którym mowa w art. 1 ust. 1;
 - **2)** organ państwa trzeciego, któremu mają one zostać przekazane, jest właściwy w sprawach wykrywania i zwalczania przestępstw oraz zapobiegania im i ścigania ich sprawców, w zakresie, o którym mowa w art. 1 ust. 1;
-- **3)** państwo trzecie zapewnia odpowiedni poziom ochrony przekazywanych danych określony w odrębnych przepisach;
+- **3)** państwo trzecie zapewnia odpowiedni poziom ochrony przekazywanych danych określony w art. 18b–18d ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2020 r. poz. 158 oraz z 2022 r. poz. 350);
 - **4)** JIP PCz, od której je otrzymano, wyraziła na to zgodę;
 - **5)** państwo trzecie zapewni, że przekaże je innemu państwu trzeciemu wyłącznie, gdy jest to konieczne dla realizacji celu, o którym mowa w art. 1 ust. 1, i po uzyskaniu uprzedniej zgody JIP.
 
-2. Jeżeli państwo trzecie nie zapewnia odpowiedniego poziomu ochrony przekazywanych danych, przekazanie mu danych PNR lub wyników ich przetwarzania może nastąpić wyłącznie w przypadku, gdy:
-
-- **1)** jest to niezbędne ze względu na bezpieczeństwo publiczne lub porządek publiczny;
-- **2)** zostaną spełnione warunki określone w art. 47 ust. 2 lub art. 48 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723).
+2. (uchylony)
 
 3. Przekazywanie danych PNR lub wyników ich przetwarzania państwu trzeciemu odbywa się za pośrednictwem bezpiecznych kanałów wymiany informacji, w tym systemów teleinformatycznych, jak również za pośrednictwem oficerów łącznikowych.
 
@@ -686,8 +718,8 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 1. JIP może przekazać dane PNR lub wyniki ich przetwarzania państwu trzeciemu, bez uprzedniej zgody JIP PCz, od której je uzyskano, w przypadku gdy:
 
-- **1)** ich przekazanie jest niezb ę dne do przeciwdziałania bezpo ś redniemu i rzeczywistemu zagro ż eniu przest ę pstwem lub przest ę pstwem skarbowym, o których mowa w art. 3, oraz
-- **2)** nie mo ż na uzyska ć zgody JIP PCz w przewidzianym terminie.
+- **1)** ich przekazanie jest niezbędne do przeciwdziałania bezpośredniemu i rzeczywistemu zagrożeniu przestępstwem lub przestępstwem skarbowym, o których mowa w art. 3, oraz
+- **2)** nie można uzyskać zgody JIP PCz w przewidzianym terminie.
 
 2. JIP zawiadamia niezwłocznie JIP PCz, od której uzyskano dane PNR lub wyniki ich przetwarzania, o ich przekazaniu na warunkach, o których mowa w ust. 1, oraz o możliwości weryfikacji podstaw tego przekazania.
 
@@ -710,16 +742,16 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 1. Inspektor:
 
 - **1)** udziela, na wniosek osoby, której dane PNR są przetwarzane, informacji o ich przetwarzaniu;
-- **2)** sprawuje nadzór nad zgodnością przetwarzania danych PNR przez JIP z przepisami niniejszej ustawy oraz ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych;
-- **3)** udziela informacji i wyjaśnień na żądanie Generalnego Inspektora Ochrony Danych Osobowych.
+- **2)** sprawuje nadzór nad zgodnością przetwarzania danych PNR przez JIP z przepisami niniejszej ustawy oraz ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125);
+- **3)** udziela informacji i wyjaśnień na żądanie Prezesa Urzędu Ochrony Danych Osobowych.
 
 2. Inspektor jest uprawniony do:
 
 - **1)** dostępu do danych PNR przetwarzanych przez JIP;
 - **2)** dostępu do KSI PNR oraz dokumentacji i ewidencji dotyczących przetwarzania danych PNR;
 - **3)** uzyskiwania informacji i wyjaśnień od JIP;
-- **4)** informowania Generalnego Inspektora Ochrony Danych Osobowych o niezgodnym z prawem przetwarzaniu danych PNR przez JIP;
-- **5)** prowadzenia korespondencji z Inspektorami w JIP PCz oraz Generalnym Inspektorem Ochrony Danych Osobowych, w zakresie przetwarzania danych PNR;
+- **4)** informowania Prezesa Urzędu Ochrony Danych Osobowych o niezgodnym z prawem przetwarzaniu danych PNR przez JIP;
+- **5)** prowadzenia korespondencji z Inspektorami w JIP PCz oraz Prezesem Urzędu Ochrony Danych Osobowych, w zakresie przetwarzania danych PNR;
 - **6)** otrzymywania informacji o przekazaniu przez JIP danych PNR lub wyników ich przetwarzania państwu trzeciemu.
 
 **Art. 60.**
@@ -730,46 +762,46 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 **Art. 61.**
 
-1. Inspektor dokonuje analizy stwierdzonych narusze ń w zakresie przetwarzania danych PNR i mo ż e o nich zawiadomi ć Generalnego Inspektora Ochrony Danych Osobowych.
+1. Inspektor dokonuje analizy stwierdzonych naruszeń w zakresie przetwarzania danych PNR i może o nich zawiadomić Prezesa Urzędu Ochrony Danych Osobowych.
 
-2. W przypadku gdy naruszenie przepisów dotycz ą cych ochrony danych osobowych mo ż e spowodowa ć powa ż ne zagro ż enie dla ochrony tych danych lub narusza ć prywatno ść osoby, której te dane dotycz ą , JIP za po ś rednictwem Inspektora zawiadamia niezwłocznie osob ę , której dane osobowe s ą przetwarzane, oraz Generalnego Inspektora Ochrony Danych Osobowych o tym zagrożeniu.
+2. W przypadku gdy naruszenie przepisów dotyczących ochrony danych osobowych może spowodować poważne zagrożenie dla ochrony tych danych lub naruszać prywatność osoby, której te dane dotyczą, JIP za pośrednictwem Inspektora zawiadamia niezwłocznie osobę, której dane osobowe są przetwarzane, oraz Prezesa Urzędu Ochrony Danych Osobowych o tym zagrożeniu.
 
 **Art. 62.**
 
-1. Generalny Inspektor Ochrony Danych Osobowych udziela informacji osobom, których dane PNR są przetwarzane, oraz monitoruje przetwarzanie danych PNR, w tym kontroluje ich przekazywanie.
+1. Prezes Urzędu Ochrony Danych Osobowych udziela informacji osobom, których dane PNR są przetwarzane, oraz monitoruje przetwarzanie danych PNR, w tym kontroluje ich przekazywanie.
 
-2. Generalny Inspektor Ochrony Danych Osobowych, na wniosek osoby, której dane PNR są przetwarzane, udziela informacji o jej prawach w zakresie przetwarzania jej danych PNR na podstawie niniejszej ustawy.
+2. Prezes Urzędu Ochrony Danych Osobowych, na wniosek osoby, której dane PNR są przetwarzane, udziela informacji o jej prawach w zakresie przetwarzania jej danych PNR na podstawie niniejszej ustawy.
 
-3. Generalny Inspektor Ochrony Danych Osobowych, w ramach monitorowania przetwarzania danych PNR:
+3. Prezes Urzędu Ochrony Danych Osobowych, w ramach monitorowania przetwarzania danych PNR:
 
 - **1)** rozpatruje skargi złożone przez osoby, których dane PNR są przetwarzane;
-- **2)** sprawdza zgodność przetwarzania danych PNR z prawem, prowadzi postępowania i wykonuje inne czynności, zgodnie z ustawą z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, z własnej inicjatywy lub na podstawie skargi osoby, której dane PNR są przetwarzane.
+- **2)** sprawdza zgodność przetwarzania danych PNR z prawem, prowadzi postępowania i wykonuje inne czynności, zgodnie z ustawą z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości, z własnej inicjatywy lub na podstawie zażalenia osoby, której dane PNR są przetwarzane.
 
-4. JIP, na wniosek Generalnego Inspektora Ochrony Danych Osobowych, udostępnia mu dokumentację dotyczącą przetwarzania danych PNR oraz informacje z ewidencji dotyczących ich przetwarzania.
+4. JIP, na wniosek Prezesa Urzędu Ochrony Danych Osobowych, udostępnia mu dokumentację dotyczącą przetwarzania danych PNR oraz informacje z ewidencji dotyczących ich przetwarzania.
 
 **Art. 63.**
 
-1. Generalny Inspektor Ochrony Danych Osobowych sprawuje kontrolę nad tym, czy przetwarzanie danych PNR nie narusza praw osób, których te dane są przetwarzane.
+1. Prezes Urzędu Ochrony Danych Osobowych sprawuje kontrolę nad tym, czy przetwarzanie danych PNR nie narusza praw osób, których te dane są przetwarzane.
 
-2. Generalny Inspektor Ochrony Danych Osobowych jest uprawniony do bezpośredniego dostępu do KSI PNR w celu sprawowania kontroli, o której mowa w ust. 1.
+2. Prezes Urzędu Ochrony Danych Osobowych jest uprawniony do bezpośredniego dostępu do KSI PNR w celu sprawowania kontroli, o której mowa w ust. 1.
 
-3. Kontrola, o której mowa w ust. 1, jest sprawowana zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych.
+3. Kontrola, o której mowa w ust. 1, jest sprawowana zgodnie z przepisami ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości.
 
-#### Rozdział 8 Administracyjne kary pieni ęż ne
+#### Rozdział 8 Administracyjne kary pieniężne
 
 **Art. 64.**
 
 1. Przewoźnik lotniczy, który:
 
 - **1)** nie przekazuje danych PNR do JIP w terminie, o którym mowa w art. 6 ust. 1, podlega administracyjnej karze pieniężnej w wysokości 20 000 zł,
-- **2)** nie przekazuje do JIP wszystkich zgromadzonych, w celu dokonania rezerwacji lub realizacji lotu PNR, elementów kategorii danych PNR, o których mowa w art. 10 ust. 1 pkt 4, do których przekazania był zobowiązany na podstawie art. 5 ust. 1, podlega administracyjnej karze pieniężnej w wysokości 12 000 zł za każdy lot PNR, w którym takie naruszenie nastąpiło.
+- **2)** nie przekazuje do JIP wszystkich zgromadzonych w celu dokonania rezerwacji lub realizacji lotu PNR elementów kategorii danych PNR, o których mowa w art. 10 ust. 1 pkt 3, do których przekazania był zobowiązany na podstawie art. 5 ust. 1, narusza obowiązek wynikający z art. 6 ust. 2 pkt 2 albo obowiązek wynikający z art. 6 ust. 3, podlega administracyjnej karze pieniężnej w wysokości 12 000 zł – za każdy lot PNR, w którym takie naruszenie nastąpiło.
 
 2. Przewoźnik lotniczy, który nie przekazuje danych PNR:
 
 - **1)** w wybranym przez siebie formacie danych spośród formatów określonych w przepisach wykonawczych wydanych na podstawie art. 8 ust. 3 pkt 1 lub
 - **2)** w formacie danych zgodnym z formatem określonym w przepisach wykonawczych wydanych na podstawie art. 8 ust. 3 pkt 2, w przypadku przekazywania danych API, które przewoźnicy lotniczy gromadzą odrębnie od pozostałych danych PNR dla tego samego lotu PNR, albo
 - **3)** za pomocą środków komunikacji elektronicznej uzgodnionych z Komendantem Głównym Straży Granicznej i zabezpieczonych w sposób z nim uzgodniony w przypadku, o którym mowa w art. 8 ust. 4, albo
-- **4)** w sposób uzgodniony z JIP w przypadku, o którym mowa w art. 8 ust. 5 podlega administracyjnej karze pieniężnej w wysokości 16 000 zł za każdy lot PNR, w którym takie naruszenie nastąpiło.
+- **4)** w sposób uzgodniony z JIP w przypadku, o którym mowa w art. 8 ust. 5 – podlega administracyjnej karze pieniężnej w wysokości 16 000 zł za każdy lot PNR, w którym takie naruszenie nastąpiło.
 
 3. W przypadku gdy przewoźnik lotniczy dopuszcza się naruszeń, o których mowa w ust. 1 i 2, w zakresie obowiązku przekazywania danych PNR na wniosek JIP, o którym mowa w art. 7 ust. 4, podlega administracyjnej karze pieniężnej w wysokości określonej odpowiednio w ust. 1 i 2, obniżonej o 50% za każdy lot PNR, w którym takie naruszenie nastąpiło.
 
@@ -779,10 +811,19 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 2. W przypadku gdy naruszenie, o którym mowa w art. 64 ust. 1:
 
-- **1)** pkt 1, dotycz ą ce niedopełnienia obowi ą zku przekazania danych PNR w terminie okre ś lonym w art. 6 ust. 1 pkt 1, zostało usuni ę te przez przewo ź nika w terminie 6 godzin przed planowanym startem statku powietrznego,
-- **2)** pkt 2, zostało usuni ę te przez przewo ź nika w terminie do czasu l ą dowania statku powietrznego administracyjn ą kar ę pieni ęż n ą nakłada si ę w wysoko ś ci obni ż onej o 50%.
+- **1)** pkt 1, dotyczące niedopełnienia obowiązku przekazania danych PNR w terminie określonym w art. 6 ust. 1 pkt 1, zostało usunięte przez przewoźnika w terminie 6 godzin przed planowanym startem statku powietrznego,
+- **2)** pkt 2, zostało usunięte przez przewoźnika w terminie do czasu lądowania statku powietrznego – administracyjną karę pieniężną nakłada się w wysokości obniżonej o 75 %.
 
-3. W przypadku gdy naruszenie, o którym mowa w art. 64 ust. 1 pkt 1, dotyczące niedopełnienia obowiązku przekazania danych PNR w terminie określonym w art. 6 ust. 1 pkt 2, zostało usunięte przez przewoźnika w terminie do czasu lądowania statku powietrznego, administracyjną karę pieniężną za takie naruszenie nakłada się w wysokości obniżonej o 50%.
+3. W przypadku gdy naruszenie, o którym mowa w art. 64 ust. 1 pkt 1, dotyczące niedopełnienia obowiązku przekazania danych PNR w terminie określonym w art. 6 ust. 1 pkt 2, zostało usunięte przez przewoźnika w terminie do czasu lądowania statku powietrznego, administracyjną karę pieniężną za takie naruszenie nakłada się w wysokości obniżonej o 75 %.
+
+3a. W przypadku gdy naruszenie, o którym mowa w art. 64 ust. 1, dotyczące niedopełnienia obowiązku przekazania danych PNR w terminach określonych w art. 6 ust. 1 zostało usunięte przez przewoźnika lotniczego w terminie 7 dni od dnia wylądowania statku powietrznego, administracyjną karę pieniężną za takie naruszenie nakłada się w wysokości obniżonej o 50 %.
+
+3b. W przypadku gdy naruszenie, o którym mowa w art. 64 ust. 1, dotyczące niedopełnienia obowiązku przekazania danych PNR w terminach określonych w art. 6 ust. 1 zostało usunięte przez przewoźnika lotniczego w terminie 14 dni od dnia wylądowania statku powietrznego, administracyjną karę pieniężną za takie naruszenie nakłada się w wysokości obniżonej o 25 %.
+
+3c. W przypadku gdy naruszenie, o którym mowa w art. 64, wystąpiło w okresie 60 dni od dnia wykonania przez przewoźnika lotniczego pierwszego lotu PNR i w tym okresie ten przewoźnik:
+
+- **1)** zapewnił warunki techniczne umożliwiające sprawne i skuteczne przekazywanie przez niego danych PNR do JIP oraz
+- **2)** przekazał do JIP wszystkie dane PNR pasażerów lotów objętych takim obowiązkiem począwszy od dnia wykonania pierwszego lotu PNR – administracyjnej kary pieniężnej za takie naruszenie nie nakłada się.
 
 4. W przypadku wystąpienia więcej niż jednego z naruszeń, o których mowa w art. 64 ust. 1 lub 2, podczas jednego lotu PNR, administracyjne kary pieniężne z tytułu tych naruszeń sumuje się. Suma administracyjnych kar pieniężnych nałożonych na podstawie art. 64 ust. 1 i 2 z tytułu jednego lotu PNR nie może przekroczyć wysokości 40 000 zł.
 
@@ -790,33 +831,39 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 **Art. 66.**
 
-1. Przewoźnik lotniczy, który nie dopełnia obowiązków określonych w art. 10 ust. 1 lub 3 w terminach, o których mowa w tych przepisach, podlega administracyjnej karze pieniężnej w wysokości 5000 zł za każde takie naruszenie.
+1. Przewoźnik lotniczy, który nie dopełnia obowiązków określonych w art. 10 ust. 1 w terminie, o którym mowa w tym przepisie, podlega administracyjnej karze pieniężnej w wysokości 5000 zł za każde takie naruszenie.
 
-2. Tej samej karze podlega przewoźnik lotniczy, który nie dopełnia obowiązku określonego w art. 10 ust. 4.
+2. Tej samej karze podlega przewoźnik lotniczy, który nie dopełnia obowiązku określonego w art. 10 ust. 3.
 
-**Art. 67.** Administracyjne kary pieniężne, o których mowa w art. 64 oraz art. 66, nakłada, w drodze decyzji, Komendant Główny Straży Granicznej.
+**Art. 67.**
+
+1. Administracyjne kary pieniężne, o których mowa w art. 64 oraz art. 66, nakłada, w drodze decyzji, Komendant Główny Straży Granicznej.
+
+2. Administracyjne kary pieniężne, o których mowa w art. 64 oraz art. 66, nakłada, w drodze decyzji, także komendant oddziału Straży Granicznej w przypadku przekazania mu przez Komendanta Głównego Straży Granicznej zawiadomienia, o którym mowa w art. 18 ust. 4.
+
+3. Od decyzji, o której mowa w ust. 2, przysługuje wniosek o ponowne rozpatrzenie sprawy przez ten sam organ.
+
+4. W przypadku gdy przewoźnik lotniczy dopuścił się więcej niż jednego naruszenia określonego w art. 64 albo art. 66, Komendant Główny Straży Granicznej albo komendant oddziału Straży Granicznej może objąć jednym postępowaniem administracyjnym więcej niż jedno naruszenie.
+
+5. W przypadku objęcia jednym postępowaniem administracyjnym więcej niż jednego naruszenia określonego w art. 64 albo art. 66 Komendant Główny Straży Granicznej albo komendant oddziału Straży Granicznej może wydać jedną decyzję administracyjną. W decyzji tej, w przypadku nałożenia administracyjnej kary pieniężnej, wysokość kary pieniężnej stanowi sumę wysokości administracyjnych kar pieniężnych z tytułu wszystkich stwierdzonych naruszeń.
 
 **Art. 68.** Termin wykonania administracyjnych kar pieniężnych, o których mowa w art. 64 oraz art. 66, wynosi 30 dni od dnia, w którym decyzja w sprawie nałożenia kary stała się ostateczna.
 
-**Art. 69.** Przewoźnik lotniczy nie podlega administracyjnej karze pieniężnej, o której mowa w art. 64 oraz art. 66, gdy niedopełnienie obowiązku nastąpiło wskutek:
+**Art. 69.** Postępowania w sprawie naruszenia przez przewoźnika lotniczego obowiązku przekazania danych PNR nie wszczyna się, a wszczęte umarza, gdy naruszenie, o którym mowa w art. 64, nastąpiło wskutek:
 
-**Art. 70.** Administracyjna kara pieniężna nie może zostać nałożona, jeżeli upłynęły 3 lata od dnia naruszenia, o którym mowa w art. 64 lub art. 66.
+**Art. 70.** (uchylony)
 
-**Art. 71.**
+**Art. 71.** (uchylony)
 
-1. Przewoźnikowi lotniczemu, który nie ma siedziby na terytorium Rzeczypospolitej Polskiej, pisma doręcza się w postaci dokumentów elektronicznych, za pomocą środków komunikacji elektronicznej, w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2017 r. poz. 1219 oraz z 2018 r. poz. 650), na adres wskazany zgodnie z art. 10 ust. 1 pkt 1.
+**Art. 72.** Do administracyjnych kar pieniężnych, o których mowa w art. 64 oraz art. 66, nie stosuje się przepisów art. 189f i art. 189k ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
 
-2. W przypadku gdy przewoźnik lotniczy ustanowił pełnomocnika do prowadzenia spraw albo pełnomocnika do doręczeń, zamieszkałego albo posiadającego siedzibę w Rzeczypospolitej Polskiej, pisma, o których mowa w ust. 1, doręcza się temu pełnomocnikowi.
-
-**Art. 72.** Do administracyjnych kar pieniężnych, o których mowa w art. 64 oraz art. 66, nie stosuje się przepisów art. 189f i art. 189k ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650).
-
-**Art. 73.** Należności z tytułu administracyjnych kar pieniężnych, o których mowa w art. 64 oraz art. 66, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, 1475, 1954 i 2491 oraz z 2018 r. poz. 138 i 398).
+**Art. 73.** Należności z tytułu administracyjnych kar pieniężnych, o których mowa w art. 64 oraz art. 66, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479).
 
 **Art. 74.** Administracyjne kary pieniężne stanowią dochód budżetu państwa.
 
 #### Rozdział 9 Zmiany w przepisach, przepisy epizodyczne i końcowe
 
-**Art. 75.** W ustawie z dnia 12 pa ź dziernika 1990 r. o Stra ż y Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106, 138, 650 i 730) w art. 1 po ust. 3 dodaje si ę ust. 3a w brzmieniu: „3a. Stra ż Graniczna realizuje zadania Krajowej Jednostki do spraw Informacji o Pasa ż erach, okre ś lone w ustawie z dnia 9 maja 2018 r. o przetwarzaniu danych dotycz ą cych przelotu pasa ż era (Dz. U. poz. 894).”.
+**Art. 75.** (pominięty)
 
 **Art. 76.**
 
@@ -834,23 +881,23 @@ o przetwarzaniu danych dotycz ą cych przelotu pasa ż era
 
 1. Maksymalny limit wydatków związanych z funkcjonowaniem i obsługą JIP oraz KSI PNR, będących skutkiem finansowym wejścia w życie ustawy, wynosi 124 107 000 zł, z tego w roku:
 
-- **1)** 2018 30 208 000 zł;
-- **2)** 2019 11 127 000 zł;
-- **3)** 2020 4 390 000 zł;
-- **4)** 2021 6 141 000 zł;
-- **5)** 2022 5 927 000 zł;
-- **6)** 2023 29 367 000 zł;
-- **7)** 2024 7 385 000 zł;
-- **8)** 2025 14 536 000 zł;
-- **9)** 2026 7 204 000 zł;
-- **10)** 2027 7 822 000 zł.
+- **1)** 2018 – 30 208 000 zł;
+- **2)** 2019 – 11 127 000 zł;
+- **3)** 2020 – 4 390 000 zł;
+- **4)** 2021 – 6 141 000 zł;
+- **5)** 2022 – 5 927 000 zł;
+- **6)** 2023 – 29 367 000 zł;
+- **7)** 2024 – 7 385 000 zł;
+- **8)** 2025 – 14 536 000 zł;
+- **9)** 2026 – 7 204 000 zł;
+- **10)** 2027 – 7 822 000 zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego w danym roku budżetowym maksymalnego limitu wydatków, o którym mowa w ust. 1, zostaną zastosowane mechanizmy korygujące polegające na:
 
-- **1)** rozłożeniu wymiany sprzętu na kolejne lata w przypadku wymiany sprzętu;
-- **2)** zakupie wsparcia do licencji na krótszy okres w przypadku zakupu wsparcia do licencji.
+- **1)** rozłożeniu wymiany sprzętu na kolejne lata – w przypadku wymiany sprzętu;
+- **2)** zakupie wsparcia do licencji na krótszy okres – w przypadku zakupu wsparcia do licencji.
 
 3. Minister właściwy do spraw wewnętrznych monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, oraz wdraża mechanizmy korygujące, o których mowa w ust. 2.
 
-**Art. 79.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 79.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

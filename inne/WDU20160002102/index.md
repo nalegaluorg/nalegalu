@@ -8,9 +8,10 @@ pos: 2102
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 grudnia 2016 r.
+# Ustawa z dnia 15 listopada 2016 r. o zmianie ustawy o ochronie zwierząt
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2102/text.pdf) |
 
-Poz. 2102
-USTAWA z dnia 15 listopada 2016 r.
-o zmianie ustawy o ochronie zwierząt
-
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2013 r. poz. 856, z 2014 r. poz. 1794, z 2015 r. poz. 266 oraz z 2016 r. poz. 1605 i 1948) wprowadza si ę nast ę puj ą ce zmiany:
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2013 r. poz. 856, z 2014 r. poz. 1794, z 2015 r. poz. 266 oraz z 2016 r. poz. 1605 i 1948) wprowadza się następujące zmiany:
 
 **Art. 2.** Dotychczasowe uchwały wydane na podstawie art. 11a ust. 1 ustawy zmienianej w art. 1 zachowują moc na okres, na jaki zostały wydane, i mogą być zmieniane na podstawie art. 11a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

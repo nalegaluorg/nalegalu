@@ -1,0 +1,243 @@
+---
+title: "Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 23 grudnia 2020 r. w sprawie podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy"
+address: WDU20200002415
+eli: DU/2020/2415
+publisher: DU
+year: 2020
+pos: 2415
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 23 grudnia 2020 r. w sprawie podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 2415 |
+| ISAP | WDU20200002415 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2020-12-23 |
+| Data wydania | 2020-12-30 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002415) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2415/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 128 ust. 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019 oraz z 2020 r. poz. 288, 1492, 1517, 2275 i 2320) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa rodzaje podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy, okres ich ważności oraz formy, w jakich mogą być one składane.
+§ 2.
+1.
+W celu potwierdzenia braku podstaw wykluczenia wykonawcy z udziału w postępowaniu o udzielenie zamówienia publicznego, zwanego dalej „postępowaniem”, zamawiający może żądać następujących podmiotowych środków dowodowych:
+1)
+informacji z Krajowego Rejestru Karnego w zakresie:
+a)
+art. 108 ust. 1 pkt 1 i 2 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, zwanej dalej „ustawą”,
+b)
+art. 108 ust. 1 pkt 4 ustawy, dotyczącej orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka karnego,
+c)
+art. 109 ust. 1 pkt 2 lit. a ustawy,
+d)
+art. 109 ust. 1 pkt 2 lit. b ustawy, dotyczącej ukarania za wykroczenie, za które wymierzono karę aresztu,
+e)
+art. 109 ust. 1 pkt 3 ustawy, dotyczącej skazania za przestępstwo lub ukarania za wykroczenie, za które wymierzono karę aresztu
+sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem;
+2)
+oświadczenia wykonawcy, w zakresie art. 108 ust. 1 pkt 5 ustawy, o braku przynależności do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2020 r. poz. 1076 i 1086), z innym wykonawcą, który złożył odrębną ofertę, ofertę częściową lub wniosek o dopuszczenie do udziału w postępowaniu, albo oświadczenia o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty, oferty częściowej lub wniosku o dopuszczenie do udziału w postępowaniu niezależnie od innego wykonawcy należącego do tej samej grupy kapitałowej;
+3)
+informacji z Centralnego Rejestru Beneficjentów Rzeczywistych, w zakresie art. 108 ust. 2 ustawy, jeżeli odrębne przepisy wymagają wpisu do tego rejestru, sporządzonej nie wcześniej niż 3 miesiące przed jej złożeniem;
+4)
+zaświadczenia właściwego naczelnika urzędu skarbowego potwierdzającego, że wykonawca nie zalega z opłacaniem podatków i opłat, w zakresie art. 109 ust. 1 pkt 1 ustawy, wystawionego nie wcześniej niż 3 miesiące przed jego złożeniem, a w przypadku zalegania z opłacaniem podatków lub opłat wraz z zaświadczeniem zamawiający żąda złożenia dokumentów potwierdzających, że odpowiednio przed upływem terminu składania wniosków o dopuszczenie do udziału w postępowaniu albo przed upływem terminu składania ofert wykonawca dokonał płatności należnych podatków lub opłat wraz z odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłat tych należności;
+5)
+zaświadczenia albo innego dokumentu właściwej terenowej jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych lub właściwego oddziału regionalnego lub właściwej placówki terenowej Kasy Rolniczego Ubezpieczenia Społecznego potwierdzającego, że wykonawca nie zalega z opłacaniem składek na ubezpieczenia społeczne i zdrowotne, w zakresie art. 109 ust. 1 pkt 1 ustawy, wystawionego nie wcześniej niż 3 miesiące przed jego złożeniem, a w przypadku zalegania z opłacaniem składek na ubezpieczenia społeczne lub zdrowotne wraz z zaświadczeniem albo innym dokumentem zamawiający żąda złożenia dokumentów potwierdzających, że odpowiednio przed upływem terminu składania wniosków o dopuszczenie do udziału w postępowaniu albo przed upływem terminu składania ofert wykonawca dokonał płatności należnych składek na ubezpieczenia społeczne lub zdrowotne wraz odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłat tych należności;
+6)
+odpisu lub informacji z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, w zakresie art. 109 ust. 1 pkt 4 ustawy, sporządzonych nie wcześniej niż 3 miesiące przed jej złożeniem, jeżeli odrębne przepisy wymagają wpisu do rejestru lub ewidencji;
+7)
+oświadczenia wykonawcy o aktualności informacji zawartych w oświadczeniu, o którym mowa w art. 125 ust. 1 ustawy, w zakresie podstaw wykluczenia z postępowania wskazanych przez zamawiającego, o których mowa w:
+a)
+art. 108 ust. 1 pkt 3 ustawy,
+b)
+art. 108 ust. 1 pkt 4 ustawy, dotyczących orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka zapobiegawczego,
+c)
+art. 108 ust. 1 pkt 5 ustawy, dotyczących zawarcia z innymi wykonawcami porozumienia mającego na celu zakłócenie konkurencji,
+d)
+art. 108 ust. 1 pkt 6 ustawy,
+e)
+art. 109 ust. 1 pkt 1 ustawy, odnośnie do naruszenia obowiązków dotyczących płatności podatków i opłat lokalnych, o których mowa w ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2019 r. poz. 1170),
+f)
+art. 109 ust. 1 pkt 2 lit. b ustawy, dotyczących ukarania za wykroczenie, za które wymierzono karę ograniczenia wolności lub karę grzywny,
+g)
+art. 109 ust. 1 pkt 2 lit. c ustawy,
+h)
+art. 109 ust. 1 pkt 3 ustawy, dotyczących ukarania za wykroczenie, za które wymierzono karę ograniczenia wolności lub karę grzywny,
+i)
+art. 109 ust. 1 pkt 5–10 ustawy.
+2.
+W przypadkach, o których mowa w art. 212 ust. 4, art. 217 ust. 3 lub art. 306 ust. 2 ustawy, jeżeli zamawiający nie żądał od wykonawcy oświadczenia, o którym mowa w art. 125 ust. 1 ustawy, jako podmiotowego środka dowodowego na potwierdzenie braku podstaw wykluczenia wykonawcy z udziału w postępowaniu, zamawiający może żądać oświadczenia wykonawcy o braku podstaw wykluczenia w zakresie podstaw wykluczenia wymienionych w ust. 1 pkt 7.
+§ 3.
+W postępowaniach o wartości mniejszej niż progi unijne zamawiający, w celu potwierdzenia braku podstaw wykluczenia wykonawcy z udziału w postępowaniu, może zamiast podmiotowych środków dowodowych, o których mowa w § 2 ust. 1 pkt 1, 2 lub 4–6, żądać oświadczenia wykonawcy o aktualności informacji zawartych w oświadczeniu, o którym mowa w art. 125 ust. 1 ustawy, w zakresie podstaw wykluczenia z postępowania wskazanych przez zamawiającego.
+§ 4.
+1.
+Jeżeli wykonawca ma siedzibę lub miejsce zamieszkania poza granicami Rzeczypospolitej Polskiej, zamiast:
+1)
+informacji z Krajowego Rejestru Karnego, o której mowa w § 2 ust. 1 pkt 1 – składa informację z odpowiedniego rejestru, takiego jak rejestr sądowy, albo, w przypadku braku takiego rejestru, inny równoważny dokument wydany przez właściwy organ sądowy lub administracyjny kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania, w zakresie, o którym mowa w § 2 ust. 1 pkt 1;
+2)
+informacji z Centralnego Rejestru Beneficjentów Rzeczywistych, o której mowa w § 2 ust. 1 pkt 3 – składa informację z odpowiedniego rejestru zawierającego informacje o jego beneficjentach rzeczywistych albo, w przypadku braku takiego rejestru, inny równoważny dokument wydany przez właściwy organ sądowy lub administracyjny kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania, określający jego beneficjentów rzeczywistych;
+3)
+zaświadczenia, o którym mowa w § 2 ust. 1 pkt 4, zaświadczenia albo innego dokumentu potwierdzającego, że wykonawca nie zalega z opłacaniem składek na ubezpieczenia społeczne lub zdrowotne, o których mowa w § 2 ust. 1 pkt 5, lub odpisu albo informacji z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, o których mowa w § 2 ust. 1 pkt 6 – składa dokument lub dokumenty wystawione w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania, potwierdzające odpowiednio, że:
+a)
+nie naruszył obowiązków dotyczących płatności podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne,
+b)
+nie otwarto jego likwidacji, nie ogłoszono upadłości, jego aktywami nie zarządza likwidator lub sąd, nie zawarł układu z wierzycielami, jego działalność gospodarcza nie jest zawieszona ani nie znajduje się on w innej tego rodzaju sytuacji wynikającej z podobnej procedury przewidzianej w przepisach miejsca wszczęcia tej procedury.
+2.
+Dokument, o którym mowa w ust. 1 pkt 1, powinien być wystawiony nie wcześniej niż 6 miesięcy przed jego złożeniem. Dokumenty, o których mowa w ust. 1 pkt 2 i 3, powinny być wystawione nie wcześniej niż 3 miesiące przed ich złożeniem.
+3.
+Jeżeli w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania, nie wydaje się dokumentów, o których mowa w ust. 1, lub gdy dokumenty te nie odnoszą się do wszystkich przypadków, o których mowa w art. 108 ust. 1 pkt 1, 2 i 4, art. 109 ust. 1 pkt 1, 2 lit. a i b oraz pkt 3 ustawy, zastępuje się je odpowiednio w całości lub w części dokumentem zawierającym odpowiednio oświadczenie wykonawcy, ze wskazaniem osoby albo osób uprawnionych do jego reprezentacji, lub oświadczenie osoby, której dokument miał dotyczyć, złożone pod przysięgą, lub, jeżeli w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania nie ma przepisów o oświadczeniu pod przysięgą, złożone przed organem sądowym lub administracyjnym, notariuszem, organem samorządu zawodowego lub gospodarczego, właściwym ze względu na siedzibę lub miejsce zamieszkania wykonawcy. Przepis ust. 2 stosuje się.
+§ 5.
+1.
+Zamawiający może żądać od wykonawcy, który polega na zdolnościach technicznych lub zawodowych lub sytuacji finansowej lub ekonomicznej podmiotów udostępniających zasoby na zasadach określonych w art. 118 ustawy, przedstawienia podmiotowych środków dowodowych, o których mowa w § 2 ust. 1 pkt 1 i 3–7 oraz ust. 2, dotyczących tych podmiotów, potwierdzających, że nie zachodzą wobec tych podmiotów podstawy wykluczenia z postępowania. Przepis § 3 stosuje się odpowiednio.
+2.
+Zamawiający może żądać od wykonawcy przedstawienia podmiotowych środków dowodowych, o których mowa w § 2 ust. 1 pkt 1 i 3–7 oraz ust. 2, dotyczących podwykonawców niebędących podmiotami udostępniającymi zasoby na zasadach określonych w art. 118 ustawy, potwierdzających, że nie zachodzą wobec tych podwykonawców podstawy wykluczenia z postępowania. Przepis § 3 stosuje się odpowiednio.
+3.
+Do podmiotów udostępniających zasoby na zasadach określonych w art. 118 ustawy oraz podwykonawców niebędących podmiotami udostępniającymi zasoby na tych zasadach, mających siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, przepis § 4 stosuje się odpowiednio.
+§ 6.
+W celu potwierdzenia spełniania przez wykonawcę warunków udziału w postępowaniu dotyczących zdolności do występowania w obrocie gospodarczym, zamawiający może żądać od wykonawcy prowadzącego działalność gospodarczą lub zawodową dokumentu potwierdzającego, że jest wpisany do jednego z rejestrów zawodowych lub handlowych, prowadzonych w kraju, w którym ma siedzibę lub miejsce zamieszkania, wystawionego nie wcześniej niż 6 miesięcy przed jego złożeniem.
+§ 7.
+1.
+W celu potwierdzenia spełniania przez wykonawcę warunków udziału w postępowaniu dotyczących wymaganych uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, zamawiający może żądać zezwolenia, licencji, koncesji lub wpisu do rejestru działalności regulowanej.
+2.
+W przypadku zamówień na usługi, w celu potwierdzenia spełniania przez wykonawcę warunków udziału w postępowaniu dotyczących wymaganych uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, zamawiający może żądać:
+1)
+odpowiedniego zezwolenia, licencji, koncesji lub potwierdzenia wpisu do rejestru działalności regulowanej, jeżeli ich posiadanie jest niezbędne do świadczenia określonych usług w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania;
+2)
+dokumentu potwierdzającego status członka danej organizacji, jeżeli członkostwo w tej organizacji jest niezbędne do świadczenia określonych usług w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania.
+§ 8.
+1.
+W celu potwierdzenia spełniania przez wykonawcę warunków udziału w postępowaniu lub kryteriów selekcji dotyczących sytuacji ekonomicznej lub finansowej zamawiający może żądać, w szczególności, następujących podmiotowych środków dowodowych:
+1)
+sprawozdania finansowego albo jego części, w przypadku gdy sporządzenie sprawozdania wymagane jest przepisami kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania, a jeżeli podlega ono badaniu przez firmę audytorską zgodnie z przepisami o rachunkowości, również odpowiednio ze sprawozdaniem z badania sprawozdania finansowego, a w przypadku wykonawców niezobowiązanych do sporządzenia sprawozdania finansowego, innych dokumentów określających w szczególności przychody oraz aktywa i zobowiązania – za okres nie dłuższy niż ostatnie 3 lata obrotowe, a jeżeli okres prowadzenia działalności jest krótszy – za ten okres;
+2)
+oświadczenia wykonawcy o rocznym przychodzie wykonawcy lub o przychodzie wykonawcy w obszarze objętym zamówieniem, za okres nie dłuższy niż ostatnie 3 lata obrotowe, a jeżeli okres prowadzenia działalności jest krótszy – za ten okres;
+3)
+informacji banku lub spółdzielczej kasy oszczędnościowo-kredytowej potwierdzającej wysokość posiadanych środków finansowych lub zdolność kredytową wykonawcy, w okresie nie wcześniejszym niż 3 miesiące przed jej złożeniem;
+4)
+dokumentów potwierdzających, że wykonawca jest ubezpieczony od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia ze wskazaniem sumy gwarancyjnej tego ubezpieczenia.
+2.
+Jeżeli z uzasadnionej przyczyny wykonawca nie może złożyć wymaganych przez zamawiającego podmiotowych środków dowodowych, o których mowa w ust. 1, wykonawca składa inne podmiotowe środki dowodowe, które w wystarczający sposób potwierdzają spełnianie opisanego przez zamawiającego warunku udziału w postępowaniu lub kryterium selekcji dotyczącego sytuacji ekonomicznej lub finansowej.
+§ 9.
+1.
+W celu potwierdzenia spełniania przez wykonawcę warunków udziału w postępowaniu lub kryteriów selekcji dotyczących zdolności technicznej lub zawodowej, zamawiający może, w zależności od charakteru, znaczenia, przeznaczenia lub zakresu robót budowlanych, dostaw lub usług, żądać następujących podmiotowych środków dowodowych:
+1)
+wykazu robót budowlanych wykonanych nie wcześniej niż w okresie ostatnich 5 lat, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, wraz z podaniem ich rodzaju, wartości, daty i miejsca wykonania oraz podmiotów, na rzecz których roboty te zostały wykonane, oraz załączeniem dowodów określających, czy te roboty budowlane zostały wykonane należycie, przy czym dowodami, o których mowa, są referencje bądź inne dokumenty sporządzone przez podmiot, na rzecz którego roboty budowlane zostały wykonane, a jeżeli wykonawca z przyczyn niezależnych od niego nie jest w stanie uzyskać tych dokumentów – inne odpowiednie dokumenty;
+2)
+wykazu dostaw lub usług wykonanych, a w przypadku świadczeń powtarzających się lub ciągłych również wykonywanych, w okresie ostatnich 3 lat, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których dostawy lub usługi zostały wykonane lub są wykonywane, oraz załączeniem dowodów określających, czy te dostawy lub usługi zostały wykonane lub są wykonywane należycie, przy czym dowodami, o których mowa, są referencje bądź inne dokumenty sporządzone przez podmiot, na rzecz którego dostawy lub usługi zostały wykonane, a w przypadku świadczeń powtarzających się lub ciągłych są wykonywane, a jeżeli wykonawca z przyczyn niezależnych od niego nie jest w stanie uzyskać tych dokumentów – oświadczenie wykonawcy; w przypadku świadczeń powtarzających się lub ciągłych nadal wykonywanych referencje bądź inne dokumenty potwierdzające ich należyte wykonywanie powinny być wystawione w okresie ostatnich 3 miesięcy;
+3)
+wykazu osób, skierowanych przez wykonawcę do realizacji zamówienia publicznego, w szczególności odpowiedzialnych za świadczenie usług, kontrolę jakości lub kierowanie robotami budowlanymi, wraz z informacjami na temat ich kwalifikacji zawodowych, uprawnień, doświadczenia i wykształcenia niezbędnych do wykonania zamówienia publicznego, a także zakresu wykonywanych przez nie czynności oraz informacją o podstawie do dysponowania tymi osobami;
+4)
+opisu urządzeń technicznych oraz środków organizacyjno-technicznych stosowanych przez wykonawcę w celu zapewnienia jakości oraz opisu zaplecza naukowo-badawczego wykonawcy;
+5)
+wykazu systemów zarządzania łańcuchem dostaw i śledzenia łańcucha dostaw, które wykonawca będzie mógł zastosować w celu wykonania zamówienia publicznego;
+6)
+oświadczenia o wyrażeniu zgody na przeprowadzenie kontroli zdolności produkcyjnych lub zdolności technicznych wykonawcy, a w razie konieczności także dostępnych mu środków naukowych i badawczych, jak również środków kontroli jakości, z których wykonawca będzie korzystać – w przypadku gdy przedmiot zamówienia obejmuje produkty lub usługi o złożonym charakterze lub w szczególnie uzasadnionych przypadkach w odniesieniu do produktów lub usług o szczególnym przeznaczeniu;
+7)
+oświadczenia na temat wykształcenia i kwalifikacji zawodowych wykonawcy lub kadry kierowniczej wykonawcy;
+8)
+wykazu środków zarządzania środowiskowego, które wykonawca będzie mógł zastosować w celu wykonania zamówienia publicznego;
+9)
+oświadczenia na temat wielkości średniego rocznego zatrudnienia u wykonawcy oraz liczebności kadry kierowniczej w ostatnich 3 latach, a w przypadku gdy okres prowadzenia działalności jest krótszy – w tym okresie;
+10)
+wykazu narzędzi, wyposażenia zakładu lub urządzeń technicznych dostępnych wykonawcy w celu wykonania zamówienia publicznego wraz z informacją o podstawie do dysponowania tymi zasobami;
+11)
+w przypadku dostarczania produktów:
+a)
+próbek, opisów lub fotografii dostarczanych produktów, których autentyczność musi zostać poświadczona przez wykonawcę na żądanie zamawiającego,
+b)
+zaświadczenia niezależnego podmiotu uprawnionego do kontroli jakości potwierdzającego, że dostarczane produkty odpowiadają określonym normom lub specyfikacjom technicznym;
+12)
+zaświadczenia niezależnego podmiotu zajmującego się poświadczaniem spełniania przez wykonawcę określonych norm zarządzania jakością, w tym dostępności dla osób niepełnosprawnych, jeżeli zamawiający odwołuje się do systemów zarządzania jakością opartych na odpowiednich seriach norm europejskich oraz certyfikowanych przez akredytowane jednostki;
+13)
+zaświadczenia niezależnego podmiotu zajmującego się poświadczaniem spełnienia przez wykonawcę wymogów określonych systemów lub norm zarządzania środowiskowego, jeżeli zamawiający odwołuje się do systemu ekozarządzania i audytu, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1221/2009 z dnia 25 listopada 2009 r. w sprawie dobrowolnego udziału organizacji w systemie ekozarządzania i audytu we Wspólnocie (EMAS), uchylającym rozporządzenie (WE) nr 761/2001 oraz decyzje Komisji 2001/681/WE i 2006/193/WE (Dz. Urz. UE L 342 z 22.12.2009, str. 1, z późn. zm.), lub do innych norm zarządzania środowiskowego opartych na odpowiednich normach europejskich lub międzynarodowych oraz certyfikowanych przez akredytowane jednostki.
+2.
+Okresy wyrażone w latach lub miesiącach, o których mowa w ust. 1 pkt 1, 2 i 9, liczy się wstecz od dnia:
+1)
+w którym upływa termin składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu;
+2)
+złożenia wniosku o dopuszczenie do udziału w dynamicznym systemie zakupów albo wniosku o dopuszczenie do udziału w systemie kwalifikowania wykonawców;
+3)
+złożenia podmiotowego środka dowodowego, o którym mowa w ust. 1 pkt 1, 2 i 9, w przypadkach, o których mowa w art. 217 ust. 2, art. 455 ust. 1 pkt 2 lit. b oraz art. 462 ust. 7 ustawy.
+3.
+Jeżeli wykonawca powołuje się na doświadczenie w realizacji robót budowlanych, dostaw lub usług, wykonywanych wspólnie z innymi wykonawcami, wykaz:
+1)
+o którym mowa w ust. 1 pkt 1, dotyczy robót budowlanych, w których wykonaniu wykonawca ten bezpośrednio uczestniczył;
+2)
+o którym mowa w ust. 1 pkt 2, dotyczy dostaw lub usług, w których wykonaniu wykonawca ten bezpośrednio uczestniczył, a w przypadku świadczeń powtarzających się lub ciągłych, w których wykonywaniu bezpośrednio uczestniczył lub uczestniczy.
+4.
+W celu zapewnienia odpowiedniego poziomu konkurencji w postępowaniu, zamawiający może dopuścić, aby wykaz:
+1)
+o którym mowa w ust. 1 pkt 1, dotyczył robót budowlanych wykonanych w okresie dłuższym niż ostatnie 5 lat;
+2)
+o którym mowa w ust. 1 pkt 2, dotyczył dostaw lub usług wykonanych, a w przypadku świadczeń powtarzających się lub ciągłych – również wykonywanych, w okresie dłuższym niż ostatnie 3 lata.
+5.
+Wykonawca może zamiast podmiotowych środków dowodowych, o których mowa w ust. 1 pkt 12 i 13, złożyć równoważne podmiotowe środki dowodowe wystawione przez podmioty mające siedzibę w innym państwie członkowskim Europejskiego Obszaru Gospodarczego.
+6.
+Wykonawca, który z przyczyn niezależnych od niego nie ma dostępu do podmiotowych środków dowodowych, o których mowa w ust. 1 pkt 12 i 13, lub nie ma możliwości ich uzyskania w odpowiednim terminie, może złożyć inne podmiotowe środki dowodowe dotyczące odpowiednio zapewnienia jakości lub środków zarządzania środowiskowego, o ile udowodni, że stosowane przez niego:
+1)
+środki zapewnienia jakości są zgodne z wymaganymi normami zarządzania jakością lub
+2)
+środki zarządzania środowiskowego są równoważne środkom wymaganym na mocy mającego zastosowanie systemu lub normy zarządzania środowiskowego.
+§ 10.
+W celu potwierdzenia spełniania przez wykonawcę warunków udziału w postępowaniu lub kryteriów selekcji zamawiający może, zamiast podmiotowych środków dowodowych, o których mowa w § 6–9, żądać oświadczenia wykonawcy o spełnianiu warunków udziału w postępowaniu lub kryteriów selekcji.
+§ 11.
+1.
+W przypadku zamówień w dziedzinach obronności i bezpieczeństwa przepisy § 2 i § 4–10 stosuje się, z zastrzeżeniem że:
+1)
+wykaz dostaw lub usług, o którym mowa w § 9 ust. 1 pkt 2, dotyczy okresu ostatnich 5 lat;
+2)
+w celu potwierdzenia spełniania przez wykonawcę warunków udziału w postępowaniu lub kryteriów selekcji dotyczących zdolności technicznej lub zawodowej, zamawiający może, w zależności od charakteru, znaczenia, przeznaczenia lub ilości robót budowlanych, dostaw lub usług, żądać także innych, niż określone w § 9, podmiotowych środków dowodowych, w szczególności:
+a)
+opisu wewnętrznych regulacji wykonawcy dotyczących własności intelektualnej,
+b)
+oświadczenia na temat narzędzi, materiałów i urządzeń technicznych, liczebności personelu i jego wiedzy specjalistycznej lub źródeł zaopatrzenia, wraz z opisem położenia geograficznego tych źródeł, jeżeli znajdują się na terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, dostępnych wykonawcy w celu wykonania zamówienia publicznego, sprostania ewentualnemu wzrostowi potrzeb zamawiającego w następstwie sytuacji kryzysowej, a także zapewnienia utrzymania, modernizacji oraz adaptacji dostaw będących przedmiotem zamówienia publicznego,
+c)
+w przypadku zamówień, które wiążą się z przetwarzaniem informacji niejawnych, wymagają do nich dostępu, ich wykorzystania lub je zawierają – dokumentów potwierdzających zdolność wykonawcy do ochrony tych informacji i ich przetwarzania na poziomie wymaganym przez odrębne przepisy, w szczególności ważnego odpowiedniego świadectwa bezpieczeństwa przemysłowego, ważnego poświadczenia bezpieczeństwa oraz zaświadczenia o odbyciu szkolenia w zakresie ochrony informacji niejawnych, o których mowa w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742);
+3)
+w przypadku, o którym mowa w art. 427 ust. 4 ustawy, do liczenia okresów wyrażonych w latach lub miesiącach, o których mowa w § 9 ust. 1 pkt 1, 2 i 9, przepis § 9 ust. 2 pkt 3 stosuje się odpowiednio;
+4)
+podmiotowe środki dowodowe, o których mowa w § 2 ust. 1 pkt 1, § 4 ust. 1 pkt 1 i § 6, są wystawiane nie wcześniej niż 6 miesięcy przed upływem terminu składania ofert albo wniosków o dopuszczenie do udziału w postępowaniu;
+5)
+podmiotowe środki dowodowe, o których mowa w § 2 ust. 1 pkt 2–6, § 4 ust. 1 pkt 2 i 3 oraz § 8 ust. 1 pkt 3, są wystawiane nie wcześniej niż 3 miesiące przed upływem terminu składania ofert albo wniosków o dopuszczenie do udziału w postępowaniu.
+2.
+Zamawiający uznaje dokumenty, o których mowa w ust. 1 pkt 2 lit. c, wydane przez inne państwa, jeżeli odpowiadają one dokumentom o adekwatnej klauzuli tajności, wydanym zgodnie z przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
+3.
+Zamawiający może w stosownych przypadkach przyznać wykonawcom, którzy złożyli wnioski o dopuszczenie do udziału w postępowaniu w trybie przetargu ograniczonego, w negocjacjach z ogłoszeniem lub dialogu konkurencyjnym, którzy nie posiadają dokumentów, o których mowa w ust. 1 pkt 2 lit. c, dodatkowy czas na ich uzyskanie. W takim wypadku zamawiający wskazuje na taką możliwość w ogłoszeniu o zamówieniu, określając odpowiedni termin.
+4.
+Jeżeli z uzasadnionej przyczyny wykonawca nie może złożyć podmiotowych środków dowodowych wymaganych przez zamawiającego, w celu potwierdzenia spełniania przez wykonawcę warunków udziału w postępowaniu lub kryteriów selekcji dotyczących zdolności technicznej lub zawodowej, wykonawca składa inne podmiotowe środki dowodowe, które w wystarczający sposób potwierdzają spełnianie opisanego przez zamawiającego warunku udziału w postępowaniu lub kryterium selekcji dotyczącego zdolności technicznej lub zawodowej.
+§ 12.
+1.
+Wykonawca wpisany do urzędowego wykazu zatwierdzonych wykonawców lub wykonawca certyfikowany przez jednostki certyfikujące spełniające wymogi europejskich norm certyfikacji może, zamiast odpowiednich podmiotowych środków dowodowych, o których mowa w ustawie i rozporządzeniu, złożyć zaświadczenie o wpisie do urzędowego wykazu wydane przez właściwy organ lub certyfikat wydany przez właściwą jednostkę certyfikującą kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania, wskazujące na podmiotowe środki dowodowe stanowiące podstawę wpisu lub uzyskania certyfikacji, chyba że zamawiający ma uzasadnione podstawy do zakwestionowania informacji wynikających z zaświadczenia lub certyfikatu.
+2.
+W celu potwierdzenia braku podstawy wykluczenia z postępowania, o której mowa w art. 109 ust. 1 pkt 1 ustawy, zamawiający może żądać dodatkowego dokumentu wystawionego w kraju, w którym wykonawca ma miejsce zamieszkania lub siedzibę, potwierdzającego, że wykonawca nie naruszył obowiązków dotyczących płatności podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne. Przepisy § 4 ust. 2 i 3 stosuje się.
+3.
+Przepisy ust. 1 i 2 stosuje się odpowiednio do podmiotowych środków dowodowych dotyczących podmiotu udostępniającego zasoby na zasadach określonych w art. 118 ustawy oraz podwykonawcy niebędącego podmiotem udostępniającym zasoby na takich zasadach.
+§ 13.
+1.
+W celu potwierdzenia, że osoba działająca w imieniu wykonawcy jest umocowana do jego reprezentowania, zamawiający może żądać od wykonawcy odpisu lub informacji z Krajowego Rejestru Sądowego, Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub innego właściwego rejestru.
+2.
+Wykonawca nie jest zobowiązany do złożenia dokumentów, o których mowa w ust. 1, jeżeli zamawiający może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, o ile wykonawca wskazał dane umożliwiające dostęp do tych dokumentów.
+3.
+Jeżeli w imieniu wykonawcy działa osoba, której umocowanie do jego reprezentowania nie wynika z dokumentów, o których mowa w ust. 1, zamawiający może żądać od wykonawcy pełnomocnictwa lub innego dokumentu potwierdzającego umocowanie do reprezentowania wykonawcy.
+4.
+Przepis ust. 3 stosuje się odpowiednio do osoby działającej w imieniu wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego.
+5.
+Przepisy ust. 1–3 stosuje się odpowiednio do osoby działającej w imieniu podmiotu udostępniającego zasoby na zasadach określonych w art. 118 ustawy lub podwykonawcy niebędącego podmiotem udostępniającym zasoby na takich zasadach.
+§ 14.
+W przypadku wskazania przez wykonawcę dostępności podmiotowych środków dowodowych lub dokumentów, o których mowa w § 13 ust. 1, pod określonymi adresami internetowymi ogólnodostępnych i bezpłatnych baz danych, zamawiający może żądać od wykonawcy przedstawienia tłumaczenia na język polski pobranych samodzielnie przez zamawiającego podmiotowych środków dowodowych lub dokumentów.
+§ 15.
+Podmiotowe środki dowodowe oraz inne dokumenty lub oświadczenia, o których mowa w rozporządzeniu, składa się w formie elektronicznej, w postaci elektronicznej opatrzonej podpisem zaufanym lub podpisem osobistym, w formie pisemnej lub w formie dokumentowej, w zakresie i w sposób określony w przepisach wydanych na podstawie art. 70 ustawy.
+§ 16.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
+1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylającą dyrektywę 2004/18/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 65, z późn. zm.); 2) dyrektywę Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającą dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, z późn. zm.); 3) dyrektywę Parlamentu Europejskiego i Rady 2009/81/WE z dnia 13 lipca 2009 r. w sprawie koordynacji procedur udzielania niektórych zamówień na roboty budowlane, dostawy i usługi przez instytucje lub podmioty zamawiające w dziedzinach obronności i bezpieczeństwa i zmieniającą dyrektywy 2004/17/WE i 2004/18/WE (Dz. Urz. UE L 216 z 20.08.2009, str. 76, z późn. zm.). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 222 z 29.08.2017, str. 1 oraz Dz. Urz. UE L 325 z 20.12.2018, str. 18. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju z dnia 26 lipca 2016 r. w sprawie rodzajów dokumentów, jakich może żądać zamawiający od wykonawcy w postępowaniu o udzielenie zamówienia (Dz. U. z 2020 r. poz. 1282), które na podstawie art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+

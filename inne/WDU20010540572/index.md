@@ -8,9 +8,10 @@ pos: 572
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny wskładzie: Jerzy Stępień — przewodniczący, Lech Garlicki, Stefan J. Jaworski, Wiesław Johann, Marek Safjan — sprawozdawca, po rozpoznaniu w dniu 21 maja 2001 r. na rozprawie skargi konstytucyjnej Anny Wicher, z udziałem umocowanych przedstawicieli uczestników postępowania: skarżącej, Sejmu Rzeczypospolitej Polskiej, Prowzwiązku zart. 21 ust. 1 iart. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej, orzeka:
+# Wyrok Trybunału Konstytucyjnegoz dnia 21 maja 2001 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +25,10 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010540572) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/572/text.pdf) |
 
-1. Art. 228 § 1 ustawy zdnia 16 września 1982 r. — Prawo spółdzielcze (Dz. U. z 1995 r. Nr 54, poz. 288 ze zm.) wbrzmieniu sprzed wejścia wżycie ustawy zdnia 21 paêdziernika 1999 r. o zmianie ustawy — Prawo spółdzielcze (Dz. U. Nr 99, poz. 1151) jest niezgodny zart. 21 ust. 1 iart. 64 ust. 1 i2 oraz zart.31 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
-2. Przepis określony wpkt 1 nie jest niezgodny kuratora Generalnego oraz Rzecznika Praw Obywatelskich, w sprawie zgodności art. 228 § 1 ustawy z dnia 16 września 1982 r. — Prawo spółdzielcze (Dz. U.
-z 1995 r. Nr 54, poz. 288 ze zm.) z art. 64 ust. 1 i 3 zart. 64 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
-Dziennik Ustaw Nr 54 — 3771 — Poz. 572 i 573 Jerzy Stępień Lech Garlicki Stefan J. Jaworski Wiesław Johann Marek Safjan 572 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 21 maja 2001 r.
-sygn. akt SK. 15/2000.
-573 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 22 maja 2001 r.
-sygn. akt K. 37/2000.
-Trybunał Konstytucyjny wskładzie: Marian Zdyb — przewodniczący, Zdzisław Czeszejko-Sochacki — sprawozdawca, Stefan J. Jaworski, Wiesław Johann, Krzysztof Kolasiński, 1990r. ozawodzie lekarza weterynarii iizbach lekarsko-weterynaryjnych (Dz. U. z1991 r. Nr 8, poz. 27 ze zm.) zart. 17 Konstytucji Rzeczypospolitej Polskiej, orzeka:
-Art.17 iart. 66 ustawy zdnia 21 grudnia 1990r. ozawodzie lekarza weterynarii iizbach lekarsko-weterynaryjnych (Dz. U. z1991 r. Nr 8, poz. 27,z1995 r. Nr 120, poz. 576, z 1997 r. Nr 60, poz. 369, z 1998 r. Nr 106, po rozpoznaniu w dniu 22 maja 2001 r. na rozpra- poz. 668 i z 2000 r. Nr 114, poz. 1189) są zgodne wie sprawy z wniosku Zarządu Głównego Ogólnopol- zart.17 Konstytucji Rzeczypospolitej Polskiej.
-skiego Związku Zawodowego Lekarzy Weterynarii Inspekcji Weterynaryjnej zsiedzibą wPoznaniu, zudziałem umocowanych przedstawicieli uczestników postę- Marian Zdyb powania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, o stwierdzenie Zdzisław Czeszejko-Sochacki Stefan J. Jaworski niezgodności art. 17 iart. 66 ustawy zdnia 21 grudnia Wiesław Johann Krzysztof Kolasiński
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Jerzy Stępień – przewodniczący, Lech Garlicki, Stefan J. Jaworski, Wiesław Johann, Marek Safjan – sprawozdawca, protokolant: Lidia Banaszkiewicz, po rozpoznaniu w dniu 21 maja 2001 r. na rozprawie skargi konstytucyjnej Anny Wicher, z udziałem umocowanych przedstawicieli uczestników postępowania: skarżącej, Sejmu Rzeczypospolitej Polskiej, Prokuratora Generalnego oraz Rzecznika Praw Obywatelskich, w sprawie zgodności art. 228 § 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 1995 r. Nr 54, poz. 288 ze zm.) z art. 64 ust. 1 i 3 w związku z art. 21 ust. 1 i art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej, orzeka:
+1.
+Art. 228 § 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 1995 r. Nr 54, poz. 288 ze zm.) w brzmieniu sprzed wejścia w życie ustawy z dnia 21 października 1999 r. o zmianie ustawy – Prawo spółdzielcze (Dz. U. Nr 99, poz. 1151) jest niezgodny z art. 21 ust. 1 i art. 64 ust. 1 i 2 oraz z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Przepis określony w pkt 1 nie jest niezgodny z art. 64 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
 

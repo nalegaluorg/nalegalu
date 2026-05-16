@@ -8,9 +8,10 @@ pos: 1172
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny wskładzie: Bohdan Zdziennicki przewodniczący, Stanisław Biernat, Zbigniew Cieślak, Mirosław Granat, Marian Grzybowski, Wojciech Hermeliński, Adam Jamróz sprawozdawca, Marek Kotlinowski, Teresa Liszcz, Ewa Ęętowska, Marek Mazurkiewicz, Janusz Niemcewicz, Andrzej Rzepliński, Mirosław Wyrzykowski, orzeka:
+# Wyrok Trybunału Konstytucyjnegoz dnia 15 października 2008 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,16 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081901172) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1172/text.pdf) |
 
-1. Art. 1 pkt 2 ustawy z dnia 3 czerwca 2005 r.
-o zmianie ustawy Kodeks karny (Dz. U. Nr 132, poz.1109) jest zgodny zart. 2, art. 32 ust. 1, art. 42 ust.1 iart. 45 ust. 1Konstytucji Rzeczypospolitej Polskiej oraz z art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej wRzymie dnia 4listopada 1950 r., zmienionej następnie Protokołami nr 3, 5i8oraz uzupełnionej Protokołem nr 2 (Dz. U. z 1993 r. Nr 61, poz. 284, z 1995 r.
-Nr 36, poz. 175, 176 i 177, z 1998 r. Nr 147, poz. 962 oraz z2003 r. Nr 42, poz. 364).
-2. Art. 2 ustawy powołanej w punkcie 1 jest po rozpoznaniu, z udziałem Sejmu i Prokuratora Generalnego, na rozprawie w dniu 15 paêdziernika 2008 r., pytania prawnego Sądu Rejonowego w Legionowie, czy:
-1) art. 2 ustawy z dnia 3 czerwca 2005 r. o zmianie ustawy Kodeks karny (Dz. U. Nr 132, poz. 1109) jest zgodny zart. 42 ust. 1Konstytucji,
-2) art. 1 pkt 1 lit. a i art. 1 pkt 2 ustawy powołanej wpunkcie 1są zgodne zart. 2, art. 32 ust. 1, art.42 ust. 1 i art. 45 Konstytucji oraz z art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, zgodny zart. 42 ust. 1Konstytucji.
-Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1sierpnia 1997 r. oTrybunale Konstytucyjnym (Dz. U.
-Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r.
-Nr169, poz. 1417) umorzyć postępowanie wpozostałym zakresie ze względu na niedopuszczalność wydania wyroku.
-Bohdan Zdziennicki Stanisław Biernat Zbigniew Cieślak Mirosław Granat Marian Grzybowski Wojciech Hermeliński Adam Jamróz Marek Kotlinowski Teresa Liszcz Ewa Ęętowska Marek Mazurkiewicz Janusz Niemcewicz Andrzej Rzepliński Mirosław Wyrzykowski 1172 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 15 paêdziernika 2008 r.
-sygn. akt P32/06 ISSN 0867-3411
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Bohdan Zdziennicki – przewodniczący, Stanisław Biernat, Zbigniew Cieślak, Mirosław Granat, Marian Grzybowski, Wojciech Hermeliński, Adam Jamróz – sprawozdawca, Marek Kotlinowski, Teresa Liszcz, Ewa Łętowska, Marek Mazurkiewicz, Janusz Niemcewicz, Andrzej Rzepliński, Mirosław Wyrzykowski, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem Sejmu i Prokuratora Generalnego, na rozprawie w dniu 15 października 2008 r., pytania prawnego Sądu Rejonowego w Legionowie, czy:
+1)
+art. 2 ustawy z dnia 3 czerwca 2005 r. o zmianie ustawy – Kodeks karny (Dz. U. Nr 132, poz. 1109) jest zgodny z art. 42 ust. 1 Konstytucji,
+2)
+art. 1 pkt 1 lit. a i art. 1 pkt 2 ustawy powołanej w punkcie 1 są zgodne z art. 2, art. 32 ust. 1, art. 42 ust. 1 i art. 45 Konstytucji oraz z art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności,
+orzeka:
+1.
+Art. 1 pkt 2 ustawy z dnia 3 czerwca 2005 r. o zmianie ustawy – Kodeks karny (Dz. U. Nr 132, poz. 1109) jest zgodny z art. 2, art. 32 ust. 1, art. 42 ust. 1 i art. 45 ust. 1 Konstytucji Rzeczypospolitej Polskiej oraz z art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., zmienionej następnie art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., zmienionej następnie Protokołami nr 3, 5 i 8 oraz uzupełnionej Protokołem nr 2 (Dz. U. z 1993 r. Nr 61, poz. 284, z 1995 r. Nr 36, poz. 175, 176 i 177, z 1998 r. Nr 147, poz. 962 oraz z 2003 r. Nr 42, poz. 364).
+2.
+Art. 2 ustawy powołanej w punkcie 1 jest zgodny z art. 42 ust. 1 Konstytucji.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie w pozostałym zakresie ze względu na niedopuszczalność wydania wyroku.
 

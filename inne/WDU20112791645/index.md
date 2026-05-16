@@ -8,9 +8,10 @@ pos: 1645
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny w składzie: Wojciech Hermeliński — przewodniczący, Stanisław Biernat — sprawozdawca, Andrzej Rzepliński, Sławomira Wronkowska-Jaśkiewicz, Marek Zubik, ze zm.) w zakresie, w jakim dotyczy zwolnienia od obowiązku zachowania tajemnicy statystycznej:
+# Wyrok Trybunału Konstytucyjnegoz dnia 13 grudnia 2011 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,16 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112791645) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1645/text.pdf) |
 
-a) jest niezgodny z art. 47 oraz z art. 51 ust. 2 w związku z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej, przez to że nie określa przesłanek zwolnienia od obowiązku zachowania tajemnicy statystycznej,
-b) nie jest niezgodny z art. 42 ust. 3 Konstytucji,
-c) j est zgodny z zasadą ochrony zaufania do pańpo rozpoznaniu, z udziałem wnioskodawcy oraz stwa i stanowionego przez nie prawa wynikającą Sejmu i Prokuratora Generalnego, na rozprawie z art. 2 Konstytucji.
-w dniu 13 grudnia 2011 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 180 § 1 usta- II wy z dnia 6 czerwca 1997 r. — Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, ze zm.) w zakresie, Przepis wymieniony w części I, w zakresie tam w jakim zezwala na zwolnienie z tajemnicy statystycz- wskazanym, traci moc obowiązującą z upływem nej, z art. 51 ust. 2 w związku z art. 31 ust. 3, art. 47 12 (dwunastu) miesięcy od dnia ogłoszenia wyroku w związku z art. 31 ust. 3, art. 42 ust. 3 i art. 2 Konsty- w Dzienniku Ustaw Rzeczypospolitej Polskiej.
-tucji, orzeka: I Wojciech Hermeliński Stanisław Biernat Andrzej Rzepliński
-Art. 180 § 1 ustawy z dnia 6 czerwca 1997 r. — Ko- Sławomira Wronkowskadeks postępowania karnego (Dz. U. Nr 89, poz. 555, -Jaśkiewicz Marek Zubik 1645 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 13 grudnia 2011 r.
-sygn. akt K 33/08
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Wojciech Hermeliński – przewodniczący, Stanisław Biernat – sprawozdawca, Andrzej Rzepliński, Sławomira Wronkowska-Jaśkiewicz, Marek Zubik, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 13 grudnia 2011 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 180 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, ze zm.) w zakresie, w jakim zezwala na zwolnienie z tajemnicy statystycznej, z art. 51 ust. 2 w związku z art. 31 ust. 3, art. 47 w związku z art. 31 ust. 3, art. 42 ust. 3 i art. 2 Konstytucji, orzeka:
+I
+Art. 180 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, ze zm.) w zakresie, w jakim dotyczy zwolnienia od obowiązku zachowania tajemnicy statystycznej:
+a)
+jest niezgodny z art. 47 oraz z art. 51 ust. 2 w związku z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej, przez to że nie określa przesłanek zwolnienia od obowiązku zachowania tajemnicy statystycznej,
+b)
+nie jest niezgodny z art. 42 ust. 3 Konstytucji,
+c)
+jest zgodny z zasadą ochrony zaufania do państwa i stanowionego przez nie prawa wynikającą z art. 2 Konstytucji.
+II
+Przepis wymieniony w części I, w zakresie tam wskazanym, traci moc obowiązującą z upływem 12 (dwunastu) miesięcy od dnia ogłoszenia wyroku w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 

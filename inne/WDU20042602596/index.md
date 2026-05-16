@@ -8,9 +8,10 @@ pos: 2596
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# SPe 5 W celu ochrony ptaków/ssaków wolnożyjących produkt musi być całkowicie przykryty glebą; zapewnić, że produkt również całkowicie przykryty końcach rzędów.
+# Wyrok Trybunału Konstytucyjnegoz dnia 29 listopada 2004 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,32 +25,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042602596) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2596/text.pdf) |
 
-Zwrot ten przypisuje się środkom ochrony roślin, takim jak np. granule, które muszą zostać przykryte, aby chronić ptaki lub ssaki wolnożyjące.
-SPe 6 W celu ochrony ptaków/ssaków wolnożyjących usuwać rozsypany produkt.
-Zwrot ten przypisuje się środkom ochrony roślin, takim jak np. granule, aby uniknąć spożycia przez ptaki lub ssaki wolnożyjące. Zwrot zalecany dla wszystkich preparatów wstanie stałym, które używane są postaci nierozcieńczonej.
-SPe 7 Nie stosować okresie rozrodczym ptaków.
-Zwrot ten przypisuje się, gdy ocena przeprowadzona zgodnie jednolitymi zasadami wykazuje, wprzypadku jednego lub kilku zastosowań wymienionych oznakowaniu, że taki środek zaradczy niezbędny.
-SPe 8 Niebezpieczne dla pszczół/W celu ochrony pszczół iinnych owadów zapylających nie stosować rośliny uprawne czasie kwitnienia/Nie używać miejscach, gdzie pszczoły mają pożytek/Usunąć lub przykryć ule czas zabiegu przez (określić czas) po zabiegu/Nie stosować, kiedy występują kwitnące chwasty/Usuwać chwasty przed kwitnieniem/Nie stosować przed (określić czas).
-Zwrot ten przypisuje się, gdy ocena przeprowadzona zgodnie jednolitymi zasadami wykazuje, wprzypadku jednego lub kilku zastosowań wymienionych oznakowaniu, że środki zaradcze zmniejszające ryzyko muszą być podjęte, aby chronić pszczoły inne owady zapylające oraz ich potomstwo.
-3. Kryteria doboru zwrotów określających warunki bezpiecznego stosowania odnoszących się do dobrej praktyki rolniczej (SPa).
-SPa 1 W celu uniknięcia powstawania odporności nie stosować tego ani żadnego innego produktu zawierającego (określić substancję aktywną lub klasę substancji, kiedy dotyczy) dłużej niż (określony czas)/częściej niż (określona częstość).
-Zwrot przypisuje się, gdy takie ograniczenie niezbędne, aby ograniczyć ryzyko rozwoju odporności.
-4. Kryteria doboru zwrotów określających warunki bezpiecznego stosowania dla rodentycydów (SPr).
-SPr 1 Przynęty muszą być rozłożone taki sposób, aby zminimalizować ryzyko zjedzenia przez inne zwierzęta. Zabezpieczyć przynętę wten sposób, aby nie mogła zostać wywleczona przez gryzonie.
-Zwrot umieszcza się etykiecie sposób widoczny, aby zapewnić podporządkowanie się osób stosujących środki zwalczające gryzonie tak, aby możliwość niewłaściwego użycia była ograniczona do minimum.
-SPr 2 Obszar poddany zabiegowi musi być oznakowany podczas zabiegu. Wyszczególnić niebezpieczeństwo zatrucia antykoagulantem (pierwotnego lub wtórnego) właściwe antidotum.
-Zwrot umieszcza się etykiecie sposób widoczny, tak aby przypadkowe zatrucie było wyłączone tak dalece, jak to możliwe.
-SPr 3 Martwe gryzonie usuwać zobszaru poddanego zabiegowi każdego dnia. Nie wyrzucać do pojemników odpady komunalne nie wywozić składowiska odpadów przeznaczonych do unieszkodliwiania odpadów komunalnych.
-Aby uniknąć wtórnego zatrucia zwierząt zwrot przypisuje się wszystkim rodentycydom zawierającym antykoagulanty jako substancje aktywne.
-WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 29 listopada 2004 r.
-sygn. akt K 7/04 Trybunał Konstytucyjny składzie: Bohdan Zdziennicki, Adam Jamróz przewodniczący, Teresa Dębowska-Romanowska sprawozdawca, Marian Grzybowski, Biruta Lewaszkiewicz-Petrykowska, po rozpoznaniu, udziałem wnioskodawcy oraz Sejmu Prokuratora Generalnego, rozprawie dniu 29 listopada 2004 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
-1) art. 91 ust. 2 ustawy zdnia 6 kwietnia 1990 r. oPo- orzeka: licji (Dz. U. 2002 r. 7, poz. 58, 19, poz. 185, 74, poz. 676, 81, poz. 731, 113, poz. 984, 1. Art. 91 ust. 2 ustawy dnia 6 kwietnia 1990 r.
-115, poz. 996, 153, poz. 1271, 176, oPolicji (Dz. U. z2002 r. 7, poz. 58, 19, poz. 185, poz. 1457 200, poz. 1688 oraz 2003 r. 90, 74, poz. 676, 81, poz. 731, 113, poz. 984, poz. 844, 113, poz. 1070, 130, poz. 1188 115, poz. 996, 153, poz. 1271, 176, poz. 1457 1190, 137, poz. 1302, 166, poz. 1609 200, poz. 1688, 2003 r. 90, poz. 844, 113, 192, poz. 1873) zakresie, jakim zawiera poz. 1070, 130, poz. 1188 i1190, 137, poz. 1302, on upoważnienie dla ministra właściwego do 166, poz. 1609, 192, poz. 1873 iNr 210, poz. 2036 spraw wewnętrznych do określenia, wporozumie- oraz 2004 r. 171, poz. 1800, 179, poz. 1842 niu ministrem właściwym do spraw finansów 210, poz. 2135) zakresie, jakim upoważnia publicznych, drodze rozporządzenia, szczegóło- ministra właściwego do spraw wewnętrznych do wych zasad cofania zwracania równoważnika określenia, porozumieniu ministrem właściwym pieniężnego za remont zajmowanego lokalu do spraw finansów publicznych, drodze rozporząmieszkalnego, art. 92 ust. 1 Konstytucji Rzeczy- dzenia, szczegółowych zasad cofania izwracania rówpospolitej Polskiej, noważnika pieniężnego za remont zajmowanego loka2) art. 92 ust. 2 ustawy o Policji zakresie, jakim lu mieszkalnego, zgodny zart. 92 ust. 1 Konstyzawiera upoważnienie dla ministra właściwego do tucji Rzeczypospolitej Polskiej.
-spraw wewnętrznych do określenia, wporozumieniu ministrem właściwym do spraw finansów 2. Art. 92 ust. 2 ustawy powołanej wpkt 1 wzakrepublicznych, drodze rozporządzenia, szczegóło- sie, wjakim zawiera upoważnienie dla ministra właściwych zasad cofania zwracania równoważnika wego do spraw wewnętrznych do określenia, poropieniężnego za brak lokalu mieszkalnego, zart. 92 ust. 1 Konstytucji,
-3) art. 94 ust. 2 ustawy o Policji zakresie, jakim zawiera upoważnienie dla ministra właściwego do spraw wewnętrznych do określenia, wdrodze rozporządzenia, szczegółowych zasad cofania zwracania pomocy finansowej uzyskanie lokalu mieszkalnego, art. 92 ust. 1 Konstytucji,
-4) art. 97 ust. 2 ustawy oPolicji zawierający upoważnienie dla ministra właściwego do spraw wewnętrznych do określenia, wporozumieniu zministrem właściwym do spraw budownictwa, gospodarki przestrzennej mieszkaniowej oraz ministrem właściwym do spraw finansów publicznych, drodze rozporządzenia, warunków najmu lokali mieszkalnych znajdujących się wbudynkach będących własnością Skarbu Państwa pozostających zarządzie jednostek organizacyjnych Policji, a także sposobu obliczania czynszu najmu, praw obowiązków najemcy wynajmującego, atakże części składowych czynszu najmu iokoliczności wpływających jego wysokość, art. 92 ust. 1 Konstytucji, zumieniu ministrem właściwym do spraw finansów publicznych, wdrodze rozporządzenia, szczegółowych zasad cofania zwracania równoważnika pieniężnego za brak lokalu mieszkalnego, zgodny art. 92 ust. 1 Konstytucji.
-3. Art. 94 ust. 2 ustawy powołanej wpkt 1 wzakresie, jakim zawiera upoważnienie dla ministra właściwego do spraw wewnętrznych do określenia, drodze rozporządzenia, szczegółowych zasad cofania izwracania pomocy finansowej uzyskanie lokalu mieszkalnego, zgodny zart. 92 ust. 1 Konstytucji.
-4. Art. 97 ust. 2 ustawy powołanej pkt 1 zgodny art. 92 ust. 1 Konstytucji.
-Adam Jamróz Teresa Dębowska-Romanowska Marian Grzybowski Biruta Lewaszkiewicz-Petrykowska Bohdan Zdziennicki 2597 WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 30 listopada 2004 r.
-sygn. akt SK 31/04 Trybunał Konstytucyjny składzie: Mirosław Wyrzykowski, Janusz Niemcewicz przewodniczący Marian Zdyb, Jerzy Ciemniewski Ewa Ęętowska sprawozdawca,
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Adam Jamróz – przewodniczący, Teresa Dębowska-Romanowska – sprawozdawca, Marian Grzybowski, Biruta Lewaszkiewicz-Petrykowska, Bohdan Zdziennicki, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 29 listopada 2004 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
+1)
+art. 91 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, Nr 19, poz. 185, Nr 74, poz. 676, Nr 81, poz. 731, Nr 113, poz. 984, Nr 115, poz. 996, Nr 153, poz. 1271, Nr 176, poz. 1457 i Nr 200, poz. 1688 oraz z 2003 r. Nr 90, poz. 844, Nr 113, poz. 1070, Nr 130, poz. 1188 i 1190, Nr 137, poz. 1302, Nr 166, poz. 1609 i Nr 192, poz. 1873) w zakresie, w jakim zawiera on upoważnienie dla ministra właściwego do spraw wewnętrznych do określenia, w porozumieniu z ministrem właściwym do spraw finansów publicznych, w drodze rozporządzenia, szczegółowych zasad cofania i zwracania równoważnika pieniężnego za remont zajmowanego lokalu mieszkalnego, z art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej,
+2)
+art. 92 ust. 2 ustawy o Policji w zakresie, w jakim zawiera upoważnienie dla ministra właściwego do spraw wewnętrznych do określenia, w porozumieniu z ministrem właściwym do spraw finansów publicznych, w drodze rozporządzenia, szczegółowych zasad cofania i zwracania równoważnika pieniężnego za brak lokalu mieszkalnego, z art. 92 ust. 1 Konstytucji,
+3)
+art. 94 ust. 2 ustawy o Policji w zakresie, w jakim zawiera upoważnienie dla ministra właściwego do spraw wewnętrznych do określenia, w drodze rozporządzenia, szczegółowych zasad cofania i zwracania pomocy finansowej na uzyskanie lokalu mieszkalnego, z art. 92 ust. 1 Konstytucji,
+4)
+art. 97 ust. 2 ustawy o Policji zawierający upoważnienie dla ministra właściwego do spraw wewnętrznych do określenia, w porozumieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej oraz ministrem właściwym do spraw finansów publicznych, w drodze rozporządzenia, warunków najmu lokali mieszkalnych znajdujących się w budynkach będących własnością Skarbu Państwa pozostających w zarządzie jednostek organizacyjnych Policji, a także sposobu obliczania czynszu najmu, praw i obowiązków najemcy i wynajmującego, a także części składowych czynszu najmu i okoliczności wpływających na jego wysokość, z art. 92 ust. 1 Konstytucji,
+orzeka:
+1.
+Art. 91 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, Nr 19, poz. 185, Nr 74, poz. 676, Nr 81, poz. 731, Nr 113, poz. 984, Nr 115, poz. 996, Nr 153, poz. 1271, Nr 176, poz. 1457 i Nr 200, poz. 1688, z 2003 r. Nr 90, poz. 844, Nr 113, poz. 1070, Nr 130, poz. 1188 i 1190, Nr 137, poz. 1302, Nr 166, poz. 1609, Nr 192, poz. 1873 i Nr 210, poz. 2036 oraz z 2004 r. Nr 171, poz. 1800, Nr 179, poz. 1842 i Nr 210, poz. 2135) w zakresie, w jakim upoważnia ministra właściwego do spraw wewnętrznych do określenia, w porozumieniu z ministrem właściwym do spraw finansów publicznych, w drodze rozporządzenia, szczegółowych zasad cofania i zwracania równoważnika pieniężnego za remont zajmowanego lokalu mieszkalnego, jest zgodny z art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 92 ust. 2 ustawy powołanej w pkt 1 w zakresie, w jakim zawiera upoważnienie dla ministra właściwego do spraw wewnętrznych do określenia, w porozumieniu z ministrem właściwym do spraw finansów publicznych, w drodze rozporządzenia, szczegółowych zasad cofania i zwracania równoważnika pieniężnego za brak lokalu mieszkalnego, jest zgodny z art. 92 ust. 1 Konstytucji.
+3.
+Art. 94 ust. 2 ustawy powołanej w pkt 1 w zakresie, w jakim zawiera upoważnienie dla ministra właściwego do spraw wewnętrznych do określenia, w drodze rozporządzenia, szczegółowych zasad cofania i zwracania pomocy finansowej na uzyskanie lokalu mieszkalnego, jest zgodny z art. 92 ust. 1 Konstytucji.
+4.
+Art. 97 ust. 2 ustawy powołanej w pkt 1 jest zgodny z art. 92 ust. 1 Konstytucji.
 

@@ -8,9 +8,10 @@ pos: 1604
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 191 — 12116
+# Wyrok Trybunału Konstytucyjnegoz dnia 5 listopada 2002 r.P. 7/01
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021911604) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1604/text.pdf) |
 
-7. Badanie, októrym mowa wust. 1 pkt 14, przeprowadza się wodniesieniu do młodzieży ubiegającej się oprzyznanie licencji na amatorskie uprawianie podnoszenia ciężarów oraz przed dopuszczeniem do udziału wtreningach izajęciach specjalistycznych wtej dyscyplinie sportu ipowtarza co dwa lata.
-1604 WYROK TRYBUNAĘU zdnia 5 listopada sygn. akt Trybunał Konstytucyjny wskładzie: Teresa Dębowska-Romanowska — przewodnicząca, Wiesław Johann, Biruta Lewaszkiewicz-Petrykowska, Ewa Ęętowska, Marek Mazurkiewicz — sprawozdawca, po rozpoznaniu z udziałem sądu przedstawiającego pytanie prawne oraz Sejmu i Prokuratora Generalnego, na rozprawie wdniu 5 listopada 2002 r., pytania prawnego Sądu Okręgowego wOlsztynie — Sądu Pracy i Ubezpieczeń Społecznych o zbadanie zgodności: czy przepis art. 3 ust. 1 i 2 ustawy z dnia 8 grudnia 2000 r. ozmianie ustawy ozaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, PaństwoISSN 0867-3411
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Teresa Dębowska-Romanowska – przewodnicząca, Wiesław Johann, Biruta Lewaszkiewicz-Petrykowska, Ewa Łętowska, Marek Mazurkiewicz – sprawozdawca, protokolant: Grażyna Szałygo, po rozpoznaniu z udziałem sądu przedstawiającego pytanie prawne oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 5 listopada 2002 r., pytania prawnego Sądu Okręgowego w Olsztynie – Sądu Pracy i Ubezpieczeń Społecznych o zbadanie zgodności: czy przepis art. 3 ust. 1 i 2 ustawy z dnia 8 grudnia 2000 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. Nr 122, poz. 1313) jest zgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej, orzeka: Art. 3 ust. 1 i 2 ustawy z dnia 8 grudnia 2000 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. Nr 122, poz. 1313) jest niezgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej.
 

@@ -8,9 +8,10 @@ pos: 459
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ustawa z dnia 20 marca 2009 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+# Ustawa z dnia 20 marca 2009 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,55 +25,377 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090560459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/459/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. 98, poz. 1070, z póên. zm. ) wprowadza się następujące zmiany:
+## Załącznik nr 1 — – Stawki wynagrodzenia zasadniczego na poszczególnych stanowiskach sędziowskich oraz mnożniki, służące do ustalenia wysokości wynagrodzenia zasadniczego sędziów
 
-**Art. 2.** W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. 20, poz. 101, z póên. zm. ) w art. 2 w pkt 2 skreśla się wyrazy ŃPrezesa Trybunału Konstytucyjnego,” oraz Ńwiceprezesa Trybunału Konstytucyjnego,”.
+## Załącznik nr 2 — – Tabela mnożników służących do ustalenia wysokości dodatków funkcyjnych
 
-**Art. 3.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. 7, poz. 39 oraz z 2009 r. 1, poz. 4 iNr 26, poz. 156 i157) wprowadza się następujące zmiany:
+## Załącznik nr 3 — – Tabela określająca staż pracy na zajmowanym stanowisku oraz ogólny staż pracy niezbędny do uzyskania poszczególnych stawek wynagrodzenia zasadniczego
 
-**Art. 4.** Wustawie zdnia 1 sierpnia 1997 r. oTrybunale Konstytucyjnym (Dz. U. 102, poz. 643, zpóên. zm. ry, z wyłączeniem art. 50 ust. 2a, 3 i 4, art. 51a, art. 62 ust. 1a—1ba oraz ust. 1ea—1ee i ust. 1h—1k oraz art. 62a ust. 1 w zakresie art. 69—71, art. 73, 74, 99—102 i 104 ustawy, o której mowa w art. 62a ust. 1 oraz art. 62a ust. 2—5, atakże art. 62b, 62ci65a.”, ) wprowadza się następujące zmiany:
+Art. 1.
+W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) wprowadza się następujące zmiany:
+1)
+w art. 77 w § 6 w pkt 1 lit. b otrzymuje brzmienie:
+„
+b)
+miesięcznego ryczałtu – w kwocie nie wyższej niż 78 % podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c,
+” ;
+2)
+w art. 91:
+a)
+§ 1 otrzymuje brzmienie:
+„
+§ 1.
+Wysokość wynagrodzenia sędziów, zajmujących równorzędne stanowiska sędziowskie, różnicuje staż pracy lub pełnione funkcje.
+” ,
+b)
+uchyla się § 1a i 1b,
+c)
+po § 1b dodaje się § 1c i 1d w brzmieniu:
+„
+§ 1c.
+Podstawę ustalenia wynagrodzenia zasadniczego sędziego w danym roku stanowi przeciętne wynagrodzenie w drugim kwartale roku poprzedniego, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.), z zastrzeżeniem § 1d.
+§ 1d.
+Jeżeli przeciętne wynagrodzenie, o którym mowa w § 1c, jest niższe od przeciętnego wynagrodzenia ogłoszonego za drugi kwartał roku poprzedzającego – przyjmuje się podstawę ustalenia wynagrodzenia zasadniczego sędziego w dotychczasowej wysokości.
+” ,
+d)
+§ 2 otrzymuje brzmienie:
+„
+§ 2.
+Wynagrodzenie zasadnicze sędziego określa się w stawkach, których wysokość ustala się z zastosowaniem mnożników podstawy ustalenia wynagrodzenia zasadniczego, o której mowa w § 1c. Stawki wynagrodzenia zasadniczego na poszczególnych stanowiskach sędziowskich oraz mnożniki, służące do ustalenia wysokości wynagrodzenia zasadniczego sędziów w poszczególnych stawkach, określa załącznik do ustawy.
+” ,
+e)
+uchyla się § 2a-5,
+f)
+§ 6 otrzymuje brzmienie:
+„
+§ 6.
+W związku z pełnioną funkcją sędziemu przysługuje dodatek funkcyjny.
+” ,
+g)
+§ 8 otrzymuje brzmienie:
+„
+§ 8.
+Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, funkcje z tytułu których przysługują sędziom dodatki funkcyjne oraz sposób ustalania tych dodatków, biorąc pod uwagę rodzaj funkcji, wielkość jednostki organizacyjnej oraz zakres obowiązków.
+” ;
+3)
+po art. 91 dodaje się art. 91a w brzmieniu:
+„
+Art. 91a.
+§ 1.
+Sędziemu obejmującemu stanowisko w sądzie rejonowym przysługuje wynagrodzenie zasadnicze w stawce pierwszej. Sędziemu obejmującemu stanowisko w sądzie okręgowym przysługuje wynagrodzenie zasadnicze w stawce czwartej, a jeżeli na niższym stanowisku otrzymywał już wynagrodzenie w stawce czwartej albo piątej – przysługuje mu wynagrodzenie zasadnicze w stawce, odpowiednio, piątej albo szóstej. Sędziemu obejmującemu stanowisko w sądzie apelacyjnym przysługuje wynagrodzenie zasadnicze w stawce siódmej, a jeżeli na niższym stanowisku otrzymywał już wynagrodzenie w stawce siódmej albo ósmej – przysługuje mu wynagrodzenie zasadnicze w stawce, odpowiednio, ósmej albo dziewiątej.
+§ 2.
+Jeżeli przed objęciem stanowiska sędziowskiego sędzia zajmował inne, odpowiednio równorzędne, stanowisko sędziowskie lub prokuratorskie, na obejmowanym stanowisku przysługuje mu wynagrodzenie zasadnicze w stawce nie niższej od stawki, w której przysługiwało mu na stanowisku zajmowanym poprzednio.
+§ 3.
+Wynagrodzenie zasadnicze sędziego określa się w stawce bezpośrednio wyższej po upływie kolejnych pięciu lat pracy na danym stanowisku sędziowskim.
+§ 4.
+Do okresu pracy na stanowisku sędziego sądu rejonowego dolicza się okres powierzenia pełnienia czynności sędziowskich na stanowisku asesora sądowego.
+§ 5.
+Sędziemu, któremu z chwilą objęcia stanowiska w sądzie okręgowym przysługiwało wynagrodzenie zasadnicze w stawce czwartej albo piątej, a także sędziemu, któremu z chwilą objęcia stanowiska w sądzie apelacyjnym przysługiwało wynagrodzenie zasadnicze w stawce siódmej albo ósmej, do okresu pracy niezbędnego do uzyskania wynagrodzenia w stawce bezpośrednio wyższej zalicza się okres pracy na stanowisku bezpośrednio niższym, w którym sędziemu przysługiwało wynagrodzenie zasadnicze w stawce, odpowiednio, trzeciej albo czwartej, szóstej albo siódmej.
+§ 6.
+Okres pracy, o którym mowa w § 3, ulega wydłużeniu o trzy lata w razie ukarania sędziego w tym czasie karą dyscyplinarną, dwukrotnego wytknięcia uchybienia, o którym mowa w art. 40, lub dwukrotnego zwrócenia uwagi w trybie określonym w art. 37 § 4.
+” ;
+4)
+w art. 100 § 3 otrzymuje brzmienie:
+„
+§ 3.
+Uposażenie, o którym mowa w § 1 i 2, podwyższa się stosownie do zmian wysokości wynagrodzeń zasadniczych sędziów czynnych zawodowo.
+” ;
+5)
+w art. 136 § 1 i 2 otrzymują brzmienie:
+„
+§ 1.
+Wysokość wynagrodzenia zasadniczego asesora sądowego wynosi 80 % wynagrodzenia zasadniczego sędziego sądu rejonowego w stawce pierwszej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego.
+§ 2.
+Do asesorów sądowych, którym powierzono pełnienie czynności sędziowskich, stosuje się przepisy dotyczące sędziów, z wyjątkiem art. 66, art. 68 § 2, art. 69–74, art. 77 § 1–5 i § 7, art. 91 § 1, § 1c-2 oraz § 9–11, art. 91a, art. 94a, art. 94b, art. 98 oraz art. 102.
+” ;
+6)
+w art. 151b § 1 i 2 otrzymują brzmienie:
+„
+§ 1.
+Wynagrodzenie zasadnicze referendarza sądowego wynosi 75 % wynagrodzenia zasadniczego w stawce pierwszej sędziego sądu rejonowego, powiększonego o należną składkę z tytułu ubezpieczenia społecznego. Po siedmiu latach pracy na stanowisku referendarza sądowego wynagrodzenie zasadnicze podwyższa się do wysokości 75 % wynagrodzenia zasadniczego sędziego sądu rejonowego w stawce drugiej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego, a po dalszych siedmiu latach pracy – do wysokości 75 % wynagrodzenia zasadniczego sędziego sądu rejonowego w stawce trzeciej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego.
+§ 2.
+Wynagrodzenie zasadnicze starszego referendarza sądowego wynosi 85 % wynagrodzenia zasadniczego sędziego sądu rejonowego w stawce drugiej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego. Po siedmiu latach pracy na stanowisku starszego referendarza sądowego wynagrodzenie zasadnicze podwyższa się do wysokości 85 % wynagrodzenia zasadniczego sędziego sądu rejonowego w stawce trzeciej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego.
+” ;
+7)
+w art. 172:
+a)
+§ 4 otrzymuje brzmienie:
+„
+§ 4.
+Wysokość rekompensaty dla ławników biorących udział w rozpoznawaniu spraw w sądach powszechnych, za jeden dzień pełnienia obowiązków ławnika, wynosi 1,9 % podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c.
+” ,
+b)
+uchyla się § 5;
+8)
+dodaje się załącznik do ustawy w brzmieniu określonym w załączniku nr 1 do niniejszej ustawy.
+Art. 2.
+W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. Nr 20, poz. 101, z późn. zm.) w art. 2 w pkt 2 skreśla się wyrazy „Prezesa Trybunału Konstytucyjnego,” oraz „wiceprezesa Trybunału Konstytucyjnego,”.
+Art. 3.
+W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. Nr 7, poz. 39 oraz z 2009 r. Nr 1, poz. 4 i Nr 26, poz. 156 i 157) wprowadza się następujące zmiany:
+1)
+w art. 50 w ust. 5 w pkt 1 lit. b otrzymuje brzmienie:
+„
+b)
+miesięcznego ryczałtu – w kwocie nie wyższej niż 78 % podstawy ustalenia wynagrodzenia zasadniczego prokuratora, o której mowa w art. 61a;
+” ;
+2)
+po art. 61 dodaje się art. 61a w brzmieniu:
+„
+Art. 61a.
+1.
+Podstawę ustalenia wynagrodzenia zasadniczego prokuratora w danym roku stanowi przeciętne wynagrodzenie w drugim kwartale roku poprzedniego, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.), z zastrzeżeniem ust. 2.
+2.
+Jeżeli przeciętne wynagrodzenie, o którym mowa w ust. 1, jest niższe od przeciętnego wynagrodzenia ogłoszonego za drugi kwartał roku poprzedzającego – przyjmuje się podstawę ustalenia wynagrodzenia zasadniczego prokuratora w dotychczasowej wysokości.
+” ;
+3)
+w art. 62:
+a)
+ust. 1 i 1a otrzymują brzmienie:
+„
+1.
+Wynagrodzenie zasadnicze prokuratorów, zajmujących równorzędne stanowiska prokuratorskie, jest równe; wysokość wynagrodzenia prokuratorów zajmujących równorzędne stanowiska prokuratorskie różnicuje staż pracy lub pełnione funkcje. Wynagrodzenie zasadnicze prokuratorów jest równe wynagrodzeniu zasadniczemu sędziów w takich samych jednostkach organizacyjnych sądów powszechnych. Wynagrodzenie zasadnicze prokuratorów Prokuratury Krajowej jest równe wynagrodzeniu zasadniczemu sędziów Sądu Najwyższego.
+1a.
+Wynagrodzenie zasadnicze prokuratora określa się w stawkach, których wysokość ustala się z zastosowaniem mnożników podstawy ustalenia wynagrodzenia zasadniczego, o której mowa w art. 61a.
+” ,
+b)
+uchyla się ust. 1b,
+c)
+po ust. 1b dodaje się ust. 1ba w brzmieniu:
+„
+1ba.
+Prokuratorowi obejmującemu stanowisko w prokuraturze rejonowej przysługuje wynagrodzenie zasadnicze w stawce pierwszej. Prokuratorowi obejmującemu stanowisko w prokuraturze okręgowej przysługuje wynagrodzenie zasadnicze w stawce czwartej, a jeżeli na niższym stanowisku otrzymywał już wynagrodzenie w stawce czwartej albo piątej – przysługuje mu wynagrodzenie zasadnicze w stawce, odpowiednio, piątej albo szóstej. Prokuratorowi obejmującemu stanowisko w prokuraturze apelacyjnej przysługuje wynagrodzenie zasadnicze w stawce siódmej, a jeżeli na niższym stanowisku otrzymywał już wynagrodzenie w stawce siódmej albo ósmej – przysługuje mu wynagrodzenie zasadnicze w stawce, odpowiednio, ósmej albo dziewiątej.
+” ,
+d)
+uchyla się ust. 1c-1e,
+e)
+po ust. 1e dodaje się ust. 1ea-1ee w brzmieniu:
+„
+1ea.
+Jeżeli przed objęciem stanowiska prokuratorskiego prokurator zajmował inne, odpowiednio równorzędne, stanowisko prokuratorskie lub sędziowskie, na obejmowanym stanowisku przysługuje mu wynagrodzenie zasadnicze w stawce nie niższej od stawki, w której przysługiwało mu na stanowisku zajmowanym poprzednio.
+1eb.
+Wynagrodzenie zasadnicze prokuratora określa się w stawce bezpośrednio wyższej po upływie kolejnych pięciu lat pracy na danym stanowisku prokuratorskim.
+1ec.
+Do okresu pracy na stanowisku prokuratora prokuratury rejonowej dolicza się okres powierzenia pełnienia czynności prokuratorskich na stanowisku asesora prokuratorskiego.
+1ed.
+Prokuratorowi, któremu z chwilą objęcia stanowiska w prokuraturze okręgowej przysługiwało wynagrodzenie zasadnicze w stawce czwartej albo piątej, a także prokuratorowi, któremu z chwilą objęcia stanowiska w prokuraturze apelacyjnej przysługiwało wynagrodzenie zasadnicze w stawce siódmej albo ósmej, do okresu pracy niezbędnego do uzyskania wynagrodzenia w stawce bezpośrednio wyższej zalicza się okres pracy na stanowisku bezpośrednio niższym, w którym prokuratorowi przysługiwało wynagrodzenie zasadnicze w stawce, odpowiednio, trzeciej albo czwartej, szóstej albo siódmej.
+1ee.
+Okres pracy, o którym mowa w ust. 1eb, ulega wydłużeniu o trzy lata w razie ukarania prokuratora w tym czasie karą dyscyplinarną lub dwukrotnego wytknięcia uchybienia, o którym mowa w art. 8 ust. 7.
+” ,
+f)
+ust. 1f otrzymuje brzmienie:
+„
+1f.
+W związku z pełnioną funkcją prokuratorowi przysługuje dodatek funkcyjny.
+” ,
+g)
+ust. 1l otrzymuje brzmienie:
+„
+11.
+Przepisów ust. 1a, 1ba oraz ust. 1ea-1ee nie stosuje się do prokuratorów Prokuratury Krajowej.
+” ,
+h)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Rada Ministrów określi, w drodze rozporządzenia:
+1)
+stawki wynagrodzenia zasadniczego na poszczególnych stanowiskach prokuratorskich oraz mnożniki, służące do ustalenia wysokości wynagrodzenia zasadniczego prokuratorów w poszczególnych stawkach, mając na względzie zasady określone w art. 62 ust. 1,
+2)
+wysokość dodatków funkcyjnych przysługujących prokuratorom, oraz sposób ich ustalania, biorąc pod uwagę rodzaj funkcji, wielkość jednostki organizacyjnej oraz zakres obowiązków.
+” ;
+4)
+w art. 100:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Do asesorów powszechnych jednostek organizacyjnych prokuratury stosuje się odpowiednio przepisy dotyczące prokuratorów tych prokuratur, a do asesorów wojskowych – przepisy dotyczące prokuratorów wojskowych jednostek organizacyjnych prokuratury, z wyłączeniem art. 50 ust. 2a, 3 i 4, art. 51a, art. 62 ust. 1a-1ba oraz ust. 1ea-1ee i ust. 1h-1k oraz art. 62a ust. 1 – w zakresie art. 69–71, art. 73, 74, 99–102 i 104 ustawy, o której mowa w art. 62a ust. 1 – oraz art. 62a ust. 2–5, a także art. 62b, 62c i 65a.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Wysokość wynagrodzenia zasadniczego asesora prokuratorskiego wynosi 80 % wynagrodzenia zasadniczego prokuratora prokuratury rejonowej w stawce pierwszej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego.
+” .
+Art. 4.
+W ustawie z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z późn. zm.) wprowadza się następujące zmiany:
+1)
+art. 6 otrzymuje brzmienie:
+„
+Art. 6.
+1.
+Sędziowie Trybunału w sprawowaniu swojego urzędu są niezawiśli i podlegają tylko Konstytucji.
+2.
+Wynagrodzenie zasadnicze sędziego Trybunału stanowi wielokrotność podstawy ustalenia tego wynagrodzenia, z zastosowaniem mnożnika 5,0.
+3.
+Podstawę ustalenia wynagrodzenia zasadniczego sędziego Trybunału w danym roku stanowi przeciętne wynagrodzenie w drugim kwartale roku poprzedniego, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.), z zastrzeżeniem ust. 4.
+4.
+Jeżeli przeciętne wynagrodzenie, o którym mowa w ust. 3, jest niższe od przeciętnego wynagrodzenia ogłoszonego za drugi kwartał roku poprzedzającego – przyjmuje się podstawę ustalenia wynagrodzenia zasadniczego sędziego Trybunału w dotychczasowej wysokości.
+5.
+Wynagrodzenie prezesa oraz wiceprezesa Trybunału odpowiada wynagrodzeniu zasadniczemu sędziego Trybunału powiększonemu o dodatek funkcyjny ustalany według podstawy, o której mowa w ust. 3, z zastosowaniem mnożnika, odpowiednio: 1,2 oraz 0,8.
+6.
+Sędzia Trybunału po zakończeniu swojej kadencji przechodzi w stan spoczynku.
+7.
+Sędzia Trybunału po zakończeniu swojej kadencji ma prawo powrócić na poprzednio zajmowane stanowisko lub otrzymać stanowisko równorzędne poprzednio zajmowanemu. Do sędziego, który skorzysta z tego prawa, nie ma zastosowania przepis ust. 6.
+8.
+W zakresie nieuregulowanym w ustawie do praw i obowiązków oraz odpowiedzialności dyscyplinarnej sędziów Trybunału stosuje się odpowiednio przepisy dotyczące praw i obowiązków oraz odpowiedzialności dyscyplinarnej sędziów Sądu Najwyższego.
+” ;
+2)
+art. 17 otrzymuje brzmienie:
+„
+Art. 17.
+1.
+Organizacyjne i administracyjne warunki pracy Trybunału zapewnia prezes Trybunału oraz podległe mu Biuro Trybunału.
+2.
+Biurem Trybunału kieruje szef, którego powołuje i odwołuje Zgromadzenie Ogólne na wniosek prezesa Trybunału.
+3.
+Wynagrodzenie szefa Biura Trybunału jest ustalane na podstawie przepisów o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe w zakresie dotyczącym sekretarza stanu.
+4.
+Szczegółowy zakres zadań i strukturę Biura Trybunału określa statut.
+5.
+Do pracowników Biura Trybunału stosuje się przepisy o pracownikach urzędów państwowych.
+” .
+Art. 5.
+W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2007 r. Nr 226, poz. 1676, z 2008 r. Nr 237, poz. 1651 oraz z 2009 r. Nr 26, poz. 157) w art. 70 § 1 i 1a otrzymują brzmienie:
+„
+§ 1.
+Do sądów wojskowych, sędziów wojskowych oraz ławników stosuje się odpowiednio przepisy art. 4 i art. 5, art. 40, art. 42, art. 44–52, art. 53 § 1–3, art. 54, art. 56, art. 57 § 1, art. 58 § 1 i § 4–6, art. 60, art. 65, art. 66, art. 69 § 2, art. 70, art. 71, art. 73–75, art. 77 § 2, § 2a, § 4, § 4a, § 5 i § 6, art. 78 § 1–4, art. 78a § 1–3 i § 6, art. 79, art. 80 § 4, art. 83, art. 84 § 3, art. 85, art. 86, art. 89, art. 90, art. 91 § 1, § 1c-2, § 6–7 oraz § 9–12, art. 91a, art. 92, art. 93, art. 94 § 1, § 3 i § 4, art. 95, art. 98 § 1, art. 99, art. 100 § 1–4, art. 101 § 2–4, art. 102, art. 104–106, art. 108, art. 111, art. 114 § 5–7, art. 115–118, art. 120–122, art. 125–128, art. 130, art. 131, art. 133, art. 135 § 5–7, art. 147 § 3, art. 156, art. 159 § 1 pkt 5 i pkt 6, art. 167, art. 169, art. 170 § 3 i art. 171–174 ustawy, o której mowa w art. 32 § 6, oraz przepisy wydane na podstawie art. 57 § 5, art. 58 § 7, art. 78 § 5, art. 78a § 7, art. 91 § 8 i art. 148 § 2 tejże ustawy, z tym że:
+1)
+określone w tych przepisach czynności i uprawnienia Ministra Sprawiedliwości, zgromadzenia ogólnego sędziów, kolegium sądu, prezesów sądów rejonowych i okręgowych oraz prezesa sądu dyscyplinarnego wykonują odpowiednio: Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej, Zgromadzenie Sędziów Sądów Wojskowych, kolegium wojskowego sądu okręgowego, prezesi sądów wojskowych i prezes sądu dyscyplinarnego, a czynności i uprawnienia prezesa sądu apelacyjnego w zakresie nadzoru administracyjnego – Minister Sprawiedliwości za pośrednictwem dyrektora departamentu, o którym mowa w art. 5 § 4;
+2)
+uprawnienia określone w art. 92 § 1 powołanej ustawy przysługują, jeżeli sędzia wojskowy nie nabył wcześniej prawa do urlopu dodatkowego określonego w przepisach ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2008 r. Nr 141, poz. 892, Nr 206, poz. 1288 i Nr 208, poz. 1308 oraz z 2009 r. Nr 26, poz. 157);
+3)
+przepisów art. 131 powołanej ustawy nie stosuje się w przypadkach określonych w art. 15 niniejszej ustawy;
+4)
+uprawnienia określone w art. 172–174 powołanej ustawy przysługują w przypadku określonym w art. 61 niniejszej ustawy;
+5)
+uprawnienia określone w art. 172 § 3 i art. 173 powołanej ustawy nie przysługują ławnikom w czynnej służbie wojskowej;
+6)
+obsada wolnych stanowisk sędziowskich, o których mowa w art. 56 § 1 i 2 powołanej ustawy, następuje z uwzględnieniem potrzeb kadrowych sądownictwa wojskowego.
+§ 1a.
+Do asesorów sądów wojskowych, którym powierzono pełnienie czynności sędziowskich, nie stosuje się art. 66, art. 69–71, art. 74, art. 77 § 5 i § 7, art. 91 § 1, § 1c-2 i § 9–11 oraz art. 91a, art. 94a i art. 94b ustawy, o której mowa w art. 32 § 6.
+” .
+W ustawie z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. Nr 240, poz. 2052, z 2004 r. Nr 25, poz. 219, z 2006 r. Nr 157, poz. 1119 oraz z 2008 r. Nr 234, poz. 1571) wprowadza się następujące zmiany:
+1)
+art. 42 otrzymuje brzmienie:
+„
+Art. 42 § 1. Wynagrodzenie zasadnicze sędziego Sądu Najwyższego stanowi wielokrotność podstawy ustalenia tego wynagrodzenia, z zastosowaniem mnożnika 4,13.
+§ 2.
+Podstawę ustalenia wynagrodzenia zasadniczego sędziego Sądu Najwyższego w danym roku stanowi przeciętne wynagrodzenie w drugim kwartale roku poprzedniego, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.), z zastrzeżeniem § 3.
+§ 3.
+Jeżeli przeciętne wynagrodzenie, o którym mowa w § 2, jest niższe od przeciętnego wynagrodzenia ogłoszonego za drugi kwartał roku poprzedzającego – przyjmuje się podstawę ustalenia wynagrodzenia zasadniczego sędziego Sądu Najwyższego w dotychczasowej wysokości.
+§ 4.
+Wynagrodzenie sędziego Sądu Najwyższego określa się w stawce podstawowej albo w stawce awansowej. Stawka awansowa stanowi 115 % stawki podstawowej.
+§ 5.
+Sędzia Sądu Najwyższego, obejmując stanowisko, otrzymuje wynagrodzenie zasadnicze w stawce podstawowej. Po siedmiu latach pracy wynagrodzenie zasadnicze sędziego podwyższa się do stawki awansowej.
+§ 6.
+W związku z pełnioną funkcją sędziemu Sądu Najwyższego przysługuje dodatek funkcyjny, którego wysokość ustala się z zastosowaniem mnożników podstawy ustalenia wynagrodzenia zasadniczego sędziego Sądu Najwyższego, o której mowa w § 2.
+§ 7.
+Tabelę mnożników służących do ustalenia wysokości dodatków funkcyjnych określa załącznik do ustawy.
+” ;
+2)
+dodaje się załącznik do ustawy w brzmieniu określonym w załączniku nr 2 do niniejszej ustawy.
+Art. 7.
+W ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. Nr 26, poz. 157) wprowadza się następujące zmiany:
+1)
+w art. 11 ust. 2 otrzymuje brzmienie:
+„
+2.
+Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość diet, o których mowa w ust. 1 pkt 1, nie wyższą niż 10 % podstawy ustalenia wynagrodzenia zasadniczego sędziego, biorąc pod uwagę zakres obowiązków członków Rady.
+” ;
+2)
+w art. 37 ust. 2 otrzymuje brzmienie:
+„
+2.
+Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia członków zespołu konkursowego i zespołu egzaminacyjnego oraz komisji konkursowej i komisji egzaminacyjnej, w wymiarze nie większym niż miesięczne wynagrodzenie zasadnicze sędziego w stawce piątej – uwzględniając zakres i rodzaj obowiązków oraz nakład pracy.
+” ;
+3)
+w art. 42 ust. 2 i 3 otrzymują brzmienie:
+„
+2.
+Wysokość stypendium aplikanta aplikacji ogólnej nie może przekroczyć 70 % wysokości najniższego wynagrodzenia zasadniczego referendarza sądowego.
+3.
+Wysokość stypendium aplikanta aplikacji sędziowskiej i aplikanta aplikacji prokuratorskiej odpowiada wysokości najniższego wynagrodzenia zasadniczego referendarza sądowego.
+” ;
+4)
+art. 45 otrzymuje brzmienie:
+„
+Art. 45.
+W okresie stażu aplikant aplikacji sędziowskiej otrzymuje wynagrodzenie za pracę ustalone w wysokości odpowiadającej wysokości najniższego wynagrodzenia zasadniczego referendarza sądowego.
+” ;
+5)
+w art. 49 ust. 3 otrzymuje brzmienie:
+„
+3.
+Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia patronów koordynatorów oraz patronów poszczególnych praktyk i staży, w wymiarze nie większym niż 25 % podstawy ustalenia wynagrodzenia zasadniczego sędziego i prokuratora, uwzględniając zakres i nakład ich pracy.
+” ;
+6)
+w art. 57 uchyla się pkt 6 i 7;
+7)
+w art. 58 w pkt 7 w lit. a § 1 otrzymuje brzmienie:
+„
+§ 1.
+Do sądów wojskowych, sędziów wojskowych oraz ławników stosuje się odpowiednio przepisy art. 4 i art. 5, art. 40, art. 42, art. 44–52, art. 53 § 1–3, art. 54, art. 56, art. 57 § 1, art. 58 § 1 i § 4–6, art. 60, art. 65, art. 66, art. 69 § 2, art. 70, art. 71, art. 73–75, art. 77 § 2, § 2a, § 4, § 4a, § 5 i § 6, art. 78 § 1–4, art. 78a § 1–3 i § 6, art. 79, art. 80 § 4, art. 83, art. 84 § 3, art. 85, art. 86, art. 89, art. 90, art. 91 § 1, § 1c-2, § 6–7 oraz § 9–12, art. 91a, art. 92, art. 93, art. 94 § 1, § 3 i § 4, art. 95, art. 98 § 1, art. 99, art. 100 § 1–4, art. 101 § 2–4, art. 102, art. 104–106, art. 108, art. 111, art. 114 § 5–7, art. 115–118, art. 120–122, art. 125–128, art. 130, art. 131, art. 133, art. 147 § 3, art. 156, art. 159 § 1 pkt 5 i pkt 6, art. 167, art. 169, art. 170 § 3 i art. 171–174 ustawy, o której mowa w art. 32 § 6, oraz przepisy wydane na podstawie art. 57 § 5, art. 58 § 7, art. 78 § 5, art. 78a § 7, art. 91 § 8 i art. 148 § 2 tejże ustawy, z tym że:
+1)
+określone w tych przepisach czynności i uprawnienia Ministra Sprawiedliwości, zgromadzenia ogólnego sędziów, kolegium sądu, prezesów sądów rejonowych i okręgowych oraz prezesa sądu dyscyplinarnego wykonują odpowiednio: Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej, Zgromadzenie Sędziów Sądów Wojskowych, kolegium wojskowego sądu okręgowego, prezesi sądów wojskowych i prezes sądu dyscyplinarnego, a czynności i uprawnienia prezesa sądu apelacyjnego w zakresie nadzoru administracyjnego – Minister Sprawiedliwości za pośrednictwem dyrektora departamentu, o którym mowa w art. 5 § 4;
+2)
+uprawnienia określone w art. 92 § 1 powołanej ustawy przysługują, jeżeli sędzia wojskowy nie nabył wcześniej prawa do urlopu dodatkowego określonego w przepisach ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2008 r. Nr 141, poz. 892, Nr 206, poz. 1288 i Nr 208, poz. 1308 oraz z 2009 r. Nr 26, poz. 157);
+3)
+przepisów art. 131 powołanej ustawy nie stosuje się w przypadkach określonych w art. 15 niniejszej ustawy;
+4)
+uprawnienia określone w art. 172–174 powołanej ustawy przysługują w przypadku określonym w art. 61 niniejszej ustawy;
+5)
+uprawnienia określone w art. 172 § 3 i art. 173 powołanej ustawy nie przysługują ławnikom w czynnej służbie wojskowej;
+6)
+obsada wolnych stanowisk sędziowskich, o których mowa w art. 56 § 1 i 2 powołanej ustawy, następuje z uwzględnieniem potrzeb kadrowych sądownictwa wojskowego.
+” .
+Art. 8.
+Przepisy ustawy mają zastosowanie od dnia 1 stycznia 2009 r. do wynagrodzeń sędziów sądów powszechnych i wojskowych, sędziów Sądu Najwyższego, sędziów wojewódzkich sądów administracyjnych, sędziów Naczelnego Sądu Administracyjnego, prezesa i wiceprezesa Trybunału Konstytucyjnego, sędziów Trybunału Konstytucyjnego, prokuratorów powszechnych jednostek organizacyjnych prokuratury, prokuratorów wojskowych jednostek organizacyjnych prokuratury, prokuratorów Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, asesorów sądowych i prokuratorskich, referendarzy sądowych oraz uposażeń sędziów i prokuratorów w stanie spoczynku.
+Art. 9.
+Do czasu wejścia w życie aktu wykonawczego wydanego na podstawie art. 62 ust. 2 ustawy z dnia 20 czerwca 1985 r. o prokuraturze, w brzmieniu nadanym niniejszą ustawą, wysokość wynagrodzenia zasadniczego prokuratora w poszczególnych stawkach ustala się z zastosowaniem zasad odnoszących się do sędziów, określonych w art. 91 § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w brzmieniu nadanym niniejszą ustawą.
+Art. 10.
+1.
+Z dniem 1 stycznia 2009 r. wynagrodzenia zasadnicze sędziów sądów rejonowych określa się w stawkach od pierwszej do czwartej, wynagrodzenia zasadnicze sędziów sądów okręgowych – w stawkach od czwartej do siódmej, a wynagrodzenia zasadnicze sędziów sądów apelacyjnych – w stawkach od siódmej do dziesiątej, według zasad określonych w ust. 2–4.
+2.
+Stawkę wynagrodzenia zasadniczego sędziego ustala się uwzględniając staż pracy sędziego na stanowisku zajmowanym w dniu 1 stycznia 2009 r., a jeżeli jest to korzystniejsze – staż pracy sędziego na wszystkich dotychczas zajmowanych stanowiskach sędziowskich lub prokuratorskich (ogólny staż pracy); uwzględnienie ogólnego stażu pracy nie może jednak stanowić podstawy ustalenia wynagrodzenia zasadniczego sędziego sądu okręgowego w stawce szóstej i siódmej, a w przypadku sędziego sądu apelacyjnego – w stawce dziewiątej i dziesiątej. Staż pracy na zajmowanym stanowisku oraz ogólny staż pracy, niezbędny do uzyskania poszczególnych stawek wynagrodzenia zasadniczego, określa tabela, stanowiąca załącznik nr 3 do niniejszej ustawy.
+3.
+Do ogólnego stażu pracy wlicza się okres powierzenia pełnienia czynności sędziowskich na stanowisku asesora sądowego, a także czas pozostawania poza zawodem sędziowskim, jeżeli spowodowane było represjami za polityczną postawę sędziego, o ile powrót do zawodu nastąpił nie później niż do 31 grudnia 1990 r.
+4.
+Staż pracy na zajmowanym stanowisku oraz ogólny staż pracy, o których mowa w ust. 2, ulegają wydłużeniu o trzy lata w razie ukarania sędziego karą dyscyplinarną, dwukrotnego wytknięcia uchybienia, o którym mowa w art. 40 ustawy zmienianej w art. 1, lub dwukrotnego zwrócenia uwagi w trybie określonym w art. 37 § 4 ustawy zmienianej w art. 1, chyba że uprawniony organ zarządził usunięcie, odpowiednio, wyroków, postanowień lub pism z akt osobowych sędziego.
+5.
+Określenie wynagrodzenia zasadniczego sędziego sądu rejonowego w stawce piątej, a sędziego sądu okręgowego w stawce ósmej, może nastąpić nie wcześniej niż z dniem 1 stycznia 2014 r.
+Art. 11.
+1.
+Z dniem 1 stycznia 2009 r. wynagrodzenia zasadnicze prokuratorów prokuratur rejonowych określa się w stawkach od pierwszej do czwartej, wynagrodzenia zasadnicze prokuratorów prokuratur okręgowych – w stawkach od czwartej do siódmej, a wynagrodzenia zasadnicze prokuratorów prokuratur apelacyjnych – w stawkach od siódmej do dziesiątej. Przepisy art. 10 ust. 2–5 stosuje się odpowiednio.
+2.
+Z dniem 1 stycznia 2009 r. wynagrodzenia prokuratorów powołanych przed tym dniem na stanowisko prokuratora prokuratury okręgowej w prokuraturze rejonowej określa się w stawce czwartej, a prokuratorów powołanych na stanowisko prokuratora prokuratury apelacyjnej w prokuraturze okręgowej – w stawce siódmej.
+Art. 12.
+1.
+Z dniem 1 stycznia 2009 r. wysokość uposażeń sędziów, którzy przeszli albo zostali przeniesieni w stan spoczynku przed 1 stycznia 2009 r., określa się z zastosowaniem stawek wynagrodzenia zasadniczego sędziów, o których mowa w art. 91 § 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą według zasad określonych w ust. 2–4.
+2.
+Jeżeli ostatnio zajmowanym stanowiskiem było stanowisko sędziego sądu rejonowego: stawka podstawowa wynagrodzenia zasadniczego odpowiada stawce pierwszej, stawka pierwsza awansowa odpowiada stawce drugiej, a stawka druga awansowa odpowiada stawce trzeciej.
+3.
+Jeżeli ostatnio zajmowanym stanowiskiem było stanowisko sędziego sądu okręgowego: stawka podstawowa wynagrodzenia zasadniczego odpowiada stawce czwartej, stawka pierwsza awansowa odpowiada stawce piątej, a stawka druga awansowa odpowiada stawce szóstej.
+4.
+Jeżeli ostatnio zajmowanym stanowiskiem było stanowisko sędziego sądu apelacyjnego: stawka podstawowa wynagrodzenia zasadniczego odpowiada stawce siódmej, stawka pierwsza awansowa odpowiada stawce ósmej, a stawka druga awansowa odpowiada stawce dziewiątej.
+5.
+Przepisy ust. 1–4 stosuje się odpowiednio do ustalenia wysokości uposażeń rodzinnych, do których prawo powstało przed dniem 1 stycznia 2009 r.
+Art. 13.
+Przepisy art. 12 stosuje się odpowiednio do określenia wysokości uposażeń prokuratorów, którzy przeszli albo zostali przeniesieni w stan spoczynku przed dniem 1 stycznia 2009 r., oraz wysokości uposażeń rodzinnych, do których prawo powstało przed dniem 1 stycznia 2009 r.
+Art. 14.
+Wynagrodzenie zasadnicze przysługujące aplikantom sądowym w sądach powszechnych i wojskowych oraz aplikantom powszechnych i wojskowych jednostek organizacyjnych prokuratury, którzy rozpoczęli aplikację przed dniem 1 stycznia 2008 r. wynosi od dnia 1 stycznia 2009 r., odpowiednio, w pierwszym roku pracy 58 %, zaś w drugim i następnym – 64 % przeciętnego wynagrodzenia w drugim kwartale roku poprzedniego, ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.). Przepis art. 91 § 1d ustawy, o której mowa w art. 1 i art. 61a ust. 2 ustawy, o której mowa w art. 3, stosuje się odpowiednio.”.
+Art. 15.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2 lit. g oraz art. 3 pkt 3 lit. h, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.
 
-**Art. 5.** Wustawie zdnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych (Dz. U. z 2007 r. 226, poz. 1676, z 2008 r. 237, poz. 1651 oraz z 2009 r. 26, poz. 157) w art. 70 § 1 i 1a otrzymują brzmienie: Ń§ 1. Do sądów wojskowych, sędziów wojskowych oraz ławników stosuje się odpowiednio przepisy art. 4 i art. 5, art. 40, art. 42, art. 44—52, art. 53 § 1—3, art. 54, art. 56, art. 57 § 1, art. 58 § 1 i § 4—6, art. 60, art. 65, art. 66, art. 69 § 2, art. 70, art. 71, art. 73—75, art. 77 § 2, § 2a, § 4, § 4a, § 5 i § 6, art. 78 § 1—4, art. 78a § 1—3 i § 6, art. 79, art. 80 § 4, art. 83, art. 84 § 3, art. 85, art. 86, art. 89, art. 90, art. 91 § 1, § 1c—2, § 6—7 oraz § 9—12, art. 91a, art. 92, art. 93, art. 94 § 1, § 3 i § 4, art. 95, art. 98 § 1, art. 99, art. 100 § 1—4, art. 101 § 2—4, art. 102, art. 104—106, art. 108, art. 111, art. 114 § 5—7, art. 115—118, art. 120—122, art. 125—128, art. 130, art. 131, art. 133, art. 135 § 5—7, art. 147 § 3, art. 156, art. 159 § 1 pkt 5 i pkt 6, art. 167, art. 169, art. 170 § 3 i art. 171—174 ustawy, októrej mowa wart. 32 § 6, oraz przepisy wydane na podstawie art. 57 § 5, art. 58 § 7, art. 78 § 5, art. 78a§ 7, art. 91 § 8 iart. 148 § 2 tejże ustawy, ztym że:
+## Załącznik nr 1 — – Stawki wynagrodzenia zasadniczego na poszczególnych stanowiskach sędziowskich oraz mnożniki, służące do ustalenia wysokości wynagrodzenia zasadniczego sędziów
 
-**Art. 6.** Wustawie zdnia 23 listopada 2002 r. oSądzie Najwyższym (Dz. U. 240, poz. 2052, z 2004 r. 25, poz. 219, z 2006 r. 157, poz. 1119 oraz z2008 r. 234, poz. 1571) wprowadza się następujące zmiany:
+Stanowisko Stawka wynagrodzenia zasadniczego Mnożnik sędzia sądu rejonowego pierwsza 2,05 druga 2,17 trzecia 2,28 czwarta 2,36 piąta 2,50 sędzia sądu okręgowego czwarta 2,36 piąta 2,50 szósta 2,65 siódma 2,75 ósma 2,92 sędzia sądu apelacyjnego siódma 2,75 ósma 2,92 dziewiąta 3,12 dziesiąta 3,23
 
-**Art. 7.** W ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa iProkuratury (Dz. U. 26, poz. 157) wprowadza się następujące zmiany:
+## Załącznik nr 2 — – Tabela mnożników służących do ustalenia wysokości dodatków funkcyjnych
 
-**Art. 8.** Przepisy ustawy mają zastosowanie od dnia 1 stycznia 2009 r. do wynagrodzeń sędziów sądów powszechnych iwojskowych, sędziów Sądu Najwyższego, sędziów wojewódzkich sądów administracyjnych, sędziów Naczelnego Sądu Administracyjnego, prezesa i wiceprezesa Trybunału Konstytucyjnego, sędziów Trybunału Konstytucyjnego, prokuratorów powszechnych jednostek organizacyjnych prokuratury, prokuratorów wojskowych jednostek organizacyjnych prokuratury, prokuratorów Instytutu Pamięci Narodowej Komisji Âcigania Zbrodni przeciwko Narodowi Polskiemu, asesorów sądowych i prokuratorskich, referendarzy sądowych oraz uposażeń sędziów iprokuratorów wstanie spoczynku.
+Lp. Stanowisko Mnożnik 1 Pierwszy Prezes Sądu Najwyższego 1,2 2 Prezes Sądu Najwyższego 1,0 3 Przewodniczący wydziału, Rzecznik Dyscyplinarny 0,7 4 Rzecznik Prasowy, zastępca przewodniczącego wydziału, zastępca Rzecznika Dyscyplinarnego 0,5
 
-**Art. 9.** Do czasu wejścia wżycie aktu wykonawczego wydanego na podstawie art. 62 ust. 2 ustawy zdnia 20 czerwca 1985 r. oprokuraturze, wbrzmieniu nadanym niniejszą ustawą, wysokość wynagrodzenia zasadniczego prokuratora w poszczególnych stawkach ustala się z zastosowaniem zasad odnoszących się do sędziów, określonych w art. 91 § 2 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, wbrzmieniu nadanym niniejszą ustawą.
+## Załącznik nr 3 — – Tabela określająca staż pracy na zajmowanym stanowisku oraz ogólny staż pracy niezbędny do uzyskania poszczególnych stawek wynagrodzenia zasadniczego
 
-**Art. 10.**
-
-1. Zdniem 1 stycznia 2009 r. wynagrodzenia zasadnicze sędziów sądów rejonowych określa się wstawkach od pierwszej do czwartej, wynagrodzenia kach od czwartej do siódmej, awynagrodzenia zasadnicze sędziów sądów apelacyjnych w stawkach od siódmej do dziesiątej, według zasad określonych wust. 2—4.
-
-2. Stawkę wynagrodzenia zasadniczego sędziego ustala się uwzględniając staż pracy sędziego na stanowisku zajmowanym w dniu 1 stycznia 2009 r., a jeżeli jest to korzystniejsze staż pracy sędziego na wszystkich dotychczas zajmowanych stanowiskach sędziowskich lub prokuratorskich (ogólny staż pracy); uwzględnienie ogólnego stażu pracy nie może jednak stanowić podstawy ustalenia wynagrodzenia zasadniczego sędziego sądu okręgowego w stawce szóstej isiódmej, awprzypadku sędziego sądu apelacyjnego w stawce dziewiątej i dziesiątej. Staż pracy na zajmowanym stanowisku oraz ogólny staż pracy, niezbędny do uzyskania poszczególnych stawek wynagrodzenia zasadniczego, określa tabela, stanowiąca załącznik nr 3 do niniejszej ustawy.
-
-3. Do ogólnego stażu pracy wlicza się okres powierzenia pełnienia czynności sędziowskich na stanowisku asesora sądowego, a także czas pozostawania poza zawodem sędziowskim, jeżeli spowodowane było represjami za polityczną postawę sędziego, o ile powrót do zawodu nastąpił nie póêniej niż do 31 grudnia 1990 r.
-
-4. Staż pracy na zajmowanym stanowisku oraz ogólny staż pracy, o których mowa w ust. 2, ulegają wydłużeniu otrzy lata wrazie ukarania sędziego karą dyscyplinarną, dwukrotnego wytknięcia uchybienia, októrym mowa wart. 40 ustawy zmienianej wart. 1, lub dwukrotnego zwrócenia uwagi w trybie określonym w art. 37 § 4 ustawy zmienianej w art. 1, chyba że uprawniony organ zarządził usunięcie, odpowiednio, wyroków, postanowień lub pism zakt osobowych sędziego.
-
-5. Określenie wynagrodzenia zasadniczego sędziego sądu rejonowego wstawce piątej, asędziego sądu okręgowego w stawce ósmej, może nastąpić nie wcześniej niż zdniem 1 stycznia 2014 r.
-
-**Art. 11.**
-
-1. Zdniem 1 stycznia 2009 r. wynagrodzenia zasadnicze prokuratorów prokuratur rejonowych określa się w stawkach od pierwszej do czwartej, wynagrodzenia zasadnicze prokuratorów prokuratur okręgowych w stawkach od czwartej do siódmej, awynagrodzenia zasadnicze prokuratorów prokuratur apelacyjnych wstawkach od siódmej do dziesiątej. Przepisy art. 10 ust. 2—5 stosuje się odpowiednio.
-
-2. Z dniem 1 stycznia 2009 r. wynagrodzenia prokuratorów powołanych przed tym dniem na stanowisko prokuratora prokuratury okręgowej w prokuraturze rejonowej określa się w stawce czwartej, a prokuratorów powołanych na stanowisko prokuratora prokuratury apelacyjnej w prokuraturze okręgowej wstawce siódmej.
-
-**Art. 12.**
-
-1. Z dniem 1 stycznia 2009 r. wysokość uposażeń sędziów, którzy przeszli albo zostali przeniesieni wstan spoczynku przed 1 stycznia 2009 r., określa się zzastosowaniem stawek wynagrodzenia zasadniczego sędziów, októrych mowa wart. 91 § 2 ustawy zasadnicze sędziów sądów okręgowych w stawzmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą według zasad określonych wust. 2—4.
-
-2. Jeżeli ostatnio zajmowanym stanowiskiem było skowych oraz aplikantom powszechnych i wojskostanowisko sędziego sądu rejonowego: stawka pod- wych jednostek organizacyjnych prokuratury, którzy stawowa wynagrodzenia zasadniczego odpowiada rozpoczęli aplikację przed dniem 1 stycznia 2008 r. wystawce pierwszej, stawka pierwsza awansowa odpo- nosi od dnia 1 stycznia 2009 r., odpowiednio, wpierwwiada stawce drugiej, a stawka druga awansowa od- szym roku pracy 58 %, zaś w drugim i następnym powiada stawce trzeciej. 64 % przeciętnego wynagrodzenia w drugim kwartale roku poprzedniego, ogłaszanego wDzienniku Urzę3. Jeżeli ostatnio zajmowanym stanowiskiem by- dowym Rzeczypospolitej Polskiej ŃMonitor Polski” ło stanowisko sędziego sądu okręgowego: stawka przez Prezesa Głównego Urzędu Statystycznego na podstawowa wynagrodzenia zasadniczego odpowia- podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia da stawce czwartej, stawka pierwsza awansowa od- 1998 r. o emeryturach i rentach z Funduszu Ubezpiepowiada stawce piątej, astawka druga awansowa od- czeń Społecznych (Dz. U. z 2004 r. 39, poz. 353, powiada stawce szóstej. zpóên. zm.
-
-4. Jeżeli ostatnio zajmowanym stanowiskiem było stanowisko sędziego sądu apelacyjnego: stawka podstawowa wynagrodzenia zasadniczego odpowiada stawce siódmej, stawka pierwsza awansowa odpowiada stawce ósmej, a stawka druga awansowa odpowiada stawce dziewiątej.
-
-5. Przepisy ust. 1—4 stosuje się odpowiednio do ustalenia wysokości uposażeń rodzinnych, do których prawo powstało przed dniem 1 stycznia 2009 r.
-
-**Art. 13.** Przepisy art. 12 stosuje się odpowiednio do określenia wysokości uposażeń prokuratorów, którzy przeszli albo zostali przeniesieni wstan spoczynku przed dniem 1 stycznia 2009 r., oraz wysokości uposażeń rodzinnych, do których prawo powstało przed dniem 1 stycznia 2009 r.
-
-**Art. 14.** Wynagrodzenie zasadnicze przysługujące aplikantom sądowym w sądach powszechnych i woj). Przepis art. 91 § 1dustawy, októrej mowa w art. 1 i art. 61a ust. 2 ustawy, o której mowa wart. 3, stosuje się odpowiednio.”.
-
-**Art. 15.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, zwyjątkiem art. 1 pkt 2 lit. goraz art. 3 pkt 3 lit. h, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— ZAĘÑCZNIK DO USTAWY ZDNIA 27 LIPCA 2001 R. Stawki wynagrodzenia zasadniczego na poszczególnych stanowiskach sędziowskich oraz mnożniki, służące do ustalenia wysokości wynagrodzenia zasadniczego sędziów Stanowisko Stawka wynagrodzenia Mnożnik zasadniczego sędzia sądu rejonowego pierwsza 2,05 druga 2,17 trzecia 2,28 czwarta 2,36 piąta 2,50 sędzia sądu okręgowego czwarta 2,36 piąta 2,50 szósta 2,65 siódma 2,75 ósma 2,92 sędzia sądu apelacyjnego siódma 2,75 ósma 2,92 dziewiąta 3,12 dziesiąta 3,23 ZAĘÑCZNIK DO USTAWY Z DNIA 23 LISTOPADA 2002 R. Tabela mnożników służących do ustalenia wysokości dodatków funkcyjnych Lp. Stanowisko Mnożnik 1 Pierwszy Prezes Sądu Najwyższego 1,2 2 Prezes Sądu Najwyższego 1,0 3 Przewodniczący wydziału, Rzecznik Dyscyplinarny 0,7 4 Rzecznik Prasowy, zastępca przewodniczącego wydziału, 0,5 zastępca Rzecznika Dyscyplinarnego ZAĘÑCZNIK DO USTAWY ZDNIA 20 MARCA 2009 R. Tabela określająca staż pracy na zajmowanym stanowisku oraz ogólny staż pracy niezbędny do uzyskania poszczególnych stawek wynagrodzenia zasadniczego stanowisko staż pracy ogólny staż pracy stawka wynagrodzenia na danym stanowisku zasadniczego sędzia sądu rejonowego do 5 lat do 5 lat pierwsza powyżej 5 do 10 lat powyżej 5 do 10 lat druga powyżej 10 do 15 lat powyżej 10 do 15 lat trzecia powyżej 15 lat powyżej 15 lat czwarta sędzia sądu okręgowego do 5 lat do 15 lat czwarta powyżej 5 do 10 lat powyżej 15 lat piąta powyżej 10 do 15 lat nie uwzględnia się szósta powyżej 15 lat nie uwzględnia się siódma sędzia sądu apelacyjnego do 5 lat do 25 lat siódma powyżej 5 do 10 lat powyżej 25 lat ósma powyżej 10 do 15 lat nie uwzględnia się dziewiąta powyżej 15 lat nie uwzględnia się dziesiąta
+stanowisko staż pracy na danym stanowisku ogólny staż pracy stawka wynagrodzenia zasadniczego sędzia sądu rejonowego do 5 lat do 5 lat pierwsza powyżej 5 do 10 lat powyżej 5 do 10 lat druga powyżej 10 do 15 lat powyżej 10 do 15 lat trzecia powyżej 15 lat powyżej 15 lat czwarta sędzia sądu okręgowego do 5 lat do 15 lat czwarta powyżej 5 do 10 lat powyżej 15 lat piąta powyżej 10 do 15 lat nie uwzględnia się szósta powyżej 15 lat nie uwzględnia się siódma sędzia sądu apelacyjnego do 5 lat do 25 lat siódma powyżej 5 do 10 lat powyżej 25 lat ósma powyżej 10 do 15 lat nie uwzględnia się dziewiąta powyżej 15 lat nie uwzględnia się dziesiąta
 

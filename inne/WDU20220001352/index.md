@@ -8,9 +8,10 @@ pos: 1352
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 28 czerwca 2022 r.
+# Ustawa z dnia 26 maja 2022 r. o zmianie ustawy o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,51 +25,26 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001352) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1352/text.pdf) |
 
-USTAWA dnia 26 maja 2022 r.
-zmianie sposobie ustalania najniższego zasadniczego niektórych pracowników zatrudnionych podmiotach leczniczych niektórych innych ustaw
-1. W ustawie dnia 8 czerwca 2017 r. sposobie ustalania najniższego zasadniczego niektórych pracowników zatrudnionych podmiotach leczniczych (Dz. r. 1801) wprowadza się następujące zmiany:
-1) 2 pkt 4 kropkę zastępuje się średnikiem dodaje się pkt 5 6 brzmieniu: „5) stażysta lekarz lekarz dentysta odbywający staż podyplomowy, którym ustawie dnia 5 grudnia 1996 r. zawodach lekarza lekarza dentysty (Dz. r. 790, późn. zm. );
-6) rezydent lekarz lekarz dentysta odbywający specjalizację rezydentury na zasadach określonych ustawie dnia 5 grudnia 1996 r. zawodach lekarza lekarza dentysty.”;
-2) 3:
-a) 1 we wprowadzeniu wyliczenia wyrazy „Do dnia 1 lipca r.” zastępuje się wyrazami „Do dnia 1 lipca 2022 r.”,
-b) po 1 dodaje się 1a 1b brzmieniu: „1a. Do wynagrodzeń zasadniczych stażystów rezydentów nie stosuje się warunków określonych 1.
-1b. Wynagrodzenia zasadnicze stażystów rezydentów, 1a, określa minister właściwy spraw zdrowia na podstawie 15i 4 16j 5 dnia 5 grudnia 1996 r. zawodach lekarza lekarza dentysty, zapewniając podwyższenie zasadniczego stażysty rezydenta poziomu najniższego zasadniczego ustalonego sposób określony 1.”,
-c) uchyla się 3,
-d) 4 otrzymuje brzmienie: „4. Od dnia 2 lipca 2022 r. wynagrodzenie zasadnicze pracownika wykonującego zawód medyczny pracownika działalności podstawowej, innego niż pracownik wykonujący zawód medyczny, nie może być niższe niż najniższe wynagrodzenie zasadnicze ustalone sposób określony 1 na dzień 1 lipca 2022 r.”;
-3) 3a po 1 dodaje się 1a 1b brzmieniu: „1a. Do wynagrodzeń zasadniczych stażystów rezydentów nie stosuje się warunków określonych 1.
-1b. Wynagrodzenia zasadnicze stażystów rezydentów, 1a, określa minister właściwy spraw zdrowia na podstawie 15i 4 16j 5 dnia 5 grudnia 1996 r. zawodach lekarza lekarza dentysty, zapewniając podwyższenie zasadniczego stażysty rezydenta poziomu najniższego zasadniczego ustalonego sposób określony 1.”;
-grodzenie to:
-1) odpowiadało szczególności rodzajowi wykonywanej pracy kwalifikacjom wymaganym przy jej wykonywaniu;
-2) uwzględniało ilość jakość świadczonej pracy;
-3) uwzględniało wysokość odpowiadającą adekwatnemu średniemu wzrostowi danym podmiocie ustalonym okresie.”;
-6) po 5 dodaje się 5a–5c brzmieniu: „Art. 5a. Od dnia 1 lipca 2022 r. umowie pracę pracowników wykonujących zawód medyczny lub pracowników działalności podstawowej, innych niż pracownicy wykonujący zawód medyczny, wskazuje się, której grupy zawodowej określonej załączniku jest zaliczone zajmowane przez pracownika stanowisko pracy.
-5b. W podmiotach leczniczych, 4 1 pkt 7 dnia 15 kwietnia 2011 r.
-działalności leczniczej, utworzonych przez Ministra Obrony Narodowej na podstawie 83 tej ustawy, 22b 2 dnia 14 marca 1985 r. Państwowej Inspekcji Sanitarnej (Dz. r. 195 2022 r.
-655), przepisy 5 5a stosuje się wyłącznie pracowników zatrudnionych komórkach wewnętrznych, które struktury organizacyjnej tych podmiotów udzielają świadczeń zdrowotnych, pracowników wykonujących zadania Wojskowej Inspekcji Sanitarnej.
-5c. W przypadku osoby niewykonującej zawodu medycznego zatrudnionej stosunku pracy podmiocie leczniczym, którym 5b, adekwatny średni wzrost ustalonym okresie realizuje się na zasadach określonych dla pracowników resortu obrony narodowej środków finansowych przeznaczonych na wzrost wynagrodzeń tych pracowników danym roku budżetowym, od dnia 1 stycznia danego roku kalendarzowego.”;
-7) uchyla się 6;
-8) załącznik otrzymuje brzmienie określone załączniku niniejszej ustawy.
-2. W ustawie dnia 5 grudnia 1996 r. zawodach lekarza lekarza dentysty (Dz. r. 790, późn.
-zm. ) 16j 5 otrzymuje brzmienie: „5. Minister właściwy spraw zdrowia określi, drodze rozporządzenia, wysokość zasadniczego wynagrodzenia miesięcznego, podziałem na wynagrodzenie poszczególnych dziedzinach medycyny, jest odbywane szkolenie specjalizacyjne rezydentury, kierując się koniecznością zapewnienia dostępności świadczeń specjalistycznych dla pacjentów biorąc pod uwagę wysokość najniższego zasadniczego określanego przepisami dnia 8 czerwca 2017 r. sposobie ustalania najniższego zasadniczego niektórych pracowników zatrudnionych podmiotach leczniczych.”.
-3. W ustawie dnia 27 sierpnia 2004 r. świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. r. 1285, późn. zm. ) wprowadza się następujące zmiany:
-1) po 31h dodaje się 31ha brzmieniu: „Art. 31ha. 1. Prezes Agencji po otrzymaniu zlecenia ministra właściwego spraw zdrowia, którym 31n pkt 2c, dokonuje analizy dotyczącej zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej związku nadzwyczajnym wzrostem kosztów udzielania tych świadczeń przygotowuje raport sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej wydaje rekomendację.
-3) analizę skutków finansowych dla systemu ochrony zdrowia, tym dla podmiotów obowiązanych finansowania świadczeń opieki zdrowotnej ze środków publicznych.
-3. Prezes Agencji, terminie 21 dni od dnia otrzymania zlecenia, którym 31n pkt 2c, przekazuje ministrowi właściwemu spraw zdrowia rekomendację wraz raportem sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej.
-4. Minister właściwy spraw zdrowia po zapoznaniu się raportem sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej rekomendacją Prezesa Agencji zatwierdza tę rekomendację przekazuje ją Prezesowi Agencji celu opublikowania, formie obwieszczenia, Biuletynie Informacji Publicznej Agencji lub wnosi niej uwagi.”;
-2) 31lc:
-a) 2 pkt kropkę zastępuje się średnikiem dodaje się pkt 4 5 brzmieniu: „4) stanowisko pracy osoby zatrudnionej u świadczeniodawców, 4, na podstawie umowy pracę lub świadczącej usługi na podstawie umowy cywilnoprawnej, lub podwykonawstwa, zakresie, jakim dane te dotyczą osób biorących udział realizacji świadczeń udzielanych umowy udzielanie świadczeń opieki zdrowotnej;
-5) zanonimizowane dane wysokości poszczególnych składowych wymiarze zatrudnienia osoby, której pkt 4, kosztów zatrudnienia ponoszonych przez świadczeniodawcę, zakresie, jakim dane te dotyczą osób biorących udział realizacji świadczeń udzielanych umowy udzielanie świadczeń opieki zdrowotnej.”,
-b) po 4 dodaje się 4a–4d brzmieniu: „4a. Świadczeniodawca, który zawarł umowę udzielanie świadczeń opieki zdrowotnej, udostępnia Agencji nieodpłatnie, terminie wskazanym przez Prezesa Agencji, nie krótszym niż 14 dni od dnia otrzymania wniosku udostępnienie danych, dane dotyczące wszystkich osób zatrudnionych u niego na podstawie umowy pracę lub świadczących usługi na podstawie umowy cywilnoprawnej, lub podwykonawstwa, obejmujące informacje wymiarze zatrudnienia wysokości poszczególnych składowych wynagrodzenia, kosztów zatrudnienia ponoszonych przez świadczeniodawcę, a także dane dotyczące udzielania finansowania świadczeń opieki zdrowotnej.
-4b. Dane, 4a, obejmują:
-1) stanowisko pracy;
-2) zanonimizowane dane wysokości poszczególnych składowych wymiarze zatrudnienia kosztów zatrudnienia ponoszonych przez świadczeniodawcę, zakresie, jakim dane te dotyczą osób biorących udział realizacji świadczeń udzielanych umowy udzielanie świadczeń opieki zdrowotnej;
-3) dane dotyczące udzielania finansowania świadczeń opieki zdrowotnej.
-4c. Wytyczne dotyczące sposobu przekazywania danych, 4a, określa Prezes Agencji publikuje je Biuletynie Informacji Publicznej Agencji.
-4d. Dane, 4a, są wykorzystywane przez Agencję celu realizacji zadań określonych 31n pkt 1a 2c.”;
-3) 31n po pkt 2b dodaje się pkt 2c brzmieniu: „2c) przygotowywanie raportu sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej wydawanie, na zlecenie ministra właściwego spraw zdrowia, rekomendacji Prezesa Agencji zakresie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej związku nadzwyczajnym wzrostem
-2) podmiot tworzący, którym 4 pkt 1 zmienianej 1 brzmieniu nadanym niniejszą ustawą przypadku podmiotów leczniczych działających formie jednostek budżetowych jednostek wojskowych, których 4 1 pkt 7 dnia 15 kwietnia 2011 r. działalności leczniczej (Dz. 2022 r. 633, 655, 974 1079).
-3. Strony umowy pracę, której 5a zmienianej 1, dostosują umowy pracę pracowników wykonujących zawód medyczny lub pracowników działalności podstawowej, innych niż pracownicy wykonujący zawód medyczny, zawarte przed dniem wejścia życie niniejszej wymogów określonych tym przepisie, terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy.
-5. Prezes Agencji Oceny Technologii Medycznych Taryfikacji terminie 21 dni od dnia wejścia życie niniejszej wyda rekomendację, której 31n pkt 2c zmienianej 3, związku ze wzrostem najniższego wprowadzanym niniejszą ustawą.
-6. Ustawa wchodzi życie dniem następującym po dniu ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Duda WSPÓŁCZYNNIKI PRACY Lp. Grupy zawodowe według kwalifikacji wymaganych na zajmowanym stanowisku Współczynnik pracy 1 Lekarz albo lekarz dentysta ze specjalizacją 1,45 Farmaceuta, fizjoterapeuta, diagnosta laboratoryjny, psycholog kliniczny, inny pracownik wykonujący zawód medyczny inny niż określony lp. 1, 4 wymaganym wyższym wykształceniem na poziomie magisterskim specjalizacją, pielęgniarka tytułem zawo2 dowym magister pielęgniarstwa albo położna tytułem magister położnictwa wymaganą 1,29 specjalizacją dziedzinie pielęgniarstwa lub dziedzinie mającej zastosowanie ochronie zdrowia Lekarz albo lekarz dentysta, bez specjalizacji 1,19 4 Stażysta 0,95 Farmaceuta, fizjoterapeuta, diagnosta laboratoryjny, pielęgniarka, położna, technik elektroradiolog, psycholog, inny pracownik wykonujący zawód medyczny inny niż określony 5 lp. 1−4 wymaganym wyższym wykształceniem na poziomie magisterskim; pielęg- 1,02 niarka, położna wymaganym wyższym wykształceniem (studia I stopnia) specjalizacją, albo pielęgniarka, położna ze średnim wykształceniem specjalizacją Fizjoterapeuta, pielęgniarka, położna, ratownik medyczny, technik elektroradiolog, inny pracownik wykonujący zawód medyczny inny niż określony lp. 1–5 wymaganym wyższym wykształceniem na poziomie studiów I stopnia; fizjoterapeuta, ratownik medyczny, 0,94 6 technik analityki medycznej, technik elektroradiolog wymaganym średnim wykształceniem albo pielęgniarka albo położna wymaganym średnim wykształceniem, która nie posiada tytułu specjalisty dziedzinie pielęgniarstwa lub dziedzinie mającej zastosowanie ochronie zdrowia Inny pracownik wykonujący zawód medyczny inny niż określony lp. 1–6 wymaganym 7 średnim wykształceniem opiekun medyczny 0,86 Pracownik działalności podstawowej, inny niż pracownik wykonujący zawód medyczny 8 wymaganym wykształceniem wyższym 1 Pracownik działalności podstawowej, inny niż pracownik wykonujący zawód medyczny 9 wymaganym wykształceniem średnim 0,78 10 Pracownik wymaganym działalności wykształceniem podstawowej, poniżej inny średniego niż pracownik wykonujący zawód medyczny 0,65 ”.
+Załącznik –
+
+**Art. 1.** W ustawie z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych (Dz. U. z 2021 r. poz. 1801) wprowadza się następujące zmiany:
+
+**Art. 5.** W porozumieniu albo zarządzeniu określa się również zasady podwyższania wynagrodzenia osoby zatrudnionej w ramach stosunku pracy w podmiocie leczniczym, niewykonującej zawodu medycznego, tak aby wynagrodzenie to:
+
+**Art. 2.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, z późn. zm.) w art. 16j ust. 5 otrzymuje brzmienie: „ 5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość zasadniczego wynagrodzenia miesięcznego, z podziałem na wynagrodzenie w poszczególnych dziedzinach medycyny, w których jest odbywane szkolenie specjalizacyjne w ramach rezydentury, kierując się koniecznością zapewnienia dostępności świadczeń specjalistycznych dla pacjentów oraz biorąc pod uwagę wysokość najniższego wynagrodzenia zasadniczego określanego przepisami ustawy z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych. ” .
+
+**Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 4.**
+
+1. Porozumienie, o którym mowa w art. 3 ust. 1 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, zawiera się w terminie 14 dni od dnia wejścia w życie niniejszej ustawy, z mocą od dnia 1 lipca 2022 r.
+
+2. Jeżeli porozumienie nie zostanie zawarte w terminie określonym w ust. 1, sposób podwyższania wynagrodzenia zasadniczego ustala, w terminie 7 dni od dnia upływu terminu, o którym mowa w ust. 1, w drodze zarządzenia w sprawie podwyższenia wynagrodzenia, z mocą od dnia 1 lipca 2022 r.:
+
+- **1)** kierownik podmiotu leczniczego;
+- **2)** podmiot tworzący, o którym mowa w art. 4 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą – w przypadku podmiotów leczniczych działających w formie jednostek budżetowych i jednostek wojskowych, o których mowa w art. 4 ust. 1 pkt 3 i 7 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974 i 1079).
+
+3. Strony umowy o pracę, o której mowa w art. 5a ustawy zmienianej w art. 1, dostosują umowy o pracę pracowników wykonujących zawód medyczny lub pracowników działalności podstawowej, innych niż pracownicy wykonujący zawód medyczny, zawarte przed dniem wejścia w życie niniejszej ustawy do wymogów określonych w tym przepisie, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Prezes Agencji Oceny Technologii Medycznych i Taryfikacji w terminie 21 dni od dnia wejścia w życie niniejszej ustawy wyda rekomendację, o której mowa w art. 31n pkt 2c ustawy zmienianej w art. 3, w związku ze wzrostem najniższego wynagrodzenia wprowadzanym niniejszą ustawą.
+
+**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Załącznik – „ Załącznik do ustawy z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych Współczynniki pracy Lp. Grupy zawodowe według kwalifikacji wymaganych na zajmowanym stanowisku Współczynnik pracy 1 Lekarz albo lekarz dentysta ze specjalizacją 1,45 2 Farmaceuta, fizjoterapeuta, diagnosta laboratoryjny, psycholog kliniczny, inny pracownik wykonujący zawód medyczny inny niż określony w lp. 1, 3 i 4 z wymaganym wyższym wykształceniem na poziomie magisterskim i specjalizacją, pielęgniarka z tytułem zawodowym magister pielęgniarstwa albo położna z tytułem magister położnictwa z wymaganą specjalizacją w dziedzinie pielęgniarstwa lub w dziedzinie mającej zastosowanie w ochronie zdrowia 1,29 3 Lekarz albo lekarz dentysta, bez specjalizacji 1,19 4 Stażysta 0,95 5 Farmaceuta, fizjoterapeuta, diagnosta laboratoryjny, pielęgniarka, położna, technik elektro-radiolog, psycholog, inny pracownik wykonujący zawód medyczny inny niż określony w lp. 1–4 z wymaganym wyższym wykształceniem na poziomie magisterskim; pielęgniarka, położna z wymaganym wyższym wykształceniem (studia I stopnia) i specjalizacją, albo pielęgniarka, położna ze średnim wykształceniem i specjalizacją 1,02 6 Fizjoterapeuta, pielęgniarka, położna, ratownik medyczny, technik elektroradiolog, inny pracownik wykonujący zawód medyczny inny niż określony w lp. 1–5 z wymaganym wyższym wykształceniem na poziomie studiów I stopnia; fizjoterapeuta, ratownik medyczny, technik analityki medycznej, technik elektroradiolog z wymaganym średnim wykształceniem albo pielęgniarka albo położna z wymaganym średnim wykształceniem, która nie posiada tytułu specjalisty w dziedzinie pielęgniarstwa lub dziedzinie mającej zastosowanie w ochronie zdrowia 0,94 7 Inny pracownik wykonujący zawód medyczny inny niż określony w lp. 1–6 z wymaganym średnim wykształceniem oraz opiekun medyczny 0,86 8 Pracownik działalności podstawowej, inny niż pracownik wykonujący zawód medyczny z wymaganym wykształceniem wyższym 1 9 Pracownik działalności podstawowej, inny niż pracownik wykonujący zawód medyczny z wymaganym wykształceniem średnim 0,78 10 Pracownik działalności podstawowej, inny niż pracownik wykonujący zawód medyczny z wymaganym wykształceniem poniżej średniego 0,65”
 

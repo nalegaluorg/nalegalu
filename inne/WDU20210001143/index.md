@@ -8,9 +8,12 @@ pos: 1143
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 czerwca 2021 r.
+# o narodowym spisie powszechnym ludności i mieszkań w 2021 r.
+
+*USTAWA z dnia 9 sierpnia 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,26 +26,6 @@ domain: null
 | Data wydania | 2021-06-25 |
 | Ostatnia zmiana | 2024-11-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001143) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1143/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 maja 2021 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o narodowym spisie powszechnym ludności i mieszkań w 2021 r.
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 sierpnia 2019 r. o narodowym spisie powszechnym ludności i mieszkań w 2021 r. (Dz. U.
-poz. 1775), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 14 sierpnia 2020 r. o zmianie ustawy o statystyce publicznej, ustawy o powszechnym spisie rolnym w 2020 r. oraz ustawy o narodowym spisie powszechnym ludności i mieszkań w 2021 r. (Dz. U. poz. 1486),
-2) ustawą z dnia 30 marca 2021 r. o zmianie ustawy o narodowym spisie powszechnym ludności i mieszkań w 2021 r.
-(Dz. U. poz. 615) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 maja 2021 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 6, art. 7 ust. 2 i art. 8 ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy o statystyce publicznej, ustawy o powszechnym spisie rolnym w 2020 r. oraz ustawy o narodowym spisie powszechnym ludności i mieszkań w 2021 r.
-(Dz. U. poz. 1486), które stanowią: „Art. 6. 1. Z dniem wejścia w życie niniejszej ustawy rachmistrze terenowi, o których mowa w art. 17 ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, stają się rachmistrzami spisowymi, o których mowa w art. 17b ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
-2. W terminie 7 dni od dnia wejścia w życie niniejszej ustawy dyrektorzy urzędów statystycznych jako zastępcy wojewódzkich komisarzy spisowych dostosowują umowy zawarte z rachmistrzami terenowymi, o których mowa w art. 17 ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, do wymagań określonych w art. 36 ust. 3–4c ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.”
-
-**Art. 7.** „2. Nabory kandydatów na rachmistrzów terenowych, o których mowa w art. 17 ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, rozpoczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, są kontynuowane jako nabory kandydatów na rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.” „Art. 8. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-
-**Art. 3.** W terminie 7 dni od dnia wejścia w życie niniejszej ustawy dyrektorzy urzędów statystycznych jako zastępcy wojewódzkich komisarzy spisowych dostosują umowy zawarte z rachmistrzami spisowymi, o których mowa w art. 17b ust. 1 pkt 2 ustawy zmienianej w art. 1, do wymagań określonych w art. 36 ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 41 ust. 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 41 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej niż do dnia 1 maja 2021 r.
-
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 11, który wchodzi w życie z dniem 1 maja 2021 r.”. Marszałek Sejmu: E. Witek USTAWA z dnia 9 sierpnia 2019 r. o narodowym spisie powszechnym ludności i mieszkań w 2021 r.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -76,7 +59,7 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 1. Wyniki opracowanych danych zebranych w spisie powszechnym rozpowszechnia się w postaci wynikowych informacji statystycznych, o których mowa w art. 14 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej.
 
-2. Prezes Głównego Urzędu Statystycznego zamieszcza na stronie internetowej Głównego Urzędu Statystycznego harmonogram publikowania wynikowych informacji statystycznych ze spisu powszechnego.
+2. Prezes Głównego Urzędu Statystycznego zamieszcza na stronie internetowej Głównego Urzędu Statystycznego harmonogram publikowania wynikowych informacji statystycznych ze spisu powszechnego. Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 123 z 19.05.2015, str. 90.
 
 **Art. 9.** W sprawach nieuregulowanych ustawą stosuje się odpowiednio przepisy ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej.
 
@@ -91,11 +74,11 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 1. Prace przygotowawcze obejmują w szczególności przekazywanie danych przez podmioty prowadzące:
 
 - **1)** rejestry urzędowe oraz systemy informacyjne administracji publicznej;
-- **2)** niepubliczne systemy informacyjne, w szczególności dostawców publicznie dostępnych usług telekomunikacyjnych, o których mowa w ustawie z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576).
+- **2)** niepubliczne systemy informacyjne, w szczególności dostawców publicznie dostępnych usług telekomunikacyjnych, o których mowa w ustawie z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221).
 
 2. Podmioty obowiązane do przekazania Prezesowi Głównego Urzędu Statystycznego danych w ramach prac spisowych, a także szczegółowy zakres danych i terminy ich przekazania określa załącznik nr 2 do ustawy.
 
-3. Przekazanie Prezesowi Głównego Urzędu Statystycznego danych, o których mowa w ust. 22 załącznika nr 2 do ustawy, przez dostawców publicznie dostępnych usług telefonicznych nie stanowi naruszenia tajemnicy komunikowania się w sieciach telekomunikacyjnych, o której mowa w art. 159 ust. 1 ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne.
+3. Przekazanie Prezesowi Głównego Urzędu Statystycznego danych, o których mowa w ust. 22 załącznika nr 2 do ustawy, przez dostawców publicznie dostępnych usług komunikacji głosowej nie stanowi naruszenia tajemnicy komunikowania się w sieciach telekomunikacyjnych, o której mowa w art. 386 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
 
 **Art. 13.** Spis powszechny przeprowadza się z wykorzystaniem bezpiecznych technologii informatycznych i komunikacyjnych, w szczególności w postaci elektronicznej, z wykorzystaniem systemu teleinformatycznego spełniającego minimalne wymagania dla systemów teleinformatycznych w rozumieniu art. 3 pkt 9 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670) oraz zapewniającego interoperacyjność systemów na zasadach określonych w Krajowych Ramach Interoperacyjności w rozumieniu art. 3 pkt 21 tej ustawy, w sposób zapewniający poufność, integralność i dostępność informacji, z uwzględnieniem ich autentyczności, rozliczalności, niezaprzeczalności i niezawodności.
 
@@ -105,14 +88,7 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 2. W przypadku braku pełnego zakresu danych lub konieczności ponoszenia nadmiernie wysokich kosztów ich zbierania, w ramach spisu powszechnego stosuje się statystyczne metody szacowania danych.
 
-**Art. 14a.**
-
-- **4)** Osoba fizyczna objęta spisem powszechnym w ramach spisu powszechnego przekazuje dane metodami:
-- **1)** samospisu internetowego, przeprowadzanego za pośrednictwem interaktywnej aplikacji dostępnej na stronie internetowej Głównego Urzędu Statystycznego, zwanego dalej „samospisem internetowym”;
-- **2)** wywiadu bezpośredniego przeprowadzanego przez rachmistrza spisowego z wykorzystaniem urządzenia mobilnego wyposażonego w oprogramowanie dedykowane do przeprowadzenia spisu powszechnego, zwanego dalej „wywiadem bezpośrednim”;
-- **3)** wywiadu telefonicznego przeprowadzanego przez rachmistrza spisowego z wykorzystaniem:
-    - **a)** zainstalowanego na komputerze oprogramowania dedykowanego do przeprowadzenia spisu powszechnego lub
-    - **b)** urządzenia mobilnego wyposażonego w oprogramowanie dedykowane do przeprowadzenia spisu powszechnego zwanego dalej „wywiadem telefonicznym”.
+**Art. 14a.** Osoba fizyczna objęta spisem powszechnym w ramach spisu powszechnego przekazuje dane metodami:
 
 **Art. 15.**
 
@@ -150,7 +126,7 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 17a.**
 
-- **11)** 1. Obowiązek przeprowadzenia samospisu internetowego, o którym mowa w art. 15 ust. 1, nie wyłącza możliwości zebrania w każdym czasie danych od osoby fizycznej objętej spisem powszechnym metodą wywiadu bezpośredniego lub metodą wywiadu telefonicznego.
+1. Obowiązek przeprowadzenia samospisu internetowego, o którym mowa w art. 15 ust. 1, nie wyłącza możliwości zebrania w każdym czasie danych od osoby fizycznej objętej spisem powszechnym metodą wywiadu bezpośredniego lub metodą wywiadu telefonicznego.
 
 2. Osoba fizyczna objęta spisem powszechnym nie może odmówić przekazania danych w ramach spisu powszechnego z zastosowaniem metody wywiadu bezpośredniego lub metody wywiadu telefonicznego.
 
@@ -158,25 +134,18 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 17b.**
 
-- **11)** 1. Wywiady bezpośrednie i wywiady telefoniczne przeprowadzają rachmistrze spisowi, którymi są:
+1. Wywiady bezpośrednie i wywiady telefoniczne przeprowadzają rachmistrze spisowi, którymi są:
+
 - **1)** pracownicy jednostek służb statystyki publicznej, w tym ankieterzy statystyczni, o których mowa w art. 28 ust. 4 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, wyznaczeni przez zastępców właściwych wojewódzkich komisarzy spisowych do zebrania danych w ramach spisu powszechnego od osób fizycznych objętych tym spisem;
 - **2)** osoby fizyczne powołane przez zastępców właściwych wojewódzkich komisarzy spisowych w wyniku naborów przeprowadzonych na zasadach i w trybie określonych w ustawie do zebrania danych w ramach spisu powszechnego od osób fizycznych objętych tym spisem, z którymi jest nawiązywana współpraca na warunkach określonych w ustawie.
 
 2. (uchylony)
 
-**Art. 17c.**
+**Art. 17c.** Zastępca właściwego wojewódzkiego komisarza spisowego decyduje o sposobie, miejscu i czasie wykonywania przez rachmistrzów spisowych czynności spisowych, o których mowa w art. 17b, w zależności od aktualnych potrzeb.
 
-- **11)** Zastępca właściwego wojewódzkiego komisarza spisowego decyduje o sposobie, miejscu i czasie wykonywania przez rachmistrzów spisowych czynności spisowych, o których mowa w art. 17b, w zależności od aktualnych potrzeb.
+**Art. 17d.** Za wykonywanie czynności spisowych, o których mowa w art. 17b, rachmistrze spisowi otrzymują:
 
-**Art. 17d.**
-
-- **13)** Za wykonywanie czynności spisowych, o których mowa w art. 17b, rachmistrze spisowi otrzymują:
-- **1)** w przypadku rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 1 dodatek spisowy, którego sposób ustalania oraz wysokość są określone w art. 38 ust. 5 i 11;
-- **2)** w przypadku rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 2 wynagrodzenie, którego sposób ustalania oraz wysokość są określone w art. 36 ust. 4 i 4c.
-
-**Art. 17e.**
-
-- **11)** Osoba fizyczna objęta spisem powszechnym przed przeprowadzeniem przez rachmistrza spisowego wywiadu bezpośredniego lub wywiadu telefonicznego może zweryfikować tożsamość tego rachmistrza przez kontakt telefoniczny lub osobisty z gminnym lub wojewódzkim biurem spisowym. Informacja o sposobie weryfikacji tożsamości rachmistrza spisowego jest udostępniana na stronie internetowej Głównego Urzędu Statystycznego i urzędów statystycznych oraz w materiałach informacyjnych, edukacyjnych i promocyjnych popularyzujących spis powszechny.
+**Art. 17e.** Osoba fizyczna objęta spisem powszechnym przed przeprowadzeniem przez rachmistrza spisowego wywiadu bezpośredniego lub wywiadu telefonicznego może zweryfikować tożsamość tego rachmistrza przez kontakt telefoniczny lub osobisty z gminnym lub wojewódzkim biurem spisowym. Informacja o sposobie weryfikacji tożsamości rachmistrza spisowego jest udostępniana na stronie internetowej Głównego Urzędu Statystycznego i urzędów statystycznych oraz w materiałach informacyjnych, edukacyjnych i promocyjnych popularyzujących spis powszechny.
 
 **Art. 18.** Dane dotyczące osób nieobecnych i osób małoletnich przekazują osoby pełnoletnie wspólnie z nimi zamieszkałe.
 
@@ -235,31 +204,33 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 2. Do celów spisu próbnego, o którym mowa w ust. 1, zbiera się dane z terenu gmin:
 
-- **1)** Czerwińsk nad Wisłą gmina wiejska, powiat płoński, województwo mazowieckie;
-- **2)** Sierakowice gmina wiejska, powiat kartuski, województwo pomorskie.
+- **1)** Czerwińsk nad Wisłą – gmina wiejska, powiat płoński, województwo mazowieckie;
+- **2)** Sierakowice – gmina wiejska, powiat kartuski, województwo pomorskie.
 
 **Art. 26.**
 
-1. Drugi spis próbny przeprowadza się w okresie od dnia 1 kwietnia 2020 r. do dnia 30 kwietnia 2020 r., według stanu na dzień 31 marca 2020 r., godz. 24.00.
+1. Drugi spis próbny przeprowadza się w okresie od dnia 1 kwietnia 2020 r. do dnia 30 kwietnia 2020 r., według stanu na dzień 31 marca 2020 r., godz.
+
+24. 00.
 
 2. Do celów spisu próbnego, o którym mowa w ust. 1, zbiera się dane z terenu gmin:
 
-- **1)** Chełmno gmina wiejska, powiat chełmiński, województwo kujawsko-pomorskie;
-- **2)** Dubicze Cerkiewne gmina wiejska, powiat hajnowski, województwo podlaskie;
-- **3)** Gubin gmina miejska, powiat krośnieński, województwo lubuskie;
-- **4)** Jabłonka gmina wiejska, powiat nowotarski, województwo małopolskie;
-- **5)** Kleszczów gmina wiejska, powiat bełchatowski, województwo łódzkie;
-- **6)** Kłodzko gmina wiejska, powiat kłodzki, województwo dolnośląskie;
-- **7)** Kołbaskowo gmina wiejska, powiat policki, województwo zachodniopomorskie;
-- **8)** Prószków gmina miejsko-wiejska, powiat opolski, województwo opolskie;
-- **9)** Lesznowola gmina wiejska, powiat piaseczyński, województwo mazowieckie;
-- **10)** Lidzbark Warmiński gmina wiejska, powiat lidzbarski, województwo warmińsko-mazurskie;
-- **11)** Puck gmina wiejska, powiat pucki, województwo pomorskie;
-- **12)** Puszczykowo gmina miejska, powiat poznański, województwo wielkopolskie;
-- **13)** Radymno gmina miejska, powiat jarosławski, województwo podkarpackie;
-- **14)** Skierbieszów gmina wiejska, powiat zamojski, województwo lubelskie;
-- **15)** Wąchock gmina miejsko-wiejska, powiat starachowicki, województwo świętokrzyskie;
-- **16)** Wojkowice gmina miejska, powiat będziński, województwo śląskie.
+- **1)** Chełmno – gmina wiejska, powiat chełmiński, województwo kujawsko-pomorskie;
+- **2)** Dubicze Cerkiewne – gmina wiejska, powiat hajnowski, województwo podlaskie;
+- **3)** Gubin – gmina miejska, powiat krośnieński, województwo lubuskie;
+- **4)** Jabłonka – gmina wiejska, powiat nowotarski, województwo małopolskie;
+- **5)** Kleszczów – gmina wiejska, powiat bełchatowski, województwo łódzkie;
+- **6)** Kłodzko – gmina wiejska, powiat kłodzki, województwo dolnośląskie;
+- **7)** Kołbaskowo – gmina wiejska, powiat policki, województwo zachodniopomorskie;
+- **8)** Prószków – gmina miejsko-wiejska, powiat opolski, województwo opolskie;
+- **9)** Lesznowola – gmina wiejska, powiat piaseczyński, województwo mazowieckie;
+- **10)** Lidzbark Warmiński – gmina wiejska, powiat lidzbarski, województwo warmińsko-mazurskie;
+- **11)** Puck – gmina wiejska, powiat pucki, województwo pomorskie;
+- **12)** Puszczykowo – gmina miejska, powiat poznański, województwo wielkopolskie;
+- **13)** Radymno – gmina miejska, powiat jarosławski, województwo podkarpackie;
+- **14)** Skierbieszów – gmina wiejska, powiat zamojski, województwo lubelskie;
+- **15)** Wąchock – gmina miejsko-wiejska, powiat starachowicki, województwo świętokrzyskie;
+- **16)** Wojkowice – gmina miejska, powiat będziński, województwo śląskie.
 
 #### Rozdział 4 Obowiązki podmiotów biorących udział w pracach spisowych
 
@@ -309,14 +280,14 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 2. Do wykonywania prac spisowych:
 
-- **1)** wojewódzki komisarz spisowy tworzy wojewódzkie biuro spisowe,
-- **2)** gminny komisarz spisowy tworzy gminne biuro spisowe w drodze zarządzenia, określając skład i organizację pracy danego biura spisowego, mając na względzie konieczność zapewnienia prawidłowego i sprawnego wykonywania prac spisowych.
+- **1)** wojewódzki komisarz spisowy tworzy wojewódzkie biuro spisowe, Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.
+- **2)** gminny komisarz spisowy tworzy gminne biuro spisowe – w drodze zarządzenia, określając skład i organizację pracy danego biura spisowego, mając na względzie konieczność zapewnienia prawidłowego i sprawnego wykonywania prac spisowych.
 
-3. Pracą wojewódzkiego biura spisowego kieruje zastępca wojewódzkiego komisarza spisowego, a pracą gminnego biura spisowego gminny komisarz spisowy.
+3. Pracą wojewódzkiego biura spisowego kieruje zastępca wojewódzkiego komisarza spisowego, a pracą gminnego biura spisowego – gminny komisarz spisowy.
 
 4. Prace spisowe na rzecz wojewódzkich i gminnych biur spisowych wykonują odpowiednio pracownicy jednostek służb statystyki publicznej i jednostek samorządu terytorialnego.
 
-5. Pracę wojewódzkiego biura spisowego nadzoruje Generalny Komisarz Spisowy, a pracę gminnego biura spisowego zastępca właściwego miejscowo wojewódzkiego komisarza spisowego.
+5. Pracę wojewódzkiego biura spisowego nadzoruje Generalny Komisarz Spisowy, a pracę gminnego biura spisowego – zastępca właściwego miejscowo wojewódzkiego komisarza spisowego.
 
 6. Nadzór, o którym mowa w ust. 5, jest sprawowany w zakresie przestrzegania przepisów ustawy.
 
@@ -335,7 +306,7 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 2. Oświadczenie o spełnieniu wymogu, o którym mowa w ust. 1 pkt 6, kandydat na rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 2, składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Oświadczenie to zawiera klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
 
-3. Do przeprowadzenia naboru kandydatów na rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 2, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843 oraz z 2020 r. poz. 1086) .
+3. Do przeprowadzenia naboru kandydatów na rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 2, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843 oraz z 2020 r. poz. 1086) .
 
 4. Gminny komisarz spisowy upowszechnia informację o otwartym i konkurencyjnym naborze kandydatów na rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 2, w miejscu powszechnie dostępnym w siedzibie urzędu gminy lub na stronie podmiotowej urzędu gminy w Biuletynie Informacji Publicznej.
 
@@ -349,7 +320,7 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 9. W przypadku stwierdzenia, na skutek żądania, o którym mowa w ust. 8, błędu w przyznanej liczbie punktów dokonuje się zmiany wyniku egzaminu testowego.
 
-10. Kandydat na rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 2, który z egzaminu testowego uzyskał wynik co najmniej 60% poprawnych odpowiedzi, jest wpisywany na listę kandydatów na rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 2, prowadzoną przez właściwego gminnego komisarza spisowego. Kolejność na liście jest ustalana według liczby punktów z egzaminu testowego.
+10. Kandydat na rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 2, który z egzaminu testowego uzyskał wynik co najmniej 60% poprawnych odpowiedzi, jest wpisywany na listę kandydatów na rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 2, prowadzoną przez właściwego gminnego komisarza spisowego. Kolejność na liście jest ustalana według liczby punktów z egzaminu testowego. Ustawa utraciła moc na podstawie art. 89 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275), która weszła w życie z dniem 1 stycznia 2021 r.
 
 **Art. 36.**
 
@@ -384,7 +355,7 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 7. (uchylony)
 
-8. Rachmistrzowi spisowemu, o którym mowa w art. 17b ust. 1 pkt 2, który uległ wypadkowi podczas wykonywania czynności w ramach wywiadu bezpośredniego lub wywiadu telefonicznego z osobą fizyczną objętą spisem powszechnym, a w razie wypadku śmiertelnego członkom rodziny tego rachmistrza, przysługują świadczenia przewidziane w ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2020 r. poz. 984).
+8. Rachmistrzowi spisowemu, o którym mowa w art. 17b ust. 1 pkt 2, który uległ wypadkowi podczas wykonywania czynności w ramach wywiadu bezpośredniego lub wywiadu telefonicznego z osobą fizyczną objętą spisem powszechnym, a w razie wypadku śmiertelnego – członkom rodziny tego rachmistrza, przysługują świadczenia przewidziane w ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2020 r. poz. 984).
 
 9. Niezwłocznie po uzyskaniu informacji o zdarzeniu, o którym mowa w ust. 8, zastępca wojewódzkiego komisarza spisowego właściwy ze względu na miejsce zdarzenia ustala okoliczności i przyczyny wypadku oraz sporządza dokumentację w tym zakresie zgodnie z odrębnymi przepisami i przekazuje ją terenowej jednostce organizacyjnej Zakładu Ubezpieczeń Społecznych.
 
@@ -408,9 +379,9 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 3. Maksymalna wysokość nagrody spisowej jest określona jako krotność przeciętnego wynagrodzenia i nie może być wyższa niż:
 
-- **1)** 3-krotność przeciętnego wynagrodzenia w przypadku zastępców Generalnego Komisarza Spisowego;
-- **2)** 2-krotność przeciętnego wynagrodzenia w przypadku wojewódzkich komisarzy spisowych i ich zastępców;
-- **3)** 1,5-krotność przeciętnego wynagrodzenia w przypadku:
+- **1)** 3-krotność przeciętnego wynagrodzenia – w przypadku zastępców Generalnego Komisarza Spisowego;
+- **2)** 2-krotność przeciętnego wynagrodzenia – w przypadku wojewódzkich komisarzy spisowych i ich zastępców;
+- **3)** 1,5-krotność przeciętnego wynagrodzenia – w przypadku:
     - **a)** gminnych komisarzy spisowych i ich zastępców,
     - **b)** pracowników jednostek służb statystyki publicznej wykonujących prace spisowe,
     - **c)** pracowników jednostek samorządu terytorialnego wykonujących prace spisowe w wojewódzkich albo gminnych biurach spisowych.
@@ -441,11 +412,7 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 - **2)** ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę;
 - **3)** ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2020 r. poz. 265 i 285 oraz z 2021 r. poz. 464).
 
-**Art. 38a.**
-
-- **40)** Jeżeli zbieranie danych od osoby fizycznej objętej spisem powszechnym rozpoczyna jeden rachmistrz spisowy, a kończy inny rachmistrz spisowy:
-- **1)** wynagrodzenie za przeprowadzenie wywiadu w przypadku rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 2, albo
-- **2)** dodatek spisowy za przeprowadzenie wywiadu w przypadku rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 1 przysługuje tylko temu rachmistrzowi spisowemu, który zakończył zbieranie danych od osoby fizycznej objętej spisem powszechnym, skutkujące prawidłowym spisaniem tej osoby.
+**Art. 38a.** Jeżeli zbieranie danych od osoby fizycznej objętej spisem powszechnym rozpoczyna jeden rachmistrz spisowy, a kończy inny rachmistrz spisowy:
 
 #### Rozdział 7 Działania popularyzujące spis powszechny
 
@@ -461,7 +428,7 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 40.**
 
-1. W terminie od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. oraz w trakcie trwania spisu powszechnego Telewizja Polska Spółka Akcyjna oraz Polskie Radio Spółka Akcyjna i spółki radiofonii regionalnej, wypełniając swoją misję publiczną zgodnie z art. 21 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805), są obowiązane do nieodpłatnego rozpowszechniania, w programach ogólnokrajowych i regionalnych, audycji informacyjnych, edukacyjnych i promocyjnych, popularyzujących spis powszechny.
+1. W terminie od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. oraz w trakcie trwania spisu powszechnego Telewizja Polska – Spółka Akcyjna oraz Polskie Radio – Spółka Akcyjna i spółki radiofonii regionalnej, wypełniając swoją misję publiczną zgodnie z art. 21 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805), są obowiązane do nieodpłatnego rozpowszechniania, w programach ogólnokrajowych i regionalnych, audycji informacyjnych, edukacyjnych i promocyjnych, popularyzujących spis powszechny.
 
 2. Opracowany przez jednostki publicznej radiofonii i telewizji w porozumieniu z Krajową Radą Radiofonii i Telewizji plan programowo-finansowy na rok 2021 uwzględnia środki niezbędne do rozpowszechniania audycji, o których mowa w ust. 1.
 
@@ -471,9 +438,9 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 2. Ustala się następujący podział czasu antenowego, o którym mowa w ust. 1:
 
-- **1)** 60 godzin w ogólnokrajowych programach telewizyjnych rozpowszechnianych przez Telewizję Polską Spółkę Akcyjną;
-- **2)** 80 godzin łącznie w regionalnych programach telewizyjnych rozpowszechnianych przez terenowe oddziały Telewizji Polskiej Spółki Akcyjnej;
-- **3)** 22 godziny w ogólnokrajowych programach radiowych rozpowszechnianych przez Polskie Radio Spółkę Akcyjną;
+- **1)** 60 godzin w ogólnokrajowych programach telewizyjnych rozpowszechnianych przez Telewizję Polską – Spółkę Akcyjną;
+- **2)** 80 godzin łącznie w regionalnych programach telewizyjnych rozpowszechnianych przez terenowe oddziały Telewizji Polskiej – Spółki Akcyjnej;
+- **3)** 22 godziny w ogólnokrajowych programach radiowych rozpowszechnianych przez Polskie Radio – Spółkę Akcyjną;
 - **4)** 38 godzin łącznie w programach radiowych rozpowszechnianych przez spółki radiofonii regionalnej.
 
 3. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki i sposób rozpowszechniania, w terminie od dnia 1 maja 2021 r. do dnia zakończenia spisu powszechnego, audycji, o których mowa w art. 40 ust. 1, w ramach czasu antenowego, o którym mowa w ust. 1, z podziałem na miesiące i godziny, mając na względzie popularyzację znaczenia spisu powszechnego dla Rzeczypospolitej Polskiej i jej mieszkańców, sposobu jego przeprowadzenia oraz dotarcie do jak najszerszego kręgu osób fizycznych objętych spisem powszechnym.
@@ -484,26 +451,26 @@ poz. 1775), z uwzględnieniem zmian wprowadzonych:
 
 1. Maksymalny limit wydatków z budżetu państwa na prace spisowe na lata 2019–2028 wynosi 386 mln zł, z tego w:
 
-- **1)** roku 2019 12 mln zł;
-- **2)** roku 2020 23 mln zł;
-- **3)** roku 2021 342 mln zł;
-- **4)** roku 2022 9 mln zł;
-- **5)** latach 2023–2028 0 zł.
+- **1)** roku 2019 – 12 mln zł;
+- **2)** roku 2020 – 23 mln zł;
+- **3)** roku 2021 – 342 mln zł;
+- **4)** roku 2022 – 9 mln zł;
+- **5)** latach 2023–2028 – 0 zł.
 
 2. Środki finansowe, o których mowa w ust. 1, wydatkuje się w oparciu o specyfikację kosztów spisu powszechnego.
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest Generalny Komisarz Spisowy.
 
-4. W celu niedopuszczenia do przekroczenia maksymalnego limitu wydatków w danym roku budżetowym Generalny Komisarz Spisowy monitoruje na bieżąco realizację tych wydatków i dokonuje oceny poziomu wykorzystania limitu wydatków, według stanu na koniec każdego kwartału danego roku budżetowego, a w przypadku czwartego kwartału roku budżetowego według stanu na dzień 30 listopada danego roku.
+4. W celu niedopuszczenia do przekroczenia maksymalnego limitu wydatków w danym roku budżetowym Generalny Komisarz Spisowy monitoruje na bieżąco realizację tych wydatków i dokonuje oceny poziomu wykorzystania limitu wydatków, według stanu na koniec każdego kwartału danego roku budżetowego, a w przypadku czwartego kwartału roku budżetowego – według stanu na dzień 30 listopada danego roku.
 
 5. W przypadku:
 
 - **1)** zagrożenia przekroczeniem przyjętego na dany rok budżetowy limitu wydatków, o którym mowa w ust. 1, lub
-- **2)** gdy w okresie od początku roku budżetowego do ostatniego dnia danego kwartału limit wydatków przypadający na ten okres zgodnie z planem rzeczowo-finansowym wydatków spisowych zostanie przekroczony o co najmniej 15% stosuje się mechanizm korygujący.
+- **2)** gdy w okresie od początku roku budżetowego do ostatniego dnia danego kwartału limit wydatków przypadający na ten okres zgodnie z planem rzeczowo-finansowym wydatków spisowych zostanie przekroczony o co najmniej 15% – stosuje się mechanizm korygujący.
 
 6. Mechanizm korygujący, o którym mowa w ust. 5, polega na obniżeniu kosztów zadań przewidzianych do wykonania w kolejnych kwartałach danego roku budżetowego, w szczególności przez weryfikację realizacji tych zadań i wprowadzenie działań naprawczych.
 
 7. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 5, jest Generalny Komisarz Spisowy.
 
-**Art. 43.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia , z wyjątkiem art. 34 ust. 1 i 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ZAKRES INFORMACJI ZBIERANYCH W NARODOWYM SPISIE POWSZECHNYM LUDNOŚCI I MIESZKAŃ 1. Charakterystyka demograficzna:
+**Art. 43.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia , z wyjątkiem art. 34 ust. 1 i 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. Ustawa została ogłoszona w dniu 18 września 2019 r. ZAKRES INFORMACJI ZBIERANYCH W NARODOWYM SPISIE POWSZECHNYM LUDNOŚCI I MIESZKAŃ 1. Charakterystyka demograficzna:
 

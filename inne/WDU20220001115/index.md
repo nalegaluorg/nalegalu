@@ -8,9 +8,10 @@ pos: 1115
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 26 maja 2022 Poz.
+# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,39 +25,47 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1115/text.pdf) |
 
-USTAWA dnia 12 maja 2022 zmianie ustawy zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin, ustawy zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej ich rodzin niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2022 r. poz. 520 i 655) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 10 grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin (Dz. U. 2022 520 655) wprowadza następujące zmiany:
+**Art. 2.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2020 r. poz. 723 i 2320 oraz z 2021 r. poz. 2333, 2448 i 2490) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 6 kwietnia 1990 Policji (Dz. U. 2021 1882, 2333, 2447 2448 2022
+**Art. 3.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448 oraz z 2022 r. poz. 655) w art. 120a w ust. 7 pkt 2 otrzymuje brzmienie: „
 
-**Art. 4.** W ustawie dnia 12 października 1990 Straży Granicznej (Dz. U. 2022 1061) art. 117d 6 pkt 2 „2) przeciwko któremu wszczęto postępowanie karne sprawie przestępstwo umyślne ścigane oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne czasu prawomocnego zakończenia tego postępowania;”.
+**Art. 4.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061) w art. 117d w ust. 6 pkt 2 otrzymuje brzmienie: „
 
-**Art. 5.** W ustawie dnia 24 sierpnia 1991 Państwowej Straży Pożarnej (Dz. U. 2021 1940 2490) art. 97e 6 pkt 3 „3) przeciwko któremu wszczęto postępowanie karne sprawie przestępstwo umyślne ścigane oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne czasu prawomocnego zakończenia tego postępowania;”.
+**Art. 5.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2021 r. poz. 1940 i 2490) w art. 97e w ust. 6 pkt 3 otrzymuje brzmienie: „
 
-**Art. 6.** W ustawie dnia 28 sierpnia 1997 organizacji funkcjonowaniu funduszy emerytalnych (Dz. U. 2020
+**Art. 6.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2020 r. poz. 105) w art. 111a w ust. 1 w pkt 1 lit. a i b otrzymują brzmienie: „
 
-**Art. 7.** W ustawie dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz. U. 2022 1009 1079) art. 22 3a „3a. Zakład nie odprowadza otwartego funduszu emerytalnego nie ewidencjonuje subkoncie, którym art. 40a, składek, których 3, przypadku zawiadomienia przez właściwy organ emerytalny ustaleniu prawa ubezpieczonego emerytury obliczonej podstawie:
+**Art. 7.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009 i 1079) w art. 22 ust. 3a otrzymuje brzmienie: „ 3a. Zakład nie odprowadza do otwartego funduszu emerytalnego i nie ewidencjonuje na subkoncie, o którym mowa w art. 40a, składek, o których mowa w ust. 3, w przypadku zawiadomienia przez właściwy organ emerytalny o ustaleniu prawa ubezpieczonego do emerytury obliczonej na podstawie:
 
-**Art. 9.** W ustawie dnia 8 grudnia Służbie Ochrony Państwa (Dz. U. 2021 575, 1728 2333 2022 655) art. 172b 6 pkt 2 „2) przeciwko któremu wszczęto postępowanie karne sprawie przestępstwo umyślne ścigane oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne czasu prawomocnego zakończenia tego postępowania;”.
+**Art. 8.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, 1728 i 2448 oraz z 2022 r. poz. 655) w art. 208f w ust. 5 pkt 2 otrzymuje brzmienie: „
+
+**Art. 9.** W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2021 r. poz. 575, 1728 i 2333 oraz z 2022 r. poz. 655) w art. 172b w ust. 6 pkt 2 otrzymuje brzmienie: „
 
 **Art. 10.**
 
-1. Emerytowi, któremu wysokość emerytury wojskowej została ustalona podstawie art. 15a ustawy zmienianej art. 1, a który został zwolniony ze służby Wojsku Polskim spełnia warunek określony art. 3 ustawy zmienianej art. 1, któremu nie ustalono prawa emerytury podstawie ustawy dnia 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2022 504), jego wniosek, złożony terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy, ustala ponownie wysokość emerytury wojskowej sposób określony art. ustawy zmienianej art. 1. Na wniosek osoby uprawnionej rodzinnej po emerycie, którym 1, złożony terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy, ponownie ustala wysokość rodzinnej, uwzględnieniem zasad określonych art. ustawy zmienianej art. 1.
+1. Emerytowi, któremu wysokość emerytury wojskowej została ustalona na podstawie art. 15a ustawy zmienianej w art. 1, a który został zwolniony ze służby w Wojsku Polskim i spełnia warunek określony w art. 15aa ust. 3 ustawy zmienianej w art. 1, któremu nie ustalono prawa do emerytury na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504), na jego wniosek, złożony w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, ustala się ponownie wysokość emerytury wojskowej w sposób określony w art. 15aa ustawy zmienianej w art. 1.
 
-3. Do postępowań dotyczących ustalenia wysokości emerytury wojskowej podstawie art. 15a ustawy zmienianej art. 1 postępowań dotyczących ustalenia prawa rodzinnej po emerytach, których art. 24 pkt 3 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe.
+2. Na wniosek osoby uprawnionej do renty rodzinnej po emerycie, o którym mowa w ust. 1, złożony w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, ponownie ustala się wysokość renty rodzinnej, z uwzględnieniem zasad określonych w art. 15aa ustawy zmienianej w art. 1.
 
-4. Organ emerytalny, wydając decyzję kończącą postępowanie, którym 3, informuje osoby uprawnione możliwości złożenia wniosku, którym 1 lub
+3. Do postępowań dotyczących ustalenia wysokości emerytury wojskowej na podstawie art. 15a ustawy zmienianej w art. 1 oraz postępowań dotyczących ustalenia prawa do renty rodzinnej po emerytach, o których mowa w art. 24 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+4. Organ emerytalny, wydając decyzję kończącą postępowanie, o którym mowa w ust. 3, informuje osoby uprawnione o możliwości złożenia wniosku, o którym mowa w ust. 1 lub 2.
 
 **Art. 11.**
 
-1. Emerytowi, któremu wysokość emerytury policyjnej została ustalona podstawie art. 15a albo art. 15d ustawy zmienianej art. 2, a który spełnia warunek określony art. 3 ustawy zmienianej art. 2, któremu nie ustalono prawa emerytury podstawie ustawy dnia 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych, jego wniosek, złożony terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy, ustala ponownie wysokość emerytury policyjnej sposób określony art. ustawy zmienianej art. Na wniosek osoby uprawnionej rodzinnej po emerycie, którym 1, złożony terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy, ponownie ustala wysokość rodzinnej, uwzględnieniem zasad określonych art. ustawy zmienianej art.
+1. Emerytowi, któremu wysokość emerytury policyjnej została ustalona na podstawie art. 15a albo art. 15d ustawy zmienianej w art. 2, a który spełnia warunek określony w art. 15aa ust. 3 ustawy zmienianej w art. 2, któremu nie ustalono prawa do emerytury na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, na jego wniosek, złożony w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, ustala się ponownie wysokość emerytury policyjnej w sposób określony w art. 15aa ustawy zmienianej w art. 2.
 
-3. Do postępowań dotyczących ustalenia wysokości emerytury policyjnej podstawie art. 15a albo art. 15d ustawy zmienianej art. 2 postępowań dotyczących ustalenia prawa rodzinnej po emerytach, których art. 24 pkt 3 ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe.
+2. Na wniosek osoby uprawnionej do renty rodzinnej po emerycie, o którym mowa w ust. 1, złożony w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, ponownie ustala się wysokość renty rodzinnej, z uwzględnieniem zasad określonych w art. 15aa ustawy zmienianej w art. 2.
 
-4. Organ emerytalny, wydając decyzję kończącą postępowanie, którym 3, informuje osoby uprawnione możliwości złożenia wniosku, którym 1 lub
+3. Do postępowań dotyczących ustalenia wysokości emerytury policyjnej na podstawie art. 15a albo art. 15d ustawy zmienianej w art. 2 oraz postępowań dotyczących ustalenia prawa do renty rodzinnej po emerytach, o których mowa w art. 24 pkt 3 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 12.** Funkcjonariuszom Służby Celnej lub funkcjonariuszom Służby Celno-Skarbowej, którzy zostali zwolnieni ze służby albo których stosunek służbowy został przekształcony albo wygasł okresie od dnia 3 marca 2015 dnia wejścia życie niniejszej ustawy, przysługuje prawo emerytury policyjnej zasadach określonych art. 15d lub art. 15e ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, przypadku gdy funkcjonariusz Służby Celnej lub funkcjonariusz Służby Celno-Skarbowej we wskazanym wyżej okresie spełniał przesłanki nabycia prawa emerytury określone art. 12 ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą.
+4. Organ emerytalny, wydając decyzję kończącą postępowanie, o którym mowa w ust. 3, informuje osoby uprawnione o możliwości złożenia wniosku, o którym mowa w ust. 1 lub 2.
 
-**Art. 13.** W stosunku funkcjonariuszy, wobec których wydano decyzję odmowie przyznania świadczenia motywacyjnego albo decyzję stwierdzającą ustanie prawa wypłaty tego świadczenia podstawie art. 120a 7 pkt 2 ustawy zmienianej art. 3, art. 117d 6 pkt 2 ustawy zmienianej art. 4, art. 97e 6 pkt 3 ustawy zmienianej art. 5, art. 208f 5 pkt 2 ustawy zmienianej art. 8 albo art. 172b 6 pkt 2 ustawy zmienianej art. 9, brzmieniu dotychczasowym, decyzję przyznaniu lub odmowie przyznania świadczenia motywacyjnego wydaje terminie 3 miesięcy od dnia wejścia
+**Art. 12.** Funkcjonariuszom Służby Celnej lub funkcjonariuszom Służby Celno-Skarbowej, którzy zostali zwolnieni ze służby albo których stosunek służbowy został przekształcony albo wygasł w okresie od dnia 3 marca 2015 r. do dnia wejścia w życie niniejszej ustawy, przysługuje prawo do emerytury policyjnej na zasadach określonych w art. 15d lub art. 15e ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, w przypadku gdy funkcjonariusz Służby Celnej lub funkcjonariusz Służby Celno-Skarbowej we wskazanym wyżej okresie spełniał przesłanki do nabycia prawa do emerytury określone w art. 12 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 13.** W stosunku do funkcjonariuszy, wobec których wydano decyzję o odmowie przyznania świadczenia motywacyjnego albo decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia na podstawie art. 120a ust. 7 pkt 2 ustawy zmienianej w art. 3, art. 117d ust. 6 pkt 2 ustawy zmienianej w art. 4, art. 97e ust. 6 pkt 3 ustawy zmienianej w art. 5, art. 208f ust. 5 pkt 2 ustawy zmienianej w art. 8 albo art. 172b ust. 6 pkt 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego wydaje się w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy. W przypadku wydania decyzji o przyznaniu świadczenia motywacyjnego wypłata świadczenia następuje za okres od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

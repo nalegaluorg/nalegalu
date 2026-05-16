@@ -8,9 +8,10 @@ pos: 4
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 stycznia 2015
+# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,35 +25,176 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/4/text.pdf) |
 
-USTAWA dnia 28 listopada 2014 o zmianie ustawy Kodeks spółek handlowych oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030 oraz z 2014 r. poz. 265 i 1161) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 15 września 2000 Kodeks spółek handlowych (Dz. U. 2013 poz. 1030 oraz 2014 poz. 265 i 1161) wprowadza się następujące zmiany:
+**Art. 231.**
 
-**Art. 2.** W ustawie dnia 23 kwietnia 1964 Kodeks cywilny (Dz. U. 2014 poz. 121 i 827) uchyla się art. 109 .
+§ 1. Umowa spółki jawnej może być zawarta również przy wykorzystaniu wzorca umowy.
 
-**Art. 3.** W ustawie dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 2014 poz. 101, późn. zm. ) wprowadza się następujące zmiany:
+§ 2. Zawarcie umowy spółki jawnej przy wykorzystaniu wzorca umowy wymaga wypełnienia formularza umowy udostępnionego w systemie teleinformatycznym i opatrzenia umowy bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP.
 
-**Art. 4.** W ustawie dnia 29 września 1994 o rachunkowości (Dz. U. 2013 poz. 330, późn. zm. ) wprowadza się następujące zmiany:
+§ 3. Umowa spółki jawnej, o której mowa w § 1, jest zawarta po wprowadzeniu do systemu teleinformatycznego wszystkich danych koniecznych do jej zawarcia i z chwilą opatrzenia ich podpisami elektronicznymi wspólników.
 
-**Art. 5.** W ustawie dnia 20 sierpnia 1997 o Krajowym Rejestrze Sądowym (Dz. U. 2013 poz. 1203, późn. zm. ) wprowadza się następujące zmiany:
+§ 4. Umowa spółki jawnej, o której mowa w § 1, może być również zmieniona, w zakresie postanowień zmiennych umowy, przy wykorzystaniu wzorca uchwały zmieniającej umowę spółki udostępnionego w systemie teleinformatycznym. Przepis § 2 stosuje się odpowiednio. Jeżeli umowa nie jest zmieniana przy wykorzystaniu wzorca uchwały, zmiana następuje przez sporządzenie nowego tekstu umowy spółki.
 
-**Art. 6.** W ustawie dnia 28 lipca 2005 o kosztach sądowych sprawach cywilnych (Dz. U. 2014 poz. 1025, późn. zm. ) wprowadza się następujące zmiany:
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec umowy oraz wzorzec uchwały zmieniającej umowę spółki jawnej, a także wzorce innych uchwał i czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania spółek, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu gospodarczego.
+
+§ 6. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania konta w systemie teleinformatycznym, sposób korzystania z systemu teleinformatycznego i podejmowania w nim czynności związanych z zawiązaniem spółki jawnej przy wykorzystaniu wzorca umowy oraz innych czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania i funkcjonowania spółek, zapewnienia sprawności postępowania oraz ochrony bezpieczeństwa i pewności obrotu gospodarczego, a także konieczność zabezpieczenia danych zgromadzonych w systemie, w tym danych osobowych. ” ;
+
+- **4)** w art. 26 § 3 i 4 otrzymują brzmienie: „
+
+§ 3. Każdy wspólnik ma prawo i obowiązek zgłoszenia spółki jawnej do rejestru.
+
+§ 4. Spółka, o której mowa w art. 860 Kodeksu cywilnego (spółka cywilna), może być przekształcona w spółkę jawną, przy czym umowa spółki jawnej nie może być zawarta przy wykorzystaniu wzorca umowy. Przekształcenie wymaga zgłoszenia do sądu rejestrowego przez wszystkich wspólników. Przepisy § 1–3 stosuje się odpowiednio. ” ;
+
+- **5)** po art. 40 dodaje się art. 401 w brzmieniu: „
+
+**Art. 401.**
+
+§ 1. Wspólnicy spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, mogą podjąć przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym uchwałę o zmianie adresu spółki oraz o zatwierdzeniu sprawozdania finansowego. W takim przypadku wniosek o wpis do rejestru składany jest za pośrednictwem systemu teleinformatycznego.
+
+§ 2. Podjęcie uchwały przy wykorzystaniu wzorca uchwały wymaga wypełnienia formularza uchwały udostępnionego w systemie teleinformatycznym i opatrzenia uchwały bezpiecznymi podpisami elektronicznymi weryfikowanymi przy pomocy ważnych kwalifikowanych certyfikatów albo podpisami potwierdzonymi profilem zaufanym ePUAP. Uchwała taka jest równoważna z uchwałą w formie pisemnej. ” ;
+
+- **6)** w art. 41 dodaje się § 3 i 4 w brzmieniu: „
+
+§ 3. W spółce, której umowa została zawarta przy wykorzystaniu wzorca umowy, wspólnicy mogą ustanowić prokurę przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym. W takim przypadku wniosek o wpis do rejestru składany jest za pośrednictwem systemu teleinformatycznego.
+
+§ 4. Uchwała, o której mowa w § 3, powinna być opatrzona bezpiecznymi podpisami elektronicznymi weryfikowanymi przy pomocy ważnych kwalifikowanych certyfikatów albo podpisami potwierdzonymi profilem zaufanym ePUAP i jest równoważna z uchwałą w formie pisemnej. ” ;
+
+- **7)** w art. 48 po § 2 dodaje się § 21 w brzmieniu: „
+
+§ 21. W przypadku zawarcia lub zmiany umowy spółki przy wykorzystaniu wzorca umowy wkład wspólnika może być wyłącznie pieniężny. ” ;
+
+- **8)** w art. 58 dotychczasową treść oznacza się jako § 1 i dodaje § 2 w brzmieniu: „
+
+§ 2. Uchwała o rozwiązaniu spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, może zostać podjęta przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym. Podjęcie uchwały przy wykorzystaniu wzorca uchwały wymaga wypełnienia formularza uchwały udostępnionego w systemie teleinformatycznym i opatrzenia uchwały bezpiecznymi podpisami elektronicznymi weryfikowanymi przy pomocy ważnych kwalifikowanych certyfikatów albo podpisami potwierdzonymi profilem zaufanym ePUAP. Uchwała taka jest równoważna z uchwałą w formie pisemnej. ” ;
+
+- **9)** w art. 74 uchyla się § 2;
+- **10)** w art. 103 dotychczasową treść oznacza się jako § 1 i dodaje § 2 w brzmieniu: „
+
+§ 2. Do spółki komandytowej, której umowa została zawarta przy wykorzystaniu wzorca umowy, stosuje się odpowiednio przepisy o spółce jawnej, której umowa została zawarta przy wykorzystaniu wzorca umowy. ” ;
+
+- **11)** po art. 106 dodaje się art. 1061 w brzmieniu: „
+
+**Art. 1061.**
+
+§ 1. Umowa spółki komandytowej może być zawarta również przy wykorzystaniu wzorca umowy.
+
+§ 2. Zawarcie umowy spółki komandytowej przy wykorzystaniu wzorca umowy wymaga wypełnienia formularza umowy udostępnionego w systemie teleinformatycznym i opatrzenia umowy bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP.
+
+§ 3. Umowa spółki komandytowej, o której mowa w § 1, jest zawarta po wprowadzeniu do systemu teleinformatycznego wszystkich danych koniecznych do jej zawarcia i z chwilą opatrzenia ich podpisami elektronicznymi wspólników.
+
+§ 4. Umowa spółki komandytowej, o której mowa w § 1, może być również zmieniona, w zakresie postanowień zmiennych umowy, przy wykorzystaniu wzorca uchwały zmieniającej umowę spółki udostępnionego w systemie teleinformatycznym. Przepis § 2 stosuje się odpowiednio. Jeżeli umowa nie jest zmieniana przy wykorzystaniu wzorca uchwały, zmiana następuje przez sporządzenie nowego tekstu umowy spółki.
+
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec umowy oraz wzorzec uchwały zmieniającej umowę spółki komandytowej, a także wzorce innych uchwał i czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania spółek, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu gospodarczego.
+
+§ 6. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania konta w systemie teleinformatycznym, sposób korzystania z systemu teleinformatycznego i podejmowania w nim czynności związanych z zawiązaniem spółki komandytowej przy wykorzystaniu wzorca umowy oraz innych czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania spółek, zapewnienia sprawności postępowania oraz ochrony bezpieczeństwa i pewności obrotu gospodarczego, a także konieczność zabezpieczenia danych zgromadzonych w systemie, w tym danych osobowych. ” ;
+
+- **12)** w art. 1571: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Umowa spółki z ograniczoną odpowiedzialnością może być zawarta również przy wykorzystaniu wzorca umowy. ” , uchyla się § 4, § 5 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec umowy oraz wzorzec uchwały zmieniającej umowę spółki z ograniczoną odpowiedzialnością, a także wzorce innych uchwał i czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania spółek, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu gospodarczego. ” ;
+
+- **13)** w art. 158 § 12 otrzymuje brzmienie: „
+
+§ 12. Podwyższenie kapitału zakładowego dokonywane po wpisie do rejestru spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, może być pokryte wyłącznie wkładami pieniężnymi, jeżeli zmiany umowy spółki dokonano przy wykorzystaniu wzorca uchwały zmieniającej umowę spółki z ograniczoną odpowiedzialnością, a w przypadku gdy zmiany umowy spółki dokonano w formie aktu notarialnego – także wkładami niepieniężnymi. ” ;
+
+- **14)** w art. 167: w § 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** oświadczenie wszystkich członków zarządu, że wkłady zostały wniesione w całości przez wszystkich wspólników, ” , § 3 otrzymuje brzmienie: „
+    - **b)**
+
+§ 3. Adresy członków zarządu należy dołączyć do zgłoszenia spółki oraz zmian w jej składzie osobowym, a także w przypadku każdorazowej zmiany adresu. Do chwili zgłoszenia zmiany adresu adres zgłoszony do rejestru jest adresem, na który dokonuje się doręczeń dla członka zarządu. ” , w § 5 uchyla się pkt 2;
+
+- **c)**
+- **15)** w art. 169 dotychczasową treść oznacza się jako § 1 i dodaje § 2 w brzmieniu: „
+
+§ 2. W przypadku spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, termin, o którym mowa w § 1, wynosi 7 dni. ” ;
+
+- **16)** w art. 180 dotychczasową treść oznacza się jako § 1 i dodaje § 2 w brzmieniu: „
+
+§ 2. W przypadku spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, zbycie przez wspólnika udziałów jest możliwe również przy wykorzystaniu wzorca udostępnionego w systemie teleinformatycznym. Oświadczenia zbywcy i nabywcy opatrzone powinny być bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP. ” ;
+
+- **17)** w art. 188 dodaje się § 4 w brzmieniu: „
+
+§ 4. Jeżeli zmiana wspólników następuje na podstawie umowy, o której mowa w art. 180 § 2, albo jest skutkiem uchwały podjętej przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym, lista wspólników powinna być sporządzona przy wykorzystaniu wzorca udostępnionego w systemie teleinformatycznym i opatrzona bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP. ” ;
+
+- **18)** w art. 208 dodaje się § 9–11 w brzmieniu: „
+
+§ 9. W spółce, której umowa została zawarta przy wykorzystaniu wzorca umowy, podjęcie uchwały o ustanowieniu prokury może nastąpić przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym. W takim przypadku wniosek o wpis do rejestru składany jest za pośrednictwem systemu teleinformatycznego.
+
+§ 10. Uchwała, o której mowa w § 9, powinna być opatrzona bezpiecznymi podpisami elektronicznymi weryfikowanymi przy pomocy ważnych kwalifikowanych certyfikatów albo podpisami potwierdzonymi profilem zaufanym ePUAP i jest równoważna z uchwałą w formie pisemnej.
+
+§ 11. Na zasadach określonych w § 9 i 10 można podjąć również uchwałę o zmianie adresu spółki. ” ;
+
+- **19)** w art. 210: po § 1 dodaje się § 11 w brzmieniu: „
+    - **a)**
+
+§ 11. Uchwała o powołaniu pełnomocnika, o którym mowa w § 1, powołanego w celu zawarcia z członkiem zarządu umowy spółki, która ma zostać zawarta przy wykorzystaniu wzorca umowy, może być podjęta przy wykorzystaniu wzorca udostępnionego w systemie teleinformatycznym. ” , dodaje się § 3 w brzmieniu: „
+
+- **b)**
+
+§ 3. Wymogu zachowania formy aktu notarialnego, o którym mowa w § 2, nie stosuje się do czynności prawnej dokonywanej przy wykorzystaniu wzorca udostępnionego w systemie teleinformatycznym. ” ;
+
+- **20)** po art. 240 dodaje się art. 2401 w brzmieniu: „
+
+**Art. 2401.**
+
+§ 1. W spółce, której umowa została zawarta przy wykorzystaniu wzorca umowy, uchwały wspólników mogą być podjęte przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym. W takim przypadku wniosek o wpis do rejestru składany jest za pośrednictwem systemu teleinformatycznego.
+
+§ 2. Podjęcie uchwały, o której mowa w § 1, nie wymaga formalnego zwołania zgromadzenia wspólników, warunkiem jej podjęcia jest jednak wykonanie co do niej prawa głosu przez wszystkich wspólników. Prawo głosu wykonuje się poprzez oświadczenie złożone w systemie teleinformatycznym, opatrzone bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP. Przy wykonywaniu prawa głosu wspólnik może zgłosić sprzeciw co do uchwały. Uchwała jest równoważna z uchwałą sporządzoną w formie pisemnej, z zastrzeżeniem art. 255 § 4.
+
+§ 3. Do uchwał, o których mowa w § 1, nie stosuje się art. 247 § 2.
+
+§ 4. Przepisy § 1–3 stosuje się odpowiednio do uchwał innych organów spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, jeżeli podlegają one przesłaniu sądowi rejestrowemu w celu ich złożenia w aktach rejestrowych. ” ;
+
+- **21)** w art. 248 § 3 otrzymuje brzmienie: „
+
+§ 3. Uchwały pisemne powzięte zgodnie z art. 227 § 2 zarząd wpisuje do księgi protokołów. Uchwały powzięte zgodnie z art. 2401 dołącza się do księgi protokołów w postaci wydruków uchwał z systemu teleinformatycznego poświadczonych podpisami zarządu. ” ;
+
+- **22)** w art. 255 dodaje się § 4 w brzmieniu: „
+
+§ 4. Umowa spółki zawarta przy wykorzystaniu wzorca umowy może być również zmieniona, w zakresie postanowień zmiennych umowy, w tym również co do wysokości kapitału spółki, przy wykorzystaniu wzorca uchwały zmieniającej umowę spółki z ograniczoną odpowiedzialnością udostępnionego w systemie teleinformatycznym, podjętej zgodnie z art. 2401. Uchwała jest równoważna z uchwałą, o której mowa w § 3. ” ;
+
+- **23)** po art. 259 dodaje się art. 2591 w brzmieniu: „
+
+**Art. 2591.** Jeżeli podwyższenie kapitału zakładowego dotyczy spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, i nastąpiło przy zastosowaniu art. 255 § 4, do oświadczeń, o których mowa w art. 258 § 2 i art. 259, nie stosuje się formy aktu notarialnego. Oświadczenia wymagają złożenia ich w systemie teleinformatycznym i opatrzenia bezpiecznym podpisem elektronicznym z ważnym kwalifikowanym certyfikatem albo podpisem potwierdzonym profilem zaufanym ePUAP. ” ;
+
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121 i 827) uchyla się art. 1099.
+
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 70a.** Kierownik jednostki będącej spółką jawną osób fizycznych lub spółką partnerską, której przychody netto ze sprzedaży towarów, produktów i operacji finansowych za poprzedni rok obrotowy wyniosły mniej niż równowartość w walucie polskiej 1 200 000 euro i która nie stosuje zasad rachunkowości określonych ustawą na podstawie art. 2 ust. 2, składa w sądzie rejestrowym prowadzącym Krajowy Rejestr Sądowy, w terminie 6 miesięcy od dnia kończącego rok obrotowy, oświadczenie o braku obowiązku sporządzenia i złożenia rocznego sprawozdania finansowego. ” .
+
+**Art. 5.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2013 r. poz. 1203, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 6.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 104a.** W elektronicznym postępowaniu upominawczym oraz do złożenia wniosku o wpis do Krajowego Rejestru Sądowego spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym, przepisów art. 96 ust. 1 pkt 10, art. 100–103, art. 104 ust. 2 i art. 105 nie stosuje się. ” .
 
 **Art. 7.**
 
-1. Podmiot wpisany do rejestru dniu wejścia życie niniejszej ustawy, składa wniosek o wpis informacji o dniu kończącym rok obrotowy, wraz pierwszym wnioskiem o wpis wzmianki o złożeniu sprawozdania finansowego złożonym po dniu wejścia życie niniejszej ustawy. Opłatę sądową pobiera się tylko od wniosku o wpis wzmianki i Gospodarczym. Postanowienie o wpisaniu wyłącznie tej wzmianki nie podlega doręczeniu podmiotowi, którego dotyczy.
+1. Podmiot wpisany do rejestru w dniu wejścia w życie niniejszej ustawy, składa wniosek o wpis informacji o dniu kończącym rok obrotowy, wraz z pierwszym wnioskiem o wpis wzmianki o złożeniu sprawozdania finansowego złożonym po dniu wejścia w życie niniejszej ustawy. Opłatę sądową pobiera się tylko od wniosku o wpis wzmianki o złożeniu sprawozdania finansowego. W przypadku złożenia odrębnego wniosku o wpis informacji o dniu kończącym rok obrotowy nie pobiera się od tego wniosku opłaty sądowej i opłaty za ogłoszenie wpisu w Monitorze Sądowym i Gospodarczym. Postanowienie o wpisaniu wyłącznie tej wzmianki nie podlega doręczeniu podmiotowi, którego dotyczy.
 
 2. Sąd rejestrowy, dokonując wpisu wzmianki o złożeniu sprawozdania finansowego dokona tym samym postanowieniem wpisu informacji o dniu kończącym rok obrotowy również wtedy, gdy nie złożono wniosku o wpis informacji.
 
-3. Jeżeli informacja o dniu kończącym rok obrotowy nie będzie wpisana do rejestru terminie 12 miesięcy od dnia wejścia życie niniejszej ustawy, sąd rejestrowy dokona wpisu tej informacji urzędu. Wydane urzędu postanowienie dotyczące wyłącznie takiego wpisu nie podlega uzasadnieniu i doręczeniu podmiotowi, którego dotyczy.
+3. Jeżeli informacja o dniu kończącym rok obrotowy nie będzie wpisana do rejestru w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, sąd rejestrowy dokona wpisu tej informacji z urzędu. Wydane z urzędu postanowienie dotyczące wyłącznie takiego wpisu nie podlega uzasadnieniu i doręczeniu podmiotowi, którego dotyczy.
 
-**Art. 8.** Do dnia 31 marca 2016 ustanowienie prokury przy wykorzystaniu wzorca uchwały udostępnionego systemie teleinformatycznym możliwe jest wyłącznie dla podmiotu niewpisanego dotychczas do rejestru i podlega zgłoszeniu do rejestru wraz pierwszym wnioskiem o wpis.
+**Art. 8.** Do dnia 31 marca 2016 r. ustanowienie prokury przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym możliwe jest wyłącznie dla podmiotu niewpisanego dotychczas do rejestru i podlega zgłoszeniu do rejestru wraz z pierwszym wnioskiem o wpis.
 
-**Art. 9.** Do dnia 31 marca 2016 wnioski, o których mowa art. 694 3, oraz dokumenty, o których mowa art. 694 2 ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, wyjątkiem wniosków dotyczących złożenia sprawozdania finansowego oraz rejestracji spółek jawnej i komandytowej, których umowy zostały zawarte przy wykorzystaniu wzorca umowy udostępnionego systemie teleinformatycznym, a także dołączanych do tych wniosków dokumentów, podlegają opatrzeniu bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu.
+**Art. 9.** Do dnia 31 marca 2016 r. wnioski, o których mowa w art. 6943 § 3, oraz dokumenty, o których mowa w art. 6944 § 2 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, z wyjątkiem wniosków dotyczących złożenia sprawozdania finansowego oraz rejestracji spółek jawnej i komandytowej, których umowy zostały zawarte przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym, a także dołączanych do tych wniosków dokumentów, podlegają opatrzeniu bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu.
 
-**Art. 10.** Do opłat, o których mowa art. 52 ustawy zmienianej art. 6 brzmieniu dotychczasowym, sprawach wszczętych i niezakończonych dniu wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+**Art. 10.** Do opłat, o których mowa w art. 52 ustawy zmienianej w art. 6 w brzmieniu dotychczasowym, w sprawach wszczętych i niezakończonych w dniu wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 157 5 ustawy zmienianej art. 1, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 157 5 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 marca 2016
+**Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1571 § 5 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 1571 § 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 marca 2016 r.
 
-**Art. 12.** Ustawa wchodzi życie dniem 15 stycznia 2015 r., wyjątkiem art. 1 pkt 2, 3 zakresie dodawanego art. 23 4, pkt 5, 8, 11 zakresie dodawanego art. 106 4, pkt 13, 16, 17, 18 zakresie dodawanego art. 208 11 i pkt 20–24 oraz art. 6 pkt 2, które wchodzą życie dniem 1 kwietnia 2016 Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 12.** Ustawa wchodzi w życie z dniem 15 stycznia 2015 r., z wyjątkiem art. 1 pkt 2, 3 w zakresie dodawanego art. 231 § 4, pkt 5, 8, 11 w zakresie dodawanego art. 1061 § 4, pkt 13, 16, 17, 18 w zakresie dodawanego w art. 208 § 11 i pkt 20–24 oraz art. 6 pkt 2, które wchodzą w życie z dniem 1 kwietnia 2016 r.
 

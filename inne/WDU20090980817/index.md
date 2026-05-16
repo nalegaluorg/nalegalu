@@ -8,9 +8,10 @@ pos: 817
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# felczera (Dz. U. 2004 53, 531 210, poz.2135) wart. 3:
+# Ustawa z dnia 7 maja 2009 r. o uchyleniu lub zmianie niektórych upoważnień do wydawania aktów wykonawczych
 
 | Pole | Wartość |
 |---|---|
@@ -24,62 +25,61 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090980817) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/817/text.pdf) |
 
-a) 1otrzymuje brzmienie: Ń1. Felczerowi, wykonującemu zawód ponad trzy lata, przysługuje tytuł starszego felczera.”,
-b) uchyla się 4.
+**Art. 1.** W ustawie z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. z 2004 r. Nr 53, poz. 531 i Nr 210, poz. 2135) w art. 3:
 
-**Art. 2.** W ustawie dnia 31 stycznia 1959 cmentarzach chowaniu zmarłych (Dz. U. 2000 23, 295, zpóên. zm. Ń3. Zwłoki niepochowane przez podmioty, których mowa 1, albo nieprzekazane publicznej uczelni medycznej albo publicznej uczelni prowadzącej działalność dydaktyczną badawczą dziedzinie nauk medycznych są chowane przez gminę właściwą ze względu na miejsce zgonu, awprzypadku osób pozbawionych wolności zmarłych zakładach karnych lub aresztach śledczych przez dany zakład ) wart. 10: karny lub areszt śledczy, wyjątkiem zwłok osób, które uwolniły się zzakładu karnego lub aresztu śledczego, oraz osób, które przebywały poza terenem zakładu karnego lub aresztu śledczego, wszczególności wtrakcie korzystania zzezwolenia na czasowe opuszczenie tego zakładu lub aresztu bez dozoru lub asysty funkcjonariusza Służby Więziennej.”,
+**Art. 2.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2000 r. Nr 23, poz. 295, z późn. zm.) w art. 10:
 
-**Art. 3.** W ustawie dnia 26 czerwca 1974 Kodeks pracy (Dz. U. 1998 21, 94, póên. zm. ) art. 206 otrzymuje brzmienie: ŃArt. 206. Przepisy art. 190—205 stosuje się odpowiednio do młodocianych zatrudnionych na podstawie umowy oprzygotowanie zawodowe u pracodawców będących rzemieślnikami.”. ——————— ——————— r niem art. 33.”;
+**Art. 3.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.) art. 206 otrzymuje brzmienie: „
 
-**Art. 5.** Wustawie zdnia 17 maja 1989 ogwarancjach wolności sumienia wyznania (Dz. U. 2005 231, 1965) uchyla się art. 23.
+**Art. 206.** Przepisy art. 190–205 stosuje się odpowiednio do młodocianych zatrudnionych na podstawie umowy o przygotowanie zawodowe u pracodawców będących rzemieślnikami. ” .
 
-**Art. 6.** W ustawie dnia 17 maja 1989 Prawo geodezyjne kartograficzne (Dz. U. 2005 240, 2027, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 16 lipca 1987 r. o państwowych instytucjach filmowych (Dz. U. z 2007 r. Nr 102, poz. 710) wprowadza się następujące zmiany:
 
-**Art. 7.** Wustawie zdnia 6kwietnia 1990 oPolicji (Dz. U. z2007 43, 277, zpóên. zm.
+**Art. 33.** Państwowa instytucja filmowa prowadzi działalność na podstawie planu, który ustala dyrektor, a następnie zatwierdza minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. ” ;
 
-**Art. 8.** W ustawie dnia 12 paêdziernika 1990 oStraży Granicznej (Dz. U. z2005 234, 1997, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2005 r. Nr 231, poz. 1965) uchyla się art. 23.
 
-**Art. 9.** Wustawie zdnia 21 marca 1991 oobszarach morskich Rzeczypospolitej Polskiej administracji morskiej (Dz. U. z2003 153, 1502, zpóên. zm. ) wart. 45 uchyla się 3.
+**Art. 6.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie dnia 30 sierpnia 1991 zakładach opieki zdrowotnej (Dz. U. 2007 14, 89, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm.) w art. 36:
 
-**Art. 11.** W ustawie dnia 19 paêdziernika 1991 gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z2007 231, 1700, z2008r. 227, 1505 oraz z2009 19, 100 42,
+**Art. 8.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. Nr 234, poz. 1997, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 12.** W ustawie dnia 19 sierpnia 1994 ochronie zdrowia psychicznego (Dz. U. 111, 535, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.) w art. 45 uchyla się ust. 3.
 
-**Art. 13.** W ustawie dnia 8 sierpnia 1996 Radzie Ministrów (Dz. U. z2003 24, 199, zpóên. zm. ) wart. 39 6i7otrzymują brzmienie: Ń6. Minister ustala, wdrodze zarządzenia, regulamin organizacyjny ministerstwa określający zakres zadań tryb pracy komórek organizacyjnych ministerstwa oraz, ile przepisy szczególne nie stanowią inaczej, jednostek podległych nadzorowanych przez ministra. ——————— ——————— r Ń§ 9. Minister Sprawiedliwości porozumieniu ministrem właściwym do spraw zdrowia określi, drodze rozporządzenia, szczegółowe warunki, zakres tryb udzielania świadczeń zdrowotnych osobom pozbawionym wolności przez zakłady opieki zdrowotnej dla osób pozbawionych wolności, mając na uwadze konieczność zapewnienia osobom pozbawionym wolności świadczeń opieki zdrowotnej także przez pozawięzienne zakłady opieki zdrowotnej, jeżeli ich udzielenie przez zakłady przeznaczone dla osób pozbawionych wolności nie jest możliwe.”.
+**Art. 10.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 15.** Wustawie zdnia 20 czerwca 1997 Prawo ruchu drogowym (Dz. U. 2005 108, poz.908, zpóên. zm.
+**Art. 11.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100 i Nr 42, poz. 340) w art. 20a:
 
-**Art. 18.** W ustawie dnia 22 sierpnia 1997 ochronie osób mienia (Dz. U. 2005 145, 1221, 2006 104, 708 oraz 2008 171, 1055 180, 1112) art. 6 2 otrzymuje brzmienie: Ń2. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, określi, drodze rozporządzenia, wymagania, jakim powinna odpowiadać ochrona wartości pieniężnych przechowywanych transportowanych przez przedsiębiorców inne jednostki organizacyjne, uwzględniając konieczność zapewnienia należytego poziomu bezpieczeństwa chronionych wartości pieniężnych.”.
+**Art. 12.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 19.** W ustawie dnia 27 sierpnia 1997 rehabilitacji zawodowej społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 2008 14, 92, póên. zm.
+**Art. 13.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.) w art. 39 ust. 6 i 7 otrzymują brzmienie: „ 6. Minister ustala, w drodze zarządzenia, regulamin organizacyjny ministerstwa określający zakres zadań i tryb pracy komórek organizacyjnych ministerstwa oraz, o ile przepisy szczególne nie stanowią inaczej, jednostek podległych i nadzorowanych przez ministra. 7. Dyrektor Generalny zatwierdza wewnętrzne regulaminy organizacyjne komórek organizacyjnych ministerstwa oraz, o ile przepisy szczególne nie stanowią inaczej, jednostek organizacyjnych podległych ministrowi. ” .
 
-**Art. 22.** Wustawie zdnia 9listopada 2000 obezpieczeństwie morskim (Dz. U. z2006 99, 693, zpóên. zm. ) wprowadza się następujące zmiany: ) wart. 15 wust. 1uchyla się pkt 3.
+**Art. 14.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) w art. 115 § 9 otrzymuje brzmienie: „
 
-**Art. 23.** W ustawie dnia 21 grudnia 2000 dozorze technicznym (Dz. U. 122, 1321, póên. zm. ) wart. 34 3otrzymuje brzmienie: Ń3. Minister właściwy do spraw gospodarki określi, drodze rozporządzenia, wysokość opłat, których mowa 1, uwzględniając szczególności rodzaje urządzeń technicznych oraz czynności wykonywane przez jednostki dozoru technicznego, za które pobierane są opłaty.”.
+**Art. 15.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) w art. 6:
 
-**Art. 24.** Wustawie zdnia 6września 2001 Prawo farmaceutyczne (Dz. U. 2008 45, 271, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 16.** W ustawie z dnia 25 czerwca 1997 r. o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych (Dz. U. Nr 106, poz. 673 oraz z 2000 r. Nr 31, poz. 383) uchyla się rozdział 2.
 
-**Art. 25.** W ustawie dnia 6 września 2001 transporcie drogowym (Dz. U. 2007 125, poz.874, zpóên. zm. ) wart. 27 uchyla się 2.
+**Art. 17.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 26.** W ustawie dnia 24 maja 2002 Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. 74, 676, zpóên. zm. wypoczynkowy,
+**Art. 18.** W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z 2006 r. Nr 104, poz. 708 oraz z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112) w art. 6 ust. 2 otrzymuje brzmienie: „ 2. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, określi, w drodze rozporządzenia, wymagania, jakim powinna odpowiadać ochrona wartości pieniężnych przechowywanych i transportowanych przez przedsiębiorców i inne jednostki organizacyjne, uwzględniając konieczność zapewnienia należytego poziomu bezpieczeństwa chronionych wartości pieniężnych. ” .
 
-**Art. 27.** W ustawie dnia 20 grudnia 2002 organizacji niektórych rynków rolnych (Dz. U. 240, ) wprowadza się następujące zmiany:
+**Art. 19.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2008 r. Nr 14, poz. 92, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 28.** Wustawie zdnia 28 marca 2003 otransporcie kolejowym (Dz. U. 2007 16, 94, zpóên. zm. ) uchyla się art. 42.
+**Art. 20.** W ustawie z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności (Dz. U. Nr 123, poz. 777, z 2003 r. Nr 202, poz. 1957, z 2004 r. Nr 273, poz. 2703 oraz z 2006 r. Nr 66, poz. 471) uchyla się art. 10.
 
-**Art. 29.** Wustawie zdnia 26 czerwca 2003 onasiennictwie (Dz. U. 2007 41, 271, 80, 541 191, 1362 oraz 2009 69, poz.591) wprowadza się następujące zmiany:
+**Art. 21.** W ustawie z dnia 26 października 2000 r. o sposobie obliczania wartości rocznego produktu krajowego brutto (Dz. U. Nr 114, poz. 1188) wprowadza się następujące zmiany:
 
-**Art. 30.** W ustawie dnia 18 grudnia 2003 ochronie roślin (Dz. U. 2008 133, 849 227, 1505 oraz 2009 20, 106 iNr31, 206) wprowadza się następujące zmiany:
+**Art. 22.** W ustawie z dnia 9 listopada 2000 r. o bezpieczeństwie morskim (Dz. U. z 2006 r. Nr 99, poz. 693, z późn. zm.) w art. 15 w ust. 1 uchyla się pkt 3.
 
-**Art. 31.** W ustawie dnia 27 sierpnia 2004 oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 164, poz.1027, zpóên. zm. ) wart. 151 uchyla się 7. iwarunki ich przechowywania oraz niszczenia, mając na względzie ich rodzaje ipodmioty wyspecjalizowane ich niszczeniu, konieczność właściwego zabezpieczenia tych środków isubstancji przed dostępem osób trzecich, a także zapewnienie sprawności postępowania karnego ijego koszt.”.
+**Art. 23.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. Nr 122, poz. 1321, z późn. zm.) w art. 34 ust. 3 otrzymuje brzmienie: „ 3. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, uwzględniając w szczególności rodzaje urządzeń technicznych oraz czynności wykonywane przez jednostki dozoru technicznego, za które pobierane są opłaty. ” .
 
-**Art. 33.** Wustawie zdnia 25 sierpnia 2006 obezpieczeństwie żywności żywienia (Dz. U. 171, 1225 oraz 2008 214, 1346, 223, poz.1463 234, 1570) wart. 74 wprowadzenie do wyliczenia otrzymuje brzmienie: ŃMinister właściwy do spraw zdrowia określi, wdrodze rozporządzenia:”.
+**Art. 24.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 34.** W ustawie dnia 29 czerwca 2007 zasadach pokrywania kosztów powstałych u wytwórców związku przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy energii elektrycznej (Dz. U. 130, 905 oraz 2008 Nr58, 357) wart. 11 uchyla się 4.
+**Art. 25.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.) w art. 27 uchyla się ust. 2.
 
-**Art. 35.** W ustawie dnia 7 września 2007 pomocy osobom uprawnionym do alimentów (Dz. U. 2009 1, 7, 6, 33 97, 800) wart. 15 9i10 otrzymują brzmienie: Ń9. Minister właściwy do spraw zabezpieczenia społecznego określi, wdrodze rozporządzenia:
+**Art. 26.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. Nr 74, poz. 676, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 36.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+**Art. 100.**
 

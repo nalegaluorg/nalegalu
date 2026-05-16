@@ -8,9 +8,10 @@ pos: 221
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 stycznia 2018 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 11 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej
 
 | Pole | Wartość |
 |---|---|
@@ -24,25 +25,27 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/221/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 stycznia 2018 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o uruchamianiu ś rodków pochodz ą cych z bud ż etu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. z 2012 r. poz. 1065), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 16 listopada 2016 r. Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U.
-poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409),
-2) ustawą z dnia 10 lutego 2017 r. Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U.
-poz. 624 i 1503) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 stycznia 2018 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 260 ustawy z dnia 16 listopada 2016 r. Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409), który stanowi: „Art. 260. Ustawa wchodzi w życie z dniem 1 marca 2017 r., z wyjątkiem:
-1) art. 1, art. 4 pkt 1 i pkt 11 lit. c i d, lit. e w zakresie § 12 i 13 oraz lit. f, art. 11, art. 13, art. 27, art. 38 pkt 39 lit. a tiret drugie, pkt 65 lit. a, pkt 68 lit. a w zakresie pkt 1, pkt 76 lit. b tiret drugie, art. 119, art. 148, art. 160 ust. 2 i 3, art. 162 ust. 1 pkt 1, art. 164, art. 165 ust. 1, 2 i 6, art. 178, art. 190 ust. 1, art. 201 ust. 1 i art. 259 ust. 1, które wchodzą w życie z dniem ogłoszenia;
-2) art. 150, który wchodzi w życie z dniem 1 stycznia 2017 r.;
-2a) art. 112 pkt 2–4, które wchodzą w życie z dniem 27 lutego 2017 r.;
-3) art. 4 pkt 12, który wchodzi w życie z dniem 1 stycznia 2018 r.;
-4) art. 149a:
-a) pkt 1, który wchodzi w życie z dniem 13 listopada 2017 r.,
-b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
-2) art. 60 ust. 1 i 2 i art. 61 ustawy z dnia 10 lutego 2017 r. Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), które stanowi ą :
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. z 2012 r. poz. 1065), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409),
+2)
+ustawą z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 stycznia 2018 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409), który stanowi:
+„
+
+**Art. 260.** Ustawa wchodzi w życie z dniem 1 marca 2017 r., z wyjątkiem:
 
 **Art. 60.** „1. Przepisy wykonawcze wydane na podstawie:
+
+**Art. 61.** Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem art. 45, art. 46, art. 49–51, art. 52 ust. 2–5 oraz art. 57 ust. 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia niniejszej ustawy. ” . Załącznik – Tekst jednolity ustawy z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej
 
 **Art. 1.** Ustawa określa:
 
@@ -81,27 +84,15 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 - **2)** przyczyny cofnięcia akredytacji,
 - **3)** datę cofnięcia akredytacji mając na względzie konieczność zapewnienia prawidłowego wydatkowania środków pochodzących z EFRG i EFRROW oraz zasady cofania akredytacji określone w rozporządzeniu nr 1290/2005 i rozporządzeniu nr 885/2006.
 
-2. Jednostka organizacyjna, której została cofnięta akredytacja jako agencji płatniczej, niezwłocznie przekazuje agencji płatniczej, wskazanej przez ministra właściwego do spraw finansów publicznych, pełną dokumentację i bazy danych w zakresie obj ę tym cofni ę t ą akredytacj ą .
+2. Jednostka organizacyjna, której została cofnięta akredytacja jako agencji płatniczej, niezwłocznie przekazuje agencji płatniczej, wskazanej przez ministra właściwego do spraw finansów publicznych, pełną dokumentację i bazy danych w zakresie objętym cofniętą akredytacją.
 
 **Art. 8.**
 
-- **6)** 1. Minister wła ś ciwy do spraw rozwoju wsi prowadzi sprawy zwi ą zane z post ę powaniami kontrolnymi Komisji Europejskiej wynikaj ą cymi z przepisów Unii Europejskiej.
+1. Minister właściwy do spraw rozwoju wsi prowadzi sprawy związane z postępowaniami kontrolnymi Komisji Europejskiej wynikającymi z przepisów Unii Europejskiej.
 
 2. Agencja płatnicza, organy administracji publicznej oraz państwowe i samorządowe jednostki organizacyjne na żądanie ministra właściwego do spraw rozwoju wsi udzielają informacji i wyjaśnień w zakresie dotyczącym spraw, o których mowa w ust. 1.
 
-**Art. 9.** (uchylony)
-
-**Art. 9a.**
-
-1. Minister właściwy do spraw rozwoju wsi sporządza i podaje do publicznej wiadomości wykaz beneficjentów, o którym mowa w art. 44a rozporządzenia nr 1290/2005.
-
-2. Wykaz beneficjentów jest publikowany na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rozwoju wsi.
-
-3. Poza informacjami określonymi w art. 1 ust. 1 rozporządzenia Komisji (WE) nr 259/2008 z dnia 18 marca 2008 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie publikowania informacji na temat beneficjentów środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 76 z 19.03.2008, str. 28, z późn. zm.), zwanego dalej „rozporządzeniem nr 259/2008”, w wykazie beneficjentów zamieszcza się numer identyfikacji podatkowej (NIP), jeżeli został nadany.
-
-4. Agencja płatnicza przekazuje ministrowi właściwemu do spraw rozwoju wsi informacje, o których mowa w ust. 3.
-
-5. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, tryb, formę i terminy przekazywania przez agencję płatniczą informacji, o których mowa w ust. 3, mając na względzie wykonanie przepisów rozporządzenia nr 259/2008 oraz prawidłową identyfikację podmiotów wskazanych w wykazie beneficjentów, o którym mowa w art. 44a rozporządzenia nr 1290/2005.
+**Art. 9.** (uchylony) 1. Minister właściwy do spraw rozwoju wsi sporządza i podaje do publicznej wiadomości wykaz beneficjentów, o którym mowa w art. 44a rozporządzenia nr 1290/2005. 2. Wykaz beneficjentów jest publikowany na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rozwoju wsi. 3. Poza informacjami określonymi w art. 1 ust. 1 rozporządzenia Komisji (WE) nr 259/2008 z dnia 18 marca 2008 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie publikowania informacji na temat beneficjentów środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 76 z 19.03.2008, str. 28, z późn. zm.), zwanego dalej „rozporządzeniem nr 259/2008”, w wykazie beneficjentów zamieszcza się numer identyfikacji podatkowej (NIP), jeżeli został nadany. 4. Agencja płatnicza przekazuje ministrowi właściwemu do spraw rozwoju wsi informacje, o których mowa w ust. 3. 5. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, tryb, formę i terminy przekazywania przez agencję płatniczą informacji, o których mowa w ust. 3, mając na względzie wykonanie przepisów rozporządzenia nr 259/2008 oraz prawidłową identyfikację podmiotów wskazanych w wykazie beneficjentów, o którym mowa w art. 44a rozporządzenia nr 1290/2005.
 
 **Art. 10.**
 
@@ -113,9 +104,7 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 
 4. Środki na finansowanie płatności w ramach wspólnej polityki rolnej w części współfinansowania krajowego są przekazywane agencji płatniczej w formie dotacji celowej przez ministra właściwego do spraw rozwoju wsi na podstawie zapotrzebowania składanego przez agencję płatniczą.
 
-5. Minister Finansów w porozumieniu z ministrem właściwym do spraw rozwoju wsi określi, w drodze rozporządzenia, warunki i tryb przekazywania na rachunek bankowy agencji płatniczej środków, o których mowa w ust. 1 i 4, oraz sposób postępowania ze środkami odzyskanymi od beneficjentów pomocy w ramach Wspólnej Polityki Rolnej, mając na względzie dochowanie terminów dokonywania płatności oraz prawidłowe gospodarowanie środkami publicznymi.
-
-**Art. 10a.**
+5. Minister Finansów  w porozumieniu z ministrem właściwym do spraw rozwoju wsi określi, w drodze rozporządzenia, warunki i tryb przekazywania na rachunek bankowy agencji płatniczej środków, o których mowa w ust. 1 i 4, oraz sposób postępowania ze środkami odzyskanymi od beneficjentów pomocy w ramach Wspólnej Polityki Rolnej, mając na względzie dochowanie terminów dokonywania płatności oraz prawidłowe gospodarowanie środkami publicznymi.
 
 1. Samorządy województw realizujące zadania z zakresu pomocy technicznej z udziałem środków EFRROW i krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z EFRROW oraz jednostki samorządu terytorialnego realizujące działanie: poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywaniem rolnictwa i leśnictwa przez scalanie gruntów i gospodarowanie rolniczymi zasobami wodnymi, w ramach programu rozwoju obszarów wiejskich, z udziałem środków EFRROW i krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z EFRROW mogą otrzymywać środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych, ponoszonych na realizację tych zadań.
 
@@ -123,8 +112,8 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 
 3. Środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację zadań, o których mowa w ust. 1 i 2, mogą być przekazywane przez właściwego dysponenta w formie dotacji celowej, o której mowa w art. 127 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych:
 
-- **1)** pkt 2 i 5 do wysokości udziału krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z udziałem środków EFRROW oraz przeznaczonych na finansowanie zadań z zakresu pomocy technicznej;
-- **2)** pkt 6 do wysokości udziału refundowanego ze środków EFRROW.
+- **1)** pkt 2 i 5 – do wysokości udziału krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z udziałem środków EFRROW oraz przeznaczonych na finansowanie zadań z zakresu pomocy technicznej;
+- **2)** pkt 6 – do wysokości udziału refundowanego ze środków EFRROW.
 
 4. Środki dotacji, o których mowa w ust. 3, są przekazywane jednostce samorządu terytorialnego, o której mowa w ust. 1, na podstawie przekazanych właściwemu dysponentowi harmonogramów płatności wynikających z zawartych umów lub wydanych decyzji o przyznaniu pomocy, lub zatwierdzonych przez właściwy podmiot wniosków o przyznanie pomocy, z zastrzeżeniem ust. 7.
 
@@ -148,13 +137,9 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 - **5)** termin i sposób rozliczania przyznanych środków;
 - **6)** warunki zwrotu środków nieprawidłowo wykorzystanych lub pobranych w nadmiernej wysokości lub w sposób nienależny.
 
-**Art. 10b.**
-
-1. Jeżeli jednostka samorządu terytorialnego, o której mowa w art. 10a ust. 1, wykorzysta środki na wyprzedzające finansowanie, o których mowa w art. 10a, niezgodnie z przeznaczeniem, jednostka ta zwraca środki w części wykorzystanej niezgodnie z przeznaczeniem, z wydatków bud ż etu tej jednostki przeznaczonych na realizacj ę jej zada ń własnych, wraz z odsetkami. Przepisy art. 10a ust. 5a i ust. 6 stosuje si ę odpowiednio w zakresie terminu.
+1. Jeżeli jednostka samorządu terytorialnego, o której mowa w art. 10a ust. 1, wykorzysta środki na wyprzedzające finansowanie, o których mowa w art. 10a, niezgodnie z przeznaczeniem, jednostka ta zwraca środki w części wykorzystanej niezgodnie z przeznaczeniem, z wydatków budżetu tej jednostki przeznaczonych na realizację jej zadań własnych, wraz z odsetkami. Przepisy art. 10a ust. 5a i ust. 6 stosuje się odpowiednio w zakresie terminu.
 
 2. (uchylony).
-
-**Art. 10c.**
 
 1. Beneficjenci programu rozwoju obszarów wiejskich realizujący operacje w ramach działań:
 
@@ -164,11 +149,11 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 
 2. Środki, o których mowa w ust. 1, są wypłacane beneficjentowi:
 
-- **1)** jeżeli beneficjent wnioskował o ich wypłatę we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. poz. 427, z późn. zm. ) , zwanej dalej „ustawą PROW”;
+- **1)** jeżeli beneficjent wnioskował o ich wypłatę we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawyz dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich(Dz. U. poz. 427, z późn. zm. ), zwanej dalej „ustawą PROW”;
 - **2)** na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW;
-- **3)** we wnioskowanej wysokości, nie wyższej od wysokości udziału krajowych środków publicznych pochodzących z budżetu państwa przeznaczonych na współfinansowanie wydatków realizowanych z EFRROW na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW, z tym że:
-    - **a)** w odniesieniu do działania szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie nie wyższej niż 25%,
-    - **b)** w odniesieniu do działań: wdrażanie lokalnych strategii rozwoju oraz wdrażanie projektów współpracy nie wyższej niż 20% kwoty pomocy przyznanej na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW.
+- **3)** we wnioskowanej wysokości, nie wyższej od wysokości udziału krajowych środków publicznych pochodzących z budżetu państwa przeznaczonych na współfinansowanie wydatków realizowanych z EFRROW na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW, z tym że: w odniesieniu do działania szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie – nie wyższej niż 25%, w odniesieniu do działań: wdrażanie lokalnych strategii rozwoju oraz wdrażanie projektów współpracy – nie wyższej niż 20% kwoty pomocy przyznanej na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW.
+    - **a)**
+    - **b)**
 
 3. Środki, o których mowa w ust. 1, wykorzystane niezgodnie z przeznaczeniem podlegają zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania tych środków przez agencję płatniczą.
 
@@ -183,8 +168,6 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 
 7. W przypadku, o którym mowa w ust. 3, beneficjentowi nie przysługuje prawo do otrzymania wyprzedzającego finansowania kosztów kwalifikowalnych operacji realizowanych z udziałem środków EFRROW przez okres 3 lat, licząc od dnia stwierdzenia wykorzystania środków, o których mowa w ust. 1, niezgodnie z przeznaczeniem.
 
-**Art. 10d.**
-
 1. W ramach działań: podstawowe usługi dla gospodarki i ludności wiejskiej, odnowa i rozwój wsi oraz wdrażanie lokalnych strategii rozwoju, jednostki samorządu terytorialnego realizujące operacje z udziałem środków EFRROW mogą otrzymać środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji.
 
 2. W ramach działań: wdrażanie projektów współpracy i funkcjonowanie lokalnej grupy działania, nabywanie umiejętności i aktywizacja, lokalne grupy działania realizujące operacje z udziałem środków EFRROW mogą otrzymać środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji.
@@ -193,23 +176,15 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 
 4. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki i tryb, w tym terminy, udzielania z budżetu państwa pożyczek na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację działań, o których mowa w ust. 1 i 2, rozliczania oraz zwrotu tych pożyczek, uwzględniając konieczność zapewnienia realizacji oraz prawidłowego wydatkowania środków z budżetu państwa.
 
-**Art. 10e.**
-
 1. Beneficjent, o którym mowa w art. 10d ust. 1 i 2, spłaca pożyczkę, o której mowa w art. 10d ust. 3, ze środków otrzymanych z agencji płatniczej z tytułu pomocy finansowej w terminie 7 dni roboczych od daty otrzymania tych środków.
 
 2. Jeżeli beneficjent, o którym mowa w art. 10d ust. 1 i 2, nie otrzyma środków z tytułu pomocy finansowej z przyczyn leżących po jego stronie, spłaca pożyczkę ze środków na realizację zadań własnych w terminie 21 dni od dnia otrzymania informacji o odmowie wypłaty środków z tytułu tej pomocy.
 
 3. W przypadku, o którym mowa w ust. 2, beneficjent spłaca pożyczkę, o której mowa w art. 10d ust. 3, wraz z odsetkami od tej części pożyczki, której wysokość odpowiada wysokości nieotrzymanych środków z tytułu pomocy finansowej w ramach danego działania.
 
-**Art. 10f.**
-
 1. Jeżeli beneficjent, o którym mowa w art. 10d ust. 1 i 2, wykorzysta pożyczkę, o której mowa w art. 10d ust. 3, niezgodnie z przeznaczeniem, zwraca pożyczkę w części wykorzystanej niezgodnie z przeznaczeniem ze środków przeznaczonych na realizację jego zadań własnych, wraz z odsetkami.
 
-2. W przypadku, o którym mowa w ust. 1, beneficjentowi nie przysługuje prawo do otrzymania wyprzedzającego finansowania na działania realizowane z udziałem środków EFRROW przez okres 3 lat, licząc od dnia stwierdzenia wykorzystania pożyczki, o której mowa w art. 10d ust. 3, niezgodnie z przeznaczeniem.
-
-**Art. 10g.** Wysokość odsetek, o których mowa w art. 10b ust. 1 i art. 10f ust. 1, nie może przekroczyć stawki odsetek za zwłokę od zaległości podatkowych.
-
-**Art. 10h.**
+2. W przypadku, o którym mowa w ust. 1, beneficjentowi nie przysługuje prawo do otrzymania wyprzedzającego finansowania na działania realizowane z udziałem środków EFRROW przez okres 3 lat, licząc od dnia stwierdzenia wykorzystania pożyczki, o której mowa w art. 10d ust. 3, niezgodnie z przeznaczeniem. Wysokość odsetek, o których mowa w art. 10b ust. 1 i art. 10f ust. 1, nie może przekroczyć stawki odsetek za zwłokę od zaległości podatkowych.
 
 1. Beneficjenci programu rozwoju obszarów wiejskich w ramach działania grupy producentów rolnych mogą w pierwszym roku działalności otrzymać, na wniosek, środki z agencji płatniczej realizującej płatności z EFRROW przeznaczone na wyprzedzające finansowanie pomocy w ramach tego działania.
 
@@ -223,16 +198,16 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 4. Wniosek, o którym mowa w ust. 1, zawiera w szczególności:
 
 - **1)** nazwę i siedzibę grupy producentów rolnych;
-- **2)** dane osób upoważnionych do reprezentowania grupy zgodnie z jej aktem założycielskim;
+- **2)** dane osób upoważnionych do reprezentowania grupy – zgodnie z jej aktem założycielskim;
 - **3)** datę i numer decyzji o przyznaniu pomocy;
-- **4)** o ś wiadczenie o planowanej wielko ś ci i warto ś ci przychodów ze sprzeda ż y produktów lub grupy produktów, ze wzgl ę du na które grupa producentów rolnych została utworzona, wytworzonych w gospodarstwach członków tej grupy, w pierwszym roku działalno ś ci;
-- **5)** wysoko ść wnioskowanego wyprzedzaj ą cego finansowania.
+- **4)** oświadczenie o planowanej wielkości i wartości przychodów ze sprzedaży produktów lub grupy produktów, ze względu na które grupa producentów rolnych została utworzona, wytworzonych w gospodarstwach członków tej grupy, w pierwszym roku działalności;
+- **5)** wysokość wnioskowanego wyprzedzającego finansowania.
 
 5. Jeżeli wniosek, o którym mowa w ust. 1, nie został złożony w terminie, agencja płatnicza realizująca płatności z EFRROW pozostawia wniosek bez rozpatrzenia, informując beneficjenta o przyczynach pozostawienia wniosku bez rozpatrzenia oraz pouczając go o prawie wniesienia skargi do sądu administracyjnego.
 
 6. Jeżeli wniosek, o którym mowa w ust. 1, nie spełnia innych wymogów formalnych, agencja płatnicza realizująca płatności z EFRROW wzywa beneficjenta do usunięcia braków, w terminie 7 dni od dnia doręczenia wezwania, pouczając go, że nieusunięcie tych braków spowoduje pozostawienie wniosku bez rozpatrzenia oraz że w takim przypadku służy mu skarga do sądu administracyjnego.
 
-7. W przypadku pozostawienia wniosku, o którym mowa w ust. 1, bez rozpatrzenia albo odmowy udzielenia środków na wyprzedzające finansowanie, o którym mowa w ust. 1, beneficjentowi służy skarga do sądu administracyjnego na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451).
+7. W przypadku pozostawienia wniosku, o którym mowa w ust. 1, bez rozpatrzenia albo odmowy udzielenia środków na wyprzedzające finansowanie, o którym mowa w ust. 1, beneficjentowi służy skarga do sądu administracyjnego na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451).
 
 8. Agencja płatnicza realizująca płatności z EFRROW informuje beneficjenta, w formie pisemnej, w terminie 30 dni od dnia złożenia wniosku, o terminie zawarcia umowy albo o przyczynach odmowy udzielenia środków na wyprzedzające finansowanie, o którym mowa w ust. 1.
 
@@ -246,8 +221,6 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 
 10. W kolejnych latach działalności beneficjenta środki, o których mowa w ust. 1, zalicza się na poczet przyznawanych beneficjentowi z tytułu pomocy krajowych środków publicznych pochodzących z budżetu państwa przeznaczonych na współfinansowanie wydatków realizowanych z EFRROW.
 
-**Art. 10i.**
-
 1. Beneficjenci programu rozwoju obszarów wiejskich mogą otrzymać zaliczkę w ramach działań:
 
 - **1)** modernizacja gospodarstw rolnych;
@@ -255,9 +228,9 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 - **2a)** przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych;
 - **3)** różnicowanie w kierunku działalności nierolniczej;
 - **4)** tworzenie i rozwój mikroprzedsiębiorstw;
-- **5)** wdrażanie lokalnych strategii rozwoju w przypadku realizacji operacji:
-    - **a)** które odpowiadają warunkom przyznania pomocy w ramach działań wymienionych w pkt 3 i 4,
-    - **b)** o których mowa w art. 12 ust. 1 pkt 1 lit. b ustawy PROW;
+- **5)** wdrażanie lokalnych strategii rozwoju w przypadku realizacji operacji: które odpowiadają warunkom przyznania pomocy w ramach działań wymienionych w pkt 3 i 4, o których mowa w art. 12 ust. 1 pkt 1 lit. b ustawy PROW;
+    - **a)**
+    - **b)**
 
 - **6)** wdrażanie projektów współpracy;
 - **7)** funkcjonowanie lokalnej grupy działania, nabywanie umiejętności i aktywizacja.
@@ -265,12 +238,10 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 2. Zaliczka jest wypłacana beneficjentowi:
 
 - **1)** jeżeli wnioskował o jej wypłatę we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy PROW;
-- **1a)** jeżeli beneficjent nie wnioskował o wypłatę środków, o których mowa w art. 10c ust. 1, we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy PROW w przypadku działań, o których mowa w ust. 1 pkt 5 i 6;
+- **1a)** jeżeli beneficjent nie wnioskował o wypłatę środków, o których mowa w art. 10c ust. 1, we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy PROW – w przypadku działań, o których mowa w ust. 1 pkt 5 i 6;
 - **2)** na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW.
 
-**Art. 10j.**
-
-1. Zaliczka wykorzystana niezgodnie z przeznaczeniem podlega zwrotowi przez beneficjenta wraz z odsetkami w wysoko ś ci okre ś lonej jak dla zaległo ś ci podatkowych, liczonymi od dnia przekazania tych ś rodków przez agencj ę płatnicz ą realizuj ą c ą płatno ś ci z EFRROW.
+1. Zaliczka wykorzystana niezgodnie z przeznaczeniem podlega zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania tych środków przez agencję płatniczą realizującą płatności z EFRROW.
 
 2. Zaliczka pobrana:
 
@@ -279,7 +250,7 @@ b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
 
 3. Zwrotowi, o którym mowa w ust. 1 i 2, podlega odpowiednio ta część środków, która została wykorzystana niezgodnie z przeznaczeniem albo pobrana nienależnie lub w nadmiernej wysokości.
 
-4. Do środków podlegających zwrotowi na podstawie ust. 1 lub 2 stosuje się odpowiednio przepisy ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa dotyczące nienależnie lub nadmiernie pobranych krajowych środków publicznych, przeznaczonych na współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej, które zostały przekazane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa na podstawie umowy w związku z realizacją Wspólnej Polityki Rolnej, Wspólnej Polityki Rybackiej lub sektorowego programu operacyjnego. Art. 11−15. (pominięte)
+4. Do środków podlegających zwrotowi na podstawie ust. 1 lub 2 stosuje się odpowiednio przepisy ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa dotyczące nienależnie lub nadmiernie pobranych krajowych środków publicznych, przeznaczonych na współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej, które zostały przekazane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa na podstawie umowy w związku z realizacją Wspólnej Polityki Rolnej, Wspólnej Polityki Rybackiej lub sektorowego programu operacyjnego. Art. 11–15. (pominięte)
 
 **Art. 16.** Ustawa wchodzi w życie z dniem 16 października 2006 r.
 

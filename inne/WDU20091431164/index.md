@@ -8,9 +8,10 @@ pos: 1164
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 1. W ustawie dnia 27 paêdziernika 1994 autostradach płatnych Krajowym Funduszu Drogowym (Dz. U. z2004 256, 2571, zpóên.
+# Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o Narodowym Banku Polskim
 
 | Pole | Wartość |
 |---|---|
@@ -24,40 +25,74 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091431164) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1164/text.pdf) |
 
-zm.
-3) bank;
-4)zagraniczna instytucja rozliczeniowa, która prowadzi działalność zakre) wprowadza się następujące zmiany: sie rejestrowania papierów warto1) art. 39b ust. 1 po pkt 11c dodaje się pkt 11d ściowych, rozliczania lub rozrachunwbrzmieniu: ku transakcji zawieranych obrocie papierami wartościowymi.
-Ń11d) pożyczek zbudżetu państwa;”; 8. Obligacje dopuszczone do obrotu na
-2) po rozdziale 6 dodaje się rozdział 6awbrzmieniu: rynku regulowanym lub wprowadzone do alternatywnego systemu obrotu są ŃRozdział 6a rejestrowane depozycie papierów wartościowych prowadzonym Zasady itryb emisji obligacji poręczanych Krajowy Depozyt Papierów Wartościoigwarantowanych Skarb Państwa wych S.A.
-39p. 1. Obligacje emitowane Bank 39q. 1. Bank Gospodarstwa Krajowego okreśGospodarstwa Krajowego na rzecz li wydanie listu emisyjnego waFunduszu i poręczane lub gwaranto- runki emisji obligacji dotyczące treści wane Skarb Państwa są papiera- świadczeń wynikających obligacji mi wartościowymi na okaziciela, isposób ich realizacji.
-których Bank Gospodarstwa Krajowego stwierdza, że jest dłużnikiem 2. List emisyjny zawiera wszczególności: właściciela takiego papieru i zobowią- 1) datę emisji;
-zuje się wobec niego do spełnienia określonego świadczenia pieniężnego. 2) powołanie podstawy prawnej emisji;
-2. Dokonanie Bank Gospodarstwa Krajowego emisji obligacji, których 3) wartość nominalną jednej obligacji;
-mowa ust. 1, wymaga uprzedniej 4) wielkość emisji;
-akceptacji warunków emisji ministra 5) cenę emisyjną lub sposób jej ustawłaściwego do spraw budżetu. lenia;
-3. Obligacje są oprocentowane posta- 6) stopę procentową lub sposób jej ci dyskonta lub odsetek. obliczania;
-4. Obligacje nie posiadają formy doku- 7) terminy, sposoby i warunki sprzementu. daży;
-5. Obligacje są dopuszczone do obrotu 8) określenie sposobu iterminów wyna giełdowym lub pozagiełdowym płaty należności głównej narynku regulowanym, ile emitent nie leżności ubocznych;
-postanowi inaczej wwarunkach emisji.
-9) datę, od której nalicza się oprocen6. Prawa obligacji powstają chwilą towanie obligacji danej emisji;
-dokonania zapisu ewidencji i przysługują osobie niej wskazanej jako 10) termin i warunki wykupu zaposiadacz tych obligacji. strzeżenia wprzedmiocie możliwości wcześniejszego wykupu;
-7. Podmiotami uprawnionymi do prowadzenia ewidencji obligacji są: 11) informację zabezpieczeniu obligacji poręczeniem lub gwarancją
-1) Krajowy Depozyt Papierów Warto- Skarbu Państwa.
-ściowych S.A.;
-3. Bank Gospodarstwa Krajowego poda2) firma inwestycyjna; je do publicznej wiadomości warunki danej emisji poprzez ich opublikowanie na stronach internetowych Banku ——————— 39r. Sprzedaż obligacji może być dokonywana poprzez:
-1) publiczne proponowanie nabycia, którym mowa art. 3 ust. 1 ustawy zdnia 29 lipca 2005 oofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu spółkach publicznych (Dz. U. 184, 1539, zpóên. zm. );
-2) publiczne proponowanie nabycia wsposób wskazany wart. 3 ust. 1 ustawy, októrej mowa wpkt 1, obligacji, do których nie stosuje się przepisów tej ustawy;
-3) przetargi organizowane Bank Gospodarstwa Krajowego albo inny podmiot na podstawie umowy zawartej Bank Gospodarstwa Krajowego ztym podmiotem;
-4) proponowanie nabycia obligacji winny sposób niż określony wpkt 1—3.
-39s. 1. W przetargach, których mowa art. 39r pkt 3, mogą brać udział wyłącznie banki, instytucje kredytowe lub instytucje finansowe, rozumieniu ustawy dnia 29 sierpnia 1997 Prawo bankowe (Dz. U. z2002 72, 665, zpóên. zm. ), atakże ich oddziały, którymi minister właściwy do spraw budżetu zawarł umowę przyznającą im prawo do składania ofert na przetargach obligacji skarbowych.
+**Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.) wprowadza się następujące zmiany:
+
+#### Rozdział 6a Zasady i tryb emisji obligacji poręczanych i gwarantowanych przez Skarb Państwa
+
+**Art. 39p.**
+
+1. Obligacje emitowane przez Bank Gospodarstwa Krajowego na rzecz Funduszu i poręczane lub gwarantowane przez Skarb Państwa są papierami wartościowymi na okaziciela, w których Bank Gospodarstwa Krajowego stwierdza, że jest dłużnikiem właściciela takiego papieru i zobowiązuje się wobec niego do spełnienia określonego świadczenia pieniężnego.
+
+2. Dokonanie przez Bank Gospodarstwa Krajowego emisji obligacji, o których mowa w ust. 1, wymaga uprzedniej akceptacji warunków emisji ministra właściwego do spraw budżetu.
+
+3. Obligacje są oprocentowane w postaci dyskonta lub odsetek.
+
+4. Obligacje nie posiadają formy dokumentu.
+
+5. Obligacje są dopuszczone do obrotu na giełdowym lub pozagiełdowym rynku regulowanym, o ile emitent nie postanowi inaczej w warunkach emisji.
+
+6. Prawa z obligacji powstają z chwilą dokonania zapisu w ewidencji i przysługują osobie w niej wskazanej jako posiadacz tych obligacji.
+
+7. Podmiotami uprawnionymi do prowadzenia ewidencji obligacji są:
+
+- **1)** Krajowy Depozyt Papierów Wartościowych S.A.;
+- **2)** firma inwestycyjna;
+- **3)** bank;
+- **4)** zagraniczna instytucja rozliczeniowa, która prowadzi działalność w zakresie rejestrowania papierów wartościowych, rozliczania lub rozrachunku transakcji zawieranych w obrocie papierami wartościowymi.
+
+8. Obligacje dopuszczone do obrotu na rynku regulowanym lub wprowadzone do alternatywnego systemu obrotu są rejestrowane w depozycie papierów wartościowych prowadzonym przez Krajowy Depozyt Papierów Wartościowych S.A.
+
+1. Bank Gospodarstwa Krajowego określi przez wydanie listu emisyjnego warunki emisji obligacji dotyczące treści świadczeń wynikających z obligacji i sposób ich realizacji.
+
+2. List emisyjny zawiera w szczególności:
+
+- **1)** datę emisji;
+- **2)** powołanie podstawy prawnej emisji;
+- **3)** wartość nominalną jednej obligacji;
+- **4)** wielkość emisji;
+- **5)** cenę emisyjną lub sposób jej ustalenia;
+- **6)** stopę procentową lub sposób jej obliczania;
+- **7)** terminy, sposoby i warunki sprzedaży;
+- **8)** określenie sposobu i terminów wypłaty należności głównej oraz należności ubocznych;
+- **9)** datę, od której nalicza się oprocentowanie obligacji danej emisji;
+- **10)** termin i warunki wykupu oraz zastrzeżenia w przedmiocie możliwości wcześniejszego wykupu;
+- **11)** informację o zabezpieczeniu obligacji poręczeniem lub gwarancją Skarbu Państwa.
+
+3. Bank Gospodarstwa Krajowego podaje do publicznej wiadomości warunki danej emisji poprzez ich opublikowanie na stronach internetowych Banku Gospodarstwa Krajowego lub w innych środkach masowego przekazu o zasięgu ogólnopolskim, w szczególności w elektronicznych systemach informacyjnych.
+
+4. Podanie do publicznej wiadomości listu emisyjnego, w sposób określony w ust. 3, jest warunkiem dojścia emisji do skutku.
+
+5. Emisja następuje z dniem rozliczenia zaoferowanych do nabycia obligacji oraz w kwocie równej wartości nominalnej zbytych obligacji. Sprzedaż obligacji może być dokonywana poprzez:
+
+- **1)** publiczne proponowanie nabycia, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539, z późn. zm.);
+- **2)** publiczne proponowanie nabycia w sposób wskazany w art. 3 ust. 1 ustawy, o której mowa w pkt 1, obligacji, do których nie stosuje się przepisów tej ustawy;
+- **3)** przetargi organizowane przez Bank Gospodarstwa Krajowego albo inny podmiot na podstawie umowy zawartej przez Bank Gospodarstwa Krajowego z tym podmiotem;
+- **4)** proponowanie nabycia obligacji w inny sposób niż określony w pkt 1–3.
+
+1. W przetargach, o których mowa w art. 39r pkt 3, mogą brać udział wyłącznie banki, instytucje kredytowe lub instytucje finansowe, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.), a także ich oddziały, z którymi minister właściwy do spraw budżetu zawarł umowę przyznającą im prawo do składania ofert na przetargach obligacji skarbowych.
+
 2. Uczestnicy przetargu nabywają obligacje we własnym imieniu i na własny rachunek.
-nania czynności, przypada na dzień ustawowo wolny od pracy lub sobotę, termin wykonania tej czynności upływa pierwszym dniu roboczym po tym dniu.
-39w. Do obligacji, októrych mowa wart. 39p, nie stosuje się:
-1) art. 163 ust. 2 ustawy dnia 29 lipca 2005 oobrocie instrumentami finansowymi (Dz. U. 183, 1538, zpóên. zm. );
-2) art. 94 ustawy dnia 29 lipca 2005 ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu ospółkach publicznych;
-3) ustawy zdnia 29 czerwca 1995 oobligacjach (Dz. U. 2001 120, 1300, póên. zm. ), wyjątkiem art.29—37 i art. 43, które stosuje się przypadku, gdy obligacje nie zostaną zarejestrowane wKrajowym Depozycie Papierów Wartościowych S.A.;
-4) art. 17 ustawy dnia 8 maja 1997 poręczeniach i gwarancjach udzielanych Skarb Państwa niektóre osoby prawne, ile rejestracja obligacji jest dokonywana wKrajowym Depozycie Papierów Wartościowych S.A.”.
-2. W ustawie dnia 29 sierpnia 1997 Narodowym Banku Polskim (Dz. U. z2005 1, 2, zpóên. zm. ) wart. 48 pkt 3 otrzymuje brzmienie: Ń3) organizować obrót papierami wartościowymi, których jest emitentem papierami wartościowymi emitowanymi albo poręczanymi lub gwarantowanymi Skarb Państwa;”.
-3. Ustawa wchodzi życie dniem ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ———————
+
+1. Z chwilą wykupu obligacje podlegają umorzeniu.
+
+2. Bank Gospodarstwa Krajowego może nabywać własne obligacje jedynie w celu ich umorzenia. Jeżeli dzień, w którym na podstawie listu emisyjnego powstaje obowiązek wykonania czynności, przypada na dzień ustawowo wolny od pracy lub sobotę, termin wykonania tej czynności upływa w pierwszym dniu roboczym po tym dniu. Do obligacji, o których mowa w art. 39p, nie stosuje się:
+
+- **1)** art. 163 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.);
+- **2)** art. 94 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych;
+- **3)** ustawy z dnia 29 czerwca 1995 r. o obligacjach (Dz. U. z 2001 r. Nr 120, poz. 1300, z późn. zm.), z wyjątkiem art. 29–37 i art. 43, które stosuje się w przypadku, gdy obligacje nie zostaną zarejestrowane w Krajowym Depozycie Papierów Wartościowych S.A.;
+- **4)** art. 17 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, o ile rejestracja obligacji jest dokonywana w Krajowym Depozycie Papierów Wartościowych S.A. ” .
+
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.) w art. 48 pkt 3 otrzymuje brzmienie: „
+
+**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

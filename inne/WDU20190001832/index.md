@@ -8,9 +8,10 @@ pos: 1832
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 września 2019 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 11 września 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o europejskich radach zakładowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,22 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001832) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1832/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2019 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o europejskich radach zakładowych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. z 2018 r. poz. 1247), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 września 2019 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17 i art. 23 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608), które stanowią: „Art. 17. Osobom będącym w dniu wejścia w życie niniejszej ustawy członkami związków zawodowych przysługują uprawnienia na zasadach dotychczasowych.” „Art. 23. Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 14 w zakresie art. 25 ust. 6, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 5 kwietnia 2002 r.
-o europejskich radach zakładowych
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Specjalny zespół negocjacyjny Rozdział 3 – Porozumienie o ustanowieniu europejskiej rady zakładowej lub ustaleniu sposobu informowania i konsultacji Rozdział 4 – Utworzenie europejskiej rady zakładowej Rozdział 5 – Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstwa Rozdział 6 – Ochrona przedstawicieli pracowników Rozdział 7 – Inne obowiązujące porozumienia w sprawie informowania pracowników i konsultacji z pracownikami Rozdział 8 – Przepisy karne Rozdział 9 – Zmiana w przepisach obowiązujących Rozdział 10 – Przepis końcowy
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. z 2018 r. poz. 1247), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 września 2019 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17 i art. 23 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608), które stanowią:
+„
+1.
+Zarząd centralny i specjalny zespół negocjacyjny prowadzą negocjacje w sposób zmierzający do zawarcia porozumienia o ustanowieniu europejskiej rady zakładowej lub ustaleniu sposobu informowania pracowników i konsultacji z pracownikami.
+2.
+Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negocjacyjnemu dane i materiały niezbędne do wykonania przez niego zadań.
+
+**Art. 17.** Osobom będącym w dniu wejścia w życie niniejszej ustawy członkami związków zawodowych przysługują uprawnienia na zasadach dotychczasowych. ” „
+
+**Art. 23.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 14 w zakresie art. 253 ust. 6, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -78,9 +88,9 @@ o europejskich radach zakładowych
 
 5. Za przedsiębiorcę sprawującego kontrolę nad innym przedsiębiorcą nie uważa się przedsiębiorcy, który:
 
-- **1)** jest instytucją finansową czasowo nabywającą lub obejmującą akcje albo udziały w celu ich odsprzedaży, jeżeli przedmiotem działalności gospodarczej tej instytucji jest prowadzone na własny lub cudzy rachunek inwestowanie w akcje albo udziały innych przedsiębiorców, pod warunkiem, że odsprzedaż ta nastąpi przed upływem roku od dnia nabycia, oraz że:
-    - **a)** instytucja ta nie wykonuje praw z tych akcji albo udziałów, z wyjątkiem prawa do dywidendy, lub
-    - **b)** instytucja ta wykonuje prawa z tych akcji lub udziałów wyłącznie w celu przygotowania odsprzedaży całości lub części przedsiębiorstwa, jego majątku lub tych akcji albo udziałów;
+- **1)** jest instytucją finansową czasowo nabywającą lub obejmującą akcje albo udziały w celu ich odsprzedaży, jeżeli przedmiotem działalności gospodarczej tej instytucji jest prowadzone na własny lub cudzy rachunek inwestowanie w akcje albo udziały innych przedsiębiorców, pod warunkiem, że odsprzedaż ta nastąpi przed upływem roku od dnia nabycia, oraz że: instytucja ta nie wykonuje praw z tych akcji albo udziałów, z wyjątkiem prawa do dywidendy, lub instytucja ta wykonuje prawa z tych akcji lub udziałów wyłącznie w celu przygotowania odsprzedaży całości lub części przedsiębiorstwa, jego majątku lub tych akcji albo udziałów;
+    - **a)**
+    - **b)**
 
 - **2)** posiadając status przedsiębiorcy sprawującego kontrolę, jest przedsiębiorcą, którego wyłącznym przedmiotem działalności jest nabywanie pakietów akcji lub udziałów w innych przedsiębiorstwach oraz zarządzanie tymi pakietami i obracanie nimi w celu wypracowania zysku, bez bezpośredniego lub pośredniego angażowania się w zarządzanie tymi przedsiębiorstwami, lub też ustalania zachowania tych przedsiębiorstw na rynku właściwym w rozumieniu art. 4 pkt 9 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2019 r. poz. 369, 1571 i 1667).
 
@@ -108,8 +118,6 @@ o europejskich radach zakładowych
 
 3. (uchylony)
 
-**Art. 7a.**
-
 1. Jeżeli struktura przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym ulega znaczącym zmianom, a brak jest przepisów ustanowionych na mocy obowiązujących porozumień dotyczących zmiany porozumienia lub są niezgodności między odpowiednimi przepisami co najmniej dwóch obowiązujących porozumień, zarząd centralny rozpoczyna negocjacje, o których mowa w art. 6 ust. 2, z własnej inicjatywy lub na pisemny wniosek co najmniej 100 pracowników lub ich przedstawicieli w co najmniej dwóch przedsiębiorstwach lub zakładach pracy w co najmniej dwóch państwach członkowskich.
 
 2. W przypadku, o którym mowa w ust. 1, w skład specjalnego zespołu negocjacyjnego, oprócz członków wybranych lub wyznaczonych zgodnie z art. 7 ust. 2, wchodzi co najmniej trzech członków europejskiej rady zakładowej lub każdej z europejskich rad zakładowych.
@@ -118,9 +126,9 @@ o europejskich radach zakładowych
 
 **Art. 8.**
 
-1. W przypadku gdy pracownicy są zatrudnieni w Polsce w jednym zakładzie pracy wchodzącym w skład przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym, członkowie specjalnego zespołu negocjacyjnego reprezentujący pracowników polskich są wyznaczani przez reprezentatywną zakładową organizację związkową, a w przypadku jej braku wybierani przez pracowników w liczbie określonej niniejszą ustawą lub ustawą innego państwa członkowskiego.
+1. W przypadku gdy pracownicy są zatrudnieni w Polsce w jednym zakładzie pracy wchodzącym w skład przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym, członkowie specjalnego zespołu negocjacyjnego reprezentujący pracowników polskich są wyznaczani przez reprezentatywną zakładową organizację związkową, a w przypadku jej braku – wybierani przez pracowników w liczbie określonej niniejszą ustawą lub ustawą innego państwa członkowskiego.
 
-2. Zakładowa organizacja związkowa jest reprezentatywna, jeżeli spełnia warunki określone w art. 25 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263). Przepisy art. 25 ust. 3, 4, 6 i 7 ustawy z dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio.
+2. Zakładowa organizacja związkowa jest reprezentatywna, jeżeli spełnia warunki określone w art. 253ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263). Przepisy art. 253ust. 3, 4, 6 i 7 ustawy z dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio.
 
 3. W przypadku gdy w zakładzie pracy działa kilka reprezentatywnych organizacji związkowych, wyznaczają one wspólnie członków specjalnego zespołu negocjacyjnego. W przypadku nieosiągnięcia porozumienia przez reprezentatywne organizacje związkowe, członków specjalnego zespołu negocjacyjnego wybierają pracownicy spośród kandydatów zgłoszonych przez te organizacje.
 
@@ -144,9 +152,9 @@ o europejskich radach zakładowych
 
 2. W zakładzie pracy, w którym jest zatrudnionych co najmniej:
 
-- **1)** 25% ogółu pracowników przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym zatrudnionych w Polsce wyznacza się lub wybiera dodatkowo jednego przedstawiciela;
-- **2)** 50% ogółu pracowników przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym zatrudnionych w Polsce wyznacza się lub wybiera dodatkowo dwóch przedstawicieli;
-- **3)** 75% ogółu pracowników przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym zatrudnionych w Polsce wyznacza się lub wybiera dodatkowo trzech przedstawicieli.
+- **1)** 25% ogółu pracowników przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym zatrudnionych w Polsce – wyznacza się lub wybiera dodatkowo jednego przedstawiciela;
+- **2)** 50% ogółu pracowników przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym zatrudnionych w Polsce – wyznacza się lub wybiera dodatkowo dwóch przedstawicieli;
+- **3)** 75% ogółu pracowników przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym zatrudnionych w Polsce – wyznacza się lub wybiera dodatkowo trzech przedstawicieli.
 
 3. Do wyborów przedstawicieli stosuje się odpowiednio przepisy art. 8 ust. 3–10, z tym że wybory są organizowane przez zarządy poszczególnych zakładów pracy. Zarządy te niezwłocznie zawiadamiają zarząd centralny o wyborze przedstawicieli.
 
@@ -188,7 +196,7 @@ o europejskich radach zakładowych
 1c. Członek specjalnego zespołu negocjacyjnego lub jego zastępca, którzy wchodzą w skład załogi statku morskiego, są uprawnieni do uczestnictwa w zebraniu zarządu centralnego ze specjalnym zespołem negocjacyjnym:
 
 - **1)** jeżeli w czasie, gdy zebranie ma miejsce, nie przebywają oni na morzu ani w porcie w kraju innym niż kraj, w którym przedsiębiorstwo żeglugi ma siedzibę;
-- **2)** za pośrednictwem nowych technologii informacyjnych i komunikacyjnych jeżeli w czasie, gdy zebranie ma miejsce, przebywają oni na morzu lub w porcie w kraju innym niż kraj, w którym przedsiębiorstwo żeglugi ma siedzibę o ile istnieje możliwość wykorzystania tych technologii.
+- **2)** za pośrednictwem nowych technologii informacyjnych i komunikacyjnych – jeżeli w czasie, gdy zebranie ma miejsce, przebywają oni na morzu lub w porcie w kraju innym niż kraj, w którym przedsiębiorstwo żeglugi ma siedzibę – o ile istnieje możliwość wykorzystania tych technologii.
 
 2. Specjalny zespół negocjacyjny wybiera ze swojego grona przewodniczącego oraz uchwala swój wewnętrzny regulamin.
 
@@ -218,19 +226,13 @@ o europejskich radach zakładowych
 
 #### Rozdział 3 Porozumienie o ustanowieniu europejskiej rady zakładowej lub ustaleniu sposobu informowania i konsultacji
 
-**Art. 17.**
-
-1. Zarząd centralny i specjalny zespół negocjacyjny prowadzą negocjacje w sposób zmierzający do zawarcia porozumienia o ustanowieniu europejskiej rady zakładowej lub ustaleniu sposobu informowania pracowników i konsultacji z pracownikami.
-
-2. Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negocjacyjnemu dane i materiały niezbędne do wykonania przez niego zadań.
-
 **Art. 18.**
 
 1. Zarząd centralny i specjalny zespół negocjacyjny mogą, w drodze pisemnego porozumienia, ustalić jeden lub kilka sposobów, w jakich będzie następowało informowanie pracowników i konsultacja z pracownikami, zamiast ustanowienia europejskiej rady zakładowej. Porozumienie określa zasady odbywania spotkań przedstawicieli reprezentujących pracowników w celu wymiany poglądów na temat przekazanych im informacji.
 
 2. Porozumienie, o którym mowa w ust. 1, dotyczy wszystkich pracowników zatrudnionych w przedsiębiorstwie lub w grupie przedsiębiorstw o zasięgu wspólnotowym.
 
-3. Do określenia w porozumieniu, o którym mowa w ust. 1, uprawnień przedstawicieli, którzy wchodzą w skład załogi statku morskiego, stosuje się odpowiednio przepisy art. 14 ust. 1a–1c.
+3. Do określenia w porozumieniu, o którym mowa w ust. 1, uprawnień przedstawicieli, którzy wchodzą w skład załogi statku morskiego, stosuje się odpowiednio przepisy art. 14 ust. 1a-1c.
 
 **Art. 19.**
 
@@ -249,11 +251,9 @@ o europejskich radach zakładowych
 
 1b. Zawarcie porozumienia, o którym mowa w ust. 1, wymaga formy pisemnej.
 
-1c. Do określenia w porozumieniu, o którym mowa w ust. 1, uprawnień członka europejskiej rady zakładowej, który wchodzi w skład załogi statku morskiego, stosuje się odpowiednio przepisy art. 14 ust. 1a–1c.
+1c. Do określenia w porozumieniu, o którym mowa w ust. 1, uprawnień członka europejskiej rady zakładowej, który wchodzi w skład załogi statku morskiego, stosuje się odpowiednio przepisy art. 14 ust. 1a-1c.
 
 2. Do treści porozumienia o ustanowieniu europejskiej rady zakładowej oraz porozumienia o ustaleniu sposobu informowania i konsultacji nie stosuje się przepisów rozdziału 4, chyba że zarząd centralny i specjalny zespół negocjacyjny postanowią inaczej.
-
-**Art. 19a.**
 
 1. Jeżeli w porozumieniu, o którym mowa w art. 19, nie zostaną określone warunki powiązania informowania i prowadzenia konsultacji między europejską radą zakładową a przedstawicielami pracowników na szczeblu krajowym, a zarząd centralny będzie planował podjęcie decyzji mogących prowadzić do znaczących zmian w organizacji pracy lub w stosunkach pracy, zarząd centralny jest obowiązany do:
 
@@ -284,8 +284,6 @@ o europejskich radach zakładowych
 3. Zarząd centralny sprawdza, raz na 2 lata, czy uległa zmianie liczba pracowników, od której zależy podział miejsc w europejskiej radzie zakładowej. W przypadku stwierdzenia takiej zmiany zarząd centralny organizuje wybory w ramach swojej właściwości określonej w ustawie lub występuje do uprawnionych podmiotów o wyznaczenie członków. Z dniem wyznaczenia lub wyboru nowych członków ustaje członkostwo w europejskiej radzie zakładowej członków pochodzących z państwa członkowskiego, którego dotyczy zmiana.
 
 4. Do zmiany składu europejskiej rady zakładowej, związanej z uwzględnieniem przedstawicieli pracowników z nowego państwa członkowskiego lub państwa objętego porozumieniem zgodnie z art. 19 ust. 1 pkt 1, objętych zakresem działania przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym, przepis ust. 3 stosuje się odpowiednio.
-
-**Art. 23.**
 
 1. Członkowie europejskiej rady zakładowej, reprezentujący pracowników zatrudnionych w Polsce, w liczbie określonej niniejszą ustawą lub ustawą innego państwa członkowskiego, są wyznaczani lub wybierani w trybie określonym w art. 8 lub 9. Działania niezbędne do wyznaczenia lub wyboru członków europejskiej rady zakładowej podejmuje się w okresie 3 miesięcy od postanowienia, o którym mowa w art. 20 pkt 1, lub od dnia upływu okresów, o których mowa w art. 20 pkt 2 i 3.
 
@@ -345,8 +343,6 @@ o europejskich radach zakładowych
 
 4. Spotkanie odbywa się w możliwie najkrótszym terminie. Prezydium lub europejska rada zakładowa może przedstawić swoją opinię na temat sprawozdania, o którym mowa w ust. 2, na końcu spotkania lub w terminie 14 dni po jego zakończeniu. Opinia powinna być rozpatrzona przez zarząd właściwego szczebla przed podjęciem decyzji, której opinia dotyczy.
 
-**Art. 30a.**
-
 1. Członek europejskiej rady zakładowej, który wchodzi w skład załogi statku morskiego, może wyznaczyć zastępcę w celu wzięcia udziału w zebraniu organizacyjnym lub spotkaniu z zarządem centralnym.
 
 2. Zebranie organizacyjne lub spotkanie z zarządem centralnym planuje się w miarę możliwości tak, aby umożliwić członkowi europejskiej rady zakładowej lub jego zastępcy, którzy wchodzą w skład załogi statku morskiego, udział w tym zebraniu lub spotkaniu.
@@ -354,23 +350,11 @@ o europejskich radach zakładowych
 3. Członek europejskiej rady zakładowej lub jego zastępca, którzy wchodzą w skład załogi statku morskiego, są uprawnieni do uczestnictwa w zebraniu organizacyjnym lub spotkaniu z zarządem centralnym:
 
 - **1)** jeżeli w czasie, gdy zebranie lub spotkanie mają miejsce, nie przebywają oni na morzu ani w porcie w kraju innym niż kraj, w którym przedsiębiorstwo żeglugi ma siedzibę;
-- **2)** za pośrednictwem nowych technologii informacyjnych i komunikacyjnych jeżeli w czasie, gdy zebranie lub spotkanie mają miejsce, przebywają oni na morzu lub w porcie w kraju innym niż kraj, w którym przedsiębiorstwo żeglugi ma siedzibę o ile istnieje możliwość wykorzystania tych technologii.
+- **2)** za pośrednictwem nowych technologii informacyjnych i komunikacyjnych – jeżeli w czasie, gdy zebranie lub spotkanie mają miejsce, przebywają oni na morzu lub w porcie w kraju innym niż kraj, w którym przedsiębiorstwo żeglugi ma siedzibę – o ile istnieje możliwość wykorzystania tych technologii.
 
 **Art. 31.** Europejska rada zakładowa lub prezydium może poprzedzić każde spotkanie z zarządem centralnym posiedzeniem bez jego udziału. W posiedzeniu prezydium mogą uczestniczyć członkowie europejskiej rady zakładowej, o których mowa w art. 30 ust. 3.
 
-**Art. 32.** Członkowie europejskiej rady zakładowej informują przedstawicieli pracowników zatrudnionych w przedsiębiorstwach lub grupach przedsiębiorstw o zasięgu wspólnotowym, a w przypadku ich braku samych pracowników, o treści informacji i wynikach konsultacji uzyskanych zgodnie z przepisami niniejszego rozdziału.
-
-**Art. 32a.**
-
-1. W przypadku planowanej decyzji mogącej prowadzić do znaczących zmian w organizacji pracy lub w stosunkach pracy zarząd centralny jest obowiązany do:
-
-- **1)** informowania i przeprowadzenia konsultacji z europejską radą zakładową w sprawie planowanej decyzji;
-- **2)** przekazania zarządom lokalnym stosownych informacji w celu realizacji prawa pracowników do informowania i konsultacji w tych krajach, których planowana decyzja ma dotyczyć.
-
-2. Do informowania i konsultacji, o których mowa w ust. 1 pkt 2, wobec pracowników:
-
-- **1)** zatrudnionych w Polsce stosuje się ustawę z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji, a jeżeli u danego pracodawcy nie działa rada pracowników, informowanie i konsultację przeprowadza się z przedstawicielami wybranymi w trybie przyjętym u danego pracodawcy;
-- **2)** zatrudnionych w innym państwie członkowskim stosuje się zasady określone przez ustawodawstwo lub praktykę danego państwa członkowskiego.
+**Art. 32.** Członkowie europejskiej rady zakładowej informują przedstawicieli pracowników zatrudnionych w przedsiębiorstwach lub grupach przedsiębiorstw o zasięgu wspólnotowym, a w przypadku ich braku – samych pracowników, o treści informacji i wynikach konsultacji uzyskanych zgodnie z przepisami niniejszego rozdziału. 1. W przypadku planowanej decyzji mogącej prowadzić do znaczących zmian w organizacji pracy lub w stosunkach pracy zarząd centralny jest obowiązany do:
 
 **Art. 33.** Europejska rada zakładowa lub prezydium mogą korzystać z pomocy wybranych przez siebie ekspertów, jeżeli jest to konieczne do wypełniania ich zadań.
 
@@ -394,9 +378,9 @@ o europejskich radach zakładowych
 
 2. Zarząd centralny w szczególnie uzasadnionych przypadkach może nie udostępnić przedstawicielom pracowników informacji, których ujawnienie mogłoby, według obiektywnych kryteriów, poważnie zakłócić działalność przedsiębiorstw, których dotyczą, albo narazić je na znaczną szkodę.
 
-3. W przypadku uznania, że zastrzeżenie poufności informacji lub ich nieudostępnienie jest niezgodne z przepisami ust. 1 lub 2, specjalny zespół negocjacyjny, europejska rada zakładowa oraz przedstawiciele reprezentujący pracowników zgodnie z porozumieniem zawartym na podstawie art. 18, mogą wystąpić do sądu rejonowego sądu gospodarczego z wnioskiem o zwolnienie z obowiązku zachowania poufności informacji lub o nakazanie udostępnienia informacji.
+3. W przypadku uznania, że zastrzeżenie poufności informacji lub ich nieudostępnienie jest niezgodne z przepisami ust. 1 lub 2, specjalny zespół negocjacyjny, europejska rada zakładowa oraz przedstawiciele reprezentujący pracowników zgodnie z porozumieniem zawartym na podstawie art. 18, mogą wystąpić do sądu rejonowego – sądu gospodarczego z wnioskiem o zwolnienie z obowiązku zachowania poufności informacji lub o nakazanie udostępnienia informacji.
 
-4. W sprawach, o których mowa w ust. 3, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o rozpoznawaniu spraw z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego, z wyłączeniem art. 691 § 2 i art. 691 . Zdolność sądową w tych sprawach mają: specjalny zespół negocjacyjny, europejska rada zakładowa, przedstawiciele reprezentujący pracowników zgodnie z porozumieniem zawartym na podstawie art. 18 oraz zarząd centralny.
+4. W sprawach, o których mowa w ust. 3, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o rozpoznawaniu spraw z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego, z wyłączeniem art. 6911§ 2 i art. 6917. Zdolność sądową w tych sprawach mają: specjalny zespół negocjacyjny, europejska rada zakładowa, przedstawiciele reprezentujący pracowników zgodnie z porozumieniem zawartym na podstawie art. 18 oraz zarząd centralny.
 
 5. Sąd, na wniosek zarządu centralnego lub z urzędu, może, w drodze postanowienia, w niezbędnym zakresie ograniczyć prawo wglądu do materiału dowodowego załączonego przez zarząd centralny do akt sprawy w toku postępowania sądowego, jeżeli udostępnienie tego materiału groziłoby ujawnieniem tajemnicy przedsiębiorstwa lub innych tajemnic podlegających ochronie na podstawie przepisów odrębnych. Na postanowienie sądu ograniczające prawo wglądu do materiału dowodowego zażalenie nie przysługuje.
 
@@ -406,9 +390,9 @@ o europejskich radach zakładowych
 
 **Art. 37.**
 
-1. Pracodawca nie może wypowiedzieć ani rozwiązać stosunku pracy z pracownikiem będącym członkiem specjalnego zespołu negocjacyjnego lub europejskiej rady zakładowej w czasie trwania mandatu oraz w okresie roku po jego wygaśnięciu bez zgody reprezentującej pracownika zakładowej organizacji związkowej, a jeżeli pracownik nie jest reprezentowany przez żadną zakładową organizację związkową bez zgody okręgowego inspektora pracy właściwego miejscowo dla siedziby pracodawcy.
+1. Pracodawca nie może wypowiedzieć ani rozwiązać stosunku pracy z pracownikiem będącym członkiem specjalnego zespołu negocjacyjnego lub europejskiej rady zakładowej w czasie trwania mandatu oraz w okresie roku po jego wygaśnięciu bez zgody reprezentującej pracownika zakładowej organizacji związkowej, a jeżeli pracownik nie jest reprezentowany przez żadną zakładową organizację związkową – bez zgody okręgowego inspektora pracy właściwego miejscowo dla siedziby pracodawcy.
 
-2. Pracodawca nie może zmienić jednostronnie warunków pracy lub płacy na niekorzyść pracownika będącego członkiem specjalnego zespołu negocjacyjnego lub europejskiej rady zakładowej w czasie trwania mandatu oraz w okresie roku po jego wygaśnięciu bez zgody reprezentującej pracownika zakładowej organizacji związkowej, a jeżeli pracownik nie jest reprezentowany przez żadną zakładową organizację związkową bez zgody okręgowego inspektora pracy właściwego miejscowo dla siedziby pracodawcy.
+2. Pracodawca nie może zmienić jednostronnie warunków pracy lub płacy na niekorzyść pracownika będącego członkiem specjalnego zespołu negocjacyjnego lub europejskiej rady zakładowej w czasie trwania mandatu oraz w okresie roku po jego wygaśnięciu bez zgody reprezentującej pracownika zakładowej organizacji związkowej, a jeżeli pracownik nie jest reprezentowany przez żadną zakładową organizację związkową – bez zgody okręgowego inspektora pracy właściwego miejscowo dla siedziby pracodawcy.
 
 3. Członek specjalnego zespołu negocjacyjnego lub europejskiej rady zakładowej ma prawo do zwolnienia od pracy zawodowej w związku z udziałem w pracach tych organów, z zachowaniem prawa do wynagrodzenia obliczonego zgodnie z zasadami dotyczącymi zwolnienia od pracy przysługującego członkowi zarządu zakładowej organizacji związkowej.
 
@@ -438,5 +422,5 @@ o europejskich radach zakładowych
 
 #### Rozdział 10 Przepis końcowy
 
-**Art. 42.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
+**Art. 42.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 

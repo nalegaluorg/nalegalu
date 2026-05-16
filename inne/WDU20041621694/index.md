@@ -8,9 +8,10 @@ pos: 1694
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 3) po art. 24a dodaje się art. 24b brzmieniu: ŃArt. 24b. 1. Kto, wbrew warunkom określonym ustawie, prowadzi działalność gospodarczą polegającą na zarządzaniu mieniem gromadzonym ramach grupy z udziałem konsumentów wcelu finansowania zakupów wsystemie konsorcyjnym, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+# Ustawa z dnia 18 czerwca 2004 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +25,36 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041621694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1694/text.pdf) |
 
-2. Tej samej karze podlega, kto, wbrew warunkom określonym ustawie, organizuje grupę konsumentów, o której mowa 1.
-3. Jeżeli wartość mienia zgromadzonego celu finansowania zakupów systemie konsorcyjnym jest wielka, sprawca czynu określonego lub 2 podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+**Art. 1.** W ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. Nr 88, poz. 983 oraz z 2003 r. Nr 229, poz. 2273) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 20 lipca 2001 r. okredycie konsumenckim (Dz. U. 100, poz. 1081, z 2003 r. Nr109, poz. 1030 oraz z 2004 r. 96, poz. 959) wprowadza się następujące zmiany:
+**Art. 2.** Osoby fizyczne, jednostki organizacyjne nieposiadające osobowości prawnej oraz osoby prawne prowadzące gospodarstwo rolne w rozumieniu przepisów o podatku rolnym lub prowadzące działalność rolniczą w zakresie działów specjalnych produkcji rolnej mogą organizować się w grupy producentów rolnych w celu dostosowania produkcji rolnej do warunków rynkowych, poprawy efektywności gospodarowania, planowania produkcji ze szczególnym uwzględnieniem jej ilości i jakości, koncentracji podaży oraz organizowania sprzedaży produktów rolnych, a także ochrony środowiska naturalnego. ” ;
 
-**Art. 1.** Wustawie zdnia 15 września 2000 r. ogrupach producentów rolnych ich związkach oraz o zmianie innych ustaw (Dz. U. 88, poz. 983 oraz z 2003 r. 229, poz. 2273) wprowadza się następujące zmiany:
+**Art. 12.**
 
-**Art. 1.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju bezpieczeństwa poz. 1250, z póên. zm. oraz o zmianie niektórych ustaw (Dz. U. 119, ) wprowadza się następujące zmiany:
+1. Nadzór nad działalnością grupy sprawuje wojewoda właściwy ze względu na siedzibę grupy.
+
+2. W ramach sprawowanego nadzoru wojewoda przeprowadza kontrole w zakresie spełniania przez grupę warunków, o których mowa w art. 3, oraz warunków określonych w przepisach wydanych na podstawie art. 6.
+
+3. Czynności kontrolne są wykonywane przez osoby posiadające imienne upoważnienie wydane przez wojewodę.
+
+4. Upoważnienie zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.
+
+5. Przed przystąpieniem do czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać imienne upoważnienie.
+
+6. Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:
+
+- **1)** wstępu na teren nieruchomości należących do grupy,
+- **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli,
+- **3)** wglądu do dokumentów związanych z przedmiotem kontroli, sporządzania z nich odpisów, wyciągów lub kserokopii oraz zabezpieczania tych dokumentów.
+
+7. Osoba wykonująca czynności kontrolne sporządza z tych czynności protokół.
+
+8. Protokół podpisuje osoba wykonująca czynności kontrolne oraz kontrolowany.
+
+9. W przypadku odmowy podpisania protokołu przez kontrolowanego protokół podpisuje tylko osoba wykonująca czynności kontrolne, dokonując w protokole stosownej adnotacji o tej odmowie.
+
+10. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi w protokole, może, w terminie 14 dni od dnia doręczenia protokołu, zgłosić wojewodzie umotywowane zastrzeżenia do ustaleń zawartych w protokole.
+
+11. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór imiennego upoważnienia do wykonywania czynności kontrolnych, mając na względzie ujednolicenie informacji zawartych w upoważnieniu. ” . Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
 

@@ -8,9 +8,10 @@ pos: 2199
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2016 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 25 października 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +25,14 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2199/text.pdf) |
 
-Poz. 2199 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 25 października 2016 r.
-sygn. akt SK 71/13 Trybunał Konstytucyjny w składzie: Stanisław Biernat – przewodniczący, Małgorzata Pyziak-Szafnicka, Stanisław Rymar – sprawozdawca, Piotr Tuleja, Sławomira Wronkowska-Jaśkiewicz, po rozpoznaniu, z udziałem skarżącego oraz Prokuratora Generalnego, na rozprawie 25 października 2016 r., skargi konstytucyjnej Krzysztofa Kułagowskiego o zbadanie zgodności: art. 754 § 1 ustawy z 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz.U.43.296, ze zm.) z art. 64 ust. 1 w związku z art. 45 ust. 1 w związku z art. 2 Konstytucji, orzeka: I
-Art. 754 1 § 1 ustawy z 17 listopada 1964 r. – Kodeks postępowania cywilnego (j.t. Dz.U.2014.101, ze zm.) w zakresie, w jakim odnosi się do zabezpieczenia przez obciążenie nieruchomości obowiązanego hipoteką przymusową:
-a) jest zgodny z zasadą poprawnej legislacji wywodzoną z art. 2 Konstytucji Rzeczypospolitej Polskiej,
-b) jest niezgodny z art. 64 ust. 1 w związku z art. 31 ust. 3 oraz art. 45 ust. 1 Konstytucji.
-II Przepis wymieniony w części I, w zakresie tam wskazanym, traci moc obowiązującą z upływem 18 (osiemnastu) miesięcy od dnia ogłoszenia wyroku w Dzienniku Ustaw Rzeczypospolitej Polskiej.
-Orzeczenie zapadło jednogłośnie.
-Stanisław Biernat Małgorzata Pyziak-Szafnicka Stanisław Rymar Piotr Tuleja Sławomira Wronkowska-Jaśkiewicz
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Stanisław Biernat – przewodniczący, Małgorzata Pyziak-Szafnicka, Stanisław Rymar – sprawozdawca, Piotr Tuleja, Sławomira Wronkowska-Jaśkiewicz, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem skarżącego oraz Prokuratora Generalnego, na rozprawie 25 października 2016 r., skargi konstytucyjnej Krzysztofa Kułagowskiego o zbadanie zgodności: art. 7541 § 1 ustawy z 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. 43.296, ze zm.) z art. 64 ust. 1 w związku z art. 45 ust. 1 w związku z art. 2 Konstytucji, orzeka:
+I.
+Art. 7541 § 1 ustawy z 17 listopada 1964 r. – Kodeks postępowania cywilnego (j.t. Dz.U.2014.101, ze zm.) w zakresie, w jakim odnosi się do zabezpieczenia przez obciążenie nieruchomości obowiązanego hipoteką przymusową:
+a)
+jest zgodny z zasadą poprawnej legislacji wywodzoną z art. 2 Konstytucji Rzeczypospolitej Polskiej,
+b)
+jest niezgodny z art. 64 ust. 1 w związku z art. 31 ust. 3 oraz art. 45 ust. 1 Konstytucji.
+II.
+Przepis wymieniony w części I, w zakresie tam wskazanym, traci moc obowiązującą z upływem 18 (osiemnastu) miesięcy od dnia ogłoszenia wyroku w Dzienniku Ustaw Rzeczypospolitej Polskiej. Orzeczenie zapadło jednogłośnie.
 

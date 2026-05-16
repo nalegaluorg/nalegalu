@@ -8,9 +8,10 @@ pos: 225
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# dnia 9 marca 1999 sprawie planu emisji znaczków pocztowych na 1999 Na podstawie art. 44 3 ustawy dnia 23 listo pada 1990 o 1995 117, poz. 564, 1996 106, poz. 496, 1997 43, poz. 272, 88, poz. 554, 106, poz. 675, 121, poz. 770 137, poz. 926 oraz 1998 137, poz. 887 150, poz. 984) co 1 2 «6a. Polski NATO" Ministra dnia 23 lipca 1998 sprawie planu emisji znaczków pocztowych na 1999 107, poz. 674 1999 6, poz. 41) lp. 6 dodaje lp. 6a brzmieniu: 3 4 1 1999 r.» wchodzi 14 dni od dnia Minister M. Zdrojewski 224 MINISTRA PRACY I POLITYKI SOCJALNEJ dnia 12 marca 1999 sprawie stopni specjalizacji zawodzie "pracownik socjalny".
+# 2.
 
 | Pole | Wartość |
 |---|---|
@@ -23,44 +24,55 @@ domain: null
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990250225) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/225/text.pdf) |
 
-Na podstawie art. 49 3 ustawy dnia 29 listo pada 1990 o pomocy 1998 64, poz. 414, 106, poz. 668, 117, poz. 756 162, poz. 1118 1126 oraz 1999 20, poz. 170) co Ministra Pracy Polityki So cjalnej dnia 5 marca 1997 sprawie stopni specja lizacji zawodzie "pracownik socjalny" 24, poz. 125) ,,4. Komisje regionalne 7 4 otrzymuje brzmienie: przy publicznych policealnych pracowników spo szkolenie zakresu specjalizacji I II stopnia, oraz przy lub przy regionalnym polityki wchodzi 14 dni od dnia Minister Pracy Polityki Socjalnej: L. Komotowski ROZPORZĄDZENIE MINISTRA ROLNICTWA I GOSPODARKI ŻYWNOŚCIOWEJ dnia 9 marca 1999 sprawie higieny pracy przy produkcji cukru.
-Na podstawie art. 237 2 Kodeksu pracy cukrowniach rafineriach cukru przy produkcji cu krystalizacji cukru.
-3. 2, powinny
+Instrukcja bezpieczeństwa higieny pracy na stanowisku szczególności określenie sposobu postępowania oraz wystąpienia zagrożeń wynikających przebiegu procesach zagęszczania roztworów cukrowych krystalizacji
+3.
+Rurociągi, zastrzeżeniem ust. 2, powinny być:
 1) oznakowane zgodnie Polskimi Normami,
-2) usytuowane na co najmniej 2,50 m od poziomu stanowiska pracy lub drogi ko munikacyjnej; warunki techniczne nie pozwa na usytuowanie na 2,50 m, dopuszcza ich instalowanie na wysoko nie mniejszej 2,0 m pod warunkiem ich wi docznego oznakowania.
-lub czynni ki technologiczne, prowadzone nad stanowiskami pra cy lub drogami komunikacyjnymi, powinny zain stalowane miejscowe rynny ter
-4. Drogi na terenie cukrowni, zlokalizo wane obok hydromechanicznego dunku buraków ze transportowych, powinny ekranem o co najmniej 2,50 m, przed niebezpiecznym strumie,niem wody.
-5. buraków o budowie winny ochronnymi o wysoko 1,1 m miejscu nie bu raków ze transportowych lub przy mechanicznego.
-6. Przed stanowiskiem hydromechaniczne go buraków ze transportowych pryzmy powinny umieszczone tablice ostrzegawcze "Uwaga, niebezpieczny wo dy".
-hydromechanicznego buraków powinno za bezpieczenie nie kontrolowany obrót osi.
-7. Krata buraków kana le powinna lub mechaniczne jej podnosze nia.
-Prace konserwacyjno-remontowe kraty, o której mowa 1, oraz usuwanie powinny wykonywane co najmniej przez dwóch pracowników.
-8. usuwania zanieczysz powinno pracowników przed uderzeniem
-10. przypadku przeprowadze nia prac buraków wody oraz przed przy padkowym jej uruchomieniem.
-Prace, o których mowa 1, powinny wy konywane co najmniej przez dwóch pracowników.
-11. pomostu odwadniaczy rolkowych powinna usytuowana na 1,1 m górnej odwadniaczy.
-Boki odwadniaczy, o których mowa 1, winny co najmniej 0,5 m ponad górne odwadniaczy.
-12. ram tarczy krajalnicy buraków powinien przeprowadzany przy pomocniczych co najmniej przez dwóch pracowników.
-Zasobnik krajalnicy buraków powinien lub
-3. buraki zasobnika, o którym mowa 2, powinien na a jego dolna za bezpieczona
-13. Piec wapienny wypalania wapna wy twarzania gazu saturacyjnego powinien wyposa przedostawanie gazu budynku przypadku awarii pomp gazowych.
-Gromadzenie kamienia wapiennego koksu na górnym pieca wapiennego oraz jego rozpalania palnych lub wybu chowych jest niedopuszczalne.
-3. Otwieranie okienek wziernych pieca wapienne go, o którym mowa 1, powinno dokonywa ne przy odpowiedniego
-14. gazowa pieca wapiennego pompy gazu saturacyjnego powinny usytuowane na budynku albo pomieszczeniu nym co naj mniej powietrza godziny.
-gazowej jej powin no uprzednim znajdu tam gazów.
-15. soku buracza nego (wyparka) powinno zabezpieczone pracowników przed oparzeniami.
-rów przeznaczonych tego celu.
-17. Dozowanie chemicznych wyparek lub odbarwiania klarówek powinno przy pomocy specjalistycznych
-18. Nad zaworem probierczym gotowania cukrzyc (warniki) "Przed pobraniem próby stan poziom warnika".
-chomieniem.
-19. Traci moc Ministra Rolnictwa Gospodarki Żywnościowej dnia 17 grudnia 1993 sprawie higieny pracy przy produk cji cukru 1994 2, poz. 6).
-20. wchodzi 14 dni od dnia Minister Rolnictwa Gospodarki Żywnościowej: J. Janiszewski 226 ROZPORZĄDZENIE MINISTRA ROLNICTWA I GOSPODARKI ŻVWNOŚCIOWEJ dnia 10 marca 1999 sprawie higieny pracy przy uboju przetwórstwie Na podstawie art. 237 2 Kodeksu pracy co wymagania bezpie higieny pracy pracowników zatrudnionych przy uboju przetwórstwie przetwórniach masarniach, zwanych dalej "za Pracownicy uszkodzonym naskórkiem nie powinni dopuszczeni pracy przetwarzanym surowcem, produktem.
-Niedopuszczalne jest: wykonywanie pracy polakiero wanymi lub naklejonymi paznokciami u noszenie zegarków podczas pra cy.
-3. Punkty czerpania wody mycia wy mieszania wody zimnej go zaworami zwrotnymi lub wo dy.
-stosowane mycia powinny czone zawieszone na specjalnych zwijaczach taki sposób, aby ich cówki nie 0,6 m od posadzki.
-4. Na oraz pomieszcze niach produkcyjnych, komorach niach magazynach których wózki transportu powinny zainstalowane odbojowe lub ich
-5. Wózki transportu oraz jezdny pomieszcze niach produkcyjnych, komorach niach magazynach powinny ne wykonane nie brudzenia posadzki oraz odpornego na ków stosowanych mycia dezynfekcji.
-6. 2, powinny oznakowane zgodnie Polskimi Normami,
-2) usytuowane na co najmniej 2,50 m od stanowiska pracy lub drogi komunikacyj nej; warunki techniczne nie na usy tuowanie na 2,50 m, puszcza ich instalowanie na nie mniejszej 2,0 m pod warunkiem ich widoczne go oznakowania.
-lub czynni ki technologiczne, prowadzone nad stanowiskami pra cy lub drogami komunikacyjnymi, powinny zain stalowane miejscowe rynny ter
+2) usytuowane na wysokości co najmniej 2,50 lub drogi komunikacyjnej; jeżeli warunki techniczne rurociągów na wysokości 2,50 m, dopuszcza mniejszej niż 2,0 m pod warunkiem ich widocznego
+2. Rurociągi przewodzące gorące lub żrące czynniki stanowiskami pracy lub drogami komunikacyjnymi, miejscowe rynny odpływowe izolację termiczną
+4.
+Drogi przejścia na terenie cukrowni, zlokalizowane rozładunku buraków ze środków transportowych, powinny wysokości co najmniej 2,50 m, chroniącym przed niebezpiecznym
+5.
+Spławiaki do buraków o budowie płaskiej powinny wysokości 1,1 m miejscu nie utrudniającym wyładunku transportowych lub opróżniania spławiaków przy użyciu
+6.
+Przed stanowiskiem do hydromechanicznego spłukiwania transportowych pryzmy spławiaka powinny „Uwaga, niebezpieczny strumień wody”.
+2. Urządzenia służące do hydromechanicznego spłukiwania wyposażone zabezpieczenie uniemożliwiające osi.
+7.
+Krata odcinająca przepływ buraków kanale spławnym stałe lub przenośne urządzenie mechaniczne do
+2. Prace konserwacyjno-remontowe kraty, o której zanieczyszczeń kanału spławnego powinny pracowników.
+8.
+Urządzenie służące do usuwania zanieczyszczeń kanału wyposażone osłony chroniące pracowników przed wody.
+9.
+Pomiędzy stanowiskiem pracy do hydromechanicznego krajalnicami powinna zainstalowana dźwiękowa równomiernego przepływu buraków do krajalnic.
+10.
+W przypadku konieczności przeprowadzenia prac buraków wody oraz wyłączyć napęd zabezpieczyć uruchomieniem.
+2. Prace, o których mowa ust. 1, powinny wykonywane pracowników.
+11.
+Podłoga pomostu do obsługi odwadniaczy rolkowych wysokości 1,1 m poniżej górnej krawędzi odwadniaczy.
+2. Boki odwadniaczy, o których mowa ust. 1, powinny wysokości co najmniej 0,5 m ponad górne krawędzie
+12.
+Demontaż montaż ram nożowych tarczy krajalnicy przeprowadzany przy użyciu urządzeń pomocniczych pracowników.
+2. Zasobnik krajalnicy buraków powinien osłonięty ochronną.
+3. Podnośnik kubełkowy transportujący buraki do powinien osłonięty blachą na całej wysokości, barierką ochronną.
+13.
+Piec wapienny do wypalania wapna wytwarzania wyposażony urządzenie uniemożliwiające przedostawanie budynku przypadku awarii pomp gazowych.
+2. Gromadzenie kamienia wapiennego koksu na używanie do jego rozpalania płynów łatwo palnych niedopuszczalne.
+3. Otwieranie okienek wziernych pieca wapiennego, dokonywane przy użyciu odpowiedniego narzędzia.
+14.
+Płuczka gazowa pieca wapiennego pompy do usytuowane na zewnątrz budynku albo pomieszczeniu wentylację zapewniającą co najmniej 5-krotną
+2. Naprawę płuczki gazowej jej rurociągów powinno usunięciu znajdujących się tam gazów.
+15.
+Urządzenie do zagęszczania soku buraczanego izolacją termiczną chroniącą pracowników przed
+2. W przypadku czyszczenia wnętrza wyparki roztworem wnętrza należy używać lampy elektrycznej o napięciu
+16.
+Pobieranie próbek soku otwartych zbiorników wyposażonych wężownice grzejne (klarownice) powinno odbywać celu.
+17.
+Dozowanie środków chemicznych do wyparek lub odbywać się przy pomocy specjalistycznych urządzeń
+18.
+Nad każdym zaworem probierczym urządzeń do umieścić tablicę ostrzegawczą „Przed pobraniem wypełnienia warnika”.
+2. Przed przystąpieniem do naprawy mieszadeł cukrzycy co najmniej 30 C (303 K) zabezpieczyć przed
+19.
+Traci moc rozporządzenie Ministra Rolnictwa Gospodarki 1993 r. sprawie bezpieczeństwa higieny pracy przy poz. 6).
+20.
+Rozporządzenie wchodzi życie po upływie 14 dni
 

@@ -8,9 +8,10 @@ pos: 1142
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 121 — 7948 o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 157, poz. 805), rozumiany w ten sposób, że Ńużytkowanie samochodu osobowego lub innego samochodu o dopuszczalnej ładowności do 500 kg na podstawie umowy najmu, dzierżawy lub umowy opodobnym charakterze”, polegające na trwałym korzystaniu zsamochodu, konkretyzuje normę wyrażoną w art. 25 ust. 1 pkt 2 w związku z art. 23 pkt 1 ustawy powołanej w punkcie 1, która wyłącza upraw1142 WYROK TRYBUNAĘU zdnia 7 lipca sygn. akt Trybunał Konstytucyjny wskładzie: Marian Grzybowski — przewodniczący, Jerzy Ciemniewski — sprawozdawca, Biruta Lewaszkiewicz-Petrykowska, Ewa Ęętowska, Andrzej Mączyński, po rozpoznaniu, zudziałem skarżącego, Sejmu, Prezesa Rady Ministrów oraz Prokuratora Generalnego iRzecznika Praw Obywatelskich, na rozprawie wdniach 4 marca 2003 r. i 7 lipca 2003 r., skargi konstytucyjnej Mirosława Puczki o zbadanie zgodności art. 156 § 1 pkt 2 ustawy z dnia 6 czerwca 1997 r. — Kodeks karny (Dz. U. Nr 88, poz. 553, ze zm.), w brzmieniu nadanym przez pkt 3 obwieszczenia Prezesa Rady Ministrów ISSN 0867-3411
+# Wyrok Trybunału Konstytucyjnegoz dnia 7 lipca 2003 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,4 +24,7 @@ domain: null
 | Data wydania | 2003-07-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031211142) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1142/text.pdf) |
+
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marian Grzybowski – przewodniczący, Jerzy Ciemniewski – sprawozdawca, Biruta Lewaszkiewicz-Petrykowska, Ewa Łętowska, Andrzej Mączyński, protokolant: Dorota Raczkowska-Paluch, po rozpoznaniu, z udziałem skarżącego, Sejmu, Prezesa Rady Ministrów oraz Prokuratora Generalnego i Rzecznika Praw Obywatelskich, na rozprawie w dniach 4 marca 2003 r. i 7 lipca 2003 r., skargi konstytucyjnej Mirosława Puczki o zbadanie zgodności art. 156 § 1 pkt 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, ze zm.), w brzmieniu nadanym przez pkt 3 obwieszczenia Prezesa Rady Ministrów z dnia 13 października 1997 r. o sprostowaniu błędów (Dz. U. Nr 128, poz. 840) z art. 2, art. 42 ust. 1, art. 87 i art. 122 ust. 1 Konstytucji Rzeczypospolitej Polskiej, orzeka: Pkt 3 obwieszczenia Prezesa Rady Ministrów z dnia 13 października 1997 r. o sprostowaniu błędów (Dz. U. Nr 128, poz. 840) dotyczący sprostowania treści art. 156 § 1 pkt 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553) jest niezgodny z art. 42 ust. 1 zdanie pierwsze w związku z art. 2, art. 87 ust. 1 i art. 122 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
 

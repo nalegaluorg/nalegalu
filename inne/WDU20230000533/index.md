@@ -8,9 +8,10 @@ pos: 533
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 21 marca 2023 r.
+# Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o organizacji rynków owoców i warzyw oraz rynku chmielu
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +25,39 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000533) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/533/text.pdf) |
 
-USTAWA dnia 9 marca 2023 r.
-zmianie ustawy organizacji rynków owoców warzyw oraz rynku chmielu
+**Art. 1.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2022 r. poz. 2101 oraz z 2023 r. poz. 412) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 19 grudnia 2003 r. organizacji rynków owoców warzyw oraz rynku chmielu (Dz. U. 2022 r. poz. 2101 oraz 2023 r. poz. 412) wprowadza się następujące zmiany: 1 po 1 dodaje się 1a brzmieniu: „1a. Przepisy ustawy nie mają zastosowania do programów operacyjnych innych niż objęte przepisami 5 4 6 akapit pierwszy lit. c Parlamentu Europejskiego Rady (UE) 2021/2117 dnia 2 grudnia 2021 r. zmieniającego (UE) 1308/2013 ustanawiające wspólną organizację rynków produktów rolnych, (UE) 1151/2012 sprawie systemów jakości produktów rolnych środków spożywczych, (UE) 251/2014 sprawie definicji, opisu, prezentacji, etykietowania ochrony oznaczeń geograficznych aromatyzowanych produktów sektora wina (UE) 228/2013 ustanawiające szczególne środki dziedzinie rolnictwa na rzecz regionów najbardziej oddalonych Unii Europejskiej (Dz. 435 06.12.2021, 262).”; przetworzonych owoców warzyw, uzupełniającego rozporządzenie Parlamentu Europejskiego Rady (UE) 1306/2013 odniesieniu do kar, które mają być stosowane tych sektorach, a także zmieniającego rozporządzenie wykonawcze Komisji (UE) 543/2011 (Dz. 138 25.05.2017, 4, późn. zm. ), zwanego dalej „rozporządzeniem 2017/891”;”, uchyla się pkt 6 8,
+**Art. 9b.**
 
-**Art. 9c.** Jeżeli inwestycja nabyta ramach realizacji programu operacyjnego jest wykorzystywana niezgodnie przeznaczeniem określonym 31 5 akapit pierwszy lit. a 2017/891: okresie, którym 31 5 akapit pierwszy lit. b 2017/891,
+1. Prezes Agencji oblicza, w sposób określony w art. 8a ust. 2 akapit drugi rozporządzenia nr 2017/892, odsetek produkcji owoców i warzyw, o którym mowa w tym przepisie, sprzedanej przez organizacje producentów oraz udostępnia informację o tym odsetku na stronie internetowej Agencji w terminie do dnia 30 listopada każdego roku.
 
-**Art. 9d.** Jeżeli, przypadku inwestycji, dla okres realizacji zobowiązań nie upłynął, organizacja producentów lub jej członek albo zrzeszenie organizacji producentów uniemożliwia dyrektorowi oddziału regionalnego Agencji przeprowadzenie kontroli wykorzystywania inwestycji zgodnie przeznaczeniem opisanym zatwierdzonym programie operacyjnym: okresie, którym 31 5 akapit pierwszy lit. b 2017/891,
+2. Odsetek produkcji owoców i warzyw, o którym mowa w art. 8a ust. 2 akapit drugi rozporządzenia nr 2017/892, sprzedanej przez organizacje producentów jest wykorzystywany na potrzeby:
 
-**Art. 2.** Do postępowań sprawach, 9a 1 ustawy zmienianej 1, wszczętych niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+- **1)** zatwierdzania funduszy operacyjnych oraz programów operacyjnych organizacji producentów i zrzeszeniu organizacji producentów,
+- **2)** obliczania wartości pomocy finansowej w odniesieniu do funduszu operacyjnego zatwierdzonego na rok następujący po roku udostępnienia na stronie internetowej Agencji informacji o odsetku produkcji owoców i warzyw.
 
-**Art. 3.** W przypadku dokonania przed dniem wejścia życie niniejszej ustawy zmiany, której 13 1 pkt 3 ustawy zmienianej 1, informację tej zmianie przekazuje się terminie, którym 13 1 pkt 3 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą.
+3. W obliczeniu, o którym mowa w ust. 1, wykorzystuje się dane dostępne w terminie sporządzania tego obliczenia zawarte w rocznym sprawozdaniu, o którym mowa w art. 54 lit. b rozporządzenia nr 2017/891, oraz dane dostępne w terminie sporządzania tego obliczenia dotyczące towarowej produkcji owoców, warzyw, grzybów oraz ziół na terytorium Rzeczypospolitej Polskiej udostępniane na podstawie przepisów ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2022 r. poz. 459 i 830). Jeżeli inwestycja nabyta w ramach realizacji programu operacyjnego jest wykorzystywana niezgodnie z przeznaczeniem określonym w art. 31 ust. 5 akapit pierwszy lit. a rozporządzenia nr 2017/891:
 
-**Art. 4.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+- **1)** w okresie, o którym mowa w art. 31 ust. 5 akapit pierwszy lit. b rozporządzenia nr 2017/891,
+- **2)** w innym okresie – w przypadku gdy w strategii krajowej został określony taki okres na podstawie art. 31 ust. 5 akapit drugi rozporządzenia nr 2017/891 organizacja producentów albo zrzeszenie organizacji producentów zwraca kwotę pomocy finansowej przyznanej na inwestycję wraz z odsetkami naliczanymi zgodnie z art. 67 ust. 1 akapit drugi rozporządzenia nr 2017/891 w wysokości proporcjonalnej do okresu, w którym inwestycja nabyta w ramach realizacji programu operacyjnego była wykorzystywana niezgodnie z przeznaczeniem określonym w art. 31 ust. 5 akapit pierwszy lit. a rozporządzenia nr 2017/891. Jeżeli, w przypadku inwestycji, dla których okres realizacji zobowiązań nie upłynął, organizacja producentów lub jej członek albo zrzeszenie organizacji producentów uniemożliwia dyrektorowi oddziału regionalnego Agencji przeprowadzenie kontroli wykorzystywania inwestycji zgodnie z przeznaczeniem opisanym w zatwierdzonym programie operacyjnym:
+- **1)** w okresie, o którym mowa w art. 31 ust. 5 akapit pierwszy lit. b rozporządzenia nr 2017/891,
+- **2)** w innym okresie – w przypadku gdy w strategii krajowej został określony taki okres na podstawie art. 31 ust. 5 akapit drugi rozporządzenia nr 2017/891 organizacja producentów albo zrzeszenie organizacji producentów zwraca 100% otrzymanej pomocy finansowej na te inwestycje wraz z odsetkami naliczanymi zgodnie z art. 67 ust. 1 akapit drugi rozporządzenia nr 2017/891. Kwotę pomocy podlegającą zwrotowi, o której mowa w art. 9c i art. 9d, ustala w drodze decyzji dyrektor oddziału regionalnego Agencji. ” ;
+- **4)** w art. 12: w ust. 1 w pkt 6: – lit. b otrzymuje brzmienie: „ b) sposobu zagospodarowania przez jednostki organizacyjne lub osoby fizyczne, o których mowa w pkt 1 lit. a oraz b, owoców i warzyw nieprzeznaczonych do sprzedaży, ” , – dodaje się lit. c w brzmieniu: „ c) realizacji przez organizacje producentów i ich zrzeszenia wycofywania z rynku produktów zgodnie z tytułem II rozdziału III sekcją 5 rozporządzenia nr 2017/891. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2a. Wniosek o wydanie decyzji, o których mowa w ust. 1 pkt 1 lit. a oraz b, składa się na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji. ” , w ust. 3 w pkt 4 lit. c otrzymuje brzmienie: „ przekazywania Prezesowi Agencji świadectwa przyjęcia owoców i warzyw nieprzeznaczonych do sprzedaży, ” ;
+
+- **c)**
+- **c)**
+- **5)** w art. 13 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** informacje o każdej zmianie składu członkowskiego organizacji producentów albo zrzeszenia organizacji producentów – w terminie 14 dni od dnia dokonania zmiany; ” ;
+- **6)** w art. 15 w ust. 5 pkt 2 otrzymuje brzmienie: „
+- **2)** przekazuje Prezesowi Agencji kopię protokołu kontroli owoców i warzyw nieprzeznaczonych do sprzedaży, sporządzonego przez wojewódzkiego inspektora. ” .
+
+**Art. 2.** Do postępowań w sprawach, o których mowa w art. 9a ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+**Art. 3.** W przypadku dokonania przed dniem wejścia w życie niniejszej ustawy zmiany, o której mowa w art. 13 ust. 1 pkt 3 ustawy zmienianej w art. 1, informację o tej zmianie przekazuje się w terminie, o którym mowa w art. 13 ust. 1 pkt 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

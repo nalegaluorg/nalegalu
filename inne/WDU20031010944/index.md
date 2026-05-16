@@ -8,9 +8,10 @@ pos: 944
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# iart. 401 § 1 ustawy zdnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 296, ze zm.) zart. 32 1, art. 190 ust.4 wzwiązku zart. 79 1 iart. 8 Konstytucji Rzeczypospolitej Polskiej, orzeka:
+# Wyrok Trybunału Konstytucyjnegoz dnia 20 maja 2003 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,18 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031010944) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/944/text.pdf) |
 
-Art. 399 art. 401 § 1 ustawy dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U.
-Nr43, 296, z1965 15, 113, z1974 27, 157 39, 231, 1975 45, 234, z1982 11, 82 iNr 30, 210, z1983 5, 33, 1984 45, 241 242, 1985 20, 86, 1987 21, 123, 1988 41, 1314, 1319 1322, 2001 4, 27, 49, 508, 63, 635, 98, 1069, 1070 i1071, 123, 1353, 125, 1368 iNr 138, 1546, z2002r. 25, 253, 26, 265, 74, 676, 84, 764, 126, 1069 1070, 129, 1102, 219, 1849 240, 2058 oraz z2003 24, 201, 41, 360, 42, 363 60, 535) są zgodne art. 32 1, art. 190 4 w związku art. 79 1 Konstytucji Rzeczypospolitej Polskiej nie są niezgodne art. 8 Konstytucji.
-poz.324, z1989 4, 21 iNr 33, 175, z1990r.
-14, 88, 34, 198, 53, 306, 55, 318 iNr 79, 464, z1991 7, 24, Nr22, 92 115, 496, 1993 12, 53, Marian Grzybowski Jerzy Ciemniewski Biruta Lewaszkiewicz-Petrykowska Marek Mazurkiewicz Bohdan Zdziennicki WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 20 maja 2003 sygn. akt K56/02 Trybunał Konstytucyjny wskładzie: Jerzy Stępień przewodniczący, Teresa Dębowska-Romanowska sprawozdawca, Janusz Niemcewicz, Mirosław Wyrzykowski, Marian Zdyb, po rozpoznaniu, zudziałem wnioskodawcy, Sejmu, Prokuratora Generalnego oraz Ministra Obrony Narodowej, na rozprawie w dniu 20 maja 2003 r., wniosku Rzecznika Praw Obywatelskich ozbadanie zgodności:
-1) art. 39 3 ustawy zdnia 22 czerwca 1995 ozakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. 86, 433 141, 692, 1996 106, 496, 1997 6, 31, Nr80, 506 106, 678, z1998 106, 668, z1999 86, 964 93, 1063, z2000 6, 70 48, 550 oraz z2001 4, 24, 81, 877, 100, 1085, 125, 1368 154, 1800) art. 92 1 Konstytucji,
-2) § 11 2 § 12 rozporządzenia Ministra Obrony Narodowej zdnia 19 marca 1996 wsprawie ekwiwalentu konserwacyjnego oraz równoważnika mieszkaniowego, przysługujących osobom uprawnionym do osobnych kwater stałych inajemcom lokali mieszkalnych (Dz. U. 37, 165, z1997r.
-52, 331, 1998 45, 275, 1999 22, 203, 2000 44, 511 oraz 2001 484) art. 39 3 ustawy dnia 22 czerwca 1995 o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. 86, 433 141, 692, 1996 106, 496, 1997 6, 31, 80, 506 106, 678, 1998 106, 668, z1999r. 86, 964 93, 1063, z2000 6, 70 48, 550 oraz 2001 4, 24, 81, 877, Nr100, 1085, 125, 1368 154, 1800);
-skiej (Dz. U. 2002 42, 368, 74, 676, wczęści odnoszącej się do szczegółowych zasad usta113, 984 iNr 240, 2055), wczęści odnoszą- lania wysokości równoważnika mieszkaniowego, oraz cej się do szczegółowych zasad ustalania wysokości przepisy § 11 2 i§ 12 rozporządzenia powołanego równoważnika mieszkaniowego, jest niezgodny wpunkcie I. 2 tracą moc zdniem 31 grudnia 2003 zart.92 1 Konstytucji Rzeczypospolitej Polskiej.
-2. § 11 2 i§ 12 rozporządzenia Ministra Obrony Jerzy Stępień Narodowej zdnia 19 marca 1996 wsprawie ekwiwalentu konserwacyjnego oraz równoważnika mieszka- Teresa Dębowska- Janusz Niemcewicz niowego, przysługujących osobom uprawnionym do -Romanowska osobnych kwater stałych najemcom lokali mieszkal- Mirosław Wyrzykowski Marian Zdyb ISSN 0867-3411 Cena brutto 9,00 zł Ceny brutto prenumeraty na 2003 (w tym 7% VAT):
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Jerzy Stępień – przewodniczący, Teresa Dębowska-Romanowska – sprawozdawca, Janusz Niemcewicz, Mirosław Wyrzykowski, Marian Zdyb, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy, Sejmu, Prokuratora Generalnego oraz Ministra Obrony Narodowej, na rozprawie w dniu 20 maja 2003 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
+1)
+art. 39 ust. 3 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. Nr 86, poz. 433 i Nr 141, poz. 692, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 6, poz. 31, Nr 80, poz. 506 i Nr 106, poz. 678, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 86, poz. 964 i Nr 93, poz. 1063, z 2000 r. Nr 6, poz. 70 i Nr 48, poz. 550 oraz z 2001 r. Nr 4, poz. 24, Nr 81, poz. 877, Nr 100, poz. 1085, Nr 125, poz. 1368 i Nr 154, poz. 1800) z art. 92 ust. 1 Konstytucji,
+2)
+§ 11 ust. 2 i § 12 rozporządzenia Ministra Obrony Narodowej z dnia 19 marca 1996 r. w sprawie ekwiwalentu konserwacyjnego oraz równoważnika mieszkaniowego, przysługujących osobom uprawnionym do osobnych kwater stałych i najemcom lokali mieszkalnych (Dz. U. Nr 37, poz. 165, z 1997 r. Nr 52, poz. 331, z 1998 r. Nr 45, poz. 275, z 1999 r. Nr 22, poz. 203, z 2000 r. Nr 44, poz. 511 oraz z 2001 r. Nr 43, poz. 484) z art. 39 ust. 3 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. Nr 86, poz. 433 i Nr 141, poz. 692, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 6, poz. 31, Nr 80, poz. 506 i Nr 106, poz. 678, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 86, poz. 964 i Nr 93, poz. 1063, z 2000 r. Nr 6, poz. 70 i Nr 48, poz. 550 oraz z 2001 r. Nr 4, poz. 24, Nr 81, poz. 877, Nr 100, poz. 1085, Nr 125, poz. 1368 i Nr 154, poz. 1800);
+3)
+§ 11 ust. 2 i § 12 rozporządzenia wskazanego w punkcie drugim z art. 92 ust. 1 zdanie pierwsze Konstytucji RP,
+orzeka: I
+1.
+Art. 39 ust. 3 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2002 r. Nr 42, poz. 368, Nr 74, poz. 676, Nr 113, poz. 984 i Nr 240, poz. 2055), w części odnoszącej się do szczegółowych zasad ustalania wysokości równoważnika mieszkaniowego, jest niezgodny z art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
+2.
+§ 11 ust. 2 i § 12 rozporządzenia Ministra Obrony Narodowej z dnia 19 marca 1996 r. w sprawie ekwiwalentu konserwacyjnego oraz równoważnika mieszkaniowego, przysługujących osobom uprawnionym do osobnych kwater stałych i najemcom lokali mieszkalnych (Dz. U. Nr 37, poz. 165, z 1997 r. Nr 52, poz. 331, z 1998 r. Nr 45, poz. 275, z 1999 r. Nr 22, poz. 203, z 2000 r. Nr 44, poz. 511, z 2001 r. Nr 43, poz. 484 oraz z 2002 r. Nr 80, poz. 727) są niezgodne z art. 92 ust. 1 zdanie pierwsze Konstytucji oraz z art. 39 ust. 3 ustawy powołanej w punkcie I. 1.
+II Art. 39 ust. 3 ustawy powołanej w punkcie I. 1, w części odnoszącej się do szczegółowych zasad ustalania wysokości równoważnika mieszkaniowego, oraz przepisy § 11 ust. 2 i § 12 rozporządzenia powołanego w punkcie I. 2 tracą moc z dniem 31 grudnia 2003 r.
 

@@ -8,9 +8,10 @@ pos: 1177
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 5 sierpnia
+# Ustawa z dnia 10 czerwca 2016 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,43 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1177/text.pdf) |
 
-USTAWA dnia 10 czerwca zmianie Kodeks rodzinny opiekuńczy niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 2082 oraz z 2016 r. poz. 406) w art. 135 § 3 otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie dnia 25 lutego 1964 Kodeks rodzinny opiekuńczy 2082
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) w art. 890 po § 1 dodaje się § 11 w brzmieniu: „
 
-**Art. 2.** W ustawie dnia 17 listopada 1964 Kodeks postępowania cywilnego 2014 101, późn. zm. ) 890 po § 1 dodaje się § 1 brzmieniu: „§ 1 . Zajęcie wierzytelności rachunku bankowego nie obejmuje kwot pochodzących ze świadczeń, dodatków zasiłków, 833 § 6, świadczeń, dodatków innych kwot, 31 ust. 1, 80 ust. 1 1a, 81, 83 ust. 1 4, 84 pkt 2 3 140 ust. 1 pkt 1 dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej, środków finansowych na utrzymanie lokalu mieszkalnego budynku wielorodzinnym lub domu jednorodzinnego, 83 ust. 2 84 pkt 1 dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej, części przysługującej na umieszczone rodzinie zastępczej lub rodzinnym domu dziecka dzieci osoby, które osiągnęły pełnoletność, przebywając pieczy zastępczej.”.
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 29 sierpnia 1997 Prawo bankowe 128, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 51.** Rachunek bankowy, z wyjątkiem rachunku rodzinnego, może być prowadzony dla kilku osób fizycznych, kilku jednostek samorządu terytorialnego albo stron umowy o współpracy w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131) – rachunek wspólny. ” ;
 
-**Art. 4.** W ustawie dnia 5 listopada 2009 spółdzielczych kasach oszczędnościowo-kredytowych 2013 1450, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 52a.**
 
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+1. Otwarcie i prowadzenie rachunku rodzinnego oraz wypłaty z tego rachunku w banku, w którym rachunek jest prowadzony, są wolne od jakichkolwiek opłat i prowizji. Bank nie pobiera opłat i prowizji za wydanie instrumentu płatniczego do rachunku rodzinnego, jego miesięczne utrzymanie oraz wypłaty z wykorzystaniem tego instrumentu przy użyciu bankomatów tego banku.
+
+2. Na rachunek rodzinny mogą być wpłacane wyłącznie środki pieniężne pochodzące ze świadczeń niepodlegających egzekucji. Wpłaty na rachunek rodzinny mogą być dokonywane wyłącznie z rachunków bankowych jednostek wypłacających świadczenia niepodlegające egzekucji. ” ;
+
+- **5)** po art. 54 dodaje się art. 54a w brzmieniu: „
+
+**Art. 54a.** Środki pieniężne znajdujące się na rachunkach oszczędnościowych, rachunkach oszczędnościowo-rozliczeniowych oraz na rachunkach terminowych lokat oszczędnościowych pochodzące ze świadczeń, dodatków i zasiłków, o których mowa w art. 833 § 6 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, oraz świadczeń, dodatków i innych kwot, o których mowa w art. 31 ust. 1, art. 80 ust. 1 i 1a, art. 81, art. 83 ust. 1 i 4, art. 84 pkt 2 i 3 i art. 140 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2016 r. poz. 575), oraz środków finansowych na utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, o których mowa w art. 83 ust. 2 i art. 84 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w części przysługującej na umieszczone w rodzinie zastępczej lub rodzinnym domu dziecka dzieci i osoby, które osiągnęły pełnoletność, przebywając w pieczy zastępczej, są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego. ” .
+
+**Art. 4.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2013 r. poz. 1450, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 13g.**
+
+1. Kasa może prowadzić na rzecz członka kasy rachunek rodzinny.
+
+2. Rachunek rodzinny członka kasy może być prowadzony wyłącznie dla osób fizycznych, którym przyznano niepodlegające egzekucji świadczenia, dodatki, zasiłki oraz inne kwoty, o których mowa w art. 833 § 6 i 7 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.), z wyjątkiem świadczeń alimentacyjnych, zwane dalej „świadczeniami niepodlegającymi egzekucji”.
+
+3. Rachunek rodzinny członka kasy nie może być prowadzony dla kilku osób fizycznych.
+
+4. Umowa rachunku rodzinnego członka kasy określa numery rachunków bankowych jednostek wypłacających świadczenia niepodlegające egzekucji, z których dokonywane są wpłaty na rachunek rodzinny członka kasy. Zaświadczenia o numerach tych rachunków, wydane przez jednostki wypłacające świadczenia niepodlegające egzekucji, stanowią załączniki do umowy rachunku rodzinnego członka kasy.
+
+5. Otwarcie i prowadzenie rachunku rodzinnego członka kasy oraz wypłaty z tego rachunku w kasie, w której rachunek jest prowadzony, są wolne od jakichkolwiek opłat i prowizji. Kasa nie pobiera opłat i prowizji za wydanie instrumentu płatniczego do rachunku rodzinnego, o ile umowa przewiduje wydanie tego instrumentu, jego miesięczne utrzymanie oraz wypłaty z wykorzystaniem tego instrumentu przy użyciu bankomatów wskazanych przez kasę w umowie.
+
+6. Na rachunek rodzinny członka kasy mogą być wpłacane wyłącznie środki pieniężne pochodzące ze świadczeń niepodlegających egzekucji. Wpłaty na rachunek rodzinny członka kasy mogą być dokonywane wyłącznie z rachunków bankowych jednostek wypłacających świadczenia niepodlegające egzekucji. ” ;
+
+- **2)** w art. 28 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Środki pieniężne znajdujące się na rachunku, o którym mowa w ust. 1, pochodzące ze świadczeń, dodatków i zasiłków, o których mowa w art. 833 § 6 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, oraz świadczeń, dodatków i innych kwot, o których mowa w art. 31 ust. 1, art. 80 ust. 1 i 1a, art. 81, art. 83 ust. 1 i 4, art. 84 pkt 2 i 3 i art. 140 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2016 r. poz. 575), oraz środków finansowych na utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, o których mowa w art. 83 ust. 2 i art. 84 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w części przysługującej na umieszczone w rodzinie zastępczej lub rodzinnym domu dziecka dzieci i osoby, które osiągnęły pełnoletność, przebywając w pieczy zastępczej, są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego. ” .
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

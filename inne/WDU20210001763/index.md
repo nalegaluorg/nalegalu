@@ -8,9 +8,10 @@ pos: 1763
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 września 2021 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 16 września 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o strażach gminnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,18 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001763) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1763/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 września 2021 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o strażach gminnych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2019 r. poz. 1795), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2021 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 30 i art. 31 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112), które stanowią: „Art. 30. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 7 ustawy zmienianej w art. 7 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 7 ustawy zmienianej w art. 7, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
-Art. 34–37. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja, zadania i zakres uprawnień straży Rozdział 3 – Uprawnienia i obowiązki strażników Rozdział 4 – Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2019 r. poz. 1795), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2021 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 30 i art. 31 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112), które stanowią:
+„
+Art. 34–37.
+(pominięte)
+
+**Art. 30.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 7 ustawy zmienianej w art. 7 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 7 ustawy zmienianej w art. 7, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 31.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
@@ -36,7 +44,7 @@ Art. 34–37. (pominięte)
 
 **Art. 1.**
 
-1. Do ochrony porządku publicznego na terenie gminy może być utworzona samorządowa umundurowana formacja straż gminna, zwana dalej „strażą”.
+1. Do ochrony porządku publicznego na terenie gminy może być utworzona samorządowa umundurowana formacja – straż gminna, zwana dalej „strażą”.
 
 2. Straż spełnia służebną rolę wobec społeczności lokalnej, wykonując swe zadania z poszanowaniem godności i praw obywateli.
 
@@ -81,9 +89,24 @@ Art. 34–37. (pominięte)
 
 1. (uchylony)
 
-2. Szczegółową strukturę organizacyjną straży określa regulamin straży nadawany przez radę gminy.
+2. Szczegółową strukturę organizacyjną straży określa regulamin straży nadawany przez radę gminy. W straży ustanawia się stanowiska strażnicze:
 
-**Art. 8a.** W straży ustanawia się stanowiska strażnicze:
+- **1)** aplikanta;
+- **2)** młodszego strażnika;
+- **3)** strażnika;
+- **4)** starszego strażnika;
+- **5)** młodszego specjalisty;
+- **6)** specjalisty;
+- **7)** starszego specjalisty;
+- **8)** młodszego inspektora;
+- **9)** inspektora;
+- **10)** starszego inspektora;
+- **11)** zastępcy kierownika;
+- **12)** kierownika;
+- **13)** zastępcy naczelnika;
+- **14)** naczelnika;
+- **15)** zastępcy komendanta;
+- **16)** komendanta.
 
 **Art. 9.**
 
@@ -120,8 +143,6 @@ Art. 34–37. (pominięte)
 
 7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, formy współpracy straży z Policją oraz sposób informowania wojewody o tej współpracy, kierując się potrzebą zapewnienia skuteczności tej współpracy.
 
-**Art. 9a.**
-
 1. Straż prowadzi ewidencję:
 
 - **1)** etatów;
@@ -129,8 +150,6 @@ Art. 34–37. (pominięte)
 - **3)** wyników działań straży.
 
 2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, zakres i sposób prowadzenia ewidencji, uwzględniając dane podlegające wpisowi oraz możliwość jej prowadzenia w systemie informatycznym.
-
-**Art. 9b.**
 
 1. Komendanci straży przekazują właściwemu terytorialnie komendantowi wojewódzkiemu (Stołecznemu) Policji do dnia 31 stycznia każdego roku informacje o danych zawartych w ewidencji, o której mowa w art. 9a ust. 1. Zbiorcze informacje z obszaru województwa komendant wojewódzki (Stołeczny) Policji składa do końca lutego każdego roku wojewodzie.
 
@@ -142,24 +161,20 @@ Art. 34–37. (pominięte)
 
 2. Zadania, o których mowa w ust. 1, wykonują pracownicy straży, zwani dalej „strażnikami”, po ukończeniu z wynikiem pozytywnym szkolenia podstawowego, o którym mowa w art. 25.
 
-**Art. 10a.**
-
 1. Straż w celu realizacji ustawowych zadań może przetwarzać dane osobowe, z wyłączeniem danych ujawniających pochodzenie rasowe lub etniczne, poglądy polityczne, przekonania religijne lub filozoficzne, przynależność wyznaniową, partyjną lub związkową, jak również danych o stanie zdrowia, kodzie genetycznym, nałogach lub życiu seksualnym, bez wiedzy i zgody osoby, której dane te dotyczą, uzyskane:
 
 - **1)** w wyniku wykonywania czynności podejmowanych w postępowaniu w sprawach o wykroczenia;
 - **2)** z rejestrów, ewidencji i zbiorów, do których straż posiada dostęp na podstawie odrębnych przepisów.
 
-2. Administratorem danych osobowych przetwarzanych w celu, o którym mowa w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), przez straż jest komendant straży.
-
-**Art. 10b.** W celu wykonywania zadań w zakresie kontroli ruchu drogowego, o których mowa w art. 129b ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641), straż może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych w art. 80k–80r tej ustawy.
+2. Administratorem danych osobowych przetwarzanych w celu, o którym mowa w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), przez straż jest komendant straży. W celu wykonywania zadań w zakresie kontroli ruchu drogowego, o których mowa w art. 129b ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641), straż może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych w art. 80k-80r tej ustawy.
 
 **Art. 11.**
 
 1. Do zadań straży należy w szczególności:
 
 - **1)** ochrona spokoju i porządku w miejscach publicznych;
-- **2)** czuwanie nad porządkiem i kontrola ruchu drogowego w zakresie określonym w przepisach o ruchu drogowym;
-- **2a)** kontrola publicznego transportu zbiorowego w zakresie określonym w art. 45 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2021 r. poz. 1371);
+- **2)** czuwanie nad porządkiem i kontrola ruchu drogowego – w zakresie określonym w przepisach o ruchu drogowym;
+- **2a)** kontrola publicznego transportu zbiorowego – w zakresie określonym w art. 45 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2021 r. poz. 1371);
 - **3)** współdziałanie z właściwymi podmiotami w zakresie ratowania życia i zdrowia obywateli, pomocy w usuwaniu awarii technicznych i skutków klęsk żywiołowych oraz innych miejscowych zagrożeń;
 - **4)** zabezpieczenie miejsca przestępstwa, katastrofy lub innego podobnego zdarzenia albo miejsc zagrożonych takim zdarzeniem przed dostępem osób postronnych lub zniszczeniem śladów i dowodów, do momentu przybycia właściwych służb, a także ustalenie, w miarę możliwości, świadków zdarzenia;
 - **5)** ochrona obiektów komunalnych i urządzeń użyteczności publicznej;
@@ -183,17 +198,21 @@ Art. 34–37. (pominięte)
 - **1)** udzielania pouczeń, zwracania uwagi, ostrzegania lub stosowania innych środków oddziaływania wychowawczego;
 - **2)** legitymowania osób w uzasadnionych przypadkach w celu ustalenia ich tożsamości;
 - **3)** ujęcia osób stwarzających w sposób oczywisty bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego, a także dla mienia i niezwłocznego doprowadzenia do najbliższej jednostki Policji;
-- **3a)** dokonywania kontroli osobistej, przeglądania zawartości podręcznych bagaży osoby w przypadku istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary lub w związku z wykonywaniem czynności określonych w ust. 1 pkt 3 na zasadach i w sposób określony w ust. 1c–1m;
+- **3a)** dokonywania kontroli osobistej, przeglądania zawartości podręcznych bagaży osoby w przypadku istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary lub w związku z wykonywaniem czynności określonych w ust. 1 pkt 3 – na zasadach i w sposób określony w ust. 1c-1m;
 - **3b)** dokonywania sprawdzenia prewencyjnego osób doprowadzanych, o których mowa w art. 11 ust. 1 pkt 7, w celu ochrony przed bezprawnymi zamachami na życie lub zdrowie osób lub mienie, a także w celu ochrony przed nieuprawnionymi działaniami skutkującymi zagrożeniem życia lub zdrowia;
 - **4)** nakładania grzywien w postępowaniu mandatowym za wykroczenia określone w trybie przewidzianym przepisami o postępowaniu w sprawach o wykroczenia;
-- **5)** dokonywania czynności wyjaśniających, kierowania wniosków o ukaranie do sądu, oskarżania przed sądem i wnoszenia środków odwoławczych w trybie i zakresie określonych w Kodeksie postępowania w sprawach o wykroczenia;
+- **5)** dokonywania czynności wyjaśniających, kierowania wniosków o ukaranie do sądu, oskarżania przed sądem i wnoszenia środków odwoławczych – w trybie i zakresie określonych w Kodeksie postępowania w sprawach o wykroczenia;
 - **6)** usuwania pojazdów i ich unieruchamiania przez blokowanie kół w przypadkach, zakresie i trybie określonych w przepisach o ruchu drogowym;
 - **7)** wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do wykonywania czynności określonych w pkt 1–6;
 - **8)** żądania niezbędnej pomocy od instytucji państwowych i samorządowych;
 - **9)** zwracania się, w nagłych przypadkach, o pomoc do jednostek gospodarczych, prowadzących działalność w zakresie użyteczności publicznej oraz organizacji społecznych, jak również do każdej osoby o udzielenie doraźnej pomocy na zasadach określonych w ustawie o Policji.
-- **10)** (uchylony) 1a. Straż w toku wykonywania czynności, o których mowa w ust. 1 i art. 11 ust. 2, ma obowiązek respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka. Czynności te powinny być wykonywane w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostają podjęte.
+- **10)** (uchylony)
 
-1b. (uchylony) 1c. Kontrola osobista polega na sprawdzeniu:
+1a. Straż w toku wykonywania czynności, o których mowa w ust. 1 i art. 11 ust. 2, ma obowiązek respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka. Czynności te powinny być wykonywane w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostają podjęte.
+
+1b. (uchylony)
+
+1c. Kontrola osobista polega na sprawdzeniu:
 
 - **1)** zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą kontrolowaną”, i przedmiotów, które znajdują się na jej ciele;
 - **2)** zawartości podręcznego bagażu oraz innych przedmiotów, które posiada przy sobie osoba kontrolowana;
@@ -223,14 +242,14 @@ Art. 34–37. (pominięte)
 - **1)** oznaczenie czynności, podstawę prawną i przyczynę jej podjęcia;
 - **2)** miejsce podjęcia czynności oraz datę i godzinę rozpoczęcia i zakończenia czynności;
 - **3)** imię i nazwisko, datę i miejsce urodzenia oraz miejsce zamieszkania lub pobytu osoby kontrolowanej i osób uczestniczących w czynności;
-- **4)** rodzaj dokumentu, który stanowił podstawę do ustalenia tożsamości, a w przypadku gdy tożsamość osoby ustalono w inny sposób dane pozwalające na ustalenie tożsamości osoby;
+- **4)** rodzaj dokumentu, który stanowił podstawę do ustalenia tożsamości, a w przypadku gdy tożsamość osoby ustalono w inny sposób – dane pozwalające na ustalenie tożsamości osoby;
 - **5)** stanowisko, imię i nazwisko strażnika dokonującego czynności;
 - **6)** przebieg czynności, oświadczenia i wnioski jej uczestników;
 - **7)** spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
 - **8)** pouczenie osoby kontrolowanej o jej prawach;
 - **9)** w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
 
-1l. Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania kontroli osobistej, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2021 r. poz. 534 i 1023).
+1l. Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania kontroli osobistej, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2021 r. poz. 534 i 1023).
 
 1m. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej, sąd zawiadamia o tym prokuratora i komendanta straży, w której zatrudniony jest strażnik, który dokonał kontroli osobistej.
 
@@ -240,19 +259,15 @@ Art. 34–37. (pominięte)
 
 1p. W toku wykonywania czynności, o których mowa w ust. 1o, strażnik może, w uzasadnionych przypadkach, przeprowadzić badania na zawartość alkoholu w wydychanym powietrzu. Warunki oraz sposób przeprowadzania badań, o których mowa w zdaniu pierwszym, określają przepisy wykonawcze wydane na podstawie art. 47 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119).
 
-1q. W przypadku gdy w stosunku do osób doprowadzanych, o którym mowa w art. 11 ust. 1 pkt 7, zachodzi uzasadnione podejrzenie że posiadają przy sobie niebezpieczne przedmioty dla życia lub zdrowia ludzkiego, dokonuje się kontroli osobistej na zasadach i w sposób określony w ust. 1c–1n.
+1q. W przypadku gdy w stosunku do osób doprowadzanych, o którym mowa w art. 11 ust. 1 pkt 7, zachodzi uzasadnione podejrzenie że posiadają przy sobie niebezpieczne przedmioty dla życia lub zdrowia ludzkiego, dokonuje się kontroli osobistej na zasadach i w sposób określony w ust. 1c-1n.
 
 2. Rada Ministrów określi, w drodze rozporządzenia, zakres i sposób wykonywania czynności, o których mowa w ust. 1 pkt 2, 3, 3b, 8 i 9, uwzględniając potrzebę zapewnienia skuteczności podejmowanych przez strażnika czynności, a także potrzebę respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka.
-
-**Art. 12a.**
 
 1. Komendant straży w przypadku, gdy istnieje potrzeba wykonania czynności w ramach prowadzonych czynności wyjaśniających w sprawach o wykroczenia poza obszarem jego działania, ma prawo wnosić o udzielenie niezbędnej pomocy w tym zakresie od komendanta straży właściwej dla miejsca wykonania czynności.
 
 2. Komendant straży może wykonać czynności zlecone w ramach pomocy, o której mowa w ust. 1.
 
-3. W przypadku, gdy na danym terenie nie funkcjonuje straż, komendant straży, o którym mowa w ust. 1, może zwrócić się o przeprowadzenie poszczególnych czynności dowodowych w ramach prowadzonych czynności wyjaśniających w sprawach o wykroczenia do organu Policji właściwego dla miejsca wykonania czynności.
-
-**Art. 12b.** Dzień 29 sierpnia ustanawia się Dniem Straży Gminnej.
+3. W przypadku, gdy na danym terenie nie funkcjonuje straż, komendant straży, o którym mowa w ust. 1, może zwrócić się o przeprowadzenie poszczególnych czynności dowodowych w ramach prowadzonych czynności wyjaśniających w sprawach o wykroczenia do organu Policji właściwego dla miejsca wykonania czynności. Dzień 29 sierpnia ustanawia się Dniem Straży Gminnej.
 
 **Art. 13.** (uchylony)
 
@@ -266,23 +281,7 @@ Art. 34–37. (pominięte)
 
 3. Wobec zwierzęcia, którego zachowanie zagraża bezpośrednio życiu lub zdrowiu strażnika lub innej osoby, strażnik może wykorzystać także środek przymusu bezpośredniego, o którym mowa w art. 12 ust. 1 pkt 5 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
-4. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
-
-**Art. 14a.** (uchylony)
-
-**Art. 14b.** (uchylony)
-
-**Art. 14c.** (uchylony)
-
-**Art. 14d.** (uchylony)
-
-**Art. 14e.** (uchylony)
-
-**Art. 14f.** (uchylony)
-
-**Art. 14g.** (uchylony)
-
-**Art. 14h.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, sposób przechowywania i ewidencjonowania środków przymusu bezpośredniego, uwzględniając potrzebę właściwego zabezpieczenia tych środków i dokumentacji, uniemożliwiającego dostęp osób niepowołanych.
+4. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej. (uchylony) (uchylony) (uchylony) (uchylony) (uchylony) (uchylony) (uchylony) Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, sposób przechowywania i ewidencjonowania środków przymusu bezpośredniego, uwzględniając potrzebę właściwego zabezpieczenia tych środków i dokumentacji, uniemożliwiającego dostęp osób niepowołanych.
 
 **Art. 15.**
 
@@ -327,14 +326,6 @@ Art. 34–37. (pominięte)
 
 **Art. 24.** Strażnikiem może być osoba, która:
 
-**Art. 24a.**
-
-1. Strażnicy oraz osoby ubiegające się o przyjęcie do pracy w charakterze strażnika podlegają obowiązkowym badaniom lekarskim i psychologicznym.
-
-2. Do przeprowadzania badań lekarskich stosuje się odpowiednio art. 229 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162).
-
-3. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, zakres i tryb przeprowadzania badań psychologicznych osób, o których mowa w ust. 1, oraz podmioty uprawnione do przeprowadzania badań psychologicznych, uwzględniając potrzebę prawidłowego stwierdzenia przez psychologa istnienia lub braku przeciwwskazań psychologicznych do wykonywania czynności strażnika.
-
 **Art. 25.**
 
 1. Strażnika zatrudnia się po raz pierwszy na czas określony nie dłuższy niż 12 miesięcy, w ramach którego odbywa szkolenie podstawowe.
@@ -347,21 +338,7 @@ Art. 34–37. (pominięte)
 
 5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, minimalny zakres programu szkolenia podstawowego strażników gminnych, warunki i zakres udziału Policji w szkoleniu podstawowym, sposób powoływania, skład i tryb działania komisji egzaminacyjnych, obowiązki przewodniczącego komisji, formę egzaminu oraz organ właściwy do wydania świadectwa złożenia egzaminu i wzór świadectwa. Rozporządzenie powinno uwzględniać potrzebę zapewnienia odpowiedniego poziomu wyszkolenia strażników i jednolitości minimum programowego, formy szkolenia, zakres wiedzy teoretycznej i praktyki niezbędnej do wykonywania obowiązków strażnika oraz poprawność przebiegu i rzetelność oceny egzaminowanych.
 
-**Art. 26.** Z dniem zatrudnienia strażnik składa pisemne ślubowanie następującej treści: „Ślubuję uroczyście służyć Państwu i wspólnocie lokalnej, chronić porządek publiczny i bezpieczeństwo ludzi, przestrzegać porządku prawnego i dyscypliny służbowej, dbać o etykę i dobre imię służby”. Ślubowanie może być również złożone z dodaniem słów „Tak mi dopomóż Bóg”.
-
-**Art. 26a.**
-
-1. Strażnika zawiesza się w pełnieniu obowiązków pracowniczych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o ścigane z oskarżenia publicznego i popełnione umyślnie przestępstwo lub przestępstwo skarbowe na czas nie dłuższy niż 3 miesiące.
-
-2. Strażnika można zawiesić w pełnieniu obowiązków pracowniczych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o ścigane z oskarżenia publicznego i popełnione nieumyślnie przestępstwo lub przestępstwo skarbowe, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro pracy na czas nie dłuższy niż 3 miesiące.
-
-3. W uzasadnionych przypadkach okres zawieszenia w pełnieniu obowiązków pracowniczych można przedłużyć na dalszy okres, nie dłużej jednak niż do czasu ukończenia postępowania karnego za przestępstwo lub przestępstwo skarbowe.
-
-4. Strażnikowi zawieszonemu w pełnieniu obowiązków pracowniczych, od najbliższego terminu wypłaty wynagrodzenia za pracę przysługuje wynagrodzenie w wysokości 50% jego wynagrodzenia zasadniczego oraz dodatków do wynagrodzenia określonych w umowie o pracę w stałej wysokości.
-
-5. Po upływie okresu, na jaki strażnik został zawieszony w pełnieniu obowiązków pracowniczych, strażnikowi wypłaca się należne wynagrodzenie za okres zawieszenia oraz obligatoryjne podwyżki wynagrodzenia w tym okresie, w przypadku umorzenia postępowania karnego za przestępstwo lub przestępstwo skarbowe lub uniewinnienia prawomocnym wyrokiem sądu.
-
-6. Przepisu ust. 5 nie stosuje się w przypadku warunkowego umorzenia postępowania karnego.
+**Art. 26.** Z dniem zatrudnienia strażnik składa pisemne ślubowanie następującej treści: „ Ślubuję uroczyście służyć Państwu i wspólnocie lokalnej, chronić porządek publiczny i bezpieczeństwo ludzi, przestrzegać porządku prawnego i dyscypliny służbowej, dbać o etykę i dobre imię służby ” . Ślubowanie może być również złożone z dodaniem słów „Tak mi dopomóż Bóg”. 1. Strażnika zawiesza się w pełnieniu obowiązków pracowniczych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o ścigane z oskarżenia publicznego i popełnione umyślnie przestępstwo lub przestępstwo skarbowe – na czas nie dłuższy niż 3 miesiące. 2. Strażnika można zawiesić w pełnieniu obowiązków pracowniczych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o ścigane z oskarżenia publicznego i popełnione nieumyślnie przestępstwo lub przestępstwo skarbowe, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro pracy – na czas nie dłuższy niż 3 miesiące. 3. W uzasadnionych przypadkach okres zawieszenia w pełnieniu obowiązków pracowniczych można przedłużyć na dalszy okres, nie dłużej jednak niż do czasu ukończenia postępowania karnego za przestępstwo lub przestępstwo skarbowe. 4. Strażnikowi zawieszonemu w pełnieniu obowiązków pracowniczych, od najbliższego terminu wypłaty wynagrodzenia za pracę przysługuje wynagrodzenie w wysokości 50% jego wynagrodzenia zasadniczego oraz dodatków do wynagrodzenia określonych w umowie o pracę w stałej wysokości. 5. Po upływie okresu, na jaki strażnik został zawieszony w pełnieniu obowiązków pracowniczych, strażnikowi wypłaca się należne wynagrodzenie za okres zawieszenia oraz obligatoryjne podwyżki wynagrodzenia w tym okresie, w przypadku umorzenia postępowania karnego za przestępstwo lub przestępstwo skarbowe lub uniewinnienia prawomocnym wyrokiem sądu. 6. Przepisu ust. 5 nie stosuje się w przypadku warunkowego umorzenia postępowania karnego.
 
 **Art. 27.** Do obowiązków strażnika należy:
 
@@ -378,8 +355,6 @@ Art. 34–37. (pominięte)
 
 2. Strażnik, o którym mowa w ust. 1, może również uzyskać usunięcie z akt osobowych zapisu o uprzednio wymierzonej karze dyscyplinarnej.
 
-**Art. 29a.**
-
 1. Obowiązki pracownicze strażnika powinny być ustalone w sposób pozwalający na ich wykonanie w ramach przeciętnie 40 godzin w przeciętnie pięciodniowym tygodniu pracy w 4-miesięcznym okresie rozliczeniowym.
 
 2. Tygodniowy czas pracy strażnika, łącznie z pracą w godzinach nadliczbowych, nie może przekraczać przeciętnie 48 godzin w 4-miesięcznym okresie rozliczeniowym.
@@ -392,21 +367,15 @@ Art. 34–37. (pominięte)
 
 6. W przypadku naruszenia prawa do odpoczynku, o którym mowa w ust. 3, w sytuacjach wskazanych w ust. 4 strażnikowi przysługuje, w okresie rozliczeniowym, równoważny okres odpoczynku.
 
-**Art. 29b.**
-
-- **2)** 1. W okresie przebywania na zwolnieniu lekarskim w razie stwierdzenia zakażenia lub zachorowania na chorobę, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, przy czym stwierdzone zakażenie lub zachorowanie powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby, strażnik zachowuje prawo do 100% wynagrodzenia.
+1. W okresie przebywania na zwolnieniu lekarskim w razie stwierdzenia zakażenia lub zachorowania na chorobę, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, przy czym stwierdzone zakażenie lub zachorowanie powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby, strażnik zachowuje prawo do 100% wynagrodzenia.
 
 2. Prawo do 100% wynagrodzenia przysługuje również wtedy, gdy strażnik został zwolniony od wykonywania zadań służbowych na skutek podlegania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, jeżeli podleganie tej kwarantannie lub izolacji powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby.
 
 3. Wykonywanie zadań służbowych, o których mowa w art. 27, stwierdza pisemnie przełożony lub upoważniona przez niego osoba.
 
-**Art. 30.**
-
 1. Strażnicy mogą się zrzeszać w związkach zawodowych, z tym że nie mają prawa do strajku. Przepisy ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263) stosuje się odpowiednio.
 
-2. W trakcie trwania stosunku pracy strażnik nie może być członkiem partii politycznej.
-
-**Art. 31.** Strażnik nie może bez zezwolenia komendanta podejmować innego zajęcia zarobkowego.
+2. W trakcie trwania stosunku pracy strażnik nie może być członkiem partii politycznej. Strażnik nie może bez zezwolenia komendanta podejmować innego zajęcia zarobkowego.
 
 **Art. 32.** W sprawach dotyczących strażników, a nieuregulowanych w ustawie, mają zastosowanie przepisy o pracownikach samorządowych.
 

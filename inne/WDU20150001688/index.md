@@ -8,9 +8,12 @@ pos: 1688
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 października 2015 r.
+# o zużytym sprzęcie elektrycznym i elektronicznym
+
+*USTAWA z dnia 11 września 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,7 @@ domain: null
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001688) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1688/text.pdf) |
 
-USTAWA z dnia 11 września 2015 r.
-o zużytym sprzęcie elektrycznym i elektronicznym
+Art. 99–111. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -53,14 +55,15 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 - **7)** środków transportu osób lub towarów, z wyłączeniem nieposiadających homologacji elektrycznych pojazdów dwukołowych;
 - **8)** maszyn ruchomych nieporuszających się po drogach, rozumianych jako maszyny z pokładowym źródłem zasilania, których funkcjonowanie wymaga poruszania się albo ciągłego lub półciągłego przemieszczania się między następującymi po sobie stałymi miejscami pracy, udostępnianych wyłącznie do użytku profesjonalnego;
 - **9)** przeznaczonego wyłącznie do celów badań i rozwoju, udostępnianego wyłącznie w ramach transakcji B2B;
-- **10)** wyrobów medycznych i wyrobów medycznych do diagnostyki in vitro, wyposażenia wyrobów medycznych i wyposażenia wyrobów medycznych do diagnostyki in vitro w rozumieniu art. 2 ust. 1 pkt 33, 34, 38 i 39 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2015 r. poz. 876), w przypadku gdy mogą być źródłem zakażeń przed zakończeniem okresu ich eksploatacji, a także do aktywnych wyrobów medycznych do implantacji w rozumieniu art. 2 ust. 1 pkt 1 tej ustawy .
+- **10)** wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanych dalej „wyrobami medycznymi”, w przypadku gdy mogą być źródłem zakażeń przed zakończeniem okresu ich eksploatacji;
+- **11)** informatycznych nośników danych wykorzystywanych do przetwarzania danych osobowych, o których mowa w ustawie z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206).
 
 3. Przepisów art. 18, art. 19, art. 20 ust. 1, art. 21 i art. 23 nie stosuje się do wprowadzającego sprzęt, który wprowadza do obrotu:
 
 - **1)** małogabarytowy sprzęt, którego żaden z zewnętrznych wymiarów nie przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 100 kg,
-- **2)** wielkogabarytowy sprzęt, którego którykolwiek z zewnętrznych wymiarów przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 1000 kg który skorzystał ze zwolnienia, o którym mowa w art. 76 ust. 1.
+- **2)** wielkogabarytowy sprzęt, którego którykolwiek z zewnętrznych wymiarów przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 1000 kg – który skorzystał ze zwolnienia, o którym mowa w art. 76 ust. 1.
 
-**Art. 3.** W sprawach dotyczących postępowania ze zużytym sprzętem w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm. ).
+**Art. 3.** W sprawach dotyczących postępowania ze zużytym sprzętem w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029).
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
 
@@ -74,7 +77,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 1. Wprowadzenie do obrotu następuje w dniu:
 
-- **1)** wydania sprzętu z magazynu albo przekazania go osobie trzeciej w przypadku sprzętu wytworzonego na terytorium kraju;
+- **1)** wydania sprzętu z magazynu albo przekazania go osobie trzeciej – w przypadku sprzętu wytworzonego na terytorium kraju;
 - **2)** wystawienia faktury potwierdzającej przywóz sprzętu na terytorium kraju z terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej albo dokumentu celnego potwierdzającego przywóz sprzętu na terytorium kraju z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej;
 - **3)** przywozu sprzętu na terytorium kraju w celu wprowadzenia do obrotu.
 
@@ -86,7 +89,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 1. Organy administracji publicznej, w zakresie swojej właściwości, wspierają współpracę między wprowadzającymi sprzęt a podmiotami prowadzącymi działalność w zakresie recyklingu i innych niż recykling procesów odzysku oraz podejmują działania na rzecz promowania projektowania i produkcji sprzętu, aby ułatwić ponowne użycie, demontaż oraz odzysk zużytego sprzętu, jego części składowych i materiałów.
 
-2. Przy projektowaniu sprzętu stosuje się wymagania dotyczące ekoprojektu, ułatwiające ponowne użycie i przetwarzanie zużytego sprzętu, określone w przepisach wydanych na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2014 r. poz. 1645 i 1662 oraz z 2015 r. poz. 1223).
+2. Przy projektowaniu sprzętu stosuje się wymagania dotyczące ekoprojektu, ułatwiające ponowne użycie i przetwarzanie zużytego sprzętu, określone w przepisach wydanych na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2023 r. poz. 215).
 
 3. Zakazuje się uniemożliwiania ponownego użycia zużytego sprzętu przez stosowanie specyficznych rozwiązań projektowych lub procesów produkcyjnych, o ile takie rozwiązania lub procesy nie niosą korzyści nadrzędnych, w szczególności w odniesieniu do ochrony środowiska, ochrony życia i zdrowia ludzi lub wymogów bezpieczeństwa.
 
@@ -141,7 +144,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 1. Wprowadzający sprzęt jest obowiązany do oznakowania sprzętu symbolem selektywnego zbierania, którego wzór jest określony w załączniku nr 2 do ustawy. Oznakowanie oznacza jednocześnie, że sprzęt został wprowadzony do obrotu po dniu 13 sierpnia 2005 r.
 
-2. Oznakowanie, o którym mowa w ust. 1, umieszcza się na sprzęcie w sposób wyraźny, czytelny i trwały, a jeżeli jest to uzasadnione wielkością lub funkcją sprzętu na opakowaniu i dokumentach dołączonych do sprzętu.
+2. Oznakowanie, o którym mowa w ust. 1, umieszcza się na sprzęcie w sposób wyraźny, czytelny i trwały, a jeżeli jest to uzasadnione wielkością lub funkcją sprzętu – na opakowaniu i dokumentach dołączonych do sprzętu.
 
 **Art. 15.**
 
@@ -152,7 +155,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 3. Wprowadzający sprzęt, samodzielnie wykonując obowiązek, o którym mowa w ust. 1:
 
 - **1)** przeznacza na publiczne kampanie edukacyjne lub
-- **2)** wnosi na odrębny rachunek bankowy właściwego urzędu marszałkowskiego łącznie co najmniej 0,1% przychodów netto z tytułu wprowadzania do obrotu sprzętu osiągniętych w poprzednim roku kalendarzowym.
+- **2)** wnosi na odrębny rachunek bankowy właściwego urzędu marszałkowskiego – łącznie co najmniej 0,1 % przychodów netto z tytułu wprowadzania do obrotu sprzętu osiągniętych w poprzednim roku kalendarzowym.
 
 4. Wprowadzający sprzęt, który rozpoczyna działalność w danym roku kalendarzowym, oblicza wysokość środków, o których mowa w ust. 3, w odniesieniu do przychodów netto z tytułu wprowadzania do obrotu sprzętu osiągniętych w tym roku kalendarzowym.
 
@@ -165,24 +168,24 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 8. Zwolnienie, o którym mowa w ust. 7, ma zastosowanie, jeżeli:
 
 - **1)** wprowadzający sprzęt złoży marszałkowi województwa, w terminie do dnia 31 stycznia każdego roku:
-    - **a)** zaświadczenia lub oświadczenie o pomocy de minimis w zakresie, o którym mowa w art. 37 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm. ),
+    - **a)** zaświadczenia lub oświadczenie o pomocy de minimis w zakresie, o którym mowa w art. 37 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702),
     - **b)** informacje, których zakres został określony w przepisach wydanych na podstawie art. 37 ust. 2a ustawy, o której mowa w lit. a;
 
 - **2)** w odniesieniu do wprowadzającego sprzęt są spełnione warunki dopuszczalności pomocy de minimis określone w obowiązujących przepisach prawa Unii Europejskiej w zakresie pomocy de minimis i pomocy de minimis w rolnictwie.
 
 9. Wartość pomocy de minimis odpowiada wysokości środków obliczonych zgodnie z ust. 3.
 
-10. Zaświadczenia, oświadczenie oraz informacje, o których mowa w ust. 8 pkt 1, mogą być przekazywane za pośrednictwem środków komunikacji elektronicznej.
+10. Zaświadczenia, oświadczenie oraz informacje, o których mowa w ust. 8 pkt 1, przekazuje się za pośrednictwem Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami, o której mowa w art. 79 ustawy z dnia 14 grudnia 2012 r. o odpadach, zwanej dalej „BDO”.
 
 11. W przypadku gdy wprowadzający sprzęt, pomimo ciążącego na nim obowiązku, nie przeznaczył na publiczne kampanie edukacyjne lub nie wniósł środków, o których mowa w ust. 3 pkt 2, albo przeznaczył lub wniósł je w wysokości niższej od należnej, marszałek województwa określa, w drodze decyzji, wysokość zobowiązania z tytułu środków, o których mowa w ust. 3 pkt 2.
 
 12. Wysokość zobowiązania z tytułu środków, o których mowa w ust. 3 pkt 2, ulega obniżeniu o kwotę faktycznie przeznaczoną przez wprowadzającego sprzęt na publiczne kampanie edukacyjne, potwierdzoną przez dokumentację, o której mowa w ust. 6.
 
-13. Wpływy z tytułu środków, o których mowa w ust. 3 pkt 2, w wysokości 10% stanowią dochód budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych środków i obsługę administracyjną systemu tych środków.
+13. Wpływy z tytułu środków, o których mowa w ust. 3 pkt 2, w wysokości 10 % stanowią dochód budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych środków i obsługę administracyjną systemu tych środków.
 
 14. Wpływy z tytułu środków, o których mowa w ust. 3 pkt 2, powiększone o wysokość dochodów z oprocentowania rachunków bankowych i pomniejszone o wysokość dochodów, o których mowa w ust. 13, marszałek województwa przekazuje, w terminie 30 dni po upływie każdego kwartału, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
-15. Do środków, o których mowa w ust. 3 pkt 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+15. Do środków, o których mowa w ust. 3 pkt 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 **Art. 16.**
 
@@ -202,7 +205,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 3. Wprowadzający sprzęt jest obowiązany do bezpłatnego przekazania prowadzącemu zakład przetwarzania, prowadzącemu działalność w zakresie recyklingu oraz prowadzącemu działalność w zakresie innych niż recykling procesów odzysku informacji, o której mowa w ust. 1, w terminie 14 dni od dnia złożenia przez nich wniosku o jej przekazanie.
 
-4. Informacja, o której mowa w ust. 1, jest sporządzana w postaci papierowej lub elektronicznej na informatycznym nośniku danych w rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114).
+4. Informacja, o której mowa w ust. 1, jest sporządzana w postaci papierowej lub elektronicznej na informatycznym nośniku danych w rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307).
 
 **Art. 18.**
 
@@ -210,8 +213,8 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 2. Jeżeli zużyty sprzęt powstał ze sprzętu przeznaczonego dla gospodarstw domowych wprowadzonego do obrotu:
 
-- **1)** do dnia 13 sierpnia 2005 r. obowiązek, o którym mowa w ust. 1, dotyczy wprowadzającego sprzęt w stosunku do sprzętu należącego do tej samej grupy sprzętu co sprzęt przez niego wprowadzony do obrotu, proporcjonalnie do jego udziału w masie wprowadzonego do obrotu sprzętu należącego do tej grupy;
-- **2)** po dniu 13 sierpnia 2005 r. obowiązek, o którym mowa w ust. 1, dotyczy wprowadzającego sprzęt w stosunku do sprzętu, który został przez niego wprowadzony do obrotu.
+- **1)** do dnia 13 sierpnia 2005 r. – obowiązek, o którym mowa w ust. 1, dotyczy wprowadzającego sprzęt w stosunku do sprzętu należącego do tej samej grupy sprzętu co sprzęt przez niego wprowadzony do obrotu, proporcjonalnie do jego udziału w masie wprowadzonego do obrotu sprzętu należącego do tej grupy;
+- **2)** po dniu 13 sierpnia 2005 r. – obowiązek, o którym mowa w ust. 1, dotyczy wprowadzającego sprzęt w stosunku do sprzętu, który został przez niego wprowadzony do obrotu.
 
 **Art. 19.**
 
@@ -227,20 +230,20 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 1. Wprowadzający sprzęt jest obowiązany do osiągnięcia minimalnych rocznych poziomów zbierania zużytego sprzętu, które wynoszą:
 
-- **1)** od dnia 1 stycznia 2018 r. do dnia 31 grudnia 2020 r. nie mniej niż 40% średniorocznej masy sprzętu wprowadzonego do obrotu, a w przypadku sprzętu należącego do grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy nie mniej niż 50% średniorocznej masy sprzętu wprowadzonego do obrotu;
-- **2)** od dnia 1 stycznia 2021 r. nie mniej niż 65% średniorocznej masy sprzętu wprowadzonego do obrotu albo 85% masy zużytego sprzętu wytworzonego na terytorium kraju.
+- **1)** od dnia 1 stycznia 2018 r. do dnia 31 grudnia 2020 r. – nie mniej niż 40 % średniorocznej masy sprzętu wprowadzonego do obrotu, a w przypadku sprzętu należącego do grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy – nie mniej niż 50 % średniorocznej masy sprzętu wprowadzonego do obrotu;
+- **2)** od dnia 1 stycznia 2021 r. – nie mniej niż 65 % średniorocznej masy sprzętu wprowadzonego do obrotu albo 85 % masy zużytego sprzętu wytworzonego na terytorium kraju.
 
 2. Przy obliczaniu poziomów zbierania zużytego sprzętu nie uwzględnia się masy zużytego sprzętu powstałego ze sprzętu, który nie został wprowadzony do obrotu, oraz odpadów poprodukcyjnych.
 
 3. Sposób obliczania minimalnego rocznego poziomu zbierania zużytego sprzętu do dnia 31 grudnia 2020 r. określa załącznik nr 3 do ustawy.
 
-4. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, minimalne roczne poziomy zbierania zużytego sprzętu, o których mowa w ust. 1 pkt 1, w poszczególnych latach do końca 2020 r., kierując się:
+4. Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, minimalne roczne poziomy zbierania zużytego sprzętu, o których mowa w ust. 1 pkt 1, w poszczególnych latach do końca 2020 r., kierując się:
 
 - **1)** masą wprowadzonego do obrotu sprzętu;
 - **2)** działaniami na rzecz konkurencyjności polskiej gospodarki;
 - **3)** poziomem rozwoju infrastruktury niezbędnej w procesie zbierania zużytego sprzętu.
 
-5. Minister właściwy do spraw środowiska dokona, w drodze rozporządzenia, wyboru metody spośród określonych w ust. 1 pkt 2 oraz określi szczegółowy sposób obliczania minimalnego rocznego poziomu zbierania zużytego sprzętu od dnia 1 stycznia 2021 r., kierując się potrzebą osiągnięcia minimalnego rocznego poziomu zbierania zużytego sprzętu oraz zapewnienia porównywalności informacji w zakresie osiągniętego minimalnego poziomu zbierania zużytego sprzętu przekazywanych przez wprowadzających sprzęt.
+5. Minister właściwy do spraw klimatu dokona, w drodze rozporządzenia, wyboru metody spośród określonych w ust. 1 pkt 2 oraz określi szczegółowy sposób obliczania minimalnego rocznego poziomu zbierania zużytego sprzętu od dnia 1 stycznia 2021 r., kierując się potrzebą osiągnięcia minimalnego rocznego poziomu zbierania zużytego sprzętu oraz zapewnienia porównywalności informacji w zakresie osiągniętego minimalnego poziomu zbierania zużytego sprzętu przekazywanych przez wprowadzających sprzęt.
 
 **Art. 21.**
 
@@ -249,20 +252,22 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 2. Należy osiągnąć następujące poziomy odzysku oraz przygotowania do ponownego użycia i recyklingu zużytego sprzętu:
 
 - **1)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 1 i 4 określonych w załączniku nr 1 do ustawy:
-    - **a)** odzysku 85% masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 80% masy zużytego sprzętu;
+    - **a)** odzysku – 85 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 80 % masy zużytego sprzętu;
 
 - **2)** dla zużytego sprzętu powstałego ze sprzętu należącego do grupy sprzętu nr 2 określonej w załączniku nr 1 do ustawy:
-    - **a)** odzysku 80% masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 70% masy zużytego sprzętu;
+    - **a)** odzysku – 80 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 70 % masy zużytego sprzętu;
 
 - **3)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 5 i 6 określonych w załączniku nr 1 do ustawy:
-    - **a)** odzysku 75% masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 55% masy zużytego sprzętu;
+    - **a)** odzysku – 75 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 55 % masy zużytego sprzętu;
 
-- **4)** dla zużytego sprzętu powstałego ze sprzętu należącego do grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy recyklingu w wysokości 80% masy tego zużytego sprzętu.
+- **4)** dla zużytego sprzętu powstałego ze sprzętu należącego do grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy – recyklingu – w wysokości 80 % masy tego zużytego sprzętu.
 
 3. Sposób obliczania rocznego poziomu odzysku oraz poziomu przygotowania do ponownego użycia i recyklingu zużytego sprzętu określa załącznik nr 4 do ustawy.
+
+4. Minister właściwy do spraw klimatu może określić, w drodze rozporządzenia, warunki zaliczania masy zużytego sprzętu do masy zużytego sprzętu poddanej recyklingowi, kierując się koniecznością ujednolicenia sposobu obliczania poziomów odzysku oraz przygotowania do ponownego użycia i recyklingu zużytego sprzętu, o których mowa w ust. 1, oraz przepisami przyjętymi w tym zakresie przez Komisję Europejską.
 
 **Art. 22.**
 
@@ -279,7 +284,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 2. Wprowadzający sprzęt w przypadku:
 
 - **1)** cofnięcia prowadzącemu zakład przetwarzania decyzji w zakresie gospodarki odpadami,
-- **2)** rozwiązania albo wygaśnięcia umowy, o której mowa w ust. 1 jest obowiązany, w terminie 3 miesięcy odpowiednio od dnia cofnięcia decyzji, rozwiązania albo wygaśnięcia umowy, do wykonania obowiązku, o którym mowa w ust. 1 .
+- **2)** rozwiązania albo wygaśnięcia umowy, o której mowa w ust. 1 – jest obowiązany, w terminie 3 miesięcy odpowiednio od dnia cofnięcia decyzji, rozwiązania albo wygaśnięcia umowy, do wykonania obowiązku, o którym mowa w ust. 1.
 
 **Art. 24.** Do podmiotu mającego siedzibę na terytorium kraju i udostępniającego na rynku sprzęt wprowadzony do obrotu przez dystrybutora, który nie jest wpisany do rejestru, o którym mowa w art. 49 ustawy z dnia 14 grudnia 2012 r. o odpadach, zwanego dalej „rejestrem”, stosuje się przepisy ustawy dotyczące wprowadzającego sprzęt.
 
@@ -324,7 +329,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 - **1)** który samodzielnie wykonuje obowiązek określony w art. 18 ust. 1,
 - **2)** w przypadku wygaśnięcia albo rozwiązania umowy, o której mowa w art. 11 ust. 3,
-- **3)** w przypadku otwarcia likwidacji, ogłoszenia upadłości lub wykreślenia z rejestru organizacji odzysku sprzętu elektrycznego i elektronicznego, z którą ma zawartą umowę, o której mowa w art. 11 ust. 3 jest obowiązany do wniesienia zabezpieczenia finansowego na dany rok kalendarzowy przeznaczonego na pokrycie opłaty produktowej, zwanego dalej „zabezpieczeniem finansowym”.
+- **3)** w przypadku otwarcia likwidacji, ogłoszenia upadłości lub wykreślenia z rejestru organizacji odzysku sprzętu elektrycznego i elektronicznego, z którą ma zawartą umowę, o której mowa w art. 11 ust. 3 – jest obowiązany do wniesienia zabezpieczenia finansowego na dany rok kalendarzowy przeznaczonego na pokrycie opłaty produktowej, zwanego dalej „zabezpieczeniem finansowym”.
 
 2. Zabezpieczenie finansowe ma formę:
 
@@ -352,8 +357,8 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 1. Podstawę obliczenia wysokości zabezpieczenia finansowego stanowi w przypadku:
 
-- **1)** wprowadzającego sprzęt wnoszącego zabezpieczenie finansowe przed złożeniem wniosku o wpis do rejestru masa sprzętu przeznaczonego dla gospodarstw domowych, który zamierza wprowadzić do obrotu w danym roku kalendarzowym;
-- **2)** wprowadzającego sprzęt wpisanego do rejestru masa sprzętu przeznaczonego dla gospodarstw domowych, wprowadzonego do obrotu w poprzednim roku kalendarzowym.
+- **1)** wprowadzającego sprzęt wnoszącego zabezpieczenie finansowe przed złożeniem wniosku o wpis do rejestru – masa sprzętu przeznaczonego dla gospodarstw domowych, który zamierza wprowadzić do obrotu w danym roku kalendarzowym;
+- **2)** wprowadzającego sprzęt wpisanego do rejestru – masa sprzętu przeznaczonego dla gospodarstw domowych, wprowadzonego do obrotu w poprzednim roku kalendarzowym.
 
 2. Wysokość zabezpieczenia finansowego oblicza się jako iloczyn stawki opłaty produktowej oraz masy sprzętu przeznaczonego dla gospodarstw domowych, o której mowa w ust. 1.
 
@@ -397,9 +402,9 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 1. Zakazuje się zbierania niekompletnego zużytego sprzętu oraz części pochodzących ze zużytego sprzętu podmiotowi niebędącemu:
 
-- **1)** dystrybutorem prowadzącym jednostkę handlu detalicznego o powierzchni sprzedaży w rozumieniu art. 2 pkt 19 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm. ), wynoszącej co najmniej 400 m poświęconej sprzedaży sprzętu przeznaczonego dla gospodarstw domowych;
+- **1)** dystrybutorem prowadzącym jednostkę handlu detalicznego o powierzchni sprzedaży w rozumieniu art. 2 pkt 19 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm. ), wynoszącej co najmniej 400 m poświęconej sprzedaży sprzętu przeznaczonego dla gospodarstw domowych;
 - **2)** prowadzącym zakład przetwarzania;
-- **3)** odbierającym odpady komunalne od właścicieli nieruchomości lub prowadzącym punkt selektywnego zbierania odpadów komunalnych, o których mowa w ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2013 r. poz. 1399, z późn. zm. ).
+- **3)** odbierającym odpady komunalne od właścicieli nieruchomości lub prowadzącym punkt selektywnego zbierania odpadów komunalnych, o których mowa w ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2024 r. poz. 399).
 
 2. Za niekompletny zużyty sprzęt uważa się zużyty sprzęt, który nie zawiera istotnych, z uwagi na przeznaczenie sprzętu do jakiego został zaprojektowany, części składowych, podzespołów i materiałów eksploatacyjnych, stanowiących część sprzętu, z którego powstał zużyty sprzęt, w dniu wprowadzenia do obrotu tego sprzętu.
 
@@ -492,7 +497,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 - **4)** nieprzepuszczalne podłoża na odpowiednim obszarze wraz z urządzeniami do likwidacji wycieków oraz, w stosownym przypadku, odstojnikami i odolejaczami;
 - **5)** urządzenia do oczyszczania wody, które odpowiadają regulacjom z zakresu ochrony zdrowia i środowiska, w szczególności przepisom prawa wodnego;
 - **6)** instalacje umożliwiające przetworzenie zużytego sprzętu powstałego z poszczególnych grup sprzętu przetwarzanego w danym zakładzie przetwarzania;
-- **7)** instalacje umożliwiające wyeliminowanie substancji zubożających warstwę ozonową lub fluorowanych gazów cieplarnianych o współczynniku globalnego ocieplenia (GWP) powyżej 15, w tym gazów znajdujących się w piankach i obiegach chłodniczych przez właściwe ich odzyskanie i odpowiednie ich oczyszczenie lub zniszczenie, zgodnie z ustawą z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. poz. 881) w przypadku przetwarzania urządzeń chłodniczych.
+- **7)** instalacje umożliwiające wyeliminowanie substancji zubożających warstwę ozonową lub fluorowanych gazów cieplarnianych o współczynniku globalnego ocieplenia (GWP) powyżej 15, w tym gazów znajdujących się w piankach i obiegach chłodniczych przez właściwe ich odzyskanie i odpowiednie ich oczyszczenie lub zniszczenie, zgodnie z ustawą z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065) – w przypadku przetwarzania urządzeń chłodniczych.
 
 2. Zakazuje się przyjmowania zużytego sprzętu przez zakład przetwarzania, który nie jest wyposażony zgodnie z ust. 1.
 
@@ -511,47 +516,38 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 5. Oświadczenie, o którym mowa w ust. 4, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
-6. Prowadzący zakład przetwarzania przekazuje zużyte baterie i zużyte akumulatory zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów, o których mowa w ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2015 r. poz. 687).
+6. Prowadzący zakład przetwarzania przekazuje zużyte baterie i zużyte akumulatory zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów, o których mowa w ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2022 r. poz. 1113 oraz z 2023 r. poz. 1852).
 
 **Art. 53.**
 
-1. Prowadzący zakład przetwarzania jest obowiązany do wydania wprowadzającemu sprzęt, z którym zawarł umowę, o której mowa w art. 23 ust. 1, w terminie do dnia 28 lutego każdego roku za poprzedni rok kalendarzowy zaświadczenia o zużytym sprzęcie.
+1. Prowadzący zakład przetwarzania sporządza zaświadczenie o zużytym sprzęcie za poprzedni rok kalendarzowy, za pośrednictwem indywidualnego konta w BDO.
 
 2. Zaświadczenie o zużytym sprzęcie zawiera:
 
-- **1)** numer rejestrowy prowadzącego zakład przetwarzania;
-- **2)** numer rejestrowy prowadzącego działalność w zakresie recyklingu;
-- **3)** numer rejestrowy prowadzącego działalność w zakresie innych niż recykling procesów odzysku;
-- **4)** imię i nazwisko lub nazwę oraz adres siedziby prowadzącego zakład przetwarzania;
-- **5)** imię i nazwisko lub nazwę oraz adres siedziby prowadzącego działalność w zakresie recyklingu;
-- **6)** imię i nazwisko lub nazwę oraz adres siedziby prowadzącego działalność w zakresie innych niż recykling procesów odzysku;
-- **7)** imię i nazwisko lub nazwę oraz adres siedziby prowadzącego działalność w zakresie unieszkodliwiania;
-- **8)** numer identyfikacji podatkowej (NIP) prowadzącego zakład przetwarzania;
-- **9)** numer REGON prowadzącego zakład przetwarzania, o ile został nadany;
-- **10)** numer identyfikacji podatkowej (NIP) prowadzącego działalność w zakresie recyklingu;
-- **11)** numer REGON prowadzącego działalność w zakresie recyklingu, o ile został nadany;
-- **12)** numer identyfikacji podatkowej (NIP) prowadzącego działalność w zakresie innych niż recykling procesów odzysku;
-- **13)** numer REGON prowadzącego działalność w zakresie innych niż recykling procesów odzysku, o ile został nadany;
-- **14)** masę zużytego sprzętu przetworzonego w zakładzie przetwarzania dla wprowadzającego sprzęt;
-- **15)** numer i nazwę grupy sprzętu, z którego powstał przetworzony w zakładzie przetwarzania zużyty sprzęt;
-- **16)** masę zużytego sprzętu przygotowanego do ponownego użycia dla wprowadzającego sprzęt;
-- **17)** masę odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia dla wprowadzającego sprzęt;
-- **18)** masę odpadów powstałych ze zużytego sprzętu, poddanych recyklingowi i innym niż recykling procesom odzysku dla wprowadzającego sprzęt;
-- **19)** oznaczenie zastosowanego procesu odzysku, z podaniem typu procesu określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach;
-- **20)** masę odpadów powstałych ze zużytego sprzętu poddanych unieszkodliwianiu dla wprowadzającego sprzęt;
-- **21)** oznaczenie zastosowanego procesu unieszkodliwiania, z podaniem typu procesu określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach;
-- **22)** masę odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju na terytorium państwa niebędącego państwem członkowskim w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu dla wprowadzającego sprzęt;
-- **23)** masę odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu dla wprowadzającego sprzęt.
+- **1)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego zakład przetwarzania;
+- **2)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego działalność w zakresie recyklingu;
+- **3)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego działalność w zakresie innych niż recykling procesów odzysku;
+- **4)** informacje o masie zużytego sprzętu przyjętego do zakładu przetwarzania dla wprowadzającego sprzęt, z podziałem na sprzęt pochodzący z gospodarstw domowych oraz ze źródeł innych niż gospodarstwa domowe;
+- **5)** informacje o masie zużytego sprzętu przetworzonego w zakładzie przetwarzania dla wprowadzającego sprzęt;
+- **6)** numer i nazwę grupy sprzętu, z którego powstał przetworzony w zakładzie przetwarzania zużyty sprzęt, z wyodrębnieniem paneli fotowoltaicznych;
+- **7)** informacje o masie zużytego sprzętu przygotowanego do ponownego użycia dla wprowadzającego sprzęt;
+- **8)** informacje o masie odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia dla wprowadzającego sprzęt;
+- **9)** informacje o masie odpadów powstałych ze zużytego sprzętu poddanych recyklingowi i innym niż recykling procesom odzysku dla wprowadzającego sprzęt;
+- **10)** oznaczenie zastosowanego procesu odzysku, z podaniem rodzaju procesu określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach;
+- **11)** informacje o masie odpadów powstałych ze zużytego sprzętu poddanych unieszkodliwianiu dla wprowadzającego sprzęt;
+- **12)** oznaczenie zastosowanego procesu unieszkodliwiania, z podaniem rodzaju procesu określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach;
+- **13)** informacje o masie odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju na terytorium państwa niebędącego państwem członkowskim w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu dla wprowadzającego sprzęt;
+- **14)** informacje o masie odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu dla wprowadzającego sprzęt.
 
 3. Prowadzący zakład przetwarzania w zaświadczeniu o zużytym sprzęcie może uwzględnić:
 
 - **1)** masę zużytego sprzętu oraz masę odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia,
 - **2)** masę odpadów powstałych ze zużytego sprzętu, poddanych recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu,
-- **3)** masę odpadów powstałych ze zużytego sprzętu, wywiezionych z terytorium kraju w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu do dnia 1 lutego następnego roku.
+- **3)** masę odpadów powstałych ze zużytego sprzętu, wywiezionych z terytorium kraju w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu – do dnia 1 lutego następnego roku.
 
-4. Prowadzący zakład przetwarzania wystawia zaświadczenie o zużytym sprzęcie w trzech egzemplarzach, z czego jeden egzemplarz otrzymuje wprowadzający sprzęt, drugi egzemplarz jest przekazywany marszałkowi województwa, a trzeci egzemplarz pozostaje u prowadzącego zakład przetwarzania.
+4. Prowadzący zakład przetwarzania udostępnia zaświadczenie, o którym mowa w ust. 1, w terminie do dnia 28 lutego każdego roku za poprzedni rok kalendarzowy, za pośrednictwem indywidualnego konta w BDO, wprowadzającemu sprzęt albo organizacji odzysku sprzętu elektrycznego i elektronicznego, z którymi zawarł umowę, o której mowa w art. 23 ust. 1, oraz marszałkowi województwa.
 
-5. Zaświadczenie o zużytym sprzęcie jest sporządzane w postaci papierowej lub elektronicznej.
+5. (uchylony)
 
 6. Masę zużytego sprzętu przyjętego do zakładu przetwarzania ustala się na podstawie kart przekazania odpadu.
 
@@ -563,63 +559,51 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 10. Masę odpadów powstałych ze zużytego sprzętu poddanych unieszkodliwianiu ustala się na podstawie kart przekazania odpadu sporządzonych przez prowadzącego zakład przetwarzania, potwierdzonych przez prowadzącego działalność w zakresie unieszkodliwiania odpadów.
 
-11. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór zaświadczenia o zużytym sprzęcie oraz sposób jego przekazywania, kierując się potrzebą ujednolicenia sporządzania i przekazywania zaświadczeń.
+11. (uchylony)
 
-**Art. 54.** Prowadzący zakład przetwarzania jest obowiązany do przechowywania zaświadczeń o zużytym sprzęcie, zaświadczeń potwierdzających recykling oraz zaświadczeń potwierdzających inne niż recykling procesy odzysku przez 5 lat, licząc od końca roku kalendarzowego, którego dotyczą te zaświadczenia.
+**Art. 54.** (uchylony)
 
 #### Rozdział 7 Działalność w zakresie recyklingu i innych niż recykling procesów odzysku
 
 **Art. 55.**
 
-1. Prowadzący działalność w zakresie recyklingu jest obowiązany do wydania prowadzącemu zakład przetwarzania przekazującemu odpady powstałe ze zużytego sprzętu do recyklingu zaświadczenia potwierdzającego recykling za poprzedni rok kalendarzowy.
+1. Prowadzący działalność w zakresie recyklingu sporządza zaświadczenie potwierdzające recykling za poprzedni rok kalendarzowy za pośrednictwem indywidualnego konta w BDO.
 
-2. Zaświadczenie potwierdzające recykling jest wydawane na wniosek prowadzącego zakład przetwarzania, w terminie 7 dni od dnia wpływu wniosku.
+2. Zaświadczenie, o którym mowa w ust. 1, jest sporządzane na wniosek prowadzącego zakład przetwarzania złożony, za pośrednictwem indywidualnego konta w BDO, w terminie 7 dni od dnia wpływu wniosku.
 
-3. Zaświadczenie potwierdzające recykling zawiera:
+3. Zaświadczenie, o którym mowa w ust. 1, zawiera:
 
-- **1)** numer rejestrowy prowadzącego zakład przetwarzania;
-- **2)** numer rejestrowy prowadzącego działalność w zakresie recyklingu;
-- **3)** imię i nazwisko lub nazwę oraz adres siedziby prowadzącego zakład przetwarzania;
-- **4)** imię i nazwisko lub nazwę oraz adres siedziby prowadzącego działalność w zakresie recyklingu;
-- **5)** numer identyfikacji podatkowej (NIP) prowadzącego zakład przetwarzania;
-- **6)** numer REGON prowadzącego zakład przetwarzania, o ile został nadany;
-- **7)** numer identyfikacji podatkowej (NIP) prowadzącego działalność w zakresie recyklingu;
-- **8)** numer REGON prowadzącego działalność w zakresie recyklingu, o ile został nadany;
-- **9)** kod i nazwę rodzaju oraz masę odpadów powstałych ze zużytego sprzętu przekazanych przez prowadzącego zakład przetwarzania do recyklingu;
-- **10)** oznaczenie zastosowanego procesu odzysku, w tym jego typu, określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach.
+- **1)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego zakład przetwarzania;
+- **2)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego działalność w zakresie recyklingu;
+- **3)** kod i nazwę rodzaju oraz masę odpadów powstałych ze zużytego sprzętu przekazanych przez prowadzącego zakład przetwarzania do recyklingu;
+- **4)** oznaczenie zastosowanego procesu odzysku, z podaniem jego rodzaju, określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach.
 
-4. Prowadzący działalność w zakresie recyklingu wystawia zaświadczenie potwierdzające recykling w trzech egzemplarzach, z czego jeden egzemplarz otrzymuje prowadzący zakład przetwarzania przekazujący odpady powstałe ze zużytego sprzętu do recyklingu, drugi egzemplarz jest przekazywany marszałkowi województwa, a trzeci egzemplarz pozostaje u prowadzącego działalność w zakresie recyklingu.
+4. Prowadzący działalność w zakresie recyklingu udostępnia zaświadczenie, o którym mowa w ust. 1, za pośrednictwem indywidualnego konta w BDO, prowadzącemu zakład przetwarzania przekazującemu odpady powstałe ze zużytego sprzętu do recyklingu oraz marszałkowi województwa, w terminie określonym w ust. 2.
 
-5. Zaświadczenie potwierdzające recykling jest sporządzane w postaci papierowej lub elektronicznej.
+5. (uchylony)
 
-**Art. 56.** Prowadzący działalność w zakresie recyklingu jest obowiązany do przechowywania zaświadczeń potwierdzających recykling przez 5 lat, licząc od końca roku kalendarzowego, którego dotyczą te zaświadczenia.
+**Art. 56.** (uchylony)
 
 **Art. 57.**
 
-1. Prowadzący działalność w zakresie innych niż recykling procesów odzysku jest obowiązany do wydania prowadzącemu zakład przetwarzania przekazującemu odpady powstałe ze zużytego sprzętu do innych niż recykling procesów odzysku zaświadczenia potwierdzającego inne niż recykling procesy odzysku za poprzedni rok kalendarzowy.
+1. Prowadzący działalność w zakresie innych niż recykling procesów odzysku sporządza zaświadczenie potwierdzające inne niż recykling procesy odzysku za poprzedni rok kalendarzowy, za pośrednictwem indywidualnego konta w BDO.
 
-2. Zaświadczenie potwierdzające inne niż recykling procesy odzysku jest wydawane na wniosek prowadzącego zakład przetwarzania, w terminie 7 dni od dnia wpływu wniosku.
+2. Zaświadczenie, o którym mowa w ust. 1, jest sporządzane na wniosek prowadzącego zakład przetwarzania złożony za pośrednictwem indywidualnego konta w BDO, w terminie 7 dni od dnia wpływu wniosku.
 
-3. Zaświadczenie potwierdzające inne niż recykling procesy odzysku zawiera:
+3. Zaświadczenie, o którym mowa w ust. 1, zawiera:
 
-- **1)** numer rejestrowy prowadzącego zakład przetwarzania;
-- **2)** numer rejestrowy prowadzącego działalność w zakresie innych niż recykling procesów odzysku;
-- **3)** imię i nazwisko lub nazwę oraz adres siedziby prowadzącego zakład przetwarzania;
-- **4)** imię i nazwisko lub nazwę oraz adres siedziby prowadzącego działalność w zakresie innych niż recykling procesów odzysku;
-- **5)** numer identyfikacji podatkowej (NIP) prowadzącego zakład przetwarzania;
-- **6)** numer REGON prowadzącego zakład przetwarzania, o ile został nadany;
-- **7)** numer identyfikacji podatkowej (NIP) prowadzącego działalność w zakresie innych niż recykling procesów odzysku;
-- **8)** numer REGON prowadzącego działalność w zakresie innych niż recykling procesów odzysku, o ile został nadany;
-- **9)** kod i nazwę rodzaju oraz masę odpadów powstałych ze zużytego sprzętu przekazanych przez prowadzącego zakład przetwarzania do innych niż recykling procesów odzysku;
-- **10)** oznaczenie innego niż recykling zastosowanego procesu odzysku, w tym jego typu, określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach.
+- **1)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego zakład przetwarzania;
+- **2)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego działalność w zakresie innych niż recykling procesów odzysku;
+- **3)** kod i nazwę rodzaju oraz masę odpadów powstałych ze zużytego sprzętu przekazanych przez prowadzącego zakład przetwarzania do innych niż recykling procesów odzysku;
+- **4)** oznaczenie innego niż recykling zastosowanego procesu odzysku, z podaniem jego rodzaju, określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach.
 
-4. Prowadzący działalność w zakresie innych niż recykling procesów odzysku wystawia zaświadczenie potwierdzające inne niż recykling procesy odzysku w trzech egzemplarzach, z czego jeden egzemplarz otrzymuje prowadzący zakład przetwarzania przekazujący odpady powstałe ze zużytego sprzętu do innych niż recykling procesów odzysku, drugi egzemplarz jest przekazywany marszałkowi województwa, a trzeci egzemplarz pozostaje u prowadzącego działalność w zakresie innych niż recykling procesów odzysku.
+4. Prowadzący działalność w zakresie innych niż recykling procesów odzysku udostępnia zaświadczenie, o którym mowa w ust. 1, za pośrednictwem indywidualnego konta w BDO, prowadzącemu zakład przetwarzania przekazującemu odpady powstałe ze zużytego sprzętu do innych niż recykling procesów odzysku oraz marszałkowi województwa, w terminie określonym w ust. 2.
 
-5. Zaświadczenie potwierdzające inne niż recykling procesy odzysku jest sporządzane w postaci papierowej lub elektronicznej.
+5. (uchylony)
 
-**Art. 58.** Prowadzący działalność w zakresie innych niż recykling procesów odzysku jest obowiązany do przechowywania zaświadczeń potwierdzających inne niż recykling procesy odzysku przez 5 lat, licząc od końca roku kalendarzowego, którego dotyczą te zaświadczenia.
+**Art. 58.** (uchylony)
 
-**Art. 59.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór zaświadczenia potwierdzającego recykling i wzór zaświadczenia potwierdzającego inne niż recykling procesy odzysku oraz sposób ich przekazywania, kierując się potrzebą ujednolicenia sporządzania i przekazywania tych zaświadczeń.
+**Art. 59.** (uchylony)
 
 #### Rozdział 8 Organizacja odzysku sprzętu elektrycznego i elektronicznego
 
@@ -641,9 +625,9 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 1. Organizacja odzysku sprzętu elektrycznego i elektronicznego jest obowiązana do prowadzenia publicznych kampanii edukacyjnych.
 
-2. Organizacja odzysku sprzętu elektrycznego i elektronicznego, wykonując obowiązek, o którym mowa w ust. 1, przeznacza na publiczne kampanie edukacyjne co najmniej 5% przychodów netto uzyskanych w poprzednim roku kalendarzowym z przejęcia obowiązków, o których mowa w art. 18 i art. 19.
+2. Organizacja odzysku sprzętu elektrycznego i elektronicznego, wykonując obowiązek, o którym mowa w ust. 1, przeznacza na publiczne kampanie edukacyjne co najmniej 5 % przychodów netto uzyskanych w poprzednim roku kalendarzowym z przejęcia obowiązków, o których mowa w art. 18 i art. 19.
 
-3. Organizacja odzysku sprzętu elektrycznego i elektronicznego, która rozpoczyna działalność w danym roku kalendarzowym, przeznacza na publiczne kampanie edukacyjne co najmniej 5% przychodów netto uzyskanych w tym roku kalendarzowym z przejęcia obowiązków, o których mowa w art. 18 i art. 19.
+3. Organizacja odzysku sprzętu elektrycznego i elektronicznego, która rozpoczyna działalność w danym roku kalendarzowym, przeznacza na publiczne kampanie edukacyjne co najmniej 5 % przychodów netto uzyskanych w tym roku kalendarzowym z przejęcia obowiązków, o których mowa w art. 18 i art. 19.
 
 4. Rozliczenie wykonania obowiązku, o którym mowa w ust. 1, następuje w terminie do dnia 31 stycznia roku następującego po roku, w którym organizacja odzysku sprzętu elektrycznego i elektronicznego była obowiązana do przeprowadzenia publicznych kampanii edukacyjnych.
 
@@ -657,9 +641,9 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 9. Wpływy z tytułu środków, o których mowa w ust. 6, powiększone o wysokość dochodów z oprocentowania rachunków bankowych i pomniejszone o wysokość dochodów, o których mowa w ust. 10, marszałek województwa przekazuje, w terminie 30 dni po upływie każdego kwartału, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
-10. Wpływy z tytułu środków, o których mowa w ust. 6, w wysokości 10% stanowią dochód budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych środków i obsługę administracyjną systemu tych środków.
+10. Wpływy z tytułu środków, o których mowa w ust. 6, w wysokości 10 % stanowią dochód budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych środków i obsługę administracyjną systemu tych środków.
 
-11. Do środków, o których mowa w ust. 6, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+11. Do środków, o których mowa w ust. 6, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 **Art. 63.**
 
@@ -672,9 +656,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 4. Organizacja odzysku sprzętu elektrycznego i elektronicznego jest obowiązana:
 
 - **1)** utrzymywać kapitał własny w wysokości co najmniej połowy kapitału zakładowego, określonego w ust. 1, zdeponowany na odrębnym rachunku bankowym lub w formie lokaty terminowej albo
-- **2)** posiadać gwarancję bankową lub gwarancję ubezpieczeniową, której gwarantem jest instytucja finansowa upoważniona do gwarantowania długu celnego lub instytucja finansowa mająca siedzibę na terytorium państwa członkowskiego, w wysokości co najmniej połowy kapitału zakładowego, określonego w ust. 1.
-
-5. Akcje organizacji odzysku sprzętu elektrycznego i elektronicznego mogą być wyłącznie akcjami imiennymi i nie mogą być zamienione na akcje na okaziciela.
+- **2)** posiadać gwarancję bankową lub gwarancję ubezpieczeniową, której gwarantem jest instytucja finansowa upoważniona do gwarantowania długu celnego lub instytucja finansowa mająca siedzibę na terytorium państwa członkowskiego, w wysokości co najmniej połowy kapitału zakładowego, określonego w ust. 1. [5. Akcje organizacji odzysku sprzętu elektrycznego i elektronicznego mogą być wyłącznie akcjami imiennymi i nie mogą być zamienione na akcje na okaziciela.]
 
 6. Organizacja odzysku sprzętu elektrycznego i elektronicznego nie może wydawać akcji uprzywilejowanych.
 
@@ -697,6 +679,8 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 **Art. 67.**
 
 1. Audyt jest przeprowadzany przez akredytowanego weryfikatora środowiskowego, o którym mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1221/2009 z dnia 25 listopada 2009 r. w sprawie dobrowolnego udziału organizacji w systemie ekozarządzania i audytu we Wspólnocie (EMAS), uchylającego rozporządzenie (WE) nr 761/2001 oraz decyzje Komisji 2001/681/WE i 2006/193/WE (Dz. Urz. UE L 342 z 22.12.2009, str. 1, z późn. zm.).
+
+1a. Weryfikator środowiskowy, o którym mowa w ust. 1, wykonuje działalność na podstawie dokumentu akredytacyjnego w zakresie audytu, wydanego przez krajową jednostkę akredytującą wyznaczoną zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30).
 
 2. Audytora wybiera organizacja odzysku sprzętu elektrycznego i elektronicznego albo prowadzący zakład przetwarzania.
 
@@ -730,7 +714,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 3. Organizacja odzysku sprzętu elektrycznego i elektronicznego oraz prowadzący zakład przetwarzania są obowiązani do przechowywania sprawozdania z przeprowadzonego audytu wraz z dokumentacją audytu przez 5 lat, licząc od końca roku kalendarzowego, którego audyt dotyczy.
 
-**Art. 71.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
+**Art. 71.** Minister właściwy do spraw klimatu określi, w drodze rozporządzenia:
 
 #### Rozdział 10 Opłata produktowa
 
@@ -743,6 +727,8 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 - **1)** zbierania;
 - **2)** odzysku;
 - **3)** przygotowania do ponownego użycia i recyklingu.
+
+2a. W przypadku niewykonania obowiązku osiągnięcia wymaganego minimalnego rocznego poziomu zbierania zużytego sprzętu dla grupy sprzętu nr 4 opłatę produktową oblicza się oddzielnie dla paneli fotowoltaicznych oraz pozostałego sprzętu z tej grupy.
 
 3. Rozliczenie wykonania obowiązku osiągnięcia minimalnego rocznego poziomu zbierania zużytego sprzętu, poziomu odzysku oraz poziomu przygotowania do ponownego użycia i recyklingu zużytego sprzętu wprowadzającego sprzęt, który wniósł zabezpieczenie finansowe na dany rok kalendarzowy, następuje zgodnie z art. 33.
 
@@ -758,10 +744,10 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 1. Stawka opłaty produktowej wynosi dla:
 
-- **1)** grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy od 4 zł do 8 zł za 1 kg;
-- **2)** innych grup sprzętu niż grupa wskazana w pkt 1 od 0 zł do 2 zł za 1 kg.
+- **1)** grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy – od 4 zł do 8 zł za 1 kg;
+- **2)** innych grup sprzętu niż grupa wskazana w pkt 1 – od 0 zł do 2 zł za 1 kg.
 
-2. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe stawki opłaty produktowej, kierując się kosztami zbierania, przygotowania do ponownego użycia i recyklingu oraz innych niż recykling procesów odzysku zużytego sprzętu dla poszczególnych grup sprzętu.
+2. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe stawki opłaty produktowej, kierując się kosztami zbierania, przygotowania do ponownego użycia i recyklingu oraz innych niż recykling procesów odzysku zużytego sprzętu dla poszczególnych grup sprzętu.
 
 **Art. 75.**
 
@@ -773,14 +759,14 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 4. Wpływy z tytułu opłaty produktowej oraz dodatkowej opłaty produktowej, powiększone o wysokość dochodów z oprocentowania rachunków bankowych i pomniejszone o wysokość dochodów, o których mowa w ust. 5, marszałek województwa przekazuje, w terminie 30 dni po upływie każdego kwartału, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
-5. Wpływy z tytułu opłaty produktowej oraz dodatkowej opłaty produktowej w wysokości 10% stanowią dochody budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu opłaty produktowej oraz dodatkowej opłaty produktowej i obsługę administracyjną systemu tych opłat.
+5. Wpływy z tytułu opłaty produktowej oraz dodatkowej opłaty produktowej w wysokości 10 % stanowią dochody budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu opłaty produktowej oraz dodatkowej opłaty produktowej i obsługę administracyjną systemu tych opłat.
 
 **Art. 76.**
 
 1. Wprowadzającego sprzęt, który wprowadza do obrotu:
 
 - **1)** małogabarytowy sprzęt, którego żaden z zewnętrznych wymiarów nie przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 100 kg,
-- **2)** wielkogabarytowy sprzęt, którego którykolwiek z zewnętrznych wymiarów przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 1000 kg zwalnia się z opłaty produktowej.
+- **2)** wielkogabarytowy sprzęt, którego którykolwiek z zewnętrznych wymiarów przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 1000 kg – zwalnia się z opłaty produktowej.
 
 2. Zwolnienie, o którym mowa w ust. 1, ma zastosowanie, jeżeli:
 
@@ -792,13 +778,13 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 3. Wartość pomocy de minimis odpowiada wartości zwolnienia z opłaty produktowej za nieosiągnięcie wymaganego poziomu zbierania.
 
-4. Zaświadczenia, oświadczenie oraz informacje, o których mowa w ust. 2 pkt 1, mogą być przekazywane za pośrednictwem środków komunikacji elektronicznej.
+4. Zaświadczenia, oświadczenie oraz informacje, o których mowa w ust. 2 pkt 1, przekazuje się za pośrednictwem BDO.
 
 **Art. 77.**
 
 1. W przypadku nieuiszczenia opłaty produktowej albo wniesienia opłaty niższej od należnej marszałek województwa określa, w drodze decyzji, wysokość zobowiązania z tytułu opłaty produktowej.
 
-2. W przypadku niewykonania decyzji, o której mowa w ust. 1, marszałek województwa ustala, w drodze decyzji, dodatkową opłatę produktową w wysokości odpowiadającej 50% kwoty niewniesionej opłaty produktowej.
+2. W przypadku niewykonania decyzji, o której mowa w ust. 1, marszałek województwa ustala, w drodze decyzji, dodatkową opłatę produktową w wysokości odpowiadającej 50 % kwoty niewniesionej opłaty produktowej.
 
 3. Termin uiszczenia opłaty, o której mowa w ust. 2, wynosi 14 dni od dnia, w którym decyzja ustalająca jej wysokość stała się ostateczna. Opłata, o której mowa w ust. 2, jest wnoszona na odrębny rachunek bankowy właściwego urzędu marszałkowskiego.
 
@@ -808,12 +794,12 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 6. Oszacowanie masy sprzętu wprowadzonego do obrotu następuje metodą:
 
-- **1)** porównawczą wewnętrzną polegającą na porównaniu masy sprzętu wprowadzonego do obrotu przez wprowadzającego sprzęt w poprzednich okresach, dla których jest znana wielkość tej masy;
-- **2)** porównawczą zewnętrzną polegającą na porównaniu masy sprzętu wprowadzonego do obrotu przez wprowadzającego sprzęt innego niż wskazany w pkt 1, który prowadzi działalność gospodarczą o podobnej skali.
+- **1)** porównawczą wewnętrzną – polegającą na porównaniu masy sprzętu wprowadzonego do obrotu przez wprowadzającego sprzęt w poprzednich okresach, dla których jest znana wielkość tej masy;
+- **2)** porównawczą zewnętrzną – polegającą na porównaniu masy sprzętu wprowadzonego do obrotu przez wprowadzającego sprzęt innego niż wskazany w pkt 1, który prowadzi działalność gospodarczą o podobnej skali.
 
 7. Jeżeli w toku postępowania w sprawie określenia wysokości zobowiązania z tytułu opłaty produktowej na podstawie dowodów innych niż dodatkowa ewidencja można określić masę sprzętu wprowadzonego do obrotu, odstępuje się od oszacowania tej masy.
 
-**Art. 78.** Do należności z tytułu opłat produktowych oraz dodatkowych opłat produktowych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+**Art. 78.** Do należności z tytułu opłat produktowych oraz dodatkowych opłat produktowych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 #### Rozdział 11 Przemieszczanie używanego sprzętu oraz zużytego sprzętu
 
@@ -832,10 +818,10 @@ o zużytym sprzęcie elektrycznym i elektronicznym
     - **d)** dokumentu transportowego, w szczególności listu przewozowego;
 
 - **2)** zapewnia:
-    - **a)** przeprowadzenie badania używanego sprzętu polegającego na ocenie: jego funkcjonalności, obecności w nim niebezpiecznych: substancji, mieszanin oraz części składowych,
-    - **b)** sporządzenie przez podmiot przeprowadzający badanie, o którym mowa w lit. a, dokumentacji badania zawierającej: numer i nazwę grupy i rodzaj używanego sprzętu, numer identyfikacyjny używanego sprzętu (numer typu), jeżeli został nadany, rok produkcji używanego sprzętu, jeżeli jest znany, wynik, rodzaj i datę przeprowadzenia badania oraz imię i nazwisko lub nazwę oraz adres lub siedzibę podmiotu, który je przeprowadził.
+    - **a)** przeprowadzenie badania używanego sprzętu polegającego na ocenie: – jego funkcjonalności, – obecności w nim niebezpiecznych: substancji, mieszanin oraz części składowych,
+    - **b)** sporządzenie przez podmiot przeprowadzający badanie, o którym mowa w lit. a, dokumentacji badania zawierającej: – numer i nazwę grupy i rodzaj używanego sprzętu, – numer identyfikacyjny używanego sprzętu (numer typu), jeżeli został nadany, – rok produkcji używanego sprzętu, jeżeli jest znany, – wynik, rodzaj i datę przeprowadzenia badania oraz imię i nazwisko lub nazwę oraz adres lub siedzibę podmiotu, który je przeprowadził.
 
-3. Posiadacz przemieszczanego używanego sprzętu jest obowiązany do umieszczenia na nim, a w przypadku gdy używany sprzęt jest opakowany na jego opakowaniu, dokumentacji, o której mowa w ust. 2 pkt 2 lit. b.
+3. Posiadacz przemieszczanego używanego sprzętu jest obowiązany do umieszczenia na nim, a w przypadku gdy używany sprzęt jest opakowany – na jego opakowaniu, dokumentacji, o której mowa w ust. 2 pkt 2 lit. b.
 
 4. Dokumentację, o której mowa w ust. 2 pkt 2 lit. b, umieszcza się w sposób:
 
@@ -850,7 +836,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 - **1)** sprzętu, który jako wadliwy jest wysyłany do naprawy gwarancyjnej z zamiarem jego ponownego użycia lub
 - **2)** używanego sprzętu przeznaczonego do użytku profesjonalnego, wysyłanego do regeneracji lub naprawy do krajów, do których mają zastosowanie wydawane przez Radę Organizacji Współpracy Gospodarczej i Rozwoju (OECD) przepisy dotyczące kontroli transgranicznego przemieszczania odpadów przeznaczonych do odzysku z zamiarem ponownego użycia, lub
-- **3)** wadliwego używanego sprzętu przeznaczonego do użytku profesjonalnego, w szczególności wyrobu medycznego lub jego części, który jest wysyłany w celu przeprowadzenia analizy przyczyn usterki w przypadku gdy taką analizę może przeprowadzić wyłącznie wytwórca tego sprzętu lub działająca w jego imieniu osoba trzecia.
+- **3)** wadliwego używanego sprzętu przeznaczonego do użytku profesjonalnego, w szczególności wyrobu medycznego lub jego części, który jest wysyłany w celu przeprowadzenia analizy przyczyn usterki – w przypadku gdy taką analizę może przeprowadzić wyłącznie wytwórca tego sprzętu lub działająca w jego imieniu osoba trzecia.
 
 2. W czasie przemieszczania sprzętu lub używanego sprzętu odbywającego się w ramach transakcji B2B, o której mowa w ust. 1, podmiot dokonujący jego przemieszczania jest obowiązany do posiadania:
 
@@ -867,7 +853,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 - **2)** w przypadku braku odpowiednio dokumentacji, o której mowa w art. 80 ust. 2 pkt 2 lit. b, albo dokumentów, o których mowa w art. 82 ust. 2;
 - **3)** jeżeli nie jest on odpowiednio zabezpieczony przed uszkodzeniem podczas przemieszczania, załadunku i rozładunku, w szczególności odpowiednio opakowany oraz rozmieszczony.
 
-2. Do nielegalnego przemieszczania używanego sprzętu stosuje się przepisy art. 24 i art. 25 rozporządzenia nr 1013/2006 oraz przepisy ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. z 2015 r. poz. 1048).
+2. Do nielegalnego przemieszczania używanego sprzętu stosuje się przepisy art. 24 i art. 25 rozporządzenia nr 1013/2006 oraz przepisy ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. z 2020 r. poz. 1792 oraz z 2023 r. poz. 1890).
 
 #### Rozdział 12 Rejestr i sprawozdawczość
 
@@ -883,28 +869,15 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 2. Wojewódzki inspektor ochrony środowiska sporządza i przekazuje Głównemu Inspektorowi Ochrony Środowiska, w terminie do dnia 15 lutego za poprzedni rok kalendarzowy, zbiorczą informację o wynikach kontroli przeprowadzonych w poprzednim roku kalendarzowym.
 
-**Art. 87.** Kontrolę przestrzegania przez dystrybutorów przepisów art. 37 i art. 39 sprawuje Inspekcja Handlowa, działając na podstawie ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2014 r. poz. 148, z późn. zm. ).
+**Art. 87.** Kontrolę przestrzegania przez dystrybutorów przepisów art. 37 i art. 39 sprawuje Inspekcja Handlowa, działając na podstawie ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2024 r. poz. 312).
 
-**Art. 88.**
+**Art. 88.** (uchylony)
 
-1. Główny Inspektor Ochrony Środowiska sporządza i przekazuje ministrowi właściwemu do spraw środowiska, w terminie do dnia 30 lipca każdego roku, roczny raport o funkcjonowaniu systemu gospodarki zużytym sprzętem w poprzednim roku kalendarzowym.
-
-2. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, zakres i wzór rocznego raportu o funkcjonowaniu systemu gospodarki zużytym sprzętem, kierując się potrzebą oceny funkcjonowania systemu gospodarki zużytym sprzętem.
-
-**Art. 89.**
-
-1. Minister właściwy do spraw środowiska sporządza i przekazuje Komisji Europejskiej sprawozdanie z wykonywania przepisów ustawy zawierające w szczególności informacje o:
-
-- **1)** masie sprzętu wprowadzonego do obrotu wraz z nazwą grupy sprzętu;
-- **2)** masie zebranego zużytego sprzętu;
-- **3)** masie zużytego sprzętu przygotowanego do ponownego użycia i poddanego recyklingowi oraz innym niż recykling procesom odzysku;
-- **4)** masie wywiezionych z terytorium kraju odpadów powstałych ze zużytego sprzętu.
-
-2. Sprawozdanie jest przekazywane Komisji Europejskiej co 3 lata, w terminie 9 miesięcy, licząc od końca trzyletniego okresu, którego dotyczy.
+**Art. 89.** (uchylony)
 
 **Art. 90.**
 
-1. Minister właściwy do spraw środowiska, organy inspekcji ochrony środowiska, organy inspekcji handlowej oraz marszałkowie województw współpracują z właściwymi organami innych niż Rzeczpospolita Polska państw członkowskich w sprawach dotyczących sprzętu i zużytego sprzętu, w szczególności w celu ustanowienia odpowiedniego przepływu informacji, gwarantującego przestrzeganie przez producentów i wprowadzających sprzęt przepisów z tego zakresu, oraz w odpowiednich przypadkach udostępniają sobie nawzajem i Komisji Europejskiej informacje, tak aby ułatwiać prawidłowe wykonanie tych przepisów. Współpraca administracyjna i wymiana informacji, w szczególności pomiędzy krajowymi rejestrami zawierającymi informacje o producentach i wprowadzających sprzęt, odbywa się z wykorzystaniem środków komunikacji elektronicznej.
+1. Minister właściwy do spraw klimatu, organy inspekcji ochrony środowiska, organy inspekcji handlowej oraz marszałkowie województw współpracują z właściwymi organami innych niż Rzeczpospolita Polska państw członkowskich w sprawach dotyczących sprzętu i zużytego sprzętu, w szczególności w celu ustanowienia odpowiedniego przepływu informacji, gwarantującego przestrzeganie przez producentów i wprowadzających sprzęt przepisów z tego zakresu, oraz w odpowiednich przypadkach udostępniają sobie nawzajem i Komisji Europejskiej informacje, tak aby ułatwiać prawidłowe wykonanie tych przepisów. Współpraca administracyjna i wymiana informacji, w szczególności pomiędzy krajowymi rejestrami zawierającymi informacje o producentach i wprowadzających sprzęt, odbywa się z wykorzystaniem środków komunikacji elektronicznej.
 
 2. Współpraca, o której mowa w ust. 1, obejmuje w szczególności dostęp do odpowiednich dokumentów i informacji, uwzględniających wyniki kontroli, z zastrzeżeniem przepisów dotyczących ochrony danych.
 
@@ -916,7 +889,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 **Art. 93.**
 
-1. Administracyjne kary pieniężne za naruszenia przepisów, o których mowa w art. 91 pkt 1–21 i 27–48, wymierza, w drodze decyzji, właściwy wojewódzki inspektor ochrony środowiska.
+1. Administracyjne kary pieniężne za naruszenia przepisów, o których mowa w art. 91 pkt 1–21, 27–41 i 43–48, wymierza, w drodze decyzji, właściwy wojewódzki inspektor ochrony środowiska.
 
 2. Administracyjne kary pieniężne za naruszenia przepisów, o których mowa w art. 91 pkt 22–26, wymierza, w drodze decyzji, właściwy wojewódzki inspektor inspekcji handlowej.
 
@@ -930,7 +903,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 7. Należności z tytułu administracyjnych kar pieniężnych stanowią dochód budżetu państwa.
 
-**Art. 94.** W sprawach dotyczących administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska albo wojewódzkiemu inspektorowi inspekcji handlowej.
+**Art. 94.** W sprawach dotyczących administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska albo wojewódzkiemu inspektorowi inspekcji handlowej.
 
 **Art. 95.** Kto wbrew zakazowi określonemu w art. 34 umieszcza zużyty sprzęt łącznie z innymi odpadami, podlega karze grzywny.
 
@@ -944,126 +917,13 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 **Art. 98.**
 
-1. Orzekanie w sprawach o czyny, o których mowa w art. 95–97, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ).
+1. Orzekanie w sprawach o czyny, o których mowa w art. 95–97, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
 2. Za wykroczenia, o których mowa w art. 95–97, odpowiada jak sprawca także ten, kto na podstawie przepisu prawa, decyzji właściwego organu, umowy lub faktycznego wykonywania zajmuje się sprawami gospodarczymi osoby fizycznej, osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, której odrębne przepisy przyznają zdolność prawną, w zakresie wprowadzania do obrotu sprzętu lub gospodarowania zużytym sprzętem.
 
 #### Rozdział 15 Zmiany w przepisach obowiązujących
 
-**Art. 99.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686, z późn. zm. ) w art. 2 w ust. 1 w pkt 1 lit. j otrzymuje brzmienie: „j) przestrzegania przepisów o zużytym sprzęcie elektrycznym i elektronicznym, z wyjątkiem przepisów art. 37 i art. 39 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. poz. 1688),”.
-
-**Art. 100.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ) w art. 23 w ust. 1 pkt 16c otrzymuje brzmienie: „16c) dodatkowej opłaty produktowej, o której mowa w art. 77 ust. 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. poz. 1688), z tym że kosztem uzyskania przychodów jest poniesiona opłata, o której mowa w art. 72 ust. 2 tej ustawy;”.
-
-**Art. 101.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm. ) w art. 16 w ust. 1 pkt 19c otrzymuje brzmienie: „19c) dodatkowej opłaty produktowej, o której mowa w art. 77 ust. 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. poz. 1688), z tym że kosztem uzyskania przychodów jest poniesiona opłata, o której mowa w art. 72 ust. 2 tej ustawy;”.
-
-**Art. 102.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2013 r. poz. 1399, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 103.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2014 r. poz. 148, z późn. zm. ) w art. 3 w ust. 1 pkt 2a otrzymuje brzmienie: „2a) kontrola przestrzegania przez dystrybutorów przepisów art. 37 i art. 39 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. poz. 1688);”.
-
-**Art. 104.** W ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 105.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm. ) po art. 84ab dodaje się art. 84ac w brzmieniu: „Art. 84ac. Przepisów art. 79, art. 80a, art. 82 i art. 83 nie stosuje się w odniesieniu do kontroli działalności w zakresie zbierania i przetwarzania zużytego sprzętu oraz recyklingu i innych niż recykling procesów odzysku odpadów powstałych ze zużytego sprzętu dokonywanej przez Inspekcję Ochrony Środowiska, marszałka województwa oraz starostę w związku z kontrolą przestrzegania przepisów dotyczących gospodarowania zużytym sprzętem.”.
-
-**Art. 106.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm. ) w art. 16 w ust. 1 w pkt 11:
-
-**Art. 107.** W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2015 r. poz. 687) wprowadza się następujące zmiany:
-
-**Art. 108.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 237b.**
-
-1. Przedsiębiorcy, o których mowa w art. 45 ust. 1 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. poz. 888), składają sprawozdania za rok 2015 i za rok 2016 zawierające w szczególności:
-
-- **1)** dane identyfikujące podmiot:
-    - **a)** imię i nazwisko lub nazwę podmiotu oraz adres zamieszkania lub siedziby,
-    - **b)** numer identyfikacji podatkowej (NIP), o ile został nadany, a w przypadku wprowadzającego baterie lub akumulatory także europejski numer identyfikacji podatkowej, o ile został nadany,
-    - **c)** numer REGON, o ile został nadany;
-
-- **2)** w zależności od rodzaju działalności odpowiednio: o gospodarce opakowaniami i odpadami opakowaniowymi,
-    - **a)** masie wytworzonych i przywiezionych z zagranicy opakowań według rodzajów materiałów, z jakich zostały wykonane, w tym: o opakowaniach wielokrotnego użytku, o przestrzeganiu ograniczeń wynikających z art. 11 ust. 1 pkt 2 ustawy z dnia 13 czerwca 2013 r.
-    - **b)** masie opakowań, w których zostały wprowadzone do obrotu produkty, z podziałem na poszczególne ich rodzaje,
-    - **c)** masie poddanych odzyskowi i recyklingowi odpadów opakowaniowych, z podziałem na poszczególne ich rodzaje oraz z uwzględnieniem podziału na odpady pochodzące z gospodarstw domowych i z innych źródeł niż gospodarstwa domowe, a także według sposobu ich odzysku i recyklingu,
-    - **d)** osiągniętych poziomach odzysku i recyklingu odpadów opakowaniowych, z podziałem na poszczególne ich rodzaje,
-    - **e)** wysokości należnej opłaty produktowej, obliczonej oddzielnie, z podziałem na poszczególne rodzaje opakowań w przypadku nieosiągnięcia wymaganego poziomu odzysku lub recyklingu,
-    - **f)** masie wywiezionych za granicę opakowań, według rodzajów materiałów, z jakich zostały wykonane, z wyszczególnieniem opakowań wielokrotnego użytku w przypadku przedsiębiorcy, który eksportuje lub dokonuje wewnątrzwspólnotowej dostawy opakowań lub produktów w opakowaniach,
-    - **g)** informacje o sposobie wykonania obowiązku prowadzenia publicznych kampanii edukacyjnych, a w przypadku samodzielnego wykonania tego obowiązku także o przeprowadzonych przez przedsiębiorcę publicznych kampaniach edukacyjnych wraz ze wskazaniem poniesionych na ten cel kosztów.
-
-2. W przypadku gdy obowiązek określony w art. 17 ust. 1 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi wykonuje organizacja odzysku opakowań, roczne sprawozdanie, o którym mowa w ust. 1, w zakresie realizacji tych obowiązków sporządza ta organizacja.
-
-3. Sprawozdanie składane przez organizację odzysku opakowań zawiera informacje, o których mowa w ust. 1 pkt 1, a także informacje określone w ust. 1 pkt 2 lit. a–f.
-
-4. Sprawozdanie organizacji odzysku opakowań zawiera dodatkowo:
-
-- **1)** wykaz przedsiębiorców, od których organizacja odzysku opakowań przejęła obowiązek określony w art. 17 ust. 1 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi;
-- **2)** informacje o przeprowadzonych przez organizację odzysku opakowań publicznych kampanii edukacyjnych wraz ze wskazaniem poniesionych na ten cel kosztów;
-- **3)** wykaz posiadaczy odpadów, którym organizacja odzysku opakowań zleciła w roku kalendarzowym, którego dotyczy sprawozdanie, wykonanie czynności określonych w art. 17 ust. 7 tej ustawy, obejmujący:
-    - **a)** imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby posiadacza odpadów,
-    - **b)** numer identyfikacji podatkowej (NIP) posiadacza odpadów, o ile został nadany,
-    - **c)** numer REGON posiadacza odpadów, o ile został nadany,
-    - **d)** określenie czynności, które zostały zlecone posiadaczowi odpadów w zakresie gospodarowania odpadami opakowaniowymi,
-    - **e)** określenie rodzajów odpadów opakowaniowych, w odniesieniu do których posiadaczowi odpadów zostało zlecone wykonanie czynności z zakresu gospodarowania odpadami opakowaniowymi,
-    - **f)** określenie okresu, na który zawarto umowę zlecającą posiadaczowi odpadów wykonanie czynności w zakresie gospodarowania odpadami opakowaniowymi.
-
-5. Sprawozdanie, o którym mowa w ust. 1, przedsiębiorca lub organizacja odzysku opakowań składają w terminie do 15 marca za poprzedni rok kalendarzowy marszałkowi województwa, o którym mowa w art. 8 pkt 7 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi.
-
-6. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór formularza sprawozdania, o którym mowa w ust. 1, mając na uwadze potrzebę ujednolicenia zakresu danych przekazywanych przez przedsiębiorców oraz ułatwienia przekazywania danych do marszałka województwa.
-
-**Art. 237c.**
-
-1. Marszałek województwa jest obowiązany do przesyłania ministrowi właściwemu do spraw środowiska oraz Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej zbiorczego sprawozdania zawierającego informacje, o których mowa w art. 237b ust. 1 pkt 2 lit. a–f w terminie do dnia 30 kwietnia roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie.
-
-2. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 1, mając na uwadze potrzebę ujednolicenia sprawozdań.”;
-
-- **29)** w art. 238:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. BDO tworzy się najpóźniej do dnia 24 stycznia 2018 r.”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Dane zawarte w centralnej i wojewódzkich bazach danych, o których mowa w art. 37 ust. 6 i 10 ustawy, o której mowa w art. 252, w bazie danych, o której mowa w art. 22 ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, oraz w bazie danych, o której mowa w art. 15 ust. 3 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym, przenosi się do BDO w terminie nie dłuższym niż rok od dnia utworzenia BDO.”;
-
-- **30)** w art. 251 ust. 1–3 otrzymują brzmienie: „1. W latach 2016–2025 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
-- **1)** 2016 r. 1000 tys. zł;
-- **2)** 2017 r. 1053 tys. zł;
-- **3)** 2018 r. 1080 tys. zł;
-- **4)** 2019 r. 1107 tys. zł;
-- **5)** 2020 r. 1135 tys. zł;
-- **6)** 2021 r. 1163 tys. zł;
-- **7)** 2022 r. 1192 tys. zł;
-- **8)** 2023 r. 1222 tys. zł;
-- **9)** 2024 r. 1252 tys. zł;
-- **10)** 2025 r. 1283 tys. zł.
-
-2. W latach 2016–2025 maksymalny limit wydatków budżetów samorządów województw będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
-
-- **1)** 2016 r. 0 zł;
-- **2)** 2017 r. 0 zł;
-- **3)** 2018 r. 3115 tys. zł;
-- **4)** 2019 r. 3115 tys. zł;
-- **5)** 2020 r. 3115 tys. zł;
-- **6)** 2021 r. 3115 tys. zł;
-- **7)** 2022 r. 3115 tys. zł;
-- **8)** 2023 r. 3115 tys. zł;
-- **9)** 2024 r. 3115 tys. zł;
-- **10)** 2025 r. 3115 tys. zł.
-
-3. W latach 2016–2025 maksymalny limit wydatków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
-
-- **1)** 2016 r. 5500 tys. zł;
-- **2)** 2017 r. 3000 tys. zł;
-- **3)** 2018 r. 1000 tys. zł;
-- **4)** 2019 r. 500 tys. zł;
-- **5)** 2020 r. 0 zł;
-- **6)** 2021 r. 0 zł;
-- **7)** 2022 r. 2000 tys. zł;
-- **8)** 2023 r. 0 zł;
-- **9)** 2024 r. 0 zł;
-- **10)** 2025 r. 0 zł.”;
-- **31)** w art. 253 pkt 2 otrzymuje brzmienie: „2) art. 178, art. 179, art. 194 ust. 1 pkt 5, art. 213 pkt 8, które wchodzą w życie po upływie 36 miesięcy od dnia wejścia w życie ustawy, z tym że wymienione przepisy stosuje się od daty utworzenia BDO ogłoszonej w komunikacie, o którym mowa w art. 238 ust. 2.”.
-
-**Art. 109.** W ustawie z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. poz. 888) w art. 7:
-
-**Art. 110.** W ustawie z dnia 24 kwietnia 2015 r. o zmianie niektórych ustaw w związku ze wzmocnieniem narzędzi ochrony krajobrazu (Dz. U. poz. 774) w art. 9 w pkt 7 w art. 23a ust. 5 otrzymuje brzmienie: „5. Projekt uchwały, o której mowa w ust. 1, w części dotyczącej wprowadzenia zakazów, wymienionych w art. 24 ust. 1a, wymaga uzgodnienia z właściwą miejscowo radą gminy.”.
-
-**Art. 111.** W ustawie z dnia 27 maja 2015 r. o zmianie ustawy o recyklingu pojazdów wycofanych z eksploatacji oraz niektórych innych ustaw (Dz. U. poz. 933) wprowadza się następujące zmiany:
-
-#### Rozdział 16 Przepisy przejściowe, dostosowujące i końcowe
+#### Rozdział 16 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 
 **Art. 112.**
 
@@ -1071,14 +931,14 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 2. Numery i nazwy grup sprzętu oraz przykładowe rodzaje sprzętu należącego do tych grup określa załącznik nr 6 do ustawy.
 
-**Art. 113.** Od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2017 r. wprowadzający sprzęt jest obowiązany do osiągania minimalnych rocznych poziomów zbierania zużytego sprzętu, które wynoszą nie mniej niż 40% średniorocznej masy sprzętu wprowadzonego do obrotu, a w przypadku sprzętu należącego do grupy sprzętu nr 5 określonej w załączniku nr 6 do ustawy, z wyjątkiem opraw oświetleniowych do lamp fluorescencyjnych oraz pozostałego sprzętu oświetleniowego do celów rozprowadzania lub regulacji światła, nie mniej niż 50% średniorocznej masy sprzętu wprowadzonego do obrotu.
+**Art. 113.** Od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2017 r. wprowadzający sprzęt jest obowiązany do osiągania minimalnych rocznych poziomów zbierania zużytego sprzętu, które wynoszą nie mniej niż 40 % średniorocznej masy sprzętu wprowadzonego do obrotu, a w przypadku sprzętu należącego do grupy sprzętu nr 5 określonej w załączniku nr 6 do ustawy, z wyjątkiem opraw oświetleniowych do lamp fluorescencyjnych oraz pozostałego sprzętu oświetleniowego do celów rozprowadzania lub regulacji światła, nie mniej niż 50 % średniorocznej masy sprzętu wprowadzonego do obrotu.
 
 **Art. 114.**
 
 1. Do dnia 31 grudnia 2017 r. stawka opłaty produktowej wynosi dla:
 
-- **1)** sprzętu należącego do grupy sprzętu nr 5 określonej w załączniku nr 6 do ustawy, z wyjątkiem opraw oświetleniowych do lamp fluorescencyjnych oraz pozostałego sprzętu oświetleniowego do celów rozprowadzenia lub regulacji światła od 4 zł do 8 zł za 1 kg;
-- **2)** grup sprzętu innych niż wskazane w pkt 1, określonych w załączniku nr 6 do ustawy od 0 zł do 2 zł za 1 kg.
+- **1)** sprzętu należącego do grupy sprzętu nr 5 określonej w załączniku nr 6 do ustawy, z wyjątkiem opraw oświetleniowych do lamp fluorescencyjnych oraz pozostałego sprzętu oświetleniowego do celów rozprowadzenia lub regulacji światła – od 4 zł do 8 zł za 1 kg;
+- **2)** grup sprzętu innych niż wskazane w pkt 1, określonych w załączniku nr 6 do ustawy – od 0 zł do 2 zł za 1 kg.
 
 2. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe stawki opłaty produktowej, kierując się kosztami zbierania, przygotowania do ponownego użycia i recyklingu oraz innych niż recykling procesów odzysku zużytego sprzętu dla poszczególnych grup sprzętu.
 
@@ -1087,24 +947,24 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 1. Od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2017 r. wprowadzający sprzęt jest obowiązany osiągnąć następujące poziomy:
 
 - **1)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 1 i 10 określonych w załączniku nr 6 do ustawy:
-    - **a)** odzysku 85% masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 80% masy zużytego sprzętu;
+    - **a)** odzysku – 85 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 80 % masy zużytego sprzętu;
 
 - **2)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 3 i 4 określonych w załączniku nr 6 do ustawy:
-    - **a)** odzysku 80% masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 70% masy zużytego sprzętu;
+    - **a)** odzysku – 80 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 70 % masy zużytego sprzętu;
 
-- **3)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 2 i 5–9 określonych w załączniku nr 6 do ustawy:
-    - **a)** odzysku 75% masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 55% masy zużytego sprzętu;
+- **3)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 2 i 5– 9 określonych w załączniku nr 6 do ustawy:
+    - **a)** odzysku – 75 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 55 % masy zużytego sprzętu;
 
-- **4)** dla zużytych gazowych lamp wyładowczych recyklingu zużytych lamp wyładowczych w wysokości 80% masy tych zużytych lamp.
+- **4)** dla zużytych gazowych lamp wyładowczych – recyklingu zużytych lamp wyładowczych w wysokości 80 % masy tych zużytych lamp.
 
 2. Do dnia 31 grudnia 2017 r. poziom odzysku oraz poziom recyklingu, w przypadku zużytego sprzętu należącego do grupy sprzętu nr 5 określonej w załączniku nr 6 do ustawy, oblicza się odrębnie dla lamp i opraw oświetleniowych.
 
 **Art. 116.**
 
-1. Do czasu utworzenia rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108, Główny Inspektor Ochrony Środowiska prowadzi rejestr autoryzowanych przedstawicieli.
+1. Do czasu utworzenia rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108 , Główny Inspektor Ochrony Środowiska prowadzi rejestr autoryzowanych przedstawicieli.
 
 2. Autoryzowany przedstawiciel przed rozpoczęciem działalności jest obowiązany do złożenia do Głównego Inspektora Ochrony Środowiska wniosku o wpis do rejestru autoryzowanych przedstawicieli.
 
@@ -1143,7 +1003,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 11. Opłaty rocznej nie uiszcza się w roku, w którym została uiszczona opłata rejestrowa.
 
-12. Opłaty rejestrowej nie uiszcza autoryzowany przedstawiciel wpisany do rejestru, o którym mowa w ustawie z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. Nr 178, poz. 1060), jeżeli składając wniosek o wpis do rejestru autoryzowanych przedstawicieli, przedłoży informację potwierdzającą dobrowolny udział w systemie ekozarządzania i audytu (EMAS).
+12. Opłaty rejestrowej nie uiszcza autoryzowany przedstawiciel wpisany do rejestru, o którym mowa w ustawie z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. z 2022 r. poz. 2013), jeżeli składając wniosek o wpis do rejestru autoryzowanych przedstawicieli, przedłoży informację potwierdzającą dobrowolny udział w systemie ekozarządzania i audytu (EMAS).
 
 13. Opłata rejestrowa i opłata roczna wynoszą po 2000 zł.
 
@@ -1172,28 +1032,28 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 20. Główny Inspektor Ochrony Środowiska dokonuje z urzędu, w drodze decyzji, wykreślenia autoryzowanego przedstawiciela z rejestru autoryzowanych przedstawicieli w przypadku:
 
 - **1)** nieuiszczenia opłaty rocznej, o której mowa w ust. 10;
-- **2)** stwierdzenia rażących nieprawidłowości w wykonywaniu obowiązków określonych w przepisach niniejszej ustawy oraz ustawy zmienianej w art. 108;
+- **2)** stwierdzenia rażących nieprawidłowości w wykonywaniu obowiązków określonych w przepisach niniejszej ustawy oraz ustawy zmienianej w art. 108 ;
 - **3)** stwierdzenia trwałego zaprzestania wykonywania działalności.
 
 21. Główny Inspektor Ochrony Środowiska odmawia, w drodze decyzji, wpisu do rejestru autoryzowanych przedstawicieli, w przypadku nieuiszczenia opłaty rejestrowej, o której mowa w ust. 8, w wymaganej wysokości.
 
-22. Autoryzowani przedstawiciele posiadający wpis do rejestru autoryzowanych przedstawicieli są wpisywani do rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108, z urzędu. Marszałek województwa dokonuje wpisu w terminie 6 miesięcy od dnia utworzenia rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108, nadając jednocześnie nowy numer rejestrowy.
+22. Autoryzowani przedstawiciele posiadający wpis do rejestru autoryzowanych przedstawicieli są wpisywani do rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108 , z urzędu. Marszałek województwa dokonuje wpisu w terminie 6 miesięcy od dnia utworzenia rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108 , nadając jednocześnie nowy numer rejestrowy.
 
-23. W przypadku gdy marszałek województwa, dokonując wpisu do rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108, stwierdzi brak informacji wymaganych na podstawie tej ustawy, wzywa autoryzowanego przedstawiciela do złożenia brakujących informacji. W przypadku nieuzupełnienia brakujących informacji w wyznaczonym terminie marszałek województwa nie dokonuje wpisu do rejestru z urzędu.
+23. W przypadku gdy marszałek województwa, dokonując wpisu do rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108 , stwierdzi brak informacji wymaganych na podstawie tej ustawy, wzywa autoryzowanego przedstawiciela do złożenia brakujących informacji. W przypadku nieuzupełnienia brakujących informacji w wyznaczonym terminie marszałek województwa nie dokonuje wpisu do rejestru z urzędu.
 
-24. W przypadku nieuzupełnienia brakujących informacji w wyznaczonym terminie autoryzowany przedstawiciel jest obowiązany do złożenia wniosku o wpis do rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108.
+24. W przypadku nieuzupełnienia brakujących informacji w wyznaczonym terminie autoryzowany przedstawiciel jest obowiązany do złożenia wniosku o wpis do rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108 .
 
 25. W terminie 3 miesięcy od dnia otrzymania zawiadomienia o nadaniu nowego numeru rejestrowego autoryzowani przedstawiciele mogą używać numeru rejestrowego nadanego na podstawie przepisu ust. 14.
 
-26. Autoryzowani przedstawiciele niewpisani z urzędu do rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108, są obowiązani do złożenia wniosku o wpis do tego rejestru, w terminie 6 miesięcy od dnia jego utworzenia.
+26. Autoryzowani przedstawiciele niewpisani z urzędu do rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108 , są obowiązani do złożenia wniosku o wpis do tego rejestru, w terminie 6 miesięcy od dnia jego utworzenia.
 
-27. Z dniem uzyskania przez autoryzowanego przedstawiciela wpisu do rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108, wygasają wpisy do rejestru autoryzowanych przedstawicieli.
+27. Z dniem uzyskania przez autoryzowanego przedstawiciela wpisu do rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108 , wygasają wpisy do rejestru autoryzowanych przedstawicieli.
 
-28. W przypadku wyznaczenia przez producenta autoryzowanego przedstawiciela i posiadania przez tego autoryzowanego przedstawiciela wpisu do rejestru autoryzowanych przedstawicieli, wprowadzający sprzęt może, w terminie 14 dni od dnia uzyskania wpisu autoryzowanego przedstawiciela do rejestru autoryzowanych przedstawicieli, złożyć do Głównego Inspektora Ochrony Środowiska wniosek o wykreślenie z rejestru, o którym mowa w art. 235 ust. 2 ustawy zmienianej w art. 108, prowadzonego na podstawie przepisów obowiązujących przed dniem wejścia w życie tej ustawy.
+28. W przypadku wyznaczenia przez producenta autoryzowanego przedstawiciela i posiadania przez tego autoryzowanego przedstawiciela wpisu do rejestru autoryzowanych przedstawicieli, wprowadzający sprzęt może, w terminie 14 dni od dnia uzyskania wpisu autoryzowanego przedstawiciela do rejestru autoryzowanych przedstawicieli, złożyć do Głównego Inspektora Ochrony Środowiska wniosek o wykreślenie z rejestru, o którym mowa w art. 235 ust. 2 ustawy zmienianej w art. 108 , prowadzonego na podstawie przepisów obowiązujących przed dniem wejścia w życie tej ustawy.
 
-29. Do wniosku o wpis do rejestru oraz wniosku o zmianę wpisu do rejestru stosuje się przepis art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm. ).
+29. Do wniosku o wpis do rejestru oraz wniosku o zmianę wpisu do rejestru stosuje się przepis art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
-**Art. 117.** Podmioty zbierające zużyty sprzęt wpisane do rejestru, o którym mowa w art. 235 ust. 2 ustawy zmienianej w art. 108, prowadzonego na podstawie przepisów obowiązujących przed dniem wejścia w życie tej ustawy, niebędące zbierającymi zużyty sprzęt, o których mowa w art. 4 pkt 23 niniejszej ustawy, podlegają wykreśleniu z urzędu z tego rejestru w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 117.** Podmioty zbierające zużyty sprzęt wpisane do rejestru, o którym mowa w art. 235 ust. 2 ustawy zmienianej w art. 108 , prowadzonego na podstawie przepisów obowiązujących przed dniem wejścia w życie tej ustawy, niebędące zbierającymi zużyty sprzęt, o których mowa w art. 4 pkt 23 niniejszej ustawy, podlegają wykreśleniu z urzędu z tego rejestru w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 118.** Do postępowań administracyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
@@ -1221,13 +1081,13 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 **Art. 124.**
 
-1. Do czasu utworzenia rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108, ilekroć w ustawie jest mowa o rejestrze rozumie się przez to rejestr, o którym mowa w art. 235 ust. 2 ustawy zmienianej w art. 108, prowadzony na podstawie przepisów obowiązujących przed dniem wejścia w życie tej ustawy, z tym, że rejestr zawiera dodatkowo nazwę marki sprzętu, typ sprzętu (sprzęt przeznaczony dla gospodarstw domowych lub sprzęt inny niż przeznaczony dla gospodarstw domowych) oraz informację o stosowanej technice sprzedaży sprzętu.
+1. Do czasu utworzenia rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108 , ilekroć w ustawie jest mowa o rejestrze rozumie się przez to rejestr, o którym mowa w art. 235 ust. 2 ustawy zmienianej w art. 108 , prowadzony na podstawie przepisów obowiązujących przed dniem wejścia w życie tej ustawy, z tym, że rejestr zawiera dodatkowo nazwę marki sprzętu, typ sprzętu (sprzęt przeznaczony dla gospodarstw domowych lub sprzęt inny niż przeznaczony dla gospodarstw domowych) oraz informację o stosowanej technice sprzedaży sprzętu.
 
 2. Wniosek o wpis do rejestru w odniesieniu do wprowadzającego sprzęt zawiera dodatkowo nazwę marki sprzętu, typ sprzętu (sprzęt przeznaczony dla gospodarstw domowych lub sprzęt inny niż przeznaczony dla gospodarstw domowych) oraz informację o stosowanej technice sprzedaży sprzętu.
 
 3. Wprowadzający sprzęt, który uzyskał wpis do rejestru przed dniem wejścia w życie niniejszej ustawy jest obowiązany przekazać do Głównego Inspektora Ochrony Środowiska, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, informacje o nazwie marki sprzętu i typie sprzętu (sprzęt przeznaczony dla gospodarstw domowych lub sprzęt inny niż przeznaczony dla gospodarstw domowych) oraz informację o stosowanej technice sprzedaży sprzętu.
 
-4. Do czasu utworzenia rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108, organizacja odzysku sprzętu elektrycznego i elektronicznego jest obowiązana:
+4. Do czasu utworzenia rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108 , organizacja odzysku sprzętu elektrycznego i elektronicznego jest obowiązana:
 
 - **1)** w terminie do dnia 15 marca każdego roku do przedstawienia Głównemu Inspektorowi Ochrony Środowiska za poprzedni rok kalendarzowy zaświadczenia wydanego przez bank o utrzymywaniu przez nią na odrębnym rachunku bankowym lub w formie lokaty terminowej środków, o których mowa w art. 63 ust. 4 pkt 1, albo dokumentu potwierdzającego wysokość gwarancji bankowej lub gwarancji ubezpieczeniowej, wydanego przez gwaranta, o którym mowa w art. 63 ust. 4 pkt 2;
 - **2)** do przedstawienia, na każde żądanie Głównego Inspektora Ochrony Środowiska, w terminie 14 dni od dnia wpływu żądania, zaświadczenia wydanego przez bank o aktualnie utrzymywanych przez organizację odzysku sprzętu elektrycznego i elektronicznego na odrębnym rachunku bankowym lub w formie lokaty terminowej środkach, o których mowa w art. 63 ust. 4 pkt 1, albo dokumentu potwierdzającego wysokość gwarancji, o której mowa w art. 63 ust. 4 pkt 2.
@@ -1238,15 +1098,15 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 7. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzory wniosków o wpis do rejestru w odniesieniu do wprowadzającego sprzęt i autoryzowanego przedstawiciela oraz sposób ich przekazywania, kierując się potrzebą ujednolicenia formy wniosków oraz ułatwienia ich przekazywania.
 
-8. Przepisy wykonawcze wydane na podstawie ust. 7 obowiązują do czasu utworzenia rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108.
+8. Przepisy wykonawcze wydane na podstawie ust. 7 obowiązują do czasu utworzenia rejestru, o którym mowa w art. 49 ustawy zmienianej w art. 108 .
 
 **Art. 125.** Niewykonanie obowiązków wymienionych w art. 237 ust. 1 ustawy zmienianej w art. 108 za lata 2012–2014, podlega karze, o której mowa w art. 200 ustawy zmienianej w art. 108 w brzmieniu dotychczasowym.
 
 **Art. 126.**
 
-1. Za rok 2015 i 2016 organizacja odzysku sprzętu elektrycznego i elektronicznego przekazuje sprawozdanie, o którym mowa w art. 74a ustawy zmienianej w art. 108, do Głównego Inspektora Ochrony Środowiska.
+1. Za rok 2015 i 2016 organizacja odzysku sprzętu elektrycznego i elektronicznego przekazuje sprawozdanie, o którym mowa w art. 74a ustawy zmienianej w art. 108 , do Głównego Inspektora Ochrony Środowiska.
 
-2. Za rok 2016 organizacja odzysku sprzętu elektrycznego i elektronicznego przedkłada sprawozdanie, o którym mowa w art. 237a ust. 1 pkt 3 ustawy zmienianej w art. 108, na podstawie art. 24 ust. 1, art. 31 ust. 1 i art. 67 ust. 1 ustawy, o której mowa w art. 141, oddzielnie dla każdego wprowadzającego sprzęt i autoryzowanego przedstawiciela, dla których wykonuje obowiązki zgodnie z art. 11 ust. 3, do Głównego Inspektora Ochrony Środowiska.
+2. Za rok 2016 organizacja odzysku sprzętu elektrycznego i elektronicznego przedkłada sprawozdanie, o którym mowa w art. 237a ust. 1 pkt 3 ustawy zmienianej w art. 108 , na podstawie art. 24 ust. 1, art. 31 ust. 1 i art. 67 ust. 1 ustawy, o której mowa w art. 141, oddzielnie dla każdego wprowadzającego sprzęt i autoryzowanego przedstawiciela, dla których wykonuje obowiązki zgodnie z art. 11 ust. 3, do Głównego Inspektora Ochrony Środowiska.
 
 **Art. 127.** Wprowadzający sprzęt oraz organizacja odzysku sprzętu elektrycznego i elektronicznego prowadzą i rozliczają publiczne kampanie edukacyjne, za rok 2014 i 2015, zgodnie z dotychczasowymi przepisami.
 
@@ -1274,9 +1134,9 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 **Art. 133.**
 
-1. Ilekroć w art. 27–33 jest mowa o marszałku województwa, do czasu utworzenia Bazy danych, o której mowa w art. 79 ust. 1 ustawy zmienianej w art. 108, rozumie się przez to Głównego Inspektora Ochrony Środowiska.
+1. Ilekroć w art. 27–33 jest mowa o marszałku województwa, do czasu utworzenia Bazy danych, o której mowa w art. 79 ust. 1 ustawy zmienianej w art. 108 , rozumie się przez to Głównego Inspektora Ochrony Środowiska.
 
-2. Ilekroć w art. 27–33 jest mowa o odrębnym rachunku bankowym właściwego urzędu marszałkowskiego prowadzonym w Banku Gospodarstwa Krajowego, do czasu utworzenia Bazy danych, o której mowa w art. 79 ust. 1 ustawy zmienianej w art. 108, rozumie się przez to odrębny rachunek bankowy Głównego Inspektoratu Ochrony Środowiska.
+2. Ilekroć w art. 27–33 jest mowa o odrębnym rachunku bankowym właściwego urzędu marszałkowskiego prowadzonym w Banku Gospodarstwa Krajowego, do czasu utworzenia Bazy danych, o której mowa w art. 79 ust. 1 ustawy zmienianej w art. 108 , rozumie się przez to odrębny rachunek bankowy Głównego Inspektoratu Ochrony Środowiska.
 
 3. Środki pochodzące z zabezpieczenia finansowego przeznaczone na poczet pokrycia opłaty produktowej Główny Inspektor Ochrony Środowiska przekazuje, w terminie 30 dni po upływie każdego kwartału, w którym decyzja, o której mowa w art. 33 ust. 2 stała się ostateczna, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
@@ -1287,7 +1147,7 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 1. Kto, wbrew obowiązkowi określonemu w:
 
 - **1)** art. 123 ust. 2, nie przechowuje zaświadczeń, o których mowa w art. 123 ust. 1,
-- **2)** art. 131 ust. 3, nie przechowuje dodatkowej ewidencji, o której mowa w art. 32 ust. 1 ustawy, o której mowa w art. 141, oraz zaświadczeń, o których mowa w art. 53 i art. 54 ustawy, o której mowa w art. 141 podlega administracyjnej karze pieniężnej w wysokości od 5000 zł do 300 000 zł.
+- **2)** art. 131 ust. 3, nie przechowuje dodatkowej ewidencji, o której mowa w art. 32 ust. 1 ustawy, o której mowa w art. 141, oraz zaświadczeń, o których mowa w art. 53 i art. 54 ustawy, o której mowa w art. 141 – podlega administracyjnej karze pieniężnej w wysokości od 10 000 zł do 300 000 zł.
 
 2. Kary, o których mowa w ust. 1, wymierza, w drodze decyzji, właściwy wojewódzki inspektor ochrony środowiska.
 
@@ -1297,24 +1157,32 @@ o zużytym sprzęcie elektrycznym i elektronicznym
 
 1. Do kar pieniężnych, o których mowa w art. 80 ust. 2–9 ustawy, o której mowa w art. 141, oraz do wpływów z tych kar stosuje się przepisy dotychczasowe.
 
-2. Orzekanie w sprawach, o czyny, o których mowa w art. 134, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia.
+2. Orzekanie w sprawach, o czyny, o których mowa w art. 134, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia.
 
 **Art. 137.**
 
-1. Zarząd Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej sporządza i przekazuje zbiorczą informację, o której mowa w art. 400k ust. 2 pkt 5 ustawy zmienianej w art. 104, za rok 2015, stosując przepisy dotychczasowe.
+1. Zarząd Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej sporządza i przekazuje zbiorczą informację, o której mowa w art. 400k ust. 2 pkt 5 ustawy zmienianej w art. 104 , za rok 2015, stosując przepisy dotychczasowe.
 
-2. Zarządy wojewódzkich funduszy ochrony środowiska i gospodarki wodnej sporządzają i przekazują kwartalną informację, o której mowa w art. 400k ust. 3 pkt 2 ustawy zmienianej w art. 104, za rok 2015, stosując przepisy dotychczasowe.
+2. Zarządy wojewódzkich funduszy ochrony środowiska i gospodarki wodnej sporządzają i przekazują kwartalną informację, o której mowa w art. 400k ust. 3 pkt 2 ustawy zmienianej w art. 104 , za rok 2015, stosując przepisy dotychczasowe.
 
-**Art. 138.** Warunek, o którym mowa w art. 410a ust. 4 pkt 2 ustawy zmienianej w art. 104, uznaje się za spełniony, jeżeli przedsiębiorca prowadzący stację demontażu złożył w terminie sprawozdanie odpowiednio za rok 2015 oraz za rok 2016 zgodnie z art. 237a ust. 1 pkt 2 ustawy zmienianej w art. 108.
+**Art. 138.** Warunek, o którym mowa w art. 410a ust. 4 pkt 2 ustawy zmienianej w art. 104 , uznaje się za spełniony, jeżeli przedsiębiorca prowadzący stację demontażu złożył w terminie sprawozdanie odpowiednio za rok 2015 oraz za rok 2016 zgodnie z art. 237a ust. 1 pkt 2 ustawy zmienianej w art. 108 .
 
-**Art. 139.** Przepisy art. 7 ustawy zmienianej w art. 109 w brzmieniu nadanym niniejszą ustawą stosuje się również do zwolnienia dotyczącego opłaty produktowej, o którym mowa w art. 6 ust. 3 ustawy zmienianej w art. 109, za rok 2015.
+**Art. 139.** Przepisy art. 7 ustawy zmienianej w art. 109 w brzmieniu nadanym niniejszą ustawą stosuje się również do zwolnienia dotyczącego opłaty produktowej, o którym mowa w art. 6 ust. 3 ustawy zmienianej w art. 109 , za rok 2015.
+
+**Art. 139a.** Roczny raport o funkcjonowaniu systemu gospodarki zużytym sprzętem, o którym mowa w art. 88 ust. 1, za 2019 r. Główny Inspektor Ochrony Środowiska sporządza i przekazuje ministrowi właściwemu do spraw środowiska, w terminie do dnia 30 listopada 2020 r.
+
+**Art. 139b.**
+
+1. Organizacja odzysku sprzętu elektrycznego i elektronicznego oraz prowadzący zakład przetwarzania są obowiązani do przeprowadzenia za rok 2019 audytu, o którym mowa w art. 66, w terminie do dnia 30 września 2020 r.
+
+2. Organizacja odzysku sprzętu elektrycznego i elektronicznego oraz prowadzący zakład przetwarzania przekazują właściwemu wojewódzkiemu inspektorowi ochrony środowiska oraz marszałkowi województwa uwierzytelnioną kopię sprawozdania z przeprowadzonego audytu, o którym mowa w ust. 1, nie później niż w terminie do dnia 15 listopada 2020 r.
 
 **Art. 140.**
 
 1. Przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 50 ust. 8, art. 55 i art. 66 ust. 2 ustawy, o której mowa w art. 141, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 53 ust. 11, art. 59 i art. 114 ust. 2 niniejszej ustawy,
-- **2)** art. 84 ustawy zmienianej w art. 108 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 84 ustawy zmienianej w art. 108, w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż do dnia 31 grudnia 2016 r.
+- **2)** art. 84 ustawy zmienianej w art. 108 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 84 ustawy zmienianej w art. 108 , w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż do dnia 31 grudnia 2016 r.
 
 2. Przepisy wykonawcze wydane na podstawie art. 114 ust. 2 niniejszej ustawy zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 74 ust. 2 niniejszej ustawy.
 

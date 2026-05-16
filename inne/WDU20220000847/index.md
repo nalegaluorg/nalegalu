@@ -8,9 +8,10 @@ pos: 847
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 kwietnia 2022 r.
+# Ustawa z dnia 7 kwietnia 2022 r. o utworzeniu Politechniki Morskiej w Szczecinie
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +24,6 @@ domain: null
 | Data wydania | 2022-04-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000847) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/847/text.pdf) |
-
-Poz. 847
-USTAWA z dnia 7 kwietnia 2022 r.
-o utworzeniu Politechniki Morskiej w Szczecinie
 
 **Art. 1.**
 
@@ -54,7 +51,7 @@ o utworzeniu Politechniki Morskiej w Szczecinie
 
 1. Z dniem utworzenia Politechniki:
 
-- **1)** pracownicy zatrudnieni w Akademii stają się pracownikami Politechniki; przepis art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655) stosuje się odpowiednio;
+- **1)** pracownicy zatrudnieni w Akademii stają się pracownikami Politechniki; przepis art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655) stosuje się odpowiednio;
 - **2)** studenci i doktoranci Akademii stają się odpowiednio studentami i doktorantami Politechniki;
 - **3)** uczestnicy studiów podyplomowych oraz innych form kształcenia Akademii stają się uczestnikami odpowiednio studiów podyplomowych oraz innych form kształcenia Politechniki;
 - **4)** szkoła doktorska działająca w Akademii staje się szkołą doktorską Politechniki.
@@ -91,5 +88,5 @@ o utworzeniu Politechniki Morskiej w Szczecinie
 
 **Art. 8.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350 i 807) w art. 10 w ust. 4 wyrazy „Akademią Morską w Szczecinie” zastępuje się wyrazami „Politechniką Morską w Szczecinie”.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie z dniem 1 września 2022 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie z dniem 1 września 2022 r.
 

@@ -8,9 +8,10 @@ pos: 540
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# wienie szkody ulega przedawnie- na osobie nie może skończyć niu upływem lat dwudziestu od wcześniej niż upływem lat dnia popełnienia przestępstwa dwóch od uzyskania przez nią pełbez względu na to, kiedy poszko- noletności.”.
+# Ustawa z dnia 29 marca 2007 r. o zmianie ustawy – Prawo o adwokaturze i niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,56 +25,164 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070800540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/540/text.pdf) |
 
-dowany dowiedział o szkodzie o osobie obowiązanej do jej na- Art. 2. Do roszczeń, o których mowa 1, poprawienia. wstałych przed dniem wejścia życie niniejszej ustawy, awedług przepisów dotychczasowych wtym dniu § 3. W razie wyrządzenia szkody na jeszcze nieprzedawnionych, stosuje przepisy osobie, przedawnienie nie może 442 skończyć wcześniej niż upływem lat trzech od dnia, którym poszkodowany dowiedział o szkodzie o osobie obowiązanej do jej naprawienia.
-Kodeksu cywilnego.
+**Art. 1.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** Ustawa wchodzi życie po upływie trzech miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 539 USTAWA dnia 7 marca o zmianie ustawy Kodeks postępowania karnego
+**Art. 13a.** Organy adwokatury oraz organy izb adwokackich przesyłają Ministrowi Sprawiedliwości odpis każdej uchwały w terminie 21 dni od daty jej podjęcia. ” ;
 
-**Art. 1.** W ustawie dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, 555, póên. zm. nego albo inną osobę, a także tytułu obrony oskarżonego sprawie, której oskarżony skie) 632 pkt 2 otrzymuje brzmienie: rował przeciwko sobie podejrzenie popełnienia czynu zabronionego.”. Ń2) sprawach oskarżenia publicznego Skarb Państwa, wyjątkiem należności tytułu udziału Art. 2. Ustawa wchodzi życie po upływie 14 dni adwokata lub radcy prawnego ustanowionego od dnia ogłoszenia. charakterze pełnomocnika przez pokrzywdzonego, oskarżyciela posiłkowego, powoda cywil- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— USTAWA dnia 29 marca o zmianie ustawy Prawo o adwokaturze niektórych innych ustaw
+**Art. 46.**
 
-**Art. 1.** W ustawie dnia 26 maja 1982 1058, póên. zm. Prawo o adwokaturze (Dz. U. 2002 123, ) wprowadza następujące zmiany: ——————— Ń2. Minister Sprawiedliwości sprawuje nadzór nad działalnością samorządu zakresie formach określonych ustawą.”;
+1. Od uchwały okręgowej rady adwokackiej, podjętej w pierwszej instancji w sprawach indywidualnych, służy zainteresowanemu odwołanie do Prezydium Naczelnej Rady Adwokackiej.
 
-**Art. 2.** W ustawie dnia 6 lipca 1982 o radcach prawnych (Dz. U. 2002 123, 1059, póên. zm. ) wprowadza następujące zmiany:
+2. Od uchwały Prezydium Naczelnej Rady Adwokackiej służy zainteresowanemu odwołanie do Ministra Sprawiedliwości, zgodnie z Kodeksem postępowania administracyjnego. ” ;
 
-**Art. 70².**
+- **5)** w art. 47 uchyla się ust. 2;
+- **6)** w art. 68: po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „
+    - **a)**
 
-1. Właściwy do rozpoznania sprawy jest okręgowy sąd dyscyplinarny okręgowej izby radców prawnych, której obwiniony jest członkiem chwili wszczęcia postępowania dyscyplinarnego.
+6a. Od uchwały Prezydium Naczelnej Rady Adwokackiej służy zainteresowanemu odwołanie do Ministra Sprawiedliwości, zgodnie z Kodeksem postępowania administracyjnego.
 
-2. Jeżeli przewinienie objęte jedną sprawą popełniło dwóch lub więcej obwinionych wpisanych na listę radców go okręgu wszczęto najpierw postępowanie dyscyplinarne.
+6b. Od ostatecznej decyzji Ministra Sprawiedliwości zainteresowanemu oraz Prezydium Naczelnej Rady Adwokackiej służy skarga do sądu administracyjnego w terminie 30 dni od dnia doręczenia decyzji. ” , ust. 7 otrzymuje brzmienie: „
+
+- **b)**
+
+7. W wypadku niepodjęcia uchwały przez okręgową radę adwokacką w terminie 30 dni od złożenia wniosku o wpis, lub niepodjęcia uchwały przez Prezydium Naczelnej Rady Adwokackiej w terminie 30 dni od doręczenia odwołania, zainteresowanemu służy skarga do sądu administracyjnego. ” ;
+
+- **7)** w art. 71b: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Adwokat może mieć jedną siedzibę zawodową na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem art. 71c. ” , po ust. 2 dodaje się ust. 3 w brzmieniu: „
+
+- **b)**
+
+3. Siedzibę w państwie macierzystym prawnika z Unii Europejskiej, w rozumieniu ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej, oraz osoby, o której mowa w art. 2a tej ustawy, nie uznaje się za siedzibę zawodową w rozumieniu ust. 1. ” ;
+
+- **8)** w art. 81 dodaje się ust. 6 w brzmieniu: „
+
+6. Sąd dyscyplinarny może orzec podanie treści orzeczenia do publicznej wiadomości środowiska adwokackiego poprzez jego opublikowanie w czasopiśmie, którego wydawcą jest organ adwokatury. ” ;
+
+- **9)** w art. 83 po ust. 2 dodaje się ust. 3 w brzmieniu: „
+
+3. Kara wydalenia z adwokatury w stosunku do aplikantów adwokackich pociąga za sobą skreślenie z listy aplikantów bez prawa ubiegania się o ponowny wpis na listę aplikantów adwokackich lub o wpis na listę adwokatów przez okres 10 lat od daty uprawomocnienia się orzeczenia o karze wydalenia z adwokatury. ” ;
+
+- **10)** w art. 87 uchyla się ust. 1;
+- **11)** po art. 88 dodaje się art. 88a w brzmieniu: „
+
+**Art. 88a.** Od orzeczeń i postanowień kończących postępowanie dyscyplinarne odwołanie przysługuje stronom oraz Ministrowi Sprawiedliwości w terminie 14 dni od dnia doręczenia odpisu orzeczenia albo postanowienia, wraz z uzasadnieniem oraz pouczeniem o terminie i trybie wniesienia odwołania. ” ;
+
+**Art. 91.**
+
+1. W sprawach dyscyplinarnych orzekają:
+
+- **1)** sąd dyscyplinarny izby adwokackiej,
+- **2)** Wyższy Sąd Dyscyplinarny.
+
+2. Sąd dyscyplinarny izby adwokackiej rozpoznaje wszystkie sprawy jako sąd pierwszej instancji, z wyjątkiem spraw określonych w ust. 3 pkt 2 oraz w art. 85 ust. 2.
+
+3. Wyższy Sąd Dyscyplinarny rozpoznaje:
+
+- **1)** jako sąd drugiej instancji sprawy rozpoznawane w pierwszej instancji przez sądy dyscyplinarne izb adwokackich,
+- **2)** jako sąd pierwszej instancji sprawy dyscyplinarne członków Naczelnej Rady Adwokackiej i okręgowych rad adwokackich,
+- **3)** inne sprawy przewidziane przepisami ustawy.
+
+4. Sąd orzeka w składzie trzyosobowym. Odwołania od orzeczeń wydanych w trybie, o którym mowa w ust. 3 pkt 2, rozpoznaje ten sam sąd w innym, pięcioosobowym składzie.
+
+5. Orzeczenie z uzasadnieniem wydane przez Wyższy Sąd Dyscyplinarny w drugiej instancji doręcza się stronom, Ministrowi Sprawiedliwości oraz Naczelnej Radzie Adwokackiej. ” ;
+
+- **14)** uchyla się art. 91e;
+- **15)** po art. 93 dodaje się art. 93a w brzmieniu: „
+
+**Art. 93a.** Rzecznik dyscyplinarny doręcza Ministrowi Sprawiedliwości odpisy postanowień o wszczęciu dochodzenia oraz informuje Ministra Sprawiedliwości o wniesieniu do sądu dyscyplinarnego wniosku o wszczęcie postępowania dyscyplinarnego lub o skierowaniu wniosku o ukaranie do dziekana okręgowej rady adwokackiej. ” ;
+
+**Art. 94.** Obwiniony ma prawo do ustanowienia obrońcy, którym może być wyłącznie adwokat. ” ;
+
+**Art. 95a.** Rozprawa przed sądem dyscyplinarnym jest jawna, chyba że jawność rozprawy zagraża ujawnieniu tajemnicy adwokackiej albo zachodzą inne wymagane przepisami prawa przyczyny wyłączenia jawności. ” ;
+
+**Art. 2.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 291.** Uchwała rady okręgowej izby radców prawnych w sprawie skreślenia z listy radców prawnych powinna być podjęta w terminie 30 dni od powzięcia wiadomości o zaistnieniu zdarzenia, o którym mowa w art. 29. Przepis art. 28 ust. 5–7 stosuje się odpowiednio. ” ;
+
+**Art. 47.**
+
+1. Organy samorządu przesyłają Ministrowi Sprawiedliwości odpis każdej uchwały w terminie 21 dni od daty jej podjęcia.
+
+2. Minister Sprawiedliwości zwraca się do Sądu Najwyższego o uchylenie sprzecznych z prawem uchwał organów samorządu w terminie 3 miesięcy od dnia ich doręczenia. Jeżeli zaskarżona uchwała rażąco narusza prawo, termin ten wynosi 6 miesięcy. Sąd utrzymuje zaskarżoną uchwałę w mocy bądź uchyla ją i przekazuje sprawę do ponownego rozpoznania właściwemu organowi samorządu, ustalając wytyczne co do sposobu jej załatwienia. Skargę spóźnioną Sąd Najwyższy pozostawia bez rozpoznania. ” ;
+
+- **6)** w art. 62 ust. 2 otrzymuje brzmienie: „
+
+2. Wyższy Sąd Dyscyplinarny rozpatruje, jako sąd pierwszej instancji, sprawy dyscyplinarne członków Krajowej Rady Radców Prawnych i rad okręgowych izb radców prawnych. Odwołania od orzeczeń wydanych w tym trybie rozpatruje ten sam sąd w innym, pięcioosobowym składzie. ” ;
+
+- **7)** uchyla się art. 626;
+- **8)** w art. 65 po ust. 2b dodaje się ust. 2c i 2d w brzmieniu: „
+
+2c. Kara pozbawienia prawa do wykonywania zawodu radcy prawnego pociąga za sobą skreślenie z listy radców prawnych bez prawa ubiegania się o ponowny wpis.
+
+2d. Kara wydalenia z aplikacji pociąga za sobą skreślenie z listy aplikantów bez prawa ubiegania się o ponowny wpis na listę aplikantów radcowskich lub o wpis na listę radców prawnych przez okres 10 lat od daty uprawomocnienia się orzeczenia o karze wydalenia z aplikacji. ” ;
+
+- **9)** w art. 67 uchyla się ust. 2;
+- **10)** po art. 67 dodaje się art. 671 w brzmieniu: „
+
+**Art. 671.** Postępowanie dyscyplinarne obejmuje:
+
+**Art. 682.** Rzecznik dyscyplinarny doręcza Ministrowi Sprawiedliwości odpisy postanowień o wszczęciu dochodzenia oraz informuje Ministra Sprawiedliwości o wniesieniu do sądu dyscyplinarnego wniosku o wszczęcie postępowania dyscyplinarnego lub o skierowaniu wniosku o ukaranie do dziekana rady okręgowej izby radców prawnych. ” ;
+
+**Art. 701.** Sąd dyscyplinarny orzeka w składzie trzyosobowym.
+
+**Art. 702.**
+
+1. Właściwy do rozpoznania sprawy jest okręgowy sąd dyscyplinarny okręgowej izby radców prawnych, której obwiniony jest członkiem w chwili wszczęcia postępowania dyscyplinarnego.
+
+2. Jeżeli przewinienie objęte jedną sprawą popełniło dwóch lub więcej obwinionych wpisanych na listę radców prawnych lub aplikantów radcowskich w różnych izbach, właściwy jest sąd dyscyplinarny, w okręgu którego popełniono przewinienie, a w razie gdy tego miejsca nie można ustalić – okręgowy sąd dyscyplinarny, w którego okręgu wszczęto najpierw postępowanie dyscyplinarne.
 
 3. Spory o właściwość rozstrzyga Wyższy Sąd Dyscyplinarny.
 
-**Art. 70³.** Rozstrzygnięcia sądu dyscyplinarnego zapadają formie orzeczeń albo postanowień. Orzeczenie może być wydane jedynie na rozprawie.
+**Art. 703.** Rozstrzygnięcia sądu dyscyplinarnego zapadają w formie orzeczeń albo postanowień. Orzeczenie może być wydane jedynie na rozprawie.
 
-**Art. 70⁴.** Od orzeczeń postanowień kończących postępowanie sprawie odwołanie przysługuje stronom Ministrowi Sprawiedliwości terminie 14 dni od dnia doręczenia odpisu orzeczenia albo postanowienia, wraz uzasadnieniem ipouczeniem oterminie itrybie wniesienia odwołania.
+**Art. 704.** Od orzeczeń i postanowień kończących postępowanie w sprawie odwołanie przysługuje stronom oraz Ministrowi Sprawiedliwości w terminie 14 dni od dnia doręczenia odpisu orzeczenia albo postanowienia, wraz z uzasadnieniem i pouczeniem o terminie i trybie wniesienia odwołania.
 
-**Art. 70⁵.** Ministrowi Sprawiedliwości osobom przez niego upoważnionym przysługuje każdym stadium postępowania prawo wglądu do akt iżądania informacji o wynikach postępowania dyscyplinarnego, jak również prawo żądania prawomocnych orzeczeń dyscyplinarnych bądê postanowień wraz aktami sprawy.
+**Art. 705.** Ministrowi Sprawiedliwości oraz osobom przez niego upoważnionym przysługuje w każdym stadium postępowania prawo wglądu do akt i żądania informacji o wynikach postępowania dyscyplinarnego, jak również prawo żądania prawomocnych orzeczeń dyscyplinarnych bądź postanowień wraz z aktami sprawy.
 
-**Art. 70⁶.**
+**Art. 706.**
 
-1. Koszty postępowania dyscyplinarnego stanowią wszelkie wydatki poniesione związku tym postępowaniem.
+1. Koszty postępowania dyscyplinarnego stanowią wszelkie wydatki poniesione w związku z tym postępowaniem.
 
-2. Wrazie ukarania koszty postępowania ponosi obwiniony. W pozostałych przypadkach koszty dochodzenia ipostępowania przed okręgowym sądem dyscyplinarnym pokrywa właściwa okręgowa izba radców prawnych, a koszty postępowania przed Wyższym Sądem Dyscyplinarnym Krajowa Izba Radców Prawnych.”;
+2. W razie ukarania koszty postępowania ponosi obwiniony. W pozostałych przypadkach koszty dochodzenia i postępowania przed okręgowym sądem dyscyplinarnym pokrywa właściwa okręgowa izba radców prawnych, a koszty postępowania przed Wyższym Sądem Dyscyplinarnym – Krajowa Izba Radców Prawnych. ” ;
 
-- **15)** 71 otrzymuje brzmienie: ŃArt. 71. 1. Sąd dyscyplinarny niezwłocznie przesyła odpis prawomocnego orzeczenia właściwej radzie okręgowej izby radców prawnych do wykonania, a Ministrowi Sprawiedliwości Krajowej Radzie Radców Prawnych do wiadomości.
+- **15)** art. 71 otrzymuje brzmienie: „
 
-2. Wykonanie kar dyscyplinarnych, wyjątkiem kar wymienionych 65 ust. 1 pkt 3 i4, należy do dziekana rady okręgowej izby radców prawnych.
+**Art. 71.**
 
-3. Odpis prawomocnego orzeczenia oukaraniu dyscyplinarnym dołącza do akt osobowych. świadczy pomoc prawną,
+1. Sąd dyscyplinarny niezwłocznie przesyła odpis prawomocnego orzeczenia właściwej radzie okręgowej izby radców prawnych – do wykonania, a Ministrowi Sprawiedliwości i Krajowej Radzie Radców Prawnych – do wiadomości.
 
-- **4)** właściwe ze względu na charakter prowadzonych przez danego radcę prawnego spraw organy administracji rządowej samorządu terytorialnego okręgu okręgowej izby radców prawnych, wktórej radca prawny albo aplikant radcowski jest wpisany na listę, a sprawie radcy prawnego wykonującego zawód adwokata okręgową radę adwokacką.
+2. Wykonanie kar dyscyplinarnych, z wyjątkiem kar wymienionych w art. 65 ust. 1 pkt 3 i 4, należy do dziekana rady okręgowej izby radców prawnych.
 
-5. Usunięcie wzmianki o ukaraniu dyscyplinarnym następuje zurzędu po upływie:
+3. Odpis prawomocnego orzeczenia o ukaraniu dyscyplinarnym dołącza się do akt osobowych.
 
-- **1)** trzech lat od uprawomocnienia orzeczenia dyscyplinarnego orzekającego karę upomnienia, nagany ostrzeżeniem lub kary pieniężnej,
-- **2)** pięciu lat od upływu okresu zawieszenia prawa do wykonywania zawodu radcy prawnego, jeżeli radca prawny nie zostanie tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie dyscyplinarne.
+4. O karach, o których mowa w art. 65 ust. 1 pkt 3 i 4, zawiadamia się:
 
-6. Nie usuwa wzmianki okarze pozbawienia prawa do wykonywania zawodu radcy prawnego kary wydalenia aplikacji radcowskiej.
+- **1)** sądy,
+- **2)** prokuratury,
+- **3)** pracodawców oraz inne podmioty, na rzecz których dany radca prawny świadczy pomoc prawną,
+- **4)** właściwe ze względu na charakter prowadzonych przez danego radcę prawnego spraw organy administracji rządowej i samorządu terytorialnego w okręgu okręgowej izby radców prawnych, w której radca prawny albo aplikant radcowski jest wpisany na listę, a w sprawie radcy prawnego wykonującego zawód adwokata – okręgową radę adwokacką.
 
-7. Z chwilą zatarcia kary dyscyplinarnej dziekan rady okręgowej izby radców prawnych zarządza wykreślenie wzmianki o ukaraniu dyscyplinarnym usunięcie akt osobowych dokumentów dotyczących ukarania.”;
+5. Usunięcie wzmianki o ukaraniu dyscyplinarnym następuje z urzędu po upływie:
 
-- **16)** uchyla 74;
-- **17)** po 74 dodaje 74 brzmieniu: ŃArt. 74 . W sprawach nieuregulowanych do postępowania dyscyplinarnego stosuje odpowiednio przepisy Kodeksu postępowania karnego.”.
+- **1)** trzech lat od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę upomnienia, nagany z ostrzeżeniem lub kary pieniężnej,
+- **2)** pięciu lat od upływu okresu zawieszenia prawa do wykonywania zawodu radcy prawnego, jeżeli radca prawny nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie dyscyplinarne.
 
-**Art. 3.** Wustawie zdnia 14 lutego 1991 Prawo o notariacie (Dz. U. 2002 42, 369, póên. zm. Ń§ 3. Minister Sprawiedliwości może odwołać notariusza, który uzyskał dwie ujemne oceny wyniku kolejnych wizytacji przeprowadzonych przez wizytatora samorządu notarialnego lub właściwy organ Ministra Sprawiedliwości. Odwołanie następuje po zasięgnięciu opinii rady właściwej izby notarialnej, wydanej na wniosek Ministra Sprawiedliwości, wterminie miesiąca od daty wpływu wniosku.
+6. Nie usuwa się wzmianki o karze pozbawienia prawa do wykonywania zawodu radcy prawnego oraz kary wydalenia z aplikacji radcowskiej.
+
+7. Z chwilą zatarcia kary dyscyplinarnej dziekan rady okręgowej izby radców prawnych zarządza wykreślenie wzmianki o ukaraniu dyscyplinarnym oraz usunięcie z akt osobowych dokumentów dotyczących ukarania. ” ;
+
+- **16)** uchyla się art. 74;
+- **17)** po art. 74 dodaje się art. 741 w brzmieniu: „
+
+**Art. 741.** W sprawach nieuregulowanych do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego. ” .
+
+**Art. 3.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2002 r. Nr 42, poz. 369, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 57a.** Ministrowi Sprawiedliwości oraz osobom przez niego upoważnionym przysługuje w każdym stadium postępowania dyscyplinarnego prawo wglądu do akt i żądania informacji o wynikach tego postępowania, jak również prawo żądania akt sprawy. ” ;
+
+**Art. 4.** Postępowanie dyscyplinarne wszczęte przed dniem wejścia w życie ustawy toczy się do końca postępowania w danej instancji według przepisów dotychczasowych.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

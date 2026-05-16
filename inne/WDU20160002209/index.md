@@ -8,9 +8,10 @@ pos: 2209
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2016 WYROK TRYBUNAŁU KONSTYTUCYJNEGO dnia 6 grudnia 2016 sygn. akt SK 7/15 Trybunał Konstytucyjny składzie: Małgorzata Pyziak-Szafnicka przewodniczący, Piotr Pszczółkowski, Stanisław Rymar, Andrzej Rzepliński, Piotr Tuleja sprawozdawca, po rozpoznaniu, udziałem skarżących, Ministra Rozwoju Finansów oraz Prokuratora Generalnego, na rozprawie dniu 6 grudnia 2016 r., połączonych skarg konstytucyjnych:
+# Wyrok Trybunału Konstytucyjnegoz dnia 6 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,26 +25,51 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2209/text.pdf) |
 
-1) spółki Przedsiębiorstwo Wielobranżowe „Bami” Mirosław Nenca, Beata Nenca-Greń spółka jawna siedzibą Człuchowie o zbadanie zgodności:
-a) lit. b ustawy dnia 28 lipca o zmianie ustawy o podatku akcyzowym (Dz. U.
-Nr 160, poz. 1341), wprowadzającego ustawy dnia 23 stycznia 2004 o podatku akcyzowym (Dz. U. Nr 29, poz. 257, ze zm.) 65 1a pkt 1,
-b) 65 1a pkt ustawy 23 stycznia 2004 powołanej lit. a, rozumianego ten sposób, że ustawowe pojęcie „użycia ich niezgodnie przeznaczeniem” należy interpretować jako nieodebranie momencie sprzedaży „oświadczenia”, o którym mowa Ministra Finansów dnia 22 kwietnia 2004 sprawie obniżenia stawek podatku akcyzowego (Dz. U. Nr 87, poz. 825, ze zm.), lub odebranie „oświadczenia” nieprawidłowego pod względem formalnym lub materialnym oraz że występujące tym przepisie pojęcie „użycie” należy interpretować również jako sprzedaż,
-c) 65 ustawy 23 stycznia 2004 powołanej lit. a, brzmieniu obowiązującym 23 sierpnia r., 2, pkt lit. b, rozumianego ten sposób, że tylko kompletne pod względem formalnym oświadczenia uprawniają sprzedawcę skorzystania preferencyjnej stawki podatku, brak zaś któregokolwiek elementu tego oświadczenia skutkuje zastosowaniem stawki określonej tego 2, 7, 9, 20, 21 1, 22, 31 32, 47, 51 1, 64, 84, 87, 91, 92 217 Konstytucji,
-2) spółki Przedsiębiorstwo Transportowo-Sprzętowe Budownictwa „Transbud Ełk” sp. o.o. siedzibą Ełku o zbadanie zgodności: r.,
-c) pkt lit. b pkt pkt 10, 5, 11 oraz 65 1, 1a pkt ustawy 23 stycznia 2004 powołanej lit. a, brzmieniu obowiązującym od 15 września 28 lutego 2009 zakresie, jakim stanowią, że sprzedawca oleju opałowego, który posiada oświadczenie nabywcy, które nie umożliwia identyfikacji tego nabywcy, jest zobowiązany zapłacić podatek akcyzowy obliczony według stawki podwyższonej, 64 2, 31 84 217 Konstytucji,
-3) Moniki Cichej o zbadanie zgodności:
-a) lit. b, brzmieniu nadanym rozporządzeniem Ministra Finansów dnia 22 grudnia 2004 zmieniającym rozporządzenie sprawie obniżenia stawek podatku akcyzowego (Dz. U. Nr 279, poz. 2763), obowiązującym od stycznia 15 września r., 65 ustawy 23 stycznia 2004 powołanej lit. a, brzmieniu obowiązującym od maja 2004 24 sierpnia r., 64 92 oraz 217 Konstytucji,
-b) 1, 5 oraz lit. b, brzmieniu nadanym rozporządzeniem powołanym lit. a, obowiązującym od stycznia 15 września r., 64 31 Konstytucji,
-4) Moniki Cichej o zbadanie zgodności:
-a) lit. b, brzmieniu nadanym rozporządzeniem Ministra Finansów dnia 13 września zmieniającym rozporządzenie sprawie obniżenia stawek podatku akcyzowego (Dz. U. Nr 177, poz. 1473), 65 1, 1a ustawy 23 stycznia 2004 powołanej lit. a, brzmieniu obowiązującym od 24 sierpnia marca 2009 r., 64 92 oraz 217 Konstytucji,
-b) 1, 5 oraz lit. b, brzmieniu nadanym rozporządzeniem powołanym lit. a, 64 31 Konstytucji,
-5) Moniki Cichej o zbadanie zgodności:
-a) lit. b, brzmieniu obowiązującym od maja 2004 15 września r., 65 ustawy 23 stycznia 2004 powołanej lit. a, brzmieniu obowiązującym od maja 2004 24 sierpnia r., 64 92 oraz 217 Konstytucji,
-b) 1, 5 oraz lit. b, brzmieniu obowiązującym od maja 2004 15 września r., 64 31 Konstytucji, orzeka:
-1. Art. 65 1a pkt ustawy dnia 23 stycznia 2004 o podatku akcyzowym (Dz. U. Nr 29, poz. 257 Nr 68, poz. 623, Nr 160, poz. 1341, 2006 Nr 169, poz. 1199, 2007 Nr 99, poz. 666 oraz 2008 Nr 118, poz. 745 Nr 145, poz. 915) ustawy dnia 28 lipca o zmianie ustawy o podatku akcyzowym (Dz. U. Nr 160, poz. 1341) zakresie, jakim odnosi się obowiązków podatkowych powstałych przed 15 września r., jest niezgodny 20, 22, 64 31 84 Konstytucji Rzeczypospolitej Polskiej.
-2. Art. 65 1a pkt ustawy o podatku akcyzowym powołanej 1, rozumiany ten sposób, że pojęcie „użycia ich niezgodnie przeznaczeniem” oznacza także sprzedaż olejów opałowych przeznaczonych na cele opałowe po uzyskaniu od nabywcy oświadczenia, o którym mowa Ministra Finansów dnia 22 kwietnia 2004 sprawie obniżenia stawek podatku akcyzowego (Dz. U. Nr 87, poz. 825, Nr 113, poz. 1190, Nr 256, poz. 2570 Nr 279, poz. 2763, Nr 40, poz. 380, Nr 103, poz. 865, Nr 177, poz. 1473, Nr 180, poz. 1498, Nr 239, poz. 2013
-4. 5 pkt 2, brzmieniu obowiązującym 14 września r., rozumiany ten sposób, że uzyskanie oświadczenia, które nie umożliwia identyfikacji nabywcy oleju opałowego, jest utożsamiane brakiem takiego oświadczenia, jest zgodny 64 31 2, 84 217 Konstytucji.
-Ponadto postanawia: na podstawie 40 pkt ustawy dnia 22 lipca 2016 o Trybunale Konstytucyjnym (Dz. U. poz. 1157) umorzyć postępowanie pozostałym zakresie.
-Orzeczenie zapadło jednogłośnie.
-Małgorzata Pyziak-Szafnicka Piotr Pszczółkowski Stanisław Rymar Andrzej Rzepliński Piotr Tuleja
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Małgorzata Pyziak-Szafnicka – przewodniczący, Piotr Pszczółkowski, Stanisław Rymar, Andrzej Rzepliński, Piotr Tuleja – sprawozdawca, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem skarżących, Ministra Rozwoju i Finansów oraz Prokuratora Generalnego, na rozprawie w dniu 6 grudnia 2016 r., połączonych skarg konstytucyjnych:
+1)
+spółki Przedsiębiorstwo Wielobranżowe „Bami” Mirosław Nenca, Beata Nenca-Greń spółka jawna z siedzibą w Człuchowie o zbadanie zgodności:
+a)
+art. 2 w związku z art. 1 lit. b ustawy z dnia 28 lipca 2005 r. o zmianie ustawy o podatku akcyzowym (Dz. U. Nr 160, poz. 1341), wprowadzającego do ustawy z dnia 23 stycznia 2004 r. o podatku akcyzowym (Dz. U. Nr 29, poz. 257, ze zm.) art. 65 ust. 1a pkt 1,
+b)
+art. 65 ust. 1a pkt 1 ustawy z 23 stycznia 2004 r. powołanej w punkcie 1 lit. a, rozumianego w ten sposób, że ustawowe pojęcie „użycia ich niezgodnie z przeznaczeniem” należy interpretować jako nieodebranie w momencie sprzedaży „oświadczenia”, o którym mowa w § 4 ust. 1 rozporządzenia Ministra Finansów z dnia 22 kwietnia 2004 r. w sprawie obniżenia stawek podatku akcyzowego (Dz. U. Nr 87, poz. 825, ze zm.), lub odebranie „oświadczenia” nieprawidłowego pod względem formalnym lub materialnym oraz że występujące w tym przepisie pojęcie „użycie” należy interpretować również jako sprzedaż,
+c)
+art. 65 ustawy z 23 stycznia 2004 r. powołanej w punkcie 1 lit. a, w brzmieniu obowiązującym do 23 sierpnia 2005 r., w związku z § 2, § 3 ust. 3, § 4 ust. 1 pkt 1 i 2 rozporządzenia powołanego w punkcie 1 lit. b, rozumianego w ten sposób, że tylko kompletne pod względem formalnym oświadczenia uprawniają sprzedawcę do skorzystania z preferencyjnej stawki podatku, brak zaś któregokolwiek elementu tego oświadczenia skutkuje zastosowaniem stawki określonej w § 3 ust. 3 tego rozporządzenia
+z art. 2, art. 7, art. 9, art. 20, art. 21 ust. 1, art. 22, art. 31 ust. 3, art. 32, art. 47, art. 51 ust. 1, art. 64, art. 84, art. 87, art. 91, art. 92 ust. 1 i art. 217 Konstytucji,
+2)
+spółki Przedsiębiorstwo Transportowo-Sprzętowe Budownictwa „Transbud Ełk” sp. z o.o. z siedzibą w Ełku o zbadanie zgodności:
+a)
+§ 4 ust. 1 pkt 2, ust. 2 i 5 w związku z § 3 ust. 3 pkt 1 rozporządzenia powołanego w punkcie 1 lit. b i w związku z art. 4 ust. 1 pkt 3, ust. 2 pkt 10, ust. 4 i 5, art. 11 ust. 1 oraz art. 65 ust. 1 i 2 ustawy z 23 stycznia 2004 r. powołanej w punkcie 1 lit. a, w brzmieniu obowiązującym od 1 maja 2004 r. do 23 sierpnia 2005 r.,
+b)
+§ 4 ust. 1 pkt 2, ust. 2 i 5 w związku z § 3 ust. 3 pkt 1 rozporządzenia powołanego w punkcie 1 lit. b i w związku z art. 4 ust. 1 pkt 3, ust. 2 pkt 10, ust. 4 i 5, art. 11 ust. 1 oraz art. 65 ust. 1, ust. 1a pkt 1 i ust. 2 ustawy z 23 stycznia 2004 r. powołanej w punkcie 1 lit. a, w brzmieniu obowiązującym od 24 sierpnia 2005 r. do 14 września 2005 r.,
+c)
+§ 4 ust. 1 pkt 2 i ust. 2 rozporządzenia powołanego w punkcie 1 lit. b w związku z art. 4 ust. 1 pkt 3, ust. 2 pkt 10, ust. 4 i 5, art. 11 ust. 1 oraz art. 65 ust. 1, ust. 1a pkt 1 i ust. 2 ustawy z 23 stycznia 2004 r. powołanej w punkcie 1 lit. a, w brzmieniu obowiązującym od 15 września 2005 r. do 28 lutego 2009 r.
+w zakresie, w jakim stanowią, że sprzedawca oleju opałowego, który posiada oświadczenie nabywcy, które nie umożliwia identyfikacji tego nabywcy, jest zobowiązany zapłacić podatek akcyzowy obliczony według stawki podwyższonej, z art. 64 ust. 1 i 3 w związku z art. 2, art. 31 ust. 3, art. 84 i art. 217 Konstytucji,
+3)
+Moniki Cichej o zbadanie zgodności:
+a)
+§ 4 ust. 1 i 2 rozporządzenia powołanego w punkcie 1 lit. b, w brzmieniu nadanym rozporządzeniem Ministra Finansów z dnia 22 grudnia 2004 r. zmieniającym rozporządzenie w sprawie obniżenia stawek podatku akcyzowego (Dz. U. Nr 279, poz. 2763), obowiązującym od 1 stycznia 2005 r. do 15 września 2005 r., w związku z art. 65 ust. 1 i 2 ustawy z 23 stycznia 2004 r. powołanej w punkcie 1 lit. a, w brzmieniu obowiązującym od 1 maja 2004 r. do 24 sierpnia 2005 r., z art. 64 ust. 1 i 3 w związku z art. 92 ust. 1 oraz art. 217 Konstytucji,
+b)
+§ 4 ust. 1, 2 i 5 w związku z § 3 ust. 3 oraz § 3 ust. 1 rozporządzenia powołanego w punkcie 1 lit. b, w brzmieniu nadanym rozporządzeniem powołanym w punkcie 3 lit. a, obowiązującym od 1 stycznia 2005 r. do 15 września 2005 r., z art. 64 ust. 1 i 3 w związku z art. 2 i art. 31 ust. 3 Konstytucji,
+4)
+Moniki Cichej o zbadanie zgodności:
+a)
+§ 4 ust. 1 i 2 rozporządzenia powołanego w punkcie 1 lit. b, w brzmieniu nadanym rozporządzeniem Ministra Finansów z dnia 13 września 2005 r. zmieniającym rozporządzenie w sprawie obniżenia stawek podatku akcyzowego (Dz. U. Nr 177, poz. 1473), w związku z art. 65 ust. 1, 1a i 2 ustawy z 23 stycznia 2004 r. powołanej w punkcie 1 lit. a, w brzmieniu obowiązującym od 24 sierpnia 2005 r. do 1 marca 2009 r., z art. 64 ust. 1 i 3 w związku z art. 92 ust. 1 oraz art. 217 Konstytucji,
+b)
+§ 4 ust. 1, 2 i 5 w związku z § 3 ust. 3 oraz § 3 ust. 1 rozporządzenia powołanego w punkcie 1 lit. b, w brzmieniu nadanym rozporządzeniem powołanym w punkcie 3 lit. a, z art. 64 ust. 1 i 3 w związku z art. 2 i art. 31 ust. 3 Konstytucji,
+5)
+Moniki Cichej o zbadanie zgodności:
+a)
+§ 4 ust. 1 i 2 rozporządzenia powołanego w punkcie 1 lit. b, w brzmieniu obowiązującym od 1 maja 2004 r. do 15 września 2005 r., w związku z art. 65 ust. 1 i 2 ustawy z 23 stycznia 2004 r. powołanej w punkcie 1 lit. a, w brzmieniu obowiązującym od 1 maja 2004 r. do 24 sierpnia 2005 r., z art. 64 ust. 1 i 3 w związku z art. 92 ust. 1 oraz art. 217 Konstytucji,
+b)
+§ 4 ust. 1, 2 i 5 w związku z § 3 ust. 3 oraz § 3 ust. 1 rozporządzenia powołanego w punkcie 1 lit. b, w brzmieniu obowiązującym od 1 maja 2004 r. do 15 września 2005 r., z art. 64 ust. 1 i 3 w związku z art. 2 i art. 31 ust. 3 Konstytucji,
+orzeka:
+1.
+Art. 65 ust. 1a pkt 1 ustawy z dnia 23 stycznia 2004 r. o podatku akcyzowym (Dz. U. Nr 29, poz. 257 i Nr 68, poz. 623, z 2005 r. Nr 160, poz. 1341, z 2006 r. Nr 169, poz. 1199, z 2007 r. Nr 99, poz. 666 oraz z 2008 r. Nr 118, poz. 745 i Nr 145, poz. 915) w związku z art. 2 ustawy z dnia 28 lipca 2005 r. o zmianie ustawy o podatku akcyzowym (Dz. U. Nr 160, poz. 1341) w zakresie, w jakim odnosi się do obowiązków podatkowych powstałych przed 15 września 2005 r., jest niezgodny z art. 20, art. 22, art. 64 ust. 1 i 3 w związku z art. 31 ust. 3, art. 2 i art. 84 Konstytucji Rzeczypospolitej Polskiej.
+2.
+3.
+§ 4 ust. 1 i 2 w związku z § 3 ust. 1 rozporządzenia powołanego w punkcie 2 jest zgodny z art. 64 ust. 1 i 3 w związku z art. 31 ust. 3, art. 2, art. 84, art. 92 ust. 1 i art. 217 Konstytucji.
+4.
+§ 4 ust. 5 w związku z § 3 ust. 3 pkt 1 rozporządzenia powołanego w punkcie 2, w brzmieniu obowiązującym do 14 września 2005 r., rozumiany w ten sposób, że uzyskanie oświadczenia, które nie umożliwia identyfikacji nabywcy oleju opałowego, jest utożsamiane z brakiem takiego oświadczenia, jest zgodny z art. 64 ust. 1 i 3 w związku z art. 31 ust. 3, art. 2, art. 84 i art. 217 Konstytucji.
+Ponadto postanawia: na podstawie art. 40 ust. 1 pkt 1 ustawy z dnia 22 lipca 2016 r. o Trybunale Konstytucyjnym (Dz. U. poz. 1157) umorzyć postępowanie w pozostałym zakresie. Orzeczenie zapadło jednogłośnie.
 

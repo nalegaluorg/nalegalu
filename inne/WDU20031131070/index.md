@@ -8,9 +8,10 @@ pos: 1070
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ustawa z dnia 22 maja 2003 r. o zmianie ustawy - Prawa telekomunikacyjne oraz o zmianie niektórych ustaw
+# Ustawa z dnia 22 maja 2003 r. o zmianie ustawy – Prawo telekomunikacyjne oraz o zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,238 +25,624 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031131070) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1070/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 21 czerwca 2001 r. oochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. 71, poz. 733 oraz z2002 r. 113, poz. 984 iNr 168, poz. 1383) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 lipca 2000 r. – Prawo telekomunikacyjne (Dz. U. Nr 73, poz. 852, z 2001 r. Nr 122, poz. 1321 i Nr 154, poz. 1800 i 1802, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 166, poz. 1360 oraz z 2003 r. Nr 50, poz. 424) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 21 lipca 2000 r. Prawo telekomunikacyjne (Dz. U. 73, poz. 852, z 2001 r. 122, poz. 1321 i 154, poz. 1800 i 1802, z 2002 r. 25, poz. 253, 74, poz. 676 iNr 166, poz. 1360 oraz
+**Art. 2.** Określenia użyte w ustawie oznaczają:
 
-**Art. 69b.**
+**Art. 13a.** Operator nie może posiadać na tym samym obszarze zezwoleń, o ile jednocześnie zachodzą następujące warunki:
+
+**Art. 29.**
+
+1. Za wydanie lub zmianę zezwolenia pobiera się opłatę. Opłata stanowi dochód budżetu państwa.
+
+2. Minister właściwy do spraw łączności, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość i terminy uiszczania opłat za wydanie lub zmianę zezwolenia, z uwzględnieniem zasady, że opłaty te nie mogą przewyższać odpowiednio kosztów wydania lub zmiany zezwolenia. ” ;
+
+- **17)** w art. 30 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Obowiązek uiszczania opłat za prawo do wykorzystywania zasobów numeracji ustaje nie później niż z upływem 30 dni od daty złożenia wniosku o cofnięcie przydziału tej numeracji. ” ;
+
+- **18)** art. 31 otrzymuje brzmienie: „
+
+**Art. 31.**
+
+1. Podmiot, który uzyskał prawo do dysponowania częstotliwością w rezerwacji częstotliwości, uiszcza:
+
+- **1)** jednorazową opłatę za dokonanie rezerwacji częstotliwości, jeżeli wybór podmiotu nastąpił w drodze przetargu,
+- **2)** roczne opłaty za prawo do dysponowania częstotliwością.
+
+2. Podmiot nieposiadający rezerwacji częstotliwości, który uzyskał prawo do wykorzystywania częstotliwości w pozwoleniu, uiszcza roczne opłaty za prawo do wykorzystywania częstotliwości.
+
+3. Opłata, o której mowa w ust. 2, nie dotyczy podmiotu świadczącego usługę innemu podmiotowi z wykorzystaniem częstotliwości będącej w dyspozycji tego podmiotu na podstawie rezerwacji częstotliwości, o której mowa w art. 22 ust. 2 pkt 2.
+
+4. Podmiot, który zadeklarował w przetargu, o którym mowa w art. 24 ust. 1, kwotę wyższą niż wysokość opłaty, o której mowa w ust. 1 pkt 1, uiszcza tę opłatę w kwocie zadeklarowanej w przetargu.
+
+5. Opłaty, o których mowa w ust. 1 pkt 2 i ust. 2, nie mogą być wyższe niż:
+
+- **1)** w służbie radiokomunikacji ruchomej lądowej: za prawo do wykorzystywania jednego kanału radiowego w sieci telekomunikacyjnej – 24 000 złotych, za prawo do wykorzystywania jednego dupleksowego kanału radiowego w publicznej sieci telefonii ruchomej o strukturze komórkowej – 3 000 000 złotych,
+    - **a)**
+    - **b)**
+
+- **2)** w służbie radiokomunikacji stałej lądowej: w zakresie częstotliwości poniżej 30 MHz, za prawo do wykorzystywania jednego kanału radiowego o szerokości 4 kHz – 8 000 złotych, dla linii radiowych typu punkt – punkt (PP): – za prawo do wykorzystywania jednego kanału radiowego (1 przęsło) – 400 000 złotych, – za prawo do wykorzystywania jednego kanału radiowego w liniach radiowych przewoźnych, w przypadku linii służących do łączności awaryjnej lub tymczasowej – 100 000 złotych, i w pozostałych przypadkach – 300 000 złotych, dla linii radiowych typu punkt – wiele punktów (PMP) za prawo do wykorzystywania częstotliwości w liniach radiowych typu punkt – wiele punktów (PMP), stosowanych w stacjonarnych sieciach o strukturze komórkowej, za każdy 1 MHz wykorzystywanego widma częstotliwości – 800 zł, dla systemów radiowych dostępu abonenckiego (RSŁA): – za prawo do wykorzystywania częstotliwości w łączu jednokanałowym RSŁA – 200 złotych, – za prawo do wykorzystywania częstotliwości przez każdą stację bazową pracującą w systemie radiowego dostępu abonenckiego wykorzystującego standard cyfrowych telefonów bezprzewodowych DECT lub CT2 – 1 200 złotych, – za prawo do wykorzystywania częstotliwości przez każdą stację bazową lub przekaźnikową pracującą w systemach radiowego dostępu abonenckiego z rozproszeniem widma (SS), za każdy 1 MHz wykorzystywanego pasma – 800 złotych,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **3)** w służbie radiokomunikacji satelitarnej: za prawo do wykorzystywania częstotliwości przez każdą stałą naziemną stację satelitarną pracującą w służbie stałej satelitarnej – 14 500 złotych, za prawo do wykorzystywania częstotliwości w służbie stałej satelitarnej służącej do dosyłania sygnałów radiodyfuzyjnych w relacji „Ziemia – satelita”, wykonywanej za pomocą jednej stałej naziemnej stacji satelitarnej, za każde 10 kHz wykorzystywanego widma częstotliwości – 130 złotych, za prawo do wykorzystywania częstotliwości w służbie radiokomunikacyjnej satelitarnej, przez jedną naziemną stację satelitarną pracującą w sieci typu VSAT: – dla stacji centralnej zarządzającej siecią stacji końcowych oraz stacji końcowej pełniącej funkcje sterujące siecią, za każdy 1 kHz widma wykorzystywanych częstotliwości – 130 złotych, – dla stacji końcowej zwykłej – 130 złotych, za prawo do wykorzystywania częstotliwości przez jedną stałą naziemną stację satelitarną używaną przez jednostkę budżetową wyłącznie do celów szkoleniowych – 2 400 złotych,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **4)** w służbie radiokomunikacji morskiej i żeglugi śródlądowej oraz w służbie radiokomunikacji lotniczej: za prawo do wykorzystania jednego kanału radiowego w radiokomunikacji lotniczej w zakresie częstotliwości 117,975–137,000 MHz przez jedną stację lotniskową w relacji „Ziemia – statek powietrzny” – 1 000 złotych, za prawo do wykorzystywania jednej częstotliwości w systemach radionawigacji i radiolokacji – 600 złotych, za prawo do wykorzystywania jednego kanału radiowego szerokości 30,3 kHz przez naziemną stację pracującą w systemie telefonii publicznej dla pasażerów (TFTS) – 1 200 złotych, za prawo do wykorzystywania częstotliwości w radiokomunikacji morskiej i żeglugi śródlądowej przez każdą stację nadbrzeżną w relacji „brzeg – statek”: – za jeden kanał w paśmie morskim ultrakrótkofalowym VHF – 1 000 złotych, – za jedno pasmo poza pasmem morskim ultrakrótkofalowym VHF – 6 000 złotych, za prawo do wykorzystywania jednego kanału radiowego w radiokomunikacji morskiej i żeglugi śródlądowej w paśmie ultrakrótkofalowym VHF przez każdą stację przewoźną lub przenośną w relacji „brzeg – statek” nie pracującą na podstawie pozwolenia statkowego – 800 złotych,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **5)** w radiofonii: za prawo do wykorzystywania jednej częstotliwości przez jedną stację radiofoniczną w zakresie fal ultrakrótkich UKF FM (66–74 MHz i 87,5–108 MHz) – 79 200 złotych, za prawo do wykorzystywania jednej częstotliwości przez jedną stację radiofoniczną w zakresie fal długich (30–300 kHz) – 20 000 złotych, za prawo do wykorzystywania jednej częstotliwości przez jedną stację radiofoniczną w zakresie fal średnich (300–3 000 kHz) – 4 000 złotych, za prawo do wykorzystywania jednej częstotliwości przez jedną stację radiofoniczną w zakresie fal krótkich (3–30 MHz) – 8 000 złotych, za prawo do wykorzystywania jednej częstotliwości przez jedną stację radiofoniczną pracującą zgodnie ze standardem naziemnej radiofonii cyfrowej T-DAB – 2 400 złotych,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **6)** w telewizji: za prawo do wykorzystywania jednego kanału telewizyjnego przez jedną stację telewizyjną analogową – 118 800 złotych, za prawo do wykorzystywania jednego kanału telewizyjnego przez jedną stację telewizyjną pracującą zgodnie ze standardem naziemnej telewizji cyfrowej DVB-T – 4 800 złotych.
+    - **a)**
+    - **b)**
+
+6. Limity opłat, o których mowa w ust. 5, obniża się do 50 % w przypadku:
+
+- **1)** stacji nadawczych i nadawczo-odbiorczych zlokalizowanych na obszarach administracyjnych miast liczących poniżej 100 000 mieszkańców,
+- **2)** stacji radiofonicznych i telewizyjnych o mocy promieniowanej poniżej 0,1 kW zlokalizowanych na obszarach administracyjnych miast liczących poniżej 100 000 mieszkańców oraz na obszarach odległych o ponad 20 km od środka obszaru administracyjnego miasta liczącego ponad 100 000 mieszkańców,
+- **3)** służb radiokomunikacji lądowej przeznaczonych wyłącznie do świadczenia doraźnej pomocy przy ratowaniu życia i zdrowia ludzkiego przez jednostki służby zdrowia,
+- **4)** prowadzenia akcji przez jednostki organizacyjne, których statutowym obowiązkiem jest planowanie, prowadzenie i uczestnictwo w akcjach zapobiegania i łagodzenia skutków klęsk żywiołowych i katastrof,
+- **5)** operatorów ogólnokrajowych sieci radiokomunikacji ruchomej lądowej o jednolitej strukturze działania na obszarze kraju,
+- **6)** przeprowadzania badań, eksperymentów oraz dla zapewnienia okazjonalnego przekazu informacji.
+
+7. Komórki organizacyjne, organy i jednostki organizacyjne, o których mowa w art. 4 ust. 1 pkt 1, 2, 4, 5 i 7 wnoszą opłaty za prawo do dysponowania częstotliwością. Opłaty za prawo do dysponowania częstotliwością przez jednostki sił zbrojnych państw obcych, przebywające czasowo na terytorium Rzeczypospolitej Polskiej na podstawie odrębnych przepisów, zawarta jest w opłacie ryczałtowej za prawo do dysponowania częstotliwością, wnoszonej przez Ministra Obrony Narodowej.
+
+8. Opłaty, o których mowa w ust. 1, 2 i 7, są pobierane przez URTiP i stanowią dochód budżetu państwa.
+
+9. Obowiązek uiszczania opłat za prawo do wykorzystania częstotliwości oraz za prawo do dysponowania częstotliwością w rezerwacji ustaje nie później niż z upływem 30 dni od daty złożenia wniosku o rezygnację z prawa do wykorzystywania częstotliwości albo z prawa do dysponowania nią w rezerwacji.
+
+10. W przypadku utraty prawa do wykorzystywania częstotliwości wskutek cofnięcia pozwolenia, uiszczone opłaty nie podlegają zwrotowi.
+
+11. W razie opóźnienia w uiszczaniu opłat są naliczane odsetki w wysokości jak dla zaległości podatkowych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452 oraz z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387).
+
+12. Rada Ministrów określi, w drodze rozporządzenia, minimalną wysokość opłaty, o której mowa w ust. 1 pkt 1, wysokość opłat, o których mowa w ust. 1 pkt 2 i ust. 2, oraz terminy i sposób ich uiszczania, rodzaje podmiotów lub zakresy częstotliwości zwolnione z tych opłat, mając na uwadze kwoty określone w ust. 5, warunki wykorzystania częstotliwości przez te podmioty, kierując się przy tym kosztami prowadzenia gospodarki zasobami częstotliwości, a także potrzebą zagwarantowania optymalnego wykorzystania zasobów częstotliwości.
+
+13. Rada Ministrów określi, w drodze rozporządzenia, wysokość, terminy i sposób uiszczania opłat, o których mowa w ust. 7, oraz rodzaje podmiotów lub zakresy częstotliwości zwolnione z tych opłat, z uwzględnieniem specyfiki wykorzystania częstotliwości przez te organy, komórki i jednostki. ” ;
+
+- **19)** w art. 32 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** finansowanie prac naukowych i badawczo-rozwojowych oraz opinii i ekspertyz, w zakresie działania Prezesa URTiP, o którym mowa w art. 110 ust. 1, ” ;
+- **20)** w art. 34: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Operator może uzależnić zawarcie umowy o świadczenie usług telekomunikacyjnych, a także świadczenie usług telekomunikacyjnych od ustalenia danych użytkownika, o których mowa w art. 69 ust. 2 pkt 1–6, na podstawie dokumentu tożsamości przedstawionego przez użytkownika. ” , po ust. 3a dodaje się ust. 3b i 3c w brzmieniu: „
+
+- **b)**
+
+3b. Przepisu ust. 3 nie stosuje się do użytkownika korzystającego z publicznie dostępnego telefonu, w którym połączenie jest opłacane automatycznie, w szczególności za pomocą monety, żetonu, karty telefonicznej albo karty płatniczej, zwanego dalej „aparatem publicznym”.
+
+3c. Operator publiczny może uzależnić zawarcie umowy o świadczenie usług telekomunikacyjnych od:
+
+- **1)** dostarczenia przez użytkownika dokumentów potwierdzających możliwość wykonania zobowiązania wobec operatora wynikającego z umowy,
+- **2)** wiarygodności płatniczej użytkownika wynikającej z danych będących w posiadaniu operatora publicznego lub udostępnionych mu przez innego operatora publicznego. Operator publiczny powiadamia użytkownika o wystąpieniu takiego zastrzeżenia oraz przekazuje użytkownikowi informacje o podmiocie, który udostępnił dane uzasadniające zastrzeżenie operatora. ” , w ust. 5 skreśla się wyrazy „, z zastrzeżeniem art. 51 ust. 7”;
+    - **c)**
+
+- **21)** w art. 35: w ust. 2 skreśla się wyrazy „, zapewniających równe traktowanie użytkowników”, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. W razie podwyższenia cen usług telekomunikacyjnych operator jest obowiązany – z wyprzedzeniem co najmniej jednego okresu rozliczeniowego – do:
+
+- **1)** w przypadku abonentów – powiadomienia ich o tym na piśmie,
+- **2)** w pozostałych przypadkach – podania tego do publicznej wiadomości. ” ;
+- **22)** w art. 37 ust. 1 otrzymuje brzmienie: „
+
+1. Operatorzy, których roczny przychód ze świadczenia usług telekomunikacyjnych w poprzednim roku kalendarzowym przekroczył równowartość 2 milionów euro, są obowiązani do przedkładania Prezesowi URTiP, w terminie do dnia 30 czerwca, sprawozdania z działalności telekomunikacyjnej w poprzednim roku kalendarzowym zawierającego:
+
+- **1)** roczne sprawozdanie finansowe,
+- **2)** dane dotyczące rodzaju i zakresu prowadzonej działalności telekomunikacyjnej oraz wielkości sprzedaży usług telekomunikacyjnych,
+- **3)** dane o jakości świadczonych usług powszechnych. ” ;
+- **23)** w art. 37 w ust. 2 i dwukrotnie w ust. 3, w art. 125 w ust. 3 w pkt 2, w ust. 4 i dwukrotnie w ust. 6 wyraz „EURO” zastępuje się wyrazem „euro”;
+- **24)** w art. 39 uchyla się ust. 2;
+- **25)** w art. 40 w ust. 2 wyrazy „uprawnionych jednostek organizacyjnych podległych ministrowi właściwemu do spraw wewnętrznych” zastępuje się wyrazami „uprawnionych organów i jednostek organizacyjnych nadzorowanych lub podległych ministrowi właściwemu do spraw wewnętrznych”;
+- **26)** w art. 42: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Użytkownik może dołączać do udostępnionych zakończeń sieci publicznej, w sposób zgodny z prawem, urządzenia końcowe spełniające zasadnicze wymagania określone w art. 88 ust. 1 i 2. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+
+- **b)**
+- **1)** dołączania do sieci publicznej urządzeń telekomunikacyjnych niespełniających zasadniczych wymagań, o których mowa w art. 88 ust. 1 i 2, lub urządzeń nieprzeznaczonych do dołączania do sieci publicznej, nawet gdy spełniają te wymagania, ” ;
+- **27)** w art. 43: po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+
+2a. Abonent stacjonarnej publicznej sieci telefonicznej może żądać zachowania przydzielonego numeru przy zmianie operatora świadczącego usługi. W przypadku numerów mających powiązanie z danym obszarem uprawnienie to ogranicza się do obszaru strefy numeracyjnej. Do udostępniania numeracji pomiędzy operatorami, związanego z wykonywaniem niniejszego uprawnienia, stosuje się art. 101. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Abonent stacjonarnej publicznej sieci telefonicznej eksploatowanej przez operatora o znaczącej pozycji rynkowej w zakresie świadczenia usług telefonicznych świadczonych w tej sieci może wybrać operatora publicznego świadczącego usługi telefoniczne lub inne usługi wykorzystujące techniki komutacji. Z tytułu dokonania wyboru nie przysługuje roszczenie w stosunku do abonenta. ” , w ust. 4 po wyrazie „telefonicznych” dodaje się wyrazy „na danym obszarze”;
+
+- **c)**
+- **28)** po art. 43 dodaje się art. 43a w brzmieniu: „
+
+**Art. 43a.**
+
+1. Za przenoszenie numerów przy zmianie operatora stacjonarnej publicznej sieci telefonicznej mogą być pobierane od abonentów opłaty określone w cenniku tego operatora, uwzględniające ponoszone przez niego koszty.
+
+2. W przypadku operatora o znaczącej pozycji rynkowej w zakresie świadczenia usług telefonicznych w stacjonarnych publicznych sieciach telefonicznych usługi związane z przenoszeniem numerów oferowane innym operatorom publicznym powinny być częścią oferty, o której mowa w art. 79.
+
+3. W przypadku operatora o znaczącej pozycji rynkowej w zakresie świadczenia usług telefonicznych w stacjonarnych publicznych sieciach telefonicznych do usług związanych z przenoszeniem numerów oferowanych innym operatorom publicznym stosuje się odpowiednio art. 80 ust. 1 i 4–6 oraz art. 83–85. ” ;
+
+- **29)** w art. 46 w ust. 3 po wyrazie „Operator” dodaje się wyrazy „o znaczącej pozycji rynkowej”;
+- **30)** art. 49 otrzymuje brzmienie: „
+
+**Art. 49.**
+
+1. Operator publiczny o znaczącej pozycji rynkowej w zakresie świadczenia usług telefonicznych w stacjonarnych publicznych sieciach telefonicznych na obszarze województwa, obowiązany jest do zawarcia z użytkownikiem końcowym umowy o świadczenie usług telefonicznych oraz świadczenia mu usług telefonicznych umożliwiających komunikowanie się z innymi użytkownikami końcowymi przyłączonymi do publicznych sieci telefonicznych, faksu i transmisji danych w paśmie fonicznym, z wykorzystaniem modemów, dostępu do internetu szkół publicznych, placówek oświatowych, bibliotek i szkół wyższych, o odpowiedniej przepustowości, z wyłączeniem usług dostępu do sieci, wraz ze świadczeniami dodatkowymi polegającymi na:
+
+- **1)** udzielaniu informacji o numerach abonentów,
+- **2)** udogodnieniach dla osób niepełnosprawnych,
+- **3)** dostarczaniu, na pisemne żądanie abonenta, szczegółowego wykazu wykonanych mu usług telekomunikacyjnych zwanych dalej „usługami powszechnymi”, które powinny być dostępne użytkownikowi końcowemu, z zachowaniem wymaganej jakości i po przystępnej cenie, na obszarze całego kraju.
+
+2. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, katalog usług powszechnych, szczegółowe wymagania dotyczące świadczenia usług powszechnych, w tym wymagania dotyczące ich jakości, dostępności i przystępności cenowej, wymagania dotyczące przepustowości a także liczby aparatów publicznych, w tym przystosowanych dla osób niepełnosprawnych, mając na uwadze poziom rozwoju telefonizacji kraju. ” ;
+
+- **31)** w art. 51: w ust. 1 kropkę zastępuje się przecinkiem i dodaje się wyrazy „z zastrzeżeniem art. 34 ust. 3.”, uchyla się ust. 3, w ust. 7 kropkę zastępuje się przecinkiem i dodaje się wyrazy „z zastrzeżeniem art. 34 ust. 5.”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **32)** w art. 53: w ust. 1 skreśla się wyraz „zasadniczych”, w ust. 3 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **1)** ograniczyć świadczenie usług telekomunikacyjnych w pierwszej kolejności niebędących usługami powszechnymi, utrzymując świadczenie usług niepowiększających zadłużenia abonenta, w tym przekazywanie połączeń do abonenta lub połączenia nieodpłatne, jeżeli abonent pozostaje w opóźnieniu z płatnością należności za wykonanie usług telekomunikacyjnych przez okres dłuższy niż jeden okres rozliczeniowy, ” ;
+- **33)** w art. 56 w ust. 1–4 wyrazy „biura numerów” zastępuje się wyrazami „polegającej na udzielaniu informacji o numerach abonentów”;
+- **34)** w dziale III tytuł rozdziału 3 otrzymuje brzmienie: „ Podmioty o znaczącej pozycji rynkowej ” ;
+- **35)** w art. 57: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W zakresie określonym w ust. 4 Prezes URTiP, w porozumieniu z Prezesem Urzędu Ochrony Konkurencji i Konsumentów, ustala, w drodze decyzji, że na obszarze wskazanym w decyzji operator jest operatorem o znaczącej pozycji rynkowej w zakresie świadczenia określonej usługi telekomunikacyjnej, jeżeli udział operatora w rynku świadczenia danej usługi na tym obszarze jest równy lub większy od 25%, z zastrzeżeniem ust. 3. ” , w ust. 3 wyrazy „ust. 1 pkt 2” zastępuje się wyrazami „ust. 1”, ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+
+4. Prezes URTiP wydaje decyzje, o których mowa w ust. 1–3, w zakresie świadczenia usług:
+
+- **1)** telefonicznych świadczonych w stacjonarnych publicznych sieciach telefonicznych,
+- **2)** telefonicznych świadczonych w ruchomych publicznych sieciach telefonicznych,
+- **3)** dzierżawy łączy telekomunikacyjnych,
+- **4)** na krajowym rynku połączeń międzyoperatorskich, w tym połączeń wewnątrzsieciowych. ” , ust. 5 otrzymuje brzmienie: „
+    - **d)**
+
+5. Prezes URTiP sporządza wykaz operatorów o znaczącej pozycji rynkowej i publikuje go w Biuletynie URTiP, nie rzadziej niż raz w roku. ” , uchyla się ust. 8;
+
+- **e)**
+- **36)** w art. 58: w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Operator obowiązany do świadczenia usług powszechnych przedkłada Prezesowi URTiP: ” , ust. 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+5. Operator, o którym mowa w ust. 1, jest obowiązany do zawierania umów o świadczenie tych usług na warunkach nie gorszych, dla drugiej strony umowy, od określonych we wzorach umów nieobjętych sprzeciwem Prezesa URTiP. ” ;
+
+- **37)** art. 59 otrzymuje brzmienie: „
+
+**Art. 59.**
+
+1. Ceny usług powszechnych świadczonych przez operatora obowiązanego do świadczenia usług powszechnych powinny być ustalane na podstawie obiektywnych kryteriów zapewniających równe traktowanie użytkowników, uwzględniać koszt świadczenia usług, być niezależne od sposobu wykonywania usługi, z wyjątkiem przypadku gdy użytkownik wymaga dodatkowych usług lub świadczeń, oraz nie mogą uwzględniać kosztów świadczeń dodatkowych niezwiązanych ze świadczeniem usługi żądanej przez użytkownika.
+
+2. Operatorzy o znaczącej pozycji rynkowej w zakresie świadczenia usług, o których mowa w art. 57 ust. 4 pkt 1, są obowiązani do:
+
+- **1)** kalkulacji kosztów odrębnie dla każdej z usług powszechnych oraz dla rozliczeń wynikających z umów o połączeniu sieci, zawartych z innymi operatorami,
+- **2)** prowadzenia rachunkowości w sposób zapewniający wyodrębnienie aktywów i pasywów, przychodów i kosztów, na poszczególne rodzaje działalności oraz ustalenie przychodów i związanych z nimi kosztów odrębnie dla każdej z usług i rozliczeń, objętych kalkulacją kosztów.
+
+3. Operatorzy, o znaczącej pozycji rynkowej w zakresie świadczenia usług, o których mowa w art. 57 ust. 4 pkt 3 i 4, są obowiązani do:
+
+- **1)** kalkulacji kosztów odrębnie dla każdej z usług, w której zajmują znaczącą pozycję rynkową oraz dla rozliczeń wynikających z umów o połączeniu sieci, zawartych z innymi operatorami,
+- **2)** prowadzenia rachunkowości w sposób zapewniający wyodrębnienie aktywów i pasywów, przychodów i kosztów, na poszczególne rodzaje działalności oraz ustalenie przychodów i związanych z nimi kosztów odrębnie dla każdej z usług i rozliczeń, objętych kalkulacją kosztów.
+
+4. Minister właściwy do spraw łączności, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia:
+
+- **1)** sposoby przypisania aktywów i pasywów, przychodów i kosztów, o których mowa w ust. 2 pkt 2 i ust. 3 pkt 2, do działalności: w zakresie sieci dostępowej, polegającej na zapewnieniu dostępu do sieci transportowej, obejmującej wszystkie elementy sieci biorące udział w zapewnieniu użytkownikom dostępu do stacjonarnej sieci telekomunikacyjnej, w zakresie sieci transportowej, polegającej na świadczeniu usług wewnętrznego i zewnętrznego udostępniania tej sieci, detalicznej, polegającej na świadczeniu użytkownikom końcowym usług telefonicznych, usług transmisji danych w paśmie fonicznym za pomocą modemów oraz usług dzierżawy łączy telekomunikacyjnych,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** sposób kalkulacji kosztów i bazę ich obliczania, stosowany przez operatorów oraz termin jego wprowadzenia, przyjmując zasadę, iż sposób kalkulacji kosztów powinien zapewniać ustalenie cen na podstawie kosztów uzasadnionych, być wzajemnie porównywalny, a także powinien umożliwiać rozdzielenie kosztów ponoszonych przez operatora z tytułu świadczenia każdej z usług, w której zajmuje znaczącą pozycję rynkową, od kosztów, które nie mogą być bezpośrednio przypisane do świadczenia zarówno danej usługi, jak i innych usług telekomunikacyjnych,
+- **3)** wskaźnik zwrotu kosztu zaangażowanego kapitału, który operator uwzględni w kalkulacji kosztów, z uwzględnieniem udokumentowanych rzeczywistych kosztów pozyskania kapitału,
+- **4)** sposób i terminy dokonywania aktualizacji wyceny określonych rodzajów środków trwałych i wartości niematerialnych i prawnych oraz dokonanych od tych środków i wartości odpisów amortyzacyjnych,
+- **5)** tryb i terminy uzgadniania i zatwierdzania przez Prezesa URTiP opracowanej przez operatora szczegółowej instrukcji w zakresie wyodrębnienia i przypisania aktywów i pasywów, przychodów i kosztów, na regulowane rodzaje działalności oraz opisu kalkulacji kosztów,
+- **6)** zakres i terminy przekazywania Prezesowi URTiP: sprawozdań dotyczących poszczególnych rodzajów działalności objętej regulacją, przyjmując zasadę, iż dane zawarte w sprawozdaniach są sprawdzalne w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694 oraz z 2003 r. Nr 60, poz. 535), wyników kalkulacji kosztów, odrębnie dla każdej z usług i rozliczeń, o których mowa w ust. 2 pkt 1 i w ust. 3 pkt 1 uwzględniając konieczność ochrony konsumentów i konkurentów przed nadużywaniem przez tych operatorów znaczącej pozycji rynkowej, konieczność stymulowania rozwoju rynku telekomunikacyjnego oraz konieczność umożliwienia działalności kontrolnej Prezesowi URTiP wobec działalności prowadzonej przez tych operatorów.
+    - **a)**
+    - **b)**
+
+5. Prezes URTiP, w drodze decyzji, zatwierdza instrukcję, o której mowa w ust. 4 pkt 5, oraz opis kalkulacji kosztów.
+
+6. Sprawozdania oraz wyniki kalkulacji kosztów, o których mowa w ust. 4 pkt 6, podlegają opinii biegłego rewidenta w ramach badania lub przeglądu sprawozdania finansowego dokonywanego na podstawie odrębnych przepisów.
+
+7. Wyniki kalkulacji kosztów usług i rozliczeń wynikających z umów o połączeniu sieci, o których mowa w ust. 3 pkt 1, podlegają badaniu zgodności z zasadami określonymi w ustawie i rozporządzeniu, o którym mowa w ust. 4. Badanie jest przeprowadzane na koszt operatora przez niezależny podmiot wyznaczony przez Prezesa URTiP.
+
+8. Prezes URTiP może zasięgać opinii niezależnych biegłych rewidentów oraz ekspertów w przypadku wątpliwości dotyczących opracowanej przez operatora szczegółowej instrukcji i opisu kalkulacji kosztów oraz rzetelności i wiarygodności danych zawartych w sprawozdaniach i wynikach kalkulacji kosztów, o których mowa w ust. 4 pkt 5 i 6. ” ;
+
+- **38)** w art. 60: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Operator obowiązany do świadczenia usług powszechnych przedkłada Prezesowi URTiP projekt cennika usług powszechnych lub jego zmian, wraz z uzasadnieniem, co najmniej na 30 dni przed planowanym terminem wprowadzenia cennika lub jego zmian w życie. ” , w ust. 5 wyrazy „o przeciwdziałaniu praktykom monopolistycznym i ochronie interesów konsumentów” zastępuje się wyrazami „o ochronie konkurencji i konsumentów”;
+
+- **b)**
+- **39)** w art. 61: w ust. 2 wyrazy „ust. 2 pkt 2” zastępuje się wyrazami „ust. 1 i 2”, ust. 6 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+6. Ceny usługi dzierżawy łączy telekomunikacyjnych świadczonej abonentowi przez operatorów o znaczącej pozycji rynkowej na tym rynku powinny uwzględniać koszt ich świadczenia i być niezależne od sposobu wykonania usługi, jeżeli abonent nie żąda świadczeń dodatkowych. Do cenników za usługę dzierżawy łączy telekomunikacyjnych stosuje się odpowiednio art. 60. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+
+- **c)**
+
+6a. Do ustalenia ceny usług dzierżawy łączy telekomunikacyjnych świadczonej operatorom przez operatorów o znaczącej pozycji rynkowej na tym rynku stosuje się odpowiednio art. 80 ust. 1 i 4–6. ” , ust. 7 otrzymuje brzmienie: „
+
+- **d)**
+
+7. Operatorzy o znaczącej pozycji rynkowej w zakresie świadczenia usługi dzierżawy łączy telekomunikacyjnych są obowiązani do opracowania ramowej oferty określającej warunki zawierania z innymi operatorami umów dzierżawy łączy telekomunikacyjnych. Do oferty stosuje się odpowiednio przepisy art. 79, art. 81 pkt 4 oraz art. 82. ” , po ust. 7 dodaje się ust. 7a w brzmieniu: „
+
+- **e)**
+
+7a. Do umów o świadczenie przez operatora o znaczącej pozycji rynkowej innym operatorom usług dzierżawy łączy telekomunikacyjnych stosuje się odpowiednio art. 83–86. ” , ust. 8 otrzymuje brzmienie: „
+
+- **f)**
+
+8. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, minimalny zestaw rodzajów łączy telekomunikacyjnych, jaki powinien być oferowany przez operatora o znaczącej pozycji rynkowej w zakresie usługi dzierżawy łączy telekomunikacyjnych, wraz z odpowiednimi wymaganiami techniczno-eksploatacyjnymi, a także zasady rozliczeń i kalkulacji opłat z tego tytułu oraz minimalny zakres oferty, o której mowa w ust. 7, kierując się dążeniem do stworzenia warunków dla efektywnego świadczenia usługi. ” ;
+
+- **40)** uchyla się art. 62;
+- **41)** w art. 63 wyrazy „o przeciwdziałaniu praktykom monopolistycznym i ochronie interesów konsumentów” zastępuje się wyrazami „o ochronie konkurencji i konsumentów”;
+- **42)** w art. 66: w ust. 1 i 2 skreśla się wyrazy „stanu wojennego,”, w ust. 1 w pkt 4 po wyrazie „przez” dodaje się wyraz „organy,”;
+    - **a)**
+    - **b)**
+
+- **43)** w art. 69: w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Z zastrzeżeniem ust. 2, informacje lub dane objęte tajemnicą telekomunikacyjną mogą być zbierane, utrwalane, przechowywane, opracowywane, zmieniane, usuwane lub udostępniane tylko wówczas, gdy czynności te, zwane w ustawie „przetwarzaniem”, dotyczą usługi świadczonej użytkownikowi albo są niezbędne do jej wykonania. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Operator publiczny jest uprawniony do przetwarzania poniższych danych dotyczących użytkownika będącego osobą fizyczną:
+
+- **1)** nazwisk i imion,
+- **2)** imion rodziców,
+- **3)** miejsca i daty urodzenia,
+- **4)** adresu miejsca zameldowania na pobyt stały,
+- **5)** numeru ewidencyjnego PESEL użytkownika, a w przypadku cudzoziemca – numeru paszportu lub karty pobytu,
+- **6)** nazwy i numeru dokumentów potwierdzających tożsamość,
+- **7)** dokumentów potwierdzających możliwość wykonania zobowiązania wobec operatora wynikającego z umowy o świadczenie usług telekomunikcyjnych. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **c)**
+
+2a. Ponadto operator może za pisemną zgodą użytkownika będącego osobą fizyczną przetwarzać dane dotyczące:
+
+- **1)** numeru ewidencji podatkowej NIP,
+- **2)** numeru konta bankowego lub karty płatniczej,
+- **3)** adresu użytkownika do korespondencji, jeżeli jest inny niż adres miejsca zameldowania na pobyt stały, adresu poczty elektronicznej oraz numerów telefonów kontaktowych. ” ;
+- **44)** po art. 69 dodaje się art. 69a i 69b w brzmieniu: „
+
+**Art. 69a.**
+
+1. Z zastrzeżeniem art. 69 ust. 2a, dane wymienione w art. 69 ust. 2 pkt 5 i 6 abonenta, którego opóźnienie w spełnieniu świadczenia pieniężnego określonego umową wynosi co najmniej 60 dni, mogą być:
+
+- **1)** przechowywane przez operatora publicznego, który je zebrał i utrwalił,
+- **2)** zbierane w celu uzasadnienia zastrzeżenia, o którym mowa w art. 34 ust. 3c pkt 2, przez innych operatorów publicznych z prawem ich utrwalania na czas nie dłuższy niż 14 dni oraz bez prawa do ich udostępniania.
+
+2. Z zastrzeżeniem art. 69 ust. 2a, dane abonenta wymienione w art. 69 ust. 2 pkt 5 i 6, mogą być udostępniane innym operatorom publicznym w przypadku zawieszenia przez operatora publicznego świadczenia usług telekomunikacyjnych lub innego ograniczenia świadczenia tych usług na mocy postanowień umowy o świadczenie usług telekomunikacyjnych, w przypadku nienależytego wykonania umowy przez abonenta.
+
+3. Operatorzy publiczni nie mogą tworzyć odrębnej wspólnej bazy zawierającej dane, o których mowa w ust. 1 i 2.
+
+4. Operator publiczny, zawierając umowę o świadczenie usług telekomunikacyjnych, jest obowiązany poinformować abonenta o możliwości udostępnienia jego danych, określonych w art. 69 ust. 2 pkt 5 i 6, w razie wystąpienia okoliczności, o których mowa w ust. 1 i 2.
 
 1. Operator publiczny może udostępnić zebrane przez siebie dane dotyczące nazw, serii oraz numerów utraconych lub zastrzeżonych dokumentów potwierdzających tożsamość, innemu operatorowi publicznemu.
 
-2. Operatorzy publiczni mogą pozyskiwać od innych operatorów publicznych dane, októrych mowa wust. 1.
+2. Operatorzy publiczni mogą pozyskiwać od innych operatorów publicznych dane, o których mowa w ust. 1.
 
-3. Operatorzy publiczni nie mogą tworzyć odrębnej wspólnej bazy zawierającej dane, októrych mowa wust. 1 i2.
+3. Operatorzy publiczni nie mogą tworzyć odrębnej wspólnej bazy zawierającej dane, o których mowa w ust. 1 i 2.
 
-4. Operator publiczny, zawierając umowę o świadczenie usług telekomunikacyjnych, jest obowiązany poinformować abonenta o możliwości udostępnienia jego danych, określonych wust. 1.”;
+4. Operator publiczny, zawierając umowę o świadczenie usług telekomunikacyjnych, jest obowiązany poinformować abonenta o możliwości udostępnienia jego danych, określonych w ust. 1. ” ;
 
-- **45)** wart. 70:
-    - **a)** wust. 1: pkt 3 otrzymuje brzmienie: Ń3) nazwy miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione abonentowi w przypadku stacjonarnej publicznej sieci telefonicznej albo miejsca zameldowania abonenta na pobyt stały wprzypadku ruchomej publicznej sieci telefonicznej.”, uchyla się pkt 4,
-    - **b)** po ust. 2 dodaje się ust. 2awbrzmieniu: Ń2a. Operatorzy, w miarę swoich możliwości technicznych, są obowiązani udostępnić, na żądanie służb ustawowo powołanych do obsługi wywołań kierowanych na numery alarmowe informacje, o których mowa wust. 1 pkt 1—3, poszerzone o będące w ich posiadaniu dane o lokalizacji abonenta wywołującego połączenie z numerem alarmowym, umożliwiające niezwłoczne podjęcie interwencji.”;
+- **45)** w art. 70: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) nazwy miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione abonentowi – w przypadku stacjonarnej publicznej sieci telefonicznej albo miejsca zameldowania abonenta na pobyt stały – w przypadku ruchomej publicznej sieci telefonicznej. ” , – uchyla się pkt 4, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
 
-- **46)** art. 71 otrzymuje brzmienie: ŃArt. 71. 1. Operator publicznej sieci telefonicznej umożliwiającej prezentację identyfikacji zakończenia sieci, zktórej jest wywoływane lub zostało dokonane połączenie, zwaną dalej Ńprezentacją identyfikacji linii wywołującej”, jest obowiązany zapewnić, za pomocą prostych środków:
-- **1)** abonentowi wywołującemu możliwość wyeliminowania prezentacji identyfikacji linii wywołującej uużytkownika wywoływanego podczas wywołania i połączenia lub w sposób trwały uoperatora,
-- **2)** abonentowi wywoływanemu możliwość eliminacji dla połączeń przychodzących prezentacji identyfikacji linii wywołującej, a w przypadku gdy taka prezentacja jest dostępna przed rozpoczęciem połączenia przychodzącego, także możliwość blokady połączeń przychodzących od abonenta lub użytkownika stosującego eliminację prezentacji identyfikacji linii wywołującej.
+2a. Operatorzy, w miarę swoich możliwości technicznych, są obowiązani udostępnić, na żądanie służb ustawowo powołanych do obsługi wywołań kierowanych na numery alarmowe informacje, o których mowa w ust. 1 pkt 1–3, poszerzone o będące w ich posiadaniu dane o lokalizacji abonenta wywołującego połączenie z numerem alarmowym, umożliwiające niezwłoczne podjęcie interwencji. ” ;
 
-2. Operator publicznej sieci telefonicznej zapewniającej prezentację identyfikacji zakończenia sieci, do której zostało przekierowane połączenie, zwaną dalej Ńprezentacją identyfikacji linii wywoływanej”, jest obowiązany zapewnić abonentowi wywoływanemu możliwość eliminacji, za pomocą prostych środków, prezentacji identyfikacji linii wywoływanej uużytkownika wywołujące3. Operator publicznej sieci telefonicznej zapewniającej automatyczne przekazywanie wywołań jest obowiązany zapewnić abonentowi możliwość zablokowania, za pomocą prostych środków, automatycznego przekazywania przez osobę trzecią wywołań do urządzenia końcowego tego abonenta.
+- **46)** art. 71 otrzymuje brzmienie: „
 
-4. Operator sieci publicznej jest obowiązany do poinformowania abonentów, że eksploatowana przez niego sieć zapewnia prezentację identyfikacji linii wywołującej lub wywoływanej, a także o możliwościach, o których mowa wust. 1—3.
+**Art. 71.**
 
-5. Z tytułu korzystania przez abonenta zmożliwości eliminacji lub blokowania, októrych mowa wust. 1—3, nie pobiera się opłat.
+1. Operator publicznej sieci telefonicznej umożliwiającej prezentację identyfikacji zakończenia sieci, z której jest wywoływane lub zostało dokonane połączenie, zwaną dalej „prezentacją identyfikacji linii wywołującej”, jest obowiązany zapewnić, za pomocą prostych środków:
+
+- **1)** abonentowi wywołującemu – możliwość wyeliminowania prezentacji identyfikacji linii wywołującej u użytkownika wywoływanego podczas wywołania i połączenia lub w sposób trwały u operatora,
+- **2)** abonentowi wywoływanemu – możliwość eliminacji dla połączeń przychodzących prezentacji identyfikacji linii wywołującej, a w przypadku gdy taka prezentacja jest dostępna przed rozpoczęciem połączenia przychodzącego, także możliwość blokady połączeń przychodzących od abonenta lub użytkownika stosującego eliminację prezentacji identyfikacji linii wywołującej.
+
+2. Operator publicznej sieci telefonicznej zapewniającej prezentację identyfikacji zakończenia sieci, do której zostało przekierowane połączenie, zwaną dalej „prezentacją identyfikacji linii wywoływanej”, jest obowiązany zapewnić abonentowi wywoływanemu możliwość eliminacji, za pomocą prostych środków, prezentacji identyfikacji linii wywoływanej u użytkownika wywołującego.
+
+3. Operator publicznej sieci telefonicznej zapewniającej automatyczne przekazywanie wywołań jest obowiązany zapewnić abonentowi możliwość zablokowania, za pomocą prostych środków, automatycznego przekazywania przez osobę trzecią wywołań do urządzenia końcowego tego abonenta.
+
+4. Operator sieci publicznej jest obowiązany do poinformowania abonentów, że eksploatowana przez niego sieć zapewnia prezentację identyfikacji linii wywołującej lub wywoływanej, a także o możliwościach, o których mowa w ust. 1–3.
+
+5. Z tytułu korzystania przez abonenta z możliwości eliminacji lub blokowania, o których mowa w ust. 1–3, nie pobiera się opłat.
 
 6. Eliminacja prezentacji identyfikacji linii wywołującej może być anulowana przez:
 
-- **1)** służby ustawowo powołane do niesienia pomocy, a także organy państwa wykonujące zadania na rzecz obronności, bezpieczeństwa państwa lub bezpieczeństwa i porządku publicznego, w zakresie i na warunkach określonych wodrębnych przepisach,
-- **2)** operatora sieci na wniosek abonenta, jeżeli wnioskujący uprawdopodobni, że do jego urządzenia końcowego są kierowane połączenia uciążliwe lub zawierające groêby, w celu identyfikacji numerów użytkowników wywołujących tego abonenta.
+- **1)** służby ustawowo powołane do niesienia pomocy, a także organy państwa wykonujące zadania na rzecz obronności, bezpieczeństwa państwa lub bezpieczeństwa i porządku publicznego, w zakresie i na warunkach określonych w odrębnych przepisach,
+- **2)** operatora sieci na wniosek abonenta, jeżeli wnioskujący uprawdopodobni, że do jego urządzenia końcowego są kierowane połączenia uciążliwe lub zawierające groźby, w celu identyfikacji numerów użytkowników wywołujących tego abonenta.
 
 7. Dane identyfikujące użytkowników wywołujących, o których mowa w ust. 6, są rejestrowane przez operatora na żądanie:
 
 - **1)** organów, o których mowa w ust. 6 pkt 1,
 - **2)** abonenta, o którym mowa w ust. 6 pkt 2.
 
-8. Dane, o których mowa w ust. 6, pozostają w dyspozycji operatora, który udostępnia je organom państwa wykonującym zadania na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa iporządku publicznego, wzakresie i na warunkach określonych wodrębnych przepisach.
+8. Dane, o których mowa w ust. 6, pozostają w dyspozycji operatora, który udostępnia je organom państwa wykonującym zadania na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego, w zakresie i na warunkach określonych w odrębnych przepisach.
 
-9. Prezes URTiP na uzasadniony wniosek operatora może wprowadzić okres przejściowy na wprowadzenie usługi blokady połączeń przychodzących od go. abonenta lub użytkownika, stosującego eliminację prezentacji identyfikacji linii wywołującej, o której mowa w ust. 1 Ń3. Prezes URTiP może wdrodze decyzji: pkt 2. O wprowadzeniu okresu przej- 1) wterminie 30 dni od dnia przekazania prościowego Prezes URTiP powiadamia jektu oferty, októrej mowa wust. 1, lub jej Ministra Obrony Narodowej, ministra zmiany, odmówić zatwierdzenia projektu właściwego do spraw wewnętrznych oferty lub jej zmiany, jeżeli projekt oferty i Szefa Agencji Bezpieczeństwa We- lub jej zmiany narusza przepisy prawa, nie wnętrznego.”; uwzględnia istniejących warunków rynko47) wart. 75 ust. 1 otrzymuje brzmienie: wych i ekonomicznych lub nie zapewnia efektywnej konkurencji na rynku telekoŃ1. Prawo dochodzenia wpostępowaniu sądowym munikacyjnym, roszczeń określonych wustawie, wynikających 2) w uzasadnionych przypadkach wprowaze stosunków z operatorami świadczącymi dzić ofertę, o której mowa w ust. 1, albo usługi powszechne, przysługuje użytkowniko- zmienić w całości lub w części istniejącą wi po wyczerpaniu drogi postępowania rekla- ofertę lub zobowiązać operatora do zmiamacyjnego.”; ny istniejącej oferty w określonym termi48) wart. 76 wust. 1 skreśla się wyraz Ńpubliczny”; nie wcelu dostosowania jej do przepisów prawa, nowych warunków rynkowych
+9. Prezes URTiP na uzasadniony wniosek operatora może wprowadzić okres przejściowy na wprowadzenie usługi blokady połączeń przychodzących od abonenta lub użytkownika, stosującego eliminację prezentacji identyfikacji linii wywołującej, o której mowa w ust. 1 pkt 2. O wprowadzeniu okresu przejściowego Prezes URTiP powiadamia Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych i Szefa Agencji Bezpieczeństwa Wewnętrznego. ” ;
 
-- **49)** wart. 77: i ekonomicznych lub w celu zapewnienia efektywnej konkurencji na rynku telekoa) w ust. 2 w pkt 3 po wyrazie Ńtytułu” dodaje się munikacyjnym.”, wyrazy Ńoraz wystawiania rachunków abonentom”, d) po ust. 3 dodaje się ust. 3a—3cwbrzmieniu:
-    - **b)** w ust. 3 wyrazy Ńzajmujący pozycję dominującą” zastępuje się wyrazami Ńoznaczącej pozycji rynkowej”;
+- **47)** w art. 75 ust. 1 otrzymuje brzmienie: „
 
-- **50)** wart. 78:
-    - **a)** wust. 3 wpkt 4 wlit. awyrazy Ńbiura numerów” zastępuje się wyrazami Ńpolegających na udzielaniu informacji onumerach abonentów”,
-    - **b)** ust. 5 otrzymuje brzmienie: Ń5. Operator o znaczącej pozycji rynkowej jest obowiązany udzielać operatorom, którzy zamierzają zawrzeć znim umowę opołączenie sieci, informacji niezbędnych do przygotowania takiej umowy, atakże oferować jednakowe warunki połączenia sieci telekomunikacyjnych w porównywalnych okolicznościach nie gorsze od stosowanych przez siebie w ramach własnego przedsiębiorstwa lub w stosunkach z podmiotami zależnymi w rozumieniu ustawy, o której mowa wart. 46 ust. 3.”;
+1. Prawo dochodzenia w postępowaniu sądowym roszczeń określonych w ustawie, wynikających ze stosunków z operatorami świadczącymi usługi powszechne, przysługuje użytkownikowi po wyczerpaniu drogi postępowania reklamacyjnego. ” ;
 
-- **51)** wart. 79:
-    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Operator oznaczącej pozycji rynkowej wzakresie świadczenia usług, o których mowa w art. 57 ust. 4 pkt 1 i 3, jest obowiązany do opracowania ofert określających ramowe warunki umów opołączeniu sieci zoperatorami.”,
-    - **b)** po ust. 2 dodaje się ust. 2awbrzmieniu: Ń2a. Operator, októrym mowa wust. 1, jest obowiązany do złożenia projektu oferty, o której mowa wust. 1, wterminie do 3 miesięcy od daty doręczenia decyzji Prezesa URTiP, ustalającej jego znaczącą pozycję rynkową, wcelu zatwierdzenia.”,
-    - **c)** ust. 3 otrzymuje brzmienie: Ń3a. Operator publiczny współpracujący z operatorem oznaczącej pozycji rynkowej może wnioskować do tego operatora o określoną, uzasadnioną zmianę istniejącej oferty, októrej mowa wust. 1, wcelu dostosowania jej do przepisów prawa, nowych warunków rynkowych iekonomicznych lub wcelu zapewnienia efektywnej konkurencji na rynku telekomunikacyjnym.
+- **48)** w art. 76 w ust. 1 skreśla się wyraz „publiczny”;
+- **49)** w art. 77: w ust. 2 w pkt 3 po wyrazie „tytułu” dodaje się wyrazy „oraz wystawiania rachunków abonentom”, w ust. 3 wyrazy „zajmujący pozycję dominującą” zastępuje się wyrazami „o znaczącej pozycji rynkowej”;
+    - **a)**
+    - **b)**
 
-3b. Wprzypadku sporu między operatorami dotyczącego zmiany oferty, o której mowa wust. 1, stosuje się odpowiednio art. 83 i84.
+- **50)** w art. 78: w ust. 3 w pkt 4 w lit. a wyrazy „biura numerów” zastępuje się wyrazami „polegających na udzielaniu informacji o numerach abonentów”, ust. 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
 
-3c. Oferta, o której mowa w ust. 1, powinna podlegać aktualizacji nie rzadziej niż raz na 12 miesięcy w celu odzwierciedlenia zmieniających się warunków rynkowych i ekonomicznych oraz w celu zapewnienia efektywnej konkurencji na rynku telekomunikacyjnym.”,
+5. Operator o znaczącej pozycji rynkowej jest obowiązany udzielać operatorom, którzy zamierzają zawrzeć z nim umowę o połączenie sieci, informacji niezbędnych do przygotowania takiej umowy, a także oferować jednakowe warunki połączenia sieci telekomunikacyjnych w porównywalnych okolicznościach nie gorsze od stosowanych przez siebie w ramach własnego przedsiębiorstwa lub w stosunkach z podmiotami zależnymi w rozumieniu ustawy, o której mowa w art. 46 ust. 3. ” ;
 
-- **e)** ust. 5 otrzymuje brzmienie: Ń5. Operator, októrym mowa wust. 1, jest obowiązany do zawierania umów o połączeniu sieci na warunkach nie gorszych, dla pozostałych stron umowy, niż określone w zatwierdzonej ofercie, o której mowa w ust. 1, ofercie zmienionej lub wprowadzonej decyzją Prezesa URTiP.”;
-- **52)** wart. 80:
-    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Opłaty z tytułu wzajemnego korzystania z połączonych sieci telekomunikacyjnych przez strony umowy o połączeniu sieci zawartej pomiędzy operatorami eksploatującymi sieci publiczne, z których co najmniej jeden zajmuje znaczącą pozycję rynkową, powinny:
+- **51)** w art. 79: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **1)** być ustalane na podstawie przejrzystych i obiektywnych kryteriów zapewniających równe traktowanie użytkowników jeżeli operator jest operatorem oznaczącej pozycji rynkowej w zakresie świadczenia usług, októrych mowa wart. 57,
-- **2)** uwzględniać uzasadnione koszty związane z wykonywanymi usługami telekomunikacyjnymi, niezależnie od sposobu ich wykonywania jeżeli operator jest operatorem o znaczącej pozycji rynkowej w zakresie świadczenia usług, o których mowa wart. 57 ust. 4 pkt 1, 3 i4.”,
-    - **b)** wust. 3 wyrazy Ńkomórką organizacyjną lub jednostką organizacyjną, októrej mowa” zastępuje się wyrazami Ńorganem, komórką organizacyjną lub jednostką organizacyjną, októrej mowa”,
-    - **c)** ust. 4 otrzymuje brzmienie: Ń4. Prezes URTiP może żądać od stron umowy przedłożenia uzasadnienia wysokości stosowanych przez siebie opłat, o których mowa w ust. 1, a w przypadku operatora o znaczącej pozycji rynkowej, o którym mowa wust. 1 pkt 2, także uzasadnienia wysokości kosztów ponoszonych przy wymianie usług telekomunikacyjnych.”,
-    - **d)** dodaje się ust. 5 i6 wbrzmieniu: Ń5. Prezes URTiP ustala wysokość opłat, o których mowa wust. 1, wdrodze decyzji, wprzypadku, gdy stwierdzi, że wysokość tych opłat ustalona została niezgodnie zprzepisami prawa lub w przypadku, gdy w uzasadnieniu, októrym mowa wust. 4, operator nie wykaże, że wysokość tych opłat ustalona została zgodnie zprzepisami prawa.
+1. Operator o znaczącej pozycji rynkowej w zakresie świadczenia usług, o których mowa w art. 57 ust. 4 pkt 1 i 3, jest obowiązany do opracowania ofert określających ramowe warunki umów o połączeniu sieci z operatorami. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
-6. Prezes URTiP, w przypadku braku możliwości ustalenia kosztów zgodnie z ust. 1 pkt 2, uwzględnia stawki innych operatorów europejskich działających na konkurencyjnych rynkach oraz stopień rozwoju rynku polskiego.”;
+- **b)**
 
-- **53)** wart. 81:
-    - **a)** pkt 2 otrzymuje brzmienie: Ń2) rozliczeń z tytułu wzajemnego korzystania z sieci telekomunikacyjnych przez operatorów, w tym kalkulacji opłat z tego tytułu, w przypadku operatora o znaczącej pozycji rynkowej w zakresie świadczenia usług, októrych mowa wart. 57 ust. 4 pkt 1, 3 i4,”,
-    - **b)** pkt 3 otrzymuje brzmienie: Ń3) szczegółowych warunków i trybu ustalania oraz pobierania dopłat, o których mowa wart. 8 ustawy zdnia 22 maja 2003 r. ozmianie ustawy Prawo telekomunikacyjne oraz o zmianie niektórych ustaw (Dz. U. 113, poz. 1070), mając na uwadze zapewnienie zwiększenia dostępności do usług powszechnych,”;
+2a. Operator, o którym mowa w ust. 1, jest obowiązany do złożenia projektu oferty, o której mowa w ust. 1, w terminie do 3 miesięcy od daty doręczenia decyzji Prezesa URTiP, ustalającej jego znaczącą pozycję rynkową, w celu zatwierdzenia. ” , ust. 3 otrzymuje brzmienie: „
 
-- **54)** wart. 83 ust. 1 otrzymuje brzmienie: Ń1. Prezes URTiP może, w drodze postanowienia, cie umowy o połączeniu sieci, nie dłuższy niż 90 dni licząc od dnia wystąpienia opołączenie, na pisemny wniosek każdej ze stron negocjacji ozawarcie takiej umowy, albo zurzędu. Na postanowienie służy zażalenie, które nie przerywa biegu terminu wyznaczonego przez Prezesa URTiP.”;
-- **55)** wart. 84 po ust. 1 dodaje się ust. 1awbrzmieniu: Ń1a. Decyzja o połączeniu sieci może zostać zmieniona przez Prezesa URTiP na wniosek każdej ze stron, której ona dotyczy, lub zurzędu.”;
-- **56)** w art. 86 dotychczasową treść oznacza się jako ust. 1 idodaje się ust. 2 wbrzmieniu: Ń2. Wprzypadku złożenia przez operatora wniosku owydanie decyzji wtrybie art. 83 ust. 2, zastępującej zmianę umowy o połączeniu sieci, art. 85 ust. 1 nie stosuje się.”;
-- **57)** wart. 87 po wyrazach Ńjednostek organizacyjnych” dodaje się wyrazy Ńi organów” oraz po wyrazie Ńjednostki” dodaje się wyrazy Ńiorgany”;
-- **58)** po art. 87 dodaje się art. 87a—87ewbrzmieniu: ŃArt. 87a. 1. Operatorzy publicznych sieci telekomunikacyjnych są obowiązani do publikowania specyfikacji technicznych stosowanych zakończeń sieci zawierających dane niezbędne do zaprojektowania urządzeń końcowych przeznaczonych do dołączenia do zakończenia sieci.
+- **c)**
 
-2. Operatorzy mogą pobierać opłaty za specyfikacje, októrych mowa wust. 1, w wysokości nieprzekraczającej kosztów związanych z ich wykonaniem ipublikacją.
+3. Prezes URTiP może w drodze decyzji:
 
-3. Operatorzy publicznych sieci telekomunikacyjnych są obowiązani do przekazywania Prezesowi URTiP informacji zawierających typ, opis i przeznaczenie zakończenia sieci oraz wskazanie, w jaki sposób dostępna jest specyfikacja, o której mowa wust. 1. Informację Prezes URTiP publikuje wBiuletynie URTiP.
+- **1)** w terminie 30 dni od dnia przekazania projektu oferty, o której mowa w ust. 1, lub jej zmiany, odmówić zatwierdzenia projektu oferty lub jej zmiany, jeżeli projekt oferty lub jej zmiany narusza przepisy prawa, nie uwzględnia istniejących warunków rynkowych i ekonomicznych lub nie zapewnia efektywnej konkurencji na rynku telekomunikacyjnym,
+- **2)** w uzasadnionych przypadkach wprowadzić ofertę, o której mowa w ust. 1, albo zmienić w całości lub w części istniejącą ofertę lub zobowiązać operatora do zmiany istniejącej oferty w określonym terminie w celu dostosowania jej do przepisów prawa, nowych warunków rynkowych i ekonomicznych lub w celu zapewnienia efektywnej konkurencji na rynku telekomunikacyjnym. ” , po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „
+    - **d)**
 
-**Art. 87b.**
+3a. Operator publiczny współpracujący z operatorem o znaczącej pozycji rynkowej może wnioskować do tego operatora o określoną, uzasadnioną zmianę istniejącej oferty, o której mowa w ust. 1, w celu dostosowania jej do przepisów prawa, nowych warunków rynkowych i ekonomicznych lub w celu zapewnienia efektywnej konkurencji na rynku telekomunikacyjnym.
 
-1. Operator zajmujący znaczącą pozycję rynkową wzakresie świadczenia usług telefonicznych świadczonych w stacjonarnych publicznych sieciach telefonicznych jest obowiązany na wniosek operatora zapewnić mu dostęp do lokalnej pętli abonenckiej zrealizowanej za pomocą pary przewodów metalowych, wraz z kolokacją, dostępem do połączeń kablowych oraz odpowiednich systemów informacyjnych, zwanych dalej Ńudogodnieniami”, na określić termin zakończenia negocjacji ozawarwarunkach przejrzystych, sprawiedliwych iniedyskryminujących.
+3b. W przypadku sporu między operatorami dotyczącego zmiany oferty, o której mowa w ust. 1, stosuje się odpowiednio art. 83 i 84.
+
+3c. Oferta, o której mowa w ust. 1, powinna podlegać aktualizacji nie rzadziej niż raz na 12 miesięcy w celu odzwierciedlenia zmieniających się warunków rynkowych i ekonomicznych oraz w celu zapewnienia efektywnej konkurencji na rynku telekomunikacyjnym. ” , ust. 5 otrzymuje brzmienie: „
+
+- **e)**
+
+5. Operator, o którym mowa w ust. 1, jest obowiązany do zawierania umów o połączeniu sieci na warunkach nie gorszych, dla pozostałych stron umowy, niż określone w zatwierdzonej ofercie, o której mowa w ust. 1, ofercie zmienionej lub wprowadzonej decyzją Prezesa URTiP. ” ;
+
+- **52)** w art. 80: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Opłaty z tytułu wzajemnego korzystania z połączonych sieci telekomunikacyjnych przez strony umowy o połączeniu sieci zawartej pomiędzy operatorami eksploatującymi sieci publiczne, z których co najmniej jeden zajmuje znaczącą pozycję rynkową, powinny:
+
+- **1)** być ustalane na podstawie przejrzystych i obiektywnych kryteriów zapewniających równe traktowanie użytkowników – jeżeli operator jest operatorem o znaczącej pozycji rynkowej w zakresie świadczenia usług, o których mowa w art. 57,
+- **2)** uwzględniać uzasadnione koszty związane z wykonywanymi usługami telekomunikacyjnymi, niezależnie od sposobu ich wykonywania – jeżeli operator jest operatorem o znaczącej pozycji rynkowej w zakresie świadczenia usług, o których mowa w art. 57 ust. 4 pkt 1, 3 i 4. ” , w ust. 3 wyrazy „komórką organizacyjną lub jednostką organizacyjną, o której mowa” zastępuje się wyrazami „organem, komórką organizacyjną lub jednostką organizacyjną, o której mowa”, ust. 4 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+4. Prezes URTiP może żądać od stron umowy przedłożenia uzasadnienia wysokości stosowanych przez siebie opłat, o których mowa w ust. 1, a w przypadku operatora o znaczącej pozycji rynkowej, o którym mowa w ust. 1 pkt 2, także uzasadnienia wysokości kosztów ponoszonych przy wymianie usług telekomunikacyjnych. ” , dodaje się ust. 5 i 6 w brzmieniu: „
+
+- **d)**
+
+5. Prezes URTIP ustala wysokość opłat, o których mowa w ust. 1, w drodze decyzji, w przypadku, gdy stwierdzi, że wysokość tych opłat ustalona została niezgodnie z przepisami prawa lub w przypadku, gdy w uzasadnieniu, o którym mowa w ust. 4, operator nie wykaże, że wysokość tych opłat ustalona została zgodnie z przepisami prawa.
+
+6. Prezes URTiP, w przypadku braku możliwości ustalenia kosztów zgodnie z ust. 1 pkt 2, uwzględnia stawki innych operatorów europejskich działających na konkurencyjnych rynkach oraz stopień rozwoju rynku polskiego. ” ;
+
+- **53)** w art. 81: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** rozliczeń z tytułu wzajemnego korzystania z sieci telekomunikacyjnych przez operatorów, w tym kalkulacji opłat z tego tytułu, w przypadku operatora o znaczącej pozycji rynkowej w zakresie świadczenia usług, o których mowa w art. 57 ust. 4 pkt 1, 3 i 4, ” , pkt 3 otrzymuje brzmienie: „
+    - **b)**
+
+- **3)** szczegółowych warunków i trybu ustalania oraz pobierania dopłat, o których mowa w art. 8 ustawy z dnia 22 maja 2003 r. o zmianie ustawy – Prawo telekomunikacyjne oraz o zmianie niektórych ustaw (Dz. U. Nr 113, poz. 1070), mając na uwadze zapewnienie zwiększenia dostępności do usług powszechnych, ” ;
+- **54)** w art. 83 ust. 1 otrzymuje brzmienie: „
+
+1. Prezes URTiP może, w drodze postanowienia, określić termin zakończenia negocjacji o zawarcie umowy o połączeniu sieci, nie dłuższy niż 90 dni licząc od dnia wystąpienia o połączenie, na pisemny wniosek każdej ze stron negocjacji o zawarcie takiej umowy, albo z urzędu. Na postanowienie służy zażalenie, które nie przerywa biegu terminu wyznaczonego przez Prezesa URTiP. ” ;
+
+- **55)** w art. 84 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Decyzja o połączeniu sieci może zostać zmieniona przez Prezesa URTiP na wniosek każdej ze stron, której ona dotyczy, lub z urzędu. ” ;
+
+- **56)** w art. 86 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. W przypadku złożenia przez operatora wniosku o wydanie decyzji w trybie art. 83 ust. 2, zastępującej zmianę umowy o połączeniu sieci, art. 85 ust. 1 nie stosuje się. ” ;
+
+- **57)** w art. 87 po wyrazach „jednostek organizacyjnych” dodaje się wyrazy „i organów” oraz po wyrazie „jednostki” dodaje się wyrazy „i organy”;
+- **58)** po art. 87 dodaje się art. 87a-87e w brzmieniu: „
+
+**Art. 87a.**
+
+1. Operatorzy publicznych sieci telekomunikacyjnych są obowiązani do publikowania specyfikacji technicznych stosowanych zakończeń sieci zawierających dane niezbędne do zaprojektowania urządzeń końcowych przeznaczonych do dołączenia do zakończenia sieci.
+
+2. Operatorzy mogą pobierać opłaty za specyfikacje, o których mowa w ust. 1, w wysokości nieprzekraczającej kosztów związanych z ich wykonaniem i publikacją.
+
+3. Operatorzy publicznych sieci telekomunikacyjnych są obowiązani do przekazywania Prezesowi URTIP informacji zawierających typ, opis i przeznaczenie zakończenia sieci oraz wskazanie, w jaki sposób dostępna jest specyfikacja, o której mowa w ust. 1. Informację Prezes URTiP publikuje w Biuletynie URTIP.
+
+1. Operator zajmujący znaczącą pozycję rynkową w zakresie świadczenia usług telefonicznych świadczonych w stacjonarnych publicznych sieciach telefonicznych jest obowiązany na wniosek operatora zapewnić mu dostęp do lokalnej pętli abonenckiej zrealizowanej za pomocą pary przewodów metalowych, wraz z kolokacją, dostępem do połączeń kablowych oraz odpowiednich systemów informacyjnych, zwanych dalej „udogodnieniami”, na warunkach przejrzystych, sprawiedliwych i niedyskryminujących.
 
 2. Operator obowiązany do zapewnienia dostępu do lokalnej pętli abonenckiej, świadczący abonentom usługi szerokopasmowej transmisji danych, zapewnia innym operatorom możliwości świadczenia takich usług na warunkach nie gorszych od stosowanych przez siebie w ramach własnego przedsiębiorstwa lub w stosunkach z podmiotami zależnymi w rozumieniu ustawy, o której mowa w art. 46 ust. 3.
 
-3. Odmowa zapewnienia dostępu do lokalnej pętli abonenckiej i związanych znim udogodnień może nastąpić tylko w obiektywnie uzasadnionych przypadkach związanych z brakiem możliwości technicznych lub koniecznością zachowania integralności sieci telekomunikacyjnej.
+3. Odmowa zapewnienia dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień może nastąpić tylko w obiektywnie uzasadnionych przypadkach związanych z brakiem możliwości technicznych lub koniecznością zachowania integralności sieci telekomunikacyjnej.
 
-4. W przypadku odmowy albo nieudzielenia odpowiedzi na wniosek, o którym mowa w ust. 1, w terminie określonym w ofercie ramowej, nie dłuższym jednak niż 30 dni od dnia jego złożenia, operator może złożyć wniosek do Prezesa URTiP owydanie decyzji o zapewnieniu dostępu do lokalnej pętli abonenckiej.
+4. W przypadku odmowy albo nieudzielenia odpowiedzi na wniosek, o którym mowa w ust. 1, w terminie określonym w ofercie ramowej, nie dłuższym jednak niż 30 dni od dnia jego złożenia, operator może złożyć wniosek do Prezesa URTiP o wydanie decyzji o zapewnieniu dostępu do lokalnej pętli abonenckiej.
 
-**Art. 87c.**
+1. Warunki zapewnienia dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień operatorzy ustalają w umowie o dostępie do lokalnej pętli abonenckiej.
 
-1. Warunki zapewnienia dostępu do lokalnej pętli abonenckiej i związanych znim udogodnień operatorzy ustalają wumowie odostępie do lokalnej pętli abonenckiej.
+2. Opłaty za zapewnienie dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień powinny:
 
-2. Opłaty za zapewnienie dostępu do lokalnej pętli abonenckiej i związanych znim udogodnień powinny:
-
-- **1)** być ustalone na podstawie przejrzystych iobiektywnych kryteriów,
+- **1)** być ustalone na podstawie przejrzystych i obiektywnych kryteriów,
 - **2)** uwzględniać uzasadnione koszty.
 
-3. Prezes URTiP może żądać od operatora zapewniającego dostęp do lokalnej pętli abonenckiej i związanych z nim udogodnień przedłożenia uzasadnienia wysokości stosowanych opłat iponoszonych kosztów.
+3. Prezes URTiP może żądać od operatora zapewniającego dostęp do lokalnej pętli abonenckiej i związanych z nim udogodnień przedłożenia uzasadnienia wysokości stosowanych opłat i ponoszonych kosztów.
 
-4. Prezes URTiP ustala wysokość opłat, októrych mowa wust. 2, wdrodze decyzji, w przypadku, gdy stwierdzi, że wysokość tych opłat ustalona została niezgodnie z przepisami prawa lub w przypadku, gdy w uzasadnieniu, októrym mowa wust. 3, operator nie wykaże, że wysokość tych opłat ustalona została zgodnie zprzepisami prawa.
+4. Prezes URTiP ustala wysokość opłat, o których mowa w ust. 2, w drodze decyzji, w przypadku, gdy stwierdzi, że wysokość tych opłat ustalona została niezgodnie z przepisami prawa lub w przypadku, gdy w uzasadnieniu, o którym mowa w ust. 3, operator nie wykaże, że wysokość tych opłat ustalona została zgodnie z przepisami prawa.
 
-5. Wprzypadku braku możliwości ustalenia opłat zgodnie zust. 2, Prezes URTiP bierze pod uwagę stawki innych opekonkurencyjnych rynkach, z uwzględnieniem stopnia rozwoju polskiego rynku telekomunikacyjnego.
+5. W przypadku braku możliwości ustalenia opłat zgodnie z ust. 2, Prezes URTiP bierze pod uwagę stawki innych operatorów europejskich działających na konkurencyjnych rynkach, z uwzględnieniem stopnia rozwoju polskiego rynku telekomunikacyjnego.
 
-6. Do umów o dostępie do lokalnej pętli abonenckiej stosuje się odpowiednio przepisy art. 82—86.
+6. Do umów o dostępie do lokalnej pętli abonenckiej stosuje się odpowiednio przepisy art. 82–86.
 
-**Art. 87d.**
+1. Operator obowiązany do zapewnienia dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień opracowuje ofertę określającą ramowe warunki umów o dostępie do lokalnej pętli abonenckiej, o którym mowa w art. 87b ust. 1 i 2, i związanych z nim udogodnień.
 
-1. Operator obowiązany do zapewnienia dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień opracowuje ofertę określającą ramowe warunki umów odostępie do lokalnej pętli abonenckiej, o którym mowa wart. 87bust. 1 i2, izwiązanych znim udogodnień.
+2. Do ofert, o których mowa w ust. 1, stosuje się odpowiednio art. 79 ust. 2–5.
 
-2. Do ofert, októrych mowa wust. 1, stosuje się odpowiednio art. 79 ust. 2—5.
+1. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowe wymagania związane z zapewnieniem dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień dotyczące:
 
-**Art. 87e.**
+- **1)** opłat z tytułu korzystania z dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień, w tym kalkulacji opłat z tego tytułu,
+- **2)** zakresu oferty ramowej, o której mowa w art. 87d,
+- **3)** warunków i trybu udzielania odmowy, o której mowa w art. 87b ust. 3.
 
-1. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowe wymagania związane z zapewnieniem dostępu do lokalnej ratorów europejskich działających na pętli abonenckiej i związanych z nim udogodnień dotyczące:
-
-- **1)** opłat ztytułu korzystania zdostępu do lokalnej pętli abonenckiej izwiązanych z nim udogodnień, w tym kalkulacji opłat ztego tytułu,
-- **2)** zakresu oferty ramowej, o której mowa wart. 87d,
-- **3)** warunków itrybu udzielania odmowy, októrej mowa wart. 87bust. 3.
-
-2. Minister właściwy do spraw łączności, wydając rozporządzenie, o którym mowa w ust. 1, określa zakres oferty ramowej, mając na uwadze, iż obejmuje on wszczególności:
+2. Minister właściwy do spraw łączności, wydając rozporządzenie, o którym mowa w ust. 1, określa zakres oferty ramowej, mając na uwadze, iż obejmuje on w szczególności:
 
 - **1)** wskazanie elementów sieci, do których oferowany jest dostęp, z podaniem informacji o ich charakterystyce i warunkach technicznych,
-- **2)** usługi kolokacyjne ze wskazaniem miejsc kolokacyjnych opcji kolokacyjnych, określeniem warunków technicznych kolokacji, z uwzględnieniem standardów bezpieczeństwa, oraz warunków przeprowadzania przez operatorów inspekcji miejsc kolokacyjnych, łącznie zmiejscami, wktórych kolokacji odmówiono,
+- **2)** usługi kolokacyjne ze wskazaniem miejsc kolokacyjnych opcji kolokacyjnych, określeniem warunków technicznych kolokacji, z uwzględnieniem standardów bezpieczeństwa, oraz warunków przeprowadzania przez operatorów inspekcji miejsc kolokacyjnych, łącznie z miejscami, w których kolokacji odmówiono,
 - **3)** warunki dostępu do systemów informacyjnych,
-- **4)** warunki zapewnienia dostępu do lokalnej pętli abonenckiej obejmujące terminy jego zapewnienia, standardowe warunki umowne oraz wskazanie elementów podlegających opłacie.”;
-- **59)** art. 88 otrzymuje brzmienie: ŃArt. 88. 1. Urządzenia radiowe i urządzenia końcowe wprowadzane do obrotu iużywania powinny spełniać wymagania wzakresie:
+- **4)** warunki zapewnienia dostępu do lokalnej pętli abonenckiej obejmujące terminy jego zapewnienia, standardowe warunki umowne oraz wskazanie elementów podlegających opłacie. ” ;
+- **59)** art. 88 otrzymuje brzmienie: „
+
+**Art. 88.**
+
+1. Urządzenia radiowe i urządzenia końcowe wprowadzane do obrotu i używania powinny spełniać wymagania w zakresie;
+
 - **1)** ochrony zdrowia i bezpieczeństwa użytkownika,
 - **2)** efektywnego wykorzystania zasobów częstotliwości lub zasobów orbitalnych w przypadku urządzeń radiowych,
 - **3)** kompatybilności elektromagnetycznej w zakresie wynikającym z ich przeznaczenia.
 
-2. Minister właściwy do spraw łączności może, wdrodze rozporządzenia, ustalić dodatkowe wymagania wzakresie:
+2. Minister właściwy do spraw łączności może, w drodze rozporządzenia, ustalić dodatkowe wymagania w zakresie:
 
 - **1)** zapewniania ochrony tajemnicy telekomunikacji,
 - **2)** zabezpieczenia przed nieuprawnionym używaniem urządzeń,
 - **3)** umożliwienia dostępu do urządzeń lub sieci służbom ustawowo powołanym do niesienia pomocy,
 - **4)** przystosowania do używania przez osoby niepełnosprawne,
-- **5)** zdolności do współpracy z innymi urządzeniami telekomunikacyjnymi używanymi wsieci telekomunikacyjnej lub do niej dołączonymi, wszczególności niepowodowania uszkodzeń sieci telekomunikacyjnej lub zakłócania jej funkcjonowania które niezależnie od wymagań wymienionych wust. 1 powinny być spełniane przez urządzenia oraz określić termin, do którego mogą być używane urządzenia nie spełniające wymagań ustalonych wrozporządzeniu, wprowadzone do obrotu handlowego przed dniem wydania rozporządzenia, mając na uwadze prawidłowość funkcjonowania sieci telekomunikacyjnych.
+- **5)** zdolności do współpracy z innymi urządzeniami telekomunikacyjnymi używanymi w sieci telekomunikacyjnej lub do niej dołączonymi, w szczególności niepowodowania uszkodzeń sieci telekomunikacyjnej lub zakłócania jej funkcjonowania które niezależnie od wymagań wymienionych w ust. 1 powinny być spełniane przez urządzenia oraz określić termin, do którego mogą być używane urządzenia nie spełniające wymagań ustalonych w rozporządzeniu, wprowadzone do obrotu handlowego przed dniem wydania rozporządzenia, mając na uwadze prawidłowość funkcjonowania sieci telekomunikacyjnych.
 
-3. Minister właściwy do spraw łączności może, w drodze rozporządzeń, określić szczegółowe wymagania techniczne i eksploatacyjne dla urządzeń telekomunikacyjnych oraz sieci telekomunikacyjnych, kierując się wymaganiami europejskich organizacji normalizacyjnych, a w przypadku braku takich wymagań wymaganiami innych międzynarodowych organizacji normalizacyjnych, których Rzeczpospolita Polska jest członkiem.
+3. Minister właściwy do spraw łączności może, w drodze rozporządzeń, określić szczegółowe wymagania techniczne i eksploatacyjne dla urządzeń telekomunikacyjnych oraz sieci telekomunikacyjnych, kierując się wymaganiami europejskich organizacji normalizacyjnych, a w przypadku braku takich wymagań – wymaganiami innych międzynarodowych organizacji normalizacyjnych, których Rzeczpospolita Polska jest członkiem.
 
-4. Minister właściwy do spraw łączności, w porozumieniu z Ministrem Obrony Narodowej, Ministrem Sprawiedliwonansów publicznych oraz ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia, szczegółowe wymagania techniczne i eksploatacyjne dla sieci telekomunikacyjnych i urządzeń telekomunikacyjnych dotyczące ich przystosowania do wypełniania przez operatorów obowiązku, októrym mowa w art. 40 ust. 1, mając na uwadze, że sieci telekomunikacyjne iurządzenia telekomunikacyjne eksploatowane przez tych operatorów powinny zapewniać uprawnionym organom dostęp do informacji oraz danych określonych wart. 67 ust. 1, atakże ich rejestrację, kierując się wymaganiami europejskich organizacji normalizacyjnych, a w przypadku braku takich wymagań wymaganiami innych międzynarodowych organizacji normalizaści, ministrem właściwym do spraw ficyjnych, których Rzeczpospolita Polska jest członkiem.”;
+4. Minister właściwy do spraw łączności, w porozumieniu z Ministrem Obrony Narodowej, Ministrem Sprawiedliwości, ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia, szczegółowe wymagania techniczne i eksploatacyjne dla sieci telekomunikacyjnych i urządzeń telekomunikacyjnych dotyczące ich przystosowania do wypełniania przez operatorów obowiązku, o którym mowa w art. 40 ust. 1, mając na uwadze, że sieci telekomunikacyjne i urządzenia telekomunikacyjne eksploatowane przez tych operatorów powinny zapewniać uprawnionym organom dostęp do informacji oraz danych określonych w art. 67 ust. 1, a także ich rejestrację, kierując się wymaganiami europejskich organizacji normalizacyjnych, a w przypadku braku takich wymagań – wymaganiami innych międzynarodowych organizacji normalizacyjnych, których Rzeczpospolita Polska jest członkiem. ” ;
 
-- **60)** wart. 90 wust. 2 po wyrazach Ńwykorzystywanych przez” dodaje się wyraz Ńorgany,”;
-- **61)** wart. 91:
-    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Obowiązkowi oceny zgodności z wymaganiami, o których mowa w art. 88 ust. 1 i 2, zwanymi dalej Ńzasadniczymi wymaganiami” podlegają, oile ustawa nie stanowi inaczej, urządzenia końcowe przeznaczone do dołączania do zakończeń sieci publicznej oraz urządzenia radiowe nadawcze lub nadawczo-odbiorcze.”,
-    - **b)** wust. 2: wpkt 3 po wyrazie Ńprzedstawiciela,” dodaje się wyrazy Ńpo uzyskaniu przez niego potwierdzenia zgodności zzasadniczymi wymaganiami,”, pkt 3aotrzymuje brzmienie: Ń3a) raport techniczny zawierający sprawozdanie z badań technicznych urządzenia wraz z opinią potwierdzającą spełnianie przez nie zasadniczych wymagań, wystawione przez akredytowane laboratorium badawcze, indywidualnemu użytkownikowi urządzenia nie będącego przedmiotem oferty handlowej.”, uchyla się pkt 4,
-    - **c)** w ust. 4 w pkt 3 po wyrazie Ńprzez” dodaje się wyraz Ńorgany,”;
+- **60)** w art. 90 w ust. 2 po wyrazach „wykorzystywanych przez” dodaje się wyraz „organy,”;
+- **61)** w art. 91: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **62)** wart. 94 po ust. 2 dodaje się ust. 2awbrzmieniu: Ń2a. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, wzór oznakowania urządzeń, które spełniają zasadnicze wymagania, oraz niezbędne dane, które powinny być umieszczone wraz zoznakowaniem, mając na uwadze, aby oznakowanie było jednoznaczne iczytelne dla nabywcy.”;
-- **63)** wart. 96 uchyla się ust. 2;
-- **64)** wart. 99:
-    - **a)** wust. 1 wpkt 2 po wyrazie Ńkomórkom,” dodaje się wyraz Ńorganom”,
-    - **b)** uchyla się ust. 3,
-    - **c)** ust. 7 otrzymuje brzmienie: Ń7. Minister właściwy do spraw łączności określi, wdrodze rozporządzeń:
+1. Obowiązkowi oceny zgodności z wymaganiami, o których mowa w art. 88 ust. 1 i 2, zwanymi dalej „zasadniczymi wymaganiami” podlegają, o ile ustawa nie stanowi inaczej, urządzenia końcowe przeznaczone do dołączania do zakończeń sieci publicznej oraz urządzenia radiowe nadawcze lub nadawczo-odbiorcze. ” , w ust. 2: – w pkt 3 po wyrazie „przedstawiciela,” dodaje się wyrazy „po uzyskaniu przez niego potwierdzenia zgodności z zasadniczymi wymaganiami,”, – pkt 3a otrzymuje brzmienie: „ 3a) raport techniczny zawierający sprawozdanie z badań technicznych urządzenia wraz z opinią potwierdzającą spełnianie przez nie zasadniczych wymagań, wystawione przez akredytowane laboratorium badawcze, indywidualnemu użytkownikowi urządzenia nie będącego przedmiotem oferty handlowej. ” , – uchyla się pkt 4, w ust. 4 w pkt 3 po wyrazie „przez” dodaje się wyraz „organy,”;
+
+- **b)**
+- **c)**
+- **62)** w art. 94 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, wzór oznakowania urządzeń, które spełniają zasadnicze wymagania, oraz niezbędne dane, które powinny być umieszczone wraz z oznakowaniem, mając na uwadze, aby oznakowanie było jednoznaczne i czytelne dla nabywcy. ” ;
+
+- **63)** w art. 96 uchyla się ust. 2;
+- **64)** w art. 99: w ust. 1 w pkt 2 po wyrazie „komórkom,” dodaje się wyraz „organom”, uchyla się ust. 3, ust. 7 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+7. Minister właściwy do spraw łączności określi, w drodze rozporządzeń:
 
 - **1)** plan numeracji krajowej dla publicznych sieci telefonicznych, określając w szczególności zakres planu oraz formaty numerów,
-- **2)** szczegółowe wymagania dotyczące gospodarowania numeracją w publicznych sieciach telefonicznych uwzględniając obecne i prognozowane potrzeby operatorów publicznych oraz użytkowników, w tym służb, o których mowa wart. 102, ustalenia europejskich organizacji telekomunikacyjnych, wszczególności dotyczące długoterminowych, ogólnoeuropejskich planów numeracji, atakże postanowienia umów, których Rzeczpospolita Polska jest stroną.”;
-- **65)** wart. 108:
-    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Aparatura powinna być konstruowana tak, aby:
+- **2)** szczegółowe wymagania dotyczące gospodarowania numeracją w publicznych sieciach telefonicznych uwzględniając obecne i prognozowane potrzeby operatorów publicznych oraz użytkowników, w tym służb, o których mowa w art. 102, ustalenia europejskich organizacji telekomunikacyjnych, w szczególności dotyczące długoterminowych, ogólnoeuropejskich planów numeracji, a także postanowienia umów, których Rzeczpospolita Polska jest stroną. ” ;
+- **65)** w art. 108: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **1)** nie wywoływała wswoim środowisku zaburzeń elektromagnetycznych o wartościach przekraczających odporność na te zaburzenia innej aparatury lub innych systemów występujących wtym środowisku,
-- **2)** posiadała wymaganą odporność na zaburzenia elektromagnetyczne.”,
-    - **b)** uchyla się ust. 2,
-    - **c)** ust. 3 otrzymuje brzmienie: Ń3. Obowiązkowej ocenie zgodności zwymaganiami, októrych mowa wust. 1, zwanymi dalej Ńzasadniczymi wymaganiami dotyczącymi kompatybilności elektromagnetycznej” podlega aparatura, która może wywołać zaburzenia elektromagnetyczne lub na działanie której takie zaburzenia mogą mieć wpływ, z wyłączeniem urządzeń, o których mowa wart. 91 ust. 4 pkt 1 i3.”;
+1. Aparatura powinna być konstruowana tak, aby:
 
-- **66)** wart. 110 wust. 1 wpkt 10 na końcu kropkę zastępuje się przecinkiem i dodaje się pkt 11—14 wbrzmieniu: Ń11) koordynacja rezerwacji częstotliwości w zaużytkowników, októrych mowa wart. 4 ust. 1 pkt 1—4, wszczególności wzakresach częstotliwości przez nich zwalnianych lub dla nich nowo udostępnianych albo współwykorzystywanych zinnymi użytkownikami,
+- **1)** nie wywoływała w swoim środowisku zaburzeń elektromagnetycznych o wartościach przekraczających odporność na te zaburzenia innej aparatury lub innych systemów występujących w tym środowisku,
+- **2)** posiadała wymaganą odporność na zaburzenia elektromagnetyczne. ” , uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+3. Obowiązkowej ocenie zgodności z wymaganiami, o których mowa w ust. 1, zwanymi dalej „zasadniczymi wymaganiami dotyczącymi kompatybilności elektromagnetycznej” podlega aparatura, która może wywołać zaburzenia elektromagnetyczne lub na działanie której takie zaburzenia mogą mieć wpływ, z wyłączeniem urządzeń, o których mowa w art. 91 ust. 4 pkt 1 i 3. ” ;
+
+- **66)** w art. 110 w ust. 1 w pkt 10 na końcu kropkę zastępuje się przecinkiem i dodaje się pkt 11–14 w brzmieniu: „
+- **11)** koordynacja rezerwacji częstotliwości w zakresach częstotliwości przeznaczonych dla użytkowników, o których mowa w art. 4 ust. 1 pkt 1–4, w szczególności w zakresach częstotliwości przez nich zwalnianych lub dla nich nowo udostępnianych albo współwykorzystywanych z innymi użytkownikami,
 - **12)** współpraca z Komisją Europejską w zakresie właściwości Prezesa URTiP,
-- **13)** przedstawianie Komisji Europejskiej informacji zzakresu właściwości Prezesa URTiP, wtym wykonywanie obowiązków notyfikacyjnych wobec Komisji Europejskiej, obejmujących informacje o podmiotach, które zostały uznane za posiadające znaczącą pozycję rynkową, świadczących usługi powszechne oraz realizujących połączenia sieci telekomunikacyjnych,
-- **14)** przeprowadzanie konsultacji środowiskowych z zainteresowanymi podmiotami, a w szczególności z operatorami, użytkownikami, konsumentami oraz producentami, w sprawach kresach częstotliwości przeznaczonych dla związanych zzasięgiem, dostępnością oraz jakością usług telekomunikacyjnych.”;
-- **67)** wart. 114 wust. 6 wzdaniu drugim wyrazy ŃPrezesa URTiP” zastępuje się wyrazami Ńministra właściwego do spraw łączności”;
-- **68)** wart. 116 ust. 2 otrzymuje brzmienie: Ń2. W Biuletynie URTiP zamieszcza się wymagane ustawą informacje i rozstrzygnięcia Prezesa URTiP, zalecenia dotyczące stosowania norm lub wymagań technicznych, roczne raporty o jakości świadczenia usług powszechnych przez operatorów, dane dotyczące wyników kalkulacji kosztów stosowanych przez operatorów o znaczącej pozycji rynkowej w zakresie świadczenia usług za pomocą publicznych sieci telefonicznych lub w zakresie świadczenia usługi dzierżawy łączy telekomunikacyjnych, sprawozdania oraz wyniki kalkulacji kosztów, októrych mowa wart. 59 ust. 4 pkt 6, wraz zraportem określającym ich zgodność zokreślonymi zasadami przygotowanymi przez podmiot przeprowadzający badanie, wykazy udzielonych zezwoleń, informacje i ogłoszenia dotyczące wykorzystania częstotliwości i kompatybilności elektromagnetycznej oraz inne informacje w zakresie ustalonym przez Prezesa URTiP.”;
-- **69)** wart. 122:
-    - **a)** w ust. 1 po wyrazie Ńdo” dodaje się wyraz Ńorganów,”,
-    - **b)** w ust. 2 po wyrazach Ńużywana przez” dodaje się wyraz Ńorgany,”;
+- **13)** przedstawianie Komisji Europejskiej informacji z zakresu właściwości Prezesa URTiP, w tym wykonywanie obowiązków notyfikacyjnych wobec Komisji Europejskiej, obejmujących informacje o podmiotach, które zostały uznane za posiadające znaczącą pozycję rynkową, świadczących usługi powszechne oraz realizujących połączenia sieci telekomunikacyjnych,
+- **14)** przeprowadzanie konsultacji środowiskowych z zainteresowanymi podmiotami, a w szczególności z operatorami, użytkownikami, konsumentami oraz producentami, w sprawach związanych z zasięgiem, dostępnością oraz jakością usług telekomunikacyjnych. ” ;
+- **67)** w art. 114 w ust. 6 w zdaniu drugim wyrazy „Prezesa URTiP” zastępuje się wyrazami „ministra właściwego do spraw łączności”;
+- **68)** w art. 116 ust. 2 otrzymuje brzmienie: „
 
-- **70)** wart. 124 wust. 1:
-    - **a)** wpkt 3 wyraz Ńniewłaściwe” zastępuje się wyrazami Ńniezgodne ze stanem faktycznym”,
-    - **b)** pkt 6 otrzymuje brzmienie: Ń6) nie wykonuje obowiązków nałożonych decyzją wydaną na podstawie art. 54 ust. 5 lub art. 61 ust. 4 albo określonych w art. 56 ust. 3,”,
-    - **c)** pkt 12—14 otrzymują brzmienie: Ń12) nie wypełnia obowiązków lub wymagań dotyczących łączenia sieci telekomunikacyjnych, lub zapewnienia dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień,
+2. W Biuletynie URTiP zamieszcza się wymagane ustawą informacje i rozstrzygnięcia Prezesa URTiP, zalecenia dotyczące stosowania norm lub wymagań technicznych, roczne raporty o jakości świadczenia usług powszechnych przez operatorów, dane dotyczące wyników kalkulacji kosztów stosowanych przez operatorów o znaczącej pozycji rynkowej w zakresie świadczenia usług za pomocą publicznych sieci telefonicznych lub w zakresie świadczenia usługi dzierżawy łączy telekomunikacyjnych, sprawozdania oraz wyniki kalkulacji kosztów, o których mowa w art. 59 ust. 4 pkt 6, wraz z raportem określającym ich zgodność z określonymi zasadami przygotowanymi przez podmiot przeprowadzający badanie, wykazy udzielonych zezwoleń, informacje i ogłoszenia dotyczące wykorzystania częstotliwości i kompatybilności elektromagnetycznej oraz inne informacje – w zakresie ustalonym przez Prezesa URTiP ” ;
 
-- **13)** nie wypełnia obowiązków dotyczących ofert określających ramowe warunki umów opołączeniu sieci, umów odostępie do lokalnej pętli abonenckiej lub o świadczenie usług telekomunikacyjnych,
-- **14)** rozwiązuje umowę o połączeniu sieci lub umowę o dostępie do lokalnej pętli abonenckiej niezgodnie zprzepisami ustawy,”,
-    - **d)** pkt 17 otrzymuje brzmienie: Ń17) nie stosuje warunków połączenia sieci telekomunikacyjnych oraz rozliczeń z tytułu wzajemnego korzystania z sieci telekomunikacyjnych lub warunków zapewnienia dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień, określonych wdecyzji lub wumowie,”;
+- **69)** w art. 122: w ust. 1 po wyrazie „do” dodaje się wyraz „organów,”, w ust. 2 po wyrazach „używana przez” dodaje się wyraz „organy,”;
+    - **a)**
+    - **b)**
 
-- **71)** po art. 150 dodaje się art. 150awbrzmieniu: ŃArt. 150a. Przepisy art. 34 ust. 3c pkt 2, art. 69a i art. 69b tracą moc z dniem uzyskania przez Rzeczpospolitą Polską członkostwa wUnii Europejskiej.”;
-- **72)** w art. 151 w pkt 4 na końcu dodaje się przecinek idodaje się pkt 5 wbrzmieniu: Ń5) art. 110 ust. 1 pkt 11—13, które wchodzą w życie zdniem uzyskania przez Rzeczpospolitą Polską członkostwa wUnii Europejskiej.”.
+- **70)** w art. 124 w ust. 1: w pkt 3 wyraz „niewłaściwe” zastępuje się wyrazami „niezgodne ze stanem faktycznym”, pkt 6 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
 
-**Art. 2.** Wustawie zdnia 6 kwietnia 1990 r. oPolicji (Dz. U. z 2002 r. 7, poz. 58, 19, poz. 185, 74, poz. 676, 81, poz. 731, 113, poz. 984, 115, poz. 996, 153, poz. 1271, 176, poz. 1457 iNr 200, poz. 1688 oraz z 2003 r. 90, poz. 844) wprowadza się następujące zmiany:
+- **6)** nie wykonuje obowiązków nałożonych decyzją wydaną na podstawie art. 54 ust. 5 lub art. 61 ust. 4 albo określonych w art. 56 ust. 3, ” , pkt 12–14 otrzymują brzmienie: „
+    - **c)**
 
-**Art. 3.** W ustawie z dnia 12 paêdziernika 1990 r. o Straży Granicznej (Dz. U. z 2002 r. 171, poz. 1399 oraz z 2003 r. 90, poz. 844) w art. 9e w ust. 8 pkt 4 Ń4) dane osoby lub inne dane pozwalające na jednoznaczne określenie podmiotu lub przedmiotu, wobec którego stosowana będzie kontrola operacyjna, ze wskazaniem miejsca lub sposobu jej stosowania;”.
+- **12)** nie wypełnia obowiązków lub wymagań dotyczących łączenia sieci telekomunikacyjnych, lub zapewnienia dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień,
+- **13)** nie wypełnia obowiązków dotyczących ofert określających ramowe warunki umów o połączeniu sieci, umów o dostępie do lokalnej pętli abonenckiej lub o świadczenie usług telekomunikacyjnych,
+- **14)** rozwiązuje umowę o połączeniu sieci lub umowę o dostępie do lokalnej pętli abonenckiej niezgodnie z przepisami ustawy, ” , pkt 17 otrzymuje brzmienie: „
+    - **d)**
 
-**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. o ˚andarmerii Wojskowej iwojskowych organach porządkowych (Dz. U. 123, poz. 1353 iNr 154, poz. 1800 oraz z 2002 r. 74, poz. 676 i 89, poz. 804) w art. 31 wust. 8 pkt 4 otrzymuje brzmienie: Ń4) dane osoby lub inne dane pozwalające na jednoznaczne określenie podmiotu lub przedmiotu, wobec którego stosowana będzie kontrola operacyjna, ze wskazaniem miejsca lub sposobu jej stosowania,”.
+- **17)** nie stosuje warunków połączenia sieci telekomunikacyjnych oraz rozliczeń z tytułu wzajemnego korzystania z sieci telekomunikacyjnych lub warunków zapewnienia dostępu do lokalnej pętli abonenckiej i związanych z nim udogodnień, określonych w decyzji lub w umowie, ” ;
+- **71)** po art. 150 dodaje się art. 150a w brzmieniu: „
 
-**Art. 5.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. 74, poz. 676 oraz z 2003 r. 90, poz. 844) wart. 27 wust. 7 pkt 4 otrzymuje brzmienie: Ń4) dane osoby lub inne dane pozwalające na jednoznaczne określenie podmiotu lub przedmiotu, wobec którego stosowana będzie kontrola operacyjna, ze wskazaniem miejsca lub sposobu jej stosowania,”.
+**Art. 150a.** Przepisy art. 34 ust. 3c pkt 2, art. 69a i art. 69b tracą moc z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. ” ;
+
+**Art. 3.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2002 r. Nr 171, poz. 1399 oraz z 2003 r. Nr 90, poz. 844) w art. 9e w ust. 8 pkt 4 otrzymuje brzmienie: „
+
+**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. Nr 123, poz. 1353 i Nr 154, poz. 1800 oraz z 2002 r. Nr 74, poz. 676 i Nr 89, poz. 804) w art. 31 w ust. 8 pkt 4 otrzymuje brzmienie: „
+
+**Art. 5.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. Nr 74, poz. 676 oraz z 2003 r. Nr 90, poz. 844) w art. 27 w ust. 7 pkt 4 otrzymuje brzmienie: „
 
 **Art. 6.**
 
-1. Operatora, który w dniu wejścia w życie ustawy zajmuje pozycję dominującą wzakresie świadczenia usług powszechnych, uznaje się za operatora o znaczącej pozycji rynkowej w zakresie świadczenia usług telefonicznych wstacjonarnych publicznych sieciach telefonicznych.
+1. Operatora, który w dniu wejścia w życie ustawy zajmuje pozycję dominującą w zakresie świadczenia usług powszechnych, uznaje się za operatora o znaczącej pozycji rynkowej w zakresie świadczenia usług telefonicznych w stacjonarnych publicznych sieciach telefonicznych.
 
-2. Operatora, który w dniu wejścia w życie ustawy zajmuje pozycję dominującą w zakresie świadczenia usług, októrych mowa wart. 57 ust. 4 pkt 2—4 ustawy, o której mowa w art. 1, uznaje się za operatora o znaczącej pozycji rynkowej wzakresie tych usług.
+2. Operatora, który w dniu wejścia w życie ustawy zajmuje pozycję dominującą w zakresie świadczenia usług, o których mowa w art. 57 ust. 4 pkt 2–4 ustawy, o której mowa w art. 1, uznaje się za operatora o znaczącej pozycji rynkowej w zakresie tych usług.
 
-3. Operator, który w dniu wejścia w życie ustawy zajmuje pozycję dominującą w zakresie świadczenia usług powszechnych, oraz operator, który wdniu wejścia wżycie ustawy zajmuje pozycję dominującą wzakresie świadczenia usług, o których mowa w art. 57 ust. 4 pkt 3 lub 4 ustawy, o której mowa w art. 1, jest obowiązany do przedłożenia Prezesowi URTiP oferty, o której mowa w art. 79 ust. 1 ustawy, o której mowa wart. 1, wterminie 3 miesięcy od dnia wejścia wżycie ustawy.
+3. Operator, który w dniu wejścia w życie ustawy zajmuje pozycję dominującą w zakresie świadczenia usług powszechnych, oraz operator, który w dniu wejścia w życie ustawy zajmuje pozycję dominującą w zakresie świadczenia usług, o których mowa w art. 57 ust. 4 pkt 3 lub 4 ustawy, o której mowa w art. 1, jest obowiązany do przedłożenia Prezesowi URTiP oferty, o której mowa w art. 79 ust. 1 ustawy, o której mowa w art. 1, w terminie 3 miesięcy od dnia wejścia w życie ustawy.
 
-4. Do czasu ustalenia znaczącej pozycji rynkowej operatorów publicznych wzakresie świadczenia usług telefonicznych w stacjonarnych publicznych sieciach telefonicznych na obszarze województw w drodze decyzji, obowiązki, októrych mowa wart. 49 ust. 1 ustawy, októrej mowa wart. 1, ciążą na operatorze publicznym, który w dniu wejścia w życie ustawy zajmował dominującą pozycję rynkową w zakresie świadczenia usług powszechnych.
+4. Do czasu ustalenia znaczącej pozycji rynkowej operatorów publicznych w zakresie świadczenia usług telefonicznych w stacjonarnych publicznych sieciach telefonicznych na obszarze województw w drodze decyzji, obowiązki, o których mowa w art. 49 ust. 1 ustawy, o której mowa w art. 1, ciążą na operatorze publicznym, który w dniu wejścia w życie ustawy zajmował dominującą pozycję rynkową w zakresie świadczenia usług powszechnych.
 
-**Art. 7.** otrzymuje brzmienie: 1. Przepisy ustawy dotyczące oznakowania, o którym mowa w art. 94 ust. 2a ustawy, o której mowa wart. 1, iposługiwania się tym oznakowaniem stosuje się do dnia uzyskania przez Rzeczpospolitą Polską członkostwa wUnii Europejskiej. 2. Wyrób oznakowany przed dniem, o którym mowa w ust. 1, może być po tym dniu nadal stosowany i jest uznawany za wyrób spełniający wymagania zasadnicze.
+**Art. 7.**
+
+1. Przepisy ustawy dotyczące oznakowania, o którym mowa w art. 94 ust. 2a ustawy, o której mowa w art. 1, i posługiwania się tym oznakowaniem stosuje się do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+
+2. Wyrób oznakowany przed dniem, o którym mowa w ust. 1, może być po tym dniu nadal stosowany i jest uznawany za wyrób spełniający wymagania zasadnicze.
 
 **Art. 8.**
 
-1. Operator stacjonarnej publicznej sieci telefonicznej eksploatujący lokalne pętle abonenckie jest uprawniony do pobierania od operatora, któremu umożliwia świadczenie usług połączeń telefonicznych do swoich abonentów, dopłaty ztytułu deficytu ponoszonego wzwiązku zbudową ieksploatacją linii łączących udostępnione abonentom przez operatora zakończenia sieci zurządzeniami sieci telekomunikacyjnej tego operatora, wykonującymi komutację, zwanej dalej Ńdopłatą”.
+1. Operator stacjonarnej publicznej sieci telefonicznej eksploatujący lokalne pętle abonenckie jest uprawniony do pobierania od operatora, któremu umożliwia świadczenie usług połączeń telefonicznych do swoich abonentów, dopłaty z tytułu deficytu ponoszonego w związku z budową i eksploatacją linii łączących udostępnione abonentom przez operatora zakończenia sieci z urządzeniami sieci telekomunikacyjnej tego operatora, wykonującymi komutację, zwanej dalej „dopłatą”.
 
-2. Deficyt, októrym mowa wust. 1, oblicza się jako sumę ujemnych różnic między uzyskanymi w danym roku obrotowym zkażdej lokalnej pętli abonenc5. Do określenia dopłat, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 78—80 iart. 82—86 ustawy, októrej mowa wart. 1.
+2. Deficyt, o którym mowa w ust. 1, oblicza się jako sumę ujemnych różnic między uzyskanymi w danym roku obrotowym z każdej lokalnej pętli abonenckiej przychodami z opłat instalacyjnych, abonamentowych oraz za połączenia telefoniczne, z uwzględnieniem salda rozliczeń z tytułu połączeń międzyoperatorskich, a poniesionymi w tym roku kosztami wytworzenia usług w każdej z tych lokalnych pętli abonenckich.
 
-6. Operator jest obowiązany do dostosowania umowy opołączeniu sieci wzakresie, októrym mowa wust. 1, wterminie 12 miesięcy od dnia wejścia wżycie ustawy.
+3. Dopłatę oblicza się jako iloraz kwoty deficytu, obliczonego zgodnie z zasadami określonymi w ust. 2, oraz łącznej liczby minut rozpoczęć i zakończeń połączeń telefonicznych w sieci operatora występującego o dopłatę obejmującej ruch przychodzący od innych operatorów, ruch wychodzący do innych operatorów i ruch zrealizowany w całości w sieci operatora żądającego dopłaty.
+
+4. Dopłatę dodaje się do ceny każdej pełnej minuty usługi rozpoczęcia lub zakończenia połączenia w sieci operatora żądającego dopłaty.
+
+5. Do określenia dopłat, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 78–80 i art. 82–86 ustawy, o której mowa w art. 1.
+
+6. Operator jest obowiązany do dostosowania umowy o połączeniu sieci w zakresie, o którym mowa w ust. 1, w terminie 12 miesięcy od dnia wejścia w życie ustawy.
 
 7. Dopłata może być stosowana do czasu ogłoszenia przez Prezesa URTiP informacji o zrównoważeniu cen usług telefonicznych, nie dłużej niż do dnia 31 grudnia 2003 r.
 
-**Art. 9.** Do dnia 1 stycznia 2004 r. ceny usług powszechnych świadczonych przez operatora obowiązanego do świadczenia usług powszechnych mogą być ustalane z uwzględnieniem cen na te usługi innych operatorów europejskich działających na konkurencyjnych rynkach, zuwzględnieniem stopnia rozwoju rynku polskiego. kiej przychodami z opłat instalacyjnych, abonamentowych oraz za połączenia telefoniczne, z uwzględnieniem salda rozliczeń ztytułu połączeń międzyoperatorskich, a poniesionymi w tym roku kosztami wytworzenia usług w każdej z tych lokalnych pętli abonenckich. 3. Dopłatę oblicza się jako iloraz kwoty deficytu, obliczonego zgodnie z zasadami określonymi w ust. 2, oraz łącznej liczby minut rozpoczęć i zakończeń połączeń telefonicznych w sieci operatora występującego o dopłatę obejmującej ruch przychodzący od innych operatorów, ruch wychodzący do innych operatorów iruch zrealizowany wcałości wsieci operatora żądającego dopłaty. 4. Dopłatę dodaje się do ceny każdej pełnej minuty usługi rozpoczęcia lub zakończenia połączenia w sieci operatora żądającego dopłaty.
+**Art. 9.** Do dnia 1 stycznia 2004 r. ceny usług powszechnych świadczonych przez operatora obowiązanego do świadczenia usług powszechnych mogą być ustalane z uwzględnieniem cen na te usługi innych operatorów europejskich działających na konkurencyjnych rynkach, z uwzględnieniem stopnia rozwoju rynku polskiego.
 
 **Art. 10.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie ustawy, októrej mowa wart. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia wżycie ustawy, zzastrzeżeniem ust. 2.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie ustawy, z zastrzeżeniem ust. 2.
 
-2. Przepisy wydane na podstawie art. 88 ust. 2 pkt 2 ustawy, októrej mowa wart. 1, zachowują moc.
+2. Przepisy wydane na podstawie art. 88 ust. 2 pkt 2 ustawy, o której mowa w art. 1, zachowują moc.
 
-**Art. 11.** Do postępowania w sprawach o wydanie pozwolenia radiowego, wszczętego iniezakończonego przed dniem wejścia w życie ustawy, stosuje się przepisy ustawy.
+**Art. 11.** Do postępowania w sprawach o wydanie pozwolenia radiowego, wszczętego i niezakończonego przed dniem wejścia w życie ustawy, stosuje się przepisy ustawy.
 
-**Art. 12.** Ustawa wchodzi wżycie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 10, który wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
+**Art. 12.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 10, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

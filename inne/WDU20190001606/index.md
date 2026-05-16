@@ -8,9 +8,10 @@ pos: 1606
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 sierpnia 2019 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 1 sierpnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o administrowaniu obrotem towarowym z zagranicą
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +25,36 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1606/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2019 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o administrowaniu obrotem towarowym z zagranicą
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą (Dz. U. z 2017 r.
-poz. 1021), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2019 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 54 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244), który stanowi: „Art. 54. Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem:
-1) art. 1, art. 18 i art. 35, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-2) art. 4, art. 6, art. 17, art. 19 i art. 44, które wchodzą w życie z dniem 1 lipca 2019 r.;
-3) art. 7 pkt 1 i art. 8 pkt 1 lit. a, które wchodzą w życie z dniem 1 stycznia 2020 r.”.
-Marszałek Sejmu: M. Kuchciński
-USTAWA z dnia 16 kwietnia 2004 r.
-o administrowaniu obrotem towarowym z zagranicą
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą Dział I – Przepisy ogólne Dział II – Obrót towarami z krajami trzecimi dokonywany na podstawie przepisów prawa wspólnotowego Dział III – Środki administrowania obrotem towarami z zagranicą Rozdział 1 – Przepisy ogólne Rozdział 2 – Automatyczna rejestracja Rozdział 3 – Kontyngent i zakaz Rozdział 4 – Pozwolenia Rozdział 5 – Kaucja Dział IIIA – Kary pieniężne Dział IV – Zmiany w przepisach obowiązujących i przepisy końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą (Dz. U. z 2017 r. poz. 1021), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2019 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 54 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244), który stanowi:
+„
+1.
+Karze pieniężnej podlega ten, kto, będąc importerem nasion konopi nieprzeznaczonych do siewu, oznaczonych kodem CN 1207 99 91:
+1)
+nie poddaje ich czynnościom, o których mowa w art. 17a ust. 2 rozporządzenia Komisji (WE) nr 245/2001 z dnia 5 lutego 2001 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1673/2000 w sprawie wspólnej organizacji rynków lnu i konopi uprawianych na włókno (Dz. Urz. WE L 35 z 06.02.2001), ostatnio zmienionego rozporządzeniem Komisji (WE) nr 1401/2003 z dnia 6 sierpnia 2003 r. zmieniającym rozporządzenie (WE) nr 245/2001 ustanawiające szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1673/2000 w sprawie wspólnej organizacji rynku lnu i konopi uprawianych na włókno (Dz. Urz. WE L 199 z 07.08.2003), lub nie czyni tego w sposób lub w terminach, o których mowa w art. 17a ust. 2 tego rozporządzenia;
+2)
+nie przekazuje w terminie, o którym mowa w przepisach wydanych na podstawie art. 8g pkt 3, dokumentów potwierdzających wykonanie czynności, o których mowa w art. 17a ust. 2 rozporządzenia Komisji (WE) 245/2001, o którym mowa w pkt 1;
+3)
+nie prowadzi dokumentacji, o której mowa w art. 8f.
+2.
+Kara pieniężna wynosi 60% wartości celnej przywiezionych nasion konopi, objętych pozwoleniem na przywóz towarów rolno-spożywczych.
+3.
+Wysokość kary pieniężnej ustala, w drodze decyzji administracyjnej, Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa.
+4.
+Od decyzji Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa przysługuje odwołanie do ministra właściwego do spraw rynków rolnych.
+5.
+Do egzekucji kary pieniężnej stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+6.
+Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 
-### DZIAŁ I Przepisy ogólne
+**Art. 54.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem:
+
+### Dział I Przepisy ogólne
 
 **Art. 1.**
 
@@ -46,9 +64,7 @@ o administrowaniu obrotem towarowym z zagranicą
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-**Art. 2a.** Zadania, które zgodnie z ustawą wykonuje Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, są wykonywane jako zadania delegowane Krajowemu Ośrodkowi Wsparcia Rolnictwa zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
-
-### DZIAŁ II Obrót towarami z krajami trzecimi dokonywany na podstawie przepisów prawa wspólnotowego
+### Dział II Obrót towarami z krajami trzecimi dokonywany na podstawie przepisów prawa wspólnotowego
 
 **Art. 3.**
 
@@ -65,13 +81,11 @@ o administrowaniu obrotem towarowym z zagranicą
 - **9)** (uchylony)
 - **10)** powrotny wywóz towaru pozwolenie to jest wydawane w drodze decyzji administracyjnej.
 
-2. Do dokumentów, które zgodnie z przepisami prawa wspólnotowego lub przepisami wydanymi na podstawie art. 3a dołącza się do wniosku o udzielenie pozwolenia, o którym mowa w ust. 1, sporządzonych w języku obcym należy, na żądanie organu wydającego pozwolenie, dołączyć tłumaczenie tych dokumentów na język polski sporządzone przez tłumacza przysięgłego.
-
-**Art. 3a.** Jeżeli wynika to z przepisów prawa wspólnotowego w zakresie administrowania obrotem towarami z krajami trzecimi, minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, warunki udzielenia i wykorzystania pozwolenia na przywóz lub wywóz towarów, mając na uwadze potrzebę zapewnienia szczególnej kontroli uzasadnionej specyfiką obrotu określonymi towarami z zagranicą i uwzględniając przesłanki zawarte w przepisach prawa wspólnotowego.
+2. Do dokumentów, które zgodnie z przepisami prawa wspólnotowego lub przepisami wydanymi na podstawie art. 3a dołącza się do wniosku o udzielenie pozwolenia, o którym mowa w ust. 1, sporządzonych w języku obcym należy, na żądanie organu wydającego pozwolenie, dołączyć tłumaczenie tych dokumentów na język polski sporządzone przez tłumacza przysięgłego. Jeżeli wynika to z przepisów prawa wspólnotowego w zakresie administrowania obrotem towarami z krajami trzecimi, minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, warunki udzielenia i wykorzystania pozwolenia na przywóz lub wywóz towarów, mając na uwadze potrzebę zapewnienia szczególnej kontroli uzasadnionej specyfiką obrotu określonymi towarami z zagranicą i uwzględniając przesłanki zawarte w przepisach prawa wspólnotowego.
 
 **Art. 4.**
 
-- **4)** 1. Z zastrzeżeniem warunków i zasad określonych w przepisach prawa wspólnotowego oraz z zastrzeżeniem ust. 2 w sprawach indywidualnych rozstrzyganych w drodze decyzji administracyjnej stosuje się przepisy Kodeksu postępowania administracyjnego, z wyłączeniem art. 10, art. 57 § 5, art. 58–60, art. 75, art. 76 § 2 i 3, art. 77 § 2–4, art. 78–88 oraz art. 97–103.
+1. Z zastrzeżeniem warunków i zasad określonych w przepisach prawa wspólnotowego oraz z zastrzeżeniem ust. 2 w sprawach indywidualnych rozstrzyganych w drodze decyzji administracyjnej stosuje się przepisy Kodeksu postępowania administracyjnego, z wyłączeniem art. 10, art. 57 § 5, art. 58–60, art. 75, art. 76 § 2 i 3, art. 77 § 2–4, art. 78–88 oraz art. 97–103.
 
 2. W sprawach indywidualnych, w których wymóg uzyskania pozwolenia jest wynikiem wprowadzenia nadzoru uprzedniego lub innej formy automatycznej rejestracji w obrocie towarami z krajami trzecimi, pełnomocnik wnioskodawcy, na żądanie organu wydającego pozwolenie, przekazuje organowi oryginał lub urzędowo poświadczony odpis udzielonego pełnomocnictwa. Przepisu art. 33 § 3 Kodeksu postępowania administracyjnego nie stosuje się.
 
@@ -104,15 +118,13 @@ o administrowaniu obrotem towarowym z zagranicą
 
 2. W rozporządzeniu, o którym mowa w ust. 1, należy określić w szczególności instrukcję wypełniania, stosowania i przekazywania wniosków oraz strukturę przesyłanych danych, mając na uwadze uproszczenie procedury przyjmowania wniosków o udzielenie pozwoleń.
 
-**Art. 8a.**
+1. W przypadku towarów rolno-spożywczych, w zakresie określonym przepisami prawa wspólnotowego, Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, w drodze decyzji administracyjnej, nadaje, na wniosek importera lub eksportera wspólnotowego, upoważnienie w zakresie obrotu towarami rolno -spożywczymi z krajami trzecimi, odmawia jego nadania, zmienia oraz cofa nadane upoważnienie.
 
-1. W przypadku towarów rolno-spożywczych, w zakresie określonym przepisami prawa wspólnotowego, Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, w drodze decyzji administracyjnej, nadaje, na wniosek importera lub eksportera wspólnotowego, upoważnienie w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi, odmawia jego nadania, zmienia oraz cofa nadane upoważnienie.
+2. Od decyzji Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa przysługuje odwołanie do ministra właściwego do spraw rynków rolnych. Odmowa nadania upoważnienia, o którym mowa w art. 8a ust. 1, następuje, jeżeli:
 
-2. Od decyzji Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa przysługuje odwołanie do ministra właściwego do spraw rynków rolnych.
-
-**Art. 8b.** Odmowa nadania upoważnienia, o którym mowa w art. 8a ust. 1, następuje, jeżeli:
-
-**Art. 8c.**
+- **1)** wnioskodawca nie spełnił wymogów określonych w przepisach wydanych na podstawie art. 8e;
+- **2)** wnioskodawca wystąpił z wnioskiem o wydanie decyzji przed upływem terminu, o którym mowa w art. 8c ust. 3, pod warunkiem że cofnięcie poprzednio nadanego upoważnienia nastąpiło z przyczyn, o których mowa w art. 8c ust. 1 pkt 3;
+- **3)** nie ustały przyczyny, o których mowa w art. 8c ust. 1 pkt 1 lub 2.
 
 1. Cofnięcie nadanego upoważnienia, o którym mowa w art. 8a ust. 1, następuje:
 
@@ -122,13 +134,12 @@ o administrowaniu obrotem towarowym z zagranicą
 
 2. W przypadku cofnięcia nadanego upoważnienia z przyczyn, o których mowa w ust. 1 pkt 1 lub 2, kolejna decyzja o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi może być wydana po ustaniu przyczyn, dla których nastąpiło cofnięcie poprzednio nadanego upoważnienia.
 
-3. W przypadku cofnięcia nadanego upoważnienia z przyczyn, o których mowa w ust. 1 pkt 3, wniosek importera lub eksportera wspólnotowego o nadanie upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi może być złożony nie wcześniej niż po upływie roku od dnia cofnięcia tego upoważnienia.
+3. W przypadku cofnięcia nadanego upoważnienia z przyczyn, o których mowa w ust. 1 pkt 3, wniosek importera lub eksportera wspólnotowego o nadanie upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi może być złożony nie wcześniej niż po upływie roku od dnia cofnięcia tego upoważnienia. Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa stwierdza wygaśnięcie decyzji o nadaniu upoważnienia, jeżeli z czynności kontrolnych przeprowadzonych zgodnie z ustawą z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa wynika, że importer lub eksporter wspólnotowy zaprzestał prowadzenia działalności objętej decyzją lub został wykreślony z rejestru lub ewidencji prowadzonych na podstawie odrębnych przepisów. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych określi, w drodze rozporządzenia:
 
-**Art. 8d.** Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa stwierdza wygaśnięcie decyzji o nadaniu upoważnienia, jeżeli z czynności kontrolnych przeprowadzonych zgodnie z ustawą z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa wynika, że importer lub eksporter wspólnotowy zaprzestał prowadzenia działalności objętej decyzją lub został wykreślony z rejestru lub ewidencji prowadzonych na podstawie odrębnych przepisów.
-
-**Art. 8e.** Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych określi, w drodze rozporządzenia:
-
-**Art. 8f.**
+- **1)** wzór wniosku stosowany w postępowaniu o wydanie decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi,
+- **2)** wykaz dokumentów i informacji, które powinny być dołączone do wniosku,
+- **3)** wzór decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi,
+- **4)** sposób i tryb ewidencjonowania wydanych decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego w tym zakresie, a także maksymalne uproszczenie i ujednolicenie wymogów dotyczących dokumentów i informacji, które są niezbędne w postępowaniu o wydanie decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi, i ich ewidencjonowania.
 
 1. Importer lub eksporter wspólnotowy towarów rolno-spożywczych objętych pozwoleniem na przywóz lub wywóz towarów rolno-spożywczych, w ramach decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi, prowadzi dokumentację tych towarów zawierającą:
 
@@ -137,15 +148,12 @@ o administrowaniu obrotem towarowym z zagranicą
 - **3)** wskazanie ilości lub masy każdej partii przywiezionego lub wywiezionego towaru rolno-spożywczego;
 - **4)** określenie rodzaju czynności, jakim został poddany towar rolno-spożywczy, wraz z określeniem masy towaru poddanego tym czynnościom, o ile obowiązek przeprowadzenia takich czynności wynika z przepisów prawa wspólnotowego.
 
-2. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, dodatkowe wymogi dotyczące dokumentacji, o której mowa w ust. 1, mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego w tym zakresie.
+2. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, dodatkowe wymogi dotyczące dokumentacji, o której mowa w ust. 1, mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego w tym zakresie. Jeżeli wynika to z przepisów prawa wspólnotowego w zakresie administrowania obrotem towarami rolno-spożywczymi z krajami trzecimi, minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych określi, w drodze rozporządzenia:
 
-**Art. 8g.** Jeżeli wynika to z przepisów prawa wspólnotowego w zakresie administrowania obrotem towarami rolno-spożywczymi z krajami trzecimi, minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych określi, w drodze rozporządzenia:
-
-**Art. 8h.** Odmowa udzielenia pozwolenia na przywóz lub wywóz towarów rolno-spożywczych następuje, jeżeli wnioskodawca nie spełnia wymogów określonych w przepisach prawa wspólnotowego lub przepisach wydanych na podstawie art. 8g.
-
-**Art. 8i.** Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa przekazuje Komisji Europejskiej oraz zainteresowanym władzom państw członkowskich informacje dotyczące administrowania obrotem towarami rolno-spożywczymi z krajami trzecimi w zakresie, o którym mowa w przepisach prawa wspólnotowego.
-
-**Art. 8j.**
+- **1)** wzór wniosku stosowany w postępowaniu o udzielenie pozwolenia na przywóz lub wywóz towarów rolno-spożywczych,
+- **2)** wykaz dokumentów, które powinny być dołączone do wniosku,
+- **3)** wykaz dokumentów potwierdzających dokonanie czynności, jakim zostały poddane towary rolno-spożywcze objęte pozwoleniem, oraz termin składania tych dokumentów,
+- **4)** termin ważności pozwolenia na przywóz lub wywóz towarów rolno-spożywczych mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego. Odmowa udzielenia pozwolenia na przywóz lub wywóz towarów rolno-spożywczych następuje, jeżeli wnioskodawca nie spełnia wymogów określonych w przepisach prawa wspólnotowego lub przepisach wydanych na podstawie art. 8g. Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa przekazuje Komisji Europejskiej oraz zainteresowanym władzom państw członkowskich informacje dotyczące administrowania obrotem towarami rolno-spożywczymi z krajami trzecimi w zakresie, o którym mowa w przepisach prawa wspólnotowego.
 
 1. Organy celne przekazują informacje o dokonanym przywozie z krajów trzecich towarów objętych środkami ochronnymi ustanowionymi na podstawie:
 
@@ -157,17 +165,11 @@ o administrowaniu obrotem towarowym z zagranicą
 
 2. Informacje, o których mowa w ust. 1, są rejestrowane i przekazywane zgodnie z przepisami wydanymi na podstawie art. 15 ust. 3, w zakresie określonym w tych przepisach.
 
-### DZIAŁ III Środki administrowania obrotem towarami z zagranicą
+### Dział III Środki administrowania obrotem towarami z zagranicą
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 9.** Środki administrowania obrotem towarami z zagranicą, o których mowa w art. 10 ust. 1, są ustanawiane:
-
-**Art. 9a.**
-
-1. W celu zapewnienia skutecznego stosowania przepisów prawa wspólnotowego automatyczna rejestracja polegająca na rejestracji przez organ celny przywozu towarów z krajów trzecich może być ustanowiona na przywóz towarów podobnych lub konkurencyjnych w stosunku do towarów objętych środkami ochronnymi ustanowionymi na podstawie przepisów, o których mowa w art. 8j ust. 1.
-
-2. Minister właściwy do spraw gospodarki, ustanawiając automatyczną rejestrację na przywóz towarów podobnych lub konkurencyjnych w stosunku do towarów objętych środkami ochronnymi ustanowionymi na podstawie przepisów, o których mowa w art. 8j, kieruje się potrzebą wyeliminowania przypadków klasyfikacji towarowej mającej na celu uniknięcie zastosowania środków ochronnych.
 
 **Art. 10.**
 
@@ -353,7 +355,7 @@ o administrowaniu obrotem towarowym z zagranicą
 
 2. Kaucja nie podlega przepadkowi na rzecz Skarbu Państwa:
 
-- **1)** w przypadku uchylenia rozporządzenia o ustanowieniu automatycznej rejestracji albo kontyngentu przed upływem terminu, na który automatyczna rejestracja albo kontyngent został ustanowiony w odniesieniu do pozwoleń, których termin ważności wykracza poza termin wejścia w życie rozporządzenia o uchyleniu automatycznej rejestracji albo kontyngentu;
+- **1)** w przypadku uchylenia rozporządzenia o ustanowieniu automatycznej rejestracji albo kontyngentu przed upływem terminu, na który automatyczna rejestracja albo kontyngent został ustanowiony – w odniesieniu do pozwoleń, których termin ważności wykracza poza termin wejścia w życie rozporządzenia o uchyleniu automatycznej rejestracji albo kontyngentu;
 - **2)** w przypadkach określonych w przepisach wydanych na podstawie art. 38.
 
 **Art. 37.** Jeżeli pozwolenie zostało udzielone na przywóz lub wywóz określonej liczby sztuk danego towaru, wynik obliczenia, o którym mowa w art. 34, 35 oraz 36 ust. 1 pkt 1, zaokrągla się w górę do najbliższej liczby całkowitej.
@@ -362,31 +364,13 @@ o administrowaniu obrotem towarowym z zagranicą
 
 **Art. 39.** Od kwoty zwróconej kaucji nie płaci się odsetek.
 
-### DZIAŁ IIIA Kary pieniężne
+### Dział IIIA Kary pieniężne
 
-**Art. 39a.**
-
-1. Karze pieniężnej podlega ten, kto, będąc importerem nasion konopi nieprzeznaczonych do siewu, oznaczonych kodem CN 1207 99 91:
-
-- **1)** nie poddaje ich czynnościom, o których mowa w art. 17a ust. 2 rozporządzenia Komisji (WE) nr 245/2001 z dnia 5 lutego 2001 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1673/2000 w sprawie wspólnej organizacji rynków lnu i konopi uprawianych na włókno (Dz. Urz. WE L 35 z 06.02.2001), ostatnio zmienionego rozporządzeniem Komisji (WE) nr 1401/2003 z dnia 6 sierpnia 2003 r. zmieniającym rozporządzenie (WE) nr 245/2001 ustanawiające szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1673/2000 w sprawie wspólnej organizacji rynku lnu i konopi uprawianych na włókno (Dz. Urz. WE L 199 z 07.08.2003), lub nie czyni tego w sposób lub w terminach, o których mowa w art. 17a ust. 2 tego rozporządzenia;
-- **2)** nie przekazuje w terminie, o którym mowa w przepisach wydanych na podstawie art. 8g pkt 3, dokumentów potwierdzających wykonanie czynności, o których mowa w art. 17a ust. 2 rozporządzenia Komisji (WE) 245/2001, o którym mowa w pkt 1;
-- **3)** nie prowadzi dokumentacji, o której mowa w art. 8f.
-
-2. Kara pieniężna wynosi 60% wartości celnej przywiezionych nasion konopi, objętych pozwoleniem na przywóz towarów rolno-spożywczych.
-
-3. Wysokość kary pieniężnej ustala, w drodze decyzji administracyjnej, Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa.
-
-4. Od decyzji Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa przysługuje odwołanie do ministra właściwego do spraw rynków rolnych.
-
-5. Do egzekucji kary pieniężnej stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
-
-6. Wpłacone kary pieniężne stanowią dochód budżetu państwa.
-
-### DZIAŁ IV Zmiany w przepisach obowiązujących i przepisy końcowe
+### Dział IV Zmiany w przepisach obowiązujących i przepisy końcowe
 
 **Art. 40.** (pominięty)
 
 **Art. 41.** Wnioski o udzielenie pozwolenia na obrót towarami z krajami trzecimi przyjęte przed dniem wejścia w życie ustawy, w celu wykonania prawa wspólnotowego, uznaje się za przyjęte zgodnie z przepisami ustawy. Za zgodne z przepisami ustawy uznaje się również działania organów państwa zmierzające do wykonania w tym zakresie przepisów prawa wspólnotowego.
 
-**Art. 42.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem art. 40, który wchodzi w życie z dniem 2 maja 2004 r.
+**Art. 42.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 40, który wchodzi w życie z dniem 2 maja 2004 r.
 

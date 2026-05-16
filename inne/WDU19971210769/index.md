@@ -8,6 +8,7 @@ pos: 769
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o Krajowym Rejestrze Sądowym
@@ -23,7 +24,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-20 |
 | Data wydania | 1997-10-07 |
-| Ostatnia zmiana | 2026-03-25 |
+| Ostatnia zmiana | 2026-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971210769) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.pdf) |
 
 Art. 61–85. (pominięte)

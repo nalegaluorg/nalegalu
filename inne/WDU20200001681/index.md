@@ -1,0 +1,153 @@
+---
+title: Rozporządzenie Ministra Sprawiedliwości z dnia 28 września 2020 r. w sprawie sposobu zapewnienia oskarżonemu korzystania z pomocy obrońcy z urzędu
+address: WDU20200001681
+eli: DU/2020/1681
+publisher: DU
+year: 2020
+pos: 1681
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Sprawiedliwościz dnia 28 września 2020 r. w sprawie sposobu zapewnienia oskarżonemu korzystania z pomocy obrońcy z urzędu
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 1681 |
+| ISAP | WDU20200001681 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2020-09-28 |
+| Data wydania | 2020-09-30 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1681/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 81a § 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2020 r. poz. 30, 413, 568, 1086 i 1458) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+sposób zapewnienia oskarżonemu korzystania z pomocy obrońcy z urzędu, w tym sposób ustalania listy obrońców udzielających pomocy prawnej z urzędu oraz sposób wyznaczania obrońcy udzielającego pomocy prawnej z urzędu;
+2)
+tryb przekazywania do sądu wniosku o wyznaczenie obrońcy z urzędu oraz szczegółowy tryb rozpoznawania takiego wniosku.
+§ 2.
+Okręgowa rada adwokacka przedstawia prezesowi sądu rejonowego, sądu okręgowego i sądu apelacyjnego, których obszar właściwości obejmuje zasięg terytorialny danej izby, zwanemu dalej „prezesem właściwego sądu”:
+1)
+wykaz adwokatów uprawnionych do obrony w postępowaniu karnym według przepisów o ustroju adwokatury, mających siedzibę zawodową na obszarze właściwości danego sądu, deklarujących gotowość udzielania oskarżonym pomocy prawnej z urzędu;
+2)
+wykaz pozostałych adwokatów uprawnionych do obrony w postępowaniu karnym według przepisów o ustroju adwokatury, mających siedzibę zawodową na obszarze właściwości danego sądu.
+§ 3.
+Rada okręgowej izby radców prawnych przedstawia prezesowi właściwego sądu:
+1)
+wykaz radców prawnych uprawnionych do obrony w postępowaniu karnym według ustawy o radcach prawnych, mających miejsce zamieszkania na obszarze właściwości danego sądu, deklarujących gotowość udzielania oskarżonym pomocy prawnej z urzędu;
+2)
+wykaz pozostałych radców prawnych uprawnionych do obrony w postępowaniu karnym według przepisów ustawy o radcach prawnych, mających miejsce zamieszkania na obszarze właściwości danego sądu.
+§ 4.
+1.
+Okręgowa rada adwokacka oraz rada okręgowej izby radców prawnych przedstawiają wykazy, o których mowa w § 2 i § 3, do dnia 30 października każdego roku według stanu na dzień 1 września tego roku. Wykazy mogą być przedstawiane za pośrednictwem środków komunikacji elektronicznej lub na informatycznym nośniku danych.
+2.
+Wykazy adwokatów oraz wykazy radców prawnych, o których mowa w § 2 i § 3, zawierają następujące informacje umożliwiające kontakt z adwokatem lub radcą prawnym:
+1)
+imię i nazwisko;
+2)
+adres do doręczeń;
+3)
+numer telefonu;
+4)
+numer telefaksu lub adres poczty elektronicznej.
+§ 5.
+1.
+Okręgowa rada adwokacka oraz rada okręgowej izby radców prawnych informują prezesa właściwego sądu o:
+1)
+każdej zmianie danych, o których mowa w § 4 ust. 2;
+2)
+każdej sytuacji czasowo lub trwale uniemożliwiającej udzielanie przez adwokata lub radcę prawnego pomocy prawnej z urzędu w postępowaniu karnym;
+3)
+uzyskaniu wpisu na listę adwokatów lub na listę radców prawnych, skutkującym objęciem wykazem, o którym mowa w § 2 lub § 3;
+4)
+skreśleniu adwokata lub radcy prawnego objętego wykazem, o którym mowa w § 2 lub § 3, z listy adwokatów lub z listy radców prawnych.
+2.
+Przepis § 4 ust. 1 zdanie drugie stosuje się odpowiednio.
+§ 6.
+1.
+Prezes właściwego sądu ustala na podstawie przedstawionych wykazów, o których mowa w § 2 i § 3, ułożoną w porządku alfabetycznym według nazwisk listę obrońców składającą się z:
+1)
+części A, która obejmuje adwokatów i radców prawnych, o których mowa w § 2 pkt 1 i § 3 pkt 1;
+2)
+części B, która obejmuje adwokatów i radców prawnych, o których mowa w § 2 pkt 2 i § 3 pkt 2.
+2.
+W przypadku gdy prezes właściwego sądu, uwzględniając liczbę spraw, w których jest wyznaczany obrońca z urzędu, uzna, że przedstawione wykazy, o których mowa w § 2 pkt 1 i § 3 pkt 1, zawierają niewystarczającą liczbę adwokatów i radców prawnych, występuje do okręgowej rady adwokackiej i rady okręgowej izby radców prawnych o wskazanie, w terminie nie krótszym niż 7 dni od dnia otrzymania pisma prezesa właściwego sądu, dodatkowych adwokatów i radców prawnych, o których mowa w § 2 pkt 1 i § 3 pkt 1, określając ich liczbę. W razie niewskazania przez okręgową radę adwokacką i radę okręgowej izby radców prawnych dodatkowych adwokatów i radców prawnych w wyznaczonym terminie lub wskazania ich w niewystarczającej liczbie, prezes właściwego sądu ustala na podstawie przedstawionych wykazów, o których mowa w § 2 i § 3, ułożoną w porządku alfabetycznym według nazwisk listę obrońców składającą się z adwokatów i radców prawnych.
+3.
+Lista obrońców ustalona przez prezesa właściwego sądu zawiera informacje, o których mowa w § 4 ust. 2, oraz wskazanie tytułu zawodowego adwokata i radcy prawnego.
+4.
+W miarę możliwości listę obrońców sporządza się i prowadzi w formie elektronicznej.
+5.
+Prezes właściwego sądu przekazuje ustaloną listę obrońców do wiadomości okręgowej radzie adwokackiej oraz radzie okręgowej izby radców prawnych. Przepis § 4 ust. 1 zdanie drugie stosuje się odpowiednio.
+§ 7.
+W przypadku, o którym mowa w § 5 ust. 1, prezes właściwego sądu aktualizuje listę obrońców w sposób wskazany w § 6 ust. 1–3.
+§ 8.
+We wniosku o wyznaczenie obrońcy z urzędu oskarżony może wskazać, czy żąda wyznaczenia adwokata czy radcy prawnego. Prezes sądu, sąd lub referendarz sądowy przy wyznaczaniu obrońcy z urzędu nie jest związany żądaniem oskarżonego.
+§ 9.
+1.
+Prezes sądu, sąd lub referendarz sądowy wyznacza obrońcę z urzędu z listy obrońców, o której mowa w § 6 ust. 1 pkt 1 albo w § 6 ust. 2, według kolejności wpływu wniosków i potrzeb wynikających z innych okoliczności uzasadniających jego wyznaczenie, uwzględniając posiadane informacje o braku sprzeczności interesów stron postępowania. Wyznaczając obrońcę z urzędu z listy obrońców ustalonej przez prezesa sądu okręgowego oraz przez prezesa sądu apelacyjnego, bierze się pod uwagę również adres do doręczeń adwokata lub radcy prawnego względem miejsca zamieszkania lub pobytu oskarżonego oraz względem siedziby sądu.
+2.
+W razie braku możliwości wyznaczenia obrońcy z urzędu z listy obrońców, o której mowa w § 6 ust. 1 pkt 1, prezes sądu, sąd lub referendarz sądowy wyznacza obrońcę z urzędu z listy obrońców, o której mowa w § 6 ust. 1 pkt 2, w sposób wskazany w ust. 1.
+3.
+Po dokonaniu aktualizacji listy obrońców oraz w razie ustalenia nowej listy obrońców wyznaczanie obrońcy z urzędu kontynuuje się, począwszy od następnego obrońcy z urzędu po ostatnio wyznaczonym.
+4.
+W sprawach podlegających orzecznictwu wojskowych sądów garnizonowych prezes sądu lub sąd wyznacza obrońcę z urzędu w sposób wskazany w ust. 1–3 z listy obrońców ustalonej przez prezesa sądu okręgowego z siedzibą w miejscowości będącej siedzibą wojskowego sądu garnizonowego, z tym że dla Wojskowego Sądu Garnizonowego w Gdyni stosuje się listę obrońców ustaloną przez prezesa Sądu Okręgowego w Gdańsku, a dla Wojskowego Sądu Garnizonowego w Warszawie – listę obrońców ustaloną przez prezesa Sądu Okręgowego w Warszawie.
+5.
+W sprawach podlegających orzecznictwu wojskowych sądów okręgowych prezes sądu lub sąd wyznacza obrońcę z urzędu w sposób wskazany w ust. 1–3 z listy obrońców ustalonej przez prezesa sądu apelacyjnego z siedzibą w miejscowości będącej siedzibą wojskowego sądu okręgowego.
+§ 10.
+1.
+Prezes sądu, sąd lub referendarz sądowy po wyznaczeniu obrońcy z urzędu podaje oskarżonemu następujące informacje umożliwiające kontakt z adwokatem lub radcą prawnym:
+1)
+imię i nazwisko;
+2)
+adres do doręczeń;
+3)
+numer telefonu;
+4)
+numer telefaksu lub adres poczty elektronicznej.
+2.
+Prezes sądu, sąd lub referendarz sądowy po wyznaczeniu obrońcy z urzędu podaje adwokatowi lub radcy prawnemu:
+1)
+imię i nazwisko oskarżonego;
+2)
+sygnaturę sprawy;
+3)
+informację, czy oskarżony jest pozbawiony wolności, oraz nazwę jednostki, w której przebywa, a w przypadku stosowania wobec niego tymczasowego aresztowania – także nazwę organu, do którego dyspozycji pozostaje;
+4)
+dane umożliwiające kontakt z oskarżonym, takie jak: jego adres zamieszkania lub pobytu, adres do doręczeń, numer telefonu, numer telefaksu lub adres poczty elektronicznej.
+3.
+Informacje, o których mowa w ust. 1 i 2, podaje się oskarżonemu i wyznaczonemu obrońcy z urzędu jednocześnie z powiadomieniem o treści postanowienia albo zarządzenia o wyznaczeniu obrońcy z urzędu.
+§ 11.
+1.
+Wniosek o wyznaczenie obrońcy z urzędu złożony przez podejrzanego organ prowadzący postępowanie przygotowawcze przekazuje niezwłocznie do sądu właściwego do rozpoznania sprawy wraz z dokumentami złożonymi przez podejrzanego w celu wykazania, że nie jest on w stanie ponieść kosztów obrony bez uszczerbku dla niezbędnego utrzymania siebie i rodziny.
+2.
+Przekazując do sądu właściwego do rozpoznania sprawy wniosek i dokumenty, o których mowa w ust. 1, organ prowadzący postępowanie przygotowawcze dołącza akta sprawy albo odpisy z akt sprawy niezbędne do rozpoznania wniosku o wyznaczenie obrońcy z urzędu, w szczególności umożliwiające ustalenie sygnatury sprawy, danych osobowych podejrzanego oraz danych dotyczących jego sytuacji rodzinnej i majątkowej.
+3.
+Jeżeli okoliczności wskazują na konieczność natychmiastowego podjęcia obrony, organ prowadzący postępowanie przygotowawcze:
+1)
+przekazuje wniosek i dokumenty, o których mowa w ust. 1, wraz z odpisami z akt sprawy, o których mowa w ust. 2, do sądu właściwego do rozpoznania sprawy za pośrednictwem telefaksu lub poczty elektronicznej bezpośrednio po złożeniu wniosku o wyznaczenie obrońcy z urzędu;
+2)
+zawiadamia, w sposób wskazany w art. 137 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, sąd właściwy do dokonania w postępowaniu przygotowawczym czynności wymagającej natychmiastowego podjęcia obrony o złożeniu przez podejrzanego wniosku o wyznaczenie obrońcy z urzędu oraz o przekazaniu wniosku do sądu właściwego do rozpoznania sprawy oraz wskazuje datę tych czynności oraz nazwę sądu.
+4.
+Przepisy ust. 1–3 stosuje się odpowiednio do wniosku organu prowadzącego postępowanie przygotowawcze o wyznaczenie obrońcy z urzędu wobec stwierdzenia okoliczności uzasadniających wyznaczenie obrońcy z urzędu na podstawie art. 79 § 1 i § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego oraz do wniosku podejrzanego o wyznaczenie obrońcy z urzędu na podstawie art. 249 § 5 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+§ 12.
+1.
+W przypadku złożenia przez podejrzanego wniosku o wyznaczenie obrońcy z urzędu w postępowaniu przygotowawczym wprost do sądu, prezes sądu lub referendarz sądowy niezwłocznie zwraca się do organu prowadzącego postępowanie przygotowawcze o nadesłanie akt sprawy albo odpisów z akt sprawy w zakresie, o którym mowa w § 11 ust. 2.
+2.
+Jeżeli okoliczności wskazują na konieczność natychmiastowego podjęcia obrony, do czynności, o których mowa w ust. 1, stosuje się art. 137 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+§ 13.
+Jeżeli podejrzany, który złożył wniosek o wyznaczenie obrońcy z urzędu, nie wykazał w sposób należyty, że nie jest w stanie ponieść kosztów obrony bez uszczerbku dla niezbędnego utrzymania siebie i rodziny, prezes sądu lub referendarz sądowy niezwłocznie wyznacza mu odpowiedni termin na uzupełnienie wniosku.
+§ 14.
+Jeżeli okoliczności wskazują na konieczność natychmiastowego podjęcia obrony, wniosek o wyznaczenie obrońcy z urzędu prezes sądu, sąd lub referendarz sądowy rozpoznaje w pierwszej kolejności. Do czynności, o których mowa w § 13, stosuje się art. 137 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+§ 15.
+Wykazy przedstawione przez okręgową radę adwokacką i radę okręgowej izby radców prawnych po dniu 1 września 2020 r., a przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie przepisów dotychczasowych, stanowią podstawę ustalenia przez prezesa właściwego sądu listy obrońców, o której mowa w § 6 niniejszego rozporządzenia.
+§ 16.
+Rozporządzenie wchodzi w życie z dniem 5 października 2020 r.
+

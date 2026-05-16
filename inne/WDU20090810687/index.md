@@ -8,9 +8,10 @@ pos: 687
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny wskładzie: Marek Kotlinowski przewodniczący, Ewa Ęętowska sprawozdawca, Marek Mazurkiewicz, Janusz Niemcewicz, Andrzej Rzepliński, po rozpoznaniu, udziałem wnioskodawcy oraz Sejmu Prokuratora Generalnego, na rozprawie w dniu 14 maja 2009 wniosku Krajowej Rady Komorniczej ozbadanie zgodności:
+# Wyrok Trybunału Konstytucyjnegoz dnia 14 maja 2009 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,34 +25,47 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090810687) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/687/text.pdf) |
 
-1) pkt 2 dnia 24 maja 2007 r. o zmianie o komornikach sądowych egzekucji oraz niektórych innych ustaw (Dz. U. 112, poz. 769), zmieniającego brzmienie 3 ust.
-dnia 29 sierpnia 1997 r. o komornikach sądowych egzekucji (Dz. U. 2006 r. 167, poz.1191, ze zm.), usuwa słowa Ńtylko ustawom” oraz dodaje słowa Ńprezesowi sądu rejonowego, przy którym działa”, 2 oraz 7 Konstytucji,
-2) pkt 5 z24 maja 2007 zmieniającego brzmienie 8 ust. 2 29 sierpnia 1997 w zakresie, w jakim stwarza możliwość działania wielu komorników w jednym rewirze, zart. 2 Konstytucji,
-3) pkt 5 z24 maja 2007 zmieniającego brzmienie 8 ust. 5 29 sierpnia 1997 stwarza wierzycielowi możliwość wyboru komornika na całym terytorium Rzeczypospolitej Polskiej, zart. 2 Konstytucji,
-4) pkt 5 z24 maja 2007 zmieniającego brzmienie 8 ust. 7 29 sierpnia 1997 w zakresie, w jakim pozbawia komornika prawa odmowy przyjęcia wniosku owszczęcie egzekucji, dokonania zabezpieczenia lub podjęcia innych czynności wchodzących w zakres jego ustawowych zadań, jeśli czynności te miałyby być wykonywane poza jego rewirem komorniczym, zart. 2 Konstytucji,
-6) pkt 24 24 maja 2007 w zakresie odnoszącym się do 29 ust. 5 z29 sierpnia 1997 przyznaje prezesowi sądu apelacyjnego uprawnienie do zobowiązania komornika do zatrudnienia wskazanego aplikanta komorniczego, 2 oraz 17 ust.
-Konstytucji,
-7) pkt 29 24 maja 2007 w zakresie odnoszącym się do 32 ust. 6 zdanie pierwsze 29 sierpnia 1997 w zakresie, w jakim nakłada na komornika sądowego obowiązek zatrudnienia w okresie 2 lat co najmniej jednego asesora komorniczego, zart. 2 Konstytucji,
-8) pkt 29 z24 maja 2007 wzakresie odnoszącym się do 32 ust. 7 z29 sierpnia 1997 przyznaje prezesowi sądu apelacyjnego uprawnienie do zobowiązania komornika do zatrudnienia wskazanego asesora komorniczego, zart. 2 oraz 17 ust. Konstytucji,
-9) pkt 37 24 maja 2007 w zakresie odnoszącym się do 40 ust. 2 z29 sierpnia 1997 zwalnia Skarb Państwa od obowiązku uiszczania zaliczek na wydatki w sprawach o egzekucję o zabezpieczenie, niezwiązanych prowadzeniem działalności gospodarczej, 2, 32 ust. oraz 64 ust. 2 Konstytucji,
-10) pkt 41 z24 maja 2007 zmieniającego brzmienie 45 ust. 2 29 sierpnia 1997 w zakresie, w jakim zwalnia Skarb Państwa od obowiązku uiszczania opłaty tytułu zabezpieczenia roszczeń pieniężnych niezwiązanych prowadzeniem działalności gospodarczej, zart. 2, 32 ust. oraz 64 ust. 2 Konstytucji,
-11) pkt 46 24 maja 2007 w zakresie odnoszącym się do 49a ust 3 29 sierpnia 1997 w zakresie, w jakim zwalnia Skarb Państwa od obowiązku uiszczania opłaty w sprawach o egzekucję świadczeń niepieniężnych o dokonanie zabezpieczenia roszczeń niepieniężnych, niezwiązanych zprowadzeniem działalności gospodarczej, 2, 32 ust. oraz 64 ust. 2 Konstytucji, orzeka:
-1. Art. 3 ust. dnia 29 sierpnia 1997 r.
-5) pkt 24 z24 maja 2007 zmieniającego brzmienie 29 ust. 3 29 sierpnia 1997 nakłada na komornika sądowego obowiązek zatrudnienia wokresie 3 lat co najmniej jednego aplikanta komorniczego, zart. 2 Konstytucji, o komornikach sądowych egzekucji (Dz. U. 2006 r.
-167, poz. 1191, 2007 r. 25, poz. 162, 44, poz.288, 85, poz. 571 iNr 112, poz. 769), wbrzmieniu nadanym przez pkt 2 zdnia 24 maja 2007 r. o zmianie o komornikach sądowych egzekucji oraz niektórych innych ustaw (Dz. U.
-112, poz. 769), jest zgodny zart. 2 iart. 7 Konstytucji Rzeczypospolitej Polskiej.
-WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 14 maja 2009 r.
-sygn. akt K21/08
-2. Art. 8 ust. 2 5 29 sierpnia 1997 sowi sądu apelacyjnego uprawnienie do zobowiązaw brzmieniu nadanym przez pkt 5 nia komornika do zatrudnienia wskazanego asesora z24 maja 2007 jest zgodny zart. 2 Konstytucji. komorniczego, jest niezgodny zart. 2 iart. 17 ust.1 Konstytucji.
-3. Art. 8 ust. 7 29 sierpnia 1997 w brzmieniu nadanym przez pkt 5 8. Art. 40 ust. 2 29 sierpnia 1997 z24 maja 2007 wyklucza możli- w brzmieniu nadanym przez pkt 37 wość odmowy przyjęcia wniosku owszczęcie egzeku- 24 maja 2007 jest niezgodny 64 ust. 2 cji lub podjęcia innych czynności wchodzących w za- Konstytucji.
-kres ustawowych zadań komornika, poza granicami właściwości sądu apelacyjnego, jest niezgodny 9. Art. 45 ust. 2 29 sierpnia 1997 zart. 2 wzwiązku zart. 31 ust. 3 Konstytucji. w brzmieniu nadanym przez pkt 41 24 maja 2007 jest niezgodny 64 ust. 2
-4. Art. 29 ust. 3 29 sierpnia 1997 Konstytucji.
-w brzmieniu nadanym przez pkt 24 z24 maja 2007 jest zgodny zart. 2 Konstytucji. 10. Art. 49a ust. 3 29 sierpnia 1997 w brzmieniu nadanym przez pkt 46
-5. Art. 29 ust. 5 29 sierpnia 1997 24 maja 2007 jest niezgodny 64 ust. 2 w brzmieniu nadanym przez pkt 24 Konstytucji.
-z24 maja 2007 przyznaje prezesowi sądu apelacyjnego uprawnienie do zobowiąza- Ponadto postanawia: nia komornika do zatrudnienia wskazanego aplikanta komorniczego, jest zgodny 2 17 ust. na podstawie 39 ust. pkt dnia Konstytucji. 1sierpnia 1997 r. oTrybunale Konstytucyjnym (Dz. U.
-102, poz. 643, 2000 r. 48, poz. 552 53,
-6. Art. 32 ust. 6 zdanie pierwsze z29 sierp- poz. 638, 2001 r. 98, poz. 1070, 2005 r. 169, nia 1997 w brzmieniu nadanym przez pkt 29 poz. 1417 oraz 2009 r. 56, poz. 459) umorzyć po24 maja 2007 jest zgodny 2 Kon- stępowanie wpozostałym zakresie.
-stytucji.
-Marek Kotlinowski
-7. Art. 32 ust. 7 29 sierpnia 1997 w brzmieniu nadanym przez pkt 29 Ewa Ęętowska Marek Mazurkiewicz z24maja 2007 przyznaje preze- Janusz Niemcewicz Andrzej Rzepliński ISSN 0867-3411 Cena 7,50 zł
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marek Kotlinowski – przewodniczący, Ewa Łętowska – sprawozdawca, Marek Mazurkiewicz, Janusz Niemcewicz, Andrzej Rzepliński, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 14 maja 2009 r., wniosku Krajowej Rady Komorniczej o zbadanie zgodności:
+1)
+art. 1 pkt 2 ustawy z dnia 24 maja 2007 r. o zmianie ustawy o komornikach sądowych i egzekucji oraz niektórych innych ustaw (Dz. U. Nr 112, poz. 769), zmieniającego brzmienie art. 3 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2006 r. Nr 167, poz. 1191, ze zm.), w zakresie, w jakim usuwa słowa „tylko ustawom” oraz dodaje słowa „prezesowi sądu rejonowego, przy którym działa”, z art. 2 oraz art. 7 Konstytucji,
+2)
+art. 1 pkt 5 ustawy z 24 maja 2007 r., zmieniającego brzmienie art. 8 ust. 2 ustawy z 29 sierpnia 1997 r., w zakresie, w jakim stwarza możliwość działania wielu komorników w jednym rewirze, z art. 2 Konstytucji,
+3)
+art. 1 pkt 5 ustawy z 24 maja 2007 r., zmieniającego brzmienie art. 8 ust. 5 ustawy z 29 sierpnia 1997 r., w zakresie, w jakim stwarza wierzycielowi możliwość wyboru komornika na całym terytorium Rzeczypospolitej Polskiej, z art. 2 Konstytucji,
+4)
+art. 1 pkt 5 ustawy z 24 maja 2007 r., zmieniającego brzmienie art. 8 ust. 7 ustawy z 29 sierpnia 1997 r., w zakresie, w jakim pozbawia komornika prawa odmowy przyjęcia wniosku o wszczęcie egzekucji, dokonania zabezpieczenia lub podjęcia innych czynności wchodzących w zakres jego ustawowych zadań, jeśli czynności te miałyby być wykonywane poza jego rewirem komorniczym, z art. 2 Konstytucji,
+5)
+art. 1 pkt 24 ustawy z 24 maja 2007 r., zmieniającego brzmienie art. 29 ust. 3 ustawy z 29 sierpnia 1997 r., w zakresie, w jakim nakłada na komornika sądowego obowiązek zatrudnienia w okresie 3 lat co najmniej jednego aplikanta komorniczego, z art. 2 Konstytucji,
+6)
+art. 1 pkt 24 ustawy z 24 maja 2007 r., w zakresie odnoszącym się do art. 29 ust. 5 ustawy z 29 sierpnia 1997 r., w zakresie, w jakim przyznaje prezesowi sądu apelacyjnego uprawnienie do zobowiązania komornika do zatrudnienia wskazanego aplikanta komorniczego, z art. 2 oraz art. 17 ust. 1 Konstytucji,
+7)
+art. 1 pkt 29 ustawy z 24 maja 2007 r., w zakresie odnoszącym się do art. 32 ust. 6 zdanie pierwsze ustawy z 29 sierpnia 1997 r., w zakresie, w jakim nakłada na komornika sądowego obowiązek zatrudnienia w okresie 2 lat co najmniej jednego asesora komorniczego, z art. 2 Konstytucji,
+8)
+art. 1 pkt 29 ustawy z 24 maja 2007 r., w zakresie odnoszącym się do art. 32 ust. 7 ustawy z 29 sierpnia 1997 r., w zakresie, w jakim przyznaje prezesowi sądu apelacyjnego uprawnienie do zobowiązania komornika do zatrudnienia wskazanego asesora komorniczego, z art. 2 oraz art. 17 ust. 1 Konstytucji,
+9)
+art. 1 pkt 37 ustawy z 24 maja 2007 r., w zakresie odnoszącym się do art. 40 ust. 2 ustawy z 29 sierpnia 1997 r., w zakresie, w jakim zwalnia Skarb Państwa od obowiązku uiszczania zaliczek na wydatki w sprawach o egzekucję i o zabezpieczenie, niezwiązanych z prowadzeniem działalności gospodarczej, z art. 2, art. 32 ust. 1 oraz art. 64 ust. 2 Konstytucji,
+10)
+art. 1 pkt 41 ustawy z 24 maja 2007 r., zmieniającego brzmienie art. 45 ust. 2 ustawy z 29 sierpnia 1997 r., w zakresie, w jakim zwalnia Skarb Państwa od obowiązku uiszczania opłaty z tytułu zabezpieczenia roszczeń pieniężnych niezwiązanych z prowadzeniem działalności gospodarczej, z art. 2, art. 32 ust. 1 oraz art. 64 ust. 2 Konstytucji,
+11)
+art. 1 pkt 46 ustawy z 24 maja 2007 r., w zakresie odnoszącym się do art. 49a ust 3 ustawy z 29 sierpnia 1997 r., w zakresie, w jakim zwalnia Skarb Państwa od obowiązku uiszczania opłaty w sprawach o egzekucję świadczeń niepieniężnych i o dokonanie zabezpieczenia roszczeń niepieniężnych, niezwiązanych z prowadzeniem działalności gospodarczej, z art. 2, art. 32 ust. 1 oraz art. 64 ust. 2 Konstytucji,
+orzeka:
+1.
+Art. 3 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2006 r. Nr 167, poz. 1191, z 2007 r. Nr 25, poz. 162, Nr 44, poz. 288, Nr 85, poz. 571 i Nr 112, poz. 769), w brzmieniu nadanym przez art. 1 pkt 2 ustawy z dnia 24 maja 2007 r. o zmianie ustawy o komornikach sądowych i egzekucji oraz niektórych innych ustaw (Dz. U. Nr 112, poz. 769), jest zgodny z art. 2 i art. 7 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 8 ust. 2 i 5 ustawy z 29 sierpnia 1997 r., w brzmieniu nadanym przez art. 1 pkt 5 ustawy z 24 maja 2007 r., jest zgodny z art. 2 Konstytucji.
+3.
+4.
+Art. 29 ust. 3 ustawy z 29 sierpnia 1997 r., w brzmieniu nadanym przez art. 1 pkt 24 ustawy z 24 maja 2007 r., jest zgodny z art. 2 Konstytucji.
+5.
+6.
+Art. 32 ust. 6 zdanie pierwsze ustawy z 29 sierpnia 1997 r., w brzmieniu nadanym przez art. 1 pkt 29 ustawy z 24 maja 2007 r., jest zgodny z art. 2 Konstytucji.
+7.
+8.
+Art. 40 ust. 2 ustawy z 29 sierpnia 1997 r., w brzmieniu nadanym przez art. 1 pkt 37 ustawy z 24 maja 2007 r., jest niezgodny z art. 64 ust. 2 Konstytucji.
+9.
+Art. 45 ust. 2 ustawy z 29 sierpnia 1997 r., w brzmieniu nadanym przez art. 1 pkt 41 ustawy z 24 maja 2007 r., jest niezgodny z art. 64 ust. 2 Konstytucji.
+10.
+Art. 49a ust. 3 ustawy z 29 sierpnia 1997 r., w brzmieniu nadanym przez art. 1 pkt 46 ustawy z 24 maja 2007 r., jest niezgodny z art. 64 ust. 2 Konstytucji.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417 oraz z 2009 r. Nr 56, poz. 459) umorzyć postępowanie w pozostałym zakresie.
 

@@ -8,9 +8,10 @@ pos: 281
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 3. Dodatek, o którym mowa w ust. 1, nie je pracownikowi za czas nieprzerwanej w pracy 30 dni, urlo pów wypoczynkowych.
+# Wyrok Trybunału Konstytucyjnegoz dnia 30 marca 1999 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,13 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990290281) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/281/text.pdf) |
 
-2. Dodatek, o którym mowa w 1, przyznaje na okres roku: wojewoda wojewódzkiemu inspektorowi sani tarnemu, wojewódzkiego inspektora sanitarnego oraz portowemu i kolejowemu inspek torowi sanitarnemu, wojewódzki inspektor sanitarny pracownikom wojewódzkiej stacji sanitarno-epidemiologicznej, starosta w porozumieniu wojewódzkim inspekto rem sanitarnym powiatowemu inspektorowi sa nitarnemu, powiatowy, portowy, kolejowy inspektor sanitarny pracownikom powiatowej, portowej i kolejowej stacji sanitarno-epidemiologicznej.
-3. wchodzi w po 14 dni od dnia Minister Zdrowia i Opieki W Maksymowicz 281 dnia 30 marca 1999 r.
-sygn. akt K. 5/98.
-Konstytucyjny w Krzysztof Johann, Biruta Lewaszkiewicz-Petrykowska sprawozdawca, Andrzej Ferdynand Rymarz, po rozpoznaniu w dniu 30 marca 1999 r. na rozpra wie sprawy wniosku Rady Miasta i Gminy Czaplinek, umocowanych przedstawicieli uczestników wnioskodawcy, Sejmu Rzeczypospoli tej Polskiej, Rady Ministrów oraz Prokuratora General nego, o stwierdzenie przepisu art. 2 w art. 3 ustawy dnia 4 grudnia 1997 r. o zmianie ustawy Prawo i ustawy Prawo energetyczne (Dz. U. Nr 158, poz.
-1042) przepisem art. 167 ust. 1 i 4 Konstytucji Rzeczy pospolitej Polskiej (Dz. U. 1997 r. Nr 78, poz. 483), przepisu art. 3 w.w. ustawy art. 2 w art. 88 Konstytucji Rzeczypospolitej Polskiej (Dz. U.
-1997 r. Nr 78, poz. 483), orzeka:
-1. Art. 2 w art. 3 ustawy dnia 4 grudnia 1997 r. o zmianie ustawy Prawo i ustawy Prawo energetyczne (Dz. U. Nr 158, poz. 1042) jest g o d n y art. 167 ust. 1 i 4 Konstytucji Rzeczypospoli tej Polskiej.
-2. Art. 3 ustawy dnia 4 grudnia 1997 r. o zmianie ustawy Prawo i ustawy Prawo ener getyczne (Dz. U. Nr 158, poz. 1042) w zakresie, w ja kim nadaje tej ustawie moc przed dniem jej jest niezgodny art. 2 Konstytucji Rzeczypospolitej Polskiej.
-Krzysztof Biruta Lewaszkiewicz-Petrykowska Johann Andrzej Ferdynand Rymarz Szanowni o ISSN 0867-3411 Cena 4 68 gr
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Krzysztof Kolasiński – przewodniczący, Wiesław Johann, Biruta Lewaszkiewicz-Petrykowska – sprawozdawca, Andrzej Mączyński, Ferdynand Rymarz, protokolant: Joanna Szymczak po rozpoznaniu w dniu 30 marca 1999 r. na rozprawie sprawy z wniosku Rady Miasta i Gminy Czaplinek, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej, Rady Ministrów oraz Prokuratora Generalnego, o stwierdzenie niezgodności:
+– przepisu art. 2 w związku z art. 3 ustawy z dnia 4 grudnia 1997 r. o zmianie ustawy – Prawo budżetowe i ustawy – Prawo energetyczne (Dz. U. Nr 158, poz. 1042) z przepisem art. 167 ust. 1 i 4 Konstytucji Rzeczypospolitej Polskiej (Dz. U. z 1997 r. Nr 78, poz. 483),
+– przepisu art. 3 w.w. ustawy z art. 2 w związku z art. 88 Konstytucji Rzeczypospolitej Polskiej (Dz. U. z 1997 r. Nr 78, poz. 483),
+orzeka:
+1.
+Art. 2 w związku z art. 3 ustawy z dnia 4 grudnia 1997 r. o zmianie ustawy – Prawo budżetowe i ustawy – Prawo energetyczne (Dz. U. Nr 158, poz. 1042) jest zgodny z art. 167 ust. 1 i 4 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 3 ustawy z dnia 4 grudnia 1997 r. o zmianie ustawy – Prawo budżetowe i ustawy – Prawo energetyczne (Dz. U. Nr 158, poz. 1042) w zakresie, w jakim nadaje tej ustawie moc obowiązującą przed dniem jej ogłoszenia, jest niezgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej.
 

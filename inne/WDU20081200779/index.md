@@ -8,9 +8,10 @@ pos: 779
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny w składzie: Wojciech Hermeliński przewodniczący, Mirosław Granat, Marian Grzybowski, Ewa Ęętowska sprawozdawca, Marek Mazurkiewicz, po rozpoznaniu, z udziałem skarżącej oraz Sejmu iProkuratora Generalnego, na rozprawie wdniu 1 lipca 2008 r., skargi konstytucyjnej Elżbiety Chrostowskiej o zbadanie zgodności:
+# Wyrok Trybunału Konstytucyjnegoz dnia 1 lipca 2008 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081200779) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/779/text.pdf) |
 
-1) art. 398 § 2 i3 wzwiązku zart. 398
-2) art. 398 § 1 pkt 3 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), w brzmieniu nadanym ustawą z dnia 22 grudnia 2004 r. o zmianie ustawy Kodeks postępowania cywilnego oraz ustawy Prawo o ustroju sądów powszechnych (Dz. U. z 2005 r. Nr 13, poz. 98), wzakresie, wjakim wprowadzają niedopuszczalne ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw, skutkujące pozbawieniem skarżącej prawa do sądu, przez wprowadzenie sankcji z tytułu niedopełnienia wymogów formalnych wniesienia skargi kasacyjnej nieproporcjonalnych w stosunku do celu regulacji, z art. 45 ust. 1 oraz art. 31 ust. 3 w związku z art. 45 ust. 1 i art. 2 Konstytucji, § 1 pkt 3 ustawy z dnia 17 listopada 1964r. powołanej w punkcie 1, w brzmieniu nadanym ustawą z dnia 22 grudnia 2004 r. powołaną w punkcie 1, w zakresie, w jakim wprowadza niedopuszczalne ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw, skutkujące pozbawieniem skarżącej prawa do sądu, przez wprowadzenie nadmiernych wymogów formalnych wniesienia skargi kasacyjnej, nieuzasadnionych w stosunku do celu regulacji, z art. 45 ust. 1 oraz art. 31 ust. 3 w związku z art. 45 ust. 1 i art. 2 Konstytucji, orzeka:
-1. Art. 398 4 § 1 pkt 3 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U.
-Nr 43, poz. 296, ze zm.) jest zgodny z art. 45 ust. 1 wzwiązku zart. 31 ust. 3 iart. 2 Konstytucji Rzeczypospolitej Polskiej.
-2. Art. 398 6 § 2 i 3 w związku z art. 398 § 1 pkt 3 ustawy powołanej w punkcie 1 w zakresie, w jakim przewiduje odrzucenie bez wezwania do usunięcia braków skargi kasacyjnej niespełniającej wymagań określonych w art. 398 § 1 pkt 3 powołanej ustawy, jest niezgodny z art. 45 ust. 1 w związku z art. 31 ust. 3 i art. 2 Konstytucji.
-Wojciech Hermeliński Mirosław Granat Marian Grzybowski Ewa Ęętowska Marek Mazurkiewicz 779 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 1 lipca 2008 r.
-sygn. akt SK 40/07
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Wojciech Hermeliński – przewodniczący, Mirosław Granat, Marian Grzybowski, Ewa Łętowska – sprawozdawca, Marek Mazurkiewicz, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem skarżącej oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 1 lipca 2008 r., skargi konstytucyjnej Elżbiety Chrostowskiej o zbadanie zgodności:
+1)
+art. 3986 § 2 i 3 w związku z art. 3984 § 1 pkt 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), w brzmieniu nadanym ustawą z dnia 22 grudnia 2004 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz ustawy – Prawo o ustroju sądów powszechnych (Dz. U. z 2005 r. Nr 13, poz. 98), w zakresie, w jakim wprowadzają niedopuszczalne ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw, skutkujące pozbawieniem skarżącej prawa do sądu, przez wprowadzenie sankcji z tytułu niedopełnienia wymogów formalnych wniesienia skargi kasacyjnej nieproporcjonalnych w stosunku do celu regulacji, z art. 45 ust. 1 oraz art. 31 ust. 3 w związku z art. 45 ust. 1 i art. 2 Konstytucji,
+2)
+art. 3984 § 1 pkt 3 ustawy z dnia 17 listopada 1964 r. powołanej w punkcie 1, w brzmieniu nadanym ustawą z dnia 22 grudnia 2004 r. powołaną w punkcie 1, w zakresie, w jakim wprowadza niedopuszczalne ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw, skutkujące pozbawieniem skarżącej prawa do sądu, przez wprowadzenie nadmiernych wymogów formalnych wniesienia skargi kasacyjnej, nieuzasadnionych w stosunku do celu regulacji, z art. 45 ust. 1 oraz art. 31 ust. 3 w związku z art. 45 ust. 1 i art. 2 Konstytucji,
+orzeka:
+1.
+Art. 3984 § 1 pkt 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) jest zgodny z art. 45 ust. 1 w związku z art. 31 ust. 3 i art. 2 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 3986 § 2 i 3 w związku z art. 3984 § 1 pkt 3 ustawy powołanej w punkcie 1 w zakresie, w jakim przewiduje odrzucenie – bez wezwania do usunięcia braków – skargi kasacyjnej niespełniającej wymagań określonych w art. 3984 § 1 pkt 3 powołanej ustawy, jest niezgodny z art. 45 ust. 1 w związku z art. 31 ust. 3 i art. 2 Konstytucji.
 

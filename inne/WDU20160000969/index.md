@@ -1,0 +1,502 @@
+---
+title: Rozporządzenie Ministra Sprawiedliwości z dnia 13 czerwca 2016 r. w sprawie sposobu i trybu wykonywania czynności przez kuratorów sądowych w sprawach karnych wykonawczych
+address: WDU20160000969
+eli: DU/2016/969
+publisher: DU
+year: 2016
+pos: 969
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Sprawiedliwościz dnia 13 czerwca 2016 r. w sprawie sposobu i trybu wykonywania czynności przez kuratorów sądowych w sprawach karnych wykonawczych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 969 |
+| ISAP | WDU20160000969 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2016-06-13 |
+| Data wydania | 2016-07-01 |
+| Ostatnia zmiana | 2024-10-03 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000969) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/969/text.pdf) |
+
+Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sprawowanie dozoru Rozdział 3 – Wykonywanie kary ograniczenia wolności i pracy społecznie użytecznej Rozdział 4 – Kontrola wykonania przez skazanego obowiązków w okresie próby Rozdział 5 – Przygotowanie skazanego do życia po zwolnieniu z zakładu karnego Rozdział 6 – Wykonywanie innych czynności Rozdział 7 – Stowarzyszenia, organizacje, instytucje i osoby godne zaufania, którym powierzono sprawowanie dozoru Rozdział 8 – Przepis końcowy
+
+## Załącznik nr 1 — – Karta czynności dozoru (wzór)
+
+## Załącznik nr 2 — – Sprawozdanie z objęcia/przebiegu/zakończenia dozoru (wzór)
+
+Treść rozporządzenia
+Na podstawie art. 176 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.) zarządza się, co następuje:
+Rozdział 1 Przepisy ogólne
+§ 1.
+1.
+Rozporządzenie określa sposób i tryb wykonywania czynności przez kuratorów sądowych, stowarzyszenia, organizacje, instytucje i osoby godne zaufania, którym powierzono sprawowanie dozoru, a także sposób i tryb wykonywania dozoru stosowanego w związku z orzeczonymi karami, środkami karnymi, zabezpieczającymi i profilaktycznymi oraz tryb wyznaczania przedstawicieli przez stowarzyszenia, organizacje i instytucje.
+2.
+Ilekroć w rozporządzeniu jest mowa o „skazanym”, odpowiednie przepisy mają zastosowanie także do sprawcy, wobec którego warunkowo umorzono postępowanie karne, oraz sprawcy, co do którego umorzono postępowanie karne i orzeczono środek zabezpieczający.
+Rozdział 2 Sprawowanie dozoru
+§ 2.
+1.
+Kierownik zespołu kuratorskiej służby sądowej, zwanego dalej „zespołem”, rozdziela sprawy dotyczące dozoru, mając na uwadze skuteczność i efektywność pracy zespołu oraz równomierne obciążenie pracą kuratorów sądowych.
+2.
+Rozdziału spraw dokonuje się według podziału terytorialnego obszaru właściwości zespołu lub niezależnie od podziału terytorialnego, biorąc pod uwagę typ dozoru i specjalizację zadań, a także predyspozycje, wykształcenie, umiejętności i przeszkolenie poszczególnych kuratorów sądowych.
+3.
+Powierzenie sądowemu kuratorowi zawodowemu, zwanemu dalej „kuratorem zawodowym”, sprawowania dozoru następuje bezzwłocznie, nie później jednak niż w ciągu 3 dni od dnia przekazania dozoru zespołowi.
+4.
+Kuratorowi zawodowemu sprawowanie dozoru powierza kierownik zespołu.
+§ 3.
+Kurator zawodowy, w terminie 7 dni od dnia powierzenia mu dozoru przez kierownika zespołu, może powierzyć sprawowanie dozoru sądowemu kuratorowi społecznemu, zwanemu dalej „kuratorem społecznym”, w sytuacji gdy jest uprawniony do odstąpienia od osobistego sprawowania dozoru.
+§ 4.
+1.
+Bezzwłocznie po powierzeniu dozoru, nie później jednak niż w ciągu 7 dni od dnia jego powierzenia, kurator zawodowy:
+1)
+wzywa skazanego do osobistego stawiennictwa w zespole oraz informuje go, że został oddany pod dozór, chyba że sprawowanie dozoru zostało uprzednio powierzone kuratorowi społecznemu;
+2)
+przesyła jednostce Policji właściwej dla miejsca stałego pobytu skazanego informację o oddaniu pod dozór skazanego za przestępstwo z użyciem przemocy lub groźby bezprawnej.
+2.
+Jeżeli wezwanie skazanego do osobistego stawiennictwa jest oczywiście bezcelowe, kurator zawodowy może odstąpić od wzywania i sporządzić stosowną adnotację.
+3.
+Kurator zawodowy może także wezwać do osobistego stawiennictwa skazanego, wobec którego sprawowanie dozoru zostało powierzone kuratorowi społecznemu.
+4.
+Bezzwłocznie po powierzeniu dozoru, nie później niż w ciągu 7 dni od dnia jego powierzenia, kurator społeczny nawiązuje pierwszy kontakt ze skazanym.
+§ 5.
+1.
+W czasie pierwszego kontaktu ze skazanym kurator sądowy przeprowadza z nim rozmowę, podczas której poucza go o jego obowiązkach i uprawnieniach wynikających z okresu próby, dozoru, nałożonych obowiązków i zakwalifikowania do określonej grupy ryzyka powrotu do przestępstwa oraz omawia sposoby i terminy realizacji tych obowiązków i uprawnień; kurator sądowy wręcza skazanemu pouczenie na piśmie.
+2.
+W przypadku stawienia się skazanego w zespole przed przekazaniem zespołowi dozoru do wykonania kurator zawodowy pełniący dyżur w zespole wyznaczony przez kierownika zespołu, po upewnieniu się, że skazany został oddany pod dozór, przeprowadza z nim rozmowę oraz poucza go o jego obowiązkach i uprawnieniach. Pozostałe czynności kurator zawodowy wykonuje po powierzeniu mu sprawowania dozoru.
+3.
+Kurator sądowy uzyskuje numer telefonu lub adres poczty elektronicznej skazanego, umożliwiające mu kontaktowanie się ze skazanym podczas dozoru; jeżeli skazany wyraził na to zgodę, wezwań, zawiadomień lub przekazywania informacji kurator sądowy może dokonywać także telefonicznie lub za pośrednictwem poczty elektronicznej.
+§ 6.
+1.
+Jeżeli skazany prawidłowo wezwany nie stawi się na wezwanie, kurator zawodowy niezwłocznie wzywa go powtórnie do stawiennictwa.
+2.
+Jeżeli skazany bez należytego usprawiedliwienia nie stawi się na powtórne wezwanie, kurator zawodowy składa do sądu wniosek o podjęcie postępowania warunkowo umorzonego, o zarządzenie wykonania warunkowo zawieszonej kary pozbawienia wolności, o odwołanie warunkowego zwolnienia albo udziela skazanemu pisemnego upomnienia, o którym mowa w art. 173 § 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, zwanej dalej „Kodeksem karnym wykonawczym”.
+3.
+Kurator zawodowy składa do sądu wniosek, o którym mowa w ust. 2, albo udziela skazanemu pisemnego upomnienia, o którym mowa w art. 173 § 4 Kodeksu karnego wykonawczego, również wówczas, gdy kurator społeczny zawiadomi go, że skazany uchyla się od nawiązania pierwszego kontaktu.
+§ 7.
+1.
+Kurator sądowy po powierzeniu mu dozoru:
+1)
+zaznajamia się z aktami sprawy karnej i innymi niezbędnymi źródłami informacji o skazanym; kopie znajdujących się w aktach danych osobopoznawczych skazanego, w tym wywiadów środowiskowych, opinii biegłych lekarzy psychiatrów, psychologów, seksuologów oraz specjalistów do spraw uzależnień, załącza do teczki dozoru;
+2)
+zaznajamia się z przebiegiem dotychczasowych dozorów wykonywanych przez kuratorów dla dorosłych i nadzorów wykonywanych przez kuratorów rodzinnych; kopie sprawozdań z dotychczas prowadzonych wobec skazanego dozorów w razie potrzeby załącza do teczki dozoru;
+3)
+zapoznaje się z opiniami i pozostałą dostępną dokumentacją dotyczącą skazanego opuszczającego zakład karny w przypadku zastosowania warunkowego zwolnienia; kopie opinii, orzeczeń i wniosków dotyczących zachowania się skazanego w zakładzie karnym lub areszcie śledczym załącza do teczki dozoru;
+4)
+rozpoznaje i diagnozuje sytuację osobistą, rodzinną i środowiskową skazanego;
+5)
+ocenia i diagnozuje problemy, czynniki i warunki, które sprzyjają bądź nie sprzyjają resocjalizacji i kontroli okresu próby;
+6)
+ocenia możliwości i metody rozwiązywania problemów, które nie sprzyjają resocjalizacji i kontroli okresu próby;
+7)
+rozpoznaje optymalne metody kontroli skazanego i oddziaływania na skazanego i dokonuje ich wyboru;
+8)
+nawiązuje kontakt z rodziną i środowiskiem skazanego;
+9)
+w przypadku pobierania nauki przez skazanego młodocianego zasięga informacji o skazanym w placówkach oświatowych i oświatowo-wychowawczych;
+10)
+w sprawie związanej z popełnieniem przestępstwa polegającego na użyciu przemocy lub groźby bezprawnej nawiązuje kontakt z dzielnicowym z właściwej jednostki organizacyjnej Policji w celu wymiany informacji o skazanym, a także w celu ustalenia sposobów dalszej współpracy oraz form kontaktu.
+2.
+W razie uzasadnionej potrzeby kurator sądowy po powierzeniu mu dozoru:
+1)
+nawiązuje kontakt ze stowarzyszeniami, instytucjami i organizacjami społecznymi zajmującymi się pomocą społeczną, pośrednictwem pracy, leczeniem, oddziaływaniem terapeutycznym wobec skazanego bądź innymi formami działania, które mogą być przydatne w rozwiązywaniu problemów, które nie sprzyjają resocjalizacji i kontroli okresu próby;
+2)
+zasięga informacji o skazanym i jego środowisku u funkcjonariusza właściwej jednostki organizacyjnej Policji, a także w instytucjach i organach administracji rządowej i samorządu terytorialnego;
+3)
+nawiązuje kontakt z pracodawcą skazanego i zasięga u niego informacji o skazanym.
+§ 8.
+1.
+Sprawozdanie z objęcia dozoru kurator zawodowy przedkłada kierownikowi zespołu, a następnie składa sądowi nie później niż w ciągu 21 dni od dnia nawiązania kontaktu ze skazanym, natomiast sprawozdania z przebiegu dozoru – nie rzadziej niż co 6 miesięcy oraz na żądanie sądu.
+2.
+Sprawozdanie z objęcia dozoru kurator społeczny przedkłada kuratorowi zawodowemu nie później niż w ciągu 21 dni od dnia nawiązania kontaktu ze skazanym, natomiast sprawozdania z przebiegu dozoru – nie rzadziej niż co 6 miesięcy oraz na żądanie sądu lub kuratora zawodowego. Kurator zawodowy, nie później niż w ciągu 7 dni od dnia otrzymania sprawozdania od kuratora społecznego, po uprzednim zaakceptowaniu przedkłada je kierownikowi zespołu, a następnie składa sądowi.
+§ 9.
+1.
+W sprawozdaniu z objęcia dozoru przedstawia się w szczególności:
+1)
+diagnozę osobopoznawczą skazanego ze szczególnym uwzględnieniem jego warunków osobistych i bytowych, stosunku do dozoru i obowiązków okresu próby oraz określenia ryzyka jego powrotu do przestępstwa, w tym wniosek o zakwalifikowanie skazanego do danej grupy ryzyka powrotu do przestępstwa;
+2)
+diagnozę środowiskową;
+3)
+krótką informację o dotychczasowej karalności skazanego, o przebiegu dotychczasowych dozorów i nadzorów oraz o prowadzonych w czasie dozoru postępowaniach karnych wobec skazanego;
+4)
+zamierzenia readaptacyjne, w tym plan pracy ze skazanym, metody prowadzenia dozoru i kontroli zachowania skazanego, a także możliwości ich realizacji i przeszkody, które utrudniają tę realizację;
+5)
+źródła informacji o skazanym i jego środowisku oraz datę ich pozyskania.
+2.
+Po złożeniu sprawozdania z objęcia dozoru kierownik zespołu i sędzia, przez naniesienie odpowiedniej adnotacji na sprawozdaniu, akceptują wniosek o zakwalifikowanie skazanego do danej grupy ryzyka powrotu do przestępstwa albo kwalifikują skazanego do innej grupy ryzyka powrotu do przestępstwa.
+3.
+Sprawozdanie z objęcia dozoru wraz z odpowiednimi adnotacjami sędziego oraz kierownika zespołu załącza się do teczki dozoru.
+§ 10.
+1.
+W kolejnych sprawozdaniach z przebiegu dozoru przedstawia się:
+1)
+informację o przebiegu dozoru oraz o wykonaniu nałożonych na skazanego obowiązków;
+2)
+postępy readaptacyjne i ocenę skuteczności podjętych działań;
+3)
+diagnozę osobopoznawczą skazanego ze szczególnym uwzględnieniem ewentualnych zmian w jego warunkach osobistych i bytowych, stosunku do dozoru i obowiązków okresu próby oraz określenia ryzyka jego powrotu do przestępstwa, w tym ewentualnie wniosek o zakwalifikowanie skazanego do innej grupy ryzyka powrotu do przestępstwa;
+4)
+ewentualne zmiany w dotychczasowej karalności skazanego, w przebiegu dotychczasowych dozorów i nadzorów oraz w prowadzonych w czasie dozoru postępowaniach karnych wobec skazanego;
+5)
+ewentualne zmiany w zamierzeniach readaptacyjnych, w tym planie pracy ze skazanym, metodach prowadzenia dozoru i kontroli zachowania skazanego oraz możliwościach ich realizacji i przeszkodach, które utrudniają tę realizację;
+6)
+źródła informacji o skazanym i jego środowisku oraz datę ich pozyskania.
+2.
+Po złożeniu sprawozdania z przebiegu dozoru kierownik zespołu i sędzia, przez naniesienie odpowiedniej adnotacji na sprawozdaniu, akceptują wniosek o utrzymanie bądź zmianę grupy ryzyka powrotu do przestępstwa albo kwalifikują skazanego do innej grupy ryzyka powrotu do przestępstwa.
+3.
+Sprawozdanie z przebiegu dozoru wraz z odpowiednimi adnotacjami sędziego oraz kierownika zespołu załącza się do teczki dozoru.
+§ 11.
+1.
+Przebieg dozoru i podejmowane na bieżąco czynności kurator sądowy dokumentuje w prowadzonej osobno dla każdego skazanego karcie czynności dozoru, w której zapisuje:
+1)
+rodzaj czynności;
+2)
+datę, godziny rozpoczęcia i zakończenia oraz miejsce wykonywania czynności;
+3)
+uzyskane dokumenty i informacje;
+4)
+źródła informacji;
+5)
+własne uwagi i zamierzenia w zakresie sprawowania dozoru;
+6)
+ewentualne uwagi lub oświadczenia skazanego;
+7)
+ewentualne uwagi kierownika zespołu.
+2.
+Wzór formularza karty czynności dozoru jest określony w załączniku nr 1 do rozporządzenia.
+§ 12.
+1.
+W czasie osobistego kontaktu ze skazanym kurator sądowy informuje go o zakwalifikowaniu do określonej grupy ryzyka powrotu do przestępstwa bądź zmianie dotychczasowej kwalifikacji oraz o zasadach i obowiązkach wynikających z aktualnej kwalifikacji.
+2.
+W przypadku zakwalifikowania skazanego do grupy podwyższonego ryzyka (C) w czasie sprawowania dozoru przez kuratora społecznego kolejne czynności w sprawie wykonuje kurator zawodowy, który przejmuje od tego momentu sprawę do dalszego prowadzenia, chyba że uzyskał zgodę, o której mowa w art. 169b § 5 Kodeksu karnego wykonawczego.
+§ 13.
+1.
+Kurator sądowy ma prawo do:
+1)
+żądania niezbędnych informacji od skazanego oraz wzywania go do osobistego stawienia się w wyznaczonym terminie w siedzibie zespołu;
+2)
+zapoznawania się z aktami sprawy karnej skazanego oraz zwracania się o informacje o skazanym będące w posiadaniu instytucji i organów administracji rządowej i samorządu terytorialnego lub pracodawców, szkół i organizacji społecznych w zakresie niezbędnym do efektywnego sprawowania dozoru.
+2.
+Kurator zawodowy pozyskuje informację o skazanym z Krajowego Rejestru Karnego nie rzadziej niż raz na 6 miesięcy.
+§ 14.
+1.
+Kurator sądowy w czasie sprawowania dozoru ocenia potrzebę nałożenia przez sąd obowiązków adekwatnych do sytuacji materialnej, rodzinnej i zdrowotnej skazanego, a także do jego postawy i zachowania po wydaniu orzeczenia.
+2.
+W razie stwierdzenia potrzeby lub konieczności wydania przez sąd orzeczenia w przedmiocie obowiązków skazanego kurator zawodowy składa do sądu wniosek o ustanowienie, rozszerzenie lub zmianę obowiązków w okresie próby lub o zwolnienie od wykonania tych obowiązków.
+3.
+Kurator zawodowy podaje we wniosku propozycje ustanowienia, rozszerzenia lub zmiany konkretnego obowiązku lub zwolnienia od wykonania konkretnego obowiązku oraz uzasadnia potrzebę takiego rozstrzygnięcia, a w przypadku obowiązku określonego w art. 72 § 1 pkt 6–6b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. poz. 553, z późn. zm.), zwanej dalej „Kodeksem karnym”, wskazuje także odpowiedni podmiot wykonujący działalność leczniczą w zakresie terapii uzależnień lub terapii albo oddziaływania korekcyjno-edukacyjne oraz typ programu oddziaływań korekcyjno-edukacyjnych.
+§ 15.
+1.
+Sprawując dozór wobec sprawcy przestępstwa popełnionego w stanie ograniczonej poczytalności lub w związku z uzależnieniem od alkoholu, środka odurzającego lub innego podobnie działającego środka, kurator zawodowy ponadto:
+1)
+zaznajamia się, w dostępnym zakresie, z wynikami leczenia, rehabilitacji lub terapii skazanego;
+2)
+utrzymuje kontakt z osobami prowadzącymi leczenie, rehabilitację, terapię lub inne formy specjalistycznego oddziaływania oraz zapoznaje się z ewentualnymi wskazówkami tych osób dotyczącymi przebiegu dozoru;
+3)
+podejmuje działania mające na celu przestrzeganie przez skazanego zaleceń lekarskich bądź zaleceń innych specjalistów z zakresu rehabilitacji lub terapii;
+4)
+konsultuje sposób sprawowania dozoru z osobami, o których mowa w pkt 2;
+5)
+w razie potrzeby składa do sądu wniosek o ustanowienie, rozszerzenie lub zmianę obowiązku powstrzymania się od nadużywania alkoholu lub używania innych środków odurzających, a także poddania się terapii uzależnień lub poddania się terapii;
+6)
+zapoznaje się z realizowanymi przez miejscowe organy administracji rządowej i samorządu terytorialnego programami przeciwdziałania alkoholizmowi lub przeciwdziałania narkomanii i w miarę możliwości w nich uczestniczy;
+7)
+w razie potrzeby podejmuje współpracę ze specjalistycznymi stowarzyszeniami, instytucjami lub organizacjami społecznymi zajmującymi się problematyką pomocy osobom uzależnionym od alkoholu lub środków odurzających, lub substancji psychotropowych;
+8)
+nawiązuje i utrzymuje systematyczny kontakt z członkami rodziny skazanego pozostającymi z nim we wspólnym gospodarstwie domowym;
+9)
+w razie wątpliwości co do przestrzegania przez skazanego obowiązku powstrzymania się od nadużywania alkoholu lub używania środków odurzających lub substancji psychotropowych poddaje go badaniom na obecność w organizmie alkoholu, środków odurzających lub substancji psychotropowych.
+2.
+W przypadku wystąpienia do sądu z wnioskiem dotyczącym obowiązku poddania się przez skazanego terapii uzależnień lub terapii kurator zawodowy wskazuje w tym wniosku także odpowiedni podmiot wykonujący działalność leczniczą w zakresie terapii uzależnień lub terapii.
+3.
+Kopie sprawozdań z nadzoru w sprawach związanych z poddaniem skazanego obowiązkowi leczenia odwykowego załącza się do teczki dozoru.
+§ 16.
+1.
+Sprawując dozór wobec sprawcy przemocy w rodzinie, kurator zawodowy ponadto:
+1)
+nawiązuje i utrzymuje stały kontakt z osobami pokrzywdzonymi w wyniku przemocy w rodzinie, w sytuacji gdy w okresie dozoru pozostają one we wspólnym gospodarstwie domowym ze skazanym;
+2)
+nawiązuje współpracę z Policją, instytucjami i organami administracji rządowej i samorządu terytorialnego zaangażowanymi w pomoc osobom pokrzywdzonym w wyniku przemocy w danej rodzinie i z organizacjami pozarządowymi funkcjonującymi na terenie miejsca zamieszkania osób pokrzywdzonych w celu uzyskania w niezbędnym zakresie informacji o rodzinie dotkniętej przemocą;
+3)
+w razie potrzeby składa do sądu stosowny wniosek, w szczególności o ustanowienie, rozszerzenie lub zmianę obowiązku: wykonywania ciążącego na skazanym obowiązku łożenia na utrzymanie innej osoby, powstrzymania się od nadużywania alkoholu lub używania innych środków odurzających, poddania się terapii uzależnień, poddania się terapii, uczestnictwa w oddziaływaniach korekcyjno-edukacyjnych, powstrzymania się od przebywania w określonych środowiskach lub miejscach, powstrzymania się od kontaktowania się z pokrzywdzonym lub innymi osobami w określony sposób lub opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym;
+4)
+zapoznaje się z realizowanymi przez miejscowe organy administracji rządowej i samorządu terytorialnego programami przeciwdziałania przemocy w rodzinie i w miarę możliwości w nich uczestniczy;
+5)
+uczestniczy w posiedzeniach zespołu interdyscyplinarnego i grupy roboczej, o których mowa w ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. z 2015 r. poz. 1390).
+2.
+W przypadku wystąpienia do sądu z wnioskiem dotyczącym obowiązku poddania się przez skazanego terapii uzależnień, terapii lub uczestnictwa skazanego w oddziaływaniach korekcyjno-edukacyjnych kurator zawodowy wskazuje w tym wniosku także odpowiedni podmiot wykonujący działalność leczniczą w zakresie terapii uzależnień lub terapii albo oddziaływania korekcyjno-edukacyjne oraz typ programu oddziaływań korekcyjno-edukacyjnych.
+§ 17.
+1.
+Sprawując dozór wobec skazanego przejawiającego zachowania agresywne, kurator sądowy rozważa możliwość złożenia do sądu wniosku o ustanowienie obowiązku uczestnictwa przez skazanego w oddziaływaniach korekcyjno-edukacyjnych pozwalających na radzenie sobie z agresywnym zachowaniem.
+2.
+W przypadku wystąpienia do sądu z wnioskiem dotyczącym obowiązku uczestnictwa skazanego w oddziaływaniach korekcyjno-edukacyjnych kurator zawodowy wskazuje w tym wniosku także typ programu oddziaływań korekcyjno-edukacyjnych oraz odpowiedni podmiot realizujący dany program.
+§ 18.
+Jeżeli skazany, wobec którego jest sprawowany dozór, został osadzony w zakładzie karnym lub areszcie śledczym w innej sprawie, kurator zawodowy składa do sądu wniosek o zwolnienie od dozoru albo o zawieszenie postępowania wykonawczego w części dotyczącej dozoru albo inny stosowny wniosek zmierzający do zakończenia czynności kuratora sądowego.
+§ 19.
+Do obowiązków kuratora zawodowego należy ponadto:
+1)
+kontrolowanie prawidłowości i efektywności sprawowania dozoru oraz wykonywania innych czynności zleconych kuratorom społecznym oraz osobom godnym zaufania;
+2)
+udzielanie pomocy kuratorom społecznym i osobom godnym zaufania, zwłaszcza przez udzielanie instruktażu w zakresie metod i form pracy oraz organizowanie szkolenia;
+3)
+przeprowadzanie co najmniej raz w roku, nie później niż w ciągu 6 miesięcy od powierzenia sprawowania dozoru kuratorowi społecznemu, wywiadu środowiskowego w stosunku do skazanego w celu kontroli sprawowania dozoru przez kuratora społecznego;
+4)
+pozyskiwanie osób do pełnienia funkcji kuratora społecznego;
+5)
+informowanie kierownika zespołu o nieprawidłowym wypełnianiu powierzonej funkcji przez kuratora społecznego;
+6)
+udział w posiedzeniach sądu dotyczących osób znajdujących się pod dozorem;
+7)
+bezzwłoczne zawiadomienie sądu o zaistnieniu okoliczności uzasadniających rozważenie celowości ponownego umieszczenia w zakładzie psychiatrycznym lub w zakładzie karnym skazanego, wobec którego orzeczono terapię lub terapię uzależnień.
+§ 20.
+1.
+Kurator zawodowy przyjmuje od kuratora społecznego i analizuje pod kątem stosownego wykorzystania informacje o okolicznościach uzasadniających podjęcie czynności, do których jest uprawniony kurator zawodowy, w szczególności w zakresie:
+1)
+wystąpienia z wnioskami w sprawie zmiany orzeczenia sądu;
+2)
+udzielenia materialnej lub innej pomocy skazanemu albo jego rodzinie;
+3)
+wystąpienia z wnioskami o dopuszczenie kuratora społecznego do udziału w posiedzeniu sądu w postępowaniu wykonawczym, jeżeli jego udział może mieć znaczenie dla rozstrzygnięcia.
+2.
+Kurator zawodowy na zarządzenie sędziego, polecenie kierownika zespołu lub samodzielnie, jeżeli uzna, że jest to konieczne, podejmuje bezzwłocznie czynności w sprawie dozoru sprawowanego przez kuratora społecznego.
+§ 21.
+1.
+Sprawozdanie z zakończenia dozoru kurator zawodowy przedkłada kierownikowi zespołu, a następnie składa sądowi nie później niż w ciągu 21 dni od dnia zakończenia dozoru.
+2.
+Sprawozdanie z zakończenia dozoru kurator społeczny przedkłada kuratorowi zawodowemu nie później niż w ciągu 21 dni od dnia zakończenia dozoru. Kurator zawodowy, nie później niż w ciągu 7 dni od dnia otrzymania sprawozdania od kuratora społecznego, po uprzednim zaakceptowaniu przedkłada je kierownikowi zespołu, a następnie składa sądowi.
+3.
+W sprawozdaniu z zakończenia dozoru należy opisać jego przebieg, ze szczególnym uwzględnieniem realizacji planu pracy ze skazanym, oceny wykonania obowiązków i postawy skazanego w okresie próby.
+4.
+Sprawozdania z zakończenia dozoru można nie sporządzać w przypadku zakończenia dozoru w inny sposób niż na skutek upływu okresu próby. W szczególności sprawozdania z zakończenia dozoru nie sporządza się w sprawach, w których na wniosek kuratora podjęto postępowanie warunkowo umorzone, zarządzono wykonanie warunkowo zawieszonej kary pozbawienia wolności lub odwołano warunkowe zwolnienie, a także w sprawach, w których sąd, na wniosek kuratora zawodowego, zwolnił skazanego od dozoru.
+5.
+Sprawozdanie z zakończenia dozoru wraz z ewentualnymi adnotacjami sędziego oraz kierownika zespołu załącza się do teczki dozoru.
+§ 22.
+Bezzwłocznie po zakończeniu dozoru w inny sposób niż na skutek upływu okresu próby, nie później jednak niż w ciągu 7 dni od dnia jego zakończenia, kurator zawodowy przesyła jednostce Policji właściwej dla miejsca stałego pobytu skazanego informację o zakończeniu sprawowania dozoru wobec skazanego za przestępstwo z użyciem przemocy lub groźby bezprawnej.
+§ 23.
+Sprawozdanie z objęcia dozoru, sprawozdania z przebiegu dozoru oraz sprawozdanie z zakończenia dozoru sporządza się na formularzu, którego wzór jest określony w załączniku nr 2 do rozporządzenia.
+Rozdział 3 Wykonywanie kary ograniczenia wolności i pracy społecznie użytecznej
+§ 24.
+1.
+Kierownik zespołu rozdziela sprawy związane z wykonywaniem kary ograniczenia wolności i powierza te sprawy kuratorowi zawodowemu, którego predyspozycje, wykształcenie, umiejętności i przeszkolenie zapewnią skuteczne i efektywne ich prowadzenie.
+2.
+W szczególnych przypadkach, z uwagi na charakter obszaru właściwości zespołu, kierownik zespołu może powierzyć sprawy związane z wykonywaniem kary ograniczenia wolności innym kuratorom zawodowym według podziału terytorialnego.
+3.
+Powierzenie kuratorowi zawodowemu sprawy związanej z wykonywaniem kary ograniczenia wolności następuje bezzwłocznie, nie później jednak niż w ciągu 3 dni od dnia przekazania sprawy zespołowi.
+§ 25.
+1.
+Bezzwłocznie po powierzeniu sprawy do prowadzenia, nie później jednak niż w ciągu 7 dni od dnia jej powierzenia, kurator zawodowy wzywa skazanego do stawiennictwa w zespole w celu skierowania go do wykonywania kary ograniczenia wolności.
+2.
+W czasie pierwszego kontaktu ze skazanym kurator zawodowy przeprowadza z nim rozmowę, podczas której poucza go o prawach i obowiązkach wynikających z orzeczonej kary ograniczenia wolności, a także o konsekwencjach uchylania się od odbywania kary.
+3.
+Kurator sądowy uzyskuje numer telefonu lub adres poczty elektronicznej skazanego, umożliwiające mu kontaktowanie się ze skazanym podczas wykonywania kary ograniczenia wolności; jeżeli skazany wyraził na to zgodę, wezwań, zawiadomień lub przekazywania informacji kurator sądowy może dokonywać także telefonicznie lub za pośrednictwem poczty elektronicznej.
+4.
+Jeżeli wykonaniu podlega kara ograniczenia wolności polegająca na obowiązku wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne, kurator zawodowy, po wysłuchaniu skazanego, określa rodzaj, miejsce i termin rozpoczęcia pracy oraz omawia ze skazanym sposób wykonywania kary ograniczenia wolności.
+5.
+Kurator zawodowy wręcza skazanemu na piśmie pouczenie o prawach i obowiązkach wynikających z orzeczonej kary ograniczenia wolności oraz decyzję o rodzaju, miejscu i terminie rozpoczęcia pracy, a także o pozostałych obowiązkach orzeczonych przez sąd oraz terminach ich realizacji.
+6.
+Skazany podpisuje dwa egzemplarze pouczenia oraz wskazuje miejsce pobytu, w którym zobowiązuje się odbierać dalszą korespondencję; jeden egzemplarz pouczenia otrzymuje skazany, a drugi załącza się do teczki sprawy.
+§ 26.
+Jeżeli wykonaniu podlega kara ograniczenia wolności polegająca na obowiązku wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne, kurator zawodowy przesyła osobie wyznaczonej w miejscu pracy niezbędne dokumenty w celu umożliwienia rozpoczęcia przez skazanego pracy.
+§ 27.
+Kurator zawodowy w czasie wykonywania czynności związanych z organizowaniem i kontrolowaniem wykonywania kary ograniczenia wolności polegającej na obowiązku wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne:
+1)
+utrzymuje stały kontakt z podmiotami, w których jest wykonywana nieodpłatna kontrolowana praca na cele społeczne, w tym z osobami wyznaczonymi do organizowania pracy skazanych i kontrolowania jej przebiegu, w szczególności za pomocą środków porozumiewania się na odległość, zwłaszcza telefonicznie, za pośrednictwem poczty elektronicznej lub faksem;
+2)
+organizuje i prowadzi szkolenia oraz instruktaże dla osób wyznaczonych do organizowania pracy skazanych i kontrolowania jej przebiegu oraz ustala sposób kontaktowania się za pomocą środków porozumiewania się na odległość, a w szczególności sposób:
+a)
+przekazywania harmonogramów pracy skazanych,
+b)
+przekazywania informacji o terminie rozpoczęcia i zakończenia pracy, liczbie godzin przepracowanych przez skazanego, rodzaju wykonywanej przez niego pracy i jej efektywności,
+c)
+niezwłocznego informowania kuratora zawodowego o niezgłoszeniu się skazanego do pracy, niepodjęciu przez niego przydzielonej pracy, przeszkodzie uniemożliwiającej wykonywanie pracy, opuszczeniu pracy bez usprawiedliwienia, każdym przypadku niesumiennego wykonywania pracy oraz uporczywego nieprzestrzegania ustalonego porządku i dyscypliny pracy;
+3)
+kontroluje przestrzeganie przez wyznaczone podmioty ustalonych zasad organizacji pracy skazanych i wypełnianie innych obowiązków z tytułu wykonywania kary ograniczenia wolności, w szczególności przez wizyty w wybranych miejscach pracy skazanych, co najmniej raz w miesiącu w każdym podmiocie;
+4)
+powiadamia wyznaczony podmiot w sposób uprzednio ustalony o decyzjach kuratora lub postanowieniach sądu dotyczących skazanego;
+5)
+w miarę potrzeby kontroluje sposób wykonywania przez skazanego kary ograniczenia wolności przez wizyty w miejscu pracy, a także sprawdza prawidłowość wywiązywania się przez skazanego z nałożonych na niego obowiązków;
+6)
+analizuje informacje i dokumenty przesyłane co miesiąc przez osoby wyznaczone do organizowania pracy skazanych i kontrolowania jej przebiegu, w szczególności dotyczące liczby przepracowanych przez skazanego godzin oraz jego zachowania podczas wykonywania pracy;
+7)
+wzywa skazanego, także telefonicznie, do złożenia wyjaśnień dotyczących przebiegu odbywania kary ograniczenia wolności;
+8)
+w przypadku niewłaściwego wykonywania pracy przez skazanego przeprowadza z nim rozmowy dyscyplinujące oraz udziela mu stosownych pouczeń.
+§ 28.
+1.
+Jeżeli wykonaniu podlega kara ograniczenia wolności polegająca na obowiązku wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne, kurator zawodowy w szczególnie uzasadnionych wypadkach może po wysłuchaniu skazanego podjąć decyzję o zmianie rodzaju, miejsca lub terminu rozpoczęcia pracy.
+2.
+Decyzję sporządzoną na piśmie wraz z krótkim uzasadnieniem kurator zawodowy doręcza skazanemu osobiście lub w inny sposób, a także przesyła odpis decyzji wyznaczonemu podmiotowi w sposób uprzednio ustalony.
+§ 29.
+1.
+Kurator zawodowy w czasie kontrolowania wykonywania obowiązków orzeczonych na podstawie art. 34 § 3 Kodeksu karnego:
+1)
+uzyskuje od skazanego informacje o sposobie wykonywania nałożonych obowiązków oraz dokonuje ich weryfikacji;
+2)
+uzyskuje w szczególności od pokrzywdzonego, podmiotów i instytucji lub właściwych urzędów informacje o sposobie realizacji nałożonych na skazanego obowiązków.
+2.
+Do wykonywania czynności związanych z kontrolowaniem wykonywania obowiązków orzeczonych na podstawie art. 34 § 3 Kodeksu karnego przepisy § 36–40 stosuje się odpowiednio.
+§ 30.
+1.
+Kurator zawodowy, kierując się względami wychowawczymi, a także mając na uwadze zachowanie skazanego podczas wykonywania kary ograniczenia wolności, potrzebę dyscyplinowania skazanego lub inne okoliczności związane z przebiegiem wykonywania kary ograniczenia wolności, składa do sądu stosowny wniosek, w szczególności o:
+1)
+zmniejszenie liczby godzin wykonywanej pracy w stosunku miesięcznym;
+2)
+zmianę formy wykonywania kary ograniczenia wolności;
+3)
+ustanowienie, rozszerzenie lub zmianę obowiązków albo o zwolnienie od wykonania obowiązków;
+4)
+zwolnienie od reszty kary.
+2.
+W przypadku wystąpienia do sądu z wnioskiem dotyczącym obowiązku poddania się przez skazanego terapii uzależnień, terapii lub uczestnictwa skazanego w oddziaływaniach korekcyjno-edukacyjnych kurator zawodowy wskazuje w tym wniosku także odpowiedni podmiot wykonujący działalność leczniczą w zakresie terapii uzależnień lub terapii albo oddziaływania korekcyjno-edukacyjne oraz typ programu oddziaływań korekcyjno-edukacyjnych.
+3.
+W przypadku uchylania się przez skazanego od odbywania kary ograniczenia wolności, od świadczenia pieniężnego lub obowiązków orzeczonych na podstawie art. 34 § 3 Kodeksu karnego kurator zawodowy niezwłocznie składa do sądu stosowny wniosek, w szczególności o orzeczenie kary zastępczej.
+4.
+Jeżeli skazany nie wykonał pełnego wymiaru pracy, nie dokonano całości potrąceń z wynagrodzenia za pracę albo skazany nie wykonał innych obowiązków związanych z karą ograniczenia wolności, a nie zachodzą przesłanki do orzeczenia kary zastępczej, kurator zawodowy, niezwłocznie po upływie okresu, na jaki orzeczono karę ograniczenia wolności, składa do sądu wniosek o uznanie tej kary za wykonaną.
+5.
+We wniosku o orzeczenie kary zastępczej kurator zawodowy zawiera również informację o liczbie przepracowanych przez skazanego godzin oraz wskazuje, w jakim zakresie skazany wykonał pozostałe obowiązki związane z karą ograniczenia wolności.
+6.
+W razie potrzeby na termin posiedzenia kurator przedkłada sądowi aktualną informację o liczbie przepracowanych przez skazanego godzin uzyskaną na koniec dnia poprzedniego.
+§ 31.
+1.
+Kurator zawodowy pozyskuje podmioty, o których mowa w art. 56 § 2–4 Kodeksu karnego wykonawczego, w których skazany będzie mógł wykonywać nieodpłatną kontrolowaną pracę na cele społeczne.
+2.
+W celu pozyskania podmiotów, o których mowa w art. 56 § 2–4 Kodeksu karnego wykonawczego, kierownik zespołu w porozumieniu z prezesem sądu rejonowego nawiązuje stałą współpracę z organami samorządu terytorialnego, a także z przedstawicielami innych podmiotów, o których mowa w art. 56 § 3 i 4 Kodeksu karnego wykonawczego.
+§ 32.
+Do wykonywania czynności związanych z organizowaniem i kontrolowaniem pracy społecznie użytecznej przepisy § 24–28 oraz § 30 i § 31 stosuje się odpowiednio.
+Rozdział 4 Kontrola wykonania przez skazanego obowiązków w okresie próby
+§ 33.
+Kurator zawodowy wykonuje czynności związane z kontrolowaniem wykonania przez skazanego nałożonych na niego obowiązków w okresie próby.
+§ 34.
+1.
+Kontrolując wykonanie orzeczonych przez sąd obowiązków z określonym terminem ich wykonania, kurator zawodowy po upływie terminu wskazanego w orzeczeniu, w przypadku uchylania się przez skazanego od wykonania nałożonego obowiązku, składa do sądu stosowny wniosek, w szczególności o podjęcie postępowania warunkowo umorzonego, zarządzenie wykonania warunkowo zawieszonej kary pozbawienia wolności, orzeczenie kary zastępczej lub odwołanie warunkowego zwolnienia, albo udziela skazanemu pisemnego upomnienia, o którym mowa w art. 173 § 4 Kodeksu karnego wykonawczego.
+2.
+Kurator sądowy uzyskuje w szczególności od pokrzywdzonego, podmiotów i instytucji lub właściwych urzędów informacje o sposobie realizacji nałożonych na skazanego obowiązków z określonym terminem ich wykonania.
+3.
+W przypadku niewykonania przez skazanego nałożonego obowiązku z określonym terminem jego wykonania, jeśli niewykonanie nie było przez niego zawinione, albo z uwagi na rodzaj i stopień naruszenia obowiązku kurator zawodowy po upływie terminu określonego w orzeczeniu informuje o tym sąd na piśmie wraz z podaniem przyczyny niezłożenia wniosku, o którym mowa w ust. 1, lub nieudzielenia upomnienia, o którym mowa w art. 173 § 4 Kodeksu karnego wykonawczego.
+4.
+W przypadku nieuwzględnienia przez sąd wniosku, o którym mowa w ust. 1, albo po dokonaniu czynności, o której mowa w ust. 3, kurator zawodowy co najmniej raz na 3 miesiące, chyba że sędzia zarządzi inaczej, sprawdza, czy nie ustały przyczyny niewykonania przez skazanego obowiązku, oraz przekazuje do sądu dalsze informacje na piśmie.
+§ 35.
+1.
+Kontrolując wykonanie orzeczonych przez sąd obowiązków o charakterze stałym, kurator sądowy:
+1)
+uzyskuje od skazanego informacje o sposobie wykonywania nałożonych obowiązków oraz dokonuje ich weryfikacji;
+2)
+uzyskuje od pokrzywdzonych, podmiotów, instytucji lub właściwych urzędów informacje o sposobie realizacji nałożonych na skazanego obowiązków.
+2.
+Kurator zawodowy nie rzadziej niż co 6 miesięcy oraz na żądanie sądu przedstawia sądowi informację o wykonywaniu przez skazanego nałożonych na niego obowiązków o charakterze stałym w okresie próby bez orzeczonego dozoru.
+3.
+W przypadku uchylania się skazanego od wykonywania nałożonych obowiązków o charakterze stałym kurator zawodowy niezwłocznie składa do sądu stosowny wniosek albo udziela skazanemu pisemnego upomnienia, o którym mowa w art. 173 § 4 Kodeksu karnego wykonawczego.
+§ 36.
+Kontrolując wykonanie orzeczonego przez sąd obowiązku łożenia na utrzymanie innej osoby, kurator sądowy w szczególności uzyskuje informacje o wykonywaniu nałożonego obowiązku od skazanego, od osoby, na rzecz której skazany ma obowiązek łożyć, lub od osoby ją reprezentującej, a także od tych instytucji państwowych lub samorządowych, które mogą dysponować informacjami o wykonywaniu przez skazanego tego obowiązku lub o uchylaniu się od jego wykonywania.
+§ 37.
+Kontrolując wykonanie orzeczonego przez sąd obowiązku wykonywania pracy zarobkowej, nauki lub przygotowania się do zawodu, w razie wątpliwości co do wiarygodności dokumentacji przedkładanej przez skazanego, kurator sądowy zasięga informacji od instytucji lub podmiotów, w których skazany ma wykonywać nałożony na niego obowiązek.
+§ 38.
+Kontrolując wykonanie orzeczonego przez sąd obowiązku powstrzymania się od nadużywania alkoholu lub używania innych środków odurzających, kurator sądowy w szczególności uzyskuje informacje na temat wykonywania obowiązków od osób wspólnie zamieszkujących ze skazanym oraz osób z innego środowiska skazanego; w razie wątpliwości co do przestrzegania przez skazanego obowiązku powstrzymania się od nadużywania alkoholu lub używania środków odurzających lub substancji psychotropowych kurator zawodowy może poddawać skazanego wyrywkowym badaniom na obecność w organizmie alkoholu, środków odurzających lub substancji psychotropowych.
+§ 39.
+Kontrolując wykonanie orzeczonego przez sąd obowiązku poddania się przez skazanego terapii uzależnień, terapii lub uczestnictwa skazanego w oddziaływaniach korekcyjno-edukacyjnych, kurator sądowy w szczególności uzyskuje informacje o wykonywaniu przez skazanego nałożonego obowiązku od podmiotów, w których skazany ma obowiązek odbywać terapię uzależnień, terapię lub uczestniczyć w oddziaływaniach korekcyjno-edukacyjnych.
+§ 40.
+Kontrolując wykonanie orzeczonego przez sąd obowiązku powstrzymania się przez skazanego od przebywania w określonych środowiskach lub miejscach oraz od kontaktowania się z pokrzywdzonym lub innymi osobami w określony sposób lub zbliżania się do pokrzywdzonego lub innych osób, kurator sądowy w szczególności nawiązuje i utrzymuje kontakt, stosownie do okoliczności, z właścicielem, najemcą lub zarządcą nieruchomości, budynku lub obiektu, a także z osobami, z którymi skazany ma zakaz kontaktowania się lub do których ma zakaz zbliżania się, i ustala sposoby informowania kuratora przez te osoby o naruszaniu przez skazanego tych obowiązków.
+Rozdział 5 Przygotowanie skazanego do życia po zwolnieniu z zakładu karnego
+§ 41.
+Kurator zawodowy, w ramach czynności związanych z przygotowaniem skazanego do życia po zwolnieniu z zakładu karnego, po otrzymaniu decyzji komisji penitencjarnej lub orzeczenia sądu penitencjarnego:
+1)
+nawiązuje osobisty kontakt ze skazanym;
+2)
+przeprowadza analizę dostępnej dokumentacji dotyczącej skazanego, rozpoznaje sytuację rodzinną oraz środowiskową skazanego i na podstawie zebranego materiału opracowuje program wolnościowy dla skazanego;
+3)
+przygotowuje środowisko rodzinne i społeczne do powrotu skazanego;
+4)
+współorganizuje pomoc postpenitencjarną przez rozpoznanie potrzeb skazanego i jego rodziny oraz kształtowanie umiejętności samodzielnego rozwiązywania trudności życiowych, współdziałając ze skazanym i administracją zakładów karnych, a ponadto organami administracji rządowej i samorządu terytorialnego oraz podmiotami, o których mowa w art. 38 § 1 Kodeksu karnego wykonawczego;
+5)
+w razie potrzeby współdziała ze stowarzyszeniami, fundacjami, organizacjami, instytucjami i innymi podmiotami, których celem działania jest pomoc w społecznej readaptacji skazanych;
+6)
+współpracuje z komisją penitencjarną.
+§ 42.
+1.
+Czynności związane z przygotowaniem skazanego do życia po zwolnieniu z zakładu karnego wykonuje kurator zawodowy właściwy ze względu na miejsce położenia zakładu karnego, w którym skazany przebywa.
+2.
+W ramach czynności, o których mowa w ust. 1, kurator zawodowy może zwrócić się do sądu albo do dyrektora zakładu karnego z wnioskiem o zarządzenie przeprowadzenia wywiadu środowiskowego, o którym mowa w art. 14 § 1 Kodeksu karnego wykonawczego, w zakresie dotyczącym rozpoznania sytuacji rodzinnej oraz środowiskowej skazanego przez innego kuratora, właściwego ze względu na miejsce stałego pobytu skazanego.
+3.
+W zakresie dotyczącym przygotowania środowiska rodzinnego i społecznego do powrotu skazanego kurator zawodowy zespołu właściwego ze względu na miejsce położenia zakładu karnego, w którym skazany przebywa, może zwrócić się o pomoc do kierownika zespołu właściwego ze względu na miejsce stałego pobytu skazanego, który wyznaczy kuratora zawodowego do wykonywania tych czynności.
+§ 43.
+Kierownik zespołu właściwego ze względu na miejsce położenia zakładu karnego może wyznaczyć kuratora zawodowego do spraw związanych z opracowywaniem programów wolnościowych dla skazanych objętych okresem przygotowania do życia po zwolnieniu z zakładu karnego i do stałych kontaktów z administracją zakładu karnego, uwzględniając jego wykształcenie, umiejętności i przeszkolenie.
+§ 44.
+W przypadku przetransportowania skazanego do innego zakładu karnego w okresie, o którym mowa w art. 164 § 1 Kodeksu karnego wykonawczego, kierownik zespołu przekazuje sprawę dotyczącą przygotowania skazanego do życia po zwolnieniu z zakładu karnego zespołowi właściwemu ze względu na miejsce położenia zakładu karnego, w którym skazany przebywa.
+§ 45.
+1.
+W przypadku opuszczenia zakładu karnego przez skazanego, wobec którego zastosowano warunkowe zwolnienie, dokumentację zgromadzoną przez kuratora zawodowego w związku z okresem przygotowania do życia po zwolnieniu z zakładu karnego przekazuje się zespołowi właściwemu ze względu na miejsce stałego pobytu skazanego.
+2.
+Kierownik zespołu przydziela sprawę temu kuratorowi zawodowemu, który uprzednio wykonywał czynności dotyczące przygotowania środowiska rodzinnego i społecznego do powrotu skazanego lub przeprowadzał wywiad środowiskowy w trybie § 42 ust. 2, chyba że wymogi skuteczności i efektywności pracy zespołu oraz wzgląd na równomierne obciążenie kuratorów sądowych pracą uzasadniają przydzielenie sprawy innemu kuratorowi.
+Rozdział 6 Wykonywanie innych czynności
+§ 46.
+1.
+Sprawując nadzór, o którym mowa w art. 181a § 2 Kodeksu karnego wykonawczego, nad wykonywaniem zakazu przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu, jak również nakazu okresowego opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym, kurator zawodowy:
+1)
+uzyskuje od skazanego informacje o sposobie wykonywania orzeczonych zakazów lub nakazu oraz dokonuje ich weryfikacji;
+2)
+uzyskuje od pokrzywdzonych, podmiotów, instytucji lub właściwych urzędów informacje o sposobie realizacji orzeczonych wobec skazanego zakazów lub nakazu.
+2.
+Do sprawowania nadzoru nad wykonywaniem zakazu przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami lub zbliżania się do określonych osób przepis § 40 stosuje się odpowiednio.
+3.
+Bezzwłocznie po powierzeniu nadzoru, nie później jednak niż w ciągu 7 dni od dnia jego powierzenia, kurator zawodowy przesyła jednostce Policji właściwej dla miejsca stałego pobytu skazanego informację o sprawowaniu nadzoru wobec skazanego za przestępstwo z użyciem przemocy lub groźby bezprawnej.
+4.
+Kurator zawodowy nie rzadziej niż co 6 miesięcy oraz na żądanie sądu przedstawia sądowi pisemną informację o wykonywaniu przez skazanego orzeczonych zakazów lub nakazu.
+5.
+W przypadku niestosowania się skazanego do orzeczonych zakazów lub nakazu kurator zawodowy niezwłocznie zawiadamia prokuratora lub Policję o popełnieniu przez skazanego przestępstwa określonego w art. 244 lub art. 244b § 1 Kodeksu karnego oraz informuje sąd o złożeniu zawiadomienia i w razie potrzeby składa stosowny wniosek.
+6.
+Bezzwłocznie po zakończeniu nadzoru w inny sposób niż na skutek upływu okresu orzeczonego zakazu lub nakazu, nie później jednak niż w ciągu 7 dni od dnia jego zakończenia, kurator zawodowy przesyła jednostce Policji właściwej dla miejsca stałego pobytu skazanego informację o zakończeniu sprawowania nadzoru wobec skazanego za przestępstwo z użyciem przemocy lub groźby bezprawnej.
+§ 47.
+Kurator zawodowy ponadto:
+1)
+sygnalizuje kierownikowi zespołu przyczyny przewlekłości postępowania wykonawczego lub innych uchybień stwierdzonych w działalności pozasądowych organów postępowania wykonawczego;
+2)
+bierze udział w posiedzeniach sądu w sprawach, w których złożył wniosek lub na które został wezwany;
+3)
+współdziała ze stowarzyszeniami, organizacjami, instytucjami i innymi podmiotami, których celem działania jest pomoc w społecznej readaptacji skazanych;
+4)
+sygnalizuje kierownikowi zespołu, jednostkom nadrzędnym organów i instytucji państwowych, organom samorządu terytorialnego oraz organom statutowym stowarzyszeń i organizacji społecznych przypadki odmowy udzielenia kuratorowi sądowemu żądanej pomocy, jeżeli w jego ocenie ta odmowa była bezzasadna;
+5)
+niezwłocznie zawiadamia właściwy sąd o tym, że zachodzą warunki do wydania wyroku łącznego;
+6)
+prowadzi na bieżąco dokumentację pracy ze skazanym.
+§ 48.
+1.
+Kierownik zespołu co najmniej raz na 6 miesięcy omawia z przewodniczącym wydziału lub kierownikiem sekcji wydziału w sądzie, zajmującym się nadzorowaniem wykonywania orzeczeń w sprawach karnych lub w sprawach o wykroczenia, bieżące problemy związane ze sprawowaniem dozorów, wykonywaniem kary ograniczenia wolności, kontroli wykonania obowiązków w okresie próby oraz orzecznictwem sądu w kwestiach dotyczących wykonywanych spraw. Ze spotkania kierownik zespołu sporządza notatkę.
+2.
+Kierownik zespołu sygnalizuje przewodniczącemu wydziału lub kierownikowi sekcji przyczyny przewlekłości postępowania wykonawczego lub innych uchybień stwierdzonych w działalności pozasądowych organów postępowania wykonawczego, w tym osób godnych zaufania, którym powierzono sprawowanie dozoru, oraz podmiotów, w których jest wykonywana nieodpłatna, kontrolowana praca na cele społeczne albo praca społecznie użyteczna, a także potrzebę zwrócenia uwagi przez sąd jednostkom nadrzędnym organów i instytucji państwowych, organom samorządu terytorialnego oraz organom statutowym stowarzyszeń i organizacji społecznych w sytuacji, o której mowa w § 47 pkt 4.
+§ 49.
+Dokumentacja w poszczególnych rodzajach spraw wykonywanych w zespołach może być prowadzona także z wykorzystaniem systemu teleinformatycznego. Poszczególne sprawozdania, karty czynności i inne dokumenty mogą być generowane w zakresie wprowadzonych do systemu danych.
+Rozdział 7 Stowarzyszenia, organizacje, instytucje i osoby godne zaufania, którym powierzono sprawowanie dozoru
+§ 50.
+1.
+Stowarzyszenie, organizacja lub instytucja, którym powierzono sprawowanie dozoru, nie później niż w ciągu 14 dni od dnia powierzenia dozoru wyznacza przedstawiciela, za jego zgodą, do wykonywania czynności związanych z dozorem.
+2.
+O wyznaczeniu przedstawiciela, o którym mowa w ust. 1, stowarzyszenie, organizacja lub instytucja niezwłocznie zawiadamia sąd i jednocześnie przekazuje jego imię i nazwisko ze wskazaniem pełnionej funkcji oraz służbowy: adres do korespondencji, numer telefonu, numer faksu i adres poczty elektronicznej.
+3.
+Stowarzyszenie, organizacja lub instytucja może w uzasadnionych przypadkach, z własnej inicjatywy lub na wniosek sądu, zmienić przedstawiciela wyznaczonego do wykonywania czynności związanych z dozorem, w szczególności w razie stwierdzenia nieprawidłowego wykonywania czynności związanych z dozorem. Przepis ust. 2 stosuje się odpowiednio.
+§ 51.
+Czynności, o których mowa w § 50, może również wykonywać osoba upoważniona przez stowarzyszenie, organizację lub instytucję, którym powierzono sprawowanie dozoru.
+§ 52.
+Sprawozdanie z objęcia dozoru przedstawiciel stowarzyszenia, organizacji lub instytucji, którym powierzono sprawowanie dozoru, składa sądowi nie później niż w ciągu 21 dni od dnia nawiązania kontaktu ze skazanym, natomiast sprawozdania z przebiegu dozoru – nie rzadziej niż co 6 miesięcy oraz na żądanie sądu.
+§ 53.
+1.
+Do przedstawicieli stowarzyszeń, organizacji lub instytucji, którym powierzono sprawowanie dozoru, w zakresie wykonywania przez te podmioty czynności wynikających z Kodeksu karnego wykonawczego stosuje się przepisy rozporządzenia odnoszące się do kuratorów zawodowych; przepisów rozporządzenia o kierowniku zespołu nie stosuje się.
+2.
+Do osób godnych zaufania, którym powierzono sprawowanie dozoru, w zakresie wykonywania przez te osoby czynności wynikających z Kodeksu karnego wykonawczego stosuje się przepisy rozporządzenia odnoszące się do kuratorów społecznych.
+Rozdział 8 Przepis końcowy
+§ 54.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik nr 1 — – Karta czynności dozoru (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Sprawozdanie z objęcia/przebiegu/zakończenia dozoru (wzór)
+
+patrz oryginał
+

@@ -8,9 +8,12 @@ pos: 1592
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 sierpnia 2018 r.
+# o zmianie ustawy o odpadach oraz niektórych innych ustaw
+
+*USTAWA z dnia 20 lipca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1592/text.pdf) |
 
-USTAWA z dnia 20 lipca 2018 r.
-o zmianie ustawy o odpadach oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2018 r. poz. 992, 1000, 1479, 1544 i 1564) wprowadza się następujące zmiany:
 
 **Art. 194b.**
@@ -34,7 +34,7 @@ o zmianie ustawy o odpadach oraz niektórych innych ustaw
 1. Administracyjną karę pieniężną wymierza się za niedostarczanie odpadów przez transportującego odpady, wbrew przepisom art. 24 ust. 4, do:
 
 - **1)** posiadacza odpadów,
-- **2)** miejsca przeznaczenia odpadów wskazanego przez zlecającego usługę transportu odpadów.
+- **2)** miejsca przeznaczenia odpadów – wskazanego przez zlecającego usługę transportu odpadów.
 
 2. Kara, o której mowa w ust. 1, wynosi nie mniej niż 1000 zł i nie może przekroczyć 100 000 zł.”;
 
@@ -42,11 +42,11 @@ o zmianie ustawy o odpadach oraz niektórych innych ustaw
 
 **Art. 2.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2018 r. poz. 1313) w art. 23:
 
-**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, 1356, 1479, 1564 i 1590) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, 1356, 1479, 1564 i 1590) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm. ) w załączniku nr 3 do ustawy dodaje się pkt 4.7.–4.13. w brzmieniu: 4.7. Wykonywanie przewozu drogowego przez transportującego odpady bez dokumentu 10 000 potwierdzającego rodzaj transportowanych odpadów, o którym mowa w przepisach wydanych na podstawie art. 24 ust. 7 ustawy z dnia 14 grudnia 2012 r. o odpadach 4.8. Wykonywanie przewozu drogowego odpadów przez transportującego odpady bez 10 000 oznakowania środków transportu, o którym mowa w przepisach wydanych na podstawie art. 24 ust. 7 ustawy z dnia 14 grudnia 2012 r. o odpadach 4.9. Wykonywanie przewozu drogowego odpadów przez transportującego odpady 10 000 w sposób umożliwiający kontakt odpadów niebezpiecznych z odpadami innymi niż niebezpieczne 4.10. Wykonywanie przewozu drogowego odpadów przez transportującego odpady 10 000 w sposób umożliwiający mieszanie poszczególnych rodzajów odpadów, z wyjątkiem gdy strumień zmieszanych rodzajów odpadów w całości jest kierowany do przetwarzania w tym samym procesie 4.11. Wykonywanie przewozu drogowego odpadów przez transportującego odpady 10 000 w sposób umożliwiający rozprzestrzenianie się odpadów poza środki transportu oraz nieograniczający do minimum uciążliwości zapachowej 4.12. Wykonywanie przewozu drogowego odpadów przez transportującego odpady 10 000 w sposób nieograniczający oddziaływania czynników atmosferycznych na odpady, jeżeli mogą one spowodować negatywne oddziaływanie transportowanych odpadów na środowisko lub życie i zdrowie ludzi 4.13. Wykonywanie przewozu drogowego odpadów przez transportującego odpady 10 000 w sposób niezabezpieczający przed przemieszczaniem i przewracaniem się pojemników lub worków
+**Art. 5.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm. ) w załączniku nr 3 do ustawy dodaje się pkt 4.7.– 4.13. w brzmieniu:
 
 **Art. 6.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2018 r. poz. 1044 i 1293) w załączniku do ustawy w części III ust. 39 otrzymuje brzmienie: 39. Zezwolenie wydawane na podstawie przepisów ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. z 2018 r. poz. 296, 1479 i 1592):
 
@@ -56,13 +56,13 @@ o zmianie ustawy o odpadach oraz niektórych innych ustaw
 
 **Art. 9.**
 
-1. Do postępowań w sprawach o wydanie zezwoleń na zbieranie odpadów, zezwoleń na przetwarzanie odpadów, pozwoleń na wytwarzanie odpadów uwzględniających zbieranie odpadów lub przetwarzanie odpadów, pozwoleń zintegrowanych uwzględniających zbieranie odpadów lub przetwarzanie odpadów oraz decyzji zatwierdzających instrukcję prowadzenia składowiska odpadów, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy nowe.
+1. Do postępowań w sprawach o wydanie zezwoleń na zbieranie odpadów, zezwoleń na przetwarzanie odpadów, pozwoleń na wytwarzanie odpadów uwzględniających zbieranie odpadów lub przetwarzanie odpadów, pozwoleń zintegrowanych uwzględniających zbieranie odpadów lub przetwarzanie odpadów oraz decyzji zatwierdzających instrukcję prowadzenia składowiska odpadów, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy nowe, przy czym w przypadku postępowań toczących się w dniu wejścia w życie niniejszej ustawy przed organem odwoławczym, organ odwoławczy uchyla decyzję organu pierwszej instancji i przekazuje sprawę do ponownego rozpatrzenia.
 
-2. Właściwy organ wzywa do uzupełnienia wniosku o wydanie decyzji, o których mowa w ust. 1, zawieszając postępowanie do czasu uzupełnienia wniosku, nie dłużej niż na okres 6 miesięcy.
+2. Organ pierwszej instancji wzywa do uzupełnienia wniosku o wydanie decyzji, o których mowa w ust. 1, zawieszając postępowanie do czasu uzupełnienia wniosku, nie dłużej niż na okres 6 miesięcy.
 
 3. Do postępowań w sprawach o wydanie zezwolenia na przywóz odpadów na teren kraju, o których mowa w art. 4 ustawy zmienianej w art. 7, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 7 w brzmieniu dotychczasowym.
 
-**Art. 10.** Prowadzący instalację, który posiada pozwolenie zintegrowane uwzględniające zbieranie odpadów lub przetwarzanie odpadów, jest obowiązany, w terminie 1 roku od dnia wejścia w życie niniejszej ustawy, złożyć wniosek o zmianę tego pozwolenia, w celu dostosowania go do przepisów zmienionych niniejszą ustawą. W przypadku gdy prowadzący instalację nie dopełnił tego obowiązku, pozwolenie to wygasa w zakresie gospodarowania odpadami. Przepisy art. 14 ust. 1–7 stosuje się odpowiednio.
+**Art. 10.** Prowadzący instalację, który posiada pozwolenie zintegrowane uwzględniające zbieranie odpadów lub przetwarzanie odpadów, jest obowiązany, w terminie do dnia 5 marca 2020 r., złożyć wniosek o zmianę tego pozwolenia, w celu dostosowania go do przepisów zmienionych niniejszą ustawą. W przypadku gdy prowadzący instalację nie dopełnił tego obowiązku, pozwolenie to wygasa w zakresie gospodarowania odpadami. Przepisy art. 14 ust. 1–7 stosuje się odpowiednio.
 
 **Art. 11.** Zezwolenia na przywóz odpadów na teren kraju, o których mowa w art. 4 ustawy zmienianej w art. 7, wydane przed dniem wejścia w życie niniejszej ustawy, zachowują ważność.
 
@@ -72,7 +72,7 @@ o zmianie ustawy o odpadach oraz niektórych innych ustaw
 
 **Art. 14.**
 
-1. Posiadacz odpadów, który przed dniem wejścia w życie niniejszej ustawy uzyskał zezwolenie na zbieranie odpadów, zezwolenie na przetwarzanie odpadów, zezwolenie na zbieranie i przetwarzanie odpadów albo pozwolenie na wytwarzanie odpadów uwzględniające zbieranie lub przetwarzanie odpadów, jest obowiązany, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, złożyć wniosek o zmianę posiadanej decyzji, wskazując we wniosku:
+1. Posiadacz odpadów, który przed dniem wejścia w życie niniejszej ustawy uzyskał zezwolenie na zbieranie odpadów, zezwolenie na przetwarzanie odpadów, zezwolenie na zbieranie i przetwarzanie odpadów albo pozwolenie na wytwarzanie odpadów uwzględniające zbieranie lub przetwarzanie odpadów, jest obowiązany, w terminie do dnia 5 marca 2020 r., złożyć wniosek o zmianę posiadanej decyzji, wskazując we wniosku:
 
 - **1)** maksymalną masę poszczególnych rodzajów odpadów i maksymalną łączną masę wszystkich rodzajów odpadów, które mogą być magazynowane w tym samym czasie oraz które mogą być magazynowane w okresie roku;
 - **2)** największą masę odpadów, które mogłyby być magazynowane w tym samym czasie w instalacji, obiekcie budowlanym lub jego części lub innym miejscu magazynowania odpadów, wynikającą z wymiarów instalacji, obiektu budowlanego lub jego części lub innego miejsca magazynowania odpadów;
@@ -86,9 +86,12 @@ o zmianie ustawy o odpadach oraz niektórych innych ustaw
 - **3)** oświadczenie o niekaralności, o którym mowa w art. 42 ust. 3a pkt 3 ustawy zmienianej w art. 1;
 - **4)** oświadczenie, że w stosunku do posiadacza odpadów będącego osobą:
     - **a)** fizyczną prowadzącą działalność gospodarczą,
-    - **b)** prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej albo wspólnika, prokurenta, członka zarządu lub członka rady nadzorczej tego posiadacza odpadów prowadzącego działalność gospodarczą jako osoba fizyczna nie wydano, na podstawie przepisów ustawy zmienianej w art. 1, ostatecznej decyzji o cofnięciu zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów, zezwolenia na zbieranie i przetwarzanie odpadów lub pozwolenia na wytwarzanie odpadów uwzględniającego zbieranie i przetwarzanie odpadów lub nie wymierzono administracyjnej kary pieniężnej, o której mowa w art. 194 tej ustawy;
+    - **b)** prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej albo wspólnika, prokurenta, członka zarządu lub członka rady nadzorczej tego posiadacza odpadów prowadzącego działalność gospodarczą jako osoba fizyczna – nie wydano, na podstawie przepisów ustawy zmienianej w art. 1, ostatecznej decyzji o cofnięciu zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów, zezwolenia na zbieranie i przetwarzanie odpadów lub pozwolenia na wytwarzanie odpadów uwzględniającego zbieranie i przetwarzanie odpadów lub nie wymierzono co najmniej trzykrotnie administracyjnej kary pieniężnej, o której mowa w art. 194 tej ustawy, w wysokości przekraczającej łącznie kwotę 150 000 zł;
 
-- **5)** oświadczenie, że wspólnik, prokurent, członek zarządu lub członek rady nadzorczej posiadacza odpadów nie jest lub nie był wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu innego przedsiębiorcy, w stosunku do którego wydano decyzję lub wymierzono administracyjną karę pieniężną, o których mowa w pkt 4;
+- **5)** oświadczenie, że wspólnik, prokurent, członek zarządu lub członek rady nadzorczej posiadacza odpadów nie jest lub nie był wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu innego przedsiębiorcy:
+    - **a)** w stosunku do którego wydano ostateczną decyzję o cofnięciu zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów, zezwolenia na zbieranie i przetwarzanie odpadów lub pozwolenia na wytwarzanie odpadów uwzględniającego zbieranie i przetwarzanie odpadów lub
+    - **b)** któremu wymierzono co najmniej trzykrotnie administracyjną karę pieniężną, o której mowa w art. 194 ustawy zmienianej w art. 1, w wysokości przekraczającej łącznie kwotę 150 000 zł – za naruszenia popełnione w czasie, gdy jest lub był wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu tego innego przedsiębiorcy.
+
 - **6)** postanowienie, o którym mowa w art. 42 ust. 4c ustawy zmienianej w art. 1;
 - **7)** decyzję o warunkach zabudowy i zagospodarowania terenu, o której mowa w art. 4 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2017 r. poz. 1073 i 1566 oraz z 2018 r. poz. 1496 i 1544), w przypadku gdy dla terenu, którego wniosek dotyczy, nie został uchwalony miejscowy plan zagospodarowania przestrzennego, chyba że uzyskanie decyzji o warunkach zabudowy i zagospodarowania terenu nie jest wymagane.
 

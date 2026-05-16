@@ -8,9 +8,10 @@ pos: 457
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 456 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 10 kwietnia 2006 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 11 kwietnia 2006 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060640457) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/457/text.pdf) |
 
-sygn. akt SK 30/04 Trybunał Konstytucyjny w składzie: Ewa Ęętowska przewodniczący, Marek Mazurkiewicz, Janusz Niemcewicz, Mirosław Wyrzykowski sprawozdawca, Bohdan Zdziennicki, po rozpoznaniu, z udziałem skarżącego oraz Sejorzeka:
-Art. 1 pkt 81 lit. a w związku z art. 9 ustawy z dnia 7 stycznia 2000 r. ozmianie ustawy ogospodarce nieruchomościami oraz innych ustaw (Dz. U. 6, poz.70):
-a) jest zgodny z art. 32 w związku z art. ust. 1 Konstytucji Rzeczypospolitej Polskiej,
-b) jest niezgodny z zasadą ochrony praw słusznie nabytych wyrażoną wart. 2 iart. ust. 2 Konstytucji wzakresie, wjakim odnosi się do wszczętych a niezakończonych przed jego wejściem w życie mu i Prokuratora Generalnego, na rozprawie w dniu spraw dotyczących nabycia użytkowania wieczy10 kwietnia 2006 r., skargi konstytucyjnej Polskiego stego nieruchomości stanowiących własność Towarzystwa Turystyczno-Krajoznawczego w Warsza- Skarbu Państwa lub własność gminy niezabudowie o zbadanie zgodności: wanych przez ich posiadaczy.
-1) art. 207 ust. 1 ustawy z dnia 21 sierpnia 1997 r. Ponadto postanawia: o gospodarce nieruchomościami (Dz. U. z 2000 r. na podstawie art. 39 ust. 1 pkt 1 wzwiązku zart. 39 46, poz. 543, ze zm.), w brzmieniu nadanym ust. 2 ustawy z dnia 1 sierpnia 1997 r. o Trybunale ustawą z dnia 7 stycznia 2000 r. o zmianie ustawy Konstytucyjnym (Dz. U. 102, poz. 643, z 2000 r.
-o gospodarce nieruchomościami oraz innych Nr48, poz. 552 i 53, poz. 638, z 2001 r. 98, ustaw (Dz. U. 6, poz. 70), z art. 2, art. 32 poz.1070 oraz z2005 r. 169, poz. 1417) umorzyć powzwiązku zart. ust. 1 oraz art. ust. 2 Konsty- stępowanie w pozostałym zakresie ze względu na tucji, zbędność wydania orzeczenia.
-2) art. 1 pkt 81 lit. a w związku z art. 9 ustawy z dnia 7 stycznia 2000 r. o zmianie ustawy o gospodarce Ewa Ęętowska nieruchomościami oraz innych ustaw (Dz. U. 6, poz. 70) z art. 2, art. 32 w związku z art. ust. 1 Marek Mazurkiewicz Janusz Niemcewicz oraz art. ust. 2 Konstytucji, Mirosław Wyrzykowski Bohdan Zdziennicki WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 11 kwietnia 2006 r.
-sygn. akt SK 57/04 Trybunał Konstytucyjny w składzie: Marian Zdyb przewodniczący, Wiesław Johann, Marek Mazurkiewicz, Andrzej Mączyński sprawozdawca, Janusz Niemcewicz, po rozpoznaniu, z udziałem skarżącego oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 11kwietnia 2006 r., skargi konstytucyjnej Andrzeja Ha- z art.60 § 1 tego kodeksu obowiązek dostarczania lamy ozbadanie zgodności art. 60 § 1 i3 ustawy zdnia przez rozwiedzionego małżonka, który został uznany 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy za winnego rozkładu pożycia, środków utrzymania (Dz.U. 9, poz. 59, ze zm.) wzakresie, wjakim obcią- drugiemu rozwiedzionemu małżonkowi, nie wygasa ża małżonka wyłącznie winnego rozkładu pożycia wskutek upływu czasu, jest zgodny z art.
-obowiązkiem alimentacyjnym nieograniczonym w związku z art. 31 ust. 3 Konstytucji Rzeczypospoliw czasie (o ile małżonek niewinny nie wstąpi w nowy tej Polskiej iznakazem urzeczywistniania zasad sprazwiązek małżeński), zart. 2 iart. wzwiązku zart. 31 wiedliwości społecznej wyrażonym w art. 2 Konstyust. 3 Konstytucji, tucji.
-orzeka: Marian Zdyb
-Art. 60 § 3 ustawy zdnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy (Dz. U. 9, poz. 59, ze Wiesław Johann Marek Mazurkiewicz zm.) w zakresie, w jakim stanowi, że wynikający Andrzej Mączyński Janusz Niemcewicz
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marian Zdyb – przewodniczący, Wiesław Johann, Marek Mazurkiewicz, Andrzej Mączyński – sprawozdawca, Janusz Niemcewicz, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem skarżącego oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 11 kwietnia 2006 r., skargi konstytucyjnej Andrzeja Halamy o zbadanie zgodności art. 60 § 1 i 3 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, ze zm.) w zakresie, w jakim obciąża małżonka wyłącznie winnego rozkładu pożycia obowiązkiem alimentacyjnym nieograniczonym w czasie (o ile małżonek niewinny nie wstąpi w nowy związek małżeński), z art. 2 i art. 64 w związku z art. 31 ust. 3 Konstytucji, orzeka: Art. 60 § 3 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, ze zm.) w zakresie, w jakim stanowi, że wynikający z art. 60 § 1 tego kodeksu obowiązek dostarczania przez rozwiedzionego małżonka, który został uznany za winnego rozkładu pożycia, środków utrzymania drugiemu rozwiedzionemu małżonkowi, nie wygasa wskutek upływu czasu, jest zgodny z art. 64 w związku z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej i z nakazem urzeczywistniania zasad sprawiedliwości społecznej wyrażonym w art. 2 Konstytucji.
 

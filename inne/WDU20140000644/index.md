@@ -8,9 +8,10 @@ pos: 644
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 maja 2014 r.
+# Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o transporcie kolejowym, ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz ustawy o Funduszu Kolejowym
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,30 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000644) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/644/text.pdf) |
 
-Poz. 644
-USTAWA z dnia 24 kwietnia 2014 r.
-o zmianie ustawy o transporcie kolejowym, ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz ustawy o Funduszu Kolejowym
-
 **Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2000 r. Nr 84, poz. 948, z późn. zm. ) w art. 15 uchyla się ust. 7.
+**Art. 38a.**
 
-**Art. 3.** W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2006 r. Nr 12, poz. 61, z późn. zm. ) uchyla się art. 3c.
+1. Minister właściwy do spraw transportu może dofinansować z budżetu państwa lub z Funduszu Kolejowego:
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+- **1)** koszty remontu i utrzymania infrastruktury kolejowej, jeżeli infrastruktura ta jest udostępniana przez zarządcę na zasadach określonych w ustawie;
+- **2)** działalność zarządcy, która nie może być sfinansowana z opłat za korzystanie z infrastruktury kolejowej.
+
+2. Zadania i działalność, o których mowa w ust. 1, realizowane są na podstawie umowy zawartej, na okres nie krótszy niż 5 lat, pomiędzy ministrem właściwym do spraw transportu a zarządcą.
+
+3. Umowa, o której mowa w ust. 2, określa w szczególności:
+
+- **1)** wskazanie zadań i działalności, o których mowa w ust. 1;
+- **2)** obowiązki zarządcy;
+- **3)** wielkość dofinansowania, w tym na zmniejszenie opłat za korzystanie z infrastruktury; umowa może określać wielkość dofinansowania na cele, o których mowa w art. 33 ust. 5c;
+- **4)** zasady rozliczenia dofinansowania;
+- **5)** zachęty do zmniejszania kosztów udostępniania infrastruktury i poziomu opłat za dostęp;
+- **6)** mechanizmy motywujące polegające na uwzględnieniu w kosztach zarządcy infrastruktury nagród i premii dla załogi za właściwą realizację celów jakościowych wskazanych w umowie oraz za optymalizację kosztów udostępniania infrastruktury i poziomu opłat za dostęp;
+- **7)** kary za nieutrzymanie poziomu kosztów założonych w umowie. ” .
+
+**Art. 2.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2000 r. Nr 84, poz. 948, z późn. zm.) w art. 15 uchyla się ust. 7.
+
+**Art. 3.** W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2006 r. Nr 12, poz. 61, z późn. zm.) uchyla się art. 3c.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

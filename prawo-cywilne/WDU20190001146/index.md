@@ -8,9 +8,10 @@ pos: 1146
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 19 czerwca 2019 r.
+# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz ustawy – Kodeks postępowania cywilnego
 
 | Pole | Wartość |
 |---|---|
@@ -24,26 +25,90 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001146) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1146/text.pdf) |
 
-USTAWA z dnia 16 maja 2019 r.
-zmianie ustawy Kodeks rodzinny opiekuńczy oraz ustawy Kodeks postępowania cywilnego
+**Art. 1.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2017 r. poz. 682, z 2018 r. poz. 950 oraz z 2019 r. poz. 303) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 25 lutego 1964 r. Kodeks rodzinny opiekuńczy (Dz. U. z 2017 r. poz. 682, z 2018 r. poz. 950 oraz z 2019 r. poz. 303) wprowadza następujące zmiany:
+**Art. 6111.** Matka nie może wytoczyć powództwa o ustalenie macierzyństwa po osiągnięciu przez dziecko pełnoletności. Jeżeli dziecko zmarło przed osiągnięciem pełnoletności, matka może wytoczyć powództwo o ustalenie macierzyństwa do dnia, w którym dziecko osiągnęłoby pełnoletność. ” ;
 
-**Art. 61¹⁶.** Powództwo ustalenie lub zaprzeczenie wytoczyć także prokurator, jeżeli wymaga tego dobro dziecka lub ochrona interesu społecznego. Jeżeli dziecko zmarło osiągnięciem pełnoletności, prokurator wytoczyć powództwo zaprzeczenie dnia, którym dziecko osiągnęłoby pełnoletność. Wytoczenie przez prokuratora powództwa zaprzeczenie jest dopuszczalne, jeżeli dziecko zmarło po osiągnięciu pełnoletności.”;
+**Art. 6115.**
 
-**Art. 99².**
+§ 1. Zaprzeczenie macierzyństwa nie jest dopuszczalne po śmierci dziecka, chyba że dziecko zmarło po wszczęciu postępowania.
 
-1. Kurator reprezentujący dziecko postępowaniu sądem lub innym organem państwowym udziela na piśmie lub przy wykorzystaniu środków komunikacji elektronicznej temu z rodziców które uczestniczy postępowaniu, na jego wniosek, informacji niezbędnych prawidłowego wykonywania władzy rodzicielskiej dotyczących przebiegu tego postępowania podjętych jego toku czynnościach, jeżeli stoi temu na przeszkodzie dobro dziecka. Kurator uzyskuje od tego rodzica, informacje dziecku, jego stanie zdrowia, sytuacji rodzinnej środowisku, zakresie niezbędnym prawidłowej reprezentacji dziecka.
+§ 2. W razie śmierci dziecka, które wytoczyło powództwo, zaprzeczenia macierzyństwa mogą dochodzić jego zstępni.
 
-4. Kurator reprezentujący dziecko jest obowiązany zachować tajemnicy okoliczności sprawy, których powziął wiadomość ze względu na wykonywane czynności, z wyjątkiem wiarygodnych informacji przestępstwach popełnionych na szkodę dziecka. W przypadku, gdy kuratorem reprezentującym dziecko został ustanowiony adwokat lub radca prawny, tajemnica ta stanowi tajemnicę zawodową rozumieniu ustawy z dnia 26 maja 1982 r. Prawo adwokaturze (Dz. U. z 2018 r. poz. 1184, 1467, 1669 2193 oraz z 2019 r. poz. 730) lub ustawy z dnia 6 lipca 1982 r. radcach prawnych (Dz. U. z 2018 r. poz. 2115 2193 oraz z 2019 r. poz. 730).
+**Art. 6116.** Powództwo o ustalenie lub zaprzeczenie macierzyństwa może wytoczyć także prokurator, jeżeli wymaga tego dobro dziecka lub ochrona interesu społecznego. Jeżeli dziecko zmarło przed osiągnięciem pełnoletności, prokurator może wytoczyć powództwo o zaprzeczenie macierzyństwa do dnia, w którym dziecko osiągnęłoby pełnoletność. Wytoczenie przez prokuratora powództwa o zaprzeczenie macierzyństwa nie jest dopuszczalne, jeżeli dziecko zmarło po osiągnięciu pełnoletności. ” ;
 
-**Art. 99³.** O wynagrodzeniu reprezentującego dziecko zwrocie poniesionych przez niego wydatków orzeka ten sąd lub organ państwowy, którym dziecko jest reprezentowane, stosując przepisy właściwe dla danego postępowania. Wysokość wynagrodzenia ustanowionego reprezentowania dziecka postępowaniu innym niż postępowanie cywilne zwrot poniesionych przez niego wydatków ustala na podstawie przepisów określających wysokość wynagrodzenia zwrot wydatków ustanowionego dla strony sprawie cywilnej.”.
+**Art. 701.**
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm. ) wprowadza następujące zmiany:
+§ 1. Zaprzeczenie ojcostwa nie jest dopuszczalne po śmierci dziecka, chyba że dziecko zmarło po wszczęciu postępowania.
 
-**Art. 3.** W sprawach, których dniem wejścia życie niniejszej ustawy ustanowiono reprezentowania dziecka pozostającego pod władzą rodzicielską, którego reprezentować żadne z rodziców, stosuje przepisy ustawy zmienianej art. 1, brzmieniu dotychczasowym, z wyjątkiem przepisów art. 99 2 3 oraz art. 99 ustawy zmienianej art. 1, które stosuje brzmieniu nadanym niniejszą ustawą.
+§ 2. W razie śmierci dziecka, które wytoczyło powództwo, zaprzeczenia ojcostwa mogą dochodzić jego zstępni. ” ;
 
-**Art. 4.** W sprawach wszczętych niezakończonych dniem wejścia życie niniejszej ustawy stosuje przepisy ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą.
+- **5)** w art. 83: § 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 5.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+§ 1. Ustalenie bezskuteczności uznania ojcostwa nie jest dopuszczalne po śmierci dziecka, chyba że dziecko zmarło po wszczęciu postępowania. ” , po § 1 dodaje się § 1a w brzmieniu: „
+
+- **b)**
+
+§ 1a. W razie śmierci dziecka, które wytoczyło powództwo, ustalenia bezskuteczności uznania ojcostwa mogą dochodzić jego zstępni. ” , § 2 otrzymuje brzmienie: „
+
+- **c)**
+
+§ 2. Jeżeli uznanie ojcostwa nastąpiło po śmierci dziecka, stosuje się odpowiednio przepisy art. 82 § 1 i 2, przy czym powództwo powinno być wytoczone nie później niż do dnia, w którym dziecko osiągnęłoby pełnoletność, przeciwko kuratorowi ustanowionemu przez sąd opiekuńczy. ” ;
+
+- **6)** art. 84 otrzymuje brzmienie: „
+
+**Art. 84.**
+
+§ 1. Sądowego ustalenia ojcostwa mogą żądać dziecko, jego matka oraz domniemany ojciec dziecka.
+
+§ 2. Matka ani domniemany ojciec nie mogą wytoczyć powództwa o ustalenie ojcostwa po osiągnięciu przez dziecko pełnoletności. Jeżeli dziecko zmarło przed osiągnięciem pełnoletności, matka oraz domniemany ojciec mogą wytoczyć powództwo o ustalenie ojcostwa do dnia, w którym dziecko osiągnęłoby pełnoletność.
+
+§ 3. Dziecko albo matka wytacza powództwo o ustalenie ojcostwa przeciwko domniemanemu ojcu, a gdy ten nie żyje – przeciwko kuratorowi ustanowionemu przez sąd opiekuńczy.
+
+§ 4. Domniemany ojciec dziecka wytacza powództwo o ustalenie ojcostwa przeciwko dziecku i matce. Jeżeli matka dziecka nie żyje, powództwo wytacza się przeciwko dziecku, a jeżeli dziecko nie żyje – przeciwko kuratorowi ustanowionemu przez sąd opiekuńczy.
+
+§ 5. W razie śmierci dziecka, które wytoczyło powództwo, ustalenia ojcostwa mogą dochodzić jego zstępni. ” ;
+
+- **7)** art. 86 otrzymuje brzmienie: „
+
+**Art. 86.** Powództwo o ustalenie lub zaprzeczenie ojcostwa oraz ustalenie bezskuteczności uznania ojcostwa może wytoczyć także prokurator, jeżeli wymaga tego dobro dziecka lub ochrona interesu społecznego. Jeżeli dziecko zmarło przed osiągnięciem pełnoletności, prokurator może wytoczyć powództwo o zaprzeczenie ojcostwa oraz ustalenie bezskuteczności uznania ojcostwa do dnia, w którym dziecko osiągnęłoby pełnoletność. Wytoczenie przez prokuratora powództwa o zaprzeczenie ojcostwa oraz ustalenie bezskuteczności uznania ojcostwa nie jest dopuszczalne, jeżeli dziecko zmarło po osiągnięciu pełnoletności. ” ;
+
+**Art. 99.**
+
+§ 1. Dla dziecka pozostającego pod władzą rodzicielską, którego żadne z rodziców nie może reprezentować, sąd opiekuńczy ustanawia kuratora reprezentującego dziecko.
+
+§ 2. Kurator reprezentujący dziecko jest umocowany do dokonywania wszelkich czynności łączących się ze sprawą, również w zakresie zaskarżenia i wykonania orzeczenia. Do czynności kuratora przepisy art. 95 § 3 i 4 oraz art. 154 stosuje się odpowiednio.
+
+§ 3. Do kuratora reprezentującego dziecko przepisy art. 148, art. 151, art. 152, art. 156, art. 159, art. 164, art. 165 § 2, art. 168–170 i art. 180 § 2 stosuje się odpowiednio. ” ;
+
+- **9)** po art. 99 dodaje się art. 991–993wbrzmieniu: „
+
+**Art. 991.**
+
+§ 1. Kuratorem reprezentującym dziecko może być ustanowiony adwokat lub radca prawny, który wykazuje szczególną znajomość spraw dotyczących dziecka, tego samego rodzaju lub rodzajowo odpowiadających sprawie, w której wymagana jest reprezentacja dziecka lub ukończył szkolenie dotyczące zasad reprezentacji dziecka, praw lub potrzeb dziecka.
+
+§ 2. W przypadku gdy stopień skomplikowania sprawy tego nie wymaga, w szczególności gdy sąd opiekuńczy określi szczegółowo treść czynności, kuratorem reprezentującym dziecko może zostać ustanowiona również inna osoba posiadająca wyższe wykształcenie prawnicze i wykazująca znajomość potrzeb dziecka. Jeżeli szczególne okoliczności za tym przemawiają kuratorem może zostać ustanowiona także osoba nieposiadająca wyższego wykształcenia prawniczego.
+
+§ 3. Przepisu § 2 nie stosuje się do kuratora reprezentującego dziecko w postępowaniu karnym.
+
+**Art. 992.**
+
+§ 1. Kurator reprezentujący dziecko w postępowaniu przed sądem lub innym organem państwowym udziela na piśmie lub przy wykorzystaniu środków komunikacji elektronicznej temu z rodziców dziecka, które nie uczestniczy w postępowaniu, na jego wniosek, informacji niezbędnych do prawidłowego wykonywania władzy rodzicielskiej dotyczących przebiegu tego postępowania i podjętych w jego toku czynnościach, jeżeli nie stoi temu na przeszkodzie dobro dziecka. Kurator uzyskuje od tego rodzica, informacje o dziecku, jego stanie zdrowia, sytuacji rodzinnej i środowisku, w zakresie niezbędnym do prawidłowej reprezentacji dziecka.
+
+§ 2. O informacje o dziecku, o których mowa w § 1, kurator reprezentujący dziecko może zwrócić się również do organów lub instytucji oraz stowarzyszeń i organizacji społecznych, do których należy dziecko lub które świadczą dziecku pomoc.
+
+§ 3. Jeżeli rozwój umysłowy, stan zdrowia i stopień dojrzałości dziecka na to pozwalają kurator reprezentujący dziecko nawiązuje z dzieckiem kontakt i informuje je o podejmowanych czynnościach, przebiegu postępowania i sposobie jego zakończenia oraz konsekwencjach podjętych działań dla jego sytuacji prawnej, w sposób zrozumiały i dostosowany do stopnia jego rozwoju.
+
+§ 4. Kurator reprezentujący dziecko jest obowiązany zachować w tajemnicy okoliczności sprawy, o których powziął wiadomość ze względu na wykonywane czynności, z wyjątkiem wiarygodnych informacji o przestępstwach popełnionych na szkodę dziecka. W przypadku, gdy kuratorem reprezentującym dziecko został ustanowiony adwokat lub radca prawny, tajemnica ta stanowi tajemnicę zawodową w rozumieniu ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2018 r. poz. 1184, 1467, 1669 i 2193 oraz z 2019 r. poz. 730) lub ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2018 r. poz. 2115 i 2193 oraz z 2019 r. poz. 730).
+
+**Art. 993.** O wynagrodzeniu kuratora reprezentującego dziecko i zwrocie poniesionych przez niego wydatków orzeka ten sąd lub organ państwowy, przed którym dziecko jest reprezentowane, stosując przepisy właściwe dla danego postępowania. Wysokość wynagrodzenia kuratora ustanowionego do reprezentowania dziecka w postępowaniu innym niż postępowanie cywilne i zwrot poniesionych przez niego wydatków ustala się na podstawie przepisów określających wysokość wynagrodzenia i zwrot wydatków kuratora ustanowionego dla strony w sprawie cywilnej. ” .
+
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 3.** W sprawach, w których przed dniem wejścia w życie niniejszej ustawy ustanowiono kuratora do reprezentowania dziecka pozostającego pod władzą rodzicielską, którego nie może reprezentować żadne z rodziców, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, z wyjątkiem przepisów art. 99 § 2 i 3 oraz art. 992 ustawy zmienianej w art. 1, które stosuje się w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.** W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje przepisy ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

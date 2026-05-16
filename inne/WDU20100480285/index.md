@@ -8,9 +8,10 @@ pos: 285
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 285 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 16 marca 2010 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 16 marca 2010 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +25,10 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100480285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/285/text.pdf) |
 
-sygn. akt K 24/08 Trybunał Konstytucyjny w składzie: Marek Mazurkiewicz — przewodniczący, Adam Jamróz, Marek Kotlinowski, Teresa Liszcz, Mirosław Wyrzykowski — sprawozdawca, orzeka:
-1. Art. 7 ust. 3 i 6 ustawy z dnia 21 kwietnia 2005 r.
-o opłatach abonamentowych (Dz. U. Nr 85, poz. 728 i Nr 157, poz. 1314 oraz z 2010 r. Nr 13, poz. 70) są zgodne z art. 2 Konstytucji Rzeczypospolitej Polskiej i nie są niezgodne z art. 1 oraz z art. 84 w związku z art. 217 Konstytucji.
-2. Art. 7 ust. 1 i 5 ustawy powołanej w punkcie 1 nie są niezgodne z art. 1, art. 2 oraz z art. 84 w związku z art. 217 Konstytucji.
-Ponadto postanawia: po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie na podstawie art. 39 ust. 1 pkt 2 ustawy z dnia w dniach 17 listopada i 10 grudnia 2009 r. oraz 16 mar- 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U.
-ca 2010 r., wniosku Rzecznika Praw Obywatelskich Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, o zbadanie zgodności art. 7 ustawy z dnia 21 kwietnia poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, 2005 r. o opłatach abonamentowych (Dz. U. Nr 85, poz. 1417 oraz z 2009 r. Nr 56, poz. 459) umorzyć popoz. 728, ze zm.) z art. 1, art. 2 oraz art. 84 w związku stępowanie w pozostałym zakresie na skutek cofnięcia z art. 217 Konstytucji Rzeczypospolitej Polskiej, wniosku.
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marek Mazurkiewicz – przewodniczący, Adam Jamróz, Marek Kotlinowski, Teresa Liszcz, Mirosław Wyrzykowski – sprawozdawca, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniach 17 listopada i 10 grudnia 2009 r. oraz 16 marca 2010 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 7 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. Nr 85, poz. 728, ze zm.) z art. 1, art. 2 oraz art. 84 w związku z art. 217 Konstytucji Rzeczypospolitej Polskiej, orzeka:
+1.
+Art. 7 ust. 3 i 6 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. Nr 85, poz. 728 i Nr 157, poz. 1314 oraz z 2010 r. Nr 13, poz. 70) są zgodne z art. 2 Konstytucji Rzeczypospolitej Polskiej i nie są niezgodne z art. 1 oraz z art. 84 w związku z art. 217 Konstytucji.
+2.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 2 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417 oraz z 2009 r. Nr 56, poz. 459) umorzyć postępowanie w pozostałym zakresie na skutek cofnięcia wniosku.
 

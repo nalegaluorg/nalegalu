@@ -8,9 +8,10 @@ pos: 1713
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 sierpnia 2022 r.
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego oraz ustawy o Krajowej Administracji Skarbowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,99 +25,177 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001713) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1713/text.pdf) |
 
-USTAWA z dnia 5 sierpnia 2022 r.
-zmianie ustawy szczególnych rozwiązaniach zakresie przeciwdziałania wspieraniu agresji Ukrainę oraz służących ochronie bezpieczeństwa narodowego oraz ustawy Krajowej Administracji Skarbowej
+**Art. 1.** W ustawie z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. poz. 835) wprowadza się następujące zmiany:
 
-**Art. 1.** ustawie z dnia 13 kwietnia 2022 r. szczególnych rozwiązaniach zakresie przeciwdziałania wspieraniu agresji Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. poz. 835) wprowadza się następujące zmiany:
+**Art. 6a.**
 
-**Art. 6b.**
+1. W przypadku zastosowania środka, o którym mowa w art. 1 pkt 1 albo 2, może zostać ustanowiony tymczasowy zarząd przymusowy, zwany dalej „zarządem”, w celu zbycia środków finansowych, funduszy lub zasobów gospodarczych w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014, gdy jest to niezbędne dla zapewnienia funkcjonowania podmiotu gospodarczego prowadzącego przedsiębiorstwo na terytorium Rzeczypospolitej Polskiej w celu:
 
-1. przypadku zastosowania środka, którym art. 1 pkt 1 albo 2, może zostać ustanowiony zarządu i działalności zarządcy stosuje się art. 6a ust. 2–10, 12–14 oraz ust. 27 pkt 1.
+- **1)** utrzymania miejsc pracy w tym przedsiębiorstwie lub
+- **2)** utrzymania w zakresie działalności tego przedsiębiorstwa świadczenia usług użyteczności publicznej lub wykonywania innych zadań o charakterze publicznym, lub
+- **3)** ochrony interesu ekonomicznego państwa.
 
-3. Zarządca wykonuje czynności określone art. 6a ust. 11 pkt 1–4 do czasu przejęcia własności podstawie decyzji, której ust. 5.
+2. Ustanowienie zarządu następuje w drodze decyzji ministra właściwego do spraw gospodarki. Do decyzji stosuje się odpowiednio przepisy art. 3 ust. 3–6 i 8–11 oraz art. 4, z tym że skutki określone w art. 4 ust. 2 i 3 następują przez udostępnienie decyzji w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw gospodarki.
 
-4. Przejęcie własności następuje za odszkodowaniem odpowiadającym wartości rynkowej środków finansowych, funduszy zasobów gospodarczych podlegających przejęciu ustalonej oparciu aktualną wycenę sporządzoną przez niezależny podmiot zewnętrzny uznanej pozycji rynku świadczonych usług posiadający umiejętności i doświadczenie niezbędne do sporządzenia takiej wyceny, a przypadku nieruchomości oparciu operat szacunkowy sporządzony przez rzeczoznawcę majątkowego, według stanu środków finansowych, funduszy zasobów gospodarczych podlegających przejęciu dniu wydania decyzji ustalającej wysokość odszkodowania.
+3. Przed wydaniem decyzji o ustanowieniu zarządu minister właściwy do spraw gospodarki może wystąpić do ministra właściwego do spraw wewnętrznych o przekazanie informacji uzyskanych przez niego w związku z wydaniem decyzji, o której mowa w art. 3 ust. 1.
 
-5. Przejęcie własności następuje drodze decyzji ministra właściwego do spraw gospodarki, wydanej okresie, który zarząd został ustanowiony, określonym decyzji, której ust. 2. Do decyzji przejęciu własności stosuje się odpowiednio art. 3 ust. 6 i 9.
+4. W decyzji o ustanowieniu zarządu:
 
-6. decyzji przejęciu własności określa się:
+- **1)** określa się osobę lub podmiot dysponujące środkami finansowymi, funduszami lub zasobami gospodarczymi w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014 objętymi zarządem, wobec których ustanawiany jest zarząd;
+- **2)** określa się zakres środków finansowych, funduszy lub zasobów gospodarczych w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014 objętych zarządem;
+- **3)** wyznacza się osobę wykonującą zarząd, zwaną dalej „zarządcą”, spośród osób spełniających wymagania określone w ust. 7 .
 
-- **1)** osobę podmiot, do których należą środki finansowe, fundusze zasoby gospodarcze rozumieniu rozporządzenia rozporządzenia 269/2014, których własność podlega przejęciu;
-- **2)** środki finansowe, fundusze zasoby gospodarcze rozumieniu rozporządzenia rozporządzenia 269/2014, których własność podlega przejęciu;
+5. W decyzji o ustanowieniu zarządu określa się okres, na który jest on ustanawiany, nie dłuższy niż 6 miesięcy. Okres ten może być jednokrotnie przedłużony, jednak łącznie nie może on być dłuższy niż 12 miesięcy.
+
+6. Decyzja o ustanowieniu zarządu przekazywana jest niezwłocznie do wiadomości ministra właściwego do spraw wewnętrznych oraz Szefa Krajowej Administracji Skarbowej.
+
+7. Zadania zarządcy może wykonywać osoba fizyczna, która łącznie spełnia następujące warunki:
+
+- **1)** ma pełną zdolność do czynności prawnych;
+- **2)** posiada wykształcenie wyższe oraz doświadczenie w zakresie zarządzania działalnością przedsiębiorstw albo doradztwa gospodarczego;
+- **3)** nie orzeczono wobec niej prawomocnie: zakazu prowadzenia działalności gospodarczej, o którym mowa w art. 373 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520), lub środka karnego w postaci zakazu prowadzenia określonej działalności gospodarczej albo środka zapobiegawczego w postaci nakazu powstrzymania się od określonej działalności obejmującej działalność gospodarczą wykonywaną przez podmiot gospodarczy, o którym mowa w ust. 1.
+    - **a)**
+    - **b)**
+
+8. Koszty związane z wykonywaniem zarządu obciążają osobę lub podmiot, wobec których ustanowiony jest zarząd, z zastrzeżeniem ust. 9.
+
+9. Wynagrodzenie zarządcy jest ustalane na podstawie umowy zawieranej pomiędzy ministrem właściwym do spraw gospodarki a zarządcą. Wynagrodzenie zarządcy jest ustalane na zasadach określonych w przepisach ustawy z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. z 2020 r. poz. 1907).
+
+10. Zarządca ustala środki finansowe, fundusze lub zasoby gospodarcze w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014 należące do osoby albo podmiotu wpisanych na listę na dzień ustanowienia zarządu, w tym dokonuje spisu nieruchomości, środków pieniężnych oraz przysługujących osobie albo podmiotowi wpisanym na listę praw majątkowych, a także sporządza spis należności.
+
+11. Zarządca:
+
+- **1)** zapewnia ciągłość działalności przedsiębiorstwa podmiotu gospodarczego,
+- **2)** zarządza przedsiębiorstwem, w szczególności na zarządcę przechodzi prawo podejmowania uchwał i decyzji we wszystkich sprawach zastrzeżonych do właściwości władz i organów podmiotu gospodarczego,
+- **3)** wykonuje uprawnienia przysługujące osobie lub podmiotowi wpisanym na listę, wobec których został ustanowiony zarząd, w szczególności wykonuje prawa z akcji należących do takiej osoby lub podmiotu,
+- **4)** podejmuje działania niezbędne do zapobieżenia wykorzystaniu środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem w celu bezpośredniego lub pośredniego wspierania agresji, naruszeń lub innych działań określonych w art. 3 ust. 2 do czasu zbycia całości środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem.
+
+12. W celu realizacji zadań, o których mowa w ust. 11, zarządca posiada dostęp do wszystkich danych i informacji dotyczących podmiotu gospodarczego, w szczególności do informacji objętych tajemnicą bankową, o której mowa w przepisach ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm.), oraz posiada uprawnienia do dokonywania czynności wynikających z dostępu do tych danych i informacji.
+
+13. Zarządca jest obowiązany do bieżącego przekazywania ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw gospodarki informacji o podjętych działaniach, o których mowa w ust. 10 i ust. 11 pkt 4, oraz o każdym przypadku zbycia środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem w ramach czynności przekraczających zwykły zarząd oraz do przekazywania, na ich żądanie, szczegółowych wyjaśnień w zakresie objętym zarządem.
+
+14. Zarządca może wystąpić do ministra właściwego do spraw gospodarki z wnioskiem o zmianę decyzji, o której mowa w ust. 2, w zakresie określonym w ust. 4 pkt 2, wskazując środki finansowe, fundusze lub zasoby gospodarcze w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014, których wniosek dotyczy.
+
+15. W okresie, na który został ustanowiony zarząd, określonym w decyzji, o której mowa w ust. 2, może nastąpić zbycie środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem, przez zarządcę działającego w imieniu i na rzecz osoby lub podmiotu, wobec których zarząd został ustanowiony, na podstawie udzielonego przez nie pełnomocnictwa. Pełnomocnictwo nie jest wymagane do dokonywania zbycia w ramach czynności zwykłego zarządu.
+
+16. Jeżeli w okresie, na który zarząd został ustanowiony, określonym w decyzji, o której mowa w ust. 2, nie nastąpi zbycie całości środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem w sposób określony w ust. 15, Sąd Rejonowy dla miasta stołecznego Warszawy w Warszawie zarządza zbycie tych środków finansowych, funduszy lub zasobów gospodarczych przez zarządcę. Uczestnikiem postępowania poza zarządcą jest osoba lub podmiot, wobec których został ustanowiony zarząd.
+
+17. O zarządzenie zbycia, o którym mowa w ust. 16, występuje zarządca w dniu następującym po upływie okresu, na który zarząd został ustanowiony, określonym w decyzji, o której mowa w ust. 2, a jeżeli ten dzień jest dniem wolnym od pracy dla sądu, o którym mowa w ust. 16 – w pierwszym dniu roboczym następującym po tym dniu.
+
+18. Wystąpienie, o którym mowa w ust. 17, zawiera:
+
+- **1)** wskazanie danych identyfikujących osobę lub podmiot, wobec których zarząd został ustanowiony;
+- **2)** wskazanie danych identyfikujących podmiot gospodarczy i przedsiębiorstwo, o których mowa w ust. 1;
+- **3)** szczegółowy wykaz środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem, które nie zostały zbyte w sposób określony w ust. 15;
+- **4)** proponowany sposób zbycia środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem, które nie zostały zbyte w sposób określony w ust. 15.
+
+19. Sąd wydaje postanowienie w przedmiocie zarządzenia zbycia, o którym mowa w ust. 16, w terminie 30 dni od dnia wystąpienia zarządcy. Na postanowienie przysługuje zażalenie.
+
+20. W postanowieniu w przedmiocie zarządzenia zbycia sąd określa sposób zbycia środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem oraz termin podjęcia czynności niezbędnych do ich zbycia przypadający nie wcześniej niż w dniu, w którym decyzja w sprawie wpisu na listę stała się prawomocna.
+
+21. Sąd na wniosek zarządcy może zmienić postanowienie w przedmiocie zarządzenia zbycia, jeżeli nie jest możliwe zbycie w sposób określony w tym postanowieniu.
+
+22. Do postępowania w sprawie zarządzenia zbycia środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.
+
+23. Przedsiębiorstwo objęte zarządem powinno być sprzedane jako całość, chyba że nie jest to możliwe.
+
+24. Jeżeli sprzedaż przedsiębiorstwa objętego zarządem jako całości nie jest możliwa ze względów ekonomicznych lub z innych przyczyn, można sprzedać zorganizowaną część przedsiębiorstwa.
+
+25. Przepisy ust. 23 i 24 stosuje się odpowiednio do zbioru rzeczy lub praw objętych zarządem.
+
+26. Spółka z udziałem ponad połowy pracowników podmiotu, wobec którego zarząd został ustanowiony, ma pierwszeństwo w nabyciu przedsiębiorstwa tego podmiotu albo zorganizowanej części tego przedsiębiorstwa nadającej się do prowadzenia działalności gospodarczej.
+
+27. Stosowanie środka, o którym mowa w art. 1 pkt 1 albo 2:
+
+- **1)** nie obejmuje czynności podejmowanych przez zarządcę w ramach zarządzania przedsiębiorstwem zgodnie z ust. 11;
+- **2)** nie obejmuje czynności podejmowanych przez zarządcę w zakresie określonym postanowieniem sądu w przedmiocie zarządzenia zbycia;
+- **3)** obejmuje środki uzyskane z tytułu zbycia środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem na podstawie pełnomocnictwa, o którym mowa w ust. 15, albo na podstawie postanowienia sądu w przedmiocie zarządzenia zbycia.
+
+1. W przypadku zastosowania środka, o którym mowa w art. 1 pkt 1 albo 2, może zostać ustanowiony zarząd w celu przejęcia na rzecz Skarbu Państwa własności środków finansowych, funduszy lub zasobów gospodarczych w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014 należących do osoby albo podmiotu wpisanych na listę, zwanego dalej „przejęciem własności”, jeżeli jest to niezbędne dla ochrony ważnego interesu publicznego, ochrony interesu ekonomicznego państwa lub ze względu na zapewnienie bezpieczeństwa państwa.
+
+2. Ustanowienie zarządu następuje w drodze decyzji ministra właściwego do spraw gospodarki. Do ustanowienia zarządu i działalności zarządcy stosuje się art. 6a ust. 2–10, 12–14 oraz ust. 27 pkt 1.
+
+3. Zarządca wykonuje czynności określone w art. 6a ust. 11 pkt 1–4 do czasu przejęcia własności na podstawie decyzji, o której mowa w ust. 5.
+
+4. Przejęcie własności następuje za odszkodowaniem odpowiadającym wartości rynkowej środków finansowych, funduszy lub zasobów gospodarczych podlegających przejęciu ustalonej w oparciu o aktualną wycenę sporządzoną przez niezależny podmiot zewnętrzny o uznanej pozycji na rynku świadczonych usług posiadający umiejętności i doświadczenie niezbędne do sporządzenia takiej wyceny, a w przypadku nieruchomości – w oparciu o operat szacunkowy sporządzony przez rzeczoznawcę majątkowego, według stanu środków finansowych, funduszy lub zasobów gospodarczych podlegających przejęciu w dniu wydania decyzji ustalającej wysokość odszkodowania.
+
+5. Przejęcie własności następuje w drodze decyzji ministra właściwego do spraw gospodarki, wydanej w okresie, na który zarząd został ustanowiony, określonym w decyzji, o której mowa w ust. 2. Do decyzji o przejęciu własności stosuje się odpowiednio art. 3 ust. 6 i 9.
+
+6. W decyzji o przejęciu własności określa się:
+
+- **1)** osobę lub podmiot, do których należą środki finansowe, fundusze lub zasoby gospodarcze w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014, których własność podlega przejęciu;
+- **2)** środki finansowe, fundusze lub zasoby gospodarcze w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014, których własność podlega przejęciu;
 - **3)** wysokość odszkodowania przysługującego z tytułu przejęcia własności.
 
-7. Decyzja przejęciu własności przekazywana jest niezwłocznie do wiadomości ministra właściwego do spraw wewnętrznych.
+7. Decyzja o przejęciu własności przekazywana jest niezwłocznie do wiadomości ministra właściwego do spraw wewnętrznych.
 
-8. Środki z tytułu odszkodowania, którym ust. 4, są objęte stosowaniem środka, którym art. 1 pkt 1 albo 2.
+8. Środki z tytułu odszkodowania, o którym mowa w ust. 4, są objęte stosowaniem środka, o którym mowa w art. 1 pkt 1 albo 2. Minister właściwy do spraw wewnętrznych niezwłocznie po otrzymaniu decyzji przekazanych na podstawie art. 6a ust. 6 i art. 6b ust. 7 zamieszcza na liście informacje o środkach finansowych, funduszach lub zasobach gospodarczych w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014 objętych tymi decyzjami. Osobom lub podmiotom, wobec których zarząd został ustanowiony, nie przysługują roszczenia odszkodowawcze wobec Skarbu Państwa lub podmiotu wykonującego zadania zarządcy z tytułu podejmowania działań określonych w art. 6a i art. 6b.
 
-**Art. 6c.** Minister właściwy do spraw wewnętrznych niezwłocznie po otrzymaniu decyzji przekazanych podstawie art. 6a ust. 6 i art. 6b ust. 7 zamieszcza liście informacje środkach finansowych, funduszach zasobach gospodarczych rozumieniu rozporządzenia rozporządzenia 269/2014 objętych tymi decyzjami.
+1. Pracodawca w rozumieniu art. 2 ust. 1 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2020 r. poz. 7), zwanej dalej „ustawą o ochronie roszczeń pracowniczych”, wobec którego są stosowane środki, o których mowa w art. 1 pkt 1 albo 2, zwany dalej „pracodawcą”, może wystąpić z wnioskiem o przyznanie z Funduszu Gwarantowanych Świadczeń Pracowniczych, zwanego dalej „Funduszem”, świadczeń na zaspokojenie należności pracowniczych, o których mowa w art. 12 ust. 2 ustawy o ochronie roszczeń pracowniczych.
 
-**Art. 6d.** Osobom podmiotom, wobec których zarząd został ustanowiony, nie przysługują roszczenia odszkodowawcze wobec Skarbu Państwa podmiotu wykonującego zadania zarządcy z tytułu podejmowania działań określonych art. 6a i art. 6b.
+2. Przyznanie z Funduszu świadczeń na zaspokojenie należności pracowniczych, o których mowa w art. 12 ust. 2 ustawy o ochronie roszczeń pracowniczych, następuje pod warunkiem, że:
 
-**Art. 6e.**
+- **1)** na dzień złożenia wniosku, o którym mowa w ust. 1, pracodawca jest wpisany na listę albo wymieniony w wykazach określonych w rozporządzeniu 765/2006 lub rozporządzeniu 269/2014 oraz
+- **2)** należności pracownicze, o których mowa w art. 12 ust. 2 ustawy o ochronie roszczeń pracowniczych, nie mogą zostać zaspokojone przez pracodawcę z powodu braku środków finansowych lub funduszy w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014, które mogą być objęte uwolnieniem albo zwolnieniem lub udostępnieniem na podstawie tych rozporządzeń.
 
-1. Pracodawca rozumieniu art. 2 ust. 1 ustawy z dnia 13 lipca 2006 r. ochronie roszczeń pracowniczych razie niewypłacalności pracodawcy (Dz. U. z 2020 r. poz. 7), zwanej dalej „ustawą ochronie roszczeń pracowniczych”, wobec którego są stosowane środki, których art. 1 pkt 1 albo 2, zwany dalej „pracodawcą”, może wystąpić z wnioskiem przyznanie z Funduszu Gwarantowanych Świadczeń Pracowniczych, zwanego dalej „Funduszem”, świadczeń zaspokojenie należności pracowniczych, których art. 12 ust. 2 ustawy ochronie roszczeń pracowniczych.
+3. Wniosek, o którym mowa w ust. 1, składa się w terminie miesiąca od dnia wpisu pracodawcy na listę albo wymienienia w wykazie określonym w rozporządzeniu 765/2006 lub rozporządzeniu 269/2014.
 
-2. Przyznanie z Funduszu świadczeń zaspokojenie należności pracowniczych, których art. 12 ust. 2 ustawy ochronie roszczeń pracowniczych, następuje pod warunkiem, że:
+4. Uprawnionymi do świadczeń, o których mowa w ust. 1, są:
 
-- **1)** dzień złożenia wniosku, którym ust. 1, pracodawca jest wpisany listę albo wymieniony wykazach określonych rozporządzeniu rozporządzeniu 269/2014 oraz
-- **2)** należności pracownicze, których art. 12 ust. 2 ustawy ochronie roszczeń pracowniczych, nie mogą zostać zaspokojone przez pracodawcę z powodu braku środków finansowych funduszy rozumieniu rozporządzenia rozporządzenia 269/2014, które mogą być objęte uwolnieniem albo zwolnieniem udostępnieniem podstawie tych rozporządzeń.
-- **1)** pracownik rozumieniu art. 10 ustawy ochronie roszczeń pracowniczych,
-- **2)** były pracownik oraz uprawniony do renty rodzinnej członek rodziny zmarłego pracownika zmarłego byłego pracownika, których art. 11 ustawy ochronie roszczeń pracowniczych zwani dalej „osobami uprawnionymi”.
+- **1)** pracownik w rozumieniu art. 10 ustawy o ochronie roszczeń pracowniczych,
+- **2)** były pracownik oraz uprawniony do renty rodzinnej członek rodziny zmarłego pracownika lub zmarłego byłego pracownika, o których mowa w art. 11 ustawy o ochronie roszczeń pracowniczych zwani dalej „osobami uprawnionymi”.
 
-5. Wypłata świadczeń, których ust. 1, może nastąpić także podstawie wniosku osoby uprawnionej złożonego nie wcześniej niż po upływie 2 tygodni od dnia upływu terminu złożenia wniosku, którym ust. 3.
+5. Wypłata świadczeń, o których mowa w ust. 1, może nastąpić także na podstawie wniosku osoby uprawnionej złożonego nie wcześniej niż po upływie 2 tygodni od dnia upływu terminu złożenia wniosku, o którym mowa w ust. 3.
 
-6. Wnioski, których ust. 1 i 5, składa się marszałkowi województwa właściwemu ze względu siedzibę pracodawcy, a przypadku osób fizycznych prowadzących działalność gospodarczą właściwemu ze względu adres głównego miejsca wykonywania działalności.
+6. Wnioski, o których mowa w ust. 1 i 5, składa się marszałkowi województwa właściwemu ze względu na siedzibę pracodawcy, a w przypadku osób fizycznych prowadzących działalność gospodarczą – właściwemu ze względu na adres głównego miejsca wykonywania działalności.
 
-7. Do wniosków, których ust. 1 i 5, stosuje się odpowiednio art. 15 ust. 1–3a oraz art. 16 ust. 2 i 2a ustawy ochronie roszczeń pracowniczych, z tym że do wniosku, którym ust. 5, dołącza się również oświadczenie zatrudnieniu u pracodawcy oraz rodzaju i wysokości niezaspokojonych roszczeń.
+7. Do wniosków, o których mowa w ust. 1 i 5, stosuje się odpowiednio art. 15 ust. 1–3a oraz art. 16 ust. 2 i 2a ustawy o ochronie roszczeń pracowniczych, z tym że do wniosku, o którym mowa w ust. 5, dołącza się również oświadczenie o zatrudnieniu u pracodawcy oraz rodzaju i wysokości niezaspokojonych roszczeń.
 
-8. Dołączane do wniosku, którym mowa:
+8. Dołączane do wniosku, o którym mowa:
 
-- **1)** ust. 1, oświadczenia, których art. 15 ust. 3a ustawy ochronie roszczeń pracowniczych,
-- **2)** ust. 5, oświadczenie zatrudnieniu u pracodawcy oraz rodzaju i wysokości niezaspokojonych roszczeń oraz oświadczenia, których art. 12a ust. 5 pkt 3 i 4 ustawy ochronie roszczeń pracowniczych składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+- **1)** w ust. 1, oświadczenia, o których mowa w art. 15 ust. 3a ustawy o ochronie roszczeń pracowniczych,
+- **2)** w ust. 5, oświadczenie o zatrudnieniu u pracodawcy oraz rodzaju i wysokości niezaspokojonych roszczeń oraz oświadczenia, o których mowa w art. 12a ust. 5 pkt 3 i 4 ustawy o ochronie roszczeń pracowniczych składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
-9. Po otrzymaniu wniosku, którym ust. 1 5, marszałek województwa może wystąpić do właściwej terenowej jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych przekazanie wykazu ubezpieczonych zgłoszonych do ubezpieczeń społecznych przez pracodawcę, którego dotyczy wniosek, wskazując wystąpieniu:
+9. Po otrzymaniu wniosku, o którym mowa w ust. 1 lub 5, marszałek województwa może wystąpić do właściwej terenowej jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych o przekazanie wykazu ubezpieczonych zgłoszonych do ubezpieczeń społecznych przez pracodawcę, którego dotyczy wniosek, wskazując w wystąpieniu:
 
-- **1)** imię i nazwisko nazwę skróconą pracodawcy;
-- **2)** numery, których art. 35 ust. 1 pkt 2 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, 1079, 1115 i 1265), jeden z nich, jeżeli jest wystarczający do identyfikacji pracodawcy.
+- **1)** imię i nazwisko lub nazwę skróconą pracodawcy;
+- **2)** numery, o których mowa w art. 35 ust. 1 pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, 1079, 1115 i 1265), lub jeden z nich, jeżeli jest wystarczający do identyfikacji pracodawcy.
 
-10. Terenowa jednostka organizacyjna Zakładu Ubezpieczeń Społecznych przekazuje marszałkowi województwa postaci papierowej elektronicznej wykaz ubezpieczonych zgłoszonych do ubezpieczeń społecznych dzień sporządzenia wykazu zawierający:
+10. Terenowa jednostka organizacyjna Zakładu Ubezpieczeń Społecznych przekazuje marszałkowi województwa w postaci papierowej lub elektronicznej wykaz ubezpieczonych zgłoszonych do ubezpieczeń społecznych na dzień sporządzenia wykazu zawierający:
 
 - **1)** imię i nazwisko ubezpieczonego;
-- **2)** numery, których art. 35 ust. 1 pkt 1 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych;
+- **2)** numery, o których mowa w art. 35 ust. 1 pkt 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
 - **3)** podstawę wymiaru składek z ostatniego dokumentu rozliczeniowego wraz z okresem rozliczeniowym, za który dokument ten został złożony.
 
-11. Świadczenia z Funduszu są przyznawane wypłacane zaspokojenie należności pracowniczych, których art. 12 ust. 2 pkt 1 i pkt 2 lit. a–c i lit. g ustawy ochronie roszczeń pracowniczych, za okres nie dłuższy niż 3 miesiące bezpośrednio poprzedzające dzień złożenia wniosku, którym ust. 1 5, jednak nie wcześniejszy niż miesiąc bezpośrednio poprzedzający dzień wpisania pracodawcy listę albo wymienienia go wykazie określonym rozporządzeniu rozporządzeniu 269/2014.
+11. Świadczenia z Funduszu są przyznawane lub wypłacane na zaspokojenie należności pracowniczych, o których mowa w art. 12 ust. 2 pkt 1 i pkt 2 lit. a-c i lit. g ustawy o ochronie roszczeń pracowniczych, za okres nie dłuższy niż 3 miesiące bezpośrednio poprzedzające dzień złożenia wniosku, o którym mowa w ust. 1 lub 5, jednak nie wcześniejszy niż miesiąc bezpośrednio poprzedzający dzień wpisania pracodawcy na listę albo wymienienia go w wykazie określonym w rozporządzeniu 765/2006 lub rozporządzeniu 269/2014.
 
-12. Łączna kwota świadczenia z Funduszu zaspokojenie należności pracowniczych, których art. 12 ust. 2 pkt 1 i pkt 2 lit. a–c i lit. g ustawy ochronie roszczeń pracowniczych, za okres jednego miesiąca nie może przekraczać przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego podstawie przepisów emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, obowiązującego dzień złożenia wniosku, którym ust. 1 5.
+12. Łączna kwota świadczenia z Funduszu na zaspokojenie należności pracowniczych, o których mowa w art. 12 ust. 2 pkt 1 i pkt 2 lit. a-c i lit. g ustawy o ochronie roszczeń pracowniczych, za okres jednego miesiąca nie może przekraczać przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, obowiązującego na dzień złożenia wniosku, o którym mowa w ust. 1 lub 5.
 
-13. przypadku wystąpienia niewypłacalności pracodawcy rozumieniu art. 3–6 albo art. 8 ustawy ochronie żeniem wniosku, którym ust. 1 5, kwotę świadczeń, których ust. 1, pomniejsza się kwotę wypłaconej zaliczki.
+13. W przypadku wystąpienia niewypłacalności pracodawcy w rozumieniu art. 3–6 albo art. 8 ustawy o ochronie roszczeń pracowniczych należności, o których mowa w art. 12 ust. 2 pkt 1 i pkt 2 lit. a-c i lit. g tej ustawy, na których zaspokojenie wypłacono na rzecz tej samej osoby uprawnionej świadczenia na podstawie wniosków, o których mowa w ust. 1 lub 5, oraz na podstawie przepisów ustawy o ochronie roszczeń pracowniczych podlegają zaspokojeniu łącznie za okres nie dłuższy niż 3 miesiące oraz w łącznej kwocie za okres jednego miesiąca nie wyższej niż kwota określona w art. 14 ust. 1 ustawy o ochronie roszczeń pracowniczych.
 
-15. Przyznane podstawie wniosku, którym ust. 1, środki finansowe Funduszu przekazywane pracodawcy nie są objęte stosowaniem środka, którym art. 1 pkt 1 albo 2, zakresie, jakim z tych środków finansowych są dokonywane wypłaty świadczeń, których ust. 1.
+14. W przypadku wypłaty zaliczki na podstawie art. 12a ustawy o ochronie roszczeń pracowniczych przed złożeniem wniosku, o którym mowa w ust. 1 lub 5, kwotę świadczeń, o których mowa w ust. 1, pomniejsza się o kwotę wypłaconej zaliczki.
 
-16. Marszałek województwa niezwłocznie zawiadamia ministra właściwego do spraw wewnętrznych i Szefa Krajowej Administracji Skarbowej otrzymaniu wniosku, którym ust. 1 5, oraz występuje do Szefa Krajowej Administracji Skarbowej informacje niezbędne do jego rozpatrzenia.
+15. Przyznane na podstawie wniosku, o którym mowa w ust. 1, środki finansowe Funduszu przekazywane pracodawcy nie są objęte stosowaniem środka, o którym mowa w art. 1 pkt 1 albo 2, w zakresie, w jakim z tych środków finansowych są dokonywane wypłaty świadczeń, o których mowa w ust. 1.
 
-17. Informacja uzyskana od Szefa Krajowej Administracji Skarbowej może stanowić podstawę odmowy przyznania wypłaty świadczeń, których ust. 1, całości części.
+16. Marszałek województwa niezwłocznie zawiadamia ministra właściwego do spraw wewnętrznych i Szefa Krajowej Administracji Skarbowej o otrzymaniu wniosku, o którym mowa w ust. 1 lub 5, oraz występuje do Szefa Krajowej Administracji Skarbowej o informacje niezbędne do jego rozpatrzenia.
 
-18. Marszałek województwa niezwłocznie zawiadamia ministra właściwego do spraw wewnętrznych i Szefa Krajowej Administracji Skarbowej sposobie rozpatrzenia wniosku, którym ust. 1 5.
+17. Informacja uzyskana od Szefa Krajowej Administracji Skarbowej może stanowić podstawę odmowy przyznania lub wypłaty świadczeń, o których mowa w ust. 1, w całości lub w części.
 
-19. Przekazanie środków finansowych Funduszu wypłatę świadczeń, których ust. 1, a także wypłata świadczeń ze środków Funduszu powoduje z mocy prawa przejście marszałka województwa, działającego imieniu dysponenta Funduszu, roszczenia wobec pracodawcy albo innej osoby zarządzającej majątkiem pracodawcy, szczególności likwidatora albo członka zarządu, albo roszczenia do masy upadłości zwrot wypłaconych świadczeń. Przy dochodzeniu zwrotu wypłaconych świadczeń roszczenia rzecz Funduszu korzystają z takiej samej ochrony prawnej, jaką odrębne przepisy przewidują dla należności za pracę.
+18. Marszałek województwa niezwłocznie zawiadamia ministra właściwego do spraw wewnętrznych i Szefa Krajowej Administracji Skarbowej o sposobie rozpatrzenia wniosku, o którym mowa w ust. 1 lub 5.
 
-20. Marszałek województwa prowadzonych postępowaniach wypłatę świadczeń, których ust. 1, a także przy dochodzeniu zwrotu wypłaconych świadczeń jest uprawniony do uzyskiwania informacji, których art. 22b ustawy ochronie roszczeń pracowniczych.
+19. Przekazanie środków finansowych Funduszu na wypłatę świadczeń, o których mowa w ust. 1, a także wypłata świadczeń ze środków Funduszu powoduje z mocy prawa przejście na marszałka województwa, działającego w imieniu dysponenta Funduszu, roszczenia wobec pracodawcy albo innej osoby zarządzającej majątkiem pracodawcy, w szczególności likwidatora albo członka zarządu, albo roszczenia do masy upadłości o zwrot wypłaconych świadczeń. Przy dochodzeniu zwrotu wypłaconych świadczeń roszczenia na rzecz Funduszu korzystają z takiej samej ochrony prawnej, jaką odrębne przepisy przewidują dla należności za pracę.
 
-21. sprawach nieuregulowanych ust. 1–20 stosuje się odpowiednio przepisy ustawy ochronie roszczeń pracowniczych, z wyłączeniem art. 12a, art. 15a i art. 21a tej ustawy.
+20. Marszałek województwa w prowadzonych postępowaniach o wypłatę świadczeń, o których mowa w ust. 1, a także przy dochodzeniu zwrotu wypłaconych świadczeń jest uprawniony do uzyskiwania informacji, o których mowa w art. 22b ustawy o ochronie roszczeń pracowniczych.
 
-**Art. 6f.** Nie popełnia przestępstwa sprawca czynu określonego art. 296 § 1, 1a, 3 4 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2022 r. poz. 1138), jeżeli sprawca działał ramach zadań określonych art. 3 ust. 1, art. 6a ust. 1 i art. 6b ust. 1 i 5 albo ramach wykonania określonych art. 6a i art. 6b zadań zarządcy.”.
+21. W sprawach nieuregulowanych w ust. 1–20 stosuje się odpowiednio przepisy ustawy o ochronie roszczeń pracowniczych, z wyłączeniem art. 12a, art. 15a i art. 21a tej ustawy. Nie popełnia przestępstwa sprawca czynu określonego w art. 296 § 1, 1a, 3 lub 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138), jeżeli sprawca działał w ramach zadań określonych w art. 3 ust. 1, art. 6a ust. 1 i art. 6b ust. 1 i 5 albo w ramach wykonania określonych w art. 6a i art. 6b zadań zarządcy. ” .
 
-**Art. 2.** ustawie z dnia 16 listopada 2016 r. Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, 835, 1079, 1301 i 1488) art. 143b pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 brzmieniu: „3) właściwemu marszałkowi województwa informacje niezbędne do realizacji zadań określonych art. 6e ustawy z dnia 13 kwietnia 2022 r. szczególnych rozwiązaniach zakresie przeciwdziałania wspieraniu agresji Ukrainę oraz służących ochronie bezpieczeństwa narodowego.”.
+**Art. 2.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, 835, 1079, 1301 i 1488) w art. 143b w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 
-**Art. 3.** 2022 r. i 2023 r. koszty nabycia objęcia akcji, tym usług świadczonych przez doradców związku z ich nabywaniem obejmowaniem przez Skarb Państwa, będą finansowane ze środków Funduszu Inwestycji Kapitałowych, którym przepisach ustawy z dnia 16 grudnia 2016 r. zasadach zarządzania mieniem państwowym (Dz. U. z 2021 r. poz. 1933 oraz z 2022 r. poz. 807, 872, 1459 i 1512).
+**Art. 3.** W 2022 r. i 2023 r. koszty nabycia lub objęcia akcji, w tym usług świadczonych przez doradców w związku z ich nabywaniem lub obejmowaniem przez Skarb Państwa, będą finansowane ze środków Funduszu Inwestycji Kapitałowych, o którym mowa w przepisach ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2021 r. poz. 1933 oraz z 2022 r. poz. 807, 872, 1459 i 1512).
 
-**Art. 4.** Szef Krajowej Administracji Skarbowej terminie 7 dni od dnia wejścia życie niniejszej ustawy przekazuje do wiadomości ministra właściwego do spraw wewnętrznych wydane przed dniem wejścia życie niniejszej ustawy decyzje zastosowaniu odstępstw podstawie przepisów wymienionych art. 5 ust. 1 ustawy zmienianej art. 1.
+**Art. 4.** Szef Krajowej Administracji Skarbowej w terminie 7 dni od dnia wejścia w życie niniejszej ustawy przekazuje do wiadomości ministra właściwego do spraw wewnętrznych wydane przed dniem wejścia w życie niniejszej ustawy decyzje o zastosowaniu odstępstw na podstawie przepisów wymienionych w art. 5 ust. 1 ustawy zmienianej w art. 1.
 
-**Art. 5.** Przepisy art. 6a, art. 6b i art. 6e ustawy zmienianej art. 1 stosuje się również przypadku, gdy środek, którym art. 1 pkt 1 albo 2 tej ustawy, został zastosowany przed dniem wejścia życie niniejszej ustawy.
+**Art. 5.** Przepisy art. 6a, art. 6b i art. 6e ustawy zmienianej w art. 1 stosuje się również w przypadku, gdy środek, o którym mowa w art. 1 pkt 1 albo 2 tej ustawy, został zastosowany przed dniem wejścia w życie niniejszej ustawy. W przypadku określonym w art. 5 termin złożenia wniosku określony w art. 6e ust. 3 ustawy zmienianej w art. 1 liczy się od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 6.** przypadku określonym art. 5 termin złożenia wniosku określony art. 6e ust. 3 ustawy zmienianej art. 1 liczy się od dnia wejścia życie niniejszej ustawy.
-
-**Art. 7.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

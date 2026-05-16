@@ -8,6 +8,7 @@ pos: 218
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o działach administracji rządowej
@@ -24,11 +25,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070350218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/218/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 paêdziernika 1991 ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 208, 2128, z póên. zm.
+**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 4 września 1997 działach administracji rządowej (Dz. U. z 2003 159, 1548, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 37.** Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, tryb przekazywania mienia w razie ustanowienia lub wygaśnięcia zarządu oraz tryb ustalania i wnoszenia opłat, w szczególności wymagania dotyczące wniosku o przekazanie mienia w zarząd, zakres decyzji i umów o przekazaniu mienia w zarząd, a także zakres decyzji o wygaśnięciu zarządu, mając na względzie zabezpieczenie możliwości sprawnego uiszczania opłat. ” ;
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni
+**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2003 r. Nr 159, poz. 1548, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 20 maja 2005 ododatku pieniężnym dla niektórych emerytów, rencistów iosób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny (Dz. U. 102, 852 oraz z2006 708 i711) wprowadza się następujące zmiany:
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 37 oraz art. 39a ust. 1 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 37 oraz art. 39a ust. 1 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

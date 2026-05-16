@@ -8,9 +8,10 @@ pos: 1147
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# •identyfikator Kasy Chorych w rubryce oznaczonej napisem ŃPłatnik”, •kod uprawnień dodatkowych pacjenta w rubryce oznaczonej napisem ŃKod usługi”, • kod uprawnień dla pacjenta chorobą, o której mowa w § 3 ust. 1 pkt 2 lit. f) rozporządzenia w rubryce oznaczonej napisem ŃKod MKCh”.
+# Wyrok Trybunału Konstytucyjnegoz dnia 27 listopada 2000 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,14 +24,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001071147) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1147/text.pdf) |
 
-WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 27 listopada 2000 r.
-sygn. akt U. 3/2000.
-Trybunał Konstytucyjny wskładzie: Jerzy Stępień przewodniczący, Biruta Lewaszkiewicz-Petrykowska, Ferdynand Rymarz sprawozdawca, po rozpoznaniu wdniu 27 listopada 2000 r. na rozprawie sprawy połączonych wniosków Rady Gminy Uście Gorlickie oraz Rady Gminy Działdowo, udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawców, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, ostwierdzenie:
-1) zwniosku Rady Gminy Uście Gorlickie niezgodności § 5 pkt 2 rozporządzenia Rady Ministrów dnia 21 grudnia 1999 r. w sprawie ustalenia granic niektórych gmin (Dz. U. 110, poz. 1266) art. 7 i art. 32 Konstytucji Rzeczypospolitej Polskiej oraz art. 4 ust. 1 i 2 i art. 5a ustawy dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U.
-1996 r. 13, poz. 74, 58, poz. 261, 106, poz. 496 i 132, poz. 622, 1997 r. 9, poz. 43, 106, poz. 679, 107, poz.686, 113, poz. 734 i 123, poz. 775, 1998 r. 155, poz. 1014 i 162, poz. 1126 oraz 2000 r. 26, poz. 306 iNr48, poz. 552),
-2) zwniosku Rady Gminy Działdowo niezgodności § 11 rozporządzenia Rady Ministrów dnia których gmin (Dz. U. 110, poz. 1266) art. 92 ust. 2 Konstytucji Rzeczypospolitej Polskiej oraz zart. 4 ust. 1 ustawy zdnia 8 marca 1990 r. osamorządzie gminnym (Dz. U. 1996 r. 13, poz. 74, Nr58, poz.261, 106, poz. 496 iNr 132, poz. 622, 1997 r. 9, poz. 43, 106, poz. 679, 107, poz. 686, 113, poz. 734 i 123, poz. 775, z1998r. 155, poz.1014 iNr 162, poz. 1126 oraz z2000 r. 26, poz. 306 iNr 48, poz. 552), orzeka:
-1. § 5 pkt 2 rozporządzenia Rady Ministrów dnia 21 grudnia 1999 r. w sprawie ustalenia granic niektórych gmin (Dz. U. 110, poz. 1266) jest zgodny 21 grudnia 1999 r. w sprawie ustalenia granic nieart. 7 i art. 32 Konstytucji Rzeczypospolitej Polskiej oraz art. 4 ust. 1 i 2 i art. 5a ustawy dnia 8 marca 1990r. osamorządzie gminnym (Dz. U. z1996 r. Nr13, poz. 74, 58, poz. 261, 106, poz. 496 i 132, poz.622, z1997 r. 9, poz. 43, 106, poz. 679, 107, poz. 686, 113, poz. 734 i 123, poz. 775, 1998 r.
-155, poz. 1014 iNr 162, poz. 1126 oraz z2000 r. Nr26, poz. 306, 48, poz. 552, 62, poz. 718, 88, poz.985, 91, poz. 1009 i 95, poz. 1041).
-2. § 11 rozporządzenia Rady Ministrów dnia 21 grudnia 1999 r. w sprawie ustalenia granic niektórych gmin (Dz. U. 110, poz. 1266): jest zgodny zart. 92 ust. 2 Konstytucji Rzeczypospolitej Polskiej, jest niezgodny zart. 4 ust. 1 ustawy zdnia 8 marca 1990 r. osamorządzie gminnym (Dz. U. z1996 r.
-ISSN 0867-3411 Cena 5,40 zł
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Jerzy Stępień – przewodniczący, Biruta Lewaszkiewicz-Petrykowska, Ferdynand Rymarz – sprawozdawca, protokolant: Joanna Szymczak, po rozpoznaniu w dniu 27 listopada 2000 r. na rozprawie sprawy z połączonych wniosków Rady Gminy Uście Gorlickie oraz Rady Gminy Działdowo, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawców, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, o stwierdzenie:
+1)
+z wniosku Rady Gminy Uście Gorlickie – niezgodności § 5 pkt 2 rozporządzenia Rady Ministrów z dnia 21 grudnia 1999 r. w sprawie ustalenia granic niektórych gmin (Dz. U. Nr 110, poz. 1266) z art. 7 i art. 32 Konstytucji Rzeczypospolitej Polskiej oraz z art. 4 ust. 1 i 2 i art. 5a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 1996 r. Nr 13, poz. 74, Nr 58, poz. 261, Nr 106, poz. 496i Nr 132, poz. 622, z 1997 r. Nr 9, poz. 43, Nr 106, poz. 679, Nr 107, poz. 686, Nr 113, poz. 734i Nr 123, poz. 775, z 1998 r. Nr 155, poz. 1014i Nr 162, poz. 1126oraz z 2000 r. Nr 26, poz. 306i Nr 48, poz. 552),
+2)
+z wniosku Rady Gminy Działdowo – niezgodności § 11 rozporządzenia Rady Ministrów z dnia 21 grudnia 1999 r. w sprawie ustalenia granic niektórych gmin (Dz. U. Nr 110, poz. 1266) z art. 92 ust. 2 Konstytucji Rzeczypospolitej Polskiej oraz z art. 4 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 1996 r. Nr 13, poz. 74, Nr 58, poz. 261, Nr 106, poz. 496i Nr 132, poz. 622, z 1997 r. Nr 9, poz. 43, Nr 106, poz. 679, Nr 107, poz. 686, Nr 113, poz. 734i Nr 123, poz. 775, z 1998 r. Nr 155, poz. 1014i Nr 162, poz. 1126oraz z 2000 r. Nr 26, poz. 306i Nr 48, poz. 552),
+orzeka:
+1.
+§ 5 pkt 2 rozporządzenia Rady Ministrów z dnia 21 grudnia 1999 r. w sprawie ustalenia granic niektórych gmin (Dz. U. Nr 110, poz. 1266) jest zgodny z art. 7 i art. 32 Konstytucji Rzeczypospolitej Polskiej oraz z art. 4 ust. 1 i 2 i art. 5a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 1996 r. Nr 13, poz. 74, Nr 58, poz. 261, Nr 106, poz. 496i Nr 132, poz. 622, z 1997 r. Nr 9, poz. 43, Nr 106, poz. 679, Nr 107, poz. 686, Nr 113, poz. 734i Nr 123, poz. 775, z 1998 r. Nr 155, poz. 1014i Nr 162, poz. 1126oraz z 2000 r. Nr 26, poz. 306, Nr 48, poz. 552, Nr 62, poz. 718, Nr 88, poz. 985, Nr 91, poz. 1009i Nr 95, poz. 1041).
+2.
+§ 11 rozporządzenia Rady Ministrów z dnia 21 grudnia 1999 r. w sprawie ustalenia granic niektórych gmin (Dz. U. Nr 110, poz. 1266):
+– jest zgodny z art. 92 ust. 2 Konstytucji Rzeczypospolitej Polskiej,
+– jest niezgodny z art. 4 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 1996 r. Nr 13, poz. 74, Nr 58, poz. 261, Nr 106, poz. 496i Nr 132, poz. 622, z 1997 r. Nr 9, poz. 43, Nr 106, poz. 679, Nr 107, poz. 686, Nr 113, poz. 734i Nr 123, poz. 775, z 1998 r. Nr 155, poz. 1014i Nr 162, poz. 1126oraz z 2000 r. Nr 26, poz. 306, Nr 48, poz. 552, Nr 62, poz. 718, Nr 88, poz. 985, Nr 91, poz. 1009i Nr 95, poz. 1041).
 

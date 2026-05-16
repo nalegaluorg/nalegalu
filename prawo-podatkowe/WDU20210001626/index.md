@@ -8,9 +8,10 @@ pos: 1626
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 6 września 2021 r.
+# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy – Prawo bankowe
 
 | Pole | Wartość |
 |---|---|
@@ -24,21 +25,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1626/text.pdf) |
 
-Poz. 1626
-USTAWA dnia 11 sierpnia 2021 r.
-o zmianie o podatku od towarów usług oraz Prawo bankowe
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, 694, 802, 1163, 1243 i 1598) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 11 marca 2004 r. o podatku od towarów usług (Dz. U. 2021 r. poz. 685, 694, 802, 1163, 1243 1598) wprowadza następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. 2020 r. poz. 1896, późn. zm. ) wprowadza następujące zmiany:
+**Art. 3.** Przepisy art. 33a ust. 6a i 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do importu towarów, dla którego obowiązek podatkowy powstał od pierwszego dnia miesiąca, w którym wchodzi w życie art. 1 pkt 5.
 
-**Art. 3.** Przepisy 33a 6a 7 zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje importu towarów, dla którego obowiązek podatkowy powstał od pierwszego dnia miesiąca, wchodzi życie 1 5.
+**Art. 4.** W przypadku gdy prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego powstało przed dniem wejścia w życie niniejszej ustawy, stosuje się przepis art. 86 ust. 13 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
-**Art. 4.** W przypadku gdy prawo obniżenia kwoty podatku należnego o kwotę podatku naliczonego powstało przed dniem wejścia życie niniejszej ustawy, stosuje przepis 86 13 zmienianej 1, brzmieniu dotychczasowym.
+**Art. 5.** Przepisy art. 86a ust. 12–14 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się w przypadku wydatków związanych z pojazdami samochodowymi wykorzystywanymi wyłącznie do działalności gospodarczej, poniesionych od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Przepisy 86a 12–14 zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje przypadku wydatków związanych pojazdami samochodowymi wykorzystywanymi wyłącznie działalności gospodarczej, poniesionych od dnia wejścia życie niniejszej ustawy.
+**Art. 6.** Przepis art. 108b ust. 5a ustawy zmienianej w art. 1 stosuje się również do wniosków, o których mowa w art. 108b ust. 1, 7 i ust. 8 pkt 1 ustawy zmienianej w art. 1, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Przepis 108b 5a zmienianej 1 stosuje również wniosków, o których mowa 108b 1, 7 8 1 zmienianej 1, złożonych nierozpatrzonych przed dniem wejścia życie niniejszej ustawy.
-
-**Art. 7.** Ustawa wchodzi życie dniem 1 października 2021 r., wyjątkiem:
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 października 2021 r., z wyjątkiem:
 

@@ -8,6 +8,7 @@ pos: 337
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 23 stycznia 2009 r. o zmianie ustawy o Radzie Ministrów oraz niektórych innych ustaw
@@ -24,9 +25,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090420337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/337/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 8 sierpnia 1996r. oRadzie Ministrów (Dz. U. z 2003 r. 24, poz. 199, z póên. zm. Sądu Pierwszej Instancji w szczególności w zakresie wpływu na pol) wprowadza się następujące zmiany: ski system prawa;
+**Art. 1.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 4 września 1997r. odziałach administracji rządowej (Dz. U. z 2007 r. 65, poz. 437, z póên. zm. ) w art. 34 ust. 1 otrzymuje brzmienie: Ń1. Minister jest obowiązany do inicjowania opracowywania polityki Rady Ministrów w stosunku do działu, którym kieruje, a także przedkładania w tym zakresie inicjatyw, projektów założeń projektów ustaw projektów aktów normatywnych na posiedzenia Rady Ministrów na zasadach iwtrybie określonych wregulaminie pracy Rady Ministrów. W zakresie działu, którym kieruje, minister wykonuje politykę Rady Ministrów koordynuje jej wykonywanie przez organy, urzędy jednostki organizacyjne, które jemu podlegają lub są przez niego nadzorowane.”. USTAWA zdnia 23 stycznia 2009r. ozmianie ustawy oRadzie Ministrów oraz niektórych innych ustaw ——————— ———————
+**Art. 14c.** Centrum zapewnia obsługę prawną Rady Ministrów poprzez:
 
-**Art. 3.** W ustawie z dnia 7 lipca 2005 r. o działal- a jeżeli nie opracowywano projektu załoności lobbingowej w procesie stanowienia prawa żeń projektu ustawy do organu odpo(Dz.U. Nr169, poz.1414) wprowadza się następujące wiedzialnego za przedłożenie projektu zmiany: ustawy Radzie Ministrów;
+**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.) w art. 34 ust. 1 otrzymuje brzmienie: „ 1. Minister jest obowiązany do inicjowania i opracowywania polityki Rady Ministrów w stosunku do działu, którym kieruje, a także przedkładania w tym zakresie inicjatyw, projektów założeń projektów ustaw i projektów aktów normatywnych na posiedzenia Rady Ministrów – na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów. W zakresie działu, którym kieruje, minister wykonuje politykę Rady Ministrów i koordynuje jej wykonywanie przez organy, urzędy i jednostki organizacyjne, które jemu podlegają lub są przez niego nadzorowane. ” .
+
+**Art. 3.** W ustawie z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa (Dz. U. Nr 169, poz. 1414) wprowadza się następujące zmiany:
+
+**Art. 4.** Rada Ministrów, Prezes Rady Ministrów i ministrowie przygotowują swoje programy prac legislacyjnych dotyczące projektów rozporządzeń. Przepisy art. 3 ust. 2 pkt 1, 2, 3, 4 i 5 oraz ust. 3 i 4 stosuje się odpowiednio. ” ;
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

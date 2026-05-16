@@ -8,9 +8,10 @@ pos: 183
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 kwietnia 1997 Nr 32 Dziennik Ustaw Nr 32 1198 - Poz. 183 i 184 183
+# Ustawa z dnia 6 lutego 1997 r. o zmianie ustawy – Prawo spółdzielcze i ustawy o rachunkowości
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970320183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/183/text.pdf) |
 
-USTAWA dnia 6 lutego 1997 o zmianie ustawy - Prawo i ustawy o
+**Art. 1.** W ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 1995 r. Nr 54, poz. 288 i Nr 133, poz. 654 oraz z 1996 r. Nr 5, poz. 32, Nr 24, poz. 110 i Nr 43, poz. 189) w art. 89 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Ogłaszanie przez organizacje spółdzielcze dokumentów, o których mowa w art. 70 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591), następuje w «Monitorze Spółdzielczym». ”
 
-**Art. 1.** W ustawie dnia 16 1982 - Pra wo (Dz. U. 1995 Nr 54, poz. 288 i Nr 133, poz. 654 oraz 1996 Nr 5, poz. 32, Nr 24, poz. 110 i Nr 43, poz. 189) wart. 89 oznacza jako ust. 1 i dodaje ust. 2 brzmieniu: ,,2. przez organizacje doku mentów, o których mowa wart. 70 ust. 1 ustawy dnia 29 1994 o (Dz. U. Nr 121, poz. 591), «Monitorze dzielczym»."
+**Art. 2.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591) w art. 70 w ust. 2 na końcu zdania skreśla się kropkę i dodaje wyrazy „, z zastrzeżeniem art. 89 ust. 2 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 1995 r. Nr 54, poz. 288 i Nr 133, poz. 654 oraz z 1996 r. Nr 5, poz. 32, Nr 24, poz. 110 i Nr 43, poz. 189).”
 
-**Art. 2.** W ustawie dnia 29 1994 o ra na (Dz. U. Nr 121, poz. 591) wart. 70 ust. 2 zdania i dodaje wyrazy ", art. 89 ust. 2 ustawy dnia 16 wrze 1982 - Prawo (Dz. U. 1995 Nr 54, poz. 288 i Nr 133, poz. 654 oraz 1996 Nr 5, poz. 32, Nr 24, poz. 110 i Nr 43, poz. 189)."
-
-**Art. 3.** Ustawa wchodzi po 14 dni od dnia i ma zastosowanie po raz pierwszy do finansowych za rok ob rotowy 1996 Prezydent Rzeczypospolitej Polskiej: A. 184 USTAWA dnia 21 lutego 1997 o zmianie ustawy o komercjalizacji i prywatyzacji
-
-**Art. 1.** W ustawie dnia 30 sierpnia 1996 o komer cjalizacji i prywatyzacji (Dz. U. Nr 118, poz. 561 i Nr 156, poz. 775) wprowadza zmiany:
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia i ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 1996 r.
 

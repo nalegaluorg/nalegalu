@@ -8,9 +8,10 @@ pos: 1782
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 listopada 2015 r.
+# Ustawa z dnia 25 września 2015 r. o zmianie ustawy o rzemiośle
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001782) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1782/text.pdf) |
 
-Poz. 1782
-USTAWA z dnia 25 września 2015 r.
-zmianie ustawy rzemiośle
+**Art. 1.** W ustawie z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2015 r. poz. 1182) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 22 marca 1989 r. rzemiośle (Dz. U. z 2015 r. poz. 1182) wprowadza się następujące zmiany:
+**Art. 18.** Przepis art. 17 stosuje się odpowiednio do izb rzemieślniczych, z tym że liczba członków założycieli (cechów) wynosi co najmniej 20. ” .
 
-**Art. 2.** W przypadku postępowań egzaminacyjnych wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy do wysokości opłat za egzaminy, których mowa art. 3 ust. 3g pkt 4 ustawy zmienianej art. 1, stosuje się przepisy dotychczasowe.
+**Art. 2.** W przypadku postępowań egzaminacyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy do wysokości opłat za egzaminy, o których mowa w art. 3 ust. 3g pkt 4 ustawy zmienianej w art. 1, stosuje się przepisy dotychczasowe.
 
-**Art. 3.** Przepisów art. 17 ust. 1 i art. 18 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, nie stosuje się do cechów i izb rzemieślniczych działających przed dniem wejścia życie niniejszej ustawy.
+**Art. 3.** Przepisów art. 17 ust. 1 i art. 18 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do cechów i izb rzemieślniczych działających przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

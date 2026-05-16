@@ -8,9 +8,10 @@ pos: 715
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Wojciech Hermeliƒski przewodniczàcy, Maria Gintowt-Jankowicz sprawozdawca, Andrzej Rzepliƒski, § 8 rozporzàdzenia Ministra Finansów z dnia 6 kwietnia 2004 r. sprawie wzoru zg∏oszenia planowanym nabyciu wewnàtrzwspólnotowym, wzoru deklaracji uproszczonej oraz sposobu prowadzenia ewidencji nabywanych wyrobów akcyzowych (Dz. U.
+# Wyrok Trybunału Konstytucyjnegoz dnia 26 maja 2009 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +25,10 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090840715) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/715/text.pdf) |
 
-Nr 74, poz. 668 oraz z 2005 r. Nr 248, poz. 2099) jest zgodny: po rozpoznaniu, z udzia∏em Ministra Finansów a) z art. 55 ust. 3 ustawy z dnia 23 stycznia 2004 r.
-i Prokuratora Generalnego, na rozprawie dniu podatku akcyzowym (Dz. U. Nr 29, poz. 257 26 maja 2009 r., pytania prawnego Naczelnego Sàdu i Nr 68, poz. 623, z 2005 r. Nr 160, poz. 1341, Administracyjnego, czy § 8 rozporzàdzenia Ministra z2006r. Nr 169, poz. 1199, z2007 r. Nr 99, poz. 666 Finansów z dnia 6 kwietnia 2004 r. sprawie wzoru oraz z 2008 r. Nr 118, poz. 745 i Nr 145, poz. 915) zg∏oszenia planowanym nabyciu wewnàtrzwspól- i art. 92 ust. 1 Konstytucji Rzeczypospolitej Polnotowym, wzoru deklaracji uproszczonej oraz sposo- skiej, bu prowadzenia ewidencji nabywanych wyrobów akcyzowych (Dz. U. Nr 74, poz. 668, ze zm.) jest zgodny b) zart. 2 iart. 217 Konstytucji.
-z art. 55 ust. 3 ustawy z dnia 23 stycznia 2004 r. podatku akcyzowym (Dz. U. Nr 29, poz. 257, ze zm.) Wojciech Hermeliƒski iart.92 ust. 1 oraz zart. 2 iart. 217 Konstytucji, Maria Gintowt-Jankowicz Andrzej Rzepliƒski
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Wojciech Hermeliński – przewodniczący, Maria Gintowt-Jankowicz – sprawozdawca, Andrzej Rzepliński, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem Ministra Finansów i Prokuratora Generalnego, na rozprawie w dniu 26 maja 2009 r., pytania prawnego Naczelnego Sądu Administracyjnego, czy § 8 rozporządzenia Ministra Finansów z dnia 6 kwietnia 2004 r. w sprawie wzoru zgłoszenia o planowanym nabyciu wewnątrzwspólnotowym, wzoru deklaracji uproszczonej oraz sposobu prowadzenia ewidencji nabywanych wyrobów akcyzowych (Dz. U. Nr 74, poz. 668, ze zm.) jest zgodny z art. 55 ust. 3 ustawy z dnia 23 stycznia 2004 r. o podatku akcyzowym (Dz. U. Nr 29, poz. 257, ze zm.) i art. 92 ust. 1 oraz z art. 2 i art. 217 Konstytucji, orzeka: § 8 rozporządzenia Ministra Finansów z dnia 6 kwietnia 2004 r. w sprawie wzoru zgłoszenia o planowanym nabyciu wewnątrzwspólnotowym, wzoru deklaracji uproszczonej oraz sposobu prowadzenia ewidencji nabywanych wyrobów akcyzowych (Dz. U. Nr 74, poz. 668 oraz z 2005 r. Nr 248, poz. 2099) jest zgodny:
+a)
+z art. 55 ust. 3 ustawy z dnia 23 stycznia 2004 r. o podatku akcyzowym (Dz. U. Nr 29, poz. 257 i Nr 68, poz. 623, z 2005 r. Nr 160, poz. 1341, z 2006 r. Nr 169, poz. 1199, z 2007 r. Nr 99, poz. 666 oraz z 2008 r. Nr 118, poz. 745 i Nr 145, poz. 915) i art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej,
+b)
+z art. 2 i art. 217 Konstytucji.
 

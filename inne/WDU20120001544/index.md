@@ -8,9 +8,10 @@ pos: 1544
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Poz.
+# Ustawa z dnia 23 listopada 2012 r. o zmianie niektórych ustaw w związku z podwyższeniem wieku emerytalnego
 
 | Pole | Wartość |
 |---|---|
@@ -24,40 +25,51 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1544/text.pdf) |
 
-USTAWA 23 listopada 2012 zmianie niektórych ustaw związku podwyższeniem wieku emerytalnego
-1. W 26 stycznia 1982 Karta Nauczyciela 2006 97, 674, późn. zm. ) wprowadza następujące zmiany: 23:
-a) 1 uchyla pkt 4,
-b) 2 uchyla pkt 4,
-c) 3 otrzymuje brzmienie: „3. Rozwiązanie stosunku pracy końcem roku szkolnego przypadku określonym 2 pkt 1 nie dotyczy nauczyciela szkoły, której organizacji pracy nie przewidziano ferii szkolnych.”;
-2) 27 3 otrzymuje brzmienie: „3. Do rozwiązania stosunku pracy nauczycielem zatrudnionym na podstawie umowy pracę na czas nieokreślony stosuje również przepisy 23 1 pkt 3, 5 6, 2 pkt 3, 5 6 oraz 3–5.”.
-2. W 16 września 1982 pracownikach urzędów państwowych 2001 86, 953, późn. zm. ) 13 1 pkt 4 przecinek zastępuje kropką uchyla pkt 5.
-5. W 9 maja 1996 wykonywaniu mandatu posła senatora 7, 29 117, 676) 25 3a pkt 1 otrzymuje brzmienie: „1) 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych 2009 153, 1227, późn. zm. ) lub 20 grudnia 1990 ubezpieczeniu społecznym rolników 2008 50, 291, późn. zm. ), który osiągnął wiek emerytalny, którym mowa 24 1a 1b oraz 27 2 3 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych,”.
-6. W 29 sierpnia 1997 komornikach sądowych egzekucji 231, 1376 oraz 2012 759) wprowadza następujące zmiany: 15a:
-a) 1 uchyla pkt 3,
-b) uchyla 4;
-2) 32b 1 uchyla pkt 3.
-7. W 30 czerwca 2000 Prawo własności przemysłowej 2003 119, 1117, późn. zm. ) 274: 2 uchyla pkt 4;
-2) 9 otrzymuje brzmienie: „9. Odwołanie eksperta ze stanowiska przypadkach, których mowa 1 oraz 2 pkt 2 3, a także razie złożenia przez eksperta oświadczenia rezygnacji ze stanowiska jest równoznaczne, zastrzeżeniem 11, wypowiedzeniem umowy pracę lub jej rozwiązaniem za porozumieniem stron.”.
-8. W 27 lipca 2001 Prawo ustroju sądów powszechnych 98, 1070, późn.
-zm. ) 100 § 4a 4b otrzymują brzmienie: „§ 4a. W przypadku, którym mowa § 1, sędzia stanie spoczynku otrzymuje jednorazową odprawę chwilą osiągnięcia wieku 67 lat albo wieku, którym mowa 69 § 1a.
-10. W 6 września 2001 Prawo farmaceutyczne 2008 45, 271, późn. zm. ) 88: 2 otrzymuje brzmienie: „2. Kierownikiem apteki może być farmaceuta, którym mowa 1, który ma co najmniej 5-letni staż pracy aptece lub 3-letni staż pracy aptece, przypadku gdy posiada specjalizację zakresu farmacji aptecznej.”;
-2) uchyla 3.
-11. W 18 września 2001 Kodeks morski 2009 217, 1689, późn. zm. ) 228 § 2 pkt 4 średnik zastępuje kropką uchyla pkt 5.
-12. W 3 lipca 2002 Prawo lotnicze 2012 933 951) 101 uchyla 3.
-13. W 12 marca 2004 pomocy społecznej 2009 175, 1362, późn. zm. ) wprowadza następujące zmiany: 6 pkt 7 otrzymuje brzmienie: „7) niezdolność do pracy tytułu wieku osiągnięcie wieku emerytalnego określonego 24 1a 1b oraz 27 2 3 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych 2009 153, 1227, późn. zm. );”;
-2) 42 4 5 otrzymują brzmienie: „4. Składka na ubezpieczenia emerytalne rentowe wysokości określonej przepisami systemie ubezpieczeń społecznych jest opłacana przez okres sprawowania opieki, nie dłużej jednak niż przez okres niezbędny do uzyskania 25-letniego okresu ubezpieczenia (składkowego nieskładkowego), zastrzeżeniem 87 1b 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych.
-5. Składka na ubezpieczenia emerytalne rentowe nie przysługuje osobie, która dniu złożenia wniosku przyznanie świadczenia: ukończyła 50 lat nie posiada okresu ubezpieczenia (składkowego nieskładkowego) wynoszącego co najmniej 10 lat;
-2) posiada okres ubezpieczenia (składkowy nieskładkowy) wynoszący 25 lat, zastrzeżeniem 87 1b 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych.”.
-14. W 8 lipca 2005 Prokuratorii Generalnej Skarbu Państwa 169, 1417, późn.
-zm. ) 52 4 uchyla pkt 1.
-ckiego posiadającego tytuł naukowy profesora, zatrudnionego na stanowisku profesora nadzwyczajnego lub zwyczajnego uczelni publicznej, wygasa końcem roku akademickiego, którym ukończył on 70. rok życia.”;
-2) 138 2 otrzymuje brzmienie: „2. Mianowany nauczyciel akademicki przechodzący na emeryturę związku osiągnięciem 67. roku życia nie może zostać ponownie mianowany.”.
-16. W 13 kwietnia 2007 Państwowej Inspekcji Pracy 2012 404 769) 62 1 pkt 6 średnik zastępuje kropką uchyla pkt 7.
-17. W 21 listopada 2008 służbie cywilnej 227, 1505, późn. zm. ) 71 2 uchyla pkt 1.
-18. W 27 sierpnia 2009 Służbie Celnej 168, 1323, późn. zm. ) wprowadza następujące zmiany: 105 pkt 10 średnik zastępuje kropką uchyla pkt 11;
-2) 107 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadkach, których mowa 104 1 pkt 10 12 oraz 105 pkt 1, 4, 5, 8 9, zwolnienie ze służby następuje po upływie odpowiednio:”;
-3) 120 5 otrzymuje brzmienie: „5. Funkcjonariusza zwalnianego ze służby, przypadkach których mowa 104 1 pkt 10 oraz 105 pkt 3 4, za zgodą Szefa Służby Celnej, można mianować na wyższy stopień służbowy za szczególne zasługi Służbie Celnej.”.
-19. W 18 marca zmianie Prawo szkolnictwie wyższym, stopniach naukowych tytule naukowym oraz stopniach tytule zakresie sztuki oraz zmianie niektórych innych ustaw 84, 455 112, 654) 22 1 otrzymuje brzmienie: „1. Osoba zatrudniona przed dniem wejścia życie na stanowisku docenta, na podstawie mianowania na czas nieokreślony albo umowy pracę na czas nieokreślony, pozostaje na tym stanowisku, jednak nie dłużej niż do końca roku akademickiego, którym ukończyła ona 67. rok życia, jeżeli nabyła prawo do emerytury. Jeżeli ukończeniem 67. roku życia osoba zajmująca stanowisko docenta nie nabyła prawa do emerytury, wygaśnięcie stosunku pracy następuje końcem roku akademickiego, którym nabędzie to prawo.”.
-20. 1. Ośrodek pomocy społecznej jest zobowiązany, terminie 6 miesięcy od wejścia życie ustawy, opłacić składkę na ubezpieczenie emerytalne rentowe za osoby, którym opłacano składki na ubezpieczenie emerytalne rentowe na podstawie przepisów pomocy społecznej związku ze sprawowaniem bezpośredniej, osobistej opieki nad długotrwale lub ciężko chorym członkiem rodziny oraz wspólnie niezamieszkującymi matką, ojcem lub rodzeństwem którym zaprzestano opłacania składek związku uzyskaniem 20-letniego okresu ubezpieczenia (składkowego nieskładkowego).
-Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 2.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2001 r. Nr 86, poz. 953, z późn. zm.) w art. 13 w ust. 1 w pkt 4 przecinek zastępuje się kropką i uchyla się pkt 5.
+
+**Art. 3.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2011 r. Nr 41, poz. 214, z późn. zm.) w art. 42a:
+
+**Art. 4.** W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2012 r. poz. 82 i 1529) w art. 93 w ust. 2 uchyla się pkt 1.
+
+**Art. 5.** W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. z 2011 r. Nr 7, poz. 29 i Nr 117, poz. 676) w art. 25 w ust. 3a pkt 1 otrzymuje brzmienie: „
+
+**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2011 r. Nr 231, poz. 1376 oraz z 2012 r. poz. 759) wprowadza się następujące zmiany:
+
+**Art. 7.** W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.) w art. 274:
+
+**Art. 8.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) w art. 100 § 4a i 4b otrzymują brzmienie: „
+
+**Art. 9.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. Nr 98, poz. 1071, z późn. zm.) w art. 27 w ust. 1 w pkt 3 przecinek zastępuje się kropką i uchyla się pkt 4.
+
+**Art. 10.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) w art. 88:
+
+**Art. 11.** W ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2009 r. Nr 217, poz. 1689, z późn. zm.) w art. 228 w § 2 w pkt 4 średnik zastępuje się kropką i uchyla się pkt 5.
+
+**Art. 12.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933 i 951) w art. 101 uchyla się ust. 3.
+
+**Art. 13.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 14.** W ustawie z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa (Dz. U. Nr 169, poz. 1417, z późn. zm.) w art. 52 w ust. 4 uchyla się pkt 1.
+
+**Art. 15.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572 i 742) wprowadza się następujące zmiany:
+
+**Art. 16.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2012 r. poz. 404 i 769) w art. 62 w ust. 1 w pkt 6 średnik zastępuje się kropką i uchyla się pkt 7.
+
+**Art. 17.** W ustawie z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. Nr 227, poz. 1505, z późn. zm.) w art. 71 w ust. 2 uchyla się pkt 1.
+
+**Art. 18.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. Nr 168, poz. 1323, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 19.** W ustawie z dnia 18 marca 2011 r. o zmianie ustawy – Prawo o szkolnictwie wyższym, ustawy o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki oraz o zmianie niektórych innych ustaw (Dz. U. Nr 84, poz. 455 i Nr 112, poz. 654) w art. 22 ust. 1 otrzymuje brzmienie: „ 1. Osoba zatrudniona przed dniem wejścia w życie ustawy na stanowisku docenta, na podstawie mianowania na czas nieokreślony albo umowy o pracę na czas nieokreślony, pozostaje na tym stanowisku, jednak nie dłużej niż do końca roku akademickiego, w którym ukończyła ona 67. rok życia, jeżeli nabyła prawo do emerytury. Jeżeli z ukończeniem 67. roku życia osoba zajmująca stanowisko docenta nie nabyła prawa do emerytury, wygaśnięcie stosunku pracy następuje z końcem roku akademickiego, w którym nabędzie to prawo. ” .
+
+**Art. 20.**
+
+1. Ośrodek pomocy społecznej jest zobowiązany, w terminie 6 miesięcy od dnia wejścia w życie ustawy, opłacić składkę na ubezpieczenie emerytalne i rentowe za osoby, którym opłacano składki na ubezpieczenie emerytalne i rentowe na podstawie przepisów o pomocy społecznej w związku ze sprawowaniem bezpośredniej, osobistej opieki nad długotrwale lub ciężko chorym członkiem rodziny oraz wspólnie niezamieszkującymi matką, ojcem lub rodzeństwem i którym zaprzestano opłacania składek w związku z uzyskaniem 20-letniego okresu ubezpieczenia (składkowego i nieskładkowego).
+
+2. Składkę, o której mowa w ust. 1, opłaca się za ten okres sprawowania opieki, o której mowa w ust. 1, za który nie była ona opłacona, jednakże nie dłuższy niż okres niezbędny do uzyskania 25-letniego okresu ubezpieczenia (składkowego i nieskładkowego), z zastrzeżeniem art. 87 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.) i z wyłączeniem okresów, w których osoba ta podlegała obowiązkowo ubezpieczeniu emerytalnemu i rentowemu z innych tytułów lub otrzymywała rentę.
+
+3. Podstawą wymiaru składki, o której mowa w ust. 1, jest kwota kryterium dochodowego na osobę w rodzinie w dniu opłacenia składki.
+
+**Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2013 r.
 

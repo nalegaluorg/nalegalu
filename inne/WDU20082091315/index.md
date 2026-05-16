@@ -8,6 +8,7 @@ pos: 1315
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 23 października 2008 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz o zmianie innych ustaw
@@ -24,18 +25,123 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082091315) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1315/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 14 grudnia 1994 r. oBankowym Funduszu Gwarancyjnym (Dz. U. 2007 r. Nr70, poz. 474 oraz 2008 r. 196, poz. 1214) wprowadza się następujące zmiany:
+2.
+3.
+Warunki przystąpienia oddziału instytucji kredytowej, o którym mowa w ust. 2, do systemu gwarantowania określa Zarząd Funduszu w porozumieniu z odpowiednią instytucją wykonującą zadania w zakresie gwarantowania środków w państwie macierzystym instytucji, z zachowaniem zasad systemu gwarantowania określonych w ustawie.
+” ;
+3)
+tytuł rozdziału 2 otrzymuje brzmienie: „ Tworzenie, organizacja, zadania, źródła finansowania i nadzór nad działalnością Bankowego Funduszu Gwarancyjnego ” ;
+4)
+w art. 3:
+a)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego, w drodze rozporządzenia, mając na uwadze sprawne działanie Funduszu oraz specyfikę jego działalności, nadaje Funduszowi statut, w którym określa szczegółowo jego zadania, sposób organizacji, rodzaje i sposób tworzenia funduszy własnych oraz zasady gospodarki finansowej.
+” ,
+b)
+dodaje się ust. 6 w brzmieniu:
+„
+6.
+Minister właściwy do spraw instytucji finansowych, w ramach nadzoru, o którym mowa w ust. 5, w przypadku stwierdzenia, że zadania Funduszu są wykonywane z naruszeniem prawa, może:
+1)
+zażądać usunięcia nieprawidłowości w wyznaczonym terminie;
+2)
+wnioskować do Rady Funduszu o odwołanie z pełnionej funkcji członka Zarządu Funduszu odpowiedzialnego za powstałe nieprawidłowości.
+” ;
+5)
+w art. 4:
+a)
+w ust. 1 uchyla się pkt 3,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Do zadań Funduszu w zakresie gromadzenia i analizowania informacji o podmiotach objętych systemem gwarantowania należy w szczególności opracowywanie analiz i prognoz dotyczących sektora bankowego.
+” ,
+c)
+w ust. 2 pkt 2 otrzymuje brzmienie:
+„
+2)
+kontrola prawidłowości wykorzystania pomocy, o której mowa w pkt 1, oraz monitorowanie sytuacji ekonomiczno-finansowej i systemu zarządzania banku korzystającego z pomocy finansowej;
+” ,
+d)
+ust. 2a i ust. 3 otrzymują brzmienie:
+„
+2a.
+Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, szczegółowe warunki, zakres i tryb obrotu przez Fundusz wierzytelnościami, o których mowa w ust. 2 pkt 1a, uwzględniając zapewnienie skuteczności udzielania pomocy podmiotom objętym systemem gwarantowania.
+3.
+Minister właściwy do spraw instytucji finansowych, kierując się koniecznością zapewnienia stabilności systemu bankowego, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego, może określić, w drodze rozporządzenia, dodatkowe działania Funduszu w zakresie udzielania pomocy podmiotom objętym systemem gwarantowania oraz tryb ich wykonania.
+” ;
+6)
+art. 6 otrzymuje brzmienie:
+„
+1b.
+Informacje o uczestnictwie w systemie gwarantowania nie mogą być wykorzystywane w celach reklamowych i powinny być ograniczone wyłącznie do informacji o przynależności do systemu gwarantowania i jego podstawowych zasadach funkcjonowania.
+” ;
+2)
+w rozdziale 2a po art. 48n dodaje się art. 48o w brzmieniu:
+„
+
+**Art. 1.** W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2007 r. Nr 70, poz. 474 oraz z 2008 r. Nr 196, poz. 1214) wprowadza się następujące zmiany:
+
+**Art. 2b.**
+
+1.
+
+##### Oddział banku zagranicznego, o którym mowa w art. 2 pkt 3 lit. b, jest objęty systemem gwarantowania w zakresie, w jakim system gwarantowania w państwie jego siedziby nie zapewnia wypłaty środków gwarantowanych w granicach określonych w ustawie.
+
+##### Oddział instytucji kredytowej, w rozumieniu ustawy – Prawo bankowe, w przypadku gdy kwota środków gwarantowanych przez system gwarantowania jego państwa macierzystego jest niższa niż określona w ustawie, może, w celu podwyższenia tej kwoty do wysokości określonej ustawą, przystąpić do obowiązkowego systemu gwarantowania.
+
+**Art. 6.**
+
+1. Rada Funduszu składa się z przewodniczącego oraz siedmiu członków.
+
+2. Przewodniczącym i członkiem Rady Funduszu może być osoba, która spełnia łącznie następujące warunki:
+
+- **1)** posiada pełną zdolność do czynności prawnych;
+- **2)** posiada wyższe wykształcenie;
+- **3)** nie była karana za umyślne przestępstwo lub przestępstwo skarbowe;
+- **4)** posiada wiedzę i doświadczenie w zakresie bankowości.
+
+3. Przewodniczącego Rady Funduszu powołuje i odwołuje minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego.
+
+4. Członków Rady Funduszu powołuje i odwołuje:
+
+- **1)** dwóch – minister właściwy do spraw instytucji finansowych;
+- **2)** dwóch – Prezes Narodowego Banku Polskiego;
+- **3)** jednego – Przewodniczący Komisji Nadzoru Finansowego;
+- **4)** dwóch – Związek Banków Polskich, na zasadach określonych w statucie Funduszu.
+
+5. Za udział w posiedzeniu Rady Funduszu osobom wchodzącym w skład Rady Funduszu przysługuje wynagrodzenie.
+
+6. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, sposób ustalenia wynagrodzenia osób wchodzących w skład Rady Funduszu, uwzględniając zakres wykonywanych zadań.
+
+7. Kadencja Rady Funduszu, z zastrzeżeniem art. 17 ust. 5, trwa 3 lata.
+
+8. Kadencja Rady Funduszu jest wspólna. ” ;
+
+- **7)** w art. 7 w ust. 2 po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
+- **3a)** przedkładanie ministrowi właściwemu do spraw instytucji finansowych, Przewodniczącemu Komisji Nadzoru Finansowego i Prezesowi Narodowego Banku Polskiego kwartalnych sprawozdań z działalności Funduszu, nie później niż w terminie 40 dni od ostatniego dnia kwartału roku kalendarzowego, za który zostało sporządzone;
+- **3b)** przyjmowanie przedstawionego przez Zarząd Funduszu rocznego sprawozdania finansowego Funduszu oraz rocznego sprawozdania z działalności Funduszu; ” ;
+- **8)** art. 8 i 9 otrzymują brzmienie: „
+
+**Art. 8.**
+
+1. Rada podejmuje uchwały większością głosów przy obecności co najmniej czterech osób wchodzących w jej skład. W przypadku równego rozkładu głosów w głosowaniu decyduje głos przewodniczącego Rady Funduszu.
+
+2. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego, w drodze rozporządzenia, ustala regulamin określający organizację pracy oraz zasady i tryb działania Rady Funduszu, uwzględniając realizowane przez Fundusz zadania oraz specyfikę jego działalności.
 
 **Art. 9.**
 
-1. Wskład Zarządu Funduszu wchodzi pięciu członków, tym prezes i jego zastępca.
+1. W skład Zarządu Funduszu wchodzi pięciu członków, w tym prezes i jego zastępca.
 
 2. Członkiem Zarządu Funduszu może być osoba, która spełnia łącznie następujące warunki:
 
 - **1)** posiada pełną zdolność do czynności prawnych;
 - **2)** posiada wyższe wykształcenie;
 - **3)** nie była karana za umyślne przestępstwo lub przestępstwo skarbowe;
-- **4)** posiada co najmniej 5-letni staż pracy bankowości na stanowisku kierowniczym.
+- **4)** posiada co najmniej 5-letni staż pracy w bankowości na stanowisku kierowniczym.
 
 3. Zarząd jest powoływany przez Radę Funduszu.
 
@@ -43,93 +149,108 @@ domain: null
 
 5. Rada Funduszu wybiera prezesa Zarządu Funduszu i jego zastępcę spośród członków Zarządu Funduszu.
 
-6. Członek Zarządu Funduszu, tym prezes lub jego zastępca, mogą być każdej chwili odwołani pełnionej funkcji przez Radę Funduszu.
+6. Członek Zarządu Funduszu, w tym prezes lub jego zastępca, mogą być w każdej chwili odwołani z pełnionej funkcji przez Radę Funduszu.
 
-7. Mandaty członków Zarządu Funduszu wygasają dniem upływu kadencji Zarządu Funduszu albo zdniem zaistnienia innych okoliczności powodujących wygaśnięcie mandatu członka Zarządu Funduszu, zzastrzeżeniem 17 ust. 5.”;
+7. Mandaty członków Zarządu Funduszu wygasają z dniem upływu kadencji Zarządu Funduszu albo z dniem zaistnienia innych okoliczności powodujących wygaśnięcie mandatu członka Zarządu Funduszu, z zastrzeżeniem art. 17 ust. 5. ” ;
 
-- **9)** wart. 13 uchyla się ust. 3a i3b;
-- **10)** wart. 14 ust. 3b otrzymuje brzmienie: Ń3b. Nie nalicza się obowiązkowej opłaty rocznej od aktywów Funduszu Poręczeń Unijnych utworzonego Banku Gospodarstwa Krajowego oraz od zobowiązań pozabilansowych przypisanych do tego Funduszu.”;
-- **11)** wart. 15:
-    - **a)** pkt 5 i6 otrzymują brzmienie: Ń5) środki dotacji, udzielonych na wniosek
-    - **b)** po pkt 6 dodaje się pkt 6a wbrzmieniu: Ń6a) udzielone pożyczki ze środków budżetu państwa;”;
+- **9)** w art. 13 uchyla się ust. 3a i 3b;
+- **10)** w art. 14 ust. 3b otrzymuje brzmienie: „
 
-- **12)** wart. 16:
-    - **a)** ust. 2 otrzymuje brzmienie: Ń2. Nadwyżka bilansowa Funduszu danym roku powiększa jego fundusz własny, tworzony celu zapewnienia środków na finansowanie zadań Funduszu zakresie udzielania pomocy podmiotom objętym systemem gwarantowania, zastrzeżeniem ust.2a i2b.”,
-    - **b)** po ust. 2 dodaje się ust. 2a i2b wbrzmieniu: Ń2a. Nadwyżka bilansowa Funduszu może zostać przekazana na fundusz własny, tworzony celu zapewnienia środków na nabycie rzeczowego majątku trwałego Funduszu oraz wypłat środków gwarantowanych wyłącznie wcelu zwiększenia jego wysokości do kwoty odpowiadającej jego wartości na dzień 31 grudnia 2007 r.
+3b. Nie nalicza się obowiązkowej opłaty rocznej od aktywów Funduszu Poręczeń Unijnych utworzonego w Banku Gospodarstwa Krajowego oraz od zobowiązań pozabilansowych przypisanych do tego Funduszu. ” ;
 
-2b. Nadwyżka bilansowa Funduszu może zostać przekazana na fundusz własny, tworzony celu zapewnienia środków na pokrycie ewentualnych strat bilansowych ina realizację zadań statutowych wyłącznie celu zwiększenia jego wysokości do kwoty odpowiadającej 1/3 wartości funduszu własnego, októrym mowa wust. 2a.”,
+- **11)** w art. 15: pkt 5 i 6 otrzymują brzmienie: „
+    - **a)**
 
-- **c)** ust. 4 otrzymuje brzmienie: Ń4. Ârodki Funduszu są gromadzone na rachunkach bieżących, wyodrębnionych oraz rachunkach lokat jednodniowych i innych lokat terminowych Narodowym Banku Polskim. Fundusz może także posiadać rachunki Krajowym Depozycie Papierów Wartościowych S.A.”;
-- **13)** 17 otrzymuje brzmienie: ŃArt. 17. 1. Roczne sprawozdanie finansowe Fundusz sporządza do dnia 31 marca każdego roku za poprzedni rok obrotowy. Funduszu, budżetu państwa na zasadach określonych przepisach o finansach publicznych;
+- **5)** środki z dotacji, udzielonych na wniosek Funduszu, z budżetu państwa na zasadach określonych w przepisach o finansach publicznych;
+- **6)** środki z kredytu krótkoterminowego udzielonego przez Narodowy Bank Polski zgodnie z art. 34 ust. 3; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+    - **b)**
 
-2. Sprawozdanie finansowe Funduszu podlega badaniu przez uprawniony, trybie odrębnych przepisów, podmiot wybrany drodze przetargu przez Radę Funduszu. Koszt badania ponosi Fundusz.
+- **6a)** udzielone pożyczki ze środków budżetu państwa; ” ;
+- **12)** w art. 16: ust. 2 otrzymuje brzmienie: „
+    - **a)**
 
-3. Do dnia 30 czerwca każdego roku Rada Funduszu przedstawia Radzie Ministrów do zatwierdzenia, zaopiniowane przez ministra właściwego do spraw instytucji finansowych, sprawozdanie działalności Funduszu za rok poprzedni i załączone do niego sprawozdanie finansowe, wraz zwynikami badania, októrym mowa wust. 2.
+2. Nadwyżka bilansowa Funduszu w danym roku powiększa jego fundusz własny, tworzony w celu zapewnienia środków na finansowanie zadań Funduszu w zakresie udzielania pomocy podmiotom objętym systemem gwarantowania, z zastrzeżeniem ust. 2a i 2b. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
 
-4. Rada Ministrów zatwierdza albo od5. Odmowa zatwierdzenia przez Radę Ministrów sprawozdania zdziałalności Funduszu za rok poprzedni jest równoznaczna wygaśnięciem mandatu wszystkich członków organów Funduszu, zastrzeżeniem, że pełnią oni swoje funkcje do czasu powołania nowych członków organów Funduszu.
+- **b)**
 
-6. Przepisu ust. 5 nie stosuje się do członków organów Funduszu, których kadencji nie dotyczy sprawozdanie zdziałalności Funduszu, októrym mowa wust. 3.
+2a. Nadwyżka bilansowa Funduszu może zostać przekazana na fundusz własny, tworzony w celu zapewnienia środków na nabycie rzeczowego majątku trwałego Funduszu oraz wypłat środków gwarantowanych – wyłącznie w celu zwiększenia jego wysokości do kwoty odpowiadającej jego wartości na dzień 31 grudnia 2007 r.
 
-7. Wzakresie rachunkowości Fundusz stosuje przepisy ustawy zdnia 29września 1994 r. o rachunkowości, zastrzeżeniem ust. 8.
+2b. Nadwyżka bilansowa Funduszu może zostać przekazana na fundusz własny, tworzony w celu zapewnienia środków na pokrycie ewentualnych strat bilansowych i na realizację zadań statutowych – wyłącznie w celu zwiększenia jego wysokości do kwoty odpowiadającej 1/3 wartości funduszu własnego, o którym mowa w ust. 2a. ” , ust. 4 otrzymuje brzmienie: „
 
-8. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego, określi, drodze rozporządzenia, szczególne zasady rachunkowości Funduszu, wtym zakres informacji wykazywanych informacji dodatkowej sprawozdania finansowego.”;
+- **c)**
 
-- **14)** po 20a dodaje się 20b wbrzmieniu: ŃArt. 20b. 1. Podmiot objęty systemem gwarantowania, korzystający pomocy finansowej Funduszu, jest obowiązany udzielać na żądanie Funduszu informacji niezbędnych do wykonywania działań, o których mowa 4 ust. 2 pkt 2 i 4, zastrzeżeniem przepisów dotyczących informacji prawem chronionych.
+4. Środki Funduszu są gromadzone na rachunkach bieżących, wyodrębnionych oraz rachunkach lokat jednodniowych i innych lokat terminowych w Narodowym Banku Polskim. Fundusz może także posiadać rachunki w Krajowym Depozycie Papierów Wartościowych S.A. ” ;
 
-2. Do podmiotu, którego udziały albo akcje zostały nabyte wykorzystaniem środków pochodzących pomocy finansowej Funduszu, przepisy ust. 1 stosuje się odpowiednio.”;
+- **13)** art. 17 otrzymuje brzmienie: „
 
-- **15)** wart. 23:
-    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Ârodki gwarantowane objęte są obowiązkowym systemem gwarantowania od dnia ich wniesienia na rachunek bankowy nie póêniej niż wdniu poprzedzającym dzień zawieszenia działalności banku, a przypadku należności wynikających zczynności bankowych, o ile czynność ta została dokonana przed dniem zawieszenia działalności banku do wysokości (łącznie odsetkami naliczonymi zgodnie umową do dnia spełnienia warunku gwarancji) równowartości wzłotych 50 000 euro w100 %.”, go, jakiej wysokości i na ilu rachunkach posiadał środki pieniężne lub zilu wierzytelności przysługują mu należności danym banku.”,
-    - **d)** dodaje się ust. 6 wbrzmieniu: Ń6. Rada Ministrów, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego oraz Przewodniczącego Komisji Nadzoru Finansowego, może, drodze rozporządzenia, czasowo określić wyższą niż określona ustawie górną granicę środków gwarantowanych oraz procent środków gwarantowanych, mając na uwadze konieczność zapewnienia bezpieczeństwa istabilności systemu bankowego oraz ochronę interesu deponentów.”;
+**Art. 17.**
 
-- **16)** 24 otrzymuje brzmienie: ŃArt. 24. Deponent nie traci prawa do dochodzenia swych roszczeń od banku ponad kwotę określoną wart. 23 ust. 1.”;
-- **17)** wart. 25 po ust. 1 dodaje się ust. 1a wbrzmieniu: Ń1a. Fundusz ochrony środków gwarantowanych jest tworzony ostatnim sprawozdawczym dniu miesiąca, wktórym podmiot objęty systemem gwarantowania uzyskał zezwolenie na rozpoczęcie działalności. W przypadku oddziału instytucji kredytowej przystępującego do systemu gwarantowania, dzień utworzenia funduszu ochrony środków gwarantowanych określa Zarząd Funduszu wtrybie określonym wart. 2b ust. 3.”;
-- **18)** wart. 34 ust. 3 i4 otrzymują brzmienie: Ń3. Po wyczerpaniu środków, o których mowa 45, i wystąpieniu zagrożenia stabilności systemu bankowego, Narodowy Bank Polski może udzielić Funduszowi kredytu krótkoterminowego, pod warunkiem ustanowienia odpowiedniego zabezpieczenia.
+1. Roczne sprawozdanie finansowe Fundusz sporządza do dnia 31 marca każdego roku za poprzedni rok obrotowy.
 
-4. Po wyczerpaniu środków, o których mowa wust. 1 i2, minister właściwy do spraw instytucji finansowych, drodze rozporządzenia, po zasięgnięciu opinii Prezesa Narodowego
+2. Sprawozdanie finansowe Funduszu podlega badaniu przez uprawniony, w trybie odrębnych przepisów, podmiot wybrany w drodze przetargu przez Radę Funduszu. Koszt badania ponosi Fundusz.
 
-- **b)** uchyla się ust. 2,
-- **c)** ust. 4 otrzymuje brzmienie: Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego, może podwyższyć poziom obciążeń, októrych mowa wart. 13 ust. 1 i 25 ust. 2, stosując stawkę opłaty rocznej do wysokości 0,6 % oraz stawkę funduszu ochrony środków gwarantowanych do wysokości 0,8 %.”;
-- **19)** wart. 35 wust. 3 pkt 2 otrzymuje brzmienie: Ń2) uwzględnia całości lub części przy podejmowaniu kolejnych uchwał o przekazaniu syndykowi lub zarządcy kwot na wypłatę środków gwarantowanych.”;
-- **20)** wart. 38 ust. 1—5 otrzymują brzmienie: Ń1. Komisja Nadzoru Finansowego, na wniosek piły do Funduszu zwnioskiem oudzielenie pomocy finansowej, zakresie niezbędnym do oceny planu wykorzystania pomocy Funduszu celu uzdrowienia gospodarki banku lub połączenia zinnym bankiem.
+3. Do dnia 30 czerwca każdego roku Rada Funduszu przedstawia Radzie Ministrów do zatwierdzenia, zaopiniowane przez ministra właściwego do spraw instytucji finansowych, sprawozdanie z działalności Funduszu za rok poprzedni i załączone do niego sprawozdanie finansowe, wraz z wynikami badania, o którym mowa w ust. 2.
 
-2. Komisja Nadzoru Finansowego przekazuje Funduszowi roczne sprawozdania finansowe banków objętych systemem gwarantowania środków pieniężnych terminie 30 dni od dnia ich otrzymania oraz analizy funkcjonowania sektora bankowego.
+4. Rada Ministrów zatwierdza albo odmawia zatwierdzenia sprawozdań, o których mowa w ust. 3, w terminie do dnia 31 sierpnia każdego roku.
 
-3. Narodowy Bank Polski oraz Komisja Nadzoru Finansowego przekazują Funduszowi informacje o stanie finansowym podmiotu objętego systemem gwarantowania i podejmowanych wstosunku do niego działaniach na podstawie odrębnych przepisów, razie powzięcia wiadomości, że banku powstała strata, groêba jej wystąpienia lub powstało niebezpieczeństwo niewypłacalności banku.
+5. Odmowa zatwierdzenia przez Radę Ministrów sprawozdania z działalności Funduszu za rok poprzedni jest równoznaczna z wygaśnięciem mandatu wszystkich członków organów Funduszu, z zastrzeżeniem, że pełnią oni swoje funkcje do czasu powołania nowych członków organów Funduszu.
 
-4. Funduszowi przysługuje prawo uzyskiwania informacji dotyczących podmiotów objętych systemem gwarantowania, mających wpływ na realizację jego zadań, posiadanych przez Narodowy Bank Polski, ministra właściwego do spraw instytucji finansowych, Komisję Nadzoru Finansowego i Najwyższą Izbę Kontroli.
+6. Przepisu ust. 5 nie stosuje się do członków organów Funduszu, których kadencji nie dotyczy sprawozdanie z działalności Funduszu, o którym mowa w ust. 3.
 
-5. Przedmiot, zakres, tryb i terminy przekazywania informacji, októrych mowa wust. 4, określają odrębne porozumienia zawarte między Funduszem a Prezesem Narodowego Banku Polskiego, ministrem właściwym do spraw instytucji finansowych i Prezesem Najwyższej Izby Kontroli, a także umowa o współpracy oraz o wymianie informacji między Funduszem a Komisją Nadzoru Finansowego, o której mowa 17 ustawy dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. 157, poz. 1119 oraz 2007 r. 42, poz. 272 iNr 49, poz. 328).”;
+7. W zakresie rachunkowości Fundusz stosuje przepisy ustawy z dnia 29 września 1994 r. o rachunkowości, z zastrzeżeniem ust. 8.
 
-- **21)** wart. 43 uchyla się ust. 1;
-- **22)** 44 otrzymuje brzmienie: ŃArt. 44. Bankowy Fundusz Gwarancyjny nie jest państwową osobą prawną i nie jest jednostką sektora finansów publicznych.”.
+8. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, szczególne zasady rachunkowości Funduszu, w tym zakres informacji wykazywanych w informacji dodatkowej sprawozdania finansowego. ” ;
 
-**Art. 2.** W ustawie dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. 2007 r. 231, poz.1701) wart. 2 dodaje się ust. 5 wbrzmieniu: Ń5. Najwyższa Izba Kontroli może kontrolować pod względem legalności i gospodarności działalność jednostek organizacyjnych i podmiotów gospodarczych wykonujących zadania zakresu funkcjonowania systemów gwarantowania środków pieniężnych i udzielania pomocy podmiotom objętym systemem gwarantowania, o których mowa wprzepisach oBankowym Funduszu Gwarancyjnym wzakresie, wjakim wykorzystują
+- **14)** po art. 20a dodaje się art. 20b w brzmieniu: „
 
-**Art. 3.** W ustawie dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z2005 r. 1, poz. 2, zpóên. zm. ) 43 otrzymuje brzmienie: ŃArt. 43. Wprzypadku ina warunkach, októrych mowa wart. 34 ust. 3 ustawy zdnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. 2007 r. 70, poz. 474 oraz 2008 r. 196, poz. 1214 i 209, poz.1315), NBP może udzielać kredytu Bankowemu Funduszowi Gwarancyjnemu.”.
+**Art. 20b.**
 
-**Art. 4.** Wustawie zdnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. 2002 r. 72, poz. 665, póên. zm. ) wprowadza się następujące zmiany:
+1. Podmiot objęty systemem gwarantowania, korzystający z pomocy finansowej Funduszu, jest obowiązany udzielać na żądanie Funduszu informacji niezbędnych do wykonywania działań, o których mowa w art. 4 ust. 2 pkt 2 i 4, z zastrzeżeniem przepisów dotyczących informacji prawem chronionych.
 
-**Art. 5.** W ustawie dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. 119, poz. 1252, zpóên. zm.
+2. Do podmiotu, którego udziały albo akcje zostały nabyte z wykorzystaniem środków pochodzących z pomocy finansowej Funduszu, przepisy ust. 1 stosuje się odpowiednio. ” ;
 
-**Art. 6.**
+- **15)** w art. 23: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-1. Do Rady Funduszu oraz Zarządu Funduszu działających wdniu wejścia wżycie ustawy stosuje się ) wprowadza się następujące zmiany:
+1. Środki gwarantowane objęte są obowiązkowym systemem gwarantowania od dnia ich wniesienia na rachunek bankowy nie później niż w dniu poprzedzającym dzień zawieszenia działalności banku, a w przypadku należności wynikających z czynności bankowych, o ile czynność ta została dokonana przed dniem zawieszenia działalności banku – do wysokości (łącznie z odsetkami naliczonymi zgodnie z umową – do dnia spełnienia warunku gwarancji) równowartości w złotych 50 000 euro – w 100%. ” , uchyla się ust. 2, ust. 4 otrzymuje brzmienie: „
 
-- **1)** wart. 35 ust. 3 otrzymuje brzmienie: Ń3. Pomoc finansowa, októrej mowa wust. 1, może być udzielona bankowi spółdzielczemu na finansowanie:
-- **1)** nabycia akcji banku zrzeszającego,
-- **2)** poniesionych lub planowanych wydatków związanych łączeniem się banków spółdzielczych, mających na celu zwiększenie bezpieczeństwa zgromadzonych środków pieniężnych lub poprawę albo ujednolicenie standardów obsługi klientów, a szczególności na:
-    - **a)** nabycie lub modyfikację programów lub sprzętu informatycznego,
-    - **b)** rozwój lub ujednolicenie technologii bankowej, przepisy dotychczasowe, zzastrzeżeniem ust.2 i3.
+- **b)**
+- **c)**
 
-2. Kadencja Rady Funduszu powołanej na podstawie dotychczas obowiązujących przepisów wygasa zdniem 30 czerwca 2009 r.
+4. Kwota, o której mowa w ust. 1, określa maksymalną wysokość roszczeń deponenta w stosunku do Funduszu, niezależnie od tego, w jakiej wysokości i na ilu rachunkach posiadał środki pieniężne lub z ilu wierzytelności przysługują mu należności w danym banku. ” , dodaje się ust. 6 w brzmieniu: „
 
-3. Kadencja Zarządu Funduszu powołanego na podstawie dotychczas obowiązujących przepisów wygasa zdniem 31 marca 2010 r.
+- **d)**
+
+6. Rada Ministrów, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego oraz Przewodniczącego Komisji Nadzoru Finansowego, może, w drodze rozporządzenia, czasowo określić wyższą niż określona w ustawie górną granicę środków gwarantowanych oraz procent środków gwarantowanych, mając na uwadze konieczność zapewnienia bezpieczeństwa i stabilności systemu bankowego oraz ochronę interesu deponentów. ” ;
+
+- **16)** art. 24 otrzymuje brzmienie: „
+
+**Art. 24.** Deponent nie traci prawa do dochodzenia swych roszczeń od banku ponad kwotę określoną w art. 23 ust. 1. ” ;
+
+**Art. 44.** Bankowy Fundusz Gwarancyjny nie jest państwową osobą prawną i nie jest jednostką sektora finansów publicznych. ” . W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231, poz. 1701) w art. 2 dodaje się ust. 5 w brzmieniu: „ 5. Najwyższa Izba Kontroli może kontrolować pod względem legalności i gospodarności działalność jednostek organizacyjnych i podmiotów gospodarczych wykonujących zadania z zakresu funkcjonowania systemów gwarantowania środków pieniężnych i udzielania pomocy podmiotom objętym systemem gwarantowania, o których mowa w przepisach o Bankowym Funduszu Gwarancyjnym w zakresie, w jakim wykorzystują one majątek lub środki państwowe lub komunalne oraz wywiązują się z zobowiązań finansowych na rzecz państwa. ” .
+
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.) art. 43 otrzymuje brzmienie: „
+
+**Art. 43.** W przypadku i na warunkach, o których mowa w art. 34 ust. 3 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2007 r. Nr 70, poz. 474 oraz z 2008 r. Nr 196, poz. 1214 i Nr 209, poz. 1315), NBP może udzielać kredytu Bankowemu Funduszowi Gwarancyjnemu. ” .
+
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) wprowadza się następujące zmiany:
+
+##### Oddział banku zagranicznego, niebędący podmiotem objętym obowiązkowym systemem gwarantowania w rozumieniu art. 2 pkt 3 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2007 r. Nr 70, poz. 474 oraz z 2008 r. Nr 196, poz. 1214 i Nr 209, poz. 1315), informuje – w sposób, w jaki są podawane informacje o świadczonych usługach – osoby korzystające z jego usług o swojej sytuacji ekonomiczno-finansowej oraz o uczestnictwie w systemie gwarantowania i zasadach jego funkcjonowania, w tym o zakresie ochrony przysługującej ze strony tego systemu, jak również o trybie i warunkach zaspokajania roszczeń, w razie objęcia oddziału postępowaniem upadłościowym albo zagranicznym postępowaniem upadłościowym.
+
+**Art. 48o.**
+
+1. Instytucja kredytowa prowadząca działalność na terytorium Rzeczypospolitej Polskiej informuje – w sposób, w jaki są podawane informacje o świadczonych usługach – osoby korzystające z jej usług o swojej sytuacji ekonomiczno-finansowej oraz o uczestnictwie w oficjalnie uznanym systemie gwarantowania i zasadach jego funkcjonowania, w tym o zakresie ochrony przysługującej ze strony tego systemu, jak również o trybie i warunkach zaspokajania roszczeń przysługujących osobom korzystającym z jej usług, w razie objęcia instytucji zagranicznym postępowaniem upadłościowym.
+
+2. Informacje o uczestnictwie w systemie gwarantowania nie mogą być wykorzystywane w celach reklamowych i powinny być ograniczone wyłącznie do informacji o przynależności instytucji kredytowej do systemu gwarantowania i jego podstawowych zasadach funkcjonowania. ” .
+
+**Art. 5.** W ustawie z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. Nr 119, poz. 1252, z późn. zm.) wprowadza się następujące zmiany:
 
 **Art. 7.**
 
-1. Do czasu wejścia życie przepisów wykonawczych wydanych na podstawie 3 ust. 4, art.4 ust. 2a i3, 6 ust. 6 iart. 8 ust. 2 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, zachowują moc przepisy dotychczasowe, nie dłużej jednak niż przez 12 miesięcy.
+1. Do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 3 ust. 4, art. 4 ust. 2a i 3, art. 6 ust. 6 i art. 8 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zachowują moc przepisy dotychczasowe, nie dłużej jednak niż przez 12 miesięcy.
 
-2. Do czasu wejścia życie przepisów wykonawczych wydanych na podstawie 17 ust. 8 ustawy zmienianej 1 zachowują moc przepisy wykonawcze wydane na podstawie 17 ust. 6 tej ustawy, nie dłużej jednak niż przez 18 miesięcy. ——————— Art. 8. Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, wyjątkiem 1 pkt 11, 15 i 16, które wchodzą wżycie zdniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+2. Do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 8 ustawy zmienianej w art. 1 zachowują moc przepisy wykonawcze wydane na podstawie art. 17 ust. 6 tej ustawy, nie dłużej jednak niż przez 18 miesięcy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 11, 15 i 16, które wchodzą w życie z dniem ogłoszenia.
+
+- **1)** Ustawa z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym dokonała w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 94/19/WE z dnia 30 maja 1994 r. w sprawie systemów gwarancji depozytów (Dz. Urz. WE L 135, z 31.05.1994). Niniejszą ustawą zmienia się ustawę z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli, ustawę z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz ustawę z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769 oraz z 2008 r. Nr 171, poz. 1056. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540 oraz z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900 i Nr 171, poz. 1056. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1583, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769 oraz z 2008 r. Nr 171, poz. 1056 i Nr 192, poz. 1179. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 111, poz. 1195, z 2002 r. Nr 141, poz. 1178 i Nr 216, poz. 1824, z 2003 r. Nr 137, poz. 1303 i Nr 228, poz. 2260, z 2004 r. Nr 91, poz. 870, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 52, poz. 344.
 
 

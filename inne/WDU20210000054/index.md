@@ -8,9 +8,10 @@ pos: 54
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 stycznia 2021 r.
+# Ustawa z dnia 18 grudnia 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +25,84 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000054) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/54/text.pdf) |
 
-USTAWA z dnia 18 grudnia 2020 r.
-o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+Załącznik –
 
 **Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, 471, 1087 i 2338) wprowadza się następujące zmiany:
 
-**Art. 41b.**
+**Art. 41.**
+
+1. Po drogach publicznych dopuszcza się ruch pojazdów o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t, z uwzględnieniem art. 41a ust. 1 oraz z wyjątkiem określonym w art. 41b ust. 1.
+
+2. Dopuszcza się wprowadzenie albo ustanowienie zakazu ruchu pojazdów o dopuszczalnym nacisku pojedynczej osi napędowej powyżej 10 t albo powyżej 8 t:
+
+- **1)** po określonej drodze publicznej lub jej odcinku,
+- **2)** w strefie obejmującej co najmniej dwie drogi publiczne lub ich odcinki zwanego dalej „zakazem”.
+
+3. Zakaz, o którym mowa w ust. 2:
+
+- **1)** pkt 1 – wprowadza właściwy zarządca drogi za pośrednictwem znaku drogowego;
+- **2)** pkt 2 – ustanawia właściwa rada gminy (miasta) w drodze uchwały.
+
+4. Wprowadzenie albo ustanowienie zakazu jest dopuszczalne na drogach publicznych lub ich odcinkach, których parametry techniczne lub stan techniczny konstrukcji nawierzchni jezdni nie są dostosowane do ruchu pojazdów o dopuszczalnym nacisku pojedynczej osi napędowej powyżej 10 t albo powyżej 8 t, spełniających co najmniej jedną z następujących przesłanek:
+
+- **1)** droga lub jej odcinek przebiega przez obszar, na którym znajduje się: forma ochrony przyrody, o której mowa w art. 6 ust. 1 pkt 1 lub 5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378), lub graniczy z takim obszarem, wyjście: – ze żłobka lub klubu dziecięcego, o których mowa w art. 2 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2020 r. poz. 326, 568 i 1747), lub – z przedszkola w rozumieniu art. 2 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 i 1378 oraz z 2021 r. poz. 4), lub – ze szkoły w rozumieniu art. 2 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, do której uczęszczają dzieci w wieku do lat 15, lub – z placówki opiekuńczo-wychowawczej, o której mowa w art. 93 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2020 r. poz. 821), do której uczęszczają dzieci w wieku do lat 15, zabytek nieruchomy objęty formą ochrony zabytków, o której mowa w art. 7 pkt 1 lub 1a ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2020 r. poz. 282, 782 i 1378), lub graniczy z takim obszarem;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** droga lub jej odcinek przebiega przez teren intensywnej zabudowy mieszkaniowej określonej w miejscowym planie zagospodarowania przestrzennego, a w przypadku jego braku – w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;
+- **3)** droga lub jej odcinek przebiega przez uzdrowisko albo obszar ochrony uzdrowiskowej w rozumieniu odpowiednio art. 2 pkt 3 i 4 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2020 r. poz. 1662 oraz z 2020 r. poz. 36) lub graniczy z takim uzdrowiskiem albo obszarem ochrony uzdrowiskowej;
+- **4)** droga lub jej odcinek przebiega przez obszar górniczy w rozumieniu art. 6 ust. 1 pkt 5 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2020 r. poz. 1064, 1339 i 2320) lub graniczy z takim obszarem;
+- **5)** droga lub jej odcinek przebiega przez teren zagrożony ruchami masowymi ziemi, o którym mowa w art. 110a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378, 1565, 2127 i 2338), lub teren, na którym występują te ruchy;
+- **6)** droga lub jej odcinek przebiega przy obiekcie budowlanym, dla którego wstrząsy lub drgania wynikające z ruchu pojazdów o dopuszczalnym nacisku pojedynczej osi napędowej powyżej 8 t mogą powodować uszkodzenie tego obiektu;
+- **7)** droga lub jej odcinek graniczy: z obszarem, na którym znajduje się szpital w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2020 r. poz. 295, 567, 1493, 2112, 2345 i 2401), ze strefą ochronną Pomnika Zagłady, o której mowa w art. 3 ustawy z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady (Dz. U. z 2015 r. poz. 2120).
+    - **a)**
+    - **b)**
+
+5. Wprowadzenie albo ustanowienie zakazu jest dopuszczalne także na drogach publicznych lub ich odcinkach, które:
+
+- **1)** nie posiadają chodnika, bezkolizyjnego przejścia dla pieszych lub przejścia dla pieszych wyposażonego w sygnalizację świetlną oraz
+- **2)** przebiegają przez obszar, na którym znajduje się wyjście z obiektu wymienionego w ust. 4 pkt 1 lit. b.
+
+6. Zakaz może być wprowadzony albo ustanowiony wyłącznie na drodze publicznej lub jej odcinku, które spełniają wymagania określone w ust. 4 albo 5.
+
+7. Nie można wprowadzić ani ustanowić zakazu na:
+
+- **1)** drogach publicznych lub ich odcinkach, które zostały wybudowane lub przebudowane z udziałem środków pochodzących z budżetu Unii Europejskiej, przez okres 5 lat od dnia oddania drogi lub jej odcinka do użytkowania;
+- **2)** drogach publicznych lub ich odcinkach w transeuropejskiej sieci drogowej;
+- **3)** drogach krajowych lub ich odcinkach, z wyjątkiem dróg krajowych zarządzanych przez prezydentów miast na prawach powiatu.
+
+8. Zakazu nie stosuje się do:
+
+- **1)** autobusów;
+- **2)** pojazdów biorących udział w akcjach ratowniczych oraz przy bezpośredniej likwidacji skutków klęsk żywiołowych;
+- **3)** pojazdów zarządców dróg publicznych oraz podmiotów wykonujących obowiązki zarządcy drogi na jego rzecz z zakresu utrzymania dróg;
+- **4)** pojazdów Policji, Inspekcji Transportu Drogowego, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową oraz jednostek ochrony przeciwpożarowej, wykonujących zadania tych służb lub podmiotów;
+- **5)** pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej i państw sojuszniczych;
+- **6)** pojazdów Państwowego Gospodarstwa Wodnego Wody Polskie oraz podmiotów wykonujących na jego rzecz zadania wynikające z ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r. poz. 310, 284, 695, 782, 875 i 1378).
+
+9. Zarządca drogi, z zachowaniem zasad niedyskryminacji, może zwolnić z obowiązku przestrzegania zakazu, o którym mowa w ust. 2 pkt 1, innych użytkowników drogi lub inne rodzaje pojazdów niż wymienione w ust. 8. Informację o zwolnieniu z obowiązku przestrzegania zakazu umieszcza się na znaku drogowym, o którym mowa w ust. 3 pkt 1.
+
+10. Strefa, o której mowa w ust. 2 pkt 2, może obejmować wyłącznie drogi publiczne lub ich odcinki spełniające wymagania, o których mowa w ust. 4 albo 5.
+
+11. Ustanowienie strefy, o której mowa w ust. 2 pkt 2, wymaga uzyskania zgody organów zarządzających drogami i ruchem na drogach publicznych lub ich odcinkach, które mają znajdować się w tej strefie.
+
+12. Organy, o których mowa w ust. 11, uzgadniają projekt uchwały, o której mowa w ust. 3 pkt 2, w terminie 21 dni od dnia otrzymania projektu uchwały. Niezajęcie przez organ stanowiska w tym terminie uznaje się za uzgodnienie projektu uchwały.
+
+13. Uchwała, o której mowa w ust. 3 pkt 2, jest aktem prawa miejscowego i określa:
+
+- **1)** drogi publiczne lub ich odcinki objęte strefą, o której mowa w ust. 2 pkt 2, oraz granice tej strefy;
+- **2)** dopuszczalny nacisk pojedynczej osi napędowej pojazdów poruszających się po drogach publicznych lub ich odcinkach objętych strefą, o której mowa w ust. 2 pkt 2.
+
+14. Rada gminy (miasta) może określić w uchwale, o której mowa w ust. 3 pkt 2, wyjątki od stosowania zakazu, o którym mowa w ust. 2 pkt 2, w odniesieniu do użytkowników drogi lub rodzajów pojazdów innych niż wymienione w ust. 8, z zachowaniem zasad niedyskryminacji i przejrzystości.
+
+15. Granicę strefy, o której mowa w ust. 2 pkt 2, oznacza się znakiem drogowym wskazującym dopuszczalny nacisk pojedynczej osi napędowej pojazdów, które mogą poruszać się po drogach publicznych lub ich odcinkach objętych strefą. ” ;
+
+- **3)** po art. 41 dodaje się art. 41a-41e w brzmieniu: „
+
+1. Na drogowych przejściach granicznych, o których mowa w art. 16 ust. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2019 r. poz. 1776), znajdujących się na granicy zewnętrznej w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm.), mogą być wprowadzane zakazy ruchu pojazdów o dopuszczalnym nacisku pojedynczej osi napędowej poniżej 11,5 t po drodze publicznej albo jej odcinku znajdujących się w zasięgu terytorialnym przejścia granicznego określonym zgodnie z przepisami wydanymi na podstawie art. 16 ust. 3a tej ustawy.
+
+2. Zakaz, o którym mowa w ust. 1, wprowadza właściwy zarządca drogi za pośrednictwem znaku drogowego.
 
 1. Po drogach publicznych o nawierzchni innej niż bitumiczna, betonowa, kamienna lub klinkierowa, w tym kostkowa lub płytowa, dopuszcza się wyłącznie ruch pojazdów o dopuszczalnym nacisku pojedynczej osi napędowej do 8 t.
 
@@ -42,9 +115,7 @@ o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 4. W przypadku, o którym mowa w ust. 3, zarządca drogi podnosi wartość dopuszczalnego nacisku pojedynczej osi napędowej do 11,5 t albo 10 t za pośrednictwem znaku drogowego.
 
-**Art. 41c.**
-
-1. Do kontroli przestrzegania przez korzystających z dróg publicznych zakazów, o których mowa w art. 41 ust. 2 oraz art. 41a ust. 1, a także dopuszczalnego nacisku pojedynczej osi napędowej, o którym mowa w art. 41b ust. 1 i 3, są uprawnieni:
+1. Do kontroli przestrzegania przez korzystających z dróg publicznych zakazów, o których mowa w art. 41 ust. 2 oraz art. 41a ust. 1, a także dopuszczalnego nacisku pojedynczej osi napędowej, o którym mowa wart. 41b ust. 1 i 3, są uprawnieni:
 
 - **1)** inspektorzy Inspekcji Transportu Drogowego;
 - **2)** funkcjonariusze Policji;
@@ -53,7 +124,7 @@ o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 - **5)** osoby działające w imieniu zarządcy drogi, z wyjątkiem Generalnego Dyrektora Dróg Krajowych i Autostrad;
 - **6)** strażnicy gminni (miejscy).
 
-2. Kontrola, o której mowa w ust. 1, jest przeprowadzana na zasadach i warunkach określonych w przepisach działu V rozdziału 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym oraz w sposób określony w tych przepisach.
+2. Kontrola, o której mowa w ust. 1, jest przeprowadzana na zasadach i warunkach określonych w przepisach działu V rozdziału 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz w sposób określony w tych przepisach.
 
 3. Z kontroli, o której mowa w ust. 1, sporządza się protokół.
 
@@ -63,20 +134,18 @@ o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 6. Do protokołu kontroli kontrolowany może wnieść zastrzeżenia.
 
-**Art. 41d.**
-
-1. Za naruszenie zakazu, o którym mowa w art. 41 ust. 2 albo art. 41a ust. 1, albo za przekroczenie dopuszczalnego nacisku pojedynczej osi napędowej, o którym mowa w art. 41b ust. 1 albo 3, wymierza się, w drodze decyzji administracyjnej, karę pieniężną.
+1. Za naruszenie zakazu, o którym mowa w art. 41 ust. 2 albo art. 41a ust. 1, albo za przekroczenie dopuszczalnego nacisku pojedynczej osi napędowej, o którym mowa w art. 41b ust. 1 albo 3 , wymierza się, w drodze decyzji administracyjnej, karę pieniężną.
 
 2. Karę pieniężną, o której mowa w ust. 1, wymierza się w wysokości:
 
-- **1)** 3000 zł gdy nacisk pojedynczej osi napędowej przekracza dopuszczalną wartość nie więcej niż o 10%,
-- **2)** 6000 zł gdy nacisk pojedynczej osi napędowej przekracza dopuszczalną wartość o więcej niż 10% i nie więcej niż 20%,
-- **3)** 10 000 zł gdy nacisk pojedynczej osi napędowej przekracza dopuszczalną wartość o więcej niż 20% w przypadku gdy kontrolujący nie stwierdzi jednoczesnego wykonywania przejazdu po drodze publicznej pojazdu nienormatywnego bez zezwolenia kategorii V, o którym mowa w art. 64d ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, albo z przekroczonymi parametrami technicznymi pojazdu wskazanymi w tym zezwoleniu, w zakresie dopuszczalnego nacisku pojedynczej osi napędowej.
+- **1)** 3000 zł – gdy nacisk pojedynczej osi napędowej przekracza dopuszczalną wartość nie więcej niż o 10%,
+- **2)** 6000 zł – gdy nacisk pojedynczej osi napędowej przekracza dopuszczalną wartość o więcej niż 10% i nie więcej niż 20%,
+- **3)** 10 000 zł – gdy nacisk pojedynczej osi napędowej przekracza dopuszczalną wartość o więcej niż 20% w przypadku gdy kontrolujący nie stwierdzi jednoczesnego wykonywania przejazdu po drodze publicznej pojazdu nienormatywnego bez zezwolenia kategorii V, o którym mowa w art. 64d ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, albo z przekroczonymi parametrami technicznymi pojazdu wskazanymi w tym zezwoleniu, w zakresie dopuszczalnego nacisku pojedynczej osi napędowej.
 
 3. Karę pieniężną, o której mowa w ust. 1, wymierza się w wysokości:
 
-- **1)** 12 000 zł gdy nacisk pojedynczej osi napędowej przekracza dopuszczalną wartość nie więcej niż o 20%,
-- **2)** 20 000 zł gdy nacisk pojedynczej osi napędowej przekracza dopuszczalną wartość o więcej niż 20% w przypadku gdy kontrolujący stwierdzi jednoczesne wykonywanie przejazdu po drodze publicznej pojazdu nienormatywnego bez zezwolenia kategorii V, o którym mowa w art. 64d ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, albo z przekroczonymi parametrami technicznymi pojazdu wskazanymi w tym zezwoleniu, w zakresie dopuszczalnego nacisku pojedynczej osi napędowej.
+- **1)** 12 000 zł – gdy nacisk pojedynczej osi napędowej przekracza dopuszczalną wartość nie więcej niż o 20%,
+- **2)** 20 000 zł – gdy nacisk pojedynczej osi napędowej przekracza dopuszczalną wartość o więcej niż 20% w przypadku gdy kontrolujący stwierdzi jednoczesne wykonywanie przejazdu po drodze publicznej pojazdu nienormatywnego bez zezwolenia kategorii V, o którym mowa w art. 64d ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, albo z przekroczonymi parametrami technicznymi pojazdu wskazanymi w tym zezwoleniu, w zakresie dopuszczalnego nacisku pojedynczej osi napędowej.
 
 4. Przekroczenia dopuszczalnej wartości nacisku pojedynczej osi napędowej, o których mowa w ust. 2 i 3, ustala się jako różnicę między naciskiem pojedynczej osi napędowej danego pojazdu poruszającego się po drodze lub jej odcinku, stwierdzonym przez kontrolującego, a dopuszczalną wartością nacisku pojedynczej osi napędowej obowiązującą na danej drodze lub jej odcinku na podstawie zakazu, o którym mowa w art. 41 ust. 2 albo art. 41a ust. 1, albo zgodnie z art. 41b ust. 1 albo 3.
 
@@ -84,11 +153,11 @@ o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 6. W przypadku gdy naruszenie albo przekroczenie, o którym mowa w ust. 1, stwierdzono w stosunku do więcej niż jednej pojedynczej osi napędowej pojazdu, wysokość kary pieniężnej, o której mowa w ust. 1, ustala się na podstawie wartości nacisku pojedynczej osi napędowej o największym przekroczeniu dopuszczalnej wartości nacisku.
 
-7. Decyzję o nałożeniu kary pieniężnej, o której mowa w ust. 1, wydaje właściwy ze względu na miejsce przeprowadzanej kontroli organ Inspekcji Transportu Drogowego, Policji, Straży Granicznej, naczelnik urzędu celno-skarbowego albo zarządca drogi, z wyjątkiem Generalnego Dyrektora Dróg Krajowych i Autostrad.
+7. Decyzję o nałożeniu kary pieniężnej, o której mowa w ust. 1, wydaje właściwy ze względu na miejsce przeprowadzanej kontroli organ Inspekcji Transportu Drogowego, Policji, Straży Granicznej, naczelnik urzędu celno-skarbowego albo zarządca drogi, z wyjątkiem Generalnego Dyrektora Dróg Krajowych i Autostrad .
 
 8. W przypadku, o którym mowa w ust. 2, decyzję o nałożeniu kary pieniężnej, o której mowa w ust. 1, wydaje ponadto, z upoważnienia wójta (burmistrza, prezydenta miasta), właściwy ze względu na miejsce przeprowadzanej kontroli komendant straży gminnej (miejskiej). Od decyzji komendanta straży gminnej (miejskiej) przysługuje odwołanie do Samorządowego Kolegium Odwoławczego.
 
-9. W przypadku gdy strażnik gminny (miejski) w trakcie kontroli, o której mowa w art. 41c ust. 1, stwierdzi naruszenie albo przekroczenie, o którym mowa w ust. 1, oraz jednoczesny przejazd pojazdu nienormatywnego bez zezwolenia kategorii V, o którym mowa w art. 64d ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, albo z przekroczonymi parametrami technicznymi pojazdu wskazanymi w tym zezwoleniu, w zakresie dopuszczalnego nacisku pojedynczej osi napędowej, przekazuje protokół, o którym mowa w art. 41c ust. 3, właściwemu ze względu na miejsce przeprowadzanej kontroli organowi Inspekcji Transportu Drogowego.
+9. W przypadku gdy strażnik gminny (miejski) w trakcie kontroli, o której mowa w art. 41c ust. 1, stwierdzi naruszenie albo przekroczenie, o którym mowa w ust. 1, oraz jednoczesny przejazd pojazdu nienormatywnego bez zezwolenia kategorii V, o którym mowa w art. 64d ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, albo z przekroczonymi parametrami technicznymi pojazdu wskazanymi w tym zezwoleniu , w zakresie dopuszczalnego nacisku pojedynczej osi napędowej, przekazuje protokół, o którym mowa w art. 41c ust. 3, właściwemu ze względu na miejsce przeprowadzanej kontroli organowi Inspekcji Transportu Drogowego.
 
 10. Karę pieniężną, o której mowa w ust. 1, nakłada się na podmiot wykonujący:
 
@@ -104,17 +173,15 @@ o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 14. W przypadku gdy zostanie stwierdzona okoliczność uzasadniająca nałożenie kary pieniężnej, o której mowa w ust. 1, na zagraniczny podmiot mający siedzibę albo miejsce zamieszkania w państwie, z którym Rzeczpospolita Polska nie jest związana umową lub porozumieniem o współpracy we wzajemnym dochodzeniu należności, albo możliwość egzekucji należności nie wynika wprost z przepisów międzynarodowych oraz przepisów tego państwa, kontrolujący pobiera kaucję w wysokości odpowiadającej przewidywanej karze pieniężnej. Przepisy art. 13m ust. 3–10 stosuje się odpowiednio.
 
-15. W przypadku naruszenia zakazu, o którym mowa w art. 41 ust. 2 albo art. 41a ust. 1, albo przekroczenia dopuszczalnego nacisku pojedynczej osi napędowej, o którym mowa w art. 41b ust. 3, nie stosuje się przepisu art. 92 § 1 ustawy z dnia 20 maja 1971 r. Kodeks wykroczeń (Dz. U. z 2019 r. poz. 821, z późn. zm. ).
+15. W przypadku naruszenia zakazu, o którym mowa w art. 41 ust. 2 albo art. 41a ust. 1, albo przekroczenia dopuszczalnego nacisku pojedynczej osi napędowej, o którym mowa w art. 41b ust. 3, nie stosuje się przepisu art. 92 § 1 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2019 r. poz. 821, z późn. zm.). Na drogach publicznych nie stosuje się znaków ograniczających dopuszczalny nacisk pojedynczej osi napędowej innych niż określone w art. 41 ust. 3 pkt 1 i ust. 15 oraz wart. 41a ust. 2. ” .
 
-**Art. 41e.** Na drogach publicznych nie stosuje się znaków ograniczających dopuszczalny nacisk pojedynczej osi napędowej innych niż określone w art. 41 ust. 3 pkt 1 i ust. 15 oraz w art. 41a ust. 2.”.
+**Art. 2.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695, 1298 i 2320) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695, 1298 i 2320) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, 284, 568, 695, 1087 i 1517) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, 284, 568, 695, 1087 i 1517) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325 oraz z 2020 r. poz. 2299 i 2320) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325 oraz z 2020 r. poz. 2299 i 2320) wprowadza się następujące zmiany:
-
-**Art. 5.** W ustawie z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2020 r. poz. 1430, 1747 i 2338) w art. 24 w ust. 1 pkt 3 otrzymuje brzmienie: „3) podnoszenie standardów technicznych dróg powiatowych i dróg gminnych, w szczególności dostosowanie ich do ruchu pojazdów o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t, oraz zachowanie jednorodności sieci dróg powiatowych i dróg gminnych pod względem spełniania tych standardów;”.
+**Art. 5.** W ustawie z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2020 r. poz. 1430, 1747 i 2338) w art. 24 w ust. 1 pkt 3 otrzymuje brzmienie: „
 
 **Art. 6.**
 
@@ -124,7 +191,7 @@ o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 **Art. 7.**
 
-1. Do postępowań w sprawie wydania zezwolenia na przejazd pojazdu nienormatywnego kategorii II–VII, o których mowa w art. 64b–64d ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+1. Do postępowań w sprawie wydania zezwolenia na przejazd pojazdu nienormatywnego kategorii II-VII, o których mowa w art. 64b-64d ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 2. Postępowania w sprawie wydania zezwolenia na przejazd pojazdu nienormatywnego kategorii IV i VI, o których mowa w art. 64c ust. 1 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, obejmujące wyłącznie możliwość ruchu pojazdu o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t, wszczęte i niezakończone decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, umarza się.
 
@@ -161,7 +228,7 @@ o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 **Art. 14.**
 
-1. Do postępowań przed sądami administracyjnymi dotyczących decyzji w sprawie wydania zezwolenia na przejazd pojazdu nienormatywnego kategorii II–VII, o których mowa w art. 64b–64d ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, wszczętych i niezakończonych prawomocnym orzeczeniem przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+1. Do postępowań przed sądami administracyjnymi dotyczących decyzji w sprawie wydania zezwolenia na przejazd pojazdu nienormatywnego kategorii II-VII, o których mowa w art. 64b-64d ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, wszczętych i niezakończonych prawomocnym orzeczeniem przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 2. Do postępowań przed sądami administracyjnymi dotyczących decyzji w sprawie wydania zezwolenia na przejazd pojazdu nienormatywnego kategorii IV i VI, o których mowa w art. 64c ust. 1 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, obejmujących wyłącznie możliwość ruchu pojazdu o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t, wszczętych i niezakończonych prawomocnym orzeczeniem przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
 
@@ -211,12 +278,12 @@ o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 9. Zwrot następuje w terminie 14 dni od dnia, w którym decyzja skutkująca koniecznością zwrotu środków zapłaconych lub ściągniętych od strony w wyniku wykonania decyzji ostatecznej, o której mowa w ust. 1, stała się ostateczna z:
 
-- **1)** budżetu właściwej jednostki samorządu terytorialnego w przypadku gdy środki z tytułu uiszczonej opłaty albo nałożonej kary wpłynęły do tego budżetu na podstawie art. 64g ust. 1 pkt 1, 2 i 4 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym albo art. 140ae ust. 1 ustawy zmienianej w art. 3;
-- **2)** Krajowego Funduszu Drogowego, o którym mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2020 r. poz. 2268) w przypadku gdy środki z tytułu uiszczonej opłaty albo nałożonej kary wpłynęły do tego funduszu na podstawie art. 64g ust. 2 ustawy zmienianej w art. 3 albo art. 140ae ust. 2 ustawy zmienianej w art. 3.
+- **1)** budżetu właściwej jednostki samorządu terytorialnego – w przypadku gdy środki z tytułu uiszczonej opłaty albo nałożonej kary wpłynęły do tego budżetu na podstawie art. 64g ust. 1 pkt 1, 2 i 4 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym albo art. 140ae ust. 1 ustawy zmienianej w art. 3;
+- **2)** Krajowego Funduszu Drogowego, o którym mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2020 r. poz. 2268) – w przypadku gdy środki z tytułu uiszczonej opłaty albo nałożonej kary wpłynęły do tego funduszu na podstawie art. 64g ust. 2 ustawy zmienianej w art. 3 albo art. 140ae ust. 2 ustawy zmienianej w art. 3.
 
-10. Postępowania wszczęte na podstawie działu II rozdziału 12 i rozdziału 13 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695, 1298 i 2320) w sprawach zakończonych decyzjami ostatecznymi, o których mowa w ust. 1, w związku z orzeczeniem Trybunału Sprawiedliwości Unii Europejskiej, o którym mowa w ust. 1, i niezakończone decyzją ostateczną lub prawomocną przed dniem wejścia w życie niniejszej ustawy, stają się postępowaniami w sprawie wznowienia postępowania, do których stosuje się ust. 2 i 6–9.
+10. Postępowania wszczęte na podstawie działu II rozdziału 12 i rozdziału 13 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695, 1298 i 2320) w sprawach zakończonych decyzjami ostatecznymi, o których mowa w ust. 1, w związku z orzeczeniem Trybunału Sprawiedliwości Unii Europejskiej, o którym mowa w ust. 1, i niezakończone decyzją ostateczną lub prawomocną przed dniem wejścia w życie niniejszej ustawy, stają się postępowaniami w sprawie wznowienia postępowania, do których stosuje się ust. 2 i 6–9.
 
-11. W zakresie nieuregulowanym w ust. 1–10, do postępowań, o których mowa w ust. 1 i 10, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+11. W zakresie nieuregulowanym w ust. 1–10, do postępowań, o których mowa w ust. 1 i 10, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 19.**
 
@@ -234,14 +301,14 @@ o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 7. Zwrot następuje w terminie 14 dni od dnia, w którym orzeczenie skutkujące koniecznością zwrotu środków zapłaconych lub ściągniętych od strony w wyniku wykonania decyzji ostatecznej albo prawomocnego orzeczenia, o którym mowa w ust. 1, stało się prawomocne z:
 
-- **1)** budżetu właściwej jednostki samorządu terytorialnego w przypadku gdy środki z tytułu uiszczonej opłaty albo nałożonej kary wpłynęły do tego budżetu na podstawie art. 64g ust. 1 pkt 1, 2 i 4 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym albo art. 140ae ust. 1 ustawy zmienianej w art. 3;
-- **2)** Krajowego Funduszu Drogowego, o którym mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym w przypadku gdy środki z tytułu uiszczonej opłaty albo nałożonej kary wpłynęły do tego funduszu na podstawie art. 64g ust. 2 ustawy zmienianej w art. 3 albo art. 140ae ust. 2 ustawy zmienianej w art. 3.
+- **1)** budżetu właściwej jednostki samorządu terytorialnego – w przypadku gdy środki z tytułu uiszczonej opłaty albo nałożonej kary wpłynęły do tego budżetu na podstawie art. 64g ust. 1 pkt 1, 2 i 4 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym albo art. 140ae ust. 1 ustawy zmienianej w art. 3;
+- **2)** Krajowego Funduszu Drogowego, o którym mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym – w przypadku gdy środki z tytułu uiszczonej opłaty albo nałożonej kary wpłynęły do tego funduszu na podstawie art. 64g ust. 2 ustawy zmienianej w art. 3 albo art. 140ae ust. 2 ustawy zmienianej w art. 3.
 
-8. W zakresie nieuregulowanym w ust. 1–7, do postępowania, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325 oraz z 2020 r. poz. 2299 i 2320).
+8. W zakresie nieuregulowanym w ust. 1–7, do postępowania, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325 oraz z 2020 r. poz. 2299 i 2320).
 
 **Art. 20.** Znaki kierunku i miejscowości wskazujące numer i rodzaj (kategorię) drogi, oznaczające zarazem dopuszczalny nacisk pojedynczej osi pojazdu poruszającego się tą drogą, zgodnie z art. 41 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, umieszczone na drogach publicznych przed dniem wejścia w życie niniejszej ustawy mogą pozostać na drogach publicznych do czasu ustalenia organizacji ruchu przewidującej wymianę tych znaków.
 
 **Art. 21.** W przypadku gdy w dniu wejścia w życie niniejszej ustawy przeprowadza się nabór wniosków na dofinansowanie zadań powiatowych oraz zadań gminnych, o którym mowa w art. 21 ust. 1 lub 4 ustawy zmienianej w art. 5, do oceny tych wniosków stosuje się art. 24 ust. 1 pkt 3 ustawy zmienianej w art. 5 w brzmieniu dotychczasowym.
 
-**Art. 22.** Ustawa wchodzi w życie po upływie 60 dni od dnia ogłoszenia, z wyjątkiem art. 2, art. 4, art. 18 i art. 19, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda „Załącznik nr 1 KATEGORIE ZEZWOLEŃ NA PRZEJAZD POJAZDU NIENORMATYWNEGO Zezwolenie Pojazdy nienormatywne Drogi o długości, wysokości, naciskach osi oraz rzeczywistej masie całko- publiczne, z wyjątkiem Kategoria I witej nie większych od dopuszczalnych, ekspresowych i autoo szerokości nieprzekraczającej 3,5 m; strad o naciskach osi i rzeczywistej masie całkowitej nie większych od publiczne dopuszczalnych, o szerokości nieprzekraczającej 3,2 m, Kategoria II o długości nieprzekraczającej: 15 m dla pojedynczego pojazdu, 23 m dla zespołu pojazdów, o wysokości nieprzekraczającej 4,3 m; o rzeczywistej masie całkowitej oraz naciskach osi nie większych od Kategoria III dopuszczalnych, krajowe o szerokości nieprzekraczającej 3,4 m, o długości nieprzekraczającej: 15 m dla pojedynczego pojazdu, 23 m dla zespołu pojazdów, 30 m dla zespołu pojazdów o skrętnych osiach, o wysokości nieprzekraczającej 4,3 m; o szerokości nieprzekraczającej: publiczne 3,4 m dla drogi jednojezdniowej, 4 m dla drogi dwujezdniowej klasy A i S, o długości nieprzekraczającej: Kategoria IV 15 m dla pojedynczego pojazdu, 23 m dla zespołu pojazdów, 30 m dla zespołu pojazdów o skrętnych osiach, o wysokości nieprzekraczającej 4,3 m, o rzeczywistej masie całkowitej nieprzekraczającej 60 t, o naciskach osi nie większych od dopuszczalnych; o wymiarach oraz rzeczywistej masie całkowitej większych od wy- wyznaczona trasa Kategoria V mienionych w kategoriach I–IV, wskazana w zezwoleo naciskach osi przekraczających wielkości dopuszczalne. niu”
+**Art. 22.** Ustawa wchodzi w życie po upływie 60 dni od dnia ogłoszenia, z wyjątkiem art. 2, art. 4, art. 18 i art. 19, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. Załącznik – patrz oryginał
 

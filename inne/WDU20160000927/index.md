@@ -8,9 +8,10 @@ pos: 927
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 czerwca 2016 r.
+# Ustawa z dnia 13 maja 2016 r. o dokończeniu budowy Zbiornika Wodnego Świnna Poręba
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +25,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000927) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/927/text.pdf) |
 
-USTAWA z dnia 13 maja 2016 r.
-o dokończeniu budowy Zbiornika Wodnego Świnna Poręba
+Załącznik – Planowane nakłady finansowe (w tys. zł) na dokończenie budowy Zbiornika Wodnego Świnna Poręba z podziałem na zadania oraz lata ich realizacji
 
 **Art. 1.** Ustawa określa zasady dokończenia budowy Zbiornika Wodnego Świnna Poręba, zwanego dalej „Zbiornikiem”.
 
@@ -37,10 +37,10 @@ o dokończeniu budowy Zbiornika Wodnego Świnna Poręba
 
 1. Łączne nakłady finansowe na dokończenie budowy Zbiornika nie mogą przekroczyć kwoty 53 230 tys. zł, w tym w roku:
 
-- **1)** 2016 kwoty 46 530 tys. zł,
-- **2)** 2017 kwoty 6700 tys. zł ustalonej w cenach zadań z 2016 r.
+- **1)** 2016 – kwoty 46 530 tys. zł,
+- **2)** 2017 – kwoty 6700 tys. zł ustalonej w cenach zadań z 2016 r.
 
-2. Dokończenie budowy Zbiornika jest finansowane ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, z tym że realizacja zadania, o którym mowa w art. 3 pkt 3, jest finansowana ze środków przeznaczonych na ten cel zgodnie z art. 401c ust. 2 pkt 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2016 r. poz. 672, 831 i 903).
+2. Dokończenie budowy Zbiornika jest finansowane ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, z tym że realizacja zadania, o którym mowa w art. 3 pkt 3, jest finansowana ze środków przeznaczonych na ten cel zgodnie z art. 401c ust. 2 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2016 r. poz. 672, 831 i 903).
 
 3. Planowane nakłady finansowe na dokończenie budowy Zbiornika z podziałem na zadania oraz lata ich realizacji określa załącznik do ustawy.
 
@@ -48,7 +48,7 @@ o dokończeniu budowy Zbiornika Wodnego Świnna Poręba
 
 **Art. 6.**
 
-1. Przekazanie środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej na finansowanie dokończenia budowy Zbiornika odbywa się w formie dotacji w rozumieniu art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+1. Przekazanie środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej na finansowanie dokończenia budowy Zbiornika odbywa się w formie dotacji w rozumieniu art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 2. Środki, o których mowa w ust. 1, są przekazywane na podstawie umowy zawartej przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej z podmiotem, o którym mowa w art. 5, na wyodrębniony rachunek tego podmiotu, zwany dalej „rachunkiem”.
 
@@ -62,5 +62,5 @@ o dokończeniu budowy Zbiornika Wodnego Świnna Poręba
 
 2. Minister właściwy do spraw gospodarki wodnej przedkłada Radzie Ministrów oraz Sejmowi Rzeczypospolitej Polskiej, nie później niż do dnia 31 maja roku kalendarzowego, roczną informację o realizacji zadań określonych w ustawie za rok ubiegły.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda PLANOWANE NAKŁADY FINANSOWE (W TYS. ZŁ) NA DOKOŃCZENIE BUDOWY ZBIORNIKA WODNEGO ŚWINNA PORĘBA Z PODZIAŁEM NA ZADANIA ORAZ LATA ICH REALIZACJI Zadania 2016 r. 2017 r. Razem Zadanie I Zbiornik 6 930 0 6 930 Zadanie II Przebudowa dróg 20 600 0 20 600 Zadanie III Przeciwdziałanie osuwiskom ziemi i likwidowanie 19 000 6 700 25 700 ich skutków dla środowiska Suma 46 530 6 700 53 230
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Załącznik – Planowane nakłady finansowe (w tys. zł) na dokończenie budowy Zbiornika Wodnego Świnna Poręba z podziałem na zadania oraz lata ich realizacji patrz oryginał
 

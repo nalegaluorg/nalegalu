@@ -8,9 +8,10 @@ pos: 185
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ustawa z dnia 15 lutego 2002 r. o zmianie ustawy o podatku od towarów i usług oraz o podatku akcyzowym, o zmianie ustawy o Policji oraz o zmianie ustawy - Kodeks wykroczeń.
+# Ustawa z dnia 15 lutego 2002 r. o zmianie ustawy o podatku od towarów i usług oraz o podatku akcyzowym, o zmianie ustawy o Policji oraz o zmianie ustawy – Kodeks wykroczeń
 
 | Pole | Wartość |
 |---|---|
@@ -24,29 +25,241 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020190185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/185/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 8 stycznia 1993 r. opodatku od towarów i usług oraz o podatku akcyzowym (Dz.U. 11, poz. 50, 28, poz. 127 iNr 129, poz. 599, z 1994 r. 132, poz. 670, z 1995 r. 44, poz. 231 i 142, poz. 702 i 703, z 1996 r. 137, poz. 640, z1997r. 111, poz. 722, 123, poz. 776 i780, 137, poz. 926, 141, poz. 943 iNr 162, poz. 1104, z1998 r. 139, poz. 905 i 161, poz. 1076, z 1999 r. 50, poz. 499, 57, poz. 596 i 95, poz. 1100, z 2000 r. Nr68, poz. 805 iNr 105, poz. 1107 oraz z2001 r. 12, poz. 92, 39, poz. 459, 56, poz. 580, 63, poz. 639, 80, poz. 858, 90, poz. 995, 106, poz. 1150 i 122, poz. 1324) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, Nr 28, poz. 127 i Nr 129, poz. 599, z 1994 r. Nr 132, poz. 670, z 1995 r. Nr 44, poz. 231 i Nr 142, poz. 702 i 703, z 1996 r. Nr 137, poz. 640, z 1997 r. Nr 111, poz. 722, Nr 123, poz. 776 i 780, Nr 137, poz. 926, Nr 141, poz. 943 i Nr 162, poz. 1104, z 1998 r. Nr 139, poz. 905 i Nr 161, poz. 1076, z 1999 r. Nr 50, poz. 499, Nr 57, poz. 596 i Nr 95, poz. 1100, z 2000 r. Nr 68, poz. 805 i Nr 105, poz. 1107 oraz z 2001 r. Nr 12, poz. 92, Nr 39, poz. 459, Nr 56, poz. 580, Nr 63, poz. 639, Nr 80, poz. 858, Nr 90, poz. 995, Nr 106, poz. 1150 i Nr 122, poz. 1324) wprowadza się następujące zmiany:
 
-**Art. 2.**
+**Art. 4a.**
 
-1. Do czasu wydania przepisów wykonawczych na podstawie upoważnień zmienionych niniejszą ustawą zachowują moc przepisy dotychczasowe, jeżeli nie są one sprzeczne z przepisami ustawy zmienianej wart. 1.
+1. W przypadku świadczenia usług, o których mowa w art. 4 pkt 2 lit. c)-e), przez osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne mające siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej na rzecz:
 
-2. Przepisów art. 1 pkt 2 i 3 nie stosuje się w okresie 2 lat od dnia wejścia w życie ustawy do licencji i sublicencji udzielonych na podstawie umów zawartych przed dniem wejścia wżycie ustawy, bez uwzględniania zmian tych umów dokonanych po tym dniu.
+- **1)** osób prawnych, jednostek organizacyjnych niemających osobowości prawnej oraz osób fizycznych mających siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej – miejscem świadczenia usług jest miejsce, gdzie świadczący usługę posiada siedzibę lub miejsce zamieszkania,
+- **2)** osób prawnych, jednostek organizacyjnych niemających osobowości prawnej oraz osób fizycznych mających siedzibę lub miejsce zamieszkania poza granicami Rzeczypospolitej Polskiej – miejscem świadczenia usług jest miejsce, gdzie nabywca usługi posiada siedzibę lub miejsce zamieszkania, z zastrzeżeniem ust. 2.
 
-3. Przepis ust. 2 ma zastosowanie wyłącznie pod warunkiem, że umowy zostały zarejestrowane we właściwym urzędzie skarbowym wterminie 30 dni od dnia wejścia wżycie ustawy. Licencje isublicencje, udzielone na podstawie umów zawartych przed dniem wejścia w życie ustawy i niezarejestrowane w urzędzie, traktuje się jako licencje i sublicencje, udzielone na podstawie umów zawartych począwszy od dnia wejścia wżycie ustawy.
+2. W przypadku, o którym mowa w ust. 1 pkt 2, jeżeli nabywca usługi jest podatnikiem podatku od towarów i usług w Polsce, miejscem świadczenia usług jest miejsce, gdzie nabywca prowadzi działalność, z którą związana jest ta usługa.
 
-4. Przepisy ust. 2 i3 stosuje się odpowiednio do oddania do używania wspólnego znaku towarowego albo wspólnego znaku towarowego gwarancyjnego oraz do
+3. W przypadku świadczenia usług, o których mowa w art. 4 pkt 2 lit. c)-e), przez osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne mające siedzibę lub miejsce zamieszkania poza granicami Rzeczypospolitej Polskiej na rzecz osób prawnych, jednostek organizacyjnych niemających osobowości prawnej oraz osób fizycznych mających siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej lub na rzecz podmiotów prowadzących działalność na terytorium Rzeczypospolitej Polskiej, z którą związana jest ta usługa – miejscem świadczenia tych usług jest miejsce, gdzie nabywca posiada siedzibę lub miejsce zamieszkania, lub miejsce, gdzie prowadzona jest działalność na terytorium Rzeczypospolitej Polskiej, z którą związana jest świadczona usługa. ” ;
 
-5. Wprzypadku gdy podatnik przed dniem wejścia w życie niniejszej ustawy otrzymał część zapłaty nieprzekraczającą połowy należności z tytułu sprzedaży lokalu lub budynku, obowiązek podatkowy od tej części zapłaty powstaje z chwilą otrzymania, po wejściu w życie tej ustawy, pierwszej zapłaty, nie póêniej jednak niż zchwilą wydania.
+- **4)** w art. 5: po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **a)**
 
-6. Przepis art. 1 pkt 6 lit. b) stosuje się w sytuacji, gdy wydatki, o których mowa w tym przepisie, zostały poniesione począwszy od dnia wejścia wżycie ustawy.
+4a. W przypadku gdy podatnik nabywa usługi, o których mowa w art. 4 pkt 2 lit. c)-e), we własnym imieniu, ale na rzecz innego podmiotu, a usługa jest świadczona bezpośrednio temu podmiotowi – uznaje się, że podatnik ten nabywa i świadczy tę usługę. ” , w ust. 5 po wyrazach „ust. 1 pkt 4” dodaje się wyrazy „ , uwzględniając w szczególności:
 
-7. Przepis art. 1 pkt 16 lit. a) tiret trzecie stosuje się począwszy od rozliczeń za miesiąc, w którym ustawa weszła wżycie.
+- **b)**
+- **1)** założenia ustawy budżetowej, w szczególności dotyczące dochodów z tytułu podatku od towarów i usług,
+- **2)** przebieg realizacji budżetu państwa,
+- **3)** sytuację gospodarczą państwa,
+- **4)** specyfikę wykonywania usług transportowych ” ;
+- **5)** w art. 6: w ust. 1 po wyrazach „ust. 2–10” dodaje się wyrazy „oraz art. 35 ust. 2a-6”, po ust. 7a dodaje się ust. 7b w brzmieniu: „
+    - **a)**
+    - **b)**
 
-8. Przepisy art. 1 pkt 18 lit. a)—c) stosuje się począwszy od rozliczeń za miesiąc następujący po miesiącu wejścia wżycie ustawy. upoważnienia do korzystania zlicencji.
+7b. W przypadku sprzedaży lokali i budynków, obowiązek podatkowy powstaje z chwilą otrzymania całości lub części zapłaty, nie później jednak niż 30 dnia od dnia wydania. ” , w ust. 8 po wyrazach „przyjęcia zapłaty” dodaje się wyrazy „, z zastrzeżeniem ust. 7b, ust. 8b pkt 2–4, 7 i 9–13 oraz ust. 8c i 8d”, po ust. 8a dodaje się ust. 8b-8e w brzmieniu: „
 
-**Art. 3.** Wustawie zdnia 6 kwietnia 1990 r. oPolicji (Dz. U. z2002 r. 7, poz. 58) wart. 15:
+- **c)**
+- **d)**
 
-**Art. 4.** Wustawie zdnia 20 maja 1971 r. Kodeks wykroczeń (Dz. U. 12, poz. 114, z 1981 r. 24, poz.124, z1982 r. 16, poz. 125, z1983 r. 6, poz. 35 iNr 44, poz. 203, z1984 r. 54, poz. 275, z1985 r. Nr14, poz. 60 i 23, poz. 100, z 1986 r. 39, poz. 193, poz. 180, z 1990 r. 51, poz. 297, 72, poz. 422 i 86, poz. 504, z 1991 r. 75, poz. 332 i 91, poz. 408, z 1992 r. 24, poz. 101, z 1994 r. 123, poz.600, z1995 r. 6, poz. 29 iNr 60, poz. 310, z1997r. 54, poz. 349, 60, poz. 369, 85, poz. 539, 98, poz. 602, 104, poz. 661, 106, poz. 677, 111, poz. 724, 123, poz. 779, 133, poz. 884 i 141, poz. 942, z 1998 r. 113, poz. 717, z 1999 r. 83, poz. 931 i 101, poz. 1178, z 2000 r. 22, poz. 271, 73, poz. 852, 74, poz. 855iNr 117, poz. 1228 oraz z 2001 r. 100, poz. 1081, 106, poz. 1149, 125, poz. 1371, 128, poz. 1409 i 129, poz. 1438) po art.52adodaje się art. 52bwbrzmieniu: ŃArt. 52b. Kto zużywa olej opałowy do celów napędowych,podlega karze grzywny do 500 zł.”
+8b. Obowiązek podatkowy w podatku od towarów i usług powstaje z chwilą:
 
-**Art. 5.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, zwyjątkiem art. 3 i4, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. z1988r. 20, poz. 135 iNr 41, poz. 324, z1989 r. Nr34, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 186 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 26 lutego 2002 r. wsprawie ustanowienia kontyngentów taryfowych na niektóre towary przywożone zzagranicy dla przemysłu farmaceutycznego. Na podstawie art. 14 § 3 pkt 2 ustawy zdnia 9 stycz- § 3. 1. Rozdysponowanie kontyngentów, októrych nia 1997 r. Kodeks celny zarządza się, co następuje: mowa w § 1, jest dokonywane w proporcji do liczby osób składających kompletne wnioski, zzastrzeżeniem § 1. Do dnia 31 grudnia 2002 r. ustanawia się kon- ust.2. tyngenty taryfowe ilościowe na przywóz towarów wymienionych w załączniku do rozporządzenia, dla któ- 2. Wprzypadku gdy zwniosków złożonych wtermirych ustanawia się obniżone zerowe stawki celne. nie 21 dni od dnia wejścia wżycie rozporządzenia wynika zapotrzebowanie niższe niż wielkości ustanowio§ 2. Wzakresie uregulowanym w§ 1 nie stosuje się nych kontyngentów, rozdysponowanie kontyngentów stawek celnych określonych w Taryfie celnej, stano- jest dokonywane według kolejności złożenia kompletwiącej załącznik do rozporządzenia Rady Ministrów nych wniosków. zdnia 11 grudnia 2001 r. wsprawie ustanowienia Taryfy celnej (Dz. U. 146, poz. 1639 i z 2002 r. 1, § 4. Rozporządzenie wchodzi w życie po upływie poz.18). 14dni od dnia ogłoszenia. Prezes Rady Ministrów: L. Miller
+- **1)** upływu terminu płatności, jeżeli został on określony w umowie właściwej dla rozliczeń z tytułu: dostaw energii elektrycznej i cieplnej oraz gazu przewodowego, świadczenia usług telekomunikacyjnych i radiokomunikacyjnych, z zastrzeżeniem ust. 9a, świadczenia usług wymienionych w poz. 84–86 załącznika nr 3 do ustawy,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** otrzymania całości lub części zapłaty, nie później jednak niż 30 dnia od dnia wykonania usług: przewozu osób i ładunków kolejami, taborem samochodowym, statkami pełnomorskimi, środkami transportu żeglugi śródlądowej i przybrzeżnej, promami, samolotami i śmigłowcami, spedycyjnych i przeładunkowych, w portach morskich i handlowych, budowlanych lub budowlano-montażowych,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **3)** wystawienia faktury lub otrzymania całości lub części zapłaty z tytułu sprzedaży wydawnictw prasowych (SWW 2711) i wydawnictw dziełowych (SWW 2712), nie wcześniej jednak niż w dniu wydania i nie później niż 60 dnia od dnia wydania tych towarów; jeżeli jednak umowa sprzedaży przewiduje rozliczenie zwrotów wydawnictw, obowiązek podatkowy powstaje z chwilą wystawienia faktury dokumentującej faktyczną sprzedaż, nie później niż po upływie 120 dni od pierwszego dnia przekazania do sprzedaży tych wydawnictw,
+- **4)** otrzymania całości lub części zapłaty, nie później jednak niż z upływem terminu płatności – z tytułu świadczenia w kraju usług najmu, dzierżawy, leasingu lub usług o podobnym charakterze, a także usług ochrony osób oraz usług ochrony, dozoru i przechowywania mienia, usług w zakresie pośrednictwa ubezpieczeniowego oraz usług stałej obsługi prawnej i biurowej, z zastrzeżeniem pkt 5 i 6,
+- **5)** dokonania całości lub części zapłaty, nie później jednak niż 30 dnia od dnia wykonania usługi z tytułu importu usług, z zastrzeżeniem pkt 6 i 14,
+- **6)** dokonania całości lub części zapłaty, nie później jednak niż z upływem terminu płatności – z tytułu importu usług najmu, dzierżawy, leasingu lub umów o podobnym charakterze,
+- **7)** otrzymania całości lub części zapłaty albo otrzymania towaru – z tytułu eksportu usług, z wyłączeniem usług wymienionych w pkt 2 lit. a) i b),
+- **8)** wystawienia faktury, nie później jednak niż 15 dnia od dnia wykonania usługi – z tytułu usług zagranicznej turystyki wyjazdowej i zagranicznej turystyki przyjazdowej, z wyłączeniem usług, o których mowa w art. 16 ust. 1a,
+- **9)** otrzymania całości lub części zapłaty z tytułu sprzedaży złomu stalowego i żeliwnego, złomu metali nieżelaznych, z wyłączeniem złomu metali szlachetnych: niewsadowego – nie później jednak niż 20 dnia od dnia wysyłki złomu do jednostki, która zgodnie z umową dokonuje kwalifikacji jakości, wsadowego – nie później jednak niż 30 dnia od dnia wysyłki złomu,
+    - **a)**
+    - **b)**
+
+- **10)** otrzymania zapłaty – w przypadku sprzedaży wysyłkowej dokonywanej za zaliczeniem pocztowym,
+- **11)** otrzymania całości lub części zapłaty, nie później jednak niż z dniem wystawienia faktury – z tytułu usług komunikacji miejskiej,
+- **12)** otrzymania całości lub części zapłaty z tytułu usług polegających na drukowaniu wydawnictw dziełowych (SWW 2712) i wydawnictw prasowych (SWW 2711), oznaczonych stosowanymi na podstawie odrębnych przepisów symbolami ISBN i ISSN, nie później jednak niż 90 dnia od dnia wykonania usługi,
+- **13)** otrzymania całości lub części zapłaty, nie później jednak niż z upływem terminu płatności – z tytułu świadczenia w kraju usług, o których mowa w art. 4 pkt 2 lit. c)-e), z zastrzeżeniem pkt 14,
+- **14)** dokonania całości lub części zapłaty, nie później jednak niż z upływem terminu płatności – z tytułu importu usług, o których mowa w art. 4 pkt 2 lit. c)-e).
+
+8c. Przepis ust. 8b pkt 2 lit. d) stosuje się również do usług wykonywanych częściowo, których odbiór jest dokonywany na podstawie protokołów zdawczo-odbiorczych.
+
+8d. W przypadkach określonych w ust. 7b, ust. 8b pkt 2–4, 7, 9 i 11–13 otrzymanie części zapłaty, a w przypadkach określonych w ust. 8b pkt 5, 6 i 14 – uiszczenie części zapłaty, powoduje powstanie obowiązku podatkowego w tej części; dotyczy to również zadatków, zaliczek, przedpłat i rat, także otrzymanych przed wydaniem towaru lub wykonaniem usługi.
+
+8e. W przypadkach gdy czynności, o których mowa w ust. 8b pkt 4, 10, 11 i 13, są świadczone bez pobrania należności, obowiązek podatkowy powstaje zgodnie z ust. 1–6. ” , w ust. 9a po wyrazie „żetonów” dodaje się wyrazy „i kart telefonicznych – w przypadku, gdy usługa jest realizowana za pomocą żetonów i kart”, ust. 10 otrzymuje brzmienie: „
+
+- **e)**
+- **f)**
+
+10. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, późniejsze niż wymienione w ust. 1–9a terminy powstania obowiązku podatkowego, uwzględniając w szczególności specyfikę wykonywania niektórych czynności oraz uwarunkowania obrotu gospodarczego niektórymi towarami. ” ;
+
+- **6)** w art. 7: w ust. 1: – w pkt 5 wyrazy „także darowizny tych towarów” zastępuje się wyrazami „z wyjątkiem importu”, – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) przeniesienie własności nieruchomości na rzecz Skarbu Państwa w zamian za zaległości podatkowe z tytułu podatków stanowiących dochody budżetu państwa, ” po ust. 2d dodaje się ust. 2e w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2e. Zwolnienia, o którym mowa w ust. 1 pkt 5, nie stosuje się do sprzedaży towarów wymienionych w art. 4 pkt 7 lit. a), jeżeli przed wprowadzeniem do ewidencji środków trwałych lub w trakcie użytkowania wydatki poniesione przez podatnika na ulepszenie, w rozumieniu przepisów o podatku dochodowym, stanowiły co najmniej 30% wartości początkowej, a podatnik:
+
+- **1)** miał prawo do obniżenia podatku należnego o podatek naliczony od tych wydatków,
+- **2)** użytkował te towary w okresie krótszym niż 5 lat w celu wykonywania czynności opodatkowanych. ” ;
+- **7)** w art. 9 dodaje się ust. 12 w brzmieniu: „
+
+12. Minister właściwy do spraw finansów publicznych przy wydawaniu rozporządzeń, o których mowa w ust. 11, uwzględnia możliwość prawidłowej identyfikacji podatników. ” ;
+
+- **8)** w art. 10: w ust. 3 wyrazy „23 pkt 2–4” zastępuje się wyrazami „23 ust. 1 pkt 2–4”, po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+3a. Przepisu ust. 1 nie stosuje się w zakresie deklaracji dla podatku akcyzowego do podatników podatku akcyzowego:
+
+- **1)** wykonujących czynności dotyczące wyrobów akcyzowych wyłącznie zwolnionych od podatku akcyzowego na podstawie art. 37 ust. 2 pkt 2,
+- **2)** zwolnionych od tego podatku na podstawie przepisów wydanych na podstawie art. 38 ust. 2 pkt 2a. ” ;
+- **9)** w art. 11 w ust. 7 po wyrazach „wzór i rodzaj” dodaje się wyrazy „, uwzględniając szczególne przypadki obliczania i poboru podatku przez organy celne.”;
+- **10)** skreśla się art. 12;
+- **11)** w art. 14 w ust. 1b w pkt 1 w lit. a) tiret szóste otrzymuje brzmienie: „ – mycia oraz smarowania samochodów i motocykli oraz innych usług niezwiązanych z ich naprawą, ” ;
+- **12)** w art. 14a w ust. 7 pkt 1 otrzymuje brzmienie: „
+- **1)** podatku akcyzowego, z wyjątkiem podatników, o których mowa w art. 35 ust. 1 pkt 3, sprzedających wyroby wymienione w załączniku nr 6 w poz. 2a, 8, 9 i 11, ” ;
+- **13)** w art. 15 po ust. 4c dodaje się ust. 4d w brzmieniu: „
+
+4d. Do podstawy opodatkowania, o której mowa w ust. 4, 4a i 4b, dolicza się określone w odrębnych przepisach opłaty oraz inne należności, jeżeli organy celne mają obowiązek pobierać te należności z tytułu importu towarów. ” ;
+
+- **14)** w art. 16: w ust. 1 w pkt 2 po wyrazach „zmniejszona o kwotę podatku” dodaje się wyrazy „, z zastrzeżeniem ust. 1a”, po ust. 1 dodaje się ust. la w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. W przypadku gdy usługi, o których mowa w ust. 1 pkt 2, są świadczone na rzecz podmiotów mających miejsce zamieszkania lub siedzibę za granicą i dotyczą usług turystyki, a zleceniodawca nie jest zarejestrowanym podatnikiem podatku od towarów i usług i nie zapłacił podatku od tych usług lub jest zarejestrowanym podatnikiem, ale nie zapłacił należnego podatku – podstawą opodatkowania jest kwota należna od całej wartości usługi turystyki, pomniejszona o kwotę należnego podatku. ” , w ust. 2 wyrazy „art. 15 ust. 4, 4a, 4b, 4c i 5” zastępuje się wyrazami „art. 15 ust. 4, 4a-4d i 5”;
+
+- **c)**
+- **15)** w art. 17 w ust. 5 po wyrazach „w art. 5 ust. 2” dodaje się wyrazy „, z wyjątkiem przypadków, gdy obroty zakładu, na rzecz którego jest dokonywane odpłatne przekazanie towarów oraz świadczenie usług, zwolnione od podatku na podstawie art. 7 lub art. 47 ustawy, stanowiły w okresie 6 miesięcy poprzedzających miesiąc, w którym dokonano takiego przekazania, co najmniej 50% całości obrotu w tym okresie, a ponadto w przypadku odpłatnego przekazania towarów, jeżeli stosowane ceny są niższe od cen nabycia o więcej niż 10%”;
+- **16)** w art. 19: w ust. 3: – w pkt 1 wyrazy „z zastrzeżeniem pkt 2 i 3” zastępuje się wyrazami „z zastrzeżeniem pkt 2–4”, – pkt 2 otrzymuje brzmienie: „ 2) w przypadku importu usług – w rozliczeniu za miesiąc następujący po miesiącu, w którym powstał obowiązek podatkowy w podatku należnym od importu usług, z tym że u podatników, o których mowa w art. 14a – w miesiącu, w którym powstał obowiązek podatkowy w podatku należnym od importu tych usług, ” – dodaje się pkt 4 w brzmieniu: „ 4) w przypadku stosowania w imporcie towarów procedury uproszczonej, o której mowa w art. 80 § 1 pkt 3 Kodeksu celnego – nie wcześniej niż w rozliczeniu za miesiąc, w którym podatnik dokonał wpisu do rejestru, i nie później niż w rozliczeniu za miesiąc następny; obniżenie kwoty podatku należnego następuje pod warunkiem dokonania przez podatnika zapłaty podatku wykazanego w tym rejestrze. ” , ust. 3b otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3b. Jeżeli podatnik nie dokonał obniżenia kwoty podatku należnego o kwotę podatku naliczonego w terminach, o których mowa w ust. 3, może obniżyć kwotę podatku należnego przez dokonanie korekty deklaracji dla podatku od towarów i usług za okresy wskazane w ust. 3, jednak nie później niż w ciągu roku, licząc od pierwszego dnia miesiąca następującego po miesiącu, w którym podatnik nabył prawo do obniżenia kwoty podatku należnego. ” , po ust. 3b dodaje się ust. 3c w brzmieniu: „
+
+- **c)**
+
+3c. Korekty, o których mowa w ust. 3b, mogą być dokonane wyłącznie w przypadku, gdy spełnione zostały łącznie następujące warunki:
+
+- **1)** nie zostało wobec podatnika wszczęte postępowanie podatkowe lub postępowanie kontrolne przez urząd skarbowy lub organ kontroli skarbowej za okres, którego dotyczy korekta,
+- **2)** w całości została uregulowana należność obejmująca kwotę podatku z tytułu zakupionych towarów i usług, a w przypadku podatku od importu towarów – kwota podatku wynikająca z dokumentów celnych lub decyzji, o których mowa w art. 11c. ” , dodaje się ust. 5 w brzmieniu: „
+    - **d)**
+
+5. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż określone w ust. 3 terminy obniżenia kwoty podatku należnego, o której mowa w ust. 1, uwzględniając w szczególności specyfikę wykonywania niektórych czynności oraz stosowane techniki dokumentowania rozliczeń w obrocie gospodarczym. ” ;
+
+- **17)** w art. 20 ust. 1 otrzymuje brzmienie: „
+
+1. Podatnik dokonujący sprzedaży towarów opodatkowanych i zwolnionych od podatku obowiązany jest do odrębnego określenia kwot podatku naliczonego, związanych ze sprzedażą opodatkowaną i zwolnioną. ” ;
+
+- **18)** w art. 21: ust. 5 otrzymuje brzmienie: „
+    - **a)**
+
+5. Przepisu ust. 4 nie stosuje się:
+
+- **1)** gdy wysokość zwrotu różnicy podatku jest uzasadniona nabyciem towarów i usług, o których mowa w ust. 3, lub
+- **2)** na umotywowany wniosek podatnika, złożony wraz z deklaracją dla podatku od towarów i usług, jeżeli wysokość zwrotu jest uzasadniona: sezonowością produkcji rolnej, w tym również sezonowością zakupu (skupu) produktów rolnych i sezonowością produkcji rolno-spożywczej, odliczaną od podatku kwotą akcyzy naliczoną przy nabyciu lub imporcie wyrobów akcyzowych, jeżeli należność obejmująca kwotę akcyzy została uregulowana. ” , w ust. 6 wyrazy „w ciągu 25 dni” zastępuje się wyrazami „w terminie 60 dni”, ust. 6a otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+    - **c)**
+
+6a. Na wniosek podatnika urząd skarbowy jest obowiązany zwrócić różnicę podatku w ciągu 25 dni od dnia złożenia rozliczenia, gdy kwoty podatku naliczonego, wykazane w deklaracji, wynikają z:
+
+- **1)** faktur dokumentujących kwoty należności, które zostały w całości zapłacone bezpośrednio podatnikowi będącemu wystawcą faktury, z uwzględnieniem przepisów art. 13 ust. 1 pkt 1 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643 oraz z 2002 r. Nr 1, poz. 2),
+- **2)** dokumentów celnych oraz decyzji, o których mowa w art. 11c, i zostały przez podatnika zapłacone. Przepis ust. 6 zdanie drugie i trzecie stosuje się odpowiednio. ” , w ust. 7 wyrazy „przepisów o zobowiązaniach podatkowych” zastępuje się wyrazami „przepisów Ordynacji podatkowej”, dodaje się ust. 10 w brzmieniu: „
+    - **d)**
+    - **e)**
+
+10. Minister właściwy do spraw finansów publicznych przy wydawaniu rozporządzeń, o których mowa w ust. 9, uwzględnia w szczególności:
+
+- **1)** założenia ustawy budżetowej, w szczególności dotyczące dochodów z tytułu podatku od towarów i usług,
+- **2)** przebieg realizacji budżetu państwa,
+- **3)** sytuację gospodarczą państwa,
+- **4)** specyfikę wykonywania niektórych czynności oraz uwarunkowania obrotu gospodarczego niektórymi towarami. ” ;
+- **19)** w art. 21b w ust. 9 po wyrazach „ust. 7 pkt 5” dodaje się wyrazy „, uwzględniając w szczególności konieczność prawidłowego udokumentowania przyjęcia kaucji”;
+- **20)** w art. 21e po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Przy wydawaniu rozporządzeń, o których mowa w ust. 1, minister właściwy do spraw finansów publicznych uwzględnia w szczególności:
+
+- **1)** prawidłową identyfikację towarów,
+- **2)** możliwość potwierdzania wywozu towarów przez organy celne. ” ;
+- **21)** w art. 23 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Przy wydawaniu rozporządzeń, o których mowa w ust. 1, minister właściwy do spraw finansów publicznych uwzględnia w szczególności:
+
+- **1)** założenia ustawy budżetowej, w szczególności dotyczące dochodów z tytułu podatku od towarów i usług,
+- **2)** przebieg realizacji budżetu państwa,
+- **3)** sytuację gospodarczą państwa,
+- **4)** specyfikę wykonywania niektórych czynności oraz uwarunkowania obrotu gospodarczego niektórymi towarami. ” ;
+- **22)** w art. 24 w ust. 2 po wyrazach „wraz z oprocentowaniem” dodaje się wyrazy „, uwzględniając w szczególności specyfikę wykonywania niektórych czynności oraz uwarunkowania obrotu gospodarczego niektórymi towarami”;
+- **23)** w art. 24a w ust. 2 wyrazy „ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315 oraz z 2001 r. Nr 16, poz. 166 i Nr 39, poz. 459)” zastępuje się wyrazami „Ordynacji podatkowej”;
+- **24)** w art. 25: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) importu usług, w związku z którymi zapłata należności jest dokonywana bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju wymienionych w załączniku nr 9 do ustawy, ” – pkt 3 otrzymuje brzmienie: „ 3) towarów i usług, jeżeli wydatki na ich nabycie nie mogą być zaliczone do kosztów uzyskania przychodów w rozumieniu przepisów o podatku dochodowym, z wyjątkiem przypadków, gdy brak możliwości zaliczenia tych wydatków do kosztów uzyskania przychodów pozostaje w bezpośrednim związku ze zwolnieniem od podatku dochodowego, ” – w pkt 3a po wyrazie „benzynowych” dodaje się wyrazy „, oleju napędowego oraz gazu”, – w pkt 3b lit. a) otrzymuje brzmienie: „ a) przypadków, gdy usługi te zostały nabyte przez podatników świadczących usługi turystyki, jeżeli w skład usługi turystyki wchodzą usługi noclegowe lub gastronomiczne bądź jedne i drugie, ” w ust. 4 po wyrazach „zwrotu różnicy podatku w całości lub w części” dodaje się wyrazy „, a także mając na uwadze uwarunkowania obrotu gospodarczego niektórymi towarami”;
+    - **a)**
+    - **b)**
+
+- **25)** w art. 29: w ust. 2b po wyrazie „rejestrujących” dodaje się wyrazy „zgłoszonych na dzień rozpoczęcia (powstania obowiązku) ewidencjonowania”, w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **1a)** może określić inny, niż wymieniony w ust. 2b, limit odliczeń dla kas o zastosowaniu specjalnym, które programowo, funkcjonalnie i konstrukcyjnie są zintegrowane z innymi urządzeniami, ” po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **c)**
+
+3a. Przy wydawaniu rozporządzeń, o których mowa w ust. 3, minister właściwy do spraw finansów publicznych uwzględnia w szczególności specyfikę wykonywania niektórych czynności oraz uwarunkowania obrotu gospodarczego niektórymi towarami. ” , w ust. 4 po wyrazach „przez podatników” dodaje się wyrazy „ , uwzględniając:
+
+- **d)**
+- **1)** potrzebę zabezpieczenia zewidencjonowanych danych,
+- **2)** konieczność zagwarantowania konsumentowi prawa do otrzymania dowodu nabycia towarów lub usług z uwidocznioną kwotą podatku oraz możliwość kontroli przez klienta czynności dotyczących prawidłowego ewidencjonowania transakcji i wystawiania dowodu potwierdzającego jej wykonanie,
+- **3)** optymalne, również dla danego typu obrotu, rozwiązania techniczne dotyczące konstrukcji kas ” ;
+- **26)** art. 31 otrzymuje brzmienie: „
+
+**Art. 31.** W przypadku świadczenia przez podatnika usług, w tym w zakresie handlu i gastronomii, podatek należny może być obliczany jako iloczyn wartości sprzedaży i stawki:
+
+**Art. 51b.** W okresie do 31 grudnia 2002 r. opodatkowaniu podatkiem według stawki 12% podlegają:
+
+## Załącznik nr 9 — Wykaz krajów (terytoriów), w przypadku których podatek z tytułu importu usług nie obniża kwoty lub nie uprawnia do zwrotu różnicy podatku należnego
+
+Lp. Kraj (terytorium) 1 2 1 Księstwo Andory 2 Anguilla – Autonomiczne Terytorium Zależne Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej 3 Antigua i Barbuda 4 Aruba – Terytorium Autonomiczne Królestwa Niderlandów 5 Wspólnota Bahamów 6 Państwo Bahrajnu 7 Barbados 8 Belize 9 Bermudy – Terytorium Zależne Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej 10 Brytyjskie Wyspy Dziewicze – Terytorium Zależne Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej 11 Wyspy Cooka – Autonomiczne Terytorium Stowarzyszone z Nową Zelandią 12 Wspólnota Dominiki 13 Gibraltar – Terytorium Zależne Korony Brytyjskiej 14 Grenada 15 Guernsey/Sark/Alderney – Terytoria Zależne Korony Brytyjskiej 16 Hongkong – Specjalny Region Administracyjny Chińskiej Republiki Ludowej 17 Jersey – Terytorium Korony Brytyjskiej 18 Kajmany – Terytorium Zależne Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej 19 Republika Liberii 20 Księstwo Liechtensteinu 21 Makau – Specjalny Region Administracyjny Chińskiej Republiki Ludowej 22 Republika Malediwów 23 Wyspy Man – Terytorium Korony Brytyjskiej 24 Republika Wysp Marshalla 25 Republika Mauritius 26 Księstwo Monako 27 Montserrat – Terytorium Zależne Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej 28 Republika Nauru 29 Antyle Holenderskie – Terytorium Autonomiczne Królestwa Niderlandów 30 Niue – Autonomiczne Terytorium Stowarzyszone z Nową Zelandią 31 Republika Panamy 32 Niezależne Państwo Samoa 33 Republika Seszeli 34 Federacja St. Christopher i Nevis 35 Saint Lucia 36 Saint Vincent i Grenadyny 37 Królestwo Tonga 38 Turks i Caicos – Terytorium Zależne Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej 39 Wyspy Dziewicze Stanów Zjednoczonych – Terytorium Nieinkorporowane Stanów Zjednoczonych 40 Republika Vanuatu 41 Zjednoczone Emiraty Arabskie”
+Art. 2.
+1.
+Do czasu wydania przepisów wykonawczych na podstawie upoważnień zmienionych niniejszą ustawą zachowują moc przepisy dotychczasowe, jeżeli nie są one sprzeczne z przepisami ustawy zmienianej w art. 1.
+2.
+Przepisów art. 1 pkt 2 i 3 nie stosuje się w okresie 2 lat od dnia wejścia w życie ustawy do licencji i sublicencji udzielonych na podstawie umów zawartych przed dniem wejścia w życie ustawy, bez uwzględniania zmian tych umów dokonanych po tym dniu.
+3.
+Przepis ust. 2 ma zastosowanie wyłącznie pod warunkiem, że umowy zostały zarejestrowane we właściwym urzędzie skarbowym w terminie 30 dni od dnia wejścia w życie ustawy. Licencje i sublicencje, udzielone na podstawie umów zawartych przed dniem wejścia w życie ustawy i niezarejestrowane w urzędzie, traktuje się jako licencje i sublicencje, udzielone na podstawie umów zawartych począwszy od dnia wejścia w życie ustawy.
+4.
+Przepisy ust. 2 i 3 stosuje się odpowiednio do oddania do używania wspólnego znaku towarowego albo wspólnego znaku towarowego gwarancyjnego oraz do upoważnienia do korzystania z licencji.
+5.
+W przypadku gdy podatnik przed dniem wejścia w życie niniejszej ustawy otrzymał część zapłaty nieprzekraczającą połowy należności z tytułu sprzedaży lokalu lub budynku, obowiązek podatkowy od tej części zapłaty powstaje z chwilą otrzymania, po wejściu w życie tej ustawy, pierwszej zapłaty, nie później jednak niż z chwilą wydania.
+6.
+Przepis art. 1 pkt 6 lit. b) stosuje się w sytuacji, gdy wydatki, o których mowa w tym przepisie, zostały poniesione począwszy od dnia wejścia w życie ustawy.
+7.
+Przepis art. 1 pkt 16 lit. a) tiret trzecie stosuje się począwszy od rozliczeń za miesiąc, w którym ustawa weszła w życie.
+8.
+Przepisy art. 1 pkt 18 lit. a)-c) stosuje się począwszy od rozliczeń za miesiąc następujący po miesiącu wejścia w życie ustawy.
+Art. 3.
+W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58) w art. 15:
+a)
+w ust. 1 w pkt 7 kropkę zastępuje się przecinkiem i dodaje się pkt 8 w brzmieniu:
+„
+8)
+dokonywania kontroli rodzaju używanego paliwa przez pobranie próbek paliwa ze zbiornika pojazdu mechanicznego.
+” ,
+b)
+po ust. 8 dodaje się ust. 8a i 8b w brzmieniu:
+„
+8a.
+W przypadku stwierdzenia używania oleju opałowego do celów napędowych Policja niezwłocznie zawiadamia izbę skarbową właściwą ze względu na miejsce dokonanej kontroli.
+8b.
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowy tryb kontroli, o której mowa w ust. 1 pkt 8, uwzględniając sposób przeprowadzenia kontroli i badania próbek rodzaju paliwa znajdującego się w zbiorniku pojazdu.
+”
+W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. Nr 12, poz. 114, z 1981 r. Nr 24, poz. 124, z 1982 r. Nr 16, poz. 125, z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203, z 1984 r. Nr 54, poz. 275, z 1985 r. Nr 14, poz. 60 i Nr 23, poz. 100, z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135 i Nr 41, poz. 324, z 1989 r. Nr 34, poz. 180, z 1990 r. Nr 51, poz. 297, Nr 72, poz. 422 i Nr 86, poz. 504, z 1991 r. Nr 75, poz. 332 i Nr 91, poz. 408, z 1992 r. Nr 24, poz. 101, z 1994 r. Nr 123, poz. 600, z 1995 r. Nr 6, poz. 29 i Nr 60, poz. 310, z 1997 r. Nr 54, poz. 349, Nr 60, poz. 369, Nr 85, poz. 539, Nr 98, poz. 602, Nr 104, poz. 661, Nr 106, poz. 677, Nr 111, poz. 724, Nr 123, poz. 779, Nr 133, poz. 884 i Nr 141, poz. 942, z 1998 r. Nr 113, poz. 717, z 1999 r. Nr 83, poz. 931 i Nr 101, poz. 1178, z 2000 r. Nr 22, poz. 271, Nr 73, poz. 852, Nr 74, poz. 855 i Nr 117, poz. 1228 oraz z 2001 r. Nr 100, poz. 1081, Nr 106, poz. 1149, Nr 125, poz. 1371, Nr 128, poz. 1409 i Nr 129, poz. 1438) po art. 52a dodaje się art. 52b w brzmieniu:
+„
+Art. 52b.
+Kto zużywa olej opałowy do celów napędowych, podlega karze grzywny do 500 zł.
+”
+Art. 5.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 i 4, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
 

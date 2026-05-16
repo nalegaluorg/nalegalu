@@ -8,9 +8,12 @@ pos: 1059
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 czerwca 2023 r.
+# o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+
+*USTAWA z dnia 26 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001059) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1059/text.pdf) |
 
-USTAWA z dnia 26 maja 2023 r.
-o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 42i.** WIS, decyzja o zmianie WIS, decyzja o uchyleniu WIS oraz decyzja o odmowie wydania WIS, o której mowa art. 42g ust. 3, po usunięciu danych identyfikujących wnioskodawcę, danych objętych tajemnicą przedsiębiorstwa oraz danych, których zamieszczenie może prowadzić do naruszenia bezpieczeństwa publicznego lub porządku publicznego, są zamieszczane, bez zbędnej zwłoki, Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych. W Biuletynie Informacji Publicznej zamieszcza się również daty informacje o okresie ważności WIS i decyzji o zmianie WIS.”;
 
 **Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -37,15 +39,9 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 **Art. 5.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2022 r. poz. 2324, 2339, 2640 i 2707 oraz z 2023 r. poz. 180 i 825) art. 62b:
+**Art. 7.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 8.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2022 r. poz. 2540) wprowadza się następujące zmiany:
-
-**Art. 9.** W ustawie z dnia 19 marca 2004 r. Prawo celne (Dz. U. z 2022 r. poz. 2073) wprowadza się następujące zmiany:
-
-**Art. 10.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2022 r. poz. 143, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2022 r. poz. 2073) wprowadza się następujące zmiany:
 
 **Art. 11.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -54,12 +50,12 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 1. Przegląd wydatków prowadzi się na podstawie planu przeglądu wydatków sporządzonego przez Ministra Finansów, po zasięgnięciu opinii:
 
 - **1)** dysponentów części budżetowych,
-- **2)** organów nadzorujących jednostki których wydatki (koszty) będą podlegały przeglądowi wydatków.
+- **2)** organów nadzorujących jednostki – których wydatki (koszty) będą podlegały przeglądowi wydatków.
 
 2. W uzasadnionych przypadkach przegląd wydatków może być prowadzony poza planem przeglądu wydatków porozumieniu z:
 
 - **1)** dysponentem części budżetowej,
-- **2)** organem nadzorującym jednostkę których wydatki (koszty) będą podlegały przeglądowi wydatków.
+- **2)** organem nadzorującym jednostkę – których wydatki (koszty) będą podlegały przeglądowi wydatków.
 - **1)** okres, na jaki jest sporządzany;
 - **2)** jednostki, których wydatki będą podlegały przeglądowi wydatków;
 - **3)** zakres przeglądu wydatków.
@@ -71,7 +67,7 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 1. W przeglądzie wydatków uczestniczą, szczególności dokonują identyfikacji i analizy nakładów oraz efektów wydatkowania środków publicznych:
 
 - **1)** dysponent części budżetowej,
-- **2)** organ nadzorujący jednostkę których wydatki (koszty) podlegają przeglądowi wydatków.
+- **2)** organ nadzorujący jednostkę – których wydatki (koszty) podlegają przeglądowi wydatków.
 
 2. W przeglądzie wydatków może uczestniczyć Szef Kancelarii Prezesa Rady Ministrów.
 
@@ -86,8 +82,6 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 2. Raport zawiera szczególności propozycje zmian zakresie jakości wydatków publicznych oraz wskazuje podmioty odpowiedzialne za ich wdrożenie.
 
 3. Raport może zawierać propozycje zmian poziomu lub struktury wydatków publicznych.
-
-4. Minister Finansów udostępnia raport:
 
 - **1)** jednostce, której wydatki (koszty) podlegały przeglądowi wydatków;
 - **2)** dysponentowi części budżetowej, którego wydatki (koszty) podlegały przeglądowi wydatków;
@@ -110,7 +104,20 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 **Art. 14.** W ustawie z dnia 7 października 2022 r. o zmianie ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2180 i 2707) wprowadza się następujące zmiany:
 
-**Art. 15.** W ustawie z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym administracji oraz niektórych innych ustaw (Dz. U. poz. 556) wprowadza się następujące zmiany:
+**Art. 16.**
+
+1. Postępowania sprawach wydania wiążących informacji akcyzowych oraz ich zmiany, wiążących informacji taryfowych i wiążących informacji o pochodzeniu, wszczęte i niezakończone przed dniem 1 lipca 2023 r., przejmuje do prowadzenia Dyrektor Krajowej Informacji Skarbowej.
+
+2. Przepis ust. 1 stosuje się odpowiednio do postępowań odwoławczych sprawach wydania wiążących informacji akcyzowych oraz ich zmiany, wiążących informacji taryfowych i wiążących informacji o pochodzeniu, wszczętych i niezakończonych przed dniem 1 lipca 2023 r.
+
+3. W postępowaniach sądowych sprawach wydania:
+
+- **1)** wiążących informacji akcyzowych oraz ich zmiany, których stroną na podstawie przepisów dotychczasowych jest lub mógłby być Dyrektor Izby Administracji Skarbowej Warszawie,
+- **2)** wiążących informacji taryfowych i wiążących informacji o pochodzeniu, których stroną na podstawie przepisów dotychczasowych jest lub mógłby być Szef Krajowej Administracji Skarbowej – prawa i obowiązki strony przejmuje Dyrektor Krajowej Informacji Skarbowej.
+
+4. Zadania związane z zakończonymi przed dniem 1 lipca 2023 r. sprawami zakresie wiążących informacji akcyzowych, wiążących informacji taryfowych Skarbowej.
+
+5. Dyrektorowi Krajowej Informacji Skarbowej przysługuje dostęp do akt spraw, o których mowa ust. 4.
 
 **Art. 17.**
 
@@ -130,16 +137,16 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 8. Informacje o dacie ważności, zmiany, uchylenia oraz wygaśnięcia WIS i decyzji o zmianie WIS, zamieszczonych Biuletynie Informacji Publicznej na podstawie przepisów dotychczasowych, wprowadza się do Biuletynu Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych do dnia 31 sierpnia 2023 r.
 
-**Art. 18.**
-
-1. Do postępowań sprawie:
-
 - **1)** wydania wiążących informacji akcyzowych,
-- **2)** zmiany wiążących informacji akcyzowych wszczętych i niezakończonych przed dniem 1 lipca 2023 r., stosuje się przepisy ustawy zmienianej art. 10, brzmieniu dotychczasowym, z zastrzeżeniem art. 16.
+- **2)** zmiany wiążących informacji akcyzowych – wszczętych i niezakończonych przed dniem 1 lipca 2023 r., stosuje się przepisy ustawy zmienianej art. 10, brzmieniu dotychczasowym, z zastrzeżeniem art. 16.
 
 2. Do wiążących informacji akcyzowych i decyzji o zmianie wiążących informacji akcyzowych wydanych przed dniem 1 lipca 2023 r. stosuje się przepisy art. 7d ust. 3a i 3b, art. 7g ust. 2, art. 7h ust. 1, art. 7ha i art. 7k ustawy zmienianej art. 10, brzmieniu nadanym niniejszą ustawą.
 
-3. Informacje o dacie ważności wiążących informacji akcyzowych oraz decyzji o zmianie wiążących informacji akcyzowych, zamieszczonych Biuletynie Informacji Publicznej na podstawie przepisów dotychczasowych, wprowadza się do Biuletynu Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych do dnia 31 sierpnia 2023 r. tychczasowym, upływa po dniu 30 czerwca 2023 r., warunku, o którym mowa tym przepisie, nie stosuje się.
+3. Informacje o dacie ważności wiążących informacji akcyzowych oraz decyzji o zmianie wiążących informacji akcyzowych, zamieszczonych Biuletynie Informacji Publicznej na podstawie przepisów dotychczasowych, wprowadza się do Biuletynu Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych do dnia 31 sierpnia 2023 r.
+
+**Art. 19.**
+
+1. Jeżeli termin, o którym mowa art. 86 ust. 10b pkt 2 lit. a ustawy zmienianej art. 1, brzmieniu dotychczasowym, upływa po dniu 30 czerwca 2023 r., warunku, o którym mowa tym przepisie, nie stosuje się.
 
 2. W przypadku gdy podatnik pomniejszył kwotę podatku naliczonego zgodnie z art. 86 ust. 10g ustawy zmienianej art. 1, brzmieniu dotychczasowym, otrzymanie po dniu 30 czerwca 2023 r. faktury dokumentującej dostawę towarów, stanowiącą u podatnika wewnątrzwspólnotowe nabycie towarów, upoważnia podatnika do odpowiedniego powiększenia podatku naliczonego rozliczeniu za okres rozliczeniowy, którym podatnik uwzględnił kwotę podatku należnego z tytułu tego nabycia.
 
@@ -149,8 +156,7 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 1. W przypadku:
 
-- **1)** ustalania proporcji, o której mowa art. 86 ust. 2a i art. 90 ust. 3 ustawy zmienianej art. 1, na 2024 r.,
-- **2)** dokonywania korekty kwoty podatku odliczonego, o której mowa art. 90c ust. 1 i art. 91 ust. 1 ustawy zmienianej art. 1, po zakończeniu 2023 r. przepis art. 90 ust. 10 pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 1 stycznia 2023 r.
+- **1)** ustalania proporcji, o której mowa art. 86 ust. 2a i art. 90 ust. 3 ustawy zmienianej art. 1, na 2024 r., ust. 1 i art. 91 ust. 1 ustawy zmienianej art. 1, po zakończeniu 2023 r. – przepis art. 90 ust. 10 pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 1 stycznia 2023 r.
 
 2. Przepis ust. 1 stosuje się odpowiednio przypadku podatników, którzy dla ustalania proporcji, o której mowa art. 86 ust. 2a ustawy zmienianej art. 1, na 2025 r. przyjmują dane za 2023 r., zgodnie z przepisami wydanymi na podstawie art. 86 ust. 22 ustawy zmienianej art. 1, oraz którzy przy dokonywaniu korekty kwoty podatku odliczonego, o której mowa art. 90c ust. 1 ustawy zmienianej art. 1, po zakończeniu 2024 r. uwzględniają dane za 2023 r., zgodnie z art. 90c ust. 2 ustawy zmienianej art. 1.
 
@@ -164,7 +170,7 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 **Art. 26.** Przepisy art. 130ca, art. 133a oraz art. 138ga ustawy zmienianej art. 1 stosuje się również do okresów rozliczeniowych przypadających przed dniem wejścia życie niniejszej ustawy.
 
-**Art. 27.** W przypadku gdy podstawą tytułu wykonawczego jest korekta deklaracji VAT, o której mowa art. 130ca ust. 1, art. 133a ust. 1 i art. 138ga ust. 1 ustawy zmienianej art. 1, wierzyciel, terminie do dnia 31 grudnia 2025 r., wraz z przekazaniem wniosku egzekucyjnego i tytułu wykonawczego zawiadamia organ egzekucyjny o numerze, za pomocą którego zobowiązany został zidentyfikowany na potrzeby podatku od wartości dodanej państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, jeżeli informacja ta nie jest ujęta tytule wykonawczym.
+**Art. 27.** W przypadku gdy podstawą tytułu wykonawczego jest korekta deklaracji VAT, o której mowa art. 130ca ust. 1, art. 133a ust. 1 i art. 138ga ust. 1 ustawy zmienianej art. 1, wierzyciel, terminie do dnia 31 grudnia 2025 r., wraz z przekazaniem wniosku egzekucyjnego i tytułu wykonawczego zawiadamia organ potrzeby podatku od wartości dodanej państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, jeżeli informacja ta nie jest ujęta tytule wykonawczym.
 
 **Art. 28.** Do nabycia własności rzeczy lub praw majątkowych, które nastąpiło przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 3, brzmieniu dotychczasowym.
 
@@ -174,7 +180,13 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 2. Przepisy art. 26 ust. 7e, art. 27f ust. 2e oraz art. 45cd ust. 1 i 6 ustawy zmienianej art. 4, brzmieniu nadanym niniejszą ustawą, oraz art. 12 ust. 13 i art. 21c ust. 1 ustawy zmienianej art. 8, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2023 r.
 
-3. Przepisy art. 41 ust. 24 ustawy zmienianej art. 4, brzmieniu nadanym niniejszą ustawą, oraz art. 26 ust. 1aa ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą, stosuje się do wypłat (świadczeń), pieniędzy, wartości pieniężnych oraz należności odpowiednio dokonywanych, stawianych do dyspozycji lub wypłacanych po dniu 31 grudnia 2023 r. po raz pierwszy 2024 r.
+3. Przepisy art. 41 ust. 24 ustawy zmienianej art. 4, brzmieniu nadanym niniejszą ustawą, oraz art. 26 ust. 1aa ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą, stosuje się do wypłat (świadczeń), pieniędzy, wartości pieniężnych oraz należności odpowiednio dokonywanych, stawianych do dyspozycji lub wypłacanych po dniu 31 grudnia 2023 r.
+
+4. W przypadku emisji obligacji dokonanych przed dniem 1 stycznia 2024 r., odniesieniu do których przed tym dniem doszło do wypłaty odsetek lub dyskonta, oświadczenie, o którym mowa art. 41 ust. 24a ustawy zmienianej art. 4 oraz art. 26 ust. 1ae ustawy zmienianej art. 5, emitent jest obowiązany złożyć nie później niż do pierwszej wypłaty odsetek lub dyskonta od tych obligacji następującej po dniu 31 grudnia 2023 r.
+
+5. Przepisu ust. 1 nie stosuje się, jeżeli emitent złożył oświadczenie, o którym mowa art. 41 ust. 25 ustawy zmienianej art. 4, brzmieniu obowiązującym przed dniem 1 stycznia 2023 r., oraz art. 26 ust. 1ab ustawy zmienianej art. 5, brzmieniu obowiązującym przed dniem 1 stycznia 2023 r. W takim przypadku warunek określony art. 41 ust. 24a ustawy zmienianej art. 4 oraz art. 26 ust. 1ae ustawy zmienianej art. 5 uznaje się za spełniony. dokonanych po dniu 31 grudnia 2023 r.
+
+**Art. 30.** Przegląd wydatków, o którym mowa art. 175a ust. 1 ustawy zmienianej art. 11, zostanie przeprowadzony po raz pierwszy 2024 r.
 
 **Art. 31.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 42b ust. 9 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 42b ust. 9 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2023 r.
 

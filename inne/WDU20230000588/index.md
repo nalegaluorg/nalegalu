@@ -8,9 +8,10 @@ pos: 588
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 marca 2023 r.
+# Ustawa z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000588) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/588/text.pdf) |
 
-USTAWA z dnia 9 marca 2023 r.
-o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
@@ -39,22 +37,22 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 2. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych, zwany dalej „Głównym Inspektorem”:
 
-- **1)** wykonuje obowiązki i uprawnienia państwa członkowskiego Unii Europejskiej określone w:
-    - **a)** rozporządzeniu 2017/625 oraz w przepisach Unii Europejskiej wydanych na podstawie tego rozporządzenia w obszarze, o którym mowa w art. 1 ust. 2 lit. j rozporządzenia 2017/625, chyba że przepisy ustawy stanowią inaczej,
-    - **b)** art. 16 rozporządzenia wykonawczego Komisji (UE) 2019/34 z dnia 17 października 2018 r. ustanawiającego zasady dotyczące stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do wniosków o objęcie ochroną nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych w sektorze wina, procedury zgłaszania sprzeciwu, zmian w specyfikacji produktu, rejestru chronionych nazw, unieważnienia ochrony i stosowania symboli oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do odpowiedniego systemu kontroli (Dz. Urz. UE L 9 z 01.11.2019, str. 46), zwanego dalej „rozporządzeniem 2019/34”,
-    - **c)** art. 38 ust. 1 rozporządzenia 2019/787,
-    - **d)** art. 24 ust. 2 rozporządzenia nr 1151/2012;
+- **1)** wykonuje obowiązki i uprawnienia państwa członkowskiego Unii Europejskiej określone w: rozporządzeniu 2017/625 oraz w przepisach Unii Europejskiej wydanych na podstawie tego rozporządzenia w obszarze, o którym mowa w art. 1 ust. 2 lit. j rozporządzenia 2017/625, chyba że przepisy ustawy stanowią inaczej, art. 16 rozporządzenia wykonawczego Komisji (UE) 2019/34 z dnia 17 października 2018 r. ustanawiającego zasady dotyczące stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do wniosków o objęcie ochroną nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych w sektorze wina, procedury zgłaszania sprzeciwu, zmian w specyfikacji produktu, rejestru chronionych nazw, unieważnienia ochrony i stosowania symboli oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do odpowiedniego systemu kontroli (Dz. Urz. UE L 9 z 01.11.2019, str. 46), zwanego dalej „rozporządzeniem 2019/34”, art. 38 ust. 1 rozporządzenia 2019/787, art. 24 ust. 2 rozporządzenia nr 1151/2012;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** wykonuje obowiązki właściwego organu określone w:
-    - **a)** art. 37 ust. 1 lit. a rozporządzenia nr 1151/2012,
-    - **b)** art. 33 lit. a rozporządzenia 2017/625,
-    - **c)** art. 26 rozporządzenia 2019/34;
+- **2)** wykonuje obowiązki właściwego organu określone w: art. 37 ust. 1 lit. a rozporządzenia nr 1151/2012, art. 33 lit. a rozporządzenia 2017/625, art. 26 rozporządzenia 2019/34;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** jest organem odpowiedzialnym, o którym mowa w art. 4 ust. 2 lit. b rozporządzenia 2017/625.
 
 **Art. 4.**
 
-1. Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185), zwanej dalej „Kpa”, chyba że przepisy niniejszej ustawy stanowią inaczej.
+1. Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185), zwanej dalej „Kpa”, chyba że przepisy niniejszej ustawy stanowią inaczej.
 
 2. Jeżeli przepisy ustawy przewidują złożenie wniosku do ministra właściwego do spraw rynków rolnych, Głównego Inspektora, wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych, zwanego dalej „wojewódzkim inspektorem”, albo do marszałka województwa, wniosek ten składa się na piśmie w postaci papierowej lub elektronicznej.
 
@@ -78,7 +76,7 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 4. W skład Rady wchodzą:
 
-- **1)** przewodniczący przedstawiciel ministra właściwego do spraw rynków rolnych;
+- **1)** przewodniczący – przedstawiciel ministra właściwego do spraw rynków rolnych;
 - **2)** 10 członków powołanych spośród osób wyróżniających się wiedzą o produktach regionalnych i tradycyjnych, w szczególności w zakresie dotyczącym technologii produkcji żywności, enologii, etnografii, prawa własności przemysłowej oraz tradycji i kultury polskiej.
 
 5. Członkom Rady, o których mowa w ust. 4 pkt 2, przysługuje ryczałtowe wynagrodzenie za udział w posiedzeniu Rady w wysokości 0,15 przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanego dalej „przeciętnym wynagrodzeniem”, za ostatnie półrocze roku poprzedzającego rok, w którym odbyło się posiedzenie Rady.
@@ -93,7 +91,7 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 2. Wniosek o rejestrację poza informacjami, o których mowa w art. 8 ust. 1 i art. 20 ust. 1 rozporządzenia nr 1151/2012, art. 94 rozporządzenia nr 1308/2013, art. 23 ust. 1 rozporządzenia 2019/787 albo art. 26 ust. 1 rozporządzenia 2019/33, zawiera:
 
-- **1)** nazwę, siedzibę i adres lub adres do doręczeń grupy składającej ten wniosek, a w przypadku osób fizycznych tworzących grupę imię i nazwisko, miejsce zamieszkania i adres osób tworzących grupę lub adres do doręczeń osoby składającej ten wniosek;
+- **1)** nazwę, siedzibę i adres lub adres do doręczeń grupy składającej ten wniosek, a w przypadku osób fizycznych tworzących grupę – imię i nazwisko, miejsce zamieszkania i adres osób tworzących grupę lub adres do doręczeń osoby składającej ten wniosek;
 - **2)** wykaz dokumentów dołączanych do tego wniosku.
 
 3. W przypadku gdy wniosek o rejestrację został złożony w postaci papierowej, wniosek ten składa się również na informatycznym nośniku danych.
@@ -146,10 +144,10 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 1. Rada w terminie 30 dni od dnia upływu terminu na wniesienie krajowego sprzeciwu wydaje opinię, o której mowa w art. 9 pkt 2, o spełnianiu albo niespełnianiu przez wniosek o rejestrację wymagań określonych w:
 
-- **1)** art. 8, art. 20 i art. 49 rozporządzenia nr 1151/2012 w przypadku produktów rolnych i środków spożywczych,
-- **2)** art. 94 i art. 95 rozporządzenia nr 1308/2013 w przypadku nazw pochodzenia i oznaczeń geograficznych win,
-- **3)** art. 24–27 rozporządzenia 2019/33 w przypadku określeń tradycyjnych,
-- **4)** art. 22 i art. 24 rozporządzenia 2019/787 w przypadku napojów spirytusowych zwanych dalej „wymaganiami UE”.
+- **1)** art. 8, art. 20 i art. 49 rozporządzenia nr 1151/2012 – w przypadku produktów rolnych i środków spożywczych,
+- **2)** art. 94 i art. 95 rozporządzenia nr 1308/2013 – w przypadku nazw pochodzenia i oznaczeń geograficznych win,
+- **3)** art. 24–27 rozporządzenia 2019/33 – w przypadku określeń tradycyjnych,
+- **4)** art. 22 i art. 24 rozporządzenia 2019/787 – w przypadku napojów spirytusowych zwanych dalej „wymaganiami UE”.
 
 2. Minister właściwy do spraw rynków rolnych może wystąpić do grupy o uzupełnienie wniosku o rejestrację lub wyjaśnienie informacji zawartych w tym wniosku w wyznaczonym terminie wraz z pouczeniem, że nieotrzymanie uzupełnienia wniosku o rejestrację lub wyjaśnienia informacji zawartych w tym wniosku w wyznaczonym terminie spowoduje pozostawienie wniosku o rejestrację bez rozpoznania.
 
@@ -161,12 +159,12 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 1. Minister właściwy do spraw rynków rolnych po uzyskaniu opinii Rady, o której mowa w art. 9 pkt 2, odnośnie do wniosku o rejestrację o:
 
-- **1)** spełnianiu wymagań UE przez wniosek o rejestrację wydaje decyzję stwierdzającą spełnianie wymagań UE przez wniosek o rejestrację i przekazuje niezwłocznie Komisji Europejskiej:
-    - **a)** dokumentację wniosku o rejestrację, o której mowa w art. 8 ust. 2 rozporządzenia nr 1151/2012 lub art. 23 ust. 2 rozporządzenia 2019/787, zwaną dalej „dokumentacją wniosku”,
-    - **b)** wniosek o rejestrację oznaczenia geograficznego lub nazwy pochodzenia wina, o którym mowa w art. 94 ust. 1 rozporządzenia nr 1308/2013,
-    - **c)** wniosek o rejestrację określenia tradycyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2019/33, albo
+- **1)** spełnianiu wymagań UE przez wniosek o rejestrację – wydaje decyzję stwierdzającą spełnianie wymagań UE przez wniosek o rejestrację i przekazuje niezwłocznie Komisji Europejskiej: dokumentację wniosku o rejestrację, o której mowa w art. 8 ust. 2 rozporządzenia nr 1151/2012 lub art. 23 ust. 2 rozporządzenia 2019/787, zwaną dalej „dokumentacją wniosku”, wniosek o rejestrację oznaczenia geograficznego lub nazwy pochodzenia wina, o którym mowa w art. 94 ust. 1 rozporządzenia nr 1308/2013, wniosek o rejestrację określenia tradycyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2019/33, albo
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** niespełnianiu wymagań UE przez wniosek o rejestrację wydaje decyzję stwierdzającą niespełnianie wymagań UE przez wniosek o rejestrację.
+- **2)** niespełnianiu wymagań UE przez wniosek o rejestrację – wydaje decyzję stwierdzającą niespełnianie wymagań UE przez wniosek o rejestrację.
 
 2. Do decyzji, o której mowa w ust. 1 pkt 1, nie stosuje się przepisu art. 127 § 3 Kpa.
 
@@ -189,13 +187,13 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 1. Minister właściwy do spraw rynków rolnych po uzyskaniu opinii Rady, o której mowa w art. 14 ust. 1:
 
-- **1)** wydaje decyzję stwierdzającą spełnianie wymagań UE przez wniosek o rejestrację i decyzję o oddaleniu krajowego sprzeciwu oraz przekazuje niezwłocznie Komisji Europejskiej:
-    - **a)** dokumentację wniosku,
-    - **b)** wniosek o rejestrację oznaczenia geograficznego lub nazwy pochodzenia wina, o którym mowa w art. 94 ust. 1 rozporządzenia nr 1308/2013,
-    - **c)** wniosek o rejestrację określenia tradycyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2019/33 w przypadku spełnienia wymagań UE przez wniosek o rejestrację albo
+- **1)** wydaje decyzję stwierdzającą spełnianie wymagań UE przez wniosek o rejestrację i decyzję o oddaleniu krajowego sprzeciwu oraz przekazuje niezwłocznie Komisji Europejskiej: dokumentację wniosku, wniosek o rejestrację oznaczenia geograficznego lub nazwy pochodzenia wina, o którym mowa w art. 94 ust. 1 rozporządzenia nr 1308/2013, wniosek o rejestrację określenia tradycyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2019/33 w przypadku spełnienia wymagań UE przez wniosek o rejestrację albo
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** wydaje decyzję stwierdzającą niespełnianie wymagań UE przez wniosek o rejestrację w przypadku niespełnienia wymagań UE przez wniosek o rejestrację, albo
-- **3)** wzywa grupę na piśmie do złożenia wniosku o rejestrację uzgodnionego z podmiotem wnoszącym krajowy sprzeciw w wyznaczonym terminie w przypadku gdy z opinii Rady wynika, że wniosek o rejestrację i krajowy sprzeciw są zasadne w terminie 14 dni od dnia wydania tej opinii.
+- **2)** wydaje decyzję stwierdzającą niespełnianie wymagań UE przez wniosek o rejestrację – w przypadku niespełnienia wymagań UE przez wniosek o rejestrację, albo
+- **3)** wzywa grupę na piśmie do złożenia wniosku o rejestrację uzgodnionego z podmiotem wnoszącym krajowy sprzeciw w wyznaczonym terminie – w przypadku gdy z opinii Rady wynika, że wniosek o rejestrację i krajowy sprzeciw są zasadne w terminie 14 dni od dnia wydania tej opinii.
 
 2. Do decyzji, o której mowa w ust. 1 pkt 1, nie stosuje się przepisu art. 127 § 3 Kpa.
 
@@ -213,9 +211,9 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 2. Okres przejściowy, o którym mowa w ust. 1, minister właściwy do spraw rynków rolnych ustala zgodnie z:
 
-- **1)** art. 15 ust. 4 rozporządzenia nr 1151/2012 w przypadku nazwy produktu rolnego i środka spożywczego;
-- **2)** art. 13 ust. 4 rozporządzenia 2019/33 w przypadku nazwy wina;
-- **3)** art. 5 ust. 1 rozporządzenia delegowanego Komisji (UE) 2021/1235 z dnia 12 maja 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/787 o przepisy dotyczące wniosków o rejestrację oznaczeń geograficznych napojów spirytusowych, zmian w specyfikacji produktu, cofnięcia rejestracji i rejestru (Dz. Urz. UE L 270 z 29.07.2021, str. 1) w przypadku nazwy napoju spirytusowego.
+- **1)** art. 15 ust. 4 rozporządzenia nr 1151/2012 – w przypadku nazwy produktu rolnego i środka spożywczego;
+- **2)** art. 13 ust. 4 rozporządzenia 2019/33 – w przypadku nazwy wina;
+- **3)** art. 5 ust. 1 rozporządzenia delegowanego Komisji (UE) 2021/1235 z dnia 12 maja 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/787 o przepisy dotyczące wniosków o rejestrację oznaczeń geograficznych napojów spirytusowych, zmian w specyfikacji produktu, cofnięcia rejestracji i rejestru (Dz. Urz. UE L 270 z 29.07.2021, str. 1) – w przypadku nazwy napoju spirytusowego.
 
 3. Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informację o zezwoleniu podmiotowi wnoszącemu krajowy sprzeciw na używanie nazwy produktu w okresie przejściowym, o którym mowa w ust. 1.
 
@@ -231,10 +229,10 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 1. Wniosek o cofnięcie rejestracji może zostać złożony do ministra właściwego do spraw rynków rolnych po spełnieniu wymagań, o których mowa w:
 
-- **1)** art. 54 ust. 1 rozporządzenia nr 1151/2012 w przypadku nazwy pochodzenia, oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego;
-- **2)** art. 106 rozporządzenia nr 1308/2013 w przypadku unieważnienia ochrony nazwy pochodzenia lub oznaczenia geograficznego wina;
-- **3)** art. 35 rozporządzenia 2019/33 w przypadku unieważnienia ochrony określenia tradycyjnego;
-- **4)** art. 32 rozporządzenia 2019/787 w przypadku cofnięcia rejestracji oznaczenia geograficznego napoju spirytusowego.
+- **1)** art. 54 ust. 1 rozporządzenia nr 1151/2012 – w przypadku nazwy pochodzenia, oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego;
+- **2)** art. 106 rozporządzenia nr 1308/2013 – w przypadku unieważnienia ochrony nazwy pochodzenia lub oznaczenia geograficznego wina;
+- **3)** art. 35 rozporządzenia 2019/33 – w przypadku unieważnienia ochrony określenia tradycyjnego;
+- **4)** art. 32 rozporządzenia 2019/787 – w przypadku cofnięcia rejestracji oznaczenia geograficznego napoju spirytusowego.
 
 2. Do wniosku o cofnięcie rejestracji dołącza się dowód uiszczenia opłaty za dokonanie oceny tego wniosku.
 
@@ -253,10 +251,10 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 1. Wniosek o zatwierdzenie zmiany może zostać złożony do ministra właściwego do spraw rynków rolnych po spełnieniu wymagań, o których mowa w:
 
-- **1)** art. 53 ust. 1 rozporządzenia nr 1151/2012 w przypadku nazwy pochodzenia, oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego;
-- **2)** art. 105 ust. 1 rozporządzenia nr 1308/2013 w przypadku nazwy pochodzenia lub oznaczenia geograficznego wina;
-- **3)** art. 34 rozporządzenia 2019/33 w przypadku określenia tradycyjnego;
-- **4)** art. 31 ust. 1 rozporządzenia 2019/787 w przypadku oznaczenia geograficznego napoju spirytusowego.
+- **1)** art. 53 ust. 1 rozporządzenia nr 1151/2012 – w przypadku nazwy pochodzenia, oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego;
+- **2)** art. 105 ust. 1 rozporządzenia nr 1308/2013 – w przypadku nazwy pochodzenia lub oznaczenia geograficznego wina;
+- **3)** art. 34 rozporządzenia 2019/33 – w przypadku określenia tradycyjnego;
+- **4)** art. 31 ust. 1 rozporządzenia 2019/787 – w przypadku oznaczenia geograficznego napoju spirytusowego.
 
 2. Do wniosku o zatwierdzenie zmiany dołącza się dowód uiszczenia opłaty za dokonanie oceny tego wniosku.
 
@@ -266,7 +264,7 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 5. Przepisy art. 6 ust. 3 i 5, art. 7, art. 8 ust. 4, art. 9, art. 11 i art. 12 stosuje się odpowiednio do wniosku o zatwierdzenie zmiany, z tym że dokumenty, o których mowa w art. 12 ust. 1 pkt 1, art. 15 ust. 1 pkt 1 i art. 18 ust. 2, przekazuje się Komisji Europejskiej, jeżeli z przepisów art. 53 ust. 2 rozporządzenia nr 1151/2012, art. 9 rozporządzenia 2019/34, art. 24 ust. 7 rozporządzenia 2019/787 albo art. 21 ust. 1 rozporządzenia 2019/34 wynika, że dokumenty te powinny zostać przekazane Komisji Europejskiej w zakresie zmian wprowadzonych we wniosku o rejestrację.
 
-6. Do postępowań w sprawach wniosków o zatwierdzenie zmiany stosuje się odpowiednio przepisy art. 10 ust. 1–4 , art. 13–16 i art. 18 dotyczące rozpatrywania krajowego sprzeciwu wobec wniosku o rejestrację.
+6. Do postępowań w sprawach wniosków o zatwierdzenie zmiany stosuje się odpowiednio przepisy art. 10 ust. 1–4, art. 13–16 i art. 18 dotyczące rozpatrywania krajowego sprzeciwu wobec wniosku o rejestrację.
 
 #### Rozdział 4 Postępowanie w przypadku wniesienia sprzeciwu wobec wniosku o rejestrację
 
@@ -274,10 +272,10 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 1. Podmiot, o którym mowa w art. 51 ust. 1 rozporządzenia nr 1151/2012, art. 98 ust. 1 rozporządzenia nr 1308/2013, art. 22 ust. 1 rozporządzenia 2019/34 lub art. 27 ust. 1 rozporządzenia 2019/787, może złożyć na piśmie do ministra właściwego do spraw rynków rolnych:
 
-- **1)** uzasadnione oświadczenie o sprzeciwie, o którym mowa w art. 51 ust. 1 rozporządzenia nr 1151/2012 w przypadku nazw produktów rolnych i środków spożywczych,
-- **2)** uzasadnione oświadczenie, o którym mowa w art. 98 ust. 1 rozporządzenia nr 1308/2013 w przypadku nazw win,
-- **3)** sprzeciw, o którym mowa w art. 22 ust. 1 rozporządzenia 2019/34 w przypadku określeń tradycyjnych,
-- **4)** zawiadomienie o sprzeciwie, o którym mowa w art. 27 ust. 1 rozporządzenia 2019/787 w przypadku nazw napojów spirytusowych w terminie 30 dni od dnia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej wniosku o rejestrację albo wniosku o zatwierdzenie zmiany złożonego przez grupę, której siedziba i adres znajduje się poza terytorium Rzeczypospolitej Polskiej.
+- **1)** uzasadnione oświadczenie o sprzeciwie, o którym mowa w art. 51 ust. 1 rozporządzenia nr 1151/2012 – w przypadku nazw produktów rolnych i środków spożywczych,
+- **2)** uzasadnione oświadczenie, o którym mowa w art. 98 ust. 1 rozporządzenia nr 1308/2013 – w przypadku nazw win,
+- **3)** sprzeciw, o którym mowa w art. 22 ust. 1 rozporządzenia 2019/34 – w przypadku określeń tradycyjnych,
+- **4)** zawiadomienie o sprzeciwie, o którym mowa w art. 27 ust. 1 rozporządzenia 2019/787 – w przypadku nazw napojów spirytusowych w terminie 30 dni od dnia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej wniosku o rejestrację albo wniosku o zatwierdzenie zmiany złożonego przez grupę, której siedziba i adres znajduje się poza terytorium Rzeczypospolitej Polskiej.
 
 2. W przypadku złożenia zawiadomienia o sprzeciwie, o którym mowa w art. 27 ust. 1 rozporządzenia 2019/787, składa się również uzasadnione oświadczenie o sprzeciwie, o którym mowa w art. 27 ust. 2 rozporządzenia 2019/787, w terminie 30 dni od dnia złożenia zawiadomienia o sprzeciwie.
 
@@ -315,7 +313,7 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 2. W postępowaniu, o którym mowa w ust. 1, są rozpatrywane w szczególności sprawy o stwierdzenie prawa używania nazwy produktu objętej tymczasową ochroną krajową, o stwierdzenie utraty prawa używania nazwy produktu objętej tymczasową ochroną krajową oraz o wprowadzanie do obrotu produktów pod nazwą objętą tymczasową ochroną krajową.
 
-3. Grupa lub producent, których prawo do nazwy produktu objętej tymczasową ochroną krajową zostało naruszone, mogą żądać od podmiotu, który naruszył to prawo, zaniechania naruszania, wydania bezpodstawnie uzyskanych korzyści, a w razie zawinionego naruszenia również naprawienia wyrządzonej szkody:
+3. Grupa lub producent, których prawo do nazwy produktu objętej tymczasową ochroną krajową zostało naruszone, mogą żądać od podmiotu, który naruszył to prawo, zaniechania naruszania, wydania bezpodstawnie uzyskanych korzyści, a w razie zawinionego naruszenia – również naprawienia wyrządzonej szkody:
 
 - **1)** na zasadach ogólnych albo
 - **2)** przez zapłatę sumy pieniężnej w wysokości odpowiadającej uzyskanej korzyści.
@@ -355,10 +353,10 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 - **1)** nazwę, siedzibę i adres lub adres do doręczeń jednostki certyfikującej;
 - **2)** numer w Krajowym Rejestrze Sądowym, o ile jednostka certyfikująca posiada taki numer;
 - **3)** określenie zakresu upoważnienia;
-- **4)** oświadczenie jednostki certyfikującej:
-    - **a)** że nie jest wobec niej prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe,
-    - **b)** o niekaralności za przestępstwo przeciwko wiarygodności dokumentów, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub za przestępstwo skarbowe, a w przypadku jednostki certyfikującej będącej: osobą prawną oświadczenie członka zarządu, że nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub za przestępstwo skarbowe, jednostką organizacyjną nieposiadającą osobowości prawnej oświadczenie wspólnika, któremu powierzono prowadzenie spraw spółki lub uprawnionego do reprezentacji spółki, że nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub za przestępstwo skarbowe, spółką jawną oświadczenie wspólnika, któremu powierzono prowadzenie spraw spółki, że nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub za przestępstwo skarbowe, a w przypadku wspólników będących osobą prawną oświadczenie członka zarządu, że nie był skazany prawomocnym wyrokiem sądu za te przestępstwa, spółką komandytową albo spółką komandytowo-akcyjną oświadczenie, że komplementariusz nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub za przestępstwo skarbowe, a w przypadku komplementariusza będącego osobą prawną oświadczenie członka zarządu, że nie był skazany prawomocnym wyrokiem sądu za te przestępstwa,
-    - **c)** że dane zawarte we wniosku są kompletne i zgodne z prawdą;
+- **4)** oświadczenie jednostki certyfikującej: że nie jest wobec niej prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe, o niekaralności za przestępstwo przeciwko wiarygodności dokumentów, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub za przestępstwo skarbowe, a w przypadku jednostki certyfikującej będącej: – osobą prawną – oświadczenie członka zarządu, że nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub za przestępstwo skarbowe, – jednostką organizacyjną nieposiadającą osobowości prawnej – oświadczenie wspólnika, któremu powierzono prowadzenie spraw spółki lub uprawnionego do reprezentacji spółki, że nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub za przestępstwo skarbowe, – spółką jawną – oświadczenie wspólnika, któremu powierzono prowadzenie spraw spółki, że nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub za przestępstwo skarbowe, a w przypadku wspólników będących osobą prawną – oświadczenie członka zarządu, że nie był skazany prawomocnym wyrokiem sądu za te przestępstwa, – spółką komandytową albo spółką komandytowo-akcyjną – oświadczenie, że komplementariusz nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub za przestępstwo skarbowe, a w przypadku komplementariusza będącego osobą prawną – oświadczenie członka zarządu, że nie był skazany prawomocnym wyrokiem sądu za te przestępstwa, że dane zawarte we wniosku są kompletne i zgodne z prawdą;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **5)** datę i podpis osoby upoważnionej do reprezentowania jednostki certyfikującej.
 
@@ -372,8 +370,8 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 9. Jednostka certyfikująca informuje na piśmie ministra właściwego do spraw rynków rolnych o:
 
-- **1)** zmianie danych lub informacji zawartych we wniosku, o którym mowa w ust. 2, oraz o zmianach tych danych lub informacji w terminie 7 dni od dnia zaistnienia zmiany tych danych lub informacji dołączonych do tego wniosku;
-- **2)** wygaśnięciu, zawieszeniu albo cofnięciu akredytacji w terminie 7 dni od dnia wygaśnięcia, zawieszenia albo cofnięcia tej akredytacji.
+- **1)** zmianie danych lub informacji zawartych we wniosku, o którym mowa w ust. 2, oraz o zmianach tych danych lub informacji – w terminie 7 dni od dnia zaistnienia zmiany tych danych lub informacji dołączonych do tego wniosku;
+- **2)** wygaśnięciu, zawieszeniu albo cofnięciu akredytacji – w terminie 7 dni od dnia wygaśnięcia, zawieszenia albo cofnięcia tej akredytacji.
 
 10. W upoważnieniu minister właściwy do spraw rynków rolnych:
 
@@ -400,11 +398,11 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 - **1)** przeprowadza kontrole urzędowe zgodnie z przepisami o jakości handlowej artykułów rolno-spożywczych;
 - **2)** przeprowadza audyty lub inspekcje, o których mowa w art. 33 lit. a rozporządzenia 2017/625;
-- **3)** sporządza na piśmie i przekazuje upoważnionej jednostce certyfikującej wnioski pokontrolne zawierające:
-    - **a)** oznaczenie kontrolowanej upoważnionej jednostki certyfikującej,
-    - **b)** wskazanie zakresu przeprowadzonej kontroli,
-    - **c)** wnioski z przeprowadzonej kontroli,
-    - **d)** wezwanie do usunięcia nieprawidłowości, jeżeli zostały stwierdzone podczas kontroli;
+- **3)** sporządza na piśmie i przekazuje upoważnionej jednostce certyfikującej wnioski pokontrolne zawierające: oznaczenie kontrolowanej upoważnionej jednostki certyfikującej, wskazanie zakresu przeprowadzonej kontroli, wnioski z przeprowadzonej kontroli, wezwanie do usunięcia nieprawidłowości, jeżeli zostały stwierdzone podczas kontroli;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **4)** ustala zakres kontroli zgodności przekazany przez upoważnioną jednostkę certyfikującą;
 - **5)** sprawdza dokumenty potwierdzające zgodność produktu z nazwą pochodzenia, oznaczeniem geograficznym lub produktu będącego gwarantowaną tradycyjną specjalnością ze specyfikacją produktu;
@@ -517,17 +515,17 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 1. Upoważniona jednostka certyfikująca sporządza i przekazuje na piśmie Głównemu Inspektorowi do dnia 31 stycznia każdego roku:
 
-- **1)** sprawozdanie z kontroli zgodności przeprowadzonych w poprzednim roku, które zawiera:
-    - **a)** liczbę przeprowadzonych kontroli zgodności, z podziałem na poszczególne produkty,
-    - **b)** liczbę wydanych certyfikatów zgodności,
-    - **c)** liczbę nieprawidłowości stwierdzonych podczas przeprowadzania kontroli zgodności,
-    - **d)** opis stwierdzonych nieprawidłowości i nakazanych do wykonania działań naprawczych;
+- **1)** sprawozdanie z kontroli zgodności przeprowadzonych w poprzednim roku, które zawiera: liczbę przeprowadzonych kontroli zgodności, z podziałem na poszczególne produkty, liczbę wydanych certyfikatów zgodności, liczbę nieprawidłowości stwierdzonych podczas przeprowadzania kontroli zgodności, opis stwierdzonych nieprawidłowości i nakazanych do wykonania działań naprawczych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** wykaz producentów objętych przez nią kontrolą zgodności do dnia 31 grudnia poprzedniego roku, który zawiera:
-    - **a)** imię i nazwisko albo nazwę producenta,
-    - **b)** miejsce zamieszkania i adres albo siedzibę i adres producenta,
-    - **c)** rodzaj produktu,
-    - **d)** wielkość produkcji danego produktu w roku poprzedzającym rok złożenia sprawozdania;
+- **2)** wykaz producentów objętych przez nią kontrolą zgodności do dnia 31 grudnia poprzedniego roku, który zawiera: imię i nazwisko albo nazwę producenta, miejsce zamieszkania i adres albo siedzibę i adres producenta, rodzaj produktu, wielkość produkcji danego produktu w roku poprzedzającym rok złożenia sprawozdania;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **3)** informacje o zastosowanych w ramach postępowania kontrolnego procedurach na podstawie dokumentów, o których mowa w art. 31 ust. 7 pkt 3.
 
@@ -566,7 +564,7 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 5. Wniosek, o którym mowa w ust. 3, zawiera:
 
-- **1)** nazwę grupy, jej siedzibę i adres lub adres do doręczeń, a w przypadku osób fizycznych tworzących grupę imię i nazwisko, miejsce zamieszkania i adres tych osób lub adres do doręczeń osoby składającej ten wniosek;
+- **1)** nazwę grupy, jej siedzibę i adres lub adres do doręczeń, a w przypadku osób fizycznych tworzących grupę – imię i nazwisko, miejsce zamieszkania i adres tych osób lub adres do doręczeń osoby składającej ten wniosek;
 - **2)** numer w Krajowym Rejestrze Sądowym, o ile grupa taki numer posiada;
 - **3)** liczbę członków grupy ze wskazaniem liczby członków grupy posiadających certyfikat zgodności albo świadectwo jakości;
 - **4)** nazwę produktu wpisanego do rejestru, o którym mowa w art. 11, art. 22 rozporządzenia nr 1151/2012 lub art. 104 rozporządzenia nr 1308/2013, lub art. 12 rozporządzenia 2019/34, jako chroniona nazwa pochodzenia, chronione oznaczenie geograficzne albo gwarantowana tradycyjna specjalność.
@@ -585,9 +583,9 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 5. Grupę wykreśla się z wykazu w przypadku:
 
-- **1)** wpisania do:
-    - **a)** Centralnej Ewidencji i Informacji o Działalności Gospodarczej informacji o zaprzestaniu wykonywania działalności gospodarczej przez wspólników spółki cywilnej, którzy tworzą grupę, albo o ogłoszeniu upadłości i zakończeniu postępowania upadłościowego wobec wspólników spółki cywilnej będącej grupą,
-    - **b)** Krajowego Rejestru Sądowego informacji o otwarciu likwidacji albo rozwiązaniu grupy będącej spółką bez przeprowadzenia likwidacji, albo o ogłoszeniu upadłości i zakończeniu postępowania upadłościowego wobec grupy będącej spółką;
+- **1)** wpisania do: Centralnej Ewidencji i Informacji o Działalności Gospodarczej informacji o zaprzestaniu wykonywania działalności gospodarczej przez wspólników spółki cywilnej, którzy tworzą grupę, albo o ogłoszeniu upadłości i zakończeniu postępowania upadłościowego wobec wspólników spółki cywilnej będącej grupą, Krajowego Rejestru Sądowego informacji o otwarciu likwidacji albo rozwiązaniu grupy będącej spółką bez przeprowadzenia likwidacji, albo o ogłoszeniu upadłości i zakończeniu postępowania upadłościowego wobec grupy będącej spółką;
+    - **a)**
+    - **b)**
 
 - **2)** niezłożenia przez grupę wniosku o wpis do wykazu na dany rok.
 
@@ -645,14 +643,14 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 1. Wniosek o wpis na listę produktów tradycyjnych zawiera:
 
 - **1)** imię i nazwisko albo nazwę, miejsce zamieszkania i adres albo siedzibę i adres lub adres do doręczeń wnioskodawcy;
-- **2)** opis produktu rolnego, środka spożywczego lub napoju spirytusowego, który zawiera:
-    - **a)** nazwę produktu rolnego, środka spożywczego lub napoju spirytusowego,
-    - **b)** rodzaj produktu rolnego, środka spożywczego lub napoju spirytusowego,
-    - **c)** charakterystykę produktu rolnego, środka spożywczego lub napoju spirytusowego,
-    - **d)** surowce wykorzystywane do produkcji produktu rolnego, środka spożywczego lub napoju spirytusowego,
-    - **e)** informacje dotyczące tradycji, pochodzenia oraz historii produktu rolnego, środka spożywczego lub napoju spirytusowego potwierdzające spełnianie wymagań określonych w art. 46 ust. 1 i 2,
-    - **f)** metodę produkcji produktu rolnego, środka spożywczego lub napoju spirytusowego,
-    - **g)** streszczenie informacji, o których mowa w lit. a–f, w wersji edytowalnej składające się z nie więcej niż 3000 znaków drukarskich łącznie ze spacjami.
+- **2)** opis produktu rolnego, środka spożywczego lub napoju spirytusowego, który zawiera: nazwę produktu rolnego, środka spożywczego lub napoju spirytusowego, rodzaj produktu rolnego, środka spożywczego lub napoju spirytusowego, charakterystykę produktu rolnego, środka spożywczego lub napoju spirytusowego, surowce wykorzystywane do produkcji produktu rolnego, środka spożywczego lub napoju spirytusowego, informacje dotyczące tradycji, pochodzenia oraz historii produktu rolnego, środka spożywczego lub napoju spirytusowego potwierdzające spełnianie wymagań określonych w art. 46 ust. 1 i 2, metodę produkcji produktu rolnego, środka spożywczego lub napoju spirytusowego, streszczenie informacji, o których mowa w lit. a-f, w wersji edytowalnej składające się z nie więcej niż 3000 znaków drukarskich łącznie ze spacjami.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
 2. We wniosku o wpis na listę produktów tradycyjnych można również podać inne dane kontaktowe niż dane wymienione w ust. 1 pkt 1, takie jak adres poczty elektronicznej, adres strony internetowej lub numer telefonu.
 
@@ -660,7 +658,7 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 4. W przypadku gdy wniosek o wpis na listę produktów tradycyjnych jest składany w postaci papierowej, dołącza się go również na informatycznym nośniku danych.
 
-5. Lista produktów tradycyjnych zawiera informacje, o których mowa w ust. 1 pkt 2 lit. a–f, i jest udostępniana na stronie internetowej urzędu obsługującego ministra właściwego do spraw rynków rolnych.
+5. Lista produktów tradycyjnych zawiera informacje, o których mowa w ust. 1 pkt 2 lit. a-f, i jest udostępniana na stronie internetowej urzędu obsługującego ministra właściwego do spraw rynków rolnych.
 
 **Art. 49.**
 
@@ -674,7 +672,7 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 1. Właściwy marszałek województwa:
 
-- **1)** przekazuje ministrowi właściwemu do spraw rynków rolnych kopię wniosku o wpis na listę produktów tradycyjnych wraz z kopią opinii, o której mowa w art. 49 ust. 2 w przypadku gdy wniosek o wpis na listę produktów tradycyjnych spełnia wymagania określone w art. 46 ust. 1 i 2;
+- **1)** przekazuje ministrowi właściwemu do spraw rynków rolnych kopię wniosku o wpis na listę produktów tradycyjnych wraz z kopią opinii, o której mowa w art. 49 ust. 2 – w przypadku gdy wniosek o wpis na listę produktów tradycyjnych spełnia wymagania określone w art. 46 ust. 1 i 2;
 - **2)** wydaje decyzję stwierdzającą niespełnianie przez wniosek o wpis na listę produktów tradycyjnych wymagań określonych w art. 46 ust. 1 i 2.
 
 2. W przypadku wydania decyzji, o której mowa w ust. 1 pkt 2, właściwy marszałek województwa nie przekazuje ministrowi właściwemu do spraw rynków rolnych dokumentów, o których mowa w pkt 1.
@@ -720,9 +718,9 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 - **7)** przyjmuje wnioski o przeprowadzenie kontroli zgodności i wydaje certyfikaty zgodności mimo zakazu, o którym mowa w art. 32 ust. 7 pkt 2,
 - **8)** wydaje, ogranicza, zawiesza i cofa certyfikaty zgodności lub wykonuje inne czynności urzędowe, mimo że przestała spełniać warunki określone w art. 29 lit. b rozporządzenia 2017/625,
 - **9)** działa jako upoważniona jednostka certyfikująca mimo doręczenia decyzji o wycofaniu zadań, o którym mowa w art. 33 lit. b rozporządzenia 2017/625,
-- **10)** nie informuje Głównego Inspektora lub innych upoważnionych jednostek certyfikujących o:
-    - **a)** odmowie wydania certyfikatu zgodności, wbrew obowiązkowi wynikającemu z art. 35 ust. 5, albo
-    - **b)** cofnięciu certyfikatu zgodności, wbrew obowiązkowi wynikającemu z art. 35 ust. 7,
+- **10)** nie informuje Głównego Inspektora lub innych upoważnionych jednostek certyfikujących o: odmowie wydania certyfikatu zgodności, wbrew obowiązkowi wynikającemu z art. 35 ust. 5, albo cofnięciu certyfikatu zgodności, wbrew obowiązkowi wynikającemu z art. 35 ust. 7,
+    - **a)**
+    - **b)**
 
 - **11)** wbrew obowiązkowi, o którym mowa w art. 36 ust. 1, nie prowadzi wykazu, o którym mowa w tym przepisie,
 - **12)** wbrew obowiązkowi wynikającemu z art. 36 ust. 2, nie przekazuje Głównemu Inspektorowi wykazu, o którym mowa w art. 36 ust. 1, lub nie przekazuje tego wykazu w terminie określonym w art. 36 ust. 2, lub przekazuje go niezgodnie z formą lub sposobem określonymi w tym przepisie, lub przekazuje ten wykaz zawierający nieprawdziwe lub niekompletne dane lub informacje,
@@ -738,17 +736,17 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 1. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która używa nazwy zarejestrowanej jako nazwa pochodzenia, oznaczenie geograficzne lub gwarantowana tradycyjna specjalność albo określeń tradycyjnych niezgodnie ze specyfikacją produktu lub narusza zakres ochrony tej nazwy określony w:
 
-- **1)** art. 13 ust. 1 lub art. 24 ust. 1, 2 i 4 rozporządzenia nr 1151/2012 w przypadku produktów rolnych i środków spożywczych,
-- **2)** art. 103 ust. 2 rozporządzenia nr 1308/2013 w przypadku win,
-- **3)** art. 113 ust. 2 rozporządzenia nr 1308/2013 w przypadku określeń tradycyjnych,
-- **4)** art. 21 ust. 2 rozporządzenia 2019/787 w przypadku napojów spirytusowych podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
+- **1)** art. 13 ust. 1 lub art. 24 ust. 1, 2 i 4 rozporządzenia nr 1151/2012 – w przypadku produktów rolnych i środków spożywczych,
+- **2)** art. 103 ust. 2 rozporządzenia nr 1308/2013 – w przypadku win,
+- **3)** art. 113 ust. 2 rozporządzenia nr 1308/2013 – w przypadku określeń tradycyjnych,
+- **4)** art. 21 ust. 2 rozporządzenia 2019/787 – w przypadku napojów spirytusowych podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
 
 2. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która ponownie używa nazwy zarejestrowanej jako nazwa pochodzenia, oznaczenie geograficzne lub gwarantowana tradycyjna specjalność albo określeń tradycyjnych niezgodnie ze specyfikacją produktu lub narusza zakres ochrony tej nazwy określony w:
 
-- **1)** art. 13 ust. 1 lub art. 24 ust. 1, 2 i 4 rozporządzenia nr 1151/2012 w przypadku produktów rolnych i środków spożywczych,
-- **2)** art. 103 ust. 2 rozporządzenia nr 1308/2013 w przypadku win,
-- **3)** art. 113 ust. 2 rozporządzenia nr 1308/2013 w przypadku określeń tradycyjnych,
-- **4)** art. 21 ust. 2 rozporządzenia 2019/787 w przypadku napojów spirytusowych podlega karze pieniężnej w wysokości do pięćdziesięciokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary, nie niższej od wysokości kary pieniężnej nałożonej poprzednio za takie naruszenie.
+- **1)** art. 13 ust. 1 lub art. 24 ust. 1, 2 i 4 rozporządzenia nr 1151/2012 – w przypadku produktów rolnych i środków spożywczych,
+- **2)** art. 103 ust. 2 rozporządzenia nr 1308/2013 – w przypadku win,
+- **3)** art. 113 ust. 2 rozporządzenia nr 1308/2013 – w przypadku określeń tradycyjnych,
+- **4)** art. 21 ust. 2 rozporządzenia 2019/787 – w przypadku napojów spirytusowych podlega karze pieniężnej w wysokości do pięćdziesięciokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary, nie niższej od wysokości kary pieniężnej nałożonej poprzednio za takie naruszenie.
 
 3. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która używa oznaczenia, skrótu lub symbolu z naruszeniem przepisów, o których mowa w:
 
@@ -780,15 +778,15 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 **Art. 58.** W przypadku uchylenia albo stwierdzenia nieważności decyzji o nałożeniu kary pieniężnej, albo uwzględnienia skargi na decyzję o nałożeniu kary pieniężnej przez organ, który wydał decyzję, albo przez sąd administracyjny uiszczona kara pieniężna podlega zwrotowi w terminie 14 dni od dnia, w którym wydana decyzja lub wydane orzeczenie o zwrocie tej kary stały się ostateczne.
 
-**Art. 59.** W zakresie nieuregulowanym w tym rozdziale oraz w Kpa do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180, 326, 511 i 556), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli.
+**Art. 59.** W zakresie nieuregulowanym w tym rozdziale oraz w Kpa do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180, 326, 511 i 556), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli.
 
 #### Rozdział 13 Zmiany w przepisach
 
-**Art. 60.** W ustawie z dnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324 oraz z 2022 r. poz. 2185) wprowadza się następujące zmiany:
+**Art. 60.** W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324 oraz z 2022 r. poz. 2185) wprowadza się następujące zmiany:
 
 **Art. 61.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2022 r. poz. 1688, 2185 i 2254 oraz z 2023 r. poz. 177 i 412) wprowadza się następujące zmiany:
 
-**Art. 62.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2022 r. poz. 2101 oraz z 2023 r. poz. 412 i 533) art. 40b otrzymuje brzmienie: „Art. 40b. Jeżeli naruszenie, o którym mowa w art. 40a ust. 1 pkt 3 lub ust. 3, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 56 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), lub art. 24 ust. 1 pkt 4, 5 lub 6 lub ust. 2 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412 i 588), karę pieniężną nakłada się na podstawie przepisów niniejszej ustawy.”.
+**Art. 62.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2022 r. poz. 2101 oraz z 2023 r. poz. 412 i 533) art. 40b otrzymuje brzmienie: „ Jeżeli naruszenie, o którym mowa w art. 40a ust. 1 pkt 3 lub ust. 3, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 56 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), lub art. 24 ust. 1 pkt 4, 5 lub 6 lub ust. 2 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412 i 588), karę pieniężną nakłada się na podstawie przepisów niniejszej ustawy. ” .
 
 **Art. 63.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2022 r. poz. 2629 i 2727 oraz z 2023 r. poz. 412) w art. 32 w ust. 5 wyrazy „lub produktów tradycyjnych wpisanych na listę, o której mowa w art. 47 ust. 1 ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2022 r. poz. 2268)” zastępuje się wyrazami „lub produktów wpisanych na listę, o której mowa w art. 46 ust. 1 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588)”.
 
@@ -798,11 +796,11 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 **Art. 66.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2022 r. poz. 2157 i 2727 oraz z 2023 r. poz. 412) w art. 5 w ust. 2 wyrazy „wnioskodawcy w rozumieniu art. 2 pkt 1 ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2021 r. poz. 224 oraz z 2022 r. poz. 1370) będący” zastępuje się wyrazami „grupy w rozumieniu art. 2 pkt 2 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588) będące”.
 
-**Art. 67.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 67.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 68.** W ustawie z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2023 r. poz. 430) w art. 9 w ust. 2 pkt 26 otrzymuje brzmienie: „26) prowadzenie rejestru, o którym mowa w art. 3 ust. 1 ustawy z dnia 18 października 2006 r. o wyrobie napojów spirytusowych (Dz. U. z 2020 r. poz. 1419, z 2022 r. poz. 2015 oraz z 2023 r. poz. 588).”.
+**Art. 68.** W ustawie z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2023 r. poz. 430) w art. 9 w ust. 2 pkt 26 otrzymuje brzmienie: „
 
-**Art. 69.** W ustawie z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412) w art. 37 w ust. 2 w pkt 1 lit. a otrzymuje brzmienie: „a) nieprzetworzone rośliny i produkty roślinne, w tym nasiona i inny materiał przeznaczony do reprodukcji roślin, oraz”.
+**Art. 69.** W ustawie z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412) w art. 37 w ust. 2 w pkt 1 lit. a otrzymuje brzmienie: „
 
 #### Rozdział 14 Przepisy dostosowujące, przejściowe i końcowe
 
@@ -853,5 +851,5 @@ o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarant
 
 **Art. 81.** Traci moc:
 
-**Art. 82.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 82.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

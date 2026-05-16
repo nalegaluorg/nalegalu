@@ -8,9 +8,10 @@ pos: 285
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lutego 2020 r.
+# Ustawa z dnia 23 stycznia 2020 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,116 +25,196 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/285/text.pdf) |
 
-USTAWA dnia 23 stycznia 2020 r.
-o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2019 r. poz. 2178) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. 2019 r. poz. 2178) wprowadza się następujące zmiany:
+**Art. 24b.** Organy Inspekcji oraz upoważnieni przez nie pracownicy Inspekcji, wykonując zadania Inspekcji, podlegają ochronie prawnej przewidzianej dla funkcjonariuszy publicznych. ” ;
 
-**Art. 2.** W ustawie dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 2019 r. poz. 900, późn. zm. ) art. 299 § 3 pkt 16 kropkę zastępuje się średnikiem dodaje się pkt 17 brzmieniu: „17) organom Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych związku kontrolami przeprowadzanymi na podstawie art. 17c ustawy dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. 2019 r. poz. 2178 oraz 2020 r. poz. 285) oraz zakresie prowadzonych postępowań sprawie wymierzenia kar pieniężnych na podstawie art. 40a ust. 1–3a tej ustawy.”.
+**Art. 28a.**
 
-**Art. 3.** W ustawie dnia 7 października 1999 r. o języku polskim (Dz. U. 2019 r. poz. 1480) art. 7b otrzymuje brzmienie: „Art. 7b. Kontrolę używania języka polskiego zakresie, o którym mowa art. 7 art. 7a, sprawują, odpowiednio do zakresu swoich zadań, Prezes Urzędu Ochrony Konkurencji Konsumentów, Inspekcja Handlowa, Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych oraz powiatowy (miejski) rzecznik konsumentów, jak również Państwowa Inspekcja Pracy.”.
+1. Główny Inspektor oraz upoważnieni przez niego pracownicy Inspekcji są uprawnieni do nadzorowania kontroli przeprowadzanej przez wojewódzkich inspektorów w celu sprawdzenia prawidłowości przeprowadzania tej kontroli.
 
-**Art. 4.** W ustawie dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. 2019 r. poz. 1668 2166) wprowadza się następujące zmiany:
+2. Przed przystąpieniem do nadzorowania kontroli, o której mowa w ust. 1, Główny Inspektor oraz upoważniony przez niego pracownik Inspekcji są obowiązani okazać legitymację służbową podmiotowi kontrolowanemu lub osobie przez niego upoważnionej oraz pracownikowi Inspekcji przeprowadzającemu kontrolę, a także okazać upoważnienie podmiotowi kontrolowanemu lub osobie przez niego upoważnionej, a w przypadku nieobecności tych osób – osobie uczestniczącej w przeprowadzaniu kontroli.
 
-**Art. 5.** W ustawie dnia 11 maja 2001 r. Prawo o miarach (Dz. U. 2020 r. poz. 140) art. 22 ust. 1 otrzymuje brzmienie: „1. Do kontroli wykonywania przepisów niniejszej ustawy oraz ustawy dnia 7 maja 2009 r. o towarach paczkowanych uprawnione są także, ramach swoich kompetencji, inne jednostki administracji publicznej, a szczególności Inspekcja Handlowa, Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych, Państwowa Inspekcja Sanitarna oraz urzędy górnicze.”.
+3. Do nadzorowania kontroli, o której mowa w ust. 1, stosuje się przepisy art. 24 ust. 1 pkt 1–2, 4 i 5 oraz art. 24a.
 
-**Art. 6.** W ustawie dnia 19 grudnia 2003 r. o organizacji rynków owoców warzyw oraz rynku chmielu (Dz. U. 2019 r. poz. 935) wprowadza się następujące zmiany:
+4. Główny Inspektor oraz upoważniony przez niego pracownik Inspekcji mogą dokonać zabezpieczenia, o którym mowa w art. 26, w sposób określony w art. 27.
 
-**Art. 7.** W ustawie dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. 2018 r. poz. 1557) wprowadza się następujące zmiany:
+5. Z czynności przeprowadzonych w toku nadzoru, o którym mowa w ust. 1, sporządza się protokół. Do sporządzania protokołu stosuje się przepisy art. 28.
 
-**Art. 8.** W ustawie dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. 2018 r. poz. 1967 oraz 2020 r. poz. 148) art. 62 ust. 1 otrzymuje brzmienie: „1. Organy Inspekcji Weterynaryjnej, Państwowej Inspekcji Sanitarnej, Państwowej Inspekcji Farmaceutycznej, Inspekcji Transportu Drogowego, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz jednostki samorządu terytorialnego współpracują przy zwalczaniu chorób zakaźnych zwierząt, tym chorób odzwierzęcych.”.
+6. W przypadku gdy Główny Inspektor albo upoważniony przez niego pracownik Inspekcji stwierdzi nieprawidłowości kontroli przeprowadzanej pod nadzorem, wydaje wojewódzkiemu inspektorowi polecenie niezwłocznego usunięcia tych nieprawidłowości.
 
-**Art. 9.** W ustawie dnia 17 grudnia 2004 r. o rejestracji ochronie nazw oznaczeń produktów rolnych środków spożywczych oraz o produktach tradycyjnych (Dz. U. 2019 r. poz. 915) wprowadza się następujące zmiany:
+7. Główny Inspektor kieruje do właściwego wojewódzkiego inspektora pisemne polecenia lub wytyczne, jeżeli jest to niezbędne w celu usunięcia stwierdzonych nieprawidłowości kontroli przeprowadzanej pod nadzorem.
 
-**Art. 10.** W ustawie dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. 2019 r. poz. 824 oraz 2020 r. poz. 148) art. 22 ust. 1 pkt 2 lit. b otrzymuje brzmienie: „b) wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych.”.
+8. Wojewódzki inspektor jest obowiązany poinformować Głównego Inspektora, w wyznaczonym przez Głównego Inspektora terminie, o sposobie wykonania poleceń lub wytycznych, o których mowa w ust. 7. ” ;
 
-**Art. 11.** W ustawie dnia 22 lipca 2006 r. o paszach (Dz. U. 2019 r. poz. 269 oraz 2020 r. poz. 284) art. 33 ust. 2 otrzymuje brzmienie: „2. Organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych sprawują, zgodnie przepisami ustawy dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. 2019 r. poz. 2178 oraz 2020 r. poz. 285), nadzór nad obrotem detalicznym paszami przeznaczonymi dla zwierząt domowych, wyłączeniem obrotu tymi paszami prowadzonego przez zakłady lecznicze dla zwierząt.”.
+- **10)** w art. 29: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wykonując zadania, o których mowa w art. 17 ust. 1 pkt 1 lit. a oraz e-k, wojewódzki inspektor, w drodze decyzji, może: ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) nakazać w punktach sprzedaży należących do podmiotu kontrolowanego wycofanie z obrotu całej partii artykułu rolno-spożywczego zafałszowanego, jeżeli stwierdzony rodzaj nieprawidłowości odnosi się do całej partii produkcyjnej artykułu rolno-spożywczego. ” , ust. 2 i 3 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
 
-**Art. 12.** W ustawie dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności żywienia (Dz. U. 2019 r. poz. 1252 oraz 2020 r. poz. 284) wprowadza się następujące zmiany:
+2. Decyzje, o których mowa w ust. 1 pkt 1–3 i 6, mogą być wydane przed zakończeniem kontroli.
 
-**Art. 13.** W ustawie dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. 2020 r. poz. 265) wprowadza się następujące zmiany:
+3. Decyzje, o których mowa w ust. 1 pkt 1–3 i 6, podlegają natychmiastowemu wykonaniu. ” ;
 
-**Art. 14.** W ustawie dnia 5 grudnia 2008 r. o organizacji rynku rybnego (Dz. U. 2019 r. poz. 1489) wprowadza się następujące zmiany:
+- **11)** w art. 32: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 15.** W ustawie dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. 2019 r. poz. 1353 1824) wprowadza się następujące zmiany:
+1. Badania laboratoryjne związane z kontrolą jakości handlowej artykułów rolno-spożywczych są przeprowadzane w laboratoriach Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych, w tym w krajowych laboratoriach referencyjnych, o których mowa w art. 100 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.). ” , ust. 3a otrzymuje brzmienie: „
 
-**Art. 16.** W ustawie dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. 2020 r. poz. 277) art. 107 ust. 3 otrzymuje brzmienie: „3. Główny Inspektor Rybołówstwa Morskiego przy realizacji swoich zadań współdziała organami jednostkami organizacyjnymi Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, Krajowej Administracji Skarbowej, Inspekcji Weterynaryjnej, Państwowej Inspekcji Sanitarnej, Państwowej Straży Rybackiej, Społecznej Straży Rybackiej, Straży Granicznej, Inspekcji Transportu Drogowego Policji oraz ze strażami gminnymi, wojewódzkimi inspektoratami ochrony środowiska, podmiotami zarządzającymi portami przystaniami morskimi terenowymi organami administracji morskiej, uwzględnieniem właściwości kompetencji tych organów jednostek organizacyjnych.”.
+- **b)**
 
-**Art. 17.** W ustawie dnia 13 czerwca 2019 r. o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów (Dz. U. poz. 1401) wprowadza się następujące zmiany:
+3a. Badania laboratoryjne związane z kontrolą jakości handlowej artykułów rolno-spożywczych są finansowane ze środków Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych. ” ;
+
+- **12)** w art. 39: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Przedsiębiorcy są obowiązani wnieść opłaty za czynności przeprowadzone w ramach kontroli:
+
+- **1)** granicznej jakości handlowej artykułów rolno-spożywczych;
+- **2)** jakości handlowej artykułów rolno-spożywczych innej niż określona w pkt 1, w tym przeprowadzonej na podstawie przepisów odrębnych, jeżeli w wyniku tej kontroli stwierdzono, że artykuły rolno-spożywcze nie odpowiadają wymaganiom w zakresie jakości handlowej wynikającym z przepisów o jakości handlowej lub wymaganiom dodatkowym zadeklarowanym przez producenta. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. Opłaty, o których mowa w ust. 1, są wpłacane na rachunek bankowy odpowiednio Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych. ” ;
+
+- **13)** w art. 40a: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) uniemożliwia organowi Inspekcji przeprowadzanie kontroli, o których mowa w ustawie, lub kontroli przeprowadzanych na podstawie przepisów odrębnych, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary; 2) utrudnia organowi Inspekcji przeprowadzanie kontroli, o których mowa w ustawie, lub kontroli przeprowadzanych na podstawie przepisów odrębnych, podlega karze pieniężnej w wysokości do piętnastokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary; ” , – w pkt 6 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) nie wykonuje decyzji, o których mowa w art. 29 ust. 1, podlega karze pieniężnej w wysokości do trzykrotnej wartości korzyści majątkowej uzyskanej, lub która mogłaby zostać uzyskana przez wprowadzenie do obrotu artykułów rolno-spożywczych będących przedmiotem tych decyzji, nie niższej jednak niż 500 zł. ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+4. Kary pieniężne, o których mowa w ust. 1–3a, wymierza, w drodze decyzji, Główny Inspektor albo wojewódzki inspektor właściwy ze względu na miejsce przeprowadzenia kontroli. ” , ust. 5–5b otrzymują brzmienie: „
+
+- **c)**
+
+5. Ustalając wysokość kary pieniężnej, Główny Inspektor albo wojewódzki inspektor uwzględnia stopień szkodliwości czynu, zakres naruszenia, dotychczasową działalność podmiotu działającego na rynku artykułów rolno-spożywczych i wielkość jego obrotów oraz przychodu, a także wartość kontrolowanych artykułów rolno-spożywczych.
+
+5a. Przed ustaleniem wysokości kary pieniężnej Główny Inspektor albo wojewódzki inspektor może żądać okazania dokumentów związanych z ustaleniem okoliczności, o których mowa w ust. 5, w szczególności dotyczących obrotów, przychodu i wartości kontrolowanych artykułów rolno-spożywczych.
+
+5b. W przypadku gdy przedsiębiorca nie uzyskał przychodu w roku rozliczeniowym poprzedzającym rok nałożenia kary, przy wymierzaniu kary pieniężnej na podstawie ust. 1 pkt 4 lub 5 Główny Inspektor albo wojewódzki inspektor wymierza karę pieniężną w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary, nie niższą jednak niż 1000 zł. ” , ust. 5d otrzymuje brzmienie: „
+
+- **d)**
+
+5d. O odstąpieniu od wymierzenia kar pieniężnych, o którym mowa w ust. 5c, rozstrzyga, w drodze decyzji, Główny Inspektor albo wojewódzki inspektor. ” , ust. 7 i 8 otrzymują brzmienie: „
+
+- **e)**
+
+7. Kary pieniężne są wpłacane na rachunek bankowy odpowiednio Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych.
+
+8. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. ” .
+
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.) w art. 299 w § 3 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „
+
+**Art. 3.** W ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2019 r. poz. 1480) art. 7b otrzymuje brzmienie: „
+
+**Art. 7b.** Kontrolę używania języka polskiego w zakresie, o którym mowa w art. 7 i art. 7a, sprawują, odpowiednio do zakresu swoich zadań, Prezes Urzędu Ochrony Konkurencji i Konsumentów, Inspekcja Handlowa, Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych oraz powiatowy (miejski) rzecznik konsumentów, jak również Państwowa Inspekcja Pracy. ” .
+
+**Art. 4.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2019 r. poz. 1668 i 2166) wprowadza się następujące zmiany:
+
+**Art. 11a.**
+
+1. Prezes Urzędu może podawać do publicznej wiadomości następujące informacje o wynikach kontroli Inspekcji:
+
+- **1)** dane identyfikujące kontrolowany podmiot,
+- **2)** dane identyfikujące podmiot odpowiedzialny za produkt poddany kontroli,
+- **3)** dane identyfikujące produkt poddany kontroli,
+- **4)** miejsce (adres) przeprowadzonej kontroli,
+- **5)** ustalenia kontroli,
+- **6)** wykorzystanie ustaleń kontroli z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów.
+
+2. Wojewódzki inspektor, w zakresie zrealizowanych przez siebie kontroli, może podawać do publicznej wiadomości informacje, o których mowa w ust. 1, z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów.
+
+3. W przypadku gdy podmiotem, o którym mowa w ust. 1 pkt 1 i 2, jest osoba fizyczna wykonująca działalność gospodarczą, dane identyfikujące ten podmiot, które są podawane do publicznej wiadomości, obejmują firmę i miejsce wykonywania działalności gospodarczej.
+
+4. Prezes Urzędu oraz wojewódzcy inspektorzy publikują – odpowiednio na stronie internetowej Urzędu Ochrony Konkurencji i Konsumentów albo na stronach internetowych wojewódzkich inspektoratów – w całości treść decyzji wydawanych na podstawie przepisów ustawy oraz przepisów odrębnych, z zastrzeżeniem, że publikacja uzasadnienia nie obejmuje informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów. Publikacja jest opatrzona informacją, czy decyzja jest prawomocna. ” ;
+
+- **4)** w art. 18: w ust. 1 uchyla się pkt 2, uchyla się ust. 5 i 6;
+    - **a)**
+    - **b)**
+
+- **5)** w art. 26a pkt 4 otrzymuje brzmienie: „
+- **4)** produktów niebezpiecznych – przez ich umieszczenie w pomieszczeniach i w warunkach spełniających wymagania określone w przepisach odrębnych. ” ;
+- **6)** w art. 26b ust. 2 otrzymuje brzmienie: „
+
+2. Jeżeli jest to możliwe, termin zabezpieczenia produktów określa się z uwzględnieniem terminów gwarancji oraz innych terminów określających ważność lub trwałość produktu. ” .
+
+**Art. 5.** W ustawie z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2020 r. poz. 140) w art. 22 ust. 1 otrzymuje brzmienie: „ 1. Do kontroli wykonywania przepisów niniejszej ustawy oraz ustawy z dnia 7 maja 2009 r. o towarach paczkowanych uprawnione są także, w ramach swoich kompetencji, inne jednostki administracji publicznej, a w szczególności Inspekcja Handlowa, Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych, Państwowa Inspekcja Sanitarna oraz urzędy górnicze. ” .
+
+**Art. 6.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2019 r. poz. 935) wprowadza się następujące zmiany:
+
+**Art. 8.** W ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2018 r. poz. 1967 oraz z 2020 r. poz. 148) w art. 62 ust. 1 otrzymuje brzmienie: „ 1. Organy Inspekcji Weterynaryjnej, Państwowej Inspekcji Sanitarnej, Państwowej Inspekcji Farmaceutycznej, Inspekcji Transportu Drogowego, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz jednostki samorządu terytorialnego współpracują przy zwalczaniu chorób zakaźnych zwierząt, w tym chorób odzwierzęcych. ” .
+
+**Art. 9.** W ustawie z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2019 r. poz. 915) wprowadza się następujące zmiany:
+
+**Art. 10.** W ustawie z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2019 r. poz. 824 oraz z 2020 r. poz. 148) w art. 22 w ust. 1 w pkt 2 lit. b otrzymuje brzmienie: „
+
+**Art. 12.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2019 r. poz. 1252 oraz z 2020 r. poz. 284) wprowadza się następujące zmiany:
+
+**Art. 13.** W ustawie z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2020 r. poz. 265) wprowadza się następujące zmiany:
+
+**Art. 14.** W ustawie z dnia 5 grudnia 2008 r. o organizacji rynku rybnego (Dz. U. z 2019 r. poz. 1489) wprowadza się następujące zmiany:
+
+**Art. 15.** W ustawie z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. z 2019 r. poz. 1353 i 1824) wprowadza się następujące zmiany:
+
+**Art. 16.** W ustawie z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2020 r. poz. 277) w art. 107 ust. 3 otrzymuje brzmienie: „ 3. Główny Inspektor Rybołówstwa Morskiego przy realizacji swoich zadań współdziała z organami i jednostkami organizacyjnymi Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, Krajowej Administracji Skarbowej, Inspekcji Weterynaryjnej, Państwowej Inspekcji Sanitarnej, Państwowej Straży Rybackiej, Społecznej Straży Rybackiej, Straży Granicznej, Inspekcji Transportu Drogowego i Policji oraz ze strażami gminnymi, wojewódzkimi inspektoratami ochrony środowiska, podmiotami zarządzającymi portami i przystaniami morskimi i z terenowymi organami administracji morskiej, z uwzględnieniem właściwości i kompetencji tych organów i jednostek organizacyjnych. ” .
+
+**Art. 17.** W ustawie z dnia 13 czerwca 2019 r. o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów (Dz. U. poz. 1401) wprowadza się następujące zmiany:
 
 **Art. 18.**
 
-1. Z dniem wejścia życie ustawy:
+1. Z dniem wejścia w życie ustawy:
 
-- **1)** nieruchomości będące trwałym zarządzie oraz pozostałe mienie będące zarządzie wojewódzkich inspektoratów inspekcji handlowej, służące wykonywaniu zadań związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych, przechodzą mocy prawa trwały zarząd albo zarząd wojewódzkich inspektoratów jakości handlowej artykułów rolno-spożywczych;
-- **2)** nieruchomości będące trwałym zarządzie oraz pozostałe mienie będące zarządzie Urzędu Ochrony Konkurencji Konsumentów, służące wykonywaniu zadań związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych, przechodzą mocy prawa trwały zarząd albo zarząd Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
+- **1)** nieruchomości będące w trwałym zarządzie oraz pozostałe mienie będące w zarządzie wojewódzkich inspektoratów inspekcji handlowej, służące wykonywaniu zadań związanych z kontrolą jakości handlowej artykułów rolno-spożywczych, w tym w zakresie ochrony interesów konsumentów artykułów rolno-spożywczych, przechodzą z mocy prawa w trwały zarząd albo w zarząd wojewódzkich inspektoratów jakości handlowej artykułów rolno-spożywczych;
+- **2)** nieruchomości będące w trwałym zarządzie oraz pozostałe mienie będące w zarządzie Urzędu Ochrony Konkurencji i Konsumentów, służące wykonywaniu zadań związanych z kontrolą jakości handlowej artykułów rolno-spożywczych, w tym w zakresie ochrony interesów konsumentów artykułów rolno-spożywczych, przechodzą z mocy prawa w trwały zarząd albo w zarząd Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
 
 2. W terminie do dnia 30 czerwca 2020 r.:
 
-- **1)** wojewódzcy inspektorzy inspekcji handlowej przekazują wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych wykazy nieruchomości będących trwałym zarządzie oraz pozostałego mienia będącego zarządzie wojewódzkich inspektoratów inspekcji handlowej, służących wykonywaniu zadań związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych;
-- **2)** Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych wykaz nieruchomości będących trwałym zarządzie oraz pozostałego mienia będącego zarządzie Urzędu Ochrony Konkurencji Konsumentów, służących wykonywaniu zadań związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych.
+- **1)** wojewódzcy inspektorzy inspekcji handlowej przekazują wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych wykazy nieruchomości będących w trwałym zarządzie oraz pozostałego mienia będącego w zarządzie wojewódzkich inspektoratów inspekcji handlowej, służących wykonywaniu zadań związanych z kontrolą jakości handlowej artykułów rolno-spożywczych, w tym w zakresie ochrony interesów konsumentów artykułów rolno-spożywczych;
+- **2)** Prezes Urzędu Ochrony Konkurencji i Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych wykaz nieruchomości będących w trwałym zarządzie oraz pozostałego mienia będącego w zarządzie Urzędu Ochrony Konkurencji i Konsumentów, służących wykonywaniu zadań związanych z kontrolą jakości handlowej artykułów rolno-spożywczych, w tym w zakresie ochrony interesów konsumentów artykułów rolno-spożywczych.
 
-3. Minister właściwy do spraw rynków rolnych, drodze decyzji wydanych terminie 3 miesięcy od dnia wejścia życie ustawy, stwierdza, na podstawie wykazów, o których mowa ust. 2, przejęcie przez poszczególne jednostki organizacyjne Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, zwanej dalej „Inspekcją”, trwałego zarządu nieruchomości służących wykonywaniu zadań związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych.
+3. Minister właściwy do spraw rynków rolnych, w drodze decyzji wydanych w terminie 3 miesięcy od dnia wejścia w życie ustawy, stwierdza, na podstawie wykazów, o których mowa w ust. 2, przejęcie przez poszczególne jednostki organizacyjne Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, zwanej dalej „Inspekcją”, trwałego zarządu nieruchomości służących wykonywaniu zadań związanych z kontrolą jakości handlowej artykułów rolno-spożywczych, w tym w zakresie ochrony interesów konsumentów artykułów rolno-spożywczych.
 
-4. Ostateczna decyzja sprawie, o której mowa ust. 3, stanowi podstawę wpisu do księgi wieczystej.
+4. Ostateczna decyzja w sprawie, o której mowa w ust. 3, stanowi podstawę wpisu do księgi wieczystej.
 
 **Art. 19.**
 
-1. Z dniem wejścia życie ustawy:
+1. Z dniem wejścia w życie ustawy:
 
-- **1)** wierzytelności zobowiązania wojewódzkich inspektoratów inspekcji handlowej, zakresie spraw związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych, stają się, mocy prawa, wierzytelnościami zobowiązaniami wojewódzkich inspektoratów jakości handlowej artykułów rolno-spożywczych;
-- **2)** wierzytelności zobowiązania Urzędu Ochrony Konkurencji Konsumentów, zakresie spraw związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych, stają się, mocy prawa, wierzytelnościami zobowiązaniami Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
+- **1)** wierzytelności i zobowiązania wojewódzkich inspektoratów inspekcji handlowej, w zakresie spraw związanych z kontrolą jakości handlowej artykułów rolno-spożywczych, w tym w zakresie ochrony interesów konsumentów artykułów rolno-spożywczych, stają się, z mocy prawa, wierzytelnościami i zobowiązaniami wojewódzkich inspektoratów jakości handlowej artykułów rolno-spożywczych;
+- **2)** wierzytelności i zobowiązania Urzędu Ochrony Konkurencji i Konsumentów, w zakresie spraw związanych z kontrolą jakości handlowej artykułów rolno-spożywczych, w tym w zakresie ochrony interesów konsumentów artykułów rolno-spożywczych, stają się, z mocy prawa, wierzytelnościami i zobowiązaniami Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
 
 2. W terminie do dnia 30 czerwca 2020 r.:
 
-- **1)** wojewódzcy inspektorzy inspekcji handlowej przekazują wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych wykazy wierzytelności zobowiązań zakresie spraw związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych;
-- **2)** Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi wykazy wierzytelności zobowiązań zakresie spraw związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych.
+- **1)** wojewódzcy inspektorzy inspekcji handlowej przekazują wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych wykazy wierzytelności i zobowiązań w zakresie spraw związanych z kontrolą jakości handlowej artykułów rolno-spożywczych, w tym w zakresie ochrony interesów konsumentów artykułów rolno-spożywczych;
+- **2)** Prezes Urzędu Ochrony Konkurencji i Konsumentów przekazuje Głównemu Inspektorowi wykazy wierzytelności i zobowiązań w zakresie spraw związanych z kontrolą jakości handlowej artykułów rolno-spożywczych, w tym w zakresie ochrony interesów konsumentów artykułów rolno-spożywczych.
 
 **Art. 20.**
 
-1. Postępowania niezakończone decyzją ostateczną, prowadzone przez organy Inspekcji Handlowej, zakresie spraw związanych wykonywaniem zadań przejętych przez Inspekcję, prowadzą, dniem wejścia życie ustawy, organy Inspekcji, stosownie do swojej właściwości.
+1. Postępowania niezakończone decyzją ostateczną, prowadzone przez organy Inspekcji Handlowej, w zakresie spraw związanych z wykonywaniem zadań przejętych przez Inspekcję, prowadzą, z dniem wejścia w życie ustawy, organy Inspekcji, stosownie do swojej właściwości.
 
-2. W sprawach sądowych, sądowo-administracyjnych lub administracyjnych, których, związku wykonywaniem zadań przejętych przez Inspekcję, stroną lub uczestnikiem były organy Inspekcji Handlowej lub jednostki organizacyjne Inspekcji Handlowej, lub Urząd Ochrony Konkurencji Konsumentów, stroną lub uczestnikiem stają się, dniem wejścia życie ustawy, organy Inspekcji, stosownie do swojej właściwości, lub właściwe jednostki organizacyjne Inspekcji.
+2. W sprawach sądowych, sądowo-administracyjnych lub administracyjnych, w których, w związku z wykonywaniem zadań przejętych przez Inspekcję, stroną lub uczestnikiem były organy Inspekcji Handlowej lub jednostki organizacyjne Inspekcji Handlowej, lub Urząd Ochrony Konkurencji i Konsumentów, stroną lub uczestnikiem stają się, z dniem wejścia w życie ustawy, organy Inspekcji, stosownie do swojej właściwości, lub właściwe jednostki organizacyjne Inspekcji.
 
 **Art. 21.**
 
-1. Wydane przez organy Inspekcji Handlowej zaświadczenia, decyzje inne dokumenty zakresie spraw związanych wykonywaniem zadań przejętych przez Inspekcję zachowują ważność na okres, na który wydane albo wystawione.
+1. Wydane przez organy Inspekcji Handlowej zaświadczenia, decyzje i inne dokumenty w zakresie spraw związanych z wykonywaniem zadań przejętych przez Inspekcję zachowują ważność na okres, na który zostały wydane albo wystawione.
 
-2. Jeżeli nabycie prawa jest uzależnione od przedłożenia zaświadczenia, decyzji lub innego dokumentu właściwego organu Inspekcji, a przed dniem wejścia życie ustawy taki dokument został wydany zgodnie właściwością przez organ Inspekcji Handlowej, to wymaganie przedłożenia dokumentu wydanego przez organ Inspekcji jest spełnione, jeżeli strona przedłoży odpowiedni dokument wydany przez organ Inspekcji Handlowej.
+2. Jeżeli nabycie prawa jest uzależnione od przedłożenia zaświadczenia, decyzji lub innego dokumentu właściwego organu Inspekcji, a przed dniem wejścia w życie ustawy taki dokument został wydany zgodnie z właściwością przez organ Inspekcji Handlowej, to wymaganie przedłożenia dokumentu wydanego przez organ Inspekcji jest spełnione, jeżeli strona przedłoży odpowiedni dokument wydany przez organ Inspekcji Handlowej.
 
-3. Organy Inspekcji, stosownie do swojej właściwości, są właściwe do uchylenia, zmiany, stwierdzenia nieważności decyzji, stwierdzenia wygaśnięcia decyzji albo wznowienia postępowania sprawach prowadzonych przez organy Inspekcji Handlowej zakresie spraw należących do zadań przejętych przez Inspekcję.
+3. Organy Inspekcji, stosownie do swojej właściwości, są właściwe do uchylenia, zmiany, stwierdzenia nieważności decyzji, stwierdzenia wygaśnięcia decyzji albo wznowienia postępowania w sprawach prowadzonych przez organy Inspekcji Handlowej w zakresie spraw należących do zadań przejętych przez Inspekcję.
 
-**Art. 22.** W terminie do dnia 30 czerwca 2020 r. Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych dane zgromadzone związku wykonywaniem zadań przejętych przez Inspekcję wraz dokumentacją, która dotyczy tych danych, tym postaci elektronicznej, niezbędne do dokonywania analizy prawdopodobieństwa naruszenia prawa, o której mowa art. 47 ust. 1 ustawy dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. 2019 r. poz. 1292 1495), a wojewódzcy inspektorzy inspekcji handlowej przekazują takie dane oraz taką dokumentację wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych.
+**Art. 22.** W terminie do dnia 30 czerwca 2020 r. Prezes Urzędu Ochrony Konkurencji i Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych dane zgromadzone w związku z wykonywaniem zadań przejętych przez Inspekcję wraz z dokumentacją, która dotyczy tych danych, w tym w postaci elektronicznej, niezbędne do dokonywania analizy prawdopodobieństwa naruszenia prawa, o której mowa w art. 47 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495), a wojewódzcy inspektorzy inspekcji handlowej przekazują takie dane oraz taką dokumentację wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych.
 
-**Art. 23.** Akta spraw, o których mowa art. 20, a także akta innych spraw związanych wykonywaniem zadań przejętych przez Inspekcję Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych, a wojewódzcy inspektorzy inspekcji handlowej wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych, terminie 7 dni od dnia wejścia życie ustawy.
+**Art. 23.** Akta spraw, o których mowa w art. 20, a także akta innych spraw związanych z wykonywaniem zadań przejętych przez Inspekcję Prezes Urzędu Ochrony Konkurencji i Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych, a wojewódzcy inspektorzy inspekcji handlowej – wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych, w terminie 7 dni od dnia wejścia w życie ustawy. 1. Prezes Urzędu Ochrony Konkurencji i Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych, a wojewódzcy inspektorzy inspekcji handlowej – właściwym miejscowo wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych, w terminie do dnia 18 maja 2020 r., imienne wykazy pracowników odpowiednio Urzędu Ochrony Konkurencji i Konsumentów oraz wojewódzkich inspektoratów inspekcji handlowej, zatrudnionych na stanowiskach związanych z kontrolą jakości handlowej artykułów rolno-spożywczych wraz z podaniem stanowisk pracy poszczególnych pracowników, według stanu najpóźniej na dzień wejścia w życie tego przepisu. 2. Pracownicy wskazani w wykazie, o którym mowa w ust. 1, z dniem wejścia w życie niniejszej ustawy stają się pracownikami odpowiednio Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych odpowiadającego właściwością miejscową wojewódzkiemu inspektoratowi inspekcji handlowej, którego pracownikami byli do dnia wejścia w życie niniejszej ustawy. 3. Do pracowników, o których mowa w ust. 2, w zakresie nieuregulowanym w niniejszej ustawie, przepisy art. 231 § 1–4 i § 6 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495) stosuje się odpowiednio. 4. Osoby zajmujące w dniu 30 czerwca 2020 r. stanowiska wojewódzkich inspektorów jakości handlowej artykułów rolno-spożywczych i ich zastępców stają się, z dniem wejścia w życie ustawy, członkami korpusu służby cywilnej zajmującymi odpowiednio stanowiska wojewódzkich inspektorów jakości handlowej artykułów rolno-spożywczych i ich zastępców. 5. Urlop bezpłatny udzielony osobom, o których mowa w ust. 4, przed dniem wejścia w życie ustawy w ramach stosunku pracy w służbie cywilnej staje się, z dniem wejścia w życie ustawy, urlopem bezpłatnym, o którym mowa w art. 53a ust. 6 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2020 r. poz. 265).
 
-**Art. 24.**
+**Art. 25.** Z dniem wejścia w życie niniejszej ustawy laboratoria Inspekcji Handlowej wykonujące zadania należące do zadań przejętych przez Inspekcję stają się laboratoriami Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
 
-1. Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych, a wojewódzcy inspektorzy inspekcji handlowej właściwym miejscowo wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych, terminie do dnia 18 maja 2020 r., imienne wykazy pracowników odpowiednio Urzędu Ochrony Konkurencji Konsumentów oraz wojewódzkich inspektoratów inspekcji handlowej, zatrudnionych na stanowiskach związanych kontrolą jakości handlowej artykułów rolno-spożywczych wraz podaniem stanowisk pracy poszczególnych pracowników, według stanu najpóźniej na dzień wejścia życie tego przepisu.
-
-2. Pracownicy wskazani wykazie, o którym mowa ust. 1, dniem wejścia życie niniejszej ustawy stają się pracownikami odpowiednio Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych odpowiadającego właściwością miejscową wojewódzkiemu inspektoratowi inspekcji handlowej, którego pracownikami byli do dnia wejścia życie niniejszej ustawy.
-
-3. Do pracowników, o których mowa ust. 2, zakresie nieuregulowanym niniejszej ustawie, przepisy art. 23 § 1–4 § 6 ustawy dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. 2019 r. poz. 1040, 1043 1495) stosuje się odpowiednio.
-
-4. Osoby zajmujące dniu 30 czerwca 2020 r. stanowiska wojewódzkich inspektorów jakości handlowej artykułów rolno-spożywczych ich zastępców stają się, dniem wejścia życie ustawy, członkami korpusu służby cywilnej zajmującymi odpowiednio stanowiska wojewódzkich inspektorów jakości handlowej artykułów rolno-spożywczych ich zastępców.
-
-5. Urlop bezpłatny udzielony osobom, o których mowa ust. 4, przed dniem wejścia życie ustawy ramach stosunku pracy służbie cywilnej staje się, dniem wejścia życie ustawy, urlopem bezpłatnym, o którym mowa art. 53a ust. 6 ustawy dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. 2020 r. poz. 265).
-
-**Art. 25.** Z dniem wejścia życie niniejszej ustawy laboratoria Inspekcji Handlowej wykonujące zadania należące do zadań przejętych przez Inspekcję stają się laboratoriami Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
-
-**Art. 26.** Do kontroli artykułów rolno-spożywczych prowadzonych przez organy Inspekcji rozpoczętych niezakończonych przed dniem wejścia życie ustawy stosuje się przepisy dotychczasowe.
+**Art. 26.** Do kontroli artykułów rolno-spożywczych prowadzonych przez organy Inspekcji rozpoczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 27.**
 
-1. Rada do Spraw Monitoringu Żywności Żywienia, o której mowa art. 87 ustawy zmienianej art. 12, dniem wejścia życie ustawy, staje się Radą, o której mowa art. 87 ustawy zmienianej art. 12, brzmieniu nadanym niniejszą ustawą.
+1. Rada do Spraw Monitoringu Żywności i Żywienia, o której mowa w art. 87 ustawy zmienianej w art. 12, z dniem wejścia w życie ustawy, staje się Radą, o której mowa w art. 87 ustawy zmienianej w art. 12, w brzmieniu nadanym niniejszą ustawą.
 
-2. Członkowie Rady do Spraw Monitoringu Żywności Żywienia, o której mowa art. 87 ustawy zmienianej art. 12, powołani przed dniem wejścia życie niniejszej ustawy, pełnią swoje funkcje Radzie, o której mowa art. 87 ustawy zmienianej art. 12, brzmieniu nadanym niniejszą ustawą, do końca kadencji, na jaką zostali powołani.
+2. Członkowie Rady do Spraw Monitoringu Żywności i Żywienia, o której mowa w art. 87 ustawy zmienianej w art. 12, powołani przed dniem wejścia w życie niniejszej ustawy, pełnią swoje funkcje w Radzie, o której mowa w art. 87 ustawy zmienianej w art. 12, w brzmieniu nadanym niniejszą ustawą, do końca kadencji, na jaką zostali powołani. W celu wykonywania przepisów niniejszej ustawy Prezes Rady Ministrów dokona, w drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
 
-**Art. 28.** W celu wykonywania przepisów niniejszej ustawy Prezes Rady Ministrów dokona, drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych, tym wynagrodzeń, między częściami, działami rozdziałami budżetu państwa, zachowaniem przeznaczenia środków publicznych wynikającego ustawy budżetowej.
+**Art. 29.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 39 ust. 3 ustawy zmienianej w art. 1 zachowują moc oraz mogą być zmieniane i uchylane na podstawie art. 39 ust. 3 ustawy zmienianej w art. 1.
 
-**Art. 29.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 39 ust. 3 ustawy zmienianej art. 1 zachowują moc oraz mogą być zmieniane uchylane na podstawie art. 39 ust. 3 ustawy zmienianej art. 1.
+**Art. 30.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 62 ust. 2 ustawy zmienianej w art. 8 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 62 ust. 2 ustawy zmienianej w art. 8, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 30.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 62 ust. 2 ustawy zmienianej art. 8 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 62 ust. 2 ustawy zmienianej art. 8, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
-
-**Art. 31.** Ustawa wchodzi życie dniem 1 lipca 2020 r., wyjątkiem:
+**Art. 31.** Ustawa wchodzi w życie z dniem 1 lipca 2020 r., z wyjątkiem:
 

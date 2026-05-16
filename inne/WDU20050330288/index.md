@@ -8,9 +8,10 @@ pos: 288
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 lutego 2005 r.
+# Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o samorządowych kolegiach odwoławczych, ustawy o działach administracji rządowej oraz ustawy o administracji rządowej w województwie
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,12 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050330288) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/288/text.pdf) |
 
-Nr 33
+**Art. 1.** W ustawie z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych (Dz. U. z 2001 r. Nr 79, poz. 856 i Nr 154, poz. 1799 oraz z 2002 r. Nr 153, poz. 1271) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 12 paêdziernika 1994 r. o samorządowych kolegiach odwoławczych (Dz. U. 2001 r. Nr 79, poz. 856 i Nr 154, poz. 1799 2002r. Nr 153, poz. 1271) wprowadza się następują1) po art. 3 dodaje się art. 3a brzmieniu: ŃArt. 3a. 1. Nadzór nad działalnością administracyjną kolegiów sprawuje Prezes Rady ce zmiany: Ministrów. 288 USTAWA dnia 25 listopada 2004 r. o zmianie ustawy o samorządowych kolegiach odwoławczych, ustawy o działach administracji rządowej ustawy o administracji rządowej województwie 2. Prezes Rady Ministrów może powierzyć wykonywanie nadzoru, o którym mowa ust. 1, ministrowi właściwemu do spraw administracji publicznej. 3. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych, określi, drodze rozporządzenia, szczegółowy tryb sprawowania nadzoru, o którym mowa ust. 1, uwzględniając, że nadzór ten:
+**Art. 3a.**
 
-**Art. 2.** W ustawie dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. 2003 r. Nr 159, poz. 1548, póên. zm. ogólne kolegium, Prezesowi Rady Mini) art. 6 ust. 2 otrzymuje brzmienie: Ń2. Minister właściwy do spraw administracji publicznej sprawuje nadzór nad Prezesem Wyższego Urzędu Górniczego i Krajową Komisją Uwłaszczeniową na podstawie kryterium zgodności prawem nad działalnością regionalnych izb obrachunkowych.”.
+1. Nadzór nad działalnością administracyjną kolegiów sprawuje Prezes Rady Ministrów.
 
-**Art. 3.** W ustawie dnia 5 czerwca 1998 r. o administracji rządowej województwie (Dz. U. 2001 r. Nr80, poz. 872, póên. zm. Dziennik Ustaw Nr 33 — 2142 — Poz. 288 ) art. 11:
+2.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 

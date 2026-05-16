@@ -8,9 +8,10 @@ pos: 1010
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 maja 2022 r.
+# Ustawa z dnia 7 kwietnia 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz ustawy – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,38 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001010) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1010/text.pdf) |
 
-Poz. 1010
-USTAWA z dnia 7 kwietnia 2022 r.
-zmianie ustawy – Prawo szkolnictwie wyższym nauce ustawy – Przepisy wprowadzające ustawę – Prawo szkolnictwie wyższym nauce
+**Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583, 655, 682 i 807) wprowadza się następujące zmiany:
 
-**Art. 1.** ustawie z dnia 20 lipca 2018 r. – Prawo szkolnictwie wyższym nauce (Dz. U. z 2022 r. poz. 574, 583, 655, 682 807) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo szkolnictwie wyższym nauce (Dz. U. poz. 1669, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 179a.**
 
-**Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+1. W przypadku uzyskania w wyniku pierwszej ewaluacji jakości działalności naukowej, o której mowa w art. 265 ust. 1 ustawy, o której mowa w art. 1, przez podmiot posiadający uprawnienie do nadawania stopnia doktora w danej dyscyplinie kategorii naukowej B w tej dyscyplinie:
+
+- **1)** postępowania w sprawie nadania stopnia doktora wszczęte przed dniem przyznania tej kategorii naukowej mogą być kontynuowane, jednak nie dłużej niż do dnia uzyskania przez ten podmiot kategorii naukowej w wyniku drugiej ewaluacji jakości działalności naukowej;
+- **2)** przewody doktorskie wszczęte przed dniem przyznania tej kategorii naukowej mogą być kontynuowane, jednak nie dłużej niż do dnia, o którym mowa w art. 179 ust. 4 pkt 2.
+
+2. W przypadku uzyskania w wyniku pierwszej ewaluacji jakości działalności naukowej, o której mowa w art. 265 ust. 1 ustawy, o której mowa w art. 1, przez podmiot posiadający uprawnienie do nadawania stopnia doktora w danej dyscyplinie kategorii naukowej C w tej dyscyplinie przewody doktorskie wszczęte przed dniem przyznania tej kategorii naukowej są kontynuowane przez podmiot wyznaczony przez Radę Doskonałości Naukowej, jednak nie dłużej niż do dnia, o którym mowa w art. 179 ust. 4 pkt 2.
+
+3. W podmiocie, o którym mowa w ust. 1, nie wszczyna się postępowań w sprawie nadania stopnia doktora.
+
+4. Jeżeli w wyniku drugiej ewaluacji jakości działalności naukowej podmiot, o którym mowa w ust. 1, uzyska w danej dyscyplinie kategorię naukową B albo C, traci uprawnienie do nadawania stopnia doktora w tej dyscyplinie. ” ;
+
+- **3)** po art. 290 dodaje się art. 290a w brzmieniu: „
+
+**Art. 290a.**
+
+1. W przypadku uzyskania w wyniku pierwszej ewaluacji jakości działalności naukowej, o której mowa w art. 265 ust. 1 ustawy, o której mowa w art. 1, przez podmiot prowadzący szkołę doktorską kategorii naukowej B w co najmniej jednej dyscyplinie, w której jest prowadzone kształcenie w tej szkole:
+
+- **1)** kształcenie w dyscyplinie albo w dyscyplinach, w których podmiot uzyskał tę kategorię naukową, może być prowadzone w tej szkole wyłącznie dla doktorantów, którzy je rozpoczęli nie później niż w roku akademickim, w którym została przyznana ta kategoria naukowa,
+- **2)** szkoła doktorska może być prowadzona po zakończeniu roku akademickiego, w którym została przyznana ta kategoria naukowa, mimo zaprzestania spełniania warunków, o których mowa w art. 198 ust. 3–5 ustawy, o której mowa w art. 1 jednak nie dłużej niż do końca roku akademickiego, w którym podmiot uzyska w danej dyscyplinie albo w danych dyscyplinach kategorię naukową albo kategorie naukowe w wyniku drugiej ewaluacji jakości działalności naukowej.
+
+2. W przypadku, o którym mowa w ust. 1 pkt 2, podmiot prowadzący szkołę doktorską nie może prowadzić rekrutacji do tej szkoły.
+
+3. Jeżeli kategoria naukowa albo kategorie naukowe uzyskane w wyniku drugiej ewaluacji jakości działalności naukowej będą nie niższe niż B+, podmiot może prowadzić kształcenie doktorantów w szkole doktorskiej, poczynając od roku akademickiego następującego po roku, w którym uzyskał tę kategorię naukową albo te kategorie naukowe, na zasadach obowiązujących w roku akademickim, w którym:
+
+- **1)** uzyskał kategorię naukową B w danej dyscyplinie albo w danych dyscyplinach;
+- **2)** zaprzestał spełniania warunków, o których mowa w art. 198 ust. 3–5 ustawy, o której mowa w art. 1. ” .
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

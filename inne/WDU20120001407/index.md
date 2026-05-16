@@ -8,11 +8,10 @@ pos: 1407
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz niektórych innych ustaw
-
-*USTAWA dnia 7 grudnia 2012 zmianie ustawy ewidencji ludności dowodach osobistych oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -26,19 +25,144 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001407) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1407/text.pdf) |
 
-**Art. 1.** W ustawie dnia 10 kwietnia 1974 ewidencji ludności dowodach osobistych (Dz. U. 2006 139, 993, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 56.** Orzekanie sprawach czyny, których mowa 55, następuje trybie przepisów ustawy dnia 24 sierpnia 2001 Kodeks postępowania sprawach wykroczenia (Dz. U. 2008 133, 848, późn. zm. ).”.
+**Art. 9.**
 
-**Art. 2.** W ustawie dnia 21 listopada 1967 powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 2012 461 1101) wprowadza się następujące zmiany:
+1. Przy dopełnianiu obowiązku meldunkowego należy przedstawić dowód osobisty, a w uzasadnionych przypadkach – inny dokument pozwalający na ustalenie tożsamości.
 
-**Art. 4.** W ustawie dnia 6 sierpnia 2010 dowodach osobistych (Dz. U. 167, 1131 oraz 2011 133,
+2. Osoba niepełnoletnia nieposiadająca dokumentu stwierdzającego tożsamość przedstawia odpis skrócony aktu urodzenia.
 
-**Art. 5.** W ustawie dnia 24 września 2010 ewidencji ludności (Dz. U. 217, 1427, późn. zm. ) wprowadza się następujące zmiany:
+3. Zameldowania się w miejscu pobytu stałego lub czasowego trwającego ponad 3 miesiące, wymeldowania się z miejsca pobytu stałego lub czasowego trwającego ponad 3 miesiące, zgłoszenia wyjazdu poza granice Rzeczypospolitej Polskiej oraz powrotu z wyjazdu poza granice Rzeczypospolitej Polskiej można dopełnić przez pełnomocnika, legitymującego się pełnomocnictwem udzielonym w formie, o której mowa w art. 33 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.), po okazaniu przez pełnomocnika do wglądu jego dowodu osobistego, a w uzasadnionych przypadkach – innego dokumentu pozwalającego na ustalenie tożsamości. ” ;
 
-**Art. 6.** Zameldowanie na pobyt czasowy trwający do 3 miesięcy obywateli polskich oraz cudzoziemców, których mowa 24 ust. 1 2 ustawy dnia 10 kwietnia 1974 ewidencji ludności dowodach osobistych, dokonane na podstawie tej ustawy wygasa dniem wejścia życie niniejszej ustawy.
+- **3)** art. 10 otrzymuje brzmienie: „
 
-**Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie 51 ust. 1 ustawy, której mowa 1, zachowują moc do czasu wejścia życie przepisów wykonawczych wydanych na podstawie 51 ust. 1 ustawy, której mowa 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 3 miesiące od dnia wejścia życie ustawy.
+**Art. 10.**
 
-**Art. 8.** Ustawa wchodzi życie dniem 31 grudnia 2012 r., wyjątkiem 1 pkt 23, który wchodzi życie dniem 1 stycznia 2013 Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+1. Osoba przebywająca na terytorium Rzeczypospolitej Polskiej jest obowiązana zameldować się w miejscu pobytu stałego lub czasowego trwającego ponad 3 miesiące najpóźniej w 30. dniu, licząc od dnia przybycia do tego miejsca.
+
+2. Zameldowanie w lokalu służy wyłącznie celom ewidencyjnym i ma na celu potwierdzenie faktu pobytu w tym lokalu. ” ;
+
+- **4)** w art. 11: w ust. 1: – uchyla się pkt 12, – pkt 13 otrzymuje brzmienie: „ 13) adres dotychczasowego miejsca pobytu stałego; ” , – w pkt 15 średnik zastępuje się kropką i uchyla się pkt 16, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Przy zameldowaniu na pobyt stały osoba zgłaszająca przedstawia potwierdzenie pobytu w lokalu, dokonane przez właściciela lub inny podmiot dysponujący tytułem prawnym do lokalu, oraz, do wglądu, dokument potwierdzający tytuł prawny do lokalu tego podmiotu. Potwierdzenia faktu pobytu osoby w lokalu dokonuje się na formularzu meldunkowym w formie czytelnego podpisu z oznaczeniem daty jego złożenia. Dokumentem potwierdzającym tytuł prawny do lokalu może być umowa cywilnoprawna, wypis z księgi wieczystej, decyzja administracyjna, orzeczenie sądu lub inny dokument poświadczający tytuł prawny do lokalu. ” ;
+
+- **5)** w art. 12: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Osoba, która przedłuża pobyt czasowy w tej samej miejscowości ponad zgłoszony czas jego trwania, zmienia adres albo zmienia pobyt czasowy na stały, jest obowiązana dokonać odpowiedniego zameldowania w ciągu 30 dni od daty zmiany. ” , uchyla się ust. 3;
+
+- **b)**
+- **6)** uchyla się art. 13;
+- **7)** w art. 15: w ust. 1a: – uchyla się pkt 12, – w pkt 14 średnik zastępuje się kropką i uchyla się pkt 15, ust. 2 i 3 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Organ gminy wydaje na wniosek właściciela lub innego podmiotu dysponującego tytułem prawnym do lokalu lub z urzędu decyzję w sprawie wymeldowania osoby, która opuściła miejsce pobytu stałego lub czasowego trwającego ponad 3 miesiące i nie dopełniła obowiązku wymeldowania się.
+
+3. Osoba, która wyjeżdża poza granice Rzeczypospolitej Polskiej na okres dłuższy niż 6 miesięcy, jest obowiązana zgłosić swój wyjazd oraz powrót właściwemu ze względu na miejsce pobytu stałego organowi wymienionemu w ust. 1. Zgłoszenia wyjazdu dokonuje się najpóźniej w dniu opuszczenia dotychczasowego miejsca pobytu, a zgłoszenia powrotu – najpóźniej w 30. dniu, licząc od dnia powrotu. ” ;
+
+- **8)** po art. 15 dodaje się art. 15a w brzmieniu: „
+
+**Art. 15a.**
+
+1. Wymeldowania z dotychczasowego miejsca pobytu stałego lub czasowego trwającego ponad 3 miesiące można dokonać podczas zameldowania w nowym miejscu pobytu, wskazując adres dotychczasowego miejsca pobytu, z którego ma nastąpić wymeldowanie.
+
+2. Wymeldowanie, o którym mowa w ust. 1, następuje na podstawie formularza zgłoszenia pobytu stałego lub formularza zgłoszenia pobytu czasowego trwającego ponad 3 miesiące.
+
+3. W przypadku, o którym mowa w ust. 1 i 2, osoba meldująca się jest zwolniona z obowiązku przedkładania zaświadczenia, o którym mowa w art. 11 ust. 1. ” ;
+
+- **9)** uchyla się art. 16;
+- **10)** uchyla się rozdział 5;
+- **11)** art. 24 otrzymuje brzmienie: „
+
+**Art. 24.**
+
+1. Cudzoziemiec będący obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, przebywający na terytorium Rzeczypospolitej Polskiej, jest obowiązany zameldować się w miejscu pobytu stałego lub czasowego trwającego ponad 3 miesiące najpóźniej w 30. dniu, licząc od dnia przybycia do tego miejsca.
+
+2. Członek rodziny cudzoziemca, o którym mowa w ust. 1, niebędący obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, jest obowiązany zameldować się w miejscu pobytu stałego lub czasowego trwającego ponad 3 miesiące najpóźniej w 30. dniu, licząc od dnia przybycia do tego miejsca.
+
+3. Cudzoziemiec niewymieniony w ust. 1 i 2, przebywający na terytorium Rzeczypospolitej Polskiej, jest obowiązany zameldować się w miejscu pobytu stałego lub czasowego trwającego do 3 miesięcy albo trwającego ponad 3 miesiące najpóźniej w 4. dniu, licząc od dnia przybycia do tego miejsca, chyba że jego pobyt na terytorium Rzeczypospolitej Polskiej nie przekracza 14 dni.
+
+4. Cudzoziemiec niewymieniony w ust. 1 i 2, opuszczając miejsce pobytu czasowego trwającego do 3 miesięcy przed upływem czasu zgłoszonego przy zameldowaniu, jest obowiązany wymeldować się najpóźniej w dniu opuszczenia tego miejsca. Jeżeli okres pobytu czasowego trwającego do 3 miesięcy odpowiada okresowi zgłoszonemu przy zameldowaniu, obowiązek wymeldowania nie powstaje. ” ;
+
+- **12)** uchyla się art. 25;
+- **13)** użyte w art. 26 w ust. 1 i 3 oraz w art. 44a w ust. 2 w pkt 19 wyrazy „Wspólnot Europejskich” zastępuje się wyrazami „Unii Europejskiej”;
+- **14)** w art. 26 ust. 4 otrzymuje brzmienie: „
+
+4. Obywatel państwa członkowskiego Unii Europejskiej i członek jego rodziny niebędący obywatelem państwa członkowskiego Unii Europejskiej, którzy dokonują zameldowania się na pobyt czasowy trwający ponad 3 miesiące, zgłaszają dane wymagane do zameldowania, przy czym obywatel państwa członkowskiego Unii Europejskiej przedstawia ważny dokument podróży lub inny ważny dokument potwierdzający jego tożsamość i obywatelstwo oraz ważny dokument potwierdzający prawo stałego pobytu lub zaświadczenie o zarejestrowaniu pobytu obywatela Unii Europejskiej lub, w przypadku braku zaświadczenia, składa oświadczenie o zarejestrowaniu pobytu na terytorium Rzeczypospolitej Polskiej, a członek jego rodziny niebędący obywatelem państwa członkowskiego Unii Europejskiej – ważny dokument podróży oraz ważną kartę stałego pobytu członka rodziny obywatela Unii Europejskiej lub ważną kartę pobytu członka rodziny obywatela Unii Europejskiej. ” ;
+
+- **15)** uchyla się art. 28;
+- **16)** uchyla się rozdział 7;
+- **17)** w art. 44a: w ust. 1 w pkt 1 lit. d otrzymuje brzmienie: „ zbioru danych cudzoziemców zameldowanych na pobyt czasowy trwający do 3 miesięcy; ” , w ust. 2 uchyla się pkt 17, w ust. 4 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **d)**
+    - **b)**
+    - **c)**
+
+- **1)** dane, o których mowa w ust. 2 pkt 1–6, 9–11, 13, 15, 16 i 18–21; ” , w ust. 5 pkt 1 otrzymuje brzmienie: „
+    - **d)**
+
+- **1)** dane, o których mowa w ust. 2 pkt 1, 5, 13 i 19 oraz w ust. 4 pkt 2 i 5; ” ;
+- **18)** uchyla się art. 44b;
+- **19)** w art. 44c uchyla się ust. 3;
+- **20)** w art. 44h wprowadza się następujące zmiany: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Dane jednostkowe ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych udostępnia się na wniosek zainteresowanego podmiotu złożony w formie pisemnej lub za pomocą środków komunikacji elektronicznej. Dane są przekazywane w formie odpowiadającej złożonemu wnioskowi. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+- **b)**
+
+3a. Przez dane jednostkowe rozumie się informacje dotyczące:
+
+- **1)** jednej osoby lub imion i nazwisk wszystkich osób zameldowanych pod jednym adresem – uzyskane ze zbiorów meldunkowych lub zbioru PESEL;
+- **2)** jednego dokumentu lub jednej osoby – uzyskane z ewidencji wydanych i unieważnionych dowodów osobistych. ” ;
+- **21)** w art. 46 uchyla się ust. 2;
+- **22)** w art. 51 ust. 1 otrzymuje brzmienie: „
+
+1. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób zgłaszania i przyjmowania danych niezbędnych do zameldowania i wymeldowania, sposób prowadzenia ewidencji ludności i ewidencji wydanych i unieważnionych dowodów osobistych, wzory formularzy zgłoszeń meldunkowych oraz wzór wniosku o nadanie numeru PESEL, uwzględniając w szczególności sposób wykonywania obowiązku meldunkowego za osobę niepełnoletnią, przez cudzoziemca oraz osoby przebywające stale lub czasowo na statku morskim lub żeglugi śródlądowej albo w innych ruchomych pomieszczeniach mieszkalnych, potrzebę zapewnienia ochrony danych zawartych w ewidencji ludności i ewidencji wydanych i unieważnionych dowodów osobistych, a także zakres danych zgłaszanych przy zameldowaniu i objętych wnioskiem o nadanie numeru PESEL. ” ;
+
+- **23)** art. 55 i art. 56 otrzymują brzmienie: „
+
+**Art. 55.**
+
+1. Kto:
+
+- **1)** uchyla się od obowiązku posiadania lub wymiany dowodu osobistego,
+- **2)** zatrzymuje bez podstawy prawnej cudzy dowód osobisty,
+- **3)** nie zwraca dowodu osobistego w razie utraty obywatelstwa polskiego, podlega karze ograniczenia wolności albo karze grzywny.
+
+2. Cudzoziemiec niebędący obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, który nie dopełnia ciążącego na nim obowiązku meldunkowego, podlega karze grzywny.
+
+3. Przepisu ust. 2 nie stosuje się do cudzoziemca będącego członkiem rodziny obywatela państwa członkowskiego Unii Europejskiej, obywatela państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatela Konfederacji Szwajcarskiej.
+
+**Art. 56.** Orzekanie w sprawach o czyny, o których mowa w art. 55, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.). ” .
+
+**Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461 i 1101) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 4.** W ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. Nr 167, poz. 1131 oraz z 2011 r. Nr 133, poz. 768) wprowadza się następujące zmiany:
+
+**Art. 88.** Dowody osobiste wydane przed dniem 1 stycznia 2015 r. zachowują ważność do upływu terminów w nich określonych. ” ;
+
+**Art. 93.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r. ” .
+
+**Art. 5.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 29.** Zameldowania w stosunku do dzieci osób, o których mowa w art. 7 ust. 1 pkt 1, urodzonych na terytorium Rzeczypospolitej Polskiej, dokonuje z urzędu kierownik urzędu stanu cywilnego sporządzający akt urodzenia. Zameldowanie na pobyt stały lub czasowy następuje z dniem sporządzenia aktu urodzenia, w miejscu stałego albo czasowego pobytu rodziców albo tego z rodziców, u którego dziecko faktycznie przebywa. ” ;
+
+**Art. 69.** Postępowania administracyjne wszczęte na podstawie ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.) i niezakończone przed dniem wejścia w życie niniejszej ustawy, w sprawach indywidualnych o:
+
+**Art. 77.** Ilekroć w art. 45 ust. 2 i art. 51 ust. 1 jest mowa o organie lub organach od dnia 1 stycznia 2016 r., należy przez to rozumieć ministra właściwego do spraw wewnętrznych. ” ;
+
+**Art. 80.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 62, który wchodzi w życie z dniem 1 stycznia 2013 r. ” .
+
+**Art. 6.** Zameldowanie na pobyt czasowy trwający do 3 miesięcy obywateli polskich oraz cudzoziemców, o których mowa w art. 24 ust. 1 i 2 ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych, dokonane na podstawie tej ustawy wygasa z dniem wejścia w życie niniejszej ustawy.
+
+**Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 51 ust. 1 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 51 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 3 miesiące od dnia wejścia w życie ustawy.
+
+**Art. 8.** Ustawa wchodzi w życie z dniem 31 grudnia 2012 r., z wyjątkiem art. 1 pkt 23, który wchodzi w życie z dniem 1 stycznia 2013 r.
 

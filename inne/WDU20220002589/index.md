@@ -8,9 +8,10 @@ pos: 2589
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 grudnia 2022 r.
+# Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy o kierujących pojazdami
 
 | Pole | Wartość |
 |---|---|
@@ -24,29 +25,44 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2589/text.pdf) |
 
-Poz. 2589
-USTAWA z dnia 4 listopada 2022 r.
-zmianie – Prawo ruchu drogowym oraz kierujących pojazdami
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, 1002, 1768 i 1783) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo ruchu drogowym (Dz. U. z 2022 r. poz. 988, 1002, 1768 i 1783) wprowadza się następujące zmiany:
+**Art. 121a.**
 
-**Art. 2.** W ustawie z dnia 5 stycznia 2011 r. kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm. ) wprowadza się następujące zmiany:
+1. Warunki wynagradzania egzaminatorów określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, kierując się charakterem pracy wykonywanej przez egzaminatorów i potrzebą zapewnienia odpowiedniego poziomu wykonywania przez nich zadań.
 
-**Art. 56b.** Maksymalne stawki opłat, których mowa 56a 1, ulegają corocznie zmianie następny rok kalendarzowy stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego.”;
+2. Warunki wynagradzania egzaminatorów określone każdorazowo w uchwale sejmiku województwa, o której mowa w ust. 1, nie mogą być mniej korzystne niż warunki wynagradzania egzaminatorów określone w poprzedniej uchwale. ” .
 
-**Art. 3.** Warunki wynagradzania egzaminatorów określone podjętej po raz pierwszy uchwale, której mowa 121a 1 zmienianej 1 brzmieniu nadanym niniejszą ustawą, nie mogą być mniej korzystne niż dotychczasowe warunki wynagradzania egzaminatorów.
+**Art. 2.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 4.** Do opłat za przeprowadzenie egzaminu państwowego dla osób, których mowa 49 zmienianej 2, które przed dniem wejścia życie niniejszej wystąpiły do wojewódzkiego ośrodka ruchu drogowego, którym mowa 56 zmienianej 2, wyznaczenie terminu egzaminu państwowego, a termin ten został wyznaczony dzień przypadający po dniu wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+**Art. 56a.**
 
-**Art. 5.** Do dnia wejścia życie uchwały, której mowa 121a 1 zmienianej 1, do warunków wynagradzania egzaminatorów stosuje się dotychczasowe przepisy wykonawcze wydane 121 pkt 2 zmienianej 1, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+1. Wysokość opłaty za przeprowadzenie egzaminu państwowego określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, przy czym wysokość opłaty za przeprowadzenie części teoretycznej egzaminu w zakresie uprawnień każdej kategorii prawa jazdy nie może przekroczyć 50 zł, a za przeprowadzenie części praktycznej:
 
-**Art. 6.** Do dnia wejścia życie uchwały, której mowa 56a 1 zmienianej 2, do opłat za przeprowadzenie egzaminu państwowego dla osób, których mowa 49 zmienianej 2, stosuje się dotychczasowe przepisy wykonawcze wydane 66 1 pkt 6 zmienianej 2, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+- **1)** 200 zł w zakresie uprawnień prawa jazdy kategorii AM, A1, A2, A, B1, B, C1, D1 lub T albo uprawnienia do kierowania tramwajem;
+- **2)** 250 zł w zakresie uprawnień prawa jazdy kategorii B+E, C1+E, C, C+E, D, D+E lub D1+E.
+
+2. W uchwale, o której mowa w ust. 1, uwzględnia się koszty rzeczowe i osobowe związane z przeprowadzaniem egzaminów państwowych. Maksymalne stawki opłat, o których mowa w art. 56a ust. 1, ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego. ” ;
+
+- **2)** w art. 66: w ust. 1 w pkt 6 uchyla się lit. a, w ust. 2 pkt 6 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **6)** koszty rzeczowe i osobowe związane z prowadzeniem ewidencji egzaminatorów; ” .
+
+**Art. 3.** Warunki wynagradzania egzaminatorów określone w podjętej po raz pierwszy uchwale, o której mowa w art. 121a ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie mogą być mniej korzystne niż dotychczasowe warunki wynagradzania egzaminatorów.
+
+**Art. 4.** Do opłat za przeprowadzenie egzaminu państwowego dla osób, o których mowa w art. 49 ustawy zmienianej w art. 2, które przed dniem wejścia w życie niniejszej ustawy wystąpiły do wojewódzkiego ośrodka ruchu drogowego, o którym mowa w art. 56 ustawy zmienianej w art. 2, o wyznaczenie terminu egzaminu państwowego, a termin ten został wyznaczony na dzień przypadający po dniu wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+**Art. 5.** Do dnia wejścia w życie uchwały, o której mowa w art. 121a ust. 1 ustawy zmienianej w art. 1, do warunków wynagradzania egzaminatorów stosuje się dotychczasowe przepisy wykonawcze wydane na podstawie art. 121 pkt 2 ustawy zmienianej w art. 1, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 6.** Do dnia wejścia w życie uchwały, o której mowa w art. 56a ust. 1 ustawy zmienianej w art. 2, do opłat za przeprowadzenie egzaminu państwowego dla osób, o których mowa w art. 49 ustawy zmienianej w art. 2, stosuje się dotychczasowe przepisy wykonawcze wydane na podstawie art. 66 ust. 1 pkt 6 ustawy zmienianej w art. 2, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 7.**
 
-1. Dotychczasowe przepisy wykonawcze wydane 121 pkt 1 zmienianej 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych 121 pkt 1 zmienianej 1, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy, oraz mogą być zmieniane przepisów dotychczasowych.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 121 pkt 1 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 121 pkt 1 ustawy zmienianej w art. 1, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 
-2. Dotychczasowe przepisy wykonawcze wydane 66 1 zmienianej 2 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych 66 1 zmienianej 2 brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy, oraz mogą być zmieniane przepisów dotychczasowych.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 66 ust. 1 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 66 ust. 1 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 
-**Art. 8.** Ustawa wchodzi życie z dniem 1 stycznia 2023 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r.
 

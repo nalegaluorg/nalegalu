@@ -8,6 +8,7 @@ pos: 535
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamentalnym dobrem osobistym człowieka, a ochrona praw osób z zaburzeniami psychicznymi należy do obowiązków państwa, stanowi się, co następuje:

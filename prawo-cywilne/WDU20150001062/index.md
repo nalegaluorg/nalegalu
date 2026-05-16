@@ -8,9 +8,10 @@ pos: 1062
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lipca 2015 r.
+# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz ustawy – Kodeks postępowania cywilnego
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,31 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001062) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1062/text.pdf) |
 
-Poz. 1062
-USTAWA z dnia 25 czerwca 2015 r.
-o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz ustawy – Kodeks postępowania cywilnego
-
 **Art. 1.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 107.**
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+§ 1. Jeżeli władza rodzicielska przysługuje obojgu rodzicom żyjącym w rozłączeniu, sąd opiekuńczy może ze względu na dobro dziecka określić sposób jej wykonywania i utrzymywania kontaktów z dzieckiem. Sąd pozostawia władzę rodzicielską obojgu rodzicom, jeżeli przedstawili zgodne z dobrem dziecka pisemne porozumienie o sposobie wykonywania władzy rodzicielskiej i utrzymywaniu kontaktów z dzieckiem. Rodzeństwo powinno wychowywać się wspólnie, chyba że dobro dziecka wymaga innego rozstrzygnięcia.
+
+§ 2. W braku porozumienia, o którym mowa w § 1, sąd, uwzględniając prawo dziecka do wychowania przez oboje rodziców, rozstrzyga o sposobie wspólnego wykonywania władzy rodzicielskiej i utrzymywaniu kontaktów z dzieckiem. Sąd może powierzyć wykonywanie władzy rodzicielskiej jednemu z rodziców, ograniczając władzę rodzicielską drugiego do określonych obowiązków i uprawnień w stosunku do osoby dziecka, jeżeli dobro dziecka za tym przemawia.
+
+§ 3. Na zgodny wniosek stron sąd nie orzeka o utrzymywaniu kontaktów z dzieckiem. ” .
+
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 509.** Sprawy o przysposobienie w pierwszej instancji sąd rozpoznaje w składzie jednego sędziego i dwóch ławników. ” ;
+
+**Art. 59822.** Przepisy niniejszego oddziału stosuje się odpowiednio do orzeczenia, w którym sąd określił, że dziecko będzie mieszkać z każdym z rodziców w powtarzających się okresach. ” ;
+
+**Art. 7562.**
+
+§ 1. Uwzględniając wniosek o zabezpieczenie przez uregulowanie:
+
+- **1)** stosunków na czas trwania postępowania,
+- **2)** sposobów kontaktów z dzieckiem,
+- **3)** sposobu roztoczenia pieczy nad małoletnim dzieckiem w ten sposób, że dziecko będzie mieszkać z każdym z rodziców w powtarzających się okresach sąd, na wniosek uprawnionego, może w postanowieniu o udzieleniu zabezpieczenia zagrozić obowiązanemu nakazaniem zapłaty określonej sumy pieniężnej na rzecz uprawnionego na wypadek naruszenia obowiązków określonych w tym postanowieniu.
+
+§ 2. Przepisy art. 10501 i art. 10511, a jeżeli zabezpieczenie polega na uregulowaniu sposobu kontaktów z dzieckiem albo ustaleniu, że dziecko będzie mieszkać z każdym z rodziców w powtarzających się okresach – przepis art. 5821 § 3, stosuje się odpowiednio. ” .
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

@@ -8,9 +8,10 @@ pos: 496
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 grudnia 1991 Nr 115 Poz.: 496
+# Ustawa z dnia 25 października 1991 r. o zmianie ustawy – Kodeks cywilny oraz ustaw – o księgach wieczystych i hipotece, Prawo spółdzielcze, Kodeks postępowania cywilnego, Prawo lokalowe
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,100 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911150496) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/496/text.pdf) |
 
-USTAWA dnia 25 1991 o zmianie ustawy - Kodeks cywilny oraz ustaw - o wieczystych hipotece, Prawo Kodeks cywilnego, Prawo lokalowe.
+1)
+pierwszy obejmuje oznaczenie lokalu lub domu jednorodzinnego oraz oznaczenie nieruchomości, z którą jest związany,
+2)
+drugi obejmuje wpisy dotyczące osoby, której przysługuje własnościowe spółdzielcze prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego lub prawo do domu jednorodzinnego w spółdzielni mieszkaniowej,
+3)
+trzeci jest przeznaczony na wpisy ograniczeń w rozporządzaniu prawem oraz wpisy innych praw i roszczeń, z wyjątkiem roszczeń dotyczących hipotek,
+4)
+czwarty jest przeznaczony na wpisy dotyczące hipotek.
+” ;
+3)
+w art. 26 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu:
+„
+2.
+Podstawą oznaczenia lokalu w księdze wieczystej jest zaświadczenie o położeniu i powierzchni lokalu, wydane przez spółdzielnię mieszkaniową, a domu jednorodzinnego – zaświadczenie wydane przez spółdzielnię oraz dane z ewidencji gruntów i budynków.
+3.
+O założeniu księgi wieczystej, o której mowa w art. 241, oraz o wpisie hipoteki do tej księgi sąd prowadzący księgę wieczystą zawiadamia spółdzielnię.
+” ;
+4)
+w art. 65 po ust. 3 dodaje się ust. 4 i 5 w brzmieniu:
+„
+4.
+Przedmiotem hipoteki mogą być także:
+1)
+własnościowe spółdzielcze prawo do lokalu mieszkalnego,
+2)
+spółdzielcze prawo do lokalu użytkowego,
+3)
+prawo do domu jednorodzinnego w spółdzielni mieszkaniowej (prawo do lokalu mieszkalnego w domu budowanym przez spółdzielnię mieszkaniową w celu przeniesienia jego własności na członka),
+4)
+wierzytelność zabezpieczona hipoteką.
+5.
+Do hipotek określonych w ust. 3 i 4 stosuje się odpowiednio przepisy o hipotece na nieruchomości.
+” ;
+5)
+po art. 108 dodaje się rozdział 21 w brzmieniu:
+„
 
-**Art. 1.** W Kodeksie cywilnym art. 244 otrzymuje brzmienie: "Art. 244. § 1. Ograniczonymi prawami rzeczowymi zastaw, ciowe prawo lokalu miesz kalnego, prawo lokalu kowego, prawo domu jednorodzinnego mieszkaniowej oraz hipoteka.
+**Art. 1.** W Kodeksie cywilnym art. 244 otrzymuje brzmienie: „
 
-**Art. 2.** W ustawie dnia 6 lipca 1982 o wieczystych hipotece (Dz. U. Nr 19, poz. 147 1991 Nr 22, poz. 92) wprowadza zmiany:
+**Art. 244.**
 
-**Art. 3.** W ustawie dnia 16 1982 - Prawo (Dz. U. Nr 30, poz. 210, 1983 Nr 39, poz. 176, 1986 Nr 39, poz. 192, 1987 Nr 33, poz. 181, 1988 Nr 41, poz. 324, 1989 Nr 3, poz. 12 Nr 6, poz. 33, 1990 Nr 6, poz. 36 37 Nr 14, poz. 87 oraz 1991 Nr 83, poz. 373 Nr 111, poz. 480) wprowadza zmiany:
+§ 1. Ograniczonymi prawami rzeczowymi są: użytkowanie, służebność, zastaw, własnościowe spółdzielcze prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego, prawo do domu jednorodzinnego w spółdzielni mieszkaniowej oraz hipoteka.
 
-**Art. 4.** W Kodeksie cywilnego wprowa dza zmiany:
+§ 2. Własnościowe spółdzielcze prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego, prawo do domu jednorodzinnego w spółdzielni mieszkaniowej oraz hipotekę regulują odrębne przepisy. ”
 
-**Art. 5.** W ustawie dnia 10 kwietnia 1974 - Prawo lokalowe (Dz. U. 1987 Nr 30, poz. 165, 1989 Nr 10, poz. 57, Nr 20, poz. 108, Nr 34, poz. 178 Nr 35, poz. 192 oraz 1990 Nr 4, poz. 19, Nr 32, poz. 190 Nr 34, poz. 198) wart. 65 ust. 5 dodaje zdanie drugie brzmieniu: "Pomieszczenie nie osobie, która utra prawo lokalu lub prawo domu jednorodzinnego miesz kaniowej na skutek egzekucji zabezpieczonej
+**Art. 2.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. Nr 19, poz. 147 i z 1991 r. Nr 22, poz. 92) wprowadza się następujące zmiany:
 
-**Art. 6.** Ustawa wchodzi po trzech od dnia Prezydent Rzeczypospolitej Polskiej: L. 497 RADY MINISTRÓW dnia 2 grudnia 1991 sprawie utworzenia, zmiany granic ustalenia siedzib niektórych gmin województwach: warszawskim, bielskim. katowickim. kieleckim. lubelskim. opolskim. pilskim. piotrkowskim. skierniewickim. suwalskim. tarnobrzeskim. zamojskim zielonogórskim oraz nadania niektórym gminom statusu miasta. Na podstawie art. 4 ust. 1 3 ustawy dnia 8 marca 1990 o terytorialnym (Dz. U. Nr 16, poz. 95, Nr 32, poz. 191, Nr 34, poz. 199, Nr 43, poz. 253 Nr 89, poz. 518 oraz 1991 Nr 4, poz. 18 Nr 110, poz. 473) co § 1. W województwie warszawskim zmienia grani ce dzielnicy-gminy Praga- przez obszaru wsi Aleksandrów o powierzchni 971,41 ha gminy § 2. W województwie
+**Art. 241.**
+
+1. Księgi wieczyste mogą być także prowadzone w celu ustalenia stanu prawnego własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego i prawa do domu jednorodzinnego w spółdzielni mieszkaniowej.
+
+2. Do ksiąg wieczystych dla ograniczonych praw rzeczowych wymienionych w ust. 1 stosuje się odpowiednio przepisy o księgach wieczystych dla nieruchomości.
+
+3. W razie przekształcenia się własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu ubytkowego lub prawa do domu jednorodzinnego w spółdzielni mieszkaniowej w prawo odrębnej własności lokalu lub we własność domu jednorodzinnego, księga wieczysta prowadzona dla tego prawa staje się księgą wieczystą dla nieruchomości, a wpisana w tej księdze hipoteka na ograniczonym prawie rzeczowym staje się hipoteką na nieruchomości.
+
+4. Właściciel nieruchomości w wypadkach, o których mowa w ust. 3, jest obowiązany do ujawnienia w księdze swego prawa oraz danych do oznaczenia nieruchomości. ” ;
+
+- **2)** w art. 25 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2.
+
+# Księga wieczysta dla ograniczonego prawa rzeczowego zawiera cztery działy, z których:
+
+#### Rozdział 21 Hipoteka na wierzytelności hipotecznej
+
+**Art. 1081.** Spłata wierzytelności hipotecznej obciążonej hipoteką może być dokonana do wysokości tej hipoteki tylko do rąk wierzyciela, któremu ona przysługuje, chociażby jego wierzytelność nie była jeszcze wymagalna; jeżeli hipoteka na wierzytelności hipotecznej jest kaucyjna, suma odpowiadająca jej wysokości powinna być złożona do depozytu sądowego.
+
+**Art. 1082.** Jeżeli wierzytelność zabezpieczona hipoteką na wierzytelności hipotecznej oraz obciążona wierzytelność hipoteczna są już wymagalne, wierzyciel, któremu przysługuje hipoteka na wierzytelności hipotecznej, może żądać zapłaty wprost od dłużnika wierzytelności obciążonej; może również dochodzić zaspokojenia z nieruchomości.
+
+**Art. 1083.** Jeżeli właściciel nieruchomości dokonał zapłaty do rąk wierzyciela, któremu przysługuje hipoteka na wierzytelności hipotecznej, hipoteka na nieruchomości wygasa aż do wysokości sumy uiszczonej przez właściciela.
+
+**Art. 1084.** Wierzytelność zabezpieczona hipoteką na wierzytelności hipotecznej może być przedmiotem dalszych hipotek.
+
+**Art. 1085.** W wypadkach nieobjętych przepisami działu niniejszego stosuje się do hipoteki na wierzytelności hipotecznej przepisy o zastawie na wierzytelności. ”
+
+**Art. 3.** W ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. Nr 30, poz. 210, z 1983 r. Nr 39, poz. 176, z 1986 r. Nr 39, poz. 192, z 1987 r. Nr 33, poz. 181, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 3, poz. 12 i Nr 6, poz. 33, z 1990 r. Nr 6, poz. 36 i 37 i Nr 14, poz. 87 oraz z 1991 r. Nr 83, poz. 373 i Nr 111, poz. 480) wprowadza się następujące zmiany:
+
+**Art. 2231.** Spółdzielnie mieszkaniowe są obowiązane prowadzić rejestr lokali, dla których zostały założone oddzielne księgi wieczyste, z adnotacją o ustanowionych hipotekach. ” ;
+
+**Art. 2291.**
+
+§ 1. W wypadkach gdy ustawa przewiduje wygaśnięcie własnościowego prawa do lokalu z mocy prawa lub uchwały spółdzielni, prawo to, jeżeli jest obciążone hipoteką, nie wygasa, lecz przechodzi z mocy prawa lub uchwały spółdzielni na spółdzielnię. § 2. Prawo do lokalu, nabyte w sposób określony w § 1, spółdzielnia powinna zbyć w drodze przetargu w terminie sześciu miesięcy; w takim wypadku stosuje się przepis art. 224.
+
+§ 3. Spółdzielnia jest obowiązana uiścić osobie uprawnionej równowartość nabytego prawa po potrąceniu należności z tytułu nie wniesionej części wkładu oraz z tytułu obciążenia hipoteką. ” ;
+
+- **4)** w art. 230 dotychczasową treść oznacza się jako §1 i dodaje się § 2 w brzmieniu: „
+
+§ 2. Osoba prawna może przejąć własnościowe prawo do lokalu w postępowaniu egzekucyjnym, jeżeli jest wierzycielem hipotecznym. W tym wypadku własnościowe prawo do lokalu wygasa z upływem sześciu miesięcy od dnia przejęcia tego prawa przez wierzyciela, chyba że wierzyciel przed upływem tego terminu wskaże osobę, której zbył to prawo, a osoba ta złoży deklarację członkowską; przepis art. 227 § 1 stosuje się odpowiednio. ” ;
+
+- **5)** w art. 238 w § 1 w zdaniu drugim po wyrazach „lokalu użytkowego” dodaje się wyrazy „jako ograniczone prawo rzeczowe”.
+
+**Art. 4.** W Kodeksie postępowania cywilnego wprowadza się następujące zmiany:
+
+**Art. 5.** W ustawie z dnia 10 kwietnia 1974 r. – Prawo lokalowe (Dz. U. z 1987 r. Nr 30, poz. 165, z 1989 r. Nr 10, poz. 57, Nr 20, poz. 108, Nr 34, poz. 178 i Nr 35, poz. 192 oraz z 1990 r. Nr 4, poz. 19, Nr 32, poz. 190 i Nr 34, poz. 198) w art. 65 w ust. 5 dodaje się zdanie drugie w brzmieniu: „Pomieszczenie zastępcze nie przysługuje osobie, która utraciła własność, własnościowe spółdzielcze prawo do lokalu lub prawo do domu jednorodzinnego w spółdzielni mieszkaniowej na skutek egzekucji wierzytelności zabezpieczonej hipoteką umowną.”
+
+**Art. 6.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
 

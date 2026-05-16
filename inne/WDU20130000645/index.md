@@ -8,9 +8,10 @@ pos: 645
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 czerwca 2013 Poz. 645
+# Ustawa z dnia 10 maja 2013 r. o zmianie ustawy o pracownikach samorządowych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,25 +25,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000645) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/645/text.pdf) |
 
-USTAWA dnia 10 maja 2013 zmianie pracownikach samorządowych niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, 1458, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 6a.** W przypadku skazania prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe zastępcy wójta (burmistrza, prezydenta miasta), starosty, wicestarosty, członka zarządu powiatu, marszałka województwa, wicemarszałka województwa, członka zarządu województwa, skarbnika gminy, skarbnika powiatu, skarbnika województwa, sekretarza gminy, sekretarza powiatu, sekretarza województwa, przewodniczącego zarządu związku jednostek samorządu terytorialnego, członka zarządu związku jednostek samorządu terytorialnego, burmistrza dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy, członka zarządu dzielnicy m.st. Warszawy lub pracownika samorządowego zatrudnionego na podstawie umowy o pracę na stanowisku urzędniczym, doradcy lub asystenta właściwy organ jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego albo podmiot wykonujący czynności z zakresu prawa pracy wobec pracownika samorządowego odwołuje go lub rozwiązuje z nim umowę o pracę za wypowiedzeniem najpóźniej po upływie miesiąca od dnia, w którym uzyskał informację o fakcie prawomocnego skazania. ” ;
 
-**Art. 2.** W ustawie dnia 8 marca 1990 samorządzie gminnym (Dz. 2013 594) art. 98a po ust. 1 dodaje się ust. 1a brzmieniu: ,,1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, których mowa art. 6a dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, 1458, późn. zm. ).”.
+**Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594) w art. 98a po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.). ” .
 
-**Art. 3.** W ustawie dnia 5 czerwca 1998 samorządzie województwa (Dz. 2013 596) art. 86a po ust. 1 dodaje się ust. 1a brzmieniu: ,,1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, których mowa art. 6a dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, 1458, późn. zm. ).”.
+**Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2013 r. poz. 596) w art. 86a po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.). ” .
 
-**Art. 4.** W ustawie dnia 5 czerwca 1998 samorządzie powiatowym (Dz. 2013 595) art. 85a po ust. 1 dodaje się ust. 1a brzmieniu: ,,1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, których mowa art. 6a dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, 1458, późn. zm. ).”.
+**Art. 4.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2013 r. poz. 595) w art. 85a po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.). ” .
 
-**Art. 5.** Stosunki pracy burmistrza dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy pozostałych członków zarządu dzielnicy m.st. Warszawy zatrudnionych na podstawie umowy pracę przekształcają się dniu wejścia życie niniejszej stosunki pracy na podstawie wyboru.
-
-**Art. 6.** Nabór kandydatów na wolne dniu wejścia życie niniejszej stanowisko sekretarza, przeprowadza się nie później niż ciągu 3 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 5.** Stosunki pracy burmistrza dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy oraz pozostałych członków zarządu dzielnicy m.st. Warszawy zatrudnionych na podstawie umowy o pracę przekształcają się w dniu wejścia w życie niniejszej ustawy w stosunki pracy na podstawie wyboru. Nabór kandydatów na wolne w dniu wejścia w życie niniejszej ustawy stanowisko sekretarza, przeprowadza się nie później niż w ciągu 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 7.**
 
-1. W przypadku skazania prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane oskarżenia publicznego lub umyślne przestępstwo skarbowe, przed dniem wejścia życie niniejszej ustawy, zastępcy wójta (burmistrza, prezydenta miasta), starosty, wicestarosty, członka zarządu powiatu, marszałka województwa, wicemarszałka województwa, członka zarządu województwa, skarbnika gminy, skarbnika powiatu, skarbnika województwa, sekretarza gminy, sekretarza powiatu, sekretarza województwa, przewodniczącego zarządu związku jednostek samorządu terytorialnego, członka zarządu związku jednostek samorządu terytorialnego, burmistrza dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy, członka zarządu dzielnicy m.st. Warszawy lub pracownika samorządowego zatrudnionego na podstawie umowy pracę na stanowisku urzędniczym, doradcy lub asystenta właściwy organ jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego albo podmiot wykonujący czynności zakresu prawa pracy wobec pracownika samorządowego odwołuje go lub rozwiązuje nim umowę pracę za wypowiedzeniem najpóźniej po upływie miesiąca od dnia wejścia życie niniejszej ustawy.
+1. W przypadku skazania prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe, przed dniem wejścia w życie niniejszej ustawy, zastępcy wójta (burmistrza, prezydenta miasta), starosty, wicestarosty, członka zarządu powiatu, marszałka województwa, wicemarszałka województwa, członka zarządu województwa, skarbnika gminy, skarbnika powiatu, skarbnika województwa, sekretarza gminy, sekretarza powiatu, sekretarza województwa, przewodniczącego zarządu związku jednostek samorządu terytorialnego, członka zarządu związku jednostek samorządu terytorialnego, burmistrza dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy, członka zarządu dzielnicy m.st. Warszawy lub pracownika samorządowego zatrudnionego na podstawie umowy o pracę na stanowisku urzędniczym, doradcy lub asystenta właściwy organ jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego albo podmiot wykonujący czynności z zakresu prawa pracy wobec pracownika samorządowego odwołuje go lub rozwiązuje z nim umowę o pracę za wypowiedzeniem najpóźniej po upływie miesiąca od dnia wejścia w życie niniejszej ustawy.
 
-2. Do spraw, których mowa ust. 1, stosuje się odpowiednio przepisy ustaw, których mowa art. 2–4 niniejszej ustawy.
+2. Do spraw, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustaw, o których mowa w art. 2–4 niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi życie pierwszego dnia trzeciego miesiąca następującego po miesiącu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 8.** Ustawa wchodzi w życie pierwszego dnia trzeciego miesiąca następującego po miesiącu ogłoszenia.
 

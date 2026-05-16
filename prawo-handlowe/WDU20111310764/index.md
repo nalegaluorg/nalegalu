@@ -8,9 +8,10 @@ pos: 764
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 1447, późn. zm. ) wprowadza się następujące dniach, miesiącach albo miesiącach zmiany: dniach.
+# Ustawa z dnia 13 maja 2011 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,86 +25,141 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111310764) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/764/text.pdf) |
 
-1) 14: 1c. Do obliczania okresu zawieszenia wykonywania gospodarczej stosuje się
-a) 1 otrzymuje przepisy Kodeksu postępowania administracyjnego.”, „1. Przedsiębiorca może podjąć działalność gospodarczą dniu złożenia wniosku wpis c) po 2 dodaje się 2a 2b brzmieniu: Centralnej Ewidencji Informacji Działalnoś- „2a. P rzedsiębiorca wykonujący działalność gosci Gospodarczej albo po uzyskaniu wpisu podarczą jako wspólnik więcej niż jednej rejestru przedsiębiorców Krajowym Reje- spółce cywilnej może zawiesić wykonywanie strze Sądowym.”, gospodarczej jednej lub kilku takich spółkach. Przepisy 2 oraz 3—7
-b) 3 otrzymuje stosuje się odpowiednio.
-„3. Przedsiębiorca ma prawo we wniosku wpis 2b. Przedsiębiorca wykonujący działalność gosCentralnej Ewidencji Informacji Działal- podarczą różnych formach prawnych moności Gospodarczej określić późniejszy dzień że zawiesić wykonywanie gospodjęcia gospodarczej niż dzień podarczej jednej tych form. Przepisy złożenia wniosku.”; 3—7 stosuje się zawieszonej formy gospodarczej.”,
-2) 14a:
-d) 6 otrzymuje
-a) 1 otrzymuje „6. Okres zawieszenia wykonywania „1. Przedsiębiorca niezatrudniający pracowników gospodarczej rozpoczyna się od dnia wskamoże zawiesić wykonywanie gos- zanego we wniosku wpis informacji zapodarczej na okres od 30 dni 24 miesięcy, wieszeniu wykonywania gospozastrzeżeniem 1a.”, darczej, nie wcześniej niż dniu złożenia wniosku, trwa dnia złożenia wniosku
-b) po 1 dodaje się 1a—1c brzmieniu: wpis informacji wznowieniu wykonywania „1a. Jeżeli okres zawieszenia wykonywania dzia- gospodarczej lub dnia wskałalności gospodarczej obejmuje wyłącznie zanego tym wniosku, który nie może być pełny miesiąc luty danego roku kalendarzo- wcześniejszy niż dzień złożenia wniosku.”;
-wego, za minimalny okres zawieszenia wy- 3) 22b 2 otrzymuje konywania gospodarczej przyj- „2. W łaściwe organy zapewnią kompletność akmuje się liczbę dni miesiąca lutego przypa- tualność informacji, których mowa 1 dającą danym roku kalendarzowym. pkt 1—6 8.”;
-4) 22c 4 otrzymuje „4. W łaściwy organ odpowiada niezwłocznie, nie później niż terminie 7 dni roboczych, na wnioski udzielenie informacji, których mowa 22b 1. W przypadku spraw wymagających konsultacji innymi właściwymi organami, termin ten może być przedłużony 14 dni roboczych. Jeżeli wniosek jest błędny, nieuzasadniony lub zawiera braki, właściwy organ jest obowiązany niezwłocznie poinformować wnioskodawcę.”;
-5) 22f otrzymuje „Art. 22f. Rada Ministrów może określić, drodze rozporządzenia, szczegółowe warunki po pkt 1 dodaje się pkt 1a brzmieniu: „1a) data urodzenia przedsiębiorcy;”, pkt 5 6 otrzymują „5) znaczenie miejsca zamieszkania adresu zamieszkania przedsiębiorcy, adres doręczeń przedsiębiorcy oraz adresy, pod którymi jest wykonywana działalność gospodarcza, tym adres głównego miejsca wykonywania oddziału, jeżeli został utworzony; dane te są zgodne oznaczeniami kodowymi przyjętymi krajowym rejestrze urzędowym podziału terytorialnego kraju, ile to danym przypadku możliwe;
-6) adres poczty elektronicznej przedsiębiorcy oraz jego strony internetowej, ile przedsiębiorca takie posiada zgłosił te informacje we wniosku wpis CEIDG;”, pkt 10 otrzymuje „10) n umer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny REGON spółek cywilnych, jeżeli przedsiębiorca zawarł umowy takich spółek;”, pkt 11 otrzymuje „11) d ane pełnomocnika upoważnionego prowadzenia spraw przedsiębiorcy, wraz ze wskazaniem zakresu spraw, które obejmuje dane pełnomocnictwo, ile przedsiębiorca udzielił pełnomocnictwa zgłosił informację jego udzieleniu we wniosku wpis CEIDG;”, pkt 13 otrzymuje „13) informacja ograniczeniu lub utracie zdolności czynności prawnych oraz ustanowieniu kurateli lub opieki;”, pkt 16 otrzymuje „16) informacja zakazie prowadzenia działalności gospodarczej;”, dodaje się pkt 17—19 brzmieniu: „17) informacja zakazie wykonywania określonego zawodu, którego wykonywanie przez przedsiębiorcę podlega wpisowi CEIDG;
-lą zamieszczenia danych CEIDG, nie później niż następnego dnia roboczego po dniu wpływu CEIDG wniosku, zastrzeżeniem 27
-1.”,
-d) 5 pkt 3 kropkę zastępuje się średnikiem dodaje się pkt 4 brzmieniu: „4) przyjęcia oświadczenia wyborze przez przedsiębiorcę formy opodatkowania podatkiem dochodowym od osób fizycznych albo wniosku zastosowanie opodatkowania formie karty podatkowej.”,
-e) p 5 dodaje się 5a brzmieniu: „5a. Do wniosku wpis CEIDG przedsiębiorca może dołączyć zgłoszenie rejestracyjne lub aktualizacyjne, których mowa przepisach podatku od towarów usług.”,
-f) uchyla się 6,
-g) dodaje się 7 brzmieniu: „7. Wraz wnioskiem wpis CEIDG składa się oświadczenie braku orzeczonych wobec osoby, której wpis dotyczy zakazów, których mowa 1 pkt 16—18, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia.”;
-8) p 25 dodaje się 25a brzmieniu: „Art. 25a. 1. Jeżeli CEIDG wpisano dane, których mowa 25 1 pkt 11, wykazania przed organem administracji publicznej upoważnienia prowadzenia sprawy imieniu przedsiębiorcy nie stosuje się przepisu 33 § 3 Kodeksu postępowania administracyjnego.
-2. W przypadku, którym mowa 1, organ administracji publicznej urzędu potwierdza CEIDG upoważnienie pełnomocnika prowadzenia sprawy imieniu przedsiębiorcy.
-3. Przepisu 2 nie stosuje się sprawach prowadzonych na podstawie ustawy dnia 29 sierpnia 1997 Ordynacja podatkowa oraz ustawy dnia 28 września 1991 kontroli skarbowej (Dz. U. 2011 41, 214 53, 273).”;
-przez przedsiębiorcę urzędzie gminy:
-1) osobiście albo
-2) wysłany listem poleconym.
-3. Organ gminy potwierdza tożsamość wnioskodawcy składającego wniosek, którym mowa 2 pkt 1, potwierdza wnioskodawcy, za pokwitowaniem, przyjęcie wniosku.
-4. Organ gminy przekształca wniosek, którym mowa 2, na formę dokumentu elektronicznego, opatruje go podpisem elektronicznym weryfikowanym za pomocą kwalifikowanego certyfikatu, przy zachowaniu zasad przewidzianych przepisach podpisie elektronicznym, albo podpisuje podpisem potwierdzonym profilem zaufanym ePUAP, albo podpisuje podpisem osobistym, którym mowa przepisach dowodach osobistych, albo podpisuje inny sposób akceptowany przez system CEIDG umożliwiający jednoznaczną identyfikację osoby przesyłającej wniosek oraz czasu jego przesłania przesyła CEIDG nie później niż następnego dnia roboczego od dnia jego otrzymania.”,
-b) po 4 dodaje się 4a brzmieniu: „4a. W przypadku gdy czynności, których mowa 4, wykonują upoważnieni pracownicy, organ gminy jest obowiązany niezwłocznie przekazywać CEIDG imiona nazwiska tych osób.”,
-c) 5 otrzymuje „5. Wniosek formie dokumentu elektronicznego papierowego oraz dokumentacja nim związana podlegają archiwizacji przez okres 10 lat od dokonania wpisu. Archiwizacji dokonują, odpowiednio, organ gminy minister właściwy spraw gospodarki. Do wniosku dokumentacji nie stosuje się przepisów narodowym zasobie archiwalnym archiwach.”,
-d) 7 otrzymuje „7. O soby, których mowa 13 2, 4 oraz 5, wraz wnioskiem przedkładają dane dokumentu potwierdzającego status, którym mowa tych przepisach, szczególności datę wydania sygnaturę dokumentu oraz wskazanie organu, który go wydał, albo przedb) 3—5 otrzymują „3. Jeżeli wniosek określony 26 1 jest niepoprawny, system teleinformatyczny CEIDG informuje niezwłocznie składającego niepoprawności tego wniosku.
-4. Jeżeli wniosek złożony sposób określony 26 2 jest niepoprawny, organ gminy niezwłocznie wzywa skorygowania lub uzupełnienia wniosku, wskazując uchybienia, terminie 7 dni roboczych, pod rygorem pozostawienia wniosku bez rozpoznania.
-5. CEIDG korzysta informacji zawartych rejestrach publicznych dostępnych formie elektronicznej zakresie danych objętych wnioskiem wpis CEIDG szczególności celu weryfikacji danych wpisanych CEIDG.”,
-c) u st. 7 otrzymuje „7. Wniosek wpis CEIDG składany sposób określony 26 1 opatrzony jest podpisem elektronicznym, weryfikowanym za pomocą kwalifikowanego certyfikatu, przy zachowaniu zasad przewidzianych przepisach podpisie elektronicznym albo podpisywany podpisem potwierdzonym profilem zaufanym ePUAP, albo podpisywany podpisem osobistym, którym mowa przepisach dowodach osobistych, albo podpisywany inny sposób akceptowany przez system CEIDG umożliwiający jednoznaczną identyfikację osoby składającej wniosek czas jego złożenia.”;
-11) a rt. 28 otrzymuje „Art. 28. CEIDG przesyła odpowiednie dane zawarte we wniosku wpis CEIDG niezbędne dla uzyskania, zmiany albo skreślenia wpisu krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), zgłoszenia identyfikacyjnego albo aktualizacyjnego, którym mowa przepisach zasadach ewidencji identyfikacji podatników płatników, zgłoszenia płatnika składek albo ich zmiany rozumieniu przepisów systemie ubezpieczeń społecznych albo zgłoszenia oświadczenia kontynuowaniu ubezpieczenia społecznego rolniidentyfikacji podatkowej (NIP) do:
-1) Głównego Urzędu Statystycznego,
-2) Zakładu Ubezpieczeń Społecznych albo Kasy Rolniczego Ubezpieczenia Społecznego wraz informacją dokonaniu wpisu CEIDG nadanym numerze NIP.”;
-12) 30 2 otrzymuje „2. D wniosku sprawie zmian albo wykreślenia wpisu stosuje się odpowiednio przepisy 26—29, wyłączeniem przepisu 27 2 pkt 5.”;
-13) 31 otrzymuje „Art. 31. 1. Wpisowi urzędu CEIDG podlegają informacje, których mowa 25 1 pkt 13—19.
-2. Informację, której mowa 25 1 pkt 13, kurator lub opiekun zgłasza niezwłocznie CEIDG za pośrednictwem formularza dostępnego na stronie internetowej CEIDG, nie później niż terminie 7 dni roboczych od dnia uprawomocnienia się postanowienia ograniczeniu lub utracie zdolności czynności prawnych przedsiębiorcy.
-3. I nformacje, których mowa 25 1 pkt 14 15, sąd zgłasza niezwłocznie CEIDG za pośrednictwem formularza dostępnego na stronie internetowej CEIDG, nie później niż terminie 7 dni roboczych od dnia uprawomocnienia się postanowienia wydanego postępowaniu upadłościowym naprawczym.
-4. Informację, której mowa 25 1 pkt 15a, Centralna Informacja Krajowego Rejestru Sądowego zgłasza niezwłocznie CEIDG za pośrednictwem formularza dostępnego na stronie internetowej CEIDG, nie później niż terminie 7 dni roboczych od dnia dokonania wpisu rejestru przedsiębiorców jednoosobowej spółki kapitałowej powstałej wskutek przekształcenia przedsiębiorcy będącego osobą fizyczną.
-5. I nformacje, których mowa 25 1 pkt 16—18, Krajowy Rejestr Karny „1) g dy prawomocnie orzeczono zakaz wykonywania gospodarczej przez przedsiębiorcę;”,
-c) pkt 3 otrzymuje „3) niezłożenia wniosku wpis informacji wznowieniu wykonywania gospodarczej przed upływem okresu 24 miesięcy od dnia zawieszenia wykonywania gospodarczej;”;
-15) 35 otrzymuje „Art. 35. 1. W przypadku, gdy wpis zawiera dane niezgodne rzeczywistym stanem rzeczy, minister właściwy spraw gospodarki wzywa przedsiębiorcę dokonania odpowiedniej zmiany wpisu terminie 7 dni od dnia doręczenia wezwania.
-2. Jeżeli, mimo wezwania, którym mowa 1, przedsiębiorca nie dokona odpowiedniej zmiany swojego wpisu, minister właściwy spraw gospodarki może wykreślić, drodze decyzji administracyjnej, przedsiębiorcę CEIDG.
-3. Minister właściwy spraw gospodarki urzędu, formie postanowienia, sprostuje wpis zawierający oczywiste błędy, niezgodności treścią wniosku przedsiębiorcy lub stanem faktycznym wynikającym innych rejestrów publicznych.”;
-16) 36 otrzymuje „Art. 36. M inister właściwy spraw gospodarki jest obowiązany przekazania drogą elektroniczną, niezwłocznie, nie później niż następnego dnia roboczego, informacji wykreśleniu przedsiębiorcy CEIDG oraz sprostowaniu wpisu CEIDG przedsiębiorcy, którego wpis dotyczy, właściwemu naczelnikowi urzędu skarbowego, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz organów, których mowa 37
-5.”;
-17) 37: ny koncesyjne, organy prowadzące rejestry regulowanej oraz organy właściwe spraw zezwoleń licencji, niezwłocznie, nie później niż następnego dnia roboczego po uzyskaniu informacji prawomocnym rozstrzygnięciu sprawy, której dotyczą, wraz podaniem daty uprawomocnienia znaku sprawy. Jeżeli sprawa była rozstrzygana drodze decyzji, której nadano rygor natychmiastowej wykonalności, organy te przekazują informacje niezwłocznie, nie później niż dniu roboczym następującym po dniu nadania rygoru natychmiastowej wykonalności.
-CEIDG udostępnia te informacje niezwłocznie, nie później niż następnego dnia roboczego po dniu ich otrzymania. Przepisy 26 4 4a stosuje się odpowiednio.”,
-c) uchyla się 6;
-18) 38:
-a) 2 otrzymuje „2. Dane informacje, których mowa 37 1 2, są udostępniane na stronie internetowej CEIDG.”,
-b) uchyla się 3,
-c) 4 otrzymuje „4. Zaświadczenia wpisie CEIDG dotyczące przedsiębiorców będących osobami fizycznymi zakresie jawnych danych, których mowa 25 1, mają formę dokumentu elektronicznego albo wydruku ze strony internetowej CEIDG.”,
-d) uchyla się 6;
-19) 65 3 otrzymuje „3. Przedsiębiorca podlegający wpisowi ewidencji może złożyć wniosek wraz oświadczeniem również urzędzie gminy, wskazując organ prowadzący rejestr regulowanej.”.
+**Art. 1.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2010 51, 307, późn. zm. ) 9a 1 2 otrzymują „1. Dochody osiągnięte przez podatników ze źródła, którym mowa 10 1 pkt 3, są opodatkowane na zasadach określonych 27, zastrzeżeniem 2 3, chyba że podatnicy złożą właściwemu naczelnikowi urzędu skarbowego pisemny wniosek lub oświadczenie zastosowanie 30c. W tym przypadku są obowiązani złożenia właściwemu naczelnikowi urzędu skarbowego dnia 20 stycznia roku podatkowego pisemnego oświadczenia wyborze tego sposobu opodatkowania. Jeżeli podatnik rozpoczyna prowadzenie pozarolniczej gospodarczej, oświadczenie może złożyć na podstawie przepisów swobodzie gospodarczej, a jeżeli podatnik nie złożył oświadczenia na podstawie tych przepisów pisemne oświadczenie składa właściwemu naczelnikowi urzędu skarbowego, nie później niż dniu uzyskania pierwszego przychodu.”.
+**Art. 22f.** Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe warunki współpracy właściwych organów w zakresie niezbędnym do realizacji zadań punktu kontaktowego, uwzględniając określone w ustawie zadania punktu kontaktowego oraz konieczność zapewnienia właściwego przepływu danych i informacji między tymi organami. ” ;
 
-**Art. 3.** W ustawie dnia 29 czerwca 1995 statystyce publicznej (Dz. U. 88, 439, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 25a.**
 
-**Art. 4.** W ustawie dnia 13 października 1995 zasadach ewidencji identyfikacji podatników płatników (Dz. U. 2004 269, 2681, późn. zm. ) 5 4a otrzymuje „4a. W przypadku dokonywania zgłoszenia identyfikacyjnego przez pełnomocnika lub kuratora sądowego zgłoszenia dołącza się uwierzytelnioną lub poświadczoną urzędowo kopię pełnomocnictwa lub postanowienia sądu. W przypadku udzielenia pełnomocnictwa wyłącznie dokonania zgłoszenia identyfikacyjnego zgłoszenia dołącza się oryginał pełnomocnictwa. Przepisy ustawy swobodzie gospodarczej mają zastosowanie odpowiednio pełnomocnictwa udzielonego przez przedsiębiorcę wpisanego ewidencji, której mowa rozdziale 3 tej ustawy.”.
+1. Jeżeli w CEIDG wpisano dane, o których mowa w art. 25 ust. 1 pkt 11, do wykazania przed organem administracji publicznej upoważnienia do prowadzenia sprawy w imieniu przedsiębiorcy nie stosuje się przepisu art. 33 § 3 Kodeksu postępowania administracyjnego.
 
-**Art. 5.** W ustawie dnia 20 listopada 1998 zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 144, 930, późn. zm. cji gospodarczej lub nie dokonał wyboru innej formy opodatkowania, uważa się, że nadal prowadzi działalność opodatkowaną formie ryczałtu od przychodów ewidencjonowanych. 2. Oświadczenie, którym mowa 1, przypadku prowadzenia formie spółki składają wszyscy wspólnicy naczelnikom urzędów skarbowych właściwym według miejsca zamieszkania każdego ze wspólników. Wspólnicy spółki cywilnej osób fizycznych rozpoczynający prowadzenie gospodarczej oświadczenie wyborze opodatkowania ) wprowadza się następujące zmiany:
+2. W przypadku, o którym mowa w ust. 1, organ administracji publicznej z urzędu potwierdza w CEIDG upoważnienie pełnomocnika do prowadzenia sprawy w imieniu przedsiębiorcy.
 
-**Art. 6.** W ustawie dnia 19 listopada 1999 Prawo gospodarczej (Dz. U. 101, 1178, późn. zm. ) 7b 5 otrzymuje „5. Dane wniosku wpis ewidencji gospodarczej, organ ewidencyjny niezwłocznie, nie później niż ciągu 3 dni od dnia dokonania niu: albo prezydent miasta pozostaje organem ewidencyjnym. W takim przypadku przepisu 68 „1a. Dane przetwarzane rejestrach, których mowa nie stosuje się.”; 124 1 pkt 1 lit. a—e oraz j, prowadzonych Systemie Pobyt udostępnia się ministro- 2) 67 otrzymuje wi właściwemu spraw gospodarki zakresie „Art. 67. 1. O rgany koncesyjne, organy prowadzące niezbędnym prowadzenia Centralnej Ewiden- rejestry regulowanej oraz cji Informacji Działalności Gospodarczej.”. organy właściwe spraw zezwoleń
+3. Przepisu ust. 2 nie stosuje się w sprawach prowadzonych na podstawie ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2011 r. Nr 41, poz. 214 i Nr 53, poz. 273). ” ;
 
-**Art. 8.** W ustawie dnia 13 czerwca 2003 udzie- licencji, terminie dnia 30 czerwca laniu cudzoziemcom ochrony na terytorium Rzeczypo- 2012 przekażą Centralnej Ewidencji spolitej Polskiej (Dz. U. 2009 189, 1472, Informacji Działalności Gospodarczej, 2010 81, 531 oraz 2011 73, 390) dane przedsiębiorcach wykonujących 123 dodaje się 5 brzmieniu: aktualnie działalność gospodarczą wią„5. Dane przetwarzane rejestrach, których mowa 119 1 pkt 1, 4 5, udostępnia się ministrowi właściwemu spraw gospodarki zakresie niezbędnym prowadzenia Centralnej Ewidencji Informacji Działalności Gospodarczej.”.
+- **9)** w art. 26: ust. 1 -4 otrzymują brzmienie: „
+    - **a)**
 
-**Art. 9.** W ustawie dnia 2 lipca 2004 Przepisy wprowadzające ustawę swobodzie gospodarczej (Dz. U. 173, 1808, 2006 225, 1636, 2008 141, 1888 oraz 2009 18,
+1. Osoba fizyczna składa wniosek o wpis do CEIDG za pośrednictwem formularza elektronicznego dostępnego na stronie internetowej CEIDG, w Biuletynie Informacji Publicznej ministra właściwego do spraw gospodarki oraz za pośrednictwem elektronicznej platformy usług administracji publicznej. System teleinformatyczny CEIDG przesyła wnioskodawcy na wskazany adres poczty elektronicznej potwierdzenie złożenia wniosku.
 
-**Art. 10.** W ustawie dnia 7 września 2007 Karcie Polaka (Dz. U. 180, 1280 oraz 2008 52, 305, 214, 1348 216, 1367) 24 po 1 dodaje się 1a brzmieniu: „1a. Dane rejestru, którym mowa 23 1, są udostępniane za pośrednictwem urządzeń teleinformatycznych, bez konieczności składania pisemnych wniosków, także ministrowi właściwemu spraw gospodarki zakresie niezbędnym prowadzenia Centralnej Ewidencji Informacji Działalności Gospodarczej.”.
+2. Wniosek o wpis do CEIDG może być również złożony na formularzu zgodnym z formularzem, o którym mowa w ust. 1, w wybranym przez przedsiębiorcę urzędzie gminy:
 
-**Art. 11.** W ustawie dnia 19 grudnia 2008 zmianie ustawy swobodzie gospodarczej oraz zmianie niektórych innych ustaw (Dz. U. 2009 18, 97) wprowadza się następujące zmiany: żącą się uzyskaniem, odpowiednio, koncesji, wpisu rejestru regulowanej, licencji lub zezwolenia, zawarte prowadzonych przez nie rejestrach, zgodnie przepisami działalności gospodarczej. 2. Przepis 1 stosuje się odpowiednio sądów, kuratorów opiekunów zakresie danych gromadzonych lub udostępnianych przez Centralną Ewidencję Informację Działalności Gospodarczej.”.
+- **1)** osobiście albo
+- **2)** wysłany listem poleconym.
 
-**Art. 12.** W ustawie dnia 4 lutego 2011 opiece nad dziećmi wieku lat 3 (Dz. U. 45, 235) 28 1 pkt 2 otrzymuje „2) oświadczenie numerze identyfikacyjnym REGON identyfikacji podatkowej NIP, ile wnioskodawcy te numery nadano;”.
+3. Organ gminy potwierdza tożsamość wnioskodawcy składającego wniosek, o którym mowa w ust. 2 pkt 1, i potwierdza wnioskodawcy, za pokwitowaniem, przyjęcie wniosku.
 
-**Art. 13.** W ustawie dnia 25 marca 2011 ograniczaniu barier administracyjnych dla obywateli przedsiębiorców (Dz. U. 106, 622) 65 uchyla się pkt 3.
+4. Organ gminy przekształca wniosek, o którym mowa w ust. 2, na formę dokumentu elektronicznego, opatruje go podpisem elektronicznym weryfikowanym za pomocą kwalifikowanego certyfikatu, przy zachowaniu zasad przewidzianych w przepisach o podpisie elektronicznym, albo podpisuje podpisem potwierdzonym profilem zaufanym ePUAP, albo podpisuje podpisem osobistym, o którym mowa w przepisach o dowodach osobistych, albo podpisuje w inny sposób akceptowany przez system CEIDG umożliwiający jednoznaczną identyfikację osoby przesyłającej wniosek oraz czasu jego przesłania i przesyła do CEIDG nie później niż następnego dnia roboczego od dnia jego otrzymania. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
-**Art. 14.** Do dnia 31 grudnia 2011 organ gminy może na podstawie wniosku złożonego sposób określony 26 2 ustawy wymienionej 1, brzmieniu nadanym niniejszą ustawą, dokonać wpisu CEIDG albo ewidencji gospodarczej prowadzonej na podstawie przepisów 7a, 7b 1—9, 7ba, 7c, 7d, 7e, 7f, 7g 7h ustawy dnia 19 listopada 1999 Prawo gospodarczej.
+- **b)**
 
-**Art. 15.** Ustawa wchodzi życie dniem 1 lipca 2011 r., wyjątkiem:
+4a. W przypadku gdy czynności, o których mowa w ust. 4, wykonują upoważnieni pracownicy, organ gminy jest obowiązany niezwłocznie przekazywać do CEIDG imiona i nazwiska tych osób. ” , ust. 5 otrzymuje brzmienie: „
+
+- **c)**
+
+5. Wniosek w formie dokumentu elektronicznego i papierowego oraz dokumentacja z nim związana podlegają archiwizacji przez okres 10 lat od dokonania wpisu. Archiwizacji dokonują, odpowiednio, organ gminy i minister właściwy do spraw gospodarki. Do wniosku i dokumentacji nie stosuje się przepisów o narodowym zasobie archiwalnym i archiwach. ” , ust. 7 otrzymuje brzmienie: „
+
+- **d)**
+
+7. Osoby, o których mowa w art. 13 ust. 2, 4 oraz 5, wraz z wnioskiem przedkładają dane dokumentu potwierdzającego status, o którym mowa w tych przepisach, w szczególności datę wydania i sygnaturę dokumentu oraz wskazanie organu, który go wydał, albo przedkładają w urzędzie gminy do wglądu oryginał dokumentu. ” ;
+
+- **10)** w art. 27: w ust. 2: – uchyla się pkt 2, – pkt 4 i 5 otrzymują brzmienie: „ 4) złożony przez osobę, wobec której prawomocnie orzeczono zakaz prowadzenia działalności gospodarczej, lub 5) dotyczący osoby już wpisanej do CEIDG, lub ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) wraz z którym nie złożono oświadczenia, o którym mowa w art. 25 ust. 7, lub ” , ust. 3–5 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Jeżeli wniosek określony w art. 26 ust. 1 jest niepoprawny, system teleinformatyczny CEIDG informuje niezwłocznie składającego o niepoprawności tego wniosku.
+
+4. Jeżeli wniosek złożony w sposób określony w art. 26 ust. 2 jest niepoprawny, organ gminy niezwłocznie wzywa do skorygowania lub uzupełnienia wniosku, wskazując uchybienia, w terminie 7 dni roboczych, pod rygorem pozostawienia wniosku bez rozpoznania.
+
+5. CEIDG korzysta z informacji zawartych w rejestrach publicznych dostępnych w formie elektronicznej w zakresie danych objętych wnioskiem o wpis do CEIDG w szczególności w celu weryfikacji danych wpisanych do CEIDG. ” , ust. 7 otrzymuje brzmienie: „
+
+- **c)**
+
+7. Wniosek o wpis do CEIDG składany w sposób określony w art. 26 ust. 1 opatrzony jest podpisem elektronicznym, weryfikowanym za pomocą kwalifikowanego certyfikatu, przy zachowaniu zasad przewidzianych w przepisach o podpisie elektronicznym albo podpisywany podpisem potwierdzonym profilem zaufanym ePUAP, albo podpisywany podpisem osobistym, o którym mowa w przepisach o dowodach osobistych, albo podpisywany w inny sposób akceptowany przez system CEIDG umożliwiający jednoznaczną identyfikację osoby składającej wniosek i czas jego złożenia. ” ;
+
+- **11)** art. 28 otrzymuje brzmienie: „
+
+**Art. 28.** CEIDG przesyła odpowiednie dane zawarte we wniosku o wpis do CEIDG niezbędne dla uzyskania, zmiany albo skreślenia wpisu w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), zgłoszenia identyfikacyjnego albo aktualizacyjnego, o którym mowa w przepisach o zasadach ewidencji i identyfikacji podatników i płatników, zgłoszenia płatnika składek albo ich zmiany w rozumieniu przepisów o systemie ubezpieczeń społecznych albo zgłoszenia oświadczenia o kontynuowaniu ubezpieczenia społecznego rolników w rozumieniu przepisów o ubezpieczeniu społecznym rolników oraz złożenia oświadczenia o wyborze formy opodatkowania podatkiem dochodowym od osób fizycznych albo wniosku o zastosowanie opodatkowania w formie karty podatkowej, zgłoszenia rejestracyjnego lub aktualizacyjnego, o których mowa w przepisach o podatku od towarów i usług, za pośrednictwem elektronicznej platformy usług administracji publicznej lub innych środków komunikacji elektronicznej, niezwłocznie, nie później niż w dniu roboczym następującym po dokonaniu wpisu, do właściwego naczelnika urzędu skarbowego wskazanego przez przedsiębiorcę, a po uzyskaniu informacji o nadanym numerze identyfikacji podatkowej (NIP) do:
+
+**Art. 31.**
+
+1. Wpisowi z urzędu do CEIDG podlegają informacje, o których mowa w art. 25 ust. 1 pkt 13–19.
+
+2. Informację, o której mowa w art. 25 ust. 1 pkt 13, kurator lub opiekun zgłasza niezwłocznie do CEIDG za pośrednictwem formularza dostępnego na stronie internetowej CEIDG, nie później niż w terminie 7 dni roboczych od dnia uprawomocnienia się postanowienia o ograniczeniu lub utracie zdolności do czynności prawnych przedsiębiorcy.
+
+3. Informacje, o których mowa w art. 25 ust. 1 pkt 14 i 15, sąd zgłasza niezwłocznie do CEIDG za pośrednictwem formularza dostępnego na stronie internetowej CEIDG, nie później niż w terminie 7 dni roboczych od dnia uprawomocnienia się postanowienia wydanego w postępowaniu upadłościowym i naprawczym.
+
+4. Informację, o której mowa w art. 25 ust. 1 pkt 15a, Centralna Informacja Krajowego Rejestru Sądowego zgłasza niezwłocznie do CEIDG za pośrednictwem formularza dostępnego na stronie internetowej CEIDG, nie później niż w terminie 7 dni roboczych od dnia dokonania wpisu do rejestru przedsiębiorców jednoosobowej spółki kapitałowej powstałej wskutek przekształcenia przedsiębiorcy będącego osobą fizyczną.
+
+5. Informacje, o których mowa w art. 25 ust. 1 pkt 16–18, Krajowy Rejestr Karny albo organ zgłasza niezwłocznie do CEIDG za pośrednictwem formularza dostępnego na stronie internetowej CEIDG, niezwłocznie po uzyskaniu informacji o uprawomocnieniu wyroku albo decyzji o zakazie wykonywania określonej działalności lub zawodu. ” ;
+
+- **14)** w art. 34 w ust. 2: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca podlega wykreśleniu z CEIDG z urzędu, w drodze decyzji administracyjnej ministra właściwego do spraw gospodarki, w przypadku: ” , pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **1)** gdy prawomocnie orzeczono zakaz wykonywania działalności gospodarczej przez przedsiębiorcę; ” , pkt 3 otrzymuje brzmienie: „
+    - **c)**
+
+- **3)** niezłożenia wniosku o wpis informacji o wznowieniu wykonywania działalności gospodarczej przed upływem okresu 24 miesięcy od dnia zawieszenia wykonywania działalności gospodarczej; ” ;
+- **15)** art. 35 otrzymuje brzmienie: „
+
+**Art. 35.**
+
+1. W przypadku, gdy wpis zawiera dane niezgodne z rzeczywistym stanem rzeczy, minister właściwy do spraw gospodarki wzywa przedsiębiorcę do dokonania odpowiedniej zmiany wpisu w terminie 7 dni od dnia doręczenia wezwania.
+
+2. Jeżeli, mimo wezwania, o którym mowa w ust. 1, przedsiębiorca nie dokona odpowiedniej zmiany swojego wpisu, minister właściwy do spraw gospodarki może wykreślić, w drodze decyzji administracyjnej, przedsiębiorcę z CEIDG.
+
+3. Minister właściwy do spraw gospodarki z urzędu, w formie postanowienia, sprostuje wpis zawierający oczywiste błędy, niezgodności z treścią wniosku przedsiębiorcy lub stanem faktycznym wynikającym z innych rejestrów publicznych. ” ;
+
+- **16)** art. 36 otrzymuje brzmienie: „
+
+**Art. 36.** Minister właściwy do spraw gospodarki jest obowiązany do przekazania drogą elektroniczną, niezwłocznie, nie później niż następnego dnia roboczego, informacji o wykreśleniu przedsiębiorcy z CEIDG oraz o sprostowaniu wpisu w CEIDG przedsiębiorcy, którego wpis dotyczy, właściwemu naczelnikowi urzędu skarbowego, do Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa w art. 37 ust. 5. ” ;
+
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2010 r. Nr 51, poz. 307, z późn. zm.) w art. 9a ust. 1 i 2 otrzymują brzmienie: „ 1. Dochody osiągnięte przez podatników ze źródła, o którym mowa w art. 10 ust. 1 pkt 3, są opodatkowane na zasadach określonych w art. 27, z zastrzeżeniem ust. 2 i 3, chyba że podatnicy złożą właściwemu naczelnikowi urzędu skarbowego pisemny wniosek lub oświadczenie o zastosowanie form opodatkowania określonych w ustawie o zryczałtowanym podatku dochodowym. Podatnicy podejmujący działalność gospodarczą wniosek lub oświadczenie o zastosowanie form opodatkowania określonych w ustawie o zryczałtowanym podatku dochodowym mogą złożyć na podstawie przepisów o swobodzie działalności gospodarczej. 2. Podatnicy, z zastrzeżeniem ust. 3, mogą wybrać sposób opodatkowania dochodów z pozarolniczej działalności gospodarczej na zasadach określonych w art. 30c. W tym przypadku są obowiązani do złożenia właściwemu naczelnikowi urzędu skarbowego do dnia 20 stycznia roku podatkowego pisemnego oświadczenia o wyborze tego sposobu opodatkowania. Jeżeli podatnik rozpoczyna prowadzenie pozarolniczej działalności gospodarczej, oświadczenie może złożyć na podstawie przepisów o swobodzie działalności gospodarczej, a jeżeli podatnik nie złożył oświadczenia na podstawie tych przepisów – pisemne oświadczenie składa właściwemu naczelnikowi urzędu skarbowego, nie później niż w dniu uzyskania pierwszego przychodu. ” .
+
+**Art. 3.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 43.**
+
+1. Informacja o nadanym podmiotowi i jego jednostkom lokalnym numerze identyfikacyjnym jest udostępniana na stronie internetowej Głównego Urzędu Statystycznego w sposób, o którym mowa w art. 45a, lub za pośrednictwem elektronicznej platformy usług administracji publicznej (ePUAP), zwanej dalej „ePUAP”.
+
+2. Udostępnienie danych na stronie internetowej Głównego Urzędu Statystycznego lub za pośrednictwem ePUAP jest potwierdzeniem dokonania wpisu tych informacji w rejestrze podmiotów.
+
+3. Urzędy statystyczne wydają na żądanie wpisanych do rejestru podmiotów osób prawnych, jednostek organizacyjnych niemających osobowości prawnej oraz osób fizycznych prowadzących działalność gospodarczą zaświadczenia o nadanym im i ich jednostkom lokalnym numerze identyfikacyjnym, nie później niż w terminie 7 dni roboczych od dnia otrzymania żądania.
+
+4. Prezes Głównego Urzędu Statystycznego przekazuje Prezesowi Zakładu Ubezpieczeń Społecznych w terminie 7 dni roboczych od dnia dokonania wpisu informację o numerze identyfikacyjnym nadanym przedsiębiorcy rozpoczynającemu wykonywanie działalności gospodarczej wraz z numerem PESEL osoby fizycznej wykonującej działalność gospodarczą. ” ;
+
+- **3)** art. 45a otrzymuje brzmienie: „
+
+**Art. 45a.** Główny Urząd Statystyczny udostępnia informacje, o których mowa w art. 45 ust. 1, na stronie internetowej Głównego Urzędu Statystycznego lub za pośrednictwem ePUAP. ” .
+
+**Art. 4.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2004 r. Nr 269, poz. 2681, z późn. zm.) w art. 5 ust. 4a otrzymuje brzmienie: „ 4a. W przypadku dokonywania zgłoszenia identyfikacyjnego przez pełnomocnika lub kuratora sądowego do zgłoszenia dołącza się uwierzytelnioną lub poświadczoną urzędowo kopię pełnomocnictwa lub postanowienia sądu. W przypadku udzielenia pełnomocnictwa wyłącznie do dokonania zgłoszenia identyfikacyjnego do zgłoszenia dołącza się oryginał pełnomocnictwa. Przepisy ustawy o swobodzie działalności gospodarczej mają zastosowanie odpowiednio do pełnomocnictwa udzielonego przez przedsiębiorcę wpisanego do ewidencji, o której mowa w rozdziale 3 tej ustawy. ” .
+
+**Art. 5.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 6.** W ustawie z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm.) w art. 7b ust. 5 otrzymuje brzmienie: „ 5. Dane z wniosku o wpis do ewidencji działalności gospodarczej, organ ewidencyjny niezwłocznie, nie później niż w ciągu 3 dni od dnia dokonania wpisu, przesyła do wskazanego przez przedsiębiorcę naczelnika urzędu skarbowego, właściwego urzędu statystycznego oraz właściwej jednostki terenowej Zakładu Ubezpieczeń Społecznych albo Kasy Rolniczego Ubezpieczenia Społecznego wraz z kopią zaświadczenia o wpisie w ewidencji działalności gospodarczej. ” .
+
+**Art. 7.** W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm.) w art. 133 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Dane przetwarzane w rejestrach, o których mowa w art. 124 ust. 1 pkt 1 lit. a-e oraz j, prowadzonych w Systemie Pobyt udostępnia się ministrowi właściwemu do spraw gospodarki w zakresie niezbędnym do prowadzenia Centralnej Ewidencji i Informacji o Działalności Gospodarczej. ” .
+
+**Art. 8.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 189, poz. 1472, z 2010 r. Nr 81, poz. 531 oraz z 2011 r. Nr 73, poz. 390) w art. 123 dodaje się ust. 5 w brzmieniu: „ 5. Dane przetwarzane w rejestrach, o których mowa w art. 119 ust. 1 pkt 1, 4 i 5, udostępnia się ministrowi właściwemu do spraw gospodarki w zakresie niezbędnym do prowadzenia Centralnej Ewidencji i Informacji o Działalności Gospodarczej. ” .
+
+**Art. 9.** W ustawie z dnia 2 lipca 2004 r. – Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1808, z 2006 r. Nr 225, poz. 1636, z 2008 r. Nr 141, poz. 1888 oraz z 2009 r. Nr 18, poz. 97) w art. 66:
+
+**Art. 10.** W ustawie z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. Nr 180, poz. 1280 oraz z 2008 r. Nr 52, poz. 305, Nr 214, poz. 1348 i Nr 216, poz. 1367) w art. 24 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Dane z rejestru, o którym mowa w art. 23 ust. 1, są udostępniane za pośrednictwem urządzeń teleinformatycznych, bez konieczności składania pisemnych wniosków, także ministrowi właściwemu do spraw gospodarki w zakresie niezbędnym do prowadzenia Centralnej Ewidencji i Informacji o Działalności Gospodarczej. ” .
+
+**Art. 11.** W ustawie z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw (Dz. U. z 2009 r. Nr 18, poz. 97) wprowadza się następujące zmiany:
+
+**Art. 67.**
+
+1. Organy koncesyjne, organy prowadzące rejestry działalności regulowanej oraz organy właściwe do spraw zezwoleń i licencji, w terminie do dnia 30 czerwca 2012 r. przekażą do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, dane o przedsiębiorcach wykonujących aktualnie działalność gospodarczą wiążącą się z uzyskaniem, odpowiednio, koncesji, wpisu do rejestru działalności regulowanej, licencji lub zezwolenia, zawarte w prowadzonych przez nie rejestrach, zgodnie z przepisami o działalności gospodarczej.
+
+2. Przepis ust. 1 stosuje się odpowiednio do sądów, kuratorów i opiekunów w zakresie danych gromadzonych lub udostępnianych przez Centralną Ewidencję i Informację o Działalności Gospodarczej. ” .
+
+**Art. 12.** W ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. Nr 45, poz. 235) w art. 28 w ust. 1 pkt 2 otrzymuje brzmienie: „
+
+**Art. 13.** W ustawie z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców (Dz. U. Nr 106, poz. 622) w art. 65 uchyla się pkt 3.
+
+**Art. 14.** Do dnia 31 grudnia 2011 r. organ gminy może na podstawie wniosku złożonego w sposób określony w art. 26 ust. 2 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, dokonać wpisu do CEIDG albo ewidencji działalności gospodarczej prowadzonej na podstawie przepisów art. 7a, art. 7b ust. 1 -9, art. 7ba, art. 7c, art. 7d, art. 7e, art. 7f, art. 7g i art. 7h ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej.
+
+**Art. 15.** Ustawa wchodzi w życie z dniem 1 lipca 2011 r., z wyjątkiem:
 

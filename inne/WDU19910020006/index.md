@@ -8,9 +8,10 @@ pos: 6
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# stosunku pracy pracy za wypowiedzeniem.
+# Ustawa z dnia 20 grudnia 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz o zmianie niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,42 +25,75 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910020006) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/6/text.pdf) |
 
-**Art. 18.**
+**Art. 1.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 1987 r. Nr 35, poz. 201, z 1989 r. Nr 10, poz. 57 i Nr 20, poz. 107 oraz z 1990 r. Nr 17, poz. 99 i Nr 51, poz. 298) wprowadza się następujące zmiany:
 
-1. W ustawie dnia 29 marca 1963 r. o cudzo ziemcach (Dz. U. 15, poz. 77, 1974 r. 14, poz. 85, 1977 r. 11, poz. 45 1983 r. 63, poz. 288) wprowadza zmiany:
+**Art. 6.**
 
-- **1)** wart. 13 otrzymuje brzmienie: ,,2. pobytu wydaje ze na miejsce zamierzonego pobytu (zamiesz kania) cudzoziemca wojewoda, po opinii komendanta wojewódzkiego Policji. tej opinii formie postanowienia, na które stronie
-- **2)** wart. 15 4 dodaje zdanie drugie brzmieniu: "Wykonanie odstawienia cudzoziemca gra nicy spoczywa na komendancie wojewódzkim Policji ze na miejsce pobytu cudzoziemca.", ,,2. Decyzje sprawach, o których mowa wart. 15, wojewoda wydaje po opinii go komendanta wojewódzkiego Policji lub na jego wniosek. tej opinii formie postanowienia, na które stronie
+1. Przepisów ustawy, z wyjątkiem przepisów o rejestrze przedsiębiorstw państwowych oraz o prowizji od zysku przedsiębiorstwa państwowego, nie stosuje się do:
 
-2. Zadania im kompetencje wart. 4 1, art. 7 3, art. 11 1, art. 12, art. 14 3 4 art. 17 ust.1 ustawy wymienionej 1, nale dotychczas komendantów wojewódzkich Policji, wojewodów.
+- **1)** przedsiębiorstwa państwowego „Polskie Koleje Państwowe”,
+- **2)** przedsiębiorstwa państwowego „Porty Lotnicze”,
+- **3)** przedsiębiorstwa państwowego Polskie Linie Lotnicze „Lot”.
 
-**Art. 19.** Traci moc ustawa dnia 17 czerwca 1959 r. o paszportach (Dz. U. 1967 r. 17, poz. 81, 1971 r. 28, poz. 261 ,z 1983 r. Nr66, poz. 298 iz 1984r. Nr31, poz. 172).
+2. Przepisów ustawy, z wyjątkiem przepisów o rejestrze przedsiębiorstw państwowych, nie stosuje się do:
 
-**Art. 20.** Ustawa wchodzi po trzech dnia jej Prezydent Rzeczypospolitej Polskiej: L. 6 USTAWA dnia 20 grudnia 1990 r. o zmianie ustawy o oraz o zmianie niektórych innych ustaw.
+- **1)** banków,
+- **2)** przedsiębiorstw państwowych tworzonych na podstawie art. 6 ust. 2 lit. a) ustawy z dnia 20 grudnia 1949 r. o państwowym gospodarstwie leśnym (Dz. U. Nr 63, poz. 494, z 1950 r. Nr 49, poz. 448, z 1971 r. Nr 27, poz. 249, z 1974 r. Nr 24, poz. 142, z 1982 r. Nr 7, poz. 54 i z 1989 r. Nr 35, poz. 192). ” ;
+- **2)** w art. 9 w ust. 1 skreśla się pkt 2;
+- **3)** w art. 10 po wyrazach „do tworzenia przedsiębiorstw państwowych” dodaje się wyrazy „lub z wojewodą”;
+- **4)** art. 11 skreśla się;
+- **5)** w art. 25 ust. 1 otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie dnia 25 1981 r. o przed (Dz. U. 1987 r. 35, poz. 201, 1989 r. 10, poz. 57 20, poz. 107 oraz 1990 r. 17, poz. 99 51, poz. 298) wprowadza zmiany:
+1. Łączenie i podział przedsiębiorstwa państwowego utworzonego w trybie określonym w art. 9 zarządza organ założycielski z własnej inicjatywy, za zgodą rady pracowniczej bądź na wniosek rady pracowniczej przedsiębiorstwa lub na wniosek kierownika zakładu przedsiębiorstwa wielozakładowego, poparty przez radę pracowniczą zakładu lub nie mniej niż 50% załogi zakładu, w którym nie ma rady pracowniczej. ” ;
 
-**Art. 2.** W ustawie dnia 9 marca 1990 r. o zmianie ustawy o (Dz. U. 17, poz. 99) wart. 4 dodaje zdanie drugie brzmieniu: "Prowizja, o której mowa wart. 39 ustawy o wach dyrektorom powo przed dniem ustawy."
+- **6)** w art. 394 dodaje się ust. 3 w brzmieniu: „
 
-**Art. 3.** W ustawie dnia 25 1981 r. o samo (Dz. U. 24, poz. "23, 1986 r. 17, poz. 88, 1987 r. 33, poz. 181, 1989 r. 10, poz. 57 1990 r. 17, poz. 99) wart. 24 wprowadza zmiany:
+3. Odprawa nie przysługuje dyrektorowi uprawnionemu do otrzymania jednorazowej odprawy pieniężnej w związku z przejściem na emeryturę lub rentę. ” ;
+
+- **7)** w art. 395 w ust. 1 wyrazy po przecinku „który powołał dyrektora” zastępuje się wyrazami „uprawniony do powołania dyrektora”;
+- **8)** art. 398 otrzymuje brzmienie: „
+
+**Art. 398.**
+
+1. Dyrektor przedsiębiorstwa państwowego, jego zastępca, główny księgowy oraz osoby zatrudnione na stanowiskach równorzędnych mają prawo do prowizji od zysku przedsiębiorstwa państwowego, zwanej dalej „prowizją”.
+
+2. Podstawę naliczania prowizji stanowi zysk bilansowy pomniejszony o podatek od wzrostu wynagrodzeń.
+
+3. Kwota prowizji obciąża zysk bilansowy roku obliczeniowego, pomniejszony o podatek dochodowy, dywidendę i inne zobowiązania wobec budżetu oraz nagrody i premie z zysku.
+
+4. Prowizja nie stanowi składnika wynagrodzenia.
+
+5. Rada Ministrów określi, w drodze rozporządzenia, zasady przyznawania prowizji oraz jakie osoby należy rozumieć przez osoby zatrudnione na stanowiskach równorzędnych. ” ;
+
+- **9)** w art. 42: w ust. 2 wyrazy „stanowiącym część mienia ogólnonarodowego” skreśla się, ust. 3 skreśla się, dotychczasowy ust. 4 otrzymuje oznaczenie ust. 3 i brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Przedsiębiorstwo państwowe zbywa środki trwałe w drodze publicznego przetargu. ” , dotychczasowy ust. 5 oznacza się jako ust. 4;
+
+- **d)**
+- **10)** art. 45 skreśla się;
+- **11)** art. 46 otrzymuje brzmienie: „
+
+**Art. 46.** Z chwilą likwidacji przedsiębiorstwa mienie tego przedsiębiorstwa pozostałe po likwidacji przejmuje Skarb Państwa. O przeznaczeniu tego majątku decyduje organ założycielski zgodnie z ustawą o prywatyzacji przedsiębiorstw. ” ;
+
+**Art. 2.** W ustawie z dnia 9 marca 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych (Dz. U. Nr 17, poz. 99) w art. 2 w ust. 4 dodaje się zdanie drugie w brzmieniu: „ Prowizja, o której mowa w art. 398 ustawy o przedsiębiorstwach państwowych, przysługuje również dyrektorom powołanym przed dniem wejścia w życie ustawy. ”
+
+**Art. 3.** W ustawie z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego (Dz. U. Nr 24, poz. 123, z 1986 r. Nr 17, poz. 88, z 1987 r. Nr 33, poz. 181, z 1989 r. Nr 10, poz. 57 i z 1990 r. Nr 17, poz. 99) w art. 24 wprowadza się następujące zmiany:
 
 **Art. 4.**
 
-1. utworzone terenowe organy administracji na pod stawie rad narodowych nadal biorstwami o ile na podstawie przepisów mieniem komunalnym.
+1. Przedsiębiorstwa państwowe utworzone przez terenowe organy administracji państwowej na podstawie uchwał rad narodowych pozostają nadal przedsiębiorstwami państwowymi, o ile nie stały się na podstawie odrębnych przepisów mieniem komunalnym.
 
-2. W stosunku o których mowa 1, uprawnienia organu wojewoda, 3.
+2. W stosunku do przedsiębiorstw, o których mowa w ust. 1, uprawnienia i obowiązki organu założycielskiego pełni właściwy wojewoda, z zastrzeżeniem ust. 3.
 
-3. W stosunku wspólnych wowych utworzonych terenowe organy administracji na podstawie rad narodowych upraw nienia organu wojewoda ze na
+3. W stosunku do wspólnych przedsiębiorstw państwowych utworzonych przez terenowe organy administracji państwowej na podstawie uchwał rad narodowych uprawnienia i obowiązki organu założycielskiego pełni wojewoda właściwy ze względu na siedzibę przedsiębiorstwa.
 
 **Art. 5.**
 
-1. Uprawnienie prowizji, o której mowa wart. 39 ustawy o dnia 1 kwietnia 1990 r.
+1. Uprawnienie do prowizji, o której mowa w art. 398 ustawy o przedsiębiorstwach państwowych, przysługuje od dnia 1 kwietnia 1990 r.
 
-2. Uprawnienie prowizji zysku na zasadach lonych wart. 39 za okres dnia 1 kwietnia 1990 r. dnia 31 grudnia 1990 r. rad praco wniczych.
+2. Uprawnienie do prowizji od zysku na zasadach określonych w art. 398 za okres od dnia 1 kwietnia 1990 r. do dnia 31 grudnia 1990 r. przysługuje również członkom rad pracowniczych. Ustawa wchodzi w życie z dniem ogłoszenia.
 
-**Art. 6.** Ustawa wchodzi dniem Prezydent Rzeczypospolitej Polskiej: L. 7 USTAWA dnia 20 grudnia 1990 r. o uchyleniu ustawy o jednostkach / Art. 1. 1. Traci moc ustawa dnia 16 lipca 1987 r. jednostkach (Dz. U. 22, poz. 126 oraz 1989 r. 6, poz. 33 74, poz. 443). / Art. 2. Urząd"\... Postępu Naukowo-Technicznego / na dotychczasowych zasadach: . ./ 1) dokonuje skreśleń rejestrze jednostek innowacyjnookresie trzech lat dnia niniejszej ustawy,
-
-**Art. 3.** Jednostki gospodarcze wpisane Naukowo-Technicznego rejestru jednostek upraw nienia korzystania ulg preferencji uzyskanych na podstawie ustawy wymienionej wart. 1, na zasadach niej okres, na któ!y przyznane.
-
-**Art. 4.** Ustawa wchodzi dniem Prezydent Rzeczypospolitej Polskiej: L. 8 RADY MINISTROW dnia 22 grudnia 1990 r. sprawie utworzenia, zniesienia, zmiany granic, nazw ustalenia siedzib niektórych gmin województ wach: bielskim. bydgoskim, katowickim, kieleCkim. siedleckim oraz nadania statusu miasta. Na podstawie art. 4 1 3 ustawy dnia 8 marca 1990 r. o terytorialnym (Dz. U. NrJ6, 95, 32, poz. 191, 34, poz. 199, 43, poz. 253 89, poz.
 

@@ -8,11 +8,10 @@ pos: 1145
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy - Ordynacja podatkowa oraz ustawy o kontroli skarbowej
-
-*USTAWA dnia 30 sierpnia 2013 o zmianie Ordynacja podatkowa oraz o kontroli skarbowej*
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy – Ordynacja podatkowa oraz ustawy o kontroli skarbowej
 
 | Pole | Wartość |
 |---|---|
@@ -26,58 +25,45 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1145/text.pdf) |
 
-**Art. 1.** W ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. 749, późn. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 154b.**
+**Art. 154a.**
 
-1. Wniosek o doręczenie pisma pochodzący od obcej władzy organ wyznaczony zgodnie 154a 7 przekazuje naczelnikowi urzędu skarbowego właściwemu ze względu na miejsce zamieszkania lub siedzibę podmiotu, którego dotyczy wniosek. Naczelnik urzędu skarbowego doręcza pismo stosując odpowiednio przepisy 144–154. wadzenie kontroli jednoczesnych.
+§ 1. Organ podatkowy może wystąpić do władzy państwa członkowskiego Unii Europejskiej właściwej w sprawach podatkowych, zwanej dalej „obcą władzą”, z wnioskiem o doręczenie pisma, gdy doręczenie zgodnie z art. 144 albo art. 144a osobie przebywającej na terytorium tego państwa nie jest możliwe lub gdy powodowałoby nieproporcjonalne trudności.
 
-2. Minister właściwy do spraw finansów publicznych, występując do obcej władzy o przeprowadzenie kontroli jednoczesnej, podaje uzasadnienie wszczęcia takiej kontroli oraz czas jej przeprowadzenia.
+§ 2. Wnioski o doręczenie przekazywane są obcej władzy za pośrednictwem organu wyznaczonego przez ministra właściwego do spraw finansów publicznych.
 
-3. W przypadku gdy obca władza wystąpiła o przeprowadzenie kontroli jednoczesnej, minister właściwy do spraw finansów publicznych potwierdza przystąpienie do kontroli albo odmawia przeprowadzenia kontroli, uzasadniając przyczynę odmowy.”;
+§ 3. Wójt, burmistrz (prezydent miasta), starosta, marszałek województwa oraz samorządowe kolegium odwoławcze przekazują wniosek o doręczenie do organu wyznaczonego przez ministra właściwego do spraw finansów publicznych za pośrednictwem dyrektora izby skarbowej właściwego miejscowo ze względu na siedzibę wójta, burmistrza (prezydenta miasta), starosty, marszałka województwa albo samorządowego kolegium odwoławczego.
 
-- **3)** 294 1 pkt 6 otrzymuje brzmienie: „6) przedstawiciele obcej władzy przebywający siedzibach organów podatkowych, obecni toku postępowania podatkowego lub obecni toku czynności kontrolnych, związku wymianą informacji.”;
-- **4)** 305b 305c otrzymują brzmienie: „Art. 305b. Wymiana informacji obejmuje wszelkie informacje, które mogą być istotne do celów stosowania wykonywania przepisów prawa podatkowego, wyjątkiem informacji:
-- **1)** objętych przepisami Unii Europejskiej dotyczącymi współpracy administracyjnej między państwami członkowskimi zakresie podatku od towarów usług, ceł oraz podatku akcyzowego;
-- **2)** dotyczących składek na ubezpieczenie społeczne;
-- **3)** dotyczących opłaty skarbowej;
-- **4)** dotyczących należności o charakterze umownym, szczególności wynagrodzeń za usługi użyteczności publicznej.
+§ 4. Wniosek o doręczenie powinien zawierać dane niezbędne do identyfikacji podmiotu, któremu ma być doręczone pismo, w szczególności nazwisko lub nazwę (firmę) oraz adres, a także dane dotyczące przedmiotu pisma.
 
-**Art. 305c.**
+§ 5. Wniosek o doręczenie przesyła się za pomocą środków komunikacji elektronicznej, przy użyciu standardowego formularza, według wzoru określonego w załączniku nr 3 do rozporządzenia Komisji (UE) nr 1156/2012 z dnia 6 grudnia 2012 r. ustanawiającego szczegółowe zasady wykonywania niektórych przepisów dyrektywy Rady 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 335 z 07.12.2012, str. 42). W przypadku braku możliwości przekazania wniosku o doręczenie za pomocą środków komunikacji elektronicznej wniosek przesyła się w formie pisemnej.
 
-1. Organ podatkowy występuje wnioskiem do obcej władzy o udzielenie informacji oraz udziela jej informacji za pośrednictwem organu wyznaczonego przez ministra właściwego do spraw finansów publicznych.
+§ 6. Pismo będące przedmiotem wniosku o doręczenie przekazuje się obcej władzy przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
 
-2. Wójt, burmistrz (prezydent miasta), starosta, marszałek województwa oraz samorządowe kolegium odwoławcze przekazują wniosek informacje do organu wyznaczonego przez ministra właściwego do spraw finansów publicznych za pośrednictwem dyrektora izby skarbowej właściwego miejscowo ze względu na siedzibę wójta, burmistrza (prezydenta miasta), starosty, marszałka województwa albo samorządowego kolegium odwoławczego.
+§ 7. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, wyznacza podległy mu organ podatkowy do przekazywania obcym władzom wniosków o doręczenie, mając na względzie konieczność zapewnienia sprawnego doręczania pism.
 
-3. Minister właściwy do spraw finansów publicznych może upoważnić pracowników izb skarbowych, urzędów skarbowych urzędów kontroli skarbowej do bezpośredniej wymiany informacji związku realizowaniem zadań zakresu planowanych lub trwających jednoczesnych kontroli oraz do uczestnictwa spotkaniach organizacyjnych dotyczących tych kontroli.
+§ 1. Wniosek o doręczenie pisma pochodzący od obcej władzy organ wyznaczony zgodnie z art. 154a § 7 przekazuje naczelnikowi urzędu skarbowego właściwemu ze względu na miejsce zamieszkania lub siedzibę podmiotu, którego dotyczy wniosek. Naczelnik urzędu skarbowego doręcza pismo stosując odpowiednio przepisy art. 144–154.
 
-4. Minister właściwy do spraw finansów publicznych, drodze rozporządzenia, wyznacza podległy mu organ podatkowy do przekazywania obcym władzom wniosków informacji, mając na względzie konieczność zapewnienia sprawnej skutecznej wymiany informacji.”;
+§ 2. Organ wyznaczony zgodnie z art. 154a § 7 niezwłocznie informuje obcą władzę, za pomocą środków komunikacji elektronicznej, przy użyciu standardowego formularza, według wzoru określonego w załączniku nr 3 do rozporządzenia Komisji (UE) nr 1156/2012 z dnia 6 grudnia 2012 r. ustanawiającego szczegółowe zasady wykonywania niektórych przepisów dyrektywy Rady 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania, o działaniach podjętych na podstawie wniosku o doręczenie, w szczególności o dacie doręczenia pisma. ” ;
 
-- **5)** 305f:
-    - **a)** 1 1a „§ 1a. Otrzymanie wniosku potwierdza niezwłocznie, nie później niż terminie 7 dni roboczych od dnia jego otrzymania. Potwierdzenia dokonuje za pomocą środków komunikacji elektronicznej. W przypadku braku możliwości potwierdzenia ten sposób, potwierdzenia dokonuje formie pisemnej.”,
-    - **b)** 2 otrzymuje brzmienie: „§ 2. Postępowanie powinno być zakończone bez zbędnej zwłoki, jednak nie później niż terminie 6 miesięterminie 3 miesięcy od dnia otrzymania wniosku.”,
-    - **e)** uchyla 4,
-    - **f)** 5 „§ 5. Odmowa udzielenia informacji następuje bez zbędnej zwłoki, jednak nie później niż terminie miesiąca od dnia otrzymania wniosku. Odmawiając udzielenia informacji, podaje przyczyny odmowy.”;
+- **2)** art. 291a otrzymuje brzmienie: „
 
-- **6)** 305g:
-    - **a)** 1 otrzymuje brzmienie: „§ 1. Jeżeli dane zawarte we wniosku obcej władzy nie są wystarczające do udzielenia informacji, właściwy organ niezwłocznie, jednak nie później niż terminie miesiąca od dnia otrzymania wniosku, wzywa tę władzę do nadesłania wyznaczonym terminie danych uzupełniających.”,
-    - **b)** 1 1a „§ 1a. Bieg terminów, o których mowa 305f 2, rozpoczyna od dnia następującego dniu, którym właściwy organ otrzymał brakujące dane.”;
+**Art. 291a.**
 
-- **7)** 305j otrzymuje brzmienie: „Art. 305j. W sprawach nieuregulowanych 305b–305i stosuje odpowiednio przepisy rozdziałów 1, 2, 5, 8, 9 14 działu IV oraz 143.”;
-- **8)** 305k 1 1a 1b „§ 1a. Właściwy organ może udzielić urzędu obcym władzom wszelkich informacji, które mogą być im przydatne.
+§ 1. Minister właściwy do spraw finansów publicznych może uzgadniać z obcymi władzami przeprowadzenie kontroli jednoczesnych.
 
-1b. Udzielenie informacji przypadku, o którym mowa 1, powinno nastąpić niezwłocznie, nie później jednak niż terminie miesiąca od dnia uzyskania dostępu do tych informacji.”;
+§ 2. Minister właściwy do spraw finansów publicznych, występując do obcej władzy o przeprowadzenie kontroli jednoczesnej, podaje uzasadnienie wszczęcia takiej kontroli oraz czas jej przeprowadzenia.
 
-- **9)** 305k 305ka „Art. 305ka. Organ, który otrzymał informacje od obcej władzy działającej urzędu, niezwłocznie, nie później jednak niż terminie 7 dni roboczych, potwierdza otrzymanie informacji. Potwierdzenia dokonuje za pomocą środków komunikacji elektronicznej. W przypadku braku możliwości potwierdzenia ten sposób, potwierdzenia dokonuje formie pisemnej.”;
-- **10)** 305l 305la „Art. 305la. 1. Minister właściwy do spraw finansów publicznych może, celu wymiany informacji, zawierać obcymi władzami porozumienia zakresie przebywania upoważnionych przedstawicieli obcej władzy siedzibach organów podatkowych oraz ich obecności toku postępowań podatkowych oraz toku czynności kontrolnych.
+§ 3. W przypadku gdy obca władza wystąpiła o przeprowadzenie kontroli jednoczesnej, minister właściwy do spraw finansów publicznych potwierdza przystąpienie do kontroli albo odmawia przeprowadzenia kontroli, uzasadniając przyczynę odmowy. ” ;
 
-2. Porozumienia nie mogą dotyczyć podmiotów, o których mowa 13a, przypadku nadania im uprawnień organów podatkowych.
+- **3)** w art. 294 w § 1 pkt 6 otrzymuje brzmienie: „
+- **6)** przedstawiciele obcej władzy przebywający w siedzibach organów podatkowych, obecni w toku postępowania podatkowego lub obecni w toku czynności kontrolnych, w związku z wymianą informacji. ” ;
+- **4)** art. 305b i art. 305c otrzymują brzmienie: „
 
-3. Jeżeli aktach sprawy zawarte są informacje, których dotyczy wniosek obcej władzy, przedstawiciele obcej władzy, ramach zawartych porozumień, otrzymują kopie dokumentów zawierających te informacje.”;
+**Art. 305b.** Wymiana informacji obejmuje wszelkie informacje, które mogą być istotne do celów stosowania i wykonywania przepisów prawa podatkowego, z wyjątkiem informacji:
 
-- **11)** 305m otrzymuje brzmienie: „Art. 305m. Informacje otrzymane od obcej władzy można przekazać innej obcej władzy uprzednim zawiadomieniu obcej władzy, od której pochodzą te informacje, o zamiarze ich przekazania niewniesieniu przez tę władzę ustanawiającym szczegółowe zasady wykonywania niektórych przepisów dyrektywy Rady 2011/16/UE sprawie współpracy administracyjnej dziedzinie opodatkowania. W przypadku braku możliwości wymiany informacji za pomocą środków komunikacji elektronicznej, wymiany dokonuje formie pisemnej.”.
+**Art. 2.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2011 r. Nr 41, poz. 214, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 28 września 1991 o kontroli skarbowej (Dz. 2011 Nr 41, 214, późn. zm. ) wprowadza następujące zmiany:
-
-**Art. 3.** Ustawa wchodzi życie upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

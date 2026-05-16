@@ -8,9 +8,10 @@ pos: 642
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, ------------------~-----------------Poz.: z z z cel od niektórych towarów z z dnia o utworzeniu
+# Ustawa z dnia 19 czerwca 1997 r. o utworzeniu Uniwersytetu w Białymstoku
 
 | Pole | Wartość |
 |---|---|
@@ -26,25 +27,44 @@ domain: null
 
 **Art. 1.**
 
-1. Tworzy z dniem 1 Uniwersytet zwany dalej "Uniwersyte tem". nych, ekonomicznych matematyczno-przyrodniczych.
+1. Tworzy się z dniem 1 października 1997 r. Uniwersytet w Białymstoku, zwany dalej „Uniwersytetem”.
 
-**Art. 3.** Nadzór nad Uniwersytetem sprawuje Mini ster Edukacji Narodowej.
+2. Siedzibą Uniwersytetu jest miasto Białystok.
+
+3. Uniwersytet jest uczelnią państwową.
+
+**Art. 2.** Podstawowym kierunkiem działalności Uniwersytetu jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk prawnych, humanistycznych, ekonomicznych i matematyczno-przyrodniczych.
+
+**Art. 3.** Nadzór nad Uniwersytetem sprawuje Minister Edukacji Narodowej.
 
 **Art. 4.**
 
-1. Uniwersytet tworzy z Filii Uniwersyte tu Warszawskiego Mienie Warszawskiego, ce i inne prawa dzie Filii Warszawskiego staje mieniem Uniwersytetu.
+1. Uniwersytet tworzy się z Filii Uniwersytetu Warszawskiego w Białymstoku.
 
-3. Uniwersytet, z dniem utworzenia, przejmuje pra wa i Warszawskiego doty Filii Warszawskiego ku.
+2. Mienie Uniwersytetu Warszawskiego, obejmujące własność i inne prawa majątkowe będące w zarządzie Filii Uniwersytetu Warszawskiego w Białymstoku, staje się mieniem Uniwersytetu.
+
+3. Uniwersytet, z dniem utworzenia, przejmuje prawa i zobowiązania Uniwersytetu Warszawskiego dotyczące Filii Uniwersytetu Warszawskiego w Białymstoku.
 
 **Art. 5.**
 
-1. Z dniem 1 1997 r.:
+1. Z dniem 1 października 1997 r.:
 
-- **1)** pracownicy Warszawskiego zatrud nieni Filii pracownikami Uniwersytetu,
-- **2)** studenci Warszawskiego Filii studentami Uniwer sytetu. Podstawowe jednostki organizacyjne Filii Uniwer sytetu Warszawskiego podsta wowymi jednostkami organizacyjnymi Uniwersytetu. 643 USTAWA z dnia 1 sierpnia o Trybunale Konstytucyjnym. 1 i ustrój Konstytucyjnego
+- **1)** pracownicy Uniwersytetu Warszawskiego zatrudnieni w Filii w Białymstoku stają się pracownikami Uniwersytetu,
+- **2)** studenci Uniwersytetu Warszawskiego studiujący w Filii w Białymstoku stają się studentami Uniwersytetu.
 
-**Art. 1.**
+2. Podstawowe jednostki organizacyjne Filii Uniwersytetu Warszawskiego w Białymstoku stają się podstawowymi jednostkami organizacyjnymi Uniwersytetu.
 
-1. Konstytucyjny, zwany dalej ,.Try organem powola nym do badania z aktów nor matywnych i umów oraz wykony wania innych Konstytucji.
+3. Jednostki organizacyjne Filii Uniwersytetu Warszawskiego w Białymstoku, które przed dniem utworzenia Uniwersytetu posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Uniwersytetu.
 
+4. Osoby przyjęte na pierwszy rok studiów na rok akademicki 1997/1998 do Filii Uniwersytetu Warszawskiego w Białymstoku z dniem utworzenia Uniwersytetu stają się jego studentami.
+
+**Art. 6.**
+
+1. Dotychczasowe organy kolegialne i jednoosobowe Filii Uniwersytetu Warszawskiego w Białymstoku stają się z dniem 1 października 1997 r. organami Uniwersytetu.
+
+2. Komisja Senacka Uniwersytetu Warszawskiego do spraw Filii w Białymstoku pełni funkcję Senatu Uniwersytetu do dnia 31 grudnia 1997 r.
+
+3. Do dnia 31 grudnia 1997 r. zostaną przeprowadzone wybory do Senatu Uniwersytetu oraz wybory dziekanów i rad wydziałów w trybie i na okres ustalony w statucie Uniwersytetu.
+
+**Art. 7.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

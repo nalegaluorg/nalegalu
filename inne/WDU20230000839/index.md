@@ -8,9 +8,10 @@ pos: 839
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 maja 2023 r.
+# Ustawa z dnia 14 kwietnia 2023 r. o wykonaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, w zakresie współpracy w sprawach karnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/839/text.pdf) |
 
-Poz. 839
-USTAWA z dnia 14 kwietnia 2023 r.
-o wykonaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, w zakresie współpracy w sprawach karnych
-
 **Art. 1.** W zakresie współpracy w sprawach karnych ze stosunków międzynarodowych ze Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej stosuje się:
 
 **Art. 2.**
@@ -36,5 +33,5 @@ o wykonaniu Umowy o handlu i współpracy między Unią Europejską i Europejsk�
 
 2. Przekazanie, o którym mowa w ust. 1, może nastąpić pod warunkiem, że czyn, którego nakaz dotyczy, nie został popełniony na terytorium Rzeczypospolitej Polskiej ani na polskim statku wodnym lub powietrznym oraz stanowił przestępstwo według prawa Rzeczypospolitej Polskiej lub stanowiłby przestępstwo według prawa Rzeczypospolitej Polskiej w razie popełnienia na terytorium Rzeczypospolitej Polskiej, zarówno w czasie jego popełnienia, jak i w chwili wpłynięcia nakazu.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

@@ -8,9 +8,10 @@ pos: 474
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# kresie wstępnego przetwarzania surowca tytoniowego na podstawie przepisów dotychczasowych, uznaje Art. 6. Przepisy wykonawcze wydane na podstasię za pierwszych przetwórców surowca tytoniowego wie art. 32 ust. 1 pkt 1 ustawy, októrej wart. 1, wpisanych rejestru pierwszych przetwórców su- zachowują moc dnia wejścia życie przepisów rowca tytoniowego rozumieniu przepisów ustawy wykonawczych wydanych na podstawie art. 33f ust. 6 wymienionej wart. 1 wbrzmieniu nadanym niniejszą pkt 2 ustawy wymienionej wart. 1, wbrzmieniu nadaustawą. nym niniejszą ustawą.
+# Ustawa z dnia 23 marca 2006 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,27 +25,45 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060660474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/474/text.pdf) |
 
-**Art. 5.** Postępowania sprawach dotyczących or- Art. 7. Ustawa wchodzi życie po upływie 7 dni ganizacji rynku tytoniu, tym dotyczących przyzna- od dnia ogłoszenia. wania wypłaty płatności dla producentów surowca tytoniowego, wszczęte niezakończone przed dniem wejścia życie niniejszej ustawy, toczą się na zasa- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA z dnia 23 marca 2006 o zmianie ustawy o prawie autorskim prawach pokrewnych
+**Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2000 r. Nr 80, poz. 904, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 4 lutego 1994 o prawie autorskim prawach pokrewnych (Dz. U. z 2000 80, 904, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 19.**
 
-**Art. 19².**
+1. Twórcy i jego spadkobiercom, w przypadku dokonanych zawodowo odsprzedaży oryginalnych egzemplarzy utworu plastycznego lub fotograficznego, przysługuje prawo do wynagrodzenia stanowiącego sumę poniższych stawek:
 
-1. Odsprzedażą rozumieniu art. 19 ust. 1 art. 19 każda sprzedaż następująca po pierwszym rozporządzeniu egzemplarzem przez twórcę.
+- **1)** 5% części ceny sprzedaży, jeżeli ta część jest zawarta w przedziale do równowartości 50 000 euro, oraz
+- **2)** 3% części ceny sprzedaży, jeżeli ta część jest zawarta w przedziale od równowartości 50 000,01 euro do równowartości 200 000 euro, oraz
+- **3)** 1% części ceny sprzedaży, jeżeli ta część jest zawarta w przedziale od równowartości 200 000,01 euro do równowartości 350 000 euro, oraz
+- **4)** 0,5% części ceny sprzedaży, jeżeli ta część jest zawarta w przedziale od równowartości 350 000,01 euro do równowartości 500 000 euro, oraz
+- **5)** 0,25% części ceny sprzedaży, jeżeli ta część jest zawarta w przedziale przekraczającym równowartość 500 000 euro jednak nie wyższego niż równowartość 12 500 euro.
 
-2. Zawodową odsprzedażą rozumieniu art. 19 ust. 1 art. 19 są wszystkie czynności o charakterze odsprzedaży dokonywane, ramach prowadzonej działalności, przez sprzedawców, kupujących, pośredników oraz inne podmioty zajmujące się handlem dziełami sztuki rękopisami utworów literackich muzycznych.
+2. Przepisu ust. 1 nie stosuje się w przypadku ceny sprzedaży niższej niż równowartość 100 euro.
 
-**Art. 19³.**
+3. Oryginalnymi egzemplarzami utworu w rozumieniu ust. 1 są:
 
-1. Do zapłaty wynagrodzenia, o którym art. 19 ust. 1 art. 19 , obowiązany sprzedawca, októrym mowa art. 19 nie.
+- **1)** egzemplarze wykonane osobiście przez twórcę;
+- **2)** kopie uznane za oryginalne egzemplarze utworu, jeżeli zostały wykonane osobiście, w ograniczonej ilości, przez twórcę lub pod jego nadzorem, ponumerowane, podpisane lub w inny sposób przez niego oznaczone. ” ;
+- **4)** po art. 19 dodaje się art. 191–195 w brzmieniu: „
 
-3. Twórca utworu, o którym art. 19 ust. 1 art. 19 ust. 2, a gdy działa na rzecz osoby trzeciej, zajmującej się handlem dziełami sztuki rękopisami utworów literackich muzycznych, odpowiada z nią solidarnie.
+**Art. 191.** Twórcy i jego spadkobiercom przysługuje prawo do wynagrodzenia w wysokości 5% ceny dokonanych zawodowo odsprzedaży rękopisów utworów literackich i muzycznych.
 
-2. Sprzedawca obowiązany ujawnienia osoby trzeciej, o której , oraz jego spadkobiercy mogą domagać się od osób wymienionych ust. 1 udzielenia informacji oraz udostępnienia dokumentów niezbędnych określenia należnego wynagrodzenia z tytułu odsprzedaży oryginalnego egzemplarza rękopisu utworu przez okres 3 lat od dnia dokonania odsprzedaży.
+**Art. 192.**
 
-**Art. 19⁴.** Ceny sprzedaży określone wart. 19 ust. 1 iart. 19 są cenami po odliczeniu podatku od towarów usług należnego z tytułu dokonanej odsprzedaży oryginalnego egzemplarza rękopisu utworu.
+1. Odsprzedażą w rozumieniu art. 19 ust. 1 i art. 191 jest każda sprzedaż następująca po pierwszym rozporządzeniu egzemplarzem przez twórcę.
 
-**Art. 19⁵.** Przepisy art. 19—19 stosuje się także oryginalnych egzemplarzy rękopisów utworów innych niż wymienione wart. 5, których twórcy dniu dokonania odsprzedaży mają miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej.”;
+2. Zawodową odsprzedażą w rozumieniu art. 19 ust. 1 i art. 191 są wszystkie czynności o charakterze odsprzedaży dokonywane, w ramach prowadzonej działalności, przez sprzedawców, kupujących, pośredników oraz inne podmioty zawodowo zajmujące się handlem dziełami sztuki lub rękopisami utworów literackich i muzycznych.
 
-**Art. 2.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 475 ROZPORZÑDZENIE MINISTRA SPRAW WEWN¢TRZNYCH I ADMINISTRACJI z dnia 6 kwietnia 2006 zmieniające rozporządzenie sprawie warunków zakresie wykształcenia, kwalifikacji zawodowych oraz stażu służby, jakim powinien odpowiadać funkcjonariusz Straży Granicznej na określonym stanowisku służbowym Na podstawie art. 38 ustawy z dnia 12 paêdzierni- § 1. W rozporządzeniu Ministra Spraw Wewnętrzka 1990 o Straży Granicznej (Dz. U. z 234, nych Administracji z dnia 1 lipca 2002 sprawie
+**Art. 193.**
+
+1. Do zapłaty wynagrodzenia, o którym mowa w art. 19 ust. 1 i art. 191, jest obowiązany sprzedawca, o którym mowa w art. 192 ust. 2, a gdy działa na rzecz osoby trzeciej, zawodowo zajmującej się handlem dziełami sztuki lub rękopisami utworów literackich i muzycznych, odpowiada z nią solidarnie.
+
+2. Sprzedawca jest obowiązany do ujawnienia osoby trzeciej, o której mowa w ust. 1. Z obowiązku tego może się zwolnić płacąc należne wynagrodzenie.
+
+3. Twórca utworu, o którym mowa w art. 19 ust. 1 i art. 191, oraz jego spadkobiercy mogą domagać się od osób wymienionych w ust. 1 udzielenia informacji oraz udostępnienia dokumentów niezbędnych do określenia należnego wynagrodzenia z tytułu odsprzedaży oryginalnego egzemplarza lub rękopisu utworu przez okres 3 lat od dnia dokonania odsprzedaży.
+
+**Art. 194.** Ceny sprzedaży określone w art. 19 ust. 1 i art. 191 są cenami po odliczeniu podatku od towarów i usług należnego z tytułu dokonanej odsprzedaży oryginalnego egzemplarza lub rękopisu utworu.
+
+**Art. 195.** Przepisy art. 19–194 stosuje się także do oryginalnych egzemplarzy i rękopisów utworów innych niż wymienione w art. 5, których twórcy w dniu dokonania odsprzedaży mają miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej. ” ;
+
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

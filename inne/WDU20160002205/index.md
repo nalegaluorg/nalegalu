@@ -8,9 +8,10 @@ pos: 2205
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2016 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 23 listopada 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,56 +25,108 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2205/text.pdf) |
 
-WYROK TRYBUNAŁU KONSTYTUCYJNEGO dnia 23 listopada 2016 r.
-sygn. akt K 6/14 Trybunał Konstytucyjny składzie: Stanisław Biernat przewodniczący, Małgorzata Pyziak-Szafnicka, Andrzej Rzepliński sprawozdawca, Sławomira Wronkowska-Jaśkiewicz, Andrzej Wróbel, po rozpoznaniu, udziałem wnioskodawców, na rozprawie dniu 15 listopada 2016 r., połączonych:
-1) wniosku Prezydenta Rzeczypospolitej Polskiej o zbadanie zgodności:
-a) 14 22 listopada 2013 r. o postępowaniu wobec osób zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz.U.2014.24) 41 związku 31
-b) 19 lit. a 42 związku 2
-c) 11 i 14 lit. a 2 i 41
-2) wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
-a) pkt lit. a zakresie, jakim określa, że ustawa reguluje postępowanie wobec osób, które odbywają prawomocnie orzeczoną karę pozbawienia wolności wykonywaną systemie terapeutycznym, 41 związku 31
-b) 9 związku pkt 2 i lit. a zakresie, jakim nie określa terminu wydania postępowaniu wykonawczym opinii psychiatrycznej i psychologicznej o stanie zdrowia stanowiącej następnie podstawę wniosku dyrektora zakładu karnego do właściwego sądu o uznanie osoby, której dotyczy wniosek, za osobę stwarzającą zagrożenie, 2 i 41
-c) 14 2 i lit. a 2 i 41
-d) 23 2 lit. a 47 i 49 związku 31
-e) 25 lit. a zakresie, jakim nie określa zasad postępowania terapeutycznego, jakim zostaje objęta osoba umieszczona Ośrodku, zasadą zaufania obywateli do państwa i prawa wynikającą 2
-f) 46 oraz 47 2 lit. a zakresie, jakim nie przewidują sporządzenia tożsamych opinii biegłych, jak opinie wymagane celu umieszczenia Ośrodku, 2 i 41 związku 31 dowego Paktu Praw Obywatelskich i Politycznych (Dz.U.1977.38.167),
-h) lit. a 2 14 7 Międzynarodowego Paktu Praw Obywatelskich i Politycznych, 4 Protokołu nr 7 do Konwencji o ochronie praw człowieka i podstawowych wolności (Dz.U.2003.42.364),
-3) pytania prawnego Sądu Okręgowego Lublinie I Wydział Cywilny, czy:
-a) 2 lit. a zgodny 2 związku 31 i związku 41 i 2 oraz 42
-b) 9 lit. a zgodny 2 związku 31 i związku 41 i 2
-c) 11 lit. a zgodny 2 związku 31 i związku 41 i 2
-d) 14 1–4 lit. a zgodny 2 związku 31 i 3, związku 41 i 2, związku 42 3, związku 45
-e) 24 1, i 4 lit. a zgodny 176
-f) 32 związku 46 i 47 lit. a zgodny 41 i 2 związku 176
-4) pytania prawnego Sądu Apelacyjnego we Wrocławiu Wydział I Cywilny, czy:
-a) lit. a zgodny 41 związku 31
-b) 14 2 i lit. a zgodny 41 i 42 związku 31 i
-c) 15 zdanie pierwsze lit. a zgodny 177 orzeka:
-1. Art. 22 listopada 2013 r. o postępowaniu wobec osób zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz.U.2014.24, ze zm.):
-a) zgodny 41 związku 31 Konstytucji Rzeczypospolitej Polskiej,
-b) nie niezgodny 42
-c) nie niezgodny 7 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej Rzymie 4 listopada 1950 r., zmienionej następnie Protokołami nr 3, 5 i 8 oraz uzupełnionej Protokołem nr 2 (Dz.U.1993.61.284, ze zm.),
-d) nie niezgodny 9 1, 14 7 i 15 Międzynarodowego Paktu Praw Obywatelskich i Politycznych, otwartego do podpisu Nowym Jorku 19 grudnia 1966 r. (Dz.U.1977.38.167),
-e) nie niezgodny zasadą ne bis in idem wynikającą 2
-f) nie niezgodny 4 Protokołu nr 7 do Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonego 22 listopada 1984 r. Strasburgu (Dz.U.2003.42.364).
-2. Art. 2 nie niezgodny z:
-a) zasadą ne bis in idem wynikającą 2
-b) 42 Konstytucji.
-3. Art. 9 związku pkt 2 i zgodny 2 i 41 Konstytucji.
-4. Art. 11 1:
-c) nie niezgodny 41 związku 31 Konstytucji.
-5. Art. 14 1–3 zgodny 45 Konstytucji.
-6. Art. 14 2 1:
-a) zgodny zasadą określoności prawa wynikającą 2
-b) nie niezgodny 42 Konstytucji.
-7. Art. 14 1:
-a) zgodny 41 związku 31
-b) zgodny zasadą określoności prawa wynikającą 2
-c) nie niezgodny 42 Konstytucji.
-8. Art. 15 zdanie pierwsze nie niezgodny 177 Konstytucji.
-9. Art. 19 nie niezgodny 42 Konstytucji związku wynikającą 2 Konstytucji zasadą ne bis in idem.
-10. Art. 25 zgodny zasadą zaufania obywateli do państwa i stanowionego przez nie prawa wynikającą 2 Konstytucji.
-11. Art. 46 zakresie, jakim przewiduje sporządzanie opinii sprawie niezbędności dalszego pobytu Krajowym Ośrodku Zapobiegania Zachowaniom Dyssocjalnym tylko przez jednego lekarza psychiatrę, niezgodny 41 związku 31 Konstytucji.
-Ponadto postanawia: na podstawie 40 pkt 22 lipca 2016 r. o Trybunale Konstytucyjnym (Dz.U. 1157) umorzyć postępowanie pozostałym zakresie.
-Orzeczenie zapadło większością głosów.
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Stanisław Biernat – przewodniczący, Małgorzata Pyziak-Szafnicka, Andrzej Rzepliński – sprawozdawca, Sławomira Wronkowska-Jaśkiewicz, Andrzej Wróbel, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawców, na rozprawie w dniu 15 listopada 2016 r., połączonych:
+1)
+wniosku Prezydenta Rzeczypospolitej Polskiej o zbadanie zgodności:
+a)
+art. 14 ust. 3 ustawy z 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. 2014.24) z art. 41 ust. 1 w związku z art. 31 ust. 3 Konstytucji,
+b)
+art. 19 ust. 3 ustawy powołanej w punkcie 1 lit. a z art. 42 ust. 1 w związku z art. 2 Konstytucji,
+c)
+art. 11 i art. 14 ust. 1 ustawy powołanej w punkcie 1 lit. a z art. 2 i art. 41 ust. 1 Konstytucji,
+2)
+wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
+a)
+art. 1 pkt 1 ustawy powołanej w punkcie 1 lit. a w zakresie, w jakim określa, że ustawa reguluje postępowanie wobec osób, które odbywają prawomocnie orzeczoną karę pozbawienia wolności wykonywaną w systemie terapeutycznym, z art. 41 ust. 1 w związku z art. 31 ust. 3 Konstytucji,
+b)
+art. 9 w związku z art. 1 pkt 2 i 3 ustawy powołanej w punkcie 1 lit. a w zakresie, w jakim nie określa terminu wydania w postępowaniu wykonawczym opinii psychiatrycznej i psychologicznej o stanie zdrowia stanowiącej następnie podstawę wniosku dyrektora zakładu karnego do właściwego sądu o uznanie osoby, której dotyczy wniosek, za osobę stwarzającą zagrożenie, z art. 2 i art. 41 ust. 1 Konstytucji,
+c)
+art. 14 ust. 2 i 3 ustawy powołanej w punkcie 1 lit. a z art. 2 i art. 41 ust. 1 Konstytucji,
+d)
+art. 23 ust. 2 ustawy powołanej w punkcie 1 lit. a z art. 47 i art. 49 w związku z art. 31 ust. 3 Konstytucji,
+e)
+art. 25 ustawy powołanej w punkcie 1 lit. a w zakresie, w jakim nie określa zasad postępowania terapeutycznego, jakim zostaje objęta osoba umieszczona w Ośrodku, z zasadą zaufania obywateli do państwa i prawa wynikającą z art. 2 Konstytucji,
+f)
+art. 46 ust. 1 oraz art. 47 ust. 2 ustawy powołanej w punkcie 1 lit. a w zakresie, w jakim nie przewidują sporządzenia tożsamych opinii biegłych, jak opinie wymagane w celu umieszczenia w Ośrodku, z art. 2 i art. 41 ust. 1 w związku z art. 31 ust. 3 Konstytucji,
+g)
+art. 1 ustawy powołanej w punkcie 1 lit. a z art. 42 ust. 1 Konstytucji, z art. 7 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności (Dz. U. 1993.61.284, ze zm.) oraz z art. 9 ust. 1 i art. 15 ust. 1 Międzynarodowego Paktu Praw Obywatelskich i Politycznych (Dz. U. 1977.38.167),
+h)
+art. 1 ustawy powołanej w punkcie 1 lit. a z art. 2 Konstytucji, z art. 14 ust. 7 Międzynarodowego Paktu Praw Obywatelskich i Politycznych, z art. 4 ust. 1 Protokołu nr 7 do Konwencji o ochronie praw człowieka i podstawowych wolności (Dz. U. 2003.42.364),
+3)
+pytania prawnego Sądu Okręgowego w Lublinie I Wydział Cywilny, czy:
+a)
+art. 2 ust. 3 ustawy powołanej w punkcie 1 lit. a jest zgodny z art. 2 w związku z art. 31 ust. 1 i 3 w związku z art. 41 ust. 1 i 2 oraz art. 42 Konstytucji,
+b)
+art. 9 ustawy powołanej w punkcie 1 lit. a jest zgodny z art. 2 w związku z art. 31 ust. 1 i 3 w związku z art. 41 ust. 1 i 2 Konstytucji,
+c)
+art. 11 ustawy powołanej w punkcie 1 lit. a jest zgodny z art. 2 w związku z art. 31 ust. 1 i 3 w związku z art. 41 ust. 1 i 2 Konstytucji,
+d)
+art. 14 ust. 1–4 ustawy powołanej w punkcie 1 lit. a jest zgodny z art. 2 w związku z art. 31 ust. 1 i 3, w związku z art. 41 ust. 1 i 2, w związku z art. 42 ust. 3, w związku z art. 45 ust. 1 Konstytucji,
+e)
+art. 24 ust. 1, 3 i 4 ustawy powołanej w punkcie 1 lit. a jest zgodny z art. 176 ust. 1 Konstytucji,
+f)
+art. 32 ust. 1 w związku z art. 46 i art. 47 ust. 1 ustawy powołanej w punkcie 1 lit. a jest zgodny z art. 41 ust. 1 i 2 w związku z art. 176 ust. 1 Konstytucji,
+4)
+pytania prawnego Sądu Apelacyjnego we Wrocławiu Wydział I Cywilny, czy:
+a)
+art. 1 ustawy powołanej w punkcie 1 lit. a jest zgodny z art. 41 ust. 1 w związku z art. 31 ust. 3 Konstytucji,
+b)
+art. 14 ust. 2 i 3 ustawy powołanej w punkcie 1 lit. a jest zgodny z art. 41 ust. 1 i art. 42 ust. 1 w związku z art. 31 ust. 1 i 3 Konstytucji,
+c)
+art. 15 ust. 1 zdanie pierwsze ustawy powołanej w punkcie 1 lit. a jest zgodny z art. 177 Konstytucji,
+orzeka:
+1.
+Art. 1 ustawy z 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. 2014.24, ze zm.):
+a)
+jest zgodny z art. 41 ust. 1 w związku z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej,
+b)
+nie jest niezgodny z art. 42 ust. 1 Konstytucji,
+c)
+nie jest niezgodny z art. 7 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie 4 listopada 1950 r., zmienionej następnie Protokołami nr 3, 5 i 8 oraz uzupełnionej Protokołem nr 2 (Dz. U. 1993.61.284, ze zm.),
+d)
+nie jest niezgodny z art. 9 ust. 1, art. 14 ust. 7 i art. 15 ust. 1 Międzynarodowego Paktu Praw Obywatelskich i Politycznych, otwartego do podpisu w Nowym Jorku 19 grudnia 1966 r. (Dz. U. 1977.38.167),
+e)
+nie jest niezgodny z zasadą ne bis in idem wynikającą z art. 2 Konstytucji,
+f)
+nie jest niezgodny z art. 4 ust. 1 Protokołu nr 7 do Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonego 22 listopada 1984 r. w Strasburgu (Dz. U. 2003.42.364).
+2.
+Art. 2 ust. 3 ustawy powołanej w punkcie 1 nie jest niezgodny z:
+a)
+zasadą ne bis in idem wynikającą z art. 2 Konstytucji,
+b)
+art. 42 ust. 1 Konstytucji.
+3.
+Art. 9 w związku z art. 1 pkt 2 i 3 ustawy powołanej w punkcie 1 jest zgodny z art. 2 i art. 41 ust. 1 Konstytucji.
+4.
+Art. 11 ustawy powołanej w punkcie 1:
+a)
+jest zgodny z zasadą poprawnej legislacji wynikającą z art. 2 Konstytucji,
+b)
+jest zgodny z art. 45 ust. 1 Konstytucji,
+c)
+nie jest niezgodny z art. 41 ust. 1 w związku z art. 31 ust. 3 Konstytucji.
+5.
+Art. 14 ust. 1–3 ustawy powołanej w punkcie 1 jest zgodny z art. 45 ust. 1 Konstytucji.
+6.
+a)
+jest zgodny z zasadą określoności prawa wynikającą z art. 2 Konstytucji,
+b)
+nie jest niezgodny z art. 42 ust. 1 Konstytucji.
+7.
+a)
+jest zgodny z art. 41 ust. 1 w związku z art. 31 ust. 3 Konstytucji,
+b)
+jest zgodny z zasadą określoności prawa wynikającą z art. 2 Konstytucji,
+c)
+nie jest niezgodny z art. 42 ust. 1 Konstytucji.
+8.
+Art. 15 ust. 1 zdanie pierwsze ustawy powołanej w punkcie 1 nie jest niezgodny z art. 177 Konstytucji.
+9.
+Art. 19 ust. 3 ustawy powołanej w punkcie 1 nie jest niezgodny z art. 42 ust. 1 Konstytucji w związku z wynikającą z art. 2 Konstytucji zasadą ne bis in idem .
+10.
+Art. 25 ustawy powołanej w punkcie 1 jest zgodny z zasadą zaufania obywateli do państwa i stanowionego przez nie prawa wynikającą z art. 2 Konstytucji.
+11.
+Art. 46 ust. 1 ustawy powołanej w punkcie 1 w zakresie, w jakim przewiduje sporządzanie opinii w sprawie niezbędności dalszego pobytu w Krajowym Ośrodku Zapobiegania Zachowaniom Dyssocjalnym tylko przez jednego lekarza psychiatrę, jest niezgodny z art. 41 ust. 1 w związku z art. 31 ust. 3 Konstytucji.
+Ponadto postanawia: na podstawie art. 40 ust. 1 pkt 1 ustawy z 22 lipca 2016 r. o Trybunale Konstytucyjnym (Dz. U. 1157) umorzyć postępowanie w pozostałym zakresie. Orzeczenie zapadło większością głosów.
 

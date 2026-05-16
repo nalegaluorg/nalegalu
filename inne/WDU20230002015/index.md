@@ -8,9 +8,10 @@ pos: 2015
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 września 2023 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 17 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,16 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002015) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2015/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 sierpnia 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą (Dz. U. z 2022 r. poz. 1032), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 sierpnia 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 29 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088), który stanowi: „Art. 29. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, z wyjątkiem przepisów:
-1) art. 2 pkt 21 i 22, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-2) art. 3, art. 7, art. 8 pkt 3 i 4, art. 9, art. 13 ust. 2 i art. 16–26, które wchodzą w życie z dniem 1 października 2023 r.;
-3) art. 10, art. 12 i art. 28, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 4 kwietnia 2014 r.
-o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
-Art. 40–47. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady przyznawania świadczeń odszkodowawczych Rozdział 3 – Ustalanie okoliczności i przyczyn wypadku Rozdział 4 – Ustalanie związku choroby ze szczególnymi warunkami lub właściwościami służby Rozdział 5 – Orzekanie o uszczerbku na zdrowiu Rozdział 6 – Postępowanie w sprawie przyznania świadczeń odszkodowawczych Rozdział 7 – Zmiany w przepisach obowiązujących Rozdział 8 – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą (Dz. U. z 2022 r. poz. 1032), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 sierpnia 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 29 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088), który stanowi:
+„
+
+**Art. 29.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, z wyjątkiem przepisów:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -68,7 +68,7 @@ Art. 40–47. (pominięte)
 
 **Art. 5.** Ilekroć w ustawie jest mowa o „kierowniku jednostki organizacyjnej”, należy przez to rozumieć kierownika jednostki organizacyjnej, w której funkcjonariusz pełnił służbę w chwili wypadku lub ustalenia uszczerbku na zdrowiu doznanego wskutek choroby.
 
-**Art. 6.** Do postępowań w sprawie przyznania świadczeń odszkodowawczych, w zakresie nieuregulowanym w ustawie, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+**Art. 6.** Do postępowań w sprawie przyznania świadczeń odszkodowawczych, w zakresie nieuregulowanym w ustawie, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
 #### Rozdział 2 Zasady przyznawania świadczeń odszkodowawczych
 
@@ -107,8 +107,8 @@ Art. 40–47. (pominięte)
 
 2. Jeżeli do jednorazowego odszkodowania są uprawnieni równocześnie:
 
-- **1)** małżonek i jedno lub więcej dzieci odszkodowanie przysługuje w wysokości ustalonej w ust. 1 pkt 1, zwiększonej o 3,5-krotne przeciętne wynagrodzenie na każde dziecko;
-- **2)** dwoje lub więcej dzieci odszkodowanie przysługuje w wysokości określonej w ust. 1 pkt 1, zwiększonej o 3,5-krotne przeciętne wynagrodzenie na drugie i każde następne dziecko.
+- **1)** małżonek i jedno lub więcej dzieci – odszkodowanie przysługuje w wysokości ustalonej w ust. 1 pkt 1, zwiększonej o 3,5-krotne przeciętne wynagrodzenie na każde dziecko;
+- **2)** dwoje lub więcej dzieci – odszkodowanie przysługuje w wysokości określonej w ust. 1 pkt 1, zwiększonej o 3,5-krotne przeciętne wynagrodzenie na drugie i każde następne dziecko.
 
 3. Jeżeli oprócz małżonka lub dzieci do jednorazowego odszkodowania są uprawnieni równocześnie inni członkowie rodziny, każdemu z nich odszkodowanie przysługuje w wysokości 3,5-krotnego przeciętnego wynagrodzenia, niezależnie od odszkodowania przysługującego małżonkowi lub dzieciom zgodnie z ust. 1 pkt 1 lub ust. 2.
 
@@ -129,14 +129,14 @@ Art. 40–47. (pominięte)
 1. W szczególnie uzasadnionych przypadkach odpowiednio Prezes Rady Ministrów, minister właściwy do spraw finansów publicznych, minister właściwy do spraw wewnętrznych albo Szef Kancelarii Sejmu może:
 
 - **1)** podwyższyć jednorazowe odszkodowanie funkcjonariuszowi albo uprawnionemu członkowi rodziny, nie więcej jednak niż o 100% wysokości odszkodowania ustalonej na podstawie art. 11 i art. 12;
-- **2)** przyznać jednorazowe odszkodowanie:
-    - **a)** członkowi rodziny zmarłego funkcjonariusza niespełniającemu warunków wymaganych do uzyskania renty rodzinnej do wysokości określonej w art. 12,
-    - **b)** uprawnionemu członkowi rodziny funkcjonariusza zaginionego w czasie pełnienia służby w wysokości określonej w art. 12,
-    - **c)** uprawnionemu członkowi rodziny funkcjonariusza zmarłego wskutek przestępstwa, jeżeli zachodzi uzasadnione przypuszczenie, że jego śmierć pozostaje w związku ze służbą do wysokości określonej w art. 12.
+- **2)** przyznać jednorazowe odszkodowanie: członkowi rodziny zmarłego funkcjonariusza niespełniającemu warunków wymaganych do uzyskania renty rodzinnej – do wysokości określonej w art. 12, uprawnionemu członkowi rodziny funkcjonariusza zaginionego w czasie pełnienia służby – w wysokości określonej w art. 12, uprawnionemu członkowi rodziny funkcjonariusza zmarłego wskutek przestępstwa, jeżeli zachodzi uzasadnione przypuszczenie, że jego śmierć pozostaje w związku ze służbą – do wysokości określonej w art. 12.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Osobie, o której mowa w ust. 1 pkt 2 lit. a, można przyznać jednorazowe odszkodowanie wyłącznie w przypadku braku uprawnionych członków rodziny.
 
-**Art. 15.** Funkcjonariuszowi, który doznał uszczerbku na zdrowiu wskutek wypadku określonego w art. 3, a w razie jego śmierci wskutek takiego wypadku uprawnionym członkom rodziny przysługuje odszkodowanie za udowodnione szkody poniesione wskutek utraty, zniszczenia lub uszkodzenia w związku z wypadkiem przedmiotów osobistego użytku.
+**Art. 15.** Funkcjonariuszowi, który doznał uszczerbku na zdrowiu wskutek wypadku określonego w art. 3, a w razie jego śmierci wskutek takiego wypadku – uprawnionym członkom rodziny przysługuje odszkodowanie za udowodnione szkody poniesione wskutek utraty, zniszczenia lub uszkodzenia w związku z wypadkiem przedmiotów osobistego użytku.
 
 **Art. 16.**
 
@@ -152,10 +152,10 @@ Art. 40–47. (pominięte)
 
 2. Jeżeli wypadkowi uległ:
 
-- **1)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu lub Szef Centralnego Biura Antykorupcyjnego zawiadamia się Prezesa Rady Ministrów;
-- **2)** Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej lub Komendant Służby Ochrony Państwa zawiadamia się ministra właściwego do spraw wewnętrznych;
-- **3)** Szef Krajowej Administracji Skarbowej zawiadamia się ministra właściwego do spraw finansów publicznych;
-- **4)** Komendant Straży Marszałkowskiej zawiadamia się Szefa Kancelarii Sejmu.
+- **1)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu lub Szef Centralnego Biura Antykorupcyjnego – zawiadamia się Prezesa Rady Ministrów;
+- **2)** Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej lub Komendant Służby Ochrony Państwa – zawiadamia się ministra właściwego do spraw wewnętrznych;
+- **3)** Szef Krajowej Administracji Skarbowej – zawiadamia się ministra właściwego do spraw finansów publicznych;
+- **4)** Komendant Straży Marszałkowskiej – zawiadamia się Szefa Kancelarii Sejmu.
 
 3. Bezpośredni przełożony funkcjonariusza, który uległ wypadkowi, niezwłocznie zawiadamia o tym kierownika jednostki organizacyjnej.
 
@@ -178,10 +178,10 @@ Art. 40–47. (pominięte)
 
 7. W rozumieniu przepisów niniejszego rozdziału zadania kierownika jednostki organizacyjnej wykonuje w odniesieniu do:
 
-- **1)** Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu lub Szefa Centralnego Biura Antykorupcyjnego Prezes Rady Ministrów;
-- **2)** Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, Komendanta Głównego Państwowej Straży Pożarnej lub Komendanta Służby Ochrony Państwa minister właściwy do spraw wewnętrznych;
-- **3)** Szefa Krajowej Administracji Skarbowej minister właściwy do spraw finansów publicznych;
-- **4)** Komendanta Straży Marszałkowskiej Szef Kancelarii Sejmu.
+- **1)** Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu lub Szefa Centralnego Biura Antykorupcyjnego – Prezes Rady Ministrów;
+- **2)** Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, Komendanta Głównego Państwowej Straży Pożarnej lub Komendanta Służby Ochrony Państwa – minister właściwy do spraw wewnętrznych;
+- **3)** Szefa Krajowej Administracji Skarbowej – minister właściwy do spraw finansów publicznych;
+- **4)** Komendanta Straży Marszałkowskiej – Szef Kancelarii Sejmu.
 
 **Art. 18.** Funkcjonariusza, który uległ wypadkowi, kierownik jednostki organizacyjnej lub inny przełożony niezwłocznie kieruje na badanie niezbędne do ustalenia zawartości w organizmie alkoholu, środków odurzających, substancji psychotropowych lub innych substancji o podobnym działaniu, jeżeli zachodzi uzasadnione przypuszczenie wystąpienia okoliczności, o których mowa w art. 7 ust. 1 pkt 2, chyba że stan jego zdrowia albo okoliczności wypadku nie uzasadniają przeprowadzenia takiego badania.
 
@@ -189,8 +189,8 @@ Art. 40–47. (pominięte)
 
 1. Kierownik jednostki organizacyjnej powołuje komisję powypadkową, w której skład wchodzą co najmniej:
 
-- **1)** jako przewodniczący przedstawiciel służby właściwej do spraw bezpieczeństwa i higieny służby i pracy w jednostce organizacyjnej;
-- **2)** jako członek przedstawiciel służby właściwy do oceny okoliczności i przyczyn wypadku lub inna osoba wskazana przez powołującego komisję powypadkową.
+- **1)** jako przewodniczący – przedstawiciel służby właściwej do spraw bezpieczeństwa i higieny służby i pracy w jednostce organizacyjnej;
+- **2)** jako członek – przedstawiciel służby właściwy do oceny okoliczności i przyczyn wypadku lub inna osoba wskazana przez powołującego komisję powypadkową.
 
 2. Jeżeli w jednostce organizacyjnej nie utworzono służby właściwej do spraw bezpieczeństwa i higieny służby i pracy, w skład komisji powypadkowej wchodzi osoba, której kierownik jednostki organizacyjnej powierzył wykonywanie zadań w zakresie bezpieczeństwa i higieny służby i pracy.
 
@@ -198,10 +198,10 @@ Art. 40–47. (pominięte)
 
 4. Jeżeli wypadkowi uległ:
 
-- **1)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu lub Szef Centralnego Biura Antykorupcyjnego komisję powypadkową powołuje Prezes Rady Ministrów;
-- **2)** Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej lub Komendant Służby Ochrony Państwa komisję powypadkową powołuje minister właściwy do spraw wewnętrznych;
-- **3)** Szef Krajowej Administracji Skarbowej komisję powypadkową powołuje minister właściwy do spraw finansów publicznych;
-- **4)** Komendant Straży Marszałkowskiej komisję powypadkową powołuje Szef Kancelarii Sejmu.
+- **1)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu lub Szef Centralnego Biura Antykorupcyjnego – komisję powypadkową powołuje Prezes Rady Ministrów;
+- **2)** Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej lub Komendant Służby Ochrony Państwa – komisję powypadkową powołuje minister właściwy do spraw wewnętrznych;
+- **3)** Szef Krajowej Administracji Skarbowej – komisję powypadkową powołuje minister właściwy do spraw finansów publicznych;
+- **4)** Komendant Straży Marszałkowskiej – komisję powypadkową powołuje Szef Kancelarii Sejmu.
 
 5. Jeżeli wymaga tego ważny interes służby, w szczególności gdy postępowanie wyjaśniające mogłoby narazić niejawne dane osobowe funkcjonariusza lub czynności przez niego wykonywane na ujawnienie, komisję powypadkową powołuje odpowiednio Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Centralnego Biura Antykorupcyjnego, Komendant Główny Policji, Komendant Główny Straży Granicznej, Szef Krajowej Administracji Skarbowej, Szef Kancelarii Sejmu lub Komendant Służby Ochrony Państwa.
 
@@ -266,14 +266,14 @@ Art. 40–47. (pominięte)
 
 3. W przypadku, o którym mowa w ust. 2:
 
-- **1)** pkt 1 przepisy ust. 1 i art. 23 ust. 2 i 3 stosuje się;
-- **2)** pkt 2 kierownik jednostki organizacyjnej zatwierdza protokół powypadkowy.
+- **1)** pkt 1 – przepisy ust. 1 i art. 23 ust. 2 i 3 stosuje się;
+- **2)** pkt 2 – kierownik jednostki organizacyjnej zatwierdza protokół powypadkowy.
 
 **Art. 25.**
 
 1. Zatwierdzony protokół powypadkowy przekazuje się po jednym egzemplarzu:
 
-- **1)** funkcjonariuszowi, który uległ wypadkowi, a jeżeli funkcjonariusz ten poniósł śmierć w wypadku uprawnionym członkom rodziny, za pisemnym potwierdzeniem odbioru; przepis art. 23 ust. 3 stosuje się;
+- **1)** funkcjonariuszowi, który uległ wypadkowi, a jeżeli funkcjonariusz ten poniósł śmierć w wypadku – uprawnionym członkom rodziny, za pisemnym potwierdzeniem odbioru; przepis art. 23 ust. 3 stosuje się;
 - **2)** właściwej komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych albo komisji lekarskiej Agencji Bezpieczeństwa Wewnętrznego albo Agencji Wywiadu.
 
 2. Do akt postępowania wyjaśniającego dołącza się egzemplarz zatwierdzonego protokołu powypadkowego, uwagi i zastrzeżenia wniesione przez funkcjonariusza, który uległ wypadkowi, albo uprawnionych członków rodziny oraz zdanie odrębne, jeżeli zostało złożone przez członka komisji powypadkowej.
@@ -296,149 +296,6 @@ Art. 40–47. (pominięte)
 
 **Art. 28.**
 
-1. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób i tryb ustalania okoliczności i przyczyn wypadków w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz Centralnym Biurze Antykorupcyjnym, w szczególności:
+1.
 
-- **1)** tryb postępowania komisji powypadkowej,
-- **2)** tryb zgłaszania i rozpatrywania uwag i zastrzeżeń do ustaleń komisji powypadkowej oraz zatwierdzania tych ustaleń,
-- **3)** wzory rejestru wypadków pozostających w związku z pełnieniem służby, protokołu powypadkowego oraz innych dokumentów sporządzanych w toku postępowania wyjaśniającego mając na względzie sprawne i terminowe prowadzenie tych postępowań.
-
-2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb ustalania okoliczności i przyczyn wypadków w Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej i Służbie Ochrony Państwa, w szczególności:
-
-- **1)** tryb postępowania komisji powypadkowej,
-- **2)** tryb zgłaszania i rozpatrywania uwag i zastrzeżeń do ustaleń komisji powypadkowej oraz zatwierdzania tych ustaleń,
-- **3)** wzory rejestru wypadków pozostających w związku z pełnieniem służby, protokołu powypadkowego oraz innych dokumentów sporządzanych w toku postępowania wyjaśniającego mając na względzie sprawne i terminowe prowadzenie tych postępowań.
-
-3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb ustalania okoliczności i przyczyn wypadków w Służbie Celno-Skarbowej, w szczególności:
-
-- **1)** tryb postępowania komisji powypadkowej,
-- **2)** tryb zgłaszania i rozpatrywania uwag i zastrzeżeń do ustaleń komisji powypadkowej oraz zatwierdzania tych ustaleń,
-- **3)** wzory rejestru wypadków pozostających w związku z pełnieniem służby, protokołu powypadkowego oraz innych dokumentów sporządzanych w toku postępowania wyjaśniającego mając na względzie sprawne i terminowe prowadzenie tych postępowań.
-
-**Art. 29.** Zbiorcze zestawienie wypadków pozostających w związku z pełnieniem służby zaistniałych w danym roku kalendarzowym sporządzają:
-
-#### Rozdział 4 Ustalanie związku choroby ze szczególnymi warunkami lub właściwościami służby
-
-**Art. 30.**
-
-1. W razie ujawnienia u funkcjonariusza choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi warunkami lub właściwościami służby, kierownik jednostki organizacyjnej kieruje funkcjonariusza do właściwej komisji lekarskiej z urzędu lub na wniosek funkcjonariusza.
-
-2. W razie śmierci funkcjonariusza spowodowanej chorobą, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi warunkami lub właściwościami służby, kierownik jednostki organizacyjnej zwraca się z urzędu lub na wniosek osób, o których mowa w art. 8, do właściwej komisji lekarskiej o ustalenie, czy śmierć funkcjonariusza jest następstwem tej choroby.
-
-#### Rozdział 5 Orzekanie o uszczerbku na zdrowiu
-
-**Art. 31.** O uszczerbku na zdrowiu funkcjonariusza doznanym wskutek wypadku lub choroby lub o związku śmierci funkcjonariusza z wypadkiem lub chorobą orzekają komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych albo komisje lekarskie Agencji Bezpieczeństwa Wewnętrznego albo Agencji Wywiadu.
-
-**Art. 32.**
-
-1. Prezes Rady Ministrów określi, w drodze rozporządzenia:
-
-- **1)** wykaz chorób pozostających w związku z pełnieniem służby w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnym Biurze Antykorupcyjnym, uwzględniając ich związek ze szczególnymi warunkami lub właściwościami każdej ze służb;
-- **2)** sposób ustalania stopnia uszczerbku na zdrowiu funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego, uwzględniając możliwość wystąpienia wielomiejscowych naruszeń sprawności organizmu oraz wpływ upośledzeń czynności organizmu mogących istnieć przed wypadkiem lub chorobą na ocenę procentową uszczerbku na zdrowiu;
-- **3)** wykaz norm oceny procentowej uszczerbku na zdrowiu funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego, mając na względzie aktualny stan wiedzy medycznej.
-
-2. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia, ministrem właściwym do spraw pracy, ministrem właściwym do spraw zabezpieczenia społecznego oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
-
-- **1)** wykaz chorób pozostających w związku z pełnieniem służby w Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służbie Celno-Skarbowej i Służbie Ochrony Państwa, uwzględniając ich związek ze szczególnymi warunkami lub właściwościami każdej ze służb;
-- **2)** sposób ustalania stopnia uszczerbku na zdrowiu funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Ochrony Państwa, o których mowa w art. 2 pkt 1, uwzględniając możliwość wystąpienia wielomiejscowych naruszeń sprawności organizmu oraz wpływ upośledzeń czynności organizmu mogących istnieć przed wypadkiem lub chorobą na ocenę procentową uszczerbku na zdrowiu;
-- **3)** wykaz norm oceny procentowej uszczerbku na zdrowiu funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Ochrony Państwa, o których mowa w art. 2 pkt 1, mając na względzie aktualny stan wiedzy medycznej.
-
-#### Rozdział 6 Postępowanie w sprawie przyznania świadczeń odszkodowawczych
-
-**Art. 33.** Postępowanie w sprawie przyznania świadczeń odszkodowawczych wszczyna się:
-
-**Art. 34.**
-
-1. Prawo do świadczeń odszkodowawczych i ich wysokość ustala się w drodze decyzji.
-
-2. Decyzję, o której mowa w ust. 1, wydają:
-
-- **1)** Prezes Rady Ministrów w stosunku do Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego i ich zastępców oraz członków ich rodzin;
-- **2)** minister właściwy do spraw wewnętrznych w stosunku do:
-    - **a)** Komendanta Głównego Policji i jego zastępców, Komendanta Głównego Straży Granicznej i jego zastępców, Komendanta Głównego Państwowej Straży Pożarnej i jego zastępców, Komendanta Służby Ochrony Państwa i jego zastępców oraz członków ich rodzin,
-    - **b)** funkcjonariuszy oddelegowanych do pełnienia zadań służbowych w urzędzie obsługującym ministra właściwego do spraw wewnętrznych oraz członków ich rodzin;
-
-- **2a)** minister właściwy do spraw finansów publicznych w stosunku do Szefa Krajowej Administracji Skarbowej i jego zastępców oraz członków ich rodzin;
-- **2b)** Szef Kancelarii Sejmu w stosunku do Komendanta Straży Marszałkowskiej, jego zastępców, funkcjonariuszy Straży Marszałkowskiej oraz członków ich rodzin;
-- **3)** Szef Agencji Bezpieczeństwa Wewnętrznego w stosunku do funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz członków ich rodzin;
-- **4)** Szef Agencji Wywiadu w stosunku do funkcjonariuszy Agencji Wywiadu oraz członków ich rodzin;
-- **5)** Szef Centralnego Biura Antykorupcyjnego w stosunku do funkcjonariuszy Centralnego Biura Antykorupcyjnego oraz członków ich rodzin;
-- **6)** Komendant Główny Policji w stosunku do:
-    - **a)** dyrektorów biur (równorzędnych) Komendy Głównej Policji i ich zastępców, Komendanta Centralnego Biura Śledczego Policji i jego zastępców, Komendanta Biura Spraw Wewnętrznych Policji i jego zastępców, Komendanta Centralnego Biura Zwalczania Cyberprzestępczości i jego zastępców, Dyrektora Centralnego Laboratorium Kryminalistycznego Policji i jego zastępców, komendantów wojewódzkich Policji i ich zastępców, Komendanta Stołecznego Policji i jego zastępców, Komendanta-Rektora Akademii Policji w Szczytnie, Zastępcy Komendanta-Prorektora Akademii Policji w Szczytnie, Kanclerza Akademii Policji w Szczytnie, komendantów szkół policyjnych i ich zastępców, a także członków ich rodzin,
-    - **b)** funkcjonariuszy pełniących służbę w Komendzie Głównej Policji oraz członków ich rodzin;
-
-- **6a)** Komendant Centralnego Biura Śledczego Policji w stosunku do funkcjonariuszy pełniących służbę w Centralnym Biurze Śledczym Policji oraz członków ich rodzin;
-- **6b)** Komendant Biura Spraw Wewnętrznych Policji w stosunku do funkcjonariuszy pełniących służbę w Biurze Spraw Wewnętrznych Policji oraz członków ich rodzin;
-- **6c)** Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do funkcjonariuszy pełniących służbę w Centralnym Biurze Zwalczania Cyberprzestępczości oraz członków ich rodzin;
-- **6d)** Dyrektor Centralnego Laboratorium Kryminalistycznego Policji w stosunku do funkcjonariuszy pełniących służbę w Centralnym Laboratorium Kryminalistycznym Policji oraz członków ich rodzin;
-- **7)** komendanci wojewódzcy (Stołeczny) Policji w stosunku do funkcjonariuszy pełniących służbę na terenie ich działania oraz członków ich rodzin;
-- **8)** Komendant-Rektor Akademii Policji w Szczytnie oraz komendanci szkół policyjnych w stosunku do funkcjonariuszy pełniących służbę w podległych im szkołach oraz członków ich rodzin;
-- **9)** (uchylony)
-- **10)** Komendant Główny Straży Granicznej w stosunku do:
-    - **a)** dyrektorów komórek organizacyjnych Komendy Głównej Straży Granicznej i ich zastępców, Komendanta Biura Spraw Wewnętrznych Straży Granicznej i jego zastępców, komendantów oddziałów Straży Granicznej i ich zastępców, komendantów ośrodków szkolenia Straży Granicznej i ich zastępców, komendantów ośrodków Straży Granicznej i ich zastępców oraz członków ich rodzin,
-    - **a)** dyrektorów komórek organizacyjnych Komendy Głównej Straży Granicznej i ich zastępców, Komendanta Biura Spraw Wewnętrznych Straży Granicznej i jego zastępców, Rektora-Komendanta Wyższej Szkoły Straży Granicznej, Prorektora-Zastępcę Komendanta Wyższej Szkoły Straży Granicznej, Kanclerza Wyższej Szkoły Straży Granicznej, komendantów oddziałów Straży Granicznej i ich zastępców, komendantów ośrodków szkolenia Straży Granicznej i ich zastępców, komendantów ośrodków Straży Granicznej i ich zastępców oraz członków ich rodzin,
-    - **b)** funkcjonariuszy pełniących służbę w Komendzie Głównej Straży Granicznej oraz członków ich rodzin;
-
-- **11)** komendanci oddziałów Straży Granicznej, komendanci ośrodków szkolenia Straży Granicznej, komendanci ośrodków Straży Granicznej w stosunku do funkcjonariuszy pełniących służbę na terenie ich działania oraz członków ich rodzin;
-- **11a)** Komendant Biura Spraw Wewnętrznych Straży Granicznej w stosunku do funkcjonariuszy pełniących służbę w Biurze Spraw Wewnętrznych Straży Granicznej oraz członków ich rodzin;
-- **11b)** Rektor-Komendant Wyższej Szkoły Straży Granicznej w stosunku do funkcjonariuszy pełniących służbę w Wyższej Szkole Straży Granicznej oraz członków ich rodzin;
-- **12)** Komendant Główny Państwowej Straży Pożarnej w stosunku do:
-    - **a)** komendantów wojewódzkich Państwowej Straży Pożarnej i ich zastępców, komendantów szkół Państwowej Straży Pożarnej i ich zastępców, dyrektora instytutu badawczego Państwowej Straży Pożarnej i jego zastępców, dyrektora Centralnego Muzeum Pożarnictwa oraz członków ich rodzin,
-    - **b)** funkcjonariuszy pełniących służbę w Komendzie Głównej Państwowej Straży Pożarnej oraz członków ich rodzin;
-
-- **13)** komendanci wojewódzcy Państwowej Straży Pożarnej w stosunku do komendantów powiatowych (miejskich) Państwowej Straży Pożarnej i ich zastępców, funkcjonariuszy pełniących służbę w podległych im komendach wojewódzkich Państwowej Straży Pożarnej oraz członków ich rodzin;
-- **14)** komendanci powiatowi (miejscy) Państwowej Straży Pożarnej w stosunku do funkcjonariuszy pełniących służbę w podległych im komendach powiatowych (miejskich) Państwowej Straży Pożarnej oraz członków ich rodzin;
-- **15)** komendanci szkół Państwowej Straży Pożarnej w stosunku do funkcjonariuszy pełniących służbę w podległych im jednostkach organizacyjnych szkół oraz członków ich rodzin;
-- **16)** dyrektor instytutu badawczego Państwowej Straży Pożarnej w stosunku do funkcjonariuszy pełniących służbę w instytucie oraz członków ich rodzin;
-- **17)** dyrektor Centralnego Muzeum Pożarnictwa w stosunku do funkcjonariuszy pełniących służbę w tej jednostce oraz członków ich rodzin;
-- **18)** Szef Wojskowej Ochrony Przeciwpożarowej w stosunku do funkcjonariuszy pełniących służbę w Inspektoracie Wojskowej Ochrony Przeciwpożarowej oraz członków ich rodzin;
-- **19)** szefowie delegatur Wojskowej Ochrony Przeciwpożarowej w stosunku do funkcjonariuszy pełniących służbę w podległych im delegaturach oraz członków ich rodzin;
-- **20)** właściwy terytorialnie szef delegatury Wojskowej Ochrony Przeciwpożarowej w stosunku do funkcjonariuszy pełniących służbę w wojskowych strażach pożarnych oraz członków ich rodzin;
-- **21)** Komendant Służby Ochrony Państwa w stosunku do funkcjonariuszy Służby Ochrony Państwa oraz członków ich rodzin;
-- **22)** kierownik jednostki organizacyjnej w stosunku do funkcjonariuszy Służby Celno-Skarbowej oraz członków ich rodzin.
-
-3. W przypadku funkcjonariusza zwolnionego ze służby przed ustaleniem uszczerbku na zdrowiu doznanego wskutek choroby oraz funkcjonariusza zaginionego decyzję, o której mowa w ust. 1, wydaje kierownik jednostki organizacyjnej, w której funkcjonariusz ostatnio pełnił służbę.
-
-**Art. 35.** Prawo do jednorazowego odszkodowania ustala się na podstawie:
-
-**Art. 36.** Prawo do odszkodowania za szkody poniesione wskutek utraty, zniszczenia lub uszkodzenia w związku z wypadkiem przedmiotów osobistego użytku i wysokość tego odszkodowania ustala się na podstawie:
-
-**Art. 37.**
-
-1. Decyzję w sprawie przyznania świadczeń odszkodowawczych wydaje się w terminie 30 dni od dnia wszczęcia postępowania.
-
-2. Jeżeli organ, o którym mowa w art. 34 ust. 2, uzna, że zachodzi szczególnie uzasadniony przypadek, może przedstawić również, odpowiednio Marszałkowi Sejmu, Prezesowi Rady Ministrów, ministrowi właściwemu do spraw finansów publicznych albo ministrowi właściwemu do spraw wewnętrznych, wniosek o podwyższenie odszkodowania albo o jego przyznanie w wysokości określonej w art. 14, wraz z dokumentami zebranymi w sprawie.
-
-3. Decyzje w sprawach, o których mowa w ust. 2, Marszałek Sejmu, Prezes Rady Ministrów, minister właściwy do spraw finansów publicznych albo minister właściwy do spraw wewnętrznych wydaje w terminie 30 dni od dnia otrzymania wniosku organu.
-
-4. Jeżeli w związku z wypadkiem, któremu uległ funkcjonariusz, jest prowadzone postępowanie karne lub postępowanie dyscyplinarne, a wynik tego postępowania może mieć wpływ na uprawnienia funkcjonariusza lub członków jego rodziny do jednorazowego odszkodowania, organ, o którym mowa w art. 34 ust. 2, może zawiesić wydanie decyzji lub przedstawienie wniosku, o którym mowa w ust. 2, do czasu zakończenia postępowania karnego lub postępowania dyscyplinarnego, o czym powiadamia się te osoby.
-
-**Art. 38.**
-
-1. Od decyzji, o której mowa w art. 37 ust. 1, przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych, na zasadach i w terminach określonych w przepisach ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550 i 1429).
-
-2. Odwołanie do sądu pracy i ubezpieczeń społecznych przysługuje także w razie niewydania decyzji w terminie 60 dni od dnia zgłoszenia wniosku o przyznanie świadczenia odszkodowawczego bądź powstania obowiązku wszczęcia postępowania z urzędu. Odwołanie można wnieść w każdym czasie po upływie tego terminu.
-
-3. Od decyzji, o której mowa w art. 37 ust. 3, przysługuje skarga do sądu administracyjnego.
-
-**Art. 39.** Świadczenia odszkodowawcze, w tym przyznane na podstawie art. 14, wypłaca jednostka organizacyjna, na której zaopatrzeniu finansowym funkcjonariusz pozostaje, albo w przypadku funkcjonariusza zwolnionego albo zmarłego, albo zaginionego jednostka, na której zaopatrzeniu pozostawał przed dniem zwolnienia albo śmierci, albo zaginięcia, w terminie 14 dni od dnia wydania decyzji.
-
-#### Rozdział 7 Zmiany w przepisach obowiązujących
-
-#### Rozdział 8 Przepisy przejściowe i końcowe
-
-**Art. 48.**
-
-1. Do postępowań w sprawie przyznania świadczeń odszkodowawczych wszczętych a niezakończonych decyzją ostateczną przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
-
-2. W przypadku pogorszenia się stanu zdrowia funkcjonariusza, które jest następstwem wypadku lub choroby, z których tytułu wypłacono jednorazowe odszkodowanie na podstawie przepisów dotychczasowych, zwiększenie tego odszkodowania ustala się na zasadach określonych w art. 11.
-
-**Art. 49.**
-
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 60b ustawy, o której mowa w art. 44 , zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 60b ustawy, o której mowa w art. 44 , w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-2. Przepisy wykonawcze wydane na podstawie art. 2 ust. 2, art. 3 i art. 11 ust. 3 ustawy, o której mowa w art. 50, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 28 ust. 2 i art. 32 ust. 2 niniejszej ustawy, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 50.** Traci moc ustawa z dnia 16 grudnia 1972 r. o odszkodowaniach przysługujących w razie wypadków i chorób pozostających w związku ze służbą w Policji (Dz. U. poz. 345, z późn. zm. ).
-
-**Art. 51.** Ustawa wchodzi w życie pierwszego dnia drugiego miesiąca następującego po miesiącu ogłoszenia .
 

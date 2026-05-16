@@ -8,9 +8,10 @@ pos: 77
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 77 lutego zmianie ustawy ubezpieczenia razie choroby oraz zmianie ustawy Kodeks pracy 261 78 lutego ochronie gruntów rolnych 264 79 lutego zmianie ustawy denominacji 272 77
+# Ustawa z dnia 3 lutego 1995 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz o zmianie ustawy – Kodeks pracy
 
 | Pole | Wartość |
 |---|---|
@@ -24,114 +25,137 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950160077) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/77/text.pdf) |
 
-USTAWA lutego r.
-zmianie ustawy ubezpieczenia razie choroby oraz zmianie ustawy Kodeks pracy.
+**Art. 1.** W ustawie z dnia 17 grudnia 1974 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 1983 r. Nr 30, poz. 143, z 1985 r. Nr 4, poz. 15, z 1986 r. Nr 42, poz. 202, z 1989 r. Nr 4, poz. 21 i Nr 35, poz. 192 oraz z 1991 r. Nr 104, poz. 450, Nr 106, poz. 457 i Nr 110, poz. 474) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie 17 grudnia 1974 r. czeniach ubezpieczenia razie choroby (Dz. U. 1983 r. 30, poz. 143, 1985 r. 4, poz. 15, 1986 r. 42, poz. 202, 1989 r. 4, poz. 21 35, poz. 192 oraz 1991 r. 104, poz. 450, 106, poz. 457 11 O, poz. 474) wprowadza zmiany:
+**Art. 10.** Jeżeli po upływie okresu zasiłkowego pracownik jest nadal niezdolny do pracy z powodu choroby, a dalsze leczenie lub rehabilitacja rokują odzyskanie zdolności do pracy, wypłata zasiłku chorobowego ulega przedłużeniu – nie dłużej jednak niż na okres dalszych trzech miesięcy.
 
 **Art. 11.**
 
-1. chorobowy, niem ust. 2, wynosi 80% wynagrodzenia wymiaru
+1. Miesięczny zasiłek chorobowy, z zastrzeżeniem ust. 2, wynosi 80% wynagrodzenia stanowiącego podstawę wymiaru zasiłku.
 
-2. chorobowy wynosi jed wynagrodzenia wymiaru niezdol pracy:
+2. Miesięczny zasiłek chorobowy wynosi jednakże 100% wynagrodzenia stanowiącego podstawę wymiaru zasiłku, jeżeli niezdolność do pracy:
 
-- **1)** wskutek wypadku przy pracy, wypadku drodze pracy lub pracy albo wskutek choroby zawodowej,
+- **1)** powstała wskutek wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo wskutek choroby zawodowej,
+- **2)** przypada w czasie ciąży,
+- **3)** trwa nieprzerwanie ponad dziewięćdziesiąt dni – począwszy od dziewięćdziesiątego pierwszego dnia niezdolności.
 
-3. chorobowy za pracy, nie dni wolnych od pracy.
+3. Zasiłek chorobowy wypłaca się za każdy dzień niezdolności do pracy, nie wyłączając dni wolnych od pracy.
 
 **Art. 12.**
 
-1. wymiaru chorobowego stanowi wynagro dzenie pracownikowi za okres 6 kalendarzowych cych którym niezdol pracy. wymiaru chorobowego za jeden pracy stanowi jedna trzydziesta tego wynagrodzenia.
+1. Podstawę wymiaru zasiłku chorobowego stanowi przeciętne miesięczne wynagrodzenie wypłacone pracownikowi za okres 6 miesięcy kalendarzowych poprzedzających miesiąc, w którym powstała niezdolność do pracy. Podstawę wymiaru zasiłku chorobowego za jeden dzień niezdolności do pracy stanowi jedna trzydziesta część tego wynagrodzenia.
 
-2. wymiaru chorobowego stanowi wynagro dzenie pracownikowi za okres 12 kalendarzowych cych którym niezdol pracy, gdy wynagrodzenie ulega znacznemu wahaniu ze chara kter pracy lub zasady wynagradzania.
+2. Podstawę wymiaru zasiłku chorobowego stanowi przeciętne miesięczne wynagrodzenie wypłacone pracownikowi za okres 12 miesięcy kalendarzowych poprzedzających miesiąc, w którym powstała niezdolność do pracy, gdy wynagrodzenie ulega znacznemu wahaniu ze względu na charakter pracy lub zasady wynagradzania.
 
-3. prawo chorobowego przed okresów, których mowa ust. 2, podstawa wymiaru chorobowego nie 250% wy nagrodzenia. ustala nie od trzeciego ka lendarzowego za okres cy, podstawie wynagro dzenia poprzedniego nego dla celów emerytalnych.
+3. Jeżeli prawo do zasiłku chorobowego powstało przed upływem okresów, o których mowa w ust. 1 i 2, podstawa wymiaru zasiłku chorobowego nie może być wyższa niż 250% przeciętnego miesięcznego wynagrodzenia. Kwotę tę ustala się miesięcznie poczynając od trzeciego miesiąca kalendarzowego kwartału za okres 3 miesięcy, na podstawie przeciętnego wynagrodzenia z poprzedniego kwartału, ogłaszanego dla celów emerytalnych.
 
-4. Przy ustalaniu podstawy wymiaru wa wymiaru chorobowego ulega procent wzros tu wyna grodzenia III kwartale stosunku I roku kalen darzowego, chorobowego II kwartale kalendarzowym danego roku, podsta wa wymiaru chorobowego ulega procent wzros tu wyna grodzenia IV kwartale stosunku II roku kalen darzowego,
+4. Przy ustalaniu podstawy wymiaru zasiłku chorobowego uwzględnia się składniki wynagrodzenia z tytułu wykonywania pracy w ramach stosunku pracy, od których ustalono składkę na ubezpieczenie społeczne. ” ;
 
-- **3)** chorobowego III kwartale kalendarzowym danego roku, podsta wa wymiaru chorobowego ulega procent wzros tu wyna grodzenia I kwartale tego roku kalendarzowego stosunku III roku kalendarzo wego,
-- **4)** chorobowego IV kwartale kalendarzowym danego roku, podsta wa wymiaru chorobowego ulega procent wzros tu wyna grodzenia II kwartale tego roku kalendarzowego stosunku IV roku kalendarzo wego.
+- **4)** po art. 12 dodaje się art. 12a w brzmieniu: „
 
-2. Prezes Monitorze Polskim, terminie ostatniego ka lendarzowego, waloryzacji ku chorobowego nym kwartale.";
+1. Jeżeli po upływie 6-miesięcznego okresu zasiłkowego wypłata zasiłku została przedłużona, podstawa wymiaru zasiłku chorobowego, ustalona w myśl art. 12, podlega waloryzacji według następujących zasad:
 
-- **5)** art. 13 otrzymuje brzmienie: "Art. 13. Minister Pracy Polityki Socjalnej drodze
-- **1)** przypadki, których ze chara kter pracy lub zasady wynagradzania za wymiaru chorobowego przyjmuje wynagrodzenie okresu wy mienionego wart. 12 ust. 2, pracy lub pracy albo wskutek choroby zawodowej tego wynagrodzenia, ust. 2.
+- **1)** jeżeli przedłużenie wypłaty zasiłku chorobowego nastąpiło w I kwartale kalendarzowym danego roku, podstawa wymiaru zasiłku chorobowego ulega podwyższeniu o procent wzrostu przeciętnego miesięcznego wynagrodzenia w III kwartale w stosunku do I kwartału ubiegłego roku kalendarzowego,
+- **2)** jeżeli przedłużenie wypłaty zasiłku chorobowego nastąpiło w II kwartale kalendarzowym danego roku, podstawa wymiaru zasiłku chorobowego ulega podwyższeniu o procent wzrostu przeciętnego miesięcznego wynagrodzenia w IV kwartale w stosunku do II kwartału ubiegłego roku kalendarzowego,
+- **3)** jeżeli przedłużenie wypłaty zasiłku chorobowego nastąpiło w III kwartale kalendarzowym danego roku, podstawa wymiaru zasiłku chorobowego ulega podwyższeniu o procent wzrostu przeciętnego miesięcznego wynagrodzenia w I kwartale tego roku kalendarzowego w stosunku do III kwartału ubiegłego roku kalendarzowego,
+- **4)** jeżeli przedłużenie wypłaty zasiłku chorobowego nastąpiło w IV kwartale kalendarzowym danego roku, podstawa wymiaru zasiłku chorobowego ulega podwyższeniu o procent wzrostu przeciętnego miesięcznego wynagrodzenia w II kwartale tego roku kalendarzowego w stosunku do IV kwartału ubiegłego roku kalendarzowego.
 
-2. rehabilitacyjne przyznane 6 niezdol pracy, podstawa wymiaru ku chorobowego, od której ustala rehabilitacyjnego, podlega waloryzacji. Przepisy art. 12a stosuje odpowiednio.";
+2. Prezes Zakładu Ubezpieczeń Społecznych ogłasza w Monitorze Polskim, w terminie do ostatniego dnia każdego kwartału kalendarzowego, wskaźnik waloryzacji zasiłku chorobowego obowiązujący w następnym kwartale. ” ;
 
-- **9)** art. 24 otrzymuje brzmienie: "Art. 24. Przepisy art. 11 ust. 3, art. 14, 18 stosuje odpowiednio rehabilita cyjnego.";
-- **10)** wart. 27:
-    - **a)** ust. 2 otrzymuje brzmienie: ,,2. Przy ustalaniu wyrównaw czego stosuje odpowiednio przepisy art. 12 art. 14 ust. 2.",
-    - **b)** dodaje ust. brzmieniu: ,,3. Minister Pracy Polityki Socjalnej dro dze
+- **5)** art. 13 otrzymuje brzmienie: „
 
-- **1)** przypadki, których ze charak ter pracy lub zasady wynagradzania przyj muje za wymiaru wyna grodzenie okresu wymienionego wart. 12 ust. 2, zasady ustalania podstawy wy miaru obliczania wyrównawcze go.";
-- **11)** wart. 30 ust. 1:
-    - **a)** pkt 2 otrzymuje brzmienie: ,,2) urodzenia dziecka lub dziecka wy chowanie wnioskiem spra wie jego przysposobienia, okresie korzystania urlopu wychowawczego lub okresie przer wy zatrudnieniu okresowi urlopu wychowawczego,";
-    - **b)** pkt lit. a) wyrazach "z powodu" dodaje wyrazy lub";
+**Art. 13.** Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia:
 
-- **12)** art. 31 otrzymuje brzmienie: "Art. 31. 1. porodowy wysoko 15% wy nagrodzenia. ustala go",
-    - **b)** ust. otrzymuje brzmienie: ,,3. Pracownicy, czasie powodu lub likwidacji pracy której nie zapew niono innego zatrudnienia, porodu kiego.";
+**Art. 21.**
 
-- **14)** wart. 34:
-    - **a)** ust. 3,
-    - **b)** ust. 5 otrzymuje brzmienie: ,,5. Do stosuje odpo wiednio przepisy art. 12 14.",
-    - **c)** dodaje ust. 6 brzmieniu: ,,6. Minister Pracy Polityki Socjalnej dro dze
+1. Świadczenie rehabilitacyjne wynosi 75% wynagrodzenia, które stanowi podstawę wymiaru zasiłku chorobowego, a jeżeli niezdolność do pracy powstała wskutek wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo wskutek choroby zawodowej – 100% tego wynagrodzenia, z zastrzeżeniem ust. 2.
 
-- **1)** przypadki, których ze charak ter pracy lub zasady wynagradzania za pod wymiaru przyjmuje wynagrodzenie okresu wy mienionego wart. 12 ust. 2, zasady ustalania podstawy wy miaru obliczania
-- **15)** art. 36;
-- **16)** art. 39 otrzymuje brzmienie: "Art. 39. 1. wynosi 80% wynagrodzenia.
+2. Jeżeli świadczenie rehabilitacyjne zostało przyznane po upływie 6 miesięcy niezdolności do pracy, podstawa wymiaru zasiłku chorobowego, od której ustala się wysokość świadczenia rehabilitacyjnego, podlega waloryzacji. Przepisy art. 12a stosuje się odpowiednio. ” ;
 
-2. Do stosuje od powiednio przepisy art. 11 ust. oraz art. 12 14.
+- **9)** art. 24 otrzymuje brzmienie: „
 
-3. Minister Pracy Polityki Socjalnej drodze
+**Art. 24.** Przepisy art. 11 ust. 3, art. 14, 16 i 18 stosuje się odpowiednio do świadczenia rehabilitacyjnego. ” ;
 
-- **1)** przypadki, których ze charakter pracy lub zasady wynagra dzania za wymiaru przyjmuje wynagro dzenie okresu wymienionego art. 12 ust. 2, zasady ustalania podsta wy wymiaru obliczania
-- **17)** wart. 40 ust. 2;
-- **18)** art. 43 otrzymuje brzmienie: "Art. 43. pogrzebowy 200% wynagro
-- **22)** art. 47;
-- **23)** wart. 50 ust. wyrazy zdrowia" wyrazami lekarskie";
-- **24)** art. 59.
+**Art. 31.**
 
-**Art. 2.** W ustawie 26 czerwca 1974 Kodeks pracy wprowadza zmiany:
+1. Zasiłek porodowy wypłaca się w wysokości 15% przeciętnego miesięcznego wynagrodzenia. Kwotę tę ustala się miesięcznie poczynając od trzeciego miesiąca kalendarzowego kwartału za okres 3 miesięcy, na podstawie przeciętnego wynagrodzenia z poprzedniego kwartału, ogłaszanego dla celów emerytalnych.
 
-**Art. 3.** Zakład pracy jest wy danym pracownikowi pracy liczbie dni pracy roku kalendarzowym, którym stosunku pracy, za które wy pracownikowi wynagrodzenie wart. 92 Kodeksu pracy.
+2. W razie urodzenia więcej niż jednego dziecka przy jednym porodzie, zasiłek porodowy przysługuje na każde urodzone dziecko. ” ;
 
-**Art. 4.** Ilekroć przepisy prawa pracy stosunku pracy pracow nikiem niezdolnym pracy wskutek choroby lub odosob nienia ze od okresu pobierania przez niego zasilku chorobowego, okres ten okresem pobierania przez pracowtacyjnego.
+- **13)** w art. 33: w ust. 1 w pkt 1 wyrazy „z urlopu bezpłatnego udzielonego dla sprawowania opieki nad małymi dziećmi” zastępuje się wyrazami „z urlopu wychowawczego lub w okresie przerwy w zatrudnieniu odpowiadającej okresowi urlopu wychowawczego”, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Pracownicy, z którą rozwiązano umowę o pracę w czasie ciąży z powodu ogłoszenia upadłości lub likwidacji zakładu pracy i której nie zapewniono innego zatrudnienia, przysługuje do dnia porodu zasiłek w wysokości zasiłku macierzyńskiego. ” ;
+
+- **14)** w art. 34: skreśla się ust. 3, ust. 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+5. Do zasiłku macierzyńskiego stosuje się odpowiednio przepisy art. 12 i 14. ” , dodaje się ust. 6 w brzmieniu: „
+
+- **c)**
+
+6. Minister Pracy i Polityki Socjalnej określi w drodze rozporządzenia:
+
+- **1)** przypadki, w których ze względu na charakter pracy lub zasady wynagradzania za podstawę wymiaru zasiłku macierzyńskiego przyjmuje się wynagrodzenie z okresu wymienionego w art. 12 ust. 2,
+- **2)** szczegółowe zasady ustalania podstawy wymiaru i obliczania zasiłku. ” ;
+- **15)** skreśla się art. 36;
+- **16)** art. 39 otrzymuje brzmienie: „
+
+**Art. 39.**
+
+1. Miesięczny zasiłek opiekuńczy wynosi 80% wynagrodzenia.
+
+2. Do zasiłku opiekuńczego stosuje się odpowiednio przepisy art. 11 ust. 3 oraz art. 12 i 14.
+
+3. Minister Pracy i Polityki Socjalnej określi w drodze rozporządzenia:
+
+- **1)** przypadki, w których ze względu na charakter pracy lub zasady wynagradzania za podstawę wymiaru zasiłku opiekuńczego przyjmuje się wynagrodzenie z okresu wymienionego w art. 12 ust. 2,
+- **2)** szczegółowe zasady ustalania podstawy wymiaru i obliczania zasiłku. ” ;
+- **17)** w art. 40 skreśla się ust. 2;
+- **18)** art. 43 otrzymuje brzmienie: „
+
+**Art. 43.** Zasiłek pogrzebowy przysługuje w wysokości 200% przeciętnego miesięcznego wynagrodzenia. Przepis art. 31 ust. 1 zdanie drugie stosuje się odpowiednio. ” ;
+
+**Art. 45.** W razie pokrycia kosztów pogrzebu przez Państwo lub zakład pracy, małżonkowi, dzieciom, wnukom lub rodzeństwu albo innej osobie, która do chwili śmierci zmarłego pozostawała z nim we wspólnym gospodarstwie domowym, przysługuje również zasiłek pogrzebowy. ” ;
+
+**Art. 2.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy wprowadza się następujące zmiany:
+
+**Art. 92.**
+
+§ 1. Za czas niezdolności pracownika do pracy wskutek:
+
+- **1)** choroby lub odosobnienia w związku z chorobą zakaźną – trwającej łącznie do 35 dni w ciągu roku kalendarzowego – pracownik zachowuje prawo do 80% wynagrodzenia, chyba że w danym zakładzie pracy wprowadzono wyższe wynagrodzenie z tego tytułu,
+- **2)** wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo choroby zawodowej lub choroby przypadającej w czasie ciąży – w okresie wskazanym w pkt 1 – pracownik zachowuje prawo do 100% wynagrodzenia.
+
+§ 2. Wynagrodzenie, o którym mowa w § 1, oblicza się według zasad obowiązujących przy ustalaniu podstawy wymiaru zasiłku chorobowego i wypłaca za każdy dzień niezdolności do pracy, nie wyłączając dni wolnych od pracy.
+
+§ 3. Wynagrodzenie, o którym mowa w § 1:
+
+- **1)** nie ulega obniżeniu w przypadku ograniczenia podstawy wymiaru zasiłku chorobowego,
+- **2)** nie przysługuje w przypadkach, w których pracownik nie ma prawa do zasiłku chorobowego.
+
+§ 4. Za czas niezdolności do pracy, o której mowa w § 1, trwającej łącznie dłużej niż 35 dni w ciągu roku kalendarzowego, pracownikowi przysługuje zasiłek chorobowy na zasadach określonych w odrębnych przepisach. ” ;
+
+- **3)** w art. 94 po pkt 9 dodaje się pkt 9a w brzmieniu: „
+- **9a)** prowadzić dokumentację w sprawach związanych ze stosunkiem pracy oraz akta osobowe pracowników. ”
+
+**Art. 3.** Zakład pracy jest obowiązany zamieścić w wydanym pracownikowi świadectwie pracy informację o liczbie dni niezdolności do pracy w roku kalendarzowym, w którym nastąpiło rozwiązanie stosunku pracy, za które zostało wypłacone pracownikowi wynagrodzenie określone w art. 92 Kodeksu pracy.
+
+**Art. 4.** Ilekroć obowiązujące przepisy prawa pracy uzależniają możliwość rozwiązania stosunku pracy z pracownikiem niezdolnym do pracy wskutek choroby lub odosobnienia ze względu na chorobę zakaźną od upływu okresu pobierania przez niego zasiłku chorobowego, okres ten należy rozumieć łącznie z okresem pobierania przez pracownika wynagrodzenia, o którym mowa w art. 92 Kodeksu pracy.
+
+**Art. 5.**
+
+1. Zasiłek chorobowy, do którego prawo powstało przed dniem wejścia w życie ustawy, wypłaca się w wysokości i na zasadach określonych w przepisach dotychczasowych, za cały okres nieprzerwanej niezdolności do pracy z powodu choroby.
+
+2. Przepis ust. 1 stosuje się do zasiłku macierzyńskiego, opiekuńczego i wyrównawczego oraz świadczenia rehabilitacyjnego.
 
 **Art. 6.**
 
-1. W okresie od marca r. 31 grudnia r. pracy 5 pracowników pracownicy nie prawa wyna grodzenia, którym mowa wart. 92 Kodeksu pracy. Za okres pracy powodu choroby lub odosobnienia im choro bowy.
+1. W okresie od dnia 1 marca 1995 r. do dnia 31 grudnia 1995 r. w zakładach pracy zatrudniających do 5 pracowników pracownicy nie zachowują prawa do wynagrodzenia, o którym mowa w art. 92 Kodeksu pracy. Za okres niezdolności do pracy z powodu choroby lub odosobnienia w związku z chorobą zakaźną przysługuje im zasiłek chorobowy.
 
-2. pracowników zatrudnionych pracy, których mowa ust. 1, ustala kalendarzowym, którym pracy.
+2. Liczbę pracowników zatrudnionych w zakładach pracy, o których mowa w ust. 1, ustala się w miesiącu kalendarzowym, w którym powstała niezdolność do pracy.
 
-**Art. 7.** Ustawa wchodzi dniem marca r. Prezydent Rzeczypospolitej Polskiej: L. 78 USTAWA lutego r. ochronie gruntów rolnych Przepisy ogólne
-
-**Art. 1.** Ustawa reguluje zasady ochrony gruntów rol nych oraz rekultywacji poprawiania gruntów.
-
-**Art. 2.**
-
-1. Gruntami rolnymi, rozumieniu ustawy, grunty:
-
-- **1)** ewidencji gruntów jako rolne, pod stawami rybnymi innymi zbiornikami wodnymi, dla potrzeb rolnictwa,
-- **3)** pod gospodarstw rolnych budyn kami mieszkalnymi oraz innymi budynkami mi produkcji rolniczej oraz prze twórstwu
-- **4)** pod budynkami produkcji rolniczej uznanej za specjalny, stoso wnie przepisów podatku dochodowym od osób fizycznych podatku dochodowym od osób prawnych,
-- **5)** parków wiejskich oraz pod zadrzewieniami zakrzewie
-- **7)** pod melioracji wodnych, przeciwpowo dziowych zaopatrzenia rolnictwa kanalizacji oraz utylizacji odpadów dla potrzeb rolnictwa,
-- **8)** zrekultywowane dla potrzeb rolnictwa,
-- **9)** torfowisk oczek wodnych,
-- **10)** pod drogami dojazdowymi gruntów rolnych.
-
-2. Gruntami rozumieniu ustawy, grunty:
-
-- **1)** jako lasy przepisach lasach, zrekultywowane dla potrzeb gospodarki
-- **3)** pod drogami dojazdowymi gruntów
-
-3. Nie za grunty rolne gruntów pod parkami ogrodami wpisanymi rejestru zabytków.
-
-**Art. 3.**
-
-1. Ochrona gruntów rolnych polega na:
-
-- **1)** ograniczaniu przeznaczania ich cele nierolnicze lub
-
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 marca 1995 r.
 

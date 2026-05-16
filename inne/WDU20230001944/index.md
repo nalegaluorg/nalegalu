@@ -8,9 +8,10 @@ pos: 1944
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 września 2023 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 2 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,32 +25,30 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001944) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1944/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 sierpnia 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2020 r. poz. 2211), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 lipca 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 57 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią: „Art. 57. Do postępowań w sprawie nadania uprawnień przewodnika górskiego, o której mowa w art. 28 ust. 1 ustawy zmienianej w art. 12, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 81. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 45 pkt 1, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2021 r.;
-2) art. 46, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.;
-3) art. 47 i art. 79 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-4) art. 8 pkt 2, art. 21, art. 22 pkt 1−9, art. 28 i art. 38 pkt 6, pkt 9 lit. b i pkt 10, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-5) art. 5, który wchodzi w życie z dniem 1 stycznia 2023 r.;
-6) art. 22 pkt 10–12 oraz art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 29 sierpnia 1997 r.
-o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych
-Art. 46–48. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych Rozdział 1 – Przepisy ogólne Rozdział 2 Rozdział 2a Rozdział 3 Rozdział 4 – Przewodnicy turystyczni i piloci wycieczek Rozdział 5 – Usługi hotelarskie Rozdział 5a Rozdział 6 – Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2020 r. poz. 2211), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 lipca 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 57 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią:
+„
+(uchylony)
+(uchylony)
+(uchylony)
+(uchylony)
+Art. 46–48.
+(pominięte)
+
+**Art. 57.** Do postępowań w sprawie nadania uprawnień przewodnika górskiego, o której mowa w art. 28 ust. 1 ustawy zmienianej w art. 12, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. ” „
+
+**Art. 81.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa określa warunki świadczenia usług hotelarskich oraz usług pilotów wycieczek i przewodników turystycznych na terytorium Rzeczypospolitej Polskiej, a także za granicą, jeżeli umowy z turystami o świadczenie tych usług są zawierane na terytorium Rzeczypospolitej Polskiej.
+**Art. 1.** Ustawa określa warunki świadczenia usług hotelarskich oraz usług pilotów wycieczek i przewodników turystycznych na terytorium Rzeczypospolitej Polskiej, a także za granicą, jeżeli umowy z turystami o świadczenie tych usług są zawierane na terytorium Rzeczypospolitej Polskiej. (uchylony)
 
-**Art. 1a.** (uchylony)
-
-**Art. 2.** (uchylony)
-
-**Art. 2a.** Zadania marszałka województwa, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej.
-
-**Art. 2b.** Minister właściwy do spraw turystyki jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 24 ust. 1, art. 28 ust. 1, art. 39a ust. 3 oraz art. 42 ust. 1.
+**Art. 2.** (uchylony) Zadania marszałka województwa, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej. Minister właściwy do spraw turystyki jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 24 ust. 1, art. 28 ust. 1, art. 39a ust. 3 oraz art. 42 ust. 1.
 
 **Art. 3.**
 
@@ -61,24 +60,25 @@ Art. 46–48. (pominięte)
 - **4)** (uchylony)
 - **5)** (uchylony)
 - **6)** (uchylony)
-- **7)** (uchylony) 7a) przewodnik turystyczny osobę zawodowo oprowadzającą turystów lub odwiedzających po wybranych obszarach, miejscowościach i obiektach, udzielającą o nich fachowej informacji oraz sprawującą nad turystami lub odwiedzającymi opiekę w zakresie wynikającym z umowy;
-- **7b)** pilot wycieczek osobę towarzyszącą, w imieniu organizatora turystyki, uczestnikom imprezy turystycznej, sprawującą opiekę nad nimi i czuwającą nad sposobem wykonania na ich rzecz usług oraz przekazującą podstawowe informacje, dotyczące odwiedzanego kraju i miejsca;
-- **8)** usługi hotelarskie krótkotrwałe, ogólnie dostępne wynajmowanie domów, mieszkań, pokoi, miejsc noclegowych, a także miejsc na ustawienie namiotów lub przyczep samochodowych oraz świadczenie, w obrębie obiektu, usług z tym związanych;
-- **9)** turysta osobę, która podróżuje do innej miejscowości poza swoim stałym miejscem pobytu na okres nieprzekraczający 12 miesięcy, dla której celem podróży nie jest podjęcie stałej pracy w odwiedzanej miejscowości i która korzysta z noclegu przynajmniej przez jedną noc;
-- **10)** odwiedzający osobę, która podróżuje do innej miejscowości poza swoim stałym miejscem pobytu, dla której celem podróży nie jest podjęcie stałej pracy w odwiedzanej miejscowości oraz niekorzystającą z noclegu;
-- **11)** klient osobę, która zamierza zawrzeć lub zawarła umowę o świadczenie usług turystycznych na swoją rzecz lub na rzecz innej osoby, a zawarcie tej umowy nie stanowi przedmiotu jej działalności gospodarczej, jak i osobę, na rzecz której umowa została zawarta, a także osobę, której przekazano prawo do korzystania z usług turystycznych objętych uprzednio zawartą umową;
+- **7)** (uchylony)
+- **7a)** przewodnik turystyczny – osobę zawodowo oprowadzającą turystów lub odwiedzających po wybranych obszarach, miejscowościach i obiektach, udzielającą o nich fachowej informacji oraz sprawującą nad turystami lub odwiedzającymi opiekę w zakresie wynikającym z umowy;
+- **7b)** pilot wycieczek – osobę towarzyszącą, w imieniu organizatora turystyki, uczestnikom imprezy turystycznej, sprawującą opiekę nad nimi i czuwającą nad sposobem wykonania na ich rzecz usług oraz przekazującą podstawowe informacje, dotyczące odwiedzanego kraju i miejsca;
+- **8)** usługi hotelarskie – krótkotrwałe, ogólnie dostępne wynajmowanie domów, mieszkań, pokoi, miejsc noclegowych, a także miejsc na ustawienie namiotów lub przyczep samochodowych oraz świadczenie, w obrębie obiektu, usług z tym związanych;
+- **9)** turysta – osobę, która podróżuje do innej miejscowości poza swoim stałym miejscem pobytu na okres nieprzekraczający 12 miesięcy, dla której celem podróży nie jest podjęcie stałej pracy w odwiedzanej miejscowości i która korzysta z noclegu przynajmniej przez jedną noc;
+- **10)** odwiedzający – osobę, która podróżuje do innej miejscowości poza swoim stałym miejscem pobytu, dla której celem podróży nie jest podjęcie stałej pracy w odwiedzanej miejscowości oraz niekorzystającą z noclegu;
+- **11)** klient – osobę, która zamierza zawrzeć lub zawarła umowę o świadczenie usług turystycznych na swoją rzecz lub na rzecz innej osoby, a zawarcie tej umowy nie stanowi przedmiotu jej działalności gospodarczej, jak i osobę, na rzecz której umowa została zawarta, a także osobę, której przekazano prawo do korzystania z usług turystycznych objętych uprzednio zawartą umową;
 - **12)** (uchylony)
 - **13)** (uchylony)
-- **14)** przedsiębiorca przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414) i przedsiębiorcę zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470).
+- **14)** przedsiębiorca – przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414) i przedsiębiorcę zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470).
 - **15)** (uchylony)
 
 2. Ilekroć w ustawie jest mowa o usłudze turystycznej, imprezie turystycznej oraz organizatorze turystyki, należy przez to rozumieć usługę turystyczną, imprezę turystyczną lub organizatora turystyki, o których mowa odpowiednio w art. 4 pkt 1, 2 i 8 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2022 r. poz. 511 i 2185 oraz z 2023 r. poz. 1394).
 
-#### Rozdział 2 (uchylony)
+#### Rozdział 2
 
-#### Rozdział 2a (uchylony)
+#### Rozdział 2a
 
-#### Rozdział 3 (uchylony)
+#### Rozdział 3
 
 #### Rozdział 4 Przewodnicy turystyczni i piloci wycieczek
 
@@ -129,14 +129,6 @@ Art. 46–48. (pominięte)
 
 **Art. 22.** Przewodnikiem miejskim lub terenowym lub pilotem wycieczek może być osoba, która:
 
-**Art. 22a.**
-
-1. (uchylony)
-
-2. Osoby posiadające uprawnienia przewodnika górskiego dopuszcza się do egzaminu umożliwiającego uzyskanie uprawnień obejmujących dodatkowy obszar bez konieczności odbycia szkolenia teoretycznego i praktycznego.
-
-3. (uchylony)
-
 **Art. 23.**
 
 1. (uchylony)
@@ -149,15 +141,15 @@ Art. 46–48. (pominięte)
 
 1a. Wpisu do rejestru organizatorów szkoleń marszałek województwa dokonuje na wniosek organizatora szkolenia.
 
-1b. Wniosek o wpis do rejestru organizatorów szkoleń składa się do marszałka województwa właściwego ze względu na miejsce zamieszkania osoby fizycznej albo siedzibę jednostki organizacyjnej wnioskującej o wpis do rejestru organizatorów szkoleń, a w przypadku osoby fizycznej posiadającej miejsce zamieszkania i jednostki organizacyjnej posiadającej siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej do marszałka województwa wybranego przez wnioskodawcę.
+1b. Wniosek o wpis do rejestru organizatorów szkoleń składa się do marszałka województwa właściwego ze względu na miejsce zamieszkania osoby fizycznej albo siedzibę jednostki organizacyjnej wnioskującej o wpis do rejestru organizatorów szkoleń, a w przypadku osoby fizycznej posiadającej miejsce zamieszkania i jednostki organizacyjnej posiadającej siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej – do marszałka województwa wybranego przez wnioskodawcę.
 
 2. Wpis do rejestru organizatorów szkoleń może dotyczyć zgłoszenia przeprowadzenia jednego szkolenia lub szkolenia na stałe.
 
 3. Osoby fizyczne i jednostki organizacyjne organizujące szkolenia dla kandydatów na przewodników górskich są obowiązane:
 
-- **1)** zapewnić kadrę:
-    - **a)** wykładowców posiadających wykształcenie wyższe do prowadzenia zajęć teoretycznych,
-    - **b)** instruktorów posiadających udokumentowaną praktykę w zakresie wykonywania zadań przewodnika górskiego dla określonego obszaru górskiego w wymiarze co najmniej 50 dni w okresie 5 lat poprzedzających dzień złożenia wniosku o wpis do rejestru organizatorów szkoleń do prowadzenia zajęć praktycznych;
+- **1)** zapewnić kadrę: wykładowców posiadających wykształcenie wyższe – do prowadzenia zajęć teoretycznych, instruktorów posiadających udokumentowaną praktykę w zakresie wykonywania zadań przewodnika górskiego dla określonego obszaru górskiego w wymiarze co najmniej 50 dni w okresie 5 lat poprzedzających dzień złożenia wniosku o wpis do rejestru organizatorów szkoleń – do prowadzenia zajęć praktycznych;
+    - **a)**
+    - **b)**
 
 - **2)** zapewnić warunki umożliwiające realizację zajęć, w tym także praktycznych, oraz odpowiednią obsługę biurową wraz z przechowywaniem i udostępnianiem dokumentacji szkolenia;
 - **3)** realizować program szkolenia dla kandydatów na przewodników górskich, określony w przepisach wydanych na podstawie art. 34 ust. 1 pkt 4;
@@ -167,21 +159,21 @@ Art. 46–48. (pominięte)
 
 5. Wniosek o wpis do rejestru organizatorów szkoleń zawiera następujące dane:
 
-- **1)** nazwę wnioskodawcy, jego siedzibę i adres, a w wypadku gdy wnioskodawca jest przedsiębiorcą będącym osobą fizyczną imię i nazwisko oraz adres miejsca zamieszkania;
+- **1)** nazwę wnioskodawcy, jego siedzibę i adres, a w wypadku gdy wnioskodawca jest przedsiębiorcą będącym osobą fizyczną – imię i nazwisko oraz adres miejsca zamieszkania;
 - **2)** wskazanie, czy działalność szkoleniowa będzie prowadzona w ramach działalności gospodarczej;
-- **3)** określenie zakresu szkolenia, które wnioskodawca zamierza prowadzić, w tym wskazanie:
-    - **a)** czy szkolenie ma mieć charakter podstawowy czy uzupełniający,
-    - **b)** obszaru górskiego, którego ma dotyczyć szkolenie przewodników górskich;
+- **3)** określenie zakresu szkolenia, które wnioskodawca zamierza prowadzić, w tym wskazanie: czy szkolenie ma mieć charakter podstawowy czy uzupełniający, obszaru górskiego, którego ma dotyczyć szkolenie przewodników górskich;
+    - **a)**
+    - **b)**
 
 - **4)** wskazanie, czy wpis do rejestru organizatorów szkoleń ma dotyczyć zorganizowania jednego szkolenia, czy organizowania szkoleń na stałe;
 - **5)** wskazanie kierownika szkolenia lub innej osoby upoważnionej do występowania wobec marszałka województwa w sprawach związanych ze szkoleniem;
 - **6)** informację o dotychczasowych szkoleniach prowadzonych przez wnioskodawcę, jeżeli wnioskodawca prowadził uprzednio szkolenia;
 - **7)** opis warunków szkolenia, w tym wskazanie miejsca odbywania wykładów i zajęć praktycznych, a także określenie miejsca przechowywania dokumentacji szkolenia i archiwum wydanych dokumentów.
 
-6. Do wniosku wnioskodawca dołącza oświadczenie następującej treści: „Oświadczam, że:
+6. Do wniosku wnioskodawca dołącza oświadczenie następującej treści: „ Oświadczam, że:
 
 - **1)** dane zawarte we wniosku o wpis do rejestru organizatorów szkoleń są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności w zakresie organizowania szkoleń dla kandydatów na przewodników górskich, określone w ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych .”.
+- **2)** znane mi są i spełniam warunki wykonywania działalności w zakresie organizowania szkoleń dla kandydatów na przewodników górskich, określone w ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych. ” .
 
 7. Oświadczenie, o którym mowa w ust. 6, zawiera:
 
@@ -199,8 +191,6 @@ Art. 46–48. (pominięte)
 12. Rejestr jest prowadzony w systemie teleinformatycznym.
 
 13. Na podstawie informacji o dokonanych wpisach do rejestru organizatorów szkoleń przekazywanych w postaci elektronicznej przez marszałków województw, na stronie internetowej ministra właściwego do spraw turystyki zamieszcza się Centralny Wykaz Organizatorów Szkoleń dla Kandydatów na Przewodników Górskich.
-
-**Art. 24a.**
 
 1. Marszałek województwa jest upoważniony do kontroli organizatorów szkoleń dla kandydatów na przewodników górskich w zakresie:
 
@@ -238,9 +228,7 @@ Art. 46–48. (pominięte)
 
 12. Organizator szkoleń prowadzący szkolenie dla kandydatów na przewodników górskich bez wymaganego wpisu do rejestru organizatorów szkoleń nie może zostać wpisany do rejestru organizatorów szkoleń przed upływem 3 lat od dnia wydania decyzji o stwierdzeniu prowadzenia szkolenia dla kandydatów na przewodników górskich bez wymaganego wpisu do rejestru organizatorów szkoleń.
 
-13. Marszałek województwa, nie rzadziej niż raz na 3 lata, dokonuje z urzędu kontroli organizatora szkoleń dla kandydatów na przewodników górskich, którego wpis do rejestru organizatorów szkoleń dotyczy organizowania szkoleń na stałe.
-
-**Art. 24b.** (uchylony)
+13. Marszałek województwa, nie rzadziej niż raz na 3 lata, dokonuje z urzędu kontroli organizatora szkoleń dla kandydatów na przewodników górskich, którego wpis do rejestru organizatorów szkoleń dotyczy organizowania szkoleń na stałe. (uchylony)
 
 **Art. 25.**
 
@@ -279,13 +267,13 @@ Art. 46–48. (pominięte)
 
 **Art. 28.**
 
-1. Uprawnienia przewodnika górskiego nadaje, odmawia nadania, zawiesza i przywraca oraz cofa, w drodze decyzji administracyjnej, marszałek województwa właściwy dla miejsca zamieszkania osoby składającej wniosek o nadanie uprawnień w dniu złożenia tego wniosku, a w przypadku nieposiadania miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej marszałek województwa wybrany przez osoby ubiegające się o te uprawnienia.
+1. Uprawnienia przewodnika górskiego nadaje, odmawia nadania, zawiesza i przywraca oraz cofa, w drodze decyzji administracyjnej, marszałek województwa właściwy dla miejsca zamieszkania osoby składającej wniosek o nadanie uprawnień w dniu złożenia tego wniosku, a w przypadku nieposiadania miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – marszałek województwa wybrany przez osoby ubiegające się o te uprawnienia.
 
-1a. Do postępowania w sprawie nadania uprawnień przewodnika górskiego, o której mowa w ust. 1, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+1a. Do postępowania w sprawie nadania uprawnień przewodnika górskiego, o której mowa w ust. 1, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
-1b. Do postępowania w sprawie nadania uprawnień przewodnika górskiego, o której mowa w ust. 1, nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1b. Do postępowania w sprawie nadania uprawnień przewodnika górskiego, o której mowa w ust. 1, nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-2. Uprawnienia przewodnika górskiego osobom, które nabyły kwalifikacje do wykonywania zawodu przewodnika górskiego w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym, a którym zostały uznane kwalifikacje do wykonywania zawodu przewodnika górskiego na terytorium Rzeczypospolitej Polskiej, nadaje, zawiesza, przywraca oraz cofa marszałek województwa właściwy dla miejsca zamieszkania w dniu złożenia wniosku o nadanie uprawnień, a w przypadku nieposiadania miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej marszałek województwa wybrany przez osobę ubiegającą się o te uprawnienia. Podstawę do nadania uprawnień stanowi decyzja ministra właściwego do spraw turystyki o uznaniu kwalifikacji do wykonywania zawodu przewodnika górskiego na terytorium Rzeczypospolitej Polskiej, wydana na podstawie ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
+2. Uprawnienia przewodnika górskiego osobom, które nabyły kwalifikacje do wykonywania zawodu przewodnika górskiego w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, a którym zostały uznane kwalifikacje do wykonywania zawodu przewodnika górskiego na terytorium Rzeczypospolitej Polskiej, nadaje, zawiesza, przywraca oraz cofa marszałek województwa właściwy dla miejsca zamieszkania w dniu złożenia wniosku o nadanie uprawnień, a w przypadku nieposiadania miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – marszałek województwa wybrany przez osobę ubiegającą się o te uprawnienia. Podstawę do nadania uprawnień stanowi decyzja ministra właściwego do spraw turystyki o uznaniu kwalifikacji do wykonywania zawodu przewodnika górskiego na terytorium Rzeczypospolitej Polskiej, wydana na podstawie ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
 
 3. Ewidencję uprawnień przewodników górskich nadanych na podstawie niniejszej ustawy prowadzą marszałkowie województw, o których mowa w ust. 1 i 2.
 
@@ -299,8 +287,8 @@ Art. 46–48. (pominięte)
 
 1. Osoby wykonujące zadania przewodnika turystycznego i pilota wycieczek podlegają kontroli. Kontrola obejmuje:
 
-- **1)** w przypadku przewodników górskich posiadanie uprawnień przewodnika górskiego, wymaganych dla określonego obszaru górskiego oraz poprawność wykonywania zadań przewodnika górskiego;
-- **2)** w przypadku przewodników miejskich i terenowych oraz pilotów wycieczek spełnienie wymogów, o których mowa w art. 22.
+- **1)** w przypadku przewodników górskich – posiadanie uprawnień przewodnika górskiego, wymaganych dla określonego obszaru górskiego oraz poprawność wykonywania zadań przewodnika górskiego;
+- **2)** w przypadku przewodników miejskich i terenowych oraz pilotów wycieczek – spełnienie wymogów, o których mowa w art. 22.
 
 2. (uchylony)
 
@@ -342,9 +330,7 @@ Art. 46–48. (pominięte)
 
 1. Przewodnicy turystyczni mogą oprowadzać obsługiwane wycieczki po muzeach, wystawach i zabytkach, jeżeli zadania tego nie wykonuje osoba upoważniona przez muzeum, organizatora wystawy albo właściciela lub posiadacza zabytku.
 
-2. Oprowadzanie wycieczek, o których mowa w ust. 1, odbywa się w sposób określony przez dyrektora muzeum, organizatora wystawy albo właściciela lub posiadacza zabytku w regulaminie dla zwiedzających.
-
-**Art. 33a.** (uchylony)
+2. Oprowadzanie wycieczek, o których mowa w ust. 1, odbywa się w sposób określony przez dyrektora muzeum, organizatora wystawy albo właściciela lub posiadacza zabytku w regulaminie dla zwiedzających. (uchylony)
 
 **Art. 34.**
 
@@ -361,11 +347,7 @@ Art. 46–48. (pominięte)
 
 2. (uchylony)
 
-3. (uchylony)
-
-**Art. 34a.**
-
-- **4)** Minister właściwy do spraw turystyki określi wzór wniosku o nadanie uprawnień przewodnika górskiego w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123 i 1234).
+3. (uchylony) Minister właściwy do spraw turystyki określi wzór wniosku o nadanie uprawnień przewodnika górskiego w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123 i 1234).
 
 #### Rozdział 5 Usługi hotelarskie
 
@@ -401,7 +383,7 @@ Art. 46–48. (pominięte)
 - **1)** osoby posiadające kwalifikacje zawodowe i praktykę w świadczeniu usług hotelarskich lub turystycznych, wskazane przez jednostki samorządu gospodarczego i stowarzyszenia działające w zakresie turystyki i hotelarstwa;
 - **2)** osoby będące przedstawicielami Państwowej Straży Pożarnej, Państwowej Inspekcji Sanitarnej, administracji architektoniczno-budowlanej i nadzoru budowlanego.
 
-4b. Członkom zespołów oceniających, o których mowa w ust. 4a pkt 1, przysługuje wynagrodzenie za przeprowadzanie oceny spełniania przez obiekt hotelarski wymagań niezbędnych do zaszeregowania go do odpowiedniego rodzaju i kategorii, a członkom zespołu wykonującym czynności poza miejscem zamieszkania także zwrot kosztów podróży na zasadach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
+4b. Członkom zespołów oceniających, o których mowa w ust. 4a pkt 1, przysługuje wynagrodzenie za przeprowadzanie oceny spełniania przez obiekt hotelarski wymagań niezbędnych do zaszeregowania go do odpowiedniego rodzaju i kategorii, a członkom zespołu wykonującym czynności poza miejscem zamieszkania – także zwrot kosztów podróży na zasadach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
 
 4c. Minister właściwy do spraw turystyki określi, w drodze rozporządzenia, wysokość wynagrodzenia członków zespołów oceniających obiekty hotelarskie, o których mowa w ust. 4a pkt 1, oraz sposób i termin wypłaty tego wynagrodzenia, uwzględniając, że wynagrodzenie dla jednej osoby za ocenę jednego obiektu nie może być wyższe niż 10% minimalnego wynagrodzenia za pracę ustalonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę.
 
@@ -421,8 +403,6 @@ Art. 46–48. (pominięte)
 
 6. Minister właściwy do spraw turystyki określi wzór zgłoszenia, o którym mowa w ust. 3, oraz informacji, o której mowa w ust. 4 i 5, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-**Art. 39a.**
-
 1. Przedsiębiorca, który zamierza rozpocząć świadczenie usług hotelarskich w obiekcie hotelarskim, może ubiegać się o przyrzeczenie zaszeregowania obiektu hotelarskiego do odpowiedniego rodzaju i kategorii, zwane dalej „promesą”.
 
 2. Promesę wydaje, na wniosek przedsiębiorcy, marszałek województwa właściwy ze względu na miejsce położenia obiektu hotelarskiego.
@@ -431,7 +411,7 @@ Art. 46–48. (pominięte)
 
 4. Wniosek, o którym mowa w ust. 2, powinien zawierać w szczególności:
 
-- **1)** oznaczenie przedsiębiorcy wraz z podaniem jego siedziby i adresu, a w wypadku gdy przedsiębiorcą jest osoba fizyczna miejsca zamieszkania i adresu;
+- **1)** oznaczenie przedsiębiorcy wraz z podaniem jego siedziby i adresu, a w wypadku gdy przedsiębiorcą jest osoba fizyczna – miejsca zamieszkania i adresu;
 - **2)** nazwę obiektu, jeżeli usługi będą świadczone z użyciem nazwy własnej obiektu;
 - **3)** określenie położenia obiektu, wraz z podaniem jego adresu;
 - **4)** wskazanie rodzaju obiektu hotelarskiego i kategorii, o które ubiega się przedsiębiorca.
@@ -460,7 +440,7 @@ Art. 46–48. (pominięte)
 
 6. W razie stwierdzenia, że obiekt hotelarski nie spełnia wymagań przewidzianych dla rodzaju i kategorii, do których został zaszeregowany, minister właściwy do spraw turystyki występuje do właściwego organu o dokonanie zmiany rodzaju lub kategorii obiektu.
 
-7. Do kontroli działalności gospodarczej, o której mowa w ust. 3–6, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+7. Do kontroli działalności gospodarczej, o której mowa w ust. 3–6, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 41.**
 
@@ -501,15 +481,13 @@ Art. 46–48. (pominięte)
 
 4. Wykaz wymagań dla obiektów hotelarskich, odpowiadający rodzajowi i kategorii obiektu, a także pełny cennik usług powinny być udostępnione na żądanie klienta.
 
-**Art. 44a.**
-
 1. Za dokonanie oceny spełniania przez obiekt hotelarski wymagań niezbędnych do zaszeregowania obiektu do określonego rodzaju i kategorii pobiera się opłaty.
 
 2. Minister właściwy do spraw turystyki określa, w drodze rozporządzenia, wysokość opłat związanych z dokonywaniem ocen określonych w ust. 1 oraz tryb pobierania tych opłat.
 
 **Art. 45.** Minister właściwy do spraw turystyki, w drodze rozporządzenia, określa:
 
-#### Rozdział 5a (uchylony)
+#### Rozdział 5a
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 
@@ -533,11 +511,7 @@ Art. 46–48. (pominięte)
 
 2. Jeżeli do dnia wejścia w życie ustawy obiekt hotelarski nie został zaszeregowany do określonego rodzaju i kategorii lub dotychczasowy rodzaj i kategoria obiektu nie odpowiada wymaganiom ustalonym w ustawie, przedsiębiorca świadczący usługi hotelarskie w tym obiekcie jest obowiązany wystąpić, w terminie 6 miesięcy od dnia wejścia w życie aktów wykonawczych do ustawy, o których mowa w art. 45, do właściwego organu o zaszeregowanie obiektu według nowych przepisów.
 
-**Art. 51.** (pominięty)
-
-**Art. 51a.** (uchylony)
-
-**Art. 51b.** (uchylony)
+**Art. 51.** (pominięty) (uchylony) (uchylony)
 
 **Art. 52.** Ustawa wchodzi w życie z dniem 1 lipca 1998 r.
 

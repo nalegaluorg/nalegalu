@@ -8,9 +8,10 @@ pos: 1287
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# ustawy zmienianej w art. 2 art. 121 ustawy zmie1) w art. 62 uchyla się ust. 3; nianej w art. 3, w brzmieniu nadanym niniejszą usta2) w art. 80 uchyla się ust. 1. wą, nie dłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
+# Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy – Prawo o notariacie oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,111 +25,73 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071811287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1287/text.pdf) |
 
-**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 286a ust. 5 ustawy zmienianej Art. 6. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA dnia 24 sierpnia 2007 zmianie ustawy Prawo notariacie niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2002 r. Nr 42, poz. 369, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 14 lutego 1991 Prawo notariacie (Dz. U. 2002 42, 369, póên. zm. ) wprowadza się następujące zmiany:
+#### Rozdział 3a Akty poświadczenia dziedziczenia
 
-**Art. 95a.** Notariusz sporządza akt poświadczenia dziedziczenia ustawowego lub testamentowego, wyłączeniem dziedziczenia na podstawie testamentów szczególnych. osób, które mogą wchodzić w rachubę jako spadkobiercy ustawowi testamentowi.
+**Art. 95a.** Notariusz sporządza akt poświadczenia dziedziczenia ustawowego lub testamentowego, z wyłączeniem dziedziczenia na podstawie testamentów szczególnych. Przed sporządzeniem aktu poświadczenia dziedziczenia notariusz spisuje protokół dziedziczenia przy udziale wszystkich osób, które mogą wchodzić w rachubę jako spadkobiercy ustawowi i testamentowi.
 
-**Art. 95c.**
+**Art. 951.** Jeżeli w akcie poświadczenia dziedziczenia nie wskazano spadkobierców dziedziczących gospodarstwo rolne, notariusz sporządzi w tym przedmiocie akt uzupełniający, stosując odpowiednio przepisy niniejszego rozdziału. Oryginały aktów poświadczenia dziedziczenia nie mogą być wydawane poza miejsce ich przechowywania.
 
-§ 1. Przystępując spisania protokołu dziedziczenia notariusz poucza osoby biorące udział w spisywaniu protokołu obowiązku ujawnienia wszelkich okoliczności objętych treścią protokołu odpowiedzialności karnej za złożenie fałszywych oświadczeń.
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) wprowadza się następujące zmiany:
 
-§ 2. W protokole dziedziczenia zamieszcza się w szczególności:
+**Art. 1025.**
 
-- **1)** zgodne żądanie poświadczenia dziedziczenia złożone przez osoby biorące udział w spisywaniu proArt. 95b. Przed sporządzeniem aktu poświadczenia dziedziczenia notariusz spisuje protokół dziedziczenia przy udziale wszystkich tokołu,
-- **2)** oświadczenia istnieniu lub nieistnieniu osób, które wyłączałyby znanych spadkobierców od dziedziczenia lub dziedziczyłyby wraz nimi,
-- **3)** oświadczenia znanych testamentach spadkodawcy lub braku takich testamentów,
-- **4)** oświadczenia, że wodniesieniu nie zostało uprzednio wy——————— ——————— wołanych ustawy odpowiada warunkom przewidzianym dziedziczenia gospodarstwa rolnego,
-- **6)** oświadczenia, czy spadkodawca w chwili śmierci był cudzoziemcem lub, nie posiadając żadnego obywatelstwa, nie zamieszkiwał w Rzeczypospolitej Polskiej albo w skład wchodzą prawa rzeczowe lub posiadanie nieruchomości położonej za granicą,
-- **7)** oświadczenia, czy były składane oświadczenia przyjęciu lub odrzuceniu spadku, czy zostało wydane orzeczenie dotyczące niegodności dziedziczenia czy były zawierane umowy przyszłym spadkodawcą w przedmiocie zrzeczenia się dziedziczenia po nim,
-- **8)** wzmiankę opouczeniu przez notariusza odpowiedzialności karnej za składanie fałszywych oświadczeń.
+§ 1. Sąd na wniosek osoby mającej w tym interes stwierdza nabycie spadku przez spadkobiercę. Notariusz na zasadach określonych w przepisach odrębnych sporządza akt poświadczenia dziedziczenia.
 
-§ 3. Jeżeli od dnia otwarcia nie upłynęło sześć miesięcy, wprotokole dziedziczenia należy zamieścić oświadczenia spadkobierców prostym przyjęciu lub przyjęciu dobrodziejstwem inwentarza albo odrzuceniu spadku, chyba że oświadczenia tej treści zostały już przez spadkobierców uprzednio złożone. W takim przypadku należy zamieścić wzmiankę dacie, miejscu treści złożonych przez poszczególnych spadkobierców oświadczeń.
+§ 2. Domniemywa się, że osoba, która uzyskała stwierdzenie nabycia spadku albo poświadczenie dziedziczenia, jest spadkobiercą.
 
-§ 4. Do protokołu dziedziczenia notariusz załącza:
+§ 3. Przeciwko domniemaniu wynikającemu ze stwierdzenia nabycia spadku nie można powoływać się na domniemanie wynikające z zarejestrowanego aktu poświadczenia dziedziczenia.
 
-- **1)** odpis aktu zgonu spadkodawcy,
-- **2)** odpisy aktów stanu cywilnego osób powołanych ustawy,
-- **3)** inne dokumenty mogące mieć wpływ na ustalenie praw spadku.
+**Art. 1026.** Stwierdzenie nabycia spadku oraz poświadczenie dziedziczenia nie może nastąpić przed upływem sześciu miesięcy od otwarcia spadku, chyba że wszyscy znani spadkobiercy złożyli już oświadczenia o przyjęciu lub o odrzuceniu spadku.
 
-**Art. 95d.** W razie złożenia testamentu notariusz dokonuje jego otwarcia ogłoszenia, wysokości udziałów w spadku.
+**Art. 1027.** Względem osoby trzeciej, która nie rości sobie praw do spadku z tytułu dziedziczenia, spadkobierca może udowodnić swoje prawa wynikające z dziedziczenia tylko stwierdzeniem nabycia spadku albo zarejestrowanym aktem poświadczenia dziedziczenia.
 
-**Art. 95f.**
+**Art. 1028.** Jeżeli ten, kto uzyskał stwierdzenie nabycia spadku albo poświadczenie dziedziczenia, lecz spadkobiercą nie jest, rozporządza prawem należącym do spadku na rzecz osoby trzeciej, osoba, na której rzecz rozporządzenie następuje, nabywa prawo lub zostaje zwolniona od obowiązku, chyba że działa w złej wierze. ” ;
 
-§ 1. Akt poświadczenia dziedziczenia powinien zawierać:
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) wprowadza się następujące zmiany:
 
-- **1)** dzień, miesiąc rok miejsce sporządzenia aktu,
-- **2)** imię, nazwisko isiedzibę kancelarii notariusza, a jeżeli akt sporządził zastępca notariusza nadto imię nazwisko zastępcy,
-- **3)** imię nazwisko spadkodawcy, imiona jego rodziców jego numer PESEL,
-- **4)** datę imiejsce zgonu spadkodawcy jego ostatnie miejsce zamieszkania, wskazaniem w razie dziedziczenia ustawowego, czy spadkobierca był małżonkiem spadkodawcy, czy jego krewnym w jakim stopniu, awrazie dziedziczenia testamentowego wraz zokreśleniem formy testamentu,
-- **7)** wskazanie spadkobierców dziedziczących gospodarstwo rolne podlegające dziedziczeniu ustawy ich udziały w nim,
-- **8)** powołanie protokołu otwarcia iogłoszenia testamentu,
-- **9)** podpisy wszystkich biorących udział w spisywaniu protokołu dziedziczenia,
-- **10)** podpis notariusza,
-- **11)** adnotację dokonaniu rejestracji zgodnie art. 95i.
+**Art. 652.** O dokonanym otwarciu i ogłoszeniu testamentu sąd spadku albo notariusz zawiadamia w miarę możności osoby, których rozrządzenia testamentowe dotyczą, oraz wykonawcę testamentu i kuratora spadku. Notariusz niezwłocznie zawiadamia o tym sąd spadku, przesyłając odpis sporządzonego protokołu. ” ;
 
-§ 2. Przepisy art. 92 § 2 iart. 93—94 stosuje się odpowiednio.
+**Art. 653.** Testament wraz z protokołem otwarcia i ogłoszenia przechowuje się w sądzie spadku, chyba że został złożony u notariusza. Jednakże na żądanie sądu spadku notariusz przesyła złożony testament temu sądowi. ” ;
 
-**Art. 95g.** Na protokole dziedziczenia zamieszcza się adnotację sporządzeniu aktu poświadczenia dziedziczenia.
+**Art. 665.**
 
-**Art. 95h.**
+§ 1. Sąd spadku albo notariusz wyda osobie powołanej na wykonawcę testamentu na jej wniosek zaświadczenie, w którym wymieni imię, nazwisko, miejsce ostatniego zamieszkania oraz datę i miejsce śmierci spadkodawcy, imię, nazwisko i miejsce zamieszkania wykonawcy testamentu, jak również zamieści stwierdzenie, że dana osoba została powołana na wykonawcę testamentu.
 
-§ 1. Notariusz niezwłocznie po sporządzeniu aktu poświadczenia dziedziczenia dokonuje jego wpisu rejestru aktów poświadczenia dziedziczenia przez wprowadzenie, za pośrednictwem systemu teleinformatycznego danych, których mowa w § 2 pkt 3—6. Notariusz opatruje wpis bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu.
+§ 2. Notariusz niezwłocznie zawiadamia sąd spadku o wydanym zaświadczeniu, przesyłając jego odpis. ” ;
 
-§ 2. Rejestr aktów poświadczenia dziedziczenia obejmuje:
+- **7)** po art. 669 dodaje się art. 6691 w brzmieniu: „
 
-- **1)** numer wynikający kolejności wpisu,
-- **2)** dzień, miesiąc rok godzinę minutę dokonania wpisu,
-- **3)** dzień, miesiąc rok miejsce sporządzenia aktu poświadczenia dziedziczenia, numer PESEL,
-- **6)** datę miejsce zgonu spadkodawcy jego ostatnie miejsce zamieszkania.
+**Art. 6691.**
 
-§ 3. Z chwilą dokonania wpisu w rejestrze notariusz otrzymuje, za pośrednictwem systemu teleinformatycznego, zawiadomienie zarejestrowaniu możliwości uzyskania potwierdzenia zarejestrowania aktu poświadczenia dziedziczenia ze wskazaniem numeru wynikającego kolejności wpisu. W tym samym trybie notariusz uzyskuje zawiadomienie niezarejestrowaniu aktu poświadczenia dziedziczenia.
+§ 1. Sąd spadku uchyla zarejestrowany akt poświadczenia dziedziczenia, jeżeli w odniesieniu do tego samego spadku zostało wydane postanowienie o stwierdzeniu nabycia spadku.
 
-§ 4. Adnotację ozarejestrowaniu umieszcza się na akcie poświadczenia dziedziczenia, wskazując numer wynikający zkolejności wpisu atakże dzień, miesiąc rok godzinę minutę dokonanego wpisu.
+§ 2. W przypadku zarejestrowania dwóch lub więcej aktów poświadczenia dziedziczenia w odniesieniu do tego samego spadku, sąd spadku na wniosek zainteresowanego uchyla wszystkie akty poświadczenia dziedziczenia i wydaje postanowienie o stwierdzeniu nabycia spadku.
 
-§ 5. Zarejestrowanie nie następuje, jeżeli wstosunku danego został już uprzednio zarejestrowany akt poświadczenia dziedziczenia.
+§ 3. Poza okolicznościami wskazanymi w § 1 i 2, uchylenie zarejestrowanego aktu poświadczenia dziedziczenia jest dopuszczalne jedynie w przypadkach wskazanych w ustawie.
 
-**Art. 95i.**
+§ 4. W przypadku uchylenia zarejestrowanego aktu poświadczenia dziedziczenia, sąd zawiadamia o tym notariusza, który uchylony akt sporządził, oraz Krajową Radę Notarialną, przesyłając odpisy wydanego orzeczenia. ” ;
 
-§ 1. Krajowa Rada Notarialna utworzy system informatyczny prowadzenia rejestru aktów poświadczenia dziedziczenia zapewnia notariuszom dostęp tego systemu wcelu dokonywania wpisów, dostęp danych rejestru ochronę tych danych przed nieuprawnionym dostępem. Podpis, elektroniczny weryfikowany przy pomocy ważnego kwalifikowanego certyfikatu, zapewnia notariuszowi dostęp rejestru.
+- **8)** art. 670 otrzymuje brzmienie: „
 
-§ 2. Krajowa Rada Notarialna udostępnia wsieciach informatycznych, awszczególności na swojej stronie internetowej, informacje zarejestrowanych aktach poświadczenia dziedziczenia obejmujące dane, których mowa wart. 95h § 2.
+**Art. 670.** Sąd spadku bada z urzędu, kto jest spadkobiercą. W szczególności bada, czy spadkobierca pozostawił testament, oraz wzywa do złożenia testamentu osobę, co do której będzie uprawdopodobnione, że testament u niej się znajduje. Jeżeli testament zostanie złożony, sąd dokona jego otwarcia i ogłoszenia. ” ;
 
-**Art. 95j.** Zarejestrowany akt poświadczenia dziedziczenia ma skutki prawomocnego postanowienia ostwierdzeniu nabycia spadku. nia dziedziczenia.
+**Art. 677.** Sąd stwierdzi nabycie spadku przez spadkobierców, choćby były nimi inne osoby niż te, które wskazali uczestnicy. W postanowieniu o stwierdzeniu nabycia spadku sąd wymienia spadkodawcę oraz wszystkich spadkobierców, którym spadek przypadł, jak również wysokość ich udziałów. ” ;
 
-**Art. 95l.** Jeżeli w akcie poświadczenia dziedziczenia nie wskazano spadkobierców dziedziczących gospodarstwo rolne, notariusz sporządzi w tym przedmiocie akt uzupełniający, stosując odpowiednio przepisy niniejszego rozdziału.
+**Art. 678.** Jeżeli stwierdzone zostało nabycie spadku albo zarejestrowany został akt poświadczenia dziedziczenia po osobie uznanej za zmarłą lub której zgon został stwierdzony postanowieniem sądu, a postanowienie o uznaniu tej osoby za zmarłą lub o stwierdzeniu jej zgonu zostało uchylone, sąd spadku z urzędu uchyli postanowienie o stwierdzeniu nabycia spadku albo akt poświadczenia dziedziczenia. ” ;
 
-**Art. 95m.** Oryginały aktów poświadczenia dziedziczenia nie mogą być wydawane poza miejsce ich przechowywania.
+**Art. 681.** Jeżeli stwierdzenie nabycia spadku jeszcze nie nastąpiło i nie został sporządzony zarejestrowany akt poświadczenia dziedziczenia, postanowienie o stwierdzeniu nabycia spadku wydaje sąd w toku postępowania działowego, stosując przepisy rozdziału 8. ” ;
 
-**Art. 95n.**
+**Art. 4.** W ustawie z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U. z 2002 r. Nr 215, poz. 1823, z 2004 r. Nr 173, poz. 1808 oraz z 2007 r. Nr 180, poz. 1280) w art. 19 po ust. 4 dodaje się ust. 4a w brzmieniu: „ 4a. Konsul nie może sporządzić aktu poświadczenia dziedziczenia. ” .
 
-§ 1. Do zarejestrowanych aktów poświadczenia dziedziczenia stosuje się odpowiednio przepisy rozdziału 9.
-
-§ 2. Notariusz na żądanie sądu, prokuratora, izby skarbowej urzędu skarbowego przesyła wypis zarejestrowaprzez nie oświadczeń, a także na żądanie strony stawającej niestawiennictwa strony drugiej.”.
-
-**Art. 2.** W ustawie dnia 23 kwietnia 1964 Kodeks cywilny (Dz. U. 16, 93, póên. zm. nego aktu poświadczenia dziedziczenia.
-
-**Art. 95o.** Przepisów art. 95c § 2 pkt 5, art. 95f § 1 pkt 7 iart. 95l nie stosuje się spadków otwartych po dniu 13 lutego 2001
-
-**Art. 95p.** Ilekroć w przepisach odrębnych jest mowa postanowieniu stwierdzeniu nabycia spadku, należy rozumieć przez to również zarejestrowany akt poświadczenia dziedziczenia. Jeżeli ustawa wyznacza początek lub koniec biegu terminu na dzień uprawomocnienia się postanowienia sądu stwierdzeniu nabycia spadku, należy rozumieć przez to również dzień zarejestrowania aktu poświadczenia dziedziczenia.”;
-
-**Art. 1026.** Stwierdzenie nabycia poświadczenie dziedziczenia nie może nastąpić przed upływem sześciu miesięcy od otwarcia spadku, chyba że wszyscy znani spadkobiercy złożyli już oświadczenia przyjęciu lub odrzuceniu spadku.
-
-**Art. 1027.** Względem osoby trzeciej, która nie rości sobie praw tytułu dziedziczenia, spadkobierca może udowodnić swoje prawa wynikające dziedziczenia ——————— nia dziedziczenia.
-
-**Art. 1028.** Jeżeli ten, kto uzyskał stwierdzenie nabycia albo poświadczenie dziedziczenia, lecz spadkobiercą nie jest, rozporządza prawem należącym na rzecz osoby trzeciej, osoba, na której rzecz rozporządzenie następuje, nabywa prawo lub zostaje zwolniona od obowiązku, chyba że działa w złej wierze.”;
-
-**Art. 3.** Wustawie zdnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 43, 296, póên. zm. ) wprowadza się następujące zmiany:
-
-**Art. 4.** W ustawie dnia 13 lutego 1984 funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U. 2002 215, 1823, 2004 173, poz.1808 2007 180, 1280) wart. 19 po ust. 4 dodaje się ust. 4a w brzmieniu: Ń4a. Konsul nie może sporządzić aktu poświadczenia dziedziczenia.”.
-
-**Art. 5.** Wustawie zdnia 29 września 1986 Prawo aktach stanu cywilnego (Dz. U. 2004 161, 1688 2007 21, 125) w art. 67 w ust.1 pkt 1 otrzymuje brzmienie: Ń1) nazwisko, imię (imiona), nazwisko rodowe, stan cywilny, miejsce idatę urodzenia, PESEL, miejsce zamieszkania zmarłego.”.
+**Art. 5.** W ustawie z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. Nr 161, poz. 1688 oraz z 2007 r. Nr 21, poz. 125) w art. 67 w ust. 1 pkt 1 otrzymuje brzmienie: „
 
 **Art. 6.**
 
-1. Przepisów niniejszej ustawy nie stosuje się spadków otwartych przed dniem 1 lipca 1984
+1. Przepisów niniejszej ustawy nie stosuje się do spadków otwartych przed dniem 1 lipca 1984 r.
 
-2. Do otwartego przed dniem 14 lutego 2001 r., przepisy, których mowa w art. 3 pkt 8 9 niniejszej ustawy, stosuje się w brzmieniu dotychczaso-
+2. Do spadku otwartego przed dniem 14 lutego 2001 r., przepisy, o których mowa w art. 3 pkt 8 i 9 niniejszej ustawy, stosuje się w brzmieniu dotychczasowym.
 
+**Art. 7.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
 

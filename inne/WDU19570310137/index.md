@@ -8,9 +8,10 @@ pos: 137
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# nia jednolity tekst dekretu .dnia sierpnia Sekretarz Rady 136
+# Ilekroć ustawie jest mowa nieruchomościach bez bliższego określenia, należy to rozumieć położone Ziemiach Odzyskanych lub terenie b. W. M. Gdańska, a nie stanowiące części składowej gospodarstwa rolnego rozumieniu przepisów podatku gruntowym:
 
 | Pole | Wartość |
 |---|---|
@@ -24,46 +25,32 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19570310137) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1957/137/text.pdf) |
 
-USTAWA dnia 29 maja 1951 r.
-zmianie dekretu dnia 25 1948· r. reformie bankowej.
-L W dekrecie dnia 25 1948 r. re fonnie bankowej (Dz. U. 1951 Nr 36, poz. 279) wprowa -' -dza zmi.any:wart. :l otrz'lmuje brzmienie: (rolnicze wart. Wyrazy "igm:.inne po art. ,,:r' otrzymuje brzmienie: brzmi,enie:
-1. Rolnicze do finansowej
-1) indywidt1dlnie rolnikó\v, cz]onków rolniczych produkcyjnych, aJ gospodarki we wszelkich jej formach,
-4) rzcmiosta, .drobnE'j wsi,
-5) h:dnosciwiejskiej, zakresie ustalonym przez tvlinistra Finansów poro Ccntwlnym I\'liejskie we po\\'o.1<1ne do finansowej mieJslI iej zakresie przez Finansów poro zumieniu Centralnym \;V miJs.lach nie 2orqanizo\\ ,me miejskie spóldziein ie miejskiej za kresie rolnictwd, drobnej wykonywa(: rolnicze spóldzleinie
-4. n ie kredytów dyto\vego ramach pallstwowego planu krebankach; wskazanych przez Ministra Finan".
-sów. Banki te uprawnione do kontroli i,yczkoTNej w· zakresie udzielonych im kredytów .
-5. odsetek prowizji od operacji -czyn'i nych biernych wych Minister Finansów drodze ..
--wydanego porozumieniu Centralnym .5) art. 20 21
-6) art. 22 otrzymuje brzmienie: "Art. 22. Przepisy art. 13 1- 3 stosuje odpo'i wiednio do _7 ) art. 23 wyrazy "gminnych kas puje wyrazami kowych"; .
-po art. '24 dodaje art. brzmieniu: "Art. 24a. Przepisy art. 24 4, 5 stosuje odpo".
-wiednio do spóldzielhiacn _"; 9) rozdziale IV ,,3.PrzepiSiJi" d zielni ach kredytowych" oraz art. 35.
-2. Traci moc art. 5 dnia 20 grudnia zmianie usLclwy dnia 1920 r. o· niach oraz dnia 21 maja 1948 r. o, Centralnym ZWif!zku Spólclzi.e1czym centralach (Dz. U. Nr poz., U$tawa wchodzi dniem Rady Sekretarz Rudy Horodecld 137 dnia 29 maja 1957 ,.ureguJow.miu spraw niektórych uiel'Olniczych 'Ziemiaeh Odzyskanych terenach Gdailska.
-1. .!lstawie jest mowa nierllchomobez to po Ziemiach luh terenie b. W.M.
-Gclmiska, a nie ,sklad.owej qQSpOdaIstwu rolnego rozumieniu przepisów podatku gruntowym:
-1) elomy jPdnorodzinne oraz. dwurodzinne wraz waniami gospodarczymi, gruntami, któr-ychdomy do tych domów dwórzami, ogrodami sadami, r.
-osoby, polskiego, -Art. 4.
-domy osoby wych gospodarczych, przeplsow i.
-krór 'm i1.
-Raciy A.
-Sekretarz Rady 138
-USTAWA dnia 29 maja 1957 r.
-drzew krzewów owocowych.
-1. Na prowadzenie szkóYek drzew owocowych, krzewów owocowych oraz drzew owocowych, zwanych dalej , wymagane jest zezwolenie prezy dium wojewódzkiej rady narodowej (rady narodowej miasta woiewództwa).
-2. Nie jest wymagane zezwolenie prowadzenie szkó 'z 100 sztuk drzew owocowych 500 sztuk krzewów owocowych albo 308 szluk d rzew owocowych.
-Minister Rolnictwa drodze warunki, jakim powinny gospodarstwo, którym ma prowadzona z, normy ustalone 2, osoba pkt Minister Rolnictwa prezydia woje wódzkich rad narodowych (rad narodowych niiast nych województw) do przekazania prezydiom powialowych rad narodowych (rad naro dowych miast powiaty).
-1. Mat~riał szkółkarski, produkowany szkół kach, których prowadzenie wydane zezwolenie, podlega corocznie kwalifikacji w' celu stwierdzenia, czy od powiada on warunkom podstawie art. 3 pkt Orzeczenie kwalifikacji wydaje prezydium woje wódzkiej rady narodowej podslawie wniosku komisji kwalifikacyjnej.
-Od orzeczenia prezydium wojewódzkiej rady 'wej Minist·er Rolnictwa droo:z:e tryb komisji kwalifikacyjnych.
-zdyskwalifikowany ostatecz nym orzeczeniem podlega zniszczeniu. Sposób termin znisz czenia drodze Minister Rolnictwa.
-:Art. 4. 1. Zezwolenie prowadzenie warunki wart. l których prowadzenie zezwolenie, likwidacji. Spos'Ó'b tennin likwidacji okresli drodze Minister R1'llnictwtl.
-5. Do obrotu handlowego dopuszcza tylko alifikow an y.
-2: Minister Rolnictwa porozumieniu Ministrem Han dlu drodze zasady obrotu handlowego'
-6. Przepisy nie drzew krzewów owocowych prowadzonych nie dla celów sadow niczych.
-7. Kto prowadzi bez wymaganego zezwo lenia lu b wprowadz'a do obrotu handlowego k-arski nie zakwalifikowany albo narusza przepisy zasa dach obrotu handloweg'o wydane podstawie art. podlega karze pracy poprawczej do grzywny do Orzekanie trybie przepisów orzecznic twie karno-administracyjnym.
-'vV przypadku wydania orzeczenia ukaraniu ma podlega przepadkowi.
-Osoby fizyczne iL!b prawne, które dniu wej przekra.
-normy wart. je nadal pre zydium wojewódzkiej rady narodowej (rady narodowej mia sla województwa) wniosek udZielenie zezwo lenia prowadzenie tych Minister Rolnictwa termin, do którego ma wniosek. razie wniosku tym termi nie odmówienia przez prezydium wojewódzkiej rady rodowej (rady narodowej miasta wojewódz twa) udzielenia zezwolenia, likwidacji ,zgodnie przepisami art.
-Do produkowanego kach wymienionych stosuje odpowiednio prze pisy art. do czasu terminu przypadku wniosku udzielenie zezwole nia prowadzenie - do czasu wydania ostalecznej decyzji tej sprawie.
-Ustawa wchodzi zycie dniem ogloszenia.
-, Rady A. Zawadzki J. H(uwe-cM
+1) domy jednorodzinne dwurodzinne wraz zabudowaniami gospodarczymi, gruntami, których domy te zostały pobudowane, i należącymi tych domów podwórzami, ogrodami lub sadami,
+2) budynki przeznaczone pomieszczenie warsztatów rzemieślniczych, drobnych zakładów przemysłowych i drobnych pensjonatów miejscowościach uzdrowiskowych i letniskowych - wraz gruntami i terenami określonymi pkt 1; Minister Gospodarki Komunalnej porozumieniu właściwymi ministrami, a odniesieniu pensjonatów porozumieniu Centralną Radą Związków Zawodowych określi drodze rozporządzenia, które zakłady przemysłowe i pensjonaty należy uważać za drobne rozumieniu tego przepisu,
+3) działki budowlane tereny przeznaczone gospodarstwa ogrodnicze i warzywnicze położone granicach miast.
+2. Określenie domów jednorodzinnych domów podlegających przepisom domach jednorodzinnych zawierają przepisy ustawy dnia 28 maja 1957 r.
+wyłączeniu spod publicznej gospodarki lokalami domów jednorodzinnych lokali domach spółdzielni mieszkaniowych (Dz. U. Nr 31, poz. 131).
+3. Za członków rodziny uważa się małżonka, zstępnych, wstępnych i rodzeństwo.
+polityczną tych osób.
+Nieruchomości te zostaną obywatelom tym wniosek oddane posiadanie trybie przewidzianym niniejszej ustawie.
+3. Obywatelom polskim, będącym członkami rodziny osoby, która utraciła własność nieruchomości skutek nieuzyskania polskiego, może wniosek nadana własność tej nieruchomości.
+4. Obywatelom polskim, którym podstawie umów b. niemieckimi związkami samorządowymi, b. bankami niemieckimi lub państwem niemieckim wybudowane zostały domy jednorodzinne lub dwurodzinne, a którzy nie stali się właścicielami, nadaje się wniosek tych obywateli własność tych domów trybie określonym niniejszej ustawie.
+2. Własność domu jednorodzinnego lub dwurodzinnego wybudowanego warunkach określonych może nadana posiadającym obywatelstwo polskie członkom rodziny osób wymienionych 1, osoby te nie uzyskały
+3. Przepisy i 2 stosuje się odpowiednio członków b. niemieckich spółdzielni budowlano-mieszkaniowych, które wybudowały dla nich domy jednorodzinne lub dwurodzinne, członków rodzin tych osób.
+4. W przypadkach określonych 1-3 obciążenia hipoteczne nieruchomości rzecz b. niemieckich osób prawnych lub b. państwa niemieckiego uznaje się za wygasłe.
+5. Przepisy art. 2, 3 i 4 nie mają zastosowania nieruchomości, które zostały:
+1) przekazane trybie przepisów nabywaniu i przekazywaniu nieruchomości niezbędnych dla realizacji narodowych, planów gospodarczych, skutek poczynionych Państwo nakładów wzrosła więcej niż 50%, jedynie wówczas, osoba ubiegająca się nadanie własności nieruchomości zobowiąże się zwrotu wartości tych nakładów. Przepis art. 8 2 stosuje się odpowiednio.
+6. Osoby, którym nieruchomości przyczyn wymienionych art. 5 pkt i 2 2 nie mogą wydane, względnie nadane własność, otrzymują nieruchomości zamienne. Za zgodą osoby uprawnionej nieruchomości zamiennej może jej przyznana nieruchomość zamienna innego rodzaju niż nieruchomość, za którą ma ona otrzymać nieruchomość zamienną.
+2. Osoby, którym przyznane zostaną zamienne działki budowlane, mają prawo kredytu; kredyt ten przyznawany będzie trybie i zasadach określonych przepisach pomocy Państwa dla budownictwa mieszkaniowego ze środków własnych ludności.
+3. W razie niemożności przyznania nieruchomości zamiennej osobom, których mowa 1, powinno przyznane wynagrodzenie pieniężne.
+4. Zasady i tryb przyznawania nieruchomości zamiennych wynagrodzenia pieniężnego, którym mowa 3, określi rozporządzenie Rady Ministrów.
+5. Osobom, które ukończyły lat 60 albo są niezdolne pracy, którym służą uprawnienia przewidziane art. 2, 3 lub 4, może wniosek zamiast wydania lub nadania im własność nieruchomości przyznane wynagrodzenie pieniężne, którym mowa 3.
+7. Jeżeli oddanie nieruchomości posiadanie (art. 2) lub nadanie własności (art. 3 i 4) dotyczy nieruchomości, która przed dniem wejścia życie ustawy została wydzierżawiona lub oddana najem Państwo, wówczas umowa dzierżawy lub najmu może przedterminowo rozwiązana zasadach określonych prawie cywilnym.
+inwestycyjnych obciążają mocy prawa pierwszeństwem hipotecznym przed innymi długami nieruchomość, którą nakłady zostały poczynione.
+9. Minister Gospodarki Komunalnej porozumieniu Ministrem Finansów określi drodze rozporządzenia zasady i tryb ustalenia wartości nakładów poczynionych Państwo (art. 5 2 i art. 8 1) odliczenia od wynagrodzenia wymienionego art. 6 3.
+10. Osobom, które nie uzyskały stwierdzenia polskiego, a których nieruchomość przeszła własność Państwa jako mienie poniemieckie, może wniosek nadana własność tej nieruchomości, wnioskodawcy nieruchomości tej zamieszkują. Przepis niniejszego artykułu ma szczególności zastosowanie osób, które związku działalnością polityczną były władze niemieckie prześladowane.
+2. Przepis ma zastosowanie członków rodziny b. właściciela nieruchomości, zamieszkujących tych nieruchomościach, nie uzyskali oni stwierdzenia
+11. Decyzje przewidziane niniejszej ustawie należą właściwości starosty. Wydawanie tych decyzji jest zadaniem zakresu administracji rządowej.
+2. Wnioski oddanie nieruchomości posiadanie, nadanie własności, przyznanie nieruchomości zamiennej lub wynagrodzenia pieniężnego (art. 6 4) składa się ciągu 18 miesięcy od dnia wejścia życie ustawy prezydium rady narodowej. Wnioski wniesione po upływie tego terminu nie podlegają rozpoznaniu trybie niniejszej ustawy.
+12. Ustawa wchodzi życie dniem ogłoszenia.
 

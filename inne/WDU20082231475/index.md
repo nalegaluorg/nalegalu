@@ -8,9 +8,10 @@ pos: 1475
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny wskładzie: Andrzej Rzepliński — przewodniczący, Maria Gintowt-Jankowicz, Ewa Ęętowska, Janusz Niemcewicz, Mirosław Wyrzykowski — sprawozdawca, z 2006 r. Nr 220, poz. 1600 oraz z 2008 r. Nr 201, poz. 1237), w zakresie odnoszącym się do gruntów stanowiących własność jednostki samorządu terytorialnego, jest niezgodny zart.165 ust.1 zdanie drugie Konstytucji Rzeczypospolitej Polskiej.
+# Wyrok Trybunału Konstytucyjnegoz dnia 9 grudnia 2008 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +25,16 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1475/text.pdf) |
 
-2. Art. 17 ust.3 wzwiązku zust.2 ustawy powołanej wpunkcie 1 wzakresie, wjakim uzależnia likwidację rodzinnego ogrodu działkowego na cel publiczny od zgody Polskiego Związku Działkowców, jest niezgodny zart.21 ust.2 Konstytucji.
-po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie Ponadto postanawia: wdniu 9 grudnia 2008r., wniosku Rady Miejskiej Wrocławia ozbadanie zgodności: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia
-1) art. 10 ustawy z dnia 8 lipca 2005 r. o rodzinnych 1sierpnia 1997r. oTrybunale Konstytucyjnym (Dz.U.
-ogrodach działkowych (Dz. U. Nr 169, poz. 1419, Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, ze zm.) zart.165 ust.1 zdanie drugie Konstytucji, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r.
-Nr169, poz.1417) umorzyć postępowanie wpozosta2) art.17 ust.3 wzwiązku zust.2 ustawy powołanej łym zakresie ze względu na niedopuszczalność wydawpunkcie 1 zart.21 Konstytucji, nia wyroku.
-orzeka: Andrzej Rzepliński
-1. Art. 10 ustawy z dnia 8 lipca 2005 r. o rodzin- Maria Gintowt-Jankowicz Ewa Ęętowska nych ogrodach działkowych (Dz.U. Nr169, poz.1419, Janusz Niemcewicz Mirosław Wyrzykowski 1475 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 9 grudnia 2008r.
-sygn. akt K 61/07
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Rzepliński – przewodniczący, Maria Gintowt-Jankowicz, Ewa Łętowska, Janusz Niemcewicz, Mirosław Wyrzykowski – sprawozdawca, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 9 grudnia 2008 r., wniosku Rady Miejskiej Wrocławia o zbadanie zgodności:
+1)
+art. 10 ustawy z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych (Dz. U. Nr 169, poz. 1419, ze zm.) z art. 165 ust. 1 zdanie drugie Konstytucji,
+2)
+art. 17 ust. 3 w związku z ust. 2 ustawy powołanej w punkcie 1 z art. 21 Konstytucji,
+orzeka:
+1.
+Art. 10 ustawy z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych (Dz. U. Nr 169, poz. 1419, z 2006 r. Nr 220, poz. 1600 oraz z 2008 r. Nr 201, poz. 1237), w zakresie odnoszącym się do gruntów stanowiących własność jednostki samorządu terytorialnego, jest niezgodny z art. 165 ust. 1 zdanie drugie Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 17 ust. 3 w związku z ust. 2 ustawy powołanej w punkcie 1 w zakresie, w jakim uzależnia likwidację rodzinnego ogrodu działkowego na cel publiczny od zgody Polskiego Związku Działkowców, jest niezgodny z art. 21 ust. 2 Konstytucji.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie w pozostałym zakresie ze względu na niedopuszczalność wydania wyroku.
 

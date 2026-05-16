@@ -8,9 +8,10 @@ pos: 1306
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ustawa z dnia 24 września 2010 r. o zmianie ustawy - Ordynacja podatkowa oraz ustawy o zasadach ewidencji i identyfikacji podatników i płatników
+# Ustawa z dnia 24 września 2010 r. o zmianie ustawy – Ordynacja podatkowa oraz ustawy o zasadach ewidencji i identyfikacji podatników i płatników
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +25,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101971306) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1306/text.pdf) |
 
-**Art. 1.** W ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 2005 8, 60, późn. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 13 października 1995 o zasadach ewidencji identyfikacji podatników płatników (Dz. U. 2004 269, 2681, późn. zm. „§ 1a. Minister właściwy spraw finansów publicznych może upoważnić podległy mu organ podatkowy występowania wnioskiem, o którym mowa 1.”;
+**Art. 2.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2004 r. Nr 269, poz. 2681, z późn. zm.) w art. 10b w ust. 2 uchyla się pkt 1.
 
-**Art. 3.** Osobom, które były wspólnikami spółki cywilnej chwili rozwiązania spółki, przysługuje prawo złożenia wniosku o wznowienie postępowania terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy sprawach nadpłaty, których:
+**Art. 3.** Osobom, które były wspólnikami spółki cywilnej w chwili rozwiązania spółki, przysługuje prawo do złożenia wniosku o wznowienie postępowania w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy w sprawach nadpłaty, w których:
 
-**Art. 4.** Dotychczasowe przepisy wykonawcze zakresie udzielania ulg spłacie zobowiązań podatkowych stanowiących pomoc publiczną na rozwój małych średnich przedsiębiorstw, wydane na podstawie art. 67b 5 ustawy, o której mowa art. 1, zachowują moc czasu wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 67b 5 ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż dnia 30 czerwca 2014
+**Art. 4.** Dotychczasowe przepisy wykonawcze w zakresie udzielania ulg w spłacie zobowiązań podatkowych stanowiących pomoc publiczną na rozwój małych i średnich przedsiębiorstw, wydane na podstawie art. 67b § 5 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 67b § 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 30 czerwca 2014 r.
 
 **Art. 5.**
 
-1. Do dnia 31 grudnia 2013 udzielania ulg spłacie zobowiązań podatkowych stanowiących pomoc publiczną regionalną stosuje przepisy dotychczasowe.
+1. Do dnia 31 grudnia 2013 r. do udzielania ulg w spłacie zobowiązań podatkowych stanowiących pomoc publiczną regionalną stosuje się przepisy dotychczasowe.
 
-2. Do dnia 30 czerwca 2014 udzielania ulg spłacie zobowiązań podatkowych stanowiących pomoc publiczną na szkolenia oraz pomoc publiczną na zatrudnienie stosuje przepisy dotychczasowe.
+2. Do dnia 30 czerwca 2014 r. do udzielania ulg w spłacie zobowiązań podatkowych stanowiących pomoc publiczną na szkolenia oraz pomoc publiczną na zatrudnienie stosuje się przepisy dotychczasowe.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

@@ -8,9 +8,12 @@ pos: 1725
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 listopada 2024 r.
+# o usługach zaufania oraz identyfikacji elektronicznej
+
+*USTAWA z dnia 5 września 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-03-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001725) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1725/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 14 listopada 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o usługach zaufania oraz identyfikacji elektronicznej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 422), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 listopada 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 106 i art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222), które stanowią: „Art. 106. Do postępowań dotyczących nałożenia kar pieniężnych, o których mowa w art. 46 pkt 8 ustawy zmienianej w art. 49, wszczętych i niezakończonych przed dniem wejścia w życie art. 49, stosuje się przepisy dotychczasowe.” „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
-3) art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-4) art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-5) art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 5 września 2016 r.
-o usługach zaufania oraz identyfikacji elektronicznej
 Art. 50–130. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -70,7 +61,7 @@ Art. 50–130. (pominięte)
 
 - **1)** imię i nazwisko lub firmę (nazwę) dostawcy usług zaufania;
 - **2)** adres siedziby i miejsca wykonywania działalności;
-- **3)** numer w Krajowym Rejestrze Sądowym w przypadku dostawców usług zaufania podlegających wpisowi do tego rejestru;
+- **3)** numer w Krajowym Rejestrze Sądowym – w przypadku dostawców usług zaufania podlegających wpisowi do tego rejestru;
 - **4)** numer identyfikacji podatkowej;
 - **5)** nazwę polityki świadczenia usług;
 - **6)** rodzaj świadczonych usług zaufania;
@@ -80,7 +71,8 @@ Art. 50–130. (pominięte)
 - **10)** nazwę i adres zakładu ubezpieczeń, z którym dostawca usług zaufania zawarł umowę ubezpieczenia, okres, na jaki umowa ta została zawarta, oraz sumę ubezpieczenia;
 - **11)** informacje o zamiarze zaprzestania prowadzenia działalności w zakresie świadczenia usług zaufania lub zamiarze ograniczenia zakresu świadczonych usług zaufania;
 - **12)** informacje o otwarciu likwidacji dostawcy usług zaufania oraz datę jego likwidacji;
-- **13)** informacje o ogłoszeniu upadłości dostawcy usług zaufania lub oddaleniu wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2024 r. poz. 794 i 1222) oraz datę zakończenia postępowania upadłościowego;
+- **13)** informacje o ogłoszeniu upadłości dostawcy usług zaufania lub oddaleniu wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2024 r. poz. 794 i
+- **1222)** oraz datę zakończenia postępowania upadłościowego;
 - **14)** datę wykreślenia z rejestru dostawcy usług zaufania.
 
 **Art. 4.**
@@ -88,7 +80,7 @@ Art. 50–130. (pominięte)
 1. Wpis do rejestru:
 
 - **1)** dostawcy usług zaufania, który zamierza świadczyć kwalifikowane usługi zaufania, lub
-- **2)** kwalifikowanej usługi zaufania następuje na wniosek dostawcy usług zaufania.
+- **2)** kwalifikowanej usługi zaufania – następuje na wniosek dostawcy usług zaufania.
 
 2. Wniosek o wpis, o którym mowa w ust. 1, zawiera dane i informacje, o których mowa w art. 3 ust. 4 pkt 1–7.
 
@@ -102,6 +94,10 @@ Art. 50–130. (pominięte)
 - **4)** dane niezbędne do wystawienia certyfikatu, o którym mowa w art. 10 ust. 1 pkt 1.
 
 5. Do wniosku o wpis, o którym mowa w ust. 1, można dołączyć kopie dokumentów, o których mowa w ust. 4 pkt 1–3.
+
+5a. Do wniosku o wpis, o którym mowa w ust. 1, dołącza się dane i informacje, o których mowa w art. 7 ust. 2 pkt 1–18 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20 i 000).
+
+5b. Po wpisie do rejestru, minister właściwy do spraw informatyzacji dane i informacje, o których mowa w art. 7 ust. 2 pkt 1–18 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa, wpisuje do wykazu podmiotów kluczowych i podmiotów ważnych, o którym mowa w art. 7 ust. 1 tej ustawy. Danych tych nie zamieszcza się w rejestrze.
 
 6. Minister właściwy do spraw informatyzacji, po rozpatrzeniu wniosku, o którym mowa w ust. 1, wydaje decyzję o wpisie:
 
@@ -121,7 +117,7 @@ Art. 50–130. (pominięte)
 1. Wpis do rejestru:
 
 - **1)** niekwalifikowanego dostawcy usług zaufania lub
-- **2)** niekwalifikowanej usługi zaufania następuje na podstawie zgłoszenia przesłanego w postaci elektronicznej przez dostawcę usług zaufania.
+- **2)** niekwalifikowanej usługi zaufania – następuje na podstawie zgłoszenia przesłanego w postaci elektronicznej przez dostawcę usług zaufania.
 
 2. Niekwalifikowany dostawca usług zaufania w zgłoszeniu, o którym mowa w ust. 1, zgłasza co najmniej informacje, o których mowa w art. 3 ust. 4 pkt 1–6.
 
@@ -148,7 +144,7 @@ Art. 50–130. (pominięte)
 
 **Art. 9.**
 
-1. Decyzja o wykreśleniu kwalifikowanego dostawcy usług zaufania z rejestru oraz decyzja o wykreśleniu wpisu kwalifikowanej usługi zaufania z rejestru podlega natychmiastowemu wykonaniu. Przepisu art. 61 § 2 pkt 1 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935) nie stosuje się.
+1. Decyzja o wykreśleniu kwalifikowanego dostawcy usług zaufania z rejestru oraz decyzja o wykreśleniu wpisu kwalifikowanej usługi zaufania z rejestru podlega natychmiastowemu wykonaniu. Przepisu art. 61 § 2 pkt 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935) nie stosuje się.
 
 2. W przypadku wykreślenia dostawcy usług zaufania z rejestru w rejestrze pozostawia się informacje o dostawcy i świadczonych przez niego usługach.
 
@@ -191,7 +187,7 @@ Art. 50–130. (pominięte)
 
 1. Informacje i dane związane ze świadczeniem usług zaufania, których ujawnienie mogłoby narazić na szkodę dostawcę usług zaufania lub odbiorcę usług zaufania, w szczególności dane do składania podpisów elektronicznych lub pieczęci elektronicznych, są objęte tajemnicą.
 
-2. Tajemnicą, o której mowa w ust. 1, nie są objęte informacje o naruszeniach przepisów o usługach zaufania przez dostawcę usług zaufania oraz informacje o zdarzeniach powodujących naruszenia bezpieczeństwa lub utratę integralności, o których mowa w art. 20a ust. 2.
+2. Tajemnicą, o której mowa w ust. 1, nie są objęte informacje o naruszeniach przepisów o usługach zaufania przez dostawcę usług zaufania.
 
 3. Do zachowania tajemnicy, o której mowa w ust. 1, są obowiązane:
 
@@ -200,9 +196,9 @@ Art. 50–130. (pominięte)
 
 4. Osoby, o których mowa w ust. 3, mają obowiązek udzielenia informacji i danych, o których mowa w ust. 1, z wyjątkiem danych do składania podpisów elektronicznych lub pieczęci elektronicznych, wyłącznie na żądanie:
 
-- **1)** sądu lub prokuratora w związku z toczącym się postępowaniem;
-- **2)** ministra właściwego do spraw informatyzacji w związku ze sprawowaniem przez niego nadzoru nad działalnością dostawców usług zaufania;
-- **3)** innych upoważnionych organów w związku z prowadzonym przez te organy postępowaniem.
+- **1)** sądu lub prokuratora – w związku z toczącym się postępowaniem;
+- **2)** ministra właściwego do spraw informatyzacji – w związku ze sprawowaniem przez niego nadzoru nad działalnością dostawców usług zaufania;
+- **3)** innych upoważnionych organów – w związku z prowadzonym przez te organy postępowaniem.
 
 5. Obowiązek zachowania tajemnicy, o której mowa w ust. 1, trwa przez 10 lat od dnia ustania stosunku prawnego, o którym mowa w ust. 3.
 
@@ -218,7 +214,7 @@ Art. 50–130. (pominięte)
 - **2)** listy zawieszonych i unieważnionych kwalifikowanych certyfikatów,
 - **3)** politykę świadczenia usługi,
 - **4)** żądania unieważnienia kwalifikowanego certyfikatu,
-- **5)** inne dokumenty, o ile polityka świadczenia usługi wymagała ich utworzenia i przechowywania w sposób umożliwiający odczytanie oraz zapewniający bezpieczeństwo przechowywanych dokumentów i danych.
+- **5)** inne dokumenty, o ile polityka świadczenia usługi wymagała ich utworzenia i przechowywania – w sposób umożliwiający odczytanie oraz zapewniający bezpieczeństwo przechowywanych dokumentów i danych.
 
 2. Kwalifikowany dostawca usług zaufania jest obowiązany przechowywać dokumenty i dane, o których mowa w ust. 1, z wyłączeniem danych służących do składania podpisu elektronicznego lub pieczęci elektronicznej, przez 20 lat od dnia ich wytworzenia.
 
@@ -250,13 +246,7 @@ Art. 50–130. (pominięte)
 
 4. Kwalifikowany dostawca usług zaufania z czynności, o których mowa w ust. 3, sporządza protokół zniszczenia danych i przekazuje go ministrowi właściwemu do spraw informatyzacji w terminie 7 dni od wykonania tych czynności.
 
-**Art. 20a.**
-
-- **3)** 1. Dostawcy usług zaufania podejmują odpowiednie środki techniczne i organizacyjne w celu zarządzania ryzykiem, na jakie narażone jest bezpieczeństwo świadczonych przez nich usług zaufania, w szczególności środki zapobiegające zdarzeniom powodującym naruszenie bezpieczeństwa lub utratę integralności, związanym z usługami zaufania lub minimalizujące wpływ tych zdarzeń. W ramach zadania, o którym mowa w zdaniu pierwszym, dostawcy usług zaufania uwzględniają najnowsze osiągnięcia w dziedzinie cyberbezpieczeństwa.
-
-2. Dostawca usług zaufania zawiadamia ministra właściwego do spraw informatyzacji o zdarzeniu powodującym naruszenie bezpieczeństwa lub utratę integralności, które mają znaczący wpływ na świadczoną usługę zaufania lub przetwarzane w jej ramach dane osobowe, niezwłocznie, nie później niż w ciągu 24 godzin od momentu wykrycia.
-
-3. W przypadku gdy prawdopodobne jest, że zdarzenie, o którym mowa w ust. 2, niekorzystnie wpłynie na osobę fizyczną lub prawną, na rzecz której świadczona była usługa zaufania, dostawca usług zaufania bez zbędnej zwłoki zawiadamia także tę osobę fizyczną lub prawną o tym zdarzeniu i jego potencjalnych skutkach.
+**Art. 20a.** (uchylony)
 
 **Art. 21.** Dostawca usług zaufania nie odpowiada za szkody wynikające z nieprzestrzegania przez odbiorcę usług zaufania zasad określonych w polityce świadczenia usługi, w szczególności za szkody wynikające z:
 
@@ -290,7 +280,7 @@ Art. 50–130. (pominięte)
 - **5)** datę urodzenia,
 - **6)** miejsce urodzenia,
 - **7)** płeć,
-- **8)** adres zamieszkania w celu uwierzytelnienia z wykorzystaniem węzła krajowego.
+- **8)** adres zamieszkania – w celu uwierzytelnienia z wykorzystaniem węzła krajowego.
 
 **Art. 21b.**
 
@@ -298,7 +288,7 @@ Art. 50–130. (pominięte)
 
 - **1)** potwierdzeniu spełnienia przez ten system wymagań dla zadeklarowanych poziomów bezpieczeństwa środków identyfikacji elektronicznej wydawanych w tym systemie, określonych w przepisach wydanych na podstawie art. 8 ust. 3 rozporządzenia 910/2014;
 - **2)** przeprowadzeniu testów integracyjnych zakończonych wynikiem pozytywnym, potwierdzających interoperacyjność systemów identyfikacji elektronicznej, z uwzględnieniem przepisów wydanych na podstawie art. 12 ust. 8 rozporządzenia 910/2014;
-- **3)** zapewnieniu przez podmiot odpowiedzialny za ten system opracowania, ustanawiania, wdrażania, eksploatowania, monitorowania, przeglądania, utrzymywania i doskonalenia systemu zarządzania bezpieczeństwem informacji zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **3)** zapewnieniu przez podmiot odpowiedzialny za ten system wdrożenia systemu zarządzania bezpieczeństwem informacji zgodnego z wymogami określonymi w art. 8 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa;
 - **4)** przedstawieniu przez podmiot odpowiedzialny za ten system dokumentu zawierającego przyrzeczenie zakładu ubezpieczeń zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z wykorzystywaniem środków identyfikacji elektronicznej wydanych w systemie identyfikacji elektronicznej wnioskodawcy;
 - **5)** przedstawieniu przez podmiot odpowiedzialny za ten system oświadczenia o działaniu tego podmiotu zgodnie z przepisami o ochronie danych osobowych;
 - **6)** uzyskaniu pozytywnej opinii Szefa Agencji Bezpieczeństwa Wewnętrznego w przypadku, o którym mowa w art. 21g ust. 6.
@@ -315,7 +305,7 @@ Art. 50–130. (pominięte)
 
 - **1)** wyrządzonych przez ubezpieczonego po dniu wydania ostatecznej decyzji o odłączeniu systemu identyfikacji elektronicznej od węzła krajowego, chyba że szkoda jest następstwem działania lub zaniechania, które miało miejsce w okresie przyłączenia do węzła krajowego,
 - **2)** polegających na zapłacie kar umownych,
-- **3)** powstałych wskutek siły wyższej chyba że w umowie ubezpieczenia zakres ochrony ubezpieczeniowej zostanie rozszerzony również o szkody wynikające ze zdarzeń wskazanych w pkt 1–3.
+- **3)** powstałych wskutek siły wyższej – chyba że w umowie ubezpieczenia zakres ochrony ubezpieczeniowej zostanie rozszerzony również o szkody wynikające ze zdarzeń wskazanych w pkt 1–3.
 
 3. Ubezpieczenie, o którym mowa w art. 21b ust. 2, obejmuje wszystkie szkody w zakresie, o którym mowa w ust. 1 i 2, bez możliwości umownego ograniczenia odpowiedzialności przez zakład ubezpieczeń. Art. 21ca. 1. Podmiot odpowiedzialny za system identyfikacji elektronicznej ponosi odpowiedzialność cywilną za szkodę wynikającą z działania lub zaniechania, wyrządzoną w związku z wykorzystaniem środka identyfikacji elektronicznej, w celu uwierzytelnienia użytkowników systemów określonych w art. 21a ust. 1 pkt 2 lit. b, korzystających z usługi online świadczonej przez podmiot, o którym mowa w art. 2 i art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, lub podmiot sektora publicznego, o którym mowa w art. 3 pkt 7 rozporządzenia 910/2014, spowodowaną przez awarię, przerwę lub błąd systemu lub przez zaciągnięcie zobowiązania w wyniku nieuprawnionego wykorzystania tego środka identyfikacji elektronicznej do wysokości 2 000 000 euro w odniesieniu do wszystkich zdarzeń w danym roku.
 
@@ -348,7 +338,7 @@ Art. 50–130. (pominięte)
 - **2)** imię i nazwisko lub firmę (nazwę), adres siedziby i miejsca wykonywania działalności, numer w Krajowym Rejestrze Sądowym, a w przypadku gdy podmiot nie posiada numeru w Krajowym Rejestrze Sądowym, wskazanie organu, któremu działalność podmiotu została zgłoszona, lub właściwego rejestru oraz podanie numeru identyfikacyjnego, jeżeli został on nadany, każdego podmiotu:
     - **a)** potwierdzającego tożsamość oraz weryfikującego dane identyfikujące osoby ubiegającej się o wydanie środka identyfikacji elektronicznej,
     - **b)** wydającego środki identyfikacji elektronicznej,
-    - **c)** zapewniającego funkcjonalność pozwalającą na uwierzytelnienie osób, którym wydano środek identyfikacji elektronicznej w przypadku gdy czynności tych nie wykonuje podmiot odpowiedzialny za system identyfikacji elektronicznej;
+    - **c)** zapewniającego funkcjonalność pozwalającą na uwierzytelnienie osób, którym wydano środek identyfikacji elektronicznej – w przypadku gdy czynności tych nie wykonuje podmiot odpowiedzialny za system identyfikacji elektronicznej;
 
 - **3)** nazwę i szczegółowy opis systemu identyfikacji elektronicznej, w tym opis środków identyfikacji elektronicznej wydawanych w tym systemie z określeniem ich poziomu bezpieczeństwa, o którym mowa w art. 8 ust. 2 rozporządzenia 910/2014, oraz informacje techniczne i organizacyjne dotyczące wykorzystania tych środków.
 
@@ -356,7 +346,7 @@ Art. 50–130. (pominięte)
 
 - **1)** dokument potwierdzający spełnianie wymagań dla zadeklarowanych poziomów bezpieczeństwa środków identyfikacji elektronicznej, określonych w przepisach wydanych na podstawie art. 8 ust. 3 rozporządzenia 910/2014, w szczególności:
     - **a)** pozytywny wynik audytu systemu zarządzania bezpieczeństwem informacji obejmującego swym zakresem system identyfikacji elektronicznej, którego dotyczy wniosek, albo
-    - **b)** pozytywny wynik audytu, o którym mowa w przepisach wydanych na podstawie art. 8 ust. 3 rozporządzenia 910/2014 adekwatnie do poziomu bezpieczeństwa środków identyfikacji elektronicznej wydawanych w tym systemie;
+    - **b)** pozytywny wynik audytu, o którym mowa w przepisach wydanych na podstawie art. 8 ust. 3 rozporządzenia 910/2014 – adekwatnie do poziomu bezpieczeństwa środków identyfikacji elektronicznej wydawanych w tym systemie;
 
 - **2)** dokument zawierający przyrzeczenie zakładu ubezpieczeń zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z wykorzystywaniem środków identyfikacji elektronicznej wydanych w systemie identyfikacji elektronicznej wnioskodawcy;
 - **3)** oświadczenie o zapewnieniu stosowania polityki bezpieczeństwa, o której mowa w art. 39b ust. 1 pkt 3;
@@ -428,7 +418,7 @@ Art. 50–130. (pominięte)
 - **2)** datę przyłączenia systemu identyfikacji elektronicznej do węzła krajowego;
 - **3)** informacje o zamiarze zaprzestania świadczenia usług związanych ze środkami identyfikacji elektronicznej wydawanymi w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego;
 - **4)** informacje o otwarciu likwidacji podmiotu odpowiedzialnego za system identyfikacji elektronicznej oraz datę jego likwidacji;
-- **5)** informacje o ogłoszeniu upadłości podmiotu odpowiedzialnego za system identyfikacji elektronicznej lub oddaleniu wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe oraz datę zakończenia postępowania upadłościowego;
+- **5)** informacje o ogłoszeniu upadłości podmiotu odpowiedzialnego za system identyfikacji elektronicznej lub oddaleniu wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe oraz datę zakończenia postępowania upadłościowego;
 - **6)** informacje o zawieszeniu możliwości korzystania z systemu identyfikacji elektronicznej lub uwierzytelniania z wykorzystaniem środków identyfikacji elektronicznej wydanych w tym systemie;
 - **7)** informacje o przywróceniu możliwości korzystania z systemu identyfikacji elektronicznej lub uwierzytelniania z wykorzystaniem środków identyfikacji elektronicznej wydanych w tym systemie;
 - **8)** informację o tym, czy system identyfikacji elektronicznej został przyłączony do węzła transgranicznego;
@@ -440,8 +430,8 @@ Art. 50–130. (pominięte)
 
 2. Informacje i dane objęte tajemnicą udostępnia się wyłącznie na żądanie:
 
-- **1)** sądu lub prokuratora w związku z toczącym się postępowaniem;
-- **2)** innych upoważnionych organów w związku z prowadzonym przez te organy postępowaniem;
+- **1)** sądu lub prokuratora – w związku z toczącym się postępowaniem;
+- **2)** innych upoważnionych organów – w związku z prowadzonym przez te organy postępowaniem;
 - **3)** Szefa Agencji Bezpieczeństwa Wewnętrznego.
 
 **Art. 21p.**
@@ -471,7 +461,7 @@ Art. 50–130. (pominięte)
 - **5)** datę urodzenia,
 - **6)** miejsce urodzenia,
 - **7)** płeć,
-- **8)** adres zamieszkania w celu realizacji zadań, o których mowa w art. 21p ust. 1 pkt 1–5 i 7.
+- **8)** adres zamieszkania – w celu realizacji zadań, o których mowa w art. 21p ust. 1 pkt 1–5 i 7.
 
 2. Podmiot, o którym mowa w art. 21p, inny niż podmiot wskazany w art. 2 i art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne lub podmiot sektora publicznego, o którym mowa w art. 3 pkt 7 rozporządzenia 910/2014, zapewniając możliwość uwierzytelniania w usługach online, nie może pozyskiwać, przechowywać oraz przetwarzać danych dotyczących realizacji tych usług, innych niż dane niezbędne do zrealizowania procesu uwierzytelnienia.
 
@@ -485,10 +475,10 @@ Art. 50–130. (pominięte)
 
 1. Podmiot odpowiedzialny za system identyfikacji elektronicznej przyłączony do węzła krajowego informuje ministra właściwego do spraw informatyzacji o:
 
-- **1)** każdej zmianie dotyczącej systemu identyfikacji elektronicznej przyłączonego do węzła krajowego mającej wpływ na aktualność danych wpisanych do rejestru systemów w terminie 14 dni od dnia zmiany tych danych;
-- **2)** zamiarze zaprzestania świadczenia usług związanych ze środkami identyfikacji elektronicznej wydawanymi w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego w terminie 12 miesięcy przed planowanym zaprzestaniem świadczenia tych usług;
-- **3)** otwarciu jego likwidacji, ogłoszeniu jego upadłości lub oddaleniu wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe niezwłocznie;
-- **4)** zawieszeniu możliwości uwierzytelniania z powodu naruszenia bezpieczeństwa, o którym mowa w art. 21r ust. 1, oraz przywróceniu możliwości uwierzytelniania po usunięciu naruszenia bezpieczeństwa, o którym mowa w art. 21r ust. 2 niezwłocznie, nie później niż w ciągu 24 godzin od momentu odpowiednio wykrycia naruszenia bezpieczeństwa oraz usunięcia naruszenia bezpieczeństwa.
+- **1)** każdej zmianie dotyczącej systemu identyfikacji elektronicznej przyłączonego do węzła krajowego mającej wpływ na aktualność danych wpisanych do rejestru systemów – w terminie 14 dni od dnia zmiany tych danych;
+- **2)** zamiarze zaprzestania świadczenia usług związanych ze środkami identyfikacji elektronicznej wydawanymi w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego – w terminie 12 miesięcy przed planowanym zaprzestaniem świadczenia tych usług;
+- **3)** otwarciu jego likwidacji, ogłoszeniu jego upadłości lub oddaleniu wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe – niezwłocznie;
+- **4)** zawieszeniu możliwości uwierzytelniania z powodu naruszenia bezpieczeństwa, o którym mowa w art. 21r ust. 1, oraz przywróceniu możliwości uwierzytelniania po usunięciu naruszenia bezpieczeństwa, o którym mowa w art. 21r ust. 2 – niezwłocznie, nie później niż w ciągu 24 godzin od momentu odpowiednio wykrycia naruszenia bezpieczeństwa oraz usunięcia naruszenia bezpieczeństwa.
 
 2. Minister właściwy do spraw informatyzacji po otrzymaniu danych, o których mowa w ust. 1, przekazuje je Szefowi Agencji Bezpieczeństwa Wewnętrznego, jeżeli istnieją uzasadnione przesłanki pozwalające wnioskować, iż zmiany tych danych mogą mieć wpływ na bezpieczeństwo publiczne, bezpieczeństwo państwa lub zagrażają w sposób bezpośredni bezpieczeństwu systemów teleinformatycznych państwa.
 
@@ -504,10 +494,10 @@ Art. 50–130. (pominięte)
 
 1. Minister właściwy do spraw informatyzacji wydaje zgodę o przyłączeniu do węzła krajowego systemu teleinformatycznego, w którym udostępniane są usługi online, po:
 
-- **1)** zapewnieniu przez podmiot odpowiedzialny za ten system opracowania, ustanawiania, wdrażania, eksploatowania, monitorowania, przeglądania, utrzymywania i doskonalenia systemu zarządzania bezpieczeństwem informacji zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **1)** zapewnieniu przez podmiot odpowiedzialny za ten system wdrożenia systemu zarządzania bezpieczeństwem informacji zgodnego z wymogami określonymi w art. 8 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa;
 - **2)** przeprowadzeniu testów integracyjnych zakończonych wynikiem pozytywnym, potwierdzających interoperacyjność tego systemu z węzłem krajowym;
 - **3)** przedstawieniu przez podmiot odpowiedzialny za ten system oświadczenia o działaniu tego podmiotu zgodnie z przepisami o ochronie danych osobowych;
-- **4)** wskazaniu interesu faktycznego w uwierzytelnianiu z wykorzystaniem węzła krajowego w przypadku podmiotu innego niż podmiot wskazany w art. 2 i art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne lub podmiot sektora publicznego, o którym mowa w art. 3 pkt 7 rozporządzenia 910/2014.
+- **4)** wskazaniu interesu faktycznego w uwierzytelnianiu z wykorzystaniem węzła krajowego – w przypadku podmiotu innego niż podmiot wskazany w art. 2 i art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne lub podmiot sektora publicznego, o którym mowa w art. 3 pkt 7 rozporządzenia 910/2014.
 
 2. Ocena interesu faktycznego dokonywana jest z uwzględnieniem jego wpływu na bezpieczeństwo i interes publiczny.
 
@@ -521,11 +511,11 @@ Art. 50–130. (pominięte)
 
 3. Do wniosku dołącza się:
 
-- **1)** oświadczenie o zapewnieniu przez podmiot odpowiedzialny za ten system opracowania, ustanawiania, wdrażania, eksploatowania, monitorowania, przeglądania, utrzymywania i doskonalenia systemu zarządzania bezpieczeństwem informacji zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **1)** oświadczenie o zapewnieniu przez podmiot odpowiedzialny za ten system wdrożenia systemu zarządzania bezpieczeństwem informacji zgodnego z wymogami określonymi w art. 8 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa;
 - **2)** oświadczenie o zapewnieniu stosowania polityki bezpieczeństwa, o której mowa w art. 39b ust. 1 pkt 3;
 - **3)** listę usług online udostępnianych w tym systemie wraz z określeniem dla każdej z tych usług wymaganych poziomów bezpieczeństwa środków identyfikacji elektronicznej, o których mowa w art. 8 ust. 2 rozporządzenia 910/2014, niezbędnych dla realizacji tych usług;
 - **4)** oświadczenie o działaniu podmiotu zgodnie z przepisami o ochronie danych osobowych;
-- **5)** uzasadnienie interesu faktycznego w uwierzytelnianiu z wykorzystaniem węzła krajowego w przypadku podmiotu innego niż podmiot, o których mowa w art. 2 i art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, lub podmiot sektora publicznego, o którym mowa w art. 3 pkt 7 rozporządzenia 910/2014;
+- **5)** uzasadnienie interesu faktycznego w uwierzytelnianiu z wykorzystaniem węzła krajowego – w przypadku podmiotu innego niż podmiot, o których mowa w art. 2 i art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, lub podmiot sektora publicznego, o którym mowa w art. 3 pkt 7 rozporządzenia 910/2014;
 - **6)** raport z testów integracyjnych zakończonych wynikiem pozytywnym, potwierdzających interoperacyjność tego systemu z węzłem krajowym.
 
 4. Wniosek oraz dokumenty, o których mowa w ust. 3, składa się w postaci elektronicznej opatrzone kwalifikowanym podpisem elektronicznym.
@@ -598,7 +588,7 @@ Art. 50–130. (pominięte)
 - **8)** nakłada kary pieniężne;
 - **9)** wykonuje inne zadania określone w przepisach prawa.
 
-3. Decyzja, o której mowa w ust. 2 pkt 5, podlega natychmiastowemu wykonaniu. Przepisu art. 61 § 2 pkt 1 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się.
+3. Decyzja, o której mowa w ust. 2 pkt 5, podlega natychmiastowemu wykonaniu. Przepisu art. 61 § 2 pkt 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się.
 
 **Art. 28.** Dostawca usługi zaufania, na żądanie ministra właściwego do spraw informatyzacji, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych, jest obowiązany udzielać informacji lub udostępniać dokumenty, które są bezpośrednio związane ze świadczonymi usługami zaufania lub mają wpływ na świadczone usługi zaufania, w tym dotyczą zarządzania incydentami związanymi z usługą zaufania.
 
@@ -610,9 +600,7 @@ Art. 50–130. (pominięte)
 
 **Art. 30.** Minister właściwy do spraw informatyzacji w przypadku stwierdzenia, że kwalifikowany dostawca usług zaufania prowadzi działalność niezgodnie z przepisami o usługach zaufania, może:
 
-**Art. 30a.**
-
-- **4)** Minister właściwy do spraw informatyzacji może podać do wiadomości publicznej informacje o zdarzeniu, o którym mowa w art. 20a ust. 2, w przypadku gdy uzna, że jego ujawnienie jest konieczne dla zapewnienia ochrony interesów innych dostawców usług zaufania oraz użytkowników tych usług.
+**Art. 30a.** (uchylony)
 
 **Art. 31.** Audyt, o którym mowa w art. 20:
 
@@ -641,7 +629,7 @@ Art. 50–130. (pominięte)
 
 **Art. 35.** Audytorzy organu nadzoru i obserwatorzy organu nadzoru są obowiązani do bezterminowego zachowania w tajemnicy informacji uzyskanych w związku z przeprowadzanym audytem, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
 
-**Art. 36.** W sprawach nieuregulowanych w ustawie, do przeprowadzenia audytu dostawców usług zaufania przez audytorów organu nadzoru stosuje się odpowiednio przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222), z wyłączeniem przepisu art. 55 ust. 1 tej ustawy.
+**Art. 36.** W sprawach nieuregulowanych w ustawie, do przeprowadzenia audytu dostawców usług zaufania przez audytorów organu nadzoru stosuje się odpowiednio przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222), z wyłączeniem przepisu art. 55 ust. 1 tej ustawy.
 
 **Art. 37.**
 
@@ -651,9 +639,7 @@ Art. 50–130. (pominięte)
 
 **Art. 38.** Minister właściwy do spraw informatyzacji może zawierać porozumienia z organami nadzoru innych państw członkowskich Unii Europejskiej w celu prowadzenia wspólnych postępowań, o których mowa w art. 18 ust. 3 rozporządzenia 910/2014.
 
-**Art. 39.**
-
-- **5)** Minister właściwy do spraw informatyzacji ustala sposób zgłaszania drogą elektroniczną zdarzenia, o którym mowa w art. 20a ust. 2, które ma znaczący wpływ na świadczoną usługę zaufania lub przetwarzane w jej ramach dane osobowe.
+**Art. 39.** (uchylony)
 
 #### Rozdział 5a Nadzór nad krajowym schematem identyfikacji elektronicznej
 
@@ -687,7 +673,7 @@ Art. 50–130. (pominięte)
 
 2. Minister właściwy do spraw informatyzacji wydaje decyzję o przywróceniu możliwości korzystania z systemu identyfikacji elektronicznej lub zawieszonej części środków identyfikacji elektronicznej niezwłocznie po otrzymaniu od podmiotu odpowiedzialnego za system identyfikacji elektronicznej potwierdzenia usunięcia naruszenia, które było podstawą do zawieszenia, o którym mowa w ust. 1.
 
-3. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu. Przepisu art. 61 § 2 pkt 1 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się.
+3. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu. Przepisu art. 61 § 2 pkt 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się.
 
 **Art. 39d.** Minister właściwy do spraw informatyzacji wydaje decyzję o odłączeniu systemu identyfikacji elektronicznej od węzła krajowego i odłącza ten system od węzła krajowego w przypadku:
 
@@ -695,7 +681,7 @@ Art. 50–130. (pominięte)
 
 1. Decyzja o odłączeniu systemu identyfikacji elektronicznej od węzła krajowego jest podstawą do wykreślenia tego systemu z rejestru systemów.
 
-2. Decyzja podlega natychmiastowemu wykonaniu. Przepisu art. 61 § 2 pkt 1 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się.
+2. Decyzja podlega natychmiastowemu wykonaniu. Przepisu art. 61 § 2 pkt 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się.
 
 **Art. 39f.** Podmiot odpowiedzialny za system identyfikacji elektronicznej, na żądanie ministra właściwego do spraw informatyzacji oraz Szefa Agencji Bezpieczeństwa Wewnętrznego, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych, jest obowiązany udzielać informacji oraz udostępniać dokumenty, które są bezpośrednio związane z funkcjonowaniem systemu identyfikacji elektronicznej, w tym dotyczą naruszeń, o których mowa w art. 21r ust. 1 lub art. 39c ust. 1.
 
@@ -724,7 +710,7 @@ Art. 50–130. (pominięte)
 
 **Art. 39k.** W przypadku gdy wyniki kontroli wykażą niezgodność z przepisami ustawy, minister właściwy do spraw informatyzacji, po zapoznaniu się z zastrzeżeniami oraz wyjaśnieniami zgłoszonymi przez podmiot kontrolowany, może wydać decyzję nakładającą obowiązek usunięcia stwierdzonych niezgodności w terminie nie krótszym niż 14 dni.
 
-**Art. 39l.** W sprawach nieuregulowanych w ustawie, do przeprowadzenia kontroli, o której mowa w art. 39b ust. 1 pkt 1, stosuje się odpowiednio przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 39l.** W sprawach nieuregulowanych w ustawie, do przeprowadzenia kontroli, o której mowa w art. 39b ust. 1 pkt 1, stosuje się odpowiednio przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 #### Rozdział 6 Przepisy karne
 
@@ -776,7 +762,7 @@ Art. 50–130. (pominięte)
 
 **Art. 48.** Przy ustalaniu wysokości kary pieniężnej, o której mowa w art. 46, minister właściwy do spraw informatyzacji uwzględnia zakres, czas trwania i skutki naruszenia wymagań, o których mowa w przepisach o usługach zaufania.
 
-**Art. 49.** Do kar pieniężnych stosuje się odpowiednio przepisy działu III i IV ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
+**Art. 49.** Do kar pieniężnych stosuje się odpowiednio przepisy działu III i IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
 
 #### Rozdział 8 Zmiany w przepisach
 

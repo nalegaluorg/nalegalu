@@ -8,9 +8,10 @@ pos: 845
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# ków zwalnianych z pracy w czasie urlopu wzakresie stosunków pracy.”.
+# Ustawa z dnia 10 kwietnia 2003 r. o zmianie ustawy o zawodzie lekarza oraz ustawy o zmianie ustawy o zawodzie lekarza oraz o zmianie innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,43 +25,85 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030900845) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/845/text.pdf) |
 
-chowawczego z przyczyn niedotyczących pracowników.”. Art. 28. 1. Do trwających w dniu wejścia w życie ustawy postępowań dotyczących rozwiązywania zpraArt. 25. W ustawie z dnia 24 sierpnia 2001 r. o re- cownikami stosunków pracy na podstawie przepisów strukturyzacji hutnictwa żelaza i stali (Dz. U. 111, ustawy wymienionej wart. 29 stosuje dotychczasopoz. 1196 oraz z 2003 r. 56, poz. 495) wart. 15 ust. 4 we przepisy.
-otrzymuje brzmienie: 2. Pracownikom, których stosunki pracy ulegną Ń4. Pracownikowi huty albo PHS S.A. korzystające- rozwiązaniu poczynając od dnia wejścia w życie ustamu z uprawnień, o których mowa w ust. 1, nie wy, w następstwie postępowań, o których mowa przysługuje odprawa pieniężna, októrej mowa w ust. 1, przysługuje odprawa pieniężna na zasadach wprzepisach oszczególnych zasadach rozwią- określonych wdotychczasowych przepisach, chyba że zywania z pracownikami stosunków pracy odprawa pieniężna przysługująca na podstawie niniejzprzyczyn niedotyczących pracowników.”. szej ustawy jest dla nich korzystniejsza.
-3. Pracownicy otrzymujący dodatek wyrównawczy
+**Art. 1.** W ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza (Dz. U. z 2002 r. Nr 21, poz. 204, Nr 76, poz. 691, Nr 152, poz. 1266 i Nr 153, poz. 1271) wprowadza się następujące zmiany:
 
-**Art. 26.** Wustawie zdnia 24 maja 2002 r. oAgencji w dniu wejścia w życie ustawy, którzy nie byliby Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu uprawnieni do dodatku wyrównawczego na podstawie (Dz. U. 74, poz. 676) wart. 64 wust. 3 pkt 2 otrzymu- niniejszej ustawy, zachowują prawo do tego dodatku je brzmienie: na zasadach określonych w dotychczasowych przepiŃ2) inne uprawnienia przewidziane dla pracownic sach. zwalnianych z pracy w czasie urlopu wycho- Art. 29.Traci moc ustawa zdnia 28 grudnia 1989 r. wawczego z przyczyn niedotyczących pracow- oszczególnych zasadach rozwiązywania zpracownikaników.”. mi stosunków pracy z przyczyn dotyczących zakładu pracy (Dz. U. z 2002 r. 112, poz. 980, 135,
+**Art. 5b.**
 
-**Art. 27.** W ustawie z dnia 30 paêdziernika 2002 r. poz. 1146 i 200, poz. 1679 oraz z 2003 r. 90, o pomocy publicznej dla przedsiębiorców o szczegól- poz.844). nym znaczeniu dla rynku pracy (Dz. U. 213, poz.1800) art. 39 otrzymuje brzmienie: Art. 30.Ustawa wchodzi wżycie zdniem 1 stycznia 2004 r., z wyjątkiem art. 15, który wchodzi w życie zdniem 1 lipca 2003 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 10 kwietnia 2003 r. ozmianie ustawy ozawodzie oraz ustawy ozmianie ustawy ozawodzie oraz ozmianie innych ustaw
+1. Okręgowa rada lekarska przyznaje prawo wykonywania zawodu lekarza dentysty osobie będącej obywatelem państwa członkowskiego Unii Europejskiej, która nabyła kwalifikacje lekarza we Włoszech, posiadającej zaświadczenie wydane przez odpowiednie włoskie władze stwierdzające, że osoba ta:
 
-**Art. 1.** W ustawie z dnia 5 grudnia 1996 r. o zawodzie (Dz. U. z 2002 r. 21, poz. 204, 76, poz. 691, 152, poz. 1266 i 153, poz. 1271) wprowadza następujące zmiany:
+- **1)** zdała egzamin specjalizacyjny przed właściwymi włoskimi władzami, w celu ustalenia, że posiadana przez nią wiedza i umiejętności odpowiada kwalifikacjom potwierdzonym w dokumentach wymienionych w wykazie, o którym mowa w art. 6b,
+- **2)** wykonywała zawód lekarza dentysty zgodnie z prawem przez okres co najmniej trzech kolejnych lat z pięciu lat bezpośrednio poprzedzających wydanie zaświadczenia,
+- **3)** jest uprawniona do wykonywania zawodu lekarza dentysty na takich samych zasadach jak posiadacze dyplomów lub dokumentów wymienionych w wykazie, o którym mowa w art. 6b.
 
-**Art. 5c.** Okręgowa rada lekarska uznaje dyplomy lub inne dokumenty poświadczające formalne kwalifikacje lub dentysty posiadane przez obywatela innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, inne niż dyplomy lub dokumenty wymienione wwykazie, októrym mowa wart. 6b, jeżeli osoba ta posiada zaświadczenie wydane te władze jako równoważny dyplomom lub dokumentom wymienionym w wykazie, októrym mowa wart. 6b.
+2. Okręgowa rada lekarska przyznaje prawo wykonywania zawodu lekarza dentysty osobie będącej obywatelem państwa członkowskiego Unii Europejskiej, która posiada dyplom lub inne dokumenty poświadczające formalne kwalifikacje lekarza nabyte we Włoszech, świadczące o rozpoczęciu kształcenia przed dniem 28 stycznia 1980 r., jeżeli osoba ta przedstawi zaświadczenie wydane przez odpowiednie władze, że wykonywała zawód lekarza dentysty przez okres co najmniej trzech kolejnych lat z pięciu lat bezpośrednio poprzedzających wydanie zaświadczenia oraz że jest uprawniona do wykonywania zawodu lekarza dentysty na takich samych zasadach jak posiadacze dyplomów lub dokumentów wymienionych w wykazie, o którym mowa w art. 6b.
 
-**Art. 5d.** Zaświadczenia, októrych mowa wart. 5b iwart. 5c, mogą być przedstawiane wciągu 12 miesięcy od daty ich wydania.
+3. Okręgowa rada lekarska przyznaje prawo wykonywania zawodu lekarza dentysty osobie będącej obywatelem państwa członkowskiego Unii Europejskiej, która posiada dyplom lub inne dokumenty poświadczające formalne kwalifikacje lekarza nabyte w Hiszpanii, świadczące o rozpoczęciu kształcenia przed dniem 1 stycznia 1986 r., jeżeli osoba ta przedstawi zaświadczenie wydane przez odpowiednie władze, że wykonywała zawód lekarza dentysty przez okres co najmniej trzech kolejnych lat z pięciu lat bezpośrednio poprzedzających wydanie zaświadczenia oraz że jest uprawniona do wykonywania zawodu lekarza dentysty na takich samych zasadach jak posiadacze dyplomów lub dokumentów wymienionych w wykazie, o którym mowa w art. 6b.
 
-**Art. 5e.** Okręgowa rada lekarska, rozpatrując wniosek o przyznanie prawa wykonywania zawodu, bierze pod uwagę:
+4. Okręgowa rada lekarska przyznaje prawo wykonywania zawodu lekarza dentysty osobie będącej obywatelem państwa członkowskiego Unii Europejskiej, która posiada dyplom lub inne dokumenty poświadczające formalne kwalifikacje lekarza nabyte w Austrii, świadczące o rozpoczęciu kształcenia przed dniem 1 stycznia 1994 r., jeżeli osoba ta przedstawi zaświadczenie wydane przez odpowiednie władze, że wykonywała zawód lekarza dentysty przez okres co najmniej trzech kolejnych lat z pięciu lat bezpośrednio poprzedzających wydanie zaświadczenia oraz że jest uprawniona do wykonywania zawodu lekarza dentysty na takich samych zasadach jak posiadacze dyplomów lub dokumentów wymienionych w wykazie, o którym mowa w art. 6b. Okręgowa rada lekarska uznaje dyplomy lub inne dokumenty poświadczające formalne kwalifikacje lekarza lub lekarza dentysty posiadane przez obywatela innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, inne niż dyplomy lub dokumenty wymienione w wykazie, o którym mowa w art. 6b, jeżeli osoba ta posiada zaświadczenie wydane przez odpowiednie władze państwa członkowskiego Unii Europejskiej potwierdzające, że dyplom lub dokument poświadczający formalne kwalifikacje został uzyskany w wyniku ukończenia kształcenia zgodnego z przepisami obowiązującymi w Unii Europejskiej i jest traktowany przez te władze jako równoważny dyplomom lub dokumentom wymienionym w wykazie, o którym mowa w art. 6b. Zaświadczenia, o których mowa w art. 5b i w art. 5c, mogą być przedstawiane w ciągu 12 miesięcy od daty ich wydania. Okręgowa rada lekarska, rozpatrując wniosek o przyznanie prawa wykonywania zawodu, bierze pod uwagę:
 
-**Art. 20b.**
+- **1)** dyplomy lub dokumenty poświadczające formalne kwalifikacje lekarza lub lekarza dentysty uzyskane w państwie innym niż państwo członkowskie Unii Europejskiej, jeżeli te dyplomy lub dokumenty zostały uznane w jednym z państw członkowskich Unii Europejskiej,
+- **2)** odbyte kształcenie oraz doświadczenie zawodowe zdobyte w państwie członkowskim Unii Europejskiej. ” ;
+- **6)** w art. 6: uchyla się ust. 2, ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
 
-1. Lekarz, lekarz dentysta będący obywatelem państwa członkowskiego Unii Europejskiej ma prawo, z zastrzeżeniem ust. 2, posługiwać na terytorium Rzeczypospolitej Polskiej oryginalnym tytułem lub jego skrótem uzyskanym w toku kształcenia akademickiego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej w przypadku gdy tytuł ten nie jest tożsamy z posiadanym przez tego lekarza, dentystę tytułem zawodowym.
+4. Poza dokumentami, o których mowa w ust. 1 i 3, lekarz, lekarz dentysta składa okręgowej radzie lekarskiej oświadczenie odnoszące się do okoliczności, o których mowa w art. 5 ust. 1 pkt 3. ” , ust. 5 otrzymuje brzmienie: „
 
-2. Okręgowa rada lekarska może magać, aby tytuł uzyskany w toku kształcenia akademickiego przez ledentystę będącego obywatelem państwa członkowskiego Unii Europejskiej jest tożsamy ztytułem, do używania którego jest wymagane w Rzeczypospolitej Polskiej odbycie dodatkowego szkolenia, którego lekarz ten nie posiada, okręgowa rada lekarska może określić brzmienie tego tytułu, którym lekarz może posługiwać na terytorium Rzeczypospolitej Polskiej.”;
+- **c)**
 
-- **15)** wart. 43 ust. 2 i3 otrzymują brzmienie: Ń2. W uzasadnionych przypadkach lekarz, z wyłączeniem dentysty, może uzależnić stawienie karty zgonu od przeprowadzenia sekcji zwłok.
+5. Za wystarczające w stosunku do obywatela państwa członkowskiego Unii Europejskiej, w zakresie spełnienia wymagań:
 
-3. Lekarz, z wyłączeniem dentysty, może wystawić kartę zgonu na podstawie dokumentacji badania pośmiertnego, przeprowadzonego przez innego lub inną uprawnioną osobę.”;
+- **1)** o których mowa w art. 5 ust. 1 pkt 4 – uznaje się dokumenty odnoszące się do stanu zdrowia wymagane do wykonywania zawodu lekarza, lekarza dentysty w państwie członkowskim, którego obywatelem jest lekarz, lekarz dentysta, lub w państwie członkowskim, z którego lekarz, lekarz dentysta przybywa; w przypadku gdy dokumenty tego rodzaju nie są wymagane, za wystarczające uważa się dokumenty wydane w tym państwie odnoszące się do stanu zdrowia,
+- **2)** o których mowa w art. 5 ust. 1 pkt 5 – uznaje się dokumenty wydane przez odpowiednie władze państwa, którego lekarz, lekarz dentysta jest obywatelem, lub państwa, z którego przybywa, poświadczające, że obowiązujące w tym państwie wymagania dotyczące postawy etycznej do podjęcia zawodu lekarza, lekarza dentysty zostały spełnione; jeżeli w państwie, którego obywatelem jest lub z którego przybywa lekarz, lekarz dentysta, nie wydaje się dokumentu poświadczającego spełnienie wymagań dotyczących postawy etycznej, za wystarczający uznaje się wyciąg z rejestru skazanych wydany w państwie, którego lekarz, lekarz dentysta jest obywatelem lub z którego przybywa. ” , po ust. 8 dodaje się ust. 9 w brzmieniu: „
+    - **d)**
 
-- **16)** wart. 57 wust. 1 wyrazy Ńart. 9 pkt 1 i2” zastępuje wyrazami Ńart. 9 ust. 1 pkt 1 i2”;
-- **17)** wart. 63 wust. 2 wyrazy Ńart. 6 ust. 3” zastępuje wyrazami Ńart. 6 ust. 7”;
-- **18)** art. 63aotrzymuje brzmienie: ŃArt. 63a. 1. Warunku, o którym mowa w art. 5 ust. 3 pkt 2, nie stosuje do osób kończących staż podyplomowy przed dniem 1 paêdziernika 2004 r.
+9. Okręgowa rada lekarska, na wniosek lekarza lub lekarza dentysty, wydaje zaświadczenie stwierdzające, że lekarz lub lekarz dentysta posiada kwalifikacje zgodne z wymaganiami wynikającymi z przepisów obowiązujących w Unii Europejskiej oraz że posiadany dyplom ukończenia studiów wyższych odpowiada dokumentom poświadczającym formalne kwalifikacje lekarza lub lekarza dentysty wynikającym z przepisów obowiązujących w Unii Europejskiej. ” ;
 
-2. Egzaminu państwowego, o którym mowa wart. 15 ust. 3, nie przeprowadza do dnia 30 września 2004 r.”.
+- **7)** art. 6b otrzymuje brzmienie: „
 
-**Art. 2.** Wustawie zdnia 6 września 2001 r. ozmianie ustawy o zawodzie oraz o zmianie innych ustaw (Dz. U. 126, poz. 1383 i 154, poz. 1801) wart. 8 wyrazy Ńpkt 6 lit. a) ib)” zastępuje wyrazami Ńpkt 6 lit. a) ib) wzakresie dotyczącym art. 7 ust. 2”.
+**Art. 6b.** Minister właściwy do spraw zdrowia ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz dyplomów i innych dokumentów poświadczających formalne kwalifikacje do wykonywania zawodu lekarza lub lekarza dentysty przez obywateli państw członkowskich Unii Europejskiej, wydanych przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, uwzględniając oryginalne i polskie brzmienie nazw dokumentów oraz podmiotów właściwych do ich wydania, w zakresie wynikającym z przepisów obowiązujących w Unii Europejskiej. ” ;
 
-**Art. 3.** Ilekroć w przepisach obowiązujących jest mowa o Ńlekarzu stomatologu”, należy przez to rozumieć dentystę.
+**Art. 19.**
 
-**Art. 4.** Dokumenty izaświadczenia wydane lub stawione przez stomatologa na podstawie dotychczasowych przepisów są równoważne zwydanymi lub wystawionymi przez dentystę.
+1. Kształcenie podyplomowe lekarzy i lekarzy stomatologów mogą prowadzić jednostki organizacyjne uprawnione do tego na podstawie odrębnych przepisów oraz inne jednostki organizacyjne i osoby fizyczne po uzyskaniu zgody właściwej okręgowej rady lekarskiej.
 
-**Art. 5.** Osoby, które nabyły uprawnienia do tytułu zawodowego stomatologa na podstawie dotychczasowych przepisów, w tym również na podstai ŃOgraniczone prawo wykonywania zawodu dentysty”. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski Na podstawie art. 22 ust. 2 pkt 10 ustawy z dnia 7września 1991 r. o systemie oświaty (Dz. U. z 1996 r. 67, poz. 329, z póên. zm.
+2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określa, w drodze rozporządzenia, sposób, warunki i tryb wydawania zgód na prowadzenie szkolenia podyplomowego lekarzy i lekarzy stomatologów, o których mowa w ust. 1, oraz zasady prowadzenia rejestru udzielonych zgód, uwzględniając w szczególności wymagania dotyczące sposobu realizacji programu kształcenia, kadry prowadzącej kształcenie, bazy dydaktycznej, w tym szkolenia praktycznego, rodzaju i liczby udzielanych świadczeń zdrowotnych oraz posiadania wewnętrznego systemu oceny jakości kształcenia. ” ;
+
+- **14)** art. 20a i 20b otrzymują brzmienie: „
+
+**Art. 20a.**
+
+1. Lekarz będący obywatelem państwa członkowskiego Unii Europejskiej i posiadający dokumenty, o których mowa w art. 16a, ma prawo do używania określonych tytułów specjalisty w danej dziedzinie medycyny, uzyskiwanych w Rzeczypospolitej Polskiej.
+
+2. Minister właściwy do spraw zdrowia ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz specjalności lekarskich i lekarsko-dentystycznych uzyskiwanych w państwach członkowskich Unii Europejskiej, które odpowiadają specjalnościom uzyskiwanym w Rzeczypospolitej Polskiej, uwzględniając oryginalne brzmienie nazw tych specjalności wynikające z przepisów obowiązujących w Unii Europejskiej.
+
+1. Lekarz, lekarz dentysta będący obywatelem państwa członkowskiego Unii Europejskiej ma prawo, z zastrzeżeniem ust. 2, posługiwać się na terytorium Rzeczypospolitej Polskiej oryginalnym tytułem lub jego skrótem uzyskanym w toku kształcenia akademickiego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej w przypadku gdy tytuł ten nie jest tożsamy z posiadanym przez tego lekarza, lekarza dentystę tytułem zawodowym.
+
+2. Okręgowa rada lekarska może wymagać, aby tytuł uzyskany w toku kształcenia akademickiego przez lekarza, lekarza dentystę używany był wraz ze wskazaniem nazwy i siedziby instytucji, która ten tytuł przyznała.
+
+3. Jeżeli tytuł uzyskany w toku kształcenia akademickiego przez lekarza, lekarza dentystę będącego obywatelem państwa członkowskiego Unii Europejskiej jest tożsamy z tytułem, do używania którego jest wymagane w Rzeczypospolitej Polskiej odbycie dodatkowego szkolenia, którego lekarz ten nie posiada, okręgowa rada lekarska może określić brzmienie tego tytułu, którym lekarz może się posługiwać na terytorium Rzeczypospolitej Polskiej. ” ;
+
+- **15)** w art. 43 ust. 2 i 3 otrzymują brzmienie: „
+
+2. W uzasadnionych przypadkach lekarz, z wyłączeniem lekarza dentysty, może uzależnić wystawienie karty zgonu od przeprowadzenia sekcji zwłok.
+
+3. Lekarz, z wyłączeniem lekarza dentysty, może wystawić kartę zgonu na podstawie dokumentacji badania pośmiertnego, przeprowadzonego przez innego lekarza lub inną uprawnioną osobę. ” ;
+
+- **16)** w art. 57 w ust. 1 wyrazy „art. 9 pkt 1 i 2” zastępuje się wyrazami „art. 9 ust. 1 pkt 1 i 2”;
+- **17)** w art. 63 w ust. 2 wyrazy „art. 6 ust. 3” zastępuje się wyrazami „art. 6 ust. 7”;
+- **18)** art. 63a otrzymuje brzmienie: „
+
+**Art. 63a.**
+
+1. Warunku, o którym mowa w art. 5 ust. 3 pkt 2, nie stosuje się do osób kończących staż podyplomowy przed dniem 1 października 2004 r.
+
+2. Egzaminu państwowego, o którym mowa w art. 15 ust. 3, nie przeprowadza się do dnia 30 września 2004 r. ” .
+
+**Art. 2.** W ustawie z dnia 6 września 2001 r. o zmianie ustawy o zawodzie lekarza oraz o zmianie innych ustaw (Dz. U. Nr 126, poz. 1383 i Nr 154, poz. 1801) w art. 8 wyrazy „pkt 6 lit. a) i b)” zastępuje się wyrazami „pkt 6 lit. a) i b) w zakresie dotyczącym art. 7 ust. 2”.
+
+**Art. 3.** Ilekroć w przepisach obowiązujących jest mowa o „lekarzu stomatologu”, należy przez to rozumieć lekarza dentystę.
+
+**Art. 4.** Dokumenty i zaświadczenia wydane lub wystawione przez lekarza stomatologa na podstawie dotychczasowych przepisów są równoważne z wydanymi lub wystawionymi przez lekarza dentystę. Osoby, które nabyły uprawnienia do tytułu zawodowego lekarza stomatologa na podstawie dotychczasowych przepisów, w tym również na podstawie art. 62 ustawy wymienionej w art. 1 niniejszej ustawy, używają tytułu zawodowego lekarza dentysty. Wydane przed wejściem w życie ustawy dokumenty „Prawo wykonywania zawodu lekarza stomatologa” i „Ograniczone prawo wykonywania zawodu lekarza stomatologa” są równoważne z dokumentami „Prawo wykonywania zawodu lekarza dentysty” i „Ograniczone prawo wykonywania zawodu lekarza dentysty”.
+
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że przepisy art. 1 pkt 1–7, 9, 10, 11 lit. a, pkt 12, 14 i 15 oraz art. 2–6 stosuje się z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 

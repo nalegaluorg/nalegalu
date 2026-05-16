@@ -8,9 +8,10 @@ pos: 1453
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 149 — 10098 1453
+# Ustawa z dnia 24 lipca 2003 r. o spłacie pożyczek udzielonych w 2000 r. kasom chorych z budżetu państwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +25,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031491453) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1453/text.pdf) |
 
-USTAWA zdnia 24 lipca ospłacie pożyczek udzielonych w2000
-
-**Art. 1.** Pożyczki udzielone w2000 r. kasom chorych zbudżetu państwa na podstawie art. 169iustawy zdnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153, zpóên. zm. ) podlegają wraz z oprocentowaniem w całości zwrotowi nie póêniej niż do dnia 31 marca 2007 r.
+**Art. 1.** Pożyczki udzielone w 2000 r. kasom chorych z budżetu państwa na podstawie art. 169i ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153, z późn. zm.) podlegają wraz z oprocentowaniem w całości zwrotowi nie później niż do dnia 31 marca 2007 r.
 
 **Art. 2.**
 
-1. Spłata pożyczek wraz zoprocentowaniem następuje w ratach z przychodów dłużnika, z wyłączeniem dotacji przekazywanych zbudżetu państwa. ———————
+1. Spłata pożyczek wraz z oprocentowaniem następuje w ratach z przychodów dłużnika, z wyłączeniem dotacji przekazywanych z budżetu państwa.
 
+2. W celu zabezpieczenia wierzytelności, które wynikają z umów pożyczek. Skarb Państwa reprezentowany przez ministra właściwego do spraw budżetu może żądać zabezpieczenia w postaci weksla lub aktu notarialnego, w którym dłużnik oświadcza, że podda się egzekucji na rzecz Skarbu Państwa.
+
+**Art. 3.**
+
+1. Warunki spłaty pożyczki określa umowa zawarta między dłużnikiem a ministrem właściwym do spraw budżetu.
+
+2. Umowa, o której mowa w ust. 1, określa w szczególności wysokość oprocentowania pożyczki, wysokość rat oraz termin zwrotu pożyczki.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,9 +8,10 @@ pos: 405
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Art. 47—62. (pomini´te).
+# Wyrok Trybunału Konstytucyjnegoz dnia 26 marca 2007 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070590405) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/405/text.pdf) |
 
-Rozdzia∏ 10 Przepisy przejÊciowe i koƒcowe
-
-**Art. 63.** Wokresie 3 lat od dnia wejÊcia w˝ycie niniejszej ustawy, w celu stwierdzenia, czy planowana pomoc dla przedsi´biorcy jest pomocà de minimis, podmiot udzielajàcy pomocy bierze pod uwag´ sum´:
-
-**Art. 64.** Z dniem wejÊcia w ˝ycie niniejszej ustawy post´powania o wydanie opinii przez Prezesa Urz´du prowadzone w trybie art. 24 lub 25 ustawy, o której mowa w art. 71, ulegajà umorzeniu.
-
-**Art. 65.** Je˝eli akty normatywne, o których mowa wart. 6 ust. 2, nie sà programami pomocowymi, podÊci i nadzorowaniu pomocy publicznej dla przedsi´biorców (Dz. U. 189, poz. 1850) traci moc po up∏ywie 3 lat od dnia wejÊcia w ˝ycie niniejszej ustawy, ztym ˝e do pomocy publicznej, októrej mowa wart. 2 ust. 1 tej ustawy, stosuje si´ przepisy niniejszej ustawy o pomocy indywidualnej, zastrze˝eniem ust. 2. 2. Pomoc publiczna udzielana zgodnie warunkami okreÊlonymi w rozporzàdzeniach wydanych na podstawie art. 2 ust. 2 ustawy wymienionej w ust. 1, spe∏niajàcych przes∏anki okreÊlone dla programów pomocowych i co do których Komisja wyda∏a decyzj´ o zgodnoÊci ze wspólnym rynkiem, nie podlega notyfikacji. 3. Do dnia 1 maja 2007 r. Rada Ministrów mo˝e, w drodze rozporzàdzeƒ, ustanawiaç programy pomocowe w zakresie pomocy publicznej udzielanej na podstawie ustaw odr´bnych, uwzgl´dniajàc w szczególnoÊci potrzeby rozwoju gospodarki oraz koniecznoÊç zapewnienia zgodnoÊci tej pomocy ze wspólnym rynkiem.
-
-**Art. 71.** Traci moc ustawa dnia 27 lipca 2002 r. o warunkach dopuszczalnoÊci i nadzorowaniu pomocy publicznej dla przedsi´biorców (Dz. U. 141, poz. 1177 oraz 2003 r. 159, poz. 1537, 188, poz. 1840, 189, poz. 1850 i 228, poz. 2261).
-
-**Art. 72.** Ustawa wchodzi w ˝ycie dniem og∏oszenia . ——————— ——————— WYROK TRYBUNA¸U KONSTYTUCYJNEGO dnia 26 marca 2007 r. sygn. akt K 29/06 Trybuna∏ Konstytucyjny w sk∏adzie: Miros∏aw Wyrzykowski, Wojciech Hermeliƒski przewodniczàcy, Jerzy Ciemniewski, Marek Mazurkiewicz sprawozdawca, Janusz Niemcewicz, po rozpoznaniu, udzia∏em wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 26 marca 2007 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodnoÊci art. 21a ust. 1 ISSN 0867-3411 Cena 4,30 z∏
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Wojciech Hermeliński – przewodniczący, Jerzy Ciemniewski, Marek Mazurkiewicz – sprawozdawca, Janusz Niemcewicz, Mirosław Wyrzykowski, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 26 marca 2007 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 21a ust. 1 pkt 4 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, ze zm.) z art. 20, art. 22 i art. 32 Konstytucji, orzeka: Art. 21a ust. 1 pkt 4 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462 oraz z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775) jest niezgodny z art. 20, art. 22 i art. 32 Konstytucji Rzeczypospolitej Polskiej.
 

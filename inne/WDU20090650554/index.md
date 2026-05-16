@@ -8,9 +8,10 @@ pos: 554
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Teresa Liszcz przewodniczący, Zbigniew Cieślak, Marek Kotlinowski, Marek Mazurkiewicz sprawozdawca, Andrzej Rzepliński, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie dniu 21 kwietnia 2009 r., wniosku Rzecznika Praw I
+# Wyrok Trybunału Konstytucyjnegoz dnia 21 kwietnia 2009 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090650554) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/554/text.pdf) |
 
-Art. 85 ust. 7ustawy zdnia 12 marca 2004 r. opomocy społecznej (Dz. U. z 2008 r. Nr 115, poz. 728, Nr171, poz. 1056, Nr 216, poz. 1367 i Nr 223, poz.1458 oraz z 2009 r. Nr 6, poz. 33) jest niezgodny z art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
-II Przepis wymieniony części I wyroku traci moc obowiązującą z upływem 12 (dwunastu) miesięcy od dnia ogłoszenia wyroku wDzienniku Ustaw Rzeczypospolitej Polskiej.
-Obywatelskich zbadanie zgodności art. 85 ust.7 Teresa Liszcz ustawy z dnia 12 marca 2004 r. pomocy społecznej (Dz. U. Nr 64, poz. 593, ze zm.) zart. 92 ust.1Konsty- Zbigniew Cieślak Marek Kotlinowski tucji, Marek Mazurkiewicz Andrzej Rzepliński
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Teresa Liszcz – przewodniczący, Zbigniew Cieślak, Marek Kotlinowski, Marek Mazurkiewicz – sprawozdawca, Andrzej Rzepliński, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 21 kwietnia 2009 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 85 ust. 7 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, ze zm.) z art. 92 ust. 1 Konstytucji, orzeka: I Art. 85 ust. 7 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2008 r. Nr 115, poz. 728, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 223, poz. 1458 oraz z 2009 r. Nr 6, poz. 33) jest niezgodny z art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej. II Przepis wymieniony w części I wyroku traci moc obowiązującą z upływem 12 (dwunastu) miesięcy od dnia ogłoszenia wyroku w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 

@@ -8,9 +8,10 @@ pos: 2210
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2016 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 13 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,35 +25,60 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002210) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2210/text.pdf) |
 
-WYROK TRYBUNAŁU KONSTYTUCYJNEGO dnia 13 grudnia 2016 r.
-sygn. akt K 13/16 Trybunał Konstytucyjny składzie: Andrzej Rzepliński przewodniczący, Leon Kieres, Stanisław Rymar, Piotr Tuleja, Marek Zubik sprawozdawca, po rozpoznaniu, udziałem wnioskodawców, na rozprawie dniu 13 grudnia 2016 r., połączonych wniosków:
-1) Rzecznika Praw Obywatelskich o zbadanie zgodności:
-a) pkt 2 lit. a 2 i 4 dnia 30 grudnia 2015 r. o zmianie o radiofonii i telewizji (Dz. U. 2016 r. poz. 25) zakresie, jakim skraca rozpoczętą kadencję zarządu spółki, 2 związku 14 Konstytucji, pkt 2 lit. b lit. a, zakresie nadającym brzmienie 27 3 dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. 2015 r. poz. 1531, ze zm.), 213 14, 54 1, 61 i 31 3 Konstytucji oraz 10 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej Rzymie dnia 4 listopada 1950 r. (Dz. U. 1993 r. Nr 61, poz. 284, ze zm.) i 11 Karty praw podstawowych Unii Europejskiej (Dz. Urz. UE C 326 26.10.2012, s. 391),
-c) pkt 3 lit. c lit. a zakresie, jakim do lit. b dodaje 28 1e, 213 14, 54 1, 61 i 31 3 Konstytucji oraz 10 Konwencji o ochronie praw człowieka i podstawowych wolności i 11 Karty praw podstawowych Unii Europejskiej,
-d) pkt 3 lit. d 2 i 4 lit. a zakresie, jakim skraca rozpoczętą kadencję rady nadzorczej, 2 14 Konstytucji,
-e) 3 lit. a 2 Konstytucji,
-f) 4 lit. a zakresie, jakim nie przewiduje odpowiedniej vacatio legis, 2 Konstytucji,
-2) grupy posłów o zbadanie zgodności lit. a 2 10, 14, 54 albo o zbadanie zgodności:
-a) pkt i pkt 3 lit. a–d lit. a 2, 10, 14, 54 31 3 i 213 Konstytucji oraz 10 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności, pkt 2 lit. a–c lit. a, nadającego nowe brzmienie 27 lit. b, 2, 10, 14, 54 31 213 Konstytucji oraz 10 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności,
-c) pkt 4 i 2 4 i 5 lit. a 2, 10, 54 31 3 i 213 Konstytucji oraz 10 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności,
-d) pkt 5 pkt 2 lit. b lit. a, nadających nowe brzmienie 30 3 i 27 3 lit. b, 2, 10, 14, 54 31 3 i 213 Konstytucji oraz 10 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności,
-e) 2 1–3 lit. a 2, 7, 10, 14, 54 31 3 i 213 Konstytucji oraz 10 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności,
-f) 3 lit. a 2, 64 31 3 Konstytucji,
-g) 4 lit. a 2 Konstytucji, orzeka:
-1. Art. pkt dnia 30 grudnia 2015 r. o zmianie o radiofonii i telewizji (Dz. U. 2016 r. poz. 25 i 929) jest zgodny 213 14 i 54 Konstytucji.
-2. Art. pkt 2 lit. a jest zgodny 213 14 i 54 Konstytucji.
-3. Art. pkt 2 lit. b zakresie, jakim 27 3 dnia 29 grudnia 1992 r.
-o radiofonii i telewizji (Dz. U. 2015 r. poz. 1531 i 1830) wyłącza udział Krajowej Rady Radiofonii i Telewizji procedurze powoływania i odwoływania członków zarządu spółek publicznej radiofonii i telewizji, jest niezgodny 213 14 i 54 Konstytucji.
-4. Art. pkt 2 lit. c 1:
-a) zakresie, jakim uchyla 27 5 29 grudnia 1992 r. jest zgodny 213 14 i 54 Konstytucji, zakresie, jakim uchyla 27 6 29 grudnia 1992 r. jest niezgodny 213 14 i 54 Konstytucji.
-5. Art. pkt 3 lit. a 1:
-a) zakresie, jakim 28 29 grudnia 1992 r. 3 uchyla konkursowy tryb wyłaniania członków rad nadzorczych spółek publicznej radiofonii i telewizji oraz kryteria, jakie spełniać mają kandydaci na członków tych organów, i redukuje liczbę członków rad nadzorczych do trzech osób, jest zgodny 213 14 i 54 Konstytucji, zakresie, jakim 28 29 grudnia 1992 r. wyłącza udział Krajowej Rady Radiofonii i Telewizji procedurze powoływania i odwoływania członków rad nadzorczych spółek publicznej radiofonii i telewizji, jest niezgodny 213 14 i 54 Konstytucji.
-6. Art. pkt 3 lit. b 1:
-a) zakresie, jakim uchyla 28 1b i 1c 29 grudnia 1992 r. jest zgodny 213 14 i 54 Konstytucji,
-7. Art. pkt 3 lit. d jest zgodny 213 14 i 54 Konstytucji.
-8. Art. pkt 4 1, uchylający 29 3 29 grudnia 1992 r.
-jest niezgodny 213 14 i 54 Konstytucji.
-Ponadto postanawia: na podstawie 40 pkt i 3 dnia 22 lipca 2016 r. o Trybunale Konstytucyjnym (Dz. U. poz. 1157) umorzyć postępowanie pozostałym zakresie.
-Orzeczenie zapadło jednomyślnie.
-Andrzej Rzepliński Leon Kieres Stanisław Rymar Piotr Tuleja Marek Zubik
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Rzepliński – przewodniczący, Leon Kieres, Stanisław Rymar, Piotr Tuleja, Marek Zubik – sprawozdawca, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawców, na rozprawie w dniu 13 grudnia 2016 r., połączonych wniosków:
+1)
+Rzecznika Praw Obywatelskich o zbadanie zgodności:
+a)
+art. 1 pkt 2 lit. a w związku z art. 2 i art. 4 ustawy z dnia 30 grudnia 2015 r. o zmianie ustawy o radiofonii i telewizji (Dz. U. z 2016 r. poz. 25) w zakresie, w jakim skraca rozpoczętą kadencję zarządu spółki, z art. 2 w związku z art. 14 Konstytucji,
+b)
+art. 1 pkt 2 lit. b ustawy powołanej w punkcie 1 lit. a, w zakresie nadającym brzmienie art. 27 ust. 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2015 r. poz. 1531, ze zm.), z art. 213 ust. 1 w związku z art. 14, art. 54 ust. 1, art. 61 ust. 1 i art. 31 ust. 3 Konstytucji oraz art. 10 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. Nr 61, poz. 284, ze zm.) i art. 11 Karty praw podstawowych Unii Europejskiej (Dz. Urz. UE C 326 z 26.10.2012, s. 391),
+c)
+art. 1 pkt 3 lit. c ustawy powołanej w punkcie 1 lit. a w zakresie, w jakim do ustawy powołanej w punkcie 1 lit. b dodaje art. 28 ust. 1e, z art. 213 ust. 1 w związku z art. 14, art. 54 ust. 1, art. 61 ust. 1 i art. 31 ust. 3 Konstytucji oraz art. 10 Konwencji o ochronie praw człowieka i podstawowych wolności i art. 11 Karty praw podstawowych Unii Europejskiej,
+d)
+art. 1 pkt 3 lit. d w związku z art. 2 i art. 4 ustawy powołanej w punkcie 1 lit. a w zakresie, w jakim skraca rozpoczętą kadencję rady nadzorczej, z art. 2 w związku z art. 14 Konstytucji,
+e)
+art. 3 ustawy powołanej w punkcie 1 lit. a z art. 2 Konstytucji,
+f)
+art. 4 ustawy powołanej w punkcie 1 lit. a w zakresie, w jakim nie przewiduje odpowiedniej vacatio legis , z art. 2 Konstytucji,
+2)
+grupy posłów o zbadanie zgodności ustawy powołanej w punkcie 1 lit. a z art. 2 w związku z art. 10, art. 14, art. 54 ust. 1 w związku z art. 31 ust. 3, art. 119 ust. 1 i art. 213 ust. 1 Konstytucji oraz art. 10 ust. 1 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności,
+albo o zbadanie zgodności:
+a)
+art. 1 pkt 1 i pkt 3 lit. a-d ustawy powołanej w punkcie 1 lit. a z art. 2, art. 10, art. 14, art. 54 ust. 1 w związku z art. 31 ust. 3 i art. 213 ust. 1 Konstytucji oraz art. 10 ust. 1 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności,
+b)
+art. 1 pkt 2 lit. a-c ustawy powołanej w punkcie 1 lit. a, nadającego nowe brzmienie art. 27 ustawy powołanej w punkcie 1 lit. b, z art. 2, art. 10, art. 14, art. 54 ust. 1 w związku z art. 31 ust. 3, art. 213 ust. 1 Konstytucji oraz art. 10 ust. 1 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności,
+c)
+art. 1 pkt 4 i art. 2 ust. 4 i 5 ustawy powołanej w punkcie 1 lit. a z art. 2, art. 10, art. 54 ust. 1 w związku z art. 31 ust. 3 i art. 213 ust. 1 Konstytucji oraz art. 10 ust. 1 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności,
+d)
+art. 1 pkt 5 w związku z art. 1 pkt 2 lit. b ustawy powołanej w punkcie 1 lit. a, nadających nowe brzmienie art. 30 ust. 3 i art. 27 ust. 3 ustawy powołanej w punkcie 1 lit. b, z art. 2, art. 10, art. 14, art. 54 ust. 1 w związku z art. 31 ust. 3 i art. 213 ust. 1 Konstytucji oraz art. 10 ust. 1 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności,
+e)
+art. 2 ust. 1–3 w związku z art. 1 ustawy powołanej w punkcie 1 lit. a z art. 2, art. 7, art. 10, art. 14, art. 54 ust. 1 w związku z art. 31 ust. 3 i art. 213 ust. 1 Konstytucji oraz art. 10 ust. 1 i 2 Konwencji o ochronie praw człowieka i podstawowych wolności,
+f)
+art. 3 ustawy powołanej w punkcie 1 lit. a z art. 2, art. 64 ust. 1 w związku z art. 31 ust. 3 Konstytucji,
+g)
+art. 4 ustawy powołanej w punkcie 1 lit. a z art. 2 Konstytucji,
+orzeka:
+1.
+Art. 1 pkt 1 ustawy z dnia 30 grudnia 2015 r. o zmianie ustawy o radiofonii i telewizji (Dz. U. z 2016 r. poz. 25 i 929) jest zgodny z art. 213 ust. 1 w związku z art. 14 i art. 54 ust. 1 Konstytucji.
+2.
+3.
+4.
+a)
+w zakresie, w jakim uchyla art. 27 ust. 5 ustawy z 29 grudnia 1992 r. powołanej w punkcie 3, jest zgodny z art. 213 ust. 1 w związku z art. 14 i art. 54 ust. 1 Konstytucji,
+b)
+w zakresie, w jakim uchyla art. 27 ust. 6 ustawy z 29 grudnia 1992 r. powołanej w punkcie 3, jest niezgodny z art. 213 ust. 1 w związku z art. 14 i art. 54 ust. 1 Konstytucji.
+5.
+a)
+w zakresie, w jakim w art. 28 ust. 1 ustawy z 29 grudnia 1992 r. powołanej w punkcie 3 uchyla konkursowy tryb wyłaniania członków rad nadzorczych spółek publicznej radiofonii i telewizji oraz kryteria, jakie spełniać mają kandydaci na członków tych organów, i redukuje liczbę członków rad nadzorczych do trzech osób, jest zgodny z art. 213 ust. 1 w związku z art. 14 i art. 54 ust. 1 Konstytucji,
+b)
+w zakresie, w jakim w art. 28 ust. 1 ustawy z 29 grudnia 1992 r. powołanej w punkcie 3, wyłącza udział Krajowej Rady Radiofonii i Telewizji w procedurze powoływania i odwoływania członków rad nadzorczych spółek publicznej radiofonii i telewizji, jest niezgodny z art. 213 ust. 1 w związku z art. 14 i art. 54 ust. 1 Konstytucji.
+6.
+a)
+w zakresie, w jakim uchyla art. 28 ust. 1b i 1c ustawy z 29 grudnia 1992 r. powołanej w punkcie 3, jest zgodny z art. 213 ust. 1 w związku z art. 14 i art. 54 ust. 1 Konstytucji,
+b)
+w zakresie, w jakim uchyla art. 28 ust. 1d ustawy z 29 grudnia 1992 r. powołanej w punkcie 3, jest niezgodny z art. 213 ust. 1 w związku z art. 14 i art. 54 ust. 1 Konstytucji.
+7.
+8.
+Ponadto postanawia: na podstawie art. 40 ust. 1 pkt 1 i 3 ustawy z dnia 22 lipca 2016 r. o Trybunale Konstytucyjnym (Dz. U. poz. 1157) umorzyć postępowanie w pozostałym zakresie. Orzeczenie zapadło jednomyślnie.
 

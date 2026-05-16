@@ -8,9 +8,10 @@ pos: 167
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 116, poz. 1216, 120, poz. 1268 iNr 122, poz. 1315) poz.245, z1997 r. 140, poz. 939, z1998 r. 106, wart.299 w§ 3 wpkt 3 kropkę na końcu zastępuje się poz. 668 oraz z2001 r. 16, poz. 166).” przecinkiem idodaje się pkt 4 wbrzmieniu:
+# Ustawa z dnia 3 lutego 2001 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego i ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +25,31 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010160167) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/167/text.pdf) |
 
-**Art. 3.** Ustawa wchodzi w życie upływie 14 dni Ń4) ministrowi właściwemu do spraw wewnętrznych od dnia ogłoszenia. w celu realizacji zadań, o których mowa w art. 1 ust. 1, art. 3e oraz w art. 8 ust. 4 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 1996 r. 54, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 3 lutego 2001 r. ozmianie ustawy oniektórych formach popierania budownictwa mieszkaniowego iustawy oporęczeniach igwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne.
+**Art. 1.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070i z 2001 r. Nr 4, poz. 27) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 26 paêdziernika 1995 r. oniektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. 98, poz. 1070 z 2001 r. 4, poz. 27)wprowadza się następujące zmiany:
+**Art. 21b.**
 
-**Art. 2.** W ustawie z dnia 8 maja 1997 r. o poręcze- wart.14 ust. 3, następuje ze środków niach gwarancjach udzielanych przez Skarb Państwa Krajowego Funduszu Mieszkanioweoraz niektóre osoby prawne (Dz. U. 79, poz. 484 go w Banku Gospodarstwa Krajowe80, poz. 511 oraz z 2000 r. 48, poz. 550, 60, go. poz.693 iNr 86, poz. 958) wprowadza się następujące zmiany: 2. Minister właściwy do spraw finansów publicznych wykonuje czynności
+1. Ze środków Funduszu mogą być dokonywane dopłaty do odsetek od kredytu udzielonego na zasadach określonych w art. 19 i 20, jeżeli kredyt ten został udzielony:
 
-**Art. 3.** Ustawa wchodzi w życie upływie 14 dni Ń2. Przepisu ust. 1 nie stosuje się do poręczeń, od dnia ogłoszenia. októrych mowa wart. 7 ust. 4.”;
+- **1)** ze środków Funduszu na cele wskazane w art. 18 pkt 1 lub 3, a wierzytelność z tego tytułu została sprzedana przez Bank Gospodarstwa Krajowego bankowi hipotecznemu,
+- **2)** z własnych środków przez inny bank na cele wskazane w art. 18 pkt 3 – na podstawie umowy zawartej z Bankiem Gospodarstwa Krajowego.
 
-**Art. 1.**
+2. Dopłata do odsetek od kredytu nie może być większa, niż wynosi różnica pomiędzy wysokością odsetek wynikającą z umowy, o której mowa w ust. 1, a odsetkami naliczonymi według stopy oprocentowania kredytu określonej w przepisach wydanych na podstawie art. 19 ust. 4.
 
-1. Utwory Fryderyka Chopina przedmioty znim związane stanowią dobro ogólnonarodowe podlegające szczególnej ochronie. Nazwisko Fryderyka Chopina jego wizerunek są chronione odpowiednio
+3. Dopłaty dokonywane są pod warunkiem spłacania przez kredytobiorcę zadłużenia w sposób i w wysokości ustalonych w przepisach wydanych na podstawie art. 19 ust. 4.
 
-2. Pieczę nad dobrami wymienionymi w ust. 1 sprawuje minister właściwy do spraw kultury iochrony dziedzictwa narodowego, zwany dalej Ńminina zasadach dotyczących dóbr osobistych. strem”.
+4. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw gospodarki przestrzennej i mieszkaniowej, określi, w drodze rozporządzenia:
 
+- **1)** warunki i tryb dokonywania dopłat do odsetek od kredytów, o których mowa w ust. 1,
+- **2)** przesłanki zawierania umów, o których mowa w ust. 1, oraz ich warunki. ”
+
+**Art. 2.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. Nr 79, poz. 484i Nr 80, poz. 511oraz z 2000 r. Nr 48, poz. 550, Nr 60, poz. 693i Nr 86, poz. 958) wprowadza się następujące zmiany:
+
+**Art. 43a.**
+
+1. Spłata zobowiązań wobec Skarbu Państwa powstałych z tytułu wykonania umowy poręczenia lub gwarancji, o których mowa w art. 7 ust. 4, lub z tytułu poręczenia, o którym mowa w art. 14 ust. 3, następuje ze środków Krajowego Funduszu Mieszkaniowego w Banku Gospodarstwa Krajowego.
+
+2. Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania umowy poręczenia lub gwarancji, o których mowa w art. 7 ust. 4, lub z tytułu poręczenia, o którym mowa w art. 14 ust. 3, dochodząc spłaty tych kwot jedynie ze środków Krajowego Funduszu Mieszkaniowego. ”
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

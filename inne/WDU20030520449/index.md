@@ -8,11 +8,12 @@ pos: 449
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# ostopniach górniczych, honorowych szpadach górniczych imundurach górniczych
+# stopniach górniczych, honorowych szpadach górniczych mundurach górniczych Ustawa reguluje zasady, warunki tryb przyznawania stopni górniczych, honorowych szpad górniczych mundurów górniczych.
 
-*USTAWA zdnia 14 lutego 2003 r.*
+*USTAWA z dnia 14 lutego 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,87 +27,76 @@ domain: null
 | Ostatnia zmiana | 2024-07-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030520449) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/449/text.pdf) |
 
-**Art. 1.** Ustawa reguluje zasady, warunki itryb przyznawania stopni górniczych, honorowych szpad górniczych imundurów górniczych.
-
-**Art. 2.** Stopnie górnicze oraz honorowe szpady górnicze są honorowymi wyróżnieniami pracowników górnictwa oraz innych osób mających zasługi dziedzinie górnictwa, przyznawanymi wszczególności pracownikom:
-
-**Art. 3.** Stopniami górniczymi nadawanymi pracow- c) III stopnia. nikom górnictwa oraz innym osobom wyróżniającym się wdziedzinie górnictwa są: Art. 4. 1. Stopnie generalnego dyrektora górniczego i dyrektora górniczego mogą być nadawane oso1) generalny dyrektor górnictwa; bom posiadającym wyższe wykształcenie.
-
-**Art. 5.**
-
-1. Stopień górniczy generalnego honorowego dyrektora górniczego nadawany jest osobom za szczególne zasługi wdziedzinie górnictwa.
-
-2. Warunkiem nadania stopnia górniczego, o którym mowa wart. 3 pkt 1 i2 oraz pkt 4—7, są:
-
-- **1)** szczególne osiągnięcia pracy górniczej lub wdziedzinie górnictwa;
-- **2)** posiadanie odpowiedniego wykształcenia lub kwalifikacji, określonych wart. 4;
-- **3)** zajmowanie odpowiedniego stanowiska służbowego lub pełnienie funkcji związanej z zawodem górniczym, określonych rozporządzeniu, o którym mowa wart. 15 ustawy.
-
-**Art. 6.**
-
-1. Stopień generalnego dyrektora górnictwa przysługuje ministrowi właściwemu do spraw gospodarki oraz sekretarzowi stanu ministerstwie właściwym do spraw gospodarki odpowiedzialnemu za sprawy górnictwa i jest nadawany przez Prezesa Rady Ministrów.
-
-2. Stopień generalnego dyrektora górnictwa przysługuje Prezesowi Wyższego Urzędu Górniczego, Głównemu Geologowi Kraju oraz podsekretarzom stanu ministerstwach zajmujących się bezpośrednio problematyką górnictwa. Stopień ten jest nadawany, na wniosek ministra właściwego do spraw gospodarki, przez Prezesa Rady Ministrów.
-
-**Art. 7.**
-
-1. Minister właściwy do spraw gospodarki, na wniosek kierownika jednostki organizacyjnej działającej wdziedzinie górnictwa, nadaje następujące stopnie górnicze:
-
-- **1)** generalnego dyrektora górnictwa;
-- **2)** generalnego honorowego dyrektora górniczego;
-- **3)** dyrektora górniczego.
-
-2. Kierownik jednostki organizacyjnej dziedzinie górnictwa nadaje pozostałe stopnie górnicze.
-
-3. Wniosek onadanie stopnia górniczego, októrym mowa wust. 1 i2, powinien zawierać:
-
-- **1)** informacje oosobie, wstosunku do której występuje się zwnioskiem onadanie tego stopnia, określające: imię inazwisko, datę imiejsce urodzenia, wykształcenie, aktualne miejsce zatrudnienia izajmowane stanowisko, przebieg pracy górnictwie, posiadany stopień górniczy idatę jego nadania;
-- **2)** uzasadnienie.
-
-**Art. 8.**
-
-1. Nadanie stopnia górniczego następuje przez wręczenie dyplomu.
-
-- **3)** rodzaj stopnia górniczego;
-- **4)** datę nadania inumer dyplomu;
-- **5)** podpis ipieczęć organu nadającego stopień górniczy.
-
-**Art. 9.** Utrata stopnia górniczego następuje wprzypadku prawomocnego orzeczenia pozbawienia praw publicznych.
-
-**Art. 10.** Osoba posiadająca stopień górniczy ma prawo noszenia:
-
-**Art. 11.**
-
-1. Mundur górniczy jest symbolem przynależności do górniczego stanu, wyrazem tradycji iszczególnego uznania dla ciężkiej i odpowiedzialnej pracy górniczej.
-
-2. Osoby posiadające uroczysty mundur górniczy uprawnione są do jego noszenia podczas:
-
-- **1)** świąt państwowych;
-- **2)** Dnia Górnika;
-- **3)** uroczystości dekoracji orderami, odznaczeniami państwowymi iodznakami;
-- **4)** uroczystości nadania stopnia górniczego i wręczenia honorowej szpady górniczej;
-- **5)** innych uroczystości, ceremonii i wystąpień ważnych dla środowiska górniczego.
-
-3. Osoby posiadające służbowy mundur górniczy są upoważnione do noszenia go podczas wykonywania czynności służbowych.
-
-**Art. 12.** Na uroczystych mundurach górniczych nosi się posiadane ordery, odznaczenia państwowe iodznaki, ana służbowych mundurach górniczych baretki tych orderów iodznaczeń.
-
-**Art. 13.**
-
-1. Zakup munduru górniczego, płaszcza oraz czaka może być finansowany przez jednostkę występującą z wnioskiem o nadanie stopnia górniczego, wysokości do 67% kosztów ich zakupu, o ile osoba posiadająca taki stopień oto wystąpi.
-
-2. Osoba posiadająca stopień górniczy może uzyskać finansowanie, o którym mowa ust. 1, nie częściej niż raz na 7 lat.
-
-**Art. 14.**
-
-1. Honorowa szpada górnicza przyznawana jest osobom zatrudnionym przemyśle wydobywczym oraz pracownikom innych środowisk związanych
-
-2. Dyplom, o którym mowa ust. 1, powinien za- z górnictwem przez kierownika jednostki działającej wierać: wdziedzinie górnictwa.
-
-- **1)** nazwę organu nadającego stopień górniczy; 2. Honorowa szpada górnicza przyznawana jest
-- **2)** imię i nazwisko oraz datę urodzenia osoby otrzy- bezpłatnie, a koszty z tym związane ponosi jednostka mującej stopień; organizacyjna, októrej mowa wust. 1.
-
-**Art. 15.** Minister właściwy do spraw gospodarki, Art. 16. Osoby, którym nadano stopnie górnicze wdrodze rozporządzenia, określi: oraz przyznano honorowe szpady górnicze przed
-
-**Art. 1.** Wustawie zdnia 24 kwietnia 1997 r. ozwalczaniu chorób zakaênych zwierząt, badaniu zwierząt rzeênych i mięsa oraz o Inspekcji Weterynaryjnej (Dz. U. z 1999 r. 66, poz. 752, z 2001 r. 29, poz. 320, 123, poz. 1350 i 129, poz. 1438 oraz z2002 r. 112, poz. 976) wprowadza się następujące zmiany:
+Stopnie górnicze honorowe górnicze są honorowymi wyróżnieniami pracowników górnictwa innych osób mających zasługi dziedzinie górnictwa, przyznawanymi szczególności pracownikom:
+1) zatrudnionym przy wykonywaniu prac geologicznych, wydobywaniu kopalin ze złóż ich przerobie, a także przy ochronie złóż kopalin, wód podziemnych przy budowie obiektów jednostek działających dziedzinie górnictwa;
+3) urzędów górniczych, jednostek szkolnictwa instytutów naukowo-badawczych prowadzących działalność naukową dydaktyczną dziedzinie nauk górniczych, geologicznych geofizycznych.
+3. Stopniami górniczymi nadawanymi pracownikom górnictwa innym osobom wyróżniającym się dziedzinie górnictwa są:
+1) generalny dyrektor górnictwa;
+generalny dyrektor górniczy:
+a) I stopnia,
+b) II stopnia,
+c) III stopnia;
+3) generalny honorowy dyrektor górniczy;
+4) dyrektor górniczy:
+b) II stopnia,
+c) III stopnia;
+6) technik górniczy:
+a) I stopnia,
+b) II stopnia,
+c) III stopnia;
+7) górnik:
+a) I stopnia,
+b) II stopnia,
+c) III stopnia.
+4. Stopnie górniczego górniczego mogą być nadawane osobom posiadającym wyższe wykształcenie.
+Stopnie inżyniera górniczego mogą być nadawane osobom posiadającym wyższe wykształcenie.
+3. Stopnie technika górniczego mogą być nadawane osobom posiadającym wykształcenie średnie lub średnie branżowe.
+4. Stopnie górnika mogą być nadawane osobom posiadającym kwalifikacje górnicze.
+5. Stopień górniczy górniczego nadawany jest osobom za szczególne zasługi dziedzinie górnictwa.
+Warunkiem nadania stopnia górniczego, którym mowa art. 3 pkt 1 2 pkt 4–7, są:
+1) szczególne osiągnięcia pracy górniczej lub dziedzinie górnictwa;
+posiadanie odpowiedniego wykształcenia lub kwalifikacji, określonych art.
+4;
+1a) ministrowi właściwemu spraw środowiska;
+sekretarzowi stanu urzędzie obsługującym ministra właściwego spraw gospodarki surowcami energetycznymi odpowiedzialnemu za sprawy górnictwa;
+3) Prezesowi Wyższego Urzędu Górniczego;
+4) Głównemu Geologowi Kraju;
+5) podsekretarzom stanu urzędach obsługujących organy administracji rządowej odpowiedzialnym za sprawy górnictwa.
+Stopień górnictwa jest nadawany przez Prezesa Rady Ministrów.
+3. W przypadku osób, których mowa ust. 1 pkt 5, Prezes Rady Ministrów nadaje stopień górnictwa na wniosek ministra właściwego spraw gospodarki surowcami energetycznymi lub ministra właściwego spraw środowiska.
+7. Minister właściwy spraw gospodarki surowcami energetycznymi, na wniosek kierownika jednostki organizacyjnej działającej dziedzinie górnictwa, nadaje następujące stopnie górnicze:
+1) górniczego;
+górniczego;
+3) górniczego.
+Kierownik jednostki organizacyjnej dziedzinie górnictwa nadaje pozostałe stopnie górnicze.
+3. Wniosek nadanie stopnia górniczego, którym mowa ust. 1 2, powinien zawierać:
+1) informacje osobie, stosunku której występuje się z wnioskiem nadanie tego stopnia, określające: imię nazwisko, datę miejsce urodzenia,
+1) nazwę organu nadającego stopień górniczy;
+imię nazwisko datę urodzenia osoby otrzymującej stopień;
+3) rodzaj stopnia górniczego;
+4) datę nadania numer dyplomu;
+5) podpis pieczęć organu nadającego stopień górniczy.
+9. Utrata stopnia górniczego następuje przypadku prawomocnego orzeczenia pozbawienia praw publicznych.
+10. Osoba posiadająca stopień górniczy ma prawo noszenia:
+1) uroczystego munduru górniczego wraz z odznakami stopnia górniczego przyznaną honorową szpadą górniczą;
+służbowego munduru górniczego wraz z odznakami stopnia górniczego.
+11. Mundur górniczy jest symbolem przynależności górniczego stanu, wyrazem tradycji szczególnego uznania dla ciężkiej odpowiedzialnej pracy górniczej.
+Osoby posiadające uroczysty mundur górniczy uprawnione są jego noszenia podczas:
+1) świąt państwowych;
+Dnia Górnika;
+3) uroczystości dekoracji orderami, odznaczeniami państwowymi odznakami;
+4) uroczystości nadania stopnia górniczego wręczenia honorowej górniczej;
+5) innych uroczystości, ceremonii wystąpień ważnych dla środowiska górniczego.
+3. Osoby posiadające służbowy mundur górniczy są upoważnione noszenia go podczas wykonywania czynności służbowych.
+górniczego, wysokości 67 % kosztów ich zakupu, ile osoba posiadająca taki stopień to wystąpi.
+Osoba posiadająca stopień górniczy może uzyskać finansowanie, którym mowa ust. 1, nie częściej niż raz na 7 lat.
+14. Honorowa szpada górnicza przyznawana jest osobom zatrudnionym przemyśle wydobywczym pracownikom innych środowisk związanych z górnictwem przez kierownika jednostki działającej dziedzinie górnictwa.
+Honorowa szpada górnicza przyznawana jest bezpłatnie, a koszty z tym związane ponosi jednostka organizacyjna, której mowa ust.
+15. Minister właściwy spraw gospodarki surowcami energetycznymi, drodze rozporządzenia, określi:
+1) wzór wniosku, którym mowa art. 7;
+wykaz stanowisk służbowych związanych z nimi stopni
+3) wzór dyplomu, którym mowa art. 8;
+4) wzory mundurów górniczych czaka wraz z wzorami odznak stopni górniczych, wzór płaszcza wzór honorowej górniczej, a także sposób ich noszenia.
+16. Osoby, którym nadano stopnie górnicze przyznano honorowe górnicze przed dniem wejścia życie niniejszej ustawy, zachowują posiadane uprawnienia.
+17. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
 

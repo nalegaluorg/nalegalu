@@ -8,9 +8,10 @@ pos: 613
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 marca 2022 r.
+# Ustawa z dnia 11 marca 2022 r. o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o Agencji Mienia Wojskowego
 
 | Pole | Wartość |
 |---|---|
@@ -24,23 +25,21 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/613/text.pdf) |
 
-Poz. 613
-USTAWA z dnia 11 marca 2022 r.
-o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o Agencji Mienia Wojskowego
+**Art. 1.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509) w art. 9 w ust. 6 pkt 4 otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509) art. 9 ust. 6 pkt 4 otrzymuje brzmienie: „4) certyfikat importowy lub oświadczenie końcowego użytkownika, przypadku wywozu lub transferu wewnątrzunijnego, z wyłączeniem przypadków:
+**Art. 2.** W ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2021 r. poz. 303 i 2122) art. 92 otrzymuje brzmienie: „
 
-**Art. 2.** W ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2021 r. poz. 303 i 2122) art. 92 otrzymuje brzmienie: „Art. 92. Minister Obrony Narodowej, na podstawie uchwały Rady Ministrów, może, bez pośrednictwa Agencji, przekazywać nieodpłatnie siłom zbrojnym państw obcych wskazanych tej uchwale produkty podwójnego zastosowania rozumieniu art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/821 z dnia 20 maja 2021 r. ustanawiającego unijny system kontroli wywozu, pośrednictwa, pomocy technicznej, tranzytu i transferu produktów podwójnego zastosowania (Dz. Urz. UE L 206 z 11.06.2021, str. 1, z późn. zm. ) i uzbrojenie rozumieniu art. 3 pkt 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa, oraz mienie ruchome Skarbu Państwa.”.
+**Art. 92.** Minister Obrony Narodowej, na podstawie uchwały Rady Ministrów, może, bez pośrednictwa Agencji, przekazywać nieodpłatnie siłom zbrojnym państw obcych wskazanych w tej uchwale produkty podwójnego zastosowania w rozumieniu art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/821 z dnia 20 maja 2021 r. ustanawiającego unijny system kontroli wywozu, pośrednictwa, pomocy technicznej, tranzytu i transferu produktów podwójnego zastosowania (Dz. Urz. UE L 206 z 11.06.2021, str. 1, z późn. zm.) i uzbrojenie w rozumieniu art. 3 pkt 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa, oraz mienie ruchome Skarbu Państwa. ” .
 
-**Art. 3.** W okresie dwóch miesięcy od dnia wejścia życie niniejszej ustawy do:
+**Art. 3.** W okresie dwóch miesięcy od dnia wejścia w życie niniejszej ustawy do:
 
-**Art. 4.** Wywóz i tranzyt, o których mowa art. 3 pkt 1, lub nabycie, o którym mowa art. 3 pkt 2, mogą być dokonane po uzyskaniu oświadczenia końcowego użytkownika potwierdzonego przez przedstawicielstwo dyplomatyczne Ukrainy Rzeczypospolitej Polskiej.
+**Art. 4.** Wywóz i tranzyt, o których mowa w art. 3 pkt 1, lub nabycie, o którym mowa w art. 3 pkt 2, mogą być dokonane po uzyskaniu oświadczenia końcowego użytkownika potwierdzonego przez przedstawicielstwo dyplomatyczne Ukrainy w Rzeczypospolitej Polskiej.
 
-**Art. 5.** Przed dokonaniem wywozu lub tranzytu podmiot, o którym mowa art. 3 pkt 8a ustawy zmienianej art. 1, jest obowiązany zgłosić ministrowi właściwemu do spraw gospodarki, formie pisemnej lub postaci elektronicznej, zamiar dokonania wywozu lub tranzytu na terytorium Ukrainy:
+**Art. 5.** Przed dokonaniem wywozu lub tranzytu podmiot, o którym mowa w art. 3 pkt 8a ustawy zmienianej w art. 1, jest obowiązany zgłosić ministrowi właściwemu do spraw gospodarki, w formie pisemnej lub w postaci elektronicznej, zamiar dokonania wywozu lub tranzytu na terytorium Ukrainy:
 
-**Art. 6.** Dokonując zgłoszenia, o którym mowa art. 5, podmiot, o którym mowa art. 3 pkt 8a ustawy zmienianej art. 1, wskazuje:
+**Art. 6.** Dokonując zgłoszenia, o którym mowa w art. 5, podmiot, o którym mowa w art. 3 pkt 8a ustawy zmienianej w art. 1, wskazuje:
 
-**Art. 7.** Do spraw wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, dotyczących zezwoleń indywidualnych i zezwoleń globalnych, stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+**Art. 7.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, dotyczących zezwoleń indywidualnych i zezwoleń globalnych, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 8.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

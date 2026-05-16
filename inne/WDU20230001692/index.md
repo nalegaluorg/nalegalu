@@ -8,9 +8,10 @@ pos: 1692
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 sierpnia 2023 r.
+# Ustawa z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +25,13 @@ domain: null
 | Ostatnia zmiana | 2024-10-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1692/text.pdf) |
 
-USTAWA z dnia 16 czerwca 2023 r.
-o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
 1. Ustawa określa zasady funkcjonowania systemu jakości w opiece zdrowotnej i bezpieczeństwa pacjenta.
 
-2. Przepisów ustawy nie stosuje się do podmiotów wykonujących działalność leczniczą udzielających świadczeń opieki zdrowotnej osobom pozbawionym wolności na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2023 r. poz. 127, z 2022 r. poz. 2600 oraz z 2023 r. poz. 818 i 1606).
+2. Przepisów ustawy nie stosuje się do podmiotów wykonujących działalność leczniczą udzielających świadczeń opieki zdrowotnej osobom pozbawionym wolności na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2023 r. poz. 127, z 2022 r. poz. 2600 oraz z 2023 r. poz. 818 i 1606).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
@@ -43,19 +41,19 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 1. Jakość w opiece zdrowotnej jest mierzona z wykorzystaniem wskaźników jakości opieki zdrowotnej mieszczących się w zakresie obszarów:
 
-- **1)** klinicznego rozumianego jako zestaw wskaźników odnoszących się do poziomu i efektów realizowanych świadczeń opieki zdrowotnej, opisywanych przez parametry:
-    - **a)** efektu leczniczego,
-    - **b)** powtórnych hospitalizacji z tej samej przyczyny,
-    - **c)** śmiertelności po zabiegach: w trakcie hospitalizacji w okresie 30 dni, 90 dni oraz roku od dnia zakończenia hospitalizacji,
-    - **d)** doświadczenia w wykonywaniu określonych świadczeń opieki zdrowotnej,
-    - **e)** struktury procedur medycznych wykonywanych w przypadkach określonych problemów zdrowotnych;
+- **1)** klinicznego – rozumianego jako zestaw wskaźników odnoszących się do poziomu i efektów realizowanych świadczeń opieki zdrowotnej, opisywanych przez parametry: efektu leczniczego, powtórnych hospitalizacji z tej samej przyczyny, śmiertelności po zabiegach: w trakcie hospitalizacji w okresie 30 dni, 90 dni oraz roku od dnia zakończenia hospitalizacji, doświadczenia w wykonywaniu określonych świadczeń opieki zdrowotnej, struktury procedur medycznych wykonywanych w przypadkach określonych problemów zdrowotnych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **2)** konsumenckiego rozumianego jako wyniki badań opinii pacjentów o organizacji procesu udzielania świadczeń opieki zdrowotnej;
-- **3)** zarządczego rozumianego jako zestaw wskaźników odnoszących się do efektywności wykorzystania zasobów oraz wdrożenia systemów zarządzania, opisywanych przez parametry dotyczące:
-    - **a)** posiadania akredytacji lub innego certyfikatu albo świadectwa potwierdzającego jakość wydanego przez niezależną akredytowaną jednostkę,
-    - **b)** stopnia wykorzystania zasobów będących w dyspozycji podmiotu,
-    - **c)** długości hospitalizacji,
-    - **d)** struktury realizowanych świadczeń.
+- **2)** konsumenckiego – rozumianego jako wyniki badań opinii pacjentów o organizacji procesu udzielania świadczeń opieki zdrowotnej;
+- **3)** zarządczego – rozumianego jako zestaw wskaźników odnoszących się do efektywności wykorzystania zasobów oraz wdrożenia systemów zarządzania, opisywanych przez parametry dotyczące: posiadania akredytacji lub innego certyfikatu albo świadectwa potwierdzającego jakość wydanego przez niezależną akredytowaną jednostkę, stopnia wykorzystania zasobów będących w dyspozycji podmiotu, długości hospitalizacji, struktury realizowanych świadczeń.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wskaźniki jakości opieki zdrowotnej, o których mowa w ust. 1, biorąc pod uwagę specyfikę świadczenia opieki zdrowotnej, którego wskaźnik dotyczy, lub grupy tych świadczeń oraz konieczność zapewnienia udzielania świadczeń opieki zdrowotnej wysokiej jakości.
 
@@ -152,11 +150,11 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 7. W toku wizyty autoryzacyjnej upoważnieni do przeprowadzenia tej wizyty pracownicy Funduszu mają prawo do:
 
-- **1)** wstępu do:
-    - **a)** siedziby podmiotu wnioskującego,
-    - **b)** miejsca prowadzenia działalności przez podmiot wnioskujący,
-    - **c)** miejsca udzielania świadczeń opieki zdrowotnej przez podmiot wnioskujący,
-    - **d)** miejsca udzielania świadczeń opieki zdrowotnej przez podwykonawcę w zakresie, w jakim realizuje on umowę zawartą przez podmiot wnioskujący z podwykonawcą;
+- **1)** wstępu do: siedziby podmiotu wnioskującego, miejsca prowadzenia działalności przez podmiot wnioskujący, miejsca udzielania świadczeń opieki zdrowotnej przez podmiot wnioskujący, miejsca udzielania świadczeń opieki zdrowotnej przez podwykonawcę – w zakresie, w jakim realizuje on umowę zawartą przez podmiot wnioskujący z podwykonawcą;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** wglądu do dokumentacji niezbędnej do realizacji celu wizyty autoryzacyjnej, dotyczącej miejsca udzielania świadczeń opieki zdrowotnej, personelu w podmiocie wnioskującym oraz jego podwykonawcy, sprzętu i aparatury medycznej, określonych w przepisach wydanych na podstawie art. 31d i art. 31da ust. 1 ustawy o świadczeniach, struktury organizacyjnej i funkcjonowania tego podmiotu oraz związanej z wewnętrznym systemem;
 - **3)** uzyskiwania ustnych i pisemnych wyjaśnień od kierownika podmiotu wnioskującego lub osoby przez niego upoważnionej.
@@ -308,21 +306,21 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 1. Ocena spełniania przez podmiot wnioskujący o udzielenie akredytacji pojedynczych standardów akredytacyjnych jest dokonywana według skali punktowej:
 
-- **1)** trzystopniowej:
-    - **a)** 1 punkt nie spełnia wymagań standardu akredytacyjnego,
-    - **b)** 3 punkty spełnia częściowo wymagania standardu akredytacyjnego,
-    - **c)** 5 punktów spełnia wymagania standardu akredytacyjnego;
+- **1)** trzystopniowej: 1 punkt – nie spełnia wymagań standardu akredytacyjnego, 3 punkty – spełnia częściowo wymagania standardu akredytacyjnego, 5 punktów – spełnia wymagania standardu akredytacyjnego;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** dwustopniowej:
-    - **a)** 1 punkt nie spełnia wymagań standardu akredytacyjnego,
-    - **b)** 5 punktów spełnia wymagania standardu akredytacyjnego.
+- **2)** dwustopniowej: 1 punkt – nie spełnia wymagań standardu akredytacyjnego, 5 punktów – spełnia wymagania standardu akredytacyjnego.
+    - **a)**
+    - **b)**
 
 2. Każdy pojedynczy standard akredytacyjny posiada wagę w postaci przypisanej mu liczby:
 
-- **1)** 1 dla pojedynczego standardu akredytacyjnego istotnego dla bezpieczeństwa pacjenta i personelu;
-- **2)** 0,75 dla pojedynczego standardu akredytacyjnego istotnego dla bezpieczeństwa pacjenta i personelu, ale trudnego do wprowadzenia z uwagi na konieczność istotnych zmian organizacyjnych lub związanego z nakładami finansowymi;
-- **3)** 0,5 dla pojedynczego standardu akredytacyjnego związanego z opisem procedur i postępowania;
-- **4)** 0,25 dla pojedynczego standardu akredytacyjnego niemającego istotnego wpływu na bezpieczeństwo pacjenta i personelu.
+- **1)** 1 – dla pojedynczego standardu akredytacyjnego istotnego dla bezpieczeństwa pacjenta i personelu;
+- **2)** 0,75 – dla pojedynczego standardu akredytacyjnego istotnego dla bezpieczeństwa pacjenta i personelu, ale trudnego do wprowadzenia z uwagi na konieczność istotnych zmian organizacyjnych lub związanego z nakładami finansowymi;
+- **3)** 0,5 – dla pojedynczego standardu akredytacyjnego związanego z opisem procedur i postępowania;
+- **4)** 0,25 – dla pojedynczego standardu akredytacyjnego niemającego istotnego wpływu na bezpieczeństwo pacjenta i personelu.
 
 3. Ocena standardu akredytacyjnego polega na ustaleniu iloczynu wagi standardu akredytacyjnego i oceny uzyskanej w skali punktowej.
 
@@ -353,9 +351,9 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 - **5)** wskazanie standardów akredytacyjnych dla określonego rodzaju działalności leczniczej albo zakresu świadczeń, o których mowa w art. 22 ust. 5;
 - **6)** wskazanie zakładu leczniczego lub zakładów leczniczych, jednostki organizacyjnej lub grupy jednostek, komórki organizacyjnej lub grupy komórek organizacyjnych w przypadku podmiotów leczniczych albo wskazanie miejsca udzielania świadczeń zdrowotnych, a w przypadku praktyk zawodowych, o których mowa w art. 5 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, wskazanie miejsca udzielania świadczeń zdrowotnych, zgodnie z wpisem do rejestru podmiotów wykonujących działalność leczniczą;
 - **7)** dane dotyczące liczby i kwalifikacji personelu wraz z podaniem liczby etatów lub ich równoważników w podmiocie wnioskującym o udzielenie akredytacji albo w miejscach udzielania świadczeń zdrowotnych, o których mowa w pkt 6;
-- **8)** wskazanie miejsca udzielania świadczeń opieki zdrowotnej przez:
-    - **a)** podwykonawcę w zakresie, w jakim realizuje on umowę o udzielanie świadczeń opieki zdrowotnej zawartą między nim a podmiotem wnioskującym o udzielenie akredytacji,
-    - **b)** osobę trzecią wykonującą zawód medyczny w związku z powierzeniem tej osobie niektórych czynności na podstawie umów lub porozumień zawartych z podmiotem wnioskującym o udzielenie akredytacji;
+- **8)** wskazanie miejsca udzielania świadczeń opieki zdrowotnej przez: podwykonawcę w zakresie, w jakim realizuje on umowę o udzielanie świadczeń opieki zdrowotnej zawartą między nim a podmiotem wnioskującym o udzielenie akredytacji, osobę trzecią wykonującą zawód medyczny w związku z powierzeniem tej osobie niektórych czynności na podstawie umów lub porozumień zawartych z podmiotem wnioskującym o udzielenie akredytacji;
+    - **a)**
+    - **b)**
 
 - **9)** imię i nazwisko osoby uprawnionej do podejmowania działań w imieniu i na rzecz podmiotu wnioskującego o udzielenie akredytacji oraz imię i nazwisko osoby odpowiedzialnej za przygotowanie podmiotu wnioskującego o udzielenie akredytacji do procedury oceniającej.
 
@@ -468,11 +466,11 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 1. W toku przeglądu akredytacyjnego wizytatorzy są uprawnieni do:
 
-- **1)** wstępu do:
-    - **a)** siedziby podmiotu wnioskującego o udzielenie akredytacji,
-    - **b)** miejsca prowadzenia działalności przez podmiot wnioskujący o udzielenie akredytacji,
-    - **c)** miejsca udzielania świadczeń opieki zdrowotnej przez podmiot wnioskujący o udzielenie akredytacji,
-    - **d)** miejsca udzielania świadczeń opieki zdrowotnej przez: podwykonawcę w zakresie, w jakim realizuje on umowę o udzielanie świadczeń opieki zdrowotnej zawartą między nim a podmiotem wnioskującym o udzielenie akredytacji, osobę trzecią wykonującą zawód medyczny w związku z powierzeniem tej osobie niektórych czynności na podstawie umów lub porozumień zawartych z podmiotem wnioskującym o udzielenie akredytacji;
+- **1)** wstępu do: siedziby podmiotu wnioskującego o udzielenie akredytacji, miejsca prowadzenia działalności przez podmiot wnioskujący o udzielenie akredytacji, miejsca udzielania świadczeń opieki zdrowotnej przez podmiot wnioskujący o udzielenie akredytacji, miejsca udzielania świadczeń opieki zdrowotnej przez: – podwykonawcę w zakresie, w jakim realizuje on umowę o udzielanie świadczeń opieki zdrowotnej zawartą między nim a podmiotem wnioskującym o udzielenie akredytacji, – osobę trzecią wykonującą zawód medyczny w związku z powierzeniem tej osobie niektórych czynności na podstawie umów lub porozumień zawartych z podmiotem wnioskującym o udzielenie akredytacji;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** wglądu do dokumentacji medycznej na zasadach określonych w art. 26 ust. 3 pkt 8 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675 i 1692) w zakresie niezbędnym do przeprowadzenia przeglądu akredytacyjnego;
 - **3)** wglądu do innej dokumentacji niezbędnej do przeprowadzenia przeglądu akredytacyjnego dotyczącej kwalifikacji, ewidencji czasu pracy i zakresu obowiązków personelu podmiotu wnioskującego o udzielenie akredytacji oraz struktury organizacyjnej i funkcjonowania tego podmiotu;
@@ -567,7 +565,7 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 1. Akredytacja zachowuje ważność przez okres, na jaki jej udzielono, dla podmiotu, który został przekształcony na zasadach określonych:
 
-- **1)** w art. 551–563, art. 567–577 i art. 579–584 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, 1488, 2280 i 2436 oraz z 2023 r. poz. 739 i 825),
+- **1)** w art. 551–563, art. 567–577 i art. 579–58413 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, 1488, 2280 i 2436 oraz z 2023 r. poz. 739 i 825),
 - **2)** dla samodzielnego publicznego zakładu opieki zdrowotnej zgodnie z art. 69 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej o ile nie doszło do zmiany rodzaju działalności leczniczej albo zakresu świadczeń przez ten podmiot.
 
 2. W przypadku, o którym mowa w ust. 1, nie wydaje się nowego certyfikatu akredytacyjnego.
@@ -640,8 +638,8 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 1. Wizytator otrzymuje wynagrodzenie na podstawie umowy zawartej z osobą kierującą ośrodkiem akredytacyjnym, za każdy dzień przeglądu akredytacyjnego w wysokości nie wyższej niż:
 
-- **1)** 50% przeciętnego miesięcznego wynagrodzenia, o którym mowa w art. 40 ust. 2 w przypadku koordynatora;
-- **2)** 40% przeciętnego miesięcznego wynagrodzenia, o którym mowa w art. 40 ust. 2 w przypadku wizytatora.
+- **1)** 50% przeciętnego miesięcznego wynagrodzenia, o którym mowa w art. 40 ust. 2 – w przypadku koordynatora;
+- **2)** 40% przeciętnego miesięcznego wynagrodzenia, o którym mowa w art. 40 ust. 2 – w przypadku wizytatora.
 
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość wynagrodzenia wizytatora oraz koordynatora, uwzględniając zakres ich zadań.
 
@@ -752,7 +750,7 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 1. Członkom Rady Akredytacyjnej przysługuje:
 
 - **1)** wynagrodzenie nieprzekraczające 60% średniego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, za pierwszy kwartał poprzedniego roku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, za udział w każdym posiedzeniu Rady Akredytacyjnej;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
 
 2. W przypadku gdy w danym miesiącu Rada Akredytacyjna odbywa więcej niż jedno posiedzenie, jej członkom przysługuje wynagrodzenie za udział w 2 posiedzeniach.
 
@@ -762,11 +760,11 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 #### Rozdział 5 Zmiany w przepisach
 
-**Art. 54.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 54.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 55.** W ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2023 r. poz. 151 i 1688) art. 15 otrzymuje brzmienie: „Art. 15. W sprawach nieuregulowanych w ustawie do zakładów lecznictwa uzdrowiskowego mają zastosowanie przepisy ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991 i 1675), ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545 i 1675), ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2022 r. poz. 2524 oraz z 2023 r. poz. 605 i 1675) oraz ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692).”.
+**Art. 55.** W ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2023 r. poz. 151 i 1688) art. 15 otrzymuje brzmienie: „ W sprawach nieuregulowanych w ustawie do zakładów lecznictwa uzdrowiskowego mają zastosowanie przepisy ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991 i 1675), ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545 i 1675), ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2022 r. poz. 2524 oraz z 2023 r. poz. 605 i 1675) oraz ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692). ” .
 
-**Art. 56.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545 i 1675) w art. 26 w ust. 3 pkt 8 otrzymuje brzmienie: „8) osobom wykonującym zawód medyczny, w związku z prowadzeniem przeglądu akredytacyjnego podmiotu udzielającego świadczeń zdrowotnych na podstawie przepisów ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692) albo procedury uzyskiwania innych certyfikatów jakości, w zakresie niezbędnym do ich przeprowadzenia;”.
+**Art. 56.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545 i 1675) w art. 26 w ust. 3 pkt 8 otrzymuje brzmienie: „
 
 **Art. 57.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555, 2280 i 2705 oraz z 2023 r. poz. 650 i 1234) wprowadza się następujące zmiany:
 

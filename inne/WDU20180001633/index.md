@@ -8,11 +8,10 @@ pos: 1633
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# zmianie niektórych ustaw celu zwiększenia efektywności prowadzonych działań kontrolnych zakresie niektórych rynków rolnych
-
-*USTAWA 20 lipca r.*
+# Ustawa z dnia 20 lipca 2018 r. o zmianie niektórych ustaw w celu zwiększenia efektywności prowadzonych działań kontrolnych w zakresie niektórych rynków rolnych
 
 | Pole | Wartość |
 |---|---|
@@ -26,23 +25,89 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001633) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1633/text.pdf) |
 
-**Art. 1.** W ustawie 21 2000 r. jakości handlowej artykułów rolno-spożywczych (Dz. U. 2017 r. 2212 oraz r. 650 664) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2017 r. poz. 2212 oraz z 2018 r. poz. 650 i 664) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie 19 2003 r. organizacji rynków owoców warzyw oraz rynku chmielu (Dz. U. r. 1131) wprowadza następujące zmiany:
+**Art. 24a.** Kontrolowany ma obowiązek zapewnić upoważnionym pracownikom Inspekcji warunki niezbędne do sprawnego wykonywania obowiązków służbowych. ” ;
 
-**Art. 3.** W ustawie 17 2004 r. rejestracji ochronie nazw oznaczeń produktów rolnych środków spożywczych oraz produktach tradycyjnych (Dz. U. 2017 r. 1168) po 58e dodaje 58f brzmieniu: „Art. 58f. Jeżeli naruszenie, którym 58b, dotyczy świeżych owoców warzyw, jakość handlowa objęta zakresem regulacji Unii Europejskiej, naruszenie to wyczerpuje jednocześnie znamiona naruszenia, którym 40a 1 pkt 3 lub 3 ustawy 19 2003 r. organizacji rynków owoców warzyw oraz rynku chmielu (Dz. U. r. 1131 1633) lub 25 1 pkt 3, 4 lub 5 lub 2 ustawy 25 czerwca 2009 r. rolnictwie ekologicznym (Dz. U. 2017 r. 1054 oraz r.
+**Art. 36a.**
 
-**Art. 4.** W ustawie 25 czerwca 2009 r. rolnictwie ekologicznym (Dz. U. 2017 r. 1054 oraz r.
+1. Nadzór nad wykonywaniem czynności przez rzeczoznawców sprawuje wojewódzki inspektor.
 
-**Art. 5.** W ustawie 6 marca r. Prawo przedsiębiorców (Dz. U. 646, 1479 1629) wprowadza następujące zmiany:
+2. W ramach sprawowanego nadzoru wojewódzki inspektor przeprowadza kontrole działalności rzeczoznawców w miejscu wykonywania przez nich czynności.
+
+3. Osoby fizyczne, osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej, na zlecenie których rzeczoznawca wykonuje czynności, są obowiązane:
+
+- **1)** zapewnić wojewódzkiemu inspektorowi wstęp na teren oraz do obiektów i pomieszczeń, gdzie są wykonywane czynności rzeczoznawcy, oraz możliwość poruszania się na tym terenie oraz w tych obiektach i pomieszczeniach;
+- **2)** zapewnić wojewódzkiemu inspektorowi wstęp do środków transportu, w których są wykonywane czynności rzeczoznawcy, i możliwość przeprowadzania ich oględzin;
+- **3)** udzielać wojewódzkiemu inspektorowi pisemnych lub ustnych informacji związanych z czynnościami wykonywanymi przez rzeczoznawcę;
+- **4)** okazywać wojewódzkiemu inspektorowi dokumenty związane z czynnościami wykonywanymi przez rzeczoznawcę;
+- **5)** umożliwić wojewódzkiemu inspektorowi pobieranie nieodpłatnie próbek artykułów rolno-spożywczych do badań.
+
+4. Do przeprowadzania kontroli działalności rzeczoznawców stosuje się odpowiednio przepisy art. 24–28. ” ;
+
+- **6)** w art. 37 dodaje się ust. 3 i 4 w brzmieniu: „
+
+3. W przypadku, o którym mowa w ust. 1 pkt 2, jeżeli w dotychczasowej działalności rzeczoznawcy nie stwierdzano istotnych uchybień, a podmiot zlecający czynności nie poniósł szkody, skreślenie z rejestru rzeczoznawców nie następuje.
+
+4. W przypadku określonym w ust. 3, wojewódzki inspektor kieruje do rzeczoznawcy pisemne upomnienie, wskazując popełnione naruszenia oraz nakazując rzeczoznawcy podjęcie określonych działań naprawczych w wyznaczonym terminie. W razie niewykonania tych działań naprawczych w terminie wojewódzki inspektor skreśla rzeczoznawcę z rejestru rzeczoznawców. ” ;
+
+- **7)** w art. 40a w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** nie wykonuje obowiązków, o których mowa w art. 7 ust. 3 lub 4, podlega karze pieniężnej w wysokości do trzykrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary, nie niższej jednak niż 200 zł. ” .
+
+**Art. 2.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2018 r. poz. 1131) wprowadza się następujące zmiany:
+
+**Art. 40a.**
+
+1. Kto:
+
+- **1)** uniemożliwia wojewódzkiemu inspektorowi lub inspektorowi Inspekcji Handlowej przeprowadzenie kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu lub kontroli składowania lub transportowania tych artykułów, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270), zwanego dalej „przeciętnym wynagrodzeniem”, za rok poprzedzający rok nałożenia kary;
+- **2)** utrudnia wojewódzkiemu inspektorowi lub inspektorowi Inspekcji Handlowej przeprowadzenie kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu lub kontroli składowania lub transportowania tych artykułów, podlega karze pieniężnej w wysokości do piętnastokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary;
+- **3)** wprowadza do obrotu owoce i warzywa nieodpowiadające wymaganiom jakości handlowej, podlega karze pieniężnej w wysokości do pięciokrotnej wartości korzyści majątkowej uzyskanej lub która mogłaby zostać uzyskana przez wprowadzenie tych artykułów do obrotu, nie niższej jednak niż 500 zł;
+- **4)** odmawia okazania wojewódzkiemu inspektorowi lub inspektorowi Inspekcji Handlowej dokumentów towarzyszących danej partii owoców i warzyw lub nie zamieszcza w tych dokumentach odpowiednich informacji wymaganych zgodnie z art. 5 rozporządzenia nr 543/2011 lub zamieszcza w tych dokumentach informacje nieprawdziwe, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary.
+
+2. Kto nie usunął nieprawidłowości stwierdzonych podczas kontroli w zakresie jakości handlowej owoców i warzyw w określonym terminie, podlega karze pieniężnej w wysokości do trzykrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary.
+
+3. Kto wprowadza ponownie do obrotu owoce i warzywa, wobec których zostało wydane orzeczenie o niezgodności, o którym mowa w art. 17 rozporządzenia nr 543/2011, lub odnośnie do których nie podjęto środków wynikających z tego orzeczenia, podlega karze pieniężnej w wysokości do pięciokrotnej wartości korzyści majątkowej uzyskanej lub która mogłaby zostać uzyskana przez wprowadzenie tych artykułów do obrotu, nie niższej jednak niż 500 zł.
+
+4. Kto bez zgody wojewódzkiego inspektora zmienia sposób zabezpieczeń, o których mowa w art. 27 ust. 1 pkt 1 i 2 oraz ust. 2 i 3 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, dokonanych podczas kontroli prowadzonej w odniesieniu do owoców i warzyw albo je zdejmuje, podlega karze pieniężnej w wysokości do trzykrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary.
+
+5. Kto zmienia sposób zabezpieczeń, o których mowa w art. 26a ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, dokonanych podczas kontroli prowadzonej w odniesieniu do owoców i warzyw albo je zdejmuje, podlega karze pieniężnej w wysokości do trzykrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary.
+
+6. Kary pieniężne, o których mowa w ust. 1–4, wymierza, w drodze decyzji, wojewódzki inspektor albo wojewódzki inspektor Inspekcji Handlowej, który przeprowadził kontrolę, w wyniku której zostały stwierdzone przesłanki wymierzenia kary, a w przypadku, o którym mowa w ust. 1 pkt 1 i 2 – któremu uniemożliwiono lub utrudniono przeprowadzenie kontroli.
+
+7. Karę pieniężną, o której mowa w ust. 5, wymierza, w drodze decyzji, wojewódzki inspektor Inspekcji Handlowej, który przeprowadził kontrolę, w wyniku której zostały stwierdzone przesłanki wymierzenia kary.
+
+8. Kary pieniężne, o których mowa w ust. 1–5, wymierza się przy uwzględnieniu stopnia szkodliwości czynu, zakresu naruszenia, dotychczasowej działalności dokonującego naruszenia i wielkości jego obrotów oraz przychodu w roku poprzedzającym rok nałożenia kary, a także wartości owoców i warzyw poddanych kontroli.
+
+9. Przed ustaleniem wysokości kary pieniężnej wojewódzki inspektor albo wojewódzki inspektor Inspekcji Handlowej może żądać okazania dokumentów związanych z ustaleniem okoliczności, o których mowa w ust. 8, w szczególności dotyczących obrotów oraz przychodu w roku poprzedzającym rok nałożenia kary i wartości kontrolowanych owoców i warzyw.
+
+10. W przypadku niskiego stopnia szkodliwości czynu, niewielkiego zakresu naruszenia lub braku stwierdzenia istotnych uchybień w dotychczasowej działalności dokonującego naruszenia, można odstąpić od wymierzania kar pieniężnych, o których mowa w ust. 1–5.
+
+11. O odstąpieniu, o którym mowa w ust. 10, rozstrzyga w drodze decyzji wojewódzki inspektor albo wojewódzki inspektor Inspekcji Handlowej właściwy do wymierzenia kary pieniężnej.
+
+12. Termin zapłaty kary pieniężnej wynosi 30 dni od dnia, w którym decyzja o wymierzeniu kary stała się ostateczna.
+
+13. Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy odpowiednio wojewódzkiego inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu Inspekcji Handlowej. Jeżeli naruszenie, o którym mowa w art. 40a ust. 1 pkt 3 lub ust. 3, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 58b ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2017 r. poz. 1168 oraz z 2018 r. poz. 1633) lub art. 25 ust. 1 pkt 3, 4 lub 5 lub ust. 2 ustawy z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. z 2017 r. poz. 1054 oraz z 2018 r. poz. 1616 i 1633), karę pieniężną wymierza się na podstawie przepisów niniejszej ustawy. ” .
+
+**Art. 3.** W ustawie z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2017 r. poz. 1168) po art. 58e dodaje się art. 58f w brzmieniu: „
+
+**Art. 58f.** Jeżeli naruszenie, o którym mowa w art. 58b, dotyczy świeżych owoców i warzyw, których jakość handlowa jest objęta zakresem regulacji przepisów Unii Europejskiej, i naruszenie to wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 40a ust. 1 pkt 3 lub ust. 3 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2018 r. poz. 1131 i 1633) lub art. 25 ust. 1 pkt 3, 4 lub 5 lub ust. 2 ustawy z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. z 2017 r. poz. 1054 oraz z 2018 r. poz. 1616 i 1633), karę pieniężną wymierza się na podstawie przepisów ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu. ” .
+
+**Art. 4.** W ustawie z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. z 2017 r. poz. 1054 oraz z 2018 r. poz. 1616) po art. 26a dodaje się art. 26b w brzmieniu: „
+
+**Art. 26b.** Jeżeli naruszenie, o którym mowa w art. 25 ust. 1 pkt 3, 4 lub 5 lub ust. 2, dotyczy świeżych owoców i warzyw, których jakość handlowa jest objęta zakresem regulacji przepisów Unii Europejskiej, i naruszenie to wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 40a ust. 1 pkt 3 lub ust. 3 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2018 r. poz. 1131 i 1633) lub art. 58b ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2017 r. poz. 1168 oraz z 2018 r. poz. 1633), karę pieniężną wymierza się na podstawie przepisów ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu. ” .
+
+**Art. 5.** W ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646, 1479 i 1629) wprowadza się następujące zmiany:
 
 **Art. 6.**
 
-1. Do postępowań, mają zastosowanie przepisy 7 3 4, 24 pkt 3, 24a 25 2 pkt 4 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, rozpoczętych niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje przepisy ustawy zmienianej 1, brzmieniu dotychczasowym.
+1. Do postępowań, do których mają zastosowanie przepisy art. 7 ust. 3 i 4, art. 24 pkt 3, art. 24a i art. 25 ust. 2 pkt 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
-2. Do osób wpisanych rejestru rzeczoznawców, którym 35 ustawy zmienianej 1, stosuje przepisy ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
+2. Do działalności osób wpisanych do rejestru rzeczoznawców, o którym mowa w art. 35 ustawy zmienianej w art. 1, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Do czynów, 40 4a 4b pkt 1 ustawy zmienianej 2, popełnionych przed dniem wejścia życie niniejszej ustawy, stosuje przepisy ustawy zmienianej 2, brzmieniu dotychczasowym.
+**Art. 7.** Do czynów, o których mowa w art. 40 ust. 4a i ust. 4b pkt 1 ustawy zmienianej w art. 2, popełnionych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
 
-**Art. 8.** Do postępowań, mają zastosowanie przepisy 48 11 54 1 ustawy zmienianej 5, rozpoczętych niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje przepisy ustawy zmienianej 5, brzmieniu dotychczasowym.
+**Art. 8.** Do postępowań, do których mają zastosowanie przepisy art. 48 ust. 11 i art. 54 ust. 1 ustawy zmienianej w art. 5, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 5, w brzmieniu dotychczasowym.
+
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

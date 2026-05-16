@@ -8,11 +8,10 @@ pos: 1853
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw
-
-*USTAWA 21 listopada 2024 o zmianie ustawy o elektromobilności i paliwach alternatywnych niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -26,13 +25,59 @@ domain: null
 | Ostatnia zmiana | 2024-12-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001853) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1853/text.pdf) |
 
-**Art. 1.** W ustawie 11 stycznia 2018 o elektromobilności i paliwach alternatywnych (Dz. U. 2024 poz. 1289) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie 2010 o publicznym transporcie zbiorowym (Dz. U. 2023 poz. 2778) wprowadza się następujące zmiany:
+**Art. 36.**
 
-**Art. 4.** W ustawie 2 2021 o zmianie ustawy o elektromobilności i paliwach alternatywnych niektórych innych ustaw (Dz. U. poz. 2269, 2023 poz. 1681 2024 poz. 1006) wprowadza się następujące zmiany:
+1. Gmina, w której liczba mieszkańców jest większa niż 50 000, wykonuje przewozy pasażerskie w transporcie drogowym, w ramach komunikacji miejskiej w rozumieniu art. 4 ust. 1 pkt 4 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2023 r. poz. 2778 oraz z 2024 r. poz. 1853), z przynajmniej częściowym wykorzystaniem autobusów zeroemisyjnych lub autobusów napędzanych gazem ziemnym pochodzącym z biometanu lub zleca, lub powierza wykonywanie takich przewozów podmiotom, które we flocie pojazdów przeznaczonych do wykonywania przewozów na jej obszarze przynajmniej częściowo wykorzystują autobusy zeroemisyjne lub autobusy napędzane gazem ziemnym pochodzącym z biometanu.
 
-**Art. 5.** Do postępowań o udzielenie zamówienia publicznego dotyczących nabycia autobusów przeznaczonych do wykonywania przewozów pasażerskich transporcie drogowym, ramach komunikacji miejskiej rozumieniu 4 4 ustawy zmienianej 3, wszczętych i niezakończonych przed dniem wejścia życie niniejszego przepisu, nie stosuje się wymogu nabywania wyłącznie autobusów zeroemisyjnych, o którym mowa 36 2 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
+2. Gmina, w której liczba mieszkańców jest większa niż 100 000, oraz podmiot, któremu ta gmina zleciła lub powierzyła wykonywanie przewozów pasażerskich w transporcie drogowym w ramach komunikacji miejskiej w rozumieniu art. 4 ust. 1 pkt 4 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, nabywają na podstawie umowy sprzedaży, leasingu, najmu lub dzierżawy z opcją zakupu wyłącznie autobusy zeroemisyjne służące do wykonywania takich przewozów na obszarze tej gminy.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia, wyjątkiem:
+3. Obowiązku, o którym mowa w ust. 2, nie stosuje się do nabywania autobusów służących do realizacji przewozów pasażerskich w transporcie drogowym w ramach komunikacji miejskiej w rozumieniu art. 4 ust. 1 pkt 4 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym:
+
+- **1)** które wykraczają poza granice administracyjne miasta, w którym liczba mieszkańców jest większa niż 100 000;
+- **2)** których organizatorem jest gmina, w której liczba mieszkańców jest większa niż 100 000, realizowanych na terenie gminy o liczbie mieszkańców mniejszej niż 100 000 albo gmin o liczbie mieszkańców mniejszej niż 100 000 każda. ” ;
+- **4)** w art. 36a wyrazy „art. 34–36, art. 68 i art. 68a” zastępuje się wyrazami „art. 34, art. 35 ust. 1, art. 68 i art. 68a”;
+- **5)** uchyla się art. 37;
+- **6)** art. 38 otrzymuje brzmienie: „
+
+**Art. 38.**
+
+1. Podmioty, o których mowa w art. 34 i art. 35 ust. 1, do dnia 31 stycznia każdego roku przekazują ministrowi właściwemu do spraw energii oraz ministrowi właściwemu do spraw klimatu informację o liczbie pojazdów samochodowych w rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym we flocie wykorzystywanej do obsługi urzędu, z uwzględnieniem liczby oraz udziału procentowego pojazdów elektrycznych, według stanu na dzień 31 grudnia roku poprzedzającego przekazanie tej informacji.
+
+2. Gmina, o której mowa w art. 36 ust. 1, do dnia 31 stycznia każdego roku przekazuje ministrowi właściwemu do spraw energii oraz ministrowi właściwemu do spraw klimatu informację o liczbie autobusów we flocie wykorzystywanej do wykonywania przewozów pasażerskich w transporcie drogowym w ramach komunikacji miejskiej w rozumieniu art. 4 ust. 1 pkt 4 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, z uwzględnieniem liczby oraz udziału procentowego autobusów zeroemisyjnych oraz autobusów napędzanych gazem ziemnym pochodzącym z biometanu, według stanu na dzień 31 grudnia roku poprzedzającego przekazanie tej informacji. ” ;
+
+- **7)** w art. 39: po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+    - **a)**
+
+3a. Jeżeli ocena poziomów substancji w powietrzu, o której mowa w art. 89 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834, 1089, 1222, 1847 i 1853), wykazała przekroczenie średniorocznego poziomu dopuszczalnego dwutlenku azotu w mieście, w którym liczba mieszkańców jest większa niż 100 000, to od dnia 1 stycznia roku następującego po roku, w którym prezydent tego miasta otrzymał wyniki oceny zgodnie z art. 89 ust. 1a tej ustawy, rada gminy ustanawia w drodze uchwały strefę czystego transportu w tym mieście.
+
+3b. Strefa czystego transportu, o której mowa w ust. 3a, może zostać zniesiona, jeżeli ocena poziomów substancji w powietrzu, o której mowa w art. 89 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, w kolejnych trzech latach nie wykaże przekroczenia średniorocznego poziomu dopuszczalnego dwutlenku azotu w mieście, w którym ustanowiono strefę czystego transportu. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Rada gminy, w uchwale ustanawiającej strefę czystego transportu, może dopuścić wjazd do strefy, w godzinach określonych w tej uchwale, w okresie nie dłuższym niż 3 lata od dnia ustanowienia strefy, pojazdów innych niż określone w ust. 1 i 2 oraz korzystających z wyłączeń na podstawie ust. 4, pod warunkiem uiszczenia opłaty. ” , w ust. 6 uchyla się pkt 5;
+
+- **c)**
+- **8)** po art. 40 dodaje się art. 40a w brzmieniu: „
+
+**Art. 40a.**
+
+1. W celu ograniczenia negatywnego oddziaływania emisji zanieczyszczeń z transportu na zdrowie ludzi i środowisko, dyrektor parku narodowego może ustalić, w drodze zarządzenia, o którym mowa w art. 8e ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478), że działalność edukacyjna parku narodowego oraz udostępnianie obszaru parku narodowego będą realizowane przy użyciu pojazdów, o których mowa w art. 39 ust. 1 pkt 1–3.
+
+2. Do realizacji zadań w ramach działalności edukacyjnej parku narodowego oraz udostępniania obszaru parku narodowego przy użyciu pojazdów, o których mowa w ust. 1, nie mają zastosowania ograniczenia oraz zakazy ruchu ustanowione przez zarządcę drogi na odcinkach dróg publicznych znajdujących się na obszarze parku narodowego. Pojazdy, o których mowa w ust. 1, użytkuje się, uwzględniając w szczególności konieczność zapewnienia bezpieczeństwa wszystkim uczestnikom ruchu w rozumieniu art. 2 pkt 17 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. ” ;
+
+- **9)** w art. 68 uchyla się ust. 2–4;
+- **10)** w art. 76 uchyla się ust. 2;
+- **11)** w art. 86 w pkt 4 wyrazy „1 stycznia 2028 r.” zastępuje się wyrazami „1 stycznia 2026 r.”.
+
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834, 1089, 1222 i 1847) w art. 89 ust. 1a otrzymuje brzmienie: „ 1a. Wyniki oceny oraz klasyfikację stref, o których mowa w ust. 1, Główny Inspektor Ochrony Środowiska niezwłocznie przekazuje ministrowi właściwemu do spraw klimatu oraz zarządowi województwa. Jeżeli ocena wykazała przekroczenie średniorocznego poziomu dopuszczalnego dwutlenku azotu w mieście, w którym liczba mieszkańców jest większa niż 100 000, Główny Inspektor Ochrony Środowiska przekazuje niezwłocznie wyniki tej oceny także prezydentowi tego miasta. ” .
+
+**Art. 3.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2023 r. poz. 2778) wprowadza się następujące zmiany:
+
+**Art. 4.** W ustawie z dnia 2 grudnia 2021 r. o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (Dz. U. poz. 2269, z 2023 r. poz. 1681 oraz z 2024 r. poz. 1006) wprowadza się następujące zmiany:
+
+**Art. 5.** Do postępowań o udzielenie zamówienia publicznego dotyczących nabycia autobusów przeznaczonych do wykonywania przewozów pasażerskich w transporcie drogowym, w ramach komunikacji miejskiej w rozumieniu art. 4 ust. 1 pkt 4 ustawy zmienianej w art. 3, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego przepisu, nie stosuje się wymogu nabywania wyłącznie autobusów zeroemisyjnych, o którym mowa w art. 36 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

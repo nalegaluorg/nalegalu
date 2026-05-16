@@ -8,9 +8,10 @@ pos: 542
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# dnia 23 sierpnia 1996 r.
+# Ustawa z dnia 23 sierpnia 1996 r. o zmianie ustawy – Kodeks cywilny
 
 | Pole | Wartość |
 |---|---|
@@ -24,69 +25,121 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961140542) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/542/text.pdf) |
 
-o zmianie ustawy Kodeks cywilny.
-Art. W ustawie dnia 23 kwietnia 1964 r. Ko deks cywilny (Dz. U. 16, poz. 93, 1971 r. 27, poz. 252, 1976 r. 19, poz. 122, 1982 r. 11, poz. 81, 19, poz. 147 i 30, poz. 210, 1984 r. 45, poz. 242, 1985 r. 22, poz. 99, 1989 r. 3, poz. 11, poz. 388 i 105, poz. 509 1995 r. 83, poz. 417) wprowadza zmiany:
-1) 24 1 dodaje zdanie trzecie brzmie niu:
-Art. 70 2 Oferta toku przetargu ust nego przestaje gdy inny licy tant albo przetarg zostanie bez wy brania którejkolwiek ofert, chyba warunkach przetargu inaczej.
-2. Zawarcie umowy drodze przetar gu ustnego wy brania oferty.
-Art. 70 3 Oferta toku przetargu pi semnego przestaje gdy zo wybrana inna oferta gdy przetarg bez wybra nia którejkolwiek ofert, chyba warunkach przetargu inaczej.
-2. przetarg ma uczestni ków przetargu pisemnego o jego wy niku o przetargu bez dokonania wyboru. Powiadomienie wymaga pisma ta ki sam sposób, jaki szenie przetargu.
-3. Do ustalenia chwili zawarcia umowy drodze przetargu pisemnego sto suje przepisy oferty.
-Art. 70 4 Strona umowy zawartej drodze przetargu jej nienia, druga strona porozumieniu osoba trzecia sprzecznie prawem za sadami na wynik przetargu.
-umowa zawarta na cudzy ra chunek, jej zlecenie.
-2. Uprawnienie wygasa od dowiedze
-5) 110 komisji
-6) art. 179:
-a) 1 otrzymuje brzmienie: nie przez to, jej zrzeknie.
-Zrzeczenie wymaga formy aktu nota rialnego. Do zrzeczenia nie potrzebna jest zgoda kierowni ka rejonowego organu admini stracji ogólnej.",
-b) 2 puje wyrazami Skarbu stwa";
-7) 187 za wyrazami Skarbu stwa";
-8) 189 za wyrazami Skarbu stwa";
-9) 232 1 "lub osiedli" "lub osiedla";
-10) 243 po wyrazach "Skarbu dodaje "lub gruntu do gmin ich
-11) art. 263:
-a) oznaczenie 1,
-b) 2;
-12) 272 1 otrzymuje brzmienie: rolniczej produkcyjnej zo staje przekazany do zabudowa ny grunt Skarbu przekazanie budyn ków i innych albo do albo na
-13) 312 zdanie drugie;
-"Art. 420 szkoda przez funkcjonariusza terytorialnego przy wykonywaniu powierzonej mu odpo za ponosi ta jednostka terytorial nego, której imieniu wykonywana. Przepisy art.
-418, 419 i 420 stosuje odpo wiednio.
-2. Funkcjonariuszami tery torialnego rozumieniu niniejsze go pracownicy dowi, radni, gminy, a inne osoby, do któ rych stosuje przepisy o pracow nikach Za funkcjo nariuszy terytorialnego osoby na zlecenie organów gminy, sejmiku sa
-Art. 420 2 jednak szkoda na przez funkcjonariusza te rytorialnego przy wykonywaniu zakresu administracji zleco nych na mocy przepisów ustawy albo powierzonych, za Skarb i jed nostka terytorialnego soli darnie.";
-18) art. 421 otrzymuje brzmienie: "Art. 421. Przepisów o odpowiedzial Skarbu albo terytorialnego za przez funkcjonariusza nie stosuje je ta jest uregulowa na przepisach szczególnych.";
-19) 445 2 otrzymuje brzmienie:
-2. Przepis stosuje wy od innych ków potrzebnych do skutków naruszenia. Przepis art. 445 3 stosuje
-21) 556 2 otrzymuje brzmienie:
-2. Sprzedawca jest odpowiedzialny rzecz sprzedana stanowi osoby trzeciej albo jest prawem osoby trzeciej; razie sprzeda praw sprzedawca jest odpowiedzialny tak za istnienie praw za wady praw ne).";
-22) 560:
-a) 1 otrzymuje brzmienie: rzecz sprzedana ma wady, od umowy albo obni ceny. nie od umowy sprzedawca nie wymieni rzecz na rzecz od wad albo wady usunie. Ograniczenie to nie ma zastosowa nia, rzecz wymieniona przez naprawiana, chyba wa dy nieistotne.",
-b) 3 zdanie drugie,
-c) po 3 dodaje 4 brzmieniu:
-4. sprzedawca wymiany, po winien tym koszty, jakie
-23) 562:
-a) oznaczenie 1,
-b) 2;
-24) po art. 572 dodaje art. 572 brzmieniu: "Art. 572 za wady prawne, cho osoba trzecia nie prze ciw niemu roszczeniem rzeczy sprzedanej.";
-tami.";
-26) III tytule XI trzeciej otrzymuje brzmienie: III. Gwarancja
-27) 577 1 otrzymuje brzmienie: W wypadku gdy od sprze dawcy dokument gwarancyjny co do rzeczy sprzedanej, poczytuje razie wystawca dokumentu (gwarant) jest do wady fizycznej rzeczy do dostarczenia rzeczy wolnej od wad, wady te termi nu gwarancji.";
-28) art. 578 otrzymuje brzmienie: "Art. 578. gwarancji inaczej nie no, gwaran cji obejmuje tylko wady przyczyn sprzedanej rze czy.";
-29) art. 579 otrzymuje brzmienie: "Art. 579. uprawnie nia za wady fizyczne rze czy, od cych gwarancji.";
-30) art. 580 otrzymuje brzmienie: "Art. 580. Kto wykonuje uprawnienia wynika gwarancji, powinien dostar rzecz na koszt gwaranta do miejsca wskazanego gwarancji do miejsca, którym rzecz zo wydana przy udzieleniu gwa rancji, chyba wy nika, wada powinna ta miejscu, którym rzecz znaj chwili ujawnienia wa dy.
-2. Gwarant jest gwarancji odpowiednim terminie i dostar gwarant upraw nionemu gwarancji zamiast rzeczy wadliwej rzecz od wad albo istotnych napraw rzeczy ob termin gwarancji biegnie na nowo od chwili dostar czenia rzeczy wolnej od wad zwrócenia rzeczy naprawionej.
-li gwarant rzeczy, przepis stosuje odpo wiednio do wymienionej.
-2. W innych wypadkach termin gwa rancji ulega o czas, którego wskutek wady rze czy uprawniony gwarancji nie niej korzy
-32) art. 582;
-33) 632 2 "lub komisja
-34) art. 921 otrzymuje brzmienie: "Art. 921 Kto przekazuje drugiemu (odbiorcy przekazu) osoby trzeciej (przekazanego), tym samym przekazu do a prze kazanego do na rach unek
-35) art. 9212:
-a) 1 otrzymuje brzmienie: przekazany odbiorcy przekazu, przekaz przyjmuje, ny jest odbiorcy do przekazie.",
-b) 2 otrzymuje brzmienie:
-2. W takim wypadku przekazany po tylko na zarzuty przekazu na zarZuty, które mu od biorcy.";
-gminy, sekretarza gminy kierownika du stanu cywilnego.";
-38) 1018 3 "w biurze notarialnym" wyrazami "przed nota riuszem".
+27)
+w art. 577 § 1 otrzymuje brzmienie:
+„
+§ 1.
+W wypadku gdy kupujący otrzymał od sprzedawcy dokument gwarancyjny co do jakości rzeczy sprzedanej, poczytuje się w razie wątpliwości, że wystawca dokumentu (gwarant) jest obowiązany do usunięcia wady fizycznej rzeczy lub do dostarczenia rzeczy wolnej od wad, jeżeli wady te ujawnią się w ciągu terminu określonego w gwarancji.
+” ;
+28)
+art. 578 otrzymuje brzmienie:
+„
 
-**Art. 2.** W ustawie dnia 26 stycznia 1984 r. Pra wo prasowe (Dz. U. 5, poz. 24, 1988 41, poz. 324, 1989 r. 34, poz. 187, 1990 r. 29, 1991 r. 95, poz. 425, 107, poz. 464 i 114, poz. 492 1995 r. 90, poz. 446) 1 pkt 9.
+**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509 oraz z 1995 r. Nr 83, poz. 417) wprowadza się następujące zmiany:
 
-**Art. 4.** Ustawa wchodzi po 3 mie od dnia Prezydent Rzeczypospolitej Polskiej: A. 543 UMOWA Rzeczypospolitej Polskiej a Republiki Uzbekistanu o kulturalnej i naukowej, podpisana Warszawie dnia 11 stycznia 1995 W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej W dniu 11 stycznia 1995 r. podpisana Warszawie Umowa Rzeczypospolitej Polskiej a Republiki Uzbekistanu o kulturalnej i naukowej brzmieniu: UMOWA Rzeczypospolitej Polskiej a Republiki Uzbekistanu o kulturalnej i na ukowej Rzeczypospolitej Polskiej i Republiki Uz bekistanu, zwane dalej Stronami", przekonane, ta przyczyni do przyjaznych stosunków obu stwami, do rozwijania dziedzinie nauki, kultury, sztuki, sportu i tu rystyki, wymiany masowego przekazu, do realizacji
+**Art. 701.**
+
+§ 1. Umowa może być zawarta w drodze przetargu ustnego lub pisemnego.
+
+§ 2. Ogłoszenie przetargu obejmuje co najmniej czas, miejsce, przedmiot oraz warunki przetargu.
+
+**Art. 702.**
+
+§ 1. Oferta złożona w toku przetargu ustnego przestaje wiązać, gdy inny licytant złoży ofertę korzystniejszą albo przetarg zostanie zamknięty bez wybrania którejkolwiek z ofert, chyba że w warunkach przetargu zastrzeżono inaczej.
+
+§ 2. Zawarcie umowy w drodze przetargu ustnego następuje z chwilą wybrania oferty.
+
+**Art. 703.**
+
+§ 1. Oferta złożona w toku przetargu pisemnego przestaje wiązać, gdy została wybrana inna oferta lub gdy przetarg został zamknięty bez wybrania którejkolwiek z ofert, chyba że w warunkach przetargu zastrzeżono inaczej.
+
+§ 2. Ogłaszający przetarg ma obowiązek powiadomić niezwłocznie uczestników przetargu pisemnego o jego wyniku lub o zamknięciu przetargu bez dokonania wyboru. Powiadomienie wymaga pisma lub ogłoszenia w taki sam sposób, w jaki nastąpiło ogłoszenie przetargu.
+
+§ 3. Do ustalenia chwili zawarcia umowy w drodze przetargu pisemnego stosuje się przepisy dotyczące przyjęcia oferty.
+
+**Art. 704.**
+
+§ 1. Strona umowy zawartej w drodze przetargu może żądać jej unieważnienia, jeżeli druga strona lub działająca z nią w porozumieniu osoba trzecia sprzecznie z prawem lub zasadami współżycia społecznego wpłynęła na wynik przetargu. Jeżeli umowa została zawarta na cudzy rachunek, jej unieważnienia może żądać także dający zlecenie.
+
+§ 2. Uprawnienie powyższe wygasa z upływem miesiąca od dowiedzenia się o istnieniu przyczyny unieważnienia, nie później jednak niż z upływem roku od dnia zawarcia umowy. ” ;
+
+- **3)** w art. 79 wyrazy „państwowe biuro notarialne lub właściwy organ prezydium rady narodowej” zastępuje się wyrazami „notariusza lub przewodniczącego zarządu gminy”;
+- **4)** w art. 81 w § 2 w pkt 2 po wyrazach „organ państwowy” dodaje się przecinek i wyrazy „organ gminy albo przez notariusza”;
+- **5)** w art. 110 skreśla się wyrazy „państwowej komisji arbitrażowej,”;
+- **6)** w art. 179: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Właściciel może wyzbyć się własności nieruchomości przez to, że się jej zrzeknie. Zrzeczenie się wymaga formy akty notarialnego. Do zrzeczenia się własności nieruchomości potrzebna jest zgoda kierownika rejonowego organu rządowej administracji ogólnej.”' w § 2 wyrazy „własnością państwową” zastępuje się wyrazami „własnością Skarbu Państwa”;
+
+- **b)**
+- **7)** w art. 187 wyrazy „własnością państwową” zastępuje się wyrazami „własnością Skarbu Państwa”;
+- **8)** w art. 189 wyrazy „własnością państwową” zastępuje się wyrazami „własnością Skarbu Państwa”;
+- **9)** w art. 232 w § 1 skreśla się wyrazy „lub osiedli” oraz „lub osiedla”;
+- **10)** w art. 243 po wyrazach „Skarbu Państwa” dodaje się wyrazy „lub gruntu należącego do gmin bądź ich związków”;
+- **11)** w art. 263: skreśla się oznaczenie § 1, skreśla się § 2;
+    - **a)**
+    - **b)**
+
+- **12)** w art. 272 § 1 otrzymuje brzmienie: „
+
+§ 1. Jeżeli rolniczej spółdzielni produkcyjnej zostaje przekazany do użytkowania zabudowany grunt Skarbu Państwa, przekazanie budynków i innych urządzeń może nastąpić albo do użytkowania, albo na własność. ” ;
+
+- **13)** w art. 312 skreśla się zdanie drugie;
+- **14)** w art. 3571: skreśla się oznaczenie § 1, skreśla się § 2;
+    - **a)**
+    - **b)**
+
+- **15)** w art. 390 w § 3 skreśla się wyrazy „lub państwowa komisja arbitrażowa”;
+- **16)** w art. 411 w pkt 3 skreśla się przecinek i wyrazy „chyba że na podstawie przepisów szczególnych wskutek przedawnienia roszczenie wygasło”;
+- **17)** po art. 420 dodaje się art. 4201 i 4202 w brzmieniu: „
+
+**Art. 4201.**
+
+§ 1. Jeżeli szkoda została wyrządzona przez funkcjonariusza samorządu terytorialnego przy wykonywaniu powierzonej mu czynności, odpowiedzialność za szkodę ponosi ta jednostka samorządu terytorialnego, w której imieniu czynności była wykonywana. Przepisy art. 418, 419 i 420 stosuje się odpowiednio.
+
+§ 2. Funkcjonariuszami samorządu terytorialnego w rozumieniu niniejszego tytułu są pracownicy samorządowi, radni, członkowie zarządu gminy, a także inne osoby, do których stosuje się przepisy o pracownikach samorządowych. Za funkcjonariuszy samorządu terytorialnego uważa się także osoby działające na zlecenie organów gminy, związku międzygminnego lub sejmiku samorządowego.
+
+**Art. 4202.** Jeżeli jednak szkoda została wyrządzona przez funkcjonariusza samorządu terytorialnego przy wykonywaniu zadań z zakresu administracji rządowej zleconych na mocy przepisów ustawy albo powierzonych, odpowiedzialność za szkodę ponoszą Skarb Państwa i jednostka samorządu terytorialnego solidarnie. ” ;
+
+**Art. 421.** Przepisów powyższych o odpowiedzialności Skarbu Państwa albo samorządu terytorialnego za szkodę wyrządzoną przez funkcjonariusza nie stosuje się, jeżeli odpowiedzialność ta jest uregulowana w przepisach szczególnych. ” ;
+
+**Art. 448.** W razie naruszenia dobra osobistego sąd może przyznać temu, czyje dobro osobiste zostało naruszone, odpowiednią sumę tytułem zadośćuczynienia pieniężnego za doznaną krzywdę lub na jego żądanie zasądzić odpowiednią sumę pieniężną na wskazany przez niego cel społeczny, niezależnie od innych środków potrzebnych do usunięcia skutków naruszenia. Przepis art. 445 § 3 stosuje się. ” ;
+
+**Art. 5721.** Kupujący może dochodzić uprawnień z tytułu rękojmi za wady prawne, chociażby osoba trzecia nie wystąpiła przeciw niemu z roszczeniem dotyczącym rzeczy sprzedanej. ” ;
+
+**Art. 5751.** Jeżeli kupujący uniknął straty w całości lub w części nabytej rzeczy, albo skutków jej obciążenia na korzyść osoby trzeciej przez zapłatę sumy pieniężnej lub spełnienie innego świadczenia, sprzedawca może zwolnić się od odpowiedzialności z tytułu rękojmi, zwracając kupującemu zapłaconą sumę lub wartość spełnionego świadczenia wraz z odsetkami i kosztami. ” ;
+
+### Dział III. Gwarancja jakości”;
+
+**Art. 578.** Jeżeli w gwarancji inaczej nie zastrzeżono, odpowiedzialność z tytułu gwarancji obejmuje tylko wady powstałe z przyczyn tkwiących w sprzedanej rzeczy. ” ;
+
+**Art. 579.** Kupujący może wykonywać uprawnienia z tytułu rękojmi za wady fizyczne rzeczy niezależnie od uprawnień wynikających z gwarancji. ” ;
+
+**Art. 580.**
+
+§ 1. Kto wykonuje uprawnienia wynikające z gwarancji, powinien dostarczyć rzecz na koszt gwaranta do miejsca wskazanego w gwarancji lub do miejsca, w którym rzecz została wydana przy udzieleniu gwarancji, chyba że z okoliczności wynika, iż wada powinna być usunięta w miejscu, w którym rzecz znajdowała się w chwili ujawnienia wady.
+
+§ 2. Gwarant jest obowiązany wykonać obowiązki wynikające z gwarancji w odpowiednim terminie i dostarczyć uprawnionemu z gwarancji rzecz na swój koszt do miejsca wskazanego w paragrafie poprzedzającym.
+
+§ 3. Niebezpieczeństwo przypadkowej utraty lub uszkodzenia rzeczy w czasie od wydania jej gwarantowi do jej odebrania przez uprawnionego z gwarancji ponosi gwarant. ” ;
+
+- **31)** art. 581 otrzymuje brzmienie: „
+
+**Art. 581.**
+
+§ 1. Jeżeli w wykonaniu swoich obowiązków gwarant dostarczył uprawnionemu z gwarancji zamiast rzeczy wadliwej rzecz wolną od wad albo dokonał istotnych napraw rzeczy objętej gwarancją, termin gwarancji biegnie na nowo od chwili dostarczenia rzeczy wolnej od wad lub zwrócenia rzeczy naprawionej. Jeżeli gwarant wymienił część rzeczy, przepis powyższy stosuje się odpowiednio do części wymienionej.
+
+§ 2. W innych wypadkach termin gwarancji ulega przedłużeniu o czas, w ciągu którego wskutek wady rzeczy objętej gwarancją uprawniony z gwarancji nie mógł z niej korzystać. ” ;
+
+- **32)** skreśla się art. 582;
+- **33)** w art. 632 w § 2 skreśla się wyrazy „lub państwowa komisja arbitrażowa”;
+- **34)** art. 9211 otrzymuje brzmienie: „
+
+**Art. 9211.** Kto przekazuje drugiemu (odbiorcy przekazu) świadczenie osoby trzeciej (przekazanego), upoważnia tym samym odbiorcę przekazu do przyjęcia, a przekazanego do spełnienia świadczenia na rachunek przekazującego. ” ;
+
+**Art. 2.** W ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173 i z 1991 r. Nr 100, poz. 442) skreśla się art. 40.
+
+**Art. 3.** W ustawie z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw (Dz. U. Nr 34, poz. 198, Nr 43, poz. 253 i Nr 87, poz. 506, z 1991 r. Nr 95, poz. 425, Nr 107, poz. 464 i Nr 114, poz. 492 oraz z 1995 r. Nr 90, poz. 446) skreśla się w art. 1 pkt 9.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

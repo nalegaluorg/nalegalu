@@ -8,9 +8,10 @@ pos: 392
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 marca 2003
+# Ustawa z dnia 14 lutego 2003 r. o zmianie ustawy o przeznaczeniu gruntów rolnych do zalesienia oraz ustawy – Prawo ochrony środowiska
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,61 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030460392) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/392/text.pdf) |
 
-USTAWA zdnia 14 lutego 2003 ozmianie ustawy oprzeznaczeniu gruntów rolnych do zalesienia oraz ustawy Prawo ochrony środowiska
+**Art. 1.** W ustawie z dnia 8 czerwca 2001 r. o przeznaczeniu gruntów rolnych do zalesienia (Dz. U. Nr 73, poz. 764) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 8 czerwca 2001 oprzeznaczeniu gruntów rolnych do zalesienia (Dz. U. 73, poz. 764) wprowadza następujące zmiany:
+**Art. 2.** Starosta, po zasięgnięciu opinii właściwego nadleśniczego oraz w uzgodnieniu z wójtami (burmistrzami, prezydentami miast), Wojewódzkim Funduszem Ochrony Środowiska i Gospodarki Wodnej oraz Agencją Restrukturyzacji i Modernizacji Rolnictwa, w terminie do dnia 31 marca każdego roku, określa ogólną powierzchnię gruntów rolnych – zwaną dalej „rocznym limitem zalesienia” – które w następnym roku mogą być przeznaczone do zalesienia na obszarze powiatu. ” ;
 
-**Art. 2.** Wustawie zdnia 27 kwietnia 2001 Prawo ochrony środowiska (Dz. U. 62, poz. 627 iNr 115, poz. 1229 oraz z2002 74, poz. 676, 113, poz. 984, 153, poz. 1271 i 233, poz. 1957) wart. 409 wpkt 1 po przecinku dodaje wyrazy Ńw tym pokrywanie kosztów planów zalesień oraz kosztów sadzonek przekazanych rolnikom wcelu zalesienia gruntów rolnych, o których mowa ustawie z dnia 8 czerwca 2001 oprzeznaczeniu gruntów rolnych do zalesienia (Dz. U. 73, poz. 764 oraz z2003 46, poz. 392).”.
+**Art. 3a.** Za gospodarstwo rolne uważa się gospodarstwo rolne w rozumieniu przepisów Kodeksu cywilnego, które jego właściciel lub spadkodawca lub darczyńca prowadził lub prowadzi osobiście co najmniej od 5 lat – co jest potwierdzone przez urząd gminy, na którego terenie gospodarstwo się znajduje, z zastrzeżeniem art. 24 ust. 5 pkt 3 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2001 r. Nr 57, poz. 603, z późn. zm.). ” ;
 
-**Art. 3.** W 2003 roczny limit zalesienia ustala wterminie do dnia 31 marca 2003
+**Art. 6.**
 
-**Art. 4.** Do spraw wszczętych przed dniem wejścia wżycie ustawy, aniezakończonych decyzją ostateczną o przeznaczeniu gruntów do zalesienia, stosuje przepisy niniejszej ustawy.
+1. Starosta sprawdza wykonanie zalesienia i wydaje decyzję administracyjną o stwierdzeniu prowadzenia przez właściciela gruntu uprawy leśnej:
 
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi
+- **1)** w terminie 3 miesięcy od dnia otrzymania zawiadomienia o zakończeniu zalesiania – w przypadku zakończenia zalesiania w pierwszym półroczu danego roku,
+- **2)** w terminie 8 miesięcy od dnia otrzymania zawiadomienia o zakończeniu zalesiania – w przypadku zakończenia zalesiania w drugim półroczu danego roku.
+
+2. W przypadku stwierdzenia niespełnienia warunków określonych w art. 4 ust. 3 starosta odmawia wydania decyzji administracyjnej, o której mowa w ust. 1, a na wniosek nadleśniczego, w przypadku winy umyślnej właściciela gruntu, obciąża go kosztami sporządzenia planu zalesienia oraz kosztami sadzonek.
+
+3. Decyzje administracyjne, o których mowa w ust. 1 i 2, wraz z uzasadnieniem starosta doręcza właścicielowi gruntu.
+
+4. Koszty wskazania w terenie granic gruntów klasy VIz, VI lub V, sprawdzenia zalesienia i wykonania pomiaru powierzchni zalesionej pokrywa starosta ze środków Agencji Restrukturyzacji i Modernizacji Rolnictwa. ” ;
+
+- **6)** w art. 7: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4. Ekwiwalent podwyższa się o 50%, jeżeli równocześnie z przeznaczeniem gruntu do zalesienia następuje likwidacja gospodarstwa rolnego prowadzonego osobiście przez właściciela lub jego spadkodawcę lub darczyńcę co najmniej od 5 lat, a właściciel zalesionego gruntu nie jest właścicielem gruntu rolnego lub działki siedliskowej o powierzchni większej niż 0,8 ha. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Ekwiwalent podlega corocznej waloryzacji w wysokości określonej wskaźnikiem wzrostu cen towarów i usług konsumpcyjnych ogłaszanym przez Prezesa Głównego Urzędu Statystycznego. ” , dodaje się ust. 6a w brzmieniu: „
+
+- **c)**
+
+6a. W przypadku sprzedaży gruntu, na którym znajduje się uprawa leśna, obowiązki związane z prowadzeniem uprawy leśnej oraz ekwiwalent przechodzą na nabywcę gruntu. Przekazania tych praw i obowiązków dokonuje starosta w drodze decyzji administracyjnej. ” , ust. 8 otrzymuje brzmienie: „
+
+- **d)**
+
+8. W przypadku zniszczenia uprawy leśnej w wyniku celowego działania właściciela gruntu, starosta wydaje decyzję administracyjną o wstrzymaniu wypłaty ekwiwalentu oraz nakazuje zwrot kosztów sadzonek, kosztów sporządzenia planu zalesienia i pobranego ekwiwalentu – wraz z odsetkami ustawowymi. ” , dodaje się ust. 9 w brzmieniu: „
+
+- **e)**
+
+9. Środki przeznaczone na wypłatę ekwiwalentu niewykorzystane w danym roku przechodzą na rok następny. ” ;
+
+- **7)** w art. 8 ust. 2 otrzymuje brzmienie: „
+
+2. Wypłacenie podwyższonego o 50% ekwiwalentu, o którym mowa w art. 7 ust. 4, następuje po uzyskaniu decyzji o prowadzeniu uprawy leśnej. Po otrzymaniu pierwszej pozytywnej oceny udatności upraw wypłata podwyższonej kwoty ekwiwalentu następuje na wniosek zainteresowanego, corocznie jednorazowo. ” ;
+
+- **8)** w art. 10 po ust. 2 dodaje się ust, 2a i 2b w brzmieniu: „
+
+2a. Przepis ust. 2 stosuje się odpowiednio w przypadku, kiedy jeden z małżonków będących współwłaścicielami gruntu przewidzianego do zalesienia nabył prawo do emerytury lub renty przed zalesieniem gruntu rolnego.
+
+2b. W przypadku gdy właściciel gruntów otrzymuje świadczenie emerytalne lub rentowe, nie nabywa prawa do ekwiwalentu z tytułu przeznaczenia gruntów rolnych do zalesienia. ” ;
+
+- **9)** w art. 11 ust. 1 otrzymuje brzmienie: „
+
+1. Uprawnienie do ekwiwalentu można nabyć w drodze spadkobrania. Korzystanie z nabytych w ten sposób uprawnień jest kontynuowane w ramach ustalonego terminu 20 lat. ” . W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627 i Nr 115, poz. 1229 oraz z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957) w art. 409 w pkt 1 po przecinku dodaje się wyrazy „w tym pokrywanie kosztów planów zalesień oraz kosztów sadzonek przekazanych rolnikom w celu zalesienia gruntów rolnych, o których mowa w ustawie z dnia 8 czerwca 2001 r. o przeznaczeniu gruntów rolnych do zalesienia (Dz. U. Nr 73, poz. 764 oraz z 2003 r. Nr 46, poz. 392).”. W 2003 r. roczny limit zalesienia ustala się w terminie do dnia 31 marca 2003 r.
+
+**Art. 4.** Do spraw wszczętych przed dniem wejścia w życie ustawy, a niezakończonych decyzją ostateczną o przeznaczeniu gruntów do zalesienia, stosuje się przepisy niniejszej ustawy.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 stycznia 2003 r.
 

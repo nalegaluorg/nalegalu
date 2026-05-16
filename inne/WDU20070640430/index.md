@@ -8,6 +8,7 @@ pos: 430
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 7 marca 2007 r. o zmianie ustawy o przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń
@@ -26,5 +27,9 @@ domain: null
 
 **Art. 1.** W ustawie z dnia 22 lipca 2006 r. o przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń (Dz. U. Nr 149, poz. 1076) wprowadza się następujące zmiany:
 
-**Art. 10b.** Przepisy art. 5 ust. 1a iart. 5a stosuje się do środków finansowych uzyskanych przez świadczeniodawców:
+**Art. 5a.** Świadczeniodawcy, o których mowa w art. 1 ust. 1, mogą przeznaczyć środki finansowe uzyskane zgodnie z art. 3 ust. 1 i 3–5 na wzrost wynagrodzeń za 2007 r. u podwykonawców, o których mowa w art. 133 ustawy o świadczeniach. ” ;
+
+**Art. 10a.** Przepisy art. 5 ust. 2–9 i 10 oraz art. 6, 7 i 9 stosuje się do środków finansowych uzyskanych przez świadczeniodawców zgodnie z art. 3 ust. 3–5. Przepisy art. 5 ust. 1a i art. 5a stosuje się do środków finansowych uzyskanych przez świadczeniodawców:
+
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

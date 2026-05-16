@@ -8,9 +8,10 @@ pos: 1782
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny w składzie: Jerzy Ciemniewski — przewodniczący, Marian Grzybowski, Wiesław Johann, Ewa Ęętowska, Bohdan Zdziennicki — sprawozdawca, (Dz. U. Nr 133, poz. 872, ze zm.) zart. 21 ust. 2 Konstytucji, orzeka:
+# Wyrok Trybunału Konstytucyjnegoz dnia 20 lipca 2004 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041691782) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1782/text.pdf) |
 
-Art. 73 ust. 4 ustawy zdnia 13 paêdziernika 1998 r.
-— Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. Nr 133, poz. 872 i Nr 162, poz. 1126, z2000 r. Nr 6, poz. 70, Nr 12, poz. 136, Nr17, poz. 228, Nr 19, poz. 239, Nr 95, poz. 1041 i Nr 122, poz. 1312 oraz z 2001 r. Nr 45, poz. 497, Nr 100, poz. 1084, Nr 111, poz. 1194 i Nr 145, poz. 1623) jest po rozpoznaniu, z udziałem skarżącej oraz Sejmu zgodny z art. 21 ust. 2 Konstytucji Rzeczypospolitej i Prokuratora Generalnego, na rozprawie w dniu Polskiej.
-20lipca 2004 r., skargi konstytucyjnej spółki BIMs Plus Spółka z o.o. o zbadanie zgodności art. 73 ust. 4 ustawy zdnia 13 paêdziernika 1998 r. — Przepisy wprowadzające ustawy reformujące administrację publiczną Jerzy Ciemniewski Dziennik Ustaw Nr 169 — 11861 — Poz. 1782, 1783 i 1784 Marian Grzybowski Wiesław Johann Ewa Ęętowska Bohdan Zdziennicki 1782 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 20 lipca 2004 r.
-sygn. akt SK 11/02 1783 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 20 lipca 2004 r.
-sygn. akt SK 19/02 Trybunał Konstytucyjny w składzie: Biruta Lewaszkiewicz-Petrykowska — przewodniczący, Wiesław Johann, Ewa Ęętowska, Marek Mazurkiewicz — sprawozdawca, Bohdan Zdziennicki, Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) zart. 45 ust. 1 Konstytucji, orzeka:
-Art. 48 § 1 pkt 5 wzwiązku zart. 401 pkt 1 iart. 379 pkt 4 ustawy zdnia 17 listopada 1964 r. — Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) w zakresie, w jakim ogranicza wyłączenie sędziego z mocy samej ustawy tylko do spraw, w których rozstrzyganiu brał udział w instancji bezpośrednio niższej, jest niezgodny z art. 45 ust. 1 Konstytucji Rzepo rozpoznaniu, z udziałem skarżącego oraz Sejmu czypospolitej Polskiej.
-iProkuratora Generalnego, na rozprawie wdniu 20 lipca 2004 r., skargi konstytucyjnej Józefa Artymiaka ozba- Biruta Lewaszkiewicz-Petrykowska danie zgodności art. 48 § 1 pkt 5 w zw. z art.401 pkt 1 Wiesław Johann Ewa Ęętowska oraz art. 379 pkt 4 ustawy zdnia 17 listopada 1964 r. — Marek Mazurkiewicz Bohdan Zdziennicki 1784 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 21 lipca 2004 r.
-sygn. akt K 16/03 Trybunał Konstytucyjny w składzie: Jerzy Ciemniewski, Adam Jamróz — przewodniczący, Teresa Dębowska-Romanowska,
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Jerzy Ciemniewski – przewodniczący, Marian Grzybowski, Wiesław Johann, Ewa Łętowska, Bohdan Zdziennicki – sprawozdawca, protokolant: Dorota Raczkowska-Paluch, po rozpoznaniu, z udziałem skarżącej oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 20 lipca 2004 r., skargi konstytucyjnej spółki BIMs Plus Spółka z o.o. o zbadanie zgodności art. 73 ust. 4 ustawy z dnia 13 października 1998 r. – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. Nr 133, poz. 872, ze zm.) z art. 21 ust. 2 Konstytucji, orzeka: Art. 73 ust. 4 ustawy z dnia 13 października 1998 r. – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. Nr 133, poz. 872 i Nr 162, poz. 1126, z 2000 r. Nr 6, poz. 70, Nr 12, poz. 136, Nr 17, poz. 228, Nr 19, poz. 239, Nr 95, poz. 1041 i Nr 122, poz. 1312 oraz z 2001 r. Nr 45, poz. 497, Nr 100, poz. 1084, Nr 111, poz. 1194 i Nr 145, poz. 1623) jest zgodny z art. 21 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
 

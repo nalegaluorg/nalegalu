@@ -8,6 +8,7 @@ pos: 546
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # sprawie ogłoszenia jednolitego tekstu ustawy zwrocie podatku akcyzowego zawartego cenie oleju napędowego wykorzystywanego do produkcji rolnej

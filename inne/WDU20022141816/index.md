@@ -8,9 +8,10 @@ pos: 1816
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# nym wzakresie badania zgodności rozporządzenia Ra- wy powołanej w punkcie I. 2 lit. b wobec cofnięcia dy Ministrów zdnia 28 grudnia 2001 r. zmieniającego wniosku przez Radę Miejską wKostrzynie.
+# Wyrok Trybunału Konstytucyjnegoz dnia 10 grudnia 2002 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +25,33 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022141816) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1816/text.pdf) |
 
-rozporządzenie w sprawie ustalenia granic oraz zmiany nazw isiedzib władz niektórych gmin imiast (Dz. U. Teresa Dębowska-Romanowska 156, poz. 1819) wzakresie powodującym przesunięcie terminu przyłączenia wsi Szumiłowo do Miasta Ko- Jerzy Ciemniewski Mirosław Wyrzykowski strzyna zart. 2 i7 Konstytucji oraz zart. 4 i2 usta- Marian Zdyb Bohdan Zdziennicki 1816 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 10 grudnia 2002 r.
-sygn. akt P. 6/02.
-Trybunał Konstytucyjny wskładzie: Jerzy Stępień przewodniczący, Jerzy Ciemniewski, Marian Grzybowski, Marian Zdyb sprawozdawca, Bohdan Zdziennicki, po rozpoznaniu, z udziałem Sejmu, Prokuratora Generalnego i Prezesa Rady Ministrów, rozprawie wdniu 10 grudnia 2002 r.:
-1) pytania prawnego Naczelnego Sądu Administracyjnego wWarszawie ozbadanie zgodności: art. 13 4 ustawy z dnia 21 marca 1985 r.
-o drogach publicznych (Dz. U. z 2000 r. 71, poz. 838, ze zm.) z art. 217 Konstytucji w zakresie, wktórym przepis ten upoważnia Radę Ministrów do określenia w drodze rozporządzenia szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych drogach publicznych oraz organu właściwego do ustalania tych opłat, § 3 rozporządzenia Rady Ministrów zdnia 27 czerwca 2000 r. w sprawie szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych drogach publicznych (Dz. U. 51, poz. 608) zart. 13 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2000 r. 71, poz. 838, ze zm.) w zakresie, w którym Rada Ministrów upoważnia radę miasta (gminy) do wprowadzania i ustalania sposobu pobierania opłat za parkowanie pojazdów samochodowych drogach publicznych;
-2) pytania prawnego Naczelnego Sądu Administracyjnego wWarszawie ozbadanie zgodności: § 9 pkt 2 iust. 2 rozporządzenia Rady Ministrów z dnia 27 czerwca 2000 r. w sprawie opłat drogowych (Dz. U. 51, poz. 607) zart. 2 iart. 92 Konstytucji, atakże zart. 13 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. 14, poz. 60, ze zm.);
-3) wniosku Rzecznika Praw Obywatelskich ozbadanie zgodności: § 3 oraz § 4 rozporządzenia Rady Ministrów z dnia 27 czerwca 2000r. w sprawie szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych drogach publicznych (Dz. U. 51, poz. 608) zart. 7 oraz art. 94 Konstytucji, § 3 oraz § 8 2 rozporządzenia Rady Ministrów z dnia 27 czerwca 2000 r. w sprawie szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych drogach publicznych (Dz. U. 51, poz. 608) z art. 92 Konstytucji oraz z art. 13 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z2000 r. 71, poz. 838, ze zm.), § 8 2 rozporządzenia Rady Ministrów zdnia 27 czerwca 2000 r. wsprawie szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych drogach publicznych (Dz. U. 51, poz. 608) z art. 21 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z2000 r. 71, poz. 838, ze zm.), orzeka: I
-1. Art. 13 4 ustawy z dnia 21 marca 1985 r.
-odrogach publicznych (Dz. U. z2000 r. 71, poz. 838, 86, poz. 958, z 2001 r. 125, poz. 1371 oraz z 2002 r. 25, poz. 253 i 41, poz. 365) w zakresie, w którym przepis ten upoważnia Radę Ministrów do określenia w drodze rozporządzenia szczegółowych ISSN 0867-3411 Cena brutto 4,70 zł zasad wprowadzania opłat za parkowanie pojazdów wych (Dz. U. 51, poz. 607) jest niezgodny zart. 92 samochodowych drogach publicznych oraz organu oraz nie jest niezgodny z art. 2 Konstytucji właściwego do ustalania tych opłat, jest niezgodny Rzeczypospolitej Polskiej.
-zart. 217 Konstytucji Rzeczypospolitej Polskiej.
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Jerzy Stępień – przewodniczący, Jerzy Ciemniewski, Marian Grzybowski, Marian Zdyb – sprawozdawca, Bohdan Zdziennicki, protokolant: Dorota Raczkowska, po rozpoznaniu, z udziałem Sejmu, Prokuratora Generalnego i Prezesa Rady Ministrów, na rozprawie w dniu 10 grudnia 2002 r.:
+1)
+pytania prawnego Naczelnego Sądu Administracyjnego w Warszawie o zbadanie zgodności:
+– art. 13 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2000 r. Nr 71, poz. 838, ze zm.) z art. 217 Konstytucji w zakresie, w którym przepis ten upoważnia Radę Ministrów do określenia w drodze rozporządzenia szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych na drogach publicznych oraz organu właściwego do ustalania tych opłat,
+– § 3 ust. 1 rozporządzenia Rady Ministrów z dnia 27 czerwca 2000 r. w sprawie szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych na drogach publicznych (Dz. U. Nr 51, poz. 608) z art. 13 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2000 r. Nr 71, poz. 838, ze zm.) w zakresie, w którym Rada Ministrów upoważnia radę miasta (gminy) do wprowadzania i ustalania sposobu pobierania opłat za parkowanie pojazdów samochodowych na drogach publicznych;
+2)
+pytania prawnego Naczelnego Sądu Administracyjnego w Warszawie o zbadanie zgodności:
+– § 9 ust. 1 pkt 2 i ust. 2 rozporządzenia Rady Ministrów z dnia 27 czerwca 2000 r. w sprawie opłat drogowych (Dz. U. Nr 51, poz. 607) z art. 2 i art. 92 ust. 1 Konstytucji, a także z art. 13 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. Nr 14, poz. 60, ze zm.);
+3)
+wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
+– § 3 ust. 1 oraz § 4 ust. 1 rozporządzenia Rady Ministrów z dnia 27 czerwca 2000 r. w sprawie szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych na drogach publicznych (Dz. U. Nr 51, poz. 608) z art. 7 oraz art. 94 Konstytucji,
+– § 3 ust. 1 oraz § 8 ust. 2 rozporządzenia Rady Ministrów z dnia 27 czerwca 2000 r. w sprawie szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych na drogach publicznych (Dz. U. Nr 51, poz. 608) z art. 92 ust. 1 Konstytucji oraz z art. 13 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2000 r. Nr 71, poz. 838, ze zm.),
+– § 8 ust. 2 rozporządzenia Rady Ministrów z dnia 27 czerwca 2000 r. w sprawie szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych na drogach publicznych (Dz. U. Nr 51, poz. 608) z art. 21 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2000 r. Nr 71, poz. 838, ze zm.),
+orzeka:
+I
+1.
+Art. 13 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2000 r. Nr 71, poz. 838, Nr 86, poz. 958, z 2001 r. Nr 125, poz. 1371 oraz z 2002 r. Nr 25, poz. 253 i Nr 41, poz. 365) w zakresie, w którym przepis ten upoważnia Radę Ministrów do określenia w drodze rozporządzenia szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych na drogach publicznych oraz organu właściwego do ustalania tych opłat, jest niezgodny z art. 217 Konstytucji Rzeczypospolitej Polskiej.
+2.
+§ 3 ust. 1 rozporządzenia Rady Ministrów z dnia 27 czerwca 2000 r. w sprawie szczegółowych zasad wprowadzania opłat za parkowanie pojazdów samochodowych na drogach publicznych (Dz. U. Nr 51, poz. 608) jest niezgodny z art. 7, art. 92 ust. 1 i art. 94 Konstytucji Rzeczypospolitej Polskiej.
+3.
+§ 4 ust. 1 rozporządzenia Rady Ministrów wymienionego w punkcie 2 jest niezgodny z art. 7 i art. 94 Konstytucji Rzeczypospolitej Polskiej.
+4.
+§ 8 ust. 2 rozporządzenia Rady Ministrów wymienionego w punkcie 2 jest niezgodny z art. 92 ust. 1 Konstytucji RP oraz z art. 13 ust. 4 ustawy wymienionej w punkcie 1 – w tej części, w której zawiera on upoważnienie dla Rady Ministrów do określenia, w drodze rozporządzenia, organu właściwego do pobierania opłat za parkowanie pojazdów samochodowych na drogach publicznych, a także z art. 21 ust. 1 ustawy wymienionej w punkcie 1.
+5.
+§ 9 ust. 1 pkt 2 i ust. 2 rozporządzenia Rady Ministrów z dnia 27 czerwca 2000 r. w sprawie opłat drogowych (Dz. U. Nr 51, poz. 607) jest niezgodny z art. 92 ust. 1 oraz nie jest niezgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej.
 II
-2. § 3 rozporządzenia Rady Ministrów zdnia 27 czerwca 2000 r. w sprawie szczegółowych zasad Pobrane podstawie przepisów rozporządzeń Rawprowadzania opłat za parkowanie pojazdów samo- dy Ministrów wskazanych w części I w punktach 2—5 chodowych drogach publicznych (Dz. U. 51, wyroku opłaty nie podlegają zwrotowi.
-poz. 608) jest niezgodny z art. 7, art. 92 iart. 94 Konstytucji Rzeczypospolitej Polskiej. III
-3. § 4 rozporządzenia Rady Ministrów wymie- Art. 13 4 ustawy powołanej w części I punkt nionego wpunkcie 2 jest niezgodny zart. 7 iart. 94 wyroku w zakresie, w którym przepis ten upoważnia Konstytucji Rzeczypospolitej Polskiej. Radę Ministrów do określenia w drodze rozporządzenia szczegółowych zasad wprowadzania opłat za par4. § 8 2 rozporządzenia Rady Ministrów wymie- kowanie pojazdów samochodowych drogach punionego w punkcie 2 jest niezgodny z art. 92 blicznych oraz organu właściwego do ustalania tych Konstytucji RP oraz z art. 13 4 ustawy wymienio- opłat, a także przepisy § 3 1, § 4 1, § 8 2 nej w punkcie w tej części, w której zawiera on rozporządzenia powołanego w części I punkt 2 tracą upoważnienie dla Rady Ministrów do określenia, moc zdniem 30 listopada 2003 r.
-w drodze rozporządzenia, organu właściwego do pobierania opłat za parkowanie pojazdów samochodowych drogach publicznych, a także z art. 21 ustawy wymienionej wpunkcie 1. Jerzy Stępień
-5. § 9 pkt 2 iust. 2 rozporządzenia Rady Mini- Jerzy Ciemniewski Marian Grzybowski strów zdnia 27 czerwca 2000 r. wsprawie opłat drogo- Marian Zdyb Bohdan Zdziennicki
+Pobrane na podstawie przepisów rozporządzeń Rady Ministrów wskazanych w części I w punktach 2–5 wyroku opłaty nie podlegają zwrotowi.
+III
 

@@ -8,9 +8,10 @@ pos: 1215
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 1 18 Przezklinowa operacja przysadki mózgowej wraz 19 Koronaroplastyka wraz leczniczymi technicznymi 20 Koronarografia wraz leczniczymi technicznymi 21 Immunoablacja leczeniu aplazji szpiku 22 Leczenie ostrej fazy oparzenia skóry III stopnia 23 Operacje wad serca aorty piersiowej technicznymi 24 Radioterapia przy stosowaniu specjalnej techniki narna, 1 frakcja dziennie, radykalna radioterapia 25 Brachyterapia 26 Brachyterapia 27 Operacyjne leczenie implanty 28 Leczenie chorych wirusem HIV leki 29 Leczenie hemofilii innych skaz krwotocznych zaburzenia 30 Leczenie choroby Gaucher'a cerezyne 31 Taksoidy skojarzonym leczeniu raka jajnika 32 Taksoidy skojarzonym leczeniu raka piersi 33 Leczenie nowotworów u dzieci cytostatyki 34 Leczenie Ewinga do 35 Leczenie hormonem wzrostu somatotropinowej 36 Leczenie hormonem wzrostu zespole Turnera 37 Leczenie hormonem wzrostu u 38 Leczenie dzieci sterydoopornym 39 Leczenie stymulatorem przeponowym wysokim WYROK TRYBUNAtU KONSTYTUCYJNEGO 20 grudnia sygn. akt K.
+# Wyrok Trybunału Konstytucyjnegoz dnia 20 grudnia 1999 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +24,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991061215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/1215/text.pdf) |
 
-Konstytucyjny prawie ków spolitej Biruta Lewaszkiewicz-Petrykowska przewodniLech Garlicki,
-1) art. 159 pkt 1 art. 160 pkt 1 kwestionowanej usta wy wart. 2 Konstytucji demo kratycznego prawnego,
-2) art. 159 pkt 2 art. 160 pkt 2 kwestionowanej usta wy wart. 2 Konstytucji sprawie prawnego, wart. 32 Konstytucji równoscl wobec prawa wart. 31 Konstytucji ochrony prawnej wol
-3) art. 196 kwestionowanej ustawy wart. 88 ust. 1 Konstytucji opubliko wania ustawy jako warunkiem jej wart. 2 Konstytucji demokra tycznego prawnego, orzeka:
-1. Art. 159 pkt 1 art. 160 pkt 1 ustawy 17 grudnia 1998 r. emeryturach rentach Funduszu (Dz. U. 162, poz. 1118 oraz 1999 r. 38, poz. 360, 70, poz. 774 72, poz. 801 802) zg od ne art. 2 Konstytucji Rzeczy pospolitej Polskiej.
-2. Art. 159 pkt 2 art. 160 pkt 2 ustawy 17 grudnia 1998 r. emeryturach rentach Funduszu (Dz. U. 162, poz. 1118 1216 WYROK 21 grudnia sygn. akt Konstytucyjny Jerzy Czeszejko-Sochacki, Lech Garlicki, Jadwiga Janusz sprawozdawca,
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Biruta Lewaszkiewicz-Petrykowska – przewodnicząca, Lech Garlicki, Stefan J. Jaworski, Wiesław Johann, Andrzej Mączyński – sprawozdawca, protokolant: Joanna Szymczak po rozpoznaniu w dniu 20 grudnia 1999 r. na rozprawie sprawy z wniosku grupy posłów na Sejm, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, o stwierdzenie niezgodności przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118) z Konstytucją Rzeczypospolitej Polskiej, a mianowicie:
+1)
+art. 159 pkt 1 i art. 160 pkt 1 kwestionowanej ustawy z wyrażoną w art. 2 Konstytucji zasadą demokratycznego państwa prawnego,
+2)
+art. 159 pkt 2 i art. 160 pkt 2 kwestionowanej ustawy z wyrażoną w art. 2 Konstytucji zasadą sprawiedliwości i państwa prawnego, wyrażoną w art. 32 Konstytucji zasadą równości wobec prawa i w art. 31 Konstytucji zasadą ochrony prawnej wolności człowieka,
+3)
+art. 196 kwestionowanej ustawy z wyrażonym w art. 88 ust. 1 Konstytucji obowiązkiem opublikowania ustawy jako warunkiem jej wejścia w życie i wyrażoną w art. 2 Konstytucji zasadą demokratycznego państwa prawnego,
+orzeka:
+1.
+Art. 159 pkt 1 i art. 160 pkt 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118 oraz z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774 i Nr 72, poz. 801 i 802) są zgodne z art. 2 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Ponadto postanawia na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643) umorzyć postępowanie w sprawie niezgodności art. 196 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118 oraz z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774 i Nr 72, poz. 801 i 802) w zakresie, w jakim określa datę wejścia w życie art. 159 pkt 2 i art. 160 pkt 2 tej ustawy, z art. 2 i art. 88 ust. 1 Konstytucji Rzeczypospolitej Polskiej z powodu zbędności wydania orzeczenia.
 

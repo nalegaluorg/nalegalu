@@ -8,9 +8,10 @@ pos: 947
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny wskładzie: Biruta Lewaszkiewicz-Petrykowska przewodnicząca, Zdzisław Czeszejko-Sochacki, Teresa Dębowska-Romanowska, Lech Garlicki, Ferdynand Rymarz sprawozdawca, iNr162, poz.1119) zart. 64 ust. 1 wzw. zart. 31 ust. 3 art. 64 ust. 2 Konstytucji Rzeczypospolitej Polskiej orzeka:
+# Wyrok Trybunału Konstytucyjnegoz dnia 4 października 2000 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,17 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000830947) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/947/text.pdf) |
 
-Art. 62 ustawy zdnia 2 lipca 1994 onajmie lokali mieszkalnych i dodatkach mieszkaniowych (Dz. U.
-1998 120, 787 i 162, 1119, 1999 111, 1281 2000 3, 46 i 5,
-67) zakresie, jakim przepis ten wyłącza możliwość waloryzacji kaucji mieszkaniowej, jest niezgodny art. 64 ust. 1 zw. art. 31 ust. 3 po rozpoznaniu dniu 3 paêdziernika 2000 na zart.64 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
-rozprawie sprawy wniosku Rzecznika Praw Obywatelskich, udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Biruta Lewaszkiewicz-Petrykowska Rzeczypospolitej Polskiej Prokuratora Generalnego, o stwierdzenie niezgodności art. 62 ustawy dnia Zdzisław Czeszejko-Sochacki Teresa Dębowska2 lipca 1994 onajmie lokalimieszkalnychidodatkach -Romanowska mieszkaniowych (Dz. U. 1998 120, 787 Lech Garlicki Ferdynand Rymarz 946 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 3 paêdziernika 2000 sygn. akt K.33/99.
-WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 4 paêdziernika 2000 sygn. akt P.8/2000.
-Trybunał Konstytucyjny wskładzie: Janusz Trzciński przewodniczący, Jerzy Ciemniewski, Jerzy Stępień, Marian Zdyb, Zdzisław Czeszejko-Sochacki, Teresa Dębowska-Romanowska, Lech Garlicki, Stefan J. Jaworski, Wiesław Johann, Biruta Lewaszkiewicz-Petrykowska, Andrzej Mączyński, Ferdynand Rymarz, Marek Safjan sprawozdawca, Jadwiga Skórzewska-Ęosiak, po rozpoznaniu dniu 4 paêdziernika 2000 na rozprawie pytań prawnych Sądu Okręgowego Krakowie pytania prawnego Sądu Okręgowego Częstochowie, udziałem umocowanych przedstawicieli uczestników postępowania: Sądu Okręgowego Krakowie, Sądu Okręgowego Częstochowie, Prezydenta Rzeczypospolitej Polskiej, Sejmu Rzeczypospolitej Polskiej Prokuratora Generalnego, oudzielenie odpowiedzi:
-1) czy przepisy § 1, § 2 i§ 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej dnia 23 grudnia 1996 sprawie wynagrodzeń sędziów sądów powszechnych asesorów i aplikantów sądowych (Dz. U. 155, 758) są zgodne zart. 178 ust. 2 zart. 10 ust. 1 Konstytucji Rzeczypospolitej Polskiej,
-2) czy art. 71 ustawy zdnia 20 czerwca 1985 Pra- stawkę dodatku funkcyjnego na stanowisku przewodwo o ustroju sądów powszechnych i stanowiące niczącego wydziału wsądzie rejonowym są zgodjego wypełnienie rozporządzenie Prezydenta Rze- ne art. 178 ust. 2 i nie są niezgodne art. 10 ust.
-czypospolitej Polskiej dnia 23 grudnia 1996 1 Konstytucji Rzeczypospolitej Polskiej.
-sprawie wynagrodzeń sędziów sądów powszechnych asesorów iaplikantów sądowych Ponadto postanawia (Dz. U. 155, 758) są zgodne zart. 178 ust. 2 Konstytucji Rzeczypospolitej Polskiej związku na podstawie art. 39 ust. 1 pkt 1 ustawy dnia zjej art. 10, 1 sierpnia 1997 o Trybunale Konstytucyjnym (Dz. U.
-102, 643 2000 48, 552 i 53, orzeka: 638) wpozostałym zakresie umorzyć postępowanie zpowodu niedopuszczalności wydania orzeczenia.
-Art. 71 ustawy dnia 20 czerwca 1985 Prawo o ustroju sądów powszechnych, brzmieniu nadanym przez art. 15 ustawy dnia 23 grudnia 1994 Janusz Trzciński o kształtowaniu środków na wynagrodzenia państwowej sferze budżetowej (Dz. U. z1995 34,
-163), atakże § 2 rozporządzenia Prezydenta Rzeczypo- Jerzy Ciemniewski Zdzisław Czeszejko-Sochacki spolitej Polskiej dnia 23 grudnia 1996 sprawie Teresa Dębowska-Romanowska Lech Garlicki wynagrodzeń sędziów sądów powszechnych ase- Stefan J. Jaworski Wiesław Johann sorów iaplikantów sądowych (Dz. U. 155, 758) Biruta Lewaszkiewicz-Petrykowska Andrzej Mączyński części określającej stawki wynagrodzenia zasadni- Ferdynand Rymarz Marek Safjan czego sędziego sądu rejonowego iasesora sądowego Jadwiga Skórzewska-Ęosiak Jerzy Stępień § 3 tego rozporządzenia części określającej Marian Zdyb ISSN 0867-3411 Cena 4,32 zł Informacja omożliwości zakupu wydawnictw Gospodarstwa Pomocniczego Kancelarii Prezesa Rady Ministrów
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Janusz Trzciński – przewodniczący, Jerzy Ciemniewski, Zdzisław Czeszejko-Sochacki, Teresa Dębowska-Romanowska, Lech Garlicki, Stefan J. Jaworski, Wiesław Johann, Biruta Lewaszkiewicz-Petrykowska, Andrzej Mączyński, Ferdynand Rymarz, Marek Safjan – sprawozdawca, Jadwiga Skórzewska-Łosiak, Jerzy Stępień, Marian Zdyb, protokolant: Joanna Szymczak, po rozpoznaniu w dniu 4 października 2000 r. na rozprawie pytań prawnych Sądu Okręgowego w Krakowie oraz pytania prawnego Sądu Okręgowego w Częstochowie, z udziałem umocowanych przedstawicieli uczestników postępowania: Sądu Okręgowego w Krakowie, Sądu Okręgowego w Częstochowie, Prezydenta Rzeczypospolitej Polskiej, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, o udzielenie odpowiedzi:
+1)
+czy przepisy § 1, § 2 i § 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 23 grudnia 1996 r. w sprawie wynagrodzeń sędziów sądów powszechnych oraz asesorów i aplikantów sądowych (Dz. U. Nr 155, poz. 758) są zgodne z art. 178 ust. 2 oraz z art. 10 ust. 1 Konstytucji Rzeczypospolitej Polskiej,
+2)
+czy art. 71 ustawy z dnia 20 czerwca 1985 r. – Prawo o ustroju sądów powszechnych i stanowiące jego wypełnienie rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 23 grudnia 1996 r. w sprawie wynagrodzeń sędziów sądów powszechnych oraz asesorów i aplikantów sądowych (Dz. U. Nr 155, poz. 758) są zgodne z art. 178 ust. 2 Konstytucji Rzeczypospolitej Polskiej w związku z jej art. 10,
+orzeka: Art. 71 ustawy z dnia 20 czerwca 1985 r. – Prawo o ustroju sądów powszechnych, w brzmieniu nadanym przez art. 15 ustawy z dnia 23 grudnia 1994 r. o kształtowaniu środków na wynagrodzenia w państwowej sferze budżetowej (Dz. U. z 1995 r. Nr 34, poz. 163), a także § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 23 grudnia 1996 r. w sprawie wynagrodzeń sędziów sądów powszechnych oraz asesorów i aplikantów sądowych (Dz. U. Nr 155, poz. 758) w części określającej stawki wynagrodzenia zasadniczego sędziego sądu rejonowego i asesora sądowego oraz § 3 tego rozporządzenia w części określającej stawkę dodatku funkcyjnego na stanowisku przewodniczącego wydziału w sądzie rejonowym – są zgodne z art. 178 ust. 2 i nie są niezgodne z art. 10 ust. 1 Konstytucji Rzeczypospolitej Polskiej. Ponadto postanawia na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643oraz z 2000 r. Nr 48, poz. 552i Nr 53, poz. 638) w pozostałym zakresie umorzyć postępowanie z powodu niedopuszczalności wydania orzeczenia.
 

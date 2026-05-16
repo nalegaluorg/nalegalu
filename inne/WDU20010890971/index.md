@@ -8,9 +8,10 @@ pos: 971
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 1.Wustawie zdnia 22 marca 1990 opracownikach samorządowych (Dz. U. 21, 124 iNr 43, 253, z1994 98, 471, z1997 9, 43 28, 153, 1998 162, 1118 1126, 2000 12, 136, 26, 306 109, poz.1165 oraz z2001 45, 497) wart. 20 5 otrzymuje brzmienie: Ń5. Osobom wymienionym w 3 nie przysługują nagrody, wyjątkiem nagrody jubileuszowej, októrej mowa wart. 21.”
+# Ustawa z dnia 22 czerwca 2001 r. o zmianie ustawy o pracownikach samorządowych oraz o zmianie niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,32 +25,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010890971) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/971/text.pdf) |
 
-2. Wustawie zdnia 8 marca 1990 osamorządzie gminnym (Dz. U. 1996 13, 74, 58, 261, 106, 496 132, 622, 1997 9, 43, 106, 679, 107, 686, 113, 734 123, 775, 1998 155, 1014 162, 1126, 2000 26, 306, 48, 552, 62, 718, 88, 985, 91, 1009 95, 1041 oraz 2001 45,
-497) w 28a wprowadza się następujące zmiany:
-a) wust. 7 skreśla się wyrazy Ń1 i”,
-b) w 8 wyrazy ŃDo okoliczności określonej w 7” zastępuje się wyrazami ŃW przypadku zmian w podziale terytorialnym państwa, których skutki określa 197 3 i5 ustawy, októrej mowa wart. 24bust. 6”.
-3.Wustawie zdnia 5 czerwca 1998 osamo1009 95, 1041 oraz 2001 45, poz.497) wart. 29 wprowadza się następujące zmiany:
-a) 6 otrzymuje brzmienie: Ń6. Organy powiatu ulegają rozwiązaniu mocy prawa również w przypadkach określonych wart. 197 4 oraz 5 zdnia 16 lipca 1998 Ordynacja wyborcza do rad gmin, rad powiatów sejmików województw (Dz. U. 95, 602 160, 1060 oraz z2001 45, 497).”,
-b) po 6 dodaje się 7 wbrzmieniu: Ń7. W przypadku zmian w podziale terytorialnym państwa, których skutki określa 197 3 i5 ustawy, októrej mowa wust. 6, stosuje się odpowiednio przepisy 2—5 zuwzględnieniem zasady, że osobę, która w tym okresie pełni funkcję organów powiatu, wyznacza się dla każdego powiatów powstałych w wyniku zmian wpodziale terytorialnym państwa.”
-4. Wustawie zdnia 5 czerwca 1998 osamorządzie województwa (Dz. U. 91, 576, 155, 1014, 160, 1060 iNr 162, 1126, z2000r.
-12, 136, 26, 306, 48, 550 552, 62, 718, 88, 985, 91, 1009 iNr95, 1041 oraz z2001 45, 497) wart. 33 wprowadza się następujące zmiany:
-a) 7 otrzymuje brzmienie:
-USTAWA zdnia 22 czerwca 2001 ozmianie opracownikach samorządowych oraz ozmianie niektórych innych ustaw.
-970
-USTAWA zdnia 21 czerwca 2001 oratyfikacji Konwencji odostępie do informacji, udziale społeczeństwa wpodejmowaniu decyzji oraz dostępie do sprawiedliwości wsprawach dotyczących środowiska.
-1.Wyraża się zgodę na dokonanie przez Prezy- 2. Ustawa wchodzi w życie po upływie 14 dni denta Rzeczypospolitej Polskiej ratyfikacji Konwencji od dnia ogłoszenia.
-odostępie do informacji, udziale społeczeństwa wpodejmowaniu decyzji oraz dostępie do sprawiedliwości w sprawach dotyczących środowiska, podpisanej wAarhus dnia 25 czerwca 1998 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
-1. 1. Ustanawia się wieloletni program ŃWyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej w samoloty wielozadaniowe”, zwany dalej Ńprogramem”.
-stopada 1998 ofinansach publicznych (Dz. U. 155, 1014, 1999 38, 360, 49, 485, 70, 778 110, 1255, 2000 6, 69, 12, 136, 48, 550, 95, 972 zdnia 16 lipca 1998 Ordynacja wyborcza do rad gmin, rad powiatów sejmików województw (Dz. U. 95, 602 160, poz.1060 oraz z2001 45, 497).”,
-b) po 7 dodaje się 8 wbrzmieniu: Ń8. W przypadku zmian w podziale terytorialnym państwa, których skutki określa 197 3 5 ustawy, o której mowa w 7, stosuje się odpowiednio przepisy 2—6 uwzględnieniem zasady, że osobę, która w tym okresie pełni funkcję organów województwa, wyznacza się dla każdego województw powstałych wwyniku zmian wpodziale terytorialnym państwa.”
-5. Wustawie zdnia 16 lipca 1998 Ordynacja wyborcza do rad gmin, rad powiatów sejmików województw (Dz. U. 95, 602 iNr 160, 1060 oraz z2001 45, 497) wart. 197 wprowadza się następujące zmiany:
-a) wust. otrzymuje brzmienie:
-USTAWA zdnia 22 czerwca 2001 oustanowieniu programu wieloletniego ŃWyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej wsamoloty wielozadaniowe” izapewnieniu warunków jego realizacji.
-Ń1) jeżeli jednostki samorządu terytorialnego zod) wust. 6 wyrazy Ńwust. i4” zastępuje się wyrazami Ńwust. 4”,
-e) 8 otrzymuje brzmienie: Ń8. Wyborów nowych rad nie przeprowadza się, jeżeli ich data przypadałaby wokresie 6 miesięcy przed zakończeniem kadencji rad.”
-6. Wustawie zdnia 11 kwietnia 2001 ozmianie ustaw: osamorządzie gminnym, osamorządzie powiatowym, o samorządzie województwa, o administracji rządowej w województwie oraz o zmianie niektórych innych ustaw (Dz. U. 45, 497) po 15 dodaje się 15aiart. 15bwbrzmieniu: ŃArt. 15a. Do końca kadencji organów stanowiących jednostek samorządu terytorialnego, wczasie której ustawa weszła w życie, przepis 27 ustawy, októrej mowa wart.2, wzakresie ustalającym liczbę członków zarządu powiatu ma zastosowanie wbrzmieniu dotychczasowym.
-15b. W przypadku zmian w podziale terytorialnym państwa dokonanych na podstawie staje wyłączony obszar stanowiący część okrę- oceny, o której mowa w 7 ustagu wyborczego, okręg lub więcej okręgów wy- wy, o której mowa w 9, wyborów do borczych dla wyborów danej rady w celu włą- nowych rad jednostek samorządu terytoczenia tego obszaru do tworzonej nowej jed- rialnego objętych zmianami nie przepronostki,to mandat radnego stale zamieszkałego wadza się przed końcem kadencji organów lub wybranego na tym obszarze wygasa zmo- stanowiących jednostek samorządu terytocy prawa,” rialnego, w czasie której zmiany weszły
-b) wust. 2, 4 i7 wyrazy Ńust. 2 i3” zastępuje się wżycie.” wyrazami Ńust. 1—3”,
-7. Ustawa wchodzi w życie po upływie 14 dni
-c) 3 otrzymuje brzmienie: od dnia ogłoszenia, wyjątkiem 6, który wchodzi Ń3. Wprzypadkach, októrych mowa wust. w życie dniem ogłoszenia mocą obowiązującą od wodniesieniu do tworzonych nowych jedno- dnia 30 maja 2001 stek samorządu terytorialnego oraz w 4, przeprowadza się wybory do nowych rad wtrybie na zasadach określonych niniejszą ustawą.”, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
+**Art. 1.** W ustawie z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. Nr 21, poz. 124i Nr 43, poz. 253, z 1994 r. Nr 98, poz. 471, z 1997 r. Nr 9, poz. 43i Nr 28, poz. 153, z 1998 r. Nr 162, poz. 1118 i 1126, z 2000 r. Nr 12, poz. 136, Nr 26, poz. 306i Nr 109, poz. 1165oraz z 2001 r. Nr 45, poz. 497) w art. 20 ust. 5 otrzymuje brzmienie: „ 5. Osobom wymienionym w ust. 3 nie przysługują nagrody, z wyjątkiem nagrody jubileuszowej, o której mowa w art. 21. ”
+
+**Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 1996 r. Nr 13, poz. 74, Nr 58, poz. 261, Nr 106, poz. 496i Nr 132, poz. 622, z 1997 r. Nr 9, poz. 43, Nr 106, poz. 679, Nr 107, poz. 686, Nr 113, poz. 734i Nr 123, poz. 775, z 1998 r. Nr 155, poz. 1014i Nr 162, poz. 1126, z 2000 r. Nr 26, poz. 306, Nr 48, poz. 552, Nr 62, poz. 718, Nr 88, poz. 985, Nr 91, poz. 1009i Nr 95, poz. 1041oraz z 2001 r. Nr 45, poz. 497) w art. 28a wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. Nr 91, poz. 578i Nr 155, poz. 1014, z 2000 r. Nr 12, poz. 136, Nr 26, poz. 306, Nr 48, poz. 552, Nr 62, poz. 718, Nr 88, poz. 985, Nr 91, poz. 1009i Nr 95, poz. 1041oraz z 2001 r. Nr 45, poz. 497) w art. 29 wprowadza się następujące zmiany:
+
+**Art. 4.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. Nr 91, poz. 576, Nr 155, poz. 1014, Nr 160, poz. 1060i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 26, poz. 306, Nr 48, poz. 550 i 552, Nr 62, poz. 718, Nr 88, poz. 985, Nr 91, poz. 1009i Nr 95, poz. 1041oraz z 2001 r. Nr 45, poz. 497) w art. 33 wprowadza się następujące zmiany:
+
+**Art. 5.** W ustawie z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. Nr 95, poz. 602i Nr 160, poz. 1060oraz z 2001 r. Nr 45, poz. 497) w art. 197 wprowadza się następujące zmiany:
+
+**Art. 6.** W ustawie z dnia 11 kwietnia 2001 r. o zmianie ustaw: o samorządzie gminnym, o samorządzie powiatowym, o samorządzie województwa, o administracji rządowej w województwie oraz o zmianie niektórych innych ustaw (Dz. U. Nr 45, poz. 497) po art. 15 dodaje się art. 15a i art. 15b w brzmieniu: „
+
+**Art. 15a.** Do końca kadencji organów stanowiących jednostek samorządu terytorialnego, w czasie której ustawa weszła w życie, przepis art. 27 ust. 1 ustawy, o której mowa w art. 2, w zakresie ustalającym liczbę członków zarządu powiatu ma zastosowanie w brzmieniu dotychczasowym. W przypadku zmian w podziale terytorialnym państwa dokonanych na podstawie oceny, o której mowa w art. 7 ust. 1 ustawy, o której mowa w art. 9, wyborów do nowych rad jednostek samorządu terytorialnego objętych zmianami nie przeprowadza się przed końcem kadencji organów stanowiących jednostek samorządu terytorialnego, w czasie której zmiany weszły w życie. ”
+
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 30 maja 2001 r.
 

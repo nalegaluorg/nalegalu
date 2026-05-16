@@ -8,6 +8,7 @@ pos: 402
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 18 marca 2008 r. o zmianie ustawy o Biurze Ochrony Rządu oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin
@@ -24,11 +25,37 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080660402) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/402/text.pdf) |
 
-**Art. 1.** W ustawie dnia 16 marca 2001 o Biurze Ochrony Rządu (Dz. U. 2004 163, 1712 iNr 210, 2135 z2006 i711) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2004 r. Nr 163, poz. 1712 i Nr 210, poz. 2135 oraz z 2006 r. Nr 104, poz. 708 i 711) wprowadza się następujące zmiany:
 
-**Art. 60b.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, sumy ubezpieczenia, o którym art. 60a, uwzględniając, że nie mogą być niższe niż świadczenie, o którym art. 61.”;
+**Art. 60a.**
 
-**Art. 2.** Wustawie zdnia 18 lutego 1994 ozaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej ich rodzin (Dz. U. 2004 8, 67, póên. zm.
+1. Szef BOR zawiera umowę ubezpieczenia od następstw nieszczęśliwych wypadków, wskutek których może nastąpić uszkodzenie ciała, rozstrój zdrowia lub śmierć funkcjonariusza wykonującego obowiązki służbowe, o których mowa w art. 2 ust. 1 pkt 1–3 i 5, poza granicami Rzeczypospolitej Polskiej, w państwach, których terytorium w całości lub części zostało uznane za strefę działań wojennych na podstawie odrębnych przepisów.
 
-**Art. 3.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, wyjątkiem art. 1 pkt 2, który wchodzi życie dniem 1 stycznia 2009 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— ———————
+2. Minister właściwy do spraw wewnętrznych może określić, w drodze rozporządzenia, inne niż wskazane w ust. 1 terytoria państw lub ich części, poza granicami Rzeczypospolitej Polskiej, na których obszarze wykonywanie obowiązków służbowych przez funkcjonariuszy BOR wymaga zawarcia umowy ubezpieczenia, o której mowa w ust. 1, uwzględniając występujące na tych terytoriach zagrożenia związane z atakami terrorystycznymi, niepokojami społecznymi, przestępczością kryminalną lub katastrofami naturalnymi. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sumy ubezpieczenia, o którym mowa w art. 60a, uwzględniając, że nie mogą być niższe niż świadczenie, o którym mowa w art. 61. ” ;
+
+- **2)** w art. 90 po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+3a. Przez przeciętne uposażenie, o którym mowa w ust. 3, należy rozumieć uposażenie wraz z miesięczną równowartością nagrody rocznej, ” ;
+
+- **3)** art. 107 otrzymuje brzmienie: „
+
+**Art. 107.**
+
+1. W razie śmierci funkcjonariusza pozostałej po nim rodzinie przysługują, niezależnie od zasiłku pogrzebowego, odprawa pośmiertna w wysokości określonej w art. 104 ust. 1–3, liczonej na dzień zgonu, oraz należności, o których mowa w art. 105 ust. 1 pkt 2.
+
+2. Odprawa oraz należności, o których mowa w ust. 1, przysługują małżonkowi, który w dniu śmierci funkcjonariusza pozostawał z nim we wspólności małżeńskiej, a w razie braku małżonka – dzieciom, wnukom, rodzeństwu i rodzicom, jeżeli w dniu śmierci funkcjonariusza spełniali warunki wymagane do uzyskania renty rodzinnej określone przepisami ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.).
+
+3. Szef BOR przyznaje należności, o których mowa w ust. 1, w przypadku zaginięcia funkcjonariusza. Zaginięcie funkcjonariusza oraz związek tego zaginięcia ze służbą stwierdza minister właściwy do spraw wewnętrznych w drodze decyzji. ” ;
+
+- **4)** po art. 107 dodaje się art. 107a w brzmieniu: „
+
+1. W przypadku funkcjonariusza, którego śmierć nastąpiła w związku ze służbą, każdemu z dzieci będących na jego utrzymaniu, które w dniu jego śmierci spełniały warunki do uzyskania renty rodzinnej, Szef BOR przyznaje pomoc finansową na kształcenie, ze środków przeznaczonych na ten cel w budżecie BOR.
+
+2. Pomoc finansowa, o której mowa w ust. 1, przysługuje uczniom ponadgimnazjalnych szkół publicznych i niepublicznych o uprawnieniach szkół publicznych dla młodzieży i dla dorosłych oraz słuchaczom zakładów kształcenia nauczycieli i kolegiów pracowników służb społecznych, oraz studentom szkół wyższych do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 25. roku życia.
+
+3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania pomocy, o której mowa w ust. 1, uwzględniając tryb przyznawania i wysokość pomocy w zależności od poziomu kształcenia i rodzaju szkoły. ” .
+
+**Art. 2.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, który wchodzi w życie z dniem 1 stycznia 2009 r.
 

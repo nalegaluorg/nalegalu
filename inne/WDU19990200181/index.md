@@ -8,9 +8,10 @@ pos: 181
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# o ustroju powszechnych oraz niektó rych innych ustaw (Dz. U. 124, 782) niezgodne 77 2 180 1 2 178 1 Konstytucji zakresie, jakim stosunku mocy prawa, mu do dochodzenia naruszonych praw.
+# Wyrok Trybunału Konstytucyjnegoz dnia 9 lutego 1999 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,21 +24,38 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990200181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/181/text.pdf) |
 
-3. Art. 70 § 1 ustawy 21 sierpnia 1997 o ustroju wojskowych (Dz. U. 117,
-753) zakresie, jakim odnosi on do przepi sów ustawy o ustroju powszechnych, nych pkt I. 1. oraz I. 2. wyroku jest niezgodny 47, 60 65 ust'. 1 31 3 oraz 77 2 180 1 2 178 1 Konstytucji, a 8 Konwencji o ochronie praw podstawo wych II.
-pkt I wyroku przepisy nie nie zgodne z: 2, 18, 32 art 52 Konstytucji, 12, 14 18 Konwencji o ochronie praw podstawowych 2 1 Konwencji 111) cej dyskryminacji zakresie zatrudnienia wyko nywania zawodu (Dz. U. 1961 42, 218), 6 1 paktu praw gospo darczych, kulturalnych (Dz. U.
-1977 38, 169), Ponadto Konstytucyjny postanawia: na 39 2 39 1 pkt 1 ustawy 1 sierpnia 1997 o Trybunale Kon stytucyjnym (Dz. U. 102, 643), wydanie orzeczenia za zakresie stwierdzenia 115 3 ustawy 20 czerwca 1985 o ustroju po wszechnych Konstytu cji oraz umów wy roku.
-Marek Sa fj a n Jerzy Ciemniewski Czeszejko-Sochacki Teresa Stefan J. Jaworski Johann Krzysztof Biruta Lewaszkiewicz-Petrykowska Andrzej Ferdynand Rymarz Jadwiga Janusz Marian Zdyb Na 190 1 239 1 zd. 2 Konstytucji Rzeczypospolitej Polskiej wyrok Konstytucyjnego 27 stycznia 1999 r., sygn. akt K.1/98, zakresie pytaniem praw nym Rejonowego tj. stosun ku do przepisów 53 1 59 2 ustawy 20 czerwca 1985 o ustroju po wszechnych wyroku) jest osta teczny.
-Prezes Konstytucyjnego: M. Safjan 181 WYROK KONSTYTUCYJNEGO 9 lutego 1999 sygn. akt U. 4/98.
-Konstytucyjny Andrzej Krzysztof Biruta Lewaszkiewicz-Petrykowska sprawoz dawca po rozpoznaniu dniach 26 stycznia 9 lutego ków wnioskodawcy, Rady Ministrów Prokuratora Generalnego, o stwierdzenie niezgod
-1) przepisu 1 1 Rady Ministrów 23 sierpnia sprawie za dzia na przepisów Pra wa geologicznego -i górniczego (Dz. U. 92, 430 1997 82, 526), 2 32 1 oraz 7 106, 668), 1 1 nr 1 do Konwencji o ochronie praw podstawowych wol
-2) przepisu 2 2 pkt 1 2 Rady Mi nistrów 23 sierpnia sprawie za na przepi sów Prawa geologicznego górniczego (Dz. U.
-92, 430 1997 82, 526): 2, 7, 22, 32 1 Kon stytucji Rzeczypospolitej Polskiej, 1, 2, 84 3 86 3 ustawy 4 lutego geologiczne górnicze (Dz. U. 27, 96, 1996 106, 496, 1997 111, 726 133, 885 oraz 1998 88, 554 106,
-668), 1 1 nr 1 do Konwencji o ochronie praw podstawowych wol
-3) przepisu 7' 1 Rady Ministrów 23 sierpnia sprawie za dzia na przepisów Pra wa geologicznego górniczego (Dz. U. 92, 430 1997 82, 526): 2 32 1, 7 1 Konstytucji Rzeczypospolitej Polskiej, 1, 2 84 3 ustawy 4 lute go geologiczne górnicze (Dz. U. 27, 96, 1996 106, 496, 1997 111, 726 133, 885 oraz 1998 88, 554 106, 668), 1 1 nr 1 do Konwencji o ochronie praw podstawowych wol orzeka:
-1. Przepis 1 1 Rady Ministrów 23 sierpnia sprawie za na przepisów Prawa geolo gicznego górniczego (Dz. U. 92, 430 1997 82, 526): jest zgodny 1, 2, 84 3 86 3 ustawy 4 lutego geo logiczne górnicze (Dz. U. 27, 96, 1996 106, 496, 1997 111, 726 133, 885 oraz 1998 88, 554 106,
-668), wa geologicznego górniczego (Dz. U. 92, 430, 1997 82, 526) rozumiany ten sposób, odniesieniu do kopalin lub surowców mineralnych, które przed wprowadzeniem do obrotu rynkowego zo poddane przeróbce, dotyczy tych kopa lin lub surowców mineralnych, które takiej przeróbki jest zgodny 1, 2, 84 3 86 3 ustawy 4 lutego geo logiczne górnicze (Dz. U. 27, 96, 1996 106, 496, 1997 111, 726 133, 885 oraz 1998 88, 554 106,
-668), jest zgodny 2, 7, 22, 32 1, 217 Konstytucji Rzeczypospolitej Pol skiej, nie jest niezgodny 1 1 nr 1 do Konwencji o ochronie praw podsta wowych
-3. Przepis 2 2 pkt 2 Rady Mi nistrów 23 sierpnia sprawie za na przepisów Pra wa geologicznego górniczego (Dz. U. 92, 430 1997 82, 526): jest zgodny 1, 2, 84 3 86 3 ustawy 4 lutego geo logiczne górnicze (Dz. U. 27, 96, 1996 106, 496, 1997 111, 726 133, 885 oraz 1998 88, 554 106,
-668), jest zgodny 2, 7, 22, 32 1, 217 Konstytucji Rzeczypospolitej Pol skiej, nie jest niezgodny 1 1 nr 1 do Konwencji o ochronie praw podsta wowych posta nawia: Na 39 1 pkt 3 ustawy 1 sierpnia 1997 o Trybunale Konstytucyjnym u m sprawie stwierdzenia nie przepisu 7' 1 Rady Mi nistrów 23 sierpnia sprawie za na przepisów Pra wa geologicznego górniczego (Dz. U. 92, 430, 1997 82, 526) przepisami 1, 2 84 3 ustawy 4 lutego geologiczne górnicze (Dz. U. 27, 96, 1996 106, 496, 1997 111, 726 133, 885 oraz 1998 88, 554 106, 668) oraz 2, 7, 32 1, 1 217 Konstytucji Rzeczypospolitej Polskiej oraz 1 1
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Mączyński – przewodniczący Krzysztof Kolasiński Biruta Lewaszkiewicz-Petrykowska – sprawozdawca protokolant: Joanna Szymczak po rozpoznaniu w dniach 26 stycznia i 9 lutego 1999 r. na rozprawie sprawy z wniosku Związku Pracodawców Górnictwa i Przetwórstwa Surowców Mineralnych w Kielcach z siedzibą w Wiśniówce, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Rady Ministrów i Prokuratora Generalnego, o stwierdzenie niezgodności:
+1)
+przepisu § 1 ust. 1 rozporządzenia Rady Ministrów z dnia 23 sierpnia 1994 r. w sprawie opłat za działalność prowadzoną na podstawie przepisów Prawa geologicznego i górniczego (Dz. U. Nr 92, poz. 430 i z 1997 r. Nr 82, poz. 526),
+– z art. 2 w związku z art. 32 ust. 1 oraz art. 7 i art. 92 ust. 1 w związku z art. 217 Konstytucji Rzeczypospolitej Polskiej,
+– z art. 1, art. 2 oraz z art. 84 ust. 3 i art. 86 ust. 3 ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 111, poz. 726 i Nr 133, poz. 885 oraz z 1998 r. Nr 88, poz. 554 i Nr 106, poz. 668),
+– z art. 1 ust. 1 Protokołu nr 1 do Konwencji o ochronie praw człowieka i podstawowych wolności;
+2)
+przepisu § 2 ust. 2 pkt 1 i 2 rozporządzenia Rady Ministrów z dnia 23 sierpnia 1994 r. w sprawie opłat za działalność prowadzoną na podstawie przepisów Prawa geologicznego i górniczego (Dz. U. Nr 92, poz. 430 i z 1997 r. Nr 82, poz. 526):
+– z art. 2, art. 7, art. 22, art. 32 ust. 1 i art. 92 Konstytucji Rzeczypospolitej Polskiej,
+– z art. 1, art. 2, art. 84 ust. 3 i art. 86 ust. 3 ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 111, poz. 726 i Nr 133, poz. 885 oraz z 1998 r. Nr 88, poz. 554 i Nr 106, poz. 668),
+– z art. 1 ust. 1 Protokołu nr 1 do Konwencji o ochronie praw człowieka i podstawowych wolności;
+3)
+przepisu § 71 ust. 1 rozporządzenia Rady Ministrów z dnia 23 sierpnia 1994 r. w sprawie opłat za działalność prowadzoną na podstawie przepisów Prawa geologicznego i górniczego (Dz. U. Nr 92, poz. 430 i z 1997 r. Nr 82, poz. 526):
+– z art. 2 w związku z art. 32 ust. 1, art. 7 i art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej,
+– z art. 1, art. 2 i art. 84 ust. 3 ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 111, poz. 726 i Nr 133, poz. 885 oraz z 1998 r. Nr 88, poz. 554 i Nr 106, poz. 668),
+– z art. 1 ust. 1 Protokołu nr 1 do Konwencji o ochronie praw człowieka i podstawowych wolności,
+orzeka:
+1.
+Przepis § 1 ust. 1 rozporządzenia Rady Ministrów z dnia 23 sierpnia 1994 r. w sprawie opłat za działalność prowadzoną na podstawie przepisów Prawa geologicznego i górniczego (Dz. U. Nr 92, poz. 430 i z 1997 r. Nr 82, poz. 526):
+– jest zgodny z art. 1, art. 2, art. 84 ust. 3 i art. 86 ust. 3 ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 111, poz. 726 i Nr 133, poz. 885 oraz z 1998 r. Nr 88, poz. 554 i Nr 106, poz. 668),
+– jest zgodny z art. 2, art. 7, art. 32 ust. 1, art. 92 i art. 217 Konstytucji Rzeczypospolitej Polskiej,
+– nie jest niezgodny z art. 1 ust. 1 Protokołu nr 1 do Konwencji o ochronie praw człowieka i podstawowych wolności (Dz. U. z 1995 r. Nr 36, poz. 175).
+2.
+Przepis § 2 ust. 2 pkt 1 rozporządzenia Rady Ministrów z dnia 23 sierpnia 1994 r. w sprawie opłat za działalność prowadzoną na podstawie przepisów Prawa geologicznego i górniczego (Dz. U. Nr 92, poz. 430 i z 1997 r. Nr 82, poz. 526) rozumiany w ten sposób, iż w odniesieniu do kopalin lub surowców mineralnych, które przed wprowadzeniem do obrotu rynkowego zostały poddane przeróbce, dotyczy wyłącznie tych kopalin lub surowców mineralnych, które takiej przeróbki wymagają:
+– jest zgodny z art. 1, art. 2, art. 84 ust. 3 i art. 86 ust. 3 ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 111, poz. 726 i Nr 133, poz. 885 oraz z 1998 r. Nr 88, poz. 554 i Nr 106, poz. 668),
+– jest zgodny z art. 2, art. 7, art. 22, art. 32 ust. 1, art. 92 i art. 217 Konstytucji Rzeczypospolitej Polskiej,
+– nie jest niezgodny z art. 1 ust. 1 Protokołu nr 1 do Konwencji o ochronie praw człowieka i podstawowych wolności.
+3.
+Przepis § 2 ust. 2 pkt 2 rozporządzenia Rady Ministrów z dnia 23 sierpnia 1994 r. w sprawie opłat za działalność prowadzoną na podstawie przepisów Prawa geologicznego i górniczego (Dz. U. Nr 92, poz. 430 i z 1997 r. Nr 82, poz. 526):
+– jest zgodny z art. 1, art. 2, art. 84 ust. 3 i art. 86 ust. 3 ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 111, poz. 726 i Nr 133, poz. 885 oraz z 1998 r. Nr 88, poz. 554 i Nr 106, poz. 668),
+– jest zgodny z art. 2, art. 7, art. 22, art. 32 ust. 1, art. 92 i art. 217 Konstytucji Rzeczypospolitej Polskiej,
+– nie jest niezgodny z art. 1 ust. 1 Protokołu nr 1 do Konwencji o ochronie praw człowieka i podstawowych wolności;
+postanawia: Na podstawie art. 39 ust. 1 pkt 3 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym umorzyć postępowanie w sprawie stwierdzenia niezgodności przepisu § 71 ust. 1 rozporządzenia Rady Ministrów z dnia 23 sierpnia 1994 r. w sprawie opłat za działalność prowadzoną na podstawie przepisów Prawa geologicznego i górniczego (Dz. U. Nr 92, poz. 430 i z 1997 r. Nr 82, poz. 526) z przepisami art. 1, art. 2 i art. 84 ust. 3 ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 111, poz. 726 i Nr 133, poz. 885 oraz z 1998 r. Nr 88, poz. 554 i Nr 106, poz. 668) oraz z art. 2, art. 7, art. 32 ust. 1, art. 92 ust. 1 i art. 217 Konstytucji Rzeczypospolitej Polskiej oraz z art. 1 ust. 1 Protokołu nr 1 do Konwencji o ochronie praw człowieka i podstawowych wolności.
 

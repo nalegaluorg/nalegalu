@@ -8,9 +8,12 @@ pos: 1484
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 października 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o odpowiedzialności za naruszenie dyscypliny finansów publicznych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-10-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1484/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o odpowiedzialności za naruszenie dyscypliny finansów publicznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U.
 z 2024 r. poz. 104), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 497) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 października 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 497), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
@@ -153,7 +154,6 @@ nego lub konkursu z naruszeniem przepisów o zamówieniach publicznych, określa
 6. Naruszeniem dyscypliny finansów publicznych jest niewyłączenie z postępowania o zawarcie umowy koncesji osoby podlegającej wyłączeniu z takiego postępowania na podstawie przepisów o umowie koncesji na roboty budowlane lub usługi.
 7. Naruszeniem dyscypliny finansów publicznych jest niezłożenie przez osoby wykonujące czynności w postępowaniu o zawarcie umowy koncesji po stronie zamawiającego lub mogące mieć wpływ na jego wynik oświadczenia o braku lub istnieniu okoliczności powodujących wyłączenie z tego postępowania.
 8. Naruszeniem dyscypliny finansów publicznych jest niezgodne z przepisami o umowie koncesji na roboty budowlane lub usługi ustalenie szacunkowej wartości umowy koncesji, jeżeli miało to wpływ na obowiązek stosowania przepisów o umowie koncesji na roboty budowlane lub usługi, o niższej wartości.
-lub usługi:
 1) łączenie przedmiotu umowy koncesji,
 2) dzielenie przedmiotu umowy koncesji,
 3) podejmowanie decyzji o zawarciu jednej umowy koncesji lub kilku odrębnych umów koncesji w celu uniknięcia stosowania tych przepisów.
@@ -175,7 +175,7 @@ lub usługi:
 4) niewykonanie w terminie zobowiązania jednostki, w tym obowiązku zwrotu należności celnej, podatku, nadpłaty lub nienależnie opłaconych składek na ubezpieczenie społeczne lub zdrowotne;
 5) udzielenie zamówienia publicznego wykonawcy, który nie został wybrany w trybie określonym w przepisach o zamówieniach publicznych;
 5a) zawarcie umowy ramowej bez przeprowadzenia postępowania w trybie określonym w przepisach o zamówieniach publicznych;
-publicznych dotyczących formy pisemnej umowy, okresu, na który umowa może być zawarta, lub w przypadku wniesienia odwołania, terminu jej zawarcia;
+sienia odwołania, terminu jej zawarcia;
 7) niewyłączenie z postępowania o udzielenie zamówienia publicznego osoby podlegającej wyłączeniu z takiego postępowania na podstawie przepisów o zamówieniach publicznych;
 8) unieważnienie postępowania o udzielenie zamówienia publicznego z naruszeniem przepisów o zamówieniach publicznych określających przesłanki unieważnienia tego postępowania;
 9) zawarcie umowy koncesji na roboty budowlane lub usługi z koncesjonariuszem, który nie został wybrany zgodnie z przepisami o umowie koncesji na roboty budowlane lub usługi;
@@ -237,7 +237,7 @@ d) kierownika lub zastępcy kierownika komórki bezpośrednio odpowiedzialnej za
 2) reprezentowania interesów majątkowych Skarbu Państwa, jednostki samorządu terytorialnego lub innej jednostki sektora finansów publicznych;
 3) członkostwa w organach stanowiących, nadzorczych i wykonawczych państwowych i samorządowych osób prawnych.
 3. Ukaranie karą zakazu pełnienia funkcji związanych z dysponowaniem środkami publicznymi nie ogranicza prawa wybieralności (biernego prawa wyborczego) na wójta, burmistrza i prezydenta miasta.
-jego uznania, w granicach określonych w ustawie, uwzględniając stopień szkodliwości dla finansów publicznych naruszenia dyscypliny finansów publicznych, stopień winy, a także cele kary w zakresie społecznego oddziaływania oraz cele zapobiegawcze i dyscyplinujące, które ma osiągnąć w stosunku do ukaranego.
+dyscypliny finansów publicznych, stopień winy, a także cele kary w zakresie społecznego oddziaływania oraz cele zapobiegawcze i dyscyplinujące, które ma osiągnąć w stosunku do ukaranego.
 1a. Wymierzając karę za naruszenie dyscypliny finansów publicznych wywołujące skutki finansowe, organ orzekający bierze pod uwagę również relację wysokości skutku finansowego do:
 1) wysokości kwoty wydatków albo kosztów określonej w planie finansowym jednostki sektora finansów publicznych lub
 2) wysokości kwoty środków publicznych przekazanych do wykorzystania lub dysponowania w roku budżetowym podmiotowi niezaliczanemu do sektora finansów publicznych.
@@ -281,7 +281,7 @@ Przedawnienie oraz zatarcie ukarania
 44. 1. Przewodniczący kieruje pracą komisji orzekających i Głównej Komisji Orzekającej, czuwa nad sprawnym przebiegiem postępowania i w tym celu wydaje postanowienia i zarządzenia oraz podejmuje inne czynności określone w ustawie.
 2. Zastępca przewodniczącego, w zakresie spraw przekazanych przez przewodniczącego, podejmuje wszystkie czynności określone w ustawie dla przewodniczącego.
 3. Przewodniczący, ich zastępcy i członkowie komisji orzekających i Głównej Komisji Orzekającej są obowiązani do udziału w szkoleniach z zakresu problematyki finansów publicznych i prawa.
-wania przepisów o odpowiedzialności za naruszenie dyscypliny finansów publicznych przez organy orzekające w sprawach o takie naruszenie, przy uwzględnieniu orzecznictwa sądów, w szczególności przez upowszechnianie orzeczeń Głównej Komisji Orzekającej i komisji orzekających.
+o takie naruszenie, przy uwzględnieniu orzecznictwa sądów, w szczególności przez upowszechnianie orzeczeń Głównej Komisji Orzekającej i komisji orzekających.
 45. 1. Członkowie komisji orzekających i Głównej Komisji Orzekającej są niezawiśli w zakresie orzekania w sprawach o naruszenie dyscypliny finansów publicznych i podlegają tylko przepisom prawa.
 2. Członkowie komisji orzekających i Głównej Komisji Orzekającej orzekają w granicach określonych ustawą oraz na mocy przekonania opartego na ocenie dowodów, rozstrzygają samodzielnie nasuwające się zagadnienia prawne i nie są związani rozstrzygnięciami innych organów, z wyjątkiem prawomocnego wyroku sądu.
 46. Komisjami orzekającymi są:
@@ -348,7 +348,7 @@ n) rodzina,
 o) sprawy wewnętrzne,
 p) wyznania religijne oraz mniejszości narodowe i etniczne,
 q) zabezpieczenie społeczne z wyłączeniem środków przekazanych jednostkom, o których mowa w art. 51 pkt 1 i 4;
-ministrowie kierujący działami wymienionymi w pkt 1, z wyłączeniem środków przekazanych jednostkom, o których mowa w art. 51 pkt 1 i 4;
+mowa w art. 51 pkt 1 i 4;
 3) osób pełniących funkcje marszałka województwa, członka zarządu województwa i głównego księgowego budżetu województwa (skarbnika województwa);
 4) osób pełniących funkcje wojewody, wicewojewody, dyrektora generalnego urzędu wojewódzkiego i głównego księgowego części budżetowej, której dysponentem jest wojewoda;
 5) organów i jednostek podległych ministrom kierującym działami wymienionymi w pkt 1 lub nadzorowanych przez tych ministrów oraz jednostek im podległych lub przez nie nadzorowanych;
@@ -374,7 +374,6 @@ c) w części, którą dysponuje Prokurator Generalny z wyłączeniem środków 
 4) samorządowych jednostek organizacyjnych, w tym samorządowych osób prawnych;
 5) innych jednostek otrzymujących środki publiczne przekazane z budżetów jednostek samorządu terytorialnego lub innych środków publicznych, którymi dysponują te jednostki;
 6) innych jednostek w zakresie środków otrzymanych z budżetu wojewody lub z innych środków, którymi dysponuje wojewoda.
-finansów publicznych.
 2. W przypadku naruszenia dyscypliny finansów publicznych popełnionego przez więcej niż jedną osobę, jeżeli jednym z obwinionych jest:
 1) osoba wymieniona w art. 49 pkt 3 i 4 właściwa jest międzyresortowa komisja orzekająca przy ministrze właściwym do spraw administracji publicznej, z zastrzeżeniem pkt 2;
 2) osoba wymieniona w art. 50 pkt 4 właściwa jest komisja orzekająca przy Szefie Kancelarii Prezesa Rady Ministrów.
@@ -403,9 +402,8 @@ finansów publicznych.
 3. Przewodniczący międzyresortowej komisji orzekającej występuje do ministrów kierujących działami administracji rządowej objętymi właściwością danej komisji, a w przypadku międzyresortowej komisji orzekającej przy Ministrze Sprawiedliwości również do Prokuratora Generalnego, o przedstawienie kandydatów na członków tej komisji. Kandydatów przedstawia się w terminie 14 dni od dnia wystąpienia.
 54. 1. Przewodniczącego Głównej Komisji Orzekającej i jego zastępcę powołuje i odwołuje, na wniosek ministra właściwego do spraw finansów publicznych, Prezes Rady Ministrów.
 2. Członków Głównej Komisji Orzekającej powołuje i odwołuje, na wniosek Przewodniczącego tej Komisji zaopiniowany przez ministra właściwego do spraw finansów publicznych, Prezes Rady Ministrów.
-na pracę w komisji oraz:
+55. 1. W skład komisji orzekającej oraz Głównej Komisji Orzekającej powołuje się osobę, która wyraziła zgodę na pracę w komisji oraz:
 1) ma obywatelstwo polskie i korzysta z pełni praw publicznych;
-2) posiada pełną zdolność do czynności prawnych;
 3) nie była prawomocnie skazana za przestępstwo lub przestępstwo skarbowe popełnione umyślnie;
 4) nie była prawomocnie ukarana za naruszenie dyscypliny finansów publicznych;
 5) posiada wyższe wykształcenie prawnicze, ekonomiczne lub administracyjne;
@@ -515,7 +513,7 @@ dzenia, o którym mowa w ust. 1:
 2. Obwiniony może udzielić upoważnienia do obrony na piśmie utrwalonym w postaci papierowej, w postaci elektronicznej lub ustnie do protokołu.
 2a. Obrońca dołącza do akt oryginał lub urzędowo poświadczony odpis pełnomocnictwa. Adwokat lub radca prawny mogą sami uwierzytelnić odpis udzielonego im upoważnienia do obrony oraz odpisy innych dokumentów wykazujących ich umocowanie. Organy właściwe w sprawach o naruszenie dyscypliny finansów publicznych mogą w razie wątpliwości zażądać urzędowego poświadczenia odpisu.
 2b. Jeżeli odpis upoważnienia do obrony lub odpisy innych dokumentów wykazujących umocowanie zostały sporządzone w postaci elektronicznej, ich uwierzytelnienia, o którym mowa w ust. 2a, dokonuje się, opatrując odpisy kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpisy upoważnienia do obrony lub odpisy innych dokumentów wykazujących umocowanie uwierzytelniane elektronicznie są sporządzane w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019, 1158 i 1301).
-określone dla obwinionego, a jego udział w postępowaniu nie wyłącza osobistego działania w nim obwinionego. Obrońca może podejmować czynności jedynie na korzyść obwinionego.
+może podejmować czynności jedynie na korzyść obwinionego.
 4. Obrońca może bronić kilku obwinionych, jeżeli ich interesy nie pozostają w sprzeczności.
 76. 1. Obwinionego uważa się za niewinnego, dopóki jego odpowiedzialność za naruszenie dyscypliny finansów publicznych nie zostanie udowodniona i potwierdzona prawomocnym orzeczeniem w sprawie o naruszenie dyscypliny finansów publicznych.
 2. Obwiniony nie ma obowiązku dowodzenia swojej niewinności i może bez podania powodów odmówić składania wyjaśnień lub odpowiedzi na poszczególne pytania.
@@ -539,7 +537,6 @@ określone dla obwinionego, a jego udział w postępowaniu nie wyłącza osobist
 4. Jeżeli postępowanie zostało zawieszone po rozpoczęciu postępowania dowodowego na rozprawie, a skład orzekający został zmieniony, ujawnia się dowody przeprowadzone poprzednio.
 79. 1. Sprawy o naruszenie dyscypliny finansów publicznych, pozostające ze sobą w ścisłym związku lub dotyczące naruszenia dyscypliny finansów publicznych popełnionego przez więcej niż jedną osobę, rozpoznaje się łącznie, chyba że zachodzą okoliczności uniemożliwiające łączne rozpoznanie sprawy.
 2. Jeżeli okoliczności uzasadniające zawieszenie postępowania dotyczą jednej ze spraw rozpoznawanych łącznie lub jednej z osób, które popełniły naruszenie dyscypliny finansów publicznych, albo jeżeli ujawnią się inne okoliczności uniemożliwiające łączne rozpoznanie sprawy, sprawy te wyłącza się do odrębnego postępowania.
-zarówno na korzyść, jak i na niekorzyść obwinionego.
 2. Organy prowadzące postępowanie są obowiązane, w niezbędnym zakresie, pouczać jego uczestników o ciążących na nich obowiązkach i przysługujących im prawach oraz udzielać im wyjaśnień i informacji o tych prawach i obowiązkach, tak aby w toku postępowania jego uczestnicy nie ponieśli szkody z powodu nieznajomości przepisów, dotyczących postępowania w sprawach o naruszenie dyscypliny finansów publicznych.
 81. 1. Z wnioskiem o ukaranie występuje się do komisji orzekającej, zgodnie z właściwością określoną w art. 47–51a.
 2. Przewodniczący Głównej Komisji Orzekającej, na wniosek przewodniczącego komisji orzekającej złożony przed skierowaniem wniosku o ukaranie do rozpoznania, wyznacza, w drodze postanowienia, do rozpoznania wniosku o ukaranie inną komisję orzekającą niż wynika to z jej właściwości, jeżeli wniosek o ukaranie dotyczy członka komisji orzekającej albo rzecznika dyscypliny lub jego zastępcy, właściwego w sprawach tej komisji.
@@ -588,7 +585,6 @@ Jeżeli wniosek o wyłączenie dotyczy przewodniczącego składu orzekającego w
 4. Podstawą oddalenia wniosku dowodowego nie może być fakt, że dotychczas przeprowadzone dowody wskazują fakty odmienne od tych, które wnioskodawca zamierza udowodnić.
 5. Oddalenie wniosku dowodowego nie stoi na przeszkodzie późniejszemu dopuszczeniu dowodu, nawet jeżeli nie ujawniły się nowe okoliczności.
 90. Osoba, wobec której wszczęto postępowanie, występująca z wnioskiem dowodowym, w tym o dowód z zeznań świadków, jest obowiązana dokładnie oznaczyć fakty, o których stwierdzenie wnosi. Obowiązek dotyczy również wskazania świadków, których zeznania mają stwierdzać te fakty, tak aby wezwanie ich przez organ prowadzący postępowanie było możliwe.
-stępowanie, w szczególności na rozprawie, i złożyć zeznania.
 2. Świadek, który nie może stawić się na rozprawę z powodu choroby, kalectwa lub innej niedającej się pokonać przeszkody, może być przesłuchany w miejscu swojego pobytu przez:
 1) wyznaczonego członka składu orzekającego lub
 2) członka innej komisji orzekającej, jeżeli byłoby to uzasadnione ze względu na odległość, która dzieli siedzibę komisji od miejsca pobytu świadka, a zwróci się o to przewodniczący komisji rozpoznającej sprawę.
@@ -611,7 +607,7 @@ Zwolnienia można odmówić tylko wtedy, gdyby złożenie wyjaśnień lub udziel
 8. Wpływy z tytułu kar porządkowych stanowią dochód budżetu państwa.
 9. Prawomocne postanowienie o nałożeniu kary porządkowej niezwłocznie przekazuje osobie ukaranej odpowiednio rzecznik dyscypliny albo przewodniczący składu orzekającego komisji orzekającej albo Głównej Komisji Orzekającej. Przepis art. 155 ust. 1 stosuje się odpowiednio.
 10. Kary porządkowe nieuiszczone w terminie podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
-czonym terminie, informacji mających znaczenie dla sprawy, w ramach posiadanej wiedzy. Przepis art. 86 ust. 3 stosuje się odpowiednio.
+odpowiednio.
 92. Jeżeli stwierdzenie okoliczności mających znaczenie dla sprawy wymaga wiadomości specjalnych lub wiedzy specjalistycznej, organ prowadzący postępowanie zasięga opinii organów lub instytucji, o których mowa w art. 86.
 93. 1. Zawiadomienie o ujawnionych okolicznościach, wskazujących na naruszenie dyscypliny finansów publicznych, zwane dalej „zawiadomieniem”, składa niezwłocznie do właściwego rzecznika dyscypliny:
 1) kierownik jednostki sektora finansów publicznych,
@@ -633,7 +629,7 @@ czonym terminie, informacji mających znaczenie dla sprawy, w ramach posiadanej 
 4. Jeżeli zawiadomienie nie zawiera któregokolwiek z elementów wymienionych w ust. 1 pkt 2 lub podpisu zawiadamiającego, rzecznik dyscypliny zwraca zawiadomienie, wskazując braki złożonego zawiadomienia.
 5. Jeżeli zawiadomienie nie zawiera któregokolwiek z elementów wymienionych w ust. 1 pkt 3 i 4, rzecznik dyscypliny uzupełnia braki we własnym zakresie albo wskazuje je zawiadamiającemu, wzywając go jednocześnie do ponownego złożenia uzupełnionego zawiadomienia w terminie nie dłuższym niż 14 dni od daty doręczenia wezwania.
 95. 1. Jeżeli rzecznik dyscypliny otrzymał informację o naruszeniu dyscypliny finansów publicznych od osób lub podmiotów innych niż wymienione w art. 93 ust. 1, przekazuje tę informację kierownikowi jednostki, której ona dotyczy, oraz organowi sprawującemu nadzór nad tą jednostką.
-obowiązani przekazać rzecznikowi dyscypliny, w wyznaczonym przez niego terminie, nie dłuższym niż 3 miesiące i nie krótszym niż miesiąc, informację o podjętych w tej sprawie działaniach, a następnie informować go o dalszych czynnościach w sprawie i ich wynikach.
+szym niż miesiąc, informację o podjętych w tej sprawie działaniach, a następnie informować go o dalszych czynnościach w sprawie i ich wynikach.
 3. Przepisu ust. 2 nie stosuje się, jeżeli w terminie, o którym mowa w tym przepisie, odpowiednio kierownik jednostki lub organ sprawujący nadzór nad jednostką złoży zawiadomienie.
 4. Jeżeli w terminie, o którym mowa w ust. 2, nie zostanie przekazana informacja o podjętych działaniach ani nie zostanie złożone zawiadomienie, rzecznik dyscypliny przekazuje otrzymaną informację o naruszeniu dyscypliny finansów publicznych Głównemu Rzecznikowi.
 5. Przepis ust. 4 stosuje się odpowiednio, jeżeli po przekazaniu w terminie, o którym mowa w ust. 2, informacji o podjętych działaniach kierownik jednostki oraz organ sprawujący nadzór nad jednostką nie informują rzecznika dyscypliny o dalszych czynnościach w sprawie i ich wynikach.
@@ -700,7 +696,6 @@ c) po wydaniu postanowienia o umorzeniu postępowania wyjaśniającego wyszły n
 4) określenie zarzucanego naruszenia dyscypliny finansów publicznych wraz ze wskazaniem sposobu i czasu jego popełnienia, naruszonego przepisu prawa oraz przepisu ustawy określającego to naruszenie;
 5) wskazanie okoliczności, w jakich doszło do naruszenia dyscypliny finansów publicznych, a także jeżeli nastąpiło uszczuplenie środków publicznych, przekroczenie upoważnienia do dokonywania wydatków ze środków publicznych, do zaciągnięcia zobowiązań lub niewykonanie zobowiązań albo zapłata odsetek, kar lub opłat określenie ich wysokości;
 6) wskazanie dowodów;
-za naruszenie dyscypliny finansów publicznych;
 8) określenie, jakiej kary domaga się oskarżyciel;
 9) uzasadnienie oparte na wynikach postępowania wyjaśniającego.
 2. Do wniosku o ukaranie dołącza się postanowienie o wszczęciu postępowania wyjaśniającego, a także zebrany materiał dowodowy oraz dowody i wyjaśnienia przedstawione przez obwinionego na swoją obronę lub informację o odmowie ich złożenia.
@@ -745,7 +740,6 @@ za naruszenie dyscypliny finansów publicznych;
 2) z uwagi na zagrożenie spokoju i porządku publicznego.
 3. Ogłoszenie orzeczenia w sprawie o naruszenie dyscypliny finansów publicznych jest jawne.
 4. Zawiadomienie o terminie i przedmiocie rozprawy wywiesza się w siedzibie komisji orzekającej w miejscu ogólnie dostępnym, co najmniej na 7 dni przed rozprawą.
-niem ust. 2.
 2. W przypadku wystąpienia w toku rozprawy okoliczności, o których mowa w art. 119 ust. 2, wyłączenie jawności rozprawy lub jej części zarządza przewodniczący składu orzekającego.
 3. W przypadku wyłączenia jawności rozprawy z przyczyn, o których mowa w art. 119 ust. 2 pkt 1, do składu orzekającego wyznacza się osoby posiadające poświadczenia, wymagane odrębnymi przepisami, upoważniające do dostępu do informacji niejawnych.
 4. Przepis ust. 3 stosuje się odpowiednio do rzecznika dyscypliny i protokolanta.
@@ -790,7 +784,6 @@ O umorzeniu lub zawieszeniu tego postępowania rzecznik dyscypliny informuje kom
 133. 1. Po przeprowadzeniu dowodów dopuszczonych w sprawie przewodniczący składu orzekającego pyta strony, czy wnoszą o uzupełnienie postępowania dowodowego, a w przypadku odpowiedzi odmownej zamyka postępowanie dowodowe.
 2. Po zamknięciu postępowania dowodowego przewodniczący składu orzekającego udziela głosu kolejno oskarżycielowi, obrońcy i obwinionemu. Jeżeli jedna ze stron zabiera głos ponownie, przewodniczący udziela głosu również stronie przeciwnej.
 3. Po wysłuchaniu stron przewodniczący składu orzekającego zamyka rozprawę i zarządza poufną naradę składu orzekającego w celu wydania orzeczenia. Na naradzie oprócz składu orzekającego obecny jest tylko protokolant.
-większością głosów. Głosowanie przeprowadza się oddzielnie dla każdej rozstrzyganej kwestii.
 2. Orzeczenie podpisują przewodniczący i członkowie składu orzekającego, nie wyłączając przegłosowanego, który podpisując rozstrzygnięcie ma prawo zaznaczyć na nim swoje zdanie odrębne. Uzasadnienie zdania odrębnego dołącza się do akt sprawy.
 135. 1. Komisja orzekająca wydaje orzeczenie o odpowiedzialności za naruszenie dyscypliny finansów publicznych albo orzeczenie o uniewinnieniu, albo orzeczenie o umorzeniu postępowania.
 2. Orzeczenie zawiera:
@@ -944,7 +937,7 @@ Przewodniczący może odmówić sprostowania albo zarządzić sprostowanie proto
 2. W uzasadnionych przypadkach akta sprawy udostępnia się w toku czynności sprawdzających i postępowania w celu umożliwienia ich przeglądania oraz sporządzania z nich notatek i odpisów również innym osobom za zgodą odpowiednio rzecznika dyscypliny, Głównego Rzecznika, przewodniczącego komisji orzekającej albo Przewodniczącego Głównej Komisji Orzekającej.
 3. Udostępnianie akt sprawy następuje w siedzibie organu prowadzącego postępowanie.
 173a. Przepis art. 173 ust. 1 nie narusza prawa osoby, której dane dotyczą, do skorzystania z uprawnień wynikających z art. 15 rozporządzenia 2016/679.
-w postaci papierowej lub w postaci elektronicznej. Wyjaśnienia oraz oświadczenia składa się na piśmie utrwalonym w postaci papierowej lub w postaci elektronicznej albo wnosi ustnie do protokołu.
+staci papierowej lub w postaci elektronicznej albo wnosi ustnie do protokołu.
 1a. Pisma utrwalone w postaci papierowej opatruje się podpisem własnoręcznym. Pisma utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 2. Pismo lub oświadczenie wniesione do protokołu poza rozprawą powinno być podpisane przez wnoszącego, a protokół również przez osobę, która go sporządziła.
 3. W przypadku gdy pismo strony jest wnoszone w postaci elektronicznej, wnosi się je na adresy do doręczeń elektronicznych, o których mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r.
@@ -994,7 +987,7 @@ elektronicznych wpisane do bazy adresów elektronicznych, o której mowa w art. 
 3. Jeżeli adresat odmawia przyjęcia pisma doręczanego przez operatora pocztowego lub w inny sposób, pismo zwraca się nadawcy z adnotacją o odmowie jego przyjęcia i datą odmowy. Pismo wraz z adnotacją włącza się do akt sprawy.
 4. W przypadkach, o których mowa w ust. 2 i 3, uznaje się, że pismo zostało skutecznie doręczone odpowiednio w dniu stwierdzonym przez doręczającego lub w dniu odmowy jego przyjęcia przez adresata.
 186. 1. W razie niemożności doręczenia pisma w sposób określony w art. 180 ust. 1 lub art. 184 operator pocztowy w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe przechowuje pismo przez okres 14 dni w swojej placówce pocztowej.
-dnia pozostawienia zawiadomienia w placówce pocztowej, umieszcza się w oddawczej skrzynce pocztowej albo, gdy nie jest to możliwe, na drzwiach mieszkania adresata, jego biura lub innego pomieszczenia, w którym adresat wykonuje swoje czynności zawodowe, albo w widocznym miejscu przy wejściu na posesję adresata.
+jest to możliwe, na drzwiach mieszkania adresata, jego biura lub innego pomieszczenia, w którym adresat wykonuje swoje czynności zawodowe, albo w widocznym miejscu przy wejściu na posesję adresata.
 3. W przypadku niepodjęcia pisma w terminie, o którym mowa w ust. 2, pozostawia się powtórne zawiadomienie o możliwości odbioru pisma w terminie nie dłuższym niż 14 dni od daty pierwszego zawiadomienia.
 4. W przypadku niepodjęcia pisma w terminie, o którym mowa w ust. 3, doręczenie uważa się za dokonane z upływem ostatniego dnia okresu, o którym mowa w ust. 1, a pismo pozostawia się w aktach sprawy.
 187. 1. Prawomocne postanowienia i orzeczenia komisji orzekającej o umorzeniu postępowania w sprawie o naruszenie dyscypliny finansów publicznych ze względu na przedawnienie karalności albo okoliczności, o których mowa w art. 27 ust. 1 lub art. 28 ust. 1, przekazuje się Przewodniczącemu Głównej Komisji Orzekającej.
@@ -1120,7 +1113,7 @@ e) składania zawiadomień o stwierdzonych uchybieniach w czynnościach instytuc
 2) sprawy, w których postępowanie nie zostało wszczęte;
 3) sprawy, w których prawomocne orzeczenia nie zostały wykonane;
 4) akta spraw, w których orzeczone kary nie uległy zatarciu.
-cypliny finansów publicznych, prowadzone przez nich sprawy, a także ich prawa i obowiązki, przejmują odpowiednio: rzecznik dyscypliny oraz Główny Rzecznik, powołani na podstawie niniejszej ustawy.
+rzecznik dyscypliny oraz Główny Rzecznik, powołani na podstawie niniejszej ustawy.
 7. Przepis ust. 5 stosuje się odpowiednio w przypadku wygaśnięcia członkostwa w komisji orzekającej z przyczyn, o których mowa w art. 56 ust. 1 pkt 9.
 202. Ustawa wchodzi w życie z dniem 1 lipca 2005 r.
 

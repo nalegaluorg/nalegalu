@@ -8,6 +8,7 @@ pos: 36
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin

@@ -8,9 +8,10 @@ pos: 1166
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 25 października
+# Ustawa z dnia 10 października 2012 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1166/text.pdf) |
 
-USTAWA dnia 10 października o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych
+**Art. 1.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2012 r. poz. 855) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 5 listopada 2009 o spółdzielczych kasach oszczędnościowo-kredytowych (Dz.
+**Art. 80a.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015) w art. 8 w § 1 pkt 8 otrzymuje brzmienie: „
 
-**Art. 83b.** W ustawie dnia 2 kwietnia 2004 o niektórych zabezpieczeniach finansowych (Dz.
+**Art. 81a.** W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2009 r. Nr 84, poz. 711, z późn. zm.) w art. 2 w pkt 1 lit. h otrzymuje brzmienie: „
 
-**Art. 85b.** W ustawie dnia 12 lutego 2009 o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. 39, 308, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 83a.** W ustawie z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2010 r. Nr 112, poz. 743, z późn. zm.) w art. 1 w pkt 5 lit. c otrzymuje brzmienie: „
 
-**Art. 85c.** W ustawie dnia 7 maja 2009 o biegłych rewidentach ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz o nadzorze publicznym (Dz. 77, 649 oraz 182,
+**Art. 84.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.) w art. 75 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „
 
-**Art. 85d.** W ustawie dnia 19 sierpnia o usługach płatniczych (Dz. 199, 1175 291,
+**Art. 2.** Celem nadzoru nad rynkiem finansowym jest zapewnienie prawidłowego funkcjonowania tego rynku, jego stabilności, bezpieczeństwa oraz przejrzystości, zaufania do rynku finansowego, a także zapewnienie ochrony interesów uczestników tego rynku przez realizację celów określonych w szczególności w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawie z dnia 12 września 2002 r. o elektronicznych instrumentach płatniczych, ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych, ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, ustawie z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego, ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych oraz ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych.”; ” ; ” ;
 
-**Art. 2.** Ustawa wchodzi życie dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 85a.** W ustawie z dnia 22 lipca 2006 r. o spółdzielni europejskiej (Dz. U. Nr 149, poz. 1077 oraz z 2011 r. Nr 133, poz. 767) w art. 2 pkt 6 otrzymuje brzmienie: „
+
+**Art. 88.** Przepisy art. 50 ust. 4 i art. 64 ust. 1 pkt 1a ustawy zmienianej w art. 81, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie po raz pierwszy do sprawozdań finansowych za rok obrotowy rozpoczynający się w roku, w którym ustawa weszła w życie. ” ;
 

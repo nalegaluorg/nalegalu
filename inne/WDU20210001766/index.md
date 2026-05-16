@@ -1,0 +1,93 @@
+---
+title: Rozporządzenie Ministra Klimatu i Środowiska z dnia 2 września 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Ostoja Nidziańska (PLH260003)
+address: WDU20210001766
+eli: DU/2021/1766
+publisher: DU
+year: 2021
+pos: 1766
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 2 września 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Ostoja Nidziańska (PLH260003)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 1766 |
+| ISAP | WDU20210001766 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2021-09-02 |
+| Data wydania | 2021-09-29 |
+| Ostatnia zmiana | 2024-06-28 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1766/text.pdf) |
+
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Granica specjalnego obszaru ochrony siedlisk ostoja nidziańska (PLH260003)
+
+## Załącznik nr 1 — – Mapa specjalnego obszaru ochrony siedlisk ostoja nidziańska (PLH260003)
+
+## Załącznik nr 3 — – Siedliska przyrodnicze będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk ostoja nidziańska (PLH260003)
+
+## Załącznik nr 4 — – Gatunki roślin będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk ostoja nidziańska (PLH260003)
+
+## Załącznik nr 5 — – Gatunki zwierząt innych niż ptaki, będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk ostoja nidziańska (PLH260003)
+
+Treść rozporządzenia
+Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2021 r. poz. 1098 i 1718) zarządza się, co następuje:
+§ 1.
+1.
+Wyznacza się specjalny obszar ochrony siedlisk Ostoja Nidziańska (PLH260003), obejmujący obszar 26 515,64 ha, położony w województwie świętokrzyskim.
+2.
+Granica obszaru, o którym mowa w ust. 1, w postaci wykazu współrzędnych punktów załamania granicy, jest określona w załączniku nr 1 do rozporządzenia.
+§ 2.
+Mapa obszaru, o którym mowa w § 1, jest określona w załączniku nr 2 do rozporządzenia.
+§ 3.
+Obszar, o którym mowa w § 1, wyznacza się w celu:
+1)
+trwałej ochrony:
+a)
+siedlisk przyrodniczych,
+b)
+populacji zagrożonych wyginięciem gatunków roślin,
+c)
+populacji zagrożonych wyginięciem gatunków zwierząt innych niż ptaki lub
+2)
+odtworzenia właściwego stanu ochrony siedlisk przyrodniczych lub właściwego stanu ochrony gatunków, o których mowa w pkt 1 lit. b lub c
+w stosunku do przedmiotów ochrony.
+§ 4.
+Przedmiotem ochrony na obszarze, o którym mowa w § 1, są:
+1)
+siedliska przyrodnicze określone w załączniku nr 3 do rozporządzenia;
+2)
+gatunki roślin, określone w załączniku nr 4 do rozporządzenia, oraz ich siedliska;
+3)
+gatunki zwierząt innych niż ptaki, określone w załączniku nr 5 do rozporządzenia, oraz ich siedliska.
+§ 5.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941). 2) Kod obszaru został określony zgodnie z decyzją wykonawczą Komisji (UE) 2021/161 z dnia 21 stycznia 2021 r. w sprawie przyjęcia czternastego zaktualizowanego wykazu terenów mających znaczenie dla Wspólnoty składających się na kontynentalny region biogeograficzny (notyfikowaną jako dokument nr C(2021) 21) (Dz. Urz. UE L 51 z 15.02.2021, str. 330).
+
+## Załącznik nr 1 — – Granica specjalnego obszaru ochrony siedlisk ostoja nidziańska (PLH260003)
+
+patrz oryginał
+
+## Załącznik nr 1 — – Mapa specjalnego obszaru ochrony siedlisk ostoja nidziańska (PLH260003)
+
+patrz oryginał
+
+## Załącznik nr 3 — – Siedliska przyrodnicze będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk ostoja nidziańska (PLH260003)
+
+patrz oryginał
+
+## Załącznik nr 4 — – Gatunki roślin będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk ostoja nidziańska (PLH260003)
+
+patrz oryginał
+
+## Załącznik nr 5 — – Gatunki zwierząt innych niż ptaki, będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk ostoja nidziańska (PLH260003)
+
+patrz oryginał
+

@@ -8,9 +8,10 @@ pos: 812
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 812 WYROK TRYBUNA¸U KONSTYTUCYJNEGO z dnia 14 czerwca 2006 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 14 czerwca 2006 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061180812) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/812/text.pdf) |
 
-sygn. akt K 53/05 Trybuna∏ Konstytucyjny w sk∏adzie: Biruta Lewaszkiewicz-Petrykowska przewodniczàcy, Jerzy Ciemniewski, Teresa D´bowska-Romanowska, Adam Jamróz, Ewa ¸´towska, Marek Mazurkiewicz I sprawozdawca, Janusz Niemcewicz II sprawozdawca, Jerzy St´pieƒ, Marian Zdyb, Bohdan Zdziennicki, kowa oraz o zmianie niektórych innych ustaw (Dz. U. Nr 143, poz. 1199),
-2) art. 189 po rozpoznaniu, z udzia∏em wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 14 czerwca 2006 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodnoÊci:
-1) art. 199a § 3 ustawy z dnia 29 sierpnia 1997 r.
-Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz.60, ze zm.), dodanego ustawà zdnia30 czerwca 2005 r. o zmianie ustawy Ordynacja podatustawy z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), dodanego ustawà z dnia 30 czerwca2005 r. ozmianie ustawy Ordynacja podatkowa oraz o zmianie niektórych innych ustaw (Dz. U. Nr 143, poz. 1199), zart.2 iart.22 Konstytucji Rzeczypospolitej Polskiej, orzeka:
-1. Art.199a §3 ustawy zdnia29 sierpnia1997 r.
-Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, Nr85, poz.727, Nr86, poz.732 iNr143, poz.1199 oraz z2006 r. Nr66, poz.470) jest zgodny zart.2 iart.22 Konstytucji Rzeczypospolitej Polskiej.
-2. Art. 189 1 ustawy z dnia 17 listopada 1964 r.
-Kodeks post´powania cywilnego (Dz. U. Nr 43, poz.296, ze zm.) jest zgodny zart.2 iart.22 Konstytucji.
-Biruta Lewaszkiewicz-Petrykowska Jerzy Ciemniewski Teresa D´bowska-Romanowska Adam Jamróz Ewa ¸´towska Marek Mazurkiewicz Janusz Niemcewicz Jerzy St´pieƒ Marian Zdyb Bohdan Zdziennicki ISSN 0867-3411 Cena 5,10 z∏
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Biruta Lewaszkiewicz-Petrykowska – przewodniczący, Jerzy Ciemniewski, Teresa Dębowska-Romanowska, Adam Jamróz, Ewa Łętowska, Marek Mazurkiewicz – I sprawozdawca, Janusz Niemcewicz – II sprawozdawca, Jerzy Stępień, Marian Zdyb, Bohdan Zdziennicki, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 14 czerwca 2006 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
+1)
+art. 199a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, ze zm.), dodanego ustawą z dnia 30 czerwca 2005 r. o zmianie ustawy – Ordynacja podatkowa oraz o zmianie niektórych innych ustaw (Dz. U. Nr 143, poz. 1199),
+2)
+art. 1891 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), dodanego ustawą z dnia 30 czerwca 2005 r. o zmianie ustawy – Ordynacja podatkowa oraz o zmianie niektórych innych ustaw (Dz. U. Nr 143, poz. 1199),
+z art. 2 i art. 22 Konstytucji Rzeczypospolitej Polskiej, orzeka:
+1.
+Art. 199a § 3 ustawy z dnia 29 sierpnia 1997 r.- Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470) jest zgodny z art. 2 i art. 22 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 1891 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) jest zgodny z art. 2 i art. 22 Konstytucji.
 

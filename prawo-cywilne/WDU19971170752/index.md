@@ -8,9 +8,10 @@ pos: 752
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 2b) zabezpieczone zasta wem, wpisem do rejestru statków lub prawem zatrzymania - do ceny uzyskanej ze rzeczy lub z realizacji prawa zbywalnego ob cena uzyskana ze sprzeda nie wystarcza na zaspokojenie wszyst kich zabezpieczonych, te zaspokajane odpo im stwu;",
+# Ustawa z dnia 21 sierpnia 1997 r. o zmianie ustaw – Prawo o ustroju sądów powszechnych, Kodeks postępowania cywilnego, ustawy o księgach wieczystych i hipotece oraz ustawy o prokuraturze
 
 | Pole | Wartość |
 |---|---|
@@ -24,64 +25,185 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971170752) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/752/text.pdf) |
 
-c) pkt 3 wyrazy "ostatnie dwa lata" wyrazami "rok ostatni",
-d) pkt 5 wyrazy "niezbytkownego pogrzebu upa wyrazami "pogrzebu upa zwyczajom miejsco wym";
-39) art. 208;
-40) wart. 209 2 otrzymuje brzmienie:
-2. O planu zawiadamia organ
-41) wart. 218 1 pkt 1 otrzymuje brzmienie: " 1) gdy po czeniu z niego przedmiotów nika zastawem, zasta wem rejestrowym lub wpisem do rejestru stat ków nie wystarcza nawet na zaspokojenie kosz tów
+**Art. 1.** W ustawie z dnia 20 czerwca 1985 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 1994 r. Nr 7, poz. 25, Nr 77, poz. 355, Nr 91, poz. 421 i Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163 i Nr 81, poz. 406, z 1996 r. Nr 77, poz. 367 oraz z 1997 r. Nr 75, poz. 471, Nr 98, poz. 604 i Nr 106, poz. 679) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. - Ko deks cywilny (Dz. U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 Nr 149, czych, domniemywa mu wiadome, ze pokrzywdzenia wierzycieli."
+**Art. 411.**
 
-**Art. 3.** W ustawie z dnia 20 czerwca 1985 r. - Pra wo ustroju powszechnych (Dz. U. z 1994 r. Nr 7, poz. 25, Nr 77, poz. 355, Nr 91, poz. 421 Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163 Nr 81 poz. 406, z 1996 r. Nr 77, poz. 367 oraz z 1997 r. Nr 75, poz. 471, Nr 98, poz. 604 Nr 106, poz. 679) po art. 19 dodaje art. 19 brzmieniu: "Art. 19 Minister drodze rozpo jednemu rejonowemu - gospodarczemu, którym utworzony dla spraw roz poznawanie tych spraw, do innych rejonowych dów gospodarczych."
+§ 1. Zgromadzenie ogólne sędziów sądu apelacyjnego składa się z sędziów tego sądu. Przepisy art. 38 § 2–6 oraz art. 39 i 40 stosuje się odpowiednio do zgromadzenia ogólnego sędziów i kolegium sądu apelacyjnego.
 
-**Art. 4.** W ustawie z dnia 31 stycznia 1989 r. cie skarbowej (Dz.U. Nr 4, poz. 23 Nr 74, poz. 443, z 1992 r. Nr 21, poz. 86, z 1993 r. Nr 11, poz. 50 oraz 1995 r. Nr 86, poz. 433) wart. 3 ust. 1 pkt 1 lit. k) otrzymuje brzmienie: lIk) rzeczy egzekucyjnym
+§ 2. Kolegium sądu apelacyjnego realizuje zadania określone w ustawie, nie zastrzeżone do wyłącznej właściwości zgromadzenia ogólnego, a w szczególności:
 
-**Art. 5.** Przepisy ustawy stosuje sprawach, których postanowienia zo wydane po dniu jej
+- **1)** ustala podział czynności w sądzie, określa zasady zastępstw sędziów oraz zasady przydziału spraw poszczególnym sędziom, chyba że ustawa stanowi inaczej,
+- **2)** przedstawia zgromadzeniu ogólnemu opinię o kandydatach na stanowiska sędziów sądu apelacyjnego,
+- **3)** wyraża, na wniosek prezesa sądu, opinie o kandydatach na stanowisko wiceprezesa sądu apelacyjnego,
+- **4)** powołuje i odwołuje przewodniczących wydziałów w sądzie apelacyjnym,
+- **5)** wyraża opinię o kandydatach na stanowiska: przewodniczących wydziałów w sądach wojewódzkich, wizytatorów oraz kierowników szkolenia w sądzie apelacyjnym i w sądach wojewódzkich,
+- **6)** rozpatruje wnioski wynikające z wizytacji i lustracji sądów,
+- **7)** rozpatruje odwołania od rozstrzygnięcia prezesa sądu apelacyjnego, odmawiającego zgody na podjęcie dodatkowego zatrudnienia przez sędziego,
+- **8)** wyraża opinię w innych sprawach osobowych dotyczących sędziów, a także w sprawach przedstawionych przez prezesa sądu apelacyjnego, Krajową Radę Sądownictwa i Ministra Sprawiedliwości. ” ;
+- **4)** w art. 51 w § 1 pkt 6 otrzymuje brzmienie: „
+- **6)** pracował w charakterze asesora sądowego lub prokuratorskiego co najmniej 2 lata, ” ;
+- **5)** w art. 59 w § 1 pkt 3 otrzymuje brzmienie: „
+- **3)** przekroczył 65 lat, chyba że Krajowa Rada Sądownictwa – z inicjatywy prezesa sądu wojewódzkiego, podjętej w stosunku do sędziego sądu rejonowego lub wojewódzkiego, bądź z inicjatywy prezesa sądu apelacyjnego, podjętej w stosunku do sędziego tego sądu, z inicjatywy Ministra Sprawiedliwości lub na wniosek sędziego – wyrazi zgodę na dalsze zajmowanie stanowiska, nie dłużej jednak niż do ukończenia 70 lat, ” ;
+- **6)** w art. 63: w § 1 kropkę na końcu zastępuje się przecinkiem i dodaje się wyrazy „a na wniosek Pierwszego Prezesa Sądu Najwyższego – także w Sądzie Najwyższym.”, w § 3 dodaje się zdanie drugie w brzmieniu: „ Prezes sądu apelacyjnego, po uzyskaniu zgody kolegium sądu apelacyjnego, może delegować do sądu apelacyjnego sędziego sądu wojewódzkiego z obszaru właściwości danego sądu apelacyjnego również na czas nie dłuższy niż miesiąc w ciągu roku. ” ;
+    - **a)**
+    - **b)**
 
-**Art. 6.** Minister Dzienni ku Ustaw Rzeczypospolitej Polskiej jednolity tekst roz Prezydenta Rzeczypospolitej z dnia 24 dziernika 1934 r. - Prawo z niem zmian z przepisów przed dniem wydania jednolitego tekstu.
+- **7)** w art. 70 dodaje się zdanie drugie w brzmieniu: „ Dotyczy to także sędziego sądu apelacyjnego, który powinien niezwłocznie zawiadomić prezesa sądu apelacyjnego. ” ;
+- **8)** w art. 73 w § 4 dodaje się zdanie drugie w brzmieniu: „ Urlopu do załatwienia spraw osobistych i rodzinnych sędziom sądu apelacyjnego udziela prezes sądu apelacyjnego. ” ;
+- **9)** po art. 79 dodaje się art. 791 w brzmieniu: „
 
-**Art. 7.** Ustawa wchodzi po trzech od dnia Prezydent Rzeczypospolitej Polskiej: A. 752 USTAWA z dnia 21 sierpnia 1997 r. zmianie ustaw - Prawo ustroju powszechnych, Kodeks cywilnego, ustawy
+**Art. 791.**
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. - Ko deks cywilnego (Dz. U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 Nr 149, poz. 703 oraz z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471 Nr 102, poz. 643) wprowadza zmiany:
+§ 1. Sędzia mianowany, powołany lub wybrany do pełnienia funkcji w organach państwowych, samorządu terytorialnego, w służbie dyplomatycznej, konsularnej lub w organach organizacji międzynarodowych działających na podstawie umów międzynarodowych ratyfikowanych przez Rzeczpospolitą Polską jest obowiązany zrzec się swojego stanowiska.
 
-**Art. 3.** W ustawie z dnia 6 lipca 1982 r. wieczystych hipotece (Dz. U. Nr 19, poz. 147, z 1991 r. Nr 22, poz. 92 Nr 115, poz. 496, z 1994 r. Nr 85, poz .. 388 oraz z 1996 r. Nr 107, poz. 499) wprowadza zmiany:
+§ 2. Sędzia, który zrzekł się stanowiska z przyczyn określonych w § 1, może powrócić na poprzednio zajmowane stanowisko sędziego, jeżeli przerwa w pełnieniu obowiązków sędziego nie przekracza 5 lat.
 
-**Art. 4.** W ustawie z dnia 20 czerwca 1985 r. proku raturze (Dz. U. z 1994 r. Nr 19, poz. 70 Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163, z 1996 r. Nr 77, poz. 367 oraz z 1997 r. Nr 90, poz. 557, Nr 98, poz. 604 Nr 106, poz. 679) wprowadza zmiany: 2. Prokurator, który stanowiska z przyczyn ust. 1, na poprzednio zajmowane stanowisko prokuratora, prze rwa prokura tora nie przekracza 5 lat. 3. W wypadku przewidzianym ust. 2 Prokurator Generalny, na wniosek prokuratora, który stanowi ska, go na poprzednio zajmowane stanowisko, od liczby stanowisk prokuratorskich danej powszechnej jednostce orga nizacyjnej." ;
+§ 3. W wypadku przewidzianym w § 2 Krajowa Rada Sądownictwa z inicjatywy sędziego, po uzyskaniu pozytywnej opinii zgromadzenia ogólnego sędziów właściwego sądu, może przedstawić Prezydentowi Rzeczypospolitej Polskiej wniosek o powołanie go na poprzednio zajmowane stanowisko, niezależnie od liczby stanowisk sędziowskich w danym sądzie. ” ;
 
-**Art. 94b.**
+- **10)** w art. 85 § 1 otrzymuje brzmienie: „
 
-1. Prokurator apelacyjny, na wniosek prokuratora wojewódzkiego, cofa aplikantowi zezwolenie na odbywanie aplikacji pozaetatowej,
+§ 1. Rzecznika dyscyplinarnego wybiera kolegium sądu apelacyjnego spośród sędziów tego sądu. ” ;
 
-- **1)** zrezygnuje on z odbywania aplika cji,
-- **2)** narusza aplikan ta.
+- **11)** w art. 103: dotychczasowa treść otrzymuje oznaczenie § 1, po § 1 dodaje się § 2 i 3 w brzmieniu: „
+    - **a)**
+    - **b)**
 
-2. zezwolenia na odbywanie aplikacji pozaetatowej z dniem przez prokurato ra apelacyjnego. pisów ustawy, której mowa wart. 1, z tym dniem starszymi inspektorami
+§ 2. Sąd dyscyplinarny, zawieszając sędziego w czynnościach służbowych, może obniżyć do 50% wysokość jego wynagrodzenia na czas trwania tego zawieszenia; nie dotyczy to osób, w stosunku do których wszczęto postępowanie o ubezwłasnowolnienie.
 
-**Art. 6.** Do osób, które lub przed dniem ni niejszej ustawy, stosuje przepisy dotychczasowe.
+§ 3. Jeżeli postępowanie dyscyplinarne zostało umorzone lub zakończyło się uniewinnieniem, sędziemu wypłaca się zatrzymane wynagrodzenie. ” ;
 
-**Art. 7.** Do asesorów którym powierzono przed dniem niniejszej ustawy, stosuje przepisy dotych czasowe.
+- **12)** art. 113 otrzymuje brzmienie: „
 
-**Art. 8.** Ustawa wchodzi z dniem 1 stycznia 1998 r. Prezydent Rzeczypospolitej Polskiej: A. 753 USTAWA z dnia 21 sierpnia 1997 r. Prawo ustroju wojskowych. 1 Przepisy ogólne
+**Art. 113.**
 
-**Art. 1¹.** wojskowe Zbroj nych Rzeczypospolitej Polskiej wymiar sprawiedliwo sprawach karnych oraz innych spra wach, one przekazane do ich ustawami. 2. W wypadkach przewidzianych ustawach dy wojskowe wymiar sprawach karnych stosunku do osób nie cych do Zbrojnych Rzeczypospolitej Polskiej.
+§ 1. Stosunek pracy z aplikantem sądowym nawiązuje się na podstawie mianowania na czas określony, oznaczony w akcie mianowania.
 
-**Art. 2.** Do wojskowych oraz cych tych zastosowanie przepisy jednostek wojskowych czynnej wojskowej, ustawa nie stanowi inaczej.
+§ 2. Aplikanta sądowego mianuje i zwalnia prezes sądu apelacyjnego.
 
-**Art. 3.**
+§ 3. Mianowanie aplikanta następuje po przeprowadzeniu konkursu przez prezesa sądu apelacyjnego.
 
-1. wojskowymi wojskowe wojskowe garnizonowe. Krajowej Rady tworzy znosi, drodze wojskowe oraz ich siedzi by obszary
+§ 4. Przed podjęciem obowiązków aplikant sądowy składa ślubowanie wobec prezesa sądu apelacyjnego według następującej roty: « Ślubuję uroczyście sumiennie wypełniać obowiązki aplikanta sądowego, w postępowaniu kierować się zasadami godności i uczciwości oraz dochować tajemnicy państwowej i służbowej. »
 
-4. Minister Obrony Narodowej porozumieniu z Ministrem drodze zamiejscowe poza siedzibami wojskowych garnizonowych.
+§ 5. Minister Sprawiedliwości, w drodze rozporządzenia, określa tryb przeprowadzania konkursu, o którym mowa w § 3. ” ;
 
-5. Minister Obrony Narodowej porozumieniu z Ministrem razie mo bilizacji czasie wojny, drodze roz inne wojskowe 1.
+- **13)** w art. 114: § 1 otrzymuje brzmienie: „
+    - **a)**
 
-6. Do których mowa 5, stosuje odpowiednio przepisy ustawy.
+§ 1. Aplikacja sądowa trwa dwa lata i sześć miesięcy. ” , skreśla się § 3;
 
-**Art. 4.**
+- **b)**
+- **14)** w art. 115: § 2 otrzymuje brzmienie: „
+    - **a)**
 
-1. wojskowych jest fi nansowana z Ministerstwa Obrony Narodowej.
+§ 2. Minister Sprawiedliwości może powierzyć asesorowi sądowemu pełnienie czynności sędziowskich w sądzie rejonowym na czas określony, nie przekraczający dwóch lat, za zgodą kolegium sądu wojewódzkiego. Możliwe jest ponowne powierzenie tych czynności asesorowi, jednakże ten okres, łącznie z okresem poprzednim, nie może być dłuższy niż trzy lata. W tym samym trybie asesorowi mogą być powierzone czynności sędziowskie w sądzie wojewódzkim jako odwoławczym. ” , § 3 otrzymuje brzmienie: „
 
-2. Minister Obrony Narodowej porozumieniu z Ministrem Ministrem Finansów
+- **b)**
 
+§ 3. Do asesorów sądowych, którym powierzono pełnienie czynności sędziowskich, stosuje się przepisy dotyczące sędziów. ” , po § 3 dodaje się § 4 w brzmieniu: „
+
+- **c)**
+
+§ 4. Asesorem sądowym nie można być dłużej niż trzy lata. Minister Sprawiedliwości może zwolnić asesora, po uprzednim wypowiedzeniu, za zgodą kolegium sądu wojewódzkiego; przepis art. 60 § 1 stosuje się odpowiednio. ” ;
+
+- **15)** po art. 117 dodaje się art. 1171–1173 w brzmieniu: „
+
+**Art. 1171.** Prezes sądu apelacyjnego, na wniosek kolegium sądu wojewódzkiego, może zezwolić na odbywanie aplikacji pozaetatowej osobie, która:
+
+**Art. 1172.**
+
+§ 1. Prezes sądu apelacyjnego, na wniosek prezesa sądu wojewódzkiego, cofa aplikantowi zezwolenie na odbywanie aplikacji pozaetatowej, jeżeli:
+
+- **1)** zrezygnuje on z odbywania aplikacji,
+- **2)** rażąco narusza obowiązki aplikanta.
+
+§ 2. Cofnięcie zezwolenia na odbywanie aplikacji pozaetatowej następuje z dniem określonym przez prezesa sądu apelacyjnego.
+
+**Art. 1173.** Do aplikantów pozaetatowych stosuje się odpowiednio przepisy art. 111, art. 113 § 2, art. 114 § 1, 2 i 4. ” ;
+
+**Art. 122.**
+
+§ 1. W sądach rejonowych mogą być zatrudnieni referendarze sądowi do wykonywania określonych czynności należących do sądów w zakresie postępowania w sprawach związanych z prowadzeniem ksiąg wieczystych i rejestrów sądowych.
+
+§ 2. Na stanowisko referendarza sądowego może być mianowany ten, kto:
+
+- **1)** posiada obywatelstwo polskie i korzysta z pełni praw cywilnych i obywatelskich,
+- **2)** jest nieskazitelnego charakteru,
+- **3)** ukończył wyższe studia prawnicze lub wyższe studia administracyjne,
+- **4)** odbył aplikację referendarską i złożył egzamin referendarski albo odbył aplikację sądową, prokuratorską, notarialną, adwokacką lub radcowską i złożył odpowiedni egzamin albo złożył egzamin referendarski,
+- **5)** ukończył 24 lata.
+
+§ 3. Aplikacja referendarska trwa sześć miesięcy. ” ;
+
+- **19)** po art. 122 dodaje się art. 1221 w brzmieniu: „
+
+**Art. 1221.**
+
+§ 1. Stosunek pracy z referendarzem sądowym nawiązuje się na podstawie mianowania, z dniem określonym w akcie mianowania.
+
+§ 2. Referendarza sądowego mianuje i zwalnia Minister Sprawiedliwości na wniosek prezesa sądu wojewódzkiego.
+
+§ 3. Przed podjęciem pracy referendarz sądowy składa ślubowanie wobec prezesa sądu wojewódzkiego według następującej roty: « Ślubuję uroczyście na powierzonym mi stanowisku referendarza sądowego służyć wiernie narodowi polskiemu, sumiennie i starannie wykonywać obowiązki urzędowe, przestrzegać prawa, kierować się zasadami godności i uczciwości oraz dochować tajemnicy państwowej i służbowej » .
+
+§ 4. Do referendarzy sądowych stosuje się odpowiednio przepisy art. 24 § 1, art. 26, 53, art. 69 § 1, art. 72, 73 i art. 79 § 1.
+
+§ 5. Za naruszenie swoich obowiązków referendarz sądowy ponosi odpowiedzialność porządkową lub dyscyplinarną na zasadach obowiązujących urzędników państwowych. ” ;
+
+- **20)** po art. 123 dodaje się art. 1231 w brzmieniu: „
+
+**Art. 1231.** Rada Ministrów, w drodze rozporządzenia, określa wysokość wynagrodzenia kuratorów zawodowych. ” ;
+
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r., Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703 oraz z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471 i Nr 102, poz. 643) wprowadza się następujące zmiany:
+
+**Art. 5091.**
+
+§ 1. Czynności w sprawach o wpis w księdze wieczystej i w postępowaniu o założenie księgi wieczystej może wykonywać referendarz sądowy.
+
+§ 2. Czynności w postępowaniu rejestrowym może wykonywać referendarz sądowy, z wyłączeniem prowadzenia rozprawy. Referendarz sądowy nie może jednak wydać postanowienia zarządzającego pierwszy wpis spółek akcyjnych ani dokonać wpisu zmian w statutach tych spółek. ” ;
+
+- **3)** po art. 518 dodaje się art. 5181 w brzmieniu: „
+
+**Art. 5181.**
+
+§ 1. Na orzeczenie referendarza sądowego przysługuje skarga do sądu rejonowego.
+
+§ 2. W razie wniesienia skargi orzeczenie referendarza sądowego traci moc, a sąd rejonowy rozpoznaje sprawę jako sąd pierwszej instancji.
+
+§ 3. W razie wniesienia skargi na wpis w księdze wieczystej, wpis nie traci mocy. Niezwłocznie po wniesieniu skargi sąd wpisuje z urzędu wzmiankę o jej wniesieniu. Rozpoznając sprawę, sąd wydaje postanowienie, w którym zaskarżony wpis utrzymuje w mocy albo uchyla go w całości lub w części i w tym zakresie wniosek oddala.
+
+§ 4. Skargę wnosi się do sądu w terminie tygodniowym:
+
+- **1)** od dnia czynności, gdy uczestnik był przy niej obecny lub był o jej terminie zawiadomiony,
+- **2)** w innych wypadkach niż wymienione w pkt 1 – od dnia doręczenia zawiadomienia uczestnika o dokonaniu czynności,
+- **3)** w wypadku braku zawiadomienia – od dnia dowiedzenia się o dokonaniu czynności.
+
+§ 5. Skargę spóźnioną sąd oddala. ”
+
+**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. Nr 19, poz. 147, z 1991 r. Nr 22, poz. 92 i Nr 115, poz. 496, z 1994 r. Nr 85, poz. 388 oraz z 1996 r. Nr 107, poz. 499) wprowadza się następujące zmiany:
+
+**Art. 4.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 1994 r. Nr 19, poz. 70 i Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163, z 1996 r. Nr 77, poz. 367 oraz z 1997 r. Nr 90, poz. 557, Nr 98, poz. 604 i Nr 106, poz. 679) wprowadza się następujące zmiany:
+
+**Art. 65a.**
+
+1. Prokurator mianowany, powołany lub wybrany do pełnienia funkcji w organach państwowych, samorządu terytorialnego, służby dyplomatycznej, konsularnej lub organach organizacji międzynarodowych działających na podstawie umów międzynarodowych ratyfikowanych przez Rzeczpospolitą Polską jest obowiązany zrzec się swojego stanowiska.
+
+2. Prokurator, który zrzekł się stanowiska z przyczyn określonych w ust. 1, może powrócić na poprzednio zajmowane stanowisko prokuratora, jeżeli przerwa w pełnieniu obowiązków prokuratora nie przekracza 5 lat.
+
+3. W wypadku przewidzianym w ust. 2 Prokurator Generalny, na wniosek prokuratora, który zrzekł się stanowiska, może powołać go na poprzednio zajmowane stanowisko, niezależnie od liczby stanowisk prokuratorskich w danej powszechnej jednostce organizacyjnej. ” ;
+
+- **2)** art. 90 otrzymuje brzmienie: „
+
+**Art. 90.** Aplikacja prokuratorska polega na przygotowaniu aplikanta do należytego wykonywania obowiązków prokuratora i trwa dwa lata i sześć miesięcy. ” ;
+
+**Art. 92.** Przed podjęciem obowiązków aplikant powszechnej jednostki organizacyjnej prokuratury składa ślubowanie wobec prokuratora apelacyjnego według następującej roty: Ślubuję uroczyście sumiennie wypełniać obowiązki aplikanta prokuratury, w postępowaniu kierować się zasadami godności i uczciwości oraz dochować tajemnicy państwowej i służbowej. ” ;
+
+**Art. 94a.** Prokurator apelacyjny, na wniosek prokuratora wojewódzkiego, może zezwolić na odbywanie aplikacji pozaetatowej osobie, która:
+
+**Art. 5.** Pracownicy sądowi, którzy w dniu wejścia w życie niniejszej ustawy zajmują stanowiska referendarzy sądowych w rozumieniu dotychczasowych przepisów ustawy, o której mowa w art. 1, stają się z tym dniem starszymi inspektorami sądowymi.
+
+**Art. 6.** Do osób, które rozpoczęły aplikację sądową lub prokuratorską przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+**Art. 7.** Do asesorów sądowych, którym powierzono pełnienie czynności sędziowskich przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.
 

@@ -8,9 +8,10 @@ pos: 979
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Maria Gintowt-Jankowicz przewodniczący, Zbigniew Cieślak, Mirosław Granat, Marian Grzybowski, Marek Mazurkiewicz sprawozdawca, I
+# Wyrok Trybunału Konstytucyjnegoz dnia 16 lipca 2009 r.K 36/08
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091160979) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/979/text.pdf) |
 
-Art. 111 ust. 7 pkt 3 wzwiązku zart. 111 ust. 8 ustawy z dnia 11 marca 2004 r. podatku od towarów iusług (Dz. U. Nr 54, poz. 535, z2005 r. Nr 14, poz. 113, Nr 90, poz. 756, Nr 143, poz. 1199 iNr 179, poz. 1484, z 2006 r. Nr 143, poz. 1028 i 1029, z 2007 r. Nr 168, poz. 1187 iNr 192, poz. 1382, z2008 r. Nr 74, poz. 444, Nr 130, poz. 826, Nr 141, poz. 888 i Nr 209, poz. 1320 oraz z2009 r. Nr 3, poz. 11) jest niezgodny zart. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
-II Przepis wymieniony części I wyroku traci moc po rozpoznaniu, z udziałem wnioskodawcy oraz obowiązującą z upływem 9 (dziewięciu) miesięcy od Sejmu i Prokuratora Generalnego, na rozprawie dnia ogłoszenia wyroku wDzienniku Ustaw Rzeczypowdniu 16 lipca 2009 r., wniosku Rzecznika Praw Oby- spolitej Polskiej.
-watelskich zbadanie zgodności art. 111 ust. 7 pkt 3 związku z art. 111 ust. 8 ustawy z dnia 11 marca Maria Gintowt-Jankowicz 2004 r. podatku od towarów i usług (Dz. U. Nr 54, Zbigniew Cieślak Mirosław Granat poz. 535, ze zm.) zart. 92 ust. 1 Konstytucji, Marian Grzybowski Marek Mazurkiewicz
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Maria Gintowt-Jankowicz – przewodniczący, Zbigniew Cieślak, Mirosław Granat, Marian Grzybowski, Marek Mazurkiewicz – sprawozdawca, protokolant: Grażyna Szatygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 16 lipca 2009 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 111 ust. 7 pkt 3 w związku z art. 111 ust. 8 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, ze zm.) z art. 92 ust. 1 Konstytucji, orzeka: I Art. 111 ust. 7 pkt 3 w związku z art. 111 ust. 8 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z 2005 r. Nr 14, poz. 113, Nr 90, poz. 756, Nr 143, poz. 1199 i Nr 179, poz. 1484, z 2006 r. Nr 143, poz. 1028 i 1029, z 2007 r. Nr 168, poz. 1187 i Nr 192, poz. 1382, z 2008 r. Nr 74, poz. 444, Nr 130, poz. 826, Nr 141, poz. 888 i Nr 209, poz. 1320 oraz z 2009 r. Nr 3, poz. 11) jest niezgodny z art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej. II Przepis wymieniony w części I wyroku traci moc obowiązującą z upływem 9 (dziewięciu) miesięcy od dnia ogłoszenia wyroku w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 

@@ -8,9 +8,10 @@ pos: 13
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 1 — 61 — Poz. 12 i 13 13 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 17 grudnia 2002 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 17 grudnia 2002 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030010013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/13/text.pdf) |
 
-sygn. akt U.3/02 Trybunał Konstytucyjny wskładzie: Bohdan Zdziennicki — przewodniczący, Jerzy Stępień, Marian Zdyb — sprawozdawca, po rozpoznaniu, z udziałem wnioskodawcy oraz Prezesa Rady Ministrów iProkuratora Generalnego, na rozprawie wdniu 17 grudnia 2002 r., wniosku Rzecznika Praw Obywatelskich ozbadanie zgodności § 3 ust.1 pkt 4 rozporządzenia Rady Ministrów zdnia 19grudnia 1996 r. wsprawie opłat paszportowych (Dz.U. Nr 152, poz. 725, zpóên. zm.) zart. 32 Konstytucji oraz zart. 14 Konwencji oochronie praw człowieka ipodstawowych orzeka: § 3 ust. 1 pkt 4 rozporządzenia Rady Ministrów z dnia 19 grudnia 1996 r. w sprawie opłat paszportowych (Dz. U. Nr 152, poz. 725 oraz z 2000 r. Nr 39, poz.453) wzakresie, wjakim pozbawia 50% ulgi ztytułu opłaty paszportowej studentów niebędących studentami studiów stacjonarnych iuczniów szkół innych niż dzienne, jest niezgodny z art. 32 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny zart. 14 Konwencji oochronie praw człowieka ipodstawowych wolności (Dz. U. z 1993 r. Nr 61, poz. 284, z1995 r. Nr 36, poz. 175, 176 i177 oraz z1998 r. Nr 147, poz. 962).
-wolności, Bohdan Zdziennicki Jerzy Stępień Marian Zdyb
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Bohdan Zdziennicki – przewodniczący, Jerzy Stępień, Marian Zdyb – sprawozdawca, protokolant: Dorota Raczkowska, po rozpoznaniu, z udziałem wnioskodawcy oraz Prezesa Rady Ministrów i Prokuratora Generalnego, na rozprawie w dniu 17 grudnia 2002 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności § 3 ust. 1 pkt 4 rozporządzenia Rady Ministrów z dnia 19 grudnia 1996 r. w sprawie opłat paszportowych (Dz. U. Nr 152, poz. 725, z późn. zm.) z art. 32 Konstytucji oraz z art. 14 Konwencji o ochronie praw człowieka i podstawowych wolności, orzeka: § 3 ust. 1 pkt 4 rozporządzenia Rady Ministrów z dnia 19 grudnia 1996 r. w sprawie opłat paszportowych (Dz. U. Nr 152, poz. 725 oraz z 2000 r. Nr 39, poz. 453) w zakresie, w jakim pozbawia 50% ulgi z tytułu opłaty paszportowej studentów niebędących studentami studiów stacjonarnych i uczniów szkół innych niż dzienne, jest niezgodny z art. 32 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny z art. 14 Konwencji o ochronie praw człowieka i podstawowych wolności (Dz. U. z 1993 r. Nr 61, poz. 284, z 1995 r. Nr 36, poz. 175,176i 177 oraz z 1998 r. Nr 147, poz. 962).
 

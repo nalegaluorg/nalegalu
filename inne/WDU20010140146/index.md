@@ -8,9 +8,10 @@ pos: 146
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# ści art. 61 dnia 18 lutego 1994 za- inie niezgodny zart. 2 Konstytucji.
+# Wyrok Trybunału Konstytucyjnegoz dnia 21 lutego 2001 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010140146) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/146/text.pdf) |
 
-opatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Państwowej Marian Zdyb Straży Pożarnej Służby Więziennej oraz ich rodzin Krzysztof Kolasiński Biruta Lewaszkiewicz(Dz.U. 53, 214) zart. 2 art. 32 Konstytucji Rze- -Petrykowska czypospolitej Polskiej, Andrzej Mączyński Jadwiga Skórzewska-Ęosiak 145 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 20 lutego 2001 sygn. akt P.2/2000.
-Trybunał Konstytucyjny wskładzie: Teresa Dębowska-Romanowska przewodniczący, Stefan J. Jaworski I sprawozdawca, Wiesław Johann, Krzysztof Kolasiński, Biruta Lewaszkiewicz-Petrykowska II sprawozdawca, ności art. 65 oraz art. 53 § 3, i6 zdnia 10 września 1999 Kodeks karny skarbowy (Dz. U. 83,
-930) art. 2 art. 42 1 Konstytucji RzeczypospolitejPolskiej, 53 § 3, § § 6 oraz art. 65 dnia 10 września 1999 Kodeks karny skarbowy (Dz. U.
-Nr83, 930, z2000 60, 703iNr 62, poz.717 orazz2001 11, 82) są zgodne zart. 2 iart.42 ust.1 Konstytucji Rzeczypospolitej Polskiej.
-po rozpoznaniu wdniu 20 lutego 2001 na rozpra- Teresa Dębowska-Romanowska wie pytania prawnego Sądu Rejonowego wĘodzi Wy- Stefan J. Jaworski Wiesław Johann dział VI Karny, udziałem umocowanych przedstawi- Krzysztof Kolasiński Biruta Lewaszkiewiczcieli: pytającego sądu, Sejmu Rzeczypospolitej Pol- -Petrykowska skiej Prokuratora Generalnego, stwierdzenie zgodWYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 21 lutego 2001 sygn. akt P.12/2000.
-Trybunał Konstytucyjny wskładzie: Stefan J. Jaworski, Marek Safjan przewodniczący, Wiesław Johann, Jerzy Ciemniewski, Krzysztof Kolasiński, Teresa Dębowska-Romanowska, Biruta Lewaszkiewicz-Petrykowska, Lech Garlicki, Andrzej Mączyński, umocowanych przedstawicieli uczestników postępo- dzialności przed Trybunałem Stanu, zgodny wania: Sądu, Sejmu Rzeczypospolitej Polskiej iProku- zart. 156 1 Konstytucji Rzeczypospolitej Polskiej.
-ratora Generalnego:czy przepis art. 2 wzwiązku zart. 1 2 pkt 2 oTrybunale Stanu zgod- Marek Safjan ny znormą zawartą wprzepisie art. 156 1 Konsty- Jerzy Ciemniewski Teresa Dębowskatucji Rzeczypospolitej Polskiej w konsekwencji -Romanowska czy wświetle normy zawartej wprzepisie art. 156 ust.1 Lech Garlicki Stefan J. Jaworski Konstytucji członkowie Rady Ministrów za naruszenie Wiesław Johann Krzysztof Kolasiński Konstytucji lub ustaw, a także za przestępstwa popeł- Biruta Lewaszkiewicz- Andrzej Mączyński nione w związku zajmowanym stanowiskiem, pono- -Petrykowska szą wyłącznie odpowiedzialność przed Trybunałem Jadwiga Skórzewska-Ęosiak Jerzy Stępień Stanu, czy też przed sądem powszechnym, Janusz Trzciński Marian Zdyb 147 OBWIESZCZENIE MARSZAĘKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ zdnia 9 lutego 2001 wsprawie ogłoszenia jednolitego tekstu oRzeczniku Praw Obywatelskich.
-1. Na podstawie art. 16 1 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U.
-Nr62, 718) iart. 11 zdnia 12 maja 2000 zmianie Rzeczniku Praw Obywatelskich, Kodeks postępowania cywilnego oraz zmianie niektórych innych ustaw (Dz. U. 48,
-552) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst dnia 15 lipca 1987 Rzeczniku Praw Obywatelskich (Dz. U. 21,
-123), zuwzględnieniem zmian wprowadzonych:
-1) ustawą dnia 17 maja 1990 podziale zadań kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz zmianie niektórych ustaw (Dz.U. 34, 198),
-2) ustawą zdnia 24 sierpnia 1991 ozmianie oRzeczniku Praw Obywatelskich oraz ustaw Kodeks postępowania karnego, oSądzie Najwyższym Trybunale Konstytucyjnym (Dz. U. 83, poz.371) ujętych wobwieszczeniu Marszałka Sejmu Rzeczypospolitej Polskiej dnia 10 paêdziernika 1991 w sprawie ogłoszenia jednolitego tekstu zdnia 15 lipca 1987 oRzeczniku Praw Obywatelskich (Dz. U. 109, 471),
-3) ustawą zdnia 24 lipca 1998 ozmianie niektórych nistracji publicznej wzwiązku zreformą ustrojową państwa (Dz.U. 106, 668),
-4) ustawą zdnia 18 grudnia 1998 osłużbie cywilnej (Dz.U. z1999 49, 483),
-5) ustawą dnia 6 stycznia 2000 Rzeczniku Praw Dziecka (Dz.U. 6, 69),
-6) ustawą dnia 12 maja 2000 zmianie Rzeczniku Praw Obywatelskich, Kodeks postępowania cywilnego oraz zmianie niektórych innych ustaw (Dz.U. 48, 552) izmian wynikających zprzepisów ogłoszonych przed dniem wydania jednolitego tekstu.
-2. Podany wzałączniku do niniejszego obwieszczenia jednolity tekst nie obejmuje:
-1) art. 21—28 zdnia 15 lipca 1987 oRzeczniku Praw Obywatelskich (Dz.U. 21, 123), które stanowią: ŃArt. 21. WKodeksie postępowania administracyjnego wart. 210 po wyrazach «Prokurator Generalny Polskiej Rzeczypospolitej Ludowej» dodaje się wyrazy «oraz Rzecznik Praw Obywatelskich».
-22. W Kodeksie postępowania cywilnego wart. 417 w§ 1 po wyrazach «Prokurator Generalny Polskiej Rzeczypospolitej Luustaw określających kompetencje organów admidowej» dodaje się wyrazy «oraz Rzecznik Praw Obywatelskich».
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marek Safjan – przewodniczący, Jerzy Ciemniewski, Teresa Dębowska-Romanowska, Lech Garlicki, Stefan J. Jaworski, Wiesław Johann, Krzysztof Kolasiński, Biruta Lewaszkiewicz-Petrykowska, Andrzej Mączyński, Jadwiga Skórzewska-Łosiak, Jerzy Stępień – sprawozdawca, Janusz Trzciński, Marian Zdyb, protokolant: Joanna Szymczak, po rozpoznaniu w dniu 21 lutego 2001 r. na rozprawie pytań prawnych składu orzekającego Wydziału VIII Karnego Sądu Okręgowego w Warszawie, z udziałem umocowanych przedstawicieli uczestników postępowania: Sądu, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego: czy przepis art. 2 ust. 4 w związku z art. 1 ust. 2 pkt 2 ustawy o Trybunale Stanu jest zgodny z normą zawartą w przepisie art. 156 ust. 1 Konstytucji Rzeczypospolitej Polskiej i – w konsekwencji – czy w świetle normy zawartej w przepisie art. 156 ust. 1 Konstytucji członkowie Rady Ministrów za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem, ponoszą wyłącznie odpowiedzialność przed Trybunałem Stanu, czy też przed sądem powszechnym, orzeka: Art. 2 ust. 4 związku z art. 1 ust. 2 pkt 2 ustawy z dnia 26 marca 1982 r. o Trybunale Stanu (Dz. U. z 1993 r. Nr 38, poz. 172, z 1996 r. Nr 73, poz. 350i z 1999 r. Nr 35, poz. 321), rozumiany jako dopuszczający odpowiedzialność członka Rady Ministrów przed sądem powszechnym za przestępstwo popełnione w związku z zajmowanym stanowiskiem, jeżeli Sejm nie podjął uchwały o pociągnięciu go do odpowiedzialności przed Trybunałem Stanu, jest zgodny z art. 156 ust. 1 Konstytucji Rzeczypospolitej Polskiej. Marek Safjan Jerzy Ciemniewski Teresa Dębowska-Romanowska Lech Garlicki Stefan J. Jaworski Wiesław Johann Krzysztof Kolasiński Biruta Lewaszkiewicz-Petrykowska Andrzej Mączyński Jadwiga Skórzewska-Łosiak Jerzy Stępień Janusz Trzciński Marian Zdyb
 

@@ -8,9 +8,10 @@ pos: 1062
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 sierpnia 2014 r.
+# Ustawa z dnia 10 czerwca 2014 r. o ochronie Znaku Polski Walczącej
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001062) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1062/text.pdf) |
 
-Poz. 1062
-USTAWA z dnia 10 czerwca 2014 r.
-o ochronie Znaku Polski Walczącej
-
 **Art. 1.**
 
 1. Znak Polski Walczącej, będący symbolem walki polskiego narodu z niemieckim agresorem i okupantem podczas II wojny światowej, stanowi dobro ogólnonarodowe i podlega ochronie należnej historycznej spuściźnie Rzeczypospolitej Polskiej.
@@ -40,7 +37,7 @@ o ochronie Znaku Polski Walczącej
 
 1. Kto publicznie znieważa Znak Polski Walczącej, podlega karze grzywny.
 
-2. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ).
+2. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.).
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

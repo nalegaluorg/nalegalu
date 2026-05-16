@@ -8,9 +8,10 @@ pos: 1839
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 188 — 12700 — Poz. 1838, 1839 i 1840 § 3. Minister Sprawiedliwości, w drodze prowadzenie zajęć seminaryjnych dla zarządzenia, wyznacza sądy apelacyj- części obszaru apelacji, obejmującej ne, wktórych prezesi prowadzą zajęcia jeden lub więcej okręgów sądowych.”.
+# Ustawa z dnia 19 września 2003 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +25,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031881839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1839/text.pdf) |
 
-seminaryjne, iokreśla obszary apelacji objęte tymi zajęciami. Art. 2.Ustawa wchodzi wżycie zdniem 1 września § 4. Minister Sprawiedliwości może, 2004 r.
-wszczególnie uzasadnionych przypadkach, na wniosek prezesa sądu apelacyjnego, w 0drodze zarządzenia, powierzyć prezesowi sądu okręgowego Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1839
-USTAWA z dnia 19 września 2003 r.
-o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych
+**Art. 1.** W ustawie z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 13, poz. 60, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 5 stycznia 1995 r. odopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 13, poz. 60, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 10b.**
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1840 USTAWA z dnia 2 paêdziernika 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw
+1. Dopłaty do oprocentowania kredytów zaciągniętych od dnia 15 lipca 2002 r. do dnia 15 lipca 2003 r. przez krajowych przedsiębiorców prowadzących produkcję rolniczą, z przeznaczeniem na cele określone w art. 4 ust. 1 pkt 1, mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu, w przypadku gdy w gospodarstwach tych przedsiębiorców wystąpiły poważne szkody spowodowane przez suszę, która miała miejsce w 2003 r.
 
-**Art. 1.** W ustawie z dnia 20 paêdziernika 1994 r. o specjalnych strefach ekonomicznych (Dz. U. Nr 123, poz. 600, z póên. zm.
+2. Oprocentowanie kredytów, o których mowa w ust. 1, ustala się w wysokości określonej w art. 6 ust. 1 pkt 2. ” .
+
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

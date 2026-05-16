@@ -8,9 +8,10 @@ pos: 2227
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 grudnia 2021 r.
+# Ustawa z dnia 1 października 2021 r. o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +24,6 @@ domain: null
 | Data wydania | 2021-12-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2227/text.pdf) |
-
-Poz. 2227
-USTAWA z dnia 1 października 2021 r.
-o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej
 
 **Art. 1.** W ustawie z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. z 2019 r. poz. 2188) wprowadza się następujące zmiany:
 
@@ -47,9 +44,9 @@ o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędoweg
 - **9)** w 2030 r. – 160 600 tys. zł;
 - **10)** w 2031 r. – 160 600 tys. zł.
 
-2. Minister właściwy do spraw rozwoju wsi monitoruje przekroczenie limitu wydatków, o którym mowa w ust. 1, w razie potrzeby wdraża mechanizm korygujący.
+2. Minister właściwy do spraw rozwoju wsi monitoruje przekroczenie limitu wydatków, o którym mowa w ust. 1, oraz w razie potrzeby wdraża mechanizm korygujący.
 
 3. Mechanizm korygujący, o którym mowa w ust. 2, polega na zmniejszeniu stawki zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej w następnym roku.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.
 

@@ -8,9 +8,10 @@ pos: 353
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, 25 lutego 2021 353
+# Ustawa z dnia 21 stycznia 2021 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,89 +25,105 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000353) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/353/text.pdf) |
 
-USTAWA 21 stycznia 2021 zmianie ustawy emeryturach rentach Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291) w art. 85 ust. 1 i 2 otrzymują brzmienie: „ 1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą:
 
-**Art. 1.** W ustawie 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych U. 2021 poz. 291) 85 2 otrzymują brzmienie: „1. Kwoty najniższej renty tytułu niezdolności pracy wynoszą:
+**Art. 2.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2020 r. poz. 1790) w art. 11 ust. 1 otrzymuje brzmienie: „ 1. Podstawę wymiaru renty inwalidzkiej stanowi kwota 2851,27 zł. ” .
 
-**Art. 2.** W ustawie 29 maja 1974 zaopatrzeniu inwalidów wojennych wojskowych oraz ich rodzin U. poz. 1790) 11 otrzymuje brzmienie: „1. Podstawę wymiaru renty inwalidzkiej stanowi kwota 2851,27 zł.”.
+**Art. 3.** W ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2020 r. poz. 1725) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie 30 kwietnia 2004 świadczeniach przedemerytalnych U. poz. 1725) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2020 r. poz. 319 i 1578) w art. 10a ust. 1 otrzymuje brzmienie: „ 1. Prawo do świadczenia wyrównawczego przysługuje osobie pobierającej emeryturę lub rentę inwalidzką albo rentę z tytułu niezdolności do pracy, zwaną dalej „rentą”, w kwocie niższej niż 2450 zł miesięcznie. ” .
 
-**Art. 4.** W ustawie 20 marca 2015 działaczach opozycji antykomunistycznej oraz osobach represjonowanych powodów politycznych U. poz. 319 1578) 10a otrzymuje brzmienie: „1. Prawo świadczenia wyrównawczego przysługuje osobie pobierającej emeryturę lub rentę inwalidzką albo rentę tytułu niezdolności pracy, zwaną dalej „rentą”, kwocie niższej niż 2450 zł miesięcznie.”. emeryturach rentach Funduszu Ubezpieczeń Społecznych U. 2021 poz. 291), zasiłku pielęgnacyjnego oraz innych dodatków świadczeń wypłacanych wraz tymi świadczeniami na podstawie odrębnych przepisów przed dokonaniem odliczeń, potrąceń zmniejszeń, nie przekracza kwoty 1750 zł miesięcznie.”;
+**Art. 5.** W ustawie z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2020 r. poz. 1936) wprowadza się następujące zmiany:
 
 **Art. 6.**
 
-1. W 2021 waloryzacja od marca polega na podwyższeniu kwoty świadczenia wysokości przysługującej dniu 28 lutego 2021 wskaźnikiem waloryzacji ustalonym zgodnie 89 ustawy zmienianej 1, nie mniej niż kwotę 50 zł.
+1. W 2021 r. waloryzacja od dnia 1 marca polega na podwyższeniu kwoty świadczenia w wysokości przysługującej w dniu 28 lutego 2021 r. wskaźnikiem waloryzacji ustalonym zgodnie z art. 89 ustawy zmienianej w art. 1, nie mniej niż o kwotę 50 zł.
 
-2. Waloryzacja podstawy wymiaru świadczenia Funduszu Ubezpieczeń Społecznych polega na pomnożeniu podstawy wymiaru świadczenia przez wskaźnik stanowiący iloraz zwaloryzowanej kwoty świadczenia Funduszu Ubezpieczeń Społecznych kwoty tego świadczenia ustalonej na dzień poprzedzający termin waloryzacji.
+2. Waloryzacja podstawy wymiaru świadczenia z Funduszu Ubezpieczeń Społecznych polega na pomnożeniu podstawy wymiaru świadczenia przez wskaźnik stanowiący iloraz zwaloryzowanej kwoty świadczenia z Funduszu Ubezpieczeń Społecznych i kwoty tego świadczenia ustalonej na dzień poprzedzający termin waloryzacji.
 
-3. Do waloryzacji podstawy wymiaru świadczeń wypłacanych na podstawie ustaw, 8 pkt 2 3, przepis 2 stosuje się odpowiednio.
+3. Do waloryzacji podstawy wymiaru świadczeń wypłacanych na podstawie ustaw, o których mowa w art. 8 ust. 1 pkt 2 i 3, przepis ust. 2 stosuje się odpowiednio.
 
-4. W przypadku świadczenia niższego od kwoty najniższego świadczenia, którego nie ma zastosowania gwarancja wysokości najniższego świadczenia, której 85 ustawy zmienianej 1, waloryzacja polega na podwyższeniu kwoty świadczenia wysokości przysługującej dniu 28 lutego 2021 wskaźnikiem waloryzacji ustalonym zgodnie 89 tej ustawy.
+4. W przypadku świadczenia niższego od kwoty najniższego świadczenia, do którego nie ma zastosowania gwarancja wysokości najniższego świadczenia, o której mowa w art. 85 ustawy zmienianej w art. 1, waloryzacja polega na podwyższeniu kwoty świadczenia w wysokości przysługującej w dniu 28 lutego 2021 r. wskaźnikiem waloryzacji ustalonym zgodnie z art. 89 tej ustawy.
 
-5. W przypadku renty tytułu częściowej niezdolności pracy renty inwalidzkiej III grupy kwota waloryzacji, której 1, nie mniej niż 37,50 zł.
+5. W przypadku renty z tytułu częściowej niezdolności do pracy i renty inwalidzkiej III grupy kwota waloryzacji, o której mowa w ust. 1, wynosi nie mniej niż 37,50 zł.
 
-6. W przypadku emerytury częściowej kwota waloryzacji, której 1, nie mniej niż 25 zł.
+6. W przypadku emerytury częściowej kwota waloryzacji, o której mowa w ust. 1, wynosi nie mniej niż 25 zł.
 
-7. Jeżeli emerytura Funduszu Ubezpieczeń Społecznych przysługuje łącznie okresową emeryturą kapitałową, której 8 pkt 7, każde tych świadczeń podwyższa się sposób określony 1, przy czym kwotę, której 1, ustala się proporcjonalnie wysokości tych świadczeń.
+7. Jeżeli emerytura z Funduszu Ubezpieczeń Społecznych przysługuje łącznie z okresową emeryturą kapitałową, o której mowa w art. 8 ust. 1 pkt 7, każde z tych świadczeń podwyższa się w sposób określony w ust. 1, przy czym kwotę, o której mowa w ust. 1, ustala się proporcjonalnie do wysokości tych świadczeń.
 
-8. Kwoty maksymalnych zmniejszeń, 104 8 ustawy zmienianej 1, oraz kwoty emerytur rent wolne od egzekucji potrąceń, 141 ustawy zmienianej 1, podlegają od marca 2021 podwyższeniu przy zastosowaniu wskaźnika waloryzacji ustalonego zgodnie 89 ustawy zmienianej
-
-1.
+8. Kwoty maksymalnych zmniejszeń, o których mowa w art. 104 ust. 8 ustawy zmienianej w art. 1, oraz kwoty emerytur i rent wolne od egzekucji i potrąceń, o których mowa w art. 141 ust. 1 ustawy zmienianej w art. 1, podlegają od dnia 1 marca 2021 r. podwyższeniu przy zastosowaniu wskaźnika waloryzacji ustalonego zgodnie z art. 89 ustawy zmienianej w art. 1.
 
 **Art. 7.**
 
-1. W przypadku gdy wskaźnik waloryzacji, którym 89 ustawy zmienianej 1, 2021 jest wyższy niż 104,16%, kwota najniższej renty tytułu niezdolności pracy dla osób całkowicie niezdolnych pracy, kwota najniższej emerytury oraz kwota renty rodzinnej, 1, kwota świadczenia przedemerytalnego, której 3 pkt 1, wzrasta kwotę stanowiącą różnicę między kwotą świadczenia wysokości przysługującej którym 6 1.
+1. W przypadku gdy wskaźnik waloryzacji, o którym mowa w art. 89 ustawy zmienianej w art. 1, w 2021 r. jest wyższy niż 104,16%, kwota najniższej renty z tytułu niezdolności do pracy dla osób całkowicie niezdolnych do pracy, kwota najniższej emerytury oraz kwota renty rodzinnej, o których mowa w art. 1, kwota świadczenia przedemerytalnego, o której mowa w art. 3 pkt 1, wzrasta o kwotę stanowiącą różnicę między kwotą świadczenia w wysokości przysługującej w dniu 28 lutego 2021 r. podwyższoną w ramach waloryzacji wskaźnikiem, o którym mowa w art. 89 ustawy zmienianej w art. 1, a kwotą tego świadczenia podwyższoną o kwotę, o której mowa w art. 6 ust. 1.
+
+2. Przepis ust. 1 stosuje się odpowiednio do kwoty najniższej renty z tytułu niezdolności do pracy dla osób częściowo niezdolnych do pracy, o której mowa w art. 1, i kwoty świadczenia przedemerytalnego, o którym mowa w art. 3 pkt 2.
+
+3. Kwota miesięcznego progu uprawniającego do świadczenia wyrównawczego, o którym mowa w art. 4, oraz kwota miesięcznego progu uprawniającego do świadczenia uzupełniającego dla osób niezdolnych do samodzielnej egzystencji, o którym mowa w art. 5, wzrasta o kwotę stanowiącą różnicę między kwotą progu w wysokości przysługującej w dniu 28 lutego 2021 r. podwyższoną w ramach waloryzacji wskaźnikiem, o którym mowa w art. 89 ustawy zmienianej w art. 1, a kwotą tego progu podwyższoną o kwotę, o której mowa w art. 6 ust. 1.
+
+4. Podstawę wymiaru renty inwalidzkiej, o której mowa w art. 2, oraz kwoty emerytury częściowej, o której mowa w art. 6 ust. 6, w wysokości obowiązującej w dniu 28 lutego 2021 r. oblicza się przy zastosowaniu wskaźnika waloryzacji, o którym mowa w art. 6 ust. 1.
 
 **Art. 8.**
 
-1. Waloryzacji, której 6, podlegają:
+1. Waloryzacji, o której mowa w art. 6, podlegają:
 
-- **1)** świadczenia ubezpieczenia emerytalno-rentowego, 18 pkt 1–4 ustawy 20 grudnia 1990 ubezpieczeniu społecznym rolników U. 2021 poz. 266);
-- **2)** świadczenia, 2 pkt lit. a–c ustawy 10 grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin U. poz. 586 2320);
-- **3)** świadczenia, 2 pkt lit. a–c, oraz miesięczne kwoty, 15c 3, 22a 3 24a 2 ustawy 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej oraz ich rodzin U. poz. 723 2320);
-- **4)** emerytury renty, 3 pkt 1–3 ustawy 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych U. 2021 poz. 291);
-- **5)** świadczenia, 6 pkt 6–8 oraz 49, 50 52 ustawy 30 października 2002 ubezpieczeniu społecznym tytułu wypadków przy pracy chorób zawodowych U. 2019 poz. 1205);
-- **6)** świadczenia przedemerytalne zasiłki przedemerytalne, ustawie 30 kwietnia 2004 świadczeniach przedemerytalnych U. poz. 1725);
-- **7)** okresowe emerytury kapitałowe, 7 ustawy 21 listopada 2008 emeryturach kapitałowych U. 2018 poz. 926);
-- **8)** emerytury, pkt ustawy 19 grudnia 2008 emeryturach pomostowych U. 2018 poz. 1924);
-- **9)** świadczenie, którym 5 ustawy 22 maja 2009 nauczycielskich świadczeniach kompensacyjnych U. 2018 poz. 128);
-- **10)** okresowa emerytura rolnicza, której 15 ustawy 11 maja 2012 zmianie ustawy emeryturach rentach Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw U. poz. 637 oraz 2017 poz. 38);
-- **11)** rodzicielskie świadczenie uzupełniające, którym ustawy 31 stycznia 2019 rodzicielskim świadczeniu uzupełniającym U. poz. 303).
+- **1)** świadczenia z ubezpieczenia emerytalno-rentowego, o których mowa w art. 18 pkt 1–4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2021 r. poz. 266);
+- **2)** świadczenia, o których mowa w art. 2 pkt 1 lit. a-c ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2020 r. poz. 586 i 2320);
+- **3)** świadczenia, o których mowa w art. 2 ust. 1 pkt 1 lit. a-c, oraz miesięczne kwoty, o których mowa w art. 15c ust. 3, art. 22a ust. 3 i art. 24a ust. 2 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2020 r. poz. 723 i 2320);
+- **4)** emerytury i renty, o których mowa w art. 3 pkt 1–3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291);
+- **5)** świadczenia, o których mowa w art. 6 ust. 1 pkt 6–8 oraz art. 49, art. 50 i art. 52 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2019 r. poz. 1205);
+- **6)** świadczenia przedemerytalne i zasiłki przedemerytalne, o których mowa w ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2020 r. poz. 1725);
+- **7)** okresowe emerytury kapitałowe, o których mowa w art. 7 ust. 1 ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926);
+- **8)** emerytury, o których mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2018 r. poz. 1924);
+- **9)** świadczenie, o którym mowa w art. 5 ust. 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych (Dz. U. z 2018 r. poz. 128);
+- **10)** okresowa emerytura rolnicza, o której mowa w art. 15 ustawy z dnia 11 maja 2012 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 637 oraz z 2017 r. poz. 38);
+- **11)** rodzicielskie świadczenie uzupełniające, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. poz. 303).
 
-2. Waloryzacji od marca 2021 r., polegającej na pomnożeniu ich kwoty przez wskaźnik waloryzacji ustalony zgodnie 89 ustawy zmienianej 1, podlegają:
+2. Waloryzacji od dnia 1 marca 2021 r., polegającej na pomnożeniu ich kwoty przez wskaźnik waloryzacji ustalony zgodnie z art. 89 ustawy zmienianej w art. 1, podlegają:
 
-- **1)** dodatek pieniężny, którym 12a ustawy 29 maja 1974 zaopatrzeniu inwalidów wojennych wojskowych oraz ich rodzin U. poz. 1790);
-- **2)** dodatek, którym 90 ustawy 26 stycznia 1982 Karta Nauczyciela U. 2019 poz. 2215 oraz 2021 poz. 4);
-- **3)** dodatek, którym 15 ustawy 24 stycznia 1991 kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego U. poz. 517);
+- **1)** dodatek pieniężny, o którym mowa w art. 12a ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2020 r. poz. 1790);
+- **2)** dodatek, o którym mowa w art. 90 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2019 r. poz. 2215 oraz z 2021 r. poz. 4);
+- **3)** dodatek, o którym mowa w art. 15 ust. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2020 r. poz. 517);
+- **4)** świadczenie pieniężne, o którym mowa w art. 2 ust. 1 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2020 r. poz. 619);
+- **5)** świadczenie pieniężne, o którym mowa w art. 3 ust. 1 ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2019 r. poz. 1168);
+- **6)** dodatki, o których mowa w art. 75 ust. 2 i art. 76 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
+- **7)** świadczenie pieniężne, o którym mowa w art. 9 ust. 1 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2020 r. poz. 319 i 1578).
 
-2. Prezes Kasy Rolniczego Ubezpieczenia Społecznego ogłosi, formie komunikatu, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, zwaloryzowaną kwotę emerytury podstawowej, której 1.
+**Art. 9.**
 
-3. Waloryzacja emerytury oraz renty ubezpieczenia społecznego rolników polega na pomnożeniu zwaloryzowanej kwoty emerytury podstawowej przez wskaźnik wymiaru świadczenia, którym 48 ustawy, której 8 pkt 1, tym że kwota podwyżki świadczenia nie może być niższa niż kwota, której 6
+1. W 2021 r. emerytura podstawowa, o której mowa w art. 6 pkt 7 ustawy, o której mowa w art. 8 ust. 1 pkt 1, podlega podwyższeniu przy zastosowaniu wskaźnika waloryzacji ustalonego zgodnie z art. 89 ustawy zmienianej w art. 1.
 
-1.
+2. Prezes Kasy Rolniczego Ubezpieczenia Społecznego ogłosi, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, zwaloryzowaną kwotę emerytury podstawowej, o której mowa w ust. 1.
 
-4. Przepis 48 2a 2b ustawy, której 8 pkt 1, stosuje się odpowiednio.
+3. Waloryzacja emerytury oraz renty z ubezpieczenia społecznego rolników polega na pomnożeniu zwaloryzowanej kwoty emerytury podstawowej przez wskaźnik wymiaru świadczenia, o którym mowa w art. 48 ust. 1 ustawy, o której mowa w art. 8 ust. 1 pkt 1, z tym że kwota podwyżki świadczenia nie może być niższa niż kwota, o której mowa w art. 6 ust. 1.
 
-**Art. 10.** W 2021 zakresie uregulowanym 6 nie stosuje się:
+4. Przepis art. 48 ust. 2a i 2b ustawy, o której mowa w art. 8 ust. 1 pkt 1, stosuje się odpowiednio.
+
+**Art. 10.** W2021 r. w zakresie uregulowanym w art. 6 nie stosuje się:
 
 **Art. 11.**
 
-1. Prezes Zakładu Ubezpieczeń Społecznych ogłosi, formie komunikatu, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, należne od tego terminu miesięczne kwoty, 8 pkt 3, kwoty dodatków świadczeń, 8 2 pkt 2–6, kwoty maksymalnych zmniejszeń oraz kwoty emerytur rent wolne od egzekucji potrąceń, 6 8.
+1. Prezes Zakładu Ubezpieczeń Społecznych ogłosi, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, należne od tego terminu miesięczne kwoty, o których mowa w art. 8 ust. 1 pkt 3, kwoty dodatków i świadczeń, o których mowa w art. 8 ust. 2 pkt 2–6, kwoty maksymalnych zmniejszeń oraz kwoty emerytur i rent wolne od egzekucji i potrąceń, o których mowa w art. 6 ust. 8.
 
-2. W 2021 Prezes Zakładu Ubezpieczeń Społecznych nie wydaje komunikatów, w:
+2. W 2021 r. Prezes Zakładu Ubezpieczeń Społecznych nie wydaje komunikatów, o których mowa w:
 
-- **1)** 90 5 ustawy 26 stycznia 1982 Karta Nauczyciela;
-- **2)** 15 6 ustawy 24 stycznia 1991 kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego;
-- **3)** 15c 10, 22a 9 24a 9 ustawy 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej oraz ich rodzin;
-- **4)** 2 3 ustawy 2 września 1994 świadczeniu pieniężnym uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym kopalniach węgla, kamieniołomach, zakładach rud uranu batalionach budowlanych;
-- **5)** 3 3 ustawy 31 maja 1996 osobach deportowanych pracy przymusowej oraz osadzonych obozach pracy przez III Rzeszę Związek Socjalistycznych Republik Radzieckich;
-- **6)** 94 2 ustawy 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych;
-- **7)** 10a 5 ustawy 20 marca 2015 działaczach opozycji antykomunistycznej oraz osobach represjonowanych powodów politycznych. paragrafami klasyfikacji wydatków budżetu państwa oraz między częściami budżetowymi 72 Kasa Rolniczego Ubezpieczenia Społecznego oraz 73 Zakład Ubezpieczeń Społecznych.
+- **1)** art. 90 ust. 5 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela;
+- **2)** art. 15 ust. 6 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego;
+- **3)** art. 15c ust. 10, art. 22a ust. 9 i art. 24a ust. 9 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin;
+- **4)** art. 2 ust. 3 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych;
+- **5)** art. 3 ust. 3 ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich;
+- **6)** art. 94 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
+- **7)** art. 10a ust. 5 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych.
 
-**Art. 15.** Zmiana wysokości przyznanego świadczenia wyrównawczego, wyniku podwyższenia kwoty, której 10a ustawy zmienianej 4, następuje urzędu od marca 2021
+**Art. 12.** W przypadku, o którym mowa w art. 7 ust. 1, Prezes Zakładu Ubezpieczeń Społecznych ogłosi, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, należne od tego terminu miesięczne kwoty, o których mowa w art. 7 ust. 1–3.
 
-**Art. 16.** Zmiana wysokości przyznanego świadczenia uzupełniającego, wyniku podwyższenia kwoty, której 2 2 oraz 4 2 ustawy zmienianej 5, następuje urzędu od marca 2021
+**Art. 13.** W 2021 r. do świadczeń emerytalno-rentowych wypłacanych z Funduszu Ubezpieczeń Społecznych i Funduszu Emerytur Pomostowych, którymi dysponuje Zakład Ubezpieczeń Społecznych, oraz świadczeń emerytalno-rentowych wypłacanych z Funduszu Emerytalno-Rentowego, którym dysponuje Prezes Kasy Rolniczego Ubezpieczenia Społecznego, nie stosuje się art. 29 ust. 10 i 12 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305).
 
-**Art. 17.** Ustawa wchodzi życie dniem marca 2021 r., wyjątkiem 9 2, 11 12, które wchodzą życie dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 14.** W 2021 r. minister właściwy do spraw finansów publicznych, na wniosek właściwego dysponenta części budżetowej, w celu realizacji ustawy może dokonywać przeniesień wydatków budżetowych między działami, rozdziałami i paragrafami klasyfikacji wydatków budżetu państwa oraz między częściami budżetowymi 72 – Kasa Rolniczego Ubezpieczenia Społecznego oraz 73 – Zakład Ubezpieczeń Społecznych.
+
+**Art. 15.** Zmiana wysokości przyznanego świadczenia wyrównawczego, w wyniku podwyższenia kwoty, o której mowa w art. 10a ust. 1 ustawy zmienianej w art. 4, następuje z urzędu od dnia 1 marca 2021 r.
+
+**Art. 16.** Zmiana wysokości przyznanego świadczenia uzupełniającego, w wyniku podwyższenia kwoty, o której mowa w art. 2 ust. 2 oraz art. 4 ust. 1 i 2 ustawy zmienianej w art. 5, następuje z urzędu od dnia 1 marca 2021 r.
+
+**Art. 17.** Ustawa wchodzi w życie z dniem 1 marca 2021 r., z wyjątkiem art. 9 ust. 2, art. 11 i art. 12, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
 

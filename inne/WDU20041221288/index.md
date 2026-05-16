@@ -8,9 +8,10 @@ pos: 1288
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# wej; w ten sposób możliwość interpretacji uzyskanych rezultatów wzależności od określonych wymagań;
+# Wyrok Trybunału Konstytucyjnegoz dnia 11 maja 2004 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +25,20 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041221288) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1288/text.pdf) |
 
-6) laboratorium powinno stosować wzorce referencyjne w celu kontroli, czy ich sygnał odpowiedzi 2) informację zawartości lipidów w próbce mieści się w akceptowanym zakresie. sposób ich ekstrakcji;
-10. Przedstawianie wyników 3) informacje na temat odzysku wszystkich zastosowanych wzorców wewnętrznych, w przypadkach Wyniki analiz badań dioksyn polichlorowanych gdy wartości odzysku wykraczają poza granice bifenyli właściwościach podobnych do dioksyn mu- określone w ust. 5, w razie przekroczenia dopuszszą uwzględniać: czalnej zawartości na uzasadniony wniosek.
-WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 11 maja 2004 sygn. akt K 4/03 Trybunał Konstytucyjny w składzie: Marek Safjan przewodniczący, Jerzy Ciemniewski, Teresa Dębowska-Romanowska, Marian Grzybowski, Adam Jamróz, Wiesław Johann, Biruta Lewaszkiewicz-Petrykowska, Ewa Ęętowska, Marek Mazurkiewicz, Andrzej Mączyński, Janusz Niemcewicz sprawozdawca, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki,
-1) art. 24b§ 1 ustawy zdnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 137, poz. 926, ze zm.) art. 2 art. 22 Konstytucji Rzeczypospolitej Polskiej,
-2) art. 14 § 2 ustawy powołanej w punkcie 1 art. 78 art. 93 ust. 2 Konstytucji,
-3) art. 18 ust. 2 ustawy dnia 11 maja 1995 Naczelnym Sądzie Administracyjnym (Dz. U. 74, poz. 368, ze zm.) wbrzmieniu zmienionym ustawą zdnia 12 września 2002 ozmianie ustawy Ordynacja podatkowa zmianie niektórych innych ustaw (Dz. U. 169, poz. 1387) zart. 2 Konstytucji,
-4) art. 59 ustawy powołanej wpunkcie 3 zart. 32 ust. 1 Konstytucji, orzeka:
-1. Art. 14 § 2 ustawy dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 137, poz. 926 iNr 160, poz. 1083, 1998 106, poz. 668, 1999 11, poz. 95 92, poz. 1062, 2000 94, poz. 1037, 116, poz. 1216, 120, poz. 1268 122, poz. 1315, 2001 16, poz. 166, 39, poz. 459, po rozpoznaniu, udziałem wnioskodawców 42, poz. 475, 110, poz. 1189, 125, poz. 1368 Sejmu Prokuratora Generalnego, na rozprawie 130, poz. 1452, 2002 89, poz. 804, 113, w dniu 11 maja 2004 r., wniosku Prezesa Naczelnego poz. 984, 153, poz. 1271 169, poz. 1387,
-2. Art. 24b§ 1 ustawy powołanej wpkt 1 jest niezgodny art. 2 w związku art. 217 Konstytucji.
-Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 3 ustawy dnia 1 sierpnia 1997 oTrybunale Konstytucyjnym (Dz. U.
-102, poz. 643, 2000 48, poz. 552 53, poz. 638 2001 98, poz. 1070) umorzyć postępowanie w zakresie badania art. 18 ust. 2 art. 59 ustawy zdnia 11 maja 1995 oNaczelnym Sądzie Administracyjnym (Dz. U. 74, poz. 368 104, poz. 515, 1997 75, poz 471, 106, poz. 679, 114, poz. 739 144, poz. 971, 1998 162, poz. 1126, 1999 75, poz. 853, 2000 2, poz. 5, 48, poz. 552, 60, poz. 704 91, cy obowiązującej przed wydaniem orzeczenia przez Trybunał Konstytucyjny.
-Marek Safjan Jerzy Ciemniewski Teresa Dębowska-Romanowska Marian Grzybowski Adam Jamróz (zdanie odrębne do pkt 2) (zdanie odrębne do pkt 2) Wiesław Johann Biruta Lewaszkiewicz-Petrykowska Ewa Ęętowska Marek Mazurkiewicz (zdanie odrębne do pkt 2) Andrzej Mączyński Janusz Niemcewicz Mirosław Wyrzykowski Marian Zdyb poz. 1008, 2001 49, poz. 508 509, 98, Bohdan Zdziennicki (zdanie odrębne do pkt 2) Trybunał Konstytucyjny w składzie: Biruta Lewaszkiewicz-Petrykowska przewodniczący, Marian Grzybowski, Wiesław Johann, Ewa Ęętowska, Janusz Niemcewicz sprawozdawca, po rozpoznaniu, zudziałem skarżącego Sejmu Prokuratora Generalnego, na rozprawie w dniu 12 maja 2004 r., skargi Jana Macieja Ostrowskiego stwierdzenie niezgodności art. 28 ust. 2 ustawy cywilnego (Dz. U. 71, poz. 733) art. 64 w związku art. 31 ust. 3 Konstytucji RP, orzeka:
-Art. 28 ust. 2 ustawy dnia 21 czerwca 2001 ochronie praw lokatorów, mieszkaniowym zasobie gminy zmianie Kodeksu cywilnego (Dz. U. 71, poz. 733, 2002 113, poz. 984 168, poz. 1383 z2003 113, poz. 1069) jest zgodny zart. 64 ust. 1 2 w związku art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
-Biruta Lewaszkiewicz-Petrykowska 1289 WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 12 maja 2004 sygn. akt SK 34/02
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marek Safjan – przewodniczący, Jerzy Ciemniewski, Teresa Dębowska-Romanowska, Marian Grzybowski, Adam Jamróz, Wiesław Johann, Biruta Lewaszkiewicz-Petrykowska, Ewa Łętowska, Marek Mazurkiewicz, Andrzej Mączyński, Janusz Niemcewicz – sprawozdawca, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawców oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 11 maja 2004 r., wniosku Prezesa Naczelnego Sądu Administracyjnego i Rzecznika Praw Obywatelskich o zbadanie zgodności:
+1)
+art. 24b § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, ze zm.) z art. 2 i art. 22 Konstytucji Rzeczypospolitej Polskiej,
+2)
+art. 14 § 2 ustawy powołanej w punkcie 1 z art. 78 i art. 93 ust. 2 Konstytucji,
+3)
+art. 18 ust. 2 ustawy z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz. U. Nr 74, poz. 368, ze zm.) w brzmieniu zmienionym ustawą z dnia 12 września 2002 r. o zmianie ustawy – Ordynacja podatkowa oraz o zmianie niektórych innych ustaw (Dz. U. Nr 169, poz. 1387) z art. 2 Konstytucji,
+4)
+art. 59 ustawy powołanej w punkcie 3 z art. 32 ust. 1 Konstytucji,
+orzeka:
+1.
+Art. 14 § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257, Nr 64, poz. 593, Nr 68, poz. 623 i Nr 91, poz. 868) w części stanowiącej, że interpretacje ministra właściwego do spraw finansów publicznych wiążą organy podatkowe i organy kontroli skarbowej, jest niezgodny z art. 78 oraz art. 93 ust. 2 zdanie drugie Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 24b § 1 ustawy powołanej w pkt 1 jest niezgodny z art. 2 w związku z art. 217 Konstytucji.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 3 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638 oraz z 2001 r. Nr 98, poz. 1070) umorzyć postępowanie w zakresie badania art. 18 ust. 2 oraz art. 59 ustawy z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz. U. Nr 74, poz. 368 i Nr 104, poz. 515, z 1997 r. Nr 75, poz. 471, Nr 106, poz. 679, Nr 114, poz. 739 i Nr 144, poz. 971, z 1998 r. Nr 162, poz. 1126, z 1999 r. Nr 75, poz. 853, z 2000 r. Nr 2, poz. 5, Nr 48, poz. 552, Nr 60, poz. 704 i Nr 91, poz. 1008, z 2001 r. Nr 49, poz. 508 i 509, Nr 98, poz. 1070 i Nr 101, poz. 1113 oraz z 2002 r. Nr 113, poz. 984, Nr 141, poz. 1177 i Nr 169, poz. 1387) w brzmieniu zmienionym ustawą z dnia 12 września 2002 r. o zmianie ustawy – Ordynacja podatkowa oraz o zmianie niektórych innych ustaw (Dz. U. Nr 169, poz. 1387) wobec utraty przez te przepisy mocy obowiązującej przed wydaniem orzeczenia przez Trybunał Konstytucyjny.
 

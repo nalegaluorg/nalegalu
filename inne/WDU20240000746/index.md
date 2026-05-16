@@ -8,9 +8,10 @@ pos: 746
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 maja 2024 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 15 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o międzynarodowym przemieszczaniu odpadów
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,36 @@ domain: null
 | Ostatnia zmiana | 2024-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000746) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/746/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 maja 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o międzynarodowym przemieszczaniu odpadów
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. z 2020 r. poz. 1792), z uwzględnieniem zmian wprowadzonych ustawą z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 maja 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 20 oraz art. 26 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890), które stanowią: „Art. 20. 1. Do spraw, o których mowa w art. 23 ust. 1 i art. 25 ust. 1 ustawy zmienianej w art. 10, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy wydaniem postanowienia, o którym mowa odpowiednio w art. 23 ust. 1 albo art. 25 ust. 1 ustawy zmienianej w art. 10 w brzmieniu dotychczasowym, stosuje się przepisy w brzmieniu nadanym niniejszą ustawą. W takim przypadku wszczęte postępowanie staje się postępowaniem w sprawie wydania decyzji, o której mowa odpowiednio w art. 23 ust. 1 albo art. 25 ust. 1 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą, o czym Główny Inspektor Ochrony Środowiska zawiadamia stronę postępowania i organy, o których mowa odpowiednio w art. 23 ust. 2 albo art. 25 ust. 2 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą.
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów Rozdział 1 – Przepisy ogólne Rozdział 2 – Właściwość organów Rozdział 3 – Zezwolenia na międzynarodowe przemieszczanie odpadów Rozdział 4 – Zezwolenia wstępne dla instalacji odzysku Rozdział 5 – Gwarancje finansowe Rozdział 6 – Zwrot odpadów Rozdział 7 – Właściwe przejścia graniczne Rozdział 8 – Przepisy karne Rozdział 9 – Kary pieniężne Rozdział 10 – Zmiany w przepisach obowiązujących Rozdział 11 – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. z 2020 r. poz. 1792), z uwzględnieniem zmian wprowadzonych ustawą z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 maja 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 20 oraz art. 26 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890), które stanowią:
+„
+1.
+Gwarancja finansowa, o której mowa w art. 6 rozporządzenia nr 1013/2006, może mieć formę umowy gwarancji bankowej, umowy gwarancji ubezpieczeniowej albo depozytu odpowiedniej sumy pieniężnej na wydzielonym rachunku bankowym.
+2.
+Wysokość sumy gwarancyjnej musi umożliwiać pokrycie kosztów wskazanych w art. 6 ust. 1 rozporządzenia nr 1013/2006.
+3.
+Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, sposób obliczania wysokości sumy gwarancyjnej, o której mowa w ust. 2, kierując się potrzebą uwzględnienia wszystkich elementów kosztów wskazanych w art. 6 ust. 1 rozporządzenia nr 1013/2006, w szczególności koniecznością zapewnienia sfinansowania prawidłowego transportu, odzysku lub unieszkodliwienia oraz kosztów magazynowania odpadów, a także potrzebą uproszczenia procedury ustanawiania gwarancji.
+4.
+Gwarancja finansowa w formie umowy gwarancji bankowej albo umowy gwarancji ubezpieczeniowej jest składana w oryginale do Głównego Inspektora Ochrony Środowiska.
+5.
+Gwarancja finansowa w formie depozytu jest wpłacana na odrębny rachunek bankowy wskazany przez Głównego Inspektora Ochrony Środowiska.
+6.
+Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw klimatu może określić, w drodze rozporządzenia, wzory formularzy umowy gwarancji bankowej i umowy gwarancji ubezpieczeniowej, kierując się potrzebą uwzględnienia wszystkich niezbędnych elementów umowy oraz uproszczenia procedury ustanawiania gwarancji.
+
+**Art. 20.**
+
+1. Do spraw, o których mowa w art. 23 ust. 1 i art. 25 ust. 1 ustawy zmienianej w art. 10, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy wydaniem postanowienia, o którym mowa odpowiednio w art. 23 ust. 1 albo art. 25 ust. 1 ustawy zmienianej w art. 10 w brzmieniu dotychczasowym, stosuje się przepisy w brzmieniu nadanym niniejszą ustawą. W takim przypadku wszczęte postępowanie staje się postępowaniem w sprawie wydania decyzji, o której mowa odpowiednio w art. 23 ust. 1 albo art. 25 ust. 1 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą, o czym Główny Inspektor Ochrony Środowiska zawiadamia stronę postępowania i organy, o których mowa odpowiednio w art. 23 ust. 2 albo art. 25 ust. 2 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą.
+
 2. Do postanowień, o których mowa w art. 23 ust. 1 albo art. 25 ust. 1 ustawy zmienianej w art. 10 w brzmieniu dotychczasowym, wydanych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-3. W przypadku gdy przed dniem wejścia w życie niniejszej ustawy wydano postanowienie, o którym mowa odpowiednio w art. 23 ust. 1 albo art. 25 ust. 1 ustawy zmienianej w art. 10 w brzmieniu dotychczasowym, do spraw, o których mowa w art. 24 ust. 1 i art. 26 ustawy zmienianej w art. 10 w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.” „Art. 26. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 24 oraz art. 7 pkt 6, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-2) art. 1 pkt 21, art. 14 oraz art. 23, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 29 czerwca 2007 r.
-o międzynarodowym przemieszczaniu odpadów
+
+3. W przypadku gdy przed dniem wejścia w życie niniejszej ustawy wydano postanowienie, o którym mowa odpowiednio w art. 23 ust. 1 albo art. 25 ust. 1 ustawy zmienianej w art. 10 w brzmieniu dotychczasowym, do spraw, o których mowa w art. 24 ust. 1 i art. 26 ustawy zmienianej w art. 10 w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe. ” „
+
+**Art. 26.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -42,16 +62,16 @@ o międzynarodowym przemieszczaniu odpadów
 
 1. Ustawa określa postępowanie i organy właściwe do wykonania zadań z zakresu międzynarodowego przemieszczania odpadów wynikających z rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str. 1) oraz kary pieniężne za naruszanie obowiązków w zakresie międzynarodowego przemieszczania odpadów.
 
-2. Przepisy ustawy nie naruszają postanowień ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) oraz ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029).
+2. Przepisy ustawy nie naruszają postanowień ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) oraz ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029).
 
 **Art. 2.**
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** rozporządzeniu nr 1013/2006 rozumie się przez to rozporządzenie WE nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str. 1);
-- **2)** dyrektywie 2006/12/WE rozumie się przez to dyrektywę 2006/12/WE Parlamentu Europejskiego i Rady z dnia 5 kwietnia 2006 r. w sprawie odpadów (Dz. Urz. UE L 114 z 27.04.2006, str. 9);
-- **3)** terenie kraju rozumie się przez to terytorium Rzeczypospolitej Polskiej;
-- **4)** odbiorcy odpadów sprowadzonych nielegalnie rozumie się przez to każdą osobę fizyczną, prawną lub jednostkę organizacyjną, do której zostały przemieszczone nielegalnie odpady; domniemywa się, że władający powierzchnią ziemi, na której znajdują się nielegalnie przemieszczone odpady, jest odbiorcą odpadów sprowadzonych nielegalnie.
+- **1)** rozporządzeniu nr 1013/2006 – rozumie się przez to rozporządzenie WE nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str. 1);
+- **2)** dyrektywie 2006/12/WE – rozumie się przez to dyrektywę 2006/12/WE Parlamentu Europejskiego i Rady z dnia 5 kwietnia 2006 r. w sprawie odpadów (Dz. Urz. UE L 114 z 27.04.2006, str. 9);
+- **3)** terenie kraju – rozumie się przez to terytorium Rzeczypospolitej Polskiej;
+- **4)** odbiorcy odpadów sprowadzonych nielegalnie – rozumie się przez to każdą osobę fizyczną, prawną lub jednostkę organizacyjną, do której zostały przemieszczone nielegalnie odpady; domniemywa się, że władający powierzchnią ziemi, na której znajdują się nielegalnie przemieszczone odpady, jest odbiorcą odpadów sprowadzonych nielegalnie.
 
 2. (uchylony)
 
@@ -83,8 +103,8 @@ o międzynarodowym przemieszczaniu odpadów
 
 1. Przed wydaniem zezwolenia na przywóz odpadów na teren kraju Główny Inspektor Ochrony Środowiska:
 
-- **1)** występuje z wnioskiem o przedstawienie informacji dotyczącej przestrzegania przez prowadzącego działalność w zakresie odzysku lub unieszkodliwiania odpadów przepisów o ochronie środowiska do wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia działalności związanej z gospodarowaniem odpadami, albo, jeżeli odbiorca odpadów nie będzie prowadził ich odzysku lub unieszkodliwiania, właściwego ze względu na jego miejsce siedziby albo zamieszkania;
-- **2)** może wystąpić z wnioskiem o informację dotyczącą zgodności działalności prowadzonej przez odbiorcę odpadów z przepisami prawa regulującymi prowadzenie takiej działalności, w tym, w szczególności z przepisami o ochronie środowiska do organu właściwego do wydania zezwolenia na prowadzenie działalności w zakresie odzysku lub unieszkodliwiania odpadów;
+- **1)** występuje z wnioskiem o przedstawienie informacji dotyczącej przestrzegania przez prowadzącego działalność w zakresie odzysku lub unieszkodliwiania odpadów przepisów o ochronie środowiska – do wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia działalności związanej z gospodarowaniem odpadami, albo, jeżeli odbiorca odpadów nie będzie prowadził ich odzysku lub unieszkodliwiania, właściwego ze względu na jego miejsce siedziby albo zamieszkania;
+- **2)** może wystąpić z wnioskiem o informację dotyczącą zgodności działalności prowadzonej przez odbiorcę odpadów z przepisami prawa regulującymi prowadzenie takiej działalności, w tym, w szczególności z przepisami o ochronie środowiska – do organu właściwego do wydania zezwolenia na prowadzenie działalności w zakresie odzysku lub unieszkodliwiania odpadów;
 - **3)** występuje z wnioskiem do komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej o przedstawienie informacji dotyczącej przestrzegania przepisów dotyczących ochrony przeciwpożarowej w instalacji odzysku odpadów, w tym w miejscach magazynowania odpadów przed poddaniem ich procesom odzysku; w przypadku odpadów niepalnych przepisu nie stosuje się.
 
 2. Organy, do których zwrócono się o przedstawienie informacji, są obowiązane przedstawić je niezwłocznie, jednak nie później niż w terminie 14 dni od dnia doręczenia wniosku o informację.
@@ -113,7 +133,7 @@ o międzynarodowym przemieszczaniu odpadów
 
 4. Główny Inspektor Ochrony Środowiska żąda, przed wydaniem zezwolenia na przywóz albo na wywóz odpadów, dostarczenia przez odbiorcę odpadów:
 
-- **1)** zezwolenie na przetwarzanie odpadów lub zezwolenie na zbieranie i przetwarzanie odpadów lub pozwolenia, o których mowa w art. 181 ust. 1 pkt 1 i 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska;
+- **1)** zezwolenie na przetwarzanie odpadów lub zezwolenie na zbieranie i przetwarzanie odpadów lub pozwolenia, o których mowa w art. 181 ust. 1 pkt 1 i 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
 - **2)** kopii pozwoleń na emisję dotyczących instalacji, w której odpady miałyby być poddane odzyskowi lub unieszkodliwieniu;
 - **3)** (uchylony)
 - **4)** zaświadczenia albo oświadczenia o wpisie do właściwego rejestru Krajowego Rejestru Sądowego lub zaświadczenia albo oświadczenia o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
@@ -152,11 +172,7 @@ o międzynarodowym przemieszczaniu odpadów
 
 **Art. 10.** Do dokumentów przedkładanych w toku postępowania administracyjnego w języku innym niż polski powinny być załączone uwierzytelnione tłumaczenia na język polski.
 
-**Art. 11.** Zakazuje się przywozu na teren kraju odpadów w celu unieszkodliwiania w procesach określonych jako D1 do D15 w załączniku I do dyrektywy Parlamentu Europejskiego i Rady 2008/98/WE z dnia 19 listopada 2008 r. w sprawie odpadów oraz uchylającej niektóre dyrektywy (Dz. Urz. UE L 312 z 22.11.2008, str. 3, Dz. Urz. UE L 365 z 19.12.2014, str. 89, Dz. Urz. UE L 21 z 28.01.2015, str. 22, Dz. Urz. UE L 184 z 11.07.2015, str. 13, Dz. Urz. UE L 150 z 14.06.2017, str. 1 oraz Dz. Urz. UE L 150 z 14.06.2018, str. 109).
-
-**Art. 11a.** Minister właściwy do spraw klimatu może określić, w drodze rozporządzenia, rodzaje odpadów, których przywóz na terytorium kraju podlega ograniczeniu, oraz warunki, na jakich te odpady mogą być przywożone z zagranicy do instalacji termicznego przekształcania odpadów klasyfikowanych jako instalacje odzysku, mając na uwadze potrzebę zapewnienia pierwszeństwa termicznego przekształcania odpadów wytwarzanych na terytorium kraju.
-
-**Art. 11b.** Zakazuje się przywozu na teren kraju zmieszanych odpadów komunalnych i odpadów pochodzących z przetworzenia odpadów komunalnych, z wyłączeniem odpadów zebranych selektywnie przeznaczonych do recyklingu.
+**Art. 11.** Zakazuje się przywozu na teren kraju odpadów w celu unieszkodliwiania w procesach określonych jako D1 do D15 w załączniku I do dyrektywy Parlamentu Europejskiego i Rady 2008/98/WE z dnia 19 listopada 2008 r. w sprawie odpadów oraz uchylającej niektóre dyrektywy (Dz. Urz. UE L 312 z 22.11.2008, str. 3, Dz. Urz. UE L 365 z 19.12.2014, str. 89, Dz. Urz. UE L 21 z 28.01.2015, str. 22, Dz. Urz. UE L 184 z 11.07.2015, str. 13, Dz. Urz. UE L 150 z 14.06.2017, str. 1 oraz Dz. Urz. UE L 150 z 14.06.2018, str. 109). Minister właściwy do spraw klimatu może określić, w drodze rozporządzenia, rodzaje odpadów, których przywóz na terytorium kraju podlega ograniczeniu, oraz warunki, na jakich te odpady mogą być przywożone z zagranicy do instalacji termicznego przekształcania odpadów klasyfikowanych jako instalacje odzysku, mając na uwadze potrzebę zapewnienia pierwszeństwa termicznego przekształcania odpadów wytwarzanych na terytorium kraju. Zakazuje się przywozu na teren kraju zmieszanych odpadów komunalnych i odpadów pochodzących z przetworzenia odpadów komunalnych, z wyłączeniem odpadów zebranych selektywnie przeznaczonych do recyklingu.
 
 **Art. 12.**
 
@@ -204,9 +220,9 @@ o międzynarodowym przemieszczaniu odpadów
 
 5. W zezwoleniu wstępnym określa się:
 
-- **1)** numer rejestracji instalacji składający się z:
-    - **a)** liter PL,
-    - **b)** liczby składającej się z 4 cyfr arabskich stanowiącej kolejny numer instalacji, dla której wydano zezwolenie wstępne prowadzącemu instalację;
+- **1)** numer rejestracji instalacji – składający się z: liter PL, liczby składającej się z 4 cyfr arabskich stanowiącej kolejny numer instalacji, dla której wydano zezwolenie wstępne prowadzącemu instalację;
+    - **a)**
+    - **b)**
 
 - **2)** nazwę i adres siedziby prowadzącego instalację;
 - **3)** nazwę i adres instalacji, w której prowadzony jest proces odzysku;
@@ -246,20 +262,6 @@ o międzynarodowym przemieszczaniu odpadów
 
 #### Rozdział 5 Gwarancje finansowe
 
-**Art. 20.**
-
-1. Gwarancja finansowa, o której mowa w art. 6 rozporządzenia nr 1013/2006, może mieć formę umowy gwarancji bankowej, umowy gwarancji ubezpieczeniowej albo depozytu odpowiedniej sumy pieniężnej na wydzielonym rachunku bankowym.
-
-2. Wysokość sumy gwarancyjnej musi umożliwiać pokrycie kosztów wskazanych w art. 6 ust. 1 rozporządzenia nr 1013/2006.
-
-3. Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, sposób obliczania wysokości sumy gwarancyjnej, o której mowa w ust. 2, kierując się potrzebą uwzględnienia wszystkich elementów kosztów wskazanych w art. 6 ust. 1 rozporządzenia nr 1013/2006, w szczególności koniecznością zapewnienia sfinansowania prawidłowego transportu, odzysku lub unieszkodliwienia oraz kosztów magazynowania odpadów, a także potrzebą uproszczenia procedury ustanawiania gwarancji.
-
-4. Gwarancja finansowa w formie umowy gwarancji bankowej albo umowy gwarancji ubezpieczeniowej jest składana w oryginale do Głównego Inspektora Ochrony Środowiska.
-
-5. Gwarancja finansowa w formie depozytu jest wpłacana na odrębny rachunek bankowy wskazany przez Głównego Inspektora Ochrony Środowiska.
-
-6. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw klimatu może określić, w drodze rozporządzenia, wzory formularzy umowy gwarancji bankowej i umowy gwarancji ubezpieczeniowej, kierując się potrzebą uwzględnienia wszystkich niezbędnych elementów umowy oraz uproszczenia procedury ustanawiania gwarancji.
-
 **Art. 21.**
 
 1. Formę gwarancji finansowej, postanowienia umowy gwarancji bankowej albo umowy gwarancji ubezpieczeniowej oraz wysokość sumy gwarancyjnej Główny Inspektor Ochrony Środowiska zatwierdza w zezwoleniu wydanym na podstawie art. 4 pkt 2.
@@ -288,16 +290,10 @@ o międzynarodowym przemieszczaniu odpadów
 
 1. W przypadku stwierdzenia nielegalnego międzynarodowego przemieszczania odpadów albo na podstawie powiadomienia o nielegalnym przemieszczeniu otrzymanego w trybie art. 24 ust. 1 rozporządzenia nr 1013/2006, Główny Inspektor Ochrony Środowiska wszczyna z urzędu postępowanie administracyjne i zobowiązuje:
 
-- **1)** zgłaszającego lub, jeżeli nie dokonano zgłoszenia, podmiot zobowiązany do dokonania zgłoszenia jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi wysyłający odpady,
-- **2)** odbiorcę odpadów jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi odbiorca odpadów w drodze decyzji, do zastosowania procedur określonych w art. 24 rozporządzenia nr 1013/2006 i określa sposób zagospodarowania odpadów oraz wskazuje termin realizacji obowiązków nałożonych tą decyzją nie dłuższy niż 30 dni.
+- **1)** zgłaszającego lub, jeżeli nie dokonano zgłoszenia, podmiot zobowiązany do dokonania zgłoszenia – jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi wysyłający odpady,
+- **2)** odbiorcę odpadów – jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi odbiorca odpadów w drodze decyzji, do zastosowania procedur określonych w art. 24 rozporządzenia nr 1013/2006 i określa sposób zagospodarowania odpadów oraz wskazuje termin realizacji obowiązków nałożonych tą decyzją nie dłuższy niż 30 dni.
 
-2. O wszczęciu postępowania i wydaniu decyzji, o której mowa w ust. 1, Główny Inspektor Ochrony Środowiska powiadamia, odpowiednio właściwe organy państwa przeznaczenia, tranzytu lub wywozu oraz ministra właściwego do spraw finansów publicznych, Komendanta Głównego Straży Granicznej, Komendanta Głównego Policji oraz odpowiednio Głównego Inspektora Transportu Drogowego, Prezesa Urzędu Transportu Kolejowego, a także wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia procesu odzysku lub unieszkodliwiania lub siedziby zgłaszającego lub odbiorcy odpadów sprowadzonych nielegalnie.
-
-**Art. 25a.**
-
-- **8)** W przypadku gdy przedmiotem przemieszczania są odpady w postaci uszkodzonego pojazdu, znajdujące się na terenie kraju, nie stosuje się przepisów art. 25, jeżeli taki pojazd został naprawiony, a naprawa została potwierdzona pozytywnym wynikiem dodatkowego badania technicznego, o którym mowa w art. 81 ust. 11 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ).
-
-**Art. 26.** (uchylony)
+2. O wszczęciu postępowania i wydaniu decyzji, o której mowa w ust. 1, Główny Inspektor Ochrony Środowiska powiadamia, odpowiednio właściwe organy państwa przeznaczenia, tranzytu lub wywozu oraz ministra właściwego do spraw finansów publicznych, Komendanta Głównego Straży Granicznej, Komendanta Głównego Policji oraz odpowiednio Głównego Inspektora Transportu Drogowego, Prezesa Urzędu Transportu Kolejowego, a także wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia procesu odzysku lub unieszkodliwiania lub siedziby zgłaszającego lub odbiorcy odpadów sprowadzonych nielegalnie. W przypadku gdy przedmiotem przemieszczania są odpady w postaci uszkodzonego pojazdu, znajdujące się na terenie kraju, nie stosuje się przepisów art. 25, jeżeli taki pojazd został naprawiony, a naprawa została potwierdzona pozytywnym wynikiem dodatkowego badania technicznego, o którym mowa w art. 81 ust. 11 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.). (uchylony)
 
 **Art. 27.**
 
@@ -331,11 +327,11 @@ o międzynarodowym przemieszczaniu odpadów
 
 **Art. 31.**
 
-1. Kto wbrew obowiązkowi nie wykonuje decyzji nakazującej odesłanie odpadów, przywiezionych na teren kraju, do kraju wysyłki lub określającej sposób zagospodarowania tych odpadów na terytorium kraju podlega karze aresztu albo grzywny.
+1. Kto wbrew obowiązkowi nie wykonuje decyzji nakazującej odesłanie odpadów, przywiezionych na teren kraju, do kraju wysyłki lub określającej sposób zagospodarowania tych odpadów na terytorium kraju – podlega karze aresztu albo grzywny.
 
-2. Osoba fizyczna lub jednostka organizacyjna uczestnicząca w międzynarodowym przemieszczaniu odpadów, która wbrew obowiązkowi nie przedkłada uprawnionym organom lub osobom dokumentów lub informacji wymaganych w międzynarodowym przemieszczaniu odpadów podlega karze grzywny.
+2. Osoba fizyczna lub jednostka organizacyjna uczestnicząca w międzynarodowym przemieszczaniu odpadów, która wbrew obowiązkowi nie przedkłada uprawnionym organom lub osobom dokumentów lub informacji wymaganych w międzynarodowym przemieszczaniu odpadów – podlega karze grzywny.
 
-3. Orzekanie w sprawach, o których mowa w ust. 1 i 2, następuje na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
+3. Orzekanie w sprawach, o których mowa w ust. 1 i 2, następuje na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
 #### Rozdział 9 Kary pieniężne
 

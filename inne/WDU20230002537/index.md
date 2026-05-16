@@ -1,0 +1,885 @@
+---
+title: Obwieszczenie Ministra Edukacji i Nauki z dnia 7 listopada 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego
+address: WDU20230002537
+eli: DU/2023/2537
+publisher: DU
+year: 2023
+pos: 2537
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 7 listopada 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2537 |
+| ISAP | WDU20230002537 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-11-07 |
+| Data wydania | 2023-11-23 |
+| Ostatnia zmiana | 2025-02-03 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2537/text.pdf) |
+
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 21 grudnia 2016 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego Rozdział 1 – Przepisy ogólne Rozdział 2 Rozdział 3 – Egzamin maturalny Rozdział 4 – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 21 grudnia 2016 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 2223), z uwzględnieniem zmian wprowadzonych:
+1)
+rozporządzeniem Ministra Edukacji Narodowej z dnia 8 listopada 2017 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 2112);
+2)
+rozporządzeniem Ministra Edukacji Narodowej z dnia 2 kwietnia 2019 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 626);
+3)
+rozporządzeniem Ministra Edukacji i Nauki z dnia 4 sierpnia 2021 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 1427);
+4)
+rozporządzeniem Ministra Edukacji i Nauki z dnia 1 sierpnia 2022 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego (Dz. U. poz. 1625);
+5)
+rozporządzeniem Ministra Edukacji i Nauki z dnia 23 lutego 2023 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego (Dz. U. poz. 365).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1)
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 8 listopada 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 2112), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” ;
+2)
+§ 2 i § 3 rozporządzenia Ministra Edukacji Narodowej z dnia 2 kwietnia 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 626), które stanowią:
+„
+§ 2.
+W roku szkolnym 2018/2019 przewodniczący zespołu egzaminacyjnego, o którym mowa w § 15 ust. 1 i § 40 ust. 1 rozporządzenia zmienianego w § 1, może dokonać zmian odpowiednio w składzie zespołu egzaminacyjnego, zespołu nadzorującego przebieg egzaminu gimnazjalnego w poszczególnych salach egzaminacyjnych i zespołu nadzorującego przebieg części pisemnej egzaminu maturalnego w poszczególnych salach egzaminacyjnych, powołanych przed dniem wejścia w życie niniejszego rozporządzenia, z zastosowaniem przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” ;
+3)
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 4 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 1427), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 9 sierpnia 2021 r.
+” ;
+4)
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 1 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego (Dz. U. poz. 1625), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” ;
+5)
+§ 2 i § 3 rozporządzenia Ministra Edukacji i Nauki z dnia 23 lutego 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego (Dz. U. poz. 365), które stanowią:
+„
+§ 2.
+Egzamin maturalny z języka ukraińskiego jest przeprowadzany, począwszy od roku szkolnego 2025/2026.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 1 września 2023 r.
+” .
+1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 21 grudnia 2016 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego
+Na podstawie art. 44zzza ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowe warunki i sposób przeprowadzania egzaminu maturalnego dla absolwentów posiadających wykształcenie średnie lub wykształcenie średnie branżowe.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+ustawie – należy przez to rozumieć ustawę z dnia 7 września 1991 r. o systemie oświaty;
+2)
+uczniu – należy przez to rozumieć ucznia szkoły dla dzieci i młodzieży oraz słuchacza szkoły dla dorosłych.
+§ 3.
+Dyrektor szkoły, w której po raz pierwszy ma być przeprowadzony egzamin maturalny, jest obowiązany nie później niż do dnia 31 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym ma być przeprowadzony egzamin maturalny, zgłosić szkołę okręgowej komisji egzaminacyjnej. Dyrektor szkoły podaje w zgłoszeniu numer szkoły w Rejestrze Szkół i Placówek Oświatowych, o którym mowa w art. 7 ust. 1 pkt 29 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2022 r. poz. 2597 oraz z 2023 r. poz. 185, 1234, 1672, 1718 i 2005).
+§ 4.
+Opinia rady pedagogicznej, o której mowa w art. 44zzr ust. 6 i 7 ustawy, jest wydawana na wniosek:
+1)
+nauczyciela lub specjalisty wykonującego w szkole zadania z zakresu pomocy psychologiczno-pedagogicznej, prowadzących zajęcia z uczniem w szkole, po uzyskaniu zgody rodziców albo pełnoletniego ucznia, lub
+2)
+rodziców albo pełnoletniego ucznia.
+§ 5.
+1.
+W przypadku wprowadzenia zmian w zakresie przeprowadzania egzaminu maturalnego opracowuje się i ogłasza nowe informatory, o których mowa w art. 9a ust. 2 pkt 3 ustawy, nie później niż do dnia 1 września roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin maturalny.
+2.
+Jeżeli nie wprowadzono zmian w zakresie przeprowadzania egzaminu maturalnego, obowiązują dotychczas ogłoszone informatory, o których mowa w art. 9a ust. 2 pkt 3 ustawy.
+§ 6.
+Komunikat w sprawie:
+1)
+harmonogramu przeprowadzania egzaminu maturalnego, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy,
+2)
+materiałów i przyborów pomocniczych, z których można korzystać na egzaminie maturalnym, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy,
+3)
+listy systemów operacyjnych, programów użytkowych oraz języków programowania, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy,
+4)
+szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu maturalnego, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy
+jest ogłaszany nie później niż do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin maturalny.
+§ 7.
+Informacja o sposobie organizacji i przeprowadzania egzaminu maturalnego, o której mowa w art. 9a ust. 2 pkt 10 lit. b ustawy, jest ogłaszana nie później niż do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin maturalny.
+§ 8.
+1.
+Obserwatorami egzaminu maturalnego mogą być:
+1)
+delegowani pracownicy urzędu obsługującego ministra właściwego do spraw oświaty i wychowania;
+2)
+delegowani przedstawiciele Centralnej Komisji Egzaminacyjnej i okręgowych komisji egzaminacyjnych;
+3)
+delegowani przedstawiciele organu sprawującego nadzór pedagogiczny, organu prowadzącego szkołę, uczelni, placówki doskonalenia nauczycieli i poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, posiadający upoważnienie dyrektora okręgowej komisji egzaminacyjnej.
+2.
+Osoby, o których mowa w ust. 1, nie uczestniczą w przeprowadzaniu egzaminu maturalnego.
+(uchylony)
+§ 30.
+Egzamin maturalny jest przeprowadzany z następujących przedmiotów dodatkowych:
+1)
+w części ustnej z:
+a)
+języka mniejszości etnicznej,
+b)
+języka mniejszości narodowej,
+c)
+języka obcego nowożytnego,
+d)
+języka regionalnego;
+2)
+w części pisemnej z:
+a)
+biologii,
+b)
+chemii,
+c)
+filozofii,
+d)
+fizyki,
+e)
+geografii,
+f)
+historii,
+g)
+historii muzyki,
+h)
+historii sztuki,
+i)
+informatyki,
+j)
+języka łacińskiego i kultury antycznej,
+k)
+języka mniejszości etnicznej,
+l)
+języka mniejszości narodowej,
+m)
+języka obcego nowożytnego,
+n)
+języka polskiego,
+o)
+języka regionalnego,
+p)
+matematyki,
+q)
+wiedzy o społeczeństwie.
+§ 31.
+Do egzaminu maturalnego z języka obcego nowożytnego absolwent może przystąpić z następujących języków: angielskiego, francuskiego, hiszpańskiego, niemieckiego, rosyjskiego, ukraińskiego i włoskiego.
+§ 32.
+1.
+Deklaracja przystąpienia do egzaminu maturalnego, o której mowa w art. 44zzi ustawy, zwana dalej „deklaracją”, zawiera:
+1)
+imię (imiona) i nazwisko zdającego, numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, datę urodzenia, płeć oraz dane kontaktowe: adres korespondencyjny oraz – jeżeli posiada – adres poczty elektronicznej lub numer telefonu;
+2)
+informacje dotyczące:
+a)
+przedmiotów zdawanych na egzaminie maturalnym, w tym języka lub języków, z określeniem przedmiotów zdawanych jako obowiązkowe i dodatkowe,
+b)
+poziomu egzaminu maturalnego z języka obcego nowożytnego jako przedmiotu dodatkowego,
+c)
+systemu operacyjnego, programów użytkowych oraz języka programowania spośród wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy – w przypadku egzaminu maturalnego z informatyki,
+d)
+języka, w którym ma być zdawany egzamin maturalny w części pisemnej z danego przedmiotu lub przedmiotów – w przypadku, o którym mowa w art. 44zzf ust. 1 ustawy,
+e)
+przystąpienia do rozwiązywania dodatkowych zadań egzaminacyjnych – w przypadku, o którym mowa w art. 44zzf ust. 2 i 3 ustawy;
+3)
+informację o spełnianiu warunku, o którym mowa w art. 44zzd ust. 4b ustawy;
+4)
+informację o posiadaniu wykształcenia średniego lub średniego branżowego – w przypadku absolwentów i osób, o których mowa odpowiednio w § 33 ust. 4, 5 i 7;
+5)
+informację o posiadaniu orzeczenia o potrzebie kształcenia specjalnego, o którym mowa w art. 44zzr ust. 1 ustawy – jeżeli zdający zamierza przystąpić do egzaminu maturalnego w warunkach lub formie dostosowanych do rodzaju niepełnosprawności – w przypadku absolwentów i osób, o których mowa odpowiednio w § 33 ust. 4–7.
+1a.
+W przypadkach, o których mowa w ust. 1 pkt 3–5, do deklaracji zdający dołącza odpowiednio:
+1)
+dokument lub dokumenty, o których mowa w art. 44zzd ust. 4b ustawy;
+2)
+dokument potwierdzający posiadanie wykształcenia średniego lub średniego branżowego, z tym że absolwent, który posiada świadectwo dojrzałości uzyskane po zdaniu egzaminu dojrzałości przeprowadzanego dla absolwentów ponadpodstawowych szkół średnich, dołącza świadectwo dojrzałości;
+3)
+orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 44zzr ust. 1 ustawy.
+2.
+Deklaracja zawiera także oświadczenie zdającego o wyrażeniu albo niewyrażeniu zgody na przetwarzanie danych osobowych, o której mowa w art. 6 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35), w celu udostępnienia przez administratora bazy danych systemu informacji oświatowej wyników egzaminu maturalnego uzyskanych przez zdającego uczelni, o przyjęcie do której ubiega się zdający.
+3.
+Deklaracja w postaci elektronicznej zawiera także oświadczenie zdającego o zgodności odwzorowanych cyfrowo sporządzonych w postaci papierowej dokumentów, o których mowa w ust. 1a i § 37 ust. 1 i 3, z oryginałem, które zdający dołączył do tej deklaracji.
+§ 33.
+1.
+Uczeń, który zamierza przystąpić do egzaminu maturalnego bezpośrednio po ukończeniu szkoły, składa deklarację dyrektorowi szkoły, do której uczęszcza, a absolwent, który ukończył szkołę we wcześniejszych latach – dyrektorowi szkoły, którą ukończył.
+2.
+Uczeń lub absolwent składa wstępną deklarację nie później niż do dnia 30 września, a ostateczną deklarację nie później niż do dnia 7 lutego roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego, z zastrzeżeniem § 34 ust. 2. Absolwent, który ukończył szkołę we wcześniejszych latach, może nie składać wstępnej deklaracji.
+3.
+Jeżeli uczeń lub absolwent złożył wstępną deklarację, a nie złożył ostatecznej deklaracji w terminie, o którym mowa w ust. 2, z dniem 8 lutego roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego, wstępna deklaracja staje się ostateczną deklaracją.
+4.
+W przypadku likwidacji lub przekształcenia szkoły absolwent składa deklarację dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania absolwenta, nie później niż do dnia 7 lutego roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego.
+5.
+Osoba, która uzyskała świadectwo ukończenia liceum ogólnokształcącego na podstawie egzaminów eksternistycznych, składa deklarację dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania tej osoby, nie później niż do dnia 7 lutego roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego.
+6.
+Osoba dopuszczona do egzaminów eksternistycznych, która zamierza w danym roku szkolnym przystąpić do wszystkich egzaminów wymaganych do uzyskania świadectwa ukończenia liceum ogólnokształcącego oraz do egzaminu maturalnego, składa deklarację dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania tej osoby, nie później niż do dnia 7 lutego roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego. Świadectwo ukończenia liceum ogólnokształcącego osoba ta przedkłada dyrektorowi szkoły, w której przystąpi do egzaminu maturalnego, niezwłocznie po otrzymaniu tego świadectwa.
+7.
+Osoba:
+1)
+(uchylony),
+2)
+która posiada świadectwo lub inny dokument wydane za granicą i uznane w Rzeczypospolitej Polskiej za dokument potwierdzający wykształcenie średnie lub średnie branżowe, o których mowa w art. 93 ust. 2 i 3 ustawy,
+3)
+której wykształcenie średnie lub średnie branżowe zostało potwierdzone zgodnie z art. 93a ustawy,
+4)
+która posiada świadectwo szkolne uzyskane za granicą, uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, o której mowa w art. 93 ust. 2 ustawy, w brzmieniu obowiązującym przed dniem 31 marca 2015 r.
+składa deklarację dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania tej osoby, a jeżeli posiada ona miejsce zamieszkania za granicą – dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na ostatnie miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, nie później niż do dnia 7 lutego roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego.
+8.
+Dyrektor okręgowej komisji egzaminacyjnej informuje absolwenta i osobę, o których mowa w ust. 4–7, o miejscu przystąpienia do egzaminu maturalnego, nie później niż do dnia 31 marca roku szkolnego, w którym absolwent lub osoba, o których mowa w ust. 4–7, zamierza przystąpić do egzaminu maturalnego.
+§ 33a.
+1.
+Deklaracja może mieć postać papierową lub elektroniczną.
+2.
+W danym roku szkolnym uczeń, absolwent lub osoba, o których mowa w § 33 ust. 1 i 4–7, składają deklarację tylko w jednej postaci – papierowej albo elektronicznej.
+3.
+Deklaracja w postaci elektronicznej jest składana za pośrednictwem elektronicznego systemu wspomagającego przeprowadzanie egzaminu maturalnego, o którym mowa w art. 44zzra ustawy, zwanego dalej „elektronicznym systemem wspomagającym przeprowadzanie egzaminu maturalnego”.
+4.
+Złożenie deklaracji w postaci elektronicznej jest możliwe po uwierzytelnieniu ucznia, absolwenta lub osoby, o których mowa w § 33 ust. 1 i 4–7, w elektronicznym systemie wspomagającym przeprowadzanie egzaminu maturalnego przy użyciu:
+1)
+identyfikatora (loginu) i hasła dostępu udostępnionych odpowiednio przez dyrektora szkoły albo dyrektora okręgowej komisji egzaminacyjnej;
+2)
+środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797 oraz z 2023 r. poz. 1234).
+5.
+Dyrektor Centralnej Komisji Egzaminacyjnej i dyrektorzy okręgowych komisji egzaminacyjnych podają do publicznej wiadomości w Biuletynie Informacji Publicznej, odpowiednio na stronie Centralnej Komisji Egzaminacyjnej i stronach okręgowych komisji egzaminacyjnych, adres strony internetowej z dostępem do elektronicznego systemu wspomagającego przeprowadzanie egzaminu maturalnego.
+6.
+Dyrektor szkoły przekazuje uczniom ostatniej klasy szkoły, której ukończenie umożliwia przystąpienie do egzaminu maturalnego, identyfikator (login) i hasło dostępu do elektronicznego systemu wspomagającego przeprowadzanie egzaminu maturalnego nie później niż do dnia 25 września roku szkolnego, w którym ma być przeprowadzony egzamin maturalny.
+7.
+Absolwent, o którym mowa w § 33 ust. 1, zamierzający złożyć deklarację wstępną w postaci elektronicznej składa do dyrektora szkoły, którą ukończył, wniosek o nadanie identyfikatora (loginu) i hasła dostępu, nie później niż do dnia 20 września roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego.
+8.
+Absolwent, o którym mowa w § 33 ust. 1, który nie złożył deklaracji wstępnej i zamierza złożyć deklarację w postaci elektronicznej, składa do dyrektora szkoły, którą ukończył, wniosek o nadanie identyfikatora (loginu) i hasła dostępu, nie później niż do dnia 15 stycznia roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego.
+9.
+Absolwent i osoba, o których mowa w § 33 ust. 4–7, zamierzający złożyć deklarację w postaci elektronicznej składają do dyrektora okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania absolwenta lub osoby, a jeżeli posiada ona miejsce zamieszkania za granicą – do dyrektora okręgowej komisji egzaminacyjnej właściwej ze względu na ostatnie miejsce zamieszkania tej osoby na terytorium Rzeczypospolitej Polskiej, wniosek o nadanie identyfikatora (loginu) i hasła dostępu, nie później niż do dnia 15 stycznia roku szkolnego, w którym zamierzają przystąpić do egzaminu maturalnego.
+10.
+Wniosek, o którym mowa w ust. 7–9, zawiera:
+1)
+imię (imiona) i nazwisko absolwenta lub osoby, o których mowa w§ 33 ust. 1 i 4–7;
+2)
+numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz datę urodzenia;
+3)
+wskazanie adresu korespondencyjnego albo – jeżeli posiada – adresu poczty elektronicznej, na który ma zostać przekazany identyfikator (login) i hasło dostępu – w przypadku absolwenta i osoby, o których mowa § 33 ust. 1, 5 i 6;
+4)
+nazwę i adres szkoły, którą absolwent lub osoba, o których mowa w § 33 ust. 4–7, ukończyli.
+11.
+Odpowiednio dyrektor szkoły albo dyrektor okręgowej komisji egzaminacyjnej przekazuje absolwentowi lub osobie, o których mowa w § 33 ust. 1, 5 i 6, identyfikator (login) i hasło dostępu w terminie siedmiu dni roboczych od dnia otrzymania wniosku, o którym mowa w ust. 7–9.
+12.
+Absolwent i osoba, o których mowa w § 33 ust. 4 i 7, odbierają identyfikator (login) i hasło dostępu w siedzibie właściwej okręgowej komisji egzaminacyjnej za okazaniem dokumentu tożsamości.
+13.
+Dokumenty, o których mowa w § 32 ust. 1a lub § 37 ust. 1 i 3, dołącza się do deklaracji składanej w postaci elektronicznej jako odwzorowanie cyfrowe tych dokumentów sporządzonych w postaci papierowej.
+§ 34.
+1.
+Absolwent przystępuje do egzaminu maturalnego w szkole, którą ukończył, z zastrzeżeniem § 36 ust. 1 i 2.
+2.
+W uzasadnionych przypadkach absolwent może przystąpić do egzaminu maturalnego w innej szkole niż szkoła, którą ukończył, wskazanej przez dyrektora okręgowej komisji egzaminacyjnej, na jego wniosek. Wniosek wraz z uzasadnieniem oraz deklarację absolwent składa do dyrektora szkoły, którą ukończył, nie później niż do dnia 7 lutego roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego.
+3.
+Dyrektor szkoły niezwłocznie przekazuje wniosek, o którym mowa w ust. 2, dyrektorowi okręgowej komisji egzaminacyjnej.
+4.
+Dyrektor okręgowej komisji egzaminacyjnej informuje absolwenta oraz dyrektora szkoły, którą absolwent ukończył, o sposobie rozpatrzenia wniosku nie później niż do dnia 31 marca roku szkolnego, w którym absolwent zamierza przystąpić do egzaminu maturalnego.
+5.
+Absolwent lub osoba, o których mowa w § 33 ust. 4–7, przystępuje do egzaminu maturalnego w szkole wskazanej przez dyrektora okręgowej komisji egzaminacyjnej.
+§ 35.
+1.
+W szczególnych przypadkach wynikających ze stanu zdrowia lub niepełnosprawności ucznia, absolwenta albo osoby, o której mowa w § 33 ust. 5–7, za zgodą dyrektora okręgowej komisji egzaminacyjnej, egzamin maturalny może być przeprowadzony w innym miejscu niż szkoła.
+2.
+Wniosek o wyrażenie zgody, o której mowa w ust. 1, składa do dyrektora okręgowej komisji egzaminacyjnej:
+1)
+dyrektor szkoły, któremu odpowiednio uczeń lub absolwent złożyli deklarację, w porozumieniu z tym uczniem albo absolwentem, a w przypadku niepełnoletniego ucznia albo absolwenta – z jego rodzicami, nie później niż na 2 miesiące przed terminem egzaminu maturalnego;
+2)
+absolwent lub osoba, o których mowa w § 33 ust. 4–7, wraz z deklaracją.
+3.
+W uzasadnionych przypadkach wniosek, o którym mowa w ust. 2, może być złożony w terminie późniejszym.
+§ 36.
+1.
+Dyrektor okręgowej komisji egzaminacyjnej powierza przewodniczącemu zespołu egzaminacyjnego w danej szkole przeprowadzenie części ustnej lub nadzorowanie przebiegu części pisemnej egzaminu maturalnego także dla:
+1)
+absolwentów innej szkoły lub szkół – w przypadku braku możliwości powołania zespołu przedmiotowego lub zespołu nadzorującego w szkole, którą absolwent ukończył, lub w przypadku przeprowadzenia egzaminu maturalnego w terminie dodatkowym;
+2)
+absolwentów lub osób, o których mowa w § 33 ust. 4–7 i § 34 ust. 2.
+2.
+W uzasadnionych przypadkach dyrektor okręgowej komisji egzaminacyjnej może podjąć decyzję o przeprowadzeniu egzaminu maturalnego lub jego części dla absolwentów danej szkoły lub szkół w miejscu niebędącym siedzibą szkoły.
+3.
+W przypadku, o którym mowa w ust. 2, dyrektor okręgowej komisji egzaminacyjnej powołuje przewodniczącego zespołu egzaminacyjnego oraz członków tego zespołu.
+§ 37.
+1.
+Zaświadczenie o stanie zdrowia, o którym mowa w art. 44zzr ust. 4 ustawy, przedkłada się wraz z deklaracją.
+2.
+Zaświadczenie o stanie zdrowia, o którym mowa w art. 44zzr ust. 4 ustawy, może być przedłożone w terminie późniejszym, niezwłocznie po jego otrzymaniu.
+3.
+Opinię poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, o specyficznych trudnościach w uczeniu się, o której mowa w art. 44zzr ust. 5 ustawy, przedkłada się wraz z deklaracją.
+4.
+W przypadku absolwenta szkoły w zakładzie karnym lub areszcie śledczym opinię o specyficznych trudnościach w uczeniu się, o której mowa w art. 44zzr ust. 5 ustawy, może wydać psycholog zatrudniony odpowiednio w zakładzie karnym lub areszcie śledczym.
+§ 38.
+1.
+Dyrektor szkoły lub upoważniony przez niego nauczyciel informuje na piśmie ucznia lub absolwenta, o którym mowa w art. 44zzr ust. 1–7 ustawy, o wskazanym przez radę pedagogiczną sposobie lub sposobach dostosowania warunków lub formy przeprowadzania egzaminu maturalnego do jego potrzeb edukacyjnych i możliwości psychofizycznych, nie później niż do dnia 10 lutego roku szkolnego, w którym absolwent przystępuje do egzaminu maturalnego, a w przypadku absolwenta i osoby, o których mowa w § 33 ust. 4–7, nie później niż do dnia 31 marca roku szkolnego, w którym ten absolwent lub osoba przystępuje do egzaminu maturalnego.
+2.
+Jeżeli konieczność dostosowania warunków lub formy przeprowadzania egzaminu maturalnego dla absolwenta, o którym mowa w art. 44zzr ust. 1–7 ustawy, wystąpiła po przekazaniu wykazu, o którym mowa w § 39 ust. 1, dyrektor szkoły lub upoważniony przez niego nauczyciel informuje niezwłocznie na piśmie absolwenta o wskazanym przez radę pedagogiczną sposobie lub sposobach dostosowania warunków lub formy przeprowadzania egzaminu maturalnego. Dyrektor szkoły informuje niezwłocznie dyrektora okręgowej komisji egzaminacyjnej o konieczności dostosowania formy przeprowadzania egzaminu maturalnego dla danego absolwenta i przekazuje dane osobowe tego absolwenta, o których mowa w § 32 ust. 1 pkt 1.
+§ 39.
+1.
+Dyrektor szkoły, na podstawie złożonych deklaracji, sporządza wykaz uczniów lub absolwentów przystępujących do egzaminu maturalnego. Wykaz zawiera:
+1)
+informacje zawarte w deklaracjach, o których mowa w § 32 ust. 1;
+2)
+informację o uczniach lub absolwentach, którzy korzystają z dostosowania:
+a)
+formy przeprowadzania egzaminu maturalnego, o którym mowa w art. 44zzr ust. 1 ustawy,
+b)
+warunków przeprowadzania egzaminu maturalnego, o którym mowa w art. 44zzr ust. 1–7 ustawy.
+2.
+Wykaz, o którym mowa w ust. 1, dyrektor szkoły przekazuje dyrektorowi okręgowej komisji egzaminacyjnej w postaci elektronicznej przy użyciu elektronicznego systemu wspomagającego przeprowadzanie egzaminu maturalnego.
+3.
+Wykaz, o którym mowa w ust. 1, jest przekazywany w terminie określonym przez dyrektora okręgowej komisji egzaminacyjnej, jednak nie później niż do dnia 15 lutego roku szkolnego, w którym jest przeprowadzany egzamin maturalny.
+4.
+Dyrektor szkoły, na wniosek dyrektora okręgowej komisji egzaminacyjnej, sporządza, na podstawie wstępnych deklaracji, informację o liczbie uczniów lub absolwentów, którzy złożyli deklarację przystąpienia do egzaminu maturalnego z poszczególnych przedmiotów na poszczególnych poziomach, i przesyła ją dyrektorowi okręgowej komisji egzaminacyjnej w postaci elektronicznej przy użyciu elektronicznego systemu wspomagającego przeprowadzanie egzaminu maturalnego.
+§ 40.
+1.
+Przewodniczący zespołu egzaminacyjnego, nie później niż na 2 miesiące przed terminem egzaminu maturalnego, powołuje członków zespołu egzaminacyjnego oraz może powołać zastępcę przewodniczącego tego zespołu spośród członków zespołu.
+2.
+Przewodniczący zespołu egzaminacyjnego lub jego zastępca są obowiązani odbyć szkolenie w zakresie organizacji egzaminu maturalnego organizowane przez okręgową komisję egzaminacyjną w roku szkolnym, w którym jest przeprowadzany egzamin maturalny, oraz przeprowadzić takie szkolenie dla nauczycieli zatrudnionych w danej szkole wchodzących w skład zespołów nadzorujących.
+§ 41.
+1.
+Przewodniczący zespołu egzaminacyjnego kieruje pracą tego zespołu i zapewnia prawidłowy przebieg egzaminu maturalnego oraz bezpieczeństwo i higienę pracy podczas egzaminu maturalnego, w szczególności nadzoruje:
+1)
+przygotowanie sal egzaminacyjnych;
+2)
+prawidłowe zabezpieczenie dokumentacji dotyczącej przygotowania i przebiegu egzaminu maturalnego.
+2.
+Przewodniczący zespołu egzaminacyjnego, nie później niż na 2 miesiące przed terminem części pisemnej egzaminu maturalnego:
+1)
+powołuje zespoły przedmiotowe do przeprowadzenia części ustnej egzaminu maturalnego z poszczególnych przedmiotów oraz wyznacza przewodniczących tych zespołów;
+2)
+opracowuje i ogłasza szkolny harmonogram przeprowadzania części ustnej egzaminu maturalnego i przekazuje go niezwłocznie dyrektorowi okręgowej komisji egzaminacyjnej.
+3.
+Przewodniczący zespołu egzaminacyjnego, nie później niż na miesiąc przed terminem części pisemnej egzaminu maturalnego, powołuje zespoły nadzorujące przebieg części pisemnej egzaminu maturalnego w poszczególnych salach egzaminacyjnych oraz wyznacza przewodniczących tych zespołów.
+4.
+Jeżeli przewodniczący zespołu przedmiotowego lub członek tego zespołu albo przewodniczący zespołu nadzorującego lub członek tego zespołu z powodu choroby lub innych ważnych przyczyn nie mogą wziąć udziału w egzaminie maturalnym, przewodniczący zespołu egzaminacyjnego powołuje w zastępstwie innego przewodniczącego zespołu przedmiotowego lub członka tego zespołu albo innego przewodniczącego zespołu nadzorującego lub członka tego zespołu.
+§ 42.
+1.
+Przewodniczący zespołu egzaminacyjnego lub upoważniony przez niego członek tego zespołu odbiera przesyłkę zawierającą materiały egzaminacyjne niezbędne do przeprowadzenia egzaminu maturalnego i sprawdza, czy nie została ona naruszona, a następnie sprawdza, czy zawiera ona wszystkie materiały egzaminacyjne niezbędne do przeprowadzenia tego egzaminu.
+2.
+Materiały egzaminacyjne niezbędne do przeprowadzenia części ustnej egzaminu maturalnego mogą zostać przesłane do szkół w postaci elektronicznej. W takim przypadku przewodniczący zespołu egzaminacyjnego lub upoważniony przez niego członek tego zespołu pobiera pliki zawierające materiały egzaminacyjne niezbędne do przeprowadzenia części ustnej egzaminu maturalnego, w terminie określonym i w sposób określony przez dyrektora okręgowej komisji egzaminacyjnej, i sprawdza, czy zostały dostarczone wszystkie materiały egzaminacyjne niezbędne do przeprowadzenia tej części egzaminu.
+3.
+Czynności, o których mowa w ust. 1, są wykonywane w obecności innego członka zespołu egzaminacyjnego.
+3a.
+Czynności, o których mowa w ust. 2, mogą zostać wykonane w obecności innego członka zespołu egzaminacyjnego.
+4.
+Przewodniczący zespołu egzaminacyjnego lub upoważniony przez niego członek tego zespołu przechowuje i zabezpiecza wszystkie materiały egzaminacyjne niezbędne do przeprowadzenia egzaminu maturalnego.
+5.
+W przypadku stwierdzenia:
+1)
+naruszenia przesyłki, o której mowa w ust. 1,
+2)
+nieprawidłowości w materiałach egzaminacyjnych, o których mowa w ust. 2,
+3)
+niekompletności materiałów egzaminacyjnych, o których mowa w ust. 1 i 2
+przewodniczący zespołu egzaminacyjnego lub upoważniony przez niego członek tego zespołu powiadamia o tym niezwłocznie dyrektora okręgowej komisji egzaminacyjnej. Dyrektor okręgowej komisji egzaminacyjnej informuje przewodniczącego zespołu egzaminacyjnego lub upoważnionego przez niego członka tego zespołu o dalszym postępowaniu.
+§ 43.
+1.
+Przewodniczący zespołu przedmiotowego kieruje pracą tego zespołu i zapewnia prawidłowy przebieg części ustnej egzaminu maturalnego z danego przedmiotu.
+2.
+Zadaniem zespołu przedmiotowego jest w szczególności zapewnienie samodzielnej pracy zdających w czasie trwania części ustnej egzaminu maturalnego.
+3.
+W skład zespołu przedmiotowego wchodzi:
+1)
+nauczyciel przedmiotu, z którego jest przeprowadzana część ustna egzaminu maturalnego, wpisany do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy – jako przewodniczący;
+2)
+drugi nauczyciel przedmiotu, z którego jest przeprowadzana część ustna egzaminu maturalnego – jako członek.
+4.
+Co najmniej jeden nauczyciel wchodzący w skład zespołu przedmiotowego jest zatrudniony w innej szkole lub w placówce.
+5.
+W skład zespołu przedmiotowego nie może wchodzić nauczyciel przedmiotu, z którego jest przeprowadzana część ustna egzaminu maturalnego, który w roku szkolnym, w którym jest przeprowadzany egzamin maturalny, prowadził zajęcia edukacyjne ze zdającym z tego przedmiotu, z którego jest przeprowadzana część ustna egzaminu maturalnego.
+6.
+Członkiem zespołu przedmiotowego może być także nauczyciel akademicki posiadający przygotowanie z zakresu przedmiotu, z którego jest przeprowadzana część ustna egzaminu maturalnego.
+7.
+Nauczyciel zatrudniony w innej szkole lub w placówce zostaje powołany w skład zespołu przedmiotowego w porozumieniu z dyrektorem szkoły lub placówki, w której jest zatrudniony.
+§ 44.
+1.
+Zadania egzaminacyjne do części ustnej egzaminu maturalnego z języka polskiego, języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego oraz kryteria oceniania tych zadań i ich punktacji są przekazywane przewodniczącemu zespołu egzaminacyjnego nie później niż na 2 dni przed terminem części ustnej egzaminu maturalnego.
+2.
+Liczba zadań egzaminacyjnych do części ustnej egzaminu maturalnego z języka polskiego wynosi co najmniej 100, niezależnie od liczby absolwentów przystępujących w szkole do tego egzaminu.
+3.
+Zestawy zadań egzaminacyjnych do części ustnej egzaminu maturalnego z danego języka obcego nowożytnego oraz kryteria oceniania tych zadań i ich punktacji są przekazywane przewodniczącemu zespołu egzaminacyjnego nie później niż na 2 dni przed terminem części ustnej egzaminu maturalnego.
+4.
+Jeżeli do części ustnej egzaminu maturalnego z języka obcego nowożytnego, języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego w szkole przystępuje łącznie:
+1)
+nie więcej niż 45 osób – liczba zestawów zadań egzaminacyjnych z języka obcego nowożytnego oraz liczba zadań egzaminacyjnych z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego jest większa o 5 od liczby osób przystępujących do tego egzaminu;
+2)
+więcej niż 45 osób – liczba zestawów zadań egzaminacyjnych z języka obcego nowożytnego oraz liczba zadań egzaminacyjnych z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego wynosi 50.
+§ 45.
+Absolwent może przystąpić do części ustnej egzaminu maturalnego z danego przedmiotu lub przedmiotów w terminie innym niż ustalony w harmonogramie, o którym mowa w § 41 ust. 2 pkt 2, w uzgodnieniu z przewodniczącym zespołu egzaminacyjnego. Termin przystąpienia do części ustnej egzaminu maturalnego z danego przedmiotu lub przedmiotów wyznacza przewodniczący zespołu egzaminacyjnego.
+§ 46.
+1.
+Egzamin maturalny w części ustnej z języka polskiego, języka mniejszości narodowej, mniejszości etnicznej i języka regionalnego sprawdza umiejętność tworzenia wypowiedzi na określony temat, inspirowanej tekstem kultury.
+2.
+Zdający losuje zadanie egzaminacyjne składające się z tekstu kultury oraz odnoszącego się do niego polecenia i ma nie więcej niż 15 minut na przygotowanie odpowiedzi.
+3.
+Egzamin trwa około 15 minut i składa się z dwóch części:
+1)
+wypowiedzi monologowej zdającego dotyczącej wylosowanego zadania; wypowiedź trwa około 10 minut;
+2)
+rozmowy zdającego z zespołem przedmiotowym dotyczącej zagadnienia określonego w poleceniu, tekstu kultury dołączonego do polecenia oraz treści i tekstów kultury przywołanych przez zdającego w wypowiedzi; rozmowa trwa około 5 minut.
+§ 47.
+1.
+Egzamin maturalny w części ustnej z języka obcego nowożytnego, jako przedmiotu obowiązkowego i jako przedmiotu dodatkowego, trwa około 15 minut. Zdający losuje zestaw zadań egzaminacyjnych.
+2.
+Zestaw zadań egzaminacyjnych składa się z 3 zadań sprawdzających umiejętności tworzenia wypowiedzi ustnej, językowego zachowania się adekwatnego do sytuacji komunikacyjnej oraz przetwarzania tekstów i materiałów ikonograficznych.
+3.
+Przewodniczący zespołu przedmiotowego wyznacza osobę egzaminującą danego zdającego.
+4.
+Zdający w czasie trwania egzaminu nie może korzystać z żadnych słowników.
+§ 48.
+1.
+Egzamin maturalny w części ustnej z języka obcego nowożytnego jako przedmiotu dodatkowego na poziomie dwujęzycznym trwa około 15 minut. Zdający losuje zestaw zadań egzaminacyjnych.
+2.
+Zestaw zadań egzaminacyjnych składa się z 2 zadań sprawdzających umiejętności tworzenia dłuższych, wieloaspektowych wypowiedzi ustnych, reagowania językowego w różnorodnych, także złożonych, sytuacjach oraz przetwarzania tekstów i materiałów ikonograficznych.
+3.
+Przewodniczący zespołu przedmiotowego wyznacza osobę egzaminującą danego zdającego.
+4.
+Zdający w czasie trwania egzaminu nie może korzystać z żadnych słowników.
+§ 49.
+1.
+W czasie trwania części ustnej egzaminu maturalnego z języka polskiego, języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego w sali egzaminacyjnej może przebywać jeden zdający i jeden przygotowujący się do egzaminu.
+2.
+W czasie trwania części ustnej egzaminu maturalnego z języka obcego nowożytnego w sali egzaminacyjnej może przebywać tylko jeden zdający.
+3.
+W czasie trwania części ustnej egzaminu maturalnego zdającym nie udziela się żadnych wyjaśnień dotyczących zadań egzaminacyjnych.
+4.
+5.
+Zdający, który jest chory, może korzystać w czasie trwania części ustnej egzaminu maturalnego ze sprzętu medycznego i leków koniecznych ze względu na chorobę.
+§ 50.
+1.
+W czasie trwania części ustnej egzaminu maturalnego w sali egzaminacyjnej mogą przebywać wyłącznie zdający, przewodniczący zespołu egzaminacyjnego, osoby wchodzące w skład zespołu przedmiotowego i obserwatorzy, o których mowa w § 8.
+2.
+W sali egzaminacyjnej mogą przebywać także nauczyciele wspomagający oraz specjaliści z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym w przypadku, o którym mowa w art. 44zzr ust. 10 pkt 6 ustawy.
+3.
+Osoby, o których mowa w ust. 2, nie mogą być jednocześnie członkami zespołu przedmiotowego.
+§ 51.
+Przewodniczący zespołu przedmiotowego informuje zdających o liczbie przyznanych im punktów z części ustnej egzaminu maturalnego z danego przedmiotu w dniu przeprowadzenia tego egzaminu.
+§ 52.
+1.
+W przypadku zagrożenia lub nagłego zakłócenia przebiegu części ustnej egzaminu maturalnego z danego przedmiotu, przewodniczący zespołu egzaminacyjnego zawiesza lub przerywa tę część egzaminu maturalnego z danego przedmiotu i powiadamia o tym dyrektora okręgowej komisji egzaminacyjnej.
+2.
+Dyrektor okręgowej komisji egzaminacyjnej w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej podejmuje decyzję w sprawie dalszego przebiegu części ustnej egzaminu maturalnego z danego przedmiotu.
+§ 53.
+1.
+Przewodniczący zespołu przedmiotowego lub upoważniony przez niego członek tego zespołu sporządza dla każdego zdającego protokół indywidualny części ustnej egzaminu maturalnego z danego przedmiotu. W protokole zamieszcza się następujące informacje:
+1)
+nazwę, adres i indywidualny numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy;
+2)
+imię (imiona) i nazwisko zdającego, numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+3)
+informację o korzystaniu przez zdającego z dostosowania warunków lub formy przeprowadzania części ustnej, o którym mowa w art. 44zzr ust. 1–7 ustawy;
+4)
+numer wylosowanego zadania egzaminacyjnego – w przypadku części ustnej z języka polskiego, języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego;
+5)
+numer wylosowanego zestawu zadań egzaminacyjnych – w przypadku części ustnej z języka obcego nowożytnego;
+6)
+przyznaną liczbę punktów;
+7)
+datę oraz godzinę rozpoczęcia i zakończenia części ustnej;
+8)
+skład zespołu przedmiotowego;
+9)
+imiona i nazwiska obserwatorów obecnych w czasie trwania części ustnej wraz ze wskazaniem podmiotu delegującego;
+10)
+informację o unieważnieniu części ustnej wraz z przyczyną unieważnienia;
+11)
+uwagi o przebiegu części ustnej.
+2.
+Protokół, o którym mowa w ust. 1, podpisują osoby wchodzące w skład zespołu przedmiotowego.
+3.
+Przewodniczący zespołu egzaminacyjnego sporządza protokół zbiorczy części ustnej egzaminu maturalnego. W protokole zbiorczym zamieszcza się następujące informacje:
+1)
+nazwę, adres i indywidualny numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy;
+2)
+liczbę zdających, którzy zadeklarowali zamiar przystąpienia do części ustnej egzaminu maturalnego z poszczególnych przedmiotów;
+2a)
+liczbę zdających, którzy przystąpili do części ustnej egzaminu maturalnego z poszczególnych przedmiotów;
+3)
+liczbę zdających, którzy nie przystąpili do części ustnej egzaminu maturalnego z poszczególnych przedmiotów;
+4)
+liczbę zdających, którzy korzystali z dostosowania warunków lub formy przeprowadzania części ustnej egzaminu maturalnego, o którym mowa w art. 44zzr ust. 1–7 ustawy;
+5)
+liczbę zdających, którym przerwano i unieważniono część ustną egzaminu maturalnego z poszczególnych przedmiotów, oraz ich imiona i nazwiska;
+5a)
+liczbę zdających część ustną egzaminu maturalnego z poszczególnych przedmiotów, którzy posiadają tytuł laureata lub finalisty olimpiady przedmiotowej, o których mowa w art. 44zzh ust. 1 ustawy;
+6)
+imiona i nazwiska obserwatorów obecnych w czasie trwania części ustnej egzaminu maturalnego z poszczególnych przedmiotów wraz ze wskazaniem podmiotu delegującego;
+7)
+uwagi o przebiegu części ustnej egzaminu maturalnego;
+8)
+liczbę załączników, o których mowa w ust. 5.
+4.
+Protokół zbiorczy, o którym mowa w ust. 3, sporządza się w dwóch jednobrzmiących egzemplarzach. Protokół zbiorczy podpisuje przewodniczący zespołu egzaminacyjnego. Jeden egzemplarz protokołu zbiorczego przewodniczący zespołu egzaminacyjnego przesyła okręgowej komisji egzaminacyjnej w terminie określonym i w sposób określony przez dyrektora tej komisji.
+5.
+Do protokołu zbiorczego, o którym mowa w ust. 3, dołącza się:
+1)
+wykazy zdających część ustną egzaminu maturalnego z poszczególnych przedmiotów, zawierające następujące informacje:
+a)
+nazwę, adres i indywidualny numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy,
+b)
+dane zdających, którzy zadeklarowali zamiar przystąpienia do części ustnej egzaminu maturalnego, zgodnie z wykazem, o którym mowa w § 39 ust. 1, obejmujące: imię (imiona) i nazwisko, numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, wraz ze wskazaniem zdających:
+– którzy przystąpili do części ustnej egzaminu maturalnego z danego przedmiotu,
+– którzy nie przystąpili do części ustnej egzaminu maturalnego z danego przedmiotu,
+– którym przerwano i unieważniono część ustną egzaminu maturalnego z danego przedmiotu wraz z przyczyną tego unieważnienia,
+– którzy korzystali z dostosowania warunków lub formy przeprowadzania części ustnej egzaminu maturalnego z danego przedmiotu, o którym mowa w art. 44zzr ust. 1–7 ustawy,
+– którzy posiadają tytuł laureata lub finalisty olimpiady przedmiotowej, o których mowa w art. 44zzh ust. 1 ustawy,
+c)
+liczbę punktów przyznanych poszczególnym zdającym w części ustnej egzaminu maturalnego z danego przedmiotu;
+2)
+kopie zaświadczeń stwierdzających uzyskanie tytułu laureata lub finalisty olimpiady przedmiotowej, o których mowa w art. 44zzh ust. 1 ustawy.
+§ 54.
+1.
+Przewodniczący zespołu nadzorującego kieruje pracą tego zespołu i zapewnia prawidłowy przebieg części pisemnej egzaminu maturalnego w danej sali egzaminacyjnej.
+2.
+Zadaniem zespołu nadzorującego jest w szczególności zapewnienie samodzielnej pracy zdających w czasie trwania części pisemnej egzaminu maturalnego.
+3.
+W skład zespołu nadzorującego wchodzi co najmniej 3 nauczycieli, z tym że co najmniej jeden nauczyciel jest zatrudniony w:
+1)
+szkole, w której jest przeprowadzany egzamin maturalny; nauczyciel ten pełni funkcję przewodniczącego zespołu;
+2)
+innej szkole lub w placówce.
+3a.
+W przypadku braku możliwości powołania w skład zespołu nadzorującego nauczyciela zatrudnionego w szkole, w której jest przeprowadzany egzamin maturalny, albo nauczyciela zatrudnionego w innej szkole lub w placówce, w skład zespołu nadzorującego mogą wchodzić:
+1)
+inni nauczyciele, w tym osoby posiadające kwalifikacje wymagane do zajmowania stanowiska nauczyciela niezatrudnione w szkole lub placówce;
+2)
+przedstawiciele organu sprawującego nadzór pedagogiczny, organu prowadzącego, placówki doskonalenia nauczycieli lub poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, nieposiadający kwalifikacji wymaganych do zajmowania stanowiska nauczyciela.
+3b.
+Dla osób, o których mowa w ust. 3a, przewodniczący zespołu egzaminacyjnego przeprowadza szkolenie w zakresie organizacji egzaminu maturalnego.
+3c.
+W przypadku powołania w skład zespołu nadzorującego osób, o których mowa w ust. 3a, przewodniczącym zespołu nadzorującego może być wyłącznie nauczyciel zatrudniony w szkole, w której jest przeprowadzany egzamin maturalny, lub nauczyciel zatrudniony w innej szkole lub w placówce, który uczestniczył w przeprowadzaniu egzaminu maturalnego.
+4.
+Jeżeli w sali egzaminacyjnej jest nie więcej niż 5 zdających, w skład zespołu nadzorującego wchodzą co najmniej 2 osoby.
+5.
+Jeżeli w sali egzaminacyjnej jest więcej niż 30 zdających, liczbę członków zespołu nadzorującego zwiększa się o jedną osobę na każdych kolejnych 25 zdających.
+6.
+Nauczyciel zatrudniony w innej szkole lub w placówce zostaje powołany w skład zespołu nadzorującego w porozumieniu z dyrektorem szkoły lub placówki, w której jest zatrudniony.
+6a.
+Powołanie w skład zespołu nadzorującego osoby, o której mowa w ust. 3a, następuje za jej zgodą.
+7.
+W skład zespołu nadzorującego zamiast jednej z osób, o których mowa w ust. 3 lub 3a, z wyłączeniem przewodniczącego zespołu nadzorującego, może wchodzić nauczyciel wspomagający lub specjalista z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, w przypadku, o którym mowa w art. 44zzr ust. 10 pkt 6 ustawy.
+8.
+W skład zespołu nadzorującego nie może wchodzić nauczyciel przedmiotu, z którego jest przeprowadzana część pisemna egzaminu maturalnego, oraz wychowawca zdających.
+9.
+Jeżeli do części pisemnej egzaminu maturalnego z danego języka obcego nowożytnego, języka mniejszości narodowej, języka mniejszości etnicznej lub języka regionalnego przystępuje absolwent, który korzysta z dostosowania warunków przeprowadzania egzaminu maturalnego polegającego na obecności i pomocy nauczyciela wspomagającego, o którym mowa w art. 44zzr ust. 10 pkt 6 ustawy, w skład zespołu nadzorującego zamiast jednej z osób, o których mowa w ust. 3 lub 3a, z wyłączeniem przewodniczącego zespołu nadzorującego, może wchodzić nauczyciel danego języka będący nauczycielem wspomagającym.
+§ 55.
+1.
+Przed rozpoczęciem części pisemnej egzaminu maturalnego z danego przedmiotu przewodniczący zespołu egzaminacyjnego lub upoważniony przez niego członek tego zespołu sprawdza, czy materiały egzaminacyjne niezbędne do przeprowadzenia części pisemnej egzaminu maturalnego z tego przedmiotu nie zostały naruszone.
+2.
+W przypadku stwierdzenia, że materiały egzaminacyjne, o których mowa w ust. 1, zostały naruszone, przewodniczący zespołu egzaminacyjnego lub upoważniony przez niego członek tego zespołu zawiesza część pisemną egzaminu maturalnego z danego przedmiotu i powiadamia o tym dyrektora okręgowej komisji egzaminacyjnej. Dyrektor okręgowej komisji egzaminacyjnej informuje przewodniczącego zespołu egzaminacyjnego lub upoważnionego przez niego członka tego zespołu o dalszym postępowaniu. Informację o zawieszeniu części pisemnej egzaminu maturalnego z danego przedmiotu oraz podjętych działaniach zamieszcza się w protokole zbiorczym, o którym mowa w § 70 ust. 3.
+3.
+W przypadku stwierdzenia, że materiały egzaminacyjne, o których mowa w ust. 1, nie zostały naruszone, przewodniczący zespołu egzaminacyjnego lub upoważniony przez niego członek tego zespołu otwiera je w obecności przewodniczących zespołów nadzorujących oraz przedstawiciela zdających, a następnie przekazuje przewodniczącym zespołów nadzorujących arkusze egzaminacyjne w liczbie odpowiadającej liczbie zdających w poszczególnych salach egzaminacyjnych oraz inne materiały egzaminacyjne niezbędne do przeprowadzenia egzaminu maturalnego na danym poziomie lub do danej części egzaminu maturalnego z informatyki, o której mowa w § 64 ust. 2.
+4.
+O godzinie wyznaczonej przez przewodniczącego zespołu egzaminacyjnego zdający wchodzą do sali egzaminacyjnej pojedynczo, okazując dokument ze zdjęciem potwierdzający tożsamość, a następnie losują numery stolików. Przewodniczący zespołu nadzorującego może odstąpić od losowania numerów stolików w przypadku zdających korzystających z dostosowania warunków lub formy przeprowadzania egzaminu maturalnego, o którym mowa w art. 44zzr ust. 1–7 ustawy.
+5.
+Członkowie zespołu nadzorującego rozdają zdającym arkusze egzaminacyjne, polecając sprawdzenie, czy są one kompletne i zawierają zeszyty zadań egzaminacyjnych, karty odpowiedzi lub karty rozwiązań zadań egzaminacyjnych.
+6.
+Zdający zgłasza przewodniczącemu zespołu nadzorującego braki w arkuszu egzaminacyjnym i otrzymuje nowy arkusz egzaminacyjny.
+7.
+Informację o wymianie arkusza egzaminacyjnego przewodniczący zespołu nadzorującego zamieszcza w protokołach, o których mowa w § 70 ust. 1 pkt 2 i ust. 3. Wymianę arkusza egzaminacyjnego zdający potwierdza podpisem w protokole, o którym mowa w § 70 ust. 1 pkt 2.
+8.
+Przed rozpoczęciem części pisemnej egzaminu maturalnego, w wyznaczonych miejscach arkusza egzaminacyjnego zamieszcza się kod zdającego i numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, oraz naklejki przygotowane przez okręgową komisję egzaminacyjną. Zdający nie podpisuje arkusza egzaminacyjnego.
+9.
+Przed rozpoczęciem części pisemnej egzaminu maturalnego członkowie zespołu nadzorującego sprawdzają w obecności zdających poprawność zamieszczenia danych oraz naklejek, o których mowa w ust. 8, w arkuszu egzaminacyjnym.
+§ 56.
+1.
+2.
+W czasie trwania części pisemnej egzaminu maturalnego:
+1)
+stoliki, przy których pracują zdający, są ustawione w jednym kierunku;
+2)
+na stolikach mogą się znajdować tylko arkusze egzaminacyjne oraz materiały i przybory pomocnicze wymienione w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy.
+3.
+W czasie trwania części pisemnej egzaminu maturalnego zdający nie powinni opuszczać sali egzaminacyjnej. W uzasadnionych przypadkach przewodniczący zespołu nadzorującego może zezwolić zdającemu na opuszczenie sali egzaminacyjnej po zapewnieniu warunków wykluczających możliwość kontaktowania się zdającego z innymi osobami, z wyjątkiem osób udzielających pomocy medycznej.
+4.
+W czasie trwania części pisemnej egzaminu maturalnego zdającym nie udziela się żadnych wyjaśnień dotyczących zadań egzaminacyjnych ani ich nie komentuje.
+5.
+Zdający, który jest chory, może korzystać w czasie trwania części pisemnej egzaminu maturalnego ze sprzętu medycznego i leków koniecznych ze względu na chorobę.
+§ 57.
+1.
+Egzamin maturalny w części pisemnej z języka polskiego jako:
+1)
+przedmiotu obowiązkowego trwa 170 minut;
+2)
+przedmiotu dodatkowego trwa 180 minut.
+2.
+W czasie trwania egzaminu zdający może korzystać ze słownika ortograficznego i słownika poprawnej polszczyzny wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy.
+§ 58.
+1.
+Egzamin maturalny w części pisemnej z języka mniejszości narodowej jako:
+1)
+przedmiotu obowiązkowego trwa 170 minut;
+2)
+przedmiotu dodatkowego trwa 180 minut.
+2.
+W czasie trwania egzaminu zdający może korzystać ze słowników językowych wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy.
+§ 59.
+1.
+Egzamin maturalny w części pisemnej z języka obcego nowożytnego jako:
+1)
+przedmiotu obowiązkowego trwa 120 minut;
+2)
+przedmiotu dodatkowego na poziomie rozszerzonym trwa 150 minut;
+3)
+przedmiotu dodatkowego na poziomie dwujęzycznym trwa 180 minut.
+2.
+Do sprawdzenia umiejętności rozumienia ze słuchu są wykorzystywane teksty nagrane przez rodzimych użytkowników danego języka.
+3.
+W czasie trwania egzaminu zdający nie może korzystać z żadnych słowników.
+§ 60.
+1.
+Egzamin maturalny w części pisemnej z matematyki jako:
+1)
+przedmiotu obowiązkowego trwa 170 minut;
+2)
+przedmiotu dodatkowego trwa 180 minut.
+2.
+Na rozwiązanie dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 ustawy, zdający ma 80 minut.
+§ 61.
+1.
+Egzamin maturalny w części pisemnej z biologii, chemii, fizyki, geografii, historii oraz wiedzy o społeczeństwie trwa 180 minut.
+2.
+Na rozwiązanie dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 3 ustawy, zdający ma 80 minut.
+§ 62.
+1.
+Egzamin maturalny w części pisemnej z filozofii, historii muzyki, historii sztuki oraz języka łacińskiego i kultury antycznej trwa 180 minut.
+2.
+W czasie trwania egzaminu z języka łacińskiego i kultury antycznej zdający może korzystać ze słownika łacińsko-polskiego oraz atlasu historycznego wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy.
+§ 63.
+1.
+Egzamin maturalny w części pisemnej z języka mniejszości etnicznej i języka regionalnego trwa 180 minut.
+2.
+W czasie trwania egzaminu zdający może korzystać ze słownika językowego właściwego dla zdawanego języka mniejszości etnicznej lub języka regionalnego wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy.
+§ 64.
+1.
+Egzamin maturalny w części pisemnej z informatyki trwa 210 minut.
+2.
+Egzamin maturalny w części pisemnej z informatyki składa się z dwóch części:
+1)
+w części pierwszej zdający rozwiązuje zadania egzaminacyjne bez korzystania z komputera;
+2)
+w części drugiej zdający rozwiązuje zadania egzaminacyjne z wykorzystaniem komputera.
+3.
+W czasie trwania części drugiej, o której mowa w ust. 2 pkt 2, zdający pracuje przy wydzielonym stanowisku komputerowym i może korzystać z programów oraz danych zapisanych na dysku twardym lub innym informatycznym nośniku danych, stanowiących wyposażenie stanowiska. Niedozwolony jest dostęp do sieci oraz zasobów Internetu.
+4.
+System informatyczny wykorzystywany na egzaminie jest przygotowany w sposób uniemożliwiający połączenie z informatyczną siecią lokalną oraz sieciami teleinformatycznymi.
+5.
+W sali egzaminacyjnej jest dostępna podstawowa dokumentacja oprogramowania.
+6.
+Rozwiązanie zadania lub zadań, o których mowa w ust. 2 pkt 2, może być zapisane na informatycznym nośniku danych wskazanym w informacji o sposobie organizacji i przeprowadzania egzaminu maturalnego, o której mowa w art. 9a ust. 2 pkt 10 lit. b ustawy.
+§ 65.
+1.
+W czasie trwania części pisemnej egzaminu maturalnego w sali egzaminacyjnej mogą przebywać wyłącznie zdający, przewodniczący zespołu egzaminacyjnego, osoby wchodzące w skład zespołu nadzorującego, nauczyciele wspomagający lub specjaliści z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym w przypadku, o którym mowa w art. 44zzr ust. 10 pkt 6 ustawy, oraz obserwatorzy, o których mowa w § 8.
+2.
+W czasie trwania części pisemnej egzaminu maturalnego z informatyki przeprowadzanego w pracowni informatycznej jest obecny administrator lub opiekun tej pracowni, który nie wchodzi w skład zespołu nadzorującego.
+§ 66.
+1.
+Po zakończeniu części pisemnej egzaminu maturalnego z danego przedmiotu oraz po zakończeniu części pierwszej i po zakończeniu części drugiej egzaminu maturalnego z informatyki, o których mowa w § 64 ust. 2, osoby wchodzące w skład zespołu nadzorującego zbierają od zdających zeszyty zadań egzaminacyjnych, karty odpowiedzi lub karty rozwiązań zadań egzaminacyjnych albo informatyczne nośniki danych, o których mowa w § 64 ust. 6, wskazane w informacji o sposobie organizacji i przeprowadzania egzaminu maturalnego, o której mowa w art. 9a ust. 2 pkt 10 lit. b ustawy.
+2.
+Przewodniczący zespołu nadzorującego lub upoważniony przez niego członek tego zespołu pakuje w sali egzaminacyjnej zeszyty zadań egzaminacyjnych, karty odpowiedzi lub karty rozwiązań zadań egzaminacyjnych albo informatyczne nośniki danych, o których mowa w § 64 ust. 6, wskazane w informacji o sposobie organizacji i przeprowadzania egzaminu maturalnego, o której mowa w art. 9a ust. 2 pkt 10 lit. b ustawy, do zwrotnych kopert i zakleja je w obecności pozostałych osób wchodzących w skład zespołu nadzorującego oraz przedstawiciela zdających, a następnie przekazuje niezwłocznie te koperty oraz pozostałe materiały egzaminacyjne przewodniczącemu zespołu egzaminacyjnego.
+3.
+Przewodniczący zespołu egzaminacyjnego przechowuje i zabezpiecza koperty, o których mowa w ust. 2, a następnie dołącza je do protokołu zbiorczego, o którym mowa w § 70 ust. 3.
+§ 67.
+1.
+W przypadku zagrożenia lub nagłego zakłócenia przebiegu części pisemnej egzaminu maturalnego z danego przedmiotu, przewodniczący zespołu egzaminacyjnego zawiesza lub przerywa część pisemną egzaminu maturalnego z danego przedmiotu i powiadamia o tym dyrektora okręgowej komisji egzaminacyjnej.
+2.
+Dyrektor okręgowej komisji egzaminacyjnej w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej podejmuje decyzję w sprawie dalszego przebiegu części pisemnej egzaminu maturalnego z danego przedmiotu.
+§ 68.
+1.
+Dla absolwentów, którzy uzyskali zgodę dyrektora okręgowej komisji egzaminacyjnej na przystąpienie do części ustnej lub części pisemnej egzaminu maturalnego z danego przedmiotu w terminie dodatkowym, egzamin maturalny jest przeprowadzany:
+1)
+w terminie określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy;
+2)
+w miejscu wskazanym przez dyrektora okręgowej komisji egzaminacyjnej; informację o miejscu przeprowadzenia części ustnej lub części pisemnej egzaminu maturalnego w terminie dodatkowym dyrektor okręgowej komisji egzaminacyjnej ogłasza na stronie internetowej okręgowej komisji egzaminacyjnej w ostatnim tygodniu maja.
+2.
+Absolwent, o którym mowa w ust. 1, może przystąpić do części ustnej egzaminu maturalnego z danego przedmiotu lub przedmiotów w terminie innym niż ustalony w harmonogramie, o którym mowa w § 41 ust. 2 pkt 2, w uzgodnieniu z przewodniczącym zespołu egzaminacyjnego. Termin przystąpienia do części ustnej egzaminu maturalnego z danego przedmiotu lub przedmiotów wyznacza przewodniczący zespołu egzaminacyjnego.
+§ 69.
+1.
+Oświadczenie absolwenta o zamiarze przystąpienia do egzaminu maturalnego z danego przedmiotu w części ustnej lub części pisemnej w terminie poprawkowym, o którym mowa w art. 44zzm ust. 3 ustawy, przewodniczący zespołu egzaminacyjnego przesyła w postaci elektronicznej do dyrektora okręgowej komisji egzaminacyjnej, nie później niż w terminie 10 dni od dnia ogłoszenia wyników egzaminu maturalnego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy.
+2.
+Informację o miejscu przeprowadzenia egzaminu maturalnego z danego przedmiotu w części ustnej albo w części pisemnej w terminie poprawkowym dyrektor okręgowej komisji egzaminacyjnej ogłasza na stronie internetowej okręgowej komisji egzaminacyjnej nie później niż do dnia 10 sierpnia roku szkolnego, w którym jest przeprowadzany egzamin maturalny.
+3.
+Przewodniczący zespołu egzaminacyjnego powołuje członków zespołu egzaminacyjnego do przeprowadzenia egzaminu maturalnego w szkole w terminie poprawkowym.
+§ 70.
+1.
+Przewodniczący zespołu nadzorującego sporządza:
+1)
+wykaz zdających w danej sali egzaminacyjnej, zawierający następujące informacje:
+a)
+nazwę, adres i indywidualny numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy,
+b)
+numer sali egzaminacyjnej,
+c)
+dane zdających, którzy zadeklarowali zamiar przystąpienia do części pisemnej egzaminu maturalnego z danego przedmiotu, zgodnie z wykazem, o którym mowa w § 39 ust. 1, obejmujące: imię (imiona) i nazwisko, numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, wraz ze wskazaniem zdających:
+– którzy nie przystąpili do części pisemnej egzaminu maturalnego z danego przedmiotu,
+– którym przerwano i unieważniono część pisemną egzaminu maturalnego z danego przedmiotu, wraz z przyczyną unieważnienia,
+– którzy korzystali z dostosowania warunków lub formy przeprowadzania części pisemnej egzaminu maturalnego z danego przedmiotu, o którym mowa w art. 44zzr ust. 1–7 ustawy,
+– którzy posiadają tytuł laureata lub finalisty olimpiady przedmiotowej, o których mowa w art. 44zzh ust. 1 ustawy,
+–  którzy przystąpili do części pisemnej egzaminu maturalnego z danego przedmiotu;
+2)
+protokół przebiegu części pisemnej egzaminu maturalnego z danego przedmiotu w danej sali egzaminacyjnej; w protokole zamieszcza się następujące informacje:
+a)
+nazwę, adres i indywidualny numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy,
+b)
+liczbę zdających, którzy zadeklarowali zamiar przystąpienia do części pisemnej,
+ba) liczbę zdających, którzy przystąpili do części pisemnej,
+bb)
+liczbę zdających, którzy spełnili warunek, o którym mowa w art. 44zzd ust. 4b ustawy,
+c)
+liczbę zdających, którzy nie przystąpili do części pisemnej,
+d)
+liczbę zdających, którym przerwano i unieważniono część pisemną, wraz z przyczyną unieważnienia,
+e)
+liczbę zdających, którzy korzystali z dostosowania warunków lub formy przeprowadzania części pisemnej, o którym mowa w art. 44zzr ust. 1–7 ustawy,
+f)
+liczbę zdających, którzy posiadają tytuł laureata lub finalisty olimpiady przedmiotowej, o których mowa w art. 44zzh ust. 1 ustawy,
+g)
+liczbę zdających, którym wymieniono arkusz egzaminacyjny, o których mowa w § 55 ust. 7, wraz z ich czytelnymi podpisami,
+h)
+godzinę rozpoczęcia pracy zdających,
+i)
+skład zespołu nadzorującego,
+j)
+imiona i nazwiska obserwatorów obecnych w czasie trwania części pisemnej wraz ze wskazaniem podmiotu delegującego,
+k)
+uwagi o przebiegu części pisemnej.
+2.
+Protokół, o którym mowa w ust. 1 pkt 2, podpisują osoby wchodzące w skład zespołu nadzorującego.
+3.
+Przewodniczący zespołu egzaminacyjnego sporządza protokół zbiorczy przebiegu części pisemnej egzaminu maturalnego z danego przedmiotu. W protokole zbiorczym zamieszcza się następujące informacje:
+1)
+nazwę, adres i indywidualny numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy;
+2)
+liczbę zdających, którzy zadeklarowali zamiar przystąpienia do części pisemnej;
+2a)
+liczbę zdających, którzy przystąpili do części pisemnej;
+2b)
+liczbę zdających, którzy spełnili warunek, o którym mowa w art. 44zzd ust. 4b ustawy;
+3)
+liczbę zdających, którzy nie przystąpili do części pisemnej;
+4)
+liczbę zdających, którym przerwano i unieważniono część pisemną, oraz ich imiona i nazwiska;
+5)
+liczbę zdających, którzy korzystali z dostosowania warunków lub formy przeprowadzania części pisemnej, o którym mowa w art. 44zzr ust. 1–7 ustawy;
+6)
+liczbę zdających, którzy posiadają tytuł laureata lub finalisty olimpiady przedmiotowej, o których mowa w art. 44zzh ust. 1 ustawy;
+7)
+liczbę zdających, którym wymieniono arkusz egzaminacyjny, o których mowa w § 55 ust. 7;
+8)
+imiona i nazwiska obserwatorów obecnych w czasie trwania części pisemnej wraz ze wskazaniem podmiotu delegującego;
+9)
+informację o zawieszeniu części pisemnej oraz podjętych działaniach, o których mowa w § 55 ust. 2;
+10)
+uwagi o przebiegu części pisemnej;
+11)
+liczbę załączników, o których mowa w ust. 5.
+4.
+Protokół zbiorczy, o którym mowa w ust. 3, sporządza się w dwóch jednobrzmiących egzemplarzach. Protokół zbiorczy podpisuje przewodniczący zespołu egzaminacyjnego. Jeden egzemplarz protokołu zbiorczego przewodniczący zespołu egzaminacyjnego przesyła okręgowej komisji egzaminacyjnej w terminie określonym i w sposób określony przez dyrektora tej komisji.
+5.
+Do protokołu zbiorczego, o którym mowa w ust. 3, dołącza się:
+1)
+koperty zawierające zeszyty zadań egzaminacyjnych, karty odpowiedzi lub karty rozwiązań zadań egzaminacyjnych albo informatyczne nośniki danych, o których mowa w § 66 ust. 2;
+2)
+wykazy, o których mowa w ust. 1 pkt 1;
+3)
+kopie zaświadczeń stwierdzających uzyskanie tytułu laureata lub finalisty olimpiady przedmiotowej, o których mowa w art. 44zzh ust. 1 ustawy.
+§ 71.
+(uchylony).
+§ 72.
+1.
+(uchylony).
+2.
+Wynik egzaminu maturalnego w części pisemnej z informatyki ustala się na podstawie liczby punktów uzyskanych w części pierwszej i w części drugiej, o których mowa w § 64 ust. 2.
+3.
+(uchylony).
+§ 73.
+1.
+Świadectwo dojrzałości, aneksy do świadectwa dojrzałości i zaświadczenie o wynikach egzaminu maturalnego okręgowa komisja egzaminacyjna przekazuje dyrektorowi szkoły, w której absolwent zdawał egzamin maturalny, lub upoważnionej przez niego osobie, w terminie określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy.
+2.
+Dyrektor szkoły lub upoważniona przez niego osoba przekazuje absolwentom świadectwa dojrzałości, aneksy do świadectw dojrzałości oraz zaświadczenia o wynikach egzaminu maturalnego.
+§ 74.
+W przypadku zwolnienia laureata lub finalisty olimpiady przedmiotowej, o których mowa w art. 44zzh ust. 1 ustawy, z egzaminu maturalnego z danego przedmiotu na świadectwie dojrzałości zamiast wyniku egzaminu maturalnego z danego przedmiotu wpisuje się odpowiednio „zwolniony” albo „zwolniona” oraz zamieszcza się adnotację o posiadanym tytule laureata lub finalisty olimpiady przedmiotowej i uzyskaniu z egzaminu maturalnego odpowiednio z:
+1)
+przedmiotu obowiązkowego zdawanego w części ustnej – 100% punktów w tej części;
+2)
+przedmiotu obowiązkowego zdawanego w części pisemnej – 100% punktów w tej części na poziomie podstawowym;
+3)
+języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części ustnej – 100% punktów w tej części;
+4)
+języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części ustnej na poziomie dwujęzycznym – 100% punktów w tej części na poziomie dwujęzycznym;
+5)
+przedmiotu dodatkowego, z wyjątkiem języka obcego nowożytnego, zdawanego w części pisemnej – 100% punktów w tej części na poziomie rozszerzonym;
+6)
+języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części pisemnej – 100% punktów w tej części na poziomie wskazanym w deklaracji.
+§ 75.
+1.
+Przewodniczący zespołu egzaminatorów, o którym mowa w art. 44zzu ust. 4 ustawy:
+1)
+uczestniczy w szkoleniach organizowanych przez okręgową komisję egzaminacyjną przed sprawdzaniem prac egzaminacyjnych zdających;
+2)
+kieruje pracą zespołu egzaminatorów, w szczególności przeprowadza szkolenia egzaminatorów w zakresie sprawdzania i oceniania prac egzaminacyjnych zdających;
+3)
+organizuje i nadzoruje pracę egzaminatorów;
+4)
+sporządza protokół sprawdzania prac egzaminacyjnych, który zawiera w szczególności:
+a)
+nazwę przedmiotu i poziom egzaminu maturalnego,
+b)
+imiona i nazwiska egzaminatorów,
+c)
+liczbę stwierdzonych przypadków, o których mowa w art. 44zzw ust. 1 ustawy, wraz z podaniem numeru PESEL, a w przypadku braku numeru PESEL – serii i numeru paszportu lub innego dokumentu potwierdzającego tożsamość, zdającego, którego to dotyczy,
+d)
+liczbę prac egzaminacyjnych sprawdzonych przez poszczególnych egzaminatorów.
+2.
+Protokół, o którym mowa w ust. 1 pkt 4, podpisują przewodniczący zespołu egzaminatorów oraz egzaminatorzy wchodzący w skład tego zespołu.
+§ 76.
+Protokoły indywidualne części ustnej egzaminu maturalnego, o których mowa w § 53 ust. 1, przechowuje szkoła przez okres 6 miesięcy, licząc od dnia przekazania szkołom świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy.
+§ 77.
+1.
+Prace egzaminacyjne absolwentów: zeszyty zadań egzaminacyjnych, karty odpowiedzi lub karty rozwiązań zadań egzaminacyjnych oraz informatyczne nośniki danych, o których mowa w § 64 ust. 6, a także wykazy, o których mowa w § 53 ust. 5 pkt 1 i § 70 ust. 1 pkt 1, oraz kopie zaświadczeń, o których mowa w § 53 ust. 5 pkt 2 i § 70 ust. 5 pkt 3, przechowuje okręgowa komisja egzaminacyjna przez okres 6 miesięcy, licząc od dnia przekazania szkołom świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy.
+2.
+Protokoły zbiorcze, o których mowa w § 53 ust. 3 i § 70 ust. 3, przechowuje okręgowa komisja egzaminacyjna przez okres 5 lat, licząc od dnia przekazania szkołom świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy.
+§ 78.
+1.
+Opłata za egzamin maturalny, o której mowa w art. 44zzq ust. 1 ustawy, wynosi 50 zł.
+2.
+Dowód wniesienia opłaty za egzamin maturalny absolwent składa dyrektorowi okręgowej komisji egzaminacyjnej w terminie od dnia 1 stycznia do dnia 7 marca roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego.
+3.
+Wniosek o zwolnienie z opłaty za egzamin maturalny, o którym mowa w art. 44zzq ust. 4 ustawy, składa się do dyrektora okręgowej komisji egzaminacyjnej nie później niż do dnia 31 grudnia roku szkolnego, w którym absolwent zamierza przystąpić do egzaminu maturalnego. Do wniosku dołącza się dokumenty potwierdzające wysokość dochodów.
+§ 79.
+Dyrektor szkoły umożliwia osobom upoważnionym przez dyrektora Centralnej Komisji Egzaminacyjnej lub dyrektora okręgowej komisji egzaminacyjnej przeprowadzenie na terenie szkoły próbnego zastosowania materiałów egzaminacyjnych, w postaci propozycji zadań egzaminacyjnych oraz ich zestawów do przeprowadzenia egzaminu maturalnego.
+§ 80.
+Podstawą dostosowania warunków przeprowadzania egzaminu maturalnego, o którym mowa w art. 44zzr ust. 5 ustawy, mogą być również opinie poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, o specyficznych trudnościach w uczeniu się, wydane na podstawie:
+1)
+§ 6a rozporządzenia Ministra Edukacji Narodowej z dnia 30 kwietnia 2007 r. w sprawie warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania sprawdzianów i egzaminów w szkołach publicznych (Dz. U. poz. 562, z późn. zm.);
+2)
+§ 3 rozporządzenia Ministra Edukacji Narodowej z dnia 3 sierpnia 2017 r. w sprawie oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych (Dz. U. poz. 1534);
+3)
+§ 3 rozporządzenia Ministra Edukacji Narodowej z dnia 22 lutego 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych (Dz. U. poz. 373).
+§ 80a.
+Określone w rozporządzeniu szczegółowe warunki i sposób przeprowadzania egzaminu maturalnego dotyczą egzaminu maturalnego dla absolwentów, o których mowa w art. 297 ust. 2 i art. 297a ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287).
+§ 81.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
+1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Tytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 4 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 1427), które weszło w życie z dniem 9 sierpnia 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Edukacji i Nauki z dnia 23 lutego 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego (Dz. U. poz. 365), które weszło w życie z dniem 1 września 2023 r. 8) W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 9) Dodany przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 1 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego (Dz. U. poz. 1625), które weszło w życie z dniem 4 sierpnia 2022 r. 13) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2; ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 12. 14) Ze zmianami wprowadzonymi przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2, oraz przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 12. 15) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 12. 16) Przez § 1 pkt 7 lit. c tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 17) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. c tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 18) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. c tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 19) Część wspólna ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 12. 20) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 12. 21) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 12. 22) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2. 23) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2. 24) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 12. 25) Zdanie pierwsze ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 12. 26) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia Ministra Edukacji Narodowej z dnia 8 listopada 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 2112), które weszło w życie z dniem 16 listopada 2017 r. 27) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 28) Ze zmianą wprowadzoną przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 12. 29) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 12. 30) W brzmieniu ustalonym przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 2. 31) Dodany przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 2. 32) W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 33) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 26. 34) Dodany przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 2. 35) Dodany przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 2. 36) Dodany przez § 1 pkt 2 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 2 kwietnia 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 626), które weszło w życie z dniem 3 kwietnia 2019 r.; w brzmieniu ustalonym przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 2. 37) Dodany przez § 1 pkt 2 lit. a rozporządzenia wymienionego jako pierwsze w odnośniku 36; ze zmianą wprowadzoną przez § 1 pkt 13 lit. b rozporządzenia, o którym mowa w odnośniku 2. 38) Dodany przez § 1 pkt 2 lit. a rozporządzenia wymienionego jako pierwsze w odnośniku 36; w brzmieniu ustalonym przez § 1 pkt 13 lit. c rozporządzenia, o którym mowa w odnośniku 2. 39) W brzmieniu ustalonym przez § 1 pkt 13 lit. c rozporządzenia, o którym mowa w odnośniku 2. 40) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia wymienionego jako pierwsze w odnośniku 36. 41) Dodany przez § 1 pkt 13 lit. d rozporządzenia, o którym mowa w odnośniku 2. 42) W brzmieniu ustalonym przez § 1 pkt 13 lit. e rozporządzenia, o którym mowa w odnośniku 2. 43) W brzmieniu ustalonym przez § 1 pkt 13 lit. f rozporządzenia, o którym mowa w odnośniku 2. 44) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 12. 45) Dodany przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2; w brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 12. 46) W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2. 47) Dodane przez § 1 pkt 16 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 48) Dodana przez § 1 pkt 16 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 49) Dodany przez § 1 pkt 16 lit. b rozporządzenia, o którym mowa w odnośniku 2. 50) W brzmieniu ustalonym przez § 1 pkt 16 lit. c rozporządzenia, o którym mowa w odnośniku 2. 51) Przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2. 52) Przez § 1 pkt 18 lit. a rozporządzenia, o którym mowa w odnośniku 2. 53) Przez § 1 pkt 18 lit. b rozporządzenia, o którym mowa w odnośniku 2. 54) W brzmieniu ustalonym przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 2. 55) W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 2. 56) W brzmieniu ustalonym przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 2. 57) W brzmieniu ustalonym przez § 1 pkt 22 rozporządzenia, o którym mowa w odnośniku 2. 58) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. poz. 906, z 2008 r. poz. 9 i 1097, z 2009 r. poz. 475, 694 i 1150, z 2010 r. poz. 1046 i 1491, z 2011 r. poz. 178 i 1063, z 2012 r. poz. 262 oraz z 2013 r. poz. 520. 59) Dodany przez § 1 pkt 23 rozporządzenia, o którym mowa w odnośniku 2. 60) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 25 czerwca 2015 r. w sprawie szczegółowych warunków i sposobu przeprowadzania sprawdzianu, egzaminu gimnazjalnego i egzaminu maturalnego (Dz. U. poz. 959), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 32 pkt 1 ustawy z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1010 i 1985).
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2
+
+#### Rozdział 3 Egzamin maturalny
+
+## Część ustna egzaminu maturalnego może być przeprowadzona z wykorzystaniem komputera, na którym zdający ma dostęp odpowiednio do wylosowanego zadania egzaminacyjnego lub wylosowanego zestawu zadań egzaminacyjnych.
+
+## Część pisemna egzaminu maturalnego z danego przedmiotu rozpoczyna się o godzinie określonej w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy. Czas trwania części pisemnej egzaminu maturalnego z danego przedmiotu rozpoczyna się z chwilą zapisania w widocznym miejscu przez przewodniczącego zespołu nadzorującego czasu rozpoczęcia i zakończenia pracy zdających.
+
+#### Rozdział 4 Przepisy przejściowe i końcowe
+

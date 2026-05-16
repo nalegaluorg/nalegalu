@@ -8,9 +8,10 @@ pos: 310
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 sierpnia 1990 r.
+# Ustawa z dnia 20 lipca 1990 r. o wliczaniu okresów pracy w indywidualnym gospodarstwie rolnym do pracowniczego stażu pracy
 
 | Pole | Wartość |
 |---|---|
@@ -24,29 +25,25 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900540310) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/310/text.pdf) |
 
-Nr 54 Poz.: 310
-USTAWA z dnia 20 lipca 1990 r.
-o wliczaniu okresów pracy w indywidualnym gospodarstwie rolnym do pracowniczego pracy.
-
 **Art. 1.**
 
-1. przepisy prawa lub postanowienia zbiorowego pracy albo porozumienia w sprawie systemu wynagradzania wliczanie do pracy, od którego uprawnienia pracownika ze stosunku pracy, okresów zatrudnienia w in nych pracy, do tego wlicza pracownikowi
+1. Ilekroć przepisy prawa lub postanowienia układu zbiorowego pracy albo porozumienia w sprawie zakładowego systemu wynagradzania przewidują wliczanie do stażu pracy, od którego zależą uprawnienia pracownika wynikające ze stosunku pracy, okresów zatrudnienia w innych zakładach pracy, do stażu tego wlicza się pracownikowi także:
 
-- **1)** okresy prowadzenia indywidualnego gospodarstwa rol nego lub pracy w takim gospodarstwie, prowadzonym przez
-- **2)** przed dniem 1 stycznia 1983 okresy pracy po 16 roku w gospodarstwie rolnym prowadzonym przez rodziców lub po tego gospodarstwa i jego prowadzenia lub wraz ze kiem,
-- **3)** po dniu 31 grudnia 1982 r. okresy pracy w indywidualnym gospodarstwie rolnym w charakterze domownika w rozumieniu przepisów o ubezpieczeniu rolników indywidualnych i ich rodzin.
+- **1)** okresy prowadzenia indywidualnego gospodarstwa rolnego lub pracy w takim gospodarstwie, prowadzonym przez współmałżonka,
+- **2)** przypadające przed dniem 1 stycznia 1983 r. okresy pracy po ukończeniu 16 roku życia w gospodarstwie rolnym prowadzonym przez rodziców lub teściów, poprzedzające objęcie tego gospodarstwa i rozpoczęcie jego prowadzenia osobiście lub wraz ze współmałżonkiem,
+- **3)** przypadające po dniu 31 grudnia 1982 r. okresy pracy w indywidualnym gospodarstwie rolnym w charakterze domownika w rozumieniu przepisów o ubezpieczeniu społecznym rolników indywidualnych i członków ich rodzin.
 
-2. Przepisu ust. 1 nie stosuje w danego przepisu lub postanowienia do pracy wlicza tylko okresy zatrudnienia w danym pracy, w albo okresy pracy na
+2. Przepisu ust. 1 nie stosuje się, jeżeli w myśl danego przepisu lub postanowienia do stażu pracy wlicza się tylko okresy zatrudnienia w danym zakładzie pracy, w określonej branży albo okresy pracy na określonych stanowiskach lub pracy wykonywanej w szczególnych warunkach.
 
-**Art. 2.** Okresów pracy w indywidualnym gospodarst wie rolnym, o których mowa wart. 1, nie wlicza stanowiskach lub pracy wykonywanej w szczególnych warunkach. do okresu zatrudnienia, od którego nabycie prawa do urlopu wypoczynkowego lub innego z roku pracy lub okresu krótszego jeden rok.
+**Art. 2.** Okresów pracy w indywidualnym gospodarstwie rolnym, o których mowa w art. 1, nie wlicza się do okresu zatrudnienia, od którego zależy nabycie prawa do urlopu wypoczynkowego lub innego świadczenia przysługującego z upływem roku pracy lub okresu krótszego niż jeden rok.
 
 **Art. 3.**
 
-1. Na wniosek zainteresowanej osoby ciwy gminy jest zgodnie z art. 1, okresy jej pracy w indywidualnym gospodarstwie rolnym, stosowne w celu w za pracy.
+1. Na wniosek zainteresowanej osoby właściwy urząd gminy jest obowiązany stwierdzić, zgodnie z art. 1, okresy jej pracy w indywidualnym gospodarstwie rolnym, wydając stosowne zaświadczenie w celu przedłożenia w zakładzie pracy.
 
-2. organ, o którym mowa w ust. 1, nie dysponuje dokumentami wydanie o pracy zainteresowanej osoby w indywidualnym gospodar stwie rolnym, zawiadamia o tej na
+2. Jeżeli organ, o którym mowa w ust. 1, nie dysponuje dokumentami uzasadniającymi wydanie zaświadczenia o pracy zainteresowanej osoby w indywidualnym gospodarstwie rolnym, zawiadamia ją o tej okoliczności na piśmie.
 
-3. W wypadku, o którym mowa w ust. 2, okresy pracy w indywidualnym gospodarstwie rolnym udowo dnione zeznaniami co najmniej dwóch zamiesz w tym czasie na terenie, na którym jest to gospodarstwo rolne.
+3. W wypadku, o którym mowa w ust. 2, okresy pracy w indywidualnym gospodarstwie rolnym mogą być udowodnione zeznaniami co najmniej dwóch świadków zamieszkujących w tym czasie na terenie, na którym jest położone to gospodarstwo rolne.
 
-**Art. 4.** Ustawa wchodzi w z dniem 1 stycznia 1991 r. Prezydent Polskiej: W. Jaruzelski
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 1991 r.
 

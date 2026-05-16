@@ -8,9 +8,10 @@ pos: 2245
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 grudnia 2017 r.
+# Ustawa z dnia 12 października 2017 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o ochronie zdrowia psychicznego
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002245) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2245/text.pdf) |
 
-Poz. 2245
-USTAWA z dnia 12 października 2017 r.
-o zmianie ustawy – Kodeks post ę powania cywilnego, ustawy o wychowaniu w trze ź wo ś ci i przeciwdziałaniu alkoholizmowi oraz ustawy o ochronie zdrowia psychicznego
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. − Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 5701a.** Sąd opiekuńczy może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego w toku postępowania prowadzonego w sprawach dotyczących ustanowienia opieki lub kurateli i prowadzonego w tych sprawach postępowania wykonawczego w celu ustalenia możliwości lub sposobu sprawowania opieki lub kurateli oraz warunków życiowych osoby, której postępowanie dotyczy. ” .
 
 **Art. 2.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2016 r. poz. 487) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2017 r. poz. 882) po art. 42 dodaje się art. 42a w brzmieniu: „Art. 42a. Sąd może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego w celu ustalenia warunków życiowych osoby, której postępowanie dotyczy, oraz jej funkcjonowania w środowisku.”.
+**Art. 30a.** Sąd może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego w celu ustalenia okoliczności wskazujących na nadużywanie alkoholu przez osobę, której postępowanie dotyczy, oraz zakłócania przez nią spokoju lub porządku publicznego, a także jej relacji w rodzinie, zachowania się w stosunku do małoletnich i stosunku do pracy. ” ;
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 3.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2017 r. poz. 882) po art. 42 dodaje się art. 42a w brzmieniu: „
+
+**Art. 42a.** Sąd może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego w celu ustalenia warunków życiowych osoby, której postępowanie dotyczy, oraz jej funkcjonowania w środowisku. ” .
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

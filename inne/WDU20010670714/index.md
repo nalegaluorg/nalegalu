@@ -8,9 +8,10 @@ pos: 714
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# d) lp. 57 otrzymuje brzmienie: Lp. Stanowisko Wykształcenie Kwalifikacje Staż służby zawodowe w latach 57 Asystent nych według przepisów odręb- zawodowe wyższe
+# Wyrok Trybunału Konstytucyjnegoz dnia 18 czerwca 2001 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010670714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/714/text.pdf) |
 
-e) po lp. 57 dodaje się lp. 57awbrzmieniu: Lp. Stanowisko Wykształcenie Kwalifikacje Staż służby zawodowe w latach 57a Instruktor nych według przepisów odręb- zawodowe wyższe
-f) lp. 63 otrzymuje brzmienie: Lp. Stanowisko Wykształcenie Kwalifikacje Staż służby zawodowe w latach wyższe specjalistyczne zawodowe 63 Dowódca plutonu średnie specjalistyczne 3 zawodowe Lp. Stanowisko Wykształcenie Kwalifikacje Staż służby zawodowe w latach wyższe specjalistyczne zawodowe 66 Dzielnicowy średnie specjalistyczne 3 zawodowe
-g) lp. 64 otrzymuje brzmienie: Lp. Stanowisko Wykształcenie Kwalifikacje Staż służby zawodowe w latach wyższe specjalistyczne zawodowe 64 Asystent, detektyw, instruktor średnie specjalistyczne 2 zawodowe
-h) lp. 66 otrzymuje brzmienie: § 2. Rozporządzenie ma zastosowanie przy ustala- § 3. Rozporządzenie wchodzi w życie po upływie niu wymagań wzakresie wykształcenia, kwalifikacji za- 14dni od dnia ogłoszenia.
-wodowych istażu służby na stanowiskach służbowych od dnia 1 stycznia 2001 r. Minister Spraw Wewnętrznych iAdministracji: M. Biernacki WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 18 czerwca 2001 r.
-sygn. akt P. 6/2000.
-Trybunał Konstytucyjny wskładzie: Jerzy Stępień sprawozdawca, Janusz Niemcewicz przewodniczący, Teresa Dębowska-Romanowska, Lech Garlicki, Stefan J. Jaworski, po rozpoznaniu w dniu 18 czerwca 2001 r. na rozprawie pytania prawnego Naczelnego Sądu Administracyjnego Ośrodek Zamiejscowy w Krakowie, z udziałem umocowanych przedstawicieli uczestni- (Dz. U. 11, poz. 50,Nr 28, poz. 127iNr 129, poz.599, ków postępowania: wnioskodawcy, Sejmu Rzeczypo- z1994 r. 132, poz. 670,z1995 r. 142, poz.702 i703, spolitej Polskiej, Ministra Finansów Prokuratora Ge- z 1996 r. 137, poz. 640, z 1997 r. 111, poz. 722, neralnego, o stwierdzenie, czy art. 27 ust. 2 ustawy Nr123, poz. 776 780, 137, poz. 926, 141, poz. 943 zdnia 8stycznia 1993 r.opodatku od towarów iusług 162, poz. 1104, z 1998 r. 161, poz. 1076 oraz oraz o podatku akcyzowym (Dz. U. 11, poz. 50 z 1999 r. 50, poz. 499, 57, poz. 596 95, zpóên. zm.) jest zgodny zart. 2 Konstytucji Rzeczypo- poz.1100) jest zgodny zart. 2 Konstytucji Rzeczypospolitej Polskiej, spolitej Polskiej.
-orzeka: Janusz Niemcewicz
-Art. 27 ust. 2 ustawy zdnia 8 stycznia 1993 r. opo- Teresa Dębowska-Romanowska Lech Garlicki datku od towarów usług oraz o podatku akcyzowym Stefan J. Jaworski Jerzy Stępień 715 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 21 czerwca 2001 r.
-sygn. akt SK. 6/2001.
-Trybunał Konstytucyjny wskładzie: Jerzy Stępień przewodniczący, Lech Garlicki, Stefan J. Jaworski, Wiesław Johann, Jadwiga Skórzewska-Ęosiak sprawozdawca, po rozpoznaniu w dniu 21 czerwca 2001 r. na rozprawie skargi konstytucyjnej Genowefy Permus, zudziałem umocowanych przedstawicieli uczestników postępowania: skarżącej, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, o stwierdzenie niezgodności art. 9 ust. 4 ustawy z dnia 18 grudnia orzeka:
-Art. 9 ust. 4 ustawy zdnia 18 grudnia 1976 r. oubezpieczeniu społecznym osób prowadzących działalność gospodarczą oraz ich rodzin (Dz. U. z 1989 r. 46, poz. 250, z 1990 r. 36, poz. 206, z 1991 r. 104, poz. 450 110, poz. 474, z 1995 r. 4, poz. 17, z 1996 r. 100, poz. 461 124, poz. 585, z 1997 r.
-28, poz. 153, z 1998 r. 106, poz. 668, 137, poz. 887 162, poz. 1118 oraz z 1999 r. 60, poz.636), wbrzmieniu obowiązującym do dnia wejścia wżycie ustawy zdnia 28 czerwca 1996 r. ozmianie niektórych ustaw o zaopatrzeniu emerytalnym o ubezpieczeniu społecznym (Dz. U. 100, poz. 461), jest zgodny zart.32 wzwiązku zart. ust. 1 Konstytucji Rzeczypospolitej Polskiej.
-1976 r. o ubezpieczeniu społecznym osób prowadzących działalność gospodarczą oraz ich rodzin (Dz. U. Jerzy Stępień z 1989 r. 46, poz. 250, z póên. zm.) z art. 32 Konstytucji Rzeczypospolitej Polskiej wzw. zart. ust. 1 Kon- Lech Garlicki Stefan J. Jaworski stytucji, Wiesław Johann Jadwiga Skórzewska-Ęosiak
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Janusz Niemcewicz – przewodniczący, Teresa Dębowska-Romanowska, Lech Garlicki, Stefan J. Jaworski, Jerzy Stępień – sprawozdawca, protokolant: Joanna Szymczak, po rozpoznaniu w dniu 18 czerwca 2001 r. na rozprawie pytania prawnego Naczelnego Sądu Administracyjnego – Ośrodek Zamiejscowy w Krakowie, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej, Ministra Finansów i Prokuratora Generalnego, o stwierdzenie, czy art. 27 ust. 2 ustawy z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50 z późn. zm.) jest zgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej, orzeka: Art. 27 ust. 2 ustawy z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, Nr 28, poz. 127i Nr 129, poz. 599, z 1994 r. Nr 132, poz. 670, z 1995 r. Nr 142, poz. 702 i 703, z 1996 r. Nr 137, poz. 640, z 1997 r. Nr 111, poz. 722, Nr 123, poz. 776 i 780, Nr 137, poz. 926, Nr 141, poz. 943i Nr 162, poz. 1104, z 1998 r. Nr 161, poz. 1076oraz z 1999 r. Nr 50, poz. 499, Nr 57, poz. 596i Nr 95, poz. 1100) jest zgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej.
 

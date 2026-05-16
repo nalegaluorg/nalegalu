@@ -8,6 +8,7 @@ pos: 1323
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 30 sierpnia 2011 r. o zmianie ustawy o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej oraz niektórych innych ustaw
@@ -28,7 +29,7 @@ domain: null
 
 **Art. 2.** W ustawie z dnia 21 czerwca 2002 r. o stanie wyjątkowym (Dz. U. Nr 113, poz. 985 i Nr 153, poz. 1271, z 2003 r. Nr 228, poz. 2261 oraz z 2006 r. Nr 104, poz. 711) w art. 2:
 
-**Art. 3.** W ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. Nr 62, poz. 558, z późn. zm. ) w art. 3:
+**Art. 3.** W ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. Nr 62, poz. 558, z późn. zm.) w art. 3:
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski 1323 USTAWA z dnia 30 sierpnia 2011 r. o zmianie ustawy o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

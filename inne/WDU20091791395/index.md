@@ -8,9 +8,10 @@ pos: 1395
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny wskładzie: Andrzej Rzepliński przewodniczący, Zbigniew Cieślak, Mirosław Granat, Marek Mazurkiewicz sprawozdawca, Mirosław Wyrzykowski, po rozpoznaniu, zudziałem Sejmu oraz Prokuratora Generalnego i Rzecznika Praw Obywatelskich, na rozprawie dniu 20 paêdziernika 2009 r., skargi konstytucyjnej spółki Ń4G Polska” sp. z o.o. z siedzibą Lubiczu zbadanie zgodności art. 479 wania sprawach gospodarczych do upływu dwóch lat od uprawomocnienia się wyroku, przy jedynej możliwości przekroczenia tego okresu przy braku możliwości działania przez stronę lub nienależytą jej reprezentację, z art. 190 ust. 4 związku z art. 2, art. 32 ust. 1, art. 45 ust. 1 iart. 77 ust. 2 Konstytucji, orzeka:
+# Wyrok Trybunału Konstytucyjnegoz dnia 20 października 2009 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091791395) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1395/text.pdf) |
 
-Art. 479 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), zakresie ograniczającym przesłanki do wznowienia postępoustawy zdnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), zakresie, jakim odnosi się do skargi wznowienie postępowania opartej na podstawie art. 401 Kodeksu postępowania cywilnego, jest niezgodny zart. 190 ust. 4 wzwiązku zart. 2, art. 32 ust. 1, art. 45 ust. 1 iart. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
-Andrzej Rzepliński Zbigniew Cieślak Mirosław Granat Marek Mazurkiewicz Mirosław Wyrzykowski
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Rzepliński – przewodniczący, Zbigniew Cieślak, Mirosław Granat, Marek Mazurkiewicz – sprawozdawca, Mirosław Wyrzykowski, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem Sejmu oraz Prokuratora Generalnego i Rzecznika Praw Obywatelskich, na rozprawie w dniu 20 października 2009 r., skargi konstytucyjnej spółki „4G Polska” sp. z o.o. z siedzibą w Lubiczu o zbadanie zgodności art. 47922 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), w zakresie ograniczającym przesłanki do wznowienia postępowania w sprawach gospodarczych do upływu dwóch lat od uprawomocnienia się wyroku, przy jedynej możliwości przekroczenia tego okresu przy braku możliwości działania przez stronę lub nienależytą jej reprezentację, z art. 190 ust. 4 w związku z art. 2, art. 32 ust. 1, art. 45 ust. 1 i art. 77 ust. 2 Konstytucji, orzeka: Art. 47922 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), w zakresie, w jakim odnosi się do skargi o wznowienie postępowania opartej na podstawie art. 4011 Kodeksu postępowania cywilnego, jest niezgodny z art. 190 ust. 4 w związku z art. 2, art. 32 ust. 1, art. 45 ust. 1 i art. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
 

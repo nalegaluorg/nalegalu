@@ -8,9 +8,10 @@ pos: 803
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybuna∏ Konstytucyjny w sk∏adzie: Marian Grzybowski — przewodniczàcy, Wojciech Hermeliƒski, Adam Jamróz, Janusz Niemcewicz, Miros∏aw Wyrzykowski — sprawozdawca, Dziennik Ustaw Nr 123 — 6697 — Poz. 803 ja 2007 r. o tworzeniu i dzia∏aniu wielkopowierzchniowych obiektów handlowych (Dz. U. Nr 127, poz. 880) z art. 2, art. 20 i art. 22 Konstytucji Rzeczypospolitej Polskiej, orzeka: Ustawa zdnia 11 maja 2007 r. otworzeniu idzia∏aniu wielkopowierzchniowych obiektów handlowych (Dz. U. Nr 127, poz. 880) jest niezgodna z art. 2, art. 20 i art. 22 Konstytucji Rzeczypospolitej Polskiej.
+# Wyrok Trybunału Konstytucyjnegoz dnia 8 lipca 2008 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081230803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/803/text.pdf) |
 
-po rozpoznaniu, z udzia∏em wnioskodawcy oraz Marian Grzybowski Sejmu i Prokuratora Generalnego, na rozprawie w dniu 8 lipca 2008 r., wniosku Rzecznika Praw Oby- Wojciech Hermeliƒski Adam Jamróz watelskich ozbadanie zgodnoÊci ustawy zdnia 11 ma- Janusz Niemcewicz Miros∏aw Wyrzykowski 803 WYROK TRYBUNA¸U KONSTYTUCYJNEGO z dnia 8 lipca 2008 r.
-sygn. akt K 46/07
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marian Grzybowski – przewodniczący, Wojciech Hermeliński, Adam Jamróz, Janusz Niemcewicz, Mirosław Wyrzykowski – sprawozdawca, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 8 lipca 2008 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności ustawy z dnia 11 maja 2007 r. o tworzeniu i działaniu wielkopowierzchniowych obiektów handlowych (Dz. U. Nr 127, poz. 880) z art. 2, art. 20 i art. 22 Konstytucji Rzeczypospolitej Polskiej, orzeka: Ustawa z dnia 11 maja 2007 r. o tworzeniu i działaniu wielkopowierzchniowych obiektów handlowych (Dz. U. Nr 127, poz. 880) jest niezgodna z art. 2, art. 20 i art. 22 Konstytucji Rzeczypospolitej Polskiej.
 

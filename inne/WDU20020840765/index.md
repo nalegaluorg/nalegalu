@@ -8,9 +8,10 @@ pos: 765
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 1. Art. 479 31 z dnia 17 listopada 1964 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 19 czerwca 2002 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,34 +25,29 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020840765) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/765/text.pdf) |
 
-Kodeks postępowania cywilnego:
-a) niezgodny zart. 78 wzwiązku zart. 176 oraz z Konstytucji Rzeczypospolitej Polskiej przez to, że ustalając katalog rozstrzygnięć zawierających zarówno cechy postępowania pierwszoinstancyjnego, jak i odwoławczego uniemożliwia właściwą kontrolę instancyjną, pozbawiając stronę apelacyjnego środka odwoławczego od orzeczenia Sądu Antymonopolowego wydanego w pierwszej instancji;
-b) niezgodny zart. Konstytucji Rzeczypospolitej Polskiej.
-II Przepisy wskazane w punkcie I a) tracą moc zdniem 30 listopada 2003 r.
-Marian Zdyb Ciemniewski Marian Grzybowski Marek Safjan Stępień 765 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 19 czerwca 2002 r.
-sygn. akt K. 11/02.
-Trybunał Konstytucyjny wskładzie: Marek Safjan przewodniczący, Ciemniewski, Teresa Dębowska-Romanowska, Marian Grzybowski, Wiesław Johann, Biruta Lewaszkiewicz-Petrykowska, Ewa Ęętowska, Marek Mazurkiewicz, Andrzej Mączyński, Janusz Niemcewicz sprawozdawca, Jadwiga Skórzewska-Ęosiak, Stępień, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki, po rozpoznaniu, z udziałem wnioskodawcy i sądu tu i Prokuratora Generalnego, na rozprawie w dniu 19 czerwca 2002 r.,
-1) wniosku grupy posłów ozbadanie zgodności:
-a) pkt zdnia 15 lutego 2002 r. ozmianie o ujawnieniu pracy służby w organach bezpieczeństwa państwa współpracy z nimi w latach 1944—1990 osób pełniących funkcje publiczne oraz Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej iSeprzedstawiającego pytanie prawne oraz Sejmu, Senanatu Rzeczypospolitej Polskiej (Dz. U. 14, poz. 128) w zakresie, w którym do z dnia 11 kwietnia 1997 r. o ujawnieniu pracy służby w organach bezpieczeństwa państwa współpracy z nimi w latach 1944—1990 osób pełniących funkcje publiczne (Dz. U.
-z 1999 r. 42, poz. 428, ze zm.) dodaje 4aust. 4 zart. 45 Konstytucji, w pozostałym zakresie z 2, i 61 oraz 7, 118 iart. 121 Konstytucji;
-b) pkt 5 lit. b)ustawy zdnia 15 lutego 2002 r.
-powołanej w pkt z 2, i 61 Konstytucji,
-2) pytania prawnego Sądu Apelacyjnego w Warszawie VWydział Lustracyjny ozbadanie zgodności: nie o ujawnieniu pracy służby w orga- b) w zakresie, w jakim do 18a z dnia nach bezpieczeństwa państwa współpracy zni- 11 kwietnia 1997 r. powołanej w pkt pod mi w latach 1944—1990 osób pełniących funkcje lit. a)dodaje 5 zdanie pierwsze itrzecie, publiczne oraz Ordynacja wyborcza do zgodny zart. oraz nie niezgodSejmu Rzeczypospolitej Polskiej i do Senatu Rze- ny zart. iart. 61 Konstytucji.
-czypospolitej Polskiej (Dz. U. 14, poz. 128):
-a) wzakresie, wjakim do zdnia 11 kwietnia 1997 r. o ujawnieniu pracy służby w organach bezpieczeństwa państwa współpracy Marek Safjan z nimi w latach 1944—1990 osób pełniących (zdanie odrębne do pkt 1awyroku) funkcje publiczne (Dz. U. z1999 r. 42, poz. 428, 57, poz. 618, 62, poz. 681 iNr 63, poz. 701, Ciemniewski Marian Grzybowski z 2000 r. 43, poz. 488 i 50, poz. 600 oraz Teresa Dębowska-Romanowska Wiesław Johann z2002 r. 14, poz. 128) dodaje 4aust. 2—5, Biruta Lewaszkiewicz-Petrykowska Ewa Ęętowska niezgodny zart. 7, 118 iart. 121 Marek Mazurkiewicz (zdanie odrębne do pkt 1ai2a) Konstytucji Rzeczypospolitej Polskiej Andrzej Mączyński przez to, że zakres uchwalonych przez Senat po- Janusz Niemcewicz Jadwiga Skórzewska-Ęosiak prawek wykroczył poza materię uchwa- Stępień (zdanie odrębne do pkt 1awyroku) lonej przez Sejm, Mirosław Wyrzykowski
-b) wzakresie, wjakim do zdnia 11 kwietnia Marian Zdyb Bohdan Zdziennicki (zdanie odrębne do 1997 r., powołanej w pkt pod lit. a) dodaje pkt 1aipkt 2a) ISSN 0867-3411 Cena brutto 3,80 zł 121, poz. 591 zpóên. zmianami) jednostki, októrych mowa wart. 64 cytowanej ustawy, amianowicie:
-1. banki oraz zakłady ubezpieczeń,
-2. jednostki działające na podstawie przepisów o publicznym obrocie papierami wartościowymi i funduszach powierniczych oraz przepisów ofunduszach inwestycyjnych,
-3. jednostki działające na podstawie przepisów oorganizacji ifunkcjonowaniu funduszy emerytalnych,
-4. spółki akcyjne,
-5. pozostałe jednostki, które wpoprzedzającym roku obrotowym, za który sporządzono sprawozdania finansowe, spełniły co najmniej dwa znastępujących warunków:
-a) średnioroczne zatrudnienie wprzeliczeniu na pełne etaty wyniosło co najmniej 50 osób,
-b) suma aktywów bilansu na koniec roku obrotowego stanowiła równowartość wwalucie polskiej co najmniej 500 000 EURO,
-c) przychody netto ze sprzedaży towarów iproduktów oraz operacji finansowych za rok obrotowy stanowiły równowartość wwalucie polskiej co najmniej 5 000 000 EURO, zobowiązane są do ogłoszenia rocznego sprawozdania finansowego w ŃMonitorze Polskim B”.
-Kierownik jednostki, w ciągu 15 dni od dnia zatwierdzenia sprawozdania finansowego, obowiązany złożyć do publikacji: • bilans, • rachunek zysków istrat, • sprawozdanie zprzepływów środków pieniężnych za rok obrotowy, • opinię biegłego rewidenta, • odpis uchwały bądê postanowienia organu zatwierdzającego o zatwierdzeniu sprawozdania finansowego ipodziale zysku pokryciu straty.
-Należność za usługę zależna od objętości sprawozdania.
-Koszt strony ogłoszeniowej wŃMonitorze Polskim B” wynosi 522,50 zł + VAT.
-Prosimy ozałączenie oświadczenia upoważniającego do wystawienia faktury VAT bez podpisu odbiorcy.
-Nie przyjmujemy przedpłat. Należność prosimy uiścić wciągu 14 dni od dnia otrzymania wyceny.
-Nasz adres: Wydział Wydawnictw iPoligrafii GP KPRM ul. Powsińska 69/71, 02-903 Warszawa tel. 0-prefix-22 694-67-36
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marek Safjan – przewodniczący, Jerzy Ciemniewski, Teresa Dębowska-Romanowska, Marian Grzybowski, Wiesław Johann, Biruta Lewaszkiewicz-Petrykowska, Ewa Łętowska, Marek Mazurkiewicz, Andrzej Mączyński, Janusz Niemcewicz – sprawozdawca, Jadwiga Skórzewska-Łosiak, Jerzy Stępień, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy i sądu przedstawiającego pytanie prawne oraz Sejmu, Senatu i Prokuratora Generalnego, na rozprawie w dniu 19 czerwca 2002 r.,
+1)
+wniosku grupy posłów o zbadanie zgodności:
+a)
+art. 1 pkt 1 ustawy z dnia 15 lutego 2002 r. o zmianie ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne oraz ustawy – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 14, poz. 128)
+– w zakresie, w którym do ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. Nr 42, poz. 428, ze zm.) dodaje art. 4a ust. 4 z art. 45 ust. 1 Konstytucji,
+– w pozostałym zakresie z art. 2, art. 32 ust. 1 i art. 61 ust. 1 oraz art. 7, art. 118 ust. 1 i art. 121 ust. 2 Konstytucji;
+b)
+art. 1 pkt 5 lit. b) ustawy z dnia 15 lutego 2002 r. powołanej w pkt 1 z art. 2, art. 32 ust. 1 i art. 61 ust. 1 Konstytucji,
+2)
+pytania prawnego Sądu Apelacyjnego w Warszawie V Wydział Lustracyjny o zbadanie zgodności:
+– art. 1 pkt 1 ustawy powołanej w pkt 1 w zakresie, w którym do ustawy z dnia 11 kwietnia 1997 r. powołanej w pkt 1, dodał art. 4a ust. 4 z art. 7, art. 32 ust. 1, art. 118 ust. 1 i art. 121 ust. 2 Konstytucji,
+orzeka:
+1.
+Art. 1 pkt 1 ustawy z dnia 15 lutego 2002 r. o zmianie ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne oraz ustawy – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 14, poz. 128):
+a)
+w zakresie, w jakim do ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. Nr 42, poz. 428, Nr 57, poz. 618, Nr 62, poz. 681 i Nr 63, poz. 701, z 2000 r. Nr 43, poz. 488 i Nr 50, poz. 600 oraz z 2002 r. Nr 14, poz. 128) dodaje art. 4a ust. 2–5, jest niezgodny z art. 7, art. 118 ust. 1 i art. 121 ust. 2 Konstytucji Rzeczypospolitej Polskiej przez to, że zakres uchwalonych przez Senat poprawek wykroczył poza materię ustawy uchwalonej przez Sejm,
+b)
+w zakresie, w jakim do ustawy z dnia 11 kwietnia 1997 r., powołanej w pkt 1 pod lit. a) dodaje art. 4a ust. 1, jest zgodny z art. 2, art. 32 ust. 1 i art. 61 ust. 1 Konstytucji.
+2.
+a)
+w zakresie, w jakim do art. 18a ustawy z dnia 11 kwietnia 1997 r. powołanej w pkt 1 pod lit. a) dodaje ust. 5 zdanie drugie, jest niezgodny z art. 32 ust. 1 oraz nie jest niezgodny z art. 2 i art. 61 ust. 1 Konstytucji,
+b)
+w zakresie, w jakim do art. 18a ustawy z dnia 11 kwietnia 1997 r. powołanej w pkt 1 pod lit. a) dodaje ust. 5 zdanie pierwsze i trzecie, jest zgodny z art. 32 ust. 1 oraz nie jest niezgodny z art. 2 i art. 61 ust. 1 Konstytucji.
 

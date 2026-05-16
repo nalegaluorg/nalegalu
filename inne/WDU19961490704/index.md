@@ -8,9 +8,10 @@ pos: 704
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# rejestrowy lub dokonano przeniesie nia celu zabezpieczenia roszczenia.
+# Ustawa z dnia 6 grudnia 1996 r. o zmianie ustawy o podatkach i opłatach lokalnych i ustawy o finansowaniu gmin
 
 | Pole | Wartość |
 |---|---|
@@ -24,38 +25,40 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961490704) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/704/text.pdf) |
 
-Art. 53 3 1. Bankowy egzekucyjny egzekucji przeciwko osobie trzeciej, gdy osoba ta przejmie banko wych, o których mowa wart. 53 ust. 1.
-2. po dokonaniu banko wej, o której mowa wart. 53 ust.
-pkt 1-6, czenia inne osoby wy niku spadkobrania lub osoby prawnej, albo gdy zachodzi po trzeba egzekucji wspólnego egzekucji wykonawczy oparty ban kowym tytule egzekucyjnym zaopa trzonym przez przeciwko tym oso bom.
-Art. 53 4 1. W razie gdy egzekucja jest prowadzo podstawie bankowego eg zekucyjnego, drodze powództwa, umorzenia lub egzekucji,
-1) egzekwowane roszczenie lub nie istnieje,
-2) egzekucja prowadzona jest spra wie, której niedopuszczalne jest jej prowadzenie podstawie ban kowego egzekucyjnego.
-2. Do powództwa, o którym mowa ust. 1, stosuje odpowiednio art. 843 Kodek su cywilnego.";
-5) dotychczasowy art. 53' otrzymuje oznaczenie art. 53
+**Art. 1.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. Nr 9, poz. 31 i Nr 101, poz. 444, z 1992 r. Nr 21, poz. 86, z 1994 r. Nr 123, poz. 600 oraz z 1996 r. Nr 91, poz. 409) wprowadza się następujące zmiany:
 
-**Art. 49.** W ustawie dnia 22 marca 1991 r. Prawo o publicznym obrocie papierami i fun duszach powierniczych (Dz. U. 1994 r. Nr 58, poz. 239, do chwili zaspokojenia zastawnika, nie mo przedmiotem obrotu i stosuje do nich tryb pod stawie art. 32 1."
+**Art. 5.**
 
-**Art. 50.**
+1. Rada gminy określa wysokość stawek podatku od nieruchomości, z tym że podatek ten nie może przekroczyć rocznie:
 
-1. Zastaw, ustanowiony przed dniem wej niniejszej ustawy mocy przepisu art. 308 Kodeksu cywilnego, wygasa 3 mie od dnia niniejszej ustawy.
+- **1)** od budynków mieszkalnych lub ich części – 0,28 zł od 1 m2 powierzchni użytkowej,
+- **2)** od budynków lub ich części związanych z działalnością gospodarczą inna niż rolnicza lub leśna, z wyjątkiem budynków lub ich części przydzielonych na potrzeby bytowe osób zajmujących lokale mieszkalne, oraz od części budynków mieszkalnych zajętych na prowadzenie działalności gospodarczej – 10,34 zł od 1 m2 powierzchni użytkowej,
+- **3)** od budynków lub ich części zajętych na prowadzenie działalności gospodarczej w zakresie obrotu kwalifikowanym materiałem siewnym – 4,80 zł od 1 m2 powierzchni użytkowej,
+- **4)** od pozostałych budynków lub ich części – 3,44 zł od 1 m2 powierzchni użytkowej,
+- **5)** od budowli – 2% ich wartości określonej na podstawie art. 4 ust. 1 pkt 2 oraz ust. 4–6,
+- **6)** od gruntów związanych z działalnością gospodarczą inną niż działalność rolnicza lub leśna, z wyjątkiem związanych z budynkami mieszkalnymi – 0,34 zł od 1 m2 powierzchni,
+- **7)** od gruntów: będących użytkami rolnymi nie wchodzącymi w skład gospodarstw rolnych w rozumieniu przepisów ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 1993 r. Nr 94, poz. 431, z 1994 r. Nr 1, poz. 3 i z 1996 r. Nr 91, poz. 409), wykorzystywanych na cele rolnicze – 0,01 zł od 1 m2 powierzchni, pod jeziorami, zajętych na zbiorniki wodne retencyjne lub elektrowni wodnych – 2 zł od 1 ha powierzchni, pozostałych – 0,04 zł od 1 m2 powierzchni.
+    - **a)**
+    - **b)**
+    - **c)**
 
-2. Na wniosek zastawnika, terminie 3 od dnia niniejszej ustawy, zastaw, o którym mowa ust. 1, podlega wpisowi do rejestru zastawów prowadzonego podstawie niniej szej ustawy i zastaw rejestrowy.
+2. Stawki podatku od nieruchomości, określane przez radę gminy, nie mogą być niższe niż 50% górnych granic stawek, o których mowa w ust. 1.
 
-3. Do wniosku o ustanowie niu zastawu oraz odpis prowadzonego przez bank re jestru zastawów.
+3. Za grunty związane z działalnością gospodarczą uważa się grunty zabudowane i nie zabudowane, będące w posiadaniu podmiotu gospodarczego, a w szczególności:
 
-**Art. 51.**
+- **1)** grunty pod budynkami produkcyjnymi, magazynowymi, administracyjnymi, socjalnymi i hotelowymi,
+- **2)** grunty pod budowlami i urządzeniami,
+- **3)** grunty zajęte na drogi wewnętrzne i place manewrowe, place składowe, zieleńce oraz tereny, na których są lub mają być realizowane zadania inwestycyjne,
+- **4)** grunty wyłączone na cele nierolnicze lub nieleśne: na skutek prowadzonej działalności gospodarczej innej niż działalność rolnicza lub leśna albo na podstawie ostatecznej decyzji administracyjnej, do czasu przywrócenia tym gruntom charakteru rolniczego lub leśnego. ” ;
+    - **a)**
+    - **b)**
 
-1. Do egzekucyjnych tych przed dniem niniejszej ustawy, podstawie banków oraz innych do kumentów dokonywaniem bankowych, rzecz tych banków i zaopatrzonych opar te nich roszczenia wymagalne, moc ty wykonawczych bez potrzeby uzyskiwania dla nich klauzul stosuje prze pisy dotychczasowe.
+- **3)** w art. 19 w pkt 1 lit. b) otrzymuje brzmienie: „ stawka opłaty miejscowej nie może przekroczyć 0,94 zł dziennie, ” .
+    - **b)**
 
-2. Do nadania klauzuli bankowym egzekucyjnym oraz prowadzenia egzekucji Kodeksu cywilnego podsta wie tych nie jest wymagane o poddaniu egzekucji, bankowa, której wynika banku, zosta dokonana przed dniem niniejszej ustawy.
+**Art. 2.** W ustawie z dnia 10 grudnia 1993 r. o finansowaniu gmin (Dz. U. Nr 129, poz. 600, z 1994 r. Nr 105, poz. 509 oraz z 1995 r. Nr 124, poz. 601 i Nr 154, poz. 794) w art. 14 dodaje się ust. 5 i 6 w brzmieniu: „ 5. Do obliczenia subwencji wyrównawczej dla gmin do 15 000 mieszkańców przyjmuje się jako dochody należne z tytułu podatku od nieruchomości dochody wynikające ze stawek uchwalonych dla tego podatku przez radę gminy. 6. Liczbę mieszkańców, o której mowa w ust. 5, ustala się na dzień 30 czerwca roku poprzedzającego rok bazowy. ” .
 
-**Art. 52.** Ustawa wchodzi dniem stycznia 1998 r., przepisów art. 42 ust. i 2 oraz art. 43, które dniem Prezydent Rzeczypospolitej Polskiej: A. USTAWA dnia 6 grudnia 1996 r. o zmianie ustawy o podatkach i lokalnych i ustawy o finansowaniu gmin.
+**Art. 3.** W ustawie z dnia 4 lipca 1996 r. o zmianie ustaw o podatku rolnym, o lasach, o podatkach i opłatach lokalnych oraz o ochronie przyrody (Dz. U. Nr 91, poz. 409) w art. 3:
 
-**Art. 1.** W ustawie dnia 12 stycznia 1991 r. o podat kach i lokalnych (Dz. U. Nr 9, poz. 31 i Nr 101, poz. 444, 1992 r. Nr 21, poz. 86, 1994 r. Nr 123, poz. 600 oraz 1996 r. Nr 91, poz. 409) wprowadza zmiany:
-
-**Art. 2.** W ustawie dnia 10 grudnia 1993 r. o finan sowaniu gmin (Dz. U. Nr 129, poz. 600, 1994 r. Nr 105, poz. 509 oraz 1995 r. Nr 124, poz. 601 i Nr 154, poz. 794) wart. 14 dodaje ust. 5 i 6 brzmieniu: ,,5. Do obliczenia subwencji wyrównawczej dla gmin do 15000 przyjmuje jako docho dy podatku od do chody ze stawek uchwalonych dla te go podatku przez gminy. 6. o której mowa ust. 5, usta la 30 czerwca roku rok bazowy.".
-
-**Art. 3.** W ustawie dnia 4 lipca 1996 r. o zmianie ustawo podatku rolnym, o lasach, o podatkach i tach lokalnych oraz o ochronie przyrody (Dz. U. Nr 91, poz. 409) wart. 3:
-
-**Art. 4.** Ustawa wchodzi dniem tym
+**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia, z tym że:
 

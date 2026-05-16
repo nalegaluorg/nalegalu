@@ -8,9 +8,10 @@ pos: 1208
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 sierpnia 2024 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 1 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowej Sieci Onkologicznej
 
 | Pole | Wartość |
 |---|---|
@@ -24,42 +25,72 @@ domain: null
 | Ostatnia zmiana | 2024-08-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1208/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowej Sieci Onkologicznej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. poz. 650), z uwzględnieniem zmian wprowadzonych ustawą z dnia 22 lutego 2024 r. o zmianie ustawy o Krajowej Sieci Onkologicznej (Dz. U. poz. 414) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 lipca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. poz. 650), które stanowią: „Art. 41. W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2022 r. poz. 1731, 1733, 2731 i 2770 oraz z 2023 r. poz. 605) wprowadza się następujące zmiany:
-1) w art. 14e:
-a) w ust. 6 w zdaniu pierwszym skreśla się wyrazy „ , z zastrzeżeniem ust. 6a”,
-b) uchyla się ust. 6a;
-2) w art. 16c:
-a) w ust. 13c wyrazy „10 dni” zastępuje się wyrazami „5 dni”,
-b) w ust. 13e w zdaniu drugim skreśla się wyrazy „strony internetowej organu prowadzącego postępowanie kwalifikacyjne oraz”,
-c) w ust. 13f w zdaniu pierwszym wyrazy „10 dni” zastępuje się wyrazami „5 dni”;
-3) po art. 16c dodaje się art. 16ca w brzmieniu: „Art. 16ca. 1. W przypadku gdy po ogłoszeniu ostatecznych list lekarzy zakwalifikowanych i niezakwalifikowanych do odbywania szkolenia specjalizacyjnego pozostaną niewykorzystane miejsca rezydenckie, o których mowa w art. 16e ust. 2, minister właściwy do spraw zdrowia może podjąć decyzję o przeprowadzeniu dodatkowego etapu postępowania kwalifikacyjnego.
-2. Minister właściwy do spraw zdrowia informuje na stronie internetowej obsługującego go urzędu o przeprowadzeniu albo nieprzeprowadzeniu dodatkowego etapu postępowania kwalifikacyjnego, w terminie 5 dni od dnia ogłoszenia ostatecznych list lekarzy zakwalifikowanych i niezakwalifikowanych do odbywania szkolenia specjalizacyjnego. Informując o przeprowadzeniu dodatkowego etapu postępowania kwalifikacyjnego, minister właściwy do spraw zdrowia podaje termin ogłoszenia list lekarzy zakwalifikowanych i niezakwalifikowanych do szkolenia specjalizacyjnego po dodatkowym etapie.
-3. W dodatkowym etapie postępowania kwalifikacyjnego przyznawane są wyłącznie miejsca rezydenckie w priorytetowych dziedzinach medycyny w ramach wolnych miejsc szkoleniowych, o których mowa w art. 16e ust. 3, niewykorzystanych w danym postępowaniu kwalifikacyjnym, w liczbie nieprzekraczającej liczby niewykorzystanych miejsc rezydenckich.
-4. W dodatkowym etapie postępowania kwalifikacyjnego biorą udział lekarze niezakwalifikowani do odbywania szkolenia specjalizacyjnego w danym postępowaniu kwalifikacyjnym, którzy wskazali co najmniej jeden wariant wyboru obejmujący priorytetową dziedzinę medycyny w trybie rezydenckim i nie zostali zakwalifikowani na ten wariant w ramach pierwszego albo drugiego etapu postępowania kwalifikacyjnego.
-5. W dodatkowym etapie postępowania kwalifikacyjnego lekarz nie może zostać zakwalifikowany w ramach wariantów wyboru dotyczących miejsc, na które został już zakwalifikowany w pierwszym lub drugim etapie postępowania, i których przyjęcia lekarz nie potwierdził.
-6. Dodatkowy etap postępowania kwalifikacyjnego przeprowadza dyrektor CMKP za pomocą SMK.
-7. Do przeprowadzania dodatkowego etapu postępowania kwalifikacyjnego stosuje się odpowiednio przepisy dotyczące przeprowadzania pierwszego i drugiego etapu postępowania kwalifikacyjnego.
-8. W przypadku gdy liczba lekarzy, którzy mogą zostać zakwalifikowani w dodatkowym etapie postępowania kwalifikacyjnego w ramach miejsc szkoleniowych, o których mowa w art. 16e ust. 3, niewykorzystanych w danym postępowaniu kwalifikacyjnym, jest większa niż liczba niewykorzystanych miejsc rezydenckich, dyrektor CMKP określa minimalny wynik postępowania, w tym średnią arytmetyczną ocen z egzaminów w okresie studiów oraz czas złożenia wniosku, jaki należało uzyskać, aby zostać zakwalifikowanym w dodatkowym etapie postępowania kwalifikacyjnego, tak aby liczba osób zakwalifikowanych w tym etapie nie przekroczyła liczby niewykorzystanych miejsc rezydenckich.
-9. W przypadku przeprowadzenia dodatkowego etapu postępowania kwalifikacyjnego, w pierwszej kolejności do odbywania szkolenia specjalizacyjnego kieruje się lekarzy zakwalifikowanych w pierwszym i drugim etapie postępowania kwalifikacyjnego.”.
-Art. 41–45. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja i zasady funkcjonowania Krajowej Sieci Onkologicznej Rozdział 3 – Zasady i sposób monitorowania jakości opieki onkologicznej Rozdział 4 – Zasady funkcjonowania i zadania Krajowej Rady Onkologicznej Rozdział 5 – Zasady i tryb finansowania Krajowej Sieci Onkologicznej Rozdział 6 – Zasady prowadzenia diagnostyki onkologicznej i leczenia onkologicznego na podstawie karty diagnostyki i leczenia onkologicznego Rozdział 7 – Zmiany w przepisach Rozdział 8 – Przepisy dostosowujące i przejściowe oraz przepis końcowy
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. poz. 650), z uwzględnieniem zmian wprowadzonych ustawą z dnia 22 lutego 2024 r. o zmianie ustawy o Krajowej Sieci Onkologicznej (Dz. U. poz. 414) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 lipca 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. poz. 650), które stanowią:
+„
+(pominięte)
+
+**Art. 41.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2022 r. poz. 1731, 1733, 2731 i 2770 oraz z 2023 r. poz. 605) wprowadza się następujące zmiany:
 
 **Art. 42.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2023 r. poz. 318) wprowadza się następujące zmiany:
 
-**Art. 43.** W ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605) wprowadza się następujące zmiany:
+**Art. 43.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605) wprowadza się następujące zmiany:
 
 **Art. 44.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770 oraz z 2023 r. poz. 605) wprowadza się następujące zmiany:
 
+**Art. 138.** Do zawierania umów o udzielanie świadczeń opieki zdrowotnej nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, z wyjątkiem umowy, o której mowa w art. 15 ust. 2a. ” .
+
 **Art. 45.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555, 2280 i 2705) wprowadza się następujące zmiany:
+
+**Art. 11a.**
+
+1. System Krajowej Sieci Onkologicznej stanowi moduł SIM umożliwiający generowanie raportów o poziomie jakości opieki onkologicznej w ramach Krajowej Sieci Onkologicznej, o której mowa w art. 3 ust. 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej.
+
+2. W systemie Krajowej Sieci Onkologicznej są przetwarzane dane przekazywane do tego systemu przez podmioty wchodzące w skład Krajowej Sieci Onkologicznej, o których mowa w art. 26 ust. 3 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej.
+
+3. W systemie Krajowej Sieci Onkologicznej przetwarzane się również dane:
+
+- **1)** zawarte w wyniku badania histopatologicznego, o którym mowa w art. 11 ust. 5 pkt 2;
+- **2)** zdarzenia medycznego przetwarzanego w systemie informacji dotyczące usługobiorcy objętego opieką onkologiczną w rozumieniu art. 2 pkt 9 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej;
+- **3)** o udzielonych i planowanych świadczeniach opieki zdrowotnej finansowanych ze środków publicznych przetwarzane w Systemie RUM – NFZ, o którym mowa w art. 22 ust. 1, dotyczące usługobiorcy objętego opieką onkologiczną w rozumieniu art. 2 pkt 9 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej.
+
+4. Raporty o poziomie jakości opieki onkologicznej, o których mowa w ust. 1, mogą być generowane z systemu Krajowej Sieci Onkologicznej przez:
+
+- **1)** ministra właściwego do spraw zdrowia;
+- **2)** Narodowy Fundusz Zdrowia;
+- **3)** podmiot wchodzący w skład Krajowej Sieci Onkologicznej, o której mowa w art. 3 ust. 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej, w zakresie danych dotyczących opieki onkologicznej sprawowanej w tym podmiocie w celu realizacji jego zadań określonych w ustawie z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej;
+- **4)** Krajowy Ośrodek Monitorujący, o którym mowa w art. 21 pkt 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej;
+- **5)** Wojewódzki Ośrodek Monitorujący, o którym mowa w art. 21 pkt 2 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej, w zakresie danych dotyczących opieki onkologicznej sprawowanej w podmiotach wchodzących w skład Krajowej Sieci Onkologicznej, o której mowa w art. 3 ust. 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej, funkcjonujących na terenie województwa.
+
+5. Nieprzetworzone dane źródłowe o prowadzonej opiece onkologicznej są udostępniane z systemu Krajowej Sieci Onkologicznej:
+
+- **1)** Narodowemu Funduszowi Zdrowia – w zakresie niezbędnym do: monitorowania jakości opieki onkologicznej prowadzonej przez podmioty wchodzące w skład Krajowej Sieci Onkologicznej, o której mowa w art. 3 ust. 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej, weryfikacji spełniania przez podmioty wykonujące działalność leczniczą zakwalifikowane do Krajowej Sieci Onkologicznej kryteriów, o których mowa w art. 13 ust. 1 i 2, oraz kryteriów określonych w przepisach wydanych na podstawie art. 13 ust. 3 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej, weryfikacji spełniania przez podmioty, o których mowa w lit. a, odpowiedniego poziomu wskaźników jakości opieki onkologicznej, decydującego o zakresach świadczeń opieki onkologicznej kwalifikujących się do finansowania ze środków publicznych w ramach Krajowej Sieci Onkologicznej oraz do kwalifikacji tych podmiotów na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o której mowa w art. 3 ust. 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** Krajowemu Ośrodkowi Monitorującemu, o którym mowa w art. 21 pkt 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej – w zakresie niezbędnym do realizacji zadań, o których mowa w art. 22 ust. 2 tej ustawy;
+- **3)** Wojewódzkiemu Ośrodkowi Monitorującemu, o którym mowa w art. 21 pkt 2 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej – w zakresie niezbędnym do realizacji zadań, o których mowa w art. 23 ust. 2 tej ustawy.
+
+6. Dane zawarte w systemie Krajowej Sieci Onkologicznej mogą być udostępniane w celu prowadzenia badań naukowych i do celów statystycznych w sposób uniemożliwiający ich powiązanie z konkretną osobą fizyczną. ” ;
+
+- **5)** w art. 12 w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
+- **11)** obliczania wskaźników jakości opieki onkologicznej i generowania na podstawie tych informacji raportów o poziomie jakości opieki onkologicznej w ramach Krajowej Sieci Onkologicznej, o której mowa w art. 3 ust. 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej. ” ;
+- **6)** w art. 19 w ust. 12a wyrazy „w art. 31n pkt 1–3d, 4a i 4b” zastępuje się wyrazami „w art. 31n pkt 1–3d i 4a-4d”. ” ;
+- **2)** art. 2 ustawy z dnia 22 lutego 2024 r. o zmianie ustawy o Krajowej Sieci Onkologicznej (Dz. U. poz. 414), który stanowi: „
+
+**Art. 2.** Ustawa wchodzi w życie z dniem 31 marca 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
-
-**Art. 2.** Użyte w ustawie określenia oznaczają:
 
 #### Rozdział 2 Organizacja i zasady funkcjonowania Krajowej Sieci Onkologicznej
 
@@ -69,10 +100,10 @@ Art. 41–45. (pominięte)
 
 2. Krajowa Sieć Onkologiczna obejmuje następujące poziomy zabezpieczenia opieki onkologicznej:
 
-- **1)** Specjalistyczny Ośrodek Leczenia Onkologicznego, zwany dalej „SOLO”:
-    - **a)** I poziomu,
-    - **b)** II poziomu,
-    - **c)** III poziomu;
+- **1)** Specjalistyczny Ośrodek Leczenia Onkologicznego, zwany dalej „SOLO”: I poziomu, II poziomu, III poziomu;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** Ośrodki Kooperacyjne.
 
@@ -89,9 +120,7 @@ Art. 41–45. (pominięte)
 
 4. W strukturze SOLO II poziomu i SOLO III poziomu może funkcjonować Centrum Kompetencji wyspecjalizowane w diagnostyce onkologicznej i leczeniu onkologicznym określonego rodzaju nowotworu lub grupy nowotworów, zapewniające kompleksową realizację procesu diagnostyki onkologicznej, leczenia onkologicznego i monitorowania, w ramach którego jest realizowana wielospecjalistyczna opieka nad świadczeniobiorcą, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2, 3, 15, 16 i 17a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-**Art. 5.**
-
-- **1)** Podmioty wykonujące działalność leczniczą niewchodzące w skład Krajowej Sieci Onkologicznej nie są uprawnione do realizacji opieki onkologicznej w ramach zawartej z Funduszem umowy o udzielanie świadczeń opieki zdrowotnej.
+**Art. 5.** Podmioty wykonujące działalność leczniczą niewchodzące w skład Krajowej Sieci Onkologicznej nie są uprawnione do realizacji opieki onkologicznej w ramach zawartej z Funduszem umowy o udzielanie świadczeń opieki zdrowotnej.
 
 **Art. 6.**
 
@@ -134,9 +163,9 @@ Art. 41–45. (pominięte)
 
 2. SOLO III poziomu:
 
-- **1)** organizuje wielodyscyplinarne zespoły terapeutyczne dla świadczeniobiorców objętych opieką onkologiczną:
-    - **a)** SOLO III poziomu oraz
-    - **b)** SOLO I poziomu, w miejscu udzielania świadczeń opieki zdrowotnej przez SOLO I poziomu lub za pośrednictwem systemów teleinformatycznych;
+- **1)** organizuje wielodyscyplinarne zespoły terapeutyczne dla świadczeniobiorców objętych opieką onkologiczną: SOLO III poziomu oraz SOLO I poziomu, w miejscu udzielania świadczeń opieki zdrowotnej przez SOLO I poziomu lub za pośrednictwem systemów teleinformatycznych;
+    - **a)**
+    - **b)**
 
 - **2)** realizuje plan leczenia onkologicznego świadczeniobiorcy objętego opieką onkologiczną SOLO III poziomu;
 - **3)** wyznacza koordynatora oraz udziela merytorycznego wsparcia koordynatorowi wyznaczonemu przez SOLO I poziomu;
@@ -177,9 +206,9 @@ Art. 41–45. (pominięte)
 
 3. Prezes Funduszu wydaje, w terminie 21 dni od dnia otrzymania protestu, decyzję o:
 
-- **1)** uwzględnieniu protestu oraz:
-    - **a)** zakwalifikowaniu świadczeniodawcy na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej albo
-    - **b)** zmianie kwalifikacji świadczeniodawcy na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej albo
+- **1)** uwzględnieniu protestu oraz: zakwalifikowaniu świadczeniodawcy na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej albo zmianie kwalifikacji świadczeniodawcy na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej albo
+    - **a)**
+    - **b)**
 
 - **2)** odmowie uwzględnienia protestu.
 
@@ -196,19 +225,17 @@ Art. 41–45. (pominięte)
 - **1)** zostały wniesione po terminie,
 - **2)** nie spełniają wymagań określonych odpowiednio w ust. 1, 2 i 4 o czym Prezes Funduszu albo minister właściwy do spraw zdrowia informuje na piśmie świadczeniodawcę wnoszącego protest albo odwołanie, w terminie 7 dni od dnia wniesienia protestu albo odwołania.
 
-7. W przypadku, o którym mowa w ust. 6, Prezes Funduszu albo minister właściwy do spraw zdrowia wydaje postanowienie w przedmiocie nierozpatrzenia protestu albo odwołania, na które służy zażalenie, do którego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+7. W przypadku, o którym mowa w ust. 6, Prezes Funduszu albo minister właściwy do spraw zdrowia wydaje postanowienie w przedmiocie nierozpatrzenia protestu albo odwołania, na które służy zażalenie, do którego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 8. Terminy, o których mowa w ust. 1 i 4, uznaje się za zachowane pod warunkiem wpływu protestu lub odwołania niezawierającego braków formalnych do siedziby centrali Funduszu albo siedziby urzędu obsługującego ministra właściwego do spraw zdrowia przed ich upływem.
 
 9. W przypadku wydania decyzji, o której mowa w ust. 3 pkt 1, oraz w przypadku decyzji uwzględniającej odwołanie w następstwie decyzji, o której mowa w ust. 5 pkt 2, Prezes Funduszu dokonuje odpowiedniej zmiany wykazu, o którym mowa w art. 9 ust. 4.
 
-**Art. 11.**
-
 1. Prezes Funduszu w przypadkach:
 
-- **1)** stwierdzenia niespełniania przez podmiot wykonujący działalność leczniczą kryteriów, o których mowa w art. 13 ust. 1 i 2, oraz kryteriów określonych w przepisach wydanych na podstawie art. 13 ust. 3, po ogłoszeniu wykazu, o którym mowa w art. 9 ust. 4 usuwa podmiot wykonujący działalność leczniczą z tego wykazu albo kwalifikuje go na inny poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej;
-- **2)** włączenia do Krajowej Sieci Onkologicznej nowych Ośrodków Satelitarnych lub wyłączenia Ośrodka Satelitarnego objętego wykazem dokonuje odpowiedniej zmiany wykazu, o którym mowa w art. 9 ust. 4;
-- **3)** stwierdzenia nieosiągnięcia przez podmiot wykonujący działalność leczniczą wartości kluczowych wskaźników jakości opieki onkologicznej wskazanych w planie naprawczym Krajowej Sieci Onkologicznej, o którym mowa w art. 18 ust. 3 usuwa podmiot wykonujący działalność leczniczą z wykazu, o którym mowa w art. 9 ust. 4.
+- **1)** stwierdzenia niespełniania przez podmiot wykonujący działalność leczniczą kryteriów, o których mowa w art. 13 ust. 1 i 2, oraz kryteriów określonych w przepisach wydanych na podstawie art. 13 ust. 3, po ogłoszeniu wykazu, o którym mowa w art. 9 ust. 4 – usuwa podmiot wykonujący działalność leczniczą z tego wykazu albo kwalifikuje go na inny poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej;
+- **2)** włączenia do Krajowej Sieci Onkologicznej nowych Ośrodków Satelitarnych lub wyłączenia Ośrodka Satelitarnego objętego wykazem – dokonuje odpowiedniej zmiany wykazu, o którym mowa w art. 9 ust. 4;
+- **3)** stwierdzenia nieosiągnięcia przez podmiot wykonujący działalność leczniczą wartości kluczowych wskaźników jakości opieki onkologicznej wskazanych w planie naprawczym Krajowej Sieci Onkologicznej, o którym mowa w art. 18 ust. 3 – usuwa podmiot wykonujący działalność leczniczą z wykazu, o którym mowa w art. 9 ust. 4.
 
 2. Do postępowania, o którym mowa w ust. 1, przepisy art. 10 stosuje się odpowiednio.
 
@@ -232,24 +259,22 @@ Art. 41–45. (pominięte)
 
 2. Wyniki weryfikacji, o której mowa w art. 9 ust. 1 pkt 2, decydują o:
 
-- **1)** pozostaniu świadczeniodawcy na danym poziomie zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej w przypadku spełniania kryteriów warunkujących przynależność do danego poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, na który podmiot był zakwalifikowany;
-- **2)** zmianie poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej świadczeniodawcy na wyższy poziom w przypadku spełniania kryteriów warunkujących przynależność do wyższego poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej niż poziom, na który podmiot był zakwalifikowany;
-- **3)** zmianie poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej świadczeniodawcy na niższy poziom w przypadku spełniania kryteriów warunkujących przynależność do niższego poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej niż poziom, na który podmiot był zakwalifikowany;
-- **4)** wyłączeniu świadczeniodawcy z Krajowej Sieci Onkologicznej w przypadku niespełniania kryteriów warunkujących przynależność do któregokolwiek z poziomów zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej.
+- **1)** pozostaniu świadczeniodawcy na danym poziomie zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej – w przypadku spełniania kryteriów warunkujących przynależność do danego poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, na który podmiot był zakwalifikowany;
+- **2)** zmianie poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej świadczeniodawcy na wyższy poziom – w przypadku spełniania kryteriów warunkujących przynależność do wyższego poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej niż poziom, na który podmiot był zakwalifikowany;
+- **3)** zmianie poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej świadczeniodawcy na niższy poziom – w przypadku spełniania kryteriów warunkujących przynależność do niższego poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej niż poziom, na który podmiot był zakwalifikowany;
+- **4)** wyłączeniu świadczeniodawcy z Krajowej Sieci Onkologicznej – w przypadku niespełniania kryteriów warunkujących przynależność do któregokolwiek z poziomów zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej.
 
 3. Po weryfikacji, o której mowa w art. 9 ust. 1 pkt 2, Prezes Funduszu ogłasza nowy wykaz, o którym mowa w art. 9 ust. 4. Przepisy art. 9 ust. 2 i 5, art. 10 oraz art. 12 stosuje się odpowiednio.
 
 **Art. 15.**
 
-1. Podmiot wykonujący działalność leczniczą, który nie znajduje się w wykazie, o którym mowa w art. 9 ust. 4, może wystąpić do Prezesa Funduszu z wnioskiem o warunkową kwalifikację do Krajowej Sieci Onkologicznej, jeżeli spełnia odpowiednio kryteria, o których mowa w art. 13 ust. 1 pkt 1 i 2 w przypadku SOLO poziomu I, SOLO poziomu II albo SOLO poziomu III, oraz art. 13 ust. 2 w przypadku Ośrodka Kooperacyjnego.
+1. Podmiot wykonujący działalność leczniczą, który nie znajduje się w wykazie, o którym mowa w art. 9 ust. 4, może wystąpić do Prezesa Funduszu z wnioskiem o warunkową kwalifikację do Krajowej Sieci Onkologicznej, jeżeli spełnia odpowiednio kryteria, o których mowa w art. 13 ust. 1 pkt 1 i 2 – w przypadku SOLO poziomu I, SOLO poziomu II albo SOLO poziomu III, oraz art. 13 ust. 2 – w przypadku Ośrodka Kooperacyjnego.
 
 2. Do warunkowej kwalifikacji, o której mowa w ust. 1, stosuje się odpowiednio art. 9 ust. 1–4, art. 10 oraz art. 12.
 
 3. Po dokonaniu warunkowej kwalifikacji, o której mowa w ust. 1, Prezes Funduszu dokonuje odpowiedniej zmiany wykazu, o którym mowa w art. 9 ust. 4.
 
-4. Podmiot zakwalifikowany do Krajowej Sieci Onkologicznej warunkowo, u którego w trakcie weryfikacji, o której mowa w art. 9 ust. 1 pkt 2, nie zostanie potwierdzone spełnienie kryteriów, o których mowa w art. 13 ust. 1 i 2, oraz kryteriów określonych w przepisach wydanych na podstawie art. 13 ust. 3, podlega wyłączeniu z Krajowej Sieci Onkologicznej i ma prawo złożyć wniosek o kolejną warunkową kwalifikację nie wcześniej niż po upływie 2 lat od dnia ogłoszenia wykazu, o którym mowa w art. 14 ust. 3.
-
-**Art. 16.** Wielodyscyplinarne zespoły terapeutyczne, o których mowa w art. 7 ust. 2 pkt 1 oraz art. 8 ust. 2 pkt 1, mogą ustalać plan leczenia onkologicznego za pośrednictwem systemów teleinformatycznych, przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość, pod warunkiem jej przeprowadzenia w czasie rzeczywistym, za pośrednictwem transmisji audiowizualnej.
+4. Podmiot zakwalifikowany do Krajowej Sieci Onkologicznej warunkowo, u którego w trakcie weryfikacji, o której mowa w art. 9 ust. 1 pkt 2, nie zostanie potwierdzone spełnienie kryteriów, o których mowa w art. 13 ust. 1 i 2, oraz kryteriów określonych w przepisach wydanych na podstawie art. 13 ust. 3, podlega wyłączeniu z Krajowej Sieci Onkologicznej i ma prawo złożyć wniosek o kolejną warunkową kwalifikację nie wcześniej niż po upływie 2 lat od dnia ogłoszenia wykazu, o którym mowa w art. 14 ust. 3. Wielodyscyplinarne zespoły terapeutyczne, o których mowa w art. 7 ust. 2 pkt 1 oraz art. 8 ust. 2 pkt 1, mogą ustalać plan leczenia onkologicznego za pośrednictwem systemów teleinformatycznych, przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość, pod warunkiem jej przeprowadzenia w czasie rzeczywistym, za pośrednictwem transmisji audiowizualnej.
 
 **Art. 17.**
 
@@ -291,33 +316,33 @@ Art. 41–45. (pominięte)
 
 4. W zakresie niezbędnym do realizacji zadań, o których mowa w ust. 2, w infolinii onkologicznej przetwarza się dane obejmujące:
 
-- **1)** oznaczenie świadczeniobiorcy:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** adres miejsca zamieszkania (ulica, numer domu i lokalu, kod pocztowy, miejscowość),
-    - **c)** numer PESEL, jeżeli został nadany, a w przypadku osób, które nie mają nadanego numeru PESEL rodzaj i numer dokumentu potwierdzającego tożsamość, a w przypadku noworodka numer PESEL jednego z rodziców lub opiekuna prawnego, numer kolejny noworodka oraz datę jego urodzenia i oznaczenie płci,
-    - **d)** w przypadku gdy świadczeniobiorcą jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody imię (imiona) i nazwisko przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581) oraz adres jego miejsca zamieszkania,
-    - **e)** numer telefonu, jeżeli świadczeniobiorca go posiada,
-    - **f)** adres poczty elektronicznej, jeżeli świadczeniobiorca go posiada;
+- **1)** oznaczenie świadczeniobiorcy: imię (imiona) i nazwisko, adres miejsca zamieszkania (ulica, numer domu i lokalu, kod pocztowy, miejscowość), numer PESEL, jeżeli został nadany, a w przypadku osób, które nie mają nadanego numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość, a w przypadku noworodka – numer PESEL jednego z rodziców lub opiekuna prawnego, numer kolejny noworodka oraz datę jego urodzenia i oznaczenie płci, w przypadku gdy świadczeniobiorcą jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody – imię (imiona) i nazwisko przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581) oraz adres jego miejsca zamieszkania, numer telefonu, jeżeli świadczeniobiorca go posiada, adres poczty elektronicznej, jeżeli świadczeniobiorca go posiada;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **2)** dane świadczeniodawcy, który będzie udzielał świadczeń opieki zdrowotnej danemu świadczeniobiorcy w ramach Krajowej Sieci Onkologicznej:
-    - **a)** nazwa i adres świadczeniodawcy,
-    - **b)** miejsce udzielania świadczeń opieki zdrowotnej,
-    - **c)** numer telefonu,
-    - **d)** adres poczty elektronicznej,
-    - **e)** imię (imiona) i nazwisko lekarza, który ma udzielić świadczeń opieki zdrowotnej;
+- **2)** dane świadczeniodawcy, który będzie udzielał świadczeń opieki zdrowotnej danemu świadczeniobiorcy w ramach Krajowej Sieci Onkologicznej: nazwa i adres świadczeniodawcy, miejsce udzielania świadczeń opieki zdrowotnej, numer telefonu, adres poczty elektronicznej, imię (imiona) i nazwisko lekarza, który ma udzielić świadczeń opieki zdrowotnej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **3)** oznaczenie terminu, w którym danemu świadczeniobiorcy mają zostać udzielone świadczenia opieki zdrowotnej, wynikającego z harmonogramu przyjęć, o którym mowa w art. 19a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 - **4)** nazwę i adres miejsca udzielania świadczeń opieki zdrowotnej;
-- **5)** dane koordynatora:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** numer telefonu służbowego,
-    - **c)** adres służbowej poczty elektronicznej;
+- **5)** dane koordynatora: imię (imiona) i nazwisko, numer telefonu służbowego, adres służbowej poczty elektronicznej;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **6)** dane świadczeniodawców innych niż wskazanych w pkt 2, którzy udzielają świadczeń opieki zdrowotnej w ramach Krajowej Sieci Onkologicznej:
-    - **a)** nazwa i adres świadczeniodawcy,
-    - **b)** miejsce udzielania świadczeń opieki zdrowotnej,
-    - **c)** numer telefonu,
-    - **d)** adres poczty elektronicznej wraz z oznaczeniem dostępnych terminów;
+- **6)** dane świadczeniodawców innych niż wskazanych w pkt 2, którzy udzielają świadczeń opieki zdrowotnej w ramach Krajowej Sieci Onkologicznej: nazwa i adres świadczeniodawcy, miejsce udzielania świadczeń opieki zdrowotnej, numer telefonu, adres poczty elektronicznej wraz z oznaczeniem dostępnych terminów;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **7)** dane zawarte w informacji o skierowaniu do lekarza specjalisty lub szpitala, o których mowa w art. 59b ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
@@ -329,7 +354,7 @@ Art. 41–45. (pominięte)
 
 **Art. 22.**
 
-1. Funkcję KOM pełni Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie Państwowy Instytut Badawczy w Warszawie.
+1. Funkcję KOM pełni Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy w Warszawie.
 
 2. KOM:
 
@@ -380,50 +405,50 @@ Art. 41–45. (pominięte)
 
 - **1)** współpracują ze sobą w zakresie sprawowania opieki onkologicznej;
 - **2)** przekazują do systemu KSO dane, o których mowa w ust. 3;
-- **3)** do dnia 31 marca następnego roku, za rok poprzedni, publikują na stronie podmiotowej Biuletynu Informacji Publicznej lub na swojej stronie internetowej roczny raport o poziomie jakości opieki onkologicznej generowany z systemu KSO, zawierający informacje dotyczące:
-    - **a)** liczby i zakresu udzielanych świadczeń opieki zdrowotnej z zakresu opieki onkologicznej,
-    - **b)** osiągniętych wskaźników jakości opieki onkologicznej.
+- **3)** do dnia 31 marca następnego roku, za rok poprzedni, publikują na stronie podmiotowej Biuletynu Informacji Publicznej lub na swojej stronie internetowej roczny raport o poziomie jakości opieki onkologicznej generowany z systemu KSO, zawierający informacje dotyczące: liczby i zakresu udzielanych świadczeń opieki zdrowotnej z zakresu opieki onkologicznej, osiągniętych wskaźników jakości opieki onkologicznej.
+    - **a)**
+    - **b)**
 
 2. SOLO przekazuje do systemu KSO dane dotyczące działającego w jego strukturach Centrum Kompetencji i Ośrodka Satelitarnego, o których mowa w ust. 3.
 
 3. Podmioty wykonujące działalność leczniczą wchodzące w skład Krajowej Sieci Onkologicznej przetwarzają i przekazują do systemu KSO dane o sprawowanej opiece onkologicznej obejmujące:
 
-- **1)** dane świadczeniobiorcy:
-    - **a)** identyfikator usługobiorcy, o którym mowa w art. 17c ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
-    - **b)** identyfikator nadany według formatu: XXXXX-RRRR-NN, gdzie: XXXXX oznacza kolejny unikalny numer osoby w ramach kodu identyfikatora i roku, RRRR oznacza rok, NN stanowi niezmienną część tego identyfikatora w przypadku usługobiorcy, który nie posiada identyfikatora usługobiorcy, o którym mowa w art. 17c ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
-    - **c)** imię (imiona) i nazwisko,
-    - **d)** datę urodzenia i płeć, jeżeli usługobiorcy nie nadano numeru PESEL lub świadczenie zdrowotne jest udzielane na podstawie przepisów o koordynacji w rozumieniu art. 5 pkt 32 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
-    - **e)** numer telefonu oraz adres poczty elektronicznej, jeżeli posiada;
+- **1)** dane świadczeniobiorcy: identyfikator usługobiorcy, o którym mowa w art. 17c ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, identyfikator nadany według formatu: XXXXX-RRRR-NN, gdzie: – XXXXX – oznacza kolejny unikalny numer osoby w ramach kodu identyfikatora i roku, – RRRR – oznacza rok, – NN – stanowi niezmienną część tego identyfikatora – w przypadku usługobiorcy, który nie posiada identyfikatora usługobiorcy, o którym mowa w art. 17c ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, imię (imiona) i nazwisko, datę urodzenia i płeć, jeżeli usługobiorcy nie nadano numeru PESEL lub świadczenie zdrowotne jest udzielane na podstawie przepisów o koordynacji w rozumieniu art. 5 pkt 32 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, numer telefonu oraz adres poczty elektronicznej, jeżeli posiada;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **2)** dane podmiotu wykonującego działalność leczniczą wchodzącego w skład Krajowej Sieci Onkologicznej, a w przypadku, o którym mowa w art. 4 ust. 3 pkt 2, także dane podmiotu leczniczego, w ramach którego zorganizowany jest Ośrodek Satelitarny:
-    - **a)** numer księgi rejestrowej w rejestrze podmiotów wykonujących działalność leczniczą stanowiący część I systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
-    - **b)** numer REGON zakładu leczniczego, w którym udzielono świadczenia opieki zdrowotnej,
-    - **c)** oznaczenie Centrum Kompetencji jeżeli dotyczy,
-    - **d)** oznaczenie Ośrodka Satelitarnego jeżeli dotyczy;
+- **2)** dane podmiotu wykonującego działalność leczniczą wchodzącego w skład Krajowej Sieci Onkologicznej, a w przypadku, o którym mowa w art. 4 ust. 3 pkt 2, także dane podmiotu leczniczego, w ramach którego zorganizowany jest Ośrodek Satelitarny: numer księgi rejestrowej w rejestrze podmiotów wykonujących działalność leczniczą stanowiący część I systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, numer REGON zakładu leczniczego, w którym udzielono świadczenia opieki zdrowotnej, oznaczenie Centrum Kompetencji – jeżeli dotyczy, oznaczenie Ośrodka Satelitarnego – jeżeli dotyczy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **3)** dane miejsca udzielania świadczeń:
-    - **a)** identyfikator miejsca udzielania świadczenia opieki zdrowotnej, o którym mowa w art. 17c ust. 4 pkt 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
-    - **b)** niepowtarzalny kod identyfikujący jednostkę organizacyjną zakładu leczniczego w strukturze organizacyjnej podmiotu leczniczego stanowiący część V systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
-    - **c)** niepowtarzalny kod identyfikujący komórkę organizacyjną zakładu leczniczego podmiotu leczniczego w strukturze organizacyjnej podmiotu leczniczego stanowiący część VII systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **3)** dane miejsca udzielania świadczeń: identyfikator miejsca udzielania świadczenia opieki zdrowotnej, o którym mowa w art. 17c ust. 4 pkt 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, niepowtarzalny kod identyfikujący jednostkę organizacyjną zakładu leczniczego w strukturze organizacyjnej podmiotu leczniczego stanowiący część V systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, niepowtarzalny kod identyfikujący komórkę organizacyjną zakładu leczniczego podmiotu leczniczego w strukturze organizacyjnej podmiotu leczniczego stanowiący część VII systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **4)** dane pracownika medycznego udzielającego świadczeń opieki zdrowotnej w ramach opieki onkologicznej: UE L 235 z 09.09.2015, str. 1, z późn. zm. ) w przypadku pracownika medycznego, który nie posiada identyfikatora pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
-    - **a)** identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
-    - **b)** serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz.
-    - **c)** imię (imiona) i nazwisko,
-    - **d)** kod przynależności do danej grupy zawodowej określony zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **4)** dane pracownika medycznego udzielającego świadczeń opieki zdrowotnej w ramach opieki onkologicznej: identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.) – w przypadku pracownika medycznego, który nie posiada identyfikatora pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, imię (imiona) i nazwisko, kod przynależności do danej grupy zawodowej określony zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **5)** dane koordynatora:
-    - **a)** numer PESEL, jeżeli został nadany, a w przypadku osób, które nie mają nadanego numeru PESEL serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym,
-    - **b)** identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, jeżeli dotyczy,
-    - **c)** numer telefonu służbowego oraz adres służbowej poczty elektronicznej;
+- **5)** dane koordynatora: numer PESEL, jeżeli został nadany, a w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym, identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, jeżeli dotyczy, numer telefonu służbowego oraz adres służbowej poczty elektronicznej;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **6)** jednostkowe dane medyczne o:
-    - **a)** rozpoznaniu histopatologicznym,
-    - **b)** stopniu zaawansowania nowotworu,
-    - **c)** rodzaju i zakresie udzielonych świadczeń opieki zdrowotnej,
-    - **d)** wynikach leczenia,
-    - **e)** zdarzeniach niepożądanych zaistniałych w trakcie lub w efekcie udzielenia bądź zaniechania udzielenia świadczenia opieki zdrowotnej, powodujących lub mogących spowodować negatywny skutek dla zdrowia lub życia pacjenta, w szczególności zgon, uszczerbek na zdrowiu lub rozstrój zdrowia, chorobę, zagrożenie życia, konieczność hospitalizacji albo jej przedłużenia, a także uszkodzenie ciała lub rozstrój zdrowia płodu,
-    - **f)** powikłaniach;
+- **6)** jednostkowe dane medyczne o: rozpoznaniu histopatologicznym, stopniu zaawansowania nowotworu, rodzaju i zakresie udzielonych świadczeń opieki zdrowotnej, wynikach leczenia, zdarzeniach niepożądanych zaistniałych w trakcie lub w efekcie udzielenia bądź zaniechania udzielenia świadczenia opieki zdrowotnej, powodujących lub mogących spowodować negatywny skutek dla zdrowia lub życia pacjenta, w szczególności zgon, uszczerbek na zdrowiu lub rozstrój zdrowia, chorobę, zagrożenie życia, konieczność hospitalizacji albo jej przedłużenia, a także uszkodzenie ciała lub rozstrój zdrowia płodu, powikłaniach;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **7)** o posiadanych zasobach kadrowych, sprzętowych i infrastrukturalnych.
 
@@ -438,7 +463,7 @@ Art. 41–45. (pominięte)
 
 6. W przypadku gdy niewykonanie obowiązku, o którym mowa w ust. 5, jest następstwem siły wyższej albo nie nastąpiło z winy podmiotu wykonującego działalność leczniczą, podmiot ten jest obowiązany przekazać dane w terminie ustalonym z Funduszem.
 
-7. Roczny raport, o którym mowa w ust. 1 pkt 3, jest publikowany w podziale na województwa w Biuletynie Informacji Publicznej na stronie podmiotowej Funduszu w terminie do dnia 31 marca następnego roku, za rok poprzedni, oraz na poziomie krajowym przez ministra właściwego do spraw zdrowia w Biuletynie Informacji Publicznej na jego stronie podmiotowej, do dnia 30 czerwca następnego roku, za rok poprzedni.
+7. Roczny raport, o którym mowa w ust. 1 pkt 3, jest publikowany w podziale na województwa w Biuletynie Informacji Publicznej na stronie podmiotowej Funduszu w terminie do dnia 31 marca następnego roku, za rok poprzedni, oraz na poziomie krajowym – przez ministra właściwego do spraw zdrowia w Biuletynie Informacji Publicznej na jego stronie podmiotowej, do dnia 30 czerwca następnego roku, za rok poprzedni.
 
 8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
@@ -563,38 +588,38 @@ Art. 41–45. (pominięte)
 
 4. Karta diagnostyki i leczenia onkologicznego zawiera:
 
-- **1)** oznaczenie świadczeniobiorcy pozwalające na ustalenie jego tożsamości:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** adres miejsca zamieszkania (ulica, numer domu i lokalu, kod pocztowy, miejscowość),
-    - **c)** numer PESEL, jeżeli został nadany, a w przypadku osób, które nie mają nadanego numeru PESEL rodzaj i numer dokumentu potwierdzającego tożsamość, a w przypadku noworodka numer PESEL jednego z rodziców lub opiekuna prawnego, numer kolejny noworodka oraz datę urodzenia i oznaczenie płci,
-    - **d)** w przypadku gdy świadczeniobiorcą jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody imię (imiona) i nazwisko przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta oraz adres jego miejsca zamieszkania,
-    - **e)** podpis świadczeniobiorcy lub przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta,
-    - **f)** numer telefonu, jeżeli posiada,
-    - **g)** adres poczty elektronicznej, jeżeli posiada;
+- **1)** oznaczenie świadczeniobiorcy pozwalające na ustalenie jego tożsamości: imię (imiona) i nazwisko, adres miejsca zamieszkania (ulica, numer domu i lokalu, kod pocztowy, miejscowość), numer PESEL, jeżeli został nadany, a w przypadku osób, które nie mają nadanego numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość, a w przypadku noworodka – numer PESEL jednego z rodziców lub opiekuna prawnego, numer kolejny noworodka oraz datę urodzenia i oznaczenie płci, w przypadku gdy świadczeniobiorcą jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody – imię (imiona) i nazwisko przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta oraz adres jego miejsca zamieszkania, podpis świadczeniobiorcy lub przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, numer telefonu, jeżeli posiada, adres poczty elektronicznej, jeżeli posiada;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
 - **2)** oznaczenie świadczeniodawcy, w tym imię i nazwisko lekarza, który udzielił świadczeń opieki zdrowotnej;
 - **3)** nazwę podmiotu udzielającego świadczeń i adres miejsca udzielania świadczeń;
-- **4)** dane lekarza biorącego udział w ustaleniu planu leczenia onkologicznego:
-    - **a)** imię i nazwisko,
-    - **b)** numer prawa wykonywania zawodu;
+- **4)** dane lekarza biorącego udział w ustaleniu planu leczenia onkologicznego: imię i nazwisko, numer prawa wykonywania zawodu;
+    - **a)**
+    - **b)**
 
-- **5)** dane koordynatora:
-    - **a)** imię i nazwisko, numer PESEL, jeżeli został nadany, a w przypadku osób, które nie mają nadanego numeru PESEL rodzaj i numer dokumentu potwierdzającego tożsamość,
-    - **b)** numer telefonu służbowego,
-    - **c)** adres służbowej poczty elektronicznej;
+- **5)** dane koordynatora: imię i nazwisko, numer PESEL, jeżeli został nadany, a w przypadku osób, które nie mają nadanego numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość, numer telefonu służbowego, adres służbowej poczty elektronicznej;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **6)** dane inne niż określone w pkt 1–5:
-    - **a)** datę sporządzenia karty diagnostyki i leczenia onkologicznego,
-    - **b)** datę decyzji o założeniu karty diagnostyki i leczenia onkologicznego,
-    - **c)** tryb wydania karty diagnostyki i leczenia onkologicznego,
-    - **d)** datę otrzymania karty diagnostyki i leczenia onkologicznego przez świadczeniobiorcę,
-    - **e)** dane o skierowaniu do podmiotów wykonujących działalność leczniczą wchodzących w skład Krajowej Sieci Onkologicznej,
-    - **f)** dane dotyczące diagnostyki onkologicznej,
-    - **g)** rozpoznanie,
-    - **h)** dane dotyczące oceny jakości diagnostyki onkologicznej,
-    - **i)** dane dotyczące planu leczenia onkologicznego,
-    - **j)** dane dotyczące leczenia onkologicznego,
-    - **k)** unikalny numer identyfikujący karty diagnostyki i leczenia onkologicznego.
+- **6)** dane inne niż określone w pkt 1–5: datę sporządzenia karty diagnostyki i leczenia onkologicznego, datę decyzji o założeniu karty diagnostyki i leczenia onkologicznego, tryb wydania karty diagnostyki i leczenia onkologicznego, datę otrzymania karty diagnostyki i leczenia onkologicznego przez świadczeniobiorcę, dane o skierowaniu do podmiotów wykonujących działalność leczniczą wchodzących w skład Krajowej Sieci Onkologicznej, dane dotyczące diagnostyki onkologicznej, rozpoznanie, dane dotyczące oceny jakości diagnostyki onkologicznej, dane dotyczące planu leczenia onkologicznego, dane dotyczące leczenia onkologicznego, unikalny numer identyfikujący karty diagnostyki i leczenia onkologicznego.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
 
 5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór karty diagnostyki i leczenia onkologicznego, mając na celu zapewnienie właściwego przepływu informacji dotyczących realizacji diagnostyki onkologicznej lub leczenia onkologicznego.
 
@@ -616,9 +641,7 @@ Art. 41–45. (pominięte)
 
 **Art. 50.** Wskaźniki jakości opieki onkologicznej, o których mowa w art. 17, zostaną obliczone po raz pierwszy dla:
 
-**Art. 51.**
-
-- **5)** Wyniki i wnioski z analizy, o której mowa w art. 22 ust. 2 pkt 2, oraz raporty, o których mowa w art. 23 ust. 2 pkt 2, są sporządzane po raz pierwszy za 2025 r.
+**Art. 51.** Wyniki i wnioski z analizy, o której mowa w art. 22 ust. 2 pkt 2, oraz raporty, o których mowa w art. 23 ust. 2 pkt 2, są sporządzane po raz pierwszy za 2025 r.
 
 **Art. 52.** Usługodawcy są obowiązani zamieszczać w systemie, o którym mowa w art. 5 ust. 1 pkt 1 ustawy zmienianej w art. 45, wyniki badań histopatologicznych, o których mowa w art. 11 ust. 5 pkt 2 ustawy zmienianej w art. 45 w brzmieniu nadanym niniejszą ustawą, po upływie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -628,9 +651,7 @@ Art. 41–45. (pominięte)
 
 2. Podmioty wykonujące działalność leczniczą wchodzące w skład Krajowej Sieci Onkologicznej są obowiązane do przekazywania do systemu Krajowej Sieci Onkologicznej, o którym mowa w art. 11a ust. 1 ustawy zmienianej w art. 45, danych o sprawowanej opiece onkologicznej, o których mowa w art. 26 ust. 3, od dnia 1 kwietnia 2025 r.
 
-**Art. 54.**
-
-- **7)** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32b ust. 5 ustawy zmienianej w art. 44 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 40 ust. 5 niniejszej ustawy, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+**Art. 54.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32b ust. 5 ustawy zmienianej w art. 44 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 40 ust. 5 niniejszej ustawy, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 55.**
 
@@ -644,7 +665,7 @@ Art. 41–45. (pominięte)
 
 2. Pierwsza kwalifikacja na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o którym mowa w art. 3 ust. 2, zostanie przeprowadzona do dnia 31 marca 2025 r.
 
-3. Prezes Narodowego Funduszu Zdrowia dokonuje pierwszej kwalifikacji podmiotów leczniczych na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o którym mowa w art. 3 ust. 2, w oparciu o dane przetwarzane w Systemie RUM NFZ, o którym mowa w art. 22 ust. 1 ustawy zmienianej w art. 45, oraz w dedykowanych serwisach internetowych lub usługach informatycznych, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy zmienianej w art. 44.
+3. Prezes Narodowego Funduszu Zdrowia dokonuje pierwszej kwalifikacji podmiotów leczniczych na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o którym mowa w art. 3 ust. 2, w oparciu o dane przetwarzane w Systemie RUM – NFZ, o którym mowa w art. 22 ust. 1 ustawy zmienianej w art. 45, oraz w dedykowanych serwisach internetowych lub usługach informatycznych, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy zmienianej w art. 44.
 
 4. Wykaz, o którym mowa w art. 9 ust. 4, jest ogłaszany po raz pierwszy w dniu następującym po dniu zakończenia kwalifikacji, o której mowa w ust. 2.
 
@@ -654,5 +675,5 @@ Art. 41–45. (pominięte)
 
 **Art. 57.** Umowy o udzielanie świadczeń opieki zdrowotnej:
 
-**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

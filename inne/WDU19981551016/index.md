@@ -8,6 +8,7 @@ pos: 1016
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu Mając na względzie: – zachowanie pamięci o ogromie ofiar, strat i szkód poniesionych przez Naród Polski w latach II wojny światowej i po jej zakończeniu, – patriotyczne tradycje zmagań Narodu Polskiego z okupantami, nazizmem i komunizmem, – czyny obywateli dokonywane na rzecz niepodległego bytu Państwa Polskiego i w obronie wolności oraz godności ludzkiej, – obowiązek ścigania zbrodni przeciwko pokojowi, ludzkości i zbrodni wojennych, – a także powinność zadośćuczynienia przez nasze państwo wszystkim pokrzywdzonym przez państwo łamiące prawa człowieka, jako wyraz naszego przekonania, że żadne bezprawne działania państwa przeciwko obywatelom nie mogą być chronione tajemnicą ani nie mogą ulec zapomnieniu – stanowi się, co następuje:

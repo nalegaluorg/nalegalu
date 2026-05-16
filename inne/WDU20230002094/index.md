@@ -1,0 +1,443 @@
+---
+title: "Obwieszczenie Ministra Edukacji i Nauki z dnia 21 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji i Nauki w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy"
+address: WDU20230002094
+eli: DU/2023/2094
+publisher: DU
+year: 2023
+pos: 2094
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 21 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji i Nauki w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2094 |
+| ISAP | WDU20230002094 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-09-21 |
+| Data wydania | 2023-10-02 |
+| Ostatnia zmiana | 2026-03-02 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2094/text.pdf) |
+
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Edukacji i Nauki z dnia 21 marca 2022 r. w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji i Nauki z dnia 21 marca 2022 r. w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 645), z uwzględnieniem zmian wprowadzonych:
+1)
+rozporządzeniem Ministra Edukacji i Nauki z dnia 8 kwietnia 2022 r. zmieniającym rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 795);
+2)
+rozporządzeniem Ministra Edukacji i Nauki z dnia 13 maja 2022 r. zmieniającym rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 1047);
+3)
+rozporządzeniem Ministra Edukacji i Nauki z dnia 11 sierpnia 2022 r. zmieniającym rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 1711);
+4)
+rozporządzeniem Ministra Edukacji i Nauki z dnia 11 października 2022 r. zmieniającym rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 2103);
+5)
+rozporządzeniem Ministra Edukacji i Nauki z dnia 13 lipca 2023 r. zmieniającym rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 1367).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1)
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 8 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 795), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 6 w zakresie § 11a, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” ;
+2)
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 13 maja 2022 r. zmieniającego rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 1047), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” ;
+3)
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 11 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 1711), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” ;
+4)
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 11 października 2022 r. zmieniającego rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 2103), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” ;
+5)
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 13 lipca 2023 r. zmieniającego rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 1367), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” .
+Załącznik – Rozporządzenie Ministra Edukacji i Nauki z dnia 21 marca 2022 r. w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy
+Na podstawie art. 59 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2023 r. poz. 103, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa organizację kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa.
+§ 2.
+1.
+W roku szkolnym 2021/2022 w przypadku uczniów realizujących obowiązek szkolny będących obywatelami Ukrainy, o których mowa w § 1, deklarację, o której mowa w § 11kzzc ust. 1 rozporządzenia Ministra Edukacji Narodowej z dnia 20 marca 2020 r. w sprawie szczególnych rozwiązań w okresie czasowego ograniczenia funkcjonowania jednostek systemu oświaty w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 493, z późn. zm.), składa się w terminie do dnia 11 kwietnia 2022 r. Deklarację wypełnia się tylko w zakresie języka obcego nowożytnego, z którego uczeń przystąpi do egzaminu ósmoklasisty.
+2.
+Dyrektor szkoły, na podstawie złożonych deklaracji, o których mowa w ust. 1, sporządza wykaz uczniów będących obywatelami Ukrainy, o których mowa w § 1, przystępujących do egzaminu ósmoklasisty. Wykaz zawiera:
+1)
+dane uczniów: imię (imiona) i nazwisko, numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, datę i miejsce urodzenia oraz płeć;
+2)
+informację o języku obcym nowożytnym, z którego uczniowie przystąpią do egzaminu ósmoklasisty;
+3)
+informację o uczniach, którzy korzystają z dostosowania:
+a)
+formy przeprowadzania egzaminu ósmoklasisty, o którym mowa w art. 44zzr ust. 7 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005),
+b)
+warunków przeprowadzania egzaminu ósmoklasisty, o którym mowa w art. 44zzr ust. 1–6 i ust. 7 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+3.
+Uczeń będący obywatelem Ukrainy, o którym mowa w § 1, przystępuje do egzaminu ósmoklasisty z jednego z następujących języków obcych nowożytnych: angielskiego, francuskiego, hiszpańskiego, niemieckiego, rosyjskiego i włoskiego.
+4.
+Wykaz, o którym mowa w ust. 2, dyrektor szkoły przekazuje dyrektorowi okręgowej komisji egzaminacyjnej w postaci elektronicznej przy użyciu elektronicznego systemu wspomagającego przeprowadzanie egzaminu ósmoklasisty, o którym mowa w art. 44zzra ustawy z dnia 7 września 1991 r. o systemie oświaty, w terminie do dnia 15 kwietnia 2022 r.
+§ 2a.
+1.
+W roku szkolnym 2022/2023 w przypadku uczniów będących obywatelami Ukrainy, o których mowa w § 1, którzy rozpoczęli naukę w klasie VIII szkoły podstawowej, a w przypadku szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej – w ostatnim roku nauki odpowiadającym klasie VIII szkoły podstawowej, po dniu 30 września 2022 r., deklarację, o której mowa w art. 44zy ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, składa się w terminie do dnia 15 marca 2023 r. Deklarację wypełnia się tylko w zakresie języka obcego nowożytnego, z którego uczeń przystąpi do egzaminu ósmoklasisty.
+2.
+Dyrektor szkoły, na podstawie złożonych deklaracji, o których mowa w ust. 1, sporządza wykaz uczniów będących obywatelami Ukrainy, o których mowa w § 1, przystępujących do egzaminu ósmoklasisty. Wykaz zawiera:
+1)
+dane uczniów: imię (imiona) i nazwisko, numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, datę urodzenia oraz płeć;
+2)
+informację o języku obcym nowożytnym, z którego uczniowie przystąpią do egzaminu ósmoklasisty;
+3)
+informację o uczniach, którzy korzystają z dostosowania:
+a)
+formy przeprowadzania egzaminu ósmoklasisty, o którym mowa w art. 44zzr ust. 7 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty,
+b)
+warunków przeprowadzania egzaminu ósmoklasisty, o którym mowa w art. 44zzr ust. 1–6 i ust. 7 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+2a.
+Uczeń będący obywatelem Ukrainy, o którym mowa w § 1, przystępuje do egzaminu ósmoklasisty z jednego z następujących języków obcych nowożytnych: angielskiego, francuskiego, hiszpańskiego, niemieckiego, rosyjskiego i włoskiego, przy czym nie musi to być język obcy nowożytny, którego uczył się w szkole w ramach obowiązkowych zajęć edukacyjnych.
+3.
+Wykaz, o którym mowa w ust. 2, dyrektor szkoły przekazuje dyrektorowi okręgowej komisji egzaminacyjnej w postaci elektronicznej przy użyciu elektronicznego systemu wspomagającego przeprowadzanie egzaminu ósmoklasisty, o którym mowa w art. 44zzra ustawy z dnia 7 września 1991 r. o systemie oświaty, w terminie do dnia 22 marca 2023 r.
+§ 2b.
+1.
+W roku szkolnym 2023/2024 w przypadku uczniów będących obywatelami Ukrainy, o których mowa w § 1, którzy rozpoczęli naukę w klasie VIII szkoły podstawowej, a w przypadku szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej – w ostatnim roku nauki odpowiadającym klasie VIII szkoły podstawowej, po dniu 30 września 2023 r., deklarację, o której mowa art. 44zy ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, składa się w terminie do dnia 15 marca 2024 r. Deklarację wypełnia się tylko w zakresie języka obcego nowożytnego, z którego uczeń przystąpi do egzaminu ósmoklasisty.
+2.
+Dyrektor szkoły, na podstawie złożonych deklaracji, o których mowa w ust. 1, sporządza wykaz uczniów będących obywatelami Ukrainy, o których mowa w § 1, przystępujących do egzaminu ósmoklasisty. Wykaz zawiera dane i informacje, o których mowa w § 2a ust. 2 pkt 1–3.
+3.
+Przepisy § 2a ust. 2a i 3 stosuje się, z tym że wykaz, o którym mowa w ust. 2, przekazuje się w terminie do dnia 22 marca 2024 r.
+§ 3.
+1.
+W roku szkolnym 2021/2022 w przypadku uczniów będących obywatelami Ukrainy, o których mowa w § 1, uczęszczających do liceum ogólnokształcącego dla młodzieży, technikum lub szkoły artystycznej realizującej kształcenie ogólne w zakresie liceum ogólnokształcącego, którzy zamierzają przystąpić do egzaminu maturalnego, deklarację przystąpienia do egzaminu maturalnego, o której mowa w art. 44zzi ustawy z dnia 7 września 1991 r. o systemie oświaty, składa się w terminie do dnia 31 marca 2022 r.
+2.
+Dyrektor szkoły, na podstawie złożonych deklaracji, o których mowa w ust. 1, sporządza wykaz uczniów będących obywatelami Ukrainy, o których mowa w § 1, przystępujących do egzaminu maturalnego. Wykaz zawiera:
+1)
+informacje, o których mowa w § 32 ust. 1 pkt 1 i pkt 2 lit. a-c rozporządzenia Ministra Edukacji Narodowej z dnia 21 grudnia 2016 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego (Dz. U. poz. 2223, z 2017 r. poz. 2112, z 2019 r. poz. 626, z 2021 r. poz. 1427, z 2022 r. poz. 1625 oraz z 2023 r. poz. 365);
+2)
+informację o uczniach, którzy korzystają z dostosowania warunków przeprowadzania egzaminu maturalnego, o którym mowa w art. 44zzr ust. 1–6 i ust. 7 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+3.
+Wykaz, o którym mowa w ust. 2, dyrektor szkoły przekazuje dyrektorowi okręgowej komisji egzaminacyjnej w postaci elektronicznej przy użyciu elektronicznego systemu wspomagającego przeprowadzanie egzaminu maturalnego, o którym mowa w art. 44zzra ustawy z dnia 7 września 1991 r. o systemie oświaty, w terminie do dnia 5 kwietnia 2022 r.
+§ 3a.
+1.
+W roku szkolnym 2022/2023 w przypadku uczniów będących obywatelami Ukrainy, o których mowa w § 1, którzy rozpoczęli naukę w klasie programowo najwyższej liceum ogólnokształcącego dla młodzieży, technikum lub szkoły artystycznej realizującej kształcenie ogólne w zakresie liceum ogólnokształcącego po dniu 30 września 2022 r. i zamierzają przystąpić do egzaminu maturalnego, deklarację przystąpienia do egzaminu maturalnego, o której mowa w art. 44zzi ustawy z dnia 7 września 1991 r. o systemie oświaty, składa się w terminie do dnia 15 marca 2023 r.
+2.
+Dyrektor szkoły, na podstawie złożonych deklaracji, o których mowa w ust. 1, sporządza wykaz uczniów będących obywatelami Ukrainy, o których mowa w § 1, przystępujących do egzaminu maturalnego. Wykaz zawiera informacje:
+1)
+o których mowa odpowiednio w § 11 ust. 1 pkt 1–4 rozporządzenia Ministra Edukacji i Nauki z dnia 1 sierpnia 2022 r. w sprawie egzaminu maturalnego (Dz. U. poz. 1644 oraz z 2023 r. poz. 366) lub § 32 ust. 1 pkt 1 i pkt 2 lit. a-c rozporządzenia Ministra Edukacji Narodowej z dnia 21 grudnia 2016 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego;
+2)
+o uczniach, którzy korzystają z dostosowania warunków przeprowadzania egzaminu maturalnego, o którym mowa w art. 44zzr ust. 1–6 i ust. 7 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+3.
+Wykaz, o którym mowa w ust. 2, dyrektor szkoły przekazuje dyrektorowi okręgowej komisji egzaminacyjnej w postaci elektronicznej przy użyciu elektronicznego systemu wspomagającego przeprowadzanie egzaminu maturalnego, o którym mowa w art. 44zzra ustawy z dnia 7 września 1991 r. o systemie oświaty, w terminie do dnia 22 marca 2023 r.
+§ 3b.
+1.
+W roku szkolnym 2023/2024 w przypadku uczniów będących obywatelami Ukrainy, o których mowa w § 1, którzy rozpoczęli naukę w klasie programowo najwyższej liceum ogólnokształcącego dla młodzieży, technikum lub szkoły artystycznej realizującej kształcenie ogólne w zakresie liceum ogólnokształcącego po dniu 30 września 2023 r. i zamierzają przystąpić do egzaminu maturalnego, deklarację przystąpienia do egzaminu maturalnego, o której mowa w art. 44zzi ustawy z dnia 7 września 1991 r. o systemie oświaty, składa się w terminie do dnia 15 marca 2024 r.
+2.
+Dyrektor szkoły, na podstawie złożonych deklaracji, o których mowa w ust. 1, sporządza wykaz uczniów będących obywatelami Ukrainy, o których mowa w § 1, przystępujących do egzaminu maturalnego. Wykaz zawiera informacje:
+1)
+o których mowa w § 11 ust. 1 pkt 1–4 rozporządzenia Ministra Edukacji i Nauki z dnia 1 sierpnia 2022 r. w sprawie egzaminu maturalnego;
+2)
+o uczniach, którzy korzystają z dostosowania warunków przeprowadzania egzaminu maturalnego, o którym mowa w art. 44zzr ust. 1–6 i ust. 7 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+3.
+Przepis § 3a ust. 3 stosuje się, z tym że wykaz, o którym mowa w ust. 2, przekazuje się w terminie do dnia 22 marca 2024 r.
+§ 4.
+1.
+W roku szkolnym 2021/2022 w przypadku uczniów będących obywatelami Ukrainy, o których mowa w § 1, uczęszczających do branżowej szkoły I stopnia lub technikum, którzy zamierzają przystąpić do egzaminu zawodowego, deklarację przystąpienia do egzaminu zawodowego, o której mowa w art. 44zzzg ustawy z dnia 7 września 1991 r. o systemie oświaty, składa się w terminie do dnia 11 kwietnia 2022 r.
+2.
+Dyrektor szkoły, na podstawie złożonych deklaracji, o których mowa w ust. 1, sporządza wykaz uczniów będących obywatelami Ukrainy, o których mowa w § 1, przystępujących do egzaminu zawodowego. Wykaz zawiera:
+1)
+informacje, o których mowa w § 5 ust. 1 pkt 1–5 rozporządzenia Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 1707 oraz z 2023 r. poz. 2058);
+2)
+informację o uczniach, którzy korzystają z dostosowania warunków przeprowadzania egzaminu zawodowego, o którym mowa w art. 44zzzf ust. 1–6 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+3.
+Wykaz, o którym mowa w ust. 2, dyrektor szkoły przekazuje dyrektorowi okręgowej komisji egzaminacyjnej w postaci elektronicznej w terminie do dnia 15 kwietnia 2022 r.
+§ 4a.
+1.
+W roku szkolnym 2022/2023 w przypadku uczniów będących obywatelami Ukrainy, o których mowa w § 1, którzy rozpoczęli naukę w branżowej szkole I stopnia lub technikum po dniu 15 września 2022 r. i zamierzają przystąpić do egzaminu zawodowego, deklarację przystąpienia do egzaminu zawodowego, o której mowa w art. 44zzzg ustawy z dnia 7 września 1991 r. o systemie oświaty, składa się w terminie do dnia 15 marca 2023 r.
+2.
+Dyrektor szkoły, na podstawie złożonych deklaracji, o których mowa w ust. 1, sporządza wykaz uczniów będących obywatelami Ukrainy, o których mowa w § 1, przystępujących do egzaminu zawodowego. Wykaz zawiera:
+1)
+informacje, o których mowa w § 5 ust. 1 pkt 1–5 rozporządzenia Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie;
+2)
+informację o uczniach, którzy korzystają z dostosowania warunków przeprowadzania egzaminu zawodowego, o którym mowa w art. 44zzzf ust. 1–6 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+3.
+Wykaz, o którym mowa w ust. 2, dyrektor szkoły przekazuje dyrektorowi okręgowej komisji egzaminacyjnej w postaci elektronicznej w terminie do dnia 22 marca 2023 r.
+§ 4b.
+1.
+W roku szkolnym 2023/2024 w przypadku uczniów będących obywatelami Ukrainy, o których mowa w § 1, którzy rozpoczęli naukę w branżowej szkole I stopnia lub technikum po dniu 15 września 2023 r. i zamierzają przystąpić do egzaminu zawodowego, deklarację przystąpienia do egzaminu zawodowego, o której mowa w art. 44zzzg ustawy z dnia 7 września 1991 r. o systemie oświaty, składa się w terminie do dnia 15 marca 2024 r.
+2.
+Dyrektor szkoły, na podstawie złożonych deklaracji, o których mowa w ust. 1, sporządza wykaz uczniów będących obywatelami Ukrainy, o których mowa w § 1, przystępujących do egzaminu zawodowego. Wykaz zawiera informacje, o których mowa w § 4a ust. 2 pkt 1 i 2.
+3.
+Przepis § 4a ust. 3 stosuje się, z tym że wykaz, o którym mowa w ust. 2, przekazuje się w terminie do dnia 22 marca 2024 r.
+§ 5.
+Dyrektor Centralnej Komisji Egzaminacyjnej w terminie do dnia 28 marca 2022 r.:
+1)
+ogłasza aneksy do komunikatów, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy z dnia 7 września 1991 r. o systemie oświaty, dotyczące szczegółowych sposobów dostosowania warunków i form przeprowadzania odpowiednio egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego w 2022 r. do potrzeb uczniów będących obywatelami Ukrainy, o których mowa w § 1;
+2)
+dostosowuje informację o sposobie organizacji i przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego oraz egzaminu zawodowego w 2022 r. do zmian przewidzianych w rozporządzeniu.
+§ 6.
+W latach szkolnych 2021/2022–2023/2024 dyrektor okręgowej komisji egzaminacyjnej, za zgodą dyrektora Centralnej Komisji Egzaminacyjnej, może powołać w skład zespołu egzaminatorów, o którym mowa w art. 44zzu ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty, osoby niebędące egzaminatorami wpisanymi do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy z dnia 7 września 1991 r. o systemie oświaty, sprawdzające prace egzaminacyjne obywateli Ukrainy, o których mowa w § 1, którzy przystąpili do egzaminu ósmoklasisty lub egzaminu maturalnego. Osoby te są obowiązane odbyć szkolenie dla egzaminatorów, o którym mowa w art. 9c ust. 2 pkt 8 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+§ 6a.
+W latach szkolnych 2021/2022–2023/2024 w oddziale przygotowawczym, o którym mowa w art. 165 ust. 11 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005), zorganizowanym w branżowej szkole I stopnia lub technikum uczeń będący obywatelem Ukrainy, o którym mowa w § 1, może również uczęszczać na zajęcia przeznaczone na osiągnięcie wybranych efektów kształcenia określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, dostosowane pod względem zakresu treści nauczania oraz metod i form ich realizacji do potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia.
+§ 6b.
+1.
+W latach szkolnych 2021/2022–2023/2024 uczeń będący obywatelem Ukrainy, o którym mowa w § 1, uczęszczający do oddziału przygotowawczego, o którym mowa w art. 165 ust. 11 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, nie podlega klasyfikacji rocznej w przypadku, gdy rada pedagogiczna uzna, że:
+1)
+uczeń nie zna języka polskiego lub znajomość przez ucznia języka polskiego jest niewystarczająca do korzystania z nauki lub
+2)
+zakres realizowanych w oddziale przygotowawczym zajęć edukacyjnych uniemożliwia przeprowadzenie klasyfikacji rocznej ucznia.
+1a.
+W latach szkolnych 2022/2023 i 2023/2024 uczeń, o którym mowa w ust. 1, nie podlega również klasyfikacji śródrocznej.
+2.
+Uczeń, o którym mowa w ust. 1, otrzymuje zaświadczenie o uczęszczaniu do oddziału przygotowawczego. Zaświadczenie zawiera:
+1)
+nazwę i adres szkoły;
+2)
+imię (imiona) i nazwisko ucznia, klasę, do której uczeń uczęszczał, rok szkolny oraz okres uczęszczania ucznia do szkoły;
+3)
+zrealizowaną liczbę godzin nauki języka polskiego, o której mowa w § 16 ust. 9 rozporządzenia Ministra Edukacji Narodowej z dnia 23 sierpnia 2017 r. w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw (Dz. U. z 2020 r. poz. 1283 oraz z 2022 r. poz. 573), zwanego dalej „rozporządzeniem z dnia 23 sierpnia 2017 r.”, wraz z krótkim opisem osiągniętego poziomu biegłości językowej;
+4)
+zajęcia edukacyjne, które uczeń zrealizował, wraz ze wskazaniem tygodniowego wymiaru godzin poszczególnych zajęć edukacyjnych;
+5)
+zwięzłą ocenę opisową dotyczącą zrealizowanych przez ucznia zajęć edukacyjnych zawierającą opis posiadanych przez ucznia wiadomości i umiejętności;
+6)
+predyspozycje, uzdolnienia i zainteresowania ucznia;
+7)
+inne informacje o uczniu, które nauczyciel prowadzący zajęcia edukacyjne uzna za istotne dla dalszego procesu kształcenia ucznia;
+8)
+miejscowość i datę wydania zaświadczenia;
+9)
+pieczęć i podpis dyrektora szkoły.
+3.
+W arkuszu ocen ucznia, o którym mowa w ust. 1, w miejscu przeznaczonym na wpisanie daty uchwały rady pedagogicznej o promowaniu (z wyróżnieniem), niepromowaniu, ukończeniu szkoły (z wyróżnieniem) i nieukończeniu szkoły umieszcza się adnotację „Na podstawie uchwały rady pedagogicznej z dnia ………………… uczeń nie podlegał klasyfikacji rocznej zgodnie z § 6b ust. 1 rozporządzenia Ministra Edukacji i Nauki z dnia 21 marca 2022 r. w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. z 2023 r. poz. 2094)”, wpisując datę uchwały rady pedagogicznej.
+§ 6c.
+1.
+W roku szkolnym 2021/2022 uczeń będący obywatelem Ukrainy, o którym mowa w § 1, kończy szkołę podstawową, jeżeli:
+1)
+otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych realizowanych w klasie VIII pozytywne roczne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb ustawy z dnia 7 września 1991 r. o systemie oświaty;
+2)
+przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+2.
+W arkuszu ocen oraz na świadectwie ukończenia szkoły podstawowej ucznia, o którym mowa w ust. 1, w miejscu przeznaczonym na wpisanie ocen z obowiązkowych zajęć edukacyjnych: muzyka, plastyka, przyroda i technika, wstawia się poziomą kreskę.
+3.
+Uczeń szkoły podstawowej, który nie spełnił warunków, o których mowa w ust. 1, powtarza klasę VIII szkoły podstawowej i przystępuje w roku szkolnym, w którym powtarza tę klasę, do egzaminu ósmoklasisty.
+§ 6d.
+1.
+W roku szkolnym 2022/2023 uczeń będący obywatelem Ukrainy, o którym mowa w § 1, kończy szkołę podstawową, jeżeli:
+1)
+otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych realizowanych w klasie VIII pozytywne roczne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb ustawy z dnia 7 września 1991 r. o systemie oświaty;
+2)
+przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+2.
+W arkuszu ocen oraz na świadectwie ukończenia szkoły podstawowej ucznia, o którym mowa w ust. 1, w miejscu przeznaczonym na wpisanie ocen z obowiązkowych zajęć edukacyjnych: muzyka, plastyka, przyroda i technika wstawia się poziomą kreskę.
+3.
+W przypadku ucznia, o którym mowa w ust. 1, który w roku szkolnym 2021/2022 otrzymał promocję do klasy VIII, w arkuszu ocen oraz na świadectwie ukończenia szkoły podstawowej w miejscu przeznaczonym na wpisanie ocen z obowiązkowych zajęć edukacyjnych: przyroda i technika wstawia się poziomą kreskę.
+4.
+Uczeń szkoły podstawowej, który nie spełnił warunków, o których mowa w ust. 1, powtarza klasę VIII szkoły podstawowej i przystępuje w roku szkolnym, w którym powtarza tę klasę, do egzaminu ósmoklasisty.
+§ 6e.
+1.
+W roku szkolnym 2023/2024 uczeń będący obywatelem Ukrainy, o którym mowa w § 1, kończy szkołę podstawową, jeżeli spełnił warunki, o których mowa w § 6d ust. 1 pkt 1 i 2.
+2.
+Do ucznia, o którym mowa w ust. 1, przepis § 6d ust. 2 stosuje się.
+3.
+W przypadku ucznia, o którym mowa w ust. 1, który w roku szkolnym 2022/2023 otrzymał promocję do klasy VIII, w arkuszu ocen oraz na świadectwie ukończenia szkoły podstawowej w miejscu przeznaczonym na wpisanie ocen z obowiązkowych zajęć edukacyjnych: przyroda i technika wstawia się poziomą kreskę.
+4.
+W przypadku ucznia, o którym mowa w ust. 1, który w roku szkolnym 2021/2022 otrzymał promocję do klasy VII, a następnie w roku szkolnym 2022/2023 otrzymał promocję do klasy VIII, w arkuszu ocen oraz na świadectwie ukończenia szkoły podstawowej w miejscu przeznaczonym na wpisanie oceny z obowiązkowych zajęć edukacyjnych: przyroda wstawia się poziomą kreskę.
+5.
+Uczeń szkoły podstawowej, który w roku szkolnym 2023/2024 nie spełnił warunków, o których mowa w § 6d ust. 1 pkt 1 i 2, powtarza klasę VIII szkoły podstawowej i przystępuje w roku szkolnym, w którym powtarza tę klasę, do egzaminu ósmoklasisty.
+§ 7.
+1.
+W latach szkolnych 2021/2022 i 2022/2023 liczba dzieci w oddziale przedszkola, o której mowa w § 5 ust. 1 rozporządzenia Ministra Edukacji Narodowej z dnia 28 lutego 2019 r. w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli (Dz. U. poz. 502, z 2022 r. poz. 566 i 644 oraz z 2023 r. poz. 1370), zwanego dalej „rozporządzeniem z dnia 28 lutego 2019 r.”, może być zwiększona o nie więcej niż 3 dzieci będących obywatelami Ukrainy, o których mowa w § 1.
+1a.
+Oddział, w którym liczbę dzieci zwiększono zgodnie z ust. 1, może funkcjonować ze zwiększoną liczbą dzieci do ukończenia wychowania przedszkolnego przez dzieci będące obywatelami Ukrainy, o których mowa w § 1.
+2.
+Przepisy ust. 1 i 1a stosuje się także do oddziału przedszkolnego w szkole podstawowej.
+§ 8.
+1.
+W latach szkolnych 2021/2022 i 2022/2023 liczba uczniów w oddziale klas I-III szkoły podstawowej, o której mowa w § 5 ust. 2 rozporządzenia z dnia 28 lutego 2019 r., może być zwiększona o nie więcej niż 4 uczniów będących obywatelami Ukrainy, o których mowa w § 1.
+2.
+W latach szkolnych 2021/2022 i 2022/2023 liczba uczniów w oddziale klasy I, II lub III szkoły podstawowej funkcjonującym ze zwiększoną liczbą uczniów zgodnie z § 5 ust. 3 pkt 1 rozporządzenia z dnia 28 lutego 2019 r. może być zwiększona o nie więcej niż:
+1)
+3 uczniów będących obywatelami Ukrainy, o których mowa w § 1 – w przypadku gdy liczba uczniów w oddziale funkcjonującym ze zwiększoną liczbą uczniów wynosi 26;
+2)
+2 uczniów będących obywatelami Ukrainy, o których mowa w § 1 – w przypadku gdy liczba uczniów w oddziale funkcjonującym ze zwiększoną liczbą uczniów wynosi 27.
+3.
+W przypadkach, o których mowa w ust. 1 i 2, przepisów § 5 ust. 3 pkt 2 i ust. 4 rozporządzenia z dnia 28 lutego 2019 r. nie stosuje się.
+4.
+Oddział, w którym liczbę uczniów zwiększono zgodnie z ust. 1 i 2, może funkcjonować ze zwiększoną liczbą uczniów będących obywatelami Ukrainy, o których mowa w § 1, w ciągu całego etapu edukacyjnego.
+§ 9.
+1.
+W latach szkolnych 2021/2022 i 2022/2023 liczba dzieci w oddziale przedszkola integracyjnego i oddziale integracyjnym w przedszkolu ogólnodostępnym oraz liczba uczniów w oddziale szkoły integracyjnej i oddziale integracyjnym w szkole ogólnodostępnej, o której mowa w § 6 ust. 1 rozporządzenia z dnia 28 lutego 2019 r., może być zwiększona o nie więcej niż 2 dzieci lub uczniów niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1.
+2.
+W latach szkolnych 2021/2022 i 2022/2023 liczba dzieci w oddziale przedszkola specjalnego i oddziale specjalnym w przedszkolu ogólnodostępnym oraz liczba uczniów w oddziale szkoły specjalnej i oddziale specjalnym w szkole ogólnodostępnej, o której mowa w § 6 ust. 5 i 6 rozporządzenia z dnia 28 lutego 2019 r., może być zwiększona o nie więcej niż 2 dzieci lub uczniów niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1.
+3.
+W latach szkolnych 2021/2022 i 2022/2023 liczba uczniów w klasie łączonej w:
+1)
+szkole podstawowej specjalnej,
+2)
+szkole ponadpodstawowej specjalnej,
+3)
+szkole podstawowej specjalnej funkcjonującej w jednostce pomocy społecznej,
+4)
+szkole ponadpodstawowej specjalnej funkcjonującej w jednostce pomocy społecznej
+o której mowa w § 13 ust. 4 i 5 rozporządzenia z dnia 28 lutego 2019 r., może być zwiększona o nie więcej niż 2 uczniów niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1.
+4.
+§ 10.
+1.
+W latach szkolnych 2021/2022 i 2022/2023 liczba wychowanków w grupie wychowawczej w specjalnym ośrodku szkolno-wychowawczym lub specjalnym ośrodku wychowawczym, o której mowa odpowiednio w:
+1)
+§ 43 ust. 2 rozporządzenia Ministra Edukacji i Nauki z dnia 30 marca 2023 r. w sprawie niektórych publicznych placówek systemu oświaty (Dz. U. poz. 651),
+2)
+§ 39 ust. 2 rozporządzenia Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie publicznych placówek oświatowo-wychowawczych, młodzieżowych ośrodków wychowawczych, młodzieżowych ośrodków socjoterapii, specjalnych ośrodków szkolno-wychowawczych, specjalnych ośrodków wychowawczych, ośrodków rewalidacyjno-wychowawczych oraz placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania (Dz. U. poz. 1606, z 2021 r. poz. 911 i 1599 oraz z 2022 r. poz. 1782), obowiązującego do dnia 28 lutego 2023 r.,
+3)
+§ 38 ust. 2 rozporządzenia Ministra Edukacji Narodowej z dnia 2 listopada 2015 r. w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach (Dz. U. poz. 1872, z 2017 r. poz. 1628, z 2021 r. poz. 938 i 1596 oraz z 2022 r. poz. 1757)
+może być zwiększona o nie więcej niż 2 wychowanków niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1.
+2.
+Grupy wychowawcze, w których liczbę wychowanków niepełnosprawnych zwiększono zgodnie z ust. 1, mogą funkcjonować ze zwiększoną liczbą wychowanków niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1, w ciągu całego etapu edukacyjnego.
+§ 11.
+1.
+W latach szkolnych 2021/2022 i 2022/2023 liczba uczniów na zajęciach świetlicowych w szkole podstawowej ogólnodostępnej, pozostających pod opieką jednego nauczyciela, o której mowa w § 7 ust. 1 rozporządzenia z dnia 28 lutego 2019 r., może być zwiększona o nie więcej niż 4 uczniów będących obywatelami Ukrainy, o których mowa w § 1.
+2.
+W latach szkolnych 2021/2022 i 2022/2023 liczba uczniów niepełnosprawnych na zajęciach świetlicowych w szkole ogólnodostępnej i integracyjnej oraz szkole ogólnodostępnej z oddziałami integracyjnymi, pozostających pod opieką jednego nauczyciela, o której mowa w § 7 ust. 2 rozporządzenia z dnia 28 lutego 2019 r., może być zwiększona o nie więcej niż 2 uczniów niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1.
+3.
+W latach szkolnych 2021/2022 i 2022/2023 liczba uczniów niepełnosprawnych na zajęciach świetlicowych w szkole specjalnej oraz szkole ogólnodostępnej z oddziałami specjalnymi, pozostających pod opieką jednego nauczyciela, o której mowa w § 7 ust. 3 rozporządzenia z dnia 28 lutego 2019 r., może być zwiększona o nie więcej niż 2 uczniów niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1.
+§ 11a.
+1.
+W latach szkolnych 2021/2022–2023/2024 dodatkowe zajęcia lekcyjne z języka polskiego, o których mowa w § 17 ust. 1 rozporządzenia z dnia 23 sierpnia 2017 r., dla uczniów będących obywatelami Ukrainy, o których mowa w § 1, są prowadzone indywidualnie lub w grupach liczących nie więcej niż 15 uczniów, w wymiarze pozwalającym na opanowanie języka polskiego w stopniu umożliwiającym udział w obowiązkowych zajęciach edukacyjnych, nie niższym niż 6 godzin lekcyjnych tygodniowo.
+2.
+W latach szkolnych 2021/2022–2023/2024 w przypadku uczniów będących obywatelami Ukrainy, o których mowa w § 1, przepisu § 19 rozporządzenia z dnia 23 sierpnia 2017 r. nie stosuje się.
+§ 11b.
+1.
+W roku szkolnym 2021/2022 w klasach IV-VIII szkoły podstawowej, branżowej szkole I stopnia, liceum ogólnokształcącym i technikum, do których uczęszczają uczniowie będący obywatelami Ukrainy, o których mowa w § 1, podział na grupy jest obowiązkowy:
+1)
+na obowiązkowych zajęciach z informatyki w oddziałach liczących więcej niż 30 uczniów; zajęcia mogą być prowadzone w grupie oddziałowej lub międzyoddziałowej liczącej nie więcej niż 30 uczniów;
+2)
+na obowiązkowych zajęciach z języków obcych nowożytnych w oddziałach liczących więcej niż 30 uczniów; zajęcia mogą być prowadzone w grupie oddziałowej lub międzyoddziałowej liczącej nie więcej niż 30 uczniów; przy podziale na grupy należy uwzględnić stopień zaawansowania znajomości języka obcego nowożytnego;
+3)
+na nie więcej niż połowie godzin obowiązkowych zajęć edukacyjnych z zakresu kształcenia ogólnego, dla których z treści programu nauczania wynika konieczność prowadzenia ćwiczeń, w tym laboratoryjnych – w oddziałach liczących więcej niż 34 uczniów;
+4)
+na obowiązkowych zajęciach edukacyjnych z zakresu kształcenia zawodowego, dla których z treści programu nauczania zawodu wynika konieczność prowadzenia ćwiczeń, w tym laboratoryjnych – w oddziałach liczących więcej niż 34 uczniów;
+5)
+na obowiązkowych zajęciach wychowania fizycznego; zajęcia mogą być prowadzone w grupie oddziałowej, międzyoddziałowej lub międzyklasowej, a w przypadku zespołu szkół – także w grupie międzyszkolnej, liczącej nie więcej niż 30 uczniów, z tym że jeżeli w skład grupy oddziałowej, międzyoddziałowej, międzyklasowej lub międzyszkolnej wchodzą uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność uczęszczający do oddziałów integracyjnych lub uczniowie oddziałów specjalnych, liczba uczniów w grupie nie może być większa niż liczba uczniów odpowiednio w oddziale integracyjnym lub oddziale specjalnym określona zgodnie z § 9 ust. 1 i 2.
+2.
+W przypadku oddziałów liczących odpowiednio nie więcej niż 30 lub 34 uczniów na zajęciach, o których mowa w ust. 1, podziału na grupy można dokonywać za zgodą organu prowadzącego szkołę.
+§ 12.
+W latach szkolnych 2021/2022–2023/2024 dyrektor odpowiednio przedszkola specjalnego, szkoły specjalnej, specjalnego ośrodka szkolno-wychowawczego lub specjalnego ośrodka wychowawczego może przyjąć do odpowiednio przedszkola specjalnego, oddziału przedszkolnego w szkole podstawowej specjalnej, szkoły specjalnej, specjalnego ośrodka szkolno-wychowawczego lub specjalnego ośrodka wychowawczego dziecko niepełnosprawne lub ucznia niepełnosprawnego będących obywatelami Ukrainy, o których mowa w § 1, na podstawie oświadczenia rodzica lub osoby sprawującej opiekę nad dzieckiem lub uczniem o złożeniu do publicznej poradni psychologiczno-pedagogicznej, w tym publicznej poradni specjalistycznej, wniosku o wydanie orzeczenia o potrzebie kształcenia specjalnego.
+§ 12a.
+Rodzic lub inna osoba sprawująca opiekę nad dzieckiem będącym obywatelem Ukrainy, o którym mowa w § 1, które zostało przyjęte w roku szkolnym 2021/2022 do publicznego przedszkola lub oddziału przedszkolnego w publicznej szkole podstawowej, składa, w terminie do dnia 30 czerwca 2022 r., deklarację o kontynuowaniu w roku szkolnym 2022/2023 wychowania przedszkolnego w tym publicznym przedszkolu lub tym oddziale przedszkolnym w publicznej szkole podstawowej.
+§ 13.
+Dyrektor szkoły lub placówki, o której mowa w art. 2 pkt 3–5, 7 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustala, w porozumieniu z radą pedagogiczną i radą rodziców, potrzebę modyfikacji w latach szkolnych 2021/2022–2023/2024 realizowanego w szkole lub placówce programu wychowawczo-profilaktycznego oraz, w razie potrzeby, modyfikuje ten program.
+§ 14.
+1.
+W latach szkolnych 2021/2022–2023/2024 w uzasadnionych przypadkach w publicznej poradni psychologiczno-pedagogicznej, w tym publicznej poradni specjalistycznej, w celu rozpoznawania specjalnych potrzeb edukacyjnych dzieci i uczniów będących obywatelami Ukrainy, o których mowa w § 1, oraz udzielania im pomocy psychologiczno-pedagogicznej, może być, za zgodą kuratora oświaty, zatrudniona osoba niebędąca nauczycielem posiadająca przygotowanie uznane przez dyrektora poradni za odpowiednie do realizacji określonych przez dyrektora poradni zadań w tym zakresie.
+2.
+Do zatrudnienia w publicznej poradni psychologiczno-pedagogicznej, w tym publicznej poradni specjalistycznej, osoby niebędącej nauczycielem, o której mowa w ust. 1, stosuje się przepisy art. 15 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+§ 14a.
+1.
+W latach szkolnych 2021/2022–2023/2024 w uzasadnionych przypadkach w publicznej placówce oświatowo-wychowawczej oraz publicznej placówce zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, o których mowa w art. 2 pkt 3 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, w celu realizacji zajęć dla dzieci i młodzieży będących obywatelami Ukrainy, o których mowa w § 1, może być, za zgodą kuratora oświaty, a w przypadku publicznej placówki, o której mowa w art. 2 pkt 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, dla uczniów szkół artystycznych – specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zatrudniona osoba niebędąca nauczycielem posiadająca przygotowanie uznane przez dyrektora placówki za odpowiednie do realizacji określonych przez dyrektora placówki zadań w tym zakresie.
+2.
+Do zatrudnienia w publicznej placówce oświatowo-wychowawczej oraz publicznej placówce zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania osoby niebędącej nauczycielem, o której mowa w ust. 1, stosuje się przepisy art. 15 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+§ 15.
+Dzieci i uczniowie będący obywatelami Ukrainy, o których mowa w § 1, którzy pobierają naukę w przedszkolu lub szkole funkcjonujących w ukraińskim systemie oświaty z wykorzystaniem metod i technik kształcenia na odległość, nie podlegają obowiązkowemu rocznemu przygotowaniu przedszkolnemu, obowiązkowi szkolnemu albo obowiązkowi nauki, o których mowa w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe. Rodzic lub osoba sprawująca opiekę nad dzieckiem lub uczniem składa do gminy właściwej ze względu na miejsce pobytu dziecka lub ucznia oświadczenie o kontynuacji przez dziecko lub ucznia kształcenia w ukraińskim systemie oświaty.
+§ 16.
+1.
+Inna lokalizacja prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych podporządkowana organizacyjnie przedszkolu, o której mowa w art. 51 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, zwana dalej „lokalem przedszkolnym”, może znajdować się również w budynku lub jego części, które spełniają wymagania określone w przepisach w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie, oraz wymagania ochrony przeciwpożarowej dla kategorii zagrożenia ludzi ZL II, określone w przepisach dotyczących ochrony przeciwpożarowej, z tym że dopuszcza się spełnienie tych wymagań także w sposób określony w art. 6a ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057 oraz z 2023 r. poz. 1088 i 1560).
+2.
+Dopuszcza się prowadzenie zajęć w lokalu przedszkolnym, który znajduje się w budynku lub jego części, które nie spełniają wymagań określonych w ust. 1, jeżeli:
+1)
+lokal przedszkolny jest użytkowany przez nie więcej niż 28 dzieci;
+2)
+lokal przedszkolny znajduje się na pierwszej kondygnacji nadziemnej budynku i stanowi zwarty zespół przylegających do siebie i powiązanych funkcjonalnie pomieszczeń przeznaczonych do celów, o których mowa w ust. 1;
+3)
+lokal przedszkolny znajduje się w strefie pożarowej, w której elementy budynku są nierozprzestrzeniające ognia; wymaganie to nie dotyczy kondygnacji zlokalizowanych powyżej drugiej kondygnacji nadziemnej;
+4)
+lokal przedszkolny posiada co najmniej dwa wyjścia służące do celów ewakuacji, które prowadzą na zewnątrz budynku, przy czym jednym z nich są drzwi wyjściowe z lokalu, a drugim – inne drzwi lub okno, umożliwiające ewakuację dzieci w sposób bezpieczny bezpośrednio na zewnątrz budynku; wysokość od dolnej krawędzi okna do poziomu, na który ewakuuje się dzieci, nie powinna przekraczać 0,9 m;
+5)
+przejście ewakuacyjne z pomieszczenia przeznaczonego do przebywania dzieci, z wyłączeniem pomieszczeń higieniczno-sanitarnych, do drzwi, o których mowa w pkt 4, prowadzi łącznie przez nie więcej niż dwa pomieszczenia lokalu przedszkolnego, włączając w to pomieszczenie przeznaczone do przebywania dzieci, i posiada długość nieprzekraczającą:
+a)
+20 m lub
+b)
+40 m – w przypadku przejścia ewakuacyjnego prowadzącego do drzwi stanowiących wyjście ewakuacyjne z lokalu przedszkolnego bezpośrednio w miejsce bezpieczne na zewnątrz budynku;
+6)
+lokal przedszkolny jest wyposażony w gaśnicę o skuteczności gaśniczej co najmniej 21 A, zgodnie z wymaganiami określonymi w przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, niezależnie od gaśnic zastosowanych w strefie pożarowej, w której znajduje się lokal przedszkolny;
+7)
+elementy wykończenia wnętrz i wyposażenia stałego w lokalu przedszkolnym i na drogach ewakuacyjnych z lokalu przedszkolnego spełniają następujące warunki:
+a)
+stałe elementy wyposażenia i wystroju wnętrz oraz okładziny ścienne i wykładziny podłogowe są co najmniej trudno zapalne i nie są intensywnie dymiące,
+b)
+okładziny sufitów oraz sufity podwieszone są wykonane z materiałów niepalnych lub niezapalnych, niekapiących i nieodpadających pod wpływem ognia;
+8)
+strefa pożarowa, w której znajduje się lokal przedszkolny, jest strefą pożarową określaną jako ZL, zgodnie z przepisami w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie, zlokalizowaną w obiekcie innym niż tymczasowy obiekt budowlany;
+9)
+w strefie pożarowej, w której znajduje się lokal przedszkolny, nie występują inne pomieszczenia, w których są prowadzone przedszkola, oddziały przedszkolne w szkołach podstawowych, inne formy wychowania przedszkolnego oraz inne lokale przedszkolne;
+10)
+w lokalu przedszkolnym i na drogach ewakuacyjnych z lokalu przedszkolnego są spełnione wymagania określone w przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, właściwe dla kategorii zagrożenia ludzi tej strefy pożarowej, w której lokal przedszkolny i te drogi się znajdują, w szczególności nie występują w tym lokalu przedszkolnym ani na tych drogach warunki techniczne będące podstawą do uznania budynku za zagrażający życiu ludzi;
+11)
+drogi ewakuacyjne z lokalu przedszkolnego posiadają obudowę o klasie odporności ogniowej co najmniej EI 15, a wyjścia z pomieszczeń na te drogi są zamykane drzwiami; wymaganie dotyczące klasy odporności ogniowej nie dotyczy przypadków, w których z lokalu przedszkolnego zapewniono dwie drogi ewakuacyjne, które się nie pokrywają ani nie krzyżują.
+2a.
+Inna lokalizacja prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych podporządkowana organizacyjnie szkole, o której mowa w art. 51 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, zwana dalej „lokalem szkolnym”, może znajdować się również w innym niż szkoła użytkowanym budynku użyteczności publicznej lub jego części, które spełniają wymagania określone w przepisach w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, właściwe dla kategorii zagrożenia ludzi tej strefy pożarowej, w której lokal szkolny się znajduje, a w szczególności nie występują w tym lokalu szkolnym ani na drogach ewakuacyjnych z tego lokalu szkolnego warunki techniczne będące podstawą do uznania budynku za zagrażający życiu ludzi.
+3.
+Lokal przedszkolny i lokal szkolny wymienione w ust. 1, 2 i 2a, w których mają być prowadzone zajęcia, spełniają następujące warunki:
+1)
+wysokość pomieszczeń przeznaczonych na pobyt dzieci lub uczniów wynosi co najmniej 2,5 m;
+2)
+jest zapewniona możliwość otwierania w pomieszczeniu przeznaczonym na pobyt dzieci lub uczniów co najmniej 50% powierzchni okien przy zastosowaniu wentylacji grawitacyjnej;
+3)
+w pomieszczeniach lokalu przedszkolnego lub lokalu szkolnego jest zapewnione oświetlenie o parametrach zgodnych z Polską Normą;
+4)
+w pomieszczeniach przeznaczonych na zajęcia na grzejnikach centralnego ogrzewania są umieszczone osłony ochraniające przed bezpośrednim kontaktem z elementem grzejnym;
+5)
+w pomieszczeniach jest zapewniona temperatura co najmniej 18°C;
+6)
+posiada co najmniej jedno pomieszczenie sanitarno-higieniczne, wyposażone w miskę ustępową oraz w urządzenia sanitarne do utrzymania higieny osobistej, w tym przeznaczone do mycia z ciepłą i zimną wodą, w którym:
+a)
+dopuszcza się możliwość korzystania przez osoby wykonujące pracę w lokalu przedszkolnym lub lokalu szkolnym z urządzeń sanitarnych przewidzianych dla dzieci lub uczniów,
+b)
+wydziela się kabiny ustępowe – w przypadku wyposażenia pomieszczenia w więcej niż jeden ustęp,
+c)
+podłoga oraz ściany są wykonane tak, aby było możliwe łatwe utrzymanie pomieszczenia w czystości, a ściany pomieszczeń do wysokości co najmniej 2 m są pokryte materiałami zmywalnymi, nienasiąkliwymi i odpornymi na działanie wilgoci oraz materiałami nietoksycznymi i odpornymi na działanie środków dezynfekcyjnych,
+d)
+dopuszcza się wysokość nie niższą niż 2,2 m w świetle pod warunkiem wyposażenia pomieszczenia z oknem co najmniej w wentylację grawitacyjną, a pomieszczenia bez okien w wentylację mechaniczną wywiewną;
+7)
+jest zapewniona możliwość higienicznego poboru w lokalu przedszkolnym lub lokalu szkolnym ciepłej i zimnej wody do celów porządkowych z instalacji wodociągowej oraz odprowadzenia powstałych ścieków do instalacji kanalizacyjnej;
+8)
+jest zapewnione miejsce do przechowywania odzieży wierzchniej dzieci lub uczniów i osób wykonujących pracę w lokalu przedszkolnym lub lokalu szkolnym;
+9)
+jest zapewniona możliwość leżakowania, jeżeli czas pobytu dziecka w lokalu przedszkolnym przekracza 5 godzin dziennie;
+10)
+w lokalu przedszkolnym pościel i leżaki są wyraźnie oznakowane w sposób umożliwiający identyfikację dziecka, które z nich korzysta, oraz odpowiednio przechowywane;
+11)
+meble są dostosowane do wymagań ergonomii;
+12)
+posiadane wyposażenie lokalu przedszkolnego lub lokalu szkolnego zapewnia bezpieczne i higieniczne warunki korzystania z niego, a nabywane wyposażenie posiada atesty lub certyfikaty;
+13)
+dopuszcza się wykorzystanie pomieszczenia przeznaczonego na zbiorowy pobyt dzieci lub uczniów do zabawy, nauki, leżakowania lub spożywania posiłków, przy zastosowaniu rozwiązań organizacyjnych zapewniających realizację programu wychowania przedszkolnego lub programu nauczania oraz bezpieczne i higieniczne warunki pobytu dzieci i uczniów;
+14)
+apteczki w lokalu przedszkolnym lub lokalu szkolnym są wyposażone w podstawowe środki opatrunkowe;
+15)
+jest zapewnione utrzymanie czystości i porządku w lokalu przedszkolnym lub lokalu szkolnym, pomieszczenia są utrzymywane w odpowiednim stanie, są przeprowadzane ich okresowe remonty i konserwacje.
+§ 16a.
+1.
+W roku szkolnym 2021/2022 oddział przygotowawczy, o którym mowa w art. 165 ust. 11 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, może być także organizowany w szkołach sportowych i szkołach mistrzostwa sportowego.
+2.
+W oddziale przygotowawczym, o którym mowa w ust. 1, szkolenie sportowe jest realizowane zgodnie z przepisami rozporządzenia Ministra Edukacji Narodowej z dnia 27 marca 2017 r. w sprawie oddziałów i szkół sportowych oraz oddziałów i szkół mistrzostwa sportowego (Dz. U. z 2020 r. poz. 2138).
+§ 17.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Art. 59 zmieniony przez art. 12 pkt 17 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088), która weszła w życie z dniem 1 sierpnia 2023 r.; wszedł w życie z dniem 27 czerwca 2023 r.; zgodnie z art. 28 tej ustawy dotychczasowe przepisy wykonawcze wydane na podstawie art. 59 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2023 r. poz. 103, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 547, 1088, 1234, 1641, 1672 i 1717) zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 59 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, w brzmieniu nadanym ustawą z dnia 14 kwietnia 2023 r., oraz mogą być zmieniane na podstawie tych przepisów. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 547, 1088, 1234, 1641, 1672 i 1717. 4) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 13 lipca 2023 r. zmieniającego rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 1367), które weszło w życie z dniem 19 lipca 2023 r. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2020 r. poz. 530, 564, 657, 781, 872, 891, 952, 1111, 1394, 1539, 2047, 2111, 2314 i 2382, z 2021 r. poz. 150, 242, 370, 532, 681, 961, 983, 1343, 1525, 1743, 2047, 2302 i 2394 oraz z 2022 r. poz. 339 i 421. 6) Dodany przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 11 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 1711), które weszło w życie z dniem 17 sierpnia 2022 r. 7) Dodany przez § 1 rozporządzenia Ministra Edukacji i Nauki z dnia 11 października 2022 r. zmieniającego rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 2103), które weszło w życie z dniem 15 października 2022 r. 8) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 9) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 10) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 11) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 12) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 13) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 14) Dodany przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 8 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 795), które weszło w życie z dniem 12 kwietnia 2022 r. 15) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 4. 16) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 6; ze zmianą wprowadzoną przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4. 17) Dodany przez § 1 rozporządzenia Ministra Edukacji i Nauki z dnia 13 maja 2022 r. zmieniającego rozporządzenie w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy (Dz. U. poz. 1047), które weszło w życie z dniem 18 maja 2022 r. 18) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 6. 19) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4. 20) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6. 21) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 14. 22) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 14. 23) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 14. 24) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 14. 25) Oznaczenie ust. 1 nadane przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 14; w brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 4. 26) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 14. 27) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 14; wszedł w życie z dniem 26 kwietnia 2022 r. 28) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 14. 29) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 14. 30) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4. 31) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 14. 32) W brzmieniu ustalonym przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 14. 33) Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 14. 34) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 9 lit. c tiret pierwsze rozporządzenia, o którym mowa w odnośniku 14. 35) Ze zmianą wprowadzoną przez § 1 pkt 9 lit. c tiret drugie rozporządzenia, o którym mowa w odnośniku 14. 36) Ze zmianą wprowadzoną przez § 1 pkt 9 lit. c tiret trzecie rozporządzenia, o którym mowa w odnośniku 14. 37) W brzmieniu ustalonym przez § 1 pkt 9 lit. c tiret czwarte rozporządzenia, o którym mowa w odnośniku 14. 38) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 14. 39) Rozporządzenie zostało ogłoszone w dniu 21 marca 2022 r.
+
+##### Oddział i klasa, w których liczbę dzieci lub uczniów niepełnosprawnych zwiększono zgodnie z ust. 1–3, może funkcjonować ze zwiększoną liczbą dzieci lub uczniów niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1, w ciągu całego etapu edukacyjnego.
+

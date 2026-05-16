@@ -1,0 +1,58 @@
+---
+title: Rozporządzenie Prezesa Rady Ministrów z dnia 13 stycznia 2017 r. w sprawie wysokości stawek wynagrodzenia zasadniczego radców Prokuratorii Generalnej Rzeczypospolitej Polskiej oraz wysokości dodatków funkcyjnych w Prokuratorii Generalnej Rzeczypospolitej Polskiej
+address: WDU20170000104
+eli: DU/2017/104
+publisher: DU
+year: 2017
+pos: 104
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Prezesa Rady Ministrówz dnia 13 stycznia 2017 r. w sprawie wysokości stawek wynagrodzenia zasadniczego radców Prokuratorii Generalnej Rzeczypospolitej Polskiej oraz wysokości dodatków funkcyjnych w Prokuratorii Generalnej Rzeczypospolitej Polskiej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 104 |
+| ISAP | WDU20170000104 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2017-01-13 |
+| Data wydania | 2017-01-16 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000104) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/104/text.pdf) |
+
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Wysokość stawek wynagrodzenia zasadniczego radców
+
+## Załącznik nr 2 — – Wysokość dodatków funkcyjnych osób pełniących w prokuratorii generalnej rzeczypospolitej polskiej funkcje określone w art. 43 ust. 2 pkt 2, art. 61 ust. 1 ustawy oraz w zarządzeniu, o którym mowa w art. 48 ustawy
+
+Treść rozporządzenia
+Na podstawie art. 67 ust. 5 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+wysokość stawek wynagrodzenia zasadniczego radców Prokuratorii Generalnej Rzeczypospolitej Polskiej, zwanych dalej „radcami”;
+2)
+wysokość dodatków funkcyjnych osób pełniących w Prokuratorii Generalnej Rzeczypospolitej Polskiej funkcje określone w art. 43 ust. 2 pkt 2, art. 61 ust. 1 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej, zwanej dalej „ustawą”, oraz w zarządzeniu, o którym mowa w art. 48 ustawy.
+§ 2.
+Wysokość:
+1)
+stawek wynagrodzenia zasadniczego radców określa załącznik nr 1 do rozporządzenia;
+2)
+dodatków funkcyjnych, o których mowa w § 1 pkt 2, określa załącznik nr 2 do rozporządzenia.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2017 r.
+
+## Załącznik nr 1 — – Wysokość stawek wynagrodzenia zasadniczego radców
+
+Lp. Stawka wynagrodzenia zasadniczego Relacja do stawki wynagrodzenia zasadniczego sędziów sądów powszechnych określonej w załączniku do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2016 r. poz. 2062, 1948, 2103 i 2261 oraz z 2017 r. poz. 38 i 60) 1 2 3 1 Pierwsza 80% pierwszej stawki wynagrodzenia zasadniczego sędziego sądu rejonowego 2 Druga 90% pierwszej stawki wynagrodzenia zasadniczego sędziego sądu rejonowego 3 Trzecia pierwsza stawka wynagrodzenia zasadniczego sędziego sądu rejonowego 4 Czwarta druga stawka wynagrodzenia zasadniczego sędziego sądu rejonowego 5 Piąta trzecia stawka wynagrodzenia zasadniczego sędziego sądu rejonowego 6 Szósta czwarta stawka wynagrodzenia zasadniczego sędziego sądu okręgowego 7 Siódma piąta stawka wynagrodzenia zasadniczego sędziego sądu okręgowego 8 Ósma szósta stawka wynagrodzenia zasadniczego sędziego sądu okręgowego 9 Dziewiąta siódma stawka wynagrodzenia zasadniczego sędziego sądu apelacyjnego 10 Dziesiąta ósma stawka wynagrodzenia zasadniczego sędziego sądu apelacyjnego 11 Jedenasta dziewiąta stawka wynagrodzenia zasadniczego sędziego sądu apelacyjnego 12 Dwunasta dziesiąta stawka wynagrodzenia zasadniczego sędziego sądu apelacyjnego 13 Trzynasta 110% dziesiątej stawki wynagrodzenia zasadniczego sędziego sądu apelacyjnego 14 Czternasta 120% dziesiątej stawki wynagrodzenia zasadniczego sędziego sądu apelacyjnego 15 Piętnasta 130% dziesiątej stawki wynagrodzenia zasadniczego sędziego sądu apelacyjnego
+
+## Załącznik nr 2 — – Wysokość dodatków funkcyjnych osób pełniących w prokuratorii generalnej rzeczypospolitej polskiej funkcje określone w art. 43 ust. 2 pkt 2, art. 61 ust. 1 ustawy oraz w zarządzeniu, o którym mowa w art. 48 ustawy
+
+Lp. Pełniona funkcja Stawka dodatku funkcyjnego w złotych Stawka dodatku funkcyjnego w złotych 1 2 3 1 Dyrektor departamentu do 2500,00 zł 2 Wicedyrektor departamentu, rzecznik prasowy, rzecznik dyscyplinarny do 1700,00 zł 3 Naczelnik wydziału, wizytator do 1200,00 zł 4 Członek Kolegium Prokuratorii Generalnej Rzeczypospolitej Polskiej do 2000,00 zł 5 Członek komisji dyscyplinarnej i odwoławczej komisji dyscyplinarnej do 1000,00 zł 6 Radca delegowany do 2200,00 zł
+

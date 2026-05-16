@@ -8,9 +8,10 @@ pos: 605
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 maja 2015 r.
+# Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy – Prawo zamówień publicznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,57 +25,214 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000605) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/605/text.pdf) |
 
-USTAWA z dnia 9 kwietnia 2015 r.
-o zmianie ustawy o podatku od towarów i usług oraz ustawy Prawo zamówień publicznych
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm. ) wprowadza następujące zmiany:
+**Art. 90c.**
+
+1. W przypadku nabytych towarów i usług, w odniesieniu do których kwotę podatku naliczonego oblicza się zgodnie z art. 86 ust. 2a, po zakończeniu roku podatkowego, w którym podatnikowi przysługiwało prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o którym mowa w art. 86 ust. 1, podatnik jest obowiązany dokonać korekty podatku odliczonego przy ich nabyciu, uwzględniając dane dla zakończonego roku podatkowego. Przepisy art. 91 ust. 2–9 stosuje się odpowiednio.
+
+2. W przypadku gdy korekty podatku odliczonego dokonuje podatnik, dla którego sposób określenia proporcji wskazują przepisy wydane na podstawie art. 86 ust. 22, może on uwzględnić dane za rok podatkowy poprzedzający poprzedni rok podatkowy, jeżeli takie dane przyjęto w celu obliczenia kwoty podatku naliczonego w przypadku, o którym mowa w art. 86 ust. 2a.
+
+3. Dokonując korekty, o której mowa w ust. 1, podatnik może przyjąć inny sposób określania proporcji, niż został przyjęty dla danego roku podatkowego, jeżeli byłby on bardziej reprezentatywny dla zakończonego roku. ” ;
+
+- **10)** w art. 99: w ust. 7 pkt 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+- **2)** są obowiązani do dokonania korekty podatku odliczonego, o której mowa w art. 90a, art. 90c lub art. 91, lub
+- **3)** są obowiązani do dokonania korekty, o której mowa w art. 89a ust. 4 lub art. 89b ust. 1, lub uprawnieni do dokonania korekty, o której mowa w art. 89b ust. 4. ” , ust. 9 otrzymuje brzmienie: „
+    - **b)**
+
+9. W przypadku gdy podatnicy wymienieni w art. 17 ust. 1 pkt 4, 5 i 8 nie mają obowiązku składania deklaracji podatkowej, o którym mowa w ust. 1–3 lub 8, deklarację podatkową składa się w terminie do 25. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek podatkowy. ” ;
+
+- **11)** po art. 101 dodaje się art. 101a w brzmieniu: „
+
+**Art. 101a.**
+
+1. Podatnicy dokonujący dostawy towarów lub świadczący usługi, dla których podatnikiem jest nabywca, w przypadkach, o których mowa w art. 17 ust. 1 pkt 7 i 8, są obowiązani składać w urzędzie skarbowym zbiorcze informacje o dokonanych dostawach towarów oraz świadczonych usługach, zwane dalej „informacjami podsumowującymi w obrocie krajowym”.
+
+2. Informacje podsumowujące w obrocie krajowym składa się za okresy rozliczeniowe, w których powstał obowiązek podatkowy, w terminach przewidzianych dla złożenia przez podatnika deklaracji podatkowych, o których mowa odpowiednio w art. 99 ust. 1–3.
+
+3. Informacja podsumowująca w obrocie krajowym powinna zawierać następujące dane:
+
+- **1)** nazwę lub imię i nazwisko oraz numer identyfikacji podatkowej podatnika składającego informację podsumowującą w obrocie krajowym;
+- **2)** nazwę lub imię i nazwisko oraz numer identyfikacji podatkowej podatnika nabywającego towary lub usługi;
+- **3)** łączną wartość dostaw towarów oraz świadczonych usług, dla których podatnikiem jest nabywca, w przypadkach, o których mowa w art. 17 ust. 1 pkt 7 i 8 – w odniesieniu do poszczególnych nabywców.
+
+4. W przypadku stwierdzenia błędów w danych zawartych w złożonej informacji podsumowującej w obrocie krajowym podatnik jest obowiązany złożyć niezwłocznie korektę tej informacji.
+
+5. W przypadku zmiany wartości dostaw towarów lub świadczonych usług, o których mowa w ust. 3 pkt 3, podatnik jest obowiązany skorygować łączną wartość w rozliczeniu za okres rozliczeniowy, za który dokonuje się korekty podstawy opodatkowania w deklaracji podatkowej. Jeżeli korekta dotyczy okresu, za który została złożona informacja podsumowująca w obrocie krajowym, przepis ust. 4 stosuje się odpowiednio. ” ;
+
+- **12)** w art. 102 dodaje się ust. 3 w brzmieniu: „
+
+3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji podsumowującej w obrocie krajowym wraz z objaśnieniami co do sposobu jej wypełnienia, terminu i miejsca składania, oraz wzór korekty tej informacji wraz z objaśnieniami co do sposobu jej wypełnienia, uwzględniając specyfikę dostaw towarów oraz świadczenia usług, dla których podatnikiem jest nabywca, w przypadkach, o których mowa w art. 17 ust. 1 pkt 7 i 8. ” ;
+
+- **13)** w art. 105a w ust. 3 w pkt 3 lit. b otrzymuje brzmienie: „ wysokość kaucji gwarancyjnej, o której mowa w art. 105b ust. 1, odpowiadała co najmniej jednej piątej kwoty podatku należnego przypadającej na dostawy towarów dokonane w danym miesiącu na rzecz danego podatnika lub kaucja ta wynosiła co najmniej: – 3 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 1–9 i 12–21 załącznika nr 13 do ustawy, – 10 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy. ” ;
+    - **b)**
+
+- **14)** w art. 105b: w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Podmiot dokonujący dostawy towarów, o których mowa w załączniku nr 13 do ustawy, nieposiadający zaległości podatkowych w podatkach stanowiących dochód budżetu państwa może złożyć w urzędzie skarbowym kaucję gwarancyjną stanowiącą zabezpieczenie zapłaty podatku wraz z odsetkami za zwłokę w związku z dokonywaniem dostaw tych towarów oraz powstałych po wniesieniu kaucji gwarancyjnej zaległości podatkowych w podatkach stanowiących dochód budżetu państwa. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Podmiot, o którym mowa w ust. 1, wraz ze złożeniem kaucji gwarancyjnej składa wniosek w sprawie przyjęcia kaucji gwarancyjnej. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Wysokość kaucji gwarancyjnej powinna odpowiadać co najmniej jednej piątej kwoty podatku należnego od przewidywanej przez podmiot, o którym mowa w ust. 1, w danym miesiącu wartości sprzedaży towarów, o których mowa w załączniku nr 13 do ustawy, z tym że nie może być niższa niż:
+
+- **1)** 200 000 zł – w przypadku dostawy towarów wymienionych w poz. 1–9 i 12–21 załącznika nr 13 do ustawy;
+- **2)** 1 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy. ” , po ust. 3 dodaje się ust. 3a-3f w brzmieniu: „
+    - **d)**
+
+3a. Podmiot, o którym mowa w ust. 1, może dokonać zmiany formy złożonej kaucji gwarancyjnej na jedną lub więcej form, o których mowa w ust. 3, jeżeli zmiana formy kaucji gwarancyjnej nie spowoduje zmniejszenia jej wysokości.
+
+3b. Kaucja gwarancyjna, o której mowa w ust. 3 pkt 2, powinna obejmować zobowiązanie się gwaranta do zapłacenia do wysokości udzielonej gwarancji, bezwarunkowo i nieodwołalnie, na pierwsze pisemne wezwanie reprezentującego Skarb Państwa właściwego naczelnika urzędu skarbowego, zwanego dalej „beneficjentem gwarancji”, złożone w okresie trwania odpowiedzialności gwaranta:
+
+- **1)** zabezpieczonej kwoty podatku, o której mowa w ust. 1, wraz z odsetkami za zwłokę, powstałej u podmiotu, któremu udzielił gwarancji, w okresie, na który została udzielona gwarancja, zwanym dalej „okresem ważności gwarancji”, jeżeli jej zapłata stanie się wymagalna w okresie ważności gwarancji, oraz
+- **2)** powstałych u podmiotu, o którym mowa w pkt 1, po złożeniu kaucji gwarancyjnej w okresie ważności gwarancji, zaległości podatkowych w podatkach stanowiących dochód budżetu państwa.
+
+3c. Kaucja gwarancyjna, o której mowa w ust. 3 pkt 2, powinna przewidywać przedłużenie okresu trwania odpowiedzialności gwaranta po upływie okresu ważności gwarancji o odpowiednie terminy wskazane w ust. 8 pkt 1 i 2 w razie wystąpienia przypadków, o których mowa w tych przepisach.
+
+3d. Wezwanie, o którym mowa w ust. 3b, powinno zawierać oświadczenie beneficjenta gwarancji, że zapłacenie żądanych kwot stało się wymagalne.
+
+3e. Kaucja gwarancyjna, o której mowa w ust. 3 pkt 3, powinna zawierać nieodwołalne upoważnienie dla reprezentującego Skarb Państwa właściwego naczelnika urzędu skarbowego, potwierdzone przez bank lub spółdzielczą kasę oszczędnościowo-kredytową, do wyłącznego dysponowania w okresie, na który udzielono upoważnienia, do wysokości złożonej kaucji gwarancyjnej, środkami pieniężnymi zgromadzonymi na rachunku prowadzonym w tym banku lub w tej kasie, tytułem zabezpieczenia:
+
+- **1)** kwoty podatku, o której mowa w ust. 1, wraz z odsetkami za zwłokę, powstałej w okresie, na który udzielono upoważnienia, zwanym dalej „okresem ważności upoważnienia”, jeżeli jej zapłata stanie się wymagalna w okresie ważności upoważnienia, oraz
+- **2)** powstałych po złożeniu kaucji gwarancyjnej zaległości podatkowych w podatkach stanowiących dochód budżetu państwa.
+
+3f. Kaucja gwarancyjna, o której mowa w ust. 3 pkt 3, powinna przewidywać przedłużenie okresu obowiązywania upoważnienia po upływie okresu ważności upoważnienia o odpowiednie terminy wskazane w ust. 8 pkt 1 i 2 w razie wystąpienia przypadków, o których mowa w tych przepisach. ” , ust. 4 otrzymuje brzmienie: „
+
+- **e)**
+
+4. Kaucja gwarancyjna może zostać złożona bezterminowo albo z określonym terminem ważności, liczonym w miesiącach, jednak nie krótszym niż 12 kolejnych miesięcy kalendarzowych, licząc od dnia złożenia kaucji gwarancyjnej. ” , w ust. 5 pkt 3 otrzymuje brzmienie: „
+
+- **f)**
+- **3)** kaucja gwarancyjna podlega zwrotowi, z zastrzeżeniem ust. 8 i 9, w całości albo w części przewyższającej kwotę: 200 000 zł – w przypadku dostawy towarów wymienionych w poz. 1–9 i 12–21 załącznika nr 13 do ustawy, 1 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **g)**
+
+6a. W przypadku odmowy przyjęcia kaucji gwarancyjnej kaucja gwarancyjna podlega zwrotowi nie później niż w terminie 10 dni od dnia odmowy przyjęcia kaucji gwarancyjnej, z zastrzeżeniem ust. 8 i 9. ” , w ust. 7 pkt 1 otrzymuje brzmienie: „
+
+- **h)**
+- **1)** w formie, o której mowa w ust. 3 pkt 1 – następuje na rachunek podmiotu, o którym mowa w ust. 1, w banku mającym siedzibę na terytorium kraju lub na rachunek tego podmiotu w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem, wskazany we wniosku w sprawie przyjęcia kaucji gwarancyjnej, albo na inny rachunek w takim banku lub w takiej kasie, wskazany przez ten podmiot po złożeniu tego wniosku; ” , w ust. 8 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+    - **i)**
+
+- **3)** złożenia wniosku o zwrot kaucji w przypadku usunięcia podmiotu z wykazu na podstawie art. 105c ust. 5 lub ust. 9 pkt 2–4, jeżeli został on złożony po upływie 5 lat, licząc od końca roku, w którym podmiot składający kaucję został usunięty z wykazu. ” , w ust. 9 zdanie pierwsze otrzymuje brzmienie: „W przypadku powstania po złożeniu kaucji gwarancyjnej u podmiotu, o którym mowa w ust. 1, zaległości podatkowej w podatkach stanowiących dochód budżetu państwa kaucję gwarancyjną przeznacza się na pokrycie tej zaległości, z wyłączeniem zaległości, których zapłatę odroczono lub rozłożono na raty zgodnie z art. 67a § 1 pkt 2 Ordynacji podatkowej.”, po ust. 9 dodaje się ust. 9a-9d w brzmieniu: „
+    - **j)**
+    - **k)**
+
+9a. Od kwoty przyjętej kaucji gwarancyjnej złożonej w formie, o której mowa w ust. 3 pkt 1, przysługują odsetki. Przepis ust. 9 stosuje się odpowiednio. 9b. Odsetki są naliczane od dnia przyjęcia kaucji gwarancyjnej do dnia odpowiednio jej zwrotu lub zaliczenia na poczet zaległości podatkowej, o którym mowa w ust. 9. 9c. Stawka odsetek jest równa 30% stopy depozytowej ustalanej zgodnie z przepisami o Narodowym Banku Polskim. 9d. Odsetki podlegają zwrotowi wraz z kwotą kaucji gwarancyjnej na zasadach właściwych dla zwrotu kaucji gwarancyjnej. ” , ust. 10 otrzymuje brzmienie: „
+
+- **l)**
+
+10. W sprawie przyjęcia, przedłużenia terminu ważności, podwyższenia wysokości, zmiany formy oraz zwrotu kaucji gwarancyjnej, w tym z odsetkami, wydaje się postanowienie, na które służy zażalenie. ” , dodaje się ust. 11–13 w brzmieniu: „
+
+- **m)**
+
+11. Postanowienie, o którym mowa w ust. 10, wydaje się niezwłocznie, nie później jednak niż w terminie 7 dni odpowiednio od dnia:
+
+- **1)** złożenia wniosku w sprawie przyjęcia, przedłużenia terminu ważności, podwyższenia wysokości lub zmiany formy kaucji gwarancyjnej;
+- **2)** dokonania zwrotu kaucji gwarancyjnej, w tym z odsetkami.
+
+12. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku w sprawie kaucji gwarancyjnej składanego w przypadku przyjęcia, przedłużenia terminu ważności, podwyższenia wysokości, zmiany formy oraz zwrotu kaucji gwarancyjnej, uwzględniając konieczność zapewnienia właściwego zabezpieczenia zapłaty podatku w związku z dokonywaniem dostaw towarów, o których mowa w ust. 1, oraz powstałych po złożeniu kaucji gwarancyjnej zaległości podatkowych w podatkach stanowiących dochód budżetu państwa.
+
+13. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe zasady naliczania odsetek od kwoty przyjętej kaucji gwarancyjnej, o której mowa w ust. 3 pkt 1, uwzględniając konieczność zapewnienia prawidłowego obliczenia tych odsetek oraz biorąc pod uwagę okres przechowywania kaucji, a także zasady kalkulacji i wysokość stopy depozytowej, o której mowa w ust. 9c. ” ;
+
+- **15)** w art. 105c: w ust. 5 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** jest niższa niż: 200 000 zł – w przypadku dostawy towarów wymienionych w poz. 1–9 i 12–21 załącznika nr 13 do ustawy, 1 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy ” , ust. 6 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+6. Przepisu ust. 5 pkt 1 nie stosuje się, jeżeli wysokość kaucji gwarancyjnej wynosi co najmniej:
+
+- **1)** 3 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 1–9 i 12–21 załącznika nr 13 do ustawy;
+- **2)** 10 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy. ” , w ust. 9 pkt 2 otrzymuje brzmienie: „
+    - **c)**
+
+- **2)** w przypadku upływu terminu ważności całości kaucji gwarancyjnej lub jej części, jeżeli wskutek tego wysokość kaucji gwarancyjnej będzie niższa niż: 200 000 zł – w przypadku dostawy towarów wymienionych w poz. 1–9 i 12–21 załącznika nr 13 do ustawy, 1 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy ostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym upłynie ten termin; ” , dodaje się ust. 10 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **d)**
+
+10. W przypadku podmiotów usuniętych z wykazu na podstawie ust. 5 lub ust. 9 pkt 2–4 zwrotu kaucji gwarancyjnej dokonuje się w terminie i na zasadach określonych w art. 105b ust. 6–10 i ust. 11 pkt 2. ” ;
+
+- **16)** po art. 105c dodaje się art. 105d w brzmieniu: „
+
+**Art. 105d.**
+
+1. W przypadku zmiany naczelnika urzędu skarbowego właściwego dla rozliczeń podatku naczelnikiem urzędu skarbowego właściwym w sprawach, o których mowa w art. 105b i art. 105c, jest naczelnik urzędu skarbowego właściwy w sprawie rozliczania podatku.
+
+2. Naczelnik urzędu skarbowego właściwy przed zmianą właściwości przekazuje niezwłocznie właściwemu naczelnikowi urzędu skarbowego kaucję gwarancyjną wraz z odsetkami, jeżeli są należne, złożoną przez podmiot, o którym mowa w art. 105b ust. 1. ” ;
+
+- **17)** w art. 108 dodaje się ust. 4 w brzmieniu: „
+
+4. W przypadku, o którym mowa w art. 17 ust. 2a, do zapłaty podatku jest obowiązany podmiot, który nabył towary. ” ;
+
+- **18)** w załączniku nr 3 do ustawy: po poz. 128 w kol. 3 skreśla się wyrazy „Towary przeznaczone na cele ochrony przeciwpożarowej”, uchyla się poz. 129–134;
+    - **a)**
+    - **b)**
+
+- **19)** w załączniku nr 11 do ustawy: po poz. 21 dodaje się poz. 21a w brzmieniu: „ „21a 24.33.20.0 Arkusze żeberkowane ze stali niestopowej” po poz. 22 dodaje się poz. 22a-22g w brzmieniu: „ „22a ex 24.41.20.0 Złoto nieobrobione plastycznie lub w postaci półproduktu, lub w postaci proszku – wyłącznie złoto o próbie 325 tysięcznych lub większej, z wyłączeniem złota inwestycyjnego w rozumieniu art. 121 ustawy, z zastrzeżeniem poz. 22b 22b bez względu na symbol PKWiU Złoto inwestycyjne w rozumieniu art. 121 ustawy 22c ex 24.41.50.0 Metale nieszlachetne platerowane srebrem oraz metale nieszlachetne, srebro lub złoto, platerowane platyną, nieobrobione inaczej niż do stanu półproduktu – wyłącznie złoto o próbie 325 tysięcznych lub większej, platerowane platyną, nieobrobione inaczej niż do stanu półproduktu 22d 24.42.11.0 Aluminium nieobrobione plastycznie 22e 24.43.11.0 Ołów nieobrobiony plastycznie 22f 24.43.12.0 Cynk nieobrobiony plastycznie 22g 24.43.13.0 Cyna nieobrobiona plastycznie” po poz. 27 dodaje się poz. 27a w brzmieniu: „ „27a 24.45.11.0 Nikiel nieobrobiony plastycznie” po poz. 28 dodaje się poz. 28a-28d w brzmieniu: „ „28a ex 26.20.11.0 Przenośne maszyny do automatycznego przetwarzania danych, o masie <= 10 kg, takie jak: laptopy i notebooki; komputery kieszonkowe (np. notesy komputerowe) i podobne – wyłącznie komputery przenośne, takie jak: tablety, notebooki, laptopy 28b ex 26.30.22.0 Telefony dla sieci komórkowych lub dla innych sieci bezprzewodowych – wyłącznie telefony komórkowe, w tym smartfony 28c ex 26.40.60.0 Konsole do gier wideo (w rodzaju stosowanych z odbiornikiem telewizyjnym lub samodzielnym ekranem) i pozostałe urządzenia do gier zręcznościowych lub hazardowych z elektronicznym wyświetlaczem – z wyłączeniem części i akcesoriów 28d ex 32.12.13.0 Biżuteria i jej części oraz pozostałe wyroby jubilerskie i ich części, ze złota i srebra lub platerowane metalem szlachetnym – wyłącznie części biżuterii i części pozostałych wyrobów jubilerskich ze złota o próbie 325 tysięcznych lub większej, tj. niewykończone lub niekompletne wyroby jubilerskie i wyraźne części biżuterii, w tym pokrywane lub platerowane metalem szlachetnym”
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **20)** w załączniku nr 13 do ustawy część III otrzymuje brzmienie: „ „III. Pozostałe towary 12 ex 20.59.12.0 Emulsje do uczulania powierzchni do stosowania w fotografice; preparaty chemiczne do stosowania w fotografice, gdzie indziej niesklasyfikowane – wyłącznie tonery bez głowicy drukującej do drukarek do maszyn do automatycznego przetwarzania danych 13 ex 20.59.30.0 Atrament do pisania, tusz kreślarski i pozostałe atramenty i tusze – wyłącznie kasety z tuszem bez głowicy do drukarek do maszyn do automatycznego przetwarzania danych 14 24.41.10.0 Srebro nieobrobione plastycznie lub w postaci półproduktu, lub w postaci proszku 15 ex 24.41.20.0 Złoto nieobrobione plastycznie lub w postaci półproduktu, lub w postaci proszku – wyłącznie złoto o próbie mniejszej niż 325 tysięcznych 16 24.41.30.0 Platyna nieobrobiona plastycznie lub w postaci półproduktu, lub w postaci proszku 17 ex 24.41.40.0 Metale nieszlachetne lub srebro, platerowane złotem, nieobrobione inaczej niż do stanu półproduktu – wyłącznie srebro, platerowane złotem, nieobrobione inaczej niż do stanu półproduktu 18 ex 24.41.50.0 Metale nieszlachetne platerowane srebrem oraz metale nieszlachetne, srebro lub złoto, platerowane platyną, nieobrobione inaczej niż do stanu półproduktu – wyłącznie złoto o próbie mniejszej niż 325 tysięcznych i srebro, platerowane platyną, nieobrobione inaczej niż do stanu półproduktu 19 ex 26.70.13.0 Aparaty fotograficzne cyfrowe i kamery cyfrowe – wyłącznie cyfrowe aparaty fotograficzne 20 ex 28.23.26.0 Części i akcesoria do fotokopiarek – wyłącznie kasety z tuszem i głowicą drukującą do drukarek do maszyn do automatycznego przetwarzania danych, tonery z głowicą drukującą do drukarek do maszyn do automatycznego przetwarzania danych 21 ex 32.12.13.0 Biżuteria i jej części oraz pozostałe wyroby jubilerskie i ich części, ze złota i srebra lub platerowane metalem szlachetnym – wyłącznie części biżuterii i części pozostałych wyrobów jubilerskich ze złota o próbie mniejszej niż 325 tysięcznych, ze srebra i z platyny, tj. niewykończone lub niekompletne wyroby jubilerskie i wyraźne części biżuterii, w tym pokrywane lub platerowane metalem szlachetnym”
+
+**Art. 2.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.) wprowadza się następujące zmiany:
 
 **Art. 3.**
 
-1. W przypadku uiszczenia przed dniem 1 lipca 2015 r. całości lub części zapłaty na poczet dokonanej od tego dnia dostawy towarów, dla której podatnikiem od dnia 1 lipca 2015 r. przestał być nabywca zgodnie z art. 17 1 pkt 7 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, do tej dostawy stosuje przepis art. 17 1 pkt 7 ustawy wymienionej art. 1, brzmieniu dotychczasowym.
+1. W przypadku uiszczenia przed dniem 1 lipca 2015 r. całości lub części zapłaty na poczet dokonanej od tego dnia dostawy towarów, dla której podatnikiem od dnia 1 lipca 2015 r. przestał być nabywca zgodnie z art. 17 ust. 1 pkt 7 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, do tej dostawy stosuje się przepis art. 17 ust. 1 pkt 7 ustawy wymienionej w art. 1, w brzmieniu dotychczasowym.
 
-2. W przypadku uiszczenia przed dniem 1 lipca 2015 r. całości lub części zapłaty na poczet dokonanej od tego dnia dostawy towarów, dla której podatnikiem od dnia 1 lipca 2015 r. stał nabywca zgodnie z art. 17 1 pkt 7 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, korekty rozliczenia tej zapłaty dokonuje rozliczeniu za okres, którym dokonano dostawy tych towarów.
+2. W przypadku uiszczenia przed dniem 1 lipca 2015 r. całości lub części zapłaty na poczet dokonanej od tego dnia dostawy towarów, dla której podatnikiem od dnia 1 lipca 2015 r. stał się nabywca zgodnie z art. 17 ust. 1 pkt 7 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, korekty rozliczenia tej zapłaty dokonuje się w rozliczeniu za okres, w którym dokonano dostawy tych towarów.
 
-**Art. 4.** W przypadku zawarcia przed dniem 1 lipca 2015 r. umowy lub umów, ramach których występują dostawy towarów wymienionych poz. 28a–28c załącznika nr 11 do ustawy wymienionej art. 1, przepisy art. 17 1c–1e ustawy wymienionej art. 1 stosuje odpowiednio do tych dostaw dokonanych od dnia 1 lipca 2015 r., jeżeli łączna wartość tych dostaw, bez kwoty podatku, przekracza od dnia 1 lipca 2015 r. kwotę 20 000 zł.
+**Art. 4.** W przypadku zawarcia przed dniem 1 lipca 2015 r. umowy lub umów, w ramach których występują dostawy towarów wymienionych w poz. 28a-28c załącznika nr 11 do ustawy wymienionej w art. 1, przepisy art. 17 ust. 1c-1e ustawy wymienionej w art. 1 stosuje się odpowiednio do tych dostaw dokonanych od dnia 1 lipca 2015 r., jeżeli łączna wartość tych dostaw, bez kwoty podatku, przekracza od dnia 1 lipca 2015 r. kwotę 20 000 zł.
 
-**Art. 5.** Do wierzytelności powstałych przed dniem 1 lipca 2015 r., których nieściągalność zgodnie z art. 89a 1a ustawy wymienionej art. 1 została uprawdopodobniona po dniu 31 grudnia 2012 r., mogą mieć zastosowanie przepisy art. 89a i art. 89b ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą.
+**Art. 5.** Do wierzytelności powstałych przed dniem 1 lipca 2015 r., których nieściągalność zgodnie z art. 89a ust. 1a ustawy wymienionej w art. 1 została uprawdopodobniona po dniu 31 grudnia 2012 r., mogą mieć zastosowanie przepisy art. 89a i art. 89b ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 6.**
 
-1. Przepis art. 90c ustawy wymienionej art. 1 ma zastosowanie do towarów i usług nabytych od dnia 1 stycznia 2016 r.
+1. Przepis art. 90c ustawy wymienionej w art. 1 ma zastosowanie do towarów i usług nabytych od dnia 1 stycznia 2016 r.
 
-2. W przypadku nakładów poniesionych przed dniem 1 stycznia 2016 r. na nabycie, tym na nabycie praw wieczystego użytkowania gruntów, oraz wytworzenie nieruchomości, stanowiącej majątek przedsiębiorstwa danego podatnika, do których miał zastosowanie art. 90a ustawy wymienionej art. 1, brzmieniu dotychczasowym, korekty kwoty podatku naliczonego pozostałym jej okresie dokonuje na zasadach określonych art. 90c ustawy wymienionej art. 1.
+2. W przypadku nakładów poniesionych przed dniem 1 stycznia 2016 r. na nabycie, w tym na nabycie praw wieczystego użytkowania gruntów, oraz wytworzenie nieruchomości, stanowiącej majątek przedsiębiorstwa danego podatnika, do których miał zastosowanie art. 90a ustawy wymienionej w art. 1, w brzmieniu dotychczasowym, korekty kwoty podatku naliczonego w pozostałym jej okresie dokonuje się na zasadach określonych w art. 90c ustawy wymienionej w art. 1.
 
-**Art. 7.** Informacje podsumowujące obrocie krajowym, o których mowa art. 101a 1 ustawy wymienionej art. 1, składa za okresy rozliczeniowe, które przypadają od dnia 1 lipca 2015 r.
+**Art. 7.** Informacje podsumowujące w obrocie krajowym, o których mowa w art. 101a ust. 1 ustawy wymienionej w art. 1, składa się za okresy rozliczeniowe, które przypadają od dnia 1 lipca 2015 r.
 
-**Art. 8.** W przypadku kaucji gwarancyjnych, o których mowa art. 105b 3 pkt 1 ustawy wymienionej art. 1, złożonych przed dniem 1 lipca 2015 r., odsetki, o których mowa art. 105b 9a ustawy wymienionej art. 1, nalicza od dnia 1 lipca 2015 r.
+**Art. 8.** W przypadku kaucji gwarancyjnych, o których mowa w art. 105b ust. 3 pkt 1 ustawy wymienionej w art. 1, złożonych przed dniem 1 lipca 2015 r., odsetki, o których mowa w art. 105b ust. 9a ustawy wymienionej w art. 1, nalicza się od dnia 1 lipca 2015 r.
 
 **Art. 9.**
 
-1. Przepisy art. 105b 3b–3f ustawy wymienionej art. 1 mają zastosowanie do kaucji gwarancyjnych, o których mowa art. 105b 3 pkt 2 i 3 ustawy wymienionej art. 1, złożonych przed dniem 1 lipca 2015 r., przypadku gdy od tego dnia:
+1. Przepisy art. 105b ust. 3b-3f ustawy wymienionej w art. 1 mają zastosowanie do kaucji gwarancyjnych, o których mowa w art. 105b ust. 3 pkt 2 i 3 ustawy wymienionej w art. 1, złożonych przed dniem 1 lipca 2015 r., w przypadku gdy od tego dnia:
 
-- **1)** złożono wniosek sprawie:
-    - **a)** przedłużenia terminu ważności złożonej kaucji gwarancyjnej lub
-    - **b)** podwyższenia wysokości złożonej kaucji gwarancyjnej, lub
-    - **c)** zmiany formy kaucji gwarancyjnej, o której mowa art. 105b 3a ustawy wymienionej art. 1, jeżeli ramach dokonywanej zmiany wystąpi co najmniej jedna z form kaucji gwarancyjnej, o których mowa art. 105b 3 pkt 2 lub 3 ustawy wymienionej art. 1, lub
+- **1)** złożono wniosek w sprawie: przedłużenia terminu ważności złożonej kaucji gwarancyjnej lub podwyższenia wysokości złożonej kaucji gwarancyjnej, lub zmiany formy kaucji gwarancyjnej, o której mowa w art. 105b ust. 3a ustawy wymienionej w art. 1, jeżeli w ramach dokonywanej zmiany wystąpi co najmniej jedna z form kaucji gwarancyjnej, o których mowa w art. 105b ust. 3 pkt 2 lub 3 ustawy wymienionej w art. 1, lub
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** nastąpiła zmiana właściwości naczelnika urzędu skarbowego na podstawie art. 105d ustawy wymienionej art. 1. bowego, do wymogów, o których mowa art. 105b 3b–3f ustawy wymienionej art. 1, właściwy naczelnik urzędu skarbowego usuwa pierwszego dnia roboczego miesiąca następującego po upływie tego terminu podmiot z wykazu, o którym mowa art. 105c 1 ustawy wymienionej art. 1.
+- **2)** nastąpiła zmiana właściwości naczelnika urzędu skarbowego na podstawie art. 105d ustawy wymienionej w art. 1.
 
-**Art. 10.** Przepis art. 105b 4 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, nie ma zastosowania do kaucji gwarancyjnych z określonym terminem ważności, złożonych przed dniem 1 lipca 2015 r., z wyjątkiem przypadków, gdy od tego dnia złożono wniosek sprawie przedłużenia terminu ważności kaucji gwarancyjnej.
+2. Jeżeli w przypadku, o którym mowa w ust. 1 pkt 2, podmiot, który złożył kaucję gwarancyjną, nie dostosuje kaucji gwarancyjnej w terminie 3 miesięcy, licząc od dnia, w którym miała miejsce zmiana właściwości naczelnika urzędu skarbowego, do wymogów, o których mowa w art. 105b ust. 3b-3f ustawy wymienionej w art. 1, właściwy naczelnik urzędu skarbowego usuwa pierwszego dnia roboczego miesiąca następującego po upływie tego terminu podmiot z wykazu, o którym mowa w art. 105c ust. 1 ustawy wymienionej w art. 1.
+
+**Art. 10.** Przepis art. 105b ust. 4 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie ma zastosowania do kaucji gwarancyjnych z określonym terminem ważności, złożonych przed dniem 1 lipca 2015 r., z wyjątkiem przypadków, gdy od tego dnia złożono wniosek w sprawie przedłużenia terminu ważności kaucji gwarancyjnej.
 
 **Art. 11.**
 
-1. Podmioty, które przed dniem 1 lipca 2015 r. złożyły kaucję gwarancyjną, o której mowa art. 105b 1 ustawy wymienionej art. 1, brzmieniu dotychczasowym, i kaucja ta została przyjęta przed tym dniem, dokonujące od dnia 1 lipca 2015 r. dostawy towarów, o których mowa poz. 10 i 11 załącznika nr 13 do ustawy wymienionej art. 1, są obowiązane do dnia 30 września 2015 r. podwyższyć kaucję gwarancyjną do wysokości wynikającej z art. 105b 2 pkt 2 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą.
+1. Podmioty, które przed dniem 1 lipca 2015 r. złożyły kaucję gwarancyjną, o której mowa w art. 105b ust. 1 ustawy wymienionej w art. 1, w brzmieniu dotychczasowym, i kaucja ta została przyjęta przed tym dniem, dokonujące od dnia 1 lipca 2015 r. dostawy towarów, o których mowa w poz. 10 i 11 załącznika nr 13 do ustawy wymienionej w art. 1, są obowiązane do dnia 30 września 2015 r. podwyższyć kaucję gwarancyjną do wysokości wynikającej z art. 105b ust. 2 pkt 2 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Do dnia podwyższenia kaucji gwarancyjnej, nie później jednak niż do dnia 30 września 2015 r., przypadkach, o których mowa 1, stosuje przepisy art. 105a 3 pkt 3 lit. b, art. 105b 2 i 5 pkt 3, art. 105c 5 pkt 2, 6 i 9 pkt 2 ustawy wymienionej art. 1, brzmieniu dotychczasowym.
+2. Do dnia podwyższenia kaucji gwarancyjnej, nie później jednak niż do dnia 30 września 2015 r., w przypadkach, o których mowa w ust. 1, stosuje się przepisy art. 105a ust. 3 pkt 3 lit. b, art. 105b ust. 2 i ust. 5 pkt 3, art. 105c ust. 5 pkt 2, ust. 6 i ust. 9 pkt 2 ustawy wymienionej w art. 1, w brzmieniu dotychczasowym.
 
-3. W okresie do dnia podwyższenia kaucji gwarancyjnej do wysokości 10 000 000 zł, nie później jednak niż do dnia 30 września 2015 r., przypadku gdy podmioty, które przed dniem 1 lipca 2015 r. wniosły kaucję gwarancyjną, o której mowa art. 105b 1 ustawy wymienionej art. 1, brzmieniu dotychczasowym, wysokości 3 000 000 zł i kaucja ta została przyjęta przed dniem 1 lipca 2015 r., dokonują od tego dnia dostawy towarów, o których mowa poz. 10 i 11 załącznika nr 13 do ustawy wymienionej art. 1, stosuje przepisy art. 105a 3 pkt 3 i art. 105c 5 i 6 ustawy wymienionej art. 1, brzmieniu dotychczasowym.
+3. W okresie do dnia podwyższenia kaucji gwarancyjnej do wysokości 10 000 000 zł, nie później jednak niż do dnia 30 września 2015 r., w przypadku gdy podmioty, które przed dniem 1 lipca 2015 r. wniosły kaucję gwarancyjną, o której mowa w art. 105b ust. 1 ustawy wymienionej w art. 1, w brzmieniu dotychczasowym, w wysokości 3 000 000 zł i kaucja ta została przyjęta przed dniem 1 lipca 2015 r., dokonują od tego dnia dostawy towarów, o których mowa w poz. 10 i 11 załącznika nr 13 do ustawy wymienionej w art. 1, stosuje się przepisy art. 105a ust. 3 pkt 3 i art. 105c ust. 5 i 6 ustawy wymienionej w art. 1, w brzmieniu dotychczasowym.
 
 **Art. 12.**
 
-1. W przypadku postępowania o udzielenie zamówienia publicznego prowadzonego na podstawie ustawy wymienionej art. 2, wszczętego przed dniem 1 lipca 2015 r., którego przedmiot objęty jest zakresem niniejszej ustawy, zamawiający wzywa wykonawców, którzy złożyli oferty, do przedstawienia informacji dotyczącej kwoty podatku od towarów i usług doliczonej do ceny złożonej oferty, jeżeli ta informacja nie wynika z treści oferty, oraz informacji dotyczącej możliwości powstania u zamawiającego obowiązku podatkowego na podstawie ustawy wymienionej art. 1, wraz ze wskazaniem nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będzie prowadzić do jego powstania, oraz ich wartości bez kwoty podatku, a następnie poprawia oferty zakresie ceny przez pomniejszenie tej ceny o podatek od towarów i usług zakresie, jakim u zamawiającego powstaje obowiązek rozliczenia podatku od towarów i usług. Oferta, której wybór powodowałby powstanie obowiązku podatkowego u zamawiającego, jest oceniana z uwzględnieniem art. 91 3a ustawy wymienionej art. 2, brzmieniu nadanym niniejszą ustawą.
+1. W przypadku postępowania o udzielenie zamówienia publicznego prowadzonego na podstawie ustawy wymienionej w art. 2, wszczętego przed dniem 1 lipca 2015 r., którego przedmiot objęty jest zakresem niniejszej ustawy, zamawiający wzywa wykonawców, którzy złożyli oferty, do przedstawienia informacji dotyczącej kwoty podatku od towarów i usług doliczonej do ceny złożonej oferty, jeżeli ta informacja nie wynika z treści oferty, oraz informacji dotyczącej możliwości powstania u zamawiającego obowiązku podatkowego na podstawie ustawy wymienionej w art. 1, wraz ze wskazaniem nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będzie prowadzić do jego powstania, oraz ich wartości bez kwoty podatku, a następnie poprawia oferty w zakresie ceny przez pomniejszenie tej ceny o podatek od towarów i usług w zakresie, w jakim u zamawiającego powstaje obowiązek rozliczenia podatku od towarów i usług. Oferta, której wybór powodowałby powstanie obowiązku podatkowego u zamawiającego, jest oceniana z uwzględnieniem art. 91 ust. 3a ustawy wymienionej w art. 2, w brzmieniu nadanym niniejszą ustawą.
 
-2. W przypadku umów sprawach zamówień publicznych zawartych przed dniem 1 lipca 2015 r. zamawiający jest uprawniony do wystąpienia o zmianę umowy zakresie obniżenia wynagrodzenia wykonawcy o kwotę podatku od towarów i usług, którą obowiązany jest rozliczyć zamiast wykonawcy na podstawie przepisów ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą. W zakresie przedstawienia informacji dotyczącej kwoty podatku od towarów i usług stosuje odpowiednio 1. Brak zgody wykonawcy na zmianę umowy uprawnia zamawiającego do odstąpienia od niej.
+2. W przypadku umów w sprawach zamówień publicznych zawartych przed dniem 1 lipca 2015 r. zamawiający jest uprawniony do wystąpienia o zmianę umowy w zakresie obniżenia wynagrodzenia wykonawcy o kwotę podatku od towarów i usług, którą obowiązany jest rozliczyć zamiast wykonawcy na podstawie przepisów ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą. W zakresie przedstawienia informacji dotyczącej kwoty podatku od towarów i usług stosuje się odpowiednio ust. 1. Brak zgody wykonawcy na zmianę umowy uprawnia zamawiającego do odstąpienia od niej.
 
-**Art. 13.** Ustawa wchodzi życie z dniem 1 lipca 2015 r., z wyjątkiem art. 1 pkt 3–5, 8, 9, pkt 10 lit. a zakresie art. 99 7 pkt 2, i pkt 18 oraz art. 6, które wchodzą życie z dniem 1 stycznia 2016 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 lipca 2015 r., z wyjątkiem art. 1 pkt 3–5, 8, 9, pkt 10 lit. a – w zakresie art. 99 ust. 7 pkt 2, i pkt 18 oraz art. 6, które wchodzą w życie z dniem 1 stycznia 2016 r.
 

@@ -8,6 +8,7 @@ pos: 1707
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 22 grudnia 2011 r. o zmianie niektórych ustaw związanych z realizacją ustawy budżetowej
@@ -24,128 +25,213 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112911707) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1707/text.pdf) |
 
-**Art. 1.** W ustawie dnia 4 marca 1994 zakładowym funduszu świadczeń socjalnych (Dz. U. 1996 70, 335, późn. zm.
+**Art. 1.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 1996 r. Nr 70, poz. 335, z późn. zm.) po art. 5 dodaje się art. 5a w brzmieniu: „
 
-**Art. 2.** W ustawie dnia 5 grudnia 1996 zawodach lekarza lekarza dentysty (Dz. U. 2011 277,
+**Art. 5a.** W 2012 r. przez przeciętne wynagrodzenie miesięczne w gospodarce narodowej, o którym mowa w art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne w gospodarce narodowej w drugim półroczu 2010 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7. ” .
 
-**Art. 3.** W ustawie dnia 27 sierpnia 1997 rehabilitacji zawodowej społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 2011 127, 721, 171, 1016 209, 1243 1244) art. 46a ust. 1 pkt 1 otrzymuje brzmienie: „1) na zadanie, którym mowa art. 26a wysokości do 30% środków zaplanowanych na realizację tego zadania na dany rok;”.
+**Art. 2.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 2005 8, 60, późn. zm. ) art. 63:
+**Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, Nr 171, poz. 1016 i Nr 209, poz. 1243 i 1244) w art. 46a w ust. 1 pkt 1 otrzymuje brzmienie: „
 
-**Art. 5.** W ustawie dnia 23 grudnia 1999 kształtowaniu wynagrodzeń państwowej sferze budżetowej oraz zmianie niektórych ustaw (Dz. U. 2011 79, 431) po art. 29i dodaje się art. 29j brzmieniu: „Art. 29j. Kwotę bazową dla osób zajmujących kierownicze stanowiska państwowe 2012 ustala się wysokości przysługującej tym osobom 2008 W 2012 kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana.”.
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) w art. 63:
 
-**Art. 6.** W ustawie dnia 3 marca 2000 wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. 26, 306, późn. zm. ) po art. 29b dodaje się art. 29c brzmieniu: „Art. 29c. Przeciętne miesięczne wynagrodzenie sektorze przedsiębiorstw bez wypłat nagród zysku czwartym kwartale 2009 stanowi 2012 podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, którym mowa art. 8.”.
+**Art. 29j.** Kwotę bazową dla osób zajmujących kierownicze stanowiska państwowe w 2012 r. ustala się w wysokości przysługującej tym osobom w 2008 r. W 2012 r. kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana. ” .
 
-**Art. 7.** W ustawie dnia 16 listopada 2000 przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. 2010 46, 276, późn. zm. ) art. 33 ust. 2 pkt 2 otrzymuje brzmienie: „2) Przewodniczącego Komisji Nadzoru Finansowego lub osób przez niego upoważnionych wyłącznie sprawach związanych wykonywaniem nadzoru bankowego, sprawach związanych wykonywaniem nadzoru nad działalnością ubezpieczeniową oraz stosunku do firm inwestycyjnych banków powierniczych rozumieniu ustawy dnia 29 lipca 2005 obrocie instrumentami finansowymi oraz zagranicznych osób prawnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską zakresie obrotu towarami giełdowymi, towarowych domów maklerskich rozumieniu ustawy dnia 26 października 2000 giełdach towarowych, funduszy inwestycyjnych, towarzystw funduszy inwestycyjnych Krajowego Depozytu Papierów Wartościowych S.A. oraz stosunku do instytucji płatniczych, oddziałów unijnych insty„4) u dzielać kredytów wyłącznie celu świadczenia usług płatniczych, których mowa art. 3 ust. 1 pkt 2—6 ustawy dnia 19 sierpnia 2011 usługach płatniczych, zastrzeżeniem art. 74 ust. 3 tej ustawy;”.
+**Art. 6.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm.) po art. 29b dodaje się art. 29c w brzmieniu: „ Przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2009 r. stanowi w 2012 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, o którym mowa w art. 8. ” .
 
-**Art. 9.** W ustawie dnia 20 kwietnia 2004 promocji zatrudnienia instytucjach rynku pracy (Dz. U. 2008 69, 415, późn. zm. ) art. 108 po ust. 1c dodaje się ust. 1d brzmieniu: „1d. Z e środków Funduszu Pracy 2012 są finansowane:
+**Art. 7.** W ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2010 r. Nr 46, poz. 276, z późn. zm.) w art. 33 w ust. 2 pkt 2 otrzymuje brzmienie: „
 
-**Art. 10.** W ustawie dnia 10 marca 2006 zwrocie podatku akcyzowego zawartego cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. 52, 379 oraz 2011 106, 622 171, 1016) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 12 września 2002 r. o elektronicznych instrumentach płatniczych (Dz. U. Nr 169, poz. 1385, z późn. zm.) w art. 45 pkt 4 otrzymuje brzmienie: „
 
-**Art. 11.** W ustawie dnia 6 grudnia 2008 podatku akcyzowym (Dz. U. 2011 108, 626, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.) w art. 108 po ust. 1c dodaje się ust. 1d w brzmieniu: „ 1d. Ze środków Funduszu Pracy w 2012 r. są finansowane:
 
-**Art. 13.** W ustawie dnia 27 sierpnia 2009 finansach publicznych (Dz. U. 157, 1240, późn. zm. ):
+**Art. 10.** W ustawie z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. Nr 52, poz. 379 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016) wprowadza się następujące zmiany:
 
-**Art. 14.** W ustawie dnia 9 kwietnia 2010 Służbie Więziennej (Dz. U. 79, 523, 182, 4) 2 015 7306 tys. zł; 1228 238, 1578 oraz 2011 112, 5) 2 016 7489 tys. zł;
+**Art. 11.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 16.** W ustawie dnia 15 lipca 2011 zawodach pielęgniarki położnej (Dz. U. 174, 1039) po art. 96 dodaje się art. 96a brzmieniu: „Art. 96a. W roku 2012 środki przeznaczone na sfinansowanie stażu podyplomowego na podstawie art. 9 ustawy, której mowa art. 103, przekazuje marszałkowi województwa minister właściwy do spraw zdrowia ze środków Funduszu Pracy.”.
+**Art. 12.** W ustawie z dnia 23 stycznia 2009 r. o zmianie niektórych ustaw w związku ze zmianami w organizacji i podziale zadań administracji publicznej w województwie (Dz. U. Nr 92, poz. 753 i Nr 99, poz. 826) w art. 38 ust. 3 otrzymuje brzmienie: „ 3. W odniesieniu do zadań, o których mowa w art. 17 ust. 1 pkt 19 i 20 ustawy zmienianej w art. 20 w brzmieniu nadanym niniejszą ustawą, nie stosuje się art. 115 ust. 1 tej ustawy oraz art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.). ” .
 
-**Art. 17.** W ustawie dnia 28 lipca 2011 zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz zmianie ustawy udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej ustawy cudzoziemcach (Dz. U. 191, 1133) art. 19 ust. 1 pkt 2 otrzymuje brzmienie: „2) ograniczenie co najmniej jednego ze świadczeń udzielanych formie niepieniężnej cudzoziemcom ubiegającym się nadanie statusu uchodźcy przez:
+**Art. 13.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.):
 
-**Art. 19.** W ustawie dnia 19 sierpnia 2011 zmianie ustawy ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz niektórych innych ustaw (Dz. U. 205, 1210) wprowadza się następujące zmiany:
+**Art. 14.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. Nr 79, poz. 523, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 112, poz. 654) wprowadza się następujące zmiany:
+
+**Art. 195a.**
+
+1. Funkcjonariuszowi, który mieszka poza miejscowością pełnienia służby, przysługuje ryczałt za dojazd do miejsca pełnienia służby.
+
+2. Wypłaty ryczałtu za dojazd do miejsca pełnienia służby dokonuje, na wniosek funkcjonariusza, właściwa jednostka organizacyjna. W razie zaistnienia okoliczności, o których mowa w ust. 4, funkcjonariusz składa ponowny wniosek o wypłatę ryczałtu za dojazd do miejsca pełnienia służby.
+
+3. Ryczałt za dojazd do miejsca pełnienia służby wypłaca się uprawnionemu funkcjonariuszowi na zasadach określonych w art. 62.
+
+4. Zmiana miejsca zamieszkania funkcjonariusza wstrzymuje wypłatę ryczałtu za dojazd do miejsca pełnienia służby. Funkcjonariusz jest obowiązany do składania kierownikowi jednostki organizacyjnej oświadczenia o każdej zmianie miejsca zamieszkania.
+
+5. Ryczałt za dojazd do miejsca pełnienia służby nie przysługuje funkcjonariuszowi, który otrzymuje zwrot kosztów przejazdu do miejsca pełnienia służby i z powrotem na podstawie art. 73 ust. 3 pkt 6.
+
+6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość ryczałtu, o którym mowa w ust. 1, uwzględniając odległość miejsca zamieszkania od miejsca pełnienia służby, konieczność zachowania rocznego i maksymalnego limitu wydatków, o których mowa w art. 272a ust. 1, oraz liczbę funkcjonariuszy uprawnionych do ryczałtu. ” ;
+
+- **4)** po art. 272 dodaje się art. 272a w brzmieniu: „
+
+**Art. 272a.**
+
+1. W latach 2012–2021 maksymalny limit wydatków budżetu państwa na świadczenie, o którym mowa w art. 195a, wynosi 75 930 tys. zł, z tym że w poszczególnych latach limit wynosi:
+
+- **1)** 2012 r. – 6785 tys. zł;
+- **2)** 2013 r. – 6954 tys. zł;
+- **3)** 2014 r. – 7128 tys. zł;
+- **4)** 2015 r. – 7306 tys. zł;
+- **5)** 2016 r. – 7489 tys. zł;
+- **6)** 2017 r. – 7676 tys. zł;
+- **7)** 2018 r. – 7861 tys. zł;
+- **8)** 2019 r. – 8049 tys. zł;
+- **9)** 2020 r. – 8242 tys. zł;
+- **10)** 2021 r. – 8440 tys. zł.
+
+2. Minister Sprawiedliwości monitoruje wykorzystanie rocznych limitów wydatków, dokonując przynajmniej cztery razy w roku, według stanu na koniec każdego kwartału, oceny wykorzystania limitu wydatków na dany rok.
+
+3. W przypadku zagrożenia przekroczenia rocznego i maksymalnego limitu wydatków oraz w przypadku gdy w okresie od początku roku kalendarzowego do dnia ostatniej oceny, o której mowa w ust. 2, część limitu rocznego przypadającego proporcjonalnie na ten okres została przekroczona co najmniej o 10%, stosuje się mechanizm korygujący, polegający na proporcjonalnej zmianie wysokości ryczałtu. ” .
+
+**Art. 15.** W ustawie z dnia 16 grudnia 2010 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. Nr 257, poz. 1726) wprowadza się następujące zmiany:
+
+**Art. 16.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039) po art. 96 dodaje się art. 96a w brzmieniu: „
+
+**Art. 96a.** W roku 2012 środki przeznaczone na sfinansowanie stażu podyplomowego na podstawie art. 9 ustawy, o której mowa w art. 103, przekazuje marszałkowi województwa minister właściwy do spraw zdrowia ze środków Funduszu Pracy. ” .
+
+**Art. 17.** W ustawie z dnia 28 lipca 2011 r. o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach (Dz. U. Nr 191, poz. 1133) w art. 19 w ust. 1 pkt 2 otrzymuje brzmienie: „
+
+**Art. 18.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175) w art. 125 ust. 7 otrzymuje brzmienie: „ 7. W przypadku naruszenia obowiązku, o którym mowa w ust. 6, KNF może nałożyć na biuro usług płatniczych karę pieniężną w wysokości nieprzekraczającej 500 zł za każdy dzień opóźnienia, nie większej jednak niż 100 000 zł; przepisy art. 105 ust. 2, 4 i 5 i art. 116 stosuje się odpowiednio. ” .
+
+**Art. 19.** W ustawie z dnia 19 sierpnia 2011 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz niektórych innych ustaw (Dz. U. Nr 205, poz. 1210) wprowadza się następujące zmiany:
+
+**Art. 20.**
+
+1. W roku 2012 podstawę ustalenia wynagrodzenia zasadniczego prokuratora, o której mowa w art. 61a ust. 1 ustawy z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2011 r. Nr 270, poz. 1599 i Nr 240, poz. 1430), stanowi przeciętne wynagrodzenie w drugim kwartale 2010 r. ogłoszone w komunikacie Prezesa Głównego Urzędu Statystycznego.
+
+2. Ilekroć w odrębnych przepisach jest mowa o podstawie wynagrodzenia prokuratora określonej w art. 61a ust. 1 ustawy z dnia 20 czerwca 1985 r. o prokuraturze, w roku 2012 za podstawę tę przyjmuje się przeciętne wynagrodzenie w drugim kwartale 2010 r. ogłoszone w komunikacie Prezesa Głównego Urzędu Statystycznego.
 
 **Art. 21.**
 
-1. W roku 2012 podstawę ustalenia wynagrodzenia zasadniczego sędziego Trybunału Konstytucyjnego, której mowa art. 6 ust. 3 ustawy dnia 1 sierpnia 1997 Trybunale Konstytucyjnym (Dz. U. 102, 643, późn. zm. ), stanowi przeciętne wynagrodzenie drugim kwartale 2010 ogłoszone komunikacie Prezesa Głównego Urzędu Statystycznego.
+1. W roku 2012 podstawę ustalenia wynagrodzenia zasadniczego sędziego Trybunału Konstytucyjnego, o której mowa w art. 6 ust. 3 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z późn. zm.), stanowi przeciętne wynagrodzenie w drugim kwartale 2010 r. ogłoszone w komunikacie Prezesa Głównego Urzędu Statystycznego.
 
-2. Ilekroć odrębnych przepisach jest mowa podstawie wynagrodzenia sędziego Trybunału Konstytucyjnego określonej art. 6 ust. 3 ustawy dnia 1 sierpnia 1997 Trybunale Konstytucyjnym, roku 2012 za podstawę tę przyjmuje się przeciętne wynagrodzenie drugim kwartale 2010 ogłoszone komunikacie Prezesa Głównego Urzędu Statystycznego.
+2. Ilekroć w odrębnych przepisach jest mowa o podstawie wynagrodzenia sędziego Trybunału Konstytucyjnego określonej w art. 6 ust. 3 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym, w roku 2012 za podstawę tę przyjmuje się przeciętne wynagrodzenie w drugim kwartale 2010 r. ogłoszone w komunikacie Prezesa Głównego Urzędu Statystycznego.
 
 **Art. 22.**
 
-1. W roku 2012 podstawę ustalenia wynagrodzenia zasadniczego sędziego, której mowa art. 91 § 1c ustawy dnia 27 lipca 2001 Prawo ustroju sądów powszechnych (Dz. U. 98, 1070, późn. zm. ), stanowi przeciętne wynagrodzenie drugim kwartale 2010 ogłoszone komunikacie Prezesa Głównego Urzędu Statystycznego.
+1. W roku 2012 podstawę ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.), stanowi przeciętne wynagrodzenie w drugim kwartale 2010 r. ogłoszone w komunikacie Prezesa Głównego Urzędu Statystycznego.
 
-2. Ilekroć odrębnych przepisach jest mowa podstawie wynagrodzenia sędziego określonej art. 91 § 1c ustawy dnia 27 lipca 2001 Prawo ustroju sądów powszechnych, roku 2012 za podstawę tę przyjmuje się przeciętne wynagrodzenie drugim kwartale 2010 ogłoszone komunikacie Prezesa Głównego Urzędu Statystycznego.
+2. Ilekroć w odrębnych przepisach jest mowa o podstawie wynagrodzenia sędziego określonej w art. 91 § 1c ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w roku 2012 za podstawę tę przyjmuje się przeciętne wynagrodzenie w drugim kwartale 2010 r. ogłoszone w komunikacie Prezesa Głównego Urzędu Statystycznego.
 
 **Art. 23.**
 
-1. W roku 2012 podstawę ustalenia wynagrodzenia zasadniczego sędziego Sądu Najwyższego, której mowa art. 42 § 2 ustawy dnia 23 listopada da 2002 Sądzie Najwyższym, roku 2012 za podstawę tę przyjmuje się przeciętne wynagrodzenie drugim kwartale 2010 ogłoszone komunikacie Prezesa Głównego Urzędu Statystycznego.
+1. W roku 2012 podstawę ustalenia wynagrodzenia zasadniczego sędziego Sądu Najwyższego, o której mowa w art. 42 § 2 ustawy z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. Nr 240, poz. 2052, z późn. zm.), stanowi przeciętne wynagrodzenie w drugim kwartale 2010 r. ogłoszone w komunikacie Prezesa Głównego Urzędu Statystycznego.
+
+2. Ilekroć w odrębnych przepisach jest mowa o podstawie wynagrodzenia sędziego Sądu Najwyższego określonej w art. 42 § 2 ustawy z dnia 23 listopada 2002 r. o Sądzie Najwyższym, w roku 2012 za podstawę tę przyjmuje się przeciętne wynagrodzenie w drugim kwartale 2010 r. ogłoszone w komunikacie Prezesa Głównego Urzędu Statystycznego.
 
 **Art. 24.**
 
-1. Wielkość wynagrodzeń, wyłączeniem wynagrodzeń finansowanych ramach programów realizowanych udziałem środków, których mowa art. 5 ust. 1 pkt 2 3 ustawy dnia 27 sierpnia 2009 finansach publicznych (Dz. U. 157, 1240, późn. zm. ), nie może przekroczyć 2012 wielkości wynagrodzeń zaplanowanych ustawie budżetowej na rok 2011 dnia 20 stycznia 2011 (Dz. U. 29,
+1. Wielkość wynagrodzeń, z wyłączeniem wynagrodzeń finansowanych w ramach programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.), nie może przekroczyć w 2012 r. wielkości wynagrodzeń zaplanowanych w ustawie budżetowej na rok 2011 z dnia 20 stycznia 2011 r. (Dz. U. Nr 29, poz. 150) albo wynikających z planów finansowych na rok 2011, w przypadku gdy nie są one ujmowane w ustawie budżetowej, z zastrzeżeniem ust. 3, w następujących jednostkach sektora finansów publicznych:
 
-- **150)** albo wynikających planów finansowych na rok 2011, przypadku gdy nie są one ujmowane ustawie budżetowej, zastrzeżeniem ust. 3, następujących jednostkach sektora finansów publicznych:
-- **1)** urzędach organów władzy państwowej, kontroli, ochrony prawa, sądach trybunałach wymienionych art. 139 ust. 2 ustawy dnia 27 sierpnia 2009 finansach publicznych, wyłączeniem wynagrodzeń nauczycieli zatrudnionych placówkach prowadzonych przez te organy;
+- **1)** urzędach organów władzy państwowej, kontroli, ochrony prawa, sądach i trybunałach wymienionych w art. 139 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z wyłączeniem wynagrodzeń nauczycieli zatrudnionych w placówkach prowadzonych przez te organy;
 - **2)** agencjach wykonawczych;
 - **3)** instytucjach gospodarki budżetowej;
 - **4)** państwowych funduszach celowych;
-- **5)** Kasie Rolniczego Ubezpieczenia Społecznego funduszach zarządzanych przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego;
-- **6)** Polskiej Akademii Nauk tworzonych przez nią jednostkach organizacyjnych, wyłączeniem instytutów naukowych;
+- **5)** Kasie Rolniczego Ubezpieczenia Społecznego i funduszach zarządzanych przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego;
+- **6)** Polskiej Akademii Nauk i tworzonych przez nią jednostkach organizacyjnych, z wyłączeniem instytutów naukowych;
 - **7)** państwowych instytucjach kultury oraz państwowych instytucjach filmowych;
-- **8)** innych państwowych osobach prawnych należących do sektora finansów publicznych, których mowa art. 9 pkt 14 ustawy dnia 27 sierpnia 2009 finansach publicznych.
+- **8)** innych państwowych osobach prawnych należących do sektora finansów publicznych, o których mowa w art. 9 pkt 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-2. W przypadku zmiany formy organizacyjno-prawnej jednostki lub podmiotu prawnego, których mowa ust. 1, wielkość wynagrodzeń 2012 ustala się warunkach porównywalnych 2011
+2. W przypadku zmiany formy organizacyjno-prawnej jednostki lub podmiotu prawnego, o których mowa w ust. 1, wielkość wynagrodzeń w 2012 r. ustala się w warunkach porównywalnych z 2011 r.
 
-- **b)** wypłaconych związku realizacją zadań wynikających przygotowania, obsługi sprawowania Prezydencji Rzeczypospolitej Polskiej Radzie Unii Europejskiej,
-- **c)** wypłaconych pracownikom związku zakończeniem kadencji Sejmu Senatu;
-- **2)** ujętych projekcie ustawy budżetowej na rok 2012 przedłożonym Sejmowi, wynikających utworzenia nowych etatów roku 2012 oraz wynagrodzeń przyznanych ramach programu wieloletniego „Przygotowanie, obsługa sprawowanie Przewodnictwa Polski Radzie Unii Europejskiej II połowie 2011 r.” odniesieniu do wynagrodzeń sędziów urzędników sądowych części 05 Naczelny Sąd Administracyjny oraz części 15 Sądy powszechne;
-- **3)** wysokości 1000 tys. zł związanych utworzeniem roku 2012 nowych etatów części 08 Rzecznik Praw Obywatelskich.
+3. Do wielkości wynagrodzeń, o których mowa w ust. 1, nie wlicza się wynagrodzeń:
+
+- **1)** w części 02 – Kancelaria Sejmu i części 03 – Kancelaria Senatu: wypłaconych posłom i senatorom w związku ze zmianą kadencji Sejmu i Senatu, wypłaconych w związku z realizacją zadań wynikających z przygotowania, obsługi i sprawowania Prezydencji Rzeczypospolitej Polskiej w Radzie Unii Europejskiej, wypłaconych pracownikom w związku z zakończeniem kadencji Sejmu i Senatu;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** ujętych w projekcie ustawy budżetowej na rok 2012 przedłożonym Sejmowi, wynikających z utworzenia nowych etatów w roku 2012 oraz wynagrodzeń przyznanych w ramach programu wieloletniego „Przygotowanie, obsługa i sprawowanie Przewodnictwa Polski w Radzie Unii Europejskiej w II połowie 2011 r.” – w odniesieniu do wynagrodzeń sędziów i urzędników sądowych w części 05 – Naczelny Sąd Administracyjny oraz części 15 – Sądy powszechne;
+- **3)** w wysokości 1000 tys. zł związanych z utworzeniem w roku 2012 nowych etatów w części 08 – Rzecznik Praw Obywatelskich.
 
 **Art. 25.**
 
-1. Wielkość wynagrodzeń podmiotach, których mowa art. 24 ust. 1, finansowanych ramach programów realizowanych udziałem środków, których mowa art. 5 ust. 1 pkt 2 3 ustawy dnia 27 sierpnia 2009 finansach publicznych, 2012 może przekroczyć wielkość wynagrodzeń finansowanych udziałem tych środków, zaplanowanych ustawie budżetowej na rok 2011 dnia 20 stycznia 2011 albo wynikających planów finansowych na rok 2011, przypadku gdy plany te nie są ujmowane ustawie budżetowej, części finansowanej lub refundowanej tych środków, zaś części współfinansowania krajowego jedynie wówczas, gdy te zwiększane wynagrodzenia są finansowane wysokości co najmniej 70% ze środków, których mowa art. 5 ust. 1 pkt 2 3 ustawy dnia 27 sierpnia 2009 finansach publicznych.
+1. Wielkość wynagrodzeń w podmiotach, o których mowa w art. 24 ust. 1, finansowanych w ramach programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w 2012 r. może przekroczyć wielkość wynagrodzeń finansowanych z udziałem tych środków, zaplanowanych w ustawie budżetowej na rok 2011 z dnia 20 stycznia 2011 r. albo wynikających z planów finansowych na rok 2011, w przypadku gdy plany te nie są ujmowane w ustawie budżetowej, w części finansowanej lub refundowanej z tych środków, zaś w części współfinansowania krajowego jedynie wówczas, gdy te zwiększane wynagrodzenia są finansowane w wysokości co najmniej 70% ze środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-2. Minister właściwy do spraw finansów publicznych może, drodze rozporządzenia, wyrazić zgodę na zwiększenie wielkości wynagrodzeń niezależnie od ograniczeń, których mowa ust. 1, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń.
+2. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyrazić zgodę na zwiększenie wielkości wynagrodzeń niezależnie od ograniczeń, o których mowa w ust. 1, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń.
 
 **Art. 26.**
 
-1. Wielkość wynagrodzeń bezosobowych, wyłączeniem wynagrodzeń finansowanych ra2) wypłacanych związku prowadzonymi postępowaniami przygotowawczymi sądowymi.
+1. Wielkość wynagrodzeń bezosobowych, z wyłączeniem wynagrodzeń finansowanych w ramach programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w częściach budżetu państwa będących w dyspozycji tego samego dysponenta oraz w jednostkach sektora finansów publicznych, o których mowa w art. 24 ust. 1, nie może w roku 2012 przekroczyć wielkości wynagrodzeń bezosobowych zaplanowanych w ustawie budżetowej na rok 2011 z dnia 20 stycznia 2011 r. albo wynikających z planów finansowych na rok 2011, w przypadku gdy plany te nie są ujmowane w ustawie budżetowej, z zastrzeżeniem ust. 2.
 
-3. Minister właściwy do spraw finansów publicznych, terminie 14 dni od dnia ogłoszenia ustawy budżetowej na rok 2012, przekaże dysponentom części budżetowych informacje limicie wielkości wynagrodzeń bezosobowych ujętych ustawie budżetowej na rok 2012.
+2. Do wielkości wynagrodzeń, o których mowa w ust. 1, nie wlicza się wynagrodzeń:
 
-**Art. 27.** Wielkość wynagrodzeń bezosobowych, finansowanych ramach programów realizowanych udziałem środków, których mowa art. 5 ust. 1 pkt 2 3 ustawy dnia 27 sierpnia 2009 finansach publicznych, częściach budżetu państwa będących dyspozycji tego samego dysponenta oraz jednostkach sektora finansów publicznych, których mowa art. 24 ust. 1, może roku 2012 przekroczyć wielkość wynagrodzeń bezosobowych finansowanych udziałem tych środków zaplanowanych ustawie budżetowej na rok 2011 dnia 20 stycznia 2011 albo wynikających planów finansowych na rok 2011, przypadku gdy plany te nie są ujmowane ustawie budżetowej, zwiększonych środki przyznane rezerw celowych, części finansowanej lub refundowanej tych środków, zaś części współfinansowania krajowego jedynie wówczas, gdy te zwiększane wynagrodzenia są finansowane wysokości co najmniej 70% ze środków, których mowa art. 5 ust. 1 pkt 2 3 ustawy dnia 27 sierpnia 2009 finansach publicznych.
+- **1)** przyznanych z rezerw celowych;
+- **2)** wypłacanych w związku z prowadzonymi postępowaniami przygotowawczymi i sądowymi.
+
+3. Minister właściwy do spraw finansów publicznych, w terminie 14 dni od dnia ogłoszenia ustawy budżetowej na rok 2012, przekaże dysponentom części budżetowych informacje o limicie wielkości wynagrodzeń bezosobowych ujętych w ustawie budżetowej na rok 2012.
+
+**Art. 27.** Wielkość wynagrodzeń bezosobowych, finansowanych w ramach programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w częściach budżetu państwa będących w dyspozycji tego samego dysponenta oraz w jednostkach sektora finansów publicznych, o których mowa w art. 24 ust. 1, może w roku 2012 przekroczyć wielkość wynagrodzeń bezosobowych finansowanych z udziałem tych środków zaplanowanych w ustawie budżetowej na rok 2011 z dnia 20 stycznia 2011 r. albo wynikających z planów finansowych na rok 2011, w przypadku gdy plany te nie są ujmowane w ustawie budżetowej, zwiększonych o środki przyznane z rezerw celowych, w części finansowanej lub refundowanej z tych środków, zaś w części współfinansowania krajowego jedynie wówczas, gdy te zwiększane wynagrodzenia są finansowane w wysokości co najmniej 70% ze środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 **Art. 28.**
 
-1. W roku 2012 wielkość wynagrodzeń oraz wynagrodzeń bezosobowych Narodowym Centrum Nauki oraz Narodowym Centrum Badań Rozwoju nie może przekroczyć wielkości wynagrodzeń oraz wynagrodzeń bezosobowych ustalonych planach finansowych, stanowiących załącznik do ustawy budżetowej na rok 2012.
+1. W roku 2012 wielkość wynagrodzeń oraz wynagrodzeń bezosobowych w Narodowym Centrum Nauki oraz Narodowym Centrum Badań i Rozwoju nie może przekroczyć wielkości wynagrodzeń oraz wynagrodzeń bezosobowych ustalonych w planach finansowych, stanowiących załącznik do ustawy budżetowej na rok 2012.
 
-2. Minister właściwy do spraw finansów publicznych może, drodze rozporządzenia, wyrazić zgodę na zwiększenie wielkości wynagrodzeń środki przyznane ramach programów realizowanych udziałem środków, których mowa art. 5 ust. 1 pkt 2 3 ustawy dnia 27 sierpnia 2009 finansach publicznych, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń. na zwiększenie wielkości wynagrodzeń środki przyznane ramach programów realizowanych udziałem środków, których mowa art. 5 ust. 1 pkt 2 3 ustawy dnia 27 sierpnia 2009 finansach publicznych, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń.
+2. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyrazić zgodę na zwiększenie wielkości wynagrodzeń o środki przyznane w ramach programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń.
+
+1. W roku 2012 wielkość wynagrodzeń oraz wynagrodzeń bezosobowych w Narodowym Funduszu Zdrowia nie może przekroczyć wielkości wynagrodzeń oraz wynagrodzeń bezosobowych ustalonych w planie finansowym Narodowego Funduszu Zdrowia na rok 2012 zatwierdzonym przez ministra właściwego do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych na podstawie art. 121 ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.).
+
+2. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyrazić zgodę na zwiększenie wielkości wynagrodzeń o środki przyznane w ramach programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń.
 
 **Art. 30.**
 
-1. W roku 2012 wielkość wynagrodzeń oraz wynagrodzeń bezosobowych Zakładzie Ubezpieczeń Społecznych nie może przekroczyć wielkości wynagrodzeń oraz wynagrodzeń bezosobowych ustalonych planie finansowym Zakładu Ubezpieczeń Społecznych, stanowiącym załącznik do ustawy budżetowej na rok 2012.
+1. W roku 2012 wielkość wynagrodzeń oraz wynagrodzeń bezosobowych w Zakładzie Ubezpieczeń Społecznych nie może przekroczyć wielkości wynagrodzeń oraz wynagrodzeń bezosobowych ustalonych w planie finansowym Zakładu Ubezpieczeń Społecznych, stanowiącym załącznik do ustawy budżetowej na rok 2012.
 
-2. Minister właściwy do spraw finansów publicznych może, drodze rozporządzenia, wyrazić zgodę na zwiększenie wielkości wynagrodzeń środki przyznane ramach programów realizowanych udziałem środków, których mowa art. 5 ust. 1 pkt 2 3 ustawy dnia 27 sierpnia 2009 finansach publicznych, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń.
+2. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyrazić zgodę na zwiększenie wielkości wynagrodzeń o środki przyznane w ramach programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń.
 
-**Art. 31.** Minister właściwy do spraw finansów publicznych może, drodze rozporządzenia, wyrazić zgodę na zwiększenie wielkości wynagrodzeń bezosobowych niezależnie od ograniczeń, których mowa art. 26, art. 27, art. 28 ust. 1, art. 29 ust. 1 art. 30 ust. 1, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń.
+**Art. 31.** Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyrazić zgodę na zwiększenie wielkości wynagrodzeń bezosobowych niezależnie od ograniczeń, o których mowa w art. 26, art. 27, art. 28 ust. 1, art. 29 ust. 1 i art. 30 ust. 1, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń.
 
 **Art. 32.**
 
-1. Przez wynagrodzenia, których mowa art. 24, art. 25 art. 28—30, rozumie się wydatki pieniężne oraz wartość świadczeń naturze, wypłacane sędziom, prokuratorom, posłom, senatorom oraz pracownikom zatrudnionym na podstawie stosunku pracy, wyjątkiem osób kierujących rozumieniu ustawy dnia 3 marca 2000 wynagradzaniu osób kienagrodzenia:
+1. Przez wynagrodzenia, o których mowa w art. 24, art. 25 i art. 28–30, rozumie się wydatki pieniężne oraz wartość świadczeń w naturze, wypłacane sędziom, prokuratorom, posłom, senatorom oraz pracownikom zatrudnionym na podstawie stosunku pracy, z wyjątkiem osób kierujących w rozumieniu ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm.), zaliczone – według zasad statystyki zatrudnienia i wynagrodzeń określonych przez Główny Urząd Statystyczny – do „wynagrodzeń bez wypłat z zysku”.
 
-- **1)** wypłacane na podstawie umowy zlecenia lub umowy dzieło;
-- **2)** wypłacane na podstawie odrębnych przepisów osobom, które wykonują określone czynności na polecenie właściwych organów, szczególności biegłym postępowaniu przygotowawczym, sądowym administracyjnym, wynagrodzenia za czynności arbitrów, wynagrodzenia tłumaczy przysięgłych, wynagrodzenia kuratorów zastępujących strony postępowaniu;
-- **3)** wypłacane osobom fizycznym za udział komisjach, radach, zespołach, komitetach, radach nadzorczych, zarządach spółek, jury konkursach, radach naukowych naukowo-technicznych, niezależnie od sposobu ich powoływania;
-- **4)** dodatkowe radców prawnych tytułu zastępstwa postępowaniu sądowym wypłacane na podstawie umowy cywilnoprawnej;
-- **5)** przysługujące członkom komisji wojewódzkiej do spraw służby zastępczej członkom komisji do spraw służby zastępczej za udział pracach tych komisji;
-- **6)** dla pozaetatowych członków samorządowych kolegiów odwoławczych za udział posiedzeniach;
+2. Przez wynagrodzenia bezosobowe, o których mowa w art. 26–31, rozumie się w szczególności wynagrodzenia:
+
+- **1)** wypłacane na podstawie umowy zlecenia lub umowy o dzieło;
+- **2)** wypłacane na podstawie odrębnych przepisów osobom, które wykonują określone czynności na polecenie właściwych organów, w szczególności biegłym w postępowaniu przygotowawczym, sądowym i administracyjnym, wynagrodzenia za czynności arbitrów, wynagrodzenia tłumaczy przysięgłych, wynagrodzenia kuratorów zastępujących strony w postępowaniu;
+- **3)** wypłacane osobom fizycznym za udział w komisjach, radach, zespołach, komitetach, radach nadzorczych, zarządach spółek, jury w konkursach, radach naukowych i naukowo-technicznych, niezależnie od sposobu ich powoływania;
+- **4)** dodatkowe radców prawnych z tytułu zastępstwa w postępowaniu sądowym wypłacane na podstawie umowy cywilnoprawnej;
+- **5)** przysługujące członkom komisji wojewódzkiej do spraw służby zastępczej i członkom komisji do spraw służby zastępczej za udział w pracach tych komisji;
+- **6)** dla pozaetatowych członków samorządowych kolegiów odwoławczych za udział w posiedzeniach;
 - **7)** ryczałtowe dla pozaetatowych członków kolegiów regionalnych izb obrachunkowych;
 - **8)** honoraria.
 
-**Art. 33.** Podwyższenie wynagrodzeń dla nauczycieli związku kwotą bazową określoną dla nauczycieli ustawie budżetowej na rok 2012 obowiązującą od dnia 1 września 2012 następuje nie później niż do dnia 30 września 2012 r., wyrównaniem od dnia 1 września 2012
+**Art. 33.** Podwyższenie wynagrodzeń dla nauczycieli w związku z kwotą bazową określoną dla nauczycieli w ustawie budżetowej na rok 2012 obowiązującą od dnia 1 września 2012 r. następuje nie później niż do dnia 30 września 2012 r., z wyrównaniem od dnia 1 września 2012 r.
 
-**Art. 34.** W roku 2012 wysokość środków na realizację zadań zakresie doskonalenia zawodowego nauczycieli, których mowa art. 70a ust. 3 4 ustawy dnia 26 stycznia 1982 Karta Nauczyciela (Dz. U. 2006 97, 674, późn. zm. ), ustala się oraz ich rodzin (Dz. U. 2004 8, 66, późn. zm. ), tworzy się odpisu wysokości 0,6% środków zaplanowanych ustawie budżetowej na rok 2011 dnia 20 stycznia 2011 na emerytury renty.
+**Art. 34.** W roku 2012 wysokość środków na realizację zadań w zakresie doskonalenia zawodowego nauczycieli, o których mowa w art. 70a ust. 3 i 4 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.), ustala się w oparciu o średnie wynagrodzenie nauczyciela stażysty wyliczone na podstawie kwoty bazowej, o której mowa w art. 30 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, obowiązującej w dniu 1 stycznia 2012 r.
 
-**Art. 36.** W roku 2012 fundusz socjalny, którym mowa art. 27 ust. 1a ustawy dnia 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej oraz ich rodzin (Dz. U. 2004 8, 67, późn. zm. ), tworzy się odpisu wysokości 0,5% środków zaplanowanych ustawie budżetowej na rok 3. Minister właściwy do spraw zdrowia przekazuje na podstawie zawartych umów środki, których mowa ust. 1, na cele określone ust. 1:
+**Art. 35.** W roku 2012 fundusz socjalny, o którym mowa w art. 27 ust. 7 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.), tworzy się z odpisu w wysokości 0,6% środków zaplanowanych w ustawie budżetowej na rok 2011 z dnia 20 stycznia 2011 r. na emerytury i renty.
 
-**Art. 37.** W roku 2012 specjalizacja, której mowa Art. 39. Zmiana planie finansowym Zasobu art. 70 ust. 1 ustawy dnia 15 lipca 2011 zawo- Własności Rolnej Skarbu Państwa na rok 2012, wydach pielęgniarki położnej (Dz. U. 174, 1039), niku której następuje zmniejszenie wpłat przekazywajest dofinansowywana przez ministra właściwego do nych do budżetu państwa, wymaga akceptacji minispraw zdrowia ze środków Funduszu Pracy. stra właściwego do spraw finansów publicznych.
+**Art. 36.** W roku 2012 fundusz socjalny, o którym mowa w art. 27 ust. 1a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.), tworzy się z odpisu w wysokości 0,5% środków zaplanowanych w ustawie budżetowej na rok 2011 z dnia 20 stycznia 2011 r. na emerytury i renty.
+
+**Art. 37.** W roku 2012 specjalizacja, o której mowa w art. 70 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039), jest dofinansowywana przez ministra właściwego do spraw zdrowia ze środków Funduszu Pracy.
 
 **Art. 38.**
 
-1. Minister właściwy do spraw pracy na Art. 40. W roku 2012 zwrot podatku, którym mopodstawie umowy zawartej ministrem właściwym wa art. 5 ust. 2 ustawy zmienianej art. 10, realizodo spraw zdrowia przekazuje 2012 r., na wyodręb- wany na podstawie wniosków składanych terminie niony rachunek bankowy urzędu obsługującego mini- od dnia 1 lutego do dnia 29 lutego 2012 r., przyznaje stra właściwego do spraw zdrowia, środki Funduszu się za okres pięciu miesięcy poprzedzających miesiąc Pracy przeznaczeniem 2012 na: złożenia wniosku zwrot podatku.
+1. Minister właściwy do spraw pracy na podstawie umowy zawartej z ministrem właściwym do spraw zdrowia przekazuje w 2012 r., na wyodrębniony rachunek bankowy urzędu obsługującego ministra właściwego do spraw zdrowia, środki Funduszu Pracy z przeznaczeniem w 2012 r. na:
 
-- **1)** staże podyplomowe oraz szkolenia specjalizacyjne lekarzy lekarzy dentystów, których mowa prze- Art. 41. Ustawa wchodzi życie dniem 1 styczpisach zawodach lekarza lekarza dentysty; nia 2012 r., wyjątkiem:
-- **1)** a rt. 7, art. 8, art. 15, art. 17 art. 18, które wchodzą życie dniem ogłoszenia;
-- **2)** a rt. 4, który wchodzi życie po upływie trzech miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+- **1)** staże podyplomowe oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty;
+- **2)** staże podyplomowe oraz specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej.
 
+2. Umowa, o której mowa w ust. 1, powinna określać w szczególności tryb przekazywania środków oraz ich rozliczenia.
+
+3. Minister właściwy do spraw zdrowia przekazuje na podstawie zawartych umów środki, o których mowa w ust. 1, na cele określone w ust. 1:
+
+- **1)** marszałkom województw;
+- **2)** wojewodom;
+- **3)** podmiotom prowadzącym szkolenie specjalizacyjne, o których mowa w art. 16h ust. 1 oraz art. 16k ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634);
+- **4)** organizatorom kształcenia, o których mowa w art. 70 ust. 3 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+
+**Art. 39.** Zmiana w planie finansowym Zasobu Własności Rolnej Skarbu Państwa na rok 2012, w wyniku której następuje zmniejszenie wpłat przekazywanych do budżetu państwa, wymaga akceptacji ministra właściwego do spraw finansów publicznych.
+
+**Art. 40.** W roku 2012 zwrot podatku, o którym mowa w art. 5 ust. 2 ustawy zmienianej w art. 10, realizowany na podstawie wniosków składanych w terminie od dnia 1 lutego do dnia 29 lutego 2012 r., przyznaje się za okres pięciu miesięcy poprzedzających miesiąc złożenia wniosku o zwrot podatku.
+
+**Art. 41.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem:
 

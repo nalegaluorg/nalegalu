@@ -8,11 +8,10 @@ pos: 908
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 1. 4 września 1997 działach administracji rządowej (Dz. U. 2007 65, 437, późn.
-
-*USTAWA 13 lipca zmianie ustawy działach administracji rządowej oraz niektórych innych ustaw*
+# Ustawa z dnia 13 lipca 2012 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -26,90 +25,125 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000908) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/908/text.pdf) |
 
-zm. ) wprowadza się następujące zmiany:
-1) art. 6 ust. 1 po pkt 4a dodaje się pkt 4b 4c brzmieniu: „4b) przeciwdziałania skutkom klęsk żywiołowych innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu;
-4c) usuwania skutków klęsk żywiołowych innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu;”;
-2) art. 9 ust. 1 otrzymuje brzmienie: „1. Dział gospodarka obejmuje sprawy gospodarki, tym konkurencyjności gospodarki, współpracy gospodarczej zagranicą, energetyki, oceny zgodności, miar probiernictwa, własności przemysłowej, innowacyjności, działalności gospodarczej, promocji gospodarki polskiej kraju za granicą, umów offsetowych oraz współpracy organizacjami samorządu gospodarczego.”;
-r
-4) art. 14 ust. 1 pkt 9 otrzymuje brzmienie: „9) polityki audiowizualnej, szczególności zakresie prasy, radia, telewizji kinematografii;”;
-5) art. 25 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw Skarbu Państwa może inicjować politykę państwa zakresie przekształceń własnościowych mienia komunalnego, jak również prowadzić działania związane ze wspieraniem rozwoju promocją rynku finansowego Polsce, szczególności przez promocję inwestowania na rynku kapitałowym ramach prowadzonych procesów prywatyzacyjnych.”;
-6) art. 29 ust. 1 uchyla się pkt 6 6a.
-2. 15 marca 1933 zbiórkach publicznych (Dz. U. 22, 162, późn. zm. ) wprowadza się następujące zmiany:
-1) art. 2:
-a) ust. 1 pkt 4 otrzymuje brzmienie: „4) m inister właściwy do spraw administracji publicznej jeżeli zbiórka ma być przeprowadzona na obszarze obejmującym więcej niż jedno województwo oraz przypadku, gdy zebrane ofiary mają być zużyte poza granicą państwa.”,
-b) uchyla się ust. 2;
-2) art. 5 otrzymuje brzmienie: „Art. 5. Minister właściwy do spraw administracji publicznej określi, drodze rozporządzenia, sposoby przeprowadzania zbiórek publicznych zakres kontroli nad ich przeprowadzaniem, uwzględniając zwłaszcza potrzebę zapewnienia odpowiedniego bezpieczeństwa zbieranych ofiar. Rozporządzenie określi szczególności formy prowadzenia zbiórek publicznych, miejsca ich prowadzenia, niezbędne dane, jakie powinien zawierać plan przeprowadzania zbiórki, sposoby sporządzania dokumentacji dotyczącej przebiegu akcji zbiórkowej, wymogi, jakim powinna odpowiadać legitymacja osoby przeprowadzającej zbiórkę publiczną, oraz niezbędne informacje, jakie powinno zawierać publiczne ogłoszenie wyników zbiórki.”.
-3. 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 43, 296, późn. zm. ) art. 461 § 2 otrzymuje brzmienie: „§ 2 sprawach zakresu ubezpieczeń społecznych, których wniesiono odwołanie od decyzji organu emerytalnego określonego przez ministra właściwego do spraw wewnętrznych, wojskowego organu emerytalnego albo organu emerytalnego właściwego stosunku do funkcjonariuszy Służby Więziennej, właściwy jest sąd, którego okręgu ma siedzibę ten organ.”.
-r cji pożarnictwa:
-1) zajmujących stanowiska nauczycieli szkołach placówkach oświatowo-wychowawczych wojskowych prowadzonych przez ministra właściwego do spraw wewnętrznych oraz organy podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane;
-2) yznaczonych do wykonywania zadań poza wojskiem oraz służbami podległymi lub nadzorowanymi przez ministra właściwego do spraw wewnętrznych, na stanowiskach wymienionych art. 1.”.
-6. 6 kwietnia 1990 Policji (Dz. U. 2011 287, 1687, późn. zm. ) art. 145g ust. 2 otrzymuje brzmienie: „2. Jeżeli środki finansowe na ten cel nie zostały uwzględnione budżecie ministra właściwego do spraw wewnętrznych, zapewnia je Rada Ministrów.”.
-7. 24 sierpnia 1991 ochronie przeciwpożarowej (Dz. U. 2009 178, 1380 oraz 2010 57, 353) wprowadza się następujące zmiany:
-1) art. 12 otrzymuje brzmienie: „Art. 12. 1. Minister właściwy do spraw wewnętrznych pełni nadzór nad funkcjonowaniem krajowego systemu ratowniczo-gaśniczego.
-2. Minister właściwy do spraw administracji publicznej pełni nadzór nad funkcjonowaniem systemu powiadamiania ratunkowego.”;
-r
-3) kwalifikacje wymagane dla operatorów numerów alarmowych, których mowa art. 14a ust. 5,
-4) sposób organizację przeprowadzania szkolenia operatorów numerów alarmowych,
-5) zakres, formę, sposób tworzenia przekazywania informacji niezbędnych do funkcjonowania systemu powiadamiania ratunkowego,
-6) kryteria do określenia liczby, lokalizacji terenu działania centrum powiadamiania ratunkowego oraz liczby stanowisk dyspozytorów medycznych stanowisk operatorów numerów alarmowych uwzględniając potrzeby systemu powiadamiania ratunkowego, zakresie jego sprawnego funkcjonowania.”.
-8. 4 marca 1994 zakładowym funduszu świadczeń socjalnych (Dz. U. 592) art. 1 ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw wewnętrznych porozumieniu ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw finansów publicznych, stosunku do pracowników zatrudnionych podległych mu jednostkach sfery budżetowej, niebędących funkcjonariuszami lub żołnierzami zawodowymi, a Minister Sprawiedliwości porozumieniu ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw finansów publicznych stosunku do pracowników zatrudnionych jednostkach sfery budżetowej więziennictwa, niebędących funkcjonariuszami Służby Więziennej, określą, drodze rozporządzenia:”.
-9. 22 czerwca 1995 zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. 2010 206, 1367 oraz 2011 22, 114 185, 1092) wprowadza się następujące zmiany:
-1) tytuł rozdziału 7a otrzymuje brzmienie: „Wykonywanie zadań Agencji przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych”;
-2) u żyte art. 78a ust. 1–3 5, art. 78b ust. 1, art. 78c ust. 1 ust. 2 pkt 1 lit. a d, art. 78d ust. 1, art. 78e ust. 1 art. 78f ust. 2, różnym przypadku, wyrazy „Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych Administracji” zastępuje się użytymi odpowiednim przypadku wyrazami „Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych”.
-10. 21 czerwca 1996 niektórych uprawnieniach pracowników urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz funkcjonariuszy pracowników urzędów nadzorowanych przez tego ministra (Dz. U. 106, 491, późn. zm. ) wprowadza się następujące zmiany:
-1) u żyte art. 6 ust. 2 3 oraz art. 7 ust. 1, różnym przypadku, wyrazy „Ministerstwo Spraw Wewnętrznych Administracji” zastępuje się użytymi odpowiednim przypadku wyrazami „urząd obsługujący ministra właściwego do spraw wewnętrznych”;
-2) u żyte art. 7 ust. 2 oraz art. 9 ust. 2, różnym przypadku, wyrazy „Minister Spraw Wewnętrznych Administracji” zastępuje się użytymi odpowiednim przypadku wyrazami „minister właściwy do spraw wewnętrznych”;
-r czynić się do realizacji celów wymienionych § 1.”.
-12. 27 czerwca 1997 bibliotekach (Dz. U. 642) art. 26 ust. 1 otrzymuje brzmienie: „1. celu zapewnienia obsługi bibliotecznej specjalnych grup użytkowników prowadzone są biblioteki podmiotach leczniczych rozumieniu przepisów działalności leczniczej, domach pomocy społecznej, zakładach karnych, poprawczych schroniskach dla nieletnich, a także jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej ministrowi właściwemu do spraw wewnętrznych.”.
-13. 21 sierpnia 1997 ochronie zwierząt (Dz. U. 2003 106, 1002, późn. zm. ) art. 4 pkt 20 otrzymuje brzmienie: „20) „ zwierzętach wykorzystywanych do celów specjalnych” rozumie się przez to zwierzęta, których profesjonalna tresura oraz używanie odbywa się na podstawie odrębnych przepisów, regulujących szczegółowe zasady działania jednostek Sił Zbrojnych Rzeczypospolitej Polskiej, Agencji Wywiadu, Policji, Straży Granicznej innych formacji podległych ministrowi właściwemu do spraw wewnętrznych, służb kontroli celnej, ratownictwa oraz regulujących zasady szkolenia wykorzystania psów przewodników osób ociemniałych;”.
-14. 21 sierpnia 1997 gospodarce nieruchomościami (Dz. U. 2010 102, 651, późn. zm. ) art. 46 ust. 4 pkt 2 otrzymuje brzmienie: „2) resortu spraw wewnętrznych wymaga zgody wojewody, wydanej porozumieniu ministrem właściwym do spraw wewnętrznych;”.
-15. 22 sierpnia 1997 publicznej służbie krwi (Dz. U. 106, 681, późn. zm. ) użyte art. 4 ust. 3 pkt 4, art. 21 ust. 1 pkt 2, art. 23 ust. 5, art. 24 ust. 2, art. 26 ust. 3 art. 27 wyrazy „Centrum MSWiA” zastępuje się wyrazami „Centrum MSW”.
-16. 22 sierpnia 1997 ochronie osób mienia (Dz. U. 2005 145, 1221, późn.
-zm. ) wprowadza się następujące zmiany:
-1) art. 4 ust. 1: r ministracji” zastępuje się użytymi odpowiednim przypadku wyrazami „minister właściwy do spraw wewnętrznych”;
-3) art. 30 ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw wewnętrznych porozumieniu ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, wysokość tryb wnoszenia opłaty za wydanie licencji pracownika ochrony, uwzględnieniem potrzeby identyfikacji osoby posiadającej licencję uprawnień wynikających licencji oraz wysokość opłaty za wydanie dokumentu licencji kwocie nieprzekraczającej połowy równowartości minimalnego wynagrodzenia miesięcznego za pracę jak również biorąc pod uwagę rzeczywiste koszty jej wydania oraz dopuszczalne możliwości uiszczania opłaty.”;
-4) art. 34 otrzymuje brzmienie: „Art. 34. Minister właściwy do spraw zdrowia porozumieniu ministrem właściwym do spraw wewnętrznych oraz minist rem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, sposób, zakres, tryb częstotliwość przeprowadzania badań lekarskich psychologicznych osób ubiegających się wydanie licencji oraz posiadających licencję pracownika ochrony fizycznej, jednostki uprawnione do przeprowadzania badań oraz wzory druków stosowanych związku tymi badaniami, jak również wysokość tryb wnoszenia opłat za te badania, uwzględniając konieczność przyjęcia obiektywnych niezbędnych kryteriów oceny stanu zdrowia oraz specyfikę czynności wykonywanych przez osoby posiadające licencję pracownika ochrony fizycznej, a także kwalifikacje podmiotów przeprowadzających badania lekarskie oraz biorąc pod uwagę rzeczywiste koszty prowadzenia badań jak również dopuszczalne możliwości uiszczania opłaty, mając na uwadze wysokość sposób wnoszenia opłaty za badania nieprzekraczającej połowy równowartości minimalnego wynagrodzenia miesięcznego za pracę.”;
-5) art. 35 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw wewnętrznych porozumieniu ministrem właściwym do spraw oświaty wychowania określi, drodze rozporządzenia:”;
-6) art. 54 otrzymuje brzmienie: „Art. 54. Minister właściwy do spraw wewnętrznych porozumieniu ministrem właściwym do spraw oświaty wychowania określi, drodze rozporządzenia, zakres wiadomości obowiązujących na egzaminie dla pracowników specjalistycznych uzbrojonych formacji ochronnych, którzy na podstawie przepisów obowiązujących do wejścia życie niniejszej ustawy uzyskali świadectwa wydane przez właściwą terytorialnie komendę wojewódzką Policji, potwierdzające zdanie egzaminu zakresu znajomości pełnienia służby strażniczej bronią uwzględniając wymagania kwalifikacyjne osób ubiegających się lub posiadających licencję pracownika ochrony fizycznej.”.
-17. 29 sierpnia 1997 Narodowym Banku Polskim (Dz. U. 2005 1, 2, późn.
-zm. ) wprowadza się następujące zmiany:
-1) art. 11 ust. 5 pkt 1 otrzymuje brzmienie: „1) ustala, porozumieniu ministrem właściwym do spraw wewnętrznych, zasady przechowywania wartości pieniężnych bankach przedsiębiorstwach produkujących znaki pieniężne oraz transportowania tych wartości przez banki te przedsiębiorstwa;”;
-r
-1) art. 52 otrzymuje brzmienie: „Art. 52. Organy wymiaru sprawiedliwości, prokuratury, organy jednostki organizacyjne podległe, nadzorowane lub podporządkowane ministrowi właściwemu do spraw wewnętrznych, Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw zagranicznych odpowiednio Szefowi Agencji Bezpieczeństwa Wewnętrznego Szefowi Agencji Wywiadu oraz organy administracji rządowej samorządu terytorialnego są obowiązane, każdy zakresie swojego działania, do udzielania pomocy Instytutowi Pamięci realizacji zadań Instytutu Pamięci, których mowa art. 1.”;
-2) art. 52f pkt 1 otrzymuje brzmienie: „1) M inistra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Ministra Sprawiedliwości oraz ministra właściwego do spraw zagranicznych, a także przez podległe, podporządkowane lub nadzorowane przez nich organy jednostki organizacyjne;”.
-20. 10 września 1999 niektórych umowach kompensacyjnych zawieranych związku umowami dostaw na potrzeby obronności bezpieczeństwa państwa (Dz. U. 80, 903, późn. zm. ) art. 3 pkt 14 otrzymuje brzmienie: „14) zamawiającym rozumie się przez to podmioty zamawiające uzbrojenie, sprzęt wojskowy lub usługi na potrzeby obronności lub bezpieczeństwa państwa, szczególności komórki organizacyjne Ministerstwa Obrony Narodowej lub komórki organizacyjne urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz jednostki organizacyjne podległe lub nadzorowane przez Ministra Obrony Narodowej lub organy oraz jednostki organizacyjne podległe lub nadzorowane przez ministra właściwego do spraw wewnętrznych,”.
-21. 29 listopada 2000 Prawo atomowe (Dz. U. 264) wprowadza się następujące zmiany:
-1) użyte art. 5 ust. 4 pkt 2, art. 33e ust. 2, art. 33k ust. 2, art. 63 ust. 2 pkt 2 art. 124 ust. 1 pkt 2, różnej liczbie przypadku, wyrazy „państwowy inspektor sanitarny Ministerstwa Spraw Wewnętrznych Administracji” zastępuje się użytymi odpowiedniej liczbie przypadku wyrazami „państwowy inspektor sanitarny Ministerstwa Spraw Wewnętrznych”;
-2) art. 33j ust. 3 pkt 8 otrzymuje brzmienie: „8) spółpraca Prezesem Agencji, Głównym Inspektorem Sanitarnym, Głównym Inspektorem Sanitarnym Wojska Polskiego oraz Głównym Inspektorem Sanitarnym Ministerstwa Spraw Wewnętrznych;”.
-22. 6 września 2001 dostępie do informacji publicznej (Dz. U. 112, 1198, późn.
-zm. ) art. 9a ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw informatyzacji określi, drodze rozporządzenia:”.
-r
-2) art. 24 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw transportu zakresie transportu drogowego, kolejowego, lotniczego ruchu jednostek pływających na śródlądowych drogach wodnych, a minister właściwy do spraw gospodarki morskiej zakresie ruchu na morskich wodach wewnętrznych morzu terytorialnym, porozumieniu ministrem właściwym do spraw administracji publicznej, ministrem właściwym do spraw wewnętrznych Ministrem Obrony Narodowej, drodze rozporządzenia, może wprowadzić ograniczenia, których mowa ust. 1, oraz określić zakres tych ograniczeń uwzględnieniem konieczności zapewnienia warunków pozwalających na sprawne zapobieganie lub zwalczanie skutków klęski żywiołowej przy jednoczesnym zminimalizowaniu uciążliwości wynikłych dla innych użytkowników wprowadzonych ograniczeń.”.
-24. 24 maja 2002 Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U.
-2010 29, 154, późn. zm. ) art. 85 otrzymuje brzmienie: „Art. 85. Funkcjonariusz, który związku ze służbą doznał uszczerbku na zdrowiu lub poniósł szkodę mieniu, otrzymuje odszkodowanie trybie na zasadach określonych dla policjantów, tym że wynikające przepisów ustawy 16 grudnia 1972 odszkodowaniach przysługujących razie wypadków chorób pozostających związku ze służbą Policji (Dz. U. 53, 345, późn. zm. ) kompetencje komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych oraz organów właściwych do powoływania komisji powypadkowych, ustalania prawa do odszkodowania oraz wypłacania odszkodowania przysługują stosunku do funkcjonariuszy odpowiednio: komisjom lekarskim podległym Szefowi Agencji, której funkcjonariusz pełni służbę, Szefowi tej Agencji lub upoważnionym przez niego kierownikom jednostek organizacyjnych Agencji oraz komisjom powypadkowym właściwej Agencji.”.
-25. 19 marca 2004 Prawo celne (Dz. U. 68, 622, późn. zm. ) art. 19 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw finansów publicznych porozumieniu Ministrem Obrony Narodowej ministrem właściwym do spraw wewnętrznych określi, drodze rozporządzenia, szczegółowe zasady wprowadzania na obszar celny Wspólnoty wyprowadzania poza ten obszar, a także nadawania przeznaczenia celnego odniesieniu do okrętów wojennych wojskowych statków powietrznych oraz wyposażenia sprzętu jednostek wojskowych jednostek organizacyjnych służb podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych, mając na uwadze prawidłową realizację obrotu towarowego oraz uproszczenie formalności celnych przed organami celnymi.”.
-26. 16 lipca 2004 Prawo telekomunikacyjne (Dz. U. 171, 1800, późn. zm. ) art. 78 ust. 7a otrzymuje brzmienie: „7a. Minister właściwy do spraw administracji publicznej określi, drodze rozporządzenia, organizację funkcjonowanie centralnego punktu systemu centrów powiadamiania ratunkowego oraz punktów centralnych służb, któr „2a) minister właściwy do spraw administracji publicznej;”,
-b) ust. 3 pkt 1 uchyla się lit. a;
-2) art. 14:
-a) ust. 2 pkt 2 lit. otrzymuje brzmienie: „c) rzygotowywanie przedkładanie do zatwierdzenia ministrowi właściwemu do spraw administracji publicznej wojewódzkiego planu zarządzania kryzysowego,”,
-b) ust. 3 4 otrzymują brzmienie: „3. Minister właściwy do spraw administracji publicznej, uzgodnieniu ministrem właściwym do spraw wewnętrznych oraz po zasięgnięciu opinii dyrektora Centrum, wydaje, drodze zarządzenia, wojewodom wytyczne do wojewódzkich planów zarządzania kryzysowego.
-4. Minister właściwy do spraw administracji publicznej uzgodnieniu ministrem właściwym do spraw wewnętrznych zatwierdza wojewódzkie plany zarządzania kryzysowego ich aktualizacje, po zasięgnięciu opinii dyrektora Centrum.”.
-28. 3 października 2008 udostępnianiu informacji środowisku jego ochronie, udziale społeczeństwa ochronie środowiska oraz ocenach oddziaływania na środowisko (Dz. U. 199, 1227, późn. zm. ) art. 78 ust. 3 otrzymuje brzmienie: „3. Organem właściwym sprawach, których mowa ust. 1, odniesieniu do przedsięwzięć na terenach jednostek organizacyjnych podległych nadzorowanych przez ministra właściwego do spraw wewnętrznych jest właściwy organ Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych.”.
-29. 27 sierpnia 2009 Służbie Celnej (Dz. U. 168, 1323, późn. zm. ) wprowadza się następujące zmiany:
-1) art. 30 ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw finansów publicznych porozumieniu Ministrem Obrony Narodowej ministrem właściwym do spraw wewnętrznych określi, drodze rozporządzenia, sposób warunki wykonywania kontroli, której mowa ust. 2 pkt 1, odniesieniu do okrętów wojennych wojskowych statków powietrznych oraz wyposażenia sprzętu jednostek wojskowych, a także wyposażenia sprzętu jednostek organizacyjnych służb podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych, mając na uwadze uproszczenie czynności kontrolnych podejmowanych wobec tego rodzaju towarów oraz zapewnienie skuteczności kontroli.”;
-2) art. 121 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw finansów publicznych porozumieniu ministrem właściwym do spraw wewnętrznych określi, drodze rozporządzenia, równorzędność stopni, których mowa ust. 1, uwzględniając równorzędność okresów służby stażu oraz uzyskanych dotychczasowych jednostkach kwalifikacji zawodowych kwalifikacjami Służbie Celnej.”.
-r
-1) art. 5 ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw administracji publicznej określi, drodze rozporządzenia, tryb wypłaty szczegółowy tryb zwrotu zasiłku oraz wzór formularza wniosku, którym mowa ust. 3, uwzględniając konieczność uzyskania danych niezbędnych do identyfikacji rodziny lub osób, którym ma być przyznany zasiłek, oraz potrzebę określenia treści oświadczenia, którym mowa ust. 5, a także mając na względzie zapewnienie sprawnego terminowego wypłacania zasiłku poszkodowanym oraz skuteczności zwrotu nienależnie uzyskanego zasiłku.”;
-2) art. 34 ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw wewnętrznych porozumieniu ministrem właściwym do spraw administracji publicznej, po uzyskaniu opinii Komendanta Głównego Państwowej Straży Pożarnej, występuje do ministra właściwego do spraw finansów publicznych wnioskiem przyznanie środków na dotacje dla ochotniczych straży pożarnych. Po przyznaniu środków przez ministra właściwego do spraw finansów publicznych, minister właściwy do spraw wewnętrznych przekazuje dotację ochotniczej straży pożarnej, której mowa ust. 2.”.
-32. Postępowania administracyjne wszczęte przed dniem wejścia życie niniejszej ustawy na podstawie ustawy 15 marca 1933 zbiórkach publicznych (Dz. U. 22, 162, późn. zm. ) niezakończone do tego decyzją ostateczną toczą się według przepisów dotychczasowych, tym że kompetencje ministra właściwego do spraw wewnętrznych przechodzą na ministra właściwego do spraw administracji publicznej.
-33. 1. Z dniem wejścia życie niniejszej ustawy członkowie korpusu służby cywilnej zatrudnieni urzędzie obsługującym ministra właściwego do spraw wewnętrznych realizujący do tego zadania, które zostają przekazane niniejszą ustawą ministrowi właściwemu do spraw administracji publicznej, stają się członkami korpusu służby cywilnej zatrudnionymi urzędzie obsługującym ministra właściwego do spraw administracji publicznej.
-2. Dotychczasowy pracodawca jest obowiązany, terminie 14 dni od ogłoszenia niniejszej ustawy, zawiadomić na piśmie członków korpusu służby cywilnej, których mowa ust. 1, zmianach, jakie mają nastąpić zakresie ich stosunków pracy. Przepis art. 23 § 4 ustawy 26 czerwca 1974 Kodeks pracy (Dz. U. 1998 21, 94, późn.
-zm. ) stosuje się odpowiednio.
-3. Przepisu ust. 2 zdanie drugie nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy 21 listopada 2008 służbie cywilnej (Dz. U. 227, 1505, późn. zm. ).
-34. celu wykonania przepisów ustawy Prezes Rady Ministrów dokona, drodze rozporządzenia, przeniesienia planowanych dochodów wydatków budżetowych, tym wynagrodzeń, między częściami, działami rozdziałami budżetu państwa, zachowaniem przeznaczenia środków publicznych wynikającego ustawy budżetowej.
-r
-2. Przepisy wykonawcze wydane na podstawie art. 19 ust. 3 ustawy zmienianej art. 25 zachowują moc do czasu wejścia życie przepisów wykonawczych wydanych na podstawie art. 19 ust. 3 tej ustawy brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od wejścia życie niniejszej ustawy.
-3. Przepisy wykonawcze wydane na podstawie art. 30 ust. 7 ustawy zmienianej art. 29 zachowują moc do czasu wejścia życie przepisów wykonawczych wydanych na podstawie art. 30 ust. 7 tej ustawy brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od wejścia życie niniejszej ustawy.
-37. Ustawa wchodzi życie po upływie 30 dni od ogłoszenia, wyjątkiem art. 33 ust. 2, który wchodzi życie dniem ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: B. Komorowski r
+” ;
+3)
+w art. 12a:
+a)
+po pkt 7 dodaje się pkt 7a i 7b w brzmieniu:
+„
+7a)
+przeciwdziałania wykluczeniu cyfrowemu;
+7b)
+rozwoju usług świadczonych drogą elektroniczną oraz usług na żądanie;
+” ,
+b)
+w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu:
+„
+9)
+koordynacji interoperacyjności.
+” ;
+4)
+w art. 14 w ust. 1 pkt 9 otrzymuje brzmienie:
+„
+9)
+polityki audiowizualnej, w szczególności w zakresie prasy, radia, telewizji i kinematografii;
+” ;
+5)
+w art. 25 ust. 3 otrzymuje brzmienie:
+„
+3.
+Minister właściwy do spraw Skarbu Państwa może inicjować politykę państwa w zakresie przekształceń własnościowych mienia komunalnego, jak również prowadzić działania związane ze wspieraniem rozwoju i promocją rynku finansowego w Polsce, w szczególności przez promocję inwestowania na rynku kapitałowym w ramach prowadzonych procesów prywatyzacyjnych.
+” ;
+6)
+w art. 29 w ust. 1 uchyla się pkt 6 i 6a.
+
+**Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.) wprowadza się następujące zmiany:
+
+### Dział gospodarka obejmuje sprawy gospodarki, w tym konkurencyjności gospodarki, współpracy gospodarczej z zagranicą, energetyki, oceny zgodności, miar i probiernictwa, własności przemysłowej, innowacyjności, działalności gospodarczej, promocji gospodarki polskiej w kraju i za granicą, umów offsetowych oraz współpracy z organizacjami samorządu gospodarczego.
+
+**Art. 2.** W ustawie z dnia 15 marca 1933 r. o zbiórkach publicznych (Dz. U. Nr 22, poz. 162, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 5.** Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, sposoby przeprowadzania zbiórek publicznych i zakres kontroli nad ich przeprowadzaniem, uwzględniając zwłaszcza potrzebę zapewnienia odpowiedniego bezpieczeństwa zbieranych ofiar. Rozporządzenie określi w szczególności formy prowadzenia zbiórek publicznych, miejsca ich prowadzenia, niezbędne dane, jakie powinien zawierać plan przeprowadzania zbiórki, sposoby sporządzania dokumentacji dotyczącej przebiegu akcji zbiórkowej, wymogi, jakim powinna odpowiadać legitymacja osoby przeprowadzającej zbiórkę publiczną, oraz niezbędne informacje, jakie powinno zawierać publiczne ogłoszenie wyników zbiórki. ” .
+
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) w art. 461 § 21 otrzymuje brzmienie: „
+
+**Art. 4.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.) w art. 219 pkt 4 otrzymuje brzmienie: „
+
+**Art. 6.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, z późn. zm.) w art. 145g ust. 2 otrzymuje brzmienie: „ 2. Jeżeli środki finansowe na ten cel nie zostały uwzględnione w budżecie ministra właściwego do spraw wewnętrznych, zapewnia je Rada Ministrów. ” .
+
+**Art. 7.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353) wprowadza się następujące zmiany:
+
+**Art. 12.**
+
+1. Minister właściwy do spraw wewnętrznych pełni nadzór nad funkcjonowaniem krajowego systemu ratowniczo-gaśniczego.
+
+2. Minister właściwy do spraw administracji publicznej pełni nadzór nad funkcjonowaniem systemu powiadamiania ratunkowego. ” ;
+
+- **2)** art. 14e otrzymuje brzmienie: „
+
+**Art. 14e.** Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw zdrowia i ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+**Art. 8.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2012 r. poz. 592) w art. 1 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw finansów publicznych, w stosunku do pracowników zatrudnionych w podległych mu jednostkach sfery budżetowej, niebędących funkcjonariuszami lub żołnierzami zawodowymi, a Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw finansów publicznych w stosunku do pracowników zatrudnionych w jednostkach sfery budżetowej więziennictwa, niebędących funkcjonariuszami Służby Więziennej, określą, w drodze rozporządzenia: ” .
+
+**Art. 9.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 206, poz. 1367 oraz z 2011 r. Nr 22, poz. 114 i Nr 185, poz. 1092) wprowadza się następujące zmiany:
+
+**Art. 10.** W ustawie z dnia 21 czerwca 1996 r. o niektórych uprawnieniach pracowników urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz funkcjonariuszy i pracowników urzędów nadzorowanych przez tego ministra (Dz. U. Nr 106, poz. 491, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 11.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) w art. 40 § 2 otrzymuje brzmienie: „
+
+**Art. 13.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm.) w art. 4 pkt 20 otrzymuje brzmienie: „
+
+**Art. 15.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. Nr 106, poz. 681, z późn. zm.) użyte w art. 4 w ust. 3 w pkt 4, w art. 21 w ust. 1 w pkt 2, w art. 23 w ust. 5, w art. 24 w ust. 2, w art. 26 w ust. 3 i w art. 27 wyrazy „Centrum MSWiA” zastępuje się wyrazami „Centrum MSW”.
+
+**Art. 16.** W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 34.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, sposób, zakres, tryb i częstotliwość przeprowadzania badań lekarskich i psychologicznych osób ubiegających się o wydanie licencji oraz posiadających licencję pracownika ochrony fizycznej, jednostki uprawnione do przeprowadzania badań oraz wzory druków stosowanych w związku z tymi badaniami, jak również wysokość i tryb wnoszenia opłat za te badania, uwzględniając konieczność przyjęcia obiektywnych i niezbędnych kryteriów oceny stanu zdrowia oraz specyfikę czynności wykonywanych przez osoby posiadające licencję pracownika ochrony fizycznej, a także kwalifikacje podmiotów przeprowadzających badania lekarskie oraz biorąc pod uwagę rzeczywiste koszty prowadzenia badań jak również dopuszczalne możliwości uiszczania opłaty, mając na uwadze wysokość i sposób wnoszenia opłaty za badania nieprzekraczającej połowy równowartości minimalnego wynagrodzenia miesięcznego za pracę. ” ;
+
+**Art. 54.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, zakres wiadomości obowiązujących na egzaminie dla pracowników specjalistycznych uzbrojonych formacji ochronnych, którzy na podstawie przepisów obowiązujących do dnia wejścia w życie niniejszej ustawy uzyskali świadectwa wydane przez właściwą terytorialnie komendę wojewódzką Policji, potwierdzające zdanie egzaminu z zakresu znajomości pełnienia służby strażniczej z bronią uwzględniając wymagania kwalifikacyjne osób ubiegających się lub posiadających licencję pracownika ochrony fizycznej. ” .
+
+**Art. 17.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 18.** W ustawie z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. Nr 162, poz. 1117, z późn. zm.) w art. 9 ust. 2 otrzymuje brzmienie: „ 2. Rada Ministrów zapewni środki finansowe na użycie lub pobyt jednostek wojskowych poza granicami państwa w przypadkach określonych w art. 2, jeżeli środki na ten cel nie zostały uwzględnione w budżecie Ministerstwa Obrony Narodowej albo urzędu obsługującego ministra właściwego do spraw wewnętrznych. ” .
+
+**Art. 19.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2007 r. Nr 63, poz. 424, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 52.** Organy wymiaru sprawiedliwości, prokuratury, organy i jednostki organizacyjne podległe, nadzorowane lub podporządkowane ministrowi właściwemu do spraw wewnętrznych, Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw zagranicznych i odpowiednio Szefowi Agencji Bezpieczeństwa Wewnętrznego i Szefowi Agencji Wywiadu oraz organy administracji rządowej i samorządu terytorialnego są obowiązane, każdy w zakresie swojego działania, do udzielania pomocy Instytutowi Pamięci w realizacji zadań Instytutu Pamięci, o których mowa w art. 1. ” ;
+
+**Art. 20.** W ustawie z dnia 10 września 1999 r. o niektórych umowach kompensacyjnych zawieranych w związku z umowami dostaw na potrzeby obronności i bezpieczeństwa państwa (Dz. U. Nr 80, poz. 903, z późn. zm.) w art. 3 pkt 14 otrzymuje brzmienie: „
+
+**Art. 21.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264) wprowadza się następujące zmiany:
+
+**Art. 22.** W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.) w art. 9a w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia: ” .
+
+**Art. 23.** W ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. Nr 62, poz. 558, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 24.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) art. 85 otrzymuje brzmienie: „
+
+**Art. 85.** Funkcjonariusz, który w związku ze służbą doznał uszczerbku na zdrowiu lub poniósł szkodę w mieniu, otrzymuje odszkodowanie w trybie i na zasadach określonych dla policjantów, z tym że wynikające z przepisów ustawy z dnia 16 grudnia 1972 r. o odszkodowaniach przysługujących w razie wypadków i chorób pozostających w związku ze służbą w Policji (Dz. U. Nr 53, poz. 345, z późn. zm.) kompetencje komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych oraz organów właściwych do powoływania komisji powypadkowych, ustalania prawa do odszkodowania oraz wypłacania odszkodowania – przysługują w stosunku do funkcjonariuszy odpowiednio: komisjom lekarskim podległym Szefowi Agencji, w której funkcjonariusz pełni służbę, Szefowi tej Agencji lub upoważnionym przez niego kierownikom jednostek organizacyjnych Agencji oraz komisjom powypadkowym właściwej Agencji. ” .
+
+**Art. 25.** W ustawie z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.) w art. 19 ust. 3 otrzymuje brzmienie: „ 3. Minister właściwy do spraw finansów publicznych w porozumieniu z Ministrem Obrony Narodowej i ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe zasady wprowadzania na obszar celny Wspólnoty i wyprowadzania poza ten obszar, a także nadawania przeznaczenia celnego w odniesieniu do okrętów wojennych i wojskowych statków powietrznych oraz wyposażenia i sprzętu jednostek wojskowych i jednostek organizacyjnych służb podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych, mając na uwadze prawidłową realizację obrotu towarowego oraz uproszczenie formalności celnych przed organami celnymi. ” .
+
+**Art. 26.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.) w art. 78 ust. 7a otrzymuje brzmienie: „ 7a. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, organizację i funkcjonowanie centralnego punktu systemu centrów powiadamiania ratunkowego oraz punktów centralnych służb, o których mowa w ust. 4 pkt 1, mając na uwadze zapewnienie sprawnej dystrybucji udostępnianych przez system, o którym mowa w ust. 4, informacji i danych właściwym terytorialnie centrom powiadamiania ratunkowego, wojewódzkim centrom powiadamiania ratunkowego oraz jednostkom służb ustawowo powołanych do niesienia pomocy. ” .
+
+**Art. 27.** W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. Nr 89, poz. 590, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 28.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.) w art. 78 ust. 3 otrzymuje brzmienie: „ 3. Organem właściwym w sprawach, o których mowa w ust. 1, w odniesieniu do przedsięwzięć na terenach jednostek organizacyjnych podległych i nadzorowanych przez ministra właściwego do spraw wewnętrznych jest właściwy organ Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych. ” .
+
+**Art. 29.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. Nr 168, poz. 1323, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 30.** W ustawie z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. Nr 63, poz. 322) w art. 29 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Nadzór nad przestrzeganiem przepisów ustawy oraz przepisów rozporządzeń, o których mowa w art. 1 ust. 1, sprawują, w zakresie swojej właściwości, Państwowa Inspekcja Sanitarna, Państwowa Inspekcja Sanitarna Ministerstwa Spraw Wewnętrznych oraz Wojskowa Inspekcja Sanitarna, a także: ” .
+
+**Art. 31.** W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. Nr 234, poz. 1385) wprowadza się następujące zmiany:
+
+**Art. 32.** Postępowania administracyjne wszczęte przed dniem wejścia w życie niniejszej ustawy na podstawie ustawy z dnia 15 marca 1933 r. o zbiórkach publicznych (Dz. U. Nr 22, poz. 162, z późn. zm.) i niezakończone do tego dnia decyzją ostateczną toczą się według przepisów dotychczasowych, z tym że kompetencje ministra właściwego do spraw wewnętrznych przechodzą na ministra właściwego do spraw administracji publicznej.
+
+**Art. 33.**
+
+1. Z dniem wejścia w życie niniejszej ustawy członkowie korpusu służby cywilnej zatrudnieni w urzędzie obsługującym ministra właściwego do spraw wewnętrznych i realizujący do tego dnia zadania, które zostają przekazane niniejszą ustawą ministrowi właściwemu do spraw administracji publicznej, stają się członkami korpusu służby cywilnej zatrudnionymi w urzędzie obsługującym ministra właściwego do spraw administracji publicznej.
+
+2. Dotychczasowy pracodawca jest obowiązany, w terminie 14 dni od dnia ogłoszenia niniejszej ustawy, zawiadomić na piśmie członków korpusu służby cywilnej, o których mowa w ust. 1, o zmianach, jakie mają nastąpić w zakresie ich stosunków pracy. Przepis art. 231 § 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.) stosuje się odpowiednio.
+
+3. Przepisu ust. 2 zdanie drugie nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. Nr 227, poz. 1505, z późn. zm.). W celu wykonania przepisów ustawy Prezes Rady Ministrów dokona, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
+
+**Art. 35.**
 

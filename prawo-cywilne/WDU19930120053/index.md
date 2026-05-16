@@ -8,9 +8,10 @@ pos: 53
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 53
+# Ustawa z dnia 16 grudnia 1992 r. o zmianie ustawy – Kodeks postępowania cywilnego
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +25,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930120053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/53/text.pdf) |
 
-USTAWA z dnia 16 grudnia 1992 r.
-o zmianie ustawy - Kodeks cywil?ego.
-
-**Art. 1.** W Kodeksie cywilnego wprowa dza zmiany:
+**Art. 1.** W Kodeksie postępowania cywilnego wprowadza się następujące zmiany:
 
 **Art. 2.**
 
-1. Sprawy przed dniem w cie ustawy
+1. Sprawy wszczęte przed dniem wejścia wżycie ustawy toczą się według przepisów dotychczasowych.
 
-2. przepisów dotychczasowych. sprawy, w których orzeczenie zostanie w uchylone po dniu w ustawy przez rewizyjny, przekazane przepisów ustawy. Dotyczy to odpowiednio spraw rozpoz nawanych przez na skutek rewizji nadzwy czajnej.
+2. Jednakże sprawy, w których orzeczenie zostanie w całości uchylone po dniu wejścia w życie ustawy przez sąd rewizyjny, będą przekazane sądom właściwym według przepisów ustawy. Dotyczy to odpowiednio spraw rozpoznawanych przez Sąd Najwyższy na skutek rewizji nadzwyczajnej.
 
-**Art. 3.** Ustawa wchodzi w z dniem 1 marca 1993 r. Prezydent Rzeczypospolitej Polskiej: L. 54 RADY MINISTRÓW z dnia 10 lutego 1993 r. .w sprawie wynagrodzenia ustalenia normy wynagrodzenia dla podatników, którzy w 1993 r. Na podstawie art. 6 ust. 1 pkt 1 ustawy z dnia 22 grudnia 1990 r. o opodatkowaniu wzrostu (Dz. U. z 1991 r. Nr 1, poz. 1 oraz z 1992 r. Nr 21, poz. 85, Nr 73, poz. 361 i Nr 100, poz. 498) co § 1. wynagrodzenia ustalenia normy wy nagrodzenia przez skarbowe dla podatników, którzy w 1993 r., w 1.900 tys.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 marca 1993 r.
 

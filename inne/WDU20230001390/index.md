@@ -8,9 +8,10 @@ pos: 1390
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lipca 2023 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 7 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o budowie zabezpieczenia granicy państwowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,57 +25,51 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1390/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 7 lipca 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o budowie zabezpieczenia granicy państwowej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej (Dz. U. poz. 1992), uwzględnieniem zmian wprowadzonych:
-1) ustawą dnia 13 stycznia 2023 r. o zmianie ustawy o pomocy obywatelom Ukrainy związku konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 185),
-2) ustawą dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088) oraz zmian wynikających przepisów ogłoszonych przed dniem 6 lipca 2023 r.
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 36 ustawy dnia 13 stycznia 2023 r. o zmianie ustawy o pomocy obywatelom Ukrainy związku konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 185), który stanowi: „Art. 36. Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, wyjątkiem:
-1) art. 1:
-a) pkt 3 lit. b tiret pierwsze, który wchodzi życie terminie określonym komunikacie ministra właściwego do spraw informatyzacji, o którym mowa art. 34,
-b) pkt 6 zakresie dodawanego art. 10 ust. 8, który wchodzi życie terminie określonym komunikacie ministra właściwego do spraw informatyzacji, o którym mowa art. 35,
-c) pkt 8: lit. a oraz lit. b zakresie dodawanych ust. 17a oraz 17c–17f, które wchodzą życie dniem 1 marca 2023 r., lit. b zakresie dodawanego ust. 17b, który wchodzi życie dniem 1 maja 2023 r.,
-d) pkt 9 lit. c i d, które wchodzą życie dniem następującym po dniu ogłoszenia, mocą od dnia 24 lutego 2022 r.,
-e) pkt 9 lit. e, pkt 10, pkt 21 lit. a–c i f, pkt 31 lit. a i c oraz pkt 32, które wchodzą życie dniem następującym po dniu ogłoszenia, mocą od dnia 1 stycznia 2023 r.,
-f) pkt 21 lit. g i h, które wchodzą życie dniem 1 kwietnia 2023 r.;
-2) art. 4, art. 5, art. 7 oraz art. 20 pkt 4, które wchodzą życie dniem następującym po dniu ogłoszenia, mocą od dnia 1 stycznia 2023 r.;
-3) art. 11, który wchodzi życie dniem 1 września 2023 r.;
-4) art. 13, który wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia;
-5) art. 17, który wchodzi życie dniem 24 sierpnia 2023 r.”;
-2) art. 29 ustawy dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088), który stanowi: „Art. 29. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, wyjątkiem przepisów:
-1) art. 2 pkt 21 i 22, które wchodzą życie dniem 1 stycznia 2024 r.;
-2) art. 3, art. 7, art. 8 pkt 3 i 4, art. 9, art. 13 ust. 2 i art. 16–26, które wchodzą życie dniem 1 października 2023 r.;
-3) art. 10, art. 12 i art. 28, które wchodzą życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
-USTAWA dnia 29 października 2021 r.
-o budowie zabezpieczenia granicy państwowej
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej (Dz. U. poz. 1992), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 13 stycznia 2023 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 185),
+2)
+ustawą z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 lipca 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 36 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 185), który stanowi:
+„
 
-**Art. 1.** Ustawa określa zasady przygotowania i realizacji zabezpieczenia granicy państwowej, stanowiącej granicę zewnętrzną rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 dnia 9 marca 2016 r. sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 23.03.2016, str. 1, późn. zm. ), przez fizyczne, techniczne lub elektroniczne jej zabezpieczenie, tym przed nielegalnym przekroczeniem, zwane dalej „barierą”.
+**Art. 36.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+
+**Art. 29.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, z wyjątkiem przepisów:
+
+**Art. 1.** Ustawa określa zasady przygotowania i realizacji zabezpieczenia granicy państwowej, stanowiącej granicę zewnętrzną w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm.), przez fizyczne, techniczne lub elektroniczne jej zabezpieczenie, w tym przed nielegalnym przekroczeniem, zwane dalej „barierą”.
 
 **Art. 2.**
 
-1. Barierę stanowią urządzenia służące ochronie granicy państwowej, o których mowa art. 10 ust. 1 ustawy dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. 2022 r. poz. 295 oraz 2023 r. poz. 1114).
+1. Barierę stanowią urządzenia służące ochronie granicy państwowej, o których mowa w art. 10 ust. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2022 r. poz. 295 oraz z 2023 r. poz. 1114).
 
-2. Barierę mogą stanowić urządzenia budowlane, budowle lub inne obiekty budowlane, rozumieniu ustawy dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. 2023 r. poz. 682, 553 i 967), wraz instalacjami zapewniającymi użytkowanie bariery zgodnie jej przeznaczeniem, o którym mowa art. 1, oraz infrastrukturą towarzyszącą, tym elektroniczną lub telekomunikacyjną.
+2. Barierę mogą stanowić urządzenia budowlane, budowle lub inne obiekty budowlane, w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, 553 i 967), wraz z instalacjami zapewniającymi użytkowanie bariery zgodnie z jej przeznaczeniem, o którym mowa w art. 1, oraz infrastrukturą towarzyszącą, w tym elektroniczną lub telekomunikacyjną.
 
 **Art. 3.**
 
-1. Inwestycja zakresie budowy bariery, zwana dalej „inwestycją”, polega na projektowaniu, wykonaniu robót budowlanych, utrzymaniu, przebudowie, remoncie i rozbiórce, tym obiektów budowlanych pozostających nią kolizji, rozumieniu ustawy dnia 7 lipca 1994 r. Prawo budowlane, a także na nabywaniu towarów i usług.
+1. Inwestycja w zakresie budowy bariery, zwana dalej „inwestycją”, polega na projektowaniu, wykonaniu robót budowlanych, utrzymaniu, przebudowie, remoncie i rozbiórce, w tym obiektów budowlanych pozostających z nią w kolizji, w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, a także na nabywaniu towarów i usług.
 
-2. Inwestycja jest celem publicznym, o którym mowa art. 6 ustawy dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. 2023 r. poz. 344 i 1113).
+2. Inwestycja jest celem publicznym, o którym mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344 i 1113).
 
 **Art. 4.**
 
 1. Inwestorem jest Komendant Główny Straży Granicznej.
 
-2. W celu zapewnienia przygotowania i realizacji inwestycji Komendant Główny Straży Granicznej, za zgodą ministra właściwego do spraw wewnętrznych, powołuje Pełnomocnika do spraw przygotowania i realizacji zabezpieczenia granicy państwowej, zwanego dalej „Pełnomocnikiem”, spośród osób posiadających wiedzę zakresu prawa budowlanego.
+2. W celu zapewnienia przygotowania i realizacji inwestycji Komendant Główny Straży Granicznej, za zgodą ministra właściwego do spraw wewnętrznych, powołuje Pełnomocnika do spraw przygotowania i realizacji zabezpieczenia granicy państwowej, zwanego dalej „Pełnomocnikiem”, spośród osób posiadających wiedzę z zakresu prawa budowlanego.
 
-3. Pełnomocnik jest uprawniony do podejmowania imieniu Komendanta Głównego Straży Granicznej działań zakresie przygotowania i realizacji inwestycji, tym do podpisywania umów.
+3. Pełnomocnik jest uprawniony do podejmowania w imieniu Komendanta Głównego Straży Granicznej działań w zakresie przygotowania i realizacji inwestycji, w tym do podpisywania umów.
 
-4. Pełnomocnik może występować do właściwych organów administracji rządowej, wskazując problemy związane inwestycją, których rozwiązanie należy do kompetencji tych organów, wnioskiem o rozpatrzenie sprawy lub zajęcie stanowiska. Organy zajmują stanowisko sprawie przedstawionej przez Pełnomocnika nie później niż terminie 7 dni od dnia otrzymania wniosku.
+4. Pełnomocnik może występować do właściwych organów administracji rządowej, wskazując problemy związane z inwestycją, których rozwiązanie należy do kompetencji tych organów, z wnioskiem o rozpatrzenie sprawy lub zajęcie stanowiska. Organy zajmują stanowisko w sprawie przedstawionej przez Pełnomocnika nie później niż w terminie 7 dni od dnia otrzymania wniosku.
 
-5. Pełnomocnik, celu właściwej realizacji powierzonych mu zadań, może współpracować organami publicznymi, państwowymi osobami prawnymi, osobami prawnymi udziałem Skarbu Państwa oraz organizacjami pozarządowymi i innymi jednostkami organizacyjnymi.
+5. Pełnomocnik, w celu właściwej realizacji powierzonych mu zadań, może współpracować z organami publicznymi, państwowymi osobami prawnymi, osobami prawnymi z udziałem Skarbu Państwa oraz organizacjami pozarządowymi i innymi jednostkami organizacyjnymi.
 
 6. Obsługę Pełnomocnika zapewnia Komenda Główna Straży Granicznej.
 
@@ -87,98 +82,26 @@ o budowie zabezpieczenia granicy państwowej
 
 2. W skład Zespołu wchodzą:
 
-- **1)** przewodniczący minister właściwy do spraw wewnętrznych lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu;
-- **2)** członkowie:
-    - **a)** Minister Obrony Narodowej lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu,
-    - **b)** minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu,
-    - **c)** minister właściwy do spraw budżetu lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu,
-    - **d)** minister właściwy do spraw środowiska lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu,
-    - **e)** minister właściwy do spraw rozwoju wsi lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu,
-    - **f)** zastępca Komendanta Głównego Straży Granicznej, wyznaczony przez Komendanta Głównego Straży Granicznej,
-    - **g)** Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej albo upoważniony przez niego wiceprezes,
-    - **h)** Generalny Dyrektor Ochrony Środowiska albo upoważniony przez niego zastępca,
-    - **i)** Główny Geodeta Kraju albo upoważniony przez niego zastępca,
-    - **j)** Szef Centralnego Biura Antykorupcyjnego albo upoważniony przez niego zastępca,
-    - **k)** Wojewoda Podlaski albo upoważniony przez niego zastępca,
-    - **l)** Wojewoda Lubelski albo upoważniony przez niego zastępca, la) Wojewoda Warmińsko-Mazurski albo upoważniony przez niego zastępca,
-    - **m)** Komendant Podlaskiego Oddziału Straży Granicznej albo jego zastępca,
-    - **n)** Komendant Nadbużańskiego Oddziału Straży Granicznej albo upoważniony przez niego zastępca, na) Komendant Warmińsko-Mazurskiego Oddziału Straży Granicznej albo jego zastępca, nb) Komendant Morskiego Oddziału Straży Granicznej albo jego zastępca,
-    - **o)** Pełnomocnik.
+- **1)** przewodniczący – minister właściwy do spraw wewnętrznych lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu;
+- **2)** członkowie: Minister Obrony Narodowej lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu, minister właściwy do spraw budżetu lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu, minister właściwy do spraw środowiska lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu, minister właściwy do spraw rozwoju wsi lub upoważniony przez niego sekretarz stanu albo podsekretarz stanu, zastępca Komendanta Głównego Straży Granicznej, wyznaczony przez Komendanta Głównego Straży Granicznej, Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej albo upoważniony przez niego wiceprezes, Generalny Dyrektor Ochrony Środowiska albo upoważniony przez niego zastępca, Główny Geodeta Kraju albo upoważniony przez niego zastępca, Szef Centralnego Biura Antykorupcyjnego albo upoważniony przez niego zastępca, Wojewoda Podlaski albo upoważniony przez niego zastępca, Wojewoda Lubelski albo upoważniony przez niego zastępca, la) Wojewoda Warmińsko-Mazurski albo upoważniony przez niego zastępca, Komendant Podlaskiego Oddziału Straży Granicznej albo jego zastępca, Komendant Nadbużańskiego Oddziału Straży Granicznej albo upoważniony przez niego zastępca, na) Komendant Warmińsko-Mazurskiego Oddziału Straży Granicznej albo jego zastępca, nb) Komendant Morskiego Oddziału Straży Granicznej albo jego zastępca, Pełnomocnik.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **m)**
+    - **n)**
+    - **o)**
 
-3. Przewodniczący może zapraszać do udziału pracach Zespołu na prawach członka innych przedstawicieli administracji rządowej.
+3. Przewodniczący może zapraszać do udziału w pracach Zespołu na prawach członka innych przedstawicieli administracji rządowej.
 
-4. Prezes Rady Ministrów, drodze zarządzenia, określa szczegółowe zadania Zespołu oraz tryb jego działania, uwzględniając konieczność sprawnej realizacji inwestycji i jej monitorowania.
+4.
 
-**Art. 6.**
-
-1. Do inwestycji nie stosuje się przepisów odrębnych, tym prawa budowlanego, prawa wodnego, prawa ochrony środowiska oraz przepisów o udostępnianiu informacji o środowisku, prawa geodezyjnego i kartograficznego, przepisów o planowaniu i zagospodarowaniu przestrzennym, przepisów o ochronie gruntów rolnych i leśnych oraz środowiskowych, przepisów o transporcie kolejowym, przepisów o szczególnych zasadach przygotowania i realizacji inwestycji zakresie dróg publicznych, szczególności nie jest wymagane:
-
-- **1)** pozwolenie na budowę ani zgłoszenie;
-- **2)** decyzja o ustaleniu lokalizacji inwestycji celu publicznego;
-- **3)** sporządzenie projektu budowlanego;
-- **4)** uzyskanie innych decyzji, zezwoleń, opinii i uzgodnień lub dokonanie zgłoszeń.
-
-2. Właściwe organy sprawach, o których mowa ust. 1, przedstawiają Komendantowi Głównemu Straży Granicznej, na jego wniosek, nie później niż terminie 7 dni od dnia otrzymania wniosku, stanowisko lub informacje albo udzielają wsparcia innym zakresie związku realizacją inwestycji, tym przez możliwą minimalizację zagrożeń dla środowiska.
-
-**Art. 7.** Informacje dotyczące konstrukcji, zabezpieczeń i parametrów technicznych bariery nie stanowią informacji publicznej i nie podlegają udostępnieniu trybie odrębnych przepisów.
-
-**Art. 8.**
-
-1. Jeżeli wynika to potrzeb związanych inwestycją, wojewoda właściwy ze względu na lokalizację inwestycji, na wniosek lub po zasięgnięciu opinii komendanta oddziału Straży Granicznej właściwego ze względu na lokalizację inwestycji, może wprowadzić zakaz przebywania na określonym obszarze nie szerszym niż 200 m od linii granicy państwowej.
-
-2. Zakaz nie dotyczy właścicieli lub posiadaczy nieruchomości zlokalizowanych na tym obszarze, jeżeli korzystają nich zgodnie ze społeczno-gospodarczym przeznaczeniem.
-
-3. W szczególnie uzasadnionych przypadkach komendant oddziału Straży Granicznej właściwy ze względu na lokalizację inwestycji może zezwolić na przebywanie na czas określony na obszarze, o którym mowa ust. 1.
-
-**Art. 9.**
-
-1. Do zamówień związanych inwestycją nie stosuje się ustawy dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. 2022 r. poz. 1710, 1812, 1933 i 2185 oraz 2023 r. poz. 412 i 825).
-
-1a. W przypadku realizacji inwestycji udziałem środków, o których mowa art. 5 ust. 1 pkt 2 i 3 ustawy dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. 2023 r. poz. 1270 i 1273), stosuje się procedury określone umowach międzynarodowych, deklaracjach dawcy lub innych procedurach obowiązujących przy ich wykorzystaniu, szczególności ustawę dnia 11 września 2019 r. Prawo zamówień publicznych.
-
-2. Centralne Biuro Antykorupcyjne sprawuje kontrolę zamówień związanych inwestycją.
-
-3. Komendant Główny Straży Granicznej niezwłocznie przekazuje Szefowi Centralnego Biura Antykorupcyjnego informacje o:
-
-- **1)** wszczynanych postępowaniach o udzielenie zamówienia;
-- **2)** udzielonych zamówieniach.
-
-4. Zakres informacji, o których mowa ust. 3, obejmuje szczególności przedmiot postępowania, termin składania ofert i kryteria ich oceny, zestawienie podmiotów ubiegających się o udzielenie zamówienia, planowany termin udzielenia zamówienia i zawarcia umowy, szacowaną wartość zamówienia oraz dane osobowe osób wykonujących po stronie Komendanta Głównego Straży Granicznej czynności postępowaniu o udzielenie zamówienia.
-
-5. Dane osobowe, o których mowa ust. 4, obejmują:
-
-- **1)** imię (imiona) i nazwisko;
-- **2)** numer PESEL, jeżeli został nadany;
-- **3)** stanowisko służbowe.
-
-6. Szef Centralnego Biura Antykorupcyjnego niezwłocznie informuje Komendanta Głównego Straży Granicznej o zagrożeniach dla prawidłowego przebiegu postępowania o udzielenie zamówienia lub prawidłowej jego realizacji, a Komendant Główny Straży Granicznej podejmuje działania zmierzające do zabezpieczenia interesu ekonomicznego państwa oraz przeciwdziałania korupcji i niezwłocznie informuje Szefa Centralnego Biura Antykorupcyjnego o podjętych działaniach zaradczych.
-
-**Art. 10.** Wojewoda, na wniosek Komendanta Głównego Straży Granicznej, ogranicza, drodze decyzji, sposób korzystania nieruchomości, jeżeli jest to konieczne do zapewnienia właściwej realizacji inwestycji, tym infrastruktury towarzyszącej. Przepisy art. 124–124c ustawy dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
-
-**Art. 11.**
-
-1. W przypadku konieczności wywłaszczenia nieruchomości stosuje się odpowiednio przepisy o wywłaszczaniu nieruchomości, tym że:
-
-- **1)** Komendant Główny Straży Granicznej może przystąpić do niezwłocznej realizacji inwestycji na danej nieruchomości, przypadkach określonych ustawie dnia 12 października 1990 r. o ochronie granicy państwowej, szczególności zakresie faktycznie wyłączonym użytkowania uprawnionego związku ustanowieniem pasa drogi granicznej lub istniejącymi urządzeniami służącymi do ochrony granicy;
-- **2)** przypadkach innych niż określone pkt 1 zajęcie nieruchomości jest możliwe po jej wywłaszczeniu;
-- **3)** nabycie praw do nieruchomości na rzecz Skarbu Państwa może nastąpić tylko do zajętej części nieruchomości, chyba że nie jest to uzasadnione przyczyn gospodarczych uwagi na powierzchnię pozostałej części nieruchomości;
-- **4)** nabycie, o którym mowa pkt 3, może nastąpić zamian za przeniesienie praw do odpowiedniej powierzchni nieruchomości bezpośrednio przylegającej do nieruchomości, o której mowa pkt 3, lub położonej tej samej miejscowości (nieruchomość odtworzeniowa);
-- **5)** do wydzielenia części nieruchomości, o której mowa pkt 3, oraz nieruchomości odtworzeniowej nie stosuje się ograniczeń wynikających przepisów odrębnych, a koszty tym związane obciążają Skarb Państwa, tym poprzez ich zwrot właściwemu staroście przez komendanta oddziału Straży Granicznej właściwego ze względu na lokalizację inwestycji;
-- **6)** właściwy organ, oferując nieruchomość odtworzeniową, pisemnie określa jej wartość odpowiadającą nabywanej nieruchomości, o której mowa pkt 3;
-- **7)** dodatkowe koszty związane odmową przyjęcia przez uprawnionego oferowanego wynagrodzenia za nabycie, o którym mowa pkt 3, lub odmową przyjęcia rozliczeniu nieruchomości odtworzeniowej obciążają uprawnionego, chyba że wykaże on, że nieruchomość odtworzeniowa, jej wartość lub wartość oferowanego wynagrodzenia były nieodpowiednie, a szczególności niższe niż wartość przejmowanej nieruchomości uprawnionego, uwzględnieniem dotychczasowych obciążeń nią związanych, jej części lub zmniejszenia wartości nieruchomości, która miała zostać pozostawiona uprawnionemu;
-- **8)** uprawnionemu do nieruchomości, o której mowa pkt 3, oraz do nieruchomości odtworzeniowej przysługuje wynagrodzenie za nabycie praw do nieruchomości lub jej części lub nieruchomość odtworzeniowa o wartości 50% wyższej niż uprawdopodobniona jako należna; przepis art. 54a ustawy dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio;
-- **9)** nabycie, o którym mowa pkt 3, może polegać także na ustanowieniu na rzecz Skarbu Państwa odpowiedniej służebności lub prawa użytkowania; przepisy pkt 4–8 stosuje się odpowiednio.
-
-2. Przepis ust. 1 stosuje się odpowiednio do umów najmu, dzierżawy i użyczenia, tym że uprawnionemu przysługuje prawo do odszkodowania od Skarbu Państwa uwzględnieniem okresu nie dłuższego niż okres wypowiedzenia lub do końca obowiązywania umowy. Podmiotem właściwym do wypłaty odszkodowania jest wojewoda właściwy ze względu na miejsce położenia nieruchomości.
-
-3. W przypadku konieczności wywłaszczenia nieruchomości stosuje się odpowiednio przepisy ustawy dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie dróg publicznych (Dz. U. 2023 r. poz. 162), tym że:
-
-- **1)** wojewoda właściwy ze względu na miejsce położenia nieruchomości, na wniosek Komendanta Głównego Straży Granicznej, zamiast decyzji o zezwoleniu na realizację inwestycji drogowej wydaje decyzję o realizacji inwestycji;
-- **2)** decyzja o realizacji inwestycji podlega natychmiastowemu wykonaniu;
-- **3)** nie stosuje się art. 11a ust. 2 i 4, art. 11b, art. 11f ust. 1 pkt 3, 7 i 8 i ust. 2a, art. 11ia, art. 17 ust. 1, art. 19 ust. 1, art. 20, art. 22 ust. 1, art. 32 i art. 32a ustawy dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie dróg publicznych;
-- **4)** wniosek o wydanie decyzji o realizacji inwestycji oraz decyzja mogą zawierać tylko elementy, o których mowa odpowiednio art. 11d ust. 1 i art. 11f ust. 1 ustawy dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie dróg publicznych, zakresie koniecznym dla jej realizacji, oraz mogą dotyczyć określonej części inwestycji.
-
-**Art. 12.** Tworzy się Zespół do spraw przygotowania i realizacji zabezpieczenia granicy państwowej.
-
-**Art. 13.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia .
 

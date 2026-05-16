@@ -8,9 +8,10 @@ pos: 1578
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 14 września 2020 r.
+# Ustawa z dnia 14 sierpnia 2020 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,67 +25,74 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001578) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1578/text.pdf) |
 
-USTAWA dnia 14 sierpnia 2020 r.
-zmianie ustawy działaczach opozycji antykomunistycznej oraz osobach represjonowanych powodów politycznych oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2020 r. poz. 319) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 20 marca 2015 r. działaczach opozycji antykomunistycznej oraz osobach represjonowanych powodów politycznych (Dz. U. 2020 r. poz. 319) wprowadza się następujące zmiany:
+**Art. 10a.**
 
-**Art. 10b.** W razie przyznania, ustania lub ponownego obliczenia wysokości świadczeń, których 10a 3, świadczenie wyrównawcze podlega ponownemu obliczeniu urzędu, taki sposób, aby łączna kwota świadczeń, których 10a 3, wraz ze świadczeniem wyrównawczym, nie przekroczyła miesięcznie kwoty, której 10a 1, zastrzeżeniem włączeń, których 10a 3, uwzględnieniem 10a 4.
+1. Prawo do świadczenia wyrównawczego przysługuje osobie pobierającej emeryturę lub rentę inwalidzką albo rentę z tytułu niezdolności do pracy, zwaną dalej „rentą”, w kwocie niższej niż 2400 zł miesięcznie.
 
-**Art. 10c.**
+2. Świadczenie wyrównawcze przysługuje w kwocie stanowiącej różnicę pomiędzy kwotą, o której mowa w ust. 1, a kwotą emerytury lub renty.
 
-1. Decyzje sprawie świadczenia wyrównawczego wydają świadczenia te wypłacają organy wypłacające emeryturę lub rentę, zwane dalej „organami właściwymi”.
+3. Przez kwotę emerytury lub renty rozumie się wysokość pobieranej emerytury lub renty brutto lub sumę tych świadczeń, wraz z kwotą wypłacaną przez zagraniczne instytucje właściwe do spraw emerytalno-rentowych, z wyłączeniem dodatku pielęgnacyjnego oraz innych dodatków i świadczeń wypłacanych wraz z tymi świadczeniami na podstawie odrębnych przepisów, przed dokonaniem odliczeń, potrąceń i zmniejszeń.
 
-2. Decyzje sprawie świadczenia wyrównawczego, sporządzone wykorzystaniem systemu teleinformatycznego, mogą zamiast podpisu zawierać nadruk imienia nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania. nionej.
+4. Kwota, o której mowa w ust. 1, ulega podwyższeniu w terminach i na zasadach określonych przepisami ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-2. Wniosek przyznanie świadczenia wyrównawczego zawiera imię lub imiona oraz nazwisko, datę urodzenia, numer PESEL albo innego dokumentu potwierdzającego tożsamość, dane teleadresowe: adres miejsca zamieszkania lub adres korespondencyjny, numer telefonu lub adres poczty elektronicznej, nazwę banku numer rachunku bankowego lub nazwę spółdzielczej kasy oszczędnościowo-kredytowej numer rachunku spółdzielczej kasie oszczędnościowo-kredytowej, który ma zostać wypłacone świadczenie wyrównawcze.
+5. Prezes Zakładu Ubezpieczeń Społecznych ogłasza w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, uwzględnianą od tego terminu przy obliczaniu wysokości świadczenia wyrównawczego kwotę, o której mowa w ust. 1. W razie przyznania, ustania lub ponownego obliczenia wysokości świadczeń, o których mowa w art. 10a ust. 3, świadczenie wyrównawcze podlega ponownemu obliczeniu z urzędu, w taki sposób, aby łączna kwota świadczeń, o których mowa w art. 10a ust. 3, wraz ze świadczeniem wyrównawczym, nie przekroczyła miesięcznie kwoty, o której mowa w art. 10a ust. 1, z zastrzeżeniem włączeń, o których mowa w art. 10a ust. 3, i z uwzględnieniem art. 10a ust. 4.
 
-3. Do wniosku, którym 2, dołącza się dokumenty potwierdzające nadanie statusu działacza opozycji antykomunistycznej lub osoby represjonowanej powodów politycznych, a przypadku osób uprawnionych do emerytury renty zagranicznej lub innego świadczenia zagranicznego podobnym charakterze także dokument potwierdzający prawo do tych świadczeń ich wysokość, wystawiony przez zagraniczną instytucję właściwą do spraw emerytalno-rentowych.
+1. Decyzje w sprawie świadczenia wyrównawczego wydają i świadczenia te wypłacają organy wypłacające emeryturę lub rentę, zwane dalej „organami właściwymi”.
 
-**Art. 10e.**
+2. Decyzje w sprawie świadczenia wyrównawczego, sporządzone z wykorzystaniem systemu teleinformatycznego, mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
 
-1. Wypłata świadczenia wyrównawczego następuje wraz wypłatą emerytury lub renty.
+3. Od decyzji o odmowie przyznania prawa do świadczenia wyrównawczego, o której mowa w ust. 1, wnioskodawcy przysługuje prawo odwołania do właściwego sądu w terminie i na zasadach określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r. poz. 1575).
 
-2. W razie zbiegu prawa do świadczeń, których 10a 3, wypłacanych przez różne organy właściwe, decyzje sprawie świadczenia wyrównawczego wydaje świadczenie to wypłaca Zakład Społecznych.
+1. Postępowanie w sprawie świadczenia wyrównawczego wszczynane jest na wniosek osoby uprawnionej.
 
-3. Na wniosek osoby uprawnionej do świadczenia wyrównawczego, zamieszkałej za granicą państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia Wolnym Handlu (EFTA) lub państwie, którym Rzeczpospolitą Polską łączy umowa międzynarodowa dziedzinie ubezpieczeń społecznych przewidująca transfer emerytur lub rent, świadczenie wyrównawcze wypłaca się emeryturą lub rentą, państwie zamieszkania, rachunek bankowy tej osoby za granicą lub innej formie wskazanej przez organ emerytalny lub rentowy, terminach trybie ustalonym przez ten organ. Wypłata dokonywana jest walucie wymienialnej.
+2. Wniosek o przyznanie świadczenia wyrównawczego zawiera imię lub imiona oraz nazwisko, datę urodzenia, numer PESEL albo innego dokumentu potwierdzającego tożsamość, dane teleadresowe: adres miejsca zamieszkania lub adres korespondencyjny, numer telefonu lub adres poczty elektronicznej, nazwę banku i numer rachunku bankowego lub nazwę spółdzielczej kasy oszczędnościowo-kredytowej i numer rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacone świadczenie wyrównawcze.
 
-4. Przepis 3 stosuje się również do osób uprawnionych do świadczenia wyrównawczego, zamieszkałych za granicą państwie, którym Rzeczypospolitej Polskiej nie łączy umowa międzynarodowa dziedzinie ubezpieczeń społecznych przewidująca transfer emerytur rent.
+3. Do wniosku, o którym mowa w ust. 2, dołącza się dokumenty potwierdzające nadanie statusu działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, a w przypadku osób uprawnionych do emerytury i renty zagranicznej lub innego świadczenia zagranicznego o podobnym charakterze – także dokument potwierdzający prawo do tych świadczeń i ich wysokość, wystawiony przez zagraniczną instytucję właściwą do spraw emerytalno-rentowych.
 
-**Art. 10f.** Do świadczenia wyrównawczego stosuje się odpowiednio 84 85 ustawy dnia 13 października 1998 r. systemie ubezpieczeń społecznych (Dz. U. 2020 r. poz. 266, 321, 568, 695, 875 1291).
+1. Wypłata świadczenia wyrównawczego następuje wraz z wypłatą emerytury lub renty.
 
-**Art. 10g.**
+2. W razie zbiegu prawa do świadczeń, o których mowa w art. 10a ust. 3, wypłacanych przez różne organy właściwe, decyzje w sprawie świadczenia wyrównawczego wydaje i świadczenie to wypłaca Zakład Ubezpieczeń Społecznych.
 
-1. W sprawach nieuregulowanych ustawie dotyczących świadczenia wyrównawczego stosuje się odpowiednio przepisy ustawy dnia 17 grudnia 1998 r. emeryturach rentach Funduszu Społecznych, wyłączeniem 136 tej ustawy.
+3. Na wniosek osoby uprawnionej do świadczenia wyrównawczego, zamieszkałej za granicą w państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub w państwie, z którym Rzeczpospolitą Polską łączy umowa międzynarodowa w dziedzinie ubezpieczeń społecznych przewidująca transfer emerytur lub rent, świadczenie wyrównawcze wypłaca się z emeryturą lub rentą, w państwie zamieszkania, na rachunek bankowy tej osoby za granicą lub w innej formie wskazanej przez organ emerytalny lub rentowy, w terminach i trybie ustalonym przez ten organ. Wypłata dokonywana jest w walucie wymienialnej.
 
-2. Potrąceń egzekucji dokonuje się od łącznej kwoty emerytury lub renty świadczenia wyrównawczego, zasadach określonych przepisach emerytalnych, wyjątkiem 141 4 ustawy dnia 17 grudnia 1998 r. emeryturach rentach Funduszu Społecznych.
+4. Przepis ust. 3 stosuje się również do osób uprawnionych do świadczenia wyrównawczego, zamieszkałych za granicą w państwie, z którym Rzeczypospolitej Polskiej nie łączy umowa międzynarodowa w dziedzinie ubezpieczeń społecznych przewidująca transfer emerytur i rent. Do świadczenia wyrównawczego stosuje się odpowiednio art. 84 i art. 85 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2020 r. poz. 266, 321, 568, 695, 875 i 1291).
 
-3. Kwoty nienależnie pobranych świadczeń wyrównawczych traktuje się jak kwoty, których 139 1 pkt 2b ustawy, której 1.
+1. W sprawach nieuregulowanych w ustawie dotyczących świadczenia wyrównawczego stosuje się odpowiednio przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyłączeniem art. 136 tej ustawy.
 
-**Art. 10h.**
+2. Potrąceń i egzekucji dokonuje się od łącznej kwoty emerytury lub renty i świadczenia wyrównawczego, na zasadach określonych w przepisach emerytalnych, z wyjątkiem art. 141 ust. 4 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-1. Organy właściwe są uprawnione do pozyskiwania przetwarzania danych osobowych zakresie niezbędnym do przyznawania, ustania prawa do świadczenia wyrównawczego wypłacania tego świadczenia.
+3. Kwoty nienależnie pobranych świadczeń wyrównawczych traktuje się jak kwoty, o których mowa w art. 139 ust. 1 pkt 2b ustawy, o której mowa w ust. 1.
 
-2. Na wniosek organu rentowego, którym 10e 2, organy właściwe wypłacające emerytury renty, których 10a 1, są obowiązane przekazać, terminie 7 dni od dnia otrzymania wniosku, dane niezbędne do ustalenia lub ustania prawa do świadczenia wyrównawczego. Organ ten zawiadamia przyznaniu świadczenia wyrównawczego organy właściwe.
+1. Organy właściwe są uprawnione do pozyskiwania i przetwarzania danych osobowych w zakresie niezbędnym do przyznawania, ustania prawa do świadczenia wyrównawczego i wypłacania tego świadczenia.
+
+2. Na wniosek organu rentowego, o którym mowa w art. 10e ust. 2, organy właściwe wypłacające emerytury i renty, o których mowa w art. 10a ust. 1, są obowiązane przekazać, w terminie 7 dni od dnia otrzymania wniosku, dane niezbędne do ustalenia lub ustania prawa do świadczenia wyrównawczego. Organ ten zawiadamia o przyznaniu świadczenia wyrównawczego organy właściwe.
 
 3. Zabezpieczenia przetwarzania danych osobowych przez organy właściwe polegają co najmniej na:
 
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności.
-- **1)** kolejowego 1 2 klasie pociągów osobowych pospiesznych oraz autobusowego komunikacji zwykłej przyspieszonej podstawie biletów jednorazowych;
-- **2)** kolejowego 2 klasie pociągów innych niż osobowe pospieszne podstawie biletów jednorazowych.
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności. Świadczenie wyrównawcze wraz z odsetkami za opóźnienie finansowane jest ze środków budżetu państwa. ” ;
+- **3)** po art. 13 dodaje się art. 13a i art. 13b w brzmieniu: „
 
-3. Osoba uprawniona do ulgowego przejazdu, którym 2 pkt 2, korzystająca przejazdu klasie 1, obowiązana jest do uiszczenia dopłaty wysokości stanowiącej różnicę między należnością za pełnopłatny przejazd klasie 1 a należnością za pełnopłatny przejazd klasie 2.
+**Art. 13a.**
 
-**Art. 13b.** Szef Urzędu do Spraw Kombatantów Osób Represjonowanych może zlecić organizacjom pozarządowym podstawie przepisów ustawy dnia 24 kwietnia 2003 r. działalności pożytku publicznego wolontariacie (Dz. U. 2020 r. poz. 1057) wykonywanie zadań opiekuńczych rzecz osób uprawnionych.”.
+1. Osobom uprawnionym przysługuje ulga taryfowa w wysokości 50% przy przejazdach środkami komunikacji miejskiej.
 
-**Art. 2.** W ustawie dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 2020 r. poz. 1575) 831 § 1 po pkt 6 dodaje się pkt 6a brzmieniu: „6a) jednorazowa lub okresowa pomoc pieniężna przyznawana przez Szefa Urzędu do Spraw Kombatantów Osób Represjonowanych;”.
+2. Osobom uprawnionym przysługuje ulga w wysokości 51% na przejazdy w komunikacji krajowej środkami publicznego transportu zbiorowego:
 
-**Art. 3.** W ustawie dnia 17 grudnia 1998 r. emeryturach rentach Funduszu Społecznych (Dz. U. 2020 r. poz. 53, 252, 568 1222) 132 2 otrzymuje brzmienie: „2. Do wypłaty świadczeń osobom uprawnionym do świadczeń przewidzianych przepisami zaopatrzeniu inwalidów wojennych wojskowych oraz ich rodzin, przepisami kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego, przepisami świadczeniu pieniężnym uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym kopalniach węgla, kamieniołomach, zakładach rud uranu batalionach budowlanych, przepisami świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym obozach pracy przez III Rzeszę Związek Socjalistycznych Republik Radzieckich oraz przepisami działaczach opozycji antykomunistycznej oraz osobach represjonowanych powodów politycznych, zamieszkałym za granicą, stosuje się zasady określone tych przepisach.”.
+- **1)** kolejowego w 1 i 2 klasie pociągów osobowych i pospiesznych oraz autobusowego w komunikacji zwykłej i przyspieszonej – na podstawie biletów jednorazowych;
+- **2)** kolejowego w 2 klasie pociągów innych niż osobowe i pospieszne – na podstawie biletów jednorazowych.
 
-**Art. 4.** W ustawie dnia 27 sierpnia 2004 r. świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2020 r. poz. 1398, 1492 1493) wprowadza się następujące zmiany:
+3. Osoba uprawniona do ulgowego przejazdu, o którym mowa w ust. 2 pkt 2, korzystająca z przejazdu w klasie 1, obowiązana jest do uiszczenia dopłaty w wysokości stanowiącej różnicę między należnością za pełnopłatny przejazd w klasie 1 a należnością za pełnopłatny przejazd w klasie 2. Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może zlecić organizacjom pozarządowym na podstawie przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2020 r. poz. 1057) wykonywanie zadań opiekuńczych na rzecz osób uprawnionych. ” .
 
-**Art. 5.** Do zamówień usługi lub dostawy udzielane przez organ właściwy związku realizacją zadań związanych ustalaniem prawa lub wypłatą świadczenia wyrównawczego nie stosuje się przepisów zamówieniach publicznych.
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r. poz. 1575) w art. 831 w § 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „
 
-**Art. 6.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53, 252, 568 i 1222) w art. 132 ust. 2 otrzymuje brzmienie: „ 2. Do wypłaty świadczeń osobom uprawnionym do świadczeń przewidzianych przepisami o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, przepisami o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, przepisami o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, przepisami o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich oraz przepisami o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych, zamieszkałym za granicą, stosuje się zasady określone w tych przepisach. ” .
+
+**Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, 1492 i 1493) wprowadza się następujące zmiany:
+
+**Art. 5.** Do zamówień na usługi lub dostawy udzielane przez organ właściwy w związku z realizacją zadań związanych z ustalaniem prawa lub wypłatą świadczenia wyrównawczego nie stosuje się przepisów o zamówieniach publicznych.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

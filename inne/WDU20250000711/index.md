@@ -8,9 +8,12 @@ pos: 711
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 czerwca 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o efektywności energetycznej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 maja 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000711) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/711/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 maja 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o efektywności energetycznej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2024 r. poz. 1047), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 18 grudnia 2024 r. o zmianie niektórych ustaw celu dostosowania do nomenklatury scalonej (Dz. U. poz. 1946) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 maja 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 6 ustawy z dnia 18 grudnia 2024 r. o zmianie niektórych ustaw celu dostosowania do nomenklatury scalonej (Dz. U. poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 2025 r.”.
 Marszałek Sejmu: S. Hołownia
@@ -58,7 +59,7 @@ Art. 43–48. (pominięte)
 2. Środkami poprawy efektywności energetycznej są:
 
 - **1)** realizacja i finansowanie przedsięwzięcia służącego poprawie efektywności energetycznej;
-- **2)** nabycie urządzenia, instalacji lub pojazdu, charakteryzujących się niskim zużyciem energii oraz niskimi kosztami eksploatacji; ich modernizacja;
+- **2)** nabycie urządzenia, instalacji lub pojazdu, charakteryzujących się niskim zużyciem energii oraz niskimi kosztami eksploatacji;
 - **4)** realizacja przedsięwzięcia termomodernizacyjnego rozumieniu ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2024 r. poz. 1446, 1473, 1572, 1635 i 1940);
 - **5)** wdrażanie systemu zarządzania środowiskowego, o którym mowa art. 2 pkt 13 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1221/2009 z dnia 25 listopada 2009 r. sprawie dobrowolnego udziału organizacji systemie ekozarządzania i audytu we Wspólnocie (EMAS), uchylającego rozporządzenie (WE) nr 761/2001 oraz decyzje Komisji 2001/681/WE i 2006/193/WE (Dz. Urz. UE L 342 z 22.12.2009, str. 1, z późn. zm.), potwierdzone uzyskaniem wpisu do rejestru EMAS, o którym mowa art. 5 ust. 1 ustawy z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. z 2022 r. poz. 2013);
 - **6)** realizacja przedsięwzięć niskoemisyjnych, o których mowa ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków.
@@ -309,7 +310,7 @@ Art. 43–48. (pominięte)
 3. Do rozliczenia wykonania obowiązku, o którym mowa art. 10 ust. 1 pkt 1, nie zalicza się:
 
 - **1)** przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej, dla których zostały wydane świadectwa efektywności energetycznej, o których mowa art. 20 ust. 1, lub
-- **2)** przedsięwzięć, które zostały zrealizowane ramach programu dofinansowań. URE audyt efektywności energetycznej, o którym mowa art. 23, oraz oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że zrealizowane zostało przedsięwzięcie lub przedsięwzięcia tego samego rodzaju służące poprawie efektywności energetycznej i uzyskana została oszczędność energii finalnej, wyrażona tonach oleju ekwiwalentnego, potwierdzona audycie efektywności energetycznej rozumieniu ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2025 r. poz. 711).”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+- **2)** przedsięwzięć, które zostały zrealizowane ramach programu dofinansowań. „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że zrealizowane zostało przedsięwzięcie lub przedsięwzięcia tego samego rodzaju służące poprawie efektywności energetycznej i uzyskana została oszczędność energii finalnej, wyrażona tonach oleju ekwiwalentnego, potwierdzona audycie efektywności energetycznej rozumieniu ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2025 r. poz. 711).”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 5. Podmiot zobowiązany przypadku, o którym mowa art. 11 ust. 2 i 3, rozliczając wykonanie obowiązku, o którym mowa art. 10 ust. 1, przedkłada Prezesowi URE oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że składałem zlecenia kupna praw majątkowych wynikających ze świadectw efektywności energetycznej transakcjach sesyjnych, lecz z powodu niewystarczającej liczby ofert sprzedaży tych praw/oferowanej ceny tych praw wyższej niż wysokość jednostkowej opłaty zastępczej, o której mowa art. 12 ust. 2 albo 3, nie nabyłem tych praw roku kalendarzowym, którego dotyczy obowiązek, o którym mowa art. 10 ust. 1 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2025 r. poz. 711).”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -509,7 +510,7 @@ Art. 43–48. (pominięte)
 1. Podmiot, o którym mowa art. 23 ust. 1, który zawiadamiając Prezesa URE o zakończeniu realizacji przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej, udzielił nieprawdziwych lub wprowadzających błąd informacji o zakończeniu ich realizacji lub o uzyskanych oszczędnościach energii finalnej, a także przypadku negatywnej weryfikacji oszczędności energii finalnej:
 
 - **1)** nie może występować z wnioskiem o wydanie świadectwa efektywności energetycznej, o którym mowa art. 20 ust. 3, przez okres 5 lat od uprawomocnienia się decyzji, o której mowa ust. 2;
-- **2)** jest obowiązany przedstawić do umorzenia, terminie wskazanym decyzji, o której mowa ust. 2, świadectwo efektywności energetycznej na wartość nienależnie uzyskanej oszczędności energii finalnej wyrażonej tonach oleju ekwiwalentnego wynikającej z wydanego świadectwa efektywności energetycznej, stanowiącej różnicę między ilością energii finalnej wynikającą ze świadectwa efektywności energetycznej wydanego temu podmiotowi a ilością energii faktycznie zaoszczędzonej, wyrażoną tonach oleju ekwiwalentnego. rzenia świadectwa efektywności energetycznej na wartość nienależnie uzyskanej oszczędności, o której mowa ust. 1 pkt 2.
+- **2)** jest obowiązany przedstawić do umorzenia, terminie wskazanym decyzji, o której mowa ust. 2, świadectwo efektywności energetycznej na wartość nienależnie uzyskanej oszczędności energii finalnej wyrażonej tonach oleju ekwiwalentnego wynikającej z wydanego świadectwa efektywności energetycznej, stanowiącej różnicę między ilością energii finalnej wynikającą ze świadectwa efektywności energetycznej wydanego temu podmiotowi a ilością energii faktycznie zaoszczędzonej, wyrażoną tonach oleju ekwiwalentnego.
 
 3. Do wykonywania obowiązku umorzenia świadectwa efektywności energetycznej, o którym mowa ust. 1 pkt 2, stosuje się odpowiednio przepisy art. 30 i art. 31.
 
@@ -584,7 +585,7 @@ Art. 43–48. (pominięte)
     - **a)** przedsięwzięć służących poprawie efektywności energetycznej zrealizowanych za pomocą środków alternatywnych, o których mowa art. 18 ust. 3, oraz ilości uzyskanej wyniku ich realizacji oszczędności energii finalnej, tym: ‒ rodzaju przedsięwzięcia służącego poprawie efektywności energetycznej, − kwoty dofinansowania przedsięwzięcia, ‒ formy dofinansowania przedsięwzięcia, ‒ okresu uzyskiwania oszczędności energii, ‒ ilości uzyskanych średniorocznych oszczędności energii finalnej, wyrażonej tonach oleju ekwiwalentnego na rok, ‒ sposobu potwierdzenia oszczędności, o których mowa tiret piątym, ‒ daty rozpoczęcia i zakończenia realizacji przedsięwzięcia,
     - **b)** łącznej ilości oszczędności energii finalnej uzyskanej do 2030 r.;
 
-- **3)** dane instytucji, o których mowa art. 18 ust. 5, tym:
+- **2)** wykaz osób upoważnionych, o których mowa art. 35b ust. 4, zwany dalej „wykazem”;
     - **a)** nazwę instytucji oraz adres jej siedziby,
     - **b)** adres poczty elektronicznej.
 
@@ -625,9 +626,9 @@ Art. 43–48. (pominięte)
 6. Wykaz zawiera:
 
 - **1)** imię i nazwisko oraz stanowisko osoby upoważnionej;
-- **2)** adres do korespondencji, tym adres poczty elektronicznej osoby upoważnionej. zawiera dane, o których mowa ust. 6.
+- **2)** adres do korespondencji, tym adres poczty elektronicznej osoby upoważnionej.
 
-8. Dyrektor IOŚ-PIB przyznaje osobie upoważnionej dostęp do systemu teleinformatycznego obsługującego rejestr. Osobie upoważnionej przez podmiot uprawniony, o którym mowa ust. 3 pkt 2, zapewnia się dostęp do informacji zgromadzonych tym rejestrze oraz informacji archiwalnych wprowadzonych do rejestru. Osobom upoważnionym przez podmioty uprawnione, o których mowa ust. 3 pkt 3–11, zapewnia się dostęp do informacji zgromadzonych tym rejestrze oraz informacji archiwalnych wprowadzonych do rejestru przez osoby upoważnione przez te podmioty.
+7. Wniosek o wpis danych osób upoważnionych do wykazu oraz wniosek o zmianę danych zawartych wykazie zawiera dane, o których mowa ust. 6. Osobie upoważnionej przez podmiot uprawniony, o którym mowa ust. 3 pkt 2, zapewnia się dostęp do informacji zgromadzonych tym rejestrze oraz informacji archiwalnych wprowadzonych do rejestru. Osobom upoważnionym przez podmioty uprawnione, o których mowa ust. 3 pkt 3–11, zapewnia się dostęp do informacji zgromadzonych tym rejestrze oraz informacji archiwalnych wprowadzonych do rejestru przez osoby upoważnione przez te podmioty.
 
 9. Zmiana danych, o których mowa ust. 6, następuje na wniosek podmiotów, o których mowa ust. 5, składany za pomocą systemu teleinformatycznego obsługującego rejestr, terminie 14 dni od dnia zaistnienia zmiany.
 
@@ -663,8 +664,8 @@ Art. 43–48. (pominięte)
 
 2. Audyt energetyczny przedsiębiorstwa:
 
-- **1)** należy przeprowadzać na podstawie aktualnych, reprezentatywnych, mierzonych i możliwych do zidentyfikowania danych dotyczących zużycia energii oraz, przypadku energii elektrycznej, zapotrzebowania na moc; oraz transporcie, odpowiadających łącznie za co najmniej 90 % całkowitego zużycia energii przez to przedsiębiorstwo;
-- **3)** powinien opierać się, o ile to możliwe, na analizie kosztowej cyklu życia budynku lub zespołu budynków oraz instalacji przemysłowych, a nie na okresie zwrotu nakładów, tak aby uwzględnić oszczędności energii dłuższym okresie, wartości rezydualne inwestycji długoterminowych oraz stopy dyskonta.
+- **1)** należy przeprowadzać na podstawie aktualnych, reprezentatywnych, mierzonych i możliwych do zidentyfikowania danych dotyczących zużycia energii oraz, przypadku energii elektrycznej, zapotrzebowania na moc;
+- **2)** zawiera szczegółowy przegląd zużycia energii budynkach lub zespołach budynków, instalacjach przemysłowych oraz transporcie, odpowiadających łącznie za co najmniej 90 % całkowitego zużycia energii przez to przedsiębiorstwo; tości rezydualne inwestycji długoterminowych oraz stopy dyskonta.
 
 3. Przedsiębiorca przechowuje, do celów kontrolnych, dane dotyczące audytu energetycznego przedsiębiorstwa, przez 5 lat.
 
@@ -706,9 +707,8 @@ Art. 43–48. (pominięte)
 1. Wysokość kary pieniężnej wymierzonej przypadkach, o których mowa art. 39 ust. 1:
 
 - **1)** pkt 1–5, nie może być wyższa niż 10 % przychodu ukaranego przedsiębiorstwa energetycznego lub odbiorcy końcowego, lub towarowego domu maklerskiego, lub domu maklerskiego, o których mowa art. 10 ust. 2, osiągniętego poprzednim roku podatkowym;
-- **3)** pkt 7, nie może być wyższa niż 5 % przychodu ukaranego przedsiębiorcy, osiągniętego poprzednim roku podatkowym.
-
-2. Ustalając wysokość kar pieniężnych, o których mowa art. 39 ust. 1, Prezes URE uwzględnia zakres naruszeń, powtarzalność naruszeń oraz możliwości finansowe ukaranego podmiotu.
+- **2)** pkt 6, nie może być wyższa niż 3 000 000 zł;
+- **3)** pkt 7, nie może być wyższa niż 5 % przychodu ukaranego przedsiębiorcy, osiągniętego poprzednim roku podatkowym. powtarzalność naruszeń oraz możliwości finansowe ukaranego podmiotu.
 
 **Art. 41.** Prezes URE może odstąpić od wymierzenia kary pieniężnej, o której mowa art. 39 ust. 1, jeżeli zakres naruszeń jest znikomy, a podmiot zaprzestał naruszania prawa lub zrealizował obowiązek, zanim Prezes URE powziął o tym wiadomość.
 
@@ -746,9 +746,11 @@ Art. 43–48. (pominięte)
 
 1. Opłaty zastępcze, o których mowa art. 12 ust. 1 pkt 2 ustawy uchylanej art. 59, uiszczane na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej po dniu wejścia życie ustawy stanowią przychód tego Funduszu i są uwzględniane przy ustalaniu wysokości zobowiązania określonego art. 401c ust. 5 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
-2. Kary pieniężne wymierzane na podstawie art. 35 ustawy uchylanej art. 59 płatne po dniu wejścia życie ustawy uiszcza się na rachunek bankowy właściwego urzędu skarbowego. Wpływy z tych kar stanowią dochód budżetu państwa. art. 59 uwzględnia się realizacji obowiązku określonego art. 10 ust. 1.
+2. Kary pieniężne wymierzane na podstawie art. 35 ustawy uchylanej art. 59 płatne po dniu wejścia życie ustawy uiszcza się na rachunek bankowy właściwego urzędu skarbowego. Wpływy z tych kar stanowią dochód budżetu państwa.
 
-2. Przy rozliczeniu wykonania obowiązku określonego art. 10 ust. 1 przyjmuje się, że wartość świadectw efektywności energetycznej, o których mowa ust. 1, wyrażona tonach oleju ekwiwalentnego, odpowiada wartości świadectw efektywności energetycznej, o których mowa art. 20.
+**Art. 55.**
+
+1. Do dnia 30 czerwca 2021 r. świadectwa efektywności energetycznej wydane na podstawie ustawy uchylanej art. 59 uwzględnia się realizacji obowiązku określonego art. 10 ust. 1. ności energetycznej, o których mowa ust. 1, wyrażona tonach oleju ekwiwalentnego, odpowiada wartości świadectw efektywności energetycznej, o których mowa art. 20.
 
 **Art. 56.** Do postępowań wszczętych i niezakończonych przed dniem wejścia życie ustawy dotyczących świadectw efektywności energetycznej oraz przetargów stosuje się przepisy dotychczasowe.
 

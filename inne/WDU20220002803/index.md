@@ -1,0 +1,253 @@
+---
+title: Rozporządzenie Ministra Infrastruktury z dnia 22 grudnia 2022 r. zmieniające rozporządzenie w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia
+address: WDU20220002803
+eli: DU/2022/2803
+publisher: DU
+year: 2022
+pos: 2803
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Infrastrukturyz dnia 22 grudnia 2022 r. zmieniające rozporządzenie w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2803 |
+| ISAP | WDU20220002803 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-12-22 |
+| Data wydania | 2022-12-28 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2803/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 66 ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Infrastruktury z dnia 31 grudnia 2002 r. w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia (Dz. U. z 2016 r. poz. 2022, z późn. zm.) wprowadza się następujące zmiany:
+1)
+w § 1 w ust. 3:
+a)
+w pkt 5a skreśla się wyrazy „przepisów o drogach publicznych oraz”,
+b)
+po pkt 13 dodaje się pkt 13a-13c w brzmieniu:
+„
+13a)
+pojeździe bezemisyjnym – rozumie się przez to bezemisyjny pojazd ciężki, zarejestrowany na podstawie dokumentów, o których mowa w art. 72 ust. 1 pkt 3 ustawy;
+13b)
+bezemisyjnym pojeździe ciężkim – rozumie się przez to pojazd ciężki niemający silnika spalinowego wewnętrznego spalania lub mający silnik spalinowy wewnętrznego spalania, z którego emisje zanieczyszczeń określone zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 595/2009 z dnia 18 czerwca 2009 r. dotyczącym homologacji typu pojazdów silnikowych i silników w odniesieniu do emisji zanieczyszczeń pochodzących z pojazdów ciężarowych o dużej ładowności (Euro VI) i zmieniającym rozporządzenie (WE) nr 715/2007 i dyrektywę 2007/46/WE oraz uchylającym dyrektywy 80/1269/EWG, 2005/55/WE i 2005/78/WE (Dz. Urz. UE L 188 z 18.07.2009, str. 1, z późn. zm.) i ze środkami wykonawczymi do tego rozporządzenia nie przekraczają 1 g CO2/kWh lub z którego emisje określone zgodnie z rozporządzeniem (WE) nr 715/2007 Parlamentu Europejskiego i Rady z dnia 20 czerwca 2007 r. w sprawie homologacji typu pojazdów silnikowych w odniesieniu do emisji zanieczyszczeń pochodzących z lekkich pojazdów pasażerskich i użytkowych (Euro 5 i Euro 6) (Dz. Urz. UE L 171 z 29.06.2007, str. 1, z późn. zm.) i ze środkami wykonawczymi do tego rozporządzenia nie przekraczają 1 g CO2/km;
+13c)
+pojeździe ciężkim – rozumie się przez to:
+a)
+pojazd samochodowy o dwóch osiach, inny niż autobus,
+b)
+pojazd samochodowy o trzech osiach,
+c)
+autobus przegubowy o trzech osiach,
+d)
+zespół pojazdów, o którym mowa w § 3 ust. 1 pkt 2, 4 i 6;
+” ;
+2)
+w § 2:
+a)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Pojazdy kategorii N2 i N3wyposażone w wyprofilowane kabiny zarejestrowane na podstawie dokumentów, o których mowa w art. 72 ust. 1 pkt 3 ustawy, oraz zespoły tych pojazdów mogą przekraczać maksymalne długości określone w ust. 1 pkt 1, 4 i 5, pod warunkiem że długość powierzchni ładunkowej pojazdu samochodowego nie przekracza 10,5 m, a kabina kierowcy jest dodatkowo oznakowana poniżej lub obok obowiązkowych napisów na tabliczce znamionowej producenta, na zewnątrz wyraźnie oznaczonego prostokąta, napisem o treści: „96/53/EC ARTICLE 9A COMPLIANT”. Adnotację o takiej treści umieszcza się także w świadectwie zgodności oraz w dowodzie rejestracyjnym.
+” ,
+b)
+ust. 5 otrzymuje brzmienie:
+„
+5.
+Wykaz urządzeń i wyposażenia, które nie muszą być uwzględniane przy określaniu wymiarów zewnętrznych pojazdów, jest określony w sekcji F części 2 załącznika XIII do rozporządzenia wykonawczego Komisji (UE) nr 2021/535 z dnia 31 marca 2021 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2144 w odniesieniu do jednolitych procedur i specyfikacji technicznych w zakresie homologacji typu pojazdów oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, w odniesieniu do ich ogólnych cech konstrukcyjnych i bezpieczeństwa (Dz. Urz. UE L 117 z 06.04.2021, str. 1).
+” ,
+c)
+dodaje się ust. 20 w brzmieniu:
+„
+20.
+Stosowanie urządzeń aerodynamicznych montowanych z tyłu pojazdu lub zespołu pojazdów powinno być zgodne ze szczegółowymi wymaganiami określonymi w rozporządzeniu wykonawczym Komisji (UE) 2019/1916 z dnia 15 listopada 2019 r. ustanawiającym szczegółowe przepisy w odniesieniu do stosowania urządzeń aerodynamicznych montowanych z tyłu pojazdu zgodnie z dyrektywą Rady 96/53/WE (Dz. Urz. UE L 297 z 18.11.2019, str. 3, z późn. zm.). Takie urządzenie musi mieć znak homologacji typu UE uzupełniony napisem o treści: „96/53/EC ARTICLE 8B COMPLIANT”, potwierdzający spełnienie wymagań homologacyjnych określonych w rozporządzeniu, o którym mowa w zdaniu pierwszym.
+” ;
+3)
+w § 3:
+a)
+w ust. 1:
+– pkt 8 otrzymuje brzmienie: „ 8) pojazdu samochodowego o dwóch osiach, innego niż autobus – 18 ton; dopuszczalna masa całkowita pojazdu zasilanego paliwem alternatywnym może zostać powiększona maksymalnie o 1 tonę, a dopuszczalna masa całkowita pojazdu bezemisyjnego może zostać powiększona maksymalnie o 2 tony; ” ,
+– pkt 10 otrzymuje brzmienie: „ 10) pojazdu samochodowego o trzech osiach – 25 ton; dopuszcza się 26 ton, jeżeli oś napędowa jest wyposażona w koła bliźniacze lub koła pojedyncze z zamontowanymi szerokimi oponami (typu „Super Single”) i zawieszenie pneumatyczne lub równoważne, o którym mowa w § 5b, albo jeżeli każda z osi napędowych jest wyposażona w koła bliźniacze, a największy nacisk każdej z tych osi nie przekracza 9,5 tony; dopuszczalna masa całkowita pojazdu zasilanego paliwem alternatywnym może zostać powiększona maksymalnie o 1 tonę, a dopuszczalna masa całkowita pojazdu bezemisyjnego może zostać powiększona maksymalnie o 2 tony; ” ,
+– pkt 12 otrzymuje brzmienie: „ 12) autobusu przegubowego o trzech osiach – 28 ton; dopuszczalna masa całkowita pojazdu zasilanego paliwem alternatywnym może zostać powiększona maksymalnie o 1 tonę, a dopuszczalna masa całkowita pojazdu bezemisyjnego może zostać powiększona maksymalnie o 2 tony; ” ,
+– w pkt 15 wyrazy „każda z osi napędowych jest wyposażona” zastępuje się wyrazami „co najmniej dwie osie napędowe są wyposażone”,
+b)
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+„
+1a.
+Dopuszczalna masa całkowita zespołu pojazdów, o którym mowa w ust. 1 pkt 2, 4 i 6, w którym pojazd silnikowy jest zasilany paliwem alternatywnym, może zostać powiększona maksymalnie o 1 tonę, a w przypadku pojazdu silnikowego bezemisyjnego – maksymalnie o 2 tony.
+1b.
+Do pojazdów lub zespołów pojazdów zasilanych paliwem alternatywnym oraz bezemisyjnych, o których mowa w § 1 ust. 3 pkt 13a oraz pkt 14, ma zastosowanie dodatkowe oznakowanie o treści: „96/53/EC ARTICLE 10B COMPLIANT – XXXX KG”, umieszczone na tabliczce znamionowej producenta. Adnotację o takiej treści umieszcza się także w świadectwie zgodności oraz w dowodzie rejestracyjnym.
+” ;
+4)
+w § 5 w ust. 1 w pkt 8a lit. b otrzymuje brzmienie:
+„
+b)
+większej niż 1,30 m i nie większej niż 1,80 m (1,30 < d ≤ 1,80) – 27 ton;
+” ;
+5)
+§ 5a i § 5b otrzymują brzmienie:
+„
+§ 5a.
+Wymagania w zakresie zwrotności pojazdów i zespołów pojazdów są określone w pkt 7 sekcji C, pkt 6 sekcji D, pkt 3 sekcji E oraz w sekcji H części 2 załącznika XIII do rozporządzenia wykonawczego Komisji (UE) nr 2021/535 z dnia 31 marca 2021 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2144 w odniesieniu do jednolitych procedur i specyfikacji technicznych w zakresie homologacji typu pojazdów oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, w odniesieniu do ich ogólnych cech konstrukcyjnych i bezpieczeństwa.
+§ 5b.
+Warunki równoważności zawieszeń osi napędowej lub osi napędowych pojazdu z zawieszeniem pneumatycznym są określone w sekcji L części 2 załącznika XIII do rozporządzenia wykonawczego Komisji (UE) nr 2021/535 z dnia 31 marca 2021 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2144 w odniesieniu do jednolitych procedur i specyfikacji technicznych w zakresie homologacji typu pojazdów oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, w odniesieniu do ich ogólnych cech konstrukcyjnych i bezpieczeństwa.”
+6)
+po § 5b dodaje się § 5c w brzmieniu:
+„
+§ 5c.
+Wymagania w zakresie tylnego wychylenia pojazdów są określone w pkt 8 sekcji C, pkt 7 sekcji D oraz na rysunku 2 w sekcji H części 2 załącznika XIII do rozporządzenia wykonawczego Komisji (UE) nr 2021/535 z dnia 31 marca 2021 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2144 w odniesieniu do jednolitych procedur i specyfikacji technicznych w zakresie homologacji typu pojazdów oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, w odniesieniu do ich ogólnych cech konstrukcyjnych i bezpieczeństwa.”
+7)
+w § 7:
+a)
+po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
+„
+3a.
+Pojazd powinien być wyposażony w tylny zderzak lub urządzenie ochronne, zabezpieczające przed wjechaniem pod niego innego pojazdu, odpowiadające warunkom określonym w ust. 1 oraz spełniające następujące warunki:
+1)
+odległość dolnej krawędzi tylnego zderzaka lub urządzenia ochronnego od powierzchni jezdni nie może przekraczać 550 mm przy zachowanej masie własnej pojazdu;
+2)
+odległość tylnego zderzaka lub urządzenia ochronnego od tylnego obrysu pojazdu nie może przekraczać 400 mm, z zastrzeżeniem pkt 3;
+3)
+odległość tylnego zderzaka lub urządzenia ochronnego od tylnego obrysu pojazdu nie może przekraczać 450 mm dla pojazdów kategorii M1, M2, M3, N1, O1iO2;
+4)
+szerokość tylnego zderzaka lub urządzenia ochronnego nie może przekraczać w żadnym miejscu największej szerokości tylnej osi, mierzonej na skrajnych zewnętrznych punktach kół (wyłączając odkształcenia opon występujące w pobliżu ich styku z jezdnią), i nie może być od niej mniejsza o więcej niż 100 mm z każdej strony, z zastrzeżeniem pkt 5 i 6;
+5)
+w pojazdach kategorii O1iO2, w których opony wystają na ponad połowę swojej szerokości poza nadwozie (z pominięciem osłon kół) lub poza podwozie w przypadku braku nadwozia, szerokość tylnego zderzaka lub urządzenia ochronnego nie może być mniejsza o więcej niż 100 mm z każdej strony od odległości zmierzonej między najbardziej wysuniętymi do wewnątrz punktami opon (wyłączając odkształcenia opon występujące w pobliżu ich styku z jezdnią);
+6)
+w przypadku gdy urządzenie ochronne jest zawarte w nadwoziu pojazdu lub stanowi część nadwozia pojazdu, które samo wykracza poza szerokość tylnej osi, nie stosuje się pkt 4;
+7)
+końce tylnego zderzaka nie powinny być wygięte w kierunku do tyłu oraz nie powinny mieć zewnętrznych ostrych krawędzi;
+8)
+tylny zderzak lub urządzenie ochronne powinny być wytrzymałe i dobrze zamocowane; wysokość przekroju poprzecznego nie może być mniejsza niż 100 mm, z zastrzeżeniem pkt 9;
+9)
+w zakresie wysokości przekroju poprzecznego pkt 8 nie ma zastosowania do pojazdów kategorii M1, M2, M3, N1, O1 i O2.
+3b.
+Warunki, o których mowa w ust. 3a, stosuje się do pojazdu zarejestrowanego po raz pierwszy po dniu 1 stycznia 2023 r.
+” ,
+b)
+w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zderzaka lub urządzenia ochronnego, o których mowa w ust. 3a oraz ust. 4, nie wymaga się na: ” ;
+8)
+§ 9a-9d otrzymują brzmienie:
+„
+§ 9a.
+W samochodzie osobowym o rodzaju nadwozia AB, AC, AF i w samochodzie specjalnym o rodzaju nadwozia BB o maksymalnej masie całkowitej nieprzekraczającej 7,5 tony mogą być wprowadzone zmiany polegające na zwiększeniu liczby siedzeń lub dostosowaniu do wymagań jak dla samochodów ciężarowych, jeżeli pojazd spełnia wymagania, o których mowa w pkt 3.5, pkt 3.6 oraz pkt 3.8 części A załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającego rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającego dyrektywę 2007/46/WE (Dz. Urz. UE L 151 z 14.06.2018, str. 1, z późn. zm.), powodujące zmianę rodzaju pojazdu na samochód ciężarowy o podrodzaju van, o którym mowa w przepisach o rejestracji pojazdów. W przypadku zwiększenia liczby siedzeń powinny być spełnione wymagania techniczne dotyczące wytrzymałości siedzeń i ich mocowania oraz kotwiczenia pasów bezpieczeństwa, potwierdzone badaniami na zgodność z wymaganiami Regulaminów nr 14 i 17 EKG ONZ wykonanymi przez jednostkę uprawnioną albo Dyrektora Transportowego Dozoru Technicznego. Siedzenia powinny być wyposażone w pasy bezpieczeństwa spełniające wymagania Regulaminu nr 16 EKG ONZ.
+§ 9b.
+W samochodzie ciężarowym o maksymalnej masie całkowitej nieprzekraczającej 3,5 tony (kategorii N1) i w samochodzie ciężarowym o maksymalnej masie całkowitej nieprzekraczającej 7,5 tony (kategorii N2) o nadwoziu rodzaju BA oraz BB mogą być wprowadzone zmiany konstrukcyjne polegające na zwiększeniu liczby siedzeń, jeżeli pojazd spełnia wymagania, o których mowa w pkt 3.5, pkt 3.6 oraz pkt 3.8 części A załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającego rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającego dyrektywę 2007/46/WE, i są spełnione wymagania techniczne dotyczące wytrzymałości siedzeń i ich mocowania oraz kotwiczenia pasów bezpieczeństwa, potwierdzone badaniami na zgodność z wymaganiami Regulaminów nr 14 i 17 EKG ONZ, wykonanymi przez jednostkę uprawnioną albo Dyrektora Transportowego Dozoru Technicznego. Siedzenia powinny być wyposażone w pasy bezpieczeństwa spełniające wymagania Regulaminu nr 16 EKG ONZ, z zastrzeżeniem § 9c.
+§ 9c.
+W samochodzie ciężarowym (kategorii N1) o rodzaju nadwozia BB mogą być wprowadzone zmiany konstrukcyjne polegające na zmniejszeniu liczby miejsc (bez zmiany położenia pozostawionych siedzeń), jeżeli pojazd spełnia wymagania, o których mowa w pkt 3.5, pkt 3.6 oraz pkt 3.8 części A załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającego rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającego dyrektywę 2007/46/WE.
+§ 9d.
+W samochodzie ciężarowym o maksymalnej masie całkowitej nieprzekraczającej 3,5 tony (kategorii N1) i w samochodzie ciężarowym o maksymalnej masie całkowitej nieprzekraczającej 7,5 tony (kategorii N2) o nadwoziu rodzaju BB mogą być wprowadzone zmiany konstrukcyjne polegające na zwiększeniu liczby siedzeń, powodujące zmianę rodzaju pojazdu na autobus, o którym mowa w przepisach o rejestracji pojazdów, jeżeli są spełnione wymagania techniczne określone w załączniku nr 7a do rozporządzenia i wymagania dotyczące wytrzymałości siedzeń i ich mocowania oraz kotwiczenia pasów bezpieczeństwa, potwierdzone badaniami na zgodność z wymaganiami Regulaminów nr 14, 17 lub 80 EKG ONZ, wykonanymi przez jednostkę uprawnioną albo Dyrektora Transportowego Dozoru Technicznego. Siedzenia powinny być wyposażone w pasy bezpieczeństwa spełniające wymagania Regulaminu nr 16 EKG ONZ.
+” ;
+9)
+§ 9f otrzymuje brzmienie:
+„
+§ 9f.
+W samochodzie ciężarowym o maksymalnej masie całkowitej nieprzekraczającej 3,5 tony (kategorii N1) o nadwoziu rodzaju BA oraz BB mogą być wprowadzone zmiany konstrukcyjne polegające na zwiększeniu liczby siedzeń lub zmianie położenia siedzeń, powodujące zmianę rodzaju pojazdu na samochód osobowy lub specjalny, o którym mowa w przepisach o rejestracji pojazdów, jeżeli są spełnione wymagania techniczne dotyczące wytrzymałości siedzeń i ich mocowania oraz kotwiczenia pasów bezpieczeństwa, potwierdzone badaniami na zgodność z wymaganiami Regulaminów nr 14 i 17 EKG ONZ, wykonanymi przez jednostkę uprawnioną albo Dyrektora Transportowego Dozoru Technicznego. Siedzenia powinny być wyposażone w pasy bezpieczeństwa spełniające wymagania Regulaminu nr 16 EKG ONZ. W przypadku zmiany rodzaju pojazdu na samochód osobowy:
+1)
+zaczepy ISOFIX oraz liczba siedzeń wyposażonych w takie zaczepy powinny być zgodne z wymaganiami Regulaminu nr 14 lub 145 EKG ONZ;
+2)
+pojazd nie powinien spełniać wymagań, o których mowa w pkt 3.6 części A załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającego rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającego dyrektywę 2007/46/WE.
+” ;
+10)
+§ 9h i § 9i otrzymują brzmienie:
+„
+§ 9h.
+W samochodzie osobowym (kategorii M1) o rodzaju nadwozia AF, AC lub w samochodzie ciężarowym (kategorii N1i N2) mogą być wprowadzone zmiany konstrukcyjne polegające na przystosowaniu pojazdu do przewozu osób niepełnosprawnych na wózkach inwalidzkich, jeżeli pojazd spełnia wymagania, o których mowa w pkt 1–3 dodatku 3 części III załącznika II do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającego rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającego dyrektywę 2007/46/WE, potwierdzone badaniami wykonanymi przez jednostkę uprawnioną albo Dyrektora Transportowego Dozoru Technicznego. Dodatkowo samochód ciężarowy (kategorii N1 lub N2) powinien spełniać wymagania, o których mowa w pkt 3.5, pkt 3.6 oraz pkt 3.8 części A załącznika I do tego rozporządzenia.
+§ 9i.
+W odniesieniu do pojazdów, w których wykonano mocowania siedzeń i pasów bezpieczeństwa w procesie produkcyjnym pojazdu podstawowego, badanie wykonane przez jednostkę uprawnioną albo Dyrektora Transportowego Dozoru Technicznego, o którym mowa w § 9a, § 9b, § 9d, § 9f, § 9g i § 9j, może być zastąpione oświadczeniem producenta pojazdu podstawowego lub jego upoważnionego przedstawiciela potwierdzającym konstrukcyjne do tego przeznaczenie.
+” ;
+11)
+po § 9i dodaje się § 9j w brzmieniu:
+„
+§ 9j.
+W samochodzie osobowym i specjalnym o dopuszczalnej masie całkowitej nieprzekraczającej 7,5 tony mogą być wprowadzone zmiany konstrukcyjne polegające na zwiększeniu liczby siedzeń lub zmianie położenia siedzeń, jeżeli są spełnione wymagania techniczne dotyczące wytrzymałości siedzeń i ich mocowania oraz kotwiczenia pasów bezpieczeństwa, potwierdzone badaniami na zgodność z wymaganiami Regulaminów nr 14 i 17 EKG ONZ, wykonanymi przez jednostkę uprawnioną albo Dyrektora Transportowego Dozoru Technicznego. Siedzenia powinny być wyposażone w pasy bezpieczeństwa spełniające wymagania Regulaminu nr 16 EKG ONZ. W samochodzie osobowym zaczepy ISOFIX oraz liczba siedzeń wyposażonych w takie zaczepy powinny być zgodne z wymaganiami Regulaminu nr 14 lub 145 EKG ONZ.
+” ;
+12)
+w § 11 ust. 5a otrzymuje brzmienie:
+„
+5a.
+W odniesieniu do opon oznakowanych jako śniegowe, zgodnie z Regulaminem nr 117 EKG ONZ, dopuszcza się niespełnianie warunku dostosowania do maksymalnej prędkości pojazdu, pod warunkiem że są one dostosowane co najmniej do prędkości równej 160 km/h, a w pojeździe umieszczono ostrzeżenie o maksymalnej prędkości tych opon tak, aby było ono widoczne oraz czytelne dla kierowcy.
+” ;
+13)
+użyte w § 12 w ust. 1 w pkt 16 oraz w ust. 3 w pkt 8 wyrazy „pozycyjne boczne” zastępuje się wyrazami „obrysowe boczne”;
+14)
+w § 13 ust. 2 otrzymuje brzmienie:
+„
+2.
+Połączenia elektryczne powinny zapewniać, aby:
+1)
+światła pozycyjne przednie i tylne, światła obrysowe (jeśli pojazd jest w nie wyposażony), światła obrysowe boczne (jeśli pojazd jest w nie wyposażony) i światła oświetlające tylną tablicę rejestracyjną mogły być włączane i wyłączane tylko jednocześnie; warunek ten nie obowiązuje, gdy światła pozycyjne oraz obrysowe boczne pełnią funkcję świateł postojowych lub gdy światła obrysowe boczne migają (świecą światłem przerywanym) razem z kierunkowskazami po tej samej stronie pojazdu, lub gdy funkcja świateł pozycyjnych przednich jest realizowana zastępczo przez włączone światła mijania, drogowe lub przeciwmgłowe przednie;
+2)
+światła drogowe, światła mijania i światła przeciwmgłowe przednie nie mogły być włączone, jeżeli nie są włączone równocześnie światła wymienione w pkt 1, z tym że przepisu nie stosuje się do świateł drogowych lub mijania, kiedy są używane do wysyłania krótkich, przerywanych sygnałów ostrzegawczych; światła drogowe, światła mijania lub światła przeciwmgłowe przednie mogą zastępczo realizować funkcję świateł pozycyjnych przednich, pod warunkiem że ich instalacja elektryczna zapewnia automatyczne ponowne włączenie świateł pozycyjnych w razie awarii któregokolwiek z wyżej wymienionych świateł oświetleniowych.
+” ;
+15)
+w § 14:
+a)
+w ust. 1 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ hamulec awaryjny działający na co najmniej dwa koła pojazdu, przeznaczony do zatrzymania pojazdu w razie awarii hamulca roboczego, z możliwością: ” ,
+b)
+ust. 7 otrzymuje brzmienie:
+„
+7.
+W przyczepie o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony dopuszcza się hamulec roboczy typu bezwładnościowego (najazdowy) działający na koła wszystkich osi. W przyczepie rejestrowanej po raz pierwszy na terytorium Rzeczypospolitej Polskiej do dnia 1 stycznia 2023 r. dopuszcza się hamulec roboczy typu bezwładnościowego (najazdowy) działający co najmniej na koła jednej osi; takie rozwiązanie dopuszcza się również w przyczepie o dopuszczalnej masie całkowitej nieprzekraczającej 5 ton, zarejestrowanej po raz pierwszy przed dniem 1 stycznia 1968 r.
+” ;
+16)
+w § 18:
+a)
+w ust. 1:
+– w pkt 15: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ przestrzeń przeznaczoną dla pasażera niepełnosprawnego na wózku inwalidzkim, oznakowaną zgodnie z przepisami w sprawie rejestracji i oznaczania pojazdów oraz wymagań dla tablic rejestracyjnych, która: ” , – – część wspólna otrzymuje brzmienie: „ – w której mogą być umieszczone siedzenia składane, o ile zachowane będą powyższe warunki, gdy siedzenia są złożone; przepis dotyczy autobusu klasy I, II i A zarejestrowanego po raz pierwszy po dniu 30 czerwca 2017 r.; ” , – dodaje się pkt 16 i 17 w brzmieniu: „ 16) przestrzeń przeznaczoną dla rozłożonego wózka dziecięcego, oznakowaną zgodnie z przepisami w sprawie rejestracji i oznaczania pojazdów oraz wymagań dla tablic rejestracyjnych, umożliwiającą przewóz co najmniej jednego rozłożonego wózka dziecięcego; w przypadku autobusu miejskiego innego niż przegubowy przestrzeń ta może być połączona z przestrzenią, o której mowa w pkt 15, pod warunkiem że przestrzeń ta jest dodatkowo oznakowana napisem o treści: „Pierwszeństwo dla pasażera na wózku inwalidzkim” umieszczonym bezpośrednio w sąsiedztwie tej przestrzeni; przepis dotyczy autobusu miejskiego zarejestrowanego po raz pierwszy po dniu 31 grudnia 2022 r.; 17) siedzenie specjalne dla pasażera o zmniejszonej zdolności poruszania się innego niż użytkownik wózka inwalidzkiego, oznakowane zgodnie z przepisami w sprawie rejestracji i oznaczania pojazdów oraz wymagań dla tablic rejestracyjnych, o wymiarach określonych w załączniku nr 8 do Regulaminu nr 107 EKG ONZ; przepis stosuje się do autobusu miejskiego zarejestrowanego po raz pierwszy po dniu 31 grudnia 2022 r. ” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Oznakowanie zawierające informacje o przestrzeniach oraz siedzeniu specjalnym, o których mowa w ust. 1 pkt 15–17, powinno być umieszczone również wewnątrz i na zewnątrz pojazdu w pobliżu drzwi prowadzących bezpośrednio do tych przestrzeni lub siedzenia specjalnego.
+” ;
+17)
+w § 22 w ust. 1 w pkt 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „ istniała przestrzeń przeznaczona dla pasażera niepełnosprawnego na wózku inwalidzkim, oznakowana zgodnie z przepisami w sprawie rejestracji i oznaczania pojazdów oraz wymagań dla tablic rejestracyjnych, która: ” ;
+18)
+w § 53 w ust. 4 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 i 10 w brzmieniu:
+„
+9)
+prędkościomierz umieszczony w polu widzenia kierowcy, wyskalowany w km/h albo jednocześnie w km/h i mph; przepis stosuje się do pojazdów zarejestrowanych po raz pierwszy z dniem 1 stycznia 2016 r.;
+10)
+licznik przebiegu pojazdu (drogomierz); przepis stosuje się do pojazdów zarejestrowanych po raz pierwszy z dniem 1 stycznia 2016 r.
+” ;
+19)
+w § 56 dodaje się ust. 5 w brzmieniu:
+„
+5.
+Światła pozycyjne pojazdu, o którym mowa w § 53 ust. 1, § 55a oraz § 55b, nie powinny oślepiać innych uczestników ruchu.
+” ;
+20)
+tytuł działu VI otrzymuje brzmienie: „ Przepisy przejściowe, przepis epizodyczny i przepisy końcowe ” ;
+21)
+po § 57 dodaje się § 57a w brzmieniu:
+„
+§ 57a.
+Do dnia 31 grudnia 2023 r. dopuszczalna masa całkowita pojazdu członowego mającego pięć lub sześć osi, składającego się z:
+1)
+ciągnika siodłowego o dwóch osiach i naczepy o trzech osiach – nie może przekraczać 42 ton,
+2)
+ciągnika siodłowego o trzech osiach i naczepy o dwóch lub trzech osiach – nie może przekraczać 44 ton
+w przypadku transportu produktów rolnych z Ukrainy od granicy Rzeczypospolitej Polskiej z Ukrainą do morskich portów przeładunkowych Morza Bałtyckiego oraz centrów przeładunkowych po drogach krajowych oraz innych drogach publicznych prowadzących bezpośrednio do tych portów lub centrów przeładunkowych.
+” ;
+22)
+w załączniku nr 6 do rozporządzenia:
+a)
+w tabeli w lp. 19 w kolumnie 2 wyrazy „Pozycyjne boczne” zastępuje się wyrazami „Obrysowe boczne”,
+b)
+w objaśnieniach do tabeli:
+– w odnośniku nr 11 wyrazy „boczne światła pozycyjne” zastępuje się wyrazami „światła obrysowe boczne”,
+– w odnośniku nr 26 w zdaniu drugim po wyrazach „W motocyklach” dodaje się wyrazy „i ciągnikach rolniczych”.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem § 1 pkt 21, który wchodzi w życie z dniem następującym po dniu ogłoszenia, oraz § 1 pkt 12, który wchodzi w życie z dniem 1 lipca 2023 r.
+1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Niniejsze rozporządzenie służy stosowaniu art. 20 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1242 z dnia 20 czerwca 2019 r. określającego normy emisji CO2 dla nowych pojazdów ciężkich oraz zmieniającego rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 595/2009 i (UE) 2018/956 oraz dyrektywę Rady 96/53/WE (Dz. Urz. UE L 198 z 25.07.2019, str. 202). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 7 listopada 2022 r. pod numerem 2022/770/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642. 5) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2017 r. poz. 2338, z 2018 r. poz. 855, z 2019 r. poz. 2560, z 2020 r. poz. 1886, z 2021 r. poz. 1877 oraz z 2022 r. poz. 122. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 200 z 31.07.2009, str. 52, Dz. Urz. UE L 167 z 25.06.2011, str. 1, Dz. Urz. UE L 47 z 18.02.2014, str. 1, Dz. Urz. UE L 151 z 14.06.2018, str. 1 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 202. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 199 z 28.07.2008, str. 1, Dz. Urz. UE L 188 z 18.07.2009, str. 1, Dz. Urz. UE L 158 z 16.06.2011, str. 1, Dz. Urz. UE L 142 z 01.06.2012, str. 16 oraz Dz. Urz. UE L 151 z 14.06.2018, str. 1. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 63 z 03.03.2020, str. 1. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 325 z 16.12.2019, str. 1, Dz. Urz. UE L 19 z 21.01.2021, str. 2, Dz. Urz. UE L 313 z 06.09.2021, str. 4 oraz Dz. Urz. UE L 398 z 11.11.2021, str. 29.
+

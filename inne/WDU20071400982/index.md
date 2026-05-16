@@ -8,9 +8,10 @@ pos: 982
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 981
+# Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy o ochronie granicy państwowej oraz ustawy o zmianie ustawy o Straży Granicznej oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +25,34 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071400982) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/982/text.pdf) |
 
-USTAWA dnia 29 czerwca 2007 r.
-o zmianie ustawy o Policji
+**Art. 1.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2005 r. Nr 226, poz. 1944 oraz z 2007 r. Nr 107, poz. 732) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 6 kwietnia 1990 r. oPolicji §1—3, art. 253, art. 258, art. 269, art. 280—282, (Dz. U. 2007 r. 43, poz. 277, 57, poz. 390 art. 285 § 1, art. 286 § 1, art. 296 § 1—3, Nr120, poz. 818) art.19 ust. 1 pkt 2 otrzymuje art.296a §1, 2 4, art. 296b § 1 2, art. 299 brzmienie: § 1—6 oraz art. 310 § 1, 2 4 Kodeksu karneŃ2) określonych art. 134, art. 135 § 1, art. 136 § 1, go,”. art. 156 § 1 i3, art. 163 § 1 i3, art. 164 § 1, art. 165 § 1 3, art. 166, art. 167, art. 173 § 1 3, art. 189, Art. 2. Ustawa wchodzi życie po upływie dni art. 200, art. 204 § 4, art. 223, art. 228 § 1 3—5, od dnia ogłoszenia. art. 229 § 1 3—5, art. 230 § 1, art. 230a § 1, art.231 § 2, art. 232, art. 245, art. 246, art. 252 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA dnia 29 czerwca 2007 r. o zmianie ustawy o ochronie granicy państwowej oraz ustawy o zmianie ustawy o Straży Granicznej oraz niektórych innych ustaw
+**Art. 14.**
 
-**Art. 1.** W ustawie dnia 12 paêdziernika 1990 r. o ochronie granicy państwowej (Dz. U. 2005 r. Nr226, poz. 1944 oraz z2007 r. 107, poz. 732) wprowadza się następujące zmiany:
+1. Przekraczanie granicy państwowej jest dozwolone na podstawie dokumentów uprawniających do jej przekroczenia.
 
-**Art. 2.** Wustawie zdnia 22 kwietnia 2005 r. ozmia- uwzględniając wykorzystanie obieknie ustawy oStraży Granicznej oraz niektórych innych tów wyposażenia przejść graniczustaw (Dz. U. 90, poz. 757) wprowadza się następu- nych zniesionych związku decyjące zmiany: zją Rady dotyczącą pełnego stosowania dorobku Schengen Rzeczy1) art. 2 pkt 7 otrzymuje brzmienie: pospolitej Polskiej.”.”; Ń7) po art. 17 dodaje się art. 17ai17bwbrzmieniu: 2) art. 26 pkt 3 otrzymuje brzmienie: ŃArt. 17a. Minister właściwy do spraw wewnętrznych, drodze rozporządze- Ń3) art. 2 pkt 7, który wchodzi życie dniem nia, przywraca tymczasowo, prze- określonym decyzji Rady dotyczącej pełnedłuża lub znosi kontrolę graniczną go stosowania dorobku Schengen Rzeczyosób przekraczających granicę pań- pospolitej Polskiej.”. stwową stanowiącą granicę we- Art. 3. Dotychczasowe przepisy wykonawcze wywnętrzną rozumieniu przepisów dane na podstawie art. ust. 4 ustawy zdnia 12 paêkodeksu granicznego Schengen, dziernika 1990 r. o ochronie granicy państwowej zauwzględniając warunki procedury chowują moc do czasu wydania przepisów wykonawprzywracania przedłużania kontroli czych na podstawie art. 16 ust. 3a ustawy dnia granicznej osób określone tych 12paêdziernika 1990 r. o ochronie granicy państwoprzepisach. wej, brzmieniu nadanym niniejszą ustawą, nie dłuArt. 17b. Rada Ministrów określi, drodze żej niż przez okres 12 miesięcy. rozporządzenia, rodzaje obiektów wyposażenie, których utrzymanie jest niezbędne do sprawnego przywrócenia kontroli granicznej osób, októrej mowa wart. 17a, oraz organy zobowiązane do ich utrzymania,
+2. Dokumenty, o których mowa w ust. 1, określają odrębne przepisy, w tym umowy międzynarodowe, których Rzeczpospolita Polska jest stroną, lub przepisy prawa Unii Europejskiej. ” ;
 
-**Art. 4.** Ustawa wchodzi życie po upływie dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 983 USTAWA dnia 29 czerwca 2007 r. o zmianie ustawy o Instytucie Pamięci Narodowej Komisji Âcigania Zbrodni przeciwko Narodowi Polskiemu
+- **2)** po art. 14 dodaje się art. 14a w brzmieniu: „ Przekraczanie granicy państwowej stanowiącej granicę wewnętrzną w rozumieniu przepisów rozporządzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. ustanawiającego wspólnotowy kodeks zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 105 z 13.04.2006, str. 1), zwanego dalej „kodeksem granicznym Schengen”, dozwolone jest przez przeznaczone oraz otwarte dla ruchu granicznego przejścia graniczne, z uwzględnieniem postanowień umów międzynarodowych wiążących Rzeczpospolitą Polską. ” ;
+- **3)** w art. 15: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 1.** Wustawie zdnia 18 grudnia 1998 r. oInsty- dnia 26 stycznia 1984 r. Prawo tucie Pamięci Narodowej Komisji Âcigania Zbrodni prasowe (Dz. U. 5, poz. 24, przeciwko Narodowi Polskiemu (Dz. U. z2007 r. 63, póên. zm. poz. 424, 64, poz. 432, 83, poz. 561 85, poz.571) wprowadza się następujące zmiany:
+1. Osoby przekraczające granicę państwową obowiązane są poddać się kontroli granicznej, w zakresie określonym kodeksem granicznym Schengen oraz innymi przepisami odrębnymi, wykonywanej przez uprawnionych funkcjonariuszy Straży Granicznej. ” , uchyla się ust. 2;
+
+- **b)**
+- **4)** w art. 16 po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+3a. Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Obrony Narodowej oraz ministrami właściwymi do spraw gospodarki morskiej i transportu określi, w drodze rozporządzenia, sposób ustalania zasięgu terytorialnego przejść granicznych oraz podmioty właściwe w tych sprawach, a także szczegółowe obowiązki podmiotów uczestniczących w prowadzeniu komunikacji międzynarodowej wobec organów działających w przejściach granicznych, uwzględniając możliwość ograniczenia tych obowiązków w sytuacjach szczególnych. ” ;
+
+- **5)** po art. 19 dodaje się art. 19a w brzmieniu: „
+
+**Art. 19a.** Przepis art. 14a traci moc z dniem określonym w decyzji Rady dotyczącej pełnego stosowania dorobku Schengen w Rzeczypospolitej Polskiej. ” .
+
+**Art. 2.** W ustawie z dnia 22 kwietnia 2005 r. o zmianie ustawy o Straży Granicznej oraz niektórych innych ustaw (Dz. U. Nr 90, poz. 757) wprowadza się następujące zmiany:
+
+**Art. 17a.** Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, przywraca tymczasowo, przedłuża lub znosi kontrolę graniczną osób przekraczających granicę państwową stanowiącą granicę wewnętrzną w rozumieniu przepisów kodeksu granicznego Schengen, uwzględniając warunki i procedury przywracania i przedłużania kontroli granicznej osób określone w tych przepisach. Rada Ministrów określi, w drodze rozporządzenia, rodzaje obiektów i wyposażenie, których utrzymanie jest niezbędne do sprawnego przywrócenia kontroli granicznej osób, o której mowa w art. 17a, oraz organy zobowiązane do ich utrzymania, uwzględniając wykorzystanie obiektów i wyposażenia przejść granicznych zniesionych w związku z decyzją Rady dotyczącą pełnego stosowania dorobku Schengen w Rzeczypospolitej Polskiej.”. ” ; ” ;
+
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 ust. 4 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej zachowują moc do czasu wydania przepisów wykonawczych na podstawie art. 16 ust. 3a ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej, w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

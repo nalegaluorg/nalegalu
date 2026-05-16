@@ -8,9 +8,10 @@ pos: 836
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 20 lipca 2012 r.
+# Ustawa z dnia 28 czerwca 2012 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +25,193 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000836) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/836/text.pdf) |
 
-USTAWA dnia 28 czerwca 2012 r.
-zmianie ustawy obrocie instrumentami finansowymi oraz ustawy ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz spółkach publicznych
+**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 29 lipca 2005 r. obrocie instrumentami finansowymi (Dz. U. 2010 r. Nr 211, poz. 1384, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 45b.**
 
-**Art. 45h¹.** Sposób rozliczenia transakcji może polegać wstąpieniu przez podmiot rozliczający prawa i obowiązki strony transakcji względem:
+1. Rozliczeniem transakcji mających za przedmiot instrumenty finansowe jest ustalenie wysokości świadczeń pieniężnych i niepieniężnych wynikających z zawartych transakcji, w ramach przyjętego sposobu rozliczenia, do których są zobowiązani lub uprawnieni:
 
-**Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+- **1)** uczestnicy będący stronami tych transakcji;
+- **2)** Krajowy Depozyt albo spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2, lub izba rozliczeniowa (podmiot rozliczający) w przypadku, o którym mowa w art. 45h ust. 1;
+- **3)** uczestnicy, którzy na zasadach określonych w regulaminie podmiotu rozliczającego: zobowiązali się wobec tego podmiotu do wykonywania obowiązków wynikających z rozliczania transakcji zawartych przez inne podmioty oraz w przypadku, gdy rozliczenie transakcji następuje w sposób, o którym mowa w art. 45h – uzyskali zgodę podmiotu zawierającego transakcje na wykonywanie obowiązków, o których mowa w lit. a (uczestnicy będący stronami rozliczenia).
+    - **a)**
+    - **b)**
+
+2. Rozrachunkiem transakcji mających za przedmiot instrumenty finansowe jest obciążenie lub uznanie konta depozytowego, rachunku zbiorczego lub rachunku papierów wartościowych prowadzonego przez Krajowy Depozyt, spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1, lub przez izbę rozrachunkową (podmiot przeprowadzający rozrachunek), odpowiednio w związku z transakcją zbycia lub nabycia instrumentów finansowych, a także odpowiednio do ustalonych w trakcie rozliczenia kwot świadczeń, uznanie lub obciążenie rachunku bankowego lub rachunku pieniężnego wskazanego przez uczestnika będącego stroną transakcji albo stroną rozliczenia. ” ;
+
+- **2)** art. 45d otrzymuje brzmienie: „ Jeżeli sposób rozliczenia transakcji polega na tym, że podmiot, o którym mowa w art. 45b ust. 1, zobowiązany jest do spełnienia świadczenia w wysokości stanowiącej nadwyżkę ponad wartość należnego mu świadczenia pieniężnego lub niepieniężnego, obowiązek spełnienia przez ten podmiot świadczenia w tej wysokości powstaje z chwilą zawarcia transakcji, a w przypadku, o którym mowa w art. 45h ust. 1 – z momentem przyjęcia transakcji do rozliczenia. Nie wyłącza to możliwości ustalenia innej wysokości świadczenia w przypadkach określonych w art. 45f. ” ;
+- **3)** art. 45e otrzymuje brzmienie: „
+
+1. Wszczęcie postępowania upadłościowego, naprawczego, egzekucyjnego lub otwarcie likwidacji, a także podjęcie innych środków prawnych względem uczestnika lub innego podmiotu zawierającego transakcje:
+
+- **1)** na rynku regulowanym,
+- **2)** w alternatywnym systemie obrotu,
+- **3)** poza obrotem zorganizowanym – polegające na sprzedaży instrumentów finansowych ze zobowiązaniem do ich odkupu, a także inne transakcje, jeżeli na podstawie przepisów prawa podlegają one obowiązkowi rozliczenia przez podmiot rozliczający powodujących zawieszenie lub zaprzestanie dokonywania przez niego spłaty zadłużeń albo ograniczających jego zdolność w zakresie swobodnego rozporządzania swoim mieniem, w tym zawieszenie działalności banku w trybie określonym przepisami ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nie wywołuje skutków prawnych w stosunku do środków znajdujących się na koncie depozytowym, rachunku zbiorczym, rachunku papierów wartościowych, rachunku pieniężnym lub rachunku bankowym tego uczestnika lub podmiotu, służącym do realizacji rozliczeń transakcji w zakresie, w jakim środki te są przeznaczone do przeprowadzenia rozrachunku transakcji w podmiocie przeprowadzającym rozrachunek, chociażby postępowanie zostało wszczęte, likwidacja otwarta lub inny środek prawny został podjęty przed przeprowadzeniem jej rozrachunku.
+
+2. Środki prawne, o których mowa w ust. 1, nie wywołują skutków prawnych wobec podmiotu uprawnionego z zabezpieczenia w stosunku do przedmiotu zabezpieczenia ustanowionego przez uczestnika lub przez inny podmiot zawierający transakcje:
+
+- **1)** na rynku regulowanym,
+- **2)** w alternatywnym systemie obrotu,
+- **3)** poza obrotem zorganizowanym – polegające na sprzedaży instrumentów finansowych ze zobowiązaniem do ich odkupu, a także inne transakcje, jeżeli na podstawie przepisów prawa podlegają one obowiązkowi rozliczenia przez podmiot rozliczający na rzecz innego uczestnika lub na rzecz podmiotu rozliczającego, na zasadach określonych w regulaminie podmiotu rozliczającego.
+
+3. Podmiot przeprowadzający rozrachunek transakcji jest uprawniony do wykorzystania:
+
+- **1)** środków, o których mowa w ust. 1, należących do podmiotu zawierającego transakcję, o którym mowa w art. 45g ust. 1, oraz
+- **2)** ustanowionego przez ten podmiot zabezpieczenia, o którym mowa w ust. 2 w celu dokonania rozrachunku zawartej przez ten podmiot transakcji, także w przypadku, gdy jej rozliczenie następuje w sposób, o którym mowa w art. 45h.
+
+4. Przepis ust. 1 stosuje się także w przypadku, gdy system rejestracji papierów wartościowych jest prowadzony przez Narodowy Bank Polski. ” ;
+
+- **4)** w art. 45f ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku braku środków na koncie depozytowym, rachunku bankowym wskazanym przez stronę rozliczenia, rachunku zbiorczym, rachunku papierów wartościowych lub rachunku pieniężnym uczestnika będącego stroną transakcji albo stroną rozliczenia, potrzebnych do przeprowadzenia rozrachunku transakcji, podmiot przeprowadzający rozrachunek określa transakcje, których rozrachunek ulega zawieszeniu. ” ;
+
+- **5)** po art. 45f dodaje się art. 45g i art. 45h w brzmieniu: „
+
+1. Podmiot zawierający transakcje podlegające rozliczeniu, niebędący uczestnikiem zobowiązanym do wykonywania obowiązków wynikających z rozliczania tych transakcji, może wykonywać prawa lub obowiązki wynikające z tych transakcji wyłącznie za pośrednictwem uczestnika będącego stroną rozliczenia, na zasadach określonych w ustawie oraz w regulaminie podmiotu rozliczającego.
+
+2. W przypadku gdy rozliczanie transakcji następuje w sposób, o którym mowa w art. 45h, przed rozpoczęciem wykonywania przez uczestnika będącego stroną rozliczenia obowiązków wynikających z rozliczeń transakcji, o których mowa w ust. 1, jest on obowiązany do:
+
+- **1)** uzyskania od podmiotu zawierającego transakcje pisemnego oświadczenia, w którym wyraża on zgodę na wykonywanie przez tego uczestnika obowiązków wynikających z rozliczeń zawieranych przez niego transakcji;
+- **2)** przekazania oświadczenia, o którym mowa w pkt 1, podmiotowi rozliczającemu.
+
+3. W przypadku, o którym mowa w ust. 1 i 2:
+
+- **1)** podmiot rozliczający staje się uprawniony do żądania spełnienia świadczeń wynikających z transakcji zawartych przez podmiot, o którym mowa w ust. 1, wobec uczestnika będącego stroną rozliczenia;
+- **2)** uczestnik będący stroną rozliczenia nie może powoływać się wobec podmiotu rozliczającego na zarzuty związane ze stosunkiem prawnym łączącym go z podmiotem zawierającym transakcje.
+
+4. Cofnięcie zgody, o której mowa w ust. 2 pkt 1, lub zajście innego zdarzenia prawnego, które powoduje brak podstaw prawnych do dalszego wykonywania przez uczestnika będącego stroną rozliczenia praw lub obowiązków wynikających z transakcji zawieranych przez podmiot udzielający zgody, wywołuje skutki prawne od chwili wygaśnięcia zobowiązania tego uczestnika wobec podmiotu rozliczającego do wypełniania obowiązków związanych z rozliczaniem tych transakcji. Z chwilą powzięcia przez uczestnika będącego stroną rozliczenia wiadomości o odwołaniu zgody albo o innym zdarzeniu prawnym, które powoduje brak podstaw prawnych do dalszego wykonywania przez uczestnika będącego stroną rozliczenia obowiązków wynikających z transakcji zawieranych przez podmiot udzielający zgody, jest on obowiązany niezwłocznie wystąpić o rozwiązanie lub zmianę umowy o uczestnictwo w podmiocie rozliczającym w tym zakresie.
+
+5. Rozwiązanie lub zmiana umowy o uczestnictwo w podmiocie rozliczającym, zawartej przez uczestnika będącego stroną rozliczenia transakcji zawieranych przez inny podmiot, nie ma wpływu na obowiązki wynikające z rozliczeń transakcji, które zostały zawarte przed jej rozwiązaniem lub zmianą.
+
+1. Sposób rozliczenia transakcji może polegać na wstąpieniu przez podmiot rozliczający w prawa i obowiązki strony transakcji względem:
+
+- **1)** drugiej strony transakcji – jeżeli druga strona transakcji jest uczestnikiem i zobowiązała się wobec podmiotu rozliczającego do wykonywania obowiązków wynikających z rozliczania zawieranych przez nią transakcji albo
+- **2)** uczestnika będącego drugą stroną rozliczenia transakcji – w przypadku, o którym mowa w art. 45g.
+
+2. Z chwilą przyjęcia transakcji do rozliczenia w sposób, o którym mowa w ust. 1, prawa i obowiązki z niej wynikające wygasają, a w to miejsce:
+
+- **1)** w przypadku, o którym mowa w ust. 1 pkt 1 – strona transakcji staje się uprawniona lub zobowiązana zgodnie z treścią tej transakcji w stosunku do podmiotu rozliczającego albo
+- **2)** w przypadku, o którym mowa w ust. 1 pkt 2: strona transakcji staje się uprawniona lub zobowiązana zgodnie z treścią tej transakcji w stosunku do uczestnika, który na podstawie zawartej z nią umowy zobowiązał się do wykonywania zadań uczestnika będącego stroną rozliczenia zawieranych przez nią transakcji, uczestnik, o którym mowa w lit. a, staje się uprawniony lub zobowiązany zgodnie z treścią tej transakcji w stosunku do podmiotu rozliczającego (nowacja rozliczeniowa).
+    - **a)**
+    - **b)**
+
+3. Wykonanie zobowiązań, o których mowa w ust. 2 pkt 1 oraz pkt 2 lit. b, następuje poprzez spełnienie ustalonego w wyniku rozliczenia transakcji świadczenia rozliczeniowego, którym jest:
+
+- **1)** świadczenie należne z tytułu transakcji, w którą wstąpił podmiot rozliczający albo
+- **2)** suma świadczeń tego samego rodzaju, o których mowa w pkt 1, do których podmiot rozliczający jest uprawniony wobec podmiotu, o którym mowa w ust. 1, pomniejszona o sumę świadczeń tego samego rodzaju, o których mowa w pkt 1, do których spełnienia podmiot rozliczający jest zobowiązany wobec tego podmiotu, albo
+- **3)** suma świadczeń tego samego rodzaju, o których mowa w pkt 1, do których podmiot, o którym mowa w ust. 1, jest uprawniony wobec podmiotu rozliczającego, pomniejszona o sumę świadczeń tego samego rodzaju, o których mowa w pkt 1, do których spełnienia podmiot ten jest zobowiązany wobec podmiotu rozliczającego. Podmiot rozliczający jest uprawniony do pomniejszenia świadczenia rozliczeniowego o świadczenie tego samego rodzaju należne z tytułu uczestnictwa podmiotu, o którym mowa w ust. 1, w systemie gwarantującym prawidłowe wykonanie zobowiązań wynikających z transakcji.
+
+4. Regulamin podmiotu rozliczającego określa rodzaje transakcji, które podlegają rozliczeniu w sposób, o którym mowa w ust. 1, warunki oraz moment przyjęcia tych transakcji do rozliczenia, a także zakres odpowiedzialności podmiotu rozliczającego z tytułu niewykonania lub nienależytego wykonania zobowiązań wynikających z tych transakcji. Regulamin podmiotu rozliczającego może także określać szczególne przypadki, w których ze względu na bezpieczeństwo i płynność rozliczeń, zobowiązanie do spełnienia świadczenia rozliczeniowego wygasa przez spełnienie innego świadczenia (świadczenie zastępcze). Wysokość świadczenia zastępczego powinna zostać określona w sposób, który nie prowadzi do pokrzywdzenia podmiotu uprawnionego do jego otrzymania. Do świadczenia zastępczego stosuje się odpowiednio przepis ust. 3 zdanie drugie.
+
+5. W przypadku, o którym mowa w ust. 1 pkt 2, uczestnik będący stroną rozliczenia jest uprawniony do spełnienia świadczenia rozliczeniowego ze środków pieniężnych lub instrumentów finansowych podmiotu, który zawarł transakcję.
+
+6. Skierowanie przez strony transakcji do rozliczenia oznacza, że wyrażają one zgodę na zasady i sposób jej rozliczenia określone w regulaminie podmiotu rozliczającego.
+
+7. Od chwili przyjęcia transakcji do rozliczenia przez podmiot rozliczający uczestnik będący stroną rozliczenia i podmiot rozliczający mogą powoływać się wyłącznie na zarzuty wynikające ze stosunków prawnych powstałych w miejsce zawartych transakcji, z uwzględnieniem przepisu art. 45g ust. 3 pkt 2.
+
+8. Jeżeli w dniu albo po dniu dokonania rozrachunku transakcji zawartej przez podmiot niebędący stroną rozliczenia, lecz przed dniem zapisania na rachunku papierów wartościowych tego podmiotu nabywanych przez niego w wyniku tej transakcji papierów wartościowych, nastąpiło ustalenie prawa do pożytków z tych papierów, uczestnik będący stroną rozliczenia – z chwilą otrzymania tych pożytków – staje się zobowiązany do ich wydania stronie transakcji.
+
+9. Zobowiązanie, o którym mowa w ust. 2 pkt 2 lit. a, staje się wymagalne z dniem dokonania rozrachunku transakcji.
+
+10. Spełnienie świadczenia rozliczeniowego, którego przedmiotem są papiery wartościowe następuje w przypadku, o którym mowa w:
+
+- **1)** ust. 1 pkt 1 – poprzez, odpowiednio, uznanie konta depozytowego albo rachunku papierów wartościowych, wskazanego przez stronę transakcji podmiotowi rozliczającemu;
+- **2)** ust. 1 pkt 2 – poprzez uznanie konta depozytowego, wskazanego przez uczestnika będącego stroną rozliczenia podmiotowi rozliczającemu, któremu odpowiada rachunek papierów wartościowych prowadzony dla strony transakcji.
+
+11. Nabycie papierów wartościowych będących przedmiotem transakcji na podstawie ust. 2 pkt 2 przez uczestnika będącego stroną rozliczenia tej transakcji powoduje powstanie po stronie tego uczestnika obowiązków określonych w przepisach rozdziału 4 ustawy o ofercie publicznej wyłącznie w przypadku, gdy papiery te pozostają zapisane na jego rachunku papierów wartościowych w dniu następującym po dniu rozrachunku tej transakcji. Przepis ten stosuje się odpowiednio do nabycia papierów wartościowych przez podmiot rozliczający na podstawie ust. 2.
+
+12. Do nowacji rozliczeniowej nie stosuje się przepisów art. 506–525 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
+
+13. Nowacja rozliczeniowa następująca w ramach rozliczenia transakcji, której przedmiotem jest przeniesienie instrumentów finansowych, nie stanowi sprzedaży ani pożyczki w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
+
+14. W przypadku ogłoszenia upadłości podmiotu rozliczającego, przepisy art. 85 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm.) stosuje się odpowiednio do transakcji rozliczanych w sposób, o którym mowa w ust. 1 i 2. ” ;
+
+- **6)** w art. 48: po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **a)**
+
+5a. Krajowy Depozyt może również, na zasadach określonych w odrębnym regulaminie, gromadzić i przechowywać informacje dotyczące transakcji, których przedmiotem są instrumenty finansowe, oraz informacje dotyczące tych instrumentów (repozytorium transakcji). ” , ust. 15 i 16 otrzymują brzmienie: „
+
+- **b)**
+
+15. Rada nadzorcza spółki, której zostało przekazane wykonywanie czynności z zakresu zadań, o których mowa w ust. 1 pkt 1–6 lub ust. 2, na wniosek zarządu tej spółki, uchwala regulamin wykonywanych czynności, do którego stosuje się odpowiednio przepisy art. 50 ust. 4–6.
+
+16. Regulamin, o którym mowa w ust. 15, oraz jego zmiany są zatwierdzane przez Komisję. Zatwierdzenie regulaminu i jego zmian, w zakresie wskazanym w art. 45h ust. 4 oraz w art. 50 ust. 4 pkt 1, 4–5, 11, 12 i 14 następuje po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego. Przepis art. 50 ust. 3 stosuje się odpowiednio. ” ;
+
+- **7)** w art. 50: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Regulamin Krajowego Depozytu i jego zmiany są zatwierdzane przez Komisję. Zatwierdzenie regulaminu i jego zmian, w zakresie wskazanym w ust. 4 pkt 1, 4–5, 11, 12 i 14 oraz art. 45h ust. 4 następuje po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego. ” , w ust. 4: – pkt 4a otrzymuje brzmienie: „ 4a) sposób i tryb rozliczania transakcji, o których mowa w art. 7 ust. 5 i 5a, szczególne obowiązki uczestników zobowiązanych do wykonywania obowiązków wynikających z rozliczeń tych transakcji oraz środki dyscyplinujące, które mogą być podejmowane wobec takich uczestników; ” , – pkt 12 otrzymuje brzmienie: „ 12) sposób organizacji systemu zabezpieczenia płynności rozliczania transakcji, w szczególności określający system gwarantowania rozliczeń transakcji zawieranych na rynku regulowanym; ” ;
+
+- **b)**
+- **8)** w art. 59: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Organizując i prowadząc rozliczanie transakcji, o których mowa w art. 48 ust. 2 pkt 1, Krajowy Depozyt określa w szczególności zakres obowiązków stron transakcji lub uczestników będących stronami rozliczenia, w celu prawidłowego spełnienia przez nich świadczeń pieniężnych lub niepieniężnych, wynikających z zawartych transakcji. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Krajowy Depozyt może wystąpić jako strona transakcji zawartej na rynku regulowanym w związku z funkcjonowaniem systemu, o którym mowa w ust. 2, zgodnie z jego celem. ” ;
+
+- **9)** art. 68 otrzymuje brzmienie: „
+
+**Art. 68.**
+
+1. Krajowy Depozyt może, na podstawie umowy z podmiotem organizującym alternatywny system obrotu, prowadzić fundusz zabezpieczający prawidłowe rozliczanie transakcji zawieranych w tym obrocie. Do środków takiego funduszu stosuje się odpowiednio przepisy art. 45e.
+
+2. Fundusz, o którym mowa w ust. 1, tworzony jest z wpłat uczestników. Wysokość wpłat określa Krajowy Depozyt w zależności od poziomu zobowiązań, które mogą powstać w wyniku rozliczania przez niego transakcji zawieranych przez danego uczestnika w alternatywnym systemie obrotu.
+
+3. Masa majątkowa funduszu, o którym mowa w ust. 1, stanowi współwłasność łączną uczestników. Nie wyłącza to możliwości indywidualnego określenia obowiązków uczestnika w związku z wykorzystaniem środków funduszu rozliczeniowego spowodowanym przez działania tego uczestnika.
+
+4. Krajowy Depozyt może zarządzać środkami funduszu, o którym mowa w ust. 1.
+
+5. Zasady tworzenia i wykorzystywania środków funduszu, o którym mowa w ust. 1, oraz związane z jego funkcjonowaniem prawa i obowiązki uczestników określa regulamin ustalany przez Krajowy Depozyt w uzgodnieniu z podmiotem organizującym alternatywny system obrotu.
+
+6. Przepisy ust. 1–5 stosuje się odpowiednio do spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 pkt 2.
+
+7. Krajowy Depozyt lub spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2, może również prowadzić fundusze zabezpieczające prawidłowe rozliczanie transakcji zawieranych poza obrotem zorganizowanym. Do środków takich funduszy stosuje się odpowiednio przepisy ust. 2 i 3 oraz art. 45e. ” ;
+
+- **10)** w art. 68a: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Przez izbę rozliczeniową rozumie się zespół osób, urządzeń i środków technicznych utworzony w celu organizacji i prowadzenia rozliczeń transakcji zawieranych:
+
+- **1)** w obrocie zorganizowanym lub
+- **2)** poza obrotem zorganizowanym – jeżeli na podstawie przepisów prawa podlegają obowiązkowi rozliczenia przez podmiot rozliczający których przedmiotem są instrumenty finansowe.
+
+2. Przez izbę rozrachunkową rozumie się zespół osób, urządzeń i środków technicznych utworzony w celu organizacji i prowadzenia rozrachunku transakcji, o których mowa w ust. 1. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Przedmiotem działalności spółki prowadzącej izbę rozliczeniową lub izbę rozrachunkową może być wyłącznie prowadzenie izby lub wykonywanie innych czynności związanych z organizowaniem i prowadzeniem odpowiednio rozliczeń lub rozrachunku transakcji, o których mowa w ust. 1 i 2. Spółka prowadząca izbę rozliczeniową lub izbę rozrachunkową może także, w ramach prowadzenia izby rozliczeniowej lub izby rozrachunkowej, odpowiednio rozliczać lub dokonywać rozrachunku innych, niż wskazane w ust. 1 pkt 2, transakcji zawartych poza obrotem zorganizowanym. ” ;
+
+- **11)** w art. 68b: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Regulamin izby rozliczeniowej i izby rozrachunkowej oraz ich zmiany są zatwierdzane przez Komisję. Zatwierdzenie regulaminu i jego zmian, w zakresie wskazanym odpowiednio w ust. 2 pkt 1, 2, 4, 7 i 8 oraz ust. 3 pkt 1, 3, 4 i 7, a także art. 45h ust. 4 jest dokonywane po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego. Przepis art. 50 ust. 3 stosuje się odpowiednio. ” , w ust. 2 uchyla się pkt 3, w ust. 3 uchyla się pkt 2;
+
+- **b)**
+- **c)**
+- **12)** art. 68c otrzymuje brzmienie: „
+
+1. Organizując i prowadząc rozliczenie transakcji, o których mowa w art. 68a ust. 1, izba rozliczeniowa ustala w szczególności zakres obowiązków stron transakcji lub uczestników będących stronami rozliczenia w celu prawidłowego spełnienia przez strony świadczeń pieniężnych lub niepieniężnych, wynikających z zawartych transakcji.
+
+2. Spółka prowadząca izbę rozliczeniową organizuje system zabezpieczania płynności rozliczania transakcji zawieranych na rynku regulowanym, a w przypadku rozliczania transakcji zawartych w alternatywnym systemie obrotu – może organizować system zabezpieczania płynności rozliczania transakcji zawieranych w tym systemie.
+
+3. Spółka prowadząca izbę rozliczeniową może występować jako strona transakcji zawieranych na rynku regulowanym lub w alternatywnym systemie obrotu w związku z funkcjonowaniem odpowiednio systemów, o których mowa w ust. 2, zgodnie z ich celem. ” ;
+
+- **13)** w art. 140 ust. 3 otrzymuje brzmienie: „
+
+3. W przypadku powstania uzasadnionych wątpliwości co do podanej przez syndyka lub zarządcę wysokości wydatków określonych w ust. 1 pkt 3, Krajowy Depozyt zwraca się do sędziego-komisarza o zatwierdzenie wydatków w trybie art. 168 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze, co nie wstrzymuje powzięcia przez Krajowy Depozyt uchwały o przekazaniu kwot na wypłatę rekompensat. ” ;
+
+- **14)** w art. 156 w ust. 7: pkt 4 otrzymuje brzmienie: „
+    - **a)**
+
+- **4)** wykonanie umowy zobowiązującej do zbycia lub nabycia instrumentów finansowych, zawartej na piśmie z datą pewną przed uzyskaniem informacji poufnej; ” , dodaje się pkt 5 w brzmieniu: „
+    - **b)**
+
+- **5)** zawieranie transakcji lub nabywanie instrumentów finansowych przez podmiot rozliczający – jeżeli następuje to w bezpośrednim związku z dokonywaniem rozliczenia transakcji. ” .
+
+**Art. 2.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439 oraz z 2010 r. Nr 167, poz. 1129) wprowadza się następujące zmiany:
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

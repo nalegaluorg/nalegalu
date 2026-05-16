@@ -8,9 +8,10 @@ pos: 111
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny w składzie: Marek Safjan przewodniczący, Marian Grzybowski, Wiesław Johann, Ewa Ęętowska, Jerzy Stępień sprawozdawca, protokolant: Krzysztof Zalecki, 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach (Dz. U. z 1998 r. Nr 102, poz. 650, ze zm.) są zgodne z art. 42 ust. 1 Konstytucji Rzeczypospolitej Polskiej, orzeka:
+# Wyrok Trybunału Konstytucyjnegoz dnia 13 stycznia 2005 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050130111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/111/text.pdf) |
 
-Art. 107 § 1 i4 ustawy zdnia 10 września 1999 r.
-Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, ze zm.) w związku z art. 2 ust. 1 i 2a ustawy z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U.
-z 2004 r. Nr 4, poz. 27) jest zgodny z art. 42 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
-po rozpoznaniu, zudziałem Sejmu oraz Prokuratora Generalnego, na rozprawie w dniu 13 stycznia Marek Safjan 2005 r., pytania prawnego Sądu Rejonowego dla Ęodzi-Âródmieścia w Ęodzi o stwierdzenie, czy art. 107 Marian Grzybowski Wiesław Johann § 1 i4 k.k.s. wzw. zart. 2 ust. 1 iust. 2austawy zdnia Ewa Ęętowska Jerzy Stępień 111 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 13 stycznia 2005 r.
-sygn. akt P 15/02 Egzemplarze bieżące oraz archiwalne można nabywać: – w Zakładzie Wydawnictw i Poligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa, tel. 694-67-00, 694-60-96 na podstawie nadesłanego zamówienia (wyłącznie sprzedaż wysyłkowa);
-– w punktach sprzedaży Dziennika Ustaw i Monitora Polskiego w Warszawie (sprzedaż wyłącznie za gotówkę): – ul. Powsińska 69/71, tel. 694-62-96 – al. Szucha 2/4, tel. 629-61-73 (od 1999 r.) Reklamacje z powodu niedoręczenia poszczególnych numerów zgłaszać należy na piśmie do Zakładu Wydawnictw i Poligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa, do 15 dni po otrzymaniu następnego kolejnego numeru O wszelkich zmianach nazwy lub adresu prenumeratoraprosimy niezwłocznie informować na piśmie Zakład Wydawnictw i Poligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów Dziennik Ustaw i Monitor Polski (spis treści) dostępne są w Internecie pod adresem www.cokprm.gov.pl Tłoczono z polecenia Prezesa Rady Ministrów w Zakładzie Wydawnictw i Poligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa Zam. 79/W/C/2005 Wydawca:Kancelaria Prezesa Rady Ministrów Redakcja:RządoweCentrum Legislacji Redakcja Dziennika Ustaw Rzeczypospolitej Polskiej orazDziennika Urzędowego Rzeczypospolitej Polskiej ŃMonitor Polski”, Al. Ujazdowskie 1/3, 00-583 Warszawa, tel. 622-66-56 Skład, druk i kolportaż: Zakład Wydawnictw i Poligrafii Centrum Obsługi Kancelarii Prezesa Rady Ministrów ul. Powsińska 69/71, 02-903 Warszawa, tel.:694-67-50, 694-67-52;faks 694-62-06 Bezpłatna infolinia: 0-800-287-581(czynna w godz. 7 –15 ) www.cokprm.gov.pl e-mail: dziust@cokprm.gov.pl
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marek Safjan – przewodniczący, Marian Grzybowski, Wiesław Johann, Ewa Łętowska, Jerzy Stępień – sprawozdawca, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem Sejmu oraz Prokuratora Generalnego, na rozprawie w dniu 13 stycznia 2005 r., pytania prawnego Sądu Rejonowego dla Łodzi-Śródmieścia w Łodzi o stwierdzenie, czy art. 107 § 1 i 4 k.k.s. w zw. z art. 2 ust. 1 i ust. 2a ustawy z dnia 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach (Dz. U. z 1998 r. Nr 102, poz. 650, ze zm.) są zgodne z art. 42 ust. 1 Konstytucji Rzeczypospolitej Polskiej, orzeka: Art. 107 § 1 i 4 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, ze zm.) w związku z art. 2 ust. 1 i 2a ustawy z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U. z 2004 r. Nr 4, poz. 27) jest zgodny z art. 42 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
 

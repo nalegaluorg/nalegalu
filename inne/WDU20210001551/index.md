@@ -8,9 +8,12 @@ pos: 1551
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 sierpnia 2021 r.
+# o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie Dla uczczenia jubileuszu stulecia odrodzenia się niepodległej Rzeczypospolitej, aby przywrócić historyczny kształt reprezentacyjnej przestrzeni Placu Marszałka Józefa Piłsudskiego w Warszawie zniszczonej w czasie II wojny światowej, dla zadośćuczynienia woli Polaków i umocnienia jedności wspólnoty obywatelskiej, której symbolem będą odbudowane pałace Saski i Brühla wraz z zespołem kamienic przy ulicy Królewskiej, a także, by dopełnić dzieła odbudowy stolicy, zniszczonej i zburzonej przez niemieckich okupantów, aby te gmachy i budowle, które przed stu laty dumnie wyrażały suwerenność państwa polskiego, służyły Polakom zarówno współcześnie, jak i w kolejnych pokoleniach i były widomym znakiem ciągłości naszych dziejów, a zarazem świadectwem silnej i nowoczesnej Rzeczypospolitej, uchwala się, co następuje:
+
+*USTAWA z dnia 11 sierpnia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-04-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001551) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1551/text.pdf) |
 
-USTAWA z dnia 11 sierpnia 2021 r.
-o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie Dla uczczenia jubileuszu stulecia odrodzenia się niepodległej Rzeczypospolitej, aby przywrócić historyczny kształt reprezentacyjnej przestrzeni Placu Marszałka Józefa Piłsudskiego w Warszawie zniszczonej w czasie II wojny światowej, dla zadośćuczynienia woli Polaków i umocnienia jedności wspólnoty obywatelskiej, której symbolem będą odbudowane pałace Saski i Brühla wraz z zespołem kamienic przy ulicy Królewskiej, a także, by dopełnić dzieła odbudowy stolicy, zniszczonej i zburzonej przez niemieckich okupantów, aby te gmachy i budowle, które przed stu laty dumnie wyrażały suwerenność państwa polskiego, służyły Polakom zarówno współcześnie, jak i w kolejnych pokoleniach i były widomym znakiem ciągłości naszych dziejów, a zarazem świadectwem silnej i nowoczesnej Rzeczypospolitej, uchwala się, co następuje:
+Art. 52–57. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -43,7 +45,7 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 4. Inwestycje są finansowane z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego lub z innych źródeł.
 
-5. W sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm. ), zwanej dalej „Prawem budowlanym”, ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735 i 1491), zwanej dalej „Kodeksem postępowania administracyjnego”.
+5. W sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ), zwanej dalej „Prawem budowlanym”, ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), zwanej dalej „Kodeksem postępowania administracyjnego”.
 
 #### Rozdział 2 Rada Odbudowy
 
@@ -67,17 +69,17 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 3. Kandydatów na członków Rady zgłasza:
 
-- **1)** Prezydent Rzeczypospolitej Polskiej 1 osobę;
-- **2)** Marszałek Sejmu Rzeczypospolitej Polskiej 1 osobę;
-- **3)** Marszałek Senatu Rzeczypospolitej Polskiej 1 osobę;
-- **4)** Prezes Rady Ministrów 1 osobę;
-- **5)** minister właściwy do spraw kultury i ochrony dziedzictwa narodowego 2 osoby;
-- **6)** Minister Obrony Narodowej 1 osobę;
-- **7)** Prezydent m.st. Warszawy 1 osobę;
-- **8)** Generalny Konserwator Zabytków 1 osobę;
-- **9)** Rada m.st. Warszawy 1 osobę.
+- **1)** Prezydent Rzeczypospolitej Polskiej – 1 osobę;
+- **2)** Marszałek Rzeczypospolitej Polskiej – 1 osobę;
+- **3)** Marszałek Senatu Rzeczypospolitej Polskiej – 1 osobę;
+- **4)** Prezes Rady Ministrów – 1 osobę;
+- **5)** minister właściwy do spraw kultury i ochrony dziedzictwa narodowego – 2 osoby;
+- **6)** Minister Obrony Narodowej – 1 osobę;
+- **7)** Prezydent m.st. Warszawy – 1 osobę;
+- **8)** Generalny Konserwator Zabytków – 1 osobę;
+- **9)** Rada m.st. Warszawy – 1 osobę.
 
-4. Członków Rady powołuje i odwołuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. Członków Rady, o których mowa w ust. 3 pkt 1–4 oraz 6–9, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego powołuje i odwołuje na wniosek podmiotów, których są przedstawicielami.
+4. Członków Rady powołuje i odwołuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. Członków Rady, o których mowa w ust. 3 pkt 1– 4 oraz 6–9, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego powołuje i odwołuje na wniosek podmiotów, których są przedstawicielami.
 
 **Art. 6.**
 
@@ -101,7 +103,7 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 **Art. 7.**
 
-1. W celu zapewnienia przygotowania i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie Skarb Państwa tworzy spółkę z ograniczoną odpowiedzialnością Spółkę Celową.
+1. W celu zapewnienia przygotowania i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie Skarb Państwa tworzy spółkę z ograniczoną odpowiedzialnością – Spółkę Celową.
 
 2. Oświadczenie woli o utworzeniu Spółki Celowej i objęciu udziałów w tej spółce składa minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w imieniu Skarbu Państwa, w formie aktu notarialnego.
 
@@ -109,7 +111,7 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 4. W przypadku gdy udziały w Spółce Celowej są pokrywane wkładami pieniężnymi i niepieniężnymi, wkład pieniężny wynosi co najmniej 2 000 000 zł.
 
-5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wykonuje nadzór i kontrolę nad Spółką Celową zgodnie z art. 175 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, 1236 i 1535), a także wykonuje prawa z udziałów Skarbu Państwa w Spółce Celowej.
+5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wykonuje nadzór i kontrolę nad Spółką Celową zgodnie z art. 175 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ), a także wykonuje prawa z udziałów Skarbu Państwa w Spółce Celowej.
 
 **Art. 8.**
 
@@ -203,7 +205,7 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 4. Umowę sporządza się w formie pisemnej. Projekt umowy sporządza minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
 
-5. Do powierzenia Spółce Celowej zadań związanych z przygotowaniem i realizacją inwestycji nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych.
+5. Do powierzenia Spółce Celowej zadań związanych z przygotowaniem i realizacją inwestycji nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 **Art. 13.** Skarb Państwa reprezentowany przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego udziela Spółce Celowej pełnomocnictw niezbędnych do przygotowania i realizacji inwestycji oraz wykonania zadań powierzonych Spółce Celowej w umowie, o której mowa w art. 12.
 
@@ -215,7 +217,7 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 3. Z dniem rozwiązania Spółki Celowej wszelkie prawa z tytułu rękojmi i gwarancji przechodzą na rzecz Skarbu Państwa reprezentowanego przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
 
-**Art. 15.** W sprawach nieuregulowanych w ustawie do Spółki Celowej stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320).
+**Art. 15.** W sprawach nieuregulowanych w ustawie do Spółki Celowej stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96).
 
 #### Rozdział 4 Przygotowanie inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie
 
@@ -247,28 +249,28 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
     - **c)** charakterystycznych parametrów technicznych inwestycji oraz danych charakteryzujących jej wpływ na środowisko;
 
 - **6)** warunki techniczne realizacji inwestycji;
-- **7)** decyzję o środowiskowych uwarunkowaniach, z uwzględnieniem art. 31 jeżeli jest ona wymagana;
-- **8)** mapy z projektami podziału nieruchomości, w przypadku konieczności zatwierdzenia podziału nieruchomości, sporządzone zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne;
+- **7)** decyzję o środowiskowych uwarunkowaniach, z uwzględnieniem art. 31 – jeżeli jest ona wymagana;
+- **8)** mapy z projektami podziału nieruchomości, w przypadku konieczności zatwierdzenia podziału nieruchomości, sporządzone zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
 - **9)** wskazanie nieruchomości, oznaczonych według katastru nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji ma wywołać skutek, o którym mowa w art. 37 ust. 3;
 - **10)** wskazanie ujawnionych ograniczonych praw rzeczowych obciążających nieruchomości wskazane zgodnie z pkt 9;
-- **11)** wskazanie nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji ma wywołać skutek, o którym mowa w art. 42 ust. 1, w tym gruntów stanowiących pas drogowy, jeżeli inwestycja wymaga przejścia przez te grunty lub wymaga budowy lub przebudowy zjazdów na tych gruntach; w przypadku gdy inwestycja wymaga budowy zjazdów, Spółka Celowa określa także lokalizację i parametry techniczne zjazdów, a gdy wymaga przebudowy zjazdów ich parametry techniczne;
+- **11)** wskazanie nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji ma wywołać skutek, o którym mowa w art. 42 ust. 1, w tym gruntów stanowiących pas drogowy, jeżeli inwestycja wymaga przejścia przez te grunty lub wymaga budowy lub przebudowy zjazdów na tych gruntach; w przypadku gdy inwestycja wymaga budowy zjazdów, Spółka Celowa określa także lokalizację i parametry techniczne zjazdów, a gdy wymaga przebudowy zjazdów – ich parametry techniczne;
 - **12)** wskazanie podmiotów innych niż Spółka Celowa, na rzecz których ograniczenie sposobu korzystania z nieruchomości ma nastąpić zgodnie z art. 42 ust. 2, oraz zgodę tych podmiotów na takie ograniczenie;
 - **13)** wskazanie okresu, w jakim decyzja o ustaleniu lokalizacji inwestycji ma wywołać skutek, o którym mowa w art. 42 ust. 1, w przypadku gdy takie ograniczenie ma nastąpić na czas określony;
 - **14)** zgodę wodnoprawną, o ile jest wymagana;
 - **15)** opinie, o których mowa w ust. 3;
 - **16)** opinię Rady o wniosku;
-- **17)** uproszczone wypisy z rejestru gruntów w postaci papierowej lub postaci elektronicznej lub inne dokumenty w postaci papierowej lub pliku komputerowego sformatowanego zgodnie z obowiązującym standardem wymiany danych ewidencyjnych wydane z katastru nieruchomości przez organ prowadzący ewidencję gruntów i budynków, zawierające oznaczenie działki ewidencyjnej oraz, o ile zostały ujawnione, numer jej księgi wieczystej, imię i nazwisko albo nazwę oraz adres jej właściciela lub użytkownika wieczystego.
+- **17)** uproszczone wypisy z rejestru gruntów w postaci papierowej lub postaci elektronicznej lub inne dokumenty w postaci papierowej lub pliku komputerowego sformatowanego zgodnie z obowiązującym standardem wymiany danych ewidencyjnych – wydane z katastru nieruchomości przez organ prowadzący ewidencję gruntów i budynków, zawierające oznaczenie działki ewidencyjnej oraz, o ile zostały ujawnione, numer jej księgi wieczystej, imię i nazwisko albo nazwę oraz adres jej właściciela lub użytkownika wieczystego.
 
 2. Wydania decyzji o ustaleniu lokalizacji inwestycji nie uzależnia się od spełnienia świadczeń lub warunków nieprzewidzianych przepisami niniejszej ustawy lub odrębnymi przepisami.
 
 3. Przed złożeniem wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji Spółka Celowa występuje o opinie:
 
 - **1)** Zarządu Województwa Mazowieckiego oraz Prezydenta m.st. Warszawy;
-- **2)** Mazowieckiego Wojewódzkiego Konserwatora Zabytków w odniesieniu do zabytków chronionych na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2021 poz. 710 i 954);
-- **3)** właściwego zarządcy drogi w odniesieniu do obszarów pasa drogowego, w tym w zakresie parametrów technicznych zjazdów oraz sposobu, miejsca i warunków umieszczenia w pasie drogowym obiektów lub urządzeń niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, a jeżeli wniosek dotyczy budowy zjazdów również w zakresie ich lokalizacji, zgodnie z przepisami ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2021 r. poz. 1376);
-- **4)** właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej w odniesieniu do wymagań dotyczących ochrony przeciwpożarowej, w szczególności zapewnienia wody do celów przeciwpożarowych i dojazdu dla pojazdów jednostek ochrony przeciwpożarowej oraz wymagań dotyczących lokalizacji inwestycji w bezpiecznej odległości od zakładów stwarzających zagrożenie wystąpienia poważnej awarii przemysłowej;
-- **5)** Ministra Obrony Narodowej w odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności państwa, ustalone na podstawie ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2021 r. poz. 741, 784 i 922);
-- **6)** Głównego Inspektora Ochrony Środowiska w odniesieniu do prowadzenia państwowego monitoringu środowiska, zgodnie z ustawą z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070);
+- **2)** Mazowieckiego Wojewódzkiego Konserwatora Zabytków – w odniesieniu do zabytków chronionych na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951, 1688 i 1904);
+- **3)** właściwego zarządcy drogi – w odniesieniu do obszarów pasa drogowego, w tym w zakresie parametrów technicznych zjazdów oraz sposobu, miejsca i warunków umieszczenia w pasie drogowym obiektów lub urządzeń niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, a jeżeli wniosek dotyczy budowy zjazdów – również w zakresie ich lokalizacji, zgodnie z przepisami ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320);
+- **4)** właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej – w odniesieniu do wymagań dotyczących ochrony przeciwpożarowej, w szczególności zapewnienia wody do celów przeciwpożarowych i dojazdu dla pojazdów jednostek ochrony przeciwpożarowej oraz wymagań dotyczących lokalizacji inwestycji w bezpiecznej odległości od zakładów stwarzających zagrożenie wystąpienia poważnej awarii przemysłowej;
+- **5)** Ministra Obrony Narodowej – w odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności państwa, ustalone na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm. );
+- **6)** Głównego Inspektora Ochrony Środowiska – w odniesieniu do prowadzenia państwowego monitoringu środowiska, zgodnie z ustawą z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2023 r. poz. 824, 1195 i 1719);
 - **7)** Głównej Komisji Urbanistyczno-Architektonicznej.
 
 4. Właściwy organ wydaje opinię, o której mowa w ust. 3, w terminie 21 dni od dnia otrzymania wniosku o jej wydanie. Kopię opinii właściwy organ przekazuje Wojewodzie Mazowieckiemu. Niewydanie opinii w terminie traktuje się jako brak zastrzeżeń do wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji.
@@ -311,13 +313,13 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 8. W przypadku gdy po doręczeniu zawiadomienia, o którym mowa w ust. 1, nastąpi:
 
 - **1)** zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji,
-- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia Wojewodzie Mazowieckiemu danych nowego właściciela lub użytkownika wieczystego.
+- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji – nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia Wojewodzie Mazowieckiemu danych nowego właściciela lub użytkownika wieczystego.
 
 9. Niedokonanie zgłoszenia zgodnie z ust. 8 i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
 
 10. Czynność prawna dokonana z naruszeniem ust. 6 pkt 1 jest nieważna.
 
-11. Wojewoda Mazowiecki niezwłocznie składa wniosek do właściwego sądu o ujawnienie w księdze wieczystej wszczęcia postępowania o wydanie decyzji o ustaleniu lokalizacji inwestycji, a jeżeli nieruchomość nie ma założonej księgi wieczystej o złożenie do istniejącego zbioru dokumentów zawiadomienia o wszczęciu tego postępowania. Postępowanie w tym zakresie jest wolne od opłat sądowych.
+11. Wojewoda Mazowiecki niezwłocznie składa wniosek do właściwego sądu o ujawnienie w księdze wieczystej wszczęcia postępowania o wydanie decyzji o ustaleniu lokalizacji inwestycji, a jeżeli nieruchomość nie ma założonej księgi wieczystej – o złożenie do istniejącego zbioru dokumentów zawiadomienia o wszczęciu tego postępowania. Postępowanie w tym zakresie jest wolne od opłat sądowych.
 
 **Art. 20.** W postępowaniu o wydanie decyzji o ustaleniu lokalizacji inwestycji:
 
@@ -341,13 +343,13 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 7. Do zawiadamiania stron o wszczęciu postępowania oraz doręczeń decyzji oraz postanowień w sprawie uchylenia, zmiany, wznowienia lub stwierdzenia nieważności lub wygaśnięcia decyzji o ustaleniu lokalizacji inwestycji, wydawanych w toku postępowania przez organ pierwszej i drugiej instancji, stosuje się przepisy ust. 1–5, z wyłączeniem obowiązku zawiadamiania w drodze obwieszczenia w prasie ogólnopolskiej.
 
-**Art. 24.** Do decyzji o ustaleniu lokalizacji inwestycji, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2021 r. poz. 247, 784, 922 i 1211).
+**Art. 24.** Do decyzji o ustaleniu lokalizacji inwestycji, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm. ).
 
 **Art. 25.**
 
-1. Do spraw określonych w niniejszym rozdziale nie stosuje się przepisów ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2021 r. poz. 485) oraz ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, z wyjątkiem jej art. 57 ust. 1 i 4 ustawy, które mają zastosowanie do decyzji o ustaleniu lokalizacji inwestycji.
+1. Do spraw określonych w niniejszym rozdziale nie stosuje się przepisów ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278) oraz ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, z wyjątkiem jej art. 57 ust. 1 i 4 ustawy, które mają zastosowanie do decyzji o ustaleniu lokalizacji inwestycji.
 
-2. Decyzja o ustaleniu lokalizacji inwestycji wiąże właściwe organy przy sporządzaniu studium uwarunkowań i kierunków zagospodarowania przestrzennego oraz miejscowych planów zagospodarowania przestrzennego. Wojewoda Mazowiecki przekazuje niezwłocznie Prezydentowi m.st. Warszawy wydaną decyzję o ustaleniu lokalizacji inwestycji.
+2. Decyzja o ustaleniu lokalizacji inwestycji wiąże właściwe organy przy sporządzaniu planu ogólnego gminy oraz miejscowych planów zagospodarowania przestrzennego. Wojewoda Mazowiecki przekazuje niezwłocznie Prezydentowi m.st. Warszawy wydaną decyzję o ustaleniu lokalizacji inwestycji.
 
 3. Decyzja o ustaleniu lokalizacji inwestycji jest wiążąca dla właściwych organów w zakresie wydawania decyzji o warunkach zabudowy i zagospodarowania terenu, decyzji o ustaleniu lokalizacji inwestycji celu publicznego oraz pozwolenia na budowę, dotyczących innych inwestycji.
 
@@ -365,7 +367,7 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 **Art. 27.**
 
-1. W decyzji o ustaleniu lokalizacji inwestycji Wojewoda Mazowiecki zezwala, w zakresie niezbędnym do realizacji inwestycji, na usunięcie drzew lub krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji inwestycji. Zezwolenie nie jest wymagane na usunięcie drzew lub krzewów, o których mowa w art. 83f ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2021 r. poz. 1098). Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji inwestycji nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie, o których mowa w rozdziale 4 tej ustawy, oraz opłat z tym związanych.
+1. W decyzji o ustaleniu lokalizacji inwestycji Wojewoda Mazowiecki zezwala, w zakresie niezbędnym do realizacji inwestycji, na usunięcie drzew lub krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji inwestycji. Zezwolenie nie jest wymagane na usunięcie drzew lub krzewów, o których mowa w art. 83f ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890). Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji inwestycji nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie, o których mowa w rozdziale 4 tej ustawy, oraz opłat z tym związanych.
 
 2. Wniosek o wydanie decyzji o ustaleniu lokalizacji inwestycji, w przypadku, o którym mowa w ust. 1, zawiera dodatkowo:
 
@@ -410,11 +412,13 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 **Art. 30.**
 
-1. Jeżeli realizacja inwestycji wymaga zgody wodnoprawnej, zgodę tę wydaje właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie w terminie 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się art. 396 ust. 1 pkt 7, art. 407 ust. 2 pkt 3 oraz art. 422 pkt 3 ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2021 r. poz. 624 i 784).
+1. Jeżeli realizacja inwestycji wymaga zgody wodnoprawnej, zgodę tę wydaje właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie w terminie 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się art. 396 ust. 1 pkt 7, art. 407 ust. 2 pkt 3 oraz art. 422 pkt 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029).
 
-2. Stan prawny nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. Prawo wodne, oraz siedziby i adresy właścicieli i użytkowników wieczystych ustala się według katastru nieruchomości. Przepisy art. 19 ust. 1–5, art. 22 i art. 23 stosuje się odpowiednio.
+2. Stan prawny nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, oraz siedziby i adresy właścicieli i użytkowników wieczystych ustala się według katastru nieruchomości. Przepisy art. 19 ust. 1–5, art. 22 i art. 23 stosuje się odpowiednio.
 
-3. Przepis art. 401 ust. 3 ustawy z dnia 20 lipca 2017 r. Prawo wodne ma zastosowanie również w tych postępowaniach, w których liczba stron nie przekracza 10.
+3. Przepis art. 401 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne ma zastosowanie również w tych postępowaniach, w których liczba stron nie przekracza
+
+10.
 
 4. W sprawach określonych w ust. 1 w stosunku do:
 
@@ -595,7 +599,7 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 **Art. 47.**
 
-1. Do skarg na decyzje, o których mowa w niniejszej ustawie, nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325, z 2020 r. poz. 2299 i 2320 oraz z 2021 r. poz. 54 i 159).
+1. Do skarg na decyzje, o których mowa w niniejszej ustawie, nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 1634, 1705 i 1860).
 
 2. Przekazanie akt i odpowiedzi na skargę następuje w terminie 15 dni od dnia otrzymania skargi. Sąd rozpatruje skargę w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
 
@@ -626,23 +630,11 @@ o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pa
 
 **Art. 49.** Do zmiany decyzji o ustaleniu lokalizacji inwestycji stosuje się odpowiednio przepis art. 155 Kodeksu postępowania administracyjnego, z tym że zgodę wyraża wyłącznie Spółka Celowa.
 
-**Art. 50.** Przepisów niniejszego rozdziału nie stosuje się do decyzji, o których mowa w art. 31 ust. 1, art. 41 ust. 2. oraz art. 42 ust. 4.
+**Art. 50.** Przepisów niniejszego rozdziału nie stosuje się do decyzji, o których mowa w art. 31 ust. 1, art. 41 ust. 2 oraz art. 42 ust. 4.
 
 **Art. 51.** Wojewoda Mazowiecki jest organem egzekucyjnym prowadzącym egzekucję obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa w art. 16 ust. 1, art. 28 ust. 1, art. 32 ust. 1 oraz art. 43 ust. 3.
 
 #### Rozdział 7 Przepisy zmieniające i przepis końcowy
 
-**Art. 52.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, 1163 i 1243) w art. 26 w ust. 1 w pkt 9 w lit. d dodaje się przecinek i lit. e w brzmieniu: „e) określone w art. 7 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. poz. 1551)”.
-
-**Art. 53.** W ustawie z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe Spółki Skarbu Państwa (Dz. U. z 2020 r. poz. 16) w art. 7 w pkt 2 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. poz. 1551).”.
-
-**Art. 54.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 1990 oraz z 2021 r. poz. 11, 234 i 815) w art. 95 po pkt 6c dodaje się pkt 6d w brzmieniu: „6d) wydzielenia części nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w rozumieniu przepisów ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. poz. 1551);”.
-
-**Art. 55.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2021 r. poz. 247, 784, 922 i 1211) wprowadza się następujące zmiany:
-
-**Art. 56.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2020 r. poz. 735 oraz z 2021 r. poz. 159 i 255) w art. 13 w pkt 29 kropkę zastępuje się średnikiem i dodaje się pkt 30 w brzmieniu: „30) spółka celowa, o której mowa w przepisach ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. poz. 1551).”.
-
-**Art. 57.** W ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2020 r. poz. 1100 i 2127 oraz z 2021 r. poz. 11 i 223) w art. 10 w ust. 2 w pkt 5 w lit. e dodaje się tiret czternaste w brzmieniu: „– ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. poz. 1551),”.
-
-**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

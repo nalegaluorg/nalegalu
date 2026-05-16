@@ -8,9 +8,10 @@ pos: 123
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 1 lutego 2012 Pozycja 123
+# składkach zdrowotne rolników za lata 2012–2016
 
 | Pole | Wartość |
 |---|---|
@@ -24,41 +25,28 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/123/text.pdf) |
 
-USTAWA 13 stycznia 2012 składkach na ubezpieczenie zdrowotne rolników za 2012
-
-**Art. 1.** Ustawa określa wysokość sposób opłacania składek na ubezpieczenie zdrowotne za okres od 1 stycznia 2012 do 31 grudnia 2012 r.:
-
-**Art. 2.**
-
-1. Od 1 kwietnia 2012 do 31 grudnia 2012 wysokość miesięcznej składki na ubezpieczenie zdrowotne osób, których mowa 1 pkt 1 2, za każdą osobę podlegającą ubezpieczeniu, wynosi 1 zł za każdy pełny hektar przeliczeniowy użytków rolnych gospodarstwie rolnym, przyjęty dla celów ustalenia wymiaru składek na ubezpieczenie społeczne rolników. W gospodarstwach rolnych powierzchni poniżej 1 hektara przeliczeniowego użytków rolnych składka wynosi 1 zł.
-
-2. Od 1 kwietnia 2012 do 31 grudnia 2012 podstawę wymiaru składki na ubezpieczenie zdrowotne osób, których mowa 1 pkt 3, stanowi kwota 33,4% przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw czwartym kwartale roku poprzedniego, włącznie wypłatami zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
-
-3. Składkę na ubezpieczenie zdrowotne:
-
-- **1)** której mowa ust. 1, gospodarstwach rolnych powierzchni:
-    - **a)** poniżej 6 hektarów przeliczeniowych użytków rolnych, przyjętych dla celów ustalenia wymiaru składek na ubezpieczenie społeczne rolników, opłaca Kasa Rolniczego Ubezpieczenia Społecznego,
-    - **b)** od 6 hektarów przeliczeniowych użytków rolnych, przyjętych dla celów ustalenia wymiaru składek na ubezpieczenie społeczne rolników, opłaca rolnik, którym mowa 1 pkt 1;
-
-- **2)** domowników rolników prowadzących działalność wyłącznie zakresie działów specjalnych produkcji rolnej rozumieniu 20 grudnia 1990 ubezpieczeniu społecznym rolników opłaca rolnik, którym mowa 1 pkt 3.
-
-**Art. 3.**
-
-1. Rolnicy, których mowa 1 pkt 1 3, opłacają Kasie Rolniczego Ubezpieczenia Społecznego składki na ubezpieczenie zdrowotne za każdą osobę podlegającą ubezpieczeniu, za każdy miesiąc, za okres od 1 kwietnia 2012 do 31 grudnia 2012 r., kwartalnie – terminach określonych dla składek na ubezpieczenie społeczne rolników.
-
-2. Kasa Rolniczego Ubezpieczenia Społecznego opłaca składki na ubezpieczenie zdrowotne osób, których mowa 2 ust. 3 pkt 1 lit. a, terminie do 15. miesiąca następującego po miesiącu, za który jest opłacana składka.
-
-**Art. 4.**
-
-1. Z tytułu ubezpieczenia zdrowotnego osób, których mowa 1, Kasa Rolniczego Ubezpieczenia Społecznego przekazuje do Narodowego Funduszu Zdrowia miesięcznie 155 167 tys. zł, terminie do 15. miesiąca następującego po miesiącu, za który kwota ta jest należna, zastrzeżeniem 7.
-
-2. Kwota przekazywana Narodowemu Funduszowi Zdrowia danym miesiącu obejmuje składki na ubezpieczenie zdrowotne pobrane od rolników, których mowa 1 pkt 1 3, poprzednim miesiącu wraz pobranymi odsetkami.
-
-**Art. 5.** W zakresie nieuregulowanym niniejszą ustawą do składek na ubezpieczenie zdrowotne osób, których mowa 1, stosuje się przepisy zdrowotnej finansowanych ze środków publicznych.
-
-**Art. 6.** W ustawie zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 164, 1027, późn. zm. ) 86:
-
-**Art. 7.** Kwotę, której mowa 86 ust. 2a zdrowotnej finansowanych ze środków publicznych, brzmieniu obowiązującym do wejścia życie niniejszej ustawy, za styczeń 2012 r., Kasa Rolniczego Ubezpieczenia Społecznego przekazuje terminie do 15 lutego 2012
-
-**Art. 8.** Ustawa wchodzi życie dniem 1 lutego 2012 Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+1. Ustawa określa wysokość sposób opłacania składek zdrowotne za okres od 1 stycznia do 31 grudnia 2016 r.:
+1) rolników, art. 66 ust. 1 pkt 1 lit. b pkt 34 ustawy z 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 164, 1027, z późn. zm. ), z wyłączeniem rolników prowadzących działalność wyłącznie zakresie działów specjalnych produkcji rolnej rozumieniu ustawy z 20 grudnia 1990 ubezpieczeniu społecznym rolników (Dz. U. z 2008 50, 291, z późn.
+zm. ) oraz rolników, którzy prowadzą działalność zakresie działów specjalnych produkcji rolnej dodatkowo gospodarstwie rolnym;
+2) domowników rolników, pkt 1 oraz domowników rolników którzy prowadzą działalność zakresie działów specjalnych produkcji rolnej dodatkowo gospodarstwie rolnym;
+3) domowników rolników prowadzących działalność wyłącznie zakresie działów specjalnych produkcji rolnej rozumieniu ustawy z 20 grudnia 1990 ubezpieczeniu społecznym rolników.
+powierzchni poniżej 1 hektara przeliczeniowego użytków składka wynosi 1 zł.
+Od 1 kwietnia do 31 grudnia 2016 podstawę wymiaru zdrowotne osób, art. 1 pkt 3, stanowi kwota 33,4% przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw czwartym kwartale roku poprzedniego, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+2a. Od 1 stycznia 2013 do 31 marca 2013 podstawę wymiaru zdrowotne osób, art. 1 pkt 3, stanowi kwota 33,4% przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw czwartym kwartale roku 2011, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+2b. Od 1 stycznia 2014 do 31 marca 2014 podstawę wymiaru zdrowotne osób, art. 1 pkt 3, stanowi kwota 33,4% przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw czwartym kwartale roku 2012, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+2c. Od 1 stycznia 2015 do 31 marca 2015 podstawę wymiaru zdrowotne osób, art. 1 pkt 3, stanowi kwota 33,4% przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw czwartym kwartale roku 2013, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+1) której ust. 1, gospodarstwach powierzchni:
+a) poniżej 6 hektarów przeliczeniowych użytków rolnych, przyjętych dla celów ustalenia wymiaru składek społeczne rolników, opłaca Kasa Rolniczego Ubezpieczenia Społecznego,
+b) od 6 hektarów przeliczeniowych użytków rolnych, przyjętych dla celów ustalenia wymiaru składek społeczne rolników, opłaca rolnik, którym art. 1 pkt 1;
+2) domowników rolników prowadzących działalność wyłącznie zakresie działów specjalnych produkcji rolnej rozumieniu ustawy z 20 grudnia 1990 ubezpieczeniu społecznym rolników opłaca rolnik, którym art. 1 pkt 3.
+3. 1. Rolnicy, art. 1, opłacają Kasie Rolniczego Ubezpieczenia Społecznego zdrowotne za każdą osobę podlegającą ubezpieczeniu, za każdy miesiąc, kwartalnie – terminach określonych dla składek społeczne rolników.
+Kasa Rolniczego Ubezpieczenia Społecznego opłaca zdrowotne osób, art. 2 ust. 3 pkt 1 lit. a, terminie do 15. miesiąca następującego po miesiącu, za który jest opłacana składka.
+3. Kasa Rolniczego Ubezpieczenia Społecznego pobiera od kwoty składek, ust. 1 2, należne koszty poboru ewidencjonowania składek zdrowotne, wysokości zasadach określonych ustawie z 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+4. 1. Z tytułu ubezpieczenia zdrowotnego osób, art. 1, Kasa Rolniczego Ubezpieczenia Społecznego przekazuje do Narodowego Funduszu z 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+6. W ustawie z 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 164, 1027, z późn.
+zm. ) art. 86:
+1) ust. 1 uchyla się pkt 1;
+2) ust. 2 otrzymuje brzmienie: „2. Składki zdrowotne osób, ust. 1 pkt 2 – 15, a także osób, którym przyznano renty podstawie przepisów zaopatrzeniu inwalidów wojennych wojskowych oraz członków ich rodzin, jak również osób, które utraciły wzrok wyniku działań wojennych latach 1939–1945 lub eksplozji niewypałów niewybuchów pozostałych po tych działaniach, otrzymujących dochody z tytułu emerytury lub renty zwolnione z podatku dochodowego od osób fizycznych podstawie odrębnych przepisów, są finansowane z budżetu państwa.”;
+3) uchyla się ust. 2a.
+7. Kwotę, której art. 86 ust. 2a ustawy z 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, brzmieniu obowiązującym do wejścia życie niniejszej ustawy, za styczeń r., Kasa Rolniczego Ubezpieczenia Społecznego przekazuje terminie do 15 lutego
 

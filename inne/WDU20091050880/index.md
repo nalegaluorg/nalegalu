@@ -8,9 +8,10 @@ pos: 880
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Janusz Niemcewicz przewodniczący, Zbigniew Cieślak, Marian Grzybowski sprawozdawca, Wojciech Hermeliński, Ewa Ęętowska, po rozpoznaniu, udziałem wnioskodawców oraz Sejmu, Prezesa Rady Ministrów Prokuratora Generalnego, na rozprawie dniu 22 czerwca 2009 r., wniosków dwóch grup posłów ozbadanie zgodności:
+# Wyrok Trybunału Konstytucyjnegoz dnia 23 czerwca 2009 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,44 +25,83 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091050880) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/880/text.pdf) |
 
-1) ustawy zdnia 9czerwca 2006 oCentralnym Biurze Antykorupcyjnym (Dz. U. 104, 708) 2, 7, 10, 20, 22, 30, 31 3, 42 1, 47, 50, 51 iart. 202 1Konstytucji, 7ust. 1, 8iart. 18 Konwencji ochronie praw człowieka podstawowych wolności, sporządzonej Rzymie dnia 4listopada 1950 (Dz. U. z1993 61, 284), 20 Prawnokarnej konwencji korupcji, sporządzonej Strasburgu dnia 27 stycznia 1999 (Dz. U. z2005 29, 249) oraz zpreambułą 5, 6iart. 7Konwencji nr 108 Rady Europy ochronie osób związku automatycznym przetwarzaniem danych osobowych, sporządzonej Strasburgu dnia 28 stycznia 1981 (Dz. U.
-z2003 3, 25),
-2) 3 oraz 2 pkt lit. b, oraz d ustawy powołanej 2, 20, 22, 31 3iart. 42 1Konstytucji oraz 7ust. 1Konwencji oochronie praw człowieka ipodstawowych wolności,
-3) 2 pkt 2—5 ustawy powołanej punkcie1zart. 2, 10 iart. 202 1Konstytucji,
-4) 5ust. 2i3, 6ust. 1oraz 12 1ustawy powołanej wpunkcie 1zart. 2iart. 10 Konstytucji oraz 20 Prawnokarnej konwencji korupcji,
-5) 22 ustawy powołanej 47, art.51 wzwiązku 31 3iart. 30 Konstytucji, 8 18 Konwencji ochronie praw człowieka ipodstawowych wolności oraz zpreambułą, 5, 6 7 Konwencji nr 108 Rady wy powołanej 20 22 wzwiązku 31 3Konstytucji,
-8) 40 ustawy powołanej 2, art.47 50 Konstytucji oraz 8 Konwencji ochronie praw człowieka podstawowych wolności,
-9) 43 2 ustawy dnia 29 sierpnia 1997 ochronie danych osobowych (Dz. U. 2002 Nr101, 926, ze zm.), brzmieniu nadanym przez 178 ustawy powołanej 1, art.2, 47 51 związku 31 ust.3 Konstytucji oraz preambułą 6 Konwencji nr 108 Rady Europy ochronie osób związku automatycznym przetwarzaniem danych osobowych,
-10) § 3 § 6 rozporządzenia Prezesa Rady Ministrów dnia 27 września 2006 sprawie zakresu, warunków itrybu przekazywania Centralnemu Biuru Antykorupcyjnemu informacji przez organy, służby instytucje państwowe (Dz. U. 177, poz.1310) 22 9 związku 22 ust.2 ustawy powołanej 1, a tym samym 92 oraz 47 51 ust.2wzwiązku 31 3iart. 51 5Konstytucji, 8 związku 18 Konwencji ochronie praw człowieka podstawowych wolności oraz preambułą, 5 pkt b c, 6 art.7 Konwencji nr 108 Rady Europy ochronie osób wzwiązku zautomatycznym przetwarzaniem danych osobowych, orzeka: I
-1. Art. 3 ustawy dnia 9 czerwca 2006 oCentralnym Biurze Antykorupcyjnym (Dz. U. 104, 708, 158, 1122 218, 1592, z2008r. 171, 1056 oraz z2009 18, 97) zakresie, jakim za korupcję sektorze prywatnym uznaje zachowanie jakiejkolwiek osoby niepełniącej funkcji publicznej, nie zawężając tego określenia za pomocą przesłanek szkodliwych społecznie odwzajemnień:
-a) jest niezgodny 2, 22 31 ust.3 Konstytucji Rzeczypospolitej Polskiej,
-b) jest niezgodny 7 Konwencji ochronie praw człowieka podstawowych wolności, sporządzonej Rzymie dnia 4 listopada r
-3. Art. 2 pkt lit. b, d oraz 3 ustawy powołanej wpunkcie 1:
-a) jest zgodny 2, 31 3 42 Konstytucji,
-b) jest zgodny 7 Konwencji powołanej wpunkcie 1,
-c) nie jest niezgodny 20 22 Konstytucji.
-4. Art. 2ust. 1pkt 2—5ustawy powołanej wpunkcie 1:
-a) jest zgodny 2Konstytucji,
-b) nie jest niezgodny 10 202 ust.1Konstytucji.
-5. Art. 5 2 3, 6 oraz 12 ustawy powołanej wpunkcie 1:
-a) są zgodne 2Konstytucji oraz 20 Prawnokarnej konwencji korupcji, sporządzonej Strasburgu dnia 27 stycznia 1999 (Dz. U.
-z2005 29, 249),
-b) nie są niezgodne 10 Konstytucji.
-6. Art. 22 1—3ustawy powołanej wpunkcie zakresie, jakim dopuszcza uzyskiwanie (w tym także niejawnie), gromadzenie, sprawdzanie iprzetwarzanie informacji niezbędnych do zwalczania przestępstw, wobszarze należącym do ustawowo określonych zadań Centralnego Biura Antykorupcyjnego:
-a) jest zgodny 47 związku 31 3, 51 wzwiązku 31 3iart. 30 Konstytucji,
-b) jest zgodny 8 18 Konwencji powołanej 1, jak również preambułą, 5, 6 7 Konwencji nr 108 Rady Europy oochronie osób wzwiązku zautomatycznym przetwarzaniem danych osobowych, sporządzonej Strasburgu dnia 28 stycznia 1981 (Dz. U.
-z2003 3, 25 oraz z2006 3, 15).
-7. Art. 22 4—7ustawy powołanej wpunkcie wzakresie, wjakim umożliwia Centralnemu Biuru Antykorupcyjnemu zbieranie danych wskazanych art.27 ustawy dnia 29 sierpnia 1997 oochronie danych osobowych (Dz. U. z2002 101,
-8. Art. 22 8—10 ustawy powołanej wpunkcie jest niezgodny 51 5Konstytucji.
-9. Art. 31 3 ustawy powołanej jest zgodny 2iart. 32 1Konstytucji.
-10. Art. 31 3 związku 32 33 ustawy powołanej zakresie, jakim dopuszcza czynności kontrolne niezbędne dla ochrony bezpieczeństwa państwa, porządku publicznego lub ważnego interesu publicznego:
-a) jest zgodny 22 związku 31 3 Konstytucji,
-b) nie jest niezgodny 20 Konstytucji.
-11. Art. 40 ustawy powołanej wpunkcie 1wzakresie, wjakim dopuszcza przeprowadzenie oględzin nieruchomości lub innych składników majątkowych bez określenia sposobu wykorzystywania iprzechowywania uzyskanych tą drogą danych, wszczególności dotyczących osób trzecich, niezobowiązanych do składania oświadczeń majątkowych:
-a) jest niezgodny 47 50 związku zart.31 3Konstytucji,
-b) jest niezgodny 8 Konwencji powołanej wpunkcie 1,
-c) nie jest niezgodny 2Konstytucji.
-12. Art. 43 2ustawy oochronie danych osobowych powołanej 7, brzmieniu nadanym przez 178 ustawy powołanej 1, jest zgodny 2, 47 51 związku 31 ust.3Konstytucji oraz zpreambułą iart. 6Konwencji nr 108 Rady Europy powołanej wpunkcie 6.
-13. § 3 § 6 rozporządzenia Prezesa Rady Ministrów zdnia 27 września 2006 wsprawie zakresu, warunków trybu przekazywania Centralnemu Biuru Antykorupcyjnemu informacji przez organy, służby instytucje państwowe (Dz. U. 177, poz.1310) jest niezgodny 51 5 Konstytucji, a nadto 22 9 związku 22 ust.2ustawy powołanej wpunkcie 1, 8wzwiązku 18 Konwencji powołanej oraz zpreambułą, 5—7Konwencji nr 108 Rady Europy powołanej wpunkcie 6.
-II r Janusz Niemcewicz Zbigniew Cieślak Marian Grzybowski Wojciech Hermeliński Ewa Ęętowska r r r
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Janusz Niemcewicz – przewodniczący, Zbigniew Cieślak, Marian Grzybowski – sprawozdawca, Wojciech Hermeliński, Ewa Łętowska, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem wnioskodawców oraz Sejmu, Prezesa Rady Ministrów i Prokuratora Generalnego, na rozprawie w dniu 22 czerwca 2009 r., wniosków dwóch grup posłów o zbadanie zgodności:
+1)
+ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. Nr 104, poz. 708) z art. 2, art. 7, art. 10, art. 20, art. 22, art. 30, art. 31 ust. 3, art. 42 ust. 1, art. 47, art. 50, art. 51 i art. 202 ust. 1 Konstytucji, z art. 7 ust. 1, art. 8 i art. 18 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. Nr 61, poz. 284), z art. 20 Prawnokarnej konwencji o korupcji, sporządzonej w Strasburgu dnia 27 stycznia 1999 r. (Dz. U. z 2005 r. Nr 29, poz. 249) oraz z preambułą art. 5, art. 6 i art. 7 Konwencji nr 108 Rady Europy o ochronie osób w związku z automatycznym przetwarzaniem danych osobowych, sporządzonej w Strasburgu dnia 28 stycznia 1981 r. (Dz. U. z 2003 r. Nr 3, poz. 25),
+2)
+art. 1 ust. 3 oraz art. 2 ust. 1 pkt 1 lit. b, c oraz d ustawy powołanej w punkcie 1 z art. 2, art. 20, art. 22, art. 31 ust. 3 i art. 42 ust. 1 Konstytucji oraz z art. 7 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności,
+3)
+art. 2 ust. 1 pkt 2–5 ustawy powołanej w punkcie 1 z art. 2, art. 10 i art. 202 ust. 1 Konstytucji,
+4)
+art. 5 ust. 2 i 3, art. 6 ust. 1 oraz art. 12 ust. 1 ustawy powołanej w punkcie 1 z art. 2 i art. 10 Konstytucji oraz z art. 20 Prawnokarnej konwencji o korupcji,
+5)
+art. 22 ustawy powołanej w punkcie 1 z art. 47, art. 51 w związku z art. 31 ust. 3 i art. 30 Konstytucji, z art. 8 i art. 18 Konwencji o ochronie praw człowieka i podstawowych wolności oraz z preambułą, art. 5, art. 6 i art. 7 Konwencji nr 108 Rady Europy o ochronie osób w związku z automatycznym przetwarzaniem danych osobowych,
+6)
+art. 31 ust. 3 ustawy powołanej w punkcie 1 z art. 2 i art. 32 ust. 1 Konstytucji,
+7)
+art. 31 ust. 3 w związku z art. 32 oraz art. 33 ustawy powołanej w punkcie 1 z art. 20 i art. 22 w związku z art. 31 ust. 3 Konstytucji,
+8)
+art. 40 ustawy powołanej w punkcie 1 z art. 2, art. 47 i art. 50 Konstytucji oraz z art. 8 Konwencji o ochronie praw człowieka i podstawowych wolności,
+9)
+art. 43 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, ze zm.), w brzmieniu nadanym przez art. 178 ustawy powołanej w punkcie 1, z art. 2, art. 47 i art. 51 w związku z art. 31 ust. 3 Konstytucji oraz z preambułą i art. 6 Konwencji nr 108 Rady Europy o ochronie osób w związku z automatycznym przetwarzaniem danych osobowych,
+10)
+§ 3 i § 6 ust. 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 września 2006 r. w sprawie zakresu, warunków i trybu przekazywania Centralnemu Biuru Antykorupcyjnemu informacji przez organy, służby i instytucje państwowe (Dz. U. Nr 177, poz. 1310) z art. 22 ust. 9 w związku z art. 22 ust. 2 ustawy powołanej w punkcie 1, a tym samym z art. 92 ust. 1 oraz art. 47 i art. 51 ust. 2 w związku z art. 31 ust. 3 i art. 51 ust. 5 Konstytucji, z art. 8 w związku z art. 18 Konwencji o ochronie praw człowieka i podstawowych wolności oraz z preambułą, art. 5 pkt b i c, art. 6 i art. 7 Konwencji nr 108 Rady Europy o ochronie osób w związku z automatycznym przetwarzaniem danych osobowych,
+orzeka: I
+1.
+Art. 1 ust. 3 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. Nr 104, poz. 708, Nr 158, poz. 1122 i Nr 218, poz. 1592, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 18, poz. 97) w zakresie, w jakim za korupcję w sektorze prywatnym uznaje zachowanie jakiejkolwiek osoby niepełniącej funkcji publicznej, nie zawężając tego określenia za pomocą przesłanek szkodliwych społecznie odwzajemnień:
+a)
+jest niezgodny z art. 2, art. 22 i art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej,
+b)
+jest niezgodny z art. 7 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., zmienionej następnie Protokołami nr 3, 5 i 8 oraz uzupełnionej Protokołem nr 2 (Dz. U. z 1993 r. Nr 61, poz. 284, z 1995 r. Nr 36, poz. 175, 176 i 177, z 1998 r. Nr 147, poz. 962 oraz z 2003 r. Nr 42, poz. 364),
+c)
+nie jest niezgodny z art. 20 i art. 42 ust. 1 Konstytucji.
+2.
+3.
+Art. 2 ust. 1 pkt 1 lit. b, c i d oraz ust. 3 ustawy powołanej w punkcie 1:
+a)
+jest zgodny z art. 2, art. 31 ust. 3 i art. 42 ust. 1 Konstytucji,
+b)
+jest zgodny z art. 7 ust. 1 Konwencji powołanej w punkcie 1,
+c)
+nie jest niezgodny z art. 20 i art. 22 Konstytucji.
+4.
+a)
+jest zgodny z art. 2 Konstytucji,
+b)
+nie jest niezgodny z art. 10 i art. 202 ust. 1 Konstytucji.
+5.
+Art. 5 ust. 2 i 3, art. 6 ust. 1 oraz art. 12 ust. 1 ustawy powołanej w punkcie 1:
+a)
+są zgodne z art. 2 Konstytucji oraz z art. 20 Prawnokarnej konwencji o korupcji, sporządzonej w Strasburgu dnia 27 stycznia 1999 r. (Dz. U. z 2005 r. Nr 29, poz. 249),
+b)
+nie są niezgodne z art. 10 Konstytucji.
+6.
+Art. 22 ust. 1–3 ustawy powołanej w punkcie 1 w zakresie, w jakim dopuszcza uzyskiwanie (w tym także – niejawnie), gromadzenie, sprawdzanie i przetwarzanie informacji niezbędnych do zwalczania przestępstw, w obszarze należącym do ustawowo określonych zadań Centralnego Biura Antykorupcyjnego:
+a)
+jest zgodny z art. 47 w związku z art. 31 ust. 3, art. 51 w związku z art. 31 ust. 3 i art. 30 Konstytucji,
+b)
+jest zgodny z art. 8 i art. 18 Konwencji powołanej w punkcie 1, jak również z preambułą, art. 5, art. 6 i art. 7 Konwencji nr 108 Rady Europy o ochronie osób w związku z automatycznym przetwarzaniem danych osobowych, sporządzonej w Strasburgu dnia 28 stycznia 1981 r. (Dz. U. z 2003 r. Nr 3, poz. 25 oraz z 2006 r. Nr 3, poz. 15).
+7.
+8.
+9.
+Art. 31 ust. 3 ustawy powołanej w punkcie 1 jest zgodny z art. 2 i art. 32 ust. 1 Konstytucji.
+10.
+a)
+jest zgodny z art. 22 w związku z art. 31 ust. 3 Konstytucji,
+b)
+nie jest niezgodny z art. 20 Konstytucji.
+11.
+Art. 40 ustawy powołanej w punkcie 1 w zakresie, w jakim dopuszcza przeprowadzenie oględzin nieruchomości lub innych składników majątkowych bez określenia sposobu wykorzystywania i przechowywania uzyskanych tą drogą danych, w szczególności dotyczących osób trzecich, niezobowiązanych do składania oświadczeń majątkowych:
+a)
+jest niezgodny z art. 47 i art. 50 w związku z art. 31 ust. 3 Konstytucji,
+b)
+jest niezgodny z art. 8 Konwencji powołanej w punkcie 1,
+c)
+nie jest niezgodny z art. 2 Konstytucji.
+12.
+Art. 43 ust. 2 ustawy o ochronie danych osobowych powołanej w punkcie 7, w brzmieniu nadanym przez art. 178 ustawy powołanej w punkcie 1, jest zgodny z art. 2, art. 47 i art. 51 w związku z art. 31 ust. 3 Konstytucji oraz z preambułą i art. 6 Konwencji nr 108 Rady Europy powołanej w punkcie 6.
+13.
+§ 3 i § 6 ust. 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 września 2006 r. w sprawie zakresu, warunków i trybu przekazywania Centralnemu Biuru Antykorupcyjnemu informacji przez organy, służby i instytucje państwowe (Dz. U. Nr 177, poz. 1310) jest niezgodny z art. 51 ust. 5 Konstytucji, a nadto z art. 22 ust. 9 w związku z art. 22 ust. 2 ustawy powołanej w punkcie 1, z art. 8 w związku z art. 18 Konwencji powołanej w punkcie 1 oraz z preambułą, art. 5–7 Konwencji nr 108 Rady Europy powołanej w punkcie 6. II Przepisy wymienione w części I w punktach 1, 2, 7, 8, 11 i 13 tracą moc obowiązującą z upływem 12 (dwunastu) miesięcy od dnia ogłoszenia wyroku w Dzienniku Ustaw Rzeczypospolitej Polskiej.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417 oraz z 2009 r. Nr 56, poz. 459) umorzyć postępowanie w pozostałym zakresie.
 

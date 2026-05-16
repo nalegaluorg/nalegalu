@@ -8,9 +8,10 @@ pos: 223
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# ny powietrza (Dz. U. 115, poz. 1003).
+# Wyrok Trybunału Konstytucyjnegoz dnia 19 lutego 2008 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080380223) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/223/text.pdf) |
 
-3) stosowanych tych strefach niezb´dnych Êrodkach majàcych na celu osiàgni´cie poziomów do- § 11. Rozporzàdzenie wchodzi ˝ycie po up∏ywie celowych substancji, októrych mowa wpkt 1, któ- 14 dni od dnia og∏oszenia.
-re nie pociàgajà za sobà niewspó∏miernych kosztów dotyczà szczególnoÊci g∏ównych êróde∏ Minister Ârodowiska: M. Nowicki 222 WYROK TRYBUNA¸U KONSTYTUCYJNEGO z dnia 19 lutego 2008 sygn. akt P 48/06 Trybuna∏ Konstytucyjny sk∏adzie: Miros∏aw Wyrzykowski przewodniczàcy, Miros∏aw Granat, Wojciech Hermeliƒski sprawozdawca, Marek Mazurkiewicz, Bohdan Zdziennicki, jego wniosek, obroƒcy z urz´du od „dobra wymiaru sprawiedliwoÊci”, jest zgodny z art. 2 art. 42 ust. 2 Konstytucji, orzeka:
-Art. 22 ustawy zdnia 24 sierpnia 2001 Kodeks post´powania sprawach o wykroczenia (Dz. U.
-106, poz. 1148, ze zm.) jest zgodny z art. 2 art. 42 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
-po rozpoznaniu, zudzia∏em Sejmu oraz Prokuratora Generalnego, na rozprawie dniu 19 lutego 2008r., pytania prawnego Sàdu Rejonowego wStaro- Miros∏aw Wyrzykowski gardzie Gdaƒskim, czy art. 22 ustawy z dnia 24 sierpnia 2001 Kodeks post´powania wsprawach owy- Miros∏aw Granat Wojciech Hermeliƒski kroczenia (Dz. U. 106, poz. 1148, ze zm.) wzakresie, jakim uzale˝nia ustanowienie dla obwinionego, na Marek Mazurkiewicz Bohdan Zdziennicki WYROK TRYBUNA¸U KONSTYTUCYJNEGO z dnia 19 lutego 2008 sygn. akt P 49/06 Trybuna∏ Konstytucyjny sk∏adzie: Miros∏aw Wyrzykowski, Janusz Niemcewicz przewodniczàcy, Zbigniew CieÊlak, po rozpoznaniu, zudzia∏em sàdu przedstawiajàcerozpoznania organowi rentowemu, sà zgodne z zasadà osàdzenia sprawy bez nieuzasadnionej zw∏oki, wyra˝onà art. 45 ust. 1 Konstytucji oraz zasadà rozpatrzenia sprawy rozsàdnym terminie, wyra˝onà art. 6 ust. 1 Konwencji o ochronie praw cz∏owieka podstawowych wolnoÊci, sporzàdzonej Rzymie dnia 4 listopada 1950r. (Dz.U. z1993r. Nr61, poz.284, ze zm.), waspekcie zasady demokratycznego paƒstwa prawnego isprawiedliwoÊci spo∏ecznej (art.2 Konstytucji), orzeka:
-Art. 477 14 Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 o Trybunale Konstytucyjnym (Dz. U.
-102, poz. 643, z 2000 48, poz. 552 53, poz. 638, z 2001 98, poz. 1070 oraz z 2005 169, poz. 1417) umorzyç post´powanie pozosta∏ym zakresie ze wzgl´du na niedopuszczalnoÊç wydania wyroku.
-Janusz Niemcewicz § 2 ustawy zdnia 17 listopada 1964 Kodeks post´powania cywilnego (Dz. U. 43, Zbigniew CieÊlak Maria Gintowt-Jankowicz poz. 296, ze zm.) jest zgodny zart. 45 ust. 1 wzwiàzku z art. 2 Konstytucji Rzeczypospolitej Polskiej oraz Ewa ¸´towska Miros∏aw Wyrzykowski
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Janusz Niemcewicz – przewodniczący, Zbigniew Cieślak, Maria Gintowt-Jankowicz, Ewa Łętowska – sprawozdawca, Mirosław Wyrzykowski, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem sądu przedstawiającego pytanie prawne oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 19 lutego 2008 r., pytania prawnego Sądu Okręgowego w Łodzi, czy art. 47714 § 2 i art. 47714a ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) w zakresie, w jakim pomijają prawo sądu pierwszej instancji, orzekającego w sprawach z zakresu ubezpieczeń społecznych, do uchylania zaskarżonej decyzji i przekazania sprawy do ponownego rozpoznania organowi rentowemu, są zgodne z zasadą osądzenia sprawy bez nieuzasadnionej zwłoki, wyrażoną w art. 45 ust. 1 Konstytucji oraz zasadą rozpatrzenia sprawy w rozsądnym terminie, wyrażoną w art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. Nr 61, poz. 284, ze zm.), w aspekcie zasady demokratycznego państwa prawnego i sprawiedliwości społecznej (art. 2 Konstytucji), orzeka: Art. 47714 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) jest zgodny z art. 45 ust. 1 w związku z art. 2 Konstytucji Rzeczypospolitej Polskiej oraz z art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., zmienionej następnie Protokołami nr 3, 5 i 8 oraz uzupełnionej Protokołem nr 2 (Dz. U. z 1993 r. Nr 61, poz. 284, z 1995 r. Nr 36, poz. 175, 176 i 177, z 1998 r. Nr 147, poz. 962 oraz z 2003 r. Nr 42, poz. 364). Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie w pozostałym zakresie ze względu na niedopuszczalność wydania wyroku.
 

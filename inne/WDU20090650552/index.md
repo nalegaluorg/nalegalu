@@ -8,9 +8,10 @@ pos: 552
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny wskładzie: Adam Jamróz — przewodniczący, Marian Grzybowski, Teresa Liszcz — sprawozdawca, Ewa Ęętowska, Janusz Niemcewicz, po rozpoznaniu, z udziałem skarżącego oraz Sejorzeka:
+# Wyrok Trybunału Konstytucyjnegoz dnia 20 kwietnia 2009 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090650552) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/552/text.pdf) |
 
-Art. 6ust. 1wzwiązku zart. 5ustawy zdnia 6lipca1982 r. o księgach wieczystych i hipotece (Dz. U.
-z2001 r. Nr 124, poz. 1361 iNr 125, poz. 1368, z2002r.
-Nr 169, poz. 1387, z 2003 r. Nr 42, poz. 363, z 2004 r.
-Nr172, poz. 1804 oraz z2008 r. Nr 116, poz. 731) jest zgodny z art. 21 ust. 1 i art. 64 ust. 1 i 3 Konstytucji Rzeczypospolitej Polskiej.
-Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1sierpnia 1997 r. oTrybunale Konstytucyjnym (Dz. U.
-Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz.638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r.
-mu i Prokuratora Generalnego, na rozprawie w dniu Nr169, poz. 1417) umorzyć postępowanie wpozosta20 kwietnia 2009 r., skargi konstytucyjnej Romualda łym zakresie ze względu na niedopuszczalność wydaNaniewicza o zbadanie zgodności art. 6 w związku nia wyroku.
-zart. 5ustawy zdnia 6lipca 1982 r. oksięgach wieczy- Adam Jamróz stych ihipotece (Dz. U. z2001 r. Nr 124, poz. 1361, ze zm.) z art. 21 ust. 1, art. 32 ust. 1 oraz art. 64 Marian Grzybowski Teresa Liszcz ust.1i3Konstytucji Rzeczypospolitej Polskiej, Ewa Ęętowska Janusz Niemcewicz 552 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 20 kwietnia 2009 r.
-sygn. akt SK 55/08 w w w .
-r c l .
-o g v .
-p l
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Adam Jamróz – przewodniczący, Marian Grzybowski, Teresa Liszcz – sprawozdawca, Ewa Łętowska, Janusz Niemcewicz, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem skarżącego oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 20 kwietnia 2009 r., skargi konstytucyjnej Romualda Naniewicza o zbadanie zgodności art. 6 w związku z art. 5 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2001 r. Nr 124, poz. 1361, ze zm.) z art. 21 ust. 1, art. 32 ust. 1 oraz art. 64 ust. 1 i 3 Konstytucji Rzeczypospolitej Polskiej, orzeka: Art. 6 ust. 1 w związku z art. 5 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2001 r. Nr 124, poz. 1361 i Nr 125, poz. 1368, z 2002 r. Nr 169, poz. 1387, z 2003 r. Nr 42, poz. 363, z 2004 r. Nr 172, poz. 1804 oraz z 2008 r. Nr 116, poz. 731) jest zgodny z art. 21 ust. 1 i art. 64 ust. 1 i 3 Konstytucji Rzeczypospolitej Polskiej. Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie w pozostałym zakresie ze względu na niedopuszczalność wydania wyroku.
 

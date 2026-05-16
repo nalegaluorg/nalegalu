@@ -8,9 +8,10 @@ pos: 331
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# • ..
+# Ustawa z dnia 26 lipca 1991 r. o zmianie ustawy o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,28 +25,24 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910750331) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/331/text.pdf) |
 
-Dziennik Ustaw Nr 75 1042 Poz. 331 i 332 331
-USTAWA z dnia 26 lipca 1991 r.
-o zmianie ustawy o zwrocie uzyskanych kosztem Skarbu lub innych osób prawnych.
+**Art. 1.** W ustawie z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych (Dz. U. Nr 44, poz. 255) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 21 czerwca 1990 r. o zwrocie uzyskanych kosztem Skarbu lub innych osób prawnych (Dz. U. Nr 44, poz.
+**Art. 2.**
 
-**Art. 2.** Ustawa wchodzi w z dniem Prezydent Rzeczypospolitej Polskiej: L. USTAWA z dnia 26 lipca 1991 r . o warunkach wykonywania transportu drogowego. 1 Przepisy ogólne
+1. Z żądaniami przewidzianymi w art. 1, w terminie do dnia 31 grudnia 1992 r., może wystąpić do sądu:
 
-**Art. 1.**
+- **1)** osoba prawna, która poniosła stratę lub jej organ założycielski,
+- **2)** rada pracownicza,
+- **3)** związek zawodowy,
+- **4)** organ samorządu terytorialnego,
+- **5)** prokurator.
 
-1. Ustawa warunki wykonywania przez krajowe podmioty gospodarcze zarob kowego transportu drogowego i nieza robkowych przewozów dla potrzeb podmiotów pojazdami samochodowymi zarejestrowanymi w kraju oraz wykonywania przewozów drogowych przez zagraniczne podmioty gospodarcze pojazdami samo chodowymi zarejestrowanymi za
+2. Do związków zawodowych i organów samorządu terytorialnego występujących do sądu z żądaniami, o których mowa w art. 1, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o prokuratorze.
 
-2. Przez w ust. 1 transport drogowy" lub przewóz drogo wy" rozumie przemieszczanie osób lub po drogach publicznych przy pomocy pojazdów samochodo wych, w czasie którego przekroczenie przez pojazd granicy
+3. Przed wystąpieniem do sądu podmioty wymienione w ust. 1 mogą zwrócić się do właściwych organów państwowych o udostępnienie materiałów, informacji i innych danych dotyczących spraw, o których mowa w art. 1. ” ;
 
-**Art. 2.** Przepisy ustawy nie umów narodowych w za kresie transportu drogowego.
+- **3)** po art. 2 dodaje się art. 2a w brzmieniu: „ Podmioty wymienione w art. 2 ust. 1 pkt 1–4 mogą także zwrócić się do prokuratora o wystąpienie z żądaniami, o których mowa w art. 1. ” ;
+- **4)** po art. 3 dodaje się art. 3a w brzmieniu: „
 
-**Art. 3.** Przepisów ustawy nie stosuje do przewozu wykonywanego:
-
-**Art. 4.** Przewoźnik jest dokumenty w ustawie i w umowach Rzeczpo w przewozach drogo wych i je na uprawnionych organów kontrolnych na granicy. 2 transport drogowy wykonywany pojazdami samochodowymi zarejestrowanymi w kraju
-
-**Art. 5.**
-
-1. gospodarcza na wy konywaniu zarobkowego transportu drogowego pojazdami samochodowymi zarejestrowanymi w kraju podlega koncesjonowaniu.
-
+**Art. 3a.** Podmioty wymienione w art. 2 ust. 1 pkt 1–4 nie mają obowiązku uiszczania opłat sądowych. ” . Ustawa wchodzi w życie z dniem ogłoszenia.
 

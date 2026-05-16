@@ -8,11 +8,10 @@ pos: 1985
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 1 grudnia 2016 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw
-
-*USTAWA dnia 1 grudnia 2016 zmianie ustawy dochodach jednostek samorządu terytorialnego oraz niektórych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -26,11 +25,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001985) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1985/text.pdf) |
 
-**Art. 1.** W ustawie dnia 13 listopada 2003 dochodach jednostek samorządu terytorialnego (Dz. U. 2016 poz. 198 i 1609) wprowadza si ę nast ę puj ą ce zmiany: art. 28:
+**Art. 1.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2016 r. poz. 198 i 1609) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 13 czerwca 2013 zmianie ustawy systemie oświaty oraz niektórych ustaw (Dz. U. poz. 827, 2014 poz. 7 i 811, 2015 poz. 357 oraz 2016 poz. 35) art. 16 1 otrzymuje brzmienie: „1. Ustala następujący maksymalny limit wydatków budżetu państwa przeznaczonych na dotację celową na dofinansowanie zadań gmin zakresie wychowania przedszkolnego dzieci wieku lat 5: 2017 1374 mln zł; 2018 1404 mln zł;
+**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943 i 1954) wprowadza się następujące zmiany:
 
-**Art. 5.** Przepisy ustaw zmienianych art. 1–3 brzmieniu nadanym niniejszą ustawą stosuje po raz pierwszy do: ustalenia na rok 2017 części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego; ustawy budżetowej i uchwał budżetowych na rok 2017.
+**Art. 3.** W ustawie z dnia 13 czerwca 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 827, z 2014 r. poz. 7 i 811, z 2015 r. poz. 357 oraz z 2016 r. poz. 35) w art. 16 ust. 1 otrzymuje brzmienie: „ 1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na dotację celową na dofinansowanie zadań gmin w zakresie wychowania przedszkolnego dzieci w wieku do lat 5:
 
-**Art. 6.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** W ustawie z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1010) w art. 1:
+
+**Art. 5.** Przepisy ustaw zmienianych w art. 1–3 w brzmieniu nadanym niniejszą ustawą stosuje się po raz pierwszy do:
+
+**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

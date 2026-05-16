@@ -1,0 +1,145 @@
+---
+title: "Obwieszczenie Prezesa Rady Ministrów z dnia 14 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin"
+address: WDU20220002444
+eli: DU/2022/2444
+publisher: DU
+year: 2022
+pos: 2444
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Obwieszczenie Prezesa Rady Ministrówz dnia 14 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2444 |
+| ISAP | WDU20220002444 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-11-14 |
+| Data wydania | 2022-11-28 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002444) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2444/text.pdf) |
+
+Treść obwieszczenia
+Załącznik – Rozporządzenie Rady Ministrów z dnia 24 lipca 2017 r. w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 24 lipca 2017 r. w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 1427), z uwzględnieniem zmian wprowadzonych:
+1)
+rozporządzeniem Rady Ministrów z dnia 27 grudnia 2017 r. zmieniającym rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2493);
+2)
+rozporządzeniem Rady Ministrów z dnia 27 grudnia 2018 r. zmieniającym rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2463);
+3)
+rozporządzeniem Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającym rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2510).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1)
+§ 2 rozporządzenia Rady Ministrów z dnia 27 grudnia 2017 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2493), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2017 r.
+” ;
+2)
+§ 2 rozporządzenia Rady Ministrów z dnia 27 grudnia 2018 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2463), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2018 r.
+” ;
+3)
+§ 2 rozporządzenia Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2510), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r.
+” .
+Załącznik – Rozporządzenie Rady Ministrów z dnia 24 lipca 2017 r. w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin
+Na podstawie art. 4 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2022 r. poz. 559, 583, 1005, 1079 i 1561) zarządza się, co następuje:
+§ 1.
+Z dniem 1 stycznia 2018 r. ustala się granice następujących gmin:
+1)
+w województwie kujawsko-pomorskim, w powiecie włocławskim – gminy Choceń i gminy Włocławek przez włączenie do dotychczasowego obszaru gminy Choceń części obszaru obrębu ewidencyjnego Łagiewniki, to jest działki ewidencyjnej nr 16/1, o powierzchni 0,13 ha, z gminy Włocławek;
+2)
+w województwie mazowieckim:
+a)
+miasta na prawach powiatu Ostrołęka i w powiecie ostrołęckim – gminy Rzekuń przez włączenie do dotychczasowego obszaru miasta na prawach powiatu Ostrołęka części obszaru obrębu ewidencyjnego Nowa Wieś Wschodnia, to jest działek ewidencyjnych nr 1/1, 1/2, 2/1–2/5, 3, 4/3–4/7, 5/2, 5/5, 5/6, 5/8–5/15, 5/17–5/20, 6, 7/1–7/3, 8–11, 12/1–12/3, 13/1–13/4, 14, 15/1, 15/2, 16/1, 16/2, 17/3, 17/5, 18/1, 18/2, 18/6, 19/1, 19/2, 20/1–20/3, 21/1–21/5, 22–30, 31/1, 31/2, 32, 33/2–33/4, 34/1, 35/1, 36/1, 37/2–37/10, 38, 39, 40/2–40/8, 41, 42/1, 42/2–42/6, 42/8–42/13, 42/15, 42/16, 43/2, 43/5, 43/6, 43/8–43/16, 44/1, 44/2, 45/3–45/10, 46–60, 61/1, 61/2, 62/1, 62/2, 63–71, 72/2, 73–75, 76/4, 76/6, 77, 78/2, 79, 80/3, 80/4, 81, 82/2, 83, 84/2, 85, 86/2, 87, 88/2, 89, 90/2, 91, 92/2, 94–112, 113/1, 113/2, 114/1, 114/2, 115, 116, 117/1, 117/2, 118–130, 131/4, 132/4, 133/4, 134/4, 135/7, 135/9, 136/5, 137/4, 138/4, 139/2, 140/4, 140/6, 141/2, 142/2, 142/4, 143/2, 144/4, 145/4, 146/4, 147/4, 148–156, 157/2, 158/2, 159, 160/2, 161/2, 162/2, 163/2, 164/2, 165/2, 166, 415–419, 421/4, 422/2, 423, 439–450, 452 i 453, o łącznej powierzchni 207,99 ha, części obszaru obrębu ewidencyjnego Goworki, to jest działek ewidencyjnych nr 1–7, 8/1, 8/2, 9–11, 12/1–12/3, 13/1, 13/2, 14–16, 17/2–17/4, 18/1, 18/3, 18/4, 19/1, 19/2, 20/1, 20/2, 21, 22/3, 22/7–22/12, 23, 24, 25/1, 25/2, 26–32, 33/2, 34/2, 35–37, 38/2, 39, 102 i 152, o łącznej powierzchni 79,09 ha, części obszaru obrębu ewidencyjnego Ławy, to jest działek ewidencyjnych nr 1/3–1/6, 1/8, 1/9, 2/3–2/9, 3/9, 3/11–3/17, 3/19–3/22, 4/1, 5/2, 5/83, 6/1, 6/7–6/10, 7/3, 7/5, 7/6, 8/2–8/4, 8/8, 8/10, 8/11, 9–19, 20/1, 21/1, 22/1, 23/1, 24/1, 25/5, 26/5, 27/5, 28/7, 29/5, 30/4, 31/5, 32/4, 33/4, 34/4, 35/4, 36/2, 37/2, 38/2, 39/2 i 40/2, o łącznej powierzchni 195,67 ha, z gminy Rzekuń,
+b)
+w powiecie ostrołęckim – gminy Czarnia i gminy Myszyniec przez włączenie do dotychczasowego obszaru gminy Czarnia części obszaru obrębu ewidencyjnego Olszyny, to jest działek ewidencyjnych nr 163/1, 163/2, 164–171, 172/1, 172/2, 173/1, 173/2, 174–191, 192/1, 192/2, 193, 194, 196–198, 199/1, 199/2, 200–218, 220–248, 252, 253, 254/1, 254/2, 256, 1767 i 1777 oraz części działki ewidencyjnej nr 195 (woda płynąca), o łącznej powierzchni 98,70 ha, części obszaru obrębu ewidencyjnego Charciabałda, to jest działki ewidencyjnej nr 3201, o powierzchni 33,53 ha, z gminy Myszyniec. Część działki ewidencyjnej nr 195 jest wyodrębniona przez linię biegnącą od punktu granicznego należącego do działek ewidencyjnych nr 256 i 258 oznaczonego identyfikatorem ewidencyjnym 3244 do punktu granicznego należącego do działek ewidencyjnych nr 255 i 257 oznaczonego identyfikatorem ewidencyjnym 3214;
+3)
+w województwie śląskim, w powiecie zawierciańskim – gminy Ogrodzieniec i gminy Pilica przez włączenie do dotychczasowego obszaru gminy Ogrodzieniec części obszaru obrębu ewidencyjnego Biskupice, to jest działek ewidencyjnych nr 431, 432, 433/1, 433/2, 452, 453, 459, 460/1, 460/2, 465, 466, 605/2–605/5 i 606 oraz części działki nr 550 (droga publiczna), o łącznej powierzchni 11,30 ha, z gminy Pilica. W południowym narożniku działki nr 452 będącym punktem granicznym oznaczonym w ewidencji gruntów i budynków identyfikatorem 1951 projektowana linia graniczna przecina działkę drogową nr 550 pod kątem prostym i łączy się z granicą działki nr 584 na linii wyznaczonej przez jej punkty graniczne oznaczone w ewidencji gruntów i budynków identyfikatorami 1946 i 206;
+4)
+w województwie wielkopolskim, w powiecie konińskim – gminy Stare Miasto i miasta na prawach powiatu Konin przez włączenie do dotychczasowego obszaru gminy Stare Miasto części obszaru obrębu ewidencyjnego Przydziałki, to jest działek ewidencyjnych nr 85/29, 85/32, 563/2 i 564/4, o łącznej powierzchni 0,15 ha oraz części obszaru obrębu ewidencyjnego Pawłówek, to jest działek ewidencyjnych nr 308/1, 328/4, 328/5, 329/4, 329/5, 330/5, 333/11, 333/13 i 519/1, o łącznej powierzchni 3,76 ha, z miasta na prawach powiatu Konin.
+§ 2.
+Z dniem 1 stycznia 2019 r. w województwie wielkopolskim ustala się granice miasta na prawach powiatu Konin i w powiecie konińskim – gminy Stare Miasto przez włączenie do dotychczasowego obszaru miasta na prawach powiatu Konin części obszaru obrębu ewidencyjnego Rumin, to jest działek ewidencyjnych nr 3/1, 3/10–3/15, 4/2, 744/1–744/3, 798/1, 799, 807/1–807/3, 808/1, 809/3–809/5 i 967/3, o łącznej powierzchni 14,56 ha oraz części obszaru obrębu ewidencyjnego Żychlin, to jest części działki ewidencyjnej nr 435/1 (droga publiczna), o powierzchni 0,12 ha, z gminy Stare Miasto. Linia podziału działki nr 435/1 przebiega od punktu granicznego, należącego do działek ewidencyjnych nr 1590, obręb Wilków, miasto Konin oraz nr 435/1, obręb Żychlin, gmina Stare Miasto, oznaczonego w ewidencji gruntów i budynków identyfikatorem P.3062.2540 do punktu załamania zmienionej granicy, leżącego na granicy działek ewidencyjnych nr 435/1 i 398/1 położonych w obrębie Żychlin, gmina Stare Miasto, określonego w układzie współrzędnych płaskich prostokątnych PL-2000 współrzędnymi X: 5783305,74 Y: 6518389,08.
+§ 3.
+Z dniem 1 stycznia 2018 r. nadaje się status miasta miejscowościom:
+1)
+Józefów nad Wisłą – w gminie Józefów nad Wisłą, w powiecie opolskim, w województwie lubelskim;
+2)
+Otyń – w gminie Otyń, w powiecie nowosolskim, w województwie lubuskim;
+3)
+(uchylony);
+4)
+Sanniki – w gminie Sanniki, w powiecie gostynińskim, w województwie mazowieckim;
+5)
+Tułowice – w gminie Tułowice, w powiecie opolskim, w województwie opolskim;
+6)
+Wiślica – w gminie Wiślica, w powiecie buskim, w województwie świętokrzyskim;
+7)
+Łagów – w gminie Łagów, w powiecie kieleckim, w województwie świętokrzyskim;
+8)
+Radoszyce – w gminie Radoszyce, w powiecie koneckim, w województwie świętokrzyskim.
+§ 3a.
+(uchylony).
+§ 4.
+Z dniem 1 stycznia 2018 r. ustala się granice następujących miast:
+1)
+w województwie lubelskim, w powiecie opolskim, w gminie Józefów nad Wisłą – miasta Józefów nad Wisłą obejmujące obszar obrębu ewidencyjnego Józefów nad Wisłą o powierzchni 365,29 ha, z gminy Józefów nad Wisłą;
+2)
+w województwie lubuskim, w powiecie nowosolskim, w gminie Otyń – miasta Otyń obejmujące obszar obrębu ewidencyjnego Otyń o powierzchni 786,46 ha, z gminy Otyń;
+3)
+(uchylony);
+4)
+w województwie mazowieckim, w powiecie gostynińskim, w gminie Sanniki – miasta Sanniki obejmujące obszar obrębu ewidencyjnego Sanniki o powierzchni 1176,02 ha, z gminy Sanniki;
+5)
+w województwie opolskim:
+a)
+w powiecie nyskim, w gminie Otmuchów – miasta Otmuchów przez włączenie do dotychczasowego obszaru miasta obszaru obrębu ewidencyjnego Sarnowice o powierzchni 302,56 ha, obszaru obrębu ewidencyjnego Śliwice o powierzchni 475,38 ha, obszaru obrębu ewidencyjnego Nieradowice o powierzchni 382,30 ha, obszaru obrębu ewidencyjnego Wójcice o powierzchni 1011,48 ha, z gminy Otmuchów,
+b)
+w powiecie opolskim, w gminie Tułowice – miasta Tułowice obejmujące część obszaru obrębu ewidencyjnego Tułowice, określonego na: arkuszu mapy nr 1 – działki ewidencyjne nr 1/187, 2–15, 16/1, 17, 19–25, 27/1, 29–45, 46/1, 46/2, 47–49, 50/1, 50/2, 51–55, 56/1, 56/2, 57–63, 64/1–64/3, 65–94, 95/1, 95/2, 96–107, 109/1, 111–114, 116, 117/1, 120, 121/1, 123/1, 124, 125/1, 125/2, 126/2, 126/4–126/6, 127/2, 127/4–127/6, 128/10–128/12, 129/6, 129/8, 129/11, 129/12, 130/14, 130/15, 130/21, 130/22, 130/24, 130/28, 130/31, 130/35, 130/39, 130/40, 130/47, 130/50, 130/54, 130/55, 130/64, 130/65, 130/67–130/69, 130/71–130/77, 130/79, 130/81, 130/82, 130/86, 130/88–130/91, 130/93–130/118, 130/120, 130/121, 131–134, 135/2–135/4, 135/9, 135/11, 135/13, 135/15–135/17, 135/20, 135/22–135/25, 135/28, 135/32, 135/34–135/45, 135/48–135/57, 136/8, 136/9, 137/11, 137/12, 138/1, 138/2, 139/2–139/4, 140, 141/1, 141/2, 142–148, 198, 200–203, 204/1, 204/2, 205–213, 214/1, 215, 216/1, 216/2, 217–226, 227/1, 227/2, 228–230, 231/1, 231/2, 232/1, 232/2, 232/6, 232/8–232/12, 233, 235/1, 235/5, 235/7, 235/8, 235/10–235/15, 236, 237/1, 237/2, 238/1, 238/4, 238/5, 238/7, 238/9–238/12, 239/1, 239/2, 240–247, 248/2–248/4, 249/1, 249/2, 250/1, 250/2, 251, 252/1, 252/2, 253–261, 262/1, 263–296, 1116, 1118–1121, 1122/2–1122/4, 1123, 1124, 1125/1, 1125/2 i 1126, arkuszu mapy nr 2 – działki ewidencyjne nr 1/4, 1/15, 1/16, 1/18–1/22, 1/27, 1/28, 8/1, 297–310, 311/1, 311/2, 313–319, 321–362, 363/1–363/6, 364, 365/2–365/4, 366–371, 372/1–372/3, 373–376, 377/2–377/4, 378, 379, 380/1, 381, 382/1–382/3, 383, 384/2–384/4, 385/1, 385/2, 386–390, 391/1, 391/2, 392–402, 403/1–403/4, 404, 405, 406/1, 406/2, 407, 408/1–408/6, 408/8–408/18, 409–414, 415/4, 415/5, 416/2, 417–432, 433/1–433/3, 434/1, 434/2, 435–479, 481–486, 487/1, 487/2, 488, 489/1, 490/1, 490/3, 490/5, 490/7, 490/8, 490/10, 490/11, 491/3, 491/6, 491/8, 492/5, 492/8, 492/11, 493/6, 493/10, 494/2, 497/2, 497/4–497/6, 500/5, 500/11, 500/13–500/15, 501/3, 501/9, 502/3, 503, 508/1, 508/2–508/22, 508/24, 508/25, 509/1, 509/2, 509/4–509/6, 510, 511/1, 511/2, 511/4, 511/7–511/15, 512/1, 512/2, 513/3–513/5, 514, 515/1, 515/2, 517, 518/1, 518/2, 519–521, 523–541, 543–546, 548–557, 558/1, 558/2, 559–568, 570–574, 575/1, 575/2, 576–582, 583/2–583/4, 583/6–583/9, 584, 585/2–585/4, 586, 587/1–587/3, 588–592, 593/1–593/3, 594, 595, 596/2–596/4, 597/1, 597/2, 598, 599/1, 599/3, 599/4, 600/1, 600/2, 601, 602, 603/2, 603/3, 603/5–603/7, 604/1, 604/3, 604/4, 605/1, 605/2, 606/1, 606/2, 607, 608, 609/1, 609/2, 610/1, 610/2, 611/2, 611/4, 611/5, 611/8–611/13, 611/15, 611/16, 612, 613/1–613/3, 614–621, 622/1, 622/2, 623, 624/1–624/4, 627, 628, 629/1, 629/2, 630–632, 633/6–633/9, 633/11, 633/12, 634–639, 640/2, 640/4–640/28, 641–645, 646/1, 646/2, 647–650, 651/1, 651/2, 652, 653, 654/2–654/4, 655–660, 661/1, 661/2, 662/1–662/3, 662/5, 662/6, 663/2, 663/5–663/9, 664, 665/2–665/6, 666/1, 666/3–666/8, 668–672, 674/1–674/3, 678, 680/1–680/3, 681/1–681/5, 682/1, 683, 685, 686, 687/1, 687/2, 688–695, 696/1, 697–699, 700/2–700/6, 701, 702/1, 702/2, 702/4, 702/5, 703/1, 703/2, 704/1–704/3, 704/5–704/7, 706/1, 706/2, 707, 708/1–708/4, 709–711, 712/2–712/4, 713/1, 714/1–714/3, 715/1–715/4, 716/1, 716/2, 717–722, 723/1–723/17, 724, 725/2–725/13, 731/2, 737, 738, 739/1, 739/2, 740, 741, 742/1, 742/2, 743/1, 743/2, 744–746, 747/1, 747/2, 748/3, 750/4, 750/5, 751/7, 751/8, 751/11–751/14, 752/2, 752/8–752/14, 753/4–753/7, 753/10–753/14, 753/21–753/23, 753/27–753/33, 754/2, 754/3, 754/9, 754/11–754/13, 755/3, 755/4, 755/6, 755/7, 756, 757/1, 757/2, 758/1, 758/2, 759/3–759/5, 760, 761, 762/1, 762/2, 763–768, 769/1, 769/2, 770–773, 774/1, 774/2, 775/2–775/4, 776, 777/1–777/4, 778, 779, 780/1, 780/2, 781/1, 781/3–781/9, 782/1–782/6, 783–787, 788/1–788/4, 789/1, 789/2, 790/3, 790/5, 791/3, 791/4, 792/2, 792/6, 793/4, 794/3–794/6, 795/1, 795/2, 796/1, 796/2, 797/3, 797/6–797/8, 798/1, 798/3, 798/4, 799/3, 799/5, 800/2–800/9, 800/12–800/18, 801/2, 801/4, 801/6, 802/1, 802/4, 802/5, 802/8, 803/4–803/6, 803/9–803/12, 804/1–804/3, 806/1–806/19, 807/2–807/13, 808/2, 809, 810/1, 811–819, 820/1–820/3, 821–824, 826/1, 826/2, 827/1, 827/2, 828–833, 834/1, 834/2, 835, 836/1, 836/2, 838, 839, 840/2, 841/2, 842, 843/2, 843/3, 844/2–844/4, 845/2, 845/4, 845/5, 846/3, 846/5, 846/6, 847, 848/1, 849/2, 849/4, 849/5, 849/8–849/11, 850–852, 853/1–853/3, 854–857, 859, 860/1, 860/2, 861/1, 861/2, 862/1, 862/2, 863/1, 863/2, 864–874, 875/2, 876/2, 877/2, 879, 880/3, 880/4, 880/6, 880/8, 880/10–880/13, 881–886, 888, 889, 890/1, 890/2, 891–905, 906/1, 906/2, 907–914, 915/2–915/5, 915/7, 915/8, 938–944, 945/1, 945/3–945/5, 947–1006, 1009, 1010/2–1010/6, 1011, 1012/1–1012/5, 1013/1–1013/10, 1014, 1015/2–1015/4, 1016–1077, 1080–1111, 1113–1115, 1116/1, 1116/2, 1116/4–1116/6, 1117 i 1127–1131, arkuszu mapy nr 3 – działki ewidencyjne nr 1/9–1/13, 1/23–1/26, 2/1–2/3, 7, 9–11, 17–20, 21/1, 625/1, 625/3 i 625/4, o łącznej powierzchni 923,38 ha, z gminy Tułowice;
+6)
+w województwie świętokrzyskim:
+a)
+w powiecie buskim, w gminie Wiślica – miasta Wiślica obejmujące obszar obrębu ewidencyjnego Wiślica o powierzchni 470,91 ha, z gminy Wiślica,
+b)
+w powiecie kieleckim, w gminie Łagów – miasta Łagów obejmujące obszar obrębu ewidencyjnego Łagów o powierzchni 821,91 ha, z gminy Łagów,
+c)
+w powiecie koneckim, w gminie Radoszyce – miasta Radoszyce obejmujące obszar obrębu ewidencyjnego Radoszyce o powierzchni 1716,89 ha, z gminy Radoszyce;
+7)
+w województwie wielkopolskim:
+a)
+w powiecie jarocińskim, w gminie Jarocin – miasta Jarocin przez włączenie do dotychczasowego obszaru miasta części obszaru obrębu ewidencyjnego Cielcza, to jest działek ewidencyjnych nr 1462/2, 1462/4, 1462/7, 1462/8, 1462/11, 1462/13, 1462/15, 1462/18–1462/32, 1462/34, 1462/36–1462/214, 1463, 1467/4, 1479 i 1480/2–1480/5, o łącznej powierzchni 42,78 ha oraz części obszaru obrębu ewidencyjnego Roszków, to jest działki ewidencyjnej nr 8236/6, o powierzchni 1,55 ha, z gminy Jarocin,
+b)
+w powiecie średzkim, w gminie Środa Wielkopolska – miasta Środa Wielkopolska przez włączenie do dotychczasowego obszaru miasta części obszaru obrębu ewidencyjnego Kijewo, to jest działek ewidencyjnych nr 25, 26, 27/1, 27/2, 27/4, 27/5, 30/1, 30/4, 30/6–30/8, 30/10, 30/11, 31/1, 31/4–31/6, 31/11, 31/12, 32/1, 32/4, 32/6, 32/8, 32/10, 32/12–32/16, 33, 36–38, 39/1, 39/2, 40/1, 40/2, 41/1, 41/4, 41/6, 41/8, 41/9, 41/11, 41/13, 41/14, 41/17–41/32, 42, 43/1, 43/4–43/6, 44/2–44/4, 45, 46, 47/2–47/7, 48/1, 48/3, 49/1, 49/3, 49/5, 50/1, 50/3, 50/5, 51/2, 51/3, 51/5, 52/3–52/5, 52/7, 54, 55, 56/1, 56/2, 57/1, 57/2, 57/4, 57/5, 58/1, 58/3–58/5, 59/1–59/3, 60/1–60/3, 61/1–61/3, 62/1–62/3, 63/1–63/3, 64/1, 64/2, 65/1, 65/3, 65/4, 66/1, 67–74, 75/1, 75/2, 76/1, 76/3–76/6, 77/1, 77/2, 78/1, 78/2, 79, 80/1, 80/2, 81–83, 84/1, 85/1, 85/2, 123–140, 141/1, 142/2, 142/3, 143–146, 161/1–161/3, 162, 164–168, 169/1, 170 i 276, o łącznej powierzchni 202,17 ha, z gminy Środa Wielkopolska;
+8)
+w województwie zachodniopomorskim, w powiecie wałeckim, w gminie Mirosławiec – miasta Mirosławiec przez włączenie do dotychczasowego obszaru miasta części obszaru obrębu ewidencyjnego Mirosławiec 34, to jest działek ewidencyjnych nr 21/5, 21/8, 21/9, 21/11, 21/27–21/41, 23, 558/1, 558/2, 558/4, 558/5, 558/8–558/32, 559, 560, 561/2, 694/1–694/12, 694/15–694/21, 694/23, 694/24, 694/27–694/29 i 696, o łącznej powierzchni 9,04 ha, z gminy Mirosławiec.
+§ 4a.
+(uchylony).
+§ 5.
+Z dniem 1 stycznia 2018 r. zmienia się nazwę gminy Słupia (Konecka), w województwie świętokrzyskim, w powiecie koneckim, na nazwę gmina Słupia Konecka.
+§ 6.
+Z dniem 1 stycznia 2018 r. zmienia się siedziby władz następujących gmin:
+1)
+w województwie łódzkim, w powiecie wieluńskim siedzibę władz gminy Biała z Biała na Biała Druga;
+2)
+w województwie pomorskim, w powiecie gdańskim siedzibę władz gminy Pruszcz Gdański z Pruszcz Gdański na Juszkowo.
+§ 7.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
+1)
+§ 2, który wchodzi w życie z dniem 1 stycznia 2019 r.;
+2)
+(uchylony).
+

@@ -8,9 +8,10 @@ pos: 1129
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 103 — 7634 — Poz. 1129 i 1130 Trybunał Konstytucyjny wskładzie: Andrzej Mączyński — przewodniczący, Jerzy Ciemniewski, Zdzisław Czeszejko-Sochacki, Biruta Lewaszkiewicz-Petrykowska — sprawozdawca, Jadwiga Skórzewska-Ęosiak, poz. 1314 oraz z 2001 r. Nr 85, poz. 924) są zgodne z art. 2 i art. 42 ust. 1 i 3 Konstytucji Rzeczypospolitej Polskiej.
+# Wyrok Trybunału Konstytucyjnegoz dnia 11 września 2001 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011031129) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1129/text.pdf) |
 
-2. Art. 131 ust. 5 ustawy powołanej wpkt 1 nie jest niezgodny z art. 45 ust. 1 i art. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
-3. Art. 135 ust. 4 ustawy powołanej w pkt 1, w brzmieniu obowiązującym do dnia wejścia w życie ustawy zdnia 20 lipca 2001 r. ozmianie ustawy oszkolnictwie wyższym, ustawy o wyższych szkołach zawodowych oraz ozmianie niektórych innych ustaw (Dz. U.
-po rozpoznaniu w dniu 11 września 2001 r. na roz- Nr 85, poz. 924), w zakresie, w jakim wyłącza możliprawie skargi konstytucyjnej Zofii Szychowskiej, wość odwołania do sądu od prawomocnego orzeczezudziałem umocowanych przedstawicieli uczestników nia komisji dyscyplinarnej przy Radzie Głównej Szkolpostępowania: Sejmu Rzeczypospolitej Polskiej, Rady nictwa Wyższego, jest niezgodny z art. 45 ust. 1 Ministrów, Rzecznika Praw Obywatelskich oraz Proku- iart.77 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
-ratora Generalnego, dotyczącej niezgodności: — art. 126, art. 127 ust. 1 pkt 3, art. 129 ust. 1 4. § 13 ust. 1 i§ 37 ust. 2 pkt 1 rozporządzenia Rady pkt1ai2austawy zdnia 12 września 1990 r. oszkol- Ministrów zdnia 23 paêdziernika 1991 r. wsprawie ponictwie wyższym (Dz. U. Nr 65, poz. 385) z art. 2, stępowania dyscyplinarnego wobec nauczycieli akadeart.42 ust. 1 i3 Konstytucji, mickich (Dz. U. Nr 99, poz. 440) nie są niezgodne — § 13 ust. 1, § 37 ust. 2 pkt 1 rozporządzenia Rady Mi- zart. 42 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
-nistrów z dnia 23 paêdziernika 1991 r. w sprawie Ponadto postanawia: postępowania dyscyplinarnego wobec nauczycieli akademickich (Dz. U. Nr 99, poz. 440) zart. 42 ust.3 wniosek Rzecznika Praw Obywatelskich, rozszerzaKonstytucji, jący zakres skargi konstytucyjnej ozbadanie zgodności — art. 131 ust. 5, art. 135 ust. 4 ustawy zdnia 12 wrze- art. 135 ust. 1—3 ustawy z dnia 12 września 1990 r.
-śnia 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, o szkolnictwie wyższym w brzmieniu obowiązującym poz. 385) zart. 45 ust. 1 iart. 77 ust. 2 Konstytucji, do dnia wejścia w życie ustawy z dnia 20 lipca 2001 r.
-o zmianie ustawy o szkolnictwie wyższym, ustawy orzeka: o wyższych szkołach zawodowych oraz o zmianie niektórych innych ustaw (Dz. U. Nr 85, poz. 924) oraz zgod1. Art. 126, art. 127 ust. 1 pkt 3, art. 129 ust. 1 pkt 1 ności § 51—55 rozporządzenia Rady Ministrów z dnia lit. a) i pkt 2 lit. a) ustawy z dnia 12 września 1990 r. 23 paêdziernika 1991 r. w sprawie postępowania dysoszkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z1991r. cyplinarnego wobec nauczycieli akademickich (Dz. U.
-Nr 104, poz. 450, z 1992 r. Nr 54, poz. 254 i Nr 63, Nr 99, poz. 440) zart. 32 ust. 1 Konstytucji, pozostawić poz.314, z1994 r. Nr 1, poz. 3, Nr43, poz.163, Nr 105, bez rozpoznania.
-poz. 509 i Nr 121, poz. 591, z1996r. Nr 5, poz. 34 i Nr24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Andrzej Mączyński Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, Jerzy Ciemniewski Zdzisław Czeszejko-Sochacki z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, Biruta Lewaszkiewicz- Jadwiga Skórzewska-Ęosiak poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, -Petrykowska 1129 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 11 września 2001 r.
-sygn. akt SK. 17/2000.
-1130 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 14 września 2001 r.
-sygn. akt SK.11/2000.
-Trybunał Konstytucyjny wskładzie: Stefan J. Jaworski, Jerzy Ciemniewski — przewodniczący, Wiesław Johann,
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Mączyński – przewodniczący, Jerzy Ciemniewski, Zdzisław Czeszejko-Sochacki, Biruta Lewaszkiewicz-Petrykowska – sprawozdawca, Jadwiga Skórzewska-Łosiak, protokolant: Lidia Banaszkiewicz, po rozpoznaniu w dniu 11 września 2001 r. na rozprawie skargi konstytucyjnej Zofii Szychowskiej, z udziałem umocowanych przedstawicieli uczestników postępowania: Sejmu Rzeczypospolitej Polskiej, Rady Ministrów, Rzecznika Praw Obywatelskich oraz Prokuratora Generalnego, dotyczącej niezgodności:
+– art. 126, art. 127 ust. 1 pkt 3, art. 129 ust. 1 pkt 1a i 2a ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385) z art. 2, art. 42 ust. 1 i 3 Konstytucji,
+– § 13 ust. 1, § 37 ust. 2 pkt 1 rozporządzenia Rady Ministrów z dnia 23 października 1991 r. w sprawie postępowania dyscyplinarnego wobec nauczycieli akademickich (Dz. U. Nr 99, poz. 440) z art. 42 ust. 3 Konstytucji,
+– art. 131 ust. 5, art. 135 ust. 4 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385) z art. 45 ust. 1 i art. 77 ust. 2 Konstytucji,
+orzeka:
+1.
+Art. 126, art. 127 ust. 1 pkt 3, art. 129 ust. 1 pkt 1 lit. a) i pkt 2 lit. a) ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z 1991 r. Nr 104, poz. 450, z 1992 r. Nr 54, poz. 254i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268i Nr 122, poz. 1314oraz z 2001 r. Nr 85, poz. 924) są zgodne z art. 2 i art. 42 ust. 1 i 3 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 131 ust. 5 ustawy powołanej w pkt 1 nie jest niezgodny z art. 45 ust. 1 i art. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
+3.
+Art. 135 ust. 4 ustawy powołanej w pkt 1, w brzmieniu obowiązującym do dnia wejścia w życie ustawy z dnia 20 lipca 2001 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych oraz o zmianie niektórych innych ustaw (Dz. U. Nr 85, poz. 924), w zakresie, w jakim wyłącza możliwość odwołania do sądu od prawomocnego orzeczenia komisji dyscyplinarnej przy Radzie Głównej Szkolnictwa Wyższego, jest niezgodny z art. 45 ust. 1 i art. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
+4.
+§ 13 ust. 1 i § 37 ust. 2 pkt 1 rozporządzenia Rady Ministrów z dnia 23 października 1991 r. w sprawie postępowania dyscyplinarnego wobec nauczycieli akademickich (Dz. U. Nr 99, poz. 440) nie są niezgodne z art. 42 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
+Ponadto postanawia: wniosek Rzecznika Praw Obywatelskich, rozszerzający zakres skargi konstytucyjnej o zbadanie zgodności art. 135 ust. 1–3 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym w brzmieniu obowiązującym do dnia wejścia w życie ustawy z dnia 20 lipca 2001 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych oraz o zmianie niektórych innych ustaw (Dz. U. Nr 85, poz. 924) oraz zgodności § 51–55 rozporządzenia Rady Ministrów z dnia 23 października 1991 r. w sprawie postępowania dyscyplinarnego wobec nauczycieli akademickich (Dz. U. Nr 99, poz. 440) z art. 32 ust. 1 Konstytucji, pozostawić bez rozpoznania. Andrzej Mączyński Jerzy Ciemniewski Zdzisław Czeszejko-Sochacki Biruta Lewaszkiewicz-Petrykowska Jadwiga Skórzewska-Łosiak
 

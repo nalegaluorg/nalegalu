@@ -8,9 +8,10 @@ pos: 1448
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 28 lipca Poz. 1448
+# Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1448/text.pdf) |
 
-USTAWA dnia 7 lipca zmianie podatku dochodowym od osób fizycznych podatku dochodowym od osób prawnych
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. 2032, późn. zm. ) wprowadza następujące zmiany:
-
-**Art. 2.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. 1888, późn. zm. ) wprowadza następujące zmiany:
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, z późn. zm.) wprowadza się następujące zmiany:
 
 **Art. 3.**
 
-1. Przepisy ustaw zmienianych 1 2, brzmieniu nadanym niniejszą ustawą, mają zastosowanie środków trwałych nabytych od dnia 1 stycznia dokonanych od tego dnia wpłat tych środków.
+1. Przepisy ustaw zmienianych w art. 1 i art. 2, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do środków trwałych nabytych od dnia 1 stycznia 2017 r. i dokonanych od tego dnia wpłat na poczet nabycia tych środków.
 
-2. Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy zakończył po dniu 31 grudnia r., a przed dniem wejścia życie niniejszej ustawy, stosują przepisy zmienianej 2, brzmieniu nadanym niniejszą ustawą, środków trwałych nabytych od dnia 1 stycznia dokonanych od tego dnia wpłat tych środków.
+2. Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy i zakończył się po dniu 31 grudnia 2016 r., a przed dniem wejścia w życie niniejszej ustawy, stosują przepisy ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, do środków trwałych nabytych od dnia 1 stycznia 2017 r. i dokonanych od tego dnia wpłat na poczet nabycia tych środków.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,9 +8,10 @@ pos: 199
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny wskładzie: Marek Safjan przewodniczący, Jerzy Ciemniewski, Marian Grzybowski sprawozdawca, Wiesław Johann, Krzysztof Kolasiński, Biruta Lewaszkiewicz-Petrykowska, Marek Mazurkiewicz, Mączyński, Janusz Niemcewicz, Jadwiga Skórzewska-Ęosiak, Jerzy Stępień, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki, po rozpatrzeniu na rozprawie dniu 27 lutego 2002 r. sprawy zwniosku Grupy Posłów na Sejm Rzeczypospolitej Polskiej udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnegoostwierdzenie, że:
+# Wyrok Trybunału Konstytucyjnegoz dnia 27 lutego 2002 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,22 +25,18 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020190199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/199/text.pdf) |
 
-1. art. 1 1 lit. a) tiret drugie związku art. 1 9 wzakresie,wjakim dodaje wart. 30 ust. 1 ustawy znowelizowanej 1b, oraz związku art. 1 pkt18 wzakresie,wjakim dodaje do znowelizowanej art. 52a ust. 1 1 i 2, ust. 2, 5 i 6 zdnia 21listopada 2001 r. ozmianie opodatku dochodowym od osób fizycznych oraz zryczałtowanym dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U.
-Nr134, 1509) nie są zgodne zart. 2 iart. 32 Konstytucji RP,
-2. art. 1 7 lit. b) wzwiązku zart. 1 5 zdnia 21 listopada 2001 r. ozmianie opodatku dochodowym od osób fizycznych oraz zryczałtowanym dochodowym od niektórych 134, 1509) zakresie, jakim zmieniają art.27bust. 2 ustawyznowelizowanej, aprzez to pozostają związku brzmieniem art. 27 znowelizowanej nie są zgodne zart. 2 oraz zart. 217 Konstytucji RP, orzeka:
-1. Art. 1 1 lit. a) tiret drugie związku art. 1 pkt9 zdnia 21 listopada 2001 r. ozmianie ustawy dochodowym od osób fizycznych oraz zryczałtowanym dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 134, 1509) wczęści, wktórej wart.30 ust. 1 dnia 26 lipca 1991 r. dochodowym od osób fizycznych (Dz. U. 2000 r. 14, 176, 22, 270, 60, 703, 70, poz.816, 104, 1104, 117, 1228iNr 122, 1324 oraz 2001 r. 4, 27, 8, 64, Nr52, 539, 73, 764, 74, 784, 88, 961, 89, 968, 102, 1117, 106, poz.1150, 110, 1190 iNr 125, 1363 i1370) dodaje 1b, oraz związku art. 1 18 zdnia 21 listopada 2001 r. ozmianie opodatku dochodowym od osób fizycznych oraz zryczałtowanym dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U.
-134, 1509) wczęści, wktórej dodaje do zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych (Dz. U. 2000 r. 14, 176 ze zm.) art.52aust. 1 1 i2oraz ust. 2, jest zgodny zart.2 iart. 32 Konstytucji Rzeczypospolitej Polskiej.
-2. Art. 1 18 dnia 21 listopada 2001 r.
-ozmianie opodatku dochodowym od osób fizycznych oraz zryczałtowanym dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 134, 1509) części, której dodaje do dnia 26 lipca 1991 r.
-dochodowym od osób fizycznych (Dz. U.
-2000 r. 14, 176 ze zm.) art. 52a ust. 5 1, zakresie dopuszczającym opodatkowanie zryczałtowanym podatkiem dochodowym dochodów (przychodów) od środków pieniężnych zgromadzonych przez podatnika przed dniem 1 grudnia 2001 r. na podstawie umów zawartych przed tym dniem na czas oznaczony, wprzypadku gdy umowa ta została rozwiązana zprzewidzianych przez prawo przyczyn nieleżących po stronie podatnika, jest niezgodny art. 2 Konstytucji Rzeczypospolitej Polskiej.
-3. Art. 1 18 dnia 21 listopada 2001 r.
-ozmianie opodatku dochodowym od osób fizycznych oraz zryczałtowanym doprzychodów osiąganych przez osoby fizyczne (Dz. U.
-chodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 134, 1509) częWYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 27 lutego 2002 r.
-sygn. akt K.47/2001.
-ści, której dodaje do dnia 26 lipca 1991 r. związku ust. 6, rozumiany jako określający począdochodowym od osób fizycznych (Dz. U. tek terminu wymagalności podatku, którym mowa z2000 r. 14, 176 ze zm.) art. 52aust. 5 1, nie wtych przepisach, na dzień wypłaty całości lub części jest niezgodny art. 32 Konstytucji Rzeczypospoli- kapitału (w tym tytułu skapitalizowanych odsetek), tej Polskiej. jest zgodny art. 2 i nie jest niezgodny art. 32 Konstytucji Rzeczypospolitej Polskiej.
-4. Art. 1 18 dnia 21 listopada 2001 r.
-ozmianie opodatku dochodowym od osób fi- 6. Art. 1 7 lit. b) dnia 21 listopada zycznych oraz zryczałtowanym do- 2001 r. zmianie dochodowym od chodowym od niektórych przychodów osiąganych osób fizycznych oraz ozryczałtowanym podatprzez osoby fizyczne (Dz. U. 134, 1509) czę- ku dochodowym od niektórych przychodów osiągaści, której dodaje do dnia 26 lipca 1991 r. nych przez osoby fizyczne (Dz. U. 134, 1509) dochodowym od osób fizycznych (Dz. U. zakresie, którym zmienia art. 27b ust. 2 2000 r. 14, 176 ze zm.) art. 52a ust. 5 1 zdnia 26 lipca 1991 r. opodatku dochodowym od osób związku ust. 6, rozumiany jako określający począ- fizycznych (Dz. U. z2000 r. 14, 176 ze zm.), jest tek terminu wymagalności podatku, którym mowa zgodny zart. 2 izart. 217 Konstytucji Rzeczypospoliust. 6, na dzień rozwiązania umowy przewidzianej tej Polskiej.
-wart. 52aust. 5 1, jest zgodny zart. 2 inie jest niezgodny zart. 32 Konstytucji Rzeczypospolitej Polskiej. Marek Safjan
-5. Art. 1 18 dnia 21 listopada 2001 r. Jerzy Ciemniewski Marian Grzybowski ozmianie opodatku dochodowym od osób fi- Wiesław Johann Krzysztof Kolasiński zycznych oraz zryczałtowanym do- Biruta Lewaszkiewicz- Marek Mazurkiewicz chodowym od niektórych przychodów osiąganych -Petrykowska przez osoby fizyczne (Dz. U. 134, 1509) czę- Mączyński Janusz Niemcewicz ści, której dodaje do dnia 26 lipca 1991 r. Jadwiga Skórzewska-Ęosiak Jerzy Stępień dochodowym od osób fizycznych (Dz. U. Mirosław Wyrzykowski Marian Zdyb 2000 r. 14, 176 ze zm.) art. 52a ust. 5 2 Bohdan Zdziennicki ISSN 0867-3411 Cena brutto 8,50 zł Szanowni Państwo
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marek Safjan – przewodniczący, Jerzy Ciemniewski, Marian Grzybowski – sprawozdawca, Wiesław Johann, Krzysztof Kolasiński, Biruta Lewaszkiewicz-Petrykowska, Marek Mazurkiewicz, Andrzej Mączyński, Janusz Niemcewicz, Jadwiga Skórzewska-Łosiak, Jerzy Stępień, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki, protokolant: Grażyna Szałygo, po rozpatrzeniu na rozprawie w dniu 27 lutego 2002 r. sprawy z wniosku Grupy Posłów na Sejm Rzeczypospolitej Polskiej z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego o stwierdzenie, że:
+1.
+art. 1 pkt 1 lit. a) tiret drugie w związku z art. 1 pkt 9 – w zakresie, w jakim dodaje w art. 30 ust. 1 ustawy znowelizowanej pkt 1b, oraz w związku z art. 1 pkt 18 – w zakresie, w jakim dodaje do ustawy znowelizowanej art. 52a ust. 1 pkt 1 i 2, ust. 2, 5 i 6 ustawy z dnia 21 listopada 2001 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 134, poz. 1509) – nie są zgodne z art. 2 i art. 32 Konstytucji RP,
+2.
+art. 1 pkt 7 lit. b) w związku z art. 1 pkt 5 ustawy z dnia 21 listopada 2001 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 134, poz. 1509) w zakresie, w jakim zmieniają art. 27b ust. 2 ustawy znowelizowanej, a przez to pozostają w związku z brzmieniem art. 27 ustawy znowelizowanej – nie są zgodne z art. 2 oraz z art. 217 Konstytucji RP,
+orzeka:
+1.
+Art. 1 pkt 1 lit. a) tiret drugie w związku z art. 1 pkt 9 ustawy z dnia 21 listopada 2001 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 134, poz. 1509) w części, w której w art. 30 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324 oraz z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363 i 1370) dodaje pkt 1b, oraz w związku z art. 1 pkt 18 ustawy z dnia 21 listopada 2001 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 134, poz. 1509) w części, w której dodaje do ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176 ze zm.)art. 52a ust. 1 pkt 1 i 2 oraz ust. 2, jest zgodny z art. 2 i art. 32 Konstytucji Rzeczypospolitej Polskiej.
+2.
+3.
+4.
+5.
+6.
 

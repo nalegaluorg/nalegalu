@@ -8,9 +8,10 @@ pos: 702
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 kwietnia 2018 r.
+# Ustawa z dnia 1 marca 2018 r. o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz ustawy o komercjalizacji i niektórych uprawnieniach pracowników
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000702) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/702/text.pdf) |
 
-Poz. 702
-USTAWA z dnia 1 marca 2018 r.
-o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz ustawy o komercjalizacji i niektórych uprawnieniach pracowników
-
 **Art. 1.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2259, z 2017 r. poz. 624, 1491 i 1529 oraz z 2018 r. poz. 538) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2017 r. poz. 1055) wprowadza się następujące zmiany:
@@ -36,5 +33,5 @@ o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz ustawy o komer
 
 **Art. 4.** Spółki, które w dniu wejścia w życie niniejszej ustawy wchodzą w skład grupy kapitałowej, o której mowa w art. 2 pkt 10 ustawy zmienianej w art. 2, i są obowiązane do stosowania przepisów art. 12 ust. 8 i art. 14 ust. 3 ustawy zmienianej w art. 2, dokonają zmian w swoich statutach i innych aktach wewnętrznych w terminie 45 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

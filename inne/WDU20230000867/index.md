@@ -1,0 +1,217 @@
+---
+title: "Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 marca 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie sposobu dokumentowania prowadzonej przez Straż Graniczną kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli"
+address: WDU20230000867
+eli: DU/2023/867
+publisher: DU
+year: 2023
+pos: 867
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 21 marca 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie sposobu dokumentowania prowadzonej przez Straż Graniczną kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 867 |
+| ISAP | WDU20230000867 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-03-21 |
+| Data wydania | 2023-05-09 |
+| Ostatnia zmiana | 2025-04-11 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000867) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/867/text.pdf) |
+
+Treść obwieszczenia
+Załącznik – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 sierpnia 2011 r. w sprawie sposobu dokumentowania prowadzonej przez Straż Graniczną kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli
+
+## Załącznik nr 1 — – Wniosek (wzór)
+
+## Załącznik nr 2 — – Wniosek (wzór)
+
+## Załącznik nr 3 — – Notatka urzędowa z przeprowadzonej kontroli operacyjnej (wzór)
+
+## Załącznik nr 4 — – Wniosek (wzór)
+
+## Załącznik nr 5 — – Protokół komisyjnego zniszczenia materiałów zgromadzonych podczas stosowania kontroli operacyjnej (wzór)
+
+## Załącznik nr 6 — – Rejestr postanowień sądu w sprawie kontroli operacyjnej prowadzonej przez Straż Graniczną (wzór)
+
+## Załącznik nr 7 — – Rejestr zgód prokuratora generalnego/prokuratora okręgowego w sprawie kontroli operacyjnej prowadzonej przez Straż Graniczną (wzór)
+
+## Załącznik nr 8 — – Rejestr wniosków prokuratora generalnego/prokuratora okręgowego do sądu na wykorzystanie w postępowaniu karnym uzyskanych w wyniku stosowania kontroli operacyjnej prowadzonej przez Straż Graniczną dowodów popełnienia przestępstwa lub przestępstwa skarbowego (wzór)
+
+## Załącznik nr 9 — – Rejestr wniosków i zarządzeń Komendanta Głównego Straży Granicznej/Komendanta Biura Spraw Wewnętrznych Straży Granicznej/Komendanta Oddziału Straży Granicznej (wzór)
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 sierpnia 2011 r. w sprawie sposobu dokumentowania prowadzonej przez Straż Graniczną kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli (Dz. U. poz. 1190), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2018 r. zmieniającym rozporządzenie w sprawie sposobu dokumentowania prowadzonej przez Straż Graniczną kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli (Dz. U. poz. 372).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2018 r. zmieniającego rozporządzenie w sprawie sposobu dokumentowania prowadzonej przez Straż Graniczną kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli (Dz. U. poz. 372), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 sierpnia 2011 r. w sprawie sposobu dokumentowania prowadzonej przez Straż Graniczną kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli
+Na podstawie art. 9e ust. 20 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, z późn. zm.) zarządza się, co następuje:
+§ 1.
+1.
+Dokumentację kontroli operacyjnej, zwanej dalej „kontrolą”, stanowią:
+1)
+wniosek Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej do sądu okręgowego, zwanego dalej „sądem”, o zarządzenie lub przedłużenie kontroli;
+2)
+pisemna zgoda Prokuratora Generalnego na wystąpienie przez Komendanta Głównego Straży Granicznej lub Komendanta Biura Spraw Wewnętrznych Straży Granicznej z wnioskiem do sądu o zarządzenie lub przedłużenie kontroli lub pisemna zgoda właściwego prokuratora okręgowego na wystąpienie przez komendanta oddziału Straży Granicznej z wnioskiem do sądu o zarządzenie lub przedłużenie kontroli;
+3)
+postanowienie sądu w przedmiocie zarządzenia lub przedłużenia kontroli;
+4)
+wniosek Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej do Prokuratora Generalnego lub do właściwego prokuratora okręgowego o wyrażenie zgody na zarządzenie kontroli w przypadkach niecierpiących zwłoki;
+5)
+pisemna zgoda Prokuratora Generalnego na zarządzenie przez Komendanta Głównego Straży Granicznej lub Komendanta Biura Spraw Wewnętrznych Straży Granicznej kontroli w przypadkach niecierpiących zwłoki lub pisemna zgoda właściwego prokuratora okręgowego na zarządzenie przez komendanta oddziału Straży Granicznej kontroli w przypadkach niecierpiących zwłoki;
+6)
+zarządzenie kontroli przez Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej w przypadkach niecierpiących zwłoki;
+7)
+wniosek Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej do sądu o wyrażenie zgody na kontynuowanie kontroli zarządzonej w przypadkach niecierpiących zwłoki;
+8)
+postanowienie sądu w przedmiocie kontynuowania kontroli zarządzonej przez Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej w przypadkach niecierpiących zwłoki;
+9)
+zażalenie Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej na postanowienie sądu w przedmiocie kontroli;
+10)
+notatka urzędowa z przeprowadzonej kontroli sporządzana przez funkcjonariusza prowadzącego sprawę, w ramach której zarządzono kontrolę;
+11)
+wniosek Prokuratora Generalnego lub właściwego prokuratora okręgowego do sądu o wyrażenie zgody na wykorzystanie w postępowaniu karnym uzyskanych w wyniku stosowania kontroli dowodów popełnienia przestępstwa lub przestępstwa skarbowego, w stosunku do którego można zarządzić kontrolę, popełnionego przez osobę, wobec której była stosowana kontrola, innego niż objęte zarządzeniem kontroli albo popełnionego przez inną osobę;
+12)
+postanowienie sądu w przedmiocie wykorzystania w postępowaniu karnym uzyskanych w wyniku stosowania kontroli dowodów popełnienia przestępstwa lub przestępstwa skarbowego, w stosunku do którego można zarządzić kontrolę, popełnionego przez osobę, wobec której była stosowana kontrola, innego niż objęte zarządzeniem kontroli albo popełnionego przez inną osobę;
+13)
+zarządzenie Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej o protokolarnym komisyjnym zniszczeniu materiałów uzyskanych w trakcie kontroli;
+14)
+protokół komisyjnego zniszczenia materiałów zgromadzonych podczas stosowania kontroli.
+2.
+Dokumentację kontroli stanowią także materiały zgromadzone podczas jej stosowania, w szczególności:
+1)
+nośniki, na których utrwalone zostały treści rozmów telefonicznych lub innych przekazów informacji albo treść korespondencji lub zawartość przesyłek;
+2)
+kopie wykonane z nośników, o których mowa w pkt 1;
+3)
+dokumenty sporządzone na podstawie informacji utrwalonych na nośnikach lub ich kopiach, o których mowa w pkt 1 i 2.
+3.
+Dokumenty, o których mowa w ust. 1 pkt 1–8, 10–12 oraz 14, sporządza się według wzorów określonych dla:
+1)
+formularza zawierającego: wniosek Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej do sądu o zarządzenie lub przedłużenie kontroli, wyrażenie zgody lub jej brak przez Prokuratora Generalnego lub prokuratora okręgowego na złożenie przez Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej wniosku o zarządzenie lub przedłużenie przez sąd kontroli oraz postanowienie sądu w przedmiocie zarządzenia lub przedłużenia kontroli – w załączniku nr 1 do rozporządzenia;
+2)
+formularza zawierającego: wniosek Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej do Prokuratora Generalnego lub do właściwego prokuratora okręgowego o wyrażenie zgody na zarządzenie kontroli w przypadkach niecierpiących zwłoki, wyrażenie lub niewyrażenie zgody przez Prokuratora Generalnego lub prokuratora okręgowego na zarządzenie przez Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej kontroli w przypadkach niecierpiących zwłoki, zarządzenie kontroli przez Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej w przypadkach niecierpiących zwłoki, wniosek Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej do sądu okręgowego o wyrażenie zgody na kontynuowanie kontroli zarządzonej w przypadkach niecierpiących zwłoki oraz postanowienie sądu w przedmiocie wyrażenia lub odmowy wyrażenia zgody na kontynuowanie kontroli – w załączniku nr 2 do rozporządzenia;
+3)
+notatki urzędowej z przeprowadzonej kontroli sporządzonej przez funkcjonariusza prowadzącego sprawę, w ramach której zarządzono kontrolę – w załączniku nr 3 do rozporządzenia;
+4)
+formularza zawierającego: wniosek Prokuratora Generalnego lub właściwego prokuratora okręgowego do sądu na wykorzystanie w postępowaniu karnym uzyskanych w wyniku stosowania kontroli dowodów popełnienia przestępstwa lub przestępstwa skarbowego, w stosunku do którego można zarządzić kontrolę, popełnionego przez osobę, wobec której była stosowana kontrola, innego niż objęte zarządzeniem kontroli albo popełnionego przez inną osobę oraz postanowienie sądu w przedmiocie wykorzystania w postępowaniu karnym uzyskanych w wyniku stosowania kontroli dowodów popełnienia przestępstwa lub przestępstwa skarbowego, w stosunku do którego można zarządzić kontrolę, popełnionego przez osobę, wobec której była stosowana kontrola, innego niż objęte zarządzeniem kontroli albo popełnionego przez inną osobę – w załączniku nr 4 do rozporządzenia;
+5)
+protokołu komisyjnego zniszczenia materiałów zgromadzonych podczas stosowania kontroli – w załączniku nr 5 do rozporządzenia.
+4.
+Dokumenty, o których mowa w ust. 1:
+1)
+pkt 1–8 i 11–14 – sporządza się w trzech egzemplarzach;
+2)
+pkt 9 i 10 – sporządza się w dwóch egzemplarzach.
+5.
+Dokumenty, o których mowa w ust. 1, otrzymują:
+1)
+sąd – pierwsze egzemplarze wydanych postanowień sądu, pisemnych zgód prokuratora, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, wniosków o wyrażenie zgody na zarządzenie i kontynuowanie kontroli w przypadkach niecierpiących zwłoki, wniosków Prokuratora Generalnego lub właściwego prokuratora okręgowego do sądu na wykorzystanie w postępowaniu karnym uzyskanych w wyniku stosowania kontroli dowodów popełnienia przestępstwa lub przestępstwa skarbowego oraz postanowień sądu w przedmiocie wykorzystania w postępowaniu karnym uzyskanych w wyniku stosowania kontroli dowodów popełnienia przestępstwa lub przestępstwa skarbowego, a także zażaleń organów Straży Granicznej;
+2)
+Prokurator Generalny lub prokurator okręgowy – drugie egzemplarze postanowień sądu, pisemnych zgód, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, wniosków o wyrażenie zgody na zarządzenie i kontynuowanie kontroli w przypadkach niecierpiących zwłoki, zarządzeń o protokolarnym komisyjnym zniszczeniu materiałów, protokołów komisyjnego zniszczenia materiałów, wniosków Prokuratora Generalnego lub właściwego prokuratora okręgowego do sądu na wykorzystanie w postępowaniu karnym uzyskanych w wyniku stosowania kontroli dowodów popełnienia przestępstwa lub przestępstwa skarbowego oraz postanowień sądu w przedmiocie wykorzystania w postępowaniu karnym uzyskanych w wyniku stosowania kontroli dowodów popełnienia przestępstwa lub przestępstwa skarbowego, a także pierwsze egzemplarze notatki urzędowej;
+3)
+organ Straży Granicznej zarządzający lub wnioskujący o zarządzenie kontroli – trzecie egzemplarze postanowień sądu, pisemnych zgód prokuratora, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, wniosków o wyrażenie zgody na zarządzenie i kontynuowanie kontroli w przypadkach niecierpiących zwłoki, wniosków Prokuratora Generalnego lub właściwego prokuratora okręgowego do sądu na wykorzystanie w postępowaniu karnym uzyskanych w wyniku kontroli dowodów przestępstwa lub przestępstwa skarbowego, a także drugie egzemplarze notatki urzędowej i zażaleń na postanowienia sądu oraz pierwsze egzemplarze zarządzenia protokolarnego komisyjnego zniszczenia materiałów i protokołu komisyjnego zniszczenia materiałów;
+4)
+właściwa komórka kancelaryjna Straży Granicznej – trzecie egzemplarze zarządzenia o protokolarnym komisyjnym zniszczeniu materiałów i protokołu komisyjnego zniszczenia materiałów.
+§ 2.
+1.
+Sąd, Prokurator Generalny, prokurator okręgowy i organ Straży Granicznej prowadzą odpowiednio odrębne rejestry: postanowień, pisemnych zgód, zarządzeń i wniosków dotyczących kontroli.
+2.
+Rejestry, o których mowa w ust. 1, prowadzi się w postaci księgi albo w systemie informatycznym.
+3.
+Sąd prowadzi rejestr postanowień dotyczących kontroli, według wzoru określonego w załączniku nr 6 do rozporządzenia.
+4.
+Prokurator Generalny lub prokurator okręgowy prowadzą rejestr zgód dotyczących kontroli, według wzoru określonego w załączniku nr 7 do rozporządzenia, oraz rejestr wniosków do sądu na wykorzystanie w postępowaniu karnym uzyskanych w wyniku stosowania kontroli dowodów popełnienia przestępstwa lub przestępstwa skarbowego, w stosunku do którego można zarządzić kontrolę, popełnionego przez osobę, wobec której była stosowana kontrola, innego niż objęte zarządzeniem kontroli albo popełnionego przez inną osobę, według wzoru określonego w załączniku nr 8 do rozporządzenia.
+5.
+Komendant Główny Straży Granicznej, Komendant Biura Spraw Wewnętrznych Straży Granicznej i komendanci oddziałów Straży Granicznej prowadzą rejestr wniosków i zarządzeń dotyczących kontroli, według wzoru określonego w załączniku nr 9 do rozporządzenia.
+§ 3.
+1.
+Przekazywanie dokumentacji kontroli odbywa się za pośrednictwem posiadającego odpowiednie pisemne upoważnienie przedstawiciela Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej, zwanego dalej „przedstawicielem organu Straży Granicznej”.
+2.
+Przedstawiciel organu Straży Granicznej osobiście dostarcza wniosek o zarządzenie lub przedłużenie kontroli lub zarządzenie kontroli wydane w przypadku niecierpiącym zwłoki przez Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej lub komendanta oddziału Straży Granicznej, wraz z materiałami uzasadniającymi potrzebę zastosowania kontroli, bezpośrednio do Prokuratora Generalnego lub do właściwego prokuratora okręgowego oraz do właściwego sądu, a także osobiście odbiera od tych podmiotów dokumenty po podjęciu przez nie stosownych decyzji.
+3.
+W odniesieniu do spraw realizowanych przez Biuro Spraw Wewnętrznych Straży Granicznej dokumentacja kontroli, o której mowa w § 1 ust. 1 pkt 1–8, jest przekazywana w formie kopii do wiadomości Inspektora Nadzoru Wewnętrznego w terminie 7 dni od dnia otrzymania postanowienia, o którym mowa w § 1 ust. 1 pkt 3 i 8, a w przypadku braku zgody, o której mowa w § 1 ust. 1 pkt 2 i 5 – od dnia otrzymania pisemnej informacji o braku tej zgody.
+§ 4.
+1.
+W przypadku kontroli polegającej na stosowaniu środków technicznych umożliwiających uzyskiwanie w sposób niejawny informacji i dowodów oraz ich utrwalanie, w szczególności obrazu, treści rozmów telefonicznych i innych informacji przekazywanych za pomocą sieci telekomunikacyjnych, informacje i dowody uzyskane w trakcie jej prowadzenia dokumentuje się w formie komunikatów za każdy dzień kalendarzowy, obejmujących wszystkie treści zarejestrowane danego dnia, z uwzględnieniem rodzaju cech identyfikujących adresata i nadawcę, z zastrzeżeniem ust. 2–5.
+2.
+Informacje i dowody, o których mowa w ust. 1, pozwalające na wszczęcie postępowania karnego lub mające znaczenie dla toczącego się postępowania karnego dokumentuje się w sposób odzwierciedlający zarejestrowaną treść.
+3.
+Informacje i dowody, o których mowa w ust. 1, niepozwalające na wszczęcie postępowania karnego lub niemające znaczenia dla toczącego się postępowania karnego można dokumentować w formie streszczenia.
+4.
+Streszczenie, o którym mowa w ust. 3, powinno umożliwiać przeprowadzenie analizy informacji uzyskanych podczas stosowania kontroli.
+5.
+W przypadku zarejestrowania informacji i dowodów, o których mowa w ust. 1, w języku obcym dokumentuje się je niezależnie od trybu określonego w ust. 2–4 także w języku polskim będącym tłumaczeniem z języka obcego.
+§ 5.
+1.
+Dokumentację, o której mowa w § 1 ust. 2, gromadzi się w odrębnych zbiorach tworzonych dla poszczególnych podmiotów lub przedmiotów, wobec których stosowana jest kontrola.
+2.
+Pozostałą dokumentację związaną ze stosowaną kontrolą, z wyjątkiem określonej w § 1 ust. 5 pkt 4, gromadzi się w odrębnych zbiorach dokumentów związanych z realizacją czynności operacyjno -rozpoznawczych.
+§ 6.
+Wszystkie materiały zgromadzone podczas stosowania kontroli zawierające dowody pozwalające na wszczęcie postępowania karnego lub mające znaczenie dla toczącego się postępowania karnego przekazuje się Prokuratorowi Generalnemu lub właściwemu prokuratorowi okręgowemu, za pośrednictwem przedstawiciela organu Straży Granicznej wnioskującego o zarządzenie kontroli.
+§ 7.
+Protokolarnego zniszczenia materiałów niezawierających dowodów pozwalających na wszczęcie postępowania karnego lub niemających znaczenia dla toczącego się postępowania karnego albo zgromadzonych w toku kontroli zarządzonej przez organ Straży Granicznej w przypadku, gdy sąd nie wyraził zgody na jej kontynuowanie, dokonuje stała lub powoływana doraźnie w tym celu komisja.
+§ 8.
+1.
+Zniszczenie materiałów zgromadzonych podczas stosowania kontroli przeprowadza się przez:
+1)
+fizyczne zniszczenie dokumentów, o których mowa w § 1 ust. 2 pkt 3;
+2)
+usunięcie zapisów informacji utrwalonych na nośnikach, o których mowa w § 1 ust. 2 pkt 1, oraz na ich kopiach, o których mowa w § 1 ust. 2 pkt 2, w sposób uniemożliwiający odtworzenie treści tych zapisów.
+2.
+W przypadku gdy usunięcie z nośników lub z ich kopii utrwalonych na nich zapisów nie jest możliwe, uszkadza się je w sposób uniemożliwiający ich odczytanie albo dokonuje się ich fizycznego zniszczenia.
+§ 9.
+Czynności dokonane oraz dokumenty sporządzone w związku z kontrolą niezakończoną przed dniem wejścia w życie rozporządzenia zachowują moc.
+§ 10.
+Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 26 listopada 2009 r. w sprawie sposobu dokumentowania prowadzonej przez Straż Graniczną kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli (Dz. U. poz. 1625).
+§ 11.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1115, 1855 i 2600 oraz z 2023 r. poz. 185, 240, 261, 289, 347, 547 i 641. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2018 r. zmieniającego rozporządzenie w sprawie sposobu dokumentowania prowadzonej przez Straż Graniczną kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli (Dz. U. poz. 372), które weszło w życie z dniem 15 lutego 2018 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) Rozporządzenie zostało ogłoszone w dniu 26 września 2011 r.
+
+## Załącznik nr 1 — – Wniosek (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Wniosek (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 — – Notatka urzędowa z przeprowadzonej kontroli operacyjnej (wzór)
+
+patrz oryginał
+
+## Załącznik nr 4 — – Wniosek (wzór)
+
+patrz oryginał
+
+## Załącznik nr 5 — – Protokół komisyjnego zniszczenia materiałów zgromadzonych podczas stosowania kontroli operacyjnej (wzór)
+
+patrz oryginał
+
+## Załącznik nr 6 — – Rejestr postanowień sądu w sprawie kontroli operacyjnej prowadzonej przez Straż Graniczną (wzór)
+
+patrz oryginał
+
+## Załącznik nr 7 — – Rejestr zgód prokuratora generalnego/prokuratora okręgowego w sprawie kontroli operacyjnej prowadzonej przez Straż Graniczną (wzór)
+
+patrz oryginał
+
+## Załącznik nr 8 — – Rejestr wniosków prokuratora generalnego/prokuratora okręgowego do sądu na wykorzystanie w postępowaniu karnym uzyskanych w wyniku stosowania kontroli operacyjnej prowadzonej przez Straż Graniczną dowodów popełnienia przestępstwa lub przestępstwa skarbowego (wzór)
+
+patrz oryginał
+
+## Załącznik nr 9 — – Rejestr wniosków i zarządzeń Komendanta Głównego Straży Granicznej/Komendanta Biura Spraw Wewnętrznych Straży Granicznej/Komendanta Oddziału Straży Granicznej (wzór)
+
+patrz oryginał
+

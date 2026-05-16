@@ -1,0 +1,176 @@
+---
+title: "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 marca 2020 r. w sprawie badań strażaka powracającego do kraju z delegowania do pełnienia służby poza granicą państwa w grupie ratowniczej oraz kierowania go na turnus leczniczo-profilaktyczny"
+address: WDU20200000394
+eli: DU/2020/394
+publisher: DU
+year: 2020
+pos: 394
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 9 marca 2020 r. w sprawie badań strażaka powracającego do kraju z delegowania do pełnienia służby poza granicą państwa w grupie ratowniczej oraz kierowania go na turnus leczniczo-profilaktyczny
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 394 |
+| ISAP | WDU20200000394 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2020-03-09 |
+| Data wydania | 2020-03-10 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000394) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/394/text.pdf) |
+
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Zakres badań lekarskich i psychologicznych, którym podlega strażak powracający do kraju z delegowania do pełnienia służby poza granicą państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej
+
+## Załącznik nr 2 — – Informacja z badania psychologicznego (wzór)
+
+## Załącznik nr 3 — – Orzeczenie lekarskie (wzór)
+
+## Załącznik nr 4 — – Wniosek o skierowanie na turnus leczniczo-profilaktyczny (wzór)
+
+## Załącznik nr 5 — – Skierowanie na turnus leczniczo-profilaktyczny (wzór)
+
+## Załącznik nr 6 — – Ramowy program turnusu leczniczo-profilaktycznego (wzór)
+
+Treść rozporządzenia
+Na podstawie art. 49i ust. 9 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2019 r. poz. 1499, 1635, 1726 i 2020) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+organ właściwy do kierowania strażaka delegowanego do pełnienia służby poza granicą państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, zwanej dalej „ustawą”, po powrocie do kraju, na badania lekarskie i psychologiczne, o których mowa w art. 49i ust. 1 ustawy, zwane dalej „badaniami”;
+2)
+zakres badań;
+3)
+podmiot właściwy do przeprowadzania badań;
+4)
+rodzaje i wzory dokumentów wystawianych po przeprowadzeniu badań;
+5)
+tryb kierowania strażaka delegowanego do pełnienia służby poza granicą państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy, zwanego dalej „strażakiem”, wraz z pełnoletnim najbliższym członkiem rodziny na turnus leczniczo-profilaktyczny, zwany dalej „turnusem”;
+6)
+podmiot kierujący na turnus;
+7)
+ramowy program turnusu;
+8)
+podmiot prowadzący turnus;
+9)
+rodzaje i wzory dokumentów wystawianych w związku z kierowaniem na turnus.
+§ 2.
+Strażaka na badania kieruje, po powrocie do kraju, kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, w której strażak pełni służbę.
+§ 3.
+Zakres badań jest określony w załączniku nr 1 do rozporządzenia.
+§ 4.
+Badania przeprowadzają jednostki organizacyjne podmiotów leczniczych utworzonych i nadzorowanych przez ministra właściwego do spraw wewnętrznych, o których mowa w przepisach wydanych na podstawie art. 27 ust. 2 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2019 r. poz. 1175), albo inne podmioty lecznicze wykonujące zadania służby medycyny pracy na podstawie umowy zawartej z jednostką organizacyjną Państwowej Straży Pożarnej, w której strażak pełni służbę.
+§ 5.
+1.
+Badanie psychologiczne kończy się wydaniem przez psychologa informacji z badania psychologicznego.
+2.
+Wzór informacji z badania psychologicznego jest określony w załączniku nr 2 do rozporządzenia.
+§ 6.
+1.
+Badania kończą się wydaniem orzeczenia lekarskiego.
+2.
+Wzór orzeczenia lekarskiego jest określony w załączniku nr 3 do rozporządzenia.
+§ 7.
+1.
+Strażak, który zgodnie ze wskazaniami lekarza zawartymi w orzeczeniu lekarskim może być skierowany na turnus, składa wniosek o skierowanie na turnus do przełożonego uprawnionego do powołania lub mianowania. Strażak pełniący służbę w Komendzie Głównej Państwowej Straży Pożarnej składa wniosek o skierowanie na turnus do kierownika komórki organizacyjnej, w której pełni służbę.
+2.
+Wniosek o skierowanie na turnus jest przekazywany drogą służbową do Komendanta Głównego Państwowej Straży Pożarnej.
+3.
+Do wniosku o skierowanie na turnus dołącza się orzeczenie lekarskie oraz informację z badania psychologicznego.
+4.
+Wzór wniosku o skierowanie na turnus jest określony w załączniku nr 4 do rozporządzenia.
+§ 8.
+1.
+Strażaka na turnus kieruje Komendant Główny Państwowej Straży Pożarnej.
+2.
+Wzór skierowania na turnus jest określony w załączniku nr 5 do rozporządzenia.
+§ 9.
+1.
+Turnusy są prowadzone w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, w których są udzielane stacjonarne i całodobowe świadczenia opieki zdrowotnej z zakresu leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej.
+2.
+Ramowy program turnusu jest określony w załączniku nr 6 do rozporządzenia.
+§ 10.
+Rozporządzenie wchodzi w życie z dniem 11 marca 2020 r.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+
+## Załącznik nr 1 — – Zakres badań lekarskich i psychologicznych, którym podlega strażak powracający do kraju z delegowania do pełnienia służby poza granicą państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej
+
+1.
+Ogólne badania lekarskie.
+2.
+Badania diagnostyczne i laboratoryjne bezpośrednio po powrocie do kraju:
+1)
+EKG spoczynkowe;
+2)
+RTG klatki piersiowej;
+3)
+badania morfologiczne krwi z rozmazem i poziomem płytek krwi;
+4)
+OB;
+5)
+CRP;
+6)
+badania biochemiczne krwi z uwzględnieniem poziomu: bilirubiny, kreatyniny, glukozy na czczo, aktywności ALAT, ASPAT i GGTP oraz jonogramu;
+7)
+badanie ogólne moczu, w tym badania na obecność substancji psychoaktywnych.
+3.
+Inne badania, jeżeli lekarz prowadzący uzna takie badania za niezbędne.
+4.
+Badania laboratoryjne po 30 dniach po powrocie do kraju – w przypadku gdy podczas delegowania strażak miał kontakt z materiałem biologicznym potencjalnie zakaźnym:
+1)
+anty-HCV;
+2)
+anty-HIV.
+5.
+Badanie psychologiczne bezpośrednio po powrocie do kraju – określenie poziomu funkcjonowania strażaka w odniesieniu do doświadczeń z okresu delegowania, radzenia sobie w sytuacjach trudnych, występowania cech zaburzeń stresowych (ASD, PTSD).
+6.
+Badanie psychologiczne po 30 dniach po powrocie do kraju – w przypadku gdy w pierwszym badaniu stwierdzono symptomy lub zaburzenia w funkcjonowaniu strażaka.
+
+## Załącznik nr 2 — – Informacja z badania psychologicznego (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 — – Orzeczenie lekarskie (wzór)
+
+patrz oryginał
+
+## Załącznik nr 4 — – Wniosek o skierowanie na turnus leczniczo-profilaktyczny (wzór)
+
+patrz oryginał
+
+## Załącznik nr 5 — – Skierowanie na turnus leczniczo-profilaktyczny (wzór)
+
+patrz oryginał
+
+## Załącznik nr 6 — – Ramowy program turnusu leczniczo-profilaktycznego (wzór)
+
+1.
+W ramach turnusu leczniczo-profilaktycznego przeprowadza się:
+1)
+badanie lekarskie;
+2)
+wywiad psychologiczny;
+3)
+wywiad z fizjoterapeutą;
+4)
+zajęcia psychologiczne, które obejmują co najmniej 10 sesji relaksacyjnych trwających po 45 minut każda oraz konsultację psychologiczną (rozmowa i wsparcie psychologiczne);
+5)
+zajęcia rehabilitacyjne, które obejmują 30 zabiegów fizjoterapeutycznych zleconych przez lekarza;
+6)
+zajęcia rekreacyjne w wymiarze 10 godzin w ciągu turnusu leczniczo-profilaktycznego;
+7)
+zajęcia o charakterze edukacyjnym poświęcone zagadnieniom z zakresu psychoprofilaktyki, w tym relaksacji i odpoczynku, przeciwdziałania skutkom stresu, zdrowej diety, korzyści płynących z oddziaływań fizjoprofilaktycznych i balneoklimatologicznych, które obejmują 4 sesje trwające po 45 minut każda.
+2.
+Zajęcia są prowadzone w trybie indywidualnym.
+3.
+Zajęcia realizują w szczególności: psychologowie, lekarze, fizjoterapeuci, dietetycy.
+4.
+Przy doborze zajęć rekreacyjnych i zabiegów fizjoterapeutycznych (rehabilitacyjnych) uwzględnia się stan zdrowia i możliwości psychofizyczne oraz potrzeby uczestnika turnusu.
+

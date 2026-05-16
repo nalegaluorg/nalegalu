@@ -8,9 +8,10 @@ pos: 404
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 marca 2013 r.
+# Ustawa z dnia 8 lutego 2013 r. o zmianie zakresu obowiązywania Konwencji o międzynarodowym handlu dzikimi zwierzętami i roślinami gatunków zagrożonych wyginięciem, sporządzonej w Waszyngtonie dnia 3 marca 1973 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/404/text.pdf) |
 
-Poz. 404
-USTAWA z dnia 8 lutego 2013 r.
-o zmianie zakresu obowiązywania Konwencji o międzynarodowym handlu dzikimi zwierzętami i roślinami gatunków zagrożonych wyginięciem, sporządzonej w Waszyngtonie dnia 3 marca 1973 r.
-
 **Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu obowiązywania Konwencji o międzynarodowym handlu dzikimi zwierzętami i roślinami gatunków zagrożonych wyginięciem, sporządzonej w Waszyngtonie dnia 3 marca 1973 r., przez zgłoszenie zastrzeżeń do jej Załącznika III.
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

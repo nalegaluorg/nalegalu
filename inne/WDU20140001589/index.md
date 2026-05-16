@@ -8,9 +8,10 @@ pos: 1589
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada 2014 r.
+# Ustawa z dnia 10 października 2014 r. o zmianie ustawy o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1589/text.pdf) |
 
-Poz. 1589
-USTAWA z dnia 10 października 2014 r.
-o zmianie ustawy o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 23 października 2013 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1446 oraz z 2014 r. poz. 486) w art. 6 ust. 1 otrzymuje brzmienie: „ 1. Karty parkingowe, o których mowa w ustawie zmienianej w art. 1, wydane na podstawie dotychczasowych przepisów, zachowują ważność do dnia określonego jako data ważności karty, nie dłużej niż do dnia 30 czerwca 2015 r. ” .
 
-**Art. 1.** W ustawie z dnia 23 października 2013 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1446 oraz z 2014 r. poz. 486) w art. 6 ust. 1 otrzymuje brzmienie: „1. Karty parkingowe, o których mowa w ustawie zmienianej w art. 1, wydane na podstawie dotychczasowych przepisów, zachowują ważność do dnia określonego jako data ważności karty, nie dłużej niż do dnia 30 czerwca 2015 r.”.
-
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

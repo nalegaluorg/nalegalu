@@ -8,9 +8,10 @@ pos: 874
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 874 WYROK TRYBUNAĘU zdnia 12 września sygn. akt Trybunał Konstytucyjny wskładzie: Marian Zdyb przewodniczący, Zdzisław Czeszejko-Sochacki sprawozdawca, Krzysztof Kolasiński, Biruta Lewaszkiewicz-Petrykowska, Andrzej Mączyński, protokolant: Joanna Szymczak, po rozpoznaniu na rozprawie w dniu 12 września 2000 r. sprawy wniosku Rzecznika Praw Obywatelskich, udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej iProkuratora Generalnego,ostwierdzenie niezgodności art. 29 iart. 46 ust. 1 ustawy zdnia 17 grudnia 1998 r. oemeryturach irentach zFunduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118 oraz 1999 r. Nr 38, poz. 360, Nr 70, poz. 774 Nr 72, poz.801i802) wczęści,wjakiej nie przewidują prawa do wcześniejszej emerytury dla ubezpieczonych, któISSN 0867-3411 Informacja omożliwości zakupu wydawnictw Kancelarii Prezesa Wydział Wydawnictw Poligrafii Gospodarstwa Pomocniczego że wsprzedaży znajdują się następujące wydawnictwa:
+# Wyrok Trybunału Konstytucyjnegoz dnia 12 września 2000 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,19 +24,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000760874) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/874/text.pdf) |
 
-1. Układ europejski ustanawiający stowarzyszenie między Rzecząpospolitą iich państwami członkowskimi, zdrugiej strony(załącznik do
-2. Program badań statystycznych statystyki publicznej na 2000
-3. Konwencja oochronie gatunków dzikiej flory ifauny europejskiej Nr 58, poz. 263). Cena 11,90 zł.
-4. Wyjaśnienia do Taryfy celnej 5 tomów (załącznik do Dz. U.
-5. Konwencja o zakazie prowadzenia badań, produkcji, składowania (załącznik do Dz. U. 1999 r. Nr 63, poz. 703). Cena 30 zł.
-6. Przepisy żeglugowe na śródlądowych drogach wodnych,stanowiące Morskiej zdnia 19 grudnia 1991 r. (załącznik do Monitora Polskiego
-7. Wymagania dotyczące wytwarzania materiału siewnego Cena 35,33 zł.
-8. Klasyfikacja wyrobów obronnych (KWO)(załącznik do Dz. U.
-9. Poprawki do załącznika do Międzynarodowej konwencji o im świadectw oraz pełnienia wacht, 1978 r., sporządzonej w poz. 286). Cena 50 zł.
-10. Zasady metodologiczne badania wskaêników techniczno-ekonomicznych(załącznik poz. 751). Cena 19 zł.
-11. Umowa o wolnym handlu między Rzecząpospolitą Polską poz. 807). Cena 30 zł.
-12. Protokół dodatkowy nr 4 do środkowoeuropejskiej umowy poz. 809). Cena 44 zł.
-13. Umowa o wolnym handlu między Rzecząpospolitą a Królestwem poz. 705).Cena 13 zł.
-14. Umowa europejska dotycząca międzynarodowego przewozu w Genewie dnia 30 września 1957 r.(tekst jednolity) 2 tomy Wszyscy zainteresowani tymi wydawnictwami proszeni są iPoligrafii Gospodarstwa Pomocniczego Kancelarii Prezesa Rady ipodanie liczby zamawianych egzemplarzy oraz adresu odbiorcy.
-Dowód wpłaty zokreśleniem zamawianych tytułów będzie traktowany Ponadto wyżej wymienione wydawnictwa można nabywać wpunktach
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marian Zdyb – przewodniczący, Zdzisław Czeszejko-Sochacki – sprawozdawca, Krzysztof Kolasiński, Biruta Lewaszkiewicz-Petrykowska, Andrzej Mączyński, protokolant: Joanna Szymczak, po rozpoznaniu na rozprawie w dniu 12 września 2000 r. sprawy z wniosku Rzecznika Praw Obywatelskich, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego, o stwierdzenie niezgodności art. 29 i art. 46 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118oraz z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774i Nr 72, poz. 801 i 802) w części, w jakiej nie przewidują prawa do wcześniejszej emerytury dla ubezpieczonych, którzy przed zgłoszeniem wniosku o emeryturę objęci byli ubezpieczeniami społecznymi z innego tytułu niż stosunek pracy – z art. 2 i art. 32 ust. 1 Konstytucji Rzeczypospolitej Polskiej, orzeka: Przepisy art. 29 i art. 46 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118, z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802 i Nr 106, poz. 1215oraz z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238i Nr 56, poz. 678) są zgodne z art. 2 i art. 32 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
 

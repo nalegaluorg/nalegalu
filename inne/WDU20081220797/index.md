@@ -8,9 +8,10 @@ pos: 797
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny składzie: Marian Grzybowski przewodniczący, Zbigniew Cieślak, Wojciech Hermeliński, Marek Mazurkiewicz, Janusz Niemcewicz sprawozdawca, po rozpoznaniu, udziałem wnioskodawcy Sejmu i Prokuratora Generalnego, na rozprawie dniu 27 2008 r., wniosku grupy posłów o zbadanie zgodności:
+# Wyrok Trybunału Konstytucyjnegoz dnia 27 czerwca 2008 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +25,75 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081220797) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/797/text.pdf) |
 
-1) ustawy zdnia 14 grudnia ozmianie ustawy Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego Służbie Wywiadu Wojskowego ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego Służby Wywiadu Wojskowego (Dz. U. 2007 7, poz. 49): 45 związku 10, 78, 175 i Konstytucji związku 6 Konwencji o ochronie praw człowieka i podstawowych wolności (Dz. U. 1993 61, poz. 284, ze zm.) 14 Międzynarodowego Paktu Praw Obywatelskich iPolitycznych (Dz. U. 1977 38, poz. 167), 42 3 Konstytucji związku 6 Konwencji o ochronie praw człowieka i podstawowych wolności 14 Międzynarodowego Paktu Praw Obywatelskich i Politycznych, 32 Konstytucji, 30 Konstytucji,
-2) ustawy 14 grudnia powołanej punkcie zakresie, jakim nie pozwala osobom objętym badaniem Komisji Weryfikacyjnej na dostęp do informacji ich dotyczących gromadzonych przez organ administracji rządowej ani nie pozwala na sprostowanie lub usunięcie niepraw4) ustawy 14 grudnia powołanej wpunkcie wzakresie, wjakim wprowadza kolejny wyjątek od zasady wieczystej ochrony danych identyfikujących osoby, które udzieliły pomocy zakresie czynności operacyjno-rozpoznawczych wojskowym służbom specjalnym, art.7 Konstytucji,
-5) 70a ustawy Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego Służbie Wywiadu Wojskowego ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego Służby Wywiadu Wojskowego (Dz. U. 104, poz. 711, ze zm.), dodanego przez ustawę 14 grudnia powołaną punkcie 1, zakresie, jakim nieprecyzyjnie definiuje zakres przedmiotowy Raportu Komisji Weryfikacyjnej, pozostawiając tym samym zbyt duży zakres swobodnego uznania organu pozasądowego, zart. Konstytucji,
-6) 70a ustawy powołanej punkcie 5, dodanego przez ustawę 14 grudnia powołaną punkcie 1, zakresie, jakim zbyt szeroko zakreśla zakres podmiotowy Raportu Komisji Weryfikacyjnej, stwarzając tym samym niebezpieczeństwo bezprawnego naruszenia praw jednostek, 2, art.7 30 Konstytucji,
-7) 70d ustawy powołanej wpunkcie 5, dodanego przez ustawę zdnia 14 grudnia powołaną punkcie 1, zakresie, jakim pozwala na sporządzanie uzupełnień raportów Komisji Weryfikacyjnej bez żadnych ograniczeń co do czasu ich zakresu, a tym samym stwarza możliwość nieograniczonego wczasie działania Komisji Weryfikacyjnej, zart. Konstytucji,
-8) 70d ustawy powołanej punkcie 5, dodanego przez ustawę 14 grudnia powołaną punkcie 1, zakresie, jakim pozwala na sporządzanie uzupełnień Szefowi SKW Szefowi SWW, a tym samym stwarza możliwość prowadzenia nieograniczonej czasie weryfikacji żołnierzy, pracowników WSI osób nimi współpracujących, art.2 Konstytucji,
-9) 62 2a ustawy powołanej punkcie 5, dodanego przez ustawę dziwych danych, 51 3 i 4 Konstytucji, 14 grudnia powołaną punkcie 1, zakresie, jakim przewiduje możliwość przeka3) ustawy 14 grudnia powołanej zania przez Marszałka Sejmu sprawozdania Komi27 2008 sygn. akt K 51/07 pisy te przyznają prawo do samodzielnego dyspo- 2. Art. 63 4a ustawy nowania wolą wypowiedzenia się procesie powołanej wpunkcie 1, dodany przez pkt lit. a weryfikacyjnym udzielają automatycznego ustawy 14 grudnia powołanej punk(zmocy tego przepisu) zwolnienia zobowiązku za- cie 1, jest zgodny i Konstytucji.
-chowania tajemnicy, zart. Konstytucji, 3. Art. 63 6a ustawy zdnia po11) 70c 4 ustawy po- wołanej punkcie 1, dodany przez pkt lit. c wołanej punkcie 5, dodanego przez ustawę ustawy 14 grudnia powołanej punk14 grudnia powołaną punkcie 1, cie1, zakresie, jakim zapewnia członkom i przezakresie, jakim pozwala Prezydentowi RP na wodniczącemu Komisji Weryfikacyjnej dostęp do upublicznienie Raportu Komisji Weryfikacyjnej, wszelkich dokumentów niezbędnych do weryfikacji 2, związku 126 i 3 oświadczeń, o których mowa 67 i 3, jest art.134 Konstytucji, zgodny zart. 2, iart. 31 3 Konstytucji.
-12) 70c ustawy zdnia powołanej 4. Art. 70a ustawy zdnia powołapunkcie 5, dodanego przez ustawę nej wpunkcie 1, dodany przez pkt 4 ustawy zdnia 14grudnia powołaną wpunkcie 1, wzakre- 14 grudnia powołanej wpunkcie 1: sie, jakim narusza równowagę władz Rzeczy- a) zakresie, jakim nie gwarantuje zainteresowapospolitej Polskiej, zart. 10 Konstytucji, nym osobom dostępu do akt sprawy, jest nie13) 70c i 3 ustawy zgodny 51 3 Konstytucji, powołanej wpunkcie wzakresie, wjakim przewi- b) wzakresie, wjakim nie gwarantuje stronom prawa duje zasięgnięcie przez Prezydenta RP opinii Mar- do wysłuchania przedmiocie zebranych inforszałka Sejmu Marszałka Senatu, jednakże nie macji, będących podstawą sporządzenia raportu wiąże tym żadnych konsekwencji razie opinii Przewodniczącego Komisji Weryfikacyjnej, jest negatywnej co do publikacji raportu Komisji Wery- niezgodny 51 4 Konstytucji, fikacyjnej, 10 Konstytucji,
-c) wzakresie, wjakim nie przewiduje środków prawa także: nych umożliwiających uruchomienie sądowej kontroli decyzji o podaniu do publicznej wiadomości
-14) 63 6a ustawy po- danych osobowych objętych raportem Przewodwołanej punkcie 5, dodanego przez ustawę niczącego Komisji Weryfikacyjnej, jest niezgod14 grudnia powołaną punkcie 1, ny 45 Konstytucji.
-zakresie, jakim zapewnia członkom i przewodniczącemu Komisji Weryfikacyjnej dostęp do 5. Art. 70a ustawy wszelkich dokumentów niezbędnych do weryfika- powołanej wpunkcie 1, dodany przez pkt 4 ustacji oświadczeń, októrych mowa wart. 67 i3, wy 14 grudnia powołanej punkcie 1, 2, i 31 3 Konstytucji, jest zgodny Konstytucji nie jest niezgodny Konstytucji.
-15) 70b ustawy powołanej punkcie 5, dodanego przez ustawę 6. Art. 70a ustawy 14grudnia powołaną punkcie 1, powołanej wpunkcie 1, dodany przez pkt 4 ustai Konstytucji, wy 14 grudnia powołanej punkcie 1:
-16) 79a ustawy powołanej a) jest niezgodny 32 Konstytucji, punkcie 5, dodanego przez ustawę 14grudnia powołaną punkcie 1, 2, b) jest zgodny 2, i 30 Konstytucji.
-iart. 31 3 Konstytucji, 7. Art. 70b ustawy zdnia powołaorzeka: nej wpunkcie 1, dodany przez pkt 4 ustawy zdnia 14 grudnia powołanej wpunkcie 1, jest zgod1. Art. 62 2a ustawy zdnia ny zart. iart. Konstytucji.
-Przepisy wprowadzające ustawę o Służbie Kontrwy- 8. Art. 70c ustawy zdnia powoławiadu Wojskowego Służbie Wywiadu Wojskowego ustawę osłużbie funkcjonariuszy Służby Kontrwywiadu Wojskowego Służby Wywiadu Wojskowego (Dz. U. 104, poz. 711 i 218, poz. 1592 nej wpunkcie 1, dodany przez pkt 4 ustawy zdnia 14 grudnia powołanej wpunkcie 1, jest zgodny zart. iart. 10 Konstytucji.
-11. Art. 70d i ustawy Ponadto postanawia: 2006r. powołanej punkcie 1, dodany przez pkt4 ustawy 14 grudnia powołanej na podstawie 39 pkt ustawy punkcie 1, jest zgodny i Konstytucji. sierpnia 1997 oTrybunale Konstytucyjnym (Dz. U.
-102, poz. 643, 2000 48, poz. 552 i 53,
-12. Art. 79a ustawy powo- poz. 638, 2001 98, poz. 1070 2005 łanej punkcie 1, dodany przez pkt ustawy 169, poz. 1417) umorzyć postępowanie pozos14 grudnia powołanej punkcie 1, jest tałym zakresie ze względu na zbędność wydania zgodny zart. 2, iart. 31 3 Konstytucji. wyroku.
-13. Ustawa 14 grudnia powołana Marian Grzybowski punkcie jest zgodna 2, i 30 Konstytucji nie jest niezgodna 31 3 Zbigniew Cieślak Wojciech Hermeliński i art.42 3 Konstytucji. Marek Mazurkiewicz Janusz Niemcewicz
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marian Grzybowski – przewodniczący, Zbigniew Cieślak, Wojciech Hermeliński, Marek Mazurkiewicz, Janusz Niemcewicz – sprawozdawca, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 27 czerwca 2008 r., wniosku grupy posłów o zbadanie zgodności:
+1)
+ustawy z dnia 14 grudnia 2006 r. o zmianie ustawy – Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2007 r. Nr 7, poz. 49):
+– z art. 45 ust. 1 w związku z art. 10, art. 78, art. 175 i art. 2 Konstytucji oraz w związku z art. 6 Konwencji o ochronie praw człowieka i podstawowych wolności (Dz. U. z 1993 r. Nr 61, poz. 284, ze zm.) oraz art. 14 Międzynarodowego Paktu Praw Obywatelskich i Politycznych (Dz. U. z 1977 r. Nr 38, poz. 167),
+– z art. 42 ust. 3 Konstytucji w związku z art. 6 ust. 2 Konwencji o ochronie praw człowieka i podstawowych wolności oraz art. 14 ust. 2 Międzynarodowego Paktu Praw Obywatelskich i Politycznych,
+– z art. 32 ust. 2 Konstytucji,
+– z art. 30 Konstytucji,
+2)
+ustawy z dnia 14 grudnia 2006 r. powołanej w punkcie 1 w zakresie, w jakim nie pozwala osobom objętym badaniem Komisji Weryfikacyjnej na dostęp do informacji ich dotyczących gromadzonych przez organ administracji rządowej ani nie pozwala na sprostowanie lub usunięcie nieprawdziwych danych, z art. 51 ust. 3 i 4 Konstytucji,
+3)
+ustawy z dnia 14 grudnia 2006 r. powołanej w punkcie 1 z art. 31 ust. 3 Konstytucji w zakresie, w jakim ogranicza prawa jednostki, jednocześnie nie realizując jednego z uprawnionych celów określonych w art. 31 ust. 3 Konstytucji,
+4)
+ustawy z dnia 14 grudnia 2006 r. powołanej w punkcie 1 w zakresie, w jakim wprowadza kolejny wyjątek od zasady wieczystej ochrony danych identyfikujących osoby, które udzieliły pomocy w zakresie czynności operacyjno-rozpoznawczych wojskowym służbom specjalnym, z art. 2 oraz art. 7 Konstytucji,
+5)
+art. 70a ust. 1 ustawy z dnia 9 czerwca 2006 r. – Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 711, ze zm.), dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, w zakresie, w jakim nieprecyzyjnie definiuje zakres przedmiotowy Raportu Komisji Weryfikacyjnej, pozostawiając tym samym zbyt duży zakres swobodnego uznania organu pozasądowego, z art. 2 oraz art. 7 Konstytucji,
+6)
+art. 70a ust. 2 ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, w zakresie, w jakim zbyt szeroko zakreśla zakres podmiotowy Raportu Komisji Weryfikacyjnej, stwarzając tym samym niebezpieczeństwo bezprawnego naruszenia praw jednostek, z art. 2, art. 7 oraz art. 30 Konstytucji,
+7)
+art. 70d ust. 1 ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, w zakresie, w jakim pozwala na sporządzanie uzupełnień raportów Komisji Weryfikacyjnej bez żadnych ograniczeń co do czasu oraz ich zakresu, a tym samym stwarza możliwość nieograniczonego w czasie działania Komisji Weryfikacyjnej, z art. 2 oraz art. 7 Konstytucji,
+8)
+art. 70d ust. 2 ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, w zakresie, w jakim pozwala na sporządzanie uzupełnień Szefowi SKW oraz Szefowi SWW, a tym samym stwarza możliwość prowadzenia nieograniczonej w czasie weryfikacji żołnierzy, pracowników WSI oraz osób z nimi współpracujących, z art. 2 oraz art. 7 Konstytucji,
+9)
+art. 62 ust. 2a ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, w zakresie, w jakim przewiduje możliwość przekazania przez Marszałka Sejmu sprawozdania Komisji Likwidacyjnej bliżej nieokreślonym „innym organom państwowym realizującym zadania w zakresie bezpieczeństwa lub obronności państwa”, z art. 2 oraz art. 7 Konstytucji,
+10)
+art. 63 ust. 4a ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, oraz art. 67 ust. 5 ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, w zakresie, w jakim przepisy te przyznają prawo do samodzielnego dysponowania wolą wypowiedzenia się w procesie weryfikacyjnym oraz udzielają automatycznego (z mocy tego przepisu) zwolnienia z obowiązku zachowania tajemnicy, z art. 2 oraz art. 7 Konstytucji,
+11)
+art. 70c ust. 4 ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, w zakresie, w jakim pozwala Prezydentowi RP na upublicznienie Raportu Komisji Weryfikacyjnej, z art. 2, art. 7 w związku z art. 126 ust. 2 i 3 oraz art. 134 Konstytucji,
+12)
+art. 70c ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, w zakresie, w jakim narusza równowagę władz w Rzeczypospolitej Polskiej, z art. 10 oraz art. 7 Konstytucji,
+13)
+art. 70c ust. 2 i 3 ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5 w zakresie, w jakim przewiduje zasięgnięcie przez Prezydenta RP opinii Marszałka Sejmu oraz Marszałka Senatu, jednakże nie wiąże z tym żadnych konsekwencji w razie opinii negatywnej co do publikacji raportu Komisji Weryfikacyjnej, z art. 10 oraz art. 2 Konstytucji,
+a także:
+14)
+art. 63 ust. 6a ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, w zakresie, w jakim zapewnia członkom i przewodniczącemu Komisji Weryfikacyjnej dostęp do wszelkich dokumentów niezbędnych do weryfikacji oświadczeń, o których mowa w art. 67 ust. 1 i 3, z art. 2, art. 7 i art. 31 ust. 3 Konstytucji,
+15)
+art. 70b ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, z art. 2 i art. 7 Konstytucji,
+16)
+art. 79a ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 5, dodanego przez ustawę z dnia 14 grudnia 2006 r. powołaną w punkcie 1, z art. 2, art. 7 i art. 31 ust. 3 Konstytucji,
+orzeka:
+1.
+Art. 62 ust. 2a ustawy z dnia 9 czerwca 2006 r. – Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 711 i Nr 218, poz. 1592 oraz z 2007 r. Nr 7, poz. 49), dodany przez art. 1 pkt 1 ustawy z dnia 14 grudnia 2006 r. o zmianie ustawy – Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2007 r. Nr 7, poz. 49), jest zgodny z art. 2 i art. 7 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 63 ust. 4a ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 1, dodany przez art. 1 pkt 2 lit. a ustawy z dnia 14 grudnia 2006 r. powołanej w punkcie 1, jest zgodny z art. 2 i art. 7 Konstytucji.
+3.
+4.
+Art. 70a ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 1, dodany przez art. 1 pkt 4 ustawy z dnia 14 grudnia 2006 r. powołanej w punkcie 1:
+a)
+w zakresie, w jakim nie gwarantuje zainteresowanym osobom dostępu do akt sprawy, jest niezgodny z art. 51 ust. 3 Konstytucji,
+b)
+w zakresie, w jakim nie gwarantuje stronom prawa do wysłuchania w przedmiocie zebranych informacji, będących podstawą sporządzenia raportu Przewodniczącego Komisji Weryfikacyjnej, jest niezgodny z art. 51 ust. 4 Konstytucji,
+c)
+w zakresie, w jakim nie przewiduje środków prawnych umożliwiających uruchomienie sądowej kontroli decyzji o podaniu do publicznej wiadomości danych osobowych objętych raportem Przewodniczącego Komisji Weryfikacyjnej, jest niezgodny z art. 45 ust. 1 Konstytucji.
+5.
+6.
+a)
+jest niezgodny z art. 32 Konstytucji,
+b)
+jest zgodny z art. 2, art. 7 i art. 30 Konstytucji.
+7.
+8.
+9.
+10.
+11.
+12.
+Art. 79a ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 1, dodany przez art. 1 pkt 5 ustawy z dnia 14 grudnia 2006 r. powołanej w punkcie 1, jest zgodny z art. 2, art. 7 i art. 31 ust. 3 Konstytucji.
+13.
+Ustawa z dnia 14 grudnia 2006 r. powołana w punkcie 1 jest zgodna z art. 2, art. 7 i art. 30 Konstytucji oraz nie jest niezgodna z art. 31 ust. 3 i art. 42 ust. 3 Konstytucji.
+14.
+Ustawa z dnia 14 grudnia 2006 r. powołana w punkcie 1, z wyjątkiem jej art. 1 pkt 4 – w zakresie, w jakim dotyczy on art. 70a ust. 2 ustawy z dnia 9 czerwca 2006 r. powołanej w punkcie 1 (punkt 5 wyroku) – jest zgodna z art. 32 Konstytucji.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie w pozostałym zakresie ze względu na zbędność wydania wyroku.
 

@@ -8,9 +8,10 @@ pos: 1053
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 19 lipca Poz. 1053
+# Ustawa z dnia 22 czerwca 2016 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +25,31 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1053/text.pdf) |
 
-USTAWA 22 zmianie pracy oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie pracy (Dz. 1502, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 176.**
 
-**Art. 2.** W ustawie 21 listopada 1967 powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. 2015 827, późn. zm. ) wprowadza się następujące zmiany:
+§ 1. Kobiety w ciąży i kobiety karmiące dziecko piersią nie mogą wykonywać prac uciążliwych, niebezpiecznych lub szkodliwych dla zdrowia, mogących mieć niekorzystny wpływ na ich zdrowie, przebieg ciąży lub karmienie dziecka piersią.
 
-**Art. 3.** W ustawie 11 września 2003 służbie wojskowej żołnierzy zawodowych (Dz. 1414, późn. zm. ) 65 ust. 2 pkt 3 otrzymuje brzmienie: „3) nie powierza się wykonywania zadań służbowych uciążliwych, niebezpiecznych lub szkodliwych dla zdrowia, określonych przepisach wydanych na podstawie § 2 pracy.”.
+§ 2. Rada Ministrów określi, w drodze rozporządzenia, wykaz prac, o których mowa w § 1, obejmujący prace:
+
+- **1)** związane z nadmiernym wysiłkiem fizycznym, w tym ręcznym transportem ciężarów,
+- **2)** mogące mieć niekorzystny wpływ ze względu na sposób i warunki ich wykonywania, z uwzględnieniem rodzajów czynników występujących w środowisku pracy i poziomu ich występowania kierując się aktualną wiedzą na temat wpływu warunków wykonywania pracy i czynników występujących w środowisku pracy na zdrowie kobiet, przebieg ciąży lub karmienie dziecka piersią. ” ;
+- **2)** w art. 179 § 1 i 2 otrzymują brzmienie: „
+
+§ 1. Pracodawca zatrudniający pracownicę w ciąży lub karmiącą dziecko piersią przy pracy wymienionej w przepisach wydanych na podstawie art. 176 § 2, wzbronionej takiej pracownicy bez względu na stopień narażenia na czynniki szkodliwe dla zdrowia lub niebezpieczne, jest obowiązany przenieść pracownicę do innej pracy, a jeżeli jest to niemożliwe, zwolnić ją na czas niezbędny z obowiązku świadczenia pracy.
+
+§ 2. Pracodawca zatrudniający pracownicę w ciąży lub karmiącą dziecko piersią przy pozostałych pracach wymienionych w przepisach wydanych na podstawie art. 176 § 2 jest obowiązany dostosować warunki pracy do wymagań określonych w tych przepisach lub tak ograniczyć czas pracy, aby wyeliminować zagrożenia dla zdrowia lub bezpieczeństwa pracownicy. Jeżeli dostosowanie warunków pracy na dotychczasowym stanowisku pracy lub skrócenie czasu pracy jest niemożliwe lub niecelowe, pracodawca jest obowiązany przenieść pracownicę do innej pracy, a w razie braku takiej możliwości zwolnić pracownicę na czas niezbędny z obowiązku świadczenia pracy. ” .
+
+**Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 827, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2014 r. poz. 1414, z późn. zm.) w art. 65 w ust. 2 pkt 3 otrzymuje brzmienie: „
 
 **Art. 4.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie ustawy, której 1, zachowują moc do wejścia życie przepisów wykonawczych wydanych na podstawie § 2 ustawy, której 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 9 miesięcy od wejścia życie niniejszej ustawy.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 176 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 176 § 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 9 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie 48 ust. 9 ustawy, której 2, zachowują moc do wejścia życie przepisów wykonawczych wydanych na podstawie 48 ust. 9 ustawy, której 2, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 9 miesięcy od wejścia życie niniejszej ustawy.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 48 ust. 9 ustawy, o której mowa w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 48 ust. 9 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 9 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,6 +8,7 @@ pos: 251
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 22 stycznia 2010 r. o zmianie ustawy o podatku od czynności cywilnoprawnych
@@ -24,7 +25,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100440251) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/251/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2007 r. Nr 68, poz. 450, z późn. zm.
+**Art. 1.** W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2007 r. Nr 68, poz. 450, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 251 USTAWA z dnia 22 stycznia 2010 r. o zmianie ustawy o podatku od czynności cywilnoprawnych
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

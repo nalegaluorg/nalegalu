@@ -8,9 +8,10 @@ pos: 403
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, marca 2023 Poz.
+# Ustawa z dnia 26 stycznia 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,55 +25,68 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/403/text.pdf) |
 
-USTAWA 26 stycznia 2023 zmianie ustawy Kodeks cywilnego oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie 17 listopada 1964 Kodeks cywilnego (Dz. U. 2021 poz. 1805, późn. zm. ) wprowadza następujące zmiany:
+### Dział IIda Zaświadczenia dotyczące orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących odpowiedzialności rodzicielskiej
 
-**Art. 795¹¹a.**
+**Art. 79511a.**
 
-1. Jeżeli orzeczenie objęte zakresem zastosowania rozporządzenia nr 2019/1111 spełnia warunki określone tym rozporządzeniu, sąd, który wydał to orzeczenie, wniosek strony, wydaje odpowiednie zaświadczenie potrzeby uznania wykonania tego orzeczenia innym państwie członkowskim Unii Europejskiej.
+§ 1. Jeżeli orzeczenie objęte zakresem zastosowania rozporządzenia nr 2019/1111 spełnia warunki określone w tym rozporządzeniu, sąd, który wydał to orzeczenie, na wniosek strony, wydaje odpowiednie zaświadczenie na potrzeby uznania lub wykonania tego orzeczenia w innym państwie członkowskim Unii Europejskiej.
 
-2. Na postanowienie przedmiocie odmowy wydania zaświadczenia, którym mowa przysługuje zażalenie.
+§ 2. Na postanowienie w przedmiocie odmowy wydania zaświadczenia, o którym mowa w § 1, przysługuje zażalenie.
 
-**Art. 795¹¹b.**
+§ 1. W razie stwierdzenia, że zachodzi przewidziana w art. 37 lub art. 48 rozporządzenia nr 2019/1111 podstawa do sprostowania lub cofnięcia zaświadczenia, sąd, który wydał zaświadczenie, na wniosek strony albo z urzędu, dokonuje sprostowania zaświadczenia albo je cofa.
 
-1. W razie stwierdzenia, że zachodzi przewidziana 37 48 rozporządzenia nr 2019/1111 podstawa do sprostowania cofnięcia zaświadczenia, sąd, który wydał zaświadczenie, wniosek strony albo urzędu, dokonuje sprostowania zaświadczenia albo je cofa.
+§ 2. W razie stwierdzenia, że zachodzi przewidziana w art. 49 rozporządzenia nr 2019/1111 podstawa do wydania zaświadczenia wskazującego na brak albo ograniczenie albo zawieszenie wykonalności orzeczenia, sąd, który wydał orzeczenie, na wniosek strony wydaje zaświadczenie wskazujące na brak albo ograniczenie albo zawieszenie wykonalności orzeczenia.
 
-2. W razie stwierdzenia, że zachodzi przewidziana 49 rozporządzenia nr 2019/1111 podstawa do wydania zaświadczenia wskazującego brak albo ograniczenie albo zawieszenie wykonalności orzeczenia, sąd, który wydał orzeczenie, wniosek strony wydaje zaświadczenie wskazujące brak albo ograniczenie albo zawieszenie wykonalności orzeczenia.
+§ 3. Na postanowienie w przedmiocie zaświadczenia, o którym mowa w § 1 i 2, przysługuje zażalenie. Postanowienia, o których mowa w art. 79511a i art. 79511b, sąd wydaje na posiedzeniu niejawnym. ” ;
 
-3. Na postanowienie przedmiocie zaświadczenia, którym mowa 1 i 2, przysługuje zażalenie.
+- **6)** w art. 11063 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „
 
-**Art. 795¹¹c.** Postanowienia, których mowa 795 i 795 , sąd wydaje posiedzeniu niejawnym.”;
+§ 2. Do jurysdykcji krajowej należą także sprawy dotyczące władzy rodzicielskiej lub kontaktów, o których mowa w art. 5691 § 11, jeżeli uczestnicy wyrazili na to zgodę lub uznali jurysdykcję sądu polskiego w toku postępowania w sprawach o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką prowadzonych na podstawie konwencji haskiej z 1980 r. ” ;
 
-**Art. 1153¹⁶b.**
+- **7)** w art. 11066 § 2 otrzymuje brzmienie: „
 
-1. W sytuacji gdy zgodnie przepisami rozporządzenia nr 2019/1111:
+§ 2. Wniosek sądu lub innego organu państwa obcego albo uczestników postępowania o stwierdzenie jurysdykcji krajowej na podstawie art. 8 ust. 1 konwencji haskiej z 1996 r. lub art. 12 ust. 1 rozporządzenia nr 2019/1111 rozpoznaje sąd rejonowy dla m.st. Warszawy. ” ;
 
-- **1)** strona wniosła częściowe wykonanie orzeczenia
-- **2)** stwierdzono podstawy do odmowy wykonania orzeczenia co do jego części albo
-- **3)** zachodzą podstawy do określenia warunków wykonywania kontaktów dzieckiem sąd właściwy do wykonania orzeczenia wydaje postanowienie odpowiednio przedmiocie częściowego wykonania orzeczenia albo przedmiocie określenia warunków wykonywania kontaktów.
+- **8)** w art. 11067 pkt 1–4 otrzymują brzmienie: „
+- **1)** wystąpienia do sądu lub innego organu państwa obcego o stwierdzenie jurysdykcji na podstawie art. 8 ust. 1 tiret pierwsze konwencji haskiej z 1996 r. lub art. 12 ust. 1 lit. b rozporządzenia nr 2019/1111;
+- **2)** wystąpienia do sądu lub innego organu państwa obcego o stwierdzenie jurysdykcji krajowej na podstawie art. 9 ust. 1 konwencji haskiej z 1996 r. lub art. 13 ust. 1 rozporządzenia nr 2019/1111;
+- **3)** wystąpienia sądu lub innego organu państwa obcego albo uczestników postępowania o stwierdzenie jurysdykcji krajowej na podstawie art. 8 ust. 1 konwencji haskiej z 1996 r. lub art. 12 ust. 1 rozporządzenia nr 2019/1111;
+- **4)** wezwania uczestników postępowania do złożenia wniosku, o którym mowa w art. 8 ust. 1 tiret drugie lub art. 9 ust. 1 tiret drugie konwencji haskiej z 1996 r., albo wniosku, o którym mowa w art. 12 ust. 1 lit. a rozporządzenia nr 2019/1111; ” ;
+- **9)** po art. 1134 dodaje się art. 11341 w brzmieniu: „
 
-2. Na postanowienie sądu przysługuje zażalenie.”;
+**Art. 11341.** W razie stwierdzenia, że zachodzą podstawy określone w rozporządzeniu nr 2019/1111 do wystąpienia do sądu lub organu innego państwa członkowskiego Unii Europejskiej z wnioskiem o udzielenie pomocy w wykonaniu orzeczenia w sprawie dotyczącej odpowiedzialności rodzicielskiej lub kontaktów z dzieckiem, sąd, który wykonuje orzeczenie, wydaje postanowienie w przedmiocie tego wystąpienia. ” ;
 
-- **15)** 1153 1153 „Art. 1153 . 1. Jeżeli ocenie sądu organu zachodzą:
-- **1)** przesłanka odmowy uznania wykonania orzeczenia, której mowa 38, 39 41 rozporządzenia nr 2019/1111
-- **2)** podstawa odmowy uznania i wykonania orzeczenia, której mowa 50 rozporządzenia nr 2019/1111,
-- **3)** podstawa odmowy uznania wykonania dokumentu urzędowego porozumienia, której mowa 68 rozporządzenia nr 2019/1111 sąd organ odmawia prowadzenia podstawie przedłożonego im orzeczenia, dokumentu urzędowego porozumienia objętych zakresem zastosowania tego rozporządzenia, pouczając jednocześnie wnioskodawcę prawie do wystąpienia trybie 1153 do sądu okręgowego wnioskiem, którym mowa 1153 pkt 2.
+**Art. 115315b.** Orzeczenia wydane w państwach członkowskich Unii Europejskiej, a także dokumenty urzędowe i porozumienia pochodzące z tych państw, objęte zakresem zastosowania rozporządzenia nr 2019/1111, które podlegają wykonaniu w inny sposób niż w drodze egzekucji, stanowią podstawę wszczęcia postępowania wykonawczego. ” ;
 
-2. Jeżeli trakcie wykonawczego wystąpiono do sądu okręgowego wnioskiem odmowę uznania wykonania orzeczenia, dokumentu urzędowego porozumienia objętych zakresem zastosowania rozporządzenia nr 2019/1111, sąd organ może zawiesić postępowanie prowadzone ich podstawie do czasu prawomocnego zakończenia przed sądem okręgowym. W razie oddalenia wniosku odmowę uznania wykonania orzeczenia, dokumentu urzędowego porozumienia objętych zakresem zastosowania rozporządzenia nr 2019/1111 postępowanie prowadzone ich podstawie umarza się.”;
+**Art. 115316a.** O wszczęciu postępowania wykonawczego na podstawie orzeczeń wydanych w państwach członkowskich Unii Europejskiej, a także dokumentów urzędowych i porozumień, o którym mowa w art. 115315b, sąd właściwy do prowadzenia postępowania wykonawczego zawiadamia właściwego prokuratora okręgowego.
 
-- **16)** 1153 1153 „Art. 1153 . Czynności, których mowa 28, 52, 55 ust. 1 i 56 rozporządzenia nr 2019/1111,
-- **2)** wniosku stwierdzenie braku podstaw do odmowy uznania orzeczenia, dokumentu urzędowego i porozumienia objętych zakresem zastosowania rozporządzenia nr 2019/1111 podstawie przesłanki podstawy, których mowa 38, 39, 41, 50 68 tego rozporządzenia.”.
+**Art. 115319a.**
 
-**Art. 2.** W ustawie 28 lipca 2005 kosztach sądowych sprawach cywilnych (Dz. U. 2022 poz. 1125 oraz 2023 poz. 181, 289 i 326) 24 ust. 1 pkt 2a i 2b otrzymują brzmienie: „2a) odmowę wykonania, którym mowa przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1215/2012 12 grudnia 2012 sprawie jurysdykcji i uznawania orzeczeń sądowych oraz ich wykonywania sprawach cywilnych i handlowych (wersja przekształcona) (Dz. Urz. UE L 351 20.12.2012, str. późn. zm.), rozporządzenia (WE) nr 805/2004 Parlamentu Europejskiego i Rady 21 kwietnia 2004 sprawie utworzenia Europejskiego Tytułu Egzekucyjnego dla roszczeń bezspornych (Dz. Urz. UE L 143 30.04.2004, str. 15, późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 7, str. 38), rozporządzenia (WE) nr 1896/2006 Parlamentu Europejskiego i Rady 12 grudnia 2006 ustanawiającego postępowanie sprawie europejskiego nakazu zapłaty (Dz. Urz. UE L 399 30.12.2006, str. późn. zm.), rozporządzenia (WE) nr 861/2007 Parlamentu Europejskiego i Rady 11 lipca 2007 ustanawiającego europejskie postępowanie sprawie drobnych roszczeń (Dz. Urz. UE L 199 31.07.2007, str. późn. zm.), rozporządzenia Rady (WE) nr 4/2009 18 grudnia 2008 sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń oraz współpracy zakresie zobowiązań alimentacyjnych (Dz. Urz. UE L 7 10.01.2009, str. późn. zm.) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 606/2013 12 czerwca 2013 sprawie wzajemnego uznawania środków ochrony sprawach cywilnych (Dz. Urz. UE L 181 29.06.2013, str. 4) rozporządzenia Rady (UE) 2019/1111 25 czerwca 2019 sprawie jurysdykcji, uznawania i wykonywania orzeczeń sprawach małżeńskich i sprawach dotyczących odpowiedzialności rodzicielskiej oraz sprawie uprowadzenia dziecka za granicę (wersja przekształcona) (Dz. Urz. UE L 178 02.07.2019, str. 1);
+§ 1. Jeżeli w ocenie sądu lub organu zachodzą:
 
-**Art. 3.** W ustawie 9 czerwca 2011 wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. 2022 poz. 447, 1700 i 2140) 35a ust. 1 otrzymuje brzmienie: „1. W przypadku możliwości umieszczenia dziecka pieczy zastępczej Rzeczypospolitej Polskiej podstawie orzeczenia sądu innego organu państwa obcego, przewidzianego przepisach umów dwustronnych, Konwencji jurysdykcji, prawie właściwym, uznawaniu, wykonywaniu i współpracy zakresie odpowiedzialności rodzicielskiej oraz środków ochrony dzieci, sporządzonej Hadze 19 października 1996 (Dz. U. 2010 poz. 1158) rozporządzenia Rady (UE) 2019/1111 25 czerwca 2019 sprawie jurysdykcji, uznawania i wykonywania orzeczeń sprawach małżeńskich i sprawach dotyczących odpowiedzialności rodzicielskiej oraz sprawie uprowadzenia dziecka za granicę (wersja przekształcona) (Dz. Urz. UE L 178 02.07.2019, str. 1), zgody umieszczenie, której mowa tych przepisach, udziela sąd opiekuńczy ustaleniu, że takie umieszczenie odpowiada dobru dziecka oraz że dziecko posiada istotne związki Rzecząpospolitą Polską albo jest obywatelem Rzeczypospolitej Polskiej.”.
+- **1)** przesłanka odmowy uznania lub wykonania orzeczenia, o której mowa w art. 38, art. 39 lub art. 41 rozporządzenia nr 2019/1111 lub
+- **2)** podstawa odmowy uznania i wykonania orzeczenia, o której mowa w art. 50 rozporządzenia nr 2019/1111, lub
+- **3)** podstawa odmowy uznania lub wykonania dokumentu urzędowego lub porozumienia, o której mowa w art. 68 rozporządzenia nr 2019/1111 sąd lub organ odmawia prowadzenia postępowania na podstawie przedłożonego im orzeczenia, dokumentu urzędowego lub porozumienia objętych zakresem zastosowania tego rozporządzenia, pouczając jednocześnie wnioskodawcę o prawie do wystąpienia w trybie art. 115323 do sądu okręgowego z wnioskiem, o którym mowa w art. 115325 § 2 pkt 2.
 
-**Art. 4.** W ustawie 26 stycznia 2018 wykonywaniu niektórych czynności organu centralnego sprawach rodzinnych zakresu obrotu prawnego podstawie prawa Unii Europejskiej i umów międzynarodowych (Dz. U. poz. 416) wprowadza następujące zmiany:
+§ 2. Jeżeli w trakcie postępowania wykonawczego wystąpiono do sądu okręgowego z wnioskiem o odmowę uznania lub wykonania orzeczenia, dokumentu urzędowego lub porozumienia objętych zakresem zastosowania rozporządzenia nr 2019/1111, sąd lub organ może zawiesić postępowanie prowadzone na ich podstawie do czasu prawomocnego zakończenia postępowania przed sądem okręgowym. W razie oddalenia wniosku o odmowę uznania lub wykonania orzeczenia, dokumentu urzędowego lub porozumienia objętych zakresem zastosowania rozporządzenia nr 2019/1111 postępowanie prowadzone na ich podstawie umarza się. ” ;
 
-**Art. 5.** W ustawie 7 lipca 2022 zmianie ustawy Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 2600) 33 otrzymuje brzmienie: „Art. 33. Ustawa wchodzi życie dniem 1 października 2023 r., wyjątkiem:
+- **16)** po art. 115322a dodaje się art. 115322b w brzmieniu: „
 
-**Art. 6.** Przepisy dotychczasowe stosuje sprawach objętych zakresem zastosowania rozporządzenia Rady (WE) nr 2201/2003 27 listopada 2003 dotyczącego jurysdykcji oraz uznawania i wykonywania orzeczeń sprawach małżeńskich oraz sprawach dotyczących odpowiedzialności rodzicielskiej, uchylającego rozporządzenie (WE) nr 1347/2000 (Dz. Urz. UE L 338 23.12.2003, str. późn. zm. ) do:
+**Art. 115322b.** Czynności, o których mowa w art. 28, art. 52, art. 55 ust. 1 i art. 56 rozporządzenia nr 2019/1111, oraz czynności dotyczące zawieszenia postępowania w sprawie wykonania orzeczenia oraz odmowy wykonania orzeczenia na podstawie art. 57 tego rozporządzenia wykonuje sąd właściwy do wykonania orzeczenia. ” ;
 
-**Art. 7.** Ustawa wchodzi życie upływie 14 dni od ogłoszenia, wyjątkiem 5, który wchodzi życie dniem następującym dniu ogłoszenia.
+**Art. 2.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2022 r. poz. 1125 oraz z 2023 r. poz. 181, 289 i 326) w art. 24 w ust. 1 pkt 2a i 2b otrzymują brzmienie: „
+
+**Art. 3.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447, 1700 i 2140) w art. 35a ust. 1 otrzymuje brzmienie: „ 1. W przypadku możliwości umieszczenia dziecka w pieczy zastępczej w Rzeczypospolitej Polskiej na podstawie orzeczenia sądu lub innego organu państwa obcego, przewidzianego w przepisach umów dwustronnych, Konwencji o jurysdykcji, prawie właściwym, uznawaniu, wykonywaniu i współpracy w zakresie odpowiedzialności rodzicielskiej oraz środków ochrony dzieci, sporządzonej w Hadze dnia 19 października 1996 r. (Dz. U. z 2010 r. poz. 1158) lub rozporządzenia Rady (UE) 2019/1111 z dnia 25 czerwca 2019 r. w sprawie jurysdykcji, uznawania i wykonywania orzeczeń w sprawach małżeńskich i w sprawach dotyczących odpowiedzialności rodzicielskiej oraz w sprawie uprowadzenia dziecka za granicę (wersja przekształcona) (Dz. Urz. UE L 178 z 02.07.2019, str. 1), zgody na umieszczenie, o której mowa w tych przepisach, udziela sąd opiekuńczy po ustaleniu, że takie umieszczenie odpowiada dobru dziecka oraz że dziecko posiada istotne związki z Rzecząpospolitą Polską albo jest obywatelem Rzeczypospolitej Polskiej. ” .
+
+**Art. 4.** W ustawie z dnia 26 stycznia 2018 r. o wykonywaniu niektórych czynności organu centralnego w sprawach rodzinnych z zakresu obrotu prawnego na podstawie prawa Unii Europejskiej i umów międzynarodowych (Dz. U. poz. 416) wprowadza się następujące zmiany:
+
+**Art. 5.** W ustawie z dnia 7 lipca 2022 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 2600) art. 33 otrzymuje brzmienie: „
+
+**Art. 33.** Ustawa wchodzi w życie z dniem 1 października 2023 r., z wyjątkiem:
+
+**Art. 6.** Przepisy dotychczasowe stosuje się w sprawach objętych zakresem zastosowania rozporządzenia Rady (WE) nr 2201/2003 z dnia 27 listopada 2003 r. dotyczącego jurysdykcji oraz uznawania i wykonywania orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących odpowiedzialności rodzicielskiej, uchylającego rozporządzenie (WE) nr 1347/2000 (Dz. Urz. UE L 338 z 23.12.2003, str. 1, z późn. zm.) do:
+
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

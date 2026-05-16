@@ -8,9 +8,10 @@ pos: 348
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny składzie: Jerzy Stępień przewodniczący, Zbigniew Cieślak, Maria Gintowt-Jankowicz, Mirosław Granat, Marian Grzybowski sprawozdawca, Adam Jamróz, Teresa Liszcz, Ewa Ęętowska, Marek Mazurkiewicz, Janusz Niemcewicz, Andrzej Rzepliński, Mirosław Wyrzykowski, Bohdan Zdziennicki, po rozpoznaniu, udziałem wnioskodawcy oraz Sejmu Prokuratora Generalnego, na rozprawie dniu 26 marca 2008 r., wniosku Krajowej Rady Notarialnej zbadanie zgodności:
+# Wyrok Trybunału Konstytucyjnegoz dnia 26 marca 2008 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,22 +25,34 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080570348) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/348/text.pdf) |
 
-1) 12 1 pkt 2 Prawo onotariacie (Dz. U. z2002 42, poz. 369, ze zm.), brzmieniu nadanym przez 3 pkt 3 zdnia 30 czerwca 2005 ozmianie Prawo oadwokaturze iniektórych innych ustaw (Dz. U. 163, poz. 1361, ze zm.), 17 ust. 1 Konstytucji,
-2) 12 2 pkt 2—4 zdnia Prawo onotariacie, wbrzmieniu nadanym przez 3 pkt 3 zdnia 30 czerwca 2005 powołanej punkcie 1, 17 ust. 1 oraz 2 Konstytucji,
-3) 12 3 i4 zdnia Prawo onotariacie, wbrzmieniu nadanym przez 3 pkt 3 30 czerwca 2005 powołanej
-5) 3 pkt 21 30 czerwca 2005 powołanej punkcie 1, zmieniającego brzmienie 75 Prawo 17 ust. 1 Konstytucji,
-6) 74 6 Prawo brzmieniu nadanym przez 3 pkt 19 30 czerwca 2005 powołanej punkcie 1, 17 ust. 1 Konstytucji,
-7) 74 1 Prawo onotariacie, wbrzmieniu nadanym przez art.3 pkt19 zdnia 30 czerwca 2005r. powołanej punkcie 1, związku 71b 1 71f 1—3 Prawo dodanymi przez 3 pkt 16 30 czerwca 2005 powołanej punkcie 1, 17 ust. 1 Konstytucji, orzeka:
-1. Art. 12 1 pkt 2 Prawo onotariacie (Dz. U. z2002 42, poz. 369, 2003 49, poz. 408, 124, poz. 1152 217, poz. 2142, 2004 62, poz. 577, 147, poz. 1547, 173, poz. 1808 202, poz. 2067, 2005 163, poz. 1361, 167, poz. 1398 169, poz. 1417, 2006r. 218, poz. 1592 225, poz. 1635 oraz 2007 25, poz. 162, 80, poz. 540, 85, poz. 571 191, poz. 1371), brzmieniu nadanym przez 3 pkt 3 30 czerwca 2005 ozmianie Prawo oadwokaturze iniektórych innych ustaw (Dz. U. 163, poz. 1361 oraz 2006 Nr75, poz.529, Nr149, poz.1075 iNr206, poz.1522), jest zgodny zart.17 ust.1 Konstytucji Rzeczypospolitej Polskiej.
-2. Art. 12 2 pkt 2—4 Prawo brzmieniu nadanym przez 3 pkt 3 30 czerwca 2005 zmianie Prawo adwokaturze niektórych innych ustaw, jest niezgodny 2 Konstytucji.
-3. Art. 12 3 związku 12 2 pkt 2 Prawo wbrzmieniu nadanym przez art.3 pkt3 zdnia 30 czerwca 2005r. ozmianie Prawo oadwokaturze niektórych innych ustaw, jest niezgodny WYROK TRYBUNAĘU KONSTYTUCYJNEGO 26 marca 2008 sygn. akt K 4/07 wy Prawo oadwokaturze iniektórych innych ustaw, związku 71b 1 71f 1—3 Prawo dodanymi przez 3 pkt 16 30 czerwca 2005 zmianie Prawo adwokaturze niektórych innych ustaw, jest zgodny 17 ust. 1 Konstytucji.
-5. Art. 74 2 zdnia Prawo brzmieniu nadanym przez 3 pkt19 zdnia 30 czerwca 2005 ozmianie ustawy Prawo oadwokaturze iniektórych innych ustaw, zakresie, jakim dotyczy osób wymienionych 12 2 pkt 2—4 Prawo jest niezgodny 2 Konstytucji.
-6. Art. 74 6 zdnia Prawo brzmieniu nadanym przez 3 pkt19 zdnia 30 czerwca 2005 ozmianie ustawy Prawo oadwokaturze iniektórych innych ustaw, wzakresie, wjakim pomija udział samorządu notarialnego ustalaniu zestawu pytań tematów egzaminu Ponadto postanawia: na podstawie 39 ust. 1 pkt 1 1 sierpnia 1997 Trybunale Konstytucyjnym (Dz. U.
-102, poz. 643, 2000 48, poz. 552 53, poz. 638, 2001 98, poz. 1070 oraz 2005 169, poz. 1417) umorzyć postępowanie:
-a) zakresie dotyczącym badania zgodności 12 4 Prawo notariacie, brzmieniu nadanym przez 3 pkt 3 zdnia 30 czerwca 2005 ozmianie Prawo oadwokaturze iniektórych innych ustaw, 2 17 ust. 1 Konstytucji ze względu na zbędność wydania wyroku,
-b) pozostałym zakresie ze względu na niedopuszczalność wydania wyroku.
-Jerzy Stępień Zbigniew Cieślak Maria Gintowt-Jankowicz Mirosław Granat Marian Grzybowski notarialnego, sporządzanego każdym roku przez Ministra Sprawiedliwości, jest niezgodny 17 ust. 1 Konstytucji.
-Adam Jamróz Teresa Liszcz Ewa Ęętowska Marek Mazurkiewicz Janusz Niemcewicz Andrzej Rzepliński Mirosław Wyrzykowski Bohdan Zdziennicki 349 WYROK TRYBUNAĘU KONSTYTUCYJNEGO 31 marca 2008 sygn. akt SK 75/06 Trybunał Konstytucyjny składzie: Bohdan Zdziennicki przewodniczący, Zbigniew Cieślak sprawozdawca, Maria Gintowt-Jankowicz, Andrzej Rzepliński, Mirosław Wyrzykowski, po rozpoznaniu, udziałem skarżącej oraz Sejmu Prokuratora Generalnego, na rozprawie dniu 31 marca 2008 r., skargi konstytucyjnej spółki ŃPAWorzeka:
-Art. 92 ust. 1 pkt 2 zdnia 6 września 2001 transporcie drogowym (Dz. U. 2007 125, poz. 874, 176, poz. 1238 192, poz. 1381) jest zgodny zart. 45 ust. 1 iart. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny 42 ust. 1 Konstytucji.
-Ponadto postanawia: na podstawie 39 ust. 1 pkt 2 wzwiązku zart. 39 ust. 2 1 sierpnia 1997 Trybunale Konstytucyjnym (Dz. U. 102, poz. 643, 2000 48, poz. 552 53, poz. 638, 2001 98, poz. 1070 oraz z2005 169, poz. 1417) umorzyć po-
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Jerzy Stępień – przewodniczący, Zbigniew Cieślak, Maria Gintowt-Jankowicz, Mirosław Granat, Marian Grzybowski – sprawozdawca, Adam Jamróz, Teresa Liszcz, Ewa Łętowska, Marek Mazurkiewicz, Janusz Niemcewicz, Andrzej Rzepliński, Mirosław Wyrzykowski, Bohdan Zdziennicki, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 26 marca 2008 r., wniosku Krajowej Rady Notarialnej o zbadanie zgodności:
+1)
+art. 12 § 1 pkt 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2002 r. Nr 42, poz. 369, ze zm.), w brzmieniu nadanym przez art. 3 pkt 3 ustawy z dnia 30 czerwca 2005 r. o zmianie ustawy – Prawo o adwokaturze i niektórych innych ustaw (Dz. U. Nr 163, poz. 1361, ze zm.), z art. 17 ust. 1 Konstytucji,
+2)
+art. 12 § 2 pkt 2–4 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, w brzmieniu nadanym przez art. 3 pkt 3 ustawy z dnia 30 czerwca 2005 r. powołanej w punkcie 1, z art. 17 ust. 1 oraz art. 2 Konstytucji,
+3)
+art. 12 §3 i 4 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, w brzmieniu nadanym przez art. 3 pkt 3 ustawy z dnia 30 czerwca 2005 r. powołanej w punkcie 1, z art. 17 ust. 1 oraz art. 2 Konstytucji,
+4)
+art. 74 § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, w brzmieniu nadanym przez art. 3 pkt 19 ustawy z dnia 30 czerwca 2005 r. powołanej w punkcie 1, z art. 17 ust. 1 oraz art. 2 Konstytucji,
+5)
+art. 3 pkt 21 ustawy z dnia 30 czerwca 2005 r. powołanej w punkcie 1, zmieniającego brzmienie art. 75 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, z art. 17 ust. 1 Konstytucji,
+6)
+art. 74 § 6 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, w brzmieniu nadanym przez art. 3 pkt 19 ustawy z dnia 30 czerwca 2005 r. powołanej w punkcie 1, z art. 17 ust. 1 Konstytucji,
+7)
+art. 74 § 1 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, w brzmieniu nadanym przez art. 3 pkt 19 ustawy z dnia 30 czerwca 2005 r. powołanej w punkcie 1, w związku z art. 71b § 1 i art. 71f § 1–3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, dodanymi przez art. 3 pkt 16 ustawy z dnia 30 czerwca 2005 r. powołanej w punkcie 1, z art. 17 ust. 1 Konstytucji,
+orzeka:
+1.
+Art. 12 § 1 pkt 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2002 r. Nr 42, poz. 369, z 2003 r. Nr 49, poz. 408, Nr 124, poz. 1152 i Nr 217, poz. 2142, z 2004 r. Nr 62, poz. 577, Nr 147, poz. 1547, Nr 173, poz. 1808 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 167, poz. 1398 i Nr 169, poz. 1417, z 2006 r. Nr 218, poz. 1592 i Nr 225, poz. 1635 oraz z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 191, poz. 1371), w brzmieniu nadanym przez art. 3 pkt 3 ustawy z dnia 30 czerwca 2005 r. o zmianie ustawy – Prawo o adwokaturze i niektórych innych ustaw (Dz. U. Nr 163, poz. 1361 oraz z 2006 r. Nr 75, poz. 529, Nr 149, poz. 1075 i Nr 206, poz. 1522), jest zgodny z art. 17 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
+2.
+3.
+4.
+Art. 74 § 1 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, w brzmieniu nadanym przez art. 3 pkt 19 ustawy z dnia 30 czerwca 2005 r. o zmianie ustawy – Prawo o adwokaturze i niektórych innych ustaw, w związku z art. 71 b § 1 i art. 71f § 1–3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, dodanymi przez art. 3 pkt 16 ustawy z dnia 30 czerwca 2005 r. o zmianie ustawy – Prawo o adwokaturze i niektórych innych ustaw, jest zgodny z art. 17 ust. 1 Konstytucji.
+5.
+6.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie:
+a)
+w zakresie dotyczącym badania zgodności art. 12 § 4 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, w brzmieniu nadanym przez art. 3 pkt 3 ustawy z dnia 30 czerwca 2005 r. o zmianie ustawy – Prawo o adwokaturze i niektórych innych ustaw, z art. 2 i art. 17 ust. 1 Konstytucji ze względu na zbędność wydania wyroku,
+b)
+w pozostałym zakresie ze względu na niedopuszczalność wydania wyroku.
 

@@ -8,9 +8,10 @@ pos: 1798
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 154 — 12796 — Poz. 1798 i 1799
+# Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o zawodzie psychologa i samorządzie zawodowym psychologów oraz ustawy o zmianie ustawy – Prawo o ruchu drogowym
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +25,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541798) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1798/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 8 czerwca 2001 r. ozawo- wym psychologów (Dz. U. Nr 73, poz. 763 i Nr 154, dzie psychologa isamorządzie zawodowym psycholo- poz.1798).” gów (Dz. U. Nr 73, poz. 763) wart. 64 wyrazy Ń1 stycznia 2002 r.” zastępuje się wyrazami Ń1 stycznia 2006r.” Art. 3.Ustawa wchodzi wżycie zdniem 31 grudnia 2001 r.
+**Art. 1.** W ustawie z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. Nr 73, poz. 763) w art. 64 wyrazy „1 stycznia 2002 r.” zastępuje się wyrazami „1 stycznia 2006 r.”
 
-**Art. 2.** Wustawie zdnia 6 września 2001 r. ozmianie ustawy — Prawo oruchu drogowym (Dz. U. Nr129, poz. 1444) w art. 6 dodaje się na końcu wyrazy Ńoraz art. 1 pkt 81, który wchodzi w życie po upływie 6 miesięcy od dnia wejścia wżycie ustawy zdnia 8czerwca 2001 r. ozawodzie psychologa isamorządzie zawodo- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1798 USTAWA zdnia 21 grudnia 2001 r. ozmianie ustawy ozawodzie psychologa isamorządzie zawodowym psychologów oraz ustawy ozmianie ustawy — Prawo oruchu drogowym. 1799 USTAWA zdnia 21 grudnia 2001 r. ozmianie ustawy okształtowaniu wynagrodzeń wpaństwowej sferze budżetowej oraz ozmianie niektórych ustaw.
+**Art. 2.** W ustawie z dnia 6 września 2001 r. o zmianie ustawy – Prawo o ruchu drogowym (Dz. U. Nr 129, poz. 1444) w art. 6 dodaje się na końcu wyrazy „oraz art. 1 pkt 81, który wchodzi w życie po upływie 6 miesięcy od dnia wejścia w życie ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. Nr 73, poz. 763 i Nr 154, poz. 1798).”
 
-**Art. 1.** Wustawie zdnia 23 grudnia 1999 r. okształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. Nr 110, poz. 1255, z2000 r. Nr 19, poz. 239 oraz z2001 r. Nr 85, poz. 924, Nr 100, poz. 1080 i Nr 154, poz. 1784) wprowadza się następujące zmiany:
-
-**Art. 29c.**
-
-1. Podstawę do określenia wynagrodzeń w 2002 r. dla pracowników, o których mowa w art. 5 pkt 2, stanowią wynagrodzenia z roku poprzedniego, bez wynagrodzeń wypłaconych ponad wynagrodzenia ustalone zgodnie z art. 6, które mogą wynikać z przepisów wydanych na podstawie art. 9 ust.3 pkt 1—4, oraz dodatkowe wynagrodzenie roczne wypłacane na podstawie odrębnych przepisów, z zastrzeżeniem ust. 2.
-
-2. Podstawę, októrej mowa wust. 1, dla nauczycieli ustala się z uwzględniekających z uzyskania kolejnych stopni awansu zawodowego, określonych wart. 9aust. 1 ustawy zdnia 26 stycznia 1982 r. — Karta Nauczyciela (Dz. U. z 1997 r. Nr 56, poz. 357, z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1118, z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239, Nr 22, poz. 291 i Nr 122, poz. 1323 oraz z 2001 r. Nr 111, poz. 1194, Nr 128, poz. 1404 i Nr 144, poz. 1615).
-
-**Art. 29d.** W 2002 r. wynagrodzenia finansowane ze środków, o których mowa w art. 9 ust. 3 pkt 1, nie mogą przekroczyć wielkości wynagrodzeń finansowanych ztych środków w2001 r.”
-
-**Art. 2.** Wustawie zdnia 3 marca 2000 r. owynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306 i z2001 r. Nr 85, poz.924) po art. 29 dodaje się art. 29awbrzmieniu: ŃArt. 29a. 1. W2002 r. przeciętne miesięczne wynagrodzenie wsektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, októrym mowa wart. 8, ustala się w wysokości przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku wczwartym kwartale 2000 r. niem zwiększenia wynagrodzeń wyni2. W 2002 r. indywidualne wynagrodzenie miesięczne osób wymienionych w art. 2
+**Art. 3.** Ustawa wchodzi w życie z dniem 31 grudnia 2001 r.
 

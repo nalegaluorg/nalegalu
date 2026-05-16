@@ -8,9 +8,10 @@ pos: 1131
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lipca 2024 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 23 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo dewizowe
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,21 @@ domain: null
 | Ostatnia zmiana | 2024-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001131) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1131/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 lipca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo dewizowe
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. z 2022 r. poz. 309), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lipca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 9 maja 2024 r.
-o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 pkt 2, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 27 lipca 2002 r.
-Prawo dewizowe
-Art. 43–54. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 27 lipca 2002 r. Prawo dewizowe Rozdział 1 – Przepisy ogólne Rozdział 2 – Odstępowanie od ograniczeń i obowiązków określonych w ustawie Rozdział 3 – Ograniczenia w dokonywaniu obrotu dewizowego z zagranicą oraz obrotu wartościami dewizowymi w kraju Rozdział 4 – Działalność kantorowa Rozdział 5 Rozdział 6 Rozdział 7 – Obowiązek związany z przekazami pieniężnymi za granicę oraz rozliczeniami w kraju w obrocie dewizowym Rozdział 8 – Obowiązki dotyczące przekazywania danych oraz przechowywania dokumentów związanych z obrotem dewizowym oraz działalnością kantorową Rozdział 9 – Kontrola wykonywana przez Prezesa Narodowego Banku Polskiego Rozdział 10 – Zmiany w przepisach obowiązujących Rozdział 11 – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2022 r. poz. 309), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lipca 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850), który stanowi:
+„
+Dozwolone jest odstępowanie od ograniczeń określonych w art. 9 oraz obowiązków określonych w art. 25 ust. 1, na podstawie ogólnego albo indywidualnego zezwolenia dewizowego, w zakresie i na warunkach określonych w takim zezwoleniu.
+(uchylony)
+(uchylony)
+Art. 43–54.
+(pominięte)
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 pkt 2, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 27 lipca 2002 r. Prawo dewizowe
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -42,13 +49,13 @@ Art. 43–54. (pominięte)
 
 1. W rozumieniu ustawy:
 
-- **1)** rezydentami są:
-    - **a)** osoby fizyczne mające miejsce zamieszkania w kraju oraz osoby prawne mające siedzibę w kraju, a także inne podmioty mające siedzibę w kraju, posiadające zdolność zaciągania zobowiązań i nabywania praw we własnym imieniu; rezydentami są również znajdujące się w kraju oddziały, przedstawicielstwa i przedsiębiorstwa utworzone przez nierezydentów,
-    - **b)** polskie przedstawicielstwa dyplomatyczne, urzędy konsularne i inne polskie przedstawicielstwa oraz misje specjalne, korzystające z immunitetów i przywilejów dyplomatycznych lub konsularnych;
+- **1)** rezydentami są: osoby fizyczne mające miejsce zamieszkania w kraju oraz osoby prawne mające siedzibę w kraju, a także inne podmioty mające siedzibę w kraju, posiadające zdolność zaciągania zobowiązań i nabywania praw we własnym imieniu; rezydentami są również znajdujące się w kraju oddziały, przedstawicielstwa i przedsiębiorstwa utworzone przez nierezydentów, polskie przedstawicielstwa dyplomatyczne, urzędy konsularne i inne polskie przedstawicielstwa oraz misje specjalne, korzystające z immunitetów i przywilejów dyplomatycznych lub konsularnych;
+    - **a)**
+    - **b)**
 
-- **2)** nierezydentami są:
-    - **a)** osoby fizyczne mające miejsce zamieszkania za granicą oraz osoby prawne mające siedzibę za granicą, a także inne podmioty mające siedzibę za granicą, posiadające zdolność zaciągania zobowiązań i nabywania praw we własnym imieniu; nierezydentami są również znajdujące się za granicą oddziały, przedstawicielstwa i przedsiębiorstwa utworzone przez rezydentów,
-    - **b)** obce przedstawicielstwa dyplomatyczne, urzędy konsularne i inne obce przedstawicielstwa oraz misje specjalne i organizacje międzynarodowe, korzystające z immunitetów i przywilejów dyplomatycznych lub konsularnych;
+- **2)** nierezydentami są: osoby fizyczne mające miejsce zamieszkania za granicą oraz osoby prawne mające siedzibę za granicą, a także inne podmioty mające siedzibę za granicą, posiadające zdolność zaciągania zobowiązań i nabywania praw we własnym imieniu; nierezydentami są również znajdujące się za granicą oddziały, przedstawicielstwa i przedsiębiorstwa utworzone przez rezydentów, obce przedstawicielstwa dyplomatyczne, urzędy konsularne i inne obce przedstawicielstwa oraz misje specjalne i organizacje międzynarodowe, korzystające z immunitetów i przywilejów dyplomatycznych lub konsularnych;
+    - **a)**
+    - **b)**
 
 - **3)** nierezydentami z krajów trzecich są osoby fizyczne, osoby prawne oraz inne podmioty, posiadające zdolność zaciągania zobowiązań i nabywania praw we własnym imieniu, mające miejsce zamieszkania lub siedzibę w krajach trzecich; nierezydentami z krajów trzecich są również znajdujące się w tych krajach oddziały, przedstawicielstwa i przedsiębiorstwa utworzone przez rezydentów lub nierezydentów z innych krajów;
 - **4)** krajem jest terytorium Rzeczypospolitej Polskiej;
@@ -64,21 +71,21 @@ Art. 43–54. (pominięte)
 - **14)** papierami wartościowymi są papiery wartościowe udziałowe, w szczególności akcje i prawa poboru nowych akcji oraz papiery wartościowe dłużne, w szczególności obligacje, wyemitowane lub wystawione na podstawie przepisów państwa, w którym emitent lub wystawca ma swoją siedzibę albo w którym dokonano ich emisji lub wystawienia;
 - **15)** jednostkami uczestnictwa w funduszu zbiorowego inwestowania są nabywane przez uczestników funduszu tytuły do udziału w jego aktywach, które zgodnie z odrębnymi przepisami lub na żądanie uczestnika funduszu są odkupywane lub umarzane przez fundusz z jego aktywów, na wcześniej określonych warunkach;
 - **16)** obrotem dewizowym jest obrót dewizowy z zagranicą oraz obrót wartościami dewizowymi w kraju;
-- **17)** obrotem dewizowym z zagranicą jest:
-    - **a)** zawarcie umowy lub dokonanie innej czynności prawnej, powodującej lub mogącej powodować dokonywanie między rezydentem i nierezydentem rozliczeń pieniężnych lub przeniesienie między rezydentem i nierezydentem własności wartości dewizowych lub krajowych środków płatniczych, a także wykonywanie takich umów lub czynności,
-    - **b)** zawarcie umowy lub dokonanie innej czynności prawnej, powodującej lub mogącej powodować przeniesienie między rezydentami rzeczy lub prawa, których nabycie nastąpiło w obrocie dewizowym z zagranicą, a także wykonywanie takich umów,
-    - **c)** dokonywanie wywozu, przekazywanie oraz wysyłanie za granicę wartości dewizowych lub krajowych środków płatniczych, a także dokonywanie ich przywozu, przekazywanie oraz nadsyłanie z zagranicy do kraju;
+- **17)** obrotem dewizowym z zagranicą jest: zawarcie umowy lub dokonanie innej czynności prawnej, powodującej lub mogącej powodować dokonywanie między rezydentem i nierezydentem rozliczeń pieniężnych lub przeniesienie między rezydentem i nierezydentem własności wartości dewizowych lub krajowych środków płatniczych, a także wykonywanie takich umów lub czynności, zawarcie umowy lub dokonanie innej czynności prawnej, powodującej lub mogącej powodować przeniesienie między rezydentami rzeczy lub prawa, których nabycie nastąpiło w obrocie dewizowym z zagranicą, a także wykonywanie takich umów, dokonywanie wywozu, przekazywanie oraz wysyłanie za granicę wartości dewizowych lub krajowych środków płatniczych, a także dokonywanie ich przywozu, przekazywanie oraz nadsyłanie z zagranicy do kraju;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **18)** obrotem wartościami dewizowymi w kraju jest zawarcie umowy lub dokonanie innej czynności prawnej powodującej lub mogącej powodować dokonywanie w kraju między rezydentami lub między nierezydentami rozliczeń w walutach obcych albo przeniesienie w kraju między rezydentami lub między nierezydentami własności wartości dewizowych, a także wykonywanie takich umów lub czynności;
 - **19)** działalnością kantorową jest regulowana działalność gospodarcza polegająca na kupnie i sprzedaży wartości dewizowych oraz pośrednictwie w ich kupnie i sprzedaży;
-- **19a)** działalnością gospodarczą, w przypadku wykonywania jej:
-    - **a)** w kraju jest działalność gospodarcza w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236),
-    - **b)** za granicą jest działalność gospodarcza w rozumieniu przepisów państwa, w którym jest ona wykonywana;
+- **19a)** działalnością gospodarczą, w przypadku wykonywania jej: w kraju – jest działalność gospodarcza w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236), za granicą – jest działalność gospodarcza w rozumieniu przepisów państwa, w którym jest ona wykonywana;
+    - **a)**
+    - **b)**
 
-- **20)** uprawnionym bankiem jest: Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879),
-    - **a)** bank mający siedzibę w kraju, który zgodnie z określonym w statucie przedmiotem działalności jest uprawniony do wykonywania czynności bankowej, o której mowa w art. 5 ust. 2 pkt 10 ustawy z dnia 29 sierpnia 1997 r.
-    - **b)** utworzony w kraju oddział banku zagranicznego, który zgodnie z określonym w zezwoleniu na jego utworzenie przedmiotem działalności, jest uprawniony do wykonywania czynności bankowej, o której mowa w art. 5 ust. 2 pkt 10 ustawy wymienionej w lit. a,
-    - **c)** utworzony w kraju oddział instytucji kredytowej, która jest uprawniona do wykonywania w państwie macierzystym czynności objętych czynnością bankową, o której mowa w art. 5 ust. 2 pkt 10 ustawy wymienionej w lit. a.
+- **20)** uprawnionym bankiem jest: bank mający siedzibę w kraju, który zgodnie z określonym w statucie przedmiotem działalności jest uprawniony do wykonywania czynności bankowej, o której mowa w art. 5 ust. 2 pkt 10 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879), utworzony w kraju oddział banku zagranicznego, który zgodnie z określonym w zezwoleniu na jego utworzenie przedmiotem działalności, jest uprawniony do wykonywania czynności bankowej, o której mowa w art. 5 ust. 2 pkt 10 ustawy wymienionej w lit. a, utworzony w kraju oddział instytucji kredytowej, która jest uprawniona do wykonywania w państwie macierzystym czynności objętych czynnością bankową, o której mowa w art. 5 ust. 2 pkt 10 ustawy wymienionej w lit. a.
+    - **a)**
+    - **b)**
+    - **c)**
 
 1a. Rezydenta będącego osobą fizyczną, wykonującego za granicą działalność gospodarczą, traktuje się w zakresie czynności związanych z tą działalnością jak nierezydenta. Nierezydenta będącego osobą fizyczną, wykonującego w kraju działalność gospodarczą, traktuje się w zakresie czynności związanych z tą działalnością jak rezydenta.
 
@@ -111,10 +118,6 @@ Art. 43–54. (pominięte)
 
 #### Rozdział 2 Odstępowanie od ograniczeń i obowiązków określonych w ustawie
 
-**Art. 5.**
-
-- **1)** Dozwolone jest odstępowanie od ograniczeń określonych w art. 9 oraz obowiązków określonych w art. 25 ust. 1, na podstawie ogólnego albo indywidualnego zezwolenia dewizowego, w zakresie i na warunkach określonych w takim zezwoleniu.
-
 **Art. 6.**
 
 1. Zezwoleń dewizowych udziela się, jeżeli nie zagraża to interesowi publicznemu lub międzynarodowym zobowiązaniom wiążącym Rzeczpospolitą Polską.
@@ -133,7 +136,7 @@ Art. 43–54. (pominięte)
 
 2. Sprawy związane z udzielaniem indywidualnych zezwoleń dewizowych są rozstrzygane przez Prezesa Narodowego Banku Polskiego w drodze decyzji administracyjnej, z uwzględnieniem ust. 4 i 5.
 
-3. Do decyzji Prezesa Narodowego Banku Polskiego wydanych w sprawach, o których mowa w ust. 2, stosuje się odpowiednio art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+3. Do decyzji Prezesa Narodowego Banku Polskiego wydanych w sprawach, o których mowa w ust. 2, stosuje się odpowiednio art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 4. Prezes Narodowego Banku Polskiego może uchylić udzielone zezwolenie, jeżeli korzystanie z niego odbywa się wbrew określonym w tym zezwoleniu warunkom.
 
@@ -160,7 +163,7 @@ Art. 43–54. (pominięte)
 
 **Art. 11.**
 
-1. Działalność kantorowa jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców i wymaga wpisu do rejestru działalności kantorowej, zwanego dalej „rejestrem”.
+1. Działalność kantorowa jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców i wymaga wpisu do rejestru działalności kantorowej, zwanego dalej „rejestrem”.
 
 2. Przepisów o działalności kantorowej nie stosuje się do banków, oddziałów banków zagranicznych oraz do instytucji kredytowych i oddziałów instytucji kredytowych.
 
@@ -217,10 +220,10 @@ Art. 43–54. (pominięte)
 - **5)** oznaczenie zakresu działalności kantorowej wykonywanej przez przedsiębiorcę w poszczególnych jednostkach;
 - **6)** podpis przedsiębiorcy oraz oznaczenie daty i miejsca składania wniosku.
 
-2. Wraz z wnioskiem przedsiębiorca składa pisemne oświadczenie następującej treści: „Oświadczam, że:
+2. Wraz z wnioskiem przedsiębiorca składa pisemne oświadczenie następującej treści: „ Oświadczam, że:
 
 - **1)** dane zawarte we wniosku o wpis do rejestru są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam szczególne warunki wykonywania działalności kantorowej określone w rozdziale 4 ustawy z dnia 27 lipca 2002 r. Prawo dewizowe. Oświadczam także, że posiadam aktualne zaświadczenia o niekaralności i dokumenty potwierdzające kwalifikacje wymagane przepisami ustawy, o której mowa w pkt 2.”.
+- **2)** znane mi są i spełniam szczególne warunki wykonywania działalności kantorowej określone w rozdziale 4 ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe. Oświadczam także, że posiadam aktualne zaświadczenia o niekaralności i dokumenty potwierdzające kwalifikacje wymagane przepisami ustawy, o której mowa w pkt 2. ” .
 
 3. Oświadczenie powinno również zawierać:
 
@@ -230,19 +233,19 @@ Art. 43–54. (pominięte)
 
 4. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, określi, w drodze rozporządzenia, wzór wniosku o dokonanie wpisu w rejestrze działalności kantorowej, uwzględniając zakres wykonywanej przez przedsiębiorcę działalności.
 
-**Art. 17a.**
-
 1. Wpisowi do rejestru podlegają dane określone w art. 17 ust. 1 pkt 1–5, z wyjątkiem adresu zamieszkania, jeżeli jest inny niż adres siedziby.
 
-2. Wpisem do rejestru jest również wykreślenie albo zmiana wpisu. Art. 17aa. 1. Prezes Narodowego Banku Polskiego prostuje z urzędu wpis do rejestru zawierający oczywiste błędy, omyłki lub niezgodności ze stanem faktycznym.
+2. Wpisem do rejestru jest również wykreślenie albo zmiana wpisu.
+
+1. Prezes Narodowego Banku Polskiego prostuje z urzędu wpis do rejestru zawierający oczywiste błędy, omyłki lub niezgodności ze stanem faktycznym.
 
 2. W przypadku zmiany danych wpisanych do rejestru, z wyjątkiem art. 17c ust. 2, przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia zajścia zdarzenia, które spowodowało zmianę tych danych.
 
-3. Prezes Narodowego Banku Polskiego wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru.
+3. Prezes Narodowego Banku Polskiego wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru. Przedsiębiorca jest obowiązany zawiadomić pisemnie Prezesa Narodowego Banku Polskiego o podjęciu działalności kantorowej, a w razie zaprzestania jej wykonywania, złożyć wniosek o wykreślenie z rejestru, w terminie 7 dni, licząc odpowiednio od dnia podjęcia działalności kantorowej lub zaprzestania jej wykonywania.
 
-**Art. 17b.** Przedsiębiorca jest obowiązany zawiadomić pisemnie Prezesa Narodowego Banku Polskiego o podjęciu działalności kantorowej, a w razie zaprzestania jej wykonywania, złożyć wniosek o wykreślenie z rejestru, w terminie 7 dni, licząc odpowiednio od dnia podjęcia działalności kantorowej lub zaprzestania jej wykonywania. Art. 17ba. 1. Prezes Narodowego Banku Polskiego jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem o spełnieniu warunków wymaganych prawem do wykonywania działalności kantorowej. 2. Jeżeli Prezes Narodowego Banku Polskiego nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy Prezes Narodowego Banku Polskiego wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
+1. Prezes Narodowego Banku Polskiego jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem o spełnieniu warunków wymaganych prawem do wykonywania działalności kantorowej.
 
-**Art. 17c.**
+2. Jeżeli Prezes Narodowego Banku Polskiego nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy Prezes Narodowego Banku Polskiego wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
 1. Przedsiębiorca może zawiesić, na okres nie dłuższy niż 2 lata, wykonywanie działalności kantorowej. W przypadku zawieszenia wykonywania działalności kantorowej na okres krótszy niż 2 lata, przedsiębiorca może przedłużyć ten okres łącznie do 2 lat.
 
@@ -253,7 +256,10 @@ Art. 43–54. (pominięte)
 4. W przypadku niewznowienia przez przedsiębiorcę wykonywania działalności kantorowej lub niewznowienia jej wykonywania w poszczególnych jednostkach, organ prowadzący rejestr, po upływie okresu zawieszenia, odpowiednio z urzędu:
 
 - **1)** wykreśla, w drodze decyzji, przedsiębiorcę z rejestru albo
-- **2)** dokonuje zmiany wpisu w zakresie określenia jednostek, w których jest wykonywana działalność kantorowa. Art. 17ca. 1. Prezes Narodowego Banku Polskiego wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności kantorowej, w przypadku gdy:
+- **2)** dokonuje zmiany wpisu w zakresie określenia jednostek, w których jest wykonywana działalność kantorowa.
+
+1. Prezes Narodowego Banku Polskiego wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności kantorowej, w przypadku gdy:
+
 - **1)** przedsiębiorca złożył oświadczenie, o którym mowa w art. 17 ust. 2, niezgodne ze stanem faktycznym;
 - **2)** przedsiębiorca nie usunął naruszeń warunków wymaganych prawem do wykonywania działalności kantorowej w wyznaczonym przez Prezesa Narodowego Banku Polskiego terminie;
 - **3)** stwierdzi rażące naruszenie warunków wymaganych prawem do wykonywania działalności kantorowej przez przedsiębiorcę.
@@ -264,19 +270,15 @@ Art. 43–54. (pominięte)
 
 4. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.
 
-5. W przypadku wydania decyzji, o której mowa w ust. 1, Prezes Narodowego Banku Polskiego z urzędu wykreśla przedsiębiorcę z rejestru. Art. 17cb. 1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 17ca ust. 1.
+5. W przypadku wydania decyzji, o której mowa w ust. 1, Prezes Narodowego Banku Polskiego z urzędu wykreśla przedsiębiorcę z rejestru.
 
-2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność kantorową bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 17ba ust. 2. Art. 17cc. Prezes Narodowego Banku Polskiego wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 17ca ust. 1.
 
-**Art. 17d.** Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, określi, w drodze rozporządzenia, niezbędne wyposażenie lokalu przeznaczonego do wykonywania działalności kantorowej, a także sposób prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych, mając na uwadze zapewnienie bezpieczeństwa obrotu gospodarczego w zakresie wykonywania tej działalności.
+2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność kantorową bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 17ba ust. 2. Prezes Narodowego Banku Polskiego wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, określi, w drodze rozporządzenia, niezbędne wyposażenie lokalu przeznaczonego do wykonywania działalności kantorowej, a także sposób prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych, mając na uwadze zapewnienie bezpieczeństwa obrotu gospodarczego w zakresie wykonywania tej działalności. W sprawach dotyczących wpisu do rejestru, nieuregulowanych w niniejszym rozdziale, Prezes Narodowego Banku Polskiego stosuje przepisy Kodeksu postępowania administracyjnego. W zakresie nieuregulowanym w ustawie do działalności kantorowej stosuje się odpowiednio przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
-**Art. 17e.** W sprawach dotyczących wpisu do rejestru, nieuregulowanych w niniejszym rozdziale, Prezes Narodowego Banku Polskiego stosuje przepisy Kodeksu postępowania administracyjnego.
+#### Rozdział 5
 
-**Art. 17f.** W zakresie nieuregulowanym w ustawie do działalności kantorowej stosuje się odpowiednio przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
-
-#### Rozdział 5 (uchylony)
-
-#### Rozdział 6 (uchylony)
+#### Rozdział 6
 
 #### Rozdział 7 Obowiązek związany z przekazami pieniężnymi za granicę oraz rozliczeniami w kraju w obrocie dewizowym
 
@@ -315,9 +317,7 @@ Art. 43–54. (pominięte)
 
 **Art. 31.** Narodowy Bank Polski jest obowiązany do przestrzegania tajemnicy w zakresie danych jednostkowych uzyskanych od banków i rezydentów, w wykonaniu obowiązków określonych w art. 30 ust. 1, na zasadach określonych w art. 23 ust. 5–7 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025).
 
-**Art. 32.** Rezydenci, na żądanie uprawnionego banku, obowiązanego do przekazywania, na podstawie odrębnych przepisów, danych w zakresie niezbędnym do sporządzenia przez Narodowy Bank Polski bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej, są obowiązani udzielać temu bankowi informacji o dokonywanym za jego pośrednictwem obrocie dewizowym, w szczególności dotyczących przeznaczenia środków pieniężnych będących przedmiotem takiego obrotu.
-
-**Art. 32a.** Przedsiębiorcy wykonujący działalność kantorową oraz rezydenci i nierezydenci dokonujący czynności obrotu dewizowego, które podlegają ograniczeniom lub obowiązkom określonym w ustawie, są obowiązani, na potrzeby kontroli wykonywanej przez naczelnika urzędu celno-skarbowego oraz kontroli wykonywanej przez Prezesa Narodowego Banku Polskiego, przechowywać dokumenty związane z tą działalnością lub tymi czynnościami przez okres 5 lat, licząc od końca roku kalendarzowego, w którym wykonywali działalność kantorową lub dokonali danej czynności obrotu dewizowego.
+**Art. 32.** Rezydenci, na żądanie uprawnionego banku, obowiązanego do przekazywania, na podstawie odrębnych przepisów, danych w zakresie niezbędnym do sporządzenia przez Narodowy Bank Polski bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej, są obowiązani udzielać temu bankowi informacji o dokonywanym za jego pośrednictwem obrocie dewizowym, w szczególności dotyczących przeznaczenia środków pieniężnych będących przedmiotem takiego obrotu. Przedsiębiorcy wykonujący działalność kantorową oraz rezydenci i nierezydenci dokonujący czynności obrotu dewizowego, które podlegają ograniczeniom lub obowiązkom określonym w ustawie, są obowiązani, na potrzeby kontroli wykonywanej przez naczelnika urzędu celno-skarbowego oraz kontroli wykonywanej przez Prezesa Narodowego Banku Polskiego, przechowywać dokumenty związane z tą działalnością lub tymi czynnościami przez okres 5 lat, licząc od końca roku kalendarzowego, w którym wykonywali działalność kantorową lub dokonali danej czynności obrotu dewizowego.
 
 #### Rozdział 9 Kontrola wykonywana przez Prezesa Narodowego Banku Polskiego
 
@@ -335,9 +335,7 @@ Art. 43–54. (pominięte)
 - **1)** korzystanie z udzielonego zezwolenia dewizowego odbywa się zgodnie z jego warunkami;
 - **2)** przedsiębiorca wykonuje działalność kantorową zgodnie z warunkami określonymi w ustawie i przepisach szczególnych wydanych na jej podstawie;
 - **3)** obowiązek, o którym mowa w art. 30 ust. 1, jest wykonywany przez rezydentów oraz przedsiębiorców wykonujących działalność kantorową, oraz czy dane przekazywane w wykonaniu tego obowiązku są zgodne ze stanem faktycznym.
-- **4)** (uchylony)
-
-**Art. 33a.** Do kontroli działalności kantorowej przedsiębiorcy, kontroli wykonywania przez przedsiębiorców obowiązku, o którym mowa w art. 30 ust. 1, oraz kontroli wykorzystania udzielonego przedsiębiorcy zezwolenia dewizowego stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+- **4)** (uchylony) Do kontroli działalności kantorowej przedsiębiorcy, kontroli wykonywania przez przedsiębiorców obowiązku, o którym mowa w art. 30 ust. 1, oraz kontroli wykorzystania udzielonego przedsiębiorcy zezwolenia dewizowego stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 34.**
 
@@ -359,12 +357,6 @@ Art. 43–54. (pominięte)
 4. Kontrolerzy, w związku z przeprowadzaniem kontroli w jednostce kontrolowanej, nie mogą być poddani rewizji osobistej.
 
 **Art. 36.** Wyniki przeprowadzonej kontroli kontroler przedstawia w sporządzonym przez siebie:
-
-**Art. 36a.** Kontrolerzy informują kierownika kontrolowanej jednostki o istotnych nieprawidłowościach stwierdzonych w toku kontroli, wskazując na potrzebę niezwłocznego podjęcia działań w celu ich usunięcia.
-
-**Art. 36b.** Protokół i sprawozdanie, o których mowa w art. 36, powinny:
-
-**Art. 36c.** Protokół i sprawozdanie powinny ponadto zawierać:
 
 **Art. 37.**
 
@@ -396,13 +388,9 @@ Art. 43–54. (pominięte)
 
 - **1)** zwięzły opis wyników kontroli, ze wskazaniem naruszonych przepisów prawa;
 - **2)** wnioski wynikające z ustaleń kontroli, zmierzające do usunięcia stwierdzonych nieprawidłowości;
-- **3)** zobowiązanie jednostki kontrolowanej do powiadomienia o sposobie i terminie realizacji zaleceń pokontrolnych.
-
-**Art. 40a.** (uchylony)
-
-**Art. 40b.** Kierownik kontrolowanej jednostki jest obowiązany, w terminie 30 dni od dnia otrzymania zaleceń pokontrolnych, poinformować w formie pisemnej jednostkę organizacyjną Narodowego Banku Polskiego, wykonującą kontrolę, o działaniach podjętych w celu wykonania zaleceń pokontrolnych.
-
-**Art. 40c.** W przypadku stwierdzenia w toku kontroli rażącego naruszenia:
+- **3)** zobowiązanie jednostki kontrolowanej do powiadomienia o sposobie i terminie realizacji zaleceń pokontrolnych. (uchylony) Kierownik kontrolowanej jednostki jest obowiązany, w terminie 30 dni od dnia otrzymania zaleceń pokontrolnych, poinformować w formie pisemnej jednostkę organizacyjną Narodowego Banku Polskiego, wykonującą kontrolę, o działaniach podjętych w celu wykonania zaleceń pokontrolnych. W przypadku stwierdzenia w toku kontroli rażącego naruszenia:
+- **1)** przepisów prawa lub warunków udzielonego zezwolenia dewizowego, kontrolerzy występują do Prezesa Narodowego Banku Polskiego albo dyrektora jednostki organizacyjnej Narodowego Banku Polskiego, który wydał zezwolenie dewizowe, o jego uchylenie;
+- **2)** warunków wykonywania działalności kantorowej kontrolerzy występują do Prezesa Narodowego Banku Polskiego o wydanie decyzji o zakazie jej wykonywania.
 
 **Art. 41.** W razie powstania w toku kontroli uzasadnionego podejrzenia popełnienia wykroczenia lub przestępstwa przez kontrolowaną jednostkę lub inny podmiot, Prezes Narodowego Banku Polskiego powiadamia o tym właściwy organ zgodnie z obowiązującymi przepisami.
 
@@ -426,7 +414,7 @@ Art. 43–54. (pominięte)
 
 2. Banki oraz oddziały banków zagranicznych uprawnione, na mocy przepisów dotychczasowych, do kupna i sprzedaży wartości dewizowych stają się bankami uprawnionymi do wykonywania czynności bankowej w tym zakresie, z zastrzeżeniem ust. 3 i 4.
 
-3. Banki, o których mowa w ust. 1 i 2, są obowiązane, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, rozszerzyć określony w statucie przedmiot działania o czynności bankowe określone w art. 5 ust. 2 pkt 7 i 10 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, pod rygorem utraty dotychczasowych uprawnień w tym zakresie.
+3. Banki, o których mowa w ust. 1 i 2, są obowiązane, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, rozszerzyć określony w statucie przedmiot działania o czynności bankowe określone w art. 5 ust. 2 pkt 7 i 10 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, pod rygorem utraty dotychczasowych uprawnień w tym zakresie.
 
 4. Oddziały banków zagranicznych, o których mowa w ust. 1 i 2, są obowiązane, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, wystąpić z wnioskiem o rozszerzenie określonego w zezwoleniu na ich utworzenie przedmiotu działania o czynności bankowe określone w art. 5 ust. 2 pkt 7 i 10 ustawy wymienionej w ust. 3, pod rygorem utraty dotychczasowych uprawnień w tym zakresie.
 
@@ -440,9 +428,9 @@ Art. 43–54. (pominięte)
 
 **Art. 59.** Ilekroć w obowiązujących przepisach jest mowa o:
 
-**Art. 60.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 2 grudnia 1994 r. Prawo dewizowe (Dz. U. poz. 703, z 1995 r. poz. 641, z 1996 r. poz. 496 oraz z 1997 r. poz. 449) lub ustawie z dnia 18 grudnia 1998 r. Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676), należy przez to rozumieć niniejszą ustawę.
+**Art. 60.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 2 grudnia 1994 r. – Prawo dewizowe (Dz. U. poz. 703, z 1995 r. poz. 641, z 1996 r. poz. 496 oraz z 1997 r. poz. 449) lub ustawie z dnia 18 grudnia 1998 r. – Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676), należy przez to rozumieć niniejszą ustawę.
 
-**Art. 61.** Traci moc ustawa z dnia 18 grudnia 1998 r. Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676).
+**Art. 61.** Traci moc ustawa z dnia 18 grudnia 1998 r. – Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676).
 
 **Art. 62.** Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej traci moc art. 10:
 

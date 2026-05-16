@@ -8,9 +8,10 @@ pos: 1181
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# zm. ) wprowadza się następujące zmiany:
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy – Prawo bankowe oraz ustawy o kredycie konsumenckim
 
 | Pole | Wartość |
 |---|---|
@@ -24,95 +25,139 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112011181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1181/text.pdf) |
 
-1) art. 4 ust. 1 pkt 16a otrzymuje brzmienie: „16a) przedsiębiorca przedsiębiorcę, mowa art. 4 dnia 2 lipca 2004 swobodzie działalności gospodarczej (Dz. U. 2010 220, 1447, późn.
-zm. ),”;
-2) art. 6a—6d otrzymują brzmienie: „Art. 6a. 1. Bank może, drodze umowy zawartej na piśmie, powierzyć przedsiębiorcy lub przedsiębiorcy zastrzeżeniem art. 6d, wykonywanie:
-1) imieniu na rzecz banku pośrednictwa zakresie czynności wymienionych art. 5 6, polegającego na:
-a) zawieraniu zmianie umów rachunków bankowych, których mowa art. 49 ust. 1, według wzoru zatwierdzonego przez bank,
-b) zawieraniu zmianie umów kredytów pożyczek pieniężnych udzielanych osobom fizycznym, tym kredytu konsumenckiego rozumieniu dnia 20 lipca 2001 kredycie konsumenckim (Dz. U. 100, 1081, późn. zm.
-mikroprzedsiębiorców małych przedsiębiorców rozumieniu dnia 2 lipca 2004 swobodzie działalności gospodarczej,
-d) zawieraniu zmianie umów ugody sprawie spłaty kredytów pożyczek, których mowa lit. b) c),
-e) zawieraniu zmianie umów dotyczących ustanowienia prawnego zabezpieczenia kredytów pożyczek, których mowa lit. b)
-c),
-f) zawieraniu zmianie umów kartę płatniczą, których stroną jest konsument oraz mikroprzedsiębiorca mały przedsiębiorca rozumieniu ustawy, której mowa lit. c),
-g) przyjmowaniu wpłat, dokonywaniu wypłat oraz obsłudze czeków związanych prowadzeniem rachunków bankowych przez ten bank, ), h) dokonywaniu wypłat przyjmowaniu spłat udzielonych przez ten kredytów pożyczek pieniężnych,
-i) przyjmowaniu wpłat na rachunki bankowe prowadzone przez inne banki,
-j) przyjmowaniu dyspozycji przeprowadzania bankowych rozliczeń pieniężnych związanych prowadzeniem rachunków bankowych przez ten bank,
-k) wykonywaniu czynności związanych emitowaniem przechowywaniem bankowych papierów wartościowych oraz innych papierów wartościowych, a także wykonywaniu innych czynności zleconych związanych emisją obsługą papierów wartościowych, nia 2000 Kodeks spółek handlowych (Dz. U. 94, 1037, późn. zm. ), zwanej dalej „Kodeksem spółek handlowych”, oraz rozumieniu art. 48 dnia 16 września 1982 Prawo spółdzielcze (Dz. U. 2003 188, 1848, późn. zm. ), zwanej dalej „ustawą Prawo spółdzielcze”, szczególności zarządzania ryzykiem związanym prowadzeniem działalności bankowej, tym zarządzania aktywami pasywami, dokonywania oceny zdolności kredytowej analizy ryzyka kredytowego,
-2) przeprowadzania audytu wewnętrznego banku.
-4. Komisja Nadzoru Finansowego może udzielić bankowi zezwolenia, mowa ust. 1 pkt 1 lit. m), jeżeli powierzenie przez wykonywania innych czynności jest niezbędne do prowadzenia działalności bankowej sposób ostrożny stabilny lub istotnego obniżenia kosztów tej działalności.
-5. Do wniosku udzielenie zezwolenia, mowa ust. 1 pkt 1 lit. m), załącza:
-1) dokumenty dotyczące działalności gospodarczej przedsiębiorcy lub przedsiębiorcy zagranicznego, który ma wykonywać powierzone czynności,
-2) projekt umowy, której mowa ust. 1, która ma być zawarta ust. 1.
-6. Do postępowania sprawie wniosku, mowa ust. 5, przepis art. 33 stosuje się odpowiednio.
-7. Jeżeli umowa powierzająca wykonywanie czynności, których mowa ust. 1, to przewiduje, przedsiębiorca lub przedsiębiorca zagraniczny, którym mowa ust. 1, może powierzyć innemu przedsiębiorcy lub przedsiębiorcy drodze odrębnej umowy, wykonywanie:
-1) kreślonych umowie zawartej bankiem czynności służących realizacji głównego świadczenia wynikającego tej umowy, uzyskaniu pisemnej zgody banku, lub
-2) p owierzonych przez czynności, jednorazowo, przypadku gdy następstwie siły wyższej nie może ich wykonywać samodzielnie, na czas niezbędny do usunięcia przyczyn uniemożliwiających wykonywanie tych czynności.
-8. Do powierzenia wykonywania czynności zgodnie ust. 7 pkt 2, przepisy ust. 2 stosuje się odpowiednio.
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 6b.**
+**Art. 6a.**
 
-1. O dpowiedzialności przedsiębiorcy lub przedsiębiorcy zagranicznego, którym mowa art. 6a ust. 1, wobec banku za szkody wyrządzone klientom wskutek niewykonania lub nienależytego wykonania umowy, której moprzedsiębiorcą lub przedsiębiorcą zagranicznym,
+1. Bank może, w drodze umowy zawartej na piśmie, powierzyć przedsiębiorcy lub przedsiębiorcy zagranicznemu, z zastrzeżeniem art. 6d, wykonywanie:
 
-- **3)** plany działania zapewniające ciągłe niezakłócone prowadzenie działalności zakresie objętym umową, wa art. 6a ust. 1 7, nie można wyłączyć ani ograniczyć.
+- **1)** w imieniu i na rzecz banku pośrednictwa w zakresie czynności wymienionych w art. 5 i 6, polegającego na: zawieraniu i zmianie umów rachunków bankowych, o których mowa w art. 49 ust. 1, według wzoru zatwierdzonego przez bank, zawieraniu i zmianie umów kredytów i pożyczek pieniężnych udzielanych osobom fizycznym, w tym kredytu konsumenckiego w rozumieniu ustawy z dnia 20 lipca 2001 r. o kredycie konsumenckim (Dz. U. Nr 100, poz. 1081, z późn. zm.), zawieraniu i zmianie umów kredytów i pożyczek pieniężnych dla mikroprzedsiębiorców i małych przedsiębiorców w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, zawieraniu i zmianie umów ugody w sprawie spłaty kredytów i pożyczek, o których mowa w lit. b) i c), zawieraniu i zmianie umów dotyczących ustanowienia prawnego zabezpieczenia kredytów i pożyczek, o których mowa w lit. b) i c), zawieraniu i zmianie umów o kartę płatniczą, których stroną jest konsument oraz mikroprzedsiębiorca i mały przedsiębiorca w rozumieniu ustawy, o której mowa w lit. c), przyjmowaniu wpłat, dokonywaniu wypłat oraz obsłudze czeków związanych z prowadzeniem rachunków bankowych przez ten bank, dokonywaniu wypłat i przyjmowaniu spłat udzielonych przez ten bank kredytów i pożyczek pieniężnych, przyjmowaniu wpłat na rachunki bankowe prowadzone przez inne banki, przyjmowaniu dyspozycji przeprowadzania bankowych rozliczeń pieniężnych związanych z prowadzeniem rachunków bankowych przez ten bank, wykonywaniu czynności związanych z emitowaniem i przechowywaniem bankowych papierów wartościowych oraz innych papierów wartościowych, a także wykonywaniu innych czynności zleconych związanych z emisją i obsługą papierów wartościowych, windykacji należności banku, wykonywaniu innych czynności, po uzyskaniu zezwolenia Komisji Nadzoru Finansowego,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **m)**
 
-2. Odpowiedzialności banku za szkody wyrządzone klientom wskutek niewykonania lub nienależytego wykonania umowy, której mowa art. 6a ust. 1 7, nie można wyłączyć ani ograniczyć.
+- **2)** czynności faktycznych związanych z działalnością bankową.
 
-**Art. 6c.**
+2. Powierzenie przez bank wykonywania czynności, o których mowa w ust. 1 pkt 1 lit. a)-j), następuje na podstawie umowy agencyjnej.
 
-1. Powierzenie przez wykonywania stale lub okresowo czynności, których mowa art. 6a ust. 1, może nabadania sprawozdań finansowych banku na podstawie zawartej bankiem umowy oraz ochronę tajemnicy prawnie chronionej,
+3. Powierzenie wykonywania czynności, o którym mowa w ust. 1, nie może obejmować:
 
-- **3)** uwzględnia ryzyko związane powierzeniem wykonywania czynności, mowa art. 6a ust. 1 7, systemie zarządzania ryzykiem.
+- **1)** zarządzania bankiem w rozumieniu art. 368 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.), zwanej dalej „Kodeksem spółek handlowych”, oraz w rozumieniu art. 48 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2003 r. Nr 188, poz. 1848, z późn. zm.), zwanej dalej „ustawą – Prawo spółdzielcze”, w szczególności zarządzania ryzykiem związanym z prowadzeniem działalności bankowej, w tym zarządzania aktywami i pasywami, dokonywania oceny zdolności kredytowej i analizy ryzyka kredytowego,
+- **2)** przeprowadzania audytu wewnętrznego banku.
+
+4. Komisja Nadzoru Finansowego może udzielić bankowi zezwolenia, o którym mowa w ust. 1 pkt 1 lit. m), jeżeli powierzenie przez bank wykonywania innych czynności jest niezbędne do prowadzenia działalności bankowej w sposób ostrożny i stabilny lub istotnego obniżenia kosztów tej działalności.
+
+5. Do wniosku o udzielenie zezwolenia, o którym mowa w ust. 1 pkt 1 lit. m), bank załącza:
+
+- **1)** dokumenty dotyczące działalności gospodarczej przedsiębiorcy lub przedsiębiorcy zagranicznego, który ma wykonywać powierzone czynności,
+- **2)** projekt umowy, o której mowa w ust. 1, która ma być zawarta z przedsiębiorcą lub przedsiębiorcą zagranicznym,
+- **3)** plany działania zapewniające ciągłe i niezakłócone prowadzenie działalności w zakresie objętym umową,
+- **4)** opis rozwiązań technicznych i organizacyjnych, zapewniających bezpieczne i prawidłowe wykonywanie powierzonych czynności, w szczególności ochronę tajemnicy prawnie chronionej,
+- **5)** opis zasad zarządzania ryzykiem związanym z powierzeniem wykonywania czynności, o którym mowa w ust. 1.
+
+6. Do postępowania w sprawie wniosku, o którym mowa w ust. 5, przepis art. 33 stosuje się odpowiednio.
+
+7. Jeżeli umowa powierzająca wykonywanie czynności, o których mowa w ust. 1, to przewiduje, przedsiębiorca lub przedsiębiorca zagraniczny, o którym mowa w ust. 1, może powierzyć innemu przedsiębiorcy lub przedsiębiorcy zagranicznemu, w drodze odrębnej umowy, wykonywanie:
+
+- **1)** określonych w umowie zawartej z bankiem czynności służących realizacji głównego świadczenia wynikającego z tej umowy, po uzyskaniu pisemnej zgody banku, lub
+- **2)** powierzonych przez bank czynności, jednorazowo, w przypadku gdy w następstwie siły wyższej nie może ich wykonywać samodzielnie, na czas niezbędny do usunięcia przyczyn uniemożliwiających wykonywanie tych czynności.
+
+8. Do powierzenia wykonywania czynności zgodnie z ust. 7 pkt 2, przepisy ust. 2 stosuje się odpowiednio.
+
+1. Odpowiedzialności przedsiębiorcy lub przedsiębiorcy zagranicznego, o którym mowa w art. 6a ust. 1, wobec banku za szkody wyrządzone klientom wskutek niewykonania lub nienależytego wykonania umowy, o której mowa w art. 6a ust. 1 i 7, nie można wyłączyć ani ograniczyć.
+
+2. Odpowiedzialności banku za szkody wyrządzone klientom wskutek niewykonania lub nienależytego wykonania umowy, o której mowa w art. 6a ust. 1 i 7, nie można wyłączyć ani ograniczyć.
+
+1. Powierzenie przez bank wykonywania stale lub okresowo czynności, o których mowa w art. 6a ust. 1, może nastąpić po spełnieniu następujących warunków:
+
+- **1)** bank i przedsiębiorca lub przedsiębiorca zagraniczny będą posiadać plany działania zapewniające ciągłe i niezakłócone prowadzenie działalności w zakresie objętym umową,
+- **2)** powierzenie wykonywania czynności, o którym mowa w art. 6a ust. 1 i 7, nie wpłynie niekorzystnie na prowadzenie przez bank działalności zgodnie z przepisami prawa, ostrożne i stabilne zarządzanie bankiem, skuteczność systemu kontroli wewnętrznej w banku, możliwość wykonywania obowiązków przez biegłego rewidenta upoważnionego do badania sprawozdań finansowych banku na podstawie zawartej z bankiem umowy oraz ochronę tajemnicy prawnie chronionej,
+- **3)** bank uwzględnia ryzyko związane z powierzeniem wykonywania czynności, o którym mowa w art. 6a ust. 1 i 7, w systemie zarządzania ryzykiem.
 
 2. Bank zawiadamia Komisję Nadzoru Finansowego:
 
-- **1)** co najmniej 14 dni przed dniem zawarcia umowy przewidującej możliwość powierzenia wykonywania czynności zgodnie art. 6a ust. 7 pkt 2 przedsiębiorcy, mowa art. 6d ust. 1, lub takiej umowy przewidującej, że powierzone czynności będą wykonywane poza terytorium państwa członkowskiego treści takiego postanowienia umownego,
-- **2)** niezwłocznie powierzeniu wykonywania czynności zgodnie art. 6a ust. 7 pkt 2.
+- **1)** co najmniej 14 dni przed dniem zawarcia umowy przewidującej możliwość powierzenia wykonywania czynności zgodnie z art. 6a ust. 7 pkt 2 przedsiębiorcy, o którym mowa w art. 6d ust. 1, lub takiej umowy przewidującej, że powierzone czynności będą wykonywane poza terytorium państwa członkowskiego – o treści takiego postanowienia umownego,
+- **2)** niezwłocznie – o powierzeniu wykonywania czynności zgodnie z art. 6a ust. 7 pkt 2.
 
-3. Bank prowadzi ewidencję umów, których mowa art. 6a ust. 1 7, zawierającą co najmniej:
+3. Bank prowadzi ewidencję umów, o których mowa w art. 6a ust. 1 i 7, zawierającą co najmniej:
 
-- **1)** dane identyfikujące przedsiębiorców lub przedsiębiorców zagranicznych, którymi zostały zawarte umowy powierzające wykonywanie czynności,
-- **2)** zakres powierzonych czynności miejsce ich wykonywania,
+- **1)** dane identyfikujące przedsiębiorców lub przedsiębiorców zagranicznych, z którymi zostały zawarte umowy powierzające wykonywanie czynności,
+- **2)** zakres powierzonych czynności i miejsce ich wykonywania,
 - **3)** okres obowiązywania umów.
 
-4. Komisja Nadzoru Finansowego może żądać od banku szczególności:
+4. Komisja Nadzoru Finansowego może żądać od banku w szczególności:
 
-- **1)** przedstawienia kopii umowy, której mowa art. 6a ust. 1 lub 7,
-- **2)** złożenia wyjaśnień dotyczących realizacji umów powierzających wyko5. Komisja Nadzoru Finansowego nakazuje bankowi, drodze decyzji, podjęcie działań zmierzających do zmiany lub rozwiązania umowy, której mowa art. 6a ust. 1 lub 7, jeżeli:
-- **1)** ykonanie umowy zagraża ostrożnemu stabilnemu zarządzaniu bankiem,
-- **2)** p rzedsiębiorca lub przedsiębiorca zagraniczny będący stroną umowy utracił wymagane uprawnienia niezbędne do wykonywania tej umowy.
+- **1)** przedstawienia kopii umowy, o której mowa w art. 6a ust. 1 lub 7,
+- **2)** złożenia wyjaśnień dotyczących realizacji umów powierzających wykonywanie czynności,
+- **3)** przedstawienia planu działania, o którym mowa w ust. 1 pkt 1,
+- **4)** przedstawienia dokumentów określających status przedsiębiorcy lub przedsiębiorcy zagranicznego, z którym bank zawarł umowę,
+- **5)** dostarczenia opisu rozwiązań technicznych i organizacyjnych, zapewniających bezpieczne i prawidłowe wykonywanie powierzonych czynności, w szczególności ochronę tajemnicy prawnie chronionej,
+- **6)** przedstawienia zasad zarządzania ryzykiem związanym z powierzeniem wykonywania czynności, o którym mowa w art. 6a ust. 1 i 7.
 
-6. Od decyzji Komisji Nadzoru Finansowego, której mowa ust. 5, może wnieść skargę do sądu administracyjnego terminie 14 dni od dnia doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. 2000 98, 1071, późn. zm. ), zwanej dalej „Kodeksem postępowania administracyjnego”, nie stosuje się.
+5. Komisja Nadzoru Finansowego nakazuje bankowi, w drodze decyzji, podjęcie działań zmierzających do zmiany lub rozwiązania umowy, o której mowa w art. 6a ust. 1 lub 7, jeżeli:
 
-7. Komisja Nadzoru Finansowego może, bez konieczności uprzedniego upomnienia na piśmie, zastosować środki określone art. 138 ust. 3, przypadku gdy wyznaczonym terminie nie doprowadzi do zmiany lub rozwiązania umowy, której mowa art. 6a ust. 1 lub 7.
+- **1)** wykonanie umowy zagraża ostrożnemu i stabilnemu zarządzaniu bankiem,
+- **2)** przedsiębiorca lub przedsiębiorca zagraniczny będący stroną umowy utracił wymagane uprawnienia niezbędne do wykonywania tej umowy.
 
-8. Do przedsiębiorcy lub przedsiębiorcy zagranicznego, mowa art. 6a ust. 1 7, przepisy art. 136 ust. 3 oraz art. 141h ust. 1, 3 4 stosuje się odpowiednio.
+6. Od decyzji Komisji Nadzoru Finansowego, o której mowa w ust. 5, bank może wnieść skargę do sądu administracyjnego w terminie 14 dni od dnia doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.), zwanej dalej „Kodeksem postępowania administracyjnego”, nie stosuje się.
 
-**Art. 6d.**
+7. Komisja Nadzoru Finansowego może, bez konieczności uprzedniego upomnienia na piśmie, zastosować środki określone w art. 138 ust. 3, w przypadku gdy w wyznaczonym terminie bank nie doprowadzi do zmiany lub rozwiązania umowy, o której mowa w art. 6a ust. 1 lub 7.
 
-1. Zawarcie umowy, której mowa art. 6a ust. 1 lub 7, przedsiębiorcą zagranicznym niemającym miejsca stałego zamieszkania lub nieposiadająwiednio, zastrzeżeniem ust. 3.
+8. Do przedsiębiorcy lub przedsiębiorcy zagranicznego, o którym mowa w art. 6a ust. 1 i 7, przepisy art. 136 ust. 3 oraz art. 141h ust. 1, 3 i 4 stosuje się odpowiednio.
 
-3. W przypadku umów, których mowa w:
+1. Zawarcie umowy, o której mowa w art. 6a ust. 1 lub 7, z przedsiębiorcą zagranicznym niemającym miejsca stałego zamieszkania lub nieposiadającym siedziby na terytorium państwa członkowskiego lub umowy przewidującej, że powierzone czynności będą wykonywane poza terytorium państwa członkowskiego, wymaga zezwolenia Komisji Nadzoru Finansowego udzielonego na wniosek banku.
 
-- **1)** a rt. 6a ust. 7 pkt 1 przepisów art. 6a ust. 5 pkt 2 nie stosuje się,
-- **2)** a rt. 6a ust. 7 pkt 2 przepisów art. 6a ust. 5 pkt 2 3 nie stosuje się.
+2. Do postępowania w sprawie wniosku, o którym mowa w ust. 1, przepisy art. 6a ust. 5 i art. 33 stosuje się odpowiednio, z zastrzeżeniem ust. 3.
 
-4. Komisja Nadzoru Finansowego może odmówić wydania zezwolenia lub cofnąć zezwolenie, przypadku gdy:
+3. W przypadku umów, o których mowa w:
 
-- **1)** stnieje zagrożenie naruszenia tajemnicy prawnie chronionej,
-- **2)** państwie, powierzone czynności mają być wykonywane, obowiązujące prawo uniemożliwia Komisji Nadzoru Finansowego wykonywanie efektywnego nadzoru,
-- **3)** p owierzenie wykonywania czynności może wpłynąć niekorzystnie na prowadzenie przez działalności zgodnie przepisami prawa, ostrożne stabilne zarządzanie bankiem, skuteczność systemu kontroli wewnętrznej banku oraz możliwość wykonywania obowiązków przez biegłego rewidenta upoważnionego do badania sprawozdań finansowych banku na podstawie zawartej bankiem umowy.
+- **1)** art. 6a ust. 7 pkt 1 – przepisów art. 6a ust. 5 pkt 2 nie stosuje się,
+- **2)** art. 6a ust. 7 pkt 2 – przepisów art. 6a ust. 5 pkt 2 i 3 nie stosuje się.
 
-5. Przepis art. 6c stosuje się odpowiednio.”;
+4. Komisja Nadzoru Finansowego może odmówić wydania zezwolenia lub cofnąć zezwolenie, w przypadku gdy:
 
-- **3)** art. 104 ust. 2 pkt 2 otrzymuje brzmienie: „2) następuje ujawnienie informacji objętych taobowiązany jest również udostępnić nieodpłatnie, na żądanie zainteresowanej osoby, miejscu wykonywania czynności, mowa art. 111 ust. 1.”;
-- **6)** art. 134 ust. 1 otrzymuje brzmienie: „1. Badanie sprawozdań finansowych banku, a także oddziału banku zagranicznego, może być zlecone tylko biegłym rewidentom, którzy spełniają wymogi określone ustawie dnia 7 maja 2009 biegłych rewidentach ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz nadzorze publicznym (Dz. U. 77, 649 oraz 2010 182, 1228).”;
-- **7)** art. 137 pkt 1a otrzymuje brzmienie: „1a) określa, drodze uchwały, wykaz dokumentów, których mowa art. 6a ust. 5 pkt 1,”;
-- **8)** art. 138 ust. 7 pkt 2 otrzymuje brzmienie: „2) awartych przez krajowy podmiotami działającymi tym samym holdingu oraz umów zawartych przez krajowy podmiotami, którymi posiada bliskie powiązania, oraz umów, których mowa art. 6a ust. 1
+- **1)** istnieje zagrożenie naruszenia tajemnicy prawnie chronionej,
+- **2)** w państwie, w którym powierzone czynności mają być wykonywane, obowiązujące prawo uniemożliwia Komisji Nadzoru Finansowego wykonywanie efektywnego nadzoru,
+- **3)** powierzenie wykonywania czynności może wpłynąć niekorzystnie na prowadzenie przez bank działalności zgodnie z przepisami prawa, ostrożne i stabilne zarządzanie bankiem, skuteczność systemu kontroli wewnętrznej w banku oraz możliwość wykonywania obowiązków przez biegłego rewidenta upoważnionego do badania sprawozdań finansowych banku na podstawie zawartej z bankiem umowy.
 
-7. ”.
+5. Przepis art. 6c stosuje się odpowiednio. ” ;
 
-**Art. 2.** W ustawie dnia 12 maja 2011 kredycie konsumenckim (Dz. U. 126, 715 165,
+- **3)** w art. 104 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** następuje ujawnienie informacji objętych tajemnicą bankową przedsiębiorcom lub przedsiębiorcom zagranicznym: którym bank, zgodnie z art. 6a ust. 1 i art. 6b-6d, powierzył wykonywanie, stale lub okresowo, czynności związanych z działalnością bankową, którym powierzono wykonywanie czynności zgodnie z art. 6a ust. 7 w zakresie niezbędnym do należytego wykonywania tych czynności, ” ;
+    - **a)**
+    - **b)**
 
-**Art. 3.** Postępowania sprawie udzielenia zezwolenia na powierzenie przez wykonywania czynności wszczęte na podstawie przepisów ustawy, której mowa art. 1, niezakończone do dnia wejścia życie niniejszej umarza się, przypadku gdy na podstawie ustawy, której mowa art. 1,
+- **4)** w art. 111 w ust. 1 w pkt 8 przecinek zastępuje się kropką oraz uchyla się pkt 9;
+- **5)** po art. 111a dodaje się art. 111b w brzmieniu: „
+
+**Art. 111b.**
+
+1. Bank obowiązany jest ogłaszać w sposób ogólnie dostępny informacje o przedsiębiorcach lub przedsiębiorcach zagranicznych, o których mowa w art. 6a ust. 1 i 7, o ile przy wykonywaniu na rzecz jednostki organizacyjnej banku albo innego przedsiębiorcy lub przedsiębiorcy zagranicznego czynności, o których mowa w tych przepisach, uzyskują dostęp do informacji chronionych tajemnicą bankową.
+
+2. Informacje, o których mowa w ust. 1, bank obowiązany jest również udostępnić nieodpłatnie, na żądanie zainteresowanej osoby, w miejscu wykonywania czynności, o którym mowa w art. 111 ust. 1. ” ;
+
+- **6)** w art. 134 ust. 1 otrzymuje brzmienie: „
+
+1. Badanie sprawozdań finansowych banku, a także oddziału banku zagranicznego, może być zlecone tylko biegłym rewidentom, którzy spełniają wymogi określone w ustawie z dnia 7 maja 2009 r. o biegłych rewidentach i ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz o nadzorze publicznym (Dz. U. Nr 77, poz. 649 oraz z 2010 r. Nr 182, poz. 1228). ” ;
+
+- **7)** w art. 137 pkt 1a otrzymuje brzmienie: „
+- **1a)** określa, w drodze uchwały, wykaz dokumentów, o których mowa w art. 6a ust. 5 pkt 1, ” ;
+- **8)** w art. 138 w ust. 7 pkt 2 otrzymuje brzmienie: „
+- **2)** zawartych przez bank krajowy z podmiotami działającymi w tym samym holdingu oraz umów zawartych przez bank krajowy z podmiotami, z którymi posiada bliskie powiązania, oraz umów, o których mowa w art. 6a ust. 1 i 7. ” .
+
+**Art. 2.** W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. Nr 126, poz. 715 i Nr 165, poz. 984) w art. 62 pkt 1 otrzymuje brzmienie: „
+
+**Art. 3.** Postępowania w sprawie udzielenia zezwolenia na powierzenie przez bank wykonywania czynności wszczęte na podstawie przepisów ustawy, o której mowa w art. 1, i niezakończone do dnia wejścia w życie niniejszej ustawy umarza się, w przypadku gdy na podstawie ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, zezwolenie to nie jest wymagane.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

@@ -8,9 +8,10 @@ pos: 2011
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 14 grudnia 2016 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 14 listopada 2016 sprawie ogłoszenia jednolitego tekstu jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie ś wiadczenia kompensacyjne 2016
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 14 listopada 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,53 +25,60 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002011) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2011/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2016 296 1579) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 15 stycznia 2016 jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne 2016 (Dz. U. 188), uwzględnieniem zmiany wprowadzonej ustawą 25 lutego 2016 zmianie jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne 2016 (Dz. U. 366) oraz zmian wynikających przepisów ogłoszonych przed dniem 10 listopada 2016 Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:
-1) art. 11 15 stycznia 2016 jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne 2016 (Dz. U. 188), który stanowi: „Art. 11. W ustawie 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2012 361, późn. zm. ) po art. 52f dodaje się art. 52g brzmieniu: „Art. 52g. Zwalnia się od podatku dochodowego kwoty jednorazowego dodatku pieniężnego, którym mowa ustawie 15 stycznia 2016 jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne 2016 (Dz. U. 188).”.”;
-2) art. 2 25 lutego 2016 zmianie jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne 2016 (Dz. U. 366), który stanowi: „Art. Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, mocą od 1 marca 2016 r.”.
-Marszałek Sejmu: M. Kuchciński
-USTAWA 15 stycznia 2016 jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne 2016
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r.
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 188), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 25 lutego 2016 r. o zmianie ustawy o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 366) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 listopada 2016 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 11 ustawy z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 188), który stanowi:
+„
 
-**Art. 1.** Ustawa określa warunki nabywania prawa do jednorazowego dodatku pieniężnego przysługującego 2016 oraz zasady wypłaty finansowania tego dodatku.
+**Art. 11.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299.) po art. 52f dodaje się art. 52g w brzmieniu: „
 
-**Art. 1.** Jednorazowy dodatek pieniężny, zwany dalej „dodatkiem”, przysługuje osobom, które dniu 29 lutego 2016 mają prawo do:
+**Art. 52g.** Zwalnia się od podatku dochodowego kwoty jednorazowego dodatku pieniężnego, o którym mowa w ustawie z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 188).”. ” ; ” ;
 
-**Art. 3.** W razie zbiegu prawa do więcej niż jednego świadczenia, którym mowa art. 2 ust. 1, osobie uprawnionej przysługuje jeden dodatek.
+**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 marca 2016 r. ” .
+
+**Art. 1.** Ustawa określa warunki nabywania prawa do jednorazowego dodatku pieniężnego przysługującego w 2016 r. oraz zasady wypłaty i finansowania tego dodatku. 1. Jednorazowy dodatek pieniężny, zwany dalej „dodatkiem”, przysługuje osobom, które w dniu 29 lutego 2016 r. mają prawo do:
+
+**Art. 3.** W razie zbiegu prawa do więcej niż jednego świadczenia, o którym mowa w art. 2 ust. 1, osobie uprawnionej przysługuje jeden dodatek.
 
 **Art. 4.** Do renty rodzinnej, do której jest uprawniona więcej niż jedna osoba, przysługuje jeden dodatek.
 
-**Art. 5.** Dodatek przysługuje wysoko ś ci:
+**Art. 5.** Dodatek przysługuje w wysokości:
 
 **Art. 6.**
 
-1. Dodatek wypłaca się osobie uprawnionej urzędu, wraz ze świadczeniem, którym mowa art. 2 ust. 1. Dodatek wypłaca się terminie wypłaty świadczeń, których mowa art. 2 ust. 1, przypadającym marcu, wyjątkiem dodatku do świadczeń, których mowa art. 2 ust. 1 pkt 11 oraz art. 49 ust. 3 ustawy, której mowa art. 2 ust. 1 pkt 2, który wypłaca się terminie wypłaty świadczeń, przypadającym kwietniu.
+1. Dodatek wypłaca się osobie uprawnionej z urzędu, wraz ze świadczeniem, o którym mowa w art. 2 ust. 1.
+
+2. Dodatek wypłaca się w terminie wypłaty świadczeń, o których mowa w art. 2 ust. 1, przypadającym w marcu, z wyjątkiem dodatku do świadczeń, o których mowa w art. 2 ust. 1 pkt 11 oraz w art. 49 ust. 3 ustawy, o której mowa w art. 2 ust. 1 pkt 2, który wypłaca się w terminie wypłaty świadczeń, przypadającym w kwietniu.
 
 **Art. 7.**
 
-1. Decyzje sprawie dodatku wydaje dodatek wypłaca organ wypłacający świadczenie, którym mowa art. 2 ust. 1. W razie zbiegu prawa do świadczeń, które są wypłacane przez dwa organy emerytalno-rentowe, decyzje sprawie dodatku wydaje dodatek wypłaca Zakład Ubezpieczeń Społecznych.
+1. Decyzje w sprawie dodatku wydaje i dodatek wypłaca organ wypłacający świadczenie, o którym mowa w art. 2 ust. 1.
 
-3. Decyzje sprawie dodatku, sporządzone wykorzystaniem systemu teleinformatycznego, mogą zamiast podpisu zawierać nadruk imienia nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
+2. W razie zbiegu prawa do świadczeń, które są wypłacane przez dwa organy emerytalno-rentowe, decyzje w sprawie dodatku wydaje i dodatek wypłaca Zakład Ubezpieczeń Społecznych.
 
-4. Od decyzji organu wypłacającego przysługują środki odwoławcze przewidziane przepisach, których mowa art. 2 ust. 1.
+3. Decyzje w sprawie dodatku, sporządzone z wykorzystaniem systemu teleinformatycznego, mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
 
-**Art. 8.** Kwota dodatku nie stanowi podstawy wymiaru składek na ubezpieczenie zdrowotne.
+4. Od decyzji organu wypłacającego przysługują środki odwoławcze przewidziane w przepisach, o których mowa w art. 2 ust. 1.
 
-**Art. 8a.**
-
-- **2)** Kwoty dodatku nie wlicza się do dochodu, którym mowa w:
-- **1)** art. 3 ust. 3 21 czerwca 2001 dodatkach mieszkaniowych (Dz. U. 2013 966 984, 693 1220 oraz 2016 195 1250);
-- **2)** art. 8 ust. 3 12 marca 2004 pomocy społecznej (Dz. U. 2016 930 1583).
+**Art. 8.** Kwota dodatku nie stanowi podstawy wymiaru składek na ubezpieczenie zdrowotne. Kwoty dodatku nie wlicza się do dochodu, o którym mowa w:
 
 **Art. 9.**
 
-1. Dodatek oraz koszty jego obsługi są finansowane ze środków budżetu państwa. W roku 2016 maksymalny limit wydatków będących skutkiem finansowym wynosi 1 410 000 000,00 zł.
+1. Dodatek oraz koszty jego obsługi są finansowane ze środków budżetu państwa.
 
-3. Organem właściwym do monitorowania wykorzystywania limitu wydatków, którym mowa ust. 2, jest minister właściwy do spraw finansów publicznych.
+2. W roku 2016 maksymalny limit wydatków będących skutkiem finansowym ustawy wynosi 1 410 000 000,00 zł.
 
-**Art. 10.** Z kwoty dodatku nie dokonuje się potrąceń egzekucji.
+3. Organem właściwym do monitorowania wykorzystywania limitu wydatków, o którym mowa w ust. 2, jest minister właściwy do spraw finansów publicznych.
 
-**Art. 11.** (pominięty)
+**Art. 10.** Z kwoty dodatku nie dokonuje się potrąceń i egzekucji. (pominięty)
 
-**Art. 12.** W sprawach nieuregulowanych niniejszej ustawie stosuje się odpowiednio przepisy 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych, wyłączeniem art. 136.
+**Art. 12.** Wsprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyłączeniem art. 136.
 
-**Art. 13.** Ustawa wchodzi życie dniem 1 marca 2016
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 marca 2016 r.
 

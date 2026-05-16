@@ -8,6 +8,7 @@ pos: 163
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # Prawo geodezyjne i kartograficzne

@@ -1,0 +1,104 @@
+---
+title: Ustawa z dnia 26 września 2014 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+address: WDU20140001626
+eli: DU/2014/1626
+publisher: DU
+year: 2014
+pos: 1626
+act_type: Ustawa
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 26 września 2014 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2014 poz. 1626 |
+| ISAP | WDU20140001626 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2014-09-26 |
+| Data wydania | 2014-11-21 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1626/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 83a.**
+
+1. Minister Finansów otwiera w Banku Gospodarstwa Krajowego rachunki bankowe w złotych lub walutach obcych, na których są przechowywane pieniądze przyjęte do depozytu sądowego lub składane na tych rachunkach na podstawie odrębnych przepisów (rachunki depozytowe Ministra Finansów).
+
+2. Minister Finansów jest upoważniony do czasowego zarządzania, w celu sfinansowania potrzeb pożyczkowych budżetu państwa oraz w związku z zarządzaniem długiem Skarbu Państwa, środkami pieniężnymi zgromadzonymi na rachunkach depozytowych Ministra Finansów z obowiązkiem ich zwrotu na każde żądanie wraz z należnymi odsetkami.
+
+3. Środki złożone na rachunkach depozytowych Ministra Finansów są oprocentowane w wysokości:
+
+- **1)** stopy depozytowej Narodowego Banku Polskiego – w przypadku środków zgromadzonych w złotych;
+- **2)** oprocentowania wkładów wypłacanych w danej walucie na każde żądanie przez Bank Gospodarstwa Krajowego – w przypadku środków zgromadzonych w walutach obcych.
+
+4. Bank Gospodarstwa Krajowego, prowadząc rachunki depozytowe Ministra Finansów, zapewnia w szczególności:
+
+- **1)** ewidencję analityczną środków dla poszczególnych depozytów (mikrorachunki) w ramach każdego rachunku depozytowego Ministra Finansów;
+- **2)** dzienne naliczanie odsetek oraz okresową kapitalizację odsetek należnych z tytułu środków zgromadzonych na każdym mikrorachunku;
+- **3)** możliwość wymiany informacji z centralnym systemem informatycznym zapewniającym obsługę gospodarki finansowej sądów w zakresie stanu każdego mikrorachunku (kapitału i odsetek), wpłat na każdy mikrorachunek i wypłat z każdego mikrorachunku. ” ;
+- **7)** po art. 91 dodaje się art. 91a w brzmieniu: „
+
+**Art. 91a.**
+
+1. W celu sfinansowania środków niezbędnych na pokrycie deficytu lub rozchodów budżetu jednostki samorządu terytorialnego, jednostka samorządu terytorialnego może przyjmować w depozyt wolne środki od samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest jednostka samorządu terytorialnego, samorządowych instytucji kultury oraz samorządowych osób prawnych, o których mowa w art. 9 pkt 14, z wyłączeniem wojewódzkich funduszy ochrony środowiska i gospodarki wodnej.
+
+2. Przyjmowanie wolnych środków w depozyt następuje na podstawie uchwały organu stanowiącego jednostki samorządu terytorialnego wyrażającej zgodę na przyjmowanie w depozyt wolnych środków, podjętej na wniosek zarządu, oraz umowy. Uchwała może ponadto określać:
+
+- **1)** warunki przyjmowania wolnych środków w depozyt przez jednostkę samorządu terytorialnego;
+- **2)** wysokość lub sposób obliczania oprocentowania środków przyjętych w depozyt przez jednostkę samorządu terytorialnego. ” ;
+- **8)** w art. 196 ust. 5 otrzymuje brzmienie: „
+
+5. Obsługę bankową rachunków jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 5–7, 9 i 12, samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest minister, centralny organ administracji rządowej, wojewoda lub uczelnia medyczna, państwowych instytucji kultury, państwowych osób prawnych, o których mowa w art. 9 pkt 14, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej prowadzi Bank Gospodarstwa Krajowego. ” ;
+
+- **9)** art. 199a otrzymuje brzmienie: „
+
+**Art. 199a.** W ramach obsługi bankowej rachunków jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 5–7, 9 i 12, samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest minister, centralny organ administracji rządowej, wojewoda lub uczelnia medyczna, państwowych instytucji kultury, państwowych osób prawnych, o których mowa w art. 9 pkt 14, oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej Bank Gospodarstwa Krajowego udostępnia Ministrowi Finansów i Najwyższej Izbie Kontroli informacje o stanach środków na poszczególnych rachunkach. ” .
+
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.) w art. 31a w § 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+
+**Art. 4.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2012 r. poz. 1112, z późn. zm.) art. 227 otrzymuje brzmienie: „
+
+**Art. 227.** Sumy pieniężne wchodzące do masy upadłości oraz sumy uzyskane ze zbycia rzeczy i praw obciążonych rzeczowo, jeżeli nie podlegają natychmiastowemu wydaniu, syndyk składa do depozytu sądowego. ” .
+
+**Art. 5.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217, z późn. zm.) w art. 55 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+
+**Art. 6.**
+
+1. Jednostki sektora finansów publicznych, o których mowa w art. 9 pkt 6 i 12 ustawy zmienianej w art. 1, samodzielne publiczne zakłady opieki zdrowotnej, dla których podmiotem tworzącym jest minister, centralny organ administracji rządowej, wojewoda lub uczelnia medyczna, państwowe instytucje kultury oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej są obowiązane:
+
+- **1)** w terminie do dnia 28 lutego 2015 r.: zawrzeć umowę rachunku bankowego z Bankiem Gospodarstwa Krajowego – w przypadku gdy nie posiadają rachunku w tym banku, przekazać ministrowi właściwemu do spraw budżetu w depozyt wolne środki, z zastrzeżeniem pkt 2 i 3;
+    - **a)**
+    - **b)**
+
+- **2)** przekazać ministrowi właściwemu do spraw budżetu w depozyt wolne środki znajdujące się na rachunkach lokat terminowych otwartych przed dniem wejścia w życie niniejszej ustawy – w dniu zakończenia lokaty, nie później jednak niż w terminie do dnia 28 lutego 2015 r.;
+- **3)** przekazać ministrowi właściwemu do spraw budżetu w depozyt wolne środki ulokowane w papierach wartościowych – najpóźniej w dniu wykupu tych papierów wartościowych.
+
+2. Do czasu zawarcia umowy, o której mowa w ust. 1 pkt 1 lit. a, minister właściwy do spraw budżetu nie przyjmuje wolnych środków w depozyt na okres jednego dnia lub krótszy.
+
+**Art. 7.** Jednostki sektora finansów publicznych, o których mowa w art. 9 pkt 6 i 12 ustawy zmienianej w art. 1, samodzielne publiczne zakłady opieki zdrowotnej, dla których podmiotem tworzącym jest minister, centralny organ administracji rządowej, wojewoda lub uczelnia medyczna, państwowe instytucje kultury oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej do dnia 31 grudnia 2014 r. mogą dokonywać lokat, o których mowa w art. 48 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, na okres nie dłuższy niż do dnia 31 stycznia 2015 r.
+
+**Art. 8.**
+
+1. Pieniądze, które do dnia wejścia w życie niniejszej ustawy zostały przyjęte do depozytu sądowego albo złożone na rachunek depozytowy sądu, sądy przekazują, w terminie do dnia 28 lutego 2015 r., na odpowiednie rachunki depozytowe Ministra Finansów, o których mowa w art. 83a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w sposób umożliwiający identyfikację podmiotu, którego dotyczy depozyt, oraz w podziale na kwotę złożoną do depozytu albo na rachunek depozytowy sądu i odsetki naliczone na dzień przekazania, z zastrzeżeniem ust. 2 i 3.
+
+2. Pieniądze, które do dnia wejścia w życie niniejszej ustawy zostały umieszczone zgodnie z art. 752 § 2 zdanie drugie ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, na rachunku bankowym oprocentowanym jak dla lokat terminowych, sądy przekazują na odpowiednie rachunki depozytowe Ministra Finansów, o których mowa w art. 83a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w sposób i w podziale określonych w ust. 1, w dniu zakończenia lokaty.
+
+3. Pieniądze, o których mowa w ust. 2, mogą być przekazane na odpowiednie rachunki depozytowe Ministra Finansów, o których mowa w art. 83a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w sposób i w podziale określonych w ust. 1, przed dniem zakończenia lokaty na wniosek podmiotu uprawnionego do złożenia wniosku, o którym mowa w art. 752 § 2 zdanie drugie ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+
+4. Do przechowywania pieniędzy, o których mowa w ust. 1 i 2, do czasu ich przekazania na odpowiednie rachunki depozytowe Ministra Finansów, o których mowa w art. 83a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 5.
+
+5. Okres, na który została założona lokata zgodnie z art. 752 § 2 zdanie drugie ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, ustalony na dzień wejścia w życie niniejszego przepisu, nie może być przedłużany.
+
+6. Do dnia 31 grudnia 2014 r. lokaty zakładane zgodnie z art. 752 § 2 zdanie drugie ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, mogą być zakładane na okres nie dłuższy niż do dnia 1 kwietnia 2015 r.
+
+**Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 7 i art. 8 ust. 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+

@@ -8,6 +8,7 @@ pos: 793
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o zatrudnieniu socjalnym oraz o zmianie niektórych innych ustaw
@@ -24,31 +25,88 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071150793) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/793/text.pdf) |
 
-**Art. 1.** W ustawie dnia 13 czerwca 2003 o zatrudnieniu socjalnym (Dz. U. 122, 1143, zpóên. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. Nr 122, poz. 1143, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. 2000 Nr14, 176, póên. zm. ) 35 1 pkt 7 otrzymuje Ń7) centrum integracji społecznej od wypłacanych świadczeń integracyjnych motywacyjnej premii integracyjnej, przyznanych podstawie ustawy dnia 13 czerwca 2003 o zatrudnieniu socjalnym (Dz. U. 122, 1143, póên. zm. ).”.
+**Art. 5a.** Wojewoda, na wniosek instytucji tworzącej, może wydać decyzję o przedłużeniu statusu Centrum na okres, o którym mowa w art. 5 ust. 2, biorąc pod uwagę przedstawiane sprawozdanie, o którym mowa w art. 5 ust. 4 pkt 2, z 3 ostatnich lat. ” ;
 
-**Art. 4.** W ustawie dnia 13 paêdziernika 1998 o systemie ubezpieczeń społecznych (Dz. U. 2007 11, 74, póên. zm. ) wprowadza następujące zmiany:
+**Art. 6a.** W postępowaniu administracyjnym dotyczącym wydawania decyzji o nadaniu, przedłużeniu lub utracie statusu Centrum organem wyższego stopnia jest minister właściwy do spraw zabezpieczenia społecznego. ” ;
 
-**Art. 5.** W ustawie dnia 20 kwietnia 2004 o promocji zatrudnienia instytucjach rynku pracy (Dz. U. 99, 1001, póên. zm. Ń40) świadczeń integracyjnych przyznawanych podstawie przepisów o zatrudnieniu socjalnym składek ubezpieczenia społeczne od tych świadczeń;”.
+**Art. 8a.** Do finansowania utworzenia Centrum przez organizację pozarządową, o którym mowa w art. 7 ust. 1 pkt 2 lit. c i d i ust. 2 oraz w art. 8, nie stosuje się art. 176 ust. 2 i 3 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych. ” ;
 
-**Art. 6.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, 2135, zpóên. zm. ) wprowadza następujące zmiany:
+**Art. 15a.**
+
+1. W okresie uczestnictwa w zajęciach w Centrum, o którym mowa w art. 15 ust. 3, kierownik Centrum może przyznać uczestnikowi motywacyjną premię integracyjną, biorąc pod uwagę aktywną postawę i postępy w reintegracji społecznej i zawodowej.
+
+2. Motywacyjna premia integracyjna nie może przekroczyć 20% wysokości świadczenia integracyjnego, o którym mowa w art. 15 ust. 4. ” ;
+
+- **15)** w art. 16: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Po zakończeniu uczestnictwa w zajęciach w Centrum, a w uzasadnionych przypadkach także przed jego zakończeniem, jednak nie wcześniej niż po 6 miesiącach uczestnictwa w nich, na wniosek kierownika Centrum, pracownika socjalnego i uczestnika, a w przypadku uczestnictwa w klubie integracji społecznej – na wniosek pracownika socjalnego: ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Skierowanie do pracy, o którym mowa w ust. 1 pkt 1 lit. a, odbywa się na podstawie umowy zawartej między starostą właściwym dla siedziby Centrum a pracodawcą, w której pracodawca zobowiązuje się do zatrudnienia skierowanego uczestnika przez okres nie krótszy niż 12 miesięcy, a starosta do refundowania pracodawcy części wypłaconego tej osobie wynagrodzenia przez okres pierwszych 12 miesięcy, w wysokości nieprzekraczającej:
+
+- **1)** 100% zasiłku dla bezrobotnych wraz ze składką na ubezpieczenia społeczne, w pierwszych 3 miesiącach;
+- **2)** 80% zasiłku dla bezrobotnych wraz ze składką na ubezpieczenia społeczne, w 3 kolejnych miesiącach;
+- **3)** 60% zasiłku dla bezrobotnych wraz ze składką na ubezpieczenia społeczne, w następnych 6 miesiącach. ” , ust. 5 otrzymuje brzmienie: „
+    - **c)**
+
+5. Refundacji, o której mowa w ust. 2, dokonuje starosta ze środków Funduszu Pracy, w okresach miesięcznych, na podstawie wniosku pracodawcy, w terminie 30 dni od dnia jego złożenia. ” , po ust. 5 dodaje się ust. 5a-5c w brzmieniu: „
+
+- **d)**
+
+5a. Wniosek, o którym mowa w ust. 5, zawiera:
+
+- **1)** dane pracodawcy;
+- **2)** dane skierowanego uczestnika;
+- **3)** wysokość i składniki wynagrodzenia;
+- **4)** wysokość refundacji.
+
+5b. Refundacja, o której mowa w ust. 2, jest udzielana jako pomoc de minimis zgodnie z rozporządzeniem Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5).
+
+5c. Zaświadczenie o udzieleniu refundacji, o której mowa w ust. 2, wydaje starosta na zasadach określonych w ustawie z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404). ” ;
+
+- **16)** w art. 18: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Gmina lub organizacja pozarządowa prowadzące reintegrację zawodową i społeczną dla osób, o których mowa w art. 1, mogą prowadzić klub integracji społecznej.
+
+2. W klubach integracji społecznej można organizować w szczególności:
+
+- **1)** działania mające na celu pomoc w znalezieniu pracy na czas określony lub na czas wykonania określonej pracy, w pełnym lub niepełnym wymiarze czasu pracy u pracodawców, wykonywania usług na podstawie umów cywilnoprawnych oraz przygotowanie do podjęcia zatrudnienia;
+- **2)** prace społecznie użyteczne;
+- **3)** roboty publiczne;
+- **4)** poradnictwo prawne;
+- **5)** działalność samopomocową w zakresie zatrudnienia, spraw mieszkaniowych i socjalnych. ” , dodaje się ust. 4–6 w brzmieniu: „
+    - **b)**
+
+4. Warunkiem uczestnictwa w klubie integracji społecznej jest realizacja kontraktu socjalnego, o którym mowa w przepisach o pomocy społecznej.
+
+5. Okres uczestnictwa w klubie integracji społecznej jest ustalany indywidualnie z każdym z uczestników.
+
+6. Utworzenie i działalność klubów integracji społecznej może być finansowana w szczególności:
+
+- **1)** ze środków z Unii Europejskiej;
+- **2)** z dotacji pochodzących z dochodów własnych gminy. ” .
+
+**Art. 2.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2007 r. Nr 70, poz. 473) w art. 2 w ust. 1 w pkt 7 kropkę zastępuje się przecinkiem i dodaje pkt 8 w brzmieniu: „
+
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.) w art. 35 w ust. 1 pkt 7 otrzymuje brzmienie: „
+
+**Art. 4.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.) wprowadza się następujące zmiany:
 
 **Art. 7.**
 
-1. Jednostki organizacyjne, posiadające status Centrum dniu wejścia życie ustawy, uzyskują status Centrum rozumieniu niniejszej ustawy.
+1. Jednostki organizacyjne, posiadające status Centrum w dniu wejścia w życie ustawy, uzyskują status Centrum w rozumieniu niniejszej ustawy.
 
-2. Wpis do rejestru jednostek organizacyjnych, o których mowa 1, pozostaje mocy.
+2. Wpis do rejestru jednostek organizacyjnych, o których mowa w ust. 1, pozostaje w mocy.
 
 3. Rejestr jednostek organizacyjnych, którym został nadany status Centrum, marszałek województwa przekazuje właściwemu wojewodzie.
 
-4. W toczących postępowaniach sądowych administracyjnych zakresie zadań podlegających przekazaniu podstawie ustawy, których stroną jest marszałek województwa, stroną staje właściwy wojewoda.
+4. W toczących się postępowaniach sądowych i administracyjnych w zakresie zadań podlegających przekazaniu na podstawie ustawy, w których stroną jest marszałek województwa, stroną staje się właściwy wojewoda.
 
-5. Niezakończone postępowania administracyjne zakresie spraw podlegających przekazaniu podstawie przepisów ustawy toczą przed organami, które przejęły zadania kompetencje.
+5. Niezakończone postępowania administracyjne w zakresie spraw podlegających przekazaniu na podstawie przepisów ustawy toczą się przed organami, które przejęty zadania i kompetencje.
 
-6. Minister właściwy do spraw zabezpieczenia społecznego określi, drodze rozporządzenia, sposób tryb przekazania rejestru, o którym mowa 3, toczących postępowań sądowych administracyjnych wzakresie zadań podlegających przekazaniu podstawie ustawy, szczególności sposób ——————— ——————— zapewnienia sprawnego efektywnego prowadzenia nym brzmieniu nadanym niniejszą ustawą. przejętych rejestrów postępowań przez właściwych wojewodów. Art. 9. Ustawa wchodzi życie upływie 14 dni od dnia ogłoszenia, wyjątkiem 1 pkt 13 lit. a,
+6. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, sposób i tryb przekazania rejestru, o którym mowa w ust. 3, oraz toczących się postępowań sądowych i administracyjnych w zakresie zadań podlegających przekazaniu na podstawie ustawy, w szczególności sposób przekazania dokumentacji dotyczącej postępowań, o których mowa w ust. 4, kierując się koniecznością zapewnienia sprawnego i efektywnego prowadzenia przejętych rejestrów i postępowań przez właściwych wojewodów. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust. 6 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 5 ust. 6 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 8.** Dotychczasowe przepisy wykonawcze wy- art.4 pkt 2, które wchodzą życie dniem dane podstawie 6 ustawy dnia 1 lipca 2007 13czerwca 2003 ozatrudnieniu socjalnym zachowują moc do czasu wejścia życie nowych przepisów Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 794 USTAWA dnia 15 czerwca 2007 o zmianie ustawy o organizacji rynku mleka przetworów mlecznych niektórych innych ustaw
-
-**Art. 1.** Wustawie zdnia 20 kwietnia 2004 oorga- ewidencji ludności (PESEL) lub innego nizacji rynku mleka przetworów mlecznych (Dz. U. dokumentu potwierdzającego tożsamość z2005 244, 2081 z2006 50, 363 miejsce zamieszkania adres albo iNr 208, 1541) wprowadza następujące zmiany: nazwę, numer identyfikacji podatkowej (NIP), numer Krajowego Rejestru Urzędo1) 4: wego Podmiotów Gospodarki Narodoa) 2 3 otrzymują wej (REGON), jeżeli został nadany, siedzibę adres wnioskodawcy; Ń2. Prezes Agencji dokonuje, drodze decyzji, wpisu do rejestru podmiotów stwierdze- 2) wskazanie daty planowanego rozpoczęniu, wyniku kontroli, że wnioskodawca: cia działalności zakresie skupu mleka;
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 13 lit. a, art. 4 oraz art. 5 pkt 2, które wchodzą w życie z dniem 1 lipca 2007 r.
 

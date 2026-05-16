@@ -8,9 +8,10 @@ pos: 1250
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 czerwca 2022 r.
+# Ustawa z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów ze statków
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +25,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001250) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1250/text.pdf) |
 
-USTAWA z dnia 12 maja 2022 r.
-o portowych urządzeniach do odbioru odpadów ze statków
+Załącznik – Kategorie kosztów i przychodów netto związanych z funkcjonowaniem portowych urządzeń do odbioru odpadów ze statków i zarządzaniem nimi
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -47,7 +47,7 @@ o portowych urządzeniach do odbioru odpadów ze statków
 
 1. Obowiązki statków w zakresie zdawania przez nie odpadów do portowych urządzeń do odbioru odpadów ze statków oraz zasady udzielania im zwolnień z tych obowiązków określa art. 10 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2020 r. poz. 1955 oraz z 2022 r. poz. 1250), zwanej dalej „ustawą o zapobieganiu zanieczyszczaniu morza przez statki”.
 
-2. W zakresie nieuregulowanym niniejszą ustawą stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699), zwanej dalej „ustawą o odpadach”, oraz ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, 2127 i 2269 oraz z 2022 r. poz. 1079).
+2. W zakresie nieuregulowanym niniejszą ustawą stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699), zwanej dalej „ustawą o odpadach”, oraz ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, 2127 i 2269 oraz z 2022 r. poz. 1079).
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
 
@@ -201,8 +201,8 @@ o portowych urządzeniach do odbioru odpadów ze statków
 
 1. Plany gospodarowania odpadami ze statków podlegają zatwierdzeniu na wniosek podmiotu zarządzającego portem lub przystanią morską, w drodze decyzji, przez:
 
-- **1)** marszałka województwa dla portów o podstawowym znaczeniu dla gospodarki narodowej w rozumieniu art. 2 pkt 3 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich,
-- **2)** starostę dla innych niż określone w pkt 1 portów lub przystani morskich po uprzednim uzgodnieniu z właściwym dyrektorem urzędu morskiego.
+- **1)** marszałka województwa – dla portów o podstawowym znaczeniu dla gospodarki narodowej w rozumieniu art. 2 pkt 3 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich,
+- **2)** starostę – dla innych niż określone w pkt 1 portów lub przystani morskich po uprzednim uzgodnieniu z właściwym dyrektorem urzędu morskiego.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
@@ -217,9 +217,9 @@ o portowych urządzeniach do odbioru odpadów ze statków
 
 3. Do wniosku o zatwierdzenie planu gospodarowania odpadami ze statków dołącza się:
 
-- **1)** informacje dotyczące:
-    - **a)** odziaływania portowych urządzeń do odbioru odpadów ze statków na środowisko,
-    - **b)** działań podejmowanych w celu ochrony środowiska, w tym ochrony wód powierzchniowych oraz powierzchni ziemi, przed zanieczyszczeniami;
+- **1)** informacje dotyczące: odziaływania portowych urządzeń do odbioru odpadów ze statków na środowisko, działań podejmowanych w celu ochrony środowiska, w tym ochrony wód powierzchniowych oraz powierzchni ziemi, przed zanieczyszczeniami;
+    - **a)**
+    - **b)**
 
 - **2)** dokument potwierdzający zgodność lokalizacji portowych urządzeń do odbioru odpadów ze statków z planem zagospodarowania przestrzennego;
 - **3)** podsumowanie przeprowadzonych konsultacji, o których mowa w art. 13 ust. 3;
@@ -404,8 +404,8 @@ o portowych urządzeniach do odbioru odpadów ze statków
 
 3. Minister właściwy do spraw gospodarki morskiej przekazuje Międzynarodowej Organizacji Morskiej oraz państwu flagi statku wskazanemu w zgłoszeniu, o którym mowa w ust. 1, informacje o wynikach przeprowadzenia kontroli w terminie 7 dni od dnia:
 
-- **1)** zakończenia kontroli w sprawach, o których mowa w art. 27 ust. 1;
-- **2)** ich otrzymania od dyrektora urzędu morskiego w sprawach innych niż wskazane w art. 27 ust. 1.
+- **1)** zakończenia kontroli – w sprawach, o których mowa w art. 27 ust. 1;
+- **2)** ich otrzymania od dyrektora urzędu morskiego – w sprawach innych niż wskazane w art. 27 ust. 1.
 
 4. Do przeprowadzenia kontroli, o której mowa w ust. 1 i 2, stosuje się przepisy art. 26.
 
@@ -427,7 +427,7 @@ o portowych urządzeniach do odbioru odpadów ze statków
 - **10)** sporządza plan gospodarowania odpadami ze statków niezgodnie z wymaganiami określonymi w art. 13 ust. 3 i 4 oraz art. 14,
 - **11)** nie powiadamia przeprowadzającego kontrolę o realizacji zaleceń pokontrolnych zgodnie z art. 26 ust. 14 podlega karze grzywny.
 
-2. Orzekanie w sprawach, o których mowa w ust. 1, następuje na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+2. Orzekanie w sprawach, o których mowa w ust. 1, następuje na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 **Art. 31.**
 
@@ -450,7 +450,7 @@ o portowych urządzeniach do odbioru odpadów ze statków
 
 2. Należności z tytułu kar pieniężnych stanowią dochód budżetu państwa.
 
-3. W zakresie nieuregulowanym w niniejszym rozdziale do nakładania kar pieniężnych stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
+3. W zakresie nieuregulowanym w niniejszym rozdziale do nakładania kar pieniężnych stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
 
 #### Rozdział 7 Zmiany w przepisach
 
@@ -492,5 +492,5 @@ o portowych urządzeniach do odbioru odpadów ze statków
 
 **Art. 39.** Traci moc ustawa z dnia 12 września 2002 r. o portowych urządzeniach do odbioru odpadów oraz pozostałości ładunkowych ze statków (Dz. U. z 2020 r. poz. 1344).
 
-**Art. 40.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda KATEGORIE KOSZTÓW I PRZYCHODÓW NETTO ZWIĄZANYCH Z FUNKCJONOWANIEM PORTOWYCH URZĄDZEŃ DO ODBIORU ODPADÓW ZE STATKÓW I ZARZĄDZANIEM NIMI
+**Art. 40.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Załącznik – Kategorie kosztów i przychodów netto związanych z funkcjonowaniem portowych urządzeń do odbioru odpadów ze statków i zarządzaniem nimi patrz oryginał
 

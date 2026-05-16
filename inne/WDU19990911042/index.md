@@ -8,9 +8,10 @@ pos: 1042
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 91 - 4927 - Poz. 1042 i 1043 1042 WYROK KONSTYTUCYJNEGO z dnia 26 1999 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 26 października 1999 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,16 +24,14 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990911042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/1042/text.pdf) |
 
-sygn. akt K. 12/99.
-Konstytucyjny w Teresa Lech Garlicki - sprawozdawca, Johann, Krzysztof Marian Zdyb, po rozpoznaniu w dniu 26 1999 r. na rozprawie sprawy z wniosku Rzecznika Praw Obywatel skich, z umocowanych przedstawicieli uczestników wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego, o stwierdzenie, art. 46 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042 oraz z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126) w zakresie, w jakim zawie ra w odniesieniu do paliw gazowych, energii elektrycz nej i cieplnej dla Ministra Gospodarki do w drodze za sad z indywidualnymi odbiorcami w lokalach, jest niezgodny z art. 76 i art. 92 ust.l Konstytucji Rze czypospolitej Polskiej orzeka: I. Art. 46 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042, z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126 oraz z 1999 r. Nr 88, poz. 980) w zakresie, w ja kim Ministra Gospodarki do w drodze zasad w obrocie paliwami gazowymi, i w tym zasad z indywidualnymi odbiorcami w lokalach:
-l)jest niezgodny zart.92 ust. 1 Konstytucji Rzeczy pospolitej Polskiej przez to, nie odpowiada okre w tym przepisie wymaganiom, jakie musi ustawowe, nie wytycznych aktów wykonaw czych;
-2) nie jest niezgodny z art. 76 Konstytucji Rzeczy pospolitej Polskiej.
-II. Utrata mocy przepisu wymienio nego w pkt I sentencji z dniem 1 lipca 2000 r.
-Teresa Lech Garlicki Wiesfaw Johann Krzysztof Marian Zdyb 1043 POSTANOWIENIE KONSTYTUCYJNEGO z dnia 8 1999 r.
-sygn. akt K. 33/98.
-Konstytucyjny w Andrzej Czeszejko-Sochacki, Teresa Ferdynand Rymarz - sprawozdawca, Marian Zdyb, na podstawie art. 73 ust. 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643) na posiedzeniu niejawnym w dniu 8 1999 r.
-postanawia: oczywiste w wyroku z dnia 26 kwietnia 1999 r. (sygn. akt K. 33/98):*) w sentencji wyroku - wyrazy "art. 15 pkt 2 lit. a) i lit. b) ustawy z dnia 29 sierpnia 1997 r. o warunkach wykonywania krajowego drogowego przewozu osób (Dz. U.
-Nr 141, poz. 942 i Nr 158, poz. 1045 oraz z 1998 r.
-Nr 106, poz. 668)" - wyraza m i "art. 15 pkt 1 i pkt 2 lit. al ustawy z dnia 29 sierpnia 1997 r. o warunkach wykonywania krajowego drogowego przewo zu osób (Dz. U. Nr 141, poz. 942 i Nr 158, poz. 1045 oraz z 1998 r. Nr 106, poz. 668)".
-Andrzej Zdzisfaw Czeszejko-$ochacki Teresa Ferdynand Rymarz -Romanowska Marian Zdyb
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Teresa Dębowska-Romanowska – przewodnicząca, Lech Garlicki – sprawozdawca, Wiesław Johann, Krzysztof Kolasiński, Marian Zdyb, protokolant: Joanna Szymczak po rozpoznaniu w dniu 26 października 1999 r. na rozprawie sprawy z wniosku Rzecznika Praw Obywatelskich, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego, o stwierdzenie, że art. 46 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042 oraz z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126) w zakresie, w jakim zawiera w odniesieniu do paliw gazowych, energii elektrycznej i cieplnej upoważnienie dla Ministra Gospodarki do określenia w drodze rozporządzenia szczegółowych zasad rozliczeń z indywidualnymi odbiorcami w lokalach, jest niezgodny z art. 76 i art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej orzeka:
+I.
+Art. 46 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042, z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126 oraz z 1999 r. Nr 88, poz. 980) w zakresie, w jakim upoważnia Ministra Gospodarki do określania, w drodze rozporządzenia, zasad rozliczeń w obrocie paliwami gazowymi, energią elektryczną i ciepłem, w tym zasad rozliczeń z indywidualnymi odbiorcami w lokalach:
+1)
+jest niezgodny z art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej przez to, że nie odpowiada określonym w tym przepisie wymaganiom, jakie musi spełniać upoważnienie ustawowe, nie zawierając wytycznych dotyczących treści aktów wykonawczych;
+2)
+nie jest niezgodny z art. 76 Konstytucji Rzeczypospolitej Polskiej.
+II.
+Utrata mocy obowiązującej przepisu wymienionego w pkt I sentencji następuje z dniem 1 lipca 2000 r.
 

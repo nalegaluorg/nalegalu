@@ -8,9 +8,12 @@ pos: 1658
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, dnia 28 listopada 2025 r.
+# zmianie podatku dochodowym osób prawnych podatku niektórych instytucji finansowych
+
+*USTAWA dnia 6 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +27,13 @@ domain: null
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001658) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1658/text.pdf) |
 
-USTAWA z dnia 6 listopada 2025 r.
-zmianie podatku dochodowym od osób prawnych podatku od niektórych instytucji finansowych
+**Art. 1.** W ustawie dnia 15 lutego 1992 r. podatku dochodowym osób prawnych (Dz. U. 2025 r. poz. 278, późn. zm. ) wprowadza następujące zmiany: 19:
 
-**Art. 1.** W ustawie z dnia 15 lutego 1992 r. podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, z późn. zm. ) wprowadza się następujące zmiany: 19:
+**Art. 2.** W ustawie dnia 15 stycznia 2016 r. podatku niektórych instytucji finansowych (Dz. U. 2023 r. poz. 623) wprowadza następujące zmiany: 7 otrzymuje brzmienie: „Art. 7. Podatek wynosi: 0,0366 podstawy opodatkowania miesięcznie;
 
-**Art. 2.** W ustawie z dnia 15 stycznia 2016 r. podatku od niektórych instytucji finansowych (Dz. U. z 2023 r. poz. 623) wprowadza się następujące zmiany: 7 otrzymuje brzmienie: „Art. 7. Podatek wynosi: 0,0366 % podstawy opodatkowania miesięcznie;
+**Art. 3.** Podatnicy, których rok podatkowy rozpoczęty przed dniem 1 stycznia 2026 r. zakończy po dniu 31 grudnia 2025 r., stosują do końca tego roku podatkowego przepisy zmienianej brzmieniu dotychczasowym.
 
-**Art. 3.** Podatnicy, których podatkowy rozpoczęty przed dniem 1 stycznia 2026 r. zakończy się po dniu 31 grudnia 2025 r., stosują do końca tego roku podatkowego przepisy zmienianej 1, brzmieniu dotychczasowym.
+**Art. 4.** Minister właściwy do spraw finansów publicznych dokona przeglądu funkcjonowania przepisów zmienianej zakresie zmian wprowadzonych niniejszą ustawą, przedłoży Radzie Ministrów, terminie 3 lat dnia wejścia życie niniejszej ustawy, informację skutkach jej obowiązywania.
 
-**Art. 4.** Minister właściwy do spraw finansów publicznych dokona przeglądu funkcjonowania przepisów zmienianej 1, zakresie zmian wprowadzonych niniejszą ustawą, przedłoży Radzie Ministrów, terminie 3 lat od dnia wejścia życie niniejszej ustawy, informację skutkach jej obowiązywania.
-
-**Art. 5.** Ustawa wchodzi życie z dniem 1 stycznia 2026 r., z wyjątkiem 2, który wchodzi życie z dniem 1 stycznia 2027 r. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 5.** Ustawa wchodzi życie dniem 1 stycznia 2026 r., wyjątkiem 2, który wchodzi życie dniem 1 stycznia 2027 r.
 

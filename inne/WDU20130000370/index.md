@@ -8,11 +8,10 @@ pos: 370
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 1. Na podstawie 16 ust. zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2011 Nr 197, poz. 1172 Nr 232, poz. 1378) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst dnia 5 stycznia 1995 dopłatach niektórych kredytów bankowych (Dz. U. Nr 13, poz. 60), uwzględnieniem zmian wprowadzonych:
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 20 lutego 2013 sprawie ogłoszenia jednolitego tekstu dopłatach niektórych kredytów bankowych*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 20 lutego 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dopłatach do oprocentowania niektórych kredytów bankowych
 
 | Pole | Wartość |
 |---|---|
@@ -26,140 +25,168 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000370) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/370/text.pdf) |
 
-1) ustawą dnia 24 października 1996 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 152, poz. 719),
-2) ustawą dnia 17 lipca 1997 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 80, poz. 504),
-3) ustawą dnia 20 sierpnia 1997 Przepisy wprowadzające ustawę Krajowym Rejestrze Sądowym (Dz. U. Nr 121, poz. 770),
-4) ustawą dnia 22 sierpnia 1997 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 107, poz. 690),
-5) ustawą dnia 4 grudnia 1997 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 158, poz. 1044),
-6) ustawą dnia 4 marca 1999 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 27, poz. 243),
-7) ustawą dnia 23 lipca 1999 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 63, poz. 702),
-8) ustawą dnia 8 grudnia 2000 zmianie postępowaniu egzekucyjnym administracji, podatkach opłatach lokalnych, dopłatach niektórych kredytów bankowych, Prawo publicznym obrocie papierami wartościowymi, Ordynacja podatkowa, finansach publicznych, podatku dochodowym od osób prawnych oraz komercjalizacji prywatyzacji przedsiębiorstw państwowych związku dostosowaniem prawa Unii Europejskiej (Dz. U. Nr 122, poz. 1315 oraz 2004 Nr 64, poz. 594),
-9) ustawą dnia 9 maja 2001 zmianie dopłatach niektórych kredytów bankowych (Dz. U.
-Nr 72, poz. 744),
-10) ustawą dnia 7 czerwca 2001 zmianie dopłatach niektórych kredytów bankowych
-2. Podany załączniku niniejszego obwieszczenia jednolity tekst nie obejmuje:
-1) 2 dnia 24 października 1996 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 152, poz. 719), który stanowi: „Art. 2. Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia.”;
-2) 2 dnia 17 lipca 1997 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 80, poz. 504), który stanowi: „Art. 2. Ustawa wchodzi ogłoszenia.”;
-3) 99 dnia 20 sierpnia 1997 Przepisy wprowadzające ustawę Krajowym Rejestrze Sądowym (Dz. U.
-Nr 121, poz. 770), który stanowi: „Art. 99. Ustawa wchodzi stycznia 2001 r., tym że przepisy 12–98 wchodzą po upływie 14 dni od dnia ogłoszenia.”;
-4) 2 dnia 22 sierpnia 1997 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 107, poz. 690), który stanowi: „Art. 2. Ustawa wchodzi ogłoszenia.”;
-5) 2 dnia 4 grudnia 1997 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 158, poz. 1044), który stanowi: „Art. 2. Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia.”;
-6) 2 dnia 4 marca 1999 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 27, poz. 243), który stanowi: „Art. 2. Ustawa wchodzi ogłoszenia mocą od dnia stycznia 1999 r.”;
-7) 2 dnia 23 lipca 1999 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 63, poz. 702), który stanowi: „Art. 2. Ustawa wchodzi ogłoszenia.”;
-8) 10 12 dnia 8 grudnia 2000 zmianie postępowaniu egzekucyjnym administracji, ustawy podatkach opłatach lokalnych, dopłatach niektórych kredytów bankowych, Prawo publicznym obrocie papierami wartościowymi, Ordynacja podatkowa, finansach publicznych, podatku dochodowym od osób prawnych oraz komercjalizacji prywatyzacji przedsiębiorstw państwowych związku dostosowaniem prawa Unii Europejskiej (Dz. U. Nr 122, poz. 1315 oraz 2004 Nr 64, poz. 594), które stanowią: „Art. 10. Do czasu wygaśnięcia pozostają mocy prawa nabyte na podstawie przepisów uchylanych 3.” „Art. 12. 1. Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia, zastrzeżeniem ust. 2–4.
-2. Przepisy 5 pkt 1–3 oraz 6 pkt 1–3, 6 9 wchodzą stycznia 2001
-10) 2 3 dnia 7 czerwca 2001 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 72, poz. 746), które stanowią: „Art. 2. Do czasu wydania przepisów wykonawczych na podstawie 8 ustawy, której 1, brzmieniu nadanym mu niniejszą ustawą, zachowują moc dotychczasowe przepisy wykonawcze zakresie, jakim nie są nią sprzeczne.
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 13, poz. 60), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 24 października 1996 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 152, poz. 719),
+2)
+ustawą z dnia 17 lipca 1997 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 80, poz. 504),
+3)
+ustawą z dnia 20 sierpnia 1997 r. – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym (Dz. U. Nr 121, poz. 770),
+4)
+ustawą z dnia 22 sierpnia 1997 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 107, poz. 690),
+5)
+ustawą z dnia 4 grudnia 1997 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 158, poz. 1044),
+6)
+ustawą z dnia 4 marca 1999 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 27, poz. 243),
+7)
+ustawą z dnia 23 lipca 1999 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 63, poz. 702),
+8)
+ustawą z dnia 8 grudnia 2000 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji, ustawy o podatkach i opłatach lokalnych, ustawy o dopłatach do oprocentowania niektórych kredytów bankowych, ustawy – Prawo o publicznym obrocie papierami wartościowymi, ustawy – Ordynacja podatkowa, ustawy o finansach publicznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych – w związku z dostosowaniem do prawa Unii Europejskiej (Dz. U. Nr 122, poz. 1315 oraz z 2004 r. Nr 64, poz. 594),
+9)
+ustawą z dnia 9 maja 2001 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 72, poz. 744),
+10)
+ustawą z dnia 7 czerwca 2001 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 72, poz. 746),
+11)
+ustawą z dnia 22 maja 2003 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 104, poz. 962),
+12)
+ustawą z dnia 19 września 2003 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 188, poz. 1839),
+13)
+ustawą z dnia 19 marca 2004 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 91, poz. 867),
+14)
+ustawą z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 lutego 2013 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje:
+1)
+art. 2 ustawy z dnia 24 października 1996 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 152, poz. 719), który stanowi:
+„
 
-**Art. 3.** Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia.”;
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 
-**Art. 3.** Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia.”;
+**Art. 99.** Ustawa wchodzi w życie z dniem 1 stycznia 2001 r., z tym że przepisy art. 12–98 wchodzą w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+
+**Art. 10.** Do czasu wygaśnięcia pozostają w mocy prawa nabyte na podstawie przepisów uchylanych w art. 3. ” „
+
+**Art. 12.**
+
+1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z zastrzeżeniem ust. 2–4.
+
+2. Przepisy art. 5 pkt 1–3 oraz art. 6 pkt 1–3, 6 i 9 wchodzą w życie z dniem 1 stycznia 2001 r.
+
+3. Przepisy art. 2 i art. 3 wchodzą w życie z dniem 1 stycznia 2002 r., z wyjątkiem art. 6 ust. 7 ustawy, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia niniejszej ustawy i traci moc z dniem 1 stycznia 2002 r.
+
+4. Z dniem przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej wchodzą w życie, w brzmieniu nadanym niniejszą ustawą:
+
+- **1)** art. 59a ustawy, o której mowa w art. 4,
+- **2)** art. 63a ustawy, o której mowa w art. 4 – w zakresie dotyczącym emitenta, którego papiery wartościowe zostały dopuszczone do obrotu w państwie członkowskim,
+- **3)** art. 43, art. 59 oraz art. 112 ust. 2 ustawy, o której mowa w art. 6. ” ;
+- **9)** art. 2 ustawy z dnia 9 maja 2001 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 72, poz. 744), który stanowi: „ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+- **10)** art. 2 i art. 3 ustawy z dnia 7 czerwca 2001 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 72, poz. 746), które stanowią: „ Do czasu wydania przepisów wykonawczych na podstawie art. 8 ustawy, o której mowa w art. 1, w brzmieniu nadanym mu niniejszą ustawą, zachowują moc dotychczasowe przepisy wykonawcze w zakresie, w jakim nie są z nią sprzeczne.
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+
+**Art. 72.** Ustawa wchodzi w życie z dniem ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych
 
 **Art. 1.**
 
-1. Ustawa określa zasady udzielania dopłat ze środków budżetu państwa kredytów bankowych na cele rolnicze, skup przechowywanie zapasów ryb morskich oraz zadania związane restrukturyzacją przedsiębiorstw przemysłu lekkiego.
+1. Ustawa określa zasady udzielania dopłat ze środków budżetu państwa do oprocentowania kredytów bankowych na cele rolnicze, skup i przechowywanie zapasów ryb morskich oraz zadania związane z restrukturyzacją przedsiębiorstw przemysłu lekkiego.
 
-2. Dopłaty, których ust. 1, realizowane są ze środków budżetu państwa określonych ustawie budżetowej.
+2. Dopłaty, o których mowa w ust. 1, realizowane są ze środków budżetu państwa określonych w ustawie budżetowej. Ilekroć w ustawie jest mowa o krajowym przedsiębiorcy, należy przez to rozumieć osobę fizyczną, osobę prawną, a także jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej oraz prowadzącą działalność gospodarczą.
 
-**Art. 2.** Ilekroć ustawie jest krajowym przedsiębiorcy , należy przez to rozumieć osobę fizyczną, osobę prawną, a także jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej oraz prowadzącą działalność gospodarczą.
-
-**Art. 3.**
-
-1. Ze środków budżetu państwa udzielane są dopłaty kredytów bankowych dla krajowych przedsiębiorców na:
+1. Ze środków budżetu państwa udzielane są dopłaty do oprocentowania kredytów bankowych dla krajowych przedsiębiorców na:
 
 - **1)** cele rolnicze;
-- **2)** skup przechowywanie zapasów ryb morskich;
+- **2)** skup i przechowywanie zapasów ryb morskich;
 - **3)** (uchylony);
-- **4)** realizację zadań związanych restrukturyzacją przedsiębiorstw przemysłu lekkiego zgodnie Polską Klasyfikacją Działalności według działów 17, 18, 19.
+- **4)** realizację zadań związanych z restrukturyzacją przedsiębiorstw przemysłu lekkiego zgodnie z Polską Klasyfikacją Działalności według działów 17, 18, 19.
 
-2. Dopłaty kredytów bankowych na cele rolnicze, dla krajowych przedsiębiorców prowadzących produkcję rolniczą, udzielane są na jednakowych zasadach, bez względu na obszar użytków rolnych formę ich własności.
+2. Dopłaty do oprocentowania kredytów bankowych na cele rolnicze, dla krajowych przedsiębiorców prowadzących produkcję rolniczą, udzielane są na jednakowych zasadach, bez względu na obszar użytków rolnych i formę ich własności.
 
 3. (uchylony).
 
 **Art. 4.**
 
-1. Za kredyty na cele rolnicze, których 3 ust. pkt 1, uważa się kredyty:
+1. Za kredyty na cele rolnicze, o których mowa w art. 3 ust. 1 pkt 1, uważa się kredyty:
 
-- **1)** dla krajowych przedsiębiorców prowadzących produkcję rolniczą, przeznaczone na: wyrobów alkoholowych;
-    - **a)** zakup rzeczowych środków obrotowych produkcji rolniczej,
-    - **b)** zakup rzeczowych środków obrotowych produkcji żywności metodami ekologicznymi przystosowanie gospodarstw rolnych tej produkcji,
-    - **c)** postęp biologiczny rolnictwie;
+- **1)** dla krajowych przedsiębiorców prowadzących produkcję rolniczą, przeznaczone na: zakup rzeczowych środków obrotowych do produkcji rolniczej, zakup rzeczowych środków obrotowych do produkcji żywności metodami ekologicznymi i przystosowanie gospodarstw rolnych do tej produkcji, postęp biologiczny w rolnictwie;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** dla krajowych przedsiębiorców prowadzących przetwórstwo lub przechowalnictwo skupowanych produktów rolnych, przeznaczone na: skup produktów rolnych od producentów krajowych, przechowywanie produktów rolnych i zapasów przetworów z tych produktów oraz zapasów półproduktów z owoców i warzyw, z wyłączeniem tytoniu i wyrobów tytoniowych oraz wyrobów alkoholowych i surowców przeznaczonych do produkcji wyrobów alkoholowych;
+    - **a)**
+    - **b)**
 
 - **3)** (uchylony).
 
-2. Skup przechowywanie ryb, których 3 ust. pkt 2, dotyczy ryb złowionych lub skupionych przez krajowych przedsiębiorców .
+2. Skup i przechowywanie ryb, o których mowa w art. 3 ust. 1 pkt 2, dotyczy ryb złowionych lub skupionych przez krajowych przedsiębiorców.
 
 3. (uchylony).
 
-4. Finansowanie zadań związanych restrukturyzacją techniczną, technologiczną organizacyjną, tym zatrudnienia, dotyczy przedsiębiorstw, których 3 ust. pkt 4.
+4. Finansowanie zadań związanych z restrukturyzacją techniczną, technologiczną i organizacyjną, w tym zatrudnienia, dotyczy przedsiębiorstw, o których mowa w art. 3 ust. 1 pkt 4.
 
-**Art. 5.**
-
-- **9)** Dopłaty kredytów mogą być stosowane za okres nie dłuższy niż:
-- **1)** 12 miesięcy kredytów na cele, których 3 ust. pkt 2, zastrzeżeniem pkt 2,
-- **2)** 24 miesiące kredytów zaciągniętych od lipca 1996 30 czerwca 1998 przeznaczeniem na cele wymienione 4 ust. pkt 1, dla osób posiadających gospodarstwa rolne lub prowadzących działy specjalne produkcji rolnej, których wystąpiły poważne szkody spowodowane przez powódź, która miała miejsce lipcu 1997 r.,
-- **3)** (uchylony),
-- **4)** dnia 31 grudnia 2007 przypadku kredytów na cele, których 3 ust. pkt 4 od dnia otrzymania kredytu.
+**Art. 5.** Dopłaty do oprocentowania kredytów mogą być stosowane za okres nie dłuższy niż:
 
 **Art. 6.**
 
-1. Kredyty na cele, których 3 ust. 1, mogą być objęte dopłatą ze środków budżetu państwa, jeżeli ich oprocentowanie stosunku rocznym nie przekroczy:
+1. Kredyty na cele, o których mowa w art. 3 ust. 1, mogą być objęte dopłatą ze środków budżetu państwa, jeżeli ich oprocentowanie w stosunku rocznym nie przekroczy:
 
-- **1)** 1,1 stopy redyskontowej weksli przyjmowanych od banków redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na skup przechowywanie zapasów ryb morskich;
-- **2)** 1,25 stopy redyskontowej weksli przyjmowanych od banków redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze;
+- **1)** 1,1 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na skup i przechowywanie zapasów ryb morskich;
+- **2)** 1,25 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze;
 - **3)** (uchylony);
-- **4)** 1,3 stopy redyskontowej weksli przyjmowanych od banków redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie zadań związanych restrukt uryzacją przedsiębiorstw przemysłu lekkiego. 4 ust. pkt 2.
+- **4)** 1,3 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie zadań związanych z restrukturyzacją przedsiębiorstw przemysłu lekkiego.
 
-3. Wysokość kredytu objętego dopłatami ze środków budżetu państwa na cele, których 4 ust. pkt 1, zastrzeżeniem ust. 4, nie może przekroczyć łącznie równowartości 10 q żyta na ha użytków rolnych, według cen przyjmowanych dla celów naliczania podatku rolnego.
+2. Dopłaty, o których mowa w art. 3 ust. 1 pkt 1 i 2, mogą być stosowane do kredytów o oprocentowaniu w stosunku rocznym dla kredytobiorcy:
 
-4. Rada Ministrów może, drodze rozporządzenia, podwyższyć wysokość kredytu, którym ust. 3, równowartości 15 q żyta na ha użytków rolnych, według cen przyjmowanych dla celów naliczania podatku rolnego.
+- **1)** w wysokości nie większej niż 0,35 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski i nie mniejszej niż 2% w stosunku rocznym – na cele, o których mowa w art. 4 ust. 1 pkt 1;
+- **2)** w wysokości nie większej niż 0,7 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski i nie mniejszej niż 4,5% w stosunku rocznym – na cele, o których mowa w art. 3 ust. 1 pkt 2 oraz art. 4 ust. 1 pkt 2.
 
-5. Dopłaty ze środków budżetu państwa kredytów na cele, których 3 ust. pkt 2, stanowią część należnego bankom, odpowiadającą różnicy między stopą tych kredytów, określoną ust. 1, a stopą dla kredytobiorcy, określoną ust. 2.
+3. Wysokość kredytu objętego dopłatami ze środków budżetu państwa na cele, o których mowa w art. 4 ust. 1 pkt 1, z zastrzeżeniem ust. 4, nie może przekroczyć łącznie równowartości 10 q żyta na 1 ha użytków rolnych, według cen przyjmowanych dla celów naliczania podatku rolnego.
+
+4. Rada Ministrów może, w drodze rozporządzenia, podwyższyć wysokość kredytu, o którym mowa w ust. 3, do równowartości 15 q żyta na 1 ha użytków rolnych, według cen przyjmowanych dla celów naliczania podatku rolnego.
+
+5. Dopłaty ze środków budżetu państwa do kredytów na cele, o których mowa w art. 3 ust. 1 pkt 1 i 2, stanowią część oprocentowania należnego bankom, odpowiadającą różnicy między stopą oprocentowania tych kredytów, określoną w ust. 1, a stopą oprocentowania dla kredytobiorcy, określoną w ust. 2.
 
 6. (uchylony).
 
 7. (utracił moc).
 
-8. Dopłaty ze środków budżetu państwa kredytów na cele, których 3 ust. pkt 4, przysługują wysokości naliczonego według stopy równej stopie redyskontowej weksli przyjmowanych od banków redyskonta przez Narodowy Bank Polski, powiększonego marżę banku.
+8. Dopłaty ze środków budżetu państwa do oprocentowania kredytów na cele, o których mowa w art. 3 ust. 1 pkt 4, przysługują w wysokości oprocentowania naliczonego według stopy równej stopie redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski, powiększonego o marżę banku.
 
-9. Dopłaty na cele, których 3 ust. pkt 4, mogą być udzielone przedsiębiorcy tylko raz.
+9. Dopłaty na cele, o których mowa w art. 3 ust. 1 pkt 4, mogą być udzielone przedsiębiorcy tylko raz.
 
-**Art. 7.**
+**Art. 7.** Dopłaty ze środków budżetu państwa do oprocentowania kredytów mogą być udzielane pod warunkiem udokumentowania wykorzystania co najmniej 80% kredytu na zakupy na cele, o których mowa w art. 4 ust. 1 pkt 1. Dopłaty ze środków budżetu państwa do oprocentowania kredytów na realizację zadań związanych z restrukturyzacją przedsiębiorstw przemysłu lekkiego mogą być udzielane pod warunkiem posiadania przez przedsiębiorstwo, o którym mowa w art. 3 ust. 1 pkt 4, programu restrukturyzacji zatwierdzonego przez organ nadzoru, o ile przedsiębiorstwo taki organ posiada.
 
-- **25)** Dopłaty ze środków budżetu państwa kredytów mogą być udzielane pod warunkiem udokumentowania wykorzystania co najmniej 80% kredytu na zakupy na cele, których 4 ust. pkt 1.
+**Art. 8.** Rada Ministrów określi, w drodze rozporządzeń, szczegółowe zasady, zakres i tryb udzielania dopłat do oprocentowania kredytów, o których mowa w art. 3 ust. 1, uwzględniając w szczególności potrzebę zapewnienia podwyższenia opłacalności produkcji rolniczej i rybołówstwa morskiego albo zwiększenia możliwości zawarcia niektórych kontraktów eksportowych, albo zwiększenia efektywności restrukturyzacji przedsiębiorstw przemysłu lekkiego, wskazując także bank lub osobę prawną, której zostaną powierzone czynności związane z dokonywaniem dopłat.
 
-**Art. 7a.**
+**Art. 9.**
 
-- **26)** Dopłaty ze środków budżetu państwa kredytów na realizację zadań związanych restrukturyzacją przedsiębiorstw przemysłu lekkiego mogą być udzielane pod warunkiem posiadania przez przedsiębiorstwo, którym 3 ust. pkt 4, programu restrukturyzacji zatwierdzonego przez organ nadzoru, ile przedsiębiorstwo taki organ posiada.
+1. Środkami na dopłaty do oprocentowania kredytów, o których mowa w art. 3 ust. 1:
 
-**Art. 8.**
+- **1)** pkt 1 i 2 – dysponuje minister właściwy do spraw rolnictwa;
+- **2)** pkt 4 – dysponuje minister właściwy do spraw gospodarki.
 
-- **27)** Rada Ministrów określi, drodze rozporządzeń, szczegółowe zasady, zakres tryb udzielania dopłat oprocentowania kredytów, których 3 ust. 1, uwzględniając szczególn ości potrzebę zapewnienia podwyż szenia opłacalności produkcji rolniczej rybo łówstwa morskiego albo zwiększenia możliwości zawarcia niektórych kontraktów eksportowych, albo zwiększenia efekt ywności restrukturyzacji przedsięb iorstw przemysłu lekkiego, wska zu jąc także bank lub osobę prawną, której zostaną powier zone czynności związane dokonywaniem dopłat. lub bankom.
+2. Czynności związane z dokonywaniem dopłat do oprocentowania kredytów bankowych mogą być powierzone, w drodze umowy, osobom prawnym powołanym w drodze ustawy i nadzorowanym przez ministrów, o których mowa w ust. 1, lub bankom.
 
-**Art. 10.**
+1. Ustawa ma zastosowanie do kredytów udzielanych od dnia 1 stycznia 1995 r.
 
-1. Ustawa ma zastosowanie kredytów udzielanych od dnia stycznia 1995
+2. Do dopłat do oprocentowania kredytów bankowych udzielonych do dnia 31 grudnia 1994 r. mają zastosowanie przepisy obowiązujące w tym zakresie przed dniem wejścia w życie niniejszej ustawy. Dopłaty do oprocentowania kredytów zaciągniętych w 1998 r. przez krajowych przedsiębiorców prowadzących produkcję rolniczą, z przeznaczeniem na:
 
-2. Do dopłat kredytów bankowych udzielonych dnia 31 grudnia 1994 mają zastosowanie przepisy obowiązujące tym zakresie przed wejścia niniejszej ustawy.
+- **1)** zakup rzeczowych środków obrotowych do produkcji rolniczej,
+- **2)** zakup rzeczowych środków obrotowych do produkcji żywności metodami ekologicznymi i przystosowanie gospodarstw rolnych do tej produkcji,
+- **3)** postęp biologiczny w rolnictwie mogą być stosowane za okres nie dłuższy niż 20 miesięcy od dnia otrzymania kredytu.
 
-**Art. 10a.**
+1. Dopłaty do oprocentowania kredytów zaciągniętych od dnia 15 lipca 2002 r. do dnia 15 lipca 2003 r. przez krajowych przedsiębiorców prowadzących produkcję rolniczą, z przeznaczeniem na cele określone w art. 4 ust. 1 pkt 1, mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu, w przypadku gdy w gospodarstwach tych przedsiębiorców wystąpiły poważne szkody spowodowane przez suszę, która miała miejsce w 2003 r.
 
-- **29)** Dopłaty kredytów zaciągniętych 1998 przez krajowych przedsiębiorców prowadzących produkcję rolniczą, przeznaczeniem na:
-- **1)** zakup rzeczowych środków obrotowych produkcji rolniczej,
-- **2)** zakup rzeczowych środków obrotowych produkcji żywności metodami ekologicznymi przystosowanie gospodarstw rolnych tej produkcji,
-- **3)** postęp biologiczny rolnictwie mogą być stosowane za okres nie dłuższy niż 20 miesięcy od dnia otrzymania kredytu.
+2. Oprocentowanie kredytów, o których mowa w ust. 1, ustala się w wysokości określonej w art. 6 ust. 1 pkt 2. Dopłaty do oprocentowania kredytów zaciągniętych od dnia 1 lipca 2003 r. do dnia 30 kwietnia 2004 r. przez krajowych przedsiębiorców prowadzących produkcję rolniczą, z przeznaczeniem na:
 
-**Art. 10b.**
+- **1)** zakup rzeczowych środków obrotowych do produkcji rolniczej,
+- **2)** zakup rzeczowych środków obrotowych do produkcji żywności metodami ekologicznymi i przystosowanie gospodarstw rolnych do tej produkcji,
+- **3)** postęp biologiczny w rolnictwie mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu.
 
-- **30)** 1. Dopłaty kredytów zaciągniętych od dnia 15 lipca 2002 dnia 15 lipca 2003 przez krajowych przedsiębiorców prowadzących produkcję rolniczą, przeznaczeniem na cele określone 4 ust. pkt 1, mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu, przypadku gdy gospodarstwach tych przedsiębiorców wystąpiły poważne szkody spowodowane przez suszę, która miała miejsce 2003
-
-2. Oprocentowanie kredytów, których ust. 1, ustala się wysokości określonej 6 ust. pkt 2.
-
-**Art. 10c.**
-
-- **31)** Dopłaty kredytów zaciągniętych od dnia lipca 2003 dnia 30 kwietnia 2004 przez krajowych przedsiębiorców prowadzących produkcję rolniczą, przeznaczeniem na:
-- **1)** zakup rzeczowych środków obrotowych produkcji rolniczej,
-- **2)** zakup rzeczowych środków obrotowych produkcji żywności metodami ekologicznymi przystosowanie gospodarstw rolnych tej produkcji,
-- **3)** postęp biologiczny rolnictwie mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu.
-
-**Art. 11.** Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia , wyjątkiem przepisu 10 ust. 1, który wchodzi ogłoszenia mocą od dnia stycznia 1995
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisu art. 10 ust. 1, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1995 r.
 

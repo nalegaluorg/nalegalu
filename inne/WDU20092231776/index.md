@@ -8,6 +8,7 @@ pos: 1776
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 20 listopada 2009 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o obrocie instrumentami finansowymi
@@ -24,7 +25,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092231776) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1776/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 paêdziernika 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz.U. z2004r. Nr256, poz.2571, zpóên. zm. cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów roku, w którym stawki ) wprowadza się następujące zmiany: ulegają zmianie, wstosunku do analogicznego okresu roku poprzednie1) wart.37h ust.3 otrzymuje brzmienie: go. Ń3. Paliwami silnikowymi lub gazem, o których 3. Wskaênik wzrostu cen, októrym momowa wust.1, są następujące produkty: wa wust.2, ustala się na podstawie
+**Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** Ustawa wchodzi wżycie zdniem 1 stycznia 2010r. Prezydent Rzeczypospolitej Polskiej:L. Kaczyński 1776 USTAWA zdnia 20 listopada 2009r. ozmianie ustawy oautostradach płatnych oraz oKrajowym Funduszu Drogowym oraz ustawy oobrocie instrumentami finansowymi ——————— ———————
+**Art. 37m.**
+
+1. Stawka opłaty paliwowej wynosi:
+
+- **1)** 92,87 zł za 1000 l benzyn silnikowych, o których mowa w art. 37h ust. 3 pkt 1;
+- **2)** 233,99 zł za 1000 l olejów napędowych, o których mowa w art. 37h ust. 3 pkt 2;
+- **3)** 119,82 zł za 1000 kg gazów i innych wyrobów, o których mowa w art. 37h ust. 3 pkt 3 i 4.
+
+2. Stawki opłaty paliwowej, o których mowa w ust. 1, ulegają podwyższeniu na następny rok w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
+
+3. Wskaźnik wzrostu cen, o którym mowa w ust. 2, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego ogłoszonego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie 15 dni po upływie trzeciego kwartału, każdego roku.
+
+4. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, stawki opłaty paliwowej obliczone z uwzględnieniem zasady, o której mowa w ust. 2, zaokrąglając je w górę do pełnych groszy. ” .
+
+**Art. 2.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.) w art. 70 w ust. 2 pkt 1 otrzymuje brzmienie: „
+
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2010 r.
 

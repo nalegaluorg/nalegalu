@@ -8,9 +8,10 @@ pos: 1557
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 grudnia 2013 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 5 grudnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001557) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1557/text.pdf) |
 
-Poz. 1557 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 5 grudnia 2013 r.
-sygn. akt K 27/13 Trybunał Konstytucyjny w składzie: Andrzej Wróbel – przewodniczący, Maria Gintowt-Jankowicz, Wojciech Hermeliński, Leon Kieres – sprawozdawca, Teresa Liszcz, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 5 grudnia 2013 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 11 ust. 1 i 3 ustawy z dnia 7 grudnia 2012 r.
-o zmianie ustawy o świadczeniach rodzinnych oraz niektórych innych ustaw (Dz. U. poz. 1548) z art. 2 Konstytucji Rzeczypospolitej Polskiej, orzeka:
-Art. 11 ust. 1 i 3 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o świadczeniach rodzinnych oraz niektórych innych ustaw (Dz. U. poz. 1548) jest niezgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej.
-Andrzej Wróbel Maria Gintowt-Jankowicz Wojciech Hermeliński Leon Kieres Teresa Liszcz
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Wróbel – przewodniczący, Maria Gintowt-Jankowicz, Wojciech Hermeliński, Leon Kieres – sprawozdawca, Teresa Liszcz, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 5 grudnia 2013 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 11 ust. 1 i 3 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o świadczeniach rodzinnych oraz niektórych innych ustaw (Dz. U. poz. 1548) z art. 2 Konstytucji Rzeczypospolitej Polskiej, orzeka: Art. 11 ust. 1 i 3 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o świadczeniach rodzinnych oraz niektórych innych ustaw (Dz. U. poz. 1548) jest niezgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej.
 

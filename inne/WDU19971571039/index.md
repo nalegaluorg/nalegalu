@@ -8,9 +8,10 @@ pos: 1039
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Dziennik Ustaw Nr 157 - 5120 1039 WYROK KONSTYTUCYJNEGO z dnia 15 grudnia 1997 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 15 grudnia 1997 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +24,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971571039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/1039/text.pdf) |
 
-sygn. akt K 13/97.
-Konstytucyjny w Wierzbowski Czeszejko-Sochacki - sprawozdawca, Stefan Jaworski, Krzysztof Ferdynand Rymarz, protokolant: Joanna Szymczak po rozpoznaniu w dniu 15 grudnia 1997 r. na roz prawie sprawy z wniosku Rady Gminy Bojszowy z umocowanych przedstawicieli uczestników wnioskodawcy, Sejmu Rzeczypospoli tej Polskiej i Prokuratora Generalnego o stwierdzenie art. 1 pkt 1 i art. 4 pkt 1 ustawy z dnia 6 grud nia 1996 r. o zmianie ustawy o podatkach i lo kalnych i ustawy o finansowaniu gmin (Dz. U. Nr 149, wionych w tucyjnej z dnia poz. 704) z art. 1 przepisów konstytucyjnych pozostastosunkach Rzeczypospolitej torialnym poz. 184 i poz. 488), art. 1 pkt 1996 r. o zmianie nych i ustawy poz. 704) jest stytucji Rzeczypospolitej poz. 483).
-Zdzistaw Czeszejko-Sochacki Krzysztof 1040 OBWIESZCZENIE PREZESA KONSTYTUCYJNEGO z dnia 18 grudnia 1997 r.
-o utracie mocy art. 1 pkt 2, art. 1 pkt 5, art. 2 pkt 2, ustawy o planowaniu rodziny, ochronie ludzkiego i warunkach o zmianie niektórych innych ustaw.
-Na podstawie art. 89 ust. 4 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643) w z orzeczeniem Konsty tucyjnego z dnia 28 maja 1997 r. sygn. akt K 26/96 szam mocy przepisów ustawy z dnia 30 sierpnia 1996 o zmianie ustawy o planowaniu rodziny, ochronie ludzkie go i warunkach przerywania oraz o zmianie niektórych innych ustaw (Dz. U. Nr 139, poz. 646): art. 1 pkt 2 - w zakresie, w jakim dawcy w fazie prenatalnej od decyzji ustawoart. 4a ust.
-nowaniu rodziny, kach poz. 78 i z 1995 i art. 3 pkt Obwieszczenie Ustaw Rzeczypospolitej Wiceprezes ISSN 0867-3411
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Błażej Wierzbowski – przewodniczący, Zdzisław Czeszejko-Sochacki – sprawozdawca, Stefan Jaworski, Krzysztof Kolasiński, Ferdynand Rymarz, protokolant: Joanna Szymczak po rozpoznaniu w dniu 15 grudnia 1997 r. na rozprawie sprawy z wniosku Rady Gminy Bojszowy z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego o stwierdzenie zgodności art. 1 pkt 1 i art. 4 pkt 1 ustawy z dnia 6 grudnia 1996 r. o zmianie ustawy o podatkach i opłatach lokalnych i ustawy o finansowaniu gmin (Dz. U. Nr 149, poz. 704) z art. 1 przepisów konstytucyjnych pozostawionych w mocy na podstawie art. 77 ustawy konstytucyjnej z dnia 17 października 1992 r. o wzajemnych stosunkach między władzą ustawodawczą i wykonawczą Rzeczypospolitej Polskiej oraz o samorządzie terytorialnym (Dz. U. Nr 84, poz. 426, z 1995 r. Nr 38, poz. 184, Nr 150, poz. 729 oraz z 1996 r. Nr 106, poz. 488), orzeka: art. 1 pkt 1 oraz art. 4 pkt 1 ustawy z dnia 6 grudnia 1996 r. o zmianie ustawy o podatkach i opłatach lokalnych i ustawy o finansowaniu gmin (Dz. U. Nr 149, poz. 704) jest zgodny z art. 2 i z art. 167 ust. 2 Konstytucji Rzeczypospolitej Polskiej (Dz. U. z 1997 r. Nr 78, poz. 483).
 

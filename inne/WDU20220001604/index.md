@@ -8,9 +8,10 @@ pos: 1604
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 29 lipca 2022 r.
+# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy o bezpieczeństwie morskim oraz ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,34 +25,69 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001604) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1604/text.pdf) |
 
-USTAWA dnia 7 lipca 2022 r.
-zmianie bezpieczeństwie morskim obszarach Rzeczypospolitej Polskiej administracji morskiej
+**Art. 1.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 18 sierpnia 2011 r. bezpieczeństwie morskim (Dz. U. 2022 r. poz. 515) wprowadza się następujące zmiany:
+**Art. 113g.**
 
-**Art. 113h.**
+1. Spełnienie wymagań określonych w art. 82 ust. 1 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych potwierdza certyfikat uznanej organizacji, to jest:
 
-1. Certyfikaty, których 113g 1, określają objęte ich zakresem elementy morskiej farmy wiatrowej zespołu urządzeń wymagania, których spełnienie jest warunkiem wydania tych certyfikatów. Kopie certyfikatów, których 1, uznana organizacja przekazuje właściwemu dyrektorowi urzędu morskiego dniu ich wydania.
+- **1)** certyfikat zgodności projektowej wydany po opracowaniu projektu budowlanego, a przed zawiadomieniem organu nadzoru budowlanego o zamierzonym terminie rozpoczęcia robót budowlanych dotyczących morskiej farmy wiatrowej lub zespołu urządzeń, potwierdzający zgodność projektu budowlanego z normami technicznymi określającymi wymagania, jakie musi spełnić morska farma wiatrowa lub zespół urządzeń;
+- **2)** certyfikat dopuszczenia do eksploatacji wydany po zakończeniu budowy morskiej farmy wiatrowej lub jej części lub zespołu urządzeń, jednak nie później niż na 30 dni przed planowanym dniem pierwszego wprowadzenia do sieci, na podstawie udzielonej koncesji, energii elektrycznej wytworzonej z morskiej farmy wiatrowej lub jej części, potwierdzający zgodność procesu budowy z projektem budowlanym oraz certyfikatem zgodności projektowej, o którym mowa w pkt 1;
+- **3)** certyfikat bezpieczeństwa eksploatacji wydany przed dniem upływu ważności certyfikatu, o którym mowa w pkt 2, jednak nie wcześniej niż na 3 miesiące przed upływem ważności certyfikatu, o którym mowa w pkt 2, potwierdzający kompletność i poprawność dokumentacji w zakresie należytego utrzymania i serwisowania morskiej farmy wiatrowej lub jej części lub zespołu urządzeń.
 
-**Art. 113i.**
+2. Certyfikat, o którym mowa w ust. 1:
 
-1. Uznana organizacja, której 113g 3, zakresie niezbędnym wydawania certyfikatów, których 113g 1, wykonuje czynności nadzorcze nad spełnianiem wymagań określonych wydanych certyfikatach dla morskiej farmy wiatrowej jej części zespołu urządzeń. zespołu urządzeń.
+- **1)** pkt 1, wydawany jest bezterminowo;
+- **2)** pkt 2, wydawany jest na okres nie dłuższy niż 5 lat;
+- **3)** pkt 3, wydawany jest na okres nie dłuższy niż 5 lat i wymaga odnowienia nie wcześniej niż na 3 miesiące przed upływem terminu ważności certyfikatu bezpieczeństwa eksploatacji.
 
-4. W przypadku certyfikatu, 113g 1 pkt 3, czynności nadzorcze, których 1, obejmują szczególności weryfikację dokumentacji zakresie należytego utrzymania serwisowania morskiej farmy wiatrowej jej części zespołu urządzeń, tym dokumentacji przeglądów technicznych konstrukcji urządzeń wchodzących skład morskiej farmy wiatrowej jej części zespołu urządzeń przeprowadzanych na podstawie odpowiednich norm technicznych przepisów uznanej organizacji.”. Art. W ustawie dnia 21 marca 1991 r. obszarach Rzeczypospolitej Polskiej administracji morskiej (Dz. U. 2022 r. poz. 457, 1079 1250) wprowadza się następujące zmiany:
+3. Minister właściwy do spraw gospodarki morskiej na wniosek uznanej organizacji, która posiada akredytację zgodnie z normą PN-EN ISO/IEC 17065 albo Polską Normą ją zastępującą, upoważnia tę organizację, w drodze decyzji, do wydawania certyfikatów, o których mowa w ust. 1, jeżeli organizacja ta udokumentuje posiadane doświadczenie w zakresie oceny dokumentacji technicznej oraz nadzoru nad budową, przebudową lub eksploatacją morskich farm wiatrowych lub zespołów urządzeń albo sztucznych wysp lub konstrukcji lub innych urządzeń i instalacji zlokalizowanych na morzu.
 
-- **1)** 23 po 5a dodaje się 5b brzmieniu: „5b. Pozwolenie, 1, dotyczące zespołu urządzeń służących wyprowadzenia mocy rozumieniu dnia 17 grudnia 2020 r. promowaniu wytwarzania energii elektrycznej farmach wiatrowych jego elementów jest wydawane wyłącznie przypadku uzyskania wnioskodawcę wstępnych warunków przyłączenia albo warunków przyłączenia albo umowy umów przyłączenie sieci przesyłowej dystrybucyjnej dla morskiej farmy wiatrowej, której wyprowadzana będzie moc za pomocą zespołu urządzeń służących wyprowadzenia mocy jego elementów.”;
-- **2)** 26:
-    - **a)** 4 otrzymuje brzmienie: „4. Do pozwolenia, 1, przepisy 23 1c, 2a, 3–5 5b stosuje się odpowiednio.”,
-    - **b)** 8 zdanie trzecie otrzymuje brzmienie: „Przepisy 23 2a, 3–5 5b, 27a 27b 1 stosuje się odpowiednio.”;
+4. Do wniosku, o którym mowa w ust. 3, dołącza się:
 
-- **3)** 27 1a otrzymuje brzmienie: „1a. Do uzgodnienia, 1, stosuje się odpowiednio przepisy 23 2a, 3–5, 5b, 6e 6f 26 5, 6 8.”;
-- **4)** 27a 2 pkt 8 kropkę zastępuje się średnikiem dodaje się pkt 9 brzmieniu: „9) przypadku wniosku dotyczącego zespołu urządzeń służących wyprowadzenia mocy rozumieniu dnia 17 grudnia 2020 r. promowaniu wytwarzania energii elektrycznej farmach wiatrowych jego elementów wnioskodawca dołącza także oryginały poświadczone kopie wstępnych warunków przyłączenia albo warunków przyłączenia albo umowy umów przyłączenie sieci przesyłowej dystrybucyjnej dla morskiej farmy wiatrowej, której wyprowadzana będzie moc za pomocą zespołu urządzeń służących wyprowadzenia mocy jego elementów, objętych wnioskiem.”.
+- **1)** kopię certyfikatu potwierdzającego akredytację uznanej organizacji zgodnie z normą PN-EN ISO/IEC 17065 albo Polską Normą ją zastępującą;
+- **2)** dokumentację potwierdzającą posiadane doświadczenie w zakresie określonym w ust. 3;
+- **3)** przepisy uznanej organizacji określające wymogi niezbędne do wydania przez tę organizację certyfikatów, o których mowa w ust. 1;
+- **4)** opis procedur dotyczących wykonywania czynności nadzorczych, o których mowa w art. 113i.
+
+5. Minister właściwy do spraw gospodarki morskiej prowadzi wykaz uznanych organizacji upoważnionych do wydawania certyfikatów, o których mowa w ust. 1, i ogłasza go, w drodze obwieszczenia, w dzienniku urzędowym ministra właściwego do spraw gospodarki morskiej.
+
+6. Wykaz, o którym mowa w ust. 5, zawiera:
+
+- **1)** nazwę uznanej organizacji;
+- **2)** adres siedziby uznanej organizacji;
+- **3)** datę uzyskania uznania Komisji Europejskiej;
+- **4)** znak i datę wydania decyzji, o której mowa w ust. 3;
+- **5)** zakres upoważnienia, o którym mowa w ust. 3.
+
+7. Minister właściwy do spraw gospodarki morskiej cofa, w drodze decyzji, upoważnienie, o którym mowa w ust. 3, oraz wykreśla uznaną organizację z wykazu, o którym mowa w ust. 5, w przypadku utraty przez nią uznania Komisji Europejskiej albo w przypadku, gdy:
+
+- **1)** działanie tej organizacji stwarza zagrożenie dla bezpieczeństwa życia, zdrowia ludzkiego, środowiska morskiego lub bezpieczeństwa żeglugi lub
+- **2)** organizacja ta działa z naruszeniem zasad niezależności, bezstronności, profesjonalizmu lub staranności zawodowej biorąc pod uwagę stwierdzone nieprawidłowości podczas budowy, eksploatacji lub likwidacji morskiej farmy wiatrowej lub zespołu urządzeń w zakresie objętym certyfikatem wydanym przez tę organizację.
+
+8. Minister właściwy do spraw gospodarki morskiej aktualizuje, w drodze obwieszczenia, wykaz, o którym mowa w ust. 5, nie później niż w terminie 21 dni od dnia, w którym decyzja, o której mowa w ust. 3 lub 7, stała się ostateczna.
+
+1. Certyfikaty, o których mowa w art. 113g ust. 1, określają objęte ich zakresem elementy morskiej farmy wiatrowej lub zespołu urządzeń oraz wymagania, których spełnienie jest warunkiem wydania tych certyfikatów.
+
+2. Kopie certyfikatów, o których mowa w ust. 1, uznana organizacja przekazuje właściwemu dyrektorowi urzędu morskiego w dniu ich wydania.
+
+1. Uznana organizacja, o której mowa w art. 113g ust. 3, w zakresie niezbędnym do wydawania certyfikatów, o których mowa w art. 113g ust. 1, wykonuje czynności nadzorcze nad spełnianiem wymagań określonych w wydanych certyfikatach dla morskiej farmy wiatrowej lub jej części lub zespołu urządzeń.
+
+2. W przypadku certyfikatu, o którym mowa w art. 113g ust. 1 pkt 1, czynności nadzorcze, o których mowa w ust. 1, obejmują w szczególności sprawdzenie zgodności projektu budowlanego z normami technicznymi określającymi wymagania, jakie musi spełniać morska farma wiatrowa lub zespół urządzeń.
+
+3. W przypadku certyfikatu, o którym mowa w art. 113g ust. 1 pkt 2, czynności nadzorcze, o których mowa w ust. 1, obejmują w szczególności przeprowadzenie oględzin, nadzorowanie budowy, weryfikację i kontrolę pomiarów, prób konstrukcji, połączeń kablowych oraz urządzeń wchodzących w skład morskiej farmy wiatrowej lub jej części lub zespołu urządzeń.
+
+4. W przypadku certyfikatu, o którym mowa w art. 113g ust. 1 pkt 3, czynności nadzorcze, o których mowa w ust. 1, obejmują w szczególności weryfikację dokumentacji w zakresie należytego utrzymania i serwisowania morskiej farmy wiatrowej lub jej części lub zespołu urządzeń, w tym dokumentacji z przeglądów technicznych konstrukcji i urządzeń wchodzących w skład morskiej farmy wiatrowej lub jej części lub zespołu urządzeń przeprowadzanych na podstawie odpowiednich norm technicznych oraz przepisów uznanej organizacji. ” .
+
+**Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2022 r. poz. 457, 1079 i 1250) wprowadza się następujące zmiany:
 
 **Art. 3.**
 
-1. W sprawach wydanie pozwoleń na układanie utrzymywanie kabli rurociągów, których 26 1 zmienianej 2, uzgodnień, których 27 1 zmienianej 2, dotyczących zespołu urządzeń służących wyprowadzenia mocy rozumieniu 3 pkt 13 dnia 17 grudnia 2020 r. promowaniu wytwarzania energii elektrycznej farmach wiatrowych (Dz. U. 2022 r. poz. 1050) jego elementów, wszczętych niezakończonych przed dniem wejścia życie niniejszej stosuje się przepisy 26 4 8 27 1a zmienianej 2, brzmieniu nadanym niniejszą ustawą. W postępowaniach, których 1, terminie 30 dni od dnia wejścia życie niniejszej wnioskodawca uzupełnia wniosek wydanie pozwolenia na układanie utrzymywanie kabli rurociągów wniosek wydanie uzgodnienia.
+1. W sprawach o wydanie pozwoleń na układanie i utrzymywanie kabli lub rurociągów, o których mowa w art. 26 ust. 1 ustawy zmienianej w art. 2, lub uzgodnień, o których mowa w art. 27 ust. 1 ustawy zmienianej w art. 2, dotyczących zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu art. 3 pkt 13 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2022 r. poz. 1050) lub jego elementów, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 26 ust. 4 i 8 oraz art. 27 ust. 1a ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
 
-3. W przypadku nieuzupełnienia wniosku terminie, 2, postępowania, których 1, umarza się.
+2. W postępowaniach, o których mowa w ust. 1, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy wnioskodawca uzupełnia wniosek o wydanie pozwolenia na układanie i utrzymywanie kabli lub rurociągów lub wniosek o wydanie uzgodnienia.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+3. W przypadku nieuzupełnienia wniosku w terminie, o którym mowa w ust. 2, postępowania, o których mowa w ust. 1, umarza się.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

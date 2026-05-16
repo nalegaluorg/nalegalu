@@ -8,9 +8,10 @@ pos: 1595
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 13 października
+# Ustawa z dnia 10 września 2015 r. o zmianie niektórych ustaw w związku ze wspieraniem polubownych metod rozwiązywania sporów
 
 | Pole | Wartość |
 |---|---|
@@ -24,113 +25,139 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001595) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1595/text.pdf) |
 
-USTAWA dnia 10 września o zmianie niektórych ustaw związku ze wspieraniem polubownych metod rozwiązywania sporów
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 101, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 10.** W sprawach, w których zawarcie ugody jest dopuszczalne, sąd dąży w każdym stanie postępowania do ich ugodowego załatwienia, w szczególności przez nakłanianie stron do mediacji. ” ;
 
-**Art. 183⁹.**
+**Art. 1833a.** Mediator prowadzi mediację, wykorzystując różne metody zmierzające do polubownego rozwiązania sporu, w tym poprzez wspieranie stron w formułowaniu przez nie propozycji ugodowych, lub na zgodny wniosek stron może wskazać sposoby rozwiązania sporu, które nie są dla stron wiążące. ” ;
 
-§ 1. Jeżeli strony nie dokonały wyboru osoby mediatora, sąd, kierując strony do mediacji, wyznacza mediatora mającego odpowiednią wiedzę umiejętności zakresie prowadzenia mediacji sprawach danego rodzaju, biorąc pod uwagę pierwszej kolejności stałych mediatorów.
+**Art. 1838.**
 
-§ 2. Mediator ma prawo do zapoznania się aktami sprawy, chyba że strona terminie tygodnia od dnia ogłoszenia lub doręczenia postanowienia kierującego strony do mediacji nie wyrazi zgody na zapoznanie się mediatora aktami. nia sądowego.”;
+§ 1. Sąd może skierować strony do mediacji na każdym etapie postępowania.
 
-- **12)** 183 § 1 otrzymuje brzmienie: „§ 1. W przypadku gdy strona, po zawarciu ugody, ramach mediacji prowadzonej na podstawie umowy o mediację, wystąpi do sądu wnioskiem o zatwierdzenie ugody mediator składa protokół sądzie, który byłby właściwy do rozpoznania sprawy według właściwości ogólnej lub wyłącznej.”;
-- **13)** 187 § 1 pkt 2 kropkę zastępuje się średnikiem dodaje się pkt 3 brzmieniu: „3) informację, czy strony podjęły próbę mediacji lub innego pozasądowego sposobu rozwiązania sporu, a przypadku gdy takich prób nie podjęto, wyjaśnienie przyczyn ich niepodjęcia.”;
-- **14)** 210 po § 2 dodaje się § 2 brzmieniu: „§ 2 . Sąd poucza strony o możliwości ugodowego załatwienia sporu, szczególności drodze mediacji.”;
-- **15)** 394 § 1 pkt 9 otrzymuje brzmienie: „9) zwrot kosztów, określenie zasad ponoszenia przez strony kosztów procesu, wymiar opłaty, zwrot opłaty lub zaliczki, obciążenie kosztami sądowymi, jeżeli strona nie składa środka zaskarżenia co do istoty sprawy, koszty przyznane nakazie zapłaty, zwrot kosztów nieopłaconej pomocy prawnej udzielonej urzędu wynagrodzenie biegłego, mediatora należności świadka;”;
-- **16)** 1174 § 1 otrzymuje brzmienie: „§ 1. Osoba powołana na arbitra składa na piśmie każdej ze stron pozostałym arbitrom oświadczenie o swojej bezstronności niezależności. Osoba powołana na arbitra niezwłocznie ujawnia stronom wszystkie okoliczności, które mogłyby wzbudzić wątpliwości co do jej bezstronności lub niezależności.”;
-- **17)** 1207 otrzymuje brzmienie: „Art. 1207. § 1. Do skargi o uchylenie wyroku sądu polubownego przepis 368 stosuje się odpowiednio.
+§ 2. Postanowienie kierujące strony do mediacji może być wydane na posiedzeniu niejawnym. Mediacji nie prowadzi się, jeżeli strona w terminie tygodnia od dnia ogłoszenia lub doręczenia jej postanowienia kierującego strony do mediacji nie wyraziła zgody na mediację.
 
-§ 2. Jeśli przepisy poniższe nie stanowią inaczej, do postępowania ze skargi o uchylenie wyroku sądu polubownego przepisy o apelacji stosuje się odpowiednio.”;
+§ 3. Przepisu § 1 nie stosuje się w sprawach rozpoznawanych w postępowaniach upominawczym oraz nakazowym, chyba że doszło do skutecznego wniesienia zarzutów.
 
-- **18)** 1208:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Skargę o uchylenie wyroku sądu polubownego wnosi się do sądu apelacyjnego, na obszarze którego znajduje się sąd, który byłby właściwy do rozpoznania sprawy, gdyby strony nie dokonały zapisu na sąd polubowny, a braku tej podstawy do Sądu Apelacyjnego Warszawie, terminie dwóch miesięcy od dnia doręczenia wyroku lub jeżeli strona wniosła o uzupełnienie, sprostowanie lub wykładnię wyroku terminie dwóch miesięcy od dnia doręczenia przez sąd polubowny orzeczenia rozstrzygającego o tym wniosku.”,
-    - **b)** dodaje się § 3 brzmieniu: „§ 3. Od wyroku wydanego postępowaniu ze skargi o uchylenie wyroku sądu polubownego przysługuje skarga kasacyjna. Można także żądać wznowienia postępowania zakończonego prawomocnym wyrokiem przedmiocie uchylenia wyroku sądu polubownego stwierdzenia niezgodności prawem prawomocnego wyroku wydanego tym przedmiocie.”;
+§ 4. Przewodniczący może wezwać strony do udziału w spotkaniu informacyjnym dotyczącym polubownych metod rozwiązywania sporów, w szczególności mediacji. Spotkanie informacyjne może prowadzić sędzia, referendarz sądowy, urzędnik sądowy, asystent sędziego lub stały mediator.
 
-- **19)** 1210 otrzymuje brzmienie: „Art. 1210. Sąd na posiedzeniu niejawnym może wstrzymać wykonanie wyroku sądu polubownego, może jednak uzależnić wstrzymanie od złożenia zabezpieczenia. Na postanowienie sądu przysługuje zażalenie do innego składu tego sądu.”;
-- **20)** 1213 dotychczasową treść oznacza się jako § 1 dodaje się § 2 brzmieniu: „§ 2. W terminie dwóch tygodni od dnia doręczenia wniosku strona może przedstawić sądowi stanowisko sprawie.”;
+§ 5. Przed pierwszym posiedzeniem wyznaczonym na rozprawę przewodniczący dokonuje oceny, czy skierować strony do mediacji. W tym celu przewodniczący, jeżeli zachodzi potrzeba wysłuchania stron, może wezwać je do osobistego stawiennictwa na posiedzeniu niejawnym.
 
-§ 2. Do postępowania o uznanie albo stwierdzenie wykonalności wyroku sądu polubownego lub ugody przed nim zawartej stosuje się odpowiednio przepisy o apelacji.”;
+§ 6. Jeżeli strona bez uzasadnienia nie stawi się na spotkanie informacyjne lub posiedzenie niejawne, sąd może obciążyć ją kosztami nakazanego stawiennictwa poniesionymi przez stronę przeciwną.
 
-- **22)** 1214:
-    - **a)** § 1 2 otrzymują brzmienie: „§ 1. O uznaniu wyroku sądu polubownego lub ugody przed nim zawartej, nienadających się do wykonania drodze egzekucji, sąd orzeka postanowieniem wydanym na posiedzeniu niejawnym.
+**Art. 1839.**
 
-§ 2. Sąd stwierdza wykonalność wyroku sądu polubownego lub ugody przed nim zawartej, nadających się do wykonania drodze egzekucji, nadając im klauzulę wykonalności. Wyrok sądu polubownego lub ugoda przed nim zawarta, których wykonalność została stwierdzona, są tytułami wykonawczymi.”,
+§ 1. Jeżeli strony nie dokonały wyboru osoby mediatora, sąd, kierując strony do mediacji, wyznacza mediatora mającego odpowiednią wiedzę i umiejętności w zakresie prowadzenia mediacji w sprawach danego rodzaju, biorąc pod uwagę w pierwszej kolejności stałych mediatorów.
 
-- **b)** dodaje się § 4 brzmieniu: „§ 4. Na postanowienie sądu apelacyjnego przedmiocie uznania albo stwierdzenia wykonalności wyroku sądu polubownego wydanego Rzeczypospolitej Polskiej lub ugody przed nim zawartej przysługuje zażalenie do innego składu tego sądu.”;
-- **23)** 1215 § 3 otrzymuje brzmienie: „§ 3. Od prawomocnego postanowienia sądu przedmiocie uznania albo stwierdzenia wykonalności wyroku sądu polubownego wydanego za granicą lub ugody zawartej przed sądem polubownym za granicą przysługuje skarga kasacyjna. Można także żądać wznowienia postępowania zakończonego prawomocnym postanowieniem przedmiocie uznania albo stwierdzenia wykonalności stwierdzenia niezgodności prawem prawomocnego postanowienia wydanego tym przedmiocie.”.
+§ 2. Mediator ma prawo do zapoznania się z aktami sprawy, chyba że strona w terminie tygodnia od dnia ogłoszenia lub doręczenia postanowienia kierującego strony do mediacji nie wyrazi zgody na zapoznanie się mediatora z aktami.
 
-**Art. 2.** W ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. 2012 361, późn. zm. ) wprowadza się następujące zmiany:
+§ 3. Po skierowaniu stron do mediacji, przewodniczący niezwłocznie przekazuje mediatorowi dane kontaktowe stron oraz ich pełnomocników, w szczególności numery telefonów i adresy poczty elektronicznej, o ile je posiadają. ” ;
 
-**Art. 3.** W ustawie dnia 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz. U. 851, późn. zm. ) wprowadza się następujące zmiany:
+- **11)** w art. 18310§ 1 otrzymuje brzmienie: „
 
-**Art. 4.** W ustawie dnia 20 listopada 1998 o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, 930, późn. zm. ) wprowadza się następujące zmiany:
+§ 1. Kierując strony do mediacji, sąd wyznacza czas jej trwania na okres do trzech miesięcy. Na zgodny wniosek stron lub z innych ważnych powodów termin na przeprowadzenie mediacji może zostać przedłużony, jeżeli będzie to sprzyjać ugodowemu załatwieniu sprawy. Czasu trwania mediacji nie wlicza się do czasu trwania postępowania sądowego. ” ;
 
-**Art. 5.** W ustawie dnia 27 lipca 2001 Prawo o ustroju sądów powszechnych (Dz. U. 133, późn. zm. ) wprowadza się następujące zmiany:
+- **12)** w art. 18313 § 1 otrzymuje brzmienie: „
+
+§ 1. W przypadku gdy strona, po zawarciu ugody, w ramach mediacji prowadzonej na podstawie umowy o mediację, wystąpi do sądu z wnioskiem o zatwierdzenie ugody mediator składa protokół w sądzie, który byłby właściwy do rozpoznania sprawy według właściwości ogólnej lub wyłącznej. ” ;
+
+- **13)** w art. 187 w § 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** informację, czy strony podjęły próbę mediacji lub innego pozasądowego sposobu rozwiązania sporu, a w przypadku gdy takich prób nie podjęto, wyjaśnienie przyczyn ich niepodjęcia. ” ;
+- **14)** w art. 210 po § 21 dodaje się § 22 w brzmieniu: „
+
+§ 22. Sąd poucza strony o możliwości ugodowego załatwienia sporu, w szczególności w drodze mediacji. ” ;
+
+- **15)** w art. 394 w § 1 pkt 9 otrzymuje brzmienie: „
+- **9)** zwrot kosztów, określenie zasad ponoszenia przez strony kosztów procesu, wymiar opłaty, zwrot opłaty lub zaliczki, obciążenie kosztami sądowymi, jeżeli strona nie składa środka zaskarżenia co do istoty sprawy, koszty przyznane w nakazie zapłaty, zwrot kosztów nieopłaconej pomocy prawnej udzielonej z urzędu oraz wynagrodzenie biegłego, mediatora i należności świadka; ” ;
+- **16)** w art. 1174 § 1 otrzymuje brzmienie: „
+
+§ 1. Osoba powołana na arbitra składa na piśmie każdej ze stron i pozostałym arbitrom oświadczenie o swojej bezstronności i niezależności. Osoba powołana na arbitra niezwłocznie ujawnia stronom wszystkie okoliczności, które mogłyby wzbudzić wątpliwości co do jej bezstronności lub niezależności. ” ;
+
+- **17)** art. 1207 otrzymuje brzmienie: „
+
+**Art. 1207.**
+
+§ 1. Do skargi o uchylenie wyroku sądu polubownego przepis art. 368 stosuje się odpowiednio.
+
+§ 2. Jeśli przepisy poniższe nie stanowią inaczej, do postępowania ze skargi o uchylenie wyroku sądu polubownego przepisy o apelacji stosuje się odpowiednio. ” ;
+
+- **18)** w art. 1208: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Skargę o uchylenie wyroku sądu polubownego wnosi się do sądu apelacyjnego, na obszarze którego znajduje się sąd, który byłby właściwy do rozpoznania sprawy, gdyby strony nie dokonały zapisu na sąd polubowny, a w braku tej podstawy – do Sądu Apelacyjnego w Warszawie, w terminie dwóch miesięcy od dnia doręczenia wyroku lub jeżeli strona wniosła o uzupełnienie, sprostowanie lub wykładnię wyroku – w terminie dwóch miesięcy od dnia doręczenia przez sąd polubowny orzeczenia rozstrzygającego o tym wniosku. ” , dodaje się § 3 w brzmieniu: „
+
+- **b)**
+
+§ 3. Od wyroku wydanego w postępowaniu ze skargi o uchylenie wyroku sądu polubownego przysługuje skarga kasacyjna. Można także żądać wznowienia postępowania zakończonego prawomocnym wyrokiem w przedmiocie uchylenia wyroku sądu polubownego oraz stwierdzenia niezgodności z prawem prawomocnego wyroku wydanego w tym przedmiocie. ” ;
+
+- **19)** art. 1210 otrzymuje brzmienie: „
+
+**Art. 1210.** Sąd na posiedzeniu niejawnym może wstrzymać wykonanie wyroku sądu polubownego, może jednak uzależnić wstrzymanie od złożenia zabezpieczenia. Na postanowienie sądu przysługuje zażalenie do innego składu tego sądu. ” ;
+
+**Art. 12131.**
+
+§ 1. O uznaniu albo stwierdzeniu wykonalności wyroku sądu polubownego lub ugody przed nim zawartej orzeka sąd apelacyjny, na obszarze którego znajduje się sąd, który byłby właściwy do rozpoznania sprawy, gdyby strony nie dokonały zapisu na sąd polubowny, a w braku tej podstawy – Sąd Apelacyjny w Warszawie.
+
+§ 2. Do postępowania o uznanie albo stwierdzenie wykonalności wyroku sądu polubownego lub ugody przed nim zawartej stosuje się odpowiednio przepisy o apelacji. ” ;
+
+- **22)** w art. 1214: § 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+§ 1. O uznaniu wyroku sądu polubownego lub ugody przed nim zawartej, nienadających się do wykonania w drodze egzekucji, sąd orzeka postanowieniem wydanym na posiedzeniu niejawnym.
+
+§ 2. Sąd stwierdza wykonalność wyroku sądu polubownego lub ugody przed nim zawartej, nadających się do wykonania w drodze egzekucji, nadając im klauzulę wykonalności. Wyrok sądu polubownego lub ugoda przed nim zawarta, których wykonalność została stwierdzona, są tytułami wykonawczymi. ” , dodaje się § 4 w brzmieniu: „
+
+- **b)**
+
+§ 4. Na postanowienie sądu apelacyjnego w przedmiocie uznania albo stwierdzenia wykonalności wyroku sądu polubownego wydanego w Rzeczypospolitej Polskiej lub ugody przed nim zawartej przysługuje zażalenie do innego składu tego sądu. ” ;
+
+- **23)** w art. 1215 § 3 otrzymuje brzmienie: „
+
+§ 3. Od prawomocnego postanowienia sądu w przedmiocie uznania albo stwierdzenia wykonalności wyroku sądu polubownego wydanego za granicą lub ugody zawartej przed sądem polubownym za granicą przysługuje skarga kasacyjna. Można także żądać wznowienia postępowania zakończonego prawomocnym postanowieniem w przedmiocie uznania albo stwierdzenia wykonalności oraz stwierdzenia niezgodności z prawem prawomocnego postanowienia wydanego w tym przedmiocie. ” .
+
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 4.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 5.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 16a.**
+
+§ 1. W sądzie okręgowym działa koordynator do spraw mediacji, który wykonuje działania na rzecz rozwoju mediacji, zapewnia sprawną komunikację pomiędzy sędziami i mediatorami oraz stałymi mediatorami, a także współpracuje przy organizowaniu spotkań informacyjnych.
+
+§ 2. Koordynator do spraw mediacji wykonuje zadania, o których mowa w § 1, również w sądach rejonowych na obszarze właściwości danego sądu okręgowego.
+
+§ 3. Koordynatora do spraw mediacji powołuje prezes sądu okręgowego, w drodze zarządzenia, spośród sędziów sądu okręgowego. ” ;
+
+- **2)** tytuł działu IV otrzymuje brzmienie: „Referendarze sądowi, kuratorzy sądowi, pracownicy sądów, stali mediatorzy, ławnicy oraz organy pomocnicze sądów”;
+- **3)** w dziale IV po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
+
+#### Rozdział 6a Stali mediatorzy
 
 **Art. 157a.** Stałym mediatorem może być osoba fizyczna, która:
 
-**Art. 157b.**
+**Art. 6.** W ustawie z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa (Dz. U. z 2013 r. poz. 1150, z późn. zm.) w art. 8 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 
-§ 1. Wpisu na listę stałych mediatorów dokonuje prezes sądu okręgowego drodze decyzji wydawanej na wniosek osoby ubiegającej się o wpis.
+**Art. 7.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) wprowadza się następujące zmiany:
 
-§ 2. Do wniosku o wpis na listę stałych mediatorów dołącza się oświadczenia lub dokumenty potwierdzające spełnianie warunków, o których mowa 157a pkt 1–5.
+**Art. 93.**
 
-§ 3. Oświadczenie potwierdzające spełnianie warunku, o którym mowa 157a pkt 5, osoba ubiegająca się o wpis składa pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Osoba ubiegająca się o wpis jest obowiązana do zawarcia nich klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+1. Należności świadków, biegłych, tłumaczy, stron oraz mediatorów za prowadzenie mediacji na skutek skierowania przez sąd, przyznaje i ustala sąd lub referendarz sądowy.
 
-**Art. 157c.**
+2. Przyznaną należność należy wypłacić niezwłocznie. W przypadku niemożności niezwłocznej wypłaty należność przekazuje się przekazem pocztowym lub przelewem bankowym bez obciążania świadka, biegłego, mediatora lub tłumacza opłatą pocztową lub kosztami przelewu. ” ;
 
-§ 1. Prezes sądu okręgowego, drodze decyzji, skreśla stałego mediatora listy przypadku:
+- **8)** w art. 95 w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+- **9)** o zatwierdzenie ugody zawartej przed mediatorem w wyniku prowadzenia mediacji na podstawie umowy o mediację. ” .
 
-- **1)** śmierci stałego mediatora;
-- **2)** złożenia przez stałego mediatora wniosku o skreślenie listy;
-- **3)** zaprzestania przez stałego mediatora spełniania któregokolwiek warunków określonych 183 § 1 2 ustawy dnia 17 listopada 1964 Kodeks postępowania cywilnego;
-- **4)** prawomocnego skazania stałego mediatora za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **5)** stwierdzenia nienależytego wykonywania obowiązków przez stałego mediatora.
+**Art. 8.** W ustawie z dnia 9 kwietnia 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw (Dz. U. poz. 699) wprowadza się następujące zmiany:
 
-§ 2. Sąd zawiadamia prezesa sądu okręgowego, który wydał decyzję o wpisie na listę stałych mediatorów, o każdym przypadku uzasadniającym skreślenie tej listy na podstawie § 1 pkt 5.
+**Art. 9.** Do postępowań wszczętych na podstawie ustawy zmienianej w art. 1 i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. Listy stałych mediatorów, o których mowa w art. 1832 § 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stają się listami mediatorów, o których mowa w art. 1832 § 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-§ 3. Od decyzji prezesa sądu okręgowego przedmiocie wpisu lub skreślenia listy stałych mediatorów przysługuje odwołanie do prezesa sądu apelacyjnego.
+**Art. 11.** Przepisy ustaw zmienianych w art. 2–4, w brzmieniu nadanym niniejszą ustawą, stosuje się do korekty przychodów oraz kosztów uzyskania przychodów, uzyskanych lub poniesionych przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 157d.**
+**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 981 § 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 981§ 4 tej ustawy, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-§ 1. Prezes sądu okręgowego prowadzi listę stałych mediatorów dla obszaru właściwości danego okręgu sądowego.
-
-§ 2. Na liście stałych mediatorów zamieszcza się następujące dane dotyczące stałego mediatora:
-
-- **1)** imię nazwisko rok urodzenia;
-- **2)** adres do korespondencji;
-- **3)** informację dotyczącą wykształcenia odbytych szkoleń;
-- **4)** informacje dotyczące specjalizacji.
-
-§ 3. Na liście, o której mowa § 2, na wniosek stałego mediatora, zamieszcza się:
-
-- **1)** numer telefonu stałego mediatora;
-- **2)** adres poczty elektronicznej stałego mediatora; du.
-
-§ 5. Stały mediator zawiadamia prezesa sądu okręgowego o:
-
-- **1)** każdej zmianie imienia lub nazwiska danych lub informacji, o których mowa § 2 pkt 2–4 § 3,
-- **2)** okolicznościach, o których mowa 157c § 1 pkt 3 4,
-- **3)** umieszczeniu na liście, o której mowa § 4 terminie 14 dni od dnia zaistnienia zdarzenia powodującego obowiązek zawiadomienia.
-
-**Art. 157e.** Prezes sądu okręgowego udostępnia sądom innym podmiotom siedzibie sądu zamieszcza Biuletynie Informacji Publicznej na stronie podmiotowej sądu aktualną listę stałych mediatorów.
-
-**Art. 157f.** Minister Sprawiedliwości określi, drodze rozporządzenia, sposób prowadzenia listy stałych mediatorów, tryb wpisywania skreślania listy, zamieszczania na liście aktualizacji danych informacji, sposób potwierdzania spełnienia warunków wpisywania na listę, wzór formularza wniosku o wpis na listę stałych mediatorów, a także rodzaje dokumentów załączanych do wniosku, uwzględniając potrzebę zapewnienia wiarygodnej aktualnej informacji o stałych mediatorach, jednolitości wniosków sprawnego przebiegu procedury wpisu na listę stałych mediatorów.”.
-
-**Art. 6.** W ustawie dnia 8 lipca 2005 o Prokuratorii Generalnej Skarbu Państwa (Dz. U. 2013 1150, późn. zm. ) 8 ust. 1 pkt 3 kropkę zastępuje się średnikiem dodaje się pkt 4 brzmieniu: „4) sprawach o uchylenie wyroku sądu polubownego uznanie albo stwierdzenie wykonalności wyroku sądu polubownego lub ugody przed nim zawartej.”.
-
-**Art. 7.** W ustawie dnia 28 lipca 2005 o kosztach sądowych sprawach cywilnych (Dz. U. 1025, późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 8.** W ustawie dnia 9 kwietnia o zmianie ustawy o podatku dochodowym od osób fizycznych niektórych innych ustaw (Dz. U. 699) wprowadza się następujące zmiany:
-
-**Art. 9.** Do postępowań wszczętych na podstawie ustawy zmienianej 1 niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
-
-**Art. 10.** Listy stałych mediatorów, o których mowa 183 § 3 ustawy zmienianej 1, brzmieniu dotychczasowym, stają się listami mediatorów, o których mowa 183 § 3 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
-
-**Art. 11.** Przepisy ustaw zmienianych 2–4, brzmieniu nadanym niniejszą ustawą, stosuje się do korekty przychodów kosztów uzyskania przychodów, uzyskanych lub poniesionych przed dniem wejścia życie niniejszej ustawy.
-
-**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie 98 § 4 ustawy zmienianej 1 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie 98 § 4 tej ustawy, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
-
-**Art. 13.** Ustawa wchodzi życie dniem 1 stycznia 2016 r., wyjątkiem 8, który wchodzi życie dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

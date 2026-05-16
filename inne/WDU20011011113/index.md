@@ -8,9 +8,10 @@ pos: 1113
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# powinno wszczególności zawierać:
+# Wyrok Trybunału Konstytucyjnegoz dnia 6 września 2001 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,30 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011011113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1113/text.pdf) |
 
-1) ocenę wykorzystania środków finansowych pod względem celowości izgodności zprzepisami: ofinansach publicznych, o rachunkowości oraz o zamówieniach publicznych,
-2) ocenę zgodności dokumentacji finansowej kontrolowanej jednostki z informacjami zawartymi w raportach isprawozdaniach przekazanych Komitetowi, z uwzględnieniem warunków określonych w decyzji lub w umowie oraz w harmonogramie płatności przekazanym Komitetowi,
-3) ustalenia dotyczące wysokości wykorzystanych środków finansowych, ztym że:
-a) w przypadku stwierdzenia niezgodności z decyzją lub umową albo zobowiązującymi przepisausunięcia.
-3. Raport zkontroli zatwierdza Przewodniczący Komitetu.
-4. Przewodniczący Komitetu przekazuje kierownikowi kontrolowanej jednostki wystąpienie pokontrolne, sporządzone na podstawie raportu z kontroli, zawierające zalecenia iwnioski pokontrolne.
-5. Kierownik kontrolowanej jednostki może wterminie 14 dni od dnia otrzymania wystąpienia pokontrolnego zgłosić umotywowane zastrzeżenia w sprawie zaleceń wniosków zawartych w tym wystąpieniu.
-mi prawa z informacją o nieprawidłowo wydatkowanych kwotach oraz wskazaniem naruszonego przepisu,
-b) w odniesieniu do kontroli po zakończeniu zadania z informacją o wysokości kwot niewykorzystanych na realizację zadania.
-§ 10. 1. Sprawozdania zkontroli przekazuje się kierownikowi kontrolowanej jednostki.
-2. Kierownikowi kontrolowanej jednostki przysługuje prawo zgłoszenia uwag do ustaleń zawartych w sprawozdaniu z kontroli, w terminie 7 dni od dnia otrzymania sprawozdania.
-3. Wprzypadku zgłoszenia uwag, októrych mowa wust. 2, podejmuje się czynności mające na celu wyjaśnienie spraw wskazanych w uwagach, a w razie potrzeby podejmuje się dodatkowe czynności kontrolne.
-§ 11. 1. Na podstawie sprawozdań z kontroli, po rozpatrzeniu uwag wyjaśnień zgłoszonych do nich, sporządza się raport z kontroli zawierający zalecenia iwnioski pokontrolne.
-6. Kierownik kontrolowanej jednostki obowiązany jest w terminie określonym w wystąpieniu pokontrolnym poinformować Przewodniczącego Komitetu o działaniach podjętych w celu realizacji zaleceń iwniosków pokontrolnych.
-7. W przypadku niewykonania przez kierownika kontrolowanej jednostki obowiązku, o którym mowa wust. 6, informuje się otym właściwe komórki organizacyjne urzędu Komitetu, które podejmują czynności mające na celu rozliczenie zadania podlegającego kontroli.
-8. Raport zkontroli iwystąpienie pokontrolne przekazuje się zespołom Komitetu komórkom organizacyjnym urzędu Komitetu właściwym ze względu na przedmiot kontroli, które odpowiednio wykorzystują wyniki kontroli oraz podejmują czynności mające na celu zapewnienie prawidłowej realizacji zadań.
-§ 12. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Przewodniczący Komitetu Badań Naukowych: A. Wiszniewski WYROK TRYBUNAĘU KONSTYTUCYJNEGO wie pytania prawnego Naczelnego Sądu Administra- poz. 971, z 1998 162, poz. 1126, z 1999 75, cyjnego wWarszawie zudziałem umocowanych przed- poz. 853, z 2000 2, poz. 5, 48, poz. 552, 60, stawicieli uczestników postępowania: wnioskodawcy, poz. 704iNr 91, poz. 1008oraz z 2001 49, poz. 508 Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Ge- 509 98, poz. 1070), w części wyłączającej możlineralnego co do zgodnościart. 55 ust. 1 zdanie drugie wość orzeczenia o zwrocie kosztów postępowania na ustawy 11 maja 1995 oNaczelnym Sądzie Ad- rzecz skarżącego w razie umorzenia przez Naczelny ministracyjnym (Dz. U. z1995 74, poz. 368, zpóên. Sąd Administracyjny postępowania sądowego zm.), w części wyłączającej możliwość orzeczenia wzwiązku zuwzględnieniem przez organ administracji o zwrocie kosztów postępowania na rzecz skarżącego skargi w całości na podstawie art. 38 ust. 2 ustawy w razie umorzenia przez Naczelny Sąd Administracyj- o Naczelnym Sądzie Administracyjnym, jest nieny postępowania sądowego w związku z uwzględnie- zgodny z art. 32 ust. 1 Konstytucji Rzeczypospolitej niem przez organ administracji skargi w całości na Polskiej.
-podstawie art. 38 ust. 2 ustawy o Naczelnym Sądzie Administracyjnym, z art. 32 ust. 1 Konstytucji Rzeczy- Jerzy Ciemniewski pospolitej Polskiej oraz art. 14 ust. 1 Międzynarodowego Paktu Praw Obywatelskich Politycznych (Dz. U. Janusz Niemcewicz Jadwiga Skórzewska-Ęosiak z1997r. 38, poz. 167) Jerzy Stępień Marian Zdyb 1114 OBWIESZCZENIE PREZESA RADY MINISTRÓW 2 sierpnia 2001 wsprawie ogłoszenia jednolitego tekstu ustawy oradiofonii itelewizji.
-1. Na podstawie art. 3 ustawy z dnia 31 marca 2000 o zmianie ustawy o radiofonii telewizji ustawy ojęzyku polskim (Dz. U. 29, poz. 358) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy 29 grudnia 1992 oradiofonii itelewizji (Dz. U. z1993 7, poz. 34), zuwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 30 marca 1995 o zmianie ustawy oradiofonii itelewizji (Dz. U. 66, poz. 335),
-2) ustawą 29 czerwca 1995 ozmianie ustawy oradiofonii itelewizji oraz ozmianie niektórych innych ustaw (Dz. U. 142, poz. 701),
-3) ustawą z dnia 8 sierpnia 1996 o zmianie niektó5) ustawą 20 sierpnia 1997 Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym (Dz. U. 121, poz. 770),
-6) ustawą z dnia 7 paêdziernika 1999 o języku polskim (Dz. U. 90, poz. 999 z 2000 29, poz.358),
-7) ustawą z dnia 16 marca 2000 o zmianie ustawy o zwalczaniu nieuczciwej konkurencji oraz o zmianie ustawy o radiofonii telewizji (Dz. U. 29, poz.356),
-8) ustawą z dnia 31 marca 2000 o zmianie ustawy o radiofonii telewizji ustawy o języku polskim (Dz. U. 29, poz. 358),
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Jerzy Ciemniewski – przewodniczący, Janusz Niemcewicz, Jadwiga Skórzewska-Łosiak, Jerzy Stępień, Marian Zdyb – sprawozdawca, protokolant: Joanna Szymczak, po rozpoznaniu w dniu 6 września 2001 r. na rozprawie pytania prawnego Naczelnego Sądu Administracyjnego w Warszawie z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego co do zgodności art. 55 ust. 1 zdanie drugie ustawy z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz. U. z 1995 r. Nr 74, poz. 368, z późn. zm.), w części wyłączającej możliwość orzeczenia o zwrocie kosztów postępowania na rzecz skarżącego w razie umorzenia przez Naczelny Sąd Administracyjny postępowania sądowego w związku z uwzględnieniem przez organ administracji skargi w całości na podstawie art. 38 ust. 2 ustawy o Naczelnym Sądzie Administracyjnym, z art. 32 ust. 1 Konstytucji Rzeczypospolitej Polskiej oraz art. 14 ust. 1 Międzynarodowego Paktu Praw Obywatelskich i Politycznych (Dz. U. z 1997 r. Nr 38, poz. 167) orzeka: Art. 55 ust. 1 zdanie drugie ustawy z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz. U. Nr 74, poz. 368i Nr 104, poz. 515, z 1997 r. Nr 75, poz. 471, Nr 106, poz. 679, Nr 114, poz. 739i Nr 144, poz. 971, z 1998 r. Nr 162, poz. 1126, z 1999 r. Nr 75, poz. 853, z 2000 r. Nr 2, poz. 5, Nr 48, poz. 552, Nr 60, poz. 704i Nr 91, poz. 1008oraz z 2001 r. Nr 49, poz. 508 i 509 i Nr 98, poz. 1070), w części wyłączającej możliwość orzeczenia o zwrocie kosztów postępowania na rzecz skarżącego w razie umorzenia przez Naczelny Sąd Administracyjny postępowania sądowego w związku z uwzględnieniem przez organ administracji skargi w całości na podstawie art. 38 ust. 2 ustawy o Naczelnym Sądzie Administracyjnym, jest niezgodny z art. 32 ust. 1 Konstytucji Rzeczypospolitej Polskiej. Jerzy Ciemniewski Janusz Niemcewicz Jadwiga Skórzewska-Łosiak Jerzy Stępień Marian Zdyb
 

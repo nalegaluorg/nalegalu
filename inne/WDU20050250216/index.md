@@ -8,9 +8,10 @@ pos: 216
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# dnia 17 1964 r. Kodeks postępowania cywilnego (Dz. U. 43, poz. 296, ze zm.) wbrzmieniu nadanym przez art. 1 pkt 34 dnia 24 maja 2000 r. ozmianie Kodeks postępowania cywilnego, ozastawie rejestrowym irejestrze zastawów, okosztach sądowych wsprawach cywilnych oraz okomornikach sądowych iegzekucji (Dz. U. 48, poz. 554) zart. 78 iart. 176 Konstytucji, poz. 554 oraz 2003 r. 24, poz. 201 109, poz. 1036) jest zgodny art. 78 art. 176 Konstytucji Rzeczypospolitej Polskiej.
+# Wyrok Trybunału Konstytucyjnegoz dnia 1 lutego 2005 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +25,47 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050250216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/216/text.pdf) |
 
-Marian Grzybowski Jerzy Ciemniewski Wiesław Johann Marek Mazurkiewicz Mirosław Wyrzykowski WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 1 lutego 2005 r.
-sygn. akt U 14/02 Trybunał Konstytucyjny w składzie: Marek Mazurkiewicz przewodniczący, Marian Grzybowski, Adam Jamróz sprawozdawca,
-2) § 2 ust. 1 pkt 3 rozporządzenia powołanego wpunkcie 1 w zakresie, w jakim wyłącza ubezpieczenie, podatek od nieruchomości opłaty za wieczyste użytkowanie gruntu wydatków stanowiących podstawę obliczenia dodatku mieszkaniowego iznajduje zastosowanie do spraw wszczętych iniezakończonych przed dniem 23 2004r. z: art. 6 ust. 4 pkt 4 art. 9 ust. 1 pkt 1 po rozpoznaniu, udziałem wnioskodawcy oraz dnia 21 czerwca 2001 r. dodatkach mieszkaRady Ministrów iProkuratora Generalnego, na rozpra- niowych (Dz. U. 71, poz. 734, ze zm.) wie w dniach 14 września 2004 r. 1 lutego 2005 r., w brzmieniu obowiązującym do dnia wejścia wniosku Rzecznika Praw Obywatelskich zbadanie w życie dnia 8 paêdziernika 2004 r.
-zgodności: ozmianie ododatkach mieszkaniowych
-1) § 2 ust. 1 pkt 2 rozporządzenia Rady Ministrów dnia 28 grudnia 2001 r. w sprawie dodatków mieszkaniowych (Dz. U. 156, poz. 1817) w zakresie, wjakim wyłącza ubezpieczenie, podatek od nieruchomości opłaty za wieczyste użytkowanie gruntów wydatków stanowiących podstawę obliczenia dodatku mieszkaniowego iznajduje zastosowanie do spraw wszczętych niezakończonych przed dniem 23 2004 r. z: art. 6 ust. 4 pkt 3 art. 9 ust. 1 pkt 1 dnia 21 czerwca 2001 r. dodatkach mieszkaniowych (Dz. U. 71, poz. 734, ze zm.) w brzmieniu obowiązującym do dnia wejścia w życie dnia 8 paêdziernika 2004 r.
-ozmianie ododatkach mieszkaniowych (Dz. U. 240, poz. 2406), art. 92 ust. 1 zd. 1 Konstytucji RP, (Dz. U. 240, poz. 2406), art. 92 ust. 1 zd. 1 Konstytucji,
-3) § 2 ust. 1 pkt 1—5 rozporządzenia powołanego wpunkcie 1 wzakresie, wjakim wyłącza on zpodstawy obliczenia dodatku mieszkaniowego spośród opłat za świadczenia związane zeksploatacją lokalu mieszkalnego opłaty za energię elektryczną gaz oraz znajduje zastosowanie do spraw wszczętych niezakończonych przed dniem 23 listopada 2004 r. z: art. 6 ust. 4 pkt 2 art. 9 ust. 1 pkt 1 dnia 21 czerwca 2001 r. dodatkach mieszkaniowych (Dz. U. 71, poz. 734, ze zm.) w brzmieniu obowiązującym do dnia wejścia w życie dnia 8 paêdziernika 2004 r.
-ozmianie ododatkach mieszkaniowych (Dz. U. 240, poz. 2406), art. 92 ust. 1 zd. 1 Konstytucji, nej w punkcie 1a.
-niowych (Dz. U. 71, poz. 734, ze zm.) w brzmieniu obowiązującym do dnia wejścia 3. § 2 ust. 1 pkt 1—5 rozporządzenia powołanego w życie dnia 8 paêdziernika 2004 r. w punkcie 1 w zakresie, w jakim wyłącza podstawy ozmianie ododatkach mieszkaniowych obliczenia dodatku mieszkaniowego, spośród opłat za (Dz. U. 240, poz. 2406), świadczenia związane eksploatacją lokalu mieszkalart. 92 ust. zd. 1 Konstytucji, nego, opłaty za energię elektryczną igaz oraz wzakresie, w jakim znajduje zastosowanie do spraw wszczęorzeka: tych niezakończonych przed dniem 23 2004 r.:
-1. § 2 ust. 1 pkt 2 rozporządzenia Rady Ministrów dnia 28 grudnia 2001 r. w sprawie dodatków miesz- a) nie jest niezgodny art. 6 ust. 4 pkt 2 kaniowych (Dz. U. 156, poz. 1817) w zakresie, w ja- powołanej w punkcie 1a, kim wyłącza ubezpieczenie, podatek od nieruchomo- b) jest zgodny art. 9 ust. 1 pkt 1 powołaści opłaty za wieczyste użytkowanie gruntów wy- nej wpunkcie 1aoraz zart. 92 ust. 1 zdanie pierwdatków stanowiących podstawę obliczenia dodatku sze Konstytucji.
-mieszkaniowego w zakresie, w jakim znajduje zastosowanie do spraw wszczętych niezakończonych przed dniem 23 2004 r.: 4. § 2 ust. 1 pkt 4 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim wyłącza podstawy
-a) jest niezgodny zart. 6 ust. 4 pkt 3 zdnia obliczenia dodatku mieszkaniowego, spośród świad21 czerwca 2001 r. dodatkach mieszkaniowych czeń związanych eksploatacją domu jednorodzinne(Dz. U. 71, poz. 734, 2002 r. 216, poz. 1826 go, opłaty za energię elektryczną gaz oraz w zakreoraz 2003 r. 203, poz. 1966) w brzmieniu obo- sie, w jakim znajduje zastosowanie do spraw wszczęwiązującym do dnia wejścia wżycie zdnia tych niezakończonych przed dniem 23 8 paêdziernika 2004 r. zmianie dodat- 2004 r.: kach mieszkaniowych (Dz. U. 240, poz. 2406) oraz art. 92 ust. 1 zdanie pierwsze Konstytucji a) nie jest niezgodny art. 6 ust. 4 pkt 5 Rzeczypospolitej Polskiej, powołanej w punkcie 1a,
-b) jest zgodny art. 9 ust. 1 pkt 1 powoła- b) jest zgodny art. 9 ust. 1 pkt 1 powołanej w punkcie 1a. nej wpunkcie 1aoraz zart. 92 ust. 1 zdanie pierwsze Konstytucji.
-2. § 2 ust. 1 pkt 3 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim wyłącza ubezpiecze- Marek Mazurkiewicz nie, podatek od nieruchomości opłaty za wieczyste użytkowanie gruntu wydatków stanowiących pod- Marian Grzybowski Adam Jamróz
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marek Mazurkiewicz – przewodniczący, Marian Grzybowski, Adam Jamróz – sprawozdawca, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem wnioskodawcy oraz Rady Ministrów i Prokuratora Generalnego, na rozprawie w dniach 14 września 2004 r. i 1 lutego 2005 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
+1)
+§ 2 ust. 1 pkt 2 rozporządzenia Rady Ministrów z dnia 28 grudnia 2001 r. w sprawie dodatków mieszkaniowych (Dz. U. Nr 156, poz. 1817) w zakresie, w jakim wyłącza ubezpieczenie, podatek od nieruchomości i opłaty za wieczyste użytkowanie gruntów z wydatków stanowiących podstawę obliczenia dodatku mieszkaniowego i znajduje zastosowanie do spraw wszczętych i niezakończonych przed dniem 23 listopada 2004 r. z:
+– art. 6 ust. 4 pkt 3 i art. 9 ust. 1 pkt 1 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. Nr 71, poz. 734, ze zm.) w brzmieniu obowiązującym do dnia wejścia w życie ustawy z dnia 8 października 2004 r. o zmianie ustawy o dodatkach mieszkaniowych (Dz. U. Nr 240, poz. 2406),
+– art. 92 ust. 1 zd. 1 Konstytucji RP,
+2)
+§ 2 ust. 1 pkt 3 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim wyłącza ubezpieczenie, podatek od nieruchomości i opłaty za wieczyste użytkowanie gruntu z wydatków stanowiących podstawę obliczenia dodatku mieszkaniowego i znajduje zastosowanie do spraw wszczętych i niezakończonych przed dniem 23 listopada 2004 r. z:
+– art. 6 ust. 4 pkt 4 i art. 9 ust. 1 pkt 1 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. Nr 71, poz. 734, ze zm.) w brzmieniu obowiązującym do dnia wejścia w życie ustawy z dnia 8 października 2004 r. o zmianie ustawy o dodatkach mieszkaniowych (Dz. U. Nr 240, poz. 2406),
+– art. 92 ust. 1 zd. 1 Konstytucji,
+3)
+§ 2 ust. 1 pkt 1–5 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim wyłącza on z podstawy obliczenia dodatku mieszkaniowego spośród opłat za świadczenia związane z eksploatacją lokalu mieszkalnego opłaty za energię elektryczną i gaz oraz znajduje zastosowanie do spraw wszczętych i niezakończonych przed dniem 23 listopada 2004 r. z:
+– art. 6 ust. 4 pkt 2 i art. 9 ust. 1 pkt 1 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. Nr 71, poz. 734, ze zm.) w brzmieniu obowiązującym do dnia wejścia w życie ustawy z dnia 8 października 2004 r. o zmianie ustawy o dodatkach mieszkaniowych (Dz. U. Nr 240, poz. 2406),
+– art. 92 ust. 1 zd. 1 Konstytucji,
+4)
+§ 2 ust. 1 pkt 4 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim wyłącza on z podstawy obliczenia dodatku mieszkaniowego spośród świadczeń związanych z eksploatacją domu jednorodzinnego opłaty za energię elektryczną i gaz oraz znajduje zastosowanie do spraw wszczętych i niezakończonych przed dniem 23 listopada 2004 r. z:
+– art. 6 ust. 4 pkt 5 i art. 9 ust. 1 pkt 1 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. Nr 71, poz. 734, ze zm.) w brzmieniu obowiązującym do dnia wejścia w życie ustawy z dnia 8 października 2004 r. o zmianie ustawy o dodatkach mieszkaniowych (Dz. U. Nr 240, poz. 2406),
+– art. 92 ust. zd. 1 Konstytucji,
+orzeka:
+1.
+§ 2 ust. 1 pkt 2 rozporządzenia Rady Ministrów z dnia 28 grudnia 2001 r. w sprawie dodatków mieszkaniowych (Dz. U. Nr 156, poz. 1817) w zakresie, w jakim wyłącza ubezpieczenie, podatek od nieruchomości i opłaty za wieczyste użytkowanie gruntów z wydatków stanowiących podstawę obliczenia dodatku mieszkaniowego i w zakresie, w jakim znajduje zastosowanie do spraw wszczętych i niezakończonych przed dniem 23 listopada 2004 r.:
+a)
+jest niezgodny z art. 6 ust. 4 pkt 3 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. Nr 71, poz. 734, z 2002 r. Nr 216, poz. 1826 oraz z 2003 r. Nr 203, poz. 1966) w brzmieniu obowiązującym do dnia wejścia w życie ustawy z dnia 8 października 2004 r. o zmianie ustawy o dodatkach mieszkaniowych (Dz. U. Nr 240, poz. 2406) oraz z art. 92 ust. 1 zdanie pierwsze Konstytucji Rzeczypospolitej Polskiej,
+b)
+jest zgodny z art. 9 ust. 1 pkt 1 ustawy powołanej w punkcie 1a.
+2.
+§ 2 ust. 1 pkt 3 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim wyłącza ubezpieczenie, podatek od nieruchomości i opłaty za wieczyste użytkowanie gruntu z wydatków stanowiących podstawę obliczenia dodatku mieszkaniowego i w zakresie, w jakim znajduje zastosowanie do spraw wszczętych i niezakończonych przed dniem 23 listopada 2004 r.:
+a)
+jest niezgodny z art. 6 ust. 4 pkt 4 ustawy powołanej w punkcie 1a oraz z art. 92 ust. 1 zdanie pierwsze Konstytucji,
+b)
+jest zgodny z art. 9 ust. 1 pkt 1 ustawy powołanej w punkcie 1a.
+3.
+§ 2 ust. 1 pkt 1–5 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim wyłącza z podstawy obliczenia dodatku mieszkaniowego, spośród opłat za świadczenia związane z eksploatacją lokalu mieszkalnego, opłaty za energię elektryczną i gaz oraz w zakresie, w jakim znajduje zastosowanie do spraw wszczętych i niezakończonych przed dniem 23 listopada 2004 r.:
+a)
+nie jest niezgodny z art. 6 ust. 4 pkt 2 ustawy powołanej w punkcie 1a,
+b)
+jest zgodny z art. 9 ust. 1 pkt 1 ustawy powołanej w punkcie 1a oraz z art. 92 ust. 1 zdanie pierwsze Konstytucji.
+4.
+§ 2 ust. 1 pkt 4 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim wyłącza z podstawy obliczenia dodatku mieszkaniowego, spośród świadczeń związanych z eksploatacją domu jednorodzinnego, opłaty za energię elektryczną i gaz oraz w zakresie, w jakim znajduje zastosowanie do spraw wszczętych i niezakończonych przed dniem 23 listopada 2004 r.:
+a)
+nie jest niezgodny z art. 6 ust. 4 pkt 5 ustawy powołanej w punkcie 1a,
+b)
+jest zgodny z art. 9 ust. 1 pkt 1 ustawy powołanej w punkcie 1a oraz z art. 92 ust. 1 zdanie pierwsze Konstytucji.
 

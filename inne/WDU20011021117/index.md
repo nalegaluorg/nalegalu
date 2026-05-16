@@ -8,9 +8,10 @@ pos: 1117
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 3) wart. 64 ust. 2 otrzymuje brzmienie: Ń2. W stosunku do Sekretarza Rady Ministrów, Głównego Inspektora Audytu Wewnętrznego dyrektora generalnego urzędu czynności, októrych mowa 1, dokonuje Szef Służby Cywilnej.”;
+# Ustawa z dnia 23 sierpnia 2001 r. o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,21 +25,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011021117) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1117/text.pdf) |
 
-4) wart. 72 2 dodaje się zdanie drugie wbrzmieniu: ŃUrzędnikowi służby cywilnej zajmującemu stanowisko, októrym mowa wart. 41 ust. 1 pkt 1, zgody udziela Szef Służby Cywilnej.”;
-5) w art. 73 w ust. 2 wyrazy ŃDyrektora generalnego
-9) w art. 106 w ust. 2 w zdaniu drugim, w art. 108 w ust. 4, w art. 114 w ust. 2, w art. 117 w ust. 1 2 po wyrazach ŃSekretarza Rady Ministrów” dodaje się przecinek wyrazy ŃGłównego Inspektora Audytu Wewnętrznego”.
+**Art. 1.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591, z 1997 r. Nr 32, poz. 183, Nr 43, poz. 272, Nr 88, poz. 554, Nr 118, poz. 754, Nr 139, poz. 933 i 934, Nr 140, poz. 939i Nr 141, poz. 945, z 1998 r. Nr 60, poz. 382, Nr 106, poz. 668, Nr 107, poz. 669i Nr 155, poz. 1014, z 1999 r. Nr 9, poz. 75i Nr 83, poz. 931oraz z 2000 r. Nr 60, poz. 703, Nr 94, poz. 1037i Nr 113, poz. 1186) w art. 2 wprowadza się następujące zmiany:
 
-**Art. 5.**
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228i Nr 122, poz. 1324oraz z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961i Nr 89, poz. 968) w art. 24a:
 
-1. Wokresie 3 lat od dnia wejścia wżycie niniejszej do głównego księgowego jednostki sektora finansów publicznych nie stosuje się przepisu art. 35 ust. 2 pkt 4 o finansach publicznych wbrzmieniu nadanym niniejszą ustawą.
+**Art. 3.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037) po art. 10 dodaje się art. 101 w brzmieniu: „
 
-2. W okresie 3 lat od dnia wejścia w życie audytorem wewnętrznym może być osoba, która posiada co najmniej roczne doświadczenie na stanowisku urzędu” zastępuje się wyrazami ŃGłównego In- związanym zprzeprowadzaniem kontroli lub audytu. spektora Audytu Wewnętrznego dyrektora generalnego urzędu”; 3. Wokresie 3 lat od dnia wejścia wżycie niniejszej
+**Art. 101.** Jeżeli spółka osobowa nie jest obowiązana do prowadzenia ksiąg rachunkowych na podstawie ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591, z 1997 r. Nr 32, poz. 183, Nr 43, poz. 272, Nr 88, poz. 554, Nr 118, poz. 754, Nr 139, poz. 933 i 934, Nr 140, poz. 939 i Nr 141, poz. 945, z 1998 r. Nr 60, poz. 382, Nr 106, poz. 668, Nr 107, poz. 669 i Nr 155, poz. 1014, z 1999 r. Nr 9, poz. 75 i Nr 83, poz. 931, z 2000 r. Nr 60, poz. 703, Nr 94, poz. 1037 i Nr 113, poz. 1186 oraz z 2001 r. Nr 102, poz. 1117) przepisy kodeksu, które przewidują konieczność sporządzania sprawozdania finansowego, wykonuje się w oparciu o podsumowanie zapisów w podatkowej księdze przychodów i rozchodów oraz innych ewidencji prowadzonych przez spółkę dla celów podatkowych, spis z natury, a także inne dokumenty pozwalające na sporządzanie tego sprawozdania. ”
 
-- **6)** wart. 74 dodaje się ust. 1awbrzmieniu: do audytora wewnętrznego nie stosuje się przepisu art. 35kpkt 5 ofinansach publicznych Ń1a. W stosunku do Głównego Inspektora Audytu wbrzmieniu nadanym niniejszą ustawą. Wewnętrznego dyrektora generalnego urzędu ocenę, o której mowa w ust. 1, sporządza Art. 6. Ustawa wchodzi w życie z dniem 1 stycznia Szef Służby Cywilnej w porozumieniu z wła- 2002 ściwym ministrem, kierownikiem urzędu centralnego lub wojewodą, a w stosunku do Sekretarza Rady Ministrów Prezes Rady Ministrów.”; Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 23 sierpnia 2001 ozmianie orachunkowości niektórych innych ustaw.
+**Art. 4.** W ustawie z dnia 9 listopada 2000 r. o zmianie ustawy o rachunkowości (Dz. U. Nr 113, poz. 1186) w art. 1 wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 29 września 1994 o rachunkowości (Dz. U. 121, poz. 591, z 1997 32, poz. 183, 43, poz. 272, 88, poz. 554, 118, poz. 754, 139, poz. 933 934, 140, poz. 939 141, poz. 945, z 1998 60, poz. 382, 106, poz.668, 107, poz. 669 iNr 155, poz. 1014, z1999 9, poz. 75 83, poz. 931 z 2000 60, poz. 703, 94, poz. 1037 113, poz. 1186) w art. 2 wprowadza się następujące zmiany:
-
-**Art. 2.** W ustawie z dnia 26 lipca 1991 o podatku dochodowym od fizycznych (Dz. U. z 2000 Nr14, poz. 176, 22, poz. 270, 60, poz.703, 70, poz. 816, 104, poz. 1104, 117, poz.1228 iNr 122, fizyczna, spółka cywilna fizycznych, spółka jawna fizycznych lub spółka partnerska”.
-
-**Art. 3.** Wustawie zdnia 15 września 2000 Kodeks spółek handlowych (Dz. U. 94, poz. 1037) po art. 10 dodaje się art. 10 wbrzmieniu: ŃArt. 10 partnerskie mogą stosować zasady rachunkowości określone ustawą również od początku następnego roku obrotowego, jeżeli ich przychody netto ze sprzedaży towarów, produktów ioperacji finansowych za poprzedni rok obrotowy są niższe niż równowartość w walucie pol. Jeżeli spółka osobowa nie jest obowiązana skiej 800 000 EURO.”; do prowadzenia ksiąg rachunkowych na 2) wpkt 2 wlit.d): podstawie zdnia 29 września 1994r. a) wzdaniu wstępnym wyrazy Ńust. 4 i5” zastępuo rachunkowości (Dz. U. 121, poz. 591, je się wyrazami Ńust. 4—6”, z 1997 32, poz. 183, 43, poz. 272, 88, poz. 554, 118, poz. 754, 139, b) dodaje się ust. 6 wbrzmieniu: poz. 933 934, 140, poz. 939 141, Ń6. W przypadku gdy roczne sprawozdanie fipoz. 945, z 1998 60, poz. 382, 106, nansowe korzystającego nie podlega obopoz. 668, 107, poz. 669 155, wiązkowi badania iogłaszania wmyśl art. 64 poz. 1014, z 1999 9, poz. 75 83, ust. 1, to może on dokonywać kwalifikacji poz. 931, z 2000 60, poz. 703, 94, umów, októrych mowa 4, według zapoz. 1037 113, poz. 1186 z 2001 sad określonych wprzepisach podatkowych 102, poz. 1117) przepisy kodeksu, które inie stosować ust. 4 i5.”; przewidują konieczność sporządzania spra- 3) wpkt 11 wlit. a) ust. 3 otrzymuje brzmienie: wozdania finansowego, wykonuje się woparciu opodsumowanie zapisów wpo- Ń3. Można nie zamykać inie otwierać ksiąg rachundatkowej księdze przychodów rozchodów kowych w przypadku przekształcenia spółki innych ewidencji prowadzonych przez osobowej spółki cywilnej w inną spółkę spółkę dla celów podatkowych, spis znatu- osobową, jak również w przypadku połączenia ry, a także inne dokumenty pozwalające na jednostek, gdy wmyśl rozliczenie przesporządzanie tego sprawozdania.” jęcia jednostki następuje metodą łączenia udziałów inie powoduje powstania nowej jedArt. 4.Wustawie zdnia 9 listopada 2000 ozmia- nostki.” nie orachunkowości (Dz. U. 113, poz. 1186) wart. 1 wprowadza się następujące zmiany: Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 4, który wchodzi
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 4, który wchodzi w życie z dniem 1 stycznia 2002 r.
 

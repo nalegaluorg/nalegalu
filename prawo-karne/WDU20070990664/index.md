@@ -8,9 +8,10 @@ pos: 664
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# wykroczeń określone art. 21 ust. 1—3, 5, 7 10 niniejszej ustawy, popełnione wzwiązku zimprezą masową, można orzec środek karny zakazu wstępu na imprezę masową na okres od lat 2 lat 6.
+# Ustawa z dnia 9 maja 2007 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +25,56 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990664) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/664/text.pdf) |
 
-ukarania za wykroczenia z art. 50, 51, 52a, 124 143 Kodeksu wykroczeń określone art. 21 ust.1—3, 5—7, 9 i10 niniejszej ustawy, popełnione związku z masową imprezą sportową, orzeka środek karny zakazu wstępu na masową imprezę tym określa: nazwy dyscyplin sportowych, nazwy klubów sportowych zakres terytorialny obowiązywania orzeczonego środka.
-6. Komendant Główny Policji przekazuje organizatorom imprez masowych, na ich wniosek, informacje o osobach, stosunku których zastosowano środek karny zakazu wstępu na imprezę masową, o którym mowa ust. 1
-2.”;
-10) po art. 22 dodaje art. 22a brzmieniu: sportową na okres od lat 2 lat 6.
-ŃArt. 22a. Kto stosuje orzeczonego zaka3. Ârodek, októrym mowa wust. 1, może zu wstępu na imprezę masową być połączony z obowiązkiem osobi- stosuje orzeczonego obowiązku stego stawiennictwa na wezwanie po- osobistego stawiennictwa jednostce wiatowego (miejskiego) komendanta organizacyjnej Policji, Policji we właściwej dla miejsca za- podlega karze pozbawienia wolności mieszkania ukaranego jednostce orga- lat 3.”.
-nizacyjnej Policji czasie trwania imprezy masowej. Art. Ustawa wchodzi życie po upływie 30 dni
-4. Ârodek, o którym mowa ust. 2, jest od dnia ogłoszenia.
-połączony z obowiązkiem osobistego stawiennictwa we właściwej dla miej- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
-USTAWA z dnia 9 maja 2007 o zmianie ustawy Kodeks postępowania karnego niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** ustawie z dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, 555, z póên. zm.
+**Art. 117a.**
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— 665 USTAWA z dnia 10 maja 2007 o zmianie ustawy Prawo budowlane niektórych innych ustaw
+§ 1. Jeżeli strona ma więcej niż jednego obrońcę lub pełnomocnika, czynność procesową można przeprowadzić w wypadku stawiennictwa przynajmniej jednego z nich, chyba że strona wyrazi zgodę na przeprowadzenie czynności bez udziału obrońcy lub pełnomocnika, których udział nie jest obowiązkowy.
 
-**Art. 1.** ustawie z dnia 7 lipca 1994 Prawo 2) zapewnić, dochowując należytej staranbudowlane (Dz. U. z2006 156, 1118 iNr 170, ności, bezpieczne użytkowanie obiektu 1217 z 2007 88, 587) wprowadza wystąpienia czynników zenastępujące zmiany: wnętrznych odziaływujących na obiekt, związanych z działaniem człowieka
+§ 2. Przepis § 1 stosuje się odpowiednio do pełnomocników osoby niebędącej stroną, o której mowa w art. 87 § 2, oraz podmiotu określonego w art. 416. ” ;
+
+- **5)** w art. 285: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Na świadka, biegłego, tłumacza lub specjalistę, który bez należytego usprawiedliwienia nie stawił się na wezwanie organu prowadzącego postępowanie albo bez zezwolenia tego organu wydalił się z miejsca czynności przed jej zakończeniem, można nałożyć karę pieniężną w wysokości do 10 000 złotych. ” , po § 1 dodaje się § 1a w brzmieniu: „
+
+- **b)**
+
+§ 1a. Przepis § 1 stosuje się odpowiednio do obrońcy lub pełnomocnika, w wypadkach szczególnych ze względu na ich wpływ na przebieg czynności; w postępowaniu przygotowawczym karę pieniężną, na wniosek prokuratora, nakłada sąd rejonowy, w którego okręgu prowadzi się postępowanie. ” ;
+
+- **6)** w art. 287 § 1 otrzymuje brzmienie: „
+
+§ 1. Przepis art. 285 § 1 stosuje się odpowiednio do osoby, która bezpodstawnie uchyla się od złożenia zeznania, wykonania czynności biegłego, tłumacza lub specjalisty, złożenia przyrzeczenia, wydania przedmiotu, dopełnienia obowiązków poręczyciela albo spełnienia innego ciążącego na niej obowiązku w toku postępowania, jak również do przedstawiciela lub kierownika instytucji, osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej obowiązanej udzielić pomocy organowi prowadzącemu postępowanie karne, która bezpodstawnie nie udziela pomocy w wyznaczonym terminie. ” ;
+
+- **7)** w art. 289 § 1 otrzymuje brzmienie: „
+
+§ 1. Osobę, w tym obrońcę, pełnomocnika lub oskarżyciela publicznego, która przez niewykonanie obowiązków wymienionych w art. 285 § 1 i 1a lub art. 287 § 1 spowodowała dodatkowe koszty postępowania, można obciążyć tymi kosztami; dopuszczalne jest obciążenie kosztami kilku osób solidarnie. Żołnierza odbywającego zasadniczą służbę wojskową oraz pełniącego służbę w charakterze kandydata na żołnierza zawodowego nie obciąża się tymi kosztami. ” ;
+
+- **8)** art. 378 otrzymuje brzmienie: „
+
+**Art. 378.**
+
+§ 1. Jeżeli w sprawie, w której oskarżony musi mieć obrońcę i korzysta z obrony z wyboru, obrońca lub oskarżony wypowiada stosunek obrończy, prezes sądu lub sąd wyznacza obrońcę z urzędu, o ile oskarżony nie powołał obrońcy z wyboru. W razie potrzeby rozprawę przerywa się lub odracza.
+
+§ 2. W sprawie, w której oskarżony korzysta z obrońcy z urzędu, sąd na uzasadniony wniosek obrońcy lub oskarżonego zwalnia obrońcę z jego obowiązków i wyznacza oskarżonemu innego obrońcę z urzędu.
+
+§ 3. W wypadkach określonych w § 1 i 2 sąd podejmuje zarazem decyzję, czy dotychczasowy obrońca może bez uszczerbku dla prawa oskarżonego do obrony pełnić obowiązki do czasu podjęcia obrony przez nowego obrońcę. ” .
+
+**Art. 2.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058, z późn. zm.) w art. 90 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. W wypadku określonym w ust. 2 Ministrowi Sprawiedliwości przysługują prawa strony. ” .
+
+**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059, z późn. zm.) w art. 681 po ust. 1a dodaje się ust. 1b w brzmieniu: „ 1b. W wypadku określonym w ust. 1a Ministrowi Sprawiedliwości przysługują prawa strony. ” .
+
+**Art. 4.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 51.**
+
+§ 1. Zarządzenia porządkowe przewodniczącego oraz kary porządkowe wymierzane przez sąd nie mają zastosowania do sędziów i ławników należących do składu orzekającego oraz do prokuratora, radcy Prokuratorii Generalnej Skarbu Państwa biorących udział w sprawie, a także osób, do udziału których w sprawie stosuje się przepisy o prokuratorze.
+
+§ 2. Do obrońcy i pełnomocnika, będącego adwokatem lub aplikantem adwokackim, uprawnionym do występowania przed sądem na podstawie przepisów ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058, z późn. zm.), albo radcą prawnym lub aplikantem radcowskim, uprawnionym do występowania przed sądem na podstawie przepisów ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059, z późn. zm.), biorącego udział w sprawie nie stosuje się kary pozbawienia wolności, o której mowa w art. 49 § 1 i w art. 50 § 3. ” .
+
+**Art. 5.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 106, poz. 1148, z późn. zm.) art. 8 otrzymuje brzmienie: „
+
+**Art. 8.** W postępowaniu uregulowanym w niniejszym kodeksie stosuje się odpowiednio przepisy art. 2, 4, 5, 7–9, 13, 14, art. 15 § 2 i 3, art. 16, art. 18 § 2, art. 20 i 23 Kodeksu postępowania karnego. ” .
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

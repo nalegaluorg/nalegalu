@@ -8,9 +8,10 @@ pos: 1221
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# 1220 ROZPORZÑDZENIE MINISTRA OBRONY NARODOWEJ 22 września zmieniające rozporządzenie sprawie trybu wyznaczania żołnierzy zawodowych na stanowiska służbowe zwalniania tych stanowisk Na podstawie art. 46 ust. 11 września 2003 osłużbie wojskowej żołnierzy zawodowych (Dz. 179, 1750, póên. zm.
+# Wyrok Trybunału Konstytucyjnegoz dnia 18 września 2006 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,29 +25,38 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061701221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1221/text.pdf) |
 
-oraz 2005 266, 2241) § 20 dodaje się ust. 3 brzmieniu: ) zarządza się, co Ń3. Do limitu stanowisk żołnierzy zawodowych pozonastępuje: stających rezerwie kadrowej, o którym mowa § 1. Wrozporządzeniu Ministra Obrony Narodowej ust. 2, nie wlicza się żołnierzy zawodowych 15 kwietnia 2004 sprawie trybu wyznacza- pełniących do 30 września zawodową nia żołnierzy zawodowych na stanowiska służbowe służbę wojskową Wojskowych Służbach Inforizwalniania ztych stanowisk (Dz. 108, 1144 macyjnych.”.
-§ 2. Rozporządzenie wchodzi wżycie zdniem ogłoszenia.
-Minister Obrony Narodowej: R. Sikorski WYROK TRYBUNAĘU KONSTYTUCYJNEGO 18 września sygn. akt K 27/05 Trybunał Konstytucyjny składzie: Andrzej Mączyński przewodniczący, Adam Jamróz, Wiesław Johann, Marek Mazurkiewicz sprawozdawca, Mirosław Wyrzykowski, ——————— neralnego, na rozprawie dniach 14 18 września r., wniosku Rady Miejskiej Ęodzi o zbadanie zgodności:
-1) art. pkt 17 lit. h 15 lipca 2004 o zmianie Karta Nauczyciela oraz o zmianie niektórych innych ustaw (Dz. 179,
-1845) art. 2, art. 70, art. 165 art. 167 ust.
-związku art. 166 ust. Konstytucji oraz art. 3 ust. iart. 9 ust. i2 Europejskiej Karty Samorządu Terytorialnego, sporządzonej Strasburgu 15 paêdziernika 1985 (Dz. 1994 po rozpoznaniu, udziałem wnioskodawcy oraz 124, 607), a także art. 9 art. 91 ust. 2 Sejmu, Ministra Edukacji Narodowej iProkuratora Ge- związku art. 241 ust. Konstytucji,
-2) art. 28 ust. 6 13 listopada 2003 o dochodach jednostek samorządu terytorialnego (Dz. 203, 1966) art. 2, art. 70, art. 92 ust. 1, a także art. 165 art. 167 ust. związku zart. 166 ust. Konstytucji oraz art. 3 ust. iart. 9 ust. i2 Europejskiej Karty Samorządu Terytorialnego, a także art. 9 art. 91 ust. 2 związku art. 241 ust. Konstytucji,
-3) rozporządzenia Ministra Edukacji Narodowej iSportu zdnia 28 grudnia 2004 wsprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego roku 2005 (Dz. 286, 2878) oraz rozporządzenia Ministra Edukacji Nauki 22 grudnia 2005 sprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego roku (Dz. 266, 2231) art. 30 ust. 8 26 stycznia 1982 Karta Nauczyciela (Dz. 2003 118, 1112, ze zm.), art. 5a zdnia 7 września 1991 osystemie oświaty (Dz. z2004 256, 2572, ze zm.) oraz art. 28 ust. 5 zdnia 13 listopada 2003 o dochodach jednostek samorządu terytorialnego związku art. 32, art. 70 oraz art. 167 ust. Konstytucji, orzeka:
-1. Art. pkt 17 lit. h 15 lipca 2004 ozmianie Karta Nauczyciela oraz ozmianie niektórych innych ustaw (Dz. 179, 1845):
-a) jest zgodny art. 2, art. 9, art. 70, art. 165, art. 166 ust. art. 167 ust. Konstytucji Rzeczypospolitej Polskiej,
-b) jest zgodny zart. 3 ust. oraz art. 9 ust. i2 Europejskiej Karty Samorządu Lokalnego, sporządzonej Strasburgu 15 paêdziernika 1985 (Dz. 1994 124, 607 oraz 154, 1107),
-c) nie jest niezgodny art. 91 ust. 2 art. 241 ust. Konstytucji.
-2. Art. 28 ust. 6 13 listopada 2003 o dochodach jednostek samorządu terytorialnego (Dz. 203, 1966 oraz 2005 249,
-2104):
-a) jest zgodny art. 2, art. 9, art. 70, art. 92 ust. 1, art. 165, art. 166 ust. iart. 167 ust. Konstytucji,
-b) jest zgodny zart. 3 ust. oraz art. 9 ust. i2 Europejskiej Karty Samorządu Lokalnego,
-c) nie jest niezgodny art. 91 ust. 2 art. 241 ust. Konstytucji.
-3. Rozporządzenia Ministra Edukacji Nauki 22 grudnia 2005 sprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego roku (Dz. 266,
-2231) jest zgodne:
-a) art. 30 ust. 8 26 stycznia 1982 Karta Nauczyciela (Dz. z2006 97, 674),
-b) art. 5a 7 września 1991 o systemie oświaty (Dz. 2004 256, 2572, 273, 2703 281, 2781, 2005 17, 141, 94, 788, 122, 1020, 131, 1091, 167, 1400 249, 2104 oraz 144, 1043),
-c) art. 28 ust. 5 13 listopada 2003 o dochodach jednostek samorządu terytorialnego wzwiązku zart. 32, art. 70 oraz art. 167 ust. Konstytucji.
-Ponadto postanawia: na podstawie art. 39 ust. pkt 3 sierpnia 1997 oTrybunale Konstytucyjnym (Dz.
-102, 643, 2000 48, 552 53, 638, 2001 98, 1070 oraz 2005 169, 1417) umorzyć postępowanie zakresie dotyczącym badania zgodności rozporządzenia Ministra Edukacji Narodowej Sportu 28 grudnia 2004 wsprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego roku 2005 (Dz. 286, 2878 oraz 2005 242, 2039) powodu utrata mocy obowiązującej tego rozporządzenia.
-Andrzej Mączyński Adam Jamróz Wiesław Johann Marek Mazurkiewicz Mirosław Wyrzykowski 1222 WYROK TRYBUNAĘU KONSTYTUCYJNEGO 18 września sygn. akt SK 15/05 Trybunał Konstytucyjny składzie: Wiesław Johann, Marek Mazurkiewicz sprawozdawca, Jerzy Stępień przewodniczący, Bohdan Zdziennicki, Teresa Dębowska-Romanowska,
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Mączyński – przewodniczący, Adam Jamróz, Wiesław Johann, Marek Mazurkiewicz – sprawozdawca, Mirosław Wyrzykowski, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu, Ministra Edukacji Narodowej i Prokuratora Generalnego, na rozprawie w dniach 14 i 18 września 2006 r., wniosku Rady Miejskiej w Łodzi o zbadanie zgodności:
+1)
+art. 1 pkt 17 lit. h ustawy z dnia 15 lipca 2004 r. o zmianie ustawy – Karta Nauczyciela oraz o zmianie niektórych innych ustaw (Dz. U. Nr 179, poz. 1845) z art. 2, art. 70, art. 165 i art. 167 ust. 1 w związku z art. 166 ust. 1 Konstytucji oraz art. 3 ust. 1 i art. 9 ust. 1 i 2 Europejskiej Karty Samorządu Terytorialnego, sporządzonej w Strasburgu dnia 15 października 1985 r. (Dz. U. z 1994 r. Nr 124, poz. 607), a także z art. 9 i art. 91 ust. 2 w związku z art. 241 ust. 1 Konstytucji,
+2)
+art. 28 ust. 6 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. Nr 203, poz. 1966) z art. 2, art. 70, art. 92 ust. 1, a także z art. 165 i art. 167 ust. 1 w związku z art. 166 ust. 1 Konstytucji oraz art. 3 ust. 1 i art. 9 ust. 1 i 2 Europejskiej Karty Samorządu Terytorialnego, a także z art. 9 i art. 91 ust. 2 w związku z art. 241 ust. 1 Konstytucji,
+3)
+rozporządzenia Ministra Edukacji Narodowej i Sportu z dnia 28 grudnia 2004 r. w sprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego w roku 2005 (Dz. U. Nr 286, poz. 2878) oraz rozporządzenia Ministra Edukacji i Nauki z dnia 22 grudnia 2005 r. w sprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego w roku 2006 (Dz. U. Nr 266, poz. 2231) z art. 30 ust. 8 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2003 r. Nr 118, poz. 1112, ze zm.), art. 5a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, ze zm.) oraz art. 28 ust. 5 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego w związku z art. 32, art. 70 oraz art. 167 ust. 1 Konstytucji,
+orzeka:
+1.
+Art. 1 pkt 17 lit. h ustawy z dnia 15 lipca 2004 r. o zmianie ustawy – Karta Nauczyciela oraz o zmianie niektórych innych ustaw (Dz. U. Nr 179, poz. 1845):
+a)
+jest zgodny z art. 2, art. 9, art. 70, art. 165, art. 166 ust. 1 i art. 167 ust. 1 Konstytucji Rzeczypospolitej Polskiej,
+b)
+jest zgodny z art. 3 ust. 1 oraz art. 9 ust. 1 i 2 Europejskiej Karty Samorządu Lokalnego, sporządzonej w Strasburgu dnia 15 października 1985 r. (Dz. U. z 1994 r. Nr 124, poz. 607 oraz z 2006 r. Nr 154, poz. 1107),
+c)
+nie jest niezgodny z art. 91 ust. 2 i art. 241 ust. 1 Konstytucji.
+2.
+Art. 28 ust. 6 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. Nr 203, poz. 1966 oraz z 2005 r. Nr 249, poz. 2104):
+a)
+jest zgodny z art. 2, art. 9, art. 70, art. 92 ust. 1, art. 165, art. 166 ust. 1 i art. 167 ust. 1 Konstytucji,
+b)
+jest zgodny z art. 3 ust. 1 oraz art. 9 ust. 1 i 2 Europejskiej Karty Samorządu Lokalnego,
+c)
+nie jest niezgodny z art. 91 ust. 2 i art. 241 ust. 1 Konstytucji.
+3.
+Rozporządzenia Ministra Edukacji i Nauki z dnia 22 grudnia 2005 r. w sprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego w roku 2006 (Dz. U. Nr 266, poz. 2231) jest zgodne:
+a)
+z art. 30 ust. 8 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674),
+b)
+z art. 5a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104 oraz z 2006 r. Nr 144, poz. 1043),
+c)
+z art. 28 ust. 5 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego w związku z art. 32, art. 70 oraz art. 167 ust. 1 Konstytucji.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 3 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie w zakresie dotyczącym badania zgodności rozporządzenia Ministra Edukacji Narodowej i Sportu z dnia 28 grudnia 2004 r. w sprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego w roku 2005 (Dz. U. Nr 286, poz. 2878 oraz z 2005 r. Nr 242, poz. 2039) z powodu utrata mocy obowiązującej tego rozporządzenia.
 

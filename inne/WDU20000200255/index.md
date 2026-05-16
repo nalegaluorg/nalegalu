@@ -8,9 +8,10 @@ pos: 255
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybuna∏ Konstytucyjny wsk∏adzie: Lech Garlicki — przewodniczàcy, Stefan J. Jaworski — sprawozdawca, Biruta Lewaszkiewicz-Petrykowska, Andrzej Màczyƒski, Ferdynand Rymarz, po rozpoznaniu wdniu 21 marca 2000 r. na rozprawie sprawy z wniosku Rady Gminy Rutka Tartak, zudzia∏em umocowanych przedstawicieli uczestników post´powania: wnioskodawcy, Sejmu RzeczypospoliDziennik Ustaw Nr 20 — 1251 tej Polskiej, Ministra Ârodowiska, Ministra Skarbu Paƒstwa i Prokuratora Generalnego, o stwierdzenie niezgodnoÊci przepisów art. 1 iart. 4 ustawy zdnia 24 paêdziernika 1974 r. — Prawo wodne zart. 21 iart. 64 ust.2 wzw. zart. 165 ust. 1 Konstytucji RP, 255 WYROK TRYBUNA¸U zdnia 21 marca sygn. akt 256 OBWIESZCZENIE PREZESA TRYBUNA¸U zdnia 5 maja outracie mocy obowiàzujàcej art. 22 ust. 4 ustawy zdnia Na podstawie art. 89 ust. 4 ustawy zdnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643) w zwiàzku z wyrokiem Trybuna∏u Konstytucyjnego z dnia 6 paêdziernika 1998 r., sygn. K. 36/97, og∏aszam utrat´ mocy obowiàzujàcej art. 22 ust. 4 ustawy z dnia 24 kwietnia 1997 r. o przeciwdzia∏aniu
+# Wyrok Trybunału Konstytucyjnegoz dnia 21 marca 2000 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,4 +23,7 @@ domain: null
 | Data ogłoszenia | 2000-03-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000200255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/255/text.pdf) |
+
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Lech Garlicki – przewodniczący, Stefan J. Jaworski – sprawozdawca, Biruta Lewaszkiewicz-Petrykowska, Andrzej Mączyński, Ferdynand Rymarz, protokolant: Joanna Szymczak, po rozpoznaniu w dniu 21 marca 2000 r. na rozprawie sprawy z wniosku Rady Gminy Rutka Tartak, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej, Ministra Środowiska, Ministra Skarbu Państwa i Prokuratora Generalnego, o stwierdzenie niezgodności przepisów art. 1 i art. 4 ustawy z dnia 24 października 1974 r. – Prawo wodne z art. 21 i art. 64 ust. 2 w zw. z art. 165 ust. 1 Konstytucji RP, orzeka: Art. 1 i art. 4 ustawy z dnia 24 października 1974 r. – Prawo wodne (Dz. U. Nr 38, poz. 230, z 1980 r. Nr 3, poz. 6, z 1983 r. Nr 44, poz. 201, z 1989 r. Nr 26, poz. 139 i Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i Nr 39, poz. 222, z 1991 r. Nr 32, poz. 131 i Nr 77, poz. 335, z 1993 r. Nr 40, poz. 183, z 1994 r. Nr 27, poz. 96, z 1995 r. Nr 47, poz. 243, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 47, poz. 299, Nr 88, poz. 554 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668 oraz z 2000 r. Nr 12, poz. 136) nie są niezgodne z art. 21 i art. 64 ust. 2 w związku z art. 165 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
 

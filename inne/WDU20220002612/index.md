@@ -8,11 +8,10 @@ pos: 2612
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# poz. 765), uwzględnieniem zmian wprowadzonych ustawą 22 lipca usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846) oraz zmian wynikających przepisów ogłoszonych przed 24 listopada
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 24 listopada sprawie ogłoszenia jednolitego tekstu przekształceniach własnościowych przemyśle cukrowniczym Na podstawie 16 1 zdanie pierwsze lipca 2000 ogłaszaniu aktów normatywnych i nieinnych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 26 1994 przekształceniach własnościowych przemyśle cukrowniczym (Dz. U.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 24 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przekształceniach własnościowych w przemyśle cukrowniczym
 
 | Pole | Wartość |
 |---|---|
@@ -26,53 +25,90 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002612) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2612/text.pdf) |
 
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje 55 22 lipca usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846), który stanowi: „Art. 55. Ustawa wchodzi życie po upływie miesiąca od ogłoszenia, wyjątkiem 18 pkt 1–3 i 6, i 35, które wchodzą życie następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: E. Witek 1a. Użyte ustawie określenia oznaczają:
-1)
-2)
-3) uprawnieni pracownicy:
-a) osoby fizyczne będące dniu wykreślenia rejestru przedsiębiorstwa państwowego przekształconego spółkę pracownikami tego przedsiębiorstwa państwowego, a także osoby, które dniu wykreślenia przedsiębiorstwa państwowego rejestru przedsiębiorstw państwowych były stroną umowy zarządzanie przedsiębiorstwem państwowym, zawartej na podstawie przepisów rozdziału 8a 25 1981 przedsiębiorstwach państwowych (Dz. U. 2021 poz. 1317 oraz poz. 1846), oraz ich następców prawnych,
-b) osoby, które przepracowały przekształcanym przedsiębiorstwie co najmniej dziesięć lat, a rozwiązanie stosunku pracy nastąpiło wskutek przejścia na emeryturę lub rentę albo przyczyn określonych 1 1 28 grudnia 1989 szczególnych zasadach rozwiązywania pracownikami stosunków pracy przyczyn dotyczących zakładu pracy oraz zmianie niektórych ustaw (Dz. U. 1990 poz. 19, 2000 poz. 136 oraz 2002 poz. 556), oraz ich następców prawnych,
-4) plantatorzy buraka cukrowego rolników, ich następców prawnych oraz przedsiębiorców, którzy okresie pięciu lat przed wykreśleniem przedsiębiorstwa państwowego rejestru przedsiębiorstw państwowych dostarczyli do tego przedsiębiorstwa, prowadzonych gospodarstw rolnych, co najmniej 50 ton korzeni buraka cukrowego,
-5)
-6)
-7) Krajowa Spółka Cukrowa spółkę, której mowa ustawie, każdorazowo zgodnie aktualnym brzmieniem jej firmy.
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym (Dz. U. z 2022 r. poz. 765), z uwzględnieniem zmian wprowadzonych ustawą z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 listopada 2022 r.
 2.
-3.
-4.
-4a.
-5.
-6. Przekształceń Własnościowych zawiąże, imieniu Państwa, cztery jednoosobowe spółki akcyjne Państwa, zwane dalej „Spółkami Cukrowymi”.
-2. Uprawnienia jako założyciela i akcjonariusza Spółek Cukrowych wykonuje Przekształceń Własnościowych, tym że ustalenie statutów tych następuje porozumieniu Ministrem Rolnictwa i Gospodarki Żywnościowej.
-3. Członków rad nadzorczych Spółek Cukrowych powołuje i odwołuje Przekształceń Własnościowych, tym że po 1/5 składu rady nadzorczej Spółki Cukrowej wybierają członkowie rad nadzorczych jednoosobowych Państwa, akcje zostały wniesione do tej Spółki Cukrowej, wybrani przez pracowników i plantatorów buraka cukrowego.
-4. W jednoosobowych spółkach Państwa, akcje zostały wniesione do Spółek Cukrowych, pracownicy spółki i plantatorzy buraka cukrowego związani tymi spółkami umowami kontraktacyjnymi wybierają po 1/5 składu rady nadzorczej.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 55 ustawy z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846), który stanowi:
+„
+
+**Art. 55.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 18 pkt 1–3 i 6, art. 20 i art. 35, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym
+
+**Art. 1.** (uchylony) Użyte w ustawie określenia oznaczają:
+
+**Art. 2.** (uchylony)
+
+**Art. 3.** (uchylony)
+
+**Art. 4.** (uchylony) (uchylony)
+
+**Art. 5.** (uchylony)
+
+**Art. 6.**
+
+1. Minister Przekształceń Własnościowych zawiąże, w imieniu Skarbu Państwa, cztery jednoosobowe spółki akcyjne Skarbu Państwa, zwane dalej „Spółkami Cukrowymi”.
+
+2. Uprawnienia Skarbu Państwa jako założyciela i akcjonariusza Spółek Cukrowych wykonuje Minister Przekształceń Własnościowych, z tym że ustalenie statutów tych spółek następuje w porozumieniu z Ministrem Rolnictwa i Gospodarki Żywnościowej.
+
+3. Członków rad nadzorczych Spółek Cukrowych powołuje i odwołuje Minister Przekształceń Własnościowych, z tym że po 1/5 składu rady nadzorczej Spółki Cukrowej wybierają członkowie rad nadzorczych jednoosobowych spółek Skarbu Państwa, których akcje zostały wniesione do tej Spółki Cukrowej, wybrani przez pracowników i plantatorów buraka cukrowego.
+
+4. W jednoosobowych spółkach Skarbu Państwa, których akcje zostały wniesione do Spółek Cukrowych, pracownicy spółki i plantatorzy buraka cukrowego związani z tymi spółkami umowami kontraktacyjnymi wybierają po 1/5 składu rady nadzorczej.
+
+5. Z zastrzeżeniem ust. 6 rady nadzorcze, o których mowa w ust. 3 i 4, liczą 5 osób.
+
+6. Do czasu powołania przez pracowników i plantatorów do rad nadzorczych członków, o których mowa w ust. 3 i 4, rady nadzorcze funkcjonują w składzie powołanym przez walne zgromadzenia.
+
+7. Po zbyciu przez Skarb Państwa ponad połowy akcji spółki postanowienia statutu w zakresie powoływania i odwoływania członków rady nadzorczej mogą być zmienione, z tym że pracownicy i plantatorzy zachowują prawo wyboru.
+
+**Art. 7.**
+
+1. Kapitał akcyjny Spółek Cukrowych Skarbu Państwa pokryje wkładami niepieniężnymi w postaci 51% akcji jednoosobowych spółek Skarbu Państwa powstałych w wyniku przekształcenia przedsiębiorstw państwowych.
+
 1a. Kapitał akcyjny Spółek Cukrowych może być pokryty wkładem pieniężnym.
-1b. Wartość wkładów niepieniężnych do Spółek Cukrowych, czasie gdy Skarb jest ich jedynym akcjonariuszem, jest równa sumie wartości wnoszonych akcji.
-1c. Wartość wnoszonej akcji ustala się jako iloraz wartości księgowej netto jednoosobowej spółki i liczby akcji określonej statucie chwili wniesienia tych akcji do Spółki Cukrowej.
-1d. Wartość księgową netto jednoosobowej spółki ustala się na podstawie ostatniego bilansu zbadanego przez biegłego rewidenta i zatwierdzonego przez Walne Zgromadzenie Akcjonariuszy, uwzględnieniem skutków ostatniej aktualizacji wyceny środków trwałych.
-1e. wkładów wnoszonych przez Skarb do Spółek Cukrowych, Skarb pozostaje jedynym akcjonariuszem, nie stosuje się przepisów 312, 313 i 315 Kodeksu handlowego .
-1f. Wartość akcji jednoosobowych wnoszonych do Spółek Cukrowych stanowi podstawę obliczenia wartości akcji nabywanych nieodpłatnie przez osoby uprawnione.
-2. Rada Ministrów określi, drodze rozporządzenia, jednoosobowe spółki oraz przedsiębiorstwa państwowe podlegające przekształceniu jednoosobowe spółki Państwa, akcje zostaną wniesione do Spółek Cukrowych.
-8. Uprawnionym pracownikom przysługuje prawo do nieodpłatnego nabycia 15% należących do akcji spółki.
-2. Uprawnieni pracownicy nabywają akcje proporcjonalnie do liczby lat przepracowanych przedsiębiorstwie państwowym i spółce powstałej wyniku przekształcenia.
-3. Plantatorom przysługuje prawo do nieodpłatnego nabycia 15% należących do akcji spółki.
-4. Uprawnienie do nabycia akcji, mowa 1 i 3, powstaje wniesienia do Spółek Cukrowych akcji jednoosobowych powstałych wyniku przekształcenia przedsiębiorstw państwowych.
-5. Plantatorzy mogą skorzystać prawa do nabycia akcji nieodpłatnie, ile ciągu 6 miesięcy od otrzymania pisemnego powiadomienia nabyciu uprawnień złożą pisemne oświadczenie zamiarze nabycia akcji. Niezłożenie oświadczenia terminie powoduje utratę prawa do nieodpłatnego nabycia akcji.
-6. Każdemu uprawnionemu plantatorowi przysługuje prawo nabycia akcji równej liczbie.
-7. Akcje nabyte nieodpłatnie przez pracowników i plantatorów, mowa 1 i 3, nie mogą być zbyte przed upływem trzech lat od ich nabycia.
-8. określi, drodze rozporządzenia, szczegółowy tryb nabywania akcji przez uprawnionych pracowników.
-9. Rolnictwa i Gospodarki Żywnościowej określi, drodze rozporządzenia, szczegółowy tryb nabywania akcji przez uprawnionych plantatorów oraz sposób wyłaniania przedstawiciela plantatorów do podejmowania czynności, mowa ustawie.
-9. Rada Ministrów terminie do 31 grudnia 1994 na wniosek Ministra Przekształceń Własnościowych porozumieniu Ministrem Rolnictwa i Gospodarki Żywnościowej określi, drodze rozporządzenia, zasady i harmonogram programu prywatyzacji Spółek Cukrowych.
-trybie 492 § 1 pkt 1 Kodeksu handlowych tej spółki ze spółkami, których:
-1) Krajowa Spółka Cukrowa posiada 100% akcji,
-2) Skarb i Krajowa Spółka Cukrowa wykonują łącznie i bez ograniczeń prawa co najmniej 75% akcji.
-11b. właściwy do spraw Państwa, działający imieniu Państwa, wniesie na podwyższenie kapitału Krajowej Spółki Cukrowej wszystkie będące posiadaniu akcje Spółek Cukrowych utworzonych na podstawie 6 1 oraz akcje spółek, mowa 7 2, które nie podlegały połączeniu Krajową Spółką Cukrową. rozporządzania akcjami cukrowni polegającego na wniesieniu ich na podwyższenie kapitału Krajowej Spółki Cukrowej nie stosuje się przepisów 30 1996 komercjalizacji i prywatyzacji .
-2. Rada Ministrów określi, drodze rozporządzenia, program prywatyzacji Krajowej Spółki Cukrowej oraz tryb zbywania akcji wyłącznie dla plantatorów buraków cukrowych związanych umowami kontraktacji buraków cukrowych Krajową Spółką Cukrową i pracowników Krajowej Spółki Cukrowej. Zapłata za akcje może być dokonywana ratach. zbywania akcji nie stosuje się przepisów ustawy, której mowa
-3. Plantatorzy buraków cukrowych i pracownicy przemysłu cukrowniczego, miejsce uprawnień do nieodpłatnego nabycia akcji uzyskanych na podstawie 8, nabywają odpowiednio prawo do nieodpłatnego nabycia akcji Krajowej Spółki Cukrowej. Przepisy Kodeksu handlowych zamianie akcji stosuje się odpowiednio.
-4. Akcje nabyte trybie określonym przepisach wydanych na podstawie 2 lub akcje bez wyłączonego prawa głosu mogą być zbywane wyłącznie innym plantatorom buraków cukrowych związanych umowami kontraktacji buraków cukrowych Krajową Spółką Cukrową i pracownikom Krajowej Spółki Cukrowej albo mogą być nabyte przez Krajową Spółkę Cukrową celu umorzenia. Akcje nowych emisji Krajowej Spółki Cukrowej bez wyłączonego prawa głosu mogą obejmować wyłącznie Skarb Państwa, Krajowy Ośrodek Wsparcia Rolnictwa jako mienie własne lub jako mienie wchodzące skład Zasobu Własności Rolnej Państwa, plantatorzy buraków cukrowych związani umowami kontraktacji buraków cukrowych Krajową Spółką Cukrową lub pracownicy Krajowej Spółki Cukrowej. Inne osoby mogą obejmować akcje nowych emisji Krajowej Spółki Cukrowej wyłącznie formie akcji wyłączonym prawem głosu.
-11c. Z chwilą zakończenia postępowań sądowych stosunku do Śląskiej Spółki Cukrowej oraz pozostałych cukrowni będących sporze, akcje tych zostaną wniesione na podwyższenie kapitału Krajowej Spółki Cukrowej.
-12. (pominięty)
-13.
-13a. Jeżeli przed wejścia życie Skarb rozpoczął udostępnianie akcji na zasadach preferencyjnych, nabywanie przez uprawnionych pracowników i plantatorów akcji powstałych wyniku przekształcenia przedsiębiorstw państwowych odbywa się na zasadach określonych przepisach dotychczasowych.
-14. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia .
+
+1b. Wartość wkładów niepieniężnych Skarbu Państwa do Spółek Cukrowych, w czasie gdy Skarb Państwa jest ich jedynym akcjonariuszem, jest równa sumie wartości wnoszonych akcji.
+
+1c. Wartość wnoszonej akcji ustala się jako iloraz wartości księgowej netto jednoosobowej spółki Skarbu Państwa i liczby akcji określonej w statucie w chwili wniesienia tych akcji do Spółki Cukrowej.
+
+1d. Wartość księgową netto jednoosobowej spółki Skarbu Państwa ustala się na podstawie ostatniego bilansu zbadanego przez biegłego rewidenta i zatwierdzonego przez Walne Zgromadzenie Akcjonariuszy, z uwzględnieniem skutków ostatniej aktualizacji wyceny środków trwałych.
+
+1e. Do wkładów wnoszonych przez Skarb Państwa do Spółek Cukrowych, w których Skarb Państwa pozostaje jedynym akcjonariuszem, nie stosuje się przepisów art. 312, 313 i 315 Kodeksu handlowego.
+
+1f. Wartość akcji jednoosobowych spółek Skarbu Państwa wnoszonych do Spółek Cukrowych stanowi podstawę obliczenia wartości akcji nabywanych nieodpłatnie przez osoby uprawnione.
+
+2. Rada Ministrów określi, w drodze rozporządzenia, jednoosobowe spółki Skarbu Państwa oraz przedsiębiorstwa państwowe podlegające przekształceniu w jednoosobowe spółki Skarbu Państwa, których akcje zostaną wniesione do Spółek Cukrowych.
+
+**Art. 8.**
+
+1. Uprawnionym pracownikom przysługuje prawo do nieodpłatnego nabycia 15% należących do Skarbu Państwa akcji spółki.
+
+2. Uprawnieni pracownicy nabywają akcje proporcjonalnie do liczby lat przepracowanych w przedsiębiorstwie państwowym i spółce powstałej w wyniku przekształcenia.
+
+3. Plantatorom przysługuje prawo do nieodpłatnego nabycia 15% należących do Skarbu Państwa akcji spółki.
+
+4. Uprawnienie do nabycia akcji, o których mowa w ust. 1 i 3, powstaje z dniem wniesienia do Spółek Cukrowych akcji jednoosobowych spółek Skarbu Państwa powstałych w wyniku przekształcenia przedsiębiorstw państwowych.
+
+5. Plantatorzy mogą skorzystać z prawa do nabycia akcji nieodpłatnie, o ile w ciągu 6 miesięcy od otrzymania pisemnego powiadomienia o nabyciu uprawnień złożą pisemne oświadczenie o zamiarze nabycia akcji. Niezłożenie oświadczenia w terminie powoduje utratę prawa do nieodpłatnego nabycia akcji.
+
+6. Każdemu uprawnionemu plantatorowi przysługuje prawo nabycia akcji w równej liczbie.
+
+7. Akcje nabyte nieodpłatnie przez pracowników i plantatorów, o których mowa w ust. 1 i 3, nie mogą być zbyte przed upływem trzech lat od dnia ich nabycia.
+
+8. Minister Skarbu Państwa określi, w drodze rozporządzenia, szczegółowy tryb nabywania akcji przez uprawnionych pracowników.
+
+9. Minister Rolnictwa i Gospodarki Żywnościowej określi, w drodze rozporządzenia, szczegółowy tryb nabywania akcji przez uprawnionych plantatorów oraz sposób wyłaniania przedstawiciela plantatorów do podejmowania czynności, o których mowa w ustawie.
+
+**Art. 9.** Rada Ministrów w terminie do dnia 31 grudnia 1994 r. na wniosek Ministra Przekształceń Własnościowych w porozumieniu z Ministrem Rolnictwa i Gospodarki Żywnościowej określi, w drodze rozporządzenia, zasady i harmonogram programu prywatyzacji Spółek Cukrowych.
+
+**Art. 10.** (uchylony)
+
+**Art. 11.** Do Spółek Cukrowych i jednoosobowych spółek Skarbu Państwa, których akcje zostaną wniesione do tych Spółek, stosuje się przepisy Kodeksu handlowego, z wyłączeniem art. 312, 313 i 315 Kodeksu handlowego, oraz przepisy ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych, z wyjątkiem przepisów działu IV rozdziału 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowychw zakresie nieodpłatnego udostępniania akcji uprawnionym pracownikom i plantatorom. Po utworzeniu Krajowej Spółki Cukrowej minister właściwy do spraw Skarbu Państwa spowoduje połączenie w trybie art. 492 § 1 pkt 1 Kodeksu spółek handlowych tej spółki ze spółkami, w których:
+
+**Art. 12.** (pominięty)
+
+**Art. 13.** (uchylony) Jeżeli przed dniem wejścia w życie ustawy Skarb Państwa rozpoczął udostępnianie akcji na zasadach preferencyjnych, nabywanie przez uprawnionych pracowników i plantatorów akcji spółek powstałych w wyniku przekształcenia przedsiębiorstw państwowych odbywa się na zasadach określonych w przepisach dotychczasowych.
+
+**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

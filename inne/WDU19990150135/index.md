@@ -8,9 +8,10 @@ pos: 135
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 lutego 1999r.
+# Ustawa z dnia 21 stycznia 1999 r. o zmianie ustawy o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990150135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/135/text.pdf) |
 
-Nr 15 Poz.: 135
-USTAWA z dnia 21 stycznia 1999 r.
-o zmianie ustawy o stosowaniu szczególnych w z skutków powodzi, która miejsce w lipcu 1997 r.
+**Art. 1.** W ustawie z dnia 17 lipca 1997 r. o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r. (Dz. U. Nr 80, poz. 491, Nr 107, poz. 692 i Nr 160, poz. 1087), w art. 16 w ust. 5 wyrazy „do dnia 30 czerwca 1998 r.” zastępuje się wyrazami „do dnia 31 grudnia 1999 r.”
 
-**Art. 1.** W ustawie z dnia 17 lipca 1997 r. o stosowa niu szczególnych w z skutków powodzi, która miejsce w lipcu 1997 r. (Dz. U. Nr 80, poz. 491, Nr 107, poz. 692 i Nr 160, poz. 1087), wart. 16 w ust. 5 wyrazy "do dnia 30 czerw ca 1998 r." wyrazami "do dnia 31 grudnia 1999 r."
-
-**Art. 2.** Ustawa wchodzi w z dniem i stosuje do przychodów uzyskanych po 30 czerwca 1998 r. Prezydent Rzeczypospolitej Polskiej: A. 136 USTAWA z dnia 22 stycznia 1999 r. o ratyfikacji Traktatu o zakazie prób przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 10 1996 r.
-
-**Art. 1.** Wyraża na dokonanie przez Prezy denta Rzeczypospolitej Polskiej ratyfikacji Traktatu o zakazie prób przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 10
-
-**Art. 2.** Ustawa wchodzi w 1996 r. po od dnia Prezydent Rzeczypospolitej Polskiej: A.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia i stosuje się do przychodów uzyskanych po dniu 30 czerwca 1998 r.
 

@@ -8,9 +8,10 @@ pos: 624
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 marca 2017 r.
+# Ustawa z dnia 10 lutego 2017 r.Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +25,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/624/text.pdf) |
 
-USTAWA z dnia 10 lutego 2017 r.
-Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
-
 **Art. 1.** Ustawa z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 623) wchodzi w życie z dniem 1 września 2017 r.
 
 **Art. 2.** W ustawie z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2014 r. poz. 700 oraz z 2015 r. poz. 349) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2016 r. poz. 790, 996, 1159, 1948, 2175 i 2261) w art. 36 w ust. 8 pkt 19 otrzymuje brzmienie: „19) Krajowy Ośrodek Wsparcia Rolnictwa;”.
+**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2016 r. poz. 790, 996, 1159, 1948, 2175 i 2261) w art. 364wust. 8 pkt 19 otrzymuje brzmienie: „
 
 **Art. 4.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2016 r. poz. 617 i 1579) użyte w art. 3 ust. 1 pkt 4 lit. a i b oraz art. 6a ust. 8 we wprowadzeniu do wyliczenia, w różnym przypadku, wyrazy „Agencja Nieruchomości Rolnych” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”.
 
@@ -39,21 +37,25 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 **Art. 6.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2016 r. poz. 716, 1579 i 1923) użyte w art. 3 ust. 1 pkt 4 lit. a i ust. 2, art. 6 ust. 9 we wprowadzeniu do wyliczenia oraz art. 17a ust. 3 pkt 4 lit. a, w różnym przypadku, wyrazy „Agencja Nieruchomości Rolnych” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”.
 
-**Art. 7.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2015 r. poz. 2100, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2015 r. poz. 2100, z późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 38b.** Lasy Państwowe mogą, w drodze umowy zawartej z Krajowym Ośrodkiem Wsparcia Rolnictwa, przekazywać nieodpłatnie Krajowemu Ośrodkowi Wsparcia Rolnictwa lasy i grunty, na których nie jest możliwe prowadzenie racjonalnej gospodarki, stanowiące w szczególności enklawy i półenklawy wśród gruntów wchodzących do Zasobu Własności Rolnej Skarbu Państwa. ” .
 
 **Art. 8.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2016 r. poz. 1491 i 2260) wprowadza się następujące zmiany:
 
+**Art. 22.** Krajowy Ośrodek, za zgodą ministra właściwego do spraw rozwoju wsi, może wykorzystywać mienie Zasobu do ustanawiania zabezpieczeń zaciąganych zobowiązań finansowych, o których mowa w art. 15 ust. 1 ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa. Krajowy Ośrodek może w szczególności ustanowić hipotekę na nieruchomościach Zasobu. ” ;
+
 **Art. 9.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, 1926, 1933 i 1948 oraz z 2017 r. poz. 60) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw (Dz. U. poz. 82, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw (Dz. U. poz. 82, z późn. zm.) wprowadza się następujące zmiany:
 
 **Art. 11.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 207, 1948, 2003 i 2138) w art. 66 w pkt 1 w lit. d wyrazy „Prezesa Agencji Własności Rolnej Skarbu Państwa” zastępuje się wyrazami „Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa”.
 
 **Art. 12.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147 i 2260) wprowadza się następujące zmiany:
 
-**Art. 13.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 14.** W ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. poz. 983, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 14.** W ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. poz. 983, z późn. zm.) wprowadza się następujące zmiany:
 
 **Art. 15.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2016 r. poz. 1604, 1948, 1961 i 2007) w art. 17c w ust. 3 i 5 wyrazy „Prezes Agencji Rynku Rolnego” zastępuje się wyrazami „Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa”.
 
@@ -69,23 +71,55 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 **Art. 21.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2016 r. poz. 58) wprowadza się następujące zmiany:
 
-**Art. 22.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2016 r. poz. 401 i 1948 oraz z 2017 r. poz. 67) wprowadza się następujące zmiany:
+**Art. 27a.** Zadania określone w niniejszym rozdziale są wykonywane jako zadania delegowane Krajowemu Ośrodkowi zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa. ” ;
+
+**Art. 30a.** Zadania określone w niniejszym rozdziale są wykonywane jako zadania delegowane Krajowemu Ośrodkowi zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa. ” ;
 
 **Art. 23.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, 1583, 1948 i 2174 oraz z 2017 r. poz. 38 i 60) wprowadza się następujące zmiany:
+
+**Art. 134c.** Minister właściwy do spraw zabezpieczenia społecznego zatwierdza opracowane przez Krajowy Ośrodek procedury dokonywania czynności w ramach powierzonych Krajowemu Ośrodkowi zadań. ” ;
 
 **Art. 24.** W ustawie z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą (Dz. U. poz. 963, z 2005 r. poz. 115, z 2006 r. poz. 546 oraz z 2016 r. poz. 1228) wprowadza się następujące zmiany:
 
 **Art. 25.** W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2016 r. poz. 155 i 1579) wprowadza się następujące zmiany:
 
-**Art. 26.** W ustawie z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2016 r. poz. 356 i 1176 oraz z 2017 r. poz. 60) w art. 5 w ust. 2:
+**Art. 42.**
 
-**Art. 27.** W ustawie z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 2042 i 2260) w art. 16 w ust. 4 wyrazy „Agencja Nieruchomości Rolnych” zastępuje się wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”.
+1. Krajowy Ośrodek Wsparcia Rolnictwa wykonuje zadania i czynności państwa członkowskiego, właściwego organu państwa członkowskiego lub agencji interwencyjnej w zakresie określonym w rozporządzeniach, o których mowa w pkt 3, 6, 8 oraz 11–13 załącznika, w przepisach Unii Europejskiej wydanych w trybie tych rozporządzeń oraz w innych przepisach Unii Europejskiej dotyczących Wspólnej Polityki Rolnej w zakresie rynku mleka, chyba że ustawa lub przepisy odrębne stanowią inaczej.
+
+2. Zadania, o których mowa w ust. 1, są wykonywane jako zadania delegowane Krajowemu Ośrodkowi Wsparcia Rolnictwa zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa. ” ;
+
+- **4)** użyte w art. 43 ust. 1 we wprowadzeniu do wyliczenia, art. 45a oraz art. 46 ust. 16, w różnym przypadku, wyrazy „Prezes Agencji” zastępuje się użytymi w odpowiednim przypadku wyrazami „Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa”;
+- **5)** w art. 43 ust. 2 otrzymuje brzmienie: „
+
+2. Wnioski o wydanie świadectw autoryzacji, o których mowa w ust. 1, składa się do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa na formularzach opracowanych przez Krajowy Ośrodek Wsparcia Rolnictwa, udostępnionych na stronie internetowej Krajowego Ośrodka Wsparcia Rolnictwa. ” ;
+
+- **6)** użyty w art. 45b ust. 1 we wprowadzeniu do wyliczenia, art. 46 ust. 1 pkt 2, ust. 2, 8, 9 i 12 oraz art. 46a ust. 1 pkt 2, w różnym przypadku, wyraz „Agencja” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”;
+- **7)** w art. 46a uchyla się ust. 3;
+- **8)** w art. 48a w ust. 1, w ust. 2 we wprowadzeniu do wyliczenia i w ust. 3, w art. 48b w ust. 2 we wprowadzeniu do wyliczenia, w art. 48d w ust. 1, 4 i 7, w art. 48e w ust. 1 w części wspólnej, w ust. 4 we wprowadzeniu do wyliczenia i w ust. 5, w art. 48f we wprowadzeniu do wyliczenia, w art. 48g w ust. 1 i w ust. 2 we wprowadzeniu do wyliczenia, w art. 54o w ust. 1 oraz w art. 55 w ust. 4 wyraz „terenowego” zastępuje się wyrazem „regionalnego”;
+- **9)** w art. 49: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Dyrektor oddziału regionalnego Agencji przeprowadza kontrole:
+
+- **1)** pierwszych podmiotów skupujących mleko krowie w rozumieniu art. 151 rozporządzenia, o którym mowa w pkt 11 załącznika, obowiązanych do przekazywania informacji, o których mowa w art. 2a;
+- **2)** uznanych organizacji producentów i uznanych zrzeszeń organizacji producentów oraz uznanych organizacji międzybranżowych, w zakresie określonym w rozporządzeniu, o którym mowa w pkt 11 załącznika. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **b)**
+
+2a. Dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa przeprowadza kontrole podmiotów wymienionych w art. 43 i art. 45b, w zakresie wykonywania przez te podmioty obowiązków związanych z zakupem interwencyjnym i sprzedażą interwencyjną, dopłatami do przechowywania i konsumpcji przetworów mlecznych, w ramach realizacji zadań określonych w ustawie. ” , ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+
+3. Do kontroli, o których mowa w:
+
+- **1)** ust. 1 – stosuje się odpowiednio przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2016 r. poz. 401 i 1948 oraz z 2017 r. poz. 67 i 624);
+- **2)** ust. 2a – stosuje się odpowiednio przepisy ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 623). ” .
+
+**Art. 26.** W ustawie z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2016 r. poz. 356 i 1176 oraz z 2017 r. poz. 60) w art. 5 w ust. 2:
 
 **Art. 28.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2017 r. poz. 285) użyte w art. 3, art. 4 ust. 2, art. 30 ust. 1 we wprowadzeniu do wyliczenia, ust. 1a, ust. 1b we wprowadzeniu do wyliczenia, ust. 1c, ust. 2b we wprowadzeniu do wyliczenia i ust. 3–4a, art. 30a ust. 2 i 4, art. 31 ust. 1 we wprowadzeniu do wyliczenia, ust. 2 we wprowadzeniu do wyliczenia i ust. 3, art. 31a, art. 31b we wprowadzeniu do wyliczenia oraz art. 33 ust. 1 pkt 8 i 8b, ust. 9 pkt 1 i ust. 10, w różnym przypadku, wyrazy „Prezes Agencji Rynku Rolnego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa”.
 
-**Art. 29.** W ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2016 r. poz. 1928 i 1948) w art. 12 w ust. 2 w pkt 3 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”.
-
-**Art. 30.** W ustawie z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. z 2012 r. poz. 1065 oraz z 2016 r. poz. 1948) wprowadza się następujące zmiany:
+**Art. 29.** W ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2016 r. poz. 1928 i 1948) w art. 12 w ust. 2 w pkt 3 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”. W ustawie z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. z 2012 r. poz. 1065 oraz z 2016 r. poz. 1948) wprowadza się następujące zmiany:
 
 **Art. 31.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2016 r. poz. 1827) w art. 2 w ust. 1 w pkt 3 wyrazy „Agencję Rynku Rolnego w sprawach z zakresu wykonywania przez te agencje” zastępuje się wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa w sprawach z zakresu wykonywania przez te podmioty”.
 
@@ -95,45 +129,17 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 **Art. 34.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2016 r. poz. 1512 i 2048) wprowadza się następujące zmiany:
 
-**Art. 6b.** Agencja wykonuje zadania i czynności państwa członkowskiego, właściwego organu państwa członkowskiego lub agencji interwencyjnej w zakresie określonym przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm. ), przepisami Unii Europejskiej wydanymi w trybie tego rozporządzenia oraz innymi przepisami Unii Europejskiej dotyczącymi rynków rolnych w ramach Wspólnej Polityki Rolnej, chyba że ustawa lub przepisy odrębne stanowią inaczej.
-
-**Art. 6c.**
-
-1. Rada Ministrów, w przypadku gdy przepisy Unii Europejskiej dotyczące Wspólnej Polityki Rolnej określają obowiązek podjęcia działań lub przewidują możliwość realizacji uprawnień przez państwo członkowskie lub właściwy organ państwa członkowskiego, lub agencję płatniczą, lub agencję interwencyjną w zakresie rynków objętych Wspólną Polityką Rolną, może, w drodze rozporządzenia:
-
-- **1)** wyznaczyć Agencję jako jednostkę organizacyjną wykonującą określone obowiązki lub uprawnienia;
-- **2)** określić zadania realizowane przez Agencję, mające na celu wykonanie obowiązków lub uprawnień, o których mowa w pkt 1, lub sposób i tryb realizacji tych zadań.
-
-2. Wydając rozporządzenie, o którym mowa w ust. 1 pkt 1 lub 2, Rada Ministrów:
-
-- **1)** uwzględnia:
-    - **a)** zadania Agencji, jej możliwości organizacyjne, kadrowe i techniczne, a także zapewnienie sprawnego funkcjonowania obsługi administracyjnej mechanizmów Wspólnej Polityki Rolnej na terytorium Rzeczypospolitej Polskiej,
-    - **b)** uprawnienia podmiotów uczestniczących w mechanizmach administrowanych przez Agencję w zakresie Wspólnej Polityki Rolnej na terytorium Rzeczypospolitej Polskiej oraz możliwość zapewnienia szerokiego dostępu do udziału w tych mechanizmach,
-    - **c)** zakres udzielonej przez ministra właściwego do spraw finansów publicznych akredytacji dotyczącej płatności w ramach Wspólnej Polityki Rolnej;
-
-- **2)** kieruje się potrzebą zapewnienia skutecznego i efektywnego stosowania przepisów Unii Europejskiej dotyczących Wspólnej Polityki Rolnej na terytorium Rzeczypospolitej Polskiej.
-
-**Art. 6d.** W zakresie określonym przepisami Unii Europejskiej minister właściwy do spraw rynków rolnych jest organem właściwym do opracowania i przekazania Komisji Europejskiej, do zatwierdzenia, krajowego programu wsparcia pszczelarstwa.”;
-
-**Art. 10b.** Przepis art. 10a stosuje się również do postępowań w sprawach objętych zadaniami delegowanymi, o których mowa w art. 6 ust. 2.”;
-
 **Art. 35.** W ustawie z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych (Dz. U. z 2015 r. poz. 2122 oraz z 2016 r. poz. 2170) wprowadza się następujące zmiany:
 
 **Art. 36.** W ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2016 r. poz. 572, 1311, 1933 i 2260) w art. 74 wyrazy „zasobie Agencji Nieruchomości Rolnych” zastępuje się wyrazami „Zasobie Własności Rolnej Skarbu Państwa”.
 
 **Art. 37.** W ustawie z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. z 2016 r. poz. 859) wprowadza się następujące zmiany:
 
-**Art. 38.** W ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2017 r. poz. 278) wprowadza się następujące zmiany:
-
 **Art. 39.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2017 r. poz. 562) wprowadza się następujące zmiany:
 
 **Art. 40.** W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. poz. 478 i 2365 oraz z 2016 r. poz. 925, 1579 i 2260) wprowadza się następujące zmiany:
 
 **Art. 41.** W ustawie z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. poz. 1130 oraz z 2016 r. poz. 848 i 1948) wprowadza się następujące zmiany:
-
-**Art. 8.** Agencja płatnicza przesyła ministrowi właściwemu do spraw rozwoju wsi dane finansowe i informacje przekazane Komisji Europejskiej, w terminach i formie określonych w art. 7 ust. 3 rozporządzenia nr 1306/2013 oraz art. 3, art. 9, art. 10, art. 19–22 i art. 29 rozporządzenia nr 908/2014.”;
-
-**Art. 42.** W ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. poz. 195 i 1579 oraz z 2017 r. poz. 60 i 245) w art. 7 w ust. 8 wyrazy „Agencji Nieruchomości Rolnych” zastępuje się wyrazami „Krajowego Ośrodka Wsparcia Rolnictwa”.
 
 **Art. 43.** W ustawie z dnia 14 kwietnia 2016 r. o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw (Dz. U. poz. 585) wprowadza się następujące zmiany:
 
@@ -151,28 +157,28 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 - **1)** mienie Agencji Nieruchomości Rolnych staje się mieniem Krajowego Ośrodka Wsparcia Rolnictwa;
 - **2)** wierzytelności i zobowiązania Agencji Nieruchomości Rolnych stają się wierzytelnościami i zobowiązaniami Krajowego Ośrodka Wsparcia Rolnictwa;
-- **3)** Krajowy O ś rodek Wsparcia Rolnictwa staje si ę stron ą umów i porozumie ń , których stron ą jest Agencja Nieruchomo ś ci Rolnych;
-- **4)** na Krajowy O ś rodek Wsparcia Rolnictwa przechodz ą prawa i obowi ą zki wynikaj ą ce z:
-    - **a)** przepisów prawa, w tym wynikaj ą ce z art. 5 ustawy zmienianej w art. 8,
-    - **b)** decyzji, postanowień i innych aktów administracyjnych.
+- **3)** Krajowy Ośrodek Wsparcia Rolnictwa staje się stroną umów i porozumień, których stroną jest Agencja Nieruchomości Rolnych;
+- **4)** na Krajowy Ośrodek Wsparcia Rolnictwa przechodzą prawa i obowiązki wynikające z: przepisów prawa, w tym wynikające z art. 5 ustawy zmienianej w art. 8, decyzji, postanowień i innych aktów administracyjnych.
+    - **a)**
+    - **b)**
 
 2. Krajowy Ośrodek Wsparcia Rolnictwa z dniem 1 września 2017 r. z mocy prawa wstępuje w ogół praw i obowiązków znoszonej Agencji Rynku Rolnego, z wyjątkiem praw i obowiązków, w które wstępuje Agencja Restrukturyzacji i Modernizacji Rolnictwa, w szczególności:
 
 - **1)** mienie Agencji Rynku Rolnego staje się mieniem Krajowego Ośrodka Wsparcia Rolnictwa;
 - **2)** wierzytelności i zobowiązania Agencji Rynku Rolnego stają się wierzytelnościami i zobowiązaniami Krajowego Ośrodka Wsparcia Rolnictwa;
 - **3)** Krajowy Ośrodek Wsparcia Rolnictwa staje się stroną umów i porozumień, których stroną jest Agencja Rynku Rolnego;
-- **4)** na Krajowy Ośrodek Wsparcia Rolnictwa przechodzą prawa i obowiązki wynikające z:
-    - **a)** przepisów prawa,
-    - **b)** decyzji, postanowień i innych aktów administracyjnych.
+- **4)** na Krajowy Ośrodek Wsparcia Rolnictwa przechodzą prawa i obowiązki wynikające z: przepisów prawa, decyzji, postanowień i innych aktów administracyjnych.
+    - **a)**
+    - **b)**
 
 3. Agencja Restrukturyzacji i Modernizacji Rolnictwa z dniem 31 sierpnia 2017 r. z mocy prawa wstępuje w prawa i obowiązki Agencji Rynku Rolnego związane z wykonywaniem zadań, które z dniem wejścia w życie niniejszej ustawy stają się zadaniami Agencji Restrukturyzacji i Modernizacji Rolnictwa, w szczególności w tym zakresie:
 
 - **1)** mienie Agencji Rynku Rolnego staje się mieniem Agencji Restrukturyzacji i Modernizacji Rolnictwa;
 - **2)** wierzytelności i zobowiązania Agencji Rynku Rolnego stają się wierzytelnościami i zobowiązaniami Agencji Restrukturyzacji i Modernizacji Rolnictwa;
 - **3)** Agencja Restrukturyzacji i Modernizacji Rolnictwa staje się stroną umów i porozumień, których stroną jest Agencja Rynku Rolnego;
-- **4)** na Agencję Restrukturyzacji i Modernizacji Rolnictwa przechodzą prawa i obowiązki wynikające z:
-    - **a)** przepisów prawa,
-    - **b)** decyzji, postanowień i innych aktów administracyjnych.
+- **4)** na Agencję Restrukturyzacji i Modernizacji Rolnictwa przechodzą prawa i obowiązki wynikające z: przepisów prawa, decyzji, postanowień i innych aktów administracyjnych.
+    - **a)**
+    - **b)**
 
 4. Minister właściwy do spraw rozwoju wsi i minister właściwy do spraw rynków rolnych określą, w drodze zarządzenia, wykaz praw i obowiązków, o których mowa w ust. 3, w które wstępuje Agencja Restrukturyzacji i Modernizacji Rolnictwa.
 
@@ -190,7 +196,7 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 1. Wszczęte przed dniem wejścia w życie niniejszej ustawy postępowania niezakończone decyzją ostateczną oraz inne postępowania prowadzone na podstawie ustaw zmienianych w art. 5, art. 7, art. 8, art. 11, art. 12, art. 14, art. 17, art. 19, art. 21–25, art. 28, art. 32, art. 35 i art. 37–40 przez Prezesa Agencji Nieruchomości Rolnych, dyrektora oddziału terenowego Agencji Nieruchomości Rolnych i Agencję Nieruchomości Rolnych, zwanych dalej „organami ANR”, oraz Prezesa Agencji Rynku Rolnego i dyrektora oddziału terenowego Agencji Rynku Rolnego, zwanych dalej „organami ARR”, prowadzą, z dniem wejścia w życie tej ustawy, stosownie do swojej właściwości Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa i dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, zwani dalej „organami KOWR”, oraz Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa, dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa i kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwani dalej „organami ARiMR”.
 
-2. W sprawach s ą dowych, s ą dowo-administracyjnych, administracyjnych lub egzekucyjnych, w których stron ą lub uczestnikiem s ą organy ANR lub Agencja Rynku Rolnego, lub organy ARR, stron ą lub uczestnikiem staj ą si ę , z dniem wej ś cia w ż ycie niniejszej ustawy, stosownie do swojej wła ś ciwo ś ci Krajowy O ś rodek Wsparcia Rolnictwa lub organy KOWR albo Agencja Restrukturyzacji i Modernizacji Rolnictwa lub organy ARiMR.
+2. W sprawach sądowych, sądowo-administracyjnych, administracyjnych lub egzekucyjnych, w których stroną lub uczestnikiem są organy ANR lub Agencja Rynku Rolnego, lub organy ARR, stroną lub uczestnikiem stają się, z dniem wejścia w życie niniejszej ustawy, stosownie do swojej właściwości Krajowy Ośrodek Wsparcia Rolnictwa lub organy KOWR albo Agencja Restrukturyzacji i Modernizacji Rolnictwa lub organy ARiMR.
 
 **Art. 48.**
 
@@ -225,9 +231,9 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 10. Prezes Agencji Rynku Rolnego, Prezes Agencji Nieruchomości Rolnych oraz osoby przez nich upoważnione, a także Pełnomocnik współpracują z Prezesem Agencji Restrukturyzacji i Modernizacji Rolnictwa w zakresie działań, o których mowa w ust. 8.
 
-11. Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa, Prezes Agencji Rynku Rolnego i Prezes Agencji Nieruchomości Rolnych podejmują działania w zakresie dostosowania systemów teleinformatycznych, do których prawa posiada Agencja Restrukturyzacji i Modernizacji Rolnictwa, Agencja Rynku Rolnego i Agencja Nieruchomości Rolnych, w celu umo ż liwienia przej ę cia zada ń , które z dniem wej ś cia w ż ycie niniejszej ustawy b ę d ą realizowane przez Agencj ę Restrukturyzacji i Modernizacji Rolnictwa i Krajowy O ś rodek Wsparcia Rolnictwa.
+11. Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa, Prezes Agencji Rynku Rolnego i Prezes Agencji Nieruchomości Rolnych podejmują działania w zakresie dostosowania systemów teleinformatycznych, do których prawa posiada Agencja Restrukturyzacji i Modernizacji Rolnictwa, Agencja Rynku Rolnego i Agencja Nieruchomości Rolnych, w celu umożliwienia przejęcia zadań, które z dniem wejścia w życie niniejszej ustawy będą realizowane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa i Krajowy Ośrodek Wsparcia Rolnictwa.
 
-12. Minister wła ś ciwy do spraw rozwoju wsi rozstrzyga spory mi ę dzy Pełnomocnikiem a Prezesem Agencji Nieruchomo ś ci Rolnych, Prezesem Agencji Rynku Rolnego i Prezesem Agencji Restrukturyzacji i Modernizacji Rolnictwa zwi ą zane z realizacj ą działa ń okre ś lonych w ust. 2, 8 i 11.
+12. Minister właściwy do spraw rozwoju wsi rozstrzyga spory między Pełnomocnikiem a Prezesem Agencji Nieruchomości Rolnych, Prezesem Agencji Rynku Rolnego i Prezesem Agencji Restrukturyzacji i Modernizacji Rolnictwa związane z realizacją działań określonych w ust. 2, 8 i 11.
 
 13. Minister właściwy do spraw finansów publicznych podejmuje działania w celu przyznania na podstawie przepisów o finansowaniu wspólnej polityki rolnej z dniem 1 września 2017 r. Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji tymczasowej jako agencji płatniczej w zakresie niezbędnym do realizacji wykonywanych dotychczas przez Agencję Rynku Rolnego zadań agencji płatniczej, które z dniem wejścia w życie niniejszej ustawy będą realizowane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, a Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa i Prezes Agencji Rynku Rolnego podejmują działania w celu uzyskania z tym dniem przez Agencję Restrukturyzacji i Modernizacji Rolnictwa tej akredytacji.
 
@@ -249,7 +255,7 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 5. Pracownicy, o których mowa w ust. 3 i 4, w terminie miesiąca od dnia otrzymania odpowiednio propozycji Pełnomocnika albo Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa składają odpowiednio Pełnomocnikowi albo Prezesowi Agencji Restrukturyzacji i Modernizacji Rolnictwa oświadczenie o przyjęciu albo odmowie przyjęcia zaproponowanych warunków zatrudnienia.
 
-6. Pracownicy, o których mowa w ust. 3 i 4, którzy złożyli oświadczenie o przyjęciu zaproponowanych warunków zatrudnienia, stają się z dniem 1 września 2017 r. odpowiednio pracownikami Krajowego Ośrodka Wsparcia Rolnictwa albo Agencji Restrukturyzacji i Modernizacji Rolnictwa, z tym że w przypadku przyjęcia zaproponowanych warunków zatrudnienia na stanowisko pracy, na które zatrudnienie następuje na podstawie powołania, ich dotychczasowy stosunek pracy nawiązany na podstawie umowy o pracę przekształca się w stosunek pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60).
+6. Pracownicy, o których mowa w ust. 3 i 4, którzy złożyli oświadczenie o przyjęciu zaproponowanych warunków zatrudnienia, stają się z dniem 1 września 2017 r. odpowiednio pracownikami Krajowego Ośrodka Wsparcia Rolnictwa albo Agencji Restrukturyzacji i Modernizacji Rolnictwa, z tym że w przypadku przyjęcia zaproponowanych warunków zatrudnienia na stanowisko pracy, na które zatrudnienie następuje na podstawie powołania, ich dotychczasowy stosunek pracy nawiązany na podstawie umowy o pracę przekształca się w stosunek pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60).
 
 7. Dotychczasowy stosunek pracy pracowników Agencji Nieruchomości Rolnych i pracowników Agencji Rynku Rolnego wygasa w dniu 31 sierpnia 2017 r.:
 
@@ -259,9 +265,9 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 8. Wcześniejsze rozwiązanie stosunku pracy z pracownikiem Agencji Nieruchomości Rolnych lub Agencji Rynku Rolnego może nastąpić za wypowiedzeniem.
 
-9. W przypadku wyga ś ni ę cia lub wcze ś niejszego rozwi ą zania za wypowiedzeniem stosunku pracy z dotychczasowymi pracownikami Agencji Nieruchomo ś ci Rolnych i Agencji Rynku Rolnego pracownikom tym przysługuje odprawa pieni ęż na ustalana na zasadach okre ś lonych w przepisach ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwi ą zywania z pracownikami stosunków pracy z przyczyn niedotycz ą cych pracowników (Dz. U. z 2016 r. poz. 1474).
+9. W przypadku wygaśnięcia lub wcześniejszego rozwiązania za wypowiedzeniem stosunku pracy z dotychczasowymi pracownikami Agencji Nieruchomości Rolnych i Agencji Rynku Rolnego pracownikom tym przysługuje odprawa pieniężna ustalana na zasadach określonych w przepisach ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2016 r. poz. 1474).
 
-10. Odprawa pieni ęż na, o której mowa w ust. 9, jest wypłacana w terminie do dnia 31 sierpnia 2017 r. ze ś rodków odpowiednio Agencji Nieruchomości Rolnych albo Agencji Rynku Rolnego.
+10. Odprawa pieniężna, o której mowa w ust. 9, jest wypłacana w terminie do dnia 31 sierpnia 2017 r. ze środków odpowiednio Agencji Nieruchomości Rolnych albo Agencji Rynku Rolnego.
 
 **Art. 52.**
 
@@ -291,7 +297,7 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 3. Przedsiębiorcę, o którym mowa w ust. 2, w okresie ważności numeru rejestracyjnego uważa się za podmiot wpisany do odpowiedniej ewidencji w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, prowadzonym na podstawie ustawy zmienianej w art. 20 w brzmieniu nadanym niniejszą ustawą. W kontaktach z Agencją Restrukturyzacji i Modernizacji Rolnictwa jest on obowiązany posługiwać się numerem rejestracyjnym, o którym mowa w ust. 2.
 
-4. W przypadku przedsi ę biorcy w rozumieniu art. 22 ust. 1 ustawy zmienianej w art. 22, posiadaj ą cego w dniu wej ś cia w ż ycie niniejszej ustawy numer identyfikacyjny, o którym mowa w art. 12 ustawy zmienianej w art. 20, nadany mu numer rejestracyjny, o którym mowa w art. 23 ust. 1 ustawy zmienianej w art. 22, traci wa ż no ść z dniem wej ś cia w ż ycie niniejszej ustawy.
+4. W przypadku przedsiębiorcy w rozumieniu art. 22 ust. 1 ustawy zmienianej w art. 22, posiadającego w dniu wejścia w życie niniejszej ustawy numer identyfikacyjny, o którym mowa w art. 12 ustawy zmienianej w art. 20, nadany mu numer rejestracyjny, o którym mowa w art. 23 ust. 1 ustawy zmienianej w art. 22, traci ważność z dniem wejścia w życie niniejszej ustawy.
 
 5. Agencja Rynku Rolnego przekazuje nieodpłatnie Agencji Restrukturyzacji i Modernizacji Rolnictwa dane zawarte w centralnym rejestrze przedsiębiorców, o którym mowa w art. 22 ust. 1 ustawy zmienianej w art. 22, w tym dane osobowe, w zakresie niezbędnym do zapewnienia z dniem przejęcia tego rejestru przez Agencję Restrukturyzacji i Modernizacji Rolnictwa jednorodności zakresu i rodzaju danych zawartych w tym rejestrze z zakresem i rodzajem danych zawartych w odpowiedniej ewidencji w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, prowadzonym na podstawie ustawy zmienianej w art. 20.
 
@@ -300,7 +306,7 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 - **1)** na pisemny wniosek Agencji Restrukturyzacji i Modernizacji Rolnictwa;
 - **2)** w postaci elektronicznej z wykorzystaniem informatycznych nośników danych.
 
-**Art. 58.** Z dniem 1 września 2017 r. stosunek pracy kierowników biur oddziałów regionalnych Agencji Restrukturyzacji i Modernizacji Rolnictwa i ich zastępców nawiązany na podstawie umowy o pracę przekształca się w stosunek pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+**Art. 58.** Z dniem 1 września 2017 r. stosunek pracy kierowników biur oddziałów regionalnych Agencji Restrukturyzacji i Modernizacji Rolnictwa i ich zastępców nawiązany na podstawie umowy o pracę przekształca się w stosunek pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 59.** Działania prowadzone przez Agencję Rynku Rolnego na podstawie przepisów wydanych na podstawie art. 12a ustawy zmienianej w art. 22 są prowadzone na podstawie przepisów dotychczasowych do dnia zakończenia tych działań, przy czym zadania związane z prowadzeniem tych działań, w szczególności związane z:
 
@@ -331,5 +337,5 @@ Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa
 
 3. Przepisy wykonawcze wydane na podstawie art. 12a ustawy zmienianej w art. 22 zachowują moc i mogą być zmieniane lub uchylane na podstawie art. 6c ustawy zmienianej w art. 34.
 
-**Art. 61.** Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem art. 45, art. 46, art. 49–51, art. 52 ust. 2–5 oraz art. 57 ust. 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia niniejszej ustawy. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 61.** Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem art. 45, art. 46, art. 49–51, art. 52 ust. 2–5 oraz art. 57 ust. 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia niniejszej ustawy.
 

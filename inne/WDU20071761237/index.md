@@ -8,9 +8,10 @@ pos: 1237
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Ustawa z dnia 6 lipca 6 lipca 2007 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw
+# Ustawa z dnia 6 lipca 2007 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +25,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071761237) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1237/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 5lipca 1996 ozawodach pielęgniarki ipołożnej (Dz. U. z2001 57, 602, z póên. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej (Dz. U. z 2001 r. Nr 57, poz. 602, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** Wustawie zdnia 20 kwietnia 2004 ozmianie o zawodach pielęgniarki położnej niektórych innych ustaw (Dz. U. 92, 885) art.11 ust. 3 4 otrzymują brzmienie: Ń3. Studia, o których mowa ust. 1, są prowadzone systemie stacjonarnym lub niestacjonarnym. Treści programowe studiów realizowanych wsystemie stacjonarnym iniestacjonarnym są takie same, przy czym czas trwania studiów prowadzonych systemie niestacjonarnym nie może być krótszy niż czas trwania studiów prowadzonych wsystemie stacjonarnym. 4. Dokumentem potwierdzającym posiadanie kwalifikacji absolwenta studiów, o których mowa ust. 1, na kierunku pielęgniarstwo jest dyplom licencjata pielęgniarstwa, astudiów na kierunku położnictwo dyplom licencjata położnictwa.”.
+**Art. 2.** W ustawie z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 41, poz. 178, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 4.** Postępowania wszczęte niezakończone przed dniem wejścia życie niniejszej toczą na podstawie przepisów dotychczasowych.
+**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw (Dz. U. Nr 92, poz. 885) w art. 11 ust. 3 i 4 otrzymują brzmienie: „ 3. Studia, o których mowa w ust. 1, są prowadzone w systemie stacjonarnym lub niestacjonarnym. Treści programowe studiów realizowanych w systemie stacjonarnym i niestacjonarnym są takie same, przy czym czas trwania studiów prowadzonych w systemie niestacjonarnym nie może być krótszy niż czas trwania studiów prowadzonych w systemie stacjonarnym. 4. Dokumentem potwierdzającym posiadanie kwalifikacji przez absolwenta studiów, o których mowa w ust. 1, na kierunku pielęgniarstwo jest dyplom licencjata pielęgniarstwa, a studiów na kierunku położnictwo – dyplom licencjata położnictwa. ” .
+
+**Art. 4.** Postępowania wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy toczą się na podstawie przepisów dotychczasowych.
+
+**Art. 5.** Ustawa wchodzi w życie z dniem 20 października 2007 r.
 

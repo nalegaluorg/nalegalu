@@ -8,9 +8,10 @@ pos: 2597
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# spraw wewnętrznych określenia, wporozumie- oraz z 2004 r. 171, 1800, 179, 1842 niu z ministrem właściwym spraw finansów 210, 2135) zakresie, upoważnia publicznych, drodze rozporządzenia, szczegóło- ministra właściwego spraw wewnętrznych wych zasad cofania zwracania równoważnika określenia, porozumieniu z ministrem właściwym pieniężnego za remont zajmowanego lokalu spraw finansów publicznych, drodze rozporząmieszkalnego, z 92 1 Konstytucji Rzeczy- dzenia, szczegółowych zasad cofania izwracania rówpospolitej Polskiej, noważnika pieniężnego za remont zajmowanego loka2) 92 ustawy o Policji zakresie, lu mieszkalnego, jest zgodny zart. 92 1 Konstyzawiera upoważnienie dla ministra właściwego tucji Rzeczypospolitej Polskiej.
+# Wyrok Trybunału Konstytucyjnegoz dnia 30 listopada 2004 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042602597) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2597/text.pdf) |
 
-spraw wewnętrznych określenia, wporozumieniu z ministrem właściwym spraw finansów 2. Art. 92 ustawy powołanej wpkt 1 wzakrepublicznych, drodze rozporządzenia, szczegóło- sie, wjakim zawiera upoważnienie dla ministra właściwych zasad cofania zwracania równoważnika wego spraw wewnętrznych określenia, poropieniężnego za brak lokalu mieszkalnego, zart. 92 1 Konstytucji,
-3) 94 ustawy o Policji zakresie, zawiera upoważnienie dla ministra właściwego spraw wewnętrznych określenia, wdrodze rozporządzenia, szczegółowych zasad cofania zwracania pomocy finansowej na uzyskanie lokalu mieszkalnego, z 92 1 Konstytucji,
-4) 97 ustawy oPolicji zawierający upoważnienie dla ministra właściwego spraw wewnętrznych określenia, wporozumieniu zministrem właściwym spraw budownictwa, gospodarki przestrzennej mieszkaniowej oraz ministrem właściwym spraw finansów publicznych, drodze rozporządzenia, warunków najmu lokali mieszkalnych znajdujących się wbudynkach będących własnością Skarbu Państwa pozostających zarządzie jednostek organizacyjnych Policji, a także sposobu obliczania czynszu najmu, praw obowiązków najemcy wynajmującego, atakże części składowych czynszu najmu iokoliczności wpływających na jego wysokość, z 92 1 Konstytucji, zumieniu z ministrem właściwym spraw finansów publicznych, wdrodze rozporządzenia, szczegółowych zasad cofania zwracania równoważnika pieniężnego za brak lokalu mieszkalnego, jest zgodny z 92 1 Konstytucji.
-3. Art. 94 ustawy powołanej wpkt 1 wzakresie, zawiera upoważnienie dla ministra właściwego spraw wewnętrznych określenia, drodze rozporządzenia, szczegółowych zasad cofania izwracania pomocy finansowej na uzyskanie lokalu mieszkalnego, jest zgodny zart. 92 1 Konstytucji.
-4. Art. 97 ustawy powołanej pkt 1 jest zgodny z 92 1 Konstytucji.
-Adam Jamróz Teresa Dębowska-Romanowska Marian Grzybowski Biruta Lewaszkiewicz-Petrykowska Bohdan Zdziennicki WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 30 listopada 2004 r.
-sygn. akt SK 31/04 Trybunał Konstytucyjny składzie: Mirosław Wyrzykowski, Janusz Niemcewicz przewodniczący Marian Zdyb, Jerzy Ciemniewski Ewa Ęętowska sprawozdawca, kowego wysokości odpowiadającej 30 % kwoty za- tucji Rzeczypospolitej Polskiej.
-wyżenia przypadku wykazania przez podatnika złożonej deklaracji podatkowej kwoty zwrotu różni- Janusz Niemcewicz cy podatku lub zwrotu podatku naliczonego wyższej od kwoty należnej wsytuacji, gdy nie doszło zwro- Jerzy Ciemniewski Ewa Ęętowska tu podatku powstania zaległości podatkowej, Mirosław Wyrzykowski Marian Zdyb ISSN 0867-3411 Cena 7,10 zł
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Janusz Niemcewicz – przewodniczący Jerzy Ciemniewski Ewa Łętowska – sprawozdawca, Mirosław Wyrzykowski, Marian Zdyb, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem skarżącej oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 30 listopada 2004 r., skargi konstytucyjnej spółki „FKW LOGISTIC” spółka z o.o. z siedzibą w Tymiance o zbadanie zgodności art. 27 ust. 6 ustawy z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, ze zm.) w zakresie, w jakim może być on uznany za podstawę ustalenia wobec podatnika dodatkowego zobowiązania podatkowego w wysokości odpowiadającej 30% kwoty zawyżenia w przypadku wykazania przez podatnika w złożonej deklaracji podatkowej kwoty zwrotu różnicy podatku lub zwrotu podatku naliczonego wyższej od kwoty należnej w sytuacji, gdy nie doszło do zwrotu podatku i powstania zaległości podatkowej, z art. 31 ust. 3 w związku z art. 64 ust. 1 oraz z art. 2 Konstytucji Rzeczypospolitej Polskiej, orzeka: Art. 27 ust. 6 ustawy z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, ze zm.) jest zgodny z art. 64 ust. 1 w związku z artykułami 2 oraz 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
 

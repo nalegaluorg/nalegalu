@@ -8,9 +8,10 @@ pos: 517
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny wskładzie: Marek Safjan przewodniczący, Jerzy Ciemniewski sprawozdawca, Teresa Dębowska-Romanowska, Marian Grzybowski, Wiesław Johann, Krzysztof Kolasiński, Biruta Lewaszkiewicz-Petrykowska, Marek Mazurkiewicz, Andrzej Mączyński, Janusz Niemcewicz, Jadwiga Skórzewska-Ęosiak, Jerzy Stępień, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki,
+# Wyrok Trybunału Konstytucyjnegoz dnia 10 kwietnia 2002 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,48 +25,67 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020560517) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/517/text.pdf) |
 
-5. 68 1 2 dnia 12 paêdziernika 1990 Straży Granicznej (Dz. 78, 462 ze zm.),
-6. 57cust. 1 i2 zdnia 24 sierpnia 1991r.
-oPaństwowej Straży Pożarnej (Dz. 88, 400 ze zm.),
-7. 73 7 zdnia 28 maja 1993 Ordynacja wyborcza do Sejmu Polskiej (Dz. 45, 205 ze zm.),
-8. 7 8 zdnia 12 paêdziernika 1994 samorządowych kolegiach odwoławczych (Dz.
-Nr122, 593 ze zm.),
-9. 21 4 iart. 74 1 zdnia 23 grudnia 1994 Najwyższej Izbie Kontroli (Dz. 1995 13, 59 ze zm.),
-10. 64 1 i2 zdnia 26 kwietnia 1996r.
-oSłużbie Więziennej (Dz. 61, 283 ze zm.),
-11. 34 1 pkt 1 dnia 6 czerwca 1997r. oInspekcji Celnej (Dz. 71, 449 ze zm.),
-12. 17bust. 2 zdnia kwietnia 1997 oujawnieniu pracy lub służby worganach bezpieczeństwa państwa lub współpracy nimi w latach 1944—1990 osób pełniących funkcje publiczne (Dz.
-z1999 42, 428 ze zm.), po rozpoznaniu wdniu 10 kwietnia 2002 na rozprawie sprawy wniosku Rzecznika Praw Obywatel- 13. 2 2 dnia 27 czerwca 1997 skich, udziałem przedstawicieli uczestników postę- opartiach politycznych (Dz. 98, 604 ze zm.), powania: wnioskodawcy, Sejmu Polskiej Prokuratora Generalnego, stwierdzenie, że: I.
-1. 68 1 i3 zdnia 30 czerwca 1970 służbie wojskowej żołnierzy zawodowych (Dz.
-z1997 10, 55 ze zm.),
-2. 44 3 dnia 20 czerwca 1985 oprokuraturze (Dz. z1994 19, 70 ze zm.),
-14. 30 2 dnia 29 sierpnia 1997 ostrażach gminnych (Dz. 123, 779),
-15. 10 2 dnia 29 sierpnia 1997 oochronie danych osobowych (Dz. 133, 883 ze zm.),
-16. 3 dnia 18 grudnia 1998 Instytucie Pamięci Narodowej Komisji Âcigania Zbrodni przeciwko Narodowi Polskiemu (Dz. 155, 1016 ze zm.), sygn. akt K. 26/00.
-stawowych wolności, II.
-8 3 pkt 1 dnia 29 grudnia 1992 radiofonii telewizji (Dz. 1993 7, 34 ze zm.) jest niezgodny zart. 214 2 RP, orzeka: I.
-1. 68 1 i3 zdnia 30 czerwca 1970 służbie wojskowej żołnierzy zawodowych (Dz.
-z1997 10, 55,Nr 28, 153, 106, poz.678, 107, 688, 117, 753, 121, 770 141, 944, 1998 162, 1117, 1999 Nr1, 7orazz2001 85, 925, 88, poz.961 iNr 154, 1800),
-2. 44 3 dnia 20 czerwca 1985 oprokuraturze (Dz. z2002 21, 206),
-3. 63 1 i2 zdnia 6 kwietnia 1990 oPolicji (Dz. z2002 7, 58),
-4. 50 1 i2 zdnia 6 kwietnia 1990 Urzędzie Ochrony Państwa (Dz. 1999 51, 526, 53, 548 110, 1255, 2000 73, 852 2001 81, 877 106,
-1149),
-5. 68 1 2 dnia 12 paêdziernika 1990 Straży Granicznej (Dz. 78, 462, 1991 94, 422, 1992 54, 254, z1993r. 12, 52,z1994 53, 214,z1995r.
-4, 17, 34, 163iNr 104, 515,z1996r.
-106, 496 124, 583, 1997 28, 153, 88, 554 121, 770, 1999 Nr110, 1255orazz2001 45, 498, 106, poz.1149 iNr 110, 1189),
-6. 57cust. 1 i2 zdnia 24 sierpnia 1991r.
-Państwowej Straży Pożarnej (Dz. 88, 400, z1992 21, 86iNr 54, 254,z1994 Nr53, 214,z1995 4, 17iNr 34, 163,z1996r.
-106, 496 152, 723, 1997 28, 153, 88, 554 106, 680, 1998 106, 668, 1999 45, 436 110, 496, 1997 28, 153, 88, 554 133, 883, 1999 110, 1255, 2000 2, 5 2001 81, 877, 106, poz.1149, 110, 1189 iNr 154, 1800),
-10. 34 1 pkt 1 dnia 6 czerwca 1997 Inspekcji Celnej (Dz. 71, 449, z1998r. 137, 886, z1999 49, 483, Nr83, 931iNr 101, 1178,z2000 104, 1103 z2001 81, 877, 110, poz.1189i 123,
-1353),
-11. 17bust. 2 zdnia kwietnia 1997 oujawnieniu pracy lub służby worganach bezpieczeństwa państwa lub współpracy nimi w latach 1944—1990 osób pełniących funkcje publiczne (Dz.
-z1999 42, 428,Nr 57, 618, 62, poz.681 63, 701, 2000 43, 488 50, poz.600orazz2002 14, 128),
-12. 2 2 dnia 27 czerwca 1997 opartiach politycznych (Dz. z2001 79, 857 154, 1802),
-13. 30 2 dnia 29 sierpnia 1997 ostrażach gminnych (Dz. 123, 779),
-14. 10 2 dnia 29 sierpnia 1997 oochronie danych osobowych (Dz. 133, 883, 2000 12, 136, 50, 580 116, poz.1216orazz2001 42, 474, 49, 509 iNr 100, 1087),
-15. 3 dnia 18 grudnia 1998 Instytucie Pamięci Narodowej Komisji Âcigania Zbrodni przeciwko Narodowi Polskiemu (Dz. 155, 1016, 1999 38, 360 2000 48, poz.553),
-16. 69 5 dnia 18 grudnia 1998 służbie cywilnej (Dz. 1999 49, 483, Nr70, 778iNr 110, 1255orazz2001 102, poz.1116, 111, 1194, 128, 1403 iNr 154,
-1800),
-17. 33 3 dnia 24 lipca 1999 Służbie Celnej (Dz. 72, 802 110, poz.1255),
-18. 58 3 dnia 12 kwietnia 2001 Ordynacja wyborcza do Sejmu Polz1993 61, 284, z1995r. 36, 175,176 Marian Grzybowski Wiesław Johann i177oraz z1998 147, 962), Krzysztof Kolasiński Biruta Lewaszkiewicz-Petrykowska II. Marek Mazurkiewicz Andrzej Mączyński Janusz Niemcewicz Jadwiga Skórzewska-Ęosiak 8 3 pkt 1 dnia 29 grudnia 1992 Jerzy Stępień Mirosław Wyrzykowski oradiofonii itelewizji (Dz. z2001 101, 1114 Marian Zdyb Bohdan Zdziennicki
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Marek Safjan – przewodniczący, Jerzy Ciemniewski – sprawozdawca, Teresa Dębowska-Romanowska, Marian Grzybowski, Wiesław Johann, Krzysztof Kolasiński, Biruta Lewaszkiewicz-Petrykowska, Marek Mazurkiewicz, Andrzej Mączyński, Janusz Niemcewicz, Jadwiga Skórzewska-Łosiak, Jerzy Stępień, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki, protokolant – Grażyna Szałygo, po rozpoznaniu w dniu 10 kwietnia 2002 r. na rozprawie sprawy z wniosku Rzecznika Praw Obywatelskich, z udziałem przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, o stwierdzenie, że:
+I.
+1.
+Art. 68 ust. 1 i 3 ustawy z dnia 30 czerwca 1970 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 1997 r. Nr 10, poz. 55 ze zm.),
+2.
+Art. 44 ust. 3 ustawy z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 1994 r. Nr 19, poz. 70 ze zm.),
+3.
+Art. 63 ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. Nr 30, poz. 179 ze zm.),
+4.
+Art. 50 ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Urzędzie Ochrony Państwa (Dz. U. z 1999 r. Nr 51, poz. 526 ze zm.),
+5.
+6.
+Art. 57c ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. Nr 88, poz. 400 ze zm.),
+7.
+Art. 73 ust. 7 ustawy z dnia 28 maja 1993 r. – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej (Dz. U. Nr 45, poz. 205 ze zm.),
+8.
+Art. 7 ust. 8 ustawy z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych (Dz. U. Nr 122, poz. 593 ze zm.),
+9.
+Art. 21 ust. 4 i art. 74 ust. 1 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 1995 r. Nr 13, poz. 59 ze zm.),
+10.
+Art. 64 ust. 1 i 2 ustawy z dnia 26 kwietnia 1996 r. o Służbie Więziennej (Dz. U. Nr 61, poz. 283 ze zm.),
+11.
+Art. 34 ust. 1 pkt 1 ustawy z dnia 6 czerwca 1997 r. o Inspekcji Celnej (Dz. U. Nr 71, poz. 449 ze zm.),
+12.
+Art. 17b ust. 2 ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. Nr 42, poz. 428 ze zm.),
+13.
+Art. 2 ust. 2 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. Nr 98, poz. 604 ze zm.),
+14.
+Art. 30 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. Nr 123, poz. 779),
+15.
+Art. 10 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. Nr 133, poz. 883 ze zm.),
+16.
+Art. 11 ust. 3 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. Nr 155, poz. 1016 ze zm.),
+17.
+Art. 69 ust. 5 ustawy z dnia 18 grudnia 1998 r. o służbie cywilnej (Dz. U. z 1999 r. Nr 49, poz. 483 ze zm.),
+18.
+Art. 33 ust. 3 ustawy z dnia 24 lipca 1999 r. o Służbie Celnej (Dz. U. Nr 72, poz. 802 ze zm.), nie są zgodne z art. 11 ust. 1, art. 31 ust. 3, art. 32, art. 58 ust. 1 i art. 60 Konstytucji Rzeczypospolitej Polskiej oraz art. 22 Międzynarodowego paktu praw obywatelskich i politycznych i art. 11 oraz art. 17 Konwencji o ochronie praw człowieka i podstawowych wolności,
+II.
+Art. 8 ust. 3 pkt 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 1993 r. Nr 7, poz. 34 ze zm.) jest niezgodny z art. 214 ust. 2 Konstytucji RP,
+orzeka:
+I.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+Art. 58 ust. 3 ustawy z dnia 12 kwietnia 2001 r. – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499, Nr 74, poz. 786 i Nr 154, poz. 1802 oraz z 2002 r. Nr 14, poz. 128)
+– są zgodne z art. 11 ust. 1, art. 31 ust. 3, art. 32, art. 58 ust. 1 i art. 60 Konstytucji Rzeczypospolitej Polskiej oraz art. 22 Międzynarodowego paktu praw obywatelskich i politycznych, otwartego do podpisu w Nowym Jorku dnia 19 grudnia 1966 r. (Dz. U. z 1977 r. Nr 38, poz. 167), i art. 11 oraz art. 17 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. Nr 61, poz. 284, z 1995 r. Nr 36, poz. 175, 176i 177 oraz z 1998 r. Nr 147, poz. 962),
+II.
 

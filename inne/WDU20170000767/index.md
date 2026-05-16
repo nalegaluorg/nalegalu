@@ -8,9 +8,10 @@ pos: 767
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 kwietnia 2017 r.
+# Ustawa z dnia 24 lutego 2017 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,35 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000767) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/767/text.pdf) |
 
-Poz. 767
-USTAWA z dnia 24 lutego 2017 r.
-zmianie ustawy zawodach lekarza i lekarza dentysty oraz ustawy pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
+**Art. 1.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2017 r. poz. 125) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 5 grudnia 1996 r. zawodach lekarza i lekarza dentysty (Dz. U. z 2017 r. poz. 125) wprowadza następujące zmiany:
+**Art. 43a.**
 
-**Art. 2.** W ustawie z dnia 1 lipca 2005 r. pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793, 1893 i 1991) wprowadza następujące zmiany:
+1. Stwierdzenie:
 
-**Art. 3.** Do czasu ogłoszenia sposobu i kryteriów stwierdzenia trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu) oraz nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów na podstawie 43a 3 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, postępowaniu, którym 43a 1 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje kryteria i sposób ogłoszone na podstawie 9 3 i 9a 3 ustawy zmienianej 2, brzmieniu dotychczasowym.
+- **1)** trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu),
+- **2)** nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów następuje po przeprowadzeniu przez specjalistów, o których mowa w ust. 5 albo 6, postępowania zgodnego z aktualną wiedzą medyczną, z uwzględnieniem sposobu i kryteriów, o których mowa w ust. 3.
 
-**Art. 4.** Ustawa wchodzi życie upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+2. Sposób i kryteria, o których mowa w ust. 3, są ustalane zgodnie z aktualną wiedzą medyczną przez specjalistów w odpowiednich dziedzinach medycyny powoływanych i odwoływanych przez ministra właściwego do spraw zdrowia.
+
+3. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, sposób i kryteria stwierdzenia:
+
+- **1)** trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu);
+- **2)** nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów.
+
+4. Minister właściwy do spraw zdrowia, nie rzadziej niż raz na 5 lat, powierza specjalistom w odpowiednich dziedzinach medycyny powoływanym i odwoływanym przez tego ministra dokonanie oceny zgodności sposobu i kryteriów, o których mowa w ust. 3, z aktualną wiedzą medyczną.
+
+5. Trwałe nieodwracalne ustanie czynności mózgu (śmierć mózgu) stwierdza jednomyślnie dwóch lekarzy specjalistów posiadających II stopień specjalizacji lub tytuł specjalisty, w tym jeden specjalista w dziedzinie anestezjologii i intensywnej terapii lub neonatologii, a drugi w dziedzinie neurologii, neurologii dziecięcej lub neurochirurgii.
+
+6. Nieodwracalne zatrzymanie krążenia poprzedzające pobranie narządów stwierdza jednomyślnie dwóch lekarzy specjalistów posiadających II stopień specjalizacji lub tytuł specjalisty, w tym jeden specjalista w dziedzinie anestezjologii i intensywnej terapii lub neonatologii, a drugi w dziedzinie medycyny ratunkowej, chorób wewnętrznych, kardiologii, kardiologii dziecięcej lub pediatrii.
+
+7. Stwierdzenie trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu) lub nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów jest równoznaczne ze stwierdzeniem zgonu. ” .
+
+**Art. 2.** W ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793, 1893 i 1991) wprowadza się następujące zmiany:
+
+**Art. 9b.** W postępowaniu obejmującym pobieranie i przeszczepianie komórek, tkanek lub narządów od osoby zmarłej nie może brać udziału lekarz, który stwierdził zgon tej osoby. ” .
+
+**Art. 3.** Do czasu ogłoszenia sposobu i kryteriów stwierdzenia trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu) oraz nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów na podstawie art. 43a ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w postępowaniu, o którym mowa w art. 43a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się kryteria i sposób ogłoszone na podstawie art. 9 ust. 3 i art. 9a ust. 3 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

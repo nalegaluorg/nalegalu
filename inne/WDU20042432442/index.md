@@ -8,9 +8,10 @@ pos: 2442
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# wymagania przepisów, na podstawie których zostały zalegalizowane.
+# Wyrok Trybunału Konstytucyjnegoz dnia 3 listopada 2004 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,46 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042432442) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2442/text.pdf) |
 
-**Art. 30.** (pominięty).
-
-**Art. 31.** (pominięty).
-
-**Art. 33.** Traci moc ustawa z dnia 3 kwietnia 1993 r. Prawo o miarach (Dz. U. Nr 55, poz. 248, z 1997 r. Nr 43, poz. 272 Nr 121, poz. 770 oraz z 2000 r. Nr 43, poz. 489 Nr 120, poz. 1268).
-
-**Art. 34.** Ustawa wchodzi w życie z dniem 1 styczArt. 32. Traci moc ustawa z dnia 3 kwietnia 1993 r. nia 2003 r., z wyjątkiem przepisów art. 9 pkt 8, art. 16 o utworzeniu Głównego Urzędu Miar (Dz. U. Nr 55, pkt 10, art. 24 ust. 1 pkt 5, art. 26 ust. 1 pkt 5 art. 31, poz. 247, z1998 r. Nr 37, poz. 202 oraz z2000 r. Nr 120, które wchodzą wżycie po upływie 14 dni od dnia ogłopoz. 1268). szenia. 2442 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 3 listopada 2004 r. sygn. akt K 18/03 Trybunał Konstytucyjny w składzie: Bohdan Zdziennicki przewodniczący, Jerzy Ciemniewski sprawozdawca, Janusz Niemcewicz, Mirosław Wyrzykowski, Marian Zdyb, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu Prokuratora Generalnego, na rozprawie w dniu 25 paêdziernika 2004 r., wniosku Polskiej Konfederacji Pracodawców Prywatnych o zbadanie zgodności:
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Bohdan Zdziennicki – przewodniczący, Jerzy Ciemniewski – sprawozdawca, Janusz Niemcewicz, Mirosław Wyrzykowski, Marian Zdyb, protokolant: Dorota Raczkowska-Paluch, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 25 października 2004 r., wniosku Polskiej Konfederacji Pracodawców Prywatnych o zbadanie zgodności:
+1)
+art. 3 ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661) z art. 2 Konstytucji Rzeczypospolitej Polskiej,
+2)
+art. 4 oraz art. 36 ust. 1 ustawy powołanej w punkcie pierwszym z art. 2 i art. 42 ust. 2 i 3 Konstytucji,
+3)
+art. 5 ustawy powołanej w punkcie pierwszym z art. 2 i art. 42 ust. 1 Konstytucji,
+4)
+art. 7 oraz art. 17–18 i art. 20–21 ustawy powołanej w punkcie pierwszym z art. 2 Konstytucji,
+5)
+art. 23 ustawy powołanej w punkcie pierwszym z art. 42 ust. 3 Konstytucji,
+6)
+art. 33 ustawy powołanej w punkcie pierwszym z art. 2 i art. 42 ust. 2 Konstytucji,
+7)
+art. 40 ustawy powołanej w punkcie pierwszym z art. 31 ust. 3 i art. 32 Konstytucji,
+8)
+art. 48 ustawy powołanej w punkcie pierwszym z art. 2 i art. 42 ust. 1 Konstytucji,
+orzeka:
+I
+1.
+Art. 3 ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661 oraz z 2004 r. Nr 93, poz. 889 i Nr 191, poz. 1956) jest zgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 4 w związku z art. 36 ust. 1 ustawy powołanej w punkcie pierwszym:
+a)
+są niezgodne z art. 2 i art. 42 ust. 2 Konstytucji,
+b)
+nie są niezgodne z art. 42 ust. 3 Konstytucji.
+3.
+Art. 5 ustawy powołanej w punkcie pierwszym w zakresie dotyczącym art. 3 pkt 4 tej ustawy jest niezgodny z art. 2 i art. 42 ust. 1 Konstytucji.
+4.
+Art. 7 oraz art. 17, art. 18, art. 20 i art. 21 ustawy powołanej w punkcie pierwszym są niezgodne z art. 2 Konstytucji.
+5.
+Art. 23 ustawy powołanej w punkcie pierwszym jest zgodny z art. 42 ust. 3 Konstytucji.
+6.
+Art. 33 ustawy powołanej w punkcie pierwszym jest niezgodny z art. 2 i art. 42 ust. 2 Konstytucji.
+7.
+Art. 40 ustawy powołanej w punkcie pierwszym jest zgodny z art. 31 ust. 3 i art. 32 Konstytucji.
+8.
+Art. 48 ustawy powołanej w punkcie pierwszym jest zgodny z art. 2 i art. 42 ust. 1 Konstytucji.
+II
+Przepisy ustawy wskazane w punkcie I.2, I.3, I.4 i I.6 tracą moc z dniem 30 czerwca 2005 r.
 

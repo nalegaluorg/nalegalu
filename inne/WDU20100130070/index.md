@@ -8,6 +8,7 @@ pos: 70
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 13 czerwca 2008 r. o zmianie ustawy o opłatach abonamentowych
@@ -36,5 +37,5 @@ domain: null
 
 **Art. 3.** (pominięty).
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 70 USTAWA z dnia 13 czerwca 2008 r. o zmianie ustawy o opłatach abonamentowych
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Zgodnie z art. 122 ust. 4 Konstytucji Rzeczypospolitej Polskiej podpisuję ustawę z pominięciem lit. f i g w pkt 7 dodawanym przez art. 1 pkt 1 lit b, ust. 3 w art. 2 oraz art. 3 uznanych wyrokiem Trybunału Konstytucyjnego z dnia 4 listopada 2009 r. sygn. akt Kp 1/08 (M. P. Nr 76, poz. 953) za niezgodne z Konstytucją.
 

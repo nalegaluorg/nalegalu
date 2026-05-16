@@ -8,9 +8,10 @@ pos: 243
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Trybunał Konstytucyjny w składzie: Wiesław Johann przewodniczący, Marian Grzybowski sprawozdawca, Adam Jamróz, Mirosław Wyrzykowski, Bohdan Zdziennicki, orzeka:
+# Wyrok Trybunału Konstytucyjnegoz dnia 21 lutego 2006 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060340243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/243/text.pdf) |
 
-1. Art. 6 ust. 1 w związku z artykułami 5 ust. 1 i 7 ust. 1 ustawy z dnia 16 lipca 1998 r. Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. 159, poz. 1547, z 2004 r.
-25, poz. 219, 102, poz. 1055 i 167, poz. 1760 oraz z 2006 r. 17, poz. 128) w zakresie, w jakim pozbawia czynnego prawa wyborczego oraz biernego prawa wyborczego do rady gminy i na stanowisko wójta (burmistrza, prezydenta miasta) obywateli polskich, wpisanych do prowadzonego w gminie stałego rejestru wyborców w okresie krótszym niż 12 miesiępo rozpoznaniu, z udziałem wnioskodawcy oraz cy przed dniem wyborów, jest niezgodny z art. 31 Sejmu i Prokuratora Generalnego, na rozprawie ust. 3, art. 32 ust. 1, art. 62 i art. 169 ust. 2 zdanie w dniu 20 lutego 2006 r. wniosku Rzecznika Praw pierwsze wzwiązku zart. 16 ust. 1 Konstytucji RzeczyObywatelskich o zbadanie zgodności art. 6 ust. 1 pospolitej Polskiej oraz nie jest niezgodny zart. 52 wzwiązku zart. 5 ust. 1, art. 6aust. 1 oraz art. 7 ust. 1 ust. 1 Konstytucji.
-ustawy z dnia 16 lipca 1998 r. Ordynacja wyborcza 2. Art. 6aust. 1 wzwiązku zart. 7 ust. 1 ustawy podo rad gmin, rad powiatów i sejmików województw wołanej w punkcie 1 w zakresie, w jakim pozbawia (Dz. U. z 2003 r. 159, poz. 1547, ze zm.) w zakresie, czynnego prawa wyborczego do rady gminy obywatewjakim pozbawiają prawa wybierania (czynnego pra- li Unii Europejskiej niebędących obywatelami polskiwa wyborczego), a także prawa wybieralności (bier- mi, wpisanych do prowadzonego wgminie stałego renego prawa wyborczego) do rady gminy oraz wójta jestru wyborców w okresie krótszym niż 12 miesięcy (burmistrza, prezydenta miasta) obywateli polskich przed dniem wyborów, jest niezgodny z art. 169 oraz obywateli Unii Europejskiej niebędących obywa- ust. 2 zdanie pierwsze w związku z art. 16 ust. 1 Kontelami polskimi, wpisanych do prowadzonego wgmi- stytucji oraz nie jest niezgodny zart. 52 ust. 1 Konnie stałego rejestru wyborców wokresie krótszym niż stytucji.
-12 miesięcy przed dniem wyborów, z art. 31 ust. 3, art. 32 ust. 1, art. 52 ust. 1, art. 62 ust. 1 i 2 oraz Wiesław Johann art. 169 ust. 2 zdanie pierwsze w związku z art. 16 Marian Grzybowski Adam Jamróz ust. 1 Konstytucji, Mirosław Wyrzykowski Bohdan Zdziennicki 242 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 20 lutego 2006 r.
-sygn. akt K 9/05 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 21 lutego 2006 r.
-sygn. akt K 1/05 Trybunał Konstytucyjny w składzie: Mirosław Wyrzykowski przewodniczący, Marian Grzybowski, Adam Jamróz, Wiesław Johann, Marian Zdyb sprawozdawca, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 21 lutego 2006 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
-1) art. 1 ust. 3 pkt 1 lit. b ustawy z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. 160, poz. 1080, ze zm.),
-2) art. 4 ust. 1 pkt 1 lit. b ustawy z dnia 4 marca 2004 r. o zmianie ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek 249, poz. 2104) jest niezgodny z art. 2 w związsfery budżetowej oraz niektórych innych ustaw ku z art. 32 Konstytucji Rzeczypospolitej Polskiej.
-(Dz. U. 116, poz. 1202)
-2. Art. 4 ust. 1 pkt 1 lit. b ustawy z dnia 4 marca z art. 32 w związku z art. 2 Konstytucji, 2004 r. ozmianie ustawy ododatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżeorzeka: towej oraz niektórych innych ustaw (Dz. U. 116,
-1. Art. 1 ust. 3 pkt 1 lit. bustawy zdnia 12 grudnia poz. 1202) jest niezgodny zart. 2 wzwiązku zart. 32 1997 r. o dodatkowym wynagrodzeniu rocznym dla Konstytucji.
-pracowników jednostek sfery budżetowej (Dz. U.
-160, poz. 1080, z1998 r. 155, poz. 1014, z1999 r. Mirosław Wyrzykowski 72, poz. 802 i 110, poz. 1255, z 2002 r. 74, poz. 676, z 2003 r. 199, poz. 1939 i 223, Marian Grzybowski Adam Jamróz poz. 2217, z 2004 r. 116, poz. 1202 oraz z 2005 r. Wiesław Johann Marian Zdyb
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Mirosław Wyrzykowski – przewodniczący, Marian Grzybowski, Adam Jamróz, Wiesław Johann, Marian Zdyb – sprawozdawca, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 21 lutego 2006 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
+1)
+art. 1 ust. 3 pkt 1 lit. b ustawy z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. Nr 160, poz. 1080, ze zm.),
+2)
+art. 4 ust. 1 pkt 1 lit. b ustawy z dnia 4 marca 2004 r. o zmianie ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej oraz niektórych innych ustaw (Dz. U. Nr 116, poz. 1202)
+z art. 32 w związku z art. 2 Konstytucji, orzeka:
+1.
+Art. 1 ust. 3 pkt 1 lit. b ustawy z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. Nr 160, poz. 1080, z 1998 r. Nr 155, poz. 1014, z 1999 r. Nr 72, poz. 802 i Nr 110, poz. 1255, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 199, poz. 1939 i Nr 223, poz. 2217, z 2004 r. Nr 116, poz. 1202 oraz z 2005 r. Nr 249, poz. 2104) jest niezgodny z art. 2 w związku z art. 32 Konstytucji Rzeczypospolitej Polskiej.
+2.
+Art. 4 ust. 1 pkt 1 lit. b ustawy z dnia 4 marca 2004 r. o zmianie ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej oraz niektórych innych ustaw (Dz. U. Nr 116, poz. 1202) jest niezgodny z art. 2 w związku z art. 32 Konstytucji.
 

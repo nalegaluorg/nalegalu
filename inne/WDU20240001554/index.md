@@ -8,9 +8,10 @@ pos: 1554
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 października 2024 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 10 października 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 
 | Pole | Wartość |
 |---|---|
@@ -24,33 +25,20 @@ domain: null
 | Ostatnia zmiana | 2024-10-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001554) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1554/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 października 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 kwietnia 2019 r. o wspieraniu działalności naukowej z Funduszu Polskiej Nauki (Dz. U. z 2022 r.
-poz. 1409), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 października 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 33 i art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), które stanowią: „Art. 33. Do:
-1) sprawozdań z realizacji planów finansowych za rok 2024, o których mowa w:
-a) art. 33r ust. 7 pkt 1 lit. a ustawy zmienianej w art. 6,
-b) art. 27 ust. 4 ustawy zmienianej w art. 15,
-c) art. 422 ust. 5 pkt 1 lit. a ustawy zmienianej w art. 20,
-d) art. 15 ust. 2 pkt 5 ustawy zmienianej w art. 23,
-e) art. 65 ust. 23 ustawy zmienianej w art. 25,
-f) art. 11 ust. 9 pkt 1 ustawy zmienianej w art. 26,
-g) art. 42 ust. 7 pkt 2 ustawy zmienianej w art. 27,
-h) art. 14 ust. 29 ustawy zmienianej w art. 28,
-2) sprawozdania z realizacji planu finansowego za trzeci i czwarty kwartał 2024 r., o którym mowa w art. 27 ust. 3 ustawy zmienianej w art. 15,
-3) informacji o realizacji planu finansowego za trzeci i czwarty kwartał 2024 r., o której mowa w:
-a) art. 33r ust. 8 ustawy zmienianej w art. 6,
-b) art. 5 ust. 4 pkt 3 ustawy zmienianej w art. 10,
-c) art. 422b ust. 6 ustawy zmienianej w art. 20,
-d) art. 11 ust. 9 pkt 2 ustawy zmienianej w art. 26,
-4) bilansu i rachunku zysków i strat za rok 2024, o którym mowa w art. 33r ust. 7 pkt 1 lit. b ustawy zmienianej w art. 6,
-5) sprawozdania z działalności oraz wyników za rok 2024, o których mowa w art. 422b ust. 5 pkt 1 lit. b ustawy zmienianej w art. 20 stosuje się przepisy dotychczasowe.” „Art. 44. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 4 kwietnia 2019 r.
-o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 4 kwietnia 2019 r. o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 kwietnia 2019 r. o wspieraniu działalności naukowej z Funduszu Polskiej Nauki (Dz. U. z 2022 r. poz. 1409), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 października 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 33 i art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), które stanowią:
+„
 
-**Art. 1.** Fundusz Polskiej Nauki, zwany dalej „Funduszem”, finansuje działalność naukową, o której mowa w art. 4 ustawy z dnia 20 lipca 2018 r. − Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), z wyłączeniem twórczości artystycznej, szczególnie ważną dla realizacji strategii rozwoju kraju służącą rozwojowi innowacyjnych produktów, zwaną dalej „działalnością naukową”.
+**Art. 33.** Do:
+
+**Art. 44.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 4 kwietnia 2019 r. o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
+
+**Art. 1.** Fundusz Polskiej Nauki, zwany dalej „Funduszem”, finansuje działalność naukową, o której mowa w art. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.), z wyłączeniem twórczości artystycznej, szczególnie ważną dla realizacji strategii rozwoju kraju służącą rozwojowi innowacyjnych produktów, zwaną dalej „działalnością naukową”.
 
 **Art. 2.** Środki Funduszu pochodzą z:
 
@@ -69,7 +57,7 @@ o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 
 5. Jeżeli odzyskanie wierzytelności Skarbu Państwa, powstałych z tytułu udzielonego poręczenia lub gwarancji, nie jest możliwe, Rada Ministrów, na wniosek ministra właściwego do spraw finansów publicznych, może umorzyć wierzytelność w całości lub części.
 
-**Art. 4.** Wolne środki Funduszu są lokowane w formie depozytu, o którym mowa w art. 78b ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
+**Art. 4.** Wolne środki Funduszu są lokowane w formie depozytu, o którym mowa w art. 78b ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
 
 **Art. 5.**
 
@@ -103,8 +91,8 @@ o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 
 1. Minister, biorąc pod uwagę obszar działalności naukowej wskazany zgodnie z art. 6 ust. 1 oraz potencjał organizacyjny i techniczny niezbędny do realizacji zadań w zakresie zarządzania wirtualnym instytutem badawczym, wskazuje podmiot zarządzający, którym może być:
 
-- **1)** Sieć Badawcza Łukasiewicz PORT Polski Ośrodek Rozwoju Technologii albo
-- **2)** podmiot, o którym mowa w art. 7 ust. 1 pkt 8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, wybrany w trybie otwartego konkursu ofert.
+- **1)** Sieć Badawcza Łukasiewicz – PORT Polski Ośrodek Rozwoju Technologii albo
+- **2)** podmiot, o którym mowa w art. 7 ust. 1 pkt 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, wybrany w trybie otwartego konkursu ofert.
 
 2. W ogłoszeniu o otwartym konkursie ofert określa się:
 
@@ -134,7 +122,7 @@ o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 - **2)** doświadczenie podmiotu składającego ofertę w zakresie zarządzania projektami obejmującymi prowadzenie działalności naukowej;
 - **3)** przewidywaną wysokość kosztów realizacji zadań podmiotu zarządzającego.
 
-6. Do wyboru podmiotu zarządzającego nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320).
+6. Do wyboru podmiotu zarządzającego nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320).
 
 7. Minister podaje do publicznej wiadomości, w drodze komunikatu ogłoszonego w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, informację o podmiocie zarządzającym wyłonionym w trybie wskazanym w ust. 1.
 
@@ -186,7 +174,7 @@ o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 - **2)** dokonuje oceny działalności podmiotu zarządzającego;
 - **3)** przeprowadza kontrolę podmiotu zarządzającego w trybie przepisów ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224).
 
-**Art. 11.** Podmiot zarządzający zawiera z podmiotem, o którym mowa w art. 7 ust. 1 pkt 1, 3–6 i 8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, w którym działalność naukową prowadzi lider zespołu badawczego, umowę o finansowanie zespołu badawczego ze środków Funduszu, określającą w szczególności:
+**Art. 11.** Podmiot zarządzający zawiera z podmiotem, o którym mowa w art. 7 ust. 1 pkt 1, 3–6 i 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w którym działalność naukową prowadzi lider zespołu badawczego, umowę o finansowanie zespołu badawczego ze środków Funduszu, określającą w szczególności:
 
 **Art. 12.** Minister zawiera z Bankiem Gospodarstwa Krajowego porozumienie określające szczegółowe warunki współpracy w zakresie gospodarowania środkami Funduszu, w tym:
 
@@ -195,9 +183,9 @@ o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 1. Ze środków Funduszu dokonuje się:
 
 - **1)** pokrycia kosztów emisji i wykupu obligacji, o których mowa w art. 3 ust. 1;
-- **2)** spłaty:
-    - **a)** kredytów i pożyczek wraz z odsetkami i innymi kosztami obsługi kredytów i pożyczek, o których mowa w art. 3 ust. 1,
-    - **b)** udzielonego przez Bank Gospodarstwa Krajowego finansowania, o którym mowa w ust. 3, wraz z kosztami tego finansowania.
+- **2)** spłaty: kredytów i pożyczek wraz z odsetkami i innymi kosztami obsługi kredytów i pożyczek, o których mowa w art. 3 ust. 1, udzielonego przez Bank Gospodarstwa Krajowego finansowania, o którym mowa w ust. 3, wraz z kosztami tego finansowania.
+    - **a)**
+    - **b)**
 
 2. Ze środków Funduszu dokonuje się również wypłaty:
 
@@ -220,9 +208,9 @@ o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 - **2)** wyodrębnia w swoim planie finansowym plan finansowy Funduszu opracowany w porozumieniu z organami, o których mowa w pkt 1, do dnia 31 lipca roku poprzedzającego rok, na który plan jest opracowywany;
 - **3)** sporządza dla Funduszu odrębny bilans oraz rachunek zysków i strat wchodzących w skład sprawozdania finansowego Banku Gospodarstwa Krajowego;
 - **3a)** przekazuje ministrowi oraz ministrowi właściwemu do spraw finansów publicznych, w terminach określonych w przepisach dotyczących sprawozdawczości budżetowej państwowych funduszy celowych, sprawozdanie miesięczne z realizacji planu finansowego Funduszu, narastająco za kolejne miesiące roku budżetowego, w szczegółowości nie mniejszej niż wynikająca z tego planu;
-- **4)** składa ministrowi informację o realizacji planu finansowego Funduszu w terminie do dnia:
-    - **a)** 31 lipca − za pierwsze półrocze,
-    - **b)** 31 stycznia − za drugie półrocze.
+- **4)** składa ministrowi informację o realizacji planu finansowego Funduszu w terminie do dnia: 31 lipca – za pierwsze półrocze, 31 stycznia – za drugie półrocze.
+    - **a)**
+    - **b)**
 
 - **5)** (uchylony)
 
@@ -230,10 +218,10 @@ o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 
 1. Plan finansowy Funduszu określa w szczególności:
 
-- **1)** przewidywaną wysokość środków przeznaczonych na:
-    - **a)** finansowanie działań, o których mowa w art. 5 ust. 1,
-    - **b)** wynagrodzenie przysługujące Bankowi Gospodarstwa Krajowego z tytułu kosztów obsługi Funduszu,
-    - **c)** obsługę kredytów, pożyczek i emisję obligacji;
+- **1)** przewidywaną wysokość środków przeznaczonych na: finansowanie działań, o których mowa w art. 5 ust. 1, wynagrodzenie przysługujące Bankowi Gospodarstwa Krajowego z tytułu kosztów obsługi Funduszu, obsługę kredytów, pożyczek i emisję obligacji;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** przychody Funduszu.
 
@@ -245,11 +233,11 @@ o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 
 2. W terminie 30 dni od dnia wejścia w życie ustawy obniża się fundusz statutowy Banku Gospodarstwa Krajowego o kwotę 500 000 000 zł, przez wpłatę tej kwoty na zasilenie Funduszu.
 
-3. Do obniżenia funduszu statutowego, o którym mowa w ust. 2, nie stosuje się art. 5c ustawy zmienianej w art. 17 .
+3. Do obniżenia funduszu statutowego, o którym mowa w ust. 2, nie stosuje się art. 5c ustawy zmienianej w art. 17.
 
-4. Do obniżenia funduszu statutowego, o którym mowa w ust. 2, nie stosuje się wymogu uzyskania zezwolenia, o którym mowa w art. 77 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ).
+4. Do obniżenia funduszu statutowego, o którym mowa w ust. 2, nie stosuje się wymogu uzyskania zezwolenia, o którym mowa w art. 77 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.).
 
 **Art. 21.** Bank Gospodarstwa Krajowego w terminie 2 miesięcy od dnia zawarcia porozumienia, o którym mowa w art. 12, wyodrębni w swoim planie finansowym opracowany w porozumieniu z organami, o których mowa w art. 15 ust. 2 pkt 1, plan finansowy Funduszu na 2019 r.
 
-**Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

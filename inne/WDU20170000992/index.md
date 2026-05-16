@@ -8,11 +8,10 @@ pos: 992
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# o zmianie ustawy o ś wiadczeniach pieni ęż nych ubezpieczenia społecznego razie choroby macierzy ń stwa oraz ustawy o zmianie ustawy o ś wiadczeniach pieni ęż nych ubezpieczenia społecznego razie choroby macierzy ń stwa oraz niektórych innych ustaw
-
-*USTAWA dnia 21 kwietnia r.*
+# Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz ustawy o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +25,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000992) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/992/text.pdf) |
 
-**Art. 1.** W ustawie dnia 25 czerwca 1999 r. o świadczeniach pieniężnych ubezpieczenia społecznego razie choroby macierzyństwa (Dz. U. 2016 r. poz. 372, 960, 1265, 1579 2020 oraz r. poz. 396) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2016 r. poz. 372, 960, 1265, 1579 i 2020 oraz z 2017 r. poz. 396) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 15 maja 2015 r. o zmianie ustawy o ś wiadczeniach pieni ęż nych ubezpieczenia społecznego razie choroby macierzy ń stwa oraz niektórych innych ustaw (Dz. U. poz. 1066 1735 oraz 2016 r. poz. 960) wprowadza si ę nast ę puj ą ce zmiany: Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 2.** W ustawie z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz niektórych innych ustaw (Dz. U. poz. 1066 i 1735 oraz z 2016 r. poz. 960) wprowadza się następujące zmiany:
+
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 grudnia 2017 r., z wyjątkiem art. 2, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

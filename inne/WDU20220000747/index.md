@@ -8,9 +8,10 @@ pos: 747
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 kwietnia 2022 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +25,16 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/747/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 marca 2022 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2018 r. poz. 114), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. poz. 2052) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 marca 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 ustawy z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U.
-poz. 2052), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 17 listopada 2006 r.
-o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady przeprowadzania oceny zgodności wyrobów Rozdział 3 – Akredytacja jednostek organizacyjnych właściwych w zakresie oceny zgodności wyrobów nabywanych na potrzeby obronności i bezpieczeństwa państwa oraz tryb udzielania akredytacji OiB Rozdział 4 – Nadzór nad funkcjonowaniem systemu oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa Rozdział 5 – Opłaty Rozdział 6 – Zmiany w przepisach obowiązujących Rozdział 7 – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2018 r. poz. 114), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. poz. 2052) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 marca 2022 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 ustawy z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. poz. 2052), który stanowi:
+„
+
+**Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -175,7 +178,7 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 - **3)** instrukcję obsługi przeznaczoną dla użytkownika wyrobu oraz instrukcję bezpieczeństwa użytkowania;
 - **4)** wyniki badań wyrobu dla potwierdzenia zgodności wyrobu z wymaganiami określonymi w specyfikacji technicznej;
 - **5)** informacje dotyczące systemu zapewnienia jakości wyrobu;
-- **6)** w przypadku wyrobu seryjnego informacje dotyczące systemu zarządzania jakością dostawcy zgodnego z właściwymi normami międzynarodowymi lub wymaganiami Organizacji Traktatu Północnoatlantyckiego.
+- **6)** w przypadku wyrobu seryjnego – informacje dotyczące systemu zarządzania jakością dostawcy zgodnego z właściwymi normami międzynarodowymi lub wymaganiami Organizacji Traktatu Północnoatlantyckiego.
 
 4. Jeżeli dokumenty, o których mowa w ust. 3, sporządzono w języku obcym, jednostka certyfikująca może żądać, w zakresie niezbędnym do przeprowadzenia oceny zgodności, tłumaczenia tych dokumentów na język polski.
 
@@ -255,8 +258,6 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 
 2. Spełnienie wymogu, o którym mowa w ust. 1 pkt 5, ocenia Agencja Bezpieczeństwa Wewnętrznego lub Służba Kontrwywiadu Wojskowego, zgodnie z właściwością wskazaną w przepisach o ochronie informacji niejawnych, przez wystawienie opinii w tej sprawie.
 
-**Art. 15.**
-
 1. Akredytacji OiB udziela Minister Obrony Narodowej na wniosek jednostki organizacyjnej spełniającej wymagania określone w art. 14 ust. 1.
 
 2. Wniosek o udzielenie akredytacji OiB powinien zawierać:
@@ -333,8 +334,6 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 
 **Art. 22.** Organ nadzorujący jednostki badawcze i certyfikujące, w zakresie dokonywania przez te jednostki oceny zgodności wyrobów:
 
-**Art. 22a.** Nadzór nad jednostkami badawczymi i jednostkami certyfikującymi posiadającymi akredytację OiB, w zakresie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby obronności lub bezpieczeństwa państwa, sprawuje Minister Obrony Narodowej.
-
 **Art. 23.** W przypadku posiadania przez jednostkę badawczą lub jednostkę certyfikującą akredytacji Polskiego Centrum Akredytacji, organ nadzorujący jednostki badawcze i jednostki certyfikujące może odstąpić od podjęcia w stosunku do tych jednostek czynności, o których mowa w art. 22 pkt 1 i 2, a działania związane z prowadzeniem nadzoru nad ich działalnością ograniczyć do sprawdzenia:
 
 **Art. 24.**
@@ -396,5 +395,5 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 
 **Art. 31.** Ustawy nie stosuje się do części zamiennych do wyrobów, które zostały wprowadzone do użytku przed dniem wejścia w życie ustawy.
 
-**Art. 32.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r., z wyjątkiem rozdziału 3, którego przepisy wchodzą w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 32.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r., z wyjątkiem rozdziału 3, którego przepisy wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
 

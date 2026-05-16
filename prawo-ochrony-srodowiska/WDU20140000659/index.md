@@ -8,9 +8,10 @@ pos: 659
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# Warszawa, dnia 21 maja 2014 Poz.
+# Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000659) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/659/text.pdf) |
 
-USTAWA dnia 4 kwietnia 2014 zmianie Prawo wodne niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 18 lipca 2001 Prawo wodne (Dz. 2012 145, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2013 r. poz. 482, z późn. zm.) w art. 80 w § 1 pkt 1 otrzymuje brzmienie: „
 
-**Art. 2.** W ustawie dnia 20 maja 1971 Kodeks wykroczeń (Dz. 2013 482, późn. zm. ) art. 80 § pkt otrzymuje brzmienie: przejeżdża pojazdem konno albo przepędza zwierzę gospodarskie przez wał przeciwpowodziowy miejscu do tego nieprzeznaczonym przejeżdża pojazdem innym niż rower konno albo przepędza zwierzę gospodarskie wzdłuż po wale przeciwpowodziowym, na którym nie ma drogi dostatecznie mocnej nawierzchni,”.
+**Art. 3.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 21 marca 1985 drogach publicznych (Dz. 2013 260, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2014 r. poz. 518) w art. 6 pkt 1 otrzymuje brzmienie: „
 
-**Art. 4.** W ustawie dnia 21 sierpnia 1997 gospodarce nieruchomościami (Dz. 2014 518) art. 6 pkt otrzymuje brzmienie: wydzielanie gruntów pod drogi publiczne, drogi rowerowe drogi wodne, budowa, utrzymywanie wykonywanie budowlanych tych dróg, obiektów urządzeń transportu publicznego, łączności publicznej sygnalizacji;”.
-
-**Art. 5.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

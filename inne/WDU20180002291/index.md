@@ -1,0 +1,36 @@
+---
+title: "Rozporządzenie Ministra Zdrowia z dnia 27 listopada 2018 r. w sprawie wysokości opłaty za złożenie wniosku o wydanie lub zmianę zgody na wytwarzanie produktu leczniczego terapii zaawansowanej - wyjątku szpitalnego"
+address: WDU20180002291
+eli: DU/2018/2291
+publisher: DU
+year: 2018
+pos: 2291
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Zdrowiaz dnia 27 listopada 2018 r. w sprawie wysokości opłaty za złożenie wniosku o wydanie lub zmianę zgody na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 2291 |
+| ISAP | WDU20180002291 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-11-27 |
+| Data wydania | 2018-12-07 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2291/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 38a ust. 16 pkt 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Opłata za złożenie wniosku o wydanie zgody na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego wynosi 6000 zł.
+§ 2.
+Opłata za złożenie wniosku o zmianę zgody na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego wynosi 3000 zł.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

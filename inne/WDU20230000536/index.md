@@ -8,9 +8,10 @@ pos: 536
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 marca 2023 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 9 lutego 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo probiercze
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +25,18 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000536) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/536/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo probiercze
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 1 kwietnia 2011 r. Prawo probiercze (Dz. U. z 2022 r. poz. 1800), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lutego 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 66 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią: „Art. 66. Do postępowań w sprawie wydania decyzji, o której mowa w art. 19 ust. 8 ustawy zmienianej w art. 31, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 81. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 45 pkt 1, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2021 r.;
-2) art. 46, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.;
-3) art. 47 i art. 79 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-4) art. 8 pkt 2, art. 21, art. 22 pkt 1−9, art. 28 i art. 38 pkt 6, pkt 9 lit. b i pkt 10, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-5) art. 5, który wchodzi w życie z dniem 1 stycznia 2023 r.;
-6) art. 22 pkt 10–12 oraz art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 1 kwietnia 2011 r.
-Prawo probiercze
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 1 kwietnia 2011 r. Prawo probiercze Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady i warunki wprowadzania do obrotu wyrobów z metali szlachetnych oraz obrotu nimi na terytorium Rzeczypospolitej Polskiej Rozdział 3 – Zasady i tryb przeprowadzania badań i oznaczania wyrobów z metali szlachetnych oraz wyrobów zawierających metale szlachetne Rozdział 4 – Próby dla wyrobów z metali szlachetnych Rozdział 5 – Organy administracji probierczej Rozdział 6 – Nadzór nad wykonywaniem przepisów ustawy Rozdział 7 – Przepisy karne Rozdział 8 – Zmiany w przepisach obowiązujących, przepisy dostosowujące, przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. z 2022 r. poz. 1800), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lutego 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 66 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią:
+„
+
+**Art. 66.** Do postępowań w sprawie wydania decyzji, o której mowa w art. 19 ust. 8 ustawy zmienianej w art. 31, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. ” „
+
+**Art. 81.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -60,14 +60,14 @@ Prawo probiercze
 
 1. Przepisu art. 4 nie stosuje się do następujących wyrobów z metali szlachetnych:
 
-- **1)** w których masa części wykonanych ze stopu metali szlachetnych jest mniejsza niż:
-    - **a)** 1 gram dla stopów platyny,
-    - **b)** 1 gram dla stopów złota,
-    - **c)** 5 gramów dla stopów srebra;
+- **1)** w których masa części wykonanych ze stopu metali szlachetnych jest mniejsza niż: 1 gram – dla stopów platyny, 1 gram – dla stopów złota, 5 gramów – dla stopów srebra;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** wyrobów dawnego pochodzenia;
 - **3)** narzędzi i aparatów lub ich części, służących do celów naukowych i przemysłowych;
-- **4)** wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. );
+- **4)** wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.);
 - **5)** odznaczeń i orderów w rozumieniu przepisów ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2022 r. poz. 1031) oraz odznak honorowych ustanowionych na podstawie przepisów ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2023 r. poz. 76) przez organy władzy publicznej;
 - **6)** inkrustacji;
 - **7)** monet, które są albo były znakami pieniężnymi stanowiącymi prawny środek płatniczy na terytorium Rzeczypospolitej Polskiej albo w innych państwach, oraz monet przeznaczonych na cele kolekcjonerskie oraz inne, których sprzedaż prowadzi Narodowy Bank Polski, chociażby stanowiły części składowe wyrobów z metali szlachetnych;
@@ -77,7 +77,7 @@ Prawo probiercze
 
 - **1)** zapewnić zgodność prób tych wyrobów z próbami określonymi w art. 24 ust. 1, z uwzględnieniem przepisów art. 13 ust. 1 i 2;
 - **2)** przekazać informację o próbach tych wyrobów podmiotowi, któremu udostępnia te wyroby w celu używania lub sprzedaży;
-- **3)** oznaczyć te wyroby znakiem imiennym, chyba że są one oznaczone cechami probierczymi, na podstawie których dopuszczono je do obrotu w państwach członkowskich Unii Europejskiej, w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym lub w Republice Turcji.
+- **3)** oznaczyć te wyroby znakiem imiennym, chyba że są one oznaczone cechami probierczymi, na podstawie których dopuszczono je do obrotu w państwach członkowskich Unii Europejskiej, w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub w Republice Turcji.
 
 3. Podmiot dokonujący obrotu wyrobami z metali szlachetnych, o których mowa w ust. 1 pkt 1, jest obowiązany do umieszczenia na metce dołączonej do wyrobu informacji o próbie, z uwzględnieniem przepisów art. 13 ust. 1 i 2, oraz o masie części wykonanych ze stopu metalu szlachetnego.
 
@@ -118,12 +118,12 @@ Prawo probiercze
 - **2)** wraz ze wszystkimi częściami składowymi, z wyjątkiem wyrobów nowo wytworzonych, które mogą być zgłaszane bez kamieni;
 - **3)** oczyszczone, posegregowane i niesplątane;
 - **4)** nieuszkodzone, z wyjątkiem wyrobów, o których mowa w art. 6 ust. 1 pkt 2;
-- **5)** oznaczone znakiem imiennym w przypadku wyrobów nowo wytworzonych na terytorium Rzeczypospolitej Polskiej.
+- **5)** oznaczone znakiem imiennym – w przypadku wyrobów nowo wytworzonych na terytorium Rzeczypospolitej Polskiej.
 
 2. Wyroby z metali szlachetnych niespełniające warunków, o których mowa w ust. 1, są zwracane podmiotowi zgłaszającemu w celu usunięcia braków, z wyjątkiem wyrobów niespełniających warunków, o których mowa w:
 
-- **1)** ust. 1 pkt 3 w przypadku gdy podmiot zgłaszający złoży wniosek o wykonanie czynności pomocniczych w zakresie oczyszczenia, posegregowania lub rozplątania wyrobów przez organ administracji probierczej;
-- **2)** ust. 1 pkt 5 w przypadku gdy podmiot zgłaszający złoży wniosek o umieszczenie znaku imiennego przez organ administracji probierczej.
+- **1)** ust. 1 pkt 3 – w przypadku gdy podmiot zgłaszający złoży wniosek o wykonanie czynności pomocniczych w zakresie oczyszczenia, posegregowania lub rozplątania wyrobów przez organ administracji probierczej;
+- **2)** ust. 1 pkt 5 – w przypadku gdy podmiot zgłaszający złoży wniosek o umieszczenie znaku imiennego przez organ administracji probierczej.
 
 3. Na wniosek właściciela wyrobu z metalu szlachetnego wyroby oznaczone cechą probierczą, które zostały poddane przeróbkom, naprawom lub uzupełnieniom, mogą być zgłoszone do ponownego badania i oznaczenia cechą probierczą przez dokonującego przeróbki, naprawy lub uzupełnienia.
 
@@ -183,8 +183,8 @@ Prawo probiercze
 - **1)** oznaczenie podmiotu dokonującego zgłoszenia znaku imiennego;
 - **2)** wskazanie adresu do doręczeń lub adresu, pod którym jest wykonywana działalność gospodarcza;
 - **3)** projekt graficzny znaku imiennego;
-- **4)** numer identyfikacji podatkowej (NIP) w przypadku podmiotów i wytwórców, o których mowa w art. 18 ust. 2, o ile taki numer posiadają;
-- **5)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub numer innego dokumentu potwierdzającego tożsamość i obywatelstwo w przypadku wytwórcy, o którym mowa w ust. 2.
+- **4)** numer identyfikacji podatkowej (NIP) – w przypadku podmiotów i wytwórców, o których mowa w art. 18 ust. 2, o ile taki numer posiadają;
+- **5)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub numer innego dokumentu potwierdzającego tożsamość i obywatelstwo – w przypadku wytwórcy, o którym mowa w ust. 2.
 
 5. Podmiot, o którym mowa w ust. 4 pkt 1, jest obowiązany do przedstawienia znaku imiennego we właściwym okręgowym urzędzie probierczym w celu wykonania odbitki kontrolnej znaku.
 
@@ -194,9 +194,9 @@ Prawo probiercze
 
 8. Wpis znaku imiennego do rejestru znaków imiennych oraz odmowa wpisu następują w drodze decyzji administracyjnej wydanej przez dyrektora. Uzasadnienie decyzji o odmowie wpisu znaku imiennego do rejestru znaków imiennych powinno zawierać wskazanie przyczyny odmowy.
 
-8a. Do postępowania w sprawie wydania decyzji, o której mowa w ust. 8, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185).
+8a. Do postępowania w sprawie wydania decyzji, o której mowa w ust. 8, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185).
 
-8b. Do postępowania w sprawie wydania decyzji, o której mowa w ust. 8, nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+8b. Do postępowania w sprawie wydania decyzji, o której mowa w ust. 8, nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 9. Podmiot, o którym mowa w ust. 4 pkt 1, jest obowiązany do zawiadamiania dyrektora o zmianach danych objętych wpisem do rejestru znaków imiennych, w terminie miesiąca od powstania tych zmian.
 
@@ -208,8 +208,8 @@ Prawo probiercze
 - **2)** data wpisu do rejestru znaków imiennych;
 - **3)** oznaczenie podmiotu, o którym mowa w art. 19 ust. 4 pkt 1;
 - **4)** adres do doręczeń lub adres, pod którym jest wykonywana działalność gospodarcza;
-- **5)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym oraz numer identyfikacji podatkowej (NIP) w przypadku podmiotów i wytwórców, o których mowa w art. 18 ust. 2, o ile takie numery posiadają;
-- **6)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub numer innego dokumentu potwierdzającego tożsamość i obywatelstwo w przypadku wytwórcy, o którym mowa w art. 19 ust. 2;
+- **5)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym oraz numer identyfikacji podatkowej (NIP) – w przypadku podmiotów i wytwórców, o których mowa w art. 18 ust. 2, o ile takie numery posiadają;
+- **6)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub numer innego dokumentu potwierdzającego tożsamość i obywatelstwo – w przypadku wytwórcy, o którym mowa w art. 19 ust. 2;
 - **7)** informacje o zmianie danych objętych wpisem do rejestru znaków imiennych wraz ze wskazaniem daty powstania tych zmian.
 - **8)** (uchylony)
 
@@ -233,31 +233,31 @@ Prawo probiercze
 
 1. Ustala się następujące obowiązujące próby dla:
 
-- **1)** platyny:
-    - **a)** 0,999,
-    - **b)** 0,950,
-    - **c)** 0,850;
+- **1)** platyny: 0,999, 0,950, 0,850;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** palladu:
-    - **a)** 0,999,
-    - **b)** 0,850,
-    - **c)** 0,500;
+- **2)** palladu: 0,999, 0,850, 0,500;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **3)** złota:
-    - **a)** 0,999,
-    - **b)** 0,960,
-    - **c)** 0,750,
-    - **d)** 0,585,
-    - **e)** 0,500,
-    - **f)** 0,375,
-    - **g)** 0,333;
+- **3)** złota: 0,999, 0,960, 0,750, 0,585, 0,500, 0,375, 0,333;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-- **4)** srebra:
-    - **a)** 0,999,
-    - **b)** 0,925,
-    - **c)** 0,875,
-    - **d)** 0,830,
-    - **e)** 0,800.
+- **4)** srebra: 0,999, 0,925, 0,875, 0,830, 0,800.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 2. W wyrobach platynowych wykonanych ze stopu, w którym obok platyny występuje iryd, osm, rod lub ruten, jako zawartość platyny przyjmuje się łączną zawartość tych metali.
 
@@ -269,8 +269,8 @@ Prawo probiercze
 
 1. Do łączenia części wyrobów ze złota:
 
-- **1)** o próbie niższej niż 0,750 stosuje się lutowie ze złota o próbie co najmniej równej próbie wyrobu;
-- **2)** o próbie równej 0,750 lub wyższej stosuje się lutowie ze złota o próbie nie niższej niż 0,750.
+- **1)** o próbie niższej niż 0,750 – stosuje się lutowie ze złota o próbie co najmniej równej próbie wyrobu;
+- **2)** o próbie równej 0,750 lub wyższej – stosuje się lutowie ze złota o próbie nie niższej niż 0,750.
 
 2. Do łączenia części z platyny stosuje się lutowie, w którym minimalna łączna zawartość metali szlachetnych wynosi 0,800.
 
@@ -304,7 +304,7 @@ Prawo probiercze
 
 2. Nadzór nad Prezesem sprawuje minister właściwy do spraw gospodarki.
 
-3. Zasady i tryb powoływania i odwoływania Prezesa Głównego Urzędu Miar określa ustawa z dnia 11 maja 2001 r. Prawo o miarach (Dz. U. z 2022 r. poz. 2063).
+3. Zasady i tryb powoływania i odwoływania Prezesa Głównego Urzędu Miar określa ustawa z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2063).
 
 **Art. 30.**
 
@@ -312,7 +312,7 @@ Prawo probiercze
 
 2. Dyrektorzy wykonują swoje zadania przy pomocy kierowanych przez nich okręgowych urzędów probierczych.
 
-3. Okręgowe urzędy probiercze są jednostkami budżetowymi w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. ).
+3. Okręgowe urzędy probiercze są jednostkami budżetowymi w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.).
 
 **Art. 31.**
 
@@ -342,10 +342,10 @@ Prawo probiercze
 - **2)** wskazanie adresu do doręczeń lub adresu, pod którym jest wykonywana działalność gospodarcza;
 - **3)** wykaz wyposażenia technicznego punktu probierczego;
 - **4)** (uchylony)
-- **5)** informacje dotyczące planowanej działalności punktu probierczego, zawierające:
-    - **a)** adres punktu probierczego,
-    - **b)** opis miejsca, w którym będą wykonywane czynności związane z badaniem i oznaczaniem wyrobów z metali szlachetnych oraz wyrobów zawierających metale szlachetne, z uwzględnieniem jego zabezpieczenia,
-    - **c)** dane dotyczące personelu pomocniczego.
+- **5)** informacje dotyczące planowanej działalności punktu probierczego, zawierające: adres punktu probierczego, opis miejsca, w którym będą wykonywane czynności związane z badaniem i oznaczaniem wyrobów z metali szlachetnych oraz wyrobów zawierających metale szlachetne, z uwzględnieniem jego zabezpieczenia, dane dotyczące personelu pomocniczego.
+    - **a)**
+    - **b)**
+    - **c)**
 
 5. Prezes tworzy punkt probierczy po sprawdzeniu, czy podmiot spełnia wymagania konieczne do utworzenia tego punktu. Sprawdzenia dokonuje, z upoważnienia Prezesa, dyrektor.
 
@@ -419,10 +419,10 @@ Prawo probiercze
 1. Organy administracji probierczej sprawują nadzór nad wykonywaniem przepisów ustawy przez:
 
 - **1)** wycofanie z obrotu, w drodze decyzji administracyjnej, wyrobów z metali szlachetnych nieoznaczonych cechami probierczymi albo nieposiadających świadectwa badania, z jednoczesnym poleceniem dostarczenia tych wyrobów do właściwego okręgowego urzędu probierczego w celu zbadania i oznaczenia cechami probierczymi albo wydania świadectw badania;
-- **2)** zabezpieczenie w formie postanowienia:
-    - **a)** wyrobów z metali szlachetnych, w przypadkach gdy autentyczność cech probierczych albo świadectw badania budzi wątpliwości, z jednoczesnym poleceniem dostarczenia ich do właściwego okręgowego urzędu probierczego w celu wykonania ekspertyzy,
-    - **b)** wyrobów z metali szlachetnych, o których mowa w art. 6 ust. 1 pkt 1, w celu wykonania ekspertyzy,
-    - **c)** innych dowodów naruszenia przepisów ustawy;
+- **2)** zabezpieczenie w formie postanowienia: wyrobów z metali szlachetnych, w przypadkach gdy autentyczność cech probierczych albo świadectw badania budzi wątpliwości, z jednoczesnym poleceniem dostarczenia ich do właściwego okręgowego urzędu probierczego w celu wykonania ekspertyzy, wyrobów z metali szlachetnych, o których mowa w art. 6 ust. 1 pkt 1, w celu wykonania ekspertyzy, innych dowodów naruszenia przepisów ustawy;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** wydawanie zaleceń pokontrolnych i sprawdzanie stanu ich realizacji;
 - **4)** kierowanie do właściwego organu zawiadomień o podejrzeniu popełnienia przestępstwa fałszowania cech probierczych albo świadectw badania.
@@ -457,8 +457,8 @@ Prawo probiercze
 
 3. Zespół kontrolujący dokonuje zabezpieczenia wyrobów z metali szlachetnych oraz innych dowodów naruszenia przepisów ustawy w przypadku wyrobów:
 
-- **1)** o których mowa w art. 37 ust. 1 pkt 2 lit. a, oraz innych dowodów naruszenia przepisów ustawy przez umieszczenie ich w pakiecie i nałożenie pieczęci oraz oddanie na przechowanie kontrolowanemu przedsiębiorcy z poleceniem niezwłocznego dostarczenia do właściwego okręgowego urzędu probierczego;
-- **2)** o których mowa w art. 37 ust. 1 pkt 2 lit. b przez pobranie ich za pokwitowaniem do właściwego okręgowego urzędu probierczego.
+- **1)** o których mowa w art. 37 ust. 1 pkt 2 lit. a, oraz innych dowodów naruszenia przepisów ustawy – przez umieszczenie ich w pakiecie i nałożenie pieczęci oraz oddanie na przechowanie kontrolowanemu przedsiębiorcy z poleceniem niezwłocznego dostarczenia do właściwego okręgowego urzędu probierczego;
+- **2)** o których mowa w art. 37 ust. 1 pkt 2 lit. b – przez pobranie ich za pokwitowaniem do właściwego okręgowego urzędu probierczego.
 
 4. Zabezpieczenia wyrobów z metali szlachetnych, o których mowa w ust. 3, dokonuje się na czas niezbędny do przeprowadzenia czynności mających na celu ustalenie i wyjaśnienie okoliczności sprawy będącej przedmiotem kontroli, nie dłużej jednak niż na okres 30 dni, licząc od dnia dostarczenia pakietu do właściwego okręgowego urzędu probierczego albo pobrania za pokwitowaniem.
 
@@ -489,7 +489,7 @@ Prawo probiercze
 
 **Art. 43.** W uzasadnionych przypadkach, jeżeli zespół kontrolujący natrafi na opór, który uniemożliwia lub utrudnia wykonywanie czynności kontrolnych, może wezwać do pomocy funkcjonariuszy Policji.
 
-**Art. 44.** W zakresie nieuregulowanym w niniejszej ustawie do kontroli działalności gospodarczej przedsiębiorców stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221).
+**Art. 44.** W zakresie nieuregulowanym w niniejszej ustawie do kontroli działalności gospodarczej przedsiębiorców stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221).
 
 #### Rozdział 7 Przepisy karne
 
@@ -499,7 +499,7 @@ Prawo probiercze
 
 **Art. 47.** Kto nie dopełnia obowiązków określonych w art. 6 ust. 2 i 3, art. 8, art. 18 ust. 2 lub art. 19 ust. 1 i 5, podlega karze grzywny.
 
-**Art. 48.** Orzekanie w sprawach o czyny wymienione w art. 45–47 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+**Art. 48.** Orzekanie w sprawach o czyny wymienione w art. 45–47 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy dostosowujące, przejściowe i końcowe
 
@@ -507,7 +507,7 @@ Prawo probiercze
 
 **Art. 50.**
 
-1. Z dniem wejścia w życie niniejszej ustawy znosi się organy administracji probierczej naczelników obwodowych urzędów probierczych oraz likwiduje się obwodowe urzędy probiercze.
+1. Z dniem wejścia w życie niniejszej ustawy znosi się organy administracji probierczej – naczelników obwodowych urzędów probierczych oraz likwiduje się obwodowe urzędy probiercze.
 
 2. Dotychczasowe zadania i kompetencje naczelników obwodowych urzędów probierczych przejmują właściwi miejscowo dyrektorzy.
 
@@ -528,7 +528,7 @@ Prawo probiercze
 
 2. Z dniem wejścia w życie niniejszej ustawy pracownicy zatrudnieni w obwodowych urzędach probierczych stają się pracownikami właściwych miejscowo okręgowych urzędów probierczych.
 
-3. Właściwi dyrektorzy są obowiązani zawiadomić na piśmie pracowników, o których mowa w ust. 1 i 2, o zmianach, jakie mają nastąpić w zakresie ich stosunku pracy. Przepis art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. poz. 94, z późn. zm. ) stosuje się odpowiednio.
+3. Właściwi dyrektorzy są obowiązani zawiadomić na piśmie pracowników, o których mowa w ust. 1 i 2, o zmianach, jakie mają nastąpić w zakresie ich stosunku pracy. Przepis art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. poz. 94, z późn. zm.) stosuje się odpowiednio.
 
 4. Przepisów ust. 2 i ust. 3 zdanie drugie nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. poz. 1505, z 2009 r. poz. 1241 i 1706 oraz z 2011 r. poz. 451).
 
@@ -538,7 +538,7 @@ Prawo probiercze
 
 **Art. 56.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1a, art. 5 oraz art. 16 ust. 2 ustawy wymienionej w art. 57 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17, art. 33 ust. 1 oraz art. 36 ust. 8 niniejszej ustawy, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 57.** Traci moc ustawa z dnia 3 kwietnia 1993 r. Prawo probiercze (Dz. U. poz. 249, z późn. zm. ).
+**Art. 57.** Traci moc ustawa z dnia 3 kwietnia 1993 r. – Prawo probiercze (Dz. U. poz. 249, z późn. zm.).
 
-**Art. 58.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem przepisów art. 24 ust. 1 pkt 1 lit. a i c, pkt 2 lit. a, pkt 3 lit. a i pkt 4 lit. a, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 58.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów art. 24 ust. 1 pkt 1 lit. a i c, pkt 2 lit. a, pkt 3 lit. a i pkt 4 lit. a, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
 

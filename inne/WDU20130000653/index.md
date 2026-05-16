@@ -8,9 +8,10 @@ pos: 653
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 czerwca 2013 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 22 maja 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/653/text.pdf) |
 
-Poz. 653 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 22 maja 2013 r.
-sygn. akt P 46/11 Trybunał Konstytucyjny w składzie: Andrzej Rzepliński – przewodniczący, Stanisław Biernat, Zbigniew Cieślak, Maria Gintowt-Jankowicz, Wojciech Hermeliński, Leon Kieres, Marek Kotlinowski, Teresa Liszcz, Małgorzata Pyziak-Szafnicka – sprawozdawca, Stanisław Rymar, Piotr Tuleja, Sławomira Wronkowska-Jaśkiewicz, Andrzej Wróbel, Marek Zubik, po rozpoznaniu, z udziałem sądu przedstawiającego pytanie prawne oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 22 maja 2013 r., pytania prawnego Sądu Rejonowego w Gliwicach, czy art. 57 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, ze zm.) jest zgodny z art. 64 ust. 1 w związku z art. 2 i w związku z art. 24 zdanie pierwsze Konstytucji, orzeka:
-Art. 57 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, ze zm.) jest zgodny z art. 64 ust. 1 w związku z art. 2 i w związku z art. 24 zdanie pierwsze Konstytucji Rzeczypospolitej Polskiej.
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Andrzej Rzepliński – przewodniczący, Stanisław Biernat, Zbigniew Cieślak, Maria Gintowt-Jankowicz, Wojciech Hermeliński, Leon Kieres, Marek Kotlinowski, Teresa Liszcz, Małgorzata Pyziak-Szafnicka – sprawozdawca, Stanisław Rymar, Piotr Tuleja, Sławomira Wronkowska-Jaśkiewicz, Andrzej Wróbel, Marek Zubik, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem sądu przedstawiającego pytanie prawne oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 22 maja 2013 r., pytania prawnego Sądu Rejonowego w Gliwicach, czy art. 57 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, ze zm.) jest zgodny z art. 64 ust. 1 w związku z art. 2 i w związku z art. 24 zdanie pierwsze Konstytucji, orzeka: Art. 57 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, ze zm.) jest zgodny z art. 64 ust. 1 w związku z art. 2 i w związku z art. 24 zdanie pierwsze Konstytucji Rzeczypospolitej Polskiej.
 

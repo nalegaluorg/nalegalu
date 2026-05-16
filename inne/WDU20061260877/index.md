@@ -8,9 +8,10 @@ pos: 877
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# z dnia 12 maja 2006 r.
+# Ustawa z dnia 9 czerwca 2006 r. o zmianie ustawy o ochronie prawnej odmian roślin i ustawy o nasiennictwie
 
 | Pole | Wartość |
 |---|---|
@@ -24,69 +25,117 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061260877) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/877/text.pdf) |
 
-zmianie ustawy kosztach sądowych sprawach cywilnych
+**Art. 1.** W ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. Nr 137, poz. 1300) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 28 lipca 2005 r. okosztach sądowych sprawach cywilnych (Dz. U. 167, poz. 1398) art. 96 1 wprowadza się następujące zmiany:
+**Art. 4a.** Osoba, która wyhodowała albo odkryła i wyprowadziła odmianę w ramach umowy o pracę albo na podstawie innej umowy zawartej z hodowcą, ma prawo do wynagrodzenia za wszelkie zarobkowe korzystanie z odmiany, chyba że umowa zawarta z hodowcą stanowi inaczej. ” ;
 
-**Art. 2.** W sprawach, których mowa art. 1, wszczętych iniezakończonych dodnia wejścia wżycie niniejszej ustawy, sąd z urzędu zwraca powiatowemu (miejskiemu) rzecznikowi konsumentów lub stronie dochodzącej naprawienia szkód spowodowanych ruchem zakładu górniczego uiszczone przez nich koszty sądowe.
+**Art. 23.**
 
-**Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. USTAWA z dnia 9 czerwca 2006 r. zmianie ustawy ochronie prawnej odmian roślin i ustawy nasiennictwie
+1. Posiadacz gruntów rolnych może, za opłatą uiszczaną na rzecz hodowcy, używać materiału ze zbioru jako materiału siewnego odmiany chronionej wyłącznym prawem, z zastrzeżeniem ust. 3.
 
-**Art. 1.** W ustawie z dnia 26 czerwca 2003 r. ochronie prawnej odmian roślin (Dz. U. 137, poz. 1300) wprowadza się następujące zmiany:
+2. Prawo do używania materiału ze zbioru jako materiału, o którym mowa w ust. 1:
 
-**Art. 23b.**
+- **1)** dotyczy materiału siewnego odmian następujących roślin: pszenicy zwyczajnej, żyta, jęczmienia, pszenżyta, owsa, kukurydzy, rzepaku ozimego, ziemniaka;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
-1. Przetwórca albo organizacja przetwórców są obowiązani do przekazywania hodowcy albo organizacji hodowców, na ich wniosek, pisemnej informacji dotyczącej usługi przygo2. Downiosku, októrym mowa wust. 1, stosuje się odpowiednio przepisy art. 23a 2.
+- **2)** nie dotyczy odmian mieszańcowych i odmian powstałych ze swobodnego krzyżowania się linii gatunków obcopylnych (odmian syntetycznych).
 
-3. Sposób oraz zakres udzielania informacji, której mowa 1, są ustalane umowie zawartej między przetwórcą albo organizacją przetwórców ahodowcą albo organizacją hodowców.
+3. Posiadacz gruntów rolnych o powierzchni do 10 ha może używać materiału ze zbioru odmiany chronionej wyłącznym prawem, będącej odmianą roślin, o których mowa w ust. 2 pkt 1, jako materiału siewnego bez konieczności uiszczania opłaty na rzecz hodowcy.
 
-4. Jeżeli umowa określona 3 nie została zawarta, informacja, której mowa 1, zawiera:
+4. Wysokość opłaty, o której mowa w ust. 1, sposób oraz termin jej uiszczenia są ustalane w umowie zawartej między:
 
-- **1)** imię inazwisko oraz adres miejsca zamieszkania albo nazwę i adres siedziby przetwórcy;
-- **2)** oświadczenie przetwórcy wykonaniu usługi przygotowania do rozmnażania materiału ze zbioru, którym mowa art. 23 2 pkt 1, namateriał siewny wodniesieniu do odmiany lub odmian, do których hodowcy przysługuje wyłączne prawo, wraz ze wskazaniem daty wykonania tej usługi;
-- **3)** wskazanie ilości materiału ze zbioru, októrym mowa wart. 23 2 pkt 1, co do której przetwórca wykonał usługę przygotowania do rozmnażania na materiał siewny, oraz ilości uzyskanego ten sposób materiału siewnego;
-- **4)** imię inazwisko oraz adres miejsca zamieszkania albo nazwę i adres siedziby posiadacza gruntów rolnych, dla którego przetwórca wykonał usługę przygotowania do rozmnażania materiału ze zbioru, októrym mowa wart. 23 2 towania dorozmnażania materiału ze pkt 1, na materiał siewny.
+- **1)** hodowcą a posiadaczem gruntów rolnych albo
+- **2)** hodowcą a organizacją reprezentującą posiadaczy gruntów rolnych, albo
+- **3)** organizacją hodowców a posiadaczem gruntów rolnych, albo
+- **4)** organizacją hodowców a organizacją reprezentującą posiadaczy gruntów rolnych z tym że wysokość opłaty nie powinna przekraczać wysokości opłaty licencyjnej za daną kategorię materiału siewnego, ustalonej przez hodowcę tego materiału.
 
-**Art. 23c.**
+5. Jeżeli umowa, o której mowa w ust. 4, nie została zawarta, to opłata uiszczana na rzecz hodowcy:
 
-1. Hodowcy albo organizacji hodowców przysługuje prawo kontroli zgodności uzyskanych informacji, októrych mowa wart. 23a 1 iart. 23b 1, ze stanem faktycznym.
+- **1)** wynosi 50% opłaty licencyjnej za daną kategorię materiału siewnego, ustalonej w danym roku przez hodowcę tego materiału;
+- **2)** powinna być uiszczona w terminie 30 dni od dnia wykorzystania materiału ze zbioru, o którym mowa w ust. 2 pkt 1, jako materiału siewnego odmiany chronionej wyłącznym prawem.
 
-2. Sposób oraz zakres przeprowadzania kontroli, której mowa 1, są ustalane umowie zawartej między hodowcą albo organizacją hodowców a:
+6. Jeżeli posiadacz gruntów rolnych nie uiszcza opłaty, o której mowa w ust. 1, hodowca może żądać od niego zapłaty odsetek ustawowych za każdy dzień zwłoki. ” ;
+
+- **14)** po art. 23 dodaje się art. 23a-23c w brzmieniu: „
+
+1. Posiadacz gruntów rolnych, z wyłączeniem posiadacza gruntów rolnych określonego w art. 23 ust. 3, albo organizacja reprezentująca posiadaczy gruntów rolnych są obowiązani do przekazywania hodowcom albo organizacjom hodowców, na ich wniosek, pisemnej informacji dotyczącej wykorzystania materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, jako materiału siewnego.
+
+2. Wniosek, o którym mowa w ust. 1, zawiera w szczególności:
+
+- **1)** imię i nazwisko oraz adres miejsca zamieszkania albo nazwę i adres siedziby hodowcy;
+- **2)** wskazanie: odmiany lub odmian, w odniesieniu do których hodowca albo organizacja hodowców wnioskują o udzielenie informacji, wysokości opłaty licencyjnej dla poszczególnych odmian roślin, o których mowa w lit. a.
+    - **a)**
+    - **b)**
+
+3. Sposób oraz zakres udzielania informacji, o której mowa w ust. 1, są ustalane w umowie określonej w art. 23 ust. 4.
+
+4. Jeżeli umowa określona w art. 23 ust. 4 nie została zawarta, informacja, o której mowa w ust. 1, zawiera:
+
+- **1)** imię i nazwisko oraz adres miejsca zamieszkania albo nazwę i adres siedziby posiadacza gruntów rolnych;
+- **2)** dane umożliwiające identyfikację działek rolnych, w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, wchodzących w skład gospodarstwa rolnego posiadacza gruntów rolnych;
+- **3)** oświadczenie posiadacza gruntów rolnych o wykorzystaniu bądź niewykorzystaniu materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, jako materiału siewnego wraz z podaniem nazw odmian, w stosunku do których wyłączne prawo posiada hodowca;
+- **4)** wskazanie ilości materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, wykorzystanego jako materiał siewny;
+- **5)** imię i nazwisko oraz adres miejsca zamieszkania albo nazwę i adres siedziby przetwórcy, który wykonał dla posiadacza gruntów rolnych usługę przygotowania do rozmnażania materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, na materiał siewny;
+- **6)** imię i nazwisko oraz adres miejsca zamieszkania albo nazwę i adres siedziby podmiotu, od którego posiadacz gruntów rolnych nabył kwalifikowany materiał siewny odmiany lub odmian, o których mowa w ust. 2 pkt 2 lit. a, wraz ze wskazaniem ilości tego materiału.
+
+5. Przepisy ust. 1, ust. 2 pkt 1 i pkt 2 lit. a oraz ust. 4 w zakresie obowiązku udzielania hodowcy lub organizacji hodowców pisemnej informacji stosuje się do Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, jeżeli dysponuje ona takimi informacjami.
+
+1. Przetwórca albo organizacja przetwórców są obowiązani do przekazywania hodowcy albo organizacji hodowców, na ich wniosek, pisemnej informacji dotyczącej usługi przygotowania do rozmnażania materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, na materiał siewny, wykonanej dla posiadacza gruntów rolnych.
+
+2. Do wniosku, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 23a ust. 2.
+
+3. Sposób oraz zakres udzielania informacji, o której mowa w ust. 1, są ustalane w umowie zawartej między przetwórcą albo organizacją przetwórców a hodowcą albo organizacją hodowców.
+
+4. Jeżeli umowa określona w ust. 3 nie została zawarta, informacja, o której mowa w ust. 1, zawiera:
+
+- **1)** imię i nazwisko oraz adres miejsca zamieszkania albo nazwę i adres siedziby przetwórcy;
+- **2)** oświadczenie przetwórcy o wykonaniu usługi przygotowania do rozmnażania materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, na materiał siewny – w odniesieniu do odmiany lub odmian, do których hodowcy przysługuje wyłączne prawo, wraz ze wskazaniem daty wykonania tej usługi;
+- **3)** wskazanie ilości materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, co do której przetwórca wykonał usługę przygotowania do rozmnażania na materiał siewny, oraz ilości uzyskanego w ten sposób materiału siewnego;
+- **4)** imię i nazwisko oraz adres miejsca zamieszkania albo nazwę i adres siedziby posiadacza gruntów rolnych, dla którego przetwórca wykonał usługę przygotowania do rozmnażania materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, na materiał siewny.
+
+1. Hodowcy albo organizacji hodowców przysługuje prawo kontroli zgodności uzyskanych informacji, o których mowa w art. 23a ust. 1 i art. 23b ust. 1, ze stanem faktycznym.
+
+2. Sposób oraz zakres przeprowadzania kontroli, o której mowa w ust. 1, są ustalane w umowie zawartej między hodowcą albo organizacją hodowców a:
 
 - **1)** posiadaczem gruntów rolnych;
 - **2)** organizacją reprezentującą posiadaczy gruntów rolnych;
 - **3)** przetwórcą;
-- **4)** organizacją przetwórców. na na podstawie pełnomocnictwa Ń2. Jeżeli hodowca odmiany chronionej wyłączprzez hodowcę albo organizację ho- nym prawem Rzeczypospolitej Polskiej uzydowców. ska wspólnotowe wyłączne prawo do tej od4. W celu przeprowadzenia kontroli: miany, to okresie wykonywania tego prawa nie może wykonywać wyłącznego prawa uzy1) posiadacz gruntów rolnych: skanego Rzeczypospolitej Polskiej.”; innych obiektów przeznaczeniu gospodarczym, a także 17) po art. 37 dodaje się art. 37a i 37b brzmieniu: do środków transportu; ŃArt. 37a. Kto:
-    - **a)** udostępnia, nażądanie przepro- 16) art. 37 otrzymuje brzmienie: wadzającego kontrolę, dokumenty potwierdzające zgodność ŃArt. 37. Kto: informacji przekazanych ho- 1) narusza wyłączne prawo do odmiany, dowcy zgodnie z art. 23a 1 2) oznacza nazwą odmiany chronionej ze stanem faktycznym, wyłącznym prawem materiał siewny
-    - **b)** jest obowiązany umożliwić lub materiał ze zbioru innej lub nieprzeprowadzającemu kontrolę znanej odmiany wstęp na grunty rolne, do bu- podlega grzywnie, karze ograniczenia dynków gospodarczych, po- wolności albo pozbawienia wolności mieszczeń gospodarczych oraz do roku.”;
+- **4)** organizacją przetwórców.
 
-- **2)** przetwórca: 1) uniemożliwia przeprowadzenie kona) udostępnia, nażądanie przepro- troli zachowania odmiany, wadzającego kontrolę, doku- 2) uniemożliwia wgląd do dokumentów menty: dotyczących zachowania odmiany, dotyczące wykonanych przez 3) nie dostarcza materiału siewnego odniego usług przygotowania miany Centralnemu Ośrodkowi do rozmnażania materiału ze do badań OWT albo podmiotowi, zbioru, którym mowa któremu przyznano licencję przymuart. 23 2 pkt 1, na ma- sową, albo dostarcza go ilości nieteriał siewny, wystarczającej lub po ustalonym terzawierające wskazanie ilości minie, materiału ze zbioru, októrym 4) nie udziela, na wniosek hodowcy, mowa art. 23 2 pkt 1, którego odmiana jest chroniona wyco do której przetwórca wy- łącznym prawem, albo organizacji konał usługę przygotowania hodowców, informacji, októrych modo rozmnażania na materiał wa wart. 23 6 oraz art. 23b 1, siewny, oraz ilości uzyskane- lub udziela informacji fałszywych, go ten sposób materiału 5) uniemożliwia hodowcy albo organizasiewnego, cji hodowców przeprowadzenie kontroli, októrej mowa wart. 23c 1 wstęp do pomieszczeń i urzą- Art. 37b. Orzekanie sprawach określonych dzeń przetwórczych lub maga- wart. 37a następuje wtrybie przepisów zynowych. Kodeksu postępowania sprawach
-    - **b)** jest obowiązany umożliwić przeprowadzającemu kontrolę podlega karze grzywny.
+3. Jeżeli umowa określona w ust. 2 nie została zawarta, kontrolę przeprowadza hodowca albo organizacja hodowców, albo osoba upoważniona na podstawie pełnomocnictwa przez hodowcę albo organizację hodowców.
 
-5. Z przeprowadzonej kontroli przepro- wykroczenia.”. wadzający kontrolę sporządza proto- Art. 2. kół. W ustawie z dnia 26 czerwca 2003 r. nasiennictwie (Dz. U. 137, poz. 1299, z póên. zm.
+4. W celu przeprowadzenia kontroli:
+
+- **1)** posiadacz gruntów rolnych: udostępnia, na żądanie przeprowadzającego kontrolę, dokumenty potwierdzające zgodność informacji przekazanych hodowcy zgodnie z art. 23a ust. 1 ze stanem faktycznym, jest obowiązany umożliwić przeprowadzającemu kontrolę wstęp na grunty rolne, do budynków gospodarczych, pomieszczeń gospodarczych oraz innych obiektów o przeznaczeniu gospodarczym, a także do środków transportu;
+    - **a)**
+    - **b)**
+
+- **2)** przetwórca: udostępnia, na żądanie przeprowadzającego kontrolę, dokumenty: – dotyczące wykonanych przez niego usług przygotowania do rozmnażania materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, na materiał siewny, – zawierające wskazanie ilości materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, co do której przetwórca wykonał usługę przygotowania do rozmnażania na materiał siewny, oraz ilości uzyskanego w ten sposób materiału siewnego, jest obowiązany umożliwić przeprowadzającemu kontrolę wstęp do pomieszczeń i urządzeń przetwórczych lub magazynowych.
+    - **a)**
+    - **b)**
+
+5. Z przeprowadzonej kontroli przeprowadzający kontrolę sporządza protokół.
 
 6. Protokół podpisują przeprowadzający kontrolę oraz posiadacz gruntów rolnych albo przetwórca.
 
-7. W przypadku odmowy albo braku możliwości podpisania protokołu przez posiadacza gruntów rolnych albo przetwórcę protokół podpisuje przeprowadzający kontrolę i dokonuje protokole adnotacji tej odmo) art. 2 1 wprowadza się następujące zmiany:
+7. W przypadku odmowy albo braku możliwości podpisania protokołu przez posiadacza gruntów rolnych albo przetwórcę protokół podpisuje przeprowadzający kontrolę i dokonuje w protokole adnotacji o tej odmowie albo o przyczynach uniemożliwiających podpisanie protokołu. ” ;
 
-- **1)** pkt 1 otrzymuje brzmienie: Ń1) odmiana— oznacza zbiorowość roślin wobrębie botanicznej jednostki systematycznej naj——————— właściwości wynikających z określonego bo odkryła i wyprowadziła odmianę, albo”. genotypu lub kombinacji genotypów, z przejawianych właściwości, sprawie przebiegu granic obszarów dorzeczy i regionów wodnych Na podstawie art. 3 3 ustawy z dnia 18 lipca zawartych na Mapie Podziału Hydrograficznego 2001 r. Prawo wodne (Dz. U. z 2005 r. 239, Polski, opracowanej przez państwową służbę hypoz. 2019 i 267, poz. 2255) zarządza się, co nastę- drologiczno-meteorologiczną. puje:
-    - **b)** jest odróżnialna od każdej innej zbiorowo- Art. 3. Ustawa wchodzi życie po upływie 60 dni ści roślin na podstawie co najmniej jednej od dnia ogłoszenia.
-    - **c)** pozostaje niezmieniona po rozmnożeniu;”; Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 878 ROZPORZÑDZENIE RADY MINISTRÓW z dnia 27 czerwca 2006 r.
+- **15)** w art. 27 ust. 2 otrzymuje brzmienie: „
 
-2. Przebieg granic regionów wodnych ujęty ka§ 1. Rozporządzenie określa: tastrze wodnym ewidencjonuje się z uwzględnieniem lokalizacji budowli hydrotechnicznych mających zna1) sposób ewidencjonowania przebiegu granic ob- czący wpływ na kształtowanie zasobów wodnych. szarów dorzeczy;
+2. Jeżeli hodowca odmiany chronionej wyłącznym prawem w Rzeczypospolitej Polskiej uzyska wspólnotowe wyłączne prawo do tej odmiany, to w okresie wykonywania tego prawa nie może wykonywać wyłącznego prawa uzyskanego w Rzeczypospolitej Polskiej. ” ;
 
-§ 3. 1. Przyporządkowanie zbiorników wód pod2) przyporządkowanie zbiorników wód podziemnych ziemnych dowłaściwych obszarów dorzeczy jest okreoraz wód przybrzeżnych do właściwych obszarów ślone załączniku nr 1 do rozporządzenia. dorzeczy;
+- **16)** art. 37 otrzymuje brzmienie: „
 
-2. Przyporządkowanie wód przybrzeżnych do wła3) regiony wodne; ściwych obszarów dorzeczy jest określone załączniku nr 2 do rozporządzenia.
+**Art. 37.** Kto:
 
-- **4)** regionalne zarządy gospodarki wodnej, wskazując regiony wodne objęte zasięgiem terytorialnym ich § 4. Obszary dorzeczy obejmują następujące regiodziałania oraz siedziby poszczególnych regional- ny wodne: nych zarządów gospodarki wodnej;
-- **1)** obszar dorzecza Wisły:
-- **5)** sposób ewidencjonowania przebiegu granic regionów wodnych. a) region wodny Małej Wisły,
-    - **b)** region wodny Górnej Wisły, § 2. 1. Przebieg granic obszarów dorzeczy oraz przebieg granic regionów wodnych ujętych kata- c) region wodny Ârodkowej Wisły, strze wodnym ewidencjonuje się następujący sposób: d) region wodny Dolnej Wisły;
+**Art. 2.** W ustawie z dnia 26 czerwca 2003 r. o nasiennictwie (Dz. U. Nr 137, poz. 1299, z późn. zm.) w art. 2 w ust. 1 wprowadza się następujące zmiany:
 
-- **1)** wodniesieniu dogranic, które pokrywają się zgra- 2) obszar dorzecza Odry: nicami państwa na podstawie danych zawar- a) region wodny Górnej Odry, tych państwowym rejestrze granic i powierzchni Rzeczypospolitej Polskiej, którym mowa b) region wodny Ârodkowej Odry, art. 7a pkt 6 ustawy z dnia 17 maja 1989 r. c) region wodny Dolnej Odry iPrzymorza ZachodPrawo geodezyjne ikartograficzne (Dz. U. z2005 r. niego, 240, poz. 2027);
-    - **d)** region wodny Warty;
-
-- **2)** wodniesieniu dogranic, które pokrywają się zgranicami hydrograficznymi na podstawie danych 3) obszar dorzecza Dniestru region wodny Dniestru;
-
+**Art. 3.** Ustawa wchodzi w życie po upływie 60 dni od dnia ogłoszenia.
 

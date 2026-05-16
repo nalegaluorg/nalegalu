@@ -8,11 +8,12 @@ pos: 2073
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# spółdzielniach
+# o spółdzielniach rolników
 
-*USTAWA dnia 4 października 2018 r.*
+*USTAWA z dnia 4 października 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,159 +27,179 @@ domain: null
 | Ostatnia zmiana | 2025-04-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2073/text.pdf) |
 
+Art. 19–24. (pominięte)
+
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa określa zasady tworzenia, organizacji, działalności likwidacji ich związków.
+**Art. 1.** Ustawa określa zasady tworzenia, organizacji, działalności i likwidacji spółdzielni rolników i ich związków.
 
-**Art. 2.** Spółdzielnia prowadzi działalność na podstawie niniejszej ustawy oraz zarejestrowanego statutu.
+**Art. 2.** Spółdzielnia rolników prowadzi działalność na podstawie niniejszej ustawy oraz zarejestrowanego statutu.
 
-**Art. 3.** W sprawach nieuregulowanych przepisami niniejszej ustawy do stosuje się przepisy ustawy dnia 16 września 1982 r. Prawo spółdzielcze (Dz. U. 2018 r. poz. 1285), zwanej dalej „ustawą Prawo spółdzielcze”.
+**Art. 3.** W sprawach nieuregulowanych przepisami niniejszej ustawy do spółdzielni rolników stosuje się przepisy ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593), zwanej dalej „ustawą – Prawo spółdzielcze”.
 
 **Art. 4.**
 
-1. Spółdzielnia jest dobrowolnym zrzeszeniem osób fizycznych lub prawnych:
+1. Spółdzielnia rolników jest dobrowolnym zrzeszeniem osób fizycznych lub prawnych:
 
-- **1)** prowadzących gospodarstwo rolne rozumieniu przepisów podatku rolnym lub prowadzących działalność rolniczą zakresie działów specjalnych produkcji rolnej, będących producentami produktów rolnych lub grup tych produktów lub prowadzących chów lub hodowlę ryb, zwanych dalej „rolnikami”,
-- **2)** niebędących rolnikami, prowadzących działalność zakresie przechowywania, magazynowania, sortowania, pakowania lub przetwarzania produktów rolnych lub grup tych produktów, lub ryb, wytworzonych przez rolników, których mowa pkt 1, lub działalność usługową wspomagającą rolnictwo obejmującą świadczenie na rzecz rolników, których mowa pkt 1, usług wykorzystaniem maszyn, narzędzi lub urządzeń służących do wytwarzania przez tych produktów rolnych lub grup tych produktów, lub ryb, zwanych dalej „podmiotami niebędącymi rolnikami” zmiennym składzie osobowym zmiennym funduszu udziałowym, które interesie swoich członków prowadzi wspólną działalność gospodarczą.
+- **1)** prowadzących gospodarstwo rolne w rozumieniu przepisów o podatku rolnym lub prowadzących działalność rolniczą w zakresie działów specjalnych produkcji rolnej, będących producentami produktów rolnych lub grup tych produktów lub prowadzących chów lub hodowlę ryb, zwanych dalej „rolnikami”,
+- **2)** niebędących rolnikami, prowadzących działalność w zakresie przechowywania, magazynowania, sortowania, pakowania lub przetwarzania produktów rolnych lub grup tych produktów, lub ryb, wytworzonych przez rolników, o których mowa w pkt 1, lub działalność usługową wspomagającą rolnictwo obejmującą świadczenie na rzecz rolników, o których mowa w pkt 1, usług z wykorzystaniem maszyn, narzędzi lub urządzeń służących do wytwarzania przez tych rolników produktów rolnych lub grup tych produktów, lub ryb, zwanych dalej „podmiotami niebędącymi rolnikami” – o zmiennym składzie osobowym i zmiennym funduszu udziałowym, które w interesie swoich członków prowadzi wspólną działalność gospodarczą.
 
-2. Spółdzielnia jest zakładana ze względu na produkty rolne lub grupy tych produktów, lub ryby, zwane dalej „produktami lub grupami produktów”, których wykaz określają przepisy wydane na podstawie 6 6.
+2. Spółdzielnia rolników jest zakładana ze względu na produkty rolne lub grupy tych produktów, lub ryby, zwane dalej „produktami lub grupami produktów”, których wykaz określają przepisy wydane na podstawie art. 6 ust. 6.
 
-3. Nazwa zawiera oznaczenie „Spółdzielnia Rolników”.
+3. Nazwa spółdzielni rolników zawiera oznaczenie „Spółdzielnia Rolników”.
 
-**Art. 5.** Poza postanowieniami określonymi 5 § 1 ustawy Prawo spółdzielcze, statut rolników, zwany dalej „statutem”, zawiera co najmniej:
+**Art. 5.** Poza postanowieniami określonymi w art. 5 § 1 ustawy – Prawo spółdzielcze, statut spółdzielni rolników, zwany dalej „statutem”, zawiera co najmniej:
 
-#### Rozdział 2 Tworzenie, organizacja, przedmiot działalności członkowie
+#### Rozdział 2 Tworzenie, organizacja, przedmiot działalności i członkowie spółdzielni rolników
 
 **Art. 6.**
 
-1. Przedmiotem działalności jest prowadzenie działalności gospodarczej na rzecz członków zakresie:
+1. Przedmiotem działalności spółdzielni rolników jest prowadzenie działalności gospodarczej na rzecz członków spółdzielni rolników w zakresie:
 
-- **1)** planowania prowadzonej przez produkcji produktów lub grup produktów dostosowywania jej do warunków rynkowych, ze szczególnym uwzględnieniem jej ilości jakości;
+- **1)** planowania prowadzonej przez rolników produkcji produktów lub grup produktów i dostosowywania jej do warunków rynkowych, ze szczególnym uwzględnieniem jej ilości i jakości;
 - **2)** koncentracji podaży oraz organizowania zbycia produktów lub grup produktów, wyprodukowanych przez rolników;
 - **3)** koncentracji popytu oraz organizowania nabycia niezbędnych rolnikom środków do produkcji produktów lub grup produktów.
 
-2. Spółdzielnia oprócz prowadzenia działalności, której mowa 1, może prowadzić działalność gospodarczą zakresie:
+2. Spółdzielnia rolników oprócz prowadzenia działalności, o której mowa w ust. 1, może prowadzić działalność gospodarczą w zakresie:
 
-- **1)** przechowywania, konfekcjonowania standaryzacji produktów lub grup produktów, wyprodukowanych przez rolników;
-- **2)** przetwarzania produktów lub grup produktów, wyprodukowanych przez rolników, oraz obrotu uzyskanymi ten sposób produktami przetworzonymi;
-- **3)** świadczenia na rzecz usług związanych wytwarzaniem przez nich produktów lub grup produktów;
+- **1)** przechowywania, konfekcjonowania i standaryzacji produktów lub grup produktów, wyprodukowanych przez rolników;
+- **2)** przetwarzania produktów lub grup produktów, wyprodukowanych przez rolników, oraz obrotu uzyskanymi w ten sposób produktami przetworzonymi;
+- **3)** świadczenia na rzecz rolników usług związanych z wytwarzaniem przez nich produktów lub grup produktów;
 - **4)** zbycia produktów lub grup produktów, wyprodukowanych przez rolników;
 - **5)** upowszechniania wśród swoich członków korzystnych dla środowiska metod uprawy, technologii produkcji lub metod gospodarki odpadami;
-- **6)** prowadzenia działalności usługowej na rzecz swoich członków innej niż świadczenie usług, których mowa pkt 3.
+- **6)** prowadzenia działalności usługowej na rzecz swoich członków innej niż świadczenie usług, o których mowa w pkt 3.
 
-3. Spółdzielnia może prowadzić również działalność społeczną oświatowo-kulturalną na rzecz swoich członków ich środowiska.
+3. Spółdzielnia rolników może prowadzić również działalność:
 
-4. Przychody prowadzenia działalności, których mowa 2 pkt 6 oraz 3, nie mogą łącznie przekroczyć 25% przychodów uzyskanych danym roku obrotowym.
+- **1)** społeczną i oświatowo-kulturalną na rzecz swoich członków i ich środowiska;
+- **2)** jako obywatelska społeczność energetyczna, o której mowa w przepisach ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303);
+- **3)** w zakresie wytwarzania energii elektrycznej lub biogazu, lub biogazu rolniczego, lub biometanu, lub ciepła ze źródeł odnawialnych w instalacjach odnawialnego źródła energii, obrotu nimi lub ich magazynowania, dokonywanego w ramach działalności prowadzonej wyłącznie na rzecz tej spółdzielni oraz jej członków.
 
-5. Każdy członków może przynależeć do jednej zakresie określonych produktów lub grup produktów.
+4. Przychody z prowadzenia działalności, o których mowa w ust. 2 pkt 6 oraz ust. 3 pkt 1, nie mogą łącznie przekroczyć 25 % przychodów spółdzielni rolników uzyskanych w danym roku obrotowym.
 
-6. Minister właściwy do spraw rynków rolnych określi, drodze rozporządzenia, wykaz produktów lub grup produktów, ze względu na które mogą być zakładane spółdzielnie rolników, mając na uwadze znaczenie ekonomiczne poszcze1) przez dysponowanie bezpośrednio lub pośrednio większością głosów na walnym zgromadzeniu, zgromadzeniu wspólników albo walnym zebraniu członków, także jako zastawnik albo użytkownik, bądź zarządzie innej osoby prawnej będącej członkiem rolników, także na podstawie porozumień innymi osobami;
+5. Każdy z członków spółdzielni rolników może przynależeć do jednej spółdzielni rolników w zakresie określonych produktów lub grup produktów.
 
-- **2)** jeżeli członkowie zarządu osoby prawnej będącej członkiem stanowią więcej niż połowę członków zarządu innej osoby prawnej będącej członkiem rolników.
+6. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wykaz produktów lub grup produktów, ze względu na które mogą być zakładane spółdzielnie rolników, mając na uwadze znaczenie ekonomiczne poszczególnych produktów rolnych z punktu widzenia krajowej produkcji rolnej oraz chowu lub hodowli ryb.
 
-**Art. 8.** Do rady nadzorczej są wybierani członkowie będący rolnikami.
+**Art. 7.**
+
+1. Założycielami spółdzielni rolników mogą być rolnicy, których liczba nie może być mniejsza niż dziesięć.
+
+2. Spółdzielnia rolników liczy co najmniej dziesięciu członków będących rolnikami, o ile statut nie wymaga większej liczby członków będących rolnikami.
+
+3. Spółdzielnia rolników nie może odmówić przyjęcia w poczet członków rolnika albo podmiotu niebędącego rolnikiem, jeżeli spełnia on wymagania określone w ustawie oraz w statucie.
+
+4. Jeżeli członkami spółdzielni rolników są wyłącznie osoby prawne, a statut określa inną zasadę ustalania liczby głosów niż określona w art. 36 § 2 zdanie pierwsze ustawy – Prawo spółdzielcze, żaden z członków nie może mieć więcej niż 20 % ogólnej liczby głosów na walnym zgromadzeniu, także pośrednio:
+
+- **1)** przez dysponowanie bezpośrednio lub pośrednio większością głosów na walnym zgromadzeniu, zgromadzeniu wspólników albo walnym zebraniu członków, także jako zastawnik albo użytkownik, bądź w zarządzie innej osoby prawnej będącej członkiem spółdzielni rolników, także na podstawie porozumień z innymi osobami;
+- **2)** jeżeli członkowie zarządu osoby prawnej będącej członkiem spółdzielni rolników stanowią więcej niż połowę członków zarządu innej osoby prawnej będącej członkiem spółdzielni rolników.
+
+**Art. 8.** Do rady nadzorczej spółdzielni rolników są wybierani członkowie spółdzielni rolników będący rolnikami.
 
 **Art. 9.**
 
-1. Spółdzielnie mogą zakładać związki prowadzące imieniu na rzecz swoich członków działalność zakresie, którym mowa 6 2, lub przystępować do takich związków.
+1. Spółdzielnie rolników mogą zakładać związki spółdzielni rolników prowadzące w imieniu i na rzecz swoich członków działalność w zakresie, o którym mowa w art. 6 ust. 2, lub przystępować do takich związków.
 
-2. Związek może prowadzić również działalność społeczną oświatowo-kulturalną na rzecz członków będącej członkiem tego związku.
+2. Związek spółdzielni rolników może prowadzić również działalność społeczną i oświatowo-kulturalną na rzecz członków spółdzielni rolników będącej członkiem tego związku.
 
-3. Do związków stosuje się przepisy ustawy Prawo spółdzielcze zawarte części I tytule I dotyczące spółdzielni, których członkami zgodnie ze statutem są wyłącznie osoby prawne.
+3. Do związków spółdzielni rolników stosuje się przepisy ustawy – Prawo spółdzielcze zawarte w części I w tytule I dotyczące spółdzielni, których członkami zgodnie ze statutem są wyłącznie osoby prawne.
 
-4. Krajowa Rada Spółdzielcza prowadzi rejestr związków rolników. Zasady prowadzenia rejestru dane nim uwidocznione określa Krajowa Rada Spółdzielcza.
+4. Krajowa Rada Spółdzielcza prowadzi rejestr związków spółdzielni rolników. Zasady prowadzenia rejestru i dane w nim uwidocznione określa Krajowa Rada Spółdzielcza.
 
-#### Rozdział 3 Zasady działania gospodarka
+#### Rozdział 3 Zasady działania i gospodarka spółdzielni rolników
 
 **Art. 10.** Statut może stanowić, że wysokość wpisowego wynosi:
 
 **Art. 11.**
 
-1. Statut może przewidywać możliwość corocznego ustalania liczby udziałów, do których mają prawo poszczególni członkowie proporcjonalnie do ich udziału procentowego łącznej wartości nabytych przez spółdzielnię od swoich członków produktów lub grup produktów roku obrotowym bezpośrednio poprzedzającym rok, którym jest ustalana liczba udziałów.
+1. Statut może przewidywać możliwość corocznego ustalania liczby udziałów, do których mają prawo poszczególni członkowie proporcjonalnie do ich udziału procentowego w łącznej wartości nabytych przez spółdzielnię od swoich członków produktów lub grup produktów w roku obrotowym bezpośrednio poprzedzającym rok, w którym jest ustalana liczba udziałów.
 
-2. Statut może przewidywać możliwość ustalania liczby udziałów sposób inny niż określony 1.
+2. Statut może przewidywać możliwość ustalania liczby udziałów w sposób inny niż określony w ust. 1.
 
-3. W przypadku, którym mowa 1:
+3. W przypadku, o którym mowa w ust. 1:
 
-- **1)** liczba udziałów, do których mają prawo poszczególni członkowie, jest ustalana na podstawie uchwały walnego zgromadzenia podejmowanej większością co najmniej 2/3 głosów obecności co najmniej połowy uprawnionych do głosowania;
-- **2)** statut określa sposób terminy realizacji dopłat dokonywanych na udziały albo zwrotu wpłat dokonanych na udziały.
+- **1)** liczba udziałów, do których mają prawo poszczególni członkowie, jest ustalana na podstawie uchwały walnego zgromadzenia podejmowanej większością co najmniej 2/3 głosów w obecności co najmniej połowy uprawnionych do głosowania;
+- **2)** statut określa sposób i terminy realizacji dopłat dokonywanych na udziały albo zwrotu wpłat dokonanych na udziały.
 
-4. Były członek oraz osoba, którą zmarły członek wskazał jako osobę, której spółdzielnia rolników jest obowiązana zwrócić udziały po jego śmierci, może zbyć swoje udziały innemu członkowi tej spółdzielni.
+4. Były członek spółdzielni rolników oraz osoba, którą zmarły członek wskazał jako osobę, której spółdzielnia rolników jest obowiązana zwrócić udziały po jego śmierci, może zbyć swoje udziały innemu członkowi tej spółdzielni.
 
-5. Nabywca udziałów jest obowiązany zawiadomić spółdzielnię nabyciu udziałów terminie 7 dni od dnia nabycia tych udziałów.
+5. Nabywca udziałów jest obowiązany zawiadomić spółdzielnię rolników o nabyciu udziałów w terminie 7 dni od dnia nabycia tych udziałów.
 
-6. Członek rolników, który wystąpił ze za wypowiedzeniem lub został wykreślony powodu zaprzestania prowadzenia gospodarstwa rolnego lub działu specjalnego produkcji rolnej, może terminie sześciu miesięcy od dnia ustania członkostwa przenieść swoje udziały na osobę, która przejęła prowadzi jego gospodarstwo rolne lub dział przy czym sposób terminy wypłaty określa statut.
+6. Członek spółdzielni rolników, który wystąpił ze spółdzielni za wypowiedzeniem lub został wykreślony z powodu zaprzestania prowadzenia gospodarstwa rolnego lub działu specjalnego produkcji rolnej, może w terminie sześciu miesięcy od dnia ustania członkostwa przenieść swoje udziały na osobę, która przejęła i prowadzi jego gospodarstwo rolne lub dział specjalny produkcji rolnej, o ile została ona członkiem tej spółdzielni albo złożyła deklarację przystąpienia do tej spółdzielni.
 
-**Art. 12.** Członek będący właścicielem wniesionego do wkładu niepieniężnego może nim rozporządzać, jednak zamiarze zbycia takiego wkładu jest obowiązany powiadomić spółdzielnię rolników na piśmie, co najmniej na 12 miesięcy przed zamiarem dokonania tej czynności, ile statucie nie został wskazany wcześniejszy termin na dokonanie tej czynności.
+7. Umowę przenoszącą własność udziałów w przypadkach, o których mowa w ust. 4 i 6, zawiera się pod rygorem nieważności w formie pisemnej z podpisami notarialnie poświadczonymi.
+
+8. Przepisu ust. 6 nie stosuje się w przypadku, gdy przeniesienie własności gospodarstwa rolnego lub działu specjalnego produkcji rolnej nastąpiło w wyniku odpłatnego nabycia.
+
+9. W przypadku gdy osoba, o której mowa w ust. 6, nie została członkiem spółdzielni rolników albo nie złożyła deklaracji przystąpienia do tej spółdzielni oraz w przypadku przeniesienia przez członka spółdzielni własności gospodarstwa rolnego lub działu specjalnego produkcji rolnej w wyniku odpłatnego nabycia, udział byłego członka wypłaca się na podstawie zatwierdzonego sprawozdania finansowego za rok, w którym członek przestał należeć do spółdzielni rolników, przy czym sposób i terminy wypłaty określa statut.
+
+**Art. 12.** Członek spółdzielni rolników będący właścicielem wniesionego do spółdzielni rolników wkładu niepieniężnego może nim rozporządzać, jednak o zamiarze zbycia takiego wkładu jest obowiązany powiadomić spółdzielnię rolników na piśmie, co najmniej na 12 miesięcy przed zamiarem dokonania tej czynności, o ile w statucie nie został wskazany wcześniejszy termin na dokonanie tej czynności.
 
 **Art. 13.**
 
 1. Nadwyżka bilansowa podlega podziałowi na podstawie uchwały walnego zgromadzenia.
 
-2. Spółdzielnia tworzy zasadnicze fundusze własne:
+2. Spółdzielnia rolników tworzy zasadnicze fundusze własne:
 
 - **1)** fundusz udziałowy, na który składają się wpłaty udziałów członkowskich;
-- **2)** fundusz zasobowy, na który składają się wpłaty wpisowego dokonane przez członków oraz nie mniej niż 10% nadwyżki bilansowej;
-- **3)** fundusz wzajemnościowy, na który składają się wpłaty wysokości nie mniejszej niż 3% nadwyżki bilansowej.
+- **2)** fundusz zasobowy, na który składają się wpłaty wpisowego dokonane przez członków oraz nie mniej niż 10 % nadwyżki bilansowej;
+- **3)** fundusz wzajemnościowy, na który składają się wpłaty w wysokości nie mniejszej niż 3 % nadwyżki bilansowej.
 
-3. Spółdzielnia może tworzyć inne fundusze własne przewidziane odrębnych przepisach lub jej statucie.
+3. Spółdzielnia rolników może tworzyć inne fundusze własne przewidziane w odrębnych przepisach lub w jej statucie.
 
-4. W przypadku, którym mowa 11 6, prawo do funduszu udziałowego przechodzi na nowego członka, ile strony nie ustalą inaczej.
+4. W przypadku, o którym mowa w art. 11 ust. 6, prawo do funduszu udziałowego przechodzi na nowego członka, o ile strony nie ustalą inaczej.
 
 5. Prawo do funduszu udziałowego przysługuje spadkobiercom zmarłego członka.
 
-6. Statut może wyłączyć prawo do funduszu udziałowego członka, który został wykluczony ze rolników.
+6. Statut może wyłączyć prawo do funduszu udziałowego członka, który został wykluczony ze spółdzielni rolników.
 
-7. Środki pieniężne zgromadzone na rachunku funduszu wzajemnościowego przeznacza się na rozwój promocję rolników.
+7. Środki pieniężne zgromadzone na rachunku funduszu wzajemnościowego przeznacza się na rozwój i promocję spółdzielni rolników.
 
-8. Część nadwyżki bilansowej pozostałej po dokonaniu odpisów na fundusze, których mowa 2, przeznacza się na cele wskazane uchwale walnego zgromadzenia.
+8. Część nadwyżki bilansowej pozostałej po dokonaniu odpisów na fundusze, o których mowa w ust. 2, przeznacza się na cele wskazane w uchwale walnego zgromadzenia.
 
-9. Straty bilansowe pokrywa się funduszu zasobowego, a części przekraczającej fundusz zasobowy innych funduszy własnych rolników, wyłączeniem funduszu wzajemnościowego, sposób na warunkach określonych statucie.
+9. Straty bilansowe spółdzielni rolników pokrywa się z funduszu zasobowego, a w części przekraczającej fundusz zasobowy – z innych funduszy własnych spółdzielni rolników, z wyłączeniem funduszu wzajemnościowego, w sposób i na warunkach określonych w statucie.
 
-10. Jeżeli straty poniesione roku obrotowym nie mogły zostać pokryte sposób określony 9, mogą zostać pokryte kolejno po sobie następujących pięciu latach obrotowych.
+10. Jeżeli straty poniesione w roku obrotowym nie mogły zostać pokryte w sposób określony w ust. 9, mogą zostać pokryte w kolejno po sobie następujących pięciu latach obrotowych.
 
-**Art. 14.** Walne zgromadzenie może przeznaczyć część nadwyżki bilansowej rolników na oprocentowanie wniesionych udziałów. Wysokość oprocentowania nie może przekroczyć najwyższej danym roku kalendarzowym wysokości stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski powiększonej maksymalnie trzy punkty procentowe. Zasady ustalania wysokości oprocentowania sposób jego wypłaty określa statut.
+**Art. 14.** Walne zgromadzenie spółdzielni rolników może przeznaczyć część nadwyżki bilansowej spółdzielni rolników na oprocentowanie wniesionych udziałów. Wysokość oprocentowania nie może przekroczyć najwyższej w danym roku kalendarzowym wysokości stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski powiększonej o maksymalnie trzy punkty procentowe. Zasady ustalania wysokości oprocentowania i sposób jego wypłaty określa statut.
 
-#### Rozdział 4 Lustracja likwidacja
+#### Rozdział 4 Lustracja i likwidacja spółdzielni rolników
 
-**Art. 15.** Lustracja, której mowa części I tytule I dziale VIII ustawy Prawo spółdzielcze, jest przeprowadzana również zakresie spełniania przez spółdzielnię warunków, których mowa 4–9.
+**Art. 15.** Lustracja, o której mowa w części I tytule I dziale VIII ustawy – Prawo spółdzielcze, jest przeprowadzana również w zakresie spełniania przez spółdzielnię rolników warunków, o których mowa w art. 4–9.
 
 **Art. 16.**
 
-1. Związek rewizyjny, którym spółdzielnia jest zrzeszona, albo Krajowa Rada Spółdzielcza przypadku niezrzeszonej związku rewizyjnym, podejmuje uchwałę postawieniu stan likwidacji, jeżeli:
+1. Związek rewizyjny, w którym spółdzielnia rolników jest zrzeszona, albo Krajowa Rada Spółdzielcza – w przypadku spółdzielni rolników niezrzeszonej w związku rewizyjnym, podejmuje uchwałę o postawieniu spółdzielni rolników w stan likwidacji, jeżeli:
 
-- **1)** działalność wykazuje rażące naruszenia prawa lub postanowień statutu;
-- **2)** spółdzielnia została zarejestrowana naruszeniem prawa; Przepisy karne
+- **1)** działalność spółdzielni rolników wykazuje rażące naruszenia prawa lub postanowień statutu;
+- **2)** spółdzielnia rolników została zarejestrowana z naruszeniem prawa;
+- **3)** spółdzielnia rolników co najmniej od roku nie prowadzi działalności gospodarczej.
+
+2. Uchwałę, o której mowa w ust. 1, spółdzielnia rolników może zaskarżyć do sądu w terminie sześciu tygodni od dnia jej doręczenia wraz z uzasadnieniem. W razie niezaskarżenia uchwały w ustawowym terminie lub uprawomocnienia się orzeczenia oddalającego powództwo albo umarzającego postępowanie w sprawie, związek rewizyjny albo Krajowa Rada Spółdzielcza zgłasza do Krajowego Rejestru Sądowego wniosek o otwarcie likwidacji, wyznaczając jednocześnie likwidatora.
+
+**Art. 17.** W przypadku likwidacji spółdzielni majątek spółdzielni rolników pozostały po zwrocie wkładów i zaspokojeniu wierzycieli podlega podziałowi proporcjonalnie do udziałów posiadanych przez członków spółdzielni rolników.
+
+#### Rozdział 5 Przepisy karne
 
 **Art. 18.**
 
-1. Kto, będąc członkiem zarządu albo likwidatorem, nie zgłasza wniosku upadłość mimo powstania warunków uzasadniających upadłość spółdzielni, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+1. Kto, będąc członkiem zarządu spółdzielni rolników albo likwidatorem, nie zgłasza wniosku o upadłość spółdzielni rolników mimo powstania warunków uzasadniających upadłość spółdzielni, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-2. Kto, będąc członkiem organu albo likwidatorem wbrew przepisom ustawy:
+2. Kto, będąc członkiem organu spółdzielni rolników albo likwidatorem wbrew przepisom ustawy:
 
-- **1)** nie poddaje lustracji,
+- **1)** nie poddaje spółdzielni rolników lustracji,
 - **2)** nie udziela lub udziela niezgodnych ze stanem faktycznym wyjaśnień lustratorowi, nie dopuszcza go do pełnienia obowiązków lub nie przedkłada stosownych dokumentów,
-- **3)** nie udostępnia członkom protokołu lustracji,
+- **3)** nie udostępnia członkom spółdzielni rolników protokołu lustracji,
 - **4)** nie zwołuje walnego zgromadzenia, zebrania przedstawicieli albo zebrań grup członkowskich poprzedzających zebranie przedstawicieli,
-- **5)** nie przygotowuje terminie dokumentów dotyczących dokonania podziału spółdzielni, którym mowa 108b ustawy Prawo spółdzielcze, podlega grzywnie albo karze ograniczenia wolności.
+- **5)** nie przygotowuje w terminie dokumentów dotyczących dokonania podziału w spółdzielni, o którym mowa w art. 108b ustawy – Prawo spółdzielcze, podlega grzywnie albo karze ograniczenia wolności.
 
-3. Kto, będąc członkiem organu albo likwidatorem, ogłasza dane nieprawdziwe albo przedstawia je organom rolników, władzom państwowym, członkom lub lustratorowi, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+3. Kto, będąc członkiem organu spółdzielni rolników albo likwidatorem, ogłasza dane nieprawdziwe albo przedstawia je organom spółdzielni rolników, władzom państwowym, członkom spółdzielni rolników lub lustratorowi, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 4. Jeżeli sprawca działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-#### Rozdział 6 Zmiany przepisach obowiązujących przepisy końcowe
+#### Rozdział 6 Zmiany w przepisach obowiązujących i przepisy końcowe
 
-**Art. 19.** W ustawie dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. 2018 r. poz. 1025, 1104 1629) 613 § 4 otrzymuje brzmienie: „§ 4. Przez producenta rolnego rozumie się również grupę producentów rolnych lub ich związek oraz spółdzielnię rozumieniu ustawy dnia 4 października 2018 r. spółdzielniach (Dz. U. poz. 2073) lub ich związek.”.
+**Art. 25.** Zwolnienia, o których mowa w art. 20 , art. 21 i art. 23 pkt 2, stanowią pomoc:
 
-**Art. 20.** W ustawie dnia 28 lipca 1983 r. podatku od spadków darowizn (Dz. U. 2018 r. poz. 644 1629) 4 1 pkt 3 otrzymuje brzmienie: „3) nabycie praw do wkładów rolników, rolniczej produkcyjnej lub kółek rolniczych;”.
-
-**Art. 21.** W ustawie dnia 12 stycznia 1991 r. podatkach opłatach lokalnych (Dz. U. 2018 r. poz. 1445, 1588, 1669, 1693 1722) 7 1 pkt 15 kropkę zastępuje się średnikiem dodaje się pkt 16 brzmieniu: „16) budynki budowle lub ich części oraz zajęte pod nie grunty, wykorzystywane przez spółdzielnię lub związek na działalność określoną 6 1 2 ustawy dnia 4 października 2018 r. spółdzielniach (Dz. U. poz. 2073), stanowiące własność albo będące wieczystym użytkowaniu lub związku rolników, które prowadzą działalność jako mikroprzedsiębiorstwo rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu 107 108 Traktatu (Dz. Urz. UE L 187 26.06.2014, str. 1, późn. zm. ).”.
-
-**Art. 23.** W ustawie dnia 15 lutego 1992 r. podatku dochodowym od osób prawnych (Dz. U. 2018 r. poz. 1036, 1162, 1291, 1629, 1669 1693) wprowadza się następujące zmiany:
-
-**Art. 24.** W ustawie dnia 9 maja 2008 r. Agencji Restrukturyzacji Modernizacji Rolnictwa (Dz. U. 2017 r. poz. 2137 oraz 2018 r. poz. 1669) 4 1 pkt 4 otrzymuje brzmienie: „4) powstawania rozwoju grup producentów rolnych lub ich związków oraz rozumieniu ustawy dnia 4 października 2018 r. spółdzielniach (Dz. U. poz. 2073) lub ich związków;”.
-
-**Art. 25.** Zwolnienia, których mowa 20, 21 23 pkt 2, stanowią pomoc:
-
-**Art. 26.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, wyjątkiem 21, który wchodzi życie dniem 1 stycznia 2019 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 26.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 21, który wchodzi w życie z dniem 1 stycznia 2019 r.
 

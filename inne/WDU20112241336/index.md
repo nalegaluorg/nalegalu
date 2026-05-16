@@ -8,6 +8,7 @@ pos: 1336
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 18 sierpnia 2011 r. o dotacji dla Fundacji Auschwitz-Birkenau przeznaczonej na uzupełnienie Kapitału Wieczystego
@@ -30,7 +31,7 @@ domain: null
 
 1. Dotacja jest przeznaczona na uzupełnienie Kapitału Wieczystego Fundacji.
 
-2. Środki stanowiące część Kapitału Wieczystego Fundacji pochodzącą z dotacji są w całości inwestowane poprzez nabywanie papierów wartościowych i innych instrumentów finansowych, o których mowa w art. 17 ust. 1e ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm. ).
+2. Środki stanowiące część Kapitału Wieczystego Fundacji pochodzącą z dotacji są w całości inwestowane poprzez nabywanie papierów wartościowych i innych instrumentów finansowych, o których mowa w art. 17 ust. 1e ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.).
 
 3. Środki pochodzące z dotacji przeznaczonej na uzupełnienie Kapitału Wieczystego Fundacji nie mogą być wydawane ani w inny sposób bezpośrednio przeznaczane na realizację celów Fundacji.
 
@@ -38,7 +39,7 @@ domain: null
 
 **Art. 4.**
 
-1. Kwota dotacji stanowi równowartość w złotych kwoty 10 mln euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy
+1. Kwota dotacji stanowi równowartość w złotych kwoty 10 mln euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roboczym poprzedzającym dzień przekazania środków na rzecz Fundacji.
 
 2. Dotację przekazuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w całości albo w transzach nie później niż do końca 2015 r.
 
@@ -48,7 +49,7 @@ domain: null
 
 2. Umowa, o której mowa w ust. 1, określa w szczególności:
 
-- **1)** zobowiązanie Fundacji do przeznaczenia dotacji na cel określony w art. 2 ust. 1; Bank Polski w ostatnim dniu roboczym poprzedzającym dzień przekazania środków na rzecz Fundacji.
+- **1)** zobowiązanie Fundacji do przeznaczenia dotacji na cel określony w art. 2 ust. 1;
 - **2)** szczegółowe zasady gospodarowania środkami pochodzącymi z dotacji;
 - **3)** wysokość dotacji;
 - **4)** sposób i terminy przekazania dotacji;
@@ -62,5 +63,5 @@ domain: null
 
 5. Fundacja składa ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego w terminie do końca marca sprawozdanie za rok poprzedni, zawierające rozliczenie rzeczowo-finansowe zadań zrealizowanych ze środków pochodzących z dochodów z inwestowania części Kapitału Wieczystego Fundacji pochodzącej z dotacji oraz informację o sposobie inwestowania środków pochodzących z dotacji.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1336 USTAWA z dnia 18 sierpnia 2011 r. o dotacji dla Fundacji Auschwitz-Birkenau przeznaczonej na uzupełnienie Kapitału Wieczystego
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
