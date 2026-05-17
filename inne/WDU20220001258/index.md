@@ -8,9 +8,12 @@ pos: 1258
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 czerwca 2022 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 kwietnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1258/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 kwietnia 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu sporcie (Dz. U. z 2021 r. poz. 2153), z uwzględnieniem zmian wprowadzonych ustawą z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu sporcie (Dz. U. poz. 2438) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 kwietnia 2022 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2–5 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu sporcie (Dz. U. poz. 2438), które stanowią: „Art. 2. W celu wykonania przepisów niniejszej ustawy Prezes Rady Ministrów może dokonać, drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych, tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikających z ustawy budżetowej na rok 2022.
 
@@ -59,7 +60,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
     - **b)** nie podlegając przepisom o odpowiedzialności dyscyplinarnej za doping sporcie, została skazana lub dowiedziono jej udziału zachowaniu uznawanym za doping sporcie postępowaniu karnym, dyscyplinarnym lub dotyczącym odpowiedzialności zawodowej, lub
     - **c)** działa jako przedstawiciel lub pośrednik osób, o których mowa lit. a lub b;
 
-- **11)** poza manipulowaniem lub usiłowaniem manipulowania, o którym mowa pkt 5, działanie zawodnika lub innej osoby zmierzające do zniechęcenia osoby zgłaszającej naruszenie przepisów antydopingowych lub grożenie osobie zgłaszającej naruszenie przepisów antydopingowych. mująca tę współpracę nie przedstawi dowodów potwierdzających, że współpraca z osobą o statusie osoby pomagającej przygotowaniu do współzawodnictwa sportowego nie była związana ze sportem, z wykonywaniem pracy zawodowej lub że nie można było tej współpracy uniknąć.
+- **11)** poza manipulowaniem lub usiłowaniem manipulowania, o którym mowa pkt 5, działanie zawodnika lub innej osoby zmierzające do zniechęcenia osoby zgłaszającej naruszenie przepisów antydopingowych lub grożenie osobie zgłaszającej naruszenie przepisów antydopingowych. przygotowaniu do współzawodnictwa sportowego nie była związana ze sportem, z wykonywaniem pracy zawodowej lub że nie można było tej współpracy uniknąć.
 
 3. Zakaz współpracy z osobą, o której mowa ust. 1 pkt 10 lit. b, trwa przez okres 6 lat, licząc od dnia rozstrzygnięcia postępowaniu karnym, dyscyplinarnym lub dotyczącym odpowiedzialności zawodowej, albo przez okres odbywania kary orzeczonej tym postępowaniu, jeżeli jej wymiar przekracza 6 lat.
 
@@ -101,6 +102,21 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 
 **Art. 6.** Organami Agencji są:
 
+**Art. 7.**
+
+1. Dyrektor Agencji kieruje Agencją.
+
+- **1)** reprezentowanie Agencji na zewnątrz;
+- **2)** sporządzanie projektu rocznego planu finansowego Agencji;
+- **3)** występowanie do ministra właściwego do spraw kultury fizycznej z wnioskami sprawie wysokości dotacji podmiotowej z budżetu państwa przeznaczonej na dofinansowanie działalności bieżącej Agencji;
+- **4)** sporządzanie rocznego sprawozdania finansowego Agencji;
+- **5)** sporządzanie projektów rocznych i wieloletnich planów działania Agencji;
+- **6)** sporządzanie i przedstawianie ministrowi właściwemu do spraw kultury fizycznej, terminie do dnia 31 marca każdego roku, sprawozdania z działalności Agencji roku poprzednim.
+
+3. Dyrektor Agencji wykonuje wobec osób zatrudnionych Agencji czynności wynikające ze stosunku pracy.
+
+4. Dyrektor Agencji przekazuje ministrowi właściwemu do spraw kultury fizycznej informacje o przeprowadzonych Agencji kontrolach. Po zakończeniu kontroli oraz po otrzymaniu wystąpienia pokontrolnego, Dyrektor Agencji przekazuje ministrowi właściwemu do spraw kultury fizycznej, terminie 30 dni od dnia otrzymania wystąpienia pokontrolnego, kopię tego wystąpienia oraz informację o działaniach podjętych związku z jego realizacją.
+
 **Art. 8.**
 
 1. Dyrektor Agencji działa przy pomocy swoich zastępców, kierowników komórek organizacyjnych oraz głównego księgowego.
@@ -135,9 +151,9 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 
 2. Kadencja Dyrektora Agencji trwa 5 lat.
 
-3. Powołanie, o którym mowa ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655). wadzonego przez ministra właściwego do spraw kultury fizycznej.
+3. Powołanie, o którym mowa ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655).
 
-5. W razie śmierci lub odwołania Dyrektora Agencji, do czasu powołania jego następcy, funkcję Dyrektora Agencji pełni zastępca Dyrektora Agencji wskazany przez ministra właściwego do spraw kultury fizycznej.
+4. Kandydatów na stanowisko Dyrektora Agencji wyłania się drodze otwartego i konkurencyjnego naboru przeprowadzonego przez ministra właściwego do spraw kultury fizycznej.
 
 **Art. 11.**
 
@@ -179,11 +195,8 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 - **1)** nazwę i adres Agencji;
 - **2)** określenie stanowiska;
 - **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2020 r. poz. 1740 i 2320 oraz z 2021 r. poz. 1509 i 2459) albo komunikat o niewyłonieniu kandydata.
-- **1)** projektu rocznego planu finansowego Agencji;
-- **2)** rocznego sprawozdania finansowego Agencji;
-- **3)** rocznych i wieloletnich planów działania Agencji;
-- **4)** sprawozdania z działalności Agencji.
-- **5)** (uchylony)
+
+**Art. 12.** Do zadań Rady Agencji należy, szczególności, opiniowanie:
 
 **Art. 13.**
 
@@ -238,9 +251,11 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 
 3. W przypadku, o którym mowa ust. 2 pkt 2, posiedzenie Rady Agencji zwołuje się terminie nie dłuższym niż 14 dni od dnia wpłynięcia wniosku.
 
-4. Pierwsze posiedzenie Rady Agencji nowej kadencji zwołuje minister właściwy do spraw kultury fizycznej, terminie nie dłuższym niż 14 dni od dnia powołania członków Rady Agencji. obecności co najmniej połowy składu Rady Agencji.
+4. Pierwsze posiedzenie Rady Agencji nowej kadencji zwołuje minister właściwy do spraw kultury fizycznej, terminie nie dłuższym niż 14 dni od dnia powołania członków Rady Agencji.
 
-2. Przewodniczący Rady Agencji, z własnej inicjatywy lub na wniosek członka Rady Agencji, może zdecydować o podjęciu uchwały przez Radę Agencji trybie obiegowym. Do uchwał podejmowanych trybie obiegowym stosuje się odpowiednio przepis ust. 1.
+**Art. 18.**
+
+1. Rada Agencji wyraża swoje stanowisko formie uchwał podejmowanych zwykłą większością głosów, obecności co najmniej połowy składu Rady Agencji. odpowiednio przepis ust. 1.
 
 3. Członkowie Rady Agencji mogą złożyć sprzeciw do projektu uchwały podejmowanej trybie obiegowym terminie 5 dni od dnia jego otrzymania.
 
@@ -289,8 +304,9 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 
 2. Podstawą szkolenia kontrolerów jest program szkolenia, obejmujący szczególności zagadnienia związane z organizacją i działaniem krajowego i międzynarodowego systemu zwalczania dopingu sporcie, definicją dopingu sporcie, zasadami i przebiegiem kontroli antydopingowej, prawami i obowiązkami kontrolera antydopingowego oraz odpowiedzialnością dyscyplinarną za doping sporcie.
 
+3. Szkolenie kontrolerów jest prowadzone przez wykładowców i instruktorów, którymi mogą być:
+
 - **1)** osoby posiadające co najmniej dwuletnie doświadczenie zawodowe zakresie przeprowadzania kontroli antydopingowej;
-- **2)** osoby zatrudnione Agencji, odpowiedzialne za:
     - **a)** koordynowanie lub planowanie kontroli antydopingowej,
     - **b)** realizację lub obsługę postępowań dyscyplinarnych za doping sporcie,
     - **c)** rozpoznawanie wniosków o przyznanie zgody na używanie substancji zabronionej lub metody zabronionej na zasadach określonych załączniku nr 2 do konwencji, o której mowa art. 2 pkt 1;
@@ -333,9 +349,9 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 
 3. Kontrolerowi uprawnionemu do pobierania krwi na podstawie przepisów ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, 1559 i 2232 oraz z 2022 r. poz. 583, 655 i 830) lub ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 551, 583 i 830) Agencja wydaje legitymację służbową zawierającą informację o możliwości pobierania przez niego próbek krwi.
 
-4. Przed upływem okresu ważności certyfikatu kontrolera kontroler, celu potwierdzenia posiadania kwalifikacji do przeprowadzania kontroli antydopingowej, odbywa ponownie szkolenie kontrolerów, zakończone egzaminem. jest on obowiązany, przed ponownym przystąpieniem do przeprowadzania kontroli antydopingowych, do odbycia szkolenia zakończonego egzaminem.
+4. Przed upływem okresu ważności certyfikatu kontrolera kontroler, celu potwierdzenia posiadania kwalifikacji do przeprowadzania kontroli antydopingowej, odbywa ponownie szkolenie kontrolerów, zakończone egzaminem.
 
-6. Do kontrolera, który nie uzyskał pozytywnego wyniku z całości lub z części egzaminu albo nie przystąpił do niego całości lub części z powodu choroby potwierdzonej zaświadczeniem lekarskim lub wskutek działania siły wyższej, stosuje się przepis art. 25 ust. 3.
+5. W przypadku trwającej co najmniej 2 lata przerwy przeprowadzaniu przez kontrolera kontroli antydopingowych, jest on obowiązany, przed ponownym przystąpieniem do przeprowadzania kontroli antydopingowych, do odbycia szkolenia zakończonego egzaminem. stosuje się przepis art. 25 ust. 3.
 
 **Art. 27.** Minister właściwy do spraw kultury fizycznej określi, drodze rozporządzenia:
 
@@ -361,8 +377,10 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 - **6)** informację o pouczeniu kontrolowanego zawodnika o skutkach niewyrażenia zgody na pobranie próbki fizjologicznej, niezgłoszenia się na to pobranie bez ważnego uzasadnienia lub unikania inny sposób pobrania próbki fizjologicznej;
 - **7)** podpisy kontrolerów, którzy przeprowadzili kontrolę antydopingową;
 - **8)** podpis kontrolowanego zawodnika, a przypadku braku możliwości złożenia przez niego podpisu adnotację o braku takiej możliwości.
+
+3. Kontrolerzy, podczas pełnienia obowiązków służbowych lub związku z ich pełnieniem, mają prawo:
+
 - **1)** żądać niezbędnej pomocy od instytucji państwowych oraz organów administracji rządowej i organów jednostek samorządu terytorialnego, które są obowiązane, zakresie swojej właściwości, nieodpłatnie udzielać żądanej pomocy;
-- **2)** zwracać się do przedsiębiorców, jednostek organizacyjnych i organizacji społecznych, a nagłych wypadkach również do każdej osoby, o udzielenie niezbędnej pomocy.
 
 4. Kontrolerzy, podczas pełnienia obowiązków służbowych, posługują się legitymacjami służbowymi.
 
@@ -403,7 +421,9 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
     - **b)** krajowym organizacjom antydopingowym,
     - **c)** organizatorom zawodów, jeżeli okresie podczas tych zawodów będzie przez nich przeprowadzana kontrola antydopingowa,
 
-- **2)** Światowej Agencji Antydopingowej jeżeli jest to niezbędne dla celów kontroli antydopingowej lub ustalenia odpowiedzialności dyscyplinarnej za doping sporcie. dostępowi lub przekazaniu, polegającym co najmniej na dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych oraz pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich tajemnicy.
+- **2)** Światowej Agencji Antydopingowej jeżeli jest to niezbędne dla celów kontroli antydopingowej lub ustalenia odpowiedzialności dyscyplinarnej za doping sporcie.
+
+3a. Dane osobowe zawodników podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazaniu, polegającym co najmniej na dopuszczeniu do przetwarzania danych osobowych wyłącznie osób
 
 4. Dane osobowe zawodników mogą być przetwarzane systemie teleinformatycznym.
 
@@ -447,8 +467,9 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 
 3. Podstawę gospodarki finansowej Agencji okresie od 1 stycznia do dnia zatwierdzenia przez ministra właściwego do spraw kultury fizycznej rocznego planu finansowego Agencji stanowi projekt tego planu.
 
+4. Roczny plan finansowy Agencji obejmuje, szczególności:
+
 - **1)** planowane przychody, tym dotacje, o których mowa art. 30 ust. 1 i ust. 2 pkt 1;
-- **2)** planowane koszty;
 - **3)** planowane wydatki inwestycyjne;
 - **4)** stan środków obrotowych na początek i koniec roku;
 - **5)** planowany przyrost lub spadek środków obrotowych na początek i koniec roku;
@@ -504,9 +525,11 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 - **7)** posiada doświadczenie zakresie orzekania sprawach dyscyplinarnych;
 - **8)** spełnia wymagania zakresie bezstronności, niezależności oraz zapobiegania konfliktowi interesów zawarte Światowym Kodeksie Antydopingowym oraz dokumentach o charakterze międzynarodowym określonych przez Światową Agencję Antydopingową.
 
-3. Członkostwa Panelu nie można łączyć z funkcją we władzach polskiego związku sportowego. mowa art. 36 ust. 2 pkt 2–6.
+3. Członkostwa Panelu nie można łączyć z funkcją we władzach polskiego związku sportowego.
 
-2. Ustanie członkostwa Panelu następuje również z powodu rezygnacji albo śmierci.
+**Art. 37.**
+
+1. Członka Panelu odwołuje się przypadku zaprzestania spełniania przez niego jednego z wymagań, o których mowa art. 36 ust. 2 pkt 2–6.
 
 **Art. 38.**
 
@@ -563,7 +586,9 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 
 #### Rozdział 6 Współpraca krajowa zwalczaniu dopingu sporcie
 
-**Art. 44.** Policja, Służba Celno-Skarbowa, Straż Graniczna, Żandarmeria Wojskowa oraz prokurator przekazują Agencji, z urzędu lub na jej wniosek, wszelkie informacje, którymi dysponują, jeżeli są one niezbędne do ustalenia odpowiedzialności dyscyplinarnej za doping sporcie, o ile nie zachodzi potrzeba zabezpieczenia prawidłowego toku postępowania lub ochrony ważnego interesu państwa. wym ryzyku występowania suplementach diety nielegalnych substancji zabronionych oraz ryzyku używania substancji zabronionych lub metod zabronionych, a także ramach zapewniania prawidłowego oznakowania produktów leczniczych, szczególności jeżeli zawierają one substancje zabronione.
+**Art. 44.** Policja, Służba Celno-Skarbowa, Straż Graniczna, Żandarmeria Wojskowa oraz prokurator przekazują Agencji, z urzędu lub na jej wniosek, wszelkie informacje, którymi dysponują, jeżeli są one niezbędne do ustalenia odpowiedzialności dyscyplinarnej za doping sporcie, o ile nie zachodzi potrzeba zabezpieczenia prawidłowego toku postępowania lub ochrony ważnego interesu państwa.
+
+**Art. 45.** Minister właściwy do spraw zdrowia współpracuje z Agencją ramach informowania społeczeństwa o możliwym ryzyku występowania suplementach diety nielegalnych substancji zabronionych oraz ryzyku używania substancji
 
 **Art. 46.** (uchylony)
 
@@ -614,8 +639,8 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 - **1)** reprezentowanie Laboratorium na zewnątrz;
 - **2)** sporządzanie projektu rocznego planu finansowego Laboratorium;
 - **3)** występowanie do ministra właściwego do spraw zdrowia z wnioskami sprawie wysokości dotacji podmiotowej z budżetu państwa przeznaczonej na dofinansowanie działalności bieżącej Laboratorium;
+- **4)** sporządzanie rocznego sprawozdania finansowego Laboratorium;
 - **5)** sporządzanie projektów rocznych i wieloletnich planów działania Laboratorium;
-- **6)** sporządzanie i przedstawianie ministrowi właściwemu do spraw zdrowia, terminie do dnia 31 marca każdego roku, sprawozdania z działalności Laboratorium roku poprzednim;
 - **7)** wykonywanie innych zadań związanych z kierowaniem Laboratorium.
 
 3. Dyrektor Laboratorium wykonuje wobec osób zatrudnionych Laboratorium czynności wynikające ze stosunku pracy.
@@ -661,7 +686,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 
 4. Kandydatów na stanowisko Dyrektora Laboratorium wyłania się drodze otwartego i konkurencyjnego naboru przeprowadzonego przez ministra właściwego do spraw zdrowia.
 
-5. W razie śmierci lub odwołania Dyrektora Laboratorium, do czasu powołania jego następcy, funkcję Dyrektora Laboratorium pełni zastępca Dyrektora Laboratorium wskazany przez ministra właściwego do spraw zdrowia. powszechnie dostępnym siedzibie urzędu obsługującego ministra właściwego do spraw zdrowia oraz na jego stronie podmiotowej Biuletynu Informacji Publicznej ogłoszenia o naborze, które zawiera:
+5. W razie śmierci lub odwołania Dyrektora Laboratorium, do czasu powołania jego następcy, funkcję Dyrektora Laboratorium pełni zastępca Dyrektora Laboratorium wskazany przez ministra właściwego do spraw zdrowia. miotowej Biuletynu Informacji Publicznej ogłoszenia o naborze, które zawiera:
 
 - **1)** nazwę i adres Laboratorium;
 - **2)** określenie stanowiska;
@@ -747,7 +772,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 
 3. Członkowie Rady Laboratorium mogą złożyć sprzeciw do projektu uchwały podejmowanej trybie obiegowym terminie 5 dni od dnia jego otrzymania.
 
-4. Uchwałę uznaje się za przyjętą trybie obiegowym, jeżeli żaden z członków Rady Laboratorium nie złoży, terminie, o którym mowa ust. 3, pisemnego sprzeciwu wobec zastosowanego trybu lub projektu uchwały. W przypadku gdy wyznaczonym terminie członek Rady Laboratorium złoży sprzeciw, projekt uchwały rozpatruje się na najbliższym posiedzeniu Rady Laboratorium. sów lub istnieje inna okoliczność mogąca wywołać uzasadnioną wątpliwość co do jego bezstronności.
+4. Uchwałę uznaje się za przyjętą trybie obiegowym, jeżeli żaden z członków Rady Laboratorium nie złoży, terminie, o którym mowa ust. 3, pisemnego sprzeciwu wobec zastosowanego trybu lub projektu uchwały. W przypadku gdy wyznaczonym terminie członek Rady Laboratorium złoży sprzeciw, projekt uchwały rozpatruje się na najbliższym posiedzeniu Rady Laboratorium.
 
 2. Członek Rady Laboratorium zawiadamia Przewodniczącego Rady Laboratorium o zachodzącej podstawie swojego wyłączenia i wstrzymuje się od udziału sprawie.
 
@@ -932,7 +957,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu dopingu sporcie
 - **2)** 2023 11 mln zł;
 - **3)** 2024 11 mln zł;
 - **4)** 2025 11,4 mln zł;
-- **6)** 2027 11,9 mln zł;
+- **5)** 2026 11,5 mln zł;
 - **7)** 2028 12 mln zł;
 - **8)** 2029 12 mln zł;
 - **9)** 2030 12,3 mln zł;

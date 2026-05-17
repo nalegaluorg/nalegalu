@@ -8,6 +8,7 @@ pos: 1312
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # o zmianie ustawy – Przepisy wprowadzające ustawy reformujące administrację publiczną oraz ustawy – Przepisy wprowadzające reformę ustroju szkolnego
@@ -23,7 +24,6 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2000-12-08 |
 | Data wydania | 2000-12-31 |
-| Wejście w życie | 2000-12-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001221312) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1312/text.pdf) |
 

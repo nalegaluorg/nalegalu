@@ -1,0 +1,168 @@
+---
+title: "Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 19 lipca 2021 r. w sprawie wzorów formularzy zgłoszeń identyfikacyjnych i zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających"
+address: WDU20210001404
+eli: DU/2021/1404
+publisher: DU
+year: 2021
+pos: 1404
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 sierpnia 2021 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 1404 |
+| ISAP | WDU20210001404 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2021-07-19 |
+| Data wydania | 2021-08-02 |
+| Ostatnia zmiana | 2025-12-02 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1404/text.pdf) |
+
+ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 19 lipca 2021 r.
+w sprawie wzorów formularzy zgłoszeń identyfikacyjnych i zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających Na podstawie art. 5 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r. poz. 170 oraz z 2021 r. poz. 802 i 1163) zarządza się, co następuje: § 1. Określa się wzory formularzy:
+1) zgłoszenia identyfikacyjnego/zgłoszenia aktualizacyjnego osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej, będącej podatnikiem lub płatnikiem (NIP-2), stanowiący załącznik nr 1 do rozporządzenia;
+2) zgłoszenia identyfikacyjnego/zgłoszenia aktualizacyjnego osoby fizycznej będącej podatnikiem lub płatnikiem (NIP-7), stanowiący załącznik nr 2 do rozporządzenia;
+3) zgłoszenia aktualizacyjnego osoby fizycznej będącej podatnikiem (ZAP-3), stanowiący załącznik nr 3 do rozporządzenia;
+4) zgłoszenia identyfikacyjnego/zgłoszenia aktualizacyjnego w zakresie danych uzupełniających (NIP-8), stanowiący załącznik nr 4 do rozporządzenia.
+§ 2. Wzory formularzy określone w rozporządzeniu Ministra Finansów z dnia 27 grudnia 2018 r. w sprawie wzorów formularzy zgłoszeń identyfikacyjnych i zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających (Dz. U. poz. 2496) mogą być stosowane nie dłużej niż do dnia 31 grudnia 2021 r.
+§ 3. Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.
+Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 grudnia 2018 r. w sprawie wzorów formularzy zgłoszeń identyfikacyjnych i zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających (Dz. U. poz. 2496), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 13 ustawy z dnia 12 kwietnia 2019 r. o zmianie CRP NIP-2 1 NIP-2 ZGŁOSZENIE IDENTYFIKACYJNE / ZGŁOSZENIE AKTUALIZACYJNE 1) OSOBY PRAWNEJ JEDNOSTKI ORGANIZACYJNEJ NIEMAJĄCEJ OSOBOWOŚCI PRAWNEJ, BĘDĄCEJ PODATNIKIEM PŁATNIKIEM Formularz przeznaczony dla osób prawnych i jednostek organizacyjnych niemających osobowości prawnej będących podatnikiem lub płatnikiem podatków, lub płatnikiem składek na ubezpieczenia społeczne lub ubezpieczenia zdrowotne z wyjątkiem podmiotów wpisanych do Krajowego Rejestru Sądowego, dla których przeznaczony jest formularz NIP-8. Formularz NIP-2 przeznaczony jest również do dokonania zgłoszenia identyfikacyjnego przez podmioty, którym nie nadano NIP, wpisane do KRS przed grudniem 2014 r.
+Podstawa prawna: Ustawa z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r.
+poz. 170, z późn. zm.), zwana dalej „ustawą”.
+Termin składania: Zgodnie z art. 6, 7 i 9 ustawy.
+Miejsce składania: Zgłoszenie składa się do naczelnika urzędu skarbowego właściwego w rozumieniu art. 4 ustawy.
+A. CEL I MIEJSCE ZŁOŻENIA ZGŁOSZENIA ❑ 1. zgłoszenie identyfikacyjne ❑ 2. zgłoszenie aktualizacyjne B. DANE SKŁADAJĄCEGO Jeżeli składający zgłasza zmianę nazwy, REGON lub danych o rejestracji (część B.3.) zaznaczyć właściwy kwadrat (poz. 7, 10, 18).
+B.1. DANE IDENTYFIKACYJNE   B.2. INFORMACJA O NUMERACH IDENTYFIKACYJNYCH UZYSKANYCH W INNYCH KRAJACH Wypełnić tylko wówczas, gdy składający uzyskał numery służące identyfikacji dla celów podatkowych lub ubezpieczeń społecznych w innych krajach. W przypadku braku miejsca na wpisanie dalszych informacji sporządzić listę tych informacji odpowiednio, zgodnie z zakresem danych określonych w części B.2. (poz. 11-13). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+❑ 1. numer aktualny ❑ 2. numer nieaktualny B.3. DANE O REJESTRACJI Dotyczy podmiotów ustawowo obowiązanych do rejestracji. Wskazać dane o obowiązującej podmiot rejestracji.
+ B.4. DATY DOTYCZĄCE DZIAŁALNOŚCI Daty dotyczące statusu płatnika podatku dochodowego od osób fizycznych (kwadrat nr 5 i 6) wypełnia tylko jednostka z zaznaczonym w poz. 86 kwadratem nr 2.
+
+1. rozpoczęcie działalności 
+3. zawieszenie działalności 
+5. uzyskanie statusu płatnika 
+2. ustanie bytu prawnego 
+4. wznowienie działalności 
+6. utrata statusu płatnika B.5. ADRES SIEDZIBY Adres do doręczeń , o ile nie wskazano na adres miejsca prowadzenia działalności (poz. 48) albo skrytki pocztowej (poz. 36).
+B.6. DANE KONTAKTOWE Podanie informacji w części B.6. nie jest obowiązkowe. Wpisane niżej dane aktualizują poprzedni stan danych.
+❑ ❑ ❑ Załączniki do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 2021 r. (poz. ). Załącznik nr 1 Załącznik nr 1 NIP-2 2 B.6.1. ADRES SKRYTKI POCZTOWEJ Podanie informacji o skrytce pocztowej nie jest obowiązkowe.
+❑ ❑ ❑ B.7. ADRESY MIEJSC PROWADZENIA DZIAŁALNOŚCI W zgłoszeniu identyfikacyjnym podać adresy wszystkich miejsc prowadzenia działalności (również hurtowni, magazynów, składów), a w zgłoszeniu aktualizacyjnym stosownie do okoliczności i zmian. W przypadku braku miejsca na wpisanie dalszych adresów sporządzić listę adresów tych miejsc odpowiednio, zgodnie z zakresem części B.7. (poz. 49-59). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę. W przypadku adresu nietypowego (np. sklep w przejściu podziemnym, działalność na terenie kraju) dane adresowe podać z możliwą dokładnością.
+❑ ❑ ❑ ❑ B.8. INFORMACJA O DOKUMENTACJI RACHUNKOWEJ   B.8.1. BIURO RACHUNKOWE lub inny podmiot prowadzący dokumentację rachunkową Należy wypełnić tylko wówczas, gdy dokumentacja jest prowadzona w imieniu składającego przez inny niż składający podmiot / biuro.
+* - dotyczy podmiotu niebędącego osobą fizyczną ** - dotyczy podmiotu będącego osobą fizyczną B.8.2. ADRES MIEJSCA PRZECHOWYWANIA DOKUMENTACJI RACHUNKOWEJ C. INFORMACJE DOTYCZĄCE RACHUNKÓW BANKOWYCH RACHUNKÓW W SKOK Należy wskazywać rachunki , których posiadaczem jest składający. 72-73, 76-77 i 81-82 wypełniać wyłącznie dla rachunków zagranicznych.
+C.1. RACHUNEK DO ZWROTU PODATKU NADPŁATY ⏊ ⏊ ⏊ ⏊ ⏊ ⏊ C.2. POZOSTAŁE RACHUNKI ZWIĄZANE Z PROWADZONĄ DZIAŁALNOŚCIĄ W przypadku braku miejsca na wpisanie wszystkich rachunków sporządzić listę tych rachunków odpowiednio, zgodnie z zakresem danych określonych w części C.2. (poz. 76-80). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+⏊ ⏊ ⏊ ⏊ ⏊ ⏊  C.3. RACHUNEK JEDNOSTKI SAMORZĄDU TERYTORIALNEGO WŁAŚCIWY DO ODPROWADZENIA ŚRODKÓW POBRANYCH PRZEZ URZĘDY SKARBOWE PODSTAWIE ODRĘBNYCH PRZEPISÓW Informacja może być realizacją obowiązku określonego w ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2021 r. poz. 38, z późn. zm.).
+⏊ ⏊ ⏊ ⏊ ⏊ ⏊  NIP-2 3 D. FORMA ORGANIZACYJNO-PRAWNA, POWIĄZANIA, DODATKOWE INFORMACJE  1. podmiot mający wyodrębnione jednostki wewnętrzne - jednostka macierzysta  2. wyodrębniona jednostka wewnętrzna podlegająca obowiązkowi ewidencyjnemu  3. podmiot niebędący wyodrębnioną jednostką wewnętrzną i niemający takich jednostek  4. podatkowa grupa kapitałowa ❑ 1. osoba prawna ❑ 2. jednostka organizacyjna niemająca osobowości prawnej                                            D.1. DANE JEDNOSTKI MACIERZYSTEJ Wypełnia tylko wyodrębniona jednostka wewnętrzna (zaznaczony w poz. 86 kwadrat nr 2).
+D.2. DANE WYODRĘBNIONEJ JEDNOSTKI WEWNĘTRZNEJ Wypełnia tylko jednostka macierzysta (zaznaczony w poz. 86 kwadrat nr 1). W przypadku braku miejsca na wpisanie dalszych informacji sporządzić listę tych informacji odpowiednio, zgodnie z zakresem danych określonych w części D.2. (poz. 93-106). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+❑ 1. utworzenie (rejestracja) ❑ 2. zmiana danych ❑ 3. likwidacja (wyrejestrowanie) D.3. DANE JEDNOSTKI ORGANIZACYJNEJ JEDNOSTKI SAMORZĄDU TERYTORIALNEGO Wypełnia wyłącznie jednostka samorządu terytorialnego w związku ze scentralizowanym rozliczaniem VAT . W przypadku braku miejsca na wpisanie dalszych informacji sporządzić listę tych informacji odpowiednio, zgodnie z zakresem danych określonych w części D.3. (poz. 107-110). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+❑ 1. utworzenie (zgłoszenie) ❑ 2. zmiana danych ❑ 3. likwidacja (wyrejestrowanie) NIP-2 4 D.4. DANE WSPÓLNIKA SPÓŁKI OSOBOWEJ / SPÓŁKI TWORZĄCEJ GRUPĘ KAPITAŁOWĄ 
+1. zgłoszenie przystąpienia do spółki / grupy kapitałowej 
+2. wystąpienie ze spółki / grupy kapitałowej 
+3. zmiana danych 
+1. spółka / wspólnik niebędący osobą fizyczną 
+2. osoba fizyczna 
+1. spółka dominująca 
+2. spółka zależna D.5. DODATKOWE INFORMACJE 
+1. bank lub inna instytucja finansowa 
+2. zakład pracy chronionej 
+3. jednoosobowa spółka Skarbu Państwa (samorządu terytorialnego) ❑  4. zakład aktywności zawodowej
+5. podmiot należący do kategorii podmiotów o istotnym znaczeniu gospodarczym lub społecznym, w odniesieniu do którego zadania są wykonywane przez naczelnika urzędu skarbowego innego niż właściwy miejscowo E. INFORMACJA O ZAŁĄCZNIKACH W poz. 121 wskazać dołączone listy. Składając formularz za pomocą środków komunikacji elektronicznej pominąć poz. 121. W poz. 122 zaznaczyć dołączone dokumenty albo ich uwierzytelnione lub poświadczone urzędowo kopie (art. 5 ust. 4a i art. 9 ust. 6 pkt 1 ustawy).
+ B.2.
+ B.7.
+ C.2.
+ D.2.
+ D.3.
+ D.4.  1. pełnomocnictwo  2. postanowienie sądu o ustanowieniu kuratora F. DANE I PODPISY OSÓB REPREZENTUJĄCYCH SKŁADAJĄCEGO (spośród uprawnionych do reprezentowania składającego). W poz. 126, 130 i 134 wskazać funkcję osoby uprawnionej do reprezentowania składającego, wynikającą ze sposobu reprezentacji, np. dyrektor, członek zarządu, wspólnik, prokurent, pełnomocnik, kurator sądowy, syndyk.
+1 2 3 G. ADNOTACJE URZĘDU SKARBOWEGO (część nie jest wypełniana w przypadku zgłoszenia w postaci elektronicznej) Pouczenie Za wykroczenie skarbowe dotyczące obowiązków, o których mowa w art. 81 Kodeksu karnego skarbowego, grozi kara grzywny.
+CRP NIP-7 1 NIP-7 ZGŁOSZENIE IDENTYFIKACYJNE / ZGŁOSZENIE AKTUALIZACYJNE 1) OSOBY FIZYCZNEJ BĘDĄCEJ PODATNIKIEM PŁATNIKIEM Formularz przeznaczony dla osób niebędących przedsiębiorcami lub niepodlegających rejestracji w CEIDG: -prowadzących samodzielnie działalność gospodarczą lub -podlegających zarejestrowaniu jako podatnicy podatku od towarów i usług lub będących zarejestrowanymi podatnikami podatku od towarów i usług, lub -będących płatnikami podatków, lub -będących płatnikami składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne, lub -niemających nadanego numeru PESEL,lub -wykonujących działalność, o której mowa w art. 5 ust. 1ustawy z dnia 6 marca 2018 r. -Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162).
+Podstawa prawna: Ustawa z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r. poz. 170, z późn. zm.), zwana dalej „ustawą”.
+Termin składania: Zgodnie z art. 6, 7 i 9 ustawy.
+Miejsce składania: Zgłoszenie składa się do naczelnika urzędu skarbowego właściwego w rozumieniu art. 4 ustawy.
+A. CEL I MIEJSCE ZŁOŻENIA ZGŁOSZENIA Jeżeli w poz. 4 nie zaznaczono kwadratu nr 1, 2 lub 6 pominąć cześć C i D.2. W poz. 5 zaznaczyć kwadrat nr 1: gdy formularz jest składany jako zgłoszenie identyfikacyjne, w celu nadania NIP albo kwadrat nr 2: gdy formularz jest składany jako zgłoszenie aktualizacyjne, w przypadku zmiany danych objętych zgłoszeniem, tzn. zmiany danych składającego lub zmiany naczelnika urzędu skarbowego właściwego w sprawach ewidencji, lub zaistnienia nowych okoliczności. W przypadku zgłoszenia aktualizacyjnego wystarczy wypełnić poz. 1 oraz części A, B.1. (poz. 8, 10, 18 i 29), B.3., E, F, a także inne pozycje, gdy dane się zmieniły.
+❑ ❑ ❑ ❑ ❑ .
+❑ .
+❑ 1 ❑ 2.
+B. DANE SKŁADAJĄCEGO B.1. DANE IDENTYFIKACYJNE w przypadku osób fizycznych objętych rejestrem PESEL źródłem ich danych jest rejestr PESEL, a poniżej w celu prawidłowej identyfikacji należy wypełnić jedynie poz. 7, 8, 10. W przypadku osób niemających nadanego numeru PESEL (w poz. 4 zaznaczony kwadrat nr 5) dla wskazania zmiany danych należy zaznaczyć odpowiedni kwadrat.
+       ❑ 1. kobieta ❑ 2. mężczyzna    B.2. INFORMACJA O NUMERACH IDENTYFIKACYJNYCH UZYSKANYCH W INNYCH KRAJACH Wypełnić tylko wówczas, gdy składający uzyskał numery służące identyfikacji dla celów podatkowych lub ubezpieczeń społecznych w innych krajach.
+W przypadku braku miejsca na wpisanie dalszych informacji sporządzić listę tych informacji odpowiednio, zgodnie z zakresem danych określonych w części B.2. (poz. 30-32). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+❑ ❑ Formularz może być składany w charakterze zgłoszenia identyfikacyjnego lub zgłoszenia aktualizacyjnego. NIP składającego (poz. 1) należy podać tylko w zgłoszeniu aktualizacyjnym.
+Numer PESEL należy wypełnić w przypadku zgłoszenia identyfikacyjnego lub pierwszego zgłoszenia po uzyskaniu numeru PESEL.
+NIP-7 2 B.3. ADRES MIEJSCA ZAMIESZKANIA B.4.DANE KONTAKTOWE Podanie informacji w części B.4. nie jest obowiązkowe. Wpisane niżej dane aktualizują poprzedni stan danych.
+❑ ❑ ❑ B.4.1. ADRES DO DORĘCZEŃ Należy wypełnić tylko wówczas, gdy adres do doręczeń jest inny niż adres miejsca zamieszkania (w części B.3.).
+❑ 1. tak ❑ 2. nie ❑ B.4.2. ADRES SKRYTKI POCZTOWEJ Podanie informacji o skrytce pocztowej nie jest obowiązkowe.
+❑ 1. tak ❑ 2. nie ❑ C. DANE DOTYCZĄCE PROWADZONEJ SAMODZIELNIE DZIAŁALNOŚCI GOSPODARCZEJ (w zakresie zgodnym z opisem przeznaczenia formularza) C.1. DATY DOTYCZĄCE PROWADZONEJ DZIAŁALNOŚCI, NUMER IDENTYFIKACYJNY REGON, RODZAJ DZIAŁALNOŚCI, STATUS SZCZEGÓLNY ❑ 1. rozpoczęcie działalności ❑ 2. zakończenie działalności -    C.2. DANE WYNIKAJĄCE Z WPISU DO EWIDENCJI REJESTRU Doręczanie następuje zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.) na adres miejsca zamieszkania, o ile nie wskazano na adres do doręczeń (poz. 48) albo skrytki pocztowej (poz. 59).
+Rodzaj przeważającej działalności ustala się zgodnie z § 9 ust. 2 rozporządzenia Rady Ministrów z dnia 30 listopada 2015 r. w sprawie sposobu i metodologii prowadzenia i aktualizacji krajowego rejestru urzędowego podmiotów gospodarki narodowej, wzorów wniosków, ankiet i zaświadczeń (Dz. U. poz. 2009, z późn. zm.). Klasyfikacja PKD dostępna jest na stronie internetowej Głównego Urzędu Statystycznego www.stat.gov.pl.
+NIP-7 3 C.3. ADRESY MIEJSC WYKONYWANIA DZIAŁALNOŚCI C.3.1. ADRES STAŁEGO MIEJSCA WYKONYWANIA DZIAŁALNOŚCI Jeżeli nie jest możliwe wskazanie adresu stałego miejsca wykonywania działalności, należy podać adres miejsca zamieszkania.
+C.3.2. ADRESY POZOSTAŁYCH MIEJSC WYKONYWANIA DZIAŁALNOŚCI W zgłoszeniu identyfikacyjnym podać adresy wszystkich miejsc wykonywania działalności (również hurtowni, magazynów, składów), a w zgłoszeniu aktualizacyjnym stosownie do okoliczności i zmian. W przypadku braku miejsca na wpisanie dalszych adresów należy sporządzić listę adresów tych miejsc odpowiednio, zgodnie z zakresem części C.3.2. (poz. 91-101). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+W przypadku adresu nietypowego (np. sklep w przejściu podziemnym, działalność na terenie kraju) dane adresowe podać z możliwą dokładnością.
+❑ 1. prowadzenie działalności pod tym adresem ❑ 2. zakończenie działalności pod tym adresem 1 ❑ 1. prowadzenie działalności pod tym adresem ❑ 2. zakończenie działalności pod tym adresem 2 ❑ 1. prowadzenie działalności pod tym adresem ❑ 2. zakończenie działalności pod tym adresem 3 C.4. INFORMACJA O DOKUMENTACJI RACHUNKOWEJ   C.4.1. BIURO RACHUNKOWE lub inny podmiot prowadzący dokumentację rachunkową Należy wypełnić tylko wówczas, gdy dokumentacja jest prowadzona w imieniu składającego przez inny niż składający podmiot/biuro.
+*- dotyczy podmiotu niebędącego osobą fizyczną **- dotyczy podmiotu będącego osobą fizyczną C.4.2. ADRES MIEJSCA PRZECHOWYWANIA DOKUMENTACJI RACHUNKOWEJ NIP-7 4 D. INFORMACJE DOTYCZĄCE RACHUNKÓW BANKOWYCH RACHUNKÓW W SKOK Poz.114-115, 120-121 i 124-125 wypełniać wyłącznie dla rachunków zagranicznych.
+D.1. RACHUNEK OSOBISTY - DO ZWROTU PODATKU NADPŁATY Podanie informacji o rachunku (poz. 114-118) nie jest obowiązkowe, jeżeli składający nie wybiera tej formy zwrotu podatku lub nadpłaty. Na wskazany rachunek będą dokonywane ewentualne zwroty nadpłaty lub podatku. Można podać jedynie taki rachunek, którego posiadaczem lub współposiadaczem jest składający. Wpisane niżej dane dotyczące rachunku aktualizują poprzedni stan danych. W przypadku zgłoszenia aktualizacyjnego, jeżeli dane zawarte w części D.1. nie zmieniły się, to część D.1. formularza nie musi być wypełniona.
+Zaznaczenie kwadratu w poz. 119 oznacza rezygnację przez składającego z otrzymywania ewentualnego zwrotu nadpłaty lub podatku na rachunek osobisty (również z powodu likwidacji rachunku).
+⏊ ⏊ ⏊ ⏊ ⏊ ⏊  D.2. RACHUNKI ZWIĄZANE Z PROWADZONĄ DZIAŁALNOŚCIĄ Należy wskazywać rachunki , których posiadaczem jest składający. W przypadku braku miejsca na wpisanie wszystkich rachunków sporządzić listę tych rachunków odpowiednio, zgodnie z zakresem danych określonych w części D.2.2.
+(poz. 124-128). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+D .2.1. RACHUNEK DO ZWROTU PODATKU NADPŁATY D.2.2. POZOSTAŁE RACHUNKI ⏊ ZWIĄZANE ⏊ Z PROWADZONĄ ⏊ DZIAŁALNOŚCIĄ ⏊ ⏊ ⏊ ⏊ ⏊ ⏊ ⏊ ⏊ ⏊  E. INFORMACJA O ZAŁĄCZNIKACH W poz. 129 wskazać dołączone listy. Składając formularz za pomocą środków komunikacji elektronicznej pominąć poz. 129. W poz. 130 zaznaczyć dołączone dokumenty albo ich uwierzytelnione lub poświadczone urzędowo kopie (art. 5 ust. 4a i art. 9 ust. 6 pkt 1 ustawy).
+ B.2.
+ C.3.2.
+ D.2.
+
+1. pełnomocnictwo 
+2. postanowienie sądu o ustanowieniu kuratora F.PODPIS SKŁADAJĄCEGO / DANE I PODPIS OSOBY REPREZENTUJĄCEJ SKŁADAJĄCEGO 131-134 wypełnia wyłącznie osoba reprezentująca składającego, tj. osoba posiadająca pełnomocnictwo albo postanowienie sądu.
+G.ADNOTACJE URZĘDU SKARBOWEGO Z wyjątkiem rachunku VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.).
+Pouczenie Za wykroczenie skarbowe dotyczące obowiązków, o których mowa w art. 81 Kodeksu karnego skarbowego, grozi kara grzywny.
+CRP ZAP-3 1 ZAP-3 ZGŁOSZENIE AKTUALIZACYJNE OSOBY FIZYCZNEJ BĘDĄCEJ PODATNIKIEM Formularz przeznaczony dla osoby fizycznej, spełniającej łącznie poniższe kryteria: - ma nadany numer PESEL, - nie prowadzi działalności gospodarczej, - nie jest zarejestrowanym podatnikiem podatku od towarów i usług, - nie jest płatnikiem podatków, - nie jest płatnikiem składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne.
+Formularz służy do zgłoszenia: aktualnego adresu miejsca zamieszkania (część B.2.), danych kontaktowych (część B.3.) oraz informacji dotyczących rachunku osobistego (część B.4.).
+Podstawa prawna: Ustawa z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r.
+poz. 170, z późn. zm.),zgodnie z art. 9 ust. 1d.
+A.MIEJSCE ZŁOŻENIA ZGŁOSZENIA B. DANE SKŁADAJĄCEGO B.1. DANE IDENTYFIKACYJNE Poz.7-9 należy wypełnić tylko w przypadku dokonujących pierwszego zgłoszenia ZAP-3: -poz. 7 i 8 dotyczą osób, które przed uzyskaniem numeru PESEL miały status podatnika, -poz. 9 dotyczy osób, które przed uzyskaniem numeru PESEL miały nadany identyfikator podatkowy NIP.
+B.2. ADRES MIEJSCA ZAMIESZKANIA B.3. DANE KONTAKTOWE Podanie informacji w części B.3. nie jest obowiązkowe. Wpisane niżej dane aktualizują poprzedni stan danych.
+❑ ❑ ❑ B.3.1. ADRES DO DORĘCZEŃ Należy wypełnić tylko wówczas, gdy adres do doręczeńjest inny niż adres miejsca zamieszkania (w części B.2.).
+❑ 1. tak ❑ 2. nie ❑ B.3.2. ADRES SKRYTKI POCZTOWEJ Podanie informacji o skrytce pocztowej nie jest obowiązkowe.
+❑ 1. tak ❑ 2. nie ❑ ZAP-3 2 B.4.RACHUNEK OSOBISTY -DO ZWROTU PODATKU NADPŁATY Podanie informacji o rachunku bankowym lub rachunku w spółdzielczej kasie oszczędnościowo–kredytowej (poz. 48-52) nie jest obowiązkowe, jeżeli składający nie wybiera tej formy zwrotu podatku lub nadpłaty. Na wskazany rachunek będą dokonywane ewentualne zwroty nadpłaty lub podatku. Można podać jedynie taki rachunek, którego posiadaczem lub współposiadaczem jest składający. Wpisane niżej dane dotyczące rachunku aktualizują poprzedni stan danych.Zaznaczenie kwadratu wpoz.53oznacza rezygnację przez składającego z otrzymywania ewentualnego zwrotu nadpłaty lub podatku na rachunek osobisty (również zpowodu likwidacji rachunku).
+⏊ ⏊ ⏊ ⏊ ⏊ ⏊  C. PODPIS SKŁADAJĄCEGO / DANE I PODPIS OSOBY REPREZENTUJĄCEJ SKŁADAJĄCEGO Osobą reprezentującą składającego może być jedynie osoba uprawniona do reprezentowania, np. opiekun prawny, kurator, pełnomocnik określony w pełnomocnictwie. 54-57wypełnić jedynie w przypadku osoby reprezentującej składającego.
+D. ADNOTACJE URZĘDU SKARBOWEGO (częśćnie jest wypełniana w przypadku zgłoszenia w postaci elektronicznej) CRP NIP-8 1 NIP-8 ZGŁOSZENIE IDENTYFIKACYJNE / ZGŁOSZENIE AKTUALIZACYJNE W ZAKRESIE DANYCH UZUPEŁNIAJĄCYCH 1) Formularz przeznaczony dla podmiotów wpisanych do Krajowego Rejestru Sądowego (z wyłączeniem rejestru dłużników niewypłacalnych).
+Formularz służy zgłaszaniu i aktualizacji danych nieobjętych wpisem do Krajowego Rejestru Sądowego.
+Podstawa prawna: Ustawa z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r.
+poz. 170, z późn. zm.), zwana dalej „ustawą”, ustawa z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2021 r. poz. 955), ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm.).
+Termin składania: Zgodnie z art. 5 ust. 2c i art. 9 ust. 1 ustawy oraz art. 43 ust. 5c i art. 44 ust. 2 ustawy o systemie ubezpieczeń społecznych i art. 42 ust. 6a ustawy o statystyce publicznej.
+Miejsce składania: Zgłoszenie składa się do naczelnika urzędu skarbowego właściwego w rozumieniu art. 4 ustawy.
+A. CEL I MIEJSCE ZŁOŻENIA ZGŁOSZENIA Podmioty, dla których przeznaczony jest formularz dokonują zgłoszenia i aktualizacji danych uzupełniających, o których mowa w ustawie oraz określonych w:  ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej,  ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+W poz. 4 zaznaczyć właściwy kwadrat: kwadrat nr 1 - gdy formularz jest składany jako zgłoszenie identyfikacyjne w zakresie danych uzupełniających, kwadrat nr 2 - gdy formularz jest składany jako zgłoszenie aktualizacyjne w zakresie danych uzupełniających. Zgłoszenie aktualizacyjne w zakresie danych uzupełniających jest składane w przypadku zmiany danych objętych zgłoszeniem, tzn. zmiany danych składającego lub zmiany naczelnika urzędu skarbowego właściwego w sprawach ewidencji, lub zaistnienia nowych okoliczności.
+Zgłoszenie wypełnić w sposób kompletny, wszystkie nazwy podać w dokładnym brzmieniu.
+❑ 1. zgłoszenie identyfikacyjne w zakresie danych uzupełniających ❑ 2. zgłoszenie aktualizacyjne w zakresie danych uzupełniających 
+3. zgłoszenie aktualizacyjne związane z przejściem NIP na następcę prawnego B. DANE SKŁADAJĄCEGO B.1. DANE IDENTYFIKACYJNE B.2. INFORMACJA O NUMERACH IDENTYFIKACYJNYCH UZYSKANYCH W INNYCH KRAJACH Wypełnić tylko wówczas, gdy składający uzyskał numery służące identyfikacji dla celów podatkowych lub ubezpieczeń społecznych w innych krajach. W przypadku braku miejsca na wpisanie dalszych informacji sporządzić listę tych informacji odpowiednio, zgodnie z zakresem danych określonych w części B.2. (poz. 10-12). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+❑ 1. numer aktualny ❑ 2. numer nieaktualny B.3. DANE KONTAKTOWE Wpisane niżej dane aktualizują poprzedni stan danych.
+Informacje podane w poz. 14, 16 i 18 podlegają udostępnieniu z rejestru REGON za zgodą składającego wyrażoną w poz. 13.
+❑ 1. tak ❑ 2. nie ❑ ❑ ❑ B.3.1. ADRES SKRYTKI POCZTOWEJ Podanie informacji o skrytce pocztowej nie jest obowiązkowe.
+❑ 1. tak ❑ 2. nie ❑ NIP-8 2 B.4. ADRESY MIEJSC PROWADZENIA DZIAŁALNOŚCI W zgłoszeniu identyfikacyjnym w zakresie danych uzupełniających należy podać adresy wszystkich miejsc prowadzenia działalności (również hurtowni, magazynów, składów), a w zgłoszeniu aktualizacyjnym w zakresie danych uzupełniających stosownie do okoliczności i zmian.
+W przypadku braku miejsca na wpisanie dalszych adresów sporządzić listę adresów tych miejsc odpowiednio, zgodnie z zakresem części B.4. (poz. 33-43). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę. W przypadku adresu nietypowego (np. sklep w przejściu podziemnym, działalność na terenie kraju) dane adresowe podać z możliwą dokładnością.
+❑ 1. tak ❑ 2. nie ❑ 1. prowadzenie działalności pod tym adresem ❑ 2. zakończenie działalności pod tym adresem B.5. INFORMACJA O DOKUMENTACJI RACHUNKOWEJ   B.5.1. BIURO RACHUNKOWE lub inny podmiot prowadzący dokumentację rachunkową Należy wypełnić tylko wówczas, gdy dokumentacja jest prowadzona w imieniu składającego przez inny niż składający podmiot/biuro.
+* - dotyczy podmiotu niebędącego osobą fizyczną ** - dotyczy podmiotu będącego osobą fizyczną B.5.2. ADRES MIEJSCA PRZECHOWYWANIA DOKUMENTACJI RACHUNKOWEJ C. INFORMACJE DOTYCZĄCE RACHUNKÓW BANKOWYCH W SKOK Należy wskazywać rachunki , których posiadaczem jest składający. 56-57, 60-61 i 65-66 wypełniać wyłącznie dla rachunków zagranicznych.
+C.1. RACHUNKI ZWIĄZANE Z PROWADZONĄ DZIAŁALNOŚCIĄ W przypadku braku miejsca na wpisanie wszystkich rachunków należy sporządzić listę tych rachunków odpowiednio, zgodnie z zakresem danych określonych w części C.1.2. (poz. 60-64). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+C .1.1. RACHUNEK DO ZWROTU PODATKU NADPŁATY ⏊ ⏊ ⏊ ⏊ ⏊ ⏊ C.1.2. POZOSTAŁE RACHUNKI ZWIĄZANE Z PROWADZONĄ DZIAŁALNOŚCIĄ ⏊ ⏊ ⏊ ⏊ ⏊ ⏊  C.2. RACHUNEK WŁAŚCIWY DO PRZEKAZANIA 1% PODATKU RZECZ ORGANIZACJI POŻYTKU PUBLICZNEGO Informacja jest realizacją obowiązku określonego w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2020 r. poz. 1057, z późn. zm.) i dotyczy wyłącznie podmiotu posiadającego status OPP.
+⏊ ⏊ ⏊ ⏊ ⏊ ⏊ NIP-8 3 D. FORMA ORGANIZACYJNA, POWIĄZANE PODMIOTY I DODATKOWE INFORMACJE  1. podmiot mający wyodrębnione jednostki wewnętrzne podlegające obowiązkowi ewidencyjnemu - jednostka macierzysta  2. wyodrębniona jednostka wewnętrzna podlegająca obowiązkowi ewidencyjnemu  3. podmiot niebędący wyodrębnioną jednostką wewnętrzną i niemający takich jednostek D.1. DANE JEDNOSTKI MACIERZYSTEJ Wypełnia tylko wyodrębniona jednostka wewnętrzna (zaznaczony w poz. 69 kwadrat nr 2). 70-72 wypełnić tylko w przypadku składania informacji o jednostce macierzystej w celu uzupełniania jej identyfikatora podatkowego NIP.
+D.2. DANE WYODRĘBNIONEJ JEDNOSTKI WEWNĘTRZNEJ Wypełnia tylko jednostka macierzysta (zaznaczony w poz. 69 kwadrat nr 1). 73-75 wypełnić tylko w przypadku składania informacji o jednostce wewnętrznej w celu uzupełniania jej identyfikatora podatkowego NIP. W przypadku braku miejsca na wpisanie dalszych informacji należy sporządzić listę tych informacji odpowiednio, zgodnie z zakresem danych określonych w części D.2. (poz. 73-75). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+D.3. DANE WSPÓLNIKÓW SPÓŁKI OSOBOWEJ WPISANEJ DO KRS Wypełnić w przypadku składania informacji o wspólniku w celu uzupełniania jego identyfikatora podatkowego NIP. W przypadku braku miejsca na wpisanie dalszych informacji należy sporządzić listę tych informacji odpowiednio, zgodnie z zakresem danych określonych w części D.3. (poz. 76-79). Formularz składany za pomocą środków komunikacji elektronicznej obejmuje listę.
+1 
+1. wspólnik niebędący osobą fizyczną 
+2. osoba fizyczna 2 
+1. wspólnik niebędący osobą fizyczną 
+2. osoba fizyczna D.4. DODATKOWE INFORMACJE 
+1. tak 
+2. nie - 
+1. bank lub inna instytucja finansowa 
+2. zakład pracy chronionej ❑ 3. zakład aktywności zawodowej ❑ 4. podmiot należący do kategorii podmiotów o istotnym znaczeniu gospodarczym lub społecznym, w odniesieniu do którego zadania są wykonywane przez naczelnika urzędu skarbowego innego niż właściwy miejscowo NIP-8 4 % E. INFORMACJA O ZAŁĄCZNIKACH W poz. 91 wskazać dołączone listy. Składając formularz za pomocą środków komunikacji elektronicznej pominąć poz. 91. W poz. 92 zaznaczyć dołączone dokumenty albo ich uwierzytelnione lub poświadczone urzędowo kopie (art. 5 ust. 4a i art. 9 ust. 6 pkt 1 ustawy).
+ B.2.
+ B.4.
+ C.1.
+ D.2.
+ D.3.
+
+1. pełnomocnictwo 
+2. postanowienie sądu o ustanowieniu kuratora F. DANE I PODPISY OSÓB REPREZENTUJĄCYCH SKŁADAJĄCEGO 1 2 3 4 G. ADNOTACJE URZĘDU SKARBOWEGO (część nie jest wypełniana w przypadku zgłoszenia w postaci elektronicznej) Pouczenie Za wykroczenie skarbowe dotyczące obowiązków, o których mowa w art. 81 Kodeksu karnego skarbowego, grozi kara grzywny.
+

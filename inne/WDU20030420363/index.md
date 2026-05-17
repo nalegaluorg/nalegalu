@@ -8,11 +8,10 @@ pos: 363
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 14 lutego 2003 r. o przenoszeniu treści księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym
-
-*USTAWA zdnia 14 lutego 2003 oprzenoszeniu treści struktury prowadzonej informatycznym*
+# o przenoszeniu treści księgi wieczystej do struktury księgi wieczystej prowadzonej systemie informatycznym
 
 | Pole | Wartość |
 |---|---|
@@ -26,151 +25,104 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030420363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/363/text.pdf) |
 
+1) art. 626 otrzymuje brzmienie: „Art. 626 . § 1. Wpis dokonywany jest jedynie na wniosek i jego granicach, chyba że przepis szczególny przewiduje dokonanie wpisu z urzędu.
+§ 2. Rozpoznając wniosek o wpis, sąd bada jedynie treść i formę wniosku, dołączonych do wniosku dokumentów oraz treść księgi wieczystej § 3. Rozpoznając wniosek o wpis księdze wieczystej prowadzonej systemie informatycznym, sąd z urzędu bada zgodność danych wskazanych we wniosku z danymi wynikającymi z systemów prowadzących ewidencje powszechnych numerów identyfikacyjnych, chyba że istnieją przeszkody faktyczne uniemożliwiające dokonanie takiego sprawdzenia.
+§ 4. Rozpoznając wniosek o zmianę oznaczenia nieruchomości księdze wieczystej prowadzonej systemie informatycznym, sąd ponadto dokonuje z urzędu sprawdzenia danych wskazanych we wniosku i ujawnionego księdze wieczystej oznaczenia nieruchomości z danymi katastru nieruchomości, chyba że istnieją przeszkody faktyczne uniemożliwiające dokonanie takiego sprawdzenia.
+§ 5. Niezgodność danych, o których mowa § 3 i § 4, stanowi przeszkodę do dokonania wpisu.
+§ 8. W księdze wieczystej prowadzonej systemie informatycznym podpisany przez sędziego lub referendarza sądowego wpis uważa się za dokonany dopiero z chwilą jego zapisania centralnej bazie danych ksiąg wieczystych.
+§ 9. Przez podpis, o którym mowa § 8, rozumie się dane postaci elektronicznej, które wraz z innymi danymi, do których zostały dołączone, służą do identyfikacji sędziego lub referendarza sądowego dokonującego czynności systemie informatycznym.
+§ 10. Założenie księgi wieczystej następuje z chwilą dokonania pierwszego wpisu.”;
+2) art. 943 § 1 pkt 1 otrzymuje brzmienie: „1) złożyć wyciąg – a razie potrzeby odpis księgi wieczystej albo zaświadczenie sądu wystawione na podstawie zbioru dokumentów prowadzonego dla nieruchomości, zawierające wskazanie jej właściciela i wykaz ujawnionych tym zbiorze obciążeń, jeżeli zaś nieruchomość jest objęta katastrem nieruchomości – także odpowiedni wyciąg,”.
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
-**Art. 2.** Użyte wustawie określenia oznaczają:
+**Art. 2.** Użyte ustawie określenia oznaczają:
 
-**Art. 3.**
+**Art. 3.** (uchylony)
 
-1. Przeniesienia treści dotychczasowej księgi struktury prowadzonej informatycznym dokonuje ośrodek migracyjny przy użyciu systemu informatycznego, o którym mowa art. 25 ustawy dnia 6 lipca 1982 oksięgach ihipotece (Dz. U. 2001 124, 1361 125, 1368 oraz z2002 169, 1387).
+#### Rozdział 2 Zasady i tryb migracji księgi wieczystej oraz zadania sądów rejonowych podczas migracji
 
-2. Minister Sprawiedliwości, wdrodze zarządzenia, tworzy znosi ośrodki migracyjne wieczystych, określa ich liczbę siedzibę, a także wskazuje sądy rejonowe, których mają podlegać migracji wyznaczonym ośrodku.
+**Art. 4.** (uchylony)
 
-3. Nadzór nad działalnością ośrodka migracyjnego sprawuje prezes sądu okręgowego. Rozdział
+**Art. 5.** (uchylony)
 
-2. Minister Sprawiedliwości określi, drodze zarządzenia, sposób dokonywania obwieszczeń orozpoczęciu izakończeniu migracji wieczystych.
+**Art. 6.** (uchylony)
 
-**Art. 7.**
-
-1. Po rozpoczęciu migracji sąd rejonowy sukcesywnie przekazuje dotychczasowe wieczyste właściwemu ośrodkowi migracyjnemu wieczystych. Przepisu art. dostrzeżonych usterek wpisów, o których mowa art. 626 ustawy dnia 6 lipca 1982 o księgach hipotece nie stosuje się.
-
-2. Dotychczasową księgę wieczystą wydaje się ośrodkowi migracyjnemu na okres 10 dni.
-
-3. Wpierwszej kolejności ośrodka migracyjnego przekazuje się dotychczasową księgę wieczystą, której złożony wniosek owpis nie został rozpoznany.
-
-**Art. 8.**
-
-1. Po rozpoczęciu migracji prowadzonych wydział sądu rejonowego nie dokonuje się dotychczasowych księgach wieczystych, zastrzeżeniem 3. Nie stanowi przeszkody złożenia owpis.
-
-2. Dotychczasową księgę wieczystą można przeglądać wydawać jej odpisy czasu przekazania ośrodka migracyjnego wieczystych.
-
-3. Wprzypadku wystąpienia wprowadzeniu migracji danego wydziału sądu rejonowego długotrwałej przeszkody, której nie można przezwyciężyć, Minister Sprawiedliwości, drodze zarządzenia, może zezwolić na dokonywanie woznaczonym czasie wdotychczasowych księgach wieczystych.
+**Art. 7.** (uchylony) czasu zakończenia jej migracji.
 
 **Art. 9.**
 
-1. Migracji podlega treść dotychczasowych założonych lub urządzonych po dniu 1 stycznia 1947
+1. Migracji podlega treść dotychczasowych ksiąg wieczystych założonych lub urządzonych po dniu 1 stycznia 1947 r.
 
-2. Migracji podlega także treść hipotecznych (gruntowych, wieczystych) założonych przed dniem 1stycznia 1947 r., zwanych dalej Ńksięgami dawnymi”, dla których urządzono dalszy tom trybie rozporządzenia Ministra Sprawiedliwości dnia 29 listopada 1946 o prowadzeniu dotychczasowych hipotecznych (gruntowych, wieczystych) po dniu 31 grudnia 1946 (Dz. U. 66, 367, 1947 38, 192 48, 251, 1954 26, 105, z1961 26, 126 oraz z1965 50, 311).
+2. Migracji podlega także treść ksiąg hipotecznych (gruntowych, wieczystych) założonych przed dniem 1 stycznia 1947 r., zwanych dalej „księgami dawnymi”, dla których urządzono dalszy tom trybie rozporządzenia Ministra Sprawiedliwości z dnia 29 listopada 1946 r. o prowadzeniu dotychczasowych ksiąg hipotecznych (gruntowych, wieczystych) po dniu 31 grudnia 1946 r. (Dz. U. Nr 66, poz. 367, z 1947 r. Nr 38, poz. 192 i Nr 48, poz. 251, z 1954 r. Nr 26, poz. 105, z 1961 r. Nr 26, poz. 126 oraz z 1965 r. Nr 50, poz. 311).
 
-3. Urządzony dalszy tom staje się dniem wejścia życie ustawy dotychczasową księgą wieczystą, której przed przekazaniem ośrodka migracyjnego § ustawy dnia 17 listopada 1964 — Kodeks postępowania cywilnego.
+3. Urządzony dalszy tom staje się dotychczasową księgą wieczystą, do której sąd z urzędu przenosi wpisy z księgi dawnej, stosując przepisy rozporządzenia Ministra Sprawiedliwości z dnia 14 lipca 1986 r. sprawie prowadzenia ksiąg wieczystych założonych przed dniem 1 stycznia 1947 r. oraz utraty mocy prawnej niektórych takich ksiąg (Dz. U. Nr 28, poz. 141), z wyjątkiem § 4 pkt 5.
 
-3. Minister Sprawiedliwości określi, drodze rozporządzenia, sposób przenoszenia treści dotychczasowej struktury prowadzonej systemie informatycznym, mając na względzie precyzję irzetelność wwiernym odzwierciedlaniu treści dotychczasowej wieczystej.
+**Art. 10.**
 
-4. Rozporządzenie, októrym mowa wust. 3, powinno wszczególności określać:
+1. Migracji podlegają wszystkie niewykreślone wpisy, wzmianki lub adnotacje, z wyłączeniem: podpisów, wpisów wykreśleń, zmian wpisów wykreślonych oraz wpisów dotyczących wydzielenia części nieruchomości gruntowych.
 
-- **1)** sposób przekształcania numeracji wieczystych;
-- **2)** sposób zamieszczania wksiędze wyniku sprawdzenia zgodności oznaczenia nieruchomości księdze danymi zawartymi bazie danych katastru nieruchomości;
-- **3)** sposób postępowania razie wystąpienia przeszkód wmigracji wieczystej.
+2. Przenoszenia wpisów z dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej systemie informatycznym dokonuje się sposób, który uniemożliwia zmianę treści lub zakresu ujawnionych praw i roszczeń. Dotyczy to również sprostowania dostrzeżonych usterek wpisów, o których mowa art. 626 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
-**Art. 11.** Jeżeli powstaną wątpliwości co sposobu przeniesienia treści wieczystej, sędzia lub referendarz sądowy określa podlegającą migracji treść sposób umieszczenia tej treści wstrukturze prowadzonej informatycznym.
+3. Minister Sprawiedliwości określi, drodze rozporządzenia, sposób przenoszenia treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej systemie informatycznym, mając na względzie precyzję i rzetelność wiernym odzwierciedlaniu treści dotychczasowej księgi wieczystej.
+
+4. Rozporządzenie, o którym mowa ust. 3, powinno szczególności określać: danych katastru nieruchomości;
+
+- **3)** sposób postępowania razie wystąpienia przeszkód migracji księgi wieczystej.
+
+**Art. 11.** Jeżeli powstaną wątpliwości co do sposobu przeniesienia treści księgi wieczystej, sędzia lub referendarz sądowy określa podlegającą migracji treść księgi wieczystej i sposób umieszczenia tej treści strukturze księgi wieczystej prowadzonej systemie informatycznym.
 
 **Art. 12.**
 
-1. Wprzypadku stwierdzenia nieczytelności treści mającej podlegać migracji sędzia lub referendarz sądowy podejmuje czynności wyjaśniające, które mają na celu doprowadzenie określenia podlegającej przeniesieniu treści wieczystej.
+1. W przypadku stwierdzenia nieczytelności treści księgi wieczystej mającej podlegać migracji sędzia lub referendarz sądowy podejmuje czynności wyjaśniające, które mają na celu doprowadzenie do określenia podlegającej przeniesieniu treści księgi wieczystej.
 
-2. Po przeprowadzeniu czynności, októrych mowa wust. 1, sędzia lub referendarz sądowy wskazuje sposób umieszczenia odczytanej treści dotychczasowej wstrukturze prowadzonej informatycznym.
+2. Po przeprowadzeniu czynności, o których mowa ust. 1, sędzia lub referendarz sądowy wskazuje sposób umieszczenia odczytanej treści dotychczasowej księgi wieczystej strukturze księgi wieczystej prowadzonej systemie informatycznym.
 
-3. Jeżeli wyniku prowadzonych czynności wyjaśniających nie doszło określenia treści wieczystej, dotychczasową księgę wieczystą zwraca się sądu rejonowego, który niezwłocznie urzędu podejmuje czynności zmierzające ustalenia jej treści, awrazie ich bezskuteczności księgę zamyka. Zamknięcie nie jest orzeczeniem inie podlega zaskarżeniu.
+3. Jeżeli wyniku prowadzonych czynności wyjaśniających nie doszło do określenia treści księgi wieczystej, sędzia lub referendarz sądowy niezwłocznie z urzędu podejmuje czynności zmierzające do ustalenia treści dotychczasowej księgi wieczystej, a razie ich bezskuteczności księgę zamyka. Zamknięcie księgi wieczystej nie jest orzeczeniem i nie podlega zaskarżeniu.
 
-**Art. 13.**
+**Art. 13.** (uchylony)
 
-1. Wtoku migracji ośrodek migracyjny sprawdza zgodność oznaczenia nieruchomości dotychczasowej księdze danymi zawartymi bazie danych katasowa księga wieczysta staje się częścią akt wieczystej. Dotychczasową księgę wieczystą ośrodek migracyjny niezwłocznie zwraca sądu rejonowego, który dołącza ją akt wieczystej.
+**Art. 14.** Sędzia lub referendarz sądowy zatwierdza prawidłowość przeniesienia treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej systemie informatycznym.
 
-2. Sąd rejonowy przejmuje zapisaną centralnej bazie danych treść uzupełnia ją niezwłocznie o wzmianki o wnioskach, osprawach wszczętych zurzędu, ośrodkach zaskarżenia oraz o skargach na orzeczenia referendarzy sądowych, które wpłynęły wokresie prowadzenia migracji.
+**Art. 15.**
 
-3. Po dokonaniu czynności, o których mowa 2, przeniesiona treść dotychczasowej staje się treścią prowadzonej systemie informatycznym tą chwilą podlega udostępnieniu.
+1. Z chwilą zapisania treści księgi wieczystej centralnej bazie danych ksiąg wieczystych dotychczasowa księga wieczysta staje się częścią akt księgi wieczystej.
 
-**Art. 16.** Przeniesienie treści dotychczasowej struktury prowadzonej informatycznym nie jest orzeczeniem inie podlega zaskarżeniu.
+2. Sąd rejonowy niezwłocznie uzupełnia treść księgi wieczystej zapisanej centralnej bazie danych ksiąg wieczystych o wzmianki o wnioskach, sprawach dotychczasowej księgi wieczystej staje się treścią księgi wieczystej prowadzonej systemie informatycznym i z tą chwilą podlega udostępnieniu.
 
-**Art. 17.**
+**Art. 16.** Przeniesienie treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej systemie informatycznym nie jest orzeczeniem i nie podlega zaskarżeniu.
 
-1. Prezesi sądów rejonowych, każdy zakresie swojej właściwości, 15 dnia każdego miesiąca ogłaszają wykazy wieczystych, których migracja została zakończona wmiesiącu poprzedzającym.
-
-2. Wykazy wieczystych, o których mowa wust. 1, są ogłaszane wbudynku sądu rejonowego objętego migracją oraz siedzibie organu prowadzącego kataster nieruchomości.
-
-3. Minister Sprawiedliwości określi, drodze zarządzenia, zasady ogłaszania wykazów wieczystych przekazanych ośrodka migracyjnego oraz wykazów wieczystych, których migracja została zakończona wdanym miesiącu.
+**Art. 17.** (uchylony)
 
 **Art. 18.**
 
-1. Sprostowania błędów powstałych podczas migracji dokonuje sąd zurzędu lub na wniosek zainteresowanego postępowaniu nieprocesowym. Czynności sądu mogą wykonywać referendarze sądowi.
+1. Sprostowania błędów powstałych podczas migracji ksiąg wieczystych dokonuje sąd z urzędu lub na wniosek zainteresowanego postępowaniu nieprocesowym. Czynności sądu mogą wykonywać referendarze sądowi.
 
-2. Uzasadnienie postanowienia przedmiocie sprostowania, o którym mowa 1, sporządza się wrazie jego zaskarżenia. Na postanowienie sądu przysługuje zażalenie.
+2. Uzasadnienie postanowienia przedmiocie sprostowania, o którym mowa ust. 1, sporządza się razie jego zaskarżenia. Na postanowienie sądu przysługuje zażalenie.
 
-3. Postępowanie wprzedmiocie sprostowania błędów jest wolne od opłat sądowych.
+3. Postępowanie przedmiocie sprostowania błędów jest wolne od opłat sądowych.
 
-**Art. 19.** Jeżeli po zakończeniu migracji wieczystych prowadzonych wydział sądu rejonowewa art. 4, a także współpracuje sądami rejonowymi, których dotychczasowe wieczyste podlegają migracji.
+**Art. 19.** Jeżeli po zakończeniu migracji ksiąg wieczystych okaże się, że sądzie rejonowym znajduje się dotychczasowa księga wieczysta, prezes sądu rejonowego niezwłocznie zarządza przeniesienie przez wydział ksiąg wieczystych treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej systemie informatycznym.
 
-**Art. 21.**
+#### Rozdział 3 (uchylony) cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) wprowadza się następujące zmiany:
 
-1. Sędziowie ireferendarze sądowi, którym powierzono pełnienie obowiązków ośrodku migracyjnym wieczystych, sprawują merytoryczny nadzór nad migracją wieczystych, a także udzielają konsultacji pracownikom ośrodka oraz przeprowadzają czynności wyjaśniające przypadku nieczytelności treści wieczystej.
+**Art. 24.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2001 r. Nr 124, poz. 1361 i Nr 125, poz. 1368 oraz z 2002 r. Nr 169, poz. 1387) wprowadza się następujące zmiany:
 
-2. Do delegowania sędziów, którym powierza się pełnienie obowiązków ośrodku migracyjnym wieczystych, stosuje się przepisy art. 77 § 1, 4, 6, 7 8 ustawy zdnia 27 lipca 2001 — Prawo oustroju sądów powszechnych (Dz. U. 98, 1070 154, 1787 oraz 2002 153, 1271, 213, 1802 iNr 240, 2052).
+**Art. 36⁵.**
 
-3. Przepis stosuje się odpowiednio delegowania referendarzy sądowych, którym powierza się pełnienie obowiązków ośrodku migracyjnym wieczystych.
+1. Centralna Informacja pobiera opłatę od wniosku o wydanie odpisu księgi wieczystej oraz od wniosku o wydanie zaświadczenia o zamknięciu księgi wieczystej.
 
-4. W sprawach nieuregulowanych ustawie pracowników ośrodka migracyjnego wieczystych stosuje się przepisy ustawy dnia 18 grudnia 1998 o pracownikach sądów prokuratury (Dz. U. 162, 1125 oraz z2001 98, 1070).
+2. Minister Sprawiedliwości, porozumieniu z ministrem właściwym do spraw finansów publicznych, określa, drodze rozporządzenia, wysokość opłat, o których mowa ust. 1, uwzględniając szczególności zróżnicowanie opłat od wniosków o uzyskanie poszczególnych dokumentów.
 
-**Art. 22.**
+3. Wniosek o wydanie odpisu księgi wieczystej oraz wniosek o wydanie zaświadczenia o zamknięciu księgi wieczystej złożony przez sąd, prokuratora lub organ administracji rządowej są wolne od opłat.
 
-1. Minister Sprawiedliwości określi, wdrodze rozporządzenia:
+4. Centralna Informacja zapewni nieodpłatnie organom prowadzącym kataster nieruchomości bezpośredni dostęp do bazy danych księgi wieczystej części obejmującej dział pierwszy i drugi, celu sprawdzenia zgodności danych
 
-- **1)** szczegółową organizację ifunkcjonowanie ośrodka migracyjnego wieczystych, wtym szczegółowy zakres zadań jego kierownika, szczegółowy zakres czynności wykonywanych sędziów referendarzy sądowych, którym powierzono pełnienie obowiązków ośrodku migracyjnym wieczystych, oraz pracowników ośrodka migracyjnego wieczystych,
-- **2)** szczegółowy sposób wykonywania sąd rejonowy ośrodek migracyjny zadań podczas migracji wieczystych, tym szczególności sposób przekazywania wieczystych między sądem rejonowym a ośrodkiem migracyjnym oraz ustalania kolejności ich przekazywania — mając na uwadze zasady sprawności, racjonalności, atakże ekonomicznego iszybkiego działania. wniosek jego granicach, chyba że przepis szczególny przewiduje dokonanie wpisu zurzędu.
+#### Rozdział 5 Przepisy przejściowe i końcowe
 
-§ 2. Rozpoznając wniosek o wpis, sąd bada jedynie treść iformę wniosku, dołączonych dokumentów oraz treść wieczystej.
+**Art. 25.** Do czasu przekształcenia ewidencji gruntów i budynków kataster nieruchomości przez użyte niniejszej ustawie oraz ustawach nowelizowanych art. 23 i art. 24 pojęcie „kataster nieruchomości” rozumie się tę ewidencję.
 
-§ 3. Rozpoznając wniosek owpis wksiędze prowadzonej systemie informatycznym, sąd urzędu bada zgodność danych wskazanych we zdanymi wynikającymi systemów prowadzących ewidencje powszechnych numekonany dopiero chwilą jego zapisania centralnej bazie danych wieczystych.
-
-§ 9. Przez podpis, októrym mowa w§ 8, rozumie się dane wpostaci elektronicznej, które wraz innymi danymi, których zostały dołączone, służą identyfikacji sędziego lub referendarza sądowego dokonującego czynności systemie informatycznym.
-
-§ 10. Założenie następuje chwilą dokonania pierwszego wpisu.”; rów identyfikacyjnych, chyba że ist- 2) wart. 943 w§ 1 pkt 1 otrzymuje brzmienie: nieją przeszkody faktyczne unie- Ń1) złożyć wyciąg — awrazie potrzeby odpis księmożliwiające dokonanie takiego gi albo zaświadczenie sądu wystasprawdzenia. wione na podstawie zbioru dokumentów pro§ 4. Rozpoznając wniosek o zmianę wadzonego dla nieruchomości, zawierające oznaczenia nieruchomości księ- wskazanie jej właściciela wykaz ujawnionych dze prowadzonej sys- tym zbiorze obciążeń, jeżeli zaś nieruchotemie informatycznym, sąd ponad- mość jest objęta katastrem nieruchomości — dokonuje urzędu sprawdzenia także odpowiedni wyciąg;”. danych wskazanych we iujawnionego wksiędze Art. 24. Wustawie zdnia 6 lipca 1982 oksięgach oznaczenia nieruchomości dany- hipotece (Dz. U. 2001 124, mi katastru nieruchomości, chyba 1361 125, 1368 oraz 2002 169, że istnieją przeszkody faktyczne 1387) wprowadza się następujące zmiany: uniemożliwiające dokonanie takie- 1) wart. 26 1 i2 otrzymują brzmienie: go sprawdzenia.
-
-§ 5. Niezgodność danych, októrych mo- Ń1. Podstawą oznaczenia nieruchomości wksiędze wa § 3 § 4, stanowi przeszkodę są dane katastru nieruchomości. dokonania wpisu. 2. Podstawą oznaczenia lokalu księdze wieczystej jest zaświadczenie opołożeniu ipowierzchni lokalu, wydane spółdzielnię mieszkaniową, a domu jednorodzinnego — zaświadczenie wydane spółdzielnię oraz dane katastru nieruchomości.”;
-
-- **2)** art. 27 otrzymuje brzmienie: ——————— ŃArt. 27. 1. W razie niezgodności danych katastru nieruchomości oznaczeniem nieruchomości księdze sąd rejonowy dokonuje — na wniosek właściciela nieruchomości lub wieczystego użytkownika — sprostowania oznaczenia nieruchomości na podstawie danych katastru nieruchomości.
-
-2. Sprostowanie, októrym mowa wust. 1, może być dokonane także urzędu, na skutek bezpośredniego sprawdzenia danych bazie danych katastru nieruchomości lub zawiadomienia jednostki
-
-- **3)** uchyla się art. 30;
-- **4)** wart. 31 otrzymuje brzmienie: Ń2. Wpis potrzebny usunięcia niezgodności między treścią arzeczywistym stanem prawnym może nastąpić, gdy niezgodność będzie wykazana orzeczeniem sądu lub innymi odpowiednimi dokumentami.”;
-- **5)** wart. dodaje się 5 wbrzmieniu: Ń5. Przepisów 1 i2 nie stosuje się wydawania odpisów prowadzonych systemie informatycznym, o którym mowa wart. 25 .”;
-- **6)** po art. dodaje się art. , art. oraz art. wbrzmieniu: ŃArt. . 1. Dla prowadzenia informatycznym, októrym mowa wart. 25 , Minister Sprawiedliwości tworzy iutrzymuje centralną bazę danych wieczystych, stanowiącą ogólnokrajowy zbiór wieczystych prowadzonych tym systemie.
-
-2. Minister Sprawiedliwości zapewni bezpieczeństwo centralnej bazy danych wieczystych, wszczególności ochronę przed nieuprawnionym dostępem osób trzecich, zniszczeniem oraz utratą danych.
-
-3. Sądy rejonowe, które zakładają prowadzą wieczyste informatycznym, dokonują czynności związanych prowadzeniem wcentralnej bazie danych wieczystych.
-
-**Art. 4.**
-
-1. Wprowadzając system informatyczny, o którym mowa art. 25 , Minister Sprawiedliwości utworzy, drodze rozporządzenia, Centralną Informację Ksiąg Wieczystych, zwaną dalej ŃCentralną Informacją”, zekspozyturami przy wydziałach sądów rejonowych prowadzących wieczyste systemie informatycznym. Rozporządzenie powinno uwzględniać wszczególności zasady funkcjonowania Centralnej Informacji, jej strukturę organizacyjną oraz tryb rodzaje dokumentów nią wydawanych, mając na uwadze szybkość powszechność dostępu wieczy5. W razie zaistnienia niemożliwej usunięcia przeszkody bezpośredniego wglądu prowadzonej systemie informatycznym, każdy ma prawo zaznajomienia się zwydrukiem wieczystej.
-
-**Art. 5.**
-
-1. Centralna Informacja pobiera opłatę od o wydanie odpisu oraz od owydanie zaświadczenia o zamknięciu wieczystej.
-
-2. Minister Sprawiedliwości, porozumieniu ministrem właściwym spraw finansów publicznych, określa, drodze rozporządzenia, wysokość opłat, o których mowa 1, uwzględniając wszczególności zróżnicowanie opłat od wniosków ouzyskanie poszczególnych dokumentów.
-
-3. Wniosek owydanie odpisu wieczystej oraz wniosek o wydanie zaświadczenia o zamknięciu wieczystej złożony sąd, prokuratora lub organ administracji rządowej są wolne od opłat.
-
-4. Centralna Informacja zapewni nieodpłatnie organom prowadzącym kataster nieruchomości bezpośredni dostęp bazy danych części obejmującej dział pierwszy idrugi, wcelu sprawdzenia zgodności danych katastrze nieruchomości treścią powyższych działach, bez prawa udostępniania danych ztej bazy osobom trzecim.”;
-
-- **7)** wart. 65 uchyla się 2a.
-
-#### Rozdział 5 Przepisy przejściowe ikońcowe
-
-**Art. 25.** Do czasu przekształcenia ewidencji gruntów ibudynków wkataster nieruchomości użyte wniniejszej ustawie oraz wustawach nowelizowanych wart. 23 iart. 24 pojęcie Ńkataster nieruchomości” rozumie się tę ewidencję.
-
-**Art. 26.** Ustawa wchodzi życie dniem 1 lipca 2003 r., wyjątkiem przepisu art. 24 pkt 7, który wchodzi wżycie zdniem ogłoszenia, zmocą od dnia 1 stycz-
+**Art. 26.** Ustawa wchodzi życie z dniem 1 lipca 2003 r., z wyjątkiem przepisu art. 24 pkt 7, który wchodzi życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2003 r.
 

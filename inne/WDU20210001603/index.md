@@ -8,9 +8,12 @@ pos: 1603
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 września 2021 r.
+# o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz niektórych innych ustaw
+
+*USTAWA z dnia 8 lipca 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001603) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1603/text.pdf) |
 
-USTAWA z dnia 8 lipca 2021 r.
-o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2018 r. poz. 1026) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945, z 2019 r. poz. 2020 oraz z 2021 r. poz. 255) wprowadza się następujące zmiany:
@@ -35,7 +35,7 @@ o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie 
 
 **Art. 4.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 182 i 904) art. 38 po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Organ właściwy sprawie wypłaty pomocy ramach działania, o którym mowa art. 3 ust. 1 pkt 9, zawiesza postępowanie tej sprawie, przypadku wszczęcia postępowania sprawie cofnięcia uznania na podstawie przepisów o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw, przepisów o organizacji niektórych rynków rolnych lub przepisów o organizacji rynku mleka i przetworów mlecznych, do czasu rozstrzygnięcia postępowania sprawie cofnięcia uznania.”.
 
-**Art. 5.** W ustawie z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1888) art. 7 ust. 1 pkt 2 otrzymuje brzmienie: „2) stwierdzenia nieważności decyzji właściwy jest Prezes Agencji;”.
+**Art. 5.** W ustawie z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1888) art. 7 ust. 1 pkt 2 otrzymuje brzmienie: „2) stwierdzenia nieważności decyzji – właściwy jest Prezes Agencji;”.
 
 **Art. 6.**
 
@@ -49,11 +49,10 @@ o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie 
 
 5. Do postępowań sprawie stwierdzenia nieważności decyzji sprawie stwierdzenia spełniania przez grupę producentów rolnych warunków określonych art. 3 albo art. 3a ustawy zmienianej art. 1 oraz przepisach wydanych na podstawie art. 6 ustawy zmienianej art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 5 brzmieniu dotychczasowym.
 
-- **1)** art. 8 ust. 9 ustawy zmienianej art. 1 zachowują moc i mogą być zmieniane na podstawie art. 8 ust. 9 ustawy zmienianej art. 1;
 - **2)** art. 38i ust. 3 ustawy zmienianej art. 2 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 38i ust. 3 ustawy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane tym czasie na podstawie art. 38i ust. 3 ustawy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą;
 - **3)** art. 48a ust. 7 ustawy zmienianej art. 3 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 48a ust. 7 ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane tym czasie na podstawie art. 48a ust. 7 ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą.
 
 **Art. 8.** Do sprawozdań, o których mowa art. 17a ust. 1 ustawy zmienianej art. 1, składanych za rok działalności związku rozpoczęty i niezakończony przed dniem wejścia życie niniejszej ustawy, stosuje się przepis art. 17a ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 9.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.
 

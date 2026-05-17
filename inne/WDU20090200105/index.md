@@ -8,9 +8,12 @@ pos: 105
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
+# o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
+
+*USTAWA z dnia 19 grudnia 2008 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,63 +27,68 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090200105) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/105/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 26 stycznia 2007 r. opłatnościach ramach systemów wsparcia bezpośredniego (Dz. U. 2008 r. 170, poz. 1051 i 214, poz.1349) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2008 r. Nr 170, poz. 1051 i Nr 214, poz. 1349) wprowadza się następujące zmiany:
 
 **Art. 31b.**
 
-1. Prezes Agencji uzgodnieniu Głównym Lekarzem Weterynarii ustala czynniki analizy ryzyka typowania rolników kontroli wymogów liczbę gospodarstw, które należy objąć tymi kontrolami.
+1. Prezes Agencji w uzgodnieniu z Głównym Lekarzem Weterynarii ustala czynniki do analizy ryzyka typowania rolników do kontroli wymogów oraz liczbę gospodarstw, które należy objąć tymi kontrolami.
 
-2. Minister właściwy spraw rozwoju wsi minister właściwy spraw rolnictwa określą, wdrodze zarządzenia, warunki itryb współpracy Agencji iInspekcji Weterynaryjnej wzakresie przeprowadzania kontroli wymogów.
+2. Minister właściwy do spraw rozwoju wsi oraz minister właściwy do spraw rolnictwa określą, w drodze zarządzenia, warunki i tryb współpracy Agencji i Inspekcji Weterynaryjnej w zakresie przeprowadzania kontroli wymogów.
 
 **Art. 31c.**
 
-1. Przestrzeganie norm lub wymogów może podlegać kontroli administracyjnej zgodnie art. 43 rozporządzenia nr 796/2004.
+1. Przestrzeganie norm lub wymogów może podlegać kontroli administracyjnej zgodnie z art. 43 rozporządzenia nr 796/2004.
 
-2. Minister właściwy spraw rolnictwa może określić, drodze rozporządzenia, normy lub wymogi, których przestrzeganie może podlegać kontroli, októrej mowa wust. 1, biorąc pod uwagę informacje przekazywane Agencji na podstawie odrębnych przepisów lub zgromadzone wsystemach informatycznych Agencji możliwość ich wykorzystania kontroli administracyjnej, a także zabezpieczenie przed nieuzasadnionym przyznawaniem płatności.
+2. Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, normy lub wymogi, których przestrzeganie może podlegać kontroli, o której mowa w ust. 1, biorąc pod uwagę informacje przekazywane Agencji na podstawie odrębnych przepisów lub zgromadzone w systemach informatycznych Agencji oraz moż liwość ich wykorzystania w kontroli administracyjnej, a także zabezpieczenie przed nieuzasadnionym przyznawaniem płatności.
 
 **Art. 31d.**
 
-1. Oceny wagi stwierdzonej niezgodności, októrej mowa wart. 48 1lit. c rozporządzenia nr 796/2004, dokonuje raporcie czynności kontrolpunktów ujętą wraporcie zczynności kontrolnych, przypisaną stwierdzonych niezgodności.
+1. Oceny wagi stwierdzonej niezgodności, o której mowa w art. 48 ust. 1 lit. c rozporządzenia nr 796/2004, dokonuje się w raporcie z liczbę punktów, z tym że w przypadku stwierdzenia celowej niezgodności, o której mowa w art. 67 rozporządzenia nr 796/2004, oceny wagi tej niezgodności dokonuje się w tym raporcie odrębnie, przypisując jej odpowiednią liczbę punktów.
 
-3. Ocena wagi stwierdzonej niezgodności, której mowa art. 48 1 lit.c rozporządzenia nr 796/2004, ujęta raporcie czynności kontrolnych, jest uwzględniana postępowaniach sprawach dotyczących pomocy finansowej ramach działań objętych programem rozwoju obszarów wiejskich, określonych przepisach wspieraniu rozwoju obszarów wiejskich udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, których warunkiem przyznania tej pomocy jest spełnianie wymogów lub norm, przypadku gdy rolnik jest wnioskodawcą lub beneficjentem tej pomocy.”;
+2. Dokonując zmniejszeń lub wykluczeń, o których mowa w art. 66 ust. 1, 2, 2b – 5 oraz art. 67 rozporządzenia nr 796/2004, uwzględnia się liczbę punktów ujętą w raporcie z czynności kontrolnych, przypisaną do stwierdzonych niezgodności.
 
-- **14)** wart. 34:
-    - **a)** 1 wprowadzenie wyliczenia otrzymuje brzmienie: ŃMinister właściwy spraw rolnictwa, minister właściwy spraw rozwoju wsi minister właściwy spraw rynków rolnych określą, wdrodze rozporządzenia:”,
-    - **b)** dodaje 3wbrzmieniu: Ń3. Minister właściwy spraw rolnictwa, minister właściwy spraw rozwoju wsi minister właściwy spraw rynków rolnych mogą określić, drodze rozporządzenia, szczegółowe warunki i tryb przeprowadzania kontroli na miejscu ramach wzajemnej zgodności wymogów lub norm, mając na względzie zapewnienie przeprowadzenia tych kontroli wjednolity sposób na obszarze całego kraju.”;
+3. Ocena wagi stwierdzonej niezgodności, o której mowa w art. 48 ust. 1 lit. c rozporządzenia nr 796/2004, ujęta w raporcie z czynności kontrolnych, jest uwzględniana w postępowaniach w sprawach dotyczących pomocy finansowej w ramach działań objętych programem rozwoju obszarów wiejskich, określonych w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, w których warunkiem przyznania tej pomocy jest spełnianie wymogów lub norm, w przypadku gdy rolnik jest wnioskodawcą lub beneficjentem tej pomocy.”;
 
-- **15)** art. 37a otrzymuje brzmienie: ŃArt. 37a. 1. Zmniejszenia lub wykluczenia, którym mowa art. 6 3 rozporządzenia nr 1782/2003, nie stosuje się, jeżeli to zmniejszenie albo wykluczenie wynosi nie więcej niż równowartość kwoty 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie art. 3 rozporządzenia nr1913/2006.
+- **14)** w art. 34:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi oraz minister właściwy do spraw rynków rolnych określą, w drodze rozporządzenia:”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi oraz minister właściwy do spraw rynków rolnych mogą określić, w drodze rozporządzenia, szczegółowe warunki i tryb przeprowadzania kontroli na miejscu w ramach wzajemnej zgodności wymogów lub norm, mając na względzie zapewnienie przeprowadzenia tych kontroli w jednolity sposób na obszarze całego kraju.”;
 
-2. Jeżeli nie zastosowano zmniejszenia lub wykluczenia, którym mowa midorów:
+- **15)** art. 37a otrzymuje brzmienie: „Art. 37a. 1. Zmniejszenia lub wykluczenia, o którym mowa w art. 6 ust. 3 rozporządzenia nr 1782/2003, nie stosuje się, jeżeli to zmniejszenie albo wykluczenie wynosi nie więcej niż równowartość kwoty 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 3 rozporządzenia nr 1913/2006.
 
-- **1)** podaje informację o:
-    - **a)** niezastosowaniu zmniejszenia lub wykluczenia,
-    - **b)** objęciu stwierdzonej niezgodności działaniami, których mowa wart. 6ust. 3akapit drugi rozporządzenia nr 1782/2003, podejmowanymi przez kierownika biura powiatowego Agencji, roku następującym po roku, którym został złożony wniosek przyznanie płatności obszarowych, płatności cukrowej lub płatności pomidorów;
+2. Jeżeli nie zastosowano zmniejszenia lub wykluczenia, o którym mowa w art. 6 ust. 3 rozporządzenia nr 1782/2003, kierownik biura powiatowego Agencji właściwy w sprawie przyznania płatności obszarowych, p łatności cukrowej lub płatności do pomidorów podejmuje działania, o których mowa w art. 6 ust. 3 akapit drugi tego rozporządzenia.
 
-- **2)** nakazuje realizację wyznaczonym terminie określonych działań mających na celu usunięcie stwierdzonych niezgodności.
+3. W przypadku, o którym mowa w ust. 1, w decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej lub płatności do pomidorów:
 
-4. Działania, których mowa 3 pkt 2, powinny być współmierne rodzaju stwierdzonych niezgodności i nie mogą być nadmiernie uciążliwe dla rolnika.”;
+- **1)** podaje się informację o:
+    - **b)** objęciu stwierdzonej niezgodności działaniami, o których mowa w art. 6 ust. 3 akapit drugi rozporządzenia nr 1782/2003, podejmowanymi przez kierownika biura powiatowego Agencji, w roku następującym po roku, w którym został złożony wniosek o przyznanie płatności obszarowych, płatności cukrowej lub płatności do pomidorów;
 
-- **16)** po art. 37a dodaje art. 37b i37c wbrzmieniu: ŃArt. 37b. 1. W przypadku stwierdzenia drobnej niezgodności, októrej mowa wart. 7 2 rozporządzenia nr 1782/2003, zmniejszenia, którym mowa art. 66 lub 67 rozporządzenia nr796/2004, nie stosuje się.
+- **2)** nakazuje się realizację w wyznaczonym terminie określonych działań mających na celu usunięcie stwierdzonych niezgodności.
 
-2. Jeżeli dnia wydania decyzji sprawie przyznania płatności obszarowych, płatności cukrowej lub płatności pomidorów rolnik nie zrealizował wskazanych raporcie czynności kontrolnych działań naprawczych, których mowa art. 7 2 akapit trzeci rozporządzenia nr 1782/2003, decyzji sprawie przyznania płatności bezpośredniej, płatności cukrowej lub płatności pomidorów:
+4. Działania, o których mowa w ust. 3 pkt 2, powinny być współmierne do rodzaju stwierdzonych niezgodności i nie mogą być nadmiernie uciążliwe dla rolnika.”;
 
-- **1)** podaje informację niezastosowaniu zmniejszenia powodu stwierdzenia drobnej niezgodności; stwierdzonej niezgodności ramach oceny wagi, której mowa art. 48 1 lit. c rozporządzenia nr 796/2004, zależności od rodzaju stwierdzonego naruszenia,
-- **2)** przypadki, które uznaje za drobną niezgodność, liczbę punktów, jaką przypisuje stwierdzonej drobnej niezgodności ramach oceny wagi, której mowa art. 48 1 lit. c rozporządzenia nr 796/2004, jeżeli rolnik nie zrealizował działań określonych decyzji, której mowa wart. 37b 2,
-- **3)** wyrażoną procentach wielkość zmniejszenia płatności obszarowych, płatności cukrowej lub płatności pomidorów zależności od liczby punktów przypisanych stwierdzonym niezgodnościom biorąc pod uwagę przeprowadzenie oceny zgodnie zasadami określonymi art. 7 2 rozporządzenia nr 1782/2003, art. 41, art. 66 1, 2, 2b—5 art. 67 rozporządzenia nr 796/2004, jak również wielkość gospodarstwa rolnego, jego położenie geograficzne, liczbę zwierząt znajdujących gospodarstwie rolnym liczbę zwierząt nieoznakowanych zgodnie zwymogami.”;
-- **17)** art. 40 otrzymuje brzmienie: ŃArt. 40. Prezes Agencji odstępuje od ustalenia kwot nienależnie lub nadmiernie pobranych płatności obszarowych, płatności cukrowej lub płatności pomidorów, októrym mowa art. 29 1 ustawy dnia 9 maja 2008 r. Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. 98, poz. 634 iNr 227, poz. 1505), wprzypadku gdy kwota każdej tych płatności nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie zart. 3rozporządzenia nr1913/2006.”.
+- **16)** po art. 37a dodaje się art. 37b i 37c w brzmieniu: „Art. 37b. 1. W przypadku stwierdzenia drobnej niezgodności, o której mowa w art. 7 ust. 2 rozporządzenia nr 1782/2003, zmniejszenia, o którym mowa w art. 66 lub 67 rozporządzenia nr 796/2004, nie stosuje się.
 
-**Art. 2.** Wustawie zdnia 29 stycznia 2004 r. oInspekcji Weterynaryjnej (Dz. U. 2007 r. 121, poz. 842, póên. zm. ) wprowadza następujące zmiany:
+2. Jeżeli do dnia wydania decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej lub płatności do pomidorów rolnik nie zrealizował wskazanych w raporcie z czynności kontrolnych działań naprawczych, o których mowa w art. 7 ust. 2 akapit trzeci rozporządzenia nr 1782/2003, w decyzji w sprawie przyznania płatności bezpośredniej, płatności cukrowej lub płatności do pomidorów:
 
-**Art. 3.** W ustawie dnia 7 marca 2007 r. wspieraniu rozwoju obszarów wiejskich udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. 64, poz. 427 2008 r. 98, poz. 634, 214, poz. 1349 i 237, poz. 1655) wprowadza następujące zmiany:
+- **1)** podaje się informację o niezastosowaniu zmniejszenia z powodu stwierdzenia drobnej niezgodności;
+- **2)** nakazuje się realizację określonych działań naprawczych, o których mowa w art. 7 ust. 2 akapit trzeci rozporządzenia nr 1782/2003;
+- **3)** określa się termin, o którym mowa w art. 66 ust. 2b rozporządzenia nr 796/2004.
 
-**Art. 28c.** W przypadku stwierdzenia drobnej niezgodności, októrej mowa wart. 7ust. 2 rozporządzenia nr 1782/2003, zmniejszenia nie stosuje się.”;
+**Art. 37c.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
-**Art. 4.** Do postępowań sprawach dotyczących płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej płatności pomidorów, których mowa ustawie wymienionej art. 1, wszczętych i niezakończonych decyzją ostateczną dnia wejścia życie niniejszej ustawy, stosuje przepisy dotychczasowe, wyjątkiem art. 22 4 art. 37a ustawy wymienionej art. 1, które stosuje wbrzmieniu nadanym niniejszą ustawą.
+**Art. 2.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, z późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427 oraz z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655) wprowadza się następujące zmiany:
+
+**Art. 28c.** W przypadku stwierdzenia drobnej niezgodności, o której mowa w art. 7 ust. 2 rozporządzenia nr 1782/2003, zmniejszenia nie stosuje się.”;
+
+**Art. 4.** Do postępowań w sprawach dotyczących płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów, o których mowa w ustawie wymienionej w art. 1, wszczętych i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe, z wyjątkiem art. 22 ust. 4 oraz art. 37a ustawy wymienionej w art. 1, które stosuje się w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 5.**
 
-1. Przepisy wykonawcze wydane na podstawie art. 24c art. 34 1 ustawy wymienionej wart. 1zachowują moc dnia wejścia wżycie przepisów wykonawczych wydanych na podstawie art. 24c art. 34 1 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2lata od dnia jej wejścia wżycie.
+1. Przepisy wykonawcze wydane na podstawie art. 24c oraz art. 34 ust. 1 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24c oraz art. 34 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia jej wejścia w życie.
 
-2. Przepisy wykonawcze wydane na podstawie art.29 1pkt 1ustawy wymienionej wart. 3, dotyczące działań objętych programem, wktórych warunkiem przyznania pomocy jest spełnianie ramach wzajemnej zgodności wymogów lub norm, których mowa rozporządzeniu Rady (WE) nr 1782/2003 dnia 29 września 2003 r. ustanawiającego wspólne zasady dla systemów wsparcia bezpośredniego wramach wspólnej polityki rolnej i ustanawiającego określone systemy wsparcia dla rolników zmieniającego rozporządzenia (EWG) nr 2019/93, (WE) nr 1452/2001, (WE) nr 1453/2001, (WE) nr 1454/2001, (WE) nr 1868/94, (WE) nr 1251/1999, (WE) nr 1254/1999, (WE) nr 1673/2000, (EWG) nr 2358/71 i (WE) nr 2529/2001 (Dz. Urz. UE L 270 21.10.2003, str. 1, zpóên. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 40, str. 269, zpóên. zm.) wprzepisach Unii Europejskiej wydanych wtrybie tego rozporządzenia, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 29 1pkt 1, zuwzględnieniem art. 29 1a tej ustawy, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia wżycie.
+2. Przepisy wykonawcze wydane na podstawie art. 29 ust. 1 pkt 1 ustawy wymienionej w art. 3, dotyczące działań objętych programem, w których warunkiem przyznania pomocy jest spełnianie w ramach wzajemnej zgodności wymogów lub norm, o których mowa w rozporządzeniu Rady (WE) nr 1782/2003 z dnia 29 września 2003 r. ustanawiającego wspólne zasady dla systemów wsparcia beztemy wsparcia dla rolników oraz zmieniającego rozporządzenia (EWG) nr 2019/93, (WE) nr 1452/2001, (WE) nr 1453/2001, (WE) nr 1454/2001, (WE) nr 1868/94, (WE) nr 1251/1999, (WE) nr 1254/1999, (WE) nr 1673/2000, (EWG) nr 2358/71 i (WE) nr 2529/2001 (Dz. Urz. UE L 270 z 21.10.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 40, str. 269, z późn. zm.) oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 29 ust. 1 pkt 1, z uwzględnieniem art. 29 ust. 1a tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia w życie.
 
+**Art. 6.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5, który wchodzi w życie z dniem ogłoszenia.
 

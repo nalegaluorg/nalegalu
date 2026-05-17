@@ -1,0 +1,33 @@
+---
+title: "Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Malezji w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu oraz Protokół do tej umowy, podpisane w Kuala Lumpur dnia 8 lipca 2013 r."
+address: WDU20230000582
+eli: DU/2023/582
+publisher: DU
+year: 2023
+pos: 582
+act_type: Umowa międzynarodowa
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 marca 2023 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 582 |
+| ISAP | WDU20230000582 |
+| Typ aktu | Umowa międzynarodowa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2013-07-08 |
+| Data wydania | 2023-03-28 |
+| Ostatnia zmiana | 2026-01-07 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000582) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/582/text.pdf) |
+
+558822 UMOWA między Rządem Rzeczypospolitej Polskiej a Rządem Malezji w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu oraz Protokół do tej umowy, podpisane w Kuala Lumpur dnia 8 lipca 2013 r.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 8 lipca 2013 roku w Kuala Lumpur zostały podpisane Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Malezji w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu oraz Protokół do tej Umowy, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższą Umową i Protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: zostały one uznane za słuszne zarówno w całości, jak i każde z postanowień w nich zawartych, są przyjęte, ratyfikowane i potwierdzone, będą niezmiennie zachowywane.
+Na dowód czego wydany został Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
+Dano w Warszawie, dnia 13 września 2016 roku.
+Prezydent Rzeczypospolitej Polskiej: A. Duda L.S.
+

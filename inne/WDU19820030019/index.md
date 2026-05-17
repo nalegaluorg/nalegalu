@@ -8,6 +8,7 @@ pos: 19
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # Karta Nauczyciela Mając na względzie doniosłą rolę oświaty i wychowania w Rzeczypospolitej Polskiej, pragnąc dać wyraz szczególnej randze społecznej zawodu nauczyciela zgodnie z potrzebami i oczekiwaniami, otwierając niniejszą ustawą drogę do dalszych uregulowań prawnych systemu edukacji narodowej, stanowi się, co następuje:
@@ -23,7 +24,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1982-01-26 |
 | Data wydania | 1982-02-01 |
-| Ostatnia zmiana | 2026-04-23 |
+| Ostatnia zmiana | 2026-04-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820030019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1982/19/text.pdf) |
 
 #### Rozdział 1 Postanowienia wstępne

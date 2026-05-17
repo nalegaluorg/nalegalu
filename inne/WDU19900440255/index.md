@@ -8,9 +8,10 @@ pos: 255
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lipca 1990 r.
+# o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,21 +25,32 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900440255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/255/text.pdf) |
 
-Poz.: 255
-USTAWA z dnia 21 czerwca 1990 r.
-Nr 44 o zwrocie uzyskanych kosztem Skarbu lub innych osób prawnych.
-
 **Art. 1.**
 
-1. wskutek prawnej lub decy zji administracyjnej lub inne prawo na osoby prawne lub osoby fizyczne osoby te z Skarbu lub innych osób prawnych, sposób i wyrównania strat. a nawet o rozliczeniu stronami.
+1. Jeżeli wskutek czynności prawnej lub decyzji administracyjnej przenoszącej własność lub inne prawo majątkowe na niepaństwowe osoby prawne lub osoby fizyczne osoby te uzyskały niesłusznie korzyść majątku Skarbu Państwa lub innych państwowych osób prawnych, sąd może oznaczyć sposób i wysokość wyrównania strat, a nawet rozwiązać umowę rozstrzygając o rozliczeniu między stronami.
 
-2. ten, kto o której mowa w ust. 1, na rzecz osoby trzeciej pod darmym, wówczas do wydania jest ta osoba trzecia.
+2. Jeżeli ten, kto uzyskał korzyść, o której mowa w ust. 1, rozporządził tą korzyścią na rzecz osoby trzeciej pod tytułem darmym, wówczas obowiązana do wydania jest ta osoba trzecia.
 
-3. Przepis ust. 1 ma zastosowanie do i decyzji administracyjnych dokonanych po w ustawy z dnia 23 1987 r. o zmianie niektórych ustaw (Dz. U. Nr 33, poz. 181), a przed dniem zasady funkcjonowania gospodarki narodowej w niniejszej ustawy.
+3. Przepis ust. 1 ma zastosowanie do czynności i decyzji administracyjnych dokonanych po wejściu w życie ustawy dnia 23 października 1987 r. o zmianie niektórych ustaw regulujących zasady funkcjonowania gospodarki narodowej (Dz.U. Nr 33, poz. 181).
 
-**Art. 2.** Z przewidzianymi wart. 1 osoba prawna, która jej organ rada pracownicza lub organ terytorialnego wy do w terminie jednego roku od w niniejszej ustawy.
+**Art. 2.**
 
-**Art. 3.** Sprawy wart. 1 rozpoznaje woje wódzki ze na miejsce dokonania czynno prawnej lub (miejsce zamieszkania) pozwanego.
+1. Z żądaniami przewidzianymi w art. 1, może wystąpić do sądu:
 
-**Art. 4.** Ustawa wchodzi w po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski
+- **1)** osoba prawna, która poniosła stratę lub jej organ założycielski,
+- **2)** rada pracownicza,
+- **3)** związek zawodowy,
+- **4)** organ samorządu terytorialnego,
+- **5)** prokurator, <5a) Szef Centralnego Biura Antykorupcyjnego,>
+- **6)** w sprawach dotyczących sprzedaży budynków i lokali mieszkalnych:
+    - **a)** najemca, którego interes prawny został naruszony,
+    - **b)** organizacja społeczna reprezentująca tego najemcę.
+
+2. Do związków zawodowych i organów samorządu terytorialnego występujących do sądu żądaniami, o których mowa w art. 1 stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o prokuratorze.
+
+**Art. 3.** Sprawy określone w art. 1 rozpoznaje sąd wojewódzki właściwy ze względu na miejsce dokonania czynności prawnej lub siedzibę (miejsce zamieszkania) pozwanego.
+
+**Art. 3a.** (uchylony.)
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

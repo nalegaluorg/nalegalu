@@ -8,9 +8,10 @@ pos: 1130
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 czerwca 2019 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001130) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1130/text.pdf) |
 
-Poz. 1130 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 czerwca 2019 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 maja 2001 r. o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. Nr 67, poz. 677), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. Nr 79, poz. 664),
 2) ustawą z dnia 15 stycznia 2015 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. poz. 300),

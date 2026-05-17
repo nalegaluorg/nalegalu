@@ -8,9 +8,12 @@ pos: 166
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lutego 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/166/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334), z uwzględnieniem zmian wprowadzonych ustawą z dnia 24 kwietnia 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 lutego 2026 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 23 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619), który stanowi: „Art. 23. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”.
 Marszałek Sejmu: W. Czarzasty
@@ -46,7 +47,7 @@ Art. 59–85. (pominięte)
 - **3)** członków rodzin obywateli polskich lub obywateli państw członkowskich, rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164 i 1794),
 - **4)** obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794),
 - **5)** cudzoziemców posiadających status uchodźcy lub objętych ochroną uzupełniającą,
-- **6)** cudzoziemców, którzy przybywają na terytorium Rzeczypospolitej Polskiej lub przebywają na tym terytorium celu połączenia się z rodziną i są członkami rodziny cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej związku z nadaniem mu statusu uchodźcy lub udzieleniem mu ochrony uzupełniającej, pracy zawodzie wymagającym wysokich kwalifikacji lub celu mobilności długoterminowej posiadacza Niebieskiej Karty UE, rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+- **6)** cudzoziemców, którzy przybywają na terytorium Rzeczypospolitej Polskiej lub przebywają na tym terytorium celu połączenia się z rodziną i są członkami rodziny cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej związku z nadaniem mu statusu uchodźcy lub udzieleniem mu ochrony uzupełniającej, skiej Karty UE, rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
 - **8)** obywateli państw trzecich, którzy zostali przyjęci na terytorium Rzeczypospolitej Polskiej celach innych niż wykonywanie pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym i mają prawo do wykonywania pracy oraz posiadają dokument pobytowy wydany zgodnie z rozporządzeniem Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającym jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm.), oraz obywateli państw trzecich, którzy zostali przyjęci na terytorium Rzeczypospolitej Polskiej celu wykonywania pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym,
 - **9)** obywateli państw trzecich posiadających zezwolenie na pobyt czasowy udzielone związku z okolicznością, o której mowa art. 151 ust. 1, art. 151b ust. 1, art. 157a ust. 1 lub art. 157g ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
 - **10)** obywateli państw trzecich posiadających wizę krajową celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się szkole doktorskiej, z adnotacją „student”, wizę krajową celu prowadzenia badań naukowych lub prac rozwojowych, wizę krajową celu odbycia stażu lub wizę krajową celu udziału programie wolontariatu europejskiego,
@@ -81,7 +82,7 @@ Art. 59–85. (pominięte)
 
 **Art. 10.**
 
-1. Upoważniony organ, na wniosek osoby wykonującej działalność Rzeczypospolitej Polskiej, zamierzającej wykonywać tę działalność państwie członkowskim, którym jest ona regulowana, wydaje zaświadczenie stwierdzające charakter, okres i rodzaj działalności wykonywanej przez tę osobę Rzeczypospolitej Polskiej oraz zawierające informacje o doświadczeniu zawodowym nabytym podczas wykonywania tej działalności na własny rachunek oraz podczas zatrudnienia przy jej wykonywaniu, tym charakterze kierownika przedsiębiorstwa. organ, właściwy dla miejsca zamieszkania osoby składającej wniosek, a przypadku braku miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej właściwy ze względu na ostatnie miejsce wykonywania działalności albo zatrudnienia przy jej wykonywaniu, tym charakterze kierownika przedsiębiorstwa.
+1. Upoważniony organ, na wniosek osoby wykonującej działalność Rzeczypospolitej Polskiej, zamierzającej wykonywać tę działalność państwie członkowskim, którym jest ona regulowana, wydaje zaświadczenie stwierdzające charakter, okres i rodzaj działalności wykonywanej przez tę osobę Rzeczypospolitej Polskiej oraz zawierające informacje o doświadczeniu zawodowym nabytym podczas wykonywania tej działalności na własny rachunek oraz podczas zatrudnienia przy jej wykonywaniu, tym charakterze kierownika przedsiębiorstwa. torium Rzeczypospolitej Polskiej właściwy ze względu na ostatnie miejsce wykonywania działalności albo zatrudnienia przy jej wykonywaniu, tym charakterze kierownika przedsiębiorstwa.
 
 3. Za wydanie zaświadczenia pobiera się opłatę wysokości 3 % minimalnego wynagrodzenia za pracę ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, obowiązującego roku wydania zaświadczenia. Opłatę wnosi się na rachunek bankowy organu wydającego zaświadczenie.
 
@@ -212,7 +213,7 @@ Art. 59–85. (pominięte)
 1. Właściwy organ, z zachowaniem proporcjonalności, może uzależnić, drodze postanowienia, wydanie decyzji sprawie uznania kwalifikacji od odbycia przez wnioskodawcę stażu adaptacyjnego lub przystąpienia przez niego do testu umiejętności, przypadku gdy:
 
 - **1)** zakres kształcenia lub szkolenia odbytego przez wnioskodawcę obejmuje istotnie różniący się materiał lub
-- **2)** na zawód regulowany Rzeczypospolitej Polskiej składa się co najmniej jedna czynność zawodowa, która nie wchodzi zakres odpowiadającego mu zawodu państwie wnioskodawcy, a kształcenie lub szkolenie wymagane Rzeczypospolitej Polskiej obejmuje istotnie różniący się materiał od materiału objętego kształceniem lub szkoleniem, którego ukończenie potwierdza dokument potwierdzający posiadanie formalnych kwalifikacji wnioskodawcy. danych państwie członkowskim lub państwie niebędącym państwem członkowskim, czy wiedza, umiejętności i kompetencje nabyte przez wnioskodawcę:
+- **2)** na zawód regulowany Rzeczypospolitej Polskiej składa się co najmniej jedna czynność zawodowa, która nie wchodzi zakres odpowiadającego mu zawodu państwie wnioskodawcy, a kształcenie lub szkolenie wymagane Rzeczypospolitej Polskiej obejmuje istotnie różniący się materiał od materiału objętego kształceniem lub szkoleniem, którego ukończenie potwierdza dokument potwierdzający posiadanie formalnych kwalifikacji wnioskodawcy. petencje nabyte przez wnioskodawcę:
 - **1)** podczas zdobywania doświadczenia zawodowego lub
 - **2)** przez potwierdzone efekty uczenia się rozumieniu przepisów o szkolnictwie wyższym i nauce, lub
 - **3)** przez potwierdzone efekty kształcenia rozumieniu przepisów o systemie oświaty wyrównują całości albo części istotnie różniący się materiał.
@@ -252,7 +253,7 @@ Art. 59–85. (pominięte)
 4. Wyłączenie uprawnienia do dokonania wyboru między odbyciem stażu adaptacyjnego a przystąpieniem do testu umiejętności wymaga uzasadnienia faktycznego i prawnego, a szczególności:
 
 - **1)** wskazania wymaganego poziomu kwalifikacji zawodowych oraz poziomu kwalifikacji zawodowych posiadanego przez wnioskodawcę;
-- **2)** wskazania zakresu istotnie różniącego się materiału, z uwzględnieniem stopnia wyrównania tego materiału sposób określony art. 20 ust. 1a. rych mowa ust. 2 pkt 1 lit. a, a także określi dla każdego z nich obowiązek odbycia stażu adaptacyjnego albo przystąpienia do testu umiejętności, mając na uwadze konieczność zapewnienia znajomości prawa polskiego na poziomie gwarantującym właściwą ochronę interesów korzystających z porad i pomocy prawnej świadczonych przez osoby, które ubiegają się o uznanie kwalifikacji zawodowych do wykonywania tych zawodów.
+- **2)** wskazania zakresu istotnie różniącego się materiału, z uwzględnieniem stopnia wyrównania tego materiału sposób określony art. 20 ust. 1a. do testu umiejętności, mając na uwadze konieczność zapewnienia znajomości prawa polskiego na poziomie gwarantującym właściwą ochronę interesów korzystających z porad i pomocy prawnej świadczonych przez osoby, które ubiegają się o uznanie kwalifikacji zawodowych do wykonywania tych zawodów.
 
 6. Prezes Rady Ministrów ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wykaz zawodów, o których mowa ust. 2 pkt 1 lit. b.
 
@@ -381,7 +382,7 @@ Art. 59–85. (pominięte)
 - **4)** dokumentu potwierdzającego wykonywanie przez usługodawcę danego zawodu albo danej działalności przez co najmniej rok okresie ostatnich dziesięciu lat albo ukończenie kształcenia regulowanego, przypadku, o którym mowa art. 31 ust. 1 pkt 2;
 - **5)** zaświadczenia o braku zawieszenia prawa wykonywania działalności lub o niekaralności, jeżeli jest wymagane od obywateli polskich zamierzających wykonywać zawód regulowany albo działalność regulowaną związane z bezpieczeństwem publicznym, służbą zdrowia albo edukacją osób małoletnich, tym opieką nad dziećmi i wczesną edukacją;
 - **6)** oświadczenia potwierdzającego znajomość języka polskiego stopniu niezbędnym do wykonywania zawodu regulowanego przypadku zawodów mających wpływ na bezpieczeństwo pacjentów;
-- **7)** zaświadczenia określającego charakter, okres i rodzaj wykonywanej działalności, wydanego przez państwo usługodawcy przypadku działalności związanych ze zdrowiem lub bezpieczeństwem publicznym. przypadku istotnej zmiany stanu potwierdzonego tymi dokumentami.
+- **7)** zaświadczenia określającego charakter, okres i rodzaj wykonywanej działalności, wydanego przez państwo usługodawcy przypadku działalności związanych ze zdrowiem lub bezpieczeństwem publicznym.
 
 6. Dokumenty, o których mowa ust. 4 pkt 2–5 i 7, składa się języku polskim albo innym języku wraz z tłumaczeniem na język polski sporządzonym przez tłumacza przysięgłego prowadzącego działalność Rzeczypospolitej Polskiej lub państwie członkowskim.
 
@@ -421,7 +422,7 @@ Art. 59–85. (pominięte)
 
 **Art. 36.**
 
-1. W przypadku uzasadnionych wątpliwości właściwy organ może wystąpić do właściwych organów państwa usługodawcy o potwierdzenie, że usługodawca wykonuje zawód regulowany albo działalność regulowaną zgodnie z prawem i z dołożeniem należytej staranności oraz że nie zostały na niego nałożone kary dyscyplinarne lub nie został skazany prawomocnym wyrokiem sądu związku z wykonywaniem zawodu regulowanego albo działalności regulowanej. wych organów lub do ośrodka wsparcia państwie usługodawcy o przekazanie informacji dotyczących kształcenia lub szkolenia ukończonego przez usługodawcę, zakresie niezbędnym do oceny, czy różnice wykazane istotnie różniącym się materiale mogą być szkodliwe dla zdrowia lub bezpieczeństwa publicznego.
+1. W przypadku uzasadnionych wątpliwości właściwy organ może wystąpić do właściwych organów państwa usługodawcy o potwierdzenie, że usługodawca wykonuje zawód regulowany albo działalność regulowaną zgodnie z prawem i z dołożeniem należytej staranności oraz że nie zostały na niego nałożone kary dyscyplinarne lub nie został skazany prawomocnym wyrokiem sądu związku z wykonywaniem zawodu regulowanego albo działalności regulowanej. szkolenia ukończonego przez usługodawcę, zakresie niezbędnym do oceny, czy różnice wykazane istotnie różniącym się materiale mogą być szkodliwe dla zdrowia lub bezpieczeństwa publicznego.
 
 3. Właściwy organ:
 
@@ -479,8 +480,8 @@ Art. 59–85. (pominięte)
 - **2)** pięciu tygodni od dnia otrzymania wniosku o wydanie europejskiej legitymacji zawodowej albo miesiąca od dnia otrzymania brakujących dokumentów:
     - **a)** weryfikuje ważność i autentyczność dokumentów dołączonych do wniosku o wydanie europejskiej legitymacji zawodowej,
     - **b)** może dołączyć do wniosku o wydanie europejskiej legitymacji zawodowej wydane przez ten organ albo tę instytucję dokumenty potwierdzające posiadanie przez wnioskodawcę kwalifikacji zawodowych,
-    - **c)** zatwierdza dokumenty dołączone do wniosku o wydanie europejskiej legitymacji zawodowej, zawodowej wraz z zatwierdzonymi dokumentami,
-    - **e)** informuje wnioskodawcę o przekazaniu do wskazanego państwa członkowskiego wniosku o wydanie europejskiej legitymacji zawodowej;
+    - **c)** zatwierdza dokumenty dołączone do wniosku o wydanie europejskiej legitymacji zawodowej,
+    - **d)** przekazuje systemie IMI do wskazanego państwa członkowskiego wniosek o wydanie europejskiej legitymacji zawodowej wraz z zatwierdzonymi dokumentami,
 
 - **3)** dwóch tygodni od dnia otrzymania systemie IMI zapytania państwa członkowskiego wskazanego we wniosku o wydanie europejskiej legitymacji zawodowej udziela dodatkowych informacji lub przekazuje poświadczone kopie dokumentów potrzebnych do wydania europejskiej legitymacji zawodowej.
 
@@ -516,8 +517,10 @@ Art. 59–85. (pominięte)
 1. Właściwy organ wydaje europejską legitymację zawodową:
 
 - **1)** osobie zamierzającej wykonywać Rzeczypospolitej Polskiej zawód regulowany albo podjąć lub wykonywać działalność regulowaną;
-- **2)** usługodawcy zamierzającemu świadczyć na terytorium Rzeczypospolitej Polskiej usługę transgraniczną zawodach regulowanych albo działalnościach regulowanych, o których mowa przepisach wydanych na podstawie art. 34 ust. 8. dowej wraz ze zweryfikowanymi i zatwierdzonymi dokumentami dołączonymi do tego wniosku:
-- **1)** wydaje legitymację osobie, o której mowa ust. 1 pkt 1, albo usługodawcy, o którym mowa ust. 1 pkt 2;
+- **2)** usługodawcy zamierzającemu świadczyć na terytorium Rzeczypospolitej Polskiej usługę transgraniczną zawodach regulowanych albo działalnościach regulowanych, o których mowa przepisach wydanych na podstawie art. 34 ust. 8.
+
+2. Właściwy organ, terminie dwóch miesięcy od dnia otrzymania wniosku o wydanie europejskiej legitymacji zawodowej wraz ze zweryfikowanymi i zatwierdzonymi dokumentami dołączonymi do tego wniosku:
+
 - **2)** może zobowiązać:
     - **a)** osobę, o której mowa ust. 1 pkt 1, do odbycia stażu adaptacyjnego lub przystąpienia do testu umiejętności, zgodnie z art. 20 ust. 1,
     - **b)** usługodawcę, o którym mowa ust. 1 pkt 2, do przystąpienia do testu umiejętności, zgodnie z art. 34 ust. 2 pkt 3.
@@ -551,8 +554,9 @@ Art. 59–85. (pominięte)
 - **1)** dokonują aktualizacji zawartych systemie IMI informacji o:
     - **a)** osobach, o których mowa art. 42 ust. 1 pkt 1,
     - **b)** usługodawcach, o których mowa art. 42 ust. 1 pkt 2 dla których wydały europejską legitymację zawodową;
-    - **a)** osób, o których mowa art. 42 ust. 1 pkt 1,
-    - **b)** usługodawców, o których mowa art. 42 ust. 1 pkt 2 dla których wydały europejską legitymację zawodową.
+
+- **2)** usuwają z systemu IMI informacje, które nie są już wymagane, dotyczące:
+    - **a)** osób, o których mowa art. 42 ust. 1 pkt 1, dla których wydały europejską legitymację zawodową.
 
 2. Aktualizacja, o której mowa ust. 1 pkt 1, dotyczy prawomocnie zakończonych postępowań dyscyplinarnych lub karnych prowadzonych przeciwko posiadaczom europejskiej legitymacji zawodowej, o których mowa ust. 1 pkt 1, które wiążą się z zakazem lub ograniczeniem prawa wykonywania zawodu regulowanego lub działalności regulowanej albo inny sposób wpływają na wykonywanie czynności zawodowych, i obejmuje następujące informacje:
 
@@ -597,8 +601,8 @@ Art. 59–85. (pominięte)
 
 3. Przeprowadzając ocenę, o której mowa ust. 1, bierze się pod uwagę:
 
-- **1)** ryzyko dla celu służącego interesowi publicznemu związane z brakiem regulacji przewidzianej przepisami regulacyjnymi, szczególności ryzyko ponoszone przez usługobiorców, tym konsumentów, osoby wykonujące zawody regulowane lub osoby trzecie; bezpieczeństwa produktów lub prawa ochrony konsumentów;
-- **3)** czy projektowane przepisy regulacyjne są adekwatne do założonego celu oraz czy przewidują spójny i systematyczny sposób osiągnięcia tego celu, oraz czy przewidują podjęcie działań mających na celu wyeliminowanie zidentyfikowanych rodzajów ryzyka podobny sposób jak przypadku porównywalnych czynności;
+- **1)** ryzyko dla celu służącego interesowi publicznemu związane z brakiem regulacji przewidzianej przepisami regulacyjnymi, szczególności ryzyko ponoszone przez usługobiorców, tym konsumentów, osoby wykonujące zawody regulowane lub osoby trzecie;
+- **2)** możliwość osiągnięcia założonego celu na podstawie obowiązujących przepisów, szczególności przepisów z zakresu bezpieczeństwa produktów lub prawa ochrony konsumentów; nych rodzajów ryzyka podobny sposób jak przypadku porównywalnych czynności;
 - **4)** wpływ przepisów regulacyjnych na:
     - **a)** swobodny przepływ osób i usług Unii Europejskiej,
     - **b)** wybór konsumentów i jakość świadczonych usług;
@@ -628,7 +632,7 @@ Art. 59–85. (pominięte)
 - **1)** związek między zakresem czynności zawodowych lub czynności zastrzeżonych a wymaganymi kwalifikacjami zawodowymi określonymi przepisach regulacyjnych;
 - **2)** związek między złożonością czynności zawodowych a wymaganymi kwalifikacjami zawodowymi, uwzględniając szczególności poziom, charakter i minimalny okres kształcenia lub szkolenia niezbędnego do uzyskania tych kwalifikacji lub wymagane doświadczenie;
 - **3)** możliwość uzyskania kwalifikacji zawodowych niezbędnych do wykonywania zawodu regulowanego alternatywny sposób do przewidzianego projektowanych przepisach regulacyjnych;
-- **5)** stopień autonomii wykonywaniu zawodu regulowanego oraz jego organizację i nadzór nad nim, szczególności gdy czynności zawodowe są wykonywane pod kontrolą należycie wykwalifikowanej osoby wykonującej ten lub inny zawód regulowany, na której spoczywa odpowiedzialność tym zakresie;
+- **4)** możliwość wykonywania czynności zastrzeżonych dla danego zawodu regulowanego ramach innego zawodu; gdy czynności zawodowe są wykonywane pod kontrolą należycie wykwalifikowanej osoby wykonującej ten lub inny zawód regulowany, na której spoczywa odpowiedzialność tym zakresie;
 - **6)** postęp naukowy i technologiczny prowadzący do zmian zakresie dostępności informacji, tym zakresie przepływu informacji między osobą wykonującą zawód regulowany a konsumentem.
 
 **Art. 50c.**
@@ -696,7 +700,7 @@ Art. 59–85. (pominięte)
 
 2. Prezes Rady Ministrów określi, drodze rozporządzenia, sposób i terminy przekazywania informacji, o których mowa ust. 1, oraz zakres informacji, o których mowa ust. 1 pkt 2 i 3, kierując się zobowiązaniami Rzeczypospolitej Polskiej wobec państw członkowskich i instytucji Unii Europejskiej wynikającymi z art. 59 i art. 60 dyrektywy oraz art. 11 dyrektywy 2018/958.
 
-3. Minister kierujący działem administracji rządowej właściwy sprawach uznawania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo podejmowania lub wykonywania działalności regulowanej należących do danego działu przekazuje koordynatorowi informacje o właściwych organach, o których mowa art. 6 ust. 1 pkt 2 i 3, zakresie należącym do tego działu, a także o każdej zmianie tym zakresie, terminie 7 dni od dnia ustanowienia tych właściwych organów. wych do wykonywania zawodu regulowanego albo podejmowania lub wykonywania działalności regulowanej należących do danego działu monitoruje zgodność przepisów regulacyjnych dotyczących zawodów regulowanych lub działalności regulowanych należących do tego działu z zasadami proporcjonalności, uzasadnionego i niedyskryminującego charakteru, uwzględniając zmiany, które nastąpiły od czasu ich przyjęcia, i skutki tych przepisów. Przepisy art. 50b–50d stosuje się odpowiednio.
+3. Minister kierujący działem administracji rządowej właściwy sprawach uznawania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo podejmowania lub wykonywania działalności regulowanej należących do danego działu przekazuje koordynatorowi informacje o właściwych organach, o których mowa art. 6 ust. 1 pkt 2 i 3, zakresie należącym do tego działu, a także o każdej zmianie tym zakresie, terminie 7 dni od dnia ustanowienia tych właściwych organów. danego działu monitoruje zgodność przepisów regulacyjnych dotyczących zawodów regulowanych lub działalności regulowanych należących do tego działu z zasadami proporcjonalności, uzasadnionego i niedyskryminującego charakteru, uwzględniając zmiany, które nastąpiły od czasu ich przyjęcia, i skutki tych przepisów. Przepisy art. 50b–50d stosuje się odpowiednio.
 
 2. Wynik monitorowania, o którym mowa ust. 1, przekazuje się koordynatorowi, formie sprawozdania, co 2 lata, terminie do dnia 31 marca, a przypadku stwierdzenia niezgodności tych przepisów regulacyjnych z zasadami proporcjonalności, uzasadnionego i niedyskryminującego charakteru niezwłocznie.
 

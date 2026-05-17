@@ -8,9 +8,12 @@ pos: 1475
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 sierpnia 2017 r.
+# o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 oraz niektórych innych ustaw
+
+*USTAWA z dnia 7 lipca 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1475/text.pdf) |
 
-USTAWA z dnia 7 lipca 2017 r.
-o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460) wprowadza się następujące zmiany:
 
 **Art. 29a.**
@@ -35,8 +35,8 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 
 2. Dysponentem środków finansowych, o których mowa ust. 1, jest:
 
-- **1)** minister właściwy do spraw rozwoju regionalnego odniesieniu do środków pochodzących z krajowego programu operacyjnego;
-- **2)** zarząd województwa odniesieniu do środków pochodzących z regionalnego programu operacyjnego.
+- **1)** minister właściwy do spraw rozwoju regionalnego – odniesieniu do środków pochodzących z krajowego programu operacyjnego;
+- **2)** zarząd województwa – odniesieniu do środków pochodzących z regionalnego programu operacyjnego.
 
 3. Środki finansowe, o których mowa ust. 1, są ponownie wykorzystywane zgodnie z art. 66 akapit drugi rozporządzenia ogólnego formie wsparcia finansowego niestanowiącego dotacji, podlegającego całkowitemu albo częściowemu zwrotowi, przyznawanego szczególności formie pożyczek, gwarancji lub poręczeń przez:
 
@@ -54,65 +54,63 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 - **2)** okres realizacji umowy lub porozumienia;
 - **3)** mechanizmy zapewniające efektywność wykorzystania środków finansowych, o których mowa ust. 1;
 - **4)** warunki wycofania środków finansowych, o których mowa ust. 1;
+- **5)** koszty zarządzania środkami finansowymi, o których mowa ust. 1, i opłaty za zarządzanie tymi środkami finansowymi;
 - **6)** obowiązki sprawozdawcze wobec dysponenta zakresie wskazanym art. 37a ust. 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
 
 7. W celu ponownego wykorzystania środków finansowych, o których mowa ust. 1, przypadkach określonych ust. 3 pkt 1 i 3, dysponent otwiera Banku Gospodarstwa Krajowego rachunek do obsługi tych środków.
 
 8. W celu ponownego wykorzystania środków finansowych, o których mowa ust. 1, przypadku określonym ust. 3 pkt 2, środki te są przechowywane na oddzielnym rachunku podmiotu pełniącego funkcję właściwej instytucji albo wydzielane za pomocą kodów księgowych.
 
-9. Obsługa finansowa rachunku, o którym mowa ust. 7, jest prowadzona przez Bank Gospodarstwa Krajowego zgodnie z umową zawartą między dysponentem a Bankiem Gospodarstwa Krajowego.
-
 10. Środki finansowe zgromadzone na rachunku, o którym mowa ust. 7, są uruchamiane przez Bank Gospodarstwa Krajowego na wniosek dysponenta celu ich ponownego wykorzystania zgodnie z ust. 3.”;
 
 - **15)** art. 30 ust. 8 pkt 4 otrzymuje brzmienie: „4) wstępną listę projektów wybieranych trybie pozakonkursowym wraz z informacją na temat sposobu ich wskazania oraz powiązania z innymi projektami, tym projektami wybieranymi trybie pozakonkursowym pozytywnie zaopiniowanymi przez właściwą instytucję zarządzającą krajowym programem operacyjnym;”;
 - **16)** art. 33:
-    - **a)** ust. 2 we wprowadzeniu do wyliczenia zdanie pierwsze otrzymuje brzmienie: „Podmiot, o którym mowa art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm. ), inicjujący projekt partnerski, dokonuje wyboru partnerów spośród podmiotów innych niż wymienione art. 3 ust. 1 pkt 1–3a tej ustawy, z zachowaniem zasady przejrzystości i równego traktowania.”,
+    - **a)** ust. 2 we wprowadzeniu do wyliczenia zdanie pierwsze otrzymuje brzmienie: „Podmiot, o którym mowa art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm. ), inicjujący projekt partnerski, dokonuje wyboru partnerów spośród podmiotów innych niż wymienione art. 3 ust. 1 pkt 1–3a tej ustawy, z zachowaniem zasady przejrzystości i równego traktowania.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Wybór partnerów jest dokonywany przed złożeniem wniosku o dofinansowanie.”,
     - **c)** po ust. 3 dodaje się ust. 3a brzmieniu: „3a. W przypadkach uzasadnionych koniecznością zapewnienia prawidłowej i terminowej realizacji projektu, za zgodą właściwej instytucji, może nastąpić zmiana partnera. Do zmiany partnera przepis ust. 2 stosuje się odpowiednio.”,
-    - **d)** po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Podmiot, o którym mowa art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych, niebędący podmiotem inicjującym projekt partnerski, po przystąpieniu do realizacji projektu partnerskiego podaje do publicznej wiadomości Biuletynie Informacji Publicznej informację o rozpoczęciu realizacji projektu partnerskiego wraz z uzasadnieniem przyczyn przystąpienia do jego realizacji oraz wskazaniem partnera wiodącego tym projekcie.”,
+    - **d)** po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Podmiot, o którym mowa art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, niebędący podmiotem inicjującym projekt partnerski, po przystąpieniu do realizacji projektu partnerskiego podaje do publicznej wiadomości Biuletynie Informacji Publicznej informację o rozpoczęciu realizacji projektu partnerskiego wraz z uzasadnieniem przyczyn przystąpienia do jego realizacji oraz wskazaniem partnera wiodącego tym projekcie.”,
     - **e)** uchyla się ust. 6,
     - **f)** ust. 8 otrzymuje brzmienie: „8. Przepisów ust. 1–5 i 7 nie stosuje się do projektu hybrydowego, o którym mowa art. 34 ust. 1, ani przypadku, gdy odrębne przepisy przewidują inny sposób określania podmiotów wspólnie realizujących projekt.”;
 
 - **17)** art. 37:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Projekt podlega ocenie pod względem spełnienia kryteriów wyboru projektów.”, „3a. Właściwa instytucja może wymagać złożenia przez wnioskodawcę oświadczeń niezbędnych do:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Projekt podlega ocenie pod względem spełnienia kryteriów wyboru projektów.”,
+    - **b)** po ust. 3 dodaje się ust. 3a brzmieniu: „3a. Właściwa instytucja może wymagać złożenia przez wnioskodawcę oświadczeń niezbędnych do:
 
 - **1)** przeprowadzenia wyboru projektów do dofinansowania lub
-- **2)** zawarcia umowy o dofinansowanie projektu lub podjęcia decyzji o dofinansowaniu projektu.”, z 2016 r. poz. 1764 oraz z 2017 r. poz. 933).”,
+- **2)** zawarcia umowy o dofinansowanie projektu lub podjęcia decyzji o dofinansowaniu projektu.”, z 2016 r. poz. 1764 oraz z 2017 r. poz. 933).”, „7. Dokumenty i informacje wytworzone lub przygotowane przez właściwe instytucje związku z oceną dokumentów i informacji przedstawianych przez wnioskodawców nie podlegają, do czasu rozstrzygnięcia konkursu albo zamieszczenia informacji, o której mowa art. 48 ust. 6, udostępnieniu trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej.”;
     - **c)** ust. 4 otrzymuje brzmienie: „4. Oświadczenia są składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, z wyjątkiem oświadczenia, o którym mowa art. 41 ust. 2 pkt 7c. Oświadczenia zawierają klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywych oświadczeń.”. Klauzula ta zastępuje pouczenie właściwej instytucji o odpowiedzialności karnej za składanie fałszywych zeznań.”,
     - **d)** ust. 6 otrzymuje brzmienie: „6. Dokumenty i informacje przedstawiane przez wnioskodawców nie podlegają udostępnieniu przez właściwą instytucję trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U.
-    - **e)** dodaje się ust. 7 brzmieniu: „7. Dokumenty i informacje wytworzone lub przygotowane przez właściwe instytucje związku z oceną dokumentów i informacji przedstawianych przez wnioskodawców nie podlegają, do czasu rozstrzygnięcia konkursu albo zamieszczenia informacji, o której mowa art. 48 ust. 6, udostępnieniu trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej.”;
 
 - **18)** art. 38:
-    - **a)** ust. 1 pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 brzmieniu: „3) o którym mowa art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych.”,
-    - **b)** po ust. 3 dodaje się ust. 3a i 3b brzmieniu: „3a. W trybie, o którym mowa art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych, mogą być wybierane wyłącznie projekty realizowane ramach instrumentów finansowych, o których mowa art. 28 ust. 1.
+    - **a)** ust. 1 pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 brzmieniu: „3) o którym mowa art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.”,
+    - **b)** po ust. 3 dodaje się ust. 3a i 3b brzmieniu: „3a. W trybie, o którym mowa art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, mogą być wybierane wyłącznie projekty realizowane ramach instrumentów finansowych, o których mowa art. 28 ust. 1.
 
-3b. Projekty realizowane ramach instrumentów finansowych, o których mowa art. 28 ust. 1, mogą być wybierane wyłącznie trybie, o którym mowa ust. 1 pkt 2 albo art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych.”;
+3b. Projekty realizowane ramach instrumentów finansowych, o których mowa art. 28 ust. 1, mogą być wybierane wyłącznie trybie, o którym mowa ust. 1 pkt 2 albo art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.”;
 
 - **19)** art. 39 dodaje się ust. 3 brzmieniu: „3. Konkurs może być podzielony na rundy. Runda konkursu obejmuje nabór projektów, ocenę spełniania kryteriów wyboru projektów i rozstrzygnięcie właściwej instytucji zakresie wyboru projektów do dofinansowania.”;
 - **20)** art. 40 ust. 2 pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 brzmieniu: „7) informację, czy konkurs jest podzielony na rundy.”;
 - **21)** art. 41 ust. 2:
     - **a)** pkt 3 i 4 otrzymują brzmienie: „3) formę konkursu, tym wskazuje, czy konkurs jest podzielony na rundy;
 
-- **4)** termin, miejsce i formę składania wniosków o dofinansowanie projektu i sposób uzupełniania nich braków zakresie warunków formalnych oraz poprawiania nich oczywistych omyłek;”, jekt kryteriów wyboru projektów, a także informację o skutkach niezachowania wskazanej formy komunikacji;
+- **4)** termin, miejsce i formę składania wniosków o dofinansowanie projektu i sposób uzupełniania nich braków zakresie warunków formalnych oraz poprawiania nich oczywistych omyłek;”,
     - **b)** pkt 6 otrzymuje brzmienie: „6) wzór umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu;”,
     - **c)** po pkt 6 dodaje się pkt 6a brzmieniu: „6a) czynności, które powinny zostać dokonane przed zawarciem umowy o dofinansowanie projektu lub podjęciem decyzji o dofinansowaniu projektu, oraz wymagane dokumenty i terminy ich przedłożenia właściwej instytucji;”,
     - **d)** po pkt 7 dodaje się pkt 7a–7c brzmieniu: „7a) zakres, jakim jest możliwe uzupełnianie lub poprawianie projektu części dotyczącej spełniania przez projekt kryteriów wyboru projektów trakcie jego oceny;
 
-- **7c)** formę złożenia przez wnioskodawcę oświadczenia dotyczącego świadomości skutków niezachowania wskazanej formy komunikacji;”,
+- **7b)** formę i sposób komunikacji między wnioskodawcą a właściwą instytucją, tym wzywania wnioskodawcy do uzupełniania lub poprawiania projektu trakcie jego oceny części dotyczącej spełniania przez projekt kryteriów wyboru projektów, a także informację o skutkach niezachowania wskazanej formy komunikacji;
+- **7c)** formę złożenia przez wnioskodawcę oświadczenia dotyczącego świadomości skutków niezachowania wskazanej formy komunikacji;”, „Art. 43. 1. W razie stwierdzenia braków zakresie warunków formalnych we wniosku o dofinansowanie projektu właściwa instytucja wzywa wnioskodawcę do uzupełnienia wniosku wyznaczonym terminie, nie krótszym niż 7 dni i nie dłuższym niż 21 dni, pod rygorem pozostawienia wniosku bez rozpatrzenia.
     - **e)** pkt 8 otrzymuje brzmienie: „8) kwotę przeznaczoną na dofinansowanie projektów konkursie wraz z informacją zakresie możliwości jej zwiększenia;”,
     - **f)** pkt 10 otrzymuje brzmienie: „10) środki odwoławcze przysługujące wnioskodawcy oraz instytucje właściwe do ich rozpatrzenia;”,
     - **g)** pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 brzmieniu: „13) informację zakresie możliwości skrócenia terminu składania wniosków o dofinansowanie projektu.”;
-
-- **22)** art. 43–46 otrzymują brzmienie: „Art. 43. 1. W razie stwierdzenia braków zakresie warunków formalnych we wniosku o dofinansowanie projektu właściwa instytucja wzywa wnioskodawcę do uzupełnienia wniosku wyznaczonym terminie, nie krótszym niż 7 dni i nie dłuższym niż 21 dni, pod rygorem pozostawienia wniosku bez rozpatrzenia.
 
 2. W razie stwierdzenia oczywistej omyłki we wniosku o dofinansowanie projektu właściwa instytucja poprawia tę omyłkę z urzędu, informując o tym wnioskodawcę, albo wzywa wnioskodawcę do poprawienia oczywistej omyłki wyznaczonym terminie, nie krótszym niż 7 dni i nie dłuższym niż 21 dni, pod rygorem pozostawienia wniosku bez rozpatrzenia.
 
 3. Terminy określone wezwaniach, o których mowa ust. 1 i 2:
 
-- **1)** przypadku wezwania przekazanego drogą elektroniczną liczy się od dnia następującego po dniu wysłania wezwania;
-- **2)** przypadku wezwania przekazanego na piśmie liczy się od dnia doręczenia wezwania.
+- **1)** przypadku wezwania przekazanego drogą elektroniczną – liczy się od dnia następującego po dniu wysłania wezwania;
+- **2)** przypadku wezwania przekazanego na piśmie – liczy się od dnia doręczenia wezwania.
 
-4. W przypadku wezwania przekazanego na piśmie do doręczenia wezwania stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. W przypadku wezwania przekazanego na piśmie do doręczenia wezwania stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 5. W razie złożenia wniosku o dofinansowanie projektu po terminie wskazanym ogłoszeniu o konkursie wniosek pozostawia się bez rozpatrzenia.
 
@@ -141,15 +139,16 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 
 1. Ocena spełnienia kryteriów wyboru projektów może być podzielona na etapy.
 
+2. Po każdym etapie oceny właściwa instytucja zamieszcza na swojej stronie internetowej listę projektów zakwalifikowanych do kolejnego etapu albo listę, o której mowa art. 46 ust. 3.
+
 3. W trakcie oceny spełnienia kryteriów wyboru projektów, na wezwanie właściwej instytucji, wnioskodawca może uzupełnić lub poprawić projekt części dotyczącej spełniania kryteriów wyboru projektów zakresie określonym regulaminie konkursu, jeżeli zostało to przewidziane przypadku danego kryterium. Uzupełnienia lub poprawienia projektu może dokonać, za zgodą wnioskodawcy, komisja oceny projektów. Właściwa instytucja trakcie uzupełniania lub poprawiania projektu zapewnia równe traktowanie wnioskodawców.
 
-4. Właściwa instytucja przekazuje niezwłocznie wnioskodawcy pisemną informację o zakończeniu oceny jego projektu i jej wyniku wraz z uzasadnieniem tej oceny, podając liczbę punktów otrzymanych przez projekt lub informację o spełnieniu albo niespełnieniu kryteriów wyboru projektów. Do doręczenia informacji o zakończeniu oceny projektu i jej wyniku stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. Właściwa instytucja przekazuje niezwłocznie wnioskodawcy pisemną informację o zakończeniu oceny jego projektu i jej wyniku wraz z uzasadnieniem tej oceny, podając liczbę punktów otrzymanych przez projekt lub informację o spełnieniu albo niespełnieniu kryteriów wyboru projektów. Do doręczenia informacji o zakończeniu oceny projektu i jej wyniku stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 5. Jeżeli projekt otrzymał negatywną ocenę, o której mowa art. 53 ust. 2, informacja, o której mowa ust. 4, zawiera pouczenie o możliwości wniesienia protestu na zasadach i trybie, o których mowa art. 53 i art. 54, określające:
 
 - **1)** termin do wniesienia protestu;
 - **2)** instytucję, do której należy wnieść protest;
-- **3)** wymogi formalne protestu, o których mowa art. 54 ust. 2.
 
 6. Komisja oceny projektów przygotowuje listę ocenionych projektów zawierającą przyznane oceny, wskazując projekty, o których mowa art. 39 ust. 2.
 
@@ -175,13 +174,15 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 - **3)** czynności, które powinny zostać dokonane przed zawarciem umowy o dofinansowanie projektu albo podjęciem decyzji o dofinansowaniu projektu, oraz wymagane dokumenty i terminy ich przedłożenia właściwej instytucji;
 - **4)** formę i sposób komunikacji między wnioskodawcą a właściwą instytucją, tym wzywania wnioskodawcy do uzupełniania lub poprawiania projektu trakcie jego oceny części dotyczącej spełniania przez projekt kryteriów wyboru projektów, a także skutki niezachowania wskazanej formy komunikacji;
 - **5)** formę złożenia przez wnioskodawcę oświadczenia o świadomości skutków niezachowania wskazanej formy komunikacji.
+
+4b. Do uzupełniania braków zakresie warunków formalnych i poprawiania oczywistych omyłek we wniosku o dofinansowanie projektu przepisy art. 43 stosuje się odpowiednio.”;
+
 - **24)** uchyla się art. 49;
-- **25)** art. 50 otrzymuje brzmienie: „Art. 50. Do postępowania zakresie ubiegania się o dofinansowanie oraz udzielania dofinansowania na podstawie ustawy nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracowników organu i sposobu obliczania terminów, chyba że ustawa stanowi inaczej.”;
+- **25)** art. 50 otrzymuje brzmienie: „Art. 50. Do postępowania zakresie ubiegania się o dofinansowanie oraz udzielania dofinansowania na podstawie ustawy nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracowników organu i sposobu obliczania terminów, chyba że ustawa stanowi inaczej.”;
 - **26)** po art. 50 dodaje się art. 50a brzmieniu: „Art. 50a. W toku postępowania zakresie ubiegania się o dofinansowanie, tym toku procedury odwoławczej, oraz udzielania dofinansowania właściwa instytucja nie może żądać zaświadczeń ani dokumentów na potwierdzenie faktów lub stanu prawnego, jeżeli:
 - **1)** są one znane instytucji z urzędu;
 - **2)** są możliwe do ustalenia przez instytucję na podstawie:
-    - **a)** posiadanych przez nią ewidencji, rejestrów lub innych danych,
-    - **b)** rejestrów publicznych posiadanych przez inne podmioty publiczne, do których instytucja ma dostęp drodze elektronicznej na zasadach określonych przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne,
+    - **a)** posiadanych przez nią ewidencji, rejestrów lub innych danych, jących zadania publiczne,
     - **c)** wymiany informacji z innym podmiotem publicznym na zasadach określonych przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne,
     - **d)** przedstawionych przez wnioskodawcę do wglądu dokumentów urzędowych.”;
 
@@ -189,10 +190,12 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 - **28)** art. 52 ust. 2 otrzymuje brzmienie: „2. Umowa o dofinansowanie projektu może zostać zawarta, a decyzja o dofinansowaniu projektu może zostać podjęta, jeżeli projekt spełnia wszystkie kryteria wyboru projektów, na podstawie których został wybrany do dofinansowania, oraz zostały dokonane czynności i zostały złożone dokumenty wskazane regulaminie konkursu albo wezwaniu, o których mowa odpowiednio art. 41 ust. 2 pkt 6a albo art. 48 ust. 4a pkt 3.”;
 - **29)** po art. 52 dodaje się art. 52a brzmieniu: „Art. 52a. Umowa o dofinansowanie projektu oraz decyzja o dofinansowaniu projektu mogą zostać zmienione, przypadku gdy zmiany nie wpływają na spełnianie kryteriów wyboru projektu sposób, który skutkowałby negatywną oceną tego projektu.”;
 - **30)** art. 53 ust. 3 otrzymuje brzmienie: „3. W przypadku gdy kwota przeznaczona na dofinansowanie projektów konkursie albo ramach rundy konkursu nie wystarcza na wybranie projektu do dofinansowania, okoliczność ta nie może stanowić wyłącznej przesłanki wniesienia protestu.”;
-- **31)** art. 54: „Art. 54a. 1. Wnioskodawca może wycofać protest do czasu zakończenia rozpatrywania protestu przez właściwą instytucję, o której mowa art. 55.
+- **31)** art. 54:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Wnioskodawca może wnieść protest terminie 14 dni od dnia doręczenia informacji, o której mowa art. 45 ust. 4.”,
     - **b)** ust. 5 dodaje się zdanie drugie brzmieniu: „Bieg terminu ulega zawieszeniu na czas uzupełnienia lub poprawienia protestu, o którym mowa ust. 3.”,
     - **c)** ust. 6 otrzymuje brzmienie: „6. Na prawo wnioskodawcy do wniesienia protestu nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa art. 45 ust. 5.”;
+
+- **32)** po art. 54 dodaje się art. 54a brzmieniu: „Art. 54a. 1. Wnioskodawca może wycofać protest do czasu zakończenia rozpatrywania protestu przez właściwą instytucję, o której mowa art. 55.
 
 2. Wycofanie protestu następuje przez złożenie instytucji, o której mowa art. 39 ust. 1, pisemnego oświadczenia o wycofaniu protestu.
 
@@ -208,8 +211,7 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 6. W przypadku wycofania protestu wnioskodawca nie może wnieść skargi do sądu administracyjnego.”;
 
 - **33)** art. 56:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Protest jest wnoszony za pośrednictwem instytucji, o której mowa art. 39 ust. 1, zgodnie z pouczeniem, o którym mowa art. 45 ust. 5.”,
-    - **b)** ust. 2: wprowadzenie do wyliczenia otrzymuje brzmienie: „Instytucja, o której mowa art. 39 ust. 1, terminie 14 dni od dnia otrzymania protestu weryfikuje wyniki dokonanej przez siebie oceny projektu zakresie kryteriów i zarzutów, o których mowa art. 54 ust. 2 pkt 4 i 5, i:”, pkt 1 otrzymuje brzmienie: „1) dokonuje zmiany podjętego rozstrzygnięcia, co skutkuje odpowiednio skierowaniem projektu do właściwego etapu oceny, albo dokonuje aktualizacji listy, o której mowa art. 46 ust. 3, informując o tym wnioskodawcę, albo”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Protest jest wnoszony za pośrednictwem instytucji, o której mowa art. 39 ust. 1, zgodnie z pouczeniem, o którym mowa art. 45 ust. 5.”, – wprowadzenie do wyliczenia otrzymuje brzmienie: „Instytucja, o której mowa art. 39 ust. 1, terminie 14 dni od dnia otrzymania protestu weryfikuje wyniki dokonanej przez siebie oceny projektu zakresie kryteriów i zarzutów, o których mowa art. 54 ust. 2 pkt 4 i 5, i:”, – pkt 1 otrzymuje brzmienie: „1) dokonuje zmiany podjętego rozstrzygnięcia, co skutkuje odpowiednio skierowaniem projektu do właściwego etapu oceny, albo dokonuje aktualizacji listy, o której mowa art. 46 ust. 3, informując o tym wnioskodawcę, albo”,
     - **c)** ust. 3 zdanie drugie otrzymuje brzmienie: „W takim przypadku protest jest wnoszony bezpośrednio do tej instytucji zgodnie z pouczeniem, o którym mowa art. 45 ust. 5.”;
 
 - **34)** art. 57:
@@ -221,12 +223,12 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
     - **b)** ust. 4 pkt 1 otrzymuje brzmienie: „1) przypadku pozytywnej ponownej oceny projektu kieruje projekt do właściwego etapu oceny albo dokonuje aktualizacji listy, o której mowa art. 46 ust. 3;”;
 
 - **36)** art. 59 ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Protest pozostawia się bez rozpatrzenia, jeżeli mimo prawidłowego pouczenia, o którym mowa art. 45 ust. 5, został wniesiony:”;
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Skarga, o której mowa ust. 1, jest wnoszona przez wnioskodawcę terminie 14 dni od dnia otrzymania informacji, o której mowa art. 58 ust. 1 albo ust. 4 pkt 2, art. 59 albo art. 66 ust. 2 pkt 1, a przypadku, o którym mowa art. 54 ust. 3 terminie 14 dni od dnia upływu terminu na uzupełnienie protestu lub poprawienie nim oczywistych omyłek, wraz z kompletną dokumentacją sprawie bezpośrednio do wojewódzkiego sądu administracyjnego. Skarga podlega wpisowi stałemu.”,
+- **37)** art. 61:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Skarga, o której mowa ust. 1, jest wnoszona przez wnioskodawcę terminie 14 dni od dnia otrzymania informacji, o której mowa art. 58 ust. 1 albo ust. 4 pkt 2, art. 59 albo art. 66 ust. 2 pkt 1, a przypadku, o którym mowa art. 54 ust. 3 – terminie 14 dni od dnia upływu terminu na uzupełnienie protestu lub poprawienie nim oczywistych omyłek, wraz z kompletną dokumentacją sprawie bezpośrednio do wojewódzkiego sądu administracyjnego. Skarga podlega wpisowi stałemu.”,
     - **b)** ust. 3 pkt 2 otrzymuje brzmienie: „2) informację o wynikach oceny projektu, o której mowa art. 45 ust. 4,”;
 
 - **38)** art. 63 otrzymuje brzmienie: „Art. 63. Na prawo wnioskodawcy do wniesienia skargi do sądu administracyjnego nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa art. 45 ust. 5, art. 58 ust. 1 pkt 2 albo ust. 4 pkt 2, art. 59 ust. 2 albo art. 66 ust. 2 pkt 1.”;
-- **39)** art. 66 ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku gdy na jakimkolwiek etapie postępowania zakresie procedury odwoławczej zostanie wyczerpana kwota przeznaczona na dofinansowanie projektów ramach działania, a przypadku gdy działaniu występują poddziałania ramach poddziałania:”;
-- **40)** po rozdziale 15 dodaje się rozdział 15a brzmieniu: „Rozdział 15a Eksperci
+- **39)** art. 66 ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku gdy na jakimkolwiek etapie postępowania zakresie procedury odwoławczej zostanie wyczerpana kwota przeznaczona na dofinansowanie projektów ramach działania, a przypadku gdy działaniu występują poddziałania – ramach poddziałania:”; „Rozdział 15a Eksperci
 
 **Art. 68a.**
 
@@ -252,9 +254,11 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 
 7. Kandydat na eksperta, który brał udział wyborze projektu, nie może realizować zadań, o których mowa ust. 1 pkt 2, odniesieniu do tego projektu.
 
-8. Do eksperta stosuje się odpowiednio przepisy art. 24 § 1 i 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+8. Do eksperta stosuje się odpowiednio przepisy art. 24 § 1 i 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-9. Ekspert składa właściwej instytucji oświadczenie, że nie zachodzi żadna z okoliczności powodujących wyłączenie go z możliwości realizacji czynności, o których mowa ust. 1, ustalonych na podstawie ust. 7 i 8. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, o czym należy pouczyć składającego przed złożeniem oświadczenia. projektów albo je ujawnia.
+9. Ekspert składa właściwej instytucji oświadczenie, że nie zachodzi żadna z okoliczności powodujących wyłączenie go z możliwości realizacji czynności, o których mowa ust. 1, ustalonych na podstawie ust. 7 i 8. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, o czym należy pouczyć składającego przed złożeniem oświadczenia.
+
+10. Jeżeli zostanie uprawdopodobnione istnienie okoliczności innych niż ustalone na podstawie ust. 7 i 8, które mogą wywołać wątpliwości co do bezstronności eksperta, właściwa instytucja wyłącza eksperta z udziału wyborze projektów albo je ujawnia.
 
 11. Właściwa instytucja prowadzi wykaz kandydatów na ekspertów, który jest zamieszczany na jej stronie internetowej.
 
@@ -271,16 +275,15 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 - **3)** wystąpienia przesłanek powodujących wykreślenie z wykazu, określonych umowie, o której mowa ust. 6;
 - **4)** złożenia pisemnego wniosku o wykreślenie z wykazu.
 
-14. W przypadku wykreślenia kandydata na eksperta z wykazu, o którym mowa ust. 11, ponowny wpis do wykazu jest możliwy nie wcześniej niż po upływie roku od dnia wykreślenia. Do kandydata na eksperta ubiegającego się o ponowny wpis do wykazu stosuje się przepisy ust. 2–10.”;
+14. W przypadku wykreślenia kandydata na eksperta z wykazu, o którym mowa ust. 11, ponowny wpis do wykazu jest możliwy nie wcześniej niż po upływie roku od dnia wykreślenia. Do kandydata na eksperta ubiegającego się o ponowny wpis do wykazu stosuje się przepisy ust. 2–10.”; „4) ewaluacją.”;
 
-- **41)** art. 69 ust. 3 pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) ewaluacją.”;
 - **42)** art. 71 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. Dane dotyczące uczestników projektów rozumieniu załącznika I lub II do rozporządzenia EFS zgromadzone centralnym systemie teleinformatycznym mogą zostać udostępnione Prezesowi Zakładu Ubezpieczeń Społecznych związku z realizacją zadań wynikających z art. 50 ust. 3a i 3c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm. ).”.
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm. ) art. 831:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm. ) art. 831:
+
+**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2017 r. poz. 1201) art. 8:
 
 **Art. 4.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2016 r. poz. 486, 1948 i 2260 oraz z 2017 r. poz. 730 i 935) wprowadza się następujące zmiany:
-
-**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm. ) art. 50:
 
 **Art. 6.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2017 r. poz. 678) art. 4:
 
@@ -290,10 +293,12 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 
 1. Do zadań Rady Programowej należy szczególności:
 
-- **1)** współpraca z przedsiębiorcami, uczelniami i podmiotami, o których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, zakresie diagnozowania potrzeb kwalifikacyjno-zawodowych występujących na rynku pracy;
+- **1)** współpraca z przedsiębiorcami, uczelniami i podmiotami, o których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zakresie diagnozowania potrzeb kwalifikacyjno-zawodowych występujących na rynku pracy;
 - **2)** formułowanie rekomendacji zakresie dostosowania kadr gospodarki do aktualnych potrzeb przedsiębiorców;
 - **3)** upowszechnianie wyników monitorowania potrzeb kwalifikacyjno-zawodowych występujących na rynku pracy;
-- **4)** koordynacja i monitorowanie realizacji zadań rad sektorowych. ministra właściwego do spraw szkolnictwa wyższego i ministra właściwego do spraw pracy oraz po 1 przedstawicielu partnerów społecznych i gospodarczych rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uczelni lub podmiotów, o których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, oraz organizacji przedsiębiorców.
+- **4)** koordynacja i monitorowanie realizacji zadań rad sektorowych.
+
+2. W skład Rady Programowej wchodzi nie więcej niż 20 członków, tym co najmniej po 2 przedstawicieli wskazanych przez ministra właściwego do spraw gospodarki, ministra właściwego do spraw oświaty i wychowania, ministra właściwego do spraw szkolnictwa wyższego i ministra właściwego do spraw pracy oraz po 1 przedstawicielu partnerów społecznych i gospodarczych rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uczelni lub podmiotów, o których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oraz organizacji przedsiębiorców.
 
 3. Prezes Agencji zwraca się pisemnie do podmiotów, o których mowa ust. 2, o wyznaczenie przedstawicieli do składu Rady Programowej. Podmioty te mogą zrezygnować z wyznaczenia przedstawicieli do składu Rady Programowej, o czym pisemnie informują Prezesa Agencji.
 
@@ -311,14 +316,12 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 
 - **1)** pozyskiwanie wiedzy od przedsiębiorców na temat potrzeb kwalifikacyjno-zawodowych występujących na rynku pracy danym sektorze gospodarki;
 - **2)** upowszechnianie informacji na temat potrzeb kwalifikacyjno-zawodowych danym sektorze gospodarki;
-- **3)** inicjowanie współpracy przedsiębiorców z uczelniami oraz podmiotami, o których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, celu zintegrowania edukacji i pracodawców;
+- **3)** inicjowanie współpracy przedsiębiorców z uczelniami oraz podmiotami, o których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, celu zintegrowania edukacji i pracodawców;
 - **4)** formułowanie rekomendacji zakresie dostosowania kadr gospodarki do aktualnych potrzeb przedsiębiorców danym sektorze gospodarki.
 
-3. Rada sektorowa liczy nie mniej niż 5 członków, tym co najmniej po 1 przedstawicielu partnerów społecznych i gospodarczych rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uczelni lub podmiotów, o których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, przedsiębiorców oraz jeżeli zostanie wskazany co najmniej 1 przedstawiciel ministra właściwego dla danego sektora gospodarki.
+3. Rada sektorowa liczy nie mniej niż 5 członków, tym co najmniej po 1 przedstawicielu partnerów społecznych i gospodarczych rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uczelni lub podmiotów, o których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przedsiębiorców oraz – jeżeli zostanie wskazany – co najmniej 1 przedstawiciel ministra właściwego dla danego sektora gospodarki.
 
 4. Podmiot wybrany konkursie, o którym mowa ust. 1, zgłasza ministrowi właściwemu do spraw gospodarki, za pośrednictwem Prezesa Agencji, kandydatów na członków rady sektorowej.
-
-5. Minister właściwy do spraw gospodarki powołuje i odwołuje członków rady sektorowej na wniosek Prezesa Agencji. Minister właściwy do spraw gospodarki odwołuje członka rady sektorowej również na jego wniosek.”;
 
 - **3)** art. 6 ust. 1:
     - **a)** pkt 8 otrzymuje brzmienie: „8) prowadzenie rejestru podmiotów, które zapewniają należyte świadczenie usług doradczych i szkoleniowych, zwanych dalej „usługami rozwojowymi”;”,
@@ -331,6 +334,8 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 - **3)** zapewniają należytą jakość świadczenia usług rozwojowych;
 - **4)** nie są podmiotami, o których mowa art. 6b ust. 3 pkt 1, 2 i pkt 3 lit. a i b.
 
+2. Agencja dokonuje wpisu do rejestru, o którym mowa art. 6 ust. 1 pkt 8, na podstawie wniosku o wpis do rejestru oraz razie konieczności dokonuje zmiany, tym sprostowania, wpisu.
+
 3. Agencja wykreśla podmiot z rejestru, o którym mowa art. 6 ust. 1 pkt 8, przypadku gdy:
 
 - **1)** zaprzestał świadczenia usług rozwojowych;
@@ -342,7 +347,7 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 - **7)** nie przestrzega standardów świadczenia usług rozwojowych po uzyskaniu wpisu do rejestru;
 - **8)** utrudnia lub uniemożliwia poddanie się weryfikacji przez Agencję lub inne upoważnione podmioty celu potwierdzenia spełniania warunków, o których mowa ust. 1, lub odmawia poddania się takiej weryfikacji.
 
-4. Do postępowania sprawie wpisu, zmiany, tym sprostowania, i wykreślenia z rejestru, o którym mowa art. 6 ust. 1 pkt 8, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257).
+4. Do postępowania sprawie wpisu, zmiany, tym sprostowania, i wykreślenia z rejestru, o którym mowa art. 6 ust. 1 pkt 8, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257).
 
 5. Minister właściwy do spraw gospodarki określi, drodze rozporządzenia:
 
@@ -352,12 +357,14 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 - **4)** standardy świadczenia usług rozwojowych przez podmioty wpisane do rejestru, o którym mowa art. 6 ust. 1 pkt 8,
 - **5)** szczegółowe wymagania zakresie potencjału technicznego, ekonomicznego oraz kadrowego niezbędnego do należytego świadczenia usług rozwojowych,
 - **6)** szczegółowe wymagania zakresie przestrzegania zasad etyki zawodowej,
-- **7)** szczegółowe wymagania zakresie zapewniania należytej jakości świadczenia usług rozwojowych, tym wymagania dotyczące dokumentów potwierdzających zapewnienie należytej jakości świadczenia tych usług mając na względzie konieczność przedstawienia we wniosku o wpis do rejestru, o którym mowa art. 6 ust. 1 pkt 8, informacji i dokumentów niezbędnych do weryfikacji spełnienia warunków, o których mowa ust. 1, oraz danych osobowych, o których mowa art. 6aa ust. 4 pkt 1 i 4, a także konieczność zapewnienia należytej jakości usług rozwojowych oraz wiarygodności podmiotów wpisanych do rejestru.”;
+- **7)** szczegółowe wymagania zakresie zapewniania należytej jakości świadczenia usług rozwojowych, tym wymagania dotyczące dokumentów potwierdzających zapewnienie należytej jakości świadczenia tych usług – mając na względzie konieczność przedstawienia we wniosku o wpis do rejestru, o którym mowa art. 6 ust. 1 pkt 8, informacji i dokumentów niezbędnych do weryfikacji spełnienia warunków, o których mowa ust. 1, oraz danych
 - **5)** po art. 6a dodaje się art. 6aa brzmieniu: „Art. 6aa. 1. Agencja prowadzi rejestr, o którym mowa art. 6 ust. 1 pkt 8, systemie teleinformatycznym.
 
 2. W systemie teleinformatycznym gromadzi się i przetwarza dane zarejestrowane tym systemie, szczególności dane dotyczące usług rozwojowych oraz podmiotów świadczących te usługi, dla celów rejestracji podmiotów systemie teleinformatycznym oraz jego ewaluacji, a także kontroli, monitorowania oraz oceny usług świadczonych przez te podmioty.
 
 3. W przypadku usług rozwojowych systemie teleinformatycznym są przetwarzane także dane osobowe odbiorców i uczestników tych usług, zgodnie z zakresem danych określonym załącznikach I i II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470, z późn. zm. ), a także dane osobowe innych użytkowników systemu teleinformatycznego, które są niezbędne do kontroli, monitorowania i oceny tych usług oraz ewaluacji systemu teleinformatycznego, a także zarządzania, ewaluacji, kontroli, sprawozdawczości i monitorowania wykorzystania i rozliczania środków publicznych przeznaczonych na zakup usług rozwojowych.
+
+4. Dane osobowe, o których mowa ust. 2 i 3, z wyłączeniem danych osobowych odbiorców i uczestników usług, obejmują dane:
 
 - **1)** podmiotu będącego osobą fizyczną wykonującą działalność gospodarczą:
     - **a)** imiona i nazwisko,
@@ -374,7 +381,7 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
     - **a)** imiona i nazwisko,
     - **b)** dane teleadresowe,
     - **c)** numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL),
-    - **d)** przypadku osób nieposiadających numeru PESEL nazwę, serię i numer dokumentu stwierdzającego tożsamość,
+    - **d)** przypadku osób nieposiadających numeru PESEL – nazwę, serię i numer dokumentu stwierdzającego tożsamość,
     - **e)** wykształcenie,
     - **f)** miejsce zatrudnienia,
     - **g)** przebieg pracy zawodowej;
@@ -383,14 +390,13 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
     - **a)** imiona i nazwisko,
     - **b)** dane teleadresowe,
     - **c)** numer PESEL,
-    - **d)** przypadku osób nieposiadających numeru PESEL nazwę, serię i numer dokumentu stwierdzającego tożsamość,
+    - **d)** przypadku osób nieposiadających numeru PESEL – nazwę, serię i numer dokumentu stwierdzającego tożsamość,
     - **e)** miejsce zatrudnienia;
 
 - **5)** innych użytkowników systemu teleinformatycznego, o których mowa ust. 3:
     - **a)** imiona i nazwisko,
     - **b)** dane teleadresowe,
     - **c)** numer PESEL,
-    - **d)** przypadku osób nieposiadających numeru PESEL nazwę, serię i numer dokumentu stwierdzającego tożsamość,
     - **e)** miejsce zatrudnienia.
 
 5. Agencja pełni funkcję administratora danych osobowych, o których mowa ust. 2 i 3, z wyłączeniem danych osobowych odbiorców i uczestników usług, i może je przetwarzać po dokonaniu zgłoszenia zbioru danych do rejestracji Generalnemu Inspektorowi Ochrony Danych Osobowych, zgodnie z przepisami o ochronie danych osobowych.
@@ -400,23 +406,11 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 7. Dane:
 
 - **1)** identyfikujące podmiot wpisany do rejestru, o którym mowa art. 6 ust. 1 pkt 8,
-- **2)** dotyczące usług rozwojowych świadczonych przez podmiot wpisany do rejestru, o którym mowa art. 6 ust. 1 pkt 8 są jawne i są udostępniane przez Agencję na jej stronie internetowej.
+- **2)** dotyczące usług rozwojowych świadczonych przez podmiot wpisany do rejestru, o którym mowa art. 6 ust. 1 pkt 8 – są jawne i są udostępniane przez Agencję na jej stronie internetowej.
 
 8. Dane, o których mowa ust. 2 i 3, z wyłączeniem danych osobowych odbiorców i uczestników usług, mogą być przechowywane systemie teleinformatycznym przez okres do 10 lat od dnia dokonania ostatniej czynności tym systemie.”.
 
-- **1)** art. 134a:
-    - **a)** dotychczasową treść oznacza się jako ust. 1 i tym ustępie pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 brzmieniu: „8) przeprowadza kontrole:
-    - **a)** systemowe Krajowym Ośrodku jako instytucji pośredniczącej rozumieniu art. 2 pkt 13 rozporządzenia sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym,
-    - **b)** prawidłowości realizacji zadań przez beneficjentów rozumieniu art. 2 pkt 9 rozporządzenia sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym ramach operacji finansowanych z Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, zgodnie z systemem realizacji Programu Operacyjnego.”,
-    - **b)** dodaje się ust. 2 brzmieniu: „2. Do kontroli, o których mowa ust. 1 pkt 8, stosuje się odpowiednio przepisy art. 23 ust. 1, 1a, 2 i 4–10 oraz art. 25 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460 i 1475), z tym że kontrole prawidłowości realizacji zadań przez beneficjentów mogą być przeprowadzane nie później niż do końca okresu ustalonego zgodnie z art. 51 ust. 1 rozporządzenia sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.”;
-
-- **2)** art. 134b ust. 4 i 5 otrzymują brzmienie: „4. Zadania, o których mowa ust. 2, są wykonywane przez Krajowy Ośrodek na podstawie porozumienia o powierzeniu zadań instytucji pośredniczącej, zawartego z ministrem właściwym do spraw zabezpieczenia społecznego, zawierającego szczególności zobowiązanie do stosowania wytycznych, o których mowa art. 134a ust. 1 pkt 6.
-
-5. Powierzone zadania Krajowy Ośrodek wykonuje zgodnie z systemem realizacji Programu Operacyjnego, zawierającym warunki i procedury obowiązujące instytucje uczestniczące realizacji Programu Operacyjnego, obejmujące szczególności zarządzanie, monitorowanie, sprawozdawczość, kontrolę i ewaluację oraz sposób koordynacji działań podejmowanych przez instytucje. Podstawę systemu realizacji Programu Operacyjnego mogą stanowić szczególności przepisy prawa powszechnie obowiązującego, wytyczne, o których mowa art. 134a ust. 1 pkt 6, dokumenty określające system zarządzania i kontroli oraz procedury działania właściwych instytucji.”;
-
-- **3)** art. 134k otrzymuje brzmienie: „Art. 134k. Do wyboru przez instytucję zarządzającą organizacji partnerskich stosuje się odpowiednio przepisy art. 37 ust. 1, ust. 3 pkt 1 i ust. 3a–7, art. 38 ust. 1 pkt 1, art. 39, art. 40 ust. 2, art. 41–44, art. 45 ust. 4–7, art. 46 ust. 1, 3 i 4, art. 50, art. 53 ust. 1 i ust. 2 pkt 1, art. 54, art. 57, art. 58 ust. 1 i ust. 2 pkt 1 oraz art. 59–67 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020, przy czym instytucją właściwą do wyboru organizacji partnerskich oraz do rozpatrzenia protestu jest minister właściwy do spraw zabezpieczenia społecznego.”.
-
-**Art. 9.** W ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2017 r. poz. 1376) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 37a.**
 
@@ -432,8 +426,6 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 3. Minister właściwy do spraw rozwoju regionalnego może określić, drodze rozporządzenia, szczegółowy zakres sprawozdań, o których mowa ust. 2, i tryb ich przekazywania, mając na uwadze konieczność zapewnienia przejrzystego wykorzystania środków publicznych.”.
 
 **Art. 10.** W ustawie z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej województwie (Dz. U. z 2015 r. poz. 525 i 1960, z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 935 i 976) art. 3 po ust. 2a dodaje się ust. 2b brzmieniu: „2b. Wojewoda może uczestniczyć wykonywaniu zadań, o których mowa art. 16 ust. 1 pkt 2 i 3 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460 i 1475), na zasadach określonych tej ustawie.”.
-
-**Art. 11.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 12.** W ustawie z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, 1933 i 2260 oraz z 2017 r. poz. 859) art. 24 ust. 2 otrzymuje brzmienie: „2. Do zadań, o których mowa ust. 1, stosuje się przepisy art. 15. Przepis ten nie wyłącza obowiązku, o którym mowa art. 46 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460 i 1475).”.
 
@@ -495,13 +487,9 @@ o zmianie ustawy o zasadach realizacji programów zakresie polityki spójności 
 
 1. Do postępowań zakresie wyboru organizacji partnerskich rozpoczętych na podstawie ustawy zmienianej art. 8 i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-2. Do procedury odwoławczej zakresie wyboru organizacji partnerskich wszczętej na podstawie ustawy zmienianej art. 8 i niezakończonej do dnia wejścia niniejszej ustawy stosuje się przepisy dotychczasowe. zmienianej art. 9, brzmieniu nadanym niniejszą ustawą.
+2. Do procedury odwoławczej zakresie wyboru organizacji partnerskich wszczętej na podstawie ustawy zmienianej art. 8 i niezakończonej do dnia wejścia niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 28.**
-
-1. Do wniosków o płatność, o których mowa ustawie zmienianej art. 11, na złożenie których termin upłynął przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
-
-2. Do postępowań sprawie zwrotu środków, o których mowa ustawie zmienianej art. 11, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+**Art. 27.** W terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy kontrakty terytorialne, o których mowa ustawie zmienianej art. 9, zostaną dostosowane do wymagań określonych dla tych kontraktów przepisach ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą. 2. Do postępowań sprawie zwrotu środków, o których mowa ustawie zmienianej art. 11, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 29.**
 

@@ -8,9 +8,12 @@ pos: 218
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o działach administracji rządowej
+
+*USTAWA dnia 26 stycznia 2007 o zmianie o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o działach administracji rządowej*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +27,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070350218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/218/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 paêdziernika 1991 ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 208, 2128, z póên. zm.
+**Art. 1.** W ustawie dnia 19 października 1991 o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. 2004 208, 2128, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 4 września 1997 działach administracji rządowej (Dz. U. z 2003 159, 1548, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie 37 oraz 39a 1 dnia 19 października 1991 o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 37 oraz 39a 1 tej ustawy, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni
-
-**Art. 1.** Wustawie zdnia 20 maja 2005 ododatku pieniężnym dla niektórych emerytów, rencistów iosób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny (Dz. U. 102, 852 oraz z2006 708 i711) wprowadza się następujące zmiany:
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

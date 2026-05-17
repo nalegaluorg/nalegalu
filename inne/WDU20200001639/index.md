@@ -8,9 +8,12 @@ pos: 1639
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 września 2020 r.
+# o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+
+*USTAWA z dnia 17 września 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +27,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001639) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1639/text.pdf) |
 
-USTAWA z dnia 17 września 2020 r.
-o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz. 284, 288, 321 i 1086) art. 105 ust. 1 pkt 2 po lit. zb dodaje się lit. zc brzmieniu: „zc) Ubezpieczeniowemu Funduszowi Gwarancyjnemu zakresie niezbędnym do wykonywania przez ten Fundusz zadań związanych z dokonywaniem wypłat z Turystycznego Funduszu Zwrotów lub Turystycznego Funduszu Pomocowego, o których mowa odpowiednio art. 15ka i art. 15kc ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm. );”.
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz. 284, 288, 321 i 1086) art. 105 ust. 1 pkt 2 po lit. zb dodaje się lit. zc brzmieniu: „zc) Ubezpieczeniowemu Funduszowi Gwarancyjnemu zakresie niezbędnym do wykonywania przez ten Fundusz zadań związanych z dokonywaniem wypłat z Turystycznego Funduszu Zwrotów lub Turystycznego Funduszu Pomocowego, o których mowa odpowiednio art. 15ka i art. 15kc ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm. );”.
 
 **Art. 3.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2019 r. poz. 2214 oraz z 2020 r. poz. 1180) art. 98a dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 brzmieniu: „2. Fundusz wykonuje także zadania, o których mowa ustawie z dnia 17 września 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz innych ustaw (Dz. U. poz. 1639).”.
 
@@ -41,9 +41,9 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 **Art. 7.** W terminie miesiąca od dnia wejścia życie ustawy Bank Gospodarstwa Krajowego, porozumieniu z ministrem właściwym do spraw turystyki oraz ministrem właściwym do spraw finansów publicznych, opracuje plan finansowy Turystycznego Funduszu Zwrotów na rok 2020.
 
-**Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 119 ust. 4 ustawy zmienianej art. 3 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 119 ust. 4 ustawy zmienianej art. 3, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia życie niniejszej ustawy. art. 13 ust. 4c ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360, 956 i 1610), może być również wpłata z budżetu państwa przekazana przez ministra właściwego do spraw wewnętrznych.
+**Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 119 ust. 4 ustawy zmienianej art. 3 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 119 ust. 4 ustawy zmienianej art. 3, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia życie niniejszej ustawy. wpłata z budżetu państwa przekazana przez ministra właściwego do spraw wewnętrznych.
 
-**Art. 10.** W roku 2020 źródłem przychodu Funduszu Wsparcia Straży Granicznej funduszu centralnego, o którym mowa art. 8a ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2020 r. poz. 305 i 1610), może być również wpłata z budżetu państwa przekazana przez ministra właściwego do spraw wewnętrznych.
+**Art. 10.** W roku 2020 źródłem przychodu Funduszu Wsparcia Straży Granicznej – funduszu centralnego, o którym mowa art. 8a ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2020 r. poz. 305 i 1610), może być również wpłata z budżetu państwa przekazana przez ministra właściwego do spraw wewnętrznych.
 
 **Art. 11.** W roku 2020 źródłem przychodu Funduszu Modernizacji Sił Zbrojnych, o którym mowa art. 11 ust. 1 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1453 i 2020), może być również wpłata z budżetu państwa przekazana przez Ministra Obrony Narodowej.
 

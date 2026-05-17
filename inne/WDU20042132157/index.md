@@ -8,9 +8,12 @@ pos: 2157
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Ustawa z dnia 27 sierpnia 2004 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych innych ustaw
+
+*USTAWA dnia 27 sierpnia 2004 o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +27,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042132157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2157/text.pdf) |
 
-**Art. 1.** W ustawie dnia 26 paêdziernika 1995 oniektórych formach popierania budownictwa mieszkaniowego (Dz. U. 2000 98, 1070, póên. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie dnia 26 października 1995 o niektórych formach popierania budownictwa mieszkaniowego (Dz.U. 2000 98, 1070, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** Wustawie zdnia 18 grudnia 1998 owspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. 162, 1121, póên. zm. ) art. 12 uchyla ust. 1a.
+**Art. 2.** W ustawie dnia 30 listopada 1995 o pomocy państwa spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz.U. 2003 119, 1115) wprowadza się następujące zmiany:
 
-**Art. 4.**
+**Art. 3.** W ustawie dnia 18 grudnia 1998 o wspieraniu przedsięwzięć termomodernizacyjnych (Dz.U. 162, 1121, późn. zm. ) art. 12 uchyla się ust. 1a. wydanych na podstawie art. 19 ust. 4 ustawy, o której mowa art. 1, począwszy od dnia 1 stycznia 2005 2. Do przedsięwzięć inwestycyjno-budowlanych objętych wnioskami wstępnymi o udzielenie kredytu Krajowego Funduszu Mieszkaniowego, złożonymi przed dniem 1 stycznia 2005 r., zachowaniem terminów określonych przepisach wykonawczych, wydanych na podstawie art. 19 ust. 4 ustawy, o której mowa art. 1, stosuje się przepis art. 19 ust. 9 ustawy, o której mowa art. 1, brzmieniu dotychczas obowiązującym. 3. Do towarzystw budownictwa społecznego, których statuty lub umowy zostały zatwierdzone przed dniem wejścia życie ustawy, przepisy art. 24 ust. 3a i art. 26 ust. 3 ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się po upływie 4 lat od dnia jej wejścia życie. 4. W terminie 1 roku od dnia wejścia życie ustawy towarzystwa budownictwa społecznego istniejące dniu wejścia życie ustawy dostosują postanowienia swoich statutów lub umów do jej przepisów.
 
-1. Przepisy art. 19 ust. 2 1, ust. 2a—2d ust. 10 art. 29 art. 29a ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie przedsięwzięć inwestycyjno-budowlanych objętych wnioskami wstępnymi o udzielenie kredytu ze środków Krajowego Funduszu Mieszkaniowego, złożonymi zachowaniem terminów określonych przepisach wykonawczych, wydanych podstawie art. 19 ust. 4 ustawy, o której mowa art. 1, począwszy od dnia 1 stycznia 2005
+**Art. 5.** Rozliczenia banków tytułu refundacji, ze środków budżetu państwa, premii gwarancyjnych, o których mowa ustawie wymienionej art. 2, wypłaconych na wnioski właścicieli książeczek mieszkaniowych, złożone okresie od dnia 1 stycznia do dnia 11 sierpnia 2002 r., nie podlegają korekcie.
 
-2. Do przedsięwzięć inwestycyjno-budowlanych objętych wnioskami wstępnymi o udzielenie kredytu upływie 4 lat od dnia jej wejścia życie. Art. 6. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-
-4. Wterminie 1 roku od dnia wejścia wżycie ustawy towarzystwa budownictwa społecznego istniejące Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 2158 USTAWA dnia 27 sierpnia 2004 o zmianie o kosmetykach
-
-**Art. 1.** Wustawie zdnia 30 marca 2001 okosmetykach (Dz. U. 42, 473 2003 73, 659, 189, 1852 208, 2019) wprowadza następujące zmiany:
+**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

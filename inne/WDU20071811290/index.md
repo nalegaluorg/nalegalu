@@ -8,9 +8,10 @@ pos: 1290
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 5 września 2007 r. o zmianie ustawy o przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń oraz o zmianie ustawy o zakładach opieki zdrowotnej
+# dnia 5 września 2007 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,68 +25,79 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071811290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1290/text.pdf) |
 
-**Art. 1.** W ustawie 22 lipca 2006 przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń (Dz. U. 149, 1076 oraz 2007 64, 430) wprowadza się następujące zmiany:
+zmianie ustawy przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń oraz zmianie ustawy zakładach opieki zdrowotnej
+
+**Art. 1.** W ustawie dnia 22 lipca 2006 r. przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń (Dz.U. Nr 149, poz. 1076 oraz 2007 r. Nr 64, poz.
 
 **Art. 10c.**
 
-1. Wumowach zawieranych na 2008 ze świadczeniodawcami, októrych 1:
+1. W umowach zawieranych na 2008 r. ze świadczeniodawcami, których 1 ust. 1:
 
-- **1)** których oferta została wybrana trybie, którym 139 świadczeniach, oraz
-- **2)** którzy uzyskali środki finansowe 3 kwota zobowiązania, której 136 pkt świadczeniach, zawiera równowartość środków przekazanych na wzrost tej kwoty 2007 3 pkt 2, zastrzeżeniem 3.
+- **1)** których oferta została wybrana trybie, którym 139 ust. 1 ustawy świadczeniach, oraz
+- **2)** którzy uzyskali środki finansowe zgodnie 3 ust. 1 i 2 – kwota zobowiązania, której 136 pkt 5 ustawy świadczeniach, zawiera równowartość środków przekazanych na wzrost tej kwoty 2007 r. zgodnie 3 ust. 1 pkt 2 i ust. 2, zastrzeżeniem ust. 3.
 
-2. Wumowach zawieranych na 2008 ze świadczeniodawcami, októrych ustawy, którzy uzyskali środki finansowe zart. 3 3 4, stawka kapitacyjna zawiera równowartość środków przekazanych na wzrost tej stawki 2007 3 3 4.
+2. W umowach zawieranych na 2008 r. ze świadczeniodawcami, których 1 ust. 1 ustawy, którzy uzyskali środki finansowe zgodnie 3 ust. 3 i 4, stawka kapitacyjna zawiera równowartość środków przekazanych na wzrost tej stawki 2007 r. zgodnie 3 ust. 3 i 4.
 
-3. Wumowach zawieranych na 2008 ze świadczeniodawcami, októrych 1: zmianie przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń oraz zmianie zakładach opieki zdrowotnej świadczeniach, oraz którzy uzyskali środki finansowe na 2. podziału pomiędzy oddziały wojewzrost wynagrodzeń ostatnim kwar- wódzkie Funduszu środków finansotale 2007 r., kwota zobowiązania, októ- wych przeznaczanych na pokrycie rej 136 pkt skutków wzrostu 2008 nie stosuje świadczeniach, zostaje zwiększona się przepisu 118 3 równowartość czterokrotności kwoty świadczeniach. wzrostu ustalonej sposób określony 4a 2. Rozdział 4
+3. W umowach zawieranych na 2008 r. ze świadczeniodawcami, których 1 ust. 1:
+
+- **1)** udzielającymi świadczeń opieki zdrowotnej rodzaju lecznictwo szpitalne,
+- **2)** udzielającymi świadczeń opieki zdrowotnej rodzaju lecznictwo uzdrowiskowe – których oferta została wybrana trybie, którym 139 ust. 1 ustawy świadczeniach, oraz którzy uzyskali środki finansowe na wzrost wynagrodzeń ostatnim kwartale 2007 r., kwota zobowiązania, której 136 pkt 5 ustawy świadczeniach, zostaje zwiększona równowartość czterokrotności kwoty wzrostu ustalonej sposób okreś lony 4a ust.
+
+2.
 
 **Art. 10d.**
 
-1. Âwiadczeniodawcy, których Zasady przekazania środków finansowych 10c, są obowiązani przeznaczyć 2009 latach następnych środki finansowe uzyskane tytułu wzrostu kwoty zobowiązania, której Art. 10f. 1. Ze świadczeniodawcami, którymi zawart. 136 pkt oświad- warto umowy 10c czeniach, istawki kapitacyjnej, 3, których oferta została wybrana zart. 10c, na wynagrodzenia, zzastrze- trybie, którym 139 żeniem 2.
+1. Świadczeniodawcy, których 10c, są obowiązani przeznaczyć środki finansowe uzyskane tytułu wzrostu kwoty zobowiązania, której 136 pkt 5 ustawy świadczeniach, i stawki kapitacyjnej, zgodnie 10c, na wynagrodzenia, zastrzeżeniem ust. 2. przepisy 5 ust. 1a-10 oraz 5a-7.
 
-2. W przypadku osób, których pkt lit. a, świadczeniodawcy, októrych wart. 10c, są obowiązani przeznaczyć środki finansowe uzyskane tytułu wzrostu kwoty zobowiązania, której 136 pkt świadczeniach, stawki kapitacyjnej, 10c, na wynagrodzenia zasadnicze wraz innymi składnikami ipochodnymi od tych wynagrodzeń.
+4. Świadczeniodawcy, których 10c, mogą przeznaczyć środki finansowe, które pozostały po wykonaniu obowiązku, którym ust. 1 i 2, na wynagrodzenia osób, których 2 pkt 5, zatrudnionych u świadczeniodawcy po drugim kwartale 2006 r.
 
-3. wykonania obowiązku, którym 2, stosuje się przepisy 1a—10 oraz 5a—7.
+5. Naruszenie wykonania obowiązku, którym ust. 1 i 2, polegające na przekroczeniu przez świadczeniodawcę kwoty środków finansowych uzyskanych tytułu wzrostu kwoty zobowiązania, której 136 pkt 5 ustawy świadczeniach, i stawki kapitacyjnej, zgodnie 10c, nie stanowi podstawy roszczeń wobec Narodowego Funduszu Zdrowia lub Skarbu Państwa bądź innej jednostki sektora finansów publicznych.
 
-4. Âwiadczeniodawcy, których 10c, mogą przeznaczyć środki finansowe, które pozostały po wykonaniu obowiązku, którym 2, na wynagrodzenia osób, których pkt 5, zatrudnionych u świadczeniodawcy po drugim kwartale 2006
+**Art. 10e.**
 
-5. Naruszenie wykonania obowiązku, którym 2, polegające na przekroczeniu przez świadczeniodawcę kwoty środków finansowych uzyskanych tytułu wzrostu kwoty zobowiązania, której 136 pkt świadczeniach, stawki kapitacyjnej, zart. 10c, nie stanowi podstawy roszczeń wobec Naroświadczeniach, Fundusz jest obowiązany zawrzeć umowy, których suma kwot zobowiązań, których 136 pkt ustawy świadczeniach, będzie nie niższa niż suma kwot zobowiązań, których wart. 136 pkt oświadczeniach, wynikających zumów zawartych na 2008 według stanu na dzień stycznia 2008 r., zastrzeżeniem 10g 4.
+1. Skutki związane utrzymaniem wzrostu kwoty zobowiązania, której 136 pkt 5 ustawy świadczeniach, oraz stawki kapitacyjnej, który nastąpił zgodnie 3 ust. 1 pkt 2 i ust. 24, zwane dalej „skutkami wzrostu 2008 r.”, są pokrywane ze środków określonych planie finansowym Funduszu na 2008 r.
 
-2. Ze świadczeniodawcami, którymi zawarto umowy zart. 10c 2, którymi zawiera się umowy trybie, którym 159 pkt oświadczeniach, Fundusz jest obowiązany zawrzeć umowy, których stawka kapitacyjna będzie nie niższa niż stawka kapitacyjna wynikająca umów zawartych na 2008 według stanu na dzień stycznia 2008 r., zastrzeżeniem 10g 4.
+2. Do podziału pomiędzy oddziały wojewódzkie Funduszu środków finansowych przeznaczanych na pokrycie skutków wzrostu 2008 r. nie stosuje się przepisu 118 ust. 3 ustawy świadczeniach.
 
-**Art. 10g.**
+#### Rozdział 4 Zasady przekazania środków finansowych 2009 r. i latach następnych
 
-1. Âwiadczeniodawcy, których 10f, są obowiązani przeznaczyć środki finansowe uzyskane na podstawie 10f części odpowiadającej wysokości środków finansowych uzyskanych tytułu wzrostu kwoty zobowiązania, której 136 pkt świadczeniach, stawki kapitacyjnej, 10c, na wynagrodzenia, zastrzeżeniem 2.
+**Art. 10f.**
 
-2. W przypadku osób, których
+1. Ze świadczeniodawcami, którymi zawarto umowy zgodnie 10c ust. 1 i 3, i których oferta została wybrana trybie, którym 139 ust. 1 ustawy świadczeniach, Fundusz jest obowiązany zawrzeć umowy, których suma kwot zobowiązań, których 136 pkt 5 ustawy świadczeniach, będzie nie niższa niż suma kwot zobowiązań, których 136 pkt 5 ustawy świadczeniach, wynikających umów zawartych na 2008 r. według stanu na dzień 1 stycznia 2008 r., zastrzeżeniem 10g ust. 4.
 
-3. wykonania obowiązku, którym 2, stosuje się przepisy sób określony tym przepisie, 1a—10. podlega karze grzywny.
+2. Ze świadczeniodawcami, którymi zawarto umowy zgodnie 10c ust. 2, i którymi zawiera się umowy trybie, którym 159 ust. 1 pkt 1 ustawy świadczeniach, Fundusz jest obowiązany zawrzeć umowy, których stawka kapitacyjna będzie nie niższa niż stawka kapitacyjna wynikająca umów zawartych na 2008 r. według stanu na dzień 1 stycznia 2008 r., zastrzeżeniem 10g ust. 4. czyć środki finansowe uzyskane na podstawie 10f części odpowiadającej wysokości środków finansowych uzyskanych tytułu wzrostu kwoty zobowiązania, której 136 pkt 5 ustawy świadczeniach, i stawki kapitacyjnej, zgodnie 10c, na wynagrodzenia zasadnicze wraz innymi składnikami i pochodnymi od tych wynagrodzeń.
 
-4. Jeżeli przyczyn leżących po stronie 2. Âciganie wykroczenia, którym świadczeniodawcy: 1, następuje na zasadach okreś1) suma kwot zobowiązań, których lonych ustawie 13 kwietnia 136 pkt 2007 oPaństwowej Inspekcji Pracy.”; świadczeniach, jest niższa niż suma kwot zobowiązań Funduszu wy- 7) po 10i dodaje się oznaczenie rozdziału 7 itytuł nikających umów zawartych na brzmieniu: 2008 według stanu na dzień ŃPrzepis końcowy”; stycznia 2008 lub stawka kapitacyjna jest niższa od stawki kapitacyj- 8) załączniku do ustawy: nej wynikającej umowy zawartej a) pkt 3 otrzymuje brzmienie: na 2008 według stanu na dzień stycznia 2008 Ń3. Lecznictwo szpitalne 0,65.”, lub b) pkt 8 otrzymuje brzmienie:
+3. Do wykonania obowiązku, którym ust. 1 i 2, stosuje się przepisy 5 ust. 1a-10.
 
-- **2)** świadczeniodawca nie może wyko- Ń8. Lecznictwo uzdrowiskowe 0,40.”. nać umowy świadczeniodawca wykonuje obo- Art. 2.Wustawie zdnia 30 sierpnia 1991 ozakławiązek określony odpo- dach opieki zdrowotnej (Dz. U. z2007 14, 89, wiednio do wysokości przekazanych 123, 849, 166, 1172 176, 1240) środków. wprowadza się następujące zmiany:
+4. Jeżeli przyczyn leżących po stronie świadczeniodawcy:
 
-5. Naruszenie wykonania obowiązku, 1) po 59 dodaje się 59a 59b brzmieniu: którym 2, polegające na przekroczeniu przez świadczenio- ,,Art. 59a. 1. W przypadku wzrostu kwoty zobodawcę kwoty środków finansowych wiązania Narodowego Funduszu uzyskanych tytułu wzrostu kwoty zo- Zdrowia, której 136 bowiązania, której 136 pkt5 zdnia 27 sierpnia 2004 pkt świadczeniach, stawki świadczeniach opieki zdrowotnej kapitacyjnej, zart. 10c, nie sta- finansowanych ze środków publicznowi podstawy roszczeń wobec Naro- nych, wobec samodzielnego publiczdowego Funduszu Zdrowia lub Skarbu nego zakładu opieki zdrowotnej, Państwa bądê innej jednostki sektora stosunku do kwoty wynikającej finansów publicznych. poprzedniej umowy udzielanie świadczeń opieki zdrowotnej dotyczącej tego samego rodzaju lub zakresu
+- **1)** suma kwot zobowiązań, których 136 pkt 5 ustawy świadczeniach, jest niższa niż suma kwot zobowiązań Funduszu wynikających umów zawartych na 2008 r. według stanu na dzień 1 stycznia 2008 r. lub stawka kapitacyjna jest niższa od stawki kapitacyjnej wynikającej umowy zawartej na 2008 r. według stanu na dzień 1 stycznia 2008 r. lub
+- **2)** świadczeniodawca nie może wykonać umowy – świadczeniodawca wykonuje obowiązek określony ust. 1 i 2 odpowiednio do wysokości przekazanych środków.
 
-#### Rozdział świadczeń opieki zdrowotnej, kierowKontrola wykonywania obowiązków nik samodzielnego publicznego zaprzez świadczeniodawców kładu opieki zdrowotnej jest obowiązany do przeznaczenia nie mniej niż
+5. Naruszenie wykonania obowiązku, którym ust. 1 i 2, polegające na przekroczeniu przez świadczeniodawcę kwoty środków finansowych uzyskanych tytułu wzrostu kwoty zobowiązania, której 136 pkt 5 ustawy świadczeniach, i stawki kapitacyjnej, zgodnie 10c, nie stanowi podstawy roszczeń wobec Narodowego Funduszu Zdrowia lub Skarbu Państwa bądź innej jednostki sektora finansów publicznych.
+
+#### Rozdział 5 Kontrola wykonywania obowiązków przez świadczeniodawców
 
 **Art. 10h.**
 
-1. Kontrolę wykonywania obowiązku, 40% kwoty, októrą wzrosło zobowiąktórym 10d 10g, spra- zanie, na wzrost wynagrodzeń osób wuje Państwowa Inspekcja Pracy na zatrudnionych tym zakładzie. zasadach określonych wustawie zdnia 13 kwietnia 2007 Państwowej 2. Wykonywanie obowiązku, którym Inspekcji Pracy (Dz. U. 89, 589). 1, następuje uzgodnieniu zakładową organizacją
+1. Kontrolę wykonywania obowiązku, którym 10d i 10g, sprawuje Państwowa Inspekcja Pracy na zasadach określonych ustawie dnia 13 kwietnia 2007 r. Państwowej Inspekcji Pracy (Dz.U. Nr 89, poz. 589).
 
-2. W przypadku stwierdzenia naruszenia związkową. W przypadku gdy saprzez świadczeniodawcę wykonywania modzielnym publicznym zakładzie
+2. W przypadku stwierdzenia naruszenia przez świadczeniodawcę wykonywania obowiązku, którym 10d i 10g, Państwowa Inspekcja Pracy wydaje, na zasadach określonych ustawie dnia 13 kwietnia 2007 r. Państwowej Inspekcji Pracy, nakaz usunięcia stwierdzonych uchybień ustalonym nakazie terminie. sadach określonych ustawie dnia 13 kwietnia 2007 r. Państwowej Inspekcji Pracy.”;
 
-4. W przypadku nieuzgodnienia wykonania obowiązku, którym 1, terminie 30 dni od przekazania propozycji sposobu jego wykonania, decyzję podejmuje kierownik samodzielnego publicznego zakładu opieki zdrowotnej.
+- **7)** po 10i dodaje się oznaczenie rozdziału 7 i tytuł brzmieniu: „Przepis końcowy”;
+- **8)** załączniku do ustawy:
+    - **a)** pkt 3 otrzymuje brzmienie: „3. Lecznictwo szpitalne - 0,65.”,
+    - **b)** pkt 8 otrzymuje brzmienie: „8. Lecznictwo uzdrowiskowe – 0,40.”.
 
-5. wzrostu kwoty zobowiązania Narodowego Funduszu Zdrowia, której 136 pkt 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych wumowach udzielanie świadczeń opieki zdrowotnej, których przedmiotem jest wyłącznie stosowanie leków rozumieniu tej ustawy, nie stosuje się przepisów 1—4.
+**Art. 2.** W ustawie dnia 30 sierpnia 1991 r. zakładach opieki zdrowotnej (Dz.U. 2007 r. Nr 14, poz. 89, Nr 123, poz. 849, Nr 166, poz. 1172 i Nr 176, poz. 1240) wprowadza się następujące zmiany:
 
-6. wzrostu rocznej stawki kapitacyjnej określonej przepisach wydanych na podstawie 137 10 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych stosuje się przepisy 1—4.
-
-**Art. 59b.** wzrostu wynagrodzeń, októrym mowa 59a, nie stosuje się wskaêników przyrostu przeciętnego miesięcznego wynagrodzenia, których ustawie 16 grudnia 1994 negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz zmianie niektórych ustaw (Dz. U. 1995 1, 2, póên. zm. ).”;
+**Art. 59b.** Do wzrostu wynagrodzeń, którym 59a, nie stosuje się wskaźników przyrostu przeciętnego miesięcznego wynagrodzenia, których ustawie dnia 16 grudnia 1994 r. negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz zmianie niektórych ustaw (Dz.U. 1995 r. Nr 1, poz. 2, późn. zm. ).”;
 
 **Art. 70j.**
 
-1. Kierownik samodzielnego publicznego zakładu opieki zdrowotnej, który wbrew obowiązkowi, którym 59a, nie przekazuje środków na wzrost wynagrodzeń sposób określony tym przepisie, podlega karze grzywny.
+1. Kierownik samodzielnego publicznego zakładu opieki zdrowotnej, który wbrew obowiązkowi, którym 59a, nie przeArt. 3. Do dnia 8 października 2007 r. dyrektorzy oddziałów wojewódzkich Funduszu dokonają jednostronnie zmiany umów zawartych na 2007 r., zgodnie 4a ust. 1 ustawy, której 1, brzmieniu nadanym niniejszą ustawą. Do zmiany tych umów nie stosuje się przepisu 158 ustawy dnia 27 sierpnia 2004 r. świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-2. Âciganie wykroczenia, którym 1, następuje na zasadach określonych ustawie 13 kwietnia 2007 Państwowej Inspekcji Pracy.”.
+**Art. 4.** Przepisy 10c i 10f ustawy, której 1, brzmieniu nadanym niniejszą ustawą, stosuje się również do zmiany umów zawartych przed dniem 1 stycznia 2008 r. albo 2008 r., na okres dłuższy niż rok, części realizowanej 2008 r. i latach następnych. Do zmiany tych umów nie stosuje się przepisu 158 ustawy dnia 27 sierpnia 2004 r. świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-**Art. 3.** 8 paêdziernika 2007 dyrektorzy oddziałów wojewódzkich Funduszu dokonają jednostronnie zmiany umów zawartych na 2007 r., 4a ustawy, której 1, brzmieniu nadanym niniejszą ustawą. zmiany tych umów nie stosuje się przepisu 158 zdnia 27 sierpnia 2004 oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych. ŃArt. 67b. 1. Kontrolę wykonywania obowiązku, którym 59a, przepro- Art. 4. Przepisy 10c 10f ustawy, której mowadza: wa 1, brzmieniu nadanym niniejszą ustawą, stosuje się również do zmiany umów zawartych przed
+**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem 1 pkt 4, 5 i 8 oraz 3, które wchodzą życie dniem 1 października 2007 r.
 

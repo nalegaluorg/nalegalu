@@ -8,9 +8,12 @@ pos: 183
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 lutego 2020 r.
+# o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych
+
+*USTAWA z dnia 20 grudnia 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +27,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/183/text.pdf) |
 
-Poz. 183
-USTAWA z dnia 20 grudnia 2019 r.
-o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych
-
 **Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm. ) w art. 17 w ust. 1 w pkt 59 kropkę zastępuje się średnikiem i dodaje się pkt 60 w brzmieniu: „60) świadczenia, w szczególności dotacje oraz kwoty umorzonych pożyczek, otrzymane ze środków Funduszu Niskoemisyjnego Transportu.”.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

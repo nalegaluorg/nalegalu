@@ -8,9 +8,10 @@ pos: 526
 act_type: Konwencja
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# 526 KONWENCJA O PRAWACH przez Zgromadzenie Ogólne Narodów W imieniu Rzeczypospolitej PREZYDENT RZECZYPOSPOLITEJ podaje do powszechnej W dniu 20 listopada 1989 r. przez Zgromadzenie o prawach dziecka w brzmieniu: KONWENCJA O PRAWACH DZIECKA niniejszej konwencji, zgodnie z zasadami zawartymi w Karcie Narodów Zjednoczonych uznanie wrodzonej oraz równych i niezbywalnych praw wszystkich rodziny ludzkiej jest oraz poko ju na na uwadze, ludy Narodów Zjednoczonych w Karcie w podstawowe prawa oraz w i jednostki ludzkiej i po oraz lepszego poziomu w warunkach Narody Zjednoczone w Powszechnej De klaracji Praw oraz w Paktach Praw i wiek uprawniony jest do korzystania z zawartych w nich praw i bez na jakiekolwiek z rasowej, koloru skóry, religii, politycznych lub innych, narodowego lub cznego pochodzenia, cenzusu urodzenia oraz jakichkolwiek innych, w Powszechnej Deklaracji Praw wieka Narody Zjednoczone dzieci prawo do szczególnej troski i pomocy, przekonanie, rodzina jako podstawowa komórka oraz naturalne rozwoju i dobra wszystkich jej a w dzieci, powinna otoczona oraz wsparciem, aby w zakresie swoje w dziecko dla i harmonijnego rozwo ju swojej powinno w sku rodzinnym, w atmosferze i zrozumienia, dziecko powinno w przygotowa ne do w jako indywidualnie towana jednostka, wychowana w duchu zawartych w Karcie Narodów Zjednoczonych, a w w du chu pokoju, tolerancji, i solida na uwadze, potrzeba otoczenia dziecka szcze w Genewskiej Deklaracji Praw Dziecka z 1924 r. oraz Deklaracji Praw Dziecka przez Zgromadzenie Ogólne 20 listopada 1959 r. i uznanej w Ogól nej Deklaracji Praw w Pakcie Praw Obywatelskich i Politycznych (w w ar 23 i 24). w Pakcie Praw Gos podarczych, i Kulturalnych (w w artykule 10). jak w statutach i stosownych doku mentach wyspecjalizowanych agencji i organizacji zapewnieniem dobrobytu dzie ciom, na uwadze, - jak wskazano w Deklaracji Praw Dziecka - "dziecko, z uwagi na oraz wymaga szczególnej opieki i troski, w tym ochrony prawnej, zarówno przed, jak i po urodze niu" postanowienia Deklaracji Zasad cznych i Prawnych do ochrony i dobra dziecka, ze szczególnym odniesieniem do umieszczania w ro dzinie oraz adopcji w wymiarze krajowym i dzynarodowym, podstawowe minimum zasad Narodów Zje dnoczonych do wymierzania wo bec nieletnich (..Zasady oraz o ochro nie kobiet i dzieci w sytuacjach nadzwyczajnych i w czasie konfliktów zbrojnych, we wszystkich krajach dzieci w trudnych warunkach i one szcze gólnej troski.
+# KONWENCJA O PRAWACH DZIECKA przyjęta przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 20 listopada 1989 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,316 +25,220 @@ domain: null
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911200526) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/526/text.pdf) |
 
-w sposób pod znaczenie tradycji i kulturowych narodu dla ochrony i har monijnego rozwoju dziecka, dla popra wy warunków dzieci w kraju, szczególnie w krajach co I 1 W rozumieniu niniejszej konwencji "dziecko" oznacza w wieku osiemnastu lat, chyba zgodnie z prawem do dziecka uzyska ono 2
-1. w granicach swojej jurysdykcji i prawa zawarte w niniejszej konwencji wobec dziecka, bez jakiejkolwiek dys kryminacji, od rasy, koloru skóry, religii, politycznych, statusu cenzusu urodzenia lub jakiegokolwiek innego tego dziecka albo jego rodziców opiekuna prawnego.
-Considerant fant avoir dans I'esprit Unies, et tolerance, Ayant protection Declaration dans la I'Assemblee reconnue I'homme, politiques international tureis (en instruments organisations de I'enfant, Ayant Declaration manque protection protection sance", Rappelant principes au bien-etre pratiques les plans minima justice pour sur la protection d'urgence Reconnaissant enfants ficiles, et attention Tenant valeurs culturelles developpement Reconnaissant tionale pour dans tous developpement, Sont Au sensde tout et re majorite est applicable.
-1. Les sont enonces tout enfant aucune, couleur, au autre de leur origine de fortune, autre situation.
-2. kroki dla zapewnienia ochrony dziecka przed wszelkimi formami dyskryminacji lub karania ze na status prawny, lub przekonania religijne ro dziców dziecka, opiekunów prawnych lub rodziny.
-3
-1. We wszystkich dzieci: pode jmowanych przez publiczne lub prywatne instytucje opieki administracyjne lub ustawoda wcze, najlepsze zabezpieczenie interesów dziecka.
-2. na rzecz zapewnienia dziec ku ochrony i opieki w takim stopniu, w jakim jest to dla jego dobra, pod prawa i jego rodziców, opiekunów prawnych lub innych osób prawnie za nie odpowiedzialnych, i w tym celu wszelkie kroki ustawodawcze oraz administra cyjne.
-3. aby instytucje, oraz inne jednostki odpowiedzialne za lub dzieci do norm ustanowionych przez kompetentne w w dziedzinach zdrowia, jak doboru kadr tych instytucji oraz odpowiedniego nadzoru.
-4 wszelkie ustawodawczo-administracyjne oraz inne dla realizacji praw uznanych w niniejszej konwencji. do praw ekono micznych, socjalnych oraz kulturalnych takie przy maksymalnym wykorzy staniu w ich dyspozycji oraz - gdy to konieczne - w ramach 5 pra wo i rodziców lub, w odpowiednich przypadkach, dalszej rodziny lub zgodnie z miejs cowymi obyczajami, opiekunów prawnych lub innych osób prawnie odpowiedzialnych za dziecko, do zapewnienia mu, w sposób rozwojowi jego ukierunkowania go i udzielenia mu rad przy korzystaniu przez nie z praw przyznanych mu w niniejszej konwencji.
-6
-1. dziecko ma nie zbywalne prawo do
-2. w maksymal nym zakresie, warunki i rozwoju dziecka.
-7
-1. po urodzeniu dziecka zostanie dzony jego akt urodzenia, a dziecko od momentu urodzenia prawo do otrzymania imienia, uzyskania obywa telstwa oraz, to prawo do poznania swoich rodziców i pozostawania pod ich
-2. aby te prawa zgodne z ich prawem oraz z ich wymi w tej dziedzinie, w w przypadkach, gdyby brak tych dziecko 8
-1. na celu poszanowanie prawa dziecka do zachowania jego w tym obywatelstwa, nazwiska, stosunków rodzinnych, zgodnych z prawem, z bezprawnych ingerencji.
-2. W przypadku gdy dziecko bezprawnie po zbawione lub wszystkich elementów swojej pomoc i w celu jak najszybszego przywrócenia jego 9
-1. aby dziecko nie oddzielone od swoich rodziców wbrew ich woli, z niem przypadków, gdy kompetentne nadzorowi zgodnie z prawem oraz stosowanym n iem, takie oddziele nie jest konieczne ze na najlepiej interesy dziecka. Taka decyzja konieczna szczególnie w przypadkach lub ze strony rodziców, gdy z rodziców mieszka oddzielnie, a do miejsca pobytu lub zamieszkania dziec ka.
-2. W podejmowanym stosownie do 1 niniejszego wszystkim zainteresowanym stronom uczestnictwo w tym niu oraz przez nie swoich opinii.
-3. prawo dziecka od separowanego od jednego lub obojga rodziców do utrzy mywania regularnych stosunków osobistych i nich kontaktów z obojgiem rodziców, z przypad ków, gdy jest to sprzeczne z najlepiej interesem dziecka.
-4. W przypadku gdy tego rodzaju separacja jest wyni kiem przez takiego jak zatrzymanie, wygnanie, deportacja lub (w tym spowodowana podczas zatrzymania przez jednego lub obojga rodziców dziecka lub dziecka, zapewni, na rodzicom dziecka, dziecku lub - to - innemu rodziny podanie istotnych informacji miejsca pobytu nieobecnego (ych) ka (ów) rodziny, i tej informacji nie przyniesie szkody dobru dziecka.
-Ponadto aby wniesienie takiej samo przez nie ujemnych dla osoby (osób), której(ych) dotyczy.
-10
-1. Zgodnie z z postanowienia 9 1 wnioski przez dziecko lub przez jego rodziców do wjazdu lub opuszczenia w celu rodziny rozpatrywane przez w sposób przychylny, humanitarny i w szybkim trybie. ponadto aby takiego wniosku nie za ujemnych skutków dla wnioskodawców oraz ich rodzin.
-2. Dziecko, którego rodzice w stwach, prawo do utrzymywania regularnych, z nadzwyczajnych, osobistych sto sunków i kontaktów z obojgiem rodziców.
-W tym celu oraz zgodnie z
-1. Les I'enfant de nom et ses loi, sans ingerence
-2. Si constitutifs parties doivent appropriees, ment que
-1. Les separe de competentes et conformement separation Une decision particuliers, negligent decision I'enfant.
-2. Dans article, toutes ssibilite de leurs vues.
-3. Les de ses deux lierement avec ses superieur
-4. Lorsque Etat partie, I'expulsion cause, survenue de I'un d'eux, aux parents, familie les le membre divulgation bien-etre que la presentation -meme de personnes
-1. Conformement parties en faite par un partie ou consideree humanite que la presentation consequences les membres
-2. Un differents tionnelles, reguliers a I'obligation z postanowienia 9 2 -Strony prawo dziecka oraz jego rodziców do opuszczenia kraju, w tym oraz po wrotu do ich kraju. Prawo do opuszczenia dowol nego kraju tylko takim ograniczeniom, które przez prawo i które dla ochrony narodowego, publicznego, zdro wia i lub praw i swobód innych osób, zgodnych z prawami uznanymi w niniejszej konwencji.
-11
-1. kroki dla zwal czania nielegalnego transferu dzieci oraz ich nielegalnego wywozu za
-2. W tym celu zawiera nie odpowiednich umów dwustronnych lub wielostronnych albo do umów.
-12
-1. dziecku, które jest zdol ne do swych prawo do swobodnego we wszystkich sprawach dziecka, je z stosownie do wieku oraz dziecka.
-2. W tym celu dziecko w wypowiadania w po i administracyjnym, dzie cka, lub za przedstawiciela odpowiedniego organu, zgodnie z zasadami procedura lnymi prawa 13
-1. Dziecko prawo do swobodnej wypo wiedzi; prawo to ma poszukiwania, otrzy mywania i przekazywania informacji oraz idei wszelkiego rodzaju, bez na granice, w formie ustnej, pisemnej za druku, w formie artystycznej lub z wykorzys taniem innego przekazu wyboru dziecka.
-2. Wykonywanie tego prawa pewnym ograniczeniom, lecz tylko takim, które przewidziane przez prawo i które konieczne:
+PREAMBUŁA Państwa-Strony niniejszej konwencji, uważając, że zgodnie z zasadami zawartymi w Karcie Narodów Zjednoczonych uznanie wrodzonej godności oraz równych i niezbywalnych praw wszystkich członków rodziny ludzkiej jest podstawą wolności, sprawiedliwości oraz pokoju na świecie, mając na uwadze, że ludy Narodów Zjednoczonych potwierdziły w Karcie swą wiarę w podstawowe prawa człowieka oraz w godność i wartość jednostki ludzkiej i postanowiły sprzyjać postępowi społecznemu oraz osiąganiu lepszego poziomu życia w warunkach większej wolności, uznając, że Narody Zjednoczone w Powszechnej Deklaracji Praw Człowieka oraz w Międzynarodowych Paktach Praw Człowieka zgodziły się i proklamowały, iż każdy człowiek uprawniony jest do korzystania z zawartych w nich praw i wolności, bez względu na jakiekolwiek różnice wynikające z przynależności rasowej, koloru skóry, płci, języka, religii, poglądów politycznych lub innych, narodowego lub społecznego pochodzenia, cenzusu majątkowego, urodzenia oraz jakichkolwiek innych, przypominając, że w Powszechnej Deklaracji Praw Człowieka Narody Zjednoczone proklamowały, iż dzieci mają prawo do szczególnej troski i pomocy, wyrażając przekonanie, że rodzina jako podstawowa komórka społeczeństwa oraz naturalne środowisko rozwoju i dobra wszystkich jej członków, a w szczególności dzieci, powinna być otoczona niezbędną ochroną oraz wsparciem, aby mogła w pełnym zakresie wypełniać swoje obowiązki w społeczeństwie, uznając, że dziecko dla pełnego i harmonijnego rozwoju swojej osobowości powinno wychowywać się w środowisku rodzinnym, w atmosferze szczęścia, miłości i zrozumienia, uważając, że dziecko powinno być w pełni przygotowane do życia w społeczeństwie jako indywidualnie ukształtowana jednostka, wychowana w duchu ideałów zawartych w Karcie Narodów Zjednoczonych, a w szczególności w duchu pokoju, godności, tolerancji, wolności, równości i solidarności, mając na uwadze, że potrzeba otoczenia dziecka szczególną troską została wyrażona w Genewskiej Deklaracji Praw Dziecka z 1924 r. oraz Deklaracji Praw Ogólnej Deklaracji Praw Człowieka, w Międzynarodowym Pakcie Praw Obywatelskich i Politycznych (w szczególności w artykułach 23 i 24), w Międzynarodowym Pakcie Praw Gospodarczych, Społecznych i Kulturalnych (w szczególności w artykule 10), jak również w statutach i stosownych dokumentach wyspecjalizowanych agencji i międzynarodowych organizacji zajmujących się zapewnieniem dobrobytu dzieciom, mając na uwadze, że - jak wskazano w Deklaracji Praw Dziecka - "dziecko, z uwagi na swoją niedojrzałość fizyczną oraz umysłową, wymaga szczególnej opieki i troski, w tym właściwej ochrony prawnej, zarówno przed, jak i po urodzeniu", przypominając postanowienia Deklaracji Zasad Społecznych i Prawnych odnoszących się do ochrony i dobra dziecka, ze szczególnym odniesieniem do umieszczania w rodzinie zastępczej oraz adopcji w wymiarze krajowym i międzynarodowym, podstawowe minimum zasad Narodów Zjednoczonych odnośnie do wymierzania sprawiedliwości wobec nieletnich ("Zasady Pekińskie") oraz Deklarację o ochronie kobiet i dzieci w sytuacjach nadzwyczajnych i w czasie konfliktów zbrojnych, uznając, że we wszystkich krajach świata są dzieci żyjące w wyjątkowo trudnych warunkach i że wymagają one szczególnej troski, biorąc w należyty sposób pod uwagę znaczenie tradycji i wartości kulturowych każdego narodu dla ochrony i harmonijnego rozwoju dziecka, uznając wagę międzynarodowej współpracy dla poprawy warunków życia dzieci w każdym kraju, szczególnie w krajach rozwijających się, uzgodniły, co następuje:
+Artykuł 2
+1. Państwa-Strony w granicach swojej jurysdykcji będą respektowały i gwarantowały prawa zawarte w niniejszej konwencji wobec każdego dziecka, bez jakiejkolwiek dyskryminacji, niezależnie od rasy, koloru skóry, płci, języka, religii, poglądów politycznych, statusu majątkowego, niepełnosprawności, cenzusu urodzenia lub jakiegokolwiek innego tego dziecka albo jego rodziców bądź opiekuna prawnego.
+2. Państwa-Strony będą podejmowały właściwe kroki dla zapewnienia ochrony dziecka przed wszelkimi formami dyskryminacji lub karania ze względu na status prawny, działalność, wyrażane poglądy lub przekonania religijne rodziców dziecka, opiekunów prawnych lub członków rodziny.
+1. We wszystkich działaniach dotyczących dzieci, podejmowanych przez publiczne lub prywatne instytucje opieki społecznej, sądy, władze administracyjne lub ciała ustawodawcze, sprawą nadrzędną będzie najlepsze zabezpieczenie interesów dziecka.
+2. Państwa-Strony działają na rzecz zapewnienia dziecku ochrony i opieki w takim stopniu, w jakim jest to niezbędne dla jego dobra, biorąc pod uwagę prawa i obowiązki jego rodziców, opiekunów prawnych lub innych osób prawnie za nie odpowiedzialnych, i w tym celu będą podejmowały wszelkie właściwe kroki ustawodawcze oraz administracyjne.
+3. Państwa-Strony czuwają, aby instytucje, służby oraz inne jednostki odpowiedzialne za opiekę lub ochronę dzieci dostosowały się do norm ustanowionych przez kompetentne władze, w szczególności w dziedzinach bezpieczeństwa, zdrowia, jak również dotyczących właściwego doboru kadr tych instytucji oraz odpowiedniego nadzoru.
+Artykuł 4 Państwa-Strony podejmą wszelkie właściwe działania ustawodawczoadministracyjne oraz inne dla realizacji praw uznanych w niniejszej konwencji. Odnośnie do praw ekonomicznych, socjalnych oraz kulturalnych Państwa-Strony będą podejmowały takie działania przy maksymalnym wykorzystaniu środków będących w ich dyspozycji oraz - gdy okaże się to konieczne - w ramach współpracy międzynarodowej.
+Artykuł 5 Państwa-Strony będą szanowały odpowiedzialność, prawo i obowiązek rodziców lub, w odpowiednich przypadkach, członków dalszej rodziny lub środowiska, zgodnie z miejscowymi obyczajami, opiekunów prawnych lub innych osób prawnie odpowiedzialnych za dziecko, do zapewnienia mu, w sposób odpowiadający rozwojowi jego zdolności, możliwości ukierunkowania go i udzielenia mu rad przy korzystaniu przez nie z praw przyznanych mu w niniejszej konwencji.
+Artykuł 6
+1. Państwa-Strony uznają, że każde dziecko ma niezbywalne prawo do życia.
+2. Państwa-Strony zapewnią, w możliwie maksymalnym zakresie, warunki życia i rozwoju dziecka.
+Artykuł 7
+1. Niezwłocznie po urodzeniu dziecka zostanie sporządzony jego akt urodzenia, a dziecko od momentu urodzenia będzie miało prawo do otrzymania imienia, uzyskania obywatelstwa oraz, jeśli to możliwe, prawo do poznania swoich rodziców i pozostawania pod ich opieką.
+2. Państwa-Strony zapewnią, aby te prawa stały się zgodne z ich prawem wewnętrznym oraz z ich międzynarodowymi zobowiązaniami w tej dziedzinie, w szczególłoby bezpaństwowcem.
+Artykuł 8
+1. Państwa-Strony podejmują działania mające na celu poszanowanie prawa dziecka do zachowania jego tożsamości, w tym obywatelstwa, nazwiska, stosunków rodzinnych, zgodnych z prawem, z wyłączeniem bezprawnych ingerencji.
+2. W przypadku gdy dziecko zostało bezprawnie pozbawione części lub wszystkich elementów swojej tożsamości, Państwa-Strony okażą właściwą pomoc i ochronę w celu jak najszybszego przywrócenia jego tożsamości.
+Artykuł 9
+1. Państwa-Strony zapewnią, aby dziecko nie zostało oddzielone od swoich rodziców wbrew ich woli, z wyłączeniem przypadków, gdy kompetentne władze, podlegające nadzorowi sądowemu, zdecydują zgodnie z obowiązującym prawem oraz stosowanym postępowaniem, że takie oddzielenie jest konieczne ze względu na najlepiej pojęte interesy dziecka. Taka decyzja może być konieczna szczególnie w przypadkach nadużyć lub zaniedbań ze strony rodziców, gdy każde z rodziców mieszka oddzielnie, a należy podjąć decyzję odnośnie do miejsca pobytu lub zamieszkania dziecka.
+2. W każdym postępowaniu podejmowanym stosownie do ustępu 1 niniejszego artykułu należy umożliwić wszystkim zainteresowanym stronom uczestnictwo w tym postępowaniu oraz wyrażenie przez nie swoich opinii.
+3. Państwa-Strony będą szanowały prawo dziecka odseparowanego od jednego lub obojga rodziców do utrzymywania regularnych stosunków osobistych i bezpośrednich kontaktów z obojgiem rodziców, z wyjątkiem przypadków, gdy jest to sprzeczne z najlepiej pojętym interesem dziecka.
+4. W przypadku gdy tego rodzaju separacja jest wynikiem działania podjętego przez Państwo-Stronę, takiego jak zatrzymanie, uwięzienie, wygnanie, deportacja lub śmierć (w tym śmierć spowodowana jakąkolwiek przyczyną podczas zatrzymania przez państwo) jednego lub obojga rodziców dziecka lub dziecka, państwo zapewni, na żądanie, rodzicom dziecka, dziecku lub - jeżeli będzie to właściwe - innemu członkowi rodziny podanie istotnych informacji dotyczących miejsca pobytu nieobecnego(ych) członka(ów) rodziny, jeśli treść tej informacji nie przyniesie szkody dobru dziecka. Ponadto Państwa-Strony zapewnią, aby wniesienie takiej prośby samo przez się nie pociągało żadnych ujemnych następstw dla osoby (osób), której(ych) dotyczy.
+Artykuł 10
+1. Zgodnie z wynikającym z postanowienia artykułu 9 ustęp 1 obowiązkiem PaństwStron wnioski składane przez dziecko lub przez jego rodziców odnośnie do wjazdu lub opuszczenia Państwa-Strony w celu łączenia rodziny będą rozpatrywane przez Państwa-Strony w sposób przychylny, humanitarny i w szybkim trybie.
+Państwa-Strony ponadto zapewnią, aby złożenie takiego wniosku nie pociągało za sobą ujemnych skutków dla wnioskodawców oraz członków ich rodzin.
+do utrzymywania regularnych, z wyjątkiem okoliczności nadzwyczajnych, osobistych stosunków i bezpośrednich kontaktów z obojgiem rodziców. W tym celu oraz zgodnie z obowiązkiem Państw-Stron wynikającym z postanowienia artykułu 9 ustęp 2 Państwa-Strony będą respektowały prawo dziecka oraz jego rodziców do opuszczenia każdego kraju, w tym własnego, oraz powrotu do ich własnego kraju. Prawo do opuszczenia dowolnego kraju będzie podlegać tylko takim ograniczeniom, które są określone przez prawo i które są niezbędne dla ochrony bezpieczeństwa narodowego, porządku publicznego, zdrowia i moralności społecznej lub praw i swobód innych osób, zgodnych z pozostałymi prawami uznanymi w niniejszej konwencji.
+Artykuł 11
+1. Państwa-Strony będą podejmowały kroki dla zwalczania nielegalnego transferu dzieci oraz ich nielegalnego wywozu za granicę.
+2. W tym celu Państwa-Strony będą popierały zawieranie odpowiednich umów dwustronnych lub wielostronnych albo przystępowanie do istniejących już umów.
+Artykuł 12
+1. Państwa-Strony zapewniają dziecku, które jest zdolne do kształtowania swych własnych poglądów, prawo do swobodnego wyrażania własnych poglądów we wszystkich sprawach dotyczących dziecka, przyjmując je z należytą wagą, stosownie do wieku oraz dojrzałości dziecka.
+2. W tym celu dziecko będzie miało w szczególności zapewnioną możliwość wypowiadania się w każdym postępowaniu sądowym i administracyjnym, dotyczącym dziecka, bezpośrednio lub za pośrednictwem przedstawiciela bądź odpowiedniego organu, zgodnie z zasadami proceduralnymi prawa wewnętrznego.
+Artykuł 13
+1. Dziecko będzie miało prawo do swobodnej wypowiedzi; prawo to ma zawierać swobodę poszukiwania, otrzymywania i przekazywania informacji oraz idei wszelkiego rodzaju, bez względu na granice, w formie ustnej, pisemnej bądź za pomocą druku, w formie artystycznej lub z wykorzystaniem każdego innego środka przekazu według wyboru dziecka.
+2. Wykonywanie tego prawa może podlegać pewnym ograniczeniom, lecz tylko takim, które są przewidziane przez prawo i które są konieczne:
 a) dla poszanowania praw lub reputacji innych osób albo
-b) do ochrony narodowego lub ku publicznego, zdrowia albo nej.
-14
-1. prawo dziecka do swobody sumienia i wyznania.
-2. prawa i zki rodziców lub, w odpowiednich przypadkach, opiekunów prawnych do ukierunkowania dziecka w korzys taniu z jego prawa w sposób zgodny z dziecka.
-3. Swoboda wyznawanej religii lub przeko tylko takim ograniczeniom, które przewidziane prawem i konieczne do ochrony stwa narodowego i publicznego, zdrowia lub mora podstawowych praw i in nych osób.
-15
-1. prawa dziecka do swobod nego zrzeszania oraz pokojowych
-2. Na wykonywanie tych praw nie jakiekolwiek ograniczenia, z tych, które zgodne z prawem i które konieczne w demo kratycznym do zapewnienia interesów na rodowego, publicznego, ochrony zdrowia lub ochrony praw i innych osób.
-16
-1. dziecko nie arbitralnej lub bezprawnej ingerencji w jego prywatnego, rodzin nego lub domowego czy w ani bezprawnym zamachom na jego honor i
+b) do ochrony bezpieczeństwa narodowego lub porządku publicznego, bądź zdrowia albo moralności społecznej.
+Artykuły 14
+1. Państwa-Strony będą respektowały prawo dziecka do swobody myśli, sumienia i wyznania.
+2. Państwa-Strony będą respektowały prawa i obowiązki rodziców lub, w odpowiednich przypadkach, opiekunów prawnych odnośnie do ukierunkowania dziecka w dziecka.
+3. Swoboda wyrażania wyznawanej religii lub przekonań może podlegać tylko takim ograniczeniom, które są przewidziane prawem i są konieczne do ochrony bezpieczeństwa narodowego i porządku publicznego, zdrowia lub moralności społecznej bądź podstawowych praw i wolności innych osób.
+Artykuł 15
+1. Państwa-Strony uznają prawa dziecka do swobodnego zrzeszania się oraz wolności pokojowych zgromadzeń.
+2. Na wykonywanie tych praw nie mogą być nakładane jakiekolwiek ograniczenia, z wyjątkiem tych, które są zgodne z prawem i które są konieczne w społeczeństwie demokratycznym do zapewnienia interesów bezpieczeństwa narodowego, porządku publicznego, ochrony zdrowia bądź moralności społecznej lub ochrony praw i wolności innych osób.
+Artykuł 16
+1. Żadne dziecko nie będzie podlegało arbitralnej lub bezprawnej ingerencji w sferę jego życia prywatnego, rodzinnego lub domowego czy w korespondencję ani bezprawnym zamachom na jego honor i reputację.
 2. Dziecko ma prawo do ochrony prawnej przeciwko tego rodzaju ingerencji lub zamachom.
-17 przez dki masowego przekazu i aby dziecko do informacji z krajowych i szczególnie do tych, które na uwadze jego dobro w wymiarze duchowym i moralnym oraz jego zdrowie fizyczne i psychicz ne. W tym celu
-a) masowego przekazu do rozpowszech niania informacji i korzystnych dla dziecka w wymiarze oraz kulturalnym, zgodnie z du chem 29;
-b) do rozwoju w dziedzinie wytwarzania, wymiany oraz rozpowszech niania tego rodzaju informacji i cych z kulturowych krajowych oraz
-c) do wydawania i rozpowszechniania dla dzieci;
-d) masowego przekazu, aby w szczególny sposób potrzeby dzieci cych do narodowych lub do rdzennej
-e) do rozwijania odpowiednich kierunków dzia dla ochrony dzieci przed informacjami i materia szkodliwymi z punktu widzenia ich dobra, na postanowienia 13 i 18.
-18
-1. wszelkie starania dla uznania zasady, oboje rodzice wspól za wychowanie i rozwój dziecka. Ro dzice lub w przypadkach opiekunowie prawni za wychowanie i rozwój dziecka. Jak najlepsze zabezpieczenie interesów dziecka ma przedmiotem ich troski.
-2. W celu zagwarantowania i popierania praw zawar tych w niniejszej konwencji
-1.
-a la liberte
-2.
-seules necessaires la securite public, les droits
-1.
-illegales correspondance, reputation.
-2.
-immixtions Les tion remplie acces·a pomoc rodzicom oraz opiekunom prawnym sources ceux qui moral ainsi Etats parties:
-a) Encouragent materiels pour
-b) Encouragent produire, materiels culturelles,
-c) Encouragent enfants;
-d) Encouragent des appartenant
-e) Favorisent ries materiels dispositions
-1.
-reconnaissance une responsabilite et d'assurer I'enfant chef aux legaux.
-superieur
-2.
-presente propriee w wykonywaniu przez nich z wy chowywaniem dzieci oraz rozwój instytucji, za i w zakresie opieki nad
-3. wszelkie ciwe kroki dla zapewnienia dzieciom rodziców prawa do korzystania z instytucji i w zakresie opieki nad do których one uprawnione.
-19
-1. wszelkie ciwe kroki w dziedzinie ustawodawczej, administracyjnej, oraz wychowawczej dla ochrony dziecka przed wszelkimi formami przemocy fizycznej psychicznej, krzywdy lub zaniedbania traktowania lub wyzys ku, w tym wykorzystywania w celach seksualnych, dzieci pod rodzica(ów), opiekuna(ów) pra wnego(ych) lub innej osoby nad dziec kiem.
-2. Tego rodzaju ochronne powinny tam gdzie jest to skuteczne w celu stworzenia programów socjalnych dla realizacji pomocy dziecku oraz osobom nad dzieckiem, jak innych form prewencyjnych dla ustalania, informowania, wszczynania i prowadzenia powania, notowania wymienionych przypadków nie traktowania dzieci oraz tam, gdzie jest to ciwe 20
-1. Dziecko pozbawione czasowo lub na swego rodzinnego lub gdy ze na swoje dobro nie w tym mia prawo do specjalnej ochrony i pomocy ze strony stwa.
-2. zgodnie ze swym prawem rznym takiemu dziecku
-3. Tego rodzaju opieka in nymi, umieszczenie w rodzinie Kafala w prawie jslamskim, lub - gdy jest to - umiesz czenie w odpowiedniej instytucji do opieki nad Przy wyborze odpowiednich w sposób wskazania w zachowaniu w wychowaniu dziecka oraz jego et nicznej, religijnej, kulturowej i 21 ijlub system adopcji aby dobro dziecka celem i
-a) aby adopcja dziecka tylko z upo kompetentnych które decydo - zgodnie z prawem i niem oraz na podstawie wszelkich stosownych i wiary godnych informacji - o tym, adopcja jest dopuszczal na ze na dziecka w odniesieniu do rodziców, krewnych i opiekunów prawnych, oraz - w przypadku gdy jest to wymagane - aby osoby zaintere sowane na po przep rowadzeniu z nimi konsultacji;
-b) z przeniesieniem dziecka do innego kraju jako opieki nad dzieckiem, nie ono umieszczone w rodzinie czej lub adopcyjnej albo nie mu w den inny odpowiedni sposób opieki w kraju jego po chodzenia;
-c) o to, aby dziecko adoptowane do innego kraju zabezpieczenie gwarancyjne i poziom od powiednie do tych, które zapewnione w przypad ku adopcji krajowej;
-d) wszelkie kroki dla zapewnienia, aby w przypadku adopcji do innego kraju osoby w niej nie z tego powodu niestosow nych finansowych;
-c) celów niniejszego tam gdzie jest to stosowne, przez zawieranie dwustronnych lub wielostronnych lub umów, a w ich ramach do zapewnienia, aby umieszczenie dziecka w innym kraju za kom petentnych lub organów.
-22
-1. kroki dla zapew nienia, aby dziecko, które ubiega o status jest za w odpowiednich przepi sów prawa lub stosowa nego w przypadku gdy samo lub mu rodzice inna osoba, odpowie i pomoc przy korzystaniu z od powiednich praw zawartych w niniejszej konwencji lub in nych aktach praw ka oraz innych dokumentach w sprawach humanitarnych, których wspomniane Stronami.
-2. Wtym celu wstopniu,jaki za w po dejmowanych przez Narody Zjednoczone i inne kompetentne organizacje oraz z Narodami Zjednoczonymi, dla udzielenia ochrony i pomocy takiemu dziecku oraz odnalezienia jego rodziców lub innych rodziny dziecka w celu uzys kania informacji do ponownego go z W przypadkach gdy nie rodziców ani innych rodziny, dziecko zostanie otoczone jak dziecko pozbawione stale czasowo swojego otoczenia rodzinnego z jakichkolwiek przyczyn, zgodnie z postanowieniami niniejszej konwencji.
-23
-1. dziecko psychicznie lub fizycznie powinno normalnego w warunkach mu god oraz aktywne uczestnictwo dziecka w stwa.
-2. prawo dziecka wnego do szczególnej troski i oraz stosownie do rozszerzanie pomocy udzielanej uprawnionym do niej dzieciom oraz osobom od powiedzialnym za nad nimi. Pomoc taka udzie lana na wniosek tych osób i stosowna do warunków dziecka oraz sytuacji rodziców lub innych osób, które nim
-b) Reconnaissent visagee necessaires d'origine, adoptive
-c) Veillent, ait a celles
-d) Prennent que, renfant les
-e) Poursuivent des lateraux, veiller soient petents.
-1.
-pour qu'un qui est procedures soit seul personne, nitaire voulues reconnaissent ments internationaux caractere
-2.
-jugent necessaire, Nations tales ou avec I'Organisation les enfants rechercher to ut enfant necessaires mere, ni retrouve, dans la autre enfant milieu familial
-1.
-talement pleine et dignite, tion active
-2.
-handicapes assurent, sur demande, ditions adaptee ceux a qui
-3. szczególne potrzeby dziecka nego, pomoc, o której mowa w 2 niniejszego udzielana tam, gdzie jest to z zasobów finansowych rodziców innych osób dzieckiem, i ma aby dziecko skuteczny do nauki, opieki zdrowotnej, opieki rehabilitacyjnej, przygotowania zawodowego oraz rekreacyjnych, realizowany w sposób do przez dziecko jak stopnia zintegrowania ze oraz osobistego rozwoju, w tym jego rozwoju kulturalnego i duchowego.
-4. w duchu wymianie odpowiednich informacji w za kresie profilaktyki zdrowotnej oraz leczenia medycznego, psychologicznego i funkcjonalnego dzieci nych, w tym rozpowszechnianiu i do informacji metod rehabilitacji oraz i przygotowania zawodowego, w celu wom-Stronom poprawy ich i kwalifikacji oraz w celu wzbogacenia ich w tych dziedzinach.
-W z tym potrzeby krajów w sposób szczególny.
-24
-1. prawo dziecka do jak szego poziomu zdrowia i w zakresie leczenia chorób oraz rehabilitacji zdrowotnej.
-do zapewnienia, aby dziecko nie pozba wione prawa do tego rodzaju opieki zdrowotnej.
-2. do realizacji tego prawa, a w kroki w celu:
-a) zmniejszenia noworodków i dzieci;
-b) zapewnienia udzielania koniecznej pomocy oraz opieki zdrowotnej wszystkim dzieciom. ze szczególnym rozwoju podstawowej opieki zdrowot nej;
-c) zwalczania chorób i w tym - w ramach podstawowej opieki zdrowotnej - przez wykorzystanie innymi technik oraz przez dostarczanie odpowiednich produktów i wody pitnej, z niebez oraz ryzyka zanieczyszczenia naturalnego;
-d) zapewnienia matkom opieki zdrowotnej w okresie przed i po urodzeniu dziecka;
-e) zapewnienia, aby wszystkie grupy w szcze rodzice oraz dzieci, informowane i posia do oraz wsparcie w ko rzystaniu z podstawowej wiedzy w zakresie zdrowia dziecka i karmienia, z karmienia higieny i warunków zdrowotnych otoczenia, a zapobiega nia wypadkom;
-f) rozwoju profilaktycznej opieki zdrowotnej, poradnictwa dla rodziców oraz wychowania i w zakresie plano wania rodziny.
-3. wszelkie ciwe i skuteczne kroki na rzecz zniesienia tradycyjnych prak tyk zdrowiu dziecka.
-4. na rzecz sprzyjania i do rozwoju dowej w celu stopniowego realizacji praw uznanych w niniejszym artykule. W z tym szczególna uwaga zwrócona na potrzeby krajów 25 prawo dziecka, umieszczonego przez kompetentne w w celach opieki, ochrony leczenia w zakresie zdrowia fizycznego lub psychicznego, do okresowego leczenia dziecka i wszelkich innych do jego umieszczenia w 26
-1. prawo dzie cka do korzystania z systemu zabezpieczenia w tym socjalnych, oraz nie kroki dla realizacji tego prawa zgodnie z ich prawem
-2. Tam gdzie jest to powinny zabezpieczone z zasobów i warunków dziecka oraz osób odpowiedzialnych za jego utrzymanie, jak wszelkich innych do stosowania realizacji wnios kowanych przez dziecko lub w jego imieniu.
-27
-1. prawo dziecka do poziomu jego rozwojowi fizycz nemu, psychicznemu, duchowemu, moralnemu i nemu.
-2. Rodzice (rodzic) lub inne osoby odpowiedzialne za dziecko za zabezpiecze . nie, w ramach swych finansowych, warun ków do rozwoju dziecka.
-3. zgodnie z warunkami krajowymi oraz odpowiednio do swych kroki dla wspomagania rodziców lub innych osób odpowiedzialnych za dziecko w realizacji tego prawa oraz w razie potrzeby, pomocy materialnej oraz innych programów pomocy, szczególnie w zakresie i
-4. wszelkie kroki dla zapewnienia na utrzymanie dziecka ze strony rodziców lub innych osób za dziecko, zarówno na terenie jak i za W szczególnych wypadkach, gdy osoba za dziecko mieszka w innym dziecko, do do umów lub do zawar cia takich umów, jak do zawierania odpowiednich 28
-1. prawo dziecka do nauki i w celu stopniowego realizowania tego prawa na zasadzie równych szans, w
-4.
-ger la cooperation sivement article.
-besoins Les par les protection examen tance relative
-1.
-beneticier sociales, pleine legislation
-2.
-dees compte et des personnes toute autre tation faite
-1.
-un niveau pement
-2.
-de I'enfant d'assurer, moyens developpement
-3.
-compte leurs moyens, la charge cas de d'appui, vetement
-4.
-riees en taire de ayant une leur territoire des cas I'egard les Etats nationaux tion de
-1.
-I'education, ce droit chances:
-a) nauczanie podstawowe i bez dla wszystkich;
-b) rozwój form szkolnictwa zarówno jak i zawodo wego, je dla dziecka oraz odpowiednie kroki, takie jak wprowadzenie nauczania oraz udzielanie w razie potrzeby pomocy finansowej;
-c) za wszelkich szkolnictwo dla wszystkich na zasa dzie
-d) wszystkim dzieciom informacje i poradnict wo szkolne i zawodowe;
-e) kroki na rzecz zapewnienia regularnego czania do oraz zmniejszenia porzucania nauki.
-2. wszelkie ciwe aby dyscyplina szkolna stoso wana w sposób zgodny z dziecka i z niniej
-3. i w dziedzinie w w celu przyczyniania do zlikwidowania ignorancji i anal fabetyzmu na oraz do wiedzy naukowo-technicznej i nowoczesnych metod nauczania.
-Wtym zakresie potrzeby krajów 29
-1. zgodne, nauka dziecka ukierunkowana na:
-a) rozwijanie w jak naj zakresie talentów oraz i fizycznych dziec ka;
-b) rozwijanie w dziecku szacunku dla praw i podstawowych swobód oraz dla zasad zawartych w Karcie Narodów Zjednoczonych;
-c) rozwijanie w dziecku szacunku dla jego rodziców, jego kulturowej, i dla narodowych kraju, w którym mieszka dziecko, kraju, z którego dziecko pochodzi, jak i dla innych kultur;
-d) przygotowanie dziecka do odpowiedzialnego w wolnym w duchu zrozumienia, poko ju, tolerancji, oraz wszystkimi narodami, grupami etnicznymi, narodowymi i religijnymi oraz osobami rdzennego pochodzenia;
-e) rozwijanie w dziecku poszanowania natural nego.
-2. postanowienie niniejszego lub arty 28 nie interpretowane w sposób osób fizycznych lub zbiorowych do i prowadzenia instytucji z prze strzegania zasad w 1 niniejszego oraz wymogów, aby w tego typu in stytucjach minimalnym standardom, które dane 30 Wtych w których etnicz ne, religijne lub osoby pochodzenia rdzen nego, dziecku do takiej lub dziecku pochodzenia rdzennego nie prawa do po siadania i korzystania z kultury, do wyznawania i praktykowania swojej religii lub do z innymi jego grupy.
-31
-1. prawo dziecka do wypoczyn ku i czasu wolnego, do uczestniczenia w zabawach i ciach rekreacyjnych, stosownych do wieku dziecka, oraz do uczestniczenia w kulturalnym i artys tycznym.
-2. oraz prawo dziecka do wszechstronnego uczestnictwa w kulturalnym i artystycznym oraz tworzeniu i równych dla kultural nej, artystycznej, rekreacyjnej oraz w zakresie wykorzystania czasu wolnego.
-32
-1. prawo dziecka do ochrony przed wyzyskiem ekonomicznym, przed wykonywaniem pra cy, która może być niebezpieczna lub też może kolidować z dziecka, szkodliwa dla zdrowia dziecka lub jego rozwoju fizycznego, ducho wego, moralnego lub
-2. kroki ustawoda wcze, administracyjne, socjalne oraz w dziedzinie dla zapewnienia realizacji niniejszego W tym celu, na uwadze postanowie nia innych dokumentów ny w
-a) minimalny poziom lub poziomy wiekowe dla ubiegania o pracy;
-b) przepisy do wymiaru cza sowego oraz warunków zatrudnienia;
-c) odpowiednie kary lub inne sankcje dla za pewnienia skutecznego stosowania niniejszego arty 33 wszelkie odpo wiednie kroki, w tym ustawodawcze, administra cyjne, socjalne oraz w dziedzine w celu zapewnienia ochrony dzieci przed nielegalnym narkotycznych i substancji psychotropowych, zgo dnie z ich z definiowaniem w odpowiednich umowach soient etablissements l'Etat aura Dans religieuses chtone, dzynarodowych, oraz w celu zapobiegania wykorzystywaniu dzieci do nielegalnej produkcji tego typu substancji i handlu nimi.
-minorites culturelle, d'employer membres
-1.
-repos et recreatives culturelle
-2.
-I'enfant tique, et ens appropries et culturelles,
-1.
-d'etre protege astreint de compromettre fi son developpement socia!.
-2.
-administratives, tion du dispositions naux, les
-a) Fixent sion
-b) Prevoient travail
-c) Prevoient pour Les riees, y sociales I'usage tels que tinentes, pour la - ..
-34 do ochrony dzieci przed wszelkimi formami wyzysku seksualnego i seksualnych. Dla tych celów w wszelkie kroki o krajowym, dwustronnym oraz wielostronnym dla przeciw
-a) lub zmuszaniu dziecka do jakichkolwiek nielegalnych seksualnych;
-b) wykorzystywaniu dzieci do prostytucji lub innych niele galnych praktyk seksualnych;
-c) wykorzystywaniu dzieci w pornograficznych przedsta wieniach i 35 wszelkie kroki o za krajowym, dwustronnym oraz wielostronnym dla prze uprowadzeniom, handlowi dokonywanych dla jakichkolwiek celów i w jakiej kolwiek formie.
-36 dziecko przed wszelkimi innymi formami wyzysku, w jakimkolwiek aspekcie narusza dobro dziecka.
-37 aby:
-a) dziecko nie torturowaniu okrutne mu, nieludzkiemu czy traktowaniu lub karaniu. Ani kara ani kara nia bez zwolnienia nie orzeczona wobec osoby w wieku osiem nastu lat za przez
-b) dziecko nie pozbawione w sposób bezprawny lub arbitralny. Aresztowanie, za trzymanie lub dziecka powinno zgo dne z prawem i zastosowane jedynie jako ostateczny i na n aj krótszy czas;
-c) dziecko pozbawione traktowane humanitarnie i z poszanowaniem wrodzonej jednostki ludzkiej, w sposób potrzeby osoby w danym wieku. W dziecko pozbawione zostanie odseparowane od osób tylko odwrotne nie uznane za zgodne z dobrem dziecka, oraz prawo kontakty ze ro poprzez i wizyty, z sytuacji
-d) dziecko pozbawione prawo do uzyskania do prawnej lub innej odpowiedzialnej pomocy, jak prawo do kwes tionowania pozbawienia go przed lub i oraz domagania toutes elle.
-mesures laterai sur ce formes uzyskania szybkiej decyzji w tej sprawie.
-38
-1. i na respektowanie norm prawa huma nitarnego zastosowanie do nich w przypadku kon fliktu zbrojnego i do dzieci.
-2. wszelkie kroki dla zapewnienia, aby osoby, które nie wieku lat, nie w zbroj nych.
-3. przed re krutowaniem do swoich zbrojnych jakiejkolwiek osoby, która nie wieku lat.
-osób, które wiek lat, lecz nie jeszcze osiemnastu lat, pod w pierwszej kolej osoby starsze wiekiem.
-4. Zgodnie ze swoimi z prawa humanitarnego do ochrony lud cywilnej w konfliktach zbrojnych, wszelkie do realizacji dla zapewnienia ochrony i opieki nad przez konflikt zbrojny.
-39 wszelkie kroki dla przebiegu rehabilitacji fizycznej i psychi cznej oraz reintegracji dziecka, które jakiejkolwiek formy zaniedbania, wyzysku lub wykorzystania, torturowania lub jakiejkolwiek innej formy okrutnego, nielu dzkiego czy traktowania albo karania konfliktu zbrojnego. Taka rehabilitacja czy reintegracja prze w które sprzyja zdrowiu, zapew nieniu szacunku i dziecka.
-40
-1. prawo dziecka po dejrzanego, uznanego winnym cenia prawa karnego do traktowania w sposób poczuciu i dziecka, które umacnia w nim poszanowanie podstawowych praw i innych osób . oraz wiek dziecka i sprzyjania jego reintegracji dla przez nie konstruktywnej roli w spo
-2. W tym celu, a odpowiednie postanowienia dokumentów -Strony w
-a) aby dziecko nie podejrzane, uznawane winnym prawa karnego poprzez lub zaniechanie, które nie zabronione przez prawo w mo mencie jego dokonania;
-b) dziecku, które podejrzewa lub uznaje winnym prawa karnego, przynaj mniej gwarancje:
-i) przyznanie domniemania do chwili udowodnienia winy zgodnie z prawem;
-ii) respecter sont s'etend
-2.
-les dans pas atteint aux hostilites.
-3.
-forces quinze quinze s'efforcent
-4.
-vertu lation toutes enfants protection poinformowanie go o stawianych mu zarzutach lub, w odpowiednich Les pour reinsertion negligence, toute ou degradants, reinsertion sante,
-1.
-accuse traitement et de droits tienne sa reintegration constructif
-2.
-tes des particulier:
-a) A vaincu d'omissions nal mises;
-b) A loi przypadkach, za jego rodziców albo opiekuna prawnego oraz zapewnienie prawnej lub innej pomocy w przygotowaniu i prezentowaniu jego obrony;
-iii) rozpatrzenie sprawy bez i przez i organ w uczci wym procesie, przeprowadzonym zgodnie z pra wem, zabezpieczeniem prawnej lub innej pomocy oraz w jego rodziców lub opie kunów prawnych, tylko nie to za niezgodne z interesem dziecka z uwagi na jego wiek lub iv) niestosowanie przymusu do lub przyznania do winy;
-ze strony przeciwnej i równoprawne uczestniczenie w w jego imieniu;
-v) w przypadku uznania winnym prawa karnego, posiadanie prawa od tego orzeczenia oraz innych z nim do kompetentnej, i bezstronnej lub organu zgodnie z prawem;
-vi) zapewnienie pomocy dziecko nie rozumie nie mówi w danym vii) poszanowanie spraw z zakresu osobis tego we wszystkich etapach procesowych.
-3. tworzeniu praw, pro cedur organów oraz instytucji specjalnie do dzieci podejrzanych, uznawanych win nymi prawa karnego, a w
-a) ustanowieniu minimalnej granicy wieku, której dzieci domniemanie do naruszenia prawa karnego;
-b) w przypadku gdy jest to i celowe, stosowaniu innych z takimi bez uciekania do pod warun kiem poszanowania praw i gwarancji prawnych.
-4. takich jak opieka, po radnictwo, nadzór, probacja, umieszczenie w rodzinie czej, programy edukacyjne i szkolenia zawodowego, oraz inne alternatywne do opieki instytucjonalnej dla zapewnienia z w sposób dla ich dobra, a proporc jonalny zarówno w stosunku do jak i do nionego wykroczenia.
-41 Niniejsza konwencja w sposób nie narusza po które w stopniu realizacji praw dziecka i które zawarte w:
-a) prawie lub
-b) prawie to II 42 do szerzenia informacji o zasadach postanowieniach niniejszej konwencji zarówno jak i dzieci, do tego celu w ich dyspozycji 43
-1. W celu badania dokonywanych przez stwa-Strony w realizacji przewidzianych w ni niejszej konwencji ustanawia Komitet Praw Dziecka, który wskazane funkcje.
-2. Komitet z ekspertów, wysoki poziom moralny i uznane kompetencje w dziedzinie, której dotyczy niniejsza konwencja. Komitetu wybierani przez stwa-Strony ich obywateli i oso z sprawiedliwego geografi cznego oraz zasadniczych systemów prawnych.
-3. Komitetu wybierani w tajnym sowaniu z listy osób wyznaczonych przez swo ich obywateli.
-4. wybory do Komitetu nie niej po od daty w cie niniejszej konwencji, a co dwa lata. Co najmniej na cztery przed terminem wyborów Sek retarz Generalny Narodów Zjednoczonych wystosuje list do je o podanie nazwisk wyznaczonych przez nie osób w dwóch Sekretarz Generalny przygotuje wszystkich osób w ten sposób wyznaczonych, w alfabetycznym, ze wska zaniem przez które zostali wyznaczeni, i niniejszej konwencji.
-5. Wybory na spotkaniach -Stron, przez Sekretarza Generalnego w siedzibie Narodów Zjednoczonych. Na tych spotkaniach, na których quorum dwie trzecie osoby, które oraz obecnych i w przedstawicieli wybrane na Komitetu.
-6. Komitetu wybierani na okres czte rech lat. oni mogli wybrani ponownie, znów wyznaczeni. Kadencja wy branych w pierwszych wyborach po dwóch lat; po pierwszych wyborach nazwiska owych wybrane losowania przez spotkania.
-7. W przypadku Komitetu, jego rezyg nacji lub jego z jakiegokolwiek innego powodu nie Komitetu, które danego wyzna czy za Komitetu innego eksperta swoich obywateli na okres do kadencji.
-8. Komitet ustanowi swoje par des enfants.
-1.
-Etats eux en Comite definies
-2.
-te et possedant vise par les Etats personnel, repartition cipaux
-3.
-une liste Etat partie
-4.
-la date zasady procedury.
-elections moins de I'Organisation parties Le Secretaire des candidats les ont presente
-5.
-parties, I'Organisation quelles parties, le plus des representants
-6.
-sont reeligibles Le mandat election membres immediatement
-7.
-Comite, plus pouvoir partie expert vacant reserve
-8.
-9. Komitet wybiera swych funkcjonariuszy na okres 9.
-dwóch lat. ans.
-10. Posiedzenia Komitetu zwykle w siedzibie Narodów Zjednoczonych lub w innym dogodnym miejscu przez Komitet. Komitet posiedzenia zasadniczo corocznie. Czas trwania Komitetu oraz poddawany weryfikacji, gdy zajdzie taka potrzeba, na spotkaniu niniejszej konwencji, za Zgromadzenia Ogólnego.
-11. Sekretarz Generalny Narodów Zjednoczonych za pewni personel oraz warunki do skutecznego przez Komitet funkcji przez
-12. Za Zgromadzenia Ogólnego Ko mitetu utworzonego na mocy niniejszej konwencji otrzymy honoraria z funduszy Narodów Zjednoczonych na okres i na warunkach przez Zgromadzenie.
-44
-1. do Komitetowi za Sekretarza Generalnego Na rodów Zjednoczonych do stosowanych przez nie do realizacji praw zawartych w kon wencji oraz w korzystaniu z tych praw:
-a) w dwóch lat po w konwencji dla danego
-b) co lat.
-2. Sprawozdania na mocy niniejszego ar na czynniki oraz na ewentualne na z niniejszej konwencji. Sprawozdania odpowiednie informacje Komi tetowi na temat wprowadzania w po konwencji w danym kraju.
-3. które Komitetowi wszechstronne sprawozdanie pierwotne, nie musi w swo ich sprawozdaniach, zgodnie z 1 pkt b), podstawowych informacji, które podane uprzednio.
-4. Komitet od dalszych informacji do wprowadzenia w kon wencji.
-5. Komitet Zgromadzeniu Ogólne mu Narodów Zjednoczonych za Rady Gos co dwa lata, sprawozdania ze swojej
-6. szeroko opinii publicznej swych krajów te sprawozdania.
-45 Dla skutecznego wprowadzenia w ni niejszej konwencji oraz stworzenia korzystnych warunków do normalment determinee w dziedzinie, której ona dotyczy: I'approbation Unies installations ment presente presente semblee de selon par Nations adoptees presente sance doivent, empechant obligations egalement ner tion initial presentent 1 anterieurement renseignements CorWention.
-generale, rapport diffusion et vise
-a) agencje wyspecjalizowane, Fundusz Narodów Zjedno czonych na rzecz Dzieci oraz inne organy Narodów Zjednoczonych uprawnione do uczestniczenia po przez swoich przedstawicieli przy omawianiu wprowa dzania w tych niniejszej konwencji, które w zakres ich kompetencji. Komitet agencje wyspecjalizowane, Fundusz Narodów Zjednoczonych na rzecz Dzieci i inne kompetentne or gany, uzna to za stosowne, o udzielenie specjalis tycznych porad do wprowadzania w konwencji w kwestiach w zakres ich kom petencji. Komitet agencje wyspecjalizo wane, Fundusz Narodów Zjednoczonych na rzecz Dzieci i inne organy Narodów Zjednoczonych o wprowadzenia w kon wencji w tych dziedzinach, które w zakres ich
-b) Komitet uzna to za stosowne, agencjom wyspecjalizowanym, Funduszowi Narodów Zjednoczonych na rzecz Dzieci i innym or ganom wszelkie sprawozdania zawiera lub na w zakresie doradztwa technicznego pomocy, z ewen tualnymi uwagami i sugestiami Komitetu do owych lub
-c) Komitet Zgromadzeniu Ogólnemu zwróce nie do Sekretarza Generalnego o zainicjowanie w je go imieniu konkretnych problemów do praw dziecka;
-d) Komitet sugestie i ogólne zalecenia w opar ciu o otrzymywane informacje, zgodnie z 44 i 45 niniejszej konwencji. Sugestie te i ogólne zalecenia przekazywane zainteresowanemu nie i podawane do Zgromadzenia Ogól nego, z ewentualnymi uwagami III 46 Niniejsza konwencja otwarta do podpisania przez wszystkie 47 Niniejsza konwencja podlega ratyfikacji. Dokumenty ra tyfikacyjne u Sekretarza Generalnego Naro dów Zjednoczonych.
-48 do niniejszej konwencji. Dokumenty u Sek retarza Generalnego Narodów Zjednoczonych.
-4Q
-1. Niniejsza konwencja wejdzie w trzydziestego dnia, od daty u Sekretarza Generalnego Naro dów Zjednoczonych dwudziestego dokumentu ratyfikacyj nego lub
-a) Les pour le I'application qui institutions pour qu'il I'application relevent institutions pour presenter dans
-b) Le tions I'enfance rapport indiquant niques, suggestions indication;
-c) Le prier a droits
-d) Le dations rec;us Convention.
-d'ordre teresse accompagnees, Etats La les Etats.
-La instruments retaire La tout Etat.
-du Secretaire
-1.
-tieme general instrument
-2. W stosunku do które dokona raty fikacji lub do konwencji, po dwudzies tego dokumentu ratyfikacyjnego lub konwen cja wejdzie w trzydziestego dnia, od daty przez dane swojego dokumentu ratyfikacyjnego lub ia.
-50
-1. popra i do Sekretarza Generalnego Narodów Zjed noczonych. Sekretarz Generalny zakomunikuje o zaproponowanej poprawce z wnioskiem o wskazanie, czy one za konferen cji na celu i przeprowa dzenie nad W przypadku gdy w czterech od daty takiego powiadomienia co naj mniej jedna trzecia wypowie za takiej konferencji, Sekretarz Generalny konferen pod auspicjami Narodów Zjednoczonych. popraw ka obecnych i w zatwier dzeniu przez Zgromadzenie Ogólne Narodów Zjednoczo nych.
-2. Poprawka w sposób zgodny z 1 ni niejszego wchodzi w po zatwierdzeniu przez Zgromadzenie Ogólne Narodów Zjednoczonych i dwóch trzecich
-3. Poprawka, po w moc dla tych które za natomiast nadal po stanowienia konwencji oraz wszelkie poprawki, zosta(y one przez te 51
-1. Sekretarz Generalny Narodów Zjednoczonych oraz do wszystkich Stron teksty dokonanych przez podczas ratyfikacji lub
-2. Nie dopuszczalne pozosta w z przedmiotem i celem niniejszej kon wencji.
-3. wycofane w dowolnym czasie w drodze notyfikacji tego faktu, na Sekretarza Generalnego Narodów Zjednoczonych, który na powiadomi o tym wszystkie kon wencji. Taka notyfikacja odniesie skutek w dniu otrzymania jej przez Sekretarza Generalnego.
-52 w dro dze pisemnej notyfikacji na Sekretarza General nego Narodów Zjednoczonych. Wypowiedzenie nabiera mo cy po jednego roku od daty notyfikacji przez Sekretarza Generalnego.
-rera deposer tion alors demandant 53 Depozytariuszem niniejszej konwencji jest Sekretarz Ge neralny Narodów Zjednoczonych.
-vocation rexamen quatre tiers convocation convoque des des pour sitions lorsqu'il Unies parties.
-obligatoire Etats Convention eux.
-Unies reserves ratification la notification des Convention.
-est par l'Organisation efkt par Unies tion.
-54 niniejszej konwencji, którego teksty ne w angielskim, arabskim, francuskim, oraz rosyjskim jednakowo autentyczne, zo stanie zdeponowany u Sekretarza Generalnego Narodów, Zjednoczonych.
-Na dowód czego podpisani w nale sposób przez swe pod pisy pod L'original anglais, egalement I'Organisation En habilites presente Po zaznajomieniu z w imieniu Rzeczypospolitej - ona uznana za w - jest ona ratyfikowana i potwierdzona, z - ona niezmienne zachowywana.
-Na dowód czego wydany akt niniejszy, opatrzony Dano w Warszawie dnia 30 kwietnia 1991 r.
-L.
-Minister Spraw Zagranicznych: K. Skubiszewski o prawach dziecka, przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 20 listopada 1989 r., Rzeczpospolita Polska w oparciu o po stanowienie 51 1 tej konwencji na - W odniesieniu do 7 konwencji: Rzeczpospolita Polska zastrzega, prawo dziecka przysposobionego do poznania rodziców naturalnych ograni czeniu poprzez prawnych zachowanie tajem nicy pochodzenia dziecka.
-- O granicy wieku, od której dopuszczalne jest nie do wojskowej lub podobnej oraz uczestnictwo w zbrojnych, rozstrzyga prawo Rzeczypospolitej dziana Rzeczpospolita ko praw z skimi ka - W wencji dla rodziny 527 OŚWIADCZENIE RZĄDOWE z dnia 30 1991 w sprawie ratyfikacji przez Konwencji nie Ogólne Narodów Zjednoczonych Podaje niniejszym do zgodnie z ar 47 Konwencji o prawach dziecka, Zgromadzenie przez topada
+Artykuł 17 Państwa-Strony uznają ważną rolę spełnianą przez środki masowego przekazu i zapewnią, aby dziecko miało dostęp do informacji oraz materiałów pochodzących z różnorodnych źródeł krajowych i międzynarodowych, szczególnie do tych, które mają na uwadze jego dobro w wymiarze społecznym, duchowym i moralnym oraz jego zdrowie fizyczne i psychiczne. W tym celu Państwa-Strony będą:
+a) zachęcały środki masowego przekazu do rozpowszechniania informacji i materiałów, korzystnych dla dziecka w wymiarze społecznym oraz kulturalnym, zgodnie z duchem artykułu 29;
+b) zachęcały do rozwoju współpracy międzynarodowej w dziedzinie wytwarzania, wymiany oraz rozpowszechniania tego rodzaju informacji i materiałów, pochodzących z różnorodnych kulturowych źródeł krajowych oraz międzynarodowych;
+c) zachęcały do wydawania i rozpowszechniania książek dla dzieci;
+d) zachęcały środki masowego przekazu, aby w szczególny sposób uwzględniały potrzeby językowe dzieci należących do mniejszości narodowych lub do rdzennej społeczności;
+e) zachęcały do rozwijania odpowiednich kierunków działalności dla ochrony dzieci przed informacjami i materiałami szkodliwymi z punktu widzenia ich dobra, mając na względzie postanowienia artykułów 13 i 18.
+1. Państwa-Strony podejmą wszelkie możliwe starania dla pełnego uznania zasady, że oboje rodzice ponoszą wspólną odpowiedzialność za wychowanie i rozwój dziecka. Rodzice lub w określonych przypadkach opiekunowie prawni ponoszą główną odpowiedzialność za wychowanie i rozwój dziecka. Jak najlepsze zabezpieczenie interesów dziecka ma być przedmiotem ich największej troski.
+2. W celu zagwarantowania i popierania praw zawartych w niniejszej konwencji Państwa-Strony będą okazywały odpowiednią pomoc rodzicom oraz opiekunom prawnym w wykonywaniu przez nich obowiązków związanych z wychowywaniem dzieci oraz zapewnią rozwój instytucji, zakładów i usług w zakresie opieki nad dziećmi.
+3. Państwa-Strony będą podejmowały wszelkie właściwe kroki dla zapewnienia dzieciom pracujących rodziców prawa do korzystania z usług instytucji i zakładów w zakresie opieki nad dziećmi, do których są one uprawnione.
+Artykuł 19
+1. Państwa-Strony będą podejmowały wszelkie właściwe kroki w dziedzinie ustawodawczej, administracyjnej, społecznej oraz wychowawczej dla ochrony dziecka przed wszelkimi formami przemocy fizycznej bądź psychicznej, krzywdy lub zaniedbania bądź złego traktowania lub wyzysku, w tym wykorzystywania w celach seksualnych, dzieci pozostających pod opieką rodzica(ów), opiekuna(ów) prawnego(ych) lub innej osoby sprawującej opiekę nad dzieckiem.
+2. Tego rodzaju środki ochronne powinny obejmować, tam gdzie jest to właściwe, skuteczne przedsięwzięcia w celu stworzenia programów socjalnych dla realizacji pomocy dziecku oraz osobom sprawującym opiekę nad dzieckiem, jak również innych form działań prewencyjnych dla ustalania, informowania, wszczynania i prowadzenia śledztwa, postępowania, notowania wymienionych wyżej przypadków niewłaściwego traktowania dzieci oraz tam, gdzie jest to właściwe - ingerencję sądu.
+Artykuł 20
+1. Dziecko pozbawione czasowo lub na stałe swego środowiska rodzinnego lub gdy ze względu na swoje dobro nie może pozostawać w tym środowisku, będzie miało prawo do specjalnej ochrony i pomocy ze strony państwa.
+2. Państwa-Strony zgodnie ze swym prawem wewnętrznym zapewnią takiemu dziecku opiekę zastępczą.
+3. Tego rodzaju opieka może obejmować, między innymi, umieszczenie w rodzinie zastępczej, Kafala w prawie islamskim, adopcję lub - gdy jest to niezbędne umieszczenie w odpowiedniej instytucji powołanej do opieki nad dziećmi. Przy wyborze odpowiednich rozwiązań należy w sposób właściwy uwzględniać wskazania w zachowaniu ciągłości w wychowaniu dziecka oraz jego tożsamości etnicznej, religijnej, kulturowej i językowej.
+Artykuł 21 Państwa-Strony uznające i\lub dopuszczające system adopcji zapewnią, aby dobro dziecka było celem najwyższym, i będą: nych władz, które będą decydować - zgodnie z obowiązującym prawem i postępowaniem oraz na podstawie wszelkich stosownych i wiarygodnych informacji - o tym, że adopcja jest dopuszczalna ze względu na sytuację dziecka w odniesieniu do rodziców, krewnych i opiekunów prawnych, oraz - w przypadku gdy jest to wymagane - aby osoby zainteresowane świadomie wyraziły zgodę na adopcję po przeprowadzeniu z nimi niezbędnych konsultacji;
+b) traktować adopcję związaną z przeniesieniem dziecka do innego kraju jako zastępczy środek opieki nad dzieckiem, jeżeli nie może być ono umieszczone w rodzinie zastępczej lub adopcyjnej albo nie można mu zapewnić w żaden inny odpowiedni sposób opieki w kraju jego pochodzenia;
+c) dbać o to, aby dziecko adoptowane do innego kraju miało zabezpieczenie gwarancyjne i poziom życia odpowiednie do tych, które byłyby zapewnione w przypadku adopcji krajowej;
+d) podejmować wszelkie właściwe kroki dla zapewnienia, aby w przypadku adopcji do innego kraju osoby w niej zaangażowane nie uzyskały z tego powodu niestosownych korzyści finansowych;
+e) sprzyjać osiąganiu celów niniejszego artykułu, tam gdzie jest to stosowne, przez zawieranie dwustronnych lub wielostronnych porozumień lub umów, a także dążyć w ich ramach do zapewnienia, aby umieszczenie dziecka w innym kraju odbywało się za pośrednictwem kompetentnych władz lub organów.
+Artykuł 22
+1. Państwa-Strony podejmą właściwe kroki dla zapewnienia, aby dziecko, które ubiega się o status uchodźcy bądź jest uważane za uchodźcę w świetle odpowiednich przepisów prawa międzynarodowego lub wewnętrznego stosowanego postępowania, w przypadku gdy występuje samo lub towarzyszą mu rodzice bądź inna osoba, otrzymało odpowiednią ochronę i pomoc humanitarną przy korzystaniu z odpowiednich praw zawartych w niniejszej konwencji lub innych międzynarodowych aktach dotyczących praw człowieka oraz innych dokumentach w sprawach humanitarnych, których wspomniane Państwa są Stronami.
+2. W tym celu Państwa-Strony zapewnią, w stopniu, jaki uznają za właściwy, współdziałanie w wysiłkach podejmowanych przez Narody Zjednoczone i inne kompetentne organizacje międzyrządowe oraz pozarządowe, współpracujące z Narodami Zjednoczonymi, dla udzielenia ochrony i pomocy takiemu dziecku oraz odnalezienia jego rodziców lub innych członków rodziny dziecka uchodźcy w celu uzyskania informacji niezbędnych do ponownego połączenia go z rodziną. W przypadkach gdy nie można odnaleźć rodziców ani innych członków rodziny, dziecko zostanie otoczone taką samą opieką, jak dziecko pozbawione stale bądź czasowo swojego otoczenia rodzinnego z jakichkolwiek przyczyn, zgodnie z postanowieniami niniejszej konwencji.
+Artykuł 23
+1. Państwa-Strony uznają, że dziecko psychicznie lub fizycznie niepełnosprawne powinno mieć zapewnioną pełnię normalnego życia w warunkach gwarantujących tywne uczestnictwo dziecka w życiu społeczeństwa.
+2. Państwa-Strony uznają prawo dziecka niepełnosprawnego do szczególnej troski i będą sprzyjały oraz zapewniały, stosownie do dostępnych środków, rozszerzanie pomocy udzielanej uprawnionym do niej dzieciom oraz osobom odpowiedzialnym za opiekę nad nimi. Pomoc taka będzie udzielana na wniosek tych osób i będzie stosowna do warunków dziecka oraz sytuacji rodziców lub innych osób, które się nim opiekują.
+3. Uznając szczególne potrzeby dziecka niepełnosprawnego, pomoc, o której mowa w ustępie 2 niniejszego artykułu, będzie udzielana bezpłatnie tam, gdzie jest to możliwe, z uwzględnieniem zasobów finansowych rodziców bądź innych osób opiekujących się dzieckiem, i ma zapewnić, aby niepełnosprawne dziecko posiadało skuteczny dostęp do oświaty, nauki, opieki zdrowotnej, opieki rehabilitacyjnej, przygotowania zawodowego oraz możliwości rekreacyjnych, realizowany w sposób prowadzący do osiągnięcia przez dziecko jak najwyższego stopnia zintegrowania ze społeczeństwem oraz osobistego rozwoju, w tym jego rozwoju kulturalnego i duchowego.
+4. Państwa-Strony będą sprzyjać, w duchu współpracy międzynarodowej, wymianie odpowiednich informacji w zakresie profilaktyki zdrowotnej oraz leczenia medycznego, psychologicznego i funkcjonalnego dzieci niepełnosprawnych, w tym rozpowszechnianiu i umożliwianiu dostępu do informacji dotyczących metod rehabilitacji oraz kształcenia i przygotowania zawodowego, w celu umożliwienia Państwom-Stronom poprawy ich możliwości i kwalifikacji oraz w celu wzbogacenia ich doświadczeń w tych dziedzinach. W związku z tym potrzeby krajów rozwijających się będą uwzględniane w sposób szczególny.
+Artykuł 24
+1. Państwa-Strony uznają prawo dziecka do jak najwyższego poziomu zdrowia i udogodnień w zakresie leczenia chorób oraz rehabilitacji zdrowotnej. PaństwaStrony będą dążyły do zapewnienia, aby żadne dziecko nie było pozbawione prawa dostępu do tego rodzaju opieki zdrowotnej.
+2. Państwa-Strony będą dążyły do pełnej realizacji tego prawa, a w szczególności podejmą niezbędne kroki w celu:
+a) zmniejszenia śmiertelności wśród noworodków i dzieci;
+b) zapewnienia udzielania koniecznej pomocy oraz opieki zdrowotnej wszystkim dzieciom, ze szczególnym uwzględnieniem rozwoju podstawowej opieki zdrowotnej;
+c) zwalczania chorób i niedożywienia, w tym - w ramach podstawowej opieki zdrowotnej - przez wykorzystanie między innymi łatwo dostępnych technik oraz przez dostarczanie odpowiednich pożywnych produktów żywnościowych i wody pitnej, z uwzględnieniem niebezpieczeństwa oraz ryzyka zanieczyszczenia środowiska naturalnego;
+d) zapewnienia matkom właściwej opieki zdrowotnej w okresie przed i po urodzeniu dziecka;
+e) zapewnienia, aby wszystkie grupy społeczne, w szczególności rodzice oraz dzieci, były informowane i posiadały dostęp do oświaty oraz otrzymywały karmienia, korzyści z karmienia piersią, higieny i warunków zdrowotnych otoczenia, a także zapobiegania wypadkom;
+f) rozwoju profilaktycznej opieki zdrowotnej, poradnictwa dla rodziców oraz wychowania i usług w zakresie planowania rodziny.
+3. Państwa-Strony będą podejmowały wszelkie właściwe i skuteczne kroki na rzecz zniesienia tradycyjnych praktyk przynoszących szkodę zdrowiu dziecka.
+4. Państwa-Strony zobowiązują się działać na rzecz sprzyjania i zachęcania do rozwoju współpracy międzynarodowej w celu stopniowego osiągania pełnej realizacji praw uznanych w niniejszym artykule. W związku z tym szczególna uwaga będzie zwrócona na potrzeby krajów rozwijających się.
+Artykuł 25 Państwa-Strony uznają prawo dziecka, umieszczonego przez kompetentne władze w zakładzie w celach opieki, ochrony bądź leczenia w zakresie zdrowia fizycznego lub psychicznego, do okresowego przeglądu leczenia dziecka i wszelkich innych okoliczności odnoszących się do jego umieszczenia w zakładzie.
+Artykuł 26
+1. Państwa-Strony będą uznawać prawo każdego dziecka do korzystania z systemu zabezpieczenia społecznego, w tym ubezpieczeń socjalnych, oraz będą podejmowały niezbędne kroki dla osiągnięcia pełnej realizacji tego prawa zgodnie z ich prawem wewnętrznym.
+2. Tam gdzie jest to możliwe, powyższe świadczenia powinny być zabezpieczone z uwzględnieniem zasobów i warunków życia dziecka oraz osób odpowiedzialnych za jego utrzymanie, jak również wszelkich innych okoliczności, odnoszących się do stosowania realizacji świadczeń wnioskowanych przez dziecko lub w jego imieniu.
+Artykuł 27
+1. Państwa-Strony uznają prawo każdego dziecka do poziomu życia odpowiadającego jego rozwojowi fizycznemu, psychicznemu, duchownemu, moralnemu i społecznemu.
+2. Rodzice (rodzic) lub inne osoby odpowiedzialne za dziecko ponoszą główną odpowiedzialność za zabezpieczenie, w ramach swych możliwości, także finansowych, warunków życia niezbędnych do rozwoju dziecka.
+3. Państwa-Strony, zgodnie z warunkami krajowymi oraz odpowiednio do swych środków, będą podejmowały właściwe kroki dla wspomagania rodziców lub innych osób odpowiedzialnych za dziecko w realizacji tego prawa oraz będą udzielały, w razie potrzeby, pomocy materialnej oraz innych programów pomocy, szczególnie w zakresie żywności, odzieży i mieszkań.
+4. Państwa-Strony podejmą wszelkie właściwe kroki dla zapewnienia łożenia na utrzymanie dziecka ze strony rodziców lub innych osób ponoszących odpowiedzialność finansową za dziecko, zarówno na terenie Państwa-Strony, jak i za granicą. W szczególnych wypadkach, gdy osoba ponosząca odpowiedzialność finandążyły do przystąpienia do umów międzynarodowych lub do zawarcia takich umów, jak również do zawierania odpowiednich porozumień.
+Artykuł 28
+1. Państwa-Strony uznają prawo dziecka do nauki i w celu stopniowego realizowania tego prawa na zasadzie równych szans, w szczególności:
+a) uczynią nauczanie podstawowe obowiązkowym i bezpłatnym dla wszystkich;
+b) będą popierać rozwój różnorodnych form szkolnictwa średniego, zarówno ogólnokształcącego, jak i zawodowego, uczynią je dostępnymi dla każdego dziecka oraz podejmą odpowiednie kroki, takie jak wprowadzenie bezpłatnego nauczania oraz udzielanie w razie potrzeby pomocy finansowej;
+c) za pomoc wszelkich właściwych środków uczynią szkolnictwo wyższe dostępnym dla wszystkich na zasadzie zdolności;
+d) udostępnią wszystkim dzieciom informacje i poradnictwo szkolne i zawodowe;
+e) podejmą kroki na rzecz zapewnienia regularnego uczęszczania do szkół oraz zmniejszenia wskaźnika porzucania nauki.
+2. Państwa-Strony będą podejmowały wszelkie właściwe środki zapewniające, aby dyscyplina szkolna była stosowana w sposób zgodny z ludzką godnością dziecka i z niniejszą konwencją.
+3. Państwa-Strony będą popierały i rozwijały międzynarodową współpracę w dziedzinie oświaty, w szczególności w celu przyczyniania się do zlikwidowania ignorancji i analfabetyzmu na świecie oraz ułatwienia dostępu do wiedzy naukowotechnicznej i nowoczesnych metod nauczania. W tym zakresie należy w szczególności uwzględniać potrzeby krajów rozwijających się.
+Artykuł 29
+1. Państwa-Strony są zgodne, że nauka dziecka będzie ukierunkowana na:
+a) rozwijanie w jak najpełniejszym zakresie osobowości, talentów oraz zdolności umysłowych i fizycznych dziecka;
+b) rozwijanie w dziecku szacunku dla praw człowieka i podstawowych swobód oraz dla zasad zawartych w Karcie Narodów Zjednoczonych;
+c) rozwijanie w dziecku szacunku dla jego rodziców, jego tożsamości kulturowej, języka i wartości, dla wartości narodowych kraju, w którym mieszka dziecko, kraju, z którego dziecko pochodzi, jak i dla innych kultur;
+d) przygotowanie dziecka do odpowiedzialnego życia w wolnym społeczeństwie, w duchu zrozumienia, pokoju, tolerancji, równości płci oraz przyjaźni pomiędzy wszystkimi narodami, grupami etnicznymi, narodowymi i religijnymi oraz osobami rdzennego pochodzenia;
+e) rozwijanie w dziecku poszanowania środowiska naturalnego.
+2. Żadne postanowienie niniejszego artykułu lub artykułu 28 nie może być interpretowane w sposób naruszający wolność osób fizycznych lub ciał zbiorowych do zakładania i prowadzenia instytucji oświatowych, z zastrzeżeniem przestrzegania zasad wyrażonych w ustępie 1 niniejszego artykułu oraz wymogów, aby kształcedane państwo.
+Artykuł 30 W tych państwa, w których istnieją mniejszości etniczne, religijne lub językowe bądź osoby pochodzenia rdzennego, dziecku należącemu do takiej mniejszości lub dziecku pochodzenia rdzennego nie można odmówić prawa do posiadania i korzystania z własnej kultury, do wyznawania i praktykowania swojej religii lub do używania własnego języka, łącznie z innymi członkami jego grupy.
+Artykuł 31
+1. Państwa-Strony uznają prawo dziecka do wypoczynku i czasu wolnego, do uczestniczenia w zabawach i zajęciach rekreacyjnych, stosownych do wieku dziecka, oraz do nieskrępowanego uczestniczenia w życiu kulturalnym i artystycznym.
+2. Państwa-Strony będą przestrzegały oraz popierały prawo dziecka do wszechstronnego uczestnictwa w życiu kulturalnym i artystycznym oraz będą sprzyjały tworzeniu właściwych i równych sposobności dla działalności kulturalnej, artystycznej, rekreacyjnej oraz w zakresie wykorzystania czasu wolnego.
+Artykuł 32
+1. Państwa-Strony uznają prawo dziecka do ochrony przed wyzyskiem ekonomicznym, przed wykonywaniem pracy, która może być niebezpieczna lub też może kolidować z kształceniem dziecka, bądź może być szkodliwa dla zdrowia dziecka lub jego rozwoju fizycznego, umysłowego, duchowego, moralnego, lub społecznego.
+2. Państwa-Strony będą podejmowały kroki ustawodawcze, administracyjne, socjalne oraz środki w dziedzinie oświaty dla zapewnienia realizacji postanowień niniejszego artykułu. W tym celu, mając na uwadze odnośne postanowienia innych dokumentów międzynarodowych, Państwa-Strony w szczególności:
+a) ustanowią minimalny poziom lub poziomy wiekowe dla ubiegania się o podjęcie pracy;
+b) ustanowią właściwe przepisy odnośnie do wymiaru czasowego oraz warunków zatrudnienia;
+c) ustanowią odpowiednie kary lub inne sankcje dla zapewnienia skutecznego stosowania niniejszego artykułu.
+Artykuł 33 Państwa-Strony będą podejmowały wszelkie odpowiednie kroki, w tym środki ustawodawcze, administracyjne, socjalne oraz środki w dziedzinie oświaty, w celu zapewnienia ochrony dzieci przed nielegalnym używaniem środków narkotycznych i substancji psychotropowych, zgodnie z ich zdefiniowaniem w odpowiednich umowach międzynarodowych, oraz w celu zapobiegania wykorzystywaniu dzieci do nielegalnej produkcji tego typu substancji i handlu nimi.
+Państwa-Strony zobowiązują się do ochrony dzieci przed wszelkimi formami wyzysku seksualnego i nadużyć seksualnych. Dla osiągnięcia tych celów Państwa-Strony podejmą w szczególności wszelkie właściwe kroki o zasięgu krajowym, dwustronnym oraz wielostronnym dla przeciwdziałania:
+a) nakłanianiu lub zmuszaniu dziecka do jakichkolwiek nielegalnych działań seksualnych;
+b) wykorzystywaniu dziecka do prostytucji lub innych nielegalnych praktyk seksualnych;
+c) wykorzystywaniu dzieci w pornograficznych przedstawieniach i materiałach.
+Artykuł 35 Państwa-Strony będą podejmowały wszelkie kroki o zasięgu krajowym, dwustronnym oraz wielostronnym dla przeciwdziałania uprowadzeniom, sprzedaży bądź handlowi dziećmi, dokonywanych dla jakichkolwiek celów i w jakiejkolwiek formie.
+Artykuł 36 Państwa-Strony będą bronić dziecko przed wszelkimi innymi formami wyzysku, w jakimkolwiek aspekcie naruszającymi dobro dziecka.
+Artykuł 37 Państwa-Strony zapewnią, aby:
+a) żadne dziecko nie podlegało torturowaniu bądź okrutnemu, nieludzkiemu czy poniżającemu traktowaniu lub karaniu. Ani kara śmierci, ani kara dożywotniego więzienia bez możliwości wcześniejszego zwolnienia nie może zostać orzeczona wobec osoby w wieku poniżej osiemnastu lat za popełnione przez nią przestępstwa;
+b) żadne dziecko nie zostało pozbawione wolności w sposób bezprawny lub arbitralny. Aresztowanie, zatrzymanie lub uwięzienie dziecka powinno być zgodne z prawem i może być zastosowane jedynie jako środek ostateczny i na możliwie najkrótszy czas;
+c) każde dziecko pozbawione wolności było traktowane humanitarnie i z poszanowaniem wrodzonej godności jednostki ludzkiej, w sposób uwzględniający potrzeby osoby w danym wieku. W szczególności każde dziecko pozbawione wolności zostanie odseparowane od osób dorosłych, jeśli tylko rozwiązanie odwrotne nie będzie uznane za zgodne z najwyższym dobrem dziecka, oraz będzie mało prawo utrzymywać kontakty ze swoją rodziną poprzez korespondencję i wizyty, z wyłączeniem sytuacji wyjątkowych;
+d) każde dziecko pozbawione wolności miało prawo do uzyskania niezwłocznego dostępu do prawnej lub innej odpowiedzialnej pomocy, jak również prawo do kwestionowania legalności pozbawienia go wolności przed sądem lub inną kompetentną, niezawisłą i bezstronną władzą oraz domagania się uzyskania szybkiej decyzji w tej sprawie.
+1. Państwa-Strony zobowiązują się respektować i nakazać respektowanie norm międzynarodowego prawa humanitarnego mających zastosowanie do nich w przypadku konfliktu zbrojnego i odnoszących się do dzieci.
+2. Państwa-Strony podejmą wszelkie możliwe kroki dla zapewnienia, aby osoby, które nie osiągnęły wieku piętnastu lat, nie brały bezpośredniego udziału w działaniach zbrojnych.
+3. Państwa-Strony będą powstrzymywały się przed rekrutowaniem do swoich sił zbrojnych jakiejkolwiek osoby, która nie osiągnęła wieku piętnastu lat. Przeprowadzając rekrutację spośród osób, które osiągnęły wiek piętnastu lat, lecz nie osiągnęły jeszcze osiemnastu lat, Państwa-Strony będą starały się brać pod uwagę w pierwszej kolejności osoby starsze wiekiem.
+4. Zgodnie ze swoimi zobowiązaniami, wynikającymi z międzynarodowego prawa humanitarnego do ochrony ludności cywilnej w konfliktach zbrojnych, PaństwaStrony będą stosowały wszelkie możliwe do realizacji środki dla zapewnienia ochrony i opieki nad dziećmi dotkniętymi przez konflikt zbrojny.
+Artykuł 39 Państwa-Strony będą podejmowały wszelkie właściwe kroki dla ułatwienia przebiegu rehabilitacji fizycznej i psychicznej oraz reintegracji społecznej dziecka, które padło ofiarą jakiejkolwiek formy zaniedbania, wyzysku lub wykorzystania, torturowania lub jakiejkolwiek innej formy okrutnego, nieludzkiego czy poniżającego traktowania albo karania bądź konfliktu zbrojnego. Taka rehabilitacja czy reintegracja przebiegać będzie w środowisku, które sprzyja zdrowiu, zapewnieniu własnego szacunku i godności dziecka.
+Artykuł 40
+1. Państwa-Strony uznają prawo każdego dziecka podejrzanego, oskarżonego bądź uznanego winnym pogwałcenia prawa karnego do traktowania w sposób sprzyjający poczuciu godności i wartości dziecka, które umacnia w nim poszanowanie podstawowych praw i wolności innych osób oraz uwzględnia wiek dziecka i celowość sprzyjania jego reintegracji dla podjęcia przez nie konstruktywnej roli w społeczeństwie.
+2. W tym celu, a także uwzględniając odpowiednie postanowienia dokumentów międzynarodowych, Państwa-Strony zapewnią w szczególności:
+a) aby żadne dziecko nie było podejrzane, oskarżane bądź uznawane winnym pogwałcenia prawa karnego poprzez działanie lub zaniechanie, które nie było zabronione przez prawo wewnętrzne bądź międzynarodowe w momencie jego dokonania;
+b) każdemu dziecku, które podejrzewa się, oskarża lub uznaje winnym pogwałcenia prawa karnego, przynajmniej następujące gwarancje:
+i) przyznanie domniemania niewinności do chwili udowodnienia winy zgodnie z prawem;
+ii) niezwłoczne bezpośrednie poinformowanie go o stawianych mu zarzutach lub, w odpowiednich przypadkach, za pośrednictwem jego ropomocy w przygotowaniu i prezentowaniu jego obrony;
+iii) rozpatrzenie sprawy bez zwłoki i przez niezawisłą i bezstronną władzę bądź organ sądowy w uczciwym procesie, przeprowadzonym zgodnie z prawem, zabezpieczeniem prawnej lub innej właściwej pomocy oraz w obecności jego rodziców lub opiekunów prawnych, jeśli tylko nie będzie to uważane za niezgodne z najwyższym interesem dziecka z uwagi na jego wiek lub sytuację;
+iv) niestosowanie przymusu do składania zeznań lub przyznania się do winy; przesłuchiwanie świadków ze strony przeciwnej i równoprawne uczestniczenie w przesłuchiwaniu świadków w jego imieniu;
+v) w przypadku uznania winnym pogwałcenia prawa karnego, posiadanie prawa odwołania się od tego orzeczenia oraz innych związanych z nim środków do wyższej, kompetentnej, niezawisłej i bezstronnej władzy lub organu sądowego, zgodnie z prawem;
+vi) zapewnienie bezpłatnej pomocy tłumacza, jeśli dziecko nie rozumie bądź nie mówi w danym języku;
+vii) pełne poszanowanie spraw z zakresu życia osobistego we wszystkich etapach procesowych.
+3. Państwa-Strony będą sprzyjały tworzeniu praw, procedur organów oraz instytucji odnoszących się specjalnie do dzieci podejrzanych, oskarżonych bądź uznawanych winnymi pogwałcenia prawa karnego, a w szczególności:
+a) ustanowieniu minimalnej granicy wieku, poniżej której dzieci będą posiadały domniemanie niezdolności do naruszenia prawa karnego;
+b) w przypadku gdy jest to właściwe i celowe, stosowaniu innych środków postępowania z takimi dziećmi, bez uciekania się do postępowania sądowego, pod warunkiem pełnego poszanowania praw człowieka i gwarancji prawnych.
+4. Różnorodność przedsięwzięć, takich jak opieka, poradnictwo, nadzór, probacja, umieszczenie w rodzinie zastępczej, programy edukacyjne i szkolenia zawodowego, oraz inne rozwiązania alternatywne do opieki instytucjonalnej będą dostępne dla zapewnienia właściwego postępowania z dziećmi, w sposób właściwy dla ich dobra, a także proporcjonalny zarówno w stosunku do okoliczności, jak i do popełnionego wykroczenia.
+Artykuł 41 Niniejsza konwencja w żaden sposób nie narusza postanowień, które w większym stopniu sprzyjają realizacji praw dziecka i które mogą być zawarte w:
+a) prawie Państwa-Strony lub
+b) prawie międzynarodowym obowiązującym to Państwo.
+Artykuł 42 Państwa-Strony zobowiązują się do szerzenia informacji o zasadach i postanowieniach niniejszej konwencji zarówno wśród dorosłych, jak i dzieci, wykorzystując do tego celu będące w ich dyspozycji środki.
+Artykuł 43
+1. W celu badania postępów dokonywanych przez Państwa-Strony w realizacji zobowiązań przewidzianych w niniejszej konwencji ustanawia się Komitet Praw Dziecka, który będzie wykonywał wskazane niżej funkcje.
+2. Komitet będzie składał się z dziesięciu ekspertów, reprezentujących wysoki poziom moralny i posiadających uznane kompetencje w dziedzinie, której dotyczy niniejsza konwencja. Członkowie Komitetu będą wybierani przez Państwa-Strony spośród ich obywateli i będą występowali osobiście, z uwzględnieniem sprawiedliwego podziału geograficznego oraz zasadniczych systemów prawnych.
+3. Członkowie Komitetu będą wybierani w tajnym głosowaniu z listy osób wyznaczonych przez Państwa-Strony. Każde Państwo może wyznaczyć jedną osobę spośród swoich obywateli.
+4. Wstępne wybory do Komitetu odbędą się nie później niż po upływie sześciu miesięcy od daty wejścia w życie niniejszej konwencji, a następnie co dwa lata. Co najmniej na cztery miesiące przed terminem każdych wyborów Sekretarz Generalny Narodów Zjednoczonych wystosuje list do Państw-Stron, prosząc je o podanie nazwisk wyznaczonych przez nie osób w ciągu dwóch miesięcy. Sekretarz Generalny przygotuje następnie listę wszystkich osób w ten sposób wyznaczonych, ułożoną w porządku alfabetycznym, ze wskazaniem państwa, przez które zostali wyznaczeni, i przedłoży ją Państwom-Stronom niniejszej konwencji.
+5. Wybory będą się odbywały na spotkaniach Państw-Stron, zwołanych przez Sekretarza Generalnego w siedzibie Narodów Zjednoczonych. Na tych spotkaniach, na których quorum będzie stanowiło dwie trzecie Państw-Stron, osoby, które otrzymają największą liczbę głosów oraz absolutną większość głosów obecnych i biorących udział w głosowaniu przedstawicieli Państw-Stron, zostaną wybrane na członków Komitetu.
+6. Członkowie Komitetu wybierani będą na okres czterech lat. Będą oni mogli zostać wybrani ponownie, jeśli znów zostaną wyznaczeni. Kadencja pięciu spośród członków wybranych w pierwszych wyborach wygaśnie po upływie dwóch lat;
+niezwłocznie po pierwszych wyborach nazwiska owych pięciu członków zostaną wybrane drogą losowania przez przewodniczącego spotkania.
+7. W przypadku śmierci członka Komitetu, jego rezygnacji lub jego oświadczenia, że z jakiegokolwiek innego powodu nie może wypełniać obowiązków członka Komitetu, Państwo-Strona, które wyznaczyło danego członka, wyznaczy za zgodą Komitetu innego eksperta spośród swoich obywateli na okres pozostały do końca kadencji.
+8. Komitet ustanowi swoje własne zasady procedury.
+9. Komitet wybiera swych funkcjonariuszy na okres dwóch lat.
+czonych lub w innym dogodnym miejscu określonym przez Komitet. Komitet będzie odbywał posiedzenia zasadniczo corocznie. Czas trwania posiedzeń Komitetu będzie określony oraz poddawany weryfikacji, gdy zajdzie taka potrzeba, na spotkaniu Państw-Stron niniejszej konwencji, za zgodą Zgromadzenia Ogólnego.
+11. Sekretarz Generalny Narodów Zjednoczonych zapewni niezbędny personel oraz warunki do skutecznego wypełniania przez Komitet funkcji nałożonych przez niniejszą konwencję.
+12. Za zgodą Zgromadzenia Ogólnego członkowie Komitetu utworzonego na mocy niniejszej konwencji otrzymywać będą honoraria z funduszy Narodów Zjednoczonych na okres i na warunkach określanych przez Zgromadzenie.
+Artykuł 44
+1. Państwa-Strony zobowiązują się do przedkładania Komitetowi za pośrednictwem Sekretarza Generalnego Narodów Zjednoczonych sprawozdań odnośnie do środków stosowanych przez nie do realizacji praw zawartych w konwencji oraz postępów w korzystaniu z tych praw:
+a) w ciągu dwóch lat po wejściu w życie konwencji dla danego państwa;
+b) następnie co pięć lat.
+2. Sprawozdania przedkładane na mocy niniejszego artykułu wskazywać będą na czynniki oraz na ewentualne trudności wpływające na stopień wypełnienia zobowiązań wynikających z niniejszej konwencji. Sprawozdania będą zawierały także odpowiednie informacje zapewniające Komitetowi pełną wiedzę na temat wprowadzania w życie postanowień konwencji w danym kraju.
+3. Państwo-Strona, które przedłożyło Komitetowi wszechstronne sprawozdanie pierwotne, nie musi już w swoich następnych sprawozdaniach, przedkładanych zgodnie z ustępem 1 pkt b), powtarzać podstawowych informacji, które podane były uprzednio.
+4. Komitet może zażądać od Państw-Stron dalszych informacji odnoszących się do wprowadzenia w życie konwencji.
+5. Komitet będzie przedkładał Zgromadzeniu Ogólnemu Narodów Zjednoczonych za pośrednictwem Rady Gospodarczo-Społecznej, co dwa lata, sprawozdania ze swojej działalności.
+6. Państwa-Strony będą szeroko udostępniały opinii publicznej swych krajów te sprawozdania.
+Artykuł 45 Dla ułatwienia skutecznego wprowadzenia w życie niniejszej konwencji oraz stworzenia korzystnych warunków do współpracy międzynarodowej w dziedzinie, której ona dotyczy:
+a) agencje wyspecjalizowane, Fundusz Narodów Zjednoczonych na rzecz Dzieci oraz inne organy Narodów Zjednoczonych będą uprawnione do uczestniczenia poprzez swoich przedstawicieli przy omawianiu wprowadzania w życie tych postanowień niniejszej konwencji, które wchodzą w zakres ich kompeZjednoczonych na rzecz Dzieci i inne kompetentne organy, jeśli uzna to za stosowne, o udzielenie specjalistycznych porad odnośnie do wprowadzania w życie konwencji w kwestiach wchodzących w zakres ich kompetencji. Komitet może poprosić agencje wyspecjalizowane, Fundusz Narodów Zjednoczonych na rzecz Dzieci i inne organy Narodów Zjednoczonych o przedłożenie sprawozdań dotyczących wprowadzenia w życie konwencji w tych dziedzinach, które wchodzą w zakres ich działalności;
+b) Komitet będzie przekazywał, jeśli uzna to za stosowne, agencjom wyspecjalizowanym, Funduszowi Narodów Zjednoczonych na rzecz Dzieci i innym właściwym organom wszelkie sprawozdania Państw-Stron, zawierające prośbę lub wskazujące na potrzebę w zakresie doradztwa technicznego bądź pomocy, łącznie z ewentualnymi uwagami i sugestiami Komitetu odnośnie do owych próśb lub wskazań;
+c) Komitet może zalecić Zgromadzeniu Ogólnemu zwrócenie się do Sekretarza Generalnego o zainicjowanie w jego imieniu badań konkretnych problemów odnoszących się do praw dziecka;
+d) Komitet może czynić sugestie i ogólne zalecenia w oparciu o otrzymywane informacje, zgodnie z artykułem 44 i 45 niniejszej konwencji. Sugestie te i ogólne zalecenia będą przekazywane zainteresowanemu Państwu-Stronie i podawane do wiadomości Zgromadzenia Ogólnego, łącznie z ewentualnymi uwagami Państw-Stron.
+Artykuł 47 Niniejsza konwencja podlega ratyfikacji. Dokumenty ratyfikacyjne składane będą u Sekretarza Generalnego Narodów Zjednoczonych.
+Artykuł 48 Każde państwo będzie mogło przystąpić do niniejszej konwencji. Dokumenty przystąpienia będą składane u Sekretarza Generalnego Narodów Zjednoczonych.
+Artykuł 49
+1. Niniejsza konwencja wejdzie w życie trzydziestego dnia, licząc od daty złożenia u Sekretarza Generalnego Narodów Zjednoczonych dwudziestego dokumentu ratyfikacyjnego lub przystąpienia.
+2. W stosunku do każdego Państwa, które dokona ratyfikacji lub przystąpienia do konwencji, po złożeniu dwudziestego dokumentu ratyfikacyjnego lub przystąpienia, konwencja wejdzie w życie trzydziestego dnia, licząc od daty złożenia przez dane Państwo swojego dokumentu ratyfikacyjnego lub przystąpienia.
+1. Każde Państwo-Strona może zaproponować poprawkę i wnieść ją do Sekretarza Generalnego Narodów Zjednoczonych. Sekretarz Generalny zakomunikuje następnie o zaproponowanej poprawce Państwom-Stronom, łącznie z wnioskiem o wskazanie, czy są one za zwołaniem konferencji Państw-Stron, mającej na celu rozważenie i przeprowadzenie głosowania nad propozycją. W przypadku gdy w ciągu czterech miesięcy od daty takiego powiadomienia co najmniej jedna trzecia Państw-Stron wypowie się za zwołaniem takiej konferencji, Sekretarz Generalny zwoła taką konferencję pod auspicjami Narodów Zjednoczonych. Każda poprawka przyjęta większością głosów Państw-Stron obecnych i biorących udział w głosowaniu podlegać będzie zatwierdzeniu przez Zgromadzenie Ogólne Narodów Zjednoczonych.
+2. Poprawka przyjęta w sposób zgodny z ustępem 1 niniejszego artykułu wchodzi w życie po zatwierdzeniu przez Zgromadzenie Ogólne Narodów Zjednoczonych i przyjęciu większością dwóch trzecich Państw-Stron.
+3. Poprawka, po wejściu w życie, będzie miała moc wiążącą dla tych Państw-Stron, które się za nią opowiedziały; pozostałe Państwa-Strony natomiast obowiązują nadal postanowienia konwencji oraz wszelkie wcześniejsze poprawki, jeśli zostały one przez te Państwa przyjęte.
+Artykuł 51
+1. Sekretarz Generalny Narodów Zjednoczonych będzie przyjmować oraz rozsyłać do wszystkich Państw-Stron teksty zastrzeżeń dokonanych przez Państwa podczas ratyfikacji lub przystąpienia.
+2. Nie będzie dopuszczalne zastrzeżenie pozostające w sprzeczności z przedmiotem i celem niniejszej konwencji.
+3. Zastrzeżenie może zostać wycofane w dowolnym czasie w drodze notyfikacji tego faktu, złożonej na ręce Sekretarza Generalnego Narodów Zjednoczonych, który następnie powiadomi o tym wszystkie Państwa-Strony konwencji. Taka notyfikacja odniesie skutek w dniu otrzymania jej przez Sekretarza Generalnego.
+Artykuł 52 Państwo-Strona może wypowiedzieć konwencję w drodze pisemnej notyfikacji złożonej na ręce Sekretarza Generalnego Narodów Zjednoczonych. Wypowiedzenie nabiera mocy po upływie jednego roku od daty przyjęcia notyfikacji przez Sekretarza Generalnego.
+Artykuł 53 Depozytariuszem niniejszej konwencji jest Sekretarz Generalny Narodów Zjednoczonych.
+Artykuł 54 Oryginał niniejszej konwencji, którego teksty sporządzone w językach angielskim, arabskim, chińskim, francuskim, hiszpańskim oraz rosyjskim są jednakowo autentyczne, zostanie zdeponowany u sekretarza Generalnego Narodów Zjednoczonych.
+przez swe Rządy, złożyli podpisy pod niniejszą konwencją.
+Po zaznajomieniu się z powyższą konwencją w imieniu Rzeczypospolitej Polskiej oświadczam, że: - została ona uznana za słuszną w całości, - jest ona przyjęta, ratyfikowana i potwierdzona, z zastrzeżeniami wskazanymi w załączniku do niniejszego aktu, - będzie ona niezmiennie zachowywana.
+Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
+Dano w Warszawie dnia 30 kwietnia 1991 r.
+Zastrzeżenia: Ratyfikując Konwencję o prawach dziecka, przyjętą przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 20 listopada 1989 r., Rzeczpospolita Polska w oparciu o postanowienie artykułu 51 ustęp 1 tej konwencji zgłasza następujące zastrzeżenia: - W odniesieniu do artykułu 7 konwencji: Rzeczpospolita Polska zastrzega, że prawo dziecka przysposobionego do poznania rodziców naturalnych będzie podlegało ograniczeniu poprzez obowiązywanie rozwiązań prawnych umożliwiających przysposabiającym zachowanie tajemnicy pochodzenia dziecka.
+- O granicy wieku, od której dopuszczalne jest powoływanie do służby wojskowej lub podobnej oraz uczestnictwo w działaniach zbrojnych, rozstrzyga prawo Rzeczypospolitej Polskiej. Granica ta nie może być niższa niż przewidziana w artykule 38 konwencji.
+Deklaracje: - Rzeczpospolita Polska uważa, że wykonania przez dziecko jego praw określonych w konwencji, w szczególności praw określonych w artykułach od 12 do 16, dokonuje się z poszanowaniem władzy rodzicielskiej, zgodnie z polskimi zwyczajami i tradycjami dotyczącymi miejsca dziecka w rodzinie i poza rodziną.
+- W odniesieniu do artykułu 24 ustęp 2 litera f) konwencji Rzeczpospolita Polska uważa, że poradnictwo dla rodziców oraz wychowanie w zakresie planowania rodziny powinno pozostawać w zgodzie z zasadami moralności.
+
+## CZĘŚĆ I Artykuł 1 W rozumieniu niniejszej konwencji "dziecko" oznacza każdą istotę ludzką w wieku poniżej osiemnastu lat, chyba że zgodnie z prawem odnoszącym się do dziecka uzyska ono wcześniej pełnoletność.
+
+## CZĘŚĆ III Artykuł 46 Niniejsza konwencja będzie otwarta do podpisania przez wszystkie państwa.
 

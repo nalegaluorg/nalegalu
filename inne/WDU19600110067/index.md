@@ -8,9 +8,12 @@ pos: 67
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# p () I,S f) I·EJ RZECZ)' PO S POL l iTEJ LUDOWEJ Warszawa, dnia I marca 1960 1'.
+# utracie mocy prawnej niektórych
+
+*USTAWA dnia 17 lutego 1960 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +27,45 @@ domain: null
 | Ostatnia zmiana | 2024-08-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600110067) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1960/67/text.pdf) |
 
-• 19 , ·ft7
-USTAWA.
-z duill t 7 .1960 r.
-..
-utracie mocy -prawnej niektórycb wieczystych.
-rt. l. t. Prowadzone dotychczas wieczyste nie ruch ziemskich scaleniowym ,na n ocy ustawy dnia 31 lipca 1923 r. scalaniu . ,{Dz. ' 1. z 1927r. Nr 92, poz. 833 z zmianami) lub wym g'mntów na mocy dekretu z dnia 16 sierpnia i949 r.
-wy nianie (Dz. U. Nr 48,poz. 3(7) moc praw i z uprawomocnienia
-3. O utracie mocy· prijwnej wieczystej zawiadamia z wpisanego w uiej wszystkie inne .osoby, na których w wieczystej jilkiekolwiek wpisy.
-• czeni projektu scalenia wy- , mian e gruntów.
+**Art. 1.**
 
-**Art. 3.** Ola których wieczyste cy art. 1 moc ora"l dla scaleniowym luh nie wiecz'ystych, lub albo zniszczeniu. ksiegi wieczyste na wniosek org,anu wymiEmio nego art. 2 ust. l. .' , scaleniem .lub tyl . kó uregulowanej w wieczystej, ta traci moc codo· calej rt.2. l. wieczystych w art. na· postanowienia wydanego przez wiec-zyste na skutek zawiadomienia wla/ dll spraw FaJnych i organu prezydium powiatowe -rady illl1'odowej. Do zawiadomienia powinien do y ·odpisorzeczenia o. 'zatwierdzeniu -projektu scalenia. zecz('nia wymianie albo odpowiednie wy" ciągi Iz tych dokumentów. '. . ;~ Zamknfęcie ksiąg wIeczystych' mote nastąpić, rowniez na s~ufek zaw.. i iid.omienia ,wpisanych w nich- właścicieli lub ucze:lników scalenia gruntów, do które go z dokumenty wllsl l. . 4. I. rJta ,nieruchomości. wymieniqnych wart. przepisów wleq:ystyc:h dla -które takich z termin szania praw wskazaniu w obwieszczeniu nosi trzy 2. wpisu. praw,1I oraz wpisu cego oznaczenia w czystych stanowi orzeczenie zatwierdzeniu projektu nia lub orzeczenie wymianie gruntów' O1'az tóku scaleriiowegó.lub 'gruntów dokumenty pomiarowe: 'mapa '(plan) (opis /z operatu ewidencji gruntów.: .. ______, Dzicmn-ik ._ _ Ustaw Nr 1 __ 3. z wpisaniem w ksiE:dze wie czystej powinny wpisane w niej z w wieqystej wpiosobi- , oraz, gruntowych, które ,na skutek scalenia lub wymiany nie' bezprzedmiotowe, rów' realnych i pożyqek z funduszów państwo\vych ·oraz· ino, nych Istnienie .tych powin no stwierdzono w toku scaleniowego lub i uwidocznione w orz.ecze. niuo, zatwierdzeniu pwjektu scalenia i orzeczeniu wymia niE\: g.runtów, Inne wpisy" które figurowaly , w dawniejszych . tylkorra" ' '. :' i z zamknit!- , r eiu księgi wieczyste nieruchoniośei, 'poloiopych ha obs'zarze 27 .lipca 1949- 'r: prze 'nk" 'w 'fakt c:z H)"-m' ziemskich, niel,{tórych 'powiatach, woJewództw lubp,lskie ikrakowskiegp (Dz., U. Nr 46, poz:"339) w które · w . Ministra 'Wyd'linym w' po'r'ozllmieniu ,z' Mini strem Rolnictwa. Nie oto tych wieczystych nie któ re wymienione jako za 6. 1. Do wieczystych dla nieru w w roz przewidzianym wart. stosuje przepisy art. i art. ust. wieczyste tych nieruchomo ści .;IJ.t\~.cHy )ll9.c. pr,a~ną :.z~Qdnie .z .art. 5; Qądż. zaginl;ły Ju b ,zniszqeniu te· nif'.mialy zajdadanie d.la; .;nabyte ,przez,. ich .. takich nabywcow, odbywa J?eZ ,: , '. ,2., wpisu' prawa wpisu doty oznaczenia w na o,rzeCzenie do "praw rolnych zydjum powiiltowej rady narodowej nad.miu przez"PańlltwQ b\łdź też akt notarialny stwierdillljąey odpłatne nabycie od P"allstwa .oraz dokumenty pomlaro we: mapa (plan) i (opis z ope ratu, ewidencji gruntów. f~
+1. Prowadzone dotychczas księgi wieczyste, założone przed dniem 1 stycznia 1947 r. ziemskich objętych postępowaniem scaleniowym lub wymianą gruntów, tracą prawną i podlegają zamknięciu chwilą podjęcia ostatecznej decyzji zatwierdzeniu projektu scalenia lub wymiany gruntów.
 
-**Art. 7.** . L Przepisy art. t-4 stosuje do tych co do kt6rych PosttlPOwa.... nie scaleniowe hib toku w dniu w niniejszej ustawy. Przepisy art. stosuje do stych nieruchomosci, co UO których postGpbwanie we u.stawy stan pr.)'.vny powstały w wyniku' sC'~lenia lub wymia1lY tów nie w lych dotychczas ujawniony. prawomocne orzeczenie o' jcktu sca"leriia lub o' w'ynlianie nic' odpowiada rtInk~n\ okl,eślollYffi, w, alt. ust. 3, wlai;<;iwy ,do, nych i organ prezydium powiatowej :rady wydil 'dodatkowe orzeczenie wieczystych. 'Art;: 6. Wn.iosk':'O' wiiiczv:styrh rllC'h0lnoki,któryćh' k!;jęg~ tra{'ąmQc prawnąwedhlg szej ustawy, oraz wpil.;· które w \\'olne od wpisu . Art. tł.· Prż ni!> ~rt. ··1tl Il~t 2 u~ta\";y 1923 scalaniu stosuje ,W,pisilnie 05'trzc7€nia -stępuje, na skutek .zawia<iornieni,a właściwego do nych i prezydium' powiatowej gTuntÓ'.v KSi,;qi wieczyslp. które tracij moc . podota..vie tó\.v. . , niniejszeJ .. ustawy, moc:' . '.',.',. tJ".{Jl:t',lS: :4G 'i ust. 3'!'!inc;'a ldIiiu Ului1ŁÓW (Dż. U:' z 1927 r. Nr 92: pC:~. n\ej5zymi zmianami). 2 l,art, ę, d ~~ k:Tf ~l dlj} ,] ..J 6, ,si.erp n il"",l9A~t r. .gnmtów (Dz. poz. 367\, z dOii! marca postc;powaniu regl.lIOWilnill bipotec:meqo ze scaleniem IDz, U. Nr 133. poz,
+2. Księgi wieczyste założone po dniu 1 stycznia 1947 r. ziemskich objętych scaleniem lub wymianą gruntów nie tracą mocy prawnej, jeżeli uwidoczniony nich stan jest zgodny ze stanem wykazanym ewidencji gruntów.
+
+**Art. 2.**
+
+1. Sąd prowadzący księgi wieczyste dokonuje zamknięcia określonych 1 na skutek zawiadomienia właściwego starosty. Do zawiadomienia powinien być dołączony odpis decyzji zatwierdzeniu projektu scalenia lub odpowiedni wyciąg tego dokumentu oraz sporządzone toku postępowania scaleniowego dokumenty pomiarowe (mapa i rejestr).
+
+2. Zamknięcie może nastąpić również na skutek zawiadomienia wpisanych nich właścicieli lub uczestników scalenia względnie wymiany gruntów, do którego zostaną załączone dokumenty określone ust. 1.
+
+3. O utracie mocy prawnej księgi wieczystej i jej zamknięciu sąd zawiadamia urzędu wpisanego niej właściciela oraz wszystkie inne osoby, na rzecz których figurują księdze wieczystej jakiekolwiek wpisy.
+
+**Art. 3.** Dla nieruchomości, których księgi wieczyste mocy 1 utraciły prawną, oraz nieruchomości, były objęte postępowaniem scaleniowym lub wymianą gruntów, a nie miały urządzonych wieczystych, lub których księgi wieczyste zaginęły albo uległy zniszczeniu, zakłada się księgi wieczyste urzędu. podlegających wskazaniu obwieszczeniu wynosi trzy miesiące. 2. Podstawę wpisu oraz wpisu dotyczącego oznaczenia zakładanych księgach stanowi decyzja zatwierdzeniu projektu scalenia lub decyzja wymianie gruntów oraz sporządzone toku postępowania scaleniowego lub postępowania wymianę gruntów dokumenty pomiarowe: mapa (plan) i rejestr gruntów (opis nieruchomości) operatu ewidencji gruntów. 3. Jednocześnie wpisaniem zakładanej księdze wieczystej właściciela powinny być wpisane niej urzędu istniejące zamkniętej księdze wieczystej wpisy dotyczące użytkowania nieruchomości, służebności osobistych oraz służebności gruntowych, na skutek scalenia lub wymiany gruntów nie stały się bezprzedmiotowe, ciężarów realnych i pożyczek funduszów państwowych oraz innych należności państwowych. Istnienie tych obciążeń powinno być stwierdzone toku postępowania scaleniowego lub postępowania wymianę gruntów i uwidocznione decyzji zatwierdzeniu projektu scalenia i decyzji wymianie gruntów. Inne wpisy, figurowały dawniejszych księgach wieczystych, wciąga się tylko na wniosek osób uprawnionych lub właściciela nieruchomości.
+
+**Art. 5.** Tracą prawną i podlegają urzędu zamknięciu księgi wieczyste nieruchomości, położonych na obszarze mocy obowiązującej dekretu dnia 27 lipca 1949 r. przejęciu na własność Państwa nie pozostających faktycznym władaniu właścicieli ziemskich, położonych niektórych powiatach województw białostockiego, lubelskiego, rzeszowskiego i krakowskiego (Dz. U. poz.
+
+**Art. 6.**
+
+1. Do zakładania nieruchomości, położonych miejscowościach określonych rozporządzeniu przewidzianym 5, stosuje się przepisy 3 i 4 ust. 1, jeżeli księgi wieczyste tych utraciły własność spadkobierców takich nabywców, odbywa się bez dokonywania obwieszczeń.
+
+2. Podstawą wpisu oraz wpisu dotyczącego oznaczenia zakładanych księgach i ciążących na obciążeń jest decyzja właściwego starosty nadaniu przez Państwo bądź też akt notarialny stwierdzający odpłatne nabycie od Państwa oraz dokumenty pomiarowe: mapa (plan) i rejestr gruntów (opis nieruchomości) operatu ewidencji gruntów. Wydawanie tych decyzji jest zadaniem zakresu administracji rządowej.
+
+**Art. 7.**
+
+1. Przepisy 1–4 stosuje się również do tych nieruchomości, co do których postępowanie scaleniowe lub postępowanie wymianę gruntów jest toku dniu wejścia życie niniejszej ustawy.
+
+2. Przepisy 1–4 stosuje się także do nieruchomości, co do których postępowanie scaleniowe bądź postępowanie wymianę gruntów zostało przed dniem wejścia życie niniejszej ustawy zakończone, jednak stan prawny powstały wyniku scalenia lub wymiany gruntów nie został tych księgach dotychczas ujawniony.
+
+3. Jeżeli prawomocna decyzja zatwierdzeniu projektu scalenia lub wymianie gruntów nie odpowiada warunkom określonym 4 ust. 3, właściwy starosta wyda dodatkową decyzję ustalające te obciążenia, zgodnie powołanym przepisem wymagają ujawnienia księgach wieczystych.
+
+**Art. 8.** Wnioski założenie nieruchomości, których księgi tracą prawną według niniejszej ustawy, oraz wnioski wpis obciążeń, figurowały tych księgach, są wolne od wpisu sądowego.
+
+**Art. 9.** (uchylony)
+
+**Art. 10.** Księgi wieczyste, tracą prawną na podstawie niniejszej ustawy, zachowują znaczenie dokumentów.
+
+**Art. 11.** Tracą moc:
+
+**Art. 12.** Ustawa wchodzi życie dniem ogłoszenia .
 

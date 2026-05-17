@@ -8,9 +8,10 @@ pos: 412
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# 412
+# o ochronie terenów byłych hitlerowskich obozów zagłady
 
 | Pole | Wartość |
 |---|---|
@@ -24,168 +25,188 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990410412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/412/text.pdf) |
 
-USTAWA dnia 7 maja 1999 r.
-ochronie terenów hitlerowskich obozów 1 Przepisy ogólne
+Art. 20–25. (pominięte)
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa zasady ochrony terenów hitlerowskich obozów zwanych dalej "Pomnikami Ochrona polega tworze niu ich stref ochronnych wprowadzeniu obsza rze Pomników ich stref ochronnych szczegól nych zasad:
+1. Ustawa określa zasady ochrony terenów byłych hitlerowskich obozów zagłady, zwanych dalej „Pomnikami Zagłady”.
 
-- **1)** odbywania
-- **2)** prowadzenia gospodarczej,
-- **3)** budowy obiektów budowlanych, tymczasowych obiektów budowlanych budowlanych,
-- **4)**
+2. Ochrona Pomników Zagłady polega na tworzeniu ich stref ochronnych oraz wprowadzeniu na obszarze Pomników Zagłady i ich stref ochronnych szczególnych zasad:
 
-3. Ochrona Pomników jest celem publicz nym.
+- **1)** odbywania zgromadzeń;
+- **2)** prowadzenia działalności gospodarczej;
+- **3)** budowy obiektów budowlanych, tymczasowych obiektów budowlanych i urządzeń budowlanych;
+- **4)** wywłaszczania nieruchomości.
 
-- **2)** Pomnik Majdanku,
-- **3)** Muzeum "Stutthof" Sztutowie,
-- **4)** Muzeum Gross-Rosen
-- **5)** Mauzoleum Walki Treblince,
-- **6)** Muzeum Martyrologiczne Obóz nad Nerem,
-- **7)** Muzeum Obozu Sobiborze,
-- **8)** Obóz
+3. Ochrona Pomników Zagłady jest celem publicznym.
+
+4. Ochrona Pomników Zagłady jest zadaniem z zakresu administracji rządowej.
+
+**Art. 2.** Pomnikami Zagłady są tereny, na których są położone:
 
 **Art. 3.**
 
-1. ustanawia stanowi pas gruntu nie 100 m od granic
+1. Wokół Pomnika Zagłady ustanawia się strefę ochronną. wskazywać na objęcie oznaczonego pasa gruntu ochroną.
 
-**Art. 4.**
+2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, drodze rozporządzenia, sposób oznakowania granic Pomników Zagłady i ich stref ochronnych, a także wzory znaków wskazujących te granice.
 
-1. Obszar granice stref ochronnych powin ny sposób Pomnikom sposób jak najmniej 1947 r. Narodu Pol skiego innych Narodów (Dz.U. 52, 265), obszar granice jego strefy ochronnej,
+3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, po zasięgnięciu opinii właściwego terytorialnie wójta (burmistrza, prezydenta miasta), drodze rozporządzenia:
 
-- **2)** granice obszarze którego jest Pomnik Majdanku, zgod nie jego granicami obszarem wyznaczonymi podstawie przepisów ustawy dnia 2 lipca 1947 r. Narodu Polskiego innych Narodów Majdanku (Dz.U. 52,
-- **266)** , obszar granice jego strefy ochronnej,
-- **3)** granice obszarze którego jest Muzeum "Stutthof" Sztutowie, obszar granice jego strefy ochronnej,
-- **4)** granice obszarze którego jest Muzeum Gross-Rosen obszar granice jego strefy ochronnej,
-- **5)** granice obszarze którego jest Mauzoleum Walki Tre blince, obszar granice jego strefy ochronnej,
-- **6)** granice obszarze którego jest Muzeum Martyrologiczne Obóz nad Nerem, obszar granice jego strefy ochronnej,
-- **7)** granice obszarze którego jest Muzeum Obozu Sobi borze, obszar granice jego strefy ochronnej,
-- **8)** granice obszarze którego jest Obóz obszar granice jego strefy ochronnej.
+- **1)** granice Pomnika Zagłady, na obszarze którego jest położony Pomnik Męczeństwa Oświęcimiu, zgodnie z jego granicami i obszarem wyznaczonymi na podstawie przepisów ustawy z dnia 2 lipca 1947 r. o upamiętnieniu męczeństwa Narodu Polskiego i innych Narodów Oświęcimiu (Dz. U. Nr 52, poz. 265 oraz z 1999 r. Nr 41, poz. 412), oraz obszar i granice jego strefy ochronnej;
+- **2)** granice Pomnika Zagłady, na obszarze którego jest położony Pomnik Męczeństwa na Majdanku, zgodnie z jego granicami i obszarem wyznaczonymi na podstawie przepisów ustawy z dnia 2 lipca 1947 r. o upamiętnieniu męczeństwa Narodu Polskiego i innych Narodów na Majdanku (Dz. U. Nr 52, poz. 266), oraz obszar i granice jego strefy ochronnej;
+- **3)** granice Pomnika Zagłady, na obszarze którego jest położone „Muzeum Stutthof” Sztutowie, oraz obszar i granice jego strefy ochronnej;
+- **4)** granice Pomnika Zagłady, na obszarze którego jest położone Muzeum Gross-Rosen Rogoźnicy, oraz obszar i granice jego strefy ochronnej;
+- **5)** granice Pomnika Zagłady, na obszarze którego jest położone Mauzoleum Walki i Męczeństwa Treblince, oraz obszar i granice jego strefy ochronnej;
+- **6)** granice Pomnika Zagłady, na obszarze którego jest położone Muzeum Martyrologiczne – Obóz Chełmnie nad Nerem, oraz obszar i granice jego strefy ochronnej; zwrócenia się przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowegoBłąd! Nie zdefiniowano zakładki. o jej wydanie, oznacza wyrażenie opinii pozytywnej.
 
-4. opinii, której mowa 3, terminie 2 tygodni od dnia zwrócenia przez mini stra administracji publicznej jej wydanie, oznacza opinii pozytywnej.
-
-5. Oznakowanie granic Pomników ich stref ochronnych utrzymanie znaków cych granice wojewody.
+5. Oznakowanie granic Pomników Zagłady i ich stref ochronnych oraz utrzymanie znaków wskazujących te granice należą do zadań wojewody.
 
 **Art. 5.**
 
-1. Gmina ma miej scowego planu zagospodarowania przestrzennego dla obszaru jego strefy ochronnej. Miejscowe plany zagospodarowania przestrzen nego decyzje warunkach zabudowy zagospo darowania .terenu dla obszarów grani cach, mowa 1, uzgodnienia ministrem administracji pu blicznej.
+1. Gmina ma obowiązek sporządzenia miejscowego planu zagospodarowania przestrzennego dla obszaru Pomnika Zagłady i jego strefy ochronnej.
 
-3. W wypadku uchwalenia miejscowego planu zago spodarowania przestrzennego, którym mowa 1, lub jego zmiany, przepis art. 36 ustawy dnia 7 lipca 1994 r. zagospodarowaniu przestrzennym (Dz. U. 21 sierpnia 1997 r. gospodarce (Dz. U. 115, 741 1998 r. 106, 668). 2 Szczególne zasady odbywania prowa dzenia gospodarczej budowy obiek tów budowlanych, tymczasowych obiektów budow lanych budowlanych obszarach Pomni ków ich stref ochronnych, a czania obszarze Pomników ich stref ochronnych
+2. Miejscowe plany zagospodarowania przestrzennego oraz decyzje o warunkach zabudowy i zagospodarowania terenu dla obszarów położonych granicach, o których 1, wymagają uzgodnienia z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowegoBłąd! Nie zdefiniowano zakładki. .
+
+3. W przypadku uchwalenia miejscowego planu zagospodarowania przestrzennego, o którym 1, lub jego zmiany przepis art. 36 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm. ) stosuje się, z tym że odszkodowania za poniesioną rzeczywistą szkodę, wykupienia nieruchomości lub jej części albo odszkodowania równego obniżeniu wartości nieruchomości lub jej części można żądać od Skarbu Państwa reprezentowanego przez wojewodę. Organem właściwym sprawach, o których 3 i 9–11 tego przepisu, jest wojewoda. Przepisu art. 36 1 pkt 3 nie stosuje się.
+
+**Art. 6.**
+
+1. Wojewoda jest organem reprezentującym Skarb Państwa sprawach gospodarowania nieruchomościami położonymi na obszarze Pomnika Zagłady i jego strefy ochronnej. Szczególne zasady odbywania zgromadzeń, prowadzenia działalności gospodarczej oraz budowy obiektów budowlanych, tymczasowych obiektów budowlanych i urządzeń budowlanych na obszarach Pomników Zagłady i ich stref ochronnych, a także wywłaszczania nieruchomości położonych na obszarze Pomników Zagłady i ich stref ochronnych
 
 **Art. 7.**
 
-1. Odbycie zgromadzenia obszarze Po mnika lub jego strefy ochronnej wymaga zgo dy wojewody, wydanej drodze decyzji. Wniosek udzielenie zgody, której mowa 1, nie 30 dni przed zgromadzenia. Wniosek po tym terminie pozo stawia bez rozpoznania. O pozostawieniu wniosku bez rozpoznania wojewoda orzeka drodze decyzji.
+1. Odbycie zgromadzenia na obszarze Pomnika Zagłady lub jego strefy ochronnej wymaga zgody wojewody, wydanej drodze decyzji.
 
-3. Wniosek, którym mowa 2, powinien za
+2. Wniosek o udzielenie zgody, o której 1, składa się nie później niż na 30 dni przed datą zgromadzenia. Wniosek złożony po tym terminie pozostawia się bez rozpoznania. O pozostawieniu wniosku bez rozpoznania wojewoda orzeka drodze decyzji.
 
-- **1)** oznaczenie organizatora zgromadzenia jego siedziby,
-- **2)** cel program zgromadzenia jakim jego uczestnicy,
-- **3)** miejsce, planowany czas trwania, uczestników zgromadzenia przewiduje miejsca czasie trwa nia zgromadzenia,
-- **4)** planowanych przez organizatora ków zapewnieniu pokojowego przebie gu zgromadzenia dostar czenie organizator zwraca wojewody.
+3. Wniosek, o którym 2, powinien zawierać:
 
-4. Wojewoda odmawia udzielenia zgody, której mowa 1,
+- **1)** oznaczenie organizatora zgromadzenia oraz jego siedziby;
+- **2)** cel i program zgromadzenia oraz język, jakim będą porozumiewać się jego uczestnicy;
+- **3)** miejsce, datę, godzinę rozpoczęcia, planowany czas trwania, przewidywaną liczbę uczestników zgromadzenia oraz projektowaną trasę przejścia, jeżeli przewiduje się zmianę miejsca czasie trwania zgromadzenia;
+- **4)** określenie planowanych przez organizatora środków służących zapewnieniu pokojowego przebiegu zgromadzenia oraz środków, o których dostarczenie organizator zwraca się do wojewody.
 
-- **1)** cel lub odbycie zgromadzenia niezgodne prze pisami niniejszej ustawy lub ustawy dnia 5 lipca 1990 r. Prawo zgromadzeniach (Dz.U. 51,
-- **297)** albo przepisy ustaw karnych,
-- **2)** odbycie zgromadzenia lub zdrowiu ludzi albo mieniu znacznej
-- **3)** cel lub odbycie zgromadzenia po lub charakter
+3a. Do wniosku, o którym 2, dołącza się pisemną zgodę podmiotu posiadającego tytuł prawny do nieruchomości znajdującej się na obszarze Pomnika Zagłady lub jego strefy ochronnej na odbycie zgromadzenia na tej nieruchomości. znacznej wartości;
 
-5. Decyzja odmowie udzielenia zgody odbycie zgromadzenia powinna organizatorowi terminie 14 dni od dnia wniosku, któ rym mowa
+- **3)** cel lub odbycie zgromadzenia może naruszyć powagę lub charakter Pomnika Zagłady;
+- **4)** podmiot posiadający tytuł prawny do nieruchomości znajdującej się na obszarze Pomnika Zagłady lub jego strefy ochronnej nie wyraził zgody na odbycie zgromadzenia na tej nieruchomości.
 
-6. Wojewoda zgromadzenie swoich przedstawicieli.
+5. Decyzja o odmowie udzielenia zgody na odbycie zgromadzenia powinna być doręczona organizatorowi terminie 14 dni od dnia wpłynięcia wniosku, o którym
 
-9. Zgromadzenie przez przed stawiciela wojewody, jego przebieg lub zdrowiu ludzi albo mieniu znacznej naru sza lub charakter albo naru sza przepisy niniejszej ustawy, przepisy ustawy Pra wo zgromadzeniach albo przepisy ustaw karnych, a uprzedzony zania zgromadzenia, wzbrania to
+2.
 
-10. zgromadzenia podstawie prze pisu 9 przez wydanie decyzji ustnej, po przedzonej trzykrotnym uczestników zgromadzenia jego a zgromadzonych, której nadaje rygor natychmIasto wej organizatoro wi terminie 24 godzin od jej
+6. Wojewoda może delegować na zgromadzenie swoich przedstawicieli.
 
-11. Organizatorowi uczestnikowi zgromadze nia prawo od decyzji spra wie zgromadzenia terminie 3 dni od dnia zgromadzenia.
+7. Wojewoda, na wniosek organizatora, zapewnia, miarę potrzeby, ochronę policyjną trybie przepisów ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm. ), służącą stosownemu przebiegowi zgromadzenia.
 
-12. W zakresie nie uregulowanym niniejszej usta wie przeprowadzenia zgromadzenia obszarze lub jego strefy ochronnej stosuje przepisy ustawy Prawo zgromadzeniach, kiem art. 4.
+8. Delegowany przedstawiciel wojewody, przybywając na zgromadzenie, jest obowiązany okazać swoje upoważnienie przewodniczącemu zgromadzenia.
 
-13. Przepisów 1-12 nie stosuje zgroma ramach wyznaniowych celu publicznego sprawowania kultu organizowanych kaplicach, budynkach gruntach
+9. Zgromadzenie może być rozwiązane przez przedstawiciela wojewody, jeżeli jego przebieg zagraża życiu lub zdrowiu ludzi albo mieniu znacznej wartości, narusza powagę lub charakter Pomnika Zagłady albo narusza przepisy niniejszej ustawy, przepisy ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach albo przepisy ustaw karnych, a przewodniczący, uprzedzony o konieczności rozwiązania zgromadzenia, wzbrania się to uczynić.
+
+10. Rozwiązanie zgromadzenia na podstawie przepisu 9 następuje przez wydanie decyzji ustnej, poprzedzonej trzykrotnym ostrzeżeniem uczestników zgromadzenia o możliwości jego rozwiązania, a następnie ogłoszonej przewodniczącemu obecności zgromadzonych, której nadaje się rygor
+
+12. W zakresie nieuregulowanym niniejszej ustawie do przeprowadzenia zgromadzenia na obszarze Pomnika Zagłady lub jego strefy ochronnej stosuje się przepisy ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach, z wyjątkiem art. 2, z tym, że na obszarze Pomnika Zagłady lub jego strefy ochronnej nie mogą być organizowane zgromadzenia zgłaszane trybie art. 22 1 tej ustawy oraz odbywać się zgromadzenia spontaniczne
+
+13. Przepisów 1–12 nie stosuje się do zgromadzeń odbywających się ramach działalności kościołów oraz związków wyznaniowych celu publicznego sprawowania kultu – organizowanych kościołach, świątyniach, kaplicach, budynkach kościelnych i na gruntach kościelnych.
 
 **Art. 8.**
 
-1. Na obszarze jego stre fy ochronnej gospodarcza wadzona jedynie zakresie zabezpIe czenia przed zniszczeniem lub uszko dzeniem, zapewnienia jego renie, konserwacji lub oznakowania jego granic albo granic strefy ochronnej osób ten Pomnik. Prowadzenie której mowa 1, wymaga zgody wojewody, udzielonej dro dze decyzji.
+1. Na obszarze Pomnika Zagłady i jego strefy ochronnej działalność gospodarcza może być prowadzona jedynie zakresie niezbędnym do zabezpieczenia Pomnika Zagłady przed zniszczeniem lub uszkodzeniem, zapewnienia porządku i czystości na jego terenie, stałej konserwacji lub oznakowania jego granic albo granic strefy ochronnej oraz niezbędnej obsługi osób odwiedzających ten Pomnik.
 
-3. Wniosek udzielenie zgody, której mowa 2, powinien
+2. Prowadzenie działalności, o której 1, wymaga zgody wojewody, udzielonej drodze decyzji.
 
-- **1)** oznaczenie jego siedziby (miejsca zamieszkania), a razie ustanowienia ników dokonywania prawnych imieniu ich imiona udzielenia zgody, prowadzona obszarze lub jego strefy ochronnej gospodarcza zapewnia celów, mo wa 1.
+3. Wniosek o udzielenie zgody, o której 2, powinien zawierać:
 
-6. Wojewoda, drodze decyzji, cofa któ rej mowa 2,
+- **1)** oznaczenie przedsiębiorcy i jego siedziby (miejsca zamieszkania), a razie ustanowienia pełnomocników do dokonywania czynności prawnych imieniu przedsiębiorcy – również ich imiona i nazwiska;
+- **2)** określenie przedmiotu działalności gospodarczej;
+- **3)** wskazanie miejsca wykonywania działalności gospodarczej;
+- **4)** wskazanie daty rozpoczęcia działalności gospodarczej.
 
-- **1)** przedmiot prowadzonej gospodarczej wykracza poza zakres decyzji,
-- **2)** prowadzona gospodarcza narusza po lub charakter
-- **3)** prowadzona gospodarcza realizacji celów, mowa
+4. Wojewoda, drodze decyzji, odmawia udzielenia zgody, jeżeli:
 
-1.
+- **1)** przedmiot zamierzonej działalności gospodarczej wykracza poza zakres określony 1;
 
-7. W przypadku zgody, którym mowa 6, po,,:o-ti nien jej wykonywania przed mIe od daty wydania decyzji ostatecznej. cemu nie odszkodowanie, przypadku, którym mowa 6 pkt 3.
+6. Wojewoda, drodze decyzji, cofa zgodę, o której 2, jeżeli:
 
-8. W przypadku, którym mowa 6 pkt 3, wy odszkodowania za poniesione straty ustala wo jewoda drodze decyzji.
+- **1)** przedmiot prowadzonej działalności gospodarczej wykracza poza zakres określony decyzji;
+- **2)** prowadzona działalność gospodarcza narusza powagę lub charakter Pomnika Zagłady;
+- **3)** prowadzona działalność gospodarcza stała się zbędna do realizacji celów, o których 1.
 
-**Art. 9.** Uzyskanie zgody, której mowa wart. 8 2, nie zwalnia gospodarczej ewidencji gospodarczej albo uzyskania koncesji !ub zezwolenia gospodarczej, zasadach przepisach.
+7. W przypadku cofnięcia zgody, o którym 6, prowadzący działalność gospodarczą powinien zaprzestać jej wykonywania przed upływem miesiąca od daty wydania decyzji ostatecznej. Prowadzącemu działalność nie przysługuje odszkodowanie, z wyłączeniem przypadku, o którym 6 pkt
+
+3.
+
+8. W przypadku, o którym 6 pkt 3, wysokość odszkodowania za poniesione straty ustala wojewoda drodze decyzji.
+
+**Art. 9.** Uzyskanie zgody, o której art. 8 2, nie zwalnia z obowiązku zgłoszenia podjęcia działalności gospodarczej do ewidencji działalności gospodarczej albo uzyskania koncesji lub zezwolenia na podjęcie działalności gospodarczej, na zasadach określonych odrębnych przepisach.
 
 **Art. 10.**
 
-1. Zabrania budowy obiektów budowla nych, tymczasowych obiektów budowlanych budowlanych terenie jego strefy ochronnej, obiektów nych zabezpieczenia przed znisz czeniem lub uszkodzeniem zapewnienia jego terenie, konserwacji, oznako wania jego granic albo granic strefy ochronnej lub nie osób ten Pomnik. Wydanie przewidzianych przepi sach obiektów budowlanych, tymczasowych obiektów budowlanych b';l dowlanych, mowa 1, lub budowy takich obiektów, przypadku gdy nie jest wy magane pozwolenie wymaga zgody woje wody, udzielonej drodze decyzji.
+1. Zabrania się budowy obiektów budowlanych, tymczasowych obiektów budowlanych i urządzeń budowlanych na terenie Pomnika Zagłady i jego strefy ochronnej, z wyjątkiem obiektów i urządzeń niezbędnych do zabezpieczenia Pomnika Zagłady przed zniszczeniem lub uszkodzeniem oraz zapewnienia porządku i czystości na jego terenie, stałej konserwacji, oznakowania jego granic albo granic strefy ochronnej lub niezbędnej obsługi osób odwiedzających ten Pomnik.
 
-3. Wojewoda nakazuje, drodze decyzji, obiektu budowlanego lub jego bu dowie albo wybudowanego bez wymaganej zgody, tylko rzecz Skarbu
+2. Wydanie przewidzianych odrębnych przepisach pozwoleń na budowę obiektów budowlanych, tymczasowych obiektów budowlanych i urządzeń budowlanych, o których 1, lub rozpoczęcie budowy takich obiektów,
 
-**Art. 14.** Do ce le ochrony nie stosuje przepisu art. 121 4 ustawy gospodarce mi.
+**Art. 11.**
+
+1. Do wywłaszczania nieruchomości położonych na obszarze Pomników Zagłady i ich stref ochronnych stosuje się przepisy ustawy o gospodarce nieruchomościami, jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
+
+2. Wywłaszczeniu na cele ochrony Pomnika Zagłady nie podlegają nieruchomości lub ich części, na których znajdują się kościoły, świątynie, kaplice lub budynki mieszkalne.
+
+**Art. 12.** Organem właściwym sprawach wywłaszczania nieruchomości na cele ochrony Pomnika Zagłady jest wojewoda.
+
+**Art. 13.** Nieruchomość położona na obszarze Pomnika Zagłady lub jego strefy ochronnej może być wywłaszczona tylko na rzecz Skarbu Państwa.
+
+**Art. 14.** Do nieruchomości wywłaszczonych na cele ochrony Pomnika Zagłady nie stosuje się przepisu art. 121 4 ustawy o gospodarce nieruchomościami.
 
 **Art. 15.**
 
-1. Decyzje, mowa wart. 8 2, 5 6, art. 10 2 3, decyzje nie cele ochrony woje woda wydaje po opinii terytorialnie gminy. Przepisu art. 106 Kodeksu powania administracyjnego nie stosuje opinii, której mowa 1, terminie 2 tygodni od dnia zwrócenia przez wo jej wydanie, oznacza opinii pozy tywnej.
+1. Decyzje, o których art. 8 2, 5 i 6, art. 10 2 i 3, oraz decyzje o wywłaszczaniu nieruchomości na cele ochrony Pomnika Zagłady wojewoda wydaje po zasięgnięciu opinii właściwego terytorialnie wójta (burmistrza, prezydenta miasta)Błąd! Nie zdefiniowano zakładki. . Przepisu art. 106 Kodeksu postępowania administracyjnego nie stosuje się.
 
-**Art. 16.** Organem stopnia sprawach, mowa wart. 7, 8,10,12 art. 26 3 art. 27 4 5, jest minister admini stracji publicznej.
+2. Niewyrażenie opinii, o której 1, terminie 2 tygodni od dnia zwrócenia się przez wojewodę o jej wydanie, oznacza wyrażenie opinii pozytywnej.
 
-**Art. 17.** Właściwość wojewody ustala miejsca jego strefy ochronnej. W przypadku gdy one terenie dwóch lub województw, wyznacza minister administracji publicznej drodze
+**Art. 16.** Organem wyższego stopnia sprawach, o których art. 7, 8, 10, 12 oraz art. 26 3 i art. 27 4 i 5, jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
 
-**Art. 18.**
+**Art. 17.** Właściwość miejscową wojewody ustala się według miejsca położenia Pomnika Zagłady i jego strefy ochronnej. W przypadku gdy leżą one na terenie dwóch lub więcej województw, właściwego wojewodę wyznacza minister właściwy do spraw administracji publicznej drodze zarządzenia. kultury i ochrony dziedzictwa narodowego przysługuje prawo strony postępowaniu administracyjnym oraz postępowaniu przed sądem administracyjnym, jeżeli zgłosi swój udział tym postępowaniu terminie 7 dni od dnia doręczenia zawiadomienia o jego wszczęciu. 3. Przepisu 2 nie stosuje się do postępowania administracyjnego, którym minister właściwy do spraw kultury i ochrony dziedzictwa narodowego jest organem właściwym I lub II instancji.
 
-1. Organ, który ad ministracyjne, którego skutki lub jego strefy ochronnej, jest ministra administracji publicznej wania. W którym mowa 1, mini strowi administracji publicznej prawo strony administra cyjnym przed Naczelnym Administracyjnym, swój tym po terminie 7 dni od dnia zawia domienia jego
-
-3. Przepisu 2 nie stosuje administracyjnego, którym minister administracji publicznej jest organem wym I lub II instancji. 3
+#### Rozdział 3 Przepisy karne
 
 **Art. 19.**
 
-1. Kto prowadzi
+1. Kto prowadzi działalność gospodarczą na terenie Pomnika Zagłady lub jego strefy ochronnej pomimo braku zgody na jej prowadzenie, podlega karze grzywny.
 
-**Art. 21.** W ustawie dnia 23 grudnia 1988 r. dzia gospodarczej (Dz.U. 41, 324, 1990 r. 26, 149 34, 198, 1991 r. 31, 128, 41, 179, 73, 321, 105, 452, 106, 457 107, 460, 1993 r. 28, 127, 47, 212 134, 646, 1994 r. 27, 96 127, 627, 1995 r. 60, 310, 85, 426, 90, 446, 141, 700 147, 713, 1996 r. 41, 177 45, 199, 1997 r. 9, 44, 23, 117, 43, 272, 54, 348, 60, 369, 75, 471, 88, 554, 96, 591, 98, 602, 106, 677 , 113, 733, 114, 740, 121, 769 770, 124, 783, 133, 884 157, 1026 1999 r. 40,
+2. Postępowanie sprawach, o których 1, prowadzi się na podstawie przepisów o postępowaniu sprawach o wykroczenia.
 
-**Art. 22.** W ustawie dnia 5 lipca 1990 r. Prawo zgromadzeniach (Dz.U. 51, 297) wart. 2 krop przecinkiem dodaje wyrazy "a tak ochrony Pomników rozumieniu ustawy dnia 7 maja 1999 r. ochronie terenów hitle rowskich obozów (Dz. U. 41, 412)."
+#### Rozdział 4 Zmiany przepisach obowiązujących
 
-**Art. 23.** W ustawie dnia 7 lipca 1994 r. Prawo bu dowlane (Dz. U. 89, 414, 1996 r. 100, 465, 106, 496 146, 680, 1997 r. 88, 554 111, 726 1998 r. 22, 118 106,
-
-**Art. 24.** W ustawie dnia 7 lipca 1994 r. zagospo darowaniu przestrzennym (Oz. U. 1999 r. 15,
+#### Rozdział 5 Przepisy przejściowe i końcowe
 
 **Art. 26.**
 
-1. Osoby dniu cie ustawy obszarze Po mnika lub jego strefy ochronnej ne, terminie 6 od dnia roz którym mowa wart. 4 3, go tego jego strefy ochronnej, wy wojewody udzielenie zgody jej prowa dzenie. Do wydanie zgody stosuje przepisy art. 8.
+1. Osoby prowadzące dniu wejścia życie ustawy działalność gospodarczą na obszarze Pomnika Zagłady lub jego strefy ochronnej są obowiązane, terminie 6 miesięcy od dnia wejścia życie rozporządzenia, o którym art.
 
-3. Osobie, której nie udzielono zgody, odszkodowanie za poniesione straty. od szkodowania ustala wojewoda drodze decyzji.
+4. W przypadku niewystąpienia o wydanie zgody terminie, o którym 1, prowadzący działalność gospodarczą jest obowiązany zaprzestać jej wykonywania terminie miesiąca od ostatniego dnia terminu, o którym
 
-4. W przypadku wydanie zgody terminie, którym mowa 1, dzia jest jej wykonywania terminie od ostatniego dnia terminu, którym mowa 1. W takim przypadku nie guje odszkodowanie.
+1. W takim przypadku prowadzącemu działalność gospodarczą nie przysługuje odszkodowanie.
 
 **Art. 27.**
 
-1. W okresie 3 od dnia którym mowa wart. 4 3, jego strefy ochronnej, wojewoda tym dniu umowy, jest Skarb doty korzystania Skarbu obszarze Pomni ka lub jego strefy ochronnej, zachowaniem terminu wypowiedzenia, ze skutkiem koniec kalendarzowego. guje za które osoba ta gdyby umowy nie
+1. W okresie 3 miesięcy od dnia wejścia życie rozporządzenia, o którym art. 4 3, dotyczącego Pomnika Zagłady i jego strefy ochronnej, wojewoda może wypowiedzieć obowiązujące tym dniu umowy, których stroną jest Skarb Państwa, dotyczące korzystania z nieruchomości stanowiących własność Skarbu Państwa położonych na obszarze Pomnika Zagłady lub jego strefy ochronnej, z zachowaniem miesięcznego terminu wypowiedzenia, ze skutkiem na koniec miesiąca kalendarzowego.
 
-4. odszkodowania ustala wojewoda drodze decyzji.
+2. Jeżeli umowa, o której 1, dniu wejścia życie rozporządzenia, o którym art. 4 3, dotyczącego Pomnika Zagłady i jego strefy ochronnej, stanowi przedmiot postępowania sądowego, określony 1 termin 3 miesięcy liczy się od dnia prawomocnego zakończenia tego postępowania.
 
-5. posiadacz której mowa 1, pomimo terminu wypowiedzenia umowy korzystania tej mawia jej wydania, a dalsze posiadanie przez niego lub charakter mnik.a wojewoda drodze decyzji, wydanie tej
+3. Osobie, której wypowiedziano umowę, przysługuje odszkodowanie za straty poniesione związku z rozwiązaniem umowy. Odszkodowanie nie przysługuje za korzyści, które osoba ta mogłaby osiągnąć, gdyby umowy nie rozwiązano.
 
-6. W decyzji termin, którym nierucho powinna wydana.
+4. Wysokość odszkodowania ustala wojewoda drodze decyzji.
 
-7. Decyzji nadany rygor natychmiastowej wykonal
+5. Jeżeli posiadacz nieruchomości, o której 1, pomimo upływu terminu wypowiedzenia umowy dotyczącej korzystania z tej nieruchomości, odmawia jej wydania, a dalsze posiadanie przez niego nieruchomości naruszałoby powagę lub charakter Pomnika Zagłady, wojewoda może, drodze decyzji, nakazać wydanie tej nieruchomości.
 
-8. W przypadku uchylania posiadacza nierucho od jej wydania decyzja podlega egzekucji sadach przepisach zekucyjnym administracji.
+6. W decyzji określa się termin, którym nieruchomość powinna być wydana.
 
-9. Organem przeprowadzenia egze kucji administracyjnej przypadku, którym mowa 8, jest wojewoda.
+7. Decyzji może być nadany rygor natychmiastowej wykonalności.
 
-**Art. 28.** Do wydania obszarze lub jego strefy ochronnej, przez jej posiadacza, któremu przed dniem ustawy wypowiedziano rzystania tej stosuje przepisy 27 5-9, dnia ustawy nie wydana.
+**Art. 28.** Do wydania nieruchomości położonej na obszarze Pomnika Zagłady lub jego strefy ochronnej, przez jej posiadacza, któremu przed dniem wejścia życie ustawy wypowiedziano umowę dotyczącą korzystania z tej nieruchomości, stosuje się przepisy art. 27 5–9, jeżeli do dnia wejścia życie ustawy nieruchomość nie została wydana.
 
-**Art. 29.** Ustawa wchodzi po 14 od dnia Prezydent Rzeczypospolitej Polskiej: A. 413 dnia 19 kwietnia 1999 r.
+**Art. 29.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
 

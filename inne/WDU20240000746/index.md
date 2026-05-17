@@ -8,9 +8,12 @@ pos: 746
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 maja 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o międzynarodowym przemieszczaniu odpadów
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 maja 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000746) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/746/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 maja 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o międzynarodowym przemieszczaniu odpadów
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. z 2020 r. poz. 1792), z uwzględnieniem zmian wprowadzonych ustawą z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 maja 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 20 oraz art. 26 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890), które stanowią: „Art. 20. 1. Do spraw, o których mowa w art. 23 ust. 1 i art. 25 ust. 1 ustawy zmienianej w art. 10, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy wydaniem postanowienia, o którym mowa odpowiednio w art. 23 ust. 1 albo art. 25 ust. 1 ustawy zmienianej w art. 10 w brzmieniu dotychczasowym, stosuje się przepisy w brzmieniu nadanym niniejszą ustawą. W takim przypadku wszczęte postępowanie staje się postępowaniem w sprawie wydania decyzji, o której mowa odpowiednio w art. 23 ust. 1 albo art. 25 ust. 1 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą, o czym Główny Inspektor Ochrony Środowiska zawiadamia stronę postępowania i organy, o których mowa odpowiednio w art. 23 ust. 2 albo art. 25 ust. 2 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą.
 2. Do postanowień, o których mowa w art. 23 ust. 1 albo art. 25 ust. 1 ustawy zmienianej w art. 10 w brzmieniu dotychczasowym, wydanych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.

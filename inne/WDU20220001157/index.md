@@ -1,0 +1,44 @@
+---
+title: Obwieszczenie Ministra Zdrowia z dnia 20 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie specjalizacji lekarskich niezbędnych do wykonywania orzecznictwa w zakresie chorób zawodowych
+address: WDU20220001157
+eli: DU/2022/1157
+publisher: DU
+year: 2022
+pos: 1157
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 maja 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1157 |
+| ISAP | WDU20220001157 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-05-20 |
+| Data wydania | 2022-05-31 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1157/text.pdf) |
+
+Poz. 1157 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 20 maja 2022 r.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie specjalizacji lekarskich niezbędnych do wykonywania orzecznictwa w zakresie chorób zawodowych
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 18 czerwca 2010 r. w sprawie specjalizacji lekarskich niezbędnych do wykonywania orzecznictwa w zakresie chorób zawodowych (Dz. U. poz. 736), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 24 czerwca 2021 r. zmieniającym rozporządzenie w sprawie specjalizacji lekarskich niezbędnych do wykonywania orzecznictwa w zakresie chorób zawodowych (Dz. U. poz. 1289).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 24 czerwca 2021 r. zmieniającego rozporządzenie w sprawie specjalizacji lekarskich niezbędnych do wykonywania orzecznictwa w zakresie chorób zawodowych (Dz. U. poz. 1289), które stanowią: „§ 2. Do spraw z zakresu orzecznictwa lekarskiego w zakresie chorób zawodowych zakaźnych i pasożytniczych wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się § 2 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
+Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 18 czerwca 2010 r.
+w sprawie specjalizacji lekarskich niezbędnych do wykonywania orzecznictwa w zakresie chorób zawodowych Na podstawie art. 9 ust. 3 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2022 r. poz. 437) zarządza się, co następuje: § 1. Specjalizacjami lekarskimi, niezbędnymi do wykonywania orzecznictwa lekarskiego w zakresie chorób zawodowych, z zastrzeżeniem § 2 i 3, są:
+1) medycyna pracy;
+2) medycyna przemysłowa;
+3) medycyna morska i tropikalna;
+4) medycyna lotnicza;
+5) medycyna kolejowa;
+6) medycyna transportu.
+§ 2. Orzecznictwo lekarskie w zakresie chorób zawodowych zakaźnych i pasożytniczych wykonuje lekarz specjalista chorób zakaźnych, lekarz specjalista medycyny pracy lub lekarz specjalista medycyny przemysłowej.
+§ 3. Orzecznictwo lekarskie w zakresie choroby zawodowej, w odniesieniu do pracownika leczonego w zakładzie opieki stacjonarnej z powodu wystąpienia ostrych objawów choroby mogącej być chorobą zawodową, wykonuje specjalista w dziedzinie medycyny odpowiedniej dla tej choroby, zatrudniony w tym zakładzie.
+§ 4. Rozporządzenie wchodzi w życie z dniem 28 czerwca 2010 r.
+

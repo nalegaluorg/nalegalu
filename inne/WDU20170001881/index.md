@@ -8,9 +8,10 @@ pos: 1881
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, dnia 10 października 2017 r.
+# MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 września 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1881/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 września 2017 r.
-sprawie ogłoszenia jednolitego tekstu ustawy fundacji Zakład Narodowy imienia Ossoli ń skich
-1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 stycznia 1995 r. fundacji Zakład Narodowy imienia Ossolińskich (Dz. U. Nr 23, poz. 121), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 30 sierpnia 2002 r. Przepisy wprowadzające ustawę Prawo ustroju sądów administracyjnych ustawę Prawo postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271),
+sprawie ogłoszenia jednolitego tekstu ustawy fundacji Zakład Narodowy imienia Ossolińskich
+1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 stycznia 1995 r. fundacji Zakład Narodowy imienia Ossolińskich (Dz. U. Nr 23, poz. 121), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia 30 sierpnia 2002 r. Przepisy wprowadzające ustawę Prawo ustroju sądów administracyjnych i ustawę Prawo postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271),
 2) ustawą z dnia 11 maja 2007 r. zmianie ustawy fundacji Zakład Narodowy imienia Ossolińskich (Dz. U. Nr 112, poz. 768),
 3) ustawą z dnia 5 lipca 2007 r. zmianie ustawy fundacji Zakład Narodowy imienia Ossolińskich (Dz. U. Nr 147, poz. 1029),
-4) ustawą z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 września 2017 r.
+4) ustawą z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę zasadach zarządzania mieniem państwowym (Dz.
+U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 września 2017 r.
 2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) 97, 100 106 ustawy z dnia 30 sierpnia 2002 r. Przepisy wprowadzające ustawę Prawo ustroju sądów administracyjnych ustawę Prawo postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271), które stanowią: „Art. 97. § 1. Sprawy, których skargi zostały wniesione Naczelnego Sądu Administracyjnego przed dniem 1 stycznia 2004 r. postępowanie nie zostało zakończone, podlegają rozpoznaniu właściwe wojewódzkie sądy administracyjne na podstawie przepisów ustawy Prawo postępowaniu przed sądami administracyjnymi.
-§ 2. W sprawach, których mowa § 1, stosuje się dotychczasowe przepisy wpisie innych kosztach sądowych.” „Art. 100. Ocena prawna wyrażona wydanych przed dniem 1 stycznia 2004 r. uchwałach Naczelnego Sądu Administracyjnego nie wiąże wojewódzkiego sądu administracyjnego rozpoznającego sprawę, której mowa 97 § 1.” „Art. 106. Ustawa wchodzi ż ycie z dniem 1 stycznia 2004 r., z wyj ą tkiem przepisów 8 1 2, 10 2 3, 84 1, 86 § 1, 87 § 2, 88, 90 § 1, 91 92, które wchodz ą ż ycie po upływie 14 dni od dnia ogłoszenia.”;
-realizacji zadań państwowych Zakładu Narodowego imienia Ossolińskich, wynikających z niniejszej ustawy, z zachowaniem przeznaczenia środków publicznych, określonego ustawie budżetowej na rok 2007 z dnia 25 stycznia 2007 r. (Dz. U. Nr 15, poz. 90).
+1) 97, 100 i 106 ustawy z dnia 30 sierpnia 2002 r. Przepisy wprowadzające ustawę Prawo ustroju sądów administracyjnych i ustawę Prawo postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271), które stanowią: „Art. 97. § 1. Sprawy, których skargi zostały wniesione Naczelnego Sądu Administracyjnego przed dniem 1 stycznia 2004 r. i postępowanie nie zostało zakończone, podlegają rozpoznaniu właściwe wojewódzkie sądy administracyjne na podstawie przepisów ustawy Prawo postępowaniu przed sądami administracyjnymi.
+§ 2. W sprawach, których mowa § 1, stosuje się dotychczasowe przepisy wpisie i innych kosztach sądowych.” „Art. 100. Ocena prawna wyrażona wydanych przed dniem 1 stycznia 2004 r. uchwałach Naczelnego Sądu Administracyjnego nie wiąże wojewódzkiego sądu administracyjnego rozpoznającego sprawę, której mowa 97 §
+1.” „Art. 106. Ustawa wchodzi życie z dniem 1 stycznia 2004 r., z wyjątkiem przepisów 8 1 i 2, 10 2 i 3, 84 1, 86 § 1, 87 § 2, 88, 90 § 1, 91 i 92, które wchodzą życie po upływie 14 dni od dnia ogłoszenia.”;
+2) 2 i 3 ustawy z dnia 11 maja 2007 r. zmianie ustawy fundacji Zakład Narodowy imienia Ossolińskich (Dz.
+U. Nr 112, poz. 768), które stanowią: „Art. 2. Prezes Rady Ministrów może, drodze rozporządzenia, dokonać przeniesienia planowanych wydatków budżetowych z części 38 Szkolnictwo wyższe części 24 Kultura i ochrona dziedzictwa narodowego, celu realizacji zadań państwowych Zakładu Narodowego imienia Ossolińskich, wynikających z niniejszej ustawy, z zachowaniem przeznaczenia środków publicznych, określonego ustawie budżetowej na rok 2007 z dnia 25 stycznia 2007 r. (Dz. U. Nr 15, poz. 90).
 
 **Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
 
@@ -50,7 +53,7 @@ realizacji zadań państwowych Zakładu Narodowego imienia Ossolińskich, wynika
 
 **Art. 4.** Siedzibą Zakładu jest miasto Wrocław.
 
-**Art. 5.** Celami Zakładu zgodnie z historyczną tradycją postanowieniami założyciela są:
+**Art. 5.** Celami Zakładu zgodnie z historyczną tradycją i postanowieniami założyciela są:
 
 **Art. 6.**
 
@@ -58,11 +61,13 @@ realizacji zadań państwowych Zakładu Narodowego imienia Ossolińskich, wynika
 
 2. Minister właściwy spraw Skarbu Państwa przypadku dokonania komercjalizacji przedsiębiorstwa państwowego Zakład Narodowy imienia Ossolińskich Wydawnictwo przekaże nieodpłatnie Zakładowi wszystkie akcje lub udziały jakie Skarb Państwa obejmie spółce powstałej wyniku komercjalizacji tego przedsiębiorstwa państwowego.
 
-3. W spółce, której mowa ust. 2, uprawnieni pracownicy rozumieniu 2 5 ustawy z dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników (Dz. U. z 2017 r. poz. 1055) oraz ich spadkobiercy zachowują prawo nieodpłatnego nabycia akcji lub udziałów. Przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników, stosuje się odpowiednio, przy czym kompetencje zakresie zbywania akcji należą Dyrektora Zakładu.
+3. W spółce, której mowa ust. 2, uprawnieni pracownicy rozumieniu 2 5 ustawy z dnia 30 sierpnia 1996 r. komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2017 r. poz. 1055) oraz ich spadkobiercy zachowują prawo nieodpłatnego nabycia akcji lub udziałów. Przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. komercjalizacji i niektórych uprawnieniach pracowników, stosuje się odpowiednio, przy czym kompetencje zakresie zbywania akcji należą Dyrektora Zakładu.
 
 **Art. 7.**
 
-1. Zakład staje się z chwilą wpisania rejestru fundacji, z mocy prawa, użytkownikiem wieczystym gruntów, będących we władaniu Biblioteki Zakładu Narodowego imienia Ossolińskich Polskiej Akademii Nauk we Wrocławiu, zakresie, jakim stanowią one własność Skarbu Państwa lub gminy, oraz nieodpłatnie właścicielem znajdujących się na tych gruntach budynków innych urządzeń. gospodarczej.
+1. Zakład staje się z chwilą wpisania rejestru fundacji, z mocy prawa, użytkownikiem wieczystym gruntów, będących we władaniu Biblioteki Zakładu Narodowego imienia Ossolińskich Polskiej Akademii Nauk we Wrocławiu, zakresie, jakim stanowią one własność Skarbu Państwa lub gminy, oraz nieodpłatnie właścicielem znajdujących się na tych gruntach budynków i innych urządzeń.
+
+3. Zakład jest zwolniony od pierwszej i rocznych opłat za użytkowanie wieczyste gruntów stanowiących własność Skarbu Państwa lub gminy, których mowa ust. 1, jeżeli grunty te nie są wykorzystywane wyłącznie działalności gospodarczej.
 
 **Art. 8.**
 
@@ -77,7 +82,7 @@ realizacji zadań państwowych Zakładu Narodowego imienia Ossolińskich, wynika
 
 2. Statut Zakładu określi szczególności:
 
-- **1)** zasady powoływania zakres kompetencji organów,
+- **1)** zasady powoływania i zakres kompetencji organów,
 - **2)** zakres działalności gospodarczej.
 
 **Art. 10.** Zakład może prowadzić działalność gospodarczą, służącą realizacji jego celów, sposób przewidziany statucie.
@@ -88,34 +93,36 @@ realizacji zadań państwowych Zakładu Narodowego imienia Ossolińskich, wynika
 
 - **1)** dochody z majątku Zakładu,
 - **2)** dochody z działalności gospodarczej Zakładu,
-- **3)** darowizny, spadki zapisy,
+- **3)** darowizny, spadki i zapisy,
 - **4)** dywidendy z akcji lub udziałów spółki, której mowa 6 ust. 2.
 
 2. Zakład otrzymuje z budżetu państwa dotacje na realizację zadań państwowych:
 
-- **1)** utrzymywanie zbiorów Narodowej Biblioteki Ossolineum, ich pomnażanie, opracowywanie upowszechnianie,
-- **2)** utrzymywanie pomnażanie zbiorów Muzeum Książąt Lubomirskich,
+- **1)** utrzymywanie zbiorów Narodowej Biblioteki Ossolineum, ich pomnażanie, opracowywanie i upowszechnianie,
+- **2)** utrzymywanie i pomnażanie zbiorów Muzeum Książąt Lubomirskich,
 - **3)** utrzymywanie wydawnictw niekomercyjnych.
 
 3. Dywidendy, których mowa ust. 1 4, nie mogą być przeznaczane na wykonywanie Zakład działalności gospodarczej.
 
 **Art. 12.**
 
-1. Nadzór nad Zakładem sprawuje minister właściwy spraw kultury ochrony dziedzictwa narodowego.
+1. Nadzór nad Zakładem sprawuje minister właściwy spraw kultury i ochrony dziedzictwa narodowego.
 
-2. Do uprawnień nadzorczych ministra należy okresowa kontrola wykorzystywania środków publicznych realizacji celów statutowych Zakładu.
+2. Do uprawnień nadzorczych ministra należy okresowa kontrola wykorzystywania środków publicznych i realizacji celów statutowych Zakładu.
 
-3. Statut Zakładu może być zmieniony Radę Kuratorów porozumieniu z ministrem właściwym spraw kultury ochrony dziedzictwa narodowego.
+3. Statut Zakładu może być zmieniony Radę Kuratorów porozumieniu z ministrem właściwym spraw kultury i ochrony dziedzictwa narodowego.
 
 **Art. 13.**
 
-- **10)** Zakład składa corocznie ministrowi właściwemu spraw kultury ochrony dziedzictwa narodowego sprawozdanie ze swojej działalności. Sprawozdanie jest udostępniane Zakład publicznej wiadomości.
+- **10)** Zakład składa corocznie ministrowi właściwemu spraw kultury i ochrony dziedzictwa narodowego sprawozdanie ze swojej działalności. Sprawozdanie jest udostępniane Zakład publicznej wiadomości.
 
 **Art. 14.**
 
-1. Minister właściwy spraw kultury ochrony dziedzictwa narodowego może uchylić decyzję Dyrektora Zakładu, pozostającą rażącej sprzeczności z przepisami prawa lub postanowieniami statutu albo z jego celami.
+1. Minister właściwy spraw kultury i ochrony dziedzictwa narodowego może uchylić decyzję Dyrektora Zakładu, pozostającą rażącej sprzeczności z przepisami prawa lub postanowieniami statutu albo z jego celami.
 
-2. Od decyzji ministra, której mowa ust. 1, służy Zakładowi skarga sądu administracyjnego. dziedzictwa narodowego Dyrektora Zakładu, tymczasowego od Rady Kuratorów przedstawienia wyznaczonym terminie kandydatury nowego Dyrektora Zakładu.
+2. Od decyzji ministra, której mowa ust. 1, służy Zakładowi skarga sądu administracyjnego.
+
+2. Po bezskutecznym upływie terminu, którym mowa ust. 1, minister właściwy spraw kultury i ochrony dziedzictwa narodowego może zawiesić Dyrektora Zakładu, wyznaczyć zarządcę tymczasowego i zażądać od Rady Kuratorów przedstawienia wyznaczonym terminie kandydatury nowego Dyrektora Zakładu.
 
 3. Zarządca tymczasowy reprezentuje Zakład sprawach wynikających z zarządu, tym również postępowaniu sądowym; jest on obowiązany wykonywać czynności potrzebne prawidłowego działania Zakładu.
 
@@ -123,7 +130,7 @@ realizacji zadań państwowych Zakładu Narodowego imienia Ossolińskich, wynika
 
 **Art. 16.**
 
-1. Prawo używania znaku historycznego, którym mowa 3, jako znaku instytucji służy Zakładowi oraz jako znaku historycznego towarowego spółce, której mowa 6 ust. 2.
+1. Prawo używania znaku historycznego, którym mowa 3, jako znaku instytucji służy Zakładowi oraz jako znaku historycznego i towarowego spółce, której mowa 6 ust. 2.
 
 2. Prawo to nie może być zbyte lub udostępnione osobom trzecim bez zgody Rady Kuratorów Zakładu.
 

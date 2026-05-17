@@ -8,9 +8,12 @@ pos: 2063
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 października 2022 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy Prawo o miarach
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 września 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002063) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2063/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 września 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy Prawo o miarach
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 maja 2001 r. Prawo o miarach (Dz. U. z 2021 r. poz. 2068), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 maja 2022 r. o zmianie ustawy Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2022 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 10 ustawy z dnia 12 maja 2022 r. o zmianie ustawy Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117), który stanowi: „Art. 10. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi życie z dniem 1 października 2022 r.”.
 Marszałek Sejmu: E. Witek
@@ -178,7 +179,7 @@ Prawo o miarach
 - **2)** może nadać znak zatwierdzenia typu, jeżeli przyrząd pomiarowy podlega zatwierdzeniu typu i legalizacji;
 - **3)** może określić miejsca umieszczania cech legalizacji oraz cech zabezpieczających na przyrządach pomiarowych zgodnych z zatwierdzonym typem.
 
-6. Jeżeli jest to niezbędne dla scharakteryzowania i identyfikacji typu przyrządu pomiarowego oraz objaśnienia jego działania, do decyzji mogą być dołączone opisy, rysunki, wykresy lub fotografie. dzonym typem posiadają jednak wady, utrudniające ich zamierzone użytkowanie.
+6. Jeżeli jest to niezbędne dla scharakteryzowania i identyfikacji typu przyrządu pomiarowego oraz objaśnienia jego działania, do decyzji mogą być dołączone opisy, rysunki, wykresy lub fotografie.
 
 2. Prezes może cofnąć zatwierdzenie typu przypadku stwierdzenia, że:
 
@@ -328,7 +329,7 @@ Prawo o miarach
 
 4. Rada podejmuje uchwały bezwzględną większością głosów obecności co najmniej połowy członków Rady. W przypadku równej liczby głosów decyduje głos przewodniczącego.
 
-5. Rada może powoływać komisje problemowe. W skład komisji mogą wchodzić eksperci zewnętrzni. mowych określa regulamin ustanowiony przez Radę.
+5. Rada może powoływać komisje problemowe. W skład komisji mogą wchodzić eksperci zewnętrzni.
 
 7. Członkom Rady przysługuje zwrot kosztów podróży na zasadach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510 i 1700), przypadku gdy posiedzenia Rady odbywają się poza miejscem ich zamieszkania lub świadczenia pracy.
 
@@ -430,7 +431,7 @@ Prawo o miarach
 1. Do zakresu działania Prezesa należy:
 
 - **1)** utrzymywanie i rozwój systemu legalnych jednostek miar i państwowych wzorców jednostek miar, szczególności:
-    - **a)** budowa, utrzymywanie i modernizacja państwowych wzorców jednostek miar i układów pomiarowych służących do przekazywania jednostek miar przechowywanych i stosowanych Urzędzie oraz prowadzenie badań naukowych i prac rozwojowych tym zakresie, państwowych wzorców jednostek miar,
+    - **a)** budowa, utrzymywanie i modernizacja państwowych wzorców jednostek miar i układów pomiarowych służących do przekazywania jednostek miar przechowywanych i stosowanych Urzędzie oraz prowadzenie badań naukowych i prac rozwojowych tym zakresie,
     - **c)** zapewnienie, drodze porównań, powiązania państwowych wzorców jednostek miar z międzynarodowymi wzorcami jednostek miar lub wzorcami jednostek miar innych krajach, a także potwierdzania kompetencji zakresie realizowanych wzorcowań i pomiarów,
     - **d)** zapewnienie przekazywania wartości legalnych jednostek miar od państwowych wzorców jednostek miar do przyrządów pomiarowych, tym na rzecz podmiotów wykonujących działalność celu zapewnienia jednolitości miar i dokładności pomiarów związanych z obronnością i bezpieczeństwem państwa, której organizację określa rozporządzenie wydane na podstawie art. 3,
     - **e)** sprawowanie nadzoru nad działalnością jednostek organizacyjnych i laboratoriów spoza administracji miar będących właścicielami państwowych wzorców jednostek miar, utrzymujących i udostępniających te wzorce,
@@ -601,7 +602,7 @@ Prawo o miarach
 - **2)** sprawdzanie spełniania wymagań przez przyrządy pomiarowe podlegające prawnej kontroli metrologicznej wprowadzone do obrotu lub użytkowania, stosowane albo przechowywane stanie gotowości do użycia, dziedzinach, o których mowa art. 8 ust. 1;
 - **3)** sprawdzanie posiadania przez podmioty wprowadzające przyrządy pomiarowe do obrotu lub użytkowania oraz przez użytkowników przyrządów pomiarowych podlegających prawnej kontroli metrologicznej ważnych dowodów tej kontroli;
 - **4)** przestrzeganie spełniania warunków właściwego stosowania przyrządów pomiarowych podlegających prawnej kontroli metrologicznej;
-- **5)** przestrzeganie obowiązku posiadania udzielonych przez Prezesa Głównego Urzędu Miar upoważnień do legalizacji pierwotnej lub legalizacji ponownej przyrządów pomiarowych, zwanych dalej „upoważnieniami”; cyjne i laboratoria spoza administracji miar, będące właścicielami tych wzorców;
+- **5)** przestrzeganie obowiązku posiadania udzielonych przez Prezesa Głównego Urzędu Miar upoważnień do legalizacji pierwotnej lub legalizacji ponownej przyrządów pomiarowych, zwanych dalej „upoważnieniami”;
 - **7)** spełnianie warunków niezbędnych do wykonywania czynności na podstawie udzielonych upoważnień;
 - **8)** przestrzeganie wymagań dotyczących paczkowania produktów i produkcji butelek miarowych.
 
@@ -654,7 +655,7 @@ Prawo o miarach
 
 1. Kontrolowany jest obowiązany do zapewnienia kontrolującym warunków niezbędnych do przeprowadzenia kontroli, szczególności do:
 
-- **1)** udzielania wszelkich niezbędnych wyjaśnień; przewidzianych zakresem kontroli;
+- **1)** udzielania wszelkich niezbędnych wyjaśnień;
 - **3)** sporządzania uwierzytelnionych odpisów lub wyciągów z udostępnianych dokumentów;
 - **4)** zapewnienia nienaruszalności zabezpieczonych przez kontrolujących przyrządów pomiarowych pozostawionych na przechowanie u kontrolowanego.
 
@@ -805,7 +806,7 @@ Prawo o miarach
 
 3. Wniosek o odroczenie i zezwolenie na dalsze użytkowanie, o których mowa ust. 1, składa się okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo występowania niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego.
 
-4. Wniosek oraz oświadczenie, o których mowa ust. 1, mogą zostać złożone tylko do jednego organu administracji miar pisemnie lub za pomocą środków komunikacji elektronicznej rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344). Organ administracji miar, do którego wpłynęły wniosek oraz oświadczenie, może dokonywać wezwań do uzupełnienia braków wniosku lub oświadczenia pisemnie, za pomocą środków komunikacji elektronicznej, telefonicznie lub inny sposób. Sposób wezwania należy udokumentować, dołączając do akt sprawy notatkę służbową lub potwierdzenie transmisji danych. czenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Niniejsza klauzula zastępuje pouczenie organu administracji miar o odpowiedzialności karnej za składanie fałszywych oświadczeń. Jeżeli wnioskodawca nie jest osobą fizyczną, oświadczenie, o którym mowa ust. 1, składają osoby uprawnione do reprezentacji wnioskodawcy.
+4. Wniosek oraz oświadczenie, o których mowa ust. 1, mogą zostać złożone tylko do jednego organu administracji miar pisemnie lub za pomocą środków komunikacji elektronicznej rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344). Organ administracji miar, do którego wpłynęły wniosek oraz oświadczenie, może dokonywać wezwań do uzupełnienia braków wniosku lub oświadczenia pisemnie, za pomocą środków komunikacji elektronicznej, telefonicznie lub inny sposób. Sposób wezwania należy udokumentować, dołączając do akt sprawy notatkę służbową lub potwierdzenie transmisji danych. złożenie fałszywego oświadczenia”. Niniejsza klauzula zastępuje pouczenie organu administracji miar o odpowiedzialności karnej za składanie fałszywych oświadczeń. Jeżeli wnioskodawca nie jest osobą fizyczną, oświadczenie, o którym mowa ust. 1, składają osoby uprawnione do reprezentacji wnioskodawcy.
 
 6. Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytkowanie na warunkach określonych ust. 1 następuje drodze decyzji, wydanej terminie 30 dni od dnia złożenia wniosku, a za czynności wydania takiej decyzji nie pobiera się opłaty. Odroczenie i zezwolenie na dalsze użytkowanie, o których mowa ust. 1, liczone są od pierwszego dnia upływu okresu ważności legalizacji przyrządu albo terminu, którym przyrząd powinien być zgłoszony do legalizacji ponownej po dokonaniu oceny zgodności.
 

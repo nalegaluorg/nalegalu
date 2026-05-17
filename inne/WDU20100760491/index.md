@@ -8,9 +8,12 @@ pos: 491
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# 491
+# o zmianie zakresu obowiązywania Europejskiej Karty Społecznej sporządzonej w Turynie dnia 18 października 1961 r.
+
+*USTAWA z dnia 5 marca 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100760491) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/491/text.pdf) |
 
-USTAWA z dnia 5 marca 2010 r.
-o zmianie zakresu obowiązywania Europejskiej Karty Społecznej sporządzonej w Turynie dnia 18 października 1961 r.
+**Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu obowiązywania Europejskiej Karty Społecznej sporządzonej w Turynie dnia 18 października 1961 r. poprzez wyłączenie z tego zakresu art. 8 ust. 4 pkt b.
 
-**Art. 1.** Wyraża się zgodę na dokonanie przez Prezy- Art. 2. Ustawa wchodzi w życie po upływie 14 denta Rzeczypospolitej Polskiej zmiany zakresu obo- od dnia ogłoszenia. wiązywania Europejskiej Karty Społecznej sporządzonej w Turynie dnia 18 października 1961 r. poprzez Marszałek Sejmu wykonujący obowiązki wyłączenie z tego zakresu art. 8 ust. 4 pkt b. Prezydenta Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

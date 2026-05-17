@@ -1,0 +1,44 @@
+---
+title: Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 lutego 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich
+address: WDU20230000464
+eli: DU/2023/464
+publisher: DU
+year: 2023
+pos: 464
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 marca 2023 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 464 |
+| ISAP | WDU20230000464 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-02-13 |
+| Data wydania | 2023-03-10 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000464) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/464/text.pdf) |
+
+446644 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 13 lutego 2023 r.
+ogłoszenia jednolitego tekstu rozporządzenia Ministra wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych z 2019 r. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra z dnia 29 maja 2014 r. wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich z 2016 r. 1467), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Administracji z dnia 10 marca 2021 r. zmieniającym rozporządzenie wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich
+471).
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 § 3 rozporządzenia Ministra Administracji z dnia 10 marca 2021 r. zmieniającego rozporządzenie wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich 471), które stanowią: „§ 2. Do rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich 2020 r.
+przepisy rozporządzenia, o którym mowa § 1, brzmieniu nadanym niniejszym rozporządzeniem stosuje się od dnia 5 września 2020 r.
+§ 3. Rozporządzenie wchodzi życie po upływie 7 dni od dnia ogłoszenia.”.
+Minister Administracji: M. Kamiński ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 29 maja 2014 r.
+wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich Na podstawie art. 105i ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej z 2022 r. 1969 oraz z 2023 r. 240 347) zarządza się, co następuje: § 1. Wzór rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich określa załącznik do rozporządzenia.
+§ 2. Rozporządzenie wchodzi życie z dniem 1 czerwca 2014 r.
+WZÓR WZÓR ROCZNE ZESTAWIENIE ZBIORCZE PRZYCZYN PRZEBYWANIA STRAŻAKÓW NA ZWOLNIENIACH LEKARSKICH W ........................ ROKU Tabela nr 1 Przeciętny stan osobowy strażaków danym roku kalendarzowym Tabela nr 2 Liczba dni Przyczyny przebywania strażaków na udzielonych Lp. zwolnieniu lekarskim lub okoliczności zwolnień ich przebywania na tym zwolnieniu lekarskich ogółem Średnia liczba dni przebywania strażaków na zwolnieniu lekarskim Średnia roczna liczba godzin niewykonywania obowiązków przez strażaków 1 2 3 4 5 1 choroba strażaka, tym niemożność wykonywania zajęć służbowych z przyczyn określonych art. 6 ust. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby macierzyństwa z 2022 r. 1732, 2140 2476) − art. 105b ust. 2 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, zwanej dalej „ustawą o Państwowej Straży Pożarnej” Ze zmianami wprowadzonymi przez § 1 rozporządzenia Ministra Administracji z dnia 10 marca 2021 r. zmieniającego rozporządzenie wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich 471), które weszło życie z dniem 24 marca 2021 r.
+2 oddanie krwi lub jej składników jednostkach organizacyjnych publicznej służby krwi lub okresowe badanie lekarskie dawców krwi − art. 105b ust. 2 2 ustawy o Państwowej Straży Pożarnej 3 konieczność osobistego sprawowania opieki nad chorym dzieckiem własnym lub małżonka strażaka, dzieckiem przysposobionym, dzieckiem obcym przyjętym na wychowanie utrzymanie, do ukończenia przez nie 14. roku życia − art. 105b ust. 2 3 ustawy o Państwowej Straży Pożarnej 4 konieczność osobistego sprawowania opieki nad chorym członkiem rodziny − art. 105b ust. 2 4 ustawy o Państwowej Straży Pożarnej 5 konieczność osobistego sprawowania opieki nad dzieckiem własnym lub małżonka strażaka, dzieckiem przysposobionym, dzieckiem obcym przyjętym na wychowanie utrzymanie, do ukończenia przez nie 8. roku życia − art. 105b ust. 2 5 ustawy o Państwowej Straży Pożarnej 6 wypadek pozostający związku z pełnieniem służby − art. 105b ust. 5 1 ustawy o Państwowej Straży Pożarnej 7 choroba powstała związku ze szczególnymi właściwościami lub warunkami służby − art. 105b ust. 5 2 ustawy o Państwowej Straży Pożarnej Obecnie: dzieckiem przyjętym na wychowanie utrzymanie, do ukończenia przez nie 14. roku życia, na podstawie art. 7 1 ustawy z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby macierzyństwa oraz niektórych innych ustaw 1066), która weszła życie z dniem 1 stycznia 2016 r.; wszedł życie z dniem 14 sierpnia 2015 r.
+Obecnie: dzieckiem przyjętym na wychowanie utrzymanie, do ukończenia przez nie 8. roku życia, na podstawie art. 7 1 ustawy, o której mowa odnośniku 3.
+8 wypadek drodze do miejsca pełnienia służby lub drodze powrotnej ze służby − art. 105b ust. 5 3 ustawy o Państwowej Straży Pożarnej 9 choroba przypadająca czasie ciąży − art. 105b ust. 5 4 ustawy o Państwowej Straży Pożarnej 10 poddanie się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek narządów oraz poddanie się zabiegowi pobrania komórek, tkanek narządów − art. 105b ust. 5 5 ustawy o Państwowej Straży Pożarnej 10a przebywanie na obserwacji podmiocie leczniczym wyniku skierowania przez komisję lekarską − art. 105b ust. 5 7 ustawy o Państwowej Straży Pożarnej 10b stwierdzenie zakażenia lub zachorowania na chorobę, o której mowa przepisach o zapobieganiu oraz zwalczaniu zakażeń chorób zakaźnych u ludzi, przy czym stwierdzone zakażenie lub zachorowanie powstało związku z wykonywaniem zadań służbowych okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby art. 105b ust. 5 8 ustawy o Państwowej Straży Pożarnej RAZEM (lp. 1–10b) –––––– ŚREDNIA (lp. 1–10b) –––––– 11 przyczyny wskazane punktach 1–10 tabeli, o ile zaistniały podczas oddelegowania strażaka do realizacji zadania poza granicami państwa grupie ratowniczej, o której mowa art. 49b ust. 1 1 ustawy o Państwowej Straży Pożarnej art. 105b ust. 6 1 ustawy o Państwowej Straży Pożarnej 12 okoliczności zaistniałe wyniku popełnienia przez inną osobę umyślnego czynu zabronionego związku z wykonywaniem przez strażaka czynności służbowych, stwierdzonego orzeczeniem wydanym przez uprawniony organ − art. 105b ust. 6 2 ustawy o Państwowej Straży Pożarnej 13 czyny o charakterze bohaterskim dokonane szczególnie niebezpiecznych warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, obronie prawa, nienaruszalności granic państwowych, życia, mienia lub bezpieczeństwa obywateli − art. 105b ust. 6 3 ustawy o Państwowej Straży Pożarnej 14 podleganie obowiązkowej kwarantannie, izolacji lub izolacji warunkach domowych, o których mowa przepisach o zapobieganiu oraz zwalczaniu zakażeń chorób zakaźnych u ludzi, jeżeli podleganie tej kwarantannie lub izolacji powstało związku z wykonywaniem zadań służbowych okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby art. 105b ust. 6 4 ustawy o Państwowej Straży Pożarnej RAZEM (lp. 11–14) –––––– ŚREDNIA (lp. 11–14) –––––– Przeciętny stan osobowy strażaków danym roku kalendarzowym rozumiany jako średnia arytmetyczna stanów osobowych strażaków z poszczególnych miesięcy roku, wykazywany sprawozdawczości budżetowej o zatrudnieniu wynagrodzeniach za okres od początku roku do końca IV kwartału danego roku kalendarzowego.
+Średnia liczba dni przebywania strażaków na zwolnieniu lekarskim rozumiana jako iloraz liczby dni zwolnień lekarskich udzielonych strażakom przez przeciętny stan osobowy strażaków danym roku kalendarzowym.
+Średnia roczna liczba godzin niewykonywania obowiązków przez strażaków rozumiana jako iloraz czasu służby, od której strażacy zostali zwolnieni na podstawie udzielonych im zwolnień lekarskich wyrażonego godzinach obowiązującego czasu służby przez przeciętny stan osobowy strażaków danym roku kalendarzowym wskazany tabeli nr 1.
+

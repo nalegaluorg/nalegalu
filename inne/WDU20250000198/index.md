@@ -8,9 +8,12 @@ pos: 198
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 lutego 2025 r.
+# o zasadach prowadzenia polityki rozwoju
+
+*USTAWA z dnia 6 grudnia 2006 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,39 +27,25 @@ domain: null
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/198/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach prowadzenia polityki rozwoju
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 15 lipca 2020 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw (Dz. U. poz. 1378 oraz z 2024 r. poz. 862),
-2) ustawą z dnia 15 maja 2024 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw (Dz. U. poz. 862),
-3) ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717),
-4) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
-poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 stycznia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 22a i art. 34 ustawy z dnia 15 lipca 2020 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw (Dz. U. poz. 1378 oraz z 2024 r. poz. 862), które stanowią: „Art. 22a. Rada Ministrów przyjmuje koncepcję rozwoju kraju, o której mowa w art. 8a ustawy zmienianej w art. 1, w terminie do dnia 31 grudnia 2024 r.” „Art. 34. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 31, który wchodzi w życie z dniem następującym po dniu ogłoszenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikatu ministra właściwego do spraw rozwoju regionalnego dotyczącego umowy partnerstwa na lata 2021–2027, o którym mowa w art. 14e ust. 7 ustawy zmienianej w art. 1;
-2) art. 1 pkt 40, który wchodzi w życie z dniem 1 stycznia 2027 r.;
-3) art. 8 pkt 14 i 15, które wchodzą w życie z dniem 31 października 2020 r.”;
-2) art. 4 i art. 5 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw (Dz. U. poz. 862), które stanowią: „Art. 4. W przypadku powierzenia przez instytucję odpowiedzialną za realizację inwestycji części zadań związanych z realizacją inwestycji B2.1.1, o której mowa w załączniku do decyzji wykonawczej Rady (UE), wydanej na podstawie art. 20 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm. ), Bankowi Gospodarstwa Krajowego jako jednostce wspierającej plan rozwojowy, zlecenia wypłaty, o których mowa w art. 14lp ust. 1 pkt 2 ustawy zmienianej w art. 1, mogą obejmować również środki przeznaczone dla ostatecznych odbiorców wsparcia, zgodnie z umową, o której mowa w art. 14li ust. 1 ustawy zmienianej w art. 1.
 Art. 14la. Użyte w niniejszym rozdziale określenia oznaczają:
-1) instytucja odpowiedzialna za realizację inwestycji ministra kierującego działem administracji rządowej, któremu zgodnie z planem rozwojowym zostało powierzone zadanie realizacji inwestycji;
-2) instytucja odpowiedzialna za realizację reformy ministra kierującego działem administracji rządowej albo inny podmiot, któremu zgodnie z planem rozwojowym zostało powierzone zadanie realizacji reformy;
-3) inwestycja inwestycję w rozumieniu rozporządzenia 2021/241, odpowiadającą inwestycji, programowi, projektowi, projektowi indywidualnemu, działaniu, lub ich zespołowi, wskazanym w ramach planu rozwojowego, zmierzającą do osiągnięcia założonego celu określonego wskaźnikami, z określonym początkiem i końcem realizacji;
-4) jednostka wspierająca plan rozwojowy podmiot, któremu w drodze porozumienia albo umowy zawartych z instytucją odpowiedzialną za realizację inwestycji została powierzona realizacja części zadań związanych z realizacją inwestycji, w szczególności samorząd województwa;
-5) kamienie milowe kamienie milowe, o których mowa w art. 2 pkt 4 rozporządzenia 2021/241;
-6) ostateczny odbiorca wsparcia podmiot realizujący przedsięwzięcie;
-7) podwójne finansowanie deklarowanie do rozliczenia w ramach planu rozwojowego wydatków zadeklarowanych wcześniej w ramach tego planu lub jako kwalifikowalne w innych programach unijnych;
-8) przedsięwzięcie element inwestycji realizowany przez ostatecznego odbiorcę wsparcia, zmierzający do osiągnięcia założonego celu inwestycji;
-9) reforma reformę w rozumieniu rozporządzenia 2021/241, zmierzającą do osiągnięcia założonego celu określonego kamieniami milowymi, o których mowa w art. 2 pkt 4 rozporządzenia 2021/241, w dziedzinie objętej określonym działem lub działami administracji rządowej;
-10) system teleinformatyczny system teleinformatyczny służący wymianie danych dotyczących reform i inwestycji między instytucją odpowiedzialną za realizację reformy lub instytucją odpowiedzialną za realizację inwestycji a ministrem właściwym do spraw rozwoju regionalnego, udostępniony przez tego ministra;
-11) wskaźniki wartości docelowe, o których mowa w art. 2 pkt 4 rozporządzenia 2021/241.
+1) instytucja odpowiedzialna za realizację inwestycji – ministra kierującego działem administracji rządowej, któremu zgodnie z planem rozwojowym zostało powierzone zadanie realizacji inwestycji;
+2) instytucja odpowiedzialna za realizację reformy – ministra kierującego działem administracji rządowej albo inny podmiot, któremu zgodnie z planem rozwojowym zostało powierzone zadanie realizacji reformy;
+3) inwestycja – inwestycję w rozumieniu rozporządzenia 2021/241, odpowiadającą inwestycji, programowi, projektowi, projektowi indywidualnemu, działaniu, lub ich zespołowi, wskazanym w ramach planu rozwojowego, zmierzającą do osiągnięcia założonego celu określonego wskaźnikami, z określonym początkiem i końcem realizacji;
+4) jednostka wspierająca plan rozwojowy – podmiot, któremu w drodze porozumienia albo umowy zawartych z instytucją odpowiedzialną za realizację inwestycji została powierzona realizacja części zadań związanych z realizacją inwestycji, w szczególności samorząd województwa;
+5) kamienie milowe – kamienie milowe, o których mowa w art. 2 pkt 4 rozporządzenia 2021/241;
+6) ostateczny odbiorca wsparcia – podmiot realizujący przedsięwzięcie;
+7) podwójne finansowanie – deklarowanie do rozliczenia w ramach planu rozwojowego wydatków zadeklarowanych wcześniej w ramach tego planu lub jako kwalifikowalne w innych programach unijnych;
+8) przedsięwzięcie – element inwestycji realizowany przez ostatecznego odbiorcę wsparcia, zmierzający do osiągnięcia założonego celu inwestycji;
+9) reforma – reformę w rozumieniu rozporządzenia 2021/241, zmierzającą do osiągnięcia założonego celu określonego kamieniami milowymi, o których mowa w art. 2 pkt 4 rozporządzenia 2021/241, w dziedzinie objętej określonym działem lub działami administracji rządowej;
+10) system teleinformatyczny – system teleinformatyczny służący wymianie danych dotyczących reform i inwestycji między instytucją odpowiedzialną za realizację reformy lub instytucją odpowiedzialną za realizację inwestycji a ministrem właściwym do spraw rozwoju regionalnego, udostępniony przez tego ministra;
+11) wskaźniki – wartości docelowe, o których mowa w art. 2 pkt 4 rozporządzenia 2021/241.
 Art. 14lb. 1. Projekt planu rozwojowego opracowuje minister właściwy do spraw rozwoju regionalnego we współpracy z właściwymi ministrami, zarządami województw oraz partnerami społecznymi i gospodarczymi. Plan rozwojowy jest przyjmowany przez Radę Ministrów, w drodze uchwały, na wniosek ministra właściwego do spraw rozwoju regionalnego.
 2. Przy opracowywaniu projektu planu rozwojowego uwzględnia się strategie rozwoju, o których mowa w art. 9.
 3. Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku zmiany planu rozwojowego.
 Art. 14lc. 1. W zakresie, w jakim w ramach planu rozwojowego jest udzielana:
 1) pomoc publiczna w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej,
 2) pomoc de minimis lub
-3) pomoc de minimis w rolnictwie lub rybołówstwie zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
+3) pomoc de minimis w rolnictwie lub rybołówstwie – zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
 2. Podmiotami udzielającymi pomocy, o której mowa w ust. 1, są instytucje odpowiedzialne za realizację inwestycji lub jednostki wspierające plan rozwojowy, a także inne podmioty, o których mowa w art. 2 pkt 12 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 3. Podmiotami udzielającymi pomocy mogą być również inne podmioty określone w przepisach wykonawczych wydanych na podstawie ust. 4.
 4. Właściwy minister pełniący funkcję instytucji odpowiedzialnej za realizację inwestycji w zakresie, w jakim pomoc, o której mowa w ust. 1, ma być udzielana w ramach inwestycji, może określić, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania tej pomocy, a także podmioty jej udzielające, uwzględniając konieczność zapewnienia zgodności tej pomocy z rynkiem wewnętrznym, efektywnego i skutecznego jej wykorzystania oraz przejrzystości jej udzielania, w przypadku gdy odrębne przepisy nie określają szczegółowego przeznaczenia, warunków lub trybu udzielania tej pomocy.
@@ -82,7 +71,7 @@ Art. 14le. 1. Za koordynację realizacji planu rozwojowego odpowiada minister w�
 3) harmonogram wydatków ponoszonych na realizację działań, o których mowa w pkt 2, przez instytucję odpowiedzialną za realizację inwestycji lub jednostkę wspierającą plan rozwojowy;
 4) wysokość środków przeznaczonych na realizację inwestycji wyrażoną:
 a) w złotych,
-b) w złotych lub w euro, w zależności od waluty, w jakiej przewidziano finansowanie inwestycji w przypadku inwestycji realizowanych w formie, o której mowa w art. 14ll ust. 2 pkt 1 w tym wysokość środków przeznaczonych na wydatki ponoszone na realizację działań, o których mowa w pkt 2, przez instytucję odpowiedzialną za realizację inwestycji lub jednostkę wspierającą plan rozwojowy;
+b) w złotych lub w euro, w zależności od waluty, w jakiej przewidziano finansowanie inwestycji – w przypadku inwestycji realizowanych w formie, o której mowa w art. 14ll ust. 2 pkt 1 – w tym wysokość środków przeznaczonych na wydatki ponoszone na realizację działań, o których mowa w pkt 2, przez instytucję odpowiedzialną za realizację inwestycji lub jednostkę wspierającą plan rozwojowy;
 5) termin i sposób weryfikacji realizacji reform i kamieni milowych albo inwestycji i wskaźników;
 6) warunki i terminy zwrotu środków przeznaczonych na wydatki ponoszone na realizację działań, o których mowa w pkt 2, przez instytucję odpowiedzialną za realizację inwestycji, pobranych i niewydatkowanych.
 4. W przypadku realizacji inwestycji finansowanej w formie wsparcia zwrotnego, w tym wsparcia zwrotnego w formie pożyczek, o których mowa w art. 14ll ust. 2 pkt 1, porozumienie, o którym mowa w ust. 2 pkt 2, określa także zasady realizacji tego rodzaju inwestycji.
@@ -128,7 +117,7 @@ Art. 14lj. 1. W przypadku inwestycji finansowanych w formie wsparcia zwrotnego, 
 9) warunki całkowitego lub częściowego wycofania środków;
 9a) warunki i terminy zwrotu środków, w tym środków nieprawidłowo wykorzystanych lub pobranych w nadmiernej wysokości lub w sposób nienależny;
 10) warunki wyboru pośredników finansowych, z wyłączeniem inwestycji finansowanych w formie pożyczek, o których mowa w art. 14ll ust. 2 pkt 1.
-Art. 14lja. 15) 1. Podmioty realizujące zadania związane z realizacją inwestycji, o których mowa w art. 14ll ust. 2 pkt 1, mogą zaciągać zobowiązania w danym roku, zgodnie z umowami o objęcie przedsięwzięcia wsparciem zwrotnym zawartymi z ostatecznymi odbiorcami wsparcia, do wysokości środków przeznaczonych na realizację inwestycji określonej w porozumieniach, o których mowa w art. 14le ust. 2 pkt 2, jednak nie wyższej niż kwota, do której mogą być udzielane pożyczki w danym roku, określonej w ustawie budżetowej na ten rok, z uwzględnieniem art. 14ll ust. 7.
+Art. 14lja. 1. Podmioty realizujące zadania związane z realizacją inwestycji, o których mowa w art. 14ll ust. 2 pkt 1, mogą zaciągać zobowiązania w danym roku, zgodnie z umowami o objęcie przedsięwzięcia wsparciem zwrotnym zawartymi z ostatecznymi odbiorcami wsparcia, do wysokości środków przeznaczonych na realizację inwestycji określonej w porozumieniach, o których mowa w art. 14le ust. 2 pkt 2, jednak nie wyższej niż kwota, do której mogą być udzielane pożyczki w danym roku, określonej w ustawie budżetowej na ten rok, z uwzględnieniem art. 14ll ust. 7.
 2. Minister właściwy do spraw rozwoju regionalnego dokonuje podziału kwoty, do której mogą być udzielane pożyczki w danym roku, określonej w ustawie budżetowej na ten rok, na poszczególne inwestycje, o których mowa w art. 14ll ust. 2 pkt 1, informując o tym instytucje odpowiedzialne za realizację tych inwestycji oraz ministra właściwego do spraw finansów publicznych.
 3. Minister właściwy do spraw rozwoju regionalnego przedstawia ministrowi właściwemu do spraw finansów publicznych w terminie do 20. dnia miesiąca następującego po zakończeniu kwartału informację o wysokości zobowiązań wynikających z umów, o których mowa w ust. 1.
 Art. 14lk. 1. Realizacja planu rozwojowego podlega monitorowaniu przez Komitet Monitorujący do spraw planu rozwojowego, zwany dalej „Komitetem”.
@@ -140,9 +129,10 @@ Art. 14lk. 1. Realizacja planu rozwojowego podlega monitorowaniu przez Komitet M
 4) instytucji odpowiedzialnych za realizację reform;
 5) instytucji odpowiedzialnych za realizację inwestycji;
 6) ogólnopolskich organizacji jednostek samorządu terytorialnego tworzących stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego;
-7) organizacji związkowych i organizacji pracodawców, reprezentatywnych w rozumieniu ustawy z dnia 24 lipca 2015 r.
-o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego;
-8) organizacji pozarządowych, w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), wskazani przez Radę Działalności Pożytku Publicznego oraz wskazani przez Radę Dialogu z Młodym Pokoleniem;
+7) organizacji związkowych i organizacji pracodawców, reprezentatywnych w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego;
+8) organizacji pozarządowych, w rozumieniu ustawy z dnia 24 kwietnia 2003 r.
+o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz.
+1491, 1761 i 1940), wskazani przez Radę Działalności Pożytku Publicznego oraz wskazani przez Radę Dialogu z Młodym Pokoleniem;
 9) organizacji promujących prawa podstawowe oraz niedyskryminację;
 10) środowiska naukowego, rekomendowani przez Radę Główną Nauki i Szkolnictwa Wyższego.
 4. Komitet składa się z nie więcej niż 70 przedstawicieli podmiotów, o których mowa w ust. 3.
@@ -151,11 +141,11 @@ o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego;
 7. Na wniosek ministra właściwego do spraw rozwoju regionalnego:
 1) Rada Działalności Pożytku Publicznego oraz Rada Dialogu z Młodym Pokoleniem wskazują organizacje pozarządowe oraz przedstawicieli tych organizacji,
 2) organizacje, o których mowa w ust. 3 pkt 9, wskazują swoich przedstawicieli,
-3) Rada Główna Nauki i Szkolnictwa Wyższego wskazuje przedstawicieli środowiska naukowego, o których mowa w ust. 3 pkt 10 w terminie 30 dni od dnia otrzymania wniosku.
+3) Rada Główna Nauki i Szkolnictwa Wyższego wskazuje przedstawicieli środowiska naukowego, o których mowa w ust. 3 pkt 10 – w terminie 30 dni od dnia otrzymania wniosku.
 8. W przypadku uchybienia terminowi, o którym mowa w ust. 7, albo gdy wskazano:
 1) organizacje pozarządowe, o których mowa w ust. 3 pkt 8, innego rodzaju lub ich przedstawicieli w innej liczbie, niż określono we wniosku, albo
 2) inną niż określona we wniosku liczbę przedstawicieli organizacji, o których mowa w ust. 3 pkt 9, albo
-3) inną niż określona we wniosku liczbę przedstawicieli środowiska naukowego, o których mowa w ust. 3 pkt 10 przedstawicieli podmiotów, o których mowa odpowiednio w pkt 1–3, wskazuje minister właściwy do spraw rozwoju regionalnego.
+3) inną niż określona we wniosku liczbę przedstawicieli środowiska naukowego, o których mowa w ust. 3 pkt 10 – przedstawicieli podmiotów, o których mowa odpowiednio w pkt 1–3, wskazuje minister właściwy do spraw rozwoju regionalnego.
 9. Minister właściwy do spraw rozwoju regionalnego występuje do podmiotów, o których mowa w ust. 3 pkt 2–7, z wnioskiem o wyznaczenie przedstawicieli wchodzących w skład Komitetu, w terminie 30 dni od dnia otrzymania wniosku.
 10. Zmiana przedstawiciela wchodzącego w skład Komitetu następuje na wniosek podmiotu, o którym mowa w ust. 3 pkt 2–10, oraz w przypadkach wywołujących uzasadnione wątpliwości co do prawidłowego wykonywania obowiązków przedstawiciela, określonych w regulaminie Komitetu, w szczególności w przypadku, gdy w stosunku do przedstawiciela został wydany prawomocny wyrok skazujący za popełnienie przestępstwa umyślnego lub umyślnego przestępstwa skarbowego.
 11. Do zadań Komitetu należy w szczególności:
@@ -170,37 +160,45 @@ o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego;
 12. Komitetowi przewodniczy przedstawiciel ministra właściwego do spraw rozwoju regionalnego, wskazany przez tego ministra jako przewodniczący Komitetu.
 13. Komitet działa na podstawie przyjętego przez siebie regulaminu.
 14. Regulamin Komitetu może określać w szczególności skład i zadania podkomitetów monitorujących do spraw planu rozwojowego.
-15. Komitet podejmuje uchwały zwykłą większością głosów w obecności co najmniej połowy przedstawicieli podmiotów, o których mowa w ust. 3. W przypadku równej liczby głosów decyduje głos przewodniczącego Komitetu.
+15. Komitet podejmuje uchwały zwykłą większością głosów w obecności co najmniej połowy przedstawicieli podmiotów, o których mowa w ust. 3.
+W przypadku równej liczby głosów decyduje głos przewodniczącego Komitetu.
 16. Obsługę organizacyjną Komitetu sprawuje urząd obsługujący ministra właściwego do spraw rozwoju regionalnego.
 Art. 14ll. 1. Inwestycje w ramach planu rozwojowego, których realizacja jest finansowana ze środków wsparcia bezzwrotnego, o którym mowa w art. 6 ust. 1 lit. a rozporządzenia 2021/241, w zakresie objętym finansowaniem z tego wsparcia, są finansowane ze środków pochodzących z budżetu środków europejskich lub ze środków PFR, o których mowa w art. 16a ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2024 r. poz. 923).
+1a. Inwestycje związane z wniesieniem wkładu państwa członkowskiego do programów zarządzanych centralnie przez Komisję Europejską są finansowane bezpośrednio ze środków wsparcia bezzwrotnego, o którym mowa w art. 6 ust. 1 lit. a rozporządzenia 2021/241, otrzymanych i przekazywanych w euro.
+1b. Sposób realizacji oraz tryb finansowania inwestycji, o których mowa w ust. 1a, określa umowa zawarta przez instytucję odpowiedzialną za realizację inwestycji z Komisją Europejską.
+1c. Minister właściwy do spraw finansów publicznych przekazuje środki w euro na finansowanie inwestycji, o których mowa w ust. 1a, na odrębny rachunek instytucji odpowiedzialnej za realizację inwestycji, na wniosek tej instytucji.
 2. Inwestycje w ramach planu rozwojowego, których realizacja jest finansowana z wykorzystaniem środków pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, w zakresie objętym finansowaniem z tej pożyczki, mogą być finansowane z budżetu państwa w formie:
 1) wsparcia zwrotnego przyznawanego w formie pożyczki, na zasadach określonych w niniejszej ustawie;
-2) wsparcia o charakterze bezzwrotnym, na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39), do wysokości określonej w ustawie budżetowej na dany rok.
+2) wsparcia o charakterze bezzwrotnym, na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz.
+1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39), do wysokości określonej w ustawie budżetowej na dany rok;
+3) wsparcia zwrotnego przez powierzenie Bankowi Gospodarstwa Krajowego środków na realizację inwestycji A2.7.1, o której mowa w załączniku do decyzji wykonawczej Rady nr 9590/25 z dnia 17 czerwca 2025 r.
+zmieniającej decyzję wykonawczą z dnia 17 czerwca 2022 r. w sprawie zatwierdzenia oceny planu odbudowy i zwiększania odporności Polski, wydanej na podstawie art. 20 ust. 1 rozporządzenia 2021/241, w celu ich wniesienia do Funduszu Bezpieczeństwa i Obronności na zasadach określonych w ustawie z dnia 4 grudnia 2025 r. o szczególnych zasadach realizacji zadań związanych z inwestycją w zakresie bezpieczeństwa i obronności realizowaną w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 1846).
 3. Wsparcie zwrotne przyznawane w formie pożyczki, o którym mowa w ust. 2 pkt 1, może podlegać umorzeniu.
+3a. Pożyczki w ramach wsparcia zwrotnego, o którym mowa w ust. 2 pkt 3, mogą podlegać umorzeniu na zasadach określonych w przepisach ustawy z dnia 4 grudnia 2025 r. o szczególnych zasadach realizacji zadań związanych z inwestycją w zakresie bezpieczeństwa i obronności realizowaną w ramach Krajowego Planu Odbudowy i Zwiększania Odporności.
 4. W budżecie państwa tworzy się rezerwę celową na wydatki, o których mowa w ust. 2 pkt 2. Podziału rezerwy celowej dokonuje się na wniosek właściwego dysponenta części budżetowej zaakceptowany przez ministra właściwego do spraw rozwoju regionalnego.
 5. Wsparcie o charakterze bezzwrotnym, o którym mowa w ust. 2 pkt 2, jest udzielane w latach 2022–2026.
-6. Wsparcie o charakterze bezzwrotnym, o którym mowa w ust. 2 pkt 2, oraz wartość umorzonych pożyczek, o których mowa w ust. 2 pkt 1, nie mogą przekroczyć równowartości w złotych kwoty 2,067 mld euro.
+6. Wsparcie o charakterze bezzwrotnym, o którym mowa w ust. 2 pkt 2, oraz wartość umorzonych pożyczek, o których mowa w ust. 2 pkt 1, i umorzonych pożyczek w ramach wsparcia zwrotnego, o którym mowa w ust. 2 pkt 3, nie mogą przekroczyć równowartości w złotych kwoty 2,067 mld euro.
 6a. Minister właściwy do spraw finansów publicznych może udzielić zapewnienia finansowania z rezerwy celowej, o której mowa w ust. 4, zgodnie z art. 153 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, do kwoty wskazanej w ust. 6, jednak nie wyższej niż limit ustalony dla tych inwestycji, zgodnie z ust. 7a pkt 2.
 7. Inwestycje, o których mowa w ust. 2 pkt 1, mogą być finansowane:
 1) w złotych lub
-2) w euro zgodnie z porozumieniami, o których mowa w art. 14le ust. 2 pkt 2, do wysokości kwot pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, ustalonej z uwzględnieniem zasad określonych w ust. 7a–7c.
+2) w euro – zgodnie z porozumieniami, o których mowa w art. 14le ust. 2 pkt 2, do wysokości kwot pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, ustalonej z uwzględnieniem zasad określonych w ust. 7a–7c.
 7a. Minister właściwy do spraw rozwoju regionalnego pisemnie:
-1) określa, jaka część kwoty pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, ma być przeznaczona na finansowanie inwestycji, o których mowa w ust. 2 pkt 1, w złotych, a jaka w euro,
-2) ustala dla instytucji odpowiedzialnej za realizację inwestycji limit środków na realizację inwestycji w formach, o których mowa w ust. 2 w terminie 14 dni od dnia przekazania środków pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, na rachunek, o którym mowa w art. 14lm ust. 4.
+1) określa, jaka część kwoty pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, ma być przeznaczona na finansowanie inwestycji, o których mowa w ust. 2 pkt 1, w złotych, a jaka – w euro,
+2) ustala dla instytucji odpowiedzialnej za realizację inwestycji limit środków na realizację inwestycji w formach, o których mowa w ust. 2 pkt 1 i 2 – w terminie 14 dni od dnia przekazania środków pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, na rachunek, o którym mowa w art. 14lm ust. 4.
 7b. Finansowanie inwestycji, o którym mowa w ust. 7 pkt 1, nie może przekroczyć kwoty w złotych stanowiącej równowartość kwoty pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, przekazywanej na rachunek, o którym mowa w art. 14lm ust. 4, przeznaczonej na finansowanie inwestycji w złotych, przeliczonej według kursu średniego euro Narodowego Banku Polskiego ogłoszonego dwa dni operacyjne przed datą ich wpływu na rachunek, o którym mowa w art. 14lm ust. 1, przy czym przez dni operacyjne rozumie się dni robocze od poniedziałku do piątku, w których Narodowy Bank Polski przyjmuje i realizuje zlecenia płatnicze i inne dyspozycje posiadaczy rachunków bankowych.
 7c. Finansowanie inwestycji, o którym mowa w ust. 7 pkt 2, nie może przekroczyć kwoty pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, przekazywanej na rachunek, o którym mowa w art. 14lm ust. 4, przeznaczonej na finansowanie inwestycji w euro.
 7d. Minister właściwy do spraw rozwoju regionalnego nadzoruje wykorzystanie limitów kwot pożyczki, o których mowa w ust. 7b i 7c.
 8. Minister właściwy do spraw rozwoju regionalnego, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wykaz inwestycji w ramach planu rozwojowego:
 1) kwalifikujących się do objęcia wsparciem, o którym mowa w ust. 2 pkt 2,
-2) w ramach których wsparcie zwrotne przyznawane w formie pożyczki, o którym mowa w ust. 2 pkt 1, może podlegać umorzeniu biorąc pod uwagę wartość inwestycji, charakter przyznawanego wsparcia i rodzaj podmiotów będących ostatecznymi odbiorcami wsparcia.
+2) w ramach których wsparcie zwrotne przyznawane w formie pożyczki, o którym mowa w ust. 2 pkt 1, oraz pożyczki udzielane w ramach wsparcia zwrotnego, o którym mowa w ust. 2 pkt 3, może podlegać umorzeniu – biorąc pod uwagę wartość inwestycji, charakter przyznawanego wsparcia i rodzaj podmiotów będących ostatecznymi odbiorcami wsparcia.
 Art. 14lm. 1. Środki pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, gromadzone są na wyodrębnionym rachunku bankowym, prowadzonym w euro, w Narodowym Banku Polskim, na podstawie umowy rachunku bankowego zawartej przez ministra właściwego do spraw rozwoju regionalnego.
 2. Minister właściwy do spraw rozwoju regionalnego informuje ministra właściwego do spraw finansów publicznych o:
 1) planowanych w danym roku budżetowym oraz 4 kolejnych latach:
 a) kwotach pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241,
-b) kwotach rozchodów, przychodów i dochodów z tytułu udzielanych pożyczek z budżetu państwa, o których mowa w art. 14ll ust. 2 pkt 1 w terminie do dnia 15 marca oraz do dnia 31 lipca danego roku budżetowego;
+b) kwotach rozchodów, przychodów i dochodów związanych z realizacją inwestycji w formach, o których mowa w art. 14ll ust. 2 pkt 1 i 3 – w terminie do dnia 15 marca oraz do dnia 31 lipca danego roku budżetowego;
 2) złożeniu wniosku, o którym w art. 14le ust. 2 pkt 8, w tym o wnioskowanych kwotach i terminach płatności;
 3) wpływie na rachunek, o którym mowa w ust. 1, środków pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241.
-3. Minister właściwy do spraw rozwoju regionalnego opracowuje corocznie harmonogram realizacji przychodów, rozchodów oraz dochodów w zakresie inwestycji finansowanych w formie, o której mowa w art. 14ll ust. 2 pkt 1, na dany rok budżetowy i przekazuje ten harmonogram ministrowi właściwemu do spraw finansów publicznych w terminie do dnia 10 grudnia roku poprzedzającego rok budżetowy. W trakcie roku budżetowego harmonogram podlega aktualizacji.
+3. Minister właściwy do spraw rozwoju regionalnego opracowuje corocznie harmonogram realizacji przychodów, rozchodów oraz dochodów w zakresie inwestycji finansowanych w formie, o której mowa w art. 14ll ust. 2 pkt 1 i 3, na dany rok budżetowy i przekazuje ten harmonogram ministrowi właściwemu do spraw finansów publicznych w terminie do dnia 10 grudnia roku poprzedzającego rok budżetowy. W trakcie roku budżetowego harmonogram podlega aktualizacji.
 4. Minister właściwy do spraw rozwoju regionalnego przekazuje niezwłocznie środki, o których mowa w ust. 2 pkt 3, na rachunek wskazany przez ministra właściwego do spraw finansów publicznych.
 5. Minister właściwy do spraw finansów publicznych przekazuje na rachunek, o którym mowa w ust. 1, środki na spłatę rat pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, oraz środki na pokrycie kosztów związanych z tą pożyczką w terminach umożliwiających spłatę tej pożyczki.
 Art. 14ln. 1. PFR zapewnia finansowanie planu rozwojowego, w zakresie, o którym mowa w art. 14ll ust. 1. W tym celu PFR:
@@ -236,53 +234,58 @@ Art. 14lo. 1. PFR zawiera z instytucją odpowiedzialną za realizację inwestycj
 4) zasady i tryb informowania przez PFR instytucji odpowiedzialnej za realizację inwestycji lub jednostki wspierającej plan rozwojowy o dokonanych wypłatach i otrzymanych zwrotach.
 3. Instytucja i jednostki zlecające wypłaty zgodnie z ust. 1 prowadzą ewidencję w zakresie wypłat dokonanych na ich zlecenie, umożliwiającą rozliczenie wypłaconych środków.
 Art. 14lp. 1. Podstawą dokonania przez PFR wypłaty środków, o których mowa w art. 14ll ust. 1:
-1) ostatecznemu odbiorcy wsparcia jest zlecenie wypłaty wystawione przez instytucję odpowiedzialną za realizację inwestycji lub jednostkę wspierającą plan rozwojowy;
-2) instytucji odpowiedzialnej za realizację inwestycji lub jednostce wspierającej plan rozwojowy jest zlecenie wypłaty wystawione przez instytucję odpowiedzialną za realizację inwestycji;
-3) Bankowi Gospodarstwa Krajowego lub Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej jest zlecenie wypłaty wystawione przez instytucję odpowiedzialną za realizację inwestycji.
+1) ostatecznemu odbiorcy wsparcia – jest zlecenie wypłaty wystawione przez instytucję odpowiedzialną za realizację inwestycji lub jednostkę wspierającą plan rozwojowy;
+2) instytucji odpowiedzialnej za realizację inwestycji lub jednostce wspierającej plan rozwojowy – jest zlecenie wypłaty wystawione przez instytucję odpowiedzialną za realizację inwestycji;
+3) Bankowi Gospodarstwa Krajowego lub Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej – jest zlecenie wypłaty wystawione przez instytucję odpowiedzialną za realizację inwestycji.
 2. Zlecenia wypłaty, o których mowa w ust. 1 pkt 1, dotyczą środków na realizację przedsięwzięcia zgodnie z umową, o której mowa w art. 14lzh ust. 1.
 3. Zlecenia wypłaty, o których mowa w ust. 1 pkt 2, dotyczą środków na realizację działań wykonywanych bezpośrednio w ramach inwestycji zgodnie z porozumieniem, o którym mowa w art. 14le ust. 2 pkt 2, lub decyzją, o której mowa w art. 14le ust. 5, lub porozumieniem, o którym mowa w art. 14li ust. 1.
 4. Zlecenia wypłaty, o których mowa w ust. 1 pkt 3, dotyczą środków przekazanych zgodnie z umową, o której mowa w art. 14lj ust. 1 pkt 2 lub 3.
 5. Do wydatkowania i rozliczania środków wypłaconych zgodnie z ust. 1 stosuje się zasady wydatkowania i rozliczania przewidziane dla środków publicznych.
 6. Do spraw dotyczących należności z tytułu zwrotu środków przeznaczonych na realizację inwestycji i przedsięwzięć oraz innych należności związanych z realizacją inwestycji i przedsięwzięć, a także odsetek od tych środków i od tych należności, w zakresie nieuregulowanym w niniejszej ustawie, stosuje się:
-1) przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572);
-2) odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a w sprawach nieuregulowanych w tej ustawie przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879, 1685 i 1831).
+1) przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572);
+2) odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a w sprawach nieuregulowanych w tej ustawie przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r.
+poz. 2383 i 2760 oraz z 2024 r. poz. 879, 1685 i 1831).
 7. Wypłaty, o których mowa w ust. 1, mogą być dokonywane również na rachunek podmiotu upoważnionego przez podmiot, o którym mowa odpowiednio w ust. 1 pkt 1–3, lub wykonawcy.
 8. Państwowe jednostki budżetowe gromadzą środki otrzymane od PFR na wydzielonych rachunkach dochodów i przeznaczają na wydatki związane z realizacją inwestycji i przedsięwzięć objętych wsparciem z planu rozwojowego, w ramach planu finansowego tych rachunków.
 9. Plan finansowy, o którym mowa w ust. 8, jest przygotowywany z uwzględnieniem terminów osiągania wskaźników określonych w planie rozwojowym.
-10. Plan finansowy, o którym mowa w ust. 8, obejmuje okres roku kalendarzowego i jest zatwierdzany przez kierownika jednostki w terminie do dnia 15 grudnia roku poprzedzającego rok kalendarzowy, którego plan ma dotyczyć. W przypadku państwowej jednostki budżetowej przystępującej do realizacji planu rozwojowego w trakcie roku pierwszy plan finansowy obejmujący okres do końca danego roku kalendarzowego kierownik tej jednostki zatwierdza w ciągu 14 dni od dnia podjęcia decyzji, o której mowa w art. 14le ust. 5, podpisania porozumienia, o którym mowa w art. 14le ust. 2 pkt 2, lub porozumienia, o którym mowa w art. 14lzh ust. 5. Plan przygotowywany jest w szczegółowości nie mniejszej niż określona dla sprawozdań z jego wykonania, o których mowa w ust. 11. Kierownik jednostki może dokonywać w ciągu roku zmian w planie finansowym. Plan finansowy i jego aktualizacje kierownik jednostki przekazuje niezwłocznie dysponentowi części budżetowej właściwej dla finansowania danej jednostki.
+10. Plan finansowy, o którym mowa w ust. 8, obejmuje okres roku kalendarzowego i jest zatwierdzany przez kierownika jednostki w terminie do dnia 15 grudnia roku poprzedzającego rok kalendarzowy, którego plan ma dotyczyć.
+W przypadku państwowej jednostki budżetowej przystępującej do realizacji planu rozwojowego w trakcie roku pierwszy plan finansowy obejmujący okres do końca danego roku kalendarzowego kierownik tej jednostki zatwierdza w ciągu 14 dni od dnia podjęcia decyzji, o której mowa w art. 14le ust. 5, podpisania porozumienia, o którym mowa w art. 14le ust. 2 pkt 2, lub porozumienia, o którym mowa w art. 14lzh ust. 5. Plan przygotowywany jest w szczegółowości nie mniejszej niż określona dla sprawozdań z jego wykonania, o których mowa w ust. 11. Kierownik jednostki może dokonywać w ciągu roku zmian w planie finansowym. Plan finansowy i jego aktualizacje kierownik jednostki przekazuje niezwłocznie dysponentowi części budżetowej właściwej dla finansowania danej jednostki.
 11. Z wykonania planu finansowego, o którym mowa w ust. 8, w danym roku budżetowym państwowa jednostka budżetowa sporządza sprawozdanie kwartalne za okresy trzech pierwszych kwartałów danego roku, które przekazuje w terminie do 10 dnia miesiąca następującego po upływie kwartału, oraz sprawozdanie roczne, które przekazuje w terminie do dnia 31 stycznia następnego roku, do dysponenta części budżetowej właściwego do jej finansowania. Dysponent części budżetowej sporządza zbiorcze sprawozdania z wykonania planów finansowych państwowych jednostek budżetowych finansowanych w danej części budżetowej, które przekazuje odpowiednio do dnia 20 miesiąca następującego po upływie kwartału oraz w terminie do dnia 15 lutego następnego roku do ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw rozwoju regionalnego.
 12. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw rozwoju regionalnego, udostępni w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory sprawozdań, o których mowa w ust. 11, dla państwowych jednostek budżetowych oraz dla dysponentów części budżetowej, uwzględniając konieczność zapewnienia prawidłowego rozliczenia środków publicznych przeznaczonych na finansowanie planu rozwojowego.
 13. Państwowe jednostki budżetowe mogą zaciągać zobowiązania do sfinansowania w danym roku przedsięwzięć realizowanych w ramach planu rozwojowego do wysokości wynikającej z harmonogramu, o którym mowa w:
-1) art. 14lzh ust. 2 pkt 2, z uwzględnieniem określonego w umowie terminu realizacji przedsięwzięcia w zakresie, w jakim są ostatecznymi odbiorcami wsparcia;
-2) art. 14le ust. 3 pkt 3 w zakresie, w jakim nie są ostatecznymi odbiorcami wsparcia.
-Art. 14lq. 1. Minister właściwy do spraw finansów publicznych przekazuje środki z budżetu państwa na realizację inwestycji finansowanej w formie, o której mowa w art. 14ll ust. 2 pkt 1:
-1) na rachunki prowadzone w złotych instytucjom odpowiedzialnym za realizację inwestycji,
-2) na rachunek, o którym mowa w art. 14lm ust. 1 ministrowi właściwemu do spraw rozwoju regionalnego w zależności od waluty, w jakiej inwestycja jest przewidziana do finansowania, zgodnie z porozumieniami, o których mowa w art. 14le ust. 2 pkt 2.
+1) art. 14lzh ust. 2 pkt 2, z uwzględnieniem określonego w umowie terminu realizacji przedsięwzięcia – w zakresie, w jakim są ostatecznymi odbiorcami wsparcia;
+2) art. 14le ust. 3 pkt 3 – w zakresie, w jakim nie są ostatecznymi odbiorcami wsparcia.
+Art. 14lq. 1. Minister właściwy do spraw finansów publicznych przekazuje środki z budżetu państwa na realizację inwestycji finansowanej w formie, o której mowa w art. 14ll ust. 2 pkt 1 i 3:
+1) na rachunki prowadzone w złotych – instytucjom odpowiedzialnym za realizację inwestycji,
+2) na rachunek, o którym mowa w art. 14lm ust. 1 – ministrowi właściwemu do spraw rozwoju regionalnego – w zależności od waluty, w jakiej inwestycja jest przewidziana do finansowania, zgodnie z porozumieniami, o których mowa w art. 14le ust. 2 pkt 2.
 1a. Minister właściwy do spraw rozwoju regionalnego przekazuje na rachunki prowadzone w euro instytucjom odpowiedzialnym za realizację inwestycji środki otrzymane z budżetu państwa na realizację inwestycji finansowanej w formie, o której mowa w art. 14ll ust. 2 pkt 1, w euro zgodnie z porozumieniami, o których mowa w art. 14le ust. 2 pkt 2.
-2. Podstawą dokonania przez ministra właściwego do spraw finansów publicznych wypłaty środków, o których mowa w art. 14ll ust. 2 pkt 1:
-1) instytucji odpowiedzialnej za realizację inwestycji jest zlecenie wypłaty wystawione przez instytucję odpowiedzialną za realizację inwestycji oraz każdorazowa zgoda ministra właściwego do spraw rozwoju regionalnego na dokonanie wypłaty;
-2) ministrowi właściwemu do spraw rozwoju regionalnego jest zlecenie wypłaty wystawione przez tego ministra.
-2a. Wypłata środków, o których mowa w art. 14ll ust. 2 pkt 1, następuje zgodnie z harmonogramem, o którym mowa w art. 14lm ust. 3.
+2. Podstawą dokonania przez ministra właściwego do spraw finansów publicznych wypłaty środków, o których mowa w art. 14ll ust. 2 pkt 1 i 3:
+1) instytucji odpowiedzialnej za realizację inwestycji – jest zlecenie wypłaty wystawione przez instytucję odpowiedzialną za realizację inwestycji oraz każdorazowa zgoda ministra właściwego do spraw rozwoju regionalnego na dokonanie wypłaty;
+2) ministrowi właściwemu do spraw rozwoju regionalnego – jest zlecenie wypłaty wystawione przez tego ministra.
+2a. Wypłata środków, o których mowa w art. 14ll ust. 2 pkt 1 i 3, następuje zgodnie z harmonogramem, o którym mowa w art. 14lm ust. 3.
 3. (uchylony)
 4. Zlecenia wypłaty, o których mowa w ust. 2, dotyczą:
 1) środków na realizację przedsięwzięcia zgodnie z umową, o której mowa w art. 14lzh ust. 3;
-2) środków przekazanych zgodnie z umową, o której mowa w art. 14lj ust. 1 pkt 2 i 3.
+2) środków przekazanych zgodnie z umową, o której mowa w art. 14lj ust. 1 pkt 2 i 3;
+3) środków przekazywanych zgodnie z umową, o której mowa w art. 8 ustawy z dnia 4 grudnia 2025 r. o szczególnych zasadach realizacji zadań związanych z inwestycją w zakresie bezpieczeństwa i obronności realizowaną w ramach Krajowego Planu Odbudowy i Zwiększania Odporności.
 4a. Zlecenia wypłaty, o których mowa w ust. 2, uwzględniają środki planowane do przekazania przez instytucję odpowiedzialną za realizację inwestycji zgodnie z art. 14lr, w terminie dwóch dni roboczych od daty wpływu środków na rachunek instytucji odpowiedzialnej za realizację inwestycji. Środki niewykorzystane w terminie określonym w zdaniu pierwszym podlegają zwrotowi na rachunek ministra właściwego do spraw finansów publicznych, z którego zostały przekazane. Środki wypłacone w euro są zwracane za pośrednictwem rachunku ministra właściwego do spraw rozwoju regionalnego, z którego środki te zostały przekazane instytucji odpowiedzialnej za realizację inwestycji.
 4b. W przypadku zwrotu środków w złotych minister właściwy do spraw finansów publicznych informuje niezwłocznie ministra właściwego do spraw rozwoju regionalnego o kwocie środków zwróconych na jego rachunek przez instytucję odpowiedzialną za realizację inwestycji i o terminie ich zwrotu.
 5. Instytucje odpowiedzialne za realizację inwestycji:
 1) gromadzą środki na wydzielonych rachunkach i przeznaczają te środki na wydatki związane z realizacją inwestycji i przedsięwzięć zgodnie z art. 14lr oraz prowadzą ewidencję księgową operacji na tym rachunku;
-2) przygotowują dla ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw rozwoju regionalnego zapotrzebowania na środki oraz informacje o wykorzystaniu środków na rachunku własnym i środków przekazanych Bankowi Gospodarstwa Krajowego lub Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej zgodnie z art. 14lr pkt 2 i 3.
-Art. 14lr. Instytucja odpowiedzialna za realizację inwestycji przekazuje środki, o których mowa w art. 14ll ust. 2 pkt 1:
+2) przygotowują dla ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw rozwoju regionalnego zapotrzebowania na środki oraz informacje o wykorzystaniu środków na rachunku własnym i środków przekazanych Bankowi Gospodarstwa Krajowego lub Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej zgodnie z art. 14lr ust. 1 pkt 2 i 3.
+Art. 14lr. 1. Instytucja odpowiedzialna za realizację inwestycji przekazuje środki, o których mowa w art. 14ll ust. 2 pkt 1:
 1) ostatecznemu odbiorcy wsparcia, zgodnie z umową, o której mowa w art. 14lzh ust. 1;
 2) Bankowi Gospodarstwa Krajowego, zgodnie z umową, o której mowa w art. 14lj ust. 1 pkt 2;
 3) Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej, zgodnie z umową, o której mowa w art. 14lj ust. 1 pkt 3.
+2. Instytucja odpowiedzialna za realizację inwestycji A2.7.1, o której mowa w załączniku do decyzji wykonawczej Rady nr 9590/25 z dnia 17 czerwca 2025 r.
+zmieniającej decyzję wykonawczą z dnia 17 czerwca 2022 r. w sprawie zatwierdzenia oceny planu odbudowy i zwiększania odporności Polski, wydanej na podstawie art. 20 ust. 1 rozporządzenia 2021/241, przekazuje środki, o których mowa w art. 14ll ust. 2 pkt 3, Bankowi Gospodarstwa Krajowego w złotych, według kursu średniego euro Narodowego Banku Polskiego ogłoszonego dwa dni operacyjne przed datą ich przekazania, zgodnie z umową, o której mowa w art. 8 ustawy z dnia 4 grudnia 2025 r. o szczególnych zasadach realizacji zadań związanych z inwestycją w zakresie bezpieczeństwa i obronności realizowaną w ramach Krajowego Planu Odbudowy i Zwiększania Odporności.
 Art. 14ls. 1. W przypadku gdy środki przeznaczone na realizację planu rozwojowego są:
 1) wykorzystane niezgodnie z przeznaczeniem,
 2) wykorzystane z naruszeniem procedur obowiązujących przy ich wykorzystaniu, w tym postanowień umowy, o której mowa w art. 14lzh,
-3) pobrane nienależnie lub w nadmiernej wysokości podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków, w terminie 14 dni od dnia doręczenia ostatecznej decyzji, o której mowa w ust. 3, na wskazany w tej decyzji rachunek bankowy.
+3) pobrane nienależnie lub w nadmiernej wysokości – podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków, w terminie 14 dni od dnia doręczenia ostatecznej decyzji, o której mowa w ust. 3, na wskazany w tej decyzji rachunek bankowy.
 2. W przypadku stwierdzenia okoliczności, o których mowa w ust. 1:
-1) instytucja odpowiedzialna za realizację inwestycji lub jednostka wspierająca plan rozwojowy wzywa do zwrotu środków w terminie 14 dni od dnia doręczenia wezwania jeżeli do zwrotu środków jest obowiązany ostateczny odbiorca wsparcia;
-2) instytucja odpowiedzialna za realizację inwestycji wzywa do zwrotu środków w terminie 14 dni od dnia doręczenia wezwania jeżeli do zwrotu środków jest obowiązana jednostka wspierająca plan rozwojowy albo Bank Gospodarstwa Krajowego lub Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej.
+1) instytucja odpowiedzialna za realizację inwestycji lub jednostka wspierająca plan rozwojowy wzywa do zwrotu środków w terminie 14 dni od dnia doręczenia wezwania – jeżeli do zwrotu środków jest obowiązany ostateczny odbiorca wsparcia;
+2) instytucja odpowiedzialna za realizację inwestycji wzywa do zwrotu środków w terminie 14 dni od dnia doręczenia wezwania – jeżeli do zwrotu środków jest obowiązana jednostka wspierająca plan rozwojowy albo Bank Gospodarstwa Krajowego lub Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej.
 3. Po bezskutecznym upływie terminu, o którym mowa w ust. 2, organ pełniący funkcję instytucji odpowiedzialnej za realizację inwestycji wydaje decyzję określającą kwotę przypadającą do zwrotu i termin, od którego nalicza się odsetki.
 4. Instytucja odpowiedzialna za realizację inwestycji na podstawie porozumienia lub umowy, o których mowa w art. 14li ust. 1, może upoważnić jednostkę wspierającą plan rozwojowy będącą jednostką sektora finansów publicznych do wydawania decyzji, o której mowa w ust. 3.
 5. Od decyzji, o której mowa w ust. 3, wydanej przez jednostkę wspierającą plan rozwojowy służy odwołanie do właściwej instytucji odpowiedzialnej za realizację inwestycji.
@@ -298,7 +301,8 @@ Art. 14lu. 1. W celu zapewnienia prawidłowej realizacji inwestycji instytucja o
 4. W przypadku gdy kontrolę realizacji inwestycji powierzono jednostce wspierającej plan rozwojowy, kontrola realizacji inwestycji jest dokonywana w oparciu o przepisy właściwe dla realizowanej inwestycji lub dla jednostki wspierającej plan rozwojowy.
 5. W przypadku braku przepisów właściwych, o których mowa w ust. 3 i 4, do kontroli realizacji inwestycji stosuje się odpowiednio przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej.
 6. W przypadku, o którym mowa w ust. 5, kontrolę realizacji inwestycji może przeprowadzać także osoba niebędąca pracownikiem w rozumieniu ustawy, o której mowa w ust. 5.
-Art. 14lv. 1. Szef Krajowej Administracji Skarbowej prowadzi audyt planu rozwojowego na podstawie przepisów ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ).
+Art. 14lv. 1. Szef Krajowej Administracji Skarbowej prowadzi audyt planu rozwojowego na podstawie przepisów ustawy z dnia 16 listopada 2016 r.
+o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ).
 2. Celem audytu jest w szczególności potwierdzenie:
 1) prawidłowości gospodarowania środkami w ramach planu rozwojowego;
 2) osiągnięcia kamieni milowych oraz wskaźników w ramach reform albo inwestycji;
@@ -360,8 +364,8 @@ Art. 14lze. 1. Podmiotowi wnioskującemu o objęcie przedsięwzięcia wsparciem,
 6. Regulamin wyboru przedsięwzięć do objęcia wsparciem z planu rozwojowego może określać inny termin na dokonanie ponownej oceny przedsięwzięcia, nie krótszy niż 7 dni i nie dłuższy niż 90 dni od otrzymania wniosku, o którym mowa w ust. 1.
 7. Instytucja, o której mowa w ust. 2, niezwłocznie po dokonaniu ponownej oceny przedsięwzięcia informuje podmiot wnioskujący o objęcie wsparciem o wyniku ponownej oceny, pouczając o prawie złożenia skargi, o której mowa w art. 14lzf ust. 2.
 8. Procedura ponownej oceny przedsięwzięcia nie wstrzymuje zawierania umów o objęcie przedsięwzięć wsparciem z planu rozwojowego z podmiotami, których przedsięwzięcia zostały wybrane do wsparcia.
-Art. 14lzf. 1. Do postępowania w zakresie wyboru przedsięwzięcia do objęcia wsparciem oraz ponownej oceny przedsięwzięcia nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem art. 24 oraz przepisów dotyczących doręczeń i sposobu obliczania terminów, które stosuje się odpowiednio.
-2. W przypadku ponownej negatywnej oceny przedsięwzięcia lub pozostawienia wniosku o ponowną ocenę przedsięwzięcia bez rozpatrzenia podmiot wnioskujący o objęcie przedsięwzięcia wsparciem może w tym zakresie wnieść skargę do sądu administracyjnego, zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
+Art. 14lzf. 1. Do postępowania w zakresie wyboru przedsięwzięcia do objęcia wsparciem oraz ponownej oceny przedsięwzięcia nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem art. 24 oraz przepisów dotyczących doręczeń i sposobu obliczania terminów, które stosuje się odpowiednio.
+2. W przypadku ponownej negatywnej oceny przedsięwzięcia lub pozostawienia wniosku o ponowną ocenę przedsięwzięcia bez rozpatrzenia podmiot wnioskujący o objęcie przedsięwzięcia wsparciem może w tym zakresie wnieść skargę do sądu administracyjnego, zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
 3. Skarga, o której mowa w ust. 2, jest wnoszona przez podmiot wnioskujący o objęcie wsparciem w terminie 14 dni od dnia otrzymania informacji, o której mowa w art. 14lze ust. 4 lub 7, bezpośrednio do wojewódzkiego sądu administracyjnego wraz z kompletną dokumentacją w sprawie. Skarga podlega wpisowi stałemu. Przepisy art. 30c ust. 2a–6 oraz art. 30d–30i stosuje się odpowiednio.
 Art. 14lzg. Przepisów art. 14lza–14lzf nie stosuje się do inwestycji albo jej części, w przypadku gdy odpowiednio inwestycja albo jej część jest realizowana w formie wsparcia zwrotnego, w tym wsparcia zwrotnego w formie pożyczek, o których mowa w art. 14ll ust. 2 pkt 1, przez Bank Gospodarstwa Krajowego na podstawie i w zakresie umowy, o której mowa w art. 14lj ust. 1 pkt 2, albo przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej na podstawie i w zakresie umowy, o której mowa w art. 14lj ust. 1 pkt 3.
 Art. 14lzh. 1. Instytucja odpowiedzialna za realizację inwestycji zawiera z podmiotem wnioskującym o objęcie wsparciem, którego przedsięwzięcie zostało wybrane do objęcia wsparciem z planu rozwojowego, umowę o objęcie przedsięwzięcia wsparciem z planu rozwojowego.
@@ -400,17 +404,18 @@ Art. 14lzh. 1. Instytucja odpowiedzialna za realizację inwestycji zawiera z pod
 8) zobowiązanie do prowadzenia działań informacyjnych o finansowaniu przedsięwzięcia ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności;
 9) wysokość wynagrodzenia za zarządzanie środkami;
 10) inne postanowienia umożliwiające monitorowanie i sprawozdawanie z osiągania wartości docelowych oraz wskaźników inwestycji, w ramach której jest realizowane przedsięwzięcie.
-4d. W przypadkach, o których mowa w ust. 4a, nie stosuje się przepisów art. 411 ust. 6a i art. 411a ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ) w zakresie wymogu uzyskania zgody ministra właściwego do spraw klimatu i ministra właściwego do spraw finansów publicznych.
+4d. W przypadkach, o których mowa w ust. 4a, nie stosuje się przepisów art. 411 ust. 6a i art. 411a ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ) w zakresie wymogu uzyskania zgody ministra właściwego do spraw klimatu i ministra właściwego do spraw finansów publicznych.
 5. W przypadku gdy ostatecznym odbiorcą wsparcia jest państwowa jednostka budżetowa, zasady realizacji przedsięwzięcia określa się w porozumieniu. Przepisy ust. 2 stosuje się odpowiednio, z wyjątkiem ust. 2 pkt 6.
 Art. 14lzi. 1. Środki finansowe przekazane na realizację inwestycji lub jej części w formie wsparcia zwrotnego, po wykonaniu zobowiązań wynikających z umowy o objęcie przedsięwzięcia wsparciem z planu rozwojowego, oraz odsetki i inne przychody, a także zyski powstałe na skutek obrotu tymi środkami, po pomniejszeniu o koszty realizacji zadań przez podmioty, o których mowa w art. 14lr pkt 2 i 3, ponoszone zgodnie z umową, o której mowa w art. 14lj ust. 1 pkt 2 i 3, podlegają zwrotowi na rachunek:
-1) wskazany przez ministra właściwego do spraw rozwoju regionalnego w przypadku wsparcia finansowanego ze środków, o których mowa w art. 14ll ust. 1;
-2) instytucji odpowiedzialnej za realizację inwestycji w przypadku wsparcia zwrotnego przyznawanego w formie pożyczek, o których mowa w art. 14ll ust. 2 pkt 1.
+1) wskazany przez ministra właściwego do spraw rozwoju regionalnego – w przypadku wsparcia finansowanego ze środków, o których mowa w art. 14ll ust. 1;
+2) instytucji odpowiedzialnej za realizację inwestycji – w przypadku wsparcia zwrotnego przyznawanego w formie pożyczek, o których mowa w art. 14ll ust. 2 pkt 1.
 2. Instytucja odpowiedzialna za realizację inwestycji przekazuje środki, o których mowa w ust. 1 pkt 2:
-1) w złotych na rachunek wskazany przez ministra właściwego do spraw finansów publicznych;
-2) w euro na rachunek wskazany przez ministra właściwego do spraw rozwoju regionalnego.
+1) w złotych – na rachunek wskazany przez ministra właściwego do spraw finansów publicznych;
+2) w euro – na rachunek wskazany przez ministra właściwego do spraw rozwoju regionalnego.
 2a. Środki, o których mowa w ust. 2 pkt 2, minister właściwy do spraw rozwoju regionalnego przekazuje na rachunek wskazany przez ministra właściwego do spraw finansów publicznych.
 2b. W przypadku, o którym mowa w art. 14lzh ust. 4a, środki, o których mowa w ust. 1, podlegają zwrotowi po pomniejszeniu o wynagrodzenie za zarządzanie środkami, o którym mowa w art. 14lzh ust. 4a.
-2c. W przypadku gdy kwota uzyskana ze zbycia lub umorzenia akcji lub udziałów w spółkach lub pozyskana w wyniku innych zdarzeń przez podmiot, o którym mowa w art. 14lzh ust. 4a, jest niższa niż kwota udzielonej pożyczki, o której mowa w art. 14lzh ust. 4a, pomniejszona o wynagrodzenie za zarządzanie środkami, różnica jest pokrywana ze środków Funduszu Inwestycji Kapitałowych, o którym mowa w art. 33a ust. 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940).
+2c. W przypadku gdy kwota uzyskana ze zbycia lub umorzenia akcji lub udziałów w spółkach lub pozyskana w wyniku innych zdarzeń przez podmiot, o którym mowa w art. 14lzh ust. 4a, jest niższa niż kwota udzielonej pożyczki, o której mowa w art. 14lzh ust. 4a, pomniejszona o wynagrodzenie za zarządzanie środkami, różnica jest pokrywana ze środków Funduszu Inwestycji Kapitałowych, o którym mowa w art. 33a ust. 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i
+1940).
 2d. Różnica, o której mowa w ust. 2c, jest finansowana na wniosek instytucji odpowiedzialnej za realizację inwestycji przez dysponenta Funduszu Inwestycji Kapitałowych.
 2e. W przypadku gdy kwota uzyskana ze zbycia lub umorzenia akcji lub udziałów w spółkach lub pozyskana w wyniku innych zdarzeń przez podmiot, o którym mowa w art. 14lzh ust. 4a, jest wyższa niż kwota udzielonej pożyczki, o której mowa w art. 14lzh ust. 4a, pomniejszona o wynagrodzenie za zarządzanie środkami, kwota nadwyżki uzyskanej przez ten podmiot jest przekazywana na rachunek Funduszu Inwestycji Kapitałowych.
 3. Środki, o których mowa w ust. 1 pkt 1, są ponownie wykorzystywane na realizację celów wskazanych przez ministra właściwego do spraw rozwoju regionalnego z uwzględnieniem konieczności zapewnienia efektywnego wykorzystania tych środków.
@@ -418,15 +423,16 @@ Art. 14lzi. 1. Środki finansowe przekazane na realizację inwestycji lub jej cz
 5. Środki finansowe, o których mowa w ust. 1 pkt 1, nie stanowią dochodu dysponenta ani podmiotów, którym mogą być przekazywane w celu ponownego wykorzystania zgodnie z ust. 1 pkt 1.
 6. Środki finansowe, o których mowa w ust. 1 pkt 1, są wydatkowane i rozliczane przez podmioty, którym środki te mogą być przekazywane w celu ponownego wykorzystania zgodnie z ust. 1, na warunkach określonych w umowach lub porozumieniach zawieranych przez dysponenta z tymi podmiotami.
 7. Umowy lub porozumienia, o których mowa w ust. 6, określają w szczególności:
-1) cele, na jakie zostaną przeznaczone środki finansowe, o których mowa w ust. 1 pkt 1;
+1) cele, na jakie zostaną przeznaczone środki finansowe, o których mowa w ust.
+1 pkt 1;
 2) okres realizacji umowy lub porozumienia;
 3) mechanizmy zapewniające efektywność wykorzystania środków finansowych, o których mowa w ust. 1 pkt 1;
 4) warunki wycofania środków finansowych, o których mowa w ust. 1 pkt 1;
 5) koszty zarządzania środkami finansowymi, o których mowa w ust. 1 pkt 1, i opłaty za zarządzanie tymi środkami finansowymi;
 6) obowiązki sprawozdawcze wobec dysponenta.
-Art. 14lzj. 38) W celu realizacji, kontroli, audytu i ewaluacji reform i inwestycji na zasadach określonych w ustawie lub rozporządzeniu 2021/241 minister właściwy do spraw rozwoju regionalnego, instytucja odpowiedzialna za realizację reformy, instytucja odpowiedzialna za realizację inwestycji, jednostka wspierająca plan rozwojowy, Bank Gospodarstwa Krajowego, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz ostateczni odbiorcy wsparcia przetwarzają dane osobowe.
+Art. 14lzj. W celu realizacji, kontroli, audytu i ewaluacji reform i inwestycji na zasadach określonych w ustawie lub rozporządzeniu 2021/241 minister właściwy do spraw rozwoju regionalnego, instytucja odpowiedzialna za realizację reformy, instytucja odpowiedzialna za realizację inwestycji, jednostka wspierająca plan rozwojowy, Bank Gospodarstwa Krajowego, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz ostateczni odbiorcy wsparcia przetwarzają dane osobowe.
 Art. 14lzk. Podmioty, o których mowa w art. 14lzj, są administratorami w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
-Art. 14lzl. 40) Dostęp do danych osobowych i informacji gromadzonych przez administratorów przysługuje ministrowi właściwemu do spraw rozwoju regionalnego, instytucji odpowiedzialnej za realizację reformy, instytucji odpowiedzialnej za realizację inwestycji, jednostce wspierającej plan rozwojowy, Bankowi Gospodarstwa Krajowego, Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej i Szefowi Krajowej Administracji Skarbowej oraz właściwym jednostkom organizacyjnym Krajowej Administracji Skarbowej.
+Art. 14lzl. Dostęp do danych osobowych i informacji gromadzonych przez administratorów przysługuje ministrowi właściwemu do spraw rozwoju regionalnego, instytucji odpowiedzialnej za realizację reformy, instytucji odpowiedzialnej za realizację inwestycji, jednostce wspierającej plan rozwojowy, Bankowi Gospodarstwa Krajowego, Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej i Szefowi Krajowej Administracji Skarbowej oraz właściwym jednostkom organizacyjnym Krajowej Administracji Skarbowej.
 Art. 14lzm. Administratorzy udostępniają sobie nawzajem dane osobowe niezbędne do realizacji ich zadań.
 Art. 14lzn. Dane są przechowywane przez okres niezbędny do realizacji zadań określonych w art. 14lzj.
 Art. 14lzo. 1. Projekt planu społeczno-klimatycznego opracowuje minister właściwy do spraw rozwoju regionalnego w porozumieniu z właściwymi ministrami i we współpracy z zarządami województw oraz partnerami społecznymi i gospodarczymi.
@@ -442,6 +448,16 @@ Art. 14lzp. 1. W zakresie, w jakim w ramach planu społeczno-klimatycznego jest 
 4. Podmiotami udzielającymi pomocy mogą być również inne podmioty określone w przepisach wykonawczych wydanych na podstawie ust. 5.
 5. Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, a także podmioty udzielające tej pomocy, uwzględniając konieczność zapewnienia zgodności tej pomocy z rynkiem wewnętrznym, efektywnego i skutecznego jej wykorzystania oraz przejrzystości jej udzielania, w przypadku gdy odrębne przepisy nie określają szczegółowego przeznaczenia, warunków lub trybu udzielania tej pomocy.
 6. Szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, nieobjętej przepisami wykonawczymi wydanymi na podstawie ust. 5, lub innymi przepisami określa umowa o dofinansowanie projektu, decyzja o dofinansowaniu projektu lub akt będący podstawą jej udzielenia.
+Art. 14lzq. 1. Projekt planu partnerstwa krajowego i regionalnego opracowuje minister właściwy do spraw rozwoju regionalnego w porozumieniu z właściwymi ministrami i we współpracy z zarządami województw oraz partnerami społecznymi i gospodarczymi.
+2. Plan partnerstwa krajowego i regionalnego jest przyjmowany przez Radę Ministrów, w drodze uchwały, na wniosek ministra właściwego do spraw rozwoju regionalnego.
+3. Przy opracowywaniu projektu planu partnerstwa krajowego i regionalnego uwzględnia się strategie rozwoju, o których mowa w art. 9.
+4. Przepisy ust. 1–3 stosuje się odpowiednio w przypadku zmiany planu partnerstwa krajowego i regionalnego.
+Art. 14lzr. 1. Za koordynację realizacji planu partnerstwa krajowego i regionalnego odpowiada minister właściwy do spraw rozwoju regionalnego.
+2. Koordynacja, o której mowa w ust. 1, polega w szczególności na:
+1) reprezentowaniu Rzeczypospolitej Polskiej w kontaktach z Komisją Europejską i innymi instytucjami europejskimi w zakresie związanym z realizacją planu partnerstwa krajowego i regionalnego;
+2) monitorowaniu realizacji planu partnerstwa krajowego i regionalnego;
+3) przygotowywaniu we współpracy z właściwymi ministrami sprawozdań z realizacji planu partnerstwa krajowego i regionalnego;
+4) wnioskowaniu o płatności do Komisji Europejskiej.
 Art. 14ra. 1. Kontrakt programowy określa w szczególności:
 1) maksymalną kwotę dofinansowania programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez zarząd województwa, środkami pochodzącymi ze źródeł zagranicznych lub z budżetu państwa;
 2) minimalną kwotę dofinansowania ze źródeł krajowych niezbędną do realizacji programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez zarząd województwa, którą zapewnia samorząd województwa ze środków własnych lub środków beneficjentów tego programu;
@@ -455,7 +471,7 @@ Art. 14ra. 1. Kontrakt programowy określa w szczególności:
 4. Kontrakt programowy jest zawierany między ministrem właściwym do spraw rozwoju regionalnego oraz zarządem województwa.
 5. Kontrakt programowy stanowi podstawę do negocjacji z Komisją Europejską programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez zarząd województwa.
 6. Po zakończeniu negocjacji, o których mowa w ust. 5, kontrakt programowy może zostać zmieniony tylko w zakresie wynikającym z tych negocjacji.
-7. Realizację kontraktu programowego koordynuje minister właściwy do spraw rozwoju regionalnego, a ze strony samorządowej właściwy zarząd województwa.
+7. Realizację kontraktu programowego koordynuje minister właściwy do spraw rozwoju regionalnego, a ze strony samorządowej – właściwy zarząd województwa.
 Art. 14rb. 1. Porozumienie terytorialne może być zawierane przez:
 1) zarząd województwa z jednostkami samorządu terytorialnego z obszaru tego województwa lub ich związkami, porozumieniami lub stowarzyszeniami, realizującymi zadania w zakresie polityki rozwoju wynikające ze strategii rozwoju województwa;
 2) ministra właściwego do spraw rozwoju regionalnego, a także właściwego ministra, jeżeli zakres porozumienia terytorialnego tego wymaga, z gminą lub powiatem, lub ich związkami, porozumieniami lub stowarzyszeniami, w przypadku gdy jego zasadność wynika z krajowej strategii rozwoju regionalnego;
@@ -471,20 +487,20 @@ Art. 14rb. 1. Porozumienie terytorialne może być zawierane przez:
 7. O zawartym porozumieniu terytorialnym inicjator tego porozumienia informuje właściwy zarząd województwa lub zarząd powiatu, o ile nie są one stroną porozumienia.
 Art. 38–50. (pominięte)
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
 1. Ustawa określa zasady prowadzenia polityki rozwoju, podmioty prowadzące tę politykę oraz tryb współpracy między nimi.
 
-2. Ustawy nie stosuje się do programu rozwoju obszarów wiejskich, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającym rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm. ), zwanego dalej „programem rozwoju obszarów wiejskich”, planu strategicznego dla wspólnej polityki rolnej, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm. ), zwanego dalej „planem strategicznym dla wspólnej polityki rolnej”, programów realizowanych z wykorzystaniem środków Europejskiego Funduszu Morskiego i Rybackiego, Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury oraz środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej, z wyłączeniem przepisów rozdziałów 1, 2, 2b i 7 oraz przepisów art. 14e, art. 14f, art. 14g ust. 1 i 2, art. 14h, art. 14j i art. 14l, a w przypadku:
+2. Ustawy nie stosuje się do programu rozwoju obszarów wiejskich, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającym rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z
 
-- **1)** programu rozwoju obszarów wiejskich także z wyłączeniem art. 14g ust. 4a, art. 14kc i art. 14kd;
-- **2)** programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Morskiego i Rybackiego oraz Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury także z wyłączeniem art. 14g ust. 4, art. 14ke i art. 14kf;
-- **3)** programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej także z wyłączeniem art. 14g ust. 4b, art. 14kh i art. 14ki;
-- **4)** planu strategicznego dla wspólnej polityki rolnej także z wyłączeniem art. 14g ust. 4a, art. 14kca i art. 14kd.
+20. 12.2013, str. 487, z późn. zm. ), zwanego dalej „programem rozwoju obszarów wiejskich”, planu strategicznego dla wspólnej polityki rolnej, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm. ), zwanego dalej „planem strategicznym dla wspólnej polityki rolnej”, programów realizowanych z wykorzystaniem środków Europejskiego Funduszu Morskiego i Rybackiego, Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury oraz środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej, z wyłączeniem przepisów rozdziałów 1, 2, 2b i 7 oraz przepisów art. 14e, art. 14f, art. 14g ust. 1 i 2, art. 14h, art. 14j i art. 14l, a w przypadku:
+
+- **1)** programu rozwoju obszarów wiejskich – także z wyłączeniem art. 14g ust. 4a, art. 14kc i art. 14kd;
+- **2)** programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Morskiego i Rybackiego oraz Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury – także z wyłączeniem art. 14g ust. 4, art. 14ke i art. 14kf;
+- **3)** programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej – także z wyłączeniem art. 14g ust. 4b, art. 14kh i art. 14ki;
+- **4)** planu strategicznego dla wspólnej polityki rolnej – także z wyłączeniem art. 14g ust. 4a, art. 14kca i art. 14kd.
 
 3. Szczególne zasady prowadzenia polityki rozwoju wobec obszaru otoczenia Centralnego Portu Komunikacyjnego określa ustawa z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747).
 
@@ -498,7 +514,7 @@ Art. 38–50. (pominięte)
 
 **Art. 3c.**
 
-- **6)** 1. W zakresie, w jakim wykorzystanie środków, o których mowa w art. 3b wiąże się z udzielaniem pomocy publicznej w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomocy de minimis, zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
+1. W zakresie, w jakim wykorzystanie środków, o których mowa w art. 3b wiąże się z udzielaniem pomocy publicznej w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomocy de minimis, zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
 
 2. Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, a także podmioty udzielające tej pomocy, uwzględniając konieczność zapewnienia zgodności tej pomocy z rynkiem wewnętrznym, efektywnego i skutecznego jej wykorzystania oraz przejrzystości jej udzielania, w przypadku gdy przepisy odrębne nie określają szczegółowego przeznaczenia, warunków lub trybu udzielania tej pomocy.
 
@@ -520,7 +536,7 @@ Art. 38–50. (pominięte)
 
 2. Projekt strategii rozwoju województwa podlega konsultacjom w szczególności z: jednostkami samorządu terytorialnego z obszaru tego województwa i ich związkami, partnerami społecznymi i gospodarczymi, właściwym dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie oraz z Komisją Wspólną Rządu i Samorządu Terytorialnego.
 
-3. Projekt strategii rozwoju ponadlokalnego oraz strategii rozwoju gminy podlega konsultacjom w szczególności z: sąsiednimi gminami i ich związkami, lokalnymi partnerami społecznymi i gospodarczymi, mieszkańcami gmin w przypadku strategii rozwoju ponadlokalnego albo gminy w przypadku strategii rozwoju gminy, oraz z właściwym dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
+3. Projekt strategii rozwoju ponadlokalnego oraz strategii rozwoju gminy podlega konsultacjom w szczególności z: sąsiednimi gminami i ich związkami, lokalnymi partnerami społecznymi i gospodarczymi, mieszkańcami gmin – w przypadku strategii rozwoju ponadlokalnego albo gminy – w przypadku strategii rozwoju gminy, oraz z właściwym dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
 
 4. Podmiot opracowujący projekt koncepcji rozwoju kraju, projekt strategii rozwoju oraz projekt polityki publicznej ogłasza na swojej stronie internetowej oraz może ogłaszać w prasie odpowiednio o zasięgu krajowym, regionalnym lub lokalnym, informację o konsultacjach, terminie i sposobie przekazywania uwag do projektu oraz terminie i miejscu spotkań konsultacyjnych. Ogłoszenie w prasie zawiera dodatkowo informację o adresie strony internetowej, na której zamieszczono projekt.
 
@@ -575,7 +591,7 @@ Art. 38–50. (pominięte)
 
 1. Podmiot opracowujący projekt strategii rozwoju, projekt polityki publicznej, projekt programu rozwoju lub projekt programu służącego realizacji umowy partnerstwa przygotowuje diagnozę sytuacji społecznej, gospodarczej, przestrzennej i klimatyczno-środowiskowej z uwzględnieniem obszarów funkcjonalnych, w tym miejskich obszarów funkcjonalnych.
 
-2. Podmiot opracowujący projekt strategii rozwoju przeprowadza uprzednią ewaluację trafności, przewidywanej skuteczności i efektywności realizacji strategii rozwoju przed jej przyjęciem.
+2. Podmiot opracowujący projekt strategii rozwoju przeprowadza uprzednią ewaluację trafności, przewidywanej skuteczności i efektywności realizacji strategii rozwoju – przed jej przyjęciem.
 
 **Art. 11.** (uchylony)
 
@@ -759,12 +775,12 @@ Art. 38–50. (pominięte)
 1. Projekt programu służącego realizacji umowy partnerstwa opracowany przez:
 
 - **1)** ministra właściwego do spraw rozwoju regionalnego, ministra właściwego do spraw rozwoju wsi, ministra właściwego do spraw rybołówstwa, ministra właściwego do spraw wewnętrznych oraz ministra właściwego do spraw zabezpieczenia społecznego, jest przyjmowany przez Radę Ministrów,
-- **2)** zarząd województwa, jest przyjmowany przez zarząd województwa w drodze uchwały, po uzyskaniu opinii, o której mowa w art. 14g ust. 1 pkt 4, przed skierowaniem do przyjęcia przez Komisję Europejską.
+- **2)** zarząd województwa, jest przyjmowany przez zarząd województwa – w drodze uchwały, po uzyskaniu opinii, o której mowa w art. 14g ust. 1 pkt 4, przed skierowaniem do przyjęcia przez Komisję Europejską.
 
 2. Programy służące realizacji umowy partnerstwa:
 
 - **1)** w zakresie polityki spójności, po przyjęciu przez Komisję Europejską, są przekazywane przez ministra właściwego do spraw rozwoju regionalnego,
-- **2)** realizowane z wykorzystaniem środków funduszy wspierających sektory morski lub rybacki, funduszy wspierających sprawy wewnętrzne oraz środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej, a także program rozwoju obszarów wiejskich, po przyjęciu przez Komisję Europejską, są przekazywane odpowiednio przez ministra właściwego do spraw rybołówstwa, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw zabezpieczenia społecznego lub ministra właściwego do spraw rozwoju wsi do wiadomości członkom Rady Ministrów.
+- **2)** realizowane z wykorzystaniem środków funduszy wspierających sektory morski lub rybacki, funduszy wspierających sprawy wewnętrzne oraz środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej, a także program rozwoju obszarów wiejskich, po przyjęciu przez Komisję Europejską, są przekazywane odpowiednio przez ministra właściwego do spraw rybołówstwa, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw zabezpieczenia społecznego lub ministra właściwego do spraw rozwoju wsi – do wiadomości członkom Rady Ministrów.
 
 **Art. 14k.** Do programów służących realizacji umowy partnerstwa w zakresie polityki spójności stosuje się odpowiednio przepisy art. 19a i art. 20 ust. 2a i 3. Art. 14ka. 1. Propozycje zmian programu służącego realizacji umowy partnerstwa w zakresie polityki spójności opracowuje właściwa instytucja zarządzająca tym programem oraz przedkłada je:
 
@@ -800,7 +816,7 @@ Art. 38–50. (pominięte)
 
 - **1)** strony samorządowej, z uwzględnieniem przedstawicieli strony samorządowej Komisji Wspólnej Rządu i Samorządu Terytorialnego,
 - **2)** strony rządowej,
-- **3)** partnerów społecznych i gospodarczych stanowili po 1/3 składu Komitetu.
+- **3)** partnerów społecznych i gospodarczych – stanowili po 1/3 składu Komitetu.
 
 8. Komitet do spraw Umowy Partnerstwa jest powoływany na okres realizacji umowy partnerstwa.
 
@@ -811,6 +827,8 @@ Art. 38–50. (pominięte)
 #### Rozdział 2aa Plan rozwojowy
 
 #### Rozdział 2ab Plan społeczno-klimatyczny
+
+#### Rozdział 2ac Plan partnerstwa krajowego i regionalnego
 
 #### Rozdział 2b Kontrakt terytorialny
 
@@ -917,8 +935,8 @@ Art. 38–50. (pominięte)
 
 4. Programami są:
 
-- **1)** programy operacyjne dokumenty, o których mowa w art. 37 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999, realizujące cele zawarte w narodowej strategii spójności i strategiach rozwoju, o których mowa w art. 9 pkt 3; programami operacyjnymi są krajowe programy operacyjne i regionalne programy operacyjne;
-- **2)** programy rozwoju dokumenty realizujące cele zawarte w strategiach rozwoju, o których mowa w art. 9 pkt 3–6, oraz programy wieloletnie, o których mowa w przepisach o finansach publicznych.
+- **1)** programy operacyjne – dokumenty, o których mowa w art. 37 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999, realizujące cele zawarte w narodowej strategii spójności i strategiach rozwoju, o których mowa w art. 9 pkt 3; programami operacyjnymi są krajowe programy operacyjne i regionalne programy operacyjne;
+- **2)** programy rozwoju – dokumenty realizujące cele zawarte w strategiach rozwoju, o których mowa w art. 9 pkt 3–6, oraz programy wieloletnie, o których mowa w przepisach o finansach publicznych.
 
 5. Funkcję instytucji zarządzającej dla programów, o których mowa w ust. 2, dla których instytucja zarządzająca została umiejscowiona w Rzeczypospolitej Polskiej na podstawie decyzji Komisji Europejskiej, pełni minister właściwy do spraw rozwoju regionalnego. W przypadku gdy w programach, zgodnie z odpowiednią decyzją Komisji Europejskiej, instytucja zarządzająca znajduje się poza granicami Rzeczypospolitej Polskiej, minister właściwy do spraw rozwoju regionalnego pełni rolę koordynatora krajowego.
 
@@ -1020,7 +1038,7 @@ Art. 38–50. (pominięte)
 
 **Art. 19a.**
 
-1. Projekty programów podlegają konsultacjom z jednostkami samorządu terytorialnego oraz partnerami społecznymi i gospodarczymi, a w przypadku programów opracowanych przez ministra właściwego do spraw rozwoju regionalnego, właściwych ministrów i zarządy województw również z Komisją Wspólną Rządu i Samorządu Terytorialnego.
+1. Projekty programów podlegają konsultacjom z jednostkami samorządu terytorialnego oraz partnerami społecznymi i gospodarczymi, a w przypadku programów opracowanych przez ministra właściwego do spraw rozwoju regionalnego, właściwych ministrów i zarządy województw – również z Komisją Wspólną Rządu i Samorządu Terytorialnego.
 
 2. Przepisy art. 6 ust. 4–6 stosuje się odpowiednio.
 
@@ -1065,7 +1083,7 @@ Art. 38–50. (pominięte)
 2. Przekazanie dotacji celowej, o której mowa w ust. 1, odbywa się na podstawie umowy zawartej przez:
 
 - **1)** ministra właściwego do spraw rozwoju regionalnego, lub
-- **2)** właściwego ministra lub właściwego miejscowo wojewodę, po uzyskaniu pozytywnej opinii ministra właściwego do spraw rozwoju regionalnego z jednostkami samorządu terytorialnego, na zasadach określonych w przepisach o finansach publicznych.
+- **2)** właściwego ministra lub właściwego miejscowo wojewodę, po uzyskaniu pozytywnej opinii ministra właściwego do spraw rozwoju regionalnego – z jednostkami samorządu terytorialnego, na zasadach określonych w przepisach o finansach publicznych.
 
 **Art. 20b.**
 
@@ -1077,7 +1095,7 @@ Art. 38–50. (pominięte)
 2. Przekazanie dotacji celowej, o której mowa w ust. 1, odbywa się na podstawie umowy zawartej przez:
 
 - **1)** ministra właściwego do spraw rozwoju regionalnego, lub
-- **2)** właściwego ministra lub właściwego miejscowo wojewodę, po uzyskaniu pozytywnej opinii ministra właściwego do spraw rozwoju regionalnego z jednostkami sektora finansów publicznych, o których mowa w ust. 1, na zasadach określonych w przepisach o finansach publicznych.
+- **2)** właściwego ministra lub właściwego miejscowo wojewodę, po uzyskaniu pozytywnej opinii ministra właściwego do spraw rozwoju regionalnego – z jednostkami sektora finansów publicznych, o których mowa w ust. 1, na zasadach określonych w przepisach o finansach publicznych.
 
 **Art. 21.**
 
@@ -1085,7 +1103,7 @@ Art. 38–50. (pominięte)
 
 2. Podmiotami udzielającymi pomocy, o której mowa w ust. 1, są instytucje zarządzające, instytucje pośredniczące, instytucje wdrażające lub beneficjenci, a także inne podmioty, o których mowa w art. 2 pkt 12 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 
-3. Właściwy minister albo minister właściwy do spraw rozwoju regionalnego w zakresie programów operacyjnych, w ramach których zarząd województwa pełni funkcję instytucji zarządzającej lub instytucji pośredniczącej, określi, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, mając w szczególności na uwadze konieczność zapewnienia zgodności udzielanej pomocy z warunkami jej dopuszczalności, w przypadku gdy odrębne przepisy nie określają szczegółowych warunków i trybu udzielania tej pomocy.
+3. Właściwy minister albo minister właściwy do spraw rozwoju regionalnego – w zakresie programów operacyjnych, w ramach których zarząd województwa pełni funkcję instytucji zarządzającej lub instytucji pośredniczącej, określi, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, mając w szczególności na uwadze konieczność zapewnienia zgodności udzielanej pomocy z warunkami jej dopuszczalności, w przypadku gdy odrębne przepisy nie określają szczegółowych warunków i trybu udzielania tej pomocy.
 
 4. Pomoc, o której mowa w ust. 1, nieobjęta przepisami, o których mowa w ust. 3, lub innymi przepisami wydanymi na podstawie odrębnych ustaw, stanowi pomoc indywidualną, a jej przeznaczenie i szczegółowe warunki udzielania określa decyzja, umowa o dofinansowanie projektu, umowa o udzielenie dotacji celowej albo akt będący podstawą jej udzielenia.
 
@@ -1144,7 +1162,7 @@ Art. 38–50. (pominięte)
 
 5. Polityka publiczna podlega aktualizacji, jeżeli jest to konieczne dla zachowania jej spójności ze średniookresową strategią rozwoju kraju. Do aktualizacji stosuje się ust. 1–4.
 
-#### Rozdział 4 (uchylony)
+#### Rozdział 4
 
 #### Rozdział 4a Pobrexitowa rezerwa dostosowawcza
 
@@ -1171,7 +1189,7 @@ Art. 38–50. (pominięte)
 
 - **1)** pomoc publiczna w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej,
 - **2)** pomoc de minimis lub
-- **3)** pomoc de minimis w rolnictwie lub rybołówstwie zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
+- **3)** pomoc de minimis w rolnictwie lub rybołówstwie – zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
 
 2. Podmiotem udzielającym pomocy, o której mowa w ust. 1, jest podmiot zarządzający lub inny podmiot określony w przepisach wykonawczych, o których mowa w ust. 3.
 
@@ -1195,19 +1213,19 @@ Art. 38–50. (pominięte)
 
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
 - **2)** wykorzystane z naruszeniem procedur obowiązujących przy ich wykorzystaniu, w tym postanowień umowy, o której mowa w art. 24a ust. 2, umowy, o której mowa w art. 24c, lub porozumienia, o którym mowa w art. 24d ust. 1,
-- **3)** pobrane nienależnie lub w nadmiernej wysokości podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków, w terminie 14 dni od dnia doręczenia ostatecznej decyzji, o której mowa w ust. 3, na wskazany w tej decyzji rachunek bankowy.
+- **3)** pobrane nienależnie lub w nadmiernej wysokości – podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków, w terminie 14 dni od dnia doręczenia ostatecznej decyzji, o której mowa w ust. 3, na wskazany w tej decyzji rachunek bankowy.
 
 2. W przypadku stwierdzenia okoliczności, o których mowa w ust. 1:
 
-- **1)** minister właściwy do spraw rozwoju regionalnego wzywa do zwrotu środków w terminie 14 dni od dnia doręczenia wezwania jeżeli do zwrotu środków jest obowiązany podmiot zarządzający lub państwowa jednostka budżetowa objęta finansowaniem ze środków pobrexitowej rezerwy dostosowawczej;
-- **2)** podmiot zarządzający wzywa do zwrotu środków w terminie 14 dni od dnia doręczenia wezwania jeżeli do zwrotu środków jest obowiązany ostateczny odbiorca.
+- **1)** minister właściwy do spraw rozwoju regionalnego wzywa do zwrotu środków w terminie 14 dni od dnia doręczenia wezwania – jeżeli do zwrotu środków jest obowiązany podmiot zarządzający lub państwowa jednostka budżetowa objęta finansowaniem ze środków pobrexitowej rezerwy dostosowawczej;
+- **2)** podmiot zarządzający wzywa do zwrotu środków w terminie 14 dni od dnia doręczenia wezwania – jeżeli do zwrotu środków jest obowiązany ostateczny odbiorca.
 
 3. Po bezskutecznym upływie terminu, o którym mowa w ust. 2, minister właściwy do spraw rozwoju regionalnego albo podmiot zarządzający wydaje decyzję określającą kwotę przypadającą do zwrotu i termin, od którego nalicza się odsetki.
 
 4. Do spraw dotyczących należności z tytułu zwrotu środków przeznaczonych na realizację działań związanych z finansowaniem ze środków pobrexitowej rezerwy dostosowawczej, a także odsetek od tych środków i od tych należności, nieuregulowanych niniejszą ustawą, stosuje się:
 
-- **1)** przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego;
-- **2)** odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a w sprawach w niej nieuregulowanych przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+- **1)** przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego;
+- **2)** odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a w sprawach w niej nieuregulowanych przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 **Art. 24f.**
 
@@ -1249,9 +1267,9 @@ Art. 38–50. (pominięte)
 
 1. Środki Funduszu pochodzą z:
 
-- **1)** odsetek:
+- **1)** odsetek: o finansach publicznych – z wyłączeniem przypadków, w których zwrot środków albo zapłata odsetek następuje przez pomniejszenie kolejnej płatności na rzecz beneficjenta;
     - **a)** od środków, o których mowa w art. 207 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych,
-    - **b)** o których mowa w art. 189 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych z wyłączeniem przypadków, w których zwrot środków albo zapłata odsetek następuje przez pomniejszenie kolejnej płatności na rzecz beneficjenta;
+    - **b)** o których mowa w art. 189 ust. 3 ustawy z dnia 27 sierpnia 2009 r.
 
 - **2)** dotacji z budżetu państwa;
 - **3)** odsetek od lokat środków Funduszu;
@@ -1300,12 +1318,12 @@ Art. 38–50. (pominięte)
 
 3. Instytucja zarządzająca ogłasza komunikat:
 
-- **1)** w przypadku krajowego programu operacyjnego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” o:
+- **1)** w przypadku krajowego programu operacyjnego – w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” o:
     - **a)** adresie strony internetowej, na której instytucja zarządzająca zamieści treść szczegółowego opisu priorytetów krajowego programu operacyjnego lub jego zmian,
     - **b)** terminie, od którego szczegółowy opis priorytetów programu operacyjnego lub jego zmiany będą stosowane;
     - **c)** (uchylona)
 
-- **2)** w przypadku regionalnego programu operacyjnego w wojewódzkim dzienniku urzędowym o:
+- **2)** w przypadku regionalnego programu operacyjnego – w wojewódzkim dzienniku urzędowym o:
     - **a)** adresie strony internetowej, na której instytucja zarządzająca zamieści treść szczegółowego opisu priorytetów regionalnego programu operacyjnego lub jego zmian,
     - **b)** terminie, od którego szczegółowy opis priorytetów regionalnego programu operacyjnego lub jego zmiany będą stosowane.
     - **c)** (uchylona)
@@ -1330,15 +1348,15 @@ Art. 38–50. (pominięte)
 
 4. Instytucja zarządzająca lub, za jej zgodą instytucja pośrednicząca lub instytucja wdrażająca może powierzyć realizację czynności technicznych związanych z obsługą swoich zadań innym podmiotom na podstawie odpowiednio porozumienia lub umowy.
 
-5. Do realizacji czynności technicznych, o których mowa w ust. 4, powierzanych jednostce sektora finansów publicznych lub fundacjom, których jedynym fundatorem jest Skarb Państwa, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320). W takim przypadku instytucja zarządzająca lub instytucja pośrednicząca pokrywa poniesione przez te jednostki lub fundacje niezbędne koszty wykonania tych czynności.
+5. Do realizacji czynności technicznych, o których mowa w ust. 4, powierzanych jednostce sektora finansów publicznych lub fundacjom, których jedynym fundatorem jest Skarb Państwa, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320). W takim przypadku instytucja zarządzająca lub instytucja pośrednicząca pokrywa poniesione przez te jednostki lub fundacje niezbędne koszty wykonania tych czynności.
 
 **Art. 28.**
 
 1. W ramach programu operacyjnego mogą być dofinansowane projekty:
 
-- **1)** indywidualne o strategicznym znaczeniu dla realizacji programu, wskazywane przez instytucję zarządzającą,
-- **2)** systemowe, w tym również projekty pomocy technicznej polegające na realizacji zadań publicznych przez podmioty działające na podstawie odrębnych przepisów, w zakresie określonym przepisami prawa i dokumentami strategiczno-programowymi przyjętymi przez Radę Ministrów,
-- **3)** wyłonione w trybie konkursu zgodnie z kryteriami zatwierdzonymi przez Komitet Monitorujący, spełniającymi warunki niedyskryminacji i przejrzystości, z uwzględnieniem w szczególności art. 16 i art. 17 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999.
+- **1)** indywidualne – o strategicznym znaczeniu dla realizacji programu, wskazywane przez instytucję zarządzającą,
+- **2)** systemowe, w tym również projekty pomocy technicznej – polegające na realizacji zadań publicznych przez podmioty działające na podstawie odrębnych przepisów, w zakresie określonym przepisami prawa i dokumentami strategiczno-programowymi przyjętymi przez Radę Ministrów,
+- **3)** wyłonione w trybie konkursu – zgodnie z kryteriami zatwierdzonymi przez Komitet Monitorujący, spełniającymi warunki niedyskryminacji i przejrzystości, z uwzględnieniem w szczególności art. 16 i art. 17 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999.
 
 1a. Minister właściwy do spraw rozwoju regionalnego w przypadku krajowych programów operacyjnych:
 
@@ -1358,7 +1376,7 @@ Art. 38–50. (pominięte)
 
 5. Dokumenty stanowiące system realizacji programu operacyjnego, a także ich zmiany podlegają publikacji na stronach internetowych właściwej instytucji zarządzającej.
 
-6. Dokumenty, o których mowa w ust. 5, nie mogą być zmieniane na niekorzyść wnioskodawcy w trakcie trwania określonej tury konkursu, w zakresie w jakim dotyczą tego konkursu, a w przypadku konkursów otwartych ich zmiana nie może mieć negatywnego wpływu na rozpatrzenie złożonego przed dokonaniem tej zmiany wniosku o dofinansowanie.
+6. Dokumenty, o których mowa w ust. 5, nie mogą być zmieniane na niekorzyść wnioskodawcy w trakcie trwania określonej tury konkursu, w zakresie w jakim dotyczą tego konkursu, a w przypadku konkursów otwartych – ich zmiana nie może mieć negatywnego wpływu na rozpatrzenie złożonego przed dokonaniem tej zmiany wniosku o dofinansowanie.
 
 7. Przepis ust. 6 nie ma zastosowania do przypadków, gdy konieczność dokonania zmiany wynika ze zobowiązań międzynarodowych lub przepisów odrębnych ustaw. W takim przypadku, dokonując zmiany w systemie realizacji, właściwa instytucja zarządzająca wraz z publikacją tych zmian podaje informację zawierającą ich uzasadnienie oraz termin, od którego zmiany te będą stosowane.
 
@@ -1374,7 +1392,7 @@ Art. 38–50. (pominięte)
 
 3. W przypadku projektów partnerskich, porozumienie lub umowa partnerska określa w szczególności zadania partnerów, zasady wspólnego zarządzania projektem oraz sposób przekazywania przez beneficjenta środków finansowych na pokrycie niezbędnych kosztów ponoszonych przez partnerów na realizację zadań w ramach projektu.
 
-4. W przypadku projektów partnerskich realizowanych na podstawie umowy partnerskiej, podmiot o którym mowa w art. 4, art. 5 ust. 1 i art. 6 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych, ubiegający się o dofinansowanie, dokonuje wyboru partnerów spoza sektora finansów publicznych z zachowaniem zasady przejrzystości i równego traktowania podmiotów, w szczególności jest zobowiązany do:
+4. W przypadku projektów partnerskich realizowanych na podstawie umowy partnerskiej, podmiot o którym mowa w art. 4, art. 5 ust. 1 i art. 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, ubiegający się o dofinansowanie, dokonuje wyboru partnerów spoza sektora finansów publicznych z zachowaniem zasady przejrzystości i równego traktowania podmiotów, w szczególności jest zobowiązany do:
 
 - **1)** ogłoszenia otwartego naboru partnerów w dzienniku ogólnopolskim lub lokalnym oraz w Biuletynie Informacji Publicznej; w ogłoszeniu powinien być wskazany termin co najmniej 21 dni na zgłoszenie partnerów;
 - **2)** uwzględnienia przy wyborze partnerów: zgodności działania potencjalnego partnera z celami partnerstwa, oferowanego wkładu potencjalnego partnera w realizację celu partnerstwa, doświadczenie w realizacji projektów o podobnym charakterze, współpracę z beneficjentem w trakcie przygotowania projektu;
@@ -1421,7 +1439,7 @@ Art. 38–50. (pominięte)
 
 2. Instytucja zarządzająca, pośrednicząca lub instytucja wdrażająca, zgodnie z systemem realizacji programu operacyjnego, ogłasza na swojej stronie internetowej listę projektów, o których mowa w art. 28 ust. 1 pkt 3, które zostały zakwalifikowane do dofinansowania.
 
-3. Właściwa instytucja, o której mowa w ust. 2, pisemnie informuje wnioskodawcę o wynikach poszczególnych etapów oceny jego projektu wraz z podaniem otrzymanej punktacji lub informacji o spełnieniu bądź niespełnieniu kryteriów wyboru projektów. Informacja ta zawiera uzasadnienie oceny, a w przypadku gdy ocena jest negatywna także pouczenie o możliwości wniesienia protestu, w trybie i na zasadach określonych w art. 30b, zawierające wskazanie:
+3. Właściwa instytucja, o której mowa w ust. 2, pisemnie informuje wnioskodawcę o wynikach poszczególnych etapów oceny jego projektu wraz z podaniem otrzymanej punktacji lub informacji o spełnieniu bądź niespełnieniu kryteriów wyboru projektów. Informacja ta zawiera uzasadnienie oceny, a w przypadku gdy ocena jest negatywna – także pouczenie o możliwości wniesienia protestu, w trybie i na zasadach określonych w art. 30b, zawierające wskazanie:
 
 - **1)** właściwej instytucji zarządzającej, do której należy wnieść protest;
 - **2)** terminu wniesienia protestu;
@@ -1459,7 +1477,7 @@ Art. 38–50. (pominięte)
 9. Właściwa instytucja zarządzająca informuje wnioskodawcę na piśmie o wyniku rozpatrzenia jego protestu. Informacja ta zawiera w szczególności:
 
 - **1)** treść rozstrzygnięcia polegającego na uwzględnieniu albo nieuwzględnieniu protestu wraz z uzasadnieniem;
-- **2)** w przypadku nieuwzględnienia protestu pouczenie o możliwości i terminie wniesienia skargi do wojewódzkiego sądu administracyjnego, na zasadach określonych w art. 30c.
+- **2)** w przypadku nieuwzględnienia protestu – pouczenie o możliwości i terminie wniesienia skargi do wojewódzkiego sądu administracyjnego, na zasadach określonych w art. 30c.
 
 10. W rozpatrywaniu protestu nie mogą brać udziału osoby, które były zaangażowane w przygotowanie projektu lub w jego ocenę.
 
@@ -1468,11 +1486,11 @@ Art. 38–50. (pominięte)
 - **1)** po terminie,
 - **2)** do niewłaściwej instytucji,
 - **3)** przez podmiot inny niż wskazany w art. 29 ust. 2 pkt 2,
-- **4)** bez spełnienia wymogów określonych w ust. 6 o czym właściwa instytucja informuje wnioskodawcę na piśmie.
+- **4)** bez spełnienia wymogów określonych w ust. 6 – o czym właściwa instytucja informuje wnioskodawcę na piśmie.
 
 **Art. 30c.**
 
-1. Po wyczerpaniu postępowania odwoławczego przed właściwą instytucją oraz w przypadku, o którym mowa w art. 30i pkt 1, wnioskodawca może w tym zakresie wnieść skargę do wojewódzkiego sądu administracyjnego, zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+1. Po wyczerpaniu postępowania odwoławczego przed właściwą instytucją oraz w przypadku, o którym mowa w art. 30i pkt 1, wnioskodawca może w tym zakresie wnieść skargę do wojewódzkiego sądu administracyjnego, zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 2. Skarga, o której mowa w ust. 1, jest wnoszona przez wnioskodawcę w terminie 14 dni od dnia doręczenia informacji, o której mowa w art. 30b ust. 9 albo art. 30i pkt 1, bezpośrednio do właściwego wojewódzkiego sądu administracyjnego wraz z kompletną dokumentacją w sprawie. Skarga podlega wpisowi stałemu.
 
@@ -1481,7 +1499,7 @@ Art. 38–50. (pominięte)
 - **1)** wniosek o dofinansowanie,
 - **2)** informację o wynikach oceny projektu, o której mowa w art. 30a ust. 3,
 - **3)** wniesiony protest,
-- **4)** informację, o której mowa w art. 30b ust. 9 albo art. 30i pkt 1 wraz z ewentualnymi załącznikami.
+- **4)** informację, o której mowa w art. 30b ust. 9 albo art. 30i pkt 1 – wraz z ewentualnymi załącznikami.
 
 2b. Kompletna dokumentacja jest wnoszona w oryginale lub w uwierzytelnionej kopii.
 
@@ -1497,7 +1515,7 @@ Art. 38–50. (pominięte)
 
 - **1)** po terminie, o którym mowa w ust. 2,
 - **2)** bez kompletnej dokumentacji,
-- **3)** bez uiszczenia wpisu stałego w terminie, o którym mowa w ust. 2 powoduje pozostawienie jej bez rozpatrzenia.
+- **3)** bez uiszczenia wpisu stałego w terminie, o którym mowa w ust. 2 – powoduje pozostawienie jej bez rozpatrzenia.
 
 6. W przypadku wniesienia skargi bez kompletnej dokumentacji lub bez uiszczenia wpisu stałego, sąd wzywa wnioskodawcę do uzupełnienia braków w terminie 7 dni od dnia doręczenia wezwania, pod rygorem pozostawienia skargi bez rozpatrzenia.
 
@@ -1509,7 +1527,7 @@ Art. 38–50. (pominięte)
 
 3. Na prawo wnioskodawcy do wniesienia skargi do sądu administracyjnego nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 30a ust. 3, art. 30b ust. 9 pkt 2 i art. 30i pkt 1.
 
-**Art. 30e.** W zakresie nieuregulowanym w ustawie do postępowania przed sądami administracyjnymi stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi określone dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 z wyłączeniem art. 52–55, art. 61 § 3–6, art. 115–122, 146, 150 i 152 tej ustawy.
+**Art. 30e.** W zakresie nieuregulowanym w ustawie do postępowania przed sądami administracyjnymi stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi określone dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 z wyłączeniem art. 52–55, art. 61 § 3–6, art. 115–122, 146, 150 i 152 tej ustawy.
 
 **Art. 30f.** Procedura odwoławcza, o której mowa w art. 30a–30e, nie wstrzymuje zawierania umów z wnioskodawcami, których projekty zostały zakwalifikowane do dofinansowania.
 
@@ -1530,7 +1548,7 @@ Art. 38–50. (pominięte)
 - **3)** nie została skazana prawomocnym wyrokiem za przestępstwo umyślne lub za umyślne przestępstwo skarbowe;
 - **4)** spełnia inne wymogi określone w systemie realizacji programu operacyjnego.
 
-3. Przy korzystaniu z usług świadczonych przez ekspertów stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego dotyczące wyłączenia pracownika oraz organu.
+3. Przy korzystaniu z usług świadczonych przez ekspertów stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące wyłączenia pracownika oraz organu.
 
 4. Ekspert, przed przystąpieniem do oceny projektu, składa instytucji korzystającej z jego usługi oświadczenie, że nie zachodzi żadna z okoliczności powodujących wyłączenie go z udziału w ocenie projektu na podstawie ustawy, o której mowa w ust. 3, oraz że nie zachodzą żadne okoliczności mogące budzić uzasadnione wątpliwości co do jego bezstronności względem podmiotu ubiegającego się o dofinansowanie lub podmiotu, który złożył wniosek będący przedmiotem oceny. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, o czym należy składającego pouczyć przed złożeniem oświadczenia.
 
@@ -1586,7 +1604,7 @@ Art. 38–50. (pominięte)
 - **3)** zapewnia zgodność programów operacyjnych z przepisami Unii Europejskiej;
 - **4)** prowadzi, we współpracy z właściwymi ministrami i zarządami województw, negocjacje z Komisją Europejską mające na celu uzgodnienie treści programów operacyjnych;
 - **5)** współpracuje w zakresie przygotowywania regionalnych programów operacyjnych, monitoruje i kontroluje przebieg ich realizacji oraz zwraca się do zarządów województw z wnioskami dotyczącymi usprawnienia sposobu ich realizacji;
-- **6)** występuje do Komisji Europejskiej z wnioskiem o dokonanie przesunięć środków między programami operacyjnymi lub na wniosek właściwej instytucji zarządzającej między priorytetami;
+- **6)** występuje do Komisji Europejskiej z wnioskiem o dokonanie przesunięć środków między programami operacyjnymi lub – na wniosek właściwej instytucji zarządzającej – między priorytetami;
 - **7)** certyfikuje Komisji Europejskiej prawidłowość poniesienia wydatków w ramach programów operacyjnych oraz przeprowadza kontrole w celu zapewnienia prawidłowej realizacji tego procesu;
 - **8)** (uchylony)
 - **9)** opracowuje i przedstawia Radzie Ministrów do zatwierdzenia projekt narodowej strategii spójności;
@@ -1617,7 +1635,7 @@ Art. 38–50. (pominięte)
 - **10)** sposobu postępowania w razie wykrycia nieprawidłowości;
 - **11)** innych kwestii związanych z przygotowaniem, realizacją i zamknięciem programów operacyjnych.
 
-3a. Wytyczne w zakresie trybu dokonywania wyboru projektów nie mogą być zmieniane na niekorzyść wnioskodawców w trakcie trwania konkursu, a w przypadku konkursów otwartych zmiany nie mogą wpływać negatywnie na rozpatrywanie wniosków złożonych przed dniem dokonania zmiany.
+3a. Wytyczne w zakresie trybu dokonywania wyboru projektów nie mogą być zmieniane na niekorzyść wnioskodawców w trakcie trwania konkursu, a w przypadku konkursów otwartych – zmiany nie mogą wpływać negatywnie na rozpatrywanie wniosków złożonych przed dniem dokonania zmiany.
 
 3b. Przepis ust. 3a nie ma zastosowania do przypadków, gdy konieczność wprowadzenia zmian wynika ze zobowiązań międzynarodowych lub przepisów odrębnych ustaw. W takim przypadku, dokonując zmiany wytycznych minister właściwy do spraw rozwoju regionalnego wraz z publikacją zmian podaje informację zawierającą ich uzasadnienie oraz termin, od którego zmiany będą stosowane.
 
@@ -1710,7 +1728,7 @@ Art. 38–50. (pominięte)
 
 4. W pracach Komitetu Monitorującego powołanego dla regionalnego programu operacyjnego, o którym mowa w ust. 2, uczestniczą także przedstawiciele Komisji Wspólnej Rządu i Samorządu Terytorialnego.
 
-**Art. 37.** Do postępowania w zakresie ubiegania się o dofinansowanie oraz udzielania dofinansowania na podstawie niniejszej ustawy ze środków pochodzących z budżetu państwa lub ze środków zagranicznych oraz do ustalania i nakładania korekt finansowych, o których mowa w art. 98 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+**Art. 37.** Do postępowania w zakresie ubiegania się o dofinansowanie oraz udzielania dofinansowania na podstawie niniejszej ustawy ze środków pochodzących z budżetu państwa lub ze środków zagranicznych oraz do ustalania i nakładania korekt finansowych, o których mowa w art. 98 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 #### Rozdział 5a Wsparcie zwrotne
 
@@ -1735,8 +1753,8 @@ Art. 38–50. (pominięte)
 
 1. W okresie 12 miesięcy od dnia wejścia w życie niniejszego artykułu, w przypadku gdy w celu przeciwdziałania skutkom powodzi jest konieczne dokonanie zmiany programu w rozumieniu art. 2 pkt 20 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027, opracowanego przez:
 
-- **1)** ministra właściwego do spraw rozwoju regionalnego zmianę programu przyjmuje Rada Ministrów, w drodze uchwały, przed skierowaniem do przyjęcia przez Komisję Europejską;
-- **2)** zarząd województwa zmianę programu przyjmuje zarząd województwa, w drodze uchwały, po uzyskaniu opinii ministra właściwego do spraw rozwoju regionalnego, przed skierowaniem do przyjęcia przez Komisję Europejską.
+- **1)** ministra właściwego do spraw rozwoju regionalnego – zmianę programu przyjmuje Rada Ministrów, w drodze uchwały, przed skierowaniem do przyjęcia przez Komisję Europejską;
+- **2)** zarząd województwa – zmianę programu przyjmuje zarząd województwa, w drodze uchwały, po uzyskaniu opinii ministra właściwego do spraw rozwoju regionalnego, przed skierowaniem do przyjęcia przez Komisję Europejską.
 
 2. Uchwała, o której mowa w ust. 1 pkt 1, jest podejmowana na wniosek ministra właściwego do spraw rozwoju regionalnego, kierowany bezpośrednio do sekretarza Rady Ministrów.
 
@@ -1746,6 +1764,8 @@ Art. 38–50. (pominięte)
 - **2)** art. 46–49 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 **Art. 50b.** Przepisy wykonawcze wydane na podstawie art. 3c ust. 2 stosuje się do dnia 31 grudnia 2026 r.
+
+**Art. 50c.** W 2026 r. w zakresie kwoty pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, niewypłaconej przez Komisję Europejską finansowanie:
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

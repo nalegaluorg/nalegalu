@@ -1,0 +1,51 @@
+---
+title: Rozporządzenie Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 8 marca 2021 r. zmieniające rozporządzenie w sprawie znaków i sygnałów drogowych
+address: WDU20210000433
+eli: DU/2021/433
+publisher: DU
+year: 2021
+pos: 433
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 marca 2021 Poz. 433 ROZPORZĄDZENIE MINISTRÓW INFRASTRUKTURY ORAZ SPRAW WEWNĘTRZNYCH I ADMINISTRACJI dnia 8 marca 2021 zmieniające rozporządzenie sprawie znaków i sygnałów drogowych Na podstawie art. 7 ust. 2 ustawy dnia 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. U. 2020 poz. 110, późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji dnia 31 lipca 2002 sprawie znaków i sygnałów drogowych (Dz. U. 2019 poz. 2310) wprowadza się następujące zmiany:
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 433 |
+| ISAP | WDU20210000433 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2021-03-08 |
+| Data wydania | 2021-03-10 |
+| Ostatnia zmiana | 2026-02-05 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000433) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/433/text.pdf) |
+
+1) § 20:
+a) ust. 5 i 6 otrzymują brzmienie: „5. Znak B-19 „zakaz wjazdu pojazdów o nacisku pojedynczej osi napędowej powyżej ..... t” oznacza zakaz ruchu pojazdów, których nacisk pojedynczej osi napędowej jest większy od dopuszczalnego nacisku odpowiadającego masie podanej na znaku; przypadku grupy osi nacisk żadnej osi składowych nie może odpowiadać masie większej niż 80% masy podanej na znaku.
+6. Jeżeli na znaku B-19 podano wartość 8 t lub 10 t, oznacza to dopuszczalny nacisk pojedynczej osi napędowej odpowiadający masie do 8 t lub 10 t, a grupy osi – odpowiednio większej masie, zgodnie przepisami określającymi warunki techniczne pojazdów poruszających się po drogach.”,
+b) dodaje się ust. 7 brzmieniu: „7. Znak B-19 nie dotyczy:
+1) autobusów;
+2) pojazdów biorących udział akcjach ratowniczych oraz przy bezpośredniej likwidacji skutków klęsk żywiołowych;
+3) pojazdów zarządców dróg publicznych oraz podmiotów wykonujących obowiązki zarządcy drogi na jego rzecz zakresu utrzymania dróg;
+4) pojazdów Policji, Inspekcji Transportu Drogowego, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową oraz jednostek ochrony przeciwpożarowej, wykonujących zadania tych służb lub podmiotów;
+5) pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej i państw sojuszniczych;
+Dziennik Ustaw – 2 – Poz. 433
+6) pojazdów Państwowego Gospodarstwa Wodnego Wody Polskie oraz podmiotów wykonujących na jego rzecz zadania wynikające ustawy dnia 20 lipca 2017 – Prawo wodne (Dz. U. 2020 poz. 310, 284, 695, 782, 875 i 1378);
+7) pojazdów dostarczających do szpitali wyposażenie i zaopatrzenie niezbędne do zwalczania zakażeń i chorób zakaźnych okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego na podstawie ustawy dnia 5 grudnia 2008 o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. 2020 poz. 1845, 2112 i 2401 oraz 2021 poz. 159, 180 i 255).”;
+2) § 65 otrzymuje brzmienie: „§ 65. 1. Znaki:
+1) E-15a „numer drogi krajowej”,
+2) E-15b „numer drogi wojewódzkiej”,
+3) E-15c „numer autostrady”,
+4) E-15d „numer drogi ekspresowej”,
+5) E-16 „numer szlaku międzynarodowego” wskazują numer i rodzaj (kategorię) drogi.
+2. Umieszczona pod znakiem E-15a, E-15c, E-15d tabliczka T-34 oznacza, że za przejazd odcinkiem drogi publicznej tak oznaczonym pobiera się opłatę elektroniczną.”;
+3) załączniku do rozporządzenia:
+a) części „ZNAKI DROGOWE PIONOWE”: – grupie „Znaki zakazu”: – – pkt 21 otrzymuje brzmienie: „21) B-19 „zakaz wjazdu pojazdów o nacisku pojedynczej osi napędowej powyżej ..... t”;”, – grupie „Znaki kierunku i miejscowości”: – – pkt 27 i 28 otrzymują brzmienie: „27) E-15a „numer drogi krajowej”;
+28) E-15b „numer drogi wojewódzkiej”;”, – – skreśla się pkt: 31, 31a, 31b, 31c,
+b) zestawieniu wzorów graficznych znaków części „ZNAKI DROGOWE PIONOWE”: – grupie „Znaki kierunku i miejscowości”: – – rysunek E-2a otrzymuje brzmienie: E-2a – – skreśla się rysunki: E-15e, E-15f, E-15g, E-15h.
+

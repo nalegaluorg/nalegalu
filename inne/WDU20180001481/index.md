@@ -8,9 +8,12 @@ pos: 1481
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 sierpnia 2018 r.
+# o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
+
+*USTAWA z dnia 5 lipca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2018-08-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001481) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1481/text.pdf) |
-
-USTAWA z dnia 5 lipca 2018 r.
-o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -48,9 +48,9 @@ o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
 
 **Art. 92e.** Kto, będąc przewoźnikiem drogowym wykonującym operacje transportu intermodalnego, nie okazuje uprawnionym organom kontroli deklaracji określającej masę kontenera albo nadwozia wymiennego przekazanej przez wysyłającego podlega karze pieniężnej w wysokości 1000 złotych.”;
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, 1039, 1387 i 1467) w art. 96 w § 1a pkt 2 otrzymuje brzmienie: „2) naruszeń przestrzegania obowiązków lub warunków przewozu drogowego wymienionych w załączniku nr 1 do ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm. ), w których oskarżycielem publicznym jest właściwy organ Inspekcji Transportu Drogowego, Policji lub Straży Granicznej,”.
+**Art. 3.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, 1039, 1387 i 1467) w art. 96 w § 1a pkt 2 otrzymuje brzmienie: „2) naruszeń przestrzegania obowiązków lub warunków przewozu drogowego wymienionych w załączniku nr 1 do ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm. ), w których oskarżycielem publicznym jest właściwy organ Inspekcji Transportu Drogowego, Policji lub Straży Granicznej,”.
 
 **Art. 4.** W ustawie z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2018 r. poz. 169 i 650) wprowadza się następujące zmiany:
 
@@ -60,7 +60,7 @@ o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
 
 - **1)** obowiązków lub warunków przewozu drogowego określonych w załączniku nr 3 do ustawy zmienianej w art. 1 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy,
 - **2)** o których mowa w art. 140aa ust. 1 ustawy zmienianej w art. 2,
-- **3)** określonych w załączniku do ustawy zmienianej w art. 4 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy sankcjonowanych administracyjnymi karami pieniężnymi, powstałych i ujawnionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **3)** określonych w załączniku do ustawy zmienianej w art. 4 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy – sankcjonowanych administracyjnymi karami pieniężnymi, powstałych i ujawnionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 2. W przypadku gdy postępowanie administracyjne prowadzone w sprawach dotyczących naruszeń, o których mowa w ust. 1, zostało wszczęte po dniu wejścia w życie niniejszej ustawy, a naruszenie lub naruszenia powstały przed dniem wejścia w życie niniejszej ustawy i zostały ujawnione po dniu wejścia w życie niniejszej ustawy, stosuje się przepisy nowe, chyba że przepisy dotychczasowe są względniejsze dla strony.
 

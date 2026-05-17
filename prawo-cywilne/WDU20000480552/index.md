@@ -8,9 +8,10 @@ pos: 552
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# 5. Do asesorów notarialnych powołanych poz.1255) wart. 91 zdanie drugie otrzymuje brzmienie: przed dniem wejścia wżycie niniejszej ustawy stosuje ŃJeżeli obwiniony podjął pracę urzędzie pań- przepisy dotychczasowe.
+# 12 maja 2000 o zmianie ustawy o Rzeczniku Praw Obywatelskich, ustawy - Kodeks postępowania cywilnego oraz o zmianie niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,39 +25,61 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000480552) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/552/text.pdf) |
 
-stwowym, adwokaturze, jako radca prawny lub notariusz, sąd przesyła wyrok odpowiednio temu 6. Ustawa wchodzi życie po upływie 14 dni urzędowi, Naczelnej Radzie Adwokackiej, Krajo- od dnia ogłoszenia, wyjątkiem pkt 3, który wej Radzie Radców Prawnych lub Krajowej Radzie wchodzi życie po upływie 3 miesięcy od dnia ogłoNotarialnej.” szenia.
-USTAWA zdnia 12 maja 2000 ozmianie ustawy oRzeczniku Praw Obywatelskich, ustawy Kodeks postępowania cywilnego ozmianie niektórych innych ustaw.
-1. W ustawie dnia 15 lipca 1987 o Rzeczni- ŃArt. 6. Po zaprzestaniu wykonywania obowiązku Praw Obywatelskich (Dz. U. 1991 109, ków Rzecznik ma prawo powrócić sta471, 1998 106, 668, 1999 49, nowisko zajmowane poprzednio albo poz.483 iz2000 6, 69) wprowadza nastę- otrzymać stanowisko równorzędne popujące zmiany: przednio zajmowanemu, jeżeli nie ma przeszkód prawnych.
-1) wart. 1:
-7. 1. Sejm odwołuje Rzecznika przed upłya) ust. 2 otrzymuje brzmienie: wem okresu, jaki został powołany, jeŃ2. Rzecznik Praw Obywatelskich, zwany dalej żeli: «Rzecznikiem», stoi straży wolności 1) zrzekł wykonywania obowiązków, praw człowieka obywatela określonych Konstytucji innych aktach norma- 2) stał trwale niezdolny do pełnienia tywnych.”, obowiązków skutek choroby, ułomności lub upadku sił stwierb) wust. 3 wyrazy Ńtych praw iwolności” zastępu- dzonych orzeczeniem lekarskim.
-je wyrazami Ńtych wolności ipraw”;
-2. Sejm odwołuje Rzecznika przed upły2) wart. wust. 3, wart. 4, 8, 14 wpkt wem okresu, jaki został powołany, 2 16 ust. ust. 2 pkt użyte również jeżeli Rzecznik sprzeniewierzył różnych przypadkach liczbie wyrazy Ńpraw złożonemu ślubowaniu.
-wolności obywatela” zastępuje wyrazami 3. Sejm podejmuje uchwałę wsprawie odŃwolności ipraw człowieka iobywatela”; wołania Rzecznika, wprzypadku określo3) wart. 4 końcu dodaje zdanie wbrzmieniu: nym wust. pkt 1, wniosek Marszałka Sejmu.
-Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski zy Ń ,nawet bez uprzedzenia,” wpkt 3 końcu skreśla przecinek idodaje wyrazy Ńoraz żądać do wglądu wBiurze Rzecznika Praw Obywatelskich akt sądowych iprokuratorskich akt innych organów ścigania po zakończeniu postępowania zapadnięciu rozstrzygnięcia,”
-b) wust. 2 wyrazy Ńoochronie tajemnicy państwowej służbowej” zastępuje wyrazami Ńoochronie informacji niejawnych”,
-c) dodaje ust. 3 wbrzmieniu: Ń3. Rzecznik odmawia ujawnienia nazwiska iinnych danych osobowych skarżącego, wtym także wobec organów władzy publicznej, jeżeli uzna to za niezbędne dla ochrony wolności, praw iinteresów jednostki.”;
-8) wart.14:
-a) wpkt 6 wyrazy Ńzaskarżać decyzje” zastępuje wyrazami Ńwnosić skargi”,
-b) pkt 8 otrzymuje brzmienie: Ń8) wnieść kasację lub rewizję nadzwyczajną od prawomocnego orzeczenia, zasadach trybie określonych odrębnych przepisach.”;
-9) wart. 16 wust. 2:
-a) pkt 2 i3 otrzymują brzmienie: Ń2) występować do Trybunału Konstytucyjnego wnioskami sprawach, o których mowa wart. 188 Konstytucji,
-3) zgłosić udział postępowaniu przed Trybunałem Konstytucyjnym sprawach skarg konstytucyjnych brać udział tym postępowaniu,”
-b) wpkt 4 po wyrazie Ńwątpliwości” dodaje wyrazy Ńwpraktyce”;
-10) wart. 17:
-a)dotychczasowa treść otrzymuje oznaczenie ust.1,
-b) dodaje ust. 2 wbrzmieniu: Ń2. Rzecznik może określić termin, jakim pojących pod władzą Rzeczypospolitej Polskiej zakresie przysługujących im wolności ipraw.”;
-13) wart. 19:
-a) ust. otrzymuje brzmienie: Ń1. Rzecznik corocznie informuje Sejm Senat oswojej działalności ostanie przestrzegania wolności praw człowieka obywatela.”,
-b) wust. 2 wyrazy ŃSprawozdanie Rzecznika podawane” zastępuje wyrazami ŃInformacja Rzecznika podawana”.
-2. Wustawie zdnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 43, 296, z1965 15, 113, z1974 27, 157iNr39, 231, z1975 45, 234, z1982 11, poz.82 iNr 30, 210, z1983 5, 33, z1984 45, 241 242, 1985 20, 86, 1987 21, 123, z1988 41, 324, z1989 4, poz.21, 33, 175, z1990 14, 88, 34, 198, 53, 306, 55, 318 79, 464, z1991r. 7, 24, 22, 92iNr 115, 496, 1993 12, 53, 1994 105, 509, z1995r. 83, 417, z1996 24, poz.110, 43, 189, 73, 350 149, 703, 1997 Nr43, 270, 54, 348, Nr75, 471, 102, 643, 117, 752, 121, 769 770, 133, 882, 139, 934, 140, 940 141, 944, 1998 106, 668 117, 757, 1999 52, 532 2000 22, 269 271) 393 dotychczasową treść oznacza jako§ idodaje się§ 2 wbrzmieniu: Ń§ 2. Rzecznik Praw Obywatelskich może wnieść kasację terminie 6 miesięcy od dnia doręczenia orzeczenia stronie. Wrazie wniesienia kasacji po upływie terminu określonego § 1, podstawę kasacji powinno ponadto stanowić naruszenie przepisów Konstytucji dotyczących wolności praw człowieka obywatela. Przepisu 393 §1 nie stosuje się.”
-3. Wustawie zdnia 31 lipca 1981 owynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. 20, 101, z1982 31, 214, dni od otrzymania informacji, zgłosić udział wpo162, 1126 2000 26, 306) stępowaniu.” 94 ust. końcu kropkę zastępuje przecinkiem dodaje wyrazy Ńalbo jeżeli uchwała jest 8. Wustawie zdnia 5 czerwca 1998 osamoaktem prawa miejscowego.” rządzie województwa (Dz. U. 91, 576, 155, 1014, 160, 1060 162, 1126
-5. Wustawie zdnia 28 lipca 1990 odziałalno- 2000 12, 136, 26, 306 48, ści ubezpieczeniowej (Dz. U. 1996 11, 62, poz.550) wart. 90 skreśla ust. 2.
-1997 43, 272, 88, 554, 107, 685, 121, 769 770 139, 934, 9. W ustawie dnia 5 czerwca 1998 o admi1998 155, 1015, 1999 49, 483, nistracji rządowej województwie (Dz. U. 91, Nr101, 1178 iNr 110, 1255 orazz 2000 Nr43, 577, 1999 70, 778 2000 12,
-483) wart. 9 wust. 2: 136,Nr 22, 268i 48, 550) wart. 44 skre1) wpkt 5 końcu kropkę zastępuje przecinkiem,
-2) dodaje pkt 6 wbrzmieniu: Ń6) Rzecznika Praw Obywatelskich sprawach, które podjął do prowadzenia wzwiązku ze skargą ubezpieczonego, osoby upoważnionej umowy ubezpieczenia lub osoby uprawnionej do odszkodowania związku ze zdarzeniem objętym ubezpieczeniem odpowiedzialności cywilnej.”
-6. W ustawie dnia 11 maja 1995 o Naczelnym Sądzie Administracyjnym (Dz. U. 74, 368 104, 515, 1997 75, 471, 106, 679, 114, 739 144, 971, 1998 162, 1126, 1999 75, 853 2000 2, 5) 35 dodaje ust. 2a wbrzmieniu: śla ust. 2.
-10. Wustawie zdnia 5 czerwca 1998 osamorządzie powiatowym (Dz. U. 91, 578 155, 1014 z2000 12, 136 iNr 26, 306) 82 ust. końcu kropkę zastępuje przecinkiem dodaje wyrazy Ńalbo jeżeli uchwała jest aktem prawa miejscowego.”
-11. Marszałek Sejmu ogłosi wDzienniku Rzeczypospolitej Polskiej jednolity tekst ustawy zdnia 15 lipca 1987 o Rzeczniku Praw Obywatelskich, uwzględnieniem zmian wynikających przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
-12. Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia, wyjątkiem 2, który wchodzi wżycie zdniem lipca 2000 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 553
-USTAWA zdnia 12 maja 2000 ozmianie ustawy oprokuraturze, ustawy odyscyplinie wojskowej ustawy oInstytucie Pamięci Narodowej Komisji Âcigania Zbrodni przeciwko Narodowi Polskiemu.
+1.
+W ustawie 15 lipca 1987 o Rzeczniku Praw Obywatelskich (Dz.U. 1991 Nr 109, poz. 471, 1998 Nr 106, poz. 668, 1999 Nr 49, poz. 483 2000 Nr 6, poz. 69) wprowadza się następujące zmiany:
+1) 1:
+a) 2 otrzymuje brzmienie: „2. Rzecznik Praw Obywatelskich, zwany dalej „Rzecznikiem”, stoi na straży wolności praw człowieka obywatela określonych Konstytucji oraz innych aktach normatywnych.”,
+b) 3 wyrazy „tych praw wolności” zastępuje się wyrazami „tych wolności praw”;
+2) 1 3, 4, 8, 14 pkt 1 2 16 1 oraz 2 pkt 1 użyte różnych przypadkach liczbie wyrazy „praw wolności obywatela” zastępuje się wyrazami „wolności praw człowieka obywatela”;
+3) 4 na końcu dodaje się zdanie brzmieniu: „Ślubowanie może być złożone dodaniem zdania „Tak mi dopomoż Bóg.”.”;
+4) 5 1 wyrazy „cztery lata” zastępuje się wyrazami „pięć lat”;
+5) 6 7 otrzymują brzmienie: „Art. 6. Po zaprzestaniu wykonywania obowiązków Rzecznik ma prawo powrócić na stanowisko zajmowane poprzednio albo otrzymać stanowisko równorzędne poprzednio zajmowanemu, jeżeli nie ma przeszkód prawnych.
+7. 1. Sejm odwołuje Rzecznika przed upływem okresu, na jaki został powołany, jeżeli:
+1) zrzekł się wykonywania obowiązków,
+2) stał się trwale niezdolny do pełnienia obowiązków na skutek choroby, ułomności lub upadku sił - stwierdzonych orzeczeniem lekarskim.
+szałka lub grupy co najmniej 35 posłów, większością co najmniej 3/5 głosów obecności co najmniej połowy ustawowej liczby posłów.”;
+6) 10 wyrazy „praw wolności” zastępuje się wyrazami „wolności praw”;
+7) 13:
+a) 1: - pkt 1 po wyrazie „zbadać” dodaje się wyrazy „ ,nawet bez uprzedzenia,”, - pkt 3 na końcu skreśla się przecinek dodaje się wyrazy „oraz żądać do wglądu Biurze Rzecznika Praw Obywatelskich akt sądowych prokuratorskich oraz akt innych organów ścigania po zakończeniu postępowania zapadnięciu rozstrzygnięcia,”,
+b) 2 wyrazy „o ochronie tajemnicy państwowej służbowej” zastępuje się wyrazami „o ochronie informacji niejawnych”,
+c) dodaje się 3 brzmieniu: „3. Rzecznik odmawia ujawnienia nazwiska innych danych osobowych skarżącego, tym także wobec organów władzy publicznej, jeżeli uzna to za niezbędne dla ochrony wolności, praw interesów jednostki.”;
+8) art.14:
+a) pkt 6 wyrazy „zaskarżać decyzje” zastępuje się wyrazami „wnosić skargi”,
+b) pkt 8 otrzymuje brzmienie: „8) wnieść kasację lub rewizję nadzwyczajną od prawomocnego orzeczenia, na zasadach trybie określonych odrębnych przepisach.”;
+9) 16 2:
+a) pkt 2 3 otrzymują brzmienie: „2) występować do Trybunału Konstytucyjnego wnioskami sprawach, o których mowa 188 Konstytucji,
+3) zgłosić udział postępowaniu przed Trybunałem Konstytucyjnym sprawach skarg konstytucyjnych brać udział tym postępowaniu,”,
+b) pkt 4 po wyrazie „wą tpliwości” dodaje się wyrazy „w praktyce”;
+10) 17:
+a) dotychczasowa treść otrzymuje oznaczenie
+b) dodaje się 2 brzmieniu: „2. Rzecznik może określić termin jakim powinny być dokonane czynności, o których mowa 1.”;
+watela odnoszą się również odpowiednio do osób nie będących obywatelami polskimi, znajdujących się pod władzą Rzeczypospolitej Polskiej zakresie przysługujących im wolności praw.”;
+13) 19:
+a) 1 otrzymuje brzmienie: „1. Rzecznik corocznie informuje Sejm Senat o swojej działalności oraz o stanie przestrzegania wolności praw człowieka obywatela.”,
+b) 2 wyrazy „Sprawozdanie Rzecznika podawane” zastępuje się wyrazami „Informacja Rzecznika podawana”.
+2.
+W ustawie 17 listopada 1964 - Kodeks postępowania cywilnego (Dz.U. Nr 43, poz. 296, 1965 Nr 15, poz. 113, 1974 Nr 27, poz. 157, Nr 39, poz. 231, 1975 Nr 45, poz. 234, 1982 Nr 11, poz. 82 Nr 30, poz. 210, 1983 Nr 5, poz. 33, 1984 Nr 45, poz. 241 242, 1985 Nr 20, poz. 86, 1987 Nr 21, poz. 123, 1988 Nr 41, poz. 324, 1989 Nr 4, poz. 21, Nr 33, poz. 175, 1990 Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 Nr 79, poz. 464, 1991r. Nr 7, poz. 24, Nr 22, poz. 92 Nr 115, poz. 496, 1993 Nr 12, poz. 53, 1994 Nr 105, poz. 509, 1995 Nr 83, poz. 417, 1996 Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350, Nr 149, poz. 703, 1997 Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz.
+643, Nr 117, poz. 752, Nr 121, poz. 769 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 Nr 141, poz. 944, 1998 Nr 106, poz. 668 Nr 117, poz. 757, 1999 Nr 52, poz. 532 oraz 2000 Nr 22, poz. 269 271) 393 dotychczasową treść oznacza się jako § 1 dodaje się § 2 brzmieniu: „§2. Rzecznik Praw Obywatelskich może wnieść kasację terminie 6 miesięcy od doręczenia orzeczenia stronie. W razie wniesienia kasacji po upływie terminu określonego § podstawę kasacji powinno ponadto stanowić naruszenie przepisów Konstytucji dotyczących wolności praw człowieka obywatela. Przepisu 393 § 1 nie stosuje się.”.
+3.
+W ustawie 31 lipca 1981 o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz.U. Nr 20, poz. 101, 1982 Nr 31, poz. 214, 1985 Nr 22, poz. 98 Nr 50, poz. 262, 1987 Nr 21, poz. 123, 1989 Nr 34, poz. 178, 1991 Nr 100, poz. 443, 1993 Nr poz. 1995 Nr 34, poz. 163 Nr 142, poz. 701, 1996 Nr 73, poz. 350, Nr 89, poz. 402, Nr 106, poz. 496 Nr 139, poz. 647, 1997 Nr 75, poz. 469 Nr 133, poz. 883, 1998 Nr 155, poz. 1016 Nr 160, poz. 1065, 1999 Nr 110, poz. 1255 oraz 2000 Nr 6, poz. 69) 2 pkt 4 po wyrazach „Sekretarza Komitetu Integracji Europejskiej” dodaje się wyrazy „ ,Zastępcy Rzecznika Praw Obywatelskich”.
+prawa miejscowego.”.
+5.
+W ustawie 28 lipca 1990 o działalności ubezpieczeniowej (Dz.U. 1996 Nr 11, poz. 62, 1997 Nr 43, poz. 272, Nr 88, poz. 554, Nr 107, poz. 685, Nr 121, poz.
+769 770 Nr 139, poz. 934, 1998 Nr 155, poz. 1015, 1999 Nr 49, poz. 483, Nr 101, poz. 1178 Nr 110, poz. 1255 oraz 2000 Nr 43, poz. 483) 9 2:
+1) pkt 5 na końcu kropkę zastępuje się przecinkiem,
+2) dodaje się pkt 6 brzmieniu: „6) Rzecznika Praw Obywatelskich sprawach, które podjął do prowadzenia związku ze skargą ubezpieczonego, osoby upoważnionej umowy ubezpieczenia lub osoby uprawnionej do odszkodowania związku ze zdarzeniem objętym ubezpieczeniem odpowiedzialności cywilnej.”.
+6.
+W ustawie 11 maja 1995 o Naczelnym Sądzie Administracyjnym (Dz.U. Nr 74, poz. 368 Nr 104 poz. 515, 1997 Nr 75, poz. 471, Nr 106, poz. 679, Nr 114, poz.
+739 Nr 144, poz. 971, 1998 Nr 162, poz. 1126, 1999 Nr 75, poz. 853 oraz 2000 Nr 2, poz. 5) 35 dodaje się 2a brzmieniu: „2a. Prokurator lub Rzecznik Praw Obywatelskich mogą wnieść skargę na akt lub uchwałę stanowiące przepisy prawa miejscowego także po upływie terminu, o którym mowa 2.”.
+7.
+W ustawie 1 sierpnia 1997 o Trybunale Konstytucyjnym (Dz.U. Nr 102, poz.
+643) 51 2 otrzymuje brzmienie: „2. Rzecznik Praw Obywatelskich może, terminie 60 dni od otrzymania informacji, zgłosić udział postępowaniu.”.
+8.
+W ustawie 5 czerwca 1998 o samorządzie województwa (Dz.U. Nr 91, poz.
+576, Nr 155, poz. 1014, Nr 160, poz. 1060 Nr 162, poz. 1126 oraz 2000 Nr 12, poz. 136, Nr 26, poz. 306 Nr 48, poz. 550) 90 skreśla się 2.
+W ustawie 5 czerwca 1998 o samorządzie powiatowym (Dz.U. Nr 91, poz. 578 Nr 155, poz. 1014 oraz 2000 Nr 12, poz. 136 Nr 26, poz. 306) 82 1 na końcu kropkę zastępuje się przecinkiem dodaje się wyrazy „albo jeżeli uchwała jest aktem prawa miejscowego.”.
+11.
+Marszałek ogłosi Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy 15 lipca 1987 o Rzeczniku Praw Obywatelskich, uwzględnieniem zmian wynikających przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
+12.
+Ustawa wchodzi życie po upływie 30 dni od ogłoszenia, wyjątkiem 2, który wchodzi życie dniem 1 lipca 2000
 

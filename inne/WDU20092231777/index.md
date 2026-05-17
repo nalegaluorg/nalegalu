@@ -8,9 +8,12 @@ pos: 1777
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Ustawa z dnia 2 grudnia 2009 r. o zmianie niektórych ustaw związanych z realizacją zadań przez Policję
+
+*USTAWA dnia 2 grudnia o zmianie niektórych ustaw związanych realizacją zadań przez Policję*
 
 | Pole | Wartość |
 |---|---|
@@ -24,23 +27,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092231777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1777/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 10 kwietnia 1974r. oewidencji ludności i dowodach osobistych (Dz. U. 2006 139, 993, póên. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie dnia 10 kwietnia 1974 o ewidencji ludności dowodach osobistych (Dz. U. 2006 139, 993, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 26 paêdziernika 1982 postępowaniu sprawach nieletnich (Dz. U. z2002r. Nr11, poz.109, zpóên. zm. ) wart.83 § 1 i2 otrzymują brzmienie: Ń§ 1. Minister właściwy spraw wewnętrznych sprawuje zwierzchni nadzór nad policyjnymi izbami dziecka.
+**Art. 2.** W ustawie dnia 26 października 1982 o postępowaniu w sprawach nieletnich (Dz. U. 2002 11, 109, późn. zm. ) w art. 83 § 1 2 otrzymują brzmienie: „§ 1. Minister właściwy do spraw wewnętrznych sprawuje zwierzchni nadzór nad policyjnymi izbami dziecka.
 
-**Art. 3.** W ustawie dnia 20 czerwca 1985 prokuraturze (Dz.U. z2008r. Nr7, poz.39, zpóên. zm. objęcia stanowiska prokuratorskiego zgłoszonych przez Krajową Radę Prokuratury, zastrzeżeniem ust. 4. Informacje kandydacie objęcia stanowiska prokuratorskiego uzyskuje i sporządza na zasadach określonych dla informacji kandydacie objęcia stanowiska sędziowskiego.”,
+**Art. 3.** W ustawie dnia 20 czerwca 1985 o prokuraturze (Dz. U. 2008 7, 39, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** Wustawie zdnia 6 kwietnia 1990r. oPolicji (Dz. U. 43, 277, póên. zm. ) wprowadza następujące zmiany:
+**Art. 4.** W ustawie dnia 6 kwietnia 1990 o Policji (Dz. U. 2007 43, 277, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** Wustawie zdnia 13 paêdziernika 1995r. Prawo łowieckie (Dz. U. 2005 127, 1066, zpóên. zm. ) wart.38 wust.1 uchyla pkt5.
+**Art. 5.** W ustawie dnia 13 października 1995 - Prawo łowieckie (Dz. U. 2005 127, 1066, późn. zm. ) w art. 38 w ust. 1 uchyla się pkt 5.
 
-**Art. 6.** W ustawie dnia 29 sierpnia 1997 komornikach sądowych i egzekucji (Dz. U. 2006 Nr167, poz.1191, zpóên. zm. ) wprowadza następujące zmiany:
+**Art. 6.** W ustawie dnia 29 sierpnia 1997 o komornikach sądowych egzekucji (Dz. U. 2006 167, 1191, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie dnia 18 grudnia 1998 pracownikach sądów i prokuratury (Dz. U. 162, poz.1125, zpóên. zm.
+**Art. 7.** W ustawie dnia 18 grudnia 1998 o pracownikach sądów prokuratury (Dz. U. 162, 1125, późn. zm. ) w art. 4:
 
-**Art. 8.** W ustawie dnia 27 lipca 2001 Prawo oustroju sądów powszechnych (Dz.U. Nr98, poz.1070, zpóên. zm. ) wprowadza następujące zmiany:
+**Art. 8.** W ustawie dnia 27 lipca 2001 Prawo o ustroju sądów powszechnych (Dz. U. 98, 1070, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 9.** Wustawie zdnia 15 czerwca 2007r. olicencji syndyka (Dz.U. Nr123, poz.850) art.11 otrzymuje brzmienie: ŃArt. 11. Minister Sprawiedliwości zasięga Krajowego Rejestru Karnego informacji oosobie ubiegającej olicencję syndyka.”.
+**Art. 9.** W ustawie dnia 15 czerwca 2007 o licencji syndyka (Dz. U. 123, 850) art. 11 otrzymuje brzmienie: „Art. 11. Minister Sprawiedliwości zasięga Krajowego Rejestru Karnego informacji o osobie ubiegającej się o licencję syndyka.”. niu listy kandydatów zakwalifikowanych na aplikację ogólną, zasięga informacji Krajowego Rejestru Karnego o każdej osobie umieszczonej na tej liście.”.
 
-**Art. 10.** Wustawie zdnia 23 stycznia 2009r. oKrajowej Szkole Sądownictwa iProkuratury (Dz.U. Nr26, 157, 56, 459 i 178, 1375) art. 20 otrzymuje brzmienie: Ń§ 3. Referendarza mianuje irozwiązuje znim sto- ŃArt. 20. Dyrektor Krajowej Szkoły, po przeprowasunek pracy Minister Sprawiedliwości na dzeniu konkursu i ustaleniu listy kandydawniosek prezesa sądu okręgowego. Prezes tów zakwalifikowanych na aplikację ogólną, sądu okręgowego, przed wystąpieniem zasięga informacji Krajowego Rejestru wnioskiem mianowanie referendarza są- Karnego każdej osobie umieszczonej na dowego, zasięga informacji zKrajowego Re- tej liście.”. jestru Karnego zwraca właściwego komendanta wojewódzkiego (Stołeczne- Art. 11. Ustawa wchodzi życie dniem 1 styczgo) Policji nadesłanie informacji kandy- nia 2010r., zwyjątkiem art.3 i7, które wchodzą wżydacie. Informacje kandydacie objęcia cie zdniem 1 kwietnia 2010r. stanowiska referendarza sądowego uzyskuje i sporządza na zasadach określonych dla informacji kandydacie objęcia stanowiska sędziowskiego.”; Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+**Art. 11.** Ustawa wchodzi w życie dniem 1 stycznia 2010 r., wyjątkiem art. 3 7, które wchodzą w życie dniem 1 kwietnia 2010
 

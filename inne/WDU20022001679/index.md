@@ -8,9 +8,12 @@ pos: 1679
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, dnia 30 listopada 2002
+# o minimalnym wynagrodzeniu za pracę
+
+*USTAWA z dnia 10 października 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,111 +27,139 @@ domain: null
 | Ostatnia zmiana | 2025-09-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1679/text.pdf) |
 
-**Art. 1.** Użyte wustawie określenia oznaczają: 100, 1080 154, 1793 1800 USTAWA zdnia 10 paêdziernika 2002 ominimalnym wynagrodzeniu za pracę. ny przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”;
+**Art. 1.** Użyte ustawie określenia oznaczają:
 
 **Art. 2.**
 
-1. Wysokość minimalnego wynagrodzenia za pracę, zwanego dalej Ńminimalnym wynagrodzeniem”, jest corocznie przedmiotem negocjacji ramach Trójstronnej Komisji.
+1. Wysokość minimalnego wynagrodzenia za pracę, zwanego dalej „minimalnym wynagrodzeniem”, jest corocznie przedmiotem negocjacji ramach Rady Dialogu Społecznego.
 
-2. Rada Ministrów, terminie do dnia 15 czerwca każdego roku, przedstawia Trójstronnej Komisji:
+2. Rada Ministrów, terminie do dnia 15 czerwca każdego roku, przedstawia Radzie Dialogu Społecznego:
 
-- **1)** propozycję wysokości minimalnego wynagrodzenia wroku następnym wraz zterminem zmiany wysokości tego wynagrodzenia, zgodnie zart. 3;
-- **2)** informację owskaêniku cen wroku poprzednim;
-- **3)** informację o prognozowanych na rok następny: wskaêniku cen wskaêniku przeciętnego wynagrodzenia;
-- **4)** informację o wydatkach gospodarstw domowych jów działalności;
-- **7)** informację opoziomie życia różnych grup społecznych;
-- **8)** informację o warunkach gospodarczych państwa, uwzględnieniem sytuacji budżetu państwa, wymogów rozwoju gospodarczego, poziomu wydajności pracy konieczności utrzymania wysokiego poziomu zatrudnienia.
+- **1)** propozycję wysokości minimalnego wynagrodzenia roku następnym oraz propozycję wysokości minimalnej stawki godzinowej roku następnym określoną zgodnie z ust. 3a i 3b, wraz z terminem zmiany tych wysokości, zgodnie z art. 3;
+- **2)** informację o wskaźniku cen roku poprzednim;
+- **3)** informację o prognozowanych na rok następny: wskaźniku cen oraz wskaźniku przeciętnego wynagrodzenia;
+- **4)** wysokość przeciętnego wynagrodzenia pierwszym kwartale roku, którym odbywają się negocjacje;
+- **5)** informację o wydatkach gospodarstw domowych roku poprzednim; poprzednim według rodzajów działalności;
+- **8)** informację o poziomie życia różnych grup społecznych;
+- **9)** informację o warunkach gospodarczych państwa, z uwzględnieniem sytuacji budżetu państwa, wymogów rozwoju gospodarczego, poziomu wydajności pracy i konieczności utrzymania wysokiego poziomu zatrudnienia;
+- **10)** wskaźnik prognozowanego realnego przyrostu produktu krajowego brutto.
 
-3. Trójstronna Komisja, po otrzymaniu propozycji iinformacji, októrych mowa wust. 2, uzgadnia wysokość minimalnego wynagrodzenia roku następnym wterminie do dnia 15 lipca każdego roku.
+3. Rada Dialogu Społecznego, po otrzymaniu propozycji i informacji, o których mowa ust. 2, uzgadnia wysokość minimalnego wynagrodzenia oraz ustala wysokość minimalnej stawki godzinowej, zgodnie z ust. 3a i 3b, terminie 30 dni od dnia otrzymania propozycji i informacji.
 
-4. Wysokość minimalnego wynagrodzenia, o którym mowa ust. 3, podlega ogłoszeniu Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, wdrodze obwieszczenia Prezesa Rady Ministrów, wterminie do dnia 15 września każdego roku.
+3a. Wysokość minimalnej stawki godzinowej jest corocznie waloryzowana o wskaźnik wynikający z podzielenia wysokości minimalnego wynagrodzenia ustalonej na rok następny przez wysokość minimalnego wynagrodzenia obowiązującą roku, którym odbywają się negocjacje, o których mowa ust.
 
-5. Jeżeli Trójstronna Komisja nie uzgodni terminie, októrym mowa wust. 3, wysokości minimalnego wynagrodzenia roku następnym, Rada Ministrów ustala wysokość minimalnego wynagrodzenia roku następnym wraz terminem zmiany tej wysokości, wdrodze rozporządzenia, wterminie do dnia 15 września każdego roku. Wysokość minimalnego wynagrodzenia ustalona przez Radę Ministrów nie może być niższa od wysokości minimalnego wynagrodzenia, októrej mowa wust. 2 pkt 1.
+1.
 
-**Art. 3.** Jeżeli prognozowany na następny rok wskaênik cen, októrym mowa wart. 2 ust. 2 pkt 3, wynosi:
+3b. Przy ustalaniu wysokości minimalnej stawki godzinowej, zgodnie z ust. 3a, przepis art. 5a stosuje się odpowiednio.
+
+4. Wysokość minimalnego wynagrodzenia, a także wysokość minimalnej stawki godzinowej, o których mowa ust. 3, podlegają ogłoszeniu Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, drodze obwieszczenia Prezesa Rady Ministrów, terminie do dnia 15 września każdego roku.
+
+5. Jeżeli Rada Dialogu Społecznego nie uzgodni terminie, o którym mowa ust. 3, wysokości minimalnego wynagrodzenia roku następnym oraz nie ustali wysokości minimalnej stawki godzinowej roku następnym, Rada Ministrów ustala, drodze rozporządzenia, terminie do dnia 15 września każdego roku, wysokość minimalnego wynagrodzenia roku następnym, a także wysokość minimalnej stawki godzinowej roku następnym wraz z terminem zmiany tych wysokości. Wysokość minimalnego wynagrodzenia, a także wysokość minimalnej stawki godzinowej ustalone przez Radę Ministrów nie mogą być niższe od na wniosek przedstawiciela Rady Ministrów jej składzie, odpowiednio do zmiany terminu dokonanej na podstawie art. 19 ust. 2 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego.
+
+**Art. 3.** Jeżeli prognozowany na rok następny wskaźnik cen, o którym mowa art. 2 ust. 2 pkt 3, wynosi:
 
 **Art. 4.**
 
-1. Od dnia 1 stycznia 2003 ustala się minimalne wynagrodzenie wwysokości 800 zł.
+1. Od dnia 1 stycznia 2003 r. ustala się minimalne wynagrodzenie wysokości 800 zł.
 
-2. Wysokość minimalnego wynagrodzenia, októrej mowa ust. 1, stanowi podstawę do ustalenia wysokości minimalnego wynagrodzenia w2004
+2. Wysokość minimalnego wynagrodzenia, o której mowa ust. 1, stanowi podstawę do ustalenia wysokości minimalnego wynagrodzenia 2004 r.
 
 **Art. 5.**
 
-1. Wysokość minimalnego wynagrodzenia, októrej mowa wart. 2, jest ustalana wtaki sposób, aby przeciętna wysokość minimalnego wynagrodzenia wdanym roku wzrastała wstopniu nie niższym niż prognozowany na dany rok wskaênik cen.
+1. Wysokość minimalnego wynagrodzenia, o której mowa art. 2, jest ustalana taki sposób, aby przeciętna wysokość minimalnego wynagrodzenia danym roku wzrastała stopniu nie niższym niż prognozowany na dany rok wskaźnik cen, z zastrzeżeniem ust. 4.
 
-2. Jeżeli wroku poprzednim prognozowany wskaêgnozowany wskaênik cen wroku poprzednim.
+2. Jeżeli roku poprzednim prognozowany wskaźnik cen różni się od wskaźnika cen, przy ustalaniu wysokości minimalnego wynagrodzenia roku następnym uwzględnia się wysokość minimalnego wynagrodzenia roku poprzedzającym rok, na który jest ustalane minimalne wynagrodzenie, skorygowaną wskaźnikiem weryfikacyjnym, o którym mowa ust. 3.
+
+3. Wskaźnik weryfikacyjny otrzymuje się przez podzielenie wskaźnika cen roku poprzednim przez prognozowany wskaźnik cen roku poprzednim, oparciu o który została określona propozycja wysokości minimalnego wynagrodzenia, o której mowa art. 2 ust. 2 pkt 1. zwiększa się dodatkowo o 2/3 wskaźnika prognozowanego realnego przyrostu produktu krajowego brutto.
+
+**Art. 5a.** Końcowy wynik obliczeń, o których mowa art. 5, zaokrągla się do pełnych dziesiątek groszy ten sposób, że końcówki kwot wynoszące mniej niż 5 groszy pomija się, a końcówki kwot wynoszące 5 i więcej groszy podwyższa się do pełnych dziesiątek.
 
 **Art. 6.**
 
-1. Wysokość wynagrodzenia pracownika zatrudnionego pełnym miesięcznym wymiarze czasu pracy nie może być niższa od wysokości minimalnego wynagrodzenia ustalonego wtrybie art. 2 i4, zzastrzeżeniem ust. 2.
+1. Wysokość wynagrodzenia pracownika zatrudnionego pełnym miesięcznym wymiarze czasu pracy nie może być niższa od wysokości minimalnego wynagrodzenia ustalonego trybie art. 2 i art. 4.
 
-2. Do końca 2005 wynagrodzenie pracownika wokresie jego pierwszych dwóch lat pracy, zzastrzeżeniem ust. 3, nie może być niższe niż:
+2. (uchylony)
 
-- **1)** 80% wysokości minimalnego wynagrodzenia wpierwszym roku pracy;
-- **2)** 90% wysokości minimalnego wynagrodzenia wdrugim roku pracy.
+3. (uchylony)
 
-3. Do okresów, októrych mowa wust. 2, wlicza się wszystkie okresy, za które była opłacana składka na ubezpieczenie społeczne lub zaopatrzenie emerytalne, wyłączeniem okresów zatrudnienia na podstawie umowy opracę wcelu przygotowania zawodowego.
-
-4. Do obliczenia wysokości wynagrodzenia pracownika przyjmuje się przysługujące pracownikowi składniki wynagrodzenia inne świadczenia wynikające ze stosunku pracy, zaliczone według zasad statystyki zatrudnienia wynagrodzeń określonych przez Główny Urząd Statystyczny do wynagrodzeń osobowych, zzastrzeżeniem ust. 5.
+4. Do obliczenia wysokości wynagrodzenia pracownika przyjmuje się przysługujące pracownikowi składniki wynagrodzenia i inne świadczenia wynikające ze stosunku pracy, zaliczone według zasad statystyki zatrudnienia i wynagrodzeń określonych przez Główny Urząd Statystyczny do wynagrodzeń osobowych, z zastrzeżeniem ust. 5.
 
 5. Przy obliczaniu wysokości wynagrodzenia pracownika nie uwzględnia się:
 
 - **1)** nagrody jubileuszowej;
-- **2)** odprawy pieniężnej przysługującej pracownikowi wzwiązku zprzejściem na emeryturę lub rentę ztytułu niezdolności do pracy;
-- **3)** wynagrodzenia za pracę godzinach nadliczbowych.
+- **2)** odprawy pieniężnej przysługującej pracownikowi związku z przejściem na emeryturę lub rentę z tytułu niezdolności do pracy;
+- **3)** wynagrodzenia za pracę godzinach nadliczbowych;
+- **4)** dodatku do wynagrodzenia za pracę porze nocnej;
+- **5)** dodatku za staż pracy;
+- **6)** dodatku za szczególne warunki pracy.
 
 **Art. 7.**
 
-1. Jeżeli wdanym miesiącu, zuwagi na terminy wypłat niektórych składników wynagrodzenia lub rozkład czasu pracy, wynagrodzenie pracownika, obliczone zgodnie zart. 6 ust. 4, jest niższe od wysokości minimalnego wynagrodzenia, następuje uzupełnienie wynagrodzenia do tej wysokości wpostaci wyrównania.
+1. Jeżeli danym miesiącu, z uwagi na terminy wypłat niektórych składników wynagrodzenia lub rozkład czasu pracy, wynagrodzenie pracownika, obliczone zgodnie z art. 6 ust. 4, jest niższe od wysokości minimalnego wynagrodzenia, następuje uzupełnienie wynagrodzenia do tej wysokości postaci wyrównania. grodzenia wyrównanie wypłaca się za każdą godzinę pracy. Wyrównanie stanowi różnicę między wysokością wynagrodzenia godzinowego, wynikającą z podzielenia wysokości minimalnego wynagrodzenia przez liczbę godzin pracy przypadającą do przepracowania przez pracownika danym miesiącu ramach pełnego wymiaru czasu pracy, a wysokością wynagrodzenia pracownika danym miesiącu, obliczoną zgodnie z art. 6 ust. 4, przeliczoną na godzinę pracy.
 
-2. Wyrównanie wypłaca się za okres każdego miesiąca łącznie zwypłatą wynagrodzenia.
-
-3. Pracownikom wynagradzanym na podstawie godzinowych stawek wynagrodzenia wyrównanie wypłaca się za każdą godzinę pracy. Wyrównanie stanowi
-
-4. Pracownikom wynagradzanym na podstawie miesięcznych stawek wynagrodzeń, którym nie przysługuje wynagrodzenie za pełny miesięczny wymiar czasu pracy, wyrównanie wypłaca się za każdą godzinę pracy. Wyrównanie stanowi różnicę między wysokością wynagrodzenia godzinowego, wynikającą podzielenia wysokości minimalnego wynagrodzenia przez liczbę godzin pracy przypadającą do przepracowania przez pracownika wdanym miesiącu wramach pełnego wymiaru czasu pracy, awysokością wynagrodzenia pracownika wdanym miesiącu, obliczoną zgodnie zart. 6 ust. 4, przeliczoną na godzinę pracy.
+4. Pracownikom wynagradzanym na podstawie miesięcznych stawek wynagrodzeń, którym nie przysługuje wynagrodzenie za pełny miesięczny wymiar czasu pracy, wyrównanie wypłaca się za każdą godzinę pracy. Wyrównanie stanowi różnicę między wysokością wynagrodzenia godzinowego, wynikającą z podzielenia wysokości minimalnego wynagrodzenia przez liczbę godzin pracy przypadającą do przepracowania przez pracownika danym miesiącu ramach pełnego wymiaru czasu pracy, a wysokością wynagrodzenia pracownika danym miesiącu, obliczoną zgodnie z art. 6 ust. 4, przeliczoną na godzinę pracy.
 
 **Art. 8.**
 
-1. Jeżeli pracownik jest zatrudniony niepełnym miesięcznym wymiarze czasu pracy, wysokość minimalnego wynagrodzenia ustala się wkwocie proporcjonalnej do liczby godzin pracy przypadającej do przepracowania przez pracownika wdanym miesiącu, biorąc za podstawę wysokość minimalnego wynagrodzenia ustalonego na podstawie niniejszej ustawy.
+1. Jeżeli pracownik jest zatrudniony niepełnym miesięcznym wymiarze czasu pracy, wysokość minimalnego wynagrodzenia ustala się kwocie proporcjonalnej do liczby godzin pracy przypadającej do przepracowania przez pracownika danym miesiącu, biorąc za podstawę wysokość minimalnego wynagrodzenia ustalonego na podstawie niniejszej ustawy.
 
-2. Do obliczenia wyrównania pracownikom zatrudnionym niepełnym miesięcznym wymiarze czasu pracy stosuje się odpowiednio przepisy art. 7 ust. 3 i4.
+2. Do obliczenia wyrównania pracownikom zatrudnionym niepełnym miesięcznym wymiarze czasu pracy stosuje się odpowiednio przepisy art. 7 ust. 3 i 4.
 
-**Art. 9.** Wustawie zdnia 17 czerwca 1966 opostępowaniu egzekucyjnym wadministracji (Dz. U. z2002 110, 968, 113, 984, 127, 1090, 141, 1178,Nr 153, 1271, 169, 1387
+**Art. 8a.**
 
-**Art. 10.** Wustawie zdnia 21 listopada 1967 opowszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 2002 21, 205, 74, 676, 81, 732, 113, 984 985, 156, 1301, 166, 1363 1673) wprowadza się następujące zmiany:
+1. W przypadku umów, o których mowa art. 734 i art. 750 Kodeksu cywilnego, wykonywanych przez przyjmującego zlecenie lub świadczącego usługi, wysokość wynagrodzenia powinna być ustalona umowie taki sposób, aby wysokość wynagrodzenia za każdą godzinę wykonania zlecenia lub świadczenia usług nie była niższa niż wysokość minimalnej stawki godzinowej ustalonej zgodnie z art. 2 ust. 3a, 3b i 5.
 
-**Art. 11.** Wustawie zdnia 26 czerwca 1974 Kodeks pracy (Dz. U. z1998 21, 94, zpóên. zm. ) wprowadza się następujące zmiany:
+2. W przypadku gdy wysokość wynagrodzenia ustalonego umowie nie zapewnia przyjmującemu zlecenie lub świadczącemu usługi otrzymania za każdą uwzględnieniem minimalnej stawki godzinowej ustalonej zgodnie z art. 2 ust. 3a, 3b i 5.
 
-**Art. 12.** Wustawie zdnia 17 grudnia 1974 ouposażeniu żołnierzy (Dz. U. 2002 76, 693, 153, 1271 166, 1363) wprowadza się następujące zmiany:
+3. Jeżeli kilka osób przyjmuje zlecenie lub zobowiązuje się świadczyć usługi wspólnie, każdej z tych osób przysługuje wynagrodzenie ustalone zgodnie z ust. 1 i 2.
 
-**Art. 13.** Wustawie zdnia 28 grudnia 1989 oszczególnych zasadach rozwiązywania pracownikami stosunków pracy przyczyn dotyczących zakładu pracy (Dz. U. 2002 112, 980 135, 1146) wart. 8 ust. 2aotrzymuje brzmienie: Ń2a. Wysokość odprawy nie może przekraczać kwoty 15-krotnego minimalnego wynagrodzenia za pracę obowiązującego wgrudniu roku poprzedzającego rok, wktórym rozwiązano stosunek pracy, ustalanego na podstawie odrębnych przepisów.”.
+4. Przyjmujący zlecenie lub świadczący usługi nie może zrzec się prawa do wynagrodzenia wysokości wynikającej z wysokości minimalnej stawki godzinowej albo przenieść prawa do tego wynagrodzenia na inną osobę.
 
-**Art. 14.** Wustawie zdnia 26 lipca 1991 opodatku dochodowym od osób fizycznych (Dz. U. 2000 Nr14, 176, zpóên. zm. mi Ńkwoty 380 zł”,
+5. Wypłaty wynagrodzenia wysokości wynikającej z wysokości minimalnej stawki godzinowej dokonuje się formie pieniężnej.
 
-**Art. 15.** W ustawie dnia 14 grudnia 1994 o zatrudnieniu przeciwdziałaniu bezrobociu (Dz. U. z2001 6, 56, zpóên. zm. malne wynagrodzenie za pracę ustalane na podstawie odrębnych przepisów,”;
+6. W przypadku umów zawartych na czas dłuższy niż 1 miesiąc, wypłaty wynagrodzenia wysokości wynikającej z wysokości minimalnej stawki godzinowej dokonuje się co najmniej raz miesiącu.
 
-**Art. 16.** Wustawie zdnia 30 listopada 1995 opomocy państwa wspłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych refundacji bankom wypłaconych premii gwarancyjnych (Dz.U. z1996 5, 32, zpóên. zm. ) wprowadza się następujące zmiany: ) wprowadza się następujące zmiany:
+**Art. 8b.**
 
-**Art. 17.** W ustawie dnia 6 czerwca 1997 Kodeks karny wykonawczy (Dz. U. 90, 557, zpóên. zm. ) art. 123 § 1 ostatnie zdanie otrzymuje brzmienie: ŃWynagrodzenie przysługujące skazanemu nie może być niższe od minimalnego wynagrodzenia za pracę, ustalanego na podstawie odrębnych przepisów.”.
+1. W przypadku umów, o których mowa art. 734 i art. 750 Kodeksu cywilnego, strony określają umowie sposób potwierdzania liczby godzin wykonania zlecenia lub świadczenia usług.
 
-**Art. 18.** Wustawie zdnia 27 sierpnia 1997 orehabilitacji zawodowej ispołecznej zatrudnianiu osób niepełnosprawnych (Dz. U. 123, 776, póên. zm. ) wart. 2 pkt 1 otrzymuje brzmienie: Ń1) najniższym wynagrodzeniu oznacza to minimalne wynagrodzenie za pracę obowiązujące grudniu roku poprzedniego, ustalane na podstawie odrębnych przepisów,”.
+2. W przypadku gdy strony umowie nie określą sposobu potwierdzania liczby godzin wykonania zlecenia lub świadczenia usług, przyjmujący zlecenie lub świadczący usługi przedkłada formie pisemnej, elektronicznej lub dokumentowej informację o liczbie godzin wykonania zlecenia lub świadczenia usług, terminie poprzedzającym termin wypłaty wynagrodzenia.
 
-**Art. 19.** W ustawie dnia 13 paêdziernika 1998 o systemie ubezpieczeń społecznych (Dz. U. 137, 887, zpóên. zm. nej stanowi kwota minimalnego wynagrodzenia za pracę obowiązującego wgrudniu roku poprzedniego, ustalonego na podstawie odrębnych przepisów, zastrzeżeniem ust. 9 i10,”;
+3. Jeżeli umowa nie została zawarta z zachowaniem formy pisemnej, elektronicznej lub dokumentowej, przedsiębiorca albo inna jednostka organizacyjna, przed rozpoczęciem wykonania zlecenia lub świadczenia usług, potwierdza przyjmującemu zlecenie lub świadczącemu usługi formie pisemnej, elektronicznej lub dokumentowej ustalenia co do sposobu potwierdzania liczby godzin wykonania zlecenia lub świadczenia usług, a przypadku braku takiego potwierdzenia przepis ust. 2 stosuje się odpowiednio.
 
-**Art. 20.** Wustawie zdnia 20 listopada 1998 ozryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 144, 930, zpóên. zm. ) art. 18 ust. 4 wprowadza się następujące zmiany:
+4. Przepisów ust. 1–3 nie stosuje się do wykonującego zlecenie lub świadczącego usługi przypadku skierowania takich osób do wykonania zlecenia są świadczone usługi, prowadzi ewidencję liczby godzin wykonania zlecenia lub świadczenia usług.
 
-**Art. 21.** Wustawie zdnia 17 grudnia 1998 oemeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, póên. zm. nów lub innych dowodów uprawniających do uzyskania posiłków lub napojów bezalkoholowych (z wyjątkiem ekwiwalentu pieniężnego tego tytułu) do wysokości nieprzekraczającej miesięcznie kwoty 190 zł; zwolnienie ma zastosowanie przypadku, gdy pracodawca zawarł jednostką specjalizującą się przygotowywaniu wydawaniu posiłków umowę, której przedmiotem jest wydawanie pracownikom napojów bezalkoholowych wyłącznie gotowych posiłków,” ”, tiret szesnaste otrzymuje brzmienie: Ń— wpkt 49 lit. b) otrzymuje brzmienie: Ńb) świadczenia finansowego na pokrycie kosztów najmu lokalu mieszkalne) art. 87 wust. 4 zdanie drugie otrzymuje brzmienie: ŃZasady tej nie stosuje się również, jeżeli podstawę wymiaru składek na ubezpieczenia emerytalne irentowe stanowiła kwota zasiłku stałego zpomocy społecznej do: pracowników, o których mowa wart. 6 ust. 2 ustawy zdnia 10 paêdziernika 2002 o minimalnym wynagrodzeniu za pracę (Dz. U. 200, 1679), żołnierzy niezawodowych wsłużbie czynnej, ubezpieczonych odbywających zastępcze formy służby wojskowej, atakże pozostających służbie kandydackiej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu iPaństwowej Straży Pożarnej.”.
+5. Jeżeli kilka osób przyjmuje zlecenie lub zobowiązuje się świadczyć usługi wspólnie, potwierdzanie liczby godzin wykonania zlecenia lub świadczenia usług następuje odrębnie stosunku do każdej z tych osób.
 
-**Art. 22.** Wustawie zdnia 27 lipca 2002 ozmianie ustawy o podatku dochodowym od osób fizycznych ozmianie niektórych innych ustaw (Dz. U. 141,
+**Art. 8c.** Przedsiębiorca albo inna jednostka organizacyjna, na rzecz której jest wykonywane zlecenie lub są świadczone usługi, przechowuje dokumenty określające sposób potwierdzania liczby godzin wykonania zlecenia lub świadczenia usług oraz dokumenty potwierdzające liczbę godzin wykonania zlecenia lub świadczenia usług przez okres 3 lat od dnia, którym wynagrodzenie stało się wymagalne.
 
-**Art. 23.**
+**Art. 8d.**
 
-1. Wysokość ulgi uczniowskiej, októrej mowa art. 27c ust. 1 ustawy wymienionej art. 14 dla podatników, którzy zakończyli szkolenie uczniów przed dniem 1 stycznia 2003 iszkolenie to zostało zakończone pozytywnym wynikiem egzaminu ustala się wysokości określonej na podstawie art. 27c ust. 6 ustawy, o której mowa art. 14, brzmieniu obowiązującym przed dniem 1 stycznia 2003
+1. Przepisów art. 8a–8c nie stosuje się do:
 
-2. Wysokość ulgi uczniowskiej, o której mowa wart. 53 ust. 1 ustawy wymienionej wart. 20 dla podatników, którzy zakończyli szkolenie uczniów przed dniem 1 stycznia 2003 iszkolenie to zostało zakończone pozytywnym wynikiem egzaminu ustala się wysokości określonej na podstawie art. 53 ust. 6 ustawy, októrej mowa wart. 20, wbrzmieniu obowiązującym przed dniem 1 stycznia 2003
+- **1)** umów, o których mowa art. 734 i art. 750 Kodeksu cywilnego, jeżeli o miejscu i czasie wykonania zlecenia lub świadczenia usług decyduje przyjmujący zlecenie lub świadczący usługi i przysługuje mu wyłącznie wynagrodzenie prowizyjne;
+- **2)** umów dotyczących usług opiekuńczych i bytowych realizowanych poprzez prowadzenie rodzinnego domu pomocy na podstawie art. 52 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572);
+- **3)** umów:
+    - **a)** o pełnienie funkcji rodziny zastępczej zawodowej,
+    - **b)** o utworzeniu rodziny zastępczej zawodowej lub rodzinnego domu dziecka,
+    - **c)** przedmiocie prowadzenia rodzinnego domu dziecka,
+    - **d)** przedmiocie pełnienia funkcji rodziny pomocowej,
+    - **e)** przedmiocie pełnienia funkcji dyrektora placówki opiekuńczowychowawczej typu rodzinnego,
+    - **f)** przedmiocie pełnienia funkcji wychowawcy wyznaczonego do pomocy kierowaniu placówką opiekuńczo-wychowawczą typu nieprzerwanie przez okres dłuższy niż 1 doba;
 
-**Art. 24.** Prezes Rady Ministrów do dnia 30 września 2006 przedstawi Sejmowi Rzeczypospolitej Polskiej ocenę funkcjonowania ustawy, uwzględniającą:
+- **4)** umów dotyczących usług polegających na sprawowaniu opieki nad grupą osób lub osobami podczas wypoczynków lub wycieczek – jeżeli ze względu na charakter sprawowanej opieki usługi są świadczone nieprzerwanie przez okres dłuższy niż 1 doba;
+- **5)** umów dotyczących usług opieki domowej nad osobą niepełnosprawną, przewlekle chorą lub podeszłym wieku, gdy związku z ich wykonywaniem osoba świadcząca usługi zamieszkuje wspólnie z podopiecznym jego mieszkaniu lub domu, a ze względu na charakter sprawowanej opieki usługi są świadczone jednej osobie lub wspólnie zamieszkującej rodzinie nieprzerwanie przez okres dłuższy niż jedna doba, z wyjątkiem przypadku świadczenia usług we wszelkich placówkach świadczących całodobowe usługi dla osób niepełnosprawnych, przewlekle chorych lub podeszłym wieku.
 
-**Art. 25.** Ilekroć przepisach prawa jest mowa oŃnajniższym wynagrodzeniu za pracę pracowników” przez odwołanie się do odrębnych przepisów lub do Kodeksu pracy albo przez wskazanie Ministra Pracy iPolityki Socjalnej, Ministra Pracy iPolityki Społecznej lub ministra właściwego do spraw pracy jako zobowiązanego do ustalania takiego wynagrodzenia na podstawie odrębnych przepisów lub Kodeksu pracy, oznacza to kwotę 760 zł.
+2. Przez dobę, o której mowa ust. 1 pkt 3, 4 i 5, należy rozumieć 24 kolejne godziny poczynając od godziny, której następuje rozpoczęcie świadczenia usług.
+
+3. Przez wynagrodzenie prowizyjne, o którym mowa ust. 1 pkt 1, należy rozumieć wynagrodzenie uzależnione od wyników:
+
+- **1)** uzyskanych przez przyjmującego zlecenie lub świadczącego usługi ramach wykonania zlecenia lub świadczenia usług lub
+- **2)** działalności przedsiębiorcy albo innej jednostki organizacyjnej, na rzecz których jest wykonywane zlecenie lub są świadczone usługi – takich jak liczba zawartych umów, wartość zawartych umów, sprzedaż, obrót, pozyskane zlecenia, wykonane usługi lub uzyskane należności.
+
+**Art. 8e.** Kto, będąc przedsiębiorcą albo działając imieniu przedsiębiorcy albo innej jednostki organizacyjnej, wypłaca przyjmującemu zlecenie lub świadczącemu usługi wynagrodzenie za każdą godzinę wykonania zlecenia lub świadczenia usług wysokości niższej niż obowiązująca wysokość minimalnej stawki godzinowej, podlega karze grzywny od 1000 zł do 30 000 zł. Art. 9–24. (pominięte)
+
+**Art. 25.** Ilekroć przepisach prawa jest mowa o „najniższym wynagrodzeniu za pracę pracowników” przez odwołanie się do odrębnych przepisów lub do Kodeksu pracy albo przez wskazanie Ministra Pracy i Polityki Socjalnej, Ministra Pracy i Polityki Społecznej lub ministra właściwego do spraw pracy jako zobowiązanego do ustalania takiego wynagrodzenia na podstawie odrębnych przepisów lub Kodeksu pracy, oznacza to kwotę 760 zł.
+
+**Art. 26.** Ustawa wchodzi życie z dniem 1 stycznia 2003 r.
 

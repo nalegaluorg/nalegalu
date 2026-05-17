@@ -8,6 +8,7 @@ pos: 920
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Trybunał Konstytucyjny składzie: Zdzisław Czeszejko-Sochacki – przewodniczący Teresa Dębowska-Romanowska – sprawozdawca Andrzej Mączyński Ferdynand Rymarz Jadwiga Skórzewska-Łosiak Joanna Szymczak – protokolant po rozpoznaniu 25 września 2000 rozprawie udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego sprawy wniosku Ogólnopolskiego Związku Pracodawców Transportu Samochodowego zbadanie: zgodności dnia 26 listopada zmianie rehabilitacji zawodowej społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 156, poz. 1019), Konstytucji Rzeczpospolitej Polskiej, r e k a: Artykuł dnia 26 listopada zmianie rehabilitacji zawodowej społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 156, poz. 1019) jest zgodny zasadą państwa prawnego, wyrażoną Konstytucji Rzeczypospolitej Polskiej.
@@ -20,7 +21,6 @@ domain: null
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 2000-09-25 |
-| Wejście w życie | 2000-09-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000810920) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/920/text.pdf) |
 

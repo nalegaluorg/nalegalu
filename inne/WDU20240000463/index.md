@@ -8,9 +8,12 @@ pos: 463
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 marca 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o Akademii Kopernikańskiej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000463) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/463/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Akademii Kopernikańskiej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej (Dz. U. poz. 1459), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 54–58 ustawy z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej (Dz. U. poz. 1459), które stanowią: „Art. 54. W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2022 r. poz. 1215) w art. 2 pkt 4 otrzymuje brzmienie: „4) Prezesa Polskiej Akademii Nauk, Sekretarza Akademii Kopernikańskiej, sekretarza stanu, członka Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15, członka Krajowej Rady Radiofonii i Telewizji, pierwszego zastępcy Prezesa Narodowego Banku Polskiego, podsekretarza stanu (wiceministra), wiceprezesa Narodowego Banku Polskiego, Zastępcy Rzecznika Praw Obywatelskich, Zastępcy Rzecznika Praw Dziecka, Zastępcy Prezesa Urzędu Ochrony Danych Osobowych, Zastępcy Rzecznika Finansowego, zastępcy Rzecznika Małych i Średnich Przedsiębiorców, kierownika urzędu centralnego, wiceprezesa Polskiej Akademii Nauk, wojewody, zastępcy kierownika urzędu centralnego, wicewojewody.”.

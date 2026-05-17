@@ -8,9 +8,12 @@ pos: 256
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Dziennik Ustaw Nr 29 — 1602
+# o nadaniu Wyższej Szkole Morskiej w Szczecinie nazwy Akademia Morska w Szczecinie
+
+*USTAWA z dnia 9 stycznia 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040290256) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/256/text.pdf) |
 
-**Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Konwencji nr 148 Międzynarodowej Organizacji Pracy dotyczącej ochrony pracowników przed zagrożeniami zawodowymi w miejscu pracy, spowodowanymi zanieczysz255 USTAWA z dnia 8 stycznia o ratyfikacji Konwencji nr 148 Międzynarodowej Organizacji przed zagrożeniami zawodowymi w miejscu pracy, hałasem i wibracjami, przyjętej w 256 USTAWA z dnia 9 stycznia o nadaniu Wyższej Szkole Morskiej w Szczecinie
+**Art. 1.** Wyższej Szkole Morskiej w Szczecinie nadaje się nazwę Akademia Morska w Szczecinie.
 
-**Art. 1.** Wyższej Szkole Morskiej wSzczecinie nadaje się nazwę Akademia Morska w Szczecinie. 257 USTAWA z dnia 23 stycznia o podatku akcyzowym DZIAĘ I Przepisy ogólne
-
-#### Rozdział 1 Przepisy wstępne
-
-**Art. 1.** Ustawa reguluje opodatkowanie wyrobów podatkiem akcyzowym, zwanym dalej Ńakcyzą”, oraz określa zasady i tryb wprowadzania do obrotu wyrobów objętych akcyzą i oznaczania niektórych z tych wyrobów znakami akcyzy.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

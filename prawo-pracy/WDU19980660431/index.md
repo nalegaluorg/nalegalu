@@ -8,9 +8,10 @@ pos: 431
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# o zmianie ustawy Kodeks pracy oraz o zmianie niektórych ustaw, a o zmianie ustaw: o zaopatrzeniu emerytalnym pracowników kolejowych ich rodzin oraz o zatrudnieniu niu bezrobociu.
+# dnia 8 maja 1998 zmieniająca ustawę o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw, a także o zmianie ustaw: o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin oraz o zatrudnieniu i przeciwdziałaniu bezrobociu
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980660431) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/431/text.pdf) |
 
-**Art. 1.** W ustawie dnia 2 lutego 1996 o zmianie ustawy Kodeks pracy oraz o zmianie niektórych ustaw (Dz. U. 24, poz. 110 1997 104, poz. 661) wprowadza zmiany:
+**Art. 1.** W ustawie dnia 2 lutego 1996 o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw (Dz.U. Nr 24, poz. 110 i 1997 Nr 104, poz. 661) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 28 kwietnia 1983 o zaopa trzeniu emerytalnym pracowników kolejowych ich ro dzin (Dz. U. 23, poz. 99, 1985 20, poz. 85, 1990 36, poz. 206, 1991 104, poz. 450 1997 43, poz. 272) wart. 5 ust. 1 pkt 1 otrzy muje brzmienie: " 1) jednostkach organizacyjnych stwa «Polskie Koleje we», biur projektów kolejo wych,".
+**Art. 2.** W ustawie dnia 28 kwietnia 1983 o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin (Dz.U. Nr 23, poz. 99, 1985 Nr 20, poz. 85, 1990 Nr 36, poz. 206, 1991 Nr 104, poz. 450 i 1997 Nr 43, poz. 272) art. 5 ust. 1 pkt 1 otrzymuje brzmienie: „1) jednostkach organizacyjnych przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, wyłączeniem biur projektów kolejowych,”.
 
-**Art. 3.** W ustawie dnia 14 grudnia 1994 o zatrud nieniu bezrobociu (Dz. U. 1997 25, poz. 128, 28, poz. 153, 41, poz. 255, 63, poz. 403, 93, poz. 569, 107, poz. 692, 121, poz. 770 123, poz. 776) po art. 73a dodaje art. 73b brzmieniu: "Art. 73b. 1. Okres urlopu udzielone go pracownikowi na okres skierowa 99, poz. 452), a bez po tego urlopu okres do pracy powodu choroby lub odosobnienia wlicza do okresu pracy, od którego uprawnienia pracownicze, pra cownik zatrudnienie u macie rzystego pracodawcy terminie prze widzianym tym 2. Okres zatrudnienia pracow nika, który nie stosunku pracy przed skierowaniem do pracy okres skierowania do pracy grani a który nie pracy u macie rzysteg,o pracodawcy. po pracy granicą lub podjął pracę u macierzystego pracodawcy, lecz po upływie terminu przewidzianego o którym mowa ust. 1."
+**Art. 3.** W ustawie dnia 14 grudnia 1994 o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz.U. 1997 Nr 25, poz. 128, Nr 28, poz. 153, Nr 41, poz. 255, Nr 63, poz. 403, Nr 93, poz. 569, Nr 107, poz. 692, Nr 121, poz. 770 i Nr 123, poz. 776) po art. 73a dodaje się art. 73b brzmieniu: „Art. 73b. 1. Okres urlopu bezpłatnego udzielonego pracownikowi na okres skierowania pracy za granicą na podstawie rozporządzenia Rady Ministrów dnia 27 grudnia 1974 sprawie niektórych praw i obowiązków pracowników skierowanych pracy za granicą celu realizacji budownictwa eksportowego i usług związanych eksportem (Dz.U. 1990 Nr 44, poz. 259, 1991 Nr 78, poz. 346 i 1993 Nr 99, poz. 452), a także przypadający bezpośrednio po zakończeniu tego urlopu okres niezdolności pracy powodu choroby lub odosobnienia urlopu bezpłatnego na okres skierowania pracy za granicą, a który nie podjął pracy u macierzystego pracodawcy po zakończeniu pracy za granicą lub podjął pracę u macierzystego pracodawcy, lecz po upływie terminu przewidzianego rozporządzeniu, o którym mowa ust. 1.".
 
-**Art. 4.** Ustawa wchodzi dniem 2 czerwca 1998 Prezydent Rzeczypospolitej Polskiej: A. 432 ROZPORZĄDZENIE RADY MINISTRÓW dnia 12 maja 1998 sprawie do Spraw Decentralizacji Finansów Publicznych. Na podstawie art. 10 ust. 1 4 ustawy dnia 8 sierp nia 1996 o organizacji trybie pracy Rady Ministrów oraz o zakresie ministrów (Dz. U. 106, poz. 492 156, poz. 775 oraz 1997 141, poz. 943) co 1. Ustanawia do Spraw Decentralizacji Finansów Publicznych, zwanego dalej randze sekretarza stanu Mini sterstwie Finansów. 2.1. Do przygotowa nie koncepcji reform finansów publicznych koordyna cja ich realizacji, a inicjowanie koordyno wanie prac do przebudowy systemu fi nansowania terytorialnego oraz struktur organizacyjnych administracji publicznej zmiany sad jej finansowania. 2. Zadania ust. 1 realizu je przez:
+**Art. 4.** Ustawa wchodzi życie dniem 2 czerwca 1998
 

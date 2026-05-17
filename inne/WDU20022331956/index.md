@@ -8,9 +8,12 @@ pos: 1956
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 23 listopada 2002 r. o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych.
+# o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych
+
+*USTAWA z dnia 23 listopada 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,210 +29,169 @@ domain: null
 
 **Art. 1.**
 
-1. Ustawa określa zasady i tryb restrukturyzacji zobowiązań operatorów eksploatujących stacjonarne publiczne sieci telefoniczne z tytułu opłat za udzielenie koncesji na świadczenie strefowych usług telekomunikacyjnych związanych znimi opłat prolongacyjnych, przez ich: umarzanie, wzwiązku zponiesieniem nakładów inwestycyjnych na infrastrukturę telekomunikacyjną;
+1. Ustawa określa zasady i tryb restrukturyzacji zobowiązań operatorów eksploatujących stacjonarne publiczne sieci telefoniczne z tytułu opłat za udzielenie koncesji na świadczenie strefowych usług telekomunikacyjnych oraz związanych z nimi opłat prolongacyjnych, przez ich:
 
-- **2)** zamianę na udziały albo akcje obligacje.
+- **1)** umarzanie, związku z poniesieniem nakładów inwestycyjnych na infrastrukturę telekomunikacyjną;
+- **2)** zamianę na udziały albo akcje lub obligacje.
 
-2. Ustawę stosuje się do zobowiązań określonych wust. 1, których termin płatności został określony: wdecyzji oudzieleniu koncesji, przekształconej na podstawie art. 142 ust. 1 pkt 1 ustawy zdnia 21 lipca 2000 Prawo telekomunikacyjne (Dz. U. Nr73, 852, zpóên. zm. ) wzezwolenie telekomunikacyjne,
+2. Ustawę stosuje się do zobowiązań określonych ust. 1, których termin płatności został określony:
 
-- **2)** decyzji wydanej przez ministra właściwego do spraw łączności iprzypada po dniu wejścia wżycie ustawy.
+- **1)** decyzji o udzieleniu koncesji, przekształconej na podstawie art. 142 ust. 1 pkt 1 ustawy z dnia 21 lipca 2000 r. – Prawo telekomunikacyjne (Dz. U. poz. 852, z późn. zm. ) zezwolenie telekomunikacyjne, lub
+- **2)** decyzji wydanej przez ministra właściwego do spraw informatyzacji i przypada po dniu wejścia życie ustawy.
 
-3. Ustawy nie stosuje się do przedsiębiorców znajdujących się wlikwidacji upadłości.
+3. Ustawy nie stosuje się do przedsiębiorców znajdujących się likwidacji lub upadłości.
 
-**Art. 2.** Ilekroć wustawie jest mowa o: Ńgrupie kapitałowej”— rozumie się przez to grupę kapitałową, o której mowa art. 3 ust. 1 pkt 44 ustawy zdnia 29 września 1994 orachunkowości (Dz.U. z2002 76, 694);
-
-**Art. 3.**
-
-1. Minister właściwy do spraw łączności na wniosek operatora odracza, drodze decyzji, termin płatności zobowiązań z tytułu rat prolongacyjnej, udzielając jednocześnie promesy umorzenia tych zobowiązań na zasadach warunkach określonych wniniejszej ustawie.
-
-2. Wszczęcie postępowania następuje na wniosek operatora, złożony przed upływem terminu płatności, o którym mowa art. 1 ust. 2, nie póêniej jednak niż przed dniem 31 grudnia 2004
-
-3. Wniosek powinien zawierać wszczególności: określenie rodzaju, zakresu iwysokości deklarowanych nakładów inwestycyjnych, ze wskazaniem podmiotów, które będą uczestniczyć ich ponoszeniu, êródeł pochodzenia środków przeznaUSTAWA zdnia 23 listopada 2002 orestrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych. ——————— ———————
-
-- **2)** określenie wysokości nakładów inwestycyjnych, które mają być poniesione każdym roku, jeżeli całkowity okres ponoszenia tych nakładów jest dłuższy niż jeden rok;
-- **3)** określenie przedmiotu inwestycji i obszarów, na których mają być poniesione nakłady inwestycyjne;
-- **4)** harmonogram realizacji inwestycji iponoszenia nakładów inwestycyjnych;
-- **5)** oświadczenie ozamiarze skorzystania zinnej, przewidzianej wustawie formy restrukturyzacji.
-
-4. Do wniosku operator dołącza informację oswojej bieżącej sytuacji finansowej, wtym: dane identyfikujące dłużników iwierzycieli;
-
-- **2)** informację o wysokości tych wierzytelności i wymaganych długów;
-- **3)** harmonogram spłaty wymaganych zobowiązań;
-- **4)** kopię ewidencji środków trwałych wartości niematerialnych i prawnych wraz z informacją oustanowionych na nich obciążeniach.
-
-5. Do wniosku operator powinien dołączyć plan inwestycyjny oświadczenie zawierające zobowiązanie, że deklarowanym okresie, nie dłuższym jednak niż cztery lata od dnia złożenia wniosku, poniesie on nakłady inwestycyjne o wartości odpowiadającej co najmniej kwocie wymaganych wtym okresie rat opłaty prolongacyjnej że poniesie je podmiot powiązany.
-
-6. W przypadku gdy nakłady inwestycyjne ma ponieść podmiot powiązany, do wniosku operator jest obowiązany dołączyć również oświadczenie podmiotu powiązanego o wyrażeniu zgody na rozliczenie przez operatora nakładów inwestycyjnych poniesionych przez ten podmiot. Wyrażenie zgody nie pozbawia podmiotu powiązanego będącego operatorem prawa do wystąpienia zwnioskiem, októrym mowa wust. 2, zzastrzeżeniem art. 6 ust. 2.
-
-7. Operator, deklarując wysokość nakładów inwestycyjnych, uwzględnia zasady obliczania ich wartości określone wart. 7.
-
-8. Oświadczenie, októrym mowa wust. 5 i6, może obejmować również nakłady poniesione przed dniem złożenia oświadczenia, z wyłączeniem nakładów poniesionych przed dniem 1 stycznia 2001
+**Art. 2.** Ilekroć ustawie jest mowa o: 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792);
 
 **Art. 4.**
 
-1. Minister właściwy do spraw łączności, uwzględniając wcałości wczęści wniosek operatora, decyzji, o której mowa art. 3 ust. 1, określa wszczególności: kwotę raty prolongacyjnej, która podlega odroczeniu;
+1. Minister właściwy do spraw informatyzacji, uwzględniając całości lub części wniosek operatora, decyzji, o której mowa art. 3 ust. 1, określa szczególności:
 
-- **2)** całkowity okres ponoszenia zadeklarowynych nakładów inwestycyjnych:
-- **4)** wysokość nakładów inwestycyjnych, które mają być poniesione przez operatora wkażdym roku, jeżeli całkowity okres ponoszenia tych nakładów jest dłuższy niż rok;
-- **5)** przedmiot inwestycji iobszary, na których mają być poniesione nakłady inwestycyjne.
+- **1)** kwotę raty opłaty koncesyjnej lub opłaty prolongacyjnej, która podlega odroczeniu;
+- **2)** całkowity okres ponoszenia zadeklarowanych nakładów inwestycyjnych;
+- **3)** rodzaj, zakres i wysokość nakładów inwestycyjnych, które mają zostać poniesione, ze wskazaniem podmiotów, które będą uczestniczyć ich ponoszeniu;
+- **4)** wysokość nakładów inwestycyjnych, które mają być poniesione przez operatora każdym roku, jeżeli całkowity okres ponoszenia tych nakładów jest dłuższy niż rok;
+- **5)** przedmiot inwestycji i obszary, na których mają być poniesione nakłady inwestycyjne.
 
-2. Wdecyzji, októrej mowa wart. 3 ust. 1, minister właściwy do spraw łączności udziela również promesy umorzenia raty prolongacyjnej wwysokości określonej wust. 1 pkt 1, pod warunkiem poniesienia nakładów inwestycyjnych, o których mowa wust. 1 pkt 3.
+2. W decyzji, o której mowa art. 3 ust. 1, minister właściwy do spraw informatyzacji udziela również promesy umorzenia raty opłaty koncesyjnej lub opłaty prolongacyjnej wysokości określonej ust. 1 pkt 1, pod warunkiem poniesienia nakładów inwestycyjnych, o których mowa ust. 1 pkt 3.
 
-3. Wdecyzji, októrej mowa wart. 3 ust. 1, nie udziela się opłat prolongacyjnych.
+3. W decyzji, o której mowa art. 3 ust. 1, nie udziela się opłat prolongacyjnych. telekomunikacyjnych.
 
-4. Minister właściwy do spraw łączności odmawia wydania decyzji, októrej mowa wart. 3 ust. 1, jeżeli zachodzi uzasadnione przypuszczenie, że operator nie poniesie zadeklarowanych nakładów inwestycyjnych bądê też poniesienie zadeklarowanych nakładów nie przyczyni się do rozwoju infrastruktury telekomunikacyjnej do zwiększenia konkurencji na rynku usług telekomunikacyjnych.
-
-**Art. 5.** Wprzypadku ogłoszenia upadłości operatora wszczęcia postępowania likwidacyjnego, decyzja, o której mowa art. 3 ust. 1, wygasa i należności z tytułu raty i opłat prolongacyjnych stają się natychmiast wymagalne.
+**Art. 5.** W przypadku ogłoszenia upadłości operatora lub wszczęcia postępowania likwidacyjnego, decyzja, o której mowa art. 3 ust. 1, wygasa i należności z tytułu raty opłaty koncesyjnej i opłat prolongacyjnych stają się natychmiast wymagalne.
 
 **Art. 6.**
 
-1. Nakładami inwestycyjnymi, októrych mowa wart. 3 ust. 3, mogą być nakłady poniesione na: wytworzenie ulepszenie środków trwałych środków trwałych budowie, rozumieniu przepisów orachunkowości, zaliczanych według Klasyfikacji Ârodków Trwałych do:
+1. Nakładami inwestycyjnymi, o których mowa art. 3 ust. 3, mogą być nakłady poniesione na:
 
-- **a)** budynków transportu iłączności,
-- **b)** rurociągów ilinii telekomunikacyjnych linii elektroenergetycznych dalekiego zasięgu,
-- **c)** rurociągów sieci rozdzielczej linii kablowych rozdzielczych,
-- **d)** zespołów komputerowych,
-- **e)** urządzeń iaparatury radionadawczej,
-- **f)** urządzeń teletransmisji przewodowej,
-- **g)** urządzeń telefonicznych,
-- **h)** innych urządzeń teletechnicznych i radiotechnicznych,
-- **i)** elementów wyposażenia iosprzętu niezbędnych do prawidłowego działania, jak urządzenia zasilające, klimatyzacyjne izabezpieczające służących świadczeniu usług telefonii stacjonarnej, transmisji danych, internetu;
-- **2)** nabycie wdrodze zakupu winny odpłatny sposób środków trwałych środków trwałych wbudowie, wymienionych wpkt 1. mowa wart. 10 ust. 2 pkt 1.
+- **1)** wytworzenie lub ulepszenie środków trwałych lub środków trwałych budowie, rozumieniu przepisów o rachunkowości, zaliczanych według Klasyfikacji Środków Trwałych do:
+    - **a)** budynków transportu i łączności,
+    - **b)** rurociągów i linii telekomunikacyjnych oraz linii elektroenergetycznych dalekiego zasięgu,
+    - **c)** rurociągów sieci rozdzielczej oraz linii kablowych rozdzielczych,
+    - **d)** zespołów komputerowych,
+    - **e)** urządzeń i aparatury radionadawczej,
+    - **f)** urządzeń teletransmisji przewodowej,
+    - **g)** urządzeń telefonicznych,
+    - **h)** innych urządzeń teletechnicznych i radiotechnicznych,
+    - **i)** elementów wyposażenia i osprzętu niezbędnych do prawidłowego działania, jak urządzenia zasilające, klimatyzacyjne i zabezpieczające – służących świadczeniu usług telefonii stacjonarnej, transmisji danych, internetu;
 
-3. Nie stanowią nakładów inwestycyjnych wydatki, októrych mowa wust. 1 pkt 2, jeżeli sprzedaż środków trwałych środków trwałych wbudowie następuje między spółkami wchodzącymi skład jednej grupy kapitałowej.
+- **2)** nabycie drodze zakupu lub inny odpłatny sposób środków trwałych lub środków trwałych budowie, wymienionych pkt 1. między spółkami wchodzącymi skład jednej grupy kapitałowej.
 
 **Art. 7.**
 
-1. Wartość nakładów inwestycyjnych, októrych mowa wart. 3 ust. 3, poniesionych na środki trwałe środki trwałe budowie wymienione art. 6 ust. 1 pkt 1, stanowi, wyrażona weuro, przeliczona stosownie do postanowień ust. 2 i3, suma: kosztów ich wytworzenia;
+1. Wartość nakładów inwestycyjnych, o których mowa art. 3 ust. 3, poniesionych na środki trwałe oraz środki trwałe budowie wymienione art. 6 ust. 1 pkt 1, stanowi, wyrażona euro, przeliczona stosownie do postanowień ust. 2 i 3, suma:
 
+- **1)** kosztów ich wytworzenia;
 - **2)** ceny ich nabycia;
-- **3)** ceny sprzedaży netto tych środków wprzypadku przejęcia aportu wformie rzeczowej wprzypadku nabycia przedsiębiorstwa jego zorganizowanej części.
+- **3)** ceny sprzedaży netto tych środków – przypadku przejęcia aportu formie rzeczowej lub przypadku nabycia przedsiębiorstwa lub jego zorganizowanej części.
 
-2. Wartość nakładów inwestycyjnych operatora przelicza się, przyjmując jako 1 euro: każde 1 euro nakładów inwestycyjnych poniesionych na obszarze miast liczących dniu wejścia wżycie ustawy 100 000 mieszkańców iwięcej;
+2. Wartość nakładów inwestycyjnych operatora przelicza się, przyjmując jako 1 euro:
 
-- **2)** każde 0,5 euro nakładów inwestycyjnych poniesionych na obszarze miast liczących dniu wejścia wżycie ustawy mniej niż 100 000 mieszkańców;
-- **3)** każde 0,4 euro nakładów inwestycyjnych poniesionych na obszarach powiatów (gmin) zagrożonych szczególnie wysokim bezrobociem strukturalnym zagrożonych strukturalną recesją i degradacją społeczną rozumieniu ustawy z dnia 14 grudnia 1994 o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U. z 2001 6, 56, z póên. zm. zm. ) przypadku, kiedy êródłem finansowania są wyłącznie środki własne operatora kredyty komercyjne komercyjne papiery wartościowe;
+- **1)** każde 1 euro nakładów inwestycyjnych poniesionych na obszarze miast liczących dniu wejścia życie ustawy 100 000 mieszkańców i więcej;
+- **2)** każde 0,5 euro nakładów inwestycyjnych poniesionych na obszarze miast liczących dniu wejścia życie ustawy mniej niż 100 000 mieszkańców;
+- **3)** (uchylony)
 - **4)** każde 0,35 euro nakładów inwestycyjnych poniesionych na obszarach wiejskich;
 - **5)** każde 0,25 euro nakładów inwestycyjnych poniesionych:
-    - **a)** na obszarach powiatów (gmin) zagrożonych szczególnie wysokim bezrobociem strukturalnym zagrożonych strukturalną recesją i degradacją społeczną przypadku kiedy êródłem finansowania są przynajmniej w25% środki pochodzące zpomocy bezzwrotnej międzynarodowych instytucji finansowych, których Rzeczpospolita Polska jest członkiem z którymi podpisała umowę owspółpracy,
-    - **b)** bezpośrednio związku z uruchomieniem szerokopasmowego dostępu do internetu szkołach i placówkach oświatowych rozumieniu ).
+    - **a)** (uchylona)
+    - **b)** bezpośrednio związku z uruchomieniem szerokopasmowego dostępu do internetu szkołach i placówkach oświatowych rozumieniu ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837).
 
-3. Wartość nakładów inwestycyjnych przelicza się według średniego kursu euro, ustalanego przez Narodowy Bank Polski, obowiązującego ostatnim dniu miesiąca poprzedzającego miesiąc, którym nastąpi złożenie dokumentacji, októrej mowa wart. 8.
+3. Wartość nakładów inwestycyjnych przelicza się według średniego kursu euro, ustalanego przez Narodowy Bank Polski, obowiązującego ostatnim dniu miesiąca poprzedzającego miesiąc, którym nastąpi złożenie dokumentacji, o której mowa art. 8. poniesionych nakładów inwestycyjnych danym okresie.
 
-**Art. 8.**
-
-1. Operator, który uzyskał decyzję, o której mowa art. 3 ust. 1, jest zobowiązany, terminie trzech miesięcy po upływie każdego roku od dnia wydania tej decyzji albo wterminie trzech miesięcy od zakończenia okresu, którym był zobowiązany ponieść nakłady inwestycyjne, jeżeli okres ten jest krótszy od roku, złożyć sprawozdanie wraz z dokumentacją, potwierdzające rodzaj, zakres i wysokość poniesionych nakładów inwestycyjnych wdanym okresie.
-
-2. Minister właściwy do spraw łączności określi, drodze rozporządzenia, wzór sprawozdania wskazującego rodzaj, zakres i wysokość poniesionych przez operatora nakładów inwestycyjnych wykaz składanej znim dokumentacji, októrych mowa wust. 1, mając na względzie zapewnienie możliwości weryfikacji faktu poniesienia nakładów, ich rodzaju, zakresu i wysokości umiejsowienia, zuwzględnieniem art.7.
+2. Minister właściwy do spraw informatyzacji określi, drodze rozporządzenia, wzór sprawozdania wskazującego rodzaj, zakres i wysokość poniesionych przez operatora nakładów inwestycyjnych oraz wykaz składanej z nim dokumentacji, o których mowa ust. 1, mając na względzie zapewnienie możliwości weryfikacji faktu poniesienia nakładów, ich rodzaju, zakresu i wysokości oraz umiejscowienia, z uwzględnieniem art. 7.
 
 **Art. 9.**
 
-1. Wokresie od dnia wydania decyzji, októrej mowa wart. 3 ust. 1, do dnia umorzenia raty opłaty prolongacyjnej minister właściwy do spraw łączności może kontrolować rodzaj, zakres i wysokość nakładów inwestycyjnych ponoszonych przez operatora podmiot powiązany.
+1. W okresie od dnia wydania decyzji, o której mowa art. 3 ust. 1, do dnia umorzenia raty opłaty koncesyjnej lub opłaty prolongacyjnej minister właściwy do spraw informatyzacji może kontrolować rodzaj, zakres i wysokość nakładów inwestycyjnych ponoszonych przez operatora lub podmiot powiązany.
 
-2. W ramach kontroli minister właściwy do spraw łączności może powierzyć wykonanie czynności kontrolnych dotyczących rodzaju izakresu nakładów inwestycyjnych realizowanych przez operatora podmiot powiązany Prezesowi Urzędu Regulacji Telekomunikacji iPoczty.
+2. W ramach kontroli minister właściwy do spraw informatyzacji może powierzyć wykonanie czynności kontrolnych dotyczących rodzaju i zakresu nakładów inwestycyjnych realizowanych przez operatora lub podmiot powiązany Prezesowi Urzędu Komunikacji Elektronicznej.
 
-3. Do kontroli wykonywanych jej ramach czynności kontrolnych stosuje się odpowiednio przepisy działu VI Ordynacji podatkowej. Koszty biegłego biegłych, powoływanych wtoku kontroli wcelu zbadania wysokości nakładów inwestycyjnych realizowanych przez operatora podmiot powiązany, ponosi operator.
+3. Do kontroli oraz wykonywanych jej ramach czynności kontrolnych stosuje się odpowiednio przepisy działu VI Ordynacji podatkowej. Koszty biegłego lub biegłych, powoływanych toku kontroli celu zbadania wysokości nakładów inwestycyjnych realizowanych przez operatora lub podmiot powiązany, ponosi operator.
 
-4. Jeżeli kontrola stwierdzi, że rzeczywiste nakłady inwestycyjne danym okresie będą niższe od kwoty nakładów inwestycyjnych ustalonych wdecyzji, októrej mowa art. 3 ust. 1, minister właściwy do spraw łączności może wydać decyzję ozabezpieczeniu zapłaty raty prolongacyjnej. ——————— ——————— bliżoną kwotę zobowiązania operatora, wyliczoną zgodnie z art. 10 ust. 5. Art. 33 Ordynacji podatkowej stosuje się odpowiednio.
+4. Jeżeli kontrola stwierdzi, że rzeczywiste nakłady inwestycyjne danym okresie będą niższe od kwoty nakładów inwestycyjnych ustalonych decyzji, o której mowa art. 3 ust. 1, minister właściwy do spraw informatyzacji może wydać decyzję o zabezpieczeniu zapłaty raty opłaty koncesyjnej lub opłaty prolongacyjnej.
 
-**Art. 10.**
+5. W decyzji o zabezpieczeniu zapłaty raty opłaty koncesyjnej lub opłaty prolongacyjnej określa się przybliżoną kwotę zobowiązania operatora, wyliczoną zgodnie z art. 10 ust. 5. Art. 33 Ordynacji podatkowej stosuje się odpowiednio.
 
-1. Minister właściwy do spraw łączności dokonuje weryfikacji złożonych przez operatora sprawozdania i dokumentacji, o których mowa art. 8, terminie miesiąca od dnia ich złożenia. Art. 9 ust. 1 stosuje się odpowiednio.
+- **1)** umarza raty opłaty koncesyjnej lub opłaty prolongacyjnej do wysokości faktycznie poniesionych danym okresie lub danym roku przez operatora lub podmiot powiązany nakładów inwestycyjnych, obliczonych zgodnie z art. 7, lub
+- **2)** stwierdza wygaśnięcie decyzji, o której mowa art. 3 ust. 1, zakresie, jakim nakłady inwestycyjne zadeklarowane danym okresie lub danym roku nie znalazły pokrycia faktycznie poniesionych tym okresie przez operatora lub podmiot powiązany nakładach inwestycyjnych, obliczonych zgodnie z art. 7.
 
-2. W terminie, o którym mowa ust. 1, minister właściwy do spraw łączności zurzędu, wdrodze decyzji, wzależności od wyników weryfikacji: umarza raty prolongacyjnej do wysokości faktycznie poniesionych wdanym okresie wdanym roku przez operatora podmiot powiązany nakładów inwestycyjnych, obliczonych zgodnie zart. 7,
+3. Decyzja, o której mowa ust. 2 pkt 1, dotyczy pierwszej kolejności rat opłaty koncesyjnej lub opłaty prolongacyjnej, które były najwcześniej wymagalne.
 
-- **2)** stwierdza wygaśnięcie decyzji, o której mowa wart.3 ust. 1, wzakresie, wjakim nakłady inwestycyjne zadeklarowane danym okresie danym roku nie znalazły pokrycia wfaktycznie poniesionych wtym okresie przez operatora podmiot powiązany nakładach inwestycyjnych, obliczonych zgodnie zart. 7.
+4. Na wniosek operatora, szczególności przypadku poniesienia przez niego wyższych nakładów inwestycyjnych od deklarowanych, decyzja o umorzeniu może dotyczyć również rat opłaty koncesyjnej lub opłaty prolongacyjnej, których termin płatności jeszcze nie nastąpił.
 
-3. Decyzja, o której mowa ust. 2 pkt 1, dotyczy wpierwszej kolejności rat opłaty prolongacyjnej, które były najwcześniej wymagalne.
+5. Jeżeli wartość poniesionych przez operatora nakładów inwestycyjnych jest niższa od wartości przypadających na dany okres nakładów określonych decyzji, o której mowa art. 3 ust. 1, operator jest zobowiązany wpłacić tę różnicę wraz z odsetkami, naliczonymi według zasad określonych ust. 6.
 
-4. Na wniosek operatora, szczególności przypadku poniesienia przez niego wyższych nakładów inwestycyjnych od deklarowanych, decyzja oumorzeniu może dotyczyć również rat prolongacyjnej, których termin płatności jeszcze nie nastąpił.
+6. W przypadku określonym ust. 5, od terminu płatności, o którym mowa art. 1 ust. 2, nalicza się odsetki wysokości jak dla zaległości podatkowych. Art. 53 § 3 Ordynacji podatkowej stosuje się odpowiednio.
 
-5. Jeżeli wartość poniesionych przez operatora nakładów inwestycyjnych jest niższa od wartości przypadających na dany okres nakładów określonych wdecyzji, októrej mowa wart. 3 ust. 1, operator jest zobowiązany wpłacić tę różnicę wraz zodsetkami, naliczonymi według zasad określonych wust. 6.
+7. Operator jest uprawniony do złożenia sprawozdania i dokumentacji przed upływem terminu, o którym mowa art. 8, jeżeli przed tym terminem wartość poniesionych nakładów inwestycyjnych będzie co najmniej równa wartości nakładów inwestycyjnych przypadających na dany okres, określonych decyzji, o której mowa art. 3 ust. 1.
 
-6. Wprzypadku określonym wust. 5, od terminu płatności, októrym mowa wart. 1 ust. 2, nalicza się odsetki wwysokości jak dla zaległości podatkowych. Art.53 § 3 Ordynacji podatkowej stosuje się odpowiednio.
+8. Jeżeli operator nie złoży terminie sprawozdania wraz z dokumentacją, o której mowa art. 8, minister właściwy do spraw informatyzacji, terminie podatkowych za okres od upływu terminu płatności, o którym mowa art. 1 ust. 2.
 
-7. Operator jest uprawniony do złożenia sprawozdania i dokumentacji przed upływem terminu, o którym mowa wart. 8, jeżeli przed tym terminem wartość poniesionych nakładów inwestycyjnych będzie co najmniej równa wartości nakładów inwestycyjnych przypadających na dany okres, określonych decyzji, októrej mowa wart. 3 ust. 1.
-
-8. Jeżeli operator nie złoży terminie sprawozdania wraz zdokumentacją, októrej mowa wart. 8, minister właściwy do spraw łączności, wterminie miesiąca od upływu terminu do ich złożenia, wydaje decyzję na dany okres nakładom określonym decyzji, o której mowa art. 3 ust. 1, wraz z odsetkami wysokości przewidzianej dla zaległości podatkowych za okres od upływu terminu płatności, októrym mowa art. 1 ust. 2.
-
-10. Na wniosek operatora, uzasadniony ważnymi przyczynami, minister właściwy do spraw łączności może wydłużyć termin do złożenia dokumentacji przez operatora onie więcej niż 30 dni od dnia upływu terminu, októrym mowa wart. 8. Do czasu upływu terminu przedłużonego powyższym trybie, zawieszeniu ulega bieg terminu do wykonania decyzji przez ministra właściwego do spraw łączności.
+10. Na wniosek operatora, uzasadniony ważnymi przyczynami, minister właściwy do spraw informatyzacji może wydłużyć termin do złożenia dokumentacji przez operatora o niewięcej niż 30 dni od dnia upływu terminu, o którym mowa art. 8. Do czasu upływu terminu przedłużonego powyższym trybie, zawieszeniu ulega bieg terminu do wykonania decyzji przez ministra właściwego do spraw informatyzacji.
 
 **Art. 11.**
 
-1. Zobowiązanie operatora, będącego spółką kapitałową, ztytułu rat opłaty prolongacyjnej wygasa przypadku objęcia przez Skarb Państwa udziałów albo akcji podwyższonym kapitale zakładowym operatora albo jego podmiotu dominującego, na zasadach określonych wustawie.
+1. Zobowiązanie operatora, będącego spółką kapitałową, z tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej wygasa przypadku objęcia przez Skarb Państwa udziałów albo akcji podwyższonym kapitale zakładowym operatora albo jego podmiotu dominującego, na zasadach określonych ustawie.
 
-2. Objęcie udziałów albo akcji, o którym mowa ust. 1, następuje na wniosek operatora albo jego podmiotu dominującego, składany na ręce ministra właściwego do spraw łączności, do którego powinny być załączone następujące dokumenty: uchwała zgromadzenia wspólników albo walnego zgromadzenia operatora albo jego podmiotu dominującego, podjęta trybie przewidzianym ustawie z dnia 15 września 2000 Kodeks spółek handlowych (Dz. U. 94, 1037 z 2001 102, 1117), o bezwarunkowym podwyższeniu kapitału zakładowego wnioskodawcy o kwotę odpowiadającą kwocie podwyższenia, drodze utworzenia nowych udziałów albo akcji zaoferowanych Skarbowi Państwa trybie określonym wniniejszej ustawie wzamian za wierzytelność ztytułu rat prolongacyjnej;
+2. Objęcie udziałów albo akcji, o którym mowa ust. 1, następuje na wniosek operatora albo jego podmiotu dominującego, składany na ręce ministra właściwego do spraw informatyzacji, do którego powinny być załączone następujące dokumenty:
 
-- **2)** oświadczenie operatora albo jego podmiotu dominującego, że wdniu składania wniosku nie istnieją podstawy do ogłoszenia jego upadłości, jak również nie są mu znane okoliczności, które mogą doprowadzić do wystąpienia podstaw do ogłoszenia upadłości wnajbliższej przyszłości;
-- **3)** raport biegłego rewidenta zbadania, októrym mowa wart. 12 ust. 6.
+- **1)** uchwała zgromadzenia wspólników albo walnego zgromadzenia operatora albo jego podmiotu dominującego, podjęta trybie przewidzianym ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), o bezwarunkowym podwyższeniu kapitału zakładowego wnioskodawcy o kwotę odpowiadającą kwocie podwyższenia, drodze utworzenia nowych udziałów albo akcji zaoferowanych Skarbowi Państwa trybie określonym niniejszej ustawie zamian za wierzytelność z tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej;
+- **2)** oświadczenie operatora albo jego podmiotu dominującego, że dniu składania wniosku nie istnieją podstawy do ogłoszenia jego upadłości, jak również nie są mu znane okoliczności, które mogą doprowadzić do wystąpienia podstaw do ogłoszenia upadłości najbliższej przyszłości;
+- **3)** raport biegłego rewidenta z badania, o którym mowa art. 12 ust. 6.
 
-3. Minister właściwy do spraw łączności może zażądać przedstawienia przez wnioskodawcę dodatkowych dokumentów informacji dotyczących sytuacji finansowej wnioskodawcy, jeżeli na podstawie dokumentacji załączonej do wniosku nie będzie możliwe stwierdzenie prawdziwości irzetelności oświadczenia, októrym mowa wust. 2 pkt 2.
+4. Minister właściwy do spraw informatyzacji, terminie jednego miesiąca od dnia otrzymania wniosku albo złożenia dodatkowych dokumentów lub informacji przypadku, o którym mowa ust. 3, przekazuje zaakceptowany przez siebie wniosek ministrowi właściwemu do spraw aktywów państwowych albo informuje wnioskodawcę o nieuwzględnieniu wniosku.
 
-4. Minister właściwy do spraw łączności, terminie jednego miesiąca od dnia otrzymania wniosku albo złożenia dodatkowych dokumentów informacji
+5. Minister właściwy do spraw aktywów państwowych, terminie 14 dni od dnia otrzymania zaakceptowanego przez ministra właściwego do spraw informatyzacji wniosku, o którym mowa ust. 2, składa oświadczenie woli o objęciu zaoferowanych Skarbowi Państwa udziałów albo akcji.
 
-5. Minister właściwy do spraw Skarbu Państwa, wterminie 14 dni od dnia otrzymania zaakceptowanego przez ministra właściwego do spraw łączności wniosku, o którym mowa ust. 2, składa oświadczenie woli o objęciu zaoferowanych Skarbowi Państwa udziałów albo akcji.
+6. W przypadku objęcia przez Skarb Państwa udziałów albo akcji zgodnie z ust. 5, zobowiązanie operatora do uiszczenia rat opłaty koncesyjnej lub opłaty prolongacyjnej objętych wnioskiem, o którym mowa ust. 2, wygasa z chwilą uprawomocnienia się postanowienia sądu rejestrowego o wpisaniu do rejestru przedsiębiorców podwyższenia kapitału zakładowego wnioskodawcy na podstawie uchwały, o której mowa ust. 2 pkt 1.
 
-6. Wprzypadku objęcia przez Skarb Państwa udziałów albo akcji zgodnie z ust. 5, zobowiązanie operatora do uiszczenia rat prolongacyjnej objętych wnioskiem, o którym mowa wust. 2, wygasa zchwilą uprawomocnienia się postanowienia sądu rejestrowego o wpisaniu do rejestru przedsiębiorców podwyższenia kapitału zakładowego wnioskodawcy na podstawie uchwały, o której mowa wust. 2 pkt 1.
+7. Od dnia złożenia wniosku, o którym mowa ust. 2, do dnia uprawomocnienia się postanowienia sądu rejestrowego o wpisaniu do rejestru przedsiębiorców podwyższenia kapitału zakładowego operatora albo jego podmiotu dominującego, albo do dnia upływu terminu, o którym mowa ust. 5, lecz niedłużej niż sześć miesięcy od dnia złożenia wniosku, zawieszeniu ulega bieg terminów płatności rat opłaty koncesyjnej lub opłaty prolongacyjnej, której dotyczy wniosek.
 
-7. Od dnia złożenia wniosku, o którym mowa ust. 2, do dnia uprawomocnienia się postanowienia sądu rejestrowego o wpisaniu do rejestru przedsiębiorców podwyższenia kapitału zakładowego operatora albo jego podmiotu dominującego, albo do dnia upływu terminu, októrym mowa wust. 5, lecz nie dłużej niż sześć miesięcy od dnia złożenia wniosku, zawieszeniu ulega bieg terminów płatności rat prolongacyjnej, której dotyczy wniosek.
-
-8. Wprzypadku objęcia przez Skarb Państwa udziałów albo akcji zgodnie z ust. 5, nie stosuje się przepisów art. 312 ustawy Kodeks spółek handlowych.
+8. W przypadku objęcia przez Skarb Państwa udziałów albo akcji zgodnie z ust. 5, nie stosuje się przepisów art. 312 ustawy – Kodeks spółek handlowych.
 
 **Art. 12.**
 
-1. Kwota podwyższenia powinna być równa wartości nominalnej takiej ilości udziałów albo akcji wkapitale zakładowym operatora albo jego podmiotu dominującego będącego wnioskodawcą, która odpowiada ilorazowi kwoty zdyskontowanej rat koncesyjnej prolongacyjnej, objętych wnioskiem, o którym mowa art. 11 ust. 2, wartości jednego udziału albo akcji operatora albo jego podmiotu dominującego, obliczonej stosownie do ust. 4.
+1. Kwota podwyższenia powinna być równa wartości nominalnej takiej ilości udziałów albo akcji kapitale zakładowym operatora albo jego podmiotu dominującego będącego wnioskodawcą, która odpowiada ilorazowi kwoty zdyskontowanej rat opłaty koncesyjnej lub opłaty prolongacyjnej, objętych następującego wzoru: gdzie: i – oznacza kolejną ratę, N – oznacza całkowitą liczbę pozostałych rat, R – oznacza kwotę zdyskontowaną wszystkich rat opłat koncesyjnych lub opłat prolongacyjnych, R – oznacza nominalną kwotę raty opłaty koncesyjnej lub opłaty prolongacyjnej, S – oznacza: – roczną stopę procentową WIBOR na okres trzech miesięcy, z pierwszego dnia roboczego poprzedzającego złożenie wniosku – przypadku zobowiązań z tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej o terminie płatności przypadającym niepóźniej niż 2 lata od dnia wejścia życie ustawy, – roczną stopę procentową emitowanych przez ministra właściwego do spraw finansów publicznych obligacji dziesięcioletnich o oprocentowaniu stałym i terminie wykupu dniu 24 listopada 2010 r. (DS.1110) – przypadku zobowiązań z tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej o terminie płatności przypadającym po upływie 2 lat od dnia wejścia życie ustawy, L – oznacza liczbę dni między dniem złożenia wniosku a dniem, którym upływa termin płatności raty opłaty koncesyjnej lub opłaty prolongacyjnej objętej wnioskiem, k – oznacza stosunek liczby dni przypadających między płatnościami dwóch następujących po sobie rat opłaty koncesyjnej lub opłaty prolongacyjnej do 365 dni i wynosi: ust. 3.
 
-2. Kwota zdyskontowana stanowi sumę zobowiązań operatora ztytułu rat opłaty prolongacyjnej, które, zgodnie z wnioskiem, o którym mowa wart. 11 ust. 2 art. 13 ust. 3, mają podlegać restrukturyzacji, przeliczoną według następującego wzoru: gdzie: i oznacza kolejną ratę, N oznacza całkowitą liczbę pozostałych rat, R oznacza kwotę zdyskontowaną wszystkich rat opłat koncesyjnych opłat prolongacyjnych, R oznacza nominalną kwotę raty koncesyjnej prolongacyjnej, S oznacza: roczną stopę procentową WIBOR na okres o terminie płatności przypadającym nie póêniej niż 2 lata od dnia wejścia życie ustawy, roczną stopę procentową emitowanych przez ministra właściwego do spraw finansów publicznych obligacji dziesięcioletnich ooprocentowaniu stałym iterminie wykupu dniu 24 listopada 2010 (DS. 1110) wprzypadku zobowiązań ztytułu rat prolongacyjnej oterminie płatności przypadającym po upływie 2 lat od dnia wejścia wżycie ustawy, L oznacza liczbę dni między dniem złożenia wniosku a dniem, którym upływa termin płatności raty prolongacyjnej objętej wnioskiem, k oznacza stosunek liczby dni przypadających między płatnościami dwóch następujących po sobie rat prolongacyjnej do 365 dni iwynosi:
+4. Wartość jednego udziału albo akcji, na potrzeby wyliczenia kwoty podwyższenia, o której mowa ust. 1, powinna odpowiadać ilorazowi skorygowanej wartości aktywów netto wnioskodawcy oraz całkowitej liczby objętych i opłaconych całości akcji albo udziałów, na którą dzieli się kapitał zakładowy wnioskodawcy.
 
-3. Wysokość kwoty zdyskontowanej wyraża się złotych według kursu średniego euro ustalonego przez Narodowy Bank Polski ostatnim dniu roboczym poprzedzającym dzień złożenia wniosku, o którym mowa wart. 11 ust. 2 art. 13 ust. 3.
+5. Skorygowaną wartość aktywów netto wnioskodawcy, o której mowa ust. 4, ustala się według stanu na dzień przypadający niepóźniej niż 30 dni przed dniem złożenia wniosku, o którym mowa art. 11 ust. 2, jako wartość aktywów netto wnioskodawcy, rozumieniu art. 3 ust. 1 pkt 29 ustawy o rachunkowości, bez uwzględniania zobowiązań z tytułu rat opłaty koncesyjnej oraz opłaty prolongacyjnej objętych wnioskiem.
 
-4. Wartość jednego udziału albo akcji, na potrzeby wyliczenia kwoty podwyższenia, októrej mowa wust.1, powinna odpowiadać ilorazowi skorygowanej wartości aktywów netto wnioskodawcy całkowitej liczby objętych iopłaconych wcałości akcji albo udziałów, na którą dzieli się kapitał zakładowy wnioskodawcy.
+6. Wycenę aktywów netto, a także wyliczenie skorygowanej wartości aktywów netto, wartości jednego udziału albo akcji oraz kwoty podwyższenia wnioskodawca poddaje badaniu biegłego rewidenta pod kątem poprawności i rzetelności.
 
-5. Skorygowaną wartość aktywów netto wnioskodawcy, októrej mowa wust. 4, ustala się według stanu na dzień przypadający nie póêniej niż 30 dni przed dniem złożenia wniosku, októrym mowa wart. 11 ust.2, jako wartość aktywów netto wnioskodawcy, wrozumieniu art. 3 ust. 1 pkt 29 ustawy o rachunkowości, bez uwzględniania zobowiązań ztytułu rat koncesyjnej prolongacjnej objętych wnioskiem.
+7. W przypadku gdy wnioskodawca jest podmiotem, wobec którego został przyjęty oraz zatwierdzony układ rozumieniu przepisów rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. – Prawo o postępowaniu układowym (Dz. U. poz. 836, z późn. zm. ) , przewidujący zmniejszenie sumy jego długów, wniosek, o którym mowa art. 11 ust. 2, może być poprzedzony procedurą zmniejszenia sumy zobowiązań wnioskodawcy z tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej, będących podstawą wyliczenia kwoty zdyskontowanej.
 
-6. Wycenę aktywów netto, a także wyliczenie skorygowanej wartości aktywów netto, wartości jednego udziału albo akcji kwoty podwyższenia wnioskodawca poddaje badaniu biegłego rewidenta pod kątem poprawności irzetelności.
-
-7. W przypadku gdy wnioskodawca jest podmiotem, wobec którego został przyjęty zatwierdzony układ rozumieniu przepisów rozporządzenia Prezydenta Rzeczypospolitej zdnia 24 paêdziernika 1934 Prawo o postępowaniu układowym (Dz. U. 93, poz.836, zpóên. zm. ), przewidujący zmniejszenie sumy jego długów, wniosek, o którym mowa art. 11 ——————— prolongacyjnej, będących podstawą wyliczenia kwoty zdyskontowanej.
-
-8. Minister właściwy do spraw łączności, biorąc pod uwagę sytuację finansową wnioskodawcy, może wyrazić zgodę na zmniejszenie zobowiązań wnioskodawcy z tytułu rat prolongacyjnej, kierując się stopniem zmniejszenia zobowiązań przewidzianym zawartym uprzednio przez wnioskodawcę układzie.
-
-9. Przez okres od dnia wystąpienia przez wnioskodawcę ozmniejszenie jego zobowiązań do dnia zajęcia przez ministra właściwego do spraw łączności ostatecznego stanowiska sprawie, zawieszeniu ulega bieg terminów płatności rat opłat koncesyjnych opłat prolongacyjnych. Art. 67 Ordynacji podatkowej stosuje się odpowiednio.
+8. Minister właściwy do spraw informatyzacji, biorąc pod uwagę sytuację finansową wnioskodawcy, może wyrazić zgodę na zmniejszenie zobowiązań wnioskodawcy z tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej, kierując się opłat koncesyjnych oraz opłat prolongacyjnych. Art. 67 Ordynacji podatkowej stosuje się odpowiednio.
 
 **Art. 13.**
 
-1. Zobowiązania operatora, będącego spółką kapitałową, z tytułu prolongacyjnej wygasają przypadku objęcia przez Skarb Państwa zamian za te zobowiązania obligacji wyemitowanych przez operatora.
+1. Zobowiązania operatora, będącego spółką kapitałową, z tytułu opłaty koncesyjnej lub opłaty prolongacyjnej wygasają przypadku objęcia przez Skarb Państwa zamian za te zobowiązania obligacji wyemitowanych przez operatora.
 
-2. Obligacje, o których mowa ust. 1, powinny być obligacjami imiennymi, onieograniczonej zbywalności, zabezpieczonymi, z prawem pierwszeństwa, omaksymalnym terminie wykupu nieprzekraczającym 2010
+2. Obligacje, o których mowa ust. 1, powinny być obligacjami imiennymi, o nieograniczonej zbywalności, zabezpieczonymi, z prawem pierwszeństwa, o maksymalnym terminie wykupu nieprzekraczającym 2010 r.
 
 3. Objęcie obligacji, o których mowa ust. 1, następuje na wniosek operatora.
 
-4. Do wniosku operator załącza dokumenty iinformacje wymagane przepisami regulującymi zasady emisji iobrotu obligacjami.
+4. Do wniosku operator załącza dokumenty i informacje wymagane przepisami regulującymi zasady emisji i obrotu obligacjami.
 
-5. Minister właściwy do spraw łączności może zażądać przedstawienia przez operatora dodatkowych dokumentów informacji dotyczących sytuacji finansowej operatora.
+5. Minister właściwy do spraw informatyzacji może zażądać przedstawienia przez operatora dodatkowych dokumentów lub informacji dotyczących sytuacji finansowej operatora.
 
-6. Wartość nominalna zaoferowanych obligacji nie może być niższa od kwoty zdyskontowanej rat prolongacyjnej, zzastrzeżeniem art. 14 ust. 1.
+6. Wartość nominalna zaoferowanych obligacji nie może być niższa od kwoty zdyskontowanej rat opłaty koncesyjnej lub opłaty prolongacyjnej, z zastrzeżeniem art. 14 ust. 1.
 
-7. Jeżeli operator spełnia warunki określone wust.1—6 isytuacja finansowa operatora stwarza uzasadnione przypuszczenie, że wywiąże się on zzobowiązań wynikających z obligacji, minister właściwy do spraw łączności, działając imieniu Skarbu Państwa, może złożyć oświadczenie woli odokonaniu subskrypcji obligacji. Wygaśnięcie zobowiązań operatora ztytułu rat prolongacyjnej następuje wdniu wydania obligacji przez operatora.
+7. Jeżeli operator spełnia warunki określone ust. 1–6 i sytuacja finansowa operatora stwarza uzasadnione przypuszczenie, że wywiąże się on z zobowiązań wynikających z obligacji, minister właściwy do spraw informatyzacji, działając imieniu Skarbu Państwa, może złożyć oświadczenie woli o dokonaniu subskrypcji obligacji. Wygaśnięcie zobowiązań operatora z tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej następuje dniu wydania obligacji przez operatora.
 
-8. Minister właściwy do spraw łączności może złożyć oświadczenie, októrym mowa wust. 7, albo poinformować wnioskodawcę onieprzyjęciu oferty objęcia wyemitowanych przez niego obligacji terminie jednego miesiąca od dnia otrzymania wniosku albo złożenia dodatkowych dokumentów informacji, o których mowa wust. 5. dotyczy wniosek.
-
-10. W zakresie nieuregulowanym ustawą, do emisji obligacji mają zastosowanie przepisy ustawy zdnia 29 czerwca 1995 oobligacjach (Dz. U. z2001 120, 1300 z 2002 216, 1824).
+8. Minister właściwy do spraw informatyzacji może złożyć oświadczenie, o którym mowa ust. 7, albo poinformować wnioskodawcę o nieprzyjęciu oferty objęcia wyemitowanych przez niego obligacji terminie jednego miesiąca od dnia otrzymania wniosku albo złożenia dodatkowych dokumentów lub informacji, o których mowa ust. 5.
 
 **Art. 14.**
 
-1. Wprzypadku gdy operator jest podmiotem, wobec którego został przyjęty zatwierdzony układ rozumieniu przepisów rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 paêdziernika 1934 Prawo o postępowaniu układowym, przewidujący zmniejszenie sumy jego długów, wniosek operatora, o którym mowa art. 13 ust. 3, może być poprzedzony procedurą zmniejszenia sumy zobowiązań operatora z tytułu rat prolongacyjnej, będących podstawą wyliczenia kwoty zdyskontowanej.
+1. W przypadku gdy operator jest podmiotem, wobec którego został przyjęty oraz zatwierdzony układ rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172) lub ustawy z dnia 28 lutego 2003 r. − Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172), przewidujący zmniejszenie sumy jego długów, wniosek operatora, o którym mowa art. 13 ust. 3, może być poprzedzony procedurą zmniejszenia sumy zobowiązań operatora z tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej, będących podstawą wyliczenia kwoty zdyskontowanej.
 
-2. Minister właściwy do spraw łączności, biorąc pod uwagę sytuację finansową operatora, może wyrazić zgodę na zmniejszenie zobowiązań operatora z tytułu rat prolongacyjnej, kierując się stopniem zmniejszenia zobowiązań przewidzianym wzawartym uprzednio przez operatora układzie.
+2. Minister właściwy do spraw informatyzacji, biorąc pod uwagę sytuację finansową operatora, może wyrazić zgodę na zmniejszenie zobowiązań operatora z tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej, kierując się stopniem zmniejszenia zobowiązań przewidzianym zawartym uprzednio przez operatora układzie.
 
-3. Przez okres od dnia wystąpienia przez operatora o zmniejszenie jego zobowiązań do dnia zajęcia przez ministra właściwego do spraw łączności ostatecznego stanowiska sprawie, zawieszeniu ulega bieg terminów płatności rat opłat koncesyjnych opłat prolongacyjnych. Art. 67 Ordynacji podatkowej stosuje się odpowiednio.
+3. Przez okres od dnia wystąpienia przez operatora o zmniejszenie jego zobowiązań do dnia zajęcia przez ministra właściwego do spraw informatyzacji ostatecznego stanowiska sprawie, zawieszeniu ulega bieg terminów płatności rat opłat koncesyjnych oraz opłat prolongacyjnych. Art. 67 Ordynacji podatkowej stosuje się odpowiednio.
 
-**Art. 15.** Skorzystanie zjednej zform restrukturyzacji zobowiązań koncesyjnych na zasadach iwarunkach określonych niniejszej ustawie nie pozbawia operatora prawa do skorzystania zpozostałych form restrukturyzacji przewidzianych ustawie odrębnych przepisach.
+**Art. 15.** Skorzystanie z jednej z form restrukturyzacji zobowiązań koncesyjnych na zasadach i warunkach określonych niniejszej ustawie nie pozbawia operatora prawa do skorzystania z pozostałych form restrukturyzacji przewidzianych ustawie oraz odrębnych przepisach.
 
 **Art. 16.**
 
-1. Kwota umorzona zgodnie zart. 10 ust. 2 pkt 1 nie stanowi przychodu rozumieniu przepisów ustawy z dnia 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz. U. z2000 54, 654, 60, 700 i703, 86, 958, 103, 1100, 117, 1228 i 122, 1315 i 1324, z 2001 Nr106, 1150, 110, 1190 iNr 125, 1363 z 2002 25, 253, 74, 676, 93, 820, 141, 1179, 169, 1384, 199, 1672, 200, 1684 i 230, 1922), jeżeli należności te nie zostały zaliczone do kosztów uzyskania przychodów.
+1. Kwota umorzona zgodnie z art. 10 ust. 2 pkt 1 nie stanowi przychodu rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od zawiązanie nowej spółki.
 
-2. Spółka przejmująca albo spółka nowo zawiązana, októrych mowa wtytule IV wdziale Iustawy Kodeks spółek handlowych, wstępuje wynikające z niniejszej ustawy prawa i obowiązki spółki przejmowanej albo spółek łączących się przez zawiązanie nowej spółki.
-
-**Art. 17.** Ustawa wchodzi życie z dniem ogłoszenia.
+**Art. 17.** Ustawa wchodzi życie z dniem ogłoszenia .
 

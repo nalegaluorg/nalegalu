@@ -8,9 +8,12 @@ pos: 86
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# idezynfekcji, a) częstotliwość i sposób pobierania
+# o wyścigach konnych
+
+*USTAWA z dnia 18 stycznia 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,200 +27,434 @@ domain: null
 | Ostatnia zmiana | 2025-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010110086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/86/text.pdf) |
 
-d) urządzenia do napełniania opako- próbek do badań jakościowych, wań jednostkowych, b) metody badań,
-2) w obiektach produkcyjnych znajduje c) sposób postępowania zproduktami się laboratorium umożliwiające prze- nieodpowiadającymi wymaganiom prowadzanie analiz fizykochemicz- jakościowym, nych produkowanych i rozlewanych wyrobów winiarskich wzakresie speł- 2) dysponowania planem zakładu obejniania przez nie wymogów określo- mującym w szczególności pomiesznych wodrębnych przepisach, czenia produkcyjne, magazynowe, socjalne isanitarne, zzaznaczeniem:
-3) wniosek spełnia warunki określone wart. ust. 1, a) linii technologicznych,
-4) do wniosku dołączono dokumenty, b) dróg przemieszczania surowców októrych mowa wart. ust. iproduktów gotowych, Warunki, o których mowa w ust. 1 pkt 1 lit. c) i d), nie dotyczą przedsiębiorców ubiegających się ouzyskanie zezwolenia na produkcję wyrobów winiarskich bez ich rozlewu do opakowań jednostkowych.
-3. Zezwolenie określa wszczególności:
-1) rodzaj działalności gospodarczej objętej zezwoleniem,
-2) wielkość produkcji w skali roku zgodną ze zdolnościami produkcyjnymi posiadanych przez przedsiębiorcę urządzeń technicznych,
-3) miejsce wykonywania działalności gospodarczej.
-Art. Użyte wustawie określenia oznaczają: torach wyścigowych zgodnie z przepisami ustawy iregulaminem konnych, uzyskał zezwolenie Prezesa Polskiego Klubu Wyścigów Konnych na organizowanie konnych,
-5) stajnia wyścigowa wyodrębnioną jednostkę organizacyjną, pod określoną nazwą, w której konie są przygotowywane do konnych przez trenera, która została zgłoszona do Prezesa Polskiego Klubu Wyścigów Konnych,
-6) właściciel konia podmiot, pod którego nazwiskiem lub nazwą oraz barwami koń bierze udział w gonitwach, posiadający prawo zapisu konia do gonitw,
-7) trener osobę fizyczną przygotowującą konie do udziału wgonitwach, która uzyskała licencję Prezesa Polskiego Klubu Wyścigów Konnych,
-8) jeêdziec (powożący) osobę fizyczną dosiadającą (powożącą) konia wgonitwie, która uzyskała licencję Prezesa Polskiego Klubu Wyścigów Konnych na dosiadanie (powożenie) koni,
-9) sędzia wyścigowy osobę fizyczną sprawującą nadzór nad prawidłowością przeprowadzania gonitw jako członek komisji technicznej, komisji odwoławczej albo sędzia techniczny, która uzyskała licencję Prezesa Polskiego Klubu Wyścigów Konnych,
-10) sędzia techniczny sędziego wyścigowego, wykonującego na torze wyścigowym wdniu przeprowadzania gonitw czynności określone w regulaminie konnych,
-11) komisja techniczna zespół sędziów wyścigowych, powołany przez Prezesa Polskiego Klubu Wyścigów Konnych, sprawujący nadzór nad przestrzeganiem postanowień regulaminu konnych,
-12) komisja odwoławcza zespół złożony z sędziów wyścigowych, powołany przez Prezesa Polskiego Klubu Wyścigów Konnych,
-13) przewinienie dyscyplinarne czyn naruszający postanowienia regulaminu konnych,
-14) protest zastrzeżenie wsprawie nieprzestrzegania postanowień regulaminu konnych dotyczących gonitwy, wniesione przez osobę uprawnioną w czasie i trybie określonych w tym regulaminie.
-2) wysokość opłaty uiszczanej na rzecz Klubu za wydanie zezwolenia na organizowanie kon- Art. 16. 1. Organizowanie konnych wynych, różnicując ją w zależności od planowanej maga zezwolenia Prezesa.
-liczby gonitw w ciągu roku na danym torze wyścigowym, Wniosek o udzielenie zezwolenia powinien zawierać:
-3) wysokość opłat na rzecz Klubu za udzielenie zezwolenia na kierowanie stajnią wyścigową ilicencji na 1) oznaczenie podmiotu ubiegającego się oudzielenie trenowanie koni oraz dosiadanie (powożenie) koni, zezwolenia ijego siedziby (miejsca zamieszkania), a także pełnienie funkcji sędziego wyścigowego, różnicując je w zależności od przedmiotu licencji, 2) wskazanie planowanej lokalizacji toru wyścigoweoraz za rejestrację barw wyścigowych izgłoszenie go, uzgodnionej zwłaściwym organem administrakonia do wyścigów. cji państwowej do spraw planowania przestrzennego oraz organem samorządu terytorialnego,
-Przepisy karne Do czasu wejścia w życie regulaminu konnych, nie dłużej jednak niż przez 6 miesięcy od dnia
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 13.** Wrazie powzięcia przez organ zezwalający informacji lub stwierdzenia okoliczności uzasadniających cofnięcie zezwolenia, organ ten wszczyna z urzędu postępowanie wtej sprawie.
+**Art. 1.** Ustawa reguluje zasady organizowania wyścigów konnych na terytorium Rzeczypospolitej Polskiej oraz działalność Polskiego Klubu Wyścigów Konnych.
 
-#### Rozdział 1 1) wyścigi konne gonitwy przeprowadzane zgodnie z planem rocznym, zatwierdzonym przez Prezesa Przepisy ogólne Polskiego Klubu Wyścigów Konnych, organizowane w celu wybrania odpowiedniego materiału zaArt. 1. Ustawa reguluje zasady organizowania wy- rodowego dla ulepszania ras koni, ścigów konnych na terytorium Rzeczypospolitej Polskiej oraz działalność Polskiego Klubu Wyścigów Kon- 2) gonitwy publiczne próby, których zadaniem jest nych. ocena stopnia dzielności koni, przeprowadzane na
+**Art. 2.** Użyte ustawie określenia oznaczają:
 
 #### Rozdział 2 Polski Klub Wyścigów Konnych
 
 **Art. 3.**
 
-1. Tworzy się Polski Klub Wyścigów KonArt. 5. 1. Do zadań Klubu należy:
+1. Tworzy się Polski Klub Wyścigów Konnych, zwany dalej „Klubem”.
 
-- **1)** ustalanie warunków rozgrywania gonitw oraz czuwanie nad ich przestrzeganiem,
-- **2)** działanie na rzecz umacniania i doskonalenia hodowli koni,
-- **3)** działanie na rzecz rozwoju konnych. Klub realizuje swoje zadania w szczególności przez:
-- **1)** inicjowanie iopiniowanie rozwiązań prawnych dotyczących konnych,
-- **2)** opiniowanie projektów regulaminów konnych,
-- **3)** określanie warunków i udzielanie zezwoleń na organizowanie konnych oraz sprawowanie nadzoru nad przestrzeganiem przez organizatora postanowień ustawy, regulaminu wyścigów konnych iwarunków określonych wudzielonym mu zezwoleniu,
-- **4)** udzielanie zezwoleń na kierowanie stajnią wyścigową,
-- **5)** przyznawanie licencji na trenowanie i dosiadanie (powożenie) koni oraz pełnienie funkcji sędziego wyścigowego,
-- **6)** rejestrację i publikowanie wykazu osób uprawnionych do wykonywania funkcji trenera ijeêdêca (powożącego) wdanym roku,
-- **7)** powoływanie komisji technicznych isędziów technicznych dla poszczególnych torów,
-- **8)** powoływanie komisji odwoławczej,
-- **9)** nadzór nad orzecznictwem komisji technicznych oraz komisji odwoławczej,
-- **10)** sporządzanie listy osób uprawnionych do pełnienia na torach wyścigowych funkcji dyżurnych lekarzy medycyny iweterynarii,
-- **11)** członkostwo iudział wpracach międzynarodowych organizacji wyścigowych,
-- **12)** współpracę zinstytucjami naukowymi,
-- **13)** zatwierdzanie planów gonitw dla poszczególnych torów wyścigowych oraz wyrażanie zgody na gonitwy dodatkowe,
-- **14)** przeprowadzanie szkoleń specjalistycznych, nych, zwany dalej ŃKlubem”.
-- **15)** opracowywanie materiałów statystycznych w zakresie oceny wartości użytkowej ihodowlanej koni,
+2. Klub jest państwową osobą prawną.
+
+3. Siedzibą Klubu jest Warszawa.
+
+**Art. 4.** Nadzór nad Klubem sprawuje minister właściwy do spraw rolnictwa.
+
+**Art. 5.**
+
+1. Do zadań Klubu należy:
+
+- **1)** ustalanie warunków rozgrywania gonitw oraz czuwanie nad ich przestrzeganiem;
+- **2)** działanie na rzecz umacniania i doskonalenia hodowli koni;
+- **3)** działanie na rzecz rozwoju wyścigów konnych.
+- **1)** inicjowanie i opiniowanie rozwiązań prawnych dotyczących wyścigów konnych;
+- **2)** opiniowanie projektów regulaminów wyścigów konnych;
+- **3)** sprawowanie nadzoru nad przestrzeganiem przepisów dotyczących wyścigów konnych;
+- **4)** (uchylony)
+- **5)** przyznawanie licencji na trenowanie i dosiadanie (powożenie) koni oraz pełnienie funkcji sędziego wyścigowego;
+- **6)** rejestrację i publikowanie wykazu osób uprawnionych do wykonywania funkcji trenera i jeźdźca (powożącego) danym roku;
+- **7)** powoływanie komisji technicznych i sędziów technicznych dla poszczególnych torów;
+- **8)** powoływanie komisji odwoławczej;
+- **9)** nadzór nad orzecznictwem komisji technicznych oraz komisji odwoławczej;
+- **10)** sporządzanie listy osób uprawnionych do pełnienia na torach wyścigowych funkcji dyżurnych lekarzy medycyny i weterynarii;
+- **11)** członkostwo i udział pracach międzynarodowych organizacji wyścigowych;
+- **12)** współpracę z instytucjami naukowymi;
+- **13)** zatwierdzanie planów gonitw dla poszczególnych torów wyścigowych oraz wyrażanie zgody na gonitwy dodatkowe;
+- **14)** przeprowadzanie szkoleń specjalistycznych;
+- **15)** opracowywanie materiałów statystycznych zakresie oceny wartości użytkowej i hodowlanej koni;
+- **16)** podejmowanie działań celu podnoszenia poziomu treningu koni oraz techniki jeździeckiej;
+- **17)** wydawanie biuletynu wyścigowego;
+- **18)** promocję wyścigów konnych.
 
 **Art. 6.**
 
-1. Klub działa na podstawie ustawy oraz statutu nadanego, w drodze rozporządzenia, przez ministra właściwego do spraw rolnictwa. Statut Klubu reguluje wszczególności:
+1. Klub działa na podstawie ustawy oraz statutu nadanego, drodze rozporządzenia, przez ministra właściwego do spraw rolnictwa.
 
-- **1)** strukturę organizacyjną Klubu,
-- **2)** system wewnętrznej kontroli,
+2. Statut Klubu reguluje szczególności:
+
+- **1)** strukturę organizacyjną Klubu;
+- **2)** system wewnętrznej kontroli;
 - **3)** zasady gospodarki finansowej Klubu.
-
-**Art. 7.** Organami Klubu są:
+- **1)** Rada Klubu, zwana dalej „Radą”;
+- **2)** Prezes Klubu, zwany dalej „Prezesem”.
 
 **Art. 8.**
 
-1. Rada składa się z 15 do 25 członków powoływanych iodwoływanych przez ministra właściwego do spraw rolnictwa spośród kandydatów przedstawionych przez:
+1. Rada składa się z 9 członków powoływanych i odwoływanych przez ministra właściwego do spraw rolnictwa, z tym że:
 
-- **1)** organizatorów konnych,
-- **2)** organizacje zrzeszające hodowców koni wyścigowych,
-- **3)** organizacje zrzeszające właścicieli koni,
-- **4)** organizacje zrzeszające trenerów,
-- **5)** organizacje zrzeszające jeêdêców. Członkowie Rady będący przedstawicielami organizacji, o których mowa w ust. 1 pkt 1—3, stanowią co najmniej 80% składu Rady.
+- **1)** 6 członków Rady jest powoływanych:
+    - **a)** spośród kandydatów przedstawionych przez organizatorów wyścigów konnych, organizacje zrzeszające hodowców koni ras dopuszczonych do udziału wyścigach konnych lub organizacje zrzeszające właścicieli koni ras dopuszczonych do udziału wyścigach konnych, lub
+    - **b)** spośród osób, które zgłosiły indywidualnie swoją kandydaturę na członka Rady, będących okresie pięciu lat poprzedzających zgłoszenie tej kandydatury hodowcami lub właścicielami co najmniej 5 koni ras dopuszczonych do udziału wyścigach konnych;
 
-3. Kadencja Rady trwa 4 lata.
+- **2)** 2 członków Rady jest powoływanych spośród kandydatów przedstawionych przez organizacje zrzeszające trenerów lub organizacje zrzeszające jeźdźców;
+- **3)** 1 członek Rady jest przedstawicielem ministra właściwego do spraw rolnictwa.
+
+2. Osoby, o których mowa ust. 1 pkt 1 lit. b, wraz ze zgłoszeniem swojej kandydatury, składają oświadczenie, że okresie pięciu lat poprzedzających zgłoszenie kandydatury na członka Rady były hodowcami lub właścicielami co najmniej 5 koni ras dopuszczonych do udziału wyścigach konnych.
+
+3. Kadencja Rady trwa 4 lata i rozpoczyna się z dniem zebrania się Rady na pierwsze posiedzenie, które zwołuje minister właściwy do spraw rolnictwa.
 
 4. Rada:
 
-- **1)** opiniuje projekt regulaminu konnych,
-- **2)** wnioskuje opowołanie iodwołanie Prezesa,
-- **3)** wnioskuje opowołanie iodwołanie sędziów wyścigowych.
+- **1)** opiniuje projekt regulaminu wyścigów konnych;
+- **2)** opiniuje sprawozdanie, o którym mowa art. 15 ust. 1;
+- **3)** wnioskuje o powołanie i odwołanie sędziów wyścigowych;
+- **4)** wnioskuje o odwołanie członka Rady, jeżeli członek ten wykonuje swój mandat sposób utrudniający lub uniemożliwiający pracę Rady;
+- **5)** może wnioskować o odwołanie Prezesa.
 
-5. Uchwały Rady podejmowane są wobecności co najmniej połowy jej członków zwykłą większością głosów.
+5. Rada, opiniując sprawozdanie, o którym mowa art. 15 ust. 1, może żądać wglądu do dokumentów będących podstawą do sporządzenia tego sprawozdania. upływem kadencji Rady:
 
-6. Minister właściwy do spraw rolnictwa może odwołać przed upływem kadencji członka Rady,ana jego miejsce powołać innego, na wniosek organizacji, która zgłosiła jego kandydaturę.
+- **1)** na wniosek organizacji, o których mowa ust. 1 pkt 1 lit. a;
+- **2)** na wniosek organizacji, o których mowa ust. 1 pkt 2;
+- **3)** na wniosek Rady, przypadku, o którym mowa ust. 4 pkt 4;
+- **4)** z własnej inicjatywy.
+
+7. Rada wybiera ze swego składu przewodniczącego oraz nie więcej niż dwóch zastępców.
+
+8. Przewodniczący albo upoważniony przez niego zastępca zwołuje posiedzenia Rady z własnej inicjatywy albo na wniosek ministra właściwego do spraw rolnictwa.
+
+9. Uchwały Rady są podejmowane zwykłą większością głosów obecności co najmniej 5 jej członków.
+
+10. Członkostwo Radzie ustaje wskutek:
+
+- **1)** śmierci;
+- **2)** rezygnacji;
+- **3)** odwołania przez ministra właściwego do spraw rolnictwa;
+- **4)** powołania członka Rady na Prezesa.
+
+11. W przypadku ustania członkostwa przed upływem kadencji Rady, minister właściwy do spraw rolnictwa powołuje nowego członka, na okres do zakończenia kadencji Rady:
+
+- **1)** spośród kandydatów przedstawionych przez organizacje, o których mowa ust. 1 pkt 1 lit. a – jeżeli ustało członkostwo osoby przedstawionej przez te organizacje;
+- **2)** spośród osób, o których mowa ust. 1 pkt 1 lit. b – jeżeli ustało członkostwo osoby, o której mowa ust. 1 pkt 1 lit. b;
+- **3)** spośród kandydatów przedstawionych przez organizacje, o których mowa ust. 1 pkt 2 – jeżeli ustało członkostwo osoby przedstawionej przez te organizacje;
+- **4)** przedstawiciela ministra właściwego do spraw rolnictwa – jeżeli ustało członkostwo osoby będącej przedstawicielem tego ministra.
+
+12. Członkowi Rady, związku z uczestnictwem posiedzeniu Rady, przysługuje zwrot kosztów przejazdu na obszarze kraju: udokumentowanej biletami lub fakturami obejmującymi cenę biletu środka transportu, którego rodzaj i klasę ustala Prezes;
+
+- **2)** samochodem osobowym, wysokości 1/3 kosztów tego przejazdu stanowiących iloczyn przejechanych kilometrów przez maksymalną stawkę za jeden kilometr przebiegu, określoną przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 2140 oraz z 2020 r. poz. 875 i 1087).
 
 **Art. 9.**
 
-1. Prezesa powołuje iodwołuje minister wławanie konnych,
+1. Prezesa powołuje i odwołuje minister właściwy do spraw rolnictwa po zasięgnięciu opinii Rady.
 
-- **3)** nadaje uprawnienia oraz udziela licencji trenerom, jeêdêcom (powożącym) isędziom wyścigowym,
-- **4)** udziela zezwoleń na kierowanie stajnią wyścigową,
-- **5)** powołuje komisje techniczne i sędziów technicznych dla poszczególnych torów wyścigowych,
-- **6)** powołuje komisję odwoławczą,
-- **7)** wykonuje inne zadania określone wustawie, statucie Klubu iregulaminie konnych.
+2. Pełnienia funkcji Prezesa nie można łączyć ze świadczeniem pracy u innego pracodawcy oraz wykonywaniem, sprzecznych z obowiązkami wynikającymi z pełnionej funkcji, innych zajęć zarobkowych.
+
+3. Prezes:
+
+- **1)** kieruje Klubem i reprezentuje go na zewnątrz;
+- **2)** prowadzi rejestr, o którym mowa art. 16;
+- **3)** nadaje uprawnienia oraz udziela licencji trenerom, jeźdźcom (powożącym) i sędziom wyścigowym;
+- **4)** udziela pozwoleń na kierowanie stajnią wyścigową;
+- **5)** powołuje i odwołuje członków komisji technicznych i sędziów technicznych dla poszczególnych torów wyścigowych;
+- **6)** powołuje i odwołuje członków komisji odwoławczej;
+- **7)** organizuje szkolenia, powołuje i odwołuje komisje egzaminacyjne oraz przeprowadza egzaminy ze znajomości przepisów o wyścigach konnych dla osób ubiegających się o udzielenie licencji na trenowanie lub dosiadanie (powożenie) koni, licencji na pełnienie funkcji sędziego wyścigowego albo o pozwolenie na kierowanie stajnią wyścigową;
+- **8)** przeprowadza kontrole organizatorów wyścigów konnych pod względem zgodności działalności zakresie organizowania wyścigów z przepisami o wyścigach konnych;
+- **9)** wykonuje inne zadania określone ustawie, statucie Klubu i regulaminie wyścigów konnych. stanowiska lub nieobecności Prezesa, jego obowiązki wykonuje przewodniczący Rady.
 
 **Art. 10.**
 
-1. Regulamin konnych ustala, wdrodze rozporządzenia, minister właściwy do spraw ściwy do spraw rolnictwa, na wniosek Rady. rolnictwa, mając na celu w szczególności określenie warunków zapewniających rzetelność rozgrywania gonitw oraz ich selekcyjny charakter. Regulamin konnych określa szczegółowo sprawy, dotyczące:
+1. Regulamin wyścigów konnych ustala, drodze rozporządzenia, minister właściwy do spraw rolnictwa, mając na celu szczególności określenie warunków zapewniających rzetelność rozgrywania gonitw oraz ich selekcyjny charakter.
 
-- **1)** ras koni dopuszczonych do udziału w wyścigach konnych,
-- **2)** systemów, rodzajów iwarunków przeprowadzania gonitw,
-- **3)** obowiązków iuprawnień właścicieli koni, kierowników stajni wyścigowych, trenerów, pracowników obsługi stajni oraz jeêdêców,
-- **4)** kompetencji i trybu działania komisji technicznej, sędziów technicznych, komisji odwoławczej oraz dyżurnych lekarzy medycyny iweterynarii,
-- **5)** zgłaszania do Klubu stajni wyścigowych,
-- **6)** zgłaszania koni do wdanym roku,
-- **7)** rejestracji barw wyścigowych,
-- **8)** identyfikacji koni,
-- **9)** zapisywania iwycofywania koni zgonitw,
-- **10)** wag noszonych przez konie wgonitwach,
-- **11)** nagród wyścigowych,
-- **12)** szczegółowych zasad rozgrywania gonitw,
-- **13)** składania protestów,
-- **14)** wykazu niedozwolonych środków dopingujących,
-- **15)** zasad i trybu kontroli antydopingowej jeêdêców ikoni,
-- **16)** zasad porządkowych na terenach iwlokalach należących do toru wyścigowego, oprzewinienia dyscyplinarne,
-- **20)** wymogów, które powinien spełniać oficjalny program konnych,
-- **21)** kategoryzacji jeêdêców (powożących).
+2. Regulamin wyścigów konnych określa szczegółowo sprawy, dotyczące:
 
-**Art. 11.** Minister właściwy do spraw rolnictwa określi, wdrodze rozporządzenia:
+- **1)** ras koni dopuszczonych do udziału wyścigach konnych;
+- **2)** systemów, rodzajów i warunków przeprowadzania gonitw;
+- **3)** obowiązków i uprawnień właścicieli koni, kierowników stajni wyścigowych, trenerów, pracowników obsługi stajni oraz jeźdźców;
+- **4)** kompetencji i trybu działania komisji technicznej, sędziów technicznych, komisji odwoławczej oraz dyżurnych lekarzy medycyny i weterynarii;
+- **5)** zgłaszania do Klubu stajni wyścigowych;
+- **6)** zgłaszania koni do wyścigów danym roku;
+- **7)** rejestracji barw wyścigowych;
+- **8)** identyfikacji koni;
+- **9)** zapisywania i wycofywania koni z gonitw;
+- **10)** wag noszonych przez konie gonitwach;
+- **11)** nagród wyścigowych;
+- **12)** szczegółowych zasad rozgrywania gonitw;
+- **13)** składania protestów;
+- **14)** wykazu niedozwolonych środków dopingujących;
+- **15)** zasad i trybu kontroli antydopingowej jeźdźców i koni;
+- **16)** zasad porządkowych na terenach i lokalach należących do toru wyścigowego;
+- **17)** katalogu czynów stanowiących przewinienia dyscyplinarne;
+- **18)** kar, które mogą być wymierzane za poszczególne przewinienia;
+- **19)** szczegółowego trybu postępowania sprawach o przewinienia dyscyplinarne;
+- **20)** wymogów, które powinien spełniać oficjalny program wyścigów konnych;
+- **21)** kategoryzacji jeźdźców (powożących). rozporządzenia:
+- **1)** szczegółowe warunki techniczne dla toru wyścigowego, mając na uwadze rodzaj wyścigów i liczbę przeprowadzanych gonitw;
+- **2)** wysokość opłaty za wpis do rejestru organizatorów wyścigów konnych, różnicując ją zależności od przewidywanej liczby gonitw ciągu roku na danym torze wyścigowym.
 
-**Art. 15.** Prezes, po zaopiniowaniu przez Radę, składa roczne sprawozdanie zdziałalności Klubu ministrowi właściwemu do spraw rolnictwa.
-
-#### Rozdział 3 Organizowanie konnych
-
-**Art. 12.** Skarb Państwa powierza Polskiemu Klubowi Wyścigów Konnych wykonywanie niezbywalnego 3) wskazanie zabezpieczenia finansowego dla właściprawa własności oraz innych praw rzeczowych na jego wego przeprowadzenia oraz podanie rzecz wstosunku do położonych na terenie miasta sto- êródeł pochodzenia posiadanego kapitału, łecznego Warszawy nieruchomości oraz pozostałych 4) określenie rodzaju gonitw, które mają być przeproskładników majątkowych zlikwidowanego przedsię- wadzane, oraz planowanie ich liczby wciągu roku, biorstwa państwowego Państwowe Tory Wyścigów Konnych, które były ujęte wbilansie likwidacji iwsto- 5) opis projektowanych urządzeń technicznych toru sunku do których w dniu wejścia w życie ustawy pra- wyścigowego, wo własności w imieniu Skarbu Państwa wykonuje Agencja Własności Rolnej Skarbu Państwa. 6) planowany termin rozpoczęcia działalności.
+**Art. 12.** Skarb Państwa powierza Polskiemu Klubowi Wyścigów Konnych wykonywanie niezbywalnego prawa własności oraz innych praw rzeczowych na jego rzecz stosunku do położonych na terenie miasta stołecznego Warszawy nieruchomości oraz pozostałych składników majątkowych zlikwidowanego przedsiębiorstwa państwowego Państwowe Tory Wyścigów Konnych, które były ujęte bilansie likwidacji i stosunku do których dniu wejścia życie ustawy prawo własności imieniu Skarbu Państwa wykonuje Agencja Własności Rolnej Skarbu Państwa.
 
 **Art. 13.**
 
-1. Dochodami Klubu są: 3. Prezes może zobowiązać wnioskodawcę do przedstawienia, w wyznaczonym terminie, dodatko1) opłata wnoszona przez organizatora wych informacji idokumentów. konnych za wydanie zezwolenia na organizowanie konnych, 4. Po złożeniu wniosku ijego uzupełnienia wprzy2) opłaty w wysokości 2% sumy wpłaconych stawek padku określonym wust. 3 Prezes określa warunki, któna zakłady wzajemne na wyścigi konne rozgrywa- rym ma odpowiadać tor wyścigowy. ne wkraju,
+1. Dochodami Klubu są:
 
-- **3)** opłaty z tytułu licencji i innych zezwoleń przewi- 5. Po stwierdzeniu spełnienia warunków określodzianych wustawie, nych zgodnie zust. 4 Prezes wydaje zezwolenie, wktórym określa:
-- **4)** zapisy, spadki idarowizny,
+- **1)** opłata wnoszona przez organizatora wyścigów konnych za wpis do rejestru organizatorów wyścigów konnych;
+- **2)** opłaty wysokości 2% sumy wpłaconych stawek na zakłady wzajemne na wyścigi konne rozgrywane kraju;
+- **3)** opłaty z tytułu licencji i pozwoleń przewidzianych ustawie;
+- **4)** zapisy, spadki i darowizny;
 - **5)** inne dochody.
-- **1)** podmiot uprawniony do organizowania konnych,
 
-6. Zezwolenie wydaje się po uiszczeniu opłaty na rzecz Klubu, októrej mowa wart. pkt
+2. Klub prowadzi samodzielną gospodarkę finansową oparciu o roczny plan finansowy, którego projekt zatwierdza minister właściwy do spraw rolnictwa i przekazuje ministrowi właściwemu do spraw finansów publicznych trybie określonym przepisach dotyczących prac nad projektem ustawy budżetowej.
 
-**Art. 17.** W razie stwierdzenia, iż podmiot, któremu udzielono zezwolenia, narusza przepisy ustawy, regulamin konnych lub warunki określone wzezwoleniu, Prezes nakazuje usunięcie uchybień w wyznaczonym terminie.
+**Art. 14.**
 
-**Art. 18.**
+1. Podmiot organizujący na podstawie przepisów o grach hazardowych zakłady wzajemne na wyścigi konne uiszcza opłatę na rzecz Klubu wysokości 2% sumy wpłaconych stawek na zakłady wzajemne na wyścigi konne danym miesiącu, terminie do 20. dnia następnego miesiąca. o postępowaniu egzekucyjnym administracji.
 
-1. Prezes cofa zezwolenie, gdy podmiot:
+**Art. 15.**
 
-- **1)** nie usunął uchybień wwyznaczonym terminie,
-- **2)** rażąco narusza przepisy ustawy, regulamin wyścigów konnych lub warunki określone wzezwoleniu. W razie cofnięcia zezwolenia ponowny wniosek może być złożony przez ten sam podmiot po upływie jednego roku od daty cofnięcia zezwolenia.
+1. Prezes, po zaopiniowaniu przez Radę, składa ministrowi właściwemu do spraw rolnictwa roczne sprawozdanie z działalności Klubu.
 
-**Art. 19.**
+2. Sprawozdanie, o którym mowa ust. 1, składa się terminie do dnia 30 czerwca roku następującego po roku objętym tym sprawozdaniem.
 
-1. Udzielenie zezwolenia na organizowanie konnych, nakazanie usunięcia uchybień oraz cofnięcie zezwolenia następuje w drodze decyzji administracyjnej. Od decyzji Prezesa wsprawach, októrych mowa wust. 1, przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
+3. Minister właściwy do spraw rolnictwa przyjmuje albo odrzuca sprawozdanie, o którym mowa ust. 1, mając na względzie właściwą realizację przez Klub zadań określonych ustawie.
 
-3. W sprawach, o których mowa w ust. 1, stosuje się przepisy Kodeksu postępowania administracyjnego.
+#### Rozdział 3 Organizowanie wyścigów konnych
 
-**Art. 20.**
+**Art. 16.**
 
-1. Gonitwy przeprowadzane są według planu rocznego, zatwierdzanego przez Prezesa na podstawie wniosków organizatorów konnych. Przeprowadzenie dodatkowych gonitw wymaga zgody Prezesa.
+1. Działalność zakresie organizowania wyścigów konnych wymaga wpisu do rejestru organizatorów wyścigów konnych, zwanego dalej „rejestrem”.
 
-**Art. 21.** Wgonitwie mogą brać udział wyłącznie konie, które zostały zgłoszone zgodnie zwarunkami określonymi wregulaminie konnych.
+2. Rejestr prowadzi Prezes.
+
+3. Działalność zakresie organizowania wyścigów konnych może wykonywać podmiot, który:
+
+- **1)** posiada tor wyścigowy, spełniający wymagane warunki techniczne;
+- **2)** posiada zabezpieczenie finansowe dla właściwego przeprowadzenia wyścigów konnych;
+- **3)** posiada plany gonitw, o których mowa art. 20.
+
+4. Wniosek o wpis do rejestru zawiera:
+
+- **1)** nazwę podmiotu oraz jego siedzibę i adres albo adres zamieszkania;
+- **2)** numer rejestrze przedsiębiorców Krajowym Rejestrze Sądowym lub numer identyfikacji podatkowej (NIP), chyba że podmiot nie posiada takich numerów;
+- **3)** lokalizację toru wyścigowego uzgodnioną z wójtem, burmistrzem albo prezydentem miasta;
+- **4)** określenie zabezpieczenia finansowego dla właściwego przeprowadzania wyścigów konnych oraz wskazanie źródeł pochodzenia posiadanego kapitału;
+- **5)** określenie rodzaju gonitw, które mają być przeprowadzane, oraz planowanej ich liczby ciągu roku;
+- **6)** opis urządzeń technicznych toru wyścigowego;
+- **7)** planowany termin rozpoczęcia działalności. następującej treści: „Oświadczam, że:
+- **1)** dane zawarte we wniosku o wpis do rejestru organizatorów wyścigów konnych są kompletne i zgodne z prawdą;
+- **2)** znane mi są i spełniam warunki wykonywania działalności zakresie organizowania wyścigów konnych, określone ustawie z dnia 18 stycznia 2001 r. o wyścigach konnych.”.
+
+6. Oświadczenie powinno również zawierać:
+
+- **1)** nazwę podmiotu, jego siedzibę i adres albo adres zamieszkania;
+- **2)** oznaczenie miejsca i datę złożenia oświadczenia;
+- **3)** podpis osoby uprawnionej do reprezentowania podmiotu, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
+
+7. Wpisowi do rejestru podlegają następujące dane:
+
+- **1)** nazwa podmiotu, jego siedziba i adres albo adres zamieszkania;
+- **2)** numer rejestrze przedsiębiorców Krajowym Rejestrze Sądowym lub numer identyfikacji podatkowej (NIP), chyba że podmiot nie posiada takich numerów;
+- **3)** lokalizacja toru wyścigowego, uzgodniona z wójtem, burmistrzem, prezydentem miasta;
+- **4)** data dokonania wpisu.
+
+7a. Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa ust. 4, zawierającego oświadczenie, o którym mowa ust. 5, formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568 i 695).
+
+8. Rejestr jest jawny.
+
+9. Rejestr może być prowadzony systemie informatycznym.
+
+**Art. 17.** (uchylony)
+
+**Art. 18.** (uchylony)
+
+**Art. 19.** Od decyzji Prezesa sprawie zakazu wykonywania działalności objętej wpisem podmiotowi przysługuje odwołanie do ministra właściwego do spraw rolnictwa. przez Prezesa na podstawie wniosków organizatorów wyścigów konnych. 2. Przeprowadzenie dodatkowych gonitw wymaga zgody Prezesa. 3. Do postępowania sprawie wyrażenia zgody na przeprowadzenie dodatkowej gonitwy stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256 i 695). 4. Do postępowania sprawie wyrażenia zgody na przeprowadzenie dodatkowej gonitwy nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+**Art. 21.** W gonitwie mogą brać udział wyłącznie konie, które zostały zgłoszone zgodnie z warunkami określonymi regulaminie wyścigów konnych.
+
+**Art. 21a.** (uchylony)
+
+#### Rozdział 3a Warunki i tryb udzielania pozwoleń i licencji
+
+**Art. 21b.**
+
+1. Pozwolenie na kierowanie stajnią wyścigową danym roku kalendarzowym może być udzielone osobie, która:
+
+- **1)** nie została skazana prawomocnym wyrokiem za przestępstwo określone art. 35 ust. 1 i 2, wykroczenie określone art. 37 ust. 1 i 2 lub art. 37b ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2020 r. poz. 638) lub przestępstwo przeciwko mieniu określone Kodeksie karnym;
+- **2)** zdała egzamin ze znajomości przepisów dotyczących wyścigów konnych przed komisją powołaną przez Prezesa.
+
+2. Wniosek o udzielenie pozwolenia na kierowanie stajnią wyścigową zawiera:
+
+- **1)** imię i nazwisko oraz adres zamieszkania wnioskodawcy;
+- **2)** zaświadczenie albo oświadczenie wnioskodawcy o spełnieniu warunków, o których mowa ust. 1.
+
+2a. Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa ust. 2, formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+3. Prezes udziela albo odmawia udzielenia pozwolenia na kierowanie stajnią wyścigową drodze decyzji. wyścigową stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+3b. Do postępowania sprawie udzielenia pozwolenia na kierowanie stajnią wyścigową nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+4. Od decyzji, o której mowa ust. 3, przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
+
+**Art. 21c.**
+
+1. Licencja na trenowanie koni danym roku kalendarzowym:
+
+- **1)** jest udzielana odrębnie na trenowanie:
+    - **a)** kłusaków,
+    - **b)** koni innych ras;
+
+- **2)** może być udzielona osobie, która:
+    - **a)** posiada uprawnienia do trenowania koni nadane przez Prezesa na czas nieokreślony po zdaniu egzaminu przed komisją egzaminacyjną powołaną przez Prezesa, poprzedzonego ukończeniem szkolenia przeprowadzonego przez Klub,
+    - **b)** spełnia jeden z następujących warunków: – ukończyła studia wyższe na kierunku zootechnika lub weterynaria, lub rolnictwo oraz posiada co najmniej dwuletni staż pracy stajni wyścigowej lub wykonywała czynności związane z obsługą koni stajni wyścigowej przez okres co najmniej 2 lat, – posiada co najmniej wykształcenie średnie lub średnie branżowe oraz co najmniej pięcioletni staż pracy stajni wyścigowej lub wykonywała czynności związane z obsługą koni stajni wyścigowej przez okres co najmniej 5 lat, – wygrała co najmniej 500 gonitw, – przed dniem 1 września 2001 r. zajmowała się trenowaniem koni przez okres co najmniej 3 lat,
+    - **c)** nie została skazana prawomocnym wyrokiem za przestępstwo określone art. 35 ust. 1 i 2, wykroczenie określone art. 37 ust. 1 i 2 lub art. 37b ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt lub przestępstwo przeciwko mieniu określone Kodeksie karnym, pełnienia funkcji sędziego wyścigowego prawomocnym orzeczeniem wymierzającym taką karę dyscyplinarną.
+
+2. Osobie, która nie spełnia żadnego z warunków, o których mowa ust. 1 pkt 2 lit. b, może być udzielona licencja na trenowanie wyłącznie tych koni, których jest właścicielem lub współwłaścicielem.
+
+3. W przypadku orzeczenia kary zawieszenia licencji na trenowanie koni, dosiadanie (powożenie) koni lub pełnienie funkcji sędziego wyścigowego, licencji na trenowanie koni można udzielić dopiero po wykonaniu tej kary.
+
+4. Wniosek o udzielenie licencji na trenowanie koni zawiera:
+
+- **1)** imię i nazwisko oraz adres zamieszkania wnioskodawcy;
+- **2)** zaświadczenie albo oświadczenie wnioskodawcy o spełnieniu warunków, o których mowa ust. 1.
+
+5. Do wniosku dołącza się kopie dokumentów potwierdzających:
+
+- **1)** posiadane wykształcenie oraz
+- **2)** odpowiedni staż pracy lub okres wykonywania czynności związanych z obsługą koni stajni wyścigowej.
+
+5a. Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa ust. 4, formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+6. Prezes udziela albo odmawia udzielenia licencji na trenowanie koni drodze decyzji.
+
+6a. Do postępowania sprawie udzielenia licencji na trenowanie koni stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+6b. Do postępowania sprawie udzielenia licencji na trenowanie koni nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+7. Od decyzji, o której mowa ust. 6, przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
+
+**Art. 21d.**
+
+1. Licencja na dosiadanie (powożenie) koni danym roku kalendarzowym może być udzielona osobie, która: czas nieokreślony po:
+
+- **a)** złożeniu pisemnego oświadczenia, że wnioskodawca posiada praktyczne umiejętności dosiadania (powożenia) koni, potwierdzonego przez trenera mającego ważną licencję na trenowanie koni,
+- **b)** zdaniu egzaminu ze znajomości regulaminu wyścigów konnych przed komisją egzaminacyjną powołaną przez Prezesa;
+- **2)** posiada co najmniej wykształcenie podstawowe;
+- **3)** nie została skazana prawomocnym wyrokiem za przestępstwo określone art. 35 ust. 1 i 2, wykroczenie określone art. 37 ust. 1 i 2 lub art. 37b ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt lub przestępstwo przeciwko mieniu określone Kodeksie karnym;
+- **4)** nie została pozbawiona prawa trenowania, dosiadania (powożenia) koni lub pełnienia funkcji sędziego wyścigowego prawomocnym orzeczeniem wymierzającym taką karę dyscyplinarną;
+- **5)** posiada zaświadczenie lekarskie o braku przeciwwskazań zdrowotnych do udziału gonitwach, wydane przez lekarza wyznaczonego przez Centralny Ośrodek Medycyny Sportowej lub lekarza innego zakładu opieki zdrowotnej wskazanego przez Prezesa.
+
+2. W przypadku orzeczenia kary zawieszenia licencji na trenowanie koni, dosiadanie (powożenie) koni lub pełnienie funkcji sędziego wyścigowego, licencji na dosiadanie (powożenie) koni można udzielić dopiero po wykonaniu tej kary.
+
+3. Wniosek o udzielenie licencji na dosiadanie (powożenie) koni zawiera:
+
+- **1)** imię i nazwisko oraz adres zamieszkania wnioskodawcy;
+- **2)** zaświadczenie albo oświadczenie wnioskodawcy o spełnieniu warunków, o których mowa ust. 1.
+
+4. Do wniosku dołącza się kopię dokumentu potwierdzającego posiadane wykształcenie.
+
+4a. Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa ust. 3, formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+5. Prezes udziela albo odmawia udzielenia licencji na dosiadanie (powożenie) koni drodze decyzji. koni stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+5b. Do postępowania sprawie udzielenia licencji na dosiadanie (powożenie) nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+6. Od decyzji, o której mowa ust. 5, przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
+
+**Art. 21e.**
+
+1. Licencji na pełnienie funkcji sędziego wyścigowego udziela się odrębnie dla funkcji:
+
+- **1)** sędziego startera;
+- **2)** sędziego u celownika;
+- **3)** sędziego u wagi;
+- **4)** sędziego u zegara;
+- **5)** sędziego obserwatora;
+- **6)** sędziego – członka komisji technicznej i komisji odwoławczej.
+
+2. Licencja na pełnienie funkcji sędziego wyścigowego danym roku kalendarzowym może być udzielona osobie, która:
+
+- **1)** posiada uprawnienia do pełnienia funkcji sędziego wyścigowego nadane przez Prezesa na czas nieokreślony po zdaniu egzaminu ze znajomości przepisów dotyczących wyścigów konnych przed komisją egzaminacyjną powołaną przez Prezesa;
+- **2)** posiada co najmniej wykształcenie średnie lub średnie branżowe albo przed dniem 1 września 2001 r. pełniła funkcję sędziego wyścigowego przez okres co najmniej 3 lat;
+- **3)** ukończyła szkolenie zakresie przepisów o wyścigach konnych, przeprowadzone przez Klub – przypadku licencji na pełnienie funkcji sędziego, o których mowa ust. 1 pkt 1–4;
+- **4)** zdała egzamin ze znajomości przepisów o wyścigach konnych przed komisją powołaną przez Prezesa – przypadku licencji na pełnienie funkcji sędziego, o których mowa ust. 1 pkt 5 i 6;
+- **5)** nie została skazana prawomocnym wyrokiem za przestępstwo określone art. 35 ust. 1 i 2, wykroczenie określone art. 37 ust. 1 i 2 lub art. 37b ustawy mieniu określone Kodeksie karnym lub przestępstwo określone art. 228– 230a, art. 250, art. 296a lub art. 296b tego kodeksu;
+- **6)** nie została pozbawiona prawa trenowania, dosiadania (powożenia) koni lub pełnienia funkcji sędziego wyścigowego prawomocnym orzeczeniem wymierzającym taką karę dyscyplinarną.
+
+3. Warunki, o których mowa ust. 2 pkt 3, nie dotyczą osób, które pełniły daną funkcję sędziego wyścigowego poprzednim roku kalendarzowym.
+
+4. W przypadku orzeczenia kary zawieszenia licencji na trenowanie koni, dosiadanie (powożenie) koni lub pełnienie funkcji sędziego wyścigowego, licencji na pełnienie funkcji sędziego wyścigowego można udzielić dopiero po wykonaniu tej kary.
+
+5. Wniosek o udzielenie licencji na pełnienie funkcji sędziego wyścigowego zawiera:
+
+- **1)** imię i nazwisko oraz adres zamieszkania wnioskodawcy;
+- **2)** zaświadczenie albo oświadczenie wnioskodawcy o spełnieniu warunków, o których mowa ust. 2.
+
+6. Do wniosku dołącza się kopię dokumentu potwierdzającego posiadane wykształcenie.
+
+6a. Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa ust. 5, formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+7. Prezes udziela albo odmawia udzielenia licencji na pełnienie funkcji sędziego wyścigowego drodze decyzji.
+
+7a. Do postępowania sprawie udzielenia licencji na pełnienie funkcji sędziego wyścigowego stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+7b. Do postępowania sprawie udzielenia licencji na pełnienie funkcji sędziego wyścigowego nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+8. Od decyzji, o której mowa ust. 7, przysługuje odwołanie do ministra właściwego do spraw rolnictwa. rozporządzenia, wysokość opłat na rzecz Klubu za udzielenie pozwolenia na kierowanie stajnią wyścigową i licencji na trenowanie koni oraz dosiadanie (powożenie) koni, a także pełnienie funkcji sędziego wyścigowego, różnicując je zależności od przedmiotu licencji, oraz za rejestrację barw wyścigowych i zgłoszenie konia do wyścigów.
 
 #### Rozdział 4 Odpowiedzialność dyscyplinarna
 
-**Art. 22.** Kary dyscyplinarne mogą być orzekane w stosunku do osób wykonujących funkcje związane zwyścigami konnymi, które popełniły czyny stanowiące przewinienia dyscyplinarne określone w regulaminie konnych.
+**Art. 22.** Kary dyscyplinarne mogą być orzekane stosunku do osób wykonujących funkcje związane z wyścigami konnymi, które popełniły czyny stanowiące przewinienia dyscyplinarne określone regulaminie wyścigów konnych.
 
-**Art. 23.** Odpowiedzialności dyscyplinarnej za naruszenie przepisów regulaminu konnych pod5) sędziowie wyścigowi,
+**Art. 23.** Odpowiedzialności dyscyplinarnej za naruszenie przepisów regulaminu wyścigów konnych podlegają:
 
 **Art. 24.** Karami dyscyplinarnymi są:
 
 **Art. 25.**
 
-1. Wsprawach odpowiedzialności dyscyplinarnej orzekają:
+1. W sprawach odpowiedzialności dyscyplinarnej orzekają:
 
-- **1)** komisja techniczna jako organ pierwszej instancji,
-- **2)** komisja odwoławcza jako organ drugiej instancji. W sprawach odpowiedzialności dyscyplinarnej sędziów wyścigowych wchodzących w skład komisji technicznej orzeka, jako organ pierwszej instancji, komisja odwoławcza.
+- **2)** komisja odwoławcza – jako organ drugiej instancji.
+
+2. W sprawach odpowiedzialności dyscyplinarnej sędziów wyścigowych wchodzących skład komisji technicznej orzeka, jako organ pierwszej instancji, komisja odwoławcza.
 
 **Art. 26.**
 
-1. Od orzeczenia komisji technicznej wymierzającego karę dyscyplinarną osobie ukaranej przysługuje odwołanie do komisji odwoławczej. Odwołanie wnosi się wterminie 3 dni od dnia doręczenia orzeczenia komisji technicznej wraz zuzasadnieniem za pośrednictwem tej komisji.
+1. Od orzeczenia komisji technicznej wymierzającego karę dyscyplinarną osobie ukaranej przysługuje odwołanie do komisji odwoławczej.
 
-3. Komisja odwoławcza rozpatruje odwołanie wterminie 5 dni od dnia jego wniesienia.
+2. Odwołanie wnosi się terminie 3 dni od dnia doręczenia orzeczenia komisji technicznej wraz z uzasadnieniem – za pośrednictwem tej komisji.
+
+3. Komisja odwoławcza rozpatruje odwołanie terminie 5 dni od dnia jego wniesienia.
 
 4. Wniesienie odwołania nie wstrzymuje wykonania kary orzeczonej przez komisję techniczną.
 
 5. Komisja odwoławcza nie może wymierzyć kary surowszej od orzeczonej przez komisję techniczną.
 
-6. Wpostępowaniu dyscyplinarnym przed komisją techniczną i komisją odwoławczą stosuje się odpojonowego, właściwego ze względu na miejsce położe- nia do trenowania lub dosiadania koni wyścigowych nia toru wyścigowego. zachowują swoją moc. Odwołanie do sądu rejonowego wnosi się wter- Podmioty organizujące dotychczas wyścigi konminie 14 dni od dnia doręczenia orzeczenia komisji od- ne zachowują prawo do organizowania woławczej wraz zuzasadnieniem. przez okres 6 miesięcy od dnia wejścia wżycie ustawy.
+6. W postępowaniu dyscyplinarnym przed komisją techniczną i komisją odwoławczą stosuje się odpowiednio przepisy Kodeksu postępowania sprawach o wykroczenia.
 
-3. Wniesienie odwołania nie wstrzymuje wykona- Art. 30. Minister właściwy do spraw rolnictwa ponia kary orzeczonej przez komisję odwoławczą. woła Radę Klubu w terminie trzech miesięcy od dnia wejścia wżycie ustawy.
+**Art. 27.**
 
-4. Wpostępowaniu odwoławczym przed sądem rejonowym stosuje się przepisy Kodeksu postępowania Art. 31. 1. Traci moc ustawa z dnia 19 kwietnia karnego. 1950 r. o wyścigach konnych (Dz. U. 20, poz. 173, z1958 r. 11, poz. 40, z1976 r. 19, poz. 122 iz1992r.
+1. Od orzeczenia komisji odwoławczej wymierzającego karę dyscyplinarną, o której mowa art. 24 pkt 3–6, przysługuje odwołanie do sądu rejonowego, właściwego ze względu na miejsce położenia toru wyścigowego.
 
-#### Rozdział 5 68, poz. 341).
+2. Odwołanie do sądu rejonowego wnosi się terminie 14 dni od dnia doręczenia orzeczenia komisji odwoławczej wraz z uzasadnieniem.
+
+3. Wniesienie odwołania nie wstrzymuje wykonania kary orzeczonej przez komisję odwoławczą.
+
+4. W postępowaniu odwoławczym przed sądem rejonowym stosuje się przepisy Kodeksu postępowania karnego.
+
+#### Rozdział 5 Przepisy karne
 
 **Art. 28.**
 
-1. Kto bez zezwolenia, o którym mowa wejścia w życie ustawy, zachowują moc prawidła wywart. 16 ust. 1, organizuje wyścigi konne, ścigowe konnych. podlega karze grzywny.
+1. Kto organizuje wyścigi konne bez wymaganego wpisu do rejestru, podlega karze grzywny. przepisów o postępowaniu sprawach o wykroczenia.
 
-**Art. 32.** Ustawa wchodzi wżycie po upływie 14 dni Postępowanie w sprawach, o których mowa od dnia ogłoszenia. w ust. 1, toczy się według przepisów o postępowaniu wsprawach owykroczenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski Na podstawie art. 3 ust. 3 ustawy z dnia 31 lipca z 1999 r. 110, poz. 1255 oraz z 2000 r. 6, poz. 69 1981 r. o wynagrodzeniu osób zajmujących kierowni- iNr 48, poz. 552) zarządza się,co następuje: cze stanowiska państwowe (Dz. U. 20, poz. 101, z1982 r. 31, poz. 214, z1985 r. 22, poz. 98 iNr 50, § 1. Wrozporządzeniu Prezydenta Rzeczypospolitej poz. 262, z 1987 r. 21, poz. 123, z 1989 r. 34, Polskiej zdnia 13 czerwca 2000 r. wsprawie szczegółopoz.178, z1991 r. 100, poz. 443, z1993 r. 1, poz.1, wych zasad wynagradzania osób zajmujących kierowz 1995 r. 34, poz. 163 i 142, poz. 701, z 1996 r. nicze stanowiska państwowe (Dz. U. 48, poz. 556 73, poz. 350, 89, poz. 402, 106, poz. 496 iNr 77, poz. 875) w§ 2 pkt 2 otrzymuje brzmienie: i 139, poz. 647, z 1997 r. 75, poz. 469 i 133, poz.883, z1998 r. 155, poz. 1016 iNr 160, poz. 1065, Ń2) od dnia 1 marca 2001 r.: 87 ROZPORZÑDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ zdnia 12 lutego 2001 r. zmieniające rozporządzenie wsprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe. Mnożnik kwoty bazowej Lp. Stanowisko wynagrodzenia dodatku zasadniczego funkcyjnego 1 2 3 4 1 Marszałek Sejmu, Marszałek Senatu, Prezes Rady Ministrów 6,2 2,0 2 Wicemarszałek Sejmu, wicemarszałek Senatu, wiceprezes Rady Ministrów, Prezes Najwyższej Izby Kontroli 5,7 1,6
+#### Rozdział 6 Przepisy przejściowe i końcowe
+
+**Art. 29.**
+
+1. Nabyte na podstawie dotychczasowych prawideł wyścigowych wyścigów konnych uprawnienia do trenowania lub dosiadania koni wyścigowych zachowują swoją moc.
+
+2. Podmioty organizujące dotychczas wyścigi konne zachowują prawo do organizowania wyścigów przez okres 6 miesięcy od dnia wejścia życie ustawy.
+
+**Art. 30.** Minister właściwy do spraw rolnictwa powoła Radę Klubu terminie trzech miesięcy od dnia wejścia życie ustawy.
+
+**Art. 31.**
+
+1. Traci moc ustawa z dnia 19 kwietnia 1950 r. o wyścigach konnych (Dz. U. poz. 173, z 1958 r. poz. 40, z 1976 r. poz. 122 oraz z 1992 r. poz. 341).
+
+2. Do czasu wejścia życie regulaminu wyścigów konnych, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie ustawy, zachowują moc prawidła wyścigowe wyścigów konnych.
+
+**Art. 32.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
 

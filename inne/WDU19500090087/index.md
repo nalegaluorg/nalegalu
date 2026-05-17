@@ -8,9 +8,12 @@ pos: 87
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 marca 1950 ró Nr 9 T R E S c: Poz.: , u z dnia marca r. o przez dóbr martwej proboszczom posiadania gospodarstw rolnych i utworzeniu Funduszu • z dnia marca r. sprawie zakresu Ministra Budownictwa ••.•••.......••. • z dnia marca r. Rady Ministrów ·z dnia czerwca r.
+# przejęciu przez Państwo dóbr martwej ręki, poręczeniu proboszczom posiadania gospodarstw rolnych utworzeniu Funduszu Kościelnego Dekret Polskiego Komitetu Wyzwolenia Narodowego dnia 6 września 1944 r.
+
+*USTAWA dnia 20 marca 1950 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,69 +27,88 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500090087) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1950/87/text.pdf) |
 
-. sprawie zakresu Centralnego Szkolenia Zawodowego .• • z dnia marca r. '!'" sprawie mocy ustawy o pomocy kiej przy odbudowie WSi. . . . . . . . . . . . • z dnia marca r. sprawie utworzenia Morskiego Instytutu Technicznego. . . .
-z dnia marca r. sprawie zmiany nazwy akademickich, Ministrowi Zdrowia 97 97 Ministra z dnia lutego r. sprawie za utrzymanie zieniach aresztach osób tymczasowo aresztowanych osób skazanych . .
-Ministra Kultury i Sztuki z dnia lutego r. sprawie nadawania prywatnym artystycznym artystycznych . . . . . , . .
-Ministra Zdrowia z dnia lutego r. sprawie wyrobu oraz obiegu octów esencji octoej . . . . . . . . . . . . . . . . . . . • Ministra Zdrowia z dnia marca r. sprawie norm dopuszczonych do wykonywania praktyki . . . . . . . . . .
-Ministra .\dministracji Publicznej z dnia marca r. sprawie dziennych dla rodzin . .. . . . . . . . . .
-Ministra Administracji Publicznej z dnia marca r. sprawie przystosowania stowarzydo przepisów prawa o stowarzyszeniach . . .. ..
-Ministra z dnia marca r. sprawie zmiany granic Grodzkich Zgierzu i Pabianicach .
-Ministra z dnia marca r. o sprostowaniu z dnia marca r. sprawie zmiany niektórych sum przewidzianych kodeksie cywilnego 87
-USTAWA z dnia 20 marca 1950 r.
-o przez dóbr martwej proboszczom posi.adania gospodarstw rolnych rzeniu Funduszu utwoDekret Polskiego Komitetu Wyzwolenia Narodowego z dnia r. o przeprowadzeniu reformy rolnej o prawnym nierucho ziemskich, do Katolickiego lub gmin wyznaniowych im1ych orzeknie Sejm Ustawddawczy.
-W wykonaniu tej zapowiedzi, celem po przywilejów obszarniczo-feudalnych do brach martwej oraz celem materialnego zabezpie czenia stanowi co
+przeprowadzeniu reformy rolnej zapowiedział, że położeniu prawnym ziemskich, należących Kościoła Katolickiego lub gmin wyznaniowych innych wyznań, orzeknie Sejm Ustawodawczy.
+W wykonaniu tej zapowiedzi, celem usunięcia pozostałości przywilejów obszarniczo-feudalnych dobrach martwej ręki oraz celem materialnego zabezpieczenia duchowieństwa, stanowi się, co następuje:
 
 **Art. 1.**
 
-1. Wszystkie ziemskie wyznaniowych przyjmuje na Nie ziemsk.ie, gospodar3twa rolne proboszczów (art. 4 2 i 3), które te funkcje duchownym, jako ich zaopatrzenia. :3. Rada Ministrów postanowienia 2 roz drodze na gospodarstwa rolne, nie przepisaml tego
+1. Wszystkie ziemskie związków wyznaniowych przejmuje się własność Państwa.
 
-4. Dochody z przezna czone na cele charytatywne zgodnie z postanowieniami niniejszej ustawy. '
+2. Nie podlegają przejęciu kościelne ziemskie, stanowiące gospodarstwa rolne proboszczów (art. 4 2 3), które Państwo poręcza pełniącym te funkcje duchownym, jako podstawę ich zaopatrzenia.
 
-5. Minister Rolnictwa i Reform Ro'lnych ustali szacunek dochodów, o których mowa 4, norm Funduszu Ziemi. Art. Wszystkie ulegające nierucho ziemskie z dniem niniejszej ustawy z mocy prawa na bez odszkodowania wolne od jakichkolwiek z przewidzianych niniejszej ustawie, wraz z wszystkimi na tych nierucho budynkami, oraz inwentarzem martwym, o ile niniejsza ustawa nie stanowi inaczej. Minister Administracji Publicznej od miejsca, przeznaczone do wykonywania kultu religijnego, jak budynki mieszkalne, klasztorów, kurii biskupich arcybiskupich konsystorzy i innych wyznanio wych - budynki te lub mieJsca na
+3. Rada Ministrów może postanowienia 2 rozciągnąć drodze wyjątku również gospodarstwa rolne, nie objęte przepisami tego ustępu.
 
-3. Rada Ministrów zakres przed miotó',v . Dziennik Ustaw Nr 9 ---------------------------------- Poz.
+4. Dochody przejętych przeznaczone są wyłącznie cele kościelne charytatywne zgodnie postanowieniami ustawy.
 
-**Art. 3.** Pozostają nienaruszone prawa wania ziemskich lub ich tych na rzecz bezrolnym, rolnych z zawartych dniu niniejszej ustawy. Vvszelkie inne umowy lub prawa ziemskich, na l·zecz lub ich przez Ministra Rolnictwa Reform Rolnych porozumieniu z Mini strem Administracji Publicznej uznane za bez , odszkodowania, 3. Umowy zbycia nieru ziemf'kich lub ich dokonane po dniu 22 lipca 1944 r. z umów, zawartych na rzecz bezrolnych, mo przez Ministra Rolnictwa. i Reform Rolnych' porozumieniu z Ministrem Administracji Publicznej uznane za 4.' Ministrowie Rolnictwa i Reform RolnyCh oraz Administracji Publicznej mogq swoje uprawnienia org>HlCn1.
+5. Minister Rolnictwa Reform Rolnych ustali szacunek dochodów, których mowa 4, według norm Państwowego Funduszu Ziemi.
+
+**Art. 2.**
+
+1. Wszystkie ulegające przejęciu ziemskie przechodzą dniem wejścia życie ustawy mocy prawa własność Państwa bez odszkodowania wolne są od jakichkolwiek obciążeń, wyjątkiem przewidzianych ustawie, wraz wszystkimi znajdującymi się tych nieruchomościach budynkami, przedsiębiorstwami, zakładami oraz inwentarzem żywym martwym, ile niniejsza ustawa nie stanowi inaczej. stanowiące siedzibę klasztorów, kurii biskupich arcybiskupich konsystorzy zarządów innych związków wyznaniowych - choćby budynki te lub miejsca stanowiły część nieruchomości, podlegających przejęciu własność Państwa.
+
+3. Rada Ministrów może rozszerzyć zakres przedmiotów majątkowych, podlegających wyłączeniu myśl 2.
+
+**Art. 3.**
+
+1. Pozostają nienaruszone prawa użytkowania ziemskich lub ich części, przejętych rzecz Państwa, przysługujące bezrolnym, małorolnych średniorolnym chłopom, wynikające ważnie zawartych umów dzierżawnych, obowiązujących dniu wejścia życie ustawy.
+
+2. Wszelkie inne umowy dzierżawne lub prawa użytkowania ziemskich, przejętych rzecz Państwa lub ich części mogą być przez Ministra Rolnictwa Reform Rolnych porozumieniu Ministrem Administracji Publicznej uznane za wygasłe bez odszkodowania.
+
+3. Umowy zbycia podlegających przejęciu ziemskich lub ich części, dokonane po dniu 22 lipca 1944 r. wyjątkiem umów, zawartych rzecz bezrolnych, małorolnych średniorolnych chłopów, mogą być przez Ministra Rolnictwa Reform Rolnych porozumieniu Ministrem Administracji Publicznej uznane za nieważne.
+
+4. Ministrowie Rolnictwa Reform Rolnych oraz Administracji Publicznej mogą swoje uprawnienia przekazać podległym organom.
 
 **Art. 4.**
 
-1. Nieruchomościami ziemskimi ~viązków wyznaniowych rozumieniu nimeJszej wszelkiego rodzaju ziemskie, do lub innego wyznaniowego albo do ich instytucji, zakonów, lub ja kichkohviek innych jednostek organizacyjnych i orga nów, bez na ich oraz cele, na jakie dotychczas obracane dochody z tych nieru Gospodarstwami rolnymi proboszczów, które tym duchownym na art. ziemskie (ust. posiachmiu proboszczów oddane granicach do ha, a na terenie wo jewództw: pomorskiego i do 100 ha.
+1. Nieruchomościami ziemskimi związków wyznaniowych rozumieniu ustawy są wszelkiego rodzaju ziemskie, należące kościoła lub innego związku wyznaniowego albo ich instytucji, zakładów, zakonów, zgromadzeń lub jakichkolwiek innych jednostek organizacyjnych organów, bez względu ich formę prawną oraz cele, jakie dotychczas obracane były dochody, tych nieruchomości.
 
-3. W przypadku, gospodarstwo rolne boszcza przekracza obszaru, ust, 2, na rzecz Pal'lstwa podlega jedynie ponad
+2. Gospodarstwami rolnymi proboszczów, które Państwo poręcza tym duchownym podstawie art. 1 2, są ziemskie (ust. 1), znajdujące się posiadaniu proboszczów (choćby były oddane dzierżawę)
 
-4. O tym, czy ziemska' posiada cha rakter wyznaniowego rozu mieniu 1, orzeka :r-.1inister Administracji Publicznej.
+3. W przypadku, gdy gospodarstwo rolne proboszcza przekracza granicę obszaru, określoną 2, przejęciu rzecz Państwa podlega jedynie nadwyżka obszaru ponad tę granicę.
 
-5. O tym, czy stanowi gospodarstwo rolne proboszcza (ust. 2), orzeka Minister Administracji Publicznej. O prze (ust. 3), orzeka Minister Rolnictwa i Reform Rolnych porozumieniu z Ministrem Administracji Publicznej. Ministrowie swoje uprawnienia, prze widziane niniejszym organem.
+4. O tym, czy nieruchomość ziemska posiada charakter związku wyznaniowego rozumieniu 1, orzeka Minister Administracji Publicznej.
+
+5. O tym, czy nieruchomość stanowi gospodarstwo rolne proboszcza (ust. 2), orzeka Minister Administracji Publicznej. O określeniu nadwyżki, podlegającej przejęciu (ust. 3), orzeka Minister Rolnictwa Reform Rolnych porozumieniu Ministrem Administracji Publicznej. Ministrowie mogą swoje uprawnienia, przewidziane niniejszym ustępie, przekazać podległym organom.
 
 **Art. 5.**
 
-1. Minister Rolnictwa i Reform Rolnych obejmie ziemskie, podlega-. na z tym, obszaru gospodarstw rolnych proboszczów (art. 4 3) dopiero po wydaniu orzeczenia o trybie art. 4 5. Rada Ministrów zasady
+1. Minister Rolnictwa Reform Rolnych obejmie niezwłocznie ziemskie, podlegające przejęciu własność Państwa tym, że objęcie nadwyżek obszaru gospodarstw rolnych proboszczów (art. 4 3) nastąpi dopiero po wydaniu orzeczenia określeniu nadwyżki trybie art. 4 5
 
-**Art. 6.** Jeżeli podlega obszaru gospodarstwa rolnego prcboszcza (art. 4 3), a tego gospodarstwa budynki oraz inwentarz i martwy - MinisteF Rolnictwa i Reform Rol nych porozumieniu z Ministrem Administracji Publicznej zapewni temu gospodarstwu do prowadzenia budynki oraz inwentarz i martwy.
+2. Rada Ministrów określi zasady zarządzania przejętymi nieruchomościami.
+
+**Art. 6.** Jeżeli przejęciu podlega nadwyżka obszaru gospodarstwa rolnego proboszcza (art. 4 3), a skład tego gospodarstwa wchodzą budynki oraz inwentarz żywy martwy - Minister Rolnictwa Reform Rolnych porozumieniu Ministrem Administracji Publicznej temu gospodarstwu niezbędne jego prowadzenia budynki oraz inwentarz żywy martwy.
 
 **Art. 7.**
 
-1. Rada Ministrów niektóre gorie ziemskich, na podstawie niniejszej ustawy albo poszczególne obiekty i nych instytucji, lub innych jednostek organizacyjnych organów te ich wanie. 'Rada Ministrów ustali tryb i wania (ust. a czy oddanie i za na Funduszu czy bez
+1. Rada Ministrów może niektóre kategorie ziemskich, podlegających przejęciu podstawie ustawy albo też poszczególne obiekty pozostawić zarządzie użytkowaniu kościelnych instytucji, zakładów, zgromadzeń lub innych kościelnych jednostek organizacyjnych organów albo też przekazać te ich zarząd użytkowanie.
 
-**Art. 8.** Dochód z ziemskich, tych na mocy niniejszej ustawy, oraz dotacje we, uchwalane przez Ministrów, Fundusz
+2. Rada Ministrów ustali tryb zarządu użytkowania (ust. 1), a szczególności określi, czy oddanie zarząd użytkowanie nastąpi za odpłatą rzecz Funduszu Kościelnego, czy bez odpłaty. Kościelny.
 
 **Art. 9.**
 
-1. Fundusz cele: utrzymanie i odbudowa
+1. Fundusz Kościelny świadczyć będzie następujące cele:
 
-- **2)** udzielanie duchownym pomocy materialnej karskiej oraz organizowanie <;!la nich domów poczynkowych, duchownych ubezpieCZeniem chorobowym na koszt Funduszu przypadkach uzasadnionych, • specjalne zaopatrzenie emerytalne duchownych, wykonywanie charytatywno czej, Rada Ministrów zakres Funduszu na -inne potrzeby i charytatywne.
+- **1)** utrzymanie odbudowa kościołów,
+- **2)** udzielanie duchownym pomocy materialnej lekarskiej oraz organizowanie dla nich domów wypoczynkowych,
+- **3)** (skreślony),
+- **4)** opłacanie składek ubezpieczenie społeczne duchownych wymiarze określonym ustawie dnia 13 października 1998 r. systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887),
+- **5)** wykonywanie działalności charytatywno-opiekuńczej.
+
+2. Rada Ministrów może rozszerzyć zakres celów Funduszu Kościelnego również inne potrzeby kościelne charytatywne.
 
 **Art. 10.**
 
-1. Fundusz podlega nadzorowi Ministra Administracji Publicznej. Statut, uchwalony przez Ministrów, Funduszu sposób tworzenia jego organów i zasady
+1. Funduszu Kościelny podlega nadzorowi Ministra Administracji Publicznej.
 
-3. Statut Funduszu zabezpieczy znaczenie na cele danego wyznaniowego chodów, z oraz zape\'mi i cych organach Funduszu.
+2. Statut, uchwalony przez Radę Ministrów, określi organizację Funduszu Kościelnego, sposób tworzenia jego organów zasady działalności.
 
-**Art. 11.** Rada Ministrów drodze wyda przepisy dla wykonania art. 1 a 'w jakie i na mane oraz sposób ustalania czynszu nego przypadkach przewidzianych wart. 3
+3. Statut Funduszu Kościelnego zabezpieczy przeznaczenie cele danego związku wyznaniowego dochodów, płynących nieruchomości, przejętych od tego związku oraz udział duchowieństwa wierzących organach Funduszu.
 
-**Art. 12.** Kto udaremnia lub utrudnia wprowadze nie niniejszej ustawy lub do czynów skierowanych przeciw jej wykonaniu publicznie pochwala takie czyny - podlega karom, ustawach za skierowane przeciw reformie rojnej.
+**Art. 11.** Rada Ministrów drodze rozporządzenia wyda przepisy niezbędne dla wykonania art. 1-3, a szczególności ustalić może, jakie długi ciężary, ciążące przejętych nieruchomościach, zostaną utrzymane oraz określi sposób ustalania czynszu dzierżawnego przypadkach przewidzianych art. 3 1 2.
 
-**Art. 13.** Wykonanie ustawy porucza Ministrom: Administracji Publicznej, Rolnictwa Reform Rolnych, i Finansów.
+**Art. 12.** (uchylony).
 
-**Art. 14.** Ustawa wchodzi z dniem szenia. Prezydent B. Prezes Rady Minister Administracji Publicznej: Minister Rolnictwa Reform Rolnych: J. ]',·1inister H, Minister Finansów; K.
+**Art. 13.** Wykonanie ustawy porucza się Ministrom: Administracji Publicznej, Rolnictwa Reform Rolnych, Sprawiedliwości Finansów.
+
+**Art. 14.** Ustawa wchodzi życie dniem ogłoszenia.
 

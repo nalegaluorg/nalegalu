@@ -8,9 +8,12 @@ pos: 48
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 stycznia 2026 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielniach socjalnych
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 kwietnia 2006 o spółdzielniach socjalnych (Dz. U. z 2025 poz. 178), z uwzględnieniem zmian wprowadzonych:
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielniach socjalnych*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/48/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 kwietnia 2006 o spółdzielniach socjalnych (Dz. U. z 2025 poz. 178), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 marca 2025 o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
 2) ustawą z dnia 26 września 2025 o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 stycznia 2026
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
@@ -106,7 +108,7 @@ USTAWA z dnia 27 kwietnia 2006 o spółdzielniach socjalnych
 1. Do wniosku o wpis socjalnej do Krajowego Rejestru Sądowego dołącza się:
 
 - **1)** zaświadczenie powiatowego urzędu pracy potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną posiada status osoby:
-    - **a)** bezrobotnej, o której mowa art. 2 pkt 1 lub 4 ustawy z dnia 20 marca 2025 o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620, 1746 i 1794), albo zatrudnienia, bez zatrudnienia: wieku do 30. roku życia oraz po ukończeniu 50. roku życia lub niewykonującej innej pracy zarobkowej, o której mowa art. 2 pkt 9 ustawy z dnia 20 marca 2025 o rynku pracy i służbach zatrudnienia;
+    - **a)** bezrobotnej, o której mowa art. 2 pkt 1 lub 4 ustawy z dnia 20 marca 2025 o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620, 1746 i 1794), albo wieku do 30. roku życia oraz po ukończeniu 50. roku życia lub niewykonującej innej pracy zarobkowej, o której mowa art. 2 pkt 9 ustawy z dnia 20 marca 2025 o rynku pracy i służbach zatrudnienia;
 
 - **2)** orzeczenie o stopniu niepełnosprawności osoby zamierzającej założyć spółdzielnię socjalną;
 - **3)** zaświadczenie, o którym mowa art. 13 ust. 5a albo art. 18 ust. 5a ustawy z dnia 13 czerwca 2003 o zatrudnieniu socjalnym;
@@ -135,7 +137,7 @@ USTAWA z dnia 27 kwietnia 2006 o spółdzielniach socjalnych
 
 2. Wnioski ze spotkania konsultacyjnego przedstawione przez pracowników podlegają dyskusji na zebraniu zarządu. Zarząd jest obowiązany przedstawić pracownikom oraz walnemu zgromadzeniu pisemną informację o wykorzystaniu tych wniosków.
 
-3. Przedstawiciel pracowników niebędących członkami socjalnej posiada prawo głosu doradczego na walnym zgromadzeniu spółdzielni. szością głosów podczas zebrania pracowników, którym bierze udział co najmniej połowa pracowników niebędących członkami spółdzielni.
+3. Przedstawiciel pracowników niebędących członkami socjalnej posiada prawo głosu doradczego na walnym zgromadzeniu spółdzielni. członkami spółdzielni.
 
 5. Szczegółowe warunki i tryb przekazywania informacji, o których mowa ust. 1, oraz przeprowadzania konsultacji z pracownikami określa regulamin przyjęty przez walne zgromadzenie spółdzielni.
 
@@ -175,7 +177,7 @@ USTAWA z dnia 27 kwietnia 2006 o spółdzielniach socjalnych
 
 3. (uchylony) 3a. W stosunku do członków socjalnej i pracowników będących osobami, o których mowa art. 4 ust. 1, zatrudnionych na zasadach, o których mowa ust. 1 i 1a, część wynagrodzenia odpowiadająca składce należnej od zatrudnionego na ubezpieczenia emerytalne, rentowe i chorobowe oraz część kosztów osobowych pracodawcy odpowiadająca składce na ubezpieczenia emerytalne, rentowe i wypadkowe za zatrudnionego, na podstawie umowy zawartej między starostą właściwym dla siedziby a spółdzielnią, podlegać finansowaniu ze środków Funduszu Pracy pełnej wysokości przez okres 24 miesięcy od dnia zatrudnienia oraz połowie wysokości przez kolejne 12 miesięcy, do wysokości odpowiadającej miesięcznie wysokości składki, której podstawą wymiaru jest kwota minimalnego wynagrodzenia za pracę.
 
-3b. Zwrotu opłaconych składek, o których mowa ust. 3a, dokonuje starosta, okresach kwartalnych na podstawie udokumentowanego wniosku spółdzielni, terminie 30 dni od dnia jego złożenia. składek, o których mowa ust. 3a.
+3b. Zwrotu opłaconych składek, o których mowa ust. 3a, dokonuje starosta, okresach kwartalnych na podstawie udokumentowanego wniosku spółdzielni, terminie 30 dni od dnia jego złożenia.
 
 3d. Minister właściwy do spraw zabezpieczenia społecznego określi, drodze rozporządzenia, wzór wniosku, o którym mowa ust. 3b, oraz tryb dokonywania zwrotu opłaconych składek, uwzględniający rodzaj niezbędnej dokumentacji, jaką należy dołączyć do wniosku oraz konieczność zapewnienia zgodności udzielania wsparcia z warunkami dopuszczalności pomocy de minimis.
 
@@ -258,7 +260,7 @@ USTAWA z dnia 27 kwietnia 2006 o spółdzielniach socjalnych
 
 1. W przypadku likwidacji socjalnej, której powstanie zostało sfinansowane ze środków publicznych, środki pozostające po spłaceniu zobowiązań, złożeniu do depozytu stosownych sum zabezpieczających należności sporne lub niewymagalne i po wydzieleniu kwot przeznaczonych na wypłaty udziałów, dzieli się między jej członków, jednak niewięcej niż 20 % środków, pozostałej części przekazuje się na Fundusz Pracy.
 
-2. W przypadku likwidacji socjalnej, która nie korzystała ze środków Funduszu Pracy, środki określone ust. 1, dzieli się całości pomiędzy jej członków. określonych ust. 1 na rzecz organizacji pozarządowych, realizujących zadania określone ustawą z dnia 24 kwietnia 2003 o działalności pożytku publicznego i o wolontariacie, właściwego związku rewizyjnego socjalnych, lub innych socjalnych.
+2. W przypadku likwidacji socjalnej, która nie korzystała ze środków Funduszu Pracy, środki określone ust. 1, dzieli się całości pomiędzy jej członków. o działalności pożytku publicznego i o wolontariacie, właściwego związku rewizyjnego socjalnych, lub innych socjalnych.
 
 **Art. 19a.** Rada Ministrów przedkłada Sejmowi i Senatowi Rzeczypospolitej Polskiej okresach trzyletnich, terminie do dnia 30 listopada, informacje o funkcjonowaniu socjalnych na podstawie danych przekazanych ministrowi właściwemu do spraw zabezpieczenia społecznego przez związki rewizyjne właściwe dla spółdzielczości socjalnej do dnia 31 grudnia roku poprzedzającego rok złożenia informacji.
 

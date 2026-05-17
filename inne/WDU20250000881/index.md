@@ -8,9 +8,12 @@ pos: 881
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 lipca 2025 r.
+# o systemie oświaty Preambuła (uchylona)
+
+*USTAWA z dnia 7 września 1991 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,36 +27,14 @@ domain: null
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/881/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o systemie oświaty
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854),
-2) ustawą z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473),
-3) ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1933),
-4) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
-5) ustawą z dnia 4 kwietnia 2025 r. o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej (Dz. U. poz. 622) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 czerwca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 35 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854), który stanowi: „Art. 35. Ustawa wchodzi w życie z dniem 1 lipca 2024 r., z wyjątkiem:
-1) art. 1 pkt 46 lit. a, pkt 47, pkt 48 lit. a oraz pkt 53, które wchodzą w życie z dniem 25 czerwca 2024 r.;
-2) art. 1 pkt 4 lit. h w zakresie dodawanego ust. 13d, pkt 10 i 33 oraz art. 7 pkt 1 lit. a, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33;
-3) art. 1 pkt 4 lit. o i p w zakresie dodawanego ust. 20c oraz art. 7 pkt 1 lit. b, pkt 2 i 3, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 34;
-4) art. 1 pkt 4 lit. b i d, pkt 7 i 43 oraz art. 9, które wchodzą w życie z dniem 1 września 2024 r.;
-5) art. 1 pkt 46 lit. b i pkt 48 lit. b, art. 5, art. 8, art. 27, art. 30 i art. 31, które wchodzą w życie z dniem 25 października 2024 r.”;
-2) art. 24, art. 62 i art. 74 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), które stanowią: „Art. 24. W 2024 r. jednorazowy zasiłek losowy na cele edukacyjne, o którym mowa w art. 5d ustawy zmienianej w art. 1, nie przysługuje dzieciom i uczniom, które otrzymały zasiłek losowy w ramach Rządowego programu pomocy dzieciom i uczniom w formie zasiłku losowego na cele edukacyjne, pomocy uczniom w formie wyjazdów terapeutyczno-edukacyjnych oraz pomocy dzieciom i uczniom w formie zajęć opiekuńczych i zajęć terapeutyczno-edukacyjnych w latach 2022–2024 przyjętego na podstawie art. 90u ust. 4 pkt 1 ustawy zmienianej w art. 7.” „Art. 62. 1. W celu zapewnienia warunków do usunięcia skutków szkód powstałych w wyniku działania intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r. w budynkach przedszkoli, innych form wychowania przedszkolnego oraz szkół i placówek prowadzonych na podstawie zezwolenia, o którym mowa w art. 88 ust. 4 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, lub umowy zawartej na podstawie art. 5 ust. 5g ustawy zmienianej w art. 7 albo art. 9 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, położonych na terenie gminy określonej w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1, mogą być:
-1) tworzone tymczasowe lokalizacje prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, podporządkowane organizacyjnie odpowiednio przedszkolu, innej formie wychowania przedszkolnego, szkole albo placówce;
-2) wyznaczone tymczasowe siedziby przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki.
-2. Tymczasowa lokalizacja lub tymczasowa siedziba, o których mowa w ust. 1, mogą funkcjonować nie dłużej niż do dnia 31 sierpnia 2026 r.
-3. O utworzeniu tymczasowej lokalizacji lub tymczasowej siedziby, o których mowa w ust. 1, decyduje organ prowadzący odpowiednio przedszkole, inną formę wychowania przedszkolnego oraz szkołę i placówkę, po zasięgnięciu opinii kuratora oświaty i za zgodą odpowiedniego organu rejestrującego, o którym mowa w art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2024 r. poz. 754).
-4. Tworzenie i likwidacja odpowiednio tymczasowej lokalizacji lub tymczasowej siedziby, o których mowa w ust. 1, nie wymaga zmiany odpowiednio zezwolenia lub umowy, o których mowa w ust. 1.” „Art. 74. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-3) art. 9 ust. 2, art. 10, art. 12–21, art. 25, art. 27 i art. 28 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1933), które stanowią:
-Art. 44zs. Egzamin ósmoklasisty jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla szkoły podstawowej, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b ustawy Prawo oświatowe, oraz sprawdza, w jakim stopniu uczeń lub słuchacz spełnia te wymagania.
+Art. 44zs. Egzamin ósmoklasisty jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla szkoły podstawowej, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b ustawy – Prawo oświatowe, oraz sprawdza, w jakim stopniu uczeń lub słuchacz spełnia te wymagania.
 Art. 44zt. Egzamin ósmoklasisty jest przeprowadzany:
 1) w terminie głównym:
-a) w szkołach dla dzieci i młodzieży oraz w szkołach dla dorosłych, w których nauka kończy się w semestrze wiosennym w maju,
-b) w szkołach dla dorosłych, w których nauka kończy się w semestrze jesiennym w styczniu, oraz
+a) w szkołach dla dzieci i młodzieży oraz w szkołach dla dorosłych, w których nauka kończy się w semestrze wiosennym – w maju,
+b) w szkołach dla dorosłych, w których nauka kończy się w semestrze jesiennym – w styczniu, oraz
 2) w terminie dodatkowym:
-a) w szkołach dla dzieci i młodzieży oraz w szkołach dla dorosłych, w których nauka kończy się w semestrze wiosennym w czerwcu,
-b) w szkołach dla dorosłych, w których nauka kończy się w semestrze jesiennym w maju zgodnie z komunikatem, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
+a) w szkołach dla dzieci i młodzieży oraz w szkołach dla dorosłych, w których nauka kończy się w semestrze wiosennym – w czerwcu,
+b) w szkołach dla dorosłych, w których nauka kończy się w semestrze jesiennym – w maju – zgodnie z komunikatem, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
 Art. 44zu. 1. Egzamin ósmoklasisty jest przeprowadzany w formie pisemnej.
 2. (uchylony)
 3. Egzamin ósmoklasisty obejmuje następujące przedmioty obowiązkowe:
@@ -85,12 +66,12 @@ Art. 44zy. 1. Rodzice ucznia lub słuchacz składają dyrektorowi szkoły, nie p
 3) rezygnacji z przystąpienia do egzaminu ósmoklasisty z matematyki w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
 Art. 44zz. 1. Uczeń lub słuchacz, który z przyczyn losowych lub zdrowotnych, w terminie głównym:
 1) nie przystąpił do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów albo
-2) przerwał egzamin ósmoklasisty z danego przedmiotu lub przedmiotów przystępuje do egzaminu z tego przedmiotu lub przedmiotów w terminie dodatkowym w szkole, której jest uczniem lub słuchaczem.
+2) przerwał egzamin ósmoklasisty z danego przedmiotu lub przedmiotów – przystępuje do egzaminu z tego przedmiotu lub przedmiotów w terminie dodatkowym w szkole, której jest uczniem lub słuchaczem.
 2. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów w terminie dodatkowym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów. Dyrektor szkoły składa wniosek w porozumieniu z rodzicami ucznia lub ze słuchaczem.
 Art. 44zza. 1. Wyniki egzaminu ósmoklasisty są przedstawiane w procentach i na skali centylowej.
 2. Wyniki egzaminu ósmoklasisty w procentach ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie:
 1) liczby punktów przyznanych przez egzaminatorów sprawdzających prace egzaminacyjne oraz
-2) elektronicznego odczytu karty odpowiedzi w przypadku wykorzystania do sprawdzania prac egzaminacyjnych narzędzi elektronicznych.
+2) elektronicznego odczytu karty odpowiedzi – w przypadku wykorzystania do sprawdzania prac egzaminacyjnych narzędzi elektronicznych.
 3. (uchylony)
 4. Wyniki egzaminu ósmoklasisty obejmują:
 1) wynik z języka polskiego;
@@ -99,26 +80,25 @@ Art. 44zza. 1. Wyniki egzaminu ósmoklasisty są przedstawiane w procentach i na
 4) (uchylony)
 5. Wyniki egzaminu ósmoklasisty na skali centylowej opracowuje Centralna Komisja Egzaminacyjna na podstawie wyników ustalonych przez dyrektorów okręgowych komisji egzaminacyjnych.
 6. (utracił moc)
-7. Wyniki egzaminu ósmoklasisty nie wpływają na ukończenie szkoły, a w przypadku szkoły artystycznej realizującej kształcenie ogólne z zakresu szkoły podstawowej, w której klasa odpowiadająca klasie VIII szkoły podstawowej nie jest ostatnią klasą w cyklu kształcenia również na promocję do klasy programowo wyższej.
+7. Wyniki egzaminu ósmoklasisty nie wpływają na ukończenie szkoły, a w przypadku szkoły artystycznej realizującej kształcenie ogólne z zakresu szkoły podstawowej, w której klasa odpowiadająca klasie VIII szkoły podstawowej nie jest ostatnią klasą w cyklu kształcenia – również na promocję do klasy programowo wyższej.
 8. Dyrektor szkoły przekazuje uczniowi lub jego rodzicom albo słuchaczowi:
-1) zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty, wydane przez okręgową komisję egzaminacyjną, w terminie określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze w przypadku gdy uczeń lub słuchacz spełnił warunki określone odpowiednio w art. 44q ust. 1, art. 44za ust. 1, art. 44zl ust. 1 lub art. 44zm ust. 1 pkt 2, albo
-2) informację o szczegółowych wynikach egzaminu ósmoklasisty, opracowaną przez okręgową komisję egzaminacyjną w przypadku gdy uczeń lub słuchacz nie spełnił warunków określonych w art. 44q ust. 1, art. 44za ust. 1, art. 44zl ust. 1 lub art. 44zm ust. 1 pkt 2.
-Art. 44zzb. Egzamin maturalny jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. c i d ustawy Prawo oświatowe, oraz sprawdza, w jakim stopniu absolwent spełnia te wymagania.
+1) zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty, wydane przez okręgową komisję egzaminacyjną, w terminie określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze – w przypadku gdy uczeń lub słuchacz spełnił warunki określone odpowiednio w art. 44q ust. 1 lub 1a, art. 44za ust. 1, art. 44zl ust. 1 lub art. 44zm ust. 1 pkt 2 lub ust. 1a pkt 2, albo
+2) informację o szczegółowych wynikach egzaminu ósmoklasisty, opracowaną przez okręgową komisję egzaminacyjną – w przypadku gdy uczeń lub słuchacz nie spełnił warunków określonych w art. 44q ust. 1 lub 1a, art. 44za ust. 1, art. 44zl ust. 1 lub art. 44zm ust. 1 pkt 2 lub ust. 1a pkt 2.
+Art. 44zzb. Egzamin maturalny jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. c i d ustawy – Prawo oświatowe, oraz sprawdza, w jakim stopniu absolwent spełnia te wymagania.
 Art. 44zzc. Egzamin maturalny jest przeprowadzany jeden raz w ciągu roku, w okresie od maja do września, w terminie głównym, dodatkowym i poprawkowym, zgodnie z komunikatem, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
 Art. 44zzd. 1. Egzamin maturalny jest przeprowadzany z przedmiotów obowiązkowych oraz przedmiotów dodatkowych i składa się z części ustnej oraz z części pisemnej.
 2. Egzamin maturalny obejmuje następujące przedmioty obowiązkowe:
 1) w części ustnej:
 a) język polski,
 b) język obcy nowożytny,
-c) język mniejszości narodowej dla absolwentów szkół lub oddziałów z nauczaniem języka danej mniejszości narodowej;
+c) język mniejszości narodowej – dla absolwentów szkół lub oddziałów z nauczaniem języka danej mniejszości narodowej;
 2) w części pisemnej:
 a) język polski,
 b) język obcy nowożytny albo język łaciński,
 c) matematykę,
-d) język mniejszości narodowej dla absolwentów szkół lub oddziałów z nauczaniem języka danej mniejszości narodowej.
+d) język mniejszości narodowej – dla absolwentów szkół lub oddziałów z nauczaniem języka danej mniejszości narodowej.
 3. Przedmioty dodatkowe, z których jest przeprowadzany egzamin maturalny w części ustnej i w części pisemnej, określają przepisy wydane na podstawie art. 44zzza.
 4. Absolwent przystępuje do egzaminu maturalnego z przedmiotów obowiązkowych oraz do części pisemnej egzaminu maturalnego z jednego przedmiotu dodatkowego.
-4a. Absolwent szkoły lub oddziału dwujęzycznego przystępuje do części pisemnej egzaminu maturalnego z języka obcego nowożytnego na poziomie dwujęzycznym, o którym mowa w art. 44zze ust. 3 pkt 2, jako przedmiotu dodatkowego, o którym mowa w ust. 4. Przepis art. 44zze ust. 4 stosuje się odpowiednio.
 4a. Absolwent szkoły lub oddziału dwujęzycznego przystępuje do części pisemnej egzaminu maturalnego z języka obcego nowożytnego, którego uczył się w szkole na poziomie dwujęzycznym i z którego jest przeprowadzany egzamin maturalny, na poziomie dwujęzycznym, o którym mowa w art. 44zze ust. 3 pkt 2, jako przedmiotu dodatkowego, o którym mowa w ust. 4. Przepis art. 44zze ust. 4 stosuje się odpowiednio.
 4b. Obowiązek przystąpienia do części pisemnej egzaminu maturalnego z jednego przedmiotu dodatkowego, o którym mowa w ust. 4, nie dotyczy absolwenta posiadającego:
 1) dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika albo
@@ -134,7 +114,6 @@ d) język mniejszości narodowej dla absolwentów szkół lub oddziałów z nauc
 8. Absolwent szkoły lub oddziału z nauczaniem języka danej mniejszości narodowej nie może wybrać języka danej mniejszości narodowej na egzaminie maturalnym z języka obcego nowożytnego jako przedmiotu obowiązkowego.
 9. W przypadku gdy absolwent wybrał na egzaminie maturalnym w części pisemnej jako przedmiot dodatkowy ten sam język obcy nowożytny lub ten sam język mniejszości narodowej, który zdawał jako przedmiot obowiązkowy, zdaje ten język tylko w części pisemnej, z zastrzeżeniem art. 44zze ust. 3 i 4.
 10. W przypadku gdy absolwent wybrał na egzaminie maturalnym jako przedmiot dodatkowy język polski, zdaje ten przedmiot tylko w części pisemnej.
-11. Wybór przedmiotu dodatkowego, do którego absolwent przystępuje na egzaminie maturalnym, nie jest zależny od typu szkoły, do której absolwent uczęszczał, ani od przedmiotów, których uczył się w tej szkole.
 11. Wybór języka obcego nowożytnego jako przedmiotu obowiązkowego i wybór przedmiotu dodatkowego, do których absolwent przystępuje na egzaminie maturalnym, nie jest zależny od typu szkoły, do której absolwent uczęszczał, ani od przedmiotów, których uczył się w tej szkole, z uwzględnieniem ust. 4a.
 Art. 44zze. 1. Egzamin maturalny w części pisemnej z przedmiotów obowiązkowych jest przeprowadzany na poziomie podstawowym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego. Dla egzaminu maturalnego w części ustnej z przedmiotów obowiązkowych nie określa się poziomu egzaminu.
 2. Egzamin maturalny w części pisemnej z przedmiotów dodatkowych jest przeprowadzany na poziomie rozszerzonym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla:
@@ -147,11 +126,8 @@ Art. 44zze. 1. Egzamin maturalny w części pisemnej z przedmiotów obowiązkowy
 1) poziomie rozszerzonym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego i rozszerzonego albo
 2) poziomie dwujęzycznym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla oddziałów dwujęzycznych.
 4. W przypadku gdy absolwent wybrał na egzaminie maturalnym w części pisemnej jako przedmiot dodatkowy język obcy nowożytny na poziomie dwujęzycznym, o którym mowa w ust. 3 pkt 2, może przystąpić do egzaminu maturalnego z tego języka na poziomie dwujęzycznym również w części ustnej.
-Art. 44zzf. 1. Absolwent szkoły lub oddziału z językiem nauczania mniejszości narodowej, mniejszości etnicznej lub językiem regionalnym, w których zajęcia są prowadzone w tych językach, oraz absolwent szkoły lub oddziału dwujęzycznego, w których język mniejszości narodowej, mniejszości etnicznej lub język regionalny jest drugim językiem nauczania, może zdawać na egzaminie maturalnym przedmioty w języku polskim lub z wyjątkiem języka polskiego oraz treści dotyczących historii Polski i geografii Polski w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
-2. Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z matematyki, zdawanej jako przedmiot obowiązkowy, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym będącym drugim językiem nauczania dodatkowe zadania egzaminacyjne przygotowane w tym języku. Dodatkowe zadania egzaminacyjne obejmują wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego.
-2. Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z matematyki, zdawanej jako przedmiot obowiązkowy, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym, którego uczył się w szkole na poziomie dwujęzycznym i z którego jest przeprowadzany egzamin maturalny, dodatkowe zadania egzaminacyjne przygotowane w tym języku.
-Dodatkowe zadania egzaminacyjne obejmują wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego.
-3. Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z przedmiotów: biologia, chemia, fizyka, geografia i historia, zdawanych jako przedmioty dodatkowe, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym będącym drugim językiem nauczania dodatkowe zadania egzaminacyjne przygotowane w tym języku. Dodatkowe zadania egzaminacyjne obejmują wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego i rozszerzonego.
+Art. 44zzf. 1. Absolwent szkoły lub oddziału z językiem nauczania mniejszości narodowej, mniejszości etnicznej lub językiem regionalnym, w których zajęcia są prowadzone w tych językach, oraz absolwent szkoły lub oddziału dwujęzycznego, w których język mniejszości narodowej, mniejszości etnicznej lub język regionalny jest drugim językiem nauczania, może zdawać na egzaminie maturalnym przedmioty w języku polskim lub – z wyjątkiem języka polskiego oraz treści dotyczących historii Polski i geografii Polski – w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
+2. Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z matematyki, zdawanej jako przedmiot obowiązkowy, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym, którego uczył się w szkole na poziomie dwujęzycznym i z którego jest przeprowadzany egzamin maturalny, dodatkowe zadania egzaminacyjne przygotowane w tym języku. Dodatkowe zadania egzaminacyjne obejmują wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego.
 3. Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z przedmiotów: biologia, chemia, fizyka, geografia i historia, zdawanych jako przedmioty dodatkowe, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym, którego uczył się w szkole na poziomie dwujęzycznym i z którego jest przeprowadzany egzamin maturalny, dodatkowe zadania egzaminacyjne przygotowane w tym języku. Dodatkowe zadania egzaminacyjne obejmują wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego i rozszerzonego.
 4. W przypadku zgłoszenia w deklaracji, o której mowa w art. 44zzi, zamiaru rozwiązywania dodatkowych zadań egzaminacyjnych, o których mowa w ust. 2 i 3, i nieprzystąpienia do rozwiązywania tych zadań, absolwent otrzymuje z dodatkowych zadań egzaminacyjnych wynik „0 %”.
 Art. 44zzg. 1. Absolwent niesłyszący jest zwolniony z części ustnej egzaminu maturalnego z języka obcego nowożytnego.
@@ -162,14 +138,14 @@ Art. 44zzh. 1. Laureat i finalista olimpiady przedmiotowej wymienionej w wykazie
 4. Laureatowi i finaliście olimpiady przedmiotowej uprawnienie wymienione w ust. 1 przysługuje także wtedy, gdy nie uczestniczyli w zajęciach edukacyjnych z danego przedmiotu w szkole.
 5. W przypadku gdy uczeń lub słuchacz uzyskał tytuł laureata lub finalisty olimpiady przedmiotowej z danego przedmiotu, w tym z danego języka obcego nowożytnego albo języka łacińskiego, przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3, na wniosek ucznia lub słuchacza, złożony nie później niż na 2 tygodnie przed terminem egzaminu maturalnego, informuje okręgową komisję egzaminacyjną o zmianie przedmiotu lub wyborze nowego przedmiotu, w tym o zmianie języka obcego nowożytnego albo języka łacińskiego, lub o zmianie poziomu egzaminu z języka obcego nowożytnego, wskazanych w deklaracji, o której mowa w art. 44zzi.
 6. Zwolnienie laureata lub finalisty olimpiady przedmiotowej z egzaminu maturalnego z:
-1) przedmiotu obowiązkowego zdawanego w części ustnej jest równoznaczne z uzyskaniem z tego przedmiotu w części ustnej egzaminu maturalnego najwyższego wyniku;
-2) przedmiotu obowiązkowego zdawanego w części pisemnej jest równoznaczne z uzyskaniem z tego przedmiotu w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie podstawowym;
-3) języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części ustnej jest równoznaczne z uzyskaniem z tego języka w części ustnej egzaminu maturalnego najwyższego wyniku, z zastrzeżeniem pkt 4;
-4) języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części ustnej na poziomie dwujęzycznym jest równoznaczne z uzyskaniem z tego języka w części ustnej egzaminu maturalnego najwyższego wyniku na poziomie dwujęzycznym;
-5) przedmiotu dodatkowego, z wyjątkiem języka obcego nowożytnego, zdawanego w części pisemnej jest równoznaczne z uzyskaniem z tego przedmiotu w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie rozszerzonym;
-6) języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części pisemnej jest równoznaczne z uzyskaniem z tego języka w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie:
+1) przedmiotu obowiązkowego zdawanego w części ustnej – jest równoznaczne z uzyskaniem z tego przedmiotu w części ustnej egzaminu maturalnego najwyższego wyniku;
+2) przedmiotu obowiązkowego zdawanego w części pisemnej – jest równoznaczne z uzyskaniem z tego przedmiotu w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie podstawowym;
+3) języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części ustnej – jest równoznaczne z uzyskaniem z tego języka w części ustnej egzaminu maturalnego najwyższego wyniku, z zastrzeżeniem pkt 4;
+4) języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części ustnej na poziomie dwujęzycznym – jest równoznaczne z uzyskaniem z tego języka w części ustnej egzaminu maturalnego najwyższego wyniku na poziomie dwujęzycznym;
+5) przedmiotu dodatkowego, z wyjątkiem języka obcego nowożytnego, zdawanego w części pisemnej – jest równoznaczne z uzyskaniem z tego przedmiotu w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie rozszerzonym;
+6) języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części pisemnej – jest równoznaczne z uzyskaniem z tego języka w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie:
 a) wskazanym w deklaracji, o której mowa w art. 44zzi,
-b) dwujęzycznym w przypadku absolwenta, o którym mowa w art. 44zzd ust. 4a.
+b) dwujęzycznym – w przypadku absolwenta, o którym mowa w art. 44zzd ust. 4a.
 Art. 44zzi. Zdający, który zamierza przystąpić do egzaminu maturalnego, składa pisemną deklarację przystąpienia do tego egzaminu.
 Art. 44zzia. Zdający, który wskazał w deklaracji, o której mowa w art. 44zzi, przedmiot dodatkowy, o którym mowa w art. 44zzd ust. 4, lub przedmioty dodatkowe, o których mowa w art. 44zzd ust. 5, oraz który spełnił warunek, o którym mowa w art. 44zzd ust. 4b, może złożyć dyrektorowi szkoły, nie później niż na 2 tygodnie przed terminem egzaminu maturalnego, pisemną informację o rezygnacji z przystąpienia do egzaminu maturalnego z tego przedmiotu dodatkowego lub tych przedmiotów dodatkowych. Dyrektor szkoły niezwłocznie przesyła tę informację do dyrektora okręgowej komisji egzaminacyjnej.
 Art. 44zzj. 1. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do egzaminu maturalnego z danego przedmiotu lub przedmiotów w części ustnej lub części pisemnej w terminie głównym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek absolwenta lub rodziców niepełnoletniego absolwenta, może wyrazić zgodę na przystąpienie przez absolwenta do egzaminu maturalnego z tego przedmiotu lub przedmiotów w terminie dodatkowym.
@@ -177,21 +153,21 @@ Art. 44zzj. 1. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliw
 3. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje wniosek, o którym mowa w ust. 1, w terminie 2 dni od dnia jego otrzymania. Rozstrzygnięcie dyrektora okręgowej komisji egzaminacyjnej jest ostateczne.
 4. Do absolwentów, którzy nie przystąpili do egzaminu maturalnego z danego przedmiotu lub przedmiotów w terminie głównym albo w terminie dodatkowym, stosuje się odpowiednio art. 44zzn.
 Art. 44zzk. 1. Wyniki egzaminu maturalnego są przedstawiane:
-1) w części ustnej w procentach;
-2) w części pisemnej w procentach i na skali centylowej, z tym że wyniki z egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3, są przedstawiane wyłącznie w procentach.
+1) w części ustnej – w procentach;
+2) w części pisemnej – w procentach i na skali centylowej, z tym że wyniki z egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3, są przedstawiane wyłącznie w procentach.
 2. Wyniki egzaminu maturalnego w procentach ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie:
-1) liczby punktów przyznanych przez zespół przedmiotowy, o którym mowa w art. 44zzs ust. 4 pkt 2 w części ustnej egzaminu maturalnego;
-2) liczby punktów przyznanych przez egzaminatorów sprawdzających prace egzaminacyjne oraz elektronicznego odczytu karty odpowiedzi w przypadku wykorzystania do sprawdzania prac egzaminacyjnych narzędzi elektronicznych w części pisemnej egzaminu maturalnego.
+1) liczby punktów przyznanych przez zespół przedmiotowy, o którym mowa w art. 44zzs ust. 4 pkt 2 – w części ustnej egzaminu maturalnego;
+2) liczby punktów przyznanych przez egzaminatorów sprawdzających prace egzaminacyjne oraz elektronicznego odczytu karty odpowiedzi w przypadku wykorzystania do sprawdzania prac egzaminacyjnych narzędzi elektronicznych – w części pisemnej egzaminu maturalnego.
 3. Wyniki części pisemnej egzaminu maturalnego z poszczególnych przedmiotów na skali centylowej opracowuje Centralna Komisja Egzaminacyjna na podstawie wyników ustalonych przez dyrektorów okręgowych komisji egzaminacyjnych.
 4. (uchylony)
 Art. 44zzl. 1. Absolwent zdał egzamin maturalny, jeżeli:
 1) z każdego przedmiotu obowiązkowego w części ustnej i w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania, oraz
-2) z co najmniej jednego przedmiotu dodatkowego w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania z zastrzeżeniem ust. 1a.
+2) z co najmniej jednego przedmiotu dodatkowego w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania – z zastrzeżeniem ust. 1a.
 1a. Absolwent, o którym mowa w art. 44zzd ust. 4b, zdał egzamin maturalny, jeżeli z każdego przedmiotu obowiązkowego w części ustnej i w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania.
 2. (uchylony)
 3. Niezdanie lub nieprzystąpienie do egzaminu maturalnego z:
 1) przedmiotu lub przedmiotów obowiązkowych w części ustnej lub w części pisemnej, albo
-2) przedmiotu lub przedmiotów dodatkowych w części ustnej lub części pisemnej nie stanowi przeszkody w przystępowaniu do egzaminu maturalnego z pozostałych przedmiotów.
+2) przedmiotu lub przedmiotów dodatkowych w części ustnej lub części pisemnej – nie stanowi przeszkody w przystępowaniu do egzaminu maturalnego z pozostałych przedmiotów.
 4. Absolwent, który zdał egzamin maturalny, otrzymuje świadectwo dojrzałości wydane przez okręgową komisję egzaminacyjną.
 5. Absolwent, który nie zdał egzaminu maturalnego, otrzymuje informację o wynikach tego egzaminu opracowaną przez okręgową komisję egzaminacyjną.
 Art. 44zzm. 1. Absolwent, który przystąpił do egzaminu maturalnego ze wszystkich przedmiotów obowiązkowych w części ustnej i w części pisemnej oraz do co najmniej jednego przedmiotu dodatkowego w części pisemnej i nie zdał egzaminu maturalnego wyłącznie z jednego przedmiotu obowiązkowego w części ustnej albo w części pisemnej albo nie zdał egzaminu z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może w tym samym roku przystąpić do egzaminu maturalnego z tego samego przedmiotu obowiązkowego odpowiednio w części ustnej albo w części pisemnej albo tego samego przedmiotu dodatkowego w części pisemnej, w terminie poprawkowym, z zastrzeżeniem ust. 1a.
@@ -203,8 +179,8 @@ Art. 44zzn. 1. Absolwent, który nie zdał egzaminu maturalnego z danego przedmi
 3. Absolwent, o którym mowa w ust. 1 i 2, ma prawo przystąpić do egzaminu maturalnego, zarówno w części ustnej, jak i w części pisemnej, z przedmiotu lub przedmiotów dodatkowych, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
 4. Absolwent, o którym mowa w ust. 1 i 2, ma prawo ponownie przystąpić do egzaminu maturalnego, zarówno w części ustnej, jak i w części pisemnej, z przedmiotu lub przedmiotów obowiązkowych, z których uzyskał wynik określony w art. 44zzl ust. 1 lub 1a, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
 5. Absolwent, o którym mowa w ust. 1, przystępujący ponownie do egzaminu maturalnego może wybrać jako przedmiot obowiązkowy:
-1) inny język obcy nowożytny niż język obcy nowożytny, który zdawał poprzednio, albo język łaciński w przypadku gdy poprzednio przystępował do egzaminu maturalnego z języka obcego nowożytnego jako przedmiotu obowiązkowego;
-2) język obcy nowożytny jeżeli poprzednio przystępował do egzaminu maturalnego z języka łacińskiego jako przedmiotu obowiązkowego.
+1) inny język obcy nowożytny niż język obcy nowożytny, który zdawał poprzednio, albo język łaciński – w przypadku gdy poprzednio przystępował do egzaminu maturalnego z języka obcego nowożytnego jako przedmiotu obowiązkowego;
+2) język obcy nowożytny – jeżeli poprzednio przystępował do egzaminu maturalnego z języka łacińskiego jako przedmiotu obowiązkowego.
 5a. W przypadku, o którym mowa w ust. 5 pkt 1, gdy absolwent, o którym mowa w ust. 1, przystępując ponownie do egzaminu maturalnego, wybierze jako przedmiot obowiązkowy język łaciński i zda ten egzamin, na świadectwie dojrzałości wpisuje się tylko wynik części pisemnej egzaminu maturalnego z języka łacińskiego.
 5b. W przypadku, o którym mowa w ust. 5 pkt 2, gdy absolwent, o którym mowa w ust. 1, przystępując ponownie do egzaminu maturalnego, wybierze jako przedmiot obowiązkowy język obcy nowożytny, przystępuje do tego egzaminu zarówno w części ustnej, jak i w części pisemnej.
 6. Absolwent, o którym mowa w ust. 1, przystępujący ponownie do egzaminu maturalnego, nie może wybrać jako przedmiotu obowiązkowego języka obcego nowożytnego, z którego poprzednio przystąpił do egzaminu maturalnego jako przedmiotu dodatkowego w części ustnej bez określania poziomu egzaminu.
@@ -217,10 +193,10 @@ Art. 44zzo. 1. Absolwent, który uzyskał świadectwo dojrzałości po zdaniu eg
 1) podwyższył wynik egzaminu maturalnego z danego przedmiotu lub przedmiotów,
 2) podwyższył wynik egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3,
 3) przystąpił do egzaminu maturalnego z przedmiotu lub przedmiotów dodatkowych, z których wcześniej nie zdawał egzaminu maturalnego,
-4) przystąpił do egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3, z których wcześniej nie zdawał egzaminu maturalnego otrzymuje aneks do świadectwa dojrzałości wydany przez okręgową komisję egzaminacyjną.
+4) przystąpił do egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3, z których wcześniej nie zdawał egzaminu maturalnego – otrzymuje aneks do świadectwa dojrzałości wydany przez okręgową komisję egzaminacyjną.
 Art. 44zzp. 1. Absolwent, który posiada:
 1) świadectwo dojrzałości uzyskane po zdaniu egzaminu dojrzałości przeprowadzanego dla absolwentów ponadpodstawowych szkół średnich,
-2) dyplom IB (International Baccalaureate) wydany przez organizację International Baccalaureate Organization w Genewie i uzyskany po zakończeniu kształcenia w oddziale międzynarodowym, o którym mowa w art. 4 pkt 12 ustawy Prawo oświatowe ma prawo przystąpić do egzaminu maturalnego, w części pisemnej albo w części pisemnej i w części ustnej, z wybranego przedmiotu albo wybranych przedmiotów, z których jest przeprowadzany egzamin maturalny, zgodnie z przepisami obowiązującymi w roku, w którym przystępuje do egzaminu maturalnego.
+2) dyplom IB (International Baccalaureate) wydany przez organizację International Baccalaureate Organization w Genewie i uzyskany po zakończeniu kształcenia w oddziale międzynarodowym, o którym mowa w art. 4 pkt 12 ustawy – Prawo oświatowe – ma prawo przystąpić do egzaminu maturalnego, w części pisemnej albo w części pisemnej i w części ustnej, z wybranego przedmiotu albo wybranych przedmiotów, z których jest przeprowadzany egzamin maturalny, zgodnie z przepisami obowiązującymi w roku, w którym przystępuje do egzaminu maturalnego.
 2. Absolwent, o którym mowa w ust. 1, otrzymuje zaświadczenie o wynikach egzaminu maturalnego z przedmiotu lub przedmiotów, do których przystąpił, wydane przez okręgową komisję egzaminacyjną.
 3. Absolwent, o którym mowa w ust. 1, ma prawo ponownie przystąpić do egzaminu maturalnego w części ustnej albo w części pisemnej, albo w obu tych częściach, z tych samych przedmiotów, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego. Absolwent, który podwyższył wynik egzaminu maturalnego z danego przedmiotu lub przedmiotów, otrzymuje zaświadczenie o wynikach egzaminu maturalnego z przedmiotu lub przedmiotów, do których przystąpił, wydane przez okręgową komisję egzaminacyjną.
 Art. 44zzq. 1. Egzamin maturalny z każdego przedmiotu obowiązkowego i przedmiotu dodatkowego, zarówno w części ustnej, jak i w części pisemnej, jest odpłatny dla:
@@ -239,9 +215,9 @@ Art. 44zzr. 1. Uczeń lub absolwent posiadający orzeczenie o potrzebie kształc
 4. Uczeń, słuchacz albo absolwent chory lub niesprawny czasowo może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach odpowiednich ze względu na jego stan zdrowia, na podstawie zaświadczenia o stanie zdrowia wydanego przez lekarza.
 5. Uczeń, słuchacz albo absolwent posiadający opinię poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, o specyficznych trudnościach w uczeniu się, wydaną zgodnie z przepisami wydanymi na podstawie art. 44zb, może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z rodzaju tych trudności, na podstawie tej opinii.
 6. Uczeń, słuchacz albo absolwent, który w roku szkolnym, w którym przystępuje do egzaminu ósmoklasisty lub egzaminu maturalnego, był objęty pomocą psychologiczno-pedagogiczną w szkole ze względu na trudności adaptacyjne związane z wcześniejszym kształceniem za granicą, zaburzenia komunikacji językowej lub sytuację kryzysową lub traumatyczną, może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających odpowiednio z rodzaju tych trudności, zaburzeń lub sytuacji kryzysowej lub traumatycznej, na podstawie pozytywnej opinii rady pedagogicznej.
-7. Uczeń albo absolwent, o którym mowa w art. 165 ust. 1 i 2 ustawy Prawo oświatowe, któremu ograniczona znajomość języka polskiego utrudnia zrozumienie czytanego tekstu, może przystąpić do:
+7. Uczeń albo absolwent, o którym mowa w art. 165 ust. 1 i 2 ustawy – Prawo oświatowe, któremu ograniczona znajomość języka polskiego utrudnia zrozumienie czytanego tekstu, może przystąpić do:
 1) egzaminu ósmoklasisty, z wyjątkiem egzaminu ósmoklasisty z języka obcego nowożytnego w warunkach i formie dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z tego ograniczenia, na podstawie pozytywnej opinii rady pedagogicznej;
-2) egzaminu maturalnego, z wyjątkiem egzaminu maturalnego z języka obcego nowożytnego, języka łacińskiego, języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z tego ograniczenia, na podstawie pozytywnej opinii rady pedagogicznej.
+2) egzaminu maturalnego, z wyjątkiem egzaminu maturalnego z języka obcego nowożytnego, języka łacińskiego, języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego – w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z tego ograniczenia, na podstawie pozytywnej opinii rady pedagogicznej.
 8. Dostosowanie formy egzaminu ósmoklasisty i egzaminu maturalnego, o którym mowa w ust. 1, polega na przygotowaniu odrębnych arkuszy egzaminacyjnych dostosowanych do rodzaju niepełnosprawności ucznia lub absolwenta niepełnosprawnego, z tym że nie przygotowuje się odrębnych arkuszy egzaminacyjnych dla absolwentów posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu lekkim.
 9. Dostosowanie formy egzaminu ósmoklasisty, o którym mowa w ust. 7 pkt 1, polega na przygotowaniu odrębnych arkuszy egzaminacyjnych dostosowanych do potrzeb ucznia, któremu ograniczona znajomość języka polskiego utrudnia zrozumienie czytanego tekstu.
 10. Dostosowanie warunków przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, o których mowa w ust. 1–7, polega odpowiednio na:
@@ -253,15 +229,16 @@ Art. 44zzr. 1. Uczeń lub absolwent posiadający orzeczenie o potrzebie kształc
 6) zapewnieniu obecności i pomocy w czasie egzaminu ósmoklasisty i egzaminu maturalnego nauczyciela wspomagającego ucznia lub absolwenta w czytaniu lub pisaniu lub specjalisty odpowiednio z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, jeżeli jest to niezbędne do uzyskania właściwego kontaktu z uczniem lub absolwentem lub pomocy w obsłudze sprzętu specjalistycznego, aplikacji mobilnej służącej do monitorowania stanu zdrowia ucznia lub absolwenta i środków dydaktycznych.
 11. Dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 2–6, nie przygotowuje się odrębnych arkuszy egzaminacyjnych.
 12. Rada pedagogiczna, spośród możliwych sposobów dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje sposób lub sposoby dostosowania warunków lub formy przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–7.
-13. Dyrektor szkoły lub upoważniony przez niego nauczyciel informuje na piśmie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodziców, o wskazanych sposobach dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego do jego potrzeb edukacyjnych i możliwości psychofizycznych.
-14. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzice, składają oświadczenie o korzystaniu albo niekorzystaniu ze wskazanych sposobów dostosowania, o których mowa w ust. 13, w terminie 3 dni roboczych od dnia otrzymania informacji, o której mowa w ust. 13.
+13. Dyrektor szkoły lub upoważniony przez niego nauczyciel informuje na piśmie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców, o wskazanych sposobach dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego do jego potrzeb edukacyjnych i możliwości psychofizycznych.
+14. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, składają oświadczenie o korzystaniu albo niekorzystaniu ze wskazanych sposobów dostosowania, o których mowa w ust. 13, w terminie 3 dni roboczych od dnia otrzymania informacji, o której mowa w ust. 13.
 15. W przypadku absolwenta, o którym mowa w ust. 4 i 5, który ukończył szkołę we wcześniejszych latach, sposób lub sposoby dostosowania warunków przeprowadzania egzaminu maturalnego do potrzeb i możliwości absolwenta, spośród możliwych sposobów dostosowania warunków przeprowadzania egzaminu maturalnego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3. Przepisy ust. 13 i 14 stosuje się odpowiednio.
 16. Przystąpienie do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach i formie dostosowanych do potrzeb i możliwości ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–7, zapewnia przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3.
 17. W szczególnych przypadkach losowych lub zdrowotnych dyrektor szkoły, na wniosek rady pedagogicznej, może wystąpić do dyrektora okręgowej komisji egzaminacyjnej z wnioskiem o wyrażenie zgody na przystąpienie ucznia, słuchacza albo absolwenta do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, nieujętych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie.
 Art. 44zzra. (uchylony)
 Art. 44zzs. 1. Za organizację i przebieg egzaminu ósmoklasisty lub egzaminu maturalnego w danej szkole odpowiada dyrektor tej szkoły.
 2. Do przeprowadzenia egzaminu ósmoklasisty lub egzaminu maturalnego w danej szkole dyrektor szkoły powołuje zespół egzaminacyjny.
-3. Dyrektor szkoły jest przewodniczącym zespołu egzaminacyjnego. W przypadku choroby przewodniczącego zespołu egzaminacyjnego lub innych ważnych przyczyn uniemożliwiających jego udział w egzaminie ósmoklasisty lub egzaminie maturalnym albo wynikających z konieczności zapewnienia właściwej organizacji tych egzaminów, przewodniczącym zespołu egzaminacyjnego może być osoba wskazana przez dyrektora okręgowej komisji egzaminacyjnej.
+3. Dyrektor szkoły jest przewodniczącym zespołu egzaminacyjnego.
+W przypadku choroby przewodniczącego zespołu egzaminacyjnego lub innych ważnych przyczyn uniemożliwiających jego udział w egzaminie ósmoklasisty lub egzaminie maturalnym albo wynikających z konieczności zapewnienia właściwej organizacji tych egzaminów, przewodniczącym zespołu egzaminacyjnego może być osoba wskazana przez dyrektora okręgowej komisji egzaminacyjnej.
 4. Przewodniczący zespołu egzaminacyjnego, spośród członków zespołu egzaminacyjnego, powołuje odpowiednio:
 1) zespoły nadzorujące przebieg egzaminu ósmoklasisty lub części pisemnej egzaminu maturalnego w poszczególnych salach egzaminacyjnych oraz wyznacza przewodniczących tych zespołów;
 2) zespoły przedmiotowe do przeprowadzenia części ustnej egzaminu maturalnego z poszczególnych przedmiotów oraz wyznacza przewodniczących tych zespołów.
@@ -271,7 +248,7 @@ Art. 44zzs. 1. Za organizację i przebieg egzaminu ósmoklasisty lub egzaminu ma
 3) zapewnia warunki do samodzielnej pracy uczniów, słuchaczy i absolwentów podczas odpowiednio egzaminu ósmoklasisty lub egzaminu maturalnego;
 4) zabezpiecza przed nieuprawnionym ujawnieniem materiały egzaminacyjne niezbędne do przeprowadzenia egzaminu ósmoklasisty lub egzaminu maturalnego od momentu odbioru materiałów egzaminacyjnych do momentu ich przekazania dyrektorowi okręgowej komisji egzaminacyjnej.
 6. Przebieg egzaminu ósmoklasisty i egzaminu maturalnego jest dokumentowany w protokołach tych egzaminów.
-Art. 44zzsa. 30) 1. W przeprowadzaniu egzaminu maturalnego z informatyki może brać udział operator pracowni informatycznej.
+Art. 44zzsa. 1. W przeprowadzaniu egzaminu maturalnego z informatyki może brać udział operator pracowni informatycznej.
 2. Operatorem pracowni informatycznej może być nauczyciel lub osoba pełnoletnia niebędąca nauczycielem i niebędąca uczniem szkoły, w której jest przeprowadzany egzamin maturalny, posiadający kwalifikacje lub umiejętności właściwe dla wykonania zadań, o których mowa w ust. 3, wskazani przez dyrektora szkoły.
 3. Do zadań operatora pracowni informatycznej należy:
 1) przygotowanie wyposażenia stanowisk komputerowych, w tym w materiały i przybory pomocnicze oraz systemy operacyjne, programy użytkowe i języki programowania, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie;
@@ -294,21 +271,21 @@ Art. 44zzu. 1. Prace egzaminacyjne uczniów, słuchaczy albo absolwentów sprawd
 Art. 44zzv. W przypadku:
 1) stwierdzenia niesamodzielnego rozwiązywania zadań przez ucznia, słuchacza albo absolwenta lub
 2) wniesienia lub korzystania przez ucznia, słuchacza albo absolwenta w sali egzaminacyjnej z materiałów lub przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, albo z urządzenia telekomunikacyjnego, z zastrzeżeniem art. 44zzt ust. 2a, lub
-3) zakłócania przez ucznia, słuchacza albo absolwenta prawidłowego przebiegu egzaminu ósmoklasisty z danego przedmiotu albo części ustnej lub części pisemnej egzaminu maturalnego, w sposób utrudniający pracę pozostałym uczniom, słuchaczom albo absolwentom przewodniczący zespołu egzaminacyjnego przerywa i unieważnia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzamin ósmoklasisty z danego przedmiotu albo egzamin maturalny z danego przedmiotu odpowiednio w części ustnej lub w części pisemnej. Informację o przerwaniu i unieważnieniu zamieszcza się w protokole przebiegu odpowiednio egzaminu ósmoklasisty i egzaminu maturalnego.
+3) zakłócania przez ucznia, słuchacza albo absolwenta prawidłowego przebiegu egzaminu ósmoklasisty z danego przedmiotu albo części ustnej lub części pisemnej egzaminu maturalnego, w sposób utrudniający pracę pozostałym uczniom, słuchaczom albo absolwentom – przewodniczący zespołu egzaminacyjnego przerywa i unieważnia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzamin ósmoklasisty z danego przedmiotu albo egzamin maturalny z danego przedmiotu odpowiednio w części ustnej lub w części pisemnej. Informację o przerwaniu i unieważnieniu zamieszcza się w protokole przebiegu odpowiednio egzaminu ósmoklasisty i egzaminu maturalnego.
 Art. 44zzw. 1. W przypadku stwierdzenia podczas sprawdzania pracy egzaminacyjnej przez egzaminatora:
 1) niesamodzielnego rozwiązania zadania lub zadań przez ucznia, słuchacza albo absolwenta,
-2) występowania w pracy egzaminacyjnej ucznia, słuchacza albo absolwenta jednakowych sformułowań wskazujących na udostępnienie rozwiązań innemu uczniowi, słuchaczowi albo absolwentowi lub korzystanie z rozwiązań innego ucznia, słuchacza albo absolwenta dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzicom, pisemną informację o zamiarze unieważnienia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzaminu ósmoklasisty z danego przedmiotu albo egzaminu maturalnego z danego przedmiotu w części pisemnej. Dyrektor szkoły niezwłocznie przekazuje tę informację uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzicom.
-2. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzice, mają prawo złożyć wniosek o wgląd do dokumentacji, na podstawie której dyrektor okręgowej komisji egzaminacyjnej zamierza unieważnić odpowiednio egzamin ósmoklasisty z danego przedmiotu albo egzamin maturalny z danego przedmiotu w części pisemnej. Wniosek składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia otrzymania pisemnej informacji, o której mowa w ust. 1.
-3. W terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 2, dyrektor okręgowej komisji egzaminacyjnej umożliwia uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzicom, zapoznanie się z dokumentacją oraz złożenie wyjaśnień, we wskazanym miejscu i czasie.
+2) występowania w pracy egzaminacyjnej ucznia, słuchacza albo absolwenta jednakowych sformułowań wskazujących na udostępnienie rozwiązań innemu uczniowi, słuchaczowi albo absolwentowi lub korzystanie z rozwiązań innego ucznia, słuchacza albo absolwenta – dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, pisemną informację o zamiarze unieważnienia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzaminu ósmoklasisty z danego przedmiotu albo egzaminu maturalnego z danego przedmiotu w części pisemnej. Dyrektor szkoły niezwłocznie przekazuje tę informację uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom.
+2. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mają prawo złożyć wniosek o wgląd do dokumentacji, na podstawie której dyrektor okręgowej komisji egzaminacyjnej zamierza unieważnić odpowiednio egzamin ósmoklasisty z danego przedmiotu albo egzamin maturalny z danego przedmiotu w części pisemnej. Wniosek składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia otrzymania pisemnej informacji, o której mowa w ust. 1.
+3. W terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 2, dyrektor okręgowej komisji egzaminacyjnej umożliwia uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, zapoznanie się z dokumentacją oraz złożenie wyjaśnień, we wskazanym miejscu i czasie.
 4. Dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu odpowiednio egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej, w terminie 14 dni od dnia:
 1) otrzymania wniosku, o którym mowa w ust. 2, albo
 2) upływu terminu do złożenia wniosku, o którym mowa w ust. 2.
-5. Dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzicom, pisemną informację o unieważnieniu odpowiednio egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej, wraz z uzasadnieniem.
-6. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzice, w terminie 3 dni roboczych od dnia otrzymania informacji o unieważnieniu, o której mowa w ust. 5, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
-7. Zastrzeżenia, o których mowa w ust. 6, wraz z dokumentacją niezbędną do ich rozpatrzenia, dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodziców.
+5. Dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, pisemną informację o unieważnieniu odpowiednio egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej, wraz z uzasadnieniem.
+6. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, w terminie 3 dni roboczych od dnia otrzymania informacji o unieważnieniu, o której mowa w ust. 5, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
+7. Zastrzeżenia, o których mowa w ust. 6, wraz z dokumentacją niezbędną do ich rozpatrzenia, dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców.
 8. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 6, w terminie 7 dni od dnia otrzymania zastrzeżeń wraz z dokumentacją niezbędną do ich rozpatrzenia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
-9. W przypadku braku możliwości przekazania uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzicom, pisemnej informacji, o której mowa w ust. 1, dyrektor szkoły niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania informacji od dyrektora szkoły, rozstrzyga o unieważnieniu egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, pisemną informację o tym unieważnieniu wraz z uzasadnieniem uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzicom. Przepisy ust. 2 i 3 stosuje się odpowiednio.
-10. W przypadku, o którym mowa w ust. 9, uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzice, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 dni roboczych od dnia:
+9. W przypadku braku możliwości przekazania uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, pisemnej informacji, o której mowa w ust. 1, dyrektor szkoły niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania informacji od dyrektora szkoły, rozstrzyga o unieważnieniu egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, pisemną informację o tym unieważnieniu wraz z uzasadnieniem uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+10. W przypadku, o którym mowa w ust. 9, uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 dni roboczych od dnia:
 1) otrzymania informacji o unieważnieniu, o której mowa w ust. 9, albo
 2) zapoznania się z dokumentacją oraz złożenia wyjaśnień, o których mowa w ust. 2 i 3.
 11. Do zastrzeżeń, o których mowa w ust. 10, przepisy ust. 7 i 8 stosuje się odpowiednio.
@@ -318,29 +295,29 @@ Art. 44zzw. 1. W przypadku stwierdzenia podczas sprawdzania pracy egzaminacyjnej
 15. Uczeń lub słuchacz, któremu unieważniono egzamin ósmoklasisty z danego przedmiotu, przystępuje ponownie do egzaminu ósmoklasisty z tego przedmiotu w dodatkowym terminie w szkole, której jest uczniem lub słuchaczem.
 16. W przypadku unieważnienia egzaminu maturalnego danego absolwenta z przedmiotu dodatkowego, o którym mowa w art. 44zzd ust. 5 i 5a, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu maturalnego z tego przedmiotu dodatkowego jako „0 %”.
 Art. 44zzx. W przypadku unieważnienia z przyczyn, o których mowa w art. 44zzv lub art. 44zzw ust. 1, egzaminu ósmoklasisty z danego przedmiotu, przeprowadzonego w terminie dodatkowym, w sytuacjach określonych w art. 44zz ust. 1 i art. 44zzw ust. 15, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu ósmoklasisty z danego przedmiotu jako „0 %”.
-Art. 44zzy. 1. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzice, mogą, w terminie 2 dni roboczych od dnia przeprowadzenia egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części ustnej lub części pisemnej, zgłosić zastrzeżenia wraz z uzasadnieniem do dyrektora okręgowej komisji egzaminacyjnej, jeżeli uznają, że w trakcie egzaminu zostały naruszone przepisy dotyczące jego przeprowadzania.
+Art. 44zzy. 1. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą, w terminie 2 dni roboczych od dnia przeprowadzenia egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części ustnej lub części pisemnej, zgłosić zastrzeżenia wraz z uzasadnieniem do dyrektora okręgowej komisji egzaminacyjnej, jeżeli uznają, że w trakcie egzaminu zostały naruszone przepisy dotyczące jego przeprowadzania.
 2. W przypadku zgłoszenia zastrzeżeń, o których mowa w ust. 1, do egzaminu maturalnego z danego przedmiotu w części ustnej dyrektor okręgowej komisji egzaminacyjnej zwraca się do przewodniczącego zespołu egzaminacyjnego o przedstawienie wyjaśnień dotyczących wniesionego zastrzeżenia.
-3. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 1, w terminie 7 dni od dnia ich otrzymania i informuje pisemnie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodziców, o wyniku rozstrzygnięcia.
-4. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzice, w terminie 3 dni roboczych od dnia otrzymania informacji o wyniku rozstrzygnięcia, o której mowa w ust. 3, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
-5. Zastrzeżenia, o których mowa w ust. 4, wraz z dokumentacją niezbędną do ich rozpatrzenia dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodziców.
+3. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 1, w terminie 7 dni od dnia ich otrzymania i informuje pisemnie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców, o wyniku rozstrzygnięcia.
+4. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, w terminie 3 dni roboczych od dnia otrzymania informacji o wyniku rozstrzygnięcia, o której mowa w ust. 3, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
+5. Zastrzeżenia, o których mowa w ust. 4, wraz z dokumentacją niezbędną do ich rozpatrzenia dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców.
 6. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 4, w terminie 7 dni od dnia ich wniesienia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
 7. W przypadku stwierdzenia naruszenia przepisów dotyczących przeprowadzania egzaminu ósmoklasisty lub egzaminu maturalnego, na skutek zastrzeżeń, o których mowa w ust. 1, lub z urzędu, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, może unieważnić egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części ustnej lub części pisemnej i zarządzić ich ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik tego egzaminu.
 8. W przypadku, o którym mowa w ust. 6, dyrektor Centralnej Komisji Egzaminacyjnej może unieważnić egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części ustnej lub części pisemnej i zarządzić ich ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik egzaminu. O rozstrzygnięciu w sprawie unieważnienia dyrektor Centralnej Komisji Egzaminacyjnej informuje dyrektora okręgowej komisji egzaminacyjnej.
 9. W przypadkach, o których mowa w ust. 7 i 8, unieważnienie może nastąpić w stosunku do wszystkich uczniów, słuchaczy albo absolwentów, uczniów, słuchaczy albo absolwentów w poszczególnych szkołach, a także w stosunku do poszczególnych uczniów, słuchaczy albo absolwentów.
 10. W przypadku niemożności ustalenia wyników egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej z powodu zaginięcia lub zniszczenia prac egzaminacyjnych, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, unieważnia egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części pisemnej danego ucznia, słuchacza albo absolwenta i zarządza jego ponowne przeprowadzenie.
 11. Termin ponownego egzaminu ósmoklasisty lub egzaminu maturalnego ustala dyrektor Centralnej Komisji Egzaminacyjnej.
-Art. 44zzz. 1. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzice, mają prawo wglądu do sprawdzonej i ocenionej pracy egzaminacyjnej tego ucznia, słuchacza albo absolwenta, w miejscu i czasie wskazanym przez dyrektora okręgowej komisji egzaminacyjnej, w terminie 6 miesięcy od dnia wydania przez okręgową komisję egzaminacyjną:
+Art. 44zzz. 1. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mają prawo wglądu do sprawdzonej i ocenionej pracy egzaminacyjnej tego ucznia, słuchacza albo absolwenta, w miejscu i czasie wskazanym przez dyrektora okręgowej komisji egzaminacyjnej, w terminie 6 miesięcy od dnia wydania przez okręgową komisję egzaminacyjną:
 1) zaświadczenia, o którym mowa w art. 44zza ust. 8 pkt 1;
 2) świadectwa dojrzałości, o którym mowa w art. 44zzl ust. 4;
 3) aneksu do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2;
 4) zaświadczenia, o którym mowa w art. 44zzp ust. 2;
-5) informacji o szczegółowych wynikach egzaminu ósmoklasisty albo informacji o wynikach egzaminu maturalnego w przypadkach, o których mowa odpowiednio w art. 44zza ust. 8 pkt 2 i art. 44zzl ust. 5.
-2. Podczas dokonywania wglądu, o którym mowa w ust. 1, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzicom, zapewnia się możliwość zapoznania się z zasadami oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
-2a. Podczas dokonywania wglądu, o którym mowa w ust. 1, uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzice, mogą sporządzać notatki i wykonywać fotografie pracy egzaminacyjnej.
-3. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodzice, mogą zwrócić się z wnioskiem o weryfikację sumy punktów, o których mowa w art. 44zza ust. 2 lub art. 44zzk ust. 2. Wniosek wraz z uzasadnieniem składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia dokonania wglądu.
-4. Weryfikacji sumy punktów dokonuje się w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
-Dyrektor okręgowej komisji egzaminacyjnej do weryfikacji sumy punktów wyznacza egzaminatora wpisanego do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, innego niż egzaminator, który sprawdzał i oceniał pracę egzaminacyjną, której dotyczy wniosek, o którym mowa w ust. 3.
-5. Dyrektor okręgowej komisji egzaminacyjnej informuje pisemnie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta jego rodziców, o wyniku weryfikacji sumy punktów, w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
+5) informacji o szczegółowych wynikach egzaminu ósmoklasisty albo informacji o wynikach egzaminu maturalnego – w przypadkach, o których mowa odpowiednio w art. 44zza ust. 8 pkt 2 i art. 44zzl ust. 5.
+2. Podczas dokonywania wglądu, o którym mowa w ust. 1, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, zapewnia się możliwość zapoznania się z zasadami oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
+2a. Podczas dokonywania wglądu, o którym mowa w ust. 1, uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą sporządzać notatki i wykonywać fotografie pracy egzaminacyjnej.
+3. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą zwrócić się z wnioskiem o weryfikację sumy punktów, o których mowa w art. 44zza ust. 2 lub art. 44zzk ust. 2.
+Wniosek wraz z uzasadnieniem składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia dokonania wglądu.
+4. Weryfikacji sumy punktów dokonuje się w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3. Dyrektor okręgowej komisji egzaminacyjnej do weryfikacji sumy punktów wyznacza egzaminatora wpisanego do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, innego niż egzaminator, który sprawdzał i oceniał pracę egzaminacyjną, której dotyczy wniosek, o którym mowa w ust. 3.
+5. Dyrektor okręgowej komisji egzaminacyjnej informuje pisemnie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców, o wyniku weryfikacji sumy punktów, w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
 6. Jeżeli w wyniku przeprowadzonej weryfikacji suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowe wyniki odpowiednio:
 1) egzaminu ósmoklasisty oraz anuluje dotychczasowe zaświadczenie, o którym mowa w art. 44zza ust. 8 pkt 1, i wydaje nowe zaświadczenie;
 2) egzaminu maturalnego oraz:
@@ -370,7 +347,7 @@ Przepis ust. 6 pkt 2 stosuje się odpowiednio.
 20. Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje niezwłocznie informację o rozstrzygnięciu i treść uzasadnienia, o których mowa w ust. 18, dyrektorowi okręgowej komisji egzaminacyjnej oraz absolwentowi, który wniósł odwołanie.
 21. Jeżeli w wyniku:
 1) rozstrzygnięcia, o którym mowa w ust. 18, lub
-2) uwzględnienia w części odwołania, o którym mowa w ust. 11 suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik części pisemnej egzaminu maturalnego. Przepis ust. 6 pkt 2 stosuje się odpowiednio.
+2) uwzględnienia w części odwołania, o którym mowa w ust. 11 – suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik części pisemnej egzaminu maturalnego. Przepis ust. 6 pkt 2 stosuje się odpowiednio.
 Art. 44zzza. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, w tym:
 1) wykaz języków obcych nowożytnych, z których jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny,
 2) wykaz przedmiotów dodatkowych, z których jest przeprowadzany egzamin maturalny, wraz ze wskazaniem zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla jednego lub dwóch przedmiotów, na podstawie których jest przeprowadzany egzamin maturalny z danego przedmiotu dodatkowego,
@@ -384,7 +361,7 @@ Art. 44zzza. Minister właściwy do spraw oświaty i wychowania określi, w drod
 10) czas trwania, sposób organizacji i przeprowadzania egzaminu ósmoklasisty z poszczególnych przedmiotów oraz części ustnej i części pisemnej egzaminu maturalnego z danego przedmiotu, sposób postępowania w sytuacjach zagrożenia lub nagłego zakłócenia przebiegu egzaminu ósmoklasisty i egzaminu maturalnego, przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego w miejscu innym niż szkoła ze względu na stan zdrowia ucznia, słuchacza lub jego niepełnosprawność,
 11) termin przechowywania prac uczniów, słuchaczy i absolwentów oraz dokumentacji egzaminu ósmoklasisty i egzaminu maturalnego,
 12) osoby, które nie wchodzą w skład zespołu egzaminacyjnego i nie biorą udziału w przeprowadzaniu egzaminu ósmoklasisty i egzaminu maturalnego, które mogą przebywać w sali egzaminacyjnej podczas tych egzaminów, w tym osoby, które mogą występować w charakterze obserwatorów podczas egzaminu ósmoklasisty i egzaminu maturalnego,
-13) wysokość opłat pobieranych za egzamin maturalny w przypadkach określonych w art. 44zzq ust. 1 oraz tryb i termin złożenia wniosku o zwolnienie z opłaty za egzamin maturalny z uwzględnieniem konieczności zapewnienia właściwej organizacji i przebiegu oraz właściwego dokumentowania egzaminu ósmoklasisty i egzaminu maturalnego, zapewnienia w składzie zespołów, o których mowa w art. 44zzs ust. 4, co najmniej jednej osoby zatrudnionej w innej szkole lub w placówce, zapewnienia możliwości wglądu, o którym mowa w art. 44zzz ust. 1, oraz że egzamin maturalny w części pisemnej z przedmiotu dodatkowego w przypadku, o którym mowa w art. 44zze ust. 2 pkt 3, będzie dotyczył przedmiotów należących do tej samej lub zbliżonej dziedziny nauk, a także że wysokość opłaty za dany egzamin maturalny nie może być wyższa niż średni koszt przeprowadzania egzaminu maturalnego z poszczególnych przedmiotów w części pisemnej.
+13) wysokość opłat pobieranych za egzamin maturalny w przypadkach określonych w art. 44zzq ust. 1 oraz tryb i termin złożenia wniosku o zwolnienie z opłaty za egzamin maturalny – z uwzględnieniem konieczności zapewnienia właściwej organizacji i przebiegu oraz właściwego dokumentowania egzaminu ósmoklasisty i egzaminu maturalnego, zapewnienia w składzie zespołów, o których mowa w art. 44zzs ust. 4, co najmniej jednej osoby zatrudnionej w innej szkole lub w placówce, zapewnienia możliwości wglądu, o którym mowa w art. 44zzz ust. 1, oraz że egzamin maturalny w części pisemnej z przedmiotu dodatkowego w przypadku, o którym mowa w art. 44zze ust. 2 pkt 3, będzie dotyczył przedmiotów należących do tej samej lub zbliżonej dziedziny nauk, a także że wysokość opłaty za dany egzamin maturalny nie może być wyższa niż średni koszt przeprowadzania egzaminu maturalnego z poszczególnych przedmiotów w części pisemnej.
 Art. 44zzzb. 1. Egzamin zawodowy jest formą oceny poziomu opanowania przez osoby, o których mowa w ust. 3, wiadomości i umiejętności z zakresu jednej kwalifikacji wyodrębnionej w zawodzie, ustalonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
 2. Egzamin zawodowy jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
 3. Do egzaminu zawodowego:
@@ -393,9 +370,9 @@ Art. 44zzzb. 1. Egzamin zawodowy jest formą oceny poziomu opanowania przez osob
 3) mogą przystąpić absolwenci branżowych szkół I stopnia, branżowych szkół II stopnia, techników i szkół policealnych oraz absolwenci szkół ponadgimnazjalnych: zasadniczych szkół zawodowych i techników,
 4) mogą przystąpić osoby, które ukończyły kwalifikacyjny kurs zawodowy,
 5) mogą przystąpić osoby, które ukończyły staż, o którym mowa w art. 119 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), jeżeli program stażu uwzględniał wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego,
-6) mogą przystąpić osoby spełniające warunki dopuszczenia do egzaminu eksternistycznego zawodowego określone w przepisach wydanych na podstawie art. 10 ust. 5 zwane dalej „zdającymi”.
+6) mogą przystąpić osoby spełniające warunki dopuszczenia do egzaminu eksternistycznego zawodowego określone w przepisach wydanych na podstawie art. 10 ust. 5 – zwane dalej „zdającymi”.
 4. Dyrektor szkoły, o której mowa w ust. 3 pkt 1, informuje uczniów i słuchaczy o obowiązku przystąpienia do egzaminu zawodowego odpowiednio w danym roku szkolnym lub danym semestrze.
-Art. 44zzzc. 1. Egzamin zawodowy jest przeprowadzany w ciągu całego roku szkolnego, a w przypadku części praktycznej tego egzaminu w szczególności w okresie ferii letnich lub zimowych, w terminach ustalonych przez dyrektora okręgowej komisji egzaminacyjnej, na podstawie harmonogramu ogłoszonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
+Art. 44zzzc. 1. Egzamin zawodowy jest przeprowadzany w ciągu całego roku szkolnego, a w przypadku części praktycznej tego egzaminu – w szczególności w okresie ferii letnich lub zimowych, w terminach ustalonych przez dyrektora okręgowej komisji egzaminacyjnej, na podstawie harmonogramu ogłoszonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
 2. Termin egzaminu zawodowego dyrektor okręgowej komisji egzaminacyjnej ogłasza na stronie internetowej okręgowej komisji egzaminacyjnej, nie później niż na 5 miesięcy przed terminem egzaminu zawodowego.
 Art. 44zzzd. 1. Egzamin zawodowy składa się z części pisemnej i części praktycznej.
 1a. (uchylony) 1b. (uchylony)
@@ -424,66 +401,65 @@ Art. 44zzzf. 1. Uczeń, słuchacz albo absolwent posiadający orzeczenie o potrz
 5) zapewnieniu obecności i pomocy w czasie egzaminu zawodowego specjalisty odpowiednio z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, jeżeli jest to niezbędne do uzyskania właściwego kontaktu z uczniem lub absolwentem lub pomocy w obsłudze sprzętu specjalistycznego, aplikacji mobilnej służącej do monitorowania stanu zdrowia ucznia lub absolwenta i środków dydaktycznych.
 9. Dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 2–6, nie przygotowuje się odrębnych arkuszy egzaminacyjnych.
 10. Rada pedagogiczna, spośród możliwych sposobów dostosowania warunków i form przeprowadzania egzaminu zawodowego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje sposób lub sposoby dostosowania warunków lub formy przeprowadzania egzaminu zawodowego dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–6.
-11. Dyrektor szkoły lub upoważniony przez niego nauczyciel informuje na piśmie ucznia, słuchacza, a w przypadku niepełnoletniego ucznia lub słuchacza jego rodziców, albo absolwenta o wskazanych sposobach dostosowania warunków i form przeprowadzania egzaminu zawodowego do jego potrzeb edukacyjnych i możliwości psychofizycznych.
-12. Uczeń, słuchacz, a w przypadku niepełnoletniego ucznia lub słuchacza jego rodzice, albo absolwent składają oświadczenie o korzystaniu albo niekorzystaniu ze wskazanych sposobów dostosowania, o których mowa w ust. 11, w terminie 3 dni roboczych od dnia otrzymania informacji, o której mowa w ust. 11.
+11. Dyrektor szkoły lub upoważniony przez niego nauczyciel informuje na piśmie ucznia, słuchacza, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodziców, albo absolwenta o wskazanych sposobach dostosowania warunków i form przeprowadzania egzaminu zawodowego do jego potrzeb edukacyjnych i możliwości psychofizycznych.
+12. Uczeń, słuchacz, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodzice, albo absolwent składają oświadczenie o korzystaniu albo niekorzystaniu ze wskazanych sposobów dostosowania, o których mowa w ust. 11, w terminie 3 dni roboczych od dnia otrzymania informacji, o której mowa w ust. 11.
 13. W przypadku absolwenta, o którym mowa w ust. 4 i 5, który ukończył szkołę we wcześniejszych latach, sposób lub sposoby dostosowania warunków przeprowadzania egzaminu zawodowego do potrzeb i możliwości absolwenta, spośród możliwych sposobów dostosowania warunków przeprowadzania egzaminu zawodowego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzzi ust. 3. Przepisy ust. 11 i 12 stosuje się odpowiednio.
 14. Przystąpienie do egzaminu zawodowego w warunkach i formie dostosowanych do potrzeb i możliwości ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–6, zapewnia przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzzi ust. 3.
 15. W szczególnych przypadkach losowych lub zdrowotnych dyrektor szkoły, na wniosek rady pedagogicznej, może wystąpić do dyrektora okręgowej komisji egzaminacyjnej z wnioskiem o wyrażenie zgody na przystąpienie ucznia, słuchacza albo absolwenta do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, nieujętych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie.
-Art. 44zzzfa. Uczeń, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, który kształci się w zawodzie, dla którego w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe, przewidziano zawód o charakterze pomocniczym, może przystąpić do egzaminu zawodowego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego dla:
+Art. 44zzzfa. Uczeń, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, który kształci się w zawodzie, dla którego w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe, przewidziano zawód o charakterze pomocniczym, może przystąpić do egzaminu zawodowego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego dla:
 1) zawodu, w którym się kształci albo
 2) zawodu o charakterze pomocniczym przewidzianego dla zawodu, w którym się kształci.
 Art. 44zzzg. Zdający, który zamierza przystąpić do egzaminu zawodowego, składa pisemną deklarację przystąpienia do tego egzaminu.
 Art. 44zzzga. 1. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, który z przyczyn losowych lub zdrowotnych, w terminie głównym:
 1) nie przystąpił do części pisemnej lub części praktycznej egzaminu zawodowego albo
-2) przerwał egzamin zawodowy z części pisemnej lub części praktycznej przystępuje do części pisemnej lub części praktycznej tego egzaminu w terminie dodatkowym na udokumentowany wniosek ucznia lub słuchacza, a w przypadku niepełnoletniego ucznia lub słuchacza jego rodziców.
+2) przerwał egzamin zawodowy z części pisemnej lub części praktycznej – przystępuje do części pisemnej lub części praktycznej tego egzaminu w terminie dodatkowym na udokumentowany wniosek ucznia lub słuchacza, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodziców.
 2. Wniosek, o którym mowa w ust. 1, składa się do dyrektora szkoły, do której uczeń lub słuchacz uczęszcza, nie później niż w dniu, w którym odbywa się część pisemna lub część praktyczna egzaminu zawodowego. Dyrektor szkoły przekazuje wniosek wraz z załączonymi do niego dokumentami dyrektorowi okręgowej komisji egzaminacyjnej nie później niż następnego dnia po otrzymaniu wniosku.
 3. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje wniosek, o którym mowa w ust. 1, w terminie 2 dni od dnia jego otrzymania. Rozstrzygnięcie dyrektora okręgowej komisji egzaminacyjnej jest ostateczne.
-4. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do części pisemnej lub części praktycznej egzaminu zawodowego w terminie dodatkowym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do egzaminu zawodowego lub jego części. Dyrektor szkoły składa wniosek w porozumieniu z uczniem lub słuchaczem, a w przypadku niepełnoletniego ucznia lub słuchacza z jego rodzicami.
-Art. 44zzzgb. W szczególnych przypadkach zdrowotnych, uniemożliwiających uczniowi lub słuchaczowi, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, przystąpienie do egzaminu zawodowego, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić tego ucznia lub słuchacza z obowiązku przystąpienia do egzaminu zawodowego lub jego części. Dyrektor szkoły składa wniosek w porozumieniu z uczniem lub ze słuchaczem, a w przypadku niepełnoletniego ucznia lub słuchacza z jego rodzicami.
-Art. 44zzzh. 1. Zdający, o których mowa w art. 44zzzb ust. 3 pkt 4–6: niewidomi, słabowidzący, niesłyszący, słabosłyszący, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, przystępują do egzaminu zawodowego w warunkach i formie dostosowanych do rodzaju ich niepełnosprawności, na podstawie zaświadczenia potwierdzającego występowanie danej dysfunkcji, wydanego przez lekarza.
-Przepisy art. 44zzzf ust. 7, 8 i 14 stosuje się odpowiednio.
+4. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do części pisemnej lub części praktycznej egzaminu zawodowego w terminie dodatkowym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do egzaminu zawodowego lub jego części. Dyrektor szkoły składa wniosek w porozumieniu z uczniem lub słuchaczem, a w przypadku niepełnoletniego ucznia lub słuchacza – z jego rodzicami.
+Art. 44zzzgb. W szczególnych przypadkach zdrowotnych, uniemożliwiających uczniowi lub słuchaczowi, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, przystąpienie do egzaminu zawodowego, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić tego ucznia lub słuchacza z obowiązku przystąpienia do egzaminu zawodowego lub jego części.
+Dyrektor szkoły składa wniosek w porozumieniu z uczniem lub ze słuchaczem, a w przypadku niepełnoletniego ucznia lub słuchacza – z jego rodzicami.
+Art. 44zzzh. 1. Zdający, o których mowa w art. 44zzzb ust. 3 pkt 4–6: niewidomi, słabowidzący, niesłyszący, słabosłyszący, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, przystępują do egzaminu zawodowego w warunkach i formie dostosowanych do rodzaju ich niepełnosprawności, na podstawie zaświadczenia potwierdzającego występowanie danej dysfunkcji, wydanego przez lekarza. Przepisy art. 44zzzf ust. 7, 8 i 14 stosuje się odpowiednio.
 2. Na podstawie zaświadczenia, o którym mowa w ust. 1, oraz komunikatu, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, dyrektor okręgowej komisji egzaminacyjnej lub upoważniona przez niego osoba wskazuje sposób lub sposoby dostosowania warunków i formy przeprowadzania egzaminu zawodowego dla zdających, o których mowa w ust. 1.
-Art. 44zzzi. 1. Za organizację i przebieg egzaminu zawodowego w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, odpowiada dyrektor tej szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, ten pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, lub upoważniony przez niego pracownik.
-2. Do przeprowadzenia egzaminu zawodowego dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, powołuje zespół egzaminacyjny.
-3. Dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, lub upoważniony przez niego pracownik jest przewodniczącym zespołu egzaminacyjnego.
-W przypadku choroby przewodniczącego zespołu egzaminacyjnego lub innych ważnych przyczyn uniemożliwiających jego udział w egzaminie zawodowym albo wynikających z konieczności zapewnienia właściwej organizacji tego egzaminu, przewodniczącym zespołu egzaminacyjnego może być osoba wskazana przez dyrektora okręgowej komisji egzaminacyjnej.
+Art. 44zzzi. 1. Za organizację i przebieg egzaminu zawodowego w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, odpowiada dyrektor tej szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, ten pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub upoważniony przez niego pracownik.
+2. Do przeprowadzenia egzaminu zawodowego dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, powołuje zespół egzaminacyjny.
+3. Dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub upoważniony przez niego pracownik jest przewodniczącym zespołu egzaminacyjnego. W przypadku choroby przewodniczącego zespołu egzaminacyjnego lub innych ważnych przyczyn uniemożliwiających jego udział w egzaminie zawodowym albo wynikających z konieczności zapewnienia właściwej organizacji tego egzaminu, przewodniczącym zespołu egzaminacyjnego może być osoba wskazana przez dyrektora okręgowej komisji egzaminacyjnej.
 4. Przewodniczący zespołu egzaminacyjnego, spośród członków zespołu egzaminacyjnego, powołuje zespoły nadzorujące przebieg części pisemnej egzaminu zawodowego w poszczególnych salach egzaminacyjnych oraz zespoły nadzorujące przebieg części praktycznej tego egzaminu w poszczególnych salach egzaminacyjnych i wyznacza przewodniczących tych zespołów.
-5. Przewodniczący zespołu egzaminacyjnego organizuje i nadzoruje przebieg w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, egzaminu zawodowego, w tym:
+5. Przewodniczący zespołu egzaminacyjnego organizuje i nadzoruje przebieg w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, egzaminu zawodowego, w tym:
 1) informuje zdających, którzy zamierzają przystąpić do egzaminu zawodowego, o tym egzaminie;
 2) zapewnia przekazanie do okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu zawodowego;
 3) zapewnia warunki do samodzielnej pracy zdających podczas egzaminu zawodowego;
 4) zabezpiecza przed nieuprawnionym ujawnieniem materiały egzaminacyjne niezbędne do przeprowadzenia egzaminu zawodowego od momentu odbioru materiałów egzaminacyjnych do momentu ich przekazania dyrektorowi okręgowej komisji egzaminacyjnej.
 6. Przebieg egzaminu zawodowego jest dokumentowany w protokole tego egzaminu.
 Art. 44zzzia. 1. W przeprowadzaniu części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, może brać udział asystent techniczny.
-2. Asystentem technicznym może być nauczyciel lub osoba niebędąca nauczycielem, wskazana przez odpowiednio dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe.
-Art. 44zzzib. 43) 1. W przeprowadzaniu części pisemnej oraz części praktycznej egzaminu zawodowego, w której do wykonania zadania lub zadań egzaminacyjnych jest niezbędne wykorzystanie komputera, może brać udział operator pracowni informatycznej.
-2. Operatorem pracowni informatycznej może być nauczyciel lub osoba pełnoletnia niebędąca nauczycielem i niebędąca uczniem szkoły, w której jest przeprowadzany egzamin zawodowy, albo słuchaczem kwalifikacyjnego kursu zawodowego prowadzonego w podmiocie, w którym jest przeprowadzany egzamin zawodowy, posiadający kwalifikacje lub umiejętności właściwe dla wykonania zadań, o których mowa w ust. 3, wskazani przez odpowiednio dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe.
+2. Asystentem technicznym może być nauczyciel lub osoba niebędąca nauczycielem, wskazana przez odpowiednio dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
+Art. 44zzzib. 1. W przeprowadzaniu części pisemnej oraz części praktycznej egzaminu zawodowego, w której do wykonania zadania lub zadań egzaminacyjnych jest niezbędne wykorzystanie komputera, może brać udział operator pracowni informatycznej.
+2. Operatorem pracowni informatycznej może być nauczyciel lub osoba pełnoletnia niebędąca nauczycielem i niebędąca uczniem szkoły, w której jest przeprowadzany egzamin zawodowy, albo słuchaczem kwalifikacyjnego kursu zawodowego prowadzonego w podmiocie, w którym jest przeprowadzany egzamin zawodowy, posiadający kwalifikacje lub umiejętności właściwe dla wykonania zadań, o których mowa w ust. 3, wskazani przez odpowiednio dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
 3. Do zadań operatora pracowni informatycznej należy:
 1) przygotowanie wyposażenia stanowisk egzaminacyjnych, w tym w materiały i przybory pomocnicze, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie;
 2) zapewnienie prawidłowego funkcjonowania stanowisk egzaminacyjnych, w tym usuwanie awarii występujących na stanowiskach egzaminacyjnych w czasie trwania części pisemnej lub części praktycznej egzaminu zawodowego;
 3) zapewnienie warunków do samodzielnej pracy zdających, z uwzględnieniem bezpiecznych i higienicznych warunków w miejscu przeprowadzania części pisemnej lub części praktycznej egzaminu zawodowego;
 4) przeprowadzenie, na polecenie przewodniczącego zespołu nadzorującego, instruktażu stanowiskowego dla zdających;
-5) zabezpieczenie, w sposób trwały, efektów pracy zdających w sposób wskazany w informacji, o której mowa w art. 9a ust. 2 pkt 10 lit. b, do dnia przekazania szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, i pracodawcom certyfikatów kwalifikacji zawodowych albo przekazania szkołom dyplomów zawodowych, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze podwójne tiret trzecie.
+5) zabezpieczenie, w sposób trwały, efektów pracy zdających w sposób wskazany w informacji, o której mowa w art. 9a ust. 2 pkt 10 lit. b, do dnia przekazania szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, i pracodawcom certyfikatów kwalifikacji zawodowych albo przekazania szkołom dyplomów zawodowych, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze podwójne tiret trzecie.
 Art. 44zzzj. 1. W czasie trwania egzaminu zawodowego każdy zdający pracuje w warunkach zapewniających samodzielność pracy.
 2. Do sali egzaminacyjnej, w której jest przeprowadzany egzamin zawodowy, nie można wnosić materiałów i przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, oraz żadnych urządzeń telekomunikacyjnych, ani korzystać z nich w tej sali.
 2a. Przepis ust. 2 nie dotyczy urządzenia telekomunikacyjnego wyposażonego w aplikację mobilną służącą do monitorowania stanu zdrowia zdającego, które można wnieść i z którego można korzystać na warunkach określonych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie.
 3. Zdający samodzielnie wykonuje zadania egzaminacyjne w czasie trwania części pisemnej i części praktycznej egzaminu zawodowego.
-Art. 44zzzk. 1. Egzamin zawodowy przeprowadza się w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, u danego pracodawcy albo w miejscu wskazanym przez pracodawcę, w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, albo w miejscu wskazanym przez ten podmiot.
-2. Dla osób, o których mowa w art. 44zzzb ust. 3 pkt 4, egzamin zawodowy organizuje podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe.
+Art. 44zzzk. 1. Egzamin zawodowy przeprowadza się w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy albo w miejscu wskazanym przez pracodawcę, w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, albo w miejscu wskazanym przez ten podmiot.
+2. Dla osób, o których mowa w art. 44zzzb ust. 3 pkt 4, egzamin zawodowy organizuje podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
 3. Przepisu ust. 2 nie stosuje się do słuchaczy branżowej szkoły II stopnia.
-Art. 44zzzl. 1. Część praktyczną egzaminu zawodowego oraz część pisemną tego egzaminu przeprowadza się w szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, u pracodawcy lub w podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, posiadających upoważnienie wydane przez dyrektora okręgowej komisji egzaminacyjnej.
-2. Upoważnienie, o którym mowa w ust. 1, potwierdza, że szkoła, placówka lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, posiada warunki zapewniające prawidłowy przebieg egzaminu zawodowego:
+Art. 44zzzl. 1. Część praktyczną egzaminu zawodowego oraz część pisemną tego egzaminu przeprowadza się w szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u pracodawcy lub w podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, posiadających upoważnienie wydane przez dyrektora okręgowej komisji egzaminacyjnej.
+2. Upoważnienie, o którym mowa w ust. 1, potwierdza, że szkoła, placówka lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, posiada warunki zapewniające prawidłowy przebieg egzaminu zawodowego:
 1) w przypadku części praktycznej:
 a) zapewnia warunki do realizacji kształcenia w danym zawodzie, określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego,
 b) zapewnia warunki do samodzielnego wykonywania przez zdających zadań egzaminacyjnych zawartych w arkuszu egzaminacyjnym, z uwzględnieniem bezpieczeństwa i higieny pracy, oraz warunki socjalne,
 c) zapewnia zdającym przystąpienie do egzaminu zawodowego w warunkach dostosowanych do ich potrzeb i możliwości,
 d) zapewnia zdającym pierwszą pomoc medyczną,
-e) posiada odpowiednie wyposażenie indywidualnych stanowisk egzaminacyjnych wspomaganych elektronicznie w przypadku gdy część praktyczna egzaminu zawodowego jest przeprowadzana z wykorzystaniem SIOEZ;
+e) posiada odpowiednie wyposażenie indywidualnych stanowisk egzaminacyjnych wspomaganych elektronicznie – w przypadku gdy część praktyczna egzaminu zawodowego jest przeprowadzana z wykorzystaniem SIOEZ;
 2) w przypadku części pisemnej:
 a) posiada odpowiednie wyposażenie indywidualnych stanowisk egzaminacyjnych wspomaganych elektronicznie,
 b) zapewnia warunki do samodzielnego wykonywania zadań egzaminacyjnych przez zdających.
 3. Upoważnienia, o którym mowa w ust. 1, udziela się na okres nie dłuższy niż 3 lata.
-4. Upoważnienia, o którym mowa w ust. 1, udziela się na wniosek szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe.
+4. Upoważnienia, o którym mowa w ust. 1, udziela się na wniosek szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
 5. Upoważnienie może zostać przedłużone na kolejne okresy nie dłuższe niż 3 lata. Przepisy ust. 2–4 stosuje się odpowiednio.
 Art. 44zzzm. 1. Część pisemna egzaminu zawodowego trwa nie krócej niż 45 minut i nie dłużej niż 90 minut.
 2. Część praktyczna egzaminu zawodowego trwa nie krócej niż 120 minut i nie dłużej niż 240 minut.
@@ -499,26 +475,27 @@ Art. 44zzzn. 1. Prace egzaminacyjne zdających w części pisemnej egzaminu zawo
 8. Do zadań egzaminatora-weryfikatora należy sprawdzenie i ocenienie dokumentacji będącej rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych wskazanej przez przewodniczącego zespołu egzaminatorów poprzednio sprawdzonej i ocenionej przez egzaminatorów wchodzących w skład danego zespołu egzaminatorów, w celu zweryfikowania poprawności sprawdzenia i ocenienia tej dokumentacji przez tych egzaminatorów.
 9. W przypadku różnicy między liczbą punktów przyznaną przez egzaminatora a liczbą punktów przyznaną przez egzaminatora-weryfikatora o liczbie przyznanych punktów rozstrzyga przewodniczący zespołu egzaminatorów.
 Art. 44zzzo. 1. Wynik z części pisemnej oraz wynik z części praktycznej egzaminu zawodowego ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie liczby punktów uzyskanych przez zdającego:
-1) w części pisemnej po odczytaniu odpowiedzi zapisanych i zarchiwizowanych w SIOEZ;
-2) w części praktycznej po elektronicznym odczytaniu karty oceny.
+1) w części pisemnej – po odczytaniu odpowiedzi zapisanych i zarchiwizowanych w SIOEZ;
+2) w części praktycznej – po elektronicznym odczytaniu karty oceny.
 2. Zdający zdał egzamin zawodowy, jeżeli uzyskał:
-1) z części pisemnej co najmniej 50 % punktów możliwych do uzyskania oraz
-2) z części praktycznej co najmniej 75 % punktów możliwych do uzyskania.
-3. Dla zdającego, który zdał egzamin zawodowy, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu zawodowego według wzoru: W=0,3×Wp+0,7×Wpr w którym poszczególne symbole oznaczają: W wynik z egzaminu zawodowego, Wp wynik z części pisemnej egzaminu zawodowego, Wpr wynik z części praktycznej egzaminu zawodowego.
+1) z części pisemnej – co najmniej 50 % punktów możliwych do uzyskania oraz
+2) z części praktycznej – co najmniej 75 % punktów możliwych do uzyskania.
+3. Dla zdającego, który zdał egzamin zawodowy, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu zawodowego według wzoru: W = 0,3×Wp+0,7×Wpr w którym poszczególne symbole oznaczają: W – wynik z egzaminu zawodowego, Wp – wynik z części pisemnej egzaminu zawodowego, Wpr – wynik z części praktycznej egzaminu zawodowego.
 4. Zdający, który zdał egzamin zawodowy, otrzymuje certyfikat kwalifikacji zawodowej wydany przez okręgową komisję egzaminacyjną.
 5. Zdający, który nie zdał egzaminu zawodowego, otrzymuje informację o wynikach z poszczególnych części tego egzaminu opracowaną przez okręgową komisję egzaminacyjną.
-6. Dla zdających, którzy zdali egzaminy zawodowe ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, dyrektor okręgowej komisji egzaminacyjnej ustala końcowy wynik egzaminów zawodowych według wzoru: ∑Kn Wk= n w którym poszczególne symbole oznaczają: Wk wynik końcowy z egzaminów zawodowych, Kn wynik z egzaminu zawodowego z kwalifikacji wyodrębnionej w zawodzie, n liczba kwalifikacji wyodrębnionych w danym zawodzie.
-7. W przypadku gdy uczeń lub słuchacz, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, został zwolniony z obowiązku przystąpienia do części pisemnej lub części praktycznej egzaminu zawodowego w przypadku, o którym mowa w art. 44zzzga ust. 4 lub art. 44zzzgb, dyrektor szkoły przekazuje uczniowi lub słuchaczowi, a w przypadku niepełnoletniego ucznia lub słuchacza jego rodzicom, informację o szczegółowych wynikach egzaminu zawodowego opracowaną przez okręgową komisję egzaminacyjną.
+6. Dla zdających, którzy zdali egzaminy zawodowe ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, dyrektor okręgowej komisji egzaminacyjnej ustala końcowy wynik egzaminów zawodowych według wzoru: ∑Kn Wk = n w którym poszczególne symbole oznaczają: Wk – wynik końcowy z egzaminów zawodowych, Kn – wynik z egzaminu zawodowego z kwalifikacji wyodrębnionej w zawodzie, n – liczba kwalifikacji wyodrębnionych w danym zawodzie.
+7. W przypadku gdy uczeń lub słuchacz, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, został zwolniony z obowiązku przystąpienia do części pisemnej lub części praktycznej egzaminu zawodowego w przypadku, o którym mowa w art. 44zzzga ust. 4 lub art. 44zzzgb, dyrektor szkoły przekazuje uczniowi lub słuchaczowi, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodzicom, informację o szczegółowych wynikach egzaminu zawodowego opracowaną przez okręgową komisję egzaminacyjną.
 Art. 44zzzp. 1. W przypadku:
 1) stwierdzenia niesamodzielnego wykonywania zadań egzaminacyjnych przez zdającego lub
 2) wniesienia lub korzystania przez zdającego w sali egzaminacyjnej z materiałów lub przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, albo z urządzenia telekomunikacyjnego, z zastrzeżeniem art. 44zzzj ust. 2a, lub
-3) zakłócania przez zdającego prawidłowego przebiegu części pisemnej lub części praktycznej egzaminu zawodowego w sposób utrudniający pracę pozostałym zdającym przewodniczący zespołu egzaminacyjnego przerywa i unieważnia temu zdającemu odpowiednią część egzaminu zawodowego. Informację o przerwaniu i unieważnieniu zamieszcza się w protokole przebiegu egzaminu zawodowego.
+3) zakłócania przez zdającego prawidłowego przebiegu części pisemnej lub części praktycznej egzaminu zawodowego w sposób utrudniający pracę pozostałym zdającym – przewodniczący zespołu egzaminacyjnego przerywa i unieważnia temu zdającemu odpowiednią część egzaminu zawodowego. Informację o przerwaniu i unieważnieniu zamieszcza się w protokole przebiegu egzaminu zawodowego.
 2. W przypadku unieważnienia części pisemnej lub części praktycznej egzaminu zawodowego danego zdającego, dyrektor okręgowej komisji egzaminacyjnej ustala wynik uzyskany z części pisemnej lub części praktycznej tego egzaminu jako „0 %”.
 Art. 44zzzq. 1. W przypadku stwierdzenia podczas sprawdzania i oceniania zadania lub zadań egzaminacyjnych przez egzaminatora, jeżeli rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest dokumentacja:
 1) niesamodzielnego wykonania zadania lub zadań przez zdającego w części praktycznej egzaminu zawodowego,
-2) występowania w pracy zdającego jednakowych sformułowań wskazujących na udostępnienie rozwiązań innemu zdającemu lub korzystanie z rozwiązań innego zdającego dyrektor okręgowej komisji egzaminacyjnej przekazuje zdającemu lub rodzicom niepełnoletniego zdającego pisemną informację o zamiarze unieważnienia temu zdającemu części praktycznej egzaminu zawodowego.
-2. W przypadku zdających, o których mowa w art. 44zzzb ust. 3 pkt 1–4, informację, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej przekazuje za pośrednictwem dyrektora szkoły, dyrektora placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe. Dyrektor szkoły, dyrektor placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, niezwłocznie przekazuje tę informację zdającemu lub rodzicom niepełnoletniego zdającego.
-3. Zdający lub rodzice niepełnoletniego zdającego mają prawo złożyć wniosek o wgląd do dokumentacji, na podstawie której dyrektor okręgowej komisji egzaminacyjnej zamierza unieważnić część praktyczną egzaminu zawodowego. Wniosek składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia otrzymania pisemnej informacji, o której mowa w ust. 1.
+2) występowania w pracy zdającego jednakowych sformułowań wskazujących na udostępnienie rozwiązań innemu zdającemu lub korzystanie z rozwiązań innego zdającego – dyrektor okręgowej komisji egzaminacyjnej przekazuje zdającemu lub rodzicom niepełnoletniego zdającego pisemną informację o zamiarze unieważnienia temu zdającemu części praktycznej egzaminu zawodowego.
+2. W przypadku zdających, o których mowa w art. 44zzzb ust. 3 pkt 1–4, informację, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej przekazuje za pośrednictwem dyrektora szkoły, dyrektora placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe. Dyrektor szkoły, dyrektor placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, niezwłocznie przekazuje tę informację zdającemu lub rodzicom niepełnoletniego zdającego.
+3. Zdający lub rodzice niepełnoletniego zdającego mają prawo złożyć wniosek o wgląd do dokumentacji, na podstawie której dyrektor okręgowej komisji egzaminacyjnej zamierza unieważnić część praktyczną egzaminu zawodowego.
+Wniosek składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia otrzymania pisemnej informacji, o której mowa w ust. 1.
 4. W terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3, dyrektor okręgowej komisji egzaminacyjnej umożliwia zdającemu lub rodzicom niepełnoletniego zdającego, zapoznanie się z dokumentacją oraz złożenie wyjaśnień w tej sprawie, we wskazanym miejscu i czasie.
 5. Dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego, w terminie 14 dni od dnia:
 1) otrzymania wniosku, o którym mowa w ust. 3, albo
@@ -527,9 +504,9 @@ Art. 44zzzq. 1. W przypadku stwierdzenia podczas sprawdzania i oceniania zadania
 7. Zdający lub rodzice niepełnoletniego zdającego, w terminie 3 dni roboczych od dnia otrzymania informacji o unieważnieniu, o której mowa w ust. 6, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
 8. Zastrzeżenia, o których mowa w ust. 7, wraz z dokumentacją niezbędną do ich rozpatrzenia, dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez zdającego lub rodziców niepełnoletniego zdającego.
 9. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 7, w terminie 7 dni od dnia otrzymania zastrzeżeń wraz z dokumentacją niezbędną do ich rozpatrzenia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
-10. W przypadku braku możliwości przekazania zdającemu, o którym mowa w art. 44zzzb ust. 3 pkt 1–4, lub rodzicom niepełnoletniego zdającego informacji, o której mowa w ust. 1, dyrektor szkoły, dyrektor placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania tej informacji, rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, dyrektora placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, pisemną informację o unieważnieniu wraz z uzasadnieniem, zdającemu lub rodzicom niepełnoletniego zdającego.
+10. W przypadku braku możliwości przekazania zdającemu, o którym mowa w art. 44zzzb ust. 3 pkt 1–4, lub rodzicom niepełnoletniego zdającego informacji, o której mowa w ust. 1, dyrektor szkoły, dyrektor placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania tej informacji, rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, dyrektora placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, pisemną informację o unieważnieniu wraz z uzasadnieniem, zdającemu lub rodzicom niepełnoletniego zdającego. Przepisy ust. 3 i 4 stosuje się odpowiednio.
+11. W przypadku braku potwierdzenia otrzymania przez zdającego, o którym mowa w art. 44zzzb ust. 3 pkt 5 i 6, informacji, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje pisemną informację o unieważnieniu temu zdającemu.
 Przepisy ust. 3 i 4 stosuje się odpowiednio.
-11. W przypadku braku potwierdzenia otrzymania przez zdającego, o którym mowa w art. 44zzzb ust. 3 pkt 5 i 6, informacji, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje pisemną informację o unieważnieniu temu zdającemu. Przepisy ust. 3 i 4 stosuje się odpowiednio.
 12. W przypadku, o którym mowa w ust. 10, zdający lub rodzice niepełnoletniego zdającego, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 dni roboczych od dnia:
 1) otrzymania informacji o unieważnieniu, o której mowa w ust. 10, albo
 2) zapoznania się z dokumentacją oraz złożenia wyjaśnień, o których mowa w ust. 3 i 4.
@@ -540,27 +517,27 @@ Przepisy ust. 3 i 4 stosuje się odpowiednio.
 15. W przypadku unieważnienia części praktycznej egzaminu zawodowego danego zdającego, dyrektor okręgowej komisji egzaminacyjnej ustala wynik uzyskany z części praktycznej tego egzaminu jako „0 %”.
 Art. 44zzzr. 1. Zdający lub rodzice niepełnoletniego zdającego, w terminie 2 dni roboczych od dnia przeprowadzenia:
 1) części pisemnej egzaminu zawodowego,
-2) części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest dokumentacja mogą zgłosić zastrzeżenia wraz z uzasadnieniem do dyrektora okręgowej komisji egzaminacyjnej, jeżeli uznają, że w trakcie egzaminu zostały naruszone przepisy dotyczące jego przeprowadzania.
+2) części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest dokumentacja – mogą zgłosić zastrzeżenia wraz z uzasadnieniem do dyrektora okręgowej komisji egzaminacyjnej, jeżeli uznają, że w trakcie egzaminu zostały naruszone przepisy dotyczące jego przeprowadzania.
 2. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 1, w terminie 7 dni od dnia ich otrzymania i informuje pisemnie zdającego lub rodziców niepełnoletniego zdającego, o wyniku rozstrzygnięcia.
 3. Zdający lub rodzice niepełnoletniego zdającego, w terminie 3 dni roboczych od dnia otrzymania informacji o wyniku rozstrzygnięcia, o której mowa w ust. 2, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
 4. Zastrzeżenia, o których mowa w ust. 3, wraz z dokumentacją niezbędną do ich rozpatrzenia dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez zdającego lub rodziców niepełnoletniego zdającego.
 5. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 3, w terminie 7 dni od dnia ich wniesienia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
 6. W przypadku stwierdzenia naruszenia przepisów dotyczących przeprowadzania egzaminu zawodowego, na skutek zastrzeżeń, o których mowa w ust. 1, lub z urzędu, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, może unieważnić daną część egzaminu zawodowego i zarządzić jej ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik tego egzaminu.
 7. W przypadku, o którym mowa w ust. 5, dyrektor Centralnej Komisji Egzaminacyjnej może unieważnić daną część egzaminu zawodowego i zarządzić jej ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik egzaminu. O rozstrzygnięciu dyrektor Centralnej Komisji Egzaminacyjnej informuje dyrektora okręgowej komisji egzaminacyjnej.
-8. W przypadkach, o których mowa w ust. 6 i 7, unieważnienie może nastąpić w stosunku do wszystkich zdających, zdających w poszczególnych szkołach, placówkach lub centrach, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, u pracodawców lub w podmiotach prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy Prawo oświatowe, a także w stosunku do poszczególnych zdających.
+8. W przypadkach, o których mowa w ust. 6 i 7, unieważnienie może nastąpić w stosunku do wszystkich zdających, zdających w poszczególnych szkołach, placówkach lub centrach, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u pracodawców lub w podmiotach prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, a także w stosunku do poszczególnych zdających.
 9. W przypadku niemożności ustalenia wyników danej części egzaminu zawodowego, z powodu zaginięcia lub zniszczenia kart oceny, prac egzaminacyjnych lub awarii SIOEZ, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, unieważnia daną część egzaminu zawodowego danego zdającego i zarządza jego ponowne przeprowadzenie.
 10. Termin ponownego przeprowadzenia egzaminu zawodowego ustala dyrektor Centralnej Komisji Egzaminacyjnej.
 Art. 44zzzs. 1. W przypadku części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, zdający lub rodzice niepełnoletniego zdającego, mogą zgłosić do dyrektora okręgowej komisji egzaminacyjnej zastrzeżenia wraz z uzasadnieniem, jeżeli uznają, że w trakcie części praktycznej egzaminu zawodowego zostały naruszone przepisy dotyczące jej przeprowadzania. Zastrzeżenia wraz z uzasadnieniem zgłasza się w terminie 2 dni roboczych od dnia przeprowadzenia części praktycznej egzaminu zawodowego.
 2. W przypadku, o którym mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej zwraca się do przewodniczącego zespołu egzaminacyjnego o przedstawienie wyjaśnień dotyczących wniesionych zastrzeżeń.
 3. Przepisy art. 44zzzr ust. 2–8 i 10 stosuje się odpowiednio.
 Art. 44zzzt. 1. Zdający lub rodzice niepełnoletniego zdającego mają prawo wglądu do:
-1) zadań i udzielonych odpowiedzi w przypadku części pisemnej egzaminu zawodowego,
-2) karty oceny w przypadku części praktycznej egzaminu zawodowego w miejscu i czasie wskazanym przez dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 miesięcy od dnia wydania przez okręgową komisję egzaminacyjną certyfikatu kwalifikacji zawodowej lub informacji o wynikach egzaminu zawodowego, o których mowa w art. 44zzzo ust. 5. Jeżeli rezultatem końcowym wykonania zadania egzaminacyjnego w części praktycznej egzaminu zawodowego jest dokumentacja, zdający lub rodzice niepełnoletniego zdającego, mają prawo wglądu także do tej dokumentacji.
+1) zadań i udzielonych odpowiedzi – w przypadku części pisemnej egzaminu zawodowego,
+2) karty oceny – w przypadku części praktycznej egzaminu zawodowego – w miejscu i czasie wskazanym przez dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 miesięcy od dnia wydania przez okręgową komisję egzaminacyjną certyfikatu kwalifikacji zawodowej lub informacji o wynikach egzaminu zawodowego, o których mowa w art. 44zzzo ust. 5. Jeżeli rezultatem końcowym wykonania zadania egzaminacyjnego w części praktycznej egzaminu zawodowego jest dokumentacja, zdający lub rodzice niepełnoletniego zdającego, mają prawo wglądu także do tej dokumentacji.
 2. Podczas dokonywania wglądu, o którym mowa w ust. 1, zdającemu lub rodzicom niepełnoletniego zdającego, zapewnia się możliwość zapoznania się z zasadami oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
 2a. Podczas dokonywania wglądu, o którym mowa w ust. 1, zdający lub rodzice niepełnoletniego zdającego, mogą sporządzać notatki i wykonywać fotografie zadań egzaminacyjnych wraz z udzieloną odpowiedzią, karty oceny lub dokumentacji, o których mowa w ust. 1.
-3. Zdający lub rodzice niepełnoletniego zdającego, mogą zwrócić się z wnioskiem o weryfikację sumy punktów, o których mowa w art. 44zzzo ust. 1. Wniosek wraz z uzasadnieniem składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia dokonania wglądu.
-4. Weryfikacji sumy punktów dokonuje się w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
-W przypadku części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania egzaminacyjnego jest dokumentacja, dyrektor okręgowej komisji egzaminacyjnej do weryfikacji sumy punktów wyznacza egzaminatora wpisanego do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, innego niż egzaminator, który sprawdzał i oceniał tę część egzaminu zdającego.
+3. Zdający lub rodzice niepełnoletniego zdającego, mogą zwrócić się z wnioskiem o weryfikację sumy punktów, o których mowa w art. 44zzzo ust. 1.
+Wniosek wraz z uzasadnieniem składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia dokonania wglądu.
+4. Weryfikacji sumy punktów dokonuje się w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3. W przypadku części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania egzaminacyjnego jest dokumentacja, dyrektor okręgowej komisji egzaminacyjnej do weryfikacji sumy punktów wyznacza egzaminatora wpisanego do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, innego niż egzaminator, który sprawdzał i oceniał tę część egzaminu zdającego.
 5. Dyrektor okręgowej komisji egzaminacyjnej informuje pisemnie zdającego lub rodziców niepełnoletniego zdającego, o wyniku weryfikacji sumy punktów, w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
 6. Jeżeli w wyniku przeprowadzonej weryfikacji suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik egzaminu zawodowego oraz:
 1) anuluje dotychczasowy certyfikat kwalifikacji zawodowej oraz wydaje nowy certyfikat kwalifikacji zawodowej albo
@@ -589,20 +566,20 @@ W przypadku części praktycznej egzaminu zawodowego, której rezultatem końcow
 20. Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje niezwłocznie informację o rozstrzygnięciu i treść uzasadnienia, o których mowa w ust. 18, dyrektorowi okręgowej komisji egzaminacyjnej oraz zdającemu lub rodzicom niepełnoletniego zdającego, którzy wnieśli odwołanie.
 21. Jeżeli w wyniku:
 1) rozstrzygnięcia, o którym mowa w ust. 18, lub
-2) uwzględnienia w części odwołania, o którym mowa w ust. 11 suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik części pisemnej egzaminu zawodowego. Przepis ust. 6 stosuje się odpowiednio.
+2) uwzględnienia w części odwołania, o którym mowa w ust. 11 – suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik części pisemnej egzaminu zawodowego. Przepis ust. 6 stosuje się odpowiednio.
 Art. 44zzzu. 1. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 1:
 1) który był zwolniony z przystąpienia do egzaminu zawodowego lub odpowiedniej części tego egzaminu na podstawie art. 44zzzga ust. 4 lub art. 44zzzgb albo
 2) którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
-3) który nie uzyskał wymaganej do zdania egzaminu zawodowego liczby punktów z danej części tego egzaminu ma prawo przystąpić do egzaminu zawodowego lub odpowiedniej części tego egzaminu w kolejnych terminach głównych jego przeprowadzania w trakcie nauki.
+3) który nie uzyskał wymaganej do zdania egzaminu zawodowego liczby punktów z danej części tego egzaminu – ma prawo przystąpić do egzaminu zawodowego lub odpowiedniej części tego egzaminu w kolejnych terminach głównych jego przeprowadzania w trakcie nauki.
 2. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 3 i 4:
 1) który nie przystąpił do egzaminu zawodowego lub odpowiedniej części tego egzaminu w wyznaczonym terminie albo
 2) którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
-3) który nie uzyskał wymaganej do zdania egzaminu zawodowego liczby punktów z danej części tego egzaminu ma prawo przystąpić do egzaminu zawodowego lub odpowiedniej części tego egzaminu w kolejnych terminach głównych jego przeprowadzania, z tym że w przypadku gdy przystępuje do egzaminu zawodowego lub jego części po raz trzeci lub kolejny, zdaje ten egzamin lub jego część na zasadach określonych dla egzaminu eksternistycznego zawodowego, z tym że tego zdającego nie dotyczy wykaz zawodów, o którym mowa w art. 10 ust. 6.
+3) który nie uzyskał wymaganej do zdania egzaminu zawodowego liczby punktów z danej części tego egzaminu – ma prawo przystąpić do egzaminu zawodowego lub odpowiedniej części tego egzaminu w kolejnych terminach głównych jego przeprowadzania, z tym że w przypadku gdy przystępuje do egzaminu zawodowego lub jego części po raz trzeci lub kolejny, zdaje ten egzamin lub jego część na zasadach określonych dla egzaminu eksternistycznego zawodowego, z tym że tego zdającego nie dotyczy wykaz zawodów, o którym mowa w art. 10 ust. 6.
 3. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 5 i 6, który przystąpił do egzaminu zawodowego i nie uzyskał z jednej części tego egzaminu wymaganej do zdania liczby punktów, ma prawo przystąpić do tej części egzaminu zawodowego w kolejnych terminach jego przeprowadzania przez okres 5 lat, licząc od dnia, w którym przystąpił do tego egzaminu po raz pierwszy.
 4. Po upływie 5 lat, licząc od dnia zakończenia roku szkolnego, w którym zdający po raz pierwszy:
 1) przystąpił do egzaminu zawodowego i nie uzyskał z jednej lub obu części tego egzaminu wymaganej do zdania liczby punktów albo
 2) przystąpił do egzaminu zawodowego, którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
-3) nie przystąpił do części pisemnej lub części praktycznej egzaminu zawodowego w wyznaczonym terminie zdający ten przystępuje do egzaminu zawodowego w pełnym zakresie.
+3) nie przystąpił do części pisemnej lub części praktycznej egzaminu zawodowego w wyznaczonym terminie – zdający ten przystępuje do egzaminu zawodowego w pełnym zakresie.
 Art. 44zzzua. (uchylony)
 Art. 44zzzv. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób przeprowadzania egzaminu zawodowego, w tym:
 1) zakres danych, które powinna zawierać deklaracja o przystąpieniu do egzaminu zawodowego, oraz tryb składania tej deklaracji,
@@ -612,15 +589,15 @@ Art. 44zzzv. Minister właściwy do spraw oświaty i wychowania określi, w drod
 5) szczegółowe zadania przewodniczącego zespołu egzaminacyjnego oraz zespołów nadzorujących, o których mowa w art. 44zzzi, egzaminatorów i zespołów egzaminatorów w zakresie części praktycznej egzaminu zawodowego, a także nauczycieli biorących udział w przeprowadzaniu egzaminu zawodowego,
 6) wymagania jakie musi spełnić asystent techniczny, o którym mowa w art. 44zzzia ust. 1, oraz zadania asystenta technicznego,
 7) zakres informacji, które zamieszcza się w protokołach, o których mowa w art. 44zzzi ust. 6,
-8) sposób postępowania z materiałami egzaminacyjnymi dostarczanymi do szkół, placówek lub centrów, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawców, podmiotów prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy Prawo oświatowe, w tym tryb zgłaszania nieprawidłowości w tym zakresie,
-9) sposób organizacji i przeprowadzania każdej części egzaminu zawodowego, sposób postępowania w sytuacjach zagrożenia lub nagłego zakłócenia przebiegu egzaminu zawodowego, przeprowadzania egzaminu zawodowego w miejscu innym niż szkoła, placówka lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, ze względu na stan zdrowia zdającego lub jego niepełnosprawność,
+8) sposób postępowania z materiałami egzaminacyjnymi dostarczanymi do szkół, placówek lub centrów, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawców, podmiotów prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, w tym tryb zgłaszania nieprawidłowości w tym zakresie,
+9) sposób organizacji i przeprowadzania każdej części egzaminu zawodowego, sposób postępowania w sytuacjach zagrożenia lub nagłego zakłócenia przebiegu egzaminu zawodowego, przeprowadzania egzaminu zawodowego w miejscu innym niż szkoła, placówka lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, ze względu na stan zdrowia zdającego lub jego niepełnosprawność,
 10) termin przechowywania prac zdających oraz dokumentacji egzaminu zawodowego,
-11) zakres informacji zawartych we wniosku, o którym mowa w art. 44zzzl ust. 4, termin złożenia tego wniosku oraz tryb udzielania i przedłużania upoważnienia szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy Prawo oświatowe,
+11) zakres informacji zawartych we wniosku, o którym mowa w art. 44zzzl ust. 4, termin złożenia tego wniosku oraz tryb udzielania i przedłużania upoważnienia szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe,
 12) osoby, które nie wchodzą w skład zespołu egzaminacyjnego i nie biorą udziału w przeprowadzaniu egzaminu zawodowego, które mogą przebywać w sali egzaminacyjnej podczas tego egzaminu, w tym osoby, które mogą występować w charakterze obserwatorów podczas egzaminu zawodowego,
-13) wysokość opłat pobieranych za egzamin zawodowy przeprowadzany dla uczniów będących młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem oraz dla osób dorosłych, o których mowa w art. 44zzzb ust. 3 pkt 5, oraz możliwość zwalniania osób o niskich dochodach z całości lub części opłat za egzamin zawodowy oraz tryb tego zwalniania z uwzględnieniem konieczności zapewnienia właściwej organizacji i przebiegu oraz właściwego dokumentowania egzaminu zawodowego, zapewnienia w składzie zespołów, o których mowa w art. 44zzzi ust. 4, co najmniej jednej osoby zatrudnionej w innej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, zapewnienia możliwości wglądu, o którym mowa w art. 44zzzt ust. 1, oraz że wysokość opłaty za egzamin zawodowy nie może być wyższa niż koszt przeprowadzania tego egzaminu.
+13) wysokość opłat pobieranych za egzamin zawodowy przeprowadzany dla uczniów będących młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem oraz dla osób dorosłych, o których mowa w art. 44zzzb ust. 3 pkt 5, oraz możliwość zwalniania osób o niskich dochodach z całości lub części opłat za egzamin zawodowy oraz tryb tego zwalniania – z uwzględnieniem konieczności zapewnienia właściwej organizacji i przebiegu oraz właściwego dokumentowania egzaminu zawodowego, zapewnienia w składzie zespołów, o których mowa w art. 44zzzi ust. 4, co najmniej jednej osoby zatrudnionej w innej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, zapewnienia możliwości wglądu, o którym mowa w art. 44zzzt ust. 1, oraz że wysokość opłaty za egzamin zawodowy nie może być wyższa niż koszt przeprowadzania tego egzaminu.
 Art. 44zzzw. 1. Minister właściwy do spraw oświaty i wychowania ogłasza w Biuletynie Informacji Publicznej komunikat w sprawie wykazu olimpiad przedmiotowych przeprowadzanych z przedmiotu lub przedmiotów objętych egzaminem ósmoklasisty lub egzaminem maturalnym, turniejów lub olimpiad tematycznych związanych z wybranym przedmiotem lub dziedziną wiedzy, a także konkursów dla uczniów szkół i placówek artystycznych, uprawniających odpowiednio do:
 1) zwolnienia z przystąpienia do egzaminu ósmoklasisty z danego przedmiotu, egzaminu maturalnego z danego przedmiotu albo części pisemnej egzaminu zawodowego,
-2) przyjmowania laureatów i finalistów tych olimpiad lub laureatów tych konkursów, w pierwszej kolejności do szkół wymienionych w art. 132 ustawy Prawo oświatowe nie później niż na 2 lata przed terminem ich przeprowadzania.
+2) przyjmowania laureatów i finalistów tych olimpiad lub laureatów tych konkursów, w pierwszej kolejności do szkół wymienionych w art. 132 ustawy – Prawo oświatowe – nie później niż na 2 lata przed terminem ich przeprowadzania.
 2. W uzasadnionych przypadkach minister właściwy do spraw oświaty i wychowania może dokonać zmian w wykazie, o którym mowa w ust. 1. Wykaz wraz ze zmianami jest ogłaszany w Biuletynie Informacji Publicznej.
 Art. 44zzzx. Przepisów rozdziału 3b nie stosuje się do dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim.
 Art. 44zzzy. Wyniki egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego ustalone w trybie przepisów ustawy są ostateczne i nie służy na nie skarga do sądu administracyjnego.
@@ -638,56 +615,56 @@ Art. 44zzzzc. 1. W SIOEO są gromadzone i przetwarzane dane dotyczące egzaminu 
 Art. 44zzzzd. 1. W SIOEO gromadzi się i przetwarza dane, które obejmują:
 1) w przypadku egzaminu ósmoklasisty:
 a) imię (imiona) i nazwisko ucznia,
-b) numer PESEL ucznia, a w przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
+b) numer PESEL ucznia, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
 c) datę urodzenia ucznia,
 d) płeć ucznia,
 e) informację o przystąpieniu przez ucznia do egzaminu ósmoklasisty z matematyki w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym,
 f) informację o posiadanym przez ucznia orzeczeniu o potrzebie kształcenia specjalnego, orzeczeniu o potrzebie indywidualnego nauczania, opinii poradni psychologiczno-pedagogicznej lub zaświadczeniu o stanie zdrowia wydanym przez lekarza wraz ze wskazaniem rodzaju niepełnosprawności lub rozpoznania określonych odpowiednio w orzeczeniu, opinii lub zaświadczeniu,
 g) informację o przyznanym uczniowi sposobie lub sposobach dostosowania warunków lub formy przeprowadzania egzaminu ósmoklasisty, o których mowa w art. 44zzr, wraz ze wskazaniem tych warunków lub formy,
-h) odwzorowanie cyfrowe pracy egzaminacyjnej ucznia lub elementów pracy egzaminacyjnej z odpowiedziami zaznaczonymi lub zapisanymi przez ucznia w przypadku wykorzystania narzędzi elektronicznych, o których mowa w art. 44zzu ust. 2, do sprawdzania prac egzaminacyjnych uczniów,
+h) odwzorowanie cyfrowe pracy egzaminacyjnej ucznia lub elementów pracy egzaminacyjnej z odpowiedziami zaznaczonymi lub zapisanymi przez ucznia – w przypadku wykorzystania narzędzi elektronicznych, o których mowa w art. 44zzu ust. 2, do sprawdzania prac egzaminacyjnych uczniów,
 i) informację o zwolnieniu ucznia z obowiązku przystąpienia do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów wraz ze wskazaniem podstawy prawnej tego zwolnienia,
 j) informację o posiadaniu przez ucznia tytułu laureata lub finalisty olimpiady przedmiotowej wymienionej w wykazie, o którym mowa w art. 44zzzw, lub laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim wraz z pełną nazwą olimpiady lub konkursu,
 k) liczbę punktów za rozwiązanie każdego zadania w pracy egzaminacyjnej ucznia,
 l) wynik egzaminu ósmoklasisty z danego przedmiotu uzyskany przez ucznia,
 m) informację o unieważnieniu uczniowi egzaminu ósmoklasisty z danego przedmiotu wraz ze wskazaniem podstawy prawnej tego unieważnienia,
 n) identyfikator (login) umożliwiający zalogowanie się do SIOEO, przekazany uczniowi przez dyrektora szkoły lub dyrektora okręgowej komisji egzaminacyjnej,
-o) informację o przekazanym uczniowi lub jego rodzicom zaświadczeniu o szczegółowych wynikach egzaminu ósmoklasisty, o którym mowa w art. 44zza ust. 8 pkt 1, wraz ze wskazaniem numeru wydanego zaświadczenia i daty jego wydania, a w przypadku wydania duplikatu tego zaświadczenia również informację o wydaniu tego duplikatu wraz z datą jego wydania;
+o) informację o przekazanym uczniowi lub jego rodzicom zaświadczeniu o szczegółowych wynikach egzaminu ósmoklasisty, o którym mowa w art. 44zza ust. 8 pkt 1, wraz ze wskazaniem numeru wydanego zaświadczenia i daty jego wydania, a w przypadku wydania duplikatu tego zaświadczenia – również informację o wydaniu tego duplikatu wraz z datą jego wydania;
 2) w przypadku egzaminu maturalnego:
 a) imię (imiona) i nazwisko zdającego,
-b) numer PESEL zdającego, a w przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
+b) numer PESEL zdającego, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
 c) datę urodzenia zdającego,
 d) płeć zdającego,
-e) dane kontaktowe zdającego: adres korespondencyjny i jeżeli zdający posiada i podał te dane w deklaracji, o której mowa w art. 44zzi adres poczty elektronicznej lub numer telefonu,
-f) informację o ukończeniu przez zdającego szkoły dwujęzycznej lub oddziału dwujęzycznego wraz ze wskazaniem języka obcego nowożytnego będącego drugim językiem nauczania w przypadku zdającego, o którym mowa w art. 44zzd ust. 4a,
+e) dane kontaktowe zdającego: adres korespondencyjny i – jeżeli zdający posiada i podał te dane w deklaracji, o której mowa w art. 44zzi – adres poczty elektronicznej lub numer telefonu,
+f) informację o ukończeniu przez zdającego szkoły dwujęzycznej lub oddziału dwujęzycznego wraz ze wskazaniem języka obcego nowożytnego będącego drugim językiem nauczania – w przypadku zdającego, o którym mowa w art. 44zzd ust. 4a,
 g) informację o ukończeniu przez zdającego szkoły lub oddziału z nauczaniem języka danej mniejszości narodowej wraz ze wskazaniem języka mniejszości narodowej, w którym były prowadzone zajęcia w tej szkole lub tym oddziale,
-h) informację o: przystąpieniu przez zdającego do egzaminu maturalnego z danego przedmiotu odpowiednio w terminie głównym, dodatkowym lub poprawkowym w danym roku szkolnym, nieprzystąpieniu przez zdającego do egzaminu maturalnego z danego przedmiotu w terminie poprawkowym, mimo złożenia przez zdającego oświadczenia o zamiarze przystąpienia do tego egzaminu w terminie poprawkowym w danym roku szkolnym,
+h) informację o: – przystąpieniu przez zdającego do egzaminu maturalnego z danego przedmiotu odpowiednio w terminie głównym, dodatkowym lub poprawkowym w danym roku szkolnym, – nieprzystąpieniu przez zdającego do egzaminu maturalnego z danego przedmiotu w terminie poprawkowym, mimo złożenia przez zdającego oświadczenia o zamiarze przystąpienia do tego egzaminu w terminie poprawkowym w danym roku szkolnym,
 i) przedmioty zdawane na egzaminie maturalnym, które zdający wskazał w deklaracji, o której mowa w art. 44zzi, w tym język lub języki, wraz z określeniem przedmiotów zdawanych jako obowiązkowe i dodatkowe, wskazaniem poziomu egzaminu maturalnego ze wszystkich przedmiotów obowiązkowych i dodatkowych oraz informacją o rezygnacji z przystąpienia do egzaminu maturalnego z danego przedmiotu dodatkowego lub danych przedmiotów dodatkowych w przypadku, o którym mowa w art. 44zzia,
 j) informację o przystąpieniu przez zdającego do egzaminu maturalnego w części ustnej lub części pisemnej z danego przedmiotu lub danych przedmiotów w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym wraz ze wskazaniem tego języka,
-k) informację o przystąpieniu przez zdającego do rozwiązywania dodatkowych zadań egzaminacyjnych wraz ze wskazaniem przedmiotów, z których były rozwiązywane dodatkowe zadania egzaminacyjne, oraz języka obcego nowożytnego, w którym zadania te były rozwiązywane w przypadku, o którym mowa w art. 44zzf ust. 2 i 3,
+k) informację o przystąpieniu przez zdającego do rozwiązywania dodatkowych zadań egzaminacyjnych wraz ze wskazaniem przedmiotów, z których były rozwiązywane dodatkowe zadania egzaminacyjne, oraz języka obcego nowożytnego, w którym zadania te były rozwiązywane – w przypadku, o którym mowa w art. 44zzf ust. 2 i 3,
 l) informację o spełnieniu przez zdającego warunku, o którym mowa w art. 44zzd ust. 4b, wraz ze wskazaniem dokumentów, o których mowa w art. 44zzd ust. 4b, przedstawionych przez zdającego w celu wykazania spełnienia tego warunku,
-m) informację o posiadaniu przez zdającego wykształcenia średniego lub średniego branżowego wraz ze wskazaniem dokumentów przedstawionych przez zdającego w celu wykazania spełnienia tego warunku w przypadku absolwentów, których szkoła została zlikwidowana lub przekształcona, osób, które uzyskały świadectwo ukończenia liceum ogólnokształcącego na podstawie egzaminów eksternistycznych, osób, które posiadają świadectwo lub inny dokument wydane za granicą i uznane w Rzeczypospolitej Polskiej za dokument potwierdzający wykształcenie średnie lub średnie branżowe, o których mowa w art. 93 ust. 2 i 3, osób, których wykształcenie średnie lub średnie branżowe zostało potwierdzone zgodnie z art. 93a, lub osób, które posiadają świadectwo szkolne uzyskane za granicą, uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, o której mowa w art. 93 ust. 2, w brzmieniu obowiązującym przed dniem 31 marca 2015 r.,
-n) informację o posiadaniu przez zdającego świadectwa dojrzałości uzyskanego po zdaniu egzaminu dojrzałości przeprowadzanego dla absolwentów ponadpodstawowych szkół średnich wraz z numerem tego świadectwa i pełną nazwą szkoły lub kuratora oświaty, który wydał to świadectwo w przypadku zdającego, o którym mowa w art. 44zzp ust. 1 pkt 1,
-o) informację o posiadaniu przez zdającego dyplomu IB (International Baccalaureate) wydanego przez organizację International Baccalaureate Organization w Genewie i uzyskanego po zakończeniu kształcenia w oddziale międzynarodowym, o którym mowa w art. 4 pkt 12 ustawy Prawo oświatowe, wraz z numerem tego dyplomu w przypadku zdającego, o którym mowa w art. 44zzp ust. 1 pkt 2,
+m) informację o posiadaniu przez zdającego wykształcenia średniego lub średniego branżowego wraz ze wskazaniem dokumentów przedstawionych przez zdającego w celu wykazania spełnienia tego warunku – w przypadku absolwentów, których szkoła została zlikwidowana lub przekształcona, osób, które uzyskały świadectwo ukończenia liceum ogólnokształcącego na podstawie egzaminów eksternistycznych, osób, które posiadają świadectwo lub inny dokument wydane za granicą i uznane w Rzeczypospolitej Polskiej za dokument potwierdzający wykształcenie średnie lub średnie branżowe, o których mowa w art. 93 ust. 2 i 3, osób, których wykształcenie średnie lub średnie branżowe zostało potwierdzone zgodnie z art. 93a, lub osób, które posiadają świadectwo szkolne uzyskane za granicą, uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, o której mowa w art. 93 ust. 2, w brzmieniu obowiązującym przed dniem 31 marca 2015 r.,
+n) informację o posiadaniu przez zdającego świadectwa dojrzałości uzyskanego po zdaniu egzaminu dojrzałości przeprowadzanego dla absolwentów ponadpodstawowych szkół średnich wraz z numerem tego świadectwa i pełną nazwą szkoły lub kuratora oświaty, który wydał to świadectwo – w przypadku zdającego, o którym mowa w art. 44zzp ust. 1 pkt 1,
+o) informację o posiadaniu przez zdającego dyplomu IB (International Baccalaureate) wydanego przez organizację International Baccalaureate Organization w Genewie i uzyskanego po zakończeniu kształcenia w oddziale międzynarodowym, o którym mowa w art. 4 pkt 12 ustawy – Prawo oświatowe, wraz z numerem tego dyplomu – w przypadku zdającego, o którym mowa w art. 44zzp ust. 1 pkt 2,
 p) informację o wyrażeniu zgody albo niewyrażeniu zgody przez zdającego na przetwarzanie danych osobowych, o której mowa w art. 6 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35), w celu udostępnienia przez administratora bazy danych systemu informacji oświatowej wyników egzaminu maturalnego uzyskanych przez zdającego uczelni, o przyjęcie do której ubiega się zdający,
 q) informację o posiadanym przez zdającego orzeczeniu o potrzebie kształcenia specjalnego, orzeczeniu o potrzebie indywidualnego nauczania, opinii poradni psychologiczno-pedagogicznej lub zaświadczeniu o stanie zdrowia wydanym przez lekarza wraz ze wskazaniem rodzaju niepełnosprawności lub rozpoznania określonych odpowiednio w orzeczeniu, opinii lub zaświadczeniu,
 r) informację o przyznanym zdającemu sposobie lub sposobach dostosowania warunków lub formy przeprowadzania egzaminu maturalnego, o których mowa w art. 44zzr, wraz ze wskazaniem tych warunków lub formy,
-s) odwzorowanie cyfrowe pracy egzaminacyjnej zdającego lub elementów pracy egzaminacyjnej z odpowiedziami zaznaczonymi lub zapisanymi przez zdającego w przypadku wykorzystania narzędzi elektronicznych, o których mowa w art. 44zzu ust. 2, do sprawdzania prac egzaminacyjnych zdających,
+s) odwzorowanie cyfrowe pracy egzaminacyjnej zdającego lub elementów pracy egzaminacyjnej z odpowiedziami zaznaczonymi lub zapisanymi przez zdającego – w przypadku wykorzystania narzędzi elektronicznych, o których mowa w art. 44zzu ust. 2, do sprawdzania prac egzaminacyjnych zdających,
 t) informację o zwolnieniu zdającego z części ustnej egzaminu maturalnego z danego przedmiotu lub danych przedmiotów,
 u) informację o posiadaniu przez zdającego tytułu laureata lub finalisty olimpiady przedmiotowej wymienionej w wykazie, o którym mowa w art. 44zzzw, wraz z pełną nazwą olimpiady,
 v) wynik egzaminu maturalnego uzyskany przez zdającego w części ustnej z danego przedmiotu,
 w) liczbę punktów za rozwiązanie każdego zadania w pracy egzaminacyjnej zdającego w części pisemnej,
 x) wynik egzaminu maturalnego uzyskany przez zdającego w części pisemnej z danego przedmiotu,
-y) informację o przystąpieniu ponownie przez zdającego do części ustnej lub części pisemnej egzaminu maturalnego z danego przedmiotu lub danych przedmiotów w przypadku, o którym mowa w art. 44zzn ust. 1 lub 2 albo art. 44zzo ust. 1,
-z) informację o wniesionej przez zdającego opłacie za egzamin maturalny z danego przedmiotu w danej części, o której mowa w art. 44zzq ust. 1, albo informację o zwolnieniu z tej opłaty w przypadku, o którym mowa w art. 44zzq ust. 4, za) informację o unieważnieniu zdającemu egzaminu maturalnego z danego przedmiotu w części ustnej lub w części pisemnej wraz ze wskazaniem podstawy prawnej tego unieważnienia, zb) identyfikator (login) umożliwiający zalogowanie się do SIOEO, przekazany zdającemu przez dyrektora szkoły lub dyrektora okręgowej komisji egzaminacyjnej, zc) informację o przekazanym zdającemu odpowiednio świadectwie dojrzałości, aneksie do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2, zaświadczeniu, o którym mowa w art. 44zzp ust. 2, lub informacji o wynikach egzaminu maturalnego, o której mowa w art. 44zzl ust. 5, wraz ze wskazaniem numeru wydanego dokumentu i daty jego wydania, a w przypadku wydania duplikatu tego świadectwa, aneksu albo zaświadczenia również informację o wydaniu tego duplikatu wraz z datą jego wydania;
+y) informację o przystąpieniu ponownie przez zdającego do części ustnej lub części pisemnej egzaminu maturalnego z danego przedmiotu lub danych przedmiotów – w przypadku, o którym mowa w art. 44zzn ust. 1 lub 2 albo art. 44zzo ust. 1,
+z) informację o wniesionej przez zdającego opłacie za egzamin maturalny z danego przedmiotu w danej części, o której mowa w art. 44zzq ust. 1, albo informację o zwolnieniu z tej opłaty w przypadku, o którym mowa w art. 44zzq ust. 4, za) informację o unieważnieniu zdającemu egzaminu maturalnego z danego przedmiotu w części ustnej lub w części pisemnej wraz ze wskazaniem podstawy prawnej tego unieważnienia, zb) identyfikator (login) umożliwiający zalogowanie się do SIOEO, przekazany zdającemu przez dyrektora szkoły lub dyrektora okręgowej komisji egzaminacyjnej, zc) informację o przekazanym zdającemu odpowiednio świadectwie dojrzałości, aneksie do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2, zaświadczeniu, o którym mowa w art. 44zzp ust. 2, lub informacji o wynikach egzaminu maturalnego, o której mowa w art. 44zzl ust. 5, wraz ze wskazaniem numeru wydanego dokumentu i daty jego wydania, a w przypadku wydania duplikatu tego świadectwa, aneksu albo zaświadczenia – również informację o wydaniu tego duplikatu wraz z datą jego wydania;
 3) w przypadku egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i ust. 3 pkt 2 lit. b i c:
 a) imię (imiona) i nazwisko zdającego,
-b) numer PESEL zdającego, a w przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
+b) numer PESEL zdającego, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
 c) datę urodzenia zdającego,
 d) płeć zdającego,
-e) dane kontaktowe zdającego: adres korespondencyjny, adres poczty elektronicznej i jeżeli zdający posiada i podał te dane we wniosku o dopuszczenie do egzaminów eksternistycznych, o którym mowa w przepisach wydanych na podstawie art. 10 ust. 5 numer telefonu,
-f) typ szkoły, z zakresu której zdający przystąpił do egzaminów eksternistycznych w przypadku, o którym mowa w art. 10 ust. 1,
-g) informację o: ukończeniu ośmioletniej szkoły podstawowej albo gimnazjum wraz ze wskazaniem dokumentu przedstawionego przez zdającego w celu wykazania ukończenia szkoły danego typu w przypadku zdającego egzamin eksternistyczny, o którym mowa w art. 10 ust. 1, przeprowadzany z zakresu obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania liceum ogólnokształcącego dla dorosłych lub egzaminy eksternistyczne, o których mowa w art. 10 ust. 3 pkt 2 lit. b, ukończeniu branżowej szkoły I stopnia albo zasadniczej szkoły zawodowej albo o zdaniu egzaminów eksternistycznych, o których mowa w art. 10 ust. 3 pkt 2 lit. b, albo egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej wraz ze wskazaniem dokumentów przedstawionych przez zdającego w celu wykazania ukończenia szkoły danego typu albo zdania tych egzaminów eksternistycznych w przypadku zdającego egzaminy eksternistyczne, o których mowa w art. 10 ust. 3 pkt 2 lit. c,
-h) zajęcia edukacyjne, z zakresu których zdający: przystąpił do egzaminu eksternistycznego z danych zajęć edukacyjnych w danej sesji egzaminacyjnej, nie przystąpił do egzaminu eksternistycznego z danych zajęć edukacyjnych w danej sesji egzaminacyjnej mimo dopuszczenia do egzaminu z danych zajęć,
+e) dane kontaktowe zdającego: adres korespondencyjny, adres poczty elektronicznej i – jeżeli zdający posiada i podał te dane we wniosku o dopuszczenie do egzaminów eksternistycznych, o którym mowa w przepisach wydanych na podstawie art. 10 ust. 5 – numer telefonu,
+f) typ szkoły, z zakresu której zdający przystąpił do egzaminów eksternistycznych – w przypadku, o którym mowa w art. 10 ust. 1,
+g) informację o: – ukończeniu ośmioletniej szkoły podstawowej albo gimnazjum wraz ze wskazaniem dokumentu przedstawionego przez zdającego w celu wykazania ukończenia szkoły danego typu – w przypadku zdającego egzamin eksternistyczny, o którym mowa w art. 10 ust. 1, przeprowadzany z zakresu obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania liceum ogólnokształcącego dla dorosłych lub egzaminy eksternistyczne, o których mowa w art. 10 ust. 3 pkt 2 lit. b, – ukończeniu branżowej szkoły I stopnia albo zasadniczej szkoły zawodowej albo o zdaniu egzaminów eksternistycznych, o których mowa w art. 10 ust. 3 pkt 2 lit. b, albo egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej wraz ze wskazaniem dokumentów przedstawionych przez zdającego w celu wykazania ukończenia szkoły danego typu albo zdania tych egzaminów eksternistycznych – w przypadku zdającego egzaminy eksternistyczne, o których mowa w art. 10 ust. 3 pkt 2 lit. c,
+h) zajęcia edukacyjne, z zakresu których zdający: – przystąpił do egzaminu eksternistycznego z danych zajęć edukacyjnych w danej sesji egzaminacyjnej, – nie przystąpił do egzaminu eksternistycznego z danych zajęć edukacyjnych w danej sesji egzaminacyjnej mimo dopuszczenia do egzaminu z danych zajęć,
 i) termin złożenia przez zdającego pisemnej informacji, o której mowa w przepisach wydanych na podstawie art. 10 ust. 5, w której zdający wskazał zajęcia edukacyjne, z zakresu których zamierzał zdawać egzaminy eksternistyczne w danej sesji egzaminacyjnej,
 j) informację o wniesionej przez zdającego opłacie za egzaminy eksternistyczne z danych zajęć edukacyjnych, o której mowa w art. 10 ust. 4c, albo informację o zwolnieniu z tej opłaty w przypadku, o którym mowa w przepisach wydanych na podstawie w art. 10 ust. 5,
 k) informację o posiadanym przez zdającego zaświadczeniu potwierdzającym występowanie dysfunkcji wydanym przez lekarza, o którym mowa w przepisach wydanych na podstawie art. 10 ust. 5, wraz ze wskazaniem rodzaju niepełnosprawności,
@@ -697,11 +674,11 @@ n) liczbę punktów uzyskanych przez zdającego na egzaminie eksternistycznym z 
 o) wynik egzaminu eksternistycznego z danych zajęć edukacyjnych uzyskany przez zdającego,
 p) informację o unieważnieniu zdającemu egzaminu eksternistycznego z danych zajęć edukacyjnych wraz ze wskazaniem podstawy prawnej tego unieważnienia,
 q) identyfikator (login) umożliwiający zalogowanie się do SIOEO, przekazany zdającemu przez dyrektora okręgowej komisji egzaminacyjnej,
-r) informację o przekazanym zdającemu odpowiednio świadectwie ukończenia szkoły podstawowej, świadectwie ukończenia liceum ogólnokształcącego, zaświadczeniu o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla odpowiednio branżowej szkoły I stopnia lub branżowej szkoły II stopnia wraz ze wskazaniem numeru wydanego dokumentu i daty jego wydania, a w przypadku wydania duplikatu tego dokumentu również informację o wydaniu tego duplikatu wraz z datą jego wydania.
+r) informację o przekazanym zdającemu odpowiednio świadectwie ukończenia szkoły podstawowej, świadectwie ukończenia liceum ogólnokształcącego, zaświadczeniu o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla odpowiednio branżowej szkoły I stopnia lub branżowej szkoły II stopnia wraz ze wskazaniem numeru wydanego dokumentu i daty jego wydania, a w przypadku wydania duplikatu tego dokumentu – również informację o wydaniu tego duplikatu wraz z datą jego wydania.
 2. W SIOEO gromadzi się i przetwarza również dane o egzaminatorach wpisanych do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, w zakresie egzaminu ósmoklasisty, egzaminu maturalnego i egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i ust. 3 pkt 2 lit. b i c, obejmujące:
 1) imię (imiona) i nazwisko egzaminatora;
 2) datę urodzenia egzaminatora;
-3) numer PESEL egzaminatora, a w przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+3) numer PESEL egzaminatora, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
 4) dane kontaktowe egzaminatora: adres zamieszkania, adres do korespondencji, numer telefonu i adres poczty elektronicznej;
 5) nauczany przez egzaminatora przedmiot lub przedmioty;
 6) zakres, w którym jest egzaminatorem, zgodnie z zakresem określonym w przepisach wydanych na podstawie art. 9c ust. 8;
@@ -711,41 +688,41 @@ r) informację o przekazanym zdającemu odpowiednio świadectwie ukończenia szk
 Art. 44zzzze. 1. W SIOEZ gromadzi się i przetwarza dane, które obejmują:
 1) w przypadku egzaminu zawodowego:
 a) imię (imiona) i nazwisko zdającego,
-b) numer PESEL zdającego, a w przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
+b) numer PESEL zdającego, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
 c) datę urodzenia zdającego,
 d) płeć zdającego,
-e) dane kontaktowe zdającego: adres korespondencyjny i jeżeli zdający posiada i podał te dane w deklaracji, o której mowa w art. 44zzzg adres poczty elektronicznej lub numer telefonu,
+e) dane kontaktowe zdającego: adres korespondencyjny i – jeżeli zdający posiada i podał te dane w deklaracji, o której mowa w art. 44zzzg – adres poczty elektronicznej lub numer telefonu,
 f) informację o przystąpieniu przez zdającego do egzaminu zawodowego lub jego części odpowiednio w terminie głównym lub dodatkowym w danym roku szkolnym,
 g) nazwę i symbol cyfrowy zawodu oraz symbol i nazwę kwalifikacji wyodrębnionej w danym zawodzie lub danych zawodach szkolnictwa branżowego, w zakresie której zdający przystąpił do egzaminu zawodowego,
-h) informację o posiadaniu przez zdającego świadectwa ukończenia szkoły danego typu potwierdzającego posiadanie przez zdającego odpowiednio wykształcenia zasadniczego zawodowego, wykształcenia zasadniczego branżowego, wykształcenia średniego branżowego lub wykształcenia średniego w przypadku zdających, których szkoła została zlikwidowana lub przekształcona,
-i) informację o posiadaniu przez zdającego zaświadczenia o ukończeniu kwalifikacyjnego kursu zawodowego w przypadku osób, które ukończyły kwalifikacyjny kurs zawodowy,
+h) informację o posiadaniu przez zdającego świadectwa ukończenia szkoły danego typu potwierdzającego posiadanie przez zdającego odpowiednio wykształcenia zasadniczego zawodowego, wykształcenia zasadniczego branżowego, wykształcenia średniego branżowego lub wykształcenia średniego – w przypadku zdających, których szkoła została zlikwidowana lub przekształcona,
+i) informację o posiadaniu przez zdającego zaświadczenia o ukończeniu kwalifikacyjnego kursu zawodowego – w przypadku osób, które ukończyły kwalifikacyjny kurs zawodowy,
 j) informację o posiadaniu przez zdającego tytułu laureata lub finalisty turnieju lub olimpiady tematycznej związanych z wybraną dziedziną wiedzy, wymienionych w wykazie, o którym mowa w art. 44zzzw, wraz z pełną nazwą turnieju lub olimpiady,
 k) informację o posiadanym przez zdającego orzeczeniu o potrzebie kształcenia specjalnego, orzeczeniu o potrzebie indywidualnego nauczania, opinii poradni psychologiczno-pedagogicznej, zaświadczeniu o stanie zdrowia wydanym przez lekarza lub zaświadczeniu potwierdzającym występowanie dysfunkcji wydanym przez lekarza, o którym mowa w art. 44zzzh ust. 1, wraz ze wskazaniem rodzaju niepełnosprawności lub rozpoznania określonych odpowiednio w orzeczeniu, opinii lub zaświadczeniu,
 l) informację o przyznanym zdającemu sposobie lub sposobach dostosowania warunków lub formy przeprowadzania egzaminu zawodowego, o których mowa w art. 44zzzf lub art. 44zzzh, wraz ze wskazaniem tych warunków lub formy,
 m) odpowiedzi wybrane przez zdającego w zadaniach egzaminacyjnych w części pisemnej egzaminu zawodowego,
 n) oznaczenia naniesione na kartę oceny zdającego w części praktycznej egzaminu zawodowego,
-o) odwzorowanie cyfrowe pracy egzaminacyjnej zdającego lub elementów pracy egzaminacyjnej w części praktycznej egzaminu zawodowego, której rezultatem końcowym jest dokumentacja, z odpowiedziami zapisanymi przez zdającego w przypadku wykorzystania narzędzi elektronicznych, o których mowa w art. 44zzzn ust. 1, do sprawdzania prac egzaminacyjnych zdających w części praktycznej egzaminu zawodowego,
+o) odwzorowanie cyfrowe pracy egzaminacyjnej zdającego lub elementów pracy egzaminacyjnej w części praktycznej egzaminu zawodowego, której rezultatem końcowym jest dokumentacja, z odpowiedziami zapisanymi przez zdającego – w przypadku wykorzystania narzędzi elektronicznych, o których mowa w art. 44zzzn ust. 1, do sprawdzania prac egzaminacyjnych zdających w części praktycznej egzaminu zawodowego,
 p) informację o zwolnieniu zdającego z egzaminu zawodowego lub jego części wraz ze wskazaniem podstawy prawnej tego zwolnienia,
 q) wynik z części pisemnej i wynik z części praktycznej egzaminu zawodowego uzyskany przez zdającego,
 r) wynik egzaminu zawodowego ustalony zgodnie z art. 11b ust. 5 lub 6, lub art. 44zzzo ust. 3, uzyskany przez zdającego,
 s) końcowy wynik egzaminów zawodowych ustalony zgodnie z art. 11b ust. 7 lub art. 44zzzo ust. 6, uzyskany przez zdającego,
-t) informację o przystąpieniu przez zdającego do egzaminu zawodowego lub jego części w terminie dodatkowym w przypadku, o którym mowa w art. 44zzzga ust. 1,
-u) informację o przekazanym zdającemu odpowiednio certyfikacie kwalifikacji zawodowej, o którym mowa w art. 44zzzo ust. 4, lub dyplomie zawodowym wraz ze wskazaniem numeru wydanego dokumentu i daty jego wydania, a w przypadku wydania duplikatu tego certyfikatu lub dyplomu również informację o wydaniu tego duplikatu wraz z datą jego wydania,
-v) informację o spełnieniu przez zdającego warunków do uzyskania dyplomu zawodowego w zawodzie nauczanym na poziomie technika zgodnie z art. 11b ust. 1 wraz z informacją o posiadaniu przez zdającego wykształcenia średniego lub średniego branżowego, dokumentów przedstawionych przez zdającego potwierdzających spełnienie tego warunku, a w przypadku przedstawienia przez zdającego świadectwa czeladniczego również oceny na tym świadectwie,
+t) informację o przystąpieniu przez zdającego do egzaminu zawodowego lub jego części w terminie dodatkowym – w przypadku, o którym mowa w art. 44zzzga ust. 1,
+u) informację o przekazanym zdającemu odpowiednio certyfikacie kwalifikacji zawodowej, o którym mowa w art. 44zzzo ust. 4, lub dyplomie zawodowym wraz ze wskazaniem numeru wydanego dokumentu i daty jego wydania, a w przypadku wydania duplikatu tego certyfikatu lub dyplomu – również informację o wydaniu tego duplikatu wraz z datą jego wydania,
+v) informację o spełnieniu przez zdającego warunków do uzyskania dyplomu zawodowego w zawodzie nauczanym na poziomie technika zgodnie z art. 11b ust. 1 wraz z informacją o posiadaniu przez zdającego wykształcenia średniego lub średniego branżowego, dokumentów przedstawionych przez zdającego potwierdzających spełnienie tego warunku, a w przypadku przedstawienia przez zdającego świadectwa czeladniczego – również oceny na tym świadectwie,
 w) informację o unieważnieniu zdającemu egzaminu zawodowego w części pisemnej lub części praktycznej wraz ze wskazaniem podstawy prawnej tego unieważnienia,
-x) identyfikator (login) umożliwiający zalogowanie się do SIOEZ, przekazany zdającemu przez dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, lub dyrektora okręgowej komisji egzaminacyjnej,
-y) informację o upoważnieniu do przeprowadzania części praktycznej lub części pisemnej egzaminu zawodowego, o którym mowa w art. 9c ust. 2 pkt 9, wraz ze wskazaniem: nazwy i adresu szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, i adresu poczty elektronicznej, oraz jeżeli podmiot posiada i podał te dane we wniosku o udzielenie upoważnienia lub wniosku o przedłużenie upoważnienia, o których mowa w przepisach wydanych na podstawie art. 44zzzv numeru telefonu, imienia i nazwiska dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe w przypadku upoważnienia udzielonego szkole, placówce lub centrum, indywidualnego numeru identyfikacyjnego, o którym mowa w art. 9c ust. 2b, okresu, na jaki upoważnienie zostało udzielone;
+x) identyfikator (login) umożliwiający zalogowanie się do SIOEZ, przekazany zdającemu przez dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub dyrektora okręgowej komisji egzaminacyjnej,
+y) informację o upoważnieniu do przeprowadzania części praktycznej lub części pisemnej egzaminu zawodowego, o którym mowa w art. 9c ust. 2 pkt 9, wraz ze wskazaniem: – nazwy i adresu szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, i adresu poczty elektronicznej, oraz – jeżeli podmiot posiada i podał te dane we wniosku o udzielenie upoważnienia lub wniosku o przedłużenie upoważnienia, o których mowa w przepisach wydanych na podstawie art. 44zzzv – numeru telefonu, – imienia i nazwiska dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe – w przypadku upoważnienia udzielonego szkole, placówce lub centrum, – indywidualnego numeru identyfikacyjnego, o którym mowa w art. 9c ust. 2b, – okresu, na jaki upoważnienie zostało udzielone;
 2) w przypadku egzaminu eksternistycznego zawodowego, o którym mowa w art. 10 ust. 3 pkt 1, dane, o których mowa w ust. 1 pkt 1, oraz informację o:
 a) okręgowej komisji egzaminacyjnej, w której zdający przystąpił do egzaminu eksternistycznego zawodowego,
 b) terminie złożenia przez zdającego wniosku o dopuszczenie do egzaminu eksternistycznego zawodowego, o którym mowa w przepisach wydanych na podstawie art. 10 ust. 5,
 c) ukończeniu ośmioletniej szkoły podstawowej albo gimnazjum wraz ze wskazaniem dokumentu przedstawionego przez zdającego w celu wykazania ukończenia tej szkoły,
-d) posiadaniu przez zdającego wykształcenia zasadniczego zawodowego, wykształcenia zasadniczego branżowego, wykształcenia średniego branżowego lub wykształcenia średniego wraz ze wskazaniem dokumentów przedstawionych przez zdającego w celu wykazania spełnienia tego warunku w przypadku osób, które posiadają świadectwo lub inny dokument wydane za granicą potwierdzające w Rzeczypospolitej Polskiej wykształcenie średnie, o których mowa w art. 93 ust. 1, osób, które posiadają świadectwo lub inny dokument wydane za granicą i uznane w Rzeczypospolitej Polskiej za dokument potwierdzający wykształcenie zasadnicze zawodowe, wykształcenie zasadnicze branżowe, wykształcenie średnie branżowe lub wykształcenie średnie, zgodnie z art. 93 ust. 2 i 3, osób, których wykształcenie zasadnicze zawodowe, wykształcenie zasadnicze branżowe, wykształcenie średnie branżowe lub wykształcenie średnie zostało potwierdzone zgodnie z art. 93a, lub osób, które posiadają świadectwo szkolne uzyskane za granicą uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, o której mowa w art. 93 ust. 2, w brzmieniu obowiązującym przed dniem 31 marca 2015 r.,
+d) posiadaniu przez zdającego wykształcenia zasadniczego zawodowego, wykształcenia zasadniczego branżowego, wykształcenia średniego branżowego lub wykształcenia średniego wraz ze wskazaniem dokumentów przedstawionych przez zdającego w celu wykazania spełnienia tego warunku – w przypadku osób, które posiadają świadectwo lub inny dokument wydane za granicą potwierdzające w Rzeczypospolitej Polskiej wykształcenie średnie, o których mowa w art. 93 ust. 1, osób, które posiadają świadectwo lub inny dokument wydane za granicą i uznane w Rzeczypospolitej Polskiej za dokument potwierdzający wykształcenie zasadnicze zawodowe, wykształcenie zasadnicze branżowe, wykształcenie średnie branżowe lub wykształcenie średnie, zgodnie z art. 93 ust. 2 i 3, osób, których wykształcenie zasadnicze zawodowe, wykształcenie zasadnicze branżowe, wykształcenie średnie branżowe lub wykształcenie średnie zostało potwierdzone zgodnie z art. 93a, lub osób, które posiadają świadectwo szkolne uzyskane za granicą uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, o której mowa w art. 93 ust. 2, w brzmieniu obowiązującym przed dniem 31 marca 2015 r.,
 e) kształceniu się zdającego lub pracy zdającego w zawodzie, w którym wyodrębniono daną kwalifikację zgodnie z klasyfikacją zawodów szkolnictwa branżowego wraz ze wskazaniem dokumentu lub dokumentów przedstawionych przez zdającego w celu spełnienia tego warunku,
 f) wniesionej przez zdającego opłacie za egzamin eksternistyczny zawodowy, o której mowa w art. 10 ust. 4c, albo informację o zwolnieniu z tej opłaty w przypadku, o którym mowa w przepisach wydanych na podstawie art. 10 ust. 5.
 2. W SIOEZ gromadzi się i przetwarza również dane o egzaminatorach wpisanych do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, w zakresie egzaminu zawodowego obejmujące:
 1) imię (imiona) i nazwisko egzaminatora;
 2) datę urodzenia egzaminatora;
-3) numer PESEL egzaminatora, a w przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+3) numer PESEL egzaminatora, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
 4) dane kontaktowe egzaminatora: adres zamieszkania, adres do korespondencji, numer telefonu i adres poczty elektronicznej;
 5) zakres, w którym jest egzaminatorem, zgodnie z zakresem określonym w przepisach wydanych na podstawie art. 9c ust. 8;
 6) nazwę i adres miejsca pracy egzaminatora;
@@ -763,46 +740,46 @@ Art. 44zzzzf. 1. Współadministratorami danych gromadzonych i przetwarzanych w 
 Art. 44zzzzg. 1. Dyrektor okręgowej komisji egzaminacyjnej przekazuje do SIOEO:
 1) w przypadku egzaminu ósmoklasisty:
 a) dane, o których mowa w art. 44zzzzd ust. 1 pkt 1 lit. h, i, k, l oraz o,
-b) dane, o których mowa w art. 44zzzzd ust. 1 pkt 1: lit. g w przypadku gdy uczeń przystępował do egzaminu ósmoklasisty w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzr ust. 17, lit. m w przypadku unieważnienia uczniowi egzaminu ósmoklasisty z danego przedmiotu przez dyrektora okręgowej komisji egzaminacyjnej,
+b) dane, o których mowa w art. 44zzzzd ust. 1 pkt 1: – lit. g – w przypadku gdy uczeń przystępował do egzaminu ósmoklasisty w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzr ust. 17, – lit. m – w przypadku unieważnienia uczniowi egzaminu ósmoklasisty z danego przedmiotu przez dyrektora okręgowej komisji egzaminacyjnej,
 c) dane o egzaminatorach w zakresie egzaminu ósmoklasisty, o których mowa w art. 44zzzzd ust. 2;
 2) w przypadku egzaminu maturalnego:
 a) dane, o których mowa w art. 44zzzzd ust. 1 pkt 2 lit. s, w, x, z oraz zc,
-b) dane, o których mowa w art. 44zzzzd ust. 1 pkt 2: lit. a–za oraz zc w przypadku gdy zdający składał deklarację przystąpienia do egzaminu maturalnego do dyrektora okręgowej komisji egzaminacyjnej, lit. r w przypadku gdy zdający przystępował do egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzr ust. 17, lit. za w przypadku unieważnienia zdającemu egzaminu maturalnego z danego przedmiotu w części pisemnej przez dyrektora okręgowej komisji egzaminacyjnej,
+b) dane, o których mowa w art. 44zzzzd ust. 1 pkt 2: – lit. a–za oraz zc – w przypadku gdy zdający składał deklarację przystąpienia do egzaminu maturalnego do dyrektora okręgowej komisji egzaminacyjnej, – lit. r – w przypadku gdy zdający przystępował do egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzr ust. 17, – lit. za – w przypadku unieważnienia zdającemu egzaminu maturalnego z danego przedmiotu w części pisemnej przez dyrektora okręgowej komisji egzaminacyjnej,
 c) dane o egzaminatorach w zakresie egzaminu maturalnego, o których mowa w art. 44zzzzd ust. 2;
 3) w przypadku egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i ust. 3 pkt 2 lit. b i c:
 a) dane, o których mowa w art. 44zzzzd ust. 1 pkt 3,
 b) dane o egzaminatorach w zakresie egzaminów eksternistycznych, o których mowa w art. 44zzzzd ust. 2.
 2. Dyrektor szkoły, w której jest przeprowadzany egzamin ósmoklasisty lub egzamin maturalny, przekazuje do SIOEO:
-1) w przypadku egzaminu ósmoklasisty dane, o których mowa w art. 44zzzzd ust. 1 pkt 1:
+1) w przypadku egzaminu ósmoklasisty – dane, o których mowa w art. 44zzzzd ust. 1 pkt 1:
 a) lit. a–f oraz j,
-b) lit. g w przypadku gdy uczeń przystępował do egzaminu ósmoklasisty w warunkach lub formie dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzr ust. 1–7,
-c) lit. m w przypadku unieważnienia uczniowi egzaminu ósmoklasisty z danego przedmiotu przez przewodniczącego zespołu egzaminacyjnego;
-2) w przypadku egzaminu maturalnego dane absolwentów danej szkoły, którzy złożyli deklarację przystąpienia do egzaminu maturalnego do dyrektora tej szkoły, o których mowa w art. 44zzzzd ust. 1 pkt 2:
+b) lit. g – w przypadku gdy uczeń przystępował do egzaminu ósmoklasisty w warunkach lub formie dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzr ust. 1–7,
+c) lit. m – w przypadku unieważnienia uczniowi egzaminu ósmoklasisty z danego przedmiotu przez przewodniczącego zespołu egzaminacyjnego;
+2) w przypadku egzaminu maturalnego – dane absolwentów danej szkoły, którzy złożyli deklarację przystąpienia do egzaminu maturalnego do dyrektora tej szkoły, o których mowa w art. 44zzzzd ust. 1 pkt 2:
 a) lit. a–l, o–q, t–v oraz y,
-b) lit. r w przypadku gdy zdający przystępował do egzaminu maturalnego w warunkach lub formie dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzr ust. 1–7,
-c) lit. za w przypadku unieważnienia zdającemu egzaminu maturalnego z danego przedmiotu w części ustnej lub w części pisemnej przez przewodniczącego zespołu egzaminacyjnego.
+b) lit. r – w przypadku gdy zdający przystępował do egzaminu maturalnego w warunkach lub formie dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzr ust. 1–7,
+c) lit. za – w przypadku unieważnienia zdającemu egzaminu maturalnego z danego przedmiotu w części ustnej lub w części pisemnej przez przewodniczącego zespołu egzaminacyjnego.
 3. Dyrektor szkoły pozyskuje z SIOEO:
-1) w przypadku egzaminu ósmoklasisty dane, o których mowa w art. 44zzzzd ust. 1 pkt 1 lit. a–g, i–m oraz o;
-2) w przypadku egzaminu maturalnego dane, o których mowa w art. 44zzzzd ust. 1 pkt 2 lit. a–l, o–r, t–za oraz zc.
+1) w przypadku egzaminu ósmoklasisty – dane, o których mowa w art. 44zzzzd ust. 1 pkt 1 lit. a–g, i–m oraz o;
+2) w przypadku egzaminu maturalnego – dane, o których mowa w art. 44zzzzd ust. 1 pkt 2 lit. a–l, o–r, t–za oraz zc.
 4. Zdający pozyskuje z SIOEO:
-1) w przypadku egzaminu ósmoklasisty własne dane, o których mowa w art. 44zzzzd ust. 1 pkt 1 lit. a–e, g, i–l, n oraz o;
-2) w przypadku egzaminu maturalnego własne dane, o których mowa w art. 44zzzzd ust. 1 pkt 2 lit. a–e, i–l, p, r, u–x, z, zb oraz zc;
-3) w przypadku egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i ust. 3 pkt 2 lit. b i c własne dane, o których mowa w art. 44zzzzd ust. 1 pkt 3 lit. a–f, h–o, q oraz r.
+1) w przypadku egzaminu ósmoklasisty – własne dane, o których mowa w art. 44zzzzd ust. 1 pkt 1 lit. a–e, g, i–l, n oraz o;
+2) w przypadku egzaminu maturalnego – własne dane, o których mowa w art. 44zzzzd ust. 1 pkt 2 lit. a–e, i–l, p, r, u–x, z, zb oraz zc;
+3) w przypadku egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i ust. 3 pkt 2 lit. b i c – własne dane, o których mowa w art. 44zzzzd ust. 1 pkt 3 lit. a–f, h–o, q oraz r.
 5. Dyrektor Centralnej Komisji Egzaminacyjnej pozyskuje z SIOEO dane, o których mowa w art. 44zzzzd ust. 1, z wyjątkiem danych, o których mowa w art. 44zzzzd ust. 1 pkt 1 lit. a–c, f, h, i, n oraz o, pkt 2 lit. a–c, e, l–q, s oraz zb, pkt 3 lit. a–c, e, g, i, k, q oraz r.
 Art. 44zzzzh. 1. Dyrektor okręgowej komisji egzaminacyjnej przekazuje do SIOEZ:
 1) w przypadku egzaminu zawodowego:
 a) dane, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. o–s, u, v oraz y,
-b) dane, o których mowa w art. 44zzzze ust. 1 pkt 1: lit. a–l oraz n–w w przypadku gdy zdający składał deklarację przystąpienia do egzaminu zawodowego do dyrektora okręgowej komisji egzaminacyjnej, lit. l w przypadku gdy zdający przystępował do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzzf ust. 15, lit. w w przypadku unieważnienia zdającemu egzaminu zawodowego w części pisemnej lub części praktycznej przez dyrektora okręgowej komisji egzaminacyjnej,
+b) dane, o których mowa w art. 44zzzze ust. 1 pkt 1: – lit. a–l oraz n–w – w przypadku gdy zdający składał deklarację przystąpienia do egzaminu zawodowego do dyrektora okręgowej komisji egzaminacyjnej, – lit. l – w przypadku gdy zdający przystępował do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzzf ust. 15, – lit. w – w przypadku unieważnienia zdającemu egzaminu zawodowego w części pisemnej lub części praktycznej przez dyrektora okręgowej komisji egzaminacyjnej,
 c) dane o egzaminatorach w zakresie egzaminu zawodowego, o których mowa w art. 44zzzze ust. 2;
-2) w przypadku egzaminu eksternistycznego zawodowego, o którym mowa w art. 10 ust. 3 pkt 1 dane, o których mowa w pkt 1 lit. a oraz b, oraz w art. 44zzzze ust. 1 pkt 2.
-2. Dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, przekazuje do SIOEZ dane zdających, którzy złożyli deklarację przystąpienia do egzaminu zawodowego do dyrektora danej szkoły, placówki lub centrum, lub do danego pracodawcy, lub w podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o których mowa w art. 44zzzze ust. 1 pkt 1:
+2) w przypadku egzaminu eksternistycznego zawodowego, o którym mowa w art. 10 ust. 3 pkt 1 – dane, o których mowa w pkt 1 lit. a oraz b, oraz w art. 44zzzze ust. 1 pkt 2.
+2. Dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, przekazuje do SIOEZ dane zdających, którzy złożyli deklarację przystąpienia do egzaminu zawodowego do dyrektora danej szkoły, placówki lub centrum, lub do danego pracodawcy, lub w podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o których mowa w art. 44zzzze ust. 1 pkt 1:
 1) lit. a–g oraz i–k;
-2) lit. l w przypadku gdy zdający przystępował do egzaminu zawodowego w części pisemnej lub w części praktycznej w warunkach lub formie dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzzf ust. 1–6;
-3) lit. w w przypadku unieważnienia zdającemu egzaminu zawodowego w części pisemnej lub w części praktycznej przez przewodniczącego zespołu egzaminacyjnego.
-3. Dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, u których jest przeprowadzany ten egzamin, pozyskuje z SIOEZ dane zdających przystępujących do egzaminu zawodowego w danej szkole, placówce lub centrum, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. a–g, i–n oraz p–w.
+2) lit. l – w przypadku gdy zdający przystępował do egzaminu zawodowego w części pisemnej lub w części praktycznej w warunkach lub formie dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych zgodnie z art. 44zzzf ust. 1–6;
+3) lit. w – w przypadku unieważnienia zdającemu egzaminu zawodowego w części pisemnej lub w części praktycznej przez przewodniczącego zespołu egzaminacyjnego.
+3. Dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, u których jest przeprowadzany ten egzamin, pozyskuje z SIOEZ dane zdających przystępujących do egzaminu zawodowego w danej szkole, placówce lub centrum, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. a–g, i–n oraz p–w.
 4. Zdający pozyskuje z SIOEZ:
-1) w przypadku egzaminu zawodowego własne dane, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. a–g, j, l–n, q–s, u oraz x;
-2) w przypadku egzaminu eksternistycznego zawodowego, o którym mowa w art. 10 ust. 3 pkt 1 własne dane, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. a–g, j, l–n, q–s, u oraz x, a także pkt 2 lit. a oraz f.
+1) w przypadku egzaminu zawodowego – własne dane, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. a–g, j, l–n, q–s, u oraz x;
+2) w przypadku egzaminu eksternistycznego zawodowego, o którym mowa w art. 10 ust. 3 pkt 1 – własne dane, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. a–g, j, l–n, q–s, u oraz x, a także pkt 2 lit. a oraz f.
 Art. 44zzzzi. Dane, o których mowa w art. 44zzzzd i art. 44zzzze, są przechowywane i przetwarzane odpowiednio w SIOEO lub SIOEZ:
 1) bezterminowo w przypadku danych dotyczących:
 a) egzaminu ósmoklasisty, o których mowa w art. 44zzzzd ust. 1 pkt 1 lit. a–e, i–l, n oraz o,
@@ -810,36 +787,37 @@ b) egzaminu maturalnego, o których mowa w art. 44zzzzd ust. 1 pkt 2 lit. a–d,
 c) egzaminów eksternistycznych, o których mowa w art. 44zzzzd ust. 1 pkt 3 lit. a–d, f–h, j oraz l–r,
 d) egzaminu zawodowego, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. a–d, f–j, l–n oraz p–x,
 e) egzaminu eksternistycznego zawodowego, o których mowa w art. 44zzzze ust. 1 pkt 2 lit. a oraz c–f;
-2) przez okres 10 lat kalendarzowych, licząc od dnia 1 stycznia roku kalendarzowego następującego po roku wydania zdającemu odpowiednio świadectwa dojrzałości, aneksu do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2, zaświadczenia o wynikach egzaminu maturalnego, o którym mowa w art. 44zzp ust. 2, informacji o wynikach egzaminu maturalnego, o której mowa w art. 44zzl ust. 5, certyfikatu kwalifikacji zawodowej, o którym mowa w art. 44zzzo ust. 4, dyplomu zawodowego lub świadectwa ukończenia szkoły danego typu na podstawie egzaminów eksternistycznych, o którym mowa w art. 10 ust. 1 w przypadku danych dotyczących:
+2) przez okres 10 lat kalendarzowych, licząc od dnia 1 stycznia roku kalendarzowego następującego po roku wydania zdającemu odpowiednio świadectwa dojrzałości, aneksu do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2, zaświadczenia o wynikach egzaminu maturalnego, o którym mowa w art. 44zzp ust. 2, informacji o wynikach egzaminu maturalnego, o której mowa w art. 44zzl ust. 5, certyfikatu kwalifikacji zawodowej, o którym mowa w art. 44zzzo ust. 4, dyplomu zawodowego lub świadectwa ukończenia szkoły danego typu na podstawie egzaminów eksternistycznych, o którym mowa w art. 10 ust. 1 – w przypadku danych dotyczących:
 a) egzaminu maturalnego, o których mowa w art. 44zzzzd ust. 1 pkt 2 lit. e,
 b) egzaminów eksternistycznych, o których mowa w art. 44zzzzd ust. 1 pkt 3 lit. e oraz i,
 c) egzaminu zawodowego, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. e,
 d) egzaminu eksternistycznego zawodowego, o których mowa w art. 44zzzze ust. 1 pkt 2 lit. b;
-3) przez okres roku kalendarzowego, licząc od dnia 1 stycznia roku kalendarzowego następującego po roku wydania zdającemu odpowiednio zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, o którym mowa w art. 44zza ust. 8 pkt 1, świadectwa dojrzałości, aneksu do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2, zaświadczenia o wynikach egzaminu maturalnego, o którym mowa w art. 44zzp ust. 2, informacji o wynikach egzaminu maturalnego, o której mowa w art. 44zzl ust. 5, certyfikatu kwalifikacji zawodowej, o którym mowa w art. 44zzzo ust. 4, dyplomu zawodowego lub świadectwa ukończenia szkoły danego typu na podstawie egzaminów eksternistycznych, o którym mowa w art. 10 ust. 1 w przypadku danych dotyczących:
+3) przez okres roku kalendarzowego, licząc od dnia 1 stycznia roku kalendarzowego następującego po roku wydania zdającemu odpowiednio zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, o którym mowa w art. 44zza ust. 8 pkt 1, świadectwa dojrzałości, aneksu do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2, zaświadczenia o wynikach egzaminu maturalnego, o którym mowa w art. 44zzp ust. 2, informacji o wynikach egzaminu maturalnego, o której mowa w art. 44zzl ust. 5, certyfikatu kwalifikacji zawodowej, o którym mowa w art. 44zzzo ust. 4, dyplomu zawodowego lub świadectwa ukończenia szkoły danego typu na podstawie egzaminów eksternistycznych, o którym mowa w art. 10 ust. 1 – w przypadku danych dotyczących:
 a) egzaminu ósmoklasisty, o których mowa w art. 44zzzzd ust. 1 pkt 1 lit. f–h oraz m,
 b) egzaminu maturalnego, o których mowa w art. 44zzzzd ust. 1 pkt 2 lit. q oraz s,
 c) egzaminów eksternistycznych, o których mowa w art. 44zzzzd ust. 1 pkt 3 lit. k,
 d) egzaminu zawodowego, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. k oraz o;
-4) do dnia skreślenia egzaminatora z ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 w przypadku danych, o których mowa w art. 44zzzzd ust. 2 i art. 44zzzze ust. 2;
-5) do dnia utraty ważności upoważnienia do przeprowadzania części praktycznej lub części pisemnej egzaminu zawodowego w przypadku danych, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. y.
-Art. 44zzzzj. 1. Dyrektor okręgowej komisji egzaminacyjnej, dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, oraz dyrektor Centralnej Komisji Egzaminacyjnej mogą upoważnić do dostępu odpowiednio do SIOEO lub SIOEZ pracownika lub pracowników jednostki, którą kierują.
+4) do dnia skreślenia egzaminatora z ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 – w przypadku danych, o których mowa w art. 44zzzzd ust. 2 i art. 44zzzze ust. 2;
+5) do dnia utraty ważności upoważnienia do przeprowadzania części praktycznej lub części pisemnej egzaminu zawodowego – w przypadku danych, o których mowa w art. 44zzzze ust. 1 pkt 1 lit. y.
+Art. 44zzzzj. 1. Dyrektor okręgowej komisji egzaminacyjnej, dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, oraz dyrektor Centralnej Komisji Egzaminacyjnej mogą upoważnić do dostępu odpowiednio do SIOEO lub SIOEZ pracownika lub pracowników jednostki, którą kierują.
 2. Dyrektor jednostki organizacyjnej, o której mowa w art. 44zzzzb ust. 1, może upoważnić do dostępu do SIOEO pracowników okręgowej komisji egzaminacyjnej, pracowników szkoły, w której jest przeprowadzany egzamin ósmoklasisty lub egzamin maturalny, oraz pracowników Centralnej Komisji Egzaminacyjnej.
 3. Upoważnienia, o którym mowa w ust. 1 i 2, udziela się na czas określony, nie dłuższy niż 5 lat.
 4. Warunkiem uzyskania dostępu do SIOEO lub SIOEZ jest zalogowanie się do danego systemu za pomocą danych dostępowych, obejmujących niepowtarzalny identyfikator użytkownika SIOEO lub SIOEZ (login) i hasło.
 5. Dane dostępowe do SIOEO przyznaje:
-1) dyrektor jednostki organizacyjnej, o której mowa w art. 44zzzzb ust. 1 dyrektorowi Centralnej Komisji Egzaminacyjnej, dyrektorowi okręgowej komisji egzaminacyjnej i dyrektorowi szkoły;
-2) dyrektor okręgowej komisji egzaminacyjnej zdającemu egzamin maturalny, który złożył deklarację przystąpienia do egzaminu maturalnego dyrektorowi okręgowej komisji egzaminacyjnej;
-3) dyrektor szkoły innemu zdającemu niż zdający wymieniony w pkt 2.
+1) dyrektor jednostki organizacyjnej, o której mowa w art. 44zzzzb ust. 1 – dyrektorowi Centralnej Komisji Egzaminacyjnej, dyrektorowi okręgowej komisji egzaminacyjnej i dyrektorowi szkoły;
+2) dyrektor okręgowej komisji egzaminacyjnej – zdającemu egzamin maturalny, który złożył deklarację przystąpienia do egzaminu maturalnego dyrektorowi okręgowej komisji egzaminacyjnej;
+3) dyrektor szkoły – innemu zdającemu niż zdający wymieniony w pkt 2.
 6. Dane dostępowe do SIOEZ przyznaje:
-1) dyrektor okręgowej komisji egzaminacyjnej dyrektorowi szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcy, podmiotowi prowadzącemu kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, lub zdającemu egzamin zawodowy lub egzamin eksternistyczny zawodowy, o którym mowa w art. 10 ust. 3 pkt 1 w przypadku zdającego, który złożył deklarację przystąpienia do egzaminu zawodowego albo egzaminu eksternistycznego zawodowego dyrektorowi okręgowej komisji egzaminacyjnej;
-2) dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe innemu zdającemu niż zdający wymieniony w pkt 1.
+1) dyrektor okręgowej komisji egzaminacyjnej – dyrektorowi szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy, podmiotowi prowadzącemu kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub zdającemu egzamin zawodowy lub egzamin eksternistyczny zawodowy, o którym mowa w art. 10 ust. 3 pkt 1 – w przypadku zdającego, który złożył deklarację przystąpienia do egzaminu zawodowego albo egzaminu eksternistycznego zawodowego dyrektorowi okręgowej komisji egzaminacyjnej;
+2) dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe – innemu zdającemu niż zdający wymieniony w pkt 1.
 7. W przypadku udzielenia upoważnienia, o którym mowa w ust. 1, dane dostępowe osobie upoważnionej przyznaje osoba udzielająca tej osobie upoważnienia, o której mowa w ust. 5 lub 6, lub osoba przez nią upoważniona, pod warunkiem że sama posiada uprzednio przyznane dane dostępowe.
 8. W celu uzyskania danych dostępowych do SIOEO lub SIOEZ wniosek o przyznanie tego dostępu składa się do podmiotu przyznającego dane dostępowe, o którym mowa w ust. 5 lub 6. Wniosek zawiera:
 1) imię (imiona) i nazwisko;
-2) numer PESEL, a w przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+2) numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
 3) adres poczty elektronicznej;
-4) numer telefonu jeżeli posiada.
-9. Dyrektor szkoły, któremu przyznano dostęp do bazy danych systemu informacji oświatowej na podstawie przepisów ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152, 858, 1572 i 1933), uzyskuje dostęp do SIOEO bez konieczności składania wniosku, o którym mowa w ust. 8.
+4) numer telefonu – jeżeli posiada.
+9. Dyrektor szkoły, któremu przyznano dostęp do bazy danych systemu informacji oświatowej na podstawie przepisów ustawy z dnia 15 kwietnia 2011 r.
+o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152, 858, 1572 i 1933), uzyskuje dostęp do SIOEO bez konieczności składania wniosku, o którym mowa w ust. 8.
 10. Bez obowiązku składania wniosku, o którym mowa w ust. 8, dostęp do SIOEO jest przyznawany:
 1) uczniowi przystępującemu do egzaminu ósmoklasisty przez dyrektora szkoły, do której uczeń uczęszcza;
 2) zdającemu przystępującemu do egzaminu maturalnego, jeżeli składa deklarację przystąpienia do egzaminu maturalnego do dyrektora szkoły, do której uczęszcza, lub której jest absolwentem, przez dyrektora tej szkoły.
@@ -851,66 +829,10 @@ Art. 44zzzzl. 1. Dyrektor Instytutu Badań Edukacyjnych w Warszawie może, na wn
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 1) wskazanie zadania zleconego przez ministra właściwego do spraw oświaty i wychowania na podstawie art. 94ba ust. 1, w związku z którym są pozyskiwane dane, o których mowa w ust. 1;
 2) zakres danych, o których mowa w ust. 1;
-3) w przypadku wniosku dotyczącego zdających: imię (imiona), nazwisko i numer PESEL zdającego, którego wniosek dotyczy, a w przypadku zdającego nieposiadającego numeru PESEL imię (imiona), nazwisko i datę urodzenia lub wskazanie kategorii osób, których wniosek dotyczy;
+3) w przypadku wniosku dotyczącego zdających: imię (imiona), nazwisko i numer PESEL zdającego, którego wniosek dotyczy, a w przypadku zdającego nieposiadającego numeru PESEL – imię (imiona), nazwisko i datę urodzenia lub wskazanie kategorii osób, których wniosek dotyczy;
 4) w przypadku wniosku dotyczącego egzaminatorów: płeć i rok urodzenia lub wskazanie kategorii osób, których wniosek dotyczy.
 3. Wniosek składa się do współadministratora SIOEO lub SIOEZ.
 Art. 97–103. (pominięte)
-
-**Art. 9.** „2. W latach szkolnych 2024/2025–2026/2027 absolwent spełniający warunek, o którym mowa w art. 44zzd ust. 4b ustawy zmienianej w art. 1, zdał egzamin maturalny, o którym mowa w art. 8, jeżeli z każdego przedmiotu obowiązkowego w części ustnej i w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania.” „Art. 10. 1. W latach szkolnych 2024/2025–2026/2027 absolwent, który przystąpił do egzaminu maturalnego, o którym mowa w art. 8, ze wszystkich przedmiotów obowiązkowych w części ustnej i w części pisemnej oraz do co najmniej jednego przedmiotu dodatkowego w części pisemnej i nie zdał egzaminu maturalnego wyłącznie z jednego przedmiotu obowiązkowego w części ustnej albo w części pisemnej, może w tym samym roku przystąpić do egzaminu maturalnego z tego samego przedmiotu obowiązkowego odpowiednio w części ustnej albo w części pisemnej w terminie poprawkowym, z zastrzeżeniem art. 44zzm ust. 1a ustawy zmienianej w art. 1. Przepisy art. 44zzm ust. 2 i 3 ustawy zmienianej w art. 1 stosuje się odpowiednio. 2. Absolwent, który w latach szkolnych 2024/2025–2026/2027 nie zdał egzaminu maturalnego, o którym mowa w art. 8, z danego przedmiotu lub przedmiotów obowiązkowych w części ustnej lub w części pisemnej, może przystąpić ponownie do części ustnej lub części pisemnej egzaminu maturalnego z tego przedmiotu lub przedmiotów, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego, w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy. Przepisy art. 44zzn ust. 3 i 7 ustawy zmienianej w art. 1 stosuje się odpowiednio. 3. Absolwent, który w latach szkolnych 2024/2025–2026/2027 nie przystąpił do egzaminu maturalnego, o którym mowa w art. 8, z co najmniej jednego przedmiotu dodatkowego w części pisemnej albo któremu egzamin ten został unieważniony, może przystąpić ponownie do egzaminu maturalnego z dowolnego przedmiotu dodatkowego, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego, w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, z zastrzeżeniem art. 44zzd ust. 4a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Przepisy art. 44zzn ust. 3 i 7 ustawy zmienianej w art. 1 stosuje się odpowiednio. 4. Absolwent, o którym mowa w ust. 2 i 3, ma prawo ponownie przystąpić do egzaminu maturalnego, o którym mowa w art. 8, zarówno w części ustnej, jak i w części pisemnej, z przedmiotu lub przedmiotów obowiązkowych, z których uzyskał wynik określony w art. 9 ust. 1 pkt 1 lub ust. 2, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego. 5. W latach szkolnych 2024/2025–2026/2027 absolwent, który nie przystąpił do egzaminu maturalnego, o którym mowa w art. 8, z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może otrzymać świadectwo dojrzałości wydane przez okręgową komisję egzaminacyjną, jeżeli w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, spełnił warunek, o którym mowa w art. 44zzd ust. 4b ustawy zmienianej w art. 1. Przepis art. 44zzna ust. 2 ustawy zmienianej w art. 1 stosuje się odpowiednio. 6. W latach szkolnych 2024/2025–2026/2027 w przypadku, o którym mowa w art. 44zzw ust. 13 i art. 44zzz ust. 6 pkt 2 lit. a, ust. 10 i 21 ustawy zmienianej w art. 1, świadectwo dojrzałości wydaje się, jeżeli absolwent spełnił warunki, o których mowa w art. 9 ust. 1 lub 2. 7. Od roku szkolnego 2027/2028 przepis art. 44zzl ust. 1 lub 1a ustawy zmienianej w art. 1 stosuje się do:
-
-**Art. 13.** Przepisy art. 44zzzf ust. 8 pkt 3 i 5, art. 44zzzj ust. 2 i 2a, art. 44zzzn ust. 3, 6 i 7–9, art. 44zzzp ust. 1 pkt 2, art. 44zzzq ust. 1, art. 44zzzr ust. 1 pkt 2 oraz art. 44zzzt ust. 1 i 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 302a ust. 1 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 14.** Przepisy art. 44zzzd ust. 3 i 4a, art. 44zzzf ust. 8 pkt 3 i 5, art. 44zzzj ust. 2 i 2a, art. 44zzzl ust. 2 pkt 1 lit. e, art. 44zzzn ust. 1, 3, 6 i 7–9, art. 44zzzo ust. 1, art. 44zzzp ust. 1 pkt 2, art. 44zzzq ust. 1, art. 44zzzr ust. 1 pkt 2 i ust. 9, art. 44zzzt ust. 1 i 4 oraz rozdziału 3c ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 130 ust. 1 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 15.**
-
-1. Upoważnienia udzielone przez dyrektora okręgowej komisji egzaminacyjnej na podstawie art. 9c ust. 2 pkt 9 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 1 września 2019 r., do przeprowadzenia części praktycznej i części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 302a ust. 1 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, oraz części praktycznej i części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 130 ust. 1 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, pozostają w mocy przez okres, na jaki zostały udzielone.
-
-2. Upoważnienia udzielone przez dyrektora okręgowej komisji egzaminacyjnej na podstawie art. 9c ust. 2 pkt 9 ustawy zmienianej w art. 1 do przeprowadzenia części praktycznej lub części pisemnej egzaminu zawodowego pozostają w mocy przez okres, na jaki zostały udzielone.
-
-**Art. 16.**
-
-1. Do dnia 29 lutego 2028 r. do egzaminatorów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 1 września 2019 r., przepisy wydane na podstawie art. 9c ust. 8 ustawy zmienianej w art. 1 oraz przepisy wydane na podstawie art. 22 ust. 2 pkt 13 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w związku z ust. 2.
-
-2. W rozporządzeniu wydanym na podstawie art. 22 ust. 2 pkt 13 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw oświaty i wychowania określi również warunki wynagradzania:
-
-- **1)** operatorów pracowni informatycznej biorących udział w przeprowadzaniu egzaminu maturalnego, o którym mowa w art. 297 ust. 2 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą;
-- **2)** egzaminatorów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 302a ust. 1 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, i egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 130 ust. 1 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą;
-- **3)** asystentów technicznych biorących udział w przeprowadzaniu egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 130 ust. 1 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą;
-- **4)** operatorów pracowni informatycznej biorących udział w przeprowadzaniu egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 130 ust. 1 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 17.**
-
-1. Elektroniczny system wspomagający przeprowadzanie egzaminu ósmoklasisty lub egzaminu maturalnego, o którym mowa w art. 44zzra ustawy zmienianej w art. 1, staje się Systemem Informatycznym Obsługującym Egzaminy Ogólnokształcące, o którym mowa w rozdziale 3c ustawy zmienianej w art. 1.
-
-2. Elektroniczny system przeprowadzania egzaminu zawodowego, o którym mowa w art. 44zzzd ust. 5 ustawy zmienianej w art. 1, staje się Systemem Informatycznym Obsługującym Egzaminy Zawodowe, o którym mowa w rozdziale 3c ustawy zmienianej w art. 1.
-
-3. W Systemie Informatycznym Obsługującym Egzaminy Ogólnokształcące, o którym mowa w rozdziale 3c ustawy zmienianej w art. 1, gromadzi się i przetwarza dane, które:
-
-- **1)** w przypadku egzaminu ósmoklasisty przeprowadzanego w roku szkolnym 2024/2025 obejmują również informację o przedmiotach, do których przystąpił uczeń i słuchacz będący obywatelem Ukrainy, którego pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167, z późn. zm. ) albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa, zgodnie z art. 58b ust. 1 i 2 tej ustawy;
-- **2)** w przypadku egzaminu maturalnego obejmują również informację o:
-    - **a)** przystąpieniu ponownie przez zdającego do części ustnej lub części pisemnej egzaminu maturalnego z danego przedmiotu lub danych przedmiotów w przypadku, o którym mowa w art. 10 ust. 2–4,
-    - **b)** przekazanym zdającemu świadectwie dojrzałości w przypadku, o którym mowa w art. 10 ust. 5.
-
-4. W Systemie Informatycznym Obsługującym Egzaminy Zawodowe, o którym mowa w rozdziale 3c ustawy zmienianej w art. 1, gromadzi się i przetwarza również dane o egzaminatorach wpisanych do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 1, w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 130 ust. 1 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, obejmujące dane, o których mowa w art. 44zzzze ust. 2 ustawy zmienianej w art. 1.
-
-**Art. 18.**
-
-1. W przypadku kolejnego niezmienionego wydania podręcznika w postaci papierowej dopuszczonego do użytku szkolnego na podstawie wniosku o dopuszczenie do użytku szkolnego złożonego przed dniem 1 stycznia 2020 r. podmiot, o którym mowa w art. 22an ust. 3 ustawy zmienianej w art. 1, zapewnia cyfrowe odzwierciedlenie tego podręcznika zamieszczone na informatycznym nośniku danych lub w Internecie.
-
-2. Podmiot, o którym mowa w art. 22an ust. 3 ustawy zmienianej w art. 1, informuje ministra właściwego do spraw oświaty i wychowania o realizacji obowiązku, o którym mowa w ust. 1, wskazując adres strony internetowej lub rodzaj informatycznego nośnika danych, na których jest udostępnione cyfrowe odzwierciedlenie podręcznika, w terminie 30 dni od dnia kolejnego wydania podręcznika wydawanego po raz pierwszy od dnia wejścia w życie niniejszej ustawy. Obowiązek poinformowania ministra właściwego do spraw oświaty i wychowania o realizacji obowiązku, o którym mowa w ust. 1, nie dotyczy drugiego i kolejnych niezmienionych wydań podręcznika w stosunku do wydania tego podręcznika, wobec którego zaistniał obowiązek zapewnienia jego cyfrowego odzwierciedlenia.
-
-3. Przepisów ust. 1 i 2 nie stosuje się do kolejnych niezmienionych wydań podręcznika w postaci papierowej dopuszczonego do użytku szkolnego na podstawie wniosku o dopuszczenie do użytku szkolnego złożonego przed dniem 1 stycznia 2020 r., jeżeli podmiot, o którym mowa w art. 22an ust. 3 ustawy zmienianej w art. 1, zapewnił przed dniem wejścia w życie niniejszej ustawy cyfrowe odzwierciedlenie tego podręcznika zamieszczone na informatycznym nośniku danych lub w Internecie.
-
-4. W przypadku, o którym mowa w ust. 3, podmiot, o którym mowa w art. 22an ust. 3 ustawy zmienianej w art. 1, informuje ministra właściwego do spraw oświaty i wychowania o zapewnieniu cyfrowego odzwierciedlenia podręcznika, wskazując adres strony internetowej lub rodzaj informatycznego nośnika danych, na których jest udostępnione cyfrowe odzwierciedlenie podręcznika, w terminie do dnia 31 marca 2025 r.
-
-**Art. 19.** Do postępowań w sprawie dopuszczenia do użytku szkolnego podręcznika do danych zajęć edukacyjnych z zakresu kształcenia ogólnego w klasach IV–VIII szkoły podstawowej i szkole ponadpodstawowej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
-
-**Art. 20.** W przypadku kolejnego niezmienionego wydania podręcznika dopuszczonego do użytku szkolnego przed dniem 1 stycznia 2026 r. podmiot, o którym mowa w art. 22an ust. 3 ustawy zmienianej w art. 1, może dokonać w nim zmian w pisowni, a w przypadku podręcznika zawierającego zasady pisowni także zmian opisu tych zasad, wynikających z Komunikatu Rady Języka Polskiego przy Prezydium Polskiej Akademii Nauk z dnia 10 maja 2024 r., bez konieczności złożenia wniosku o dopuszczenie podręcznika do użytku szkolnego.
-
-**Art. 21.** Zadania, o których mowa w art. 94ba ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zlecone przez ministra właściwego do spraw oświaty i wychowania przed dniem wejścia w życie niniejszej ustawy, Instytut Badań Edukacyjnych w Warszawie realizuje zgodnie z art. 94ba ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.” „Art. 25. 1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na zadania związane z przeprowadzaniem egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie, egzaminu zawodowego i egzaminów eksternistycznych:
-
-**Art. 28.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -974,14 +896,14 @@ Art. 97–103. (pominięte)
 - **3)** opracowywanie i ogłaszanie w Biuletynie Informacji Publicznej na stronie Centralnej Komisji Egzaminacyjnej informatorów zawierających w szczególności przykładowe zadania, jakie mogą wystąpić na egzaminie ósmoklasisty, egzaminie maturalnym, egzaminie zawodowym oraz egzaminach eksternistycznych, o których mowa w art. 10 ust. 1 i 3, wraz z rozwiązaniami;
 - **4)** organizowanie druku i dystrybucji materiałów egzaminacyjnych; realizację wybranych zadań w zakresie druku i dystrybucji materiałów egzaminacyjnych dyrektor Centralnej Komisji Egzaminacyjnej może powierzyć dyrektorom okręgowych komisji egzaminacyjnych, jeżeli jest to uzasadnione ze względu na racjonalność wydatków związanych z przeprowadzaniem egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
 - **5)** analizowanie wyników egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, a także składanie ministrowi właściwemu do spraw oświaty i wychowania corocznych sprawozdań dotyczących wyników tych egzaminów;
-- **5a)** współpraca z ministrem właściwym do spraw szkolnictwa wyższego i nauki w zakresie, o którym mowa w art. 357 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **5a)** współpraca z ministrem właściwym do spraw szkolnictwa wyższego i nauki w zakresie, o którym mowa w art. 357 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
 - **6)** przygotowywanie, we współpracy z okręgowymi komisjami egzaminacyjnymi, materiałów szkoleniowych dla kandydatów na egzaminatorów i egzaminatorów;
 - **7)** współpraca z instytucjami krajowymi i zagranicznymi w zakresie egzaminowania;
 - **8)** organizowanie i prowadzenie analiz oraz organizowanie testów diagnostycznych w zakresie poziomu przygotowania uczniów albo zdających do egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego oraz opracowywanie nowych rozwiązań w zakresie egzaminowania;
 - **8a)** prowadzenie, na zlecenie ministra właściwego do spraw oświaty i wychowania, badań dotyczących egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego w zakresie określonym przez tego ministra;
 - **9)** realizowanie porozumień międzynarodowych i międzyresortowych w zakresie przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
 - **10)** ogłaszanie każdego roku w Biuletynie Informacji Publicznej na stronie Centralnej Komisji Egzaminacyjnej:
-    - **a)** komunikatów w sprawie: harmonogramu przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego w terminie głównym i terminie dodatkowym, a w przypadku egzaminu maturalnego również w terminie poprawkowym, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, w tym: terminów ogłaszania wyników egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego, terminów przekazywania szkołom wyników egzaminu ósmoklasisty i części pisemnej egzaminu maturalnego oraz zaświadczeń o szczegółowych wynikach egzaminu ósmoklasisty, świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, terminów przekazywania szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy Prawo oświatowe, wyników egzaminu zawodowego oraz terminów przekazywania szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, i pracodawcom certyfikatów kwalifikacji zawodowych oraz terminów przekazywania szkołom dyplomów zawodowych, materiałów i przyborów pomocniczych, z których można korzystać na egzaminie ósmoklasisty, egzaminie maturalnym, egzaminie zawodowym oraz egzaminach eksternistycznych, o których mowa w art. 10 ust. 1 i 3, a także listy systemów operacyjnych, programów użytkowych oraz języków programowania w przypadku egzaminu maturalnego z informatyki, szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, do potrzeb osób, o których mowa w art. 44zzr, art. 44zzzf i art. 44zzzh, listy kwalifikacji wyodrębnionych w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe, z których zadania egzaminacyjne w części praktycznej egzaminu zawodowego są jawne, wraz z podaniem miejsca udostępnienia tych zadań do publicznej wiadomości, listy jawnych zadań egzaminacyjnych w części ustnej egzaminu maturalnego z języka polskiego, języka mniejszości narodowej, języka mniejszości etnicznej i języka regionalnego,
+    - **a)** komunikatów w sprawie: – harmonogramu przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego w terminie głównym i terminie dodatkowym, a w przypadku egzaminu maturalnego – również w terminie poprawkowym, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, w tym: – – terminów ogłaszania wyników egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego, – – terminów przekazywania szkołom wyników egzaminu ósmoklasisty i części pisemnej egzaminu maturalnego oraz zaświadczeń o szczegółowych wynikach egzaminu ósmoklasisty, świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, – – terminów przekazywania szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, wyników egzaminu zawodowego oraz terminów przekazywania szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, i pracodawcom certyfikatów kwalifikacji zawodowych oraz terminów przekazywania szkołom dyplomów zawodowych, – materiałów i przyborów pomocniczych, z których można korzystać na egzaminie ósmoklasisty, egzaminie maturalnym, egzaminie zawodowym oraz egzaminach eksternistycznych, o których mowa w art. 10 ust. 1 i 3, a także listy systemów operacyjnych, programów użytkowych oraz języków programowania – w przypadku egzaminu maturalnego z informatyki, – szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, do potrzeb osób, o których mowa w art. 44zzr, art. 44zzzf i art. 44zzzh, – listy kwalifikacji wyodrębnionych w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe, z których zadania egzaminacyjne w części praktycznej egzaminu zawodowego są jawne, wraz z podaniem miejsca udostępnienia tych zadań do publicznej wiadomości, – listy jawnych zadań egzaminacyjnych w części ustnej egzaminu maturalnego z języka polskiego, języka mniejszości narodowej, języka mniejszości etnicznej i języka regionalnego,
     - **b)** informacji o sposobie organizacji i przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3.
 
 **Art. 9b.** (uchylony)
@@ -998,7 +920,7 @@ Art. 97–103. (pominięte)
 - **2)** przygotowywanie propozycji zadań i arkuszy egzaminacyjnych do przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, w zakresie określonym przez Centralną Komisję Egzaminacyjną;
 - **3)** przygotowywanie propozycji zadań do informatorów, o których mowa w art. 9a ust. 2 pkt 3, w zakresie określonym przez Centralną Komisję Egzaminacyjną;
 - **4)** przeprowadzanie próbnego zastosowania zadań w zakresie określonym przez Centralną Komisję Egzaminacyjną, w warunkach zapewniających ich ochronę przed nieuprawnionym ujawnieniem;
-- **4a)** prowadzenie analiz i przeprowadzanie testów diagnostycznych, o których mowa w art. 9a ust. 2 pkt 8, w zakresie określonym przez Centralną Komisję Egzaminacyjną, w warunkach zapewniających ochronę materiałów służących do prowadzenia tych analiz i przeprowadzania tych testów przed nieuprawnionym ujawnianiem; w celu prowadzenia tych analiz i przeprowadzania tych testów okręgowa komisja egzaminacyjna pozyskuje następujące dane ucznia albo zdającego: numer PESEL, a w przypadku ucznia albo zdającego nieposiadającego numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, klasę, oddział, do którego uczeń albo zdający odpowiednio uczęszcza lub uczęszczał, oraz informację o rodzaju niepełnosprawności określonej w orzeczeniu o potrzebie kształcenia specjalnego;
+- **4a)** prowadzenie analiz i przeprowadzanie testów diagnostycznych, o których mowa w art. 9a ust. 2 pkt 8, w zakresie określonym przez Centralną Komisję Egzaminacyjną, w warunkach zapewniających ochronę materiałów służących do prowadzenia tych analiz i przeprowadzania tych testów przed nieuprawnionym ujawnianiem; w celu prowadzenia tych analiz i przeprowadzania tych testów okręgowa komisja egzaminacyjna pozyskuje następujące dane ucznia albo zdającego: numer PESEL, a w przypadku ucznia albo zdającego nieposiadającego numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, klasę, oddział, do którego uczeń albo zdający odpowiednio uczęszcza lub uczęszczał, oraz informację o rodzaju niepełnosprawności określonej w orzeczeniu o potrzebie kształcenia specjalnego;
 - **5)** analizowanie wyników egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
 - **6)** opracowywanie i przekazywanie:
     - **a)** dyrektorom szkół, organom prowadzącym szkoły i kuratorom oświaty sprawozdań z przeprowadzonego egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego,
@@ -1006,29 +928,30 @@ Art. 97–103. (pominięte)
 
 - **7)** prowadzenie ewidencji egzaminatorów zamieszkujących na terenie objętym właściwością danej okręgowej komisji egzaminacyjnej;
 - **8)** szkolenie kandydatów na egzaminatorów i egzaminatorów;
-- **8a)** przekazywanie dyrektorom szkół, placówek lub centrów, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy Prawo oświatowe, informacji o egzaminatorach wyznaczonych do przeprowadzenia części praktycznej egzaminu zawodowego, o których mowa w art. 44zzzn ust. 2, zawierającej imię i nazwisko egzaminatora oraz jego adres poczty elektronicznej i numer telefonu;
-- **9)** udzielanie szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy Prawo oświatowe, upoważnień do przeprowadzania części praktycznej lub części pisemnej egzaminu zawodowego;
+- **8a)** przekazywanie dyrektorom szkół, placówek lub centrów, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, informacji o egzaminatorach wyznaczonych do przeprowadzenia części praktycznej egzaminu zawodowego, o których mowa w art. 44zzzn ust. 2, zawierającej imię i nazwisko egzaminatora oraz jego adres poczty elektronicznej i numer telefonu;
+- **9)** udzielanie szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, upoważnień do przeprowadzania części praktycznej lub części pisemnej egzaminu zawodowego;
 - **10)** współpraca z innymi okręgowymi komisjami egzaminacyjnymi;
 - **11)** współpraca z kuratorami oświaty właściwymi ze względu na zasięg terytorialny okręgowej komisji egzaminacyjnej w sprawach związanych z przeprowadzaniem egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
-- **11a)** współpraca z ministrem właściwym do spraw szkolnictwa wyższego i nauki w zakresie, o którym mowa w art. 357 ust. 1 pkt 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **11a)** współpraca z ministrem właściwym do spraw szkolnictwa wyższego i nauki w zakresie, o którym mowa w art. 357 ust. 1 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **12)** wykonywanie innych zadań powierzonych przez dyrektora Centralnej Komisji Egzaminacyjnej lub ministra właściwego do spraw oświaty i wychowania.
 
 2a. (uchylony) 2aa. Dane ucznia albo zdającego, o których mowa w ust. 2 pkt 4a, są przechowywane przez okres 6 miesięcy. 2ab. Szkolenie kandydatów na egzaminatorów i egzaminatorów, o którym mowa w ust. 2 pkt 8, może być przeprowadzone za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) lub za pomocą innych środków łączności.
 
-2b. Dla celów przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego oraz egzaminu zawodowego okręgowe komisje egzaminacyjne nadają szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy Prawo oświatowe, indywidualne numery identyfikacyjne.
+2b. Dla celów przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego oraz egzaminu zawodowego okręgowe komisje egzaminacyjne nadają szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, indywidualne numery identyfikacyjne.
 
 3. Do ewidencji egzaminatorów, z zastrzeżeniem ust. 4, może być wpisana osoba, która:
 
 - **1)** posiada kwalifikacje wymagane do zajmowania stanowiska nauczyciela w szkole, z zakresu której jest przeprowadzany egzamin ósmoklasisty, egzamin maturalny, egzamin zawodowy, albo jest nauczycielem akademickim specjalizującym się w dziedzinie, z którą są związane zajęcia edukacyjne wchodzące w zakres egzaminu;
 - **2)** posiada, uzyskany w okresie 6 lat przed złożeniem wniosku o wpis do ewidencji, co najmniej trzyletni staż pracy dydaktycznej w szkole publicznej, szkole niepublicznej, niepublicznej szkole artystycznej o uprawnieniach publicznej szkoły artystycznej, zakładzie kształcenia nauczycieli lub szkole wyższej albo co najmniej trzyletni staż pracy na stanowisku wymagającym kwalifikacji pedagogicznych w placówce doskonalenia nauczycieli, urzędzie organu administracji rządowej, kuratorium oświaty lub innej jednostce sprawującej nadzór pedagogiczny;
-- **3)** spełnia warunki określone w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i 1871 oraz z 2025 r. poz. 620);
+- **3)** spełnia warunki określone w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i 1871 oraz z 2025 r. poz.
+- **620)** ;
 - **4)** ukończyła z wynikiem pozytywnym szkolenie dla kandydatów na egzaminatorów organizowane przez okręgową komisję egzaminacyjną, zakończone egzaminem ze znajomości zasad przeprowadzania, w szczególności oceniania, egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego.
 
 4. Do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu zawodowego może również być wpisana osoba, która:
 
 - **1)** jest przedstawicielem pracodawcy lub organizacji pracodawców, samorządu gospodarczego lub innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego albo sektorowej rady do spraw kompetencji, oraz:
     - **a)** posiada kwalifikacje wymagane od instruktora praktycznej nauki zawodu i spełnia warunki określone w ust. 3 pkt 3 i 4 albo
-    - **b)** posiada przygotowanie zawodowe uznane przez dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, za odpowiednie do prowadzenia zajęć z zakresu kształcenia zawodowego, o którym mowa w art. 15 ust. 6 ustawy Prawo oświatowe, i spełnia warunki określone w ust. 3 pkt 3 i 4, albo
+    - **b)** posiada przygotowanie zawodowe uznane przez dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, za odpowiednie do prowadzenia zajęć z zakresu kształcenia zawodowego, o którym mowa w art. 15 ust. 6 ustawy – Prawo oświatowe, i spełnia warunki określone w ust. 3 pkt 3 i 4, albo
     - **c)** posiada co najmniej sześcioletnie udokumentowane doświadczenie w zawodzie, którego zakres odpowiada zawodowi, w zakresie którego ubiega się o wpis do ewidencji egzaminatorów, uzyskane w okresie ostatnich 10 lat, i spełnia warunki określone w ust. 3 pkt 3 i 4;
 
 - **2)** jest egzaminatorem wpisanym na listę egzaminatorów prowadzoną przez ministra właściwego do spraw gospodarki morskiej, o której mowa w art. 77 ust. 3 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068 i 1933), i spełnia warunki określone w ust. 3 pkt 3 i 4.
@@ -1053,19 +976,19 @@ Art. 97–103. (pominięte)
 
 9. W przeprowadzaniu egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego i egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, w zakresie ustalonym w przepisach prawa, biorą udział egzaminatorzy i nauczyciele, a w przypadku:
 
-- **1)** egzaminu maturalnego, egzaminu zawodowego i egzaminu eksternistycznego zawodowego, o którym mowa w art. 10 ust. 3 pkt 1 także operatorzy pracowni informatycznej, o których mowa w art. 44zzsa ust. 1 i art. 44zzzib ust. 1;
-- **2)** egzaminu zawodowego i egzaminu eksternistycznego zawodowego, o którym mowa w art. 10 ust. 3 pkt 1 także asystenci techniczni, o których mowa w art. 44zzzia ust. 1, pracodawcy lub upoważnieni przez nich pracownicy oraz podmioty prowadzące kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy Prawo oświatowe, lub upoważnieni przez nich pracownicy;
-- **3)** części ustnej egzaminu maturalnego mogą brać udział także nauczyciele akademiccy.
+- **1)** egzaminu maturalnego, egzaminu zawodowego i egzaminu eksternistycznego zawodowego, o którym mowa w art. 10 ust. 3 pkt 1 – także operatorzy pracowni informatycznej, o których mowa w art. 44zzsa ust. 1 i art. 44zzzib ust. 1;
+- **2)** egzaminu zawodowego i egzaminu eksternistycznego zawodowego, o którym mowa w art. 10 ust. 3 pkt 1 – także asystenci techniczni, o których mowa w art. 44zzzia ust. 1, pracodawcy lub upoważnieni przez nich pracownicy oraz podmioty prowadzące kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub upoważnieni przez nich pracownicy;
+- **3)** części ustnej egzaminu maturalnego – mogą brać udział także nauczyciele akademiccy.
 
 10. Dyrektor okręgowej komisji egzaminacyjnej zawiera z egzaminatorami, z zastrzeżeniem ust. 12, a w przypadku egzaminu maturalnego również z nauczycielami akademickimi biorącymi udział w przeprowadzaniu części ustnej egzaminu maturalnego, umowy określające zakres ich obowiązków oraz wysokość wynagrodzenia.
 
 10a. Dyrektor okręgowej komisji egzaminacyjnej zawiera z operatorami pracowni informatycznej, o których mowa w art. 44zzsa ust. 1 i art. 44zzzib ust. 1, i asystentami technicznymi, o których mowa w art. 44zzzia ust. 1, umowy określające zakres ich obowiązków oraz wysokość wynagrodzenia.
 
-11. Nauczyciele biorący udział w przeprowadzaniu egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego wykonują czynności związane z przeprowadzaniem tych egzaminów w ramach czynności i zajęć, o których mowa w art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela, oraz ustalonego wynagrodzenia, z zastrzeżeniem ust. 12 i 13.
+11. Nauczyciele biorący udział w przeprowadzaniu egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego wykonują czynności związane z przeprowadzaniem tych egzaminów w ramach czynności i zajęć, o których mowa w art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, oraz ustalonego wynagrodzenia, z zastrzeżeniem ust. 12 i 13.
 
-12. Nauczyciele, w tym nauczyciele będący egzaminatorami, biorący udział w przeprowadzaniu części ustnej egzaminu maturalnego, wykonują czynności związane z przeprowadzaniem tej części egzaminu w ramach zajęć, o których mowa w art. 42 ust. 2 pkt 1 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela. W przypadku wykonywania tych czynności w wymiarze przekraczającym tygodniowy obowiązkowy wymiar godzin zajęć, o których mowa w art. 42 ust. 2 pkt 1 ustawy Karta Nauczyciela, nauczycielowi przysługuje wynagrodzenie za godziny ponadwymiarowe na zasadach określonych w art. 35 ust. 3 ustawy Karta Nauczyciela.
+12. Nauczyciele, w tym nauczyciele będący egzaminatorami, biorący udział w przeprowadzaniu części ustnej egzaminu maturalnego, wykonują czynności związane z przeprowadzaniem tej części egzaminu w ramach zajęć, o których mowa w art. 42 ust. 2 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela. W przypadku wykonywania tych czynności w wymiarze przekraczającym tygodniowy obowiązkowy wymiar godzin zajęć, o których mowa w art. 42 ust. 2 pkt 1 ustawy – Karta Nauczyciela, nauczycielowi przysługuje wynagrodzenie za godziny ponadwymiarowe na zasadach określonych w art. 35 ust. 3 ustawy – Karta Nauczyciela.
 
-13. Nauczyciele będący egzaminatorami, asystentami technicznymi, o których mowa w art. 44zzzia ust. 1, albo operatorami pracowni informatycznej, o których mowa w art. 44zzzib ust. 1, z którymi dyrektor okręgowej komisji egzaminacyjnej zawarł umowy, o których mowa odpowiednio w ust. 10 lub 10a, są zwolnieni od pracy w szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, w której są zatrudnieni, na czas niezbędny do przeprowadzenia tego egzaminu, z zachowaniem prawa do wynagrodzenia. Art. 9ca. 1. Minister właściwy do spraw oświaty i wychowania prowadzi:
+13. Nauczyciele będący egzaminatorami, asystentami technicznymi, o których mowa w art. 44zzzia ust. 1, albo operatorami pracowni informatycznej, o których mowa w art. 44zzzib ust. 1, z którymi dyrektor okręgowej komisji egzaminacyjnej zawarł umowy, o których mowa odpowiednio w ust. 10 lub 10a, są zwolnieni od pracy w szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, w której są zatrudnieni, na czas niezbędny do przeprowadzenia tego egzaminu, z zachowaniem prawa do wynagrodzenia. Art. 9ca. 1. Minister właściwy do spraw oświaty i wychowania prowadzi:
 
 - **1)** listę arbitrów w zakresie egzaminu maturalnego do rozpatrywania odwołań, o których mowa w art. 44zzz ust. 7;
 - **2)** listę arbitrów w zakresie egzaminu zawodowego do rozpatrywania odwołań, o których mowa w art. 44zzzt ust. 7.
@@ -1096,8 +1019,8 @@ Art. 97–103. (pominięte)
 7. Listy arbitrów zawierają:
 
 - **1)** imię (imiona) i nazwisko arbitra;
-- **2)** w przypadku listy arbitrów, o której mowa w ust. 1 pkt 1 nazwę przedmiotu, z którego jest przeprowadzany egzamin maturalny, w zakresie którego dana osoba jest arbitrem;
-- **3)** w przypadku listy arbitrów, o której mowa w ust. 1 pkt 2 nazwę zawodu, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe, oraz oznaczenia wszystkich kwalifikacji wyodrębnionych w tym zawodzie, w zakresie których dana osoba jest arbitrem; jeżeli co najmniej jedna z tych kwalifikacji wyodrębnionych w danym zawodzie została wyodrębniona jako kwalifikacja wspólna z innym zawodem lub zawodami, lista arbitrów obejmuje dodatkowo nazwę tego zawodu lub zawodów oraz oznaczenie tej kwalifikacji;
+- **2)** w przypadku listy arbitrów, o której mowa w ust. 1 pkt 1 – nazwę przedmiotu, z którego jest przeprowadzany egzamin maturalny, w zakresie którego dana osoba jest arbitrem;
+- **3)** w przypadku listy arbitrów, o której mowa w ust. 1 pkt 2 – nazwę zawodu, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe, oraz oznaczenia wszystkich kwalifikacji wyodrębnionych w tym zawodzie, w zakresie których dana osoba jest arbitrem; jeżeli co najmniej jedna z tych kwalifikacji wyodrębnionych w danym zawodzie została wyodrębniona jako kwalifikacja wspólna z innym zawodem lub zawodami, lista arbitrów obejmuje dodatkowo nazwę tego zawodu lub zawodów oraz oznaczenie tej kwalifikacji;
 - **4)** stopień lub tytuł w dziedzinie nauki lub sztuki, jeżeli arbiter taki stopień lub tytuł posiada;
 - **5)** nazwę podmiotu, który udzielił rekomendacji, o której mowa w ust. 3 i 4;
 - **6)** numer wpisu.
@@ -1112,7 +1035,7 @@ Art. 97–103. (pominięte)
 - **6)** w przypadku śmierci arbitra;
 - **7)** w przypadku skreślenia z ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7;
 - **8)** w przypadku cofnięcia rekomendacji, o której mowa w ust. 3 i 4;
-- **9)** w przypadku utraty zatrudnienia w instytucie badawczym, jednostce naukowej Polskiej Akademii Nauk, Polskiej Akademii Umiejętności lub szkole wyższej w przypadku arbitrów, o których mowa w ust. 3 pkt 2 i ust. 4 pkt 3;
+- **9)** w przypadku utraty zatrudnienia w instytucie badawczym, jednostce naukowej Polskiej Akademii Nauk, Polskiej Akademii Umiejętności lub szkole wyższej – w przypadku arbitrów, o których mowa w ust. 3 pkt 2 i ust. 4 pkt 3;
 - **10)** w przypadku zatrudnienia w Centralnej Komisji Egzaminacyjnej lub okręgowej komisji egzaminacyjnej;
 - **11)** w przypadku dokonania wpisu na listę z naruszeniem prawa.
 
@@ -1131,12 +1054,12 @@ Art. 97–103. (pominięte)
 3. W przypadku odwołania, o którym mowa w art. 44zzz ust. 7, w skład Kolegium Arbitrażu Egzaminacyjnego wchodzi:
 
 - **1)** jeden arbiter, który spełnia wymagania, o których mowa w art. 9ca ust. 3 pkt 1, oraz
-- **2)** jeden arbiter, który spełnia wymagania, o których mowa w art. 9ca ust. 3 pkt 2 wpisani na listę arbitrów w zakresie egzaminu maturalnego z danego przedmiotu.
+- **2)** jeden arbiter, który spełnia wymagania, o których mowa w art. 9ca ust. 3 pkt 2 – wpisani na listę arbitrów w zakresie egzaminu maturalnego z danego przedmiotu.
 
 4. W przypadku odwołania, o którym mowa w art. 44zzzt ust. 7, w skład Kolegium Arbitrażu Egzaminacyjnego wchodzi:
 
 - **1)** jeden arbiter, który spełnia wymagania, o których mowa w art. 9ca ust. 4 pkt 1 lub 2, oraz
-- **2)** jeden arbiter, który spełnia wymagania, o których mowa w art. 9ca ust. 4 pkt 3 lub 4 wpisani na listę arbitrów w zakresie egzaminu zawodowego z danej kwalifikacji.
+- **2)** jeden arbiter, który spełnia wymagania, o których mowa w art. 9ca ust. 4 pkt 3 lub 4 – wpisani na listę arbitrów w zakresie egzaminu zawodowego z danej kwalifikacji.
 
 5. W skład Kolegium Arbitrażu Egzaminacyjnego nie może być wyznaczony arbiter będący jednocześnie egzaminatorem, który:
 
@@ -1147,7 +1070,7 @@ Art. 97–103. (pominięte)
 
 - **1)** na listy arbitrów nie został wpisany arbiter w zakresie przedmiotu, z którego jest przeprowadzany egzamin maturalny, albo zawodu i kwalifikacji wyodrębnionej w tym zawodzie, z której jest przeprowadzany egzamin zawodowy, albo
 - **2)** liczba arbitrów wpisanych na listy arbitrów jest niewystarczająca do rozpatrzenia wszystkich odwołań, o których mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7, w terminie określonym w art. 44zzz ust. 17 albo art. 44zzzt ust. 17, albo
-- **3)** z powodu choroby arbitra lub innych uzasadnionych przyczyn nie jest możliwe wyznaczenie arbitra dyrektor Centralnej Komisji Egzaminacyjnej zamiast arbitra wyznacza w skład Kolegium Arbitrażu Egzaminacyjnego egzaminatora wpisanego do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, odpowiednio w zakresie egzaminu maturalnego lub egzaminu zawodowego, z tym że w przypadku odwołania, o którym mowa w art. 44zzz ust. 7, egzaminatorem tym może być osoba, która pełniła funkcję przewodniczącego zespołu egzaminatorów, o którym mowa w art. 44zzu ust. 4, w zakresie danego przedmiotu w co najmniej 3 latach.
+- **3)** z powodu choroby arbitra lub innych uzasadnionych przyczyn nie jest możliwe wyznaczenie arbitra – dyrektor Centralnej Komisji Egzaminacyjnej zamiast arbitra wyznacza w skład Kolegium Arbitrażu Egzaminacyjnego egzaminatora wpisanego do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, odpowiednio w zakresie egzaminu maturalnego lub egzaminu zawodowego, z tym że w przypadku odwołania, o którym mowa w art. 44zzz ust. 7, egzaminatorem tym może być osoba, która pełniła funkcję przewodniczącego zespołu egzaminatorów, o którym mowa w art. 44zzu ust. 4, w zakresie danego przedmiotu w co najmniej 3 latach.
 
 7. Prace Kolegium Arbitrażu Egzaminacyjnego odbywają się z wykorzystaniem środków komunikacji elektronicznej. W razie potrzeby dyrektor Centralnej Komisji Egzaminacyjnej może zorganizować posiedzenie Kolegium Arbitrażu Egzaminacyjnego.
 
@@ -1210,7 +1133,7 @@ Art. 97–103. (pominięte)
 
 14. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, staż pracy wymagany od osoby zajmującej stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej, sposób i tryb przeprowadzania konkursu na stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej oraz skład i tryb pracy komisji konkursowej, uwzględniając sposób ogłaszania konkursu, sposób wyłaniania kandydata, sposób sprawowania nadzoru nad prawidłowością postępowania konkursowego oraz tryb unieważnienia konkursu.
 
-15. W rozporządzeniu, o którym mowa w ust. 14, minister właściwy do spraw oświaty i wychowania może określić dodatkowe wymagania, jakim powinna odpowiadać osoba zajmująca stanowisko odpowiednio dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej, uwzględniając specyfikę zadań wykonywanych przez odpowiednio Centralną Komisję Egzaminacyjną i okręgową komisję egzaminacyjną. Art. 9da. 1. Dyrektor Centralnej Komisji Egzaminacyjnej może zlecić dyrektorowi okręgowej komisji egzaminacyjnej przeprowadzenie badań, o których mowa w art. 9a ust. 2 pkt 8a, w zakresie określonym przez dyrektora Centralnej Komisji Egzaminacyjnej, w warunkach zapewniających ochronę materiałów służących do przeprowadzania tych badań przed nieuprawnionym ujawnieniem. W celu przeprowadzenia tych badań okręgowa komisja egzaminacyjna pozyskuje następujące dane ucznia albo zdającego: numer PESEL, a w przypadku ucznia albo zdającego nieposiadającego numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, klasę, oddział, do którego uczeń albo zdający odpowiednio uczęszcza lub uczęszczał, oraz informację o rodzaju niepełnosprawności określonej w orzeczeniu o potrzebie kształcenia specjalnego.
+15. W rozporządzeniu, o którym mowa w ust. 14, minister właściwy do spraw oświaty i wychowania może określić dodatkowe wymagania, jakim powinna odpowiadać osoba zajmująca stanowisko odpowiednio dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej, uwzględniając specyfikę zadań wykonywanych przez odpowiednio Centralną Komisję Egzaminacyjną i okręgową komisję egzaminacyjną. Art. 9da. 1. Dyrektor Centralnej Komisji Egzaminacyjnej może zlecić dyrektorowi okręgowej komisji egzaminacyjnej przeprowadzenie badań, o których mowa w art. 9a ust. 2 pkt 8a, w zakresie określonym przez dyrektora Centralnej Komisji Egzaminacyjnej, w warunkach zapewniających ochronę materiałów służących do przeprowadzania tych badań przed nieuprawnionym ujawnieniem. W celu przeprowadzenia tych badań okręgowa komisja egzaminacyjna pozyskuje następujące dane ucznia albo zdającego: numer PESEL, a w przypadku ucznia albo zdającego nieposiadającego numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, klasę, oddział, do którego uczeń albo zdający odpowiednio uczęszcza lub uczęszczał, oraz informację o rodzaju niepełnosprawności określonej w orzeczeniu o potrzebie kształcenia specjalnego.
 
 2. Dane ucznia albo zdającego, o których mowa w ust. 1, są przechowywane przez okres 6 miesięcy.
 
@@ -1224,7 +1147,7 @@ Art. 97–103. (pominięte)
 
 4. Przepisów ust. 1–3 nie stosuje się do zadań egzaminacyjnych w części praktycznej egzaminu zawodowego, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret czwarte, oraz zadań egzaminacyjnych w części ustnej egzaminu maturalnego, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret piąte.
 
-**Art. 9f.** (uchylony) Art. 9fa. 1. W roku 2019 ze środków Funduszu Pracy dofinansowuje się koszty przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, związane odpowiednio z:
+**Art. 9f.** (uchylony) Art. 9fa. 1. W roku 2019 ze środków Funduszu Pracy dofinansowuje się koszty przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, związane odpowiednio z:
 
 **Art. 10.**
 
@@ -1232,7 +1155,7 @@ Art. 97–103. (pominięte)
 
 2. Egzaminy eksternistyczne, o których mowa w ust. 1, przeprowadza się z zakresu obowiązkowych zajęć edukacyjnych określonych w ramowych planach nauczania odpowiednio szkoły podstawowej dla dorosłych lub liceum ogólnokształcącego dla dorosłych.
 
-2a. Egzaminy eksternistyczne, o których mowa w ust. 1, są przeprowadzane na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, z tym że w przypadku liceum ogólnokształcącego dla dorosłych na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla zakresu podstawowego.
+2a. Egzaminy eksternistyczne, o których mowa w ust. 1, są przeprowadzane na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, z tym że w przypadku liceum ogólnokształcącego dla dorosłych – na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla zakresu podstawowego.
 
 3. Osoba, która ukończyła 18 lat, może uzyskać:
 
@@ -1251,25 +1174,25 @@ Art. 97–103. (pominięte)
 
 4c. Egzaminy eksternistyczne, o których mowa w ust. 1 i 3, podlegają opłacie.
 
-4d. Opłata za egzamin eksternistyczny z jednych zajęć edukacyjnych oraz opłata za egzamin eksternistyczny, o którym mowa w ust. 3 pkt 1, wynoszą 5,5 % minimalnej stawki wynagrodzenia zasadniczego nauczyciela dyplomowanego posiadającego tytuł zawodowy magistra z przygotowaniem pedagogicznym, określonego na podstawie art. 30 ust. 5 pkt 1 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela.
+4d. Opłata za egzamin eksternistyczny z jednych zajęć edukacyjnych oraz opłata za egzamin eksternistyczny, o którym mowa w ust. 3 pkt 1, wynoszą 5,5 % minimalnej stawki wynagrodzenia zasadniczego nauczyciela dyplomowanego posiadającego tytuł zawodowy magistra z przygotowaniem pedagogicznym, określonego na podstawie art. 30 ust. 5 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 
 4e. Osoba, która przystąpiła do egzaminu eksternistycznego, o którym mowa w ust. 3 pkt 1, i nie uzyskała wymaganej do zdania tego egzaminu liczby punktów z części pisemnej albo części praktycznej tego egzaminu, przystępując ponownie do tej części egzaminu, wnosi opłatę w wysokości:
 
-- **1)** w przypadku części pisemnej 1/3 opłaty, o której mowa w ust. 4d;
-- **2)** w przypadku części praktycznej 2/3 opłaty, o której mowa w ust. 4d.
+- **1)** w przypadku części pisemnej – 1/3 opłaty, o której mowa w ust. 4d;
+- **2)** w przypadku części praktycznej – 2/3 opłaty, o której mowa w ust. 4d.
 
 4f. Opłata za egzaminy eksternistyczne, o których mowa w ust. 1 i 3, stanowi dochód budżetu państwa. Opłata nie podlega zwrotowi.
 
 4g. Opłatę za egzaminy eksternistyczne wnosi się:
 
-- **1)** w przypadku egzaminów eksternistycznych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a–c nie później niż na 30 dni przed terminem rozpoczęcia sesji egzaminacyjnej, o którym mowa w przepisach wydanych na podstawie ust. 5,
-- **2)** w przypadku egzaminu eksternistycznego, o którym mowa w ust. 3 pkt 1 nie później niż na 30 dni przed wyznaczonym terminem tego egzaminu na rachunek bankowy wskazany przez dyrektora okręgowej komisji egzaminacyjnej. Niewniesienie w tych terminach opłaty za egzamin eksternistyczny, o którym mowa w ust. 1 lub 3, skutkuje brakiem możliwości przystąpienia do tego egzaminu.
+- **1)** w przypadku egzaminów eksternistycznych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a–c – nie później niż na 30 dni przed terminem rozpoczęcia sesji egzaminacyjnej, o którym mowa w przepisach wydanych na podstawie ust. 5,
+- **2)** w przypadku egzaminu eksternistycznego, o którym mowa w ust. 3 pkt 1 – nie później niż na 30 dni przed wyznaczonym terminem tego egzaminu – na rachunek bankowy wskazany przez dyrektora okręgowej komisji egzaminacyjnej. Niewniesienie w tych terminach opłaty za egzamin eksternistyczny, o którym mowa w ust. 1 lub 3, skutkuje brakiem możliwości przystąpienia do tego egzaminu.
 
 5. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
 - **1)** warunki i tryb przeprowadzania egzaminów eksternistycznych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a–c, w tym warunki ich oceniania, oraz zajęcia edukacyjne, z których są przeprowadzane egzaminy eksternistyczne, o których mowa w ust. 3 pkt 2 lit. a–c,
 - **2)** warunki dopuszczania do egzaminów eksternistycznych, o których mowa w ust. 1 i 3,
-- **3)** warunki wynagradzania egzaminatorów przeprowadzających egzaminy eksternistyczne, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a–c z uwzględnieniem możliwości unieważnienia egzaminów eksternistycznych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a–c, ze względu na naruszenie przepisów dotyczących przeprowadzania tych egzaminów, jeżeli to naruszenie mogło mieć wpływ na wynik egzaminu, a także z uwzględnieniem możliwości zwalniania osób o niskich dochodach z całości lub części opłat za przeprowadzanie egzaminów eksternistycznych, o których mowa w ust. 1 i 3. Wynagrodzenie egzaminatorów powinno być ustalone w relacji do minimalnej stawki wynagrodzenia zasadniczego nauczyciela dyplomowanego posiadającego tytuł zawodowy magistra z przygotowaniem pedagogicznym, określonego na podstawie art. 30 ust. 5 pkt 1 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela.
+- **3)** warunki wynagradzania egzaminatorów przeprowadzających egzaminy eksternistyczne, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a–c – z uwzględnieniem możliwości unieważnienia egzaminów eksternistycznych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a–c, ze względu na naruszenie przepisów dotyczących przeprowadzania tych egzaminów, jeżeli to naruszenie mogło mieć wpływ na wynik egzaminu, a także z uwzględnieniem możliwości zwalniania osób o niskich dochodach z całości lub części opłat za przeprowadzanie egzaminów eksternistycznych, o których mowa w ust. 1 i 3. Wynagrodzenie egzaminatorów powinno być ustalone w relacji do minimalnej stawki wynagrodzenia zasadniczego nauczyciela dyplomowanego posiadającego tytuł zawodowy magistra z przygotowaniem pedagogicznym, określonego na podstawie art. 30 ust. 5 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 
 6. W rozporządzeniu, o którym mowa w ust. 5, minister właściwy do spraw oświaty i wychowania może, na wniosek właściwych ministrów, wskazać zawody, w zakresie których nie przeprowadza się egzaminów eksternistycznych, o których mowa w ust. 3.
 
@@ -1283,27 +1206,27 @@ Art. 97–103. (pominięte)
 
 **Art. 11.**
 
-1. Świadectwa, certyfikaty, zaświadczenia, aneksy i dyplomy państwowe wydawane przez uprawnione do tego szkoły, placówki i centra, o których mowa w art. 2 pkt 4 ustawy Prawo oświatowe, kolegia pracowników służb społecznych oraz okręgowe komisje egzaminacyjne są dokumentami urzędowymi.
+1. Świadectwa, certyfikaty, zaświadczenia, aneksy i dyplomy państwowe wydawane przez uprawnione do tego szkoły, placówki i centra, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, kolegia pracowników służb społecznych oraz okręgowe komisje egzaminacyjne są dokumentami urzędowymi.
 
 1a. Uczniowi szkoły podstawowej, szkoły ponadpodstawowej oraz szkoły artystycznej realizującej kształcenie ogólne wydaje się legitymację szkolną.
 
 1b. Uczniowi szkoły artystycznej realizującej wyłącznie kształcenie artystyczne wydaje się legitymację szkolną:
 
 - **1)** jeżeli uczeń nie uczęszcza do szkoły podstawowej albo szkoły ponadpodstawowej;
-- **2)** na wniosek ucznia pełnoletniego, a w przypadku ucznia niepełnoletniego na wniosek jego rodziców.
+- **2)** na wniosek ucznia pełnoletniego, a w przypadku ucznia niepełnoletniego – na wniosek jego rodziców.
 
 1c. Dziecku niepełnosprawnemu spełniającemu obowiązek rocznego przygotowania przedszkolnego wydaje się legitymację przedszkolną.
 
-1d. Legitymację szkolną wydaje się także w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717), jako „mLegitymację szkolną”:
+1d. Legitymację szkolną wydaje się także w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019), jako „mLegitymację szkolną”:
 
 - **1)** uczniowi pełnoletniemu;
 - **2)** uczniowi niepełnoletniemu, jeżeli rodzice tego ucznia nie wyrazili sprzeciwu.
 
-1e. Uczniowi szkoły polskiej, o której mowa w art. 4 pkt 29d ustawy Prawo oświatowe, lub szkoły i zespołu szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe:
+1e. Uczniowi szkoły polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, lub szkoły i zespołu szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe:
 
 - **1)** wydaje się legitymację szkolną:
-    - **a)** na wniosek ucznia w przypadku ucznia pełnoletniego,
-    - **b)** na wniosek jego rodziców w przypadku ucznia niepełnoletniego;
+    - **a)** na wniosek ucznia – w przypadku ucznia pełnoletniego,
+    - **b)** na wniosek rodziców ucznia – w przypadku ucznia niepełnoletniego;
 
 - **2)** nie wydaje się mLegitymacji szkolnej.
 
@@ -1312,49 +1235,50 @@ Art. 97–103. (pominięte)
 - **1)** warunki i tryb wydawania oraz wzory świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków, w tym umieszczenie na wzorach znaków graficznych, o których mowa w art. 10 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606),
 - **2)** tryb i sposób dokonywania sprostowań, zmiany imienia (imion) lub nazwiska oraz wydawania duplikatów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków,
 - **3)** tryb i sposób dokonywania uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą,
-- **4)** wysokość i sposób dokonywania opłat za wydawanie duplikatów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych, odpisów świadectw dojrzałości i odpisów aneksów do świadectw dojrzałości oraz innych druków, a także za dokonywanie uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą uwzględniając konieczność zapewnienia prawidłowego tworzenia dokumentacji przebiegu nauczania, oceniania wyników pracy dydaktyczno-wychowawczej szkół i wyników egzaminów przeprowadzanych przez okręgowe komisje egzaminacyjne, w tym możliwość poświadczania zgodności kopii z oryginałem świadectwa, zaświadczenia lub innego druku, a także wymóg, aby wysokość odpłatności za wykonywanie czynności, o których mowa w pkt 4, nie przewyższała kwoty opłaty skarbowej za uwierzytelnienie dokumentu, określonej w przepisach o opłacie skarbowej.
+- **4)** wysokość i sposób dokonywania opłat za wydawanie duplikatów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych, odpisów świadectw dojrzałości i odpisów aneksów do świadectw dojrzałości oraz innych druków, a także za dokonywanie uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą – uwzględniając konieczność zapewnienia prawidłowego tworzenia dokumentacji przebiegu nauczania, oceniania wyników pracy dydaktyczno-wychowawczej szkół i wyników egzaminów przeprowadzanych przez okręgowe komisje egzaminacyjne, w tym możliwość poświadczania zgodności kopii z oryginałem świadectwa, zaświadczenia lub innego druku, a także wymóg, aby wysokość odpłatności za wykonywanie czynności, o których mowa w pkt 4, nie przewyższała kwoty opłaty skarbowej za uwierzytelnienie dokumentu, określonej w przepisach o opłacie skarbowej.
 
-3. W rozporządzeniu, o którym mowa w ust. 2, na świadectwach ukończenia szkół, o których mowa w art. 18 ust. 1 pkt 1 i 2 lit. a–c i e ustawy Prawo oświatowe, zamieszcza się w szczególności informację o poziomie wykształcenia, a w przypadku szkół prowadzących kształcenie zawodowe, z wyjątkiem szkół artystycznych, również informację o tym, że świadectwo ukończenia tej szkoły nie potwierdza uzyskania kwalifikacji w zawodzie.
+3. W rozporządzeniu, o którym mowa w ust. 2, na świadectwach ukończenia szkół, o których mowa w art. 18 ust. 1 pkt 1 i 2 lit. a–c i e ustawy – Prawo oświatowe, zamieszcza się w szczególności informację o poziomie wykształcenia, a w przypadku szkół prowadzących kształcenie zawodowe, z wyjątkiem szkół artystycznych, również informację o tym, że świadectwo ukończenia tej szkoły nie potwierdza uzyskania kwalifikacji w zawodzie.
 
 4. W odniesieniu do publicznych szkół i placówek artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
 - **1)** warunki i tryb wydawania oraz wzory świadectw, dyplomów państwowych i innych druków, w tym umieszczenie na wzorach znaków graficznych, o których mowa w art. 10 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji,
 - **2)** tryb i sposób dokonywania sprostowań, zmiany imienia (imion) lub nazwiska oraz wydawania duplikatów świadectw, dyplomów państwowych i innych druków,
 - **3)** tryb i sposób dokonywania uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą,
-- **4)** wysokość i sposób dokonywania opłat za wydawanie duplikatów świadectw, dyplomów państwowych oraz innych druków, a także za dokonywanie uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą uwzględniając konieczność zapewnienia prawidłowego tworzenia dokumentacji przebiegu nauczania, oceniania wyników pracy dydaktyczno-wychowawczej publicznych szkół i placówek artystycznych, w tym możliwość poświadczania zgodności kopii z oryginałem świadectwa lub innego druku, a także wymóg, aby wysokość odpłatności za wykonywanie czynności, o których mowa w pkt 4, nie przewyższała kwoty opłaty skarbowej za uwierzytelnienie dokumentu, określonej w przepisach o opłacie skarbowej.
+- **4)** wysokość i sposób dokonywania opłat za wydawanie duplikatów świadectw, dyplomów państwowych oraz innych druków, a także za dokonywanie uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą – uwzględniając konieczność zapewnienia prawidłowego tworzenia dokumentacji przebiegu nauczania, oceniania wyników pracy dydaktyczno-wychowawczej publicznych szkół i placówek artystycznych, w tym możliwość poświadczania zgodności kopii z oryginałem świadectwa lub innego druku, a także wymóg, aby wysokość odpłatności za wykonywanie czynności, o których mowa w pkt 4, nie przewyższała kwoty opłaty skarbowej za uwierzytelnienie dokumentu, określonej w przepisach o opłacie skarbowej.
 
 **Art. 11a.** (uchylony)
 
 **Art. 11b.**
 
-- **13)** 1. Osoba, która posiada:
+1. Osoba, która posiada:
+
 - **1)** świadectwo ukończenia szkoły ponadgimnazjalnej albo szkoły ponadpodstawowej, potwierdzające wykształcenie średnie lub średnie branżowe albo zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia oraz
-- **2)** certyfikat kwalifikacji zawodowej i świadectwo potwierdzające kwalifikację w zawodzie lub świadectwa potwierdzające kwalifikacje w zawodzie lub świadectwo czeladnicze albo certyfikaty kwalifikacji zawodowych potwierdzające osiągnięcie efektów kształcenia porównywalnych z efektami kształcenia przewidzianymi dla kwalifikacji wyodrębnionych w zawodzie nauczanym na poziomie technika określonym w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe, wymienione w przepisach wydanych na podstawie ust. 8 może uzyskać dyplom zawodowy w zawodzie nauczanym na poziomie technika określonym w tej klasyfikacji.
+- **2)** certyfikat kwalifikacji zawodowej i świadectwo potwierdzające kwalifikację w zawodzie lub świadectwa potwierdzające kwalifikacje w zawodzie lub świadectwo czeladnicze albo certyfikaty kwalifikacji zawodowych – potwierdzające osiągnięcie efektów kształcenia porównywalnych z efektami kształcenia przewidzianymi dla kwalifikacji wyodrębnionych w zawodzie nauczanym na poziomie technika określonym w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe, wymienione w przepisach wydanych na podstawie ust. 8 – może uzyskać dyplom zawodowy w zawodzie nauczanym na poziomie technika określonym w tej klasyfikacji.
 
 2. Osoba, która posiada:
 
 - **1)** świadectwo ukończenia szkoły ponadgimnazjalnej albo szkoły ponadpodstawowej, potwierdzające wykształcenie średnie lub średnie branżowe albo zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia oraz
-- **2)** świadectwo potwierdzające kwalifikację w zawodzie lub świadectwa potwierdzające kwalifikacje w zawodzie lub świadectwo czeladnicze potwierdzające osiągnięcie efektów kształcenia porównywalnych z efektami kształcenia przewidzianymi dla kwalifikacji wyodrębnionych w zawodzie nauczanym na poziomie technika określonym w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., wymienione w przepisach wydanych na podstawie ust. 8 może uzyskać dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika określonym w tej klasyfikacji.
+- **2)** świadectwo potwierdzające kwalifikację w zawodzie lub świadectwa potwierdzające kwalifikacje w zawodzie lub świadectwo czeladnicze – potwierdzające osiągnięcie efektów kształcenia porównywalnych z efektami kształcenia przewidzianymi dla kwalifikacji wyodrębnionych w zawodzie nauczanym na poziomie technika określonym w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., wymienione w przepisach wydanych na podstawie ust. 8 – może uzyskać dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika określonym w tej klasyfikacji.
 
 3. Na dyplomie zawodowym wydawanym osobie, o której mowa w ust. 1, wpisuje się końcowy wynik egzaminów zawodowych ustalony zgodnie z ust. 7.
 
-4. Na dyplomie potwierdzającym kwalifikacje zawodowe wydawanym osobie, o której mowa w ust. 2, wpisuje się wyniki egzaminu lub egzaminów potwierdzających kwalifikacje w zawodzie przeprowadzanych odpowiednio na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., albo wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oddzielnie w części pisemnej i części praktycznej oraz adnotację o posiadaniu świadectwa czeladniczego.
+4. Na dyplomie potwierdzającym kwalifikacje zawodowe wydawanym osobie, o której mowa w ust. 2, wpisuje się wyniki egzaminu lub egzaminów potwierdzających kwalifikacje w zawodzie przeprowadzanych odpowiednio na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., albo wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oddzielnie w części pisemnej i części praktycznej oraz adnotację o posiadaniu świadectwa czeladniczego.
 
-5. W przypadku osoby, o której mowa w ust. 1, posiadającej świadectwo potwierdzające kwalifikację w zawodzie lub świadectwa potwierdzające kwalifikacje w zawodzie, przed ustaleniem końcowego wyniku egzaminów zawodowych zgodnie z ust. 7, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu zawodowego z każdej kwalifikacji, w której osoba ta posiada świadectwo potwierdzające kwalifikację w zawodzie, na podstawie wyników odpowiednio egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., według następującego wzoru: 𝑊 =0,3×𝑊𝑝+0,7×𝑊𝑝𝑟 w którym poszczególne symbole oznaczają: 𝑊 wynik egzaminu zawodowego, 𝑊𝑝 wynik z części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie na świadectwie potwierdzającym kwalifikację w zawodzie, 𝑊𝑝𝑟 wynik z części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie na świadectwie potwierdzającym kwalifikację w zawodzie.
+5. W przypadku osoby, o której mowa w ust. 1, posiadającej świadectwo potwierdzające kwalifikację w zawodzie lub świadectwa potwierdzające kwalifikacje w zawodzie, przed ustaleniem końcowego wyniku egzaminów zawodowych zgodnie z ust. 7, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu zawodowego z każdej kwalifikacji, w której osoba ta posiada świadectwo potwierdzające kwalifikację w zawodzie, na podstawie wyników odpowiednio egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., według następującego wzoru: 𝑊 = 0,3×𝑊𝑝+0,7×𝑊𝑝𝑟 w którym poszczególne symbole oznaczają: 𝑊 – wynik egzaminu zawodowego, 𝑊𝑝 – wynik z części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie na świadectwie potwierdzającym kwalifikację w zawodzie, 𝑊𝑝𝑟 – wynik z części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie na świadectwie potwierdzającym kwalifikację w zawodzie.
 
 6. W przypadku osoby, o której mowa w ust. 1, posiadającej świadectwo czeladnicze, przed ustaleniem końcowego wyniku egzaminów zawodowych zgodnie z ust. 7, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu zawodowego z kwalifikacji, której zakres odpowiada zakresowi zawodu, w którym osoba ta posiada świadectwo czeladnicze, w następujący sposób:
 
-- **1)** ocena dostateczna na świadectwie czeladniczym 70 % punktów możliwych do uzyskania;
-- **2)** ocena dobra na świadectwie czeladniczym 80 % punktów możliwych do uzyskania;
-- **3)** ocena bardzo dobra na świadectwie czeladniczym 90 % punktów możliwych do uzyskania;
-- **4)** ocena celująca na świadectwie czeladniczym 100 % punktów możliwych do uzyskania.
+- **1)** ocena dostateczna na świadectwie czeladniczym – 70 % punktów możliwych do uzyskania;
+- **2)** ocena dobra na świadectwie czeladniczym – 80 % punktów możliwych do uzyskania;
+- **3)** ocena bardzo dobra na świadectwie czeladniczym – 90 % punktów możliwych do uzyskania;
+- **4)** ocena celująca na świadectwie czeladniczym – 100 % punktów możliwych do uzyskania.
 
-7. Dyrektor okręgowej komisji egzaminacyjnej ustala końcowy wynik egzaminów zawodowych na dyplomie zawodowym wydawanym osobie, o której mowa w ust. 1, według następującego wzoru: ∑𝐾𝑛 𝑊𝑘 = 𝑛 w którym poszczególne symbole oznaczają: 𝑊𝑘 końcowy wynik egzaminów zawodowych, 𝐾𝑛 wynik egzaminu zawodowego z kwalifikacji ustalony zgodnie z ust. 5 lub 6, 𝑛 liczba wyników egzaminów zawodowych z kwalifikacji ustalonych zgodnie z ust. 5 lub 6, na podstawie których ustalono końcowy wynik egzaminów zawodowych.
+7. Dyrektor okręgowej komisji egzaminacyjnej ustala końcowy wynik egzaminów zawodowych na dyplomie zawodowym wydawanym osobie, o której mowa w ust. 1, według następującego wzoru: ∑𝐾𝑛 𝑊𝑘 = 𝑛 w którym poszczególne symbole oznaczają: 𝑊𝑘 – końcowy wynik egzaminów zawodowych, 𝐾𝑛 – wynik egzaminu zawodowego z kwalifikacji ustalony zgodnie z ust. 5 lub 6, 𝑛 – liczba wyników egzaminów zawodowych z kwalifikacji ustalonych zgodnie z ust. 5 lub 6, na podstawie których ustalono końcowy wynik egzaminów zawodowych.
 
 8. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-- **1)** wykaz dokumentów potwierdzających kwalifikacje w zawodzie wymaganych do uzyskania dyplomu zawodowego w danym zawodzie nauczanym na poziomie technika w przypadku, o którym mowa w ust. 1,
-- **2)** wykaz dokumentów potwierdzających kwalifikacje w zawodzie wymaganych do uzyskania dyplomu potwierdzającego kwalifikacje zawodowe w danym zawodzie nauczanym na poziomie technika w przypadku, o którym mowa w ust. 2 uwzględniając porównywalność efektów kształcenia, w tym nabytych umiejętności zawodowych, potwierdzonych certyfikatem kwalifikacji zawodowej, świadectwem potwierdzającym kwalifikację w zawodzie lub świadectwem czeladniczym z efektami kształcenia, w tym nabytymi umiejętnościami zawodowymi, potwierdzonymi dyplomem zawodowym lub dyplomem potwierdzającym kwalifikacje zawodowe.
+- **1)** wykaz dokumentów potwierdzających kwalifikacje w zawodzie wymaganych do uzyskania dyplomu zawodowego w danym zawodzie nauczanym na poziomie technika – w przypadku, o którym mowa w ust. 1,
+- **2)** wykaz dokumentów potwierdzających kwalifikacje w zawodzie wymaganych do uzyskania dyplomu potwierdzającego kwalifikacje zawodowe w danym zawodzie nauczanym na poziomie technika – w przypadku, o którym mowa w ust. 2 – uwzględniając porównywalność efektów kształcenia, w tym nabytych umiejętności zawodowych, potwierdzonych certyfikatem kwalifikacji zawodowej, świadectwem potwierdzającym kwalifikację w zawodzie lub świadectwem czeladniczym z efektami kształcenia, w tym nabytymi umiejętnościami zawodowymi, potwierdzonymi dyplomem zawodowym lub dyplomem potwierdzającym kwalifikacje zawodowe.
 
 **Art. 12.**
 
@@ -1369,7 +1293,7 @@ Art. 97–103. (pominięte)
 2. Na wniosek rodziców nauka, o której mowa w ust. 1, może być prowadzona:
 
 - **1)** w osobnych grupach, oddziałach lub szkołach;
-- **2)** w grupach, oddziałach lub szkołach z dodatkową nauką języka oraz własnej historii i kultury;
+- **2)** w grupach, oddziałach lub szkołach – z dodatkową nauką języka oraz własnej historii i kultury;
 - **3)** w międzyszkolnych zespołach nauczania.
 
 3. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, warunki i sposób wykonywania przez szkoły i placówki zadań, o których mowa w ust. 1 i 2, w szczególności minimalną liczbę uczniów, dla których organizuje się poszczególne formy nauczania wymienione w ust. 2.
@@ -1396,9 +1320,9 @@ Art. 97–103. (pominięte)
 - **2)** jeżeli uczeń, a w przypadku ucznia niepełnoletniego jego rodzic, wyrazi zgodę na ujawnienie określonych informacji;
 - **3)** w przypadku gdy przewidują to przepisy szczególne.
 
-#### Rozdział 2 (uchylony)
+#### Rozdział 2
 
-#### Rozdział 2a (uchylony)
+#### Rozdział 2a
 
 #### Rozdział 3 Zarządzanie szkołami i placówkami publicznymi
 
@@ -1408,7 +1332,7 @@ Art. 97–103. (pominięte)
 
 2. Minister właściwy do spraw oświaty i wychowania inicjuje, koordynuje i nadzoruje organizację ogólnopolskich olimpiad i turniejów dla uczniów, a także może zlecić zadania z tego zakresu, w drodze umowy, szkołom wyższym, placówkom naukowym, stowarzyszeniom naukowym, zawodowym i innym podmiotom prowadzącym statutową działalność oświatową lub naukową.
 
-3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy Prawo oświatowe, może organizować i przeprowadzać konkursy dla uczniów szkół i placówek artystycznych, a także może:
+3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, może organizować i przeprowadzać konkursy dla uczniów szkół i placówek artystycznych, a także może:
 
 - **1)** zlecać czynności związane z ich przeprowadzaniem, w drodze umowy, publicznym szkołom artystycznym prowadzonym przez jednostki samorządu terytorialnego, uczelniom artystycznym, instytucjom kultury, a także fundacjom i stowarzyszeniom prowadzącym działalność kulturalną lub edukacyjną w zakresie odpowiadającym rodzajowi konkursu;
 - **2)** powierzać czynności związane z ich przeprowadzaniem publicznym szkołom artystycznym prowadzonym przez tego ministra.
@@ -1433,7 +1357,7 @@ Art. 97–103. (pominięte)
 - **10)** (uchylony)
 - **11)** (uchylony)
 - **12)** (uchylony)
-- **13)** warunki wynagradzania egzaminatorów, nauczycieli akademickich, o których mowa w art. 9c ust. 10, operatorów pracowni informatycznej, o których mowa w art. 44zzsa ust. 1 i art. 44zzzib ust. 1, i asystentów technicznych, o których mowa w art. 44zzzia ust. 1, uwzględniając zasadę, że wysokość wynagrodzenia określa się w relacji do minimalnej stawki wynagrodzenia zasadniczego nauczyciela dyplomowanego posiadającego tytuł zawodowy magistra z przygotowaniem pedagogicznym, ustalonej na podstawie art. 30 ust. 5 pkt 1 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela, oraz uwzględniając konieczność potwierdzenia przez dyrektora szkoły udziału nauczyciela akademickiego w części ustnej egzaminu maturalnego.
+- **13)** warunki wynagradzania egzaminatorów, nauczycieli akademickich, o których mowa w art. 9c ust. 10, operatorów pracowni informatycznej, o których mowa w art. 44zzsa ust. 1 i art. 44zzzib ust. 1, i asystentów technicznych, o których mowa w art. 44zzzia ust. 1, uwzględniając zasadę, że wysokość wynagrodzenia określa się w relacji do minimalnej stawki wynagrodzenia zasadniczego nauczyciela dyplomowanego posiadającego tytuł zawodowy magistra z przygotowaniem pedagogicznym, ustalonej na podstawie art. 30 ust. 5 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, oraz uwzględniając konieczność potwierdzenia przez dyrektora szkoły udziału nauczyciela akademickiego w części ustnej egzaminu maturalnego.
 
 2a. (uchylony)
 
@@ -1461,9 +1385,9 @@ Art. 97–103. (pominięte)
 
 6. Dyrektor przedszkola lub szkoły, po zasięgnięciu opinii rady pedagogicznej, dopuszcza do użytku w danym przedszkolu, oddziale przedszkolnym w szkole podstawowej, danej innej formie wychowania przedszkolnego lub szkole przedstawiony przez nauczyciela lub zespół nauczycieli odpowiednio program wychowania przedszkolnego lub programy nauczania, o których mowa w ust. 1 i 3.
 
-7. Dopuszczone do użytku w danym przedszkolu, oddziale przedszkolnym w szkole podstawowej, danej innej formie wychowania przedszkolnego lub szkole programy wychowania przedszkolnego lub programy nauczania, o których mowa w ust. 1 i 3, stanowią odpowiednio zestaw programów wychowania przedszkolnego lub szkolny zestaw programów nauczania. Dyrektor przedszkola lub szkoły jest odpowiedzialny za uwzględnienie w zestawie programów wychowania przedszkolnego i szkolnym zestawie programów nauczania całości odpowiednio podstawy programowej wychowania przedszkolnego lub podstawy programowej kształcenia ogólnego ustalonej dla danego etapu edukacyjnego, a w przypadku szkoły prowadzącej kształcenie zawodowe także podstaw programowych kształcenia w zawodach szkolnictwa branżowego albo podstaw programowych kształcenia w zawodach szkolnictwa artystycznego, w których kształci szkoła.
+7. Dopuszczone do użytku w danym przedszkolu, oddziale przedszkolnym w szkole podstawowej, danej innej formie wychowania przedszkolnego lub szkole programy wychowania przedszkolnego lub programy nauczania, o których mowa w ust. 1 i 3, stanowią odpowiednio zestaw programów wychowania przedszkolnego lub szkolny zestaw programów nauczania. Dyrektor przedszkola lub szkoły jest odpowiedzialny za uwzględnienie w zestawie programów wychowania przedszkolnego i szkolnym zestawie programów nauczania całości odpowiednio podstawy programowej wychowania przedszkolnego lub podstawy programowej kształcenia ogólnego ustalonej dla danego etapu edukacyjnego, a w przypadku szkoły prowadzącej kształcenie zawodowe – także podstaw programowych kształcenia w zawodach szkolnictwa branżowego albo podstaw programowych kształcenia w zawodach szkolnictwa artystycznego, w których kształci szkoła.
 
-8. Przepisów ust. 1–7 nie stosuje się do indywidualnych programów opracowywanych dla uczniów, o których mowa w art. 1 pkt 6 ustawy Prawo oświatowe, oraz do indywidualnych programów nauki opracowywanych dla uczniów, o których mowa w art. 115 ustawy Prawo oświatowe.
+8. Przepisów ust. 1–7 nie stosuje się do indywidualnych programów opracowywanych dla uczniów, o których mowa w art. 1 pkt 6 ustawy – Prawo oświatowe, oraz do indywidualnych programów nauki opracowywanych dla uczniów, o których mowa w art. 115 ustawy – Prawo oświatowe.
 
 9. Programy nauczania zawodów podstawowych dla żeglugi morskiej mogą być dopuszczone do użytku w danej szkole po uzyskaniu pozytywnej opinii ministra właściwego do spraw gospodarki morskiej w zakresie zgodności z postanowieniami Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201 i 202, z 1999 r. poz. 286, z 2013 r. poz. 1092, z 2018 r. poz. 1866 i 2088 oraz z 2019 r. poz. 103).
 
@@ -1476,15 +1400,15 @@ Art. 97–103. (pominięte)
 
 2. Program nauczania może być realizowany również z wykorzystaniem w szczególności urządzeń, sprzętu lub oprogramowania, przydatnych do realizacji tego programu, z uwzględnieniem potrzeb edukacyjnych i możliwości psychofizycznych uczniów. Art. 22ab. 1. Zespół nauczycieli prowadzących nauczanie w klasach I–III szkoły podstawowej oraz zespół nauczycieli prowadzących nauczanie danych zajęć edukacyjnych w klasach IV–VIII szkoły podstawowej i szkole ponadpodstawowej przedstawiają dyrektorowi szkoły propozycję:
 
-- **1)** jednego podręcznika do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej oraz jednego podręcznika do zajęć z zakresu danego języka obcego nowożytnego, lub materiału edukacyjnego, dla uczniów danej klasy w przypadku klas I–III szkoły podstawowej;
-- **2)** jednego podręcznika do danych zajęć edukacyjnych lub materiału edukacyjnego do danych zajęć edukacyjnych, dla uczniów danej klasy w przypadku klas IV–VIII szkoły podstawowej i szkoły ponadpodstawowej;
+- **1)** jednego podręcznika do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej oraz jednego podręcznika do zajęć z zakresu danego języka obcego nowożytnego, lub materiału edukacyjnego, dla uczniów danej klasy – w przypadku klas I–III szkoły podstawowej;
+- **2)** jednego podręcznika do danych zajęć edukacyjnych lub materiału edukacyjnego do danych zajęć edukacyjnych, dla uczniów danej klasy – w przypadku klas IV– VIII szkoły podstawowej i szkoły ponadpodstawowej;
 - **3)** materiałów ćwiczeniowych.
 
 2. Zespoły nauczycieli, o których mowa w ust. 1, mogą przedstawić dyrektorowi szkoły propozycję więcej niż jednego podręcznika lub materiału edukacyjnego:
 
-- **1)** do danego języka obcego nowożytnego oraz języka łacińskiego w danej klasie, biorąc pod uwagę poziomy nauczania języków obcych nowożytnych lub poziomy nauczania języka łacińskiego w przypadku klas IV–VIII szkoły podstawowej i szkoły ponadpodstawowej;
-- **2)** do danych zajęć edukacyjnych w danej klasie, biorąc pod uwagę zakres kształcenia: podstawowy lub rozszerzony, ustalony w podstawie programowej kształcenia ogólnego w przypadku szkoły ponadpodstawowej;
-- **3)** do danych zajęć edukacyjnych w danej klasie z zakresu kształcenia w zawodzie w przypadku szkoły prowadzącej kształcenie zawodowe;
+- **1)** do danego języka obcego nowożytnego oraz języka łacińskiego w danej klasie, biorąc pod uwagę poziomy nauczania języków obcych nowożytnych lub poziomy nauczania języka łacińskiego – w przypadku klas IV–VIII szkoły podstawowej i szkoły ponadpodstawowej;
+- **2)** do danych zajęć edukacyjnych w danej klasie, biorąc pod uwagę zakres kształcenia: podstawowy lub rozszerzony, ustalony w podstawie programowej kształcenia ogólnego – w przypadku szkoły ponadpodstawowej;
+- **3)** do danych zajęć edukacyjnych w danej klasie z zakresu kształcenia w zawodzie – w przypadku szkoły prowadzącej kształcenie zawodowe;
 - **4)** w przypadku uczniów niepełnosprawnych objętych kształceniem specjalnym;
 - **5)** w przypadku uczniów objętych kształceniem w zakresie niezbędnym do podtrzymywania poczucia tożsamości narodowej, etnicznej i językowej.
 
@@ -1493,7 +1417,7 @@ Art. 97–103. (pominięte)
 4. Dyrektor szkoły, na podstawie propozycji zespołów nauczycieli, o których mowa w ust. 1, oraz w przypadku braku porozumienia w zespole nauczycieli w sprawie przedstawienia propozycji podręczników lub materiałów edukacyjnych, zgodnie z ust. 1 i 2, ustala:
 
 - **1)** zestaw podręczników lub materiałów edukacyjnych obowiązujący we wszystkich oddziałach danej klasy przez co najmniej trzy lata szkolne,
-- **2)** materiały ćwiczeniowe obowiązujące w poszczególnych oddziałach w danym roku szkolnym po zasięgnięciu opinii rady pedagogicznej i rady rodziców.
+- **2)** materiały ćwiczeniowe obowiązujące w poszczególnych oddziałach w danym roku szkolnym – po zasięgnięciu opinii rady pedagogicznej i rady rodziców.
 
 5. Dyrektor szkoły, na wniosek zespołu nauczycieli, o którym mowa w ust. 1, może:
 
@@ -1508,9 +1432,7 @@ Art. 97–103. (pominięte)
 
 2. (uchylony) 2a. (uchylony) 2b. (uchylony)
 
-3. Podręcznik dopuszcza się do użytku szkolnego na wniosek podmiotu posiadającego autorskie prawa majątkowe do podręcznika lub inne prawa do korzystania z utworu będącego podręcznikiem.
-
-4. Podmiot, o którym mowa w ust. 3, wnosi opłatę w wysokości od 800 zł do 6000 zł.
+3. Podręcznik dopuszcza się do użytku szkolnego na wniosek podmiotu posiadającego autorskie prawa majątkowe do podręcznika lub inne prawa do korzystania z utworu będącego podręcznikiem. [4. Podmiot, o którym mowa w ust. 3, wnosi opłatę w wysokości od 800 zł do 6000 zł.] <4. Podmiot, o którym mowa w ust. 3, wnosi opłatę w wysokości od 2800 zł do 14 000 zł.>
 
 5. Dopuszczenie do użytku szkolnego podręcznika dotyczy danego wydania oraz kolejnych niezmienionych wydań.
 
@@ -1518,31 +1440,31 @@ Art. 97–103. (pominięte)
 
 7. Dopuszczenie i odmowa dopuszczenia podręcznika do użytku szkolnego następuje w drodze decyzji administracyjnej.
 
-8. Stroną postępowania w sprawie dopuszczenia podręcznika do użytku szkolnego jest wyłącznie wnioskodawca występujący z wnioskiem o dopuszczenie podręcznika. Przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) nie stosuje się. Art. 22ao. 1. Podręcznik może mieć postać papierową lub elektroniczną.
+8. Stroną postępowania w sprawie dopuszczenia podręcznika do użytku szkolnego jest wyłącznie wnioskodawca występujący z wnioskiem o dopuszczenie podręcznika. Przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) nie stosuje się. Art. 22ao. 1. Podręcznik może mieć postać papierową lub elektroniczną.
 
 2. Podręcznik może być wydawany w częściach, jeżeli jest to uzasadnione ze względu na funkcjonalność używania podręcznika.
 
 3. Podręcznik może być dopuszczony do użytku szkolnego, jeżeli:
 
-- **1)** w przypadku podręcznika do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej oraz podręcznika do zajęć z zakresu danego języka obcego nowożytnego, w klasach I–III szkoły podstawowej zawiera usystematyzowaną prezentację treści nauczania z zakresu odpowiednio edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej albo danego języka obcego nowożytnego, ustalonych w podstawie programowej kształcenia ogólnego;
-- **2)** w przypadku podręcznika do danych zajęć edukacyjnych z zakresu kształcenia ogólnego w klasach IV–VIII szkoły podstawowej i szkole ponadpodstawowej zawiera usystematyzowaną prezentację treści nauczania z zakresu danych zajęć edukacyjnych na danym etapie edukacyjnym ustalonych w podstawie programowej kształcenia ogólnego i nie jest opracowany w sposób repetycyjny i podporządkowany wyłącznie nabywaniu umiejętności rozwiązywania zadań egzaminacyjnych wzorowanych na zadaniach zawartych w arkuszach egzaminacyjnych do przeprowadzania odpowiednio egzaminu ósmoklasisty lub egzaminu maturalnego;
+- **1)** w przypadku podręcznika do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej oraz podręcznika do zajęć z zakresu danego języka obcego nowożytnego, w klasach I–III szkoły podstawowej – zawiera usystematyzowaną prezentację treści nauczania z zakresu odpowiednio edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej albo danego języka obcego nowożytnego, ustalonych w podstawie programowej kształcenia ogólnego;
+- **2)** w przypadku podręcznika do danych zajęć edukacyjnych z zakresu kształcenia ogólnego w klasach IV–VIII szkoły podstawowej i szkole ponadpodstawowej – zawiera usystematyzowaną prezentację treści nauczania z zakresu danych zajęć edukacyjnych na danym etapie edukacyjnym ustalonych w podstawie programowej kształcenia ogólnego i nie jest opracowany w sposób repetycyjny i podporządkowany wyłącznie nabywaniu umiejętności rozwiązywania zadań egzaminacyjnych wzorowanych na zadaniach zawartych w arkuszach egzaminacyjnych do przeprowadzania odpowiednio egzaminu ósmoklasisty lub egzaminu maturalnego;
 - **3)** (uchylony)
 - **4)** nie zawiera:
-    - **a)** pytań, poleceń, zadań i ćwiczeń wymagających uzupełniania w podręczniku w przypadku podręcznika w postaci papierowej,
+    - **a)** pytań, poleceń, zadań i ćwiczeń wymagających uzupełniania w podręczniku – w przypadku podręcznika w postaci papierowej,
     - **b)** odwołań i poleceń wymagających korzystania z opracowanych przez określonego wydawcę dodatkowych materiałów dydaktycznych przeznaczonych dla ucznia;
 
 - **5)** nie zawiera materiałów i treści o charakterze reklamowym;
-- **6)** w przypadku podręcznika w postaci elektronicznej jest opracowany w sposób pozwalający na zastosowanie rozwiązań umożliwiających odczyt przez uczniów z różnymi rodzajami niepełnosprawności;
-- **6a)** w przypadku podręcznika w postaci papierowej jest opracowany w postaci papierowej i ponadto jego cyfrowe odzwierciedlenie jest zamieszczone na informatycznym nośniku danych lub w Internecie;
+- **6)** w przypadku podręcznika w postaci elektronicznej – jest opracowany w sposób pozwalający na zastosowanie rozwiązań umożliwiających odczyt przez uczniów z różnymi rodzajami niepełnosprawności;
+- **6a)** w przypadku podręcznika w postaci papierowej – jest opracowany w postaci papierowej i ponadto jego cyfrowe odzwierciedlenie jest zamieszczone na informatycznym nośniku danych lub w Internecie;
 - **7)** spełnia szczegółowe warunki określone w przepisach wydanych na podstawie art. 22aw. Art. 22ap. Podręczniki dopuszczone do użytku szkolnego są wpisywane do wykazu, który jest podawany do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania. Art. 22aq. 1. Minister właściwy do spraw oświaty i wychowania, w drodze decyzji administracyjnej, może cofnąć dopuszczenie do użytku szkolnego podręcznika:
 - **1)** na wniosek podmiotu, o którym mowa w art. 22an ust. 3;
-- **2)** z urzędu jeżeli co najmniej dwóch rzeczoznawców wyznaczonych przez ministra właściwego do spraw oświaty i wychowania stwierdzi, że podręcznik:
+- **2)** z urzędu – jeżeli co najmniej dwóch rzeczoznawców wyznaczonych przez ministra właściwego do spraw oświaty i wychowania stwierdzi, że podręcznik:
     - **a)** utracił aktualność lub przydatność dydaktyczną, lub
     - **b)** zawiera błędy merytoryczne, z powodu których podręcznik nie powinien być w użytku szkolnym.
 
 2. Minister właściwy do spraw oświaty i wychowania zamieszcza na stronie internetowej urzędu obsługującego tego ministra informację o terminie, po upływie którego podręcznik nie może być uwzględniony w zestawie, o którym mowa w art. 22ab ust. 4 pkt 1. Art. 22ar. Wpis na listę rzeczoznawców jest dokonywany na wniosek osoby zainteresowanej. Art. 22as. 1. Na listę rzeczoznawców może być wpisana osoba posiadająca:
 
-- **1)** wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, z tym że w przypadku rzeczoznawcy do spraw podręczników przeznaczonych do kształcenia specjalnego wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, w zakresie specjalności odpowiedniej dla danej niepełnosprawności lub kwalifikacje wymagane do zajmowania stanowiska nauczyciela w szkole specjalnej;
+- **1)** wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, z tym że w przypadku rzeczoznawcy do spraw podręczników przeznaczonych do kształcenia specjalnego – wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, w zakresie specjalności odpowiedniej dla danej niepełnosprawności lub kwalifikacje wymagane do zajmowania stanowiska nauczyciela w szkole specjalnej;
 - **2)** doświadczenie i osiągnięcia w pracy naukowej lub dydaktycznej;
 - **3)** kompetencje w dziedzinie technologii informacyjno-komunikacyjnych;
 - **4)** rekomendację instytucji lub, w przypadku osoby ubiegającej się o wpis na listę rzeczoznawców do spraw podręczników przeznaczonych do kształcenia specjalnego, rekomendację organizacji pozarządowej, jeżeli statutowa działalność tej organizacji obejmuje działalność naukową lub edukacyjną na rzecz osób niepełnosprawnych, potwierdzającą posiadanie doświadczenia i osiągnięć odpowiednio w pracy naukowej lub dydaktycznej, przez osobę ubiegającą się o wpis na listę rzeczoznawców, zapewniających należyte wykonywanie obowiązków rzeczoznawcy do spraw podręczników do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, podręczników do zajęć z zakresu danego języka obcego nowożytnego, podręczników do zajęć edukacyjnych z zakresu kształcenia ogólnego lub podręczników przeznaczonych do kształcenia specjalnego dla uczniów z danym rodzajem niepełnosprawności.
@@ -1599,7 +1521,7 @@ Art. 97–103. (pominięte)
 - **4)** instytucje, których rekomendacja jest wymagana przy ubieganiu się o wpisanie na listę rzeczoznawców;
 - **5)** możliwość różnicowania opłat wnoszonych w postępowaniu o dopuszczenie podręcznika do użytku szkolnego w zależności od rodzaju i postaci podręcznika, zakresu kształcenia, rodzaju zajęć edukacyjnych oraz etapu edukacyjnego. Art. 22ax. (uchylony) Art. 22ay. 1. (uchylony)
 
-2. Do szkół polskich, o których mowa w art. 4 pkt 29d ustawy Prawo oświatowe przepisy art. 22aa i art. 22ab ust. 1, 2 pkt 4 i ust. 3–6 stosuje się odpowiednio. Art. 22az. (uchylony) Art. 22aza. (uchylony) Art. 22azb. (uchylony) Art. 22azc. (uchylony)
+2. Do szkół polskich, o których mowa w art. 4 pkt 29d ustawy – Prawo oświatowe przepisy art. 22aa i art. 22ab ust. 1, 2 pkt 4 i ust. 3–6 stosuje się odpowiednio. Art. 22az. (uchylony) Art. 22aza. (uchylony) Art. 22azb. (uchylony) Art. 22azc. (uchylony)
 
 **Art. 22b.** Dyrektor szkoły podejmuje działania organizacyjne umożliwiające obrót używanymi podręcznikami na terenie szkoły.
 
@@ -1610,7 +1532,7 @@ Art. 97–103. (pominięte)
 - **1)** podręcznika,
 - **2)** materiału edukacyjnego,
 - **3)** dostosowanej do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych książki pomocniczej,
-- **4)** dostosowanego do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych materiału ćwiczeniowego lub ich części.
+- **4)** dostosowanego do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych materiału ćwiczeniowego – lub ich części.
 
 2. Podręcznik lub jego część opracowane w wyniku zlecenia, o którym mowa w ust. 1, oraz zaakceptowane przez ministra właściwego do spraw oświaty i wychowania są dopuszczone do użytku szkolnego z mocy prawa.
 
@@ -1697,7 +1619,7 @@ Art. 97–103. (pominięte)
 
 #### Rozdział 3a Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych
 
-**Art. 44a.** Ilekroć w niniejszym rozdziale jest mowa o zajęciach edukacyjnych bez bliższego określenia, należy przez to rozumieć obowiązkowe i dodatkowe zajęcia edukacyjne, o których mowa w art. 109 ust. 1 pkt 1 i 2 ustawy Prawo oświatowe, zajęcia religii lub etyki, o których mowa w przepisach wydanych na podstawie art. 12 ust. 2, oraz zajęcia, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3.
+**Art. 44a.** Ilekroć w niniejszym rozdziale jest mowa o zajęciach edukacyjnych bez bliższego określenia, należy przez to rozumieć obowiązkowe i dodatkowe zajęcia edukacyjne, o których mowa w art. 109 ust. 1 pkt 1 i 2 ustawy – Prawo oświatowe, zajęcia religii lub etyki, o których mowa w przepisach wydanych na podstawie art. 12 ust. 2, oraz zajęcia, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3.
 
 **Art. 44b.**
 
@@ -1711,7 +1633,7 @@ Art. 97–103. (pominięte)
 3. Ocenianie osiągnięć edukacyjnych ucznia polega na rozpoznawaniu przez nauczycieli poziomu i postępów w opanowaniu przez ucznia wiadomości i umiejętności w stosunku do:
 
 - **1)** wymagań określonych w podstawie programowej kształcenia ogólnego lub efektów kształcenia i kryteriów weryfikacji w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz wymagań edukacyjnych wynikających z realizowanych w szkole programów nauczania;
-- **2)** wymagań edukacyjnych wynikających z realizowanych w szkole programów nauczania w przypadku dodatkowych zajęć edukacyjnych.
+- **2)** wymagań edukacyjnych wynikających z realizowanych w szkole programów nauczania – w przypadku dodatkowych zajęć edukacyjnych.
 
 4. Ocenianie zachowania ucznia polega na rozpoznawaniu przez wychowawcę oddziału, nauczycieli oraz uczniów danego oddziału stopnia respektowania przez ucznia zasad współżycia społecznego i norm etycznych oraz obowiązków określonych w statucie szkoły.
 
@@ -1729,7 +1651,7 @@ Art. 97–103. (pominięte)
 - **1)** formułowanie przez nauczycieli wymagań edukacyjnych niezbędnych do otrzymania przez ucznia poszczególnych śródrocznych i rocznych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3;
 - **2)** ustalanie kryteriów oceniania zachowania;
 - **3)** ustalanie ocen bieżących i śródrocznych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, a także śródrocznej oceny klasyfikacyjnej zachowania;
-- **4)** przeprowadzanie egzaminów klasyfikacyjnych, o których mowa w art. 44k ust. 2 i 3, a także w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy Prawo oświatowe;
+- **4)** przeprowadzanie egzaminów klasyfikacyjnych, o których mowa w art. 44k ust. 2 i 3, a także w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy – Prawo oświatowe;
 - **5)** ustalanie rocznych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, oraz rocznej oceny klasyfikacyjnej zachowania;
 - **6)** ustalanie warunków i trybu otrzymania wyższych niż przewidywane rocznych ocen klasyfikacyjnych z zajęć edukacyjnych oraz rocznej oceny klasyfikacyjnej zachowania;
 - **7)** ustalanie warunków i sposobu przekazywania rodzicom informacji o postępach i trudnościach w nauce i zachowaniu ucznia oraz o szczególnych uzdolnieniach ucznia.
@@ -1774,10 +1696,10 @@ Art. 97–103. (pominięte)
 
 5. Na wniosek ucznia lub jego rodziców dokumentacja dotycząca:
 
-- **1)** egzaminu klasyfikacyjnego, o którym mowa w art. 44k ust. 2 i 3, a także w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy Prawo oświatowe,
+- **1)** egzaminu klasyfikacyjnego, o którym mowa w art. 44k ust. 2 i 3, a także w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy – Prawo oświatowe,
 - **2)** egzaminu poprawkowego, o którym mowa w art. 44m ust. 1,
 - **3)** zastrzeżeń, o których mowa w art. 44n,
-- **4)** oceniania ucznia, inna niż wymieniona w pkt 1–3 jest udostępniana do wglądu uczniowi lub jego rodzicom.
+- **4)** oceniania ucznia, inna niż wymieniona w pkt 1–3 – jest udostępniana do wglądu uczniowi lub jego rodzicom.
 
 6. (uchylony)
 
@@ -1807,7 +1729,7 @@ Art. 97–103. (pominięte)
 
 6. Klasyfikacji końcowej dokonuje się w klasie programowo najwyższej szkoły danego typu.
 
-7. W przypadku uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym klasyfikacji śródrocznej i rocznej dokonuje się z uwzględnieniem ustaleń zawartych w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy Prawo oświatowe.
+7. W przypadku uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym klasyfikacji śródrocznej i rocznej dokonuje się z uwzględnieniem ustaleń zawartych w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy – Prawo oświatowe.
 
 8. Oceny klasyfikacyjne z zajęć edukacyjnych nie mają wpływu na ocenę klasyfikacyjną zachowania.
 
@@ -1824,13 +1746,13 @@ Art. 97–103. (pominięte)
 
 **Art. 44h.**
 
-1. Śródroczne i roczne oceny klasyfikacyjne z zajęć edukacyjnych ustalają nauczyciele prowadzący poszczególne zajęcia edukacyjne, a śródroczną i roczną ocenę klasyfikacyjną zachowania wychowawca oddziału po zasięgnięciu opinii nauczycieli, uczniów danego oddziału oraz ocenianego ucznia.
+1. Śródroczne i roczne oceny klasyfikacyjne z zajęć edukacyjnych ustalają nauczyciele prowadzący poszczególne zajęcia edukacyjne, a śródroczną i roczną ocenę klasyfikacyjną zachowania – wychowawca oddziału po zasięgnięciu opinii nauczycieli, uczniów danego oddziału oraz ocenianego ucznia.
 
-2. W technikum i branżowej szkole I stopnia, które organizują praktyczną naukę zawodu, śródroczną i roczną ocenę klasyfikacyjną z zajęć prowadzonych w ramach praktycznej nauki zawodu ustalają nauczyciele praktycznej nauki zawodu lub osoby prowadzące praktyczną naukę zawodu, o których mowa w przepisach wydanych na podstawie art. 120 ust. 4 ustawy Prawo oświatowe.
+2. W technikum i branżowej szkole I stopnia, które organizują praktyczną naukę zawodu, śródroczną i roczną ocenę klasyfikacyjną z zajęć prowadzonych w ramach praktycznej nauki zawodu ustalają nauczyciele praktycznej nauki zawodu lub osoby prowadzące praktyczną naukę zawodu, o których mowa w przepisach wydanych na podstawie art. 120 ust. 4 ustawy – Prawo oświatowe.
 
-3. W szkole lub oddziale integracyjnym śródroczną i roczną ocenę klasyfikacyjną z zajęć edukacyjnych dla ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego ustala nauczyciel prowadzący dane zajęcia edukacyjne, po zasięgnięciu opinii nauczyciela zatrudnionego w celu współorganizowania kształcenia integracyjnego, o którym mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy Prawo oświatowe.
+3. W szkole lub oddziale integracyjnym śródroczną i roczną ocenę klasyfikacyjną z zajęć edukacyjnych dla ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego ustala nauczyciel prowadzący dane zajęcia edukacyjne, po zasięgnięciu opinii nauczyciela zatrudnionego w celu współorganizowania kształcenia integracyjnego, o którym mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy – Prawo oświatowe.
 
-4. W szkole lub oddziale ogólnodostępnym śródroczną i roczną ocenę klasyfikacyjną z zajęć edukacyjnych dla ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego ustala nauczyciel prowadzący dane zajęcia edukacyjne, a w przypadku gdy w szkole lub oddziale jest dodatkowo zatrudniony nauczyciel w celu współorganizowania kształcenia uczniów niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym, o którym mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy Prawo oświatowe, po zasięgnięciu opinii tego nauczyciela.
+4. W szkole lub oddziale ogólnodostępnym śródroczną i roczną ocenę klasyfikacyjną z zajęć edukacyjnych dla ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego ustala nauczyciel prowadzący dane zajęcia edukacyjne, a w przypadku gdy w szkole lub oddziale jest dodatkowo zatrudniony nauczyciel w celu współorganizowania kształcenia uczniów niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym, o którym mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy – Prawo oświatowe, po zasięgnięciu opinii tego nauczyciela.
 
 5. W szkole w okręgowym ośrodku wychowawczym, zakładzie poprawczym i schronisku dla nieletnich śródroczną i roczną ocenę klasyfikacyjną zachowania ustala wychowawca oddziału po zasięgnięciu opinii nauczycieli i wychowawców odpowiednio okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich.
 
@@ -1861,9 +1783,9 @@ Art. 97–103. (pominięte)
 7. Oceny bieżące oraz śródroczne, roczne i końcowe oceny klasyfikacyjne z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, a także śródroczne, roczne i końcowe oceny klasyfikacyjne zachowania dla:
 
 - **1)** ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym,
-- **2)** ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawności sprzężone, uczęszczającego do szkoły, o której mowa w art. 18 ust. 1 pkt 2 lit. d ustawy Prawo oświatowe są ocenami opisowymi.
+- **2)** ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawności sprzężone, uczęszczającego do szkoły, o której mowa w art. 18 ust. 1 pkt 2 lit. d ustawy – Prawo oświatowe – są ocenami opisowymi.
 
-**Art. 44j.** Laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim oraz laureat lub finalista ogólnopolskiej olimpiady przedmiotowej, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, a także laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy Prawo oświatowe, otrzymuje z danych zajęć edukacyjnych z zakresu kształcenia ogólnego najwyższą pozytywną roczną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zb. Uczeń, który tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytuł laureata konkursu dla uczniów szkół i placówek artystycznych uzyskał po ustaleniu rocznej oceny klasyfikacyjnej z zajęć edukacyjnych, otrzymuje z tych zajęć edukacyjnych najwyższą pozytywną końcową ocenę klasyfikacyjną.
+**Art. 44j.** Laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim oraz laureat lub finalista ogólnopolskiej olimpiady przedmiotowej, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, a także laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, otrzymuje z danych zajęć edukacyjnych z zakresu kształcenia ogólnego najwyższą pozytywną roczną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zb. Uczeń, który tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytuł laureata konkursu dla uczniów szkół i placówek artystycznych uzyskał po ustaleniu rocznej oceny klasyfikacyjnej z zajęć edukacyjnych, otrzymuje z tych zajęć edukacyjnych najwyższą pozytywną końcową ocenę klasyfikacyjną.
 
 **Art. 44k.**
 
@@ -1875,7 +1797,7 @@ Art. 97–103. (pominięte)
 
 **Art. 44l.**
 
-1. Egzamin klasyfikacyjny, o którym mowa w art. 44k ust. 2 i 3, a także w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły.
+1. Egzamin klasyfikacyjny, o którym mowa w art. 44k ust. 2 i 3, a także w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy – Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły.
 
 2. Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia rocznych zajęć dydaktyczno-wychowawczych. Termin egzaminu klasyfikacyjnego uzgadnia się z uczniem i jego rodzicami.
 
@@ -1890,7 +1812,7 @@ Art. 97–103. (pominięte)
 1. Począwszy od klasy IV szkoły podstawowej, uczeń, który w wyniku klasyfikacji rocznej otrzymał negatywną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zb, z:
 
 - **1)** jednych albo dwóch obowiązkowych zajęć edukacyjnych, albo
-- **2)** jednych obowiązkowych zajęć edukacyjnych lub zajęć z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego może przystąpić do egzaminu poprawkowego z tych zajęć.
+- **2)** jednych obowiązkowych zajęć edukacyjnych lub zajęć z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego – może przystąpić do egzaminu poprawkowego z tych zajęć.
 
 2. Egzamin poprawkowy przeprowadza komisja powołana przez dyrektora szkoły.
 
@@ -1912,8 +1834,8 @@ Art. 97–103. (pominięte)
 
 4. W przypadku stwierdzenia, że roczna ocena klasyfikacyjna z zajęć edukacyjnych lub roczna ocena klasyfikacyjna zachowania zostały ustalone niezgodnie z przepisami dotyczącymi trybu ustalania tych ocen, dyrektor szkoły powołuje komisję, która:
 
-- **1)** w przypadku rocznej oceny klasyfikacyjnej z zajęć edukacyjnych przeprowadza sprawdzian wiadomości i umiejętności ucznia oraz ustala roczną ocenę klasyfikacyjną z danych zajęć edukacyjnych;
-- **2)** w przypadku rocznej oceny klasyfikacyjnej zachowania ustala roczną ocenę klasyfikacyjną zachowania.
+- **1)** w przypadku rocznej oceny klasyfikacyjnej z zajęć edukacyjnych – przeprowadza sprawdzian wiadomości i umiejętności ucznia oraz ustala roczną ocenę klasyfikacyjną z danych zajęć edukacyjnych;
+- **2)** w przypadku rocznej oceny klasyfikacyjnej zachowania – ustala roczną ocenę klasyfikacyjną zachowania.
 
 5. Ustalona przez komisję, o której mowa w ust. 4, roczna ocena klasyfikacyjna z zajęć edukacyjnych oraz roczna ocena klasyfikacyjna zachowania nie może być niższa od ustalonej wcześniej oceny. Ocena ustalona przez komisję jest ostateczna, z wyjątkiem negatywnej rocznej oceny klasyfikacyjnej, o której mowa w przepisach wydanych na podstawie art. 44zb, z zajęć edukacyjnych, która może być zmieniona w wyniku egzaminu poprawkowego, z zastrzeżeniem art. 44m ust. 1.
 
@@ -1932,11 +1854,11 @@ Art. 97–103. (pominięte)
 4. Począwszy od klasy IV szkoły podstawowej, uczeń otrzymuje promocję do klasy programowo wyższej, jeżeli:
 
 - **1)** ze wszystkich obowiązkowych zajęć edukacyjnych oraz zajęć z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego otrzymał roczne pozytywne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb, z zastrzeżeniem art. 44m ust. 6;
-- **2)** w przypadku technikum przystąpił ponadto do egzaminu zawodowego, jeżeli egzamin ten był przeprowadzany w danej klasie, z zastrzeżeniem ust. 4a i 8 oraz art. 44zzzga i art. 44zzzgb.
+- **2)** w przypadku technikum – przystąpił ponadto do egzaminu zawodowego, jeżeli egzamin ten był przeprowadzany w danej klasie, z zastrzeżeniem ust. 4a i 8 oraz art. 44zzzga i art. 44zzzgb.
 
 4a. Warunek, o którym mowa w ust. 4 pkt 2, nie dotyczy ucznia, który posiada certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie, w którym kształci się, odpowiadającej kwalifikacji, z zakresu której jest przeprowadzany egzamin zawodowy w danej klasie.
 
-5. O promowaniu do klasy programowo wyższej ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym postanawia rada pedagogiczna, uwzględniając ustalenia zawarte w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy Prawo oświatowe.
+5. O promowaniu do klasy programowo wyższej ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym postanawia rada pedagogiczna, uwzględniając ustalenia zawarte w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy – Prawo oświatowe.
 
 6. Uczeń szkoły podstawowej, w tym szkoły podstawowej w okręgowym ośrodku wychowawczym, zakładzie poprawczym lub schronisku dla nieletnich, który posiada orzeczenie o potrzebie kształcenia specjalnego i ma opóźnienie w realizacji programu nauczania co najmniej jednej klasy, a który w szkole podstawowej uzyskuje ze wszystkich obowiązkowych zajęć edukacyjnych oraz zajęć z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego oceny uznane za pozytywne w ramach wewnątrzszkolnego oceniania oraz rokuje opanowanie w jednym roku szkolnym treści nauczania przewidzianych w programie nauczania dwóch klas, może być promowany do klasy programowo wyższej również w ciągu roku szkolnego.
 
@@ -1953,22 +1875,27 @@ Art. 97–103. (pominięte)
 1. Uczeń kończy szkołę podstawową lub szkołę ponadpodstawową, jeżeli:
 
 - **1)** w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych oraz zajęć z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb;
-- **2)** w przypadku szkoły podstawowej przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2;
-- **3)** w przypadku technikum przystąpił ponadto do egzaminu zawodowego ze wszystkich kwalifikacji wyodrębnionych w zawodzie, z zastrzeżeniem art. 44zzzga i art. 44zzzgb;
-- **4)** w przypadku branżowej szkoły I stopnia przystąpił ponadto do: o rzemiośle (Dz. U. z 2020 r. poz. 2159) w przypadku ucznia będącego młodocianym pracownikiem zatrudnionym w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem.
-    - **a)** egzaminu zawodowego w przypadku ucznia, o którym mowa w art. 44zzzb ust. 3 pkt 1,
-    - **b)** egzaminu czeladniczego zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r.
+- **2)** w przypadku szkoły podstawowej – przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2;
+- **3)** w przypadku technikum – przystąpił ponadto do egzaminu zawodowego ze wszystkich kwalifikacji wyodrębnionych w zawodzie, z zastrzeżeniem art. 44zzzga i art. 44zzzgb;
+- **4)** w przypadku branżowej szkoły I stopnia – przystąpił ponadto do: poz. 2159) – w przypadku ucznia będącego młodocianym pracownikiem zatrudnionym w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem.
+    - **a)** egzaminu zawodowego – w przypadku ucznia, o którym mowa w art. 44zzzb ust. 3 pkt 1,
+    - **b)** egzaminu czeladniczego zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r.
 
-2. O ukończeniu szkoły przez ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym postanawia rada pedagogiczna, uwzględniając ustalenia zawarte w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy Prawo oświatowe.
+1a. Uczeń, o którym mowa w art. 165 ust. 1 ustawy – Prawo oświatowe, kończy szkołę podstawową, jeżeli:
+
+- **1)** w wyniku klasyfikacji końcowej, na którą składają się roczne oceny klasyfikacyjne z obowiązkowych zajęć edukacyjnych, ustalone w klasie programowo najwyższej oraz roczne oceny klasyfikacyjne z obowiązkowych zajęć edukacyjnych, których realizacja zakończyła się w klasach programowo niższych, które ten uczeń realizował w czasie nauki w Polsce, uzyskał pozytywne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb;
+- **2)** przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
+
+2. O ukończeniu szkoły przez ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym postanawia rada pedagogiczna, uwzględniając ustalenia zawarte w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy – Prawo oświatowe.
 
 3. Uczeń szkoły podstawowej, który nie spełnił warunków, o których mowa w ust. 1, powtarza ostatnią klasę szkoły podstawowej i przystępuje w roku szkolnym, w którym powtarza tę klasę, do egzaminu ósmoklasisty.
 
-3a. (uchylony)
+3a. (uchylony) 3b. Uczeń, o którym mowa w art. 165 ust. 1 ustawy – Prawo oświatowe, który nie spełnił warunków, o których mowa w ust. 1a, powtarza ostatnią klasę szkoły podstawowej i przystępuje w roku szkolnym, w którym powtarza tę klasę, do egzaminu ósmoklasisty.
 
 4. Uczeń:
 
 - **1)** liceum ogólnokształcącego i szkoły specjalnej przysposabiającej do pracy, który nie spełnił warunku, o którym mowa w ust. 1 pkt 1,
-- **2)** technikum i branżowej szkoły I stopnia, który nie spełnił warunku, o którym mowa w ust. 1 pkt 1, 3 lub 4 powtarza ostatnią klasę tej szkoły.
+- **2)** technikum i branżowej szkoły I stopnia, który nie spełnił warunku, o którym mowa w ust. 1 pkt 1, 3 lub 4 – powtarza ostatnią klasę tej szkoły.
 
 **Art. 44r.** Ocenianie, klasyfikowanie i promowanie słuchaczy w szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej odbywa się zgodnie z zasadami określonymi w art. 44s–44za oraz przepisami wydanymi na podstawie art. 44zb.
 
@@ -1980,9 +1907,9 @@ Art. 97–103. (pominięte)
 
 - **1)** formułowanie przez nauczycieli wymagań edukacyjnych niezbędnych do otrzymania przez słuchacza poszczególnych semestralnych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3;
 - **2)** ustalanie bieżących i semestralnych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3;
-- **3)** przeprowadzanie egzaminów klasyfikacyjnych, o których mowa w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy Prawo oświatowe;
+- **3)** przeprowadzanie egzaminów klasyfikacyjnych, o których mowa w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy – Prawo oświatowe;
 - **4)** (uchylony)
-- **5)** w przypadku niepełnoletnich słuchaczy ustalanie warunków i sposobu przekazywania rodzicom informacji o postępach i trudnościach w nauce oraz o szczególnych uzdolnieniach słuchacza.
+- **5)** w przypadku niepełnoletnich słuchaczy – ustalanie warunków i sposobu przekazywania rodzicom informacji o postępach i trudnościach w nauce oraz o szczególnych uzdolnieniach słuchacza.
 
 2. Nauczyciele na początku każdego semestru informują słuchaczy o:
 
@@ -2003,19 +1930,19 @@ Art. 97–103. (pominięte)
     - **a)** semestralne,
     - **b)** końcowe.
 
-2. W szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej oceny są jawne dla słuchacza, a w przypadku niepełnoletniego słuchacza również dla jego rodziców.
+2. W szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej oceny są jawne dla słuchacza, a w przypadku niepełnoletniego słuchacza – również dla jego rodziców.
 
 3. Nauczyciel uzasadnia ustaloną ocenę w sposób określony w statucie szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej.
 
-4. Sprawdzone i ocenione pisemne prace słuchacza są udostępniane słuchaczowi, a w przypadku niepełnoletniego słuchacza również jego rodzicom.
+4. Sprawdzone i ocenione pisemne prace słuchacza są udostępniane słuchaczowi, a w przypadku niepełnoletniego słuchacza – również jego rodzicom.
 
-5. Na wniosek słuchacza, a w przypadku niepełnoletniego słuchacza na wniosek słuchacza lub jego rodziców, dokumentacja dotycząca:
+5. Na wniosek słuchacza, a w przypadku niepełnoletniego słuchacza – na wniosek słuchacza lub jego rodziców, dokumentacja dotycząca:
 
-- **1)** egzaminu klasyfikacyjnego, o którym mowa w art. 164 ust. 3 i 4 ustawy Prawo oświatowe,
+- **1)** egzaminu klasyfikacyjnego, o którym mowa w art. 164 ust. 3 i 4 ustawy – Prawo oświatowe,
 - **2)** egzaminu semestralnego, o którym mowa w art. 44w ust. 1,
 - **3)** egzaminu poprawkowego, o którym mowa w art. 44y ust. 1,
 - **4)** zastrzeżeń, o których mowa w art. 44ya,
-- **5)** oceniania słuchacza, inna niż wymieniona w pkt 1–4 jest udostępniana do wglądu odpowiednio temu słuchaczowi lub jego rodzicom.
+- **5)** oceniania słuchacza, inna niż wymieniona w pkt 1–4 – jest udostępniana do wglądu odpowiednio temu słuchaczowi lub jego rodzicom.
 
 6. Sposób udostępniania dokumentacji, o której mowa w ust. 4 i 5, określa statut szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej.
 
@@ -2043,13 +1970,13 @@ Art. 97–103. (pominięte)
 
 3. Egzamin semestralny przeprowadza się w terminie określonym w statucie szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej. Nauczyciele prowadzący poszczególne obowiązkowe zajęcia edukacyjne na początku każdego semestru informują słuchaczy o terminach egzaminów semestralnych.
 
-4. Na miesiąc przed terminem egzaminu semestralnego nauczyciele prowadzący poszczególne obowiązkowe zajęcia edukacyjne informują słuchacza, a w przypadku niepełnoletniego słuchacza również jego rodziców, czy spełnia warunki dopuszczenia do egzaminu semestralnego, o których mowa w ust. 2, w formie określonej w statucie szkoły.
+4. Na miesiąc przed terminem egzaminu semestralnego nauczyciele prowadzący poszczególne obowiązkowe zajęcia edukacyjne informują słuchacza, a w przypadku niepełnoletniego słuchacza – również jego rodziców, czy spełnia warunki dopuszczenia do egzaminu semestralnego, o których mowa w ust. 2, w formie określonej w statucie szkoły.
 
 5. Słuchacz, który z przyczyn losowych lub zdrowotnych nie przystąpił do egzaminu semestralnego w terminie, o którym mowa w ust. 3, zdaje ten egzamin w terminie dodatkowym, wyznaczonym przez dyrektora szkoły.
 
-6. Ustalona w wyniku egzaminu semestralnego semestralna ocena klasyfikacyjna z obowiązkowych zajęć edukacyjnych jest ostateczna, z zastrzeżeniem art. 44y i art. 44ya. Art. 44wa. 1. Egzamin klasyfikacyjny, o którym mowa w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej.
+6. Ustalona w wyniku egzaminu semestralnego semestralna ocena klasyfikacyjna z obowiązkowych zajęć edukacyjnych jest ostateczna, z zastrzeżeniem art. 44y i art. 44ya. Art. 44wa. 1. Egzamin klasyfikacyjny, o którym mowa w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy – Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej.
 
-2. Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia semestralnych zajęć dydaktycznych. Termin egzaminu klasyfikacyjnego uzgadnia się ze słuchaczem, a w przypadku niepełnoletniego słuchacza również z jego rodzicami.
+2. Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia semestralnych zajęć dydaktycznych. Termin egzaminu klasyfikacyjnego uzgadnia się ze słuchaczem, a w przypadku niepełnoletniego słuchacza – również z jego rodzicami.
 
 3. Słuchacz, który z przyczyn usprawiedliwionych nie przystąpił do egzaminu klasyfikacyjnego w terminie ustalonym zgodnie z ust. 2, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej.
 
@@ -2067,7 +1994,7 @@ Art. 97–103. (pominięte)
 
 3. Semestralna ocena klasyfikacyjna z obowiązkowych zajęć edukacyjnych ustalona w wyniku egzaminu poprawkowego jest ostateczna, z zastrzeżeniem art. 44ya ust. 6.
 
-4. Słuchacz, który nie zdał egzaminu poprawkowego, nie otrzymuje promocji na semestr programowo wyższy. Art. 44ya. 1. Słuchacz, a w przypadku niepełnoletniego słuchacza również jego rodzice, mogą zgłosić zastrzeżenia do dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej, jeżeli uznają, że semestralna ocena klasyfikacyjna z zajęć edukacyjnych została ustalona niezgodnie z przepisami dotyczącymi trybu ustalania tej oceny.
+4. Słuchacz, który nie zdał egzaminu poprawkowego, nie otrzymuje promocji na semestr programowo wyższy. Art. 44ya. 1. Słuchacz, a w przypadku niepełnoletniego słuchacza – również jego rodzice, mogą zgłosić zastrzeżenia do dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej, jeżeli uznają, że semestralna ocena klasyfikacyjna z zajęć edukacyjnych została ustalona niezgodnie z przepisami dotyczącymi trybu ustalania tej oceny.
 
 2. Zastrzeżenia, o których mowa w ust. 1, zgłasza się od dnia ustalenia semestralnej oceny klasyfikacyjnej z zajęć edukacyjnych, nie później jednak niż w terminie 2 dni roboczych od dnia zakończenia semestralnych zajęć dydaktycznych.
 
@@ -2075,7 +2002,7 @@ Art. 97–103. (pominięte)
 
 4. Ustalona przez komisję, o której mowa w ust. 3, semestralna ocena klasyfikacyjna z zajęć edukacyjnych nie może być niższa od ustalonej wcześniej oceny. Ocena ustalona przez komisję jest ostateczna, z wyjątkiem negatywnej semestralnej oceny klasyfikacyjnej, o której mowa w przepisach wydanych na podstawie art. 44zb, z zajęć edukacyjnych, która może być zmieniona w wyniku egzaminu poprawkowego, z zastrzeżeniem art. 44y ust. 1.
 
-5. Słuchacz, który z przyczyn usprawiedliwionych nie przystąpił do sprawdzianu, o którym mowa w ust. 3, w wyznaczonym terminie, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej w uzgodnieniu ze słuchaczem, a w przypadku niepełnoletniego słuchacza również z jego rodzicami.
+5. Słuchacz, który z przyczyn usprawiedliwionych nie przystąpił do sprawdzianu, o którym mowa w ust. 3, w wyznaczonym terminie, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej w uzgodnieniu ze słuchaczem, a w przypadku niepełnoletniego słuchacza – również z jego rodzicami.
 
 6. Przepisy ust. 1–5 stosuje się odpowiednio w przypadku semestralnej oceny klasyfikacyjnej z zajęć edukacyjnych ustalonej w wyniku egzaminu poprawkowego, z tym że termin do zgłoszenia zastrzeżeń wynosi 5 dni roboczych od dnia przeprowadzenia egzaminu poprawkowego. W tym przypadku ocena ustalona przez komisję, o której mowa w ust. 3, jest ostateczna.
 
@@ -2084,7 +2011,7 @@ Art. 97–103. (pominięte)
 1. W szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej, słuchacz otrzymuje promocję na semestr programowo wyższy, jeżeli:
 
 - **1)** ze wszystkich obowiązkowych zajęć edukacyjnych otrzymał pozytywne semestralne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb;
-- **2)** w przypadku branżowej szkoły II stopnia i szkoły policealnej przystąpił ponadto do egzaminu zawodowego, jeżeli egzamin ten był przeprowadzany w danym semestrze, z zastrzeżeniem ust. 1a, art. 44zzzga i art. 44zzzgb.
+- **2)** w przypadku branżowej szkoły II stopnia i szkoły policealnej – przystąpił ponadto do egzaminu zawodowego, jeżeli egzamin ten był przeprowadzany w danym semestrze, z zastrzeżeniem ust. 1a, art. 44zzzga i art. 44zzzgb.
 
 1a. Warunek, o którym mowa w ust. 1 pkt 2, nie dotyczy słuchacza, który posiada certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie, w którym kształci się, odpowiadającej kwalifikacji, z zakresu której jest przeprowadzany egzamin zawodowy w danym semestrze.
 
@@ -2097,7 +2024,7 @@ Art. 97–103. (pominięte)
 5. Niepełnoletni słuchacz, który nie otrzymał promocji na semestr programowo wyższy, powtarza ten semestr. Art. 44za. 1. Słuchacz kończy szkołę dla dorosłych, jeżeli:
 
 - **1)** w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb;
-- **2)** w przypadku szkoły podstawowej dla dorosłych przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
+- **2)** w przypadku szkoły podstawowej dla dorosłych – przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
 
 2. Niepełnoletni słuchacz szkoły podstawowej dla dorosłych, który nie spełnił warunków, o których mowa w ust. 1, powtarza ostatni semestr i przystępuje w roku szkolnym, w którym powtarza semestr, do egzaminu ósmoklasisty.
 
@@ -2113,7 +2040,7 @@ Art. 97–103. (pominięte)
 - **3)** (uchylony)
 - **4)** skalę rocznych, semestralnych i końcowych ocen klasyfikacyjnych z zajęć edukacyjnych wraz ze wskazaniem, które z ocen według tej skali uznaje się za oceny pozytywne, a które za negatywne, oraz podstawowe obszary, które bierze się pod uwagę przy ocenianiu zachowania ucznia, skalę rocznej i końcowej oceny klasyfikacyjnej zachowania, z uwzględnieniem konieczności zapewnienia jednolitego systemu oceniania ucznia;
 - **5)** funkcje oceniania bieżącego ucznia, z uwzględnieniem konieczności przekazywania uczniowi informacji o jego osiągnięciach edukacyjnych pomagających w uczeniu się;
-- **6)** warunki, tryb i formę przeprowadzania egzaminu klasyfikacyjnego, a w przypadku ucznia, o którym mowa w art. 37 ust. 1 ustawy Prawo oświatowe także rodzaje zajęć edukacyjnych, z których nie przeprowadza się egzaminu klasyfikacyjnego, skład komisji powołanej do przeprowadzenia egzaminu klasyfikacyjnego, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzenia tego egzaminu oraz odpowiedniego udokumentowania jego przebiegu;
+- **6)** warunki, tryb i formę przeprowadzania egzaminu klasyfikacyjnego, a w przypadku ucznia, o którym mowa w art. 37 ust. 1 ustawy – Prawo oświatowe – także rodzaje zajęć edukacyjnych, z których nie przeprowadza się egzaminu klasyfikacyjnego, skład komisji powołanej do przeprowadzenia egzaminu klasyfikacyjnego, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzenia tego egzaminu oraz odpowiedniego udokumentowania jego przebiegu;
 - **7)** tryb i formę przeprowadzania egzaminu poprawkowego, skład komisji powołanej do przeprowadzenia egzaminu poprawkowego, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzenia tego egzaminu oraz odpowiedniego udokumentowania jego przebiegu;
 - **8)** tryb i formę przeprowadzania sprawdzianu wiadomości i umiejętności ucznia, o którym mowa w art. 44n ust. 4 pkt 1 lub art. 44ya ust. 3, oraz ustalania rocznej oceny klasyfikacyjnej zachowania, o której mowa w art. 44n ust. 4 pkt 2, skład komisji, o których mowa w art. 44n ust. 4 lub art. 44ya ust. 3, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzania tego sprawdzianu lub prawidłowości ustalania rocznej oceny klasyfikacyjnej zachowania oraz odpowiedniego udokumentowania pracy komisji;
 - **9)** warunki promocji ucznia do klasy programowo wyższej lub ukończenia szkoły z wyróżnieniem, z uwzględnieniem rocznych ocen klasyfikacyjnych z zajęć edukacyjnych, które wlicza się do średniej ocen, oraz rocznej oceny klasyfikacyjnej zachowania;
@@ -2127,7 +2054,7 @@ Art. 97–103. (pominięte)
 3. Ocenianie osiągnięć edukacyjnych ucznia polega na rozpoznawaniu przez nauczycieli poziomu i postępów w opanowaniu przez ucznia wiadomości i umiejętności w stosunku do:
 
 - **1)** efektów kształcenia określonych w podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego oraz wymagań edukacyjnych wynikających z realizowanych w szkole artystycznej programów nauczania;
-- **2)** w przypadku szkoły artystycznej realizującej kształcenie ogólne także wymagań określonych w podstawie programowej kształcenia ogólnego oraz wymagań edukacyjnych wynikających z realizowanych w szkole artystycznej programów nauczania.
+- **2)** w przypadku szkoły artystycznej realizującej kształcenie ogólne – także wymagań określonych w podstawie programowej kształcenia ogólnego oraz wymagań edukacyjnych wynikających z realizowanych w szkole artystycznej programów nauczania.
 
 4. Ocenianie zachowania ucznia polega na rozpoznawaniu przez wychowawcę oddziału, nauczycieli oraz uczniów danego oddziału stopnia respektowania przez ucznia zasad współżycia społecznego i norm etycznych oraz obowiązków określonych w statucie szkoły artystycznej.
 
@@ -2142,21 +2069,21 @@ Art. 97–103. (pominięte)
 
 5b. Ocenianie wewnątrzszkolne obejmuje:
 
-- **1)** formułowanie przez nauczycieli wymagań edukacyjnych niezbędnych do otrzymania przez ucznia poszczególnych śródrocznych i rocznych, a w artystycznej szkole policealnej semestralnych, ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3;
+- **1)** formułowanie przez nauczycieli wymagań edukacyjnych niezbędnych do otrzymania przez ucznia poszczególnych śródrocznych i rocznych, a w artystycznej szkole policealnej – semestralnych, ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3;
 - **2)** ustalanie kryteriów oceniania zachowania;
 - **3)** ustalanie ocen bieżących i śródrocznych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, a także śródrocznej oceny klasyfikacyjnej zachowania;
-- **4)** przeprowadzanie egzaminów klasyfikacyjnych, o których mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy Prawo oświatowe;
-- **5)** ustalanie rocznych, a w artystycznej szkole policealnej semestralnych, ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, oraz rocznej oceny klasyfikacyjnej zachowania;
-- **6)** ustalanie warunków i trybu otrzymania wyższych niż przewidywane rocznych, a w artystycznej szkole policealnej semestralnych, ocen klasyfikacyjnych z zajęć edukacyjnych oraz rocznej oceny klasyfikacyjnej zachowania;
+- **4)** przeprowadzanie egzaminów klasyfikacyjnych, o których mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy – Prawo oświatowe;
+- **5)** ustalanie rocznych, a w artystycznej szkole policealnej – semestralnych, ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, oraz rocznej oceny klasyfikacyjnej zachowania;
+- **6)** ustalanie warunków i trybu otrzymania wyższych niż przewidywane rocznych, a w artystycznej szkole policealnej – semestralnych, ocen klasyfikacyjnych z zajęć edukacyjnych oraz rocznej oceny klasyfikacyjnej zachowania;
 - **7)** ustalanie warunków i sposobu przekazywania rodzicom informacji o postępach i trudnościach w nauce i zachowaniu ucznia oraz o szczególnych uzdolnieniach ucznia.
 
 5c. Ocenianie ucznia z religii i etyki odbywa się zgodnie z przepisami wydanymi na podstawie art. 12 ust. 2.
 
-6. Nauczyciele na początku każdego roku szkolnego informują uczniów oraz ich rodziców, a w artystycznej szkole policealnej uczniów, o:
+6. Nauczyciele na początku każdego roku szkolnego informują uczniów oraz ich rodziców, a w artystycznej szkole policealnej – uczniów, o:
 
-- **1)** wymaganiach edukacyjnych niezbędnych do otrzymania przez ucznia poszczególnych śródrocznych i rocznych, a w artystycznej szkole policealnej semestralnych, ocen klasyfikacyjnych z zajęć edukacyjnych, wynikających z realizowanego przez siebie programu nauczania;
+- **1)** wymaganiach edukacyjnych niezbędnych do otrzymania przez ucznia poszczególnych śródrocznych i rocznych, a w artystycznej szkole policealnej – semestralnych, ocen klasyfikacyjnych z zajęć edukacyjnych, wynikających z realizowanego przez siebie programu nauczania;
 - **2)** sposobach sprawdzania osiągnięć edukacyjnych uczniów;
-- **3)** warunkach i trybie otrzymania wyższej niż przewidywana rocznej, a w artystycznej szkole policealnej semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych, z wyjątkiem zajęć edukacyjnych, z których odpowiednio roczna lub semestralna ocena klasyfikacyjna jest ustalana w trybie egzaminu promocyjnego lub końcowego.
+- **3)** warunkach i trybie otrzymania wyższej niż przewidywana rocznej, a w artystycznej szkole policealnej – semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych, z wyjątkiem zajęć edukacyjnych, z których odpowiednio roczna lub semestralna ocena klasyfikacyjna jest ustalana w trybie egzaminu promocyjnego lub końcowego.
 
 7. Wychowawca oddziału szkoły artystycznej realizującej kształcenie ogólne na początku każdego roku szkolnego informuje uczniów oraz ich rodziców o:
 
@@ -2164,7 +2091,7 @@ Art. 97–103. (pominięte)
 - **2)** warunkach i trybie otrzymania wyższej niż przewidywana rocznej oceny klasyfikacyjnej zachowania;
 - **3)** konsekwencjach otrzymania negatywnej rocznej oceny klasyfikacyjnej z obowiązkowych zajęć edukacyjnych artystycznych.
 
-8. Na początku każdego roku szkolnego dyrektor szkoły artystycznej realizującej wyłącznie kształcenie artystyczne informuje uczniów oraz ich rodziców, a w artystycznej szkole policealnej uczniów, o konsekwencjach otrzymania negatywnej rocznej oceny klasyfikacyjnej z obowiązkowych zajęć edukacyjnych artystycznych.
+8. Na początku każdego roku szkolnego dyrektor szkoły artystycznej realizującej wyłącznie kształcenie artystyczne informuje uczniów oraz ich rodziców, a w artystycznej szkole policealnej – uczniów, o konsekwencjach otrzymania negatywnej rocznej oceny klasyfikacyjnej z obowiązkowych zajęć edukacyjnych artystycznych.
 
 9. Szczegółowe warunki i sposób oceniania wewnątrzszkolnego określa statut szkoły artystycznej.
 
@@ -2174,7 +2101,7 @@ Art. 97–103. (pominięte)
 
 - **1)** bieżące;
 - **2)** klasyfikacyjne:
-    - **a)** śródroczne i roczne, a w artystycznej szkole policealnej semestralne,
+    - **a)** śródroczne i roczne, a w artystycznej szkole policealnej – semestralne,
     - **b)** końcowe.
 
 2. Oceny są jawne dla ucznia i jego rodziców. W artystycznej szkole policealnej oceny są jawne dla ucznia.
@@ -2185,21 +2112,21 @@ Art. 97–103. (pominięte)
 
 5. Na wniosek ucznia lub jego rodziców dokumentacja dotycząca:
 
-- **1)** egzaminu klasyfikacyjnego, o którym mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy Prawo oświatowe,
+- **1)** egzaminu klasyfikacyjnego, o którym mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy – Prawo oświatowe,
 - **2)** egzaminu poprawkowego, o którym mowa w art. 44zk ust. 1,
 - **3)** zastrzeżeń, o których mowa w art. 44zla,
-- **4)** oceniania ucznia, inna niż wymieniona w pkt 1–3 jest udostępniana do wglądu uczniowi lub jego rodzicom.
+- **4)** oceniania ucznia, inna niż wymieniona w pkt 1–3 – jest udostępniana do wglądu uczniowi lub jego rodzicom.
 
 6. W artystycznej szkole policealnej dokumentacja, o której mowa w ust. 5, jest udostępniana uczniowi do wglądu na jego wniosek.
 
 7. Sposób udostępniania dokumentacji, o której mowa w ust. 4 i 5, określa statut szkoły artystycznej. Art. 44ze. 1. Uczeń szkoły artystycznej podlega klasyfikacji:
 
-- **1)** śródrocznej i rocznej, a w artystycznej szkole policealnej semestralnej;
+- **1)** śródrocznej i rocznej, a w artystycznej szkole policealnej – semestralnej;
 - **2)** końcowej.
 
-2. Klasyfikacja śródroczna polega na okresowym podsumowaniu osiągnięć edukacyjnych ucznia z zajęć edukacyjnych, a w szkole artystycznej realizującej kształcenie ogólne również zachowania ucznia, oraz ustaleniu odpowiednio śródrocznych ocen klasyfikacyjnych z zajęć edukacyjnych i śródrocznej oceny klasyfikacyjnej zachowania. Klasyfikację śródroczną przeprowadza się co najmniej raz w ciągu roku szkolnego, w terminie określonym w statucie szkoły artystycznej.
+2. Klasyfikacja śródroczna polega na okresowym podsumowaniu osiągnięć edukacyjnych ucznia z zajęć edukacyjnych, a w szkole artystycznej realizującej kształcenie ogólne – również zachowania ucznia, oraz ustaleniu odpowiednio śródrocznych ocen klasyfikacyjnych z zajęć edukacyjnych i śródrocznej oceny klasyfikacyjnej zachowania. Klasyfikację śródroczną przeprowadza się co najmniej raz w ciągu roku szkolnego, w terminie określonym w statucie szkoły artystycznej.
 
-3. Klasyfikacja roczna polega na podsumowaniu osiągnięć edukacyjnych ucznia z zajęć edukacyjnych, a w szkole artystycznej realizującej kształcenie ogólne również zachowania ucznia, w danym roku szkolnym oraz ustaleniu odpowiednio rocznych ocen klasyfikacyjnych z zajęć edukacyjnych i rocznej oceny klasyfikacyjnej zachowania, z tym że w przypadku szkoły artystycznej realizującej kształcenie ogólne w zakresie klas I–III szkoły podstawowej w przypadku:
+3. Klasyfikacja roczna polega na podsumowaniu osiągnięć edukacyjnych ucznia z zajęć edukacyjnych, a w szkole artystycznej realizującej kształcenie ogólne – również zachowania ucznia, w danym roku szkolnym oraz ustaleniu odpowiednio rocznych ocen klasyfikacyjnych z zajęć edukacyjnych i rocznej oceny klasyfikacyjnej zachowania, z tym że w przypadku szkoły artystycznej realizującej kształcenie ogólne w zakresie klas I–III szkoły podstawowej w przypadku:
 
 - **1)** obowiązkowych zajęć edukacyjnych ogólnokształcących ustala się jedną roczną ocenę klasyfikacyjną z tych zajęć;
 - **2)** dodatkowych zajęć edukacyjnych ogólnokształcących ustala się jedną roczną ocenę klasyfikacyjną z tych zajęć;
@@ -2209,11 +2136,11 @@ Art. 97–103. (pominięte)
 
 5. Na klasyfikację końcową składają się:
 
-- **1)** roczne, a w artystycznej szkole policealnej semestralne, oceny klasyfikacyjne z zajęć edukacyjnych, ustalone odpowiednio w klasie programowo najwyższej lub semestrze programowo najwyższym oraz
-- **2)** roczne, a w artystycznej szkole policealnej semestralne, oceny klasyfikacyjne z zajęć edukacyjnych, których realizacja zakończyła się odpowiednio w klasach programowo niższych lub semestrach programowo niższych w szkole artystycznej danego typu, oraz
-- **3)** roczna ocena klasyfikacyjna zachowania ustalona w klasie programowo najwyższej w przypadku szkoły artystycznej realizującej kształcenie ogólne.
+- **1)** roczne, a w artystycznej szkole policealnej – semestralne, oceny klasyfikacyjne z zajęć edukacyjnych, ustalone odpowiednio w klasie programowo najwyższej lub semestrze programowo najwyższym oraz
+- **2)** roczne, a w artystycznej szkole policealnej – semestralne, oceny klasyfikacyjne z zajęć edukacyjnych, których realizacja zakończyła się odpowiednio w klasach programowo niższych lub semestrach programowo niższych w szkole artystycznej danego typu, oraz
+- **3)** roczna ocena klasyfikacyjna zachowania ustalona w klasie programowo najwyższej – w przypadku szkoły artystycznej realizującej kształcenie ogólne.
 
-6. Klasyfikację końcową przeprowadza się w klasie programowo najwyższej szkoły artystycznej danego typu, a w artystycznej szkole policealnej semestrze programowo najwyższym.
+6. Klasyfikację końcową przeprowadza się w klasie programowo najwyższej szkoły artystycznej danego typu, a w artystycznej szkole policealnej – semestrze programowo najwyższym.
 
 7. Oceny klasyfikacyjne z zajęć edukacyjnych nie wpływają na ocenę klasyfikacyjną zachowania.
 
@@ -2222,7 +2149,7 @@ Art. 97–103. (pominięte)
 - **1)** oceny klasyfikacyjne z zajęć edukacyjnych;
 - **2)** promocję do klasy programowo wyższej lub ukończenie szkoły artystycznej. Art. 44zf. 1. Przed rocznym klasyfikacyjnym zebraniem rady pedagogicznej nauczyciele prowadzący poszczególne zajęcia edukacyjne oraz wychowawca oddziału informują ucznia i jego rodziców o przewidywanych dla niego rocznych ocenach klasyfikacyjnych z zajęć edukacyjnych i przewidywanej rocznej ocenie klasyfikacyjnej zachowania, w terminie i formie określonych w statucie szkoły artystycznej.
 
-2. W artystycznej szkole policealnej przed semestralnym klasyfikacyjnym zebraniem rady pedagogicznej nauczyciele prowadzący poszczególne zajęcia edukacyjne informują ucznia o przewidywanych dla niego semestralnych ocenach klasyfikacyjnych z zajęć edukacyjnych, w terminie i formie określonych w statucie szkoły artystycznej. Art. 44zg. 1. Śródroczne i roczne, a w artystycznej szkole policealnej semestralne, oceny klasyfikacyjne z zajęć edukacyjnych ustalają nauczyciele prowadzący poszczególne zajęcia, z wyjątkiem zajęć edukacyjnych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego.
+2. W artystycznej szkole policealnej przed semestralnym klasyfikacyjnym zebraniem rady pedagogicznej nauczyciele prowadzący poszczególne zajęcia edukacyjne informują ucznia o przewidywanych dla niego semestralnych ocenach klasyfikacyjnych z zajęć edukacyjnych, w terminie i formie określonych w statucie szkoły artystycznej. Art. 44zg. 1. Śródroczne i roczne, a w artystycznej szkole policealnej – semestralne, oceny klasyfikacyjne z zajęć edukacyjnych ustalają nauczyciele prowadzący poszczególne zajęcia, z wyjątkiem zajęć edukacyjnych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego.
 
 2. Roczna i końcowa ocena klasyfikacyjna z wybranych zajęć edukacyjnych artystycznych określonych w przepisach wydanych na podstawie art. 44zq jest ustalana odpowiednio w trybie egzaminu promocyjnego lub końcowego, który ma na celu sprawdzenie wiedzy i umiejętności ucznia w zakresie tych zajęć.
 
@@ -2256,72 +2183,77 @@ Art. 97–103. (pominięte)
 
 4. W klasach, o których mowa w ust. 3, oceny bieżące oraz śródroczne oceny klasyfikacyjne ze wszystkich albo wybranych obowiązkowych lub dodatkowych zajęć edukacyjnych ogólnokształcących oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, a także śródroczna ocena klasyfikacyjna zachowania mogą być ocenami opisowymi, jeżeli statut szkoły tak przewiduje.
 
-5. Końcowe i roczne, a w artystycznej szkole policealnej semestralne, oceny klasyfikacyjne z zajęć edukacyjnych oraz końcowa i roczna ocena klasyfikacyjna zachowania są wyrażane według skali określonej w przepisach wydanych na podstawie art. 44zq. Art. 44zh. 1. Laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy Prawo oświatowe, lub laureat przeglądu plastycznego, o którym mowa w art. 53 ust. 1b ustawy Prawo oświatowe, otrzymuje odpowiednio z danych zajęć edukacyjnych artystycznych najwyższą pozytywną roczną ocenę klasyfikacyjną, a w artystycznej szkole policealnej najwyższą pozytywną semestralną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. W przypadku zajęć edukacyjnych artystycznych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego, laureat jest jednocześnie zwolniony z tego egzaminu.
+5. Końcowe i roczne, a w artystycznej szkole policealnej – semestralne, oceny klasyfikacyjne z zajęć edukacyjnych oraz końcowa i roczna ocena klasyfikacyjna zachowania są wyrażane według skali określonej w przepisach wydanych na podstawie art. 44zq. Art. 44zh. 1. Laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, lub laureat przeglądu plastycznego, o którym mowa w art. 53 ust. 1b ustawy – Prawo oświatowe, otrzymuje odpowiednio z danych zajęć edukacyjnych artystycznych najwyższą pozytywną roczną ocenę klasyfikacyjną, a w artystycznej szkole policealnej – najwyższą pozytywną semestralną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. W przypadku zajęć edukacyjnych artystycznych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego, laureat jest jednocześnie zwolniony z tego egzaminu.
 
-2. Laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim oraz laureat lub finalista ogólnopolskiej olimpiady przedmiotowej, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, a także laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy Prawo oświatowe, otrzymuje z danych zajęć edukacyjnych z zakresu kształcenia ogólnego najwyższą pozytywną roczną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. Uczeń, który tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytuł laureata konkursu dla uczniów szkół i placówek artystycznych uzyskał po ustaleniu rocznej oceny klasyfikacyjnej z zajęć edukacyjnych, otrzymuje z tych zajęć edukacyjnych najwyższą pozytywną końcową ocenę klasyfikacyjną. Art. 44zi. 1. Dyrektor szkoły artystycznej zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych artystycznych ze względu na stan zdrowia, specyficzne trudności w uczeniu się lub niepełnosprawność, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq.
+2. Laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim oraz laureat lub finalista ogólnopolskiej olimpiady przedmiotowej, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, a także laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, otrzymuje z danych zajęć edukacyjnych z zakresu kształcenia ogólnego najwyższą pozytywną roczną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. Uczeń, który tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytuł laureata konkursu dla uczniów szkół i placówek artystycznych uzyskał po ustaleniu rocznej oceny klasyfikacyjnej z zajęć edukacyjnych, otrzymuje z tych zajęć edukacyjnych najwyższą pozytywną końcową ocenę klasyfikacyjną. Art. 44zi. 1. Dyrektor szkoły artystycznej zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych artystycznych ze względu na stan zdrowia, specyficzne trudności w uczeniu się lub niepełnosprawność, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq.
 
-2. Dyrektor szkoły artystycznej realizującej kształcenie ogólne zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych ogólnokształcących ze względu na stan zdrowia, specyficzne trudności w uczeniu się, niepełnosprawność, posiadane kwalifikacje lub zrealizowanie danych obowiązkowych zajęć edukacyjnych na wcześniejszym etapie edukacyjnym, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq. Art. 44zia. 1. Uczeń szkoły artystycznej może nie być klasyfikowany z jednego, kilku albo wszystkich zajęć edukacyjnych, jeżeli brak jest podstaw do ustalenia śródrocznej lub rocznej, a w artystycznej szkole policealnej semestralnej, oceny klasyfikacyjnej z powodu nieobecności ucznia na tych zajęciach przekraczającej połowę czasu przeznaczonego na te zajęcia odpowiednio w okresie lub semestrze, za który przeprowadzana jest klasyfikacja.
+2. Dyrektor szkoły artystycznej realizującej kształcenie ogólne zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych ogólnokształcących ze względu na stan zdrowia, specyficzne trudności w uczeniu się, niepełnosprawność, posiadane kwalifikacje lub zrealizowanie danych obowiązkowych zajęć edukacyjnych na wcześniejszym etapie edukacyjnym, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq. Art. 44zia. 1. Uczeń szkoły artystycznej może nie być klasyfikowany z jednego, kilku albo wszystkich zajęć edukacyjnych, jeżeli brak jest podstaw do ustalenia śródrocznej lub rocznej, a w artystycznej szkole policealnej – semestralnej, oceny klasyfikacyjnej z powodu nieobecności ucznia na tych zajęciach przekraczającej połowę czasu przeznaczonego na te zajęcia odpowiednio w okresie lub semestrze, za który przeprowadzana jest klasyfikacja.
 
 2. Uczeń nieklasyfikowany z powodu usprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny.
 
-3. Uczeń nieklasyfikowany z powodu nieusprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny za zgodą rady pedagogicznej. Art. 44zib. 1. Egzamin klasyfikacyjny, o którym mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły artystycznej.
+3. Uczeń nieklasyfikowany z powodu nieusprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny za zgodą rady pedagogicznej. Art. 44zib. 1. Egzamin klasyfikacyjny, o którym mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy – Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły artystycznej.
 
-2. Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia rocznych, a w artystycznej szkole policealnej semestralnych, zajęć dydaktyczno-wychowawczych. Termin egzaminu klasyfikacyjnego uzgadnia się z uczniem i jego rodzicami, a w artystycznej szkole policealnej z uczniem.
+2. Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia rocznych, a w artystycznej szkole policealnej – semestralnych, zajęć dydaktyczno-wychowawczych. Termin egzaminu klasyfikacyjnego uzgadnia się z uczniem i jego rodzicami, a w artystycznej szkole policealnej – z uczniem.
 
 3. Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do egzaminu klasyfikacyjnego w terminie ustalonym zgodnie z ust. 2, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły artystycznej.
 
-4. Ocena ustalona w wyniku egzaminu klasyfikacyjnego jest ostateczna, z zastrzeżeniem art. 44zk i art. 44zla. Art. 44zj. (uchylony) Art. 44zk. 1. Uczeń, który w wyniku klasyfikacji rocznej, a w artystycznej szkole policealnej semestralnej, otrzymał negatywną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq, z jednego albo dwóch obowiązkowych zajęć edukacyjnych, może przystąpić do egzaminu poprawkowego z tych zajęć.
+4. Ocena ustalona w wyniku egzaminu klasyfikacyjnego jest ostateczna, z zastrzeżeniem art. 44zk i art. 44zla. Art. 44zj. (uchylony) Art. 44zk. 1. Uczeń, który w wyniku klasyfikacji rocznej, a w artystycznej szkole policealnej – semestralnej, otrzymał negatywną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq, z jednego albo dwóch obowiązkowych zajęć edukacyjnych, może przystąpić do egzaminu poprawkowego z tych zajęć.
 
 2. Egzaminu poprawkowego nie przeprowadza się w przypadku uzyskania przez ucznia negatywnej oceny klasyfikacyjnej z zajęć edukacyjnych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego.
 
-3. Egzamin poprawkowy przeprowadza komisja, powołana przez dyrektora szkoły artystycznej, do końca danego roku szkolnego, a w artystycznej szkole policealnej do końca danego semestru.
+3. Egzamin poprawkowy przeprowadza komisja, powołana przez dyrektora szkoły artystycznej, do końca danego roku szkolnego, a w artystycznej szkole policealnej – do końca danego semestru.
 
-4. Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do egzaminu poprawkowego w wyznaczonym terminie, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły artystycznej nie później niż do końca września, a w artystycznej szkole policealnej, w której zajęcia dydaktyczno-wychowawcze kończą się w styczniu nie później niż do końca marca.
+4. Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do egzaminu poprawkowego w wyznaczonym terminie, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły artystycznej nie później niż do końca września, a w artystycznej szkole policealnej, w której zajęcia dydaktyczno-wychowawcze kończą się w styczniu – nie później niż do końca marca.
 
-5. Roczna, a w artystycznej szkole policealnej semestralna, ocena klasyfikacyjna ustalona w wyniku egzaminu poprawkowego jest ostateczna, z zastrzeżeniem art. 44zla ust. 7.
+5. Roczna, a w artystycznej szkole policealnej – semestralna, ocena klasyfikacyjna ustalona w wyniku egzaminu poprawkowego jest ostateczna, z zastrzeżeniem art. 44zla ust. 7.
 
-6. Uczeń, który nie zdał egzaminu poprawkowego, nie otrzymuje promocji do klasy programowo wyższej, a w artystycznej szkole policealnej na semestr programowo wyższy.
+6. Uczeń, który nie zdał egzaminu poprawkowego, nie otrzymuje promocji do klasy programowo wyższej, a w artystycznej szkole policealnej – na semestr programowo wyższy.
 
 7. Rada pedagogiczna szkoły artystycznej realizującej kształcenie ogólne, uwzględniając możliwości edukacyjne ucznia, może jeden raz w ciągu cyklu kształcenia w danym typie szkoły artystycznej promować do klasy programowo wyższej ucznia, który nie zdał egzaminu poprawkowego z jednych obowiązkowych zajęć edukacyjnych ogólnokształcących, pod warunkiem że te zajęcia są realizowane w klasie programowo wyższej.
 
-8. Uczeń, który nie otrzymał promocji do klasy programowo wyższej, a w artystycznej szkole policealnej na semestr programowo wyższy, podlega skreśleniu z listy uczniów, z zastrzeżeniem art. 68 ust. 3a ustawy Prawo oświatowe, chyba że rada pedagogiczna wyrazi zgodę na powtarzanie danej klasy, a w artystycznej szkole policealnej danego semestru, biorąc pod uwagę dotychczasowe osiągnięcia ucznia.
+8. Uczeń, który nie otrzymał promocji do klasy programowo wyższej, a w artystycznej szkole policealnej – na semestr programowo wyższy, podlega skreśleniu z listy uczniów, z zastrzeżeniem art. 68 ust. 3a ustawy – Prawo oświatowe, chyba że rada pedagogiczna wyrazi zgodę na powtarzanie danej klasy, a w artystycznej szkole policealnej – danego semestru, biorąc pod uwagę dotychczasowe osiągnięcia ucznia.
 
-9. W ciągu cyklu kształcenia w danym typie szkoły artystycznej uczeń może powtarzać daną klasę, a w artystycznej szkole policealnej dany semestr, tylko jeden raz.
+9. W ciągu cyklu kształcenia w danym typie szkoły artystycznej uczeń może powtarzać daną klasę, a w artystycznej szkole policealnej – dany semestr, tylko jeden raz.
 
 10. W przypadku szkoły artystycznej realizującej wyłącznie kształcenie artystyczne rada pedagogiczna może wyrazić zgodę na realizowanie obowiązkowych zajęć edukacyjnych z zakresu danej klasy w ciągu dwóch kolejnych lat, biorąc pod uwagę dotychczasowe osiągnięcia ucznia. Art. 44zl. 1. Uczeń szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej lub liceum ogólnokształcącego otrzymuje promocję do klasy programowo wyższej, jeżeli:
 
 - **1)** ze wszystkich obowiązkowych zajęć edukacyjnych otrzymał pozytywne roczne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq, z zastrzeżeniem art. 44zk ust. 7, oraz
-- **2)** przystąpił do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2 w przypadku ucznia klasy, której zakres nauczania odpowiada klasie VIII szkoły podstawowej.
+- **2)** przystąpił do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2 – w przypadku ucznia klasy, której zakres nauczania odpowiada klasie VIII szkoły podstawowej.
 
 2. (uchylony)
 
-3. Uczeń szkoły artystycznej realizującej wyłącznie kształcenie artystyczne otrzymuje promocję do klasy programowo wyższej, a w artystycznej szkole policealnej na semestr programowo wyższy, jeżeli ze wszystkich obowiązkowych zajęć edukacyjnych artystycznych odpowiednio w danej klasie lub danym semestrze otrzymał pozytywne roczne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq. Art. 44zla. 1. Uczeń lub jego rodzice mogą zgłosić zastrzeżenia do dyrektora szkoły artystycznej, jeżeli uznają, że roczna ocena klasyfikacyjna z zajęć edukacyjnych lub roczna ocena klasyfikacyjna zachowania zostały ustalone niezgodnie z przepisami dotyczącymi trybu ustalania tych ocen.
+3. Uczeń szkoły artystycznej realizującej wyłącznie kształcenie artystyczne otrzymuje promocję do klasy programowo wyższej, a w artystycznej szkole policealnej – na semestr programowo wyższy, jeżeli ze wszystkich obowiązkowych zajęć edukacyjnych artystycznych odpowiednio w danej klasie lub danym semestrze otrzymał pozytywne roczne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq. Art. 44zla. 1. Uczeń lub jego rodzice mogą zgłosić zastrzeżenia do dyrektora szkoły artystycznej, jeżeli uznają, że roczna ocena klasyfikacyjna z zajęć edukacyjnych lub roczna ocena klasyfikacyjna zachowania zostały ustalone niezgodnie z przepisami dotyczącymi trybu ustalania tych ocen.
 
 2. Uczeń w artystycznej szkole policealnej może zgłosić zastrzeżenia do dyrektora szkoły artystycznej, jeżeli uzna, że semestralna ocena klasyfikacyjna z zajęć edukacyjnych została ustalona niezgodnie z przepisami dotyczącymi trybu ustalania tej oceny.
 
-3. Zastrzeżenia, o których mowa w ust. 1 i 2, zgłasza się od dnia ustalenia rocznej, a w artystycznej szkole policealnej semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych lub rocznej oceny klasyfikacyjnej zachowania, nie później jednak niż w terminie 2 dni roboczych od dnia zakończenia rocznych, a w artystycznej szkole policealnej semestralnych, zajęć dydaktyczno-wychowawczych.
+3. Zastrzeżenia, o których mowa w ust. 1 i 2, zgłasza się od dnia ustalenia rocznej, a w artystycznej szkole policealnej – semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych lub rocznej oceny klasyfikacyjnej zachowania, nie później jednak niż w terminie 2 dni roboczych od dnia zakończenia rocznych, a w artystycznej szkole policealnej – semestralnych, zajęć dydaktyczno-wychowawczych.
 
-4. W przypadku stwierdzenia, że roczna, a w artystycznej szkole policealnej semestralna, ocena klasyfikacyjna z zajęć edukacyjnych lub roczna ocena klasyfikacyjna zachowania zostały ustalone niezgodnie z przepisami dotyczącymi trybu ustalania tych ocen, dyrektor szkoły artystycznej powołuje komisję, która:
+4. W przypadku stwierdzenia, że roczna, a w artystycznej szkole policealnej – semestralna, ocena klasyfikacyjna z zajęć edukacyjnych lub roczna ocena klasyfikacyjna zachowania zostały ustalone niezgodnie z przepisami dotyczącymi trybu ustalania tych ocen, dyrektor szkoły artystycznej powołuje komisję, która:
 
-- **1)** w przypadku rocznej, a w artystycznej szkole policealnej semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych przeprowadza sprawdzian wiadomości i umiejętności ucznia oraz ustala roczną, a w artystycznej szkole policealnej semestralną, ocenę klasyfikacyjną z danych zajęć edukacyjnych;
-- **2)** w przypadku rocznej oceny klasyfikacyjnej zachowania ustala roczną ocenę klasyfikacyjną zachowania.
+- **1)** w przypadku rocznej, a w artystycznej szkole policealnej – semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych – przeprowadza sprawdzian wiadomości i umiejętności ucznia oraz ustala roczną, a w artystycznej szkole policealnej – semestralną, ocenę klasyfikacyjną z danych zajęć edukacyjnych;
+- **2)** w przypadku rocznej oceny klasyfikacyjnej zachowania – ustala roczną ocenę klasyfikacyjną zachowania.
 
-5. Ustalona przez komisję, o której mowa w ust. 4, roczna, a w artystycznej szkole policealnej semestralna, ocena klasyfikacyjna z zajęć edukacyjnych oraz roczna ocena klasyfikacyjna zachowania nie może być niższa od ustalonej wcześniej oceny. Ocena ustalona przez komisję jest ostateczna, z wyjątkiem negatywnej rocznej, a w artystycznej szkole policealnej semestralnej, oceny klasyfikacyjnej, o której mowa w przepisach wydanych na podstawie art. 44zq, z zajęć edukacyjnych, która może być zmieniona w wyniku egzaminu poprawkowego, z zastrzeżeniem art. 44zk.
+5. Ustalona przez komisję, o której mowa w ust. 4, roczna, a w artystycznej szkole policealnej – semestralna, ocena klasyfikacyjna z zajęć edukacyjnych oraz roczna ocena klasyfikacyjna zachowania nie może być niższa od ustalonej wcześniej oceny. Ocena ustalona przez komisję jest ostateczna, z wyjątkiem negatywnej rocznej, a w artystycznej szkole policealnej – semestralnej, oceny klasyfikacyjnej, o której mowa w przepisach wydanych na podstawie art. 44zq, z zajęć edukacyjnych, która może być zmieniona w wyniku egzaminu poprawkowego, z zastrzeżeniem art. 44zk.
 
-6. Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do sprawdzianu, o którym mowa w ust. 4 pkt 1, w wyznaczonym terminie, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły artystycznej w uzgodnieniu z uczniem i jego rodzicami, a w artystycznej szkole policealnej w uzgodnieniu z uczniem.
+6. Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do sprawdzianu, o którym mowa w ust. 4 pkt 1, w wyznaczonym terminie, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły artystycznej w uzgodnieniu z uczniem i jego rodzicami, a w artystycznej szkole policealnej – w uzgodnieniu z uczniem.
 
-7. Przepisy ust. 1–6 stosuje się odpowiednio w przypadku rocznej, a w artystycznej szkole policealnej semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych ustalonej w wyniku egzaminu poprawkowego, z tym że termin do zgłoszenia zastrzeżeń wynosi 5 dni roboczych od dnia przeprowadzenia egzaminu poprawkowego. W tym przypadku ocena ustalona przez komisję, o której mowa w ust. 4, jest ostateczna. Art. 44zm. 1. Uczeń kończy szkołę artystyczną, jeżeli w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq, oraz:
+7. Przepisy ust. 1–6 stosuje się odpowiednio w przypadku rocznej, a w artystycznej szkole policealnej – semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych ustalonej w wyniku egzaminu poprawkowego, z tym że termin do zgłoszenia zastrzeżeń wynosi 5 dni roboczych od dnia przeprowadzenia egzaminu poprawkowego. W tym przypadku ocena ustalona przez komisję, o której mowa w ust. 4, jest ostateczna. Art. 44zm. 1. Uczeń kończy szkołę artystyczną, jeżeli w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq, oraz:
 
-- **1)** w przypadku szkoły artystycznej, w której jest przeprowadzany egzamin dyplomowy ponadto zdał ten egzamin;
-- **2)** w przypadku szkoły artystycznej realizującej kształcenie ogólne, w której ostatni rok nauki odpowiada klasie VIII szkoły podstawowej ponadto przystąpił do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
+- **1)** w przypadku szkoły artystycznej, w której jest przeprowadzany egzamin dyplomowy – ponadto zdał ten egzamin;
+- **2)** w przypadku szkoły artystycznej realizującej kształcenie ogólne, w której ostatni rok nauki odpowiada klasie VIII szkoły podstawowej – ponadto przystąpił do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
 
-2. Uczeń, który nie spełnił warunku, o którym mowa w ust. 1 pkt 2, może za zgodą rady pedagogicznej powtarzać ostatnią klasę i przystąpić do egzaminu ósmoklasisty.
+1a. Uczeń, o którym mowa w art. 165 ust. 1 ustawy – Prawo oświatowe, kończy szkołę artystyczną realizującą kształcenie ogólne w zakresie szkoły podstawowej, w której ostatni rok nauki odpowiada klasie VIII szkoły podstawowej, jeżeli:
+
+- **1)** w wyniku klasyfikacji końcowej, na którą składają się roczne oceny klasyfikacyjne z obowiązkowych zajęć edukacyjnych, ustalone w klasie programowo najwyższej, oraz roczne oceny klasyfikacyjne z obowiązkowych zajęć edukacyjnych, których realizacja zakończyła się w klasach programowo niższych, które ten uczeń realizował w czasie nauki w Polsce, uzyskał pozytywne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq;
+- **2)** przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
+
+2. Uczeń, który nie spełnił warunku, o którym mowa w ust. 1 pkt 2 albo ust. 1a pkt 2, może za zgodą rady pedagogicznej powtarzać ostatnią klasę i przystąpić do egzaminu ósmoklasisty.
 
 3. Uzyskanie przez ucznia szkoły artystycznej realizującej kształcenie ogólne w zakresie liceum ogólnokształcącego, w wyniku klasyfikacji w klasie, której zakres nauczania odpowiada ostatniej klasie liceum ogólnokształcącego, ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących pozytywnych ocen klasyfikacyjnych, o których mowa w przepisach wydanych na podstawie art. 44zq, jest równoważne z ukończeniem liceum ogólnokształcącego.
 
 4. (uchylony)
 
-5. Uzyskanie przez ucznia szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej, w wyniku klasyfikacji w klasie, której zakres nauczania odpowiada ostatniej klasie szkoły podstawowej, ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących pozytywnych ocen klasyfikacyjnych, o których mowa w przepisach wydanych na podstawie art. 44zq, jest równoważne z ukończeniem szkoły podstawowej. Art. 44zn. 1. W klasie programowo najwyższej w szkole artystycznej kształcącej w zawodach artystycznych, a w artystycznej szkole policealnej w semestrze programowo najwyższym, przeprowadza się egzamin dyplomowy, będący formą komisyjnej oceny poziomu przygotowania zawodowego uczniów.
+5. Uzyskanie przez ucznia szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej, w wyniku klasyfikacji w klasie, której zakres nauczania odpowiada ostatniej klasie szkoły podstawowej, ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących pozytywnych ocen klasyfikacyjnych, o których mowa w przepisach wydanych na podstawie art. 44zq, jest równoważne z ukończeniem szkoły podstawowej. Art. 44zn. 1. W klasie programowo najwyższej w szkole artystycznej kształcącej w zawodach artystycznych, a w artystycznej szkole policealnej – w semestrze programowo najwyższym, przeprowadza się egzamin dyplomowy, będący formą komisyjnej oceny poziomu przygotowania zawodowego uczniów.
 
 2. Egzamin dyplomowy składa się z części praktycznej i części teoretycznej.
 
@@ -2331,7 +2263,7 @@ Art. 97–103. (pominięte)
 
 5. Egzamin dyplomowy przeprowadza państwowa komisja egzaminacyjna.
 
-6. Państwową komisję egzaminacyjną powołuje dyrektor specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1 ustawy Prawo oświatowe, na wniosek dyrektora szkoły artystycznej, złożony nie później niż na 30 dni przed terminem przeprowadzenia egzaminu dyplomowego. Dyrektor specjalistycznej jednostki nadzoru wyznacza przewodniczącego komisji spośród nauczycieli zajmujących stanowiska kierownicze w danej szkole artystycznej, nie później niż na 21 dni przed terminem przeprowadzenia egzaminu dyplomowego, upoważniając przewodniczącego do powołania, w terminie 14 dni, pozostałych członków komisji.
+6. Państwową komisję egzaminacyjną powołuje dyrektor specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, na wniosek dyrektora szkoły artystycznej, złożony nie później niż na 30 dni przed terminem przeprowadzenia egzaminu dyplomowego. Dyrektor specjalistycznej jednostki nadzoru wyznacza przewodniczącego komisji spośród nauczycieli zajmujących stanowiska kierownicze w danej szkole artystycznej, nie później niż na 21 dni przed terminem przeprowadzenia egzaminu dyplomowego, upoważniając przewodniczącego do powołania, w terminie 14 dni, pozostałych członków komisji.
 
 7. Termin przeprowadzenia poszczególnych części egzaminu dyplomowego wyznacza dyrektor szkoły artystycznej w terminach niekolidujących ze zdawanymi przez uczniów egzaminami w zakresie egzaminu maturalnego.
 
@@ -2360,9 +2292,9 @@ Art. 97–103. (pominięte)
 - **5)** zajęcia edukacyjne artystyczne, z których uczeń otrzymuje ocenę w trybie egzaminu promocyjnego lub końcowego;
 - **6)** tryb i formę przeprowadzania egzaminu klasyfikacyjnego, poprawkowego, promocyjnego i końcowego z zajęć edukacyjnych artystycznych oraz skład komisji egzaminacyjnych, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzania tych egzaminów oraz udokumentowania ich przebiegu;
 - **7)** tryb i formę przeprowadzania sprawdzianu wiadomości i umiejętności ucznia, o którym mowa w art. 44zla ust. 4 pkt 1, oraz ustalania rocznej oceny klasyfikacyjnej zachowania, o której mowa w art. 44zla ust. 4 pkt 2, skład komisji, o których mowa w art. 44zla ust. 4, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzenia tego sprawdzianu lub prawidłowości ustalenia rocznej oceny klasyfikacyjnej zachowania oraz odpowiedniego udokumentowania pracy komisji;
-- **8)** warunki promocji ucznia do klasy programowo wyższej lub ukończenia szkoły artystycznej z wyróżnieniem, z uwzględnieniem rocznych ocen klasyfikacyjnych z zajęć edukacyjnych, które wlicza się do średniej ocen, a w przypadku szkoły artystycznej realizującej także kształcenie ogólne oceny zachowania;
+- **8)** warunki promocji ucznia do klasy programowo wyższej lub ukończenia szkoły artystycznej z wyróżnieniem, z uwzględnieniem rocznych ocen klasyfikacyjnych z zajęć edukacyjnych, które wlicza się do średniej ocen, a w przypadku szkoły artystycznej realizującej także kształcenie ogólne – oceny zachowania;
 - **9)** tryb i zakres przeprowadzania egzaminu dyplomowego, a także skład komisji egzaminacyjnej, z uwzględnieniem konieczności zapewnienia prawidłowego przeprowadzenia tego egzaminu oraz udokumentowania jego przebiegu;
-- **10)** warunki i tryb wyrażania przez radę pedagogiczną zgody na powtarzanie przez ucznia klasy lub realizowanie obowiązkowych zajęć edukacyjnych określonych w szkolnym planie nauczania danej klasy w ciągu dwóch kolejnych lat. Art. 44zr. Przepisów rozdziału 3a nie stosuje się do dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim. Art. 44zra. 1. W przypadku niewykonania przez nauczyciela, wychowawcę oddziału, osobę prowadzącą praktyczną naukę zawodu, o której mowa w przepisach wydanych na podstawie art. 120 ust. 4 ustawy Prawo oświatowe, lub radę pedagogiczną zadań i kompetencji w zakresie oceniania, klasyfikowania i promowania uczniów, o których mowa w rozdziale 3a oraz w przepisach wydanych na podstawie art. 44zb i art. 44zq, te zadania i kompetencje wykonuje dyrektor szkoły lub upoważniony przez niego nauczyciel.
+- **10)** warunki i tryb wyrażania przez radę pedagogiczną zgody na powtarzanie przez ucznia klasy lub realizowanie obowiązkowych zajęć edukacyjnych określonych w szkolnym planie nauczania danej klasy w ciągu dwóch kolejnych lat. Art. 44zr. Przepisów rozdziału 3a nie stosuje się do dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim. Art. 44zra. 1. W przypadku niewykonania przez nauczyciela, wychowawcę oddziału, osobę prowadzącą praktyczną naukę zawodu, o której mowa w przepisach wydanych na podstawie art. 120 ust. 4 ustawy – Prawo oświatowe, lub radę pedagogiczną zadań i kompetencji w zakresie oceniania, klasyfikowania i promowania uczniów, o których mowa w rozdziale 3a oraz w przepisach wydanych na podstawie art. 44zb i art. 44zq, te zadania i kompetencje wykonuje dyrektor szkoły lub upoważniony przez niego nauczyciel.
 
 2. W przypadku gdy dyrektor szkoły lub upoważniony przez niego nauczyciel nie wykonuje zadań i kompetencji, o których mowa w ust. 1, te zadania i kompetencje wykonuje nauczyciel wyznaczony przez organ prowadzący szkołę.
 
@@ -2372,15 +2304,15 @@ Art. 97–103. (pominięte)
 
 #### Rozdział 3c Systemy teleinformatyczne wykorzystywane do przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego i egzaminów eksternistycznych
 
-#### Rozdział 4 (uchylony)
+#### Rozdział 4
 
-#### Rozdział 5 (uchylony)
+#### Rozdział 5
 
-#### Rozdział 6 (uchylony)
+#### Rozdział 6
 
-#### Rozdział 7 (uchylony)
+#### Rozdział 7
 
-#### Rozdział 8 (uchylony)
+#### Rozdział 8
 
 #### Rozdział 8a Pomoc materialna dla uczniów
 
@@ -2392,8 +2324,8 @@ Art. 97–103. (pominięte)
 
 3. Pomoc materialna przysługuje:
 
-- **1)** uczniom szkół publicznych, niepublicznych i niepublicznych szkół artystycznych o uprawnieniach publicznych szkół artystycznych oraz słuchaczom kolegiów pracowników służb społecznych do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 24. roku życia;
-- **2)** wychowankom publicznych i niepublicznych ośrodków rewalidacyjno-wychowawczych do czasu ukończenia realizacji obowiązku nauki.
+- **1)** uczniom szkół publicznych, niepublicznych i niepublicznych szkół artystycznych o uprawnieniach publicznych szkół artystycznych oraz słuchaczom kolegiów pracowników służb społecznych – do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 24. roku życia;
+- **2)** wychowankom publicznych i niepublicznych ośrodków rewalidacyjno-wychowawczych – do czasu ukończenia realizacji obowiązku nauki.
 
 4. (uchylony)
 
@@ -2438,13 +2370,13 @@ Art. 97–103. (pominięte)
 
 9. Stypendium szkolne nie może być niższe miesięcznie niż 80 % kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych i nie może przekraczać miesięcznie 200 % kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
 
-10. Stypendium szkolne jest przyznawane na okres nie krótszy niż miesiąc i nie dłuższy niż 10 miesięcy w danym roku szkolnym, a w przypadku słuchaczy kolegiów pracowników służb społecznych na okres nie krótszy niż miesiąc i nie dłuższy niż 9 miesięcy w danym roku szkolnym.
+10. Stypendium szkolne jest przyznawane na okres nie krótszy niż miesiąc i nie dłuższy niż 10 miesięcy w danym roku szkolnym, a w przypadku słuchaczy kolegiów pracowników służb społecznych – na okres nie krótszy niż miesiąc i nie dłuższy niż 9 miesięcy w danym roku szkolnym.
 
-11. Jeżeli forma stypendium szkolnego tego wymaga, stypendium szkolne może być realizowane w okresach innych niż miesięczne lub jednorazowo, z tym że wartość stypendium szkolnego w danym roku szkolnym nie może przekroczyć łącznie dwudziestokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, a w przypadku słuchaczy kolegiów pracowników służb społecznych osiemnastokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
+11. Jeżeli forma stypendium szkolnego tego wymaga, stypendium szkolne może być realizowane w okresach innych niż miesięczne lub jednorazowo, z tym że wartość stypendium szkolnego w danym roku szkolnym nie może przekroczyć łącznie dwudziestokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, a w przypadku słuchaczy kolegiów pracowników służb społecznych – osiemnastokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
 
 12. Stypendium szkolne nie przysługuje uczniowi, który otrzymuje inne stypendium o charakterze socjalnym ze środków publicznych, z zastrzeżeniem ust. 13.
 
-13. Uczeń, który otrzymuje inne stypendium o charakterze socjalnym ze środków publicznych, może otrzymać stypendium szkolne w wysokości, która łącznie z innym stypendium o charakterze socjalnym ze środków publicznych nie przekracza dwudziestokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, a w przypadku słuchaczy kolegiów pracowników służb społecznych osiemnastokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
+13. Uczeń, który otrzymuje inne stypendium o charakterze socjalnym ze środków publicznych, może otrzymać stypendium szkolne w wysokości, która łącznie z innym stypendium o charakterze socjalnym ze środków publicznych nie przekracza dwudziestokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, a w przypadku słuchaczy kolegiów pracowników służb społecznych – osiemnastokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
 
 **Art. 90e.**
 
@@ -2476,7 +2408,7 @@ Art. 97–103. (pominięte)
 
 7. Średnią ocen, o której mowa w ust. 2, ustala komisja stypendialna, po zasięgnięciu opinii rady pedagogicznej i samorządu uczniowskiego.
 
-8. Wniosek o przyznanie stypendium za wyniki w nauce lub za osiągnięcia sportowe składa wychowawca klasy, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych słuchacz, do komisji stypendialnej, która przekazuje wniosek wraz ze swoją opinią dyrektorowi szkoły.
+8. Wniosek o przyznanie stypendium za wyniki w nauce lub za osiągnięcia sportowe składa wychowawca klasy, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych – słuchacz, do komisji stypendialnej, która przekazuje wniosek wraz ze swoją opinią dyrektorowi szkoły.
 
 9. Stypendium za wyniki w nauce lub za osiągnięcia sportowe jest wypłacane raz w okresie (semestrze).
 
@@ -2516,7 +2448,7 @@ Art. 97–103. (pominięte)
 
 1. Stypendium ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego może być przyznane uczniowi szkoły artystycznej prowadzącej kształcenie zawodowe.
 
-2. Stypendium ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego może być przyznane uczniowi, który uzyskał w okresie (semestrze) bardzo dobrą średnią ocen z przedmiotów artystyczno-zawodowych oraz uczniowi laureatowi międzynarodowego lub krajowego konkursu artystycznego.
+2. Stypendium ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego może być przyznane uczniowi, który uzyskał w okresie (semestrze) bardzo dobrą średnią ocen z przedmiotów artystyczno-zawodowych oraz uczniowi – laureatowi międzynarodowego lub krajowego konkursu artystycznego.
 
 3. Stypendium ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego może być przyznane nie wcześniej niż po ukończeniu pierwszego roku nauki w danym typie szkoły artystycznej i nie częściej niż raz w roku.
 
@@ -2532,7 +2464,7 @@ Art. 97–103. (pominięte)
 
 1. Świadczenie pomocy materialnej o charakterze socjalnym przyznaje wójt (burmistrz, prezydent miasta).
 
-2. Rada gminy może upoważnić kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818 oraz z 2025 r. poz. 620) dyrektora centrum usług społecznych, do prowadzenia postępowania w sprawach, o których mowa w ust. 1.
+2. Rada gminy może upoważnić kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818 oraz z 2025 r. poz. 620) – dyrektora centrum usług społecznych, do prowadzenia postępowania w sprawach, o których mowa w ust. 1.
 
 **Art. 90n.**
 
@@ -2558,8 +2490,8 @@ Art. 97–103. (pominięte)
 
 6. Wniosek o przyznanie stypendium szkolnego składa się do dnia 15 września danego roku szkolnego, a w przypadku:
 
-- **1)** uczniów i słuchaczy szkół, w których zajęcia dydaktyczno-wychowawcze rozpoczynają się w pierwszym, powszednim dniu lutego do dnia 15 lutego danego roku szkolnego;
-- **2)** słuchaczy kolegiów pracowników służb społecznych do dnia 15 października danego roku szkolnego.
+- **1)** uczniów i słuchaczy szkół, w których zajęcia dydaktyczno-wychowawcze rozpoczynają się w pierwszym, powszednim dniu lutego – do dnia 15 lutego danego roku szkolnego;
+- **2)** słuchaczy kolegiów pracowników służb społecznych – do dnia 15 października danego roku szkolnego.
 
 7. W uzasadnionych przypadkach, wniosek o przyznanie stypendium szkolnego może być złożony po upływie terminu, o którym mowa w ust. 6.
 
@@ -2590,7 +2522,7 @@ Art. 97–103. (pominięte)
 
 **Art. 90r.** (uchylony)
 
-**Art. 90s.** (uchylony) Art. 90sa. 1. Uczniom szkół i placówek prowadzonych przez Ministra Obrony Narodowej, o których mowa w przepisach wydanych na podstawie art. 49 ustawy Prawo oświatowe, mogą być przyznane świadczenia w postaci bezpłatnego wyżywienia, zakwaterowania, umundurowania i pomocy lekarskiej. 2. Minister Obrony Narodowej określi, w drodze rozporządzenia, szkoły i placówki, w których uczniowie mogą otrzymać świadczenia, o których mowa w ust. 1, zakres tych świadczeń, a także warunki korzystania z tych świadczeń, uwzględniając specyfikę nauczania w szkołach i placówkach prowadzonych przez Ministra Obrony Narodowej oraz konieczność właściwego zabezpieczenia procesu dydaktycznego.
+**Art. 90s.** (uchylony) Art. 90sa. 1. Uczniom szkół i placówek prowadzonych przez Ministra Obrony Narodowej, o których mowa w przepisach wydanych na podstawie art. 49 ustawy – Prawo oświatowe, mogą być przyznane świadczenia w postaci bezpłatnego wyżywienia, zakwaterowania, umundurowania i pomocy lekarskiej. 2. Minister Obrony Narodowej określi, w drodze rozporządzenia, szkoły i placówki, w których uczniowie mogą otrzymać świadczenia, o których mowa w ust. 1, zakres tych świadczeń, a także warunki korzystania z tych świadczeń, uwzględniając specyfikę nauczania w szkołach i placówkach prowadzonych przez Ministra Obrony Narodowej oraz konieczność właściwego zabezpieczenia procesu dydaktycznego.
 
 **Art. 90t.**
 
@@ -2624,7 +2556,7 @@ Art. 97–103. (pominięte)
 4. W przypadku przyjęcia programu albo programów, o których mowa w ust. 1, Rada Ministrów określi, w drodze rozporządzenia, odpowiednio:
 
 - **1)** szczegółowe warunki udzielania pomocy dzieciom i młodzieży oraz innym grupom społecznym objętym programem, o którym mowa w ust. 1 pkt 1, formy i zakres tej pomocy oraz tryb postępowania w tych sprawach, uwzględniając w szczególności przedsięwzięcia sprzyjające eliminowaniu barier edukacyjnych, a także osoby i grupy osób uprawnione do pomocy;
-- **2)** szczegółowe warunki dofinansowania regionalnych lub lokalnych programów, o których mowa w ust. 1 pkt 2, warunki, jakie muszą spełnić te programy, oraz podmioty dokonujące oceny programów, a także sposób i tryb wyboru programów, którym zostanie udzielone dofinansowanie, uwzględniając w szczególności potrzeby edukacyjne na danym obszarze, osiągnięcia uczniów, w tym w szczególności wyniki egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego, a w przypadku ubiegania się o dofinansowanie przez jednostkę samorządu terytorialnego także udział nakładów na oświatę w budżecie tej jednostki;
+- **2)** szczegółowe warunki dofinansowania regionalnych lub lokalnych programów, o których mowa w ust. 1 pkt 2, warunki, jakie muszą spełnić te programy, oraz podmioty dokonujące oceny programów, a także sposób i tryb wyboru programów, którym zostanie udzielone dofinansowanie, uwzględniając w szczególności potrzeby edukacyjne na danym obszarze, osiągnięcia uczniów, w tym w szczególności wyniki egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego, a w przypadku ubiegania się o dofinansowanie przez jednostkę samorządu terytorialnego – także udział nakładów na oświatę w budżecie tej jednostki;
 - **3)** szczegółowe warunki dofinansowania regionalnych lub lokalnych programów, o których mowa w ust. 1 pkt 3, warunki, jakie muszą spełnić te programy, oraz podmioty dokonujące oceny programów, a także sposób i tryb wyboru programów, którym zostanie udzielone dofinansowanie, uwzględniając w szczególności potrzeby i możliwości edukacyjne uczniów, ich osiągnięcia, bazę dydaktyczną niezbędną do realizacji programu, przygotowanie kadry pedagogicznej i warunki materialne uczniów;
 - **4)** szczegółowe warunki, formy i tryb wspomagania tworzenia warunków do sprawowania profilaktycznej opieki zdrowotnej nad uczniami, uwzględniając w szczególności tworzenie gabinetów profilaktyki zdrowotnej dla uczniów;
 - **5)** formy i zakres wspierania organów prowadzących w zapewnieniu bezpiecznych warunków nauki, wychowania i opieki w szkołach, innych formach wychowania przedszkolnego i placówkach lub podnoszeniu poziomu dyscypliny w szkołach, innych formach wychowania przedszkolnego lub placówkach, sposób podziału środków budżetu państwa przyznanych na realizację programu, szczegółowe kryteria i tryb oceny wniosków organów prowadzących o udzielenie wsparcia finansowego, zakres informacji, jakie powinien zawierać wniosek organu prowadzącego o udzielenie wsparcia finansowego, oraz sposób monitorowania i oceny realizacji zadań w ramach programu, w tym składania sprawozdań z realizacji programu, uwzględniając wymóg skuteczności i efektywności przedsięwzięć podejmowanych w ramach programu;
@@ -2637,13 +2569,13 @@ Art. 97–103. (pominięte)
 
 - **1)** pomocy uczennicom w ciąży przez stworzenie im możliwości kontynuowania nauki,
 - **2)** utworzenia ośrodków koordynacyjno-rehabilitacyjno-opiekuńczych,
-- **3)** działań edukacyjnych dla młodzieży szkół ponadpodstawowych w zakresie świadomego i odpowiedzialnego rodzicielstwa współdziała z jednostkami samorządu terytorialnego.
+- **3)** działań edukacyjnych dla młodzieży szkół ponadpodstawowych w zakresie świadomego i odpowiedzialnego rodzicielstwa – współdziała z jednostkami samorządu terytorialnego.
 
 2. (uchylony)
 
-3. Starosta wskazuje publiczne przedszkole, inną formę wychowania przedszkolnego, szkołę podstawową, w tym specjalną, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, ośrodek rewalidacyjno-wychowawczy, o którym mowa w art. 2 pkt 7 ustawy Prawo oświatowe, albo poradnię psychologiczno-pedagogiczną, w tym poradnię specjalistyczną, spełniające warunki określone w przepisach wydanych na podstawie art. 127 ust. 19 pkt 1 ustawy Prawo oświatowe, które w danym powiecie pełnią funkcję wiodącego ośrodka koordynacyjno-rehabilitacyjno-opiekuńczego.
+3. Starosta wskazuje publiczne przedszkole, inną formę wychowania przedszkolnego, szkołę podstawową, w tym specjalną, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, ośrodek rewalidacyjno-wychowawczy, o którym mowa w art. 2 pkt 7 ustawy – Prawo oświatowe, albo poradnię psychologiczno-pedagogiczną, w tym poradnię specjalistyczną, spełniające warunki określone w przepisach wydanych na podstawie art. 127 ust. 19 pkt 1 ustawy – Prawo oświatowe, które w danym powiecie pełnią funkcję wiodącego ośrodka koordynacyjno-rehabilitacyjno-opiekuńczego.
 
-3a. Starosta może powierzyć funkcję wiodącego ośrodka koordynacyjno-rehabilitacyjno-opiekuńczego publicznemu albo niepublicznemu przedszkolu, innej formie wychowania przedszkolnego, szkole podstawowej, w tym specjalnej, specjalnemu ośrodkowi szkolno-wychowawczemu, specjalnemu ośrodkowi wychowawczemu dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, ośrodkowi rewalidacyjno-wychowawczemu, o którym mowa w art. 2 pkt 7 ustawy Prawo oświatowe, albo poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, spełniającym warunki określone w przepisach wydanych na podstawie art. 127 ust. 19 pkt 1 ustawy Prawo oświatowe, które działają na terenie powiatu i ich organem prowadzącym jest inna jednostka samorządu terytorialnego, osoba prawna niebędąca jednostką samorządu terytorialnego albo osoba fizyczna.
+3a. Starosta może powierzyć funkcję wiodącego ośrodka koordynacyjno-rehabilitacyjno-opiekuńczego publicznemu albo niepublicznemu przedszkolu, innej formie wychowania przedszkolnego, szkole podstawowej, w tym specjalnej, specjalnemu ośrodkowi szkolno-wychowawczemu, specjalnemu ośrodkowi wychowawczemu dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, ośrodkowi rewalidacyjno-wychowawczemu, o którym mowa w art. 2 pkt 7 ustawy – Prawo oświatowe, albo poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, spełniającym warunki określone w przepisach wydanych na podstawie art. 127 ust. 19 pkt 1 ustawy – Prawo oświatowe, które działają na terenie powiatu i ich organem prowadzącym jest inna jednostka samorządu terytorialnego, osoba prawna niebędąca jednostką samorządu terytorialnego albo osoba fizyczna.
 
 3b. Powierzenie funkcji wiodącego ośrodka koordynacyjno-rehabilitacyjno-opiekuńczego przedszkolu, innej formie wychowania przedszkolnego, szkole, ośrodkowi lub poradni, o których mowa w ust. 3a, następuje na podstawie porozumienia zawartego z organem prowadzącym to przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub poradnię.
 
@@ -2657,7 +2589,7 @@ Art. 97–103. (pominięte)
 
 1. W celu realizacji polityki oświatowej państwa minister właściwy do spraw oświaty i wychowania może ustanowić programy i przedsięwzięcia.
 
-1a. W zakresie realizacji programu lub przedsięwzięcia minister właściwy do spraw oświaty i wychowania może w szczególności współdziałać z podmiotami, o których mowa w art. 3 ust. 1, 1a i 3 ustawy Prawo oświatowe.
+1a. W zakresie realizacji programu lub przedsięwzięcia minister właściwy do spraw oświaty i wychowania może w szczególności współdziałać z podmiotami, o których mowa w art. 3 ust. 1, 1a i 3 ustawy – Prawo oświatowe.
 
 2. W przypadku ustanowienia programu lub przedsięwzięcia minister właściwy do spraw oświaty i wychowania ogłasza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej komunikat o:
 
@@ -2723,7 +2655,7 @@ Art. 97–103. (pominięte)
 - **1)** objęte pieczą zastępczą;
 - **2)** pochodzące z rodzin żyjących w trudnych warunkach materialnych, w tym:
     - **a)** z rodzin wychowujących troje lub więcej dzieci,
-    - **b)** samotnie wychowywane w rozumieniu art. 4 pkt 43 ustawy Prawo oświatowe;
+    - **b)** samotnie wychowywane w rozumieniu art. 4 pkt 43 ustawy – Prawo oświatowe;
 
 - **3)** z zaburzeniami somatycznymi potwierdzonymi zaświadczeniem lekarskim i zamieszkujące w środowisku ekologicznie zagrożonym.
 
@@ -2743,13 +2675,13 @@ Art. 97–103. (pominięte)
 
 2. Organizator wypoczynku zapewnia:
 
-- **1)** bezpieczne i higieniczne warunki wypoczynku, w szczególności organizuje wypoczynek w obiekcie lub na terenie spełniającym wymagania ochrony przeciwpożarowej, ochrony środowiska oraz warunki higieniczno-sanitarne, określone w przepisach o ochronie przeciwpożarowej, ochronie środowiska i Państwowej Inspekcji Sanitarnej, a w przypadku wypoczynku z udziałem dzieci i młodzieży niepełnosprawnej organizuje wypoczynek w obiekcie lub na terenie dostosowanym do potrzeb wynikających z rodzaju niepełnosprawności uczestników wypoczynku;
-- **2)** kadrę wypoczynku, którą stanowią: liczba wychowawców wypoczynku jest odpowiednia do liczby uczestników wypoczynku,
-    - **a)** kierownik wypoczynku i wychowawcy wypoczynku spełniający warunki, o których mowa w art. 92p ust. 1–6;
-    - **b)** w zależności od programu wypoczynku i realizowanych zajęć trenerzy i instruktorzy sportu, rekreacji, animacji kulturalno-oświatowej, lektorzy języka i inne osoby prowadzące zajęcia podczas wypoczynku, które spełniają następujące warunki: mają ukończone 18 lat, posiadają co najmniej wykształcenie średnie lub średnie branżowe, posiadają wiedzę, doświadczenie i umiejętności niezbędne do realizowanych zajęć;
+- **1)** bezpieczne i higieniczne warunki wypoczynku, w szczególności organizuje wypoczynek w obiekcie lub na terenie spełniającym wymagania ochrony przeciwpożarowej, ochrony środowiska oraz warunki higieniczno-sanitarne, określone w przepisach o ochronie przeciwpożarowej, ochronie środowiska i Państwowej Inspekcji Sanitarnej, a w przypadku wypoczynku z udziałem dzieci i młodzieży niepełnosprawnej – organizuje wypoczynek w obiekcie lub na terenie dostosowanym do potrzeb wynikających z rodzaju niepełnosprawności uczestników wypoczynku;
+- **2)** kadrę wypoczynku, którą stanowią:
+    - **a)** kierownik wypoczynku i wychowawcy wypoczynku spełniający warunki, o których mowa w art. 92p ust. 1–6; liczba wychowawców wypoczynku jest odpowiednia do liczby uczestników wypoczynku,
+    - **b)** w zależności od programu wypoczynku i realizowanych zajęć – trenerzy i instruktorzy sportu, rekreacji, animacji kulturalno-oświatowej, lektorzy języka i inne osoby prowadzące zajęcia podczas wypoczynku, które spełniają następujące warunki: – mają ukończone 18 lat, – posiadają co najmniej wykształcenie średnie lub średnie branżowe, – posiadają wiedzę, doświadczenie i umiejętności niezbędne do realizowanych zajęć;
 
-- **3)** dostęp do opieki medycznej: o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ) lub
-    - **a)** w ramach świadczeń opieki zdrowotnej udzielanych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r.
+- **3)** dostęp do opieki medycznej: poz. 146, z późn. zm. ) lub
+    - **a)** w ramach świadczeń opieki zdrowotnej udzielanych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r.
     - **b)** na podstawie umowy zawartej z lekarzem, pielęgniarką lub ratownikiem medycznym;
 
 - **4)** program wypoczynku i zajęcia dostosowane do wieku, zainteresowań i potrzeb uczestników, ich stanu zdrowia, sprawności fizycznej i umiejętności;
@@ -2790,7 +2722,7 @@ Art. 97–103. (pominięte)
 - **4)** informację o sposobie zapewnienia uczestnikom wypoczynku dostępu do opieki medycznej;
 - **5)** imiona i nazwiska oraz funkcje osób wchodzących w skład kadry wypoczynku, a także informację o spełnianiu przez te osoby odpowiednio warunków, o których mowa w art. 92p ust. 1–6 i art. 92c ust. 2 pkt 2 lit. b;
 - **6)** oświadczenie organizatora wypoczynku o posiadaniu kopii dokumentów potwierdzających spełnianie przez osoby wchodzące w skład kadry wypoczynku warunków, o których mowa w art. 92p ust. 1–6 i art. 92c ust. 2 pkt 2 lit. b, potwierdzonych przez organizatora wypoczynku za zgodność z oryginałem;
-- **7)** w przypadku organizatora wypoczynku, o którym mowa w art. 92c ust. 1 pkt 3 oświadczenie organizatora wypoczynku, że organizuje wypoczynek w celu odpowiednio niezarobkowym albo zarobkowym i nie podlega obowiązkowi wpisu do rejestru organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych, o którym mowa w art. 22 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych;
+- **7)** w przypadku organizatora wypoczynku, o którym mowa w art. 92c ust. 1 pkt 3 – oświadczenie organizatora wypoczynku, że organizuje wypoczynek w celu odpowiednio niezarobkowym albo zarobkowym i nie podlega obowiązkowi wpisu do rejestru organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych, o którym mowa w art. 22 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych;
 - **8)** wykaz dokumentów dołączonych do zgłoszenia, określonych w przepisach wydanych na podstawie art. 92t;
 - **9)** datę i podpis organizatora wypoczynku.
 
@@ -2847,8 +2779,8 @@ Art. 97–103. (pominięte)
 
 2. Zgłoszenia wypoczynku usuwa się z bazy wypoczynku:
 
-- **1)** po upływie 30 dni od dnia zakończenia ferii zimowych w przypadku wypoczynku organizowanego w czasie zimowej przerwy świątecznej i ferii zimowych w danym roku szkolnym;
-- **2)** po upływie 30 dni od dnia zakończenia ferii letnich w przypadku wypoczynku organizowanego w czasie wiosennej przerwy świątecznej i ferii letnich w danym roku szkolnym.
+- **1)** po upływie 30 dni od dnia zakończenia ferii zimowych – w przypadku wypoczynku organizowanego w czasie zimowej przerwy świątecznej i ferii zimowych w danym roku szkolnym;
+- **2)** po upływie 30 dni od dnia zakończenia ferii letnich – w przypadku wypoczynku organizowanego w czasie wiosennej przerwy świątecznej i ferii letnich w danym roku szkolnym.
 
 3. Minister właściwy do spraw oświaty i wychowania, kurator oświaty, właściwy państwowy inspektor sanitarny i komendant powiatowy (miejski) Państwowej Straży Pożarnej przechowują odpowiednio dane zawarte w bazie wypoczynku, dokumentację dotyczącą zgłoszenia wypoczynku i dokumentację wypoczynku przez okres 5 lat od dnia usunięcia zgłoszenia z bazy wypoczynku.
 
@@ -2856,7 +2788,7 @@ Art. 97–103. (pominięte)
 
 5. Szkoła lub placówka przechowuje kartę wypoczynku przez okres 5 lat od dnia zakończenia wypoczynku.
 
-**Art. 92i.** Organizator wypoczynku zawiadamia niezwłocznie kuratora oświaty właściwego ze względu na siedzibę lub miejsce zamieszkania organizatora wypoczynku, a w przypadku organizatora wypoczynku posiadającego siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej kuratora oświaty właściwego ze względu na lokalizację wypoczynku, o zmianach okoliczności objętych zgłoszeniem wypoczynku.
+**Art. 92i.** Organizator wypoczynku zawiadamia niezwłocznie kuratora oświaty właściwego ze względu na siedzibę lub miejsce zamieszkania organizatora wypoczynku, a w przypadku organizatora wypoczynku posiadającego siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej – kuratora oświaty właściwego ze względu na lokalizację wypoczynku, o zmianach okoliczności objętych zgłoszeniem wypoczynku.
 
 **Art. 92j.** Organizator wypoczynku informuje rodziców uczestnika albo pełnoletniego uczestnika wypoczynku o warunkach organizacji wypoczynku, w szczególności o terminie, miejscu lub trasie wypoczynku, jego programie i regulaminie.
 
@@ -2874,7 +2806,7 @@ Art. 97–103. (pominięte)
 - **2)** informacje dotyczące uczestnika wypoczynku:
     - **a)** imię (imiona) i nazwisko uczestnika oraz imiona i nazwiska jego rodziców,
     - **b)** rok urodzenia,
-    - **c)** adres zamieszkania, a w przypadku gdy uczestnik jest niepełnoletni adres zamieszkania jego rodziców lub adres ich pobytu, jeżeli jest inny niż adres zamieszkania,
+    - **c)** adres zamieszkania, a w przypadku gdy uczestnik jest niepełnoletni – adres zamieszkania jego rodziców lub adres ich pobytu, jeżeli jest inny niż adres zamieszkania,
     - **d)** numer telefonu rodziców lub osoby wskazanej przez pełnoletniego uczestnika,
     - **e)** informację o specjalnych potrzebach edukacyjnych uczestnika, w szczególności o potrzebach wynikających z niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym,
     - **f)** istotne dane o stanie zdrowia, rozwoju psychofizycznym i stosowanej diecie uczestnika oraz jego numer PESEL w celu potwierdzenia prawa do świadczeń opieki zdrowotnej;
@@ -2898,9 +2830,9 @@ Art. 97–103. (pominięte)
 - **1)** rodziców uczestnika, który uległ wypadkowi, albo osobę wskazaną przez pełnoletniego uczestnika wypoczynku w karcie kwalifikacyjnej;
 - **2)** organizatora wypoczynku;
 - **3)** kuratora oświaty właściwego ze względu na siedzibę lub miejsce zamieszkania organizatora wypoczynku oraz kuratora oświaty właściwego ze względu na miejsce lokalizacji wypoczynku;
-- **4)** organ prowadzący szkołę lub placówkę, dyrektora szkoły lub placówki oraz radę rodziców w przypadku gdy organizatorem wypoczynku jest szkoła lub placówka;
-- **5)** prokuratora w razie wypadku śmiertelnego, ciężkiego lub zbiorowego;
-- **6)** państwowego inspektora sanitarnego w przypadku zatrucia pokarmowego, do którego doszło na terenie kraju.
+- **4)** organ prowadzący szkołę lub placówkę, dyrektora szkoły lub placówki oraz radę rodziców – w przypadku gdy organizatorem wypoczynku jest szkoła lub placówka;
+- **5)** prokuratora – w razie wypadku śmiertelnego, ciężkiego lub zbiorowego;
+- **6)** państwowego inspektora sanitarnego – w przypadku zatrucia pokarmowego, do którego doszło na terenie kraju.
 
 3. Miejsce wypadku zabezpiecza się do czasu sporządzenia protokołu powypadkowego.
 
@@ -2912,7 +2844,7 @@ Art. 97–103. (pominięte)
 - **4)** skutki wypadku;
 - **5)** miejscowość lub miejsce i datę sporządzenia protokołu oraz podpis osoby sporządzającej protokół.
 
-5. W postępowaniu powypadkowym może uczestniczyć jako obserwator przedstawiciel kuratora oświaty właściwego ze względu na miejsce lokalizacji wypoczynku, a w przypadku wypoczynku organizowanego przez szkołę lub placówkę także przedstawiciel organu prowadzącego.
+5. W postępowaniu powypadkowym może uczestniczyć jako obserwator przedstawiciel kuratora oświaty właściwego ze względu na miejsce lokalizacji wypoczynku, a w przypadku wypoczynku organizowanego przez szkołę lub placówkę – także przedstawiciel organu prowadzącego.
 
 6. Protokół powypadkowy sporządza się w trzech egzemplarzach, po jednym dla rodziców uczestnika, który uległ wypadkowi, albo pełnoletniego uczestnika wypoczynku, który uległ wypadkowi, lub osoby wskazanej przez niego w karcie kwalifikacyjnej, organizatora wypoczynku i kuratora oświaty właściwego ze względu na miejsce lokalizacji wypoczynku.
 
@@ -2985,7 +2917,7 @@ Art. 97–103. (pominięte)
 2. W przypadku:
 
 - **1)** niemożności usunięcia stwierdzonych nieprawidłowości, o których mowa w ust. 1 pkt 1,
-- **2)** niewykonania nakazu, o którym mowa w ust. 1 pkt 1 lub 2 kurator oświaty właściwy ze względu na miejsce lokalizacji wypoczynku zarządza, w drodze decyzji administracyjnej, zakończenie prowadzenia wypoczynku przez organizatora wypoczynku oraz nakazuje organizatorowi wypoczynku niezwłoczne zorganizowanie powrotu uczestników wypoczynku do miejsca zamieszkania.
+- **2)** niewykonania nakazu, o którym mowa w ust. 1 pkt 1 lub 2 – kurator oświaty właściwy ze względu na miejsce lokalizacji wypoczynku zarządza, w drodze decyzji administracyjnej, zakończenie prowadzenia wypoczynku przez organizatora wypoczynku oraz nakazuje organizatorowi wypoczynku niezwłoczne zorganizowanie powrotu uczestników wypoczynku do miejsca zamieszkania.
 
 3. Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności.
 
@@ -3005,7 +2937,7 @@ Art. 97–103. (pominięte)
 
 1. Kierownikiem wypoczynku może być osoba, która:
 
-- **1)** nie była karana za umyślne przestępstwo przeciwko życiu i zdrowiu, przestępstwo przeciwko wolności seksualnej i obyczajności, przestępstwo przeciwko rodzinie i opiece, z wyjątkiem przestępstwa określonego w art. 209 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383), przestępstwo określone w rozdziale 7 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939) albo wobec której nie orzeczono zakazu prowadzenia działalności związanej z wychowywaniem, leczeniem, edukacją małoletnich lub opieką nad nimi lub zakazu przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu;
+- **1)** nie była karana za umyślne przestępstwo przeciwko życiu i zdrowiu, przestępstwo przeciwko wolności seksualnej i obyczajności, przestępstwo przeciwko rodzinie i opiece, z wyjątkiem przestępstwa określonego w art. 209 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383), przestępstwo określone w rozdziale 7 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939) albo wobec której nie orzeczono zakazu prowadzenia działalności związanej z wychowywaniem, leczeniem, edukacją małoletnich lub opieką nad nimi lub zakazu przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu;
 - **2)** ukończyła 18 lat;
 - **3)** posiada co najmniej wykształcenie średnie lub średnie branżowe;
 - **4)** ukończyła kurs na kierownika wypoczynku;
@@ -3016,13 +2948,13 @@ Art. 97–103. (pominięte)
 - **1)** spełnia warunki, o których mowa w ust. 1 pkt 1–3;
 - **2)** ukończyła kurs na wychowawcę wypoczynku.
 
-3. Warunek, o którym mowa w ust. 1 pkt 3, nie dotyczy instruktorów harcerskich w stopniu co najmniej przewodnika lub równoważnym nadanym w organizacji harcerskiej funkcjonującej w Rzeczypospolitej Polskiej albo w stopniu równoważnym nadanym w organizacji harcerskiej funkcjonującej w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, pełniących funkcję kierownika wypoczynku lub wychowawcy wypoczynku w formach wypoczynku organizowanych przez organizacje harcerskie.
+3. Warunek, o którym mowa w ust. 1 pkt 3, nie dotyczy instruktorów harcerskich w stopniu co najmniej przewodnika lub równoważnym nadanym w organizacji harcerskiej funkcjonującej w Rzeczypospolitej Polskiej albo w stopniu równoważnym nadanym w organizacji harcerskiej funkcjonującej w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, pełniących funkcję kierownika wypoczynku lub wychowawcy wypoczynku w formach wypoczynku organizowanych przez organizacje harcerskie.
 
-4. Warunek, o którym mowa w ust. 1 pkt 4, nie dotyczy osób zajmujących stanowiska kierownicze w szkołach lub placówkach oraz instruktorów harcerskich w stopniu co najmniej podharcmistrza lub równoważnym nadanym w organizacji harcerskiej funkcjonującej w Rzeczypospolitej Polskiej albo w stopniu równoważnym nadanym w organizacji harcerskiej funkcjonującej w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
+4. Warunek, o którym mowa w ust. 1 pkt 4, nie dotyczy osób zajmujących stanowiska kierownicze w szkołach lub placówkach oraz instruktorów harcerskich w stopniu co najmniej podharcmistrza lub równoważnym nadanym w organizacji harcerskiej funkcjonującej w Rzeczypospolitej Polskiej albo w stopniu równoważnym nadanym w organizacji harcerskiej funkcjonującej w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
 
-5. Warunek, o którym mowa w ust. 1 pkt 5, nie dotyczy nauczycieli oraz instruktorów harcerskich w stopniu co najmniej podharcmistrza lub równoważnym nadanym w organizacji harcerskiej funkcjonującej w Rzeczypospolitej Polskiej albo w stopniu równoważnym nadanym w organizacji harcerskiej funkcjonującej w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
+5. Warunek, o którym mowa w ust. 1 pkt 5, nie dotyczy nauczycieli oraz instruktorów harcerskich w stopniu co najmniej podharcmistrza lub równoważnym nadanym w organizacji harcerskiej funkcjonującej w Rzeczypospolitej Polskiej albo w stopniu równoważnym nadanym w organizacji harcerskiej funkcjonującej w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
 
-6. Warunek, o którym mowa w ust. 2 pkt 2, nie dotyczy nauczycieli, osób pracujących z dziećmi w placówkach wsparcia dziennego lub placówkach opiekuńczo-wychowawczych, które posiadają wykształcenie określone w art. 26 ust. 1 pkt 1 lit. a lub w art. 98 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49), oraz instruktorów harcerskich w stopniu co najmniej przewodnika lub równoważnym nadanym w organizacji harcerskiej funkcjonującej w Rzeczypospolitej Polskiej albo w stopniu równoważnym nadanym w organizacji harcerskiej funkcjonującej w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
+6. Warunek, o którym mowa w ust. 2 pkt 2, nie dotyczy nauczycieli, osób pracujących z dziećmi w placówkach wsparcia dziennego lub placówkach opiekuńczo-wychowawczych, które posiadają wykształcenie określone w art. 26 ust. 1 pkt 1 lit. a lub w art. 98 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49), oraz instruktorów harcerskich w stopniu co najmniej przewodnika lub równoważnym nadanym w organizacji harcerskiej funkcjonującej w Rzeczypospolitej Polskiej albo w stopniu równoważnym nadanym w organizacji harcerskiej funkcjonującej w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
 
 7. Równoważność stopnia, o którym mowa w ust. 3–6, stwierdza kurator oświaty właściwy ze względu na siedzibę lub miejsce zamieszkania organizatora wypoczynku, w drodze decyzji administracyjnej. Kurator oświaty może zasięgnąć opinii organizacji harcerskiej funkcjonującej w Rzeczypospolitej Polskiej lub zwrócić się do organizatora wypoczynku o przedstawienie dokumentów niezbędnych do ustalenia równoważności stopnia.
 
@@ -3139,20 +3071,15 @@ Art. 97–103. (pominięte)
 
 **Art. 93.**
 
-1. Wykształcenie średnie oraz uprawnienie do ubiegania się o przyjęcie na studia wyższe potwierdzają w Rzeczypospolitej Polskiej: Wykształcenie średnie potwierdzają w Rzeczypospolitej Polskiej:
+1. Wykształcenie średnie potwierdzają w Rzeczypospolitej Polskiej:
 
-- **1)** świadectwa i inne dokumenty wydane przez szkołę lub instytucję edukacyjną działającą w systemie edukacji państwa członkowskiego Unii Europejskiej, państwa członkowskiego Organizacji Współpracy Gospodarczej i Rozwoju (OECD), państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, uprawniające do ubiegania się o przyjęcie na studia wyższe w tych państwach;
-- **1)** świadectwa i inne dokumenty wydane przez szkołę lub instytucję edukacyjną działającą w systemie edukacji państwa członkowskiego Unii Europejskiej, państwa członkowskiego Organizacji Współpracy Gospodarczej i Rozwoju (OECD) lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym;
+- **1)** świadectwa i inne dokumenty wydane przez szkołę lub instytucję edukacyjną działającą w systemie edukacji państwa członkowskiego Unii Europejskiej, państwa członkowskiego Organizacji Współpracy Gospodarczej i Rozwoju (OECD) lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
 - **2)** dyplomy IB (International Baccalaureate) wydane przez organizację International Baccalaureate Organization w Genewie;
 - **3)** dyplomy EB (European Baccalaureate) wydane przez Szkoły Europejskie zgodnie z Konwencją o Statucie Szkół Europejskich, sporządzoną w Luksemburgu dnia 21 czerwca 1994 r. (Dz. U. z 2005 r. poz. 10 i 11).
 
 2. Świadectwa i inne dokumenty wydane za granicą przez szkoły lub instytucje edukacyjne uznawane przez państwo, na którego terytorium lub w którego systemie edukacji działają, uznaje się na zasadach przewidzianych w umowach międzynarodowych.
 
-3. Jeżeli umowy międzynarodowe nie stanowią inaczej, świadectwa i inne dokumenty wydane za granicą przez szkoły lub instytucje edukacyjne uznawane przez państwo, na którego terytorium lub w którego systemie edukacji działają, mogą być uznane w drodze decyzji administracyjnej za dokument potwierdzający w Rzeczypospolitej Polskiej wykształcenie podstawowe, gimnazjalne, zasadnicze zawodowe, zasadnicze branżowe, średnie branżowe lub średnie, lub uprawnienie do kontynuacji nauki, w tym uprawnienie do ubiegania się o przyjęcie na studia wyższe, z uwzględnieniem zakresu uprawnień w państwie wydania świadectwa lub innego dokumentu.
-
 3. Jeżeli umowy międzynarodowe nie stanowią inaczej, świadectwa i inne dokumenty wydane za granicą przez szkoły lub instytucje edukacyjne uznawane przez państwo, na którego terytorium lub w którego systemie edukacji działają, mogą być uznane w drodze decyzji administracyjnej za dokument potwierdzający w Rzeczypospolitej Polskiej wykształcenie podstawowe, gimnazjalne, zasadnicze zawodowe, zasadnicze branżowe, średnie branżowe lub średnie, lub uprawnienie do kontynuacji nauki, z wyłączeniem uprawnienia do ubiegania się o przyjęcie na studia pierwszego stopnia lub jednolite studia magisterskie, z uwzględnieniem zakresu uprawnień w państwie wydania świadectwa lub innego dokumentu.
-
-4. Jeżeli dane świadectwo lub inny dokument, o którym mowa w ust. 1 pkt 1 albo w ust. 3, uprawnia do ubiegania się o przyjęcie na studia na określonym kierunku w państwie jego wydania, świadectwo to lub dokument potwierdza w Rzeczypospolitej Polskiej uprawnienie do ubiegania się o przyjęcie na studia takie same lub podobne ze względu na program studiów albo może być uznane za dokument potwierdzający w Rzeczypospolitej Polskiej uprawnienie do ubiegania się o przyjęcie na studia takie same lub podobne ze względu na program studiów.
 
 4. (uchylony)
 
@@ -3160,22 +3087,18 @@ Art. 97–103. (pominięte)
 
 **Art. 93b.**
 
-1. W sprawach o uznanie świadectwa lub innego dokumentu, o których mowa w art. 93 ust. 3, albo o potwierdzenie wykształcenia lub uprawnień do kontynuacji nauki, o których mowa w art. 93a, właściwy jest kurator oświaty ze względu na miejsce zamieszkania osoby ubiegającej się, zwanej dalej „wnioskodawcą”, a w przypadku braku miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej kurator oświaty właściwy ze względu na siedzibę instytucji, w której wnioskodawca zamierza złożyć świadectwo lub inny dokument wydany za granicą.
-
-2. Jeżeli stroną postępowania jest wnioskodawca, o którym mowa w art. 93a pkt 1, decyzję administracyjną wydaje kurator oświaty właściwy dla województwa mazowieckiego.
+1. W sprawach o uznanie świadectwa lub innego dokumentu, o których mowa w art. 93 ust. 3, albo o potwierdzenie wykształcenia lub uprawnień do kontynuacji nauki, o których mowa w art. 93a, właściwy jest kurator oświaty ze względu na miejsce zamieszkania osoby ubiegającej się, zwanej dalej „wnioskodawcą”, a w przypadku braku miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – kurator oświaty właściwy ze względu na siedzibę instytucji, w której wnioskodawca zamierza złożyć świadectwo lub inny dokument wydany za granicą.
 
 2. (uchylony)
 
 **Art. 93c.**
-
-1. W postępowaniu w sprawie uznania świadectwa lub innego dokumentu, o którym mowa w art. 93 ust. 3, oraz w postępowaniu w sprawie potwierdzenia wykształcenia lub uprawnień do kontynuacji nauki, o którym mowa w art. 93a, kurator oświaty dokonuje porównania przebiegu kształcenia za granicą z kształceniem w Rzeczypospolitej Polskiej prowadzonym w szkołach publicznych, uwzględniając treści kształcenia, standardy wymagań i oceniania, zakładane efekty uczenia się lub planowy czas nauki oraz uprawnienie do kontynuacji nauki na określonym poziomie odpowiednio w państwie wydania świadectwa lub innego dokumentu albo w państwie uzyskania wykształcenia lub uprawnień do kontynuacji nauki. Przepis art. 93 ust. 4 stosuje się odpowiednio.
 
 1. W postępowaniu w sprawie uznania świadectwa lub innego dokumentu, o którym mowa w art. 93 ust. 3, oraz w postępowaniu w sprawie potwierdzenia wykształcenia lub uprawnień do kontynuacji nauki, o którym mowa w art. 93a, kurator oświaty dokonuje porównania przebiegu kształcenia za granicą z kształceniem w Rzeczypospolitej Polskiej prowadzonym w szkołach publicznych, uwzględniając treści kształcenia, standardy wymagań i oceniania, zakładane efekty uczenia się lub planowy czas nauki oraz uprawnienie do kontynuacji nauki na określonym poziomie odpowiednio w państwie wydania świadectwa lub innego dokumentu albo w państwie uzyskania wykształcenia lub uprawnień do kontynuacji nauki.
 
 2. W przypadku wątpliwości dotyczących:
 
 - **1)** przebiegu kształcenia w systemie edukacji państwa wydania świadectwa lub innego dokumentu, o którym mowa w art. 93 ust. 3, albo uzyskania wykształcenia lub uprawnień do kontynuacji nauki, o których mowa w art. 93a,
-- **2)** statusu szkoły lub instytucji edukacyjnej działającej w państwie wydania świadectwa lub innego dokumentu, o którym mowa w art. 93 ust. 3, albo uzyskania wykształcenia lub uprawnień do kontynuacji nauki, o których mowa w art. 93a kurator oświaty może zwrócić się o informację w szczególności do jednostki organizacyjnej pełniącej w Rzeczypospolitej Polskiej funkcję Krajowego Ośrodka Informacji Sieci ENIC, o której mowa w Konwencji o uznaniu kwalifikacji związanych z uzyskaniem wyższego wykształcenia w Regionie Europejskim, sporządzonej w Lizbonie dnia 11 kwietnia 1997 r. (Dz. U. z 2004 r. poz. 2339 i 2340), placówki konsularnej w Rzeczypospolitej Polskiej odpowiednio państwa wydania świadectwa lub innego dokumentu albo państwa uzyskania wykształcenia lub uprawnień do kontynuacji nauki, lub placówki konsularnej Rzeczypospolitej Polskiej, której kompetencje terytorialne dotyczą odpowiednio państwa wydania świadectwa lub innego dokumentu albo państwa uzyskania wykształcenia lub uprawnień do kontynuacji nauki. kurator oświaty może zwrócić się o informację do innego podmiotu, w szczególności do placówki konsularnej w Rzeczypospolitej Polskiej odpowiednio państwa wydania świadectwa lub innego dokumentu albo państwa uzyskania wykształcenia lub uprawnień do kontynuacji nauki, lub placówki konsularnej Rzeczypospolitej Polskiej, której kompetencje terytorialne dotyczą odpowiednio państwa wydania świadectwa lub innego dokumentu albo państwa uzyskania wykształcenia lub uprawnień do kontynuacji nauki.
+- **2)** statusu szkoły lub instytucji edukacyjnej działającej w państwie wydania świadectwa lub innego dokumentu, o którym mowa w art. 93 ust. 3, albo uzyskania wykształcenia lub uprawnień do kontynuacji nauki, o których mowa w art. 93a – kurator oświaty może zwrócić się o informację do innego podmiotu, w szczególności do placówki konsularnej w Rzeczypospolitej Polskiej odpowiednio państwa wydania świadectwa lub innego dokumentu albo państwa uzyskania wykształcenia lub uprawnień do kontynuacji nauki, lub placówki konsularnej Rzeczypospolitej Polskiej, której kompetencje terytorialne dotyczą odpowiednio państwa wydania świadectwa lub innego dokumentu albo państwa uzyskania wykształcenia lub uprawnień do kontynuacji nauki.
 
 **Art. 93d.**
 
@@ -3189,16 +3112,12 @@ Art. 97–103. (pominięte)
 
 1. Rozmowę sprawdzającą przeprowadza komisja powołana przez kuratora oświaty.
 
-2. Jeżeli przemawia za tym ważny interes wnioskodawcy, o którym mowa w art. 93a pkt 1, kurator oświaty właściwy dla województwa mazowieckiego może powołać komisję przy kuratorze oświaty właściwym ze względu na miejsce zamieszkania wnioskodawcy.
-
 2. (uchylony)
 
 3. W skład komisji wchodzą:
 
-- **1)** kurator oświaty lub wskazany przez niego pracownik kuratorium oświaty jako przewodniczący;
-- **2)** nauczyciele uczący przedmiotów objętych rozmową sprawdzającą na poziomie kształcenia prowadzącym do uzyskania wykształcenia lub uprawnień do kontynuacji nauki, o którego odpowiednio uznanie albo potwierdzenie ubiega się wnioskodawca jako członkowie komisji.
-
-4. W przypadku, o którym mowa w ust. 2, kurator oświaty może powołać członków komisji spośród kandydatów przedstawionych przez kuratora oświaty właściwego ze względu na miejsce zamieszkania wnioskodawcy, o którym mowa w art. 93a pkt 1.
+- **1)** kurator oświaty lub wskazany przez niego pracownik kuratorium oświaty – jako przewodniczący;
+- **2)** nauczyciele uczący przedmiotów objętych rozmową sprawdzającą na poziomie kształcenia prowadzącym do uzyskania wykształcenia lub uprawnień do kontynuacji nauki, o którego odpowiednio uznanie albo potwierdzenie ubiega się wnioskodawca – jako członkowie komisji.
 
 4. (uchylony)
 
@@ -3247,7 +3166,7 @@ Art. 97–103. (pominięte)
 5. Udział w badaniach edukacyjnych służących realizacji przez Instytut Badań Edukacyjnych w Warszawie zadań, o których mowa w ust. 1, jest:
 
 - **1)** obowiązkowy dla przedszkoli, innych form wychowania przedszkolnego, szkół i placówek;
-- **2)** dobrowolny dla dzieci objętych wychowaniem przedszkolnym, uczniów i nauczycieli, z tym że w przypadku dzieci objętych wychowaniem przedszkolnym i niepełnoletnich uczniów udział ten wymaga zgody ich rodziców.
+- **2)** dobrowolny dla dzieci objętych wychowaniem przedszkolnym, uczniów i nauczycieli, z tym że w przypadku dzieci objętych wychowaniem przedszkolnym i niepełnoletnich uczniów – udział ten wymaga zgody ich rodziców.
 
 6. Przedszkola, inne formy wychowania przedszkolnego, szkoły i placówki przekazują na potrzeby realizacji przez Instytut Badań Edukacyjnych w Warszawie zadań, o których mowa w ust. 1, dane osobowe dziecka objętego wychowaniem przedszkolnym, ucznia lub nauczyciela, o których mowa w ust. 7.
 
@@ -3257,7 +3176,7 @@ Art. 97–103. (pominięte)
     - **a)** imię i nazwisko,
     - **b)** datę urodzenia,
     - **c)** płeć,
-    - **d)** numer PESEL, a w przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
+    - **d)** numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
     - **e)** oddział, do którego dziecko uczęszcza,
     - **f)** klasę, semestr lub oddział, do którego uczeń uczęszcza, oraz łączną liczbę lat nauki,
     - **g)** kraj pochodzenia,
@@ -3267,14 +3186,14 @@ Art. 97–103. (pominięte)
     - **a)** imię i nazwisko,
     - **b)** datę urodzenia,
     - **c)** płeć,
-    - **d)** numer PESEL, a w przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
+    - **d)** numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
     - **e)** informacje o realizowanych przez nauczyciela zajęciach dydaktycznych, wychowawczych i opiekuńczych, prowadzonych bezpośrednio z dziećmi lub uczniami albo na ich rzecz w odniesieniu do poszczególnych oddziałów przedszkolnych i szkolnych, innych zajęciach i czynnościach wynikających z zadań statutowych przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki, w tym zajęciach opiekuńczych i wychowawczych uwzględniających potrzeby i zainteresowania dzieci i uczniów, a także zajęciach i czynnościach związanych z przygotowaniem się do zajęć, samokształceniem i doskonaleniem zawodowym,
     - **f)** wykształcenie, przygotowanie pedagogiczne i posiadane kwalifikacje do nauczania,
     - **g)** kraj pochodzenia.
 
-8. Dane, o których mowa w ust. 7 pkt 1 lit. a i d–h oraz pkt 2 lit. a i d–g, nie są przekazywane przez przedszkola, inne formy wychowania przedszkolnego, szkoły lub placówki Instytutowi Badań Edukacyjnych w Warszawie, jeżeli odpowiednio uczeń lub nauczyciel, a w przypadku dzieci objętych wychowaniem przedszkolnym i niepełnoletnich uczniów ich rodzice, nie wyrazili zgody na udział w badaniu edukacyjnym albo ich udział w badaniu edukacyjnym nie był możliwy. W takim przypadku przedszkola, inne formy wychowania przedszkolnego, szkoły lub placówki przekazują Instytutowi Badań Edukacyjnych w Warszawie informację o odmowie lub braku możliwości wzięcia udziału w badaniu edukacyjnym wraz z danymi, o których mowa w ust. 7 pkt 1 lit. b i c oraz pkt 2 lit. b i c.
+8. Dane, o których mowa w ust. 7 pkt 1 lit. a i d–h oraz pkt 2 lit. a i d–g, nie są przekazywane przez przedszkola, inne formy wychowania przedszkolnego, szkoły lub placówki Instytutowi Badań Edukacyjnych w Warszawie, jeżeli odpowiednio uczeń lub nauczyciel, a w przypadku dzieci objętych wychowaniem przedszkolnym i niepełnoletnich uczniów – ich rodzice, nie wyrazili zgody na udział w badaniu edukacyjnym albo ich udział w badaniu edukacyjnym nie był możliwy. W takim przypadku przedszkola, inne formy wychowania przedszkolnego, szkoły lub placówki przekazują Instytutowi Badań Edukacyjnych w Warszawie informację o odmowie lub braku możliwości wzięcia udziału w badaniu edukacyjnym wraz z danymi, o których mowa w ust. 7 pkt 1 lit. b i c oraz pkt 2 lit. b i c.
 
-9. Instytut Badań Edukacyjnych w Warszawie może pozyskiwać od przedszkoli, innych form wychowania przedszkolnego, szkół lub placówek, dzieci objętych wychowaniem przedszkolnym, uczniów lub nauczycieli i przetwarzać dane osobowe dzieci objętych wychowaniem przedszkolnym, uczniów i nauczycieli, inne niż wymienione w ust. 7, po wyrażeniu zgody przez ucznia, nauczyciela, a w przypadku dzieci objętych wychowaniem przedszkolnym i niepełnoletnich uczniów po wyrażeniu zgody przez ich rodziców, jeżeli jest to niezbędne do realizacji zadań, o których mowa w ust. 1.
+9. Instytut Badań Edukacyjnych w Warszawie może pozyskiwać od przedszkoli, innych form wychowania przedszkolnego, szkół lub placówek, dzieci objętych wychowaniem przedszkolnym, uczniów lub nauczycieli i przetwarzać dane osobowe dzieci objętych wychowaniem przedszkolnym, uczniów i nauczycieli, inne niż wymienione w ust. 7, po wyrażeniu zgody przez ucznia, nauczyciela, a w przypadku dzieci objętych wychowaniem przedszkolnym i niepełnoletnich uczniów – po wyrażeniu zgody przez ich rodziców, jeżeli jest to niezbędne do realizacji zadań, o których mowa w ust. 1.
 
 10. Administratorem danych przetwarzanych w celu realizacji zadań, o których mowa w ust. 1, jest Instytut Badań Edukacyjnych w Warszawie.
 
@@ -3298,7 +3217,9 @@ Art. 97–103. (pominięte)
 
 2. Tej samej karze podlega, kto nie dopełnia obowiązku informowania kuratora oświaty o zmianach okoliczności objętych zgłoszeniem wypoczynku, o których mowa w art. 92d ust. 3 pkt 2 lit. b i c oraz pkt 5.
 
-3. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620 i 621).
+3. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620 i
+
+- **621)** .
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
 

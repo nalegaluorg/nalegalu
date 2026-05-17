@@ -8,6 +8,7 @@ pos: 59
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # Kodeks rodzinny i opiekuńczy Tytuł I Małżeństwo
@@ -485,7 +486,9 @@ domain: null
 
 § 2. Z chwilą zniesienia separacji ustają jej skutki.
 
-§ 3. Znosząc separację, sąd rozstrzyga o władzy rodzicielskiej nad wspólnym małoletnim dzieckiem małżonków. Tytuł II Pokrewieństwo i powinowactwo
+§ 3. Znosząc separację, sąd rozstrzyga o władzy rodzicielskiej nad wspólnym małoletnim dzieckiem małżonków.
+
+## Tytuł II Pokrewieństwo i powinowactwo
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1221,7 +1224,9 @@ domain: null
 
 § 3. Do obowiązku świadczeń przewidzianego w poprzedzających paragrafach stosuje się odpowiednio przepisy o obowiązku alimentacyjnym między krewnymi.
 
-**Art. 144¹.** Zobowiązany może uchylić się od wykonania obowiązku alimentacyjnego względem uprawnionego, jeżeli żądanie alimentów jest sprzeczne z zasadami współżycia społecznego. Nie dotyczy to obowiązku rodziców względem ich małoletniego dziecka. Tytuł III Opieka i kuratela
+**Art. 144¹.** Zobowiązany może uchylić się od wykonania obowiązku alimentacyjnego względem uprawnionego, jeżeli żądanie alimentów jest sprzeczne z zasadami współżycia społecznego. Nie dotyczy to obowiązku rodziców względem ich małoletniego dziecka.
+
+## Tytuł III Opieka i kuratela
 
 ### DZIAŁ I Opieka nad małoletnim
 

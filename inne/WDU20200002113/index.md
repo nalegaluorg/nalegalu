@@ -8,9 +8,12 @@ pos: 2113
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 listopada 2020 r.
+# o zmianie ustawy o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19
+
+*USTAWA z dnia 28 października 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2113/text.pdf) |
 
-Poz. 2113
-USTAWA z dnia 28 października 2020 r.
-o zmianie ustawy o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19
-
 **Art. 1.** W ustawie z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112):
 
 **Art. 4h.**
@@ -38,5 +37,5 @@ o zmianie ustawy o zmianie niektórych ustaw w związku z przeciwdziałaniem syt
 
 - **2)** uchyla się art. 22.
 
-**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

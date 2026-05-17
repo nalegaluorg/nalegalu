@@ -8,9 +8,12 @@ pos: 1280
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# realizując postanowienia Konstytucji Rzeczypo- kom zamieszkałym za granicą zachowaniu ich spolitej Polskiej zakresie udzielania pomocy Pola- związków narodowym dziedzictwem kulturalnym,
+# o Karcie Polaka realizując postanowienia Konstytucji Rzeczypospolitej Polskiej zakresie udzielania pomocy Polakom zamieszkałym za granicą zachowaniu ich związków z narodowym dziedzictwem kulturalnym, wypełniając moralny obowiązek wobec Polaków, którzy na skutek zmiennych losów naszej Ojczyzny utracili obywatelstwo polskie, spełniając oczekiwania tych, którzy polskimi obywatelami nigdy wcześniej nie byli, lecz ze względu na swoje poczucie tożsamości narodowej pragną uzyskać potwierdzenie przynależności do Narodu Polskiego, celu wzmocnienia więzi łączących Polaków z Macierzą oraz wspierając ich starania o zachowanie języka polskiego oraz kultywowanie tradycji narodowej, postanawia się, co następuje:
+
+*USTAWA z dnia 7 września 2007 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,205 +27,356 @@ domain: null
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071801280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1280/text.pdf) |
 
-USTAWA dnia 7 września 2007 o Karcie ——————— potwierdzenie przynależności do Narodu Polskiego, celu wzmocnienia więzi łączących Polaków Wschodzie Macierzą wspierając ich starania ozachowanie języka polskiego kultywowanie tradycji narodowej, postanawia się, co następuje:
-Rejestry ewidencje 2002 215, 1823 2004 173,
-1808) po art. 25 dodaje się art. 25a brzmieniu:
+Art. 25–29. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa określa uprawnienia osoby, której przyznano Kartę Polaka, zwanej dalej Ńposiadaczem Karty Polaka”, zasady przyznawania, utraty ważności unieważniania Karty właściwość tryb postępowania organów tych sprawach.
+**Art. 1.** Ustawa określa uprawnienia osoby, której przyznano Kartę Polaka, zwanej dalej „posiadaczem Karty Polaka”, zasady przyznawania, utraty ważności i unieważniania Karty Polaka oraz właściwość i tryb postępowania organów tych sprawach.
 
 **Art. 2.**
 
-1. Karta może być przyznana osobie, która deklaruje przynależność do Narodu Polskiego spełni łącznie następujące warunki:
+1. Karta Polaka może być przyznana osobie, która deklaruje przynależność do Narodu Polskiego i spełni łącznie następujące warunki:
 
-- **1)** wykaże swój związek polskością przez przynajmniej podstawową znajomość języka polskiego, który uważa za język ojczysty, znajomość kultywowanie polskich tradycji zwyczajów;
-- **2)** obecności konsula Rzeczypospolitej Polskiej, zwanego dalej Ńkonsulem”, lub upoważnionego pracownika organizacji, o której mowa art. 15 ust. 1, złoży pisemną deklarację przynależności do Narodu Polskiego;
-- **3)** wykaże, że co najmniej jedno jej rodziców lub dziadków albo dwoje pradziadków było narodowości polskiej lub posiadało obywatelstwo polskie, albo przedstawi zaświadczenie organizacji polskiej lub polonijnej działającej terenie jednego zpaństw, októrych mowa wust. 2, potwierdzające aktywne zaangażowanie działalność rzecz języka kultury polskiej lub polskiej mniejszości narodowej przez okres co najmniej ostatnich trzech lat.
+- **1)** wykaże swój związek z polskością przez przynajmniej podstawową znajomość języka polskiego, który uważa za język ojczysty, oraz znajomość i kultywowanie polskich tradycji i zwyczajów; przypadku, o którym mowa art. 12 ust. 4 – wojewody, albo wyznaczonego przez niego pracownika, złoży pisemną deklarację przynależności do Narodu Polskiego;
+- **3)** wykaże, że jest narodowości polskiej lub co najmniej jedno z jej rodziców lub dziadków albo dwoje pradziadków było narodowości polskiej, albo przedstawi zaświadczenie organizacji polskiej lub polonijnej potwierdzające aktywne zaangażowanie działalność na rzecz języka i kultury polskiej lub polskiej mniejszości narodowej przez okres co najmniej ostatnich trzech lat;
+- **4)** złoży oświadczenie, że ona lub jej wstępni nie repatriowali się lub nie zostali repatriowani z terytorium Rzeczypospolitej Polskiej albo Polskiej Rzeczypospolitej Ludowej, na podstawie umów repatriacyjnych zawartych latach 1944–1957 przez Rzeczpospolitą Polską albo przez Polską Rzeczpospolitą Ludową z Białoruską Socjalistyczną Republiką Radziecką, Ukraińską Socjalistyczną Republiką Radziecką, Litewską Socjalistyczną Republiką Radziecką i Związkiem Socjalistycznych Republik Radzieckich, do jednego z państw będących stroną tych umów.
 
-2. Karta może być przyznana wyłącznie osobie posiadającej dniu złożenia wniosku o wydanie Karty obywatelstwo Republiki Armenii, Republiki Azerbejdżańskiej, Republiki Białoruś, Republiki poz.818).
+2. Karta Polaka może być przyznana osobie:
 
-4. Karta może być przyznana wyłącznie osobie nieposiadającej obywatelstwa polskiego albo zezwolenia osiedlenie się terytorium Rzeczypospolitej Polskiej.
+- **1)** nieposiadającej dniu złożenia wniosku o wydanie Karty Polaka oraz dniu przyznania Karty Polaka obywatelstwa polskiego lub
+- **2)** nieposiadającej zezwolenia na pobyt stały na terytorium Rzeczypospolitej Polskiej, lub
+- **3)** posiadającej status bezpaństwowca.
+
+3. Karta Polaka może być także przyznana osobie, której polskie pochodzenie zostało stwierdzone zgodnie z przepisami ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2022 r. poz. 1105 oraz z 2025 r. poz. 620, 921 i 1794), pod warunkiem wykazania się znajomością języka polskiego stopniu co najmniej podstawowym. Przepisy art. 13 ust. 7 i 8 stosuje się odpowiednio.
+
+4. (uchylony)
 
 **Art. 3.**
 
-1. Karta jest dokumentem potwierdzającym przynależność do Narodu Polskiego.
+1. Karta Polaka jest dokumentem potwierdzającym przynależność do Narodu Polskiego.
 
-2. Karta poświadcza uprawnienia wynikające niniejszej ustawy.
+2. Karta Polaka poświadcza uprawnienia wynikające z niniejszej ustawy. przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), jeżeli niniejsza ustawa nie stanowi inaczej.
 
-**Art. 4.**
+2. Do postępowań sprawach należących do właściwości konsulów stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171).
 
-1. Do postępowań sprawach uregulowanych ustawie stosuje się przepisy ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. 2000 98, 1071, póên. zm. ), jeżeli niniejsza ustawa nie stanowi inaczej.
+#### Rozdział 2 Uprawnienia posiadacza Karty Polaka
 
-2. Do postępowań wsprawach należących do właściwości konsulów stosuje się przepisy ustawy dnia 13 lutego 1984 o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U. 2002 215, 1823 2004 173, 1808).
+**Art. 5.** Posiadacz Karty Polaka jest zwolniony z opłat konsularnych za przyjęcie i rozpatrzenie wniosku o wydanie wizy krajowej celu korzystania z uprawnień wynikających z posiadania Karty Polaka.
 
-#### Rozdział 2 Uprawnienia posiadacza Karty
-
-**Art. 5.**
-
-1. Posiadacz Karty może ubiegać się ozwolnienie zopłaty za wydanie wizy pobytowej długoterminowej uprawniającej do wielokrotnego wjazdu terytorium Rzeczypospolitej Polskiej lub refundację tej opłaty.
-
-2. Refundacja, októrej mowa wust. 1, jest finansowana zbudżetu państwa zczęści, której dysponentem jest minister właściwy do spraw zagranicznych.
-
-3. Refundacja, októrej mowa wust. 1, jest dokonywana za pośrednictwem właściwego konsula.
+**Art. 5a.** Posiadacz Karty Polaka jest zwolniony z opłat konsularnych za przyjęcie wniosku i opracowanie dokumentacji sprawie o nadanie obywatelstwa polskiego.
 
 **Art. 6.**
 
-1. Posiadacz Karty ma prawo do:
+1. Posiadacz Karty Polaka ma prawo do:
 
-- **1)** zwolnienia obowiązku posiadania zezwolenia pracę zasadach określonych ustawie dnia 20 kwietnia 2004 opromocji zatrudnienia iinsty——————— czej (Dz. U. 2007 155, 1095);
-- **3)** podejmowania odbywania studiów, studiów doktoranckich innych form kształcenia, atakże uczestniczenia badaniach naukowych pracach rozwojowych zasadach określonych wustawie zdnia 27 lipca 2005 Prawo oszkolnictwie wyższym (Dz. U. 164, 1365, zpóên. zm. );
-- **4)** korzystania form kształcenia zasadach określonych ustawie dnia 7 września 1991 o systemie oświaty (Dz. U. 2004 256, 2572, póên. zm. );
-- **5)** korzystania ze świadczeń opieki zdrowotnej stanach nagłych, zakresie określonym ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, 2135, póên. zm. ), chyba że umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, przewiduje zasady bardziej korzystne;
-- **6)** ulgi 37 % przy przejazdach środkami publicznego transportu zbiorowego kolejowego pociągach osobowych, pospiesznych ekspresowych, podstawie biletów jednorazowych, zasadach określonych ustawie dnia 20 czerwca 1992 ouprawnieniach do ulgowych przejazdów środkatriacji, korzysta pierwszeństwa przy ubieganiu się o pomoc finansową udzielaną osobom fizycznym ze środków budżetu państwa lub budżetów samorządów terytorialnych przeznaczonych wspieranie Polaków za granicą.
+- **1)** wykonywania pracy na zasadach określonych ustawie z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621 i 1794);
+- **2)** podejmowania i wykonywania działalności gospodarczej na takich samych zasadach jak obywatele polscy na zasadach określonych ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) oraz ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794);
+- **3)** kształcenia szkole doktorskiej, podejmowania i odbywania studiów oraz innych form kształcenia, a także uczestniczenia działalności naukowej na zasadach określonych ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **4)** korzystania z form kształcenia na zasadach określonych ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837) poz. 881 i 1019);
+- **5)** korzystania ze świadczeń opieki zdrowotnej stanach nagłych, zakresie określonym ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26), chyba że umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, przewiduje zasady bardziej korzystne;
+- **6)** ulgi 37 % przy przejazdach środkami publicznego transportu zbiorowego kolejowego pociągach osobowych, pospiesznych i ekspresowych, na podstawie biletów jednorazowych, na zasadach określonych ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2024 r. poz. 380);
+- **7)** bezpłatnego wstępu do muzeów państwowych;
+- **8)** pomocy konsula, ramach jego kompetencji i z zastosowaniem i poszanowaniem zwyczajów i prawa międzynarodowego, sytuacji zagrożenia życia lub bezpieczeństwa.
 
-3. Posiadacz Karty podejmujący kształcenie, o którym mowa ust. 1 pkt 3, zachowuje prawo do ubiegania się ostypendia iinną pomoc przewidzianą dla cudzoziemców odrębnych przepisach.
+2. Posiadacz Karty Polaka lub osoba, której stwierdzono pochodzenie polskie zgodnie z ustawą o repatriacji, korzysta z pierwszeństwa przy ubieganiu się o pomoc finansową udzielaną osobom fizycznym ze środków budżetu państwa lub budżetów samorządów terytorialnych przeznaczonych na wspieranie Polaków za granicą.
 
-4. Przepis ust. 1 pkt 5 nie ma zastosowania do osób uprawnionych do świadczeń opieki zdrowotnej podstawie przepisów o koordynacji systemów zabezpieczenia społecznego.
+3. Posiadacz Karty Polaka podejmujący kształcenie, o którym mowa ust. 1 pkt 3, zachowuje prawo do ubiegania się o stypendia i inną pomoc przewidzianą dla cudzoziemców odrębnych przepisach.
+
+4. Przepis ust. 1 pkt 5 nie ma zastosowania do osób uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji systemów zabezpieczenia społecznego.
 
 **Art. 7.**
 
-1. Przyznanie Karty nie oznacza nabycia polskiego obywatelstwa ani stwierdzenia polskiego pochodzenia rozumieniu odrębnych przepisów.
+1. Przyznanie Karty Polaka nie oznacza nabycia polskiego obywatelstwa ani stwierdzenia polskiego pochodzenia rozumieniu odrębnych przepisów.
 
-2. Karta nie jest dokumentem uprawniającym do przekraczania granicy ani do osiedlenia się terytorium Rzeczypospolitej Polskiej.
+2. Karta Polaka nie jest dokumentem uprawniającym do przekraczania granicy ani do osiedlenia się na terytorium Rzeczypospolitej Polskiej.
 
-**Art. 8.** Koszty świadczeń opieki zdrowotnej, o których mowa art. 6 ust. 1 pkt 5, są finansowane budżetu państwa, zczęści, której dysponentem jest minister właściwy do spraw zdrowia, zasadach określo——————— nych ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+**Art. 8.** Koszty świadczeń opieki zdrowotnej, o których mowa art. 6 ust. 1 pkt 5, są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia, na zasadach określonych ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. Świadczenie pieniężne dla posiadaczy Karty Polaka osiedlających się Rzeczypospolitej Polskiej
 
-#### Rozdział 3 Rada do Spraw Polaków Wschodzie
+**Art. 8a.**
+
+1. Osobie, która złoży wniosek o udzielenie zezwolenia na pobyt stały z powołaniem się na okoliczność, o której mowa art. 195 ust. 1 pkt 9 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794), na jej wniosek, może być przyznane świadczenie pieniężne przeznaczone na częściowe pokrycie kosztów zagospodarowania i bieżącego utrzymania Rzeczypospolitej Polskiej, zwane dalej „świadczeniem pieniężnym”. Świadczenie pieniężne przyznaje się na okres do 9 miesięcy.
+
+2. Wniosek o przyznanie świadczenia pieniężnego składa się do wojewody, do którego został złożony wniosek o udzielenie zezwolenia na pobyt stały, o którym mowa ust. 1.
+
+3. Pierwszy wniosek o przyznanie świadczenia pieniężnego składa się terminie do 3 miesięcy od daty złożenia wniosku o udzielenie zezwolenia na pobyt stały, o którym mowa ust. 1. Pierwszy wniosek o przyznanie świadczenia pieniężnego złożony po upływie tego terminu pozostawia się bez rozpoznania.
+
+4. Kolejny wniosek o świadczenie pieniężne złożony przez osobę, której przyznano świadczenie pieniężne łącznym wymiarze 9 miesięcy, pozostawia się bez rozpoznania.
+
+**Art. 8b.**
+
+1. Świadczenie pieniężne przyznaje drodze decyzji wojewoda właściwy do przyjęcia wniosku o przyznanie świadczenia.
+
+2. Wypłaty świadczenia pieniężnego dokonuje okresach miesięcznych starosta wskazany przez wojewodę decyzji przyznającej świadczenie pieniężne jako właściwy ze względu na miejsce pobytu na terytorium Rzeczypospolitej Polskiej osoby uprawnionej do świadczenia pieniężnego.
+
+3. Zadanie starosty, o którym mowa ust. 2, jest zadaniem zleconym z zakresu administracji rządowej.
+
+4. Organem wyższego stopnia stosunku do wojewody rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego sprawach, o których mowa ust. 1, jest minister właściwy do spraw wewnętrznych.
+
+**Art. 8c.**
+
+1. Świadczenie pieniężne ustala się kwocie stanowiącej: wynagrodzenia za pracę, obowiązującego roku złożenia wniosku o przyznanie świadczenia pieniężnego – na wnioskodawcę i jego małżonka oraz równowartość 50 % tej kwoty na każde małoletnie dziecko pozostające pod władzą rodzicielską wnioskodawcy lub jego małżonka;
+
+- **2)** okresie od 4. do 9. miesiąca – odpowiednio 60 % kwot określonych pkt 1.
+
+2. Przy ustalaniu wysokości świadczenia pieniężnego uwzględnia się wyłącznie członków rodziny wnioskodawcy, określonych ust. 1 pkt 1, którzy przebywają razem z nim na terenie Rzeczypospolitej Polskiej.
+
+3. Świadczenia pieniężnego nie wlicza się do dochodu, o którym mowa art. 8 ust. 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302 oraz z 2026 r. poz. 26).
+
+4. Świadczenie pieniężne nie przysługuje osobie, która została objęta tym świadczeniem jako członek rodziny wnioskodawcy, a następnie złożyła wniosek o udzielenie zezwolenia na pobyt stały, o którym mowa art. 8a ust. 1.
+
+**Art. 8d.**
+
+1. W przypadku zmiany miejsca pobytu przez wnioskodawcę lub członków rodziny określonych art. 8c ust. 1 pkt 1 na inne znajdujące się na terytorium Rzeczypospolitej Polskiej, właściwy do wypłaty świadczenia pozostaje starosta wskazany przez wojewodę decyzji o przyznaniu świadczenia pieniężnego.
+
+2. W przypadku wydania decyzji o odmowie udzielenia zezwolenia na pobyt stały następuje z mocy prawa zawieszenie wypłaty świadczenia pieniężnego.
+
+3. W przypadku, gdy decyzja o odmowie udzielenia zezwolenia na pobyt stały stanie się ostateczna następuje z mocy prawa utrata świadczenia pieniężnego.
+
+**Art. 8e.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, wzór formularza wniosku o przyznanie świadczenia pieniężnego oraz sposób przyznawania pomocy, biorąc pod uwagę sprawność postępowania oraz możliwość kontroli zasadności przyznanych świadczeń pieniężnych.
+
+#### Rozdział 3 Rada do Spraw Polaków poza Granicami Kraju
 
 **Art. 9.**
 
-1. Tworzy się Radę do Spraw Polaków Wschodzie.
+1. (uchylony)
 
-2. Rada do Spraw Polaków Wschodzie, zwana dalej ŃRadą”, jest organem administracji publicznej rozpatrującym odwołania od decyzji, o których mowa art. 19 20.
+2. Rada do Spraw Polaków poza Granicami Kraju, zwana dalej „Radą”, jest organem administracji publicznej rozpatrującym odwołania od decyzji, o których mowa art. 12, art. 19 i art. 20. 1960 r. – Kodeks postępowania administracyjnego.
 
-3. Radzie przysługują uprawnienia organu wyższego stopnia rozumieniu Kodeksu postępowania administracyjnego.
+4. Rada jest także organem właściwym sprawach wznowienia postępowania, uchylenia, zmiany lub stwierdzenia nieważności wydanych przez siebie decyzji lub postanowień.
 
-- **1)** wewnętrzną organizację tryb pracy Rady, tym tryb podejmowania decyzji,
-- **2)** tryb wyboru, uprawnienia obowiązki przewodniczącego Rady,
-- **3)** wysokość wynagrodzenia przysługującego członkom Rady za udział pracach Rady sposób pokrywania pozostałych wydatków związanych pracami Rady,
-- **4)** zasady prowadzenia centralnego rejestru, o którym mowa art. 23 ust. 4 uwzględniając zakres zadań Rady konieczność ich sprawnego terminowego wykonywania.
+5. Minister właściwy do spraw zagranicznych określi, drodze rozporządzenia:
 
-6. Obsługę administracyjną kancelaryjną Rady zapewnia Kancelaria Prezesa Rady Ministrów.
+- **1)** wewnętrzną organizację i tryb pracy Rady, tym tryb podejmowania decyzji,
+- **2)** tryb wyboru, uprawnienia i obowiązki przewodniczącego Rady, wysokość wynagrodzenia przewodniczącego i członków Rady oraz sposób pokrywania pozostałych wydatków związanych z pracami Rady – uwzględniając zakres zadań Rady oraz konieczność ich sprawnego i terminowego wykonywania.
 
-7. Działalność Rady jest finansowana budżetu państwa, rozdziału dotyczącego Rady do Spraw Polaków Wschodzie, części dotyczącej Kancelarii Prezesa Rady Ministrów.
+6. Obsługę administracyjną i kancelaryjną Rady wykonuje urząd obsługujący ministra właściwego do spraw zagranicznych szczególności poprzez:
 
-8. Prezes Rady Ministrów określi, drodze rozporządzenia, warunki organizacyjne wykonywania obsługi Rady, uwzględniając charakter jej zadań.
+- **1)** zbieranie i opracowywanie materiałów sprawach należących do zakresu działania Rady;
+- **2)** prowadzenie rejestru odwołań od decyzji konsulów lub wojewodów sprawach odmowy przyznania oraz unieważnienia Karty Polaka;
+- **3)** wykonywanie innych czynności związanych z działalnością Rady, tym czynności technicznych i kancelaryjno--biurowych.
+
+7. Działalność Rady jest finansowana z budżetu państwa, z rozdziału dotyczącego Rady do Spraw Polaków poza Granicami Kraju, z części – Sprawy zagraniczne.
+
+8. (uchylony)
 
 **Art. 10.**
 
-1. W skład Rady wchodzi 6 członków powoływanych przez Prezesa Rady Ministrów pięcioletnią kadencję spośród osób wyróżniających się wiedzą doświadczeniem zakresu spraw dotyczących Polonii Polaków za granicą. Co najmniej połowa członków Rady powinna posiadać wyższe wykształcenie prawnicze.
+1. W skład Rady wchodzi 9 członków powoływanych przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw zagranicznych na pięcioletnią kadencję spośród osób wyróżniających się wiedzą i doświadczeniem z zakresu spraw dotyczących Polonii i Polaków za granicą. Co najmniej połowa członków Rady powinna posiadać wyższe wykształcenie prawnicze.
 
-2. Członkiem Rady może być osoba posiadająca obywatelstwo polskie korzystająca pełni praw publicznych niekarana za przestępstwo popełnione umyślnie, ścigane oskarżenia publicznego.
+2. Członkiem Rady może być osoba posiadająca obywatelstwo polskie i korzystająca z pełni praw publicznych oraz niekarana za przestępstwo popełnione umyślnie, ścigane z oskarżenia publicznego.
 
 **Art. 11.**
 
-1. Prezes Rady Ministrów może odwołać członka Rady przed upływem kadencji.
+1. Prezes Rady Ministrów na wniosek ministra właściwego do spraw zagranicznych może odwołać członka Rady przed upływem kadencji. skazania za przestępstwo popełnione umyślnie, ścigane z oskarżenia publicznego.
 
-2. Prezes Rady Ministrów odwołuje członka Rady przypadku prawomocnego skazania za przestępstwo popełnione umyślnie, ścigane oskarżenia publicznego. Ńwnioskodawcą”, lub jej przedstawiciela ustawowego.
+3. W przypadku odwołania członka Rady lub jego śmierci Prezes Rady Ministrów na wniosek ministra właściwego do spraw zagranicznych uzupełnia skład Rady powołując, na miejsce opróżnione, nowego członka Rady na okres do końca kadencji.
 
-2. Organem właściwym wsprawie przyznania Karty jest konsul właściwy ze względu miejsce zamieszkania wnioskodawcy.
+#### Rozdział 4 Przyznawanie i unieważnianie Karty Polaka
 
-3. Czynności wykonywane przez konsula związku ze złożeniem przez wnioskodawcę wniosku iwydaniem decyzji o przyznaniu Karty są wolne od opłat konsularnych.
+**Art. 12.**
+
+1. Przyznanie Karty Polaka i przedłużenie jej ważności następuje drodze decyzji, na pisemny wniosek, odpowiednio osoby ubiegającej się o jej wydanie albo przedłużenie, zwanej dalej „wnioskodawcą”, lub jej przedstawiciela ustawowego.
+
+2. Organem właściwym sprawie przyznania Karty Polaka lub przedłużenia jej ważności jest konsul właściwy ze względu na miejsce zamieszkania wnioskodawcy lub przypadku, o którym mowa ust. 4, wskazany wojewoda.
+
+3. Czynności wykonywane związku ze złożeniem przez wnioskodawcę wniosku o przyznanie Karty Polaka lub przedłużenie jej ważności oraz wydaniem decyzji tych sprawach są wolne od wszelkich opłat, tym opłat konsularnych.
+
+4. Rada Ministrów może, drodze rozporządzenia, wyznaczyć wojewodę jako organ właściwy zakresie przyjmowania wniosków o przyznanie lub przedłużenie ważności Karty Polaka oraz wydania decyzji tych sprawach, a także wskazać państwo pochodzenia osób mogących skorzystać z tej właściwości, biorąc pod uwagę konieczność zapewnienia szybkiego i sprawnego dostępu osób zainteresowanych otrzymaniem Karty Polaka.
 
 **Art. 13.**
 
-1. Wniosek o wydanie Karty zawiera następujące dane:
+1. Wniosek o przyznanie Karty Polaka lub przedłużenie jej ważności zawiera następujące dane:
 
-- **1)** imię nazwisko;
-- **2)** datę miejsce urodzenia;
+- **1)** imię i nazwisko;
+- **2)** datę i miejsce urodzenia;
 - **3)** płeć;
 - **4)** adres zamieszkania za granicą;
-- **5)** obywatelstwo;
+- **5)** obywatelstwo albo status bezpaństwowca;
 - **6)** narodowość;
-- **7)** obywatelstwo narodowość rodziców, dziadków lub pradziadków, jeżeli ich dane zostały wskazane przez osobę ubiegającą się o przyznanie Karty Polaka.
+- **7)** obywatelstwo i narodowość rodziców, dziadków lub pradziadków, jeżeli ich dane zostały wskazane przez osobę ubiegającą się o przyznanie Karty Polaka. potwierdzające spełnianie warunków, o których mowa art. 2 ust. 1 i 2.
 
-2. Wnioskodawca ma obowiązek przedstawić dokumenty iinne dowody potwierdzające spełnianie warunków, o których mowa art. 2 ust. 1 2.
-
-3. Dokumentami dowodami, o których mowa ust. 2, mogą być szczególności:
+3. Dokumentami i dowodami, o których mowa ust. 2, mogą być szczególności:
 
 - **1)** polskie dokumenty tożsamości;
-- **2)** akty stanu cywilnego lub ich odpisy, metryki chrztu, świadectwa szkolne lub inne dokumenty potwierdzające związek polskością;
+- **2)** akty stanu cywilnego lub ich odpisy, metryki chrztu, świadectwa szkolne lub inne dokumenty potwierdzające związek z polskością;
 - **3)** dokumenty potwierdzające odbycie służby wojskowej polskich formacjach wojskowych;
 - **4)** dokumenty potwierdzające fakt deportacji lub uwięzienia, zawierające wpis informujący o polskim pochodzeniu;
-- **5)** dokumenty orehabilitacji osoby deportowanej, zawierające wpis informujący o polskim pochodzeskiego pochodzenia, wydana zgodnie zprzepisami 2. Jeżeli najpóêniej 3 miesiące przed terminem ustawy o repatriacji. utraty ważności Karty jej posiadacz złoży wniosek o przedłużenie ważności, ważność Karty
+- **5)** dokumenty o rehabilitacji osoby deportowanej, zawierające wpis informujący o polskim pochodzeniu;
+- **6)** zagraniczne dowody tożsamości zawierające informacje na temat narodowości polskiej ich posiadacza;
+- **7)** zaświadczenie organizacji polskiej lub polonijnej potwierdzające aktywne zaangażowanie działalność na rzecz języka i kultury polskiej lub polskiej mniejszości narodowej;
+- **8)** prawomocna decyzja sprawie stwierdzenia polskiego pochodzenia, wydana zgodnie z przepisami ustawy o repatriacji;
+- **9)** Karta Polaka rodzica lub jednego z dziadków wnioskodawcy.
 
-4. Prezes Rady Ministrów ogłasza, drodze ob- jest przedłużana okres kolejnych 10 lat. wieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” wykaz organizacji pol- 3. Karta przyznana małoletniemu traci ważskich lub polonijnych uprawnionych do wystawiania ność po upływie roku od dnia uzyskania przez niego zaświadczeń, o których mowa ust. 3 pkt 7. pełnoletności.
+4. Minister właściwy do spraw zagranicznych ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wykaz organizacji polskich lub polonijnych uprawnionych do wystawiania zaświadczeń, o których mowa ust. 3 pkt 7.
 
-5. W przypadku osób, o których mowa art. 2 4. Jeżeli po uzyskaniu pełnoletności, najpóêniej ust. 3, właściwy organ wydaje decyzję o przyznaniu Karty podstawie decyzji, o której mowa 3 miesiące przed terminem, o którym mowa ust. 3, ust. 3 pkt 8. posiadacz złoży wniosek o przedłużenie ważności, ważność Karty jest przedłużana okres 10 lat.
+5. W przypadku osób, o których mowa art. 2 ust. 3, właściwy organ wydaje decyzję o przyznaniu Karty Polaka na podstawie decyzji, o której mowa ust. 3 pkt
 
-6. Wodniesieniu do wnioskodawcy szczególnie zasłużonego dla Rzeczypospolitej Polskiej konsul może wydać decyzję oprzyznaniu Karty bez konieczności przedstawiania przez wnioskodawcę dokumentów, o których mowa ust. 3.
+8.
 
-7. Oceny znajomości języka polskiego dokonuje, zastrzeżeniem art. 15 ust. 2, konsul podczas rozmowy wnioskodawcą.
+6. W odniesieniu do wnioskodawcy szczególnie zasłużonego dla Rzeczypospolitej Polskiej konsul lub przypadku, o którym mowa art. 12 ust. 4 – wojewoda, może wydać decyzję o przyznaniu Karty Polaka bez konieczności przedstawiania przez wnioskodawcę dokumentów, o których mowa ust. 3.
 
-**Art. 14.** Do wniosku o przyznanie Karty wnioskodawca dołącza kopię ważnego dokumentu potwierdzającego tożsamość.
+7. Wnioskodawca ubiegający się o przyznanie Karty Polaka wykazuje posiadanie znajomości języka polskiego przez przedłożenie poświadczenia, o którym mowa 1556 oraz z 2025 r. poz. 622 i 1564), świadectwa ukończenia szkoły lub studiów Rzeczypospolitej Polskiej lub świadectwa ukończenia szkoły za granicą z wykładowym językiem polskim.
 
-**Art. 15.**
+8. W odniesieniu do wnioskodawców, którzy nie wykazali posiadania znajomości języka polskiego trybie przewidzianym ust. 7, oceny znajomości języka polskiego dokonuje podczas rozmowy konsul, a przypadku, o którym mowa art. 12 ust. 4 – wojewoda.
 
-1. Prezes Rady Ministrów może określić, drodze rozporządzenia, wykaz organizacji pozarządowych posiadających osobowość prawną prowadzących działalność wzakresie pomocy osobom narodowości polskiej zamieszkałym terenie państw, o których mowa art. 2 ust. 2, uprawnionych do przyjmowania przekazywania właściwemu konsulowi wniosków o przyznanie Karty Polaka.
+**Art. 14.** Do wniosku o przyznanie Karty Polaka wnioskodawca dołącza kopię ważnego dokumentu potwierdzającego tożsamość.
 
-2. W przypadku składania wniosku za pośrednictwem organizacji, o której mowa ust. 1, oceny znajomości języka polskiego dokonuje upoważniony pracownik organizacji podczas rozmowy wnioskodawcą.
-
-3. Organizacja, o której mowa ust. 1, przekazuje niezwłocznie właściwemu konsulowi otrzymany wniosek wraz oceną znajomości języka polskiego wnioskodawcy.
+**Art. 15.** (uchylony)
 
 **Art. 16.**
 
-1. Małoletniemu przyznaje się Kartę Polaka wniosek rodziców, gdy:
+1. Małoletniemu przyznaje się Kartę Polaka na wniosek rodziców, gdy:
 
-5. Karta traci ważność chwilą nabycia obywatelstwa polskiego albo uzyskania zezwolenia osiedlenie się terytorium Rzeczypospolitej Polskiej.
+- **1)** oboje rodzice posiadają Kartę Polaka;
+- **2)** jeden z rodziców posiada Kartę Polaka – za zgodą drugiego z rodziców wyrażoną oświadczeniu złożonym przed konsulem lub notariuszem, a przypadku, o którym mowa art. 12 ust. 4 – wojewodą, chyba że drugiemu z rodziców nie przysługuje władza rodzicielska.
+
+2. Przyznanie Karty Polaka małoletniemu, który ukończył 16 lat, może nastąpić jedynie za jego zgodą.
+
+3. W przypadku śmierci jednego z rodziców, który spełniał warunki, o których mowa art. 2 ust. 1 pkt 3, części dotyczącej polskiej narodowości, Karta Polaka może być przyznana małoletniemu na wniosek żyjącego rodzica przypadku wykazania, że małoletni spełnia warunki określone art. 2 ust. 1 pkt 3, części dotyczącej polskiej narodowości. W przypadku śmierci obojga rodziców, z których przynajmniej jeden spełniał warunki, o których mowa art. 2 ust. 1 pkt 3, części dotyczącej polskiej narodowości, Karta Polaka może zostać przyznana małoletniemu na wniosek przedstawiciela ustawowego przypadku wykazania, że małoletni spełnia warunki określone art. 2 ust. 1 pkt 3, części dotyczącej polskiej narodowości.
+
+4. Jeżeli rodzic małoletniego posiadał Kartę Polaka, ale utraciła ona ważność z powodu uzyskania pozwolenia na pobyt stały, przepis ust. 1 stosuje się tak, jakby rodzic posiadał kartę.
+
+5. Wniosek o wydanie Karty Polaka małoletniemu może być dołączony do wniosku o wydanie Karty Polaka rodzicowi, przy czym wszczęcie postępowania o rodzicowi. Przepisy ust. 1–4 stosuje się odpowiednio.
+
+**Art. 17.**
+
+1. Karta Polaka jest ważna przez okres 10 lat od dnia jej przyznania, z zastrzeżeniem ust. 2a i 3.
+
+2. Jeżeli posiadacz Karty Polaka złoży wniosek o przedłużenie jej ważności, ważność Karty Polaka jest przedłużana na okres kolejnych 10 lat. Wniosek może zostać złożony nie wcześniej niż 6 miesięcy przed upływem terminu jej ważności.
+
+2a. Karta Polaka przyznana osobie, która ukończyła 65 lat, jest ważna na czas nieoznaczony.
+
+3. Karta Polaka przyznana małoletniemu jest ważna przez okres 10 lat od dnia jej przyznania, jednak nie dłużej niż do dnia, którym upływa rok od dnia uzyskania przez niego pełnoletności.
+
+4. Jeżeli po osiągnięciu pełnoletności, najpóźniej na 3 miesiące przed terminem, o którym mowa ust. 3, posiadacz Karty Polaka złoży wniosek o przedłużenie jej ważności oraz podpisze deklarację przynależności do Narodu Polskiego, o której mowa art. 2 ust. 1 pkt 2, ważność Karty Polaka jest przedłużana na okres kolejnych 10 lat.
+
+5. (uchylony)
+
+6. Jeżeli okresie ważności Karty Polaka nastąpiła zmiana danych jej posiadacza uwidocznionych tej Karcie, na wniosek posiadacza lub jego przedstawiciela ustawowego, na podstawie przedłożonych dokumentów stanu cywilnego, właściwy konsul, a przypadku, o którym mowa art. 12 ust. 4 – wojewoda, wydaje Kartę Polaka z uwzględnieniem zmienionych danych.
+
+7. Nowa Karta Polaka wydawana związku ze zmianą danych lub duplikat Karty Polaka wydawane są na okres 10 lat; przepisy ust. 2a i 3 stosuje się odpowiednio.
 
 **Art. 18.**
 
-1. Kartę osobie, której ją przyznano, wydaje konsul.
+1. Kartę Polaka osobie, której ją przyznano, wydaje konsul a przypadku, o którym mowa art. 12 ust. 4 – wojewoda, albo inna wyznaczona przez niego osoba.
 
-2. Kartę wręcza konsul lub inna upoważnioprzez niego osoba; jeżeli jest to możliwe, wręczenie Karty następuje sposób uroczysty.
+2. Jeżeli jest to możliwe, wręczenie Karty Polaka następuje sposób uroczysty.
 
-3. Korzystanie uprawnień, o których mowa wart.6 ust. 1 pkt 3—5, wymaga okazywania Karty Polaka ważnego dokumentu potwierdzającego tożsamość jej posiadacza.
+3. Korzystanie z uprawnień, o których mowa art. 6 ust. 1 pkt 3–5, wymaga okazywania Karty Polaka oraz ważnego dokumentu potwierdzającego tożsamość jej posiadacza. wojewoda, na wniosek jej posiadacza, wydaje duplikat Karty Polaka.
 
-4. W przypadku zagubienia lub zniszczenia Karty konsul, wniosek posiadacza, wydaje duplikat Karty Polaka.
+**Art. 19.** Konsul lub przypadku, o którym mowa art. 12 ust. 4 – wojewoda, wydaje decyzję o odmowie przyznania Karty Polaka przypadku, gdy:
 
-**Art. 19.** Konsul wydaje decyzję o odmowie przyznania Karty przypadku, gdy:
+**Art. 19a.**
+
+1. Po wprowadzeniu przez właściwego konsula lub przypadku, o którym mowa art. 12 ust. 4 – wojewodę, wniosku o przyznanie Karty Polaka lub przedłużenie jej ważności do rejestru, o którym mowa art. 23 ust. 1, Szef Agencji Bezpieczeństwa Wewnętrznego przedstawia informację, czy wobec wnioskodawcy zachodzą okoliczności, o których mowa art. 19 pkt 5 lub 6.
+
+2. Właściwy konsul lub – przypadku, o którym mowa art. 12 ust. 4 – wojewoda może, niezależnie od trybu określonego ust. 1, zwrócić się do Szefa Agencji Bezpieczeństwa Wewnętrznego, a razie potrzeby także do innych organów zachodzą okoliczności, o których mowa art. 19 pkt 5 lub 6, wskazując okoliczności istotne sprawie.
+
+3. Właściwe organy przedstawiają informacje, o których mowa ust. 1 i 2, terminie 30 dni od dnia wprowadzenia wniosku o przyznanie Karty Polaka lub przedłużenie jej ważności do rejestru, o którym mowa art. 23 ust. 1. Nieprzedstawienie informacji tym terminie uznaje się za równoważne z brakiem okoliczności, o których mowa art. 19 pkt 5 i 6.
+
+4. Właściwy konsul lub – przypadku, o którym mowa art. 12 ust. 4 – wojewoda wydaje decyzję o przyznaniu albo odmowie przyznania Karty Polaka lub decyzję o przedłużeniu ważności Karty Polaka albo odmowie przedłużenia jej ważności nie później niż terminie 30 dni od dnia przedstawienia przez właściwe organy informacji, o której mowa ust. 1 i 2, albo upływu terminu określonego ust. 3.
 
 **Art. 20.**
 
-1. Konsul, drodze decyzji administracyj- ust. 2. nej, urzędu unieważnia Kartę przypadku:
+1. Konsul lub przypadku, o którym mowa art. 12 ust. 4 – wojewoda, drodze decyzji, z urzędu unieważnia Kartę Polaka przypadku:
 
-4. Rada prowadzi centralny rejestr przyznanych
+- **1)** gdy po otrzymaniu Karty Polaka jej posiadacz zachowuje się sposób uwłaczający Rzeczypospolitej Polskiej lub Polakom;
+- **2)** gdy zachodzi jedna z przesłanek określonych art. 19 pkt 2, 5 lub 6;
+- **3)** zrzeczenia się Karty Polaka;
+- **4)** gdy na podstawie art. 17 ust. 6 wydał nową Kartę Polaka zawierającą zmienione dane.
 
-- **1)** gdy po otrzymaniu Karty jej posiadacz za- unieważnionych Kart Polaka. Centralny rejestr zachowuje się wsposób uwłaczający Rzeczypospoli- wiera dane, o których mowa ust. 2. tej Polskiej lub Polakom;
+1a. Jeżeli posiadacz Karty Polaka nabył obywatelstwo polskie albo uzyskał zezwolenie na pobyt stały na terytorium Rzeczypospolitej Polskiej, posiadana przez niego Karta Polaka traci ważność z mocy prawa z dniem wydania dokumentu potwierdzającego nabycie obywatelstwa polskiego albo uzyskania zezwolenia na pobyt stały.
 
-**Art. 24.**
+2. W przypadku, o którym mowa ust. 1, posiadacz Karty Polaka niezwłocznie zwraca Kartę Polaka konsulowi albo wojewodzie, który ją wydał.
 
-1. Dane, o których mowa art. 23 ust. 2,
+3. W przypadku, o którym mowa ust. 1a, posiadacz Karty Polaka zwraca Kartę Polaka wojewodzie właściwemu ze względu na miejsce pobytu, nie później niż terminie 14 dni od dnia, którym:
 
-- **2)** gdy zachodzi jedna przesłanek określonych są udostępniane za pośrednictwem urządzeń teleart.19 pkt 2 4—6; informatycznych, bez konieczności składania pisemnych wniosków, ministrowi właściwemu do spraw
-- **3)** zrzeczenia się Karty Polaka. wewnętrznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu, konsulom
+- **1)** doręczono mu dokument potwierdzający nabycie obywatelstwa polskiego albo
+- **2)** decyzja o uzyskaniu zezwolenia na pobyt stały stała się ostateczna. i art. 20, jest Rada.
 
-2. W przypadku, o którym mowa ust. 1, posia- organom Policji Straży Granicznej, zakresie dacz Karty niezwłocznie zwraca Kartę niezbędnym do wykonywania zadań ustawowych tych konsulowi, który ją wydał. organów.
+2. Odwołanie wnosi się za pośrednictwem konsula, a przypadku, o którym mowa art. 12 ust. 4 – wojewody, terminie 30 dni od dnia doręczenia decyzji.
 
-**Art. 21.**
+**Art. 22.** Minister właściwy do spraw zagranicznych określi, drodze rozporządzenia:
 
-1. Organem odwoławczym od decyzji, 2. Rada Ministrów określi, drodze rozporządzeo których mowa art. 19 20, jest Rada. nia, sposób prowadzenia rejestru, o którym mowa wart. 23 ust. 1 icentralnego rejestru, októrym mowa
-
-2. Odwołanie wnosi się za pośrednictwem konsula art. 23 ust. 4, sposób przetwarzania danych nich terminie 30 dni od dnia doręczenia decyzji. zawartych, atakże szczegółowe zasady przekazywania przez konsula danych do centralnego rejestru, biorąc
-
-**Art. 22.** Rada Ministrów określi, drodze rozpo- pod uwagę konieczność zapewnienia wszystkim rządzenia: uprawnionym szybkiego do nich dostępu.
-
-#### Rozdział 5 Art. 25. W ustawie dnia 13 lutego 1984 o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U.
+#### Rozdział 5 Rejestry i ewidencje
 
 **Art. 23.**
 
-1. Konsul prowadzi, wzakresie swojej właściwości, rejestr złożonych wniosków o przyznanie ŃArt. 25a. Konsul: Karty Polaka, decyzji wydanych wtych sprawach 1) prowadzi postępowanie wsprawie przyprzyznanych unieważnionych Kart Polaka. znania Karty Polaka, póên. zm. ) art. 94a ust. 2 po pkt 3 dodaje się pkt 3a brzmieniu: Ń3a) osoby posiadające ważną Kartę Polaka;”.
+1. Konsul i wojewoda prowadzą, każdy zakresie swojej właściwości, rejestr złożonych wniosków o przyznanie Karty Polaka lub przedłużenie jej ważności, decyzji wydanych tych sprawach, przyznanych i unieważnionych Kart Polaka oraz Kart Polaka, które utraciły ważność z mocy prawa.
 
-**Art. 27.** W ustawie dnia 20 czerwca 1992 o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. 2002 175, 1440, póên. zm. ) art. 4 ust. 4 po pkt3 kropkę zastępuje się średnikiem dodaje się pkt4 brzmieniu: Ń4) posiadacze ważnej Karty Polaka.”.
+2. Rejestr, o którym mowa ust. 1, zawiera informację o wydanych decyzjach oraz następujące dane osób, którym przyznano albo odmówiono przyznania Karty Polaka, których Kartę Polaka unieważniono albo przypadku których Karta Polaka utraciła ważność z mocy prawa:
 
-**Art. 28.** Wustawie zdnia 20 kwietnia 2004 opromocji zatrudnienia instytucjach rynku pracy (Dz. U. 99, 1001, póên. zm. ) art. 87 ust. 1 po pkt 2b dodaje się pkt 2c brzmieniu: Ń2c) posiadający ważną Kartę Polaka;”.
+- **1)** imię i nazwisko;
+- **2)** datę i miejsce urodzenia;
+- **3)** płeć;
+- **4)** adres zamieszkania za granicą;
+- **5)** obywatelstwo albo status bezpaństwowca;
+- **6)** narodowość;
+- **7)** obywatelstwo i narodowość rodziców, dziadków lub pradziadków, jeżeli ich dane zostały wskazane przez osobę ubiegającą się o przyznanie Karty Polaka.
 
-**Art. 29.** W ustawie dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z2007 155,
+2a. Wojewoda oraz minister właściwy do spraw wewnętrznych prowadzą systemie teleinformatycznym, każdy zakresie swojej właściwości, rejestr złożonych wydanych tych sprawach.
 
-**Art. 30.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, 2135, zpóên. zm.
+2b. Rejestr, o którym mowa ust. 2a, zawiera informację o wydanych decyzjach, postanowieniach, okresach, na jaki przyznano świadczenie, miesięcznej wysokości świadczenia pieniężnego oraz następujące dane osób, które złożyły wniosek o przyznanie świadczenia pieniężnego, i członków ich rodzin objętych wnioskiem:
 
-**Art. 31.** Wustawie zdnia 27 lipca 2005 Prawo o szkolnictwie wyższym (Dz. U. 164, 1365, póên. zm. ) wprowadza się następujące zmiany: ) art. 43 wprowadza się następujące zmiany:
+- **1)** imię (imiona) i nazwisko;
+- **2)** nazwisko rodowe;
+- **3)** nazwisko poprzednie;
+- **4)** płeć;
+- **5)** data urodzenia;
+- **6)** miejsce i kraj urodzenia;
+- **7)** obywatelstwo;
+- **8)** miejsce zamieszkania za granicą;
+- **9)** miejsce zamierzonego osiedlenia na terytorium Rzeczypospolitej Polskiej.
 
-**Art. 32.** Ustawa wchodzi wżycie po upływie 6 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+2c. Dane przechowywane rejestrze, o którym mowa ust. 2a, udostępnia się organom administracji publicznej, sądom, prokuraturom, Policji, Straży Granicznej, Służbie Kontrwywiadu Wojskowego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz organom Krajowej Administracji Skarbowej, zakresie niezbędnym do realizacji ich ustawowych zadań.
+
+2d. Do sposobu i trybu udostępniania danych zawartych rejestrze, o którym mowa ust. 2a, stosuje się odpowiednio przepisy art. 452–456 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach oraz przepisy wydane na podstawie art. 457 i art. 458 tej ustawy.
+
+3. Minister właściwy do spraw zagranicznych prowadzi centralny rejestr przyznanych oraz unieważnionych Kart Polaka oraz Kart Polaka, które utraciły ważność z mocy prawa. Centralny rejestr zawiera dane, o których mowa ust. 2.
+
+4. Konsul i wojewoda, o którym mowa art. 12 ust. 4, przekazują ministrowi właściwemu do spraw zagranicznych dane, o których mowa ust. 2.
+
+**Art. 24.**
+
+1. Dane z rejestru, o którym mowa art. 23 ust. 1, są udostępniane za pośrednictwem urządzeń teleinformatycznych, bez konieczności składania pisemnych wniosków, ministrowi właściwemu do spraw wewnętrznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu, konsulom oraz organom ustawowych tych organów.
+
+1a. Dane z rejestru, o którym mowa art. 23 ust. 1, są udostępniane za pośrednictwem urządzeń teleinformatycznych, bez konieczności składania pisemnych wniosków, także ministrowi właściwemu do spraw gospodarki zakresie niezbędnym do prowadzenia Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+
+2. Minister właściwy do spraw zagranicznych, porozumieniu z ministrem właściwym do spraw administracji publicznej, określi, drodze rozporządzenia, sposób prowadzenia rejestrów, o których mowa art. 23 ust. 1, i centralnego rejestru, o którym mowa art. 23 ust. 3, sposób przetwarzania danych nich zawartych, a także sposób przekazywania przez konsula i wojewodę, o którym mowa art. 12 ust. 4, danych do centralnego rejestru, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa przekazywania danych.
+
+3. Ustala się dziesięcioletni okres przechowywania danych rejestrach.
+
+#### Rozdział 5a Finansowanie wypłaty świadczeń pieniężnych z budżetu państwa
+
+**Art. 24a.**
+
+1. Wypłata świadczeń pieniężnych finansowana jest z rezerwy celowej budżetu państwa.
+
+2. Dysponentem rezerwy celowej, o której mowa ust. 1, jest minister właściwy do spraw wewnętrznych.
+
+**Art. 24b.**
+
+1. Świadczenia pieniężne są wypłacane danym roku budżetowym do wysokości kwoty rezerwy celowej, o której mowa art. 24a ust. 1.
+
+2. Starosta składa do wojewody wniosek o udzielenie dotacji na wypłatę świadczeń pieniężnych.
+
+**Art. 24c.**
+
+1. Minister właściwy do spraw wewnętrznych monitoruje wykorzystanie limitu środków zaplanowanych ustawie budżetowej na wypłatę świadczeń pieniężnych.
+
+2. W przypadku gdy łączna kwota wynikająca z wniosków o przyznanie świadczenia pieniężnego z terminem wypłaty danym roku osiągnie równowartość 75 % kwoty zaplanowanej ustawie budżetowej na wypłatę świadczeń pieniężnych, minister właściwy do spraw wewnętrznych ogłasza Biuletynie Informacji Publicznej informację o wstrzymaniu rozpatrywania wniosków o przyznanie świadczenia pieniężnego z terminem wypłaty przypadającym na dany rok, do czasu wstrzymują rozpatrywanie takich wniosków, począwszy od dnia następującego po dniu ogłoszenia informacji przez ministra właściwego do spraw wewnętrznych.
+
+3. Starostowie są obowiązani do przekazywania wojewodom informacji o poziomie wykorzystania dotacji na wypłatę świadczeń pieniężnych, terminie określonym przepisach wydanych na podstawie art. 24d.
+
+4. Wojewodowie są obowiązani do przekazywania ministrowi właściwemu do spraw wewnętrznych informacji o koniecznej do zabezpieczenia wypłaty świadczeń pieniężnych kwocie wynikającej z wniosków o przyznanie świadczenia pieniężnego oraz o poziomie wykorzystania dotacji przez starostów, terminie określonym przepisach wydanych na podstawie art. 24d.
+
+5. Minister właściwy do spraw wewnętrznych ogłasza Biuletynie Informacji Publicznej informację o poziomie wykorzystania kwoty zaplanowanej ustawie budżetowej na wypłatę świadczeń pieniężnych według stanu na koniec każdego miesiąca.
+
+**Art. 24d.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia:
+
+#### Rozdział 6 Zmiany przepisach obowiązujących i przepisy końcowe
+
+**Art. 30.** (uchylony)
+
+**Art. 31.** (pominięty)
 

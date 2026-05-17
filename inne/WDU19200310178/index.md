@@ -8,9 +8,12 @@ pos: 178
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# RZEL~YPOSPOLi'l'EJ POLSKIEJ WARSZAWA. 12 kwietnia 1920.
+# o nabywaniu nieruchomości przez cudzoziemców
+
+*USTAWA z dnia 24 marca 1920 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,16 +26,148 @@ domain: null
 | Ostatnia zmiana | 2026-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19200310178) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1920/178/text.pdf) |
 
-178.
-dnia 24 marca 1920 r.
-o nabywaniu przez obcokrajowców.
-1\rt. 1. Nabywanie przez obcokrajowców, a to tak przez osoby jak prawne, jedynie po uprzedniem uzyskaniu zezwolenia Rady Ministrów wniosek Ministra Skarbu. Co do specjalne znaczenie, jako to: dlowe, rolnicze lub inne, decyzja Rady Ministrów zapadnie w porozumieniu Ministrem.
-1\rt. 2. Rada Ministrów wniosek Ministra Skarbu w poszcze gólnych wypadkach specjalne warunki jak nabywcy, tak sprzedaw cy, od których dokonania tran zakcji.
-1\rt; 3. W pozwoleniu powinno wymienione: 1) osoba nabywcy,
-2) przedmiot nabycia, 3) suma minimalna nabycIa, 4) warunki istotne tran zakcji oraz warunki specjalne, postawione w art. 2 niniejszej ustawy.
-Zezwolenie jest czas 4 tego okresu nie jest dopuszczalne. akt nabycia w tym czasie nie zostanie spo zezwolenie traci moc 1\rt. 4. Decyzja Rady Ministrów nie wymaga uzasadnienia nie ulega 1\rt. 5. W wypadkach, przewidzianych wart. 1 niniejszej ustawy, nie wolno aktów prawnych, ani aktach tych pod pisów stron uwierzy tel a w/adze hipoteczne nie tytu bez zezwolem8 Rady Ministrów, oraz dowodu, te warunki, które w zezwolenia powinny po dokonanie tranzakcji, W aktach prawnych po winny pod rygorem aktów wszystkie warunki, wyszczególnione w zezwoleniu.
-. 1\rt. 6. Obcokrajowcy powinni razem przed w licytacji zezwoleniem Rady Ministrów do bycia danej 1\rt. 7. Nabycie przez obcokrajowca wbrew wieniu niniejszej ustawy jest W razie zawarcia tranzakcji wbrew tej ustawie, o 1\rt. 8. Postanowienia niniejszej ustawy nie przeniesienia prawa spadkobierców. .
-1\rt. 9. Wykonanie niniejszej ustawy powierza Ministrom: Skarbu a w b. dzielnicy pruskiej w porozumieniu Ministrem b. Dzielnicy Pruskiej.
+**Art. 1.**
 
-**Art. 10.** Ustawa niniejsza nabiera mocy w 8 dni po}ej ogloszeniu: T Prezydent Ministrów: L. Skulski Minister Skarbu: W. Grabski Minister J au 179. USTR\VR dnia 26 marca 1920 roku w przedmiocie uzupełnienia ustawy dnia t3 lutego 1920 r. (Dz. Ust N2 17 poz. OS) dotyczącej dalszej emisji biletów Polskiej Krajowej Kasy Ustawa dnia 13 lutego 1920 r. (Dz. Ust. Nr. 17 poz. 85) w przedmIo cie dalszej ' emisji biletów. Polskiej Krajowej Kasy otrzymuje f\rt. t. do szenia stanu emisji jej biletów, prócz biletów. emit.Jwanych zasadzie art. 2 niniejszej ustawy, a przez zasadzie pierwotnej ustawy tej Kasy dnia 9 grudnia 1916 r. w kwocie 880.150.867 marek polskich 50 fenigów, oraz emisjami, dokonanemi: zasadzie obecnej ustawy Kasy dnia 7 grudnia 1918 r. w kwocie marek polskich, dekretem Naczelnika dnia 7 lutego 1919 r. w kwocie 250.000.000 marek polskich oraz sejmo wej dnia 6 czerwca 1919 r. w kwocie 600.000.000 marek polskich do kwoty ogólnej 11.000.000.000 marek polskich. Do kwoty ogólQej 11.000.000.000 marek polskich, wart. Hnie biletów, wypuszczonych skupu ,oraz natzasadzie art. 5 I p. a) h) ustawy Polskiej Krajowej Kasy dnia 7 grudnia 1918 r. biletów, wypuszczonych celem wykupu wycofywanych obiegu obszarze b. zaboru austrjackiego b. okupacji koron waluty I\rt. 3. Ustawa niniejsza dniem jej l\rt. . 4. Wykonanie niniejszej ustawy powierza Ministrowi Sklubu. Prezydent Ministrów: L. Skulski
+1. Nabycie nieruchomości przez cudzoziemca wymaga zezwolenia. Zezwolenie jest wydawane, drodze decyzji administracyjnej, przez ministra właściwego do spraw wewnętrznych, jeżeli sprzeciwu nie wniesie Minister Obrony Narodowej, a przypadku nieruchomości rolnych, jeżeli sprzeciwu również nie wniesie minister właściwy do spraw rozwoju wsi.
+
+1a. Sprzeciw, o którym mowa ust. 1, jest wyrażany, drodze postanowienia, terminie 14 dni od dnia doręczenia wystąpienia ministra właściwego do spraw wewnętrznych. W szczególnie uzasadnionych przypadkach minister właściwy do spraw wewnętrznych, na wniosek organu, któremu przysługuje prawo sprzeciwu, przedłuża termin na jego wniesienie do 2 miesięcy od dnia doręczenia wystąpienia ministra właściwego do spraw wewnętrznych.
+
+1b. Odmowa wydania zezwolenia, o którym mowa ust. 1, nie wymaga wystąpienia do Ministra Obrony Narodowej lub ministra właściwego do spraw rozwoju wsi.
+
+2. Cudzoziemcem rozumieniu ustawy jest:
+
+- **1)** osoba fizyczna nieposiadająca obywatelstwa polskiego;
+- **2)** osoba prawna mająca siedzibę za granicą;
+- **3)** nieposiadająca osobowości prawnej spółka osób wymienionych pkt 1 lub 2, mająca siedzibę za granicą, utworzona zgodnie z ustawodawstwem państw obcych;
+- **4)** osoba prawna i spółka handlowa nieposiadająca osobowości prawnej mająca siedzibę na terytorium Rzeczypospolitej Polskiej, kontrolowana bezpośrednio lub pośrednio przez osoby lub spółki wymienione pkt 1, 2 i 3. uważa się spółkę, której cudzoziemiec lub cudzoziemcy dysponują bezpośrednio lub pośrednio powyżej 50% głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu, także jako zastawnik, użytkownik lub na podstawie porozumień z innymi osobami, albo mają pozycję dominującą rozumieniu przepisów art. 4 § 1 pkt 4 lit. b lub c, lub e ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2017 r. poz. 1577).
+
+4. Nabyciem nieruchomości rozumieniu ustawy jest nabycie prawa własności nieruchomości lub prawa użytkowania wieczystego, na podstawie każdego zdarzenia prawnego.
+
+5. Nabyciem drugiego domu rozumieniu przepisów ustawy jest nabycie przez cudzoziemca, o którym mowa art. 1 ust. 2 pkt 1, nieruchomości przeznaczonej pod zabudowę mieszkaniową lub na cele rekreacyjno-wypoczynkowe, która nie będzie stanowić stałego miejsca zamieszkania cudzoziemca. Nie dotyczy to nabycia samodzielnego lokalu mieszkalnego rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2015 r. poz. 1892 oraz z 2017 r. poz. 1529).
+
+**Art. 1a.**
+
+1. Zezwolenie, o którym mowa art. 1 ust. 1, jest wydawane na wniosek cudzoziemca, jeżeli:
+
+- **1)** nabycie nieruchomości przez cudzoziemca nie spowoduje zagrożenia obronności, bezpieczeństwa państwa lub porządku publicznego, a także nie sprzeciwiają się temu względy polityki społecznej i zdrowia społeczeństwa;
+- **2)** wykaże on, że zachodzą okoliczności potwierdzające jego więzi z Rzecząpospolitą Polską.
+
+2. Okolicznościami potwierdzającymi więzi cudzoziemca z Rzecząpospolitą Polską mogą być szczególności:
+
+- **1)** posiadanie polskiej narodowości lub polskiego pochodzenia;
+- **2)** zawarcie związku małżeńskiego z obywatelem Rzeczypospolitej Polskiej;
+- **3)** posiadanie zezwolenia na pobyt: poz. 1990, 1948 i 2066 oraz z 2017 r. poz. 60, 858 i 1543), lub ust. 2 pkt 4;
+    - **a)** czasowy z wyłączeniem zezwolenia, o którym mowa art. 176 i art. 181 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2016 r.
+    - **b)** stały, lub
+    - **c)** rezydenta długoterminowego Unii Europejskiej;
+
+- **5)** wykonywanie na terytorium Rzeczypospolitej Polskiej działalności gospodarczej lub rolniczej, zgodnie z przepisami prawa polskiego.
+
+3. Wniosek o wydanie zezwolenia powinien zawierać:
+
+- **1)** oznaczenie wnioskodawcy i jego statusu prawnego;
+- **2)** oznaczenie nabywanej nieruchomości;
+- **3)** oznaczenie zbywcy;
+- **4)** określenie formy prawnej nabycia nieruchomości;
+- **5)** informację o celu i możliwości nabycia nieruchomości.
+
+4. Do wniosku, o którym mowa ust. 3, cudzoziemiec ubiegający się o wydanie zezwolenia jest obowiązany dołączyć dokumenty potwierdzające okoliczności wskazane we wniosku oraz okoliczności, o których mowa ust. 2, a także inne dokumenty umożliwiające ustalenie prawidłowości nabycia nieruchomości.
+
+5. Powierzchnia nieruchomości nabytych przez cudzoziemca celu zaspokojenia jego potrzeb życiowych nie może przekroczyć 0,5 ha, zaś przypadku określonym ust. 2 pkt 5 powinna być uzasadniona rzeczywistymi potrzebami wynikającymi z charakteru wykonywanej działalności gospodarczej.
+
+6. Nabycie nieruchomości rolnych przez cudzoziemców następuje dodatkowo, z zachowaniem przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2016 r. poz. 2052 i 2260 oraz z 2017 r. poz. 60 i 624).
+
+**Art. 2.**
+
+1. Minister Spraw Wewnętrznych przed wydaniem decyzji sprawie zezwolenia może:
+
+- **1)** zażądać przedstawienia dowodów i informacji niezbędnych do rozpatrzenia wniosku oraz do dokonania sprawdzenia, o którym mowa pkt 2;
+- **2)** dokonać, także przy pomocy właściwych organów administracji rządowej, sprawdzenia, czy nabycie nieruchomości przez cudzoziemca nie spowoduje zagrożenia obronności, bezpieczeństwa państwa lub porządku publicznego, a także czy będzie ono zgodne z interesem państwa. zamierzającego nabyć nieruchomość specjalne warunki, od których spełnienia będzie uzależniona możliwość jej nabycia.
+
+**Art. 2a.** Minister właściwy do spraw wewnętrznych może zwracać się do innych niż określone art. 2 ust. 1 pkt 2 organów administracji publicznej, organizacji zawodowych i instytucji państwowych o wyrażenie opinii oraz przekazanie dokumentów i informacji, szczególności zawartych ewidencji gruntów i budynków, niezbędnych do realizacji zadań, o których mowa art. 1 ust. 1, art. 3e oraz art. 8 ust. 4.
+
+**Art. 3.**
+
+1. Zezwolenie powinno określać szczególności:
+
+- **1)** osobę nabywcy i zbywcy;
+- **2)** przedmiot nabycia;
+- **3)** specjalne warunki, sytuacji określonej art. 2 ust. 2.
+
+2. Zezwolenie jest ważne dwa lata od dnia wydania.
+
+**Art. 3a.** Decyzję sprawie zezwolenia na nabycie nieruchomości położonej na terenie specjalnej strefy ekonomicznej, ustanowionej na podstawie odrębnych przepisów, wydaje się terminie miesiąca od dnia złożenia wniosku przez stronę.
+
+**Art. 3b.** Postępowanie sprawie wydania zezwolenia umarza się, gdy wystąpi o to cudzoziemiec, na którego wniosek je wszczęto, a także gdy właściciel lub wieczysty użytkownik nieruchomości oświadczy, że nie zamierza jej zbyć na rzecz cudzoziemca ubiegającego się o zezwolenie.
+
+**Art. 3c.** Organ wydający decyzję lub postanowienie postępowaniu toczącym się na podstawie przepisów ustawy może odstąpić od uzasadnienia faktycznego, jeżeli wymaga tego obronność lub bezpieczeństwo państwa.
+
+**Art. 3d.**
+
+1. Cudzoziemiec zamierzający nabyć nieruchomość może ubiegać się o przyrzeczenie wydania zezwolenia, zwane dalej „promesą”. Do promesy stosuje się odpowiednio przepisy art. 1–3c.
+
+2. Promesa jest ważna rok od dnia wydania.
+
+3. Promesa może być wydana również na wniosek założycieli podmiotu, o którym mowa art. 1 ust. 2 pkt 4. że uległ zmianie stan faktyczny istotny dla rozstrzygnięcia sprawy.
+
+**Art. 3e.**
+
+1. Nabycie lub objęcie przez cudzoziemca udziałów lub akcji spółce handlowej z siedzibą na terytorium Rzeczypospolitej Polskiej, a także każda inna czynność prawna dotycząca udziałów lub akcji wymaga zezwolenia ministra właściwego do spraw wewnętrznych, jeżeli ich wyniku spółka będąca właścicielem lub wieczystym użytkownikiem nieruchomości na terytorium Rzeczypospolitej Polskiej stanie się spółką kontrolowaną.
+
+2. Nabycie lub objęcie przez cudzoziemca udziałów lub akcji spółce handlowej z siedzibą na terytorium Rzeczypospolitej Polskiej, będącej właścicielem lub wieczystym użytkownikiem nieruchomości na terytorium Rzeczypospolitej Polskiej, wymaga zezwolenia ministra właściwego do spraw wewnętrznych, jeżeli spółka ta jest spółką kontrolowaną, a udziały lub akcje nabywa lub obejmuje cudzoziemiec niebędący udziałowcem lub akcjonariuszem spółki.
+
+3. Przepisy ust. 1 i 2 nie dotyczą przypadków, gdy akcje spółki są dopuszczone do obrotu na rynku regulowanym albo spółka jest właścicielem lub wieczystym użytkownikiem nieruchomości określonej art. 8 ust. 1 pkt 1, 1a i 5, z zastrzeżeniem art. 8 ust. 3.
+
+4. Do zezwoleń, o których mowa ust. 1 i 2, przepisy art. 1–3d stosuje się odpowiednio.
+
+5. Wniosek o wydanie zezwolenia, o którym mowa ust. 1 i 2, powinien oprócz informacji, o których mowa art. 1a ust. 3 pkt 1 i 3, zawierać dodatkowo:
+
+- **1)** oznaczenie spółki, której udziały (akcje) są nabywane, obejmowane albo są przedmiotem innej czynności prawnej;
+- **2)** oznaczenie spółki, która wyniku nabycia, objęcia udziałów (akcji) albo innej czynności prawnej dotyczącej udziałów (akcji) innej spółki handlowej stanie się spółką kontrolowaną;
+- **3)** określenie nieruchomości stanowiących własność bądź będących użytkowaniu wieczystym spółki, która stanie się spółką kontrolowaną lub której udziały (akcje) są nabywane lub obejmowane przez cudzoziemców;
+- **4)** określenie sposobu nabycia lub objęcia udziałów (akcji) bądź innej czynności prawnej dotyczącej udziałów (akcji) spółce, na skutek której spółka będąca Rzeczypospolitej Polskiej stanie się spółką kontrolowaną.
+
+**Art. 3f.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia:
+
+**Art. 4.** Minister właściwy do spraw wewnętrznych przedstawia Sejmowi corocznie, terminie do dnia 31 marca, szczegółowe sprawozdanie z realizacji ustawy, a szczególności o liczbie udzielonych zezwoleń, rodzaju i obszarze oraz terytorialnym rozmieszczeniu nieruchomości, których one dotyczą, a także liczbie decyzji odmawiających udzielenia zezwolenia.
+
+**Art. 5.** Bez przedstawienia zezwolenia Ministra Spraw Wewnętrznych , a przypadku ustanowienia zezwoleniu specjalnych warunków – także dowodu z dokumentu urzędowego o ich spełnieniu, nie można dokonywać czynności prawnych oraz wpisów prawa własności i prawa użytkowania wieczystego.
+
+**Art. 5a.** (uchylony)
+
+**Art. 6.**
+
+1. Nabycie nieruchomości przez cudzoziemca wbrew przepisom ustawy jest nieważne.
+
+2. W razie nabycia nieruchomości wbrew przepisom ustawy, o nieważności nabycia orzeka sąd także na żądanie, właściwego ze względu na miejsce położenia nieruchomości, wójta (burmistrza, prezydenta miasta), starosty, marszałka województwa lub wojewody albo na żądanie ministra właściwego do spraw wewnętrznych.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do nabycia lub objęcia udziałów lub akcji spółce handlowej wbrew przepisom art. 3e, z tym że żądanie, o którym mowa ust. 2, zgłosić może także każdy udziałowiec lub akcjonariusz spółki. rozumieniu przepisów tytułu IV działu III ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+
+2. Przepisów ustawy nie stosuje się do nabycia nieruchomości drodze dziedziczenia lub zapisu windykacyjnego przez osoby uprawnione do dziedziczenia ustawowego. Jeżeli prawo właściwe dla dziedziczenia nie przewiduje dziedziczenia ustawowego, do oceny, czy nabywca nieruchomości jest osobą uprawnioną do dziedziczenia ustawowego, stosuje się prawo polskie.
+
+3. Jeżeli cudzoziemiec, który nabył wchodzącą skład spadku nieruchomość na podstawie testamentu, nie uzyska zezwolenia ministra właściwego do spraw wewnętrznych na podstawie wniosku złożonego ciągu dwóch lat od dnia otwarcia spadku, prawo własności nieruchomości lub prawo użytkowania wieczystego nabywają osoby, które byłyby powołane do spadku z ustawy.
+
+3a. Jeżeli cudzoziemiec, który nabył nieruchomość na podstawie zapisu windykacyjnego, nie uzyska zezwolenia ministra właściwego do spraw wewnętrznych na podstawie wniosku złożonego ciągu dwóch lat od dnia otwarcia spadku, prawo własności nieruchomości lub prawo użytkowania wieczystego wchodzi do spadku. Stosuje się wtedy przepisy ust. 2 i 3, z tym że termin, o którym mowa ust. 3, biegnie od chwili, gdy cudzoziemiec dowiedział się o wejściu do spadku prawa własności nieruchomości lub prawa użytkowania wieczystego.
+
+4. Przepisy ust. 2–3a stosuje się odpowiednio do udziałów lub akcji spółki handlowej będącej właścicielem lub wieczystym użytkownikiem nieruchomości na terytorium Rzeczypospolitej Polskiej.
+
+5. Przepisów ustawy nie stosuje się do funduszu inwestycyjnego zamkniętego oraz specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego rozumieniu przepisów ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm. ).
+
+**Art. 7a.** (uchylony)
+
+**Art. 8a.**
+
+1. Notariusz przesyła ministrowi właściwemu do spraw wewnętrznych, terminie 7 dni od dnia sporządzenia:
+
+- **1)** wypis aktu notarialnego oraz kopię umowy z podpisami notarialnie poświadczonymi, na mocy których cudzoziemiec nabył nieruchomość położoną na terytorium Rzeczypospolitej Polskiej lub nabył lub objął udziały, akcje lub ogół praw i obowiązków spółce handlowej będącej właścicielem lub wieczystym użytkownikiem nieruchomości położonych na terytorium Rzeczypospolitej Polskiej;
+- **2)** wypis aktu poświadczenia dziedziczenia wraz z wypisem protokołu dziedziczenia, jeżeli akcie poświadczenia dziedziczenia stwierdzono dziedziczenie przez cudzoziemca, zaś poprzedzającym go protokole dziedziczenia stawający złożyli oświadczenie o tym, że skład spadku wchodzą własność lub wieczyste użytkowanie nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub udziały, akcje lub ogół praw i obowiązków spółce handlowej będącej właścicielem lub wieczystym użytkownikiem nieruchomości położonych na terytorium Rzeczypospolitej Polskiej;
+- **3)** odpis europejskiego poświadczenia spadkowego, jeżeli stwierdzono nim dziedziczenie przez cudzoziemca, zaś skład spadku wchodzą własność lub wieczyste użytkowanie nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub udziały, akcje lub ogół praw i obowiązków spółce handlowej będącej właścicielem lub wieczystym użytkownikiem nieruchomości położonych na terytorium Rzeczypospolitej Polskiej. spraw wewnętrznych:
+- **1)** odpis prawomocnego orzeczenia o stwierdzeniu nabycia spadku oraz odpis prawomocnego orzeczenia, na którego podstawie cudzoziemiec nabył nieruchomość położoną na terytorium Rzeczypospolitej Polskiej lub nabył lub objął udziały, akcje lub ogół praw i obowiązków spółce handlowej, tym odpis europejskiego poświadczenia spadkowego;
+- **2)** kopie dokumentów złożonych do akt rejestrowych, z których wynika, że doszło do nabycia lub objęcia udziałów, akcji lub ogółu praw i obowiązków przez cudzoziemca spółce handlowej będącej właścicielem lub wieczystym użytkownikiem nieruchomości położonych na terytorium Rzeczypospolitej Polskiej, a szczególności kopie umów, orzeczeń sądowych, aktów poświadczenia dziedziczenia wraz z protokołami dziedziczenia, list wspólników, a przypadku gdy nabycie lub objęcie podlegają wpisowi do rejestru przedsiębiorców – także odpisy wydanych tym przedmiocie postanowień.
+
+3. Przepis ust. 1 stosuje się odpowiednio do organów administracji publicznej, jeżeli nabycie nieruchomości położonej na terytorium Rzeczypospolitej Polskiej nastąpiło na podstawie ostatecznej decyzji administracyjnej.
+
+**Art. 9.** (uchylony)
+
+**Art. 10.** Ustawa niniejsza nabiera mocy obowiązującej 8 dni po jej ogłoszeniu .
 

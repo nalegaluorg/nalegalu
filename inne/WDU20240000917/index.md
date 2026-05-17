@@ -8,9 +8,12 @@ pos: 917
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 czerwca 2024 r.
+# o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamentalnym dobrem osobistym człowieka, a ochrona praw osób z zaburzeniami psychicznymi należy do obowiązków państwa, stanowi się, co następuje:
+
+*USTAWA z dnia 19 sierpnia 1994 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,24 +26,6 @@ domain: null
 | Data wydania | 2024-06-21 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000917) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/917/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 14 czerwca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zdrowia psychicznego
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 czerwca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 106 i art. 108 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972), które stanowią: „Art. 106. 1. Osoba, która:
-1) przed dniem 31 grudnia 2028 r. spełniła warunek, o którym mowa w art. 5 ust. 3 pkt 1 lit. b tiret pierwsze ustawy zmienianej w art. 87, albo
-2) spełniła warunek, o którym mowa w art. 5 ust. 3 pkt 1 lit. b tiret drugie albo trzecie ustawy zmienianej w art. 87 może przystąpić do Państwowego Egzaminu Specjalizacyjnego w dziedzinie psychoterapii zgodnie z przepisami ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia.
-2. Osoba, o której mowa w ust. 1, może przystąpić do Państwowego Egzaminu Specjalizacyjnego zgodnie z przepisami ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, w dziedzinie psychoterapii dzieci i młodzieży, jeżeli dodatkowo posiada rekomendację superwizora lub superwizorów psychoterapii mających doświadczenie w superwizji procesów psychoterapeutycznych dzieci lub młodzieży oraz ich rodzin potwierdzającą, że posiada kwalifikacje do prowadzenia tej psychoterapii, a także że prowadzona psychoterapia była przedmiotem superwizji w wymiarze co najmniej 100 godzin, a także:
-1) zaświadczenie, że co najmniej 320 godzin jej szkolenia lub szkoleń podyplomowych dotyczyło zagadnień rozwojowych, psychopatologii dzieci i młodzieży oraz metod ich leczenia, lub ukończyła podyplomowe szkolenie uzupełniające z psychoterapii dzieci i młodzieży, lub
-2) zaświadczenie, że prowadziła psychoterapię w placówkach prowadzących psychoterapię pacjentów w wieku rozwojowym i ich rodzin przez okres co najmniej 2088 godzin.” „Art. 108. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 90, art. 93, art. 104 i art. 105, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 22 czerwca 2023 r.;
-2) art. 89, art. 95 i art. 103, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-3) art. 92 pkt 3, pkt 5 lit. a i c oraz pkt 6 i art. 96, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-4) art. 87 i art. 106, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-5) art. 92 pkt 1, pkt 2 lit. a, pkt 4 oraz pkt 5 lit. b, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 19 sierpnia 1994 r.
-o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamentalnym dobrem osobistym człowieka, a ochrona praw osób z zaburzeniami psychicznymi należy do obowiązków państwa, stanowi się, co następuje:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -117,7 +102,7 @@ o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamenta
 - **4)** inicjowanie działalności badawczo-wdrożeniowej w sprawach, o których mowa w art. 2 ust. 1;
 - **5)** opiniowanie projektów przepisów prawnych dotyczących ochrony zdrowia psychicznego.
 
-3. Minister właściwy do spraw zdrowia powołuje i odwołuje, z własnej inicjatywy lub na wniosek ministrów, o których mowa w ust. 2 pkt 3, przewodniczącego, zastępcę przewodniczącego, sekretarza i członków Rady spośród specjalistów z zakresu medycyny, pedagogiki, psychologii, socjologii, a także innych dziedzin nauki i praktyki, mających zastosowanie w ochronie zdrowia psychicznego.
+3. Minister właściwy do spraw zdrowia powołuje i odwołuje, z własnej inicjatywy lub na wniosek ministrów, o których mowa w ust. 2 pkt 3, przewodniczącego, zastępcę przewodniczącego, sekretarza i członków Rady – spośród specjalistów z zakresu medycyny, pedagogiki, psychologii, socjologii, a także innych dziedzin nauki i praktyki, mających zastosowanie w ochronie zdrowia psychicznego.
 
 4. Za udział w pracach Rady członkom Rady nie przysługuje wynagrodzenie. Członkom Rady przysługuje zwrot kosztów podróży w wysokości i na warunkach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
 
@@ -127,21 +112,19 @@ o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamenta
 
 **Art. 5.**
 
-1. Opieka zdrowotna nad osobami z zaburzeniami psychicznymi jest wykonywana w ramach podstawowej i specjalistycznej opieki zdrowotnej, zwłaszcza psychiatrycznej opieki zdrowotnej w formie pomocy doraźnej, ambulatoryjnej, dziennej, szpitalnej i środowiskowej oraz w domach pomocy społecznej.
+1. Opieka zdrowotna nad osobami z zaburzeniami psychicznymi jest wykonywana w ramach podstawowej i specjalistycznej opieki zdrowotnej, zwłaszcza psychiatrycznej opieki zdrowotnej – w formie pomocy doraźnej, ambulatoryjnej, dziennej, szpitalnej i środowiskowej oraz w domach pomocy społecznej.
 
 2. Psychoterapia to celowe i planowane oddziaływania psychologiczne, zmierzające do złagodzenia lub usunięcia objawów zaburzenia oraz do poprawy funkcjonowania psychicznego i społecznego, wspierające dążenia jednostki lub rodziny do zdrowia i rozwoju, kierowane do osób z zaburzeniami psychicznymi.
 
 3. Psychoterapię w ramach opieki, o której mowa w ust. 1, prowadzi:
 
-- **1)** osoba posiadająca certyfikat psychoterapeuty, która spełnia łącznie następujące warunki: poz. 1026),
-    - **a)** posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo spełnia warunki określone w art. 63 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r.
-    - **b)** udokumentuje: ukończenie podyplomowego szkolenia w wymiarze co najmniej 1200 godzin w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, prowadzonego metodami o udowodnionej naukowo skuteczności, w szczególności metodą terapii humanistyczno-doświadczeniowej lub integracyjnej, lub poznawczo-behawioralnej, lub psychoanalitycznej, lub psychodynamicznej, lub systemowej, obejmującego psychoterapię własną lub doświadczenie własne, superwizję psychoterapii i staże, albo ukończenie przed dniem 31 grudnia 2028 r. rozpoczętego przed dniem 1 stycznia 2024 r. podyplomowego szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, prowadzonego metodami o udowodnionej naukowo skuteczności, w szczególności metodą terapii humanistyczno-doświadczeniowej lub integracyjnej, lub poznawczo-behawioralnej, lub psychoanalitycznej, lub psychodynamicznej, lub systemowej, i odbycie realizowanych po rozpoczęciu szkolenia psychoterapii własnej, doświadczenia własnego, superwizji psychoterapii lub staży, które łącznie ze szkoleniem obejmują co najmniej 1200 godzin, albo ukończenie przed 2012 r. podyplomowego szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia w wymiarze czasu określonym w programie tego szkolenia,
+- **1)** osoba posiadająca certyfikat psychoterapeuty, która spełnia łącznie następujące warunki: [a) posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo spełnia warunki określone w art. 63 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026),] <a) posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187),>
+    - **b)** udokumentuje: – ukończenie podyplomowego szkolenia w wymiarze co najmniej 1200 godzin w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, prowadzonego metodami o udowodnionej naukowo skuteczności, w szczególności metodą terapii humanistyczno-doświadczeniowej lub integracyjnej, lub poznawczo-behawioralnej, lub psychoanalitycznej, lub psychodynamicznej, lub systemowej, obejmującego psychoterapię własną lub doświadczenie własne, superwizję psychoterapii i staże, albo – ukończenie przed dniem 31 grudnia 2028 r. rozpoczętego przed dniem 1 stycznia 2024 r. podyplomowego szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, prowadzonego metodami o udowodnionej naukowo skuteczności, w szczególności metodą terapii humanistyczno-doświadczeniowej lub integracyjnej, lub poznawczo-behawioralnej, lub psychoanalitycznej, lub psychodynamicznej, lub systemowej, i odbycie – realizowanych po rozpoczęciu szkolenia – psychoterapii własnej, doświadczenia własnego, superwizji psychoterapii lub staży, które łącznie ze szkoleniem obejmują co najmniej 1200 godzin, albo – ukończenie przed 2012 r. podyplomowego szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia w wymiarze czasu określonym w programie tego szkolenia,
     - **c)** zdała egzamin certyfikujący przeprowadzony przez komisję zewnętrzną wobec podmiotu kształcącego, w skład której nie wchodzą przedstawiciele podmiotu kształcącego, w szczególności powołaną przez stowarzyszenia wydające certyfikaty psychoterapeuty, lub
 
 - **2)** osoba, która uzyskała tytuł specjalisty w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2023 r. poz. 506), lub
 - **3)** osoba, która uzyskała tytuł specjalisty w dziedzinie psychoterapii lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub
-- **4)** osoba, która ubiega się o otrzymanie certyfikatu psychoterapeuty, która spełnia łącznie następujące warunki:
-    - **a)** posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo spełnia warunki określone w art. 63 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów,
+- **4)** osoba, która ubiega się o otrzymanie certyfikatu psychoterapeuty, która spełnia łącznie następujące warunki: [a) posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo spełnia warunki określone w art. 63 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów,] <a) posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów,>
     - **b)** posiada status osoby odbywającej szkolenie, o którym mowa w pkt 1 lit. b tiret pierwsze albo drugie, i zaświadczenie wydane przez podmiot prowadzący to szkolenie o ukończeniu co najmniej 2 roku tego szkolenia, albo spełnia warunek, o którym mowa w pkt 1 lit. b tiret pierwsze albo drugie,
     - **c)** uczestniczy w superwizji psychoterapii i posiada zaświadczenie w tym zakresie wystawione przez superwizora psychoterapii, lub
 
@@ -328,9 +311,9 @@ o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamenta
 
 6. Zastosowanie przymusu bezpośredniego wobec osoby, o której mowa w ust. 1:
 
-- **1)** pkt 1 i 2 polega na przytrzymaniu, przymusowym podaniu leków, unieruchomieniu lub izolacji;
-- **2)** pkt 3 polega na przytrzymaniu lub przymusowym podaniu leków;
-- **3)** pkt 1 i 2 w sytuacji, o której mowa w ust. 5, polega na przytrzymaniu, przymusowym podaniu leków lub unieruchomieniu.
+- **1)** pkt 1 i 2 – polega na przytrzymaniu, przymusowym podaniu leków, unieruchomieniu lub izolacji;
+- **2)** pkt 3 – polega na przytrzymaniu lub przymusowym podaniu leków;
+- **3)** pkt 1 i 2 – w sytuacji, o której mowa w ust. 5, polega na przytrzymaniu, przymusowym podaniu leków lub unieruchomieniu.
 
 7. W sytuacji, o której mowa w ust. 5, zastosowanie przymusu bezpośredniego polega na przytrzymaniu lub unieruchomieniu. Przymus bezpośredni stosuje się nie dłużej niż przez czas niezbędny do uzyskania pomocy lekarskiej, a w przypadku gdy jej uzyskanie jest utrudnione, na czas niezbędny do przewiezienia osoby do podmiotu leczniczego udzielającego świadczenia zdrowotne w zakresie psychiatrycznej opieki zdrowotnej lub szpitala wskazanego przez dyspozytora medycznego. Przewiezienie osoby z zastosowaniem przymusu bezpośredniego następuje w obecności zespołu ratownictwa medycznego.
 
@@ -340,8 +323,8 @@ o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamenta
 
 10. Zasadność zastosowania przymusu bezpośredniego:
 
-- **1)** przez lekarza podmiotu leczniczego, w tym lekarza, który zatwierdził stosowanie środka przymusu bezpośredniego zleconego przez inną osobę ocenia, w terminie 3 dni, kierownik tego podmiotu, jeżeli jest lekarzem, lub lekarz przez niego upoważniony;
-- **2)** przez innego lekarza, pielęgniarkę jednostki organizacyjnej pomocy społecznej lub kierującego akcją prowadzenia medycznych czynności ratunkowych ocenia, w terminie 3 dni, upoważniony przez marszałka województwa lekarz specjalista w dziedzinie psychiatrii.
+- **1)** przez lekarza podmiotu leczniczego, w tym lekarza, który zatwierdził stosowanie środka przymusu bezpośredniego zleconego przez inną osobę – ocenia, w terminie 3 dni, kierownik tego podmiotu, jeżeli jest lekarzem, lub lekarz przez niego upoważniony;
+- **2)** przez innego lekarza, pielęgniarkę jednostki organizacyjnej pomocy społecznej lub kierującego akcją prowadzenia medycznych czynności ratunkowych – ocenia, w terminie 3 dni, upoważniony przez marszałka województwa lekarz specjalista w dziedzinie psychiatrii.
 
 11. (uchylony)
 
@@ -394,9 +377,9 @@ o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamenta
 
 4. Za przekazanie instrukcji, o której mowa w ust. 3, bezpośrednio odpowiada:
 
-- **1)** kierownik podmiotu leczniczego dla osób zatrudnionych w kierowanym przez niego podmiocie leczniczym lub osób wykonujących w tym podmiocie działalność na podstawie zawartej umowy lub porozumienia;
-- **2)** kierownik jednostki organizacyjnej pomocy społecznej dla osób zatrudnionych w kierowanej przez niego jednostce lub osób wykonujących w tej jednostce działalność na podstawie zawartej umowy lub porozumienia;
-- **3)** dysponent zespołów ratownictwa medycznego dla osób wchodzących w skład zespołów ratownictwa medycznego.
+- **1)** kierownik podmiotu leczniczego – dla osób zatrudnionych w kierowanym przez niego podmiocie leczniczym lub osób wykonujących w tym podmiocie działalność na podstawie zawartej umowy lub porozumienia;
+- **2)** kierownik jednostki organizacyjnej pomocy społecznej – dla osób zatrudnionych w kierowanej przez niego jednostce lub osób wykonujących w tej jednostce działalność na podstawie zawartej umowy lub porozumienia;
+- **3)** dysponent zespołów ratownictwa medycznego – dla osób wchodzących w skład zespołów ratownictwa medycznego.
 
 **Art. 18d.**
 
@@ -428,9 +411,9 @@ o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamenta
 
 **Art. 21.**
 
-1. Osoba, której zachowanie wskazuje na to, że z powodu zaburzeń psychicznych może zagrażać bezpośrednio własnemu życiu albo życiu lub zdrowiu innych osób, bądź nie jest zdolna do zaspokajania podstawowych potrzeb życiowych, może być poddana badaniu psychiatrycznemu również bez jej zgody, a osoba małoletnia lub ubezwłasnowolniona całkowicie także bez zgody jej przedstawiciela ustawowego. W tym przypadku art. 18 ma zastosowanie.
+1. Osoba, której zachowanie wskazuje na to, że z powodu zaburzeń psychicznych może zagrażać bezpośrednio własnemu życiu albo życiu lub zdrowiu innych osób, bądź nie jest zdolna do zaspokajania podstawowych potrzeb życiowych, może być poddana badaniu psychiatrycznemu również bez jej zgody, a osoba małoletnia lub ubezwłasnowolniona całkowicie – także bez zgody jej przedstawiciela ustawowego. W tym przypadku art. 18 ma zastosowanie.
 
-2. Konieczność przeprowadzenia badania, o którym mowa w ust. 1, stwierdza lekarz psychiatra, a w razie niemożności uzyskania pomocy lekarza psychiatry inny lekarz. Przed przystąpieniem do badania uprzedza się osobę badaną lub jej przedstawiciela ustawowego o przyczynach przeprowadzenia badania bez jej zgody.
+2. Konieczność przeprowadzenia badania, o którym mowa w ust. 1, stwierdza lekarz psychiatra, a w razie niemożności uzyskania pomocy lekarza psychiatry – inny lekarz. Przed przystąpieniem do badania uprzedza się osobę badaną lub jej przedstawiciela ustawowego o przyczynach przeprowadzenia badania bez jej zgody.
 
 3. W razie potrzeby lekarz przeprowadzający badanie zarządza bezzwłocznie przewiezienie badanego do szpitala. Przewiezienie takiej osoby z zastosowaniem przymusu bezpośredniego następuje w obecności lekarza, pielęgniarki lub zespołu ratownictwa medycznego.
 
@@ -501,7 +484,7 @@ o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamenta
 - **1)** której dotychczasowe zachowanie wskazuje na to, że nieprzyjęcie do szpitala spowoduje znaczne pogorszenie stanu jej zdrowia psychicznego, bądź
 - **2)** która jest niezdolna do samodzielnego zaspokajania podstawowych potrzeb życiowych, a uzasadnione jest przewidywanie, że leczenie w szpitalu psychiatrycznym przyniesie poprawę jej stanu zdrowia.
 
-2. O potrzebie przyjęcia do szpitala psychiatrycznego osoby, o której mowa w ust. 1, bez jej zgody, orzeka sąd opiekuńczy miejsca zamieszkania tej osoby na wniosek jej małżonka, krewnych w linii prostej, rodzeństwa, jej przedstawiciela ustawowego lub osoby sprawującej nad nią faktyczną opiekę.
+2. O potrzebie przyjęcia do szpitala psychiatrycznego osoby, o której mowa w ust. 1, bez jej zgody, orzeka sąd opiekuńczy miejsca zamieszkania tej osoby – na wniosek jej małżonka, krewnych w linii prostej, rodzeństwa, jej przedstawiciela ustawowego lub osoby sprawującej nad nią faktyczną opiekę.
 
 3. W stosunku do osoby objętej oparciem społecznym, o którym mowa w art. 8, wniosek może zgłosić również organ do spraw pomocy społecznej.
 
@@ -523,7 +506,7 @@ o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamenta
 
 - **1)** bez zgody,
 - **2)** bez zgody, jeżeli zgoda na pobyt została następnie wyrażona,
-- **3)** niezdolnych do wyrażenia zgody lub stanowiska odnośnie przyjęcia do szpitala psychiatrycznego zwany dalej „rejestrem”.
+- **3)** niezdolnych do wyrażenia zgody lub stanowiska odnośnie przyjęcia do szpitala psychiatrycznego – zwany dalej „rejestrem”.
 
 2. W przypadku oddziału psychiatrycznego funkcjonującego w szpitalu psychiatrycznym dysponującym więcej niż jednym oddziałem psychiatrycznym rejestr jest prowadzony wspólnie dla wszystkich tych oddziałów.
 
@@ -648,8 +631,8 @@ o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamenta
 
 4. Sędzia wykonuje kontrole:
 
-- **1)** stałe co najmniej raz w roku, obejmujące wszystkie czynności, o których mowa w ust. 3, przeprowadzane w szpitalach psychiatrycznych i w domach pomocy społecznej lub
-- **2)** doraźne obejmujące wszystkie albo niektóre z czynności, o których mowa w ust. 3, przeprowadzane w szczególności w razie uzasadnionego podejrzenia występowania uchybień w funkcjonowaniu szpitala psychiatrycznego i domu pomocy społecznej.
+- **1)** stałe – co najmniej raz w roku, obejmujące wszystkie czynności, o których mowa w ust. 3, przeprowadzane w szpitalach psychiatrycznych i w domach pomocy społecznej lub
+- **2)** doraźne – obejmujące wszystkie albo niektóre z czynności, o których mowa w ust. 3, przeprowadzane w szczególności w razie uzasadnionego podejrzenia występowania uchybień w funkcjonowaniu szpitala psychiatrycznego i domu pomocy społecznej.
 
 5. Sędzia zawiadamia kierownika szpitala psychiatrycznego i domu pomocy społecznej o przystąpieniu do czynności kontrolnych i zakresie kontroli.
 
@@ -673,7 +656,7 @@ o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamenta
 
 10. Prezes sądu okręgowego przesyła odpis sprawozdania z przebiegu kontroli w terminie 14 dni od dnia jego otrzymania właściwemu sądowi opiekuńczemu, kierownikowi kontrolowanego podmiotu i organowi sprawującemu nadzór nad tym podmiotem, w celu podjęcia stosownych czynności.
 
-11. W razie stwierdzenia istotnych uchybień w działalności kontrolowanego podmiotu prezes sądu okręgowego przesyła odpis sprawozdania z przebiegu kontroli w terminie 30 dni od dnia zakończenia kontroli Ministrowi Sprawiedliwości oraz ministrowi właściwemu do spraw zdrowia w przypadku kontroli w szpitalu psychiatrycznym albo właściwemu wojewodzie w przypadku kontroli w domu pomocy społecznej.
+11. W razie stwierdzenia istotnych uchybień w działalności kontrolowanego podmiotu prezes sądu okręgowego przesyła odpis sprawozdania z przebiegu kontroli w terminie 30 dni od dnia zakończenia kontroli Ministrowi Sprawiedliwości oraz ministrowi właściwemu do spraw zdrowia – w przypadku kontroli w szpitalu psychiatrycznym albo właściwemu wojewodzie – w przypadku kontroli w domu pomocy społecznej.
 
 12. Kierownik kontrolowanego podmiotu lub organ sprawujący nadzór nad tym podmiotem może, w terminie 14 dni od dnia otrzymania sprawozdania z przebiegu kontroli, zgłosić prezesowi sądu okręgowego zastrzeżenia lub wnioski dotyczące wyników kontroli oraz zaleceń pokontrolnych.
 

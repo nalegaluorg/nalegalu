@@ -8,9 +8,12 @@ pos: 13
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 stycznia 2015 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 grudnia 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/13/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 grudnia 2014 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej (Dz. U. Nr 41, poz. 254), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153 oraz z 1998 r.
 Nr 117, poz. 756),
@@ -40,7 +41,7 @@ Nr 117, poz. 756),
 3) art. 150 ustawy z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), który stanowi: „Art. 150. Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 26, art. 128 pkt 2, art. 139 pkt 1 i 10, art. 145 ust. 2 i 4, art. 146 ust. 2 i 4 oraz art. 147 ust. 2 i 3, które wchodzą w życie z dniem ogłoszenia, i art. 34 pkt 1, art. 36 pkt 23, art. 48 pkt 1 i 3, art. 84, art. 97 pkt 1–3, 5–10 i 12–36 oraz art. 139 pkt 9 lit. a), które wchodzą w życie z dniem 1 stycznia 2000 r.”;
 4) art. 16 ustawy z dnia 29 kwietnia 2010 r. o zmianie ustawy Prawo celne oraz niektórych innych ustaw (Dz. U.
 Nr 106, poz. 673), który stanowi: „Art. 16. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-5) odnośnika nr 2 i art. 221 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654), które stanowią: „ Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy 2003/88/WE Parlamentu Europejskiego i Rady z dnia 4 listopada 2003 r. dotyczącej niektórych aspektów organizacji czasu pracy (Dz. Urz. UE L 299 z 18.11.2003; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 381).” „Art. 221. Ustawa wchodzi w życie z dniem 1 lipca 2011 r., z wyjątkiem art. 17 ust. 2 i 3, art. 25, art. 88 ust. 3, art. 106 ust. 2 zdanie trzecie, ust. 3 pkt 13, ust. 4 pkt 11 i ust. 5, art. 148 pkt 6 oraz art. 172 pkt 10, które wchodzą w życie z dniem 1 stycznia 2012 r.”;
+5) odnośnika nr 2 i art. 221 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654), które stanowią: „ Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy 2003/88/WE Parlamentu Europejskiego i Rady z dnia 4 listopada 2003 r. dotyczącej niektórych aspektów organizacji czasu pracy (Dz. Urz. UE L 299 z 18.11.2003; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 381).” art. 106 ust. 2 zdanie trzecie, ust. 3 pkt 13, ust. 4 pkt 11 i ust. 5, art. 148 pkt 6 oraz art. 172 pkt 10, które wchodzą w życie z dniem 1 stycznia 2012 r.”;
 6) art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), które stanowią: „Art. 40. 1. Do postępowań w sprawie wydania pozwolenia na przeprowadzenie zbiórki publicznej wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 2. Pozwolenia na przeprowadzenie zbiórki publicznej wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały udzielone, niezbędny do realizacji celu zbiórki i przedstawienia jej wyników.” „Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
 Marszałek Sejmu: R. Sikorski

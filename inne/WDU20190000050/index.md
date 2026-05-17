@@ -8,9 +8,12 @@ pos: 50
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 stycznia 2019 r.
+# o finansowym wspieraniu produkcji audiowizualnej
+
+*USTAWA z dnia 9 listopada 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-11-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000050) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/50/text.pdf) |
 
-USTAWA z dnia 9 listopada 2018 r.
-o finansowym wspieraniu produkcji audiowizualnej
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
@@ -35,7 +35,7 @@ o finansowym wspieraniu produkcji audiowizualnej
 
 2. Wsparcie finansowe stanowi pomoc publiczną zgodnie z art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej.
 
-3. Niniejsza ustawa nie narusza zasad dofinansowania twórczości filmowej i innej działalności w dziedzinie kinematografii określonych w ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2018 r. poz. 597).
+3. Niniejsza ustawa nie narusza zasad dofinansowania twórczości filmowej i innej działalności w dziedzinie kinematografii określonych w ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2019 r. poz. 2199 oraz z 2020 r. poz. 568 i 875).
 
 4. Pomoc publiczna, o której mowa w ust. 2, jest przyznawana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), a w szczególności art. 54 tego rozporządzenia, zwanego dalej „rozporządzeniem nr 651/2014”.
 
@@ -116,7 +116,7 @@ o finansowym wspieraniu produkcji audiowizualnej
 
 2. Wsparcie finansowe może być przyznane podmiotowi świadczącemu usługę na rzecz produkcji audiowizualnej wyłącznie w sytuacji, gdy producent utworu audiowizualnego ani żaden z koproducentów utworu audiowizualnego nie ma siedziby na terytorium Rzeczypospolitej Polskiej.
 
-3. Wsparcie finansowe może być przyznane także przedsiębiorcy będącemu producentem utworu audiowizualnego albo koproducentem utworu audiowizualnego, który ma siedzibę w innym państwie członkowskim Unii Europejskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, w przypadku gdy spełnia on łącznie następujące warunki:
+3. Wsparcie finansowe może być przyznane także przedsiębiorcy będącemu producentem utworu audiowizualnego albo koproducentem utworu audiowizualnego, który ma siedzibę w innym państwie członkowskim Unii Europejskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w przypadku gdy spełnia on łącznie następujące warunki:
 
 - **1)** posiada oddział na terytorium Rzeczypospolitej Polskiej;
 - **2)** przedmiotem wsparcia finansowego jest utwór audiowizualny produkowany przez ten oddział.
@@ -140,7 +140,7 @@ o finansowym wspieraniu produkcji audiowizualnej
 - **1)** jest skierowany do widowni w wieku do 12 lat lub
 - **2)** w swoim założeniu promuje polskie dziedzictwo historyczne lub kulturowe na świecie i jednocześnie polskie koszty kwalifikowalne jego produkcji audiowizualnej przekraczają co najmniej dwukrotnie minimalne wartości polskich kosztów kwalifikowalnych uprawniających do wystąpienia z wnioskiem.
 
-3. Wysokość wsparcia finansowego wraz z innymi źródłami pomocy publicznej przyznanymi na produkcję utworu audiowizualnego nie może przekroczyć łącznie 60% całości kosztów produkcji audiowizualnej w przypadku koprodukcji międzynarodowej utworu audiowizualnego, w której jednym z państw pochodzenia producentów utworu audiowizualnego lub koproducentów utworu audiowizualnego jest Rzeczpospolita Polska, a pozostali producenci utworu audiowizualnego lub koproducenci utworu audiowizualnego pochodzą z innych państw członkowskich Unii Europejskiej lub z państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym. Limit ten nie dotyczy utworu trudnego, o którym mowa w ust. 2.
+3. Wysokość wsparcia finansowego wraz z innymi źródłami pomocy publicznej przyznanymi na produkcję utworu audiowizualnego nie może przekroczyć łącznie 60% całości kosztów produkcji audiowizualnej w przypadku koprodukcji międzynarodowej utworu audiowizualnego, w której jednym z państw pochodzenia producentów utworu audiowizualnego lub koproducentów utworu audiowizualnego jest Rzeczpospolita Polska, a pozostali producenci utworu audiowizualnego lub koproducenci utworu audiowizualnego pochodzą z innych państw członkowskich Unii Europejskiej lub z państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym. Limit ten nie dotyczy utworu trudnego, o którym mowa w ust. 2.
 
 4. Za koszty produkcji określone w ust. 1–3 uznaje się koszty mieszczące się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014.
 
@@ -176,7 +176,7 @@ o finansowym wspieraniu produkcji audiowizualnej
 
 3. Koszty obejmujące honoraria, wynagrodzenia i inne świadczenia przeznaczone dla osób zaangażowanych do produkcji utworu audiowizualnego na podstawie umów innych niż umowa o pracę, uznaje się za polskie koszty kwalifikowalne, jeżeli są objęte obowiązkiem podatkowym w rozumieniu przepisów podatkowych i mieszczą się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014.
 
-4. Koszty obejmujące honoraria, wynagrodzenia i inne świadczenia przeznaczone dla osób zaangażowanych do produkcji utworu audiowizualnego na podstawie umów o pracę, uznaje się za polskie koszty kwalifikowalne, jeżeli obejmują koszty pracy pracowników przedsiębiorcy, który otrzymał wsparcie finansowe lub jego koproducentów, lub ich podwykonawców, którzy są objęci nieograniczonym obowiązkiem podatkowym zgodnie z ustawą z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm. ).
+4. Koszty obejmujące honoraria, wynagrodzenia i inne świadczenia przeznaczone dla osób zaangażowanych do produkcji utworu audiowizualnego na podstawie umów o pracę, uznaje się za polskie koszty kwalifikowalne, jeżeli obejmują koszty pracy pracowników przedsiębiorcy, który otrzymał wsparcie finansowe lub jego koproducentów, lub ich podwykonawców, którzy są objęci nieograniczonym obowiązkiem podatkowym zgodnie z ustawą z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm. ).
 
 5. Polskie koszty kwalifikowalne nie obejmują podatku od towarów i usług oraz kosztów związanych z prowadzeniem działalności przez producentów lub koproducentów, niezwiązanych bezpośrednio z produkcją audiowizualną lub świadczeniem usługi na rzecz produkcji audiowizualnej, będącą przedmiotem wsparcia finansowego.
 
@@ -224,7 +224,7 @@ o finansowym wspieraniu produkcji audiowizualnej
 
 1. Instytut przyznaje wsparcie finansowe na podstawie wniosku złożonego przez przedsiębiorcę, zwanego dalej „wnioskodawcą”.
 
-2. Wniosek składa się nie wcześniej niż 6 miesięcy i nie później niż 2 miesiące przed rozpoczęciem prac, które mają być objęte wsparciem finansowym.
+2. Wniosek składa się nie wcześniej niż 12 miesięcy przed rozpoczęciem prac, które mają być objęte wsparciem finansowym, i nie później niż przed rozpoczęciem tych prac. Wnioskodawca jest zobowiązany rozpocząć prace objęte wsparciem finansowym w terminie nie później niż 12 miesięcy od dnia złożenia wniosku.
 
 3. Wniosek zawiera:
 
@@ -241,12 +241,12 @@ o finansowym wspieraniu produkcji audiowizualnej
 - **11)** określenie lokalizacji prac objętych wsparciem finansowym oraz liczby dni zdjęciowych lub dni produkcji audiowizualnej, lub postprodukcji audiowizualnej na terytorium Rzeczypospolitej Polskiej i w innych państwach;
 - **12)** firmę, siedzibę i adres producentów utworu audiowizualnego lub koproducentów utworu audiowizualnego;
 - **13)** imiona, nazwiska, określenie obywatelstw oraz pełnionych funkcji poszczególnych członków ekipy filmowej, potwierdzające spełnienie kryteriów testu kwalifikacyjnego;
-- **14)** informacje określone w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362).
+- **14)** informacje określone w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2020 r. poz. 708 i 2377).
 
 4. Wnioskodawca dołącza do wniosku:
 
 - **1)** kopię umowy koprodukcyjnej lub umowy o świadczeniu usług na rzecz produkcji audiowizualnej tłumaczone na język polski przez tłumacza przysięgłego;
-- **2)** zaświadczenie z urzędu skarbowego o niezaleganiu w podatkach i innych należnościach, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm. ), wydane nie wcześniej niż na 30 dni przed złożeniem wniosku;
+- **2)** zaświadczenie z urzędu skarbowego o niezaleganiu w podatkach i innych należnościach, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423, 2122, 2123 i 2320), wydane nie wcześniej niż na 30 dni przed złożeniem wniosku;
 - **3)** zaświadczenie z Zakładu Ubezpieczeń Społecznych o niezaleganiu w opłacaniu składek na ubezpieczenia społeczne nie starsze niż 30 dni;
 - **4)** oświadczenie o niewystępowaniu okoliczności, o których mowa w art. 10;
 - **5)** informację dotyczącą doświadczenia pracowników lub współpracowników wnioskodawcy zaangażowanych w produkcję audiowizualną;
@@ -261,6 +261,8 @@ o finansowym wspieraniu produkcji audiowizualnej
 
 6. Instytut publikuje na swojej stronie podmiotowej w Biuletynie Informacji Publicznej informację o sposobie składania i rozpatrywania wniosków oraz wzór wniosku.
 
+7. W przypadku gdy wnioskodawca z uzasadnionych przyczyn nie może przedstawić umowy o świadczeniu usług na rzecz produkcji audiowizualnej, o której mowa w ust. 4 pkt 1, lub dokumentów, o których mowa w ust. 4 pkt 9 i 10, Dyrektor Instytutu może podjąć decyzję o przedłożeniu Instytutowi innych dokumentów, na podstawie których będzie możliwe rozpatrzenie wniosku.
+
 **Art. 19.**
 
 1. Wnioskodawca może wystąpić z wnioskiem, jeżeli w momencie jego złożenia ma udokumentowane finansowanie na co najmniej 75% kosztów prac, które mają zostać objęte wsparciem finansowym, mieszczących się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014.
@@ -273,11 +275,13 @@ o finansowym wspieraniu produkcji audiowizualnej
 
 2. W przypadku złożenia wniosku, który nie spełnia wymogów, o których mowa w art. 18 ust. 3, lub niedołączenia do wniosku dokumentów, o których mowa w art. 18 ust. 4, Instytut zwraca wniosek wnioskodawcy i informuje go pisemnie o stwierdzonych brakach oraz o możliwości ponownego złożenia wniosku.
 
-3. W przypadku gdy ocena kosztorysu, o którym mowa w art. 18 ust. 4 pkt 8, wskazuje na nieadekwatność pozycji kosztowych względem założeń realizacyjnych oraz scenariusza, Instytut przedstawia wnioskodawcy uwagi do kosztorysu wraz z pisemnym uzasadnieniem oraz wzywa wnioskodawcę do przedstawienia zmodyfikowanego kosztorysu w terminie 14 dni od dnia doręczenia wezwania.
+3. W przypadku gdy ocena kosztorysu, o którym mowa w art. 18 ust. 4 pkt 8, wskazuje na nieadekwatność pozycji kosztowych względem założeń realizacyjnych oraz scenariusza, Instytut przedstawia wnioskodawcy uwagi do kosztorysu wraz z pisemnym uzasadnieniem oraz wzywa wnioskodawcę do przedstawienia zmodyfikowanego kosztorysu w terminie wskazanym w wezwaniu nie dłuższym jednak niż 60 dni.
 
 4. W przypadku braku przedstawienia zmodyfikowanego kosztorysu Instytut ustala maksymalną wysokość danego rodzaju kosztu kwalifikowalnego, która zostanie uznana za podlegającą rozliczeniu w ramach wsparcia finansowego, i przedstawia ją wnioskodawcy na piśmie w terminie 14 dni od upływu terminu na przedstawienie zmodyfikowanego kosztorysu przez wnioskodawcę.
 
 5. W przypadkach, o których mowa w ust. 3 i 4, termin określony w ust. 1 biegnie od dnia złożenia przez wnioskodawcę zmodyfikowanego kosztorysu albo od dnia przedstawienia przez Instytut maksymalnej wysokości kosztu kwalifikowalnego podlegającej rozliczeniu w ramach wsparcia finansowego.
+
+5a. W przypadkach, o których mowa w ust. 3, termin określony w ust. 1 biegnie od dnia złożenia przez wnioskodawcę prawidłowo sporządzonych dokumentów.
 
 6. Instytut rozpatruje wnioski w kolejności ich złożenia do czasu wyczerpania środków przeznaczonych na wsparcie finansowe, przewidzianych w planie finansowym Instytutu na dany rok.
 
@@ -293,7 +297,7 @@ o finansowym wspieraniu produkcji audiowizualnej
 
 **Art. 22.**
 
-1. Instytut w terminie 28 dni kalendarzowych od dnia powiadomienia wnioskodawcy o przyznaniu wsparcia finansowego zawiera z wnioskodawcą umowę o wsparcie finansowe.
+1. Instytut w terminie 28 dni kalendarzowych od dnia powiadomienia wnioskodawcy o przyznaniu wsparcia finansowego zawiera z wnioskodawcą umowę o wsparcie finansowe. Dyrektor Instytutu może, na wniosek wnioskodawcy, wydłużyć termin zawarcia umowy o wsparcie finansowe nie dłużej jednak niż na okres 3 miesięcy.
 
 2. Instytut może odstąpić od umowy o wsparcie finansowe, jeżeli w terminie 3 miesięcy od wskazanego w tej umowie terminu rozpoczęcia prac objętych wsparciem finansowym wnioskodawca lub jego koproducenci nie rozpoczną tych prac.
 
@@ -309,7 +313,7 @@ o finansowym wspieraniu produkcji audiowizualnej
 
 3. W przypadku gdy wartość wsparcia finansowego wynikająca z rozliczonych polskich kosztów kwalifikowalnych będzie niższa niż wysokość środków zgromadzonych na rachunku powierniczym, o którym mowa w ust. 1, Instytut przekazuje pozostałe na rachunku powierniczym środki na wsparcie finansowe innych utworów audiowizualnych.
 
-4. Przekazanie środków na rachunek powierniczy, o którym mowa w ust. 1, spełnia cel przyznania wsparcia finansowego, w rozumieniu art. 168 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm. ).
+4. Przekazanie środków na rachunek powierniczy, o którym mowa w ust. 1, spełnia cel przyznania wsparcia finansowego, w rozumieniu art. 168 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm. ).
 
 **Art. 25.**
 
@@ -400,7 +404,7 @@ o finansowym wspieraniu produkcji audiowizualnej
 - **10)** wzmiankę o zgłoszeniu zastrzeżeń do ustaleń zawartych w protokole kontroli oraz o stanowisku zajętym wobec nich przez osobę upoważnioną;
 - **11)** omówienie dokonanych w protokole kontroli poprawek, skreśleń i uzupełnień;
 - **12)** podpis osoby upoważnionej oraz wskazanie miejsca i datę podpisania protokołu kontroli;
-- **13)** podpis przedsiębiorcy oraz wskazanie miejsca i datę podpisania protokołu kontroli albo w przypadku odmowy podpisania protokołu kontroli wzmiankę o tym fakcie.
+- **13)** podpis przedsiębiorcy oraz wskazanie miejsca i datę podpisania protokołu kontroli albo w przypadku odmowy podpisania protokołu kontroli – wzmiankę o tym fakcie.
 
 2. Protokół kontroli podpisuje osoba upoważniona i przedsiębiorca.
 
@@ -433,7 +437,7 @@ o finansowym wspieraniu produkcji audiowizualnej
 1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy wykaz kosztów mogących stanowić polskie koszty kwalifikowalne oraz szczegółowy wykaz kosztów wyłączonych z kwalifikowania jako polskie koszty kwalifikowalne na podstawie art. 15 ust. 5;
-- **2)** minimalne planowane czasy trwania utworów audiowizualnych oraz minimalne wartości polskich kosztów kwalifikowalnych uprawniających do wnioskowania o wsparcie finansowe osobno dla poszczególnych rodzajów utworów audiowizualnych;
+- **2)** minimalne planowane czasy trwania utworów audiowizualnych oraz minimalne wartości polskich kosztów kwalifikowalnych uprawniających do wnioskowania o wsparcie finansowe – osobno dla poszczególnych rodzajów utworów audiowizualnych;
 - **3)** wzór wniosku o wydanie certyfikatu;
 - **4)** wzór wniosku o wsparcie finansowe;
 - **5)** wzór testu kwalifikacyjnego wraz ze szczegółowymi kryteriami testu kwalifikacyjnego i odpowiadającą im punktacją;
@@ -451,40 +455,22 @@ o finansowym wspieraniu produkcji audiowizualnej
 
 #### Rozdział 5 Przepisy zmieniające, przejściowe i końcowe
 
-**Art. 32.** W ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2018 r. poz. 597) wprowadza się następujące zmiany:
-
-**Art. 19b.**
-
-1. Podmiot prowadzący kino, który nie przekaże danych, o których mowa w art. 19a, albo nie przekaże ich w terminie podlega karze pieniężnej w wysokości od 1000 do 100 000 zł.
-
-2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji Dyrektor.
-
-3. Przy ustalaniu wysokości kar pieniężnych Dyrektor uwzględnia wcześniejsze naruszenia obowiązków przekazywania danych przez podmiot prowadzący kino, zakres i rodzaj danych nieprzekazanych albo nieprzekazanych w terminie oraz rozmiar działalności prowadzonej przez podmiot.
-
-4. Karę pieniężną wnosi się na rachunek bankowy Instytutu.
-
-5. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna.
-
-6. Do kar pieniężnych stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096).
-
-7. Wierzycielem należności z tytułu kar pieniężnych, o których mowa w ust. 1, w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji jest Instytut.
-
-8. Organem wyższego stopnia właściwym do rozpatrzenia zażalenia na postanowienie wierzyciela należności z tytułu kar pieniężnych, o których mowa w ust. 1, jest minister.”.
+**Art. 32.** (pominięty)
 
 **Art. 33.**
 
 1. W latach 2019–2027 minimalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi 100 000 tys. zł rocznie, natomiast w latach 2018–2027 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi w:
 
-- **1)** 2018 r. 000 tys. zł;
-- **2)** 2019 r. 210 738 tys. zł;
-- **3)** 2020 r. 216 006 tys. zł;
-- **4)** 2021 r. 221 406 tys. zł;
-- **5)** 2022 r. 226 940 tys. zł;
-- **6)** 2023 r. 232 614 tys. zł;
-- **7)** 2024 r. 238 430 tys. zł;
-- **8)** 2025 r. 244 390 tys. zł;
-- **9)** 2026 r. 250 500 tys. zł;
-- **10)** 2027 r. 265 762 tys. zł.
+- **1)** 2018 r. – 50 000 tys. zł;
+- **2)** 2019 r. – 210 738 tys. zł;
+- **3)** 2020 r. – 216 006 tys. zł;
+- **4)** 2021 r. – 221 406 tys. zł;
+- **5)** 2022 r. – 226 940 tys. zł;
+- **6)** 2023 r. – 232 614 tys. zł;
+- **7)** 2024 r. – 238 430 tys. zł;
+- **8)** 2025 r. – 244 390 tys. zł;
+- **9)** 2026 r. – 250 500 tys. zł;
+- **10)** 2027 r. – 265 762 tys. zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków związanych z kosztami funkcjonowania Instytutu.
 
@@ -492,5 +478,5 @@ o finansowym wspieraniu produkcji audiowizualnej
 
 **Art. 34.** Traci moc ustawa z dnia 16 lipca 1987 r. o państwowych instytucjach filmowych (Dz. U. z 2017 r. poz. 2006).
 
-**Art. 35.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem przepisów art. 32 pkt 3 lit. b i pkt 4, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 35.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia , z wyjątkiem przepisów art. 32 pkt 3 lit. b i pkt 4, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
 

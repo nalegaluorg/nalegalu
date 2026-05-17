@@ -1,0 +1,64 @@
+---
+title: "Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Biebrzańskiemu Parkowi Narodowemu z siedzibą w Osowcu-Twierdzy"
+address: WDU20130000303
+eli: DU/2013/303
+publisher: DU
+year: 2013
+pos: 303
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 marca 2013 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2013 poz. 303 |
+| ISAP | WDU20130000303 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2013-02-18 |
+| Data wydania | 2013-03-06 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/303/text.pdf) |
+
+Poz. 303 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
+w sprawie nadania statutu Biebrzańskiemu Parkowi Narodowemu z siedzibą w Osowcu-Twierdzy Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn.
+zm. ) zarządza się, co następuje: § 1. Biebrzańskiemu Parkowi Narodowemu z siedzibą w Osowcu-Twierdzy nadaje się statut, który stanowi załącznik do rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
+Minister Środowiska: M. Korolec STATUT BIEBRZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W OSOWCU-TWIERDZY § 1. Biebrzański Park Narodowy z siedzibą w Osowcu-Twierdzy, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
+§ 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
+1) Dział Administracji;
+2) Dział Edukacji;
+3) Dział Finansowo-Księgowy;
+4) Dział Monitoringu Przyrodniczego i Sozologicznego;
+5) Dział Projektów;
+6) Dział Udostępniania Parku;
+7) Centrum Ochrony Przyrody;
+8) Ośrodek Hodowli Zachowawczej Konika Polskiego i Rehabilitacji Zwierząt;
+9) Ośrodek Wdrażania Działań Ochronnych;
+10) Sekcja Ogólna;
+11) Samodzielne Stanowisko do spraw Kontroli Wewnętrznej;
+12) Posterunek Straży Parku;
+13) Obręb Ochronny Basenu Górnego, podzielony na obwody ochronne:
+a) T rzyrzeczki,
+b) L ipsk;
+14) Obręb Ochronny Basenu Środkowego, podzielony na obwody ochronne:
+a) D ębowo,
+b) K opytkowo,
+c) K apice,
+d) T ajno,
+e) C iszewo,
+f) G rzędy;
+15) Obręb Ochronny Basenu Dolnego, podzielony na obwody ochronne:
+a) O sowiec,
+b) W erykle,
+c) B rzeziny,
+d) M ścichy.
+§ 3. Dyrektor Parku może tworzyć komisje lub zespoły opiniodawczo-doradcze o charakterze stałym lub czasowym, określając ich nazwę, skład osobowy, zakres zadań, tryb działania oraz sposób ich obsługi.
+§ 4. Dyrektor Parku kieruje działalnością Parku przy pomocy zastępcy lub zastępców dyrektora Parku, głównego księgowego oraz kierujących komórkami organizacyjnymi, o których mowa w § 2.
+§ 5. W razie nieobecności dyrektora Parku lub czasowej niezdolności do wykonywania przez niego obowiązków działalnością Parku kieruje i reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.
+

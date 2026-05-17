@@ -8,9 +8,12 @@ pos: 1962
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# Dziennik Ustaw Nr 192 — 13628 — Poz. 1962 i 1963
+# o ustanowieniu programu wieloletniego „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004–2019”
+
+*USTAWA z dnia 22 lipca 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,21 +29,17 @@ domain: null
 
 **Art. 1.**
 
-1. W związku z przypadającą w roku 2011 czterechsetną rocznicą utworzenia przez króla Polski Zygmunta III Wazę Uniwersytetu w Poznaniu ustanawia się program wieloletni ŃUniwersytet im. Adama Mickiewicza w Poznaniu 2004—2011”, zwany dalej ŃProgramem”.
+1. W związku z przypadającą w roku 2011 czterechsetną rocznicą utworzenia przez króla Polski Zygmunta III Wazę Uniwersytetu w Poznaniu ustanawia się program wieloletni „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004–2019”, zwany dalej „Programem”.
 
-2. Ustala się okres realizacji Programu na lata 2004—2011.
+2. Ustala się okres realizacji Programu na lata 2004–2019.
 
-**Art. 2.** Nadzór nad realizacją Programu sprawuje minister właściwy do spraw szkolnictwa wyższego.
+**Art. 2.** Nadzór nad realizacją Programu sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
 
 **Art. 3.**
 
-1. Ęączne nakłady budżetu państwa na dofinansowanie Programu wcałym okresie jego realizacji nie mogą przekroczyć kwoty 311 726 tys. zł, przy wartości kosztorysowej zadań inwestycyjnych objętych Programem wynoszącej 415 726 tys. zł wcenach roku
+1. Łączne nakłady budżetu państwa na dofinansowanie Programu w całym okresie jego realizacji nie mogą przekroczyć kwoty 500 711 tys. zł, przy wartości kosztorysowej zadań inwestycyjnych objętych Programem wynoszącej 546 753 tys. zł w cenach roku 2009.
 
-2004.
+2. Środki finansowe z budżetu państwa, o których mowa w ust. 1, uwzględnia się każdego roku w ustawie budżetowej.
 
-2. Ârodki finansowe z budżetu państwa, o których mowa w ust. 1, uwzględnia się każdego roku w ustawie budżetowej.
-
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1962 USTAWA z dnia 22 lipca 2004 r. o ustanowieniu programu wieloletniego ŃUniwersytet im. Adama Mickiewicza w Poznaniu 2004—2011” 1963 USTAWA z dnia 30 lipca 2004 r. o zmianie ustawy o świadczeniach rodzinnych
-
-**Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. Nr 228, poz. 2255 oraz z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593 i Nr 99, poz. 1001) wprowadza się następujące zmiany:
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

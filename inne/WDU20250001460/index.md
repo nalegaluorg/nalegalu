@@ -8,9 +8,12 @@ pos: 1460
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 października 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o współpracy rozwojowej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-10-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001460) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1460/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o współpracy rozwojowej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 września 2011 r. o współpracy rozwojowej (Dz. U. z 2024 r. poz. 1384), z uwzględnieniem zmian wprowadzonych ustawą z dnia 20 marca 2025 r. o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw (Dz. U. poz. 525) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 października 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4–6 ustawy z dnia 20 marca 2025 r. o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw (Dz. U. poz. 525), które stanowią: „Art. 4. 1. W Banku Gospodarstwa Krajowego tworzy się Finansowy Instrument Współpracy Rozwojowej.
 2. Pierwszy projekt planu rzeczowo-finansowego Finansowego Instrumentu Współpracy Rozwojowej, o którym mowa w art. 19e ust. 1 pkt 2 ustawy zmienianej w art. 1, jest opracowywany przez Bank Gospodarstwa Krajowego w uzgodnieniu z ministrem właściwym do spraw finansów publicznych działającym w uzgodnieniu z ministrem właściwym do spraw zagranicznych w terminie 60 dni od dnia wejścia w życie niniejszej ustawy i zatwierdzany w terminie 60 dni od dnia jego otrzymania przez ministra właściwego do spraw finansów publicznych.

@@ -1,0 +1,139 @@
+---
+title: "Obwieszczenie Ministra Edukacji i Nauki z dnia 21 listopada 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w publicznym przedszkolu, publicznej szkole podstawowej, publicznej szkole ponadpodstawowej oraz publicznej placówce"
+address: WDU20230002578
+eli: DU/2023/2578
+publisher: DU
+year: 2023
+pos: 2578
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 listopada 2023 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2578 |
+| ISAP | WDU20230002578 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-11-21 |
+| Data wydania | 2023-11-28 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002578) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2578/text.pdf) |
+
+OBWIESZCZENIE MINISTRA EDUKACJI I NAUKI z dnia 21 listopada 2023 r.
+sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze publicznym przedszkolu, publicznej szkole podstawowej, publicznej szkole ponadpodstawowej oraz publicznej placówce
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze publicznym przedszkolu, publicznej szkole podstawowej, publicznej szkole ponadpodstawowej oraz publicznej placówce (Dz. U. z 2021 r. poz. 1449), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 10 stycznia 2023 r. zmieniającym rozporządzenie sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze publicznym przedszkolu, publicznej szkole podstawowej, publicznej szkole ponadpodstawowej oraz publicznej placówce (Dz. U.
+poz. 108).
+Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Edukacji i Nauki z dnia 10 stycznia 2023 r. zmieniającego rozporządzenie sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze publicznym przedszkolu, publicznej szkole podstawowej, publicznej szkole ponadpodstawowej oraz publicznej placówce (Dz. U. poz. 108), które stanowią: „§ 1. Do dnia 31 sierpnia 2027 r. stanowisko:
+1) dyrektora i wicedyrektora szkoły polskiej może zajmować również nauczyciel, który uzyskał stopień nauczyciela kontraktowego przed dniem 1 września 2022 r. oraz spełnia wymagania określone w:
+a) § 1 pkt 5–11 i § 5 ust. 1 pkt 1–3 rozporządzenia zmienianego § 1 albo
+b) § 1 pkt 2 i 5–11 oraz § 5 ust. 1 pkt 1 i 3 oraz ust. 2 pkt 1 rozporządzenia zmienianego § 1;
+2) wicedyrektora publicznego przedszkola, publicznej szkoły i publicznej placówki oraz zespołu publicznych przedszkoli, publicznych szkół lub publicznych placówek może zajmować również nauczyciel, który uzyskał stopień nauczyciela kontraktowego przed dniem 1 września 2022 r. oraz spełnia wymagania określone w:
+a) § 1 pkt 1 i 5–11 oraz § 8 ust. 1 pkt 1 rozporządzenia zmienianego § 1 i § 8 ust. 1 pkt 2 rozporządzenia zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem, albo
+b) § 1 pkt 5–11 i § 8 ust. 1 pkt 1 oraz ust. 2 pkt 1 rozporządzenia zmienianego § 1 i § 8 ust. 1 pkt 2 rozporządzenia zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem;
+3) wicedyrektora publicznej szkoły lub zespołu publicznych szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej może zajmować również nauczyciel, który uzyskał stopień nauczyciela kontraktowego przed dniem 1 września 2022 r. oraz spełnia wymagania określone w:
+a) § 1 pkt 1 i 5–11 oraz § 9 ust. 1 pkt 1, 3 i 4 rozporządzenia zmienianego § 1 oraz § 9 ust. 1 pkt 2 rozporządzenia zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem, albo
+b) § 1 pkt 1, 2 i 5–11 oraz § 9 ust. 1 pkt 1 i 4 oraz ust. 2 pkt 1 rozporządzenia zmienianego § 1 i § 9 ust. 1 pkt 2 rozporządzenia zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem;
+4) kierownicze inne niż wymienione § 1–4, § 6–9 i § 10 rozporządzenia zmienianego § 1 oraz § 5 rozporządzenia zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem, publicznym przedszkolu, publicznej szkole i publicznej placówce oraz zespole publicznych przedszkoli, publicznych szkół lub publicznych placówek może zajmować również nauczyciel, który uzyskał stopień nauczyciela kontraktowego przed dniem 1 września 2022 r. oraz spełnia wymagania określone § 1 pkt 5–11 i § 11 pkt 1 i 2 rozporządzenia zmienianego § 1 oraz § 11 pkt 3 rozporządzenia zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem.
+Do dnia 31 sierpnia 2027 r. za spełnienie wymogu uzyskania co najmniej bardzo dobrej oceny pracy okresie ostatnich pięciu lat pracy przed:
+1) przystąpieniem do konkursu na stanowisko dyrektora, o którym mowa § 1–4 rozporządzenia zmienianego § 1, albo przed powierzeniem tego stanowiska przypadku, o którym mowa art. 63 ust. 11 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, jeżeli nie przeprowadzono konkursu, i przypadku, o którym mowa art. 63 ust. 12 tej ustawy, uznaje się również uzyskanie pozytywnej oceny dorobku zawodowego okresie ostatniego roku przed przystąpieniem do konkursu na stanowisko dyrektora, o którym mowa § 1–4 rozporządzenia zmienianego § 1, albo przed powierzeniem tego stanowiska przypadku, o którym mowa art. 63 ust. 11 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, jeżeli nie przeprowadzono konkursu, i przypadku, o którym mowa art. 63 ust. 12 tej ustawy;
+2) powierzeniem stanowiska wicedyrektora lub innego stanowiska kierowniczego, o których mowa § 8, § 9 i § 11 rozporządzenia zmienianego § 1, uznaje się również uzyskanie pozytywnej oceny dorobku zawodowego okresie ostatniego roku przed powierzeniem odpowiednio stanowiska wicedyrektora lub innego stanowiska kierowniczego.
+§ 3. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia.”.
+Minister Edukacji i Nauki: P. Czarnek ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 11 sierpnia 2017 r.
+sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze publicznym przedszkolu, publicznej szkole podstawowej, publicznej szkole ponadpodstawowej oraz publicznej placówce Na podstawie art. 62 ust. 4 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005) zarządza się, co następuje: § 1. Stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej i publicznej szkoły ponadpodstawowej, zwanych dalej „szkołami”, oraz publicznej placówki może zajmować nauczyciel mianowany lub dyplomowany, który spełnia łącznie następujące wymagania:
+1) posiada wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, oraz przygotowanie pedagogiczne i kwalifikacje do zajmowania stanowiska nauczyciela danym przedszkolu, szkole lub placówce;
+2) ukończył studia pierwszego stopnia, studia drugiego stopnia, jednolite studia magisterskie lub studia podyplomowe, z zakresu zarządzania albo kurs kwalifikacyjny z zakresu zarządzania oświatą prowadzony zgodnie z przepisami sprawie placówek doskonalenia nauczycieli;
+3) posiada co najmniej pięcioletni staż pracy pedagogicznej na stanowisku nauczyciela lub pięcioletni staż pracy dydaktycznej na stanowisku nauczyciela akademickiego;
+4) uzyskał:
+a) co najmniej bardzo dobrą ocenę pracy okresie ostatnich pięciu lat pracy albo
+b) (uchylona)
+c) przypadku nauczyciela akademickiego pozytywną ocenę pracy okresie ostatnich czterech lat pracy uczelni przed przystąpieniem do konkursu na stanowisko dyrektora albo przed powierzeniem stanowiska dyrektora przypadku, o którym mowa art. 63 ust. 11 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, jeżeli nie przeprowadzono konkursu, i przypadku, o którym mowa art. 63 ust. 12 tej ustawy;
+5) spełnia warunki zdrowotne niezbędne do wykonywania pracy na stanowisku kierowniczym;
+6) ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych;
+7) nie był prawomocnie ukarany karą dyscyplinarną, o której mowa art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2023 r. poz. 984, 1234, 1586, 1672 i 2005), a przypadku nauczyciela akademickiego karą dyscyplinarną, o której mowa art. 276 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088, 1234, 1672, 1872 i 2005), lub karą dyscyplinarną, o której mowa art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm. ), oraz nie toczy się przeciwko niemu postępowanie dyscyplinarne;
+8) nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+9) nie toczy się przeciwko niemu postępowanie o przestępstwo ścigane z oskarżenia publicznego;
+10) nie był karany zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2021 r. poz. 289 oraz z 2023 r. poz. 1030 i 1532);
+11) przypadku cudzoziemca posiada znajomość języka polskiego poświadczoną na zasadach określonych ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2021 r. poz. 672 oraz z 2023 r. poz. 1672), ukończył studia pierwszego stopnia, studia drugiego stopnia lub jednolite studia magisterskie, na kierunku filologia polska, lub jest tłumaczem przysięgłym języka polskiego.
+§ Stanowisko dyrektora publicznego przedszkola, z wyjątkiem przedszkola specjalnego, oraz stanowisko dyrektora publicznej szkoły podstawowej, z wyjątkiem szkoły podstawowej specjalnej, może zajmować również nauczyciel mianowany lub dyplomowany, który:
+1) posiada wykształcenie wyższe i tytuł zawodowy licencjat, inżynier lub równorzędny, oraz przygotowanie pedagogiczne i kwalifikacje do zajmowania stanowiska nauczyciela danym przedszkolu lub danej szkole podstawowej, oraz
+2) spełnia wymagania określone § 1 pkt 2–11.
+§ 3. 1. Stanowisko dyrektora zespołu publicznych szkół lub placówek może zajmować nauczyciel mianowany lub dyplomowany, który:
+1) posiada wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, oraz przygotowanie pedagogiczne i kwalifikacje do zajmowania stanowiska nauczyciela szkole lub placówce wchodzącej skład zespołu, której wymagania dotyczące kwalifikacji nauczycieli są najwyższe, oraz
+2) spełnia wymagania określone § 1 pkt 2–11.
+Stanowisko dyrektora zespołu, skład którego wchodzi publiczna szkoła podstawowa i publiczne przedszkole albo przedszkola, z wyjątkiem zespołu, skład którego wchodzi publiczna szkoła podstawowa specjalna lub publiczne przedszkole specjalne albo przedszkola specjalne, może zajmować również nauczyciel mianowany lub dyplomowany, który:
+1) posiada wykształcenie wyższe i tytuł zawodowy licencjat, inżynier lub równorzędny oraz przygotowanie pedagogiczne i kwalifikacje do zajmowania stanowiska nauczyciela danej szkole podstawowej, oraz
+2) spełnia wymagania określone § 1 pkt 2–11.
+3. Stanowisko dyrektora zespołu, skład którego wchodzą wyłącznie publiczne przedszkola, z wyjątkiem zespołu, skład którego wchodzi publiczne przedszkole specjalne lub przedszkola specjalne, może zajmować również nauczyciel mianowany lub dyplomowany, który:
+1) posiada wykształcenie wyższe i tytuł zawodowy licencjat, inżynier lub równorzędny, oraz przygotowanie pedagogiczne i kwalifikacje do zajmowania stanowiska nauczyciela danym przedszkolu, oraz
+2) spełnia wymagania określone § 1 pkt 2–11.
+§ 4. 1. Stanowisko dyrektora publicznej szkoły przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej może zajmować nauczyciel mianowany lub dyplomowany, który spełnia łącznie następujące wymagania:
+1) ukończył kurs kwalifikacyjny z zakresu zarządzania szkołami i szkołami polskimi, organizowany na zlecenie ministra właściwego do spraw oświaty i wychowania, wymiarze nie mniejszym niż 20 godzin;
+2) posiada znajomość języka kraju pobytu lub języka angielskiego, odpowiadającą co najmniej poziomowi biegłości językowej B2 Europejskiego Systemu Opisu Kształcenia Językowego Rady Europy;
+3) spełnia wymagania określone § 1.
+Stanowisko dyrektora zespołu publicznych szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej może zajmować nauczyciel mianowany lub dyplomowany, który:
+1) posiada wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, oraz przygotowanie pedagogiczne i kwalifikacje do zajmowania stanowiska nauczyciela szkole wchodzącej skład zespołu, której wymagania dotyczące kwalifikacji nauczycieli są najwyższe, oraz § 5. 1. Stanowisko dyrektora i wicedyrektora szkoły polskiej może zajmować nauczyciel mianowany lub dyplomowany, który spełnia łącznie następujące wymagania:
+1) posiada wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, oraz przygotowanie pedagogiczne;
+2) ukończył kurs kwalifikacyjny z zakresu zarządzania szkołami i szkołami polskimi, organizowany na zlecenie ministra właściwego do spraw oświaty i wychowania, wymiarze nie mniejszym niż 80 godzin;
+3) posiada znajomość języka kraju pobytu lub języka angielskiego, odpowiadającą co najmniej poziomowi biegłości językowej B2 Europejskiego Systemu Opisu Kształcenia Językowego Rady Europy;
+4) spełnia wymagania określone § 1 pkt 5–11.
+Stanowisko dyrektora i wicedyrektora szkoły polskiej może zajmować również nauczyciel mianowany lub dyplomowany, który:
+1) ukończył kurs kwalifikacyjny z zakresu zarządzania szkołami i szkołami polskimi, organizowany na zlecenie ministra właściwego do spraw oświaty i wychowania, wymiarze nie mniejszym niż 20 godzin, oraz
+2) spełnia wymagania określone ust. 1 pkt 1 i 3 oraz § 1 pkt 2 i 5–11.
+§ 6. Stanowisko dyrektora publicznego przedszkola, publicznej szkoły i publicznej placówki oraz zespołu publicznych przedszkoli, publicznych szkół lub publicznych placówek może zajmować osoba niebędąca nauczycielem, która spełnia łącznie następujące wymagania:
+1) posiada obywatelstwo polskie, z tym że wymóg ten nie dotyczy obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz Konfederacji Szwajcarskiej;
+2) posiada wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny;
+3) posiada co najmniej pięcioletni staż pracy, tym co najmniej dwuletni staż pracy na stanowisku kierowniczym;
+4) nie toczy się przeciwko niej postępowanie o przestępstwo ścigane z oskarżenia publicznego lub postępowanie dyscyplinarne;
+5) spełnia wymagania określone § 1 pkt 2, 5, 6, 8, 10 i 11.
+§ 7. Stanowisko dyrektora publicznej szkoły lub zespołu publicznych szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej może zajmować osoba niebędąca nauczycielem, która spełnia wymagania określone § 1 pkt 2, 5, 6, 8, 10 i 11, § 4 ust. 1 pkt 1 i 2 oraz § 6 pkt 1–4.
+§ 8. 1. Stanowisko wicedyrektora publicznego przedszkola, publicznej szkoły i publicznej placówki oraz zespołu publicznych przedszkoli, publicznych szkół lub publicznych placówek może zajmować nauczyciel mianowany lub dyplomowany, który spełnia łącznie następujące wymagania:
+1) posiada co najmniej czteroletni staż pracy pedagogicznej na stanowisku nauczyciela lub czteroletni staż pracy dydaktycznej na stanowisku nauczyciela akademickiego;
+2) uzyskał:
+a) co najmniej bardzo dobrą ocenę pracy okresie ostatnich pięciu lat pracy albo
+b) (uchylona)
+c) przypadku nauczyciela akademickiego pozytywną ocenę pracy okresie ostatnich czterech lat pracy uczelni przed powierzeniem stanowiska wicedyrektora;
+3) spełnia wymagania określone § 1 pkt 1 i 5–11.
+Stanowisko wicedyrektora publicznego przedszkola, z wyjątkiem przedszkola specjalnego, stanowisko wicedyrektora publicznej szkoły podstawowej, z wyjątkiem szkoły podstawowej specjalnej, stanowisko wicedyrektora zespołu, skład którego wchodzi publiczna szkoła podstawowa i publiczne przedszkole albo przedszkola, z wyjątkiem zespołu, skład którego wchodzi publiczna szkoła podstawowa specjalna lub publiczne przedszkole specjalne albo przedszkola specjalne, stanowisko wicedyrektora zespołu, skład którego wchodzą wyłącznie publiczne przedszkola, z wyjątkiem zespołu, skład którego wchodzi publiczne przedszkole specjalne lub przedszkola specjalne, może zajmować również nauczyciel mianowany lub dyplomowany, który:
+1) posiada wykształcenie wyższe i tytuł zawodowy licencjat, inżynier lub równorzędny, oraz przygotowanie pedagogiczne i kwalifikacje do zajmowania stanowiska nauczyciela danym przedszkolu lub danej szkole podstawowej, oraz
+2) spełnia wymagania określone ust. 1 pkt 1 i 2 oraz § 1 pkt 5–11.
+§ 9. 1. Stanowisko wicedyrektora publicznej szkoły lub zespołu publicznych szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej może zajmować nauczyciel mianowany lub dyplomowany, który spełnia łącznie następujące wymagania:
+1) posiada co najmniej czteroletni staż pracy pedagogicznej na stanowisku nauczyciela lub czteroletni staż pracy dydaktycznej na stanowisku nauczyciela akademickiego;
+2) uzyskał:
+a) co najmniej bardzo dobrą ocenę pracy okresie ostatnich pięciu lat pracy albo
+b) (uchylona)
+c) przypadku nauczyciela akademickiego pozytywną ocenę pracy okresie ostatnich czterech lat pracy uczelni przed powierzeniem stanowiska wicedyrektora;
+3) ukończył kurs kwalifikacyjny z zakresu zarządzania szkołami i szkołami polskimi, organizowany na zlecenie ministra właściwego do spraw oświaty i wychowania, wymiarze nie mniejszym niż 80 godzin;
+4) posiada znajomość języka kraju pobytu lub języka angielskiego, odpowiadającą co najmniej poziomowi biegłości językowej B2 Europejskiego Systemu Opisu Kształcenia Językowego Rady Europy;
+5) spełnia wymagania określone § 1 pkt 1 i 5–11.
+Stanowisko wicedyrektora publicznej szkoły lub zespołu publicznych szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej może zajmować również nauczyciel mianowany lub dyplomowany, który:
+1) ukończył kurs kwalifikacyjny z zakresu zarządzania szkołami i szkołami polskimi, organizowany na zlecenie ministra właściwego do spraw oświaty i wychowania, wymiarze nie mniejszym niż 20 godzin, oraz
+2) spełnia wymagania określone ust. 1 pkt 1, 2 i 4 oraz § 1 pkt 1, 2 i 5–11.
+§ 9a. 1. Za spełnienie wymogu, o którym mowa § 4 ust. 1 pkt 1, § 5 ust. 2 pkt 1 i § 9 ust. 2 pkt 1, uznaje się także ukończenie przed dniem 1 września 2019 r. kursu kwalifikacyjnego z zakresu zarządzania szkołami i szkolnymi punktami konsultacyjnymi za granicą, organizowanego na zlecenie ministra właściwego do spraw oświaty i wychowania, wymiarze nie mniejszym niż 20 godzin.
+Za spełnienie wymogu, o którym mowa § 5 ust. 1 pkt 2 i § 9 ust. 1 pkt 3, uznaje się także ukończenie przed dniem 1 września 2019 r. kursu kwalifikacyjnego z zakresu zarządzania szkołami i szkolnymi punktami konsultacyjnymi za granicą, organizowanego na zlecenie ministra właściwego do spraw oświaty i wychowania, wymiarze nie mniejszym niż 80 godzin.
+§ 10. Stanowisko wicedyrektora publicznego przedszkola, publicznej szkoły i publicznej placówki oraz zespołu publicznych przedszkoli, publicznych szkół lub publicznych placówek może zajmować osoba niebędąca nauczycielem, która:
+1) posiada co najmniej czteroletni staż pracy oraz
+2) spełnia wymagania określone § 1 pkt 2, 5, 6, 8, 10 i 11 oraz § 6 pkt 1, 2 i 4.
+§ 11. Stanowiska kierownicze inne niż wymienione § 1–9 i 10 publicznym przedszkolu, publicznej szkole i publicznej placówce oraz zespole publicznych przedszkoli, publicznych szkół lub publicznych placówek może zajmować nauczyciel mianowany lub dyplomowany, który spełnia łącznie następujące wymagania:
+1) posiada kwalifikacje do zajmowania stanowiska nauczyciela danym przedszkolu, danej szkole lub danej placówce;
+2) posiada co najmniej trzyletni staż pracy pedagogicznej na stanowisku nauczyciela lub trzyletni staż pracy dydaktycznej na stanowisku nauczyciela akademickiego;
+3) uzyskał:
+a) co najmniej bardzo dobrą ocenę pracy okresie ostatnich pięciu lat pracy albo
+b) (uchylona)
+c) przypadku nauczyciela akademickiego pozytywną ocenę pracy okresie ostatnich trzech lat pracy uczelni przed powierzeniem stanowiska kierowniczego;
+4) spełnia wymagania określone § 1 pkt 5–11.
+§ 12. Stanowisko dyrektora, wicedyrektora albo inne stanowisko kierownicze publicznym przedszkolu, publicznej szkole i publicznej placówce oraz zespole publicznych przedszkoli, szkół lub placówek może zajmować również:
+1) nauczyciel mianowany lub dyplomowany, zatrudniony na stanowisku wymagającym kwalifikacji pedagogicznych urzędzie organu administracji rządowej, kuratorium oświaty, Centrum Edukacji Artystycznej, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych, lub 1a) nauczyciel mianowany lub dyplomowany, zatrudniony na stanowisku innym niż określone pkt 1, na którym są realizowane zadania z zakresu oświaty, urzędzie organu administracji rządowej, kuratorium oświaty, Centrum Edukacji Artystycznej, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych, lub na stanowisku, na którym są realizowane zadania z zakresu oświaty urzędzie organu administracji samorządowej, lub
+2) nauczyciel mianowany lub dyplomowany urlopowany lub zwolniony z obowiązku świadczenia pracy na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2022 r. poz. 854) spełniający wymagania określone rozporządzeniu, z wyjątkiem wymogu posiadania co najmniej bardzo dobrej oceny pracy.
+§ 13. 1. Do osób zajmujących dniu wejścia życie rozporządzenia stanowisko dyrektora publicznego przedszkola, publicznej szkoły i publicznej placówki lub zespołu publicznych przedszkoli, szkół lub placówek oraz stanowisko dyrektora publicznej szkoły lub zespołu publicznych szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej stosuje się wymagania określone przepisach rozporządzenia Ministra Edukacji Narodowej z dnia 27 października 2009 r. sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze poszczególnych typach publicznych szkół i rodzajach publicznych placówek (Dz. U. poz. 1436 oraz z 2011 r. poz. 1526) do końca okresu, na jaki odpowiednio powierzono to stanowisko lub powołano na to stanowisko.
+Do osób zajmujących dniu wejścia życie rozporządzenia inne stanowiska kierownicze niż wymienione ust. 1 stosuje się wymagania określone przepisach, o których mowa ust. 1, do końca okresu, na jaki powierzono to stanowisko lub powołano na to stanowisko, a przypadku gdy stanowisko powierzono lub powołano na to stanowisko na okres dłuższy niż 5 lat albo na czas nieokreślony przez okres 5 lat od dnia wejścia życie rozporządzenia.
+3. W konkursach na stanowisko dyrektora publicznego przedszkola, publicznej szkoły i publicznej placówki lub zespołu publicznych przedszkoli, publicznych szkół lub publicznych placówek oraz na stanowisko dyrektora publicznej szkoły lub zespołu publicznych szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, ogłoszonych przed dniem wejścia życie rozporządzenia, a także do osób wyłonionych wyniku tych konkursów stosuje się wymagania określone przepisach, o których mowa ust. 1, do końca okresu, na jaki następuje odpowiednio powierzenie stanowiska dyrektora lub powołanie na to stanowisko.
+4. W konkursach na stanowisko dyrektora zespołu publicznych szkół lub placówek oraz na stanowisko dyrektora zespołu publicznych szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, skład którego wchodzi publiczne przedszkole, publiczna szkoła podstawowa, publiczna szkoła ponadpodstawowa lub publiczna placówka oraz dotychczasowe publiczne gimnazjum lub dotychczasowa publiczna szkoła ponadgimnazjalna, ogłoszonych po wejściu życie rozporządzenia, stosuje się wymagania określone niniejszym rozporządzeniu.
+5. Przepis ust. 4 stosuje się odpowiednio do osób zajmujących dniu wejścia życie rozporządzenia inne stanowiska kierownicze niż wymienione ust. 1 przy powierzaniu lub powołaniu na to stanowisko.
+§ 14. Rozporządzenie wchodzi życie z dniem 1 września 2017 r.
+

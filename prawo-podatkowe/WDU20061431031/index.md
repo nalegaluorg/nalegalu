@@ -8,9 +8,10 @@ pos: 1031
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 13 lipca 2006 r. zmieniająca ustawę o zmianie ustawy - Ordynacja podatkowa oraz o zmianie niektórych innych ustaw
+# zmieniająca ustawę o zmianie ustawy - Ordynacja podatkowa oraz o zmianie niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,28 +25,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061431031) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1031/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 30 czerwca 2005 r. ozmianie ustawy Ordynacja podatkowa oraz zmianie niektórych innych ustaw (Dz. U. 143, poz. 1199) w art. 1 pkt 2 i 3 otrzymują brzmienie: Ń2) art. 3a otrzymuje brzmienie: ŃArt. 3a. § 1. Podania oraz deklaracje określone w rozporządzeniu wydanym na podstawie § 3 mogą być składane za pomocą środków komunikacji elektronicznej.
+**Art. 1.** W ustawie dnia 30 czerwca 2005 o zmianie ustawy - Ordynacja podatkowa oraz o zmianie niektórych innych ustaw (Dz.U. Nr 143, poz. 1199) w art. 1 pkt 2 3 otrzymują brzmienie: „2) art. 3a otrzymuje brzmienie: „Art. 3a. 1. Podania oraz deklaracje określone w rozporządzeniu wydanym na podstawie 3 mogą być składane za pomocą środków komunikacji elektronicznej. Organ podatkowy elektroniczna skrzynka podawcza systemu teleinformatycznego administracji podatkowej potwierdza, w formie elektronicznej, złożenie deklaracji podania za pomocą środków komunikacji elektronicznej. 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, rodzaje deklaracji, które mogą być składane za pomocą środków komunikacji elektronicznej, mając na względzie potrzebę stopniowego upowszechniania elektronicznej formy kontaktów organami podatkowymi oraz częstotliwość składania deklaracji.”;
 
 **Art. 3c.**
 
-§ 1. Podatnik lub płatnik zamierzający składać deklaracje w formie elektronicznej:
+1. Podatnik płatnik zamierzający składać deklaracje w formie elektronicznej:
 
-- **1)** zawiadamia tym naczelnika urzędu skarbowego właściwego w sprawie ewidencji podatników i płatników oraz
-- **2)** wskazuje osobę lub osoby upoważnione do składania deklaracji wtej formie ipodpisywania deklaracji podpisem elektronicznym.
+- **1)** zawiadamia o tym naczelnika urzędu skarbowego właściwego w sprawie ewidencji podatników płatników oraz
+- **2)** wskazuje osobę osoby upoważnione do składania deklaracji w tej formie podpisywania deklaracji podpisem elektronicznym. Podatnik osoba upoważniona, o której mowa w 1 pkt 2, składa za pomocą środków komunikacji elektronicznej zgłoszenie upoważnienia.
 
-§ 2. Podatnik lub osoba upoważniona, której w § 1 pkt 2, składa za i podań za pomocą środków komunikacji elektronicznej;
+3. Deklaracje mogą być składane za pomocą środków komunikacji elektronicznej po potwierdzeniu zgodności danych zawartych w zawiadomieniu danymi podanymi w zgłoszeniu. Potwierdzenie następuje w formie zaświadczenia wydanego przez naczelnika urzędu skarbowego w terminie miesiąca od dnia złożenia zgłoszenia. Zaświadczenie może być także wydane w formie elektronicznej.
 
-- **3)** rodzaje podpisu elektronicznego, którymi powinny być opatrzone poszczególne typy deklaracji lub pomocą środków komunikacji elektronicznej zgłoszenie upoważnienia.
+4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-§ 3. Deklaracje mogą być składane za pomocą środków komunikacji elektronicznej po potwierdzeniu zgodności danych zawartych w zawiadomieniu z danymi podanymi w zgłoszeniu. Potwierdzenie następuje w formie zaświadczenia wydanego przez naczelnika urzędu skarbowego wterminie miesiąca od dnia złożenia zgłoszenia. Zaświadczenie może być także wydane w formie elektronicznej.
+- **1)** tryb składania oraz wzór zawiadomienia, o którym mowa w 1, uwzględniając dane identyfikujące podatnika płatnika, dane identyfikujące osobę upoważnioną do elektronicznego podpisywania deklaracji, a także zakres jej upoważnienia;
+- **2)** tryb składania zgłoszenia oraz strukturę logiczną zgłoszenia, o którym mowa w 2, uwzględniając dane identyfikujące podatnika płatnika, dane identyfikujące osobę upoważnioną oraz zakres jej upoważnienia do elektronicznego podpisywania deklaracji.
 
-§ 4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+**Art. 3d.** Składanie deklaracji za pomocą środków komunikacji elektronicznej wójtowi, burmistrzowi (prezydentowi miasta), staroście, marszałkowi województwa regulują odrębne przepisy.”;”. 5 ust. 9b pkt 7 lit. a ustawy dnia 21 czerwca 1996 o urzędach izbach skarbowych (Dz. U. 2004 Nr 121, poz. 1267 Nr 273, poz. 2703 oraz 2005 Nr 183, poz. 1538 Nr 249, poz. 2104).
 
-- **1)** tryb składania oraz wzór zawiadostrukturę logiczną zgłoszenia, którym w § 2, uwzględniając dane identyfikujące podatnika lub płatnika, dane identyfikujące osobę upoważnioną oraz zakres jej upoważnienia do elektronicznego podpisywania deklaracji.
-
-**Art. 3d.** Składanie deklaracji za pomocą środków komunikacji elektronicznej wójtowi, burmistrzowi (prezydentowi miasta), staroście, marszałkowi województwa regulują odrębne przepisy.”;”. lit. a ustawy z dnia 21 czerwca 1996 r. urzędach iizbach skarbowych (Dz. U. z2004r. 121, poz. 1267 i 273, poz. 2703 oraz z 2005 r. 183, poz. 1538 iNr249, poz. 2104).
-
-**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1032 USTAWA z dnia 14 lipca 2006 r. zmianie ustawy zakładach opieki zdrowotnej oraz niektórych innych ustaw
-
-**Art. 1.** Wustawie zdnia 30 sierpnia 1991 r. ozakładach opieki zdrowotnej (Dz. U. 91, poz. 408, zpóên. zm. zdrowia wymaga udzielania całodobowych lub całodziennych świadczeń zdro) wprowadza się następujące zmiany: wotnych w odpowiednio urządzonym, stałym pomieszczeniu,
+**Art. 3.** Ustawa wchodzi w życie dniem ogłoszenia.
 

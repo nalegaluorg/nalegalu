@@ -8,9 +8,12 @@ pos: 694
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 kwietnia 2019 r.
+# o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
+
+*USTAWA z dnia 4 kwietnia 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2019-04-15 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/694/text.pdf) |
-
-USTAWA z dnia 4 kwietnia 2019 r.
-o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2019 r. poz. 648) wprowadza się następujące zmiany:
 
@@ -46,24 +46,26 @@ o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niek
 
 2. W żądaniu, o którym mowa ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy niż 14 dni, licząc od dnia otrzymania żądania.
 
-**Art. 87d.** Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej, o którym mowa dziale III rozdziale 9a ustawy Ordynacja podatkowa, obejmuje również upoważnienie do podpisywania informacji o grupie podmiotów i powiadomień, o których mowa art. 86 ust. 1.”;
+**Art. 87d.** Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej, o którym mowa dziale III rozdziale 9a ustawy – Ordynacja podatkowa, obejmuje również upoważnienie do podpisywania informacji o grupie podmiotów i powiadomień, o których mowa art. 86 ust. 1.”;
 
-**Art. 3.** W ustawie z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, 2192, 2193, 2227 i 2354) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, 2192, 2193, 2227 i 2354) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 5 lipca 2018 r. o zmianie ustawy Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 1499) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 5 lipca 2018 r. o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 1499) wprowadza się następujące zmiany:
 
 **Art. 6.**
 
 1. W przypadku prowadzenia na dzień wejścia życie niniejszej ustawy nowego rachunku rozumieniu art. 24 ust. 1 pkt 15 ustawy zmienianej art. 1, otwartego okresie od dnia 1 stycznia 2016 r. do dnia 30 kwietnia 2017 r., raportująca instytucja finansowa rozumieniu art. 24 ust. 1 pkt 44 ustawy zmienianej art. 1 jest obowiązana wystąpić, terminie do dnia 16 września 2019 r., do posiadacza rachunku rozumieniu art. 24 ust. 1 pkt 33 ustawy zmienianej art. 1, z żądaniem złożenia oświadczenia o rezydencji podatkowej, o którym mowa art. 43 ustawy zmienianej art. 1:
 
-- **1)** brzmieniu dotychczasowym przypadku oświadczeń składanych przed dniem 1 września 2019 r.,
-- **2)** brzmieniu nadanym niniejszą ustawą przypadku oświadczeń składanych po dniu 31 sierpnia 2019 r. zawierającego dane aktualne na dzień otwarcia tego rachunku.
+- **1)** brzmieniu dotychczasowym – przypadku oświadczeń składanych przed dniem 1 września 2019 r.,
+- **2)** brzmieniu nadanym niniejszą ustawą – przypadku oświadczeń składanych po dniu 31 sierpnia 2019 r. – zawierającego dane aktualne na dzień otwarcia tego rachunku.
 
 2. W przypadku nieuzyskania oświadczenia o rezydencji podatkowej na podstawie ust. 1 raportująca instytucja finansowa rozumieniu art. 24 ust. 1 pkt 44 ustawy zmienianej art. 1 celu uzyskania tego oświadczenia kontynuuje rzeczywiste działania zmierzające do nawiązania kontaktu z posiadaczem rachunku rozumieniu art. 24 ust. 1 pkt 33 ustawy zmienianej art. 1, formie pisemnej, telefonicznie, osobiście lub za pomocą środków komunikacji elektronicznej.
 
 3. Do dnia uzyskania oświadczenia na podstawie ust. 1 lub 2 raportująca instytucja finansowa traktuje posiadacza rachunku rozumieniu art. 24 ust. 1 pkt 33 ustawy zmienianej art. 1 lub osobę kontrolującą rozumieniu art. 24 ust. 1 pkt 20 ustawy zmienianej art. 1 jako rezydenta do celów podatkowych zgodnie z dotychczasową identyfikacją dokonaną na podstawie przepisów ustawy zmienianej art. 1.
 
-4. Do oświadczenia złożonego na podstawie ust. 1 przepisy działu III rozdziału 4 ustawy zmienianej art. 1 stosuje się odpowiednio. art. 1 została dokonana na podstawie art. 50 ust. 2 ustawy zmienianej art. 1, brzmieniu dotychczasowym, raportująca instytucja finansowa rozumieniu art. 24 ust. 1 pkt 44 ustawy zmienianej art. 1 jest obowiązana do ponownego ustalenia, terminie do dnia 31 grudnia 2019 r., rezydencji do celów podatkowych tego posiadacza państwie uczestniczącym rozumieniu art. 24 ust. 1 pkt 25 ustawy zmienianej art. 1 lub państwie trzecim rozumieniu art. 24 ust. 1 pkt 24 ustawy zmienianej art. 1, oparciu o wyszukanie elektroniczne posiadanych danych.
+**Art. 7.**
+
+1. W przypadku gdy identyfikacja posiadacza rachunku rozumieniu art. 24 ust. 1 pkt 33 ustawy zmienianej art. 1 została dokonana na podstawie art. 50 ust. 2 ustawy zmienianej art. 1, brzmieniu dotychczasowym, raportująca instytucja finansowa rozumieniu art. 24 ust. 1 pkt 44 ustawy zmienianej art. 1 jest obowiązana do ponownego ustalenia, terminie do dnia 31 grudnia 2019 r., rezydencji do celów podatkowych tego posiadacza państwie uczestniczącym rozumieniu art. 24 ust. 1 pkt 25 ustawy zmienianej art. 1 lub państwie trzecim rozumieniu art. 24 ust. 1 pkt 24 ustawy zmienianej art. 1, oparciu o wyszukanie elektroniczne posiadanych danych.
 
 2. Przepisu ust. 1 nie stosuje się, jeżeli raportująca instytucja finansowa rozumieniu art. 24 ust. 1 pkt 44 ustawy zmienianej art. 1 dokonała przed dniem wejścia życie niniejszej ustawy wyszukania elektronicznego posiadanych danych z uwzględnieniem przesłanki rezydencji posiadacza rachunku rozumieniu art. 24 ust. 1 pkt 33 ustawy zmienianej art. 1 lub potwierdziła rezydencję podatkową tego posiadacza na podstawie oświadczenia o rezydencji podatkowej, o którym mowa art. 43 ustawy zmienianej art. 1, brzmieniu dotychczasowym.
 
@@ -85,8 +87,8 @@ o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niek
 
 3. Do przekazywania informacji, o których mowa ust. 1:
 
-- **1)** pkt 1 przepisy art. 34, art. 99 ust. 2 i 3 oraz art. 99a ust. 1 i 3 ustawy zmienianej art. 1,
-- **2)** pkt 2 przepis art. 36 ust. 2 ustawy zmienianej art. 1 stosuje się odpowiednio.
+- **1)** pkt 1 – przepisy art. 34, art. 99 ust. 2 i 3 oraz art. 99a ust. 1 i 3 ustawy zmienianej art. 1,
+- **2)** pkt 2 – przepis art. 36 ust. 2 ustawy zmienianej art. 1 – stosuje się odpowiednio.
 
 **Art. 9.**
 
@@ -96,9 +98,9 @@ o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niek
 
 **Art. 10.**
 
-1. Do przekazywania informacji o rachunkach raportowanych za lata 2018 i 2019 stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+1. Do przekazywania informacji o rachunkach raportowanych za lata 2018 i 2019 stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą. niniejszego przepisu.
 
-2. Listę państw i terytoriów objętych obowiązkiem raportowania, o której mowa art. 33 ust. 5 ustawy zmienianej art. 1, za rok 2018, minister właściwy do spraw finansów publicznych ogłasza terminie 14 dni od dnia wejścia życie niniejszego przepisu. szej ustawy raportująca instytucja finansowa, o której mowa art. 24 ust. 1 pkt 44 ustawy zmienianej art. 1, przekazuje zgodnie z przepisami ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, informację o rachunkach raportowanych za rok 2018 obejmującą rachunki posiadane przez osoby z państw i terytoriów objętych obowiązkiem raportowania za ten rok, zamieszczonych na liście, o której mowa art. 33 ust. 5 ustawy zmienianej art. 1, z wyjątkiem informacji o tych rachunkach, które zostały objęte informacją o rachunkach raportowanych za rok 2018 złożoną zgodnie z przepisami dotychczasowymi.
+3. W przypadku przekazania informacji o rachunkach raportowanych za rok 2018 przed dniem wejścia życie niniejszej ustawy raportująca instytucja finansowa, o której mowa art. 24 ust. 1 pkt 44 ustawy zmienianej art. 1, przekazuje zgodnie z przepisami ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, informację o rachunkach raportowanych za rok 2018 obejmującą rachunki posiadane przez osoby z państw i terytoriów objętych obowiązkiem raportowania za ten rok, zamieszczonych na liście, o której mowa art. 33 ust. 5 ustawy zmienianej art. 1, z wyjątkiem informacji o tych rachunkach, które zostały objęte informacją o rachunkach raportowanych za rok 2018 złożoną zgodnie z przepisami dotychczasowymi.
 
 **Art. 11.** Przepis art. 82 ust. 2 ustawy zmienianej art. 1 stosuje się do sprawozdawczego roku obrotowego, o którym mowa art. 82 ust. 1 pkt 8 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, rozpoczynającego się po dniu 31 grudnia 2017 r.
 

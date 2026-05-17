@@ -8,9 +8,12 @@ pos: 195
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lutego 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o Banku Gospodarstwa Krajowego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-02-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000195) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/195/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 lutego 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o Banku Gospodarstwa Krajowego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2025 r. poz. 503), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 marca 2025 r. o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw (Dz. U.
 poz. 525),

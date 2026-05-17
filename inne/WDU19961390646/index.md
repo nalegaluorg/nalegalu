@@ -8,11 +8,10 @@ pos: 646
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 30 sierpnia 1996 r. o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży oraz o zmianie niektórych innych ustaw.
-
-*USTAWA dnia 30 sierpnia 1996*
+# o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży oraz o zmianie niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -26,43 +25,36 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961390646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/646/text.pdf) |
 
-**Art. 1.** W ustawie dnia 7 stycznia 1993 plano waniu rodziny, ochronie ludzkiego warunkach przerywania (Dz. U. 17, poz. 78 1995 66 poz. 334) wprowadza zmiany:
+**Art. 1.** W ustawie z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (Dz.U. Nr 17, poz. 78 i z 1995 r. Nr 66, poz. 334) wprowadza się następujące zmiany:
 
-**Art. 4b.** Osobom ubezpieczeniem nym osobom uprawnionym na podstawie przepisów opieki leczniczej prawo go przerwania publicznym dzie opieki zdrowotnej.
+**Art. 4b.** Osobom objętym ubezpieczeniem społecznym i osobom uprawnionym na podstawie odrębnych przepisów do bezpłatnej opieki leczniczej przysługuje prawo do bezpłatnego przerwania ciąży publicznym zakładzie opieki zdrowotnej.
 
 **Art. 4c.**
 
-1. Osoby ce ustawy zachowa nia tajemnicy wszystkiego, czym po wykony waniem tych stosownie przepisów.
+1. Osoby wykonujące czynności wynikające z ustawy są obowiązane do zachowania tajemnicy wszystkiego, o czym powzięły wiadomość związku z wykonywaniem tych czynności, stosownie do odrębnych przepisów.
 
-2. W razie zawinionego ujawnienia wiado których mowa ust. 1, mo osobie poszkodowanej odpo za
+2. W razie zawinionego ujawnienia wiadomości, o których mowa 1, sąd może przyznać osobie poszkodowanej odpowiednią sumę tytułem zadośćuczynienia pieniężnego za doznaną krzywdę.";
 
-- **6)** wart. 9 wyrazy ,,30 czerwca" wyrazami ,,31 lipca".
+- **6)** art. 9 wyrazy "30 czerwca" zastępuje się wyrazami "31 lipca".
 
-**Art. 2.** W ustawie dnia 23 kwietnia 1964 Ko deks cywilny (Dz. U. 16, poz. 93, 1971 27, poz. 252, 1976 19, poz. 122, 1982 11, poz. 81, 19, poz. 147 30, poz. 210, 1984 45, poz. 242, 1985 22, poz. 99, 1989 3, poz. 11, 1990 34, poz. 198, 55, poz. 321 79, poz. 464, 1991 107, poz. 464 115, poz. 496, 1993 17, poz. 78, 1994 27, poz. 96, 85, poz. 388 105, poz. 509 1995 83, poz. 417) wprowadza zmiany:
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz.U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. poz. 509 oraz z 1995 r. Nr 83, poz. 417) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 19 kwietnia 1969 r. - Kodeks karny (Dz.U. Nr 13, poz. 94, z 1974 r. Nr 27, poz. 157, z 1979 r. Nr 15, poz. 97, z 1982 r. Nr 16, poz. 125, Nr 40, poz. 271 i Nr 41, poz. 273, z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203, z 1985 r. Nr 4, poz. 15 i Nr 23, poz. 100, z 1987 r. Nr 14, poz. 83, z 1988 r. Nr 20, poz. 135, z 1989 r. Nr 29, poz. 154 i Nr 34, poz. 180, z 1990 r. Nr 14, poz. 84 i Nr 72, poz. 422, z 1992 r. Nr 24, poz. 101, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 126, poz. 615 oraz z 1995 r. Nr 95, poz. 475) wprowadza się następujące zmiany:
 
 **Art. 152b.**
 
-§ 1. Kto za kobiety, lecz naru szeniem przepisów ustawy, przery wa jej podlega karze pozbawienia wol lat 2. 2. Tej samej karze podlega, kto udzie la kobiecie pomocy przerwaniu naruszeniem przepisów ustawy. 3. Kto dopuszcza czynu go 2, gdy samodzielnego poza organizmem kobiety podlega karze pozbawienia wol od roku lat 8.";
+§ 1. Kto za zgodą kobiety, lecz z naruszeniem przepisów ustawy, przerywa jej ciążę, podlega karze pozbawienia wolności do lat 2.
 
-- **4)** art. 156a;
-- **5)** art. 157 otrzymuje brzmienie: "Art. 157. 1. czynu nego wart. 152b l, 2 art. 156 jest sprawca podlega karze pozbawie nia od roku 10 lat. 2. czynu nego wart. 152a, art. 152b 3 art. 155 jest sprawca podlega karze pozba wienia na czas nie krót szyod lat2." ,,7) antykoncepcyjne oznacza far maceutyczne stosowane antykoncepcji.";
-- **3)** art. 4:
-    - **a)** ust. otrzymuje brzmienie: ,,1. W aptekach apte kach Ministrom: Obrony Narodowej Spraw a aptekach biorstwa "Polskie Koleje stwowe", leki podstawowe, recepturowe antykoncepcyjne wydawane osobom uprawnionym na pod stawie recepty:
+§ 2. Tej samej karze podlega, kto udziela kobiecie ciężarnej pomocy przerwaniu ciąży z naruszeniem przepisów ustawy.
 
-- **1)** po wniesieniu za leki podstawowe recepturowe,
-- **2)** za 30% albo 50% ceny za leki antykoncepcyjne." , Wykazy te aktualizowane raz roku; zmiany rozszerzenia wykazu nowe leki.";
-    - **b)** ust. 3 otrzymuje brzmienie: ,,3. Leki antykoncepcyjne nie wymienione ust. wydawane za
-    - **c)** ust. 5 otrzymuje brzmienie: ,,5. Minister po za opinii Naczelnej Lekarskiej Naczelnej Aptekarskiej ustala, dro dze wykazy leków podsta wowych, anty koncepcyjnych od za leki anty koncepcyjne, których mowa ust. pkt 2.
-    - **b)** ust. 2 po wyrazach "o przepisanych lekach" dodaje wyrazy ", antykoncepcyj nych",
-    - **c)** ust. 5 po wyrazach "do nabycia leku" dodaje wyrazy "lub anykoncepcyjnego";
+§ 3. Kto dopuszcza się czynu określonego § lub § 2, gdy płód osiągnął zdolność do samodzielnego życia poza organizmem kobiety ciężarnej, podlega karze pozbawienia wolności od roku do lat 8.";
 
-- **6)** art. 7 po ust. 4 dodaje ust. 4a brzmieniu: ,,4a. Przepisy ust. 1-4 stosuje odpowiednio ków antykoncepcyj nych." ;
-- **7)** art. 12 ust. po wyrazie "leków" dodaje wy razy", antykoncepcyjnych";
-- **8)** art. 12a ust. po kropce dodaje nowe zda nie brzmieniu: "Refundacja obejmuje anty koncepcyjnego wydawanego «osobie uprawnio nej» za
+- **4)** skreśla się art. 156a;
+- **5)** art. 157 otrzymuje brzmienie: "Art. 157. §1. Jeżeli następstwem czynu określonego art. 152b § 1, § 2 lub art. 156 § jest śmierć człowieka, sprawca podlega karze pozbawienia wolności od roku do 10 lat. śmierć człowieka, sprawca podlega karze pozbawienia wolności na czas nie krótszy od lat 2.".
 
-**Art. 5.** Minister Dzienniku Rzeczypospolitej Polskiej jednolity tekst ustawy dnia 7 stycznia 1993 planowaniu ro dziny, ochronie ludzkiego warunkach dopusz przerywania ustawy dnia 27 1991 zasadach za leki arty sanitarne, zmian przepisów przed dniem wydania jedno litego tekstu.
+**Art. 4.** W ustawie z dnia 27 września 1991 r. o zasadach odpłatności za leki i artykuły sanitarne (Dz.U. Nr 94, poz. 422, z 1994 r. Nr 111, poz. 535 i z 1995 r. Nr 138, poz. 684) wprowadza się następujące zmiany:
 
-**Art. 6.** Ustawa wchodzi po 30 dni od dnia tym przepis art. 4 ust. 2 usta wy, której mowa wart. 1, brzmieniu ustalonym ni wchodzi dniem 1997 Prezydent Rzeczypospolitej Polskiej: A. 647 USTAWA dnia 8 listopada 1996 zmianie ustawy na wynagrodzenia sferze zmianie niektórych ustaw.
+**Art. 5.** Minister Zdrowia i Opieki Społecznej ogłosi Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży oraz ustawy z dnia 27 września 1991 r. o zasadach odpłatności za leki i artykuły sanitarne, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
 
-**Art. 1.** W ustawie dnia 23 grudnia 1994 towaniu na wynagrodzenia sferze zmianie niektórych ustaw U. 1995 34, poz. 163 1996 106, poz. "Art. 2. 1. Przez ustawie
+**Art. 6.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z tym że przepis art. 4 2, ustawy, o której mowa art. 1, brzmieniu ustalonym niniejszą ustawą, wchodzi życie z dniem września 1997 r.
 

@@ -8,9 +8,12 @@ pos: 308
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 marca 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy Funduszu Ochrony Rolnictwa Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 maja 2023 r. Funduszu Ochrony Rolnictwa (Dz. U. poz. 1130), z uwzględnieniem zmian wprowadzonych ustawą z dnia 5 grudnia 2024 r. zmianie ustawy Funduszu Ochrony Rolnictwa oraz niektórych innych ustaw (Dz. U. poz. 1964) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 lutego 2025 r.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,11 +24,9 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-06 |
 | Data wydania | 2025-03-12 |
-| Ostatnia zmiana | 2025-03-13 |
+| Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000308) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/308/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy Funduszu Ochrony Rolnictwa Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 maja 2023 r. Funduszu Ochrony Rolnictwa (Dz. U. poz. 1130), z uwzględnieniem zmian wprowadzonych ustawą z dnia 5 grudnia 2024 r. zmianie ustawy Funduszu Ochrony Rolnictwa oraz niektórych innych ustaw (Dz. U. poz. 1964) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 lutego 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) 18–20 ustawy z dnia 9 maja 2023 r. Funduszu Ochrony Rolnictwa (Dz. U. poz. 1130), które stanowią: „Art. 18. W ustawie z dnia 17 czerwca 1966 r. postępowaniu egzekucyjnym administracji (Dz. U. z 2022 r.
 poz. 479, z późn. zm. ) 3a:
@@ -38,7 +39,7 @@ b) 14 kropkę zastępuje się średnikiem i dodaje się 15 brzmieniu: „15) z k
 
 **Art. 20.** W ustawie z dnia 15 lutego 1992 r. podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm. ) 17 ust. po 36a dodaje się 36b brzmieniu: „36b) kwoty rekompensat wypłaconych na podstawie ustawy z dnia 9 maja 2023 r. Funduszu Ochrony Rolnictwa (Dz. U. poz. 1130), z wyjątkiem kwot wypłaconych związku z prowadzeniem działów specjalnych produkcji rolnej;”.”;
 
-**Art. 5.** Do przyznawania i wypłaty rekompensaty, 10 ust. ustawy zmienianej dotychczasowym, za produkty rolne określone załączniku I do Traktatu funkcjonowaniu Unii Europejskiej zbyte przed dniem wejścia życie niniejszej ustawy oraz do sporządzania i przekazywania dodatkowego wykazu, którym 11 ust. 2 ustawy zmienianej dotychczasowym, dotyczącego producentów rolnych rozumieniu 3 3 ustawy z dnia 18 grudnia 2003 r. krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków przyznanie płatności (Dz. U. z 2023 r. poz. 885), którym przysługuje wierzytelność z tytułu zbycia tych produktów rolnych, stosuje się przepisy ustawy zmienianej dotychczasowym.
+**Art. 5.** Do przyznawania i wypłaty rekompensaty, 10 ust. ustawy zmienianej brzmieniu dotychczasowym, za produkty rolne określone załączniku I do Traktatu funkcjonowaniu Unii Europejskiej zbyte przed dniem wejścia życie niniejszej ustawy oraz do sporządzania i przekazywania dodatkowego wykazu, którym 11 ust. 2 ustawy zmienianej brzmieniu dotychczasowym, dotyczącego producentów rolnych rozumieniu 3 3 ustawy z dnia 18 grudnia 2003 r. krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków przyznanie płatności (Dz. U. z 2023 r. poz. 885), którym przysługuje wierzytelność z tytułu zbycia tych produktów rolnych, stosuje się przepisy ustawy zmienianej brzmieniu dotychczasowym.
 
 **Art. 6.** Ustawa wchodzi życie z dniem stycznia 2025 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 9 maja 2023 r. Funduszu Ochrony Rolnictwa Art. Ustawa reguluje zasady finansowania i funkcjonowania Funduszu Ochrony Rolnictwa, zwanego dalej „Funduszem”.
 
@@ -121,7 +122,7 @@ b) 14 kropkę zastępuje się średnikiem i dodaje się 15 brzmieniu: „15) z k
 - **3)** sąd upadłościowy, zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe dotyczącymi międzynarodowego postępowania upadłościowego, wyda postanowienie uznaniu orzeczenia wszczęciu głównego zagranicznego postępowania upadłościowego, wszczętego wobec podmiotu zagranicznego z Danii lub państwa członkowskiego Europejskiego Porozumienia Wolnym Handlu (EFTA) stron umowy Europejskim Obszarze Gospodarczym, który jest niewypłacalny;
 - **4)** organ sądowy lub inny właściwy organ państwa członkowskiego Unii Europejskiej, z wyłączeniem Danii, uprawniony do wszczęcia postępowania upadłościowego, wyda, zgodnie z 3 ust. rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/848 z dnia 20 maja 2015 r. sprawie postępowania upadłościowego (Dz. Urz. UE L 141 z 05.06.2015, str. 19, z późn. zm. ), orzeczenie wszczęciu wobec tego podmiotu lub podmiotu zagranicznego postępowania upadłościowego, którym 2 4 tego rozporządzenia, oraz powoła zarządcę;
 - **5)** sąd upadłościowy wyda, zgodnie z 3 ust. 2 i 4 rozporządzenia wymienionego 4, orzeczenie ogłoszeniu upadłości podmiotu zagranicznego mające skutki ograniczone do majątku tego podmiotu znajdującego się na terytorium Rzeczypospolitej Polskiej;
-- **6)** postępowaniu krajowym: poz. 1841) ten podmiot będący osobą fizyczną z Centralnej Ewidencji i Informacji Działalności Gospodarczej wyniku zgłoszenia zaprzestaniu wykonywania działalności gospodarczej lub wyniku stwierdzenia trwałego zaprzestania wykonywania przedsiębiorcę działalności gospodarczej, i po zaprzestaniu prowadzenia ten podmiot działalności gospodarczej sąd upadłościowy wyda na podstawie przepisów ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe ramach postępowania prowadzonego wobec osób nieprowadzących działalności gospodarczej, tym według przepisów tytułu V części trzeciej tej ustawy, postanowienie o: ogłoszeniu upadłości tego podmiotu, oddaleniu wniosku ogłoszenie upadłości tego podmiotu, jeżeli jego majątek nie wystarcza na zaspokojenie kosztów postępowania lub wystarcza jedynie na zaspokojenie tych kosztów, oddaleniu wniosku ogłoszenie upadłości razie stwierdzenia, że majątek tego podmiotu jest obciążony hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską takim stopniu, że pozostały jego majątek nie wystarcza na zaspokojenie kosztów postępowania, umorzeniu postępowania upadłościowego, jeżeli majątek pozostały po wyłączeniu z niego przedmiotów majątkowych tego podmiotu obciążonych hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską nie wystarcza na zaspokojenie kosztów postępowania.
+- **6)** postępowaniu krajowym: poz. 1841) ten podmiot będący osobą fizyczną z Centralnej Ewidencji i Informacji Działalności Gospodarczej wyniku zgłoszenia zaprzestaniu wykonywania działalności gospodarczej lub wyniku stwierdzenia trwałego zaprzestania wykonywania przedsiębiorcę działalności gospodarczej, i po zaprzestaniu prowadzenia ten podmiot działalności gospodarczej sąd upadłościowy wyda na podstawie przepisów ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe ramach postępowania prowadzonego wobec osób nieprowadzących działalności gospodarczej, tym według przepisów tytułu V części trzeciej tej postanowienie o: ogłoszeniu upadłości tego podmiotu, oddaleniu wniosku ogłoszenie upadłości tego podmiotu, jeżeli jego majątek nie wystarcza na zaspokojenie kosztów postępowania lub wystarcza jedynie na zaspokojenie tych kosztów, oddaleniu wniosku ogłoszenie upadłości razie stwierdzenia, że majątek tego podmiotu jest obciążony hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską takim stopniu, że pozostały jego majątek nie wystarcza na zaspokojenie kosztów postępowania, umorzeniu postępowania upadłościowego, jeżeli majątek pozostały po wyłączeniu z niego przedmiotów majątkowych tego podmiotu obciążonych hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską nie wystarcza na zaspokojenie kosztów postępowania.
     - **a)** (uchylona)
     - **b)** organ ewidencyjny wykreśli zgodnie z przepisami ustawy z dnia 6 marca 2018 r. Centralnej Ewidencji i Informacji Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r.
     - **c)** (uchylona)

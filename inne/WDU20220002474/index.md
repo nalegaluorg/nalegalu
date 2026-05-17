@@ -8,9 +8,12 @@ pos: 2474
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 grudnia 2022 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o niektórych formach wspierania działalności innowacyjnej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 października 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2474/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 października 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o niektórych formach wspierania działalności innowacyjnej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2021 r. poz. 706), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 października 2022 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 139 i art. 146 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), które stanowią: „Art. 139. 1. Do udzielania pomocy ramach projektów dotyczących wniosków o przyznanie premii technologicznej złożonych do Banku Gospodarstwa Krajowego zgodnie z zasadami określonymi regulaminie konkursu przed dniem wejścia życie art. 111, realizowanych na obszarach, których intensywność pomocy zgodna z mapą pomocy regionalnej na lata 2022–2027 będzie wyższa od intensywności wynikającej z mapy pomocy regionalnej na lata 2014–2021, stosuje się intensywność pomocy właściwą dla mapy pomocy regionalnej na lata 2014–2021.
 2. Do udzielania pomocy ramach projektów dotyczących wniosków o przyznanie premii technologicznej złożonych do Banku Gospodarstwa Krajowego zgodnie z zasadami określonymi regulaminie konkursu przed dniem wejścia życie art. 111, realizowanych na obszarach, których intensywność pomocy zgodna z mapą pomocy regionalnej na lata 2022–2027 będzie niższa od intensywności wynikającej z mapy pomocy regionalnej na lata 2014–2021, stosuje się intensywność pomocy właściwą dla mapy pomocy regionalnej na lata 2022–2027.” „Art. 146. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
@@ -192,7 +193,7 @@ Art. 22–28. (pominięte)
     - **c)** okresie 10 lat poprzedzających datę nabycia tej nieruchomości, jej zakup nie był współfinansowany ze środków unijnych ani z krajowych środków pomocy publicznej lub pomocy de minimis,
     - **d)** nieruchomość będzie używana wyłącznie do celów inwestycji technologicznej;
 
-- **2)** zakup, wytworzenie, a także koszty transportu, montażu i uruchomienia nowych środków trwałych innych niż określone pkt 1, z wyłączeniem środków transportu nabywanych przez przedsiębiorcę prowadzącego działalność sektorze transportu; innych niż określone pkt 1, z wyłączeniem środków transportu nabywanych przez przedsiębiorcę prowadzącego działalność sektorze transportu, pod warunkiem że:
+- **2)** zakup, wytworzenie, a także koszty transportu, montażu i uruchomienia nowych środków trwałych innych niż określone pkt 1, z wyłączeniem środków transportu nabywanych przez przedsiębiorcę prowadzącego działalność sektorze transportu; działalność sektorze transportu, pod warunkiem że:
     - **a)** cena nabycia używanych środków trwałych nie przekracza ich wartości rynkowej określonej na dzień nabycia i jest niższa od ceny podobnych nowych środków trwałych,
     - **b)** sprzedający złoży oświadczenie określające podmiot, od którego nabył środki trwałe, oraz miejsce i datę ich zakupu,
     - **c)** okresie 7 lat poprzedzających datę nabycia środków trwałych ich zakup nie był współfinansowany ze środków unijnych ani z krajowych środków pomocy publicznej lub pomocy de minimis;
@@ -236,7 +237,7 @@ Art. 22–28. (pominięte)
 
 1. Bank Gospodarstwa Krajowego zawiera umowę z bankiem kredytującym, określającą zasady współpracy, zgodną z wzorem zatwierdzonym przez ministra właściwego do spraw gospodarki, terminie 30 dni od dnia jej otrzymania.
 
-2. Umowa, o której mowa ust. 1, przewiduje szczególności obowiązek przekazywania przez bank kredytujący informacji i dokumentów niezbędnych do wypełnienia przez Bank Gospodarstwa Krajowego obowiązków sprawozdawczych i kontrolnych wynikających z przepisów dotyczących udzielania pomocy publicznej oraz przepisów dotyczących wydatkowania środków pochodzących z budżetu Unii Europejskiej. premii technologicznej przedsiębiorcom prowadzącym działalność gospodarczą zakresie budownictwa okrętowego, biorąc pod uwagę konieczność zapewnienia zgodności udzielanej pomocy z prawem Unii Europejskiej.
+2. Umowa, o której mowa ust. 1, przewiduje szczególności obowiązek przekazywania przez bank kredytujący informacji i dokumentów niezbędnych do wypełnienia przez Bank Gospodarstwa Krajowego obowiązków sprawozdawczych i kontrolnych wynikających z przepisów dotyczących udzielania pomocy publicznej oraz przepisów dotyczących wydatkowania środków pochodzących z budżetu Unii Europejskiej. pod uwagę konieczność zapewnienia zgodności udzielanej pomocy z prawem Unii Europejskiej.
 
 **Art. 13.**
 
@@ -297,7 +298,7 @@ Art. 22–28. (pominięte)
 1. Przedsiębiorca, który uzyskał status centrum badawczo-rozwojowego, składa ministrowi właściwemu do spraw gospodarki, nie później niż terminie 2 miesięcy od zatwierdzenia sprawozdania finansowego za rok obrotowy:
 
 - **1)** dokumenty, o których mowa art. 17 ust. 6 pkt 4–9;
-- **2)** zatwierdzone, na podstawie przepisów o rachunkowości, sprawozdanie finansowe przedsiębiorcy za ostatni rok obrotowy, z wyszczególnieniem: sprzedaży wytworzonych przez siebie usług badawczo-rozwojowych klasyfikowanych do usług zakresie badań naukowych i prac rozwojowych, rozumieniu przepisów sprawie polskiej klasyfikacji wyrobów i usług lub praw własności przemysłowej, udzielonych przedsiębiorcy przez urząd właściwy do spraw własności przemysłowej;
+- **2)** zatwierdzone, na podstawie przepisów o rachunkowości, sprawozdanie finansowe przedsiębiorcy za ostatni rok obrotowy, z wyszczególnieniem: naukowych i prac rozwojowych, rozumieniu przepisów sprawie polskiej klasyfikacji wyrobów i usług lub praw własności przemysłowej, udzielonych przedsiębiorcy przez urząd właściwy do spraw własności przemysłowej;
     - **a)** przychodów netto z tytułu sprzedaży wytworzonych przez siebie usług badawczo-rozwojowych, klasyfikowanych do usług zakresie badań naukowych i prac rozwojowych, rozumieniu przepisów sprawie polskiej klasyfikacji wyrobów i usług lub praw własności przemysłowej,
     - **b)** różnicy stosunku do poprzedniego roku obrotowego zakresie: przychodów, o których mowa lit. a, wydatków na prowadzenie badań i prac rozwojowych, stanu zatrudnienia na stanowiskach pracy związanych z prowadzeniem badań i prac rozwojowych;
 
@@ -323,6 +324,21 @@ Art. 22–28. (pominięte)
 **Art. 21b.** Minister właściwy do spraw gospodarki udziela pomocy finansowej, ramach programów ustanowionych zgodnie z art. 21a, z przeznaczeniem na:
 
 **Art. 21c.** Pomoc finansowa, o której mowa art. 21b, jest udzielana:
+
+**Art. 21d.**
+
+1. Pomoc finansowa, o której mowa art. 21b, nie może być udzielona: mentów, obrotowi pieniędzmi i papierami wartościowymi, obrotowi gospodarczemu, systemowi bankowemu, karno-skarbowe albo inne związane z wykonywaniem działalności gospodarczej lub popełnione celu osiągnięcia korzyści majątkowych;
+
+- **2)** podmiotowi określonemu art. 21c pkt 2–5, niebędącemu osobą fizyczną, jeżeli członek jego organów zarządzających bądź wspólnik spółki osobowej został skazany prawomocnym wyrokiem za przestępstwa, o których mowa pkt 1;
+- **3)** podmiotowi określonemu art. 21c pkt 2–5, który:
+    - **a)** posiada zaległości z tytułu należności publicznoprawnych lub
+    - **b)** pozostaje pod zarządem komisarycznym bądź znajduje się toku likwidacji albo postępowania upadłościowego;
+
+- **4)** podmiotowi zbiorowemu, wobec którego sąd orzekł zakaz korzystania z dotacji, subwencji lub innych form wsparcia finansowego środkami publicznymi.
+
+2. Minister właściwy do spraw gospodarki może odmówić udzielenia pomocy finansowej podmiotom, o których mowa art. 21c, jeżeli poweźmie uzasadnioną wątpliwość co do prawidłowego jej wykorzystania.
+
+3. Minister właściwy do spraw gospodarki może odmówić udzielenia pomocy finansowej podmiotom, o których mowa art. 21c, jeżeli prowadziłoby to do obejścia zasad udzielania pomocy, szczególności dotyczących warunków podmiotowych, przeznaczenia, intensywności lub kwoty tej pomocy.
 
 **Art. 21e.** Pomoc finansowa, o której mowa art. 21b, jest udzielana formie:
 
@@ -352,7 +368,7 @@ Art. 22–28. (pominięte)
 
 - **1)** szczegółowy opis zadania, tym cel, na jakie środki finansowe zostały przyznane, i termin wykonania zadania;
 - **2)** wysokość przekazanych środków finansowych i tryb płatności;
-- **4)** zobowiązanie do poddania się kontroli;
+- **3)** warunki przekazania i rozliczenia środków finansowych;
 - **5)** zobowiązanie do zwrotu niewykorzystanej części środków.
 
 **Art. 21h.**

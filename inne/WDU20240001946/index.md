@@ -8,9 +8,12 @@ pos: 1946
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 grudnia 2024 r.
+# o zmianie niektórych ustaw w celu dostosowania do nomenklatury scalonej
+
+*USTAWA z dnia 18 grudnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-01-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001946) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1946/text.pdf) |
 
-Poz. 1946
-USTAWA z dnia 18 grudnia 2024 r.
-o zmianie niektórych ustaw w celu dostosowania do nomenklatury scalonej
-
 **Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2024 r. poz. 321) w art. 37h w ust. 4 pkt 2 otrzymuje brzmienie: „2) oleje napędowe o kodzie CN 2710 19 42, CN 2710 19 44 lub CN 2710 20 11 oraz wyroby powstałe ze zmieszania tych olejów z biokomponentami, spełniające wymagania jakościowe określone w odrębnych przepisach;”.
 
 **Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ) w art. 321a w ust. 3 pkt 2 otrzymuje brzmienie: „2) oleje napędowe o kodach CN: 2710 19 42, 2710 19 44, 2710 20 11.”.
@@ -38,5 +37,5 @@ o zmianie niektórych ustaw w celu dostosowania do nomenklatury scalonej
 
 **Art. 5.** W ustawie z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2024 r. poz. 1047) w art. 2 w pkt 15 lit. c otrzymuje brzmienie: „c) oleje napędowe o kodach CN: 2710 19 42, 2710 19 44 i 2710 20 11”.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r.
 
