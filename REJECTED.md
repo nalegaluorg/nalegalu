@@ -1,6 +1,6 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 1233
+Acts excluded from publication due to quality issues. Total: 861
 
 | Address | Reason |
 |---------|--------|
@@ -162,7 +162,6 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU19960520235 | No text extracted from PDF — may be a scanned document |
 | WDU19960520237 | No text extracted from PDF — may be a scanned document |
 | WDU19961000464 | CID font encoding failure — unreadable glyphs (125 occurrence(s)) |
-| WDU19961320622 | excessive repetition — '3. Sprawozdanie zawiera:' appears 6 times (likely PDF he |
 | WDU19961430662 | No text extracted from PDF — may be a scanned document |
 | WDU19961430663 | No text extracted from PDF — may be a scanned document |
 | WDU19961470686 | CID font encoding failure — unreadable glyphs (677 occurrence(s)); missing Polis |
@@ -268,7 +267,6 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20010540573 | CID font encoding failure — unreadable glyphs (364 occurrence(s)) |
 | WDU20010570601 | CID font encoding failure — unreadable glyphs (1254 occurrence(s)) |
 | WDU20010600610 | CID font encoding failure — unreadable glyphs (26 occurrence(s)) |
-| WDU20010620627 | excessive repetition — '4. W rozporządzeniu, o którym mowa w ust. 3, zosta…' app |
 | WDU20010630635 | CID font encoding failure — unreadable glyphs (76 occurrence(s)) |
 | WDU20010630637 | CID font encoding failure — unreadable glyphs (18 occurrence(s)) |
 | WDU20010640657 | CID font encoding failure — unreadable glyphs (554 occurrence(s)) |
@@ -361,11 +359,8 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20031491453 | CID font encoding failure — unreadable glyphs (8 occurrence(s)) |
 | WDU20031491454 | CID font encoding failure — unreadable glyphs (34 occurrence(s)) |
 | WDU20031691650 | No text extracted from PDF — may be a scanned document |
-| WDU20032001953 | excessive repetition — 'b) ponad 146,1 kN do 155,9 kN' appears 6 times (likely P |
-| WDU20040540535 | excessive repetition — '1. Zwalnia się od podatku import:' appears 6 times (like |
 | WDU20042042091 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20050860744 | PostScript CE garbled diacritics — unrepaired encoding (1 occurrence(s): 'przest |
-| WDU20051321110 | excessive repetition — '2. Informacja, o której mowa ust. 1, zawiera:' appears 1 |
 | WDU20071651169 | No text extracted from PDF — may be a scanned document |
 | WDU20071661172 | No text extracted from PDF — may be a scanned document |
 | WDU20071711208 | No text extracted from PDF — may be a scanned document |
@@ -374,21 +369,14 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20081340850 | No text extracted from PDF — may be a scanned document |
 | WDU20081390876 | No text extracted from PDF — may be a scanned document |
 | WDU20092011542 | PostScript CE garbled diacritics — unrepaired encoding (1 occurrence(s): 'àc') |
-| WDU20101060673 | excessive repetition — '10.12.2009, str. 23).”.' appears 7 times (likely PDF hea |
-| WDU20110300151 | excessive repetition — '2. W rozporządzeniu, o którym mowa w ust. 1, uwzgl…' app |
 | WDU20120000011 | CID font encoding failure — unreadable glyphs (3343 occurrence(s)); missing Poli |
 | WDU20120000014 | CID font encoding failure — unreadable glyphs (14773 occurrence(s)); missing Pol |
 | WDU20120000039 | CID font encoding failure — unreadable glyphs (2309 occurrence(s)); missing Poli |
-| WDU20120000065 | excessive repetition — '..................................................…' app |
 | WDU20120000066 | excessive repetition — '..................................................…' app |
 | WDU20120000070 | excessive repetition — '..................................................…' app |
-| WDU20120000104 | excessive repetition — '..................................................…' app |
 | WDU20120000184 | excessive repetition — '1) efekty kształcenia wspólne dla wszystkich zawod…' app |
 | WDU20120000185 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20120000186 | excessive repetition — '..................................................…' app |
 | WDU20120000200 | CID font encoding failure — unreadable glyphs (113 occurrence(s)) |
-| WDU20120000204 | excessive repetition — '1) minimalny wymiar godzin obowiązkowych zajęć edu…' app |
-| WDU20120000266 | excessive repetition — '..................................................…' app |
 | WDU20120000288 | excessive repetition — '..................................................…' app |
 | WDU20120000394 | excessive repetition — '..................................................…' app |
 | WDU20120000436 | No /Root object! - Is this really a PDF? |
@@ -470,7 +458,6 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20120000724 | No /Root object! - Is this really a PDF? |
 | WDU20120000725 | No /Root object! - Is this really a PDF? |
 | WDU20120000728 | No /Root object! - Is this really a PDF? |
-| WDU20120000729 | excessive repetition — '..................................................…' app |
 | WDU20120000731 | No /Root object! - Is this really a PDF? |
 | WDU20120000732 | No /Root object! - Is this really a PDF? |
 | WDU20120000733 | No /Root object! - Is this really a PDF? |
@@ -487,27 +474,12 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20120000837 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20120000916 | excessive repetition — '..................................................…' app |
 | WDU20120000925 | excessive repetition — '..................................................…' app |
-| WDU20120000964 | excessive repetition — '..................................................…' app |
 | WDU20120000966 | CID font encoding failure — unreadable glyphs (7 occurrence(s)) |
-| WDU20120000974 | excessive repetition — '..................................................…' app |
-| WDU20120001102 | excessive repetition — '..................................................…' app |
-| WDU20120001246 | excessive repetition — 'Karpaty Wschodnie z Podkarpaciem Północnym' appears 16 t |
-| WDU20120001363 | excessive repetition — '..................................................…' app |
-| WDU20120001539 | excessive repetition — '1) nazwę dysponenta;' appears 8 times (likely PDF header |
 | WDU20130000337 | excessive repetition — '. ................................................…' app |
-| WDU20130000440 | excessive repetition — 'b) nazwę producenta,' appears 8 times (likely PDF header |
-| WDU20130000460 | excessive repetition — '1. Wiedza teoretyczna:' appears 7 times (likely PDF head |
-| WDU20130000517 | excessive repetition — '2) materiał siewny odmian mieszańcowych powinien b…' app |
-| WDU20130000519 | excessive repetition — '..................................................…' app |
-| WDU20130000554 | excessive repetition — 'a) organizacja systemu badań w regionie,' appears 9 time |
 | WDU20130000589 | excessive repetition — '…………………………….......................................…' app |
-| WDU20130000664 | excessive repetition — '2) człowiek możliwości i ograniczenia;' appears 8 times  |
 | WDU20130000709 | CID font encoding failure — unreadable glyphs (6234 occurrence(s)); missing Poli |
-| WDU20130000788 | excessive repetition — '.......................................' appears 6 times |
 | WDU20130000924 | excessive repetition — '..................................................…' app |
 | WDU20130000933 | CID font encoding failure — unreadable glyphs (6842 occurrence(s)); missing Poli |
-| WDU20130001024 | excessive repetition — 'a) kod pocztowy b) miejscowość' appears 14 times (likely |
-| WDU20130001060 | excessive repetition — '..................................................…' app |
 | WDU20130001113 | CID font encoding failure — unreadable glyphs (903 occurrence(s)); missing Polis |
 | WDU20130001120 | CID font encoding failure — unreadable glyphs (5047 occurrence(s)); missing Poli |
 | WDU20130001127 | CID font encoding failure — unreadable glyphs (65820 occurrence(s)); missing Pol |
@@ -516,14 +488,7 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20130001135 | CID font encoding failure — unreadable glyphs (33710 occurrence(s)); missing Pol |
 | WDU20130001140 | CID font encoding failure — unreadable glyphs (1995 occurrence(s)); missing Poli |
 | WDU20130001146 | CID font encoding failure — unreadable glyphs (2112 occurrence(s)); missing Poli |
-| WDU20130001221 | excessive repetition — '1) aktualny odpis z Krajowego Rejestru Sądowego, j…' app |
-| WDU20130001260 | excessive repetition — '..................................................…' app |
 | WDU20130001266 | CID font encoding failure — unreadable glyphs (1973 occurrence(s)); missing Poli |
-| WDU20130001462 | excessive repetition — 'Świadczenie u osób powyżej 18. roku życia jest udz…' app |
-| WDU20130001505 | excessive repetition — '1. Tryb realizacji świadczenia ambulatoryjny.' appears 6 |
-| WDU20130001742 | excessive repetition — '1) być nieuszkodzony;' appears 10 times (likely PDF head |
-| WDU20140000328 | excessive repetition — '..................................................…' app |
-| WDU20140000402 | excessive repetition — '(strona tylna) Objaśnienia:' appears 12 times (likely PD |
 | WDU20140000441 | No text extracted from PDF — may be a scanned document |
 | WDU20140000452 | CID font encoding failure — unreadable glyphs (13541 occurrence(s)); missing Pol |
 | WDU20140000454 | CID font encoding failure — unreadable glyphs (110736 occurrence(s)); missing Po |
@@ -535,14 +500,7 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20140000475 | CID font encoding failure — unreadable glyphs (51357 occurrence(s)); missing Pol |
 | WDU20140000479 | CID font encoding failure — unreadable glyphs (794 occurrence(s)); missing Polis |
 | WDU20140000495 | CID font encoding failure — unreadable glyphs (2092 occurrence(s)); missing Poli |
-| WDU20140000502 | excessive repetition — '2. Kontrolę przeprowadzają:' appears 9 times (likely PDF |
 | WDU20140000503 | excessive repetition — '..................................................…' app |
-| WDU20140000551 | excessive repetition — '..................................................…' app |
-| WDU20140000588 | excessive repetition — '1) Marka(-ki): ...................................…' app |
-| WDU20140000601 | excessive repetition — '..................................................…' app |
-| WDU20140000622 | excessive repetition — '..................................................…' app |
-| WDU20140000679 | excessive repetition — '1. Uaktualnione lub uzupełnione odpowiednie części…' app |
-| WDU20140000732 | excessive repetition — '..................................................…' app |
 | WDU20140000745 | CID font encoding failure — unreadable glyphs (5253 occurrence(s)); missing Poli |
 | WDU20140000746 | CID font encoding failure — unreadable glyphs (3440 occurrence(s)); missing Poli |
 | WDU20140000748 | CID font encoding failure — unreadable glyphs (5123 occurrence(s)); missing Poli |
@@ -553,14 +511,6 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20140000775 | CID font encoding failure — unreadable glyphs (7577 occurrence(s)); missing Poli |
 | WDU20140000777 | CID font encoding failure — unreadable glyphs (3576 occurrence(s)); missing Poli |
 | WDU20140000783 | CID font encoding failure — unreadable glyphs (8154 occurrence(s)); missing Poli |
-| WDU20140000803 | excessive repetition — 'Dziecko kończące wychowanie przedszkolne i rozpocz…' app |
-| WDU20140000854 | excessive repetition — 'b) będą podlegać amortyzacji zgodnie z odrębnymi p…' app |
-| WDU20140000871 | excessive repetition — '..................................................…' app |
-| WDU20140000872 | excessive repetition — 'a) zmiany niewielkiego stopnia 0–5 0–4' appears 7 times  |
-| WDU20140000977 | excessive repetition — '..................................................…' app |
-| WDU20140001011 | excessive repetition — 'b) przejściowego wykupienia odsetek' appears 6 times (li |
-| WDU20140001154 | excessive repetition — '1.1 kredytu wraz ze skapitalizowanymi odsetkami' appears |
-| WDU20140001194 | excessive repetition — '..................................................…' app |
 | WDU20140001207 | CID font encoding failure — unreadable glyphs (38359 occurrence(s)); missing Pol |
 | WDU20140001298 | CID font encoding failure — unreadable glyphs (3794 occurrence(s)); missing Poli |
 | WDU20140001308 | CID font encoding failure — unreadable glyphs (2715 occurrence(s)); missing Poli |
@@ -574,121 +524,39 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20140001329 | CID font encoding failure — unreadable glyphs (895 occurrence(s)); missing Polis |
 | WDU20140001420 | CID font encoding failure — unreadable glyphs (26022 occurrence(s)); missing Pol |
 | WDU20140001597 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20140001640 | excessive repetition — '5. We wszystkich okręgach wyborczych zarejestrowan…' app |
-| WDU20140001651 | excessive repetition — '1) w ocenie polowej i ocenie weryfikacyjnej:' appears 8  |
 | WDU20140001667 | excessive repetition — 'b) polu drugim imiona,' appears 24 times (likely PDF hea |
 | WDU20140001673 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20140001850 | excessive repetition — '..................................................…' app |
-| WDU20140001893 | excessive repetition — '..................................................…' app |
-| WDU20150000048 | excessive repetition — 'a) 4 szt. dla statków o długości poniżej 24 m,' appears  |
-| WDU20150000069 | excessive repetition — 'Uchwała została podjęta jednogłośnie / za uchwałą …' app |
-| WDU20150000132 | excessive repetition — '2) w odniesieniu do gleb, na których odpady mają b…' app |
-| WDU20150000148 | excessive repetition — '2. Kategoria pojazdu * L' appears 20 times (likely PDF h |
-| WDU20150000415 | excessive repetition — '2) wymogi obowiązkowe przy użytkowaniu kośnym i ko…' app |
-| WDU20150000561 | CID font encoding failure — unreadable glyphs (72 occurrence(s)); excessive repe |
-| WDU20150000863 | excessive repetition — '2. Zawiadomienie, o którym mowa w ust. 1, przesyła…' app |
-| WDU20150001123 | excessive repetition — '1) efekty kształcenia wspólne dla wszystkich zawod…' app |
-| WDU20150001158 | excessive repetition — '22, art. 32 i art. 58 ust. 1 w związku z art. 31 u…' app |
+| WDU20150000561 | CID font encoding failure — unreadable glyphs (72 occurrence(s)) |
 | WDU20150001170 | excessive repetition — '5) zużycie materiałów i energia' appears 27 times (likel |
-| WDU20150001195 | excessive repetition — 'a) pkt 2 nie może przekroczyć 1500 zł,' appears 7 times  |
-| WDU20150001200 | excessive repetition — '..................................................…' app |
 | WDU20150001606 | CID font encoding failure — unreadable glyphs (20 occurrence(s)) |
-| WDU20150001661 | excessive repetition — '– do 500 kg – od 500 zł do 2000 zł,' appears 8 times (li |
-| WDU20150001675 | excessive repetition — 'bankowych papierów wartościowych' appears 10 times (like |
-| WDU20150001703 | excessive repetition — 'Dokumentację, o której mowa w ust. 1, przechowuje …' app |
-| WDU20150001941 | excessive repetition — 'karta tytułowa map górniczych,' appears 7 times (likely  |
-| WDU20150002145 | excessive repetition — 'oznaczenie prowadzącego zakład, jego miejsce zamie…' app |
-| WDU20150002205 | excessive repetition — 'dane ubezpieczonego – pierwsze imię, nazwisko, num…' app |
-| WDU20150002223 | excessive repetition — 'w polu trzecim – określenie sposobu prowadzenia po…' app |
-| WDU20160000275 | excessive repetition — '..................................................…' app |
-| WDU20160000323 | excessive repetition — '…………………………………………………………………………………………………...' appears 14 tim |
 | WDU20160000369 | excessive repetition — '..................................................…' app |
-| WDU20160000398 | excessive repetition — '..................................................…' app |
 | WDU20160000423 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20160000452 | excessive repetition — '..................................................…' app |
-| WDU20160000460 | excessive repetition — 'Nazwa i adres samodzielnego publicznego Nazwa i ad…' app |
-| WDU20160000565 | excessive repetition — '..................................................…' app |
-| WDU20160000721 | excessive repetition — '1) posiadam pełną zdolność do czynności prawnych;' appea |
-| WDU20160000725 | excessive repetition — '..................................................…' app |
-| WDU20160000760 | excessive repetition — '3) prawidłowo zamocowane.' appears 10 times (likely PDF  |
 | WDU20160000763 | CID font encoding failure — unreadable glyphs (9 occurrence(s)) |
-| WDU20160000807 | excessive repetition — 'Kopia deklaracji zgodności zostaje udostępniona na…' app |
-| WDU20160000815 | excessive repetition — '1) imię i nazwisko lub nazwę i adres producenta or…' app |
-| WDU20160000817 | excessive repetition — 'Kopia deklaracji zgodności UE towarzyszy każdemu w…' app |
-| WDU20160000894 | excessive repetition — '1) efekty kształcenia wspólne dla wszystkich zawod…' app |
-| WDU20160000895 | excessive repetition — 'Dziecko kończące wychowanie przedszkolne:' appears 17 ti |
 | WDU20160000950 | CID font encoding failure — unreadable glyphs (41 occurrence(s)) |
-| WDU20160001036 | excessive repetition — 'a) nazwę i adres producenta oraz, w przypadku wnio…' app |
-| WDU20160001085 | excessive repetition — '………………............................................…' app |
-| WDU20160001217 | excessive repetition — '2. MIEJSCOWOŚĆ KOD POCZTOWY __' appears 9 times (likely  |
 | WDU20160001372 | excessive repetition — 'III. Cena 1. Cena 1.1. Cena obliczona zgodnie z wz…' app |
 | WDU20160001395 | excessive repetition — '4) benzo(a)antracen,' appears 32 times (likely PDF heade |
-| WDU20160001408 | excessive repetition — '2 Zajęcia są prowadzone indywidualnie.' appears 8 times  |
-| WDU20160001492 | excessive repetition — 'Realizator: KBPN w ramach FRPH' appears 11 times (likely |
 | WDU20160001792 | excessive repetition — '…………………………………………………………………………….....................…' app |
-| WDU20160001966 | excessive repetition — '..................................................…' app |
-| WDU20160002033 | excessive repetition — '1) mapę przeglądową z lokalizacją terenu przeprowa…' app |
-| WDU20160002115 | excessive repetition — 'a) zwiększenia (z tytułu) …' appears 14 times (likely PD |
-| WDU20160002166 | excessive repetition — '..................................................…' app |
-| WDU20160002224 | excessive repetition — 'Potrzeby ustalane przez dyrektora zakładu karnego …' app |
 | WDU20160002248 | excessive repetition — 'CELE KSZTAŁCENIA WYMAGANIA SZCZEGÓŁOWE' appears 145 time |
-| WDU20170000084 | excessive repetition — 'Weź udział w przeglądzie i wykaż znajomość' appears 17 t |
 | WDU20170000093 | excessive repetition — '..................................................…' app |
-| WDU20170000115 | excessive repetition — '1) A nazwisko i imię albo nazwa, miejsce zamieszka…' app |
-| WDU20170000123 | excessive repetition — 'a) od jednostek powiązanych' appears 8 times (likely PDF |
-| WDU20170000223 | excessive repetition — '2. Symulatory programowe:' appears 7 times (likely PDF h |
-| WDU20170000243 | excessive repetition — '1. Pełna nazwa: ……………………………………………………………………………………………' app |
-| WDU20170000249 | excessive repetition — '3) uczniów szkół dla niepracujących oraz słuchaczy…' app |
-| WDU20170000354 | excessive repetition — '1. własność składającego oświadczenie ' appears 9 times |
-| WDU20170000356 | excessive repetition — '1. W zakresie wiedzy. Uczeń:' appears 12 times (likely P |
-| WDU20170000373 | excessive repetition — '..................................................…' app |
 | WDU20170000462 | excessive repetition — '..................................................…' app |
-| WDU20170000515 | excessive repetition — '3) początkowe koncepcja inwestycyjna i studium wyk…' app |
-| WDU20170000567 | excessive repetition — '..................................................…' app |
-| WDU20170000661 | excessive repetition — '..................................................…' app |
 | WDU20170000721 | excessive repetition — '……………………………………………………………………………………………………………………………..' appea |
 | WDU20170000860 | excessive repetition — '1) efekty kształcenia wspólne dla wszystkich zawod…' app |
-| WDU20170000994 | excessive repetition — '..................................................…' app |
-| WDU20170001115 | excessive repetition — '1) planowanie i organizacja szkolenia;' appears 7 times  |
 | WDU20170001118 | excessive repetition — '..................................' appears 78 times (li |
 | WDU20170001162 | excessive repetition — '..................................................…' app |
-| WDU20170001236 | excessive repetition — '..................................................…' app |
 | WDU20170001302 | excessive repetition — '………………………………………………………………………………………………………………………………………' app |
-| WDU20170001306 | excessive repetition — '……………………………………………………..' appears 6 times (likely PDF head |
-| WDU20170001324 | excessive repetition — '..................................................…' app |
-| WDU20170001345 | excessive repetition — '..................................................…' app |
-| WDU20170001522 | excessive repetition — 'urzędowym Krajowego Rejestru Sądowego' appears 6 times ( |
 | WDU20170001548 | excessive repetition — 'Objaśnienia i informacje dodatkowe dotyczące m.in.…' app |
-| WDU20170001605 | excessive repetition — '915, z późn. zm.) - (art. 24 ust. 4 pkt 4 ustawy o…' app |
-| WDU20170001693 | excessive repetition — '..................................................…' app |
 | WDU20170001695 | excessive repetition — '..................................................…' app |
-| WDU20170001724 | excessive repetition — '2) starszy technik analityki medycznej, technik an…' app |
 | WDU20170001783 | CID font encoding failure — unreadable glyphs (94 occurrence(s)) |
 | WDU20170001962 | PostScript CE garbled diacritics — unrepaired encoding (1 occurrence(s): 'àn') |
 | WDU20170002015 | excessive repetition — '………………………………………………………………………………………………………………………………………' app |
 | WDU20170002019 | excessive repetition — '..................................................…' app |
 | WDU20170002020 | excessive repetition — '..................................................…' app |
-| WDU20170002027 | excessive repetition — '..................................................…' app |
-| WDU20170002293 | excessive repetition — '1. Podstawowe dane dotyczące przedsiębiorcy i zakł…' app |
 | WDU20170002411 | CID font encoding failure — unreadable glyphs (1367 occurrence(s)) |
 | WDU20170002469 | excessive repetition — 'Które instytucje odpowiadają za te działania?' appears 2 |
-| WDU20180000311 | excessive repetition — '5. Termin, o którym mowa ust. 3, nie podlega przyw…' app |
 | WDU20180000371 | excessive repetition — '..................................................…' app |
 | WDU20180000467 | excessive repetition — 'spełnia wymagania określone dla zakresu podstawowe…' app |
-| WDU20180000562 | excessive repetition — ' Rodzaj deklaracji ………………………………..................…' app |
 | WDU20180000605 | excessive repetition — '..................................................…' app |
 | WDU20180000640 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
-| WDU20180000709 | excessive repetition — '..................................................…' app |
-| WDU20180000776 | excessive repetition — '..................................................…' app |
-| WDU20180000957 | excessive repetition — '2. Minister właściwy do spraw informatyzacji ogłas…' app |
-| WDU20180001069 | excessive repetition — '..................................................…' app |
-| WDU20180001246 | excessive repetition — '..................................................…' app |
-| WDU20180001493 | excessive repetition — '1) pełnomocnictwo przypadku gdy zostało udzielone;' appe |
-| WDU20180001609 | excessive repetition — '1) imię, nazwisko i adres lub nazwę, siedzibę i ad…' app |
-| WDU20180001624 | excessive repetition — '…………………………………………………………………………………………….......… …………………' app |
-| WDU20180001631 | excessive repetition — '..................................................…' app |
-| WDU20180001658 | excessive repetition — '…………………………………………………………………………………………………………………..' appears 1 |
-| WDU20180001679 | excessive repetition — 'II. Kształcenie językowe.' appears 6 times (likely PDF h |
 | WDU20180001730 | CID font encoding failure — unreadable glyphs (6 occurrence(s)) |
 | WDU20180001891 | CID font encoding failure — unreadable glyphs (6 occurrence(s)) |
 | WDU20180001953 | CID font encoding failure — unreadable glyphs (7821 occurrence(s)); missing Poli |
@@ -751,7 +619,6 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20180002228 | CID font encoding failure — unreadable glyphs (179620 occurrence(s)); missing Po |
 | WDU20180002229 | CID font encoding failure — unreadable glyphs (3878 occurrence(s)); missing Poli |
 | WDU20180002240 | CID font encoding failure — unreadable glyphs (3546 occurrence(s)); missing Poli |
-| WDU20180002245 | excessive repetition — '3. Przepisy ust. 1 i 2 stosuje się odpowiednio do …' app |
 | WDU20180002249 | CID font encoding failure — unreadable glyphs (2799 occurrence(s)); missing Poli |
 | WDU20180002250 | CID font encoding failure — unreadable glyphs (12615 occurrence(s)); missing Pol |
 | WDU20180002266 | CID font encoding failure — unreadable glyphs (1765 occurrence(s)); missing Poli |
@@ -802,111 +669,38 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20180002390 | CID font encoding failure — unreadable glyphs (8408 occurrence(s)); missing Poli |
 | WDU20180002391 | CID font encoding failure — unreadable glyphs (13333 occurrence(s)); missing Pol |
 | WDU20180002398 | CID font encoding failure — unreadable glyphs (10411 occurrence(s)); missing Pol |
-| WDU20180002459 | excessive repetition — '' appe |
-| WDU20180002475 | excessive repetition — '..................................................…' app |
-| WDU20180002481 | CID font encoding failure — unreadable glyphs (3 occurrence(s)); excessive repet |
-| WDU20180002521 | excessive repetition — 'Niepotrzebne skreślić.' appears 7 times (likely PDF head |
-| WDU20190000091 | CID font encoding failure — unreadable glyphs (211 occurrence(s)); excessive rep |
+| WDU20180002481 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
+| WDU20190000091 | CID font encoding failure — unreadable glyphs (211 occurrence(s)) |
 | WDU20190000093 | CID font encoding failure — unreadable glyphs (8 occurrence(s)) |
 | WDU20190000121 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
-| WDU20190000211 | excessive repetition — 'a) nazwę i adres producenta oraz, w przypadku wnio…' app |
-| WDU20190000313 | excessive repetition — '..................................................…' app |
-| WDU20190000325 | excessive repetition — '2. Świat zawodów i rynek pracy Uczeń:' appears 6 times ( |
 | WDU20190000392 | CID font encoding failure — unreadable glyphs (15 occurrence(s)) |
-| WDU20190000495 | excessive repetition — 'c) zebranie i usunięcie skoszonej biomasy (w tym z…' app |
-| WDU20190000546 | excessive repetition — '..................................................…' app |
 | WDU20190000554 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20190000605 | excessive repetition — 'b) polu drugim ulicę,' appears 6 times (likely PDF heade |
-| WDU20190000632 | excessive repetition — '2. Telewizja Polska rozpowszechnia audycje wyborcz…' app |
-| WDU20190000637 | excessive repetition — '..................................................…' app |
-| WDU20190000735 | excessive repetition — '..................................................…' app |
-| WDU20190000745 | excessive repetition — 'Gmina.................................... Ulica...…' app |
 | WDU20190000776 | excessive repetition — '..................................................…' app |
-| WDU20190000810 | excessive repetition — 'Adres e-mail* ……………………………………………………..' appears 14 times ( |
-| WDU20190000829 | excessive repetition — '……………………………………………………………………………………………………………………….' appears  |
-| WDU20190000830 | excessive repetition — '……………………………………………………………………………………………………………………….' appears  |
-| WDU20190000842 | excessive repetition — '..................................................…' app |
 | WDU20190000851 | excessive repetition — '..................................................…' app |
-| WDU20190000854 | excessive repetition — '..................................................…' app |
-| WDU20190000885 | excessive repetition — '..................................................…' app |
-| WDU20190000895 | excessive repetition — '..................................................…' app |
-| WDU20190000918 | excessive repetition — 'b) na ramę ostojnicy wagonu;' appears 10 times (likely P |
-| WDU20190000921 | excessive repetition — 'Czas wystąpienia udokumentowanych objawów chorobow…' app |
-| WDU20190000956 | excessive repetition — '……………………………………………………………………………………………..' appears 7 times ( |
 | WDU20190000991 | excessive repetition — 'Efekty kształcenia Kryteria weryfikacji Uczeń: Ucz…' app |
-| WDU20190001103 | excessive repetition — '..................................................…' app |
 | WDU20190001110 | CID font encoding failure — unreadable glyphs (12864 occurrence(s)) |
-| WDU20190001201 | CID font encoding failure — unreadable glyphs (184 occurrence(s)); excessive rep |
-| WDU20190001214 | excessive repetition — '2. Tej samej karze podlega, kto dopuszcza się czyn…' app |
+| WDU20190001201 | CID font encoding failure — unreadable glyphs (184 occurrence(s)) |
 | WDU20190001230 | excessive repetition — '..................................................…' app |
-| WDU20190001237 | excessive repetition — '..................................................…' app |
-| WDU20190001336 | excessive repetition — '..................................................…' app |
 | WDU20190001369 | CID font encoding failure — unreadable glyphs (117 occurrence(s)) |
-| WDU20190001385 | excessive repetition — '…………………………………………………………………………………………………...' appears 11 tim |
 | WDU20190001406 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20190001425 | excessive repetition — '..................................................…' app |
-| WDU20190001483 | excessive repetition — 'Uchwała została podjęta jednogłośnie / za uchwałą …' app |
-| WDU20190001497 | excessive repetition — '2. Użyte w załączniku określenia oznaczają:' appears 6 t |
-| WDU20190001522 | excessive repetition — '3) służbowe usługi energia' appears 18 times (likely PDF |
-| WDU20190001573 | excessive repetition — '2. ZAJĘCIA I GRUPY ZAJĘĆ' appears 10 times (likely PDF h |
-| WDU20190001588 | excessive repetition — 'b) przejściowego wykupienia odsetek' appears 6 times (li |
 | WDU20190001601 | excessive repetition — '..................................................…' app |
-| WDU20190001619 | excessive repetition — '2) zawartego przedziale od 0,5 Q do 0,7 Q jeden po…' app |
 | WDU20190001637 | excessive repetition — 'CELE KSZTAŁCENIA - WYMAGANIA SZCZEGÓŁOWE' appears 159 ti |
-| WDU20190001641 | excessive repetition — 'a) I technikum, której jest realizowane kształceni…' app |
 | WDU20190001658 | excessive repetition — '71. Nr pojazdu kolejowego bez napędu:' appears 32 times  |
-| WDU20190001706 | excessive repetition — '1.1 kredytu wraz ze skapitalizowanymi odsetkami' appears |
 | WDU20190001764 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20190002115 | excessive repetition — '….…...............................................…' app |
-| WDU20190002141 | excessive repetition — '………………………………………………………………………………………………...' appears 9 times |
 | WDU20190002210 | excessive repetition — '..................................................…' app |
-| WDU20190002319 | excessive repetition — '..................................................…' app |
 | WDU20190002349 | excessive repetition — 'Dopuszczalne jest w razie potrzeby powielanie wier…' app |
-| WDU20190002431 | excessive repetition — 'Stanowisko: …………………….. Stanowisko: .……………………………… T…' app |
-| WDU20190002472 | excessive repetition — '..................................................…' app |
 | WDU20200000063 | excessive repetition — '..................................................…' app |
-| WDU20200000090 | excessive repetition — 'Z upoważnienia Dyrektora Urzędu Morskiego w On beh…' app |
-| WDU20200000150 | excessive repetition — 'Zgodnie z katalogiem odpadów określonym w przepisa…' app |
 | WDU20200000189 | excessive repetition — '..................................................…' app |
-| WDU20200000386 | excessive repetition — '..................................................…' app |
-| WDU20200000395 | excessive repetition — '..................................................…' app |
-| WDU20200000444 | excessive repetition — '..................................................…' app |
 | WDU20200000590 | CID font encoding failure — unreadable glyphs (18750 occurrence(s)); missing Pol |
-| WDU20200000635 | excessive repetition — '2) ocenia sytuację poszkodowanego na podstawie ana…' app |
-| WDU20200000636 | excessive repetition — '1) tło reliefowe, zadruk techniką offsetową w tech…' app |
 | WDU20200000666 | excessive repetition — '…………………………………………………………………………………………..' appears 35 times ( |
-| WDU20200000698 | excessive repetition — '1) ze znakiem wodnym;' appears 10 times (likely PDF head |
-| WDU20200000703 | excessive repetition — '..................................................…' app |
-| WDU20200000772 | excessive repetition — 'a) ...............................................…' app |
-| WDU20200000788 | excessive repetition — '1) numer kolejny pacjenta w wykazie;' appears 6 times (l |
-| WDU20200000931 | excessive repetition — '4. ODCZYNNIKI Wszystkie odczynniki powinny być czy…' app |
-| WDU20200001020 | excessive repetition — '..................................................…' app |
-| WDU20200001053 | excessive repetition — 'a) grupy inwestorów, do których oferta jest kierow…' app |
-| WDU20200001244 | excessive repetition — '1) jest wytwarzany na obszarach, o których wiadomo…' app |
-| WDU20200001508 | excessive repetition — '..................................................…' app |
-| WDU20200001589 | excessive repetition — '(nazwa, dawka, termin) ...........................…' app |
-| WDU20200001604 | excessive repetition — '..................................................…' app |
 | WDU20200001605 | excessive repetition — '..................................................…' app |
-| WDU20200001610 | excessive repetition — '3. W przypadku zagrożenia przekroczeniem lub przek…' app |
 | WDU20200001657 | CID font encoding failure — unreadable glyphs (33 occurrence(s)) |
 | WDU20200001825 | excessive repetition — '..................................................…' app |
 | WDU20200001860 | excessive repetition — 'od 1 stycznia 2030 r.' appears 62 times (likely PDF head |
 | WDU20200001916 | excessive repetition — '4 Obowiązek | Warunek Obligatoryjny.' appears 23 times ( |
-| WDU20200001923 | excessive repetition — 'c) podkładu kolejowego,' appears 6 times (likely PDF hea |
 | WDU20200002000 | excessive repetition — 'b) zwiększenia (z tytułu) ...' appears 49 times (likely  |
-| WDU20200002012 | excessive repetition — '..................................................…' app |
-| WDU20200002379 | excessive repetition — 'a) 0 zł dla organizatorów turystyki, którzy przyjm…' app |
-| WDU20200002427 | excessive repetition — '..................................................…' app |
 | WDU20200002434 | CID font encoding failure — unreadable glyphs (658 occurrence(s)); excessive rep |
-| WDU20200002439 | excessive repetition — '1. Podstawowe informacje:' appears 9 times (likely PDF h |
 | WDU20200002448 | excessive repetition — '..................................................…' app |
-| WDU20200002449 | excessive repetition — '1) dla obszarów lądowych: miejscowość: ………………………………' app |
-| WDU20200002451 | excessive repetition — '..................................................…' app |
-| WDU20210000081 | excessive repetition — '1) imię, nazwisko i adres lub nazwę, siedzibę i ad…' app |
-| WDU20210000101 | excessive repetition — '1. Egzamin teoretyczny:' appears 14 times (likely PDF he |
-| WDU20210000136 | excessive repetition — '..................................................…' app |
-| WDU20210000148 | excessive repetition — '……………………………………………………………………………………………..' appears 11 times  |
-| WDU20210000234 | excessive repetition — '3. W przypadku przekroczenia lub zagrożenia przekr…' app |
 | WDU20210000280 | CID font encoding failure — unreadable glyphs (77915 occurrence(s)); missing Pol |
 | WDU20210000282 | CID font encoding failure — unreadable glyphs (1555 occurrence(s)); missing Poli |
 | WDU20210000315 | CID font encoding failure — unreadable glyphs (1993 occurrence(s)); missing Poli |
@@ -932,148 +726,46 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20210000474 | CID font encoding failure — unreadable glyphs (3586 occurrence(s)); missing Poli |
 | WDU20210000475 | CID font encoding failure — unreadable glyphs (21628 occurrence(s)); missing Pol |
 | WDU20210000525 | CID font encoding failure — unreadable glyphs (956 occurrence(s)); missing Polis |
-| WDU20210000566 | excessive repetition — '………………............................................…' app |
-| WDU20210000589 | excessive repetition — 'a) na soki zagęszczone,' appears 8 times (likely PDF hea |
-| WDU20210000604 | excessive repetition — '4. Osoba prowadząca sprawę' appears 11 times (likely PDF |
-| WDU20210000755 | excessive repetition — '2. ZAJĘCIA I GRUPY ZAJĘĆ' appears 10 times (likely PDF h |
-| WDU20210000893 | excessive repetition — 'przeprowadzania wywiadu? ……………………………………………………………….…' app |
 | WDU20210000894 | excessive repetition — 'Dla sposobu 2 bez ograniczeń' appears 26 times (likely P |
-| WDU20210000924 | excessive repetition — 'a) zwiększenia(z tytułu) …' appears 14 times (likely PDF |
-| WDU20210000978 | excessive repetition — '..................................................…' app |
 | WDU20210001031 | CID font encoding failure — unreadable glyphs (6417 occurrence(s)); missing Poli |
 | WDU20210001053 | CID font encoding failure — unreadable glyphs (8 occurrence(s)) |
-| WDU20210001087 | excessive repetition — '2) ocenia sytuację poszkodowanego na podstawie ana…' app |
 | WDU20210001142 | CID font encoding failure — unreadable glyphs (14247 occurrence(s)); missing Pol |
 | WDU20210001156 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
-| WDU20210001173 | excessive repetition — ' Wnioskodawca wypełnia pola jasne.' appears 12 times (l |
-| WDU20210001230 | excessive repetition — '1. zagadnienia ogólne' appears 8 times (likely PDF heade |
 | WDU20210001345 | excessive repetition — '71. Nr pojazdu kolejowego bez napędu:' appears 32 times  |
-| WDU20210001412 | excessive repetition — 'Nazwy przylądków rozmieszcza się w zależności od k…' app |
-| WDU20210001457 | excessive repetition — '..................................................…' app |
 | WDU20210001475 | excessive repetition — '1. Stan bardzo dobry oznacza stan, w którym:' appears 40 |
-| WDU20210001548 | excessive repetition — '..................................................…' app |
-| WDU20210001562 | excessive repetition — '3) stosuje procedury związane z powiadamianiem o w…' app |
 | WDU20210001719 | excessive repetition — '..................................................…' app |
-| WDU20210001733 | excessive repetition — '…………..............................................…' app |
-| WDU20210001759 | excessive repetition — '1) element graficzny, o ile występuje;' appears 7 times  |
 | WDU20210001778 | CID font encoding failure — unreadable glyphs (150435 occurrence(s)); missing Po |
 | WDU20210001786 | CID font encoding failure — unreadable glyphs (132734 occurrence(s)); missing Po |
-| WDU20210001795 | excessive repetition — '1) czapka służbowa letnia,' appears 6 times (likely PDF  |
-| WDU20210001811 | excessive repetition — '..................................................…' app |
-| WDU20210001825 | excessive repetition — '1) oznaczenie pacjenta, zgodnie z § 10 pkt 2;' appears 9 |
-| WDU20210002009 | excessive repetition — '……………….………………………………...……………………………….………...…………..' appears |
-| WDU20210002124 | excessive repetition — '..................................................…' app |
 | WDU20210002238 | CID font encoding failure — unreadable glyphs (794 occurrence(s)) |
 | WDU20210002254 | CID font encoding failure — unreadable glyphs (5656 occurrence(s)); missing Poli |
-| WDU20210002284 | excessive repetition — '..................................................…' app |
-| WDU20210002360 | excessive repetition — '..................................................…' app |
-| WDU20210002361 | excessive repetition — 'a) nazwę i numer identyfikacyjny,' appears 17 times (lik |
-| WDU20210002436 | excessive repetition — 'A. DANE IDENTYFIKACYJNE PODATNIKA dotyczy podatnik…' app |
-| WDU20220000020 | excessive repetition — '..................................................…' app |
-| WDU20220000131 | excessive repetition — '4. Grid NetWars Tournament' appears 6 times (likely PDF  |
 | WDU20220000223 | excessive repetition — '..................................................…' app |
 | WDU20220000256 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àn', ' |
-| WDU20220000374 | excessive repetition — 'Należy wypełnić w przypadku, gdy osoba nie posiada…' app |
-| WDU20220000567 | excessive repetition — 'UE L 153 z 22.05.2014, str. 62 i Dz. Urz. UE L 212…' app |
 | WDU20220000622 | excessive repetition — 'spełnia wymagania określone dla zakresu podstawowe…' app |
-| WDU20220000627 | excessive repetition — '..................................................…' app |
-| WDU20220000665 | excessive repetition — '..................................................…' app |
-| WDU20220000695 | excessive repetition — '..................................................…' app |
 | WDU20220000788 | CID font encoding failure — unreadable glyphs (55864 occurrence(s)); missing Pol |
-| WDU20220000824 | excessive repetition — 'a) organizacja systemu badań w regionie,' appears 9 time |
-| WDU20220000957 | excessive repetition — '10b. W przypadku gdy wniosek o udzielenie dotacji …' app |
-| WDU20220001018 | excessive repetition — '..................................................…' app |
 | WDU20220001094 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
-| WDU20220001109 | excessive repetition — 'e) świadczonych usług, w tym obsługi klienta' appears 12 |
 | WDU20220001134 | excessive repetition — '.………………………………………………………………………………………………….' appears 113 tim |
-| WDU20220001200 | excessive repetition — '2) podoficer szeregowy zawodowy powyżej sześćdzies…' app |
-| WDU20220001209 | excessive repetition — '………………………………………………………………………………………………………………………………………' app |
-| WDU20220001237 | excessive repetition — '5. Krawat koloru czarnego' appears 14 times (likely PDF  |
-| WDU20220001240 | excessive repetition — '5) pokrycie kosztów pośrednich;' appears 6 times (likely |
-| WDU20220001269 | excessive repetition — '..................................................…' app |
 | WDU20220001329 | excessive repetition — 'CELE KSZTAŁCENIA WYMAGANIA SZCZEGÓŁOWE' appears 202 time |
-| WDU20220001380 | excessive repetition — '4. Zwrot podatku jest dokonywany złotych polskich …' app |
-| WDU20220001392 | excessive repetition — '………………………………………………………..' appears 7 times (likely PDF hea |
-| WDU20220001531 | excessive repetition — '................................................' appear |
-| WDU20220001542 | excessive repetition — 'Etap „Nadzór i badania diagnostyczne”:' appears 6 times  |
 | WDU20220001559 | excessive repetition — '..................................................…' app |
-| WDU20220001611 | excessive repetition — '1) prostokąt o wymiarach 106 mm x 148 mm, zadrukow…' app |
-| WDU20220001637 | excessive repetition — 'rozporządzenia nr 1107/2009' appears 6 times (likely PDF |
-| WDU20220001659 | excessive repetition — '1) numer kolejny wpisu w księdze;' appears 10 times (lik |
-| WDU20220001704 | excessive repetition — '..................................................…' app |
-| WDU20220001708 | excessive repetition — '..................................................…' app |
-| WDU20220001712 | excessive repetition — 'DANE OSOBY WCHODZĄCEJ W SKŁAD GOSPODARSTWA DOMOWEG…' app |
-| WDU20220001762 | excessive repetition — 'Gmina.................................... Ulica...…' app |
-| WDU20220001832 | excessive repetition — 'Policjant wykonuje próbę sprawnościową w stroju i …' app |
-| WDU20220001869 | excessive repetition — '……………………………………………………………………………………………………………………………' appears |
-| WDU20220001910 | excessive repetition — '..................................................…' app |
 | WDU20220001914 | excessive repetition — '………………………………………………………………………………………………….' appears 142 time |
-| WDU20220001957 | excessive repetition — '1) numer kolejny pacjenta wykazie;' appears 6 times (lik |
-| WDU20220001959 | excessive repetition — '..................................................…' app |
 | WDU20220001999 | excessive repetition — '1) nazwę sądu oraz sygnaturę akt sprawy pierwszej …' app |
 | WDU20220002028 | excessive repetition — '..................................................…' app |
-| WDU20220002050 | excessive repetition — '1) tło giloszowe z elementami mikrodruków wykonane…' app |
-| WDU20220002085 | excessive repetition — '1) 2–4a 8–13 0 0 5, 15, 18 20 0 0' appears 8 times (like |
-| WDU20220002145 | excessive repetition — '1. Legitymację o wymiarach 140 mm x 95 mm wykonuje…' app |
-| WDU20220002194 | excessive repetition — '04. Seria i numer dokumentu stwierdzającego tożsam…' app |
-| WDU20220002264 | excessive repetition — '..................................................…' app |
-| WDU20220002407 | excessive repetition — '……………………………………………………………………………………………..' appears 7 times ( |
-| WDU20220002439 | excessive repetition — 'Na rewersie grawerowane wgłębnie lub wykonane inny…' app |
-| WDU20220002443 | excessive repetition — '…………………………………………………………………………………………………………..' appears 6 ti |
-| WDU20220002503 | excessive repetition — '1) ubiegającej się o wydanie prawa jazdy kategorii…' app |
-| WDU20220002510 | excessive repetition — '1) o 5 punktów procentowych przypadku gdy przedsię…' app |
-| WDU20220002643 | excessive repetition — '…………………………………………………………………………………………………...' appears 9 time |
-| WDU20220002685 | excessive repetition — '………………………………………………………………………………………………………………………………………' app |
 | WDU20220002692 | excessive repetition — '..................................................…' app |
 | WDU20220002701 | excessive repetition — '……………………………………………..……………………………………………..……..' appears 66 t |
 | WDU20220002807 | excessive repetition — '..................................................…' app |
-| WDU20230000022 | excessive repetition — '1) trzycyfrowego kodu państwa 616;' appears 10 times (li |
-| WDU20230000111 | excessive repetition — 'DANE OSOBY WCHODZĄCEJ W SKŁAD GOSPODARSTWA DOMOWEG…' app |
-| WDU20230000167 | excessive repetition — '1.1. Przepisy ogólne' appears 8 times (likely PDF header |
-| WDU20230000187 | excessive repetition — '2) 5 punktów procentowych w przypadku gdy inwestyc…' app |
-| WDU20230000240 | excessive repetition — '7. W razie zaistnienia wypadku pozostającego związ…' app |
-| WDU20230000350 | excessive repetition — '1. Informacje ogólne:' appears 6 times (likely PDF heade |
 | WDU20230000425 | excessive repetition — '1. Dane binarne / nazwa pliku: 2. Typ pliku :' appears 2 |
-| WDU20230000431 | excessive repetition — '…………………………………………………………………………………………….......… …………………' app |
-| WDU20230000495 | excessive repetition — '1) numer siedziby stada;' appears 11 times (likely PDF h |
-| WDU20230000655 | excessive repetition — '..................................................…' app |
-| WDU20230000708 | excessive repetition — '..................................................…' app |
-| WDU20230000715 | excessive repetition — '….…...............................................…' app |
-| WDU20230000734 | excessive repetition — '2) wymogi obowiązkowe przy użytkowaniu kośnym i ko…' app |
-| WDU20230000752 | excessive repetition — '..................................................…' app |
-| WDU20230000791 | excessive repetition — '2) kwoty stanowiącej iloczyn:' appears 7 times (likely P |
 | WDU20230000862 | excessive repetition — '..................................................…' app |
-| WDU20230000870 | excessive repetition — '(przednich) (środkowych); koła Willisa; tylnej tęt…' app |
-| WDU20230000873 | excessive repetition — '..................................................…' app |
-| WDU20230000916 | excessive repetition — '2. Warunki wymagane od świadczeniodawców:' appears 8 tim |
-| WDU20230000995 | excessive repetition — 'Zarząd PFRON mieści się pod adresem: al. Jana Pawł…' app |
-| WDU20230001005 | excessive repetition — 'e) 0,05 ‒ dla składnika umiędzynarodowienia Wu,' appears |
-| WDU20230001023 | CID font encoding failure — unreadable glyphs (1354 occurrence(s)); excessive re |
-| WDU20230001039 | excessive repetition — '1) materiał z polietylenu pierwotnego wysokiej gęs…' app |
-| WDU20230001119 | excessive repetition — '3) zabezpiecza siebie, poszkodowanego i miejsce wy…' app |
-| WDU20230001120 | CID font encoding failure — unreadable glyphs (6996 occurrence(s)); excessive re |
-| WDU20230001135 | excessive repetition — 'Pola formularza można rozszerzać w zależności od p…' app |
-| WDU20230001169 | excessive repetition — '1) ……………………………………….…………………………………………………………,' appears 12 t |
+| WDU20230001023 | CID font encoding failure — unreadable glyphs (1354 occurrence(s)) |
+| WDU20230001120 | CID font encoding failure — unreadable glyphs (6996 occurrence(s)) |
 | WDU20230001220 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20230001234 | excessive repetition — '2. Komunikat ogłasza się terminie co najmniej 14 d…' app |
-| WDU20230001316 | excessive repetition — 'a) papier niewykazujący luminescencji w promieniow…' app |
-| WDU20230001427 | excessive repetition — '1) przeprowadzenie badania przedmiotowego i podmio…' app |
 | WDU20230001522 | excessive repetition — '..................................................…' app |
 | WDU20230001562 | excessive repetition — '5) zużycie materiałów i energia' appears 23 times (likel |
-| WDU20230001613 | excessive repetition — '……………………………………………………………………………………………………..…………………...…' app |
 | WDU20230001646 | excessive repetition — '..................................................…' app |
 | WDU20230001714 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àn', ' |
-| WDU20230001743 | excessive repetition — '2. Tej samej karze podlega, kto dopuszcza się czyn…' app |
 | WDU20230001754 | excessive repetition — 'Treści nauczania Kryteria weryfikacji' appears 173 times |
-| WDU20230001763 | excessive repetition — '..................................................…' app |
 | WDU20230001828 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); excessive repet |
-| WDU20230001829 | excessive repetition — '..................................................…' app |
 | WDU20230001832 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
-| WDU20230001840 | excessive repetition — '..................................................…' app |
 | WDU20230001898 | CID font encoding failure — unreadable glyphs (265 occurrence(s)) |
 | WDU20230001911 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20230001924 | excessive repetition — 'a) I technikum, której jest realizowane kształceni…' app |
-| WDU20230001960 | excessive repetition — '1) wykazywaną w pozycji C0120 formularza S.14.01.0…' app |
 | WDU20230002007 | CID font encoding failure — unreadable glyphs (119 occurrence(s)) |
 | WDU20230002016 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002023 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
@@ -1081,159 +773,95 @@ Acts excluded from publication due to quality issues. Total: 1233
 | WDU20230002055 | CID font encoding failure — unreadable glyphs (41 occurrence(s)) |
 | WDU20230002065 | CID font encoding failure — unreadable glyphs (150 occurrence(s)) |
 | WDU20230002076 | CID font encoding failure — unreadable glyphs (222 occurrence(s)) |
-| WDU20230002080 | CID font encoding failure — unreadable glyphs (28 occurrence(s)); excessive repe |
+| WDU20230002080 | CID font encoding failure — unreadable glyphs (28 occurrence(s)) |
 | WDU20230002093 | excessive repetition — '..................................................…' app |
-| WDU20230002102 | excessive repetition — '1) jednolite studia magisterskie prowadzone zgodni…' app |
-| WDU20230002128 | excessive repetition — '1) pełnomocnictwo w przypadku gdy zostało udzielon…' app |
-| WDU20230002174 | excessive repetition — 'a) 0,75 ‒ dla stałej przeniesienia C,' appears 6 times ( |
-| WDU20230002258 | excessive repetition — '..................................................…' app |
-| WDU20230002269 | excessive repetition — '..................................................…' app |
 | WDU20230002315 | CID font encoding failure — unreadable glyphs (152 occurrence(s)) |
-| WDU20230002326 | excessive repetition — '2) starszy technik analityki medycznej, technik an…' app |
-| WDU20230002330 | excessive repetition — 'Wskazówki metodyczne:' appears 6 times (likely PDF heade |
 | WDU20230002334 | CID font encoding failure — unreadable glyphs (7 occurrence(s)) |
-| WDU20230002338 | excessive repetition — '..................................................…' app |
-| WDU20230002361 | excessive repetition — '1) pełnomocnictwo w przypadku gdy zostało udzielon…' app |
-| WDU20230002429 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); excessive repet |
+| WDU20230002429 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20230002471 | excessive repetition — 'b) 0,057 za 1 pobranych powierzchniowych;' appears 34 ti |
-| WDU20230002480 | excessive repetition — 'Cel szczegółowy: 1a upowszechnienie zintegrowanego…' app |
-| WDU20230002498 | excessive repetition — 'a) na soki zagęszczone,' appears 8 times (likely PDF hea |
 | WDU20230002501 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
-| WDU20230002503 | excessive repetition — 'a) z tytułu dostaw i usług, o okresie spłaty do 12…' app |
 | WDU20230002574 | CID font encoding failure — unreadable glyphs (88 occurrence(s)) |
-| WDU20230002616 | excessive repetition — '..................................................…' app |
 | WDU20230002621 | excessive repetition — '6. FUNKCJE DOPUSZCZALNE' appears 66 times (likely PDF he |
 | WDU20230002653 | CID font encoding failure — unreadable glyphs (10 occurrence(s)) |
-| WDU20230002659 | CID font encoding failure — unreadable glyphs (127 occurrence(s)); excessive rep |
+| WDU20230002659 | CID font encoding failure — unreadable glyphs (127 occurrence(s)) |
 | WDU20230002660 | CID font encoding failure — unreadable glyphs (10 occurrence(s)) |
 | WDU20230002673 | CID font encoding failure — unreadable glyphs (12 occurrence(s)) |
-| WDU20230002691 | excessive repetition — '..................................................…' app |
 | WDU20230002732 | CID font encoding failure — unreadable glyphs (135 occurrence(s)) |
 | WDU20230002737 | CID font encoding failure — unreadable glyphs (121 occurrence(s)) |
 | WDU20230002758 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
-| WDU20230002787 | excessive repetition — '……………………………………………………………………………………………………………………………' appears |
-| WDU20230002817 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); excessive repet |
-| WDU20230002821 | CID font encoding failure — unreadable glyphs (86 occurrence(s)); excessive repe |
-| WDU20240000005 | excessive repetition — 'Jeżeli zaświadczenie nie jest wydawane na piśmie u…' app |
-| WDU20240000009 | excessive repetition — '2) wizualny edytor tekstu z możliwością osadzania …' app |
-| WDU20240000028 | excessive repetition — '3. W metodzie używa się podstawowego sprzętu labor…' app |
+| WDU20230002817 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20230002821 | CID font encoding failure — unreadable glyphs (86 occurrence(s)) |
 | WDU20240000058 | CID font encoding failure — unreadable glyphs (38 occurrence(s)) |
-| WDU20240000059 | excessive repetition — 'Należy wypełnić w przypadku, gdy osoba nie ma nume…' app |
 | WDU20240000062 | CID font encoding failure — unreadable glyphs (17 occurrence(s)) |
-| WDU20240000065 | excessive repetition — '2. Nazwa / firma / nazwisko lub pierwszy człon naz…' app |
 | WDU20240000118 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240000136 | CID font encoding failure — unreadable glyphs (237 occurrence(s)) |
-| WDU20240000141 | CID font encoding failure — unreadable glyphs (126 occurrence(s)); excessive rep |
+| WDU20240000141 | CID font encoding failure — unreadable glyphs (126 occurrence(s)) |
 | WDU20240000194 | CID font encoding failure — unreadable glyphs (9 occurrence(s)) |
-| WDU20240000198 | excessive repetition — '2) procedurze innej niż procedura, o której mowa w…' app |
 | WDU20240000202 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
-| WDU20240000209 | excessive repetition — '…………….………….…………………..…………….…………….………….…………………..…...' appe |
-| WDU20240000213 | excessive repetition — '2) procedurze innej niż procedura, której 1.' appears 12 |
 | WDU20240000219 | CID font encoding failure — unreadable glyphs (8 occurrence(s)) |
-| WDU20240000229 | excessive repetition — '2) studia ukończone przed dniem 1 października 201…' app |
 | WDU20240000335 | CID font encoding failure — unreadable glyphs (60 occurrence(s)) |
 | WDU20240000351 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240000358 | CID font encoding failure — unreadable glyphs (36 occurrence(s)) |
 | WDU20240000394 | CID font encoding failure — unreadable glyphs (166 occurrence(s)) |
 | WDU20240000396 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
-| WDU20240000426 | excessive repetition — '................................................ .…' app |
 | WDU20240000439 | CID font encoding failure — unreadable glyphs (80 occurrence(s)) |
 | WDU20240000443 | CID font encoding failure — unreadable glyphs (77 occurrence(s)) |
 | WDU20240000453 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240000458 | excessive repetition — '..................................................…' app |
 | WDU20240000468 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
-| WDU20240000469 | excessive repetition — '..................................................…' app |
-| WDU20240000495 | excessive repetition — '..................................................…' app |
-| WDU20240000503 | excessive repetition — '1) druk offsetowy umiejscowiony na całej powierzch…' app |
 | WDU20240000601 | CID font encoding failure — unreadable glyphs (247 occurrence(s)) |
-| WDU20240000637 | excessive repetition — '……………………………………………………………………………………………………………………….' appears  |
-| WDU20240000656 | excessive repetition — '2) wizualny edytor tekstu z możliwością osadzania …' app |
-| WDU20240000674 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); excessive repet |
-| WDU20240000704 | excessive repetition — 'a) kierownika komórki organizacyjnej bezpośrednio …' app |
+| WDU20240000674 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240000748 | CID font encoding failure — unreadable glyphs (364 occurrence(s)) |
-| WDU20240000751 | excessive repetition — 'a) kryterium niespełnione 0 pkt,' appears 9 times (likel |
-| WDU20240000759 | excessive repetition — '..................................................…' app |
-| WDU20240000775 | excessive repetition — '..................................................…' app |
-| WDU20240000780 | excessive repetition — '1. Egzamin teoretyczny:' appears 14 times (likely PDF he |
-| WDU20240000787 | excessive repetition — '..................................................…' app |
 | WDU20240000798 | excessive repetition — '…………………………………………………………………………………………..' appears 35 times ( |
-| WDU20240000805 | excessive repetition — '..............................................' appears  |
-| WDU20240000806 | excessive repetition — '................................................' appear |
 | WDU20240000823 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20240000869 | excessive repetition — '1) nazwę dysponenta;' appears 8 times (likely PDF header |
 | WDU20240000870 | CID font encoding failure — unreadable glyphs (9 occurrence(s)) |
 | WDU20240000871 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20240000872 | excessive repetition — '..................................................…' app |
 | WDU20240000896 | CID font encoding failure — unreadable glyphs (862 occurrence(s)) |
 | WDU20240000903 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
-| WDU20240000934 | CID font encoding failure — unreadable glyphs (14 occurrence(s)); excessive repe |
+| WDU20240000934 | CID font encoding failure — unreadable glyphs (14 occurrence(s)) |
 | WDU20240000955 | excessive repetition — '..................................................…' app |
-| WDU20240000962 | CID font encoding failure — unreadable glyphs (10 occurrence(s)); excessive repe |
-| WDU20240000993 | excessive repetition — '2) ocenia sytuację poszkodowanego na podstawie ana…' app |
-| WDU20240000996 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); excessive repet |
+| WDU20240000962 | CID font encoding failure — unreadable glyphs (10 occurrence(s)) |
+| WDU20240000996 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001014 | excessive repetition — 'o obszarach morskich Rzeczypospolitej Polskiej i a…' app |
 | WDU20240001016 | CID font encoding failure — unreadable glyphs (27 occurrence(s)) |
-| WDU20240001019 | CID font encoding failure — unreadable glyphs (1 occurrence(s)); excessive repet |
-| WDU20240001022 | excessive repetition — '..................................................…' app |
-| WDU20240001024 | excessive repetition — '2. Zabezpieczenia zastosowane w papierze: papier z…' app |
+| WDU20240001019 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240001039 | CID font encoding failure — unreadable glyphs (1280 occurrence(s)) |
 | WDU20240001057 | excessive repetition — '..................................................…' app |
-| WDU20240001082 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); excessive repet |
+| WDU20240001082 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20240001184 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
-| WDU20240001196 | CID font encoding failure — unreadable glyphs (585 occurrence(s)); excessive rep |
+| WDU20240001196 | CID font encoding failure — unreadable glyphs (585 occurrence(s)) |
 | WDU20240001197 | CID font encoding failure — unreadable glyphs (67 occurrence(s)) |
 | WDU20240001200 | CID font encoding failure — unreadable glyphs (26 occurrence(s)) |
 | WDU20240001211 | CID font encoding failure — unreadable glyphs (31 occurrence(s)) |
-| WDU20240001216 | excessive repetition — '..................................................…' app |
 | WDU20240001219 | CID font encoding failure — unreadable glyphs (125 occurrence(s)) |
 | WDU20240001242 | CID font encoding failure — unreadable glyphs (27 occurrence(s)) |
 | WDU20240001249 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240001256 | CID font encoding failure — unreadable glyphs (865 occurrence(s)) |
-| WDU20240001275 | excessive repetition — '2. Komunikat ogłasza się terminie co najmniej 14 d…' app |
-| WDU20240001300 | excessive repetition — 'metoda obserwacji pełnej' appears 7 times (likely PDF he |
 | WDU20240001314 | CID font encoding failure — unreadable glyphs (32575 occurrence(s)) |
 | WDU20240001337 | excessive repetition — 'o obszarach morskich Rzeczypospolitej Polskiej i a…' app |
 | WDU20240001367 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
-| WDU20240001406 | excessive repetition — 'Potrzeby ustalane przez dyrektora zakładu karnego …' app |
-| WDU20240001416 | CID font encoding failure — unreadable glyphs (76 occurrence(s)); excessive repe |
-| WDU20240001418 | CID font encoding failure — unreadable glyphs (238 occurrence(s)); excessive rep |
-| WDU20240001426 | excessive repetition — '7) terminu wykonania zaleceń,' appears 16 times (likely  |
-| WDU20240001442 | excessive repetition — 'Oprogramowanie powinno być zaktualizowane do wersj…' app |
-| WDU20240001514 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); excessive repet |
+| WDU20240001416 | CID font encoding failure — unreadable glyphs (76 occurrence(s)) |
+| WDU20240001418 | CID font encoding failure — unreadable glyphs (238 occurrence(s)) |
+| WDU20240001514 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001532 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240001533 | excessive repetition — '..................................................…' app |
 | WDU20240001542 | excessive repetition — '..................................................…' app |
-| WDU20240001549 | CID font encoding failure — unreadable glyphs (39 occurrence(s)); excessive repe |
+| WDU20240001549 | CID font encoding failure — unreadable glyphs (39 occurrence(s)) |
 | WDU20240001582 | CID font encoding failure — unreadable glyphs (7 occurrence(s)) |
-| WDU20240001591 | excessive repetition — 'a) pkt 2 nie może przekroczyć 1500 zł,' appears 6 times  |
 | WDU20240001645 | CID font encoding failure — unreadable glyphs (921 occurrence(s)) |
-| WDU20240001654 | excessive repetition — '1) element graficzny, o ile występuje;' appears 7 times  |
-| WDU20240001658 | CID font encoding failure — unreadable glyphs (15778 occurrence(s)); excessive r |
-| WDU20240001659 | CID font encoding failure — unreadable glyphs (33 occurrence(s)); excessive repe |
+| WDU20240001658 | CID font encoding failure — unreadable glyphs (15778 occurrence(s)) |
+| WDU20240001659 | CID font encoding failure — unreadable glyphs (33 occurrence(s)) |
 | WDU20240001660 | CID font encoding failure — unreadable glyphs (6382 occurrence(s)) |
-| WDU20240001709 | excessive repetition — '..................................................…' app |
 | WDU20240001746 | excessive repetition — 'Objaśnienia i informacje dodatkowe dotyczące m.in.…' app |
 | WDU20240001749 | CID font encoding failure — unreadable glyphs (34 occurrence(s)) |
 | WDU20240001751 | CID font encoding failure — unreadable glyphs (1611 occurrence(s)) |
 | WDU20240001754 | CID font encoding failure — unreadable glyphs (394 occurrence(s)) |
 | WDU20240001763 | CID font encoding failure — unreadable glyphs (1794 occurrence(s)); missing Poli |
 | WDU20240001785 | excessive repetition — '..................................................…' app |
-| WDU20240001798 | excessive repetition — 'Przeciwwskazania do udzielenia świadczenia opieki …' app |
-| WDU20240001845 | excessive repetition — '..................................................…' app |
 | WDU20240001850 | excessive repetition — '..................................................…' app |
 | WDU20240001851 | CID font encoding failure — unreadable glyphs (7 occurrence(s)) |
-| WDU20240001857 | excessive repetition — '…………………………………………………………………………………………..' appears 6 times (l |
 | WDU20240001867 | CID font encoding failure — unreadable glyphs (5 occurrence(s)) |
 | WDU20240001868 | CID font encoding failure — unreadable glyphs (59 occurrence(s)) |
 | WDU20240001898 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20240001936 | excessive repetition — 'Pośrednictwo może być wykonywane drogą elektronicz…' app |
 | WDU20240001941 | CID font encoding failure — unreadable glyphs (11850 occurrence(s)) |
 | WDU20240001954 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20240001973 | excessive repetition — 'Banderola nie może zasłaniać ostrzeżeń zdrowotnych…' app |
-| WDU20250000498 | excessive repetition — '3. W przypadku przekroczenia lub zagrożenia przekr…' app |
-| WDU20250000647 | excessive repetition — '4. W rozporządzeniu, o którym mowa w ust. 3, zosta…' app |
-| WDU20250000733 | excessive repetition — '3. Sprawozdanie zawiera:' appears 6 times (likely PDF he |
-| WDU20250000775 | excessive repetition — '1. Zwalnia się od podatku import:' appears 6 times (like |
-| WDU20250001226 | excessive repetition — '2. W rozporządzeniu, o którym mowa w ust. 1, uwzgl…' app |
-| WDU20250001366 | excessive repetition — '3. Wniosek, o którym mowa w ust. 2, składa się pod…' app |
-| WDU20250001519 | excessive repetition — '..................................................…' app |

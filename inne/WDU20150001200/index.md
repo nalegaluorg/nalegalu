@@ -1,0 +1,113 @@
+---
+title: Obwieszczenie Ministra Spraw Wewnętrznych z dnia 27 lipca 2015 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych
+address: WDU20150001200
+eli: DU/2015/1200
+publisher: DU
+year: 2015
+pos: 1200
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 sierpnia 2015 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH dnia 27 lipca 2015 ogłoszenia jednolitego tekstu rozporządzenia Ministra Wewnętrznych i Administracji kontroli korzystania dostępu do danych rejestru PESEL drodze weryfikacji danych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 1200 |
+| ISAP | WDU20150001200 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2015-07-27 |
+| Data wydania | 2015-08-18 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001200) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1200/text.pdf) |
+
+1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2011 Nr 197, 1172 i Nr 232, 1378 oraz 2015 1045) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Wewnętrznych i Administracji dnia 27 września 2011 kontroli korzystania dostępu do danych rejestru PESEL drodze weryfikacji danych Nr 224,
+1348), uwzględnieniem zmian wprowadzonych:
+1) rozporządzeniem Ministra Wewnętrznych dnia 28 grudnia 2011 zmieniającym rozporządzenie kontroli korzystania dostępu do danych rejestru PESEL drodze weryfikacji danych Nr 295, 1750);
+2) rozporządzeniem Ministra Wewnętrznych dnia 12 grudnia 2012 zmieniającym rozporządzenie kontroli korzystania dostępu do danych rejestru PESEL drodze weryfikacji danych 1470);
+3) rozporządzeniem Ministra Wewnętrznych dnia 24 grudnia 2014 zmieniającym rozporządzenie kontroli korzystania dostępu do danych rejestru PESEL drodze weryfikacji danych 1949).
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1) § 2 rozporządzenia Ministra Wewnętrznych dnia 28 grudnia 2011 zmieniającego rozporządzenie kontroli korzystania dostępu do danych rejestru PESEL drodze weryfikacji danych Nr 295, 1750), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Wewnętrznych dnia 12 grudnia 2012 zmieniającego rozporządzenie kontroli korzystania dostępu do danych rejestru PESEL drodze weryfikacji danych 1470), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem 31 grudnia 2012 r.”;
+3) § 2 rozporządzenia Ministra Wewnętrznych dnia 24 grudnia 2014 zmieniającego rozporządzenie kontroli korzystania dostępu do danych rejestru PESEL drodze weryfikacji danych 1949), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem 31 grudnia 2014 r.”.
+Minister Wewnętrznych: wz. P. Stachańczyk ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI dnia 27 września 2011 kontroli korzystania dostępu do danych rejestru PESEL drodze weryfikacji danych Na podstawie art. 58 ustawy dnia 24 września 2010 o ewidencji ludności 2015 388) zarządza się, co następuje: § 1. Rozporządzenie określa:
+1) sposób i tryb przeprowadzania kontroli korzystania dostępu do danych za pomocą urządzeń teletransmisji danych drodze weryfikacji;
+2) wzór upoważnienia do przeprowadzania kontroli;
+3) wzór protokołu kontroli.
+§ 2. Ilekroć rozporządzeniu jest mowa o:
+1) ministrze rozumie się przez to ministra właściwego do spraw wewnętrznych;
+2) kontrolującym rozumie się przez to pracownika urzędu obsługującego ministra właściwego do spraw wewnętrznych, o którym mowa art. 57 ust. 3 ustawy dnia 24 września 2010 o ewidencji ludności.
+§ 3. Kontrolę zarządza minister.
+§ 4. 1. Kontrola jest wykonywana zgodnie rocznym planem kontroli.
+2. W razie potrzeby, niezależnie od rocznego planu kontroli, minister może zarządzić przeprowadzenie kontroli doraźnej.
+§ 5. 1. Roczny plan kontroli sporządza dyrektor komórki organizacyjnej ministerstwa właściwej do prowadzenia spraw związanych udostępnianiem danych rejestru PESEL. Roczny plan kontroli zatwierdza minister.
+2. Roczny plan kontroli określa:
+1) zakres prze dmiotowy kontroli;
+2) nazwę podmiotu kontrolowanego;
+3) przewidywany termin wszczęcia i zakończenia kontroli.
+§ 6. 1. Minister wyznacza zespół kontrolny, którego skład wchodzi co najmniej dwóch kontrolujących, wskazując spośród nich kierownika zespołu kontrolnego.
+2. Kontrolujący składa ministrowi pisemne oświadczenie o braku lub istnieniu okoliczności uzasadniających wyłączenie od udziału kontroli.
+3. Wzór upoważnienia do przeprowadzania kontroli stanowi załącznik nr 1 do rozporządzenia.
+§ 7. 1. Kontrolujący dokumentują przebieg i wyniki czynności kontrolnych, zakładając i prowadząc tym celu akta kontroli, które obejmują:
+1) wykaz ich zawartości, wymienieniem nazw dokumentów i wskazaniem odpowiednich stron;
+2) uwierzytelnione kopie dokumentów potwierdzających uprawnienie do przetwarzania danych przekazanych celu weryfikacji;
+3) sporządzone na piśmie stanowisko ministra, o którym mowa § 9 ust. 5;
+4) inne dokumenty związane przedmiotem kontroli.
+2. Akta kontroli służą wyłącznie do użytku służbowego.
+§ 8. 1. Z przeprowadzonej kontroli kontrolujący sporządzają protokół kontroli, który zawiera opis stanu faktycznego, stwierdzonego toku kontroli działalności podmiotu kontrolowanego, tym ujawnione nieprawidłowości, uwzględnieniem przyczyn ich powstania, zakresu, skutków oraz osób za nie odpowiedzialnych.
+2. Protokół kontroli sporządza się dwóch jednobrzmiących egzemplarzach, po jednym dla kierownika podmiotu kontrolowanego i ministra.
+3. Wzór protokołu kontroli stanowi załącznik nr 2 do rozporządzenia.
+§ 9. 1. Po zakończeniu czynności kontrolnych protokół kontroli podpisują kontrolujący i przekazują protokół kierownikowi podmiotu kontrolowanego, a razie nieobecności kierownika osobie pełniącej jego obowiązki, wyznaczając jednocześnie 7-dniowy termin od dnia otrzymania protokołu do złożenia podpisu.
+2. Kierownik kontrolowanego podmiotu lub osoba pełniąca jego obowiązki mogą wnieść do protokołu kontroli umotywowane zastrzeżenia terminie, o którym mowa ust. 1.
+3. W przypadku zgłoszenia pisemnych zastrzeżeń do protokołu kontroli kontrolujący są obowiązani dokonać ich analizy i, miarę potrzeby, podjąć dodatkowe czynności kontrolne.
+4. W przypadku stwierdzenia zasadności zastrzeżeń kontrolujący zmieniają lub uzupełniają odpowiednią część protokołu.
+5. W przypadku nieuwzględnienia zastrzeżeń całości lub części kierownik zespołu kontrolnego uzupełnia protokół kontroli o pisemne stanowisko ministra, którym są wskazane przyczyny nieuwzględnienia zastrzeżeń.
+6. Zmieniony lub uzupełniony wyniku czynności, o których mowa ust. 3, protokół kontroli bądź protokół kontroli wraz ze stanowiskiem, o którym mowa ust. 5, przekazuje się kierownikowi podmiotu kontrolowanego lub osobie pełniącej jego obowiązki celu jego podpisania i zwrotu podpisanego protokołu kontrolującym.
+7. Kierownik kontrolowanego podmiotu lub osoba pełniąca jego obowiązki może odmówić podpisania protokołu kontroli, składając ministrowi pisemne wyjaśnienie tej odmowy terminie 7 dni roboczych od dnia otrzymania protokołu kontroli. O odmowie podpisania protokołu kontroli kontrolujący czyni wzmiankę protokole.
+8. Odmowa podpisania protokołu przez kierownika kontrolowanego podmiotu lub osobę pełniącą jego obowiązki nie stanowi przeszkody do wystąpienia do ministra wnioskiem, o którym mowa § 10.
+§ 10. W przypadku stwierdzenia niespełnienia warunków, o których mowa art. 46 ust. 2 pkt 1 lub art. 48 ustawy dnia 24 września 2010 o ewidencji ludności, terminie 7 dni od dnia podpisania protokołu kontroli, kierownik zespołu kontrolnego występuje do ministra wnioskiem o wydanie decyzji, o której mowa art. 51 ust. 2 pkt 2 tej ustawy.
+§ 11. Rozporządzenie wchodzi życie dniem 1 marca 2015 .............................., dnia ..............
+....................................................................
+Upoważnienie nr … Na podstawie art. 58 pkt 2 ustawy dnia 24 września 2010 o ewidencji ludności 2015 388) oraz związku § 6 ust. 3 rozporządzenia Ministra Wewnętrznych i Administracji dnia 27 września 2011 kontroli korzystania dostępu do danych rejestru PESEL drodze weryfikacji danych 2015 1200) upoważniam Pana/Panią ................................................................................................................................................................
+legitymującego/-cą się legitymacją służbową/dowodem osobistym ...................................................................................................................................................................................
+do przeprowadzenia kontroli ……………......................................................................................................................
+............................................................…....................................................................................................................
+..............................................................................................................................................................................
+...................................................................................................................................................................................
+...................................................................................................................................................................................
+...................................................................................................................................................................................
+Pouczenie Prawa i obowiązki podmiotu kontrolowanego: — ustalenie organem kontroli innego terminu kontroli, jeżeli działalność jest objęta kontrolą innego organu, zgodnie art. 82 ust. 2 ustawy dnia 2 lipca 2004 o swobodzie działalności gospodarczej 2015 584, późn. zm.), — łączny czas trwania wszystkich kontroli podmiotu kontrolowanego jednym roku kalendarzowym, stosownie do art. 83 ust. 1 ustawy dnia 2 lipca 2004 o swobodzie działalności gospodarczej, nie może przekraczać 12 albo 18, albo 24, albo 48 dni roboczych, zależności od kategorii przedsiębiorcy, — uczestniczenie czynnościach kontrolnych przedsiębiorcy lub pisemne wskazanie przez niego osoby upoważnionej, szczególności przypadku nieobecności kontrolowanego przedsiębiorcy, stosownie do art. 80 ust. 1 i 4 ustawy dnia 2 lipca 2004 o swobodzie działalności gospodarczej, — prowadzenie książki kontroli oraz udostępnianie na żądanie kontrolującego książki kontroli, upoważnień i protokołów poprzednich kontroli, na zasadach określonych art. 81 ust. 1 oraz art. 81a ustawy dnia 2 lipca 2004 o swobodzie działalności gospodarczej, — dokonywanie wpisu do książki kontroli informacji o wydaniu decyzji, o której mowa art. 51 ust. 2 pkt 2 WZÓR UPOWAŻNIENIA DO PRZEPROWADZANIA KONTROLI — udzielanie na żądanie kontrolujących pisemnych wyjaśnień, — umożliwienie przeprowadzenia kontroli przedsiębiorcy czasie kontroli dokonywanej przez inny organ, jeżeli zachodzą przesłanki określone art. 82 ust. 1 ustawy dnia 2 lipca 2004 o swobodzie działalności gospodarczej, — umożliwienie przeprowadzenia kontroli przedsiębiorcy przypadkach, o których mowa art. 83 ust. 2 i art. 84 ustawy dnia 2 lipca 2004 o swobodzie działalności gospodarczej, — okazywanie dokumentów i urządzeń, o których mowa art. 57 ust. 4 pkt 1 i 2 ustawy dnia 24 września 2010 o ewidencji ludności, — zapewnienie warunków i środków niezbędnych do przeprowadzenia kontroli, tym swobodny dostęp do pomieszczeń.
+Upoważnienie niniejsze jest ważne za okazaniem legitymacji służbowej lub dowodu osobistego kontrolującego.
+Ważność upoważnienia upływa dniem ..................................................................................................................
+.....................................................................
+Nr akt kontroli ........................................... ..................................., dnia ......................
+Protokół kontroli Nazwa i adres podmiotu kontrolowanego: ...................................................................................................................................................................................
+...................................................................................................................................................................................
+Osoby przeprowadzające kontrolę (imię i nazwisko, stanowisko lub funkcja, nr upoważnienia do przeprowadzenia kontroli):
+1. ...............................................................................................................................................................................
+2. ...............................................................................................................................................................................
+3. ……………………………………………………........................................................................................................................
+Kierownik podmiotu kontrolowanego oraz inne osoby uczestniczące czynnościach kontrolnych ze strony tego podmiotu (imię i nazwisko, stanowisko lub funkcja): ...................................................................................................................................................................................
+...................................................................................................................................................................................
+........………………………………………………..................................................................................................................….....
+Przedmiot kontroli i okres objęty kontrolą: ...................................................................................................................................................................................
+...................................................................................................................................................................................
+.....................………….....….…………………..................................................................................................................…… Opis ustalonego wyniku kontroli stanu faktycznego, tym ujawnionych nieprawidłowości, uwzględnieniem przyczyn ich powstania, zakresu i skutków oraz osób za nie odpowiedzialnych: ...................................................................................................................................................................................
+...................................................................................................................................................................................
+...................................................................................................................................................................................
+...................................................................................................................................................................................
+...................................................................................................................................................................................
+Pouczenie o prawie, sposobie i terminie zgłoszenia zastrzeżeń co do ustaleń zawartych protokole oraz prawie odmowy podpisania protokołu: ...................................................................................................................................................................................
+...................................................................................................................................................................................
+................................................…...........................................................................................................................…… ………………………………………….............................................................................................................................……..… ……………………………………................................................................................................................................…………..
+Wzmianka o doręczeniu egzemplarza protokołu kierownikowi podmiotu kontrolowanego: ...................................................................................................................................................................................
+...................................................................................................................................................................................
+..…….…………….......................………………..
+................................................................................................
+W przypadku odmowy podpisania protokołu — wzmianka o tym fakcie: ...................................................................................................................................................................................
+WZÓR PROTOKOŁU KONTROLI
+

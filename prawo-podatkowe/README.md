@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo podatkowe**.
 
-Łącznie: **167** aktów
+Łącznie: **169** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -12,6 +12,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20260000424](WDU20260000424/index.md) | Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o podatku dochodowym od os | Ustawa | obowiązujący |  |
 | [WDU20250000896](WDU20250000896/index.md) | Ustawa z dnia 24 czerwca 2025 r. o zmianie ustawy o podatku od towarów i us | Ustawa | obowiązujący |  |
 | [WDU20250000894](WDU20250000894/index.md) | Ustawa z dnia 24 czerwca 2025 r. o zmianie ustawy o Krajowej Administracji  | Ustawa | obowiązujący |  |
+| [WDU20250000775](WDU20250000775/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000497](WDU20250000497/index.md) | Ustawa z dnia 4 kwietnia 2025 r. o zmianie ustawy - Ordynacja podatkowa ora | Ustawa | obowiązujący |  |
 | [WDU20250000278](WDU20250000278/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000222](WDU20250000222/index.md) | Ustawa z dnia 24 stycznia 2025 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
@@ -150,6 +151,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20050140113](WDU20050140113/index.md) | Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o podatku od towarów i us | Ustawa | obowiązujący |  |
 | [WDU20040930894](WDU20040930894/index.md) | Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
 | [WDU20040910868](WDU20040910868/index.md) | Ustawa z dnia 19 marca 2004 r. o zmianie ustawy - Ordynacja podatkowa oraz  | Ustawa | obowiązujący |  |
+| [WDU20040540535](WDU20040540535/index.md) | Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług | Ustawa | akt posiada tekst jednolity | [tak](WDU20040540535/orzecznictwo.md) |
 | [WDU20042812781](WDU20042812781/index.md) | Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o systemie oświaty oraz u | Ustawa | obowiązujący |  |
 | [WDU20042632619](WDU20042632619/index.md) | Ustawa z dnia 18 listopada 2004 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący | [tak](WDU20042632619/orzecznictwo.md) |
 | [WDU20032222201](WDU20032222201/index.md) | Ustawa z dnia 10 grudnia 2003 r. zmieniająca ustawę o zmianie ustawy o poda | Ustawa | obowiązujący |  |
@@ -174,4 +176,4 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU19920210086](WDU19920210086/index.md) | Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych | Ustawa | akt posiada tekst jednolity | [tak](WDU19920210086/orzecznictwo.md) |
 | [WDU19910800350](WDU19910800350/index.md) | Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910800350/orzecznictwo.md) |
 
-*167 aktów • [← Powrót do spisu głównego](../README.md)*
+*169 aktów • [← Powrót do spisu głównego](../README.md)*
