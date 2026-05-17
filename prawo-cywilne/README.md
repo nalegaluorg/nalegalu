@@ -2,14 +2,16 @@
 
 Akty prawne z dziedziny: **Prawo cywilne**.
 
-Łącznie: **93** aktów
+Łącznie: **97** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
+| [WDU20260000468](WDU20260000468/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000236](WDU20260000236/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000184](WDU20260000184/index.md) | Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o rzeczach znalezionych  | Ustawa | obowiązujący |  |
 | [WDU20250001508](WDU20250001508/index.md) | Ustawa z dnia 9 października 2025 r. o zmianie ustawy - Kodeks cywilny | Ustawa | obowiązujący |  |
 | [WDU20250001172](WDU20250001172/index.md) | Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy - Kodeks postępowania cyw | Ustawa | obowiązujący |  |
+| [WDU20250001071](WDU20250001071/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 lipca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000653](WDU20240000653/index.md) | Ustawa z dnia 20 marca 2024 r. o zmianie ustawy - Kodeks cywilny, ustawy o  | Ustawa | obowiązujący |  |
 | [WDU20230000614](WDU20230000614/index.md) | Ustawa z dnia 9 marca 2023 r. o zmianie ustawy - Kodeks postępowania cywiln | Ustawa | obowiązujący |  |
 | [WDU20230000403](WDU20230000403/index.md) | Ustawa z dnia 26 stycznia 2023 r. o zmianie ustawy - Kodeks postępowania cy | Ustawa | obowiązujący |  |
@@ -98,6 +100,8 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU19820110081](WDU19820110081/index.md) | Ustawa z dnia 26 marca 1982 r. o zmianie ustawy - Kodeks cywilny oraz o uch | Ustawa | obowiązujący |  |
 | [WDU19750450234](WDU19750450234/index.md) | Ustawa z dnia 19 grudnia 1975 r. o zmianie ustawy Kodeks rodzinny i opiekuń | Ustawa | obowiązujący |  |
 | [WDU19640160094](WDU19640160094/index.md) | Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadzające kodeks cywilny. | Ustawa | obowiązujący | [tak](WDU19640160094/orzecznictwo.md) |
+| [WDU19640160093](WDU19640160093/index.md) | Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640160093/orzecznictwo.md) |
 | [WDU19640090059](WDU19640090059/index.md) | Ustawa z dnia 25 lutego 1964 r. - Kodeks rodzinny i opiekuńczy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640090059/orzecznictwo.md) |
+| [WDU19640430296](WDU19640430296/index.md) | Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640430296/orzecznictwo.md) |
 
-*93 aktów • [← Powrót do spisu głównego](../README.md)*
+*97 aktów • [← Powrót do spisu głównego](../README.md)*

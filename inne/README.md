@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Inne**.
 
-Łącznie: **12205** aktów
+Łącznie: **12208** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -1782,6 +1782,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230000047](WDU20230000047/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 grudnia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20230000469](WDU20230000469/index.md) | Rozporządzenie Ministra Obrony Narodowej i Ministra Spraw Wewnętrznych i Ad | Rozporządzenie | obowiązujący |  |
 | [WDU20230000468](WDU20230000468/index.md) | Rozporządzenie Ministra Zdrowia z dnia 7 marca 2023 r. w sprawie trybu i sp | Rozporządzenie | obowiązujący |  |
+| [WDU20230000467](WDU20230000467/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 2 lutego 2023 r. w sprawie ogło | Obwieszczenie | obowiązujący |  |
 | [WDU20230000466](WDU20230000466/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 lutego | Rozporządzenie | obowiązujący |  |
 | [WDU20230000465](WDU20230000465/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20230000464](WDU20230000464/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 lutego  | Obwieszczenie | obowiązujący |  |
@@ -6244,6 +6245,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180001698](WDU20180001698/index.md) | Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 29 sierpnia | Rozporządzenie | obowiązujący |  |
 | [WDU20180001697](WDU20180001697/index.md) | Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz us | Ustawa | obowiązujący |  |
 | [WDU20180001695](WDU20180001695/index.md) | Program realizacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem R | Umowa międzynarodowa | obowiązujący |  |
+| [WDU20180001693](WDU20180001693/index.md) | Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o partnerstwie publiczno-pry | Ustawa | obowiązujący |  |
 | [WDU20180001691](WDU20180001691/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2018 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20180001690](WDU20180001690/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 10 sierpnia 2018 r. w spraw | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20180001687](WDU20180001687/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 16 sierpnia 2018 r. w sprawi | Rozporządzenie | obowiązujący |  |
@@ -7556,6 +7558,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20160002051](WDU20160002051/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 12 grudnia 2016 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20160002049](WDU20160002049/index.md) | Obwieszczenie Ministra Rozwoju i Finansów z dnia 1 grudnia 2016 r. w sprawi | Obwieszczenie | obowiązujący |  |
 | [WDU20160002040](WDU20160002040/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 9 grudnia 2016 r. w spraw | Rozporządzenie | akt posiada tekst jednolity |  |
+| [WDU20160002031](WDU20160002031/index.md) | Rozporządzenie Ministra Obrony Narodowej oraz Ministra Infrastruktury i Bud | Rozporządzenie | obowiązujący |  |
 | [WDU20160000203](WDU20160000203/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 lutego 2016 r. w s | Rozporządzenie | obowiązujący |  |
 | [WDU20160002029](WDU20160002029/index.md) | Zmiany do załącznika do Międzynarodowej konwencji o bezpieczeństwie życia n | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20160002026](WDU20160002026/index.md) | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 24 listopada 201 | Rozporządzenie | obowiązujący |  |
@@ -12212,4 +12215,4 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19310380294](WDU19310380294/index.md) | Ustawa z dnia 17 marca 1931 r. w sprawie przystąpienia Polski do traktatu,  | Ustawa | obowiązujący |  |
 | [WDU19200310178](WDU19200310178/index.md) | Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców | Ustawa | akt posiada tekst jednolity | [tak](WDU19200310178/orzecznictwo.md) |
 
-*12205 aktów • [← Powrót do spisu głównego](../README.md)*
+*12208 aktów • [← Powrót do spisu głównego](../README.md)*
