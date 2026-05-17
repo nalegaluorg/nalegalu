@@ -8,9 +8,12 @@ pos: 745
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Ustawa z dnia 10 czerwca 2010 r. o zmianie ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową oraz niektórych innych ustaw
+
+*USTAWA dnia 10 czerwca 2010 o zmianie ustawy o świadczeniach odszkodowawczych przysługujących razie wypadków chorób pozostających związku ze służbą wojskową oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,36 +27,45 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101130745) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/745/text.pdf) |
 
-**Art. 1.** W ustawie dnia 11 kwietnia 2003 o świadczeniach odszkodowawczych przysługujących razie wypadków chorób pozostających związku ze służbą wojskową (Dz. U. 83, 760 179, 1750, 2005 130, 1085 2009 161,
+**Art. 1.** W ustawie dnia 11 kwietnia 2003 o świadczeniach odszkodowawczych przysługujących razie wypadków chorób pozostających związku ze służbą wojskową (Dz. U. 83, 760 179, 1750, 2005 130, 1085 oraz 2009 161, 1278) art. 15 1 otrzymuje brzmienie: „1. Jednorazowe odszkodowanie przysługuje, jeżeli żołnierz:
 
-**Art. 2.** W ustawie dnia 21 listopada 1967 o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 2004 241, 2416, późn. zm. „3. Z pomocy, o której mowa ust. 1, mogą bezterminowo korzystać również małżonek dzieci pozostające na utrzymaniu żołnierza, który:
+**Art. 2.** W ustawie dnia 21 listopada 1967 o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 2004 241, 2416, późn. zm. ) art. 133a 3 otrzymuje brzmienie:
 
-**Art. 3.** W ustawie dnia 29 maja 1974 o zaopatrzeniu inwalidów wojennych wojskowych ich rodzin (Dz. U. 2010 101, 648) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie dnia 29 maja 1974 o zaopatrzeniu inwalidów wojennych wojskowych oraz ich rodzin (Dz. U. 2002 9, 87, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 4.** W ustawie dnia 17 grudnia 1974 o uposażeniu żołnierzy niezawodowych (Dz. U. 2002 76, 693, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 10 grudnia 1993 o zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin (Dz. U. 2004 8, 66, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie dnia 10 grudnia 1993 o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. 2004 8, 66, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie dnia 22 czerwca 1995 o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. 2005 41, 398, późn. zm. 2006 o Służbie Kontrwywiadu Wojskowego Służbie Wywiadu Wojskowego, lub kierowania wykonywaniem takich czynności, renta rodzinna przysługuje małżonkowi bez względu na wiek stan zdrowia.”,
+**Art. 6.** W ustawie dnia 18 lutego 1994 o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej
 
-**Art. 8.** W ustawie dnia 24 sierpnia 2001 o Żandarmerii Wojskowej wojskowych organach porządkowych (Dz. U. 123, 1353, późn. zm. ) 7 wprowadza się następujące zmiany:
+**Art. 7.** W ustawie dnia 22 czerwca 1995 o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. 2005 41, 398, późn. zm. ) art. 23 3 po pkt 3 dodaje się pkt 4 brzmieniu: „4) żołnierza, o którym pkt 1-3, zmarłego ciągu 3 lat po zwolnieniu ze służby wojskowej, jeżeli śmierć nastąpiła wskutek urazów doznanych czasie pełnienia służby lub chorób powstałych tym czasie, albo ciągu 3 lat po zwolnieniu ze służby, jeżeli śmierć nastąpiła wskutek wypadku pozostającego związku pełnieniem czynnej służby wojskowej.”.
+
+**Art. 8.** W ustawie dnia 24 sierpnia 2001 o Żandarmerii Wojskowej wojskowych organach porządkowych (Dz. U. 123, 1353, późn. zm. ) art. 7 wprowadza się następujące zmiany:
 
 **Art. 9.** W ustawie dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych (Dz. U. 2010 90, 593 107, 679) wprowadza się następujące zmiany:
 
+**Art. 10.** W ustawie dnia 9 czerwca 2006 o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. 104, 710 oraz 2009 114, 957) po art. 94 dodaje się art. 94a brzmieniu: „Art. 94a. Przepisy art. 94 stosuje się odpowiednio razie śmierci funkcjonariusza, po zwolnieniu ze służby, następstwie wypadku lub choroby pozostających związku ze służbą.”.
+
 **Art. 11.**
 
-1. Przepisy ustaw, o których mowa 1—10, brzmieniu nadanym niniejszą ustawą stosuje się do:
+1. Przepisy ustaw, o których mowa art. 1–10, brzmieniu nadanym niniejszą ustawą stosuje się do:
 
-- **1)** ż ołnierzy, którzy zmarli po zwolnieniu czynnej służby wojskowej,
-- **2)** f unkcjonariuszy Służby Kontrwywiadu Wojskowego Służby Wywiadu Wojskowego, którzy zmarli po zwolnieniu ze służby po dniu wejścia życie niniejszej ustawy następstwie wypadku, urazu lub choroby pozostających związku pełnieniem odpowiednio czynnej służby wojskowej lub służby, zastrzeżeniem ust. 2.
+- **1)** żołnierzy, którzy zmarli po zwolnieniu czynnej służby wojskowej,
+- **2)** funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, którzy zmarli po zwolnieniu ze służby - po dniu wejścia życie niniejszej ustawy następstwie wypadku, urazu lub choroby pozostających związku pełnieniem odpowiednio czynnej służby suje się do żołnierzy zawodowych zwolnionych zawodowej służby wojskowej po dniu wejścia życie niniejszej ustawy;
+- **2)** art. 120 4 – 4b oraz 4d 4e ustawy, o której mowa art. 9, brzmieniu nadanym niniejszą ustawą stosuje się do żołnierzy zawodowych, którzy wystąpili wnioskiem o udzielenie pomocy przekwalifikowaniu zawodowym po dniu wejścia życie niniejszej ustawy;
+- **3)** art. 111 pkt 5 art. 111b ustawy, o której mowa art. 9, brzmieniu nadanym niniejszą ustawą stosuje się również do żołnierzy zawodowych posiadających stopnie wojskowe generałów (admirałów) pełniących służbę na stanowiskach służbowych organizacji międzynarodowej albo międzynarodowej strukturze wojskowej albo na stanowiskach służbowych Szefa Sztabu Generalnego Wojska Polskiego, dowódcy rodzaju Sił Zbrojnych, Dowódcy Operacyjnego Sił Zbrojnych lub Szefa Inspektoratu Wsparcia Sił Zbrojnych dniu wejścia życie niniejszej ustawy.
 
-2. Przepisy:
+**Art. 12.**
 
-- **1)** a rt. 19 pkt 2 ustawy, o której mowa 5, 120 ust. 1 ust. 4—4e ustawy, o której mowa 9, brzmieniu nadanym niniejszą ustawą stosuje się do żołnierzy zawodowych zwolnionych zawodowej służby wojskowej po dniu wejścia życie niniejszej ustawy;
-- **2)** a rt. 120 ust. 4—4b ust. 4d 4e ustawy, o której mowa 9, brzmieniu nadanym niniejszą ustawą stosuje się do żołnierzy zawodowych, którzy wystąpili wnioskiem o udzielenie pomocy przekwalifikowaniu zawodowym po dniu wejścia życie niniejszej ustawy;
-- **3)** a rt. 111 pkt 5 111b ustawy, o której mowa 9, brzmieniu nadanym niniejszą ustawą stosuje się również do żołnierzy zawodowych posiadających stopnie wojskowe generałów (admirałów) pełniących służbę na stanowiskach służbowych organizacji międzynarodowej albo mięa) zaginął lub poniósł śmierć związku dzynarodowej strukturze wojskowej albo na stawykonywaniem zadań służbowych, nowiskach służbowych Szefa Sztabu Generalnego bowych.
-    - **b)** zmarł okresie 3 lat po zwolnieniu za- Wojska Polskiego, dowódcy rodzaju Sił Zbrojnych, wodowej służby wojskowej następ- Dowódcy Operacyjnego Sił Zbrojnych lub Szefa stwie wypadku lub choroby pozostającej Inspektoratu Wsparcia Sił Zbrojnych dniu wejzwiązku wykonywaniem zadań służ- ścia życie niniejszej ustawy.
+1. Z dniem wejścia życie ustawy:
 
-7. Minister Obrony Narodowej określi, dro- Art. 12. 1. Z dniem wejścia życie ustawy: dze rozporządzenia, szczegółowe warunki 1) ż ołnierze zawodowi pełniący służbę wojskową tryb korzystania uprawnień, o których placówkach Żandarmerii Wojskowej pełnią tę mowa ust. 1—6, zasady dokonywania zwrotu kosztów, o których mowa ust. 4, właściwość organów tych sprawach. służbę oddziałach lub wydziałach Żandarmerii Wojskowej albo innych jednostkach organizacyjnych Sił Zbrojnych Rzeczypospolitej Polskiej; nianej 9, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie Marszałek Sejmu wykonujący obowiązki 4 ust. 3 ustawy zmienianej 4 84 Prezydenta Rzeczypospolitej Polskiej: B. Komorowski
+- **1)** żołnierze zawodowi pełniący służbę wojskową placówkach Żandarmerii Wojskowej pełnią tę służbę oddziałach lub wydziałach Żandarmerii Wojskowej albo innych jednostkach organizacyjnych Sił Zbrojnych Rzeczypospolitej Polskiej;
+- **2)** pracownicy zatrudnieni placówkach Żandarmerii Wojskowej stają się pracownikami oddziałów lub wydziałów Żandarmerii Wojskowej, zastrzeżeniem 2.
 
+2. Jeżeli oddziale lub wydziale Żandarmerii Wojskowej nie ma wolnych stanowisk pracy przewidzianych dla pracowników, pracownikami likwidowanych placówek Żandarmerii Wojskowej rozwiązuje się umowy o pracę.
+
+**Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 4 3 ustawy zmienianej art. 4 oraz art. 84 3 art. 120 7 ustawy zmienianej art. 9, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 4 3 ustawy zmienianej art. 4 oraz art. 84 3 art. 120 7 ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+
+**Art. 14.** Ustawa wchodzi życie dniem ogłoszenia, wyjątkiem art. 7, art. 8 art. 12, które wchodzą życie po upływie 14 dni od dnia ogłoszenia.
 

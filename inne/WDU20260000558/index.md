@@ -8,6 +8,7 @@ pos: 558
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy Prawo pocztowe

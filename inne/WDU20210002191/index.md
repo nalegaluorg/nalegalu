@@ -8,9 +8,10 @@ pos: 2191
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Poz.
+# dnia 17 listopada 2021 zmianie ustawy ochronie granicy państwowej oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,57 +25,28 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002191) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2191/text.pdf) |
 
-USTAWA dnia 17 listopada 2021 r.
-zmianie ustawy ochronie granicy państwowej niektórych innych ustaw
+Art. W ustawie dnia 12 października 1990 ochronie granicy państwowej (Dz. U. 2019 poz. 1776 oraz 2021 poz. 1918) wprowadza następujące zmiany: po art. 12 dodaje art. 12a–12d brzmieniu: „Art. 12a. W przypadku konieczności zapewnienia bezpieczeństwa porządku publicznego strefie nadgranicznej związku zagrożeniem życia zdrowia ludzi, mienia, wynikającym przekraczania granicy państwowej wbrew przepisom prawa podejmowania prób takiego przekraczania, uzasadnionym ryzykiem popełniania innych czynów zabronionych, może być wprowadzony czasowy zakaz przebywania określonym obszarze strefie nadgranicznej przyległej do granicy państwowej stanowiącej granicę zewnętrzną rozumieniu przepisów kodeksu granicznego Schengen.
+2. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Komendanta Głównego Granicznej, może wprowadzić, drodze rozporządzenia, określonym obszarze gmin ich części zakaz, 1, kierując koniecznością zapewnienia ochrony granicy państwowej jej nienaruszalności, bezpieczeństwa porządku publicznego strefie nadgranicznej, szczególności obszarze bezpośrednio przyległym do granicy państwowej, potrzebą zapewnienia bezpieczeństwa funkcjonariuszy pracowników służb państwowych oraz żołnierzy pracowników Sił Zbrojnych Rzeczypospolitej Polskiej wykonujących zadania służbowe granicy państwowej, a także koniecznością wywiązywania zobowiązań międzynarodowych Rzeczypospolitej Polskiej.
 
-**Art. 1.** W ustawie dnia 12 października 1990 r. ochronie granicy państwowej (Dz. U. 2019 r. poz. 1776 2021 r. poz. 1918) wprowadza następujące zmiany: po 12 dodaje 12a–12d brzmieniu: „Art. 12a. 1. W przypadku konieczności zapewnienia bezpieczeństwa porządku publicznego strefie nadgranicznej związku zagrożeniem życia zdrowia ludzi, mienia, wynikającym przekraczania granicy państwowej wbrew przepisom prawa podejmowania prób takiego przekraczania, uzasadnionym ryzykiem popełniania innych czynów zabronionych, może być wprowadzony czasowy zakaz przebywania określonym obszarze strefie nadgranicznej przyległej do granicy państwowej stanowiącej granicę zewnętrzną rozumieniu przepisów kodeksu granicznego Schengen. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Komendanta Głównego Granicznej, może wprowadzić, drodze rozporządzenia, określonym obszarze gmin ich części zakaz, mowa 1, kierując koniecznością zapewnienia ochrony granicy państwowej jej nienaruszalności, bezpieczeństwa porządku publicznego strefie nadgranicznej, szczególności obszarze bezpośrednio przyległym do granicy państwowej, potrzebą zapewnienia bezpieczeństwa funkcjonariuszy pracowników służb państwowych żołnierzy pracowników Sił Zbrojnych Rzeczypospolitej Polskiej wykonujących zadania służbowe granicy państwowej, a także koniecznością wywiązywania zobowiązań międzynarodowych Rzeczypospolitej Polskiej.
+**Art. 12b.** Zakaz, art. 12a 1, dotyczy osób, które: stale zamieszkują, prowadzą działalność gospodarczą, wykonują pracę zarobkową, wykonują pracę gospodarstwach rolnych znajdujących obszarze objętym zakazem, pobierają naukę są opiekunami osób pobierających naukę obszarze objętym zakazem; będąc małżonkiem, wstępnym, zstępnym rodzeństwem, sprawują opiekę albo udzielają pomocy załatwianiu bieżących spraw życia codziennego osobie stale zamieszkującej obszarze objętym zakazem;
 
-**Art. 12b.**
+**Art. 12c.** Obszar, art. 12a 1, został wprowadzony zakaz przebywania, oznacza dobrze widocznych miejscach tablicami napisem „Obszar objęty zakazem przebywania – wejście zabronione”.
 
-1. Zakaz, mowa 12a 1, nie dotyczy osób, które: stale zamieszkują, prowadzą działalność gospodarczą, wykonują pracę zarobkową, wykonują pracę gospodarstwach rolnych znajdujących obszarze objętym zakazem, pobierają naukę są opiekunami osób pobierających naukę obszarze objętym zakazem;
+**Art. 12d.** Informację wprowadzeniu zakazu, art. 12a 1, ogłasza sposób zwyczajowo przyjęty obszarze objętym tym zakazem oraz zamieszcza stronie podmiotowej Biuletynu Informacji Publicznej właściwych miejscowo: urzędu wojewódzkiego; urzędu marszałkowskiego;
 
-- **2)** będąc małżonkiem, wstępnym, zstępnym rodzeństwem, sprawują opiekę albo udzielają pomocy załatwianiu bieżących spraw życia codziennego osobie stale zamieszkującej obszarze objętym zakazem;
-- **3)** są objęte wychowaniem przedszkolnym formami opieki nad dziećmi wieku do lat 3 obszarze objętym zakazem, ich opiekunów;
-- **4)** przebywają obszarze objętym zakazem celu załatwienia sprawy urzędzie administracji publicznej celu sprawowania udziału kulcie religijnym;
-- **5)** są właścicielami posiadaczami nieruchomości zlokalizowanych obszarze objętym zakazem;
-- **6)** są osobami niepełnosprawnymi albo opiekunami osób niepełnosprawnych przebywającymi obszarze objętym zakazem związku korzystaniem ośrodka dla osób niepełnosprawnych;
-- **7)** przebywają obszarze objętym zakazem związku bezpośrednim przemieszczaniem celu zgodnego przepisami przekroczenia granicy państwowej bezpośrednio po jej przekroczeniu zgodnie przepisami załóg przemieszczających pojazdami ratownictwa medycznego innych służb interwencyjnych osób przewożonych tych pojazdach związku prowadzoną przez te załogi służby działalnością;
-- **2)** osób przemieszczających bezpośrednio do podmiotów wykonujących działalność leczniczą rozumieniu 2 1 pkt 5 ustawy dnia 15 kwietnia 2011 r. działalności leczniczej (Dz. U. 2021 r. poz. 711, 1773
-- **2120)** celu skorzystania ze świadczeń zdrowotnych;
-- **3)** funkcjonariuszy pracowników służb państwowych żołnierzy pracowników Sił Zbrojnych Rzeczypospolitej Polskiej wykonujących zadania służbowe.
+**Art. 2.** W ustawie dnia 12 października 1990 (Dz. U. 2021 poz. 1486, 1728 1898) wprowadza następujące zmiany: art. 23 1 otrzymuje brzmienie: „1. W przypadkach, których art. 11 ustawy dnia 24 maja 2013 środkach przymusu bezpośredniego broni palnej (Dz. U. 2019 poz. 2418), funkcjonariusze mogą użyć środków przymusu bezpośredniego, których art. 12 1 pkt 1–7, 9–13 16–20 tej ustawy, wykorzystać te środki.”; art. 31 uchyla 1b–1d;
 
-5. W przypadku wprowadzenia zakazu, mowa 12a 1, ograniczenia wynikające wprowadzenia podstawie 9 3 zakazu przebywania niektórych odcinkach pasa drogi granicznej stosuje się.
+**Art. 37b.** Ustala następujące kwalifikacje zawodowe: podstawowe – uzyskane podczas szkolenia podstawowego funkcjonariuszy; podoficerskie – uzyskane podczas szkolenia zakresie szkoły podoficerskiej;
 
-**Art. 12c.** Obszar, mowa 12a 1, został wprowadzony zakaz przebywania, oznacza dobrze widocznych miejscach tablicami napisem „Obszar objęty zakazem przebywania wejście zabronione”.
+**Art. 37c.** Warunek posiadania kwalifikacji kadry kierowniczej uważa za spełniony przez funkcjonariusza, który ukończył przeszkolenie specjalistyczne do mianowania pierwszy stopień oficerski Granicznej, obejmujące program zakresie szkolenia specjalistycznego dla kadry kierowniczej dowódczej Granicznej.
 
-**Art. 12d.** Informację wprowadzeniu zakazu, mowa 12a 1, ogłasza sposób zwyczajowo przyjęty obszarze objętym tym zakazem zamieszcza stronie podmiotowej Biuletynu Informacji Publicznej właściwych miejscowo: urzędu wojewódzkiego;
+**Art. 37d.** Do stażu służby wymaganego do powołania mianowania określone stanowisko służbowe zalicza okresy służby pracy Granicznej, Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Marszałkowskiej, Państwowej Pożarnej, Siłach Zbrojnych Rzeczypospolitej Polskiej, Inspekcji Celnej, Służbie Celno-Skarbowej Służbie Więziennej.
 
-**Art. 37b.**
+**Art. 37e.** Funkcjonariusz może być powołany albo mianowany wyższe stanowisko służbowe, jeżeli spełnia łącznie następujące warunki: posiada wykształcenie, kwalifikacje zawodowe oraz staż służby wymagane tym stanowisku;
 
-1. Ustala następujące kwalifikacje zawodowe: podstawowe uzyskane podczas szkolenia podstawowego funkcjonariuszy;
+**Art. 3.** W ustawie dnia 29 września 2021 rekompensacie związku wprowadzeniem stanu wyjątkowego obszarze części województwa podlaskiego oraz części województwa lubelskiego 2021 (Dz. U. poz. 1803) po art. 2 dodaje art. 2a brzmieniu: „Art. 2a. Rekompensata przysługuje także podmiotom, których art. 1, prowadzącym działalność obszarze objętym czasowym zakazem przebywania, art. 12a 1 ustawy dnia 12 października 1990 ochronie granicy państwowej (Dz. U. 2019 poz. 1776 oraz 2021 poz. 1918 2191). 2. Rekompensatę ustala za okres 30 dni trwania zakazu przebywania, 1, wysokości 65% średniego miesięcznego przychodu podmiotu prowadzonej przez niego działalności obszarze objętym czasowym zakazem przebywania, okresie obejmującym 3 wybrane miesiące 6 miesięcy poprzedzających wprowadzenie tego zakazu. 3. Do rekompensaty, której 1, stosuje odpowiednio przepisy niniejszej ustawy.”.
 
-- **2)** podoficerskie uzyskane podczas szkolenia zakresie szkoły podoficerskiej;
-- **3)** chorążych uzyskane podczas szkolenia zakresie szkoły chorążych; ukończenie akademii wojskowych, szkół oficerskich, chorążych podoficerskich Sił Zbrojnych Rzeczypospolitej Polskiej szkół oficerskich, chorążych podoficerskich Policji, Państwowej Pożarnej Służby Więziennej;
-- **2)** odbycie szkolenia, przeszkolenia albo kursu oficerskiego, chorążego podoficera Siłach Zbrojnych Rzeczypospolitej Polskiej, Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Służbie Celno-Skarbowej, Marszałkowskiej, Państwowej Pożarnej Służbie Więziennej.
+**Art. 4.** Funkcjonariusz mianowany stanowisko służbowe podstawie przepisów obowiązujących przed dniem wejścia życie niniejszego przepisu pomimo niespełniania warunków zakresie wykształcenia kwalifikacji zawodowych zachowuje uprawnienie do zajmowania tego stanowiska oraz do mianowania stanowisko służbowe równorzędne dotychczas zajmowanym. podstawie art. 38 ustawy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą, art. 91 2 ustawy zmienianej art. 2 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych podstawie art. 91 2 ustawy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą – dłużej jednak niż przez 12 miesięcy od dnia wejścia życie art. 2 pkt 4 6 niniejszej ustawy.
 
-6. Przepis 5 stosuje do osoby przyjmowanej do służby Granicznej posiadającej stopień wojskowy, której mowa 61 1a.
-
-7. Funkcjonariusza, który uzyskał kwalifikacje zawodowe, których podstawie został mianowany stopień policyjny, stopień Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa, Służby Celno-Skarbowej, Marszałkowskiej, Państwowej Pożarnej Służby Więziennej równorzędny ze stopniem służbowym korpusie podoficerów, chorążych oficerów Granicznej, uznaje za posiadającego kwalifikacje zawodowe równorzędne kwalifikacjami zawodowymi uzyskiwanymi Granicznej po zakończeniu odpowiednio szkolenia zakresie szkoły podoficerskiej, szkolenia zakresie szkoły chorążych przeszkolenia specjalistycznego wymaganego do mianowania pierwszy stopień oficerski Granicznej.
-
-8. W szczególnie uzasadnionych przypadkach można: mianować stanowisko służbowe funkcjonariusza przyjmowanego do służby Granicznej przed uzyskaniem przez niego kwalifikacji podstawowych, jeżeli posiada wykształcenie, kwalifikacje specjalistyczne staż służby wymagany danym stanowisku niezwłocznie po przyjęciu do służby Granicznej zostanie skierowany szkolenie podstawowe funkcjonariuszy;
-
-- **2)** powołać stanowisko kierownicze funkcjonariusza przed uzyskaniem przez niego kwalifikacji kadry kierowniczej, jeżeli ukończył studia drugiego stopnia zostanie, terminie określonym przez Komendanta Głównego Granicznej, skierowany szkolenie specjalistyczne dla kadry kierowniczej dowódczej Granicznej;
-- **3)** za zgodą Komendanta Głównego Granicznej:
-    - **a)** mianować stanowisko służbowe funkcjonariusza przyjmowanego do służby Granicznej przed uzyskaniem przez niego stażu służby wymaganego do mianowania określone stanowisko służbowe kwalifikacji zawodowych, jeżeli ukończył studia drugiego stopnia po przyjęciu do służby Granicznej zostanie, terminie określonym przez Komendanta Głównego Granicznej, skierowany szkolenie podstawowe funkcjonariuszy przeszkolenie specjalistyczne do mianowania pierwszy stopień oficerski Granicznej,
-    - **b)** mianować stanowisko kierownicze funkcjonariusza przed uzyskaniem przez niego kwalifikacji kadry kierowniczej, jeżeli ukończył studia wyższe drugiego stopnia zostanie niezwłocznie skierowany szkolenie specjalistyczne dla kadry kierowniczej dowódczej Granicznej.
-
-9. Warunek ukończenia studiów drugiego stopnia określonym stanowisku służbowym nie dotyczy funkcjonariusza, który pełniąc zawodową służbę wojskową, uzyskał tytuł oficera dyplomowanego.
-
-**Art. 37c.** Warunek posiadania kwalifikacji kadry kierowniczej uważa za spełniony przez funkcjonariusza, który Granicznej ukończył przeszkolenie specjalistyczne do mianowania pierwszy stopień oficerski Granicznej, obejmujące program zakresie szkolenia specjalistycznego dla kadry kierowniczej dowódczej Granicznej.
-
-**Art. 3.** W ustawie dnia 29 września 2021 r. rekompensacie związku wprowadzeniem stanu wyjątkowego obszarze części województwa podlaskiego części województwa lubelskiego 2021 r. (Dz. U. poz. 1803) po 2 dodaje 2a brzmieniu: „Art. 2a. 1. Rekompensata przysługuje także podmiotom, których mowa 1, prowadzącym działalność obszarze objętym czasowym zakazem przebywania, mowa 12a 1 ustawy dnia 12 października 1990 r. ochronie granicy państwowej (Dz. U. 2019 r. poz. 1776 2021 r. poz. 1918 2191). cych do dnia 14 czerwca 2001 r. egzamin oficerski Granicznej bez odbycia przeszkolenia specjalistycznego do mianowania pierwszy stopień oficerski Granicznej.
-
-**Art. 7.** Dotychczasowe przepisy wykonawcze wydane podstawie: 38 ustawy zmienianej 2 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych podstawie 38 ustawy zmienianej 2 brzmieniu nadanym niniejszą ustawą,
-
-**Art. 8.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, wyjątkiem 2 pkt 2–6 4–7, które wchodzą życie dniem 1 stycznia 2022 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 8.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, wyjątkiem art. 2 pkt 2–6 oraz art. 4–7, które wchodzą życie dniem 1 stycznia 2022 Prezydent Rzeczypospolitej Polskiej: A. Duda
 

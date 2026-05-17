@@ -8,9 +8,12 @@ pos: 230
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 lutego 2021 r.
+# o zasadach współpracy prawnej w sprawach karnych między Rzecząpospolitą Polską i terytorium, do którego stosuje się prawo karne należące do właściwości Ministra Sprawiedliwości Tajwanu
+
+*USTAWA z dnia 16 grudnia 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2021-02-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/230/text.pdf) |
-
-USTAWA z dnia 16 grudnia 2020 r.
-o zasadach współpracy prawnej w sprawach karnych między Rzecząpospolitą Polską i terytorium, do którego stosuje się prawo karne należące do właściwości Ministra Sprawiedliwości Tajwanu
 
 **Art. 1.** Zasady współpracy prawnej w sprawach karnych między Rzecząpospolitą Polską i terytorium, do którego stosuje się prawo karne należące do właściwości Ministra Sprawiedliwości Tajwanu, określa Porozumienie między Biurem Polskim w Tajpej a Biurem Przedstawicielskim Tajpej w Polsce o współpracy prawnej w sprawach karnych, podpisane w Tajpej dnia 17 czerwca 2019 r., zwane dalej „Porozumieniem”, które stanowi załącznik do ustawy.
 

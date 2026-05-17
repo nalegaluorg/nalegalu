@@ -8,9 +8,12 @@ pos: 548
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, 19 czerwca 1999
+# o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego
+
+*USTAWA z dnia 7 maja 1999 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,76 +27,62 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990530548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/548/text.pdf) |
 
-USTAWA 7 maja 1999 o funkcjonariuszy Policji, Granicznej, Ochrony 1 Przepisy ogólne
+1. 1. Ustawa normuje odpowiedzialność majątkową funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego za szkody wyrządzone przez nich, wskutek niewykonania lub nienależytego wykonania obowiązków służbowych, w mieniu Skarbu Państwa znajdującym się w dyspozycji organu lub jednostek organizacyjnych podległych, podporządkowanych albo nadzorowanych przez ministrów właściwych do spraw wewnętrznych, do spraw finansów publicznych, Ministra Obrony Narodowej, Marszałka Sejmu, Ministra Sprawiedliwości, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Służby Kontrwywiadu Wojskowego, Szefa Służby Wywiadu Wojskowego i Szefa Centralnego Biura Antykorupcyjnego.
+2. Ilekroć w ustawie jest mowa o:
+1) funkcjonariuszu – należy przez to rozumieć: policjanta, funkcjonariusza Straży Granicznej, funkcjonariusza Straży Marszałkowskiej, funkcjonariusza Służby Celno-Skarbowej, funkcjonariusza Służby Ochrony Państwa, strażaka Państwowej Straży Pożarnej, funkcjonariusza Służby Więziennej, funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego;
+2) uposażeniu przysługującym funkcjonariuszowi – należy przez to rozumieć uposażenie zasadnicze wraz z dodatkami o charakterze stałym należne funkcjonariuszowi w dniu wyrządzenia szkody, a w przypadku szkody powstałej po rozwiązaniu stosunku służbowego – należne w dniu zwolnienia ze służby.
+2. Funkcjonariusz, który wskutek niewykonania lub nienależytego wykonania obowiązków służbowych ze swojej winy wyrządził szkodę w mieniu, o którym mowa w art. 1 ust. 1, ponosi odpowiedzialność majątkową w granicach rzeczywistej straty i tylko za normalne następstwa działania lub zaniechania, chociażby wynikająca z niego szkoda powstała po rozwiązaniu stosunku służbowego.
+3. Organy lub jednostki, o których mowa w art. 1 ust. 1, obowiązane są wykazać okoliczności uzasadniające odpowiedzialność funkcjonariusza oraz wysokość wyrządzonej szkody.
+4. Funkcjonariusz nie ponosi odpowiedzialności majątkowej za szkodę:
+1) w takim zakresie, w jakim organ lub jednostka, o których mowa w art. 1 ust. 1, albo inna osoba przyczyniły się do powstania szkody lub jej zwiększenia;
+2) wynikłą w związku z działaniem w granicach dopuszczalnego ryzyka.
+5. W razie wyrządzenia nieumyślnie szkody przez kilku funkcjonariuszy, każdy z nich ponosi odpowiedzialność za część szkody, stosownie do przyczynienia się do niej i stopnia winy. Jeżeli nie jest możliwe ustalenie stopnia winy i przyczynienia się poszczególnych funkcjonariuszy do powstania szkody, odpowiadają oni w częściach równych.
+6. 1. Funkcjonariusz odpowiedzialny za szkodę wyrządzoną nieumyślnie jest obowiązany do zapłaty odszkodowania w wysokości wyrządzonej szkody, jednak odszkodowanie nie może przewyższać kwoty trzymiesięcznego uposażenia przysługującego funkcjonariuszowi.
+2. Za zgodą organu lub jednostki, o których mowa w art. 1 ust. 1, naprawienie szkody przez funkcjonariusza może nastąpić poprzez przywrócenie stanu poprzedniego w całości, jeżeli nie narusza to interesu Skarbu Państwa.
+podstawie ugody między organem lub jednostką, o których mowa w art. 1 ust. 1, a funkcjonariuszem, który wyrządził szkodę, wysokość odszkodowania może być obniżona przy uwzględnieniu wszystkich okoliczności sprawy, a w szczególności stopnia winy funkcjonariusza i jego stosunku do obowiązków służbowych.
+2. Przy uwzględnieniu okoliczności wymienionych w ust. 1, wysokość odszkodowania może być także obniżona przez sąd pracy; dotyczy to również przypadku, gdy naprawienie szkody następuje na podstawie ugody sądowej.
+3. W razie niewykonania przez funkcjonariusza ugody, o której mowa w ust. 1, podlega ona wykonaniu w trybie przepisów Kodeksu postępowania cywilnego, po nadaniu jej klauzuli wykonalności przez sąd pracy.
+8. Jeżeli funkcjonariusz umyślnie wyrządził szkodę, jest obowiązany do jej naprawienia w pełnej wysokości.
+9. 1. W razie wyrządzenia szkody osobie trzeciej przez funkcjonariusza przy wykonywaniu obowiązków służbowych, wyłącznie obowiązany do naprawienia szkody, na zasadach określonych przepisami Kodeksu cywilnego, jest Skarb Państwa reprezentowany przez organ lub jednostkę, o których mowa w art. 1 ust. 1, w których funkcjonariusz pełnił służbę w chwili wyrządzenia szkody.
+2. Funkcjonariusz ponosi przewidzianą w przepisach ustawy odpowiedzialność wobec Skarbu Państwa, który naprawił szkodę, o której mowa w ust. 1.
+10. 1. Funkcjonariusz odpowiada, z zastrzeżeniem art. 2, w pełnej wysokości za szkodę w mieniu powierzonym mu z obowiązkiem zwrotu albo wyliczenia się, zwanym dalej „mieniem powierzonym”.
+2. Funkcjonariusz może uwolnić się od odpowiedzialności za szkodę w mieniu powierzonym, jeżeli wykaże, że powstała ona z przyczyn od niego niezależnych, a w szczególności wskutek niezapewnienia przez właściwą jednostkę organizacyjną warunków umożliwiających prawidłowe zabezpieczenie powierzonego mienia.
+3. Prezes Rady Ministrów oraz ministrowie, o których mowa w art. 1 ust. 1, każdy w zakresie swojej właściwości, określą, w drodze rozporządzenia, zasady i tryb powierzania funkcjonariuszom mienia, o którym mowa w ust. 1.
+wspólną odpowiedzialność majątkową za mienie powierzone im łącznie. Podstawą łącznego powierzenia mienia jest umowa o wspólnej odpowiedzialności majątkowej, zawarta, pod rygorem nieważności, na piśmie przez funkcjonariuszy z kierownikiem jednostki organizacyjnej, w której dyspozycji znajduje się powierzone mienie.
+2. Funkcjonariusze ponoszący wspólną odpowiedzialność majątkową odpowiadają w częściach określonych w umowie, a jeżeli umowa nie określa tych części – w częściach równych.
+3. W razie ustalenia, że szkoda w całości albo w części została spowodowana przez niektórych funkcjonariuszy, za całość szkody albo za stosowną jej część odpowiadają tylko sprawcy szkody.
+4. Rada Ministrów określi, w drodze rozporządzenia:
+1) szczegółowe zasady i tryb zawierania umowy o wspólnej odpowiedzialności majątkowej funkcjonariuszy;
+2) szczegółowe zasady i tryb łącznego powierzania mienia funkcjonariuszom;
+3) szczegółowe warunki wspólnej odpowiedzialności za szkodę w mieniu powierzonym łącznie funkcjonariuszom.
+12. Do odpowiedzialności określonej w art. 10 i 11 stosuje się odpowiednio przepisy art. 4, 7 i 8.
+13. 1. Organ lub jednostka, o których mowa w art. 1 ust. 1, po stwierdzeniu zaistnienia szkody, podejmuje niezwłocznie czynności w celu wyjaśnienia okoliczności i przyczyn jej powstania, ustalenia wysokości szkody oraz osób za nią odpowiedzialnych.
+2. W przypadku ustalenia, że szkoda powstała z winy funkcjonariusza, organ lub jednostka, o których mowa w art. 1 ust. 1, mogą:
+1) wezwać funkcjonariusza do dobrowolnej zapłaty odszkodowania w wyznaczonym terminie lub złożenia w takim terminie pisemnego zobowiązania do jego zapłaty;
+2) zawrzeć z funkcjonariuszem pisemną ugodę, o której mowa w art. 7 ust. 1;
+3) odstąpić od dochodzenia naprawienia szkody wyrządzonej nieumyślnie, w przypadku gdy: odszkodowania w kwocie co najmniej równoważącej przewidywane koszty jego dochodzenia i egzekucji,
+b) zachodzą szczególne okoliczności dotyczące sytuacji rodzinnej lub materialnej funkcjonariusza odpowiedzialnego za szkodę i pozwala na to interes Skarbu Państwa,
+c) w związku z wyrządzoną szkodą funkcjonariusz poniósł odpowiedzialność karną, dyscyplinarną lub za naruszenie dyscypliny finansów publicznych, a wymierzona kara stanowi wystarczającą dolegliwość.
+3. Ustalenie wysokości szkody, dochodzenie roszczeń o odszkodowanie oraz podejmowanie innych czynności i decyzji w tych sprawach należy do właściwości organu lub kierownika jednostki, o których mowa w art. 1 ust. 1.
+4. Jeżeli sprawcą szkody jest organ lub kierownik jednostki, o których mowa w art. 1 ust. 1, uprawnienia określone w ust. 3 przysługują bezpośredniemu przełożonemu.
+13a. 1. Należność stanowiąca odszkodowanie może być, na wniosek funkcjonariusza odpowiedzialnego za szkodę, umorzona w całości lub części, a jej spłata odroczona lub rozłożona na raty, jeżeli okoliczności, o których mowa w art. 13 ust. 2 pkt 3 lit. b i c, zaistniały lub zostały ujawnione po ustaleniu tej należności.
+2. Umorzenie, odroczenie lub rozłożenie na raty spłaty należności następuje w drodze umowy zawartej z funkcjonariuszem. Przepisy art. 13 ust. 3 i 4 stosuje się odpowiednio.
+14. 1. Do przedawnienia roszczeń o naprawienie szkody wyrządzonej przez funkcjonariusza stosuje się, z zastrzeżeniem ust. 2, przepisy działu czternastego Kodeksu pracy.
+2. W razie wyrządzenia przez funkcjonariusza szkody osobie trzeciej, terminy przedawnienia liczą się od zaspokojenia roszczenia tej osoby.
+15. Spory dotyczące odpowiedzialności majątkowej funkcjonariuszy rozpoznają sądy pracy oraz sądy pracy i ubezpieczeń społecznych.
+16. (pominięty)
+17. (pominięty)
+19. Do spraw o odszkodowanie wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe, chyba że zostanie zawarta ugoda.
+20. W sprawach nieuregulowanych w niniejszej ustawie do odpowiedzialności majątkowej funkcjonariuszy za szkody wyrządzone przez nich wskutek niewykonania lub nienależytego wykonania obowiązków służbowych stosuje się przepisy Kodeksu cywilnego.
+21. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
 
-**Art. 1.**
+#### Rozdział 1 Przepisy ogólne
 
-1. Ustawa normuje funkcjonariuszy Policji, Granicznej, stwowej Ochrony za przez nich, niewykonania lub wykonania mieniu Skarbu dyspozycji organów lub jednostek organizacyjnych al bo nadzorowanych przez ministrów do spraw oraz Szefa Ochrony
+#### Rozdział 2 Zasady odpowiedzialności majątkowej funkcjonariusza
 
-2. ustawie jest mowa o:
+#### Rozdział 3 Odpowiedzialność za szkodę wyrządzoną w mieniu powierzonym funkcjonariuszowi
 
-- **1)** funkcjonariuszu przez to poli cjanta, funkcjonariusza Granicznej, funkcjonariusza by oraz funkcjonariusza Ochro ny
-- **2)** funkcjonariuszowi przez to zasadnicze wraz dodatkami o charakterze funkcjonariuszowi dniu szkody, po odliczeniu na ubezpieczenia emerytalne rentowe. 2 Zasady funkcjonariu sza
+#### Rozdział 4 Dochodzenie roszczeń o odszkodowanie
 
-**Art. 2.** Funkcjonariusz, który niewykonania lub wykonania ze swej winy mieniu, o którym mo wa 1 ust. 1, ponosi granicach rzeczywistej straty tylko za normalne lub zaniechania, którego wyni szkoda.
-
-**Art. 3.** Organy lub jednostki, o mowa 1 ust. 1,
-
-**Art. 4.** Funkcjonariusz nie ponosi odpowiedzialno za
-
-**Art. 5.** W razie przez kilku funkcjonariuszy, nich ponosi odpo za szkody, stosownie do przyczy nienia do niej stopnia winy. nie jest we ustalenie stopnia winy przyczynienia poszcze gólnych funkcjonariuszy do powstania szkody, odpo oni równych.
-
-**Art. 6.** Funkcjonariusz odpowiedzialny za jest do odszkodowania szkody, jed nak odszkodowanie nie kwoty trzy funkcjona riuszowi.
-
-**Art. 7.** Jeżeli naprawienie nie na podstawie ugody orga nem lub o mowa 1 ust. 1, a funkcjonariuszem, który odszkodowania przy niu wszystkich sprawy, a stopnia winy funkcjonariusza jego stosunku do obo
-
-**Art. 8.** Jeżeli funkcjonariusz jest do jej naprawienia
-
-**Art. 9.**
-
-1. W razie osobie trze ciej przez funkcjonariusza przy wykonywaniu ków do naprawie nia szkody, na zasadach przepisami Ko deksu cywilnego, jest Skarb reprezentowany przez organ lub o mowa 1 stwa, który o której mowa ust. 1. 3 za mieniu powierzonym funkcjonariuszowi
-
-**Art. 10.**
-
-1. Funkcjonariusz odpowiada, niem art. 2, za mieniu po wierzonym mu zwrotu albo wyliczenia zwanym dalej "mieniem powierzonym".
-
-2. Funkcjonariusz od odpowie za mieniu powierzonym, wy ona przyczyn od niego nych, a niezapewnienia przez warunków zabezpieczenie powierzonego mienia.
-
-3. Prezes Rady Ministrów oraz ministrowie, o któ rych mowa 1 ust. 1, zakresie swojej drodze zasady tryb powierzania funkcjonariuszom mienia, o którym mowa ust. 1.
-
-**Art. 11.**
-
-1. Na zasadach 10 funkcjonariusze odpowie za mienie powierzone im nie. powierzenia mienia jest umowa o wspólnej zawarta, pod rygorem na przez funkcjonariuszy kierownikiem jednostki organiza cyjnej, której dyspozycji znajduje powierzone mienie.
-
-2. Funkcjonariusze odpowie okre umowie, a umowa nie tych równych.
-
-3. W razie ustalenia, szkoda albo spowodowana przez niektórych funkcjona riuszy, za albo za jej od tylko sprawcy szkody.
-
-4. Rada Ministrów drodze nia:
-
-- **1)** zasady tryb zawierania umowy o wspólnej funk cjonariuszy,
-- **2)** zasady tryb powierzania mienia funkcjonariuszom,
-- **3)** warunki wspólnej za mieniu powierzonym funkcjo nariuszom.
-
-**Art. 12.** Do 10 11 stosuje odpowiednio przepisy art. 4, 7 8. 4 Dochodzenie o odszkodowanie ty odszkodowania. odszkodowania oraz sposób jego uiszczenia ustalone drodze pisemnej ugody. 2. Prezes Rady Ministrów oraz ministrowie, o któ rych mowa 1 ust. 1, zakresie swojej drodze podmioty do ustalania szkód, zawierania ugód oraz podejmowania innych decyzji szkód przez funkcjonariuszy.
-
-**Art. 14.**
-
-1. Do przedawnienia o naprawie nie przez funkcjonariusza stosuje ust. 2, przepisy czternaste go Kodeksu pracy.
-
-2. W razie przez funkcjonariusza szko dy osobie trzeciej, terminy przedawnienia od zaspokojenia roszczenia tej osoby.
-
-**Art. 15.** Spory kowej funkcjonariuszy pracy oraz dy pracy 5 Zmiany przepisach przepisy
-
-**Art. 16.** W dekrecie 5 1955 o materialnej za jednostce wojskowej (Dz.U. 40, poz. 247, 1967 44, poz. 220 1974 24, poz. 142) art. 19.
-
-**Art. 17.** W ustawie 6 kwietnia 1990 o dzie Ochrony (Dz.U. 1999 51, poz. 526) art. 55a.
-
-**Art. 18.** Do czasu wydania przepisów wykonaw czych przewidzianych ustawie, nie jednak przez 6 moc dotychczasowe prze pisy wykonawcze wydane na podstawie dekretu, o któ rym mowa 16, o ile nie sprzeczne
-
-**Art. 19.** Do sprawo odszkodowanie nie przed dniem usta wy stosuje przepisy dotychczasowe, chyba zo stanie zawarta ugoda.
-
-**Art. 20.** W sprawach nie uregulowanych niniej szej ustawie do funk cjonariuszy za przez nich niewykonania lub wykonania ków stosuje przepisy Kodeksu cywilne go.
-
-**Art. 21.** Ustawa wchodzi po 3 mie od
+#### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 

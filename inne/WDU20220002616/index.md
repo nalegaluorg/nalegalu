@@ -8,9 +8,12 @@ pos: 2616
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 grudnia 2022 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego Rzeczypospolitej Polskiej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 listopada 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2616/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 listopada 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego Rzeczypospolitej Polskiej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1889), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 czerwca 2022 r.
 o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 listopada 2022 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „Art. 417. Ustawa wchodzi życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 zakresie okręgowych ośrodków wychowawczych, art. 340 zakresie okręgowych ośrodków wychowawczych, art. 341 zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą życie z dniem następującym po dniu ogłoszenia.”.
@@ -222,7 +223,7 @@ o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego Rzeczypospolitej P
 
 **Art. 28.**
 
-1. Majątek i przychody Kościoła oraz jego osób prawnych podlegają ogólnym przepisom podatkowym, z wyjątkami określonymi ust. 2–5. z wyjątkiem części służących do wykonywania działalności gospodarczej.
+1. Majątek i przychody Kościoła oraz jego osób prawnych podlegają ogólnym przepisom podatkowym, z wyjątkami określonymi ust. 2–5.
 
 3. Zwolnienie od opodatkowania podatkiem od nieruchomości obejmuje nieruchomości lub ich części przeznaczone na cele mieszkalne duchownych i ewangelistów, jeżeli:
 

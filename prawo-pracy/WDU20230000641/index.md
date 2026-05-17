@@ -8,9 +8,12 @@ pos: 641
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 kwietnia 2023 r.
+# o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw
+
+*USTAWA z dnia 9 marca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,60 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000641) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/641/text.pdf) |
 
-USTAWA z dnia 9 marca 2023 r.
-o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240) wprowadza się następujące zmiany:
-
-**Art. 29⁴.**
-
-§ 1. Przyczyny uzasadniającej wypowiedzenie umowy o pracę lub jej rozwiązanie bez wypowiedzenia przez pracodawcę, przyczyny uzasadniającej przygotowanie do wypowiedzenia lub rozwiązania umowy bez wypowiedzenia albo przyczyny zastosowania działania mającego skutek równoważny z rozwiązaniem umowy o pracę nie może stanowić:
-
-- **1)** wystąpienie przez pracownika z wnioskiem, o którym mowa art. 29 § 1;
-- **2)** jednoczesne pozostawanie stosunku pracy z innym pracodawcą lub jednoczesne pozostawanie stosunku prawnym będącym podstawą świadczenia pracy innym niż stosunek pracy, chyba że ograniczenia tym zakresie wynikają z odrębnych przepisów albo zachodzi przypadek określony art. 101 § 1;
-- **3)** dochodzenie przez pracownika udzielenia informacji, o których mowa art. 29 § 3, 3 i 3 oraz art. 29 § 2 i 4;
-- **4)** skorzystanie z praw, o których mowa art. 94 .
-
-§ 2. Pracodawca udowodni, że przy rozwiązywaniu umowy o pracę lub zastosowaniu działania mającego skutek równoważny z rozwiązaniem umowy o pracę kierował się powodami innymi niż wskazane § 1.
-
-§ 3. Jeżeli pracownik uważa, że przyczyną rozwiązania umowy o pracę na okres próbny za wypowiedzeniem albo zastosowania działania mającego skutek równoważny z rozwiązaniem umowy o pracę było jednoczesne pozostawanie stosunku pracy z innym pracodawcą lub jednoczesne pozostawanie stosunku prawnym innym niż stosunek pracy, lub dochodzenie udzielenia informacji, o których mowa art. 29 § 3, 3 i 3 oraz art. 29 § 2 i 4, lub skorzystanie z praw, o których mowa art. 94 , może, terminie 7 dni od dnia złożenia oświadczenia woli pracodawcy o rozwiązaniu umowy o pracę na okres próbny za wypowiedzeniem albo zastosowania działania mającego skutek równoważny z rozwiązaniem umowy o pracę, złożyć do pracodawcy wniosek postaci papierowej lub elektronicznej o wskazanie przyczyny uzasadniającej to rozwiązanie umowy o pracę albo zastosowanie działania.
-
-§ 4. Pracodawca udziela pracownikowi odpowiedzi na wniosek, o którym mowa § 3, postaci papierowej lub elektronicznej terminie 7 dni od dnia złożenia przez pracownika wniosku.”;
-
-- **10)** art. 30 § 4 otrzymuje brzmienie: „§ 4. W oświadczeniu pracodawcy o wypowiedzeniu umowy o pracę zawartej na czas określony lub umowy o pracę zawartej na czas nieokreślony lub o rozwiązaniu umowy o pracę bez wypowiedzenia powinna być wskazana przyczyna uzasadniająca wypowiedzenie lub rozwiązanie umowy.”;
-- **11)** art. 38 § 1 otrzymuje brzmienie: „§ 1. O zamiarze wypowiedzenia pracownikowi umowy o pracę zawartej na czas określony lub umowy o pracę zawartej na czas nieokreślony pracodawca zawiadamia na piśmie reprezentującą pracownika zakładową organizację związkową, podając przyczynę uzasadniającą rozwiązanie umowy.”;
-- **12)** art. 45: „Art. 47. Pracownikowi, który podjął pracę wyniku przywrócenia do pracy, przysługuje wynagrodzenie za czas pozostawania bez pracy, nie więcej jednak niż za 2 miesiące, a gdy okres wypowiedzenia wynosił 3 miesiące nie więcej niż za 1 miesiąc. Jeżeli umowę o pracę rozwiązano z pracownikiem, o którym mowa art. 39, albo z pracownicą okresie ciąży oraz okresie urlopu macierzyńskiego lub od dnia złożenia przez pracownika wniosku o udzielenie urlopu macierzyńskiego albo jego części do dnia zakończenia tego urlopu, wynagrodzenie przysługuje za cały czas pozostawania bez pracy. Dotyczy to także przypadku, gdy rozwiązanie umowy o pracę podlega ograniczeniu z mocy przepisu szczególnego.”;
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. W razie ustalenia, że wypowiedzenie umowy o pracę zawartej na czas określony lub umowy o pracę zawartej na czas nieokreślony jest nieuzasadnione lub narusza przepisy o wypowiadaniu umów o pracę, sąd pracy stosownie do żądania pracownika orzeka o bezskuteczności wypowiedzenia, a jeżeli umowa uległa już rozwiązaniu o przywróceniu pracownika do pracy na poprzednich warunkach albo o odszkodowaniu.”,
-    - **b)** § 2 dodaje się zdanie drugie brzmieniu: „Jeżeli przed wydaniem orzeczenia upłynął termin, do którego umowa o pracę zawarta na czas określony miała trwać, lub jeżeli przywrócenie do pracy byłoby niewskazane ze względu na krótki okres, jaki pozostał do upływu tego terminu, pracownikowi przysługuje wyłącznie odszkodowanie.”,
-    - **c)** § 3 po wyrazach „§ 2” dodaje się wyrazy „zdanie pierwsze”;
-
-- **14)** art. 47 dodaje się zdanie drugie brzmieniu: „W przypadku wypowiedzenia umowy o pracę zawartej na czas określony, której termin, do którego umowa ta miała trwać, określony umowie upłynął przed wydaniem orzeczenia przez sąd pracy, lub gdy przywrócenie do pracy byłoby niewskazane ze względu na krótki okres, jaki pozostał do upływu tego terminu, odszkodowanie przysługuje wysokości wynagrodzenia za czas, do upływu którego umowa miała trwać, nie więcej jednak niż za okres 3 miesięcy.”;
-- **15)** art. 50 uchyla się § 3–5;
-- **16)** art. 57 § 2 otrzymuje brzmienie: „§ 2. Jeżeli umowę o pracę rozwiązano z pracownikiem, o którym mowa art. 39, albo z pracownicą okresie ciąży oraz okresie urlopu macierzyńskiego lub od dnia złożenia przez pracownika wniosku o udzielenie urlopu macierzyńskiego albo jego części do dnia zakończenia tego urlopu, wynagrodzenie przysługuje za cały czas pozostawania bez pracy. Dotyczy to także przypadku, gdy rozwiązanie umowy o pracę podlega ograniczeniu z mocy przepisu szczególnego.”;
-- **17)** art. 94 po pkt 1 dodaje się pkt 1a brzmieniu: „1a) informować pracowników o warunkach ich zatrudnienia, o których mowa art. 29 § 3, 3 i 3 lub art. 29 § 2 i 4;”;
-- **18)** art. 94 otrzymuje brzmienie: „Art. 94 . Pracodawca jest obowiązany informować pracowników sposób przyjęty u danego pracodawcy o:
-- **1)** możliwości zatrudnienia pełnym lub niepełnym wymiarze czasu pracy;
-- **2)** możliwości awansu;
-- **3)** wolnych stanowiskach pracy.”;
-- **19)** po art. 94 dodaje się art. 94 brzmieniu: „Art. 94 . Jeżeli obowiązek pracodawcy przeprowadzenia szkoleń pracowników niezbędnych do wykonywania określonego rodzaju pracy lub pracy na określonym stanowisku wynika z postanowień układu zbiorowego pracy lub innego porozumienia zbiorowego, lub z regulaminu, lub przepisów prawa, lub umowy o pracę oraz przypadku szkoleń odbywanych przez pracownika na podstawie polecenia przełożonego, szkolenia takie odbywają się na koszt pracodawcy oraz, miarę możliwości, godzinach pracy pracownika. Czas szkolenia odbywanego poza normalnymi godzinami pracy pracownika wlicza się do czasu pracy.”;
-- **20)** art. 134 otrzymuje brzmienie: „Art. 134. § 1. Jeżeli dobowy wymiar czasu pracy pracownika:
-- **1)** wynosi co najmniej 6 godzin pracownik ma prawo do przerwy pracy trwającej co najmniej 15 minut;
-- **2)** jest dłuższy niż 9 godzin pracownik ma prawo do dodatkowej przerwy pracy trwającej co najmniej 15 minut;
-- **3)** jest dłuższy niż 16 godzin pracownik ma prawo do kolejnej przerwy pracy trwającej co najmniej 15 minut.
-
-§ 2. Przerwy, o których mowa § 1, wlicza się do czasu pracy.”;
-
-- **21)** po art. 148 dodaje się art. 148 brzmieniu: „Art. 148 . § 1. Pracownikowi przysługuje ciągu roku kalendarzowego zwolnienie od pracy, wymiarze 2 dni albo 16 godzin, z powodu działania siły wyższej pilnych sprawach rodzinnych spowodowanych chorobą lub wypadkiem, jeżeli jest niezbędna natychmiastowa obecność pracownika. W okresie tego zwolnienia od pracy pracownik zachowuje prawo do wynagrodzenia wysokości połowy wynagrodzenia.
-
-§ 2. O sposobie wykorzystania danym roku kalendarzowym zwolnienia od pracy, o którym mowa § 1, decyduje pracownik pierwszym wniosku o udzielenie takiego zwolnienia złożonym danym roku kalendarzowym. przez pracownika najpóźniej dniu korzystania z tego zwolnienia.
-
-§ 4. Zwolnienie od pracy, o którym mowa § 1, udzielane wymiarze godzinowym, dla pracownika zatrudnionego niepełnym wymiarze czasu pracy ustala się proporcjonalnie do wymiaru czasu pracy tego pracownika. Niepełną godzinę zwolnienia od pracy zaokrągla się górę do pełnej godziny.
-
-§ 5. Przepis § 1 zakresie zwolnienia od pracy udzielanego wymiarze godzinowym stosuje się odpowiednio do pracownika, dla którego dobowa norma czasu pracy, wynikająca z odrębnych przepisów, jest niższa niż 8 godzin.
-
-§ 6. Do pracownika, o którym mowa § 1, stosuje się odpowiednio art. 186 .”;
-
-- **22)** dziale siódmym po rozdziale I dodaje się rozdział Ia brzmieniu: „Rozdział Ia Urlop opiekuńczy
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240) wprowadza się następujące zmiany:
 
 **Art. 173¹.**
 
@@ -95,7 +45,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 173³.** Do pracownika, o którym mowa art. 173 § 1, stosuje się odpowiednio przepisy art. 177 § 1, 1 , 4 i 4 , art. 186 i art. 188 .”;
 
-**Art. 2.** W ustawie z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762 oraz z 2022 r. poz. 935, 1116, 1700 i 1730) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762 oraz z 2022 r. poz. 935, 1116, 1700 i 1730) wprowadza się następujące zmiany:
 
 **Art. 67g.**
 
@@ -123,7 +73,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 1. Nauczycielowi przysługuje bezpłatny urlop opiekuńczy wymiarze 5 dni roku kalendarzowym celu zapewnienia osobistej opieki lub wsparcia osobie będącej członkiem rodziny lub zamieszkującej tym samym gospodarstwie domowym, która wymaga opieki lub wsparcia z poważnych względów medycznych.
 
-2. Przy udzielaniu urlopu, o którym mowa ust. 1, stosuje się odpowiednio przepisy rozdziału Ia działu siódmego ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.”.
+2. Przy udzielaniu urlopu, o którym mowa ust. 1, stosuje się odpowiednio przepisy rozdziału Ia działu siódmego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.”.
 
 **Art. 3.** W ustawie z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich (Dz. U. z 2020 r. poz. 627 oraz z 2021 r. poz. 696) wprowadza się następujące zmiany:
 
@@ -133,11 +83,11 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 6.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2023 r. poz. 208 i 337) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) art. 21 ust. 1 pkt 82a otrzymuje brzmienie: „82a) kwoty podwyższenia uposażenia, o których mowa art. 121a ust. 10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ), art. 125a ust. 10 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, z późn. zm. ), art. 105a ust. 10 ustawy z dnia 24 sierpnia 1991 r. o Państwowej 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347), art. 96a ust. 3a ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2022 r. poz. 1328 oraz z 2023 r. poz. 347), art. 102a ust. 3a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. poz. 240 i 347), art. 60a ust. 10 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470 oraz z 2023 r. poz. 240 i 347), art. 231 ust. 11 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, 556, 588 i 641), art. 193 ust. 10 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240, 347 i 641), art. 86 ust. 10 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727 oraz z 2023 r. poz. 240, 347 i 641), art. 454 ust. 9 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347 i 641), oraz kwoty podwyższenia zasiłku macierzyńskiego, o których mowa art. 31 ust. 3a ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby i macierzyństwa (Dz. U. z 2022 r. poz. 1732, 2140 i 2476);”.
-
 **Art. 8.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240 i 347) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626 i 2476 oraz z 2023 r. poz. 347) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego wprowadza się następujące zmiany:
+
+**Art. 10.** W ustawie z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. z 2018 r. poz. 1872) wprowadza się następujące zmiany:
 
 **Art. 11.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby i macierzyństwa (Dz. U. z 2022 r. poz. 1732, 2140 i 2476) wprowadza się następujące zmiany:
 
@@ -146,8 +96,6 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 **Art. 13.** W ustawie z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. z 2019 r. poz. 1563) wprowadza się następujące zmiany:
 
 **Art. 14.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470 oraz z 2023 r. poz. 240 i 347) wprowadza się następujące zmiany:
-
-**Art. 15.** W ustawie z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej zakresie równego traktowania (Dz. U. z 2020 r. poz. 2156) wprowadza się następujące zmiany:
 
 **Art. 16.** W ustawie z dnia 10 czerwca 2016 r. o delegowaniu pracowników ramach świadczenia usług (Dz. U. z 2021 r. poz. 1140) wprowadza się następujące zmiany:
 
@@ -167,7 +115,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 25e.**
 
-1. Dochodzenie przez pracownika delegowanego z terytorium RP udzielenia informacji, o których mowa art. 25c, nie może być podstawą jakiegokolwiek niekorzystnego traktowania pracownika, a także nie może powodować dla niego jakichkolwiek negatywnych konsekwencji, zwłaszcza nie może stanowić przyczyny uzasadniającej wypowiedzenie umowy o pracę lub jej rozwiązanie bez wypowiedzenia przez pracodawcę delegującego pracownika z terytorium RP, przygotowanie do takiego wypowiedzenia lub rozwiązania umowy albo przyczyny zastosowania działania mającego skutek równoważny z rozwiązaniem umowy o pracę, chyba że pracodawca delegujący pracownika z terytorium RP udowodni, że przy rozwiązywaniu umowy o pracę lub zastosowaniu działania mającego skutek równoważny z rozwiązaniem umowy o pracę kierował się innymi powodami.
+1. Dochodzenie przez pracownika delegowanego z terytorium RP udzielenia informacji, o których mowa art. 25c, nie może być podstawą jakiegokolwiek niekorzystnego traktowania pracownika, a także nie może powodować dla niego jakichkolwiek negatywnych konsekwencji, zwłaszcza nie może stanowić przyczyny uzasadniającej wypowiedzenie umowy o pracę lub jej rozwiązanie bez wypowiedzenia przez pracodawcę delegującego pracownika z terytorium RP, przygotowanie do takiego wypowiedzenia lub rozwiązania umowy albo przyczyny zastosowania noważny z rozwiązaniem umowy o pracę kierował się innymi powodami.
 
 2. Pracownik, który uważa, że umowa o pracę została z nim rozwiązana albo zastosowano działanie mające skutek równoważny z rozwiązaniem umowy o pracę z powodu dochodzenia udzielenia informacji, o których mowa art. 25c, może, terminie 7 dni od dnia złożenia oświadczenia woli pracodawcy o rozwiązaniu umowy o pracę albo zastosowania działania mającego skutek równoważny z rozwiązaniem umowy o pracę, złożyć do pracodawcy wniosek postaci papierowej lub elektronicznej o przedstawienie należycie uzasadnionych powodów tego rozwiązania albo zastosowania działania.
 
@@ -179,7 +127,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 1. Pracownik, o którym mowa art. 25e ust. 1, którego prawo wynikające z art. 25c zostało naruszone przez pracodawcę, ma prawo do odszkodowania wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.
 
-2. Przepis ust. 1 stosuje się odpowiednio do pracownika, który udzielił jakiejkolwiek formie wsparcia pracownikowi korzystającemu z uprawnień przysługujących na podstawie art. 25c.”; „7) nie informuje pracownika terminie o warunkach jego zatrudnienia, o których mowa art. 25c, naruszając ten sposób rażąco ten przepis,”.
+2. Przepis ust. 1 stosuje się odpowiednio do pracownika, który udzielił jakiejkolwiek formie wsparcia pracownikowi korzystającemu z uprawnień przysługujących na podstawie art. 25c.”;
+
+- **3)** art. 27 ust. 1 dodaje się pkt 7 brzmieniu: „7) nie informuje pracownika terminie o warunkach jego zatrudnienia, o których mowa art. 25c, naruszając ten sposób rażąco ten przepis,”.
 
 **Art. 17.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, 556 i 588) wprowadza się następujące zmiany:
 
@@ -195,15 +145,15 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 2. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego wynosi 70% miesięcznego uposażenia, o którym mowa art. 230 ust. 1.
 
-3. Funkcjonariusz kobieta, nie później niż 21 dni po porodzie, może złożyć pisemny wniosek o wypłacenie jej uposażenia za okres odpowiadający okresowi urlopu macierzyńskiego i urlopu rodzicielskiego pełnym wymiarze, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy, przysługującego ojcu dziecka, wysokości 81,5% miesięcznego uposażenia, o którym mowa art. 230 ust. 1.
+3. Funkcjonariusz – kobieta, nie później niż 21 dni po porodzie, może złożyć pisemny wniosek o wypłacenie jej uposażenia za okres odpowiadający okresowi urlopu macierzyńskiego i urlopu rodzicielskiego pełnym wymiarze, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy, przysługującego ojcu dziecka, wysokości 81,5% miesięcznego uposażenia, o którym mowa art. 230 ust. 1.
 
-4. W przypadku złożenia wniosku, o którym mowa ust. 3, funkcjonariusz kobieta może dzielić się z funkcjonariuszem ojcem dziecka korzystaniem z uposażenia za okres odpowiadający okresowi urlopu rodzicielskiego albo jego części, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy.
+4. W przypadku złożenia wniosku, o którym mowa ust. 3, funkcjonariusz – kobieta może dzielić się z funkcjonariuszem – ojcem dziecka korzystaniem z uposażenia za okres odpowiadający okresowi urlopu rodzicielskiego albo jego części, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy.
 
-5. Funkcjonariusz, nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania sprawie przysposobienia dziecka albo po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, może złożyć pisemny wniosek o wypłacenie mu uposażenia za okres odpowiadający okresowi urlopu na warunkach urlopu macierzyńskiego i urlopu rodzicielskiego pełnym wymiarze, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy, przysługującego drugiemu rodzicowi dziecka, wysokości 81,5% miesięcznego uposażenia, o którym mowa art. 230 ust. 1. Przepis ust. 4 stosuje się odpowiednio.
+5. Funkcjonariusz, nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania sprawie przysposobienia dziecka albo po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, może złożyć pisemny wniosek o wypłacenie mu uposażenia za okres odpowiadający okresowi urlopu na warunkach urlopu macierzyńskiego i urlopu rodziPrzepis ust. 4 stosuje się odpowiednio.
 
 6. Przepis ust. 5 stosuje się odpowiednio, przypadku gdy drugi z rodziców dziecka korzysta z prawa do zasiłku macierzyńskiego za okres odpowiadający okresowi urlopu rodzicielskiego na podstawie odrębnych przepisów.
 
-7. Uposażenie za okres odpowiadający okresowi urlopu rodzicielskiego części przysługującej funkcjonariuszowi ojcu dziecka, o której mowa art. 182 § 4 Kodeksu pracy, wynosi 70% miesięcznego uposażenia, o którym mowa art. 230 ust. 1.
+7. Uposażenie za okres odpowiadający okresowi urlopu rodzicielskiego części przysługującej funkcjonariuszowi – ojcu dziecka, o której mowa art. 182 § 4 Kodeksu pracy, wynosi 70% miesięcznego uposażenia, o którym mowa art. 230 ust. 1.
 
 8. W przypadku niewykorzystania przez funkcjonariusza ani jednego dnia urlopu rodzicielskiego pierwszym roku życia dziecka uposażenie za okres urlopu rodzicielskiego przysługuje wysokości 70% miesięcznego uposażenia, o którym mowa art. 230 ust. 1.
 
@@ -213,8 +163,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 11. W przypadku gdy wysokość uposażenia funkcjonariusza, pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych, obliczonego zgodnie z ust. 1–3 i 5 jest niższa niż kwota świadczenia rodzicielskiego określonego ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390), kwotę uposażenia funkcjonariusza, pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych, podwyższa się do wysokości świadczenia rodzicielskiego.”;
 
-- **a)** lit. a po wyrazach „urlopu rodzicielskiego,” dodaje się wyrazy „urlopu opiekuńczego,”,
-- **b)** lit. d średnik zastępuje się przecinkiem i dodaje się lit. e brzmieniu: „e) ze zwolnienia od pełnienia służby, o którym mowa art. 218b ust. 1;”.
+- **6)** art. 242 ust. 4 pkt 1:
+    - **a)** lit. a po wyrazach „urlopu rodzicielskiego,” dodaje się wyrazy „urlopu opiekuńczego,”,
+    - **b)** lit. d średnik zastępuje się przecinkiem i dodaje się lit. e brzmieniu: „e) ze zwolnienia od pełnienia służby, o którym mowa art. 218b ust. 1;”.
 
 **Art. 18.** W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240 i 347) wprowadza się następujące zmiany:
 
@@ -226,7 +177,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 2. W szczególnie uzasadnionych przypadkach Komendant Straży Marszałkowskiej może mianować funkcjonariusza Straży Marszałkowskiej na wyższe stanowisko służbowe przed uzyskaniem przez niego kwalifikacji zawodowych oraz osiągnięciem przez niego stażu służby wymaganych na tym stanowisku.
 
-3. Marszałek Sejmu określi, drodze zarządzenia:
+3. Marszałek określi, drodze zarządzenia:
 
 - **1)** stanowiska służbowe Straży Marszałkowskiej;
 - **2)** staż służby wymagany do zajmowania poszczególnych stanowisk służbowych;
@@ -237,27 +188,14 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 24d.** Funkcjonariusza Straży Marszałkowskiej zwalnia się ze stanowiska służbowego i przenosi do dyspozycji Komendanta Straży Marszałkowskiej przypadku odmowy wydania mu poświadczenia bezpieczeństwa lub wszczęcia wobec niego kontrolnego postępowania sprawdzającego, zgodnie z przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742 oraz z 2022 r. poz. 655 i 1933).”;
 
-**Art. 62.**
-
-1. Funkcjonariuszowi Straży Marszałkowskiej można udzielić, na jego pisemny wniosek, urlopu bezpłatnego wymiarze do 6 miesięcy, jeżeli nie zakłóci to prawidłowego funkcjonowania Straży Marszałkowskiej. Okres urlopu bezpłatnego nie wlicza się do okresu służby Straży Marszałkowskiej.
-
-2. Funkcjonariusz Straży Marszałkowskiej może być każdym czasie odwołany z urlopu bezpłatnego przypadkach zagrożenia prawidłowego funkcjonowania Straży Marszałkowskiej lub na jego wniosek.
-
-3. Funkcjonariuszowi Straży Marszałkowskiej, który rozpoczyna urlop bezpłatny ciągu miesiąca kalendarzowego, przysługuje uposażenie wysokości 1/30 uposażenia miesięcznego za każdy dzień poprzedzający dzień rozpoczęcia urlopu bezpłatnego. Jeżeli funkcjonariusz Straży Marszałkowskiej pobrał już uposażenie za czas urlopu bezpłatnego, potrąca się odpowiednią część uposażenia przy najbliższej wypłacie.”;
-
-- **38)** po art. 62 dodaje się art. 62a i art. 62b brzmieniu: „Art. 62a. 1. Funkcjonariuszowi Straży Marszałkowskiej przysługuje prawo do urlopu opiekuńczego wymiarze 5 dni roku kalendarzowym celu zapewnienia osobistej opieki lub wsparcia osobie będącej członkiem rodziny lub zamieszkującej tym samym gospodarstwie domowym, która wymaga opieki lub wsparcia z poważnych względów medycznych.
-
-2. Przy udzielaniu urlopu, o którym mowa ust. 1, stosuje się odpowiednio przepisy rozdziału Ia działu siódmego Kodeksu pracy.
-
-3. Za czas urlopu opiekuńczego funkcjonariusz Straży Marszałkowskiej nie zachowuje prawa do uposażenia.
-
 **Art. 62b.**
 
 1. Funkcjonariusz Straży Marszałkowskiej ma prawo do zwolnienia od służby z powodu działania siły wyższej pilnych sprawach rodzinnych spowodowanych chorobą lub wypadkiem, jeżeli jest niezbędna natychmiastowa obecność tego funkcjonariusza, wymiarze 2 dni albo 16 godzin roku kalendarzowym, z zachowaniem prawa do połowy uposażenia, o którym mowa art. 85.
 
 2. Przy udzielaniu zwolnienia, o którym mowa ust. 1, stosuje się odpowiednio przepisy art. 148 § 2–6 Kodeksu pracy.”;
 
-- **39)** art. 63 ust. 1 otrzymuje brzmienie: „1. Funkcjonariuszowi Straży Marszałkowskiej udziela się płatnego urlopu szkoleniowego, jeżeli uzyskał on zezwolenie na pobieranie nauki lub odbywanie studiów i pobiera tę naukę lub odbywa studia, lub uzyskał zezwolenie na wszczęcie postępowania sprawie nadania stopnia doktora lub stopnia doktora habilitowanego, a także odbycie aplikacji radcowskiej lub legislacyjnej.”; „3. Do urlopu szkoleniowego stosuje się odpowiednio przepisy art. 59 ust. 5 i 6.”;
+- **39)** art. 63 ust. 1 otrzymuje brzmienie: „1. Funkcjonariuszowi Straży Marszałkowskiej udziela się płatnego urlopu szkoleniowego, jeżeli uzyskał on zezwolenie na pobieranie nauki lub odbywanie studiów i pobiera tę naukę lub odbywa studia, lub uzyskał zezwolenie na wszczęcie postępowania sprawie nadania stopnia doktora lub stopnia doktora habilitowanego, a także odbycie aplikacji radcowskiej lub legislacyjnej.”;
+- **40)** art. 64 dodaje się ust. 3 brzmieniu: „3. Do urlopu szkoleniowego stosuje się odpowiednio przepisy art. 59 ust. 5 i 6.”;
 - **41)** art. 67:
     - **a)** ust. 4 pkt 2 średnik zastępuje się kropką i uchyla się pkt 3,
     - **b)** uchyla się ust. 7 i 8,
@@ -265,13 +203,12 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
     - **d)** ust. 10 otrzymuje brzmienie: „10. Ustalenie wysokości dodatku specjalnego nie jest wymagane sytuacji, gdy jego wysokość kolejnym okresie, o którym mowa ust. 9, nie ulega zmianie.”,
     - **e)** uchyla się ust. 14,
     - **f)** uchyla się ust. 16 i 17,
-    - **g)** dodaje się ust. 18 brzmieniu: „18. Marszałek Sejmu określi, drodze zarządzenia:
+    - **g)** dodaje się ust. 18 brzmieniu: „18. Marszałek określi, drodze zarządzenia:
 
-- **1)** stawki uposażenia zasadniczego dla poszczególnych:
+- **1)** stawki uposażenia zasadniczego dla poszczególnych: nienia służby, a także przesłanki przyznania dodatku oraz okoliczności uzasadniające jego podwyższanie, obniżanie i cofanie.”;
     - **a)** stanowisk służbowych z uwzględnieniem wzrostu uposażenia z tytułu wysługi lat, kierując się stanowiskiem, zakresem wykonywanych zadań służbowych, ponoszoną odpowiedzialnością i wymaganymi kwalifikacjami,
     - **b)** stopni Straży Marszałkowskiej;
 
-- **2)** rodzaje szczególnych kwalifikacji lub warunków służby uwzględnianych przy przyznawaniu dodatku, o którym mowa ust. 3 pkt 2, jego wysokość uzasadnioną poszczególnymi kwalifikacjami lub warunkami pełnienia służby, a także przesłanki przyznania dodatku oraz okoliczności uzasadniające jego podwyższanie, obniżanie i cofanie.”;
 - **42)** uchyla się art. 71;
 - **43)** art. 73 ust. 2 po wyrazie „stałym” dodaje się wyrazy „należnego dniu mianowania do służby stałej”;
 - **44)** art. 75 ust. 5:
@@ -283,17 +220,17 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
     - **b)** uchyla się ust. 3 i 4;
 
 - **46)** art. 81 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. Ekwiwalent pieniężny za 1 dzień niewykorzystanego urlopu wypoczynkowego ustala się wysokości 1/21 miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym, należnego na ostatnio zajmowanym stanowisku służbowym.”;
-- **47)** art. 86 otrzymuje brzmienie: „Art. 86. 1. Miesięczne uposażenie funkcjonariusza Straży Marszałkowskiej za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego oraz okres urlopu ojcowskiego wynosi 100% uposażenia, o którym mowa art. 85. jako okres urlopu rodzicielskiego wynosi 70% miesięcznego uposażenia, o którym mowa art. 85.
+- **47)** art. 86 otrzymuje brzmienie: „Art. 86. 1. Miesięczne uposażenie funkcjonariusza Straży Marszałkowskiej za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego oraz okres urlopu ojcowskiego wynosi 100% uposażenia, o którym mowa art. 85.
 
-3. Funkcjonariusz Straży Marszałkowskiej kobieta, nie później niż 21 dni po porodzie, może złożyć pisemny wniosek o wypłacenie jej uposażenia za okres odpowiadający okresowi urlopu macierzyńskiego i urlopu rodzicielskiego pełnym wymiarze, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy, przysługującego funkcjonariuszowi Straży Marszałkowskiej ojcu dziecka, wysokości 81,5% uposażenia, o którym mowa art. 85.
+2. Miesięczne uposażenie funkcjonariusza Straży Marszałkowskiej za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego wynosi 70% miesięcznego uposażenia, o którym mowa art. 85.
 
-4. Funkcjonariusz Straży Marszałkowskiej, nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania sprawie przysposobienia dziecka albo po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, może złożyć pisemny wniosek o wypłacenie mu uposażenia za okres odpowiadający okresowi urlopu na warunkach urlopu macierzyńskiego i urlopu rodzicielskiego pełnym wymiarze, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy, przysługującego funkcjonariuszowi Straży Marszałkowskiej drugiemu rodzicowi dziecka, wysokości 81,5% uposażenia, o którym mowa art. 85.
+3. Funkcjonariusz Straży Marszałkowskiej – kobieta, nie później niż 21 dni po porodzie, może złożyć pisemny wniosek o wypłacenie jej uposażenia za okres odpowiadający okresowi urlopu macierzyńskiego i urlopu rodzicielskiego pełnym wymiarze, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy, przysługującego funkcjonariuszowi Straży Marszałkowskiej – ojcu dziecka, wysokości 81,5% uposażenia, o którym mowa art. 85.
 
-5. W przypadku złożenia wniosku, o którym mowa ust. 3, funkcjonariusz Straży Marszałkowskiej kobieta może dzielić się z funkcjonariuszem Straży Marszałkowskiej ojcem dziecka korzystaniem z uposażenia za okres odpowiadający okresowi urlopu rodzicielskiego albo jego części, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy. Przepis stosuje się odpowiednio do wniosku, o którym mowa ust. 4.
+4. Funkcjonariusz Straży Marszałkowskiej, nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania sprawie przysposobienia dziecka albo po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, może złożyć pisemny wniosek o wypłacenie mu uposażenia za okres odpowiadający okresowi urlopu na warunkach urlopu macierzyńskiego i urlopu rodzicielskiego pełnym wymiarze, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy, przysługującego funkcjonariuszowi Straży Marszałkowskiej – drugiemu rodzicowi dziecka, wysokości 81,5% uposażenia, o którym mowa art. 85.
 
-6. Uposażenie za okres odpowiadający okresowi urlopu rodzicielskiego części przysługującej funkcjonariuszowi Straży Marszałkowskiej ojcu dziecka, o której mowa art. 182 § 4 Kodeksu pracy, wynosi 70% uposażenia, o którym mowa art. 85.
+5. W przypadku złożenia wniosku, o którym mowa ust. 3, funkcjonariusz Straży Marszałkowskiej – kobieta może dzielić się z funkcjonariuszem Straży Marszałkowskiej – ojcem dziecka korzystaniem z uposażenia za okres odpowiadający okresowi urlopu rodzicielskiego albo jego części, z wyłączeniem okresu, o którym mowa art. 182 § 4 Kodeksu pracy. Przepis stosuje się odpowiednio do wniosku, o którym mowa ust. 4.
 
-7. W przypadku niewykorzystania przez funkcjonariusza Straży Marszałkowskiej ani jednego dnia urlopu rodzicielskiego pierwszym roku życia dziecka uposażenie za okres urlopu rodzicielskiego przysługuje wysokości 70% miesięcznego uposażenia, o którym mowa art. 85.
+6. Uposażenie za okres odpowiadający okresowi urlopu rodzicielskiego części przysługującej funkcjonariuszowi Straży Marszałkowskiej – ojcu dziecka, o której mowa art. 182 § 4 Kodeksu pracy, wynosi 70% uposażenia, o którym mowa art. 85. cielskiego pierwszym roku życia dziecka uposażenie za okres urlopu rodzicielskiego przysługuje wysokości 70% miesięcznego uposażenia, o którym mowa art. 85.
 
 8. W przypadku niewykorzystania przez funkcjonariusza Straży Marszałkowskiej ani jednego dnia urlopu rodzicielskiego pierwszym roku życia dziecka, funkcjonariuszowi Straży Marszałkowskiej przysługuje jednorazowe wyrównanie pobranego uposażenia za okres urlopu macierzyńskiego do wysokości 100% miesięcznego uposażenia, o którym mowa art. 85.
 
@@ -307,19 +244,20 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 - **49)** po art. 87 dodaje się art. 87a brzmieniu: „Art. 87a. 1. Za wypadek drodze do miejsca pełnienia służby lub drodze powrotnej ze służby, zwany dalej „wypadkiem”, uważa się nagłe zdarzenie wywołane przyczyną zewnętrzną, powodujące uraz, które nastąpiło drodze do miejsca pełnienia służby lub drodze powrotnej z miejsca pełnienia służby, jeżeli droga ta była najkrótsza i nie została przerwana. Jednakże uważa się, że wypadek nastąpił drodze do miejsca pełnienia służby lub drodze powrotnej z miejsca pełnienia służby, mimo że droga została przerwana, jeśli przerwa była życiowo uzasadniona i jej czas nie przekraczał granic potrzeby, a także wówczas, gdy droga, nie będąc drogą najkrótszą, była dla funkcjonariusza Straży Marszałkowskiej, ze względów organizacyjnych, najdogodniejsza.
 
-2. Za drogę do miejsca pełnienia służby lub drogę powrotną z miejsca pełnienia służby uważa się drogę z miejsca lub do miejsca zamieszkania funkcjonariusza Straży Marszałkowskiej. niach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032).
+2. Za drogę do miejsca pełnienia służby lub drogę powrotną z miejsca pełnienia służby uważa się drogę z miejsca lub do miejsca zamieszkania funkcjonariusza Straży Marszałkowskiej.
+
+3. Przez uraz należy rozumieć uraz, o którym mowa art. 3 ust. 2 ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032).
 
 4. Uznania albo odmowy uznania zdarzenia za wypadek, po ustaleniu okoliczności i przyczyn zdarzenia, dokonuje przełożony.
 
 5. Ustalenie okoliczności i przyczyn zdarzenia oraz uznanie albo odmowę uznania zdarzenia za wypadek dokumentuje się karcie wypadku.
 
-6. W przypadku odmowy uznania zdarzenia za wypadek przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych na zasadach i terminach określonych przepisach ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ).
+6. W przypadku odmowy uznania zdarzenia za wypadek przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych na zasadach i terminach określonych przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ).
 
-7. Marszałek Sejmu określi, drodze zarządzenia, tryb i sposób ustalania przyczyn i okoliczności zdarzeń, o których mowa ust. 1, oraz informowania o zaistnieniu zdarzenia, a także wzór karty wypadku.”;
+7. Marszałek określi, drodze zarządzenia, tryb i sposób ustalania przyczyn i okoliczności zdarzeń, o których mowa ust. 1, oraz informowania o zaistnieniu zdarzenia, a także wzór karty wypadku.”;
 
-- **50)** art. 89 ust. 1 wyrazy „komórce organizacyjnej Kancelarii Sejmu właściwej sprawach osobowych” zastępuje się wyrazem „przełożonemu”;
-- **51)** art. 90:
-    - **a)** ust. 2 pkt 2 wyrazy „Szef Kancelarii Sejmu lub upoważniony przez niego funkcjonariusz Straży Marszałkowskiej” zastępuje się wyrazem „przełożony”,
+- **50)** art. 89 ust. 1 wyrazy „komórce organizacyjnej Kancelarii właściwej sprawach osobowych” zastępuje się wyrazem „przełożonemu”;
+    - **a)** ust. 2 pkt 2 wyrazy „Szef Kancelarii lub upoważniony przez niego funkcjonariusz Straży Marszałkowskiej” zastępuje się wyrazem „przełożony”,
     - **b)** uchyla się ust. 13;
 
 - **52)** po art. 93 dodaje się art. 93a brzmieniu: „Art. 93a. 1. Uposażenie wypłaca się funkcjonariuszowi Straży Marszałkowskiej terminach miesięcznych z góry pierwszym dniu roboczym każdego miesiąca, za który przysługuje uposażenie.
@@ -338,7 +276,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 - **1)** zwolnienia ze służby,
 - **2)** przeniesienia na niższe stanowisko służbowe,
-- **3)** zawieszenia czynnościach służbowych rozstrzyga formie decyzji Szef Kancelarii Sejmu.
+- **3)** zawieszenia czynnościach służbowych – rozstrzyga formie decyzji Szef Kancelarii Sejmu.
 
 2. Od decyzji, o których mowa ust. 1, funkcjonariuszowi Straży Marszałkowskiej przysługuje wniosek o ponowne rozpatrzenie sprawy przez Szefa Kancelarii Sejmu.
 
@@ -349,20 +287,19 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 1. Sprawy wynikające z podległości służbowej, dotyczące:
 
 - **1)** powoływania oraz mianowania na stanowiska służbowe,
-- **2)** odwoływania i zwalniania ze stanowisk służbowych oraz przenoszenia do dyspozycji, Marszałkowskiej,
-- **4)** powierzania obowiązków służbowych na innym stanowisku służbowym rozstrzyga się formie rozkazu personalnego.
+- **2)** odwoływania i zwalniania ze stanowisk służbowych oraz przenoszenia do dyspozycji,
+- **3)** nadawania stopni Straży Marszałkowskiej, a także obniżania, pozbawiania oraz przywracania stopnia Straży Marszałkowskiej,
+- **4)** powierzania obowiązków służbowych na innym stanowisku służbowym – rozstrzyga się formie rozkazu personalnego.
 
 2. Rozkaz personalny jest wykonalny z dniem nim określonym. Od rozkazu personalnego odwołanie nie przysługuje.
 
 **Art. 99c.** Sprawy ze stosunku służbowego niewymienione art. 99a ust. 1 i art. 99b ust. 1 rozstrzyga się formie pisemnej. Spory o roszczenia ze stosunku służbowego funkcjonariuszy Straży Marszałkowskiej tych sprawach rozpatruje sąd właściwy sprawach z zakresu prawa pracy.
 
-**Art. 99d.** Funkcjonariusz Straży Marszałkowskiej po zakończeniu urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego, urlopu ojcowskiego, urlopu opiekuńczego lub urlopu wychowawczego pełni służbę na dotychczasowym stanowisku służbowym, a jeżeli nie jest to możliwe na stanowisku równorzędnym z zajmowanym przed rozpoczęciem urlopu, na warunkach nie mniej korzystnych od tych, które by obowiązywały, gdyby ten funkcjonariusz nie korzystał z urlopu.
+**Art. 99d.** Funkcjonariusz Straży Marszałkowskiej po zakończeniu urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego, urlopu ojcowskiego, urlopu opiekuńczego lub urlopu wychowawczego pełni służbę na dotychczasowym stanowisku służbowym, a jeżeli nie jest to możliwe – na stanowisku równorzędnym z zajmowanym przed rozpoczęciem urlopu, na warunkach nie mniej korzystnych od tych, które by obowiązywały, gdyby ten funkcjonariusz nie korzystał z urlopu.
 
 **Art. 99e.**
 
-1. Skorzystanie przez funkcjonariusza Straży Marszałkowskiej z uprawnień przysługujących na podstawie przepisów ustawy nie może być podstawą jakiegokolwiek niekorzystnego traktowania tego funkcjonariusza, a także nie może powodować jakichkolwiek negatywnych konsekwencji dla tego funkcjonariusza.
-
-2. Przepis ust. 1 stosuje się odpowiednio do funkcjonariusza Straży Marszałkowskiej, który udzielił jakiejkolwiek formie wsparcia funkcjonariuszowi Straży Marszałkowskiej korzystającemu z uprawnień przysługujących na podstawie przepisów ustawy.
+1. Skorzystanie przez funkcjonariusza Straży Marszałkowskiej z uprawnień przysługujących na podstawie przepisów ustawy nie może być podstawą jakiegokolwiek niekorzystnego traktowania tego funkcjonariusza, a także nie może powodować jakichkolwiek negatywnych konsekwencji dla tego funkcjonariusza. podstawie przepisów ustawy.
 
 3. Funkcjonariusz Straży Marszałkowskiej, o którym mowa ust. 1 i 2, którego prawa zostały naruszone przez przełożonego, ma prawo do odszkodowania wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.
 
@@ -373,7 +310,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 - **1)** ostatecznego orzeczenia komisji lekarskiej o trwałej niezdolności do służby,
 - **2)** prawomocnego wyroku skazującego lub prawomocnego orzeczenia o warunkowym umorzeniu postępowania karnego o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe i wydanie prawomocnego wyroku uniewinniającego albo prawomocnego orzeczenia o umorzeniu tych postępowań,
 - **3)** prawomocnego orzeczenia o wymierzeniu kary dyscyplinarnej wydalenia ze służby,
-- **4)** ostatecznej decyzji o zwolnieniu ze służby Straży Marszałkowskiej lub stwierdzenie jej nieważności stanowi podstawę do wszczęcia postępowania kwalifikacyjnego, o którym mowa art. 18; postępowanie kwalifikacyjne wszczyna się na wniosek funkcjonariusza Straży Marszałkowskiej zwolnionego ze służby.
+- **4)** ostatecznej decyzji o zwolnieniu ze służby Straży Marszałkowskiej lub stwierdzenie jej nieważności – stanowi podstawę do wszczęcia postępowania kwalifikacyjnego, o którym mowa art. 18; postępowanie kwalifikacyjne wszczyna się na wniosek funkcjonariusza Straży Marszałkowskiej zwolnionego ze służby.
 
 2. W wyjątkowych przypadkach, uzasadnionych szczególnymi okolicznościami sprawy, można odstąpić od przeprowadzenia postępowania kwalifikacyjnego lub przeprowadzić je ograniczonym zakresie.
 
@@ -389,19 +326,23 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 99h.**
 
-1. Funkcjonariuszowi Straży Marszałkowskiej, z którym ponownie nawiązano stosunek służbowy albo wobec którego wydano decyzję, o której mowa art. 99g ust. 4, przysługuje za okres pozostawania poza służbą świadczenie pieniężne równe uposażeniu na stanowisku służbowym zajmowanym bezpośrednio przed ustaniem stosunku służbowego, nie więcej jednak niż za okres 6 miesięcy i nie mniej niż za 1 miesiąc. emerytalno-rentowe, wypłaca się mu kwotę stanowiącą różnicę między należnym świadczeniem pieniężnym równym uposażeniu na stanowisku służbowym zajmowanym bezpośrednio przed ustaniem stosunku służbowego a wypłaconym świadczeniem emerytalno-rentowym.
+1. Funkcjonariuszowi Straży Marszałkowskiej, z którym ponownie nawiązano stosunek służbowy albo wobec którego wydano decyzję, o której mowa art. 99g ust. 4, przysługuje za okres pozostawania poza służbą świadczenie pieniężne równe uposażeniu na stanowisku służbowym zajmowanym bezpośrednio przed ustaniem stosunku służbowego, nie więcej jednak niż za okres 6 miesięcy i nie mniej niż za 1 miesiąc.
+
+2. Jeżeli okresie pozostawania poza służbą funkcjonariusz Straży Marszałkowskiej otrzymywał świadczenie emerytalno-rentowe, wypłaca się mu kwotę stanowiącą różnicę między należnym świadczeniem pieniężnym równym uposażeniu na stanowisku służbowym zajmowanym bezpośrednio przed ustaniem stosunku służbowego a wypłaconym świadczeniem emerytalno-rentowym.
 
 3. Okres pozostawania poza służbą, za który przyznano świadczenia określone ust. 1 oraz 2, traktuje się na równi ze służbą zakresie wszystkich uprawnień uzależnionych od stażu służby.
 
 **Art. 99i.** Świadczenie pieniężne, o którym mowa art. 99h ust. 1 oraz 2, wypłaca się terminie 14 dni od dnia złożenia przez funkcjonariusza Straży Marszałkowskiej wniosku tej sprawie wraz z dokumentem potwierdzającym uchylenie lub stwierdzenie nieważności decyzji o zwolnieniu ze służby Straży Marszałkowskiej.”;
 
-**Art. 20.** W ustawie z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221) wprowadza się następujące zmiany:
+**Art. 20.** W ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221) wprowadza się następujące zmiany:
 
-**Art. 21.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347) wprowadza się następujące zmiany:
+**Art. 22.**
+
+1. W przypadku umów o pracę trwających dniu wejścia życie niniejszej ustawy pracodawca, na wniosek pracownika złożony postaci papierowej lub elektronicznej, uzupełnia informacje, o których mowa art. 29 § 3 ustawy zmienianej art. 1 brzmieniu dotychczasowym, o informacje, o których mowa art. 29 § 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, terminie 3 miesięcy od dnia złożenia wniosku.
+
+2. W przypadku umów o pracę na czas określony trwających dniu wejścia życie niniejszej ustawy pracodawca użytkownik, na wniosek agencji pracy tymczasowej złożony na piśmie, przekazuje informacje, o których mowa art. 11c ustawy zmienianej art. 13, terminie 2 miesięcy od dnia złożenia wniosku.
 
 **Art. 23.** W przypadku umów o pracę trwających dniu wejścia życie niniejszej ustawy pracodawca, na wniosek pracownika złożony postaci papierowej lub elektronicznej, uzupełnia informacje, o których mowa art. 29 § 2 ustawy zmienianej art. 1 brzmieniu dotychczasowym, o informacje, o których mowa art. 29 § 2 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, terminie 3 miesięcy od dnia złożenia wniosku.
-
-**Art. 24.** Do umów o pracę na czas określony trwających dniu wejścia życie niniejszej ustawy, które przed tym dniem zostały wypowiedziane, stosuje się przepisy dotychczasowe.
 
 **Art. 25.** Do postępowań dotyczących odwołania od wypowiedzenia umowy o pracę na czas określony stosuje się przepisy dotychczasowe, jeżeli umowy te zostały wypowiedziane przed dniem wejścia życie niniejszej ustawy.
 
@@ -429,15 +370,17 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 1. Do pracownika, który przed dniem wejścia życie niniejszej ustawy złożył wniosek o udzielenie urlopu rodzicielskiego albo jego części zgodnie z art. 182 albo art. 183 § 4–4 ustawy zmienianej art. 1 brzmieniu dotychczasowym, ale nie rozpoczął korzystania z tego urlopu dniu wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 1 dotyczące urlopu rodzicielskiego brzmieniu nadanym niniejszą ustawą. Pracodawca niezwłocznie zwraca pracownikowi wniosek celu jego zmiany i ponownego złożenia pracodawcy terminie 7 dni; termin złożenia wniosku zostaje zachowany.
 
-2. Jeżeli pracownik nie złoży ponownie wniosku, o którym mowa ust. 1, korzysta z urlopu zgodnie z wnioskiem złożonym przed dniem wejścia życie niniejszej ustawy. o którym mowa art. 182 § 3 ustawy zmienianej art. 1 brzmieniu dotychczasowym, lub korzysta z tego urlopu, ma prawo do skorzystania z tego urlopu wymiarze określonym art. 182 § 1 albo 2 albo art. 183 § 4–4 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, na zasadach określonych przepisach dotychczasowych.
+2. Jeżeli pracownik nie złoży ponownie wniosku, o którym mowa ust. 1, korzysta z urlopu zgodnie z wnioskiem złożonym przed dniem wejścia życie niniejszej ustawy.
+
+**Art. 32.**
+
+1. Pracownik, który dniu wejścia życie niniejszej ustawy jest uprawniony do urlopu rodzicielskiego, o którym mowa art. 182 § 3 ustawy zmienianej art. 1 brzmieniu dotychczasowym, lub korzysta z tego urlopu, ma prawo do skorzystania z tego urlopu wymiarze określonym art. 182 § 1 albo 2 albo art. 183 § 4–4 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, na zasadach określonych przepisach dotychczasowych.
 
 2. Do pracownika, o którym mowa ust. 1, stosuje się art. 182 § 4 i 5 oraz art. 182 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
 **Art. 33.**
 
-1. Do pracownika, który dniu wejścia życie niniejszej ustawy jest uprawniony do urlopu na warunkach urlopu macierzyńskiego, o którym mowa art. 183 § 1 ustawy zmienianej art. 1, stosuje się art. 183 § 6 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
-
-2. W przypadkach, o których mowa ust. 1, urlop na warunkach urlopu macierzyńskiego jest udzielany na pisemny wniosek pracownika składany terminie 21 dni od dnia wejścia życie niniejszej ustawy. Urlop jest udzielany terminie określonym we wniosku pracownika, jednak nie dłuższym niż 35 dni od dnia wejścia życie niniejszej ustawy.
+1. Do pracownika, który dniu wejścia życie niniejszej ustawy jest uprawniony do urlopu na warunkach urlopu macierzyńskiego, o którym mowa art. 183 § 1 ustawy zmienianej art. 1, stosuje się art. 183 § 6 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą. określonym we wniosku pracownika, jednak nie dłuższym niż 35 dni od dnia wejścia życie niniejszej ustawy.
 
 **Art. 34.**
 
@@ -449,13 +392,13 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 35.**
 
-1. Pracownik rodzic dziecka posiadającego zaświadczenie, o którym mowa art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet ciąży i rodzin „Za życiem” (Dz. U. z 2020 r. poz. 1329 oraz z 2022 r. poz. 2140), który okresie od dnia 2 sierpnia 2022 r. do dnia wejścia życie niniejszej ustawy miał prawo do urlopu rodzicielskiego albo jego części lub korzystał z urlopu rodzicielskiego albo jego części udzielonego na podstawie przepisów ustawy zmienianej art. 1 brzmieniu dotychczasowym, ma prawo do skorzystania z części urlopu rodzicielskiego wymiarze różnicy między wymiarem urlopu rodzicielskiego określonym art. 182 § 2 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, a wymiarem urlopu określonym art. 182 § 1 ustawy zmienianej art. 1 brzmieniu dotychczasowym.
+1. Pracownik – rodzic dziecka posiadającego zaświadczenie, o którym mowa art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet ciąży i rodzin „Za życiem” (Dz. U. z 2020 r. poz. 1329 oraz z 2022 r. poz. 2140), który okresie od dnia 2 sierpnia 2022 r. do dnia wejścia życie niniejszej ustawy miał prawo do urlopu rodzicielskiego albo jego części lub korzystał z urlopu rodzicielskiego albo jego części udzielonego na podstawie przepisów ustawy zmienianej art. 1 brzmieniu dotychczasowym, ma prawo do skorzystania z części urlopu rodzicielskiego wymiarze różnicy między wymiarem urlopu rodzicielskiego określonym art. 182 § 2 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, a wymiarem urlopu określonym art. 182 § 1 ustawy zmienianej art. 1 brzmieniu dotychczasowym.
 
 2. Części urlopu rodzicielskiego, o której mowa ust. 1, udziela się na zasadach określonych przepisach ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
 3. Przepisy ust. 1 i 2 stosuje się odpowiednio do pracownika, który okresie od dnia 2 sierpnia 2022 r. do dnia wejścia życie niniejszej ustawy korzystał z urlopu rodzicielskiego albo jego części lub był uprawniony do urlopu rodzicielskiego, na podstawie art. 183 ustawy zmienianej art. 1 brzmieniu dotychczasowym.
 
-**Art. 36.** Pracownik ojciec wychowujący dziecko dniu wejścia życie niniejszej ustawy ma prawo do urlopu ojcowskiego na zasadach określonych przepisach dotychczasowych, nie dłużej jednak niż do ukończenia przez dziecko:
+**Art. 36.** Pracownik – ojciec wychowujący dziecko dniu wejścia życie niniejszej ustawy ma prawo do urlopu ojcowskiego na zasadach określonych przepisach dotychczasowych, nie dłużej jednak niż do ukończenia przez dziecko:
 
 **Art. 37.** W przypadku umów o pracę trwających dniu wejścia życie niniejszej ustawy pracodawca delegujący pracownika z terytorium Rzeczypospolitej Polskiej na okres przekraczający 4 kolejne tygodnie, na wniosek pracownika złożony postaci papierowej lub elektronicznej, przekazuje informacje, o których mowa art. 25c ustawy zmienianej art. 16, terminie 3 miesięcy od dnia złożenia wniosku.
 
@@ -463,7 +406,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 39.**
 
-1. Ubezpieczony, który dniu wejścia życie niniejszej ustawy pobiera zasiłek macierzyński za okres ustalony przepisami ustawy zmienianej art. 1 jako okres urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub urlopu rodzicielskiego, ma prawo do zasiłku macierzyńskiego wysokości określonej ustawie zmienianej art. 11 brzmieniu nadanym niniejszą ustawą. niniejszej ustawy.
+1. Ubezpieczony, który dniu wejścia życie niniejszej ustawy pobiera zasiłek macierzyński za okres ustalony przepisami ustawy zmienianej art. 1 jako okres urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub urlopu rodzicielskiego, ma prawo do zasiłku macierzyńskiego wysokości określonej ustawie zmienianej art. 11 brzmieniu nadanym niniejszą ustawą.
+
+2. W celu ustalenia nowej wysokości zasiłku ubezpieczony składa wniosek terminie 21 dni od dnia wejścia życie niniejszej ustawy.
 
 3. Zasiłek macierzyński zmienionej wysokości przysługuje przez okres od dnia wejścia życie niniejszej ustawy do końca okresu odpowiadającego okresowi urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub urlopu rodzicielskiego.
 
@@ -471,7 +416,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 40.**
 
-1. Do ubezpieczonego, który przed dniem wejścia życie niniejszej ustawy złożył wniosek o zasiłek macierzyński za okres ustalony przepisami ustawy zmienianej art. 1 jako okres urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub urlopu rodzicielskiego, ale nie rozpoczął pobierania tego zasiłku dniu wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 11 brzmieniu nadanym niniejszą ustawą.
+1. Do ubezpieczonego, który przed dniem wejścia życie niniejszej ustawy złożył wniosek o zasiłek macierzyński za okres ustalony przepisami ustawy zmienianej art. 1 jako okres urlopu macierzyńskiego, urlopu na warunkach
 
 2. W celu ustalenia prawa do zasiłku na podstawie ustawy zmienianej art. 11 brzmieniu nadanym niniejszą ustawą ubezpieczony składa ponownie wniosek terminie 21 dni od dnia wejścia życie niniejszej ustawy.
 
@@ -495,5 +440,5 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 45.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 24 ust. 12, art. 43, art. 67 ust. 14 i 16 oraz art. 140 ustawy zmienianej art. 19 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 24 ust. 12, art. 43, art. 67 ust. 18 oraz art. 140 ustawy zmienianej art. 19 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 18 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 46.** Ustawa wchodzi życie po upływie 21 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 46.** Ustawa wchodzi życie po upływie 21 dni od dnia ogłoszenia.
 

@@ -8,9 +8,12 @@ pos: 471
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# zobowiązań Skarbu Państwa wformie obligacji Skarbu Państwa jest obowiązany właściwemu wojewodzie, występującemu wimieniu Skarbu Państwa na zasadzie przepisu art. 3 6 ustawy rewindykacyjnej:
+# o rolniczych badaniach Ustawa reguluje sposób prowadzenia rolniczych badań polegających na zbieraniu i opracowywaniu informacji o poziomie cen i wielkości obrotu artykułami rolno-spożywczymi niezależnie od miejsca jego prowadzenia, związanych z danym przedsiębiorcą.
+
+*USTAWA z dnia 30 marca 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,57 +27,41 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010420471) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/471/text.pdf) |
 
-1) zgłosić kwoty zobowiązań podlegających kompensowaniu wtej formie:
-a) terminie 45 dni od dnia wejścia życie ustawy przypadku zobowiązań wynikających zorzeczeń wydanych dnia 31 grudnia 2000 r.,
-b) terminie dnia 15 lutego 2002 r. przypadku zobowiązań wynikających zorzeczeń wydanych od dnia 1 stycznia 2001 r. dnia 31grudnia 2001 r.,
-2) wskazać rachunek papierów wartościowych otwarty ramach umowy świadczeniu usług brokerskich, na który mają zostać przekazane obligacje Skarbu Państwa.
-3. Wprzypadku niedopełnienia obowiązków, októrych mowa 2, stosuje się odpowiednio art. 3 niach Społecznej Komisji Rewindykacyjnej, które uprawomocniły się dnia 31 grudnia 2000 r.,
-2) dnia 30 kwietnia 2002 r. przypadku zobowiązań ustalonych orzeczeniach Społecznej Komisji Rewindykacyjnej, które uprawomocniły się terminie od dnia 1 stycznia 2001 r. dnia 31grudnia 2001 r.
-2. Pozostałe emisji obligacji zostaną określone przez ministra właściwego spraw finansów publicznych wliście emisyjnym.
-3. Podmiotowi uprawnionemu na mocy ustawy otrzymania kompensaty wformie obligacji przysługują obligacje liczbie ustalonej sposób określony wliście emisyjnym, zaokrąglonej wyłącznie wgórę pełnej liczby obligacji.
-4. W sprawach kompensowania zobowiązań Skarbu Państwa zakresie uregulowanym niniejszą ustawą nie stosuje się przepisów ustawy rewindyka2 ustawy rewindykacyjnej. cyjnej, chyba że przepisy niniejszej ustawy tak stanowią.
-4. Właściwi wojewodowie, terminie 14 dni od dnia wejścia wżycie ustawy, informują organizacje wy- 5. Ustawa wchodzi życie po upływie 14 dni mienione worzeczeniach Społecznej Komisji Rewindy- od dnia ogłoszenia.
-kacyjnej, atakże inne znane im podmioty uprawnione, których mowa 1, obowiązkach określonych Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
-USTAWA zdnia 30 marca 2001 r.
-orolniczych badaniach rynkowych.
-1.Ustawa reguluje sposób prowadzenia rolniczych badań rynkowych polegających na zbieraniu iopracowywaniu informacji opoziomie cen iwielkości obrotu artykułami rolno-spożywczymi niezależnie od miejsca jego prowadzenia, związanych zdanym przedsiębiorcą.
-2. Użyte wustawie określenia oznaczają:
-1) artykuły rolno-spożywcze produkty rolne po2) dane informacje opoziomie cen iwielkości obrotu artykułami rolno-spożywczymi niezależnie od miejsca jego prowadzenia, związanych zprzedsiębiorcą,
-3)przedsiębiorca przedsiębiorcę rozumieniu ustawy zdnia 19 listopada 1999 r. Prawo działalności gospodarczej (Dz. U. 101, poz. 1178 oraz z2000 r. 86, poz. 958 iNr 114, poz. 1193), atakże osoby fizyczne lub prawne prowadzące działal3) tworzenie zarządzanie elektroniczną bazą danych obejmującą dane oraz ich zabezpieczanie,
-4) przetwarzanie oraz analiza danych rynkowych,
-5) udostępnianie irozpowszechnianie wyników rolniczych badań rynkowych,
-6) szkolenie wzakresie rolniczych badań rynkowych.
-4. Przedsiębiorcy sprzedający lub kupujący artykuły rolno-spożywcze, domy maklerskie, domy składowe oraz przedsiębiorcy prowadzący giełdy towarowe są obowiązani nieodpłatnego przekazywania danych rynkowych, jeżeli:
-1) są objęci zakresem zbierania danych rynkowych określonym rozporządzeniu, którym mowa wart. 9,
-2) zostali zawiadomieni przez ministra właściwego spraw rynków rolnych.
-2. Wybór giełdy towarowej, domu maklerskiego, domu składowego oraz innego przedsiębiorcy sprzedającego lub kupującego artykuły rolno-spożywcze nieodpłatnego przekazywania danych rynkowych następuje wdrodze losowania lub doboru celowego spośród przedsiębiorców spełniających warunki, októrych mowa wart. 9
-3. Zawiadomienie, którym mowa 1 pkt 2, zawiera informacje ozakresie, formie iterminach przekazywania danych rynkowych.
-5. Wyniki rolniczych badań rynkowych są jawne.
-2. Wyniki rolniczych badań rynkowych są udostępniane irozpowszechniane wszczególności przez:
-1) wydawanie biuletynów informacyjnych lub
-2) zamieszczanie ich na stronie internetowej ministerstwa obsługującego urząd ministra właściwego spraw rynków rolnych.
-6. Dane mogą być wykorzystywane tylko wcelu wykonania ustawy.
-2. Dane osobowe przedsiębiorcy są chronione na zasadach określonych wprzepisach oochronie danych osobowych.
-7. Minister właściwy spraw rynków rolnych może zlecić zbieranie danych rynkowych podich zbierania, przetwarzania iprzekazywania.
-8. Minister właściwy spraw rynków rolnych może kontrolować prawidłowość przekazywanych danych rynkowych przez przedsiębiorców, októrych mowa wart. 4 1, wzakresie ich rzetelności.
-2. Wramach kontroli, októrej mowa wust. 1, osoba upoważniona przez ministra właściwego spraw rynków rolnych ma prawo:
-1) wstępu pomieszczeń kontrolowanego godzinach od 7 21 ,
-2) żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli, tym informacji wielkości produkcji artykułów rolno-spożywczych, odniesieniu których są zbierane dane rynkowe, jeżeli kontrolowany prowadzi produkcję tych artykułów.
-3. Na żądanie osoby przeprowadzającej kontrolę kontrolowany jest obowiązany umożliwienia przeprowadzenia kontroli, awszczególności umożliwienia sporządzania przez osobę przeprowadzającą kontrolę notatek z udostępnionych dokumentów innych nośników informacji oraz udzielania pisemnych lub ustnych wyjaśnień wsprawach objętych kontrolą.
-4. Przed przystąpieniem kontroli osoba przeprowadzająca kontrolę jest obowiązana okazać kontrolowanemu upoważnienie ministra właściwego spraw rynków rolnych.
-5. Upoważnienie, którym mowa 4, zawiera: datę wydania, okres ważności, oznaczenie organu, który je wydał, powołanie podstawy prawnej, imię, nazwisko oraz stanowisko służbowe osoby upoważnionej, oznaczenie kontrolowanego, zakres upoważnienia, podpis ministra właściwego spraw rynków rolnych oraz pieczęć urzędową.
-6. Osoba przeprowadzająca kontrolę przedstawia wyniki kontroli protokole kontroli sporządzonym wdwóch egzemplarzach, zktórych jeden jest przekazywany kontrolowanemu za pokwitowaniem.
-7. Kontrolowany ma prawo pisemnego zgłoszenia ministrowi właściwemu spraw rynków rolnych zastrzeżeń dotyczących wyników kontroli zawartych wprotokole, októrym mowa wust. 6, wterminie 14 dni od dnia jego otrzymania. Wrazie nieuwzględnienia zastrzeżeń wcałości albo wczęści, minister właściwy spraw rynków rolnych przekazuje na piśmie swoje staże określać, drodze rozporządzenia, wzory formula- objętych kontrolą rzy zbierania danych rynkowych, zuwzględnieniem podlega karze grzywny.
-zakresu zbierania danych rynkowych.
-11. Orzekanie sprawach czyny wymienio10. Kto: ne art. 10 następuje na podstawie przepisów po1) ujawnia lub wsposób niezgodny zustawą wykorzy- stępowaniu wsprawach owykroczenia.
-stuje dane rynkowe, z którymi zapoznał się 12. Ustawa wchodzi wżycie zdniem 1 stycznia wzwiązku zwykonywaniem pracy lub czynności na 2002 r.
-zlecenie prowadzącego rolnicze badania rynkowe,
-2) będąc obowiązanym nieodpłatnego przekazywania danych rynkowych nie przekazuje lub wbrew obowiązkowi określonemu wustawie prze- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 472
-USTAWA zdnia 30 marca 2001 r.
-ozmianie ustawy oadministrowaniu obrotem zzagranicą towarami iusługami.
-1.Wustawie zdnia 11 grudnia 1997 r. oadmini- 2.Ustawa wchodzi wżycie po upływie 14 dni strowaniu obrotem z zagranicą towarami usługami od dnia ogłoszenia.
-(Dz. U. 157, poz. 1026, z 1999 r. 55, poz. 587 101, poz. 1178, z 2000 r. 119, poz. 1250 oraz z 2001r. 29, poz. 320) wart. 9 wust. 1 skreśla się pkt Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 473
-USTAWA zdnia 30 marca 2001 r.
-okosmetykach.
-Ustawa określa, zakresie niezbędnym 2) środkach farmaceutycznych, materiałach medyczdla zapewnienia bezpieczeństwa zdrowia ludzi, wyma- nych, aptekach, hurtowniach iInspekcji Farmaceugania dotyczące składu, oznakowania kosmetyków tycznej.
+Użyte ustawie określenia oznaczają:
+1) artykuły rolno-spożywcze – produkty rolne postaci surowców, półproduktów, wyrobów gotowych otrzymywanych z tych surowców i półproduktów, tym środki spożywcze, a także zwierzęta gospodarskie oraz ryby;
+dane – informacje o poziomie cen i wielkości obrotu artykułami rolno-spożywczymi niezależnie od miejsca jego prowadzenia, związanych z przedsiębiorcą;
+3) przedsiębiorca – przedsiębiorcę rozumieniu ustawy z dnia 19 listopada 1999 r.
+– Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm. ) , a także osoby fizyczne lub prawne prowadzące działalność wytwórczą rolnictwie upraw oraz chowu, hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa oraz rybactwa śródlądowego.
+1) opracowywanie metodologii rolniczych badań rynkowych;
+zbieranie rynkowych;
+3) tworzenie i zarządzanie elektroniczną bazą obejmującą dane oraz ich zabezpieczanie;
+4) przetwarzanie oraz analiza rynkowych;
+5) udostępnianie i rozpowszechnianie wyników rolniczych badań rynkowych;
+6) szkolenie rolniczych badań rynkowych.
+3. (uchylony)
+4. (uchylony)
+4. Przedsiębiorcy sprzedający lub kupujący artykuły rolno-spożywcze, domy maklerskie, domy składowe oraz przedsiębiorcy prowadzący giełdy towarowe są obowiązani nieodpłatnego przekazywania rynkowych, jeżeli:
+1) są objęci zakresem zbierania określonym rozporządzeniu, o którym mowa art. 9;
+zostali zawiadomieni przez ministra właściwego spraw rynków rolnych.
+Wybór giełdy towarowej, domu maklerskiego, domu składowego oraz innego przedsiębiorcy sprzedającego lub kupującego artykuły rolno-spożywcze nieodpłatnego przekazywania następuje drodze losowania lub doboru celowego spośród przedsiębiorców spełniających warunki, o których mowa art. 9 ust.
+3. Zawiadomienie, o którym mowa ust. 1 pkt 2, zawiera informacje o zakresie, formie i terminach przekazywania rynkowych.
+5. Wyniki rolniczych badań są jawne.
+Wyniki rolniczych badań są udostępniane i rozpowszechniane szczególności przez:
+1) wydawanie biuletynów informacyjnych lub zamieszczanie ich na stronie internetowej ministerstwa obsługującego urząd ministra właściwego spraw rynków rolnych.
+7. Minister właściwy spraw rynków może zlecić zbieranie podmiotom, które zapewnią niezbędne warunki zbierania tych danych, a szczególności posiadają warunki organizacyjne i techniczne umożliwiające zbieranie rynkowych.
+Zlecenie, o którym mowa ust. 1, określa szczególności:
+1) miejsce zbierania oraz ich zakres;
+termin i sposób zbierania rynkowych;
+3) termin i formę przekazywania ministrowi właściwemu spraw rynków rolnych;
+4) sposób zabezpieczenia podczas ich zbierania, przetwarzania i przekazywania.
+8. Kontrolę prawidłowości przekazywanych przez przedsiębiorców, o których mowa art. 4 ust. 1, prowadzi Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych.
+Kontrolę przeprowadza się zgodnie z przepisami o jakości handlowej artykułów rolno-spożywczych obowiązującymi tym zakresie.
+3. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych przekazuje ministrowi właściwemu spraw rynków kopię protokołu z kontroli terminie 7 dni od dnia podpisania tego protokołu.
+4. Minister właściwy spraw rynków określi, drodze rozporządzenia, przedsiębiorców i rodzaj artykułów rolno-spożywczych objętych kontrolą prawidłowości przekazywania rynkowych, a także częstotliwość przeprowadzania takiej kontroli, mając na względzie konieczność uzyskania informacji dotyczących wiarygodności przekazywanych oraz zapewnienie możliwości porównania ujętych dokumentach ze stanem faktycznym.
+9. Minister właściwy spraw rynków określi, drodze rozporządzenia, szczegółowy zakres zbieranych oraz sposób rozporządzenia, wzory formularzy zbierania rynkowych, z uwzględnieniem zakresu zbierania rynkowych.
+10. Kto:
+1) ujawnia lub sposób niezgodny z ustawą wykorzystuje dane rynkowe, z którymi zapoznał się związku z wykonywaniem pracy lub czynności na zlecenie prowadzącego rolnicze badania rynkowe, będąc obowiązanym nieodpłatnego przekazywania nie przekazuje lub wbrew obowiązkowi określonemu ustawie przekazuje dane niezgodne ze stanem faktycznym,
+3) będąc obowiązanym nieodpłatnego przekazywania uniemożliwia wykonanie kontroli prawidłowości przekazywania albo na żądanie osoby upoważnionej kontroli nie przekazuje informacji związanych z przedmiotem kontroli, szczególności nie udziela pisemnych lub ustnych wyjaśnień sprawach objętych kontrolą – podlega karze grzywny.
+11. Orzekanie sprawach o czyny wymienione art. 10 następuje na podstawie przepisów o postępowaniu sprawach o wykroczenia.
+12. Ustawa wchodzi życie z dniem 1 stycznia 2002 r.
 

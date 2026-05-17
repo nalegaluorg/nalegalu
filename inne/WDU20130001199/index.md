@@ -8,9 +8,12 @@ pos: 1199
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 października 2013 r.
+# zmieniająca ustawę o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej
+
+*USTAWA z dnia 13 września 2013 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +26,6 @@ domain: null
 | Data wydania | 2013-10-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1199/text.pdf) |
-
-Poz. 1199
-USTAWA z dnia 13 września 2013 r.
-zmieniająca ustawę o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej
 
 **Art. 1.** W ustawie z dnia 7 grudnia 2012 r. o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej (Dz. U. poz. 1456) wprowadza się następujące zmiany:
 
@@ -50,5 +49,5 @@ zmieniająca ustawę o zmianie niektórych ustaw w związku z realizacją ustawy
 
 2. Minister właściwy do spraw oświaty i wychowania oraz wojewodowie występują do ministra właściwego do spraw finansów publicznych o podział rezerwy celowej, o której mowa w ust. 1, nie później niż do dnia 15 listopada 2013 r.”.
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

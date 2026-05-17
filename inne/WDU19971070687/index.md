@@ -8,9 +8,10 @@ pos: 687
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# ter publicznej agencji prasowej, uzyskuje i przekazuje odbiorcom rzetelne, obiektywne i wszechstronne in formacje kraju i zagranicy.
+# dnia 31 lipca 1997 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,56 +25,52 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971070687) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/687/text.pdf) |
 
-2. Polska Agencja Prasowa ma upo stanowiska Sejmu, Senatu, Prezydenta Rzeczypospolitej Polskiej i Rady Ministrów.
-Polska Agencja Prasowa innym na czelnym organom prezentowanie stanowisk sprawach
-2. Polska Agencja Prasowa nie pod lub jakie gokolwiek ugrupowania ideologicznego, politycznego lub gospodarczego.
-3.1. Minister imieniu Skar bu - "Polska Agencja Prasowa Akcyjna", dalej
-2. jest miasto Warszawa.
-4. 1. Przychodami za serwisy informacyjne przekazywane odbiorcom oraz innych
-2. gospo nie pozostaje ona zada niami ustawie.
-3. Do dnia akcji osobom trzecim przychodami dotacje stwa.
-5. Do stosuje przepisy Kodeksu han dlowego, chyba ustawa stanowi inaczej.
-6.1. Minister ustala, imie niu statutu
-2. Statut akcyjny oraz go zapasowy.
-3. Do nie stosuje art. 312 i 313 Kodeksu handlowego.
-4. podejmowane utworze niem wolne od opiat i skarbo wych. Do za notarialne utworzeniem stosuje odpowiednio przepi sy o
-7. 1. Do czasu akcji osobom trze cim pozostaje przed cie ustawy.
-2. Przed stwa przeprowadzenie -finansowej i prawnej przepis art. 32 ustawy mercjalizacji i prywatyzacji wych (Dz.U. 118, poz.
-1997 r. 32, poz. 184, poz. 673).
-Akcje imienne.
-W Walnym Zgromadzeniu stwa reprezentuje Skarb prawa akcji taki do wykonywania wart. 1.
-5. Osobom trzecim 49% akcji, które nie na Walnym Zgromadzeniu.
-6. Rada Ministrów nia, termin przeprowadzenia we zasady
-8. 1.
-2.
-i Rada sów oddanych ków.
-3. W przypadku trzecim, Rada Nadzorcza dzie przed
-9. 1. Rada Nadzorcza, ne Zgromadzenie, liczy od
-2. Rada Nadzorcza wybiera Rady.
-3. W przypadku trzecim, Walne Zgromadzenie Rady Nadzorczej cji.
-10. 1. W skiej Agencji Prasowej S.A.
-czo-doradczy.
-2. Rada Programowa S.A., na wniosek zajmuje stanowiska oraz alizacji przez Polskiej Agencji Prasowej, chyba ustawa sta nowi inaczej.
-12. 1. Grunty Panstwa i dniu ustawy za Polskiej Agencji Prasowej mocy pra wa, przedmiotem wieczystego jej zarejestrowania.
-2. Budynki i inne oraz lokale na gruntach stwa i dniu ustawy za Polskiej Agencji Prasowej za rejestrowania mocy prawa, ki. Nabycie
-3. Nabycie prawa wieczystego grun tów, o których mowa ust. 1, oraz budyn ków, innych i lokali, o których mowa ust. 2, stwierdza wojewody.
-13. 1. Minister wniesie do wszelkie dzie Polskiej Agencji Prasowej, utworzonej dnia 28 lipca 1983 r. o Polskiej Agencji Prasowej (Dz. U. 44, poz. 202), po jej na podstawie bilansu Agencji Prasowej ustaje, mocy sania do rejestru
-3. Do pracowników mianowanych Prasowej stosuje przepis art.
-cy.
-4. Za Polskiej Agencji ze stosunków pracy, rejestrowania odpowiada
-15. 1. pierwszej na rok Minister Panstwa Prezesem Rady Ministrów.
-2. pierwszego ta Minister uzgodnieniu Rady Ministrów.
-16. Traci moc ustawa o Polskiej Agencji Prasowej (Oz.
-17. Ustawa wchodzi od dnia Prezydent Rzeczypospolitej Polskiej: 688
-USTAWA dnia 31 lipca 1997 r.
-o zmianie ustawy o wojskowej zawodowych oraz ustawy o szkolnictwie wojskowym.
-1. W ustawie dnia 30 czerwca 1970 r. o bie wojskowej zawodowych (Oz. U. 1997 r.
-10, poz. 55, 28, poz. 153 i 106, poz. 678) wpro wadza zmiany:
-1) wart. 7 ust. 1:
-a) pkt 3 przecinkiem,
-b) po pkt 3 dodaje pkt 4 brzmieniu: ,,4) ((modelu przebiegu oficera zawodo wego)), przez to wykaz typo wych, dla oficerów zawodowych, stanowisk o stopniach etatowych do stop nia (komandora) po podaniem wymaganych predyspozycji i wieku mowania tych stanowisk do 5 lat.";
-2) wart. 35:
-a) ust. 7 otrzymuje brzmienie: ,,7. zawodowego nowisko
-1) o stopniu etatowym ka (komandora) modelu przebiegu ra zawodowego,
-2) o stopniu etatowym - na 3 lata.",
+Polska Agencja Prasowa, mająca charakter publicznej agencji prasowej, uzyskuje przekazuje odbiorcom rzetelne, obiektywne wszechstronne informacje kraju zagranicy.
+2. Polska Agencja Prasowa ma obowiązek upowszechniać stanowiska Sejmu, Senatu, Prezydenta Rzeczypospolitej Rady Ministrów.
+3. Polska Agencja Prasowa umożliwia innym naczelnym organom państwa prezentowanie stanowisk ważnych sprawach państwowych.
+2. Polska Agencja Prasowa nie może znaleźć się pod prawną, ekonomiczną lub inną kontrolą jakiegokolwiek ugrupowania ideologicznego, politycznego lub gospodarczego.
+3. Minister Skarbu Państwa imieniu Skarbu Państwa przekształci Polską Agencję Prasową spółkę akcyjną Skarbu Państwa – „Polska Agencja Prasowa Spółka Akcyjna”, zwaną dalej „Spółką”.
+2. Siedzibą jest miasto Warszawa.
+4. Przychodami są wpływy opłat za serwisy informacyjne przekazywane odbiorcom oraz wpływy pochodzące innych źródeł.
+2. Spółka może prowadzić inną działalność gospodarczą, jeżeli nie pozostaje ona sprzeczności zadaniami określonymi ustawie.
+3. Przychodami są także dotacje podmiotowe budżetu państwa dofinansowanie działalności bieżącej Spółki, związanej realizacją celów, mowa
+4. Spółka składa ministra właściwego spraw kultury ochrony dziedzictwa narodowego wniosek udzielenie dotacji, wskazując szczegółowo zadania służące realizacji celów, mowa 1, kwotę dotacji, jaką wnosi Spółka, oraz szczegółowe uzasadnienie.
+określonych 1 oraz dla pozostałej działalności gospodarczej, tym prawidłowego przypisywania przychodów kosztów podstawie konsekwentnie stosowanych mających obiektywne uzasadnienie metod oraz
+2) jasnego określenia dokumentacji, której mowa 10 ustawy dnia 29 września 1994 r. rachunkowości (Dz. U. 2019 r. poz. 351), zasad prowadzenia odrębnej ewidencji oraz metod przypisywania kosztów przychodów, mowa pkt 1, oraz
+3) składania sprawozdań kwartalnych rocznych realizacji zadań objętych dotacją wykorzystania dotacji.
+7. Spółka przedstawia ministrowi właściwemu spraw kultury ochrony dziedzictwa narodowego rozliczenie otrzymanej dotacji.
+7a. Sprawozdania, mowa 6 pkt 3, rozliczenie, którym mowa udostępnia się także Radzie Mediów Narodowych.
+8. Minister właściwy spraw kultury ochrony dziedzictwa narodowego porozumieniu ministrem właściwym spraw finansów publicznych określi, drodze rozporządzenia, szczegółowy tryb przyznawania rozliczania dotacji, uwzględniając szczególności rzeczywiste koszty ponoszone przez Spółkę cele określone 1 zakres danych, które powinny być zawarte we wniosku udzielenie dotacji.
+5. Do stosuje się przepisy ustawy dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. 2019 r. poz. 505), chyba że ustawa stanowi inaczej.
+6. Zmiana statutu następuje wniosek lub za zgodą Rady Mediów Narodowych.
+2. Statut określa część kapitału własnego tworzącego kapitał zakładowy oraz część kapitału własnego tworzącego kapitał zapasowy.
+7. Skarb Państwa zachowuje wszystkie akcje Spółce.
+2. (uchylony) Mediów Narodowych.
+6. (uchylony)
+7. W przypadku przeniesienia całego majątku spółki powstałej wyniku komercjalizacji, zwanej dalej „spółką przejmowaną”, Spółkę osoby uprawnione nieodpłatnego nabycia od Skarbu Państwa udziałów albo akcji spółki przejmowanej, miejsce prawa nieodpłatnego nabycia udziałów albo akcji spółki przejmowanej, mogą skorzystać prawa nieodpłatnego nabycia akcji objętych przez Skarb Państwa wyniku przejęcia.
+8. Do nieodpłatnego nabycia akcji, którym mowa stosuje się odpowiednio przepisy działu IV ustawy dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników (Dz. U. 2018 r. poz. 2170 oraz 2019 r.
+poz. 492).
+9. Osobą uprawnioną nieodpłatnego nabycia akcji, którym mowa jest pracownik spółki przejmowanej, który spełnia warunki określone 2 pkt 5 ustawy dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników złożył oświadczenie zamiarze nabycia akcji podstawie 38 1 tej ustawy, albo jego spadkobierca, który złożył oświadczenie podstawie 38c 2 albo 3 tej ustawy.
+8. Zarząd liczy od 1 3 członków.
+2. Członków Zarządu, tym Prezesa Zarządu, powołuje odwołuje Rada Mediów Narodowych.
+3. (uchylony)
+9. Rada Nadzorcza, powoływana przez Radę Mediów Narodowych, liczy 3 członków.
+1a. (uchylony)
+2. Rada Nadzorcza wybiera ze swojego grona Przewodniczącego Rady.
+3. (uchylony) realizacji zadań przez Spółkę jej organy.
+3. Stanowiska opinie, mowa 2, są przedmiotem obrad Zarządu Spółki.
+4. Szczegółowe zasady powoływania odwoływania członków Rady Programowej S.A., liczbę jej członków oraz sposób tryb realizacji zadań, mowa 2, określa statut Spółki.
+11. Spółka wstępuje we wszelkie prawa obowiązki Prasowej, chyba że ustawa stanowi inaczej.
+12. Grunty stanowiące własność Skarbu Państwa będące dniu wejścia życie ustawy zarządzie stają się, mocy prawa, przedmiotem użytkowania wieczystego chwilą jej zarejestrowania.
+2. Budynki inne urządzenia oraz lokale znajdujące się gruntach stanowiących własność Skarbu Państwa będących dniu wejścia życie ustawy zarządzie stają się, chwilą zarejestrowania Spółki, mocy prawa, własnością Spółki. Nabycie własności następuje nieodpłatnie.
+3. Nabycie prawa wieczystego użytkowania gruntów, mowa 1, oraz własności budynków, innych urządzeń lokali, mowa 2, stwierdza się decyzją wojewody.
+13. Minister Skarbu Państwa wniesie wszelkie składniki majątkowe będące zarządzie Prasowej, utworzonej ustawą dnia 28 lipca 1983 r. (Dz. U. poz. 202), po zakończeniu jej działalności, podstawie bilansu zamknięcia.
+2. Minister Skarbu Państwa przekształci Polską Agencję Prasową Spółkę terminie 4 miesięcy od dnia wejścia życie ustawy.
+14. Pracownicy stają się, mocy prawa, pracownikami Spółki, zastrzeżeniem 2 3.
+4. Za zobowiązania wynikające ze stosunków pracy, powstałe przed dniem zarejestrowania Spółki, odpowiada Spółka.
+15. Członków pierwszej Rady Nadzorczej powołuje rok Minister Skarbu Państwa uzgodnieniu Prezesem Rady Ministrów.
+2. Członków pierwszego Zarządu powołuje 2 lata Minister Skarbu Państwa uzgodnieniu Prezesem Rady Ministrów.
+16. Traci moc ustawa dnia 28 lipca 1983 r.
+(Dz. U. poz. 202).
+17. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
 

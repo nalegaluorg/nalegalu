@@ -8,9 +8,12 @@ pos: 1512
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 października 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o Karcie Dużej Rodziny
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 października 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001512) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1512/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 października 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Karcie Dużej Rodziny
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2023 r. poz. 2424), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 października 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 88 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858), który stanowi: „Art. 88. Ustawa wchodzi w życie z dniem 1 października 2024 r., z wyjątkiem:
 1) art. 5, art. 55 ust. 4–7, art. 68 pkt 18 i 19, art. 75 ust. 14 i art. 78–81, które wchodzą w życie z dniem następującym po dniu ogłoszenia;

@@ -8,9 +8,12 @@ pos: 2254
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 listopada 2022 r.
+# o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o ochronie roślin przed agrofagami
+
+*USTAWA z dnia 7 października 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2022-11-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2254/text.pdf) |
-
-USTAWA z dnia 7 października 2022 r.
-o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o ochronie roślin przed agrofagami
 
 **Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2022 r. poz. 1688 i 2185) wprowadza się następujące zmiany:
 
@@ -40,8 +40,8 @@ o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy
 
 3. Z czynności, o których mowa ust. 2:
 
-- **1)** pkt 1 jest sporządzany protokół;
-- **2)** pkt 2 jest sporządzane sprawozdanie z badań.
+- **1)** pkt 1 – jest sporządzany protokół;
+- **2)** pkt 2 – jest sporządzane sprawozdanie z badań.
 
 4. Upoważnienie do przeprowadzenia kontroli sprzedaży na odległość oraz legitymacja służbowa są okazywane kontrolowanemu terminie 7 dni od dnia dokonania czynności, o których mowa ust. 2 pkt 1.
 
@@ -69,8 +69,8 @@ o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy
 
 - **1)** nazwa lub firma albo imię i nazwisko;
 - **2)** adres prowadzenia działalności i adres siedziby;
-- **3)** adres strony internetowej i adres poczty elektronicznej przypadku gdy zakup kontrolny przy sprzedaży na odległość jest dokonywany za pośrednictwem tej strony;
-- **4)** numer telefonu lub faksu przypadku gdy zakup kontrolny przy sprzedaży na odległość jest dokonywany za pośrednictwem tych urządzeń.
+- **3)** adres strony internetowej i adres poczty elektronicznej – przypadku gdy zakup kontrolny przy sprzedaży na odległość jest dokonywany za pośrednictwem tej strony;
+- **4)** numer telefonu lub faksu – przypadku gdy zakup kontrolny przy sprzedaży na odległość jest dokonywany za pośrednictwem tych urządzeń.
 
 4. Utrwalony obraz lub dźwięk stanowią załącznik do protokołu, o którym mowa art. 39a ust. 3 pkt 1.
 
@@ -92,5 +92,5 @@ o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy
 
 **Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 17 ust. 2b pkt 1 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 2b pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy.
 
-**Art. 9.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 i 15, które wchodzą życie z dniem 1 stycznia 2023 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 9.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 i 15, które wchodzą życie z dniem 1 stycznia 2023 r.
 

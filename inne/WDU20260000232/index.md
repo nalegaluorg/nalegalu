@@ -8,9 +8,12 @@ pos: 232
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lutego 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o własności
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-03-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000232) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/232/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o własności
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 czerwca 1994 r. o własności (Dz. U. z 2021 r. poz. 1048), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688, z 2024 r. poz. 1824 oraz z 2025 r. poz. 527),
 2) ustawą z dnia 4 grudnia 2025 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw (Dz. U. z 2026 r. poz. 39) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 lutego 2026 r.
@@ -133,7 +134,7 @@ ciciela, nie jest większa niż trzy, do zarządu nieruchomością wspólną maj
 9) udzielenie zgody na podział nieruchomości gruntowej zabudowanej więcej niż jednym budynkiem mieszkalnym i związane z tym zmiany udziałów nieruchomości wspólnej oraz ustalenie wysokości udziałów nowo powstałych, odrębnych nieruchomościach wspólnych;
 10) określenie zakresu i sposobu prowadzenia przez zarząd lub zarządcę, któremu zarząd nieruchomością wspólną powierzono sposób określony art. 18 ust. 1, ewidencji pozaksięgowej kosztów zarządu nieruchomością wspólną, zaliczek uiszczanych na pokrycie tych kosztów, a także rozliczeń z innych tytułów na rzecz nieruchomości wspólnej.
 4. Połączenie dwóch stanowiących odrębne nieruchomości jedną nieruchomość lub podział lokalu wymaga zgody właścicieli wyrażonej uchwale. W razie odmowy zainteresowany właściciel lokalu może żądać rozstrzygnięcia przez sąd.
-głosów przez zarząd; uchwała może być wynikiem głosów oddanych częściowo na zebraniu, częściowo drodze indywidualnego ich zbierania.
+dualnego ich zbierania.
 2. Uchwały zapadają większością głosów właścicieli lokali, liczoną według wielkości udziałów, chyba że umowie lub uchwale podjętej tym trybie postanowiono, że określonej sprawie na każdego właściciela przypada jeden głos.
 2a. Jeżeli suma udziałów nieruchomości wspólnej nie jest równa 1 albo większość udziałów należy do jednego właściciela bądź gdy obydwa te warunki spełnione są łącznie, głosowanie według zasady, że na każdego właściciela przypada jeden głos, wprowadza się na każde żądanie właścicieli posiadających łącznie co najmniej 1/5 udziałów nieruchomości wspólnej.
 2b. Jeżeli lokal jest przedmiotem współwłasności częściach ułamkowych, współwłaściciele celem oddania głosu przypadającego na ich lokal głosowaniu prowadzonym według zasady, że na każdego właściciela przypada jeden głos, obowiązani są ustanowić formie pisemnej pełnomocnika. Ustanowienia pełnomocnika współwłaściciele lokalu dokonują większością głosów liczoną według wielkości udziałów we współwłasności lokalu.

@@ -8,6 +8,7 @@ pos: 180
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # o zmianie ustawy - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych
@@ -21,7 +22,6 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1992-12-12 |
 | Data wydania | 1993-05-19 |
-| Wejście w życie | 1993-05-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930400180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/180/text.pdf) |
 

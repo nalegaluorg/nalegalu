@@ -8,11 +8,10 @@ pos: 459
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
 # Ustawa z dnia 16 marca 2012 r. o likwidacji delegatur terenowych ministra właściwego do spraw Skarbu Państwa
-
-*USTAWA 16 marca likwidacji delegatur terenowych ministra właściwego spraw Państwa*
 
 | Pole | Wartość |
 |---|---|
@@ -26,74 +25,84 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/459/text.pdf) |
 
-**Art. 1.** Z dniem 30 kwietnia likwiduje delegatury terenowe ministra właściwego spraw Państwa, zwane dalej „delegaturami”.
+**Art. 1.** Z dniem 30 kwietnia 2012 r. likwiduje się delegatury terenowe ministra właściwego do spraw Skarbu Państwa, zwane dalej „delegaturami”.
 
-**Art. 2.** W ustawie 25 września 1981 przedsiębiorstwach państwowych (Dz. 2002 112, 981, późn. zm. ) wprowadza następujące zmiany:
+**Art. 2.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2002 r. Nr 112, poz. 981, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie 8 sierpnia 1996 zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. 106, 493, późn. zm. ) wprowadza następujące zmiany:
+**Art. 3.** W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.) wprowadza się następujące zmiany:
+
+#### Rozdział 1a Zadania z zakresu wykonywania uprawnień przysługujących Skarbowi Państwa realizowane przez wojewodę
 
 **Art. 7b.**
 
-1. Wojewoda wykonuje zadania zakresie:
+1. Wojewoda wykonuje zadania w zakresie:
 
-- **1)** gospodarowania mieniem:
-    - **a)** pozostałym po zlikwidowanych państwowych jednostkach organizacyjnych lub spółkach udziałem Państwa,
+- **1)** gospodarowania mieniem: pozostałym po zlikwidowanych państwowych jednostkach organizacyjnych lub spółkach z udziałem Skarbu Państwa, pozostałym po rozwiązanych bądź wygasłych umowach o oddanie przedsiębiorstwa do odpłatnego korzystania, przejętym przez Skarb Państwa z innych tytułów;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **4)** darowizn na rzecz Państwa;
-- **5)** spadków przypadających Skarbowi Państwa, tym długów spadkowych, zastrzeżeniem kompetencji przyznanych starostom wykonującym zadania zakresu administracji rządowej konsulom.
+- **2)** przejęcia lub gospodarowania mieniem pozostałym po przedsiębiorstwie państwowym wykreślonym z rejestru przedsiębiorców;
+- **3)** postępowań upadłościowych, w których Skarb Państwa, reprezentowany przez ministra właściwego do spraw Skarbu Państwa, występuje w charakterze wierzyciela;
+- **4)** darowizn na rzecz Skarbu Państwa;
+- **5)** spadków przypadających Skarbowi Państwa, w tym długów spadkowych, z zastrzeżeniem kompetencji przyznanych starostom wykonującym zadania z zakresu administracji rządowej oraz konsulom.
 
-2. Właściwość wojewody ustala według:
+2. Właściwość wojewody ustala się według:
 
-- **1)** siedziby państwowej jednostki organizacyjnej, spółki udziałem Państwa lub przedsiębiorstwa państwowego przypadkach, których mowa 1 pkt 1 lit. a b pkt 2;
-- **2)** miejsca, którym znajduje przejęte przez Skarb Państwa mienie lub jego przeważająca część przypadku, którym mowa 1 pkt 1 lit. c;
-- **3)** siedziby upadłego przypadku, którym mowa 1 pkt 3;
-- **4)** miejsca położenia przeważającej części składników majątkowych będących przedmiotem darowizn na rzecz Państwa przypadku, którym mowa 1 pkt 4;
-- **5)** miejsca zamieszkania spadkodawcy, a jeżeli jego miejsca zamieszkania Rzeczypospolitej Polskiej nie da ustalić, według miejsca, którym znajduje majątek spadkowy lub jego przeważająca część przypadku, którym mowa 1 pkt 5.
+- **1)** siedziby państwowej jednostki organizacyjnej, spółki z udziałem Skarbu Państwa lub przedsiębiorstwa państwowego – w przypadkach, o których mowa w ust. 1 pkt 1 lit. a i b oraz pkt 2;
+- **2)** miejsca, w którym znajduje się przejęte przez Skarb Państwa mienie lub jego przeważająca część – w przypadku, o którym mowa w ust. 1 pkt 1 lit. c;
+- **3)** siedziby upadłego – w przypadku, o którym mowa w ust. 1 pkt 3;
+- **4)** miejsca położenia przeważającej części składników majątkowych będących przedmiotem darowizn na rzecz Skarbu Państwa – w przypadku, o którym mowa w ust. 1 pkt 4;
+- **5)** miejsca zamieszkania spadkodawcy, a jeżeli jego miejsca zamieszkania w Rzeczypospolitej Polskiej nie da się ustalić, według miejsca, w którym znajduje się majątek spadkowy lub jego przeważająca część – w przypadku, o którym mowa w ust. 1 pkt 5.
 
-**Art. 7c.**
+1. O sposobie zagospodarowania nieruchomości wchodzących w skład mienia, o którym mowa w art. 7b ust. 1, rozstrzyga właściwy wojewoda.
 
-1. O sposobie zagospodarowania nieruchomości wchodzących skład mienia, którym mowa art. 7b 1, rozstrzyga właściwy wojewoda.
-
-2. Do czasu rozstrzygnięcia sposobie zagospodarowania nieruchomościami, których mowa 1, wojewoda:
+2. Do czasu rozstrzygnięcia o sposobie zagospodarowania nieruchomościami, o których mowa w ust. 1, wojewoda:
 
 - **1)** prowadzi rejestr nieruchomości;
 - **2)** zapewnia wycenę nieruchomości;
 - **3)** zabezpiecza nieruchomości przed uszkodzeniem lub zniszczeniem;
-- **4)** wykonuje czynności związane naliczaniem należności za nieruchomości udostępnione przed ich przejęciem prowadzi windykację tych należności;
-- **5)** współpracuje innymi organami, które na mocy odrębnych przepisów gospodarują nieruchomościami Państwa, a także właściwymi jednostkami samorządu terytorialnego;
-- **6)** podejmuje czynności postępowaniu sądowym, szczególności sprawach dotyczących własności lub innych praw rzeczowych na nieruchomości, zapłatę należności za korzystanie nieruchomości, roszczenia ze stosunku najmu, dzierżawy lub użyczenia, stwierdzenie nabycia spadku, stwierdzenie nabycia własności nieruchomości przez zasiedzenie;
-- **7)** składa wnioski założenie księgi wieczystej dla nieruchomości wpis księdze wieczystej.
+- **4)** wykonuje czynności związane z naliczaniem należności za nieruchomości udostępnione przed ich przejęciem oraz prowadzi windykację tych należności;
+- **5)** współpracuje z innymi organami, które na mocy odrębnych przepisów gospodarują nieruchomościami Skarbu Państwa, a także z właściwymi jednostkami samorządu terytorialnego;
+- **6)** podejmuje czynności w postępowaniu sądowym, w szczególności w sprawach dotyczących własności lub innych praw rzeczowych na nieruchomości, o zapłatę należności za korzystanie z nieruchomości, o roszczenia ze stosunku najmu, dzierżawy lub użyczenia, o stwierdzenie nabycia spadku, o stwierdzenie nabycia własności nieruchomości przez zasiedzenie;
+- **7)** składa wnioski o założenie księgi wieczystej dla nieruchomości oraz o wpis w księdze wieczystej.
 
-3. Wojewoda przekazuje nieruchomości, których mowa 1, wraz dokumentacją, ministrowi właściwemu spraw Państwa, na jego żądanie, terminie 2 miesięcy od zgłoszenia żądania, przypadku przeznaczenia tych nieruchomości przez ministra właściwego spraw Państwa na cele określone art. 58 1, art. 59 1, art. 60 1, art. 60a 1 art. 61 1 ustawy 21 sierpnia 1997 gospodarce nieruchomościami.”;
+3. Wojewoda przekazuje nieruchomości, o których mowa w ust. 1, wraz z dokumentacją, ministrowi właściwemu do spraw Skarbu Państwa, na jego żądanie, w terminie 2 miesięcy od dnia zgłoszenia żądania, w przypadku przeznaczenia tych nieruchomości przez ministra właściwego do spraw Skarbu Państwa na cele określone w art. 58 ust. 1, art. 59 ust. 1, art. 60 ust. 1, art. 60a ust. 1 i art. 61 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. ” ;
 
-- **3)** art. 19
-- **2)** art. 56:
-    - **a)** 1 pkt 3 „3) Fundusz Państwa, na rachunku którego gromadzi się:
-    - **a)** 2% przychodów uzyskanych prywatyzacji danym roku budżetowym odsetki od tych środków,
-    - **b)** opłaty tytułu egzaminów na członków rad nadzorczych spółek udziałem Państwa odsetki od tych środków,
-    - **c)** środki uzyskane przez wojewodę tytułu wykonywania zadań, których mowa art. 7b 1 ustawy 8 sierpnia 1996 zasadach wykonywania uprawnień przysługujących Skarbowi Państwa przeznaczeniem na pokrycie kosztów prywa tyzacji, gospodarowania mieniem Państwa, uzupełnienie środków brakujących na pokrycie kosztów procesów likwidacyjnych postępowania upadłościowego, podwyższenie kapitału zakładowego spółek udziałem Państwa, kosztów przeprowadzania egzaminów na członków rad nadzorczych spółek udziałem Państwa, kosztów realizacji wykonywanych przez wojewodów zadań, których mowa art. 7b 1 ustawy 8 sierpnia 1996 zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, na wykonywanie przez ministra właściwego spraw Państwa innych ustawowo określonych zadań, szczególności wynikających ustawy 8 sierpnia 1996 zasadach wykonywania uprawnień przysługujących Skarbowi Państwa,”,
-    - **b)** 6 zdanie drugie „W przypadku Funduszu, którym mowa 1 pkt 3, rozporządzenie określi również sposób postępowania zakresie uzupełnienia środków brakujących na pokrycie kosztów procesów likwidacyjnych postępowania upadłościowego postępowania zakresie pokrywania rozliczania kosztów realizacji zadań, którym mowa art. 7b 1 ustawy 8 sierpnia 1996 zasadach wykonywania uprawnień przysługujących Skarbowi Państwa.”.
+- **3)** art. 19 otrzymuje brzmienie: „
+
+**Art. 19.**
+
+1. Wojewodowie, podmioty, o których mowa w art. 17 i art. 18, oraz państwowe osoby prawne i organy jednostek samorządu terytorialnego, na żądanie ministra właściwego do spraw Skarbu Państwa, składają temu ministrowi sprawozdania z wykonywania zadań w zakresie wynikającym ze spraw związanych z reprezentowaniem Skarbu Państwa.
+
+2. Minister właściwy do spraw Skarbu Państwa, występując z żądaniem, o którym mowa w ust. 1, określa zakres, formę i termin złożenia sprawozdania z wykonanych przez dany podmiot zadań wynikających ze spraw związanych z reprezentacją Skarbu Państwa. ” .
+
+**Art. 4.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.) wprowadza się następujące zmiany:
 
 **Art. 5.**
 
-1. Maksymalny limit wydatków budżetu państwa przeznaczonych na wykonywanie zadań przejętych przez urząd obsługujący ministra właściwego spraw Państwa wojewodów po likwidacji delegatur wynosi:
+1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań przejętych przez urząd obsługujący ministra właściwego do spraw Skarbu Państwa oraz wojewodów po likwidacji delegatur wynosi:
 
-- **1)** 8 667 tys. zł;
-- **2)** 2013 5 967 tys. zł;
-- **3)** 2014 6 116 tys. zł;
-- **4)** 2015 6 269 tys. zł;
-- **5)** 2016 6 426 tys. zł;
-- **6)** 2017 6 587 tys. zł;
-- **7)** 2018 6 745 tys. zł;
-- **8)** 2019 6 907 tys. zł;
-- **9)** 2020 7 073 tys. zł;
-- **10)** 2021 7 243 tys. zł. 3 nie stosuje się.
+- **1)** w 2012 r. – 8 667 tys. zł;
+- **2)** w 2013 r. – 5 967 tys. zł;
+- **3)** w 2014 r. – 6 116 tys. zł;
+- **4)** w 2015 r. – 6 269 tys. zł;
+- **5)** w 2016 r. – 6 426 tys. zł;
+- **6)** w 2017 r. – 6 587 tys. zł;
+- **7)** w 2018 r. – 6 745 tys. zł;
+- **8)** w 2019 r. – 6 907 tys. zł;
+- **9)** w 2020 r. – 7 073 tys. zł;
+- **10)** w 2021 r. – 7 243 tys. zł.
+
+2. Minister właściwy do spraw Skarbu Państwa monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizmy korygujące, o których mowa w ust. 3.
+
+3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, dysponent środków obniża wielkość środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę pomiędzy wielkością tego limitu a kwotą przekroczenia wydatków.
+
+4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach zgodna jest z planem finansowym przepisu ust. 3 nie stosuje się.
 
 **Art. 6.** Wykonywane dotychczas przez dyrektorów delegatur zadania:
 
-**Art. 7.** Dyrektorzy delegatur 30 kwietnia przekażą protokolarnie wojewodzie dokumentację dotyczącą spraw, których mowa art. 7b 1 ustawy art. 3, brzmieniu nadanym niniejszą ustawą.
+**Art. 8.** Przepisy wykonawcze dotyczące Funduszu Skarbu Państwa, wydane na podstawie art. 56 ust. 6 ustawy wymienionej w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 56 ust. 6 ustawy wymienionej w art. 4, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Przepisy wykonawcze dotyczące Funduszu Państwa, wydane na podstawie art. 56 6 ustawy wymienionej art. 4, zachowują moc wejścia życie przepisów wykonawczych wydanych na podstawie art. 56 6 ustawy art. 4, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od wejścia życie niniejszej ustawy.
-
-**Art. 9.** Ustawa wchodzi życie dniem 30 kwietnia r., wyjątkiem art. 7, który wchodzi życie po upływie 14 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 9.** Ustawa wchodzi w życie z dniem 30 kwietnia 2012 r., z wyjątkiem art. 7, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

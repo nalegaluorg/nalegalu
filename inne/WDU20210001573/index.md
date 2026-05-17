@@ -8,9 +8,12 @@ pos: 1573
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 sierpnia 2021 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 sierpnia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,57 +27,55 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001573) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1573/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 sierpnia 2021 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 września 2016 r. o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 988), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 września 2019 r. Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 września 2016 r. szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 988), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 września 2019 r. Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U.
 poz. 2020) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 sierpnia 2021 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 109 ustawy z dnia 11 września 2019 r. Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U. poz. 2020), który stanowi: „Art. 109. Ustawa wchodzi życie z dniem 1 stycznia 2021 r., z wyjątkiem:
 1) art. 85 pkt 5, który wchodzi życie po upływie 14 dni od dnia ogłoszenia;
 2) art. 88, który wchodzi życie z dniem 1 marca 2020 r.”.
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 5 września 2016 r.
-o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej
+szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej
 
 **Art. 1.**
 
-1. Do zamówień na dostawy mięsa wyłącznie wieprzowego pochodzącego wyłącznie od świń utrzymywanych co najmniej 2 miesiące bezpośrednio przed ubojem gospodarstwach rolnych położonych na obszarach objętych nakazami, zakazami lub ograniczeniami oraz innymi środkami kontroli lub ochronnymi ustanowionymi związku z wystąpieniem afrykańskiego pomoru świń zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz z przepisami Unii Europejskiej wydanymi tym zakresie, zwanego dalej „mięsem”, lub produktów mięsnych z mięsa, zwanych dalej „produktami mięsnymi”, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129), jeżeli:
+1. Do zamówień na dostawy mięsa wyłącznie wieprzowego pochodzącego wyłącznie od świń utrzymywanych co najmniej 2 miesiące bezpośrednio przed ubojem gospodarstwach rolnych położonych na obszarach objętych nakazami, zakazami lub ograniczeniami oraz innymi środkami kontroli lub ochronnymi ustanowionymi związku z wystąpieniem afrykańskiego pomoru świń zgodnie z przepisami ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz z przepisami Unii Europejskiej wydanymi tym zakresie, zwanego dalej „mięsem”, lub produktów mięsnych z mięsa, zwanych dalej „produktami mięsnymi”, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129), jeżeli:
 
 - **1)** świnie, od których pochodzi mięso lub produkty mięsne, są zaopatrzone świadectwo zdrowia wystawione przez urzędowego lekarza weterynarii na podstawie przepisów odrębnych;
-- **2)** zamówienie jest udzielane podmiotom produkującym mięso lub produkty mięsne zgodnie z przepisami dotyczącymi produkcji produktów pochodzenia zwierzęcego pochodzących z obszarów podlegających ograniczeniom, nakazom lub zakazom lub przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
-- **3)** mięso lub produkty mięsne spełniają weterynaryjne określone przepisach o produktach pochodzenia zwierzęcego;
-- **4)** podmioty, o których mowa pkt 2, nabyły świnie po cenach netto nie niższych niż:
+- **2)** zamówienie jest udzielane podmiotom produkującym mięso lub produkty mięsne zgodnie z przepisami dotyczącymi produkcji produktów pochodzenia zwierzęcego pochodzących z obszarów podlegających ograniczeniom, nakazom lub zakazom lub przepisami ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
+- **3)** mięso lub produkty mięsne spełniają weterynaryjne określone przepisach produktach pochodzenia zwierzęcego;
+- **4)** podmioty, których mowa pkt 2, nabyły świnie po cenach netto nie niższych niż:
     - **a)** ceny zakupu netto masy poubojowej ciepłej odpowiedniej klasie skali klasyfikacji EUROP regionie, którym świnie zostały nabyte, lub
-    - **b)** średnia cena netto dla wszystkich klas masie żywej regionie, którym świnie zostały nabyte opublikowanych tygodniu poprzedzającym tydzień, którym dokonano nabycia, biuletynie informacyjnym urzędu obsługującego Ministra Rolnictwa i Rozwoju Wsi wydawanym na podstawie przepisów o rolniczych badaniach rynkowych;
+    - **b)** średnia cena netto dla wszystkich klas masie żywej regionie, którym świnie zostały nabyte opublikowanych tygodniu poprzedzającym tydzień, którym dokonano nabycia, biuletynie informacyjnym urzędu obsługującego Ministra Rolnictwa i Rozwoju Wsi wydawanym na podstawie przepisów rolniczych badaniach rynkowych;
 
 - **5)** produkty mięsne spełniają szczegółowe określone przepisach wydanych na podstawie art. 4;
-- **6)** przedmiot zamówienia jest związany z zapewnieniem bezpieczeństwa i porządku publicznego, życia lub zdrowia ludzi lub wartość zamówienia jest mniejsza niż progi unijne, o których mowa art. 3 ust. 1 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych.
+- **6)** przedmiot zamówienia jest związany z zapewnieniem bezpieczeństwa i porządku publicznego, życia lub zdrowia ludzi lub wartość zamówienia jest mniejsza niż progi unijne, których mowa art. 3 ust. 1 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych.
 
-2. Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, obszary, na których są położone gospodarstwa rolne, o których mowa ust. 1, kierując się przepisami Unii Europejskiej wydanymi związku z afrykańskim pomorem świń oraz biorąc pod uwagę aktualną sytuację epizootyczną lub liczbę świń gospodarstwach rolnych położonych na tych obszarach.
+2. Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, obszary, na których są położone gospodarstwa rolne, których mowa ust. 1, kierując się przepisami Unii Europejskiej wydanymi związku z afrykańskim pomorem świń oraz biorąc pod uwagę aktualną sytuację epizootyczną lub liczbę świń gospodarstwach rolnych położonych na tych obszarach.
 
 **Art. 2.**
 
-1. Udzielając zamówienia, o którym mowa art. 1 ust. 1, zamawiający:
+1. Udzielając zamówienia, którym mowa art. 1 ust. 1, zamawiający:
 
-- **1)** zamieszcza ogłoszenie o udzielanym zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej;
+- **1)** zamieszcza ogłoszenie udzielanym zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej;
 - **2)** zapewnia przejrzystość postępowania i równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz uwzględnia okoliczności mogące mieć wpływ na jego udzielenie;
-- **3)** nie udostępnia informacji związanych z zamówieniem, o którym mowa art. 1 ust. 1, stanowiących tajemnicę przedsiębiorstwa rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być udostępniane;
-- **4)** zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informacje o udzieleniu zamówienia, podając nazwę (firmę) albo imię i nazwisko podmiotu, z którym zawarł umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia.
+- **3)** nie udostępnia informacji związanych z zamówieniem, którym mowa art. 1 ust. 1, stanowiących tajemnicę przedsiębiorstwa rozumieniu przepisów zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy wykonanie tego zamówienia, zastrzegł, że nie mogą być udostępniane;
+- **4)** zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informacje udzieleniu zamówienia, podając nazwę (firmę) albo imię i nazwisko podmiotu, z którym zawarł umowę wykonanie zamówienia, albo informację nieudzieleniu tego zamówienia.
 
-2. Zamawiający może unieważnić postępowanie o udzielenie zamówienia, o którym mowa art. 1 ust. 1, przypadku gdy przebieg tego postępowania wskazuje, że niemożliwe będzie wykonanie zamówienia przed określonym umowie terminem jego realizacji. Przepis art. 261 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych stosuje się.
+2. Zamawiający może unieważnić postępowanie udzielenie zamówienia, którym mowa art. 1 ust. 1, przypadku gdy przebieg tego postępowania wskazuje, że niemożliwe będzie wykonanie zamówienia przed określonym umowie terminem jego realizacji. Przepis art. 261 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych stosuje się.
 
-3. Jeżeli zamawiający dopuścił możliwość składania ofert częściowych, do unieważnienia części postępowania o udzielenie zamówienia przepis ust. 2 stosuje się odpowiednio.
+3. Jeżeli zamawiający dopuścił możliwość składania ofert częściowych, do unieważnienia części postępowania udzielenie zamówienia przepis ust. 2 stosuje się odpowiednio.
 
 **Art. 3.**
 
-1. Podmiot ubiegający się o udzielenie zamówienia, o którym mowa art. 1 ust. 1, wraz z ofertą składa oświadczenie:
+1. Podmiot ubiegający się udzielenie zamówienia, którym mowa art. 1 ust. 1, wraz z ofertą składa oświadczenie:
 
-- **1)** o wyprodukowaniu oferowanego mięsa oraz oferowanych produktów mięsnych zgodnie z przepisami dotyczącymi produkcji produktów pochodzenia zwierzęcego pochodzących z obszarów podlegających ograniczeniom, nakazom lub zakazom lub przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
-- **2)** że oferowane mięso oraz produkty mięsne spełniają weterynaryjne określone przepisach o produktach pochodzenia zwierzęcego;
-- **3)** że mięso wchodzące skład produktów mięsnych stanowi mięso, o którym mowa art. 1 ust. 1;
-- **4)** o nabyciu świń po cenach nie niższych niż ceny, o których mowa art. 1 ust. 1 pkt 4;
+- **1)** wyprodukowaniu oferowanego mięsa oraz oferowanych produktów mięsnych zgodnie z przepisami dotyczącymi produkcji produktów pochodzenia zwierzęcego pochodzących z obszarów podlegających ograniczeniom, nakazom lub zakazom lub przepisami ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
+- **2)** że oferowane mięso oraz produkty mięsne spełniają weterynaryjne określone przepisach produktach pochodzenia zwierzęcego;
+- **3)** że mięso wchodzące skład produktów mięsnych stanowi mięso, którym mowa art. 1 ust. 1;
+- **4)** nabyciu świń po cenach nie niższych niż ceny, których mowa art. 1 ust. 1 pkt 4;
 - **5)** że produkty mięsne spełniają szczegółowe określone przepisach wydanych na podstawie art. 4.
 
-2. Oświadczenie, o którym mowa ust. 1, jest składane formie pisemnej, postaci papierowej albo elektronicznej opatrzonej bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
+2. Oświadczenie, którym mowa ust. 1, jest składane formie pisemnej, postaci papierowej albo elektronicznej opatrzonej bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywego oświadczenia.
 
 **Art. 4.** Minister właściwy do spraw rolnictwa oraz minister właściwy do spraw rynków rolnych określą, drodze rozporządzenia:
 
@@ -87,7 +88,7 @@ o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru
 
 2. Udzielenie zamówienia niezgodnie z ust. 1 stanowi naruszenie dyscypliny finansów publicznych.
 
-3. Do naruszenia, o którym mowa ust. 2, przepisy art. 26 ust. 1 i 3 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2021 r. poz. 289) stosuje się odpowiednio.
+3. Do naruszenia, którym mowa ust. 2, przepisy art. 26 ust. 1 i 3 ustawy z dnia 17 grudnia 2004 r. odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2021 r. poz. 289) stosuje się odpowiednio.
 
 **Art. 6.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia .
 

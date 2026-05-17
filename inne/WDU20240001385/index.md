@@ -8,9 +8,12 @@ pos: 1385
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 września 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się trudnej sytuacji finansowej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-09-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1385/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się trudnej sytuacji finansowej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się trudnej sytuacji finansowej (Dz. U. z 2022 r. poz. 2452), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 kwietnia 2024 r. o zmianie ustawy o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się trudnej sytuacji finansowej oraz ustawy o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. poz. 696) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 września 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3 i art. 4 ustawy z dnia 12 kwietnia 2024 r. o zmianie ustawy o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się trudnej sytuacji finansowej oraz ustawy o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. poz. 696), które stanowią: „Art. 3. 1. Do wsparcia, o którym mowa art. 1 ust. 1 ustawy zmienianej art. 1, udzielonego przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 2. Do wniosków o udzielenie wsparcia, o którym mowa art. 1 ust. 1 ustawy zmienianej art. 1, złożonych i nierozpatrzonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
@@ -92,7 +93,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu kredytobiorców, którz
 
 1. Wsparcie polega na przekazywaniu kredytodawcy przez Bank Gospodarstwa Krajowego kwoty środków pieniężnych z przeznaczeniem na spłatę zobowiązań kredytobiorcy z tytułu kredytu mieszkaniowego, przez okres nie dłuższy niż 40 miesięcy.
 
-2. Wysokość wsparcia określa się złotych jako równowartość przewidywanych 40 miesięcznych rat kapitałowych i odsetkowych kredytu mieszkaniowego, z tym że jeżeli wysokość przewidywanej miesięcznej raty kapitałowej i odsetkowej jest wyższa niż 3000 zł, do określenia wysokości wsparcia przyjmuje się kwotę 3000 zł. rachunek przeznaczony do przekazywania wsparcia.
+2. Wysokość wsparcia określa się złotych jako równowartość przewidywanych 40 miesięcznych rat kapitałowych i odsetkowych kredytu mieszkaniowego, z tym że jeżeli wysokość przewidywanej miesięcznej raty kapitałowej i odsetkowej jest wyższa niż 3000 zł, do określenia wysokości wsparcia przyjmuje się kwotę 3000 zł.
 
 4. Wysokość wsparcia i terminy jego przekazywania są określane umowie, o której mowa art. 8 ust. 1.
 
@@ -171,7 +172,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu kredytobiorców, którz
 
 2d. W przypadku niespełnienia przez kredytobiorcę warunków, o których mowa art. 3 i art. 4, kredytodawca odrzuca wniosek i niezwłocznie informuje o tym formie pisemnej kredytobiorcę, podając uzasadnienie odrzucenia. Uzasadnienie zawiera informację, które z warunków, o których mowa art. 3 i art. 4, i z jakich powodów nie zostały spełnione przez kredytobiorcę. Wraz z uzasadnieniem kredytodawca informuje kredytobiorcę o możliwości dodatkowej weryfikacji wniosku, o której mowa art. 8a.
 
-2e. W przypadku złożenia wniosku za pośrednictwem systemu teleinformatycznego kredytodawcy, tym przez system bankowości elektronicznej, kredytodawca przekazuje informacje, o których mowa ust. 2d, za pośrednictwem tego systemu, chyba że kredytobiorca zastrzegł inny sposób przekazania tych informacji. zweryfikowany.
+2e. W przypadku złożenia wniosku za pośrednictwem systemu teleinformatycznego kredytodawcy, tym przez system bankowości elektronicznej, kredytodawca przekazuje informacje, o których mowa ust. 2d, za pośrednictwem tego systemu, chyba że kredytobiorca zastrzegł inny sposób przekazania tych informacji.
 
 4. Kredytodawca przekazuje kopię umowy, o której mowa ust. 1, do Banku Gospodarstwa Krajowego terminie 7 dni od dnia jej zawarcia.
 
@@ -259,7 +260,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu kredytobiorców, którz
 
 2. W przypadku, o którym mowa ust. 1 pkt 1, 6 i 7, kredytobiorca jest uprawniony do złożenia nowego wniosku, o którym mowa art. 6 ust. 1, jeżeli spełnia co najmniej jedną z przesłanek wskazanych art. 3 ust. 1. Do czasu rozpatrzenia wniosku wypłaty wsparcia przyznanego na dotychczasowej podstawie nie wstrzymuje się.
 
-3. Bank Gospodarstwa Krajowego wstrzymuje wypłatę pożyczki na spłatę zadłużenia przypadku powzięcia informacji, że została ona przyznana na podstawie nieprawdziwych informacji lub sfałszowanych dokumentów albo innych przypadkach świadomego wprowadzenia błąd przez osobę, której przyznano pożyczkę na spłatę zadłużenia. kredytodawca przesyła informację o udzieleniu wsparcia lub pożyczki na spłatę zadłużenia do powiatowego urzędu pracy właściwego według miejsca zamieszkania kredytobiorcy.
+3. Bank Gospodarstwa Krajowego wstrzymuje wypłatę pożyczki na spłatę zadłużenia przypadku powzięcia informacji, że została ona przyznana na podstawie nieprawdziwych informacji lub sfałszowanych dokumentów albo innych przypadkach świadomego wprowadzenia błąd przez osobę, której przyznano pożyczkę na spłatę zadłużenia. właściwego według miejsca zamieszkania kredytobiorcy.
 
 2. W informacji, o której mowa ust. 1, kredytodawca podaje wysokość środków przekazanych z tytułu wypłaty wsparcia lub pożyczki na spłatę zadłużenia oraz terminy ich przekazania na wskazany przez kredytodawcę rachunek przeznaczony do przekazywania wsparcia lub pożyczki na spłatę zadłużenia.
 
@@ -384,7 +385,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu kredytobiorców, którz
 
 7. Zwrot, o którym mowa ust. 6, nie może prowadzić do obniżenia środków Funduszu poniżej kwoty, o której mowa art. 16 ust. 1, lub do zagrożenia realizacji umów, o których mowa art. 8 ust. 1.
 
-8. Zwrotu, o którym mowa ust. 6, dokonuje się terminie 30 dni od dnia podjęcia przez Radę Funduszu uchwały przedmiocie zwrotu, proporcjonalnie do wpłat wniesionych przez kredytodawców. działającego ramach wykonywania funkcji makroostrożnościowej, może zawiesić, drodze rozporządzenia, wpłaty na Fundusz, kierując się koniecznością zapewnienia stabilności sektora finansowego.
+8. Zwrotu, o którym mowa ust. 6, dokonuje się terminie 30 dni od dnia podjęcia przez Radę Funduszu uchwały przedmiocie zwrotu, proporcjonalnie do wpłat wniesionych przez kredytodawców. Fundusz, kierując się koniecznością zapewnienia stabilności sektora finansowego.
 
 2. W przypadku wydania rozporządzenia, o którym mowa ust. 1, Rada Funduszu zawiesza udzielanie wsparcia lub pożyczki na spłatę zadłużenia z dniem wyczerpania środków Funduszu, informując o tym kredytodawców. Rada Funduszu ogłasza dzienniku o zasięgu ogólnopolskim informację o zawieszeniu udzielania wsparcia lub pożyczki na spłatę zadłużenia. Wnioski o udzielenie wsparcia lub pożyczki na spłatę zadłużenia złożone po dniu ogłoszenia informacji, o której mowa zdaniu drugim, nie podlegają rozpatrzeniu.
 

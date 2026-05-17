@@ -8,9 +8,12 @@ pos: 1567
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 sierpnia 2017 r.
+# o zmianie ustawy o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych oraz niektórych innych ustaw
+
+*USTAWA z dnia 12 lipca 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2018-08-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1567/text.pdf) |
-
-USTAWA z dnia 12 lipca 2017 r.
-o zmianie ustawy o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. poz. 881 oraz z 2016 r. poz. 1579 i 1948) wprowadza się następujące zmiany:
 
@@ -41,7 +41,7 @@ o zmianie ustawy o substancjach zubożających warstwę ozonową oraz o niektór
 
 3. Operator może zlecić osobie trzeciej, pisemnie, sprawowanie kontroli nad technicznym działaniem produktów lub urządzeń, a w przypadku operatorów, o których mowa w art. 5 ust. 1, powierzyć wykonywanie zadań, o których mowa w ust. 1 pkt 3, właściwej w zakresie finansowym lub technicznym komórce organizacyjnej Ministerstwa Obrony Narodowej lub jednostce organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej, zgodnie z obowiązującą strukturą organizacyjną. Operator ponosi odpowiedzialność za sprawowanie kontroli przez osobę trzecią, komórkę organizacyjną Ministerstwa Obrony Narodowej lub jednostkę organizacyjną Sił Zbrojnych Rzeczypospolitej Polskiej.
 
-4. Osoba fizyczna, osoba prawna lub jednostka organizacyjna niebędąca osobą prawną staje się operatorem produktu lub urządzenia w dniu dostarczenia tego produktu lub urządzenia na miejsce ich użytkowania, a w przypadku gdy urządzenie wymaga instalowania w dniu zakończenia instalowania i napełnienia urządzenia substancją kontrolowaną albo fluorowanym gazem cieplarnianym. Przepis stosuje się również do produktów lub urządzeń zawierających substancję kontrolowaną lub fluorowany gaz cieplarniany wyłączonych z eksploatacji nieprzekazanych do unieszkodliwienia.
+4. Osoba fizyczna, osoba prawna lub jednostka organizacyjna niebędąca osobą prawną staje się operatorem produktu lub urządzenia w dniu dostarczenia tego produktu lub urządzenia na miejsce ich użytkowania, a w przypadku gdy urządzenie wymaga instalowania – w dniu zakończenia instalowania i napełnienia urządzenia substancją kontrolowaną albo fluorowanym gazem cieplarnianym. Przepis stosuje się również do produktów lub urządzeń zawierających substancję kontrolowaną lub fluorowany gaz cieplarniany wyłączonych z eksploatacji nieprzekazanych do unieszkodliwienia.
 
 5. W przypadku braku możliwości ustalenia operatora, obowiązki, o których mowa w ust. 1, wykonuje właściciel produktu lub urządzenia.
 
@@ -55,12 +55,12 @@ o zmianie ustawy o substancjach zubożających warstwę ozonową oraz o niektór
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wnioski o odstępstwa, o których mowa w art. 11 ust. 3 oraz art. 15 ust. 4 rozporządzenia (UE) nr 517/2014, składa się do ministra właściwego do spraw środowiska.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Wnioski sporządza się w postaci elektronicznej opatrzone kwalifikowanym podpisem elektronicznym lub podpisem potwierdzonym profilem zaufanym ePUAP, na formularzu według wzoru określonego:
 
-- **1)** w przepisach wydanych na podstawie ust. 12 w przypadku wniosku, o którym mowa w ust. 1,
-- **2)** zgodnie z ust. 13 w przypadku wniosku, o którym mowa w ust. 1a w języku polskim wraz z tłumaczeniem wniosku na język angielski.”,
+- **1)** w przepisach wydanych na podstawie ust. 12 – w przypadku wniosku, o którym mowa w ust. 1,
+- **2)** zgodnie z ust. 13 – w przypadku wniosku, o którym mowa w ust. 1a – w języku polskim wraz z tłumaczeniem wniosku na język angielski.”,
     - **c)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wnioski o odstępstwa, o których mowa w art. 11 ust. 8, art. 12 ust. 3, art. 13 ust. 4 i art. 17 ust. 3 rozporządzenia (WE) nr 1005/2009, zawierają:”,
     - **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Wnioski o odstępstwa, o których mowa w art. 11 ust. 3 oraz art. 15 ust. 4 rozporządzenia (UE) nr 517/2014, zawierają:
 
-- **1)** nazwę wnioskodawcy oraz adres i siedzibę, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą adres wykonywania działalności, numer telefonu lub adres poczty elektronicznej lub adres strony internetowej o ile je posiada;
+- **1)** nazwę wnioskodawcy oraz adres i siedzibę, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą – adres wykonywania działalności, numer telefonu lub adres poczty elektronicznej lub adres strony internetowej – o ile je posiada;
 - **2)** datę sporządzenia wniosku;
 - **3)** przedmiot wniosku;
 - **4)** odniesienie do właściwego przepisu rozporządzenia (UE) nr 517/2014, na podstawie którego składany jest wniosek;
@@ -74,7 +74,7 @@ o zmianie ustawy o substancjach zubożających warstwę ozonową oraz o niektór
 
 - **g)** dodaje się ust. 13 w brzmieniu: „13. Minister właściwy do spraw środowiska określi wzory wniosków, o których mowa w ust. 1a, w formie dokumentu elektronicznego.”;
 - **6)** w art. 8 w ust. 2 pkt 2 otrzymuje brzmienie: „2) posiada zezwolenie na zbieranie odpadów;”;
-- **7)** art. 10 i art. 11 otrzymują brzmienie: „Art. 10. 1. Nabywania substancji kontrolowanej lub fluorowanego gazu cieplarnianego w celu wykonywania czynności wymagających posiadania certyfikatu dla personelu, o którym mowa w art. 20, lub zaświadczenia o odbytym szkoleniu, o którym mowa w art. 37 ust. 1, może dokonywać osoba fizyczna posiadająca certyfikat dla personelu odpowiedni do wykonywanych przez tę osobę czynności związanych z substancjami kontrolowanymi lub fluorowanymi gazami cieplarnianymi albo w przypadku osoby fizycznej wykonującej czynności serwisowe i naprawcze systemów klimatyzacji w niektórych pojazdach silnikowych zaświadczenie, o którym mowa w art. 37 ust. 1, lub przedsiębiorca posiadający certyfikat dla przedsiębiorców, o którym mowa w art. 29.
+- **7)** art. 10 i art. 11 otrzymują brzmienie: „Art. 10. 1. Nabywania substancji kontrolowanej lub fluorowanego gazu cieplarnianego w celu wykonywania czynności wymagających posiadania certyfikatu dla personelu, o którym mowa w art. 20, lub zaświadczenia o odbytym szkoleniu, o którym mowa w art. 37 ust. 1, może dokonywać osoba fizyczna posiadająca certyfikat dla personelu odpowiedni do wykonywanych przez tę osobę czynności związanych z substancjami kontrolowanymi lub fluorowanymi gazami cieplarnianymi albo – w przypadku osoby fizycznej wykonującej czynności serwisowe i naprawcze systemów klimatyzacji w niektórych pojazdach silnikowych – zaświadczenie, o którym mowa w art. 37 ust. 1, lub przedsiębiorca posiadający certyfikat dla przedsiębiorców, o którym mowa w art. 29.
 
 2. Nabywanie substancji kontrolowanej, o którym mowa w ust. 1, może mieć miejsce tylko w przypadku halonów wykorzystywanych do celów krytycznych lub w przypadku uzyskania odstępstwa, o którym mowa w art. 11 ust. 8 rozporządzenia (WE) nr 1005/2009.
 
@@ -118,7 +118,7 @@ o zmianie ustawy o substancjach zubożających warstwę ozonową oraz o niektór
 
 4. Administracyjną karę pieniężną, o której mowa w ust. 1, wnosi się odpowiednio na rachunek bankowy wojewódzkiego inspektora ochrony środowiska albo właściwego organu Państwowej Straży Pożarnej. Wpływy z tytułu kar pieniężnych stanowią dochód budżetu państwa.
 
-5. Do postępowania w przedmiocie wymierzenia administracyjnej kary pieniężnej, o której mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768 i 935), z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska albo właściwym organom Państwowej Straży Pożarnej.
+5. Do postępowania w przedmiocie wymierzenia administracyjnej kary pieniężnej, o której mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768 i 935), z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska albo właściwym organom Państwowej Straży Pożarnej.
 
 6. Przy ustalaniu wysokości administracyjnej kary pieniężnej, o której mowa w ust. 1, uwzględnia się rodzaj i zakres naruszenia, w tym jego wpływ na środowisko, dotychczasową działalność podmiotu, który popełnił naruszenie, w zakresie objętym przepisami ustawy oraz skutki naruszenia.
 

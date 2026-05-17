@@ -8,9 +8,12 @@ pos: 1606
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 sierpnia 2023 r.
+# o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
+
+*USTAWA z dnia 28 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1606/text.pdf) |
 
-USTAWA z dnia 28 lipca 2023 r.
-o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy (Dz. U. z 2020 r. poz. 1359 oraz z 2022 r. poz. 2140) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2020 r. poz. 1359 oraz z 2022 r. poz. 2140) wprowadza się następujące zmiany:
 
 **Art. 99¹.**
 
@@ -41,9 +41,11 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 § 1. Reprezentant dziecka postępowaniu przed sądem lub innym organem państwowym, udziela na piśmie lub przy wykorzystaniu środków komunikacji elektronicznej temu z rodziców dziecka, które nie uczestniczy postępowaniu, na jego wniosek, informacji niezbędnych do prawidłowego wykonywania władzy rodzicielskiej dotyczących przebiegu tego postępowania i podjętych jego toku czynnościach, jeżeli nie stoi temu na przeszkodzie dobro dziecka. Reprezentant dziecka uzyskuje od tego rodzica informacje o dziecku, jego stanie zdrowia, sytuacji rodzinnej i środowisku, zakresie niezbędnym do prawidłowej reprezentacji dziecka.
 
-§ 2. Reprezentant dziecka może zwrócić się o informacje o dziecku, o których mowa § 1, także do organów, instytucji, stowarzyszeń, organizacji społecznych lub innych podmiotów, do których należy dziecko, które świadczą dziecku pomoc lub posiadają informacje o dziecku. Organy, instytucje, stowarzyszenia, organizacje społeczne lub inne podmioty są obowiązane do udzielenia tych informacji na wniosek reprezentanta dziecka. nawiązuje z dzieckiem kontakt i informuje je sposób zrozumiały i dostosowany do stopnia jego rozwoju o podejmowanych czynnościach, przebiegu postępowania i sposobie jego zakończenia oraz konsekwencjach podjętych działań dla jego sytuacji prawnej.
+§ 2. Reprezentant dziecka może zwrócić się o informacje o dziecku, o których mowa § 1, także do organów, instytucji, stowarzyszeń, organizacji społecznych lub innych podmiotów, do których należy dziecko, które świadczą dziecku pomoc lub posiadają informacje o dziecku. Organy, instytucje, stowarzyszenia, organizacje społeczne lub inne podmioty są obowiązane do udzielenia tych informacji na wniosek reprezentanta dziecka.
 
-§ 4. Reprezentant dziecka jest obowiązany zachować tajemnicy okoliczności sprawy, o których powziął wiadomość ze względu na wykonywane czynności, z wyjątkiem wiarygodnych informacji o przestępstwach popełnionych na szkodę dziecka oraz zagrożeniu dobra dziecka. W przypadku gdy reprezentantem dziecka został ustanowiony adwokat lub radca prawny, tajemnica ta stanowi tajemnicę zawodową rozumieniu ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268) lub ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166).
+§ 3. Jeżeli rozwój umysłowy, stan zdrowia i stopień dojrzałości dziecka na to pozwalają, reprezentant dziecka nawiązuje z dzieckiem kontakt i informuje je sposób zrozumiały i dostosowany do stopnia jego rozwoju o podejmowanych czynnościach, przebiegu postępowania i sposobie jego zakończenia oraz konsekwencjach podjętych działań dla jego sytuacji prawnej.
+
+§ 4. Reprezentant dziecka jest obowiązany zachować tajemnicy okoliczności sprawy, o których powziął wiadomość ze względu na wykonywane czynności, z wyjątkiem wiarygodnych informacji o przestępstwach popełnionych na szkodę dziecka oraz zagrożeniu dobra dziecka. W przypadku gdy reprezentantem dziecka został ustanowiony adwokat poz. 1166).
 
 § 5. Przepisy § 1 stosuje się odpowiednio do podmiotów, o których mowa art. 112 .”;
 
@@ -55,7 +57,7 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 § 2. Wysokość wynagrodzenia reprezentanta dziecka niebędącego adwokatem lub radcą prawnym i zwrot poniesionych przez niego wydatków postępowaniu innym niż cywilne ustala się na podstawie przepisów określających wysokość wynagrodzenia i zwrot wydatków kuratora ustanowionego dla strony sprawie cywilnej.
 
-§ 3. Do ustalenia wysokości wynagrodzenia i zwrotu wydatków reprezentanta dziecka będącego adwokatem lub radcą prawnym stosuje się odpowiednio przepisy wykonawcze wydane na podstawie art. 29 ust. 2 ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze lub art. 22 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych.”;
+§ 3. Do ustalenia wysokości wynagrodzenia i zwrotu wydatków reprezentanta dziecka będącego adwokatem lub radcą prawnym stosuje się odpowiednio przepisy wykonawcze wydane na podstawie art. 29 ust. 2 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze lub art. 22 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych.”;
 
 - **4)** art. 183:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Jeżeli pełnoletnia osoba niepełnosprawna potrzebuje wsparcia prowadzeniu wszelkich spraw, spraw określonego rodzaju albo załatwieniu określonej sprawy, ustanawia się dla niej kuratora. Zakres obowiązków i uprawnień kuratora określa sąd opiekuńczy.”,
@@ -67,9 +69,9 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 § 1. Kurator uzgadnia z osobą niepełnosprawną sposób prowadzenia lub załatwienia spraw, o których mowa § 1, i informuje osobę niepełnosprawną o podjętych działaniach oraz ich wynikach, tak aby mogła podejmować decyzje i działania odpowiednie do aktualnego stanu sprawy.”.
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550 i 1429) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550 i 1429) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2023 r. poz. 127, z 2022 r. poz. 2600 oraz z 2023 r. poz. 818) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2023 r. poz. 127, z 2022 r. poz. 2600 oraz z 2023 r. poz. 818) wprowadza się następujące zmiany:
 
 **Art. 6.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej (Dz. U. z 2021 r. poz. 1249 oraz z 2023 r. poz. 289 i 535) art. 12a:
 
@@ -117,7 +119,7 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 - **2)** zasady i procedurę podejmowania interwencji sytuacji podejrzenia krzywdzenia lub posiadania informacji o krzywdzeniu małoletniego;
 - **3)** procedury i osoby odpowiedzialne za składanie zawiadomień o podejrzeniu popełnienia przestępstwa na szkodę małoletniego, zawiadamianie sądu opiekuńczego oraz przypadku instytucji, które posiadają takie uprawnienia, osoby odpowiedzialne za wszczynanie procedury „Niebieskie Karty”;
 - **4)** zasady przeglądu i aktualizacji standardów;
-- **5)** zakres kompetencji osoby odpowiedzialnej za przygotowanie personelu placówki lub organizatora do stosowania standardów, zasady przygotowania tego personelu do ich stosowania oraz sposób dokumentowania tej czynności; do zaznajomienia się z nimi i ich stosowania;
+- **5)** zakres kompetencji osoby odpowiedzialnej za przygotowanie personelu placówki lub organizatora do stosowania standardów, zasady przygotowania tego personelu do ich stosowania oraz sposób dokumentowania tej czynności;
 - **7)** osoby odpowiedzialne za przyjmowanie zgłoszeń o zdarzeniach zagrażających małoletniemu i udzielenie mu wsparcia;
 - **8)** sposób dokumentowania i zasady przechowywania ujawnionych lub zgłoszonych incydentów lub zdarzeń zagrażających dobru małoletniego.
 
@@ -157,7 +159,7 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 - **3)** ustalenia charakteru i rodzaju działań instytucji państwowych i samorządowych lub innych organów, instytucji i placówek, zwanych dalej „właściwymi organami lub instytucjami”, podejmowanych wobec:
     - **a)** małoletniego,
     - **b)** rodzeństwa małoletniego,
-    - **c)** rodzica małoletniego albo jego opiekuna prawnego lub faktycznego lub innych osób, które mogły mieć wpływ na sytuację małoletniego zanim doszło do śmierci małoletniego lub doznania przez niego ciężkiego uszczerbku na zdrowiu;
+    - **c)** rodzica małoletniego albo jego opiekuna prawnego lub faktycznego lub innych osób, które mogły mieć wpływ na sytuację małoletniego – zanim doszło do śmierci małoletniego lub doznania przez niego ciężkiego uszczerbku na zdrowiu;
 
 - **4)** wskazania podstawy prawnej działań właściwych organów lub instytucji;
 - **5)** analizy działań właściwych organów lub instytucji, szczególności zakresie sposobu faktycznego realizowania przyznanych uprawnień i wykonywania ciążących na nich obowiązków oraz reagowania na zagrożenie życia lub zdrowia małoletniego;
@@ -220,8 +222,10 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 - **3)** korzysta z pełni praw publicznych;
 - **4)** ma pełną zdolność do czynności prawnych;
 - **5)** nie była prawomocnie skazana za przestępstwo lub przestępstwo skarbowe.
-- **1)** posiada wykształcenie wyższe dziedzinie niezbędnej do przeprowadzenia analizy określonego zdarzenia;
-- **2)** posiada co najmniej 4-letnie doświadczenie pracy związanej z ochroną małoletnich przed krzywdzeniem, przeciwdziałaniem przemocy lub pomocą osobom pokrzywdzonym, szczególnie przydatne dla prowadzonej analizy określonego zdarzenia;
+
+3. Ekspertem, o którym mowa art. 22e ust. 7, może być osoba, która:
+
+- **1)** posiada wykształcenie wyższe dziedzinie niezbędnej do przeprowadzenia analizy określonego zdarzenia; działaniem przemocy lub pomocą osobom pokrzywdzonym, szczególnie przydatne dla prowadzonej analizy określonego zdarzenia;
 - **3)** korzysta z pełni praw publicznych;
 - **4)** ma pełną zdolność do czynności prawnych;
 - **5)** nie była prawomocnie skazana za przestępstwo lub przestępstwo skarbowe.
@@ -263,7 +267,8 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 2. Przewodniczący Zespołu do spraw analizy zdarzeń kieruje wniosek, o którym mowa ust. 1 pkt 2, wskazując dane ekspertów wchodzących skład grupy ekspertów, upoważnionych do zapoznania się z informacjami, aktami, dokumentami, zapisami z monitoringu lub innymi danymi, albo ich kopiami. Wniosek może zostać skierowany do:
 
-- **1)** Policji celu szczegółowego ustalenia, czy miejscu zamieszkania lub pobytu małoletniego lub z uwagi na małoletniego, jego rodzeństwo, rodzica albo opiekuna prawnego lub faktycznego podejmowano czynności interwencyjne lub czynności innego rodzaju, tym wszczynano procedurę „Niebieskie Karty” lub stosowano środki, o których mowa art. 15a–15aaa ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ), dat tych czynności, dokonanych ich trakcie ustaleń, sposobu ich zakończenia oraz podejmowanych ich następstwie działań; lub z uwagi na małoletniego, jego rodzeństwo, rodzica albo opiekuna prawnego lub faktycznego podejmowano czynności interwencyjne lub czynności innego rodzaju, tym wszczynano procedurę „Niebieskie Karty” lub stosowano środki, o których mowa art. 18–18aa ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266), dat tych czynności, dokonanych ich trakcie ustaleń, sposobu ich zakończenia oraz podejmowanych ich następstwie działań;
+- **1)** Policji celu szczegółowego ustalenia, czy miejscu zamieszkania lub pobytu małoletniego lub z uwagi na małoletniego, jego rodzeństwo, rodzica albo opiekuna prawnego lub faktycznego podejmowano czynności interwencyjne lub czynności innego rodzaju, tym wszczynano procedurę „Niebieskie Karty” lub stosowano środki, o których mowa art. 15a–15aaa ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ), dat tych czynności, dokonanych ich trakcie ustaleń, sposobu ich zakończenia oraz podejmowanych ich następstwie działań;
+- **2)** Żandarmerii Wojskowej celu szczegółowego ustalenia, czy miejscu zamieszkania lub pobytu małoletniego lub z uwagi na małoletniego, jego rodzeństwo, rodzica albo opiekuna prawnego lub faktycznego podejmowano czynności interwencyjne lub czynności innego rodzaju, tym wszczynano procedurę „Niebieskie Karty” lub stosowano środki, o których mowa art. 18–18aa ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej
 - **3)** jednostek organizacyjnych pomocy społecznej celu szczegółowego ustalenia:
     - **a)** czy małoletni, jego rodzeństwo, rodzic albo opiekun prawny lub faktyczny byli objęci oddziaływaniami pomocy społecznej oraz rodzaju udzielanego wsparcia,
     - **b)** dat, rodzaju i przebiegu czynności podejmowanych wobec małoletniego, jego rodzeństwa, rodzica albo opiekuna prawnego lub faktycznego, dokonanych ich trakcie ustaleń, tym dotyczących sytuacji osobistej, potrzeb, stanu zdrowia małoletniego, postawy jego rodzica albo opiekuna prawnego lub faktycznego, zakresie ujawnionego albo podejrzewanego krzywdzenia małoletniego, oraz podejmowanych ich następstwie działań;
@@ -285,8 +290,9 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 - **7)** publicznych oraz niepublicznych podmiotów wykonujących działalność leczniczą celu szczegółowego ustalenia:
     - **a)** sytuacji osobistej małoletniego i jego rodzeństwa, potrzeb, stanu zdrowia oraz relacji z innymi małoletnimi okresie będącym przedmiotem analizy określonego zdarzenia,
     - **b)** czy małoletniemu lub jego rodzeństwu były udzielane świadczenia zdrowotne oraz rodzaju tych świadczeń,
-    - **c)** czy podczas udzielania świadczenia zdrowotnego u małoletniego lub jego rodzeństwa ujawniono obrażenia ciała, stwierdzono zaburzenia emocjonalne lub inne okoliczności świadczące o krzywdzeniu małoletniego lub jego rodzeństwa, niego okresie będącym przedmiotem analizy określonego zdarzenia,
-    - **e)** czy z uwagi na małoletniego, jego rodzeństwo, rodzica albo opiekuna prawnego lub faktycznego podejmowano czynności interwencyjne lub czynności innego rodzaju, tym wszczynano procedurę „Niebieskie Karty”, dat tych czynności, dokonanych ich trakcie ustaleń, sposobu ich zakończenia oraz podejmowanych ich następstwie działań,
+    - **c)** czy podczas udzielania świadczenia zdrowotnego u małoletniego lub jego rodzeństwa ujawniono obrażenia ciała, stwierdzono zaburzenia emocjonalne lub inne okoliczności świadczące o krzywdzeniu małoletniego lub jego rodzeństwa,
+    - **d)** sytuacji osobistej, stanu zdrowia oraz postawy rodzica albo opiekuna prawnego lub faktycznego małoletniego okresie będącym przedmiotem analizy określonego zdarzenia,
+    - **e)** czy z uwagi na małoletniego, jego rodzeństwo, rodzica albo opiekuna prawnego lub faktycznego podejmowano czynności interwencyjne lub czynności innego rodzaju, tym wszczynano procedurę „Niebieskie
     - **f)** rodzaju pomocy udzielanej małoletniemu lub jego rodzeństwu oraz innych podejmowanych działań;
 
 - **8)** prezesów właściwych sądów celu szczegółowego ustalenia, czy: z 2022 r. poz. 2123), dotyczących rodzica albo opiekuna prawnego lub faktycznego małoletniego oraz przebiegu postępowań tych sprawach, dokonanych tych postępowaniach ustaleniach oraz treści wydanych orzeczeń,
@@ -305,9 +311,9 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 6. W zakresie niezbędnym dla realizacji uprawnień, o których mowa ust. 1, 2 i 4, członkowie grupy ekspertów mają prawo zapoznania się z informacjami stanowiącymi tajemnicę zawodową:
 
-- **1)** lekarza i lekarza dentysty, o której mowa art. 40 ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516); pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545);
-- **3)** pielęgniarki i położnej, o której mowa art. 17 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705 oraz z 2023 r. poz. 185 i 1234);
-- **4)** osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, o której mowa art. 50 ust. 1 tej ustawy;
+- **1)** lekarza i lekarza dentysty, o której mowa art. 40 ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516);
+- **2)** osoby wykonującej zawód medyczny, o której mowa art. 14 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545);
+- **3)** pielęgniarki i położnej, o której mowa art. 17 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705 oraz z 2023 r. poz. 185 i 1234); o której mowa art. 50 ust. 1 tej ustawy;
 - **5)** psychologa, o której mowa art. 14 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);
 - **6)** pracownika socjalnego, o której mowa art. 119 ust. 2 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901);
 - **7)** pracownika okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich, o której mowa art. 335 pkt 4 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700 oraz z 2023 r. poz. 289).
@@ -318,7 +324,7 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 2. Członkowie grupy ekspertów biorący udział wysłuchaniu są obowiązani do zachowania tajemnicy wszelkich informacji, które uzyskali toku wysłuchania.
 
-3. Wezwanie celu wysłuchania doręcza się za pośrednictwem operatora pocztowego rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042). W sprawach niecierpiących zwłoki można dokonać wezwania za pomocą telefaksu, telefonicznie albo za pośrednictwem poczty elektronicznej.
+3. Wezwanie celu wysłuchania doręcza się za pośrednictwem operatora pocztowego rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042). W sprawach niecierpiących zwłoki można dokonać wezwania za pomocą telefaksu, telefonicznie albo za pośrednictwem poczty elektronicznej.
 
 4. Sposób wezwania należy udokumentować, dołączając do dokumentacji z analizy określonego zdarzenia notatkę lub potwierdzenie transmisji danych.
 
@@ -326,16 +332,18 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 6. Nie wolno wzywać celu wysłuchania:
 
-- **1)** obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. ) co do faktów, o których dowiedział się, udzielając porady prawnej lub prowadząc sprawę;
+- **1)** obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. ) co do faktów, o których dowiedział się, udzielając porady prawnej lub prowadząc sprawę;
 - **2)** duchownego co do faktów, o których dowiedział się przy spowiedzi;
 - **3)** mediatora co do faktów, o których dowiedział się od oskarżonego lub pokrzywdzonego, prowadząc postępowanie mediacyjne, z wyłączeniem informacji o przestępstwach, o których mowa art. 240 § 1 Kodeksu karnego;
-- **4)** sędziego zakresie informacji objętych tajemnicą, o której mowa art. 85 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm. );
-- **5)** prokuratora zakresie informacji objętych tajemnicą, o której mowa art. 102 ustawy z dnia 28 stycznia 2016 r. Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360 i 1429);
-- **6)** osób, o których mowa art. 180 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego. notatki służbowe oraz inne dokumenty dotyczące czynności podejmowanych przez grupę ekspertów podczas przeprowadzania analizy określonego zdarzenia, projekt raportu z analizy określonego zdarzenia, zastrzeżenia i dokumenty związane z rozpatrywaniem zastrzeżeń oraz raport z analizy określonego zdarzenia.
+- **4)** sędziego zakresie informacji objętych tajemnicą, o której mowa art. 85 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm. );
+- **5)** prokuratora zakresie informacji objętych tajemnicą, o której mowa art. 102 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360 i 1429);
+- **6)** osób, o których mowa art. 180 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
-2. Do dokumentacji z analizy określonego zdarzenia dostęp mają wyłącznie członkowie grupy ekspertów.
+**Art. 22l.**
 
-3. Dokumentacji z analizy określonego zdarzenia nie udostępnia się organom prowadzącym postępowanie karne, którego celem jest ustalenie odpowiedzialności za popełnienie czynu zabronionego, o którym mowa art. 22d ust. 1, ani innym organom prowadzącym postępowanie, którego celem jest ustalenie odpowiedzialności za popełnienie innego czynu zabronionego niż wskazany art. 22d ust. 1, lub przewinienia dyscyplinarnego związanego z okolicznościami analizowanego zdarzenia.
+1. Dokumentacja z analizy określonego zdarzenia obejmuje szczególności protokoły z wysłuchań, notatki służbowe oraz inne dokumenty dotyczące czynności podejmowanych przez grupę ekspertów podczas przeprowadzania analizy określonego zdarzenia, projekt raportu z analizy określonego zdarzenia, zastrzeżenia i dokumenty związane z rozpatrywaniem zastrzeżeń oraz raport z analizy określonego zdarzenia.
+
+2. Do dokumentacji z analizy określonego zdarzenia dostęp mają wyłącznie członkowie grupy ekspertów. ani innym organom prowadzącym postępowanie, którego celem jest ustalenie odpowiedzialności za popełnienie innego czynu zabronionego niż wskazany art. 22d ust. 1, lub przewinienia dyscyplinarnego związanego z okolicznościami analizowanego zdarzenia.
 
 4. Dokumentacja z analizy określonego zdarzenia stanowi tajemnicę prawnie chronioną.
 
@@ -373,12 +381,11 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 - **1)** wskazanie działań podejmowanych przez Zespół do spraw analizy zdarzeń, tym liczbę przeprowadzonych analiz określonego zdarzenia;
 - **2)** wskazanie najczęstszych problemów, które pojawiały się trakcie działań właściwych organów lub instytucji związku z analizowanymi zdarzeniami, oraz najczęstszych nieprawidłowości ich działaniu, wraz ze wskazaniem przyczyn, zakresu i skutków tych nieprawidłowości;
+- **3)** wydane okresie sprawozdawczym zalecenia dla właściwych organów lub instytucji;
 - **4)** wskazanie działań podejmowanych przez właściwe organy lub instytucje wyniku realizacji przekazanych zaleceń;
 - **5)** uwagi o stanie funkcjonowania systemu ochrony małoletnich przed krzywdzeniem oraz ewentualne propozycje zmian tym zakresie.
 
-2. Przepis art. 22m ust. 6 stosuje się odpowiednio.
-
-**Art. 22q.** Minister Sprawiedliwości przesyła co dwa lata Sejmowi i Senatowi Rzeczypospolitej Polskiej, Prezydentowi Rzeczypospolitej Polskiej oraz Prezesowi Rady Ministrów terminie do dnia 31 maja roku następującego po okresie sprawozdawczym sprawozdanie, o którym mowa art. 22p ust. 1.
+2. Przepis art. 22m ust. 6 stosuje się odpowiednio. okresie sprawozdawczym sprawozdanie, o którym mowa art. 22p ust. 1.
 
 #### Rozdział 4d Pozostałe szczególne środki ochrony małoletnich przed krzywdzeniem oraz podmioty wskazane do ich realizacji
 
@@ -387,7 +394,7 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 1. W celu tworzenia warunków skutecznej ochrony małoletnich przed krzywdzeniem Rada Ministrów przyjmuje:
 
 - **1)** Krajowy Plan Przeciwdziałania Przemocy na Szkodę Małoletnich,
-- **2)** Krajowy Plan Przeciwdziałania Przestępstwom Przeciwko Wolności Seksualnej i Obyczajności na Szkodę Małoletnich zwane dalej „krajowymi planami”.
+- **2)** Krajowy Plan Przeciwdziałania Przestępstwom Przeciwko Wolności Seksualnej i Obyczajności na Szkodę Małoletnich – zwane dalej „krajowymi planami”.
 
 2. Krajowe plany określają szczególności:
 
@@ -422,10 +429,10 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 - **3)** przedstawiciel Rzecznika Praw Dziecka;
 - **4)** przedstawiciel Krajowego Koordynatora Realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej;
 - **5)** po jednym przedstawicielu Straży Granicznej i Żandarmerii Wojskowej;
-- **6)** dwóch przedstawicieli Policji, tym co najmniej jeden przedstawiciel Centralnego Biura Zwalczania Cyberprzestępczości; nostki;
+- **6)** dwóch przedstawicieli Policji, tym co najmniej jeden przedstawiciel Centralnego Biura Zwalczania Cyberprzestępczości;
+- **7)** trzech przedstawicieli jednostek samorządu terytorialnego, wybieranych spośród osób zgłoszonych przez te jednostki;
 - **8)** trzech przedstawicieli organizacji pozarządowych, związków i porozumień organizacji pozarządowych, wybieranych spośród osób zgłoszonych przez te podmioty;
 - **9)** dwóch przedstawicieli kościołów i innych związków wyznaniowych, wybieranych spośród osób zgłoszonych przez te podmioty;
-- **10)** trzech przedstawicieli środowiska naukowego, wybieranych spośród osób zgłoszonych przez uczelnie oraz placówki naukowo-badawcze;
 - **11)** przedstawiciel Krajowej Rady Kuratorów.
 
 2. Mandat członka Zespołu wygasa przed upływem kadencji przypadku:
@@ -452,7 +459,7 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 2. Organy, o których mowa ust. 1, mogą upoważnić do wykonywania funkcji kontrolnych pracowników podległych im urzędów marszałkowskich, powiatowych, miejskich lub gminnych lub funkcjonariuszy straży gminnych.
 
-3. Podmiotem uprawnionym do kontroli wykonywania obowiązków, o których mowa art. 21 i art. 22b, zakresie swojej właściwości rzeczowej i miejscowej jest organ prowadzący jednostkę systemu oświaty, o której mowa art. 2 pkt 1–8 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, lub organ sprawujący nadzór pedagogiczny nad taką jednostką, organ zarządzający lub nadzorujący inną placówkę lub prowadzenie działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, uprawianiem sportu lub realizacją innych zainteresowań przez małoletnich, lub z opieką nad nimi.
+3. Podmiotem uprawnionym do kontroli wykonywania obowiązków, o których mowa art. 21 i art. 22b, zakresie swojej właściwości rzeczowej i miejscowej jest organ prowadzący jednostkę systemu oświaty, o której mowa art. 2 pkt 1–8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, lub organ sprawujący nadzór pedagogiczny nad taką jednostką, organ zarządzający lub nadzorujący inną placówkę lub prowadzenie działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, uprawianiem sportu lub realizacją innych zainteresowań przez małoletnich, lub z opieką nad nimi.
 
 4. Kontrolujący ramach kontroli jest uprawniony do:
 
@@ -462,13 +469,13 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 5. Z czynności kontrolnych kontrolujący sporządza protokół, którego jeden egzemplarz doręcza kierownikowi kontrolowanego podmiotu lub kontrolowanej osobie fizycznej wraz z zaleceniami pokontrolnymi.
 
-6. Jeżeli wyniku kontroli zostanie stwierdzone naruszenie przez kontrolowany podmiot przepisów lub występuje uzasadnione podejrzenie, że takie naruszenie mogło nastąpić, niezależnie od przekazania zaleceń podmiotowi kontrolowanemu, wójt, burmistrz, prezydent miasta, starosta, marszałek województwa lub podmioty wymienione ust. 3 niezwłocznie powiadamiają Policję lub prokuratora. nia przez pracodawcę obowiązku, o którym mowa art. 21 ust. 2.
+6. Jeżeli wyniku kontroli zostanie stwierdzone naruszenie przez kontrolowany podmiot przepisów lub występuje uzasadnione podejrzenie, że takie naruszenie mogło nastąpić, niezależnie od przekazania zaleceń podmiotowi kontrolowanemu, wójt, burmistrz, prezydent miasta, starosta, marszałek województwa lub podmioty wymienione ust. 3 niezwłocznie powiadamiają Policję lub prokuratora.
 
-2. W razie stwierdzenia naruszenia wykonywania przez pracodawcę obowiązku, o którym mowa art. 21 ust. 2, Państwowa Inspekcja Pracy niezwłocznie powiadamia o tym Policję lub prokuratora.
+**Art. 22y.**
 
-**Art. 22z.**
+1. Państwowa Inspekcja Pracy zakresie swojej właściwości jest uprawniona do kontroli wykonywania przez pracodawcę obowiązku, o którym mowa art. 21 ust. 2.
 
-1. Prezes Narodowego Funduszu Zdrowia zakresie swojej właściwości jest uprawniony do kontroli wykonywania przez pracodawcę lub organizatora działalności obowiązku, o którym mowa art. 21 ust. 2, oraz obowiązku wprowadzenia standardów.
+2. W razie stwierdzenia naruszenia wykonywania przez pracodawcę obowiązku, o którym mowa art. 21 ust. 2, Państwowa Inspekcja Pracy niezwłocznie powiadamia o tym Policję lub prokuratora. wiązku wprowadzenia standardów.
 
 2. W razie stwierdzenia naruszenia wykonywania przez pracodawcę lub organizatora działalności obowiązku, o którym mowa art. 21 ust. 2, lub obowiązku wprowadzenia standardów pracownicy Narodowego Funduszu Zdrowia przeprowadzający kontrolę niezwłocznie powiadamiają o tym Policję lub prokuratora.”;
 
@@ -486,11 +493,11 @@ o zmianie ustawy Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 **Art. 23c.** Kto dopuszcza do pracy lub do innej działalności związanej z wychowaniem, edukacją, leczeniem małoletnich lub z opieką nad nimi osobę wiedząc, że osoba ta ma obowiązek stosowania się do orzeczonego przez sąd zakazu zajmowania wszelkich lub określonych stanowisk, wykonywania wszelkich lub określonych zawodów albo działalności, związanych z wychowaniem, edukacją, leczeniem małoletnich lub z opieką nad nimi, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”;
 
-**Art. 9.** Tworzy się:
+**Art. 8.** Rada Ministrów przyjmie pierwszy Krajowy Plan Przeciwdziałania Przemocy na Szkodę Małoletnich oraz pierwszy Krajowy Plan Przeciwdziałania Przestępstwom Przeciwko Wolności Seksualnej i Obyczajności na Szkodę Małoletnich do dnia 31 grudnia 2026 r.
 
 **Art. 10.** Podmioty, o których mowa art. 22b ust. 1 oraz art. 22c ust. 3 ustawy zmienianej art. 7, mają obowiązek wprowadzenia standardów ochrony małoletnich terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 **Art. 11.** Przepisy ustawy zmienianej art. 4, brzmieniu nadanym niniejszą ustawą, stosuje się do skazanych, którzy rozpoczną odbywanie kary pozbawienia wolności po dniu wejścia życie niniejszej ustawy.
 
-**Art. 12.** Ustawa wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1–3, art. 5, art. 7 pkt 6 zakresie rozdziałów 4c i 4d, art. 8 oraz art. 9, które wchodzą życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 12.** Ustawa wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1–3, art. 5, art. 7 pkt 6 zakresie rozdziałów 4c i 4d, art. 8 oraz art. 9, które wchodzą życie po upływie 14 dni od dnia ogłoszenia.
 

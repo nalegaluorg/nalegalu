@@ -8,9 +8,12 @@ pos: 677
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# Dziennik Ustaw Nr 67 — 5004 — Poz. 677 i 678
+# o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”
+
+*USTAWA z dnia 23 maja 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,15 +29,17 @@ domain: null
 
 **Art. 1.**
 
-1. Ustanawia się program wieloletni ŃBudo- nie mogą przekroczyć kwoty 600000 tys. zł, przy wartowa Kampusu 600-lecia Odnowienia Uniwersytetu Ja- ści kosztorysowej zadań inwestycyjnych objętych Progiellońskiego”, zwany dalej ŃProgramem”. gramem wynoszącej 820000 tys. zł wcenach roku 2001.
+1. Ustanawia się program wieloletni „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”, zwany dalej „Programem”.
 
-2. Ustala się okres realizacji Programu na lata 2. Ârodki finansowe z budżetu państwa, o których 2001—2010. mowa wust. 1, uwzględnia się każdego roku wustawie budżetowej.
+2. Ustala się okres realizacji Programu na lata 2001–2017.
 
-**Art. 2.** Nadzór nad realizacją Programu sprawuje minister właściwy do spraw szkolnictwa wyższego. Art. 4. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Nadzór nad realizacją Programu sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
 
 **Art. 3.**
 
-1. Ęączne nakłady budżetu państwa na dofinansowanie Programu w całym okresie jego realizacji Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 677 USTAWA zdnia 23 maja 2001 r. oustanowieniu programu wieloletniego ŃBudowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”. 678 USTAWA zdnia 7 czerwca 2001 r. ozmianie ustawy ołączności.
+1. Łączne nakłady budżetu państwa na dofinansowanie Programu w całym okresie jego realizacji nie mogą przekroczyć kwoty 946 543 tys. zł, przy wartości kosztorysowej zadań inwestycyjnych objętych Programem wynoszącej 962 500 tys. zł w cenach roku 2008.
 
-**Art. 1.** Wustawie zdnia 23 listopada 1990 r. ołączności (Dz. U. z1995 r. Nr 117, poz. 564, z1996 r. Nr 106, poz. 496, z 1997 r. Nr 43, poz. 272, Nr 88, poz. 554, Nr 106, poz. 675, Nr 121, poz. 770 i Nr 137, poz. 926, z 1998 r. Nr 137, poz. 887 i Nr 150, poz. 984 , z 1999 r. Nr 47, poz. 461 oraz z 2000 r. Nr 62, poz. 718, Nr 73, poz.852 iNr 120, poz.1268) wprowadza się następujące zmiany:
+2. Środki finansowe z budżetu państwa, o których mowa w ust. 1, uwzględnia się każdego roku w ustawie budżetowej.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

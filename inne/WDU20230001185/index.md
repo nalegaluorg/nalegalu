@@ -8,9 +8,12 @@ pos: 1185
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 czerwca 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1185/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 maja 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U.
 z 2020 r. poz. 2134), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 kwietnia 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 166 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280), który stanowi: „Art. 166. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem:

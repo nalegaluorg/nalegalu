@@ -8,9 +8,12 @@ pos: 1938
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# iprywatyzacji, są obowiązani do złożenia tego egzaminu terminie 12 miesięcy od dnia wejścia życie ustawy;
+# o zmianie ustawy o służbie medycyny pracy oraz niektórych innych ustaw
+
+*USTAWA z dnia 17 października 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +27,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031991938) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1938/text.pdf) |
 
-którzy wtym dniu wykonują zajęcia, świadczą pracę lub usługi albo posiadają akcje lub udziały, których 13 ustawy dnia 30 sierpnia 1996 okomercjalizacji iprywatyzacji, są obowiązani do zaprzestania wykonywania tych zajęć, świadczenia lub usług, zbycia akcji lub udziałów albo do rezygnacji członkostwa terminie 6 miesięcy od dnia wejścia życie ustawy.
+**Art. 1.** W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz.U. Nr 96, poz. 593, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.**
+**Art. 2.** chorobach zakaźnych i zakażeniach.”.
 
-1. Jeżeli istniejących dniu wejścia życie ustawy spółkach udziałem jednostek samorządu terytorialnego spółkach zależnych od du terytorialnego wykonującej zadania charakterze użyteczności publicznej powołuje wojewoda właściwy ze względu na siedzibę spółki terminie 2 miesięcy po upływie terminu, którym 1.
+**Art. 3.** W ustawie z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz.U. Nr 126, poz. 1384 oraz z 2003 r. Nr 45, poz. 391) wprowadza się następujące zmiany:
 
-**Art. 5.** Wterminie 6 miesięcy od dnia wejścia wżycie ustawy spółki udziałem jednostek samorządu terytorialnego spółki zależne od tych spółek, istniejące dniu wejścia życie ustawy, dostosują postanowienia swoich umów, aktów założycielskich lub statutów do jej przepisów.
-
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA dnia 17 paêdziernika 2003 zmianie ustawy służbie niektórych innych ustaw
-
-**Art. 1.** W ustawie dnia 27 czerwca 1997 bie (Dz. U. 96, 593, póên. zm. ) wprowadza następujące zmiany:
-
-**Art. 3.** W ustawie dnia 6 września 2001 chorobach zakaênych zakażeniach (Dz. U. 126, ——————— ustalenia rozpoznania choroby,”; 6:
+**Art. 4.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.
 

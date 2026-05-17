@@ -8,6 +8,7 @@ pos: 548
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # U. 2026 poz. 548
@@ -21,8 +22,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-27 |
 | Data wydania | 2026-04-22 |
-| Wejście w życie | 2026-07-23 |
-| Ostatnia zmiana | 2026-04-23 |
+| Ostatnia zmiana | 2026-05-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/548/text.pdf) |
 
 USTAWA 27 marca 2026 r.
@@ -50,7 +50,7 @@ zarządzaniu danymi
 
 2. Podmiot sektora publicznego, rozumieniu 2 pkt 17 2022/868, zwany dalej „podmiotem sektora publicznego”, udostępnia portalu danych, rozumieniu 2 pkt 13 ustawy 11 sierpnia 2021 r. otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, informacje gromadzone wykazie zasobów, których mowa 8 ust. 2 zdanie drugie 2022/868.
 
-**Art. 5.** Minister właściwy do spraw informatyzacji określa kryteria i metodykę obliczania opłat, których mowa 6 ust. 6 2022/868, udostępnia je pojedynczym punkcie informacyjnym, którym mowa 8 ust. 1 2022/868.
+**Art. 5.** Minister właściwy do spraw informatyzacji określa kryteria i metodykę obliczania opłat, których mowa 6 ust. 6 2022/868, oraz udostępnia je pojedynczym punkcie informacyjnym, którym mowa 8 ust. 1 2022/868.
 
 ##### Oddział 2 Dostęp do celów ponownego wykorzystywania danych
 
@@ -65,7 +65,7 @@ zarządzaniu danymi
 
 - **3)** wskazanie danych, których mowa 3 ust. 1 2022/868, do których ma zostać udzielony dostęp do celów ponownego wykorzystywania;
 - **4)** cel ponownego wykorzystywania, tym określenie rodzaju działalności, której dane wskazane we wniosku będą ponownie wykorzystywane, szczególności wskazanie dóbr, produktów lub usług;
-- **5)** informacje, których mowa 5 ust. 9 2022/868, dotyczące zamiaru przekazania do państwa trzeciego danych nieosobowych wskazanych we wniosku cel takiego przekazania.
+- **5)** informacje, których mowa 5 ust. 9 2022/868, dotyczące zamiaru przekazania do państwa trzeciego danych nieosobowych wskazanych we wniosku oraz cel takiego przekazania.
 
 2. We wniosku ponowne wykorzystywanie wnioskodawca może wskazać warunki ponownego wykorzystywania, których mowa 5 2022/868, które opinii wnioskodawcy powinny zostać określone przez podmiot sektora publicznego przy udzielaniu dostępu do celów ponownego wykorzystywania danych.
 
@@ -77,7 +77,7 @@ zarządzaniu danymi
 
 1. Podmiot sektora publicznego wzywa wnioskodawcę do złożenia na piśmie wyjaśnień lub do przesłania dokumentów, jeżeli są one konieczne do rozpatrzenia wniosku ponowne wykorzystywanie.
 
-2. W wezwaniu podmiot sektora publicznego wskazuje termin, jakim należy złożyć wyjaśnienia lub przesłać dokumenty, skutki prawne niezastosowania się do tego wezwania.
+2. W wezwaniu podmiot sektora publicznego wskazuje termin, jakim należy złożyć wyjaśnienia lub przesłać dokumenty, oraz skutki prawne niezastosowania się do tego wezwania.
 
 **Art. 9.** Podmiot sektora publicznego po rozpatrzeniu wniosku ponowne wykorzystywanie:
 
@@ -86,7 +86,7 @@ zarządzaniu danymi
 1. Oferta zawiera:
 
 - **1)** warunki ponownego wykorzystywania danych wskazanych we wniosku ponowne wykorzystywanie, określone zgodnie 5 2022/868;
-- **2)** wysokość opłaty za zezwolenie na ponowne wykorzystywanie danych wskazanych we wniosku ponowne wykorzystywanie, zwanej dalej „opłatą”, określoną zgodnie 6 2022/868, wskazanie rachunku bankowego, na który należy uiścić opłatę, wraz terminem jej uiszczenia, niekrótszym niż 7 dni od przyjęcia oferty, albo informację braku takiej opłaty.
+- **2)** wysokość opłaty za zezwolenie na ponowne wykorzystywanie danych wskazanych we wniosku ponowne wykorzystywanie, zwanej dalej „opłatą”, określoną zgodnie 6 2022/868, oraz wskazanie rachunku bankowego, na który należy uiścić opłatę, wraz terminem jej uiszczenia, niekrótszym niż 7 dni od przyjęcia oferty, albo informację braku takiej opłaty.
 
 2. Podmiot sektora publicznego, ustalając wysokość opłaty, uwzględnia koszty, których mowa 18 ust. 4 pkt 1.
 
@@ -106,7 +106,7 @@ zarządzaniu danymi
 
 1. W przypadku złożenia sprzeciwu podmiot sektora publicznego, drodze decyzji, odmawia udzielenia dostępu do celów ponownego wykorzystywania danych wskazanych we wniosku ponowne wykorzystywanie.
 
-2. Organem odwoławczym od decyzji, których mowa 9 pkt 3 ust. 1, jest minister właściwy do spraw informatyzacji.
+2. Organem odwoławczym od decyzji, których mowa 9 pkt 3 oraz ust. 1, jest minister właściwy do spraw informatyzacji.
 
 **Art. 15.** Prawo wyłączne, którym mowa 4 2022/868, jest udzielane przez podmiot sektora
 
@@ -127,17 +127,17 @@ zarządzaniu danymi
 - **1)** przedstawia podmiotowi sektora publicznego informację sposobie i zakresie udzielenia pomocy wraz ze wskazaniem wysokości kosztów, które poniesie Prezes GUS, udzielając pomocy, określonych zgodnie 6 2022/868 albo
 - **2)** informuje podmiot sektora publicznego braku możliwości udzielenia pomocy zakresie wskazanym we wniosku udzielenie pomocy wraz uzasadnieniem.
 
-5. W zakresie nieuregulowanym ustawą lub rozporządzeniem 2022/868 do wniosku udzielenie pomocy stosuje się odpowiednio przepisy 14, 33, 63 i 64 przepisy działu I rozdziału 8 i 10 ustawy 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+5. W zakresie nieuregulowanym ustawą lub rozporządzeniem 2022/868 do wniosku udzielenie pomocy stosuje się odpowiednio przepisy 14, 33, 63 i 64 oraz przepisy działu I rozdziału 8 i 10 ustawy 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 #### Rozdział 3 Usługi pośrednictwa danych
 
 **Art. 19.** Organem właściwym do spraw usług pośrednictwa danych, którym mowa 13 2022/868, jest Prezes UODO.
 
-**Art. 20.** Prezes UODO wydaje na piśmie oświadczenie, którym mowa 11 ust. 8 2022/868 potwierdzenie, którym mowa 11 ust. 9 tego rozporządzenia.
+**Art. 20.** Prezes UODO wydaje na piśmie oświadczenie, którym mowa 11 ust. 8 2022/868 oraz potwierdzenie, którym mowa 11 ust. 9 tego rozporządzenia.
 
 **Art. 21.**
 
-1. Prezes UODO nakłada, drodze decyzji, środki, których mowa 14 ust. 4 lit. b i c ust. 5 rozporządzenia 2022/868.
+1. Prezes UODO nakłada, drodze decyzji, środki, których mowa 14 ust. 4 lit. b i c oraz ust. 5 rozporządzenia 2022/868.
 
 2. Prezes UODO udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej Prezesa UODO informację wydaniu decyzji, której mowa ust. 1.
 
@@ -162,7 +162,7 @@ zarządzaniu danymi
 
 2. Prezes UODO przetwarza publicznym krajowym rejestrze uznanych organizacji altruizmu danych dane, których mowa 19 ust. 4 lit. a–i 2022/868.
 
-3. Prezes UODO udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej Prezesa UODO informacje gromadzone publicznym krajowym rejestrze uznanych organizacji altruizmu danych, których mowa 19 ust. 4 lit. a, b, f, g h 2022/868.
+3. Prezes UODO udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej Prezesa UODO informacje gromadzone publicznym krajowym rejestrze uznanych organizacji altruizmu danych, których mowa 19 ust. 4 lit. a, b, f, g oraz h 2022/868.
 
 4. Prezes UODO jest administratorem publicznego krajowego rejestru uznanych organizacji altruizmu danych.
 
@@ -178,7 +178,7 @@ zarządzaniu danymi
 
 1. Prezes UODO przekazuje skarżącemu informacje, których mowa 27 ust. 2 2022/868, niepóźniej niż terminie 3 miesięcy od wpływu skargi przeciwko uznanej organizacji altruizmu danych, której mowa 27 ust. 1 2022/868.
 
-2. Jeżeli informacje, których mowa 27 ust. 2 2022/868, nie mogą zostać przekazane terminie, którym mowa ust. 1, Prezes UODO zawiadamia skarżącego przyczynach opóźnienia terminie, jakim przekaże informacje, niedłuższym jednak niż 6 miesięcy od wpływu skargi przeciwko uznanej organizacji altruizmu danych, której mowa 27 ust. 1 2022/868.
+2. Jeżeli informacje, których mowa 27 ust. 2 2022/868, nie mogą zostać przekazane terminie, którym mowa ust. 1, Prezes UODO zawiadamia skarżącego przyczynach opóźnienia oraz terminie, jakim przekaże informacje, niedłuższym jednak niż 6 miesięcy od wpływu skargi przeciwko uznanej organizacji altruizmu danych, której mowa 27 ust. 1 2022/868.
 
 3. Do skargi przeciwko uznanej organizacji altruizmu danych, której mowa 27 ust. 1 2022/868, nie stosuje się przepisów działu VIII ustawy 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
@@ -207,7 +207,7 @@ zarządzaniu danymi
 
 **Art. 31.** Prezes UODO może nałożyć na ponownego użytkownika, któremu przyznano prawo do ponownego wykorzystywania na podstawie rozdziału II 2022/868, dostawcę usług pośrednictwa danych lub uznaną organizację altruizmu danych, drodze decyzji, administracyjną karę pieniężną wysokości do 2 000 000 zł, przypadku stwierdzenia naruszenia obowiązków, których mowa 5 ust. 14 lub 31 2022/868, dotyczących przekazywania danych nieosobowych do państw trzecich.
 
-**Art. 32.** Prezes UODO, ustalając wysokość administracyjnych kar pieniężnych, których mowa 29–31, nakładanych na dostawców usług pośrednictwa danych, uznane organizacje altruizmu danych ponownych użytkowników, którym przyznano prawo do ponownego wykorzystywania na podstawie rozdziału II 2022/868, uwzględnia przesłanki, których mowa 34 ust. 2 2022/868, a także możliwości finansowe podmiotu podlegającego karze.
+**Art. 32.** Prezes UODO, ustalając wysokość administracyjnych kar pieniężnych, których mowa 29–31, nakładanych na dostawców usług pośrednictwa danych, uznane organizacje altruizmu danych oraz ponownych użytkowników, którym przyznano prawo do ponownego wykorzystywania na podstawie rozdziału II 2022/868, uwzględnia przesłanki, których mowa 34 ust. 2 2022/868, a także możliwości finansowe podmiotu podlegającego karze.
 
 **Art. 33.**
 
@@ -223,7 +223,7 @@ zarządzaniu danymi
 
 #### Rozdział 7 Przepisy zmieniające i przepis końcowy
 
-**Art. 37.** W ustawie 29 czerwca 1995 r. statystyce publicznej (Dz. U. 2024 r. poz. 1799, 2025 r. poz. 1792 2026 r. poz. 507) 25 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Prezes Głównego Urzędu Statystycznego jest właściwym podmiotem, którym mowa 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 30 maja 2022 r. sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt sprawie zarządzania danymi) (Dz. 152 03.06.2022, 1, późn. zm. ).”.
+**Art. 37.** W ustawie 29 czerwca 1995 r. statystyce publicznej (Dz. U. 2024 r. poz. 1799, 2025 r. poz. 1792 oraz 2026 r. poz. 507) 25 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Prezes Głównego Urzędu Statystycznego jest właściwym podmiotem, którym mowa 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 30 maja 2022 r. sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt sprawie zarządzania danymi) (Dz. 152 03.06.2022, 1, późn. zm. ).”.
 
-**Art. 39.** Ustawa wchodzi życie po upływie 3 miesięcy od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 39.** Ustawa wchodzi życie po upływie 3 miesięcy od ogłoszenia.
 

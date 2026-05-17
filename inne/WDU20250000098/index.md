@@ -8,9 +8,12 @@ pos: 98
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 stycznia 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 stycznia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/98/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 stycznia 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2024 r.
 poz. 419), z uwzględnieniem zmian wprowadzonych ustawą z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 stycznia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 25 i art. 27 ustawy z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635), które stanowią: „Art. 25. Do spraw dotyczących udzielania pomocy de minimis wszczętych i niezakończonych przed dniem 1 lipca 2024 r. stosuje się przepisy ustaw zmienianych art. 1–24 brzmieniu nadanym niniejszą ustawą.” „Art. 27. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.”.
@@ -102,7 +103,7 @@ o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 
 6. Agencja uczestniczy realizacji programów międzynarodowych, szczególności programów i inicjatyw Unii Europejskiej z zakresu, o którym mowa ust. 1.
 
-7. Agencja uczestniczy, porozumieniu z ministrem właściwym do spraw rozwoju regionalnego, realizacji działań z zakresu współpracy rozwojowej, o której mowa ustawie z dnia 16 września 2011 r. o współpracy rozwojowej (Dz. U. z 2024 r. poz. 1384). pomocy finansowej stanowiącej pomoc publiczną, dotyczącej szczególności: udziału przedsiębiorców imprezach targowo-wystawienniczych i misjach gospodarczych, realizacji branżowych projektów promocyjnych, realizacji projektów Domów Polskich, uzyskania certyfikatów wyrobu, szkoleń o tematyce handlu zagranicznego, organizacji konferencji, seminariów, warsztatów oraz przedsięwzięć wydawniczych.
+7. Agencja uczestniczy, porozumieniu z ministrem właściwym do spraw rozwoju regionalnego, realizacji działań z zakresu współpracy rozwojowej, o której mowa ustawie z dnia 16 września 2011 r. o współpracy rozwojowej (Dz. U. z 2024 r. poz. 1384). -wystawienniczych i misjach gospodarczych, realizacji branżowych projektów promocyjnych, realizacji projektów Domów Polskich, uzyskania certyfikatów wyrobu, szkoleń o tematyce handlu zagranicznego, organizacji konferencji, seminariów, warsztatów oraz przedsięwzięć wydawniczych.
 
 2. Rada Ministrów określi, drodze rozporządzeń, przeznaczenie pomocy, o której mowa ust. 1, warunki jej dopuszczalności, tryb udzielania oraz sposób jej monitorowania, uwzględniając konieczność efektywnego i skutecznego wykorzystania tej pomocy oraz zapewnienia przejrzystości jej udzielania.
 
@@ -147,7 +148,7 @@ o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 2. Do zadań rad sektorowych należy szczególności:
 
 - **1)** pozyskiwanie wiedzy od przedsiębiorców na temat potrzeb kwalifikacyjno-zawodowych występujących na rynku pracy danym sektorze gospodarki;
-- **2)** upowszechnianie informacji na temat potrzeb kwalifikacyjno-zawodowych danym sektorze gospodarki; 2016 r. Prawo oświatowe, celu zintegrowania edukacji i pracodawców;
+- **2)** upowszechnianie informacji na temat potrzeb kwalifikacyjno-zawodowych danym sektorze gospodarki;
 - **4)** formułowanie rekomendacji zakresie dostosowania kadr gospodarki do aktualnych potrzeb przedsiębiorców danym sektorze gospodarki.
 
 3. Rada sektorowa liczy nie mniej niż 5 członków, tym co najmniej po 1 przedstawicielu partnerów społecznych i gospodarczych rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uczelni lub podmiotów, o których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, przedsiębiorców oraz jeżeli zostanie wskazany co najmniej 1 przedstawiciel ministra właściwego dla danego sektora gospodarki.
@@ -187,7 +188,7 @@ o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 - **10)** udzielanie pomocy finansowej przeznaczonej na:
     - **a)** wspomaganie działań określonych pkt 1–6 i 11, prowadzonych przez inne podmioty,
     - **b)** szkolenia, usługi doradcze, inwestycje przedsiębiorców oraz inne działania rozwojowe, tym obejmujące badania przemysłowe i prace rozwojowe rozumieniu przepisów rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym zastosowaniu art. 107 i 108 Traktatu, sprzyjające wzrostowi ich konkurencyjności lub innowacyjności,
-    - **c)** działania określone art. 6b ust. 5, rozwoju kapitału ludzkiego lub potencjału adaptacyjnego przedsiębiorców,
+    - **c)** działania określone art. 6b ust. 5,
     - **e)** uzyskanie ochrony i realizację ochrony prawa własności przemysłowej,
     - **f)** realizację przedsięwzięć zakresie rozwoju infrastruktury technicznej,
     - **g)** przygotowanie przez mikroprzedsiębiorców, małych i średnich przedsiębiorców wniosków o dofinansowanie projektów realizowanych ramach międzynarodowych programów innowacyjnych lub udział tych programach,
@@ -369,7 +370,7 @@ o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 
 4. Agencja może odmówić udzielenia pomocy finansowej formie wsparcia, pożyczki lub instrumentu finansowego podmiotowi, o którym mowa ust. 1 pkt 1–3 i 5–9, jeżeli poweźmie uzasadnioną wątpliwość co do prawidłowego wykorzystania tej pomocy.
 
-4a. Agencja może odmówić udzielenia pomocy finansowej formie wsparcia, pożyczki lub instrumentu finansowego podmiotowi, o którym mowa ust. 1 pkt 1–3 i 5–9, jeżeli prowadziłoby to do obejścia zasad udzielenia tej pomocy, szczególności warunków podmiotowych, przeznaczenia, intensywności lub kwoty pomocy. może odmówić udzielenia pomocy finansowej formie wsparcia, pożyczki lub instrumentu finansowego podmiotowi, o którym mowa ust. 1 pkt 1–3 i 5–9, tym gdy toczy się postępowanie karne lub karne skarbowe sprawie o przestępstwo wskazane ust. 3 pkt 1 związku z dofinansowaniem lub inną formą wsparcia finansowego, które zostały udzielone ze środków publicznych na realizację projektu lub innego przedsięwzięcia temu podmiotowi, podmiotowi powiązanemu z nim osobowo lub kapitałowo rozumieniu art. 6c ust. 2, lub członkowi organu tych podmiotów.
+4a. Agencja może odmówić udzielenia pomocy finansowej formie wsparcia, pożyczki lub instrumentu finansowego podmiotowi, o którym mowa ust. 1 pkt 1–3 i 5–9, jeżeli prowadziłoby to do obejścia zasad udzielenia tej pomocy, szczególności warunków podmiotowych, przeznaczenia, intensywności lub kwoty pomocy. o którym mowa ust. 1 pkt 1–3 i 5–9, tym gdy toczy się postępowanie karne lub karne skarbowe sprawie o przestępstwo wskazane ust. 3 pkt 1 związku z dofinansowaniem lub inną formą wsparcia finansowego, które zostały udzielone ze środków publicznych na realizację projektu lub innego przedsięwzięcia temu podmiotowi, podmiotowi powiązanemu z nim osobowo lub kapitałowo rozumieniu art. 6c ust. 2, lub członkowi organu tych podmiotów.
 
 4c. Odmowa udzielenia pomocy finansowej formie wsparcia, pożyczki lub instrumentu finansowego podmiotowi, o którym mowa ust. 1 pkt 1–3 i 5–9, na podstawie przesłanek, o których mowa ust. 4–4b, może nastąpić również po dokonaniu wyboru projektu postępowaniu o udzielenie pomocy finansowej.
 
@@ -426,7 +427,7 @@ o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 - **1)** uczestniczeniu spółce jako wspólnik spółki cywilnej lub spółki osobowej;
 - **2)** posiadaniu co najmniej 10 % udziałów lub akcji;
 - **3)** pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;
-- **4)** pozostawaniu takim stosunku prawnym lub faktycznym, który może budzić uzasadnione wątpliwości co do bezstronności wyborze wykonawcy, szczególności pozostawanie związku małżeńskim, stosunku pokrewieństwa lub powinowactwa linii prostej, pokrewieństwa lub powinowactwa linii bocznej do drugiego stopnia lub stosunku przysposobienia, opieki lub kurateli. czyć tych usług na rzecz podmiotów powiązanych z nim osobowo lub kapitałowo rozumieniu ust. 2.
+- **4)** pozostawaniu takim stosunku prawnym lub faktycznym, który może budzić uzasadnione wątpliwości co do bezstronności wyborze wykonawcy, szczególności pozostawanie związku małżeńskim, stosunku pokrewieństwa lub powinowactwa linii prostej, pokrewieństwa lub powinowactwa linii bocznej do drugiego stopnia lub stosunku przysposobienia, opieki lub kurateli.
 
 4. W ramach programów operacyjnych lub innych programów finansowanych z udziałem środków europejskich rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych realizowanych przez Agencję stosuje się zasady i procedury wyboru wykonawcy określone procedurach obowiązujących przy wdrażaniu tych programów.
 
@@ -464,7 +465,7 @@ o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 
 1. Dane dotyczące podmiotów, o których mowa art. 6b, tym dane zawarte składanych przez nie wnioskach o udzielenie pomocy finansowej lub pochodzące z tych wniosków, szczególności dotyczące metodyki, opisu, koncepcji projektu, planowanych lub osiągniętych wskaźników lub rezultatów, potencjału finansowego i organizacyjnego, tym zaplecza technicznego wnioskodawcy niepodlegające, na podstawie odrębnych przepisów, ujawnieniu odpowiednich rejestrach, ewidencjach lub wykazach, mogą być przez Agencję udostępniane wyłącznie na wniosek organów administracji publicznej oraz organów ochrony prawnej na podstawie odrębnych przepisów, instytucji zarządzających lub pośredniczących programie operacyjnym, ramach którego został złożony wniosek o udzielenie pomocy finansowej, lub podmiotów, którym Agencja powierzyła lub zleciła realizację zadań, zakresie niezbędnym do realizacji tych zadań.
 
-2. Przepis ust. 1 stosuje się odpowiednio do podmiotów, którym Agencja powierzyła lub zleciła realizację zadań. Rozwoju, o którym mowa art. 10 ust. 1 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju.
+2. Przepis ust. 1 stosuje się odpowiednio do podmiotów, którym Agencja powierzyła lub zleciła realizację zadań.
 
 **Art. 7.**
 
@@ -681,7 +682,7 @@ o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 
 3b. Odroczenie terminu lub rozłożenie na raty spłaty całości lub części należności i wierzytelności Agencji stanowi dla przedsiębiorcy pomoc de minimis udzielaną zakresie i na zasadach określonych bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy ramach zasady de minimis, pod warunkiem że wartość pomocy obliczona zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635) wykazuje wartość dodatnią.
 
-4. Umorzenie należności i wierzytelności Agencji, za które dłużnicy są odpowiedzialni solidarnie, może nastąpić, jeżeli okoliczności uzasadniające umorzenie zachodzą co do wszystkich dłużników. należności i wierzytelności Agencji, odroczenie lub rozłożenie na raty ich spłaty wymaga zgody ministra właściwego do spraw rozwoju regionalnego, za uprzednią zgodą ministra właściwego ze względu na zakres programu, ramach którego należności lub wierzytelności Agencji powstały.
+4. Umorzenie należności i wierzytelności Agencji, za które dłużnicy są odpowiedzialni solidarnie, może nastąpić, jeżeli okoliczności uzasadniające umorzenie zachodzą co do wszystkich dłużników. do spraw rozwoju regionalnego, za uprzednią zgodą ministra właściwego ze względu na zakres programu, ramach którego należności lub wierzytelności Agencji powstały.
 
 6. Umorzenie należności i wierzytelności Agencji, odroczenie lub rozłożenie na raty ich spłaty następuje na wniosek dłużnika, z zastrzeżeniem ust. 7.
 
@@ -731,9 +732,9 @@ o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 
 2. Fundusz statutowy Agencji składa się z równowartości netto środków trwałych, wartości niematerialnych i prawnych oraz innych składników majątku, stanowiących wyposażenie Agencji na dzień rozpoczęcia przez nią działalności.
 
-3. Zysk netto Agencji za rok obrotowy przeznacza się na fundusz rezerwowy. dusz rezerwowy, część straty niepokrytą z funduszu rezerwowego pokrywa się z funduszu statutowego.
+3. Zysk netto Agencji za rok obrotowy przeznacza się na fundusz rezerwowy.
 
-5. Decyzję o przeznaczeniu zysku netto albo pokryciu straty netto Agencji za rok obrotowy podejmuje minister właściwy do spraw rozwoju regionalnego na podstawie propozycji Prezesa przedstawionej wraz ze sprawozdaniem finansowym Agencji za dany rok obrotowy.
+4. Stratę netto Agencji za rok obrotowy pokrywa się z funduszu rezerwowego. Jeżeli strata netto jest wyższa, niż fundusz rezerwowy, część straty niepokrytą z funduszu rezerwowego pokrywa się z funduszu statutowego. za dany rok obrotowy.
 
 **Art. 17.**
 

@@ -8,9 +8,12 @@ pos: 1527
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 sierpnia 2019 r.
+# o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
+
+*USTAWA z dnia 19 lipca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001527) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1527/text.pdf) |
 
-USTAWA z dnia 19 lipca 2019 r.
-o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2019 r. poz. 1155, 1123 i 1210) wprowadza się następujące zmiany:
+
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, 1403, 1495 i 1501) art. 401 ust. 7 pkt 15 otrzymuje brzmienie: „15) wpływy z tytułu opłaty emisyjnej, o której mowa art. 321a, części przypadającej Narodowemu Funduszowi.”;
 
 **Art. 3.** W ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2019 r. poz. 660) wprowadza się następujące zmiany:
 
@@ -42,6 +44,8 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 **Art. 8.** Udział biowęglowodorów ciekłych wykorzystanych przez podmiot realizujący Narodowy Cel Wskaźnikowy do realizacji obowiązku, o którym mowa art. 23 ust. 1 ustawy zmienianej art. 1, liczony według wartości opałowej ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium, nie może przekroczyć 0,45% latach 2020–2022.
 
 **Art. 9.** Na lata 2021–2024 ustala się następującą wysokość Narodowego Celu Wskaźnikowego:
+
+**Art. 10.** Udział biokomponentów wytworzonych z surowców określonych załączniku nr 1 do ustawy zmienianej art. 1, liczony według wartości opałowej, ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium, nie może przekroczyć 0,45% latach 2020–2022.
 
 **Art. 11.** Na lata 2020–2022 wysokość współczynników redukcyjnych, o których mowa art. 23 ust. 4 ustawy zmienianej art. 1, wynosi 0,82.
 
@@ -69,11 +73,11 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 **Art. 21.** Do sprawozdań, o których mowa art. 30 ust. 1 i 1b ustawy zmienianej art. 1, brzmieniu dotychczasowym, składanych za okresy do ostatniego kwartału 2019 r. włącznie, oraz do kar pieniężnych za niezrealizowanie obowiązków, o których mowa art. 30 ust. 1 i 1b ustawy zmienianej art. 1, brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
 
+**Art. 22.** Do informacji, o których mowa w:
+
 **Art. 23.**
 
 1. Do sprawozdań, o których mowa art. 30b ust. 1 i 1a ustawy zmienianej art. 1, brzmieniu dotychczasowym, składanych za 2019 r., stosuje się przepisy dotychczasowe.
-
-2. Pierwsze sprawozdania spełniające wymagania określone art. 30b ust. 1 i 1a ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, przekazuje się za 2020 r.
 
 **Art. 24.**
 

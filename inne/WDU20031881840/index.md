@@ -8,9 +8,10 @@ pos: 1840
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# objęte tymi zajęciami. Art. 2.Ustawa wchodzi wżycie zdniem 1 września § 4. Minister Sprawiedliwości może, 2004 wszczególnie uzasadnionych przypadkach, na wniosek prezesa sądu apelacyjnego, 0drodze zarządzenia, powierzyć prezesowi sądu okręgowego Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1839
+# Ustawa z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,114 +25,165 @@ domain: null
 | Ostatnia zmiana | 2025-10-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031881840) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1840/text.pdf) |
 
-USTAWA dnia 19 września 2003 zmianie ustawy dopłatach do oprocentowania niektórych kredytów bankowych
+**Art. 1.** W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. Nr 123, poz. 600, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 117, poz. 1228 oraz z 2002 r. Nr 113, poz. 984 i Nr 240, poz. 2055) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 5 stycznia 1995 odopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. 13, 60, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2002 r. Nr 9, poz. 84 i Nr 200, poz. 1683 oraz z 2003 r. Nr 96, poz. 874 i Nr 110, poz. 1039) art. 1b otrzymuje brzmienie: „Art. 1b. 1. Ulgi i zwolnienia podatkowe zakresie podatków i opłat lokalnych przyznane kościołom i związkom wyznaniowym regulują odrębne ustawy. 2. Zwolnienia z podatku od nieruchomości przyznane z tytułu prowadzenia działalności gospodarczej na terenie specjalnych stref Art. 3 W ustawie z dnia 16 listopada 2000 r. o zmianie ustawy o specjalnych strefach ekonomicznych oraz o zmianie niektórych ustaw (Dz. U. Nr 17, poz. 1228) uchyla się art. 5.
 
-**Art. 2.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA dnia 2 paêdziernika 2003 zmianie ustawy specjalnych strefach ekonomicznych i niektórych ustaw
+**Art. 4.** W ustawie z dnia 27 lipca 2002 r. o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz. U. Nr 141, poz. 1177 oraz z 2003 r. Nr 159, poz. 1537) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 20 paêdziernika 1994 specjalnych strefach ekonomicznych (Dz. U. 123, 600, póên. zm.
+**Art. 5.**
 
-**Art. 2.** W ustawie dnia 12 stycznia 1991 podatkach i opłatach lokalnych (Dz. U. 9, poz.84 iNr 200, 1683 oraz z2003 96, poz.874 i 110, 1039) 1b otrzymuje brzmienie: ŃArt. 1b. 1. Ulgi i zwolnienia podatkowe zakresie podatków i opłat lokalnych przyznane kościołom i związkom wyznaniowym regulują odrębne ustawy. 2. Zwolnienia podatku od nieruchomości przyznane tytułu prowadzenia działalności gospodarczej na terenie specjalnych stref ekonomicznych regulują przepisy ustawy dnia 2 paêdziernika 2003 zmianie ustawy specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. 188, osoby fizyczne prowadzące działalność gospodarczą są zwolnione od podatku dochodowego, odpowiednio na zasadach określonych przepisach podatku dochodowym od osób prawnych lub wprzepisach opodatku dochodowym od osób fizycznych. Wielkość zwolnień podatkowych określają rozporządzenia Rady Ministrów ustanawiające strefy zachowaniem zasad określonych wustawie dnia 27 lipca warunkach dopuszczalności i nadzorowaniu publicznej dla przedsiębiorców (Dz. U.
+1. Z zastrzeżeniem ust. 6, przedsiębiorca, który posiada zezwolenie uzyskane przed dniem 1 stycznia 2001 r., zachowuje prawo do zwolnień podatkowych określonych art. 12 ustawy, o której mowa art. 1, brzmieniu z dnia 31 grudnia 2000 r.:
 
-**Art. 3.** W ustawie dnia 16 listopada 2000 zmianie ustawy specjalnych strefach ekonomicznych oraz zmianie niektórych ustaw (Dz. U. 117,
+- **1)** okresie do dnia 31 grudnia 2011 r. - jeżeli był on dniu wejścia życie niniejszej ustawy małym przedsiębiorcą, 2001 r. sprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz.Urz. WE L 10 z 13.01.2001 r.).
 
-**Art. 4.** W ustawie dnia 27 lipca warunkach dopuszczalności i nadzorowaniu publicznej dla przedsiębiorców (Dz. U. 141, 1177 oraz 2003 159, poz.1537) wprowadza się następujące zmiany:
+2. Dochody uzyskane przez przedsiębiorcę innego niż przedsiębiorca, o którym mowa ust. 1, z działalności gospodarczej prowadzonej na terenie strefy na podstawie zezwolenia wydanego przed dniem 1 stycznia 2001 r., są zwolnione z podatku dochodowego zakresie ustalonym art. 12 ustawy, o której mowa art. 1, z tym że:
+
+- **1)** maksymalna dopuszczalna wielkość pomocy publicznej wynosi:
+    - **a)** 30% kosztów inwestycji poniesionych do dnia 31 grudnia 2006 r. - dla przedsiębiorców prowadzących działalność sektorze motoryzacyjnym,
+    - **b)** 75% kosztów inwestycji poniesionych do dnia 31 grudnia 2006 r. - dla przedsiębiorców prowadzących działalność inną niż określona lit. a na podstawie zezwolenia wydanego przed dniem 1 stycznia 2000 r.,
+    - **c)** 50% kosztów inwestycji poniesionych do dnia 31 grudnia 2006 r. - dla przedsiębiorców prowadzących działalność inną niż określona lit. a na podstawie zezwolenia wydanego po dniu 31 grudnia 1999 r.,
+
+- **2)** przy ustaleniu dopuszczalnej wielkości pomocy publicznej, o której mowa pkt 1, uwzględnia się koszty inwestycji poniesione przez przedsiębiorcę trakcie obowiązywania zezwolenia,
+- **3)** przy ustaleniu dopuszczalnej wielkości pomocy publicznej uwzględnia się całkowitą wielkość pomocy publicznej, jaką uzyskał przedsiębiorca od dnia 1 stycznia 2001 r., z wyłączeniem pomocy publicznej wynikającej z deklaracji podatkowej złożonej za rok 2000,
+- **4)** do określenia wielkości pomocy publicznej z tytułu zwolnienia z podatku dochodowego przyjmuje się dochód uzyskany z działalności gospodarczej prowadzonej na terenie strefy ramach zezwolenia, pomniejszony o równowartość strat poniesionych na tej działalności przez przedsiębiorcę.
+
+3. W przypadku cofnięcia zezwolenia wydanego przed dniem 1 stycznia 2001 r., przedsiębiorca traci prawo do zwolnień, o których mowa ust. 1 i 2, i jest zobowiązany do zapłaty, odpowiednio, podatku dochodowego od osób prawnych lub przepisu art. 10 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291).
+
+5. Za przedsiębiorcę prowadzącego działalność sektorze motoryzacyjnym uważa się przedsiębiorcę:
+
+- **1)** prowadzącego działalność obejmującą produkcję, montaż lub prace projektowo-wdrożeniowe zakresie:
+    - **a)** silników spalinowych, ze spalaniem wewnętrznym, a także innych silników stosowanych wyłącznie pojazdach mechanicznych określonych lit. b-d,
+    - **b)** samochodów osobowych,
+    - **c)** pozostałych pojazdów mechanicznych przeznaczonych do przewozu osób,
+    - **d)** pojazdów mechanicznych przeznaczonych do przewozu towarów,
+    - **e)** nadwozi pojazdów mechanicznych, z wyłączeniem przyczep i naczep,
+
+- **2)** będącego dostawcą komponentów, który zaopatruje przedsiębiorcę, o którym mowa pkt 1, komponenty na potrzeby procesu produkcyjnego lub stadium montażu lub bierze udział pracach projektowo-wdrożeniowych dotyczących produktów wymienionych pkt 1, pod warunkiem że:
+    - **a)** działalność ta jest wykonywana bliskiej odległości od miejsca wykonywania działalności przez przedsiębiorcę, o którym mowa pkt 1, przez co rozumie się szczególności odległość mającą znaczący wpływ na minimalizację kosztów transportu komponentów, tym pozwalającą na bezpośrednie połączenie miejsc wykonywania działalności obu przedsiębiorców linią kolejową lub taśmą transportującą, oraz
+    - **b)** przedsiębiorca, o którym mowa pkt 1, jest odbiorcą co najmniej połowy komponentów sprzedawanych przez danego dostawcę – przy czym przez komponenty należy rozumieć zestaw podstawowych elementów przeznaczonych do produktów wymienionych pkt 1 lit. a-d, produkowane, składane lub montowane przez dostawcę komponentów i dostarczane przez niego przedsiębiorcy, o którym mowa pkt 1, przy wykorzystaniu systemu zamówień. W szczególności komponentami są części i
+
+- **1)** zostało zbytych 100% wkładów udziałów lub akcji przedsiębiorcy, będącego małym lub średnim przedsiębiorcą, o którym mowa ust. 1,
+- **2)** spółka będąca małym lub średnim przedsiębiorcą, o którym mowa ust. 1, połączyła się z inną spółką,
+- **3)** nastąpiło nabycie przedsiębiorstwa od przedsiębiorcy będącego małym lub średnim przedsiębiorcą, o którym mowa ust. 1 – przedsiębiorca traci prawo do zwolnień podatkowych, o których mowa ust. 1.
+
+7. Jeżeli przedsiębiorca, o którym mowa ust. 1 albo 2, jest osobową spółką handlową albo spółką cywilną, uprawnienia, o których mowa ust. 1 i 2, przysługują okresie ważności zezwolenia wspólnikom tej spółki.
+
+8. Jeżeli przedsiębiorca, o którym mowa ust. 2, jest osobową spółką handlową albo spółką cywilną, maksymalną dopuszczalną wielkość pomocy publicznej, o której mowa ust. 2, ustala się:
+
+- **1)** odrębnie odniesieniu do każdego wspólnika tej spółki proporcjonalnie do wielkości jego udziału zyskach spółki;
+- **2)** z uwzględnieniem wielkości pomocy publicznej otrzymanej przez tę spółkę.
 
 **Art. 6.**
 
-1. Przedsiębiorca, który uzyskał zezwolenie przed dniem 1 stycznia 2001 r., może wystąpić zwnioskiem do ministra właściwego do spraw gospodarki jego zmianę polegającą na zastosowaniu do tego przedsiębiorcy przepisów dotyczących zwolnień podatkowych określonych 5 miejsce przepisów 12 ustawy, której 1, brzmieniu dnia 31 grudnia 2000
+1. Przedsiębiorca, który uzyskał zezwolenie przed dniem 1 stycznia 2001 r., może wystąpić z wnioskiem do ministra właściwego do spraw gospodarki o jego zmianę polegającą na zastosowaniu do tego przedsiębiorcy przepisów dotyczących zwolnień podatkowych określonych art. 5 miejsce przepisów art. 12 ustawy, o której mowa art. 1, brzmieniu z dnia 31 grudnia 2000 r.
 
-2. We wniosku, októrym wust. 1, przedsiębiorca może wnosić także ozmianę warunków zezwolenia, szczególności zakresie poziomu zatrudnienia i wielkości nakładów inwestycyjnych.
+2. We wniosku, o którym mowa ust. 1, przedsiębiorca może wnosić także o zmianę warunków zezwolenia, szczególności zakresie poziomu zatrudnienia i wielkości nakładów inwestycyjnych.
 
-3. Minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów, może odmówić zmiany zezwolenia, której ust. 1, jeżeli przedsiębiorca wnosi zmianę przedmiotu działalności gospodarczej, która istotny sposób narusza lub grozi naruszeniem konkurencji przez uprzywilejowanie niektórych przedsiębiorców lub produkcji niektórych towarów.
-
-4. Do zmiany zezwolenia, której wust. 1—3, nie stosuje się 19 ust. 4 ustawy, októrej 1.
-
-5. Termin złożenia wniosku, którym ust. 1, upływa dniem 31 grudnia 2007
+3. Minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów, może odmówić zmiany zezwolenia, o której mowa ust. 1, jeżeli przedsiębiorca wnosi o zmianę przedmiotu działalności gospodarczej, która istotny sposób narusza lub grozi naruszeniem konkurencji przez uprzywilejowanie niektórych przedsiębiorców lub produkcji niektórych towarów. grudnia 2007 r.
 
 **Art. 7.**
 
-1. Wpływy podatku dochodowego od cjalnych są gromadzone wpływy podatku dochodowego podatnika tytułu pozostawania wspólnikiem tej spółki.
+1. Wpływy z podatku dochodowego od osób prawnych lub z podatku dochodowego od osób fizycznych, części określonej ust. 2, od podatnika będącego przedsiębiorcą, o którym mowa art. 5 ust. 1 albo 2, działającego na podstawie zezwolenia wydanego przed dniem 1 stycznia 2001 r. i zmienionego stosownie do art. 6, są gromadzone na rachunku Funduszu Strefowego, o którym mowa art. 8 ust. 1, zwanego dalej „Funduszem”. Jeżeli podatnik ten jest wspólnikiem osobowej spółki handlowej lub spółki cywilnej, na rachunku Funduszu są gromadzone wpływy z podatku dochodowego podatnika z tytułu pozostawania wspólnikiem tej spółki.
 
-2. Wpływy zpodatku dochodowego od dochodów osiąganych działalności gospodarczej prowadzonej na terenie strefy na podstawie zezwolenia, podlegające przekazaniu na rachunek środków specjalnych, stanowią różnicę między kwotą podatku należnego i zapłaconego przez podatnika terminie złożenia deklaracji wysokości osiągniętego dochodu a kwotą podatku, która podlegałaby zapłacie przy uwzględnieniu zwolnień wynikających 12 ustawy, której mowa 1, brzmieniu dnia 31 grudnia 2000
+2. Wpływy z podatku dochodowego od dochodów osiąganych z działalności gospodarczej prowadzonej na terenie strefy na podstawie zezwolenia, podlegające przekazaniu na rachunek Funduszu, stanowią różnicę między kwotą podatku należnego i zapłaconego przez podatnika terminie złożenia deklaracji o wysokości osiągniętego dochodu a kwotą podatku, która podlegałaby zapłacie przy uwzględnieniu zwolnień wynikających z art. 12 ustawy, o której mowa art. 1, brzmieniu z dnia 31 grudnia 2000 r.
 
-3. Przekazanie na rachunek środków specjalnych wpływów, októrych wust. 2, następuje po złożeniu przez podatnika informacji, zgodnie wzorem określonym ust. 10 pkt 3, szczególności wysokości zwolnień, których ust. 2.
+3. Przekazanie na rachunek Funduszu wpływów, o których mowa ust. 2, następuje po złożeniu przez podatnika informacji, zgodnie z wzorem określonym na podstawie ust. 9 pkt 2, szczególności o wysokości zwolnień, o których mowa ust. 2.
 
-4. Informacja, której ust. 3, składana jest do urzędu skarbowego terminie składania deklaracji wysokości osiągniętego dochodu (poniesionej straty) za każdy okres obejmujący okres, za który wpływy podatku dochodowego lub ich część podlegały przekazaniu na rachunek środków specjalnych, formie załącznika do tej deklaracji.
+4. Informacja, o której mowa ust. 3, jest składana do naczelnika urzędu skarbowego terminie składania deklaracji o wysokości osiągniętego dochodu (poniesionej straty) za każdy okres obejmujący okres, za który wpływy z podatku dochodowego lub ich część podlegały przekazaniu na rachunek Funduszu, formie załącznika do tej deklaracji.
 
-5. Ze środków specjalnych, których ust. 1, są dokonywane wpłaty do budżetu państwa wwysokości odpowiadającej kwotom udzielonych dotacji do nowych inwestycji, których 8.
+5. Wpływy, o których mowa ust. 2, są przekazywane przez naczelników urzędów skarbowych, właściwych do poboru podatku dochodowego, na rachunek Funduszu i są gromadzone na wyodrębnionym koncie dla każdego podatnika.
 
-6. Ârodki specjalne, których ust. 1, są:
+7. Kwoty uzyskane z tytułu oprocentowania środków zgromadzonych na rachunku Funduszu są przekazywane, terminie 30 dni po zakończeniu roku kalendarzowego, na pokrycie prowizji z tytułu prowadzenia Funduszu przez Bank Gospodarstwa Krajowego oraz kosztów ponoszonych przez naczelników urzędów skarbowych. Kwota prowizji Banku Gospodarstwa Krajowego nie może stanowić więcej niż 20 % wysokości oprocentowania środków zgromadzonych na rachunku Funduszu.
 
-- **1)** tworzone okresie, na jaki zostały ustanowione poszczególne strefy;
-- **2)** gromadzone przez urzędy skarbowe na wydzielonym tym celu oprocentowanym rachunku bankowym Banku Gospodarstwa Krajowego.
+8. Kwota oprocentowania środków zgromadzonych na rachunku Funduszu części dotyczącej naczelników urzędów skarbowych jest przekazywana na rachunki urzędów skarbowych, których naczelnicy przekazali wpływy, o których mowa ust. 2, na rachunek Funduszu, proporcjonalnie do wysokości tych wpływów.
 
-7. Wpłaty każdego podatnika, stanowiące środki specjalne, są gromadzone na oddzielnym subkoncie środków specjalnych.
+9. Rada Ministrów określi, drodze rozporządzenia:
 
-8. Ârodki pieniężne zgromadzone na subkontach środków specjalnych niewykorzystane okresie nie dłuższym niż 6 lat od upływu okresu, na jaki została ustanowiona strefa, zostaną przekazane na rachunek budżetu państwa.
-
-9. Kwoty uzyskane tytułu oprocentowania środków specjalnych są przekazywane na pokrycie prowizji tytułu prowadzenia rachunków środków specjalnych przez Bank Gospodarstwa Krajowego oraz kosztów ponoszonych przez urzędy skarbowe. Kwota pronych rozliczeń;
-
-- **2)** sposób dysponowania środkami specjalnymi, uwzględnieniem efektywności wykorzystania środków specjalnych;
-- **3)** wzór informacji, októrej wust. 3, wraz zobjaśnieniami co do sposobu jej wypełniania, terminu i miejsca jej składania.
+- **1)** sposób i terminy przekazywania i rozliczania wpływów z podatku dochodowego na rachunek Funduszu, z uwzględnieniem terminów dokonywania wpłat podatku dochodowego i terminów ostatecznych rozliczeń;
+- **2)** wzór informacji, o której mowa ust. 3, wraz z objaśnieniami co do sposobu jej wypełniania, terminu i miejsca jej składania.
 
 **Art. 8.**
 
-1. W okresie od 2006 do 2023 jest tworzona wustawie budżetowej rezerwa celowa wkwocie określonej przez ministra właściwego do spraw gospodarki, lecz nie większej niż suma środków specjalnych, których 7, wykazanych przez urzędy skarbowe na dzień 30 czerwca poprzedniego roku, wyłączeniem wpłaconych zaliczek na podatek dochodowy.
+1. W Banku Gospodarstwa Krajowego latach 2005-2023 tworzy się Fundusz Strefowy.
 
-2. Rezerwa celowa, której ust. 1, jest przeznaczona na dotacje do nowych inwestycji, nieuwzględnionych przy obliczaniu kosztów inwestycji, októrych wart. 5 ust. 2 pkt 2, wwysokości nieprzekraczającej maksymalnej wielkości publicznej przewidzianej dla obszarów określonych na podstawie 13 ustawy publicznej.
+1a. Bank Gospodarstwa Krajowego przekazuje ministrowi właściwemu do spraw finansów publicznych informacje o:
 
-3. Dotacji do nowej inwestycji rozumieniu 7 pkt 11 ustawy publicznej, realizowanej na terytorium Rzeczypospolitej Polskiej, udziela się, zastrzeżeniem ust. 11:
+- **1)** planowanych wydatkach Funduszu na dany rok – do dnia 15 czerwca roku poprzedniego;
+- **2)** o realizacji wydatków Funduszu danym roku – do dnia 30 kwietnia roku następnego.
 
-- **1)** podatnikowi, którym 7 ust. 1, albo przedsiębiorcy, który na podstawie 93 ustawy zdnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 137, 926, póên. zm. go dnia zaliczek na podatek dochodowy, ijest udzielana okresie nie dłuższym niż okres, którym 7 ust. 8.
+2. Środki Funduszu są przeznaczone na wsparcie nowych inwestycji, związanych z utworzeniem lub rozbudową przedsiębiorstwa, jak również z rozpoczęciem przedsiębiorstwie działań obejmujących dokonywanie zasadniczych zmian produkcji bądź procesu produkcyjnego, zmian wyrobu lub usługi, tym także
 
-5. Otrzymana dotacja do nowej inwestycji nie stanowi przychodu rozumieniu przepisów podatku dochodowym.
+3. Wsparcia nowej inwestycji, o której mowa ust. 2, realizowanej na terytorium Rzeczypospolitej Polskiej, udziela się, z zastrzeżeniem ust. 11:
 
-6. Organem udzielającym dotacji do nowej inwestycji jest minister właściwy do spraw gospodarki.
+- **1)** podatnikowi, o którym mowa art. 7 ust. 1, albo przedsiębiorcy, który na podstawie art. 93 i art. 93a ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm. ) wstąpił we wszelkie przewidziane przepisach prawa podatkowego prawa i obowiązki przekształconego podmiotu - razie przekształcenia podatnika wymienionego art. 7 ust. 1;
+- **2)** przedsiębiorcy, którego kapitale zakładowym podatnik lub przedsiębiorca, o których mowa pkt 1, posiada udział wynoszący co najmniej 25%;
+- **3)** przedsiębiorcy, którego kapitale zakładowym podmiot dominujący rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539), wobec podatnika lub przedsiębiorcy, o których mowa pkt 1, posiada udział wynoszący co najmniej 90%.
 
-7. Dotacja do nowej inwestycji jest udzielana na wniosek podatnika albo przedsiębiorcy, których mowa ust. 3, tym że przypadku wniosku składanego przez przedsiębiorcę, októrym wust. 3 pkt 2 lub 3, jest konieczne wyrażenie zgody przez podatnika albo przedsiębiorcę, októrych wust. 3 pkt 1.
+4. Wsparcie nowej inwestycji, o której mowa ust. 2, jest udzielane formie bezzwrotnego wsparcia finansowego okresie nie dłuższym niż okres, o którym mowa art. 7 ust. 6, jednorazowo lub sukcesywnie, rocznych transzach, przy czym:
 
-8. Minister właściwy do spraw gospodarki określi, ) wstąpił we wszelkie przewidziane przepisach prawa podatkowego prawa i obowiązki przekształconego podmiotu wrazie przekształcenia podatnika wymienionego 7 ust. 1;
+- **1)** łączna kwota wsparcia nie może przekroczyć kwoty środków, o których mowa art. 7, gromadzonych na rachunku Funduszu wyodrębnionym dla danego podatnika i maksymalnej dopuszczalnej wielkości pomocy publicznej, określonej zgodnie z rozporządzeniem, o którym mowa ust. 8;
+- **2)** wsparcie przekazane danym roku nie może przekroczyć kwoty środków zgromadzonych na rachunku Funduszu wyodrębnionym dla danego podatnika
 
-- **2)** przedsiębiorcy, którego kapitale zakładowym podatnik lub przedsiębiorca, których pkt 1, posiada udział wynoszący co najmniej 25%;
-- **3)** przedsiębiorcy, którego kapitale zakładowym podmiot dominujący rozumieniu ustawy, której 5 ust. 5 pkt 2 lit. a, wobec podatnika lub przedsiębiorcy, których pkt 1, posiada udział wynoszący co najmniej 90 %.
+5. Otrzymane wsparcie nowej inwestycji nie stanowi przychodu rozumieniu przepisów o podatku dochodowym.
 
-4. Dotacja do nowej inwestycji, której wust. 2, nie może przekraczać kwoty środków specjalnych, których 7, zgromadzonych na drodze rozporządzenia:
+6. Organem udzielającym wsparcia nowej inwestycji jest minister właściwy do spraw gospodarki.
 
-- **1)** wzór wniosku, którym ust. 7, oraz wymagane dokumenty,
-- **2)** szczegółowy tryb i termin składania i rozpatrywania wniosku, którym ust. 7 mając na względzie zapewnienie sprawnego udzielania dotacji.
+7. Wsparcie nowej inwestycji jest udzielane na wniosek podatnika albo przedsiębiorcy, o których mowa ust. 3, z tym że przypadku wniosku składanego przez przedsiębiorcę, o którym mowa ust. 3 pkt 2 lub 3, jest konieczne wyrażenie zgody przez podatnika albo przedsiębiorcę, o których mowa ust. 3 pkt 1. Do wniosku dołącza się dokumenty potwierdzające prawo wnioskodawcy do uzyskania wsparcia.
 
-9. Podstawą udzielenia dotacji jest umowa zawarta przez ministra właściwego do spraw gospodarki otrzymującym dotację.
+8. Rada Ministrów określi, mając na względzie zapewnienie zgodności z zasadami udzielania pomocy publicznej oraz sprawnego udzielania wsparcia, drodze rozporządzenia:
 
-10. Umowa, której ust. 9, określa wartość i harmonogram inwestycji oraz liczbę zatrudnionych pracowników. Umowa określa także wielkość i przeznaczenie oraz zasady rozliczania dotacji i przyczyny zwrotu udzielonej dotacji.
+- **1)** warunki udzielania wsparcia;
+- **2)** koszty kwalifikujące się do objęcia pomocą z tytułu nowej inwestycji, o której mowa ust. 2;
+- **3)** maksymalną dopuszczalną wielkość pomocy;
+- **4)** rodzaje działalności gospodarczej, na którą nie udziela się wsparcia;
+- **5)** wzór wniosku, o którym mowa ust. 7, oraz wymagane dokumenty;
+- **6)** termin składania i rozpatrywania wniosku, o którym mowa ust. 7;
+- **7)** sposób i terminy przekazywania przez Bank Gospodarstwa Krajowego udzielonego wsparcia na rachunek wskazany przez podatnika lub przedsiębiorcę oraz informowania o tym fakcie naczelnika urzędu skarbowego, właściwego sprawach podatku dochodowego podatnika.
 
-11. Minister właściwy do spraw gospodarki może odmówić, wdrodze decyzji, udzielenia dotacji, októrej ust. 2, jeżeli jej udzielenie istotny sposób mogłoby naruszyć lub grozić naruszeniem konkurencji przez uprzywilejowanie niektórych przedsiębiorców lub produkcji niektórych towarów.
+9. Podstawą udzielenia wsparcia jest umowa zawarta przez ministra właściwego do spraw gospodarki z otrzymującym wsparcie. Bank Gospodarstwa Krajowego przekazuje udzielone wsparcie lub roczną transzę wsparcia na rachunek wskazany przez podatnika lub przedsiębiorcę oraz informuje o tym fakcie naczelnika urzędu skarbowego, właściwego sprawach podatku dochodowego podatnika.
+
+10. Umowa, o której mowa ust. 9, określa wartość i harmonogram inwestycji oraz liczbę zatrudnionych pracowników. Umowa określa także wielkość i szczeudzielenia wsparcia, o którym mowa ust. 2, jeżeli jego udzielenie istotny sposób mogłoby naruszyć lub grozić naruszeniem konkurencji przez uprzywilejowanie niektórych przedsiębiorców lub produkcji niektórych towarów.
 
 **Art. 9.**
 
-1. Zwrot nadpłaty podatku dochodowego podatnikowi, którym 7 ust. 1, części tego podatku przekazanej na rachunek środków specjalnych, następuje ze środków zgromadzonych na subkoncie środków specjalnych wyodrębnionym dla danego podatnika do wysokości zgromadzonych środków.
+1. Zwrot nadpłaty podatku dochodowego podatnikowi, o którym mowa art. 7 ust. 1, części tego podatku przekazanej na rachunek Funduszu, następuje ze środków zgromadzonych na koncie rachunku Funduszu wyodrębnionym dla danego podatnika - do wysokości zgromadzonych środków.
 
-2. Do zwrotu nadpłat, których ust. 1, stosuje się przepisy ustawy dnia 29 sierpnia 1997 Ordynacja podatkowa. ———————
+2. Kwota nadpłaty, o której mowa ust. 1, jest przekazywana przez Bank Gospodarstwa Krajowego, na wniosek naczelnika urzędu skarbowego właściwego sprawach podatku dochodowego podatnika, terminie 14 dni od dnia złożenia wniosku przez naczelnika tego urzędu, na rachunek urzędu.
 
-3. Wielkość zwolnienia, którym ust. 1, wlicza się do maksymalnej dopuszczalnej publicznej określonej 5 ust. 2.
+3. Do zwrotu nadpłat, o których mowa ust. 1, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa.
 
-4. Wysokość zwolnienia określa się według stanu gruntów, budowli ibudynków będących podstawą obliczenia podatku za rok 2000 i według stawek podatku obowiązujących roku 2000 danej gminie.
+**Art. 10.**
 
-5. Gmina, która danym roku podatkowym nie uzyskała dochodów na skutek zwolnienia przedsiębiorców, októrych wust. 1, zpodatku od nieruchomości, otrzymuje następnym roku budżetu państwa część rekompensującą subwencji ogólnej na wyrównanie ubytku dochodów, wynikającego ze zwolnienia, którym ust. 1, wysokości tego zwolnienia.
+1. Zwalnia się z podatku od nieruchomości grunty, budowle i budynki, które są zajęte na prowadzenie działalności gospodarczej na terenie strefy na podstawie zezwolenia, zmienionego stosownie do przepisów art. 6, przez przedsiębiorcę, do którego stosuje się art. 5 ust. 2, okresie ważności tego zezwolenia.
 
-6. Kwotę przeznaczoną na część rekompensującą subwencji, której ust. 5, określa dla każdeprzedni.
+2. Zwolnienia, o których mowa ust. 1, stanowią regionalną pomoc publiczną na wspieranie nowych inwestycji.
 
-10. Do części rekompensującej subwencji ogólnej dla gmin, októrej wust. 5, wzakresie prawidłowości sporządzania wniosku oraz zwrotu nienależnie otrzymanych kwot, stosuje się przepisy dochodach jednostek samorządu terytorialnego.
+3. Wielkość zwolnienia, o którym mowa ust. 1, wlicza się do maksymalnej dopuszczalnej pomocy publicznej określonej art. 5 ust. 2.
+
+4. Wysokość zwolnienia określa się według stanu gruntów, budowli i budynków będących podstawą obliczenia podatku za rok 2000 i według stawek podatku obowiązujących roku 2000 danej gminie.
+
+5. Gmina, która danym roku podatkowym nie uzyskała dochodów na skutek zwolnienia przedsiębiorców, o których mowa ust. 1, z podatku od nieruchomości otrzymuje następnym roku z budżetu państwa część rekompensującą subwencji ust. 5, określa dla każdego roku budżetowego ustawa budżetowa.
+
+7. Minister właściwy do spraw gospodarki określa corocznie, drodze rozporządzenia, wykaz gmin, o których mowa ust. 5, którym przysługuje część rekompensująca subwencji ogólnej za rok poprzedni, mając na uwadze sprawne przekazanie subwencji.
+
+8. Minister właściwy do spraw finansów publicznych porozumieniu z ministrem właściwym do spraw gospodarki określi, drodze rozporządzenia:
+
+- **1)** sposób ustalania i tryb przekazywania części rekompensującej subwencji ogólnej, o której mowa ust. 5;
+- **2)** szczegółowe dane niezbędne do ustalenia wysokości utraconych dochodów gmin z tytułu zwolnienia z podatku od nieruchomości;
+- **3)** wzór wniosku o przyznanie części rekompensującej subwencji ogólnej, o której mowa ust. 5, oraz termin jego składania – mając na uwadze sprawne przekazywanie subwencji.
+
+9. Kwoty części rekompensującej subwencji ogólnej minister właściwy do spraw finansów publicznych przekazuje gminom terminie do dnia 25 listopada roku, którym gmina złożyła wniosek, za rok poprzedni.
+
+10. Do części rekompensującej subwencji ogólnej dla gmin, o której mowa ust. 5, zakresie prawidłowości sporządzania wniosku oraz zwrotu nienależnie otrzymanych kwot, stosuje się przepisy o dochodach jednostek samorządu terytorialnego.
+
+11. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, zmienionego stosownie do przepisów art. 6, przedsiębiorcy, do którego stosuje się art. 5 ust. 2, minister właściwy do spraw gospodarki przekazuje wójtowi (burmistrzowi, prezydentowi miasta) właściwemu dla przedsiębiorcy sprawach podatku od nieruchomości kopię wydanej decyzji terminie 14 dni od dnia, którym decyzja ta stała się prawomocna.
 
 **Art. 11.**
 
-1. Umorzenie przez organ gminy zaległości ztytułu podatku od nieruchomości należnego za okres od dnia 1 stycznia 2001 od gruntów, budowli i budynków zajętych przez przedsiębiorcę prowadzącego działalność gospodarczą na terenie strefy na podstawie zezwolenia, który zawarł przed dniem 1 stycznia 2001 umowę, porozumienie lub list intencyjny, którego stroną jest gmina, na terenie której położone są grunty, budowle lub budynki, którym gmina zobowiązała się zwolnić tego przedsiębiorcę podatku od nieruchomości, zaniechać poboru tego podatku lub go roku budżetowego ustawa budżetowa. umorzyć zaległości tytułu tego podatku, dokonane po dniu, którym nastąpiło poniesienie kosztów in7. Minister właściwy do spraw gospodarki określa westycyjnych kwalifikujących się do objęcia pomocą corocznie, drodze rozporządzenia, wykaz gmin, publiczną rozumieniu przepisów publiczoktórych wust. 5, którym przysługuje część re- nej, stanowi regionalną pomoc publiczną na wspierakompensująca subwencji ogólnej za rok poprzedni, nie nowych inwestycji rozumieniu ustawy pomomając na uwadze sprawne przekazanie subwencji. cy publicznej.
+1. Umorzenie przez organ gminy zaległości z tytułu podatku od nieruchomości należnego za okres od dnia 1 stycznia 2001 r. od gruntów, budowli i budynków zajętych przez przedsiębiorcę prowadzącego działalność gospodarczą na tego przedsiębiorcę z podatku od nieruchomości, zaniechać poboru tego podatku lub umorzyć zaległości z tytułu tego podatku, dokonane po dniu, którym nastąpiło poniesienie kosztów inwestycyjnych kwalifikujących się do objęcia pomocą publiczną, stanowi regionalną pomoc publiczną na wspieranie nowych inwestycji.
 
-8. Minister właściwy do spraw finansów publicz- 2. Wielkość umorzenia, którym ust. 1, nych porozumieniu ministrem właściwym do wlicza się do maksymalnej dopuszczalnej puspraw gospodarki określi, drodze rozporządzenia: blicznej określonej 5 ust. 2.
+2. Wielkość umorzenia, o którym mowa ust. 1, wlicza się do maksymalnej dopuszczalnej pomocy publicznej określonej art. 5 ust. 2.
 
-- **1)** sposób ustalania i tryb przekazywania części re- Art. 12. Ustawa wchodzi życie dniem uzyskakompensującej subwencji ogólnej, której nia przez Rzeczpospolitą Polską członkostwa Unii ust. 5, Europejskiej, wyjątkiem:
-- **2)** szczegółowe dane niezbędne do ustalenia wysoko- 1) 4, 6 i 11 które wchodzą życie po ści utraconych dochodów gmin tytułu zwolnie- upływie 30 dni od dnia ogłoszenia; nia podatku od nieruchomości, 2) 2 i 10 które wchodzą życie dniem
-- **3)** wzór wniosku przyznanie części rekompensują- 1 stycznia 2004 cej subwencji ogólnej, której ust. 5, oraz termin jego składania mając na uwadze sprawne przekazywanie subwencji. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1841 ROZPORZÑDZENIE RADY MINISTRÓW dnia 28 paêdziernika 2003 sprawie szczegółowych zasad i trybu pokrywania kosztów związanych utworzeniem i działalnością studiów wojskowych wyższych szkołach morskich
-
+**Art. 12.** Ustawa wchodzi życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa Unii Europejskiej, z wyjątkiem:
 

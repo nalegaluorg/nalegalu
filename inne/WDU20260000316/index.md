@@ -8,9 +8,12 @@ pos: 316
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 marca 2026 r.
+# o zmianie ustawy o fundacjach oraz ustawy – Prawo o stowarzyszeniach
+
+*USTAWA z dnia 23 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +27,9 @@ domain: null
 | Ostatnia zmiana | 2026-03-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/316/text.pdf) |
 
-Poz. 316
-USTAWA z dnia 23 stycznia 2026 r.
-o zmianie ustawy o fundacjach oraz ustawy – Prawo o stowarzyszeniach
-
 **Art. 1.** W ustawie z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2023 r. poz. 166) w art. 5 uchyla się ust. 1b.
 
 **Art. 2.** W ustawie z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261) w art. 10 uchyla się ust. 1e.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

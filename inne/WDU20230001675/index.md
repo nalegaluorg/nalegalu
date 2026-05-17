@@ -8,9 +8,12 @@ pos: 1675
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 sierpnia 2023 r.
+# o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw
+
+*USTAWA z dnia 16 czerwca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1675/text.pdf) |
 
-USTAWA z dnia 16 czerwca 2023 r.
-o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw
 Art. 67ze. 1. Od decyzji Rzecznika, o której mowa art. 67za ust. 1, wnioskodawcy przysługuje odwołanie do Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, zwanej dalej „Komisją”, działającej przy Rzeczniku.
 2. Wniesienie odwołania podlega opłacie wysokości 200 zł. Opłatę uiszcza się na rachunek bankowy Funduszu Kompensacyjnego Zdarzeń Medycznych.
 3. Do opłaty, o której mowa ust. 2, stosuje się odpowiednio przepisy art. 67t ust. 6 i 7.
@@ -44,13 +45,14 @@ Art. 67zg. 1. W skład Komisji wchodzi 9 członków posiadających wiedzę i do�
 7) 2 członków wskazanych przez organizacje pacjentów wpisane do wykazu organizacji pacjentów.
 2. Członków Komisji powołuje minister właściwy do spraw zdrowia, z tym że członkowie, o których mowa ust. 1 pkt 2–6, są powoływani na wniosek właściwych organów.
 3. Członkowie Komisji, o których mowa ust. 1 pkt 7, są powoływani spośród kandydatów zgłoszonych terminie 14 dni od dnia podania do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia oraz Biuletynie Informacji Publicznej tego urzędu ogłoszenia o naborze przedstawicieli tych organizacji na członków Komisji.
-4. Kadencja członków Komisji wynosi 3 lata. W przypadku odwołania członka Komisji albo jego śmierci przed upływem kadencji, kadencja członka powołanego na jego miejsce upływa z dniem upływu kadencji odwołanego albo zmarłego członka.
+zmarłego członka.
+5. Członkiem Komisji może być wyłącznie osoba, która:
 1) posiada tytuł zawodowy magistra lub równorzędny, uzyskany po ukończeniu studiów na kierunku związanym z kształceniem zakresie nauk medycznych lub nauk prawnych;
 2) nie została skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
 3) korzysta z pełni praw publicznych.
 6. Kandydat na członka Komisji składa ministrowi właściwemu do spraw zdrowia pisemne oświadczenie, pod rygorem odpowiedzialności karnej, że nie został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 7. Członek Komisji jest obowiązany do niezwłocznego poinformowania ministra właściwego do spraw zdrowia oraz Rzecznika o zaistnieniu okoliczności powodujących utratę wymagań koniecznych do pełnienia funkcji członka Komisji oraz powstaniu przeszkód uniemożliwiających wykonywanie zadań członka Komisji.
-8. Członkowi Komisji przysługuje wynagrodzenie za udział posiedzeniu wysokości nieprzekraczającej 20% przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród z zysku czwartym kwartale roku ubiegłego, ogłaszanego, drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie więcej jednak niż 120% tego wynagrodzenia miesięcznie, a także zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+8. Członkowi Komisji przysługuje wynagrodzenie za udział posiedzeniu wysokości nieprzekraczającej 20% przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród z zysku czwartym kwartale roku ubiegłego, ogłaszanego, drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie więcej jednak niż 120% tego wynagrodzenia miesięcznie, a także zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 9. Minister właściwy do spraw zdrowia określi, drodze rozporządzenia, wysokość wynagrodzenia członków Komisji, uwzględniając zakres jej zadań.
 10. Pracami Komisji kieruje przewodniczący przy pomocy wiceprzewodniczącego. Przewodniczący i wiceprzewodniczący są wybierani spośród członków Komisji na pierwszym posiedzeniu bezwzględną większością głosów obecności co najmniej 2/3 jej członków głosowaniu tajnym.
 11. Minister właściwy do spraw zdrowia odwołuje członka Komisji przed upływem kadencji przypadku:
@@ -61,15 +63,14 @@ Art. 67zg. 1. W skład Komisji wchodzi 9 członków posiadających wiedzę i do�
 5) uchylania się od wykonywania obowiązków członka Komisji albo ich nieprawidłowego wykonywania;
 6) złożenia rezygnacji.
 12. Tryb pracy Komisji określa regulamin uchwalany przez Komisję.
-Art. 67zh. 1. Członek Komisji podlega wyłączeniu na zasadach i trybie określonych art. 24 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. Członek Komisji niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
+Art. 67zh. 1. Członek Komisji podlega wyłączeniu na zasadach i trybie określonych art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Członek Komisji niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
 2. Członek Komisji jest obowiązany do zachowania tajemnicy uzyskanych toku postępowania informacji dotyczących wnioskodawcy, a także zmarłego pacjenta, tym również po ustaniu członkostwa Komisji.
 Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Funduszem”, jest państwowym funduszem celowym tworzonym celu wypłacania świadczeń kompensacyjnych przypadku wystąpienia zdarzeń medycznych.
 2. Dysponentem Funduszu jest Rzecznik.
-3. Przychody Funduszu pochodzą z:
 1) odpisu, o którym mowa art. 97 ust. 3i ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 2) opłat, o których mowa art. 67t ust. 4 i art. 67ze ust. 2;
 3) odsetek od zgromadzonych środków;
-zdrowotnej finansowanych ze środków publicznych;
+4) zwiększenia odpisu, o którym mowa art. 97 ust. 3j ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 5) innych źródeł, szczególności ze spadków, zapisów i darowizn.
 4. Ze środków zgromadzonych Funduszu są finansowane:
 1) wypłaty świadczeń kompensacyjnych;
@@ -85,9 +86,7 @@ zdrowotnej finansowanych ze środków publicznych;
 
 **Art. 40a.**
 
-1. Kierownik podmiotu udzielającego świadczeń zdrowotnych może utworzyć stanowisko pełnomocnika do spraw praw pacjenta.
-
-2. Do zadań pełnomocnika do spraw praw pacjenta należy wspieranie podmiotu udzielającego świadczeń zdrowotnych realizacji obowiązku, o którym mowa art. 2, przez podejmowanie działań na rzecz poprawy stopnia przestrzegania praw pacjenta tym podmiocie, tym przez:
+1. Kierownik podmiotu udzielającego świadczeń zdrowotnych może utworzyć stanowisko pełnomocnika do spraw praw pacjenta. strzegania praw pacjenta tym podmiocie, tym przez:
 
 - **1)** udział rozpatrywaniu skarg pacjentów;
 - **2)** analizę stwierdzonych nieprawidłowości dotyczących realizacji praw pacjenta oraz proponowanie kierownikowi podmiotu udzielającego świadczeń zdrowotnych działań naprawczych;
@@ -114,15 +113,17 @@ zdrowotnej finansowanych ze środków publicznych;
 
 ##### Oddział 1 Świadczenie kompensacyjne
 
-**Art. 67q.** Przepisy niniejszego rozdziału stosuje się do zdarzeń medycznych zaistniałych trakcie udzielania lub efekcie udzielenia bądź zaniechania udzielenia świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych szpitalu rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej. pacjentowi przysługuje świadczenie kompensacyjne. 2. W przypadku zaistnienia zdarzenia medycznego, o którym mowa art. 3 ust. 1 pkt 11 lit. c, świadczenie kompensacyjne przysługuje krewnemu pierwszego stopnia, niepozostającemu separacji małżonkowi, osobie pozostającej stosunku przysposobienia oraz osobie pozostającej z pacjentem we wspólnym pożyciu.
+**Art. 67q.** Przepisy niniejszego rozdziału stosuje się do zdarzeń medycznych zaistniałych trakcie udzielania lub efekcie udzielenia bądź zaniechania udzielenia świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych szpitalu rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 
-**Art. 67s.**
+**Art. 67r.**
 
-1. Wysokość świadczenia kompensacyjnego z tytułu jednego zdarzenia medycznego odniesieniu do jednego wnioskodawcy wynosi przypadku:
+1. W przypadku zaistnienia zdarzenia medycznego, o którym mowa art. 3 ust. 1 pkt 11 lit. a oraz b, pacjentowi przysługuje świadczenie kompensacyjne.
 
-- **1)** zakażenia biologicznym czynnikiem chorobotwórczym od 2000 zł do 200 000 zł;
-- **2)** uszkodzenia ciała lub rozstroju zdrowia od 2000 zł do 200 000 zł;
-- **3)** śmierci pacjenta od 20 000 zł do 100 000 zł.
+2. W przypadku zaistnienia zdarzenia medycznego, o którym mowa art. 3 ust. 1 pkt 11 lit. c, świadczenie kompensacyjne przysługuje krewnemu pierwszego stopnia, niepozostającemu separacji małżonkowi, osobie pozostającej stosunku przysposobienia oraz osobie pozostającej z pacjentem we wspólnym pożyciu.
+
+- **1)** zakażenia biologicznym czynnikiem chorobotwórczym – od 2000 zł do 200 000 zł;
+- **2)** uszkodzenia ciała lub rozstroju zdrowia – od 2000 zł do 200 000 zł;
+- **3)** śmierci pacjenta – od 20 000 zł do 100 000 zł.
 
 2. Wysokość świadczenia kompensacyjnego podlega co roku waloryzacji stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych za okres poprzedniego roku obliczonemu na podstawie średniorocznego wskaźnika cen towarów i usług konsumpcyjnych, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 94 ust. 1 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z zaokrągleniem do pełnych złotych górę.
 
@@ -130,9 +131,9 @@ zdrowotnej finansowanych ze środków publicznych;
 
 4. Przy ustalaniu wysokości świadczenia kompensacyjnego uwzględnia się przypadku:
 
-- **1)** zakażenia biologicznym czynnikiem chorobotwórczym charakter następstw zdrowotnych oraz stopień dolegliwości wynikających z zakażenia biologicznym czynnikiem chorobotwórczym, tym zakresie uciążliwości leczenia, uszczerbku na zdrowiu oraz pogorszenia jakości życia;
-- **2)** uszkodzenia ciała lub rozstroju zdrowia charakter następstw zdrowotnych oraz stopień dolegliwości wynikających ze zdarzenia medycznego, tym zakresie uciążliwości leczenia, uszczerbku na zdrowiu oraz pogorszenia jakości życia;
-- **3)** śmierci pacjenta pozostawanie związku małżeńskim chwili śmierci pacjenta, pokrewieństwo, pozostawanie stosunku przysposobienia, pozostawanie we wspólnym pożyciu oraz wiek osoby, o której mowa art. 67r ust. 2, i wiek zmarłego pacjenta.
+- **1)** zakażenia biologicznym czynnikiem chorobotwórczym – charakter następstw zdrowotnych oraz stopień dolegliwości wynikających z zakażenia biologicznym czynnikiem chorobotwórczym, tym zakresie uciążliwości leczenia, uszczerbku na zdrowiu oraz pogorszenia jakości życia;
+- **2)** uszkodzenia ciała lub rozstroju zdrowia – charakter następstw zdrowotnych oraz stopień dolegliwości wynikających ze zdarzenia medycznego, tym zakresie uciążliwości leczenia, uszczerbku na zdrowiu oraz pogorszenia jakości życia;
+- **3)** śmierci pacjenta – pozostawanie związku małżeńskim chwili śmierci pacjenta, pokrewieństwo, pozostawanie stosunku przysposobienia, pozostawanie we wspólnym pożyciu oraz wiek osoby, o której mowa art. 67r ust. 2, i wiek zmarłego pacjenta.
 
 5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Rzecznika, określi, drodze rozporządzenia, sposób ustalania wysokości świadczenia kompensacyjnego z tytułu zakażenia biologicznym czynnikiem chorobotwórczym, uszkodzenia ciała lub rozstroju zdrowia albo śmierci pacjenta, kierując się koniecznością przejrzystości ustalaniu wysokości świadczenia kompensacyjnego oraz zapewnienia ochrony interesów wnioskodawców.
 
@@ -142,7 +143,7 @@ zdrowotnej finansowanych ze środków publicznych;
 
 1. Wniosek o przyznanie świadczenia kompensacyjnego, zwany dalej „wnioskiem”, składa się do Rzecznika.
 
-2. Osobami uprawnionymi do złożenia wniosku są pacjent, a przypadku śmierci pacjenta osoby, o których mowa art. 67r ust. 2, zwani dalej „wnioskodawcą”.
+2. Osobami uprawnionymi do złożenia wniosku są pacjent, a przypadku śmierci pacjenta – osoby, o których mowa art. 67r ust. 2, zwani dalej „wnioskodawcą”.
 
 3. Wniosek może być złożony terminie roku od dnia, którym wnioskodawca dowiedział się o zakażeniu biologicznym czynnikiem chorobotwórczym, uszkodzeniu ciała lub rozstroju zdrowia albo śmierci pacjenta, jednakże termin ten nie może być dłuższy niż 3 lata od dnia, którym nastąpiło zdarzenie skutkujące zakażeniem biologicznym czynnikiem chorobotwórczym, uszkodzeniem ciała lub rozstrojem zdrowia albo śmiercią pacjenta.
 
@@ -154,9 +155,12 @@ zdrowotnej finansowanych ze środków publicznych;
 
 7. Informację o wysokości opłaty, ustalonej na podstawie ust. 6, Rzecznik zamieszcza na stronie internetowej urzędu go obsługującego.
 
+**Art. 67u.**
+
+1. Wniosek zawiera:
+
 - **1)** dane wnioskodawcy:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a przypadku gdy wnioskodawcy nie nadano tego numeru rodzaj i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
 
 - **2)** imię i nazwisko przedstawiciela ustawowego, jeżeli dotyczy;
 - **3)** adres korespondencyjny;
@@ -184,6 +188,12 @@ zdrowotnej finansowanych ze środków publicznych;
 
 **Art. 67v.** Postępowania sprawie świadczenia kompensacyjnego, zwanego dalej „postępowaniem”, nie wszczyna się, a wszczęte umarza, przypadku gdy związku z tym zdarzeniem medycznym:
 
+**Art. 67w.**
+
+1. Stroną postępowania jest wnioskodawca.
+
+2. Przez czas trwania postępowania bieg przedawnienia roszczeń o naprawienie szkody wynikłej ze zdarzenia medycznego, którego dotyczy wniosek, nie rozpoczyna się, a rozpoczęty ulega zawieszeniu.
+
 **Art. 67x.**
 
 1. Przy Rzeczniku działa Zespół do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, zwany dalej „Zespołem”, do zadań którego należy wydawanie toku postępowania opinii przedmiocie wystąpienia zdarzenia medycznego i jego skutków.
@@ -203,11 +213,11 @@ zdrowotnej finansowanych ze środków publicznych;
 
 6. Kandydat na członka Zespołu składa Rzecznikowi pisemne oświadczenie, pod rygorem odpowiedzialności karnej, że nie został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-7. Członek Zespołu podlega wyłączeniu na zasadach i trybie określonych art. 24 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803). Członek Zespołu niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
+7. Członek Zespołu podlega wyłączeniu na zasadach i trybie określonych art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803). Członek Zespołu niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
 
 8. Członek Zespołu jest obowiązany do niezwłocznego poinformowania Rzecznika o zaistnieniu okoliczności powodujących utratę wymagań koniecznych do pełnienia funkcji członka Zespołu oraz powstaniu przeszkód uniemożliwiających wykonywanie zadań członka Zespołu.
 
-9. Członkowi Zespołu przysługuje wynagrodzenie za udział sporządzeniu opinii, o której mowa ust. 1, wysokości nieprzekraczającej 15% przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród z zysku czwartym kwartale roku ubiegłego, ogłaszanego, drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie więcej jednak niż 120% tego przeciętnego wynagrodzenia miesięcznie, a także zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+9. Członkowi Zespołu przysługuje wynagrodzenie za udział sporządzeniu opinii, o której mowa ust. 1, wysokości nieprzekraczającej 15% przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród z zysku czwartym kwartale roku ubiegłego, ogłaszanego, drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie więcej jednak niż 120% tego przeciętnego wynagrodzenia miesięcznie, a także zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
 
 10. Rzecznik odwołuje członka Zespołu przypadku:
 
@@ -216,13 +226,13 @@ zdrowotnej finansowanych ze środków publicznych;
 - **3)** choroby trwale uniemożliwiającej wykonywanie zadań;
 - **4)** zaistnienia okoliczności, które wpływają na niezależne sprawowanie funkcji członka Zespołu;
 - **5)** uchylania się od wykonywania obowiązków członka Zespołu albo ich nieprawidłowego wykonywania;
-- **6)** złożenia rezygnacji. powaniem informacji dotyczących wnioskodawcy, a także zmarłego pacjenta, tym również po ustaniu członkostwa Zespole.
+- **6)** złożenia rezygnacji.
 
-12. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Rzecznika, określi, drodze rozporządzenia:
+11. Członek Zespołu jest obowiązany do zachowania tajemnicy uzyskanych związku z toczącym się postępowaniem informacji dotyczących wnioskodawcy, a także zmarłego pacjenta, tym również po ustaniu członkostwa Zespole.
 
 - **1)** regulamin Zespołu określający jego szczegółowy tryb pracy oraz organizację,
 - **2)** szczegółowe zadania sekretarza Zespołu,
-- **3)** wysokość wynagrodzenia członków Zespołu mając na uwadze sprawność i terminowość działania Zespołu.
+- **3)** wysokość wynagrodzenia członków Zespołu – mając na uwadze sprawność i terminowość działania Zespołu.
 
 **Art. 67y.**
 
@@ -291,13 +301,13 @@ zdrowotnej finansowanych ze środków publicznych;
 
 4. Postępowania, o których mowa art. 67i ust. 1 ustawy zmienianej art. 1, wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy, a także sprawie wniosku, o którym mowa ust. 3, są prowadzone przez komisje na zasadach dotychczasowych, z wyłączeniem art. 67b ust. 2 pkt 1 ustawy zmienianej art. 1.
 
-5. Komisje niezwłocznie podejmują postępowania, o których mowa art. 67i ust. 1 ustawy zmienianej art. 1, zawieszone na podstawie art. 67b ust. 2 pkt 1 tej ustawy.
-
 6. Orzeczenie, o którym mowa art. 67j ust. 1 ustawy zmienianej art. 1, postępowaniu sprawie wniosku, o którym mowa ust. 3, jest wydawane nie później niż terminie 2 miesięcy od dnia złożenia wniosku.
 
 7. Orzeczenie, o którym mowa art. 67j ust. 1 ustawy zmienianej art. 1, postępowaniach, o których mowa art. 67i ust. 1 ustawy zmienianej art. 1, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, jest wydawane nie później niż terminie 2 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-8. Postępowania przed komisjami, o których mowa ust. 6 i 7, niezakończone do dnia 30 czerwca 2024 r., przejmuje do prowadzenia Rzecznik Praw Pacjenta. art. 67d, art. 67f, art. 69g i art. 67i–67o ustawy zmienianej art. 1. Skład orzekający jest wyznaczany przez Rzecznika Praw Pacjenta spośród pracowników Biura Rzecznika Praw Pacjenta oraz członków Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, o którym mowa art. 67x ust. 1 ustawy zmienianej art. 1, przy czym 2 członków składu orzekającego spełnia wymagania, o których mowa art. 67e ust. 3 pkt 1 ustawy zmienianej art. 1, a 2 członków składu orzekającego spełnia wymagania, o których mowa art. 67e ust. 3 pkt 2 ustawy zmienianej art. 1.
+8. Postępowania przed komisjami, o których mowa ust. 6 i 7, niezakończone do dnia 30 czerwca 2024 r., przejmuje do prowadzenia Rzecznik Praw Pacjenta.
+
+9. Do spraw, o których mowa ust. 8, stosuje się odpowiednio przepisy art. 67a, art. 67b ust. 1 i ust. 2 pkt 2, art. 67c, art. 67d, art. 67f, art. 69g i art. 67i–67o ustawy zmienianej art. 1. Skład orzekający jest wyznaczany przez Rzecznika Praw Pacjenta spośród pracowników Biura Rzecznika Praw Pacjenta oraz członków Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, o którym mowa art. 67x ust. 1 ustawy zmienianej art. 1, przy czym 2 członków składu orzekającego spełnia wymagania, o których mowa art. 67e ust. 3 pkt 1 ustawy zmienianej art. 1, a 2 członków składu orzekającego spełnia wymagania, o których mowa art. 67e ust. 3 pkt 2 ustawy zmienianej art. 1.
 
 **Art. 9.**
 
@@ -309,5 +319,5 @@ zdrowotnej finansowanych ze środków publicznych;
 
 **Art. 10.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 36 ust. 6 ustawy zmienianej art. 5 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 36 ust. 6 ustawy zmienianej art. 5, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 11.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,9 +8,12 @@ pos: 90
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 stycznia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o repatriacji
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/90/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o repatriacji
 1. Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2022 r. poz. 1105), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
 2) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o repatriacji oraz niektórych innych ustaw (Dz. U. poz. 921),
@@ -92,7 +93,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 **Art. 3c.**
 
-1. Pełnomocnik, wydając decyzję sprawie przyznania miejsca ośrodku kandydatowi na repatrianta, bierze pod uwagę czas oczekiwania na wydanie wizy krajowej celu repatriacji osób ujętych ewidencji osób ubiegających się o wydanie wizy krajowej celu repatriacji, które nie posiadają warunków do osiedlenia się Rzeczypospolitej Polskiej. pisy ust. 2 i 3 stosuje się odpowiednio.
+1. Pełnomocnik, wydając decyzję sprawie przyznania miejsca ośrodku kandydatowi na repatrianta, bierze pod uwagę czas oczekiwania na wydanie wizy krajowej celu repatriacji osób ujętych ewidencji osób ubiegających się o wydanie wizy krajowej celu repatriacji, które nie posiadają warunków do osiedlenia się Rzeczypospolitej Polskiej.
 
 1b. Pełnomocnik wydaje decyzję sprawie przyznania miejsca ośrodku po przedstawieniu przez konsula wyrażonej na piśmie zgody osób, o których ust. i 1a, na umieszczenie ośrodku. W przypadku osoby małoletniej lub ubezwłasnowolnionej całkowicie zgodę wyraża jej rodzic lub opiekun prawny.
 
@@ -184,7 +185,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 1. Osoba przybywająca do Rzeczypospolitej Polskiej na podstawie wizy krajowej celu repatriacji nabywa obywatelstwo polskie z mocy prawa z dniem przekroczenia granicy Rzeczypospolitej Polskiej.
 
-2. Dokumentem potwierdzającym nabycie obywatelstwa polskiego drodze repatriacji jest decyzja sprawie potwierdzenia posiadania obywatelstwa polskiego. położenia:
+2. Dokumentem potwierdzającym nabycie obywatelstwa polskiego drodze repatriacji jest decyzja sprawie potwierdzenia posiadania obywatelstwa polskiego.
 
 - **1)** lokalu mieszkalnego wskazanego na potrzeby potwierdzenia posiadania lub zapewnienia warunków do osiedlenia się Rzeczypospolitej Polskiej, o których 12 ust. 1, jeżeli repatriantowi wydano wizę krajową celu repatriacji związku z przedstawieniem dowodów, o których 12 ust. 2 albo 3 pkt 2 i 3, lub
 - **2)** ośrodka, jeżeli repatriantowi wydano wizę krajową celu repatriacji związku z decyzją Pełnomocnika sprawie przyznania miejsca ośrodku.
@@ -444,7 +445,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 12. Formularz wniosku, o którym ust. 2, wypełnia się języku polskim.
 
-13. Dokumenty sporządzone języku obcym składa się wraz z ich tłumaczeniem na język polski sporządzonym lub poświadczonym przez tłumacza przysięgłego. 30 dni od dnia doręczenia wezwania, pod rygorem pozostawienia wniosku bez rozpoznania.
+13. Dokumenty sporządzone języku obcym składa się wraz z ich tłumaczeniem na język polski sporządzonym lub poświadczonym przez tłumacza przysięgłego.
 
 15. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia:
 
@@ -521,7 +522,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 - **3)** kopię decyzji wojewody sprawie potwierdzenia posiadania przez wnioskodawcę obywatelstwa polskiego;
 - **4)** dokument, z którego wynika tytuł prawny wnioskodawcy do lokalu mieszkalnego, o którym 17 ust. 2;
 - **5)** inne dokumenty potwierdzające okoliczności wymienione we wniosku;
-- **6)** oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane i informacje zawarte we wniosku są prawdziwe. dnia, którym decyzja sprawie udzielenia pomocy stała się ostateczna.
+- **6)** oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane i informacje zawarte we wniosku są prawdziwe.
 
 6. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, wzór formularza wniosku, o którym 17 ust. 2, mając na uwadze potrzebę zapewnienia sprawności postępowania o przyznanie pomocy oraz kompletności danych przedstawianych we wniosku. Art. 17aa. 37) 1. Repatriant składa wniosek, o którym 17 ust. 1, do Pełnomocnika terminie 3 miesięcy od dnia doręczenia decyzji wojewody sprawie potwierdzenia posiadania obywatelstwa polskiego.
 
@@ -637,7 +638,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 - **11)** datę opuszczenia ośrodka, przypadku wnioskodawcy, o którym 17b ust. pkt 2;
 - **12)** liczbę członków najbliższej rodziny repatrianta;
 - **13)** imię, nazwisko, datę urodzenia, datę przybycia do Rzeczypospolitej Polskiej oraz stopień pokrewieństwa stosunku do wnioskodawcy każdej z osób, o której pkt 12;
-- **14)** adres: wnioskodawcy lub członkowi jego najbliższej rodziny objętemu wnioskiem decyzją Pełnomocnika wydaną przed dniem złożenia wniosku;
+- **14)** adres: dniem złożenia wniosku;
     - **a)** wynajmowanego lokalu mieszkalnego lub budynku mieszkalnego albo
     - **b)** miejsca zakwaterowania domu studenckim, albo
     - **c)** nabywanego lokalu mieszkalnego lub budynku mieszkalnego;
@@ -713,7 +714,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 1. Pełnomocnik dokonuje wyboru podmiotu lub podmiotów prowadzących ośrodki otwartym konkursie ofert, zwanym dalej „konkursem”.
 
-2. Konkurs przeprowadza się z zachowaniem zasad przejrzystości i równego traktowania uczestniczących nim podmiotów. prowadzenie działalności:
+2. Konkurs przeprowadza się z zachowaniem zasad przejrzystości i równego traktowania uczestniczących nim podmiotów.
 
 - **1)** zakresie pomocy społecznej, tym udzielanie pomocy rodzinom i osobom trudnej sytuacji życiowej oraz wyrównywanie szans tych rodzin i osób, lub
 - **2)** na rzecz integracji zawodowej i społecznej osób zagrożonych wykluczeniem społecznym, lub
@@ -849,7 +850,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 - **1)** datę, miejsce i rodzaj czynności wykonywanych ramach nadzoru;
 - **2)** dokumenty i informacje uzyskane podczas wykonywania czynności oraz ich źródła;
-- **3)** dodatkowe uwagi uwzględniające szczególności zakres stwierdzonych nieprawidłowości, przyczynę ich powstania i skutki, jakie wywołują lub mogą wywołać, oraz zalecenia lub wnioski dotyczące usprawnienia nadzorowanego ośrodka. zacyjno-porządkowym ośrodka Pełnomocnik wydaje decyzję sprawie pozbawienia go miejsca ośrodku.
+- **3)** dodatkowe uwagi uwzględniające szczególności zakres stwierdzonych nieprawidłowości, przyczynę ich powstania i skutki, jakie wywołują lub mogą wywołać, oraz zalecenia lub wnioski dotyczące usprawnienia nadzorowanego ośrodka.
 
 2. Repatriant jest obowiązany opuścić ośrodek przypadku:
 
@@ -939,7 +940,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 - **3)** tryb kontroli podejmowanych przez gminę działań;
 - **4)** sposób rozliczenia udzielonej dotacji.
 
-8. Repatriantowi nie przysługują żadne roszczenia z tytułu zapewnienia różnych gminach różnych warunków lokalu mieszkalnego, jeżeli gminy te otrzymały dotację z budżetu państwa, o której ust. 1. adaptacji lub na wyposażeniu lokalu mieszkalnego miejscu osiedlenia się Rzeczypospolitej Polskiej.
+8. Repatriantowi nie przysługują żadne roszczenia z tytułu zapewnienia różnych gminach różnych warunków lokalu mieszkalnego, jeżeli gminy te otrzymały dotację z budżetu państwa, o której ust. 1.
 
 2. Zadanie gminy, o którym ust. 1, jest zadaniem z zakresu administracji rządowej.
 
@@ -1121,7 +1122,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 1. Pełnomocnik prowadzi systemie teleinformatycznym ewidencję osób ubiegających się o wydanie wizy krajowej celu repatriacji, które nie posiadają warunków do osiedlenia się Rzeczypospolitej Polskiej.
 
-2. Ewidencję, o której ust. 1, prowadzi się celu zapewnienia warunków do osiedlenia się osobom, o których ust. 1. wizy krajowej celu repatriacji:
+2. Ewidencję, o której ust. 1, prowadzi się celu zapewnienia warunków do osiedlenia się osobom, o których ust. 1.
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** nazwisko rodowe;
@@ -1181,7 +1182,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 2. Organ rozpatrujący wniosek, o którym ust. 1, odmawia, drodze decyzji, udostępnienia danych, jeżeli zakres tych danych podanych we wniosku nie odpowiada zakresowi, o którym 35.
 
-3. Dane przetwarzane rejestrach, o których 33 ust. 1–3 i 34 ust. 1, są udostępniane trybie, o którym ust. i 2, przez ministra właściwego do spraw wewnętrznych, wojewodę, konsula i Pełnomocnika, zakresie prowadzonych przez nich rejestrów. pomocą urządzeń telekomunikacyjnych stosuje się przepisy 453–456 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach oraz przepisy wydane na podstawie 457 i 458 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
+3. Dane przetwarzane rejestrach, o których 33 ust. 1–3 i 34 ust. 1, są udostępniane trybie, o którym ust. i 2, przez ministra właściwego do spraw wewnętrznych, wojewodę, konsula i Pełnomocnika, zakresie prowadzonych przez nich rejestrów. oraz przepisy wydane na podstawie 457 i 458 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
 
 **Art. 36.** Administratorem danych osobowych przetwarzanych w:
 

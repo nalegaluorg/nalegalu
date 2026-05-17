@@ -8,9 +8,12 @@ pos: 1215
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 czerwca 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o partiach politycznych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2023-06-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1215/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o partiach politycznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2022 r. poz. 372), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 stycznia 2023 r. o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw (Dz. U. poz. 497) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 maja 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 ust. 3 i art. 19 ustawy z dnia 26 stycznia 2023 r. o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw (Dz. U. poz. 497), które stanowią:
 Art. 50–59. (pominięte)
@@ -310,7 +311,7 @@ Art. 60 i 61. (pominięte)
 
 **Art. 29.**
 
-1. Wysokość rocznej subwencji, o której mowa w art. 28, dla danej partii politycznej albo koalicji wyborczej ustalana jest na zasadzie stopniowej degresji proporcjonalnie do łącznej liczby głosów ważnych oddanych na listy okręgowe kandydatów na posłów tej partii albo koalicji wyborczej, w rozbiciu na liczby głosów odpowiadające poszczególnym przedziałom określonym w procentach, według następującego wzoru: S=W ×M +W ×M +W ×M +W ×M +W ×M gdzie poszczególne symbole oznaczają: S kwotę rocznej subwencji, W liczby głosów kolejno obliczane dla każdego wiersza poniższej tabeli, podane odrębnie w wyniku rozbicia łącznej liczby głosów ważnych oddanych w skali kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej, odpowiednio do wyznaczonego w procentach przedziału, M wysokość kwoty w złotych dla kolejnych wierszy poniższej tabeli: Głosy ważne oddane w całym kraju łącznie na listy okręgowe Wysokość kwoty kandydatów na posłów danej partii politycznej albo koalicji za jeden głos (M) Wiersz wyborczej w rozbiciu odpowiednio dla każdego przedziału procent liczba głosów (W) 1 do 5% 5 złotych 77 groszy 2 powyżej 5% do 10% 4 złote 61 groszy 3 powyżej 10% do 20% 4 złote 4 grosze 4 powyżej 20% do 30% 2 złote 31 groszy 5 powyżej 30% 87 groszy
+1. Wysokość rocznej subwencji, o której mowa w art. 28, dla danej partii politycznej albo koalicji wyborczej ustalana jest na zasadzie stopniowej degresji proporcjonalnie do łącznej liczby głosów ważnych oddanych na listy okręgowe kandydatów na posłów tej partii albo koalicji wyborczej, w rozbiciu na liczby głosów odpowiadające poszczególnym przedziałom określonym w procentach, według następującego wzoru: S=W ×M +W ×M +W ×M +W ×M +W ×M gdzie poszczególne symbole oznaczają: S kwotę rocznej subwencji, W liczby głosów kolejno obliczane dla każdego wiersza poniższej tabeli, podane odrębnie w wyniku rozbicia łącznej liczby głosów ważnych oddanych w skali kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej, odpowiednio do wyznaczonego w procentach przedziału, M wysokość kwoty w złotych dla kolejnych wierszy poniższej tabeli: Głosy ważne oddane w całym kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji Wiersz wyborczej w rozbiciu odpowiednio dla każdego przedziału Wysokość kwoty za jeden głos (M) procent liczba głosów (W) 1 do 5% 5 złotych 77 groszy 2 powyżej 5% do 10% 4 złote 61 groszy 3 powyżej 10% do 20% 4 złote 4 grosze 4 powyżej 20% do 30% 2 złote 31 groszy 5 powyżej 30% 87 groszy
 
 2. Roczna subwencja, w kwocie ustalonej na podstawie ust. 1 i art. 28, jest każdego roku w okresie kadencji Sejmu wypłacana danej partii politycznej w czterech równych kwartalnych ratach, z zastrzeżeniem art. 32.
 

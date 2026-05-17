@@ -8,9 +8,12 @@ pos: 1871
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 grudnia 2024 r.
+# o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw
+
+*USTAWA z dnia 6 grudnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +27,9 @@ domain: null
 | Ostatnia zmiana | 2024-12-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001871) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1871/text.pdf) |
 
-USTAWA z dnia 6 grudnia 2024 r.
-o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222) wprowadza się następujące zmiany:
-
-**Art. 2.** W ustawie z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2024 r. poz. 986) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986) wprowadza się następujące zmiany:
 
 **Art. 3.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -71,9 +71,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 22.** W ustawie z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2023 r. poz. 1729) wprowadza się następujące zmiany:
 
-**Art. 23.** W ustawie z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222) wprowadza się następujące zmiany:
+**Art. 23.** W ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222) wprowadza się następujące zmiany:
 
-**Art. 24.** W ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571) w art. 204 ust. 3 otrzymuje brzmienie: „3. Kształcenie, na wniosek doktoranta, jest zawieszane na okres odpowiadający czasowi trwania urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego oraz urlopu rodzicielskiego, określonych w ustawie z dnia 26 czerwca 1974 r. Kodeks pracy.”.
+**Art. 24.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571) w art. 204 ust. 3 otrzymuje brzmienie: „3. Kształcenie, na wniosek doktoranta, jest zawieszane na okres odpowiadający czasowi trwania urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego oraz urlopu rodzicielskiego, określonych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy.”.
 
 **Art. 25.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585) wprowadza się następujące zmiany:
 
@@ -81,7 +81,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 1. Pracownicy, którzy w dniu wejścia w życie niniejszej ustawy są uprawnieni do korzystania lub korzystają z urlopu macierzyńskiego albo urlopu na warunkach urlopu macierzyńskiego, mają prawo do uzupełniającego urlopu macierzyńskiego, o którym mowa w art. 180 albo art. 183 § 3 ustawy zmienianej w art. 1.
 
-2. Uzupełniający urlop macierzyński jest udzielany jednorazowo na wniosek składany w postaci papierowej lub elektronicznej przez pracownicę albo pracownika ojca wychowującego dziecko najpóźniej w ostatnim dniu urlopu macierzyńskiego albo urlopu na warunkach urlopu macierzyńskiego.
+2. Uzupełniający urlop macierzyński jest udzielany jednorazowo na wniosek składany w postaci papierowej lub elektronicznej przez pracownicę albo pracownika – ojca wychowującego dziecko najpóźniej w ostatnim dniu urlopu macierzyńskiego albo urlopu na warunkach urlopu macierzyńskiego.
 
 **Art. 27.**
 
@@ -111,5 +111,5 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 3. O dokonanych zmianach planu finansowego funduszu emerytalno-rentowego niezwłocznie informuje się ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw rozwoju wsi.
 
-**Art. 32.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 32.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

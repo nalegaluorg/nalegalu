@@ -8,9 +8,12 @@ pos: 1318
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lipca 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o organizacji rynków owoców i warzyw oraz rynku chmielu
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001318) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1318/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o organizacji rynków owoców i warzyw oraz rynku chmielu
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2022 r.
 poz. 2101), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412),
@@ -780,7 +781,7 @@ Art. 44–54. (pominięte)
 - **5)** (uchylony)
 - **6)** (uchylony) podlega karze grzywny.
 
-5. Orzekanie sprawach, o których mowa ust. 1, 4 i 4b, następuje trybie przepisów Kodeksu postępowania
+5. Orzekanie sprawach, o których mowa ust. 1, 4 i 4b, następuje trybie przepisów Kodeksu postępowania sprawach o wykroczenia.
 
 **Art. 40a.**
 

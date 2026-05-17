@@ -8,9 +8,12 @@ pos: 1042
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 5 sierpnia 2010 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2011"
+# o zmianie ustawy o ustanowieniu programu wieloletniego „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2011”
+
+*USTAWA z dnia 5 sierpnia 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,5 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101551042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1042/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 lipca 2004 r. o ustanowieniu programu wieloletniego „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004—2011” (Dz. U. Nr 192, poz. 1962) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 lipca 2004 r. o ustanowieniu programu wieloletniego „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2011” (Dz. U. Nr 192, poz. 1962) wprowadza się następujące zmiany:
+
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

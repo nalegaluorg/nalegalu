@@ -8,6 +8,7 @@ pos: 1798
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2011 Nr 197, 1172 Nr 232, 1378) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 20 lutego 1997 stosunku Państwa do gmin wyznaniowych żydowskich Rzeczypospolitej Polskiej (Dz. U. Nr 41, 251), uwzględnieniem zmian wprowadzonych:
@@ -39,10 +40,12 @@ domain: null
 2) przepisy:
 a) art. 36 37 ustawy dnia 20 czerwca 1985 prokuraturze (Dz. U. 1994 Nr 19, 70 Nr 105, 509, 1995 Nr 34, 163 oraz 1996 Nr 77, 367),
 b) stosunku Państwa do Kościołów, dotyczące wykonywania praktyk religijnych osób skazanych tymczasowo aresztowanych.” „Art. 259. Ustawa wchodzi życie dniem 1 września 1998 r., tym że przepisy art. 251–254 obowiązują nie dłużej niż przez 10 lat od dnia jej wejścia życie.”;
-„Art. 16. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
-4) art. 40 art. 43 ustawy dnia 14 marca 2014 zasadach prowadzenia zbiórek publicznych (Dz. U. 498), które stanowią: „Art. 40. 1. Do postępowań sprawie wydania pozwolenia na przeprowadzenie zbiórki publicznej wszczętych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-2. Pozwolenia na przeprowadzenie zbiórki publicznej wydane przed dniem wejścia życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały udzielone, niezbędny do realizacji celu zbiórki przedstawienia jej wyników.” „Art. 43. Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia.”.
+2) art. 15 art. 17 ustawy dnia 26 czerwca 1997 zmianie ustawy gwarancjach wolności sumienia wyznania oraz zmianie niektórych ustaw (Dz. U. 1998 Nr 59, 375), które stanowią: „Art. 15. Pozostają mocy wpisy do rejestru kościołów innych związków wyznaniowych dokonane podstawie przepisów dotychczasowych, szczególności nie jest wymagane uzupełnienie listy osób zgłaszających.” „Art. 17. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
+3) art. 16 ustawy dnia 29 kwietnia 2010 zmianie ustawy Prawo celne oraz niektórych innych ustaw (Dz. U.
+Nr 106, 673), który stanowi:
+2. Pozwolenia przeprowadzenie zbiórki publicznej wydane przed dniem wejścia życie niniejszej ustawy zachowują ważność przez okres, jaki zostały udzielone, niezbędny do realizacji celu zbiórki przedstawienia jej wyników.” „Art. 43. Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia.”.
 Marszałek Sejmu: R. Sikorski
+USTAWA dnia 20 lutego 1997 stosunku Państwa do gmin wyznaniowych żydowskich Rzeczypospolitej Polskiej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -56,7 +59,7 @@ Marszałek Sejmu: R. Sikorski
 
 **Art. 2.**
 
-1. Gminy żydowskie zrzeszają pełnoletnie osoby wyznania mojżeszowego, posiadające obywatelstwo polskie, zamieszkałe na terytorium Rzeczypospolitej Polskiej.
+1. Gminy żydowskie zrzeszają pełnoletnie osoby wyznania mojżeszowego, posiadające obywatelstwo polskie, zamieszkałe terytorium Rzeczypospolitej Polskiej.
 
 2. Gminy żydowskie tworzą Związek Gmin Wyznaniowych Żydowskich Rzeczypospolitej Polskiej, zwany dalej „Związkiem Gmin”.
 
@@ -84,11 +87,17 @@ Marszałek Sejmu: R. Sikorski
 
 3. Do składania oświadczeń woli imieniu osób prawnych, których mowa ust. 1, są uprawnieni działający łącznie dwaj członkowie zarządu, tym przewodniczący.
 
-**Art. 6.** Inne jednostki organizacyjne mogą, na wniosek zarządu Związku Gmin, uzyskać osobowość prawną drodze rozporządzenia Ministra Spraw Wewnętrznych Administracji .
+**Art. 6.** Inne jednostki organizacyjne mogą, wniosek zarządu Związku Gmin, uzyskać osobowość prawną drodze rozporządzenia Ministra Spraw Wewnętrznych Administracji .
 
 **Art. 7.**
 
 1. Tworzenie nowych gmin żydowskich oraz znoszenie lub przekształcanie już istniejących następuje trybie przewidzianym prawie wewnętrznym.
+
+3. Nowo utworzone gminy żydowskie nabywają osobowość prawną chwilą pisemnego powiadomienia właściwego wojewody. Odpis powiadomienia, umieszczonym nim potwierdzeniem odbioru, jest dowodem uzyskania osobowości prawnej.
+
+4. Powiadomienie powinno zawierać informację siedzibie gminy żydowskiej, jej zasięgu terytorialnym oraz wskazanie osób wchodzących skład zarządu gminy.
+
+5. Odpowiednio powiadamia się również:
 
 - **1)** Ministra Spraw Wewnętrznych Administracji przypadku powołania lub odwołania osoby wchodzącej skład zarządu Związku Gmin;
 - **2)** właściwego wojewodę przypadku powołania lub odwołania osoby wchodzącej skład zarządu gminy.
@@ -109,11 +118,11 @@ Marszałek Sejmu: R. Sikorski
 
 2. Osobę duchowną, przed którą składa się oświadczenia zawarciu małżeństwa, określa prawo wewnętrzne gmin żydowskich.
 
-**Art. 10.** Religijne uroczystości pogrzebowe nabożeństwa żałobne mogą odbywać się na cmentarzach komunalnych przy zachowaniu obowiązujących przepisów porządkowych.
+**Art. 10.** Religijne uroczystości pogrzebowe nabożeństwa żałobne mogą odbywać się cmentarzach komunalnych przy zachowaniu obowiązujących przepisów porządkowych.
 
 **Art. 11.**
 
-1. Osoby należące do gmin żydowskich mają prawo do zwolnień od pracy lub nauki na czas obejmujący następujące święta religijne, niebędące dniami ustawowo wolnymi od pracy:
+1. Osoby należące do gmin żydowskich mają prawo do zwolnień od pracy lub nauki czas obejmujący następujące święta religijne, niebędące dniami ustawowo wolnymi od pracy:
 
 - **1)** Nowy Rok 2 dni;
 - **2)** Dzień Pojednania 1 dzień;
@@ -125,13 +134,19 @@ Marszałek Sejmu: R. Sikorski
 
 2. Terminy świąt, których mowa ust. 1, określane są według kalendarza żydowskiego.
 
-3. Osobom należącym do gmin żydowskich przysługuje prawo zwolnienia od pracy lub nauki na czas szabasu trwającego od zachodu słońca piątek do zachodu słońca sobotę oraz święta, których mowa ust. 1, na zasadach określonych odrębnych przepisach.
+3. Osobom należącym do gmin żydowskich przysługuje prawo zwolnienia od pracy lub nauki czas szabasu trwającego od zachodu słońca piątek do zachodu słońca sobotę oraz święta, których mowa ust. 1, zasadach określonych odrębnych przepisach.
 
 **Art. 12.**
 
-1. Gminy żydowskie mają prawo do prowadzenia katechezy nauczania religii na zasadach trybie przewidzianych odrębnych przepisach.
+1. Gminy żydowskie mają prawo do prowadzenia katechezy nauczania religii zasadach trybie przewidzianych odrębnych przepisach.
 
 2. (uchylony)
+
+**Art. 14.** Żołnierzom pełniącym czynną służbę wojskową zapewnia się możliwość uczestniczenia, poza terenem jednostek wojskowych, nabożeństwach czynnościach religijnych dni świąteczne, jeżeli miejscowości stacjonowania jednostki wojskowej lub jej pobliżu znajduje się synagoga lub dom modlitwy jeżeli nie koliduje to ważnymi obowiązkami służbowymi.
+
+**Art. 15.**
+
+1. Przepisy dotyczące odraczania zasadniczej służby wojskowej ze względu odbywanie nauki mają zastosowanie również do osób uczących się szkołach rabinackich kraju za granicą.
 
 2. Rabini podrabini są przenoszeni do rezerwy. Nie są oni powoływani do odbywania ćwiczeń wojskowych czasie pokoju, wyjątkiem przeszkolenia, za zgodą zarządu gminy żydowskiej, do pełnienia funkcji kapelana wojskowego.
 
@@ -154,38 +169,44 @@ Marszałek Sejmu: R. Sikorski
 
 - **1)** zarządowi Związku Gmin lub gminy żydowskiej przysługuje prawo uchylenia uchwały, której mowa ust. 1, równoczesnym wystąpieniem do sądu wnioskiem rozwiązanie stowarzyszenia;
 - **2)** wystąpienie do sądu rozwiązanie stowarzyszenia przez organ właściwy rozumieniu przepisów prawa stowarzyszeniach następuje po zasięgnięciu opinii zarządu Związku Gmin;
-- **3)** przypadku likwidacji organizacji wyznaniowej żydowskiej jej majątek przechodzi na własność Związku Gmin lub właściwej gminy żydowskiej.
+- **3)** przypadku likwidacji organizacji wyznaniowej żydowskiej jej majątek przechodzi własność Związku Gmin lub właściwej gminy żydowskiej.
 
-**Art. 18.** Gminy żydowskie oraz inne osoby prawne, działające na podstawie ustawy, mogą prowadzić działalność charytatywną, a szczególności zakłady wychowawcze, opiekuńcze opieki zdrowotnej .
+**Art. 18.** Gminy żydowskie oraz inne osoby prawne, działające podstawie ustawy, mogą prowadzić działalność charytatywną, a szczególności zakłady wychowawcze, opiekuńcze opieki zdrowotnej .
 
-**Art. 19.** Nie pobiera się opłat za użytkowanie wieczyste gruntów oddanych na potrzeby zakładów charytatywno-opiekuńczych oraz placówek zajmujących się religijnym wychowaniem młodzieży.
+**Art. 19.** Nie pobiera się opłat za użytkowanie wieczyste gruntów oddanych potrzeby zakładów charytatywno-opiekuńczych oraz placówek zajmujących się religijnym wychowaniem młodzieży.
 
 **Art. 20.**
 
 1. Związek Gmin ma prawo emitowania publicznych środkach masowego przekazu nabożeństw oraz programów religijno-społecznych, religijno-moralnych kulturalnych.
 
-2. Sposób realizacji uprawnień, których mowa ust. 1, regulują porozumienia między właściwymi jednostkami publicznej radiofonii telewizji a Związkiem Gmin.
+2. Sposób realizacji uprawnień, których mowa ust. 1, regulują porozumienia między właściwymi jednostkami publicznej radiofonii telewizji a Związkiem Gmin. żydowskich, a także dzieł kultury sztuki motywach religijnych, zasadach określonych odrębnych przepisach.
 
-**Art. 21.** Instytucje państwowe, samorządowe wyznaniowe współdziałają ochronie, konserwacji, udostępnianiu upowszechnianiu zabytków architektury sztuki oraz ich dokumentacji, muzeów archiwów będących własnością gmin żydowskich, a także dzieł kultury sztuki motywach religijnych, na zasadach określonych odrębnych przepisach. Żydów pochodzących Polski Światowej Żydowskiej Organizacji Restytucji (World Jewish Restitution Organisation).
+#### Rozdział 4 Sprawy majątkowe
+
+**Art. 22.**
+
+1. Wyznaniowym żydowskim osobom prawnym, których mowa art. 5, przysługuje prawo nabywania, posiadania zbywania mienia ruchomego nieruchomego, nabywania zbywania innych praw oraz swobodnego zarządzania swoim majątkiem.
+
+2. Gminy żydowskie Związek Gmin prawa, których mowa ust. 1, mogą realizować samodzielnie, a także przez utworzoną tym celu fundację udziałem innych krajowych osób prawnych fizycznych oraz zagranicznych organizacji Żydów pochodzących Polski Światowej Żydowskiej Organizacji Restytucji (World Jewish Restitution Organisation).
 
 **Art. 23.**
 
 1. Cmentarze wyznaniowe żydowskie stanowiące własność gmin żydowskich lub Związku Gmin nie podlegają wywłaszczeniu.
 
-2. Cmentarze stanowiące własność Skarbu Państwa albo jednostek samorządu terytorialnego, stosunku do których wszczęto postępowanie, którym mowa art. 30, podlegają ochronie polegającej szczególności na zakazie ich zbywania na rzecz osób trzecich oraz zakazie przeznaczania na inne cele.
+2. Cmentarze stanowiące własność Skarbu Państwa albo jednostek samorządu terytorialnego, stosunku do których wszczęto postępowanie, którym mowa art. 30, podlegają ochronie polegającej szczególności zakazie ich zbywania rzecz osób trzecich oraz zakazie przeznaczania inne cele.
 
-**Art. 24.** W przypadku zniesienia gminy żydowskiej lub innej osoby prawnej utworzonej na mocy ustawy, jej majątek przechodzi na własność Związku Gmin.
+**Art. 24.** W przypadku zniesienia gminy żydowskiej lub innej osoby prawnej utworzonej mocy ustawy, jej majątek przechodzi własność Związku Gmin.
 
 **Art. 25.**
 
 1. Majątek przychody gmin żydowskich oraz Związku Gmin podlegają ogólnym przepisom podatkowym, wyjątkami określonymi ust. 2–5.
 
-2. Gminy żydowskie Związek Gmin są zwolnione od opodatkowania podatkiem od nieruchomości nieruchomości lub ich części przeznaczonych na cele niemieszkalne, wyjątkiem części przeznaczonej na wykonywanie działalności gospodarczej.
+2. Gminy żydowskie Związek Gmin są zwolnione od opodatkowania podatkiem od nieruchomości nieruchomości lub ich części przeznaczonych cele niemieszkalne, wyjątkiem części przeznaczonej wykonywanie działalności gospodarczej.
 
-3. Zwolnienie od podatku od nieruchomości obejmuje nieruchomości lub ich części przeznaczone na cele mieszkalne duchownych, jeżeli:
+3. Zwolnienie od podatku od nieruchomości obejmuje nieruchomości lub ich części przeznaczone cele mieszkalne duchownych, jeżeli:
 
 - **1)** są one wpisane do rejestru zabytków;
-- **2)** służą jako internaty przy szkołach prowadzonych przez osoby prawne działające na podstawie ustawy;
+- **2)** służą jako internaty przy szkołach prowadzonych przez osoby prawne działające podstawie ustawy;
 - **3)** znajdują się budynkach stanowiących siedziby:
     - **a)** zarządu gmin żydowskich, które istniały dniu wejścia życie ustawy,
     - **b)** Związku Gmin.
@@ -199,36 +220,42 @@ Marszałek Sejmu: R. Sikorski
 
 **Art. 26.**
 
-- **6)** Zwalnia się należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze oświatowo-wychowawcze oraz towary charakterze kulturalnym przeznaczone na cele kultu, przywożone dla Związku Gmin lub tworzących go gmin żydowskich, granicach na warunkach określonych rozporządzeniu Rady (WE) nr 1186/2009 dnia 16 listopada 2009 ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324
+- **6)** Zwalnia się należności celnych przywozowych towary przeznaczone cele charytatywno-opiekuńcze oświatowo-wychowawcze oraz towary charakterze kulturalnym przeznaczone cele kultu, przywożone dla Związku Gmin lub tworzących go gmin żydowskich, granicach warunkach określonych rozporządzeniu Rady (WE) nr 1186/2009 dnia 16 listopada 2009 ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324
 
 10. 12.2009, str. 23).
 
 **Art. 27.**
 
-1. Gminy żydowskie Związek Gmin mają prawo do zbierania ofiar na cele religijne, działalność charytatywno-opiekuńczą, naukową, oświatowo-wychowawczą oraz na utrzymanie duchownych.
+1. Gminy żydowskie Związek Gmin mają prawo do zbierania ofiar cele religijne, działalność charytatywno-opiekuńczą, naukową, oświatowo-wychowawczą oraz utrzymanie duchownych.
 
-2. Zbiórki, których mowa ust. 1, nie wymagają zgłoszenia, jeżeli odbywają się obiektach kultu religijnego oraz miejscach okolicznościach zwyczajowo przyjętych sposób tradycyjnie ustalony.
+#### Rozdział 5 Przepisy przejściowe końcowe
+
+**Art. 28.**
+
+1. Istniejące dniu wejścia życie ustawy gminy żydowskie oraz Związek Gmin Wyznaniowych Żydowskich, działające podstawie obowiązujących dotychczas przepisów, stają się mocy prawa gminami żydowskimi Związkiem Gmin rozumieniu ustawy.
+
+2. Wykaz gmin żydowskich, których mowa ust. 1, stanowi załącznik do ustawy.
 
 **Art. 29.**
 
 1. Nieruchomości lub ich części pozostające dniu wejścia życie ustawy we władaniu gmin żydowskich lub Związku Gmin stają się mocy prawa ich własnością.
 
-2. Stwierdzenie przejścia własności nieruchomości lub ich części, których mowa ust. 1, następuje drodze decyzji właściwego miejscowo wojewody, wydanej na wniosek gminy żydowskiej lub Związku Gmin.
+2. Stwierdzenie przejścia własności nieruchomości lub ich części, których mowa ust. 1, następuje drodze decyzji właściwego miejscowo wojewody, wydanej wniosek gminy żydowskiej lub Związku Gmin.
 
 **Art. 30.**
 
-1. Na wniosek gminy żydowskiej lub Związku Gmin wszczyna się postępowanie, zwane dalej „postępowaniem regulacyjnym”, przedmiocie przeniesienia na rzecz gminy żydowskiej lub Związku Gmin własności nieruchomości lub ich części przejętych przez Państwo, a które dniu 1 września 1939 były własnością gmin żydowskich lub innych wyznaniowych żydowskich osób prawnych, działających na terytorium Rzeczypospolitej Polskiej, jeżeli:
+1. Na wniosek gminy żydowskiej lub Związku Gmin wszczyna się postępowanie, zwane dalej „postępowaniem regulacyjnym”, przedmiocie przeniesienia rzecz gminy żydowskiej lub Związku Gmin własności nieruchomości lub ich części przejętych przez Państwo, a które dniu 1 września 1939 były własnością gmin żydowskich lub innych wyznaniowych żydowskich osób prawnych, działających terytorium Rzeczypospolitej Polskiej, jeżeli:
 
-- **1)** tym dniu znajdowały się na nich cmentarze żydowskie lub synagogi;
-- **2)** dniu wejścia życie ustawy znajdują się na nich budynki stanowiące uprzednio siedziby gmin żydowskich oraz budynki służące uprzednio celom kultu religijnego, działalności oświatowo-wychowawczej charytatywno-opiekuńczej.
+- **1)** tym dniu znajdowały się nich cmentarze żydowskie lub synagogi;
+- **2)** dniu wejścia życie ustawy znajdują się nich budynki stanowiące uprzednio siedziby gmin żydowskich oraz budynki służące uprzednio celom kultu religijnego, działalności oświatowo-wychowawczej charytatywno-opiekuńczej.
 
-2. Na wniosek określony ust. 1 wszczyna się również postępowanie regulacyjne przedmiocie przekazania własności nieruchomości lub ich części, stanowiących na Ziemiach Zachodnich Północnych dniu 30 stycznia 1933 własność gmin synagogalnych, działających na podstawie tytułu II ustawy dnia 23 lipca 1847 stosunkach Żydów (Zbiór ustaw pruskich Nr 30), innych wyznaniowych żydowskich osób prawnych lub nieruchomości ich części, których stan prawny nie jest ustalony:
+2. Na wniosek określony ust. 1 wszczyna się również postępowanie regulacyjne przedmiocie przekazania własności nieruchomości lub ich części, stanowiących Ziemiach Zachodnich Północnych dniu 30 stycznia 1933 własność gmin synagogalnych, działających podstawie tytułu II ustawy dnia 23 lipca 1847 stosunkach Żydów (Zbiór ustaw pruskich Nr 30), innych wyznaniowych żydowskich osób prawnych lub nieruchomości ich części, których stan prawny nie jest ustalony:
 
-- **1)** jeżeli dniu 30 stycznia 1933 znajdowały się na nich cmentarze żydowskie lub synagogi;
+- **1)** jeżeli dniu 30 stycznia 1933 znajdowały się nich cmentarze żydowskie lub synagogi;
 - **2)** które stanowiły uprzednio siedziby gmin synagogalnych miejscowościach będących dniu wejścia życie ustawy siedzibami gmin żydowskich;
 - **3)** celu przywrócenia kultu religijnego, działalności oświatowo-wychowawczej charytatywno-opiekuńczej.
 
-3. Majątek nieruchomy przekazany na własność gminie trybie ustawy dnia 10 maja 1990 Przepisy wprowadzające ustawę samorządzie terytorialnym ustawę pracownikach samorządowych (Dz. U. Nr 32, 191, późn. zm. ) podlega postępowaniu, którym mowa ust. 1 2.
+3. Majątek nieruchomy przekazany własność gminie trybie ustawy dnia 10 maja 1990 Przepisy wprowadzające ustawę samorządzie terytorialnym ustawę pracownikach samorządowych (Dz. U. Nr 32, 191, późn. zm. ) podlega postępowaniu, którym mowa ust. 1 2.
 
 4. Regulacje, których mowa ust. 1 2, nie mogą naruszać praw nabytych przez osoby trzecie.
 
@@ -237,14 +264,20 @@ Marszałek Sejmu: R. Sikorski
 1. W odniesieniu do nieruchomości określonych art. 30 ust. 1 regulacja może polegać, zastrzeżeniem ust. 2, na:
 
 - **1)** przeniesieniu własności nieruchomości lub ich części;
-- **2)** przyznaniu odpowiedniej nieruchomości zamiennej, gdyby przeniesienie własności natrafiało na trudne do przezwyciężenia przeszkody;
-- **3)** przyznaniu odszkodowania ustalonego według przepisów wywłaszczaniu nieruchomości, razie niemożności dokonania regulacji przewidzianych pkt 1 2.
-
-2. W odniesieniu do cmentarzy żydowskich oraz nieruchomości określonych art. 30 ust. 2 regulacja może polegać wyłącznie na przekazaniu nieruchomości lub ich części. W razie niemożności dokonania takiej regulacji postępowanie podlega umorzeniu.
+- **2)** przyznaniu odpowiedniej nieruchomości zamiennej, gdyby przeniesienie własności natrafiało trudne do przezwyciężenia przeszkody;
+- **3)** przyznaniu odszkodowania ustalonego według przepisów wywłaszczaniu nieruchomości, razie niemożności dokonania regulacji przewidzianych pkt 1 2. podlega umorzeniu.
 
 **Art. 32.**
 
 1. Postępowanie regulacyjne, którym mowa art. 30, przeprowadza Komisja Regulacyjna do Spraw Gmin Wyznaniowych Żydowskich, zwana dalej „Komisją”, złożona przedstawicieli wyznaczonych równej liczbie przez Ministra Spraw Wewnętrznych Administracji oraz Zarząd Związku Gmin.
+
+2. Uczestnikami postępowania regulacyjnego są, oprócz wnioskodawcy, wszystkie zainteresowane jednostki państwowe, samorządowe wyznaniowe.
+
+3. Wnioski sprawie wszczęcia postępowania regulacyjnego zgłasza się terminie pięciu lat od dnia wejścia życie ustawy. Roszczenia niezgłoszone tym terminie wygasają.
+
+4. Postępowanie sądowe lub administracyjne dotyczące nieruchomości, których mowa art. 30, ulega zawieszeniu, a sądy oraz organy administracji rządowej samorządowej przekazują ich akta do Komisji Regulacyjnej.
+
+5. Komisja rozpatruje sprawy zespołach orzekających, których skład wchodzi po dwóch członków spośród wyznaczonych przez Ministra Spraw Wewnętrznych Administracji oraz Zarząd Związku Gmin.
 
 6. Postępowanie regulacyjne jest wolne od opłat.
 
@@ -266,17 +299,17 @@ Marszałek Sejmu: R. Sikorski
 
 5. Od orzeczenia zespołu orzekającego nie przysługuje odwołanie.
 
-6. Rada Ministrów, drodze rozporządzenia, określi, mienia których państwowych jednostek organizacyjnych lub jednostek samorządu terytorialnego może być wyłączona nieruchomość celu jej przekazania jako nieruchomość zamienna lub na którą państwową jednostkę organizacyjną może być nałożony obowiązek zapłaty odszkodowania.
+6. Rada Ministrów, drodze rozporządzenia, określi, mienia których państwowych jednostek organizacyjnych lub jednostek samorządu terytorialnego może być wyłączona nieruchomość celu jej przekazania jako nieruchomość zamienna lub którą państwową jednostkę organizacyjną może być nałożony obowiązek zapłaty odszkodowania.
 
 **Art. 34.**
 
 1. Jeżeli zespół orzekający lub Komisja jej pełnym składzie nie uzgodni orzeczenia, zawiadamia tym pisemnie uczestników postępowania regulacyjnego.
 
-2. Uczestnicy postępowania regulacyjnego mogą terminie sześciu miesięcy od otrzymania zawiadomienia, którym mowa ust. 1, wystąpić podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone art. 31.
+2. Uczestnicy postępowania regulacyjnego mogą terminie sześciu miesięcy od otrzymania zawiadomienia, którym mowa ust. 1, wystąpić podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte wystąpić drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone art. 31.
 
 **Art. 35.** Przejście własności nieruchomości lub ich części, których mowa art. 29 30, oraz wynikające niego wpisy do ksiąg wieczystych ich zakładanie są wolne od podatków opłat związanych tym przejściem.
 
-**Art. 36.** Traci moc rozporządzenie Prezydenta Rzeczypospolitej dnia 14 października 1927 uporządkowaniu stanu prawnego organizacji gmin wyznaniowych żydowskich na obszarze Rzeczypospolitej Polskiej wyjątkiem województwa śląskiego (Dz. U. 1928 Nr 52, 500 oraz 1945 Nr 48, 271) oraz wszelkie inne przepisy dotyczące spraw unormowanych ustawie.
+**Art. 36.** Traci moc rozporządzenie Prezydenta Rzeczypospolitej dnia 14 października 1927 uporządkowaniu stanu prawnego organizacji gmin wyznaniowych żydowskich obszarze Rzeczypospolitej Polskiej wyjątkiem województwa śląskiego (Dz. U. 1928 Nr 52, 500 oraz 1945 Nr 48, 271) oraz wszelkie inne przepisy dotyczące spraw unormowanych ustawie.
 
-**Art. 37.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia . Gmina Wyznaniowa Żydowska Krakowie Gmina Wyznaniowa Żydowska Legnicy Gmina Wyznaniowa Żydowska Łodzi Gmina Wyznaniowa Żydowska Szczecinie Gmina Wyznaniowa Żydowska Warszawie Gmina Wyznaniowa Żydowska we Wrocławiu.
+**Art. 37.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia . WYKAZ GMIN WYZNANIOWYCH ŻYDOWSKICH POSIADAJĄCYCH OSOBOWOŚĆ PRAWNĄ Gmina Wyznaniowa Żydowska Bielsku-Białej Gmina Wyznaniowa Żydowska Gdańsku Gmina Wyznaniowa Żydowska Katowicach Gmina Wyznaniowa Żydowska Krakowie Gmina Wyznaniowa Żydowska Legnicy Gmina Wyznaniowa Żydowska Łodzi Gmina Wyznaniowa Żydowska Szczecinie Gmina Wyznaniowa Żydowska Warszawie Gmina Wyznaniowa Żydowska we Wrocławiu.
 

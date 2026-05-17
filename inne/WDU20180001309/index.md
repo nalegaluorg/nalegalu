@@ -8,9 +8,12 @@ pos: 1309
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 lipca 2018 r.
+# o komornikach sądowych i egzekucji
+
+*USTAWA z dnia 29 sierpnia 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,26 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001309) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1309/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 14 czerwca 2018 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o komornikach sądowych i egzekucji
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2017 r. poz. 1277), z uwzględnieniem zmian wprowadzonych:
-1) wyrokiem Trybunału Konstytucyjnego z dnia 28 czerwca 2017 r. sygn. akt P 63/14 (Dz. U. poz. 1343),
-2) ustawą z dnia 12 lipca 2017 r. o zmianie ustawy Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1452),
-3) ustawą z dnia 29 września 2017 r. o zmianie ustawy o komornikach sądowych i egzekucji (Dz. U. poz. 1910),
-4) ustawą z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2018 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 27 ustawy z dnia 12 lipca 2017 r. o zmianie ustawy Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1452), który stanowi: „Art. 27. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 13, który wchodzi w życie z dniem 1 października 2017 r.”;
-2) art. 2 i art. 3 ustawy z dnia 29 września 2017 r. o zmianie ustawy o komornikach sądowych i egzekucji (Dz. U.
-poz. 1910), które stanowią: „Art. 2. 1. Do postępowań egzekucyjnych wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-2. Jeżeli przed dniem wejścia w życie niniejszej ustawy komornik sądowy wezwał wierzyciela do uiszczenia opłaty na podstawie art. 49a ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, a do dnia wejścia w życie niniejszej ustawy termin ten nie upłynął albo upłynął bezskutecznie, komornik sądowy wzywa wierzyciela do uiszczenia opłaty tymczasowej na podstawie art. 49a ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-3. Jeżeli wierzyciel uiścił opłatę w wysokości przewidzianej w przepisach dotychczasowych, komornik sądowy zwraca wierzycielowi różnicę między opłatą uiszczoną a opłatą tymczasową przewidzianą w art. 49a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-4. Jeżeli dobrowolne wykonanie obowiązku przez dłużnika w warunkach określonych w art. 49b ust. 3 ustawy zmienianej w art. 1, nastąpiło przed dniem wejścia w życie niniejszej ustawy, a do dnia 22 października 2015 r. nie doszło do wykonania prawomocnego postanowienia wydanego na podstawie art. 770 ustawy z dnia 17 listopada 1964 r.
-Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm. ) w części obejmującej uiszczoną przez wierzyciela opłatę stałą, o której mowa w art. 50, art. 51 i art. 54 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, komornik sądowy na wniosek wierzyciela lub dłużnika ustala opłatę na podstawie art. 49b ust. 3 ustawy zmienianej w art. 1.
-5. Wniosek, o którym mowa w ust. 4, można złożyć w terminie roku od dnia wejścia w życie niniejszej ustawy.
-6. W przypadku, o którym mowa w ust. 4, pobraną różnicę między opłatą stałą ustaloną na podstawie art. 50, art. 51 i art. 54 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, a opłatą ustaloną na podstawie art. 49b ust. 3 ustawy zmienianej w art. 1 komornik sądowy zwraca wierzycielowi w zakresie, w jakim nie otrzymał zwrotu jej równowartości od dłużnika, a pozostałą część dłużnikowi.
 Art. 95–98. (pominięte)
-
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -63,10 +47,10 @@ Art. 95–98. (pominięte)
 4. Komornik, poza zadaniami określonymi w ust. 3, ma prawo:
 
 - **1)** doręczania zawiadomień sądowych, obwieszczeń, protestów i zażaleń oraz innych dokumentów za potwierdzeniem odbioru i oznaczeniem daty;
-- **2)** na wniosek organizatora licytacji sprawowania urzędowego nadzoru nad dobrowolnymi publicznymi licytacjami, z przybiciem najniższej lub najwyższej oferty;
+- **2)** na wniosek organizatora licytacji – sprawowania urzędowego nadzoru nad dobrowolnymi publicznymi licytacjami, z przybiciem najniższej lub najwyższej oferty;
 - **3)** weryfikowania istnienia i treści tytułów wykonawczych wydanych w postępowaniach elektronicznych.
 
-5. Organy administracji publicznej, urzędy skarbowe, organy rentowe, o których mowa w art. 476 § 4 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ), banki, spółdzielcze kasy oszczędnościowo-kredytowe, podmioty prowadzące działalność maklerską, organy spółdzielni mieszkaniowych, zarządy wspólnot mieszkaniowych, inne podmioty zarządzające mieszkaniami i lokalami użytkowymi, jak również inne instytucje są obowiązane na pisemne żądanie komornika udzielić mu informacji niezbędnych do prawidłowego prowadzenia postępowania egzekucyjnego, wykonania postanowienia o udzieleniu zabezpieczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym oraz wykonania innych czynności wchodzących w zakres jego ustawowych zadań, w szczególności dotyczących stanu majątkowego dłużnika oraz umożliwiających identyfikację składników jego majątku. Przepis art. 762 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego stosuje się odpowiednio.
+5. Organy administracji publicznej, urzędy skarbowe, organy rentowe, o których mowa w art. 476 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ), banki, spółdzielcze kasy oszczędnościowo-kredytowe, podmioty prowadzące działalność maklerską, organy spółdzielni mieszkaniowych, zarządy wspólnot mieszkaniowych, inne podmioty zarządzające mieszkaniami i lokalami użytkowymi, jak również inne instytucje są obowiązane na pisemne żądanie komornika udzielić mu informacji niezbędnych do prawidłowego prowadzenia postępowania egzekucyjnego, wykonania postanowienia o udzieleniu zabezpieczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym oraz wykonania innych czynności wchodzących w zakres jego ustawowych zadań, w szczególności dotyczących stanu majątkowego dłużnika oraz umożliwiających identyfikację składników jego majątku. Przepis art. 762 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się odpowiednio.
 
 6. Komornik ponosi odpowiedzialność za szkody wynikające z ujawnienia tajemnicy bankowej lub skarbowej i wykorzystania jej niezgodnie z przeznaczeniem.
 
@@ -131,7 +115,7 @@ Art. 95–98. (pominięte)
 
 3. (uchylony)
 
-4. Komornik nie może odmówić przyjęcia wniosku o wszczęcie egzekucji, wykonania postanowienia o udzieleniu zabezpieczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym, do przeprowadzenia których jest właściwy zgodnie z przepisami ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego.
+4. Komornik nie może odmówić przyjęcia wniosku o wszczęcie egzekucji, wykonania postanowienia o udzieleniu zabezpieczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym, do przeprowadzenia których jest właściwy zgodnie z przepisami ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
 5. Wierzyciel ma prawo wyboru komornika na terytorium Rzeczypospolitej Polskiej, z wyjątkiem spraw o egzekucję z nieruchomości oraz spraw, w których przepisy o egzekucji z nieruchomości stosuje się odpowiednio. W przypadku wyboru komornik działa poza obszarem swojego rewiru komorniczego.
 
@@ -151,7 +135,7 @@ Art. 95–98. (pominięte)
 
 9. W przypadku odmowy wszczęcia egzekucji, wykonania postanowienia o udzieleniu zabezpieczenia, wykonania europejskiego nakazu zabezpieczenia na rachunku bankowym lub podjęcia innych czynności wchodzących w zakres ustawowych zadań komornika komornik wydaje postanowienie. Postanowienie to doręcza się tylko wierzycielowi.
 
-10. Komornik wybrany przez wierzyciela zawiadamia niezwłocznie o wszczęciu egzekucji, wykonaniu postanowienia o udzieleniu zabezpieczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym komorników właściwych według przepisów ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego. Zawiadomienie może być dokonane za pośrednictwem telefaksu lub poczty elektronicznej. W takim przypadku dowodem zawiadomienia jest potwierdzenie transmisji danych.
+10. Komornik wybrany przez wierzyciela zawiadamia niezwłocznie o wszczęciu egzekucji, wykonaniu postanowienia o udzieleniu zabezpieczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym komorników właściwych według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. Zawiadomienie może być dokonane za pośrednictwem telefaksu lub poczty elektronicznej. W takim przypadku dowodem zawiadomienia jest potwierdzenie transmisji danych.
 
 11. W razie podejmowania przez komornika wybranego przez wierzyciela czynności poza swoim rewirem komorniczym wydatki obejmujące diety przysługujące osobom zatrudnionym w kancelarii komornika i uczestniczącym w tych czynnościach, koszty przejazdów i noclegów komornika i tych osób oraz koszty transportu specjalistycznego obciążają wierzyciela, chyba że wyrazi on zgodę na obciążenie go innymi wydatkami określonymi w art. 39 ust. 2. Wydatki te obciążają wierzyciela niezależnie od przysługującego mu zwolnienia od kosztów sądowych. Nie wlicza się ich do kosztów egzekucji obciążających dłużnika.
 
@@ -199,7 +183,7 @@ Art. 95–98. (pominięte)
 
 5. Wymóg, o którym mowa w ust. 1 pkt 8, nie dotyczy:
 
-- **1)** osób, które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 3 lat w okresie nie dłuższym niż 6 lat przed dniem złożenia wniosku o dopuszczenie do egzaminu komorniczego wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o której mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze (Dz. U. z 2017 r. poz. 2368 i 2400 oraz z 2018 r. poz. 723), lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o której mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2017 r. poz. 1870 i 2400 oraz z 2018 r. poz. 138 i 723);
+- **1)** osób, które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 3 lat w okresie nie dłuższym niż 6 lat przed dniem złożenia wniosku o dopuszczenie do egzaminu komorniczego wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o której mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2017 r. poz. 2368 i 2400 oraz z 2018 r. poz. 723), lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o której mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2017 r. poz. 1870 i 2400 oraz z 2018 r. poz. 138 i 723);
 - **2)** osób, które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 3 lat w okresie nie dłuższym niż 6 lat przed dniem złożenia wniosku o dopuszczenie do egzaminu komorniczego wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane z czynnościami wykonywanymi przez notariusza w kancelarii notarialnej;
 - **3)** osób, które w terminie określonym w art. 13a ust. 1 nie złożyły wniosku o powołanie na stanowisko komornika;
 - **4)** osób, o których mowa w art. 15c ust. 2 i art. 32ba ust. 2.
@@ -228,7 +212,9 @@ Art. 95–98. (pominięte)
 
 1a. Oświadczenie, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
-2. Do wniosku, o którym mowa w ust. 1, zainteresowany urodzony przed dniem 1 sierpnia 1972 r., dołącza również oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186 oraz z 2018 r. poz. 538, 650, 651, 730 i 1000) albo informację, o której mowa w art. 7 ust. 3a tej ustawy.
+2. Do wniosku, o którym mowa w ust. 1, zainteresowany urodzony przed dniem 1 sierpnia 1972 r., dołącza również oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186 oraz z 2018 r. poz. 538, 650, 651, 730 i
+
+- **1000)** albo informację, o której mowa w art. 7 ust. 3a tej ustawy.
 
 **Art. 12a.** Minister Sprawiedliwości zasięga z Krajowego Rejestru Karnego informacji o osobie zainteresowanej powołaniem na stanowisko komornika.
 
@@ -276,7 +262,7 @@ Art. 95–98. (pominięte)
 - **1)** wniósł o to sam komornik z powodu długotrwałej choroby lub z innych ważnych przyczyn;
 - **2)** przeciwko komornikowi jest prowadzone postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego lub nieumyślne przestępstwo skarbowe.
 
-2a. Na postanowienie Ministra Sprawiedliwości o zawieszeniu komornika w czynnościach przysługuje zażalenie do Sądu Okręgowego w Warszawie, w terminie 7 dni od dnia doręczenia postanowienia. Do rozpoznania zażalenia stosuje się właściwe przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm. ).
+2a. Na postanowienie Ministra Sprawiedliwości o zawieszeniu komornika w czynnościach przysługuje zażalenie do Sądu Okręgowego w Warszawie, w terminie 7 dni od dnia doręczenia postanowienia. Do rozpoznania zażalenia stosuje się właściwe przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm. ).
 
 3. Zawieszenie komornika w czynnościach ustaje z dniem:
 
@@ -293,8 +279,8 @@ Art. 95–98. (pominięte)
 - **3)** (uchylony) 3a) ukończył 70 rok życia;
 - **4)** (uchylony)
 - **5)** został ubezwłasnowolniony częściowo bądź całkowicie;
-- **6)** dopuścił się rażącego lub uporczywego naruszenia przepisów prawa na wniosek prezesa właściwego sądu apelacyjnego lub prezesa właściwego sądu okręgowego;
-- **7)** z zawinionych przez siebie przyczyn nie wykonał zarządzeń, o których mowa w art. 3 ust. 3 na wniosek prezesa właściwego sądu apelacyjnego lub prezesa właściwego sądu okręgowego;
+- **6)** dopuścił się rażącego lub uporczywego naruszenia przepisów prawa – na wniosek prezesa właściwego sądu apelacyjnego lub prezesa właściwego sądu okręgowego;
+- **7)** z zawinionych przez siebie przyczyn nie wykonał zarządzeń, o których mowa w art. 3 ust. 3 – na wniosek prezesa właściwego sądu apelacyjnego lub prezesa właściwego sądu okręgowego;
 - **8)** (uchylony)
 - **9)** nie zawarł umowy ubezpieczenia odpowiedzialności cywilnej, zgodnie z przepisami wydanymi na podstawie art. 24 ust. 2, lub utracił to ubezpieczenie z zawinionych przez siebie przyczyn.
 
@@ -326,7 +312,7 @@ Art. 95–98. (pominięte)
 1. W przypadku:
 
 - **1)** odwołania komornika z zajmowanego stanowiska z przyczyn, o których mowa w art. 15a ust. 1 pkt 5–7 i 9 oraz ust. 2, lub
-- **2)** wygaśnięcia powołania na stanowisko komornika z mocy prawa z przyczyn, o których mowa w art. 15a ust. 1a osoba może zostać ponownie powołana na stanowisko komornika, jeżeli spełnia wymagania określone w art. 10 ust. 1 pkt 1–7, z uwzględnieniem art. 72 ust. 4.
+- **2)** wygaśnięcia powołania na stanowisko komornika z mocy prawa z przyczyn, o których mowa w art. 15a ust. 1a – osoba może zostać ponownie powołana na stanowisko komornika, jeżeli spełnia wymagania określone w art. 10 ust. 1 pkt 1–7, z uwzględnieniem art. 72 ust. 4.
 
 2. Jeżeli osoba, o której mowa w ust. 1, co najmniej przez 10 lat nie wykonywała zawodu może zostać ponownie powołana na stanowisko komornika po złożeniu egzaminu komorniczego. Obowiązek złożenia egzaminu komorniczego nie dotyczy osób, o których mowa w art. 10 ust. 4.
 
@@ -374,7 +360,7 @@ Art. 95–98. (pominięte)
 
 **Art. 17d.**
 
-- **3)** 1. Minister Sprawiedliwości może, w drodze decyzji, przyznać Skarbowi Państwa uprawnienia wynikające z autorskich praw majątkowych do programu komputerowego obsługującego komornicze systemy informatyczne, zwanego dalej „programem komputerowym”, w zakresie niezbędnym do wykonywania zadań komorników sądowych.
+1. Minister Sprawiedliwości może, w drodze decyzji, przyznać Skarbowi Państwa uprawnienia wynikające z autorskich praw majątkowych do programu komputerowego obsługującego komornicze systemy informatyczne, zwanego dalej „programem komputerowym”, w zakresie niezbędnym do wykonywania zadań komorników sądowych.
 
 2. Decyzja, o której mowa w ust. 1, może zostać wydana, jeżeli zagrożona jest sprawność działania lub ciągłość funkcjonowania programu komputerowego lub systemu teleinformatycznego wykorzystującego program komputerowy, lub jeżeli zapewnienia ich sprawności działania lub ciągłości funkcjonowania wymaga ważny interes państwa lub dobro wymiaru sprawiedliwości, a porozumienie w tym zakresie z osobą, której przysługują autorskie prawa majątkowe do programu komputerowego, napotyka przeszkody.
 
@@ -395,7 +381,7 @@ Art. 95–98. (pominięte)
 
 **Art. 17e.**
 
-- **3)** 1. Minister Sprawiedliwości określa, w drodze decyzji, po zasięgnięciu opinii biegłego, wysokość wynagrodzenia należnego osobie, której przysługują autorskie prawa majątkowe do programu komputerowego, stanowiącego ekwiwalent nabytych przez Skarb Państwa, na podstawie decyzji, o której mowa w art. 17d ust. 1, uprawnień wynikających z autorskich praw majątkowych do tego programu.
+1. Minister Sprawiedliwości określa, w drodze decyzji, po zasięgnięciu opinii biegłego, wysokość wynagrodzenia należnego osobie, której przysługują autorskie prawa majątkowe do programu komputerowego, stanowiącego ekwiwalent nabytych przez Skarb Państwa, na podstawie decyzji, o której mowa w art. 17d ust. 1, uprawnień wynikających z autorskich praw majątkowych do tego programu.
 
 2. Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do sądu powszechnego.
 
@@ -526,7 +512,7 @@ Art. 95–98. (pominięte)
 
 - **1)** czterej sędziowie sądu okręgowego lub apelacyjnego;
 - **2)** dwaj przedstawiciele delegowani przez Krajową Radę Komorniczą;
-- **3)** jeden pracownik naukowy, naukowo-dydaktyczny lub dydaktyczny na wydziale prawa w szkole wyższej w Rzeczypospolitej Polskiej lub w Polskiej Akademii Nauk, posiadający co najmniej stopień naukowy doktora habilitowanego nauk prawnych.
+- **3)** jeden pracownik badawczy, badawczo-dydaktyczny lub dydaktyczny prowadzący działalność naukową lub kształcenie w zakresie nauk prawnych w szkole wyższej w Rzeczypospolitej Polskiej lub pracownik naukowy w instytucie naukowym Polskiej Akademii Nauk, posiadający co najmniej stopień naukowy doktora habilitowanego z zakresu nauk prawnych.
 
 4. Powołując komisje egzaminacyjne, Minister Sprawiedliwości wyznacza jednocześnie ich przewodniczących.
 
@@ -560,7 +546,7 @@ Art. 95–98. (pominięte)
 
 11. Minister Sprawiedliwości zapewnia obsługę administracyjną i techniczną zespołu egzaminacyjnego.
 
-12. Do wydrukowania i doręczenia pytań testowych i zadań wraz z opisami istotnych zagadnień poszczególnym komisjom egzaminacyjnym, o których mowa w art. 31 ust. 1, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z 2017 r. poz. 1579 i 2018), jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
+12. Do wydrukowania i doręczenia pytań testowych i zadań wraz z opisami istotnych zagadnień poszczególnym komisjom egzaminacyjnym, o których mowa w art. 31 ust. 1, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2017 r. poz. 1579 i 2018), jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
 
 13. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 12, mając na uwadze konieczność zachowania zasad uczciwej konkurencji oraz równego traktowania wykonawców i zabezpieczenia pytań testowych i zadań wraz z opisami istotnych zagadnień przed ich nieuprawnionym ujawnieniem.
 
@@ -606,7 +592,7 @@ Art. 95–98. (pominięte)
 
 3. Członkowie komisji egzaminacyjnych przed rozpoczęciem egzaminu konkursowego składają pisemne oświadczenia, że nie pozostają z żadnym z kandydatów zakwalifikowanych do egzaminu konkursowego w stosunku, o którym mowa w ust. 1.
 
-4. Podanie nieprawdy lub zatajenie prawdy w oświadczeniu, o którym mowa w ust. 3, powoduje odpowiedzialność na podstawie przepisu art. 233 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20, 305 i 663).
+4. Podanie nieprawdy lub zatajenie prawdy w oświadczeniu, o którym mowa w ust. 3, powoduje odpowiedzialność na podstawie przepisu art. 233 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20, 305 i 663).
 
 **Art. 29g.**
 
@@ -756,7 +742,7 @@ Art. 95–98. (pominięte)
     - **c)** dobra (4),
     - **d)** dostateczna (3);
 
-- **2)** ocena negatywna niedostateczna (2).
+- **2)** ocena negatywna – niedostateczna (2).
 
 2. Oceny każdego z zadań pisemnych dokonują niezależnie od siebie dwaj członkowie komisji egzaminacyjnej.
 
@@ -765,12 +751,12 @@ Art. 95–98. (pominięte)
 4. Ostateczną ocenę każdego z zadań pisemnych egzaminu komorniczego stanowi średnia ocen cząstkowych przyznanych przez każdego członka komisji egzaminacyjnej, przy czym:
 
 - **1)** oceny pozytywne to:
-    - **a)** celująca jeżeli średnia arytmetyczna wystawionych ocen wynosi 6,00,
-    - **b)** bardzo dobra jeżeli średnia arytmetyczna wystawionych ocen wynosi 5,00 lub 5,50,
-    - **c)** dobra jeżeli średnia arytmetyczna wystawionych ocen wynosi 4,00 lub 4,50,
-    - **d)** dostateczna jeżeli średnia arytmetyczna wystawionych ocen wynosi 3,00 lub 3,50;
+    - **a)** celująca – jeżeli średnia arytmetyczna wystawionych ocen wynosi 6,00,
+    - **b)** bardzo dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 5,00 lub 5,50,
+    - **c)** dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 4,00 lub 4,50,
+    - **d)** dostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 3,00 lub 3,50;
 
-- **2)** ocena negatywna niedostateczna jeżeli średnia arytmetyczna wystawionych ocen wynosi 2,00 lub 2,50.
+- **2)** ocena negatywna – niedostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 2,00 lub 2,50.
 
 5. Pozytywny wynik egzaminu komorniczego uzyskuje zdający, który z każdego z zadań pisemnych z egzaminu komorniczego otrzymał ocenę pozytywną.
 
@@ -800,8 +786,8 @@ Art. 95–98. (pominięte)
 
 7. Do składu komisji odwoławczej kandydatów na członków wskazują:
 
-- **1)** Minister Sprawiedliwości czterech członków, spośród których wyznacza przewodniczącego;
-- **2)** Krajowa Rada Komornicza dwóch członków, spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
+- **1)** Minister Sprawiedliwości – czterech członków, spośród których wyznacza przewodniczącego;
+- **2)** Krajowa Rada Komornicza – dwóch członków, spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
 
 8. Przewodniczącemu i członkom komisji odwoławczej za udział w jej pracach przysługuje wynagrodzenie oraz zwrot kosztów podróży i noclegów na zasadach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
 
@@ -830,7 +816,7 @@ Art. 95–98. (pominięte)
 
 18. Od uchwały komisji odwoławczej służy skarga do sądu administracyjnego.
 
-19. Do postępowania przed komisją odwoławczą stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650).
+19. Do postępowania przed komisją odwoławczą stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650).
 
 20. Obsługę administracyjno-biurową komisji odwoławczej zapewnia Minister Sprawiedliwości. W ramach obsługi administracyjno-biurowej komisji odwoławczej, Minister Sprawiedliwości uzgadnia z jej przewodniczącym terminarz pracy komisji odwoławczej i zapewnia komisji odwoławczej miejsce i odpowiednie warunki pracy. Wydatki związane z działalnością komisji odwoławczej oraz wynagrodzenie przewodniczącego i członków komisji odwoławczej są pokrywane z części budżetu państwa, która pozostaje w dyspozycji Ministra Sprawiedliwości.
 
@@ -978,7 +964,8 @@ Art. 95–98. (pominięte)
 - **5)** koszty działania komornika, o których mowa w art. 8 ust. 11, poza terenem rewiru komorniczego;
 - **6)** koszty doręczenia środków pieniężnych przez pocztę lub przelewem bankowym;
 - **7)** koszty uzyskiwania informacji niezbędnych do prowadzenia postępowania egzekucyjnego lub wykonania postanowienia o udzieleniu zabezpieczenia;
-- **8)** koszty doręczenia korespondencji, z wyjątkiem kosztów doręczenia stronom zawiadomienia o wszczęciu egzekucji bądź postępowania zabezpieczającego lub dokumentów doręczanych na podstawie art. 25 i art. 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 655/2014 z dnia 15 maja 2014 r. ustanawiającego procedurę europejskiego nakazu zabezpieczenia na rachunku bankowym w celu ułatwienia transgranicznego dochodzenia wierzytelności w sprawach cywilnych i handlowych (Dz. Urz. UE L 189 z 27.06.2014, str. 59);
+- **8)** koszty doręczenia korespondencji, z wyjątkiem kosztów doręczenia stronom zawiadomienia o wszczęciu egzekucji bądź postępowania zabezpieczającego lub dokumentów doręczanych na podstawie art. 25 i art. 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 655/2014 z dnia 15 maja 2014 r. ustanawiającego procedurę europejskiego nakazu zabezpieczenia na rachunku bankowym w celu ułatwienia transgranicznego dochodzenia wierzytelności w sprawach cywilnych i handlowych (Dz. Urz. UE L 189 z 27.06.2014, str.
+- **59)** ;
 - **9)** koszty dostępu do systemu teleinformatycznego obsługującego zajęcie wierzytelności z rachunku bankowego.
 
 **Art. 40.**
@@ -1049,11 +1036,11 @@ Art. 95–98. (pominięte)
 
 1a. W sprawach wymienionych w ust. 1 komornik ściąga opłatę od dłużnika proporcjonalnie do wysokości wyegzekwowanego świadczenia.
 
-2. W sprawach o egzekucję świadczeń pieniężnych w przypadku umorzenia postępowania egzekucyjnego na wniosek wierzyciela oraz na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego komornik pobiera od dłużnika opłatę stosunkową w wysokości 5% wartości świadczenia pozostałego do wyegzekwowania, jednak nie niższej niż 1/20 i nie wyższej niż dziesięciokrotna wysokość przeciętnego wynagrodzenia miesięcznego. Jednakże, w razie umorzenia postępowania egzekucyjnego na wniosek wierzyciela zgłoszony przed doręczeniem dłużnikowi zawiadomienia o wszczęciu egzekucji, komornik pobiera od dłużnika opłatę stosunkową w wysokości 1/20 przeciętnego wynagrodzenia miesięcznego.
+2. W sprawach o egzekucję świadczeń pieniężnych w przypadku umorzenia postępowania egzekucyjnego na wniosek wierzyciela oraz na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego komornik pobiera od dłużnika opłatę stosunkową w wysokości 5% wartości świadczenia pozostałego do wyegzekwowania, jednak nie niższej niż 1/20 i nie wyższej niż dziesięciokrotna wysokość przeciętnego wynagrodzenia miesięcznego. Jednakże, w razie umorzenia postępowania egzekucyjnego na wniosek wierzyciela zgłoszony przed doręczeniem dłużnikowi zawiadomienia o wszczęciu egzekucji, komornik pobiera od dłużnika opłatę stosunkową w wysokości 1/20 przeciętnego wynagrodzenia miesięcznego.
 
 2a. Przepisu ust. 2 nie stosuje się jeżeli dłużnik wykaże, że orzeczenie na którym oparto klauzulę wykonalności zostało uchylone lub zmienione w taki sposób, iż nie nadaje się do wykonania, utraciło moc lub tytuł wykonawczy został pozbawiony wykonalności z przyczyn innych niż zaspokojenie wierzyciela. Przepis ust. 4 stosuje się odpowiednio.
 
-2b. Jeżeli wykazanie okoliczności, o których mowa w ust. 2a, nie było możliwe przed prawomocnym zakończeniem postępowania egzekucyjnego, dłużnik może złożyć wniosek o uchylenie postanowienia, o którym mowa w ust. 3, a w przypadku pobrania opłaty także o jej zwrot. W tym przypadku dłużnik obowiązany jest wykazać, że orzeczenie na którym oparto klauzulę wykonalności zostało uchylone lub zmienione w taki sposób, iż nie nadaje się do wykonania, utraciło moc lub tytuł wykonawczy został pozbawiony wykonalności z przyczyn innych niż zaspokojenie wierzyciela. Przepis ust. 4 stosuje się odpowiednio.
+2b. Jeżeli wykazanie okoliczności, o których mowa w ust. 2a, nie było możliwe przed prawomocnym zakończeniem postępowania egzekucyjnego, dłużnik może złożyć wniosek o uchylenie postanowienia, o którym mowa w ust. 3, a w przypadku pobrania opłaty – także o jej zwrot. W tym przypadku dłużnik obowiązany jest wykazać, że orzeczenie na którym oparto klauzulę wykonalności zostało uchylone lub zmienione w taki sposób, iż nie nadaje się do wykonania, utraciło moc lub tytuł wykonawczy został pozbawiony wykonalności z przyczyn innych niż zaspokojenie wierzyciela. Przepis ust. 4 stosuje się odpowiednio.
 
 2c. Wniosek, o którym mowa w ust. 2b, wnosi się do komornika w terminie trzymiesięcznym; termin ten liczy się od daty uprawomocnienia się orzeczenia wywołującego skutki, o których mowa w ust. 2a, albo od dnia zaistnienia zdarzenia powodującego utratę mocy przez orzeczenie, na którym oparto klauzulę wykonalności.
 
@@ -1075,7 +1062,7 @@ Art. 95–98. (pominięte)
 
 **Art. 49a.**
 
-- **7)** 1. Wszczęcie egzekucji świadczeń niepieniężnych oraz wykonanie postanowienia o udzieleniu zabezpieczenia roszczenia niepieniężnego jest uzależnione od uiszczenia przez wierzyciela opłaty tymczasowej w wysokości 10% przeciętnego wynagrodzenia miesięcznego.
+1. Wszczęcie egzekucji świadczeń niepieniężnych oraz wykonanie postanowienia o udzieleniu zabezpieczenia roszczenia niepieniężnego jest uzależnione od uiszczenia przez wierzyciela opłaty tymczasowej w wysokości 10% przeciętnego wynagrodzenia miesięcznego.
 
 2. Komornik wzywa wierzyciela do uiszczenia opłaty tymczasowej w terminie 7 dni od dnia doręczenia wezwania pod rygorem zwrotu wniosku lub odmowy dokonania czynności.
 
@@ -1085,15 +1072,15 @@ Art. 95–98. (pominięte)
 
 **Art. 49b.**
 
-- **8)** 1. W razie skutecznego przeprowadzenia egzekucji świadczenia niepieniężnego komornik pobiera od dłużnika opłatę uzupełniającą w wysokości różnicy między opłatą ostateczną a uiszczoną przez wierzyciela opłatą tymczasową.
+1. W razie skutecznego przeprowadzenia egzekucji świadczenia niepieniężnego komornik pobiera od dłużnika opłatę uzupełniającą w wysokości różnicy między opłatą ostateczną a uiszczoną przez wierzyciela opłatą tymczasową.
 
-2. W razie skutecznego wykonania postanowienia o udzieleniu zabezpieczenia roszczenia niepieniężnego, niecelowego wszczęcia postępowania albo umorzenia postępowania na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego komornik pobiera opłatę uzupełniającą od wierzyciela.
+2. W razie skutecznego wykonania postanowienia o udzieleniu zabezpieczenia roszczenia niepieniężnego, niecelowego wszczęcia postępowania albo umorzenia postępowania na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego komornik pobiera opłatę uzupełniającą od wierzyciela.
 
 3. Jeżeli dłużnik po wezwaniu przez komornika dobrowolnie wykonał obowiązek w wyznaczonym terminie, który nie może być krótszy niż 14 dni od dnia doręczenia wezwania, opłata ostateczna wynosi 1/25 przeciętnego wynagrodzenia miesięcznego. Jeżeli dłużnik dobrowolnie wykonał obowiązek przed doręczeniem mu wezwania, komornik nie pobiera opłaty. Jeżeli dłużnik dobrowolnie wykonał obowiązek po wyznaczonym terminie, nie później niż 3 dni przed planowanym wykonaniem tytułu wykonawczego, uiszczona przez wierzyciela opłata tymczasowa staje się opłatą ostateczną. Przepisów ust. 1 i 2 nie stosuje się.
 
 4. W celu pobrania opłaty uzupełniającej komornik wydaje postanowienie, w którym wzywa wierzyciela albo dłużnika do uiszczenia opłaty uzupełniającej w terminie 7 dni od dnia doręczenia postanowienia. Postanowienie po uprawomocnieniu się podlega wykonaniu w drodze egzekucji bez zaopatrywania w klauzulę wykonalności.
 
-5. W przypadku, o którym mowa w ust. 3 zdanie pierwsze, komornik zwraca wierzycielowi różnicę między uiszczoną opłatą tymczasową a opłatą ostateczną, a w przypadku, o którym mowa w ust. 3 zdanie drugie całą opłatę tymczasową.
+5. W przypadku, o którym mowa w ust. 3 zdanie pierwsze, komornik zwraca wierzycielowi różnicę między uiszczoną opłatą tymczasową a opłatą ostateczną, a w przypadku, o którym mowa w ust. 3 zdanie drugie – całą opłatę tymczasową.
 
 **Art. 50.** (uchylony)
 
@@ -1116,13 +1103,11 @@ Art. 95–98. (pominięte)
 
 **Art. 53a.**
 
-1. Opłatę stałą w wysokości 2% przeciętnego wynagrodzenia miesięcznego komornik pobiera od wierzyciela w przypadku otrzymania zlecenia poszukiwania majątku dłużnika w trybie art. 801 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego. W razie nieuiszczenia opłaty w terminie 7 dni od otrzymania wezwania komornik zwraca wniosek zawierający zlecenie.
+1. Opłatę stałą w wysokości 2% przeciętnego wynagrodzenia miesięcznego komornik pobiera od wierzyciela w przypadku otrzymania zlecenia poszukiwania majątku dłużnika w trybie art. 8012 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. W razie nieuiszczenia opłaty w terminie 7 dni od otrzymania wezwania komornik zwraca wniosek zawierający zlecenie.
 
 2. W razie odnalezienia majątku dłużnika w trybie określonym w ust. 1 komornik pobiera opłatę stałą w wysokości 5% szacunkowej wartości tego majątku, nie więcej jednak niż 100% przeciętnego wynagrodzenia miesięcznego. Opłata ta ulega zmniejszeniu o kwotę opłaty pobranej na podstawie ust. 1. Przepis art. 49 ust. 3 stosuje się odpowiednio.
 
-**Art. 54.**
-
-- **12)** Za wprowadzenie wierzyciela w posiadanie w przypadkach innych niż wymienione w art. 51 pobiera się ostateczną opłatę stałą w wysokości 15% przeciętnego wynagrodzenia miesięcznego, a w razie podjęcia egzekucji na skutek dalszych naruszeń posiadania, opłatę zwiększa się każdorazowo o 100%.
+**Art. 54.** Za wprowadzenie wierzyciela w posiadanie w przypadkach innych niż wymienione w art. 51 pobiera się ostateczną opłatę stałą w wysokości 15% przeciętnego wynagrodzenia miesięcznego, a w razie podjęcia egzekucji na skutek dalszych naruszeń posiadania, opłatę zwiększa się każdorazowo o 100%.
 
 **Art. 55.** Za opieczętowanie lub zdjęcie pieczęci, bez dokonywania równoczesnego spisu, pobiera się opłatę stałą w wysokości 4% przeciętnego wynagrodzenia miesięcznego od każdej opieczętowanej izby lub innego pomieszczenia.
 
@@ -1146,7 +1131,7 @@ Art. 95–98. (pominięte)
 
 **Art. 63.**
 
-1. Z zastrzeżeniem odmiennej umowy zawartej między komornikiem i zastępcą komornika, o którym mowa w art. 26, zastępca komornika pobiera 25% dochodu zastępowanego komornika w pierwszym miesiącu sprawowania zastępstwa, a w następnych miesiącach 50% tego dochodu.
+1. Z zastrzeżeniem odmiennej umowy zawartej między komornikiem i zastępcą komornika, o którym mowa w art. 26, zastępca komornika pobiera 25% dochodu zastępowanego komornika w pierwszym miesiącu sprawowania zastępstwa, a w następnych miesiącach – 50% tego dochodu.
 
 2. Jeżeli przyczyną zastępstwa jest zawieszenie komornika w czynnościach, zastępcy komornika należy się do czasu ustania zawieszenia komornika w czynnościach dochód określony w ust. 1, nie dłużej jednak niż przez okres jednego roku. Po upływie jednego roku od dnia zawieszenia komornika w czynnościach zastępca komornika pobiera 100% dochodu zastępowanego komornika.
 
@@ -1164,9 +1149,9 @@ Art. 95–98. (pominięte)
 
 1. Nadzór zwierzchni nad działalnością komorników i działalnością samorządu komorniczego sprawuje Minister Sprawiedliwości. Nadzór ten nie może wkraczać w działania podlegające nadzorowi sądu.
 
-2. Nadzór nad działalnością komorników sprawuje Minister Sprawiedliwości przez prezesów sądów okręgowych, sędziów-wizytatorów, a w zakresie kontroli finansowej przez osoby upoważnione.
+2. Nadzór nad działalnością komorników sprawuje Minister Sprawiedliwości przez prezesów sądów okręgowych, sędziów-wizytatorów, a w zakresie kontroli finansowej – przez osoby upoważnione.
 
-3. Minister Sprawiedliwości lub, z jego upoważnienia, prezes sądu okręgowego może zlecić sędziemu-wizytatorowi, a w uzasadnionych przypadkach w zakresie kontroli finansowej osobie upoważnionej, przeprowadzenie wizytacji w określonej kancelarii.
+3. Minister Sprawiedliwości lub, z jego upoważnienia, prezes sądu okręgowego może zlecić sędziemu-wizytatorowi, a w uzasadnionych przypadkach w zakresie kontroli finansowej – osobie upoważnionej, przeprowadzenie wizytacji w określonej kancelarii.
 
 **Art. 65.**
 
@@ -1240,7 +1225,9 @@ Art. 95–98. (pominięte)
 
 **Art. 72a.**
 
-1. Do aplikantów i asesorów komorniczych stosuje się odpowiednio przepisy o odpowiedzialności dyscyplinarnej komorników, z zastrzeżeniem ust. 2–6.
+1. Do aplikantów i asesorów komorniczych stosuje się odpowiednio przepisy o odpowiedzialności dyscyplinarnej komorników, z zastrzeżeniem ust. 2–
+
+6.
 
 2. Karami dyscyplinarnymi są:
 
@@ -1261,7 +1248,7 @@ Art. 95–98. (pominięte)
 
 **Art. 73.**
 
-1. Po upływie 5 lat od dnia popełnienia czynu nie można wszcząć postępowania dyscyplinarnego, a postępowanie wszczęte ulega umorzeniu. Jeżeli jednak czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie może nastąpić wcześniej niż przedawnienie przewidziane w ustawie z dnia 6 czerwca 1997 r. Kodeks karny.
+1. Po upływie 5 lat od dnia popełnienia czynu nie można wszcząć postępowania dyscyplinarnego, a postępowanie wszczęte ulega umorzeniu. Jeżeli jednak czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie może nastąpić wcześniej niż przedawnienie przewidziane w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 2. Bieg przedawnienia dyscyplinarnego przerywa się przez każdą czynność procesową rzecznika dyscyplinarnego w sprawie lub złożenie przez podmiot, o którym mowa w art. 74 ust. 1, wniosku o wszczęcie postępowania dyscyplinarnego.
 
@@ -1275,7 +1262,7 @@ Art. 95–98. (pominięte)
 
 3. Minister Sprawiedliwości, składając wniosek o wszczęcie postępowania dyscyplinarnego, może zawiesić komornika w czynnościach.
 
-4. Na postanowienie Ministra Sprawiedliwości o zawieszeniu komornika w czynnościach przysługuje zażalenie do Sądu Okręgowego w Warszawie, w terminie 7 dni od dnia doręczenia postanowienia. Przepisy art. 78 ust. 3–5 stosuje się odpowiednio.
+4. Na postanowienie Ministra Sprawiedliwości o zawieszeniu komornika w czynnościach przysługuje zażalenie do Sądu Okręgowego w Warszawie, w terminie 7 dni od dnia doręczenia postanowienia. Przepisy art. 78 ust. 3– 5 stosuje się odpowiednio.
 
 **Art. 75.**
 
@@ -1395,7 +1382,7 @@ Art. 95–98. (pominięte)
 
 1. Rozprawa przed komisją dyscyplinarną odbywa się bez względu na niestawiennictwo stron prawidłowo powiadomionych o terminie rozprawy, chyba że strona usprawiedliwi swoją nieobecność przedkładając zaświadczenie biegłego lekarza sądowego o niemożności udziału w rozprawie i wniesie o jej odroczenie.
 
-2. Obwinionemu komornikowi doręczeń dokonuje się również na adres prowadzonej kancelarii, a obwinionemu asesorowi komorniczemu i aplikantowi komorniczemu również na adres kancelarii, w której są zatrudnieni chyba, że komornik, asesor komorniczy lub aplikant komorniczy wskażą inny adres do doręczeń.
+2. Obwinionemu komornikowi doręczeń dokonuje się również na adres prowadzonej kancelarii, a obwinionemu asesorowi komorniczemu i aplikantowi komorniczemu – również na adres kancelarii, w której są zatrudnieni chyba, że komornik, asesor komorniczy lub aplikant komorniczy wskażą inny adres do doręczeń.
 
 3. Strony postępowania dyscyplinarnego, Prezes Krajowej Rady Komorniczej, Minister Sprawiedliwości oraz osoby przez nich upoważnione mogą zasięgać informacji o przebiegu oraz wyniku postępowania dyscyplinarnego, a także przeglądać akta sprawy i otrzymywać odpisy, kopie lub wyciągi z tych akt.
 
@@ -1447,9 +1434,9 @@ Art. 95–98. (pominięte)
 
 1. Wykonanie prawomocnego orzeczenia co do kary wydalenia ze służby komorniczej należy do Ministra Sprawiedliwości.
 
-2. Wykonanie prawomocnego orzeczenia co do kary pieniężnej należy do Prezesa Krajowej Rady Komorniczej, wykonanie kary skreślenia asesora komorniczego z wykazu asesorów komorniczych do prezesa właściwego sądu apelacyjnego, a wykonanie pozostałych kar do rady właściwej izby komorniczej.
+2. Wykonanie prawomocnego orzeczenia co do kary pieniężnej należy do Prezesa Krajowej Rady Komorniczej, wykonanie kary skreślenia asesora komorniczego z wykazu asesorów komorniczych – do prezesa właściwego sądu apelacyjnego, a wykonanie pozostałych kar – do rady właściwej izby komorniczej.
 
-3. Prawomocne orzeczenie komisji dyscyplinarnej co do kary pieniężnej oraz zasądzonych kosztów postępowania dyscyplinarnego stanowi tytuł egzekucyjny w rozumieniu art. 777 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego i po nadaniu mu klauzuli wykonalności przez sąd rejonowy właściwy ze względu na siedzibę kancelarii skazanego komornika lub siedzibę kancelarii, w której skazany aplikant komorniczy albo asesor komorniczy był lub jest zatrudniony, podlega wykonaniu w drodze egzekucji sądowej. Wpływy z kar pieniężnych Krajowa Rada Komornicza przeznacza na działalność komisji dyscyplinarnej oraz potrzeby samorządu komorniczego.
+3. Prawomocne orzeczenie komisji dyscyplinarnej co do kary pieniężnej oraz zasądzonych kosztów postępowania dyscyplinarnego stanowi tytuł egzekucyjny w rozumieniu art. 777 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego i po nadaniu mu klauzuli wykonalności przez sąd rejonowy właściwy ze względu na siedzibę kancelarii skazanego komornika lub siedzibę kancelarii, w której skazany aplikant komorniczy albo asesor komorniczy był lub jest zatrudniony, podlega wykonaniu w drodze egzekucji sądowej. Wpływy z kar pieniężnych Krajowa Rada Komornicza przeznacza na działalność komisji dyscyplinarnej oraz potrzeby samorządu komorniczego.
 
 4. W postępowaniu egzekucyjnym, o którym mowa w ust. 3, czynności za wierzyciela podejmuje Prezes Krajowej Rady Komorniczej.
 
@@ -1474,7 +1461,7 @@ Art. 95–98. (pominięte)
 
 **Art. 78a.** (uchylony)
 
-**Art. 78b.** Do postępowania dyscyplinarnego w zakresie nieuregulowanym w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+**Art. 78b.** Do postępowania dyscyplinarnego w zakresie nieuregulowanym w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 #### Rozdział 11 Samorząd komorniczy
 
@@ -1611,8 +1598,8 @@ Art. 95–98. (pominięte)
 
 1. Rada izby komorniczej działa w siedzibie izby komorniczej i składa się z:
 
-- **1)** 7 osób w izbach liczących do 100 komorników;
-- **2)** 9 osób w izbach liczących powyżej 100 komorników.
+- **1)** 7 osób – w izbach liczących do 100 komorników;
+- **2)** 9 osób – w izbach liczących powyżej 100 komorników.
 
 2. Rada izby komorniczej na posiedzeniu dokonuje podziału czynności między swoich członków, jak również uchwala regulamin swojej pracy. Dokumenty te rada doręcza wszystkim komornikom izby komorniczej i Krajowej Radzie Komorniczej.
 
@@ -1660,8 +1647,6 @@ Art. 95–98. (pominięte)
 
 3. Krajowa Rada Komornicza zapewnia Ministrowi Sprawiedliwości dostęp do listy, o której mowa w ust. 1, za pośrednictwem systemu teleinformatycznego.
 
-4. Krajowa Rada Komornicza zapewnia dostęp do listy, o której mowa w ust. 1, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji komorników, zastępców komorników i asesorów komorniczych wykonujących w Centralnym Rejestrze Restrukturyzacji i Upadłości zadania, o których mowa w art. 5 ust. 2e ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508 oraz z 2018 r. poz. 149 i 398).
-
 #### Rozdział 12 Zmiany w przepisach obowiązujących
 
 #### Rozdział 13 Przepisy przejściowe i końcowe
@@ -1676,7 +1661,7 @@ Art. 95–98. (pominięte)
 
 4. Z dniem doręczenia komornikowi aktu powołania ustaje jego dotychczasowy stosunek służbowy.
 
-**Art. 100.** Praktykanci komorniczy, którzy złożyli z wynikiem pozytywnym egzamin komorniczy przed dniem wejścia w życie ustawy na swój wniosek mogą zostać powołani przez Ministra Sprawiedliwości asesorami komorniczymi, choćby nie spełniali wymagań określonych w art. 10 ust. 1 pkt 3.
+**Art. 100.** Praktykanci komorniczy, którzy złożyli z wynikiem pozytywnym egzamin komorniczy przed dniem wejścia w życie ustawy – na swój wniosek – mogą zostać powołani przez Ministra Sprawiedliwości asesorami komorniczymi, choćby nie spełniali wymagań określonych w art. 10 ust. 1 pkt 3.
 
 **Art. 101.**
 

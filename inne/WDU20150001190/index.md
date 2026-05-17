@@ -8,9 +8,12 @@ pos: 1190
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 sierpnia 2015 r.
+# o zmianie ustawy o finansach publicznych
+
+*USTAWA z dnia 22 lipca 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +27,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001190) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1190/text.pdf) |
 
-Poz. 1190
-USTAWA z dnia 22 lipca 2015 r.
-o zmianie ustawy o finansach publicznych
-
 **Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ) w art. 112aa:
 
 **Art. 2.** Do obliczenia kwoty wydatków, o której mowa w art. 112aa ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, na rok 2016 przyjmuje się kwotę wydatków określoną w ustawie budżetowej na rok 2015 z dnia 15 stycznia 2015 r. (Dz. U. poz. 153), powiększoną o kwotę odpowiadającą wydatkom Bankowego Funduszu Gwarancyjnego w wysokości 3 292 932 570 zł.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

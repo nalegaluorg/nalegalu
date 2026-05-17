@@ -1,0 +1,37 @@
+---
+title: Rozporządzenie Ministra Finansów z dnia 1 lipca 2016 r. w sprawie rodzajów ekspozycji banków wyłączonych z limitów dużych ekspozycji
+address: WDU20160001018
+eli: DU/2016/1018
+publisher: DU
+year: 2016
+pos: 1018
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lipca 2016 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 1018 |
+| ISAP | WDU20160001018 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2016-07-01 |
+| Data wydania | 2016-07-13 |
+| Ostatnia zmiana | 2026-03-02 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1018/text.pdf) |
+
+Poz. 1018 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 1 lipca 2016 r.
+w sprawie rodzajów ekspozycji banków wyłączonych z limitów dużych ekspozycji Na podstawie art. 71 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm. ) zarządza się, co następuje: § 1. Bank do limitów dużych ekspozycji, o których mowa w art. 395 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn.
+zm.), zwanego dalej „rozporządzeniem nr 575/2013”, nie włącza:
+1) ekspozycji, o których mowa w art. 493 ust. 3 lit. a, d, e, g oraz j rozporządzenia nr 575/2013;
+2) 80% wartości ekspozycji, o których mowa w art. 493 ust. 3 lit. b rozporządzenia nr 575/2013;
+3) ekspozycji wobec jednostki dominującej, jednostek zależnych tej jednostki dominującej lub wobec własnych jednostek zależnych, w tym udziałów kapitałowych i innego rodzaju udziałów, w zakresie, w jakim te jednostki są objęte nadzorem Komisji Nadzoru Finansowego na zasadzie skonsolidowanej, o których mowa w art. 493 ust. 3 lit. c rozporządzenia nr 575/2013;
+4) 50% pozabilansowych akredytyw dokumentowych średniego/niskiego ryzyka i pozabilansowych niewykorzystanych zobowiązań kredytowych średniego/niskiego ryzyka, o których mowa w art. 493 ust. 3 lit. i rozporządzenia nr 575/2013.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Finansów: P. Szałamacha
+

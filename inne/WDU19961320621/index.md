@@ -8,9 +8,12 @@ pos: 621
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 listopada 1996 Poz.:
+# o zmianie ustawy o grach losowych i zakładach wzajemnych oraz o zmianie innych ustaw
+
+*USTAWA z dnia 12 września 1996 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,46 +27,27 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961320621) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/621/text.pdf) |
 
-USTAWA dnia 12 1996 zmianie losowych wzajemnych oraz zmianie innych ustaw.
+**Art. 1.** W ustawie z dnia 29 lipca 1992 r. o grach losowych i zakładach wzajemnych (Dz.U. Nr 68, poz. 341, z 1993 r. Nr 28, poz. 127, z 1994 r. Nr 98, poz. 472 i z 1996 r. Nr 106, poz. 496) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 29 lipca 1992 grach lo sowych wzajemnych (Dz. U. 68, 341, 1993 28, 127, 1994 98, 472 1996 106, 496) wprowadza ce zmiany:
+**Art. 2.** W ustawie karnej skarbowej z dnia 26 października 1971 r. (Dz.U. z 1984 r. Nr 22, poz. 103, z 1985 r. Nr 23, poz. 100, z 1990 r. Nr 14, poz. 84 i Nr 86, poz. 503, z 1991 r. Nr 100, poz. 442 i Nr 107, poz. 458, z 1992 r. Nr 21, poz. 85 i Nr 68, poz. 341, z 1994 r. Nr 43, poz. 160, Nr 120, poz. 615 i Nr 136, poz. 703 oraz z 1995 r. Nr 132, poz. 641) przepisy działu II rozdziału 4 otrzymują brzmienie: "Rozdział 4 Przestępstwa w zakresie gier losowych i zakładów wzajemnych
 
 **Art. 117.**
 
-§ 1. Kto prowadzi zakresie gier losowych lub wzajem nych bez wymaganego zezwolenia lub takiej podlega karze pozbawienia wollat 3 lub grzywny 500 000 albo obu tym karom 2. W wypadku 1, podle przepadkowi przedmiot skarbowego dokumenty gry loso wej lub wzajemnego oraz wy grane, które na podstawie tych doku mentów a uzyskane ze grze stawek.
+§ 1. Kto prowadzi działalność w zakresie gier losowych lub zakładów wzajemnych bez wymaganego zezwolenia lub w działalności takiej pośredniczy - podlega karze pozbawienia wolności do lat 3 lub grzywny do 500 000 zł albo obu tym karom łącznie.
 
-**Art. 118.** Kto prowadzi bez wymaganego zezwole nia zakresie loterii fantowej lub gry bingo fantowe podlega karze grzywny 100000
+§ 2. W wypadku określonym w § 1, podlegają przepadkowi - stanowiące przedmiot przestępstwa skarbowego - dokumenty i urządzenia gry losowej lub zakładu wzajemnego oraz wygrane, które na podstawie tych dokumentów przypadają grającym, a także pieniądze uzyskane ze sprzedaży udziału w grze i wpłaconych stawek.
 
-**Art. 119.**
+**Art. 118.** Kto prowadzi bez wymaganego zezwolenia działalność w zakresie loterii fantowej lub gry bingo fantowe - podlega karze grzywny do 100 000 zł. wymaganego zezwolenia - podlega karze grzywny do 5000 zł.
 
-§ 1. Kto uczestniczy grach losowych wzajemnych bez wymaganego zezwolenia podlega karze grzywny 5000 2. Art. 117 § 2 stosuje odpowiednio.
+**Art. 120.** Kto urządza grę losową lub zakład wzajemny niezgodnie z przepisami ustawy o grach losowych i zakładach wzajemnych albo z regulaminem gry lub zakładu wzajemnego - podlega karze grzywny do 100 000 zł.
 
-**Art. 120.** Kto lub wza jemny niezgodnie przepisami ustawy grach losowych wzajem nych albo regulaminem gry lub wzajemnego podlega karze grzywny 100000
+**Art. 121.** Kto nie będąc do tego uprawniony z chęci osiągnięcia korzyści majątkowej trudni się sprzedażą losów lub innych dowodów udziału w grze losowej lub zakładzie wzajemnym - podlega karze ograniczenia wolności lub grzywny do 5000 zł albo obu tym karom łącznie.".
 
-**Art. 121.** Kto nie tego uprawniony ci trudni losów lub innych dowodów grze losowej lub wza jemnym podlega karze ograniczenia lub grzywny 5000 albo obu tym karom
+**Art. 3.** W ustawie z dnia 5 stycznia 1991 r. - Prawo budżetowe (Dz.U. z 1993 r. Nr 72, poz. 344, z 1994 r. Nr 76, poz. 344, Nr 121, poz. 591 i Nr 133, poz. 685, z 1995 r. Nr 78, poz. 390, Nr 124, poz. 601 i Nr 132, poz. 640 oraz z 1996 r. Nr 89, poz. 402 i Nr 106, poz. 496) w art. 54 w ust. 2 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: "6) informację o wykorzystaniu środków finansowych pochodzących z dopłat do stawek w grach liczbowych.".
 
-**Art. 3.** W ustawie dnia 5 stycznia 1991 Prawo (Dz. U. 1993 72, 344, 1994 76, 344, 121, 591 133, 685, 1995 78, 390, 124, 601 132, 640 oraz 1996 89, 402 106, 496) wart. 54 ust. 2 pkt 5 przecinkiem daje pkt 6 brzmieniu: wykorzystaniu finanso wych stawek grach liczbowych."
+**Art. 4.** Podmioty prowadzące działalność w zakresie gier losowych i zakładów wzajemnych na podstawie udzielonych zezwoleń obowiązane są, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, dostosować statuty spółek do wymogów niniejszej ustawy pod rygorem utraty zezwolenia.
 
-**Art. 4.** Podmioty zakre sie gier losowych wzajemnych na podsta wie udzielonych terminie 6 od dnia niniejszej ustawy, statuty wymogów niniejszej ustawy pod rygorem utraty zezwolenia.
+**Art. 5.** Minister Finansów ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy o grach losowych i zakładach wzajemnych, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania tekstu jednolitego.
 
-**Art. 5.** Finansów Dzienniku Rzeczypospolitej Polskiej jednolity tekst ustawy grach losowych wzajemnych, nieniem zmian przepisów przed dniem wydania tekstu jednolitego.
-
-**Art. 6.** Ustawa wchodzi dniem 1 stycznia 1997 r., art. 45 ust. 3 ustawy wymienionej wart. 1, który wchodzi po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: A. 622 USTAWA dnia 13 1996 utrzymaniu gminach. 1 Przepisy ogólne
-
-**Art. 1.**
-
-1. Ustawa zadania gminy oraz obo utrzyma nia a warunki udzielania ze podmiotom zakresie ob ustawy.
-
-2. Zasady wykorzystywania lub unieszkodliwiania odpadów niebezpiecznych przepisy.
-
-**Art. 2.**
-
-1. ustawie jest mowa o:
-
-- **1)** przez to ro wie czystych oraz jednostki organizacyjne osoby po lub waniu, a inne podmioty nierucho domowych, obiektach publicznej tym gromadzone zbiornikach porzucone wraki pojazdów mechanicznych oraz odpady uliczne, odpadów niebezpiecznych opieki zdrowotnej weterynaryjnych.
-
-2. Obiekty publicznej których mowa ust. 1 pkt 2, to dy organów administracji, opieki zdrowotnej opieki placówki rozumieniu prze pisówo systemie placówki we, poprawcze schroniska dla nieletnich.
-
-3. jest zabudowana budynkami wielolokalowymi, których ustanowiono lokali, osoby
-
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 1997 r., z wyjątkiem art. 45 ust. 3 ustawy wymienionej w art. 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

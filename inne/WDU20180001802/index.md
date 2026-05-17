@@ -8,9 +8,10 @@ pos: 1802
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, dnia 20 września 2018 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 14 września 2018 sprawie ogłoszenia jednolitego tekstu ustawy o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2017 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 7 lutego 2014 o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U. 295), uwzględnieniem zmian wprowadzonych ustawą dnia 8 grudnia 2017 o Służbie Ochrony Państwa (Dz. U. 2018 138) oraz zmian wynikających przepisów ogłoszonych przed dniem 13 września 2018
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +25,18 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001802) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1802/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2017 poz. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 7 lutego 2014 o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 295), uwzględnieniem zmian wprowadzonych ustawą dnia 8 grudnia 2017 o Służbie Ochrony Państwa (Dz. U. 2018 poz. 138) oraz zmian wynikających przepisów ogłoszonych przed dniem 13 września 2018
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 21–24 ustawy dnia 7 lutego 2014 o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 295), które stanowią: „Art. 21. W ustawie dnia 21 maja 1999 o broni i amunicji (Dz. U. 2012 poz. 576 oraz 2013 poz. 829) art. 3 po pkt 2a dodaje się pkt 2b brzmieniu: „2b) broni i amunicji stanowiących uzbrojenie zagranicznych funkcjonariuszy biorących udział we wspólnej operacji, o której mowa art. 2 pkt 1 ustawy dnia 7 lutego 2014 o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 295);”.
+1) art. 21–24 ustawy dnia 7 lutego 2014 o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U. 295), które stanowią: „Art. 21. W ustawie dnia 21 maja 1999 o broni i amunicji (Dz. U. 2012 576 oraz 2013 829) art. 3 po pkt 2a dodaje się pkt 2b brzmieniu: „2b) broni i amunicji stanowiących uzbrojenie zagranicznych funkcjonariuszy biorących udział we wspólnej operacji, o której mowa art. 2 pkt 1 ustawy dnia 7 lutego 2014 o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U. 295);”.
 
-**Art. 22.** W ustawie dnia 21 czerwca 2002 o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. 2012 poz. 1329 oraz 2013 poz. 775 i 1238) art. 2 dodaje się ust. 4 brzmieniu: „4. Przepisów ustawy nie stosuje się do materiałów wybuchowych nabywanych, przechowywanych, przemieszczanych i używanych przez zagranicznych funkcjonariuszy biorących udział we wspólnej operacji, o której mowa art. 2 pkt 1 ustawy dnia 7 lutego 2014 o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 295).”.
+**Art. 22.** W ustawie dnia 21 czerwca 2002 o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. 2012 1329 oraz 2013 775 i 1238) art. 2 dodaje się ust. 4 brzmieniu: „4. Przepisów ustawy nie stosuje się do materiałów wybuchowych nabywanych, przechowywanych, przemieszczanych i używanych przez zagranicznych funkcjonariuszy biorących udział we wspólnej operacji, o której mowa art. 2 pkt 1 ustawy dnia 7 lutego 2014 o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U.
 
-**Art. 23.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 Nr 164, poz. 1027, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 23.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 Nr 164, 1027, późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 24.**
+
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13a ustawy zmienianej art. 23 zachowują moc do dnia wejścia życie przepisów wydanych na podstawie art. 13a ustawy zmienianej art. 23, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia życie niniejszej ustawy. pisów wykonawczych, o których mowa ust. 1.”;
+
+- **2)** art. 392 ustawy dnia 8 grudnia 2017 o Służbie Ochrony Państwa (Dz. U. 2018 138), który stanowi: „Art. 392. Ustawa wchodzi życie dniem 1 lutego 2018 r., wyjątkiem art. 346, który wchodzi życie dniem ogłoszenia.”. Marszałek Sejmu: M. Kuchciński USTAWA dnia 7 lutego 2014 o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej
 
 **Art. 1.**
 
@@ -41,6 +47,8 @@ domain: null
 3. Służby, o których mowa ust. 1, prowadzą wspólną operację lub wspólne działanie ratownicze zagranicznymi służbami odpowiadającymi im zakresem kompetencji, chyba że szczególny charakter prowadzonych działań wskazuje na potrzebę udziału także innych służb.
 
 **Art. 2.** Użyte ustawie określenia oznaczają:
+
+**Art. 3.** Z wnioskiem do organu państwa wysyłającego o udział zagranicznych funkcjonariuszy lub pracowników we wspólnej operacji lub wspólnym działaniu ratowniczym, zwanym dalej „wnioskiem”, można wystąpić, przypadku gdy:
 
 **Art. 4.**
 
@@ -60,7 +68,9 @@ domain: null
 
 2. Organ wnioskujący kieruje wniosek do organu państwa wysyłającego:
 
-- **1)** bezpośrednio przypadku wspólnej operacji, o której mowa art. 2 pkt 1 lit. b; niczego.
+- **1)** bezpośrednio przypadku wspólnej operacji, o której mowa art. 2 pkt 1 lit. b;
+- **2)** za pośrednictwem punktu kontaktowego, o którym mowa art. 145j ust. 1 pkt 5 ustawy dnia 6 kwietnia 1990 o Policji (Dz. U. 2017 2067, późn. zm. ) albo art. 147v ustawy dnia 12 października 1990 o Straży Granicznej (Dz. U. 2017 2365, późn. zm. ) przypadku wspólnej operacji, o której mowa art. 2 pkt 1 lit. a i c;
+- **3)** za pośrednictwem stanowiska kierowania, o którym mowa art. 10 ust. 1 pkt 2 lit. a ustawy dnia 24 sierpnia 1991 o Państwowej Straży Pożarnej (Dz. U. 2018 1313, 1592 i 1669) przypadku wspólnego działania ratowniczego.
 
 3. We wniosku określa się:
 
@@ -71,7 +81,7 @@ domain: null
 - **5)** rodzaj służb, które mają uczestniczyć we wspólnej operacji lub wspólnym działaniu ratowniczym;
 - **6)** przewidywane koszty wspólnej operacji lub wspólnego działania ratowniczego oraz zasady ich finansowania.
 
-4. W przypadku gdy wspólna operacja jest prowadzona związku zaistnieniem lub celu zapobieżenia zdarzeniu terrorystycznemu rozumieniu art. 3 pkt 11 ustawy dnia 26 kwietnia 2007 o zarządzaniu kryzysowym (Dz. U. 2018 poz. 1401 i 1560) lub gdy zachodzi konieczność bezzwłocznego prowadzenia wspólnego działania ratowniczego, wniosek, o którym mowa ust. 1 pkt 1, kierowany jest przez właściwy organ do organu państwa wysyłającego, trybie określonym ust. 2, równocześnie wnioskiem do ministra właściwego do spraw wewnętrznych o wyrażenie zgody. W przypadku braku zgody wspólna operacja lub wspólne działanie ratownicze nie mogą być prowadzone, a jeżeli zostały rozpoczęte, muszą zostać zakończone terminie nie dłuższym niż 24 godziny od otrzymania przez organ wnioskujący informacji o braku zgody.
+4. W przypadku gdy wspólna operacja jest prowadzona związku zaistnieniem lub celu zapobieżenia zdarzeniu terrorystycznemu rozumieniu art. 3 pkt 11 ustawy dnia 26 kwietnia 2007 o zarządzaniu kryzysowym (Dz. U. 2018 1401 i 1560) lub gdy zachodzi konieczność bezzwłocznego prowadzenia wspólnego działania ratowniczego, wniosek, o którym mowa ust. 1 pkt 1, kierowany jest przez właściwy organ do organu państwa wysyłającego, trybie określonym ust. 2, równocześnie wnioskiem do ministra właściwego do spraw wewnętrznych o wyrażenie zgody. W przypadku braku zgody wspólna operacja lub wspólne działanie ratownicze nie mogą być prowadzone, a jeżeli zostały rozpoczęte, muszą zostać zakończone terminie nie dłuższym niż 24 godziny od otrzymania przez organ wnioskujący informacji o braku zgody.
 
 5. Minister właściwy do spraw wewnętrznych niezwłocznie powiadamia Prezesa Rady Ministrów o skierowaniu do organu państwa wysyłającego wniosku, o którym mowa ust. 1 pkt 2 lit. d.
 
@@ -90,6 +100,9 @@ domain: null
 - **7)** datę i przewidywane miejsce wjazdu na terytorium Rzeczypospolitej Polskiej i wyjazdu jej terytorium;
 - **8)** sposób przemieszczania się zagranicznych funkcjonariuszy lub pracowników po terytorium Rzeczypospolitej Polskiej;
 - **9)** rodzaj służb uczestniczących we wspólnej operacji lub wspólnym działaniu ratowniczym;
+- **10)** liczbę zagranicznych funkcjonariuszy lub pracowników, ich imiona, nazwiska i stopnie, oraz przypadku realizacji zadań związanych dostępem do informacji niejawnych numery dokumentów uprawniających do dostępu do informacji niejawnych;
+- **11)** imię, nazwisko oraz stopień funkcjonariusza lub imię i nazwisko pracownika koordynującego wspólną operację lub wspólne działanie ratownicze;
+- **12)** imię, nazwisko oraz stopień dowódcy zagranicznych funkcjonariuszy lub przełożonego pracowników;
 - **13)** imiona i nazwiska oficerów łącznikowych;
 - **14)** potrzebę używania służbowych środkach transportowych atrybutów pojazdów uprzywilejowanych albo sygnalizacji specjalnej;
 - **15)** liczbę i rodzaj wwożonej broni palnej, amunicji i środków przymusu bezpośredniego; przypadku broni palnej należy dodatkowo określić jej serię, numer oraz model i kaliber każdego egzemplarza;
@@ -121,15 +134,17 @@ domain: null
 
 - **1)** noszenia munduru służbowego;
 - **2)** wwozu na terytorium Rzeczypospolitej Polskiej i posiadania broni palnej, amunicji i środków przymusu bezpośredniego;
-- **3)** użycia lub wykorzystania broni palnej sposób i trybie określonych ustawie dnia 24 maja 2013 o środkach przymusu bezpośredniego i broni palnej (Dz. U. 2017 poz. 1120 oraz 2018 poz. 106, 138, 730 i 912):
-    - **a)** celu odparcia bezpośredniego i bezprawnego zamachu na życie, zdrowie lub wolność zagranicznego funkcjonariusza lub pracownika albo innej osoby, Policji;
+- **3)** użycia lub wykorzystania broni palnej sposób i trybie określonych ustawie dnia 24 maja 2013 o środkach przymusu bezpośredniego i broni palnej (Dz. U. 2017 1120 oraz 2018 106, 138, 730 i 912):
+    - **a)** celu odparcia bezpośredniego i bezprawnego zamachu na życie, zdrowie lub wolność zagranicznego funkcjonariusza lub pracownika albo innej osoby,
+    - **b)** na rozkaz dowódcy: przypadkach określonych art. 45 pkt 1 lit. b–e, pkt 2, 3 i 4 lit. a i b ustawy dnia 24 maja 2013 o środkach przymusu bezpośredniego i broni palnej, celu przeciwdziałania czynnościom zmierzającym bezpośrednio do zamachu określonego lit. a;
 
+- **4)** użycia lub wykorzystania środków przymusu bezpośredniego sposób i trybie określonych dla funkcjonariuszy Policji;
 - **5)** wykonywania czynności, o których mowa w:
     - **a)** art. 15 ustawy dnia 6 kwietnia 1990 o Policji przypadku gdy koordynującym wspólną operację jest komendant wojewódzki Policji albo osoba wyznaczona przez Komendanta Głównego Policji,
     - **b)** art. 11 ustawy dnia 12 października 1990 o Straży Granicznej przypadku gdy koordynującym wspólną operację jest komendant oddziału Straży Granicznej albo osoba wyznaczona przez Komendanta Głównego Straży Granicznej,
-    - **c)** art. 21 ustawy dnia 8 grudnia 2017 o Służbie Ochrony Państwa (Dz. U. 2018 poz. 138, 650, 730, 1544, 1562 i 1669) przypadku gdy koordynującym wspólną operację jest osoba wskazana przez Komendanta Służby Ochrony Państwa sposób i trybie określonych tych ustawach;
+    - **c)** art. 21 ustawy dnia 8 grudnia 2017 o Służbie Ochrony Państwa (Dz. U. 2018 138, 650, 730, 1544, 1562 i 1669) przypadku gdy koordynującym wspólną operację jest osoba wskazana przez Komendanta Służby Ochrony Państwa sposób i trybie określonych tych ustawach;
 
-- **6)** podejmowania stosunku do uczestników ruchu drogowego działań, o których mowa art. 129 ust. 2–4 ustawy dnia 20 czerwca 1997 Prawo o ruchu drogowym (Dz. U. 2017 poz. 1260, późn. zm. );
+- **6)** podejmowania stosunku do uczestników ruchu drogowego działań, o których mowa art. 129 ust. 2–4 ustawy dnia 20 czerwca 1997 Prawo o ruchu drogowym (Dz. U. 2017 1260, późn. zm. );
 - **7)** posiadania i użycia sprzętu, o którym mowa art. 5 ust. 2 pkt 16, służącego do wykonania czynności, o których mowa pkt 5 i 6.
 
 2. Zagraniczni funkcjonariusze biorący udział we wspólnej operacji korzystają uprawnień, o których mowa ust. 1 pkt 3–6, pod dowództwem i obecności polskiego funkcjonariusza.
@@ -156,19 +171,26 @@ domain: null
 
 **Art. 13.**
 
-1. Przed przystąpieniem zagranicznych funkcjonariuszy lub pracowników do wspólnej operacji właściwa jednostka organizacyjna Policji, Straży Granicznej lub Służby Ochrony Państwa prowadzi szkolenie zakresie zasad udziału we wspólnej operacji, szczególności zasad i warunków użycia i wykorzystania broni palnej oraz środków przymusu bezpośredniego. nym funkcjonariuszom lub pracownikom, przetłumaczony na język angielski lub inny uzgodniony język, wyciąg przepisów prawnych dotyczących zasad udziału we wspólnej operacji, szczególności zasad i warunków użycia i wykorzystania broni palnej i środków przymusu bezpośredniego.
+1. Przed przystąpieniem zagranicznych funkcjonariuszy lub pracowników do wspólnej operacji właściwa jednostka organizacyjna Policji, Straży Granicznej lub Służby Ochrony Państwa prowadzi szkolenie zakresie zasad udziału we wspólnej operacji, szczególności zasad i warunków użycia i wykorzystania broni palnej oraz środków przymusu bezpośredniego.
+
+2. Odstąpienie od przeprowadzenia szkolenia, o którym mowa ust. 1, jest możliwe wyłącznie:
+
+- **1)** przypadkach niecierpiących zwłoki;
+- **2)** gdy zagraniczni funkcjonariusze lub pracownicy uczestniczyli już we wspólnej operacji na terytorium Rzeczypospolitej Polskiej i ponowne szkolenie nie jest konieczne.
+
+3. W przypadku odstąpienia od przeprowadzenia szkolenia, o którym mowa ust. 1, należy przedstawić zagranicznym funkcjonariuszom lub pracownikom, przetłumaczony na język angielski lub inny uzgodniony język, wyciąg przepisów prawnych dotyczących zasad udziału we wspólnej operacji, szczególności zasad i warunków użycia i wykorzystania broni palnej i środków przymusu bezpośredniego.
 
 **Art. 14.** Okresy, których zagraniczni funkcjonariusze lub pracownicy przebywają na terytorium Rzeczypospolitej Polskiej, biorąc udział we wspólnej operacji lub wspólnym działaniu ratowniczym, nie są uważane za okresy pobytu wpływające na zmianę miejsca zamieszkania dla celów opodatkowania podatkiem dochodowym zgodnie prawem Rzeczypospolitej Polskiej.
 
 **Art. 15.** Służbowe środki transportowe, zarejestrowane i dopuszczone do ruchu na podstawie przepisów obowiązujących państwie wysyłającym, dopuszcza się do ruchu na terytorium Rzeczypospolitej Polskiej, jeżeli kierujący pojazdem posiada wydany przez właściwe władze państwa wysyłającego dokument stwierdzający zarejestrowanie pojazdu oraz dopuszczenie go do ruchu.
 
-**Art. 16.** Pojazdy zagranicznych funkcjonariuszy lub pracowników podlegają takim samym opłatom pobieranym za korzystanie dróg publicznych na podstawie przepisów ustawy dnia 27 października 1994 o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. 2017 poz. 1057 oraz 2018 poz. 12, 138, 1496 i 1693) oraz ustawy dnia 21 marca 1985 o drogach publicznych (Dz. U. 2017 poz. 2222, późn. zm. ), jak pojazdy uprzywilejowane Policji.
+**Art. 16.** Pojazdy zagranicznych funkcjonariuszy lub pracowników podlegają takim samym opłatom pobieranym za korzystanie dróg publicznych na podstawie przepisów ustawy dnia 27 października 1994 o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. 2017 1057 oraz 2018 12, 138, 1496 i 1693) oraz ustawy dnia 21 marca 1985 o drogach publicznych (Dz. U. 2017 2222, późn. zm. ), jak pojazdy uprzywilejowane Policji.
 
 **Art. 17.** Dokumentem uprawniającym zagranicznych funkcjonariuszy lub pracowników do kierowania na terytorium Rzeczypospolitej Polskiej służbowymi środkami transportowymi jest prawo jazdy lub inne pozwolenie wydane przez właściwy organ państwa wysyłającego.
 
-**Art. 18.** Służbowe środki transportowe zarejestrowane państwie wysyłającym mogą być używane jako pojazdy uprzywilejowane, o których mowa art. 2 pkt 38 ustawy dnia 20 czerwca 1997 Prawo o ruchu drogowym albo jako statki sygnalizacją specjalną, o których mowa przepisach wydanych na podstawie art. 46 ustawy dnia 21 grudnia 2000 o żegludze śródlądowej (Dz. U. 2017 poz. 2128 oraz 2018 poz. 1137 i 1694), na zasadach tam określonych.
+**Art. 18.** Służbowe środki transportowe zarejestrowane państwie wysyłającym mogą być używane jako pojazdy uprzywilejowane, o których mowa art. 2 pkt 38 ustawy dnia 20 czerwca 1997 Prawo o ruchu drogowym albo jako statki sygnalizacją specjalną, o których mowa przepisach wydanych na podstawie art. 46 ustawy dnia 21 grudnia 2000 o żegludze śródlądowej (Dz. U. 2017 2128 oraz 2018 1137 i 1694), na zasadach tam określonych.
 
-**Art. 19.** Zagraniczni funkcjonariusze lub pracownicy biorący udział we wspólnej operacji lub wspólnym działaniu ratowniczym są uprawnieni do ulg przy przejazdach środkami publicznego transportu zbiorowego przysługujących funkcjonariuszom Straży Granicznej określonych ustawie dnia 20 czerwca 1992 o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. 2018 poz. 295).
+**Art. 19.** Zagraniczni funkcjonariusze lub pracownicy biorący udział we wspólnej operacji lub wspólnym działaniu ratowniczym są uprawnieni do ulg przy przejazdach środkami publicznego transportu zbiorowego przysługujących funkcjonariuszom Straży Granicznej określonych ustawie dnia 20 czerwca 1992 o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. 2018 295).
 
 **Art. 20.** Należności za świadczenia zdrowotne udzielane przez podmioty lecznicze zagranicznym funkcjonariuszom lub pracownikom, którzy są obywatelami państw niebędących członkami UE lub Europejskiego Stowarzyszenia Wolnego Handlu (EFTA), biorącym udział we wspólnej operacji lub wspólnym działaniu ratowniczym pokrywane są ramach limitu wydatków przewidzianych części budżetu państwa, której dysponentem jest minister właściwy do spraw wewnętrznych, chyba że przepisy wiążących Rzeczpospolitą Polską umów międzynarodowych stanowią inaczej. Art. 21–24. (pominięte)
 

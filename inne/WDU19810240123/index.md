@@ -8,9 +8,12 @@ pos: 123
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# rozumie·niu: ust;:nvy.
+# o samorządzie załogi państwowego
+
+*USTAWA z dnia 25 września 1981 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,75 +27,248 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810240123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1981/123/text.pdf) |
 
-3,(kg:any', b~6{:St:W PrZeitai.ąl· nej~r. W:M~ ·nałe.ią~ił\ n~ dokum entac Hr. ferniiiIie.; aatY' w:ejS'6ia.
-w, ;t,lICie:: waaW:y;, wlaiiCiw:y;m, tny:bie ut., 19 2:; IJa; dnia, pn.eKazania tego, organy te' rejestr:
-4. Zjed'nopzenia ga;jw znie.si,eniu·ą-m~' O~. tJr;$bi~i tJerJBiI:Jięo,l:Ulłialonych· przeZ .MI ta. DyreJtJlm;z'Y' p-tHls-towowych okresie> d,,"iiF lfyei'e ta,\v.y st'a li. ~. ID~ wy~ania; ·lłSt.1my;. Ił' k1W:-ej, Rin-wa,. ~.a.dJ..
-14 ust. 2, spi'awacJ,-tycn ,czasowe.
-wydania ust. 1 dostosQwaula, ustaw wy.mieni:onychyr ,pu'sta>nowiem ustawy sNt ze- zmi\mamf wy.lliK.a~~.tmi: ust~i~ Ań'." 7Uis" -Wst'awlł' ,v-crhOOZii ż~i~ dhfeftł' P pw...
-dizi-er;niJt~ 1~1J~ r. \ ,R'adiy l!fi.
-Seltr:etGil'Z: IL dnia< r.
-u •• 'Art. ł·. 17 Za Toga. uczestnicz'Y: ża~ząd.:z1łłłill przedsiępailstwowym na; zasadach niniej usttaw.i e,
-2.. ID:O~ s-amQTządu'.Z.ałOfJl', ~r2edsię,biorstw.a państw.owe~ spr.a,wd€h opIniJ,.
-wniosków oraz" Kontroli przed, siqbiorstwa.
-3;, z-alogi. .organy: zada" ,usL, 2, od, pairst'wowe-j, or.gimizdllJi, spGte,€zIlych;
-i politycznych.
-~;, 1'. sameflZąd.l1', ~ałOfJł są:
-1) og,óTne' zebranie pracowników' ne·. zeHranje' prac.o,wniKó;w p0szczeg.ólhye-fi rai, innych jednó.sJe:!t; org:anizacyjpych f·ada :'prac@wnieza;, stat!lcie ?" i6eGtilyeh: W. fBnmw' 3; Rada: prdc@wnicŻlll' .pFZed's~biDrstMil reprezentufe S<lmorz<p 'Ar~. 3. Dzia-ła-lność. radzie: pracowniczej. przedilię;..
-JruIl,6'ha'f_€zfun-kow ·ie: !'<Kf'Ypflal!~iCzł!"rprn!dsęIOffilwa, AOraz czlonkow.te" rady. z'Wtm-t dalej .' ,rawy praO€ '\y;ntliZB'ji odpe,w.mdl1:iatDi' AFt. ~. Czfone'lŁ nidy- praC'o-wmCzE!:fzacfio'Vmj'e->pr:a:w.o· clio< wyn-:iłg~.o,drEen:iai z.a' czas 'ńiewyRo:n~w&nia pra'I!)P. :a pa:~eluienhl; SWO;6h":~ad~ 9.~iniłC.& pvifl!Y~', stosunku pracy z ra.G1.y!. praanw.niczei' wcro'sie ratly' oraz:.w. dcwu jedneg:o',' rtJK'u pt'" jej' uptywi&. nie- m.oie rady -P!i,wowni({Ze'j zm.fe. ..., tym cZasie' rndy' warunkow' pracy i; rrK11.
-&.y pbłowy ·1icźbY'pfacÓwników,j~żel(,stat'\lt.Jatnorz~du:!]:a- ; dwa:/~ata.. '~ ," : logi nie ~taąow'l. !naczej. ", vVyborcy,. trybie 'prze,,!\ridzianym ust. 2" mogą rady 'pracowni-'
-3.Uchwały 'ogohiego zebrania pracowników' zapada~ ciej przedŚiębiorstwalub całą r.adę.
-fi;' Wniosek odwółanfe, cżł6nka radY: pracowniczej '. Ark8., l/W::pr~edsiębior;fwie .jedn()Zftktad~wYm:~~~z ,.,. prze~sh~biotstwa.1u.b ,.cał~j "rady wyiiiaga, pb~pisu~ jedhej w,zakładzie przeds1ęb.iOI;stwa 'wielozakładowego. ,którym Pi~f~J.)iC,ŻbY'·wYboisó~,,· ". ,.. '; '.' j", ·liczba ..•·· ·. zatrudniony,ch 'prz.ekl'llcza, trzystu .·'pracowpi~ów;
-.... tUllkcje ogólnego zepranie' delegatów wybranych na, oki'esdwóch lat przez 'pracow-' nik6w Jub, w'wybor(!J:h, pow-: szechnych, 'bezpOśiednicbirównych; 'gł()\sowan,i~ _taj-, d,elegatów', stat':ll .' WYbQrcY,·, na ,:w:niosek~o 'Ra:i~~iel' ~dn~j> piątej, delegata."
-3. Statutsll.morządu. ·załogiokreśla spqsób zwóływł\~ nla ogólnego, zebrania pracowników' .., M. 9.1. 'Ogólne ,zebranie po'dwa': razy 'iN roku.;' ,Na, piseJpny.
-liczby, '~złorików og6lneg.oz,ibrania pracpwnikó'o/ r.a,dą: :pr~cbwn,ićza zwołuje ciągu siediiiiu dni t>ósiedzfmfelego .' '.
-,Ad. :14 ,C.z.fn~Rrilwo ··Wiborćze pizysługuj~ k~~-;
-demu .' - ".
-",,;.2. K;żdy:,pl'aCOWRik\prz~iJ.sięl?iorstwłi'ma Piawo .•. zg1a ,zac, kan.:dydatÓw" n'a;
-t.J. 'l. -Bierne 'prawowybercze pra 'C'ownikom; klórzy 'dW'alata:" Nie dotyczy,; to '.hdwo· nych.
-r:Bj~r'ne·praw'~ ~iborcze ~'iepr~Y~ług~Jęd:Yre~tor.o~i przedlii~biorstwa, jego zastępcoJn" głównenll~' księgowe 'mu, radcy prawnemu,. kierownikOln' zakładów l teb zastęp~ com' orazpnicowniktlwi.
-mu dopx:acypoza na OKres, roku. ... ,' .' ,' '.
-3; funkcji Czł.on~a' (lid,r pracow~iczejbez przerWY. dłużej niż kadencje. ,.
-; '~3; Qgólńe zebrańle' pracowników na każdym posiedze~ Art.' UJ. 1. Wybory cZłonków, r~dy pfaco\Vniczej przecI niu\vybierawgłosowaniu tajnyirl' przewodniezącego'ze;, siębibrstwa organizuje iprzeprawadza komisja wyborcza.
-brania, ,jego żast~pc,ę i sekretarza;:' ,' Statut samoriąd~ załogi 'określa
+#### Rozdział 1 Organy samorządu załogi
 
-**Art. 10.** Ogólne. ze\>ranie pracowników zasady komisji wyborczej Itwa: >trybjej ,' '1) Uchwala, na wniosek dyrektora, statut, Art. 17. Komisja wyborcza provorcjonalnie stwa, \ do liczby pracowników-zalrudn:ionych poszczególnych podejmuje uchwll.ływ sprawie'" podziału ~zysku przez- wewnętrznych Jednostkach orgimizacy'jnYch· przedsiębiordla "' stwa, rady' pracowniczej, którzy : 3) dokonuje rocznej oceny działalności rady. pracowni~ wybrani przez pracowników zatrudnionych tych jedc~ej przedsiębiorstwa. oraz' dyrektora przedslębior;stwa, nostkach. ,"
+**Art. 1.**
 
-**Art. 19.** W razie zmmeJszenia ra,dy pra cowniczej - celu wadzenia. wyborow - .rada pracownicza '. komisji .', wyborczej. Przepisy" art. 16 i .11 odpo\viednio: ~.20.Wnowo utworzonym. prz'edsi,ębiorstwie ,wybo.:o ry rady pracowniczej z,mhm,Y',aktu~ o' ~,·tw.()J;~e1ffu ,J. JiKMilqacJi"pr:.l:ęd,sięlJi()rs~,~iOt, i .umq:w cllugotetminowych z innymi organizacjami" ;A.ri:o~t,l.?·p~ez~dJUbi'.-Jt>st',w:ewtv~'f~~~Y~·~T!fin~~,·rady prac()woiczęj~:wzed~t:ębrprst,wa .t realip,i j~ 'q::Kreślo~~ prz~z .... Rad p'racownicza nie prezydiumdo im,enit'i'w .., '. _ oF~i; o~ga.namf a~~i~istracji' pańs,twowej!, wlJiosków~, o,. nił; 'order,ów' "deCyzji dy'rek. tóra.J przYdzih~e:,~n'ifsikai6~ ';,';', ,' L '~' :,~" ,;,. ,: Rada pracownicza ()pi'uii, WS2TH,Wach tor!! nych usL. ,. ,-,. Art: 23-';'1. Radaprlicown(cul pliedsięrirprstwa ';'m6że J swokh orilz.'.inny~~ 'pra~ownj,kÓw przed$ję-biorstwa. Kpf)1isję ·4 Zes'pqłY są' poinochiCzymj,' orgi'lną~i "rąd,y p~acow-riiCz,eJ,Pfzed... • '.' A.r~. wyr.:#enle. opinii;' priez.':;.radę pra,.cownia:zą. '. '. wymienionychW· 'ful;.' ~/ Statut: ~;m,ót~ądt\: zało91.'irioze ,przewidyw~Ć' powo- ust:"2 poW;i'nrió tią'st~pić~ prże(d:ipł:ywe\ti.dwoc~:-tygodni 'od ', }ywaniedo '. prac '.:komisjii'".zespołów~6wQie:Ż; o~óbhhj~ł d~lil ; ohzymarii a żapytaJl'iai chyba że'tenhiń' Dcl' wytaże$'te ,midą~ych pracow~i;l).{łmi. prz~~tę-?ioI~twa.".,;,; '" ';' OpiBh ·zost'iiiprżedłti,żohy. 'W sprawach Pilnych właś<:iWy ~". ·,organ. może' Zwroc:ić ;Śię wyriiłżeri'ie:;opil1iiw,JernliniE~ Arf. 24. DQ korn'petencji 'stcinowiących radypra: kfótszY\ll, jBctnakżeriiekrótszyrn nfi pięć '.'dili.' cownit;,zej .prżedsi~.biorsCwa naJ~zy:' "" ··" ·'\" ;"Ni~~;ra~e~i~: ~~ze;/ ;.:~ę ~r~~i~irl~zą :'~rźedsiębjÓi. ly,"\lc/1wiilan.iE,( 'zńti~na' plań~ 'rpcznefid·przeds'iębibr- ... .sIwa 'O'pi!l.ii"w okreMoQyp1'lub'uig:ód'ni p nym ieimi'nie,uyva';~. ,: -, stWil,' ·':1 za za brak .' '. ,' ,. przy jmo~anie spniwozdania rocznego prazz;at~ier~. ,.)" c1 z ąriie "bilansu;~' Art. ~7. 1. Rada pracownieza' przed:si.ębiorstwił; ma. pra3) 'pode]inbWanieuchwalw' sprawie inwestycji; ." wo występowania, z 'inicjatywami. wniosk.ami ·i·uw~gami '4) '\YYi'~iabi~'·:zg6.~y· .~~~~waT.cie uinoWY' 'b utworzeniu we' wszystkich sp'rawach dotyczącyćh przedsię,biorstwa lub '. '; '. Raclapracowmcza Wyra-ianie zgody na utworzenie Jub przystąpienie. do ,cania się do dyrektora' przeąsię15iorstwa··.z ';z.1ipyl:anlęm·w Nze~ł:~uiap~zed~ię,bj,9r~t~'i ,i:\'>.. < 'sprawach.,stanu·p(źedsiębiorstW'a;';J-ub dziahllnoścr'organ9w • s'ijTai;i,e • .' 3; DyrektOI·pr.zedsiębioTsiw~ :ma obowiązek pÓWiad,ó:'
+1. Załoga uczestniczy zarządzaniu przedsiębiorstwem państwowym na zasadach określonych niniejszej ustawie. Do samorządu załogi państwowego należy stanowienie istotnych sprawach przedsiębiorstwa, wyrażanie opinii, podejmowanie inicjatywy i zgłaszanie wniosków oraz sprawowanie kontroli działalności przedsiębiorstwa.
 
-**Art. 32.** '1.Szciegółowy,tryh ... radywacowi ,ouby 2.' Rada pracow~icza może uchwalić. p,drębny od statutureg,ufamin posiedzeń. 4 Rada,
+3. Samorząd załogi oraz jego organy realizują zadania określone ust. 2 niezależnie od organów administracji państwowej, organizacji społecznych, związkowych i politycznych.
+
+**Art. 1.** Organami samorządu załogi są:
+
+**Art. 3.** Z zastrzeżeniem art. 39 ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2013 r. poz. 1384 oraz z 2015 r. poz.
+
+**Art. 5.** Członek rady pracowniczej zachowuje prawo do wynagrodzenia za czas niewykonywania pracy z powodu pełnienia swoich zadań godzinach pracy.
+
+**Art. 6.**
+
+1. Przedsiębiorstwo państwowe nie może bez zgody rady pracowniczej wypowiedzieć ani rozwiązać stosunku pracy z członkiem rady pracowniczej czasie trwania kadencji tej rady oraz ciągu jednego roku po jej upływie. Przedsiębiorstwo nie może też bez zgody rady pracowniczej zmienić tym czasie członkowi rady warunków pracy i płacy na jego niekorzyść. Postanowienia, o których mowa ust. 1, nie naruszają przepisów o rozwiązywaniu stosunku pracy bez wypowiedzenia.
+
+#### Rozdział 2 Ogólne zebranie
+
+**Art. 7.**
+
+1. Ogólne zebranie pracowników jednozakładowego oraz ogólne zebranie pracowników zakładu przedsiębiorstwie wielozakładowym, zwane dalej ogólnym zebraniem pracowników, stanowi formę bezpośredniego uczestniczenia załogi zarządzaniu przedsiębiorstwem. Do ważności uchwał ogólnego zebrania pracowników wymagana jest obecność na posiedzeniu co najmniej połowy liczby pracowników, jeżeli statut samorządu załogi nie stanowi inaczej.
+
+3. Uchwały ogólnego zebrania pracowników zapadają zwykłą większością głosów.
+
+**Art. 8.**
+
+1. W przedsiębiorstwie jednozakładowym oraz zakładzie wielozakładowego, którym liczba zatrudnionych przekracza trzystu pracowników, funkcje ogólnego zebrania pracowników pełni zebranie delegatów wybranych na okres dwóch lat przez pracowników lub zakładu, wyborach powszechnych, bezpośrednich i równych, głosowaniu tajnym. Liczbę delegatów określa statut samorządu załogi.
+
+3. Statut samorządu załogi określa sposób zwoływania ogólnego zebrania pracowników.
+
+**Art. 9.**
+
+1. Ogólne zebranie pracowników odbywa posiedzenia co najmniej dwa razy roku. Na pisemny wniosek co najmniej jednej piątej liczby członków ogólnego zebrania pracowników rada pracownicza zwołuje ciągu siedmiu dni posiedzenie tego zebrania.
+
+3. Ogólne zebranie pracowników na każdym posiedzeniu wybiera głosowaniu tajnym przewodniczącego zebrania, jego zastępcę i sekretarza.
+
+**Art. 10.** Ogólne zebranie pracowników przedsiębiorstwa:
+
+**Art. 11.** Ogólne zebranie pracowników ma prawo wyrażania opinii we wszystkich sprawach dotyczących przedsiębiorstwa.
+
+**Art. 12.**
+
+1. Co najmniej raz roku rada pracownicza składa na ogólnym zebraniu pracowników sprawozdanie ze swej działalności. Na żądanie jednej piątej członków ogólnego zebrania pracowników rada pracownicza ma obowiązek ciągu siedmiu dni przedstawić sprawozdanie sprawach wymienionych żądaniu.
+
+#### Rozdział 3 Rada pracownicza
+
+**Art. 13.**
+
+1. Rada pracownicza składa się z piętnastu członków. Statut samorządu załogi może ustalić inną liczbę członków rady pracowniczej.
+
+3. Kadencja rady pracowniczej trwa dwa lata.
+
+4. Wyborcy, trybie przewidzianym ust. 2, mogą przed upływem kadencji odwołać członka rady pracowniczej lub całą radę.
+
+5. Wniosek o odwołanie członka rady pracowniczej lub całej rady wymaga podpisu jednej piątej liczby wyborców.
+
+**Art. 14.**
+
+1. Czynne prawo wyborcze przysługuje każdemu pracownikowi przedsiębiorstwa. Każdy pracownik ma prawo zgłaszać kandydatów na członków rady pracowniczej.
+
+**Art. 15.**
+
+1. Bierne prawo wyborcze przysługuje pracownikom, którzy pracują przedsiębiorstwie co najmniej dwa lata. Nie dotyczy to przedsiębiorstw nowo tworzonych. Bierne prawo wyborcze nie przysługuje dyrektorowi przedsiębiorstwa, jego zastępcom, głównego księgowemu, radcy prawnemu, kierownikom zakładów i ich zastępcom oraz pracownikowi oddelegowanemu do pracy poza przedsiębiorstwem na okres dłuższy niż pół roku.
+
+3. Pracownik nie może pełnić funkcji członka rady pracowniczej bez przerwy dłużej niż dwie kadencje.
+
+**Art. 16.**
+
+1. Wybory członków rady pracowniczej organizuje i przeprowadza komisja wyborcza. Statut samorządu załogi określa szczegółowo zasady powoływania komisji wyborczej oraz tryb jej działania.
+
+**Art. 17.** Komisja wyborcza określa, proporcjonalnie do liczby pracowników zatrudnionych poszczególnych wewnętrznych jednostkach organizacyjnych przedsiębiorstwa, liczbę członków rady pracowniczej, którzy mają być wybrani przez pracowników zatrudnionych tych jednostkach.
+
+**Art. 18.** W wypadku złożenia wniosku o odwołanie całego składu rady pracowniczej lub poszczególnych jej członków, głosowanie nad tym wnioskiem przeprowadza komisja wyborcza, powołana zgodnie z przepisami art. 16. może inicjować powołanie komisji wyborczej. Przepisy art. 16 i 17 stosuje się odpowiednio.
+
+**Art. 20.** W nowo utworzonym przedsiębiorstwie wybory rady pracowniczej powinny odbyć się przed upływem pół roku od dnia wpisania do rejestru.
+
+**Art. 21.**
+
+1. Rada pracownicza wybiera ze swego grona na okres dwóch lat prezydium składzie: przewodniczący, jeden lub więcej zastępców przewodniczącego oraz sekretarz. Członkiem prezydium rady pracowniczej nie może być pracownik przedsiębiorstwa, który pełni funkcję kierowniczą organizacji politycznej lub związkowej działającej przedsiębiorstwie.
+
+**Art. 22.**
+
+1. Prezydium jest wewnętrznym organem rady pracowniczej i realizuje określone przez nią zadania. Rada pracownicza nie może upoważnić prezydium do występowania jej imieniu sprawach należących do jej kompetencji.
+
+**Art. 23.**
+
+1. Rada pracownicza może powoływać komisje i zespoły spośród swoich członków oraz innych pracowników przedsiębiorstwa. Komisje i zespoły są pomocniczymi organami rady pracowniczej przedsiębiorstwa. Statut samorządu załogi może przewidywać powoływanie do prac komisji i zespołów również osób niebędących pracownikami przedsiębiorstwa.
+
+**Art. 24.**
+
+1. Do kompetencji stanowiących rady pracowniczej należy:
+
+- **1)** uchwalanie oraz zmiana planu rocznego przedsiębiorstwa;
+- **2)** przyjmowanie sprawozdania rocznego oraz zatwierdzanie bilansu;
+- **3)** podejmowanie uchwał sprawie inwestycji;
+- **4)** wyrażanie zgody na utworzenie lub przystąpienie do spółki handlowej lub innej struktury organizacyjnej przewidzianej przepisami prawa bądź nabycie jej udziałów (akcji), jak również podejmowanie uchwał sprawie wystąpienia z takiej struktury, żądania jej rozwiązania lub zbycia jej udziałów (akcji); cywilnym;
+- **6)** podejmowanie uchwał sprawie łączenia i podziału przedsiębiorstw;
+- **7)** podejmowanie uchwał sprawie zakładowego budownictwa mieszkaniowego i socjalnego;
+- **8)** podejmowanie uchwał sprawie zmiany kierunku działalności przedsiębiorstwa;
+- **9)** podejmowanie uchwał sprawie podziału na fundusze wygospodarowanego dochodu pozostającego dyspozycji oraz zasad wykorzystania tych funduszów z zastrzeżeniem przepisu ust. 3;
+- **10)** wyrażanie zgody na zbywanie środków trwałych stanowiących przedmiot stałego użytku oraz na dokonanie darowizny;
+- **11)** decydowanie o przystąpieniu charakterze członka zbiorowego do organizacji społecznych;
+- **12)** podejmowanie uchwał sprawie klubów techniki i racjonalizacji;
+- **13)** (uchylony)
+- **14)** podejmowanie uchwał o przeprowadzeniu przedsiębiorstwie referendum;
+- **15)** wybieranie swego przedstawiciela do rady zrzeszenia przedsiębiorstw. Do kompetencji stanowiących rady pracowniczej należy również podejmowanie uchwał sprawach powołania i odwołania dyrektora oraz innych osób wykonujących kierownicze funkcje przedsiębiorstwie, zgodnie z przepisami ustawy o przedsiębiorstwach państwowych.
+
+3. Rada pracownicza dokonując podziału, o którym mowa ust. 1 pkt 9, powinna zapewnić niezbędne środki na prowizje od zysku zgodnie z odrębnymi przepisami.
+
+**Art. 25.**
+
+1. Rada pracownicza ma prawo wyrażania opinii we wszystkich sprawach dotyczących oraz jego kierownictwa.
+
+1a. Rada pracownicza ma prawo do uzyskiwania informacji i przeprowadzania konsultacji zgodnie z przepisami ustawy z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji (Dz. U. Nr 79, poz. 550, z 2008 r. Nr 93, poz. 584 oraz z 2009 r. Nr 97, poz. 805). przedsiębiorstwa, komercjalizacji i prywatyzacji bezpośredniej – z wyjątkiem przypadku, gdy z wnioskiem wystąpił dyrektor państwowego i rada pracownicza, zawierania przez przedsiębiorstwo porozumień i umów długoterminowych z innymi organizacjami gospodarczymi oraz organami administracji państwowej, wniosków o nadanie orderów i odznaczeń państwowych, decyzji dyrektora o przydziale mieszkań.
+
+3. Rada pracownicza ma obowiązek wyrażenia opinii sprawach przedłożonych przez dyrektora i organ założycielski, a wymienionych ust.
+
+**Art. 26.**
+
+1. Wyrażenie opinii przez radę pracowniczą sprawach wymienionych art. 25 ust. 2 powinno nastąpić przed upływem dwóch tygodni od dnia otrzymania zapytania, chyba że termin na wyrażenie opinii został przedłużony. W sprawach pilnych właściwy organ może zwrócić się o wyrażenie opinii terminie krótszym, jednakże nie krótszym niż pięć dni. Niewyrażenie przez radę pracowniczą opinii określonym lub uzgodnionym terminie uważa się za brak zgłoszenia zastrzeżeń.
+
+**Art. 27.**
+
+1. Rada pracownicza ma prawo występowania z inicjatywami, wnioskami i uwagami we wszystkich sprawach dotyczących przedsiębiorstwa. Rada pracownicza ma prawo zwracania się do dyrektora z zapytaniem sprawach stanu lub działalności organów przedsiębiorstwa.
+
+3. Dyrektor ma obowiązek powiadomić radę pracowniczą o zajętym stanowisku sprawie przedstawionej inicjatywy lub zgłoszonego wniosku oraz udzielić odpowiedzi na pytanie niezwłocznie, nie później jednak niż ciągu dwóch tygodni.
+
+**Art. 28.**
+
+1. Rada pracownicza ma prawo kontroli całokształtu działalności przedsiębiorstwa, ze szczególnym uwzględnieniem dbałości o racjonalną gospodarkę mieniem przedsiębiorstwa. rocznego i bilansu, analizę i ocenę okresowych oraz doraźnych sprawozdań dyrektora przedsiębiorstwa, kontrolę wykonania uchwał rady pracowniczej, właściwego wykorzystania zasobów pracy, prawidłowości gospodarki materiałowej i finansowej, ochrony środowiska, a porozumieniu ze związkami zawodowymi – kontrolę przestrzegania norm pracy oraz dyscypliny pracy i płac.
+
+3. Dyrektor jest obowiązany udostępnić dokumenty i materiały niezbędne do przeprowadzenia kontroli.
+
+**Art. 29.**
+
+1. Rada pracownicza odbywa posiedzenia co najmniej raz na kwartał. Na pisemny wniosek jednej piątej liczby członków rady pracowniczej prezydium rady ma obowiązek zwołać posiedzenie rady.
+
+**Art. 30.**
+
+1. Do ważności podejmowanych uchwał niezbędna jest obecność co najmniej połowy liczby członków rady pracowniczej przedsiębiorstwa. Do ważności uchwał sprawach wymienionych art. 40 wymagana jest obecność na posiedzeniu dwóch trzecich liczby członków rady pracowniczej. Uchwały zapadają zwykłą większością głosów.
+
+**Art. 31.**
+
+1. Głosowanie na posiedzeniach odbywa się jawnie. Wyjątek stanowi głosowanie sprawach osobowych, które odbywa się tajnie. Głosowanie tajne odbywa się również na wniosek członka rady pracowniczej przedsiębiorstwa.
+
+**Art. 32.**
+
+1. Szczegółowy tryb działania rady pracowniczej oraz zasady zwoływania i odbywania posiedzeń reguluje statut samorządu załogi. Rada pracownicza może uchwalić odrębny od statutu regulamin posiedzeń.
+
+#### Rozdział 4 Rada pracownicza zakładu
 
 **Art. 33.**
 
-1. W iakładad1. i .innych ,w,ewnętrznych jed nostkach' mganizacy cych. pil ans statut zalogi pracowniczej,za)dadu. ~2, Statqf sanJo~ządu 'załogi ,rooie przewia~ieć prawo rady pracowniczej i nych jednostkach-?rganizacyjnych ust. 3~ Wybory członków radypracownjczej zakładu' odby:, 'na zasadach art. 4: StatuJ~amorząciuzałogi określa, jakie sprawy d'ó rada' rad,\ie pril-cowniczej Przy przekazywiI-.· niuspraw" należy uwzględnić. chil~akteT spraw moż\1i realizacji. -5. Do czionków rady pracowniczej stosuje odpowiednio postanowienia art. 6. 5 z innymi Art; 34. Rada -pracow/1icza podstawie wzajemnychp()Jozumierl, współpracuje ze zwi.ązka ,mi zavlod'owymi. organizacjamipolityczhyrn.i ,żowymi innym'i ;órganiz§cjami spcłecznymi ispp!ecz wodowymi w' Art.' 35. Rady, pl acównicze" sprawie podejmowania" Dyrektor wykonuje rady,· 'dot
+1. W zakładach i innych wewnętrznych jednostkach organizacyjnych sporządzających bilans statut samorządu załogi może przewidzieć powoływanie rady pracowniczej zakładu. ust. 1.
 
-3. przepisy usL i,'2 stosuje ód'powiednió 'do kierowników zakhldów, których rady praco)'lArt;,38. rryrek,tor pl."?:edsię-bi'ÓrS,twa" jest· odpowiedzial-' pra siwa,. Dyrektor "co raz roku, z in for rriacjęo jego sŁanie.
+3. Wybory członków rady pracowniczej zakładu odbywają się na zasadach określonych art. 13–20.
 
-**Art. 39.** '+.DyrękŁor przedSiębiorstwa jesCObow,i.ązany żapewniC :radzle pracowniczej' prż~dsięhiorstwa moJHwośt z materialyna poSiedzenia radYI>Iacowniczej z in ekonomicznych, i prawnych zamierzonych. rady, DyrektoT, warunki lokalowe ,he', jego funkcjonowanie
+4. Statut samorządu załogi określa, jakie sprawy dotyczące zakładu rada pracownicza może przekazać radzie pracowniczej zakładu. Przy przekazywaniu spraw należy uwzględnić charakter spraw oraz możliwość ich realizacji.
 
-**Art. 40.** Radzie' przy slugufe prawowstrzymani'a 'wykonmiia' dec'yzji ile decYija ta jest: sprzeczna z rady "pracowniczej lub ogólnego 1)1 aeowników, bez 'opinii rapy,:pracowniczej sprawach Wa,rL 25 ust: 2,
+5. Do członków rady pracowniczej zakładu stosuje się odpowiednio postanowienia art. 6.
 
-**Art. 1.** Dyrektor wstrzyml1 wy· konanie ogómego ,', pracownikqw iady praco\','niczej niezgodnej sami prawa." 2.W wypadkach w.' ust. qyre kto zwraca 'do rady pr:,acowniczej ponowne rozpatrzenie 'spr,awy· i D~cyzja dyrektora przeąsiębiotstwa ,vstrzymaniu rady powinna bycwydan'a ni~ prriw,le faktyCzni ,' 4. Do uchwal rady' pracownic:źejprzędsiębiorstwa, których mowa watt.. 40, nie 'stosuje przepisów,: ust. ]-3.' \'-' 2 Spory uchwaly kierownika rozstrzyga rada pra-. po opinii dyrek tora
+#### Rozdział 5 Współpraca z innymi organizacjami
+
+**Art. 34.** (uchylony)
+
+**Art. 35.** Rady pracownicze przedsiębiorstw mogą się porozumiewać sprawie współpracy oraz podejmowania wspólnych działań.
+
+**Art. 36.** Jeżeli uchwały organów samorządu załogi lub decyzje dyrektora dotyczą spraw wchodzących zakres działania związków zawodowych, przed ich podjęciem organy obowiązane są umożliwić związkom zawodowym zajęcie tych sprawach stanowiska zgodnie z ustawą o związkach zawodowych oraz Kodeksem pracy.
+
+#### Rozdział 6 Samorząd załogi a dyrektor
+
+**Art. 37.**
+
+1. Dyrektor uczestniczy posiedzeniach rady pracowniczej przedsiębiorstwa. Na zaproszenie dyrektor uczestniczy również posiedzeniach prezydium rady pracowniczej. Dyrektor wykonuje uchwały rady pracowniczej dotyczące działalności przedsiębiorstwa.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do kierowników zakładów, których działają rady pracownicze zakładu. roku sprawozdanie z działalności oraz informację o jego stanie.
+
+**Art. 39.**
+
+1. Dyrektor jest obowiązany zapewnić radzie pracowniczej możliwość zaznajomienia się z materiałami dotyczącymi działalności przedsiębiorstwa, przedkładać materiały na posiedzenia rady pracowniczej z odpowiednim wyprzedzeniem oraz informować radę o skutkach ekonomicznych, społecznych i prawnych zamierzonych uchwał rady. Dyrektor jest obowiązany zapewnić samorządowi załogi warunki lokalowe oraz niezbędne środki umożliwiające właściwe jego funkcjonowanie.
+
+**Art. 40.** Radzie pracowniczej przysługuje prawo wstrzymania wykonania decyzji dyrektora przedsiębiorstwa, o ile decyzja ta jest:
+
+**Art. 41.**
+
+1. Dyrektor wstrzymuje wykonanie uchwały ogólnego zebrania pracowników oraz rady pracowniczej przedsiębiorstwa, niezgodnej z przepisami prawa. W wypadkach wymienionych ust. 1 dyrektor zwraca się do rady pracowniczej o ponowne rozpatrzenie sprawy.
+
+3. Decyzja dyrektora o wstrzymaniu wykonania uchwały rady pracowniczej powinna być wydana na piśmie oraz zawierać uzasadnienie prawne i faktyczne.
+
+4. Do uchwał rady pracowniczej przedsiębiorstwa, o których mowa art. 40, nie stosuje się przepisów ust. 1–3.
+
+**Art. 42.**
+
+1. Rada pracownicza ma prawo wniesienia do dyrektora ciągu siedmiu dni sprzeciwu od decyzji o wstrzymaniu wykonania uchwały rady pracowniczej. o cofnięciu decyzji, radzie pracowniczej przysługuje prawo wystąpienia o rozstrzygnięcie sprawy trybie spornym, określonym art. 45.
+
+**Art. 43.**
+
+1. Prawo wstrzymania wykonania uchwały na zasadach określonych art. 41 przysługuje kierownikowi zakładu stosunku do uchwał rady pracowniczej zakładu. Spory spowodowane wstrzymaniem wykonania uchwały przez kierownika zakładu rozstrzyga rada pracownicza przedsiębiorstwa, po wysłuchaniu opinii dyrektora przedsiębiorstwa.
 
 **Art. 44.**
 
-1. Radzie przy piaw9 deHiji d)trektbra, która istot nie interes DYl'ektórowip~zedsiębjorstwa przysługuje praw() za uchwaly -która istotnie narusza interes
+1. Radzie pracowniczej przysługuje prawo zaskarżenia decyzji dyrektora, która istotnie narusza interes ogólnospołeczny. Dyrektorowi przysługuje prawo zaskarżenia uchwały rady pracowniczej przedsiębiorstwa, która istotnie narusza interes ogólnospołeczny.
 
-3. $pór rozpatruje sąd." 7 Rozstrzyganie sporów. •
+3. Spór rozpatruje sąd.
 
-**Art. 45.** t'. Spory pomiędzy rac!ą pracowniczą prz~d dyrektorem .rozstrzyga ko-' misja rozjemcza. której rady i dy-, rektqra zaproszony przez nich atbi, ter prawnine - jako prze: wodniczqcy. Rada pracownicza lub dyrektor do kómisji rozjemczej wnioski rozpatrzenie sprawy terminie czternastu dni od dnia zqa'rzeniu przyczy ,sporu. Komisja' rozfemcza orzeczenie wydaje terminie czternast.u dni od dnia wniosku. ~, Spór ,~waża się za rozstq:ygnięty, jeżeli obfe strony na orzecz.enia komisji rozjemczej.'
+#### Rozdział 7 Rozstrzyganie sporów
 
-**Art. 46.** W wypadku 'sporu przez .' radapraCownjcza lub dyrektor W czternastu dni do Piecza Sejmu. wach; którym mowa wart. wy ustawy ,dotyczące tych pm~dsiębiorstw.
+**Art. 45.**
+
+1. Spory pomiędzy radą pracowniczą a dyrektorem rozstrzyga komisja rozjemcza, której skład wchodzą: przedstawiciel rady pracowniczej i przedstawiciel dyrektora oraz zaproszony przez nich arbiter posiadający wykształcenie prawnicze – jako przewodniczący. Rada pracownicza lub dyrektor zgłaszają do komisji rozjemczej wnioski o rozpatrzenie sprawy terminie czternastu dni od dnia powzięcia wiadomości o zdarzeniu stanowiącym przyczynę sporu. Komisja rozjemcza orzeczenie rozstrzygające spór wydaje terminie czternastu dni od dnia zgłoszenia wniosku.
+
+3. Spór uważa się za rozstrzygnięty, jeżeli obie strony zgodziły się na treść orzeczenia komisji rozjemczej. może wnieść sprawę do sądu.
+
+#### Rozdział 8 Piecza
+
+**Art. 47.**
+
+1. Samorząd załogi podlega pieczy Polskiej Rzeczypospolitej Ludowej . Sejm, raz do roku, na podstawie informacji i wniosków właściwych komisji ocenia całokształt działalności samorządu załóg przedsiębiorstw i uchwala odpowiednie zalecenia.
+
+#### Rozdział 9 Przepisy przejściowe i końcowe
+
+**Art. 48.** Organizację i funkcjonowanie samorządów załogi przedsiębiorstwach, o którym mowa art. 6 ustawy o przedsiębiorstwach państwowych, regulują ustawy dotyczące tych przedsiębiorstw.
 
 **Art. 49.**
 
-1. Rada Ministrów. 'drodze zakres stosowania niniejszej ustawy ,do bioorstw. októryc.,h wart. 5 stwach do które całości lub części pracują poza, wanicami kraju.,' Statu(y wymie nionych zatwierdzenia przez organ ,. ,Art. 50. 1. Do czasu uregulowania drodze ,,..l,Istawy sposobu stwowymi organizacjami '. gospodatczymi"które nie tych jednostek zorga uczestniczenie na zasa.dach prze widzianycli niniejszej usta'wie. gospodarczymi ro zumieniu ust.! instytuty ,naukowo"ba'dawcze i na rzecz gospodarki narodOWej.
+1. Rada Ministrów określi, drodze rozporządzenia, zakres stosowania przepisów ustawy do przedsiębiorstw, o których mowa art. 3 ustawy o przedsiębiorstwach państwowych, oraz do przedsiębiorstw, które całości lub części prowadzą działalność poza granicami kraju. Rada Ministrów może określić, drodze rozporządzenia, szczegółowe zasady i tryb postępowania sprawach przedsiębiorstw, o których mowa ust. 1, a do których na podstawie ust. 1 nie stosuje się przepisów niniejszej ustawy.
+
+**Art. 50.**
+
+1. Do czasu uregulowania drodze odrębnej ustawy sposobu uczestniczenia załóg zarządzaniu państwowymi organizacjami gospodarczymi, które nie są przedsiębiorstwami – załogi tych jednostek mogą zorganizować uczestniczenie zarządzaniu na zasadach przewidzianych niniejszej ustawie. narodowej.
 
 **Art. 51.**
 
-1. Do dnia' 31 grlldnia Ul8l przed· pailstwowych zakre8em niDleJszej ustawy ucz.estniczenie na zasadach ustawie statut które dniu ustawy uczest statutLl tymczasowego regulaminu, terminie <:le dnia grudnia r. biorstwem do przepisów niniejszej ustawy; do tego czasLl dniu ot{Jahy samo funkcje przewidziane niniejszej usta\vie.
+1. Do dnia 31 grudnia 1981 r. przedsiębiorstwach państwowych objętych zakresem niniejszej ustawy załogi zorganizują uczestniczenie zarządzaniu przedsiębiorstwem na zasadach określonych ustawie oraz uchwalą statut samorządu załogi. Załogi, które dniu wejścia życie ustawy uczestniczą zarządzaniu przedsiębiorstwem według statutu tymczasowego bądź regulaminu, dostosują terminie do dnia 31 grudnia 1981 r. udział zarządzaniu przedsiębiorstwem do przepisów niniejszej ustawy; do tego czasu działające dniu wejścia życie ustawy organy samorządu załogi wykonują funkcje przewidziane niniejszej ustawie.
 
-3. W któi"ych dotychpas nie\.' dziąłają żadneolgan samorządu, pierwsze"uibraniezmie dyrektor.
+3. W przedsiębiorstwach, których dotychczas nie działają żadne organy samorządu, pierwsze zebranie zmierzające do powołania samorządu załogi zwołuje dyrektor.
 
-4. Do cza;;u ukon'stytuowania przewidzianych ustawie organów kompetencje dyrektor. Traci moc ustawa z dnia grudnia 'r. robotniczym (Dz. U. Nr 77,poz, 397 z' 1974 r:. Nr 24,poz; 142).
+4. Do czasu ukonstytuowania się przewidzianych ustawie organów samorządu załogi państwowego ich kompetencje wykonuje dyrektor.
 
+**Art. 52.** Traci moc ustawa z dnia 20 grudnia 1958 r. o samorządzie robotniczym (Dz. U. Nr 77, poz. 397 oraz z 1974 r. Nr 24, poz. 142).
+
+**Art. 53.** Ustawa wchodzi życie z dniem 1 października 1981 r.
 

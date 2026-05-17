@@ -8,9 +8,12 @@ pos: 1617
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 sierpnia 2023 r.
+# o zmianie ustawy o sporcie oraz niektórych innych ustaw
+
+*USTAWA z dnia 13 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001617) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1617/text.pdf) |
 
-Poz. 1617
-USTAWA z dnia 13 lipca 2023 r.
-o zmianie ustawy o sporcie oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2022 r. poz. 1599 i 2185) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509) w art. 3a wyraz „paraolimpijskiej” zastępuje się wyrazem „paralimpijskiej”.
@@ -38,5 +37,5 @@ o zmianie ustawy o sporcie oraz niektórych innych ustaw
 
 **Art. 5.** W ustawie z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. z 2023 r. poz. 201) w art. 89 w ust. 1 wyraz „Paraolimpijskiego” zastępuje się wyrazem „Paralimpijskiego”.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

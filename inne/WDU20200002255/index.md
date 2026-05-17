@@ -8,9 +8,12 @@ pos: 2255
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 grudnia 2020 r.
+# o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+
+*USTAWA z dnia 9 grudnia 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2020-12-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2255/text.pdf) |
-
-USTAWA z dnia 9 grudnia 2020 r.
-o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, 2112, 2113, 2123 i 2157) wprowadza się następujące zmiany:
 
@@ -46,32 +46,32 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 3. W przypadku wydania zarządzenia, o którym mowa ust. 1, na obszarze województwa lub jego części, których zarządzenie dotyczy, nie stosuje się wymagań dotyczących selektywnego zbierania odpadów komunalnych, określonych ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku gminach.”;
 
-- **2)** art. 12a: kontrolnego, badanie takie może przeprowadzić i wydać odpowiednie orzeczenie lekarskie inny lekarz. Orzeczenie lekarskie wydane przez innego lekarza traci moc po upływie 180 dni od dnia odwołania stanu zagrożenia epidemicznego, przypadku gdy nie zostanie ogłoszony stan epidemii, albo od dnia odwołania stanu epidemii. Lekarz ten może przeprowadzić badanie i wydać orzeczenie lekarskie trybie określonym art. 2 ust. 4 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty. Do orzeczenia lekarskiego stosuje się odpowiednio art. 2 pkt 6 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia (Dz. U. z 2020 r. poz. 702, 1493 i 1875). Orzeczenie lekarskie wydane przez innego lekarza włącza się do akt osobowych pracownika.”,
+- **2)** art. 12a:
     - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Po odwołaniu stanu zagrożenia epidemicznego, przypadku gdy nie zostanie ogłoszony stan epidemii albo po odwołaniu stanu epidemii, pracodawca i pracownik są obowiązani niezwłocznie podjąć wykonywanie zawieszonych obowiązków, o których mowa ust. 1, i wykonać je okresie nie dłuższym niż 180 dni od dnia odwołania danego stanu.
-    - **b)** dodaje się ust. 5 brzmieniu: „5. W trakcie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii:
 
-- **1)** stosunku do osoby zatrudnianej na stanowisko pracy inne niż administracyjno-biurowe okresy, o których mowa art. 229 § 1 pkt 1 i 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, zostają wydłużone do 180 dni;
+3. W przypadku braku dostępności do lekarza uprawnionego do przeprowadzenia badania wstępnego lub kontrolnego, badanie takie może przeprowadzić i wydać odpowiednie orzeczenie lekarskie inny lekarz. Orzeczenie lekarskie wydane przez innego lekarza traci moc po upływie 180 dni od dnia odwołania stanu zagrożenia epidemicznego, przypadku gdy nie zostanie ogłoszony stan epidemii, albo od dnia odwołania stanu epidemii. Lekarz ten może przeprowadzić badanie i wydać orzeczenie lekarskie trybie określonym art. 2 ust. 4 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty. Do orzeczenia lekarskiego stosuje się odpowiednio art. 2 pkt 6 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia (Dz. U. z 2020 r.
+
+- **b)** dodaje się ust. 5 brzmieniu: „5. W trakcie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii:
+- **1)** stosunku do osoby zatrudnianej na stanowisko pracy inne niż administracyjno-biurowe okresy, o których mowa art. 229 § 1 pkt 1 i 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, zostają wydłużone do 180 dni;
 - **2)** wstępnym badaniom lekarskim nie podlegają osoby zatrudniane na stanowisko administracyjno-biurowe, jeżeli posiadają aktualne orzeczenie lekarskie stwierdzające brak przeciwwskazań do pracy warunkach pracy opisanych skierowaniu na badania lekarskie i pracodawca stwierdzi, że warunki te odpowiadają warunkom występującym na danym stanowisku pracy.”;
 - **3)** art. 15g: z 2020 r. poz. 1041). Kwota ta zaliczana jest koszty Funduszu Gwarantowanych Świadczeń Pracowniczych.”;
-    - **a)** ust. 17b: we wprowadzeniu do wyliczenia wyrazy „świadczeń, o których mowa ust. 1, i środków, o których mowa ust. 2” zastępuje się wyrazami „świadczeń, o których mowa ust. 1 i 1a, lub środków, o których mowa ust. 2”, pkt 1 i 2 wyrazy „świadczeń i środków, o których mowa ust. 1 i 2” zastępuje się wyrazami „świadczeń i środków, o których mowa ust. 1, 1a lub 2”, pkt 2 skreśla się wyraz „pełnej”,
-    - **b)** po ust. 17b dodaje się ust. 17c brzmieniu: „17c. Dyrektor wojewódzkiego urzędu pracy nie dochodzi zwrotu przekazanych świadczeń, o których mowa ust. 1 i 1a, lub środków, o których mowa ust. 2, jeżeli po dokonaniu rozliczenia, o którym mowa ust. 17b pkt 1 lub 2, kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U.
+    - **a)** ust. 17b: – we wprowadzeniu do wyliczenia wyrazy „świadczeń, o których mowa ust. 1, i środków, o których mowa ust. 2” zastępuje się wyrazami „świadczeń, o których mowa ust. 1 i 1a, lub środków, o których mowa ust. 2”, – pkt 1 i 2 wyrazy „świadczeń i środków, o których mowa ust. 1 i 2” zastępuje się wyrazami „świadczeń i środków, o których mowa ust. 1, 1a lub 2”, – pkt 2 skreśla się wyraz „pełnej”,
+    - **b)** po ust. 17b dodaje się ust. 17c brzmieniu: „17c. Dyrektor wojewódzkiego urzędu pracy nie dochodzi zwrotu przekazanych świadczeń, o których mowa ust. 1 i 1a, lub środków, o których mowa ust. 2, jeżeli po dokonaniu rozliczenia, o którym mowa ust. 17b pkt 1 lub 2, kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U.
 
 - **4)** art. 15ga ust. 7 otrzymuje brzmienie: „7. Dofinansowanie, o którym mowa ust. 1, przyznaje się jednokrotnie na okres nie dłuższy niż 3 miesiące, przypadający od miesiąca złożenia wniosku, o którym mowa ust. 9.”;
 - **5)** art. 15gg ust. 21 otrzymuje brzmienie: „21. Do rozliczenia przez wojewódzkie urzędy pracy przekazanych uprawnionym podmiotom świadczeń, o których mowa ust. 1, lub środków, o których mowa ust. 2, przepisy art. 15g ust. 17b i 17c stosuje się odpowiednio.”;
-- **6)** po art. 15gg dodaje się art. 15gga i art. 15ggb brzmieniu: „Art. 15gga. 1. Przedsiębiorca rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, który na dzień 30 września 2020 r. prowadził działalność gospodarczą, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.71.Z, 47.72.Z, 47.81.Z,
+- **6)** po art. 15gg dodaje się art. 15gga i art. 15ggb brzmieniu: „Art. 15gga. 1. Przedsiębiorca rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, który na dzień 30 września 2020 r. prowadził działalność gospodarczą, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.71.Z, 47.72.Z, 47.81.Z,
 
 47. 82.Z, 47.89.Z, 49.39.Z, 56.10.A, 56.10.B, 56.21.Z, 56.29.Z, 56.30.Z, 59.11.Z, 59.12.Z, 59.13.Z, 59.20.Z, 59.14.Z,
 
 74. 20.Z, 77.21.Z, 79.90.A, 82.30.Z, 85.51.Z, 85.52.Z, 85.53.Z, 85.59.A, 85.59.B, 86.10.Z zakresie działalności leczniczej polegającej na udzielaniu świadczeń ramach lecznictwa uzdrowiskowego, o którym mowa art. 2 pkt 1 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2020 r. poz. 1662), lub realizowanej trybie stacjonarnym rehabilitacji leczniczej, 86.90.A, 86.90.D, 90.01.Z, 90.02.Z, 90.04.Z, 91.02.Z, 93.11.Z, 93.13.Z, 93.19.Z, 93.21.Z, 93.29.A,
 
-93. 29.B, 93.29.Z, 96.01.Z, 96.04.Z, i którego przychód z tej działalności rozumieniu przepisów podatkowych uzyskany jednym z trzech miesięcy poprzedzających miesiąc złożenia wniosku był niższy następstwie wystąpienia miesiącu roku poprzedniego, może zwrócić się z wnioskiem o przyznanie świadczeń na rzecz ochrony miejsc pracy ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych na dofinansowanie wynagrodzenia pracowników rozumieniu art. 15g ust. 4.
-
-2. Oceny spełnienia warunku, o którym mowa ust. 1, zakresie oznaczenia prowadzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych rejestrze REGON brzmieniu na dzień 30 września 2020 r.
+93. 29.B, 93.29.Z, 96.01.Z, 96.04.Z, i którego przychód z tej działalności rozumieniu przepisów podatkowych uzyskany jednym z trzech miesięcy poprzedzających miesiąc złożenia wniosku był niższy następstwie wystąpienia COVID-19 co najmniej o 40% stosunku do przychodu uzyskanego miesiącu poprzednim lub analogicznym miesiącu roku poprzedniego, może zwrócić się z wnioskiem o przyznanie świadczeń na rzecz ochrony miejsc pracy ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych na dofinansowanie wynagrodzenia pracowników rozumieniu art. 15g ust. 4. rejestrze REGON brzmieniu na dzień 30 września 2020 r.
 
 3. Do świadczeń na rzecz ochrony miejsc pracy uprawniony jest przedsiębiorca:
 
 - **1)** który nie zalega regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Pracy lub Fundusz Solidarnościowy do końca trzeciego kwartału 2019 r., z wyjątkiem gdy zadłużony przedsiębiorca zawarł umowę z Zakładem Ubezpieczeń Społecznych lub otrzymał decyzję urzędu skarbowego sprawie spłaty zadłużenia i terminowo opłaca raty lub korzysta z odroczenia terminu płatności;
-- **2)** który nie spełnia przesłanek do ogłoszenia upadłości, o których mowa art. 11 lub art. 13 ust. 3 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe;
+- **2)** który nie spełnia przesłanek do ogłoszenia upadłości, o których mowa art. 11 lub art. 13 ust. 3 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe;
 - **3)** wobec którego nie jest prowadzone postępowanie restrukturyzacyjne lub likwidacyjne.
 
 4. Dofinansowanie wynosi miesięcznie 2000 zł do wynagrodzenia jednego pracownika, z uwzględnieniem wymiaru czasu pracy.
@@ -91,13 +91,13 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 - **6)** oświadczenie, że przedsiębiorca na dzień sporządzenia wniosku sporządził zgodny ze stanem faktycznym wykaz pracowników objętych wnioskiem i jednocześnie zobowiązuje się dostarczyć wykaz na żądanie uprawnionego organu;
 - **7)** oświadczenie o niekorzystaniu miesiącach, na które składany jest wniosek, z innej pomocy formie dofinansowania wynagrodzeń pracowników udzielonej celu przeciwdziałania negatywnym skutkom COVID-19.
 
-7. Wykaz pracowników objętych wnioskiem obejmuje następujące dane dotyczące pracowników: imię (imiona) i nazwisko, numer PESEL, a przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość, wysokość wynagrodzenia brutto, wymiar czasu pracy.
+7. Wykaz pracowników objętych wnioskiem obejmuje następujące dane dotyczące pracowników: imię (imiona) i nazwisko, numer PESEL, a przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, wysokość wynagrodzenia brutto, wymiar czasu pracy.
 
 8. Oświadczenia, o których mowa ust. 6 pkt 2–7, przedsiębiorca składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-9. Dyrektor wojewódzkiego urzędu pracy, po stwierdzeniu kompletności wniosku i złożeniu przez przedsiębiorcę wszystkich oświadczeń, o których mowa ust. 6 pkt 2–7, występuje niezwłocznie formie elektronicznej do dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych o przyznanie limitu/zapotrzebowania na środki na wypłatę świadczeń na rzecz ochrony miejsc pracy. urzędu pracy, na podstawie limitu/zapotrzebowania, środki Funduszu Gwarantowanych Świadczeń Pracowniczych.
+9. Dyrektor wojewódzkiego urzędu pracy, po stwierdzeniu kompletności wniosku i złożeniu przez przedsiębiorcę wszystkich oświadczeń, o których mowa ust. 6 pkt 2–7, występuje niezwłocznie formie elektronicznej do dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych o przyznanie limitu/zapotrzebowania na środki na wypłatę świadczeń na rzecz ochrony miejsc pracy.
 
-11. Dofinansowanie jest udzielane na podstawie umowy o świadczenia na rzecz ochrony miejsc pracy i przysługuje przez łączny okres 3 miesięcy kalendarzowych, przypadających od miesiąca złożenia wniosku.
+10. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych przekazuje dyrektorowi wojewódzkiego urzędu pracy, na podstawie limitu/zapotrzebowania, środki Funduszu Gwarantowanych Świadczeń Pracowniczych. i przysługuje przez łączny okres 3 miesięcy kalendarzowych, przypadających od miesiąca złożenia wniosku.
 
 12. Dofinansowanie nie przysługuje za miesiące, których przedsiębiorca korzysta z innej pomocy formie dofinansowania wynagrodzeń pracowników udzielonej celu przeciwdziałania negatywnym skutkom COVID-19.
 
@@ -133,10 +133,11 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 25. Przychód z tytułu świadczeń na rzecz ochrony miejsc pracy nie stanowi dla przedsiębiorcy przychodu rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych.
 
-26. Wnioski o przyznanie świadczeń na rzecz ochrony miejsc pracy mogą być składane do dnia 28 lutego 2021 r. Art. 15ggb. 1. Rada Ministrów może, celu przeciwdziałania COVID-19, drodze rozporządzenia, przyznać ponowną wypłatę świadczeń na rzecz ochrony miejsc pracy, o których mowa art. 15gga ust. 1, dla wszystkich albo niektórych przedsiębiorców, którzy otrzymali to świadczenie na podstawie art. 15gga ust. 1, lub przyznać to świadczenie innym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia prowadzeniu działalności wynikające z tych stanów oraz obszary życia gospodarczego i społecznego szczególny sposób dotknięte konsekwencjami COVID-19. czenia na rzecz ochrony miejsc pracy, poprzez określenie:
+26. Wnioski o przyznanie świadczeń na rzecz ochrony miejsc pracy mogą być składane do dnia 28 lutego 2021 r. Art. 15ggb. 1. Rada Ministrów może, celu przeciwdziałania COVID-19, drodze rozporządzenia, przyznać ponowną wypłatę świadczeń na rzecz ochrony miejsc pracy, o których mowa art. 15gga ust. 1, dla wszystkich albo niektórych przedsiębiorców, którzy otrzymali to świadczenie na podstawie art. 15gga ust. 1, lub przyznać to świadczenie innym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia prowadzeniu działalności wynikające z tych stanów oraz obszary życia gospodarczego i społecznego szczególny sposób dotknięte konsekwencjami COVID-19.
 
-- **1)** innych niż wskazane przepisie art. 15gga ust. 1 warunków przyznawania świadczeń na rzecz ochrony miejsc pracy zakresie obniżenia przychodu z działalności i okresu porównawczego;
-- **2)** kodów, którymi oznaczona była, na wskazany dzień przypadający nie wcześniej niż 3 miesiące przed dniem wejścia życie rozporządzenia, według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, działalność gospodarcza przedsiębiorcy.
+2. Rozporządzenie, o którym mowa ust. 1, może ustalać krąg przedsiębiorców, którym przysługują świadczenia na rzecz ochrony miejsc pracy, poprzez określenie:
+
+- **1)** innych niż wskazane przepisie art. 15gga ust. 1 warunków przyznawania świadczeń na rzecz ochrony miejsc pracy zakresie obniżenia przychodu z działalności i okresu porównawczego; jącej działalności, działalność gospodarcza przedsiębiorcy.
 
 3. Rozporządzenie, o którym mowa ust. 1, może także określać:
 
@@ -153,10 +154,11 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 3. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokonuje umorzenia lub rozłożenia na raty, o którym mowa art. 57 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na podstawie wniosku dłużnika, przekazanego i zaopiniowanego przez dyrektora wojewódzkiego urzędu pracy. Art. 15gk. Dyrektor wojewódzkiego urzędu pracy nie ma obowiązku uiszczania kosztów sądowych sprawach dotyczących wypłaty lub zwrotu świadczeń lub środków, o których mowa art. 15g ust. 1–2 i art. 15gga.”;
 
 - **9)** art. 15l:
-    - **a)** ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Od przedsiębiorców rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców przez okres, którym obowiązuje zakaz prowadzenia działalności na podstawie art. 46a i art. 46b pkt 1–6 i 8–12 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, wstrzymuje się pobieranie:”,
+    - **a)** ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Od przedsiębiorców rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców przez okres, którym obowiązuje zakaz prowadzenia działalności na podstawie art. 46a i art. 46b pkt 1–6 i 8–12 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, wstrzymuje się pobieranie:”,
     - **b)** dodaje się ust. 4 brzmieniu: „4. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii przedsiębiorca, którego nie dotyczy zakaz, o którym mowa ust. 1, oraz organizacja pozarządowa i podmiot, o których mowa ust. 3, mogą żądać obniżenia wynagrodzenia dla organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, proporcjonalnie do obniżenia jego przychodu stosunku do przychodu uzyskanego tym samym okresie rozliczeniowym roku przed ogłoszeniem stanu zagrożenia epidemicznego albo stanu epidemii.”;
 
-- **10)** art. 15p ust. 1 otrzymuje brzmienie: „1. Rada gminy może wprowadzić, drodze uchwały, za część roku 2020 oraz za wybrane miesiące pierwszego półrocza 2021 r., zwolnienia z podatku od nieruchomości: gruntów, budynków i budowli związanych z prowadzeniem działalności gospodarczej, wskazanym grupom przedsiębiorców, których płynność finansowa uległa pogorszeniu związku z ponoszeniem negatywnych konsekwencji ekonomicznych z powodu COVID-19.”; „1. Rada gminy może przedłużyć, drodze uchwały, wskazanym grupom przedsiębiorców, których płynność finansowa uległa pogorszeniu związku z ponoszeniem negatywnych konsekwencji ekonomicznych z powodu COVID-19, terminy płatności rat podatku od nieruchomości, płatnych kwietniu, maju i czerwcu 2020 r., nie dłużej niż do dnia 30 września 2020 r. oraz płatnych wybranych miesiącach pierwszego półrocza 2021 r., nie dłużej niż do dnia 31 grudnia 2021 r.”;
+- **10)** art. 15p ust. 1 otrzymuje brzmienie: „1. Rada gminy może wprowadzić, drodze uchwały, za część roku 2020 oraz za wybrane miesiące pierwszego półrocza 2021 r., zwolnienia z podatku od nieruchomości: gruntów, budynków i budowli związanych z prowadzeniem działalności gospodarczej, wskazanym grupom przedsiębiorców, których płynność finansowa uległa pogorszeniu związku z ponoszeniem negatywnych konsekwencji ekonomicznych z powodu COVID-19.”;
+- **11)** art. 15q ust. 1 otrzymuje brzmienie: „1. Rada gminy może przedłużyć, drodze uchwały, wskazanym grupom przedsiębiorców, których płynność finansowa uległa pogorszeniu związku z ponoszeniem negatywnych konsekwencji ekonomicznych z powodu COVID-19, terminy płatności rat podatku od nieruchomości, płatnych kwietniu, maju i czerwcu 2020 r., nie dłużej
 - **12)** po art. 15zoa dodaje się art. 15zoaa brzmieniu: „Art. 15zoaa. 1. Uchwałę budżetową na rok budżetowy 2021, organ stanowiący jednostki samorządu terytorialnego, szczególnie uzasadnionych przypadkach, może podjąć nie później niż do dnia 31 marca 2021 roku.
 
 2. Do czasu podjęcia uchwały budżetowej na rok budżetowy 2021, jednak nie później niż do dnia 31 marca 2021 roku, podstawą gospodarki finansowej jednostki samorządu terytorialnego jest projekt uchwały budżetowej przedstawiony organowi stanowiącemu jednostki samorządu terytorialnego.
@@ -181,21 +183,21 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 3. Oświadczenia, o których mowa ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniu jest zawarta klauzula następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-4. Jednorazowe dodatkowe świadczenie postojowe, o którym mowa ust. 1, oraz koszty obsługi wypłaty tego świadczenia są finansowane z Funduszu Przeciwdziałania COVID-19. dodatkowego świadczenia postojowego, o którym mowa ust. 1.
+4. Jednorazowe dodatkowe świadczenie postojowe, o którym mowa ust. 1, oraz koszty obsługi wypłaty tego świadczenia są finansowane z Funduszu Przeciwdziałania COVID-19.
+
+5. Koszty obsługi, o których mowa ust. 4, wynoszą 0,5% kwoty przeznaczonej na wypłatę jednorazowego dodatkowego świadczenia postojowego, o którym mowa ust. 1.
 
 6. Minister właściwy do spraw pracy, na wniosek Prezesa Zakładu Ubezpieczeń Społecznych, przekazuje na wyodrębniony rachunek bankowy Zakładu Ubezpieczeń Społecznych środki na wypłatę jednorazowego dodatkowego świadczenia postojowego oraz na pokrycie kosztów obsługi wypłaty tego świadczenia.
-
-7. Do jednorazowego dodatkowego świadczenia postojowego, o którym mowa ust. 1, stosuje się odpowiednio art. 15zr ust. 1, 3 i 4, art. 15zs ust. 6 i 7, art. 15zu, art. 15zv, art. 15zx, art. 15zz i art. 15zza.
 
 8. Oceny spełnienia warunku, o którym mowa ust. 1, zakresie oznaczenia prowadzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych rejestrze REGON brzmieniu na dzień 30 września 2020 r. Art. 15zs 3 . 1. Osobie, o której mowa art. 15zq ust. 1 pkt 2, nieposiadającej innego tytułu do ubezpieczeń społecznych, przysługuje prawo do jednorazowego dodatkowego świadczenia postojowego, jeżeli przychód z umowy cywilnoprawnej zawartej do dnia wejścia życie ustawy, z tytułu:
 
 - **1)** działalności twórczej zakresie sztuk plastycznych, literatury, muzyki, twórczości audialnej, utworów audiowizualnych, teatru, kostiumografii, scenografii, reżyserii, choreografii, lutnictwa artystycznego i sztuki ludowej,
 - **2)** działalności artystycznej dziedzinie sztuki aktorskiej, estradowej, tanecznej i cyrkowej oraz dziedzinie dyrygentury, wokalistyki i instrumentalistyki,
 - **3)** działalności technicznej wspomagającej produkcję audiowizualną lub produkcję i wystawianie wydarzeń artystycznych,
-- **4)** usług zakresie architektury, architektury wnętrz, architektury krajobrazu oraz usług zakresie architektury świadczonych przez osoby nieposiadające uprawnień budowlanych rozumieniu ustawy z dnia 7 lipca 1994 r. Prawo budowlane,
+- **4)** usług zakresie architektury, architektury wnętrz, architektury krajobrazu oraz usług zakresie architektury świadczonych przez osoby nieposiadające uprawnień budowlanych rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane,
 - **5)** usług świadczonych na rzecz muzeów rozumieniu ustawy z dnia 21 listopada 1996 r. o muzeach:
     - **a)** zakresie pozaszkolnych form edukacji,
-    - **b)** przez przewodników muzeów uzyskany miesiącu poprzedzającym miesiąc, którym został złożony wniosek o to jednorazowe dodatkowe świadczenie postojowe, nie był wyższy od 300% przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, obowiązującego na dzień złożenia wniosku.
+    - **b)** przez przewodników muzeów – uzyskany miesiącu poprzedzającym miesiąc, którym został złożony wniosek o to jednorazowe dodatkowe świadczenie postojowe, nie był wyższy od 300% przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, obowiązującego na dzień złożenia wniosku.
 
 2. Ustalenie prawa do jednorazowego dodatkowego świadczenia postojowego następuje na wniosek osoby wykonującej umowę agencyjną, umowę zlecenia albo inną umowę o świadczenie usług albo umowę o dzieło, zawierający dane, o których mowa art. 15zs ust. 3 pkt 1 lit. a, b i d, pkt 2, 5 i 6, oświadczenie o zawarciu umowy cywilnoprawnej do dnia wejścia życie ustawy, której przedmiot związany jest z tytułami działalności określonymi ust. 1 wraz ze wskazaniem, czy jest to umowa zlecenia czy o dzieło, oświadczenie potwierdzające, że jej przychód z umowy cywilnoprawnej miesiącu kalendarzowym poprzedzającym miesiąc złożenia wniosku był niższy od 300% przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, oraz oświadczenie o nieposiadaniu innego tytułu do ubezpieczeń społecznych.
 
@@ -209,9 +211,9 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 7. Do jednorazowego dodatkowego świadczenia postojowego stosuje się art. 15zs ust. 6 i 7, art. 15zu, art. 15zv, art. 15zx, art. 15zy, art. 15zz i art. 15zza.
 
-8. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek Prezesa Zakładu Ubezpieczeń Społecznych, przekazuje roku 2020 na wyodrębniony rachunek bankowy Zakładu Ubezpieczeń Społecznych środki na wypłatę dodatkowego świadczenia postojowego oraz kosztów obsługi wypłaty tego świadczenia. wypłatę jednorazowego dodatkowego świadczenia postojowego, o którym mowa ust. 1, dla osób, które otrzymały to świadczenie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii oraz skutki nimi wywołane.”;
+8. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek Prezesa Zakładu Ubezpieczeń Społecznych, przekazuje roku 2020 na wyodrębniony rachunek bankowy Zakładu Ubezpieczeń Społecznych środki na wypłatę dodatkowego świadczenia postojowego oraz kosztów obsługi wypłaty tego świadczenia.
 
-- **15)** art. 15zt otrzymuje brzmienie: „Art. 15zt. 1. Rada Ministrów może, celu przeciwdziałania COVID-19, drodze rozporządzenia, przyznać ponowną wypłatę świadczenia postojowego, o którym mowa art. 15zq, dla wszystkich albo niektórych osób, które otrzymały to świadczenie na podstawie art. 15zu, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego szczególny sposób dotknięte konsekwencjami COVID-19.
+9. Rada Ministrów może, celu przeciwdziałania COVID-19, drodze rozporządzenia, przyznać ponowną wypłatę jednorazowego dodatkowego świadczenia postojowego, o którym mowa ust. 1, dla osób, które otrzymały to świadczenie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii oraz skutki nimi wywołane.”; „Art. 15zt. 1. Rada Ministrów może, celu przeciwdziałania COVID-19, drodze rozporządzenia, przyznać ponowną wypłatę świadczenia postojowego, o którym mowa art. 15zq, dla wszystkich albo niektórych osób, które otrzymały to świadczenie na podstawie art. 15zu, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa ust. 1, może ustalać krąg osób, którym przysługuje świadczenie postojowe, poprzez określenie:
 
@@ -238,14 +240,15 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
     - **a)** ust. 2 pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 brzmieniu: „3) wypłacone kwocie wyższej niż należna.”,
     - **b)** ust. 3a otrzymuje brzmienie: „3a. Jeżeli wypłata świadczenia postojowego osobie innej niż osoba uprawniona lub kwocie wyższej niż należna nastąpiła z przyczyn leżących po stronie Zakładu Ubezpieczeń Społecznych, nie nalicza się odsetek, o których mowa ust. 1.”;
 
-- **17)** art. 15zy ust. 1 i 2 wyrazy „art. 15zs ust. 1 albo 15zsa ust. 1” zastępuje się wyrazami „art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2 albo art. 15zsa ust. 1”; „Art. 15zya. Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazana osoba uprawniona, o której mowa art. 15zs ust. 1 lub art. 15zs ust. 1, na wskazany dzień prowadziła pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007 jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio art. 15zs ust. 1 albo art. 15zs ust. 1. Art. 15zyb. Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez osobę uprawnioną, zleceniodawcę lub zamawiającego we wniosku, o którym mowa art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs , lub art. 15zsa ust. 1, lub oświadczeniu, o którym mowa art. 15zua ust. 3. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.”;
+- **17)** art. 15zy ust. 1 i 2 wyrazy „art. 15zs ust. 1 albo 15zsa ust. 1” zastępuje się wyrazami „art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2 albo art. 15zsa ust. 1”;
+- **18)** po art. 15zy dodaje się art. 15zya i art. 15zyb brzmieniu: „Art. 15zya. Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazana osoba uprawniona, o której mowa art. 15zs ust. 1 lub art. 15zs ust. 1, na wskazany dzień prowadziła pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności Art. 15zyb. Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez osobę uprawnioną, zleceniodawcę lub zamawiającego we wniosku, o którym mowa art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs , lub art. 15zsa ust. 1, lub oświadczeniu, o którym mowa art. 15zua ust. 3. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.”;
 - **19)** art. 15zzc po ust. 7 dodaje się ust. 7a brzmieniu: „7a. W przypadku śmierci przedsiębiorcy okresie, na który zostało przyznane dofinansowanie, spadkobiercy przedsiębiorcy nie są obowiązani do zwrotu otrzymanego dofinansowania z tytułu nieprowadzenia działalności gospodarczej przez okres, o którym mowa ust. 6.”;
 - **20)** art. 15zzd:
     - **a)** po ust. 7 dodaje się ust. 7a brzmieniu: „7a. Pożyczka wraz z odsetkami podlega umorzeniu także przypadku śmierci mikroprzedsiębiorcy okresie, o którym mowa ust. 7.”,
     - **b)** ust. 10 po wyrazach „określonych ust. 7” dodaje się wyrazy „i 7a”;
 
 - **21)** art. 15zze :
-    - **a)** ust. 1: po wyrazach „w celu ustalenia” dodaje się wyrazy „lub weryfikacji”, wyrazy „art. 15zee ust. 6, ust. 8 pkt 1–3 i ust. 10” zastępuje się wyrazami „art. 15zze ust. 7, ust. 10 pkt 1–3 i ust. 12”,
+    - **a)** ust. 1: – po wyrazach „w celu ustalenia” dodaje się wyrazy „lub weryfikacji”, – wyrazy „art. 15zee ust. 6, ust. 8 pkt 1–3 i ust. 10” zastępuje się wyrazami „art. 15zze ust. 7, ust. 10 pkt 1–3 i ust. 12”,
     - **b)** ust. 2 wyrazy „art. 15g ust. 2–4, 7, 10 i 16–18, art. 15ga ust. 1–3, 5 i 6 i ust. 9 pkt 2 i 3 oraz art. 15gg” zastępuje się wyrazami „art. 15g ust. 3, 7, 7a, 10, 10a i 18, art. 15ga ust. 1–3, 5 i 6, art. 15gg ust. 3–5, 7 i 8 oraz art. 15gga ust. 3 pkt 1, ust. 4, 5 i ust. 15 pkt 1”,
     - **c)** dodaje się ust. 4–7 brzmieniu: „4. Główny Urząd Statystyczny udostępnia powiatowym urzędom pracy postaci elektronicznej, za pośrednictwem ministra właściwego do spraw pracy, wykaz obejmujący dane przedsiębiorców, którzy na dzień wskazany art. 15zze ust. 1 lub rozporządzeniu, o którym mowa art. 15zze ust. 1, prowadzili działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami wskazanymi art. 15zze ust. 1 lub tym rozporządzeniu. Wykaz zawiera imię i nazwisko, nazwę pełną oraz nazwę skróconą przedsiębiorcy, NIP, REGON oraz kod PKD.
 
@@ -253,15 +256,13 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 6. Główny Urząd Statystyczny przekazuje wykazy, o których mowa ust. 4 i 5, terminie 7 dni od dnia wejścia życie ustawy z dnia 9 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 2255) lub od dnia wejścia życie rozporządzenia, o którym mowa art. 15ggb ust. 1 lub art. 15zze ust. 1.
 
-7. Przepis ust. 6 stosuje się odpowiednio przypadku zmiany rozporządzeń, o których mowa art. 15ggb ust. 1 lub art. 15zze ust. 1, zakresie określenia kodów, o których mowa odpowiednio ust. 4 i 5.”; „Art. 15zze . 1. W celu przeciwdziałania negatywnym skutkom COVID-19 starosta może, na podstawie umowy, udzielić ze środków Funduszu Pracy jednorazowo dotacji na pokrycie bieżących kosztów prowadzenia działalności gospodarczej mikroprzedsiębiorcy i małemu przedsiębiorcy, o których mowa odpowiednio art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, którzy na dzień 30 września 2020 r. prowadzili działalność gospodarczą, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.71.Z, 47.72.Z, 47.81.Z, 47.82.Z, 47.89.Z, 49.39.Z, 56.10.A, 56.10.B, 56.21.Z, 56.29.Z, 56.30.Z,
+7. Przepis ust. 6 stosuje się odpowiednio przypadku zmiany rozporządzeń, o których mowa art. 15ggb ust. 1 lub art. 15zze ust. 1, zakresie określenia kodów, o których mowa odpowiednio ust. 4 i 5.”;
 
-59. 11.Z, 59.12.Z, 59.13.Z, 59.14.Z, 59.20.Z, 74.20.Z, 77.21.Z, 79.90.A, 82.30.Z, 85.51.Z, 85.52.Z, 85.53.Z,
-
-85. 59.A, 85.59.B, 86.10.Z zakresie działalności leczniczej polegającej na udzielaniu świadczeń ramach lecznictwa uzdrowiskowego, o którym mowa art. 2 pkt 1 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych, lub realizowanej trybie stacjonarnym rehabilitacji leczniczej, 86.90.A, 86.90.D, 90.01.Z, 90.02.Z, 90.04.Z, 91.02.Z, 93.11.Z, 93.13.Z, 93.19.Z,
+- **22)** po art. 15zze dodaje się art. 15zze i art. 15zze brzmieniu: „Art. 15zze . 1. W celu przeciwdziałania negatywnym skutkom COVID-19 starosta może, na podstawie umowy, udzielić ze środków Funduszu Pracy jednorazowo dotacji na pokrycie bieżących kosztów prowadzenia działalności gospodarczej mikroprzedsiębiorcy i małemu przedsiębiorcy, o których mowa odpowiednio art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, którzy na dzień 30 września 2020 r. prowadzili działalność gospodarczą, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działal85.59.A, 85.59.B, 86.10.Z zakresie działalności leczniczej polegającej na udzielaniu świadczeń ramach lecznictwa uzdrowiskowego, o którym mowa art. 2 pkt 1 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych, lub realizowanej trybie stacjonarnym rehabilitacji leczniczej, 86.90.A, 86.90.D, 90.01.Z, 90.02.Z, 90.04.Z, 91.02.Z, 93.11.Z, 93.13.Z, 93.19.Z,
 
 93. 21.Z, 93.29.A, 93.29.B, 93.29.Z, 96.01.Z, 96.04.Z, i których przychód z tej działalności rozumieniu przepisów podatkowych uzyskany październiku albo listopadzie 2020 r. był niższy co najmniej o 40% stosunku do przychodu uzyskanego odpowiednio październiku albo listopadzie 2019 r.
 
-2. Dotacja nie może być udzielona mikroprzedsiębiorcy i małemu przedsiębiorcy, którzy na podstawie ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców zawiesili wykonywanie działalności gospodarczej na okres obejmujący dzień 30 września 2020 r.
+2. Dotacja nie może być udzielona mikroprzedsiębiorcy i małemu przedsiębiorcy, którzy na podstawie ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców zawiesili wykonywanie działalności gospodarczej na okres obejmujący dzień 30 września 2020 r.
 
 3. Oceny spełnienia warunku, o którym mowa ust. 1, zakresie oznaczenia prowadzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych rejestrze REGON brzmieniu na dzień 30 września 2020 r.
 
@@ -290,11 +291,11 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 - **2)** złożył niezgodne ze stanem faktycznym przynajmniej jedno z oświadczeń, o których mowa ust. 4, lub nie spełniał innych warunków do udzielania dotacji;
 - **3)** nie poddał się kontroli, o której mowa ust. 16.
 
-12. W przypadku, o którym mowa ust. 11, okres zwrotu dotacji nie może być dłuższy niż 30 dni, liczonych od dnia doręczenia wezwania starosty. są obowiązani do zwrotu udzielonej dotacji.
+12. W przypadku, o którym mowa ust. 11, okres zwrotu dotacji nie może być dłuższy niż 30 dni, liczonych od dnia doręczenia wezwania starosty.
 
-14. Starosta dochodzi roszczeń z tytułu niezwróconych i nienależnie udzielonych dotacji.
+13. W przypadku śmierci przedsiębiorcy okresie, o którym mowa ust. 8, spadkobiercy przedsiębiorcy nie są obowiązani do zwrotu udzielonej dotacji.
 
-15. Przychód z tytułu udzielonej dotacji na zasadach określonych ust. 1 oraz przypadku, o którym mowa ust. 13, nie stanowi przychodu rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych.
+14. Starosta dochodzi roszczeń z tytułu niezwróconych i nienależnie udzielonych dotacji. sów o podatku dochodowym od osób prawnych.
 
 16. Starosta może przeprowadzić kontrolę wobec mikroprzedsiębiorcy albo małego przedsiębiorcy, któremu udzielono dotacji, okresie 3 lat liczonych od dnia udzielenia dotacji, zakresie:
 
@@ -327,9 +328,9 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 3. Czynności dokonane przez organ administracji publicznej okresie, o którym mowa ust. 1, są skuteczne, pod warunkiem poinformowania o nich stron.
 
-4. Ogłoszenie zawiadomienia, o którym mowa ust. 1, wyłącza wywodzenie wobec organu administracji publicznej środków prawnych dotyczących bezczynności, przewlekłości lub naruszenia prawa strony do rozpoznania sprawy bez nieuzasadnionej zwłoki. organu kolegialnego.
+4. Ogłoszenie zawiadomienia, o którym mowa ust. 1, wyłącza wywodzenie wobec organu administracji publicznej środków prawnych dotyczących bezczynności, przewlekłości lub naruszenia prawa strony do rozpoznania sprawy bez nieuzasadnionej zwłoki.
 
-6. Ponowne wstrzymanie biegu terminów załatwiania spraw, o którym mowa ust. 1, może nastąpić za zgodą organu wyższego stopnia.
+5. W przypadku organów kolegialnych czynności, o których mowa ust. 1 i 2, podejmuje przewodniczący organu kolegialnego.
 
 7. Do przepisów o milczącym załatwieniu sprawy przepisy ust. 1–6 stosuje się odpowiednio. Art. 15zzzzzn 2 . 1. W przypadku stwierdzenia uchybienia przez stronę okresie obowiązywania stanu epidemii ogłoszonego z powodu COVID-19 przewidzianych przepisami prawa administracyjnego terminów:
 
@@ -338,21 +339,23 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 - **3)** przedawnienia,
 - **4)** których niezachowanie powoduje wygaśnięcie lub zmianę praw rzeczowych oraz roszczeń i wierzytelności, a także popadnięcie opóźnienie,
 - **5)** zawitych, z niezachowaniem których ustawa wiąże ujemne skutki dla strony,
-- **6)** do dokonania przez podmioty lub jednostki organizacyjne podlegające wpisowi do właściwego rejestru czynności, które powodują obowiązek zgłoszenia do tego rejestru, a także terminów na wykonanie przez te podmioty obowiązków wynikających z przepisów o ich ustroju organ administracji publicznej zawiadamia stronę o uchybieniu terminu.
+- **6)** do dokonania przez podmioty lub jednostki organizacyjne podlegające wpisowi do właściwego rejestru czynności, które powodują obowiązek zgłoszenia do tego rejestru, a także terminów na wykonanie przez te podmioty obowiązków wynikających z przepisów o ich ustroju – organ administracji publicznej zawiadamia stronę o uchybieniu terminu.
 
 2. W zawiadomieniu, o którym mowa ust. 1, organ administracji publicznej wyznacza stronie termin 30 dni na złożenie wniosku o przywrócenie terminu.
 
-3. W przypadku, o którym mowa art. 58 § 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, prośbę o przywrócenie terminu należy wnieść terminie 30 dni od dnia ustania przyczyny uchybienia terminu.”;
+3. W przypadku, o którym mowa art. 58 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, prośbę o przywrócenie terminu należy wnieść terminie 30 dni od dnia ustania przyczyny uchybienia terminu.”;
 
 - **25)** art. 31a:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. W celu umożliwienia realizacji zadań, o których mowa art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1 oraz art. 15gga ust. 1, minister właściwy do spraw pracy dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokona zmiany planie finansowym Funduszu Gwarantowanych Świadczeń Pracowniczych na rok 2020 poprzez zwiększenie kosztów Funduszu Gwarantowanych Świadczeń Pracowniczych z przeznaczeniem na wypłatę świadczeń na dofinansowanie wynagrodzeń pracowników, o których mowa art. 15g ust. 1 i 1a, art. 15ga ust. 1, art. 15gg ust. 1 i art. 15gga ust. 1, oraz zmniejszenie stanu środków pieniężnych Funduszu Gwarantowanych Świadczeń Pracowniczych.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W celu umożliwienia realizacji zadań, o których mowa art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1 oraz art. 15gga ust. 1, minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokona zmiany planie finansowym Funduszu Gwarantowanych Świadczeń Pracowniczych na rok 2020 poprzez zwiększenie kosztów Funduszu Gwarantowanych Świadczeń Pracowniczych z przeznaczeniem na wypłatę świadczeń na dofinansowanie wynagrodzeń pracowników, o których mowa art. 15g ust. 1 i 1a, art. 15ga ust. 1, art. 15gg ust. 1 i art. 15gga ust. 1, oraz zmniejszenie stanu środków pieniężnych Funduszu Gwarantowanych Świadczeń Pracowniczych.”,
     - **b)** po ust. 1 dodaje się ust. 1a i 1b brzmieniu: „1a. Zadania, o których mowa art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1 oraz art. 15gga ust. 1, są finansowane od dnia 1 stycznia 2021 r. ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych zasilonego środkami Funduszu Przeciwdziałania COVID-19 lub środkami budżetu państwa, po dokonaniu odpowiednich zmian planie finansowym Funduszu Gwarantowanych Świadczeń Pracowniczych.
 
-1b. Zadania, o których mowa art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1 oraz art. 15gg ust. 1, są finansowane do dnia 30 czerwca 2021 r.”, cy na finansowanie zadań, o których mowa art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1 oraz art. 15gg ust. 1, niewykorzystane do dnia 30 czerwca 2021 r., podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych do dnia 31 sierpnia 2021 r.
+1b. Zadania, o których mowa art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1 oraz art. 15gg ust. 1, są finansowane do dnia 30 czerwca 2021 r.”,
 
-- **c)** ust. 2 otrzymuje brzmienie: „2. W celu umożliwienia realizacji zadań, o których mowa art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1 oraz art. 15gg ust. 1, minister właściwy do spraw pracy dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych może roku 2020 zaciągnąć nieoprocentowaną pożyczkę ze środków Funduszu Pracy.”,
+- **c)** ust. 2 otrzymuje brzmienie: „2. W celu umożliwienia realizacji zadań, o których mowa art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1 oraz art. 15gg ust. 1, minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych może roku 2020 zaciągnąć nieoprocentowaną pożyczkę ze środków Funduszu Pracy.”,
 - **d)** ust. 4 wyrazy „w art. 15g ust. 1 i 2, art. 15ga ust. 1 i 5 oraz art. 15gg ust. 1 i 2” zastępuje się wyrazami „w art. 15g ust. 1–2, art. 15g , art. 15ga ust. 1 i 5, art. 15gg ust. 1 i 2 oraz art. 15gga ust. 1”,
 - **e)** dodaje się ust. 6–8 brzmieniu: „6. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych przekazane wojewódzkim urzędom pracy na finansowanie zadań, o których mowa art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1 oraz art. 15gga ust. 1, niewykorzystane do dnia 31 grudnia 2020 r., pozostają na wyodrębnionych rachunkach bankowych wojewódzkich urzędów pracy z przeznaczeniem na finansowanie tych zadań roku 2021.
+
+7. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych przekazane wojewódzkim urzędom pracy na finansowanie zadań, o których mowa art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1 oraz art. 15gg ust. 1, ta Funduszu Gwarantowanych Świadczeń Pracowniczych do dnia 31 sierpnia 2021 r.
 
 8. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych przekazane wojewódzkim urzędom pracy latach 2020 i 2021 na finansowanie zadania, o którym mowa art. 15gga ust. 1, niewykorzystane okresie realizacji zadania, podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych terminie 2 miesięcy od zakończenia okresu realizacji zadania.”;
 
@@ -402,18 +405,18 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 - **31)** art. 31zp:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Wniosek o zwolnienie z obowiązku opłacania należności z tytułu składek, o których mowa art. 31zo, zwany dalej „wnioskiem o zwolnienie z opłacania składek”, płatnik składek przekazuje do Zakładu Ubezpieczeń Społecznych nie później niż:
 
-- **1)** do dnia 30 czerwca 2020 r. przypadku składek należnych za okres od dnia 1 marca 2020 r. do dnia 31 maja 2020 r.; okres od dnia 1 lipca 2020 r. do dnia 30 września 2020 r., z wyjątkiem pkt 3;
-- **3)** do dnia 15 stycznia 2021 r. przypadku składek, o których mowa art. 31zo ust. 8, należnych za okres od dnia 1 lipca 2020 r. do dnia 30 września 2020 r., jeżeli płatnik składek prowadzi, na dzień złożenia wniosku, działalność oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem 55.10.Z, 79.12.Z;
-- **4)** do dnia 31 stycznia 2021 r. przypadku składek, o których mowa art. 31zo ust. 10, należnych za okres od dnia 1 listopada 2020 r. do dnia 30 listopada 2020 r.”,
+- **1)** do dnia 30 czerwca 2020 r. – przypadku składek należnych za okres od dnia 1 marca 2020 r. do dnia 31 maja 2020 r.; okres od dnia 1 lipca 2020 r. do dnia 30 września 2020 r., z wyjątkiem pkt 3;
+- **3)** do dnia 15 stycznia 2021 r. – przypadku składek, o których mowa art. 31zo ust. 8, należnych za okres od dnia 1 lipca 2020 r. do dnia 30 września 2020 r., jeżeli płatnik składek prowadzi, na dzień złożenia wniosku, działalność oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem 55.10.Z, 79.12.Z;
+- **4)** do dnia 31 stycznia 2021 r. – przypadku składek, o których mowa art. 31zo ust. 10, należnych za okres od dnia 1 listopada 2020 r. do dnia 30 listopada 2020 r.”,
     - **b)** uchyla się ust. 1a,
-    - **c)** ust. 2: pkt 2b otrzymuje brzmienie: „2b) oświadczenie płatnika składek o rodzaju przeważającej działalności, o której mowa odpowiednio art. 31zo ust. 8 lub 10;”, po pkt 2c dodaje się pkt 2d brzmieniu: „2d) oświadczenie płatnika składek, o którym mowa art. 31zo ust. 10, potwierdzające, że przychód z działalności uzyskany listopadzie 2020 r. był niższy co najmniej o 40% stosunku do przychodu uzyskanego listopadzie 2019 r.;”,
+    - **c)** ust. 2: – pkt 2b otrzymuje brzmienie: „2b) oświadczenie płatnika składek o rodzaju przeważającej działalności, o której mowa odpowiednio art. 31zo ust. 8 lub 10;”, – po pkt 2c dodaje się pkt 2d brzmieniu: „2d) oświadczenie płatnika składek, o którym mowa art. 31zo ust. 10, potwierdzające, że przychód z działalności uzyskany listopadzie 2020 r. był niższy co najmniej o 40% stosunku do przychodu uzyskanego listopadzie 2019 r.;”,
     - **d)** ust. 3 wyrazy „2–2c” zastępuje się wyrazami „2–2d”;
 
 - **32)** art. 31zq:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Za marzec, kwiecień i maj 2020 r., przypadku, o którym mowa art. 31zo ust. 8 za lipiec, sierpień, wrzesień 2020 r., a przypadku, o którym mowa art. 31zo ust. 10 za listopad 2020 r., płatnik składek jest obowiązany przesyłać deklaracje rozliczeniowe lub imienne raporty miesięczne na zasadach i terminach określonych przepisach ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, chyba że zgodnie z tymi przepisami zwolniony jest z obowiązku ich składania.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Warunkiem zwolnienia z obowiązku opłacania należności z tytułu składek, o których mowa art. 31zo, jest przesłanie deklaracji rozliczeniowych lub imiennych raportów miesięcznych należnych za marzec, kwiecień i maj 2020 r. nie później niż do dnia 30 czerwca 2020 r. przypadku, o którym mowa art. 31zo ust. 8, należnych za lipiec, sierpień, wrzesień 2020 r. do dnia 31 października 2020 r., a przypadku, o którym mowa art. 31zo ust. 10, należnych za listopad 2020 r. do dnia 31 grudnia 2020 r., chyba że płatnik składek zwolniony jest z obowiązku ich składania.”;
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Za marzec, kwiecień i maj 2020 r., przypadku, o którym mowa art. 31zo ust. 8 – za lipiec, sierpień, wrzesień 2020 r., a przypadku, o którym mowa art. 31zo ust. 10 – za listopad 2020 r., płatnik składek jest obowiązany przesyłać deklaracje rozliczeniowe lub imienne raporty miesięczne na zasadach i terminach określonych przepisach ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, chyba że zgodnie z tymi przepisami zwolniony jest z obowiązku ich składania.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Warunkiem zwolnienia z obowiązku opłacania należności z tytułu składek, o których mowa art. 31zo, jest przesłanie deklaracji rozliczeniowych lub imiennych raportów miesięcznych należnych za marzec, kwiecień i maj 2020 r. nie później niż do dnia 30 czerwca 2020 r. przypadku, o którym mowa art. 31zo ust. 8, należnych za lipiec, sierpień, wrzesień 2020 r. – do dnia 31 października 2020 r., a przypadku, o którym mowa art. 31zo ust. 10, należnych za listopad 2020 r. – do dnia 31 grudnia 2020 r., chyba że płatnik składek zwolniony jest z obowiązku ich składania.”;
 
-- **33)** art. 31zu ust. 4 zdanie pierwsze otrzymuje brzmienie: „W przypadku gdy zostanie stwierdzone, że rozbieżności, o których mowa ust. 2, są wynikiem wprowadzenia błąd Zakładu Ubezpieczeń Społecznych, płatnik składek jest obowiązany do opłacenia należności z tytułu składek, o których mowa art. 31zo, za marzec, kwiecień i maj 2020 r., przypadku, o którym mowa art. 31zo ust. 8 za lipiec, sierpień i wrzesień 2020 r., a przypadku, o którym mowa art. 31zo ust. 10 za listopad 2020 r., wraz z odsetkami za zwłokę, terminie 30 dni od otrzymania decyzji o obowiązku opłacenia tych składek, wraz z odsetkami za zwłokę.”;
+- **33)** art. 31zu ust. 4 zdanie pierwsze otrzymuje brzmienie: „W przypadku gdy zostanie stwierdzone, że rozbieżności, o których mowa ust. 2, są wynikiem wprowadzenia błąd Zakładu Ubezpieczeń Społecznych, płatnik składek jest obowiązany do opłacenia należności z tytułu składek, o których mowa art. 31zo, za marzec, kwiecień i maj 2020 r., przypadku, o którym mowa art. 31zo ust. 8 – za lipiec, sierpień i wrzesień 2020 r., a przypadku, o którym mowa art. 31zo ust. 10 – za listopad 2020 r., wraz z odsetkami za zwłokę, terminie 30 dni od otrzymania decyzji o obowiązku opłacenia tych składek, wraz z odsetkami za zwłokę.”;
 - **34)** po art. 31zu dodaje się art. 31zua i art. 31zub brzmieniu: „Art. 31zua. Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazany płatnik składek, o którym mowa art. 31zo ust. 8 lub 10, na wskazany dzień prowadził pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007 jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio art. 31zo ust. 8 albo 10. Art. 31zub. Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez płatnika składek we wniosku o zwolnienie z opłacania składek na zasadach określonych rozdziale 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.”; „Art. 31zy 1. Rada Ministrów może, celu przeciwdziałania COVID-19, drodze rozporządzenia, określić inne okresy zwolnienia z tytułu nieopłaconych składek, niż określone art. 31zo ust. 1–3 dla wszystkich albo niektórych płatników składek, którzy byli uprawnieni do zwolnienia z tytułu nieopłaconych składek na podstawie art. 31zo ust. 1–3, lub objąć tym zwolnieniem innych płatników składek, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa ust. 1, może ustalać krąg płatników składek zwolnionych z tytułu nieopłaconych składek, poprzez określenie:
@@ -444,7 +447,7 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 - **36)** art. 31zy dodaje się ust. 4 brzmieniu: „4. Przy ustalaniu podstawy wymiaru zasiłku chorobowego przypadającego okresie ciąży oraz zasiłku macierzyńskiego osobom, o których mowa ust. 1–3:
 - **1)** warunku, o którym mowa ust. 1, nie stosuje się;
 - **2)** nie uwzględnia się okresów obniżonego wymiaru czasu pracy lub mniej korzystnych warunków zatrudnienia, o których mowa ust. 1–3.”;
-- **37)** po art. 31zy dodaje się art. 31zy brzmieniu: „Art. 31zy . 1. Na wniosek zleceniobiorcy wykonującego umowę agencyjną, umowę zlecenia lub inną umowę o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. Kodeks cywilny stosuje się przepisy dotyczące zlecenia, zwaną dalej „umową zlecenia”, uzyskującego z wykonywania tej umowy zlecenia przychód rozumieniu przepisów o podatku dochodowym od osób fizycznych z tytułów, o których mowa art. 15zs ust. 1, Zakład Ubezpieczeń Społecznych zwalnia zleceniodawcę z obowiązku obliczania, potrącania z dochodu zleceniodarnościowy i Fundusz Gwarantowanych Świadczeń Pracowniczych, zwanego dalej „zwolnieniem z obowiązku naliczania składek”, należnych z tytułu wykonywania tej umowy zlecenia za okres od dnia 1 stycznia 2021 r. do dnia 30 kwietnia 2021 r.
+- **37)** po art. 31zy dodaje się art. 31zy brzmieniu: „Art. 31zy . 1. Na wniosek zleceniobiorcy wykonującego umowę agencyjną, umowę zlecenia lub inną umowę o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia, zwaną dalej „umową zlecenia”, uzyskującego z wykonywania tej umowy zlecenia przychód rozumieniu przepisów o podatku dochodowym od osób fizycznych z tytułów, o których mowa art. 15zs ust. 1, darnościowy i Fundusz Gwarantowanych Świadczeń Pracowniczych, zwanego dalej „zwolnieniem z obowiązku naliczania składek”, należnych z tytułu wykonywania tej umowy zlecenia za okres od dnia 1 stycznia 2021 r. do dnia 30 kwietnia 2021 r.
 
 2. Zwolnienie z obowiązku naliczania składek przysługuje, jeżeli:
 
@@ -464,12 +467,12 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 - **1)** dane zleceniobiorcy:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a jeżeli nie nadano tego numeru serię i numer dowodu osobistego albo paszportu,
+    - **b)** numer PESEL, a jeżeli nie nadano tego numeru – serię i numer dowodu osobistego albo paszportu,
     - **c)** adres do korespondencji;
 
 - **2)** dane zleceniodawcy:
     - **a)** imię i nazwisko, nazwę skróconą,
-    - **b)** numer NIP, a jeżeli nie nadano tego numeru numer PESEL i REGON;
+    - **b)** numer NIP, a jeżeli nie nadano tego numeru – numer PESEL i REGON;
 
 - **3)** oświadczenie zleceniobiorcy potwierdzające:
     - **a)** datę zawarcia i okres, na który została zawarta umowa zlecenia,
@@ -480,7 +483,9 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 - **4)** oświadczenie zleceniobiorcy o świadomości, że nienaliczone składki na ubezpieczenia społeczne nie będą uwzględniane świadczeniach z ubezpieczeń społecznych.
 
-8. Oświadczenie, o którym mowa ust. 7 pkt 3, zleceniobiorca składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniu jest zawarta klauzula następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. informacyjnego utworzonego systemie teleinformatycznym Zakładu Ubezpieczeń Społecznych, formie dokumentu elektronicznego opatrzonego podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo wykorzystując sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład Ubezpieczeń Społecznych systemie teleinformatycznym.
+8. Oświadczenie, o którym mowa ust. 7 pkt 3, zleceniobiorca składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniu jest zawarta klauzula następującej treści: „Jestem świadomy
+
+9. Wniosek o zwolnienie z obowiązku naliczania składek może być złożony wyłącznie za pomocą profilu informacyjnego utworzonego systemie teleinformatycznym Zakładu Ubezpieczeń Społecznych, formie dokumentu elektronicznego opatrzonego podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo wykorzystując sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład Ubezpieczeń Społecznych systemie teleinformatycznym.
 
 10. O złożeniu wniosku o zwolnienie z obowiązku naliczania składek zleceniobiorca informuje niezwłocznie zleceniodawcę.
 
@@ -492,7 +497,7 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 14. Jeżeli zwolnienie z obowiązku naliczenia składek danym miesiącu dotyczy tylko części przychodu z wykonywania umowy zlecenia, od pozostałej części przychodu zleceniodawca obowiązany jest obliczyć, potrącić z dochodu zleceniobiorcy i opłacić składki terminie i na zasadach określonych ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
-15. Odmowa zwolnienia z obowiązku naliczania składek następuje drodze decyzji, od której zleceniobiorcy przysługuje prawo wniesienia wniosku do Prezesa Zakładu o ponowne rozpatrzenie sprawy, na zasadach dotyczących decyzji wydanej pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego dotyczące odwołań od decyzji oraz ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+15. Odmowa zwolnienia z obowiązku naliczania składek następuje drodze decyzji, od której zleceniobiorcy przysługuje prawo wniesienia wniosku do Prezesa Zakładu o ponowne rozpatrzenie sprawy, na zasadach dotyczących decyzji wydanej pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące odwołań od decyzji oraz ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 16. Zleceniobiorca, którego dotyczy zwolnienie z obowiązku naliczania składek na ubezpieczenie zdrowotne, i zgłoszeni przez niego do tego ubezpieczenia członkowie rodziny zachowują prawo do świadczeń określonych ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
@@ -506,9 +511,9 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 21. W razie nieopłacenia terminie należnych składek, o których mowa ust. 20, naliczane są odsetki za zwłokę, a należności z tytułu tych składek podlegają przymusowemu dochodzeniu na podstawie przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
-22. Skutki finansowe wysokości zwolnienia z obowiązku naliczania składek na ubezpieczenia społeczne oraz składek na ubezpieczenie zdrowotne są finansowane ze środków Funduszu, o którym mowa art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, lub formie dotacji z budżetu państwa.
+22. Skutki finansowe wysokości zwolnienia z obowiązku naliczania składek na ubezpieczenia społeczne oraz składek na ubezpieczenie zdrowotne są finansowane ze środków Funduszu, o którym mowa art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, lub formie dotacji z budżetu państwa. nych.”;
 
-23. Do zamówień na usługi i dostawy udzielane przez Zakład Ubezpieczeń Społecznych związku z realizacją zadań związanych ze zwolnieniem z obowiązku naliczania składek nie stosuje się przepisów o zamówieniach publicznych.”; „Art. 31zzm. 1. Od dnia 1 stycznia 2021 r. do dnia 31 grudnia 2021 r. nie pobiera się opłaty targowej, o której mowa art. 15 ust. 1 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2019 r. poz. 1170).
+- **38)** po art. 31zzl dodaje się art. 31zzm–31zzr brzmieniu: „Art. 31zzm. 1. Od dnia 1 stycznia 2021 r. do dnia 31 grudnia 2021 r. nie pobiera się opłaty targowej, o której mowa art. 15 ust. 1 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2019 r. poz. 1170).
 
 2. Z tytułu niepobierania opłaty, o którym mowa ust. 1, jednostkom samorządu terytorialnego przysługuje rekompensata ze środków Funduszu Przeciwdziałania COVID-19, o którym mowa art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
 
@@ -522,19 +527,19 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 2. Wsparcie, o którym mowa art. 15zzb–15zze oraz art. 15zze , może być udzielane do dnia 30 czerwca 2021 r. Art. 31zzo. W przypadku gdy dokonano zwrotu otrzymanego dofinansowania, o którym mowa art. 15zzc ust. 1, części lub całości, związku ze śmiercią przedsiębiorcy okresie, na który zostało przyznane dofinansowanie, przekazane ten sposób środki pieniężne podlegają zwrotowi bez odsetek na wniosek osoby, która dokonała zwrotu dofinansowania. Zwrot następuje terminie 30 dni od dnia doręczenia staroście wniosku o zwrot środków. Art. 31zzp. W przypadku gdy dokonano spłaty pożyczki, o której mowa art. 15zzd ust. 1, części lub całości, związku ze śmiercią przedsiębiorcy okresie, o którym mowa art. 15zzd ust. 7, przekazane ten sposób środki pieniężne podlegają zwrotowi bez odsetek na wniosek osoby, która dokonała spłaty pożyczki. Zwrot następuje terminie 30 dni od dnia doręczenia staroście wniosku o zwrot środków. Art. 31zzq. Na rok 2020 nie sporządza się Krajowego Planu Działań na Rzecz Zatrudnienia, o którym mowa art. 3 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. Art. 31zzr. Główny Urząd Statystyczny jest obowiązany przekazać do Zakładu Ubezpieczeń Społecznych, nie później niż terminie 7 dni od dnia wejścia życie ustawy z dnia 9 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, wykaz płatników składek i osób, które na dzień 30 września 2020 r. miały zarejestrowaną pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami, o których mowa art. 15zs ust. 1 i art. 31zo ust. 10. Wykaz zawiera imię i nazwisko albo nazwę skróconą płatnika składek, NIP i REGON oraz kod PKD.”;
 
-- **39)** art. 36 uchyla się ust. 5.
+- **39)** art. 36 uchyla się ust. 5. z późn. zm. ) art. 52m pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) jednorazowe dodatkowe świadczenie postojowe, o którym mowa art. 15zs ustawy o COVID-19.”.
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm. ) art. 52m pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) jednorazowe dodatkowe świadczenie postojowe, o którym mowa art. 15zs ustawy o COVID-19.”. 1086 i 1339) art. 68a:
+**Art. 3.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2019 r. poz. 667 oraz z 2020 r. poz. 568, 1086 i 1339) art. 68a:
 
 **Art. 4.** W ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1252) art. 4:
 
 **Art. 5.** W ustawie z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2020 r. poz. 2011) wprowadza się następujące zmiany:
+
+**Art. 6.** W ustawie z dnia 31 lipca 2019 r. o zmianie niektórych ustaw celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r. poz. 568 i 875) art. 70 ust. 1 otrzymuje brzmienie: „1. Przepisów art. 385 , art. 556 , art. 556 i art. 576 ustawy zmienianej art. 1 nie stosuje się do umów zawartych przed dniem 1 stycznia 2021 r. oraz do umów zawieranych przez przedsiębiorców będących osobami fizycznymi, oparciu o które przedsiębiorcy otrzymują wsparcie pochodzące ze środków publicznych rozumieniu art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm. ), środków Europejskiego Banku Inwestycyjnego i Europejskiego Funduszu Inwestycyjnego lub innych środków o podobnym charakterze.”.
 
 **Art. 7.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ) po art. 69 dodaje się art. 69a brzmieniu: „Art. 69a. 1. Upoważnia się Bank Gospodarstwa Krajowego do udzielania podmiotom uprawnionym do otrzymania środków z Funduszu, zgodnie z przepisami art. 65 ust. 5 pkt 1 i 4 oraz ust. 6a, zapewnienia, że realizowane przez te jednostki zadania zostaną sfinansowane (promesa), do wysokości środków ujętych planie finansowym Funduszu przeznaczonych na udzielanie i realizację promes. 2. Podstawą udzielenia promesy jest dokument potwierdzający przyjęcie zadania do finansowania ze środków Funduszu sporządzony przez Prezesa Rady Ministrów lub osobę upoważnioną do składania dyspozycji wypłaty ze środków Funduszu, o której mowa art. 65 ust. 3. 3. Bank realizuje zobowiązania wynikające z udzielonych promes do wysokości środków przeznaczonych na ten cel planie finansowym Funduszu. 4. Przy sporządzaniu, zgodnie z przepisami art. 65 ust. 21 i 24, planu finansowego Funduszu roku bieżącym i kolejnych latach obrachunkowych, uwzględnia się nim środki wysokości nie mniejszej niż suma kwot wymagalnych danym roku zobowiązań wynikających z udzielonych promes. 5. W razie likwidacji Funduszu za wymagalne zobowiązania wynikające z udzielonych promes odpowiada Skarb Państwa. 6. Szczegółowe zasady udzielania przez Bank Gospodarstwa Krajowego promesy, o której mowa ust. 1, określa umowa, o której mowa art. 65 ust. 2.”.
 
 **Art. 8.** W ustawie z dnia 14 maja 2020 r. o zmianie niektórych ustaw zakresie działań osłonowych związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875 i 1086) art. 58:
 
 **Art. 9.** Podstawa wymiaru zasiłku chorobowego przypadającego okresie ciąży oraz zasiłku macierzyńskiego przysługująca osobom, o których mowa art. 31zy ust. 1–3 ustawy zmienianej art. 1, za okres przed dniem wejścia życie niniejszej ustawy, podlega ponownemu przeliczeniu, jeżeli świadczenie wypłacone na podstawie dotychczasowych przepisów jest niższe niż świadczenie ustalone zgodnie z art. 31zy ust. 4 ustawy zmienianej art. 1. Przeliczenie podstawy wymiaru świadczeń następuje na wniosek świadczeniobiorcy.
-
-**Art. 10.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia:
 

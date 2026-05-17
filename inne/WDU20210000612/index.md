@@ -8,9 +8,12 @@ pos: 612
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 kwietnia 2021 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu prac podwodnych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 marca 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000612) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/612/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 marca 2021 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu prac podwodnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 października 2003 r. o wykonywaniu prac podwodnych (Dz. U. z 2020 r. poz. 397), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 lutego 2021 r.
 2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 15 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U.
 poz. 1337), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.

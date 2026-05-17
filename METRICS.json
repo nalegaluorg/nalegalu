@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-17T16:42:11Z",
+  "acts": {
+    "published": 12944,
+    "rejected": 1233,
+    "total_in_db": 13987
+  },
+  "content": {
+    "total_body_chars": 425129475,
+    "total_articles": 188022,
+    "avg_body_chars": 32843,
+    "avg_articles": 14.5
+  },
+  "sources": {
+    "isap-pdf": 12394,
+    "eli-html": 504,
+    "unknown": 46
+  },
+  "domains": {
+    "inne": 12282,
+    "prawo-podatkowe": 167,
+    "prawo-karne": 110,
+    "prawo-cywilne": 97,
+    "prawo-pracy": 48,
+    "prawo-administracyjne": 46,
+    "prawo-ochrony-srodowiska": 46,
+    "prawo-budowlane": 30,
+    "prawo-energetyczne": 21,
+    "prawo-bankowe": 21,
+    "prawo-handlowe": 21,
+    "prawo-zamowien": 19,
+    "prawo-upadlosciowe": 14,
+    "prawo-ochrony-danych": 8,
+    "prawo-morskie": 6,
+    "prawo-telekomunikacyjne": 6,
+    "prawo-konstytucyjne": 2
+  },
+  "quality": {
+    "quality_gate_blocked": 1043,
+    "rejected_scans": 99,
+    "rejected_other": 1134
+  }
+}

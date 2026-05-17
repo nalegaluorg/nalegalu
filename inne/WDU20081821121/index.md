@@ -8,9 +8,12 @@ pos: 1121
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 19 września 2008 r. o zmianie ustawy - Prawo o aktach stanu cywilnego oraz ustawy o opłacie skarbowej
+# o zmianie ustawy – Prawo o aktach ustawy o opłacie skarbowej
+
+*USTAWA z dnia 19 września 2008 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +27,21 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081821121) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1121/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 września 1986 r. Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. 161, poz. 1688 oraz z2007 r. 21, poz. 125 iNr 181, poz. 1287) wprowadza się następujące zmiany:
+**Art. 1.** z dnia 29 września 1986 r. – Prawo o aktach (Dz. U. z 2004 r. Nr 161, poz. 1688 z 2007 r. Nr 21, poz. 125 i Nr 181, poz. 1287) wprowadza następujące zmiany:
 
-**Art. 6b.** Kierownik urzędu stanu cywilnego współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych wzakresie niezbędnym do realizacji jego ustawowych zadań.
+**Art. 6b.** Kierownik współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego ustawowych zadań.
 
-**Art. 6c.** W zakresie nieuregulowanym w niniejszej ustawie do naboru na stanowiska, o których mowa w art. 6 ust. 3—5, oraz do osób zatrudnionych na tych stanowiskach stosuje się przepisy z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. 142, poz. 1593, zpóên. zm. ).”.
+**Art. 6c.** zakresie nieuregulowanym w niniejszej do naboru na stanowiska, o których mowa w art. 6 ust. 3-5, do osób zatrudnionych na tych stanowiskach stosuje przepisy ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. Nr 142, poz. 1593, z późn. zm. ).”.
 
-**Art. 2.** W załączniku do z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. 225, poz. 1635, z póên. zm. ) w części I ust. 4 otrzymuje brzmienie: ——————— 1 2 3 4 Ń4. Pozostałe decyzje wydawane przez kierownika urzędu 39 zł stanu cywilnego uwzględniające wnioski stron”
+**Art. 2.** załączniku do ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm. ) w części I ust. 4 otrzymuje brzmienie: 1 2 3 4 „4. Pozostałe decyzje wydawane przez kierow- 39 zł nika uwzględniające wnioski stron”.
 
 **Art. 3.**
 
-1. Osoby powołane na stanowisko kierownika urzędu stanu cywilnego lub zastępcy kierownika urzędu stanu cywilnego, od dnia 7 sierpnia 2005 r. do dnia wejścia w życie niniejszej ustawy, uchwałą rady gminy, na podstawie art. 6 ust. 3 ustawy, októrej mowa w art. 1, bez przeprowadzenia naboru w trybie nika urzędu stanu cywilnego lub zastępcy kierownika Art. 5. Ustawa wchodzi wżycie po upływie 14 dni urzędu stanu cywilnego wdniu wejścia wżycie niniej- od dnia ogłoszenia. szej ustawy.
+1. Osoby powołane na stanowisko lub zastępcy cywilnego, od dnia 7 sierpnia 2005 r. do dnia wejścia w życie niniejszej ustawy, uchwałą rady gminy, na podstawie art. 6 ust. 3 ustawy, o której mowa w art. 1, bez przeprowadzenia naboru w trybie art. 3a-3d ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych, uważa za zatrudnione zgodnie z przepisami tej ustawy.
 
-**Art. 4.** Czynności dokonane w okresie od dnia 7 sierpnia 2005 r. do dnia wejścia w życie niniejszej Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+2. Wymogu określonego w art. 6a ust. 1 pkt 5 ustawy, o której mowa w art. 1, nie stosuje przez 6 lat od dnia wejścia w życie niniejszej ustawy w stosunku do osób, które są zatrudnione na stanowisku lub zastępcy w dniu wejścia w życie niniejszej ustawy.
+
+**Art. 4.** Czynności dokonane w okresie od dnia 7 sierpnia 2005 r. do dnia wejścia w życie niniejszej ustawy przez lub zastępcę cywilnego, powołanych uchwałą rady gminy na podstawie art. 6 ust. 3 ustawy, o której mowa w art. 1, bez przeprowadzenia naboru w trybie art. 3a-3d ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych, uznaje za dokonane przez uprawniony organ.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

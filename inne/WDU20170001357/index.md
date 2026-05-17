@@ -8,9 +8,12 @@ pos: 1357
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lipca 2017 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 22 czerwca 2017 sprawie ogłoszenia jednolitego tekstu ustawy o przekształcaniu jednoosobowych spółek Skarbu Pa ń stwa prowadz ą cych działalno ść wykorzystaniem dóbr kultury pa ń stwowe instytucje kultury
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2016 poz. 296 i 1579 oraz 2017 poz. 1139) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 15 stycznia 2015 o przekształcaniu jednoosobowych spółek Skarbu Państwa prowadzących działalność wykorzystaniem dóbr kultury państwowe instytucje kultury (Dz. U.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 22 czerwca 2017 sprawie ogłoszenia jednolitego tekstu ustawy o przekształcaniu jednoosobowych spółek Skarbu Państwa prowadzących działalność wykorzystaniem dóbr kultury państwowe instytucje kultury*
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +27,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001357) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1357/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2016 poz. 296 i 1579 oraz 2017 poz. 1139) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 15 stycznia 2015 o przekształcaniu jednoosobowych spółek Skarbu Państwa prowadzących działalność wykorzystaniem dóbr kultury państwowe instytucje kultury (Dz. U.
 poz. 337), uwzględnieniem zmian wprowadzonych:
-1) ustawą dnia 9 czerwca 2016 o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. poz. 1202),
-2) ustawą dnia 16 grudnia 2016 Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260),
+1) ustawą dnia 9 czerwca 2016 o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U.
+poz. 1202),
+2) ustawą dnia 16 grudnia 2016 Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz.
+U. poz. 2260),
 3) ustawą dnia 11 maja 2017 o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U.
 poz. 1089) oraz zmian wynikających przepisów ogłoszonych przed dniem 21 czerwca 2017
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 14 i art. 15 ustawy dnia 15 stycznia 2015 o przekształcaniu jednoosobowych spółek Skarbu Państwa prowadzących działalność wykorzystaniem dóbr kultury państwowe instytucje kultury (Dz. U. poz. 337), które stanowią: „Art. 14. W ustawie dnia 16 lipca 1987 o państwowych instytucjach filmowych (Dz. U. 2007 Nr 102, poz. 710, 2009 Nr 98, poz. 817 oraz 2011 Nr 126, poz. 713) wprowadza się następujące zmiany:
 1) art. 27a ust. 1:
 a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Do państwowych instytucji filmowych oraz spółek powstałych wyniku komercjalizacji państwowych instytucji filmowych stosuje się odpowiednio przepisy o komercjalizacji i prywatyzacji, tym że:”,
-b) pkt 2 i 3 otrzymują brzmienie: „2) razie podjęcia decyzji o prywatyzacji państwowej instytucji filmowej albo spółki powstałej wyniku komercjalizacji pa ń stwowej instytucji filmowej zasoby sztuki filmowej zgromadzone tej instytucji albo spółce staj ą si ę nieodpłatnie własno ś ci ą Filmoteki Narodowej i podlegaj ą przekazaniu jej;
-3) prywatyzacji nie podlegaj ą autorskie prawa maj ą tkowe do filmów wyprodukowanych do dnia 31 grudnia 1989 przysługuj ą ce pa ń stwowej instytucji filmowej albo spółce powstałej wyniku komercjalizacji pa ń stwowej instytucji filmowej; razie prywatyzacji prawa te staj ą si ę nieodpłatnie „7) na wniosek ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego lub ministra właściwego do spraw Skarbu Państwa, Rada Ministrów może formie uchwały udzielić zgody na inny niż publiczny tryb zbycia udziałów lub akcji skomercjalizowanych państwowych instytucji filmowych poprzez ich nieodpłatne wniesienie do Polskiego Instytutu Sztuki Filmowej, który ma obowiązek je zbyć terminie 12 miesięcy od dnia wniesienia, tym nieodpłatnie na rzecz jednostki samorządu terytorialnego celu prowadzenia działalności kulturalnej.”;
-2) po art. 27a dodaje się art. 27b brzmieniu: „Art. 27b. Do likwidacji lub upadłości spółki powstałej wyniku komercjalizacji państwowej instytucji filmowej stosuje się, odpowiednio ustawę dnia 15 września 2000 Kodeks spółek handlowych (Dz. U.
-2013 poz. 1030, późn. zm. ) albo ustawę dnia 28 lutego 2003 Prawo upadłościowe i naprawcze (Dz. U. 2015 poz. 233), tym że dniem postawienia stan likwidacji lub ogłoszenia upadłości:
+b) pkt 2 i 3 otrzymują brzmienie: „2) razie podjęcia decyzji o prywatyzacji państwowej instytucji filmowej albo spółki powstałej wyniku komercjalizacji państwowej instytucji filmowej zasoby sztuki filmowej zgromadzone tej instytucji albo spółce stają się nieodpłatnie własnością Filmoteki Narodowej i podlegają przekazaniu jej;
+3) prywatyzacji nie podlegają autorskie prawa majątkowe do filmów wyprodukowanych do dnia 31 grudnia 1989 przysługujące państwowej instytucji filmowej albo spółce powstałej wyniku komercjalizacji państwowej instytucji filmowej; razie prywatyzacji prawa te stają się nieodpłatnie własnością Polskiego Instytutu Sztuki Filmowej;”,
+c) pkt 7 otrzymuje brzmienie: „7) na wniosek ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego lub ministra właściwego do spraw Skarbu Państwa, Rada Ministrów może formie uchwały udzielić zgody na inny niż publiczny tryb zbycia udziałów lub akcji skomercjalizowanych państwowych instytucji filmowych poprzez ich nieodpłatne wniesienie do Polskiego Instytutu Sztuki Filmowej, który ma obowiązek je zbyć terminie 12 miesięcy od dnia wniesienia, tym nieodpłatnie na rzecz jednostki samorządu terytorialnego celu prowadzenia działalności kulturalnej.”;
+2) po art. 27a dodaje się art. 27b brzmieniu: filmowej stosuje się, odpowiednio ustawę dnia 15 września 2000 Kodeks spółek handlowych (Dz. U.
+2013 poz. 1030, późn. zm. ) albo ustawę dnia 28 lutego 2003 Prawo upadłościowe i naprawcze (Dz. U.
+2015 poz. 233), tym że dniem postawienia stan likwidacji lub ogłoszenia upadłości:
 1) jednoosobowej spółki Skarbu Państwa:
 a) zasoby sztuki filmowej zgromadzone tej spółce stają się nieodpłatnie własnością Filmoteki Narodowej i podlegają jej przekazaniu,
 b) autorskie prawa majątkowe przysługujące tej spółce stają się nieodpłatnie własnością Polskiego Instytutu Sztuki Filmowej;
@@ -70,7 +76,8 @@ b) autorskie prawa majątkowe przysługujące tej spółce stają się nieodpła
 
 - **1)** uzasadnienie przekształcenia spółki państwową instytucję kultury ze względu na cele, o których mowa art. 3;
 - **2)** odpis aktu komercjalizacji, na podstawie którego powstała spółka;
-- **3)** odpis statutu, aktu zało ż ycielskiego albo umowy spółki; zatwierdzenia;
+- **3)** odpis statutu, aktu założycielskiego albo umowy spółki;
+- **4)** odpis ostatniego rocznego sprawozdania finansowego spółki wraz uchwałą walnego zgromadzenia sprawie jego zatwierdzenia;
 - **5)** odpis ostatniego sprawozdania działalności spółki wraz uchwałą walnego zgromadzenia sprawie jego zatwierdzenia;
 - **6)** odpis ostatniej uchwały walnego zgromadzenia sprawie podziału zysku netto albo pokrycia straty;
 - **7)** odpis sprawozdania badania sprawozdania, o którym mowa pkt 4, o ile podlegało ono badaniu;
@@ -106,7 +113,9 @@ b) autorskie prawa majątkowe przysługujące tej spółce stają się nieodpła
 
 1. Sąd rejestrowy dokonuje urzędu wykreślenia przekształcanej spółki rejestru przedsiębiorców, po przedłożeniu przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego wypisu i odpisów dokumentów, o których mowa art. 8 ust. 1 i 2.
 
-2. Z dniem wykreślenia przekształcanej spółki rejestru przedsiębiorców, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dokonuje wpisu pa ń stwowej instytucji kultury do rejestru instytucji kultury. ry do rejestru instytucji kultury, zwanym dalej „dniem przekształcenia”.
+2. Z dniem wykreślenia przekształcanej spółki rejestru przedsiębiorców, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dokonuje wpisu państwowej instytucji kultury do rejestru instytucji kultury.
+
+3. Przekształcana spółka staje się państwową instytucją kultury dniem dokonania wpisu państwowej instytucji kultury do rejestru instytucji kultury, zwanym dalej „dniem przekształcenia”.
 
 4. W przypadku dokonania wpisu państwowej instytucji kultury do rejestru instytucji kultury po dniu wykreślenia przekształcanej spółki rejestru przedsiębiorców, wpis ten ma moc wsteczną od dnia wykreślenia przekształcanej spółki rejestru przedsiębiorców.
 
@@ -144,6 +153,8 @@ b) autorskie prawa majątkowe przysługujące tej spółce stają się nieodpła
 - **2)** udziela bądź odmawia udzielenia członkom organów przekształcanej spółki absolutorium wykonania przez nich obowiązków okresie poprzedzającym jej wykreślenie rejestru przedsiębiorców.
 
 2. Sprawozdanie finansowe, o którym mowa ust. 1 pkt 1, podlega badaniu przez biegłego rewidenta.
+
+**Art. 14.** (pominięty)
 
 **Art. 15.** (pominięty)
 

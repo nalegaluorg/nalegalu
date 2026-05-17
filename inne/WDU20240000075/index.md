@@ -8,9 +8,12 @@ pos: 75
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 stycznia 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 stycznia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000075) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/75/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 stycznia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 grudnia 2021 r. wsparciu przygotowania III Igrzysk Europejskich w 2023 roku (Dz. U. z 2023 r.
 poz. 851), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 kwietnia 2023 r. zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i zmianie ustawy Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 stycznia 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 ustawy z dnia 14 kwietnia 2023 r. zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i zmianie ustawy Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053), który stanowi: „Art. 12. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
@@ -164,7 +165,7 @@ wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
 - **5)** ostateczny termin wykonania zadań powierzonych spółce celowej, z uwzględnieniem zdarzeń nadzwyczajnych;
 - **6)** łączną wartość publicznych środków finansowych przewidzianych na przygotowanie i realizację przedsięwzięć powierzonych spółce celowej, z podaniem warunków, terminów i sposobów ich przekazywania wykonawcom dostaw, usług i robót budowlanych niezbędnych do przygotowania i realizacji tych przedsięwzięć;
 - **7)** zakres czynności, jakie spółka celowa może powierzyć, w drodze umowy, do wykonania właściwym przedsiębiorcom i warunki tego powierzenia;
-- **8)** opis nieruchomości i innych rzeczy przeznaczonych do wykonania zadań objętych przedsięwzięciami i powierzonych spółce celowej; przedsięwzięć powierzonych spółce celowej;
+- **8)** opis nieruchomości i innych rzeczy przeznaczonych do wykonania zadań objętych przedsięwzięciami i powierzonych spółce celowej;
 - **10)** sposób zwrotu nieruchomości i innych rzeczy wykorzystanych i niewykorzystanych na przygotowanie lub realizację przedsięwzięć oraz dokumentacji dotyczącej przygotowania lub realizacji tych przedsięwzięć po wykonaniu zadań powierzonych spółce celowej;
 - **11)** wysokość, terminy i warunki wypłacania spółce celowej wynagrodzenia oraz warunki jego zwiększenia i zmniejszenia;
 - **12)** zasady odpowiedzialności stron w razie niewykonania w całości albo części oraz nienależytego wykonania umowy;
@@ -221,7 +222,7 @@ wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
 
 3. Właściwe organy, na wniosek podmiotu realizującego przedsięwzięcie, wydają opinie, których mowa w ust. 2 pkt 4, w terminie nie dłuższym niż 14 dni od dnia otrzymania wniosku wydanie opinii. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do wniosku wydanie decyzji ustaleniu lokalizacji przedsięwzięcia.
 
-4. Opinie, których mowa w ust. 2 pkt 4, zastępują uzgodnienia, pozwolenia, opinie bądź stanowiska właściwych organów wymagane odrębnymi przepisami. od dnia otrzymania wystąpienia podmiotu realizującego przedsięwzięcie uzgodnienie.
+4. Opinie, których mowa w ust. 2 pkt 4, zastępują uzgodnienia, pozwolenia, opinie bądź stanowiska właściwych organów wymagane odrębnymi przepisami.
 
 6. O wszczęciu postępowania wydanie decyzji ustaleniu lokalizacji przedsięwzięcia wojewoda zawiadamia w drodze obwieszczeń w urzędach gmin i w urzędzie wojewódzkim, w prasie lokalnej oraz w Biuletynie Informacji Publicznej na stronach podmiotowych urzędu wojewódzkiego oraz urzędu gminy właściwego dla lokalizacji przedsięwzięcia. Zawiadomienie uważa się za dokonane po upływie 14 dni od dnia, w którym nastąpiło obwieszczenie w urzędzie wojewódzkim.
 

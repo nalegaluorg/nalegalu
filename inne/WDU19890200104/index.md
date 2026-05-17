@@ -8,6 +8,7 @@ pos: 104
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwarantowanej przepisami Konstytucji wolności zrzeszania się zgodnie z Powszechną Deklaracją Praw Człowieka i Międzynarodowym Paktem Praw Obywatelskich i Politycznych, umożliwienia obywatelom równego, bez względu na przekonania, prawa czynnego uczestniczenia w życiu publicznym i wyrażania zróżnicowanych poglądów oraz realizacji indywidualnych zainteresowań, a także uwzględniając tradycje i powszechnie uznawany dorobek ruchu stowarzyszeniowego, stanowi się, co następuje:

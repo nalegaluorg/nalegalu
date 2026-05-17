@@ -8,6 +8,7 @@ pos: 93
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # Kodeks cywilny
@@ -23,7 +24,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1964-04-23 |
 | Data wydania | 1964-05-18 |
-| Ostatnia zmiana | 2026-04-13 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1964/93/text.pdf) |
 
 # KSIĘGA PIERWSZA
@@ -4401,7 +4402,9 @@ domain: null
 
 § 1. Przez umowę spółki wspólnicy zobowiązują się dążyć do osiągnięcia wspólnego celu gospodarczego przez działanie w sposób oznaczony, w szczególności przez wniesienie wkładów.
 
-§ 2. Umowa spółki powinna być stwierdzona pismem.
+§ 2. Umowa spółki powinna być stwierdzona pismem. <§ 3. Jeżeli przepis ustawy tak stanowi, zawarcie umowy spółki lub wykonanie innej czynności dotyczącej spółki może nastąpić także z wykorzystaniem wzoru umowy lub innych wzorów udostępnionych w systemie teleinformatycznym Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+
+§ 4. Czynności, o których mowa w § 1, są wykonywane w systemie teleinformatycznym Centralnej Ewidencji i Informacji o Działalności Gospodarczej w sposób określony w przepisach o Centralnej Ewidencji i Informacji o Działalności Gospodarczej.>
 
 **Art. 861.**
 

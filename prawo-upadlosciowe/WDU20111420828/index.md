@@ -8,9 +8,12 @@ pos: 828
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy - Prawo upadłościowe i naprawcze i ustawy o Krajowym Rejestrze Sądowym
+
+*USTAWA dnia 9 czerwca 2011 o zmianie ustawy – Prawo upadłościowe naprawcze ustawy o Krajowym Rejestrze Sądowym*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +27,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111420828) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/828/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 lutego 2003 r. — Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 28 lutego 2003 – Prawo upadłościowe naprawcze (Dz. 175, 1361, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2007 r. Nr 168, poz. 1186, z późn. zm. ) w art. 32 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku.”.
+**Art. 2.** W ustawie dnia 20 sierpnia 1997 o Krajowym Rejestrze Sądowym (Dz. 2007 168, 1186, późn. zm. ) art. 32 po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów usług podwyższa się o kwotę podatku od towarów usług, określoną zgodnie obowiązującą stawką tego podatku.”.
 
-**Art. 3.** W sprawach, w których przed dniem wejścia w życie niniejszej ustawy:
+**Art. 3.** W sprawach, których przed dniem wejścia życie niniejszej ustawy:
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski 828 USTAWA z dnia 9 czerwca 2011 r. o zmianie ustawy — Prawo upadłościowe i naprawcze i ustawy o Krajowym Rejestrze Sądowym
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

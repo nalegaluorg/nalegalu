@@ -8,9 +8,12 @@ pos: 875
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# nadawania programu, a przypadku gdy nadawca nie uiszcza opłaty częstotliwość, karę pieniężną wysokości 10 % przychodu nadawcy, osiągniętego poprzednim roku podatkowym.”.
+# o zmianie ustawy - Prawo energetyczne oraz ustawy - Prawo ochrony środowiska
+
+*USTAWA dnia 2 kwietnia 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,47 +27,41 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040910875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/875/text.pdf) |
 
-**Art. 2.**
-
-1. W 2004 r. Krajowa Rada ustala sposób podziału wpływów między jednostki publicznej radiofonii telewizji, tym minimalny udział terenowych oddziałów spółek, dotychczasowych zasadach.
-
-2. Spółki, art. 26 2 3 ustawy wymienionej art. są obowiązane prowadzenia dokumentacji, której art. 10 ustawy nie, októrym 31bpkt 1 ustawy, będzie sprawozdaniem półrocznym.
-
-**Art. 3.** Spółki regionalne radiofonii publicznej, które tworzą rozpowszechniają programy regionalne inne wymienione art. 21 1a pkt 1 ustawy wymienionej iwtym celu korzystają wdniu wejścia życie niniejszej ustawy z częstotliwości przydzielonych im decyzjami Przewodniczącego Krajowej Rady Radiofonii Telewizji, zachowują uprawnienia nabyte podstawie tych decyzji.
-
-**Art. 4.** Ustawa wchodzi życie z dniem 1 maja 2004 r., z wyjątkiem: z dnia 29 września 1994 r. rachunkowości (Dz. U. z 2002 r. 76, poz. 694 oraz z 2003 r. 60, poz. 535, art. 31a, art. 31b art. 50 ustawy wymienionej 124, poz. 1152, 139, poz. 1324 229, art. 1 brzmieniu nadanym niniejszą ustawą, poz. 2276), 2004 r.: które wchodzą życie z dniem 1 lipca 2004 r.; okres 30 czerwca dotychczasowych za- 2) art. 26 2a ustawy wymienionej art. 1 sadach; brzmieniu nadanym niniejszą ustawą, który wchodzi życie z dniem 1 stycznia 2005 r.
-
-**Art. 1.** Wustawie zdnia 10 kwietnia 1997 r. Pra- art. 9a otrzymuje brzmienie: wo energetyczne (Dz. U. z 2003 r. 153, poz. 1504 203, poz. 1966 oraz z 2004 r. 29, poz. 257 ŃArt. 9a. 1. Przedsiębiorstwo energetyczne zajmu34, poz. 293) wprowadza się następujące zmiany: jące się wytwarzaniem elektrycznej lub jej obrotem sprzedające tę energię odbiorcom, którzy dokonują jej zakupu własne potrzeby terytorium Rzeczypospolitej Polskiej, jest obowiązane, zakresie określonym ——————— trycznej lub jej obrotem sprzedające tę energię odbiorcom, którzy dokonują jej zakupu własne potrzeby terytorium Rzeczypospolitej Polskiej, jest obowiązane, zakresie określonym przepisach wydanych podstawie 7, zakupu oferowanej elektrycznej wytworzonej skojarzeniu z wytwarzaniem ciepła przyłączonych sieci êródłach znajdujących się terytorium Rzeczypospolitej Polskiej. 3. Przedsiębiorstwo energetyczne zajmujące się obrotem ciepłem isprzedające to ciepło, jest obowiązane, zakresie określonym przepisach wydanych podstawie 6, zakupu oferowanego ciepła wytwarzanego przyłączonych sieci odnawialnych êródłach znajdujących się terytorium Rzeczypospolitej Polskiej, wilości nie większej niż zapotrzebowanie odbiorców tego przedsiębiorstwa, przyłączonych sieci, której przyłączone są odnawialne êródła energii. 4. Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją elektrycznej, którego sieci są przyłączone odnawialne êródła energii, jest obowiązane odbioru całej elektrycznej wytworzonej tych êródłach, objętej zgłoszonymi tego przedsiębiorstwa przez wytwórcę umowami sprzedaży. 5. Potwierdzeniem zakupu lub wytworzenia elektrycznej celu realizacji obowiązku, są umorzone świadectwa pochodzenia, art. 9e 1. 6. Minister właściwy spraw gospodarki określi, drodze rozporządzenia, szczegółowy zakres obowiązków, 1 3, tym: rodzaje odnawialnych êródeł energii, wodnawialnych êródłach energii, której zakupu lub wytworzenia przedsiębiorstwo energetyczne jest obowiązane, sprzedaży elektrycznej, okresie kolejnych 10 lat,
+**Art. 1.** W ustawie dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz.U. 2003 r. Nr 153, poz. 1504 i Nr 203, poz. 1966 oraz 2004 r. Nr 29, poz. 257 i Nr 34, poz. 293) wprowadza się następujące zmiany:
 
 **Art. 9f.**
 
-1. Minister właściwy spraw gospodarki, co pięć lat, przedstawia Radzie Ministrów raport określający cele zakresie udziału elektrycznej wytwarzanej odnawialnych êródłach energii znajdujących się terytorium Rzeczypospolitej Polskiej, krajowym zużyciu elektrycznej kolejnych dziesięciu latach, zgodne z zobowiązaniami wynikającymi z umów międzynarodowych dotyczących ochrony klimatu, oraz środki zmierzające realizacji tych celów.
+1. Minister właściwy do spraw gospodarki, co pięć lat, przedstawia Radzie Ministrów raport określający cele zakresie udziału elektrycznej wytwarzanej odnawialnych źródłach energii znajdujących się na terytorium Rzeczypospolitej Polskiej, krajowym zużyciu elektrycznej kolejnych dziesięciu latach, zgodne zobowiązaniami wynikającymi umów międzynarodowych dotyczących ochrony klimatu oraz środki zmierzające do realizacji tych celów.
 
-2. Krajowe zużycie elektrycznej oblicza się jako sumę krajowej produkcji elektrycznej, wtym produkcji własne potrzeby oraz imjących z umów międzynarodowych dotyczących ochrony klimatu raport sporządza się porozumieniu z ministrem właściwym spraw środowiska.
+2. Krajowe zużycie elektrycznej oblicza się jako sumę krajowej produkcji elektrycznej, tym produkcji tej na własne potrzeby oraz importu elektrycznej, pomniejszoną o jej eksport.
 
-5. Minister właściwy spraw gospodarki ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, raporty, októrych wust. 1 i4, wterminie dnia 27 paêdziernika danego roku, występuje obowiązek przedstawienia raportu. Raport, podlega ogłoszeniu po przyjęciu przez Radę Ministrów.”;
+3. Rada Ministrów, na wniosek ministra właściwego do spraw gospodarki, przyjmuje raport, o którym 1.
 
-- **9)** art. 32 1 pkt 1 otrzymuje brzmienie: Ń1) wytwarzania paliw energii, z wyłączeniem: wytwarzania paliw stałych, wytwarzania energii elektrycznej êródłach mocy poniżej 5 MW niezaliczanych odnawialnych êródeł energii, wytwarzania paliw gazowych z gazu płynnego oraz wytwarzania ciepła êródłach łącznej mocy poniżej 1 MW;”;
-- **10)** art. 34 dodaje się 4 brzmieniu: Ń4. Przedsiębiorstwa energetyczne wytwarzające energię elektryczną odnawialnych êródłach mocy poniżej 5 MW są zwolnione
-- **4)** art. 19 3 pkt 3 otrzymuje brzmienie: z opłat, zakresie Ń3) możliwości wykorzystania istniejących nadwy- wytwarzania tych êródłach.”; żek lokalnych zasobów paliw energii, 11) art. 56: z uwzględnieniem elektrycznej ciepła wytwarzanych wodnawialnych êródłach ener- a) 1 pkt 1a otrzymuje brzmienie: gii, elektrycznej wytwarzanej skoja- Ń1a) nie przestrzega obowiązków zakupu lub rzeniu zwytwarzaniem ciepła oraz zagospoda- wytworzenia elektrycznej lub cierowania ciepła odpadowego z instalacji prze- pła, nałożonych przepisami art. 9a;”, mysłowych;”;
-    - **b)** po 2 dodaje się 2a 2b brzmieniu:
+4. Minister właściwy do spraw gospodarki, na podstawie sprawozdania Prezesa Urzędu Regulacji Energetyki, o którym art. 24 1, sporządza co dwa lata raport zawierający analizę renie do dnia 27 października danego roku, którym występuje obowiązek przedstawienia raportu. Raport, o którym 1, podlega ogłoszeniu po przyjęciu przez Radę Ministrów.”;
 
-- **5)** art. 20 2 po pkt 1 dodaje się pkt 1a Ń2a. Wysokość kary pieniężnej wymierzanej brzmieniu: przypadku, 1 Ń1a) propozycje zakresie wykorzystania odna- pkt 1a, zakresie obowiązku, wialnych êródeł energii;”; 9aust. nie może być niższa niż dwukrotność iloczynu średniej ceny,
-- **6)** art. 23 2: októrej 23 2 pkt 9, iróżnia) pkt 9 otrzymuje brzmienie: cy elektrycznej, której zakupu lub wytworzenia przedsiębiorstwo Ń9) zbieranie przetwarzanie informacji doty- energetyczne jest obowiązane oraz czących gospodarki energetycznej, tym elektrycznej zakupionej lub wytwoobliczanie ogłaszanie terminie dnia rzonej celu wypełnienia tego obowiązku 31 marca każdego roku poprzedni rok ka- przez dane przedsiębiorstwo energetyczne. lendarzowy średniej ceny sprzedaży przez wytwarzającego, elektrycznej wy- 2b. Wpływy ztytułu kar wymierzanych wprzytworzonej przyłączonych sieci odna- padku, 1 pkt 1a, wialnych êródłach znajdujących się zakresie obowiązków, terytorium Rzeczypospolitej Polskiej;”, 9aust. 1 i3, stanowią dochód Narodowego Funduszu Ochrony Ârodowiska daje się pkt 12 brzmieniu: Ń12) wydawanie oraz umarzanie świadectw po- Art. 2.Wustawie zdnia 27 kwietnia 2001 r. Prachodzenia, art. 9e wo ochrony środowiska (Dz. U. 62, poz. 627, zpóên.
-    - **b)** pkt 11 kropkę zastępuje się średnikiem do- Gospodarki Wodnej.”.
+- **4)** art. 19 3 pkt 3 otrzymuje brzmienie: „3) możliwości wykorzystania istniejących nadwyżek i lokalnych zasobów paliw i energii, uwzględnieniem elektrycznej i ciepła wytwarzanych odnawialnych źródłach energii, elektrycznej wytwarzanej skojarzeniu wytwarzaniem ciepła oraz zagospodarowania ciepła odpadowego instalacji przemysłowych;”;
+- **5)** art. 20 2 po pkt 1 dodaje się pkt 1a brzmieniu: „1a) propozycje zakresie wykorzystania odnawialnych źródeł energii;”;
+- **6)** art. 23 2:
+    - **a)** pkt 9 otrzymuje brzmienie: „9)zbieranie i przetwarzanie informacji dotyczących gospodarki energetycznej, tym obliczanie i ogłaszanie terminie do dnia 31 marca każdego roku za poprzedni rok kalendarzowy średniej ceny sprzedaży przez wytwarzającego, elektrycznej wytworzonej przyłączonych do sieci odnawialnych źródłach znajdujących się na terytorium Rzeczypospolitej Polskiej;”,
+    - **b)** pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 brzmieniu: „12) wydawanie oraz umarzanie świadectw pochodzenia, o których art. 9e 1.”;
 
-1. ”; zm.
+- **7)** art. 24:
+    - **a)** dotychczasową treść oznacza się jako 1,
+    - **b)** dodaje się 2 brzmieniu: „2. Sprawozdanie, o którym 1, zawiera także ocenę podjętych działań zmierzających do realizacji celów określonych raporcie, o którym art. 9f 1, zakresie ich zgodności zobowiązaniami wynikającymi umów międzynarodowych.”;
 
-- **7)** art. 24: ) art. 401: ——————— ustawy.”;
-- **2)** po 4 dodaje się 4a brzmieniu: Ń4a. Przychody, 3a, przeznacza się wyłącznie wspieranie odnawialnych êródeł znajdujących się terytorium Rzeczypospolitej Polskiej.”.
+- **8)** art. 31 3 pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) średniej cenie, o której art. 23 2 pkt 9.”;
+- **9)** art. 32 1 pkt 1 otrzymuje brzmienie: „1) wytwarzania paliw i energii, wyłączeniem: wytwarzania paliw stałych, wytwarzania elektrycznej źródłach o mocy poniżej 5 MW nie zaliczanych do odnawialnych źródeł energii, wytwarzania paliw gazowych gazu płynnego oraz wytwarzania ciepła źródłach o łącznej mocy poniżej „1a) nie przestrzega obowiązków zakupu lub wytworzenia elektrycznej lub ciepła, nałożonych przepisami art. 9a;”,
+    - **b)** po 2 dodaje się 2a i 2b brzmieniu: „2a. Wysokość kary pieniężnej wymierzanej przypadku, o którym 1 pkt 1a, zakresie obowiązku, o którym art. 9a 1, nie może być niższa niż dwukrotność iloczynu średniej ceny, o której art. 23 2 pkt 9, i różnicy ilości elektrycznej, do której zakupu lub wytworzenia przedsiębiorstwo energetyczne jest obowiązane oraz ilości elektrycznej zakupionej lub wytworzonej celu wypełnienia tego obowiązku przez dane przedsiębiorstwo energetyczne.
+
+2b. Wpływy tytułu kar wymierzanych przypadku, o którym 1 pkt 1a, zakresie obowiązków, o których art. 9a 1 i 3, stanowią dochód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.”.
+
+**Art. 2.** W ustawie dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska (Dz.U. Nr 62, poz. 627, późn. zm. ) art. 401:
 
 **Art. 3.**
 
-1. Wterminie dnia 1 marca 2005 r. minister właściwy spraw gospodarki ogłosi pierwszy raport, októrym 9fust. 1 ustawy zmienianej art. 1.
+1. W terminie do dnia 1 marca 2005 r. minister właściwy do spraw gospodarki ogłosi pierwszy raport, o którym art. 9f 1 ustawy zmienianej art.
 
-2. Wterminie dnia 27 paêdziernika 2005 r. minister właściwy spraw gospodarki ogłosi pierwszy twarzanie elektrycznej odnawialnych êródłach energii, mogą wykonywać taką działalność dotychczasowych zasadach czasu ostatecznego rozstrzygnięcia sprawy przez Prezesa Urzędu Regulacji Energetyki.
+1. Jeżeli podmioty wykonujące działalność gospodarczą zakresie wytwarzania energii elektrycznej odnawialnych źródłach energii, która na podstawie przepisów dotychczasowych nie wymagała uzyskania koncesji, złożą terminie 3 miesięcy od dnia wejścia życie ustawy wniosek o udzielenie koncesji na wytwarzanie elektrycznej odnawialnych źródłach energii, mogą wykonywać taką działalność na dotychczasowych zasadach do czasu ostatecznego rozstrzygnięcia sprawy przez Prezesa Urzędu Regulacji Energetyki.
 
-**Art. 5.** Ustawa wchodzi życie z dniem 1 maja 2004 r., z wyjątkiem art. 1 pkt 2 11 oraz art. 2, które wchodzą życie z dniem 1 stycznia 2005 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 876 USTAWA z dnia 2 kwietnia 2004 r. zmianie ustawy nawozach nawożeniu
-
-**Art. 1.** W ustawie z dnia 26 lipca 2000 r. nawozach nawożeniu (Dz. U. 89, poz. 991) wprowadza się następujące zmiany: art. 1 otrzymuje brzmienie: ŃArt. 1. Ustawa reguluje sprawy: wprowadzania obrotu nawozów zakresie nieuregulowanym przepisach Unii Europejskiej,
+**Art. 5.** Ustawa wchodzi życie dniem 1 maja 2004 r., wyjątkiem art. 1 pkt 1, 2 i 11 oraz art. 2, które wchodzą życie dniem 1 stycznia 2005 r.
 

@@ -8,9 +8,10 @@ pos: 210
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# DZIENNIK UST AW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 kwietnia: 1939 r.
+# pożyczkach premiowych.
 
 | Pole | Wartość |
 |---|---|
@@ -24,30 +25,37 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19390330210) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1939/210/text.pdf) |
 
-Nr 33 USTAWY, Poz.: PREZYDENTA Poz.: MINISTRÓW.
-Poz.: 210
-USTAWA z dnia 5 kwietnia 1939 r.
-preoiiowych.
+**Art. 1.**
 
-**Art. 1.** (1) Prawo wypuszczania obligacyj premiowych (2) premiowymi w rozumieniu ustawy niniejszej takie które po siadaczom obligacyj tych oprócz od setek lub zamiast nich, wygrania oznaczony<:h p.remij w drodze lo (3) Na równi z obligacjami 'pre miowych traktuje od obligacyj tak zwane "kupony premiowe", losowe" itp. do\<.umenty, posiadacza do w losowaniu wygranych. ,
+1. Prawo wypuszczania obligacyj pożyczek premiowych służy wyłącznie Państwu.
 
-**Art. 2.** Przedmiotem obrotu prawnego na obszarze Rzeczypospolitej jedynie obligacje premiowych, wypuszczonycli przez Polskie. Umowy, in nych premiowych, z mo cy prawa.
+2. Pożyczkami premiowymi rozumieniu ustawy niniejszej są takie pożyczki, które posiadaczom obligacyj tych pożyczek, oprócz odsetek lub zamiast nich, daja mozność wygrania oznaczonych premij pieniężnych drodze losowań.
 
-**Art. 3.** Wyłączenie z obrotu prawnego, z przepisów art. 2, nie dotyczy obli gacyj premiowych, wypuszczonych przed w ustawy niniejs:zej, one ostemplowane wczasie i w sposób, ustalony przez Ministra Skarbu, który za stemplo wanie. , Art. 4.' Przywóz z zagranicy obligacyj po p,remiowych, które w ustawy niniejszej nie mogą być prz~dniiotem ~b~otu praw- ., . nego, jest zakazany i traktowany na rów ni z uczestnictwem w niedozwolonych transak ciach obcokrajowymi papierami premiowymi.
+3. Na równi obligacjami pożyczek premiowych traktuje się odłączone od obligacyj tak zwane „kupony premiowe”, „ceduły losowe” itp., dokumenty, uprawniające posiadacza do udziału losowaniu wygranych.
 
-**Art. 5.** Zawodowa lub kupno ce lem obligacyj premiowych dozwolona jest Bankowi Polskiemu, bankom Pocztowej Kasie Osz komunalnym kasom. Centralnej Małopolskiej Kasie Oszczędności we Lwowie, gminnym kasom Centralnej Kasie Rolniczych oraz bankowym, wymienio nym wart. 2, 3, 4 i 6 Prezydenta Rzeczypospolitej z dnia marca r. pra wie bankowym (Dz. U. R. P. Nr poz. 321).
+**Art. 2.** Przedmiotem obrotu prawnego na obszarze Rzeczypospolitej mogą być jedynie obligacje pożyczek premiowych, wypuszczonych przez Państwo Polskie. Umowy, dotyczące innych pożyczek premiowych, są nieważne mocy prawa.
 
-**Art. 6.** Sprzedaż na raty obligacyj po premiowych dokonywana tyl ko na warunkach, które ustali w ,drodze rozpo Minister Skarbu w porozumieniu z Ministrem i tylko przez te instytucje i bankowe, wymie nione wart. które na szczególne zezwolenie Ministra Skarbu. Ze zwolenie to w chwili Minister Skarbu decyduje w tych przypadkach swobodnego uznania. Minister Skarbu w dro dze jakie wolno sobie w umowach Naruszenie ustalonych warunków sprze na raty 'traktowane na równi ze papierów premiowych bez zezwo lenia.
+**Art. 3.** Wyłączenie obrotu prawnego, wynikające przepisów art. 2, nie dotyczy obligacyj pożyczek premiowych, wypuszczonych przed wejściem życie ustawy niniejszej, jeżeli zostaną one ostemplowane czasie i sposób, ustalony przez Ministra Skarbu, który może oznaczyć opłatę manipulacyjną za stemplowanie.
 
-**Art. 7.** Sprzedaż na raty obligacyj czek premiowych, wart. jest za kazana.
+**Art. 4.** Przywóz zagranicy obligacyj pożyczek premiowych, które myśl ustawy niniejszej nie mogą być przedmiotem obrotu prawnego, jest zakazany i będzie traktowany na równi uczestnictwem niedozwolonych transakcjach obcokrajowymi papierami premiowymi.
 
-**Art. 8.** Sprzedaż promes na (2) Za premiowe jest zakazana. w rozumieniu ni niejszego .które go obligacji premiowej zo nabywcy promesy lub wygranej, jaka na w rozgrywaniu wygranych danej po premiowej.
+**Art. 5.** Zawodowa sprzedaż lub kupno celem odprzedaży obligacyj pożyczek premiowych dozwolona jest wyłącznie Bankowi Polskiemu, bankom państwowym, pocztowej kasie Oszczędnościowej, komunalnym kasom oszczędności, centralnej małopolskiej Kasie Oszczędności we Lwowie, gminnym kasom pożyczkowo-oszczędnościowym, Centralnej Kasie Spółek Rolniczych oraz przedsiębiorstwom bankowym, wymienionym art. 2,3,4 i 6 rozporządzenia Prezydenta sprzedaż szczególne zezwolenie Ministra Skarbu. Zezwolenie to może być każdej chwili cofnięte. Minister Skarbu decyduje tych przypadkach według swobodnego uznania. 2. Minister Skarbu ustalać będzie drodze zarządzeń granicę największych korzyści majątkowych, jakie wolno będzie sprzedającym wymawiać sobie umowach sprzedaży. 3. Naruszenie ustalonych warunków sprzedaży na raty będzie traktowane na równi ze sprzedażą papierów premiowych bez zezwolenia.
 
-**Art. 9.** Odpowiedzialność za naru szenie przepisów ustawy niniejszej pra wo karne skarbowe (art.
+**Art. 7.** Sprzedaż na raty obligacyj pożyczek premiowych, określonych art. 3, jest zakazana.
 
-**Art. 10.** Ustawa niniejsza nie narusza prze pisów dekretu Prezydenta Rzeczypospolitej z dnia 26 kwietnia 1936 r. w sprawie obrotu pie z oraz obrotu zagranicznymi i krajowymi (Dz. U. R. P. z 1938 r. Nr poz. Art. Z dniem w ustawy niniejszej moc wszelkie przepisy prawne w sprawach,· uregulowanych a w ustawa z dnia listopada 1862 r. (Dz. U. P. austr. Nr interesie promesowym; ustawa z dnia czerwca r. (Dz; U. P. austr. Nr losów na raty; ustawa z dnia marca r. ,(Dz. U. P. austr. Nr 32) obligacjach premiowych, tu obwieszczaniu i zalecaniu losów i lote rii zakazanych; ustawa z dnia 8 czerwca r. (Dz. U. Rz. N. Nr str. papierach wycp z premiami; , § ustawy z dnia maja r. (Dz. U. Rz. N. str. interesach na raty.
+**Art. 8.**
 
-**Art. 12.** Wykonanie ustawy niniejszej po rucza Ministrowi Skarbu. Art. Ustawa niniejsza wchodzi w po. dni od dnia Prezydent Rzeczypospolitej: I. Prezes Rady Ministrów: Minister Skarbu: E. Kwiatkowski 211 USTAWA z dnia kwietnia r. pomocy Skarbu przy nieldórych w listach za stawnych Banku Rolnego.
+1. Sprzedaż promes na pożyczki premiowe jest zakazana.
 
-**Art. 1.** Skarb od stycznia r. --, za ników Banku Rolnego do kowitej na umorzenie op'rocentowanie i dodatek administracyjny, a mianowicie: w stosunku rocznym od imiennej su my udzielonych w listach zastawnych emitowanych przed 1 stycznia 1933 r., zabez pieczonych na obszarze nie przewy,iszaja,cym 100 haj 1,42% w rocznym od imiennej w 4 listach Banku Rolnego se I, zabezpieczonych na obszarze nie ha; w stosunku rocznym od imiennej sumy udzielonych w listach zastawnych Rolnego serii II. (2) W przypadku dodatku admi nistracyjnego, Skatbu ustalone w ust. (1), takiemu samemu
+2. Za promesę rozumieniu artykułu niniejszego uważa się oświadczenie, mocą którego właściciel obligacji pożyczki premiowej zobowiązuje wypłacić nabywcy promesy całą lub część wygranej, jaka może przypaść na te obligację rozgrywaniu wygranych danej pożyczki premiowej.
+
+**Art. 9.** Odpowiedzialność karną za naruszenie przepisów ustawy niniejszej określa prawo karne skarbowe (art. 196 – 199).
+
+**Art. 10.** Ustawa niniejsza nie narusza przepisów dekretu Prezydenta Rzeczypospolitej 26 kwietnia 1936 sprawie obrotu pieniężnego zagranicą oraz obrotu zagranicznymi i krajowymi środkami płatniczymi R.P. 1938 86, poz. 584).
+
+**Art. 11.** Z dniem wejścia życie ustawy niniejszej tracą moc obowiązującą wszelkie przepisy prawne sprawach , uregulowanych ustawa niniejszą, a szczególności:
+
+**Art. 12.** Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu.
+
+**Art. 13.** Ustawa niniejsza wchodzi życie po upływie 30 dni od ogłoszenia.
 

@@ -8,9 +8,12 @@ pos: 1415
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# 4b. Dane, o których mowa ust. 4a, są jawne isą podawane do wiadomości publicznej odpowiednio przez Marszałka Sejmu albo Marszałka Senatu formie zapisu elektronicznego.”.
+# o państwowej kompensacie przysługującej ofiarom niektórych czynów zabronionych
+
+*USTAWA z dnia 7 lipca 2005 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,71 +27,123 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051691415) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1415/text.pdf) |
 
-22. W ustawie dnia 8 sierpnia 1996 o Radzie Ministrów z2003 24, 199 80, 717 oraz 2004 238, 2390 273,
-2703) dodaje się art. 39a brzmieniu: ŃArt. 39a. 1. Minister podaje Prezesowi Rady Ministrów następujące dane dotyczące pracowników zatrudnionych gabinecie ją udostępnieniu wBiuletynie Informacji Publicznej.”.
-23.Wustawie zdnia 4 września 1997 odziałach administracji rządowej 159, 1548, póên. zm.
-politycznym ministra: imię (imiona) nazwisko;
-2) datę urodzenia;
-3) miejsce zatrudnienia trzyletnim okresie poprzedzającym dzień, którym osoba została zatrudniona gabinecie politycznym ministra;
-4) êródła dochodów wtrzyletnim okresie poprzedzającym dzień, wktórym oso) wart. 6 wust. 1 wpkt 6 kropkę zastępuje się średnikiem dodaje się pkt 7 brzmieniu: Ń7) prowadzenia rejestru podmiotów wykonujących zawodową działalność lobbingową.”.
-24.Ustawa wchodzi wżycie po upływie 6 miesięcy od dnia ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
-USTAWA dnia 7 lipca 2005 o państwowej kompensacie przysługującej ofiarom niektórych przestępstw umyślnych
-1. Ustawa określa zasady tryb przyznawania 88, 553, póên. zm.
-kompensaty oraz warunki współpracy organów wRzeczypospolitej Polskiej zorganami innych państw członkowskich Unii Europejskiej właściwymi sprawach postępowania o uzyskanie tego świadczenia.
-2. Użyte ustawie określenia oznaczają: ), zwanej dalej ŃKodeks karny”;
-2) osoba najbliższa małżonka lub osobę pozostającą ofiarą we wspólnym pożyciu, wstępnego, zstępnego, osobę pozostającą stosunku przy——————— ne osobie uprawnionej trybie określonym niniejszej ustawie.
-3.Kompensata może być przyznana wkwocie pokrywającej wyłącznie: utracone zarobki lub inne środki utrzymania,
-2) koszty leczenia,
-3) koszty pogrzebu będące skutkiem popełnienia przestępstwa, o którym mowa art. 2 pkt 1.
-4. Kompensatę przyznaje się, jeżeli przestępstwo zostało popełnione na terytorium Rzeczypospolitej Polskiej na szkodę osoby mającej obywatelstwo polskie lub obywatelstwo innego państwa członkowskiego Unii Europejskiej.
-5. Kompensatę przyznaje się jedynie wówczas takiej wysokości, jakiej osoba uprawniona nie może uzyskać pokrycia utraconych zarobków, innych środków utrzymania lub kosztów, o których mowa art. 3 pkt 2 3, od sprawcy lub sprawców przestępstwa, ztytułu ubezpieczenia, ze środków pomocy społecznej albo innego êródła lub tytułu, niezależnie od tego, czy sprawca lub sprawcy przestępstwa zostali wykryci, oskarżeni lub skazani.
-6. Kompensata nie może przekroczyć 12 000 zł.
-7. 1. Kompensatę przyznaje się, jeżeli wszczęto postępowanie karne albo odmówiono jego wszczęcia przyczyn przewidzianych art. 17 § 1 pkt 4, 5, 8, 10 11 ustawy dnia 6 czerwca 1997 Kodeks postępowania karnego 89, 555, póên.
-zm.
-orzekającym”. Organ orzekający rozpoznaje wniosek, stosując odpowiednio przepisy ustawy zdnia 17 listopada 1964 Kodeks postępowania cywilnego 43, 296, póên. zm.
-), zwanej dalej ŃKodeks postępowania karnego”.
-2. Kompensaty nie przyznaje się pomimo wszczęcia postępowania karnego, jeżeli zostało ono następ) o postępowaniu nieprocesowym. Uczestnikiem postępowania jest obok osoby uprawnionej prokurator.
-2. Jeżeli nie można ustalić miejsca popełnienia przestępstwa, właściwy jest sąd, którego okręgu wszczęto postępowanie lub odmówiono jego wszczęcia.
-3. Jeżeli nie można ustalić właściwości miejscowej sądu sposób określony ust. 1 2, organem orzekającym jest sąd właściwy dla dzielnicy Âródmieście miasta stołecznego Warszawy.
-4. Kompensatę przyznaje się na wniosek osoby uprawnionej.
-5. Wniosek o kompensatę składa się do organu orzekającego terminie 2 lat od dnia popełnienia przestępstwa, pod rygorem wygaśnięcia uprawnienia do żądania kompensaty.
-——————— ———————
-3) wskazanie daty imiejsca popełnienia przestępstwa stanowiącego podstawę ubiegania się o kompensatę jego zwięzły opis, podaniem skutków;
-4) informację o rodzaju wysokości poniesionych kosztów oraz utraconych zarobków lub innych środków utrzymania;
-5) uprzedzenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia o nieuzyskaniu odszkodowania lub świadczenia innych êródeł lub tytułów, o mowa art. 5;
-6) oświadczenie osoby uprawnionej, złożone pod rygorem odpowiedzialności karnej, o nieuzyskaniu odszkodowania lub świadczenia innych êródeł lub tytułów, o mowa art. 5;
-7) oświadczenie osoby uprawnionej o znajomości obowiązków wynikających art. 13.
-2. Do wniosku okompensatę należy dołączyć odpisy odpowiednich orzeczeń wydanych postępowaniu karnym, odpisy zaświadczeń lekarskich lub opinii biegłego dotyczących doznania przez ofiarę uszczerbku na zdrowiu oraz inne dokumenty potwierdzające informacje zawarte we wniosku.
-3. Jeżeli o kompensatę ubiega się osoba najbliższa, dołącza do wniosku dokumenty potwierdzające fakt pozostawania czasie popełnienia przestępstwa stanowiącego podstawę wniosku na utrzymaniu ofiary, która na skutek tego przestępstwa poniosła śmierć.
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa zasady i tryb przyznawania kompensaty oraz warunki współpracy organów Rzeczypospolitej Polskiej z organami innych państw członkowskich Unii Europejskiej właściwymi sprawach postępowania o uzyskanie tego świadczenia.
+
+**Art. 2.** Użyte ustawie określenia oznaczają:
+
+#### Rozdział 2 Zasady i tryb przyznawania kompensaty
+
+**Art. 3.** Kompensata może być przyznana kwocie pokrywającej wyłącznie:
+
+**Art. 4.** Kompensatę przyznaje się, jeżeli czyn zabroniony został popełniony na terytorium Rzeczypospolitej Polskiej na szkodę osoby mającej miejsce stałego pobytu na tym terytorium lub na terytorium innego państwa członkowskiego Unii Europejskiej.
+
+**Art. 5.** Kompensatę przyznaje się jedynie wówczas i takiej wysokości, jakiej osoba uprawniona nie może uzyskać pokrycia utraconych zarobków, innych środków utrzymania lub kosztów, o których mowa art. 3 pkt 2 i 3, od sprawcy lub sprawców czynu zabronionego, z tytułu ubezpieczenia lub ze środków pomocy społecznej, niezależnie od tego, czy sprawca lub sprawcy czynu zabronionego zostali ustaleni.
+
+**Art. 6.**
+
+1. Kompensata nie może przekroczyć 25 000 zł, a gdy ofiara poniosła śmierć – kwoty 60 000 zł.
+
+2. Jeżeli sprawie o przyznanie kompensaty sąd uzna, że ścisłe udowodnienie wysokości żądania jest niemożliwe lub nader utrudnione, może ramach kwot określonych ust. 1 zasądzić odpowiednią sumę według swej oceny, opartej na rozważeniu wszystkich okoliczności sprawy.
+
+**Art. 7.** (uchylony)
+
+**Art. 7a.**
+
+1. Kompensaty nie przyznaje się lub przyznaje zmniejszonej wysokości, proporcjonalnie do stopnia przyczynienia się ofiary do popełnienia czynu zabronionego, o którym mowa art. 2 pkt 1. na ryzyko doznania skutków czynu zabronionego, o którym mowa art. 2 pkt 1.
+
+3. Kompensaty nie przyznaje się gdy:
+
+- **1)** czynu nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia;
+- **2)** czyn nie zawiera znamion czynu zabronionego.
+
+**Art. 8.**
+
+1. Organem właściwym sprawach o przyznanie kompensaty jest sąd rejonowy właściwy ze względu na miejsce stałego pobytu osoby uprawnionej, zwany dalej „organem orzekającym”. W postępowaniu przed organem orzekającym sprawach nieuregulowanych ustawie stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm. ) o postępowaniu nieprocesowym. Czynności sprawach o przyznanie kompensaty mogą wykonywać referendarze sądowi. Na orzeczenie referendarza przysługuje skarga do sądu.
+
+2. Jeżeli nie można ustalić miejsca stałego pobytu osoby uprawnionej lub osoba ta ma miejsce stałego pobytu na terytorium innego państwa członkowskiego Unii Europejskiej, właściwy jest sąd, którego okręgu popełniono czyn zabroniony, o którym mowa art. 2 pkt 1.
+
+3. Jeżeli nie można ustalić właściwości miejscowej sądu sposób określony ust. 1 lub 2, organem orzekającym jest sąd właściwy dla dzielnicy Śródmieście miasta stołecznego Warszawy.
+
+4. Kompensatę przyznaje się na wniosek osoby uprawnionej lub prokuratora.
+
+4a. Jeżeli osobą uprawnioną jest osoba nieporadna, szczególności ze względu na wiek lub stan zdrowia, jej prawa może wykonywać osoba, pod której pieczą osoba uprawniona pozostaje.
+
+5. Wniosek o kompensatę składa się do organu orzekającego terminie 3 lat od dnia ujawnienia się skutków czynu zabronionego, nie później jednak niż terminie
+
+6. Uczestnikami postępowania są wyłącznie osoba uprawniona i prokurator.
+
+**Art. 9.**
+
+1. Wniosek o kompensatę zawiera:
+
+- **1)** imię, nazwisko i adres miejsca stałego pobytu osoby uprawnionej, a przypadku gdy ofiara poniosła śmierć, także jej ostatni adres miejsca stałego pobytu;
+- **2)** numer identyfikacyjny PESEL osoby uprawnionej oraz ofiary, która poniosła śmierć, jeżeli go posiadają albo posiadały;
+- **3)** wskazanie daty i miejsca popełnienia czynu zabronionego stanowiącego podstawę ubiegania się o kompensatę i jego zwięzły opis, z podaniem skutków;
+- **4)** informację o rodzaju i wysokości poniesionych kosztów oraz utraconych zarobków lub innych środków utrzymania;
+- **5)** oświadczenie osoby uprawnionej, złożone pod rygorem odpowiedzialności karnej, o nieuzyskaniu odszkodowania lub świadczenia ze źródeł lub tytułów, o których mowa art. 5;
+- **6)** uprzedzenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia, o którym mowa pkt 5 oraz ust. 3.
+
+2. Do wniosku o kompensatę należy dołączyć odpis zawiadomienia o popełnieniu przestępstwa, odpisy orzeczeń wydanych postępowaniu karnym, odpisy zaświadczeń lekarskich lub opinii biegłych dotyczących doznania przez ofiarę uszczerbku na zdrowiu oraz inne dokumenty potwierdzające informacje zawarte we wniosku.
+
+3. Jeżeli o kompensatę ubiega się osoba uprawniona, o której mowa art. 2 pkt 3 lit. a, dołącza do wniosku dokumenty potwierdzające fakt pozostawania osobą najbliższą ofiary, która poniosła śmierć, lub, złożone pod rygorem odpowiedzialności karnej, oświadczenie o pozostawaniu z nią we wspólnym pożyciu.
+
 4. Wniosek oraz dołączone do niego dokumenty nie wymagają legalizacji ani żadnej innej równoważnej czynności.
-5. Minister Sprawiedliwości określi, drodze rozporządzenia, wzór formularza wniosku o przyznanie kompensaty, uwzględniając potrzebę zgromadzenia dostatecznych danych umożliwiających przyznanie kompensaty.
-10. 1. Organem pomocniczym Rzeczypospolitej Polskiej jest prokurator okręgowy, którego okręgu osoba uprawniona ma miejsce zamieszkania zakresie możliwości warunków ubiegania się o kompensatę przyznawaną przez organy orzekające innych państwach członkowskich Unii Europejskiej, gdy przestępstwo zostało popełnione na terytorium tych państw, udostępnia odpowiedni wzór formularza wniosku oraz udziela, na żądanie tej osoby, ogólnej pomocy iinformacji co do sposobu wypełnienia wniosku.
-11. W sprawach o przyznanie kompensaty skarga kasacyjna nie przysługuje.
-12. Kompensata wypłacana jest przez sąd rejonowy, który wydał orzeczenie oprzyznaniu kompensaty, terminie miesiąca od dnia uprawomocnienia się orzeczenia. Wypłata następuje ze środków budżetu państwa.
-13. 1. Osoba, której przyznano kompensatę, jest obowiązana ją zwrócić, jeżeli umorzono postępowanie karne przyczyn przewidzianych art. 17 § 1 pkt 1, 2, 3, 7 9 Kodeksu postępowania karnego bądê wydano wyrok uniewinniający przyczyn przewidzianych wart. 17 § 1 pkt 1 i2 Kodeksu postępowania karnego.
-2. Niezwłocznie po uprawomocnieniu się orzeczenia o umorzeniu postępowania karnego bądê wyroku uniewinniającego prokurator zawiadamia osobę, której przyznano kompensatę, o obowiązku zwrotu kompensaty terminie 30 dni od dnia otrzymania zawiadomienia.
-3. Kompensatę zwraca się do organu orzekającego, który wydał orzeczenie o przyznaniu kompensaty.
-4. Jeżeli osoba uprawniona nie zwróci kompensaty wterminie, októrym mowa wust. 2, Skarbowi Państwa przysługuje stosunku do osoby uprawnionej roszczenie o zwrot kompensaty.
-14. 1. W razie przyznania osobie uprawnionej kompensaty Skarb Państwa ma roszczenie zwrotne do sprawcy lub sprawców przestępstwa umyślnego, popełnionego użyciem przemocy, na skutek którego
-15. 1. Organ pomocniczy Rzeczypospolitej Polskiej przyjmuje niezwłocznie przekazuje wnioski o kompensatę, wraz niezbędną dokumentacją, organom orzekającym winnych państwach członkowskich Unii Europejskiej. Organ pomocniczy przekazuje wnioski, wykorzystując tym celu właściwy formularz opracowany przez Komisję Europejską.
+
+5. Minister Sprawiedliwości określi, drodze rozporządzenia, wzór formularza wniosku o przyznanie kompensaty, uwzględniając potrzebę zgromadzenia dostatecznych danych umożliwiających przyznanie kompensaty. terytorium Rzeczypospolitej Polskiej jest prokurator prowadzący postępowanie przygotowawcze sprawie o czyn zabroniony, o którym mowa art. 2 pkt 1.
+
+2. Organem pomocniczym Rzeczypospolitej Polskiej właściwym sprawie uzyskania kompensaty przez posiadającą miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej ofiarę czynu zabronionego popełnionego na terytorium innego państwa członkowskiego Unii Europejskiej jest prokurator okręgowy, którego okręgu osoba uprawniona ma miejsce stałego pobytu.
+
+3. Organ pomocniczy, o którym mowa ust. 1, udziela osobie uprawnionej niezbędnych informacji zakresie możliwości i warunków ubiegania się o kompensatę przyznawaną przez organ orzekający Rzeczypospolitej Polskiej, udostępnia wzór formularza wniosku o przyznanie kompensaty oraz udziela ogólnej pomocy i informacji co do sposobu wypełnienia wniosku.
+
+4. Organ pomocniczy, o którym mowa ust. 2, udziela osobie ubiegającej się o przyznanie kompensaty innym państwie członkowskim Unii Europejskiej niezbędnych informacji zakresie możliwości i warunków ubiegania się o kompensatę przyznawaną przez organy orzekające innych państwach członkowskich Unii Europejskiej, gdy czyn zabroniony został popełniony na terytorium tych państw, udostępnia odpowiedni wzór formularza wniosku oraz udziela ogólnej pomocy i informacji co do sposobu wypełnienia wniosku.
+
+5. Prokurator prowadzący postępowanie przygotowawcze sprawie o czyn zabroniony, o którym mowa art. 2 pkt 1, załącza do akt postępowania przygotowawczego odpis prawomocnego orzeczenia przedmiocie kompensaty.
+
+**Art. 11.** W sprawach o przyznanie kompensaty skarga kasacyjna nie przysługuje.
+
+**Art. 12.** Kompensata wypłacana jest przez sąd rejonowy, który wydał orzeczenie o przyznaniu kompensaty, terminie miesiąca od dnia uprawomocnienia się orzeczenia. Wypłata następuje ze środków budżetu państwa.
+
+**Art. 13.**
+
+1. Osoba, której przyznano kompensatę z naruszeniem przepisów ustawy, jest obowiązana ją zwrócić. o którym mowa art. 2 pkt 1, wzywa osobę, której przyznano kompensatę, do jej zwrotu terminie 30 dni od dnia otrzymania wezwania.
+
+3. Jeżeli osoba, o której mowa ust. 1, nie zwróci kompensaty terminie, o którym mowa ust. 2, Skarbowi Państwa przysługuje stosunku do niej roszczenie o zwrot kompensaty.
+
+4. Powództwo dotyczące roszczenia, o którym mowa ust. 3, wytacza postępowaniu cywilnym prokurator.
+
+**Art. 14.**
+
+1. W razie przyznania osobie uprawnionej kompensaty Skarb Państwa ma roszczenie zwrotne do sprawcy lub sprawców przestępstwa, na skutek którego ofiara poniosła śmierć albo doznała ciężkiego uszczerbku na zdrowiu, naruszenia czynności narządu ciała lub rozstroju zdrowia.
+
+2. Sprawcy, o których mowa ust. 1, ponoszą odpowiedzialność solidarną z tytułu roszczenia zwrotnego na rzecz Skarbu Państwa.
+
+3. Powództwo dotyczące roszczenia, o którym mowa ust. 1, wytacza postępowaniu cywilnym prokurator.
+
+#### Rozdział 3 Współpraca organów pomocniczych i organów orzekających Rzeczypospolitej Polskiej z organami pomocniczymi i organami orzekającymi innych państwach członkowskich Unii Europejskiej
+
+**Art. 15.**
+
+1. Organ pomocniczy, o którym mowa art. 10 ust. 2, przyjmuje i niezwłocznie przekazuje wnioski o kompensatę, wraz z niezbędną dokumentacją, organom orzekającym innych państwach członkowskich Unii Europejskiej, wykorzystując tym celu formularz opracowany przez Komisję Europejską.
+
 2. Organ pomocniczy nie dokonuje oceny zasadności wniosków.
-16. Organ pomocniczy wRzeczypospolitej Polskiej, na wniosek organów orzekających innych państwach członkowskich Unii Europejskiej: przekazuje tym organom, porozumieniu osobami, które wystąpiły wnioskiem o kompensatę, uzupełniające informacje, załączając listę dodatkowych dokumentów;
-2) przesłuchuje, stosując odpowiednio przepisy Kodeksu postępowania karnego, osoby wskazane przez organy orzekające przekazuje niezwłocznie tym organom protokoły przesłuchań;
-3) może umożliwić organowi orzekającemu przesłuchanie osoby wskazanej przez ten organ, przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość.
-17. Koszty czynności, tym tłumaczeń dokumentów przekazywanych do organów orzekających innych państwach członkowskich Unii Europejskiej, dokonywanych przez organy pomocnicze wRzeczypospolitej Polskiej, obciążają Skarb Państwa.
-18. Organ orzekający Rzeczypospolitej Polskiej po otrzymaniu wniosku od organu pomocniczego winnym państwie członkowskim Unii Europejskiej niezwłocznie przekazuje temu organowi osobie, która wnioskiem wystąpiła, potwierdzenie otrzymania wniosku, informacje o organie orzekającym właściwym do rozpoznania wniosku o sygnaturze akt oraz, wmiarę możliwości, informację oprzybliżonym terminie zakończenia postępowania przedmiocie kompensaty.
-20. Przesłuchanie, o mowa art. 16 pkt 3 art. 19 pkt 3, może zostać przeprowadzone wyłącznie za zgodą osoby przesłuchiwanej. Wstosunku do osoby przesłuchiwanej nie stosuje się środków przymusu.
-21. Organ orzekający Rzeczypospolitej Polskiej przekazuje odpis postanowienia przedmiocie kompensaty organowi pomocniczemu innym państwie członkowskim Unii Europejskiej iosobom, które wystąpiły wnioskiem o kompensatę, wykorzystując wtym celu właściwy formularz opracowany przez Komisję Europejską.
-22. 1. Organ pomocniczy organ orzekający Rzeczypospolitej Polskiej przekazuje organowi pomocniczemu organowi orzekającemu innym państwie członkowskim Unii Europejskiej korespondencję dotyczącą kompensaty wjęzyku urzędowym tego państwa lub innym języku wskazanym przez to państwo, zastrzeżeniem ust. 3.
-2. Organ pomocniczy iorgan orzekający wRzeczypospolitej Polskiej przyjmuje od organów pomocniczych organów orzekających innych państwach członkowskich Unii Europejskiej korespondencję wjęzyku polskim angielskim, zastrzeżeniem ust. 3.
-3. Protokoły przesłuchań przeprowadzonych przez organ pomocniczy oraz orzeczenia wydane przez organy orzekające przedmiocie kompensaty przyjmuje się przekazuje języku urzędowym państwa, zostały one sporządzone.
-23. Przepisy ustawy mają zastosowanie do przestępstw popełnionych od dnia wejścia życie ustawy.
-24. Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 9 ust. 4, art. 10 ust. 2 oraz art. 15—22, które wchodzą wżycie zdniem
 
-#### Rozdział 1 mocy, poniosła śmierć albo doznała naruszenia czynności narządu ciała lub rozstroju zdrowia Przepisy ogólne określonych art. 156 § 1 art. 157 § 1 ustawy dnia 6 czerwca 1997 Kodeks karny
+**Art. 16.** Organ pomocniczy, o którym mowa art. 10 ust. 2, na wniosek organów orzekających innych państwach członkowskich Unii Europejskiej:
 
-#### Rozdział 2 Zasady tryb przyznawania kompensaty
+**Art. 17.** Koszty czynności, tym tłumaczeń dokumentów przekazywanych do organów orzekających innych państwach członkowskich Unii Europejskiej, dokonywanych przez organy pomocnicze Rzeczypospolitej Polskiej, obciążają Skarb Państwa.
+
+**Art. 18.** Organ orzekający Rzeczypospolitej Polskiej po otrzymaniu wniosku od organu pomocniczego innym państwie członkowskim Unii Europejskiej niezwłocznie przekazuje temu organowi i osobie, która z wnioskiem wystąpiła, potwierdzenie otrzymania wniosku, informacje o organie orzekającym właściwym do rozpoznania wniosku i o sygnaturze akt oraz, miarę możliwości, informację o przybliżonym terminie zakończenia postępowania przedmiocie kompensaty.
+
+**Art. 19.** Organ orzekający Rzeczypospolitej Polskiej może występować do organu pomocniczego innym państwie członkowskim Unii Europejskiej o:
+
+**Art. 20.** Przesłuchanie, o którym mowa art. 16 pkt 3 i art. 19 pkt 3, może zostać przeprowadzone wyłącznie za zgodą osoby przesłuchiwanej. W stosunku do osoby przesłuchiwanej nie stosuje się środków przymusu.
+
+**Art. 21.** Organ orzekający Rzeczypospolitej Polskiej przekazuje odpis postanowienia przedmiocie kompensaty organowi pomocniczemu innym państwie członkowskim Unii Europejskiej i osobom, które wystąpiły z wnioskiem o kompensatę, wykorzystując tym celu właściwy formularz opracowany przez Komisję Europejską. członkowskim Unii Europejskiej korespondencję dotyczącą kompensaty języku urzędowym tego państwa lub innym języku wskazanym przez to państwo, z zastrzeżeniem ust. 3. 2. Organ pomocniczy i organ orzekający Rzeczypospolitej Polskiej przyjmuje od organów pomocniczych i organów orzekających innych państwach członkowskich Unii Europejskiej korespondencję języku polskim i angielskim, z zastrzeżeniem ust. 3. 3. Protokoły z przesłuchań przeprowadzonych przez organ pomocniczy oraz orzeczenia wydane przez organy orzekające przedmiocie kompensaty przyjmuje się i przekazuje języku urzędowym państwa, którym zostały one sporządzone.
 
 #### Rozdział 4 Przepisy końcowe
+
+**Art. 23.** Przepisy ustawy mają zastosowanie do przestępstw popełnionych od dnia 1 lipca 2005 r.
+
+**Art. 24.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem art. 9 ust. 4, art. 10 ust. 2 oraz art. 15–22, które wchodzą życie z dniem 1 stycznia 2006 r.
 

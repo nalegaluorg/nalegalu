@@ -8,9 +8,10 @@ pos: 1255
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# Poz.: 1277 dnia 27 grudnia w sprawie miejscowej organów podatkowych w sprawach niektórych podatkowych oraz poszczególnych kategorii podatników 6737 1278 dnia 27 grudnia w sprawie nadania statutu wi Mieszkalnictwa Rozwoju Miast 6739
+# 1999 Nr 110 1255
 
 | Pole | Wartość |
 |---|---|
@@ -24,106 +25,90 @@ domain: null
 | Ostatnia zmiana | 2024-09-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991101255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/1255/text.pdf) |
 
-USTAWA dnia 23 grudnia o w sferze oraz o zmianie niektórych ustaw.
+USTAWA dnia 23 grudnia 1999 o kształtowaniu wynagrodzeń państwowej sferze budżetowej o zmianie niektórych ustaw
 
-**Art. 1.** Ustawa zasady tryb w sferze oraz li mity zatrudnienia dla osób systemami
+**Art. 1.** Ustawa określa zasady tryb kształtowania wynagrodzeń państwowej sferze budżetowej.
 
-**Art. 2.** Przez w ustawie
+**Art. 2.** Przez użyte ustawie określenia:
+
+**Art. 3.** Przepisów nie stosuje się do:
 
 **Art. 4.**
 
-1. Kwoty bazowe waloryzowane corocz nie wzrostu wynagro
+1. Kwoty bazowe waloryzowane są corocznie średniorocznym wskaźnikiem wzrostu wynagrodzeń.
 
-2. Wynagrodzenia osób nie mi systemami waloryzowane niorocznym wzrostu
+2. Wynagrodzenia osób nieobjętych mnożnikowymi systemami wynagrodzeń waloryzowane są średniorocznym wskaźnikiem wzrostu wynagrodzeń.
 
-3. Średnioroczny wskaźnik wzrostu wynagrodzeń dla poszczególnych grup pracowni ków.
+3. Średnioroczny wskaźnik wzrostu wynagrodzeń może być różny dla poszczególnych grup pracowników.
 
-**Art. 5.** Pracownikami sfery wej
+**Art. 5.** Pracownikami państwowej sfery budżetowej są:
 
 **Art. 6.**
 
-1. do w roku dla osób, o których mowa wart. 5 pkt 1,
+1. Podstawę do określenia wynagrodzeń roku budżetowym dla pracowników, o których mowa art. 5 pkt 1 lit. a d pkt 2, stanowią wynagrodzenia roku poprzedniego, zwaloryzowane średniorocznym wskaźnikiem wzrostu wynagrodzeń ustalonym ustawie budżetowej, dodatkowe wynagrodzenie roczne, wypłacane na podstawie odrębnych przepisów.
 
-- **1)** limity zatrudnienia w ustawie wej dla poszczególnych grup osób, w klasyfikacji dochodów wydatków,
-- **2)** kwoty bazowe,
-- **3)** ustalone w przepisach kwot bazowych,
-- **4)** wynagrodzenia roku poprzed niego zwaloryzowane kiem wzrostu oraz dodatkowe wyna
+2. Wynagrodzenia dla pracowników, o których mowa art. 5 pkt 1 lit. b, określane są zgodnie przepisami dnia 28 stycznia 2016 – Prawo o prokuraturze (Dz. 2024 390) dnia 27 lipca 2001 – Prawo o ustroju sądów powszechnych (Dz. 2024 334).
+
+3. Wynagrodzenia dla pracowników, o których mowa art. 5 pkt 1 lit. c, określane są zgodnie przepisami dnia 26 stycznia 1982 – Karta Nauczyciela (Dz. 2024 986).
 
 **Art. 7.**
 
-1. Średnioroczne wskaźniki wzrostu wyna o których mowa wart. 6 ust. 2, corocznie przedmiotem negocjacji w ramach Trójstronnej Komi sji do Spraw
+1. Średnioroczne wskaźniki wzrostu wynagrodzeń dla osób, o których mowa art. 5 pkt 2, są corocznie przedmiotem negocjacji ramach Rady Dialogu Społecznego.
 
-2. Rada Ministrów, w terminie do dnia 15 czerwca roku, Trójstronnej Komisji do Spraw a ogólnokra jowym organizacjom zawodowych zrzesza pracowników sfery w celu opinii, wzrostu w sfe rze na rok Wraz Rada Ministrów o:
+2. Rada Ministrów, terminie do dnia 15 czerwca każdego roku, przedkłada Radzie Dialogu Społecznego, a także ogólnokrajowym organizacjom związków zawodowych zrzeszających pracowników państwowej sfery budżetowej celu wyrażenia opinii, propozycję średniorocznych wskaźników wzrostu wynagrodzeń państwowej sferze budżetowej na rok następny. Wraz tą propozycją Rada Ministrów przedkłada informację o:
 
-- **1)** prognozowanej dynamice produktu krajowego brutto,
-- **2)** prognozowanych zmianach cen towarów konsumpcyjnych,
-- **3)** prognozowanym w gospo darce narodowej, w tym w sektorze biorstw,
-- **4)** prognozowanym zatrudnieniu w gospodarce naro dowej,
-- **5)** prognozowanych zmianach w stopie bezrobocia,
-- **6)** prognozowanym zatrudnieniu w sfe rze
-- **7)** wynagrodzeniach roku poprzedniego pracowników sfery nie systemami wynagro
+- **1)** prognozowanej dynamice produktu krajowego brutto;
+- **2)** prognozowanych zmianach cen towarów usług konsumpcyjnych;
+- **3)** prognozowanym wzroście wynagrodzeń gospodarce narodowej, tym sektorze przedsiębiorstw;
+- **4)** prognozowanym zatrudnieniu gospodarce narodowej;
+- **5)** prognozowanych zmianach stopie bezrobocia;
+- **6)** prognozowanym zatrudnieniu państwowej sferze budżetowej;
+- **7)** wynagrodzeniach roku poprzedniego pozostałych pracowników państwowej sfery budżetowej nieobjętych mnożnikowymi systemami wynagrodzeń.
 
-3. Nieprzedstawienie przez organizacje zawodowych opinii, w terminie 20 dni od dnia propozycji, za prawa jej .
+3. Nieprzedstawienie przez organizacje związków zawodowych opinii, terminie 20 dni od dnia przedłożenia propozycji, uważa się za rezygnację prawa jej wyrażenia.
 
-4. Trójstronna Komisja do Spraw -Gospodarczych uzgodni wzrostu w sfe rze Rada Ministrów jest do w projekcie ustawy wyna uzgodnionej wy
+4. Jeżeli Rada Dialogu Społecznego uzgodni, drodze uchwały, wysokość średniorocznych wskaźników wzrostu wynagrodzeń państwowej sferze budżetowej, Rada Ministrów jest zobowiązana do uwzględnienia projekcie budżetowej wynagrodzeń zapewniających osiągnięcie uzgodnionej wysokości wskaźników.
 
-5. w 35 dni od dnia przedstawienia pro pozycji, o których mowa w ust. 2, nie uzgod nienie stanowiska Trójstronnej Komisji do Spraw Spo Rada Ministrów przyjmie do
+5. Jeżeli terminie 30 dni od dnia otrzymania propozycji nie nastąpi uzgodnienie stanowiska Rady Dialogu Społecznego, Rada Ministrów przyjmie do projektu budżetowej średnioroczne wskaźniki wzrostu wynagrodzeń państwowej sferze budżetowej na rok następny, tym że nie mogą być one niższe od wskaźników zawartych propozycji, o której mowa ust. 2.
 
-- **1)** w jednostkach limity zatrudnienia dla poszczególnych grup osób, o któ rych mowa wart. 5 pkt 1, ust. 2, w podziale na klasyfikacji dochodów wydatków,
-- **2)** kwoty bazowe,
-- **3)** wzrostu w sferze
-- **4)** kwoty dla jednostek dla poszczególnych grup pracowni ków, o których mowa wart. 5, w podziale na klasyfikacji dochodów wydatków.
+6. Terminy, o których mowa ust. 2, 3 5, Rada Dialogu Społecznego zmienia na wniosek przedstawiciela Rady Ministrów jej składzie, odpowiednio do zmiany terminu dokonanej na podstawie art. 19 ust. 2 dnia 24 lipca 2015 o Radzie Dialogu Społecznego innych instytucjach dialogu społecznego (Dz. 2018 2232, późn. zm. ).
 
-2. Limity zatrudnienia ustala dla rzy funkcjonariuszy, o których mowa wart. 5 pkt 1 lit. c) d).
+**Art. 8.**
 
-3. Rada Ministrów w drodze nia, przypadki, w których wynagrodzenia w gospodarstwach pomocniczych stwowych jednostek oraz finansowane ze specjalnych, a w szko innych jednostkach go na zasadach w usta wie o szkolnictwie po nad wynagrodzenia, ustalone zgodnie art. 6, w
+1. Podwyższenie wynagrodzeń dla pracowników państwowej sfery budżetowej następuje ciągu 3 miesięcy po ogłoszeniu budżetowej, wyrównaniem od dnia 1 stycznia danego roku, zastrzeżeniem ust. 2.
 
-- **1)** przepisów ustaw specjalne,
-- **2)** uzyskania ponadplanowych dochodów w dach gospodarstwach pomocni czych,
-- **3)** uzyskanych innych wart. 24 ust. 1 pkt 1 2 oraz wart. 152 ust. 1 usta wy o szkolnictwie
-- **4)** prowizyjnych za egzeku cyjne,
-- **5)** wyrównania do kwoty minimalnego wy nagrodzenia, na podstawie nych przepisów,
-- **6)** zmian organizacyjnych.
+2. Podwyższenie wynagrodzeń dla nauczycieli zatrudnionych szkołach placówkach prowadzonych przez organy administracji rządowej następuje terminie określonym zgodnie przepisami dnia 26 stycznia 1982 – Karta Nauczyciela.
 
-4. Ponad wynagrodzenia, ustalone zgodnie art. 6, wynagrodzenia finansowane Funduszu Pracy, Funduszu Gwarantowanych Świad Pracowniczych Funduszu Rehabi jubileuszowych, odpraw emerytalnych odpraw w na niezdolno do pracy oraz ekwiwalentów za nie wykorzysta ny urlop wypoczynkowy dla osób kie rownicze stanowiska dla pracowni ków jednostek organizacyjnych wy w których limit za trudnienia nie przekracza 50 osób.
+**Art. 9.**
 
-**Art. 11.** W ustawie dnia 17 grudnia 1974 o upo (Dz. U. 1992 5, 18, 1995 4, 17 34, 163, 1996 7, 44 139, 647, 1997 80, 496, 106, 678 141, 943 944 oraz 50,
+1. W ustawie budżetowej ustala się:
 
-**Art. 12.** W ustawie dnia 31 lipca 1981 o wyna grodzeniu osób kierownicze stanowiska (Dz. U. 20, 101, 1982 31, 214, 1985 22, 98 50, 262, 1987 21, 123, 1989 34, 178, 1991 100, 443, 1993 1, 1, 1995 34, 163 142, 701, 1996 73, 350, 89, 402, 106, 496 139, 647, 1997 75, 469 133, 883 oraz 1998 155, 1016 160, 1065) wprowadza zmiany:
+- **1)** (uchylony)
+- **2)** kwoty bazowe;
+- **3)** średnioroczne wskaźniki wzrostu wynagrodzeń państwowej sferze budżetowej;
+- **4)** kwoty wynagrodzeń dla państwowych jednostek budżetowych, dla poszczególnych grup pracowników, o których mowa art. 5, podziale na części działy klasyfikacji dochodów wydatków.
 
-**Art. 13.** W ustawie dnia 20 1984 o
+2. (uchylony)
 
-**Art. 14.** W ustawie dnia 20 czerwca 1985 Pra wo o ustroju powszechnych (Dz.U. 1994 7, 25, 77, 355, 91, 421 105, 509, 1995 34, 163 81, 406, 1996 77, 367, 1997 75, 471, 98, 604, 106, 679, 117, 751, 752 753, 121, 769, 124, 782 133, 882, 1998 98, 607, 160, 1064 162, 1118 1125 oraz 20, 180, 60, 636, 75, 853 83, 931) wprowadza zmiany:
+3. (uchylony)
 
-**Art. 15.** W ustawie dnia 20 czerwca 1985 o pro kuraturze (Dz. U. 1994 19, 70 105, 509, 1995 34, 163, 1996 77, 367, 1997 90, 557, 98, 604, 106, 679, 117, 752 753, 124, 782 141, 994, 1998 98, 607, 155, 1016 162, 1123 1125 oraz 60, 636 75, 853) wart. 62 ust. 1 otrzymuje brzmienie: " 1. Wynagrodzenie zasadnicze prokuratorów równo powszechnych jednostek organizacyj nych prokuratury jest równe stanowi, odpowied nio do rangi stanowiska prokuratora, wielokrot kwoty bazowej, której zasad ustawa wa; wynagrodzenia prokuratorów rów jednostek organizacyjnych pracy fu nkcje."
+4. Ponad wynagrodzenia, ustalone zgodnie art. 6, mogą być wypłacane wynagrodzenia finansowane Funduszu Pracy, Funduszu Gwarantowanych Świadczeń Pracowniczych Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych.
 
-**Art. 16.** W ustawie dnia 6 kwietnia 1990 o Poli cji (Dz. U. 30, 179, 1991 94, 422 107, 461, 1992 54, 254, 1994 53, 214, 1995 4, 17, 34, 163 w ust. 3, Rada Ministrów w drodze rozpo
+**Art. 10.** W budżecie państwa mogą być tworzone rezerwy celowe przeznaczone dla państwowych jednostek budżetowych na:
 
-**Art. 17.** W ustawie dnia 6 kwietnia 1990 o dzie Ochrony (Dz.U. 51, 526 53, 548) wart. 86 ust. 3 4 brzmie nie: ,,3. funkcjonariuszy stanowi kwoty bazowej, której zasad ustawa 4. kwoty bazowej, o której mowa w ust. 3, Rada Ministrów w drodze rozpo "
+**Art. 10a.** Upoważnia się ministra właściwego do spraw finansów do dokonywania przeniesień kwoty środków na uposażenia, nagrody roczne pozostałe na wniosek Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu Szefa Centralnego Biura Antykorupcyjnego. Art. 11–29e. (pominięte)
 
-**Art. 18.** W ustawie dnia 28 lipca 1990 o ubezpieczeniowej (Dz.U. 1996 11, 62, 1997 43, 272, 88, 554, 107, 685, 121, 769 770 139, 934, 1998 155, 1015 oraz 49, 483 101, 1178) wart. 82c wprowadza zmiany:
+**Art. 29f.** (uchylony) Art. 29g–29n. (pominięte)
 
-**Art. 19.** W ustawie dnia 12 1990 o Granicznej (Dz.U. 78, 462, 1991 94, 422, 1992 54, 254, 1993 12, 52, 1994 53, 214, 1995 4, 17, 34, 163 104, 515, 1996 106, 496 124, 583 oraz 1997 28, 153, 88, 554 121, 770) wart. 103 ust. 3 4 otrzy brzmienie: ,,3. funkcjonariuszy stanowi kwoty bazowej, której zasad ustawa 4. kwoty bazowej, o której mowa w ust. 3, Rada Ministrów w drodze rozpo 4. kwoty bazowej, o której mowa w ust. 3, Rada Ministrów w drodze rozpo
+**Art. 29o.** W 2020 kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana.
 
-**Art. 21.** W ustawie dnia 26 kwietnia 1996 o bie (Dz. U. 61, 283 106, 496 oraz 1997 28, 153, 88, 554 133,
+**Art. 29p.** W 2023 kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana.
 
-**Art. 22.** W ustawie dnia 6 lutego 1997 o po wszechnym ubezpieczeniu zdrowotnym (Dz. U. 28, 153 75, 468, 1998 117, 756, 137, 887, 144, 929 162, 1116 oraz 45, 439, 49, 483, 63, 700, 70, 777, 72, 802 109, 1236) wart. 151a wprowadza zmiany:
+**Art. 29q.** W 2024 kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana.
 
-**Art. 23.** W ustawie dnia 10 kwietnia 1997 Pra wo energetyczne (Dz. U. 54, 348 158, 1042, 1998 94, 594, 106, 668 162, 1126 oraz 88, 980 91,
+**Art. 30.** (pominięty)
 
-**Art. 24.** W ustawie dnia 29 sierpnia 1997 o ko mornikach egzekucji (Dz. U. 133,
+**Art. 31.** Traci moc ustawa dnia 23 grudnia 1994 o kształtowaniu środków na wynagrodzenia państwowej sferze budżetowej (Dz. 1995 163, późn. zm. ).
 
-**Art. 25.** W ustawie dnia 12 grudnia 1997 o do datkowym wynagrodzeniu rocznym dla pracowników
-
-**Art. 26.** W ustawie dnia 26 listopada 1998 o fi nansach publicznych (Dz. U. 155, 1014 oraz 38, 360, 49, 485 70,
-
-**Art. 27.** W ustawie dnia 18 grudnia 1998 o bie cywilnej (Dz. U. 49, 483 70,
-
-**Art. 29.** W roku 2000 kwoty bazowe dla: osób kierownicze stanowiska stwowe, korpusu cywilnej, etato wych kolegiów odwo kuratorów zawodowych, ko morników asesorów aplikantów wych prokuratorskich, funkcjonariuszy Celnej 1 490,30
-
-**Art. 31.** Traci moc ustawa dnia 23 grudnia 1994 o na wynagrodzenia w stwowej sferze (Dz. U. 1995 34, 163, 1996 106, 496 139, 647, 1997 133, 883, 1998 117, 756, 155, 1014 1016 160, 1059 oraz 62, 684 72, 802).
-
-**Art. 32.** Ustawa wchodzi w dniem 1 stycznia 2000 Prezydent Rzeczypospolitej Polskiej: A. 1256 USTAWA dnia 23 grudnia o zmianie ustawy o systemie oraz niektórych innych ustaw.
-
-**Art. 1.** W ustawie dnia 13 1998 o systemie (Dz. U. 137, 887 162, 1118 1126 oraz 26, 228, 60, 636, 72, 802 78,
+**Art. 32.** Ustawa wchodzi życie dniem 1 stycznia 2000
 

@@ -8,9 +8,12 @@ pos: 1450
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, 28 sierpnia 2003 r.
+# Ustawa z dnia 23 lipca 2003 r. o przejęciu przez Skarb Państwa zobowiązań Zakładu Ubezpieczeń Społecznych z tytułu nieprzekazanych składek do otwartych funduszy emerytalnych
+
+*USTAWA dnia 23 lipca 2003 przejęciu Skarb Państwa Zakładu Ubezpieczeń Społecznych nieprzekazanych składek do otwartych emerytalnych*
 
 | Pole | Wartość |
 |---|---|
@@ -24,51 +27,58 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031491450) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1450/text.pdf) |
 
-USTAWA zdnia 23 lipca 2003 r.
-oprzejęciu zobowiązań Zakładu Ubezpieczeń Społecznych ztytułu nieprzekazanych otwartych funduszy emerytalnych
+**Art. 1.** Użyte ustawie określenia oznaczają:
 
-**Art. 1.** Użyte wustawie określenia oznaczają:
+**Art. 2.**
 
-**Art. 1.** przejmuje zobowiązania tytułu wysokości wynikającej informacji o wysokości zobowiązań tytułu otrzymanej ministra właściwego spraw finansów publicznych od ministra właściwego spraw zabezpieczenia społecznego. Przejmowane zobowiązania tytułu stają się długiem Skarbu ostatnim dniu roboczym miesiąca, którym minister właściwy spraw finansów publicznych otrzymał od ministra właściwego spraw zabezpieczenia społecznego informację owysokości zobowiązań ztytułu składek. 3. Zdniem, októrym mowa wust. 2, następuje wygaśnięcie zobowiązań tytułu Zakładu wysokości wynikającej informacji, o której mowa wust.1. 4. Przejęte zobowiązania ztytułu są regulowane dniu, o którym mowa 2, drodze przekazania obligacji skarbowych wliczbie wynikającej zilorazu wysokości zobowiązania ztytułu iceny zamiany jednej obligacji, zaokrąglonej następnie na zasadach ogólnych pełnej liczby sztuk obligacji. 5. Z dniem przekazania funduszowi obligacji skarbowych następuje wygaśnięcie zobowiązań Skarbu wynikających zprzejętych zobowiązań ztytułu wwysokości określonej winformacji, októrej mowa wust. 1.
+1. Skarb Państwa przejmuje zobowiązania składek wysokości wynikającej informacji wysokości składek otrzymanej ministra właściwego do spraw finansów publicznych od ministra właściwego do spraw zabezpieczenia społecznego.
+
+2. Przejmowane Skarb Państwa zobowiązania składek stają długiem Skarbu Państwa ostatnim dniu roboczym miesiąca, którym minister właściwy do spraw finansów publicznych otrzymał od ministra właściwego do spraw zabezpieczenia społecznego informację wysokości składek.
+
+3. Z dniem, którym mowa ust. 2, następuje wygaśnięcie składek Zakładu wysokości wynikającej informacji, której mowa ust. 1.
+
+4. Przejęte Skarb Państwa zobowiązania składek są regulowane dniu, którym mowa ust. 2, drodze przekazania obligacji skarbowych liczbie wynikającej ilorazu wysokości zobowiązania składek i ceny zamiany jednej obligacji, zaokrąglonej następnie na zasadach ogólnych do pełnej liczby sztuk obligacji.
+
+5. Z dniem przekazania funduszowi obligacji skarbowych następuje wygaśnięcie Skarbu Państwa wynikających przejętych składek wysokości określonej informacji, której mowa ust. 1.
 
 **Art. 3.**
 
-1. Zakład przekazuje ministrowi właściwemu spraw zabezpieczenia społecznego wformie pisemnej ielektronicznej, nie póêniej niż trzeciego roboczego danego miesiąca kalendarzowego, informację o wysokości zobowiązań tytułu zewidencjonowanych dwudziestego piątego poprzedniego miesiąca kalendarzowego na kontach ubezpieczopapierów wartościowych, na który mają być przekazane obligacje, wterminie 14 dni od daty wejścia ustawy życie. Numer może być fundusz zmieniany.
+1. Zakład przekazuje ministrowi właściwemu do spraw zabezpieczenia społecznego formie pisemnej i elektronicznej, nie później niż:
 
-3. Minister właściwy spraw zabezpieczenia społecznego przekazuje ministrowi właściwemu spraw finansów publicznych, wterminie piątego roboczego danego miesiąca kalendarzowego, pisemną informację, która powinna zawierać dane zawarte winformacji, o której mowa 1, oraz wskazanie rachunków papierów wartościowych, na które mają być przekazane obligacje na rzecz poszczególnych funduszy.
+- **1)** trzeciego dnia roboczego danego miesiąca kalendarzowego, którym nie odbywa wypłata transferowa, której mowa art. 8 pkt 3 ustawy dnia 28 sierpnia 1997 organizacji i funkcjonowaniu emerytalnych,
+- **2)** dwudziestego dnia danego miesiąca kalendarzowego, którym odbywa wypłata transferowa, której mowa art. 8 pkt 3 ustawy dnia 28 sierpnia 1997 organizacji i funkcjonowaniu emerytalnych, informację wysokości składek zewidencjonowanych do dwudziestego piątego dnia poprzedniego miesiąca kalendarzowego na kontach ubezpieczonych i nieprzekazanych do tego dnia do funduszy, podziałem na
+- **1)** piątego dnia roboczego danego miesiąca kalendarzowego, którym nie odbywa wypłata transferowa, której mowa art. 8 pkt 3 ustawy dnia 28 sierpnia 1997 organizacji i funkcjonowaniu emerytalnych,
+- **2)** dwudziestego drugiego dnia danego miesiąca kalendarzowego, którym odbywa wypłata transferowa, której mowa art. 8 pkt 3 ustawy dnia 28 sierpnia 1997 organizacji i funkcjonowaniu emerytalnych, pisemną informację, która powinna zawierać dane zawarte informacji, której mowa ust. 1, oraz wskazanie rachunków papierów wartościowych, na które mają być przekazane obligacje na rzecz poszczególnych funduszy.
 
-4. Zakład przekazuje funduszu dnia, októrym mowa wart. 2 2, informację owysokości zobowiązań tytułu składek, o których mowa 1, wobec poszczególnych członków tego funduszu.
+4. Zakład przekazuje do funduszu do dnia, którym mowa art. 2 ust. 2, informację wysokości składek, których mowa ust. 1, wobec poszczególnych członków tego funduszu.
 
-**Art. 4.** Należność ztytułu poniesionych kosztów poboru dochodzenia na fundusze, o której mowa wart. 76 1 pkt 3 ustawy zdnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych, Zakład ustala od kwoty przejętych zobowiązań tytułu składek, wyłączeniem zobowiązań ztytułu odsetek należnych od składek, ipotrąca zkwoty bieżących przekazywanych funduszu nie wcześniej niż wdniu regulowania zobowiązań ztytułu Państwa.
+**Art. 4.** Należność poniesionych kosztów poboru i dochodzenia składek na fundusze, której mowa art. 76 ust. 1 pkt 3 ustawy dnia 13 października 1998 systemie ubezpieczeń społecznych, Zakład ustala od kwoty przejętych Skarb Państwa składek, wyłączeniem odsetek należnych od składek, i potrąca kwoty bieżących składek przekazywanych do funduszu nie wcześniej niż dniu regulowania składek Skarb Państwa.
 
 **Art. 5.**
 
-1. Fundusz pobiera bezpośrednio ze swoich aktywów opłatę, o której mowa art. 134 1 pkt 1 ustawy 28 sierpnia 1997 r. o organizacji funkcjonowaniu funduszy emerytalnych, od wartości zobowiązań tytułu przejętych uregulowanych na podstawie niniejszej ustawy. Do obliczania ipobierania opłaty, októrej mowa 1, stosuje się art. 135 ustawy 28 sierpnia 1997 r. o organizacji funkcjonowaniu funduszy emerytalnych. Opłata jest pobierana wysokości wynikającej ze stażu członkowskiego, posiadanego członka funduszu wdniu zapisania obligacji na rachunku papierów wartościowych funduszu.
+1. Fundusz pobiera bezpośrednio ze swoich aktywów opłatę, której mowa art. 134 ust. 1 pkt 1 ustawy dnia 28 sierpnia 1997 organizacji i funkcjonowaniu emerytalnych, od wartości składek przejętych i uregulowanych Skarb Państwa na podstawie niniejszej ustawy.
 
-3. Wprzypadku pobrania opłaty wsposób określony wust. 1:
+2. Do obliczania i pobierania opłaty, której mowa ust. 1, stosuje art. 135 ustawy dnia 28 sierpnia 1997 organizacji i funkcjonowaniu emerytalnych. Opłata jest pobierana wysokości wynikającej ze stażu członkowskiego, posiadanego członka funduszu dniu zapisania obligacji na rachunku papierów wartościowych funduszu.
 
-- **1)** wartość przekazanych funduszu obligacji pomniejszoną o wartość opłaty, o której mowa wust. 1, przelicza się na jednostki rozrachunkowe;
-- **2)** aktywów funduszu przekazuje się wszystkie obligacje otrzymane na podstawie niniejszej ustawy.
+3. W przypadku pobrania opłaty sposób określony ust. 1:
 
-4. Przekazanie fundusz na rzecz powszechnego towarzystwa emerytalnego opłaty, o której mowa wust. 1, odbywa się wnastępnym dniu po przeliczeniu obligacji na jednostki rozrachunkowe.
+- **1)** wartość przekazanych do funduszu obligacji pomniejszoną wartość opłaty, której mowa ust. 1, przelicza na jednostki rozrachunkowe; wysokości wskazanej informacji przekazanej Zakład do funduszu, jest przeliczana na jednostki rozrachunkowe najbliższym dniu wyceny następującym po zdeponowaniu przekazanych funduszowi obligacji na rachunku papierów wartościowych funduszu, według wartości jednostki rozrachunkowej na dzień zdeponowania obligacji.
 
-5. Wartość obligacji, rozumiana jako równowartość zobowiązań tytułu wysokości wskazanej wartościowych funduszu, według wartości jednostki rozrachunkowej na dzień zdeponowania obligacji.
+6. Jeżeli wartość przekazanych funduszowi obligacji wynikająca ceny zamiany jest większa od wysokości zobowiązania składek, różnica stanowi przychód funduszu.
 
-6. Jeżeli wartość przekazanych funduszowi obligacji wynikająca zceny zamiany jest większa od wysokości zobowiązania tytułu składek, różnica stanowi przychód funduszu.
-
-7. Jeżeli wartość przekazanych funduszowi obligacji według ceny zamiany jest mniejsza od wysokości zobowiązania tytułu składek, różnica jest pokrywana fundusz bezpośrednio zjego aktywów.
+7. Jeżeli wartość przekazanych funduszowi obligacji według ceny zamiany jest mniejsza od wysokości zobowiązania składek, różnica jest pokrywana fundusz bezpośrednio jego aktywów.
 
 **Art. 6.**
 
-1. Zobowiązania Skarbu wynikające przejętych zobowiązań tytułu są zamieniane na obligacje skarbowe o terminie wykupu nie dłuższym niż 31 grudnia 2011 r. zmiennym oprocentowaniu opartym o rentowność 52-tygodniowych bonów skarbowych, według ceny zamiany. Zmienne oprocentowanie, o którym mowa 1, jest obliczane jako średnia arytmetyczna średnich ważonych stóp rentowności 52-tygodniowych bonów skarbowych sprzedanych na czterech ostatnich przetargach, które odbyły się końca miesiąca bezpośrednio poprzedzającego miesiąc, którym następuje rozpoczęcie danego okresu odsetkowego, ijest zaokrąglane dwóch miejsc po przecinku.
+1. Zobowiązania Skarbu Państwa wynikające przejętych składek są zamieniane na obligacje skarbowe terminie wykupu nie dłuższym niż do dnia 31 grudnia 2011 i zmiennym oprocentowaniu opartym rentowność 52-tygodniowych bonów skarbowych, według ceny zamiany.
 
-3. Minister właściwy spraw finansów publicznych określa wliście emisyjnym szczegółowe warunki emisji obligacji skarbowych, októrych mowa wust. 1.
+2. Zmienne oprocentowanie, którym mowa ust. 1, jest obliczane jako średnia arytmetyczna średnich ważonych stóp rentowności 52-tygodniowych bonów skarbowych sprzedanych na czterech ostatnich przetargach, które odbyły do końca miesiąca bezpośrednio poprzedzającego miesiąc, którym następuje rozpoczęcie danego okresu odsetkowego, i jest zaokrąglane do dwóch miejsc po przecinku.
 
-**Art. 7.** W ustawie 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. 137, 887, póên. zm. ny raport miesięczny korygujący formie nowego dokumentu zawierającego wszystkie prawidłowe informacje określone wust. 3—5, jeżeli zachodzi konieczność korekty danych podanych imiennym raporcie miesięcznym wprzypadku stwierdzenia nieprawidłowości:
+3. Minister właściwy do spraw finansów publicznych określa liście emisyjnym szczegółowe warunki emisji obligacji skarbowych, których mowa ust. 1.
 
-**Art. 8.** Przepisy art. 1—6 stosuje się ——————— 31grudnia 2007 r.
+**Art. 7.** W ustawie dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz.U. 137, 887, późn. zm. ) wprowadza następujące zmiany:
 
-**Art. 9.** Ustawa wchodzi wżycie zdniem 1 paêdziernika 2003 r., wyjątkiem art. 7, który wchodzi życie zdniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1451 USTAWA zdnia 23 lipca 2003 r. ozmianie ustawy Prawo oruchu drogowym
+**Art. 8.** Przepisy art. 1-6 stosuje do dnia 31 grudnia 2008
 
-**Art. 1.** W ustawie 20 czerwca 1997 r. Prawo oruchu drogowym (Dz. U. z2003 r. 58, 515,
+**Art. 9.** Ustawa wchodzi życie dniem 1 października 2003 r., wyjątkiem art. 7, który wchodzi życie dniem ogłoszenia.
 

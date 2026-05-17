@@ -8,9 +8,12 @@ pos: 1598
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 października 2024 r.
+# o rezerwach strategicznych
+
+*USTAWA z dnia 17 grudnia 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,33 +27,7 @@ domain: null
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1598/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 18 października 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o rezerwach strategicznych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2023 r. poz. 294), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 października 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 61–63, art. 65, art. 67, art. 75–78, art. 80 i art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), które stanowią: „Art. 61. 1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że sprawy te toczą się przed organem, który przejął zadania i kompetencje na podstawie niniejszej ustawy.
-2. Organ, który przejął zadania i kompetencje na podstawie niniejszej ustawy, przejmuje związane z tymi zadaniami i kompetencjami prawa i obowiązki organu, który utracił te zadania i kompetencje, w tym także wynikające z umów i porozumień.
-3. Akta spraw, rejestry, ewidencje, listy i bazy danych, prowadzone przed dniem wejścia w życie niniejszej ustawy przez organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, przejmuje organ, który przejął od niego w tym zakresie zadania i kompetencje na podstawie niniejszej ustawy.
-4. Organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, przekazuje niezwłocznie organowi, który przejął od niego zadania i kompetencje na podstawie niniejszej ustawy, dokumentację związaną z wykonywaniem przejętych zadań i kompetencji, w tym także w postaci informatycznych nośników danych.
-5. Z czynności, o których mowa w ust. 3 i 4, sporządza się protokół.
 Art. 51–66. (pominięte)
-
-**Art. 62.** Dyrektorzy generalni urzędów obsługujących organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, przekażą sprawy wszczęte i niezakończone dyrektorom generalnym urzędów obsługujących organy, które przejęły te zadania i kompetencje. Z czynności przekazania sporządza się protokół.
-
-**Art. 63.** Czynności dokonane przed dniem wejścia w życie niniejszej ustawy przez organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, a także dokumenty sporządzone przed dniem wejścia w życie niniejszej ustawy przez ten organ albo przy jego udziale, w szczególności uzgodnienia, zatwierdzenia, akceptacje, wezwania, wpisy do rejestrów, zlecenia, wskazania, weryfikacje, notyfikacje, opinie i zaświadczenia, zachowują ważność, przy czym dokumenty wydane na czas określony zachowują ważność przez okres, na który zostały wydane.” „Art. 65. 1. Z dniem wejścia w życie niniejszej ustawy pracownicy zatrudnieni w urzędzie obsługującym organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, realizujący zadania i kompetencje, które są przejmowane na podstawie niniejszej ustawy, stają się pracownikami zatrudnionymi w urzędzie obsługującym organ, który przejął te zadania i kompetencje na podstawie niniejszej ustawy. 2. Dotychczasowy pracodawca jest obowiązany, w terminie 14 dni od dnia wejścia w życie niniejszego przepisu, zawiadomić na piśmie osoby, o których mowa w ust. 1, o zmianach, jakie mają nastąpić w ich stosunkach pracy. Przepis art. 23 § 4 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465) stosuje się odpowiednio. 3. Przepisu ust. 2 zdanie drugie nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409).” „Art. 67. W celu wykonania przepisów niniejszej ustawy Prezes Rady Ministrów dokona, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, dotacji podmiotowej i celowej, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikających z ustawy budżetowej, a do czasu jego wejścia w życie dochody i wydatki są realizowane w ramach dotychczasowych części.” „Art. 75. Z dniem wejścia w życie niniejszej ustawy:
-
-**Art. 76.**
-
-1. Procedura sprzedaży oraz nieodpłatnego przekazania zlikwidowanych rezerw strategicznych zatwierdzona przed dniem wejścia w życie niniejszej ustawy zgodnie z art. 28 ustawy zmienianej w art. 51, w brzmieniu dotychczasowym, zachowuje moc do dnia zatwierdzenia przez ministra właściwego do spraw wewnętrznych nowej procedury zgodnie z art. 28 ustawy zmienianej w art. 51, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
-
-2. Procedura udostępniania rezerw strategicznych, o której mowa w art. 24 ustawy zmienianej w art. 51, zatwierdzona przed dniem wejścia w życie niniejszej ustawy, zachowuje moc do dnia zatwierdzenia przez ministra właściwego do spraw wewnętrznych nowej procedury, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 77.**
-
-1. Sprawozdania finansowe Rządowej Agencji Rezerw Strategicznych i związane z nimi informacje za rok 2023 nieprzekazane Prezesowi Rady Ministrów przed dniem wejścia w życie niniejszej ustawy zgodnie z art. 42 ust. 4 ustawy zmienianej w art. 51, w brzmieniu dotychczasowym, są przekazywane ministrowi właściwemu do spraw wewnętrznych.
-
-2. Minister właściwy do spraw wewnętrznych po raz pierwszy przedstawia właściwej komisji sejmowej oraz właściwej komisji senackiej informację, o której mowa w art. 27c pkt 1 ustawy zmienianej w art. 51, za pierwsze półrocze 2024 r.
-
-**Art. 78.** Prezes Rady Ministrów przekaże, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, ministrowi właściwemu do spraw wewnętrznych dokumenty dotyczące Rządowej Agencji Rezerw Strategicznych oraz rezerw strategicznych, z zachowaniem przepisów dotyczących ochrony informacji niejawnych oraz innych tajemnic prawnie chronionych.” „Art. 80. Prezes Rady Ministrów określi, w drodze zarządzenia, przeznaczenie składników majątkowych będących przed dniem wejścia w życie niniejszej ustawy w posiadaniu urzędu obsługującego organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, przeznaczonych do realizacji zadań i kompetencji organu, który przejął te zadania i kompetencje na podstawie niniejszej ustawy.” „Art. 84. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -58,17 +35,15 @@ Art. 51–66. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-**Art. 3.** Rezerwy strategiczne tworzy się na wypadek zagrożenia bezpieczeństwa i obronności państwa, bezpieczeństwa, porządku i zdrowia publicznego oraz wystąpienia klęski żywiołowej lub sytuacji kryzysowej, w celach wsparcia wykonywania zadań w zakresie bezpieczeństwa i obronności państwa, odtworzenia infrastruktury krytycznej, złagodzenia zakłóceń w ciągłości dostaw służących funkcjonowaniu gospodarki i zaspokojeniu podstawowych potrzeb obywateli, ratowania ich życia i zdrowia, realizacji interesów narodowych Rzeczypospolitej Polskiej w dziedzinie bezpieczeństwa narodowego, wypełnienia jej zobowiązań międzynarodowych, a także udzielania pomocy i wsparcia podmiotom prawa międzynarodowego publicznego.
+**Art. 3.** Rezerwy strategiczne tworzy się na wypadek zagrożenia bezpieczeństwa i obronności państwa, bezpieczeństwa, porządku i zdrowia publicznego oraz wystąpienia klęski żywiołowej lub sytuacji kryzysowej, w celach wsparcia wykonywania zadań w zakresie bezpieczeństwa i obronności państwa, ochrony ludności i obrony cywilnej, odtworzenia infrastruktury krytycznej, złagodzenia zakłóceń w ciągłości dostaw służących funkcjonowaniu gospodarki i zaspokojeniu podstawowych potrzeb obywateli, ratowania ich życia i zdrowia, realizacji interesów narodowych Rzeczypospolitej Polskiej w dziedzinie bezpieczeństwa narodowego, wypełnienia jej zobowiązań międzynarodowych, a także udzielania pomocy i wsparcia podmiotom prawa międzynarodowego publicznego.
 
-**Art. 4.** Rezerwy strategiczne mogą stanowić surowce, materiały, urządzenia, maszyny, konstrukcje, elementy infrastruktury krytycznej, moc produkcyjna, moc usługowa, zwierzęta gospodarskie, produkty naftowe, produkty rolne i rolno-spożywcze, środki spożywcze i ich składniki, wyroby medyczne, produkty lecznicze, produkty lecznicze weterynaryjne oraz substancje czynne w rozumieniu ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686), materiały wybuchowe, broń, amunicja oraz ich istotne części, ładunki miotające oraz wyroby i technologie o przeznaczeniu wojskowym lub policyjnym w rozumieniu ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), produkty biobójcze, a także inne produkty niezbędne do realizacji celów, o których mowa w art. 3.
+**Art. 4.** Rezerwy strategiczne mogą stanowić surowce, materiały, urządzenia, maszyny, konstrukcje, elementy infrastruktury krytycznej, moc produkcyjna, moc usługowa, zwierzęta gospodarskie, produkty naftowe, produkty rolne i rolno-spożywcze, środki spożywcze i ich składniki, wyroby medyczne, produkty lecznicze, produkty lecznicze weterynaryjne oraz substancje czynne w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz.
 
 **Art. 5.** Rezerwy strategiczne stanowią wyodrębniony majątek Skarbu Państwa, z zastrzeżeniem art. 6.
 
 **Art. 6.** W przypadkach uzasadnionych rachunkiem ekonomicznym lub szczególnymi względami technologicznymi lub organizacyjnymi dopuszcza się utrzymywanie rezerw strategicznych w postaci asortymentu powierzonego organom administracji publicznej albo stanowiącego własność przedsiębiorców lub podmiotów niebędących przedsiębiorcami, w magazynach będących w ich dyspozycji.
 
-**Art. 7.**
-
-- **2)** Do decyzji wydawanych przez ministra właściwego do spraw wewnętrznych w zakresie rezerw strategicznych oraz organy i podmioty, o których mowa w art. 8 ust. 2, w przypadku, o którym mowa w art. 29, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+**Art. 7.** Do decyzji wydawanych przez ministra właściwego do spraw wewnętrznych w zakresie rezerw strategicznych oraz organy i podmioty, o których mowa w art. 8 ust. 2, w przypadku, o którym mowa w art. 29, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 #### Rozdział 2 Zasady opracowywania Rządowego Programu Rezerw Strategicznych i finansowania rezerw strategicznych
 
@@ -83,7 +58,7 @@ Art. 51–66. (pominięte)
 - **3)** ministrem właściwym do spraw administracji publicznej;
 - **4)** ministrem właściwym do spraw energii;
 - **5)** ministrem właściwym do spraw gospodarki złożami kopalin;
-- **6)** ministrem Członkiem Rady Ministrów Koordynatorem Służb Specjalnych, jeżeli został powołany;
+- **6)** ministrem – Członkiem Rady Ministrów – Koordynatorem Służb Specjalnych, jeżeli został powołany;
 - **7)** ministrem właściwym do spraw gospodarki morskiej;
 - **8)** ministrem właściwym do spraw łączności;
 - **9)** ministrem właściwym do spraw gospodarki wodnej;
@@ -99,11 +74,12 @@ Art. 51–66. (pominięte)
 - **19)** ministrem właściwym do spraw środowiska;
 - **20)** Szefem Agencji Bezpieczeństwa Wewnętrznego;
 - **21)** Rządowym Centrum Bezpieczeństwa;
-- **22)** innymi organami administracji rządowej oraz służbami, inspekcjami i innymi jednostkami realizującymi zadania w zakresie bezpieczeństwa i obronności państwa, zarządzania kryzysowego i ochrony infrastruktury krytycznej oraz bezpieczeństwa, porządku i zdrowia publicznego, w tym sprawującymi, na mocy ustaw, nadzór nad realizacją tych zadań wykonywanych przez przedsiębiorców.
+- **22)** innymi organami administracji rządowej oraz służbami, inspekcjami i innymi jednostkami realizującymi zadania w zakresie bezpieczeństwa i obronności państwa, ochrony ludności i obrony cywilnej, zarządzania kryzysowego i ochrony infrastruktury krytycznej oraz bezpieczeństwa, porządku i zdrowia publicznego, w tym sprawującymi, na mocy ustaw, nadzór nad realizacją tych zadań wykonywanych przez przedsiębiorców.
 
 3. Minister właściwy do spraw wewnętrznych, opracowując projekt Programu, uwzględnia:
 
 - **1)** możliwość wystąpienia lub zaistnienie zagrożenia bezpieczeństwa i obronności państwa, bezpieczeństwa, porządku i zdrowia publicznego, klęski żywiołowej lub sytuacji kryzysowej, w tym ocenę ryzyka wystąpienia zagrożeń dla bezpieczeństwa narodowego;
+- **1a)** realizację zadań ochrony ludności i obrony cywilnej przez organy ochrony ludności i obrony cywilnej oraz podmioty ochrony ludności i obrony cywilnej;
 - **2)** sytuację gospodarczą i społeczną państwa;
 - **3)** stan i perspektywy koniunktury na świecie;
 - **4)** asortymenty rezerw strategicznych i ich ilości, niezbędne do realizacji celów, o których mowa w art. 3;
@@ -205,6 +181,20 @@ Art. 51–66. (pominięte)
 
 2. Decyzję, o której mowa w ust. 1, minister właściwy do spraw wewnętrznych wydaje z urzędu lub na wniosek organu lub podmiotu, o którym mowa w art. 8 ust. 2, uwzględniając stan rezerw i wnioski innych organów lub podmiotów, o których mowa w art. 8 ust. 2.
 
+**Art. 14a.**
+
+1. Agencja jest uprawniona do prowadzenia wszelkich działań obejmujących przyjęcie w formie darowizny, w tym w ramach Unijnego Mechanizmu Ochrony Ludności, o którym mowa w decyzji Parlamentu Europejskiego i Rady nr 1313/2013/EU z dnia 17 grudnia 2013 r. w sprawie Unijnego Mechanizmu Ochrony Ludności (Dz. Urz. UE L 347 z 20.12.2013, str. 924), albo nabycie oraz transport, przechowywanie i wydanie, produktów leczniczych i wyrobów medycznych, w tym niedopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej, a stosowanych w krajach pochodzenia cudzoziemców.
+
+2. Produkty lecznicze i wyroby medyczne nabyte w sposób, o którym mowa w ust. 1, przeznaczone są do podawania cudzoziemcom, w tym w celu zapewnienia ciągłości leczenia rozpoczętego w kraju pochodzenia.
+
+3. Przyjęcie lub nabycie, o którym mowa w ust. 1, następuje na podstawie polecenia ministra właściwego do spraw zdrowia, wydanego w drodze decyzji. Przepis art. 7 stosuje się odpowiednio.
+
+4. Do działalności, o której mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, chyba że niniejsza ustawa stanowi inaczej.
+
+5. Agencja przekazuje Głównemu Inspektorowi Farmaceutycznemu tygodniowe zestawienie produktów leczniczych lub wyrobów medycznych dopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej, przyjętych w formie darowizny lub nabytych, zawierające nazwę, numer GTIN zgodny z systemem GS1, numer serii oraz liczbę opakowań jednostkowych przyjętego lub nabytego produktu leczniczego lub wyrobu medycznego.
+
+6. Zestawienia, o których mowa w ust. 5, doręcza się za pomocą środków komunikacji elektronicznej, o których mowa w art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513).
+
 **Art. 15.** Agencja przechowuje rezerwy strategiczne w magazynach rezerw strategicznych będących własnością Agencji.
 
 **Art. 16.**
@@ -250,8 +240,8 @@ Art. 51–66. (pominięte)
 
 - **1)** otwarcia likwidacji,
 - **2)** zaprzestania prowadzenia działalności, jeżeli odrębne przepisy nie przewidują likwidacji,
-- **3)** ogłoszenia upadłości lub oddalenia wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ust. 1 i 2 ustawy Prawo upadłościowe,
-- **4)** otwarcia postępowania restrukturyzacyjnego, o którym mowa w ustawie Prawo restrukturyzacyjne podmiotu, z którym została zawarta ta umowa.
+- **3)** ogłoszenia upadłości lub oddalenia wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ust. 1 i 2 ustawy – Prawo upadłościowe,
+- **4)** otwarcia postępowania restrukturyzacyjnego, o którym mowa w ustawie – Prawo restrukturyzacyjne – podmiotu, z którym została zawarta ta umowa.
 
 **Art. 18.**
 
@@ -275,8 +265,8 @@ Art. 51–66. (pominięte)
 
 - **1)** otwarcia likwidacji,
 - **2)** zaprzestania prowadzenia działalności, jeżeli odrębne przepisy nie przewidują likwidacji,
-- **3)** ogłoszenia upadłości lub oddalenia wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ust. 1 i 2 ustawy Prawo upadłościowe,
-- **4)** otwarcia postępowania restrukturyzacyjnego, o którym mowa w ustawie Prawo restrukturyzacyjne podmiotu, z którym umowa została zawarta.
+- **3)** ogłoszenia upadłości lub oddalenia wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ust. 1 i 2 ustawy – Prawo upadłościowe,
+- **4)** otwarcia postępowania restrukturyzacyjnego, o którym mowa w ustawie – Prawo restrukturyzacyjne – podmiotu, z którym umowa została zawarta.
 
 5. W przypadkach, w których nie mają zastosowania przepisy o zamówieniach publicznych, przy wyłanianiu podmiotu w celu zawarcia umowy, o której mowa w ust. 1, przepisy art. 13 ust. 5 stosuje się odpowiednio.
 
@@ -309,7 +299,7 @@ Art. 51–66. (pominięte)
 8. W przypadku gdy decyzja o udostępnieniu rezerw strategicznych dotyczy:
 
 - **1)** asortymentu, w odniesieniu do którego została zawarta umowa, o której mowa w art. 17,
-- **2)** asortymentu lub usług objętych umową, o której mowa w art. 18 Agencja niezwłocznie dokonuje odpowiednio nabycia, wynajmu tego asortymentu lub zawiera umowę o świadczeniu usługi, z uwzględnieniem postanowień właściwych umów, o których mowa w art. 18, a następnie jego udostępnienia.
+- **2)** asortymentu lub usług objętych umową, o której mowa w art. 18 – Agencja niezwłocznie dokonuje odpowiednio nabycia, wynajmu tego asortymentu lub zawiera umowę o świadczeniu usługi, z uwzględnieniem postanowień właściwych umów, o których mowa w art. 18, a następnie jego udostępnienia.
 
 **Art. 20.**
 
@@ -369,9 +359,7 @@ Art. 51–66. (pominięte)
 
 5. Umowa, o której mowa w ust. 4, określa w szczególności warunki udostępnienia asortymentu określonego w ust. 1.
 
-**Art. 24.**
-
-- **2)** Agencja opracowuje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw wewnętrznych szczegółową procedurę udostępnienia rezerw strategicznych, w tym czasowego, zwrotnego udostępnienia specjalistycznego asortymentu technicznego rezerw strategicznych oraz specjalistycznego asortymentu medycznego rezerw strategicznych.
+**Art. 24.** Agencja opracowuje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw wewnętrznych szczegółową procedurę udostępnienia rezerw strategicznych, w tym czasowego, zwrotnego udostępnienia specjalistycznego asortymentu technicznego rezerw strategicznych oraz specjalistycznego asortymentu medycznego rezerw strategicznych.
 
 #### Rozdział 5 Likwidacja rezerw strategicznych
 
@@ -394,7 +382,7 @@ Art. 51–66. (pominięte)
 
 6. Wykonując decyzję o likwidacji rezerw strategicznych, Agencja:
 
-- **1)** dokonuje sprzedaży przeznaczonych do likwidacji rezerw strategicznych na giełdzie towarowej w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2024 r. poz. 910) lub innej giełdzie towarowej albo w drodze przetargu lub aukcji w rozumieniu ustawy Kodeks cywilny, w tym w szczególności:
+- **1)** dokonuje sprzedaży przeznaczonych do likwidacji rezerw strategicznych na giełdzie towarowej w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2024 r. poz. 910) lub innej giełdzie towarowej albo w drodze przetargu lub aukcji w rozumieniu ustawy – Kodeks cywilny, w tym w szczególności:
     - **a)** sporządza wykaz likwidowanych rezerw strategicznych, określając nazwę, ilość oraz cenę każdego asortymentu rezerw strategicznych przeznaczonego do sprzedaży, skalkulowaną według jego wartości rynkowej,
     - **b)** przekazuje do publicznej wiadomości wykaz, o którym mowa w lit. a, zamieszczając ogłoszenie w Biuletynie Informacji Publicznej Agencji,
     - **c)** dokonuje wyboru najkorzystniejszej ekonomicznie oferty kupna likwidowanych rezerw strategicznych i przedstawia projekt umowy sprzedaży,
@@ -437,9 +425,7 @@ Art. 51–66. (pominięte)
 
 **Art. 27c.** Minister właściwy do spraw wewnętrznych przedstawia sejmowej Komisji Administracji i Spraw Wewnętrznych oraz senackiej Komisji Gospodarki Narodowej i Innowacyjności informację o likwidacjach asortymentu rezerw strategicznych dokonanych na podstawie art. 27a:
 
-**Art. 28.**
-
-- **2)** Agencja opracowuje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw wewnętrznych szczegółową procedurę sprzedaży oraz nieodpłatnego przekazania zlikwidowanych rezerw strategicznych.
+**Art. 28.** Agencja opracowuje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw wewnętrznych szczegółową procedurę sprzedaży oraz nieodpłatnego przekazania zlikwidowanych rezerw strategicznych.
 
 #### Rozdział 5a Rezerwy strategiczne do zabezpieczenia realizacji zadań związanych z Planem zabezpieczenia potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców
 
@@ -543,12 +529,12 @@ Art. 51–66. (pominięte)
 1. Do zadań Agencji należy:
 
 - **1)** utrzymywanie rezerw strategicznych, w tym ich przechowywanie, dokonywanie wymiany lub zamiany oraz przeprowadzanie konserwacji przechowywanych rezerw strategicznych;
-- **2)** wykonywanie decyzji ministra właściwego do spraw wewnętrznych dotyczących tworzenia, udostępniania i likwidacji rezerw strategicznych, zgodnie z zasadami określonymi w rozdziałach 3–5a, przez:
+- **2)** wykonywanie decyzji ministra właściwego do spraw wewnętrznych dotyczących tworzenia, udostępniania i likwidacji rezerw strategicznych, zgodnie z zasadami określonymi w rozdziałach 3–5a, przez: z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029),
     - **a)** nabywanie określonych ilości asortymentu rezerw strategicznych,
     - **b)** organizowanie wydawania udostępnionych rezerw strategicznych,
     - **c)** zapewnienie przetworzenia rezerw strategicznych utrzymywanych w postaci surowców i półproduktów przed ich wydaniem,
     - **d)** sprzedaż zlikwidowanych rezerw strategicznych albo nieodpłatne przekazanie niesprzedanych rezerw strategicznych jednostkom, o których mowa w art. 21 ust. 3, lub podmiotom, których cele statutowe uzasadniają decyzję o nieodpłatnym przekazaniu,
-    - **e)** poddanie zlikwidowanych rezerw odzyskowi lub przekazanie ich do unieszkodliwienia, zgodnie z zasadami gospodarowania odpadami określonymi w ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029),
+    - **e)** poddanie zlikwidowanych rezerw odzyskowi lub przekazanie ich do unieszkodliwienia, zgodnie z zasadami gospodarowania odpadami określonymi w ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U.
     - **f)** zawieranie i wykonywanie umów, o których mowa w art. 16–18;
 
 - **3)** wykonywanie decyzji organów lub podmiotów, o których mowa w art. 8 ust. 2, dotyczących zakupu, magazynowania i wydawania określonych asortymentów towarów zgodnie z zasadami określonymi w rozdziale 6;
@@ -559,11 +545,13 @@ Art. 51–66. (pominięte)
 - **8)** tworzenie i utrzymywanie zapasów agencyjnych ropy naftowej i paliw na zasadach określonych w ustawie o zapasach ropy naftowej i produktów naftowych oraz wykonywanie innych obowiązków wynikających z tej ustawy;
 - **9)** przeprowadzanie kontroli, o której mowa w art. 48;
 - **10)** opracowywanie projektu informacji o asortymencie rezerw strategicznych, ich ilości i wartości oraz ich finansowaniu, wykorzystaniu i rozmieszczeniu, w terminach do dnia 30 września każdego roku za I półrocze i do dnia 31 marca każdego roku za rok poprzedni;
-- **11)** przekazywanie Ministrowi Obrony Narodowej, Ministrowi Sprawiedliwości, ministrowi właściwemu do spraw wewnętrznych lub Szefowi Agencji Bezpieczeństwa Wewnętrznego aktualnego wykazu ilości oraz miejsc przechowywania asortymentów rezerw strategicznych zgodnych ze zgłoszonymi przez nich potrzebami, o których mowa w art. 8 ust. 4 pkt 3 w terminie do dnia 30 sierpnia każdego roku;
+- **11)** przekazywanie Ministrowi Obrony Narodowej, Ministrowi Sprawiedliwości, ministrowi właściwemu do spraw wewnętrznych lub Szefowi Agencji Bezpieczeństwa Wewnętrznego aktualnego wykazu ilości oraz miejsc przechowywania asortymentów rezerw strategicznych zgodnych ze zgłoszonymi przez nich potrzebami, o których mowa w art. 8 ust. 4 pkt 3 – w terminie do dnia 30 sierpnia każdego roku;
 - **12)** sporządzanie planów, informacji, procedur i sprawozdań oraz innych dokumentów w zakresie określonym w ustawie lub w innych ustawach;
 - **13)** wykonywanie innych zadań określonych w odrębnych ustawach lub w Programie.
 
-2. Do czynności realizowanych przez Agencję w ramach zadań, o których mowa w ust. 1 pkt 6, nie stosuje się przepisów art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125 i 834).
+2. Do czynności realizowanych przez Agencję w ramach zadań, o których mowa w ust. 1 pkt 6, nie stosuje się przepisów art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125 i
+
+- **834)** .
 
 **Art. 32.**
 
@@ -609,7 +597,8 @@ Art. 51–66. (pominięte)
 - **6)** posiada co najmniej 10-letni staż pracy, w tym co najmniej 5-letni staż pracy na stanowisku kierowniczym;
 - **7)** posiada wiedzę z zakresu spraw należących do właściwości Agencji;
 - **8)** posiada poświadczenie bezpieczeństwa dostępu do informacji niejawnych oznaczonych klauzulą „tajne” albo złoży oświadczenie w sprawie poddania się postępowaniu sprawdzającemu w związku z dostępem do informacji niejawnych;
-- **9)** nie pełniła służby zawodowej ani nie pracowała w organach bezpieczeństwa państwa wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273 i 834), ani nie była ich współpracownikiem.
+- **9)** nie pełniła służby zawodowej ani nie pracowała w organach bezpieczeństwa państwa wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273 i
+- **834)** , ani nie była ich współpracownikiem.
 
 2. Informację o naborze na stanowisko Prezesa Agencji ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Agencji oraz w Biuletynie Informacji Publicznej Agencji i Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw wewnętrznych. Ogłoszenie powinno zawierać:
 
@@ -644,7 +633,7 @@ Art. 51–66. (pominięte)
 
 - **1)** nazwę i adres Agencji;
 - **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu ustawy Kodeks cywilny albo informację o niewyłonieniu kandydata.
+- **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu ustawy – Kodeks cywilny albo informację o niewyłonieniu kandydata.
 
 10. Umieszczenie w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw wewnętrznych ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
 
@@ -674,7 +663,7 @@ Art. 51–66. (pominięte)
 
 - **1)** nazwę i adres jednostki organizacyjnej Agencji;
 - **2)** wskazanie stanowiska pracy, na które był prowadzony nabór;
-- **3)** imię i nazwisko kandydata oraz miejsce jego zamieszkania w rozumieniu ustawy Kodeks cywilny.
+- **3)** imię i nazwisko kandydata oraz miejsce jego zamieszkania w rozumieniu ustawy – Kodeks cywilny.
 
 **Art. 39.** Jeżeli stosunek pracy osoby wyłonionej w drodze naboru ustał przed upływem 3 miesięcy od dnia jego nawiązania, można zatrudnić na tym samym stanowisku osobę, która została umieszczona na kolejnym miejscu w protokole sporządzonym z przeprowadzonego naboru. Przepisy art. 38 stosuje się odpowiednio.
 
@@ -684,12 +673,12 @@ Art. 51–66. (pominięte)
 
 - **1)** na stanowisku zastępcy dyrektora biura lub na stanowisku równorzędnym,
 - **2)** na stanowisku kierownika działu lub na stanowisku równorzędnym,
-- **3)** na stanowisku kierownika składnicy lub na stanowisku równorzędnym podlegają ograniczeniom w prowadzeniu działalności gospodarczej, takim jak pracownicy agencji państwowych, o których mowa w art. 2 pkt 10 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090).
+- **3)** na stanowisku kierownika składnicy lub na stanowisku równorzędnym – podlegają ograniczeniom w prowadzeniu działalności gospodarczej, takim jak pracownicy agencji państwowych, o których mowa w art. 2 pkt 10 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090).
 
 2. Pracownicy Agencji zatrudnieni:
 
 - **1)** w komórce organizacyjnej realizującej zadania z zakresu kontroli na stanowiskach, w zakresie których zawarte są zadania dotyczące wykonywania kontroli oraz jej planowania, koordynacji i realizacji zaleceń pokontrolnych,
-- **2)** w komórce organizacyjnej realizującej zadania z zakresu udzielania zamówień publicznych oraz zawierania wszelkich umów na dostawy, usługi lub roboty budowlane na stanowiskach, w zakresie których zawarte są zadania dotyczące rozeznania rynku, kontaktów z oferentami, ustalania warunków zamówień i rozliczania ich wykonania składają Prezesowi Agencji oświadczenia o stanie majątkowym na zasadach, w trybie i w terminach określonych w przepisach ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne.
+- **2)** w komórce organizacyjnej realizującej zadania z zakresu udzielania zamówień publicznych oraz zawierania wszelkich umów na dostawy, usługi lub roboty budowlane na stanowiskach, w zakresie których zawarte są zadania dotyczące rozeznania rynku, kontaktów z oferentami, ustalania warunków zamówień i rozliczania ich wykonania – składają Prezesowi Agencji oświadczenia o stanie majątkowym na zasadach, w trybie i w terminach określonych w przepisach ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne.
 
 #### Rozdział 8 Gospodarka finansowa Agencji
 
@@ -732,7 +721,7 @@ Art. 51–66. (pominięte)
 - **2)** dotacje z budżetu państwa;
 - **3)** zestawienie kosztów:
     - **a)** funkcjonowania Agencji, według ich rodzajów,
-    - **b)** realizacji zadań określonych w ustawie oraz w ustawie o zapasach ropy naftowej, produktów naftowych i gazu ziemnego, z wyszczególnieniem: kosztów realizacji tych zadań przez inne podmioty, wynagrodzeń i składek od nich naliczanych, płatności odsetkowych wynikających z zaciągniętych zobowiązań, zakupu towarów i usług;
+    - **b)** realizacji zadań określonych w ustawie oraz w ustawie o zapasach ropy naftowej, produktów naftowych i gazu ziemnego, z wyszczególnieniem: – kosztów realizacji tych zadań przez inne podmioty, – wynagrodzeń i składek od nich naliczanych, – płatności odsetkowych wynikających z zaciągniętych zobowiązań, – zakupu towarów i usług;
 
 - **4)** wynik finansowy;
 - **5)** środki na wydatki majątkowe;
@@ -784,7 +773,7 @@ Art. 51–66. (pominięte)
 
 - **1)** mogą być umarzane w części,
 - **2)** mogą zostać odroczone terminy spłaty całości lub części tych należności i wierzytelności,
-- **3)** mogą zostać rozłożone na raty płatności całości lub części tych należności i wierzytelności w przypadkach uzasadnionych względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi dłużnika oraz uzasadnionym interesem Skarbu Państwa.
+- **3)** mogą zostać rozłożone na raty płatności całości lub części tych należności i wierzytelności – w przypadkach uzasadnionych względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi dłużnika oraz uzasadnionym interesem Skarbu Państwa.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera w szczególności:
 
@@ -806,15 +795,15 @@ Art. 51–66. (pominięte)
 
 1. Do umarzania, odraczania terminów lub rozkładania na raty spłat należności i wierzytelności Agencji, o których mowa w art. 44, są uprawnieni:
 
-- **1)** Prezes Agencji w odniesieniu do należności i wierzytelności, których wartość należności głównej nie przekracza kwoty 40 000 zł;
-- **2)** minister właściwy do spraw wewnętrznych w pozostałych przypadkach.
+- **1)** Prezes Agencji – w odniesieniu do należności i wierzytelności, których wartość należności głównej nie przekracza kwoty 40 000 zł;
+- **2)** minister właściwy do spraw wewnętrznych – w pozostałych przypadkach.
 
 2. Umorzenie należności i wierzytelności Agencji oraz odroczenie terminu spłaty całości lub części należności albo rozłożenie płatności całości lub części należności na raty następuje na podstawie umowy zawartej między Agencją a dłużnikiem, z zastrzeżeniem ust. 4.
 
 3. W umowie, o której mowa w ust. 2, określa się w szczególności:
 
-- **1)** warunki spłaty pozostałej części należności i wierzytelności w przypadku umorzenia ich w części;
-- **2)** warunki i terminy spłaty należności i wierzytelności w przypadku odroczenia terminu spłaty lub rozłożenia płatności na raty.
+- **1)** warunki spłaty pozostałej części należności i wierzytelności – w przypadku umorzenia ich w części;
+- **2)** warunki i terminy spłaty należności i wierzytelności – w przypadku odroczenia terminu spłaty lub rozłożenia płatności na raty.
 
 4. W przypadkach, o których mowa w art. 44 ust. 2 pkt 3–5, umorzenie należności i wierzytelności następuje w formie jednostronnego oświadczenia woli.
 
@@ -895,7 +884,7 @@ Art. 51–66. (pominięte)
 
 **Art. 69.**
 
-1. Rządowy Program Rezerw Strategicznych określony na lata 2017–2021 i przyjęty na podstawie przepisów ustawy uchylanej w art. 80 staje się Programem w rozumieniu niniejszej ustawy i jest realizowany nie dłużej jednak niż do upłynięcia okresu, na który został przyjęty, i może być aktualizowany na podstawie przepisów niniejszej ustawy.
+1. Rządowy Program Rezerw Strategicznych określony na lata 2017– 2021 i przyjęty na podstawie przepisów ustawy uchylanej w art. 80 staje się Programem w rozumieniu niniejszej ustawy i jest realizowany nie dłużej jednak niż do upłynięcia okresu, na który został przyjęty, i może być aktualizowany na podstawie przepisów niniejszej ustawy.
 
 2. W terminie dwóch miesięcy od dnia wejścia w życie niniejszej ustawy Prezes Rady Ministrów podejmie prace nad kolejnym Programem.
 

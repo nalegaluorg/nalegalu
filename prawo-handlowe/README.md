@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo handlowe**.
 
-Łącznie: **19** aktów
+Łącznie: **21** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -13,8 +13,10 @@ Akty prawne z dziedziny: **Prawo handlowe**.
 | [WDU20220000807](WDU20220000807/index.md) | Ustawa z dnia 9 lutego 2022 r. o zmianie ustawy - Kodeks spółek handlowych  | Ustawa | obowiązujący |  |
 | [WDU20190001798](WDU20190001798/index.md) | Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy - Kodeks spółek handlowy | Ustawa | obowiązujący |  |
 | [WDU20190001655](WDU20190001655/index.md) | Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy - Kodeks spółek handlowych  | Ustawa | obowiązujący |  |
+| [WDU20180000650](WDU20180000650/index.md) | Ustawa z dnia 6 marca 2018 r. - Przepisy wprowadzające ustawę - Prawo przed | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20180000646](WDU20180000646/index.md) | Ustawa z dnia 6 marca 2018 r. - Prawo przedsiębiorców | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20150000004](WDU20150000004/index.md) | Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy - Kodeks spółek handlow | Ustawa | obowiązujący | [tak](WDU20150000004/orzecznictwo.md) |
+| [WDU20150001893](WDU20150001893/index.md) | Ustawa z dnia 25 września 2015 r. o zmianie ustawy o swobodzie działalności | Ustawa | obowiązujący |  |
 | [WDU20111310764](WDU20111310764/index.md) | Ustawa z dnia 13 maja 2011 r. o zmianie ustawy o swobodzie działalności gos | Ustawa | obowiązujący | [tak](WDU20111310764/orzecznictwo.md) |
 | [WDU20110920531](WDU20110920531/index.md) | Ustawa z dnia 1 kwietnia 2011 r. o zmianie ustawy - Kodeks spółek handlowyc | Ustawa | obowiązujący |  |
 | [WDU20090180097](WDU20090180097/index.md) | Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności  | Ustawa | obowiązujący | [tak](WDU20090180097/orzecznictwo.md) |
@@ -26,4 +28,4 @@ Akty prawne z dziedziny: **Prawo handlowe**.
 | [WDU20032292276](WDU20032292276/index.md) | Ustawa z dnia 12 grudnia 2003 r. o zmianie ustawy - Kodeks spółek handlowyc | Ustawa | obowiązujący | [tak](WDU20032292276/orzecznictwo.md) |
 | [WDU20000941037](WDU20000941037/index.md) | Ustawa z dnia 15 września 2000 r. Kodeks spółek handlowych. | Ustawa | akt posiada tekst jednolity | [tak](WDU20000941037/orzecznictwo.md) |
 
-*19 aktów • [← Powrót do spisu głównego](../README.md)*
+*21 aktów • [← Powrót do spisu głównego](../README.md)*

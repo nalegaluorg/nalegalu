@@ -8,9 +8,10 @@ pos: 1008
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, dnia 24 maja 2017 r.
+# dnia 11 maja 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1008/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 11 maja 2017 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o administrowaniu obrotem usługowym zagranic ą
+sprawie ogłoszenia jednolitego tekstu ustawy o administrowaniu obrotem usługowym zagranicą
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2016 r. poz. 296 i 1579) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 10 marca 2006 r. o administrowaniu obrotem usługowym zagranicą (Dz. U. Nr 79, poz. 546), uwzględnieniem zmian wprowadzonych ustawą dnia 22 czerwca 2016 r. o zmianie ustawy Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 1228) oraz zmian wynikających przepisów ogłoszonych przed dniem 10 maja 2017 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 12 i art. 13 ustawy dnia 10 marca 2006 r. o administrowaniu obrotem usługowym zagranicą (Dz. U. Nr 79, poz. 546), które stanowią: „Art. 12. W ustawie dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, późn. zm. ) art. 53 § 33 otrzymuje brzmienie: „§ 33. Użyte rozdziale 7 kodeksu określenie „reglamentacja pozataryfowa” oznacza odpowiednio środki polityki handlowej ustanowione przez Wspólnotę Europejską ramach wspólnej polityki handlowej postanowieniami wspólnotowymi stosowanymi odniesieniu do ograniczenia świadczenia usług, wywozu lub przywozu towarów, takie jak środki nadzoru lub ochrony, ograniczenia ilościowe i zakazy przywozu oraz wywozu, a także środki administrowania obrotem towarami lub usługami zagranicą, ustanowione przez właściwy organ administracji państwowej.”.
+1) art. 12 i art. 13 ustawy dnia 10 marca 2006 r. o administrowaniu obrotem usługowym zagranicą (Dz. U. Nr 79, poz.
+546), które stanowią: „Art. 12. W ustawie dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, późn. zm. ) art. 53 § 33 otrzymuje brzmienie: „§ 33. Użyte rozdziale 7 kodeksu określenie „reglamentacja pozataryfowa” oznacza odpowiednio środki polityki handlowej ustanowione przez Wspólnotę Europejską ramach wspólnej polityki handlowej postanowieniami wspólnotowymi stosowanymi odniesieniu do ograniczenia świadczenia usług, wywozu lub przywozu towarów, takie jak środki nadzoru lub ochrony, ograniczenia ilościowe i zakazy przywozu oraz wywozu, a także środki administrowania obrotem towarami lub usługami zagranicą, ustanowione przez właściwy organ administracji państwowej.”.
 
 **Art. 13.** W ustawie dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym zagranicą (Dz. U. Nr 97, poz. 963 oraz 2005 r. Nr 14, poz. 115) wprowadza się następujące zmiany:
 
@@ -64,13 +65,12 @@ sprawie ogłoszenia jednolitego tekstu ustawy o administrowaniu obrotem usługow
 - **4)** warunki udzielenia i wykorzystania pozwolenia, tym termin, na jaki go się udziela;
 - **5)** wzór i tryb składania sprawozdań wykorzystania pozwolenia, jeżeli obowiązek taki został ustanowiony zgodnie ust. 3;
 - **6)** sposób i tryb ewidencjonowania wydanych pozwoleń;
-- **7)** wysoko ść opłat za udzielenie pozwolenia.
+- **7)** wysokość opłat za udzielenie pozwolenia.
 
-2. Rada Ministrów rozporz ą dzeniu o ustanowieniu limitów usług okre ś la sposób rozdysponowania tych limitów.
+2. Rada Ministrów rozporządzeniu o ustanowieniu limitów usług określa sposób rozdysponowania tych limitów.
 
-3. Rada Ministrów rozporz ą dzeniu o ustanowieniu limitów usług albo rejestracji usług mo ż e nało ż y ć obowi ą zek składania sprawozda ń wykorzystania pozwole ń , okre ś laj ą c jednocze ś nie termin ich składania.
+3. Rada Ministrów rozporządzeniu o ustanowieniu limitów usług albo rejestracji usług może nałożyć obowiązek składania sprawozdań wykorzystania pozwoleń, określając jednocześnie termin ich składania.
 
-- **2)** naruszył okresie 24 wniosku warunki uprzednio wydanego pozwolenia;
 - **3)** nie złożył terminie sprawozdania, o którym mowa art. 6 ust. 3;
 - **4)** został skazany prawomocnym wyrokiem za przestępstwo skarbowe, przestępstwo przeciwko mieniu lub dokumentom lub takim wyrokiem została skazana osoba kierująca podmiotem będącym wnioskodawcą.
 
@@ -84,7 +84,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o administrowaniu obrotem usługow
 
 **Art. 8.**
 
-1. Jeżeli przepisów prawa wspólnotowego, zakresie administrowania obrotem usługami krajami trzecimi, wynika obowi ą zek uzyskania pozwolenia warunkuj ą cego ś wiadczenie usług, pozwolenie to jest wydawane drodze decyzji administracyjnej.
+1. Jeżeli przepisów prawa wspólnotowego, zakresie administrowania obrotem usługami krajami trzecimi, wynika obowiązek uzyskania pozwolenia warunkującego świadczenie usług, pozwolenie to jest wydawane drodze decyzji administracyjnej.
 
 2. Do dokumentów, które zgodnie przepisami prawa wspólnotowego lub przepisami wydanymi na podstawie art. 10 dołącza się do wniosku o udzielenie pozwolenia, o którym mowa ust. 1, sporządzonych języku obcym, należy dołączyć tłumaczenie tych dokumentów na język polski sporządzone przez tłumacza przysięgłego.
 
@@ -98,7 +98,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o administrowaniu obrotem usługow
 
 #### Rozdział 4 Zmiany przepisach obowiązujących
 
-**Art. 12.** (pomini ę ty)
+**Art. 12.** (pominięty)
 
-**Art. 13.** (pomini ę ty)
+**Art. 13.** (pominięty)
 

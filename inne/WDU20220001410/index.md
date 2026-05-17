@@ -1,0 +1,53 @@
+---
+title: "Obwieszczenie Ministra Zdrowia z dnia 10 czerwca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19"
+address: WDU20220001410
+eli: DU/2022/1410
+publisher: DU
+year: 2022
+pos: 1410
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 lipca 2022 OBWIESZCZENIE MINISTRA ZDROWIA dnia 10 czerwca 2022 sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1410 |
+| ISAP | WDU20220001410 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-06-10 |
+| Data wydania | 2022-07-05 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001410) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1410/text.pdf) |
+
+1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia dnia 9 kwietnia sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19 (Dz. U. poz. 668), uwzględnieniem zmian wprowadzonych:
+1) rozporządzeniem Ministra Zdrowia dnia 12 lipca zmieniającym rozporządzenie sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19 (Dz. U. poz. 1273);
+2) rozporządzeniem Ministra Zdrowia dnia 13 grudnia zmieniającym rozporządzenie sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19 (Dz. U. poz. 2306).
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1) § 2 rozporządzenia Ministra Zdrowia dnia 12 lipca zmieniającego rozporządzenie sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19 (Dz. U. poz. 1273), który stanowi: „§ 2. Rozporządzenie wchodzi życie następującym po dniu ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Zdrowia dnia 13 grudnia zmieniającego rozporządzenie sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19 (Dz. U. poz. 2306), który stanowi: „§ 2. Rozporządzenie wchodzi życie następującym po dniu ogłoszenia.”.
+Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA dnia 9 kwietnia sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19 Na podstawie art. 21c ust. 5 ustawy dnia 5 grudnia 2008 zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. poz. 2069 i 2120 oraz 2022 poz. 64, 655 i 974) zarządza się, co następuje: § 1. Rozporządzenie określa:
+1) kwalifikacje osób innych niż lekarze przeprowadzających badanie kwalifikacyjne, którym mowa art. 21c ust. 1 ustawy dnia 5 grudnia 2008 zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, zwanej dalej „ustawą”;
+2) kwalifikacje osób przeprowadzających szczepienia ochronne przeciwko COVID-19, których mowa art. 21c ust. 2 pkt 2 ustawy.
+§ 2. 1. Badanie kwalifikacyjne, którym mowa art. 21c ust. 1 ustawy, może przeprowadzać osoba, która:
+1) wykonuje zawód lekarza dentysty, pielęgniarki, położnej, felczera, ratownika medycznego lub higienistki szkolnej;
+2) wykonuje zawód fizjoterapeuty, farmaceuty, diagnosty laboratoryjnego i uzyskała dokument potwierdzający ukończenie szkolenia teoretycznego, dostępnego na platformie e-learningowej Centrum Medycznego Kształcenia Podyplomowego;
+3) kształci się:
+a) na piątym albo szóstym roku studiów na kierunku lekarskim,
+b) na trzecim roku studiów I stopnia na kierunku pielęgniarstwo,
+c) na piątym roku studiów na kierunku lekarsko-dentystycznym i uzyskała dokument potwierdzający posiadanie umiejętności kwalifikowania do szczepień, wydany przez uczelnię prowadzącą to kształcenie, oraz przeprowadza badanie kwalifikacyjne pod nadzorem lekarza albo osoby, której mowa pkt 1;
+4) ukończyła studia na kierunkach, których mowa pkt 3, okresie 6 miesięcy od dnia ukończenia studiów, zachowaniem warunków określonych pkt 3.
+2. Osoby, których mowa ust. 1, nie mogą przeprowadzać badania kwalifikacyjnego osoby, która nie ukończyła
+15. roku życia.
+§ 3. Osoby, których mowa art. 21c ust. 2 pkt 2 ustawy, przeprowadzają szczepienie ochronne przeciwko COVID-19, jeżeli:
+1) uzyskały dokument potwierdzający ukończenie szkolenia:
+a) teoretycznego, dostępnego na platformie e-learningowej Centrum Medycznego Kształcenia Podyplomowego, oraz
+b) praktycznego, którego program zatwierdziło Centrum Medyczne Kształcenia Podyplomowego, obejmującego naukę podania szczepionki postaci iniekcji domięśniowej oraz podjęcia działań przypadku wystąpienia nagłej reakcji alergicznej lub innego stanu zagrożenia życia pacjenta następującego bezpośrednio po przeprowadzeniu szczepienia, realizowanego warunkach symulowanych Centrum Medycznym Kształcenia Podyplomowego lub uczelni prowadzącej kształcenie na kierunku lekarskim, albo
+2) są uprawnione do przeprowadzenia szczepień obowiązkowych zgodnie przepisami wydanymi na podstawie art. 17 ust. 10 pkt 3 ustawy.
+§ 4. Rozporządzenie wchodzi życie ogłoszenia .
+

@@ -8,9 +8,12 @@ pos: 1799
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 grudnia 2024 r.
+# o statystyce publicznej
+
+*USTAWA z dnia 29 czerwca 1995 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,26 +24,12 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-27 |
 | Data wydania | 2024-12-06 |
-| Ostatnia zmiana | 2026-01-20 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001799) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1799/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o statystyce publicznej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2023 r. poz. 773), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U.
-poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 listopada 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
-3) art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-4) art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-5) art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 29 czerwca 1995 r.
-o statystyce publicznej
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa określa zasady i tworzy podstawy rzetelnego, obiektywnego, profesjonalnego i niezależnego prowadzenia badań statystycznych, których wyniki mają charakter oficjalnych danych statystycznych, oraz ustala organizację i tryb prowadzenia tych badań i zakres związanych z nimi obowiązków.
+**Art. 1.** Ustawa określa:
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
@@ -118,13 +107,13 @@ o statystyce publicznej
 
 **Art. 13.**
 
-1. Organy administracji publicznej, Zakład Ubezpieczeń Społecznych, Narodowy Fundusz Zdrowia, Komisja Nadzoru Finansowego, a także inne państwowe lub samorządowe osoby prawne, organy rejestrowe oraz inne podmioty prowadzące rejestry urzędowe lub niepubliczne systemy informacyjne, przekazują lub udostępniają nieodpłatnie służbom statystyki publicznej zgromadzone dane w szczegółowym zakresie, postaci i terminach, określonych w programie badań statystycznych statystyki publicznej, w szczególności w postaci zbiorów danych z systemów teleinformatycznych, w tym wyników pomiarów, danych monitoringu środowiska, a w przypadku braku systemu teleinformatycznego w innej utrwalonej postaci.
+1. Organy administracji publicznej, Zakład Ubezpieczeń Społecznych, Narodowy Fundusz Zdrowia, Komisja Nadzoru Finansowego, a także inne państwowe lub samorządowe osoby prawne, organy rejestrowe oraz inne podmioty prowadzące rejestry urzędowe lub niepubliczne systemy informacyjne, przekazują lub udostępniają nieodpłatnie służbom statystyki publicznej zgromadzone dane w szczegółowym zakresie, postaci i terminach, określonych w programie badań statystycznych statystyki publicznej, w szczególności w postaci zbiorów danych z systemów teleinformatycznych, w tym wyników pomiarów, danych monitoringu środowiska, a w przypadku braku systemu teleinformatycznego – w innej utrwalonej postaci.
 
 2. Organy i podmioty, o których mowa w ust. 1, przekazują dane administracyjne łącznie z informacjami objaśniającymi zawartość informacyjną tych danych (metadane).
 
 3. Organy i podmioty, o których mowa w ust. 1, z wyłączeniem podmiotów prowadzących niepubliczne systemy informacyjne, są obowiązane do:
 
-- **1)** stosowania standardów klasyfikacyjnych, numeru identyfikacyjnego i oznaczeń kodowych przyjętych w rejestrze terytorialnym, o których mowa w rozdziale 6;
+- **1)** stosowania standardów klasyfikacyjnych, numeru identyfikacyjnego REGON i oznaczeń kodowych przyjętych w rejestrze TERYT;”;
 - **2)** przekazywania, na wniosek Prezesa Głównego Urzędu Statystycznego, informacji o zawartości informacyjnej eksploatowanych systemów informacyjnych administracji publicznej oraz rejestrów urzędowych;
 - **3)** informowania Prezesa Głównego Urzędu Statystycznego o projektowanym zakresie informacyjnym systemów informacyjnych administracji publicznej oraz rejestrów urzędowych na etapie ich tworzenia lub modernizacji.
 
@@ -165,12 +154,12 @@ o statystyce publicznej
 
 1. W skład Rady wchodzą, jako członkowie Rady, powołane przez Prezesa Rady Ministrów osoby reprezentujące:
 
-- **1)** organy administracji rządowej pięć osób,
-- **2)** stronę samorządową w Komisji Wspólnej Rządu i Samorządu Terytorialnego jedna osoba,
-- **3)** Narodowy Bank Polski jedna osoba,
-- **4)** organizacje społeczne, samorząd zawodowy i gospodarczy trzy osoby,
-- **5)** organizacje pracodawców, reprezentatywne w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), zwanej dalej „ustawą o Radzie Dialogu Społecznego” po jednej osobie z każdej organizacji,
-- **6)** organizacje związkowe, reprezentatywne w rozumieniu ustawy o Radzie Dialogu Społecznego po jednej osobie z każdej organizacji, oraz dwóch ekspertów po jednym z zakresu nauk społecznych i ekonomicznych.
+- **1)** organy administracji rządowej – pięć osób,
+- **2)** stronę samorządową w Komisji Wspólnej Rządu i Samorządu Terytorialnego – jedna osoba,
+- **3)** Narodowy Bank Polski – jedna osoba,
+- **4)** organizacje społeczne, samorząd zawodowy i gospodarczy – trzy osoby,
+- **5)** organizacje pracodawców, reprezentatywne w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), zwanej dalej „ustawą o Radzie Dialogu Społecznego” – po jednej osobie z każdej organizacji,
+- **6)** organizacje związkowe, reprezentatywne w rozumieniu ustawy o Radzie Dialogu Społecznego – po jednej osobie z każdej organizacji, oraz dwóch ekspertów – po jednym z zakresu nauk społecznych i ekonomicznych.
 
 2. W pracach Rady uczestniczy Prezes Głównego Urzędu Statystycznego.
 
@@ -212,7 +201,7 @@ o statystyce publicznej
     - **e)** częstotliwość, termin i miejsce przekazania,
     - **f)** metody obserwacji, o których mowa w art. 6 ust. 1,
 
-- **9)** rodzaje wynikowych informacji statystycznych oraz formy i terminy ich udostępnienia mając na celu zapewnienie przeprowadzenia badań o istotnym znaczeniu dla obserwacji procesów demograficznych, społecznych, gospodarczych i środowiska naturalnego, a w szczególności badań stałych pozwalających na obserwację ciągłą podstawowych dziedzin życia i występujących w nim zjawisk, badań cyklicznych, w tym spisów powszechnych, badań gwarantujących porównywalność wyników, w przypadku gdy dotyczą one zmiennych w czasie obiektów obserwacji statystycznej lub gdy zmianie ulega metodologia badania oraz badań koniecznych dla wykonania przyjętych przez Rzeczpospolitą Polską zobowiązań międzynarodowych.
+- **9)** rodzaje wynikowych informacji statystycznych oraz formy i terminy ich udostępnienia – mając na celu zapewnienie przeprowadzenia badań o istotnym znaczeniu dla obserwacji procesów demograficznych, społecznych, gospodarczych i środowiska naturalnego, a w szczególności badań stałych pozwalających na obserwację ciągłą podstawowych dziedzin życia i występujących w nim zjawisk, badań cyklicznych, w tym spisów powszechnych, badań gwarantujących porównywalność wyników, w przypadku gdy dotyczą one zmiennych w czasie obiektów obserwacji statystycznej lub gdy zmianie ulega metodologia badania oraz badań koniecznych dla wykonania przyjętych przez Rzeczpospolitą Polską zobowiązań międzynarodowych.
 
 2. Ustalając w programie badań statystycznych statystyki publicznej szczegółowy zakres przekazywanych w określonym badaniu statystycznym danych osobowych, uwzględnia się ograniczenia określone w przepisach rozdziału 4a.
 
@@ -220,7 +209,7 @@ o statystyce publicznej
 
 **Art. 18a.**
 
-1. Przekazywanie danych, o których mowa w art. 18 ust. 1 pkt 8 lit. a, następuje w postaci elektronicznej, w szczególności za pośrednictwem elektronicznej platformy gromadzenia danych statystycznych, o której mowa w art. 28a ust. 2, a w przypadkach wskazanych w programie badań statystycznych statystyki publicznej w innej formie lub postaci.
+1. Przekazywanie danych, o których mowa w art. 18 ust. 1 pkt 8 lit. a, następuje w postaci elektronicznej, w szczególności za pośrednictwem elektronicznej platformy gromadzenia danych statystycznych, o której mowa w art. 28a ust. 2, a w przypadkach wskazanych w programie badań statystycznych statystyki publicznej – w innej formie lub postaci.
 
 2. Prowadzący badanie statystyczne ustala szczegółowy format przekazywanych danych na podstawie informacji, o których mowa w art. 18 ust. 1 pkt 8, określonych w programie badań statystycznych statystyki publicznej.
 
@@ -270,7 +259,7 @@ o statystyce publicznej
 
 **Art. 21a.**
 
-1. Prezes Głównego Urzędu Statystycznego i Prezes Narodowego Banku Polskiego współdziałają ze sobą, prowadząc badania statystyczne na podstawie niniejszej ustawy, ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025) oraz ustawy z dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. z 2024 r. poz. 1131).
+1. Prezes Głównego Urzędu Statystycznego i Prezes Narodowego Banku Polskiego współdziałają ze sobą, prowadząc badania statystyczne na podstawie niniejszej ustawy, ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025) oraz ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2024 r. poz. 1131).
 
 2. Współdziałanie, o którym mowa w ust. 1, polega w szczególności na:
 
@@ -368,16 +357,16 @@ o statystyce publicznej
 - **7)** udostępnianie i rozpowszechnianie wynikowych informacji statystycznych, w tym podstawowych wielkości i wskaźników;
 - **8)** opracowywanie i ogłaszanie prognoz demograficznych oraz statystycznych prognoz gospodarczych i społecznych;
 - **9)** przedstawianie Prezydentowi, Sejmowi i Senatowi, organom administracji rządowej, Najwyższej Izbie Kontroli, Narodowemu Bankowi Polskiemu, organom jednostek samorządu terytorialnego oraz innym instytucjom rządowym wynikowych informacji statystycznych w zakresie, terminach i w formach określonych w programie badań statystycznych;
-- **10)** prowadzenie krajowych rejestrów urzędowych: podmiotów gospodarki narodowej i podziału terytorialnego kraju;
+- **10)** prowadzenie krajowych rejestrów urzędowych: rejestru REGON i rejestru TERYT;
 - **11)** prowadzenie badań i analiz statystycznych wynikających z przyjętych przez Rzeczpospolitą Polską zobowiązań międzynarodowych;
 - **12)** dokonywanie statystycznych porównań międzynarodowych i ogłaszanie ich wyników;
 - **13)** wykonywanie przyjętych przez Rzeczpospolitą Polską zobowiązań przekazywania danych statystycznych organizacjom międzynarodowym;
 - **14)** współpraca z wyspecjalizowanymi w dziedzinie statystyki organizacjami międzynarodowymi, regionalnymi oraz organami i urzędami innych krajów;
 - **15)** prowadzenie prac naukowych i badawczo-rozwojowych w zakresie metodologii badań statystycznych i standardów klasyfikacyjnych oraz zastosowań metod matematycznych i informatyki w statystyce;
 - **16)** prowadzenie szkolenia, dokształcania i doskonalenia w dziedzinie statystyki;
-- **17)** popularyzacja wiedzy o statystyce.
+- **17)** popularyzacja wiedzy o statystyce. <1a. Prezes Głównego Urzędu Statystycznego jest właściwym podmiotem, o którym mowa w art. 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt w sprawie zarządzania danymi) (Dz. Urz. UE L 152 z 03.06.2022, str. 1, z późn. zm. ).>
 
-2. Urzędy statystyczne wykonują zadania wymienione w ust. 1 pkt 1–5, 6 w zakresie interpretacji, 7–12, 14, 16 i 17 w zakresie określonym w trybie ust. 4.
+2. Urzędy statystyczne wykonują zadania wymienione w ust. 1 pkt 1–5, 6 – w zakresie interpretacji, 7–12, 14, 16 i 17 w zakresie określonym w trybie ust. 4.
 
 3. Urzędy statystyczne tworzy i znosi Prezes Głównego Urzędu Statystycznego, w drodze zarządzenia.
 
@@ -393,22 +382,41 @@ o statystyce publicznej
 
 **Art. 28.**
 
-1. Badania statystyczne mogą być prowadzone z udziałem rachmistrzów spisowych, ankieterów statystycznych i rzeczoznawców.
+1. Badania statystyczne mogą być prowadzone z udziałem rachmistrzów spisowych, rzeczoznawców i ankieterów statystycznych.
 
-2. Zadaniem rachmistrzów spisowych jest zbieranie danych statystycznych w spisach powszechnych, a ankieterów statystycznych zbieranie danych w innych badaniach statystycznych.
+2. Zadaniem rachmistrzów spisowych jest zbieranie danych statystycznych w spisach powszechnych.
 
-3. Zadaniem rzeczoznawców jest przygotowywanie opinii i ocen dotyczących określonego przedmiotu badań statystycznych.
+3. Zasady i tryb powoływania rachmistrzów spisowych określa ustawa, o której mowa w art. 9 ust. 1.
 
-4. Ankieterem statystycznym może być osoba pełnoletnia, która posiada co najmniej wykształcenie średnie lub średnie branżowe, niekarana, korzystająca z pełni praw publicznych. Ankieter statystyczny może wykonywać czynności w ramach stosunku pracy lub na podstawie umów cywilnoprawnych. Ankieter statystyczny przy wykonywaniu czynności jest obowiązany do posiadania i okazywania legitymacji wydanej przez dyrektora urzędu statystycznego.
+4. Zadaniem rzeczoznawców jest przygotowywanie opinii i ocen dotyczących określonego przedmiotu badań statystycznych.
 
-5. Przepis ust. 4 stosuje się do rzeczoznawców, z tym że rzeczoznawca:
+5. Rzeczoznawcą może być osoba pełnoletnia, która posiada co najmniej wykształcenie średnie lub średnie branżowe, nieskazana prawomocnym wyrokiem za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe, korzystająca z pełni praw publicznych, posiadająca wiedzę specjalistyczną w dziedzinie stanowiącej przedmiot badań statystycznych, w którego zakresie przygotowuje opinie i oceny.
 
-- **1)** posiada wiedzę specjalistyczną w dziedzinie stanowiącej przedmiot badań statystycznych, w zakresie którego przygotowuje opinie i oceny;
-- **2)** czynności wykonuje na podstawie umów cywilnoprawnych.
+6. Rzeczoznawca wykonuje czynności na podstawie umów cywilnoprawnych.
 
-6. Zasady i tryb powoływania rachmistrzów spisowych określają odrębne ustawy, o których mowa w art. 9 ust. 1.
+7. Zadaniem ankieterów statystycznych jest zbieranie danych w badaniach statystycznych innych niż spisy powszechne.
 
-7. Rachmistrzom spisowym i ankieterom statystycznym w czasie wykonywania czynności określonych w ust. 2 przysługuje ochrona prawna przewidziana dla funkcjonariuszy publicznych.
+8. Ankieterem statystycznym może być osoba pełnoletnia, która posiada co najmniej wykształcenie średnie lub średnie branżowe, nieskazana prawomocnym wyrokiem za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe, korzystająca z pełni praw publicznych.
+
+9. Ankieter statystyczny może wykonywać czynności w ramach stosunku pracy lub na podstawie umów cywilnoprawnych.
+
+10. Ankieter statystyczny w czasie wykonywania czynności jest obowiązany do posiadania i okazywania legitymacji, która jest wydawana przez dyrektora urzędu statystycznego.
+
+11. Legitymacja ankietera statystycznego zawiera informacje dotyczące:
+
+- **1)** imienia i nazwiska ankietera statystycznego;
+- **2)** numeru ankietera statystycznego;
+- **3)** upoważnienia do zbierania przez ankietera statystycznego danych w badaniach statystycznych;
+- **4)** numeru i daty ważności legitymacji;
+- **5)** organu wydającego legitymację;
+- **6)** danych kontaktowych urzędu, w którym ankieter statystyczny jest zatrudniony;
+- **7)** przetwarzania danych osobowych i tajemnicy statystycznej.
+
+12. Legitymacja ankietera statystycznego podlega wymianie, zwrotowi lub unieważnieniu.
+
+13. Prezes Rady Ministrów określi, w drodze rozporządzenia, przypadki, w których legitymacja ankietera statystycznego podlega wymianie, zwrotowi lub unieważnieniu, tryb postępowania w przypadku utraty legitymacji, a także wzór legitymacji ankietera statystycznego, mając na uwadze konieczność zapewnienia sprawnego postępowania przy wymianie, zwrocie, unieważnieniu lub utracie legitymacji ankietera statystycznego oraz konieczność właściwej identyfikacji posiadacza tej legitymacji.
+
+14. Rachmistrzom spisowym i ankieterom statystycznym w czasie wykonywania czynności określonych odpowiednio w ust. 2 i 7 przysługuje ochrona prawna przewidziana dla funkcjonariuszy publicznych.
 
 **Art. 28a.**
 
@@ -439,13 +447,13 @@ o statystyce publicznej
 
 1. Podmioty gospodarki narodowej są obowiązane do:
 
-- **1)** posiadania numeru identyfikacyjnego krajowego rejestru urzędowego podmiotów gospodarki narodowej, o którym mowa w art. 41 ust. 1 pkt 1, i posługiwania się nim przy przekazywaniu danych wykorzystywanych dla celów statystycznych;
+- **1)** posiadania numeru identyfikacyjnego REGON i posługiwania się nim przy przekazywaniu danych wykorzystywanych dla celów statystycznych;
 - **2)** stosowania w prowadzonej ewidencji, dokumentacji oraz rachunkowości standardów klasyfikacyjnych, o których mowa w rozdziale 6;
 - **3)** przekazania nieodpłatnie danych dotyczących prowadzonej działalności i jej wyników zgodnie z programem badań statystycznych statystyki publicznej oraz w formacie udostępnionym zgodnie z art. 18a ust. 3.
 
 2. Przekazywanie danych, o których mowa w ust. 1 pkt 3, odbywa się:
 
-- **1)** w postaci elektronicznej, w szczególności za pośrednictwem elektronicznej platformy gromadzenia danych statystycznych, a w przypadkach wskazanych w programie badań statystycznych statystyki publicznej w innej formie lub postaci;
+- **1)** w postaci elektronicznej, w szczególności za pośrednictwem elektronicznej platformy gromadzenia danych statystycznych, a w przypadkach wskazanych w programie badań statystycznych statystyki publicznej – w innej formie lub postaci;
 - **2)** w postaci wywiadu przeprowadzanego przez ankietera statystycznego metodą wywiadu bezpośredniego lub wywiadu telefonicznego.
 
 **Art. 30a.** Mikroprzedsiębiorca w rozumieniu art. 2 ust. 3 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1) za rok kalendarzowy, w którym uzyskał wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym, podlega obowiązkowi przekazywania informacji i danych statystycznych, o których mowa w art. 30 ust. 1 pkt 3, jeżeli obowiązek ich przekazywania wynika z umów i zobowiązań międzynarodowych lub przepisów prawa Unii Europejskiej.
@@ -477,7 +485,7 @@ o statystyce publicznej
 
 2. Dane osobowe są zbierane dla celów statystycznych, jeżeli celu statystycznego nie można osiągnąć za pomocą innych danych.
 
-3. Służby statystyki publicznej przetwarzają dane osobowe do celów prowadzenia i aktualizacji krajowego rejestru urzędowego podmiotów gospodarki narodowej. Art. 35aa. Dane osobowe od momentu ich zebrania bezpośrednio od respondentów albo z systemów informacyjnych administracji publicznej i rejestrów urzędowych lub niepublicznych systemów informacyjnych na potrzeby wykonywania zadań określonych w ustawie stają się danymi statystycznymi i objęte są tajemnicą statystyczną z wyłączeniem informacji zawartych w krajowym rejestrze urzędowym podmiotów gospodarki narodowej.
+3. Służby statystyki publicznej przetwarzają dane osobowe do celów prowadzenia i aktualizacji rejestru REGON. Art. 35aa. Dane osobowe od momentu ich zebrania bezpośrednio od respondentów albo z systemów informacyjnych administracji publicznej i rejestrów urzędowych lub niepublicznych systemów informacyjnych na potrzeby wykonywania zadań określonych w ustawie stają się danymi statystycznymi i objęte są tajemnicą statystyczną z wyłączeniem informacji zawartych w rejestrze REGON.
 
 **Art. 35b.**
 
@@ -568,26 +576,26 @@ o statystyce publicznej
 
 4. (uchylony)
 
-5. Przekazanie służbom statystyki publicznej danych osobowych z katalogu danych, o których mowa w ust. 1, przez dostawców publicznie dostępnych usług telekomunikacyjnych nie stanowi naruszenia tajemnicy komunikowania się w sieciach telekomunikacyjnych, o której mowa w art. 386 ust. 1 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221).
+5. Przekazanie służbom statystyki publicznej danych osobowych z katalogu danych, o których mowa w ust. 1, przez dostawców publicznie dostępnych usług telekomunikacyjnych nie stanowi naruszenia tajemnicy komunikowania się w sieciach telekomunikacyjnych, o której mowa w art. 386 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221).
 
 **Art. 35c.**
 
 1. Służby statystyki publicznej przetwarzają dane osobowe określone w art. 35b ust. 1 oraz informacje o życiu i sytuacji osób fizycznych lub o wybranych aspektach życia i sytuacji tych osób, o których mowa w art. 35b ust. 2, pochodzące z systemów informacyjnych administracji publicznej i rejestrów urzędowych, prowadzonych bezpośrednio lub przez jednostki podległe i nadzorowane przez:
 
 - **1)** ministrów właściwych do spraw:
-    - **a)** informatyzacji z rejestru PESEL, rejestru obywateli Ukrainy, którym nadano numer PESEL, centralnej ewidencji pojazdów, rejestru stanu cywilnego i rejestru danych kontaktowych osób fizycznych,
-    - **b)** finansów publicznych z systemu podatkowego,
-    - **c)** pracy, zabezpieczenia społecznego i rodziny z systemu monitoringu świadczeń społecznych (pomocy społecznej, wspierania rodziny i pieczy zastępczej, świadczeń z funduszu alimentacyjnego), systemu zawierającego powiadomienia o powierzeniu wykonywania pracy na terytorium Rzeczypospolitej Polskiej obywatelom Ukrainy i elektronicznego krajowego systemu monitoringu orzekania o niepełnosprawności,
-    - **d)** zdrowia z systemu informacji w ochronie zdrowia,
-    - **e)** oświaty i wychowania z systemu informacji oświatowej,
-    - **f)** szkolnictwa wyższego i nauki ze Zintegrowanego Systemu Informacji o Szkolnictwie Wyższym i Nauce POL-on, 1a) Ministra Sprawiedliwości z centralnej bazy danych ksiąg wieczystych,
+    - **a)** informatyzacji – z rejestru PESEL, rejestru obywateli Ukrainy, którym nadano numer PESEL, centralnej ewidencji pojazdów, rejestru stanu cywilnego i rejestru danych kontaktowych osób fizycznych,
+    - **b)** finansów publicznych – z systemu podatkowego,
+    - **c)** pracy, zabezpieczenia społecznego i rodziny – z systemu monitoringu świadczeń społecznych (pomocy społecznej, wspierania rodziny i pieczy zastępczej, świadczeń z funduszu alimentacyjnego), systemu zawierającego powiadomienia o powierzeniu wykonywania pracy na terytorium Rzeczypospolitej Polskiej obywatelom Ukrainy i elektronicznego krajowego systemu monitoringu orzekania o niepełnosprawności,
+    - **d)** zdrowia – z systemu informacji w ochronie zdrowia,
+    - **e)** oświaty i wychowania – z systemu informacji oświatowej,
+    - **f)** szkolnictwa wyższego i nauki – ze Zintegrowanego Systemu Informacji o Szkolnictwie Wyższym i Nauce POL-on, 1a) Ministra Sprawiedliwości – z centralnej bazy danych ksiąg wieczystych,
 
-- **2)** Zakład Ubezpieczeń Społecznych, Prezesa Kasy Rolniczego Ubezpieczenia Społecznego, Narodowy Fundusz Zdrowia, Komendanta Głównego Straży Granicznej, Szefa Urzędu do Spraw Cudzoziemców, Prezesa Urzędu Komunikacji Elektronicznej, Głównego Inspektora Weterynarii, Państwową Inspekcję Farmaceutyczną, Inspekcję Jakości Handlowej Artykułów Rolno-Spożywczych oraz Agencję Restrukturyzacji i Modernizacji Rolnictwa z systemów i rejestrów związanych z ich działalnością ustawową,
-- **3)** Prezesa Głównego Urzędu Statystycznego z krajowych rejestrów urzędowych, o których mowa w art. 41 ust. 1,
-- **4)** organy administracji rządowej w województwie z systemów i rejestrów związanych z ich działalnością ustawową lub statutową,
-- **5)** organy jednostek samorządu terytorialnego z ewidencji gruntów i budynków, rejestrów wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę, rejestrów mieszkańców, rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego, ewidencji podatkowej nieruchomości, rejestrów bezrobotnych i poszukujących pracy, systemów pomocy społecznej, świadczeń rodzinnych i świadczeń z funduszu alimentacyjnego, elektronicznego krajowego systemu monitoringu orzekania o niepełnosprawności,
-- **6)** sądy okręgowe z ewidencji i systemów dotyczących orzeczonych rozwodów i separacji oraz w zakresie informacji dotyczących przysposobienia,
-- **7)** samorządy zawodowe z rejestrów i ewidencji dotyczących osób wykonujących określone zawody w szczegółowym zakresie określonym w programie badań statystycznych statystyki publicznej.
+- **2)** Zakład Ubezpieczeń Społecznych, Prezesa Kasy Rolniczego Ubezpieczenia Społecznego, Narodowy Fundusz Zdrowia, Komendanta Głównego Straży Granicznej, Szefa Urzędu do Spraw Cudzoziemców, Prezesa Urzędu Komunikacji Elektronicznej, Głównego Inspektora Weterynarii, Państwową Inspekcję Farmaceutyczną, Inspekcję Jakości Handlowej Artykułów RolnoSpożywczych oraz Agencję Restrukturyzacji i Modernizacji Rolnictwa – z systemów i rejestrów związanych z ich działalnością ustawową,
+- **3)** Prezesa Głównego Urzędu Statystycznego – z krajowych rejestrów urzędowych, o których mowa w art. 41 ust. 1,
+- **4)** organy administracji rządowej w województwie – z systemów i rejestrów związanych z ich działalnością ustawową lub statutową,
+- **5)** organy jednostek samorządu terytorialnego – z ewidencji gruntów i budynków, rejestrów wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę, rejestrów mieszkańców, rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego, ewidencji podatkowej nieruchomości, rejestrów bezrobotnych i poszukujących pracy, systemów pomocy społecznej, świadczeń rodzinnych i świadczeń z funduszu alimentacyjnego, elektronicznego krajowego systemu monitoringu orzekania o niepełnosprawności,
+- **6)** sądy okręgowe – z ewidencji i systemów dotyczących orzeczonych rozwodów i separacji oraz w zakresie informacji dotyczących przysposobienia,
+- **7)** samorządy zawodowe – z rejestrów i ewidencji dotyczących osób wykonujących określone zawody – w szczegółowym zakresie określonym w programie badań statystycznych statystyki publicznej.
 
 2. Służby statystyki publicznej przetwarzają dane osobowe określone w art. 35b ust. 1 oraz informacje o życiu i sytuacji osób fizycznych lub wybranych aspektach życia i sytuacji tych osób, o których mowa w art. 35b ust. 2, pochodzące z niepublicznych systemów informacyjnych w szczegółowym zakresie określonym w programie badań statystycznych statystyki publicznej.
 
@@ -671,153 +679,352 @@ o statystyce publicznej
 
 **Art. 40.**
 
-1. Prezes Głównego Urzędu Statystycznego, w porozumieniu z właściwymi naczelnymi organami administracji państwowej, opracowuje podstawowe do określenia przebiegu i opisu procesów gospodarczych i społecznych standardowe klasyfikacje i nomenklatury, wzajemne relacje między nimi oraz ich interpretacje.
+1. Prezes Głównego Urzędu Statystycznego, w porozumieniu z właściwymi organami administracji państwowej:
 
-2. Standardowe klasyfikacje i nomenklatury, o których mowa w ust. 1, wprowadza Rada Ministrów w drodze rozporządzenia.
+- **1)** opracowuje podstawowe do określenia przebiegu i opisu procesów gospodarczych i społecznych:
+    - **a)** standardy klasyfikacyjne: – Polską Klasyfikację Działalności (PKD), – Polską Klasyfikację Wyrobów i Usług (PKWiU), – Polską Klasyfikację Obiektów Budowlanych (PKOB), – Klasyfikację Środków Trwałych (KŚT),
+    - **b)** wzajemne relacje między dotychczasowymi i nowymi albo zmienianymi standardami klasyfikacyjnymi,
+    - **c)** interpretacje standardów klasyfikacyjnych;
 
-3. Wprowadzone w trybie ust. 2 standardowe klasyfikacje i nomenklatury stosuje się w statystyce, ewidencji i dokumentacji oraz rachunkowości, a także w urzędowych rejestrach i systemach informacyjnych administracji publicznej.
+- **2)** wskazuje okres równoczesnego stosowania dotychczasowego i nowego albo zmienianego standardu klasyfikacyjnego.
 
-4. (uchylony)
+2. Standardy klasyfikacyjne stosuje się w statystyce publicznej, ewidencji i dokumentacji oraz rachunkowości, a także w rejestrach urzędowych i systemach informacyjnych administracji publicznej.
 
-5. (uchylony)
+3. W przypadku Polskiej Klasyfikacji Działalności (PKD) wzajemne relacje między dotychczasową i nową albo zmienianą klasyfikacją obejmują:
 
-6. (uchylony)
+- **1)** wzajemne relacje wieloznaczne;
+- **2)** wzajemne relacje jednoznaczne;
+- **3)** szczegółowe interpretacje wzajemnych relacji wieloznacznych.
+
+4. Prezes Głównego Urzędu Statystycznego, opracowując standardy klasyfikacyjne, o których mowa w ust. 1 pkt 1 lit. a, uwzględnia:
+
+- **1)** potrzeby użytkowników danego standardu klasyfikacyjnego;
+- **2)** adekwatność długości okresu równoczesnego stosowania dotychczasowego i nowego albo zmienianego standardu klasyfikacyjnego do zakresu wprowadzanych zmian.
+
+5. W przypadku Polskiej Klasyfikacji Działalności (PKD) Prezes Głównego Urzędu Statystycznego uwzględnia również konieczność:
+
+- **1)** zachowania zgodności metodologicznej, pojęciowej, zakresowej i kodowej Polskiej Klasyfikacji Działalności (PKD) z klasyfikacją działalności określoną w przepisach prawa Unii Europejskiej;
+- **2)** zapewnienia poszczególnym rejestrom urzędowym możliwości automatycznego przeklasyfikowania wskazanych przedmiotów działalności;
+- **3)** zapewnienia podmiotom gospodarki narodowej możliwości wykorzystania wzajemnych relacji między dotychczasową i nową albo zmienianą klasyfikacją do samodzielnego określenia wykonywanych rodzajów działalności.
+
+6. W przypadku Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) Prezes Głównego Urzędu Statystycznego uwzględnia również konieczność zachowania zgodności metodologicznej, pojęciowej, zakresowej i kodowej Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) z klasyfikacją produktów według działalności określoną w przepisach prawa Unii Europejskiej.
+
+7. Rada Ministrów wprowadza, w drodze rozporządzenia, standardy klasyfikacyjne, wzajemne relacje między dotychczasowym i nowym albo zmienianym standardem klasyfikacyjnym oraz okres równoczesnego stosowania dotychczasowego i nowego albo zmienianego standardu klasyfikacyjnego, o których mowa w ust. 1, mając na uwadze zachowanie wymagań określonych w ust. 4–6.
+
+**Art. 40a.** W przypadku Polskiej Klasyfikacji Działalności (PKD) wzajemne relacje między dotychczasową i nową albo zmienianą klasyfikacją umożliwiają:
+
+**Art. 40b.**
+
+1. Po wydaniu nowych albo po zmianie dotychczasowych przepisów w zakresie Polskiej Klasyfikacji Działalności (PKD) podmioty wpisane do rejestru REGON, składając wniosek o zmianę wpisu w tym rejestrze, są obowiązane do wskazania przedmiotu działalności według nowej albo zmienianej klasyfikacji.
+
+2. Wniosek, o którym mowa w ust. 1, podmiot składa przed upływem okresu równoczesnego stosowania dotychczasowej i nowej albo zmienianej Polskiej Klasyfikacji Działalności (PKD).
+
+3. Po upływie okresu, o którym mowa w ust. 2, przedmiot działalności w rejestrze REGON jest zmieniany automatycznie w sposób ustalony we wzajemnych relacjach między dotychczasową i nową albo zmienianą klasyfikacją.
+
+4. Przepisów ust. 1 i 3 nie stosuje się do wpisów w rejestrze REGON zmienianych na podstawie danych i informacji przekazywanych z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, Krajowego Rejestru Sądowego lub Rejestru Szkół i Placówek Oświatowych.
 
 **Art. 41.**
 
-1. Prezes Głównego Urzędu Statystycznego prowadzi krajowe rejestry urzędowe:
+1. Prezes Głównego Urzędu Statystycznego prowadzi w systemach teleinformatycznych:
 
-- **1)** podmiotów gospodarki narodowej;
-- **2)** podziału terytorialnego kraju.
+- **1)** rejestr REGON;
+- **2)** rejestr TERYT.
 
 2. Zadania określone w ust. 1 są wykonywane przez Prezesa Głównego Urzędu Statystycznego w ramach odrębnego od statystyki publicznej systemu informacyjnego administracji publicznej.
+
+2a. Podmiotem odpowiedzialnym za funkcjonowanie systemów teleinformatycznych, o których mowa w ust. 1, jest jednostka obsługi statystyki publicznej, utworzona na podstawie art. 27, której zadaniem jest dostarczanie i rozwój usług informatycznych niezbędnych do prawidłowej realizacji zadań przez służby statystyki publicznej.
 
 3. Zbierane i gromadzone w krajowych rejestrach urzędowych informacje nie są danymi statystycznymi w rozumieniu ustawy i, z wyjątkiem informacji, o których mowa w art. 42 ust. 3 pkt 7 i 8, nie podlegają rygorom poufności i tajemnicy statystycznej.
 
 **Art. 42.**
 
-1. Krajowy rejestr urzędowy podmiotów gospodarki narodowej, zwany dalej „rejestrem podmiotów”, obejmuje:
+1. Rejestr REGON obejmuje:
 
 - **1)** osoby prawne;
 - **2)** jednostki organizacyjne niemające osobowości prawnej;
 - **3)** osoby fizyczne prowadzące działalność gospodarczą.
 
-2. (uchylony) 2a. Wpisowi do rejestru podmiotów nie podlega osoba fizyczna w zakresie prowadzonej działalności:
+1a. Rejestr REGON służy ewidencjonowaniu podmiotów gospodarki narodowej i ich jednostek lokalnych oraz zapewnieniu dostępu do informacji o podmiotach gospodarki narodowej i ich jednostkach lokalnych.
 
-- **1)** oświatowej obejmującej prowadzenie przedszkola, szkoły, placówki lub innej jednostki organizacyjnej, o której mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635);
-- **2)** o której mowa w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+2. (uchylony) 2a. Wpisowi do rejestru REGON nie podlega osoba fizyczna w zakresie prowadzonej działalności:
 
-3. Wpisowi do rejestru podmiotów podlegają następujące informacje o podmiotach wymienionych w ust. 1 w zakresie prowadzonej przez nie działalności:
+- **1)** oświatowej obejmującej prowadzenie przedszkola, szkoły, placówki lub innej jednostki organizacyjnej, o której mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635);
+- **2)** o której mowa w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
-- **1)** nazwa i adres siedziby, a w przypadku osób fizycznych prowadzących działalność gospodarczą dodatkowo nazwisko i imiona oraz miejsce zamieszkania i identyfikator systemu ewidencji ludności (PESEL), o ile taki posiada;
+3. Wpisowi do rejestru REGON podlegają następujące informacje o podmiotach wymienionych w ust. 1 w zakresie prowadzonej przez nie działalności: [1) nazwa i adres siedziby, a w przypadku osób fizycznych prowadzących działalność gospodarczą – dodatkowo nazwisko i imiona oraz miejsce zamieszkania i identyfikator systemu ewidencji ludności (PESEL), o ile taki posiada;] <1) nazwa, adres siedziby – w przypadku podmiotu niebędącego osobą fizyczną prowadzącą działalność gospodarczą, adres miejsca wykonywania działalności, o ile takie miejsce posiada, adres do doręczeń oraz nazwa podmiotu, na którego adres jest kierowana korespondencja, a w przypadku osoby fizycznej prowadzącej działalność gospodarczą – dodatkowo imiona i nazwisko oraz adres miejsca zamieszkania i numer PESEL, [o ile taki posiada]; <a jeżeli takiego nie posiada – niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej do celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. )> >
+
 - **2)** numer identyfikacji podatkowej (NIP) oraz informacje o jego unieważnieniu lub uchyleniu;
-- **2a)** numery identyfikacyjne wspólników spółki cywilnej, o ile takie posiadają, nazwisko i imiona albo firma wspólników spółki cywilnej wraz z numerem PESEL osoby fizycznej prowadzącej działalność, o ile taki posiada;
-- **3)** forma prawna i forma własności;
-- **4)** wykonywana działalność, w tym rodzaj przeważającej działalności;
-- **5)** daty: powstania podmiotu, rozpoczęcia działalności, zawieszenia i wznowienia działalności, wpisu do ewidencji lub rejestru, orzeczenia o ogłoszeniu upadłości, zakończenia postępowania upadłościowego, zakończenia działalności albo trwałego zakończenia działalności w przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, zgonu albo znalezienia zwłok osoby fizycznej prowadzącej działalność gospodarczą, skreślenia z ewidencji lub rejestru, wpisu oraz skreślenia z rejestru podmiotów;
-- **6)** nazwa organu rejestrowego lub ewidencyjnego, nazwa rejestru (ewidencji) i nadany przez ten organ numer;
+- **2a)** numery identyfikacyjne REGON wspólników spółki cywilnej, o ile takie posiadają, nazwisko i imiona albo firma wspólników spółki cywilnej wraz z numerem PESEL osoby fizycznej prowadzącej działalność, o ile taki posiada;
+- **3)** forma prawna – podstawowa i szczególna – oraz forma własności; <3a) typ podmiotu będącego jednostką sektora finansów publicznych – jednostka budżetowa albo samorządowy zakład budżetowy, jeżeli dotyczy;>
+- **4)** wykonywana działalność, w tym przedmiot przeważającej działalności według Polskiej Klasyfikacji Działalności (PKD);
+- **5)** daty:
+    - **a)** powstania podmiotu,
+    - **b)** rozpoczęcia działalności,
+    - **c)** zawieszenia i wznowienia działalności,
+    - **d)** wpisu do ewidencji lub rejestru,
+    - **e)** orzeczenia o ogłoszeniu upadłości,
+    - **f)** zakończenia postępowania upadłościowego, <g) orzeczenia o otwarciu likwidacji i zakończenia postępowania likwidacyjnego,>
+    - **h)** zaprzestania wykonywania działalności – w przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, jeżeli została zgłoszona,
+    - **i)** zakończenia działalności, jeżeli została zgłoszona,
+    - **j)** zgonu albo znalezienia zwłok – w przypadku: – osób fizycznych będących przedsiębiorcami w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, – pozostałych osób fizycznych prowadzących działalność gospodarczą,
+    - **k)** skreślenia z ewidencji lub rejestru,
+    - **l)** wpisu do rejestru REGON i skreślenia z tego rejestru;
+
+- **6)** nazwa organu rejestrowego lub ewidencyjnego, nazwa rejestru lub ewidencji i nadany przez ten organ numer, o ile został nadany;
 - **7)** przewidywana liczba pracujących;
 - **8)** w przypadku gospodarstw rolnych powierzchnia ogólna i użytków rolnych;
-- **9)** o ich jednostkach lokalnych w zakresie informacji określonych w pkt 1 i 4–8;
-- **10)** numer telefonu i faksu siedziby, adres poczty elektronicznej oraz strony internetowej, o ile podmiot takie posiada i poda je do rejestru podmiotów.
+- **9)** dotyczące jednostek lokalnych w zakresie informacji: [10) numer telefonu i faksu siedziby, adres poczty elektronicznej oraz strony internetowej, o ile podmiot takie posiada i poda je do rejestru podmiotów.] <10) numer telefonu i faksu, adres poczty elektronicznej i strony internetowej oraz adres do doręczeń elektronicznych, o ile podmiot takie posiada.> 3a. W przypadku podmiotów wpisanych do Krajowego Rejestru Sądowego, z wyłączeniem rejestru dłużników niewypłacalnych i podmiotów, o których mowa w art. 49a ust. 1 ustawy o Krajowym Rejestrze Sądowym, wpisowi do rejestru REGON podlegają: [1) dane objęte treścią wpisu w Krajowym Rejestrze Sądowym – w zakresie odpowiadającym danym, o których mowa w ust. 3 pkt 1 i 2 oraz 3–6;] <1) dane objęte treścią wpisu w Krajowym Rejestrze Sądowym w zakresie odpowiadającym danym, o których mowa w ust. 3 pkt 1, 2 i 3–6, oraz adresu do doręczeń elektronicznych;> [2) dane uzupełniające: przewidywana liczba pracujących, forma własności na podstawie procentowego udziału własności w ogólnej wartości kapitału, powierzchnia ogólna gospodarstw rolnych i użytków rolnych, przeważający rodzaj działalności statutowej dla podmiotów podlegających wpisowi do rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej oraz dane kontaktowe: numer telefonu i faksu, adres poczty elektronicznej oraz strony internetowej, o ile podmiot takie posiada.] <2) dane uzupełniające: przewidywana liczba pracujących, forma własności na podstawie procentowego udziału własności w ogólnej wartości kapitału, powierzchnia ogólna gospodarstw rolnych i użytków rolnych, przedmiot przeważającej działalności statutowej dla podmiotów podlegających wpisowi do rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej oraz dane kontaktowe: numer telefonu i faksu, adres poczty elektronicznej i strony internetowej, o ile podmiot takie posiada, a także adres do doręczeń.>
+    - **a)** określonych w: – pkt 1 w zakresie: – – nazwy i adresu siedziby – w przypadku podmiotu niebędącego osobą fizyczną prowadzącą działalność gospodarczą lub – – adresu miejsca wykonywania działalności w przypadku osoby fizycznej prowadzącej działalność gospodarczą, – pkt 2, o ile dana jednostka lokalna posiada numer identyfikacji podatkowej (NIP), – pkt 4–8, <– pkt 10, o ile dana jednostka lokalna posiada takie dane kontaktowe,>
+    - **b)** o samodzielnym sporządzaniu sprawozdania finansowego;
 
-3a. W przypadku podmiotów wpisanych do Krajowego Rejestru Sądowego, z wyłączeniem rejestru dłużników niewypłacalnych i podmiotów, o których mowa w art. 49a ust. 1 ustawy o Krajowym Rejestrze Sądowym, wpisowi do rejestru podmiotów podlegają:
+4. Jednostką lokalną jest zorganizowana całość (zakład, oddział, filia) położona w miejscu zidentyfikowanym odrębnym adresem, pod którym lub z którego prowadzona jest działalność co najmniej przez jedną osobę pracującą. [5. Podmioty, o których mowa w ust. 1, mają obowiązek wypełniania i składania wniosku o wpis do rejestru podmiotów oraz informowania o zachodzących zmianach w zakresie danych określonych w ust. 3 pkt 1–6.] <5. Podmioty, o których mowa w ust. 1, są obowiązane do złożenia wniosku o wpis do rejestru REGON oraz informowania o zmianach w zakresie danych określonych w ust. 3 pkt 1–6 i 10.>
 
-- **1)** dane objęte treścią wpisu w Krajowym Rejestrze Sądowym w zakresie odpowiadającym danym, o których mowa w ust. 3 pkt 1 i 2 oraz 3–6;
-- **2)** dane uzupełniające: przewidywana liczba pracujących, forma własności na podstawie procentowego udziału własności w ogólnej wartości kapitału, powierzchnia ogólna gospodarstw rolnych i użytków rolnych, przeważający rodzaj działalności statutowej dla podmiotów podlegających wpisowi do rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej oraz dane kontaktowe: numer telefonu i faksu, adres poczty elektronicznej oraz strony internetowej, o ile podmiot takie posiada.
+6. Wniosek o wpis do rejestru REGON składa się w wybranym urzędzie statystycznym – w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających wpis, a wniosek o zmianę informacji objętych wpisem oraz wniosek o skreślenie wpisu z tego rejestru – w terminie 7 dni od dnia zaistnienia okoliczności uzasadniających zmianę lub skreślenie. Do wniosku dołącza się dokumenty określone przepisami innych ustaw, potwierdzające powstanie podmiotu albo podjęcie działalności, zmianę cech objętych wpisem albo skreślenie podmiotu.
 
-4. Jednostką lokalną jest zorganizowana całość (zakład, oddział, filia) położona w miejscu zidentyfikowanym odrębnym adresem, pod którym lub z którego prowadzona jest działalność co najmniej przez jedną osobę pracującą.
-
-5. Podmioty, o których mowa w ust. 1, mają obowiązek wypełniania i składania wniosku o wpis do rejestru podmiotów oraz informowania o zachodzących zmianach w zakresie danych określonych w ust. 3 pkt 1–6.
-
-6. Wniosek o wpis do rejestru podmiotów składa się w urzędzie statystycznym województwa właściwym dla siedziby albo miejsca zamieszkania podmiotu w terminie 14 dni od zaistnienia okoliczności uzasadniających wpis, a wniosek o zmianę cech objętych wpisem oraz wniosek o skreślenie w terminie 7 dni od zaistnienia okoliczności uzasadniających zmianę lub skreślenie. Do wniosku dołącza się dokumenty określone przepisami innych ustaw, potwierdzające powstanie podmiotu albo podjęcie działalności, zmianę cech objętych wpisem albo skreślenie podmiotu.
-
-6a. Podmioty wpisane do Krajowego Rejestru Sądowego, z wyłączeniem rejestru dłużników niewypłacalnych oraz podmiotów, o których mowa w art. 49a ust. 1 ustawy o Krajowym Rejestrze Sądowym, dokonują zgłoszenia wyłącznie w zakresie danych uzupełniających określonych w ust. 3a pkt 2 w terminie 21 dni od dnia wpisu do Krajowego Rejestru Sądowego, a zgłoszenia aktualizacyjnego w terminie 7 dni od dnia zaistnienia okoliczności uzasadniających zmianę lub skreślenie danych z rejestru podmiotów, do właściwego naczelnika urzędu skarbowego.
+6a. Podmioty wpisane do Krajowego Rejestru Sądowego, z wyłączeniem rejestru dłużników niewypłacalnych oraz podmiotów, o których mowa w art. 49a ust. 1 ustawy o Krajowym Rejestrze Sądowym, dokonują zgłoszenia wyłącznie w zakresie danych uzupełniających określonych w ust. 3a pkt 2 – w terminie 21 dni od dnia wpisu do Krajowego Rejestru Sądowego, a zgłoszenia aktualizacyjnego – w terminie 7 dni od dnia zaistnienia okoliczności uzasadniających zmianę lub skreślenie danych z rejestru REGON, do właściwego naczelnika urzędu skarbowego.
 
 6b. Podmioty wpisane do Krajowego Rejestru Sądowego mogą złożyć dla jednostek lokalnych wniosek, o którym mowa w ust. 6.
 
-7. Złożenie wniosku o wpis do rejestru podmiotów, wniosku o zmianę cech objętych wpisem oraz wniosku o skreślenie z rejestru podmiotów dla:
+7. Złożenie wniosku o wpis do rejestru podmiotów, wniosku o zmianę cech objętych wpisem oraz wniosku o skreślenie z rejestru REGON dla: [1) przedsiębiorcy będącego osobą fizyczną – następuje na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541);] <1) przedsiębiorcy będącego osobą fizyczną oraz spółki cywilnej, w której co najmniej jeden ze wspólników jest przedsiębiorcą wpisanym do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z informacjami o jej wspólnikach – następuje na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2026 r. poz. 30 i 507);>
 
-- **1)** przedsiębiorcy będącego osobą fizyczną następuje na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541);
 - **2)** (uchylony)
-- **3)** przedszkoli, szkół, placówek i innych jednostek organizacyjnych, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, i ich zespołów następuje na podstawie przepisów ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej.
+- **3)** przedszkoli, szkół, placówek i innych jednostek organizacyjnych, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, i ich zespołów – następuje na podstawie przepisów ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej.
 
-8. Przepisu ust. 7 nie stosuje się, jeżeli zmiana dotyczy jedynie cech objętych wpisem, niebędących przedmiotem wpisu w Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Rejestrze Szkół i Placówek Oświatowych.
+8. Przepisu ust. 7 nie stosuje się, jeżeli zmiana dotyczy informacji objętych wpisem, które nie są przedmiotem wpisu w Rejestrze Szkół i Placówek Oświatowych.
 
-9. Aktualizacja rejestru podmiotów w zakresie indywidualnych gospodarstw rolnych może nastąpić na podstawie wykazów tych gospodarstw przekazywanych urzędom statystycznym właściwym dla miejsca położenia gospodarstwa przez urzędy gmin na podstawie odrębnej ustawy.
+9. (uchylony)
 
-10. Wpis do rejestru podmiotów następuje po zakodowaniu cech podmiotu wymienionych w ust. 3, według obowiązujących standardów klasyfikacyjnych, z jednoczesnym nadaniem niepowtarzalnego numeru identyfikacyjnego. Wpis do rejestru podmiotów w zakresie danych przekazanych za pośrednictwem systemu teleinformatycznego następuje z chwilą automatycznego zamieszczenia tych danych w rejestrze.
+10. Wpis do rejestru REGON następuje po zakodowaniu cech podmiotu wymienionych w ust. 3, według obowiązujących standardów klasyfikacyjnych, z jednoczesnym nadaniem numeru identyfikacyjnego REGON. Wpis do rejestru REGON w zakresie danych przekazanych za pośrednictwem systemu teleinformatycznego następuje z chwilą automatycznego zamieszczenia tych danych w rejestrze.
 
-11. Wpis do rejestru podmiotów, z jednoczesnym nadaniem niepowtarzalnego numeru identyfikacyjnego, zmiana wpisu lub jego skreślenie, dotyczące podmiotu wpisanego do Krajowego Rejestru Sądowego, następuje bezpośrednio po automatycznym zamieszczeniu za pośrednictwem systemu teleinformatycznego danych przekazanych z Krajowego Rejestru Sądowego.
+11. Wpis do rejestru REGON, z jednoczesnym nadaniem numeru identyfikacyjnego REGON, zmiana wpisu lub jego skreślenie, dotyczące podmiotu wpisanego do Krajowego Rejestru Sądowego, następują bezpośrednio po automatycznym zamieszczeniu za pośrednictwem systemu teleinformatycznego danych przekazanych z Krajowego Rejestru Sądowego.
 
-12. Informacja o nadanym numerze identyfikacyjnym jest przekazywana automatycznie za pośrednictwem systemu teleinformatycznego do Krajowego Rejestru Sądowego bezpośrednio po jego nadaniu.
+12. Informacja o nadanym numerze identyfikacyjnym REGON jest przekazywana automatycznie za pośrednictwem systemu teleinformatycznego do Krajowego Rejestru Sądowego bezpośrednio po jego nadaniu.
 
-13. Nadanie numeru identyfikacyjnego i przekazanie informacji w tym przedmiocie do Krajowego Rejestru Sądowego może nastąpić w terminie 3 dni, jeżeli zachodzi konieczność zakodowania nazwy miejscowości niezgodnej z krajowym rejestrem urzędowym podziału terytorialnego kraju lub ustalenia, czy podmiotowi nie został uprzednio nadany numer identyfikacyjny.
+13. Nadanie numeru identyfikacyjnego REGON i przekazanie informacji w tym przedmiocie do Krajowego Rejestru Sądowego następuje w terminie 3 dni, jeżeli zachodzi konieczność zakodowania nazwy miejscowości niezgodnej z rejestrem TERYT lub ustalenia, czy podmiotowi nie został uprzednio nadany numer identyfikacyjny REGON.
 
-14. Wpis do rejestru podmiotów lub zmiana wpisu w zakresie danych uzupełniających, o których mowa w ust. 3a pkt 2, podmiotu wpisanego do Krajowego Rejestru Sądowego następuje bezpośrednio po automatycznym zamieszczeniu za pośrednictwem systemu teleinformatycznego danych przekazanych z Centralnego Rejestru Podmiotów Krajowej Ewidencji Podatników.
+14. Wpis do rejestru REGON lub zmiana wpisu w zakresie danych uzupełniających, o których mowa w ust. 3a pkt 2, podmiotu wpisanego do Krajowego Rejestru Sądowego następuje bezpośrednio po automatycznym zamieszczeniu za pośrednictwem systemu teleinformatycznego danych przekazanych z Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników.
+
+**Art. 42a.**
+
+1. Rejestr REGON jest aktualizowany na podstawie:
+
+- **1)** danych objętych treścią wpisu w Krajowym Rejestrze Sądowym oraz danych uzupełniających, o których mowa w art. 42 ust. 3a pkt 2, przekazywanych odpowiednio z Krajowego Rejestru Sądowego oraz z Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników – w zakresie podmiotów wskazanych w art. 42 ust. 6a;
+- **2)** danych oraz informacji przekazywanych z Centralnej Ewidencji i Informacji o Działalności Gospodarczej – w zakresie podmiotów wskazanych w art. 42 ust. 7 pkt 1;
+- **3)** danych przekazywanych z systemu informacji oświatowej – w zakresie podmiotów wskazanych w art. 42 ust. 7 pkt 3;
+- **4)** informacji z wniosków podmiotów gospodarki narodowej składanych do rejestru REGON w trybie określonym w art. 42 ust. 5 i 6.
+
+2. Dane gromadzone w rejestrze REGON są aktualizowane na podstawie: <1) danych przekazywanych z Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników – w zakresie informacji o numerze identyfikacji podatkowej (NIP) oraz informacji o jego unieważnieniu lub uchyleniu;> <2) danych z rejestru PESEL – w zakresie numeru PESEL, imion i nazwiska osoby fizycznej, o ile w danym przypadku jest to możliwe;
+
+- **3)** danych przekazywanych z systemów informacyjnych Zakładu Ubezpieczeń Społecznych – w zakresie informacji o liczbie pracujących;>
+- **4)** zmian w rejestrze TERYT – w zakresie adresu siedziby, adresu miejsca wykonywania działalności, miejsca zamieszkania i adresu do doręczeń, o ile w danym przypadku jest to możliwe;
+- **5)** danych otrzymanych od organów prowadzących ewidencje lub rejestry albo danych ujawnionych w tych ewidencjach lub rejestrach;
+- **6)** art. 40b ust. 3;
+- **7)** zmian szczególnych form prawnych podmiotów;
+- **8)** weryfikacji wpisów w zakresie dotyczącym zaklasyfikowania grup podmiotów:
+    - **a)** według form prawnych lub form własności lub
+    - **b)** jako jednostek sektora finansów publicznych.
+
+3. Wpis zostaje skreślony z rejestru REGON z urzędu w przypadku:
+
+- **1)** wielokrotnego nadania numeru identyfikacyjnego REGON; <2) zgonu osoby fizycznej prowadzącej działalność gospodarczą niepodlegającą wpisowi do Centralnej Ewidencji i Informacji o Działalności Gospodarczej – na podstawie danych z rejestru PESEL, a jeżeli osobie tej nie został nadany numer PESEL – na podstawie wiarygodnej informacji o dacie zgonu albo znalezienia zwłok tej osoby fizycznej wpisanej do rejestru REGON;
+- **3)** skreślenia wpisu stowarzyszenia z wykazów stowarzyszeń nadzorowanych przez starostów lub prezydentów miast;>
+- **4)** zniesienia lub likwidacji podmiotu;
+- **5)** niewpisania podmiotu do właściwej ewidencji lub właściwego rejestru, jeżeli wpis ten jest wymagany na podstawie odrębnych przepisów.
+
+4. W przypadku, o którym mowa w ust. 3 pkt 1, urząd statystyczny dokonuje skreślenia wpisu z rejestru REGON po poinformowaniu podmiotu, którego dany wpis dotyczy.
+
+5. Na wniosek osoby, która przedstawi dowód posiadania tytułu prawnego do nieruchomości wskazanej we wpisie w rejestrze REGON, zostają skreślone z rejestru REGON dane adresowe tej nieruchomości, jeżeli podmiot wpisany do rejestru REGON nie dokona odpowiedniej zmiany wpisu w tym zakresie.
+
+6. W przypadku, o którym mowa w ust. 5, urząd statystyczny wzywa podmiot wpisany do rejestru REGON do przedstawienia dowodu posiadania tytułu prawnego do nieruchomości lub dokonania odpowiedniej zmiany wpisu w tym zakresie w terminie 7 dni od dnia doręczenia wezwania.
+
+7. Na wniosek osoby, która wykaże, że jest użytkownikiem uprawnionym do korzystania z danych kontaktowych, o których mowa w art. 42 ust. 3 pkt 10, ujawnionych we wpisie w rejestrze REGON, skreśla się z tego rejestru wskazane w tym wniosku dane kontaktowe.
+
+8. Aktualizacja oraz skreślenie danych lub informacji, o których mowa w ust. 1– 3, 5 i 7, następuje w formie czynności materialno-technicznej.
+
+9. Aktualizacja oraz skreślenie danych lub informacji, o których mowa w ust. 2, 3, 5 i 7, nie mają zastosowania do informacji przekazywanych z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, Krajowego Rejestru Sądowego ani systemu informacji oświatowej.
 
 **Art. 43.**
 
-1. Informacja o nadanym podmiotowi i jego jednostkom lokalnym numerze identyfikacyjnym jest udostępniana na stronie internetowej Głównego Urzędu Statystycznego w sposób, o którym mowa w art. 45a, lub za pośrednictwem elektronicznej platformy usług administracji publicznej (ePUAP), zwanej dalej „ePUAP”.
+1. Informacja o nadanym podmiotowi i jego jednostkom lokalnym numerze identyfikacyjnym REGON jest udostępniana w sposób, o którym mowa w art. 45a.
 
-2. Udostępnienie danych na stronie internetowej Głównego Urzędu Statystycznego lub za pośrednictwem ePUAP jest potwierdzeniem dokonania wpisu tych informacji w rejestrze podmiotów.
+2. Udostępnienie danych na stronie internetowej Głównego Urzędu Statystycznego jest potwierdzeniem dokonania wpisu tych informacji w rejestrze REGON.
 
-3. Urzędy statystyczne wydają na żądanie wpisanych do rejestru podmiotów osób prawnych, jednostek organizacyjnych niemających osobowości prawnej oraz osób fizycznych prowadzących działalność gospodarczą zaświadczenia o nadanym im i ich jednostkom lokalnym numerze identyfikacyjnym, nie później niż w terminie 7 dni roboczych od dnia otrzymania żądania.
+2a. W przypadku podmiotów wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, Krajowego Rejestru Sądowego lub Rejestru Szkół i Placówek Oświatowych potwierdzeniem nadania numeru identyfikacyjnego REGON jest również ujawnienie tego numeru w tej ewidencji lub w tych rejestrach.
 
-4. Prezes Głównego Urzędu Statystycznego przekazuje Prezesowi Zakładu Ubezpieczeń Społecznych w terminie 7 dni roboczych od dnia dokonania wpisu informację o numerze identyfikacyjnym nadanym przedsiębiorcy rozpoczynającemu wykonywanie działalności gospodarczej wraz z numerem PESEL osoby fizycznej wykonującej działalność gospodarczą.
+3. Urzędy statystyczne wydają na żądanie wpisanych do rejestru REGON osób prawnych, jednostek organizacyjnych niemających osobowości prawnej oraz osób fizycznych prowadzących działalność gospodarczą zaświadczenia o nadanych im i ich jednostkom lokalnym numerach identyfikacyjnych REGON, niepóźniej niż w terminie 7 dni roboczych od dnia otrzymania żądania.
+
+4. Prezes Głównego Urzędu Statystycznego przekazuje Prezesowi Zakładu Ubezpieczeń Społecznych w terminie 7 dni roboczych od dnia dokonania wpisu informację o numerze identyfikacyjnym REGON nadanym przedsiębiorcy rozpoczynającemu wykonywanie działalności gospodarczej wraz z numerem PESEL osoby fizycznej wykonującej działalność gospodarczą.
 
 **Art. 44.**
 
-1. Organy prowadzące urzędowe rejestry, z wyjątkiem rejestrów sądowych, i systemy informacyjne administracji publicznej zawierające dane o poszczególnych podmiotach są obowiązane do wpisywania numeru identyfikacyjnego podmiotu nadanego w rejestrze podmiotów, posługiwania się nim przy przekazywaniu informacji oraz stosowania jednolitych oznaczeń kodowych opisu podstawowych cech podmiotu, kodowanych według standardów klasyfikacyjnych.
+1. Organy prowadzące rejestry urzędowe i systemy informacyjne administracji publicznej zawierające dane o poszczególnych podmiotach są obowiązane do wpisywania numeru identyfikacyjnego REGON danego podmiotu nadanego w rejestrze REGON i posługiwania się nim przy przekazywaniu informacji.
 
-1a. Rejestr podmiotów udostępnia za pośrednictwem systemu teleinformatycznego Centralnemu Rejestrowi Podmiotów Krajowej Ewidencji Podatników informację o nadanym podmiotowi numerze identyfikacyjnym.
+1a. Rejestr REGON udostępnia za pośrednictwem systemu teleinformatycznego Centralnemu Rejestrowi Podmiotów – Krajowej Ewidencji Podatników informację o nadanym podmiotowi numerze identyfikacyjnym REGON.
 
-2. Urzędy statystyczne udostępniają nieodpłatnie:
+2. Główny Urząd Statystyczny oraz urzędy statystyczne udostępniają nieodpłatnie:
 
-- **1)** organom prowadzącym inne urzędowe rejestry i systemy informacyjne administracji publicznej, o których mowa w ust. 1, okresowo wykazy podmiotów wpisanych do rejestru podmiotów wraz z nadanym im numerem identyfikacyjnym i zakodowanym opisem informacji objętych rejestrem,
-- **2)** organom administracji rządowej i jednostek samorządu terytorialnego, innym instytucjom rządowym, Najwyższej Izbie Kontroli, Narodowemu Bankowi Polskiemu, Prezesowi Urzędu Ochrony Danych Osobowych, równorzędnym organom, jednostkom i instytucjom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, państw, które zawarły ze Wspólnotą Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług, oraz Komisji Europejskiej na ich pisemny wniosek, wyciągi z rejestru podmiotów,
-- **3)** Państwowej Inspekcji Pracy oraz Państwowej Inspekcji Sanitarnej z urzędu, kwartalnie, zgromadzone w rejestrze podmiotów informacje o podmiotach deklarujących zatrudnienie pracowników wraz z nadanym im numerem identyfikacyjnym i zakodowanym opisem informacji objętych rejestrem w uzgodnionym zakresie, niezbędnym do wykonywania statutowych zadań tych organów lub instytucji.
+- **1)** organom prowadzącym inne urzędowe rejestry i systemy informacyjne administracji publicznej, o których mowa w ust. 1, okresowo wykazy podmiotów wpisanych do rejestru REGON wraz z nadanym im numerem identyfikacyjnym REGON i zakodowanym opisem informacji objętych rejestrem,
+- **2)** organom administracji rządowej i jednostek samorządu terytorialnego, innym instytucjom rządowym, Najwyższej Izbie Kontroli, Narodowemu Bankowi Polskiemu, Prezesowi Urzędu Ochrony Danych Osobowych, równorzędnym organom, jednostkom i instytucjom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, państw, które zawarły ze Wspólnotą Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług, oraz Komisji Europejskiej na ich pisemny wniosek, wyciągi z rejestru REGON,
+- **3)** Państwowej Inspekcji Pracy oraz Państwowej Inspekcji Sanitarnej z urzędu, kwartalnie, zgromadzone w rejestrze REGON informacje o podmiotach deklarujących zatrudnienie pracowników wraz z nadanym im numerem identyfikacyjnym REGON i zakodowanym opisem informacji objętych rejestrem – w uzgodnionym zakresie, niezbędnym do wykonywania statutowych zadań tych organów lub instytucji.
 
-3. Udostępniane w trybie ust. 2 informacje nie mogą obejmować danych, o których mowa w art. 42 ust. 3 pkt 7 i 8.
+2a. Dane z rejestru REGON udostępnia się komornikom sądowym w zakresie niezbędnym do realizacji ich ustawowych zadań w związku z:
 
-**Art. 45.**
+- **1)** prowadzeniem postępowania egzekucyjnego lub zabezpieczającego;
+- **2)** wykonywaniem postanowienia o zabezpieczeniu spadku lub sporządzaniem spisu inwentarza.
 
-1. W zakresie numeru identyfikacyjnego oraz informacji, o których mowa w art. 42 ust. 3 pkt 1–6 i 9, z wyłączeniem identyfikatora systemu ewidencji ludności PESEL i adresu zamieszkania osoby fizycznej prowadzącej działalność gospodarczą, o ile nie jest adresem prowadzenia działalności, rejestr podmiotów jest jawny i dostępny dla osób trzecich w formach określonych w ust. 2 i 3 oraz w art. 45a. Dodatkowo udostępniane są dane dotyczące numeru telefonu i faksu siedziby, adresu poczty elektronicznej oraz strony internetowej, o ile podmiot je poda do rejestru.
+2b. Informacje, o których mowa w ust. 2 i 2a, są udostępniane:
 
-2. Główny Urząd Statystyczny wydaje okresowo katalogi wybranych grup podmiotów wpisanych do rejestru podmiotów.
+- **1)** za pośrednictwem usług sieciowych, po uwierzytelnieniu użytkownika systemu teleinformatycznego, lub
+- **2)** za pośrednictwem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513), lub
+- **3)** w postaci papierowej, jeżeli nie jest możliwe ich udostępnienie w postaci elektronicznej – w przypadku wniosków o udostępnienie danych dotyczących pojedynczych podmiotów.
 
-3. Główny Urząd Statystyczny oraz urzędy statystyczne udostępniają na indywidualne odpłatne zamówienia wyciągi danych zawartych w rejestrze podmiotów.
+3. Informacje udostępniane w trybie ust. 2 i 2a nie mogą obejmować danych, o których mowa w art. 42 ust. 3 pkt 7 i 8.
 
-4. Katalogi i wyciągi, o których mowa w ust. 2 i 3, mogą być wydawane drukiem lub w innej formie z wykorzystaniem dostępnych środków techniki.
+**Art. 45.** [1. W zakresie numeru identyfikacyjnego oraz informacji, o których mowa w art. 42 ust. 3 pkt 1–6 i 9, z wyłączeniem identyfikatora systemu ewidencji ludności PESEL i adresu zamieszkania osoby fizycznej prowadzącej działalność gospodarczą, o ile nie jest adresem prowadzenia działalności, rejestr podmiotów jest jawny i dostępny dla osób trzecich w formach określonych w ust. 2 i 3 oraz w art. 45a. Dodatkowo udostępniane są dane dotyczące numeru telefonu i faksu siedziby, adresu poczty elektronicznej oraz strony internetowej, o ile podmiot je poda do rejestru.] <1. W zakresie numeru identyfikacyjnego REGON oraz informacji, o których mowa w art. 42 ust. 3 pkt 1–4, 5 lit. a–i, j tiret pierwsze oraz lit. k i l, a także pkt 6 i 9, z wyłączeniem numeru PESEL <, niepowtarzalnego identyfikatora, o którym mowa w art. 42 ust. 3 pkt 1,> i adresu zamieszkania osoby fizycznej prowadzącej działalność gospodarczą, jeżeli nie został wskazany jako adres wykonywania działalności, rejestr REGON jest jawny i dostępny dla osób trzecich w formach określonych w ust. 2 i 3 oraz w art. 45a. Dodatkowo są udostępniane dane dotyczące: adresu do doręczeń oraz nazwy podmiotu, na którego adres jest kierowana korespondencja, numeru telefonu i faksu, adresu poczty elektronicznej, adresu do doręczeń elektronicznych oraz strony internetowej, w przypadku gdy podmiot nie sprzeciwił się ich udostępnieniu.> <1a. Sprzeciw, o którym mowa w ust. 1 zdanie drugie, jest zgłaszany przez podmiot na wniosku składanym w wybranym urzędzie statystycznym. Przepisy art. 42 ust. 6 i 7 stosuje się odpowiednio. 1b. Sprzeciw, o którym mowa w ust. 1 zdanie drugie, nie ma zastosowania do podmiotów publicznych i nie dotyczy danych ujawnianych w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, Krajowym Rejestrze Sądowym oraz Rejestrze Szkół i Placówek Oświatowych, a także danych kontaktowych przekazywanych z Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, w przypadku gdy podmiot wyraził zgodę na ich udostępnienie. 1c. W przypadku podmiotów, które zgodnie z danymi i informacjami przekazanymi z Centralnej Ewidencji i Informacji o Działalności Gospodarczej nie podjęły działalności gospodarczej po uzyskaniu wpisu do rejestru REGON, informacje o wpisie tej działalności nie są udostępniane. 1d. W przypadku osób fizycznych prowadzących działalność gospodarczą, które zostały skreślone z rejestru REGON, informacje i dane, o których mowa w ust. 1, są udostępniane przez 10 lat od dnia ich skreślenia z rejestru.> 2. Główny Urząd Statystyczny wydaje okresowo katalogi wybranych grup podmiotów wpisanych do rejestru REGON. 3. Główny Urząd Statystyczny oraz urzędy statystyczne udostępniają na indywidualne odpłatne zamówienia wyciągi danych zawartych w rejestrze REGON. 4. Katalogi i wyciągi, o których mowa w ust. 2 i 3, mogą być wydawane drukiem lub w innej formie z wykorzystaniem dostępnych środków techniki. <5. Dane zawarte w rejestrze REGON udostępnia się nieodpłatnie podmiotom wchodzącym w skład systemu szkolnictwa wyższego i nauki lub działającym na rzecz tego systemu, o których mowa w art. 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), do celów prowadzenia przez nie badań naukowych, na pisemny wniosek tych podmiotów. 6. Jeżeli udostępnienie danych zawartych w rejestrze REGON do celów, o których mowa w ust. 5, wymaga poniesienia kosztów, dane te udostępnia się pod warunkiem uiszczenia przez wnioskodawcę opłaty w wysokości odpowiadającej tym kosztom.> [Art. 45a. Główny Urząd Statystyczny udostępnia zawarte w rejestrze podmiotów informacje, o których mowa w art. 45 ust. 1, na stronie internetowej Głównego Urzędu Statystycznego lub za pośrednictwem ePUAP.] <Art. 45a. Główny Urząd Statystyczny udostępnia informacje, o których mowa w art. 45 ust. 1, zawarte w rejestrze REGON, na stronie internetowej Głównego Urzędu Statystycznego oraz za pomocą usług sieciowych.>
 
-**Art. 45a.** Główny Urząd Statystyczny udostępnia zawarte w rejestrze podmiotów informacje, o których mowa w art. 45 ust. 1, na stronie internetowej Głównego Urzędu Statystycznego lub za pośrednictwem ePUAP.
+**Art. 46.**
 
-**Art. 46.** Rada Ministrów określi, w drodze rozporządzenia, sposób i metodologię prowadzenia i aktualizacji rejestru podmiotów, wzory wniosków, ankiet i zaświadczeń, uwzględniając konieczność zapewnienia kompletności oraz aktualizacji danych gromadzonych w tym rejestrze.
+1. Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy sposób prowadzenia i aktualizacji rejestru REGON;
+- **2)** wzory formularzy:
+    - **a)** wniosków o wpis, o zmianę informacji objętych wpisem w rejestrze REGON oraz o skreślenie wpisu z tego rejestru,
+    - **b)** zaświadczeń o nadanym numerze identyfikacyjnym REGON.
+
+2. Rada Ministrów, wydając rozporządzenie, o którym mowa w ust. 1, uwzględnia konieczność zapewnienia:
+
+- **1)** identyfikacji podmiotów rejestru REGON i ich jednostek lokalnych oraz wskazania form prawnych wpisywanych do rejestru REGON;
+- **2)** kompletności oraz aktualizacji informacji gromadzonych w rejestrze REGON;
+- **3)** przejrzystości formularzy wniosków i zaświadczeń oraz łatwości ich wypełniania;
+- **4)** kompletności informacji podlegających wpisaniu do dokumentów, o których mowa w ust. 1 pkt 2, mając na uwadze ograniczenie zakresu tych danych do niezbędnego minimum.
 
 **Art. 47.**
 
-1. Prezes Głównego Urzędu Statystycznego prowadzi krajowy rejestr urzędowy podziału terytorialnego kraju, zwany dalej „rejestrem terytorialnym”.
+1. (uchylony) 1a. Rejestr TERYT służy zapewnieniu możliwości jednolitego kodowania obiektów terytorialnych w rejestrach urzędowych i systemach informacyjnych administracji publicznej.
 
-2. Rejestr terytorialny obejmuje systemy:
+2. Rejestr TERYT obejmuje systemy:
 
 - **1)** identyfikatorów i nazw jednostek podziału terytorialnego;
-- **2)** identyfikatorów i nazw miejscowości;
-- **3)** rejonów statystycznych i obwodów spisowych;
-- **4)** identyfikacji adresowej ulic, nieruchomości, budynków i mieszkań.
+- **2)** identyfikatorów i nazw miejscowości; <2a) identyfikatorów i nazw ulic;>
+- **3)** rejonów statystycznych i obwodów spisowych; [4) identyfikacji adresowej ulic, nieruchomości, budynków i mieszkań.] <4) identyfikacji adresowej budynków i mieszkań.> [2a. Przestrzennej identyfikacji informacji zawartych w systemach, o których mowa w ust. 2, dokonuje się na podstawie danych przestrzennych udostępnianych z rejestrów publicznych, o których mowa w art. 4 ust. 1a pkt 2, 4–6 i 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151).
 
-2a. Przestrzennej identyfikacji informacji zawartych w systemach, o których mowa w ust. 2, dokonuje się na podstawie danych przestrzennych udostępnianych z rejestrów publicznych, o których mowa w art. 4 ust. 1a pkt 2, 4–6 i 8 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151).
+2b. Rejestr terytorialny, o którym mowa w ust. 1, stanowi część składową zintegrowanego systemu informacji o nieruchomościach, o którym mowa w art. 24b ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
 
-2b. Rejestr terytorialny, o którym mowa w ust. 1, stanowi część składową zintegrowanego systemu informacji o nieruchomościach, o którym mowa w art. 24b ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne.
+3. Urzędowe rejestry i systemy informacyjne administracji publicznej są obowiązane do stosowania oznaczeń kodowych przyjętych w rejestrze terytorialnym.] <Art. 47a. 1. System identyfikatorów i nazw jednostek podziału terytorialnego obejmuje identyfikatory i nazwy jednostek określonych w przepisach wydanych na podstawie art. 3 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2025 r. poz. 1684) oraz w przepisach ustawy z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa (Dz. U. poz. 603 i 656, z 1999 r. poz. 1182 oraz z 2001 r. poz. 497) i ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. z 2018 r. poz. 1817).
 
-3. Urzędowe rejestry i systemy informacyjne administracji publicznej są obowiązane do stosowania oznaczeń kodowych przyjętych w rejestrze terytorialnym.
+2. W systemie identyfikatorów i nazw jednostek podziału terytorialnego – w gminach, w których jedna z miejscowości posiada status miasta, a pozostałe miejscowości mają charakter wiejski – identyfikatory są nadawane dla gminy oraz dodatkowo dla miasta i obszaru wiejskiego.
+
+3. Aktualizacji systemu identyfikatorów i nazw jednostek podziału terytorialnego dokonuje się z urzędu na podstawie przepisów ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy oraz przepisów wydawanych na podstawie:
+
+- **1)** art. 4 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436);
+- **2)** art. 3 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym;
+- **3)** art. 5a ustawy z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa.
+
+**Art. 47b.**
+
+1. System identyfikatorów i nazw miejscowości obejmuje urzędowe nazwy, rodzaje oraz identyfikatory miejscowości określone w przepisach wydanych na podstawie art. 7 ust. 1 i art. 9 ust. 1 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. z 2019 r. poz. 1443).
+
+2. Aktualizacji systemu identyfikatorów i nazw miejscowości dokonuje się z urzędu w zakresie urzędowych nazw i rodzajów miejscowości oraz zmian w podziale terytorialnym kraju na podstawie przepisów, o których mowa w ust. 1 oraz w art. 47a ust. 3.
+
+**Art. 47c.**
+
+1. System identyfikatorów i nazw ulic obejmuje nazwy ulic zgodne z brzmieniem uchwał rad gmin o ich nadaniu, z uwzględnieniem standaryzacji nazw ulic, oraz identyfikatory tych nazw.
+
+2. Aktualizacji systemu identyfikatorów i nazw ulic dokonuje się z urzędu na podstawie:
+
+- **1)** przekazanych przez gminy informacji o nadaniu i zmianie nazw ulic;
+- **2)** danych przekazanych przez gminy za pośrednictwem systemu teleinformatycznego do prowadzenia ewidencji miejscowości, ulic i adresów, o której mowa w art. 47a ust. 1 pkt 1 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019 i 1542);
+- **3)** przepisów, o których mowa w art. 47a ust. 3 i art. 47b ust. 1.
+
+**Art. 47d.**
+
+1. System rejonów statystycznych i obwodów spisowych obejmuje jednostki podziału dokonanego dla celów statystycznych, którymi są rejony statystyczne i obwody spisowe.
+
+2. W skład systemu rejonów statystycznych i obwodów spisowych wchodzą:
+
+- **1)** wykaz identyfikatorów tych jednostek zawierający liczbę budynków, liczbę mieszkań oraz numer obrębu ewidencyjnego;
+- **2)** wektorowa warstwa granic rejonów statystycznych i obwodów spisowych.
+
+3. Aktualizacji systemu rejonów statystycznych i obwodów spisowych dokonuje się z urzędu co najmniej raz w roku, z uwzględnieniem zmian wprowadzonych w:
+
+- **1)** podziale terytorialnym kraju;
+- **2)** zabudowie poszczególnych terenów;
+- **3)** podziale kraju na rejony statystyczne i obwody spisowe;
+- **4)** podziale na obręby ewidencyjne, o których mowa w przepisach wydanych na podstawie art. 26 ust. 2 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
+
+**Art. 47e.**
+
+1. System identyfikacji adresowej budynków i mieszkań obejmuje:
+
+- **1)** budynki, w których znajduje się przynajmniej jedno mieszkanie;
+- **2)** mieszkania.
+
+2. Obiekty, o których mowa w ust. 1, są określone przez dane adresowe, w tym za pomocą identyfikatorów i nazw jednostek podziału terytorialnego, identyfikatorów i nazw miejscowości oraz identyfikatorów i nazw ulic, jeżeli w miejscowości występuje podział na ulice, a także za pomocą numerów:
+
+- **1)** rejonu statystycznego;
+- **2)** obwodu spisowego;
+- **3)** obrębu ewidencyjnego;
+- **4)** działki ewidencyjnej – w odniesieniu do budynków oddanych do użytkowania po dniu 23 kwietnia 2012 r.
+
+3. Aktualizacji systemu identyfikacji adresowej budynków i mieszkań dokonuje się z urzędu na podstawie:
+
+- **1)** przekazanych przez gminę informacji o nadaniu i zmianach numeracji porządkowej budynków;
+- **2)** danych zgromadzonych w ewidencjach i w rejestrze, o których mowa w art. 4 ust. 1a pkt 2, 4 i 6 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
+- **3)** sporządzanych przez powiatowych inspektorów nadzoru budowlanego elektronicznych wykazów budynków i mieszkań oddanych do użytkowania w każdym kwartale roku kalendarzowego oraz ich ubytków;
+- **4)** zmian w systemach, o których mowa w art. 47 ust. 2 pkt 1–3, oraz informacji dotyczących obszarów przekazywanych w związku z dokonaną zmianą w podziale terytorialnym kraju, przekazanych przez gminy.
+
+**Art. 47f.**
+
+1. Aktualizacji systemu identyfikatorów i nazw jednostek podziału terytorialnego oraz systemu identyfikatorów i nazw miejscowości dokonuje się w terminie 4 dni roboczych od dnia, od którego przepisy stanowiące podstawę tej aktualizacji mają być stosowane.
+
+2. W ramach aktualizacji systemu rejonów statystycznych i obwodów spisowych oraz systemu identyfikacji adresowej budynków i mieszkań mogą być dodatkowo wprowadzane zmiany wynikające ze spisów powszechnych.
+
+**Art. 47g.** Aktualizacja danych gromadzonych w systemach objętych rejestrem TERYT jest dokonywana z urzędu również na podstawie przeprowadzonej weryfikacji tych danych ze stanem prawnym lub faktycznym, w tym z danymi zawartymi w innych urzędowych ewidencjach i rejestrach.
+
+**Art. 47h.**
+
+1. Przestrzennej identyfikacji informacji zawartych w systemach, o których mowa w art. 47 ust. 2 pkt 1–2a i 4, dokonuje się na podstawie danych przestrzennych udostępnianych z baz danych, o których mowa w art. 4 ust. 1a pkt 2, 4–6 i 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
+
+2. Na potrzeby rejestru TERYT służby statystyki publicznej prowadzą w systemie teleinformatycznym bazę danych przestrzennych obejmującą zbiory danych przestrzennych dotyczące przebiegu granic rejonów statystycznych i obwodów spisowych.
+
+**Art. 47i.**
+
+1. Powiatowi inspektorzy nadzoru budowlanego na potrzeby prowadzenia i aktualizacji rejestru TERYT po zakończeniu każdego kwartału sporządzają i przekazują Prezesowi Głównego Urzędu Statystycznego elektroniczne wykazy, o których mowa w art. 47e ust. 3 pkt 3.
+
+2. Elektroniczne wykazy, o których mowa w art. 47e ust. 3 pkt 3, obejmują:
+
+- **1)** dane adresowe i identyfikacyjne powiatowego inspektoratu nadzoru budowlanego sporządzającego wykaz;
+- **2)** dla budynków i mieszkań oddanych do użytkowania:
+    - **a)** dane adresowe,
+    - **b)** dane obejmujące numer obrębu ewidencyjnego i numer działki ewidencyjnej,
+    - **c)** ich charakterystykę,
+    - **d)** informacje dotyczące oddania budynku do użytkowania,
+    - **e)** informacje o rodzaju własności budynku, z wyłączeniem danych osobowych,
+    - **f)** dane identyfikacyjne inwestora, z wyłączeniem osób fizycznych;
+
+- **3)** dla ubytków budynków i mieszkań:
+    - **a)** dane adresowe,
+    - **b)** dane obejmujące numer obrębu ewidencyjnego i numer działki ewidencyjnej,
+    - **c)** informacje o zakresie ubytku.
+
+**Art. 47j.** Minister właściwy do spraw informatyzacji, na wniosek Prezesa Głównego Urzędu Statystycznego, na potrzeby aktualizacji rejestru TERYT przekazuje w podziale na jednostki podziału terytorialnego informacje dotyczące adresów zameldowania na pobyt stały i czasowy osób fizycznych zawarte w rejestrze PESEL, z wyłączeniem danych osobowych.
+
+**Art. 47k.** Wójt (burmistrz, prezydent miasta) przekazuje Prezesowi Głównego Urzędu Statystycznego na potrzeby prowadzenia i aktualizacji rejestru TERYT:
+
+**Art. 47l.** Organy jednostek samorządu terytorialnego, z wyłączeniem organów samorządu województwa, oraz powiatowi inspektorzy nadzoru budowlanego współdziałają z jednostkami służb statystyki publicznej przy wyjaśnianiu wątpliwości co do poprawności informacji gromadzonych w rejestrze TERYT w zakresie systemów, o których mowa w art. 47 ust. 2 pkt 2a–4, w przypadku gdy zwrócą się o to jednostki służb statystyki publicznej.>
 
 **Art. 48.**
 
-1. Rejestr terytorialny jest jawny.
+1. Rejestr TERYT jest jawny. [2. Art. 44 ust. 2 stosuje się odpowiednio.] <3. Dane z systemów, o których mowa w art. 47 ust. 2, są powszechnie i nieodpłatnie dostępne na stronie internetowej Głównego Urzędu Statystycznego oraz za pośrednictwem usług sieciowych.> <Art. 48a. 1. Organy prowadzące rejestry urzędowe i systemy informacyjne administracji publicznej oraz sądy prowadzące rejestry sądowe, jeżeli te rejestry i systemy są prowadzone w systemie teleinformatycznym, są obowiązane do stosowania przyjętych w rejestrze TERYT identyfikatorów jako standardu identyfikacji terytorialnej, o ile przepis szczególny nie stanowi inaczej.
 
-2. Art. 44 ust. 2 stosuje się odpowiednio.
+2. Po każdorazowej aktualizacji systemów, o których mowa w art. 47 ust. 1 pkt 1–2a, organy i sądy, o których mowa w ust. 1, są obowiązane do niezwłocznego dokonania zmian wynikających z tej aktualizacji w prowadzonych przez siebie rejestrach i systemach informacyjnych administracji publicznej – w przypadku gdy zmiany mają charakter jednoznaczny, o ile przepis szczególny nie stanowi inaczej.
 
-**Art. 49.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady prowadzenia, stosowania i udostępniania rejestru terytorialnego oraz związane z tym obowiązki organów administracji rządowej i jednostek samorządu terytorialnego.
+3. Identyfikatory zawarte w rejestrze TERYT są stosowane w rejestrach urzędowych i systemach informacyjnych administracji publicznej, w tym w rejestrach sądowych:
+
+- **1)** zawierających dane adresowe – w pełnym zakresie obejmującym identyfikatory gmin i miejscowości, a jeżeli w miejscowości występuje podział na ulice – obejmującym również identyfikatory nazw ulic;
+- **2)** niezawierających danych adresowych – w zakresie uwzględniającym potrzeby danego rejestru lub systemu.>
+
+**Art. 49.** Rada Ministrów określi, w drodze rozporządzenia:
 
 **Art. 49a.** W zakresie nieuregulowanym w niniejszej ustawie do ponownego wykorzystywania danych z krajowych rejestrów urzędowych stosuje się przepisy ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524).
 
@@ -835,7 +1042,7 @@ o statystyce publicznej
 
 2. Uchwalenie przez Radę Ministrów programu badań statystycznych statystyki publicznej poprzedza, a najpóźniej następuje równolegle z uchwaleniem projektu ustawy budżetowej.
 
-3. Środki budżetu państwa na finansowanie określonych w ustawie zadań statystyki publicznej, w tym badań statystycznych prowadzonych przez Prezesa Głównego Urzędu Statystycznego, są ujmowane odpowiednio w części budżetowej dotyczącej Głównego Urzędu Statystycznego, a koszty poszczególnych badań statystycznych prowadzonych przez inny organ administracji publicznej w części budżetowej dotyczącej tego organu.
+3. Środki budżetu państwa na finansowanie określonych w ustawie zadań statystyki publicznej, w tym badań statystycznych prowadzonych przez Prezesa Głównego Urzędu Statystycznego, są ujmowane odpowiednio w części budżetowej dotyczącej Głównego Urzędu Statystycznego, a koszty poszczególnych badań statystycznych prowadzonych przez inny organ administracji publicznej – w części budżetowej dotyczącej tego organu.
 
 4. Badania statystyczne statystyki publicznej prowadzone przez Narodowy Bank Polski są finansowane ze środków Narodowego Banku Polskiego.
 
@@ -861,7 +1068,7 @@ o statystyce publicznej
 
 **Art. 53.**
 
-1. Przekazywanie danych w formie i trybie określonych w programie badań statystycznych statystyki publicznej, a w przypadku spisów powszechnych w odrębnej ustawie, odbywa się odpowiednio na koszt podmiotu obserwacji statystycznej lub gestora systemu informacyjnego administracji publicznej albo prowadzącego rejestr urzędowy albo niepubliczny system informacyjny.
+1. Przekazywanie danych w formie i trybie określonych w programie badań statystycznych statystyki publicznej, a w przypadku spisów powszechnych – w odrębnej ustawie, odbywa się odpowiednio na koszt podmiotu obserwacji statystycznej lub gestora systemu informacyjnego administracji publicznej albo prowadzącego rejestr urzędowy albo niepubliczny system informacyjny.
 
 2. W programie badań statystycznych statystyki publicznej może być, w szczególnych przypadkach, przewidziana odpłatność za wykonywanie stałych, dodatkowych czynności przygotowywania i przekazywania określonych danych statystycznych.
 
@@ -901,7 +1108,7 @@ o statystyce publicznej
 
 3. Osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne prowadzące działalność gospodarczą, nieposiadające w dniu wejścia w życie ustawy numeru identyfikacyjnego REGON, są obowiązane do złożenia w urzędach statystycznych właściwych dla ich siedziby, nie później niż w ciągu 2 miesięcy od dnia wejścia w życie ustawy, wniosku o nadanie tego numeru im i ich jednostkom wyodrębnionym. Urzędy statystyczne wprowadzą zgłaszające się podmioty do rejestru REGON i wydadzą, w ciągu miesiąca od dnia złożenia wniosku, zaświadczenie o nadanym numerze identyfikacyjnym.
 
-4. Osoby prawne, jednostki organizacyjne niemające osobowości prawnej i osoby fizyczne prowadzące działalność gospodarczą mają obowiązek zgłaszania do rejestru REGON bezpośrednio w urzędzie statystycznym województwa, na którego terenie mają siedzibę, odpowiednio: wniosku o nadanie numeru identyfikacyjnego w ciągu 14 dni od dnia powstania podmiotu, wniosku o zmianę cech objętych rejestrem w ciągu 14 dni od zaistnienia zmiany oraz wniosku o skreślenie z rejestru z dniem zaprzestania działalności.
+4. Osoby prawne, jednostki organizacyjne niemające osobowości prawnej i osoby fizyczne prowadzące działalność gospodarczą mają obowiązek zgłaszania do rejestru REGON bezpośrednio w urzędzie statystycznym województwa, na którego terenie mają siedzibę, odpowiednio: wniosku o nadanie numeru identyfikacyjnego – w ciągu 14 dni od dnia powstania podmiotu, wniosku o zmianę cech objętych rejestrem – w ciągu 14 dni od zaistnienia zmiany oraz wniosku o skreślenie z rejestru – z dniem zaprzestania działalności.
 
 5. Prezes Głównego Urzędu Statystycznego wprowadzi, z urzędu, do rejestru REGON indywidualne gospodarstwa rolne sukcesywnie, nie później niż do dnia 31 grudnia 1997 r.
 
@@ -913,7 +1120,7 @@ o statystyce publicznej
 
 **Art. 64.** (uchylony)
 
-**Art. 65.** Prezes Głównego Urzędu Statystycznego zaktualizuje prowadzony rejestr terytorialny w zakresie informacji, o których mowa w art. 47 ust. 2 pkt 1–3 w terminie do dnia 31 grudnia 1997 r. oraz uzupełni go o identyfikację adresową ulic, nieruchomości, budynków i mieszkań w ramach prac przygotowawczych do najbliższego Narodowego Spisu Powszechnego, nie później niż do dnia 30 czerwca 1998 r.
+**Art. 65.** Prezes Głównego Urzędu Statystycznego zaktualizuje prowadzony rejestr terytorialny w zakresie informacji, o których mowa w art. 47 ust. 2 pkt 1–3 – w terminie do dnia 31 grudnia 1997 r. oraz uzupełni go o identyfikację adresową ulic, nieruchomości, budynków i mieszkań – w ramach prac przygotowawczych do najbliższego Narodowego Spisu Powszechnego, nie później niż do dnia 30 czerwca 1998 r.
 
 **Art. 66.**
 

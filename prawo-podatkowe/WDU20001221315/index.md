@@ -8,6 +8,7 @@ pos: 1315
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # o zmianie ustawy o postępowaniu egzekucyjnym w administracji, ustawy o podatkach i opłatach lokalnych, ustawy o dopłatach do oprocentowania niektórych kredytów bankowych, ustawy – Prawo o publicznym obrocie papierami wartościowymi, ustawy – Ordynacja podatkowa, ustawy o finansach publicznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych - w związku z dostosowaniem do prawa Unii Europejskiej

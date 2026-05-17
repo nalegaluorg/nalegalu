@@ -8,9 +8,12 @@ pos: 1477
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lipca 2022 r.
+# o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych w związku z sytuacją na rynku tych paliw
+
+*USTAWA z dnia 23 czerwca 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,133 +27,55 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001477) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1477/text.pdf) |
 
-USTAWA z dnia 23 czerwca 2022 r.
-o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku z sytuacją na rynku tych paliw
-1. 1. Ustawa reguluje zasady i tryb sprzedaży niektórych paliw stałych dla gospodarstw domowych oraz przyznawania i wypłat rekompensat przedsiębiorcom wykonującym działalność gospodarczą zakresie wprowadzania do obrotu tych paliw.
-2. Przepisy ustawy stosuje się do następujących paliw stałych: węgiel kamienny, brykiet lub pelet zawierające co najmniej 85% węgla kamiennego, zwanych dalej „paliwami stałymi”, wydobytych, wyprodukowanych Rzeczypospolitej Polskiej lub do niej sprowadzonych okresie od dnia 16 kwietnia 2022 r. do dnia 31 grudnia 2022 r. sprzedawanych gospodarstwom domowym od dnia wejścia życie ustawy.
-2. 1. Przedsiębiorcy wykonującemu działalność gospodarczą zakresie wprowadzania do obrotu paliw, wpisanemu do Centralnego Rejestru Podmiotów Akcyzowych rozumieniu art. 2 ust. 1 pkt 5a ustawy z dnia 6 grudnia 2008 r.
-o podatku akcyzowym (Dz. U. z 2022 r. poz. 143 i 1137), który sprzedawał paliwa stałe dla gospodarstw domowych prowadzonych na terytorium Rzeczypospolitej Polskiej, po cenie nie wyższej niż 996,60 zł brutto za tonę, celu wykorzystania na potrzeby własne tych gospodarstw domowych, przysługuje rekompensata, zwana dalej „rekompensatą”. Sprzedaż paliwa stałego po cenie wyższej niż 996,60 zł brutto nie uprawnia do otrzymania rekompensaty.
-2. Przez gospodarstwo domowe, o którym mowa ust. 1, rozumie się gospodarstwo, którego głównym źródłem ogrzewania są następujące źródła ciepła: kocioł na paliwo stałe, kominek, koza, ogrzewacz powietrza, trzon kuchenny, piecokuchnia, kuchnia węglowa lub piec kaflowy na paliwo stałe, zasilane paliwem stałym, zgłoszone do centralnej ewidencji emisyjności budynków, o której mowa art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2022 r. poz. 438), zwanej dalej „centralną ewidencją emisyjności budynków”.
-3. W przypadku gospodarstw domowych, o których mowa ust. 1, budynkach wielolokalowych, których wspólnym źródłem ogrzewania jest źródło ciepła, o którym mowa ust. 2, uprawnienie do zakupu paliwa stałego ilości, o której mowa ust. 4, i po cenie, o której mowa ust. 1, przysługuje wspólnocie mieszkaniowej albo spółdzielni mieszkaniowej.
-4. Rekompensata wynosi nie więcej niż 1073,13 zł brutto za tonę przy sprzedaży nie więcej niż 3 ton paliwa stałego, sprzedanego dla jednego gospodarstwa domowego.
-5. Rekompensatę oblicza się jako iloczyn stawki określonej ust. 4 oraz ilości paliwa stałego wyrażonej tonach, sprzedanej dla gospodarstw domowych na potrzeby własne tych gospodarstw okresie od dnia wejścia życie ustawy do dnia 31 grudnia 2022 r.
-3. 1. Przedsiębiorca, o którym mowa art. 2 ust. 1, który zamierza korzystać z rekompensaty, informuje o tym Zarządcę Rozliczeń S.A., o którym mowa rozdziale 7 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311), zwanego dalej „zarządcą rozliczeń”, podając następujące dane: oznaczenie przedsiębiorcy, jego siedziby, siedziby oddziału na terytorium Rzeczypospolitej Polskiej, NIP, adres poczty elektronicznej oraz numer telefonu. Informowanie zarządcy rozliczeń o zamiarze korzystania z rekompensaty odbywa się formie elektronicznej.
-z rekompensaty, zawierającą dane, o których mowa ust. 1, i przekazuje ją ministrowi właściwemu do spraw energii każdorazowo po aktualizacji.
-3. Minister właściwy do spraw energii publikuje Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu listę, o której mowa ust. 2.
-4. 1. Przedsiębiorca, o którym mowa art. 2 ust. 1, jest obowiązany wystawić fakturę za sprzedaż paliwa stałego po cenie, o której mowa art. 2 ust. 1, zgodnie z art. 106e ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137 i 1301).
-2. Przedsiębiorca, o którym mowa art. 2 ust. 1, jest obowiązany do dołączenia do faktury, o której mowa ust. 1, informacji o możliwości skorzystania z programu priorytetowego „Czyste powietrze”.
-3. Minister właściwy do spraw energii publikuje Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzór informacji, o której mowa ust. 2.
-5. 1. Członek gospodarstwa domowego dokonujący zakupu paliwa stałego celu wykorzystania na potrzeby własne tego gospodarstwa domowego przekazuje przy jego zakupie przedsiębiorcy, o którym mowa art. 2 ust. 1:
-1) oświadczenie postaci papierowej opatrzone podpisem własnoręcznym lub postaci elektronicznej, opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, o ilości tego paliwa, które nabył od dnia wejścia życie ustawy, celu wykorzystania na potrzeby własne tego gospodarstwa domowego;
-2) odpowiednio następujący dokument:
-a) deklarację o źródłach ciepła lub źródłach spalania paliw składaną na potrzeby centralnej ewidencji emisyjności budynków, jeżeli ta deklaracja została złożona postaci elektronicznej, wraz z jej unikalnym identyfikatorem albo
-b) kopię deklaracji o źródłach ciepła lub źródłach spalania paliw składanej na potrzeby centralnej ewidencji emisyjności budynków, jeżeli ta deklaracja została złożona postaci papierowej, wraz z uzyskanym na niej potwierdzeniem wpływu lub odwzorowanie cyfrowe tej kopii, albo
-c) inny dokument wydany przez właściwy urząd albo właściciela lub zarządcę nieruchomości, z którego wynika, że pod adresem budynku, którym znajduje się gospodarstwo domowe, jest zlokalizowane źródło spalania paliw: zaświadczenie lub kopię deklaracji o źródłach ciepła lub źródłach spalania paliw składanej na potrzeby centralnej ewidencji emisyjności budynków lub odwzorowanie cyfrowe tych dokumentów odniesieniu do źródła spalania paliwa stałego.
-2. W przypadku, o którym mowa art. 2 ust. 3, przy zakupie paliwa stałego osoba działająca imieniu i na rzecz wspólnoty mieszkaniowej albo spółdzielni mieszkaniowej przekazuje przy jego zakupie przedsiębiorcy, o którym mowa art. 2 ust. 1:
-1) adresy gospodarstw domowych, imieniu których dokonuje zakupu;
-2) odpowiednio dokumenty, o których mowa ust. 1 pkt 2;
-3) oświadczenie postaci papierowej opatrzone podpisem własnoręcznym lub postaci elektronicznej, opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, o ilości tego paliwa, które nabyła wspólnota mieszkaniowa albo spółdzielnia mieszkaniowa od dnia wejścia życie ustawy, celu wykorzystania na potrzeby własne gospodarstw domowych wchodzących skład tej wspólnoty mieszkaniowej albo spółdzielni mieszkaniowej.
-3. Wzór oświadczenia, o którym mowa w:
-1) ust. 1 pkt 1, określa załącznik nr 1 do ustawy;
-2) ust. 2 pkt 3, określa załącznik nr 2 do ustawy.
-4. Oświadczenia, o których mowa ust. 1 pkt 1 oraz ust. 2 pkt 3, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-o których mowa art. 5 ust. 1 i 2, oraz faktur za sprzedaż paliw stałych po cenie, o której mowa art. 2 ust. 1, przez okres 10 lat.
-2. Przedsiębiorca, o którym mowa art. 2 ust. 1, jest obowiązany do wprowadzania transakcji sprzedaży i przekazywania dokumentów, o których mowa art. 5 ust. 1 i 2, oraz faktur za sprzedaż paliw stałych po cenie, o której mowa art. 2 ust. 1, portalu elektronicznym na stronie administrowanej i udostępnionej tym celu przez zarządcę rozliczeń, najpóźniej kolejnym dniu roboczym po dniu dokonania transakcji sprzedaży, po wcześniejszej rejestracji tym portalu.
-3. Zarządca rozliczeń na swojej stronie internetowej udostępni instrukcję rejestracji przedsiębiorcy, o którym mowa art. 2 ust. 1, instrukcję wprowadzania transakcji sprzedaży i przekazywania dokumentów, o których mowa art. 5 ust. 1 i 2, oraz instrukcję składania wniosku o wypłatę rekompensaty.
-7. 1. Podmiotem odpowiedzialnym za wypłatę rekompensat jest zarządca rozliczeń.
-2. Rekompensata jest wypłacana przedsiębiorcy, o którym mowa art. 2 ust. 1, na wniosek o wypłatę rekompensaty.
-Składanie, weryfikacja i rozpatrywanie wniosków o wypłatę rekompensaty, a także korespondencja z zarządcą rozliczeń odbywa się wyłącznie formie elektronicznej. Wnioski o wypłatę rekompensaty składa się do zarządcy rozliczeń przy użyciu formularza udostępnionego na stronie internetowej administrowanej przez zarządcę rozliczeń i opatruje się kwalifikowanym podpisem elektronicznym lub podpisem zaufanym osób uprawnionych do reprezentacji przedsiębiorcy, o którym mowa art. 2 ust. 1.
-3. Wniosek o wypłatę rekompensaty przedsiębiorca, o którym mowa art. 2 ust. 1, składa:
-1) jednorazowo terminie od dnia 15 października 2022 r. do dnia 31 października 2022 r. za transakcje sprzedaży dokonane okresie od dnia wejścia życie ustawy do dnia 30 września 2022 r.,
-2) jednorazowo terminie od dnia 1 stycznia 2023 r. do dnia 20 stycznia 2023 r. za transakcje sprzedaży dokonane okresie od dnia 1 października 2022 r. do dnia 31 grudnia 2022 r.
-pod rygorem utraty prawa do rekompensaty.
-4. Wniosek o wypłatę rekompensaty złożony poza terminami, o których mowa ust. 3, pozostawia się bez rozpoznania.
-5. Wniosek o wypłatę rekompensaty zawiera szczególności:
-1) oznaczenie wnioskodawcy, jego siedziby, siedziby oddziału lub miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej, NIP oraz adres poczty elektronicznej;
-2) wskazanie ilości sprzedanego paliwa stałego okresie odpowiednio od dnia wejścia życie ustawy do dnia 30 września 2022 r. lub od dnia 1 października 2022 r. do dnia 31 grudnia 2022 r. i po cenie, o której mowa art. 2 ust. 1;
-3) wnioskowaną wysokość rekompensaty;
-4) numer rachunku bankowego, na który ma zostać dokonana wypłata rekompensaty;
-5) imiona i nazwiska pełnomocników ustanowionych do dokonywania czynności prawnych imieniu przedsiębiorcy i ich adresy poczty elektronicznej;
-6) oświadczenie o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że dane zawarte we wniosku o wypłatę rekompensaty są zgodne z prawdą.”; klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-6. Do wniosku o wypłatę rekompensaty przedsiębiorca, o którym mowa art. 2 ust. 1, załącza wykaz gospodarstw domowych, na potrzeby których dokonano zakupu paliwa stałego, obejmujący następujące dane:
-1) imię i nazwisko osoby dokonującej zakupu paliwa stałego na potrzeby gospodarstwa domowego;
-2) adres gospodarstwa domowego wskazany oświadczeniu, o którym mowa art. 5 ust. 1 pkt 1, lub adresy, o których mowa art. 5 ust. 2 pkt 1;
-3) numer faktury, datę sprzedaży, ilość paliwa stałego sprzedanego po cenie, o której mowa art. 2 ust. 1, cenę sprzedaży brutto złotych.
-7. We wniosku o wypłatę rekompensaty przedsiębiorca, o którym mowa art. 2 ust. 1, uwzględnia wyłącznie transakcje sprzedaży, o których mowa art. 6 ust. 2.
-dane z listy przedsiębiorców, o których mowa art. 2 ust. 1, terminie 7 dni od dnia złożenia tego wniosku.
-9. 1. Zarządca rozliczeń weryfikuje wniosek o wypłatę rekompensaty pod względem wnioskowanej wysokości rekompensaty i kompletności wymaganych dokumentów na podstawie podanych tym wniosku danych oraz załączonych do tego wniosku dokumentów.
-2. W przypadku pozytywnej weryfikacji kompletnego wniosku o wypłatę rekompensaty zarządca rozliczeń zatwierdza ten wniosek i dokonuje wypłaty rekompensaty odpowiednio terminach do dnia 31 grudnia 2022 r. przypadku wniosku, o którym mowa art. 7 ust. 3 pkt 1, oraz do dnia 31 marca 2023 r. przypadku wniosku, o którym mowa art. 7 ust. 3 pkt 2. Zatwierdzenie wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
-3. W przypadku gdy wniosek o wypłatę rekompensaty zawiera braki formalne, błędy obliczeniowe lub budzi wątpliwość zarządcy rozliczeń, zarządca rozliczeń terminie 14 dni od dnia otrzymania tego wniosku wzywa wnioskodawcę do usunięcia braków formalnych, błędów obliczeniowych lub złożenia wyjaśnień terminie 7 dni od dnia otrzymania wezwania do ich usunięcia.
-4. W przypadku nieusunięcia braków formalnych, błędów obliczeniowych zawartych we wniosku o wypłatę rekompensaty lub wątpliwości zarządcy rozliczeń dotyczących tego wniosku, terminie 7 dni od dnia otrzymania wezwania do ich usunięcia zarządca rozliczeń odmawia zatwierdzenia tego wniosku zakresie, jakim kwota rekompensaty budzi wątpliwości zarządcy rozliczeń lub jakim nie uzupełniono żądanych braków formalnych, błędów obliczeniowych, informując wnioskodawcę o przyczynie tej odmowy. Odmowa zatwierdzenia wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
-5. W przypadku negatywnej weryfikacji wniosku o wypłatę rekompensaty zarządca rozliczeń odmawia zatwierdzenia tego wniosku zakresie, jakim kwota rekompensaty nie przysługuje, informując wnioskodawcę o przyczynie tej odmowy.
-Odmowa zatwierdzenia wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
-6. Nieusunięcie braków formalnych, błędów obliczeniowych lub wątpliwości zarządcy rozliczeń, na wezwanie zarządcy rozliczeń odpowiednio terminie do dnia 30 listopada 2022 r. przypadku wniosku, o którym mowa art. 7 ust. 3 pkt 1, oraz do dnia 28 lutego 2023 r. przypadku wniosku, o którym mowa art. 7 ust. 3 pkt 2, pozbawia przedsiębiorcę, o którym mowa art. 2 ust. 1, prawa do otrzymania rekompensaty zakresie budzącym wątpliwości.
-10. 1. Zarządca rozliczeń może żądać od przedsiębiorcy, o którym mowa art. 2 ust. 1, przedłożenia dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty terminie 24 miesięcy od dnia wypłaty kwoty rekompensaty.
-2. Jeżeli przedsiębiorca, o którym mowa art. 2 ust. 1, nie przedłożył dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty lub z dokumentów i informacji tych wynika, że część wysokości kwoty rekompensaty została wypłacona nienależnie, zarządca rozliczeń wzywa tego przedsiębiorcę do jej zwrotu terminie 14 dni od dnia otrzymania wezwania.
-3. W przypadku gdy przedsiębiorca, o którym mowa art. 2 ust. 1, nie dokona zwrotu rekompensaty zgodnie z ust. 2, zarządca rozliczeń wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
-4. W sprawach decyzji wydawanych przez zarządcę rozliczeń organem wyższego stopnia rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301) stosunku do zarządcy rozliczeń jest minister właściwy do spraw energii, jako dysponent Funduszu Wypłaty Różnicy Ceny, zgodnie z art. 10a ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm. ).
-11. 1. Kwota rekompensaty nie stanowi dotacji, subwencji i innych dopłat o podobnym charakterze, o których mowa art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
-2. Do Funduszu Wypłaty Różnicy Ceny, o którym mowa art. 11 ust. 1 ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, zwanego dalej „Funduszem Wypłaty Różnicy Ceny”, przekazuje się 2022 r. dodatkowe środki z Funduszu Przeciwdziałania COVID-19, o którym mowa art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ), łącznej wysokości 3 000 000 000 zł.
-3. Rekompensaty są wypłacane z Funduszu Wypłaty Różnicy Ceny.
-czący możliwości zakupu paliwa stałego oraz uzyskania rekompensaty.
-2. Funkcjonowanie portalu informacyjnego, o którym mowa ust. 1, zapewnia instytucja gospodarki budżetowej pod nazwą „Centralny Ośrodek Informatyki”.
-3. Zadanie, o którym mowa ust. 2, jest finansowane z Funduszu Wypłaty Różnicy Ceny.
-13. W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm. ) wprowadza się następujące zmiany:
-1) art. 12 po pkt 2 dodaje się pkt 2a brzmieniu: „2a) środki przekazane na podstawie art. 11 ust. 2 ustawy z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku z sytuacją na rynku tych paliw (Dz. U. poz. 1477) na rzecz wypłaty rekompensat, o których mowa art. 2 ust. 1 tej ustawy;”;
-2) art. 13 pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) wypłatę rekompensat, o których mowa art. 2 ust. 1 ustawy z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku z sytuacją na rynku tych paliw, oraz finansowanie zadania, o którym mowa art. 12 ust. 2 tej ustawy.”;
-3) art. 15 pkt 1 wyrazy „pkt 1–2b” zastępuje się wyrazami „pkt 1–2c”;
-4) art. 16 ust. 1:
-a) po pkt 1a dodaje się pkt 1b brzmieniu: „1b) weryfikacja wniosków, o których mowa art. 7 ust. 2 ustawy z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku z sytuacją na rynku tych paliw;”,
-b) po pkt 2b dodaje się pkt 2c brzmieniu: „2c) dokonywanie wypłat rekompensat, o których mowa art. 2 ust. 1 ustawy z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku z sytuacją na rynku tych paliw;”.
-14. W ustawie z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych (Dz. U.
-z 2022 r. poz. 1312) wprowadza się następujące zmiany:
-1) art. 7a ust. 1 wyraz „informacje” zastępuje się wyrazem „informację”;
-2) art. 7b:
-a) ust. 1 otrzymuje brzmienie: „1. Wysokość zwiększenia, o którym mowa art. 7a ust. 1, stanowi różnicę pomiędzy jedną trzecią wartości rekompensat obliczonych dla danego podmiotu zgodnie z art. 7 ust. 1–3 a wartością odpowiadającą 1,5% wartości dodanej brutto tego podmiotu roku kalendarzowym, za który są przyznawane rekompensaty.”,
-b) uchyla się ust. 2 i 3;
-3) art. 10:
-a) ust. 6a: uchyla się pkt 2, pkt 4 otrzymuje brzmienie: „4) dokumenty lub ich kopie stanowiące podstawę do określenia wartości dodanej brutto roku kalendarzowym, za który są przyznawane rekompensaty, o której mowa art. 7b ust. 1.”,
-b) ust. 9a wyraz „informacje” zastępuje się wyrazem „informacja”;
-4) art. 12a:
-a) ust. 2: pkt 1 otrzymuje brzmienie: „1) zrealizował przedsięwzięcia służące poprawie efektywności energetycznej rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej wskazane ostatnim na dzień złożenia wniosku audycie energetycznym przedsiębiorstwa, o którym mowa rozdziale 5 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, dla których okres zwrotu nakładów nie przekracza 3 lat, albo”, „3) poniósł nakłady finansowe, wysokości nie mniejszej niż 50% wartości rekompensat uzyskanych za dany rok kalendarzowy, na przedsięwzięcia mające na celu ograniczenie emisji gazów cieplarnianych rozumieniu art. 3 pkt 4 i 5 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych z instalacji rozumieniu art. 3 pkt 7 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, wobec której podmiot ten jest prowadzącym instalację rozumieniu art. 3 pkt 16 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, poniżej mającego zastosowanie wskaźnika emisyjności, o którym mowa rozporządzeniu Komisji (UE) 2021/447, oraz poniżej przypisanej do tego wskaźnika średniej wartości 10% najbardziej wydajnych instalacji 2016 i 2017 r. wskazanej załączniku do rozporządzenia wykonawczego (UE) 2021/447.”,
-b) uchyla się ust. 3,
-c) ust. 4 otrzymuje brzmienie: „4. W przypadku gdy z audytu energetycznego przedsiębiorstwa, o którym mowa rozdziale 5 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, wynika, że nie ma przedsięwzięć, dla których okres zwrotu nakładów nie przekracza 3 lat, uznaje się, że obowiązek, o którym mowa ust. 1, został zrealizowany.”;
-5) art. 12b:
-a) ust. 1 otrzymuje brzmienie: „1. Wykonanie obowiązku, o którym mowa art. 12a ust. 1, sposób, o którym mowa art. 12a ust. 2 pkt 1, rozlicza się terminie 4 lat od dnia wykonania audytu energetycznego przedsiębiorstwa, z którego przedsięwzięcia te wynikają.”,
-b) po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Wykonanie obowiązku, o którym mowa art. 12a ust. 1, sposób, o którym mowa art. 12a ust. 2 pkt 2 i 3, rozlicza się terminie do dnia 31 grudnia roku, którym podmiot, o którym mowa art. 12a ust. 1, uzyskał rekompensaty.”,
-c) uchyla się ust. 2,
-d) ust. 3: wprowadzenie do wyliczenia otrzymuje brzmienie: „Podmiot, o którym mowa art. 12a ust. 1, terminie do dnia 31 grudnia przedkłada Prezesowi URE:”, pkt 2 otrzymuje brzmienie: „2) oświadczenie o treści:
-a) „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. − Kodeks karny (Dz. U. z 2022 r. poz. 1138) oświadczam, że informacje zawarte złożonym sprawozdaniu, o którym mowa art. 12b ust. 3 pkt 1 ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych, są zgodne z prawdą.”;
-klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń, oraz
-b) „Oświadczam, że zobowiązuję się do zrealizowania przedsięwzięć służących poprawie efektywności energetycznej rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej wskazanych ostatnim na dzień złożenia wniosku o przyznanie rekompensat audycie energetycznym przedsiębiorstwa, o którym mowa rozdziale 5 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, dla których okres zwrotu nakładów nie przekracza 3 lat nie później niż ciągu 4 lat od dnia wykonania audytu energetycznego przedsiębiorstwa, z którego przedsięwzięcia te wynikają” przypadku wykonywania obowiązku, o którym mowa art. 12a ust. 1, sposób, o którym mowa art. 12a ust. 2 pkt 1, odniesieniu do przedsięwzięć służących poprawie efektywności energetycznej rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, które na dzień złożenia sprawozdania, o którym mowa pkt 1, nie zostały zrealizowane.”,
-e) uchyla się ust. 4.
-gazowych związku z sytuacją na rynku gazu (Dz. U. poz. 202) art. 15 ust. 4 pkt 1 otrzymuje brzmienie: „1) pierwszym półroczu 40% i drugim półroczu 70% środków uzyskanych ze sprzedaży drodze aukcji uprawnień do emisji, o których mowa art. 49 ust. 1 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2022 r. poz. 1092), ale nie więcej niż 9 424 000 000 zł,”.
-16. Zarządca rozliczeń ma dostęp do danych i informacji zgromadzonych centralnej ewidencji emisyjności budynków, o ile są one niezbędne do wykonywania zadań zarządcy rozliczeń, okresie 24 miesięcy od dnia wypłaty rekompensaty.
-17. 1. Zarządca rozliczeń udostępni portal elektroniczny do wprowadzania transakcji sprzedaży i przekazywania dokumentów, o których mowa art. 5 ust. 1 i 2, oraz faktur za sprzedaż paliwa stałego po cenie, o której mowa art. 2 ust. 1, przez przedsiębiorcę, o którym mowa art. 2 ust. 1, na stronie internetowej administrowanej przez zarządcę rozliczeń terminie do dnia 1 września 2022 r.
-2. W przypadku transakcji sprzedaży dokonanej od dnia wejścia życie ustawy do dnia 31 sierpnia 2022 r. przedsiębiorca, o którym mowa art. 2 ust. 1, jest obowiązany do wprowadzenia transakcji sprzedaży i przekazania dokumentów, o których mowa art. 5 ust. 1 i 2, oraz faktur za sprzedaż paliwa stałego po cenie, o której mowa art. 2 ust. 1, portalu elektronicznym na stronie internetowej administrowanej przez zarządcę rozliczeń, terminie do dnia 30 września 2022 r.
-18. Dysponent Funduszu Wypłaty Różnicy Ceny terminie 30 dni od dnia wejścia życie ustawy dokona zmiany planu finansowego tego Funduszu. Zmiana ta nie wymaga opinii sejmowej komisji do spraw budżetu.
-19. 1. Maksymalny łączny limit wydatków z Funduszu Wypłaty Różnicy Ceny będący skutkiem finansowym wejścia życie niniejszej ustawy latach 2022–2031 nie może przekroczyć 3 000 000 000 zł, z tym że w:
-1) 2022 r. 1 500 000 000 zł;
-2) 2023 r. 1 500 000 000 zł;
-3) 2024–2031 r. 0 zł.
-2. W przypadku gdy łączna wysokość rekompensat ustalona na podstawie pozytywnie rozpatrzonych wniosków o wypłatę rekompensaty przekroczy wysokość limitu wydatków określonego ust. 1 lub wysokość posiadanych środków, o których mowa art. 11 ust. 2, wysokość wypłacanych rekompensat dla poszczególnych wnioskodawców podlega proporcjonalnemu obniżeniu tak, aby łączna wysokość wypłacanych rekompensat była równa maksymalnemu limitowi środków finansowych przeznaczanych na przyznanie rekompensat danym roku. W przypadku proporcjonalnego obniżenia rekompensat wysokości obliczonych proporcji rekompensat wyrażonych procentach ustala się z dokładnością do czwartego miejsca po przecinku, a kwoty rekompensat zaokrągla się do pełnych złotych.
-3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa ust. 1, jest zarządca rozliczeń.
-4. Zarządca rozliczeń jest odpowiedzialny za wdrożenie mechanizmu korygującego, o którym mowa ust. 2.
-20. Za rok 2021 wykonanie obowiązku, o którym mowa art. 12a ust. 1 ustawy zmienianej art. 14, sposób, o którym mowa art. 12a ust. 5 pkt 1 ustawy zmienianej art. 14, może zostać dokonane najpóźniej do dnia 31 grudnia 2023 r.
-21. 1. Do obliczania wysokości zwiększenia kwoty rekompensat, o którym mowa art. 7a ustawy zmienianej art. 14, na podstawie dołączonych do wniosku o przyznanie rekompensaty informacji, oświadczenia i dokumentów, o których mowa art. 10 ust. 6a ustawy zmienianej art. 14, złożonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepis art. 7b ustawy zmienianej art. 14, brzmieniu nadanym niniejszą ustawą.
-2. W przypadku dołączenia do wniosku o przyznanie rekompensaty, przed dniem wejścia życie ustawy, o której mowa art. 14, informacji, oświadczenia i dokumentów, o których mowa art. 10 ust. 6a ustawy zmienianej art. 14, z pominięciem informacji, o której mowa art. 10 ust. 6a pkt 2 ustawy zmienianej art. 14, brzmieniu dotychczasowym, lub z pominięciem dokumentów lub ich kopii stanowiących podstawę do określenia wysokości poniesionych kosztów pośrednich, o których mowa art. 10 ust. 6a pkt 4 ustawy zmienianej art. 14, brzmieniu dotychczasowym, przepisu art. 10 ust. 9a ustawy zmienianej art. 14 nie stosuje się.
-22. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10 ust. 10 ustawy zmienianej art. 14 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 10, jednak nie dłużej niż do dnia 31 grudnia 2022 r.
-23. Minister właściwy do spraw energii ogłasza Dzienniku Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej obsługującego go urzędu komunikat określający termin uruchomienia portalu informacyjnego, o którym mowa art. 12 ust. 1.
-1) art. 12, który wchodzi życie z dniem określonym komunikacie, o którym mowa art. 23;
-2) art. 14 oraz art. 20–22, które wchodzą życie z dniem następującym po dniu ogłoszenia;
-3) art. 16, który wchodzi życie z dniem wdrożenia rozwiązań technicznych umożliwiających udostępnianie danych i informacji z centralnej ewidencji emisyjności budynków, określonym komunikacie, o którym mowa art. 18 pkt 3 ustawy z dnia 28 października 2020 r. o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych innych ustaw (Dz. U. poz. 2127).
-Prezydent Rzeczypospolitej Polskiej: A. Duda WZÓR Oświadczenie członka gospodarstwa domowego W związku z art. 5 ust. 1 pkt 1 ustawy z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku z sytuacją na rynku tych paliw (Dz. U. poz. 1477) ja .................................................. ............................. [imię i nazwisko, numer PESEL], niniejszym oświadczam, że od dnia ........................... celu wykorzystania na potrzeby własne gospodarstwa domowego pod adresem .................................
-[adres gospodarstwa domowego, na potrzeby którego jest nabywany węgiel kamienny, brykiet lub pelet zawierające co najmniej 85% węgla kamiennego], którego jestem członkiem: * nie nabyłem/nabyłam** lub członek mojego gospodarstwa domowego nie nabył węgla kamiennego, brykietu lub peletu zawierających co najmniej 85% węgla kamiennego po cenie określonej art. 2 ust. 1 tej ustawy, * nabyłem/nabyłam** lub członek mojego gospodarstwa domowego nabył węgiel kamienny, brykiet lub pelet zawierające co najmniej 85% węgla kamiennego ilości .................. ton po cenie określonej art. 2 ust. 1 tej ustawy.
-Niniejsze oświadczenie składam pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Jestem świadoma/świadomy** odpowiedzialności karnej za złożenie fałszywego oświadczenia. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-......................................................... [data, czytelny podpis] ......................................................... [adres zamieszkania, jeżeli jest inny niż podany jako adres gospodarstwa domowego] ......................................................... [adres do korespondencji, jeżeli jest inny niż podany jako adres gospodarstwa domowego] * Zaznaczyć właściwe.
-** Niewłaściwe skreślić.
-WZÓR Oświadczenie osoby działającej imieniu i na rzecz spółdzielni mieszkaniowej / wspólnoty mieszkaniowej** W związku z art. 5 ust. 2 pkt 3 ustawy z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku z sytuacją na rynku tych paliw (Dz. U. poz. 1477) ja .................................................. ............................. [imię i nazwisko, numer PESEL], niniejszym oświadczam, że od dnia wejścia życie tej ustawy celu wykorzystania na potrzeby gospodarstw domowych wchodzących skład spółdzielni mieszkaniowej / wspólnoty mieszkaniowej** pod adresem ................................. [adres budynku wielolokalowego, na potrzeby którego jest nabywany węgiel kamienny, brykiet lub pelet zawierające co najmniej 85% węgla kamiennego], imieniu której działam: * wspólnota mieszkaniowa / spółdzielnia mieszkaniowa** nie nabyła węgla kamiennego, brykietu lub peletu zawierających co najmniej 85% węgla kamiennego ilości .................. ton po cenie określonej art. 2 ust. 1 tej ustawy, * wspólnota mieszkaniowa / spółdzielnia mieszkaniowa** nabyła węgiel kamienny, brykiet lub pelet zawierające co najmniej 85% węgla kamiennego ilości .................. ton po cenie określonej art. 2 ust. 1 tej ustawy.
-Niniejsze oświadczenie składam pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Jestem świadoma/świadomy** odpowiedzialności karnej za złożenie fałszywego oświadczenia. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-......................................................... [data, czytelny podpis] ......................................................... [adres do korespondencji] * Zaznaczyć właściwe.
-** Niewłaściwe skreślić.
+**Art. 1.** (uchylony)
+
+**Art. 2.** (uchylony)
+
+**Art. 3.** (uchylony)
+
+**Art. 4.** (uchylony)
+
+**Art. 5.** (uchylony)
+
+**Art. 6.** (uchylony)
+
+**Art. 7.** (uchylony)
+
+**Art. 8.** (uchylony)
+
+**Art. 9.** (uchylony)
+
+**Art. 10.** (uchylony)
+
+**Art. 11.** (uchylony)
+
+**Art. 12.** (uchylony)
+
+**Art. 13.** W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 14.** W ustawie z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych (Dz. U. z 2022 r. poz. 1312) wprowadza się następujące zmiany:
+
+**Art. 15.** W ustawie z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu (Dz. U. poz. 202) w art. 15 w ust. 4 pkt 1 otrzymuje brzmienie: „1) w pierwszym półroczu 40% i w drugim półroczu 70% środków uzyskanych ze sprzedaży w drodze aukcji uprawnień do emisji, o których mowa w art. 49 ust. 1 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2022 r. poz. 1092), ale nie więcej niż 9 424 000 000 zł,”.
+
+**Art. 16.** (uchylony)
+
+**Art. 17.** (uchylony)
+
+**Art. 18.** (uchylony)
+
+**Art. 19.** (uchylony)
+
+**Art. 20.** Za rok 2021 wykonanie obowiązku, o którym mowa w art. 12a ust. 1 ustawy zmienianej w art. 14, w sposób, o którym mowa w art. 12a ust. 5 pkt 1 ustawy zmienianej w art. 14, może zostać dokonane najpóźniej do dnia 31 grudnia 2023 r.
+
+**Art. 21.**
+
+1. Do obliczania wysokości zwiększenia kwoty rekompensat, o którym mowa w art. 7a ustawy zmienianej w art. 14, na podstawie dołączonych do wniosku o przyznanie rekompensaty informacji, oświadczenia i dokumentów, o których mowa w art. 10 ust. 6a ustawy zmienianej w art. 14, złożonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepis art. 7b ustawy zmienianej w art. 14, w brzmieniu nadanym niniejszą ustawą.
+
+2. W przypadku dołączenia do wniosku o przyznanie rekompensaty, przed dniem wejścia w życie ustawy, o której mowa w art. 14, informacji, oświadczenia i dokumentów, o których mowa w art. 10 ust. 6a ustawy zmienianej w art. 14, z pominięciem informacji, o której mowa w art. 10 ust. 6a pkt 2 ustawy zmienianej w art. 14, w brzmieniu dotychczasowym, lub z pominięciem dokumentów lub ich kopii stanowiących podstawę do określenia wysokości poniesionych kosztów pośrednich, o których mowa w art. 10 ust. 6a pkt 4 ustawy zmienianej w art. 14, w brzmieniu dotychczasowym, przepisu art. 10 ust. 9a ustawy zmienianej w art. 14 nie stosuje się.
+
+**Art. 22.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10 ust. 10 ustawy zmienianej w art. 14 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 10, jednak nie dłużej niż do dnia 31 grudnia 2022 r.
+
+**Art. 23.** (uchylony)
+
+**Art. 24.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

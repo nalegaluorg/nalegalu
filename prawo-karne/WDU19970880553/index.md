@@ -8,6 +8,7 @@ pos: 553
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # Kodeks karny

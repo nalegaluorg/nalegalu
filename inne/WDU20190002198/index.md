@@ -8,9 +8,10 @@ pos: 2198
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 13 listopada 2019 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 18 października 2019 sprawie ogłoszenia jednolitego tekstu ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020”
+# Dz. 2019 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 18 października 2019 sprawie ogłoszenia jednolitego tekstu ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020”
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +25,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2198/text.pdf) |
 
-1. Na 16 ust. zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się niniejszego obwieszczenia jednolity tekst ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 1828), uwzględnieniem zmian wprowadzonych ustawą 22 listopada zmianie ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 2019
+1. Na art. 16 ust. zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się niniejszego obwieszczenia jednolity tekst ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 1828), uwzględnieniem zmian wprowadzonych ustawą 22 listopada zmianie ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 2019
 88) oraz zmian wynikających przepisów ogłoszonych przed dniem 16 października 2019
-2. Podany niniejszego obwieszczenia tekst jednolity nie obejmuje 2 22 listopada zmianie ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 2019 88), który stanowi: „Art. 2. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia.”.
+2. Podany niniejszego obwieszczenia tekst jednolity nie obejmuje art. 2 22 listopada zmianie ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 2019 88), który stanowi: „Art. 2. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia.”.
 Marszałek Sejmu: E. Witek
 USTAWA ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020”
 
@@ -38,10 +39,10 @@ USTAWA ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państ
 
 3. Program nie jest programem wieloletnim rozumieniu 27 sierpnia 2009 finansach publicznych 2019 869, 1622 i 1649).
 
-4. Podmioty realizujące Program, celu sfinansowania poszczególnych latach przedsięwzięć określonych 2 1–3, mogą zaciągać zobowiązania wysokości łącznej kwoty wydatków przewidzianych Programie dane przedsięwzięcie, po uprzednim uzyskaniu zgody:
+4. Podmioty realizujące Program, celu sfinansowania poszczególnych latach przedsięwzięć określonych art. 2 1–3, mogą zaciągać zobowiązania wysokości łącznej kwoty wydatków przewidzianych Programie dane przedsięwzięcie, po uprzednim uzyskaniu zgody:
 
 - **1)** Ministra Spraw Wewnętrznych i Administracji, zwanego dalej „Ministrem”, lub właściwego wojewody odniesieniu środków budżetu państwa, których są dysponentami;
-- **2)** ministra właściwego spraw finansów publicznych odniesieniu środków ujmowanych rezerwie celowej, 4 ust. 2.
+- **2)** ministra właściwego spraw finansów publicznych odniesieniu środków ujmowanych rezerwie celowej, art. 4 ust. 2.
 
 **Art. 2.** Zakres Programu obejmuje realizację następujących przedsięwzięć:
 
@@ -57,8 +58,7 @@ USTAWA ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państ
 
 - **1)** 2017 389 611 tys. zł;
 - **2)** 922 888 tys. zł;
-- **3)** 2019 086 686 tys. zł;
-- **4)** 2020 2 809 755 tys. zł.
+- **3)** 2019 086 686 tys. zł; Programu wynoszą łącznie 727 316 tys. zł, tego w:
 - **1)** 2017 280 000 tys. zł;
 - **2)** 748 168 tys. zł;
 - **3)** 2019 864 602 tys. zł;
@@ -76,14 +76,14 @@ USTAWA ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państ
 
 2. Minister dokonuje oceny realizacji przedsięwzięć oraz wielkości wydatkowanych środków budżetowych przez poszczególne formacje.
 
-3. W trakcie realizacji Programu mogą być dokonywane, ramach limitów wydatków poszczególnych latach, zmiany podziału kwot określonych załącznikach 1–6 ustawy, przez:
+3. W trakcie realizacji Programu mogą być dokonywane, ramach limitów wydatków poszczególnych latach, zmiany podziału kwot określonych załącznikach 1–6 przez:
 
 - **1)** ministra właściwego spraw finansów publicznych wniosek Ministra odniesieniu kwot określonych załącznikach 4–6 ustawy;
-- **2)** Ministra odniesieniu kwot określonych załącznikach 1–3 ustawy, uwzględnieniem zmian, których oraz przepisów 171 27 sierpnia 2009 finansach publicznych.
+- **2)** Ministra odniesieniu kwot określonych załącznikach 1–3 uwzględnieniem zmian, których oraz przepisów art. 171 27 sierpnia 2009 finansach publicznych.
 
 4. Minister dokonaniu zmian, których ust. 2, niezwłocznie informuje ministra właściwego spraw finansów publicznych.
 
-5. Zmiany podziału kwot określonych załącznikach 1–3 ustawy, zakresie wydatków poszczególnych wojewodów, wymagają również zgody ministra właściwego spraw finansów publicznych.
+5. Zmiany podziału kwot określonych załącznikach 1–3 zakresie wydatków poszczególnych wojewodów, wymagają również zgody ministra właściwego spraw finansów publicznych.
 
 6. Zmiany podziału kwot, których ust. 3, nie mogą zwiększać wydatków przedsięwzięcia: „Wzmocnienie motywacyjnego systemu uposażeń funkcjonariuszy” oraz „Zwiększenie konkurencyjności wynagrodzeń pracowników cywilnych”.
 
@@ -91,7 +91,7 @@ USTAWA ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państ
 
 **Art. 7.**
 
-1. Maksymalny limit wydatków budżetu państwa realizację Programu, będący skutkiem finansowym ustawy, wynosi 18 019 394 tys. zł, tego w:
+1. Maksymalny limit wydatków budżetu państwa realizację Programu, będący skutkiem finansowym wynosi 18 019 394 tys. zł, tego w:
 
 - **1)** 2017 389 611 tys. zł;
 - **2)** 922 888 tys. zł;
@@ -101,8 +101,7 @@ USTAWA ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państ
 - **6)** 2022 468 409 tys. zł;
 - **7)** 2023 468 409 tys. zł;
 - **8)** 2024 468 409 tys. zł;
-- **9)** 2025 468 409 tys. zł;
-- **10)** 2026 468 409 tys. zł. wdraża mechanizm korygujący określony ust. 3.
+- **9)** 2025 468 409 tys. zł; limitu według stanu koniec każdego półrocza i koniec każdego roku kalendarzowego oraz razie konieczności wdraża mechanizm korygujący określony ust. 3.
 
 3. W przypadku zagrożenia przekroczenia lub przekroczenia danym roku budżetowym limitu wydatków, którym ust. Minister wprowadza mechanizm korygujący polegający zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej
 

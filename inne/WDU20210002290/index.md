@@ -8,9 +8,12 @@ pos: 2290
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 grudnia 2021 r.
+# o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników
+
+*USTAWA z dnia 29 października 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +26,6 @@ domain: null
 | Data wydania | 2021-12-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2290/text.pdf) |
-
-Poz. 2290
-USTAWA z dnia 29 października 2021 r.
-o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników
 
 **Art. 1.** Ustawa określa ułatwienia w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników na wyznaczonych miejscach.
 
@@ -42,9 +41,9 @@ o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich do
 
 **Art. 5.** Rada gminy uchwala regulamin określający zasady prowadzenia handlu w piątki i soboty przez rolników i ich domowników na wyznaczonych miejscach, o których mowa w art. 3 ust. 1.
 
-**Art. 6.** Wyznaczenie miejsca, o którym mowa w art. 3 ust. 1, należy do zadań własnych gminy o charakterze obowiązkowym. Dziennik Ustaw – 2 – Poz. 2290
+**Art. 6.** Wyznaczenie miejsca, o którym mowa w art. 3 ust. 1, należy do zadań własnych gminy o charakterze obowiązkowym.
 
 **Art. 7.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2019 r. poz. 1170 oraz z 2021 r. poz. 401, 1558 i 2192) art. 16 otrzymuje brzmienie: „Art. 16. Zwalnia się od opłaty targowej:
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.
 

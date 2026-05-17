@@ -8,9 +8,10 @@ pos: 808
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
+# zmianie ustawy systemie ubezpieczeń społecznych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111380808) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/808/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. 205, poz. 1585, z późn. zm.
+**Art. 1.** W ustawie dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz. U. 2009 205, 1585, późn. zm. ) wprowadza następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy chorób zawodowych (Dz. U. z 2009 r. 167, poz. 1322, z 2010 r. 257, poz. 1725 oraz z 2011 r. 45, poz. 235 122, poz. 696) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 30 października 2002 ubezpieczeniu społecznym tytułu wypadków przy pracy chorób zawodowych (Dz. U. 2009 167, 1322, 2010 257, 1725 oraz 2011 45, 235 122, 696) wprowadza następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. 164, poz. 1027, z późn. zm.
+**Art. 3.** W ustawie dnia 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 164, 1027, późn. zm. ) 94 uchyla ust. 2. ustawie budżetowej na podstawie planu finansowego FEP; odpis jest potrącany okresach miesięcznych.”;
 
 **Art. 5.**
 
-1. Do należności z tytułu składek na ubezpieczenia społeczne ubezpieczenie zdrowotne, nieopłaconych przed dniem wejścia życie niniejszej ustawy, ) art. 94 uchyla się ust. 2. jeżeli nie upłynął jeszcze termin ich dochodzenia, stosuje się art. 24 ust. 5f 6 ustawy, o której mowa art. 1,
+1. Do należności tytułu składek na ubezpieczenia społeczne ubezpieczenie zdrowotne, nieopłaconych przed dniem wejścia życie niniejszej ustawy, jeżeli nie upłynął jeszcze termin ich dochodzenia, stosuje 24 ust. 5f 6 ustawy, której brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** W ustawie z dnia 19 grudnia 2008 r. o eme- brzmieniu nadanym niniejszą ustawą. ryturach pomostowych (Dz. U. 237, poz. 1656 oraz z 2011 r. 75, poz. 398) wprowadza się następujące 2. W przypadkach, o których mowa ust. 1, okozmiany: liczności uzasadniające zawieszenie biegu terminu prze1) art. 32 ust. otrzymuje brzmienie: dawnienia, określone art. 24 ust. 5f 6 ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą „2. Wysokość odpisu, o którym mowa ust. 1 pkt 3, ustawą, uwzględnia się również wtedy, gdy okoliczustala się corocznie ustawie budżetowej na ności te wystąpiły przed dniem wejścia życie niniejpodstawie planu finansowego FEP; odpis jest szej ustawy. potrącany okresach miesięcznych.”;
+2. W przypadkach, których ust. okoliczności uzasadniające zawieszenie biegu terminu przedawnienia, określone 24 ust. 5f 6 ustawy, której brzmieniu nadanym niniejszą ustawą, uwzględnia również wtedy, gdy okoliczności te wystąpiły przed dniem wejścia życie niniejszej ustawy. wtedy, gdy okoliczności te wystąpiły przed dniem wejścia życie niniejszej ustawy.
+
+**Art. 6.** Umowy realizację świadczeń zdrowotnych zakresu stomatologii szczepień ochronnych zawarte na podstawie przepisów wydanych na podstawie 23a ust. 2 ustawy, której 2, między Zakładem Ubezpieczeń Społecznych a placówkami medycznymi wybranymi drodze konkursu ofert zachowują ważność upływu terminu, na który zostały zawarte.
+
+**Art. 7.** Ustawa wchodzi życie upływie 14 dni dnia ogłoszenia.
 

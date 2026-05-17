@@ -8,9 +8,12 @@ pos: 1200
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 czerwca 2017 r.
+# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+
+*USTAWA z dnia 25 maja 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +27,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001200) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1200/text.pdf) |
 
-USTAWA z dnia 25 maja 2017 r.
-o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 47d.**
 
-1. W przypadku uzasadnionej i wynikaj ą cej ze wskaza ń aktualnej wiedzy medycznej potrzeby zastosowania u ś wiadczeniobiorcy leku, który nie jest finansowany ze ś rodków publicznych danym wskazaniu, je ż eli jest to niezb ę dne dla ratowania ż ycia lub zdrowia ś wiadczeniobiorcy we wskazaniu wyst ę puj ą cym u jednostkowych pacjentów, a zostały już wyczerpane u danego świadczeniobiorcy wszystkie możliwe do zastosowania tym wskazadrodze decyzji administracyjnej, na pokrycie kosztów tego leku ramach ratunkowego do technologii lekowej.
+1. W przypadku uzasadnionej i wynikającej ze wskazań aktualnej wiedzy medycznej potrzeby zastosowania u świadczeniobiorcy leku, który nie jest finansowany ze środków publicznych danym wskazaniu, jeżeli jest to niezbędne dla ratowania życia lub zdrowia świadczeniobiorcy we wskazaniu występującym u jednostkowych pacjentów, a zostały już wyczerpane u danego świadczeniobiorcy wszystkie możliwe do zastosowania tym wskazaniu dostępne technologie medyczne finansowane ze środków publicznych, minister właściwy do spraw zdrowia może wydać, drodze decyzji administracyjnej, zgodę na pokrycie kosztów tego leku ramach ratunkowego dostępu do technologii lekowej.
 
 2. Minister właściwy do spraw zdrowia może wydać kolejną zgodę na pokrycie kosztów leku ramach ratunkowego dostępu do technologii lekowej na potrzeby tego samego świadczeniobiorcy jako kontynuację leczenia, pod warunkiem potwierdzenia przez lekarza specjalistę dziedzinie medycyny odpowiedniej ze względu na chorobę lub problem zdrowotny świadczeniobiorcy skuteczności leczenia świadczeniobiorcy lekiem, którego dotyczyła pierwsza zgoda.
 
 3. Zgoda, o której mowa ust. 1 lub 2, jest wydawana na okres terapii nie dłuższy niż 3 miesiące albo trzy cykle leczenia.
 
-4. Zgoda, o której mowa ust. 1 lub 2, jest wydawana wyłącznie dla leku, który jest dopuszczony do obrotu zgodnie z art. 3 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne lub pozostaje obrocie na podstawie art. 29 ust. 5 lub 6 tej ustawy oraz jest dostępny na rynku.
+4. Zgoda, o której mowa ust. 1 lub 2, jest wydawana wyłącznie dla leku, który jest dopuszczony do obrotu zgodnie z art. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne lub pozostaje obrocie na podstawie art. 29 ust. 5 lub 6 tej ustawy oraz jest dostępny na rynku.
 
 5. Decyzji administracyjnej sprawie wydania zgody, o której mowa ust. 1 lub 2, nadaje się rygor natychmiastowej wykonalności.
 
@@ -53,16 +53,18 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 - **2)** miejsce udzielania świadczeń opieki zdrowotnej u danego świadczeniodawcy;
 - **3)** imię i nazwisko oraz numer prawa wykonywania zawodu lekarza specjalisty dziedzinie medycyny odpowiedniej ze względu na chorobę lub problem zdrowotny świadczeniobiorcy;
 - **4)** imię i nazwisko świadczeniobiorcy;
-- **5)** numer PESEL świadczeniobiorcy, a jeżeli nie posiada numeru PESEL rodzaj i numer dokumentu potwierdzającego tożsamość; przypadku dziecka nieposiadającego numeru PESEL lub niemożności ustalenia tego numeru numer PESEL przedstawiciela ustawowego lub opiekuna faktycznego rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta wraz z adnotacją o zamieszczeniu numeru PESEL osoby innej niż świadczeniobiorca, a przypadku nieposiadania numeru PESEL rodzaj i numer dokumentu potwierdzającego tożsamość wraz z adnotacją o zamieszczeniu danych osoby innej niż świadczeniobiorca;
+- **5)** numer PESEL świadczeniobiorcy, a jeżeli nie posiada numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość; przypadku dziecka nieposiadającego numeru PESEL lub niemożności ustalenia tego numeru – numer PESEL przedstawiciela ustawowego lub opiekuna faktycznego rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta wraz z adnotacją o zamieszczeniu numeru PESEL osoby innej niż świadczeniobiorca, a przypadku nieposiadania numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość wraz z adnotacją o zamieszczeniu danych osoby innej niż świadczeniobiorca;
 - **6)** informację, czy wniosek jest składany po raz pierwszy, czy dotyczy kontynuacji leczenia, o której mowa art. 47d ust. 2;
 - **7)** wskazanie choroby lub problemu zdrowotnego i ich oznaczenie według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10 oraz opis stanu klinicznego świadczeniobiorcy;
 - **8)** nazwę leku i nazwę powszechnie stosowaną leku oraz jego postać farmaceutyczną, moc, ilość i sposób dawkowania oraz numer pozwolenia na dopuszczenie do obrotu;
 - **9)** planowany okres terapii lub liczbę cykli leczenia;
 - **10)** opis przebiegu dotychczasowego leczenia wraz z podaniem stosowanych leków, ich mocy, sposobu dawkowania i określeniem czasu ich stosowania oraz jego efektów, wskazujących jednoznacznie, że zostały wyczerpane wszystkie możliwe do zastosowania danym wskazaniu dostępne technologie medyczne finansowane ze środków publicznych lub brak jest możliwości ich zastosowania;
-- **11)** potwierdzenie skuteczno ś ci leczenia ramach ratunkowego dost ę pu do technologii lekowej przypadku kontynuacji leczenia;
-- **12)** wskazanie warto ś ci netto wnioskowanej terapii albo cykli leczenia, wraz z jej uzasadnieniem;
-- **13)** okre ś lenie okresu wnioskowanej terapii albo liczby cykli leczenia, jednak wymiarze nie dłu ż szym ni ż trzymiesi ę czna terapia albo trzy cykle leczenia;
-- **14)** datę sporządzenia wniosku oraz podpis i pieczęć świadczeniodawcy i lekarza, o którym mowa pkt 3. ny odpowiedniej ze na lub problem zdrowotny która zawiera zastosowania produktu leczniczego, którego dotyczy wniosek, o którym mowa ust. 1, u danego świadczeniobiorcy.
+- **11)** potwierdzenie skuteczności leczenia ramach ratunkowego dostępu do technologii lekowej – przypadku kontynuacji leczenia;
+- **12)** wskazanie wartości netto wnioskowanej terapii albo cykli leczenia, wraz z jej uzasadnieniem;
+- **13)** określenie okresu wnioskowanej terapii albo liczby cykli leczenia, jednak wymiarze nie dłuższym niż trzymiesięczna terapia albo trzy cykle leczenia;
+- **14)** datę sporządzenia wniosku oraz podpis i pieczęć świadczeniodawcy i lekarza, o którym mowa pkt 3.
+
+2. Do wniosku dołącza się opinię konsultanta krajowego lub konsultanta wojewódzkiego dziedzinie medycyny odpowiedniej ze względu na chorobę lub problem zdrowotny świadczeniobiorcy, która zawiera ocenę zasadności zastosowania produktu leczniczego, którego dotyczy wniosek, o którym mowa ust. 1, u danego świadczeniobiorcy.
 
 3. Wniosek wraz z opinią, o której mowa ust. 2, składa się postaci papierowej lub elektronicznej.
 
@@ -78,7 +80,7 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 3. Agencja sporządza opinię, o której mowa ust. 1 lub 2, terminie 30 dni od dnia otrzymania zlecenia ministra właściwego do spraw zdrowia, kierując się kryteriami, o których mowa art. 12 pkt 3–6 oraz pkt 8–10 ustawy o refundacji. Opinia może zawierać określenie maksymalnego poziomu kosztu terapii lub ceny leku, po przekroczeniu którego nie jest zasadne finansowanie tego leku ze środków publicznych.
 
-4. W przypadku gdy z opinii Agencji, o której mowa ust. 1 albo 2, wynika, że jest zasadne finansowanie ze środków publicznych leku, który nie jest finansowany ze środków publicznych danym wskazaniu, jeżeli jest to niezbędne dla ratowania życia lub zdrowia świadczeniobiorców, minister właściwy do spraw zdrowia wzywa podmiot odpowiedzialny rozumieniu art. 2 pkt 24 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne lub przedstawiciela podmiotu odpowiedzialnego rozumieniu art. 2 pkt 35a tej ustawy do złożenia wniosku, o którym mowa art. 24 ust. 1 pkt 1 ustawy o refundacji, dla leku tym wskazaniu, terminie 90 dni od dnia doręczenia wezwania.
+4. W przypadku gdy z opinii Agencji, o której mowa ust. 1 albo 2, wynika, że jest zasadne finansowanie ze środków publicznych leku, który nie jest finansowany ze środków publicznych danym wskazaniu, jeżeli jest to niezbędne dla ratowania życia lub zdrowia świadczeniobiorców, minister właściwy do spraw zdrowia wzywa podmiot odpowiedzialny rozumieniu art. 2 pkt 24 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne lub przedstawiciela podmiotu odpowiedzialnego rozumieniu art. 2 pkt 35a tej ustawy do złożenia wniosku, o którym mowa art. 24 ust. 1 pkt 1 ustawy o refundacji, dla leku tym wskazaniu, terminie 90 dni od dnia doręczenia wezwania.
 
 5. Informację o wezwaniu, o którym mowa ust. 4, zawierającą nazwę (firmę) podmiotu odpowiedzialnego lub przedstawiciela podmiotu odpowiedzialnego, nazwę leku oraz wskazanie, jakim miałby być refundowany, udostępnia się na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia oraz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia.
 
@@ -95,10 +97,11 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 1. Decyzja administracyjna sprawie wydania zgody, o której mowa art. 47d ust. 1 i 2, zawiera:
 
-- **1)** dat ę wydania;
+- **1)** datę wydania;
 - **2)** okres, na jaki została wydana zgoda na pokrycie kosztów leku;
 - **3)** oznaczenie świadczeniodawcy z podaniem jego nazwy (firmy) i adresu albo siedziby;
-- **5)** numer PESEL świadczeniobiorcy, a jeżeli nie posiada numeru PESEL rodzaj i numer dokumentu potwierdzającego tożsamość; przypadku dziecka nieposiadającego numeru PESEL lub niemożności ustalenia tego numeru numer PESEL przedstawiciela ustawowego lub opiekuna faktycznego rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta wraz z adnotacją o zamieszczeniu numeru PESEL osoby innej niż świadczeniobiorca, a przypadku nieposiadania numeru PESEL rodzaj i numer dokumentu potwierdzającego tożsamość wraz z adnotacją o zamieszczeniu danych osoby innej niż świadczeniobiorca;
+- **4)** imię i nazwisko świadczeniobiorcy;
+- **5)** numer PESEL świadczeniobiorcy, a jeżeli nie posiada numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość; przypadku dziecka nieposiadającego numeru PESEL lub niemożności ustalenia tego numeru – numer PESEL przedstawiciela ustawowego lub opiekuna faktycznego rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta wraz z adnotacją o zamieszczeniu numeru PESEL osoby innej niż świadczeniobiorca, a przypadku nieposiadania numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość wraz z adnotacją o zamieszczeniu danych osoby innej niż świadczeniobiorca;
 - **6)** informację, czy zgoda została wydana ramach kontynuacji leczenia;
 - **7)** wskazanie choroby lub problemu zdrowotnego i ich oznaczenie według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10;
 - **8)** nazwę leku i nazwę powszechnie stosowaną leku oraz jego postać farmaceutyczną, moc i ilość;
@@ -112,10 +115,10 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 2. Ewidencja zawiera odniesieniu do:
 
-- **1)** wniosków, o których mowa art. 47e dane, o których mowa art. 47e ust. 1;
+- **1)** wniosków, o których mowa art. 47e – dane, o których mowa art. 47e ust. 1;
 - **2)** decyzji administracyjnych sprawie wydania zgód, o których mowa art. 47d ust. 1 i 2:
     - **a)** dane, o których mowa art. 47g ust. 1 pkt 1–8,
-    - **b)** maksymalną kwotę, o której mowa art. 47g ust. 1 pkt 9, a przypadku kontynuacji leczenia sumaryczne zestawienie kosztów leku obejmujące wszystkie wydane zgody,
+    - **b)** maksymalną kwotę, o której mowa art. 47g ust. 1 pkt 9, a przypadku kontynuacji leczenia – sumaryczne zestawienie kosztów leku obejmujące wszystkie wydane zgody,
     - **c)** datę przekazania do Agencji zlecenia sporządzenia opinii, o której mowa art. 47f ust. 1 lub 2, datę sporządzenia tej opinii przez Agencję oraz stanowisko Agencji niej wyrażone.
 
 3. Administratorem danych zawartych ewidencji jest minister właściwy do spraw zdrowia.
@@ -132,8 +135,9 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 2. W przypadku gdy zgoda, o której mowa art. 47d ust. 1 albo 2, dotyczy leku, odniesieniu do którego została wydana decyzja o objęciu refundacją i ustaleniu urzędowej ceny zbytu, o której mowa art. 11 ustawy o refundacji, kwota określona decyzji administracyjnej sprawie wydania tej zgody nie może być wyższa niż wynikająca z zastosowania do obliczeń ceny hurtowej brutto tego leku wraz z instrumentem dzielenia ryzyka, jeżeli został zawarty.”;
 
-- **21)** art. 102 ust. 5 pkt 31 otrzymuje brzmienie: „31) podawanie co miesi ą c do publicznej wiadomo ś ci informacji o wielko ś ci kwoty refundacji leków, ś rodków spoż ywczych specjalnego przeznaczenia ż ywieniowego oraz jednostkowych wyrobów medycznych, wraz z podaniem kodu identyfikacyjnego EAN lub innego kodu odpowiadaj ą cego kodowi EAN;”;
-- **22)** art. 107 ust. 5 po pkt 20 dodaje si ę pkt 20a brzmieniu: „20a) zawieranie umów, o których mowa art. 41 ustawy o refundacji, monitorowanie ich realizacji oraz ich rozliczanie;”; „1a. Przychody, o których mowa ust. 1, zmniejsza się o odpis dla Agencji, o którym mowa art. 31t ust. 5–9.”;
+- **21)** art. 102 ust. 5 pkt 31 otrzymuje brzmienie: „31) podawanie co miesiąc do publicznej wiadomości informacji o wielkości kwoty refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz jednostkowych wyrobów medycznych, wraz z podaniem kodu identyfikacyjnego EAN lub innego kodu odpowiadającego kodowi EAN;”;
+- **22)** art. 107 ust. 5 po pkt 20 dodaje się pkt 20a brzmieniu: „20a) zawieranie umów, o których mowa art. 41 ustawy o refundacji, monitorowanie ich realizacji oraz ich rozliczanie;”;
+- **23)** art. 116 ust. 1a otrzymuje brzmienie: „1a. Przychody, o których mowa ust. 1, zmniejsza się o odpis dla Agencji, o którym mowa art. 31t ust. 5–9.”;
 - **24)** art. 146 ust. 6 otrzymuje brzmienie: „6. Określoną przez Prezesa Agencji taryfę świadczeń wprowadza się do stosowania nie później niż przed upływem 4 miesięcy od dnia jej opublikowania.”;
 - **25)** art. 148 ust. 2 otrzymuje brzmienie: „2. Przy porównaniu ofert toku postępowania sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej uwzględnia się także, czy świadczeniodawca:
 - **1)** przekazał Agencji terminie dane, o których mowa art. 31lc ust. 2;
@@ -148,14 +152,16 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 2. W celu realizacji zadań, o których mowa ust. 1, Fundusz ma prawo przetwarzać następujące dane:
 
 - **1)** nazwisko i imię (imiona);
-- **2)** numer PESEL, a przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **2)** numer PESEL, a przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 - **3)** adres miejsca zamieszkania;
 - **4)** adres do korespondencji i numer telefonu umożliwiające kontakt z osobą, której dane Fundusz przetwarza;
 - **5)** numer prawa wykonywania zawodu oraz kwalifikacje zawodowe.”.
 
-**Art. 2.** W ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2016 r. poz. 2142 i 2003 oraz z 2017 r. poz. 1015) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2016 r. poz. 2142 i 2003 oraz z 2017 r. poz. 1015) wprowadza się następujące zmiany:
 
 **Art. 3.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2016 r. poz. 1536 i 1579) wprowadza się następujące zmiany:
+
+**Art. 4.** W ustawie z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491, z 2015 r. poz. 2198 oraz z 2016 r. poz. 1355) wprowadza się następujące zmiany:
 
 **Art. 5.** Do postępowań sprawie ustalenia taryfy świadczeń, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 
@@ -181,31 +187,36 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 2. Środki otrzymane przez Agencję Oceny Technologii Medycznych i Taryfikacji przed dniem wejścia życie niniejszej ustawy z tytułu odpisu na taryfikację świadczeń stają się z dniem wejścia życie niniejszej ustawy środkami z odpisu dla Agencji Oceny Technologii Medycznych i Taryfikacji.
 
-3. Prezes Agencji Oceny Technologii Medycznych i Taryfikacji, terminie 30 dni od dnia wej ś cia ż ycie niniejszej ustawy, dostosuje plan finansowy Agencji Oceny Technologii Medycznych i Taryfikacji do przepisów ust. 1 i 2. Przepisy art. 31t ustawy zmienianej art. 1, brzmieniu nadanym niniejsz ą ustaw ą , stosuje si ę odpowiednio. z tytułu realizacji ustawowych wynosi w:
+3. Prezes Agencji Oceny Technologii Medycznych i Taryfikacji, terminie 30 dni od dnia wejścia życie niniejszej ustawy, dostosuje plan finansowy Agencji Oceny Technologii Medycznych i Taryfikacji do przepisów ust. 1 i 2. Przepisy art. 31t ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
-- **1)** 2017 r. 53 911 tys. zł;
-- **2)** 2018 r. 54 185 tys. zł;
-- **3)** 2019 r. 55 512 tys. zł;
-- **4)** 2020 r. 56 899 tys. zł;
-- **5)** 2021 r. 58 320 tys. zł;
-- **6)** 2022 r. 59 777 tys. zł;
-- **7)** 2023 r. 61 271 tys. zł;
-- **8)** 2024 r. 62 802 tys. zł;
-- **9)** 2025 r. 64 371 tys. zł;
-- **10)** 2026 r. 65 978 tys. zł.
+**Art. 12.**
 
-2. W latach 2017–2026 maksymalny limit kosztów wynagrodzeń Agencji Oceny Technologii Medycznych i Taryfikacji z tytułu realizacji zadań ustawowych wynosi w:
+1. W latach 2017–2022 maksymalny limit kosztów Agencji Oceny Technologii Medycznych i Taryfikacji z tytułu realizacji zadań ustawowych wynosi w:
 
-- **1)** 2017 r. 26 723 tys. zł;
-- **2)** 2018 r. 26 102 tys. zł;
-- **3)** 2019 r. 26 327 tys. zł;
-- **4)** 2020 r. 26 586 tys. zł;
-- **5)** 2021 r. 26 852 tys. zł;
-- **6)** 2022 r. 27 125 tys. zł;
-- **7)** 2023 r. 27 404 tys. zł;
-- **8)** 2024 r. 27 691 tys. zł;
-- **9)** 2025 r. 27 985 tys. zł;
-- **10)** 2026 r. 28 684 tys. zł.
+- **1)** 2017 r. – 53 911 tys. zł;
+- **2)** 2018 r. – 54 185 tys. zł;
+- **3)** 2019 r. – 55 512 tys. zł;
+- **4)** 2020 r. – 56 899 tys. zł;
+- **5)** 2021 r. – 58 320 tys. zł;
+- **6)** 2022 r. – 59 777 tys. zł;
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** (uchylony)
+- **10)** (uchylony)
+
+2. W latach 2017–2022 maksymalny limit kosztów wynagrodzeń Agencji Oceny Technologii Medycznych i Taryfikacji z tytułu realizacji zadań ustawowych wynosi w:
+
+- **1)** 2017 r. – 26 723 tys. zł;
+- **2)** 2018 r. – 26 102 tys. zł;
+- **3)** 2019 r. – 28 827 tys. zł;
+- **4)** 2020 r. – 29 086 tys. zł;
+- **5)** 2021 r. – 29 352 tys. zł;
+- **6)** 2022 r. – 29 025 tys. zł;
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** (uchylony)
+- **10)** (uchylony) 2a. W latach 2019–2022 maksymalny limit kosztów, o którym mowa ust. 2, nie obejmuje kosztów wynagrodzeń finansowanych z przychodów, o których mowa art. 31t ust. 2 pkt 6 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561 i
+- **2674)** .
 
 3. W przypadku gdy koszty, o których mowa ust. 1, po pierwszym półroczu danego roku przekroczą 65% limitu przewidzianego na ten rok, plan finansowy Agencji Oceny Technologii Medycznych i Taryfikacji zmienia się pozycji „Pozostałe koszty funkcjonowania”, szczególności zakresie kosztów podróży służbowych krajowych i zagranicznych, taki sposób, że wysokość tych kosztów drugim półroczu tego roku obniża się o kwotę gwarantującą, że limit ten nie zostanie przekroczony.
 
@@ -215,11 +226,13 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 **Art. 13.** Minister właściwy do spraw zdrowia dostosuje skład Rady do spraw Taryfikacji do przepisów ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, terminie do dnia 30 czerwca 2017 r.
 
-**Art. 14.** Produkty lecznicze, o których mowa art. 23a ust. 1a ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, które przed dniem wejścia życie niniejszej ustawy posiadały kategorię dostępności „wydawane bez przepisu lekarza OTC”, są wydawane z apteki po tym dniu wyłącznie na podstawie recepty.
+**Art. 14.** Produkty lecznicze, o których mowa art. 23a ust. 1a ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, które przed dniem wejścia życie niniejszej ustawy posiadały kategorię dostępności „wydawane bez przepisu lekarza – OTC”, są wydawane z apteki po tym dniu wyłącznie na podstawie recepty.
 
-**Art. 15.** Recepty wystawione na zasadach obowi ą zuj ą cych przed dniem wej ś cia ż ycie niniejszej ustawy mog ą by ć realizowane.
+**Art. 15.** Recepty wystawione na zasadach obowiązujących przed dniem wejścia życie niniejszej ustawy mogą być realizowane.
 
-**Art. 16.** Do post ę powa ń sprawie refundacji leków, ś rodków spo ż ywczych specjalnego przeznaczenia ż ywieniowego i wyrobów medycznych wszcz ę tych i niezako ń czonych przed dniem wej ś cia ż ycie niniejszej ustawy stosuje si ę przepisy dotychczasowe. pospolitej Polskiej sprawozdanie z wykonania ustawy zmienianej art. 1, brzmieniu nadanym zakresie ratunkowego dostępu do technologii lekowych, wraz z oceną skutków jej stosowania.
+**Art. 16.** Do postępowań sprawie refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+**Art. 17.** Rada Ministrów po upływie 2 lat od dnia wejścia życie niniejszej ustawy przedłoży Sejmowi Rzeczypospolitej Polskiej sprawozdanie z wykonania ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, zakresie ratunkowego dostępu do technologii lekowych, wraz z oceną skutków jej stosowania.
 
 **Art. 18.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 31j ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 31j ustawy zmienianej art. 1, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy.
 

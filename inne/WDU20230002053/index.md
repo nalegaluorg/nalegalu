@@ -8,9 +8,12 @@ pos: 2053
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 września 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o orderach i odznaczeniach Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2022 r. poz. 1031), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o orderach i odznaczeniach (Dz. U. poz. 1457) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 sierpnia 2023 r.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 września 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2053/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 września 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o orderach i odznaczeniach Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2022 r. poz. 1031), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o orderach i odznaczeniach (Dz. U. poz. 1457) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 sierpnia 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2–4 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o orderach i odznaczeniach (Dz. U. poz. 1457), które stanowią: „Art. 2. Wnioski o nadanie orderów i odznaczeń wojskowych za czyny dokonane od 2002 roku w czasie działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa zakończonych wcześniej niż 2 lata przed dniem wejścia w życie niniejszej ustawy mogą być składane w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 2. Wnioski o nadanie orderów i odznaczeń wojskowych za czyny dokonane nie wcześniej niż 2 lata przed dniem wejścia w życie niniejszej ustawy w czasie działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa zakończonych przed dniem wejścia w życie niniejszej ustawy mogą być składane w terminie 2 lat od dnia wejścia w życie niniejszej ustawy.
 3. Nadania orderów i odznaczeń za czyny, o których mowa w ust. 1 i 2, uznaje się za zakończone po upływie 3 lat od dnia wejścia w życie niniejszej ustawy.
@@ -110,7 +111,7 @@ jest nagrodą za wybitne zasługi położone w służbie Państwu i społeczeńs
 15a. Krzyż Wolności i Solidarności jest odznaczeniem o charakterze pamiątkowym, będącym nagrodą dla działaczy opozycji wobec dyktatury komunistycznej, którzy w okresie od 1 stycznia 1956 r. do 4 czerwca 1989 r., z wyłączeniem okresu od 31 sierpnia 1980 r. do 12 grudnia 1981 r., na terytorium Polski co najmniej przez 12 miesięcy:
 1) byli aktywnymi członkami nielegalnych organizacji, które stawiały sobie za cel odzyskanie przez Polskę niepodległości i suwerenności lub respektowanie praw człowieka w Polskiej Rzeczypospolitej Ludowej, lub
 2) prowadzili zagrożoną odpowiedzialnością karną lub represjami działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania praw człowieka w Polskiej Rzeczypospolitej Ludowej.
-1989 r. na terytorium Polski ze względu na prowadzoną działalność mającą na celu odzyskanie przez Polskę niepodległości i suwerenności lub respektowanie praw człowieka w Polskiej Rzeczypospolitej Ludowej lub też ze względu na świadome uczestnictwo w działaniach i manifestacjach mających taki cel:
+i suwerenności lub respektowanie praw człowieka w Polskiej Rzeczypospolitej Ludowej lub też ze względu na świadome uczestnictwo w działaniach i manifestacjach mających taki cel:
 1) zostały zabite;
 2) doznały ciężkiego uszczerbku na zdrowiu;
 3) przez łączny okres co najmniej 30 dni były więzione, aresztowane, internowane lub w inny sposób pozbawione wolności;
@@ -131,7 +132,7 @@ jest nagrodą za wybitne zasługi położone w służbie Państwu i społeczeńs
 3) ofiarne niesienie pomocy oraz działalność charytatywną.
 4. Krzyż Zasługi tego samego stopnia może być nadany tej samej osobie dwukrotnie.
 5. Przed nadaniem Krzyża Zasługi wyższego stopnia powinny upłynąć co najmniej 3 lata; odstępstwo od tej zasady jest dopuszczalne wyjątkowo.
-Zasługi za Dzielność nadaje się policjantom, funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Służby Ochrony Państwa, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Straży Pożarnej oraz żołnierzom za czyny spełnione w specjalnie ciężkich warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, w obronie prawa, nietykalności granic państwowych oraz życia, mienia i bezpieczeństwa obywateli.
+Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Służby Ochrony Państwa, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Straży Pożarnej oraz żołnierzom za czyny spełnione w specjalnie ciężkich warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, w obronie prawa, nietykalności granic państwowych oraz życia, mienia i bezpieczeństwa obywateli.
 2. Krzyż Zasługi za Dzielność może być nadany tej samej osobie wielokrotnie.
 3. Krzyż Zasługi za Dzielność może być wyjątkowo nadawany także innym osobom niewymienionym w ust.
 17a. Nagrodą za zasługi podczas działań bojowych przeciwko aktom terroru w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa w czasie pokoju są odznaczenia wojskowe:
@@ -153,7 +154,6 @@ Zasługi za Dzielność nadaje się policjantom, funkcjonariuszom Agencji Bezpie
 6. (uchylony) 17c. Nagrodą za wybitne osiągnięcia w realizacji zadań wynikających z bycia członkiem ochotniczej straży pożarnej jest Krzyż Świętego Floriana.
 18. Ustanowiony ustawą z dnia 17 lutego 1960 r. Medal za Ofiarność i Odwagę stanowi nagrodę dla osób, które z narażeniem życia lub zdrowia ratowały zagrożone życie ludzkie lub mienie.
 2. Medal za Ofiarność i Odwagę może być nadany tej samej osobie wielokrotnie.
-w służbie Państwa jest Medal za Długoletnią Służbę.
 2. Medal za Długoletnią Służbę dzieli się na trzy stopnie: I stopień Medal Złoty za Długoletnią Służbę, II stopień Medal Srebrny za Długoletnią Służbę, III stopień Medal Brązowy za Długoletnią Służbę.
 19. Ustanowiony ustawą z dnia 17 lutego 1960 r. Medal za Długoletnie Pożycie Małżeńskie stanowi nagrodę dla osób, które przeżyły 50 lat w jednym związku małżeńskim.
 19a. Nagrodą za nienaganną służbę w polskich kontyngentach wojskowych poza granicami państwa lub w rejonie prowadzenia operacji wojskowej są odznaczenia wojskowe o charakterze pamiątkowym mające w nazwie wyraz „Gwiazda” i nazwę państwa lub nazwę geograficzną terenu działania kontyngentu albo prowadzenia operacji wojskowej, bądź określenia sposobu działania kontyngentu.
@@ -173,7 +173,6 @@ w służbie Państwa jest Medal za Długoletnią Służbę.
 2) może wystąpić do Prezydenta z inicjatywą nadania orderu lub jego pozbawienia;
 3) zapoznaje się z projektami aktów normatywnych dotyczących orderu;
 4) może występować do organów uprawnionych o podjęcie inicjatywy ustawodawczej w sprawach dotyczących orderu.
-uchwały:
 1) o pozytywnym zaopiniowaniu wniosku;
 2) stwierdzające, że przedstawiony wniosek nie uzasadnia nadania lub pozbawienia orderu lub że wniosek nie może zostać uwzględniony z powodu niezgodności z obowiązującymi przepisami prawa.
 2. Kapituła może przed wydaniem ostatecznej opinii zwrócić się do wnioskodawcy o uzupełnienie wniosku.

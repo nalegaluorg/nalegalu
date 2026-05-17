@@ -8,9 +8,12 @@ pos: 1816
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2022 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o substancjach chemicznych ich mieszaninach
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 lipca 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001816) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1816/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 lipca 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o substancjach chemicznych ich mieszaninach
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych ich mieszaninach (Dz. U. z 2020 r. poz. 2289), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 lipca 2022 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 19 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151), które stanowią: „ Niniejsza ustawa zakresie swojej regulacji wdraża:
 1) dyrektywę 94/62/WE Parlamentu Europejskiego Rady z dnia 20 grudnia 1994 r. sprawie opakowań odpadów opakowaniowych (Dz. Urz. WE L 365 z 31.12.1994, str. 10, Dz. Urz. UE L 284 z 31.10.2003, str. 1, Dz. Urz. UE L 47 z 18.02.2004, str. 26, Dz. Urz. UE L 70 z 16.03.2005, str. 17, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 37 z 08.02.2013, str. 10, Dz. Urz. UE L 115 z 06.05.2015, str. 11 oraz Dz. Urz.
@@ -146,7 +147,7 @@ Art. 65–84. (pominięte)
 - **1)** gromadzenie danych dotyczących mieszanin stwarzających zagrożenie;
 - **2)** udostępnianie danych dotyczących mieszanin stwarzających zagrożenie służbom medycznym ratowniczym;
 - **3)** pełnienie funkcji:
-    - **a)** właściwego organu wyznaczonego do wykonywania, określonych przepisach Unii Europejskiej, zadań administracyjnych dotyczących wywozu przywozu niebezpiecznych chemikaliów współpraca tym zakresie z innymi państwami członkowskimi Unii Europejskiej oraz z Komisją Europejską, stracyjnych dotyczących detergentów współpraca tym zakresie z innymi państwami członkowskimi Unii Europejskiej, Konfederacją Szwajcarską lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronami umowy o Europejskim Obszarze Gospodarczym oraz Komisją Europejską,
+    - **a)** właściwego organu wyznaczonego do wykonywania, określonych przepisach Unii Europejskiej, zadań administracyjnych dotyczących wywozu przywozu niebezpiecznych chemikaliów współpraca tym zakresie z innymi państwami członkowskimi Unii Europejskiej oraz z Komisją Europejską, pejskiej, Konfederacją Szwajcarską lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronami umowy o Europejskim Obszarze Gospodarczym oraz Komisją Europejską,
     - **c)** właściwego organu określonego art. 8 rozporządzenia nr 648/2004, art. 121 rozporządzenia nr 1907/2006, art. 43 rozporządzenia nr 1272/2008 odpowiedzialnego za wnioski dotyczące zharmonizowanej klasyfikacji zharmonizowanego oznakowania art. 45 tego rozporządzenia oraz wyznaczonego organu krajowego określonego art. 4 rozporządzenia nr 649/2012,
     - **d)** właściwego organu wyznaczonego do wykonywania zadań z zakresu dokonywania rejestracji, o której mowa art. 3 ust. 6 rozporządzenia (WE) nr 273/2004 Parlamentu Europejskiego Rady z dnia 11 lutego 2004 r. sprawie prekursorów narkotykowych (Dz. Urz. UE L 47 z 18.02.2004, str. 1 Dz. Urz. UE Polskie wydanie specjalne rozdz. 15, t. 8, str. 46, z późn. zm. ), oraz rejestracji, o której mowa art. 7 rozporządzenia Rady (WE) nr 111/2005 z dnia 22 grudnia 2004 r. określającego zasady nadzorowania handlu prekursorami narkotyków pomiędzy Unią a państwami trzecimi (Dz. Urz. UE L 22 z 26.01.2005, str. 1, z późn. zm. );
 
@@ -174,7 +175,7 @@ Art. 65–84. (pominięte)
 
 **Art. 16.**
 
-1. W przypadku gdy przepisy wydane na podstawie ustawy, przepisy rozporządzeń wymienionych art. 1 ust. 1 albo przepisy odrębne wymagają wykonania badań substancji lub ich mieszanin zgodnie z zasadami Dobrej Praktyki Laboratoryjnej, badania takie są wykonywane jednostkach organizacyjnych wykonujących badania substancji lub ich mieszanin, posiadających certyfikat Dobrej Praktyki Laboratoryjnej wpisanych do wykazu jednostek badawczych certyfikowanych zakresie Dobrej Praktyki Laboratoryjnej, zwanych dalej „certyfikowanymi jednostkami badawczymi”. zwaną dalej „jednostką badawczą”, zasad Dobrej Praktyki Laboratoryjnej celu uzyskania przez tę jednostkę certyfikatu Dobrej Praktyki Laboratoryjnej wpisu jej do wykazu certyfikowanych jednostek badawczych następują na wniosek tej jednostki.
+1. W przypadku gdy przepisy wydane na podstawie ustawy, przepisy rozporządzeń wymienionych art. 1 ust. 1 albo przepisy odrębne wymagają wykonania badań substancji lub ich mieszanin zgodnie z zasadami Dobrej Praktyki Laboratoryjnej, badania takie są wykonywane jednostkach organizacyjnych wykonujących badania substancji lub ich mieszanin, posiadających certyfikat Dobrej Praktyki Laboratoryjnej wpisanych do wykazu jednostek badawczych certyfikowanych zakresie Dobrej Praktyki Laboratoryjnej, zwanych dalej „certyfikowanymi jednostkami badawczymi”. Dobrej Praktyki Laboratoryjnej wpisu jej do wykazu certyfikowanych jednostek badawczych następują na wniosek tej jednostki.
 
 3. Jednostką właściwą do kontroli weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostki badawcze jest Biuro. Kontroli weryfikacji dokonują inspektorzy Dobrej Praktyki Laboratoryjnej, każdorazowo wyznaczeni przez Prezesa Biura spośród pracowników Biura, którym Prezes Biura zapewnia okresowe szkolenia, tym szkolenia organizowane przez OECD. W uzasadnionych przypadkach, gdy wymaga tego specyfika jednostki badawczej lub wykonywanych badań, kontroli weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostkę badawczą mogą wziąć udział inne osoby wyznaczone przez Prezesa Biura.
 
@@ -206,7 +207,7 @@ Art. 65–84. (pominięte)
 
 - **1)** nazwisko imię oraz numer dokumentu potwierdzającego tożsamość inspektora Dobrej Praktyki Laboratoryjnej lub osoby, o której mowa ust. 3, dokonującej kontroli weryfikacji;
 - **2)** nazwę jednostki badawczej albo certyfikowanej jednostki badawczej, której jest dokonywana kontrola weryfikacja;
-- **3)** datę przeprowadzenia kontroli weryfikacji, określenie ich zakresu przewidywanego czasu trwania. są uprawnieni do:
+- **3)** datę przeprowadzenia kontroli weryfikacji, określenie ich zakresu przewidywanego czasu trwania.
 - **1)** wstępu na teren nieruchomości, obiektów lokali jednostki badawczej albo certyfikowanej jednostki badawczej, której jest dokonywana kontrola weryfikacja, dniach godzinach jej pracy;
 - **2)** wglądu do dokumentacji, tym do danych źródłowych, oraz żądania informacji wyjaśnień dotyczących wykonywanych przez jednostkę badawczą albo certyfikowaną jednostkę badawczą badań substancji lub ich mieszanin.
 
@@ -237,7 +238,7 @@ Art. 65–84. (pominięte)
 1. Kontrola weryfikacja spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostki badawcze przypadku, o którym mowa w:
 
 - **1)** art. 16 ust. 2 podlegają opłacie jednorazowej, której dowód uiszczenia jednostka badawcza przedkłada wraz z wnioskiem o wydanie certyfikatu wpis do wykazu certyfikowanych jednostek badawczych;
-- **2)** art. 16 ust. 7 podlegają stałej opłacie rocznej. o której mowa ust. 1 pkt 1, staje się opłatą roczną, o której mowa ust. 1 pkt 2, za rok, którym jednostka badawcza uzyskała certyfikat.
+- **2)** art. 16 ust. 7 podlegają stałej opłacie rocznej. uzyskała certyfikat.
 
 3. Opłaty, o których mowa ust. 1, nie mogą być wyższe niż rzeczywiste koszty ponoszone przez Biuro związku z przeprowadzeniem odpowiedniej kontroli weryfikacji lub wydaniem certyfikatu.
 
@@ -281,7 +282,7 @@ Art. 65–84. (pominięte)
 1. Minister właściwy do spraw gospodarki, na wniosek ministra właściwego do spraw zdrowia, ministra właściwego do spraw klimatu, ministra właściwego do spraw rolnictwa lub ministra właściwego do spraw gospodarki wodnej, przypadku stwierdzenia, że produkcja, obrót lub stosowanie substancji stwarzającej zagrożenie lub mieszaniny stwarzającej zagrożenie stwarzają nieuzasadnione ryzyko dla zdrowia człowieka lub środowiska, lub gdy wynika to z porozumień międzynarodowych określi, drodze rozporządzenia, ograniczenia:
 
 - **1)** produkcji, obrotu lub stosowania takiej substancji lub mieszaniny,
-- **2)** wprowadzania do obrotu lub stosowania wyrobów zawierających taką substancję lub mieszaninę uwzględniając szczególności zastosowania takiej substancji lub mieszaniny, stosowanie stężeniu lub proporcjach przewyższających określony poziom, występowanie określonych stężeniach lub ilościach określonych wyrobach. podarki może określić, drodze rozporządzenia, sposób stosowania ograniczeń wyszczególnionych tym załączniku, uwzględniając cele tych ograniczeń.
+- **2)** wprowadzania do obrotu lub stosowania wyrobów zawierających taką substancję lub mieszaninę uwzględniając szczególności zastosowania takiej substancji lub mieszaniny, stosowanie stężeniu lub proporcjach przewyższających określony poziom, występowanie określonych stężeniach lub ilościach określonych wyrobach. uwzględniając cele tych ograniczeń.
 
 **Art. 27.**
 
@@ -323,7 +324,7 @@ Art. 65–84. (pominięte)
 
 2. Tej samej karze podlega, kto wbrew przepisom art. 10 ust. 1 rozporządzenia nr 649/2012 nie informuje pierwszym kwartale każdego roku Prezesa Biura o wielkości wywozu przywozu roku poprzednim chemikaliów postaci substancji lub substancji zawartych mieszaninach lub wyrobach wymienionych załączniku I do tego rozporządzenia.
 
-3. Karze określonej ust. 1 podlega, kto wbrew przepisom art. 17 rozporządzenia nr 649/2012 dokonuje wywozu chemikaliów bez stosowanego Unii Europejskiej oznakowania lub bez wymaganej karty charakterystyki. wprowadza do obrotu środek powierzchniowo czynny przeznaczony do stosowania detergentach lub detergent zawierający środek powierzchniowo czynny, niespełniający warunków określonych art. 4 ust. 3 tego rozporządzenia, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+3. Karze określonej ust. 1 podlega, kto wbrew przepisom art. 17 rozporządzenia nr 649/2012 dokonuje wywozu chemikaliów bez stosowanego Unii Europejskiej oznakowania lub bez wymaganej karty charakterystyki. jący środek powierzchniowo czynny, niespełniający warunków określonych art. 4 ust. 3 tego rozporządzenia, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
 2. Tej samej karze podlega, kto wbrew warunkom odstępstwa udzielonego na podstawie art. 5 rozporządzenia nr 648/2004 wprowadza do obrotu lub stosuje środek powierzchniowo czynny przeznaczony do stosowania detergentach lub detergent zawierający środek powierzchniowo czynny.
 
@@ -387,7 +388,7 @@ Art. 65–84. (pominięte)
 
 2. Tej samej karze podlega, kto wbrew przepisom art. 7 ust. 2 3 rozporządzenia nr 1272/2008 przeprowadza badania na naczelnych innych niż ludzie albo badania na ludziach.
 
-3. Karze określonej ust. 1 podlega, kto przeprowadza nowe badania na zwierzętach kręgowych celu uzyskania informacji dotyczących substancji mieszanin wbrew art. 8 ust. 1 rozporządzenia nr 1272/2008. nie dostarcza wymaganej karty charakterystyki sporządzonej zgodnie z załącznikiem II do tego rozporządzenia, podlega karze grzywny.
+3. Karze określonej ust. 1 podlega, kto przeprowadza nowe badania na zwierzętach kręgowych celu uzyskania informacji dotyczących substancji mieszanin wbrew art. 8 ust. 1 rozporządzenia nr 1272/2008. podlega karze grzywny.
 
 2. Tej samej karze podlega dostawca substancji lub mieszaniny, który wbrew przepisowi art. 31 ust. 9 rozporządzenia nr 1907/2006 dostarcza niezaktualizowaną kartę charakterystyki.
 
@@ -433,7 +434,7 @@ Art. 65–84. (pominięte)
 
 1. Rejestrujący, który wbrew decyzji Agencji podjętej na podstawie art. 41 ust. 3 rozporządzenia nr 1907/2006 nie przedstawia ustalonym terminie informacji wymaganych do zapewnienia zgodności dokumentów rejestracyjnych z przepisami tego rozporządzenia, podlega karze grzywny.
 
-2. Tej samej karze podlega rejestrujący, który wbrew decyzji Agencji podjętej na podstawie art. 46 ust. 1 rozporządzenia nr 1907/2006 nie dostarcza Agencji ustalonym terminie wymaganych dalszych informacji. nym tym przepisie nie zgłasza do Agencji stosowania substancji, o której mowa art. 56 ust. 2 tego rozporządzenia, podlega karze grzywny.
+2. Tej samej karze podlega rejestrujący, który wbrew decyzji Agencji podjętej na podstawie art. 46 ust. 1 rozporządzenia nr 1907/2006 nie dostarcza Agencji ustalonym terminie wymaganych dalszych informacji. podlega karze grzywny.
 
 **Art. 61.**
 
@@ -467,7 +468,7 @@ Art. 65–84. (pominięte)
 
 4. Statut Biura do Spraw Substancji Preparatów Chemicznych utworzonego na podstawie dotychczasowych przepisów zachowuje moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 13 ust. 2 ustawy, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie ustawy.
 
-**Art. 86.** Ilekroć odrębnych przepisach jest mowa o Inspektorze do Spraw Substancji Preparatów Chemicznych lub Biurze do Spraw Substancji Preparatów Chemicznych, rozumie się przez to, odpowiednio, Inspektora do spraw Substancji Chemicznych lub Biuro do spraw Substancji Chemicznych. przepisy dotychczasowe. 2. Opłatę, o której mowa art. 17 ust. 1 pkt 2, po raz pierwszy wnosi się po upływie czasu, na jaki została wniesiona opłata pobierana na podstawie dotychczasowych przepisów. 3. Certyfikaty potwierdzające spełnianie przez jednostkę badawczą zasad Dobrej Praktyki Laboratoryjnej, wydane na podstawie decyzji Inspektora do Spraw Substancji Preparatów Chemicznych przed dniem wejścia życie ustawy, zachowują ważność na czas, na jaki zostały wydane. 4. Pierwszy wykaz certyfikowanych jednostek badawczych, o którym mowa art. 16 ust. 1, obejmuje jednostki, które uzyskały certyfikaty potwierdzające spełnianie zasad Dobrej Praktyki Laboratoryjnej przed dniem wejścia życie ustawy.
+**Art. 86.** Ilekroć odrębnych przepisach jest mowa o Inspektorze do Spraw Substancji Preparatów Chemicznych lub Biurze do Spraw Substancji Preparatów Chemicznych, rozumie się przez to, odpowiednio, Inspektora do spraw Substancji Chemicznych lub Biuro do spraw Substancji Chemicznych. 2. Opłatę, o której mowa art. 17 ust. 1 pkt 2, po raz pierwszy wnosi się po upływie czasu, na jaki została wniesiona opłata pobierana na podstawie dotychczasowych przepisów. 3. Certyfikaty potwierdzające spełnianie przez jednostkę badawczą zasad Dobrej Praktyki Laboratoryjnej, wydane na podstawie decyzji Inspektora do Spraw Substancji Preparatów Chemicznych przed dniem wejścia życie ustawy, zachowują ważność na czas, na jaki zostały wydane. 4. Pierwszy wykaz certyfikowanych jednostek badawczych, o którym mowa art. 16 ust. 1, obejmuje jednostki, które uzyskały certyfikaty potwierdzające spełnianie zasad Dobrej Praktyki Laboratoryjnej przed dniem wejścia życie ustawy.
 
 **Art. 88.** Przepisy wykonawcze wydane na podstawie:
 

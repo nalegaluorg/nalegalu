@@ -1,0 +1,200 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2021 r. zmieniające rozporządzenie w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu"
+address: WDU20210001866
+eli: DU/2021/1866
+publisher: DU
+year: 2021
+pos: 1866
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 października 2021 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 1866 |
+| ISAP | WDU20210001866 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2021-09-16 |
+| Data wydania | 2021-10-15 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001866) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1866/text.pdf) |
+
+ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 16 września 2021 r.
+zmieniające rozporządzenie w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu Na podstawie art. 71 ust. 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 974 i 981) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 3 kwietnia 2008 r. w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu (Dz. U. z 2015 r. poz. 1382, z 2016 r. poz. 653 oraz z 2018 r. poz. 1736) załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Rolnictwa i Rozwoju Wsi: G. Puda KRYTERIA KLASYFIKACJI PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH DO WYKAZU PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH, KTÓRE MOGĄ BYĆ PRZEDMIOTEM OBROTU PRZEZ PODMIOTY Międzynarodowa Docelowe Lp. nazwa substancji Postać Droga podania Dawka gatunki czynnej zwierząt 1 Indoxacarbum roztwór do nakrapiania na skórę 195 mg/ml pies 2 Indoxacarbum + roztwór do nakrapiania na skórę 150 mg + 480 mg pies Permethrinum 3 Indoxacarbum + roztwór do nakrapiania na skórę 300 mg + 960 mg pies Permethrinum 4 Indoxacarbum + roztwór do nakrapiania na skórę 600 mg + 1920 mg pies Permethrinum 5 Indoxacarbum + roztwór do nakrapiania na skórę 900 mg + 2880 mg pies Permethrinum 6 Imidaclopridum roztwór do nakrapiania przez nakrapianie 100 mg/ml kot 7 Imidaclopridum + roztwór do nakrapiania na skórę (40 mg + 200 mg)/0,4 ml pies Permethrinum 8 Imidaclopridum + roztwór do nakrapiania na skórę (100 mg + 500 mg)/ml pies Permethrinum 9 Imidaclopridum + roztwór do nakrapiania na skórę (250 mg + 1250 mg)/2,5 ml pies Permethrinum 10 Imidaclopridum + roztwór do nakrapiania na skórę (400 mg + 2000 mg)/4 ml pies Permethrinum 11 Fipronilum roztwór do nakrapiania przez nakrapianie 50 mg/pipetę 0,50 ml kot 12 Fipronilum roztwór do nakrapiania przez nakrapianie 67 mg/pipetę 0,67 ml pies 13 Fipronilum roztwór do nakrapiania przez nakrapianie 134 mg/pipetę 1,34 ml pies 14 Fipronilum roztwór do nakrapiania przez nakrapianie 268 mg/pipetę 2,68 ml pies 15 Fipronilum roztwór do nakrapiania przez nakrapianie 402 mg/pipetę 4,02 ml pies Fipronilum + 50 mg/0,5 ml + 16 S-methoprenum roztwór do nakrapiania przez nakrapianie 60 mg/0,5 ml kot, fretka 17 Fipronilum + roztwór do nakrapiania przez nakrapianie 67 mg/0,67 ml + pies S-methoprenum 60,3 mg/0,67 ml 18 Fipronilum + roztwór do nakrapiania przez nakrapianie 134 mg/1,34 ml + pies S-methoprenum 120,6 mg/1,34 ml 19 Fipronilum + roztwór do nakrapiania przez nakrapianie 268 mg/2,68 ml + pies S-methoprenum 241,2 mg/2,68 ml 20 Fipronilum + roztwór do nakrapiania przez nakrapianie 402 mg/4,02 ml + pies S-methoprenum 361,8 mg/4,02 ml 230 mg (co odpowiada 21 Pyranteli embonas + tabletka powlekana podanie doustne 80 mg pyrantelu) + kot Praziquantelum 20 mg/tabletkę 22 Permethrinum + roztwór do nakrapiania przez nakrapianie 200 mg + 40 mg pies Imidaclopramidum 23 Permethrinum + roztwór do nakrapiania przez nakrapianie 500 mg + 100 mg pies Imidaclopramidum 24 Permethrinum + roztwór do nakrapiania przez nakrapianie 1250 mg + 250 mg pies Imidaclopramidum 25 Permethrinum + roztwór do nakrapiania przez nakrapianie 2000 mg + 400 mg pies Imidaclopramidum 26 Deltamethrinum obroża podanie na skórę 0,77 g/obrożę pies 27 Deltamethrinum obroża podanie na skórę 1,04 g/obrożę pies 28 Pyranteli embonas + tabletka do rozgryzania podanie doustne 80 mg + 20 mg kot Praziquantelum i żucia 29 embonas Praziquantelum + Fenbendazolum + Pyranteli tabletka i do żucia rozgryzania podanie doustne 50 mg + 144 mg + 200 mg pies 30 Chlorhexidini digluconatis szampon leczniczy podanie na skórę 31,2 mg/ml pies solutio 31 Fipronilum roztwór do nakrapiania przez nakrapianie 50 mg/pipetkę 0,5 ml kot 32 Fipronilum roztwór do nakrapiania przez nakrapianie 67 mg/pipetkę 0,67 ml pies 33 Fipronilum roztwór do nakrapiania przez nakrapianie 134 mg/pipetkę 1,34 ml pies 34 Fipronilum roztwór do nakrapiania przez nakrapianie 268 mg/pipetkę 2,68 ml pies 35 Fipronilum roztwór do nakrapiania przez nakrapianie 402 mg/pipetkę 5,02 ml pies 36 Fipronilum roztwór do nakrapiania przez nakrapianie 50 mg/pipetę kot 37 Fipronilum roztwór do nakrapiania przez nakrapianie 67 mg/pipetę pies 38 Fipronilum roztwór do nakrapiania przez nakrapianie 134 mg/pipetę pies 39 Fipronilum roztwór do nakrapiania przez nakrapianie 268 mg/pipetę pies 40 Fipronilum roztwór do nakrapiania przez nakrapianie 402 mg/pipetę pies 41 Oxalic acid dihydrate proszek i roztwór do sporządzania zawiesiny w ulu 39,4 mg/ml pszczoła miodna 0,636 g/obrożę 35 cm 42 Deltamethrinum obroża lecznicza podanie na skórę (51,90 g) pies 43 Deltamethrinum obroża lecznicza podanie na skórę 1,056 g/obrożę 60 cm pies (26,40 g) 44 Deltamethrinum obroża lecznicza podanie na skórę 1,304 g/obrożę pies 45 Fipronilum roztwór do nakrapiania przez nakrapianie 50 mg/0,5 ml kot 46 Fipronilum roztwór do nakrapiania przez nakrapianie 67 mg/0,67 ml pies 47 Fipronilum roztwór do nakrapiania przez nakrapianie 134 mg/1,34 ml pies 48 Fipronilum roztwór do nakrapiania przez nakrapianie 268 mg/2,68 ml pies 49 Fipronilum roztwór do nakrapiania przez nakrapianie 402 mg/4,02 ml pies 50 Permethrinum roztwór do nakrapiania przez nakrapianie 715 mg/pipetkę 1 ml pies 51 Permethrinum roztwór do nakrapiania przez nakrapianie 1430 mg/pipetkę 2 ml pies 52 Praziquantelum + roztwór do nakrapiania przez nakrapianie (30 mg + 7,5 mg)/pipetkę kot Emodepsidum 0,35 ml 53 Praziquantelum + roztwór do nakrapiania przez nakrapianie (60 mg + 15 mg)/pipetkę kot Emodepsidum 0,70 ml 54 Praziquantelum + roztwór do nakrapiania przez nakrapianie (96 mg + 24 mg)/pipetkę kot Emodepsidum 1,12 ml Febantelum + 55 Praziquantelum + Pyranteli tabletka podanie doustne 150 mg + 50 mg + 50 mg pies embonas Febantelum + Pyranteli 56 embonas + tabletka podanie doustne 525 mg + 504 mg + 175 mg pies Praziquantelum Pyranteli 57 embonas + Praziquantelum tabletka powlekana podanie doustne 230 mg + 20 mg kot 58 Permethrinum + roztwór do nakrapiania podanie na skórę (800 mg + 6 mg)/2 ml pies Pyriproxyfenum 59 Permethrinum + roztwór do nakrapiania podanie na skórę 1600 mg + 12 mg pies Pyriproxyfenum Permethrinum + 60 Pyriproxyfenum roztwór do nakrapiania podanie na skórę 3200 mg + 24 mg pies 61 Fipronilum aerozol na skórę na skórę 2,5 mg/pipetkę pies, kot 62 Fipronilum roztwór do nakrapiania na skórę 50 mg/pipetkę kot 63 Fipronilum pasta doustna na skórę 67 mg/pipetkę pies 64 Fipronilum roztwór do nakrapiania na skórę 134 mg/pipetkę pies 65 Fipronilum roztwór do nakrapiania na skórę 286 mg/pipetkę pies 66 Fipronilum roztwór do nakrapiania na skórę 402 mg/pipetkę pies 67 Fipronilum + Permethrinum roztwór do nakrapiania podanie na skórę (26,84 mg + 239,8 mg)/ pies pipetkę 0,44 ml 68 Fipronilum + Permethrinum roztwór do nakrapiania podanie na skórę (67,1 mg + 599,5 mg)/ pies pipetkę 1,1 ml 69 Fipronilum + Permethrinum roztwór do nakrapiania podanie na skórę (134,2 mg + 1199,0 mg)/ pies pipetkę 2,2 ml 70 Fipronilum + Permethrinum roztwór do nakrapiania podanie na skórę (268,4 mg + 2398,0 mg)/ pies pipetkę 4,4 ml 71 Fipronilum + Permethrinum roztwór do nakrapiania podanie na skórę (402,6 mg + 3597,0 mg)/ pies pipetkę 6,6 ml 72 Permethrinum roztwór do nakrapiania na skórę 715 mg/ml pies 73 Fipronilum + roztwór do nakrapiania na skórę 50 mg/0,5 ml + fretka, kot (S)-methoprenum 60 mg/0,5 ml Fipronilum + (67 mg + 60,03 mg)/ 74 (S)-methoprenum roztwór do nakrapiania na skórę pipetkę 0,67 ml pies 75 Fipronilum + roztwór do nakrapiania na skórę (134 mg + 120,60 mg)/ pies (S)-methoprenum pipetkę 1,34 ml 76 Fipronilum + roztwór do nakrapiania na skórę 268 mg/2,68 ml + pies (S)-methoprenum 241,2 mg/2,68 ml 77 Fipronilum + roztwór do nakrapiania na skórę 402 mg/4,02 ml + pies (S)-methoprenum 361,8 mg/4,02 ml 78 Fipronilum + Methoprenum roztwór do nakrapiania przez nakrapianie (50 mg + 60 mg)/ kot, fretka pipetkę 0,5 ml 79 Fipronilum + Methoprenum roztwór do nakrapiania przez nakrapianie (268 mg + 241,20 mg)/ pies pipetkę 2,68 ml 80 Fipronilum + Methoprenum roztwór do nakrapiania przez nakrapianie (134 mg + 120,60 mg)/ pies pipetkę 1,34 ml 81 Fipronilum + Methoprenum roztwór do nakrapiania przez nakrapianie (67 mg + 60,30 mg)/ pies pipetkę 0,67 ml 82 Fipronilum + Methoprenum roztwór do nakrapiania przez nakrapianie (402 mg + 361,80 mg)/ pies pipetkę 4,02 ml 83 Fipronilum roztwór do nakrapiania na skórę 52,5 mg/0,7 ml kot 84 Fipronilum roztwór do nakrapiania na skórę 150 mg/2 ml pies 85 Fipronilum roztwór do nakrapiania na skórę 75 mg/ml pies 86 Fipronilum roztwór do nakrapiania na skórę 300 mg/4 ml pies 87 Fipronilum roztwór do nakrapiania na skórę 412,5 mg/5,5 ml pies 88 Fipronilum roztwór na skórę na skórę 0,5 g/100 ml pies, kot 89 Fipronilum roztwór do nakrapiania na skórę 50,00 mg kot 90 Fipronilum roztwór do nakrapiania na skórę 268 mg pies 91 Fipronilum roztwór do nakrapiania na skórę 134 mg pies 92 Fipronilum roztwór do nakrapiania na skórę 67 mg pies 93 Fipronilum roztwór do nakrapiania na skórę 402 mg pies 94 Fipronilum roztwór do nakrapiania na skórę 50 mg/pipetę kot 95 Fipronilum roztwór do nakrapiania na skórę 67 mg/pipetę pies 96 Fipronilum roztwór do nakrapiania na skórę 134 mg/pipetę pies 97 Fipronilum roztwór do nakrapiania na skórę 268 mg/pipetę pies 98 Fipronilum roztwór do nakrapiania na skórę 402 mg/pipetę pies 99 Fipronilum aerozol na skórę, na skórę 2,5 mg/ml kot, pies roztwór 100 Fipronilum roztwór do nakrapiania przez nakrapianie 50 mg/0,5 ml kot 101 Fipronilum roztwór do nakrapiania przez nakrapianie 67 mg/0,67 ml pies 102 Fipronilum roztwór do nakrapiania przez nakrapianie 134 mg/1,34 ml pies 103 Fipronilum roztwór do nakrapiania przez nakrapianie 268 mg/2,68 ml pies 104 Fipronilum roztwór do nakrapiania przez nakrapianie 402 mg/4,02 ml pies 105 Imidaclopridum, obroża na skórę (1,25 g + 0,56 g)/obrożę kot, pies Flumethrinum 106 Imidaclopridum, obroża na skórę (4,5 g + 2,03 g)/obrożę pies Flumethrinum 107 Fipronilum + Methoprenum roztwór do nakrapiania na skórę (50 mg + 60 mg)/0,5 ml kot, fretka (spot-on) 108 Fipronilum + Methoprenum roztwór do nakrapiania na skórę (67 mg + 60,3 mg)/ pies (spot-on) 0,67 ml 109 Fipronilum + Methoprenum roztwór do nakrapiania na skórę (134 mg + 120,6 mg)/ pies (spot-on) 1,34 ml roztwór do nakrapiania (268 mg + 241,2 mg)/ 110 Fipronilum + Methoprenum (spot-on) na skórę 2,68 ml pies 111 Fipronilum + Methoprenum roztwór do nakrapiania na skórę (402 mg + 361,8 mg)/ pies (spot-on) 4,02 ml 112 Fipronilum roztwór do nakrapiania przez nakrapianie 50 mg/0,50 ml kot 113 Fipronilum roztwór do nakrapiania przez nakrapianie 268 mg/2,68 ml pies 114 Fipronilum roztwór do nakrapiania przez nakrapianie 134 mg/1,34 ml pies 115 Fipronilum roztwór do nakrapiania przez nakrapianie 67 mg/0,67 ml pies 116 Fipronilum roztwór do nakrapiania przez nakrapianie 402 mg/4,02 ml pies 117 Fipronilum aerozol natryskowy na skórę 250 mg/100 ml pies, kot 118 Fipronilum + Permethrinum roztwór do nakrapiania na skórę (33,8 mg + 252,4 mg)/ pies pipetę 119 Fipronilum + Permethrinum roztwór do nakrapiania na skórę (67,6 mg + 504,8 mg)/ pies pipetę 120 Fipronilum + Permethrinum roztwór do nakrapiania na skórę (135,2 mg + 1009,6 mg)/ pies pipetę 121 Fipronilum + Permethrinum roztwór do nakrapiania na skórę (270,4 mg + 2019,2 mg)/ pies pipetę 122 Fipronilum + Permethrinum roztwór do nakrapiania na skórę (406,6 mg + 3028,8 mg)/ pies pipetę 123 Fipronilum aerozol na skórę, na skórę 2,5 mg/ml pies, kot roztwór 124 Fipronilum roztwór do nakrapiania na skórę 50 mg/pipetkę 0,5 ml kot 125 Fipronilum roztwór do nakrapiania na skórę 67 mg/pipetkę 0,67 ml pies 126 Fipronilum roztwór do nakrapiania na skórę 134 mg/pipetkę 1,34 ml pies 127 Fipronilum roztwór do nakrapiania na skórę 268 mg/pipetkę 2,68 ml pies 128 Fipronilum roztwór do nakrapiania na skórę 402 mg/pipetkę 4,02 ml pies 129 Fipronilum + roztwór do nakrapiania na skórę (50 mg + 60 mg)/pipetę kot, fretka (S)-methoprenum 130 Fipronilum + (S)-methoprenum roztwór do nakrapiania na skórę (67 mg + 60,3 mg)/pipetę pies Fipronilum + (134 mg + 120,6 mg)/ 131 (S)-methoprenum roztwór do nakrapiania na skórę pipetę pies 132 Fipronilum + roztwór do nakrapiania na skórę (268 mg + 241,2 mg)/ pies (S)-methoprenum pipetę 133 Fipronilum + roztwór do nakrapiania na skórę (402 mg + 361,8 mg)/ pies (S)-methoprenum pipetę 134 Praziquantelum + Pyranteli tabletka podanie doustne 50 mg + 144 mg + 200 mg pies embonas + Febendazolum 135 Permethrinum proszek na skórę 10 mg/ml gołąb, pies 136 Propoxur + Flumethrin obroża zewnętrznie 1,25 g + 0,28 g pies 137 Propoxur + Flumethrin obroża zewnętrznie 0,68 g + 3,02 g pies 138 Propoxur + Flumethrin obroża zewnętrznie 1,013 g + 4,5 g pies 139 Oxalic acid dihydrate proszek i roztwór do w ulu 39,4 mg pszczoła sporządzania zawiesiny miodna 140 Pyriprole roztwór do nakrapiania na skórę 56,25 mg pies 141 Pyriprole roztwór do nakrapiania na skórę 137,5 mg pies 142 Pyriprole roztwór do nakrapiania na skórę 275 mg pies 143 Pyriprole roztwór do nakrapiania na skórę 625 mg pies 144 Pyrantel embonate pasta doustna doustne 9,3 g/100 g kot 145 Pyranteli embonas pasta doustna doustne 2,2 g/100 g pies 146 Deltamethrinum obroża podanie na skórę 0,760 g pies 147 Deltamethrinum obroża podanie na skórę 1,000 g pies 148 Fipronilum roztwór do nakrapiania na skórę 50 mg/0,5 ml kot 149 Fipronilum roztwór do nakrapiania na skórę 67 mg/0,67 ml pies 150 Fipronilum roztwór do nakrapiania na skórę 134 mg/1,34 ml pies 151 Fipronilum roztwór do nakrapiania na skórę 268 mg/2,68 ml pies 152 Fipronilum roztwór do nakrapiania na skórę 402 mg/4,02 ml pies 153 Formic acid dihydrate + Oxalic acid zawiesina do ula w ulu (5 mg + 44 mg)/ml pszczoła miodna 154 Formic acid + Oxalic acid zawiesina do ula w ulu (75 mg + 660 mg)/ml pszczoła dihydrate miodna Dinotefuranum + (44 mg + 3,9 mg + 155 Pyriproxyfenum + roztwór do nakrapiania na skórę 317 mg)/przyrząd pies Permetrinum Dinotefuranum + 156 Pyriproxyfenum + Permetrinum roztwór do nakrapiania na skórę (87 mg + 7,7 mg + 635 mg)/przyrząd pies Dinotefuranum + (196 mg + 17,4 mg + 157 Pyriproxyfenum + roztwór do nakrapiania na skórę 1429 mg)/przyrząd pies Permetrinum Dinotefuranum + 158 Pyriproxyfenum + roztwór do nakrapiania na skórę (256 mg + 22,7 mg + pies Permetrinum 1865 mg)/przyrząd Dinotefuranum + (436 mg + 38,7 mg + 159 Pyriproxyfenum + roztwór do nakrapiania na skórę 3175 mg)/przyrząd pies Permetrinum 160 Dinotefuranum + roztwór do nakrapiania na skórę (423 mg + 42,3 mg)/ kot Pyriproxyfenum przyrząd WYKAZ PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH, KTÓRE MOGĄ BYĆ PRZEDMIOTEM OBROTU PRZEZ PODMIOTY
+1. Activyl 100 roztwór do nakrapiania dla bardzo małych psów
+2. Activyl 150 roztwór do nakrapiania dla małych psów
+3. Activyl 300 roztwór do nakrapiania dla średnich psów
+4. Activyl 600 roztwór do nakrapiania dla dużych psów
+5. Activyl 900 roztwór do nakrapiania dla bardzo dużych psów
+6. Activyl Tick Plus 150 mg + 480 mg roztwór do nakrapiania na skórę dla psa
+7. Activyl Tick Plus 300 mg + 960 mg roztwór do nakrapiania na skórę dla psa
+8. Activyl Tick Plus 600 mg + 1920 mg roztwór do nakrapiania na skórę dla psa
+9. Activyl Tick Plus 900 mg + 2880 mg roztwór do nakrapiania na skórę dla psa
+10. Advantage 40 dla kotów, roztwór do nakrapiania
+11. Advantage 80 dla kotów, roztwór do nakrapiania
+12. Advantix Spot-On (40 mg + 200 mg)/0,4 ml, roztwór do nakrapiania
+13. Advantix Spot-On (100 mg + 500 mg)/1 ml, roztwór do nakrapiania
+14. Advantix Spot-On (250 mg + 1250 mg)/2,5 ml, roztwór do nakrapiania
+15. Advantix Spot-On (400 mg + 2000 mg)/4 ml, roztwór do nakrapiania
+16. Amflee 50 mg, roztwór do nakrapiania dla kotów
+17. Amflee 67 mg, roztwór do nakrapiania dla psów
+18. Amflee 134 mg, roztwór do nakrapiania dla psów
+19. Amflee 268 mg, roztwór do nakrapiania dla psów
+20. Amflee 402 mg, roztwór do nakrapiania dla psów
+21. Amflee Combo 50 mg/0,5 ml + 60 mg/0,5 ml, roztwór do nakrapiania dla kotów i fretek
+22. Amflee Combo 67 mg/0,67 ml + 60,3 mg/0,67 ml, roztwór do nakrapiania dla psów
+23. Amflee Combo 134 mg/1,34 ml + 120,6 mg/1,34 ml, roztwór do nakrapiania dla psów
+24. Amflee Combo 268 mg/2,68 ml + 241,2 mg/2,68 ml, roztwór do nakrapiania dla psów
+25. Amflee Combo 402 mg/4,02 ml + 361,8 mg/4,02 ml, roztwór do nakrapiania dla psów
+26. Anthelmin 230 mg (co odpowiada 80 mg pyrantelu) + 20 mg/tabletkę, tabletka doustna dla kotów
+27. Ataxxa (200 mg/pipetę + 40 mg/pipetę, roztwór do nakrapiania dla psów)
+28. Ataxxa (500 mg/pipetę + 100 mg/pipetę, roztwór do nakrapiania dla psów)
+29. Ataxxa (1250 mg/pipetę + 250 mg/pipetę, roztwór do nakrapiania dla psów)
+30. Ataxxa (2000 mg/pipetę + 400 mg/pipetę, roztwór do nakrapiania dla psów)
+31. Canishield 0,77 g na obrożę dla psa
+32. Canishield 1,04 g na obrożę dla psa
+33. Cestal Cat 80/20 mg, tabletki do rozgryzania i żucia dla kotów
+34. Cestal Plus, 50 mg + 144 mg + 200 mg, tabletki do rozgryzania i żucia dla psów
+35. Clearium szampon leczniczy dla psa
+36. Clearonil 50 mg/pipetkę 0,5 ml roztwór do nakrapiania dla kota
+37. Clearonil 67 mg/pipetkę 0,67 ml roztwór do nakrapiania dla psa
+38. Clearonil 134 mg/pipetkę 1,34 ml roztwór do nakrapiania dla psa
+39. Clearonil 268 mg/pipetkę 2,68 ml roztwór do nakrapiania dla psa
+40. Clearonil 402 mg/pipetkę 4,02 ml roztwór do nakrapiania dla psa
+41. Controline 50 mg/pipetę, roztwór do nakrapiania dla kotów
+42. Controline 67 mg, roztwór do nakrapiania dla małych psów
+43. Controline 134 mg, roztwór do nakrapiania dla średnich psów
+44. Controline 268 mg, roztwór do nakrapiania dla dużych psów
+45. Controline 402 mg, roztwór do nakrapiania dla bardzo dużych psów
+46. Dany’s BienenWohl proszek i roztwór do sporządzania zawiesiny do ula dla pszczół miodnych
+47. Deltatic obroża 0,636 g/obrożę dla psa
+48. Deltatic obroża 1,056 g/obrożę dla psa
+49. Deltatic obroża 1,304 g/obrożę 35 cm dla psa
+50. Dixie roztwór do nakrapiania 50 mg/0,5 ml dla kota
+51. Dixie roztwór do nakrapiania 67 mg/0,67 ml dla psa
+52. Dixie roztwór do nakrapiania 134 mg/1,34 ml dla psa
+53. Dixie roztwór do nakrapiania 268 mg/2,68 ml dla psa
+54. Dixie roztwór do nakrapiania 402 mg/4,02 ml dla psa
+55. Dixie Permetryna Quimunsa 715 mg/pipetę 1 ml dla psa
+56. Dixie Permetryna Quimunsa 1430 mg/pipetę 2 ml dla psa
+57. Dronspot roztwór do nakrapiania 30 mg + 7,5 mg/pipetkę dla kota
+58. Dronspot roztwór do nakrapiania 60 mg + 15 mg/pipetkę dla kota
+59. Dronspot roztwór do nakrapiania 96 mg + 24 mg/pipetkę dla kota
+60. Drontal Dog Flavour
+61. Drontal Plus Flavour 35 kg
+62. Drontal, 230 mg + 20 mg tabletki powlekane dla kotów
+63. Duowin Contact dla małego psa, 800 mg + 6 mg/2 ml, roztwór do nakrapiania dla psów
+64. Duowin Contact dla średniego psa, 1600 mg + 12 mg/4 ml, roztwór do nakrapiania dla psów
+65. Duowin Contact dla dużego psa, 3200 mg + 24 mg/8 ml, roztwór do nakrapiania dla psów
+66. Effipro 2,5 mg/ml, roztwór do natryskiwania na skórę dla psów i kotów
+67. Effipro 50 mg, roztwór do nakrapiania dla kotów
+68. Effipro 67 mg, roztwór do nakrapiania dla małych psów
+69. Effipro 134 mg, roztwór do nakrapiania dla średnich psów
+70. Effipro 268 mg, roztwór do nakrapiania dla dużych psów
+71. Effipro 402 mg, roztwór do nakrapiania dla bardzo dużych psów
+72. Effitix 26,84 mg/pipetę 0,44 ml + 239,8 mg/pipetę 0,44 ml, roztwór do nakrapiania dla psów
+73. Effitix 67,1 mg/pipetę 1,1 ml + 599,5 mg/pipetę 1,1 ml, roztwór do nakrapiania dla psów
+74. Effitix 134,2 mg/pipetę 2,2 ml + 1199,0 mg/pipetę 2,2 ml, roztwór do nakrapiania dla psów
+75. Effitix 268,4 mg/pipetę 4,4 ml + 2398,0 mg/pipetę 4,4 ml, roztwór do nakrapiania dla psów
+76. Effitix 402,6 mg/pipetę 6,6 ml + 3597,0 mg/pipetę 6,6 ml, roztwór do nakrapiania dla psów
+77. Exspot 715 mg/ml, roztwór do nakrapiania dla psów
+78. Fipnil Combo 50 mg/0,5 ml + 60 mg/0,5 ml roztwór do nakrapiania dla fretki i kota
+79. Fipnil Combo (67 mg + 60,3 mg)/pipetkę 0,67 ml roztwór do nakrapiania dla psa
+80. Fipnil Combo (134 mg + 120,60 mg)/pipetkę 1,34 ml roztwór do nakrapiania dla psa
+81. Fipnil Combo 268 mg/2,68 ml + 241,2 mg/2,68 ml roztwór do nakrapiania dla psa
+82. Fipnil Combo 402 mg/4,02 ml + 361,8 mg/4,02 ml roztwór do nakrapiania dla psa
+83. Fiprex Duo roztwór do nakrapiania 50 mg + 60 mg/pipetkę dla fretki i kota
+84. Fiprex Duo L roztwór do nakrapiania 268 mg + 241,20 mg/pipetkę dla psa
+85. Fiprex Duo M roztwór do nakrapiania 134 mg + 120,60 mg/pipetkę dla psa
+86. Fiprex Duo S roztwór do nakrapiania 67 mg + 60,30 mg/pipetkę dla psa
+87. Fiprex Duo XL roztwór do nakrapiania 402 mg + 361,80 mg/pipetkę dla psa
+88. Fiprex KOT 52,5 mg/0,7 ml, roztwór do nakrapiania dla kotów
+89. Fiprex M 150 mg/2 ml, roztwór do nakrapiania dla psów
+90. Fiprex S 75 mg/ml, roztwór do nakrapiania dla psów
+91. Fiprex L 300 mg/4 ml, roztwór do nakrapiania dla psów
+92. Fiprex XL 412,5 mg/5,5 ml, roztwór do nakrapiania dla psów
+93. Fiprex Spray 0,5 g/100 ml, roztwór na skórę dla psów i kotów
+94. Fipron 50,00 mg, na skórę dla kotów
+95. Fipron L 268 mg, na skórę dla psów
+96. Fipron M 134 mg, na skórę dla psów
+97. Fipron S 67 mg, na skórę dla psów
+98. Fipron XL 402 mg, na skórę dla psów
+99. Fiprotec (50 mg/pipetę, roztwór do nakrapiania dla kotów)
+100. Fiprotec (67 mg/pipetę, roztwór do nakrapiania dla psów)
+101. Fiprotec (134 mg/pipetę, roztwór do nakrapiania dla psów)
+102. Fiprotec (268 mg/pipetę, roztwór do nakrapiania dla psów)
+103. Fiprotec (402 mg/pipetę, roztwór do nakrapiania dla psów)
+104. Fiprotec Spray aerozol na skórę, roztwór 2,5 mg/ml dla kota i psa
+105. Flevox 50 mg, roztwór do nakrapiania dla kotów
+106. Flevox 67 mg, roztwór do nakrapiania dla małych psów
+107. Flevox 134 mg, roztwór do nakrapiania dla średnich psów
+108. Flevox 268 mg, roztwór do nakrapiania dla dużych psów
+109. Flevox 402 mg, roztwór do nakrapiania dla bardzo dużych psów
+110. Foresto 1,25 g + 0,56 g, obroża dla psów i kotów o masie ciała mniejszej lub równej 8 kg
+111. Foresto 4,50 g + 2,03 g, obroża dla psów o masie ciała większej niż 8 kg
+112. Frontline Combo Spot-On dla kotów
+113. Frontline Combo Spot-On dla psów S
+114. Frontline Combo Spot-On dla psów M
+115. Frontline Combo Spot-On dla psów L
+116. Frontline Combo Spot-On dla psów XL
+117. Frontline Spot-On 50 mg/0,50 ml, roztwór do nakrapiania dla kotów
+118. Frontline Spot-On L 268 mg/2,68 ml, roztwór do nakrapiania dla psów
+119. Frontline Spot-On M 134 mg/1,34 ml, roztwór do nakrapiania dla psów
+120. Frontline Spot-On S 67 mg/0,67 ml, roztwór do nakrapiania dla psów
+121. Frontline Spot-On XL 402 mg/4,02 ml, roztwór do nakrapiania dla psów
+122. Frontline Spray 250 mg/100 ml, aerozol natryskowy dla psów i kotów
+123. Frontline Tri-Act (33,8 mg + 252,4 mg/pipetę, roztwór do nakrapiania na skórę dla psów)
+124. Frontline Tri-Act (67,6 mg + 504,8 mg/pipetę, roztwór do nakrapiania na skórę dla psów)
+125. Frontline Tri-Act (135,2 mg + 1009,6 mg/pipetę, roztwór do nakrapiania na skórę dla psów)
+126. Frontline Tri-Act (270,4 mg + 2019,2 mg/pipetę, roztwór do nakrapiania na skórę dla psów)
+127. Frontline Tri-Act (406,6 mg + 3028,8 mg/pipetę, roztwór do nakrapiania na skórę dla psów)
+128. Fypryst 2,5 mg/ml, aerozol na skórę dla psów i kotów
+129. Fypryst 50 mg, roztwór do nakrapiania dla kotów
+130. Fypryst 67 mg, roztwór do nakrapiania dla psów
+131. Fypryst 134 mg, roztwór do nakrapiania dla psów
+132. Fypryst 268 mg, roztwór do nakrapiania dla psów
+133. Fypryst 402 mg, roztwór do nakrapiania dla psów
+134. Fypryst Combo (50 mg + 60 mg/pipetę, roztwór do nakrapiania dla kotów i fretek)
+135. Fypryst Combo (67 mg + 60,3 mg/pipetę, roztwór do nakrapiania dla psów)
+136. Fypryst Combo (134 mg + 120,6 mg/pipetę, roztwór do nakrapiania dla psów)
+137. Fypryst Combo (268 mg + 241,2 mg/pipetę, roztwór do nakrapiania dla psów)
+138. Fypryst Combo (402 mg + 361,8 mg/pipetę, roztwór do nakrapiania dla psów)
+139. InPar tabletka doustna 50 mg + 144 mg + 200 mg dla psów
+140. Insectin
+141. Kiltix dla małych psów (1,25 g + 0,28 g, propoksur + flumetryna/obroża)
+142. Kiltix dla średnich psów (3,02 g + 0,68 g, propoksur + flumetryna/obroża)
+143. Kiltix dla dużych psów (4,5 g + 1,013 g, propoksur + flumetryna/obroża)
+144. Oxybee (39,4 mg/ml) proszek i roztwór do sporządzania zawiesiny do ula dla pszczół miodnych
+145. Prac-tic 56,25 mg, roztwór do nakrapiania dla bardzo małych psów
+146. Prac-tic 137,5 mg, roztwór do nakrapiania dla małych psów
+147. Prac-tic 275 mg, roztwór do nakrapiania dla średnich psów
+148. Prac-tic 625 mg, roztwór do nakrapiania dla dużych psów
+149. Prevendog 26,40 g obroża dla psa
+150. Prevendog 15,90 g obroża dla psa
+151. Prevendog 1,304 g obroża dla psa
+152. Pyrantel-pasta dla kotów
+153. Pyrantel Vetos-Farma, pasta doustna dla kotów
+154. Scalibor Protectorband 4% w/w 48 cm obroża dla małych i średnich psów
+155. Scalibor Protectorband 4% w/w 65 cm obroża dla dużych psów
+156. Stop-X spot on 50 mg/0,5 ml roztwór do nakrapiania dla kotów
+157. Stop-X spot on 67 mg/0,67 ml roztwór do nakrapiania dla psów
+158. Stop-X spot on 134 mg/1,34 ml roztwór do nakrapiania dla psów
+159. Stop-X spot on 268 mg/2,68 ml roztwór do nakrapiania dla psów
+160. Stop-X spot on 402 mg/4,02 ml roztwór do nakrapiania dla psów
+161. VarroMed (5 mg/ml + 44 mg/ml), zawiesina do ula dla pszczół
+162. VarroMed (75 mg + 660 mg)/saszetkę, zawiesina do ula dla pszczół
+163. Vectra 3D (44 mg + 3,9 mg + 317 mg)/przyrząd roztwór do nakrapiania dla psów
+164. Vectra 3D (87 mg + 7,7 mg + 635 mg)/przyrząd roztwór do nakrapiania dla psów
+165. Vectra 3D (196 mg + 17,4 mg + 1429 mg)/przyrząd roztwór do nakrapiania dla psów
+166. Vectra 3D (256 mg + 22,7 mg + 1865 mg)/przyrząd roztwór do nakrapiania dla psów
+167. Vectra 3D (436 mg + 38,7 mg + 3175 mg)/przyrząd roztwór do nakrapiania dla psów
+168. Vectra Felis (423 mg + 42,3 mg)/przyrząd roztwór do nakrapiania dla kotów
+

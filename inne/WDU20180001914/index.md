@@ -8,9 +8,12 @@ pos: 1914
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 października 2018 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 14 września 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001914) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1914/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 14 września 2018 r.
-sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
-1. Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. Nr 5, poz. 24), z uwzględnieniem zmian wprowadzonych:
+1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. Nr 5, poz. 24), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 30 maja 1989 r. zmianie ustawy Prawo prasowe (Dz. U. Nr 34, poz. 187),
 2) ustawą z dnia 11 kwietnia 1990 r. uchyleniu ustawy kontroli publikacji i widowisk, zniesieniu organów tej kontroli oraz zmianie ustawy Prawo prasowe (Dz. U. Nr 29, poz. 173),
 3) ustawą z dnia 28 września 1991 r. kontroli skarbowej (Dz. U. Nr 100, poz. 442),
@@ -38,46 +39,48 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 9) ustawą z dnia 30 sierpnia 2002 r. Przepisy wprowadzające ustawę Prawo ustroju sądów administracyjnych i ustawę Prawo postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271, z 2003 r. Nr 228, poz. 2261 oraz z 2007 r. Nr 221, poz. 1650),
 10) ustawą z dnia 26 kwietnia 2007 r. zarządzaniu kryzysowym (Dz. U. Nr 89, poz. 590),
 11) ustawą z dnia 5 sierpnia 2010 r. ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228),
-12) wyrokiem Trybunału Konstytucyjnego z dnia grudnia 2010 r. sygn. akt K 41/07 (Dz. U. Nr 235, poz. 1551),
+12) wyrokiem Trybunału Konstytucyjnego z dnia 1 grudnia 2010 r. sygn. akt K 41/07 (Dz. U. Nr 235, poz. 1551),
 13) ustawą z dnia 25 marca 2011 r. zmianie ustawy radiofonii i telewizji oraz niektórych innych ustaw (Dz. U. Nr 85, poz. 459),
 14) ustawą z dnia 19 sierpnia 2011 r. zmianie ustawy Prawo prasowe (Dz. U. Nr 205, poz. 1204),
+15) ustawą z dnia 14 września 2012 r. zmianie ustawy Prawo prasowe (Dz. U. poz. 1136),
 16) ustawą z dnia 10 maja 2013 r. zmianie ustawy Prawo prasowe (Dz. U. poz. 771),
 17) ustawą z dnia 27 października 2017 r. zmianie ustawy Prawo prasowe (Dz. U. poz. 2173),
 18) ustawą z dnia 20 lipca 2018 r. zmianie ustawy Prawo prasowe (Dz. U. poz. 1570) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 września 2018 r.
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) 55–57 i 59 ustawy z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. Nr 5, poz. 24), które stanowią: „Art. 55. W ustawie z dnia 8 czerwca 1972 r. wykonywaniu i organizacji rzemiosła (Dz. U. z 1983 r. Nr 7, poz. 40) rozdziale po 3 dodaje się 3 brzmieniu: „Art. 3 . Sprawy wydawania zezwoleń na wykonywanie rzemiosła zakresie małej poligrafii dla celów handlowych i reklamowych oraz rejestrowania i kontroli zakładów usługowych i znajdujących się nich urządzeń określają przepisy Prawa prasowego; pozostałym zakresie do działalności tych zakładów stosuje się przepisy niniejszej ustawy.”
+handlowych i reklamowych oraz rejestrowania i kontroli zakładów usługowych i znajdujących się nich urządzeń określają przepisy Prawa prasowego; pozostałym zakresie do działalności tych zakładów stosuje się przepisy niniejszej ustawy.”
 
 **Art. 56.** W ustawie z dnia 18 lipca 1974 r. wykonywaniu handlu oraz niektórych innych rodzajów działalności przez jednostki gospodarki nie uspołecznionej (Dz. U. z 1983 r. Nr 43, poz. 193) wprowadza się następujące zmiany:
 
 **Art. 57.** W ustawie z dnia 31 lipca 1981 r. kontroli publikacji i widowisk (Dz. U. Nr 20, poz. 99 i z 1983 r. Nr 44, poz. 204) wprowadza się następujące zmiany:
 
-**Art. 3.** Ustawa wchodzi życie z dniem ogłoszenia.”;
+**Art. 3.** Ustawa wchodzi życie z dniem ogłoszenia.”; wach z zakresu kontroli publikacji i widowisk, toczące się przed Naczelnym Sądem Administracyjnym, podlegają umorzeniu. 3. Rejestr dzienników i czasopism, prowadzony dotychczas Głównym Urzędzie Kontroli Publikacji i Widowisk, zostanie przekazany ciągu 30 dni od dnia wejścia życie niniejszej ustawy właściwym sądom wojewódzkim. 4. Dzienniki i czasopisma zarejestrowane do dnia wejścia życie niniejszej ustawy uważa się za zarejestrowane rozumieniu jej przepisów. 5. Postępowania sprawach rejestracji dzienników lub czasopism, toczące się dniu wejścia życie niniejszej ustawy Głównym Urzędzie Kontroli Publikacji i Widowisk, oraz postępowania ze skarg tych sprawach, toczące się przed Naczelnym Sądem Administracyjnym, będą prowadzić właściwe sądy.” „Art. 4. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.”;
+
+**Art. 14.** W sprawach zakończonych prawomocnym wyrokiem, których kara nie została wykonana:
 
 **Art. 15.** Do czynów popełnionych przed wejściem życie Kodeksu karnego stosuje się przepisy tego kodeksu przedawnieniu i zatarciu skazania, chyba że termin przedawnienia już upłynął.
 
-**Art. 16.** W sprawach określonych 14, jeżeli postępowanie nie jest uregulowane innymi przepisami, orzeka na posiedzeniu sąd właściwy do wykonania kary; na postanowienie przysługuje zażalenie.” „Art. 18. Ustawa wchodzi życie z dniem września 1998 r.”;
+**Art. 16.** W sprawach określonych 14, jeżeli postępowanie nie jest uregulowane innymi przepisami, orzeka na posiedzeniu sąd właściwy do wykonania kary; na postanowienie przysługuje zażalenie.” „Art. 19. Ustawa wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia.”;
 
-**Art. 26.** Ustawa wchodzi życie z dniem stycznia 2002 r., z wyjątkiem przepisu 8 ust. 3, który odnośnie do nałożonego obowiązku udostępniania Biuletynie Informacji Publicznej informacji publicznych zakresie, którym w:
+**Art. 26.** Ustawa wchodzi życie z dniem 1 stycznia 2002 r., z wyjątkiem przepisu 8 ust. 3, który odnośnie do nałożonego obowiązku udostępniania Biuletynie Informacji Publicznej informacji publicznych zakresie, którym w:
 
-**Art. 100.** Ocena prawna wyrażona wydanych przed dniem stycznia 2004 r. uchwałach Naczelnego Sądu Administracyjnego nie wiąże wojewódzkiego sądu administracyjnego rozpoznającego sprawę, 97 § 1.
+**Art. 100.** Ocena prawna wyrażona wydanych przed dniem 1 stycznia 2004 r. uchwałach Naczelnego Sądu Administracyjnego nie wiąże wojewódzkiego sądu administracyjnego rozpoznającego sprawę, 97 § 1.
+
+**Art. 101.** W sprawach zakończonych prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego przed dniem 1 stycznia 2004 r., których nie upłynął termin do wniesienia rewizji nadzwyczajnej do Sądu Najwyższego, strona może, terminie do dnia 31 marca 2004 r., wnieść skargę kasacyjną do Naczelnego Sądu Administracyjnego na podstawie przepisów 2.
 
 **Art. 102.**
 
-§ 1. Sąd Najwyższy umorzy postępowanie sprawach, których wniesiono rewizje nadzwyczajne od orzeczeń Naczelnego Sądu Administracyjnego, nierozpoznane do dnia stycznia 2004 r.
+§ 1. Sąd Najwyższy umorzy postępowanie sprawach, których wniesiono rewizje nadzwyczajne od orzeczeń Naczelnego Sądu Administracyjnego, nierozpoznane do dnia 1 stycznia 2004 r.
 
-§ 2. W sprawach, których § 1, strona może, terminie 30 dni od dnia doręczenia postanowienia Sądu Najwyższego umorzeniu postępowania, wnieść skargę kasacyjną do Naczelnego Sądu Administracyjnego na podstawie przepisów 2.” „Art. 103. W sprawie wznowienie postępowania zakończonego prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego wydanym przed dniem stycznia 2004 r. orzeka właściwy wojewódzki sąd administracyjny na podstawie przepisów 2.
+§ 2. W sprawach, których § 1, strona może, terminie 30 dni od dnia doręczenia postanowienia Sądu Najwyższego umorzeniu postępowania, wnieść skargę kasacyjną do Naczelnego Sądu Administracyjnego na podstawie przepisów 2.” „Art. 103. W sprawie wznowienie postępowania zakończonego prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego wydanym przed dniem 1 stycznia 2004 r. orzeka właściwy wojewódzki sąd administracyjny na podstawie przepisów 2.
 
-**Art. 104.** Naczelny Sąd Administracyjny umorzy nierozpoznane do dnia stycznia 2004 r. postępowania prowadzone na podstawie 18 ust. 2 oraz 49 ust. 2 3.
+**Art. 104.** Naczelny Sąd Administracyjny umorzy nierozpoznane do dnia 1 stycznia 2004 r. postępowania prowadzone na podstawie 18 ust. 2 oraz 49 ust. 2 3.
 
-**Art. 105.** Akta spraw zakończonych prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego przed dniem stycznia 2004 r. przechowuje się, zgodnie z właściwymi przepisami, odpowiednich wojewódzkich sądach administracyjnych.
-
-**Art. 106.** Ustawa wchodzi życie z dniem stycznia 2004 r., z wyjątkiem przepisów 8 i 2, 10 2 i 3, 84 1, 86 § 1, 87 § 2, 88, 90 § 1, 91 i 92, które wchodzą życie po upływie 14 dni od dnia ogłoszenia.”;
+**Art. 105.** Akta spraw zakończonych prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego przed dniem 1 stycznia 2004 r. przechowuje się, zgodnie z właściwymi przepisami, odpowiednich wojewódzkich sądach „Art. 35. Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem 33, który wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
 
 **Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
 
 **Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
 
-#### Rozdział Przepisy ogólne
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
@@ -145,8 +148,6 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 2. Organizacja polityczna, związek zawodowy, przedsiębiorstwo państwowe, organizacja spółdzielcza, samorządowa i inna organizacja społeczna oraz kościół i inny związek wyznaniowy może realizować uprawnienia wydawnicze bezpośrednio lub za pośrednictwem wydawnictw własnych, jak również innych wydawnictw, działających jako nakładca.
 
 **Art. 9.** Przepisów niniejszej ustawy nie stosuje się do:
-
-#### Rozdział 2 Prawa i obowiązki dziennikarzy
 
 **Art. 10.**
 
@@ -232,11 +233,13 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 
 **Art. 16.**
 
-1. Dziennikarz jest zwolniony od zachowania tajemnicy zawodowej, 15 ust. 2, razie gdy informacja, materiał prasowy, list do redakcji lub inny materiał tym charakterze dotyczy przestępstwa określonego 240 § Kodeksu karnego albo autor lub osoba przekazująca taki materiał wyłącznie do wiadomości dziennikarza wyrazi zgodę na ujawnienie jej nazwiska lub tego materiału.
+1. Dziennikarz jest zwolniony od zachowania tajemnicy zawodowej, 15 ust. 2, razie gdy informacja, materiał prasowy, list do redakcji lub inny materiał tym charakterze dotyczy przestępstwa określonego 240 § 1 Kodeksu karnego albo autor lub osoba przekazująca taki materiał wyłącznie do wiadomości dziennikarza wyrazi zgodę na ujawnienie jej nazwiska lub tego materiału.
 
 2. Zwolnienie, którym ust. 1, dotyczy również innych osób zatrudnionych redakcjach, wydawnictwach prasowych i innych prasowych jednostkach organizacyjnych.
 
-3. Redaktor naczelny powinien być niezbędnych granicach poinformowany sprawach związanych z tajemnicą zawodową dziennikarza; powierzoną mu informację albo inny materiał może ujawnić jedynie wypadkach określonych ust. 1.
+3. Redaktor naczelny powinien być niezbędnych granicach poinformowany sprawach związanych z tajemnicą zawodową dziennikarza; powierzoną mu informację albo inny materiał może ujawnić jedynie wypadkach określonych ust.
+
+1.
 
 #### Rozdział 3 (uchylony)
 
@@ -313,7 +316,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 - **6)** międzynarodowy znak informacyjny;
 - **7)** bieżącą numerację.
 
-2. Przepis ust. stosuje się odpowiednio do nagrań radiowych i telewizyjnych oraz kronik filmowych. Art. 28–30. (uchylone)
+2. Przepis ust. 1 stosuje się odpowiednio do nagrań radiowych i telewizyjnych oraz kronik filmowych. Art. 28–30. (uchylone)
 
 #### Rozdział 5 Sprostowanie
 
@@ -345,7 +348,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 
 2. Gdy możliwy termin opublikowania sprostowania przekracza 6 miesięcy, na żądanie wnioskodawcy sprostowanie należy dodatkowo opublikować ciągu miesiąca od dnia otrzymania sprostowania odpowiednim ze względu na krąg odbiorców dzienniku. Koszty publikacji pokrywa wydawca prasy, ukazał się materiał prasowy będący przedmiotem sprostowania.
 
-3. Terminy określone ust. i 2 nie mają zastosowania, jeżeli strony na piśmie umówiły się inaczej.
+3. Terminy określone ust. 1 i 2 nie mają zastosowania, jeżeli strony na piśmie umówiły się inaczej.
 
 4. Sprostowanie drukach periodycznych powinno być opublikowane tym samym dziale i taką samą czcionką, co materiał prasowy, którego dotyczy, pod widocznym tytułem „Sprostowanie”. W przypadku przekazu za pomocą dźwięku lub obrazu i dźwięku sprostowanie powinno być wyraźnie zapowiedziane oraz nastąpić przekazie tego samego rodzaju i tej samej porze.
 
@@ -365,8 +368,9 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 2. Redaktor naczelny może odmówić opublikowania sprostowania, jeżeli sprostowanie:
 
 - **1)** odnosi się do wiadomości poprzednio sprostowanej;
+- **3)** zawiera sformułowania powszechnie uznawane za wulgarne lub obelżywe.
 
-3. Odmawiając opublikowania sprostowania, redaktor naczelny jest obowiązany niezwłocznie, nie później jednak niż terminie 7 dni od dnia otrzymania sprostowania, przekazać wnioskodawcy pisemne zawiadomienie odmowie i jej przyczynach. Jeżeli odmowa nastąpiła z przyczyn określonych ust. 1, 4 i 5, należy wskazać fragmenty sprostowania, które nie nadają się do publikacji.
+3. Odmawiając opublikowania sprostowania, redaktor naczelny jest obowiązany niezwłocznie, nie później jednak niż terminie 7 dni od dnia otrzymania sprostowania, przekazać wnioskodawcy pisemne zawiadomienie odmowie i jej przyczynach. Jeżeli odmowa nastąpiła z przyczyn określonych ust. 1 1, 4 i 5, należy wskazać fragmenty sprostowania, które nie nadają się do publikacji.
 
 4. Redaktor naczelny nie może odmówić opublikowania sprostowania, jeżeli zastosowano się do jego wskazań. W przypadku nadesłania poprawionego sprostowania termin określony 31a ust. 3 liczy się od dnia doręczenia wnioskodawcy zawiadomienia odmowie i jej przyczynach.
 
@@ -376,12 +380,12 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 
 1. Redaktor naczelny jest obowiązany opublikować nieodpłatnie, miejscu i czasie właściwym ze względu na tematykę i charakter publikacji, komunikat urzędowy pochodzący od naczelnych i centralnych organów państwowych, tym pochodzący od naczelnych i centralnych organów administracji państwowej, jeżeli został nadesłany przez rzecznika prasowego rządu ze wskazaniem, że publikacja jest obowiązkowa.
 
-2. Obowiązek określony ust. dotyczy również:
+2. Obowiązek określony ust. 1 dotyczy również:
 
 - **1)** wydanych na podstawie ustaw obwieszczeń, uchwał lub zarządzeń pochodzących od organów administracji rządowej województwie, nadesłanych formie zwięzłych komunikatów celu ogłoszenia dzienniku lub odpowiednim czasopiśmie na terenie jego działania;
 - **2)** komunikatów przekazywanych przez organy administracji rządowej i samorządu terytorialnego zakresie sytuacji kryzysowych, których ustawie z dnia 26 kwietnia 2007 r. zarządzaniu kryzysowym (Dz. U. z 2018 r. poz. 1401 i 1560).
 
-3. Komunikaty, których ust. i 2, należy opublikować, uzgodnionym terminie, bez dokonywania zmian, zamieszczania uwag i zaprzeczeń, a razie braku uzgodnienia terminu najbliższym przygotowywanym wydaniu.
+3. Komunikaty, których ust. 1 i 2, należy opublikować, uzgodnionym terminie, bez dokonywania zmian, zamieszczania uwag i zaprzeczeń, a razie braku uzgodnienia terminu najbliższym przygotowywanym wydaniu.
 
 **Art. 35.**
 
@@ -402,7 +406,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 
 4. Wydawca i redaktor mają prawo odmówić zamieszczenia ogłoszenia i reklamy, jeżeli ich treść lub forma jest sprzeczna z linią programową bądź charakterem publikacji.
 
-5. Na żądanie organów upoważnionych do tego na podstawie odrębnych przepisów wydawca lub redaktor są obowiązani do ujawnienia posiadanych nazw i adresów przedsiębiorców lub osób fizycznych, zamieszczających odpłatne ogłoszenia lub reklamy sprawach działalności gospodarczej. W tym wypadku 15 ust. i 2 nie stosuje się.
+5. Na żądanie organów upoważnionych do tego na podstawie odrębnych przepisów wydawca lub redaktor są obowiązani do ujawnienia posiadanych nazw i adresów przedsiębiorców lub osób fizycznych, zamieszczających odpłatne ogłoszenia lub reklamy sprawach działalności gospodarczej. W tym wypadku 15 ust. 1 i 2 nie stosuje się.
 
 #### Rozdział 7 Odpowiedzialność prawna
 
@@ -420,11 +424,11 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 
 1. Odpowiedzialność cywilną za naruszenie prawa spowodowane opublikowaniem materiału prasowego ponoszą autor, redaktor lub inna osoba, którzy spowodowali opublikowanie tego materiału; nie wyłącza to odpowiedzialności wydawcy. W zakresie odpowiedzialności majątkowej odpowiedzialność tych osób jest solidarna.
 
-2. Przepis ust. stosuje się odpowiednio do odpowiedzialności cywilnej za naruszenie prawa spowodowane ujawnieniem materiału prasowego przed jego publikacją.
+2. Przepis ust. 1 stosuje się odpowiednio do odpowiedzialności cywilnej za naruszenie prawa spowodowane ujawnieniem materiału prasowego przed jego publikacją.
 
 **Art. 39.**
 
-- **47)** 1. Jeżeli redaktor naczelny odmówił opublikowania sprostowania albo sprostowanie nie ukazało się terminie określonym 32 ust. 1–3 lub ukazało się z naruszeniem 32 ust. 4 lub 5, zainteresowany podmiot, którym 31a ust. lub 2, może wytoczyć powództwo opublikowanie sprostowania.
+- **47)** 1. Jeżeli redaktor naczelny odmówił opublikowania sprostowania albo sprostowanie nie ukazało się terminie określonym 32 ust. 1–3 lub ukazało się z naruszeniem 32 ust. 4 lub 5, zainteresowany podmiot, którym 31a ust. 1 lub 2, może wytoczyć powództwo opublikowanie sprostowania.
 
 2. Roszczenie, którym ust. 1, wygasa, jeżeli nie będzie dochodzone ciągu roku od dnia opublikowania materiału prasowego.
 
@@ -432,7 +436,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 
 **Art. 41.**
 
-- **49)** Publikowanie zgodnych z prawdą i rzetelnych sprawozdań z jawnych posiedzeń Sejmu, Senatu i organów stanowiących jednostek samorządu terytorialnego oraz ich organów, a także publikowanie rzetelnych, zgodnych z zasadami współżycia społecznego ujemnych ocen dzieł naukowych lub artystycznych albo innej działalności twórczej, zawodowej lub publicznej służy realizacji zadań określonych i pozostaje pod ochroną prawa; przepis ten stosuje się odpowiednio do satyry i karykatury.
+- **49)** Publikowanie zgodnych z prawdą i rzetelnych sprawozdań z jawnych posiedzeń Sejmu, Senatu i organów stanowiących jednostek samorządu terytorialnego oraz ich organów, a także publikowanie rzetelnych, zgodnych z zasadami współżycia społecznego ujemnych ocen dzieł naukowych lub artystycznych albo innej działalności twórczej, zawodowej lub publicznej służy realizacji zadań określonych 1 i pozostaje pod ochroną prawa; przepis ten stosuje się odpowiednio do satyry i karykatury.
 
 **Art. 42.**
 
@@ -546,5 +550,5 @@ sprawie ogłoszenia jednolitego tekstu ustawy Prawo prasowe
 
 **Art. 60.** Z dniem wejścia życie ustawy tracą moc wszelkie przepisy dotyczące przedmiotów niej unormowanych, a szczególności traci moc dekret Prezydenta Rzeczypospolitej z dnia 21 listopada 1938 r. Prawo prasowe (Dz. U. poz. 608).
 
-**Art. 61.** Ustawa wchodzi życie z dniem lipca 1984 r.
+**Art. 61.** Ustawa wchodzi życie z dniem 1 lipca 1984 r.
 

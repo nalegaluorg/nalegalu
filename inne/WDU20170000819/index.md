@@ -8,9 +8,12 @@ pos: 819
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 kwietnia 2017 r.
+# o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami
+
+*USTAWA z dnia 23 marca 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,7 @@ domain: null
 | Ostatnia zmiana | 2025-06-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000819) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/819/text.pdf) |
 
-USTAWA z dnia 23 marca 2017 r.
-o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego i agentami
+Art. 79–83. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -37,7 +39,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 1. Przez umowę o kredyt hipoteczny rozumie się umowę, w ramach której kredytodawca udziela konsumentowi kredytu lub daje mu przyrzeczenie udzielenia kredytu zabezpieczonego hipoteką lub innym prawem związanym z nieruchomością mieszkalną lub przeznaczonego na sfinansowanie niezwiązanego z działalnością gospodarczą lub prowadzeniem gospodarstwa rolnego nabycia lub utrzymania:
 
-- **1)** prawa własności budynku mieszkalnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość, a także ich budowy lub przebudowy w rozumieniu art. 3 pkt 6 i 7a ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2016 r. poz. 290, 961, 1165, 1250 i 2255);
+- **1)** prawa własności budynku mieszkalnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość, a także ich budowy lub przebudowy w rozumieniu art. 3 pkt 6 i 7a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418);
 - **2)** spółdzielczego własnościowego prawa do lokalu;
 - **3)** prawa własności nieruchomości gruntowej lub jej części;
 - **4)** udziału we współwłasności budynku mieszkalnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość lub udziału w nieruchomości gruntowej.
@@ -45,10 +47,11 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 2. Za umowę o kredyt hipoteczny uważa się w szczególności umowę:
 
 - **1)** pożyczki,
-- **2)** kredytu w rozumieniu art. 69 ust. 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm. ),
+- **2)** kredytu w rozumieniu art. 69 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146, 222 i
+- **525)** ,
 - **3)** o odroczeniu konsumentowi terminu spełnienia świadczenia pieniężnego,
 - **4)** o kredyt, w której kredytodawca zaciąga zobowiązanie wobec osoby trzeciej, a konsument zobowiązuje się do zwrotu kredytodawcy spełnionego świadczenia,
-- **5)** o kredyt odnawialny o ile spełnia warunki określone w ust. 1.
+- **5)** o kredyt odnawialny – o ile spełnia warunki określone w ust. 1.
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
 
@@ -58,14 +61,14 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 1. Kredyt hipoteczny może zostać udzielony wyłącznie w walucie lub indeksowany do waluty, w której konsument uzyskuje większość swoich dochodów lub posiada większość środków finansowych lub innych aktywów wycenianych w walucie udzielenia kredytu hipotecznego lub walucie, do której kredyt hipoteczny jest indeksowany.
 
-2. W przypadku umowy o kredyt hipoteczny w walucie obcej kredytodawca, na wniosek konsumenta, jest obowi ą zany dokona ć zmiany waluty umowy o kredyt hipoteczny na inn ą walut ę , je ż eli:
+2. W przypadku umowy o kredyt hipoteczny w walucie obcej kredytodawca, na wniosek konsumenta, jest obowiązany dokonać zmiany waluty umowy o kredyt hipoteczny na inną walutę, jeżeli:
 
-- **1)** konsument uzyskuje w tej walucie wi ę kszo ść swoich dochodów lub posiada wi ę kszo ść ś rodków finansowych lub innych aktywów wycenianych w tej walucie, według stanu na dzie ń dokonania ostatniej oceny zdolno ś ci kredytowej w odniesieniu do tej umowy o kredyt hipoteczny, lub
+- **1)** konsument uzyskuje w tej walucie większość swoich dochodów lub posiada większość środków finansowych lub innych aktywów wycenianych w tej walucie, według stanu na dzień dokonania ostatniej oceny zdolności kredytowej w odniesieniu do tej umowy o kredyt hipoteczny, lub
 - **2)** waluta ta jest walutą państwa członkowskiego, w którym konsument miał miejsce zamieszkania w dniu zawarcia umowy o kredyt hipoteczny lub w którym ma miejsce zamieszkania w dniu złożenia wniosku.
 
 3. Do zmiany, o której mowa w ust. 2, stosuje się średni kurs waluty ogłoszony przez Narodowy Bank Polski w dniu złożenia wniosku.
 
-#### Rozdział 2 Obowi ą zki kredytodawcy, po ś rednika kredytu hipotecznego i agenta przed zawarciem umowy o kredyt hipoteczny
+#### Rozdział 2 Obowiązki kredytodawcy, pośrednika kredytu hipotecznego i agenta przed zawarciem umowy o kredyt hipoteczny
 
 **Art. 7.**
 
@@ -96,8 +99,8 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 7. Pośrednik kredytu hipotecznego oraz agent w reklamach dotyczących kredytu hipotecznego podają konsumentowi w sposób zwięzły, jednoznaczny, zrozumiały i widoczny:
 
-- **1)** zakres umocowania do dokonywania czynno ś ci faktycznych lub prawnych;
-- **2)** informacj ę , czy po ś rednik kredytu hipotecznego jest powi ą zanym po ś rednikiem kredytu hipotecznego.
+- **1)** zakres umocowania do dokonywania czynności faktycznych lub prawnych;
+- **2)** informację, czy pośrednik kredytu hipotecznego jest powiązanym pośrednikiem kredytu hipotecznego.
 
 8. W przypadku gdy pośrednik kredytu hipotecznego współpracuje z kredytodawcami, przekazuje konsumentowi informację o firmach (nazwach) kredytodawców, z którymi współpracuje.
 
@@ -137,9 +140,9 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 - **2)** cele, na które kredyt hipoteczny może zostać wykorzystany;
 - **3)** formy zabezpieczenia, w tym wskazanie możliwości, że przedmiot zabezpieczenia może znajdować się w innym niż Rzeczpospolita Polska państwie członkowskim, o ile taka możliwość jest przewidziana;
 - **4)** okres, na jaki może być zawarta umowa o kredyt hipoteczny;
-- **5)** w przypadku umów o kredyt hipoteczny, w których stosuje się jako odniesienie wskaźnik referencyjny nazwy wska ź ników referencyjnych i ich administratorów, o których mowa w art. 3 ust. 1 pkt 6 rozporz ą dzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wska ź niki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniaj ą cego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporz ą dzenie (UE) nr 596/2014, oraz informacj ę o potencjalnych konsekwencjach dla konsumenta;
+- **5)** w przypadku umów o kredyt hipoteczny, w których stosuje się jako odniesienie wskaźnik referencyjny – nazwy wskaźników referencyjnych i ich administratorów, o których mowa w art. 3 ust. 1 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014, oraz informację o potencjalnych konsekwencjach dla konsumenta;
 - **6)** rodzaje dostępnej stopy oprocentowania kredytu hipotecznego ze wskazaniem, czy jest to stała stopa oprocentowania kredytu hipotecznego, zmienna, czy stanowiąca połączenie obu rodzajów oprocentowania, wraz z krótką charakterystyką stałej stopy oprocentowania kredytu hipotecznego i stopy zmiennej, w tym informacją o związanych z tym konsekwencjach dla konsumenta;
-- **7)** w przypadku umów o kredyt hipoteczny w walucie obcej wskazanie danej waluty wraz z informacją o konsekwencjach denominowania lub indeksowania tego kredytu dla konsumenta oraz ryzyku walutowym związanym z tym kredytem;
+- **7)** w przypadku umów o kredyt hipoteczny w walucie obcej – wskazanie danej waluty wraz z informacją o konsekwencjach denominowania lub indeksowania tego kredytu dla konsumenta oraz ryzyku walutowym związanym z tym kredytem;
 - **8)** reprezentatywny przykład całkowitej kwoty kredytu hipotecznego, całkowitego kosztu kredytu hipotecznego, całkowitej kwoty do zapłaty przez konsumenta oraz rzeczywistej rocznej stopy oprocentowania;
 - **9)** wskazanie możliwych innych kosztów nieujętych w całkowitym koszcie kredytu hipotecznego, które konsument może ponieść w związku z umową o kredyt hipoteczny, i prognozowaną maksymalną wysokość tych kosztów;
 - **10)** poszczególne warianty spłaty kredytu hipotecznego oferowane przez kredytodawcę, w tym liczbę, częstotliwość i wysokość regularnie spłacanych rat;
@@ -147,9 +150,20 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 - **12)** wskazanie, czy jest konieczna wycena nieruchomości i czy wiąże się to z kosztami dla konsumenta, a jeżeli tak, to w jakiej wysokości, oraz wskazanie, kto odpowiada za zapewnienie dokonania wyceny nieruchomości;
 - **13)** wskazanie usług dodatkowych, które konsument jest zobowiązany nabyć, aby uzyskać kredyt hipoteczny lub uzyskać go na reklamowanych warunkach, oraz, w stosownych przypadkach, wyjaśnienie, że usługi dodatkowe mogą być nabywane u usługodawcy innego niż kredytodawca;
 - **14)** ostrzeżenie dotyczące możliwych konsekwencji niewykonania lub nienależytego wykonania zobowiązań związanych z umową o kredyt hipoteczny;
-- **15)** w przypadku gdy umowa o kredyt hipoteczny dotyczy kredytu hipotecznego objętego wsparciem udzielanym ze środków publicznych wskazanie warunków, kryteriów i ograniczeń oraz wymaganych dokumentów związanych z otrzymaniem takiego wsparcia.
+- **15)** w przypadku gdy umowa o kredyt hipoteczny dotyczy kredytu hipotecznego objętego wsparciem udzielanym ze środków publicznych – wskazanie warunków, kryteriów i ograniczeń oraz wymaganych dokumentów związanych z otrzymaniem takiego wsparcia.
 
 2. Kredytodawca, pośrednik kredytu hipotecznego ani agent nie mogą pobierać opłat od konsumenta za przekazywanie informacji w związku z obowiązkami informacyjnymi określonymi w ustawie.
+
+3. Kredytodawca nie później niż na 30 dni przed zmianą postanowień umowy o kredyt hipoteczny przekazuje konsumentowi na trwałym nośniku:
+
+- **1)** przejrzysty opis proponowanych zmian, w tym zmian wymagających uzyskania zgody konsumenta, lub zmian wprowadzonych z mocy prawa, wraz z harmonogramem ich wdrożenia;
+- **2)** informację o przysługującej konsumentowi możliwości złożenia reklamacji do kredytodawcy, a w przypadku nieuwzględnienia jego roszczeń – złożenia wniosku o rozpatrzenie sprawy do Rzecznika Finansowego zgodnie z ustawą z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146), wraz ze wskazaniem adresu, na który należy złożyć ten wniosek, a także informację o możliwości skierowania roszczeń na drogę sądową lub możliwości pozasądowego rozwiązywania sporów.
+
+4. Termin, o którym mowa w ust. 3, nie musi być zachowany, jeżeli zmiany postanowień umowy o kredyt hipoteczny wprowadzane są na wniosek konsumenta lub konsument wyraził zgodę na przekazanie informacji, o których mowa w ust. 3, bez zachowania tego terminu.
+
+5. W przypadku, o którym mowa w ust. 4, przekazanie informacji, o których mowa w ust. 3, następuje przed zmianą postanowień umowy o kredyt hipoteczny.
+
+6. W przypadku, o którym mowa w art. 31, przepisów ust. 3–5 nie stosuje się.
 
 **Art. 11.**
 
@@ -165,17 +179,17 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 **Art. 12.** Kredytodawca, pośrednik kredytu hipotecznego oraz agent mogą przekazać konsumentowi przed zawarciem umowy o kredyt hipoteczny, na trwałym nośniku, dodatkowo inne dane niż określone w art. 11 ust. 1, łącznie z formularzem informacyjnym, o którym mowa w art. 11 ust. 2.
 
-**Art. 13.** W przypadku umowy o kredyt hipoteczny zawieranej na odległo ść kredytodawca, po ś rednik kredytu hipotecznego oraz agent przekazuj ą konsumentowi informacje, o których mowa w art. 11 ust. 1, przed zawarciem umowy o kredyt hipoteczny, na formularzu informacyjnym, o którym mowa w art. 11 ust. 2.
+**Art. 13.** W przypadku umowy o kredyt hipoteczny zawieranej na odległość kredytodawca, pośrednik kredytu hipotecznego oraz agent przekazują konsumentowi informacje, o których mowa w art. 11 ust. 1, przed zawarciem umowy o kredyt hipoteczny, na formularzu informacyjnym, o którym mowa w art. 11 ust. 2.
 
 **Art. 14.**
 
-1. W celu zawarcia umowy o kredyt hipoteczny konsument wyst ę puje z wnioskiem do kredytodawcy.
+1. W celu zawarcia umowy o kredyt hipoteczny konsument występuje z wnioskiem do kredytodawcy.
 
 2. Kredytodawca, pośrednik kredytu hipotecznego oraz agent są obowiązani przekazać konsumentowi decyzję w sprawie udzielenia kredytu hipotecznego (decyzja kredytowa), na trwałym nośniku, w dwudziestym pierwszym dniu od dnia otrzymania wniosku, o którym mowa w ust. 1, w celu umożliwienia porównania warunków umów o kredyt hipoteczny oferowanych przez innych kredytodawców, chyba że konsument wyrazi zgodę na wcześniejsze przekazanie decyzji kredytowej.
 
 3. Kredytodawca jest obowiązany poinformować konsumenta o możliwości przekazania decyzji kredytowej przed terminem, o którym mowa w ust. 2.
 
-4. Decyzja kredytowa stanowi ofertę w rozumieniu art. 66 § 1 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+4. Decyzja kredytowa stanowi ofertę w rozumieniu art. 66 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 5. Kredytodawca, pośrednik kredytu hipotecznego oraz agent są obowiązani przekazać wraz z decyzją kredytową formularz informacyjny, o którym mowa w art. 11 ust. 2, w przypadku gdy konsument nie złożył wniosku, o którym mowa w ust. 1, w terminie, o którym mowa w art. 11 ust. 5.
 
@@ -207,13 +221,13 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 1. Pośrednik kredytu hipotecznego oraz agent, przed rozpoczęciem świadczenia usług w zakresie pośrednictwa kredytu hipotecznego, są obowiązani przekazać konsumentowi, na trwałym nośniku, następujące informacje:
 
-- **1)** firm ę oraz siedzib ę (miejsce zamieszkania) i adres po ś rednika kredytu hipotecznego;
-- **2)** numer wpisu po ś rednika kredytu hipotecznego do rejestru po ś redników kredytowych wraz z adresem strony internetowej, na której jest dost ę pny ten rejestr;
-- **3)** czy pośrednik kredytu hipotecznego jest powiązanym pośrednikiem kredytu hipotecznego, a jeżeli tak firmy (nazwy) kredytodawców, w imieniu i na rzecz których działa;
+- **1)** firmę oraz siedzibę (miejsce zamieszkania) i adres pośrednika kredytu hipotecznego;
+- **2)** numer wpisu pośrednika kredytu hipotecznego do rejestru pośredników kredytowych wraz z adresem strony internetowej, na której jest dostępny ten rejestr;
+- **3)** czy pośrednik kredytu hipotecznego jest powiązanym pośrednikiem kredytu hipotecznego, a jeżeli tak – firmy (nazwy) kredytodawców, w imieniu i na rzecz których działa;
 - **4)** czy pośrednik kredytu hipotecznego oferuje usługi doradcze;
 - **5)** o procedurach składania skarg na pośredników kredytu hipotecznego w trybie wewnętrznym i sposobie korzystania z pozasądowych procedur wnoszenia skarg i odwołań;
 - **6)** o prowizji oraz innych wynagrodzeniach w formie pieniężnej lub innej uzgodnionej formie korzyści finansowej, a także ich wysokości, o ile jest znana, przekazywanych przez kredytodawcę lub inne podmioty pośrednikowi kredytu hipotecznego lub agentowi, w tym wynagrodzeniach związanych z zawarciem z konsumentem umowy o kredyt hipoteczny;
-- **7)** o opłatach ponoszonych bezpośrednio przez konsumenta na rzecz pośrednika kredytu hipotecznego lub agenta za świadczone usługi, a w przypadku niemożności ustalenia tej opłaty informację o sposobie jej obliczania.
+- **7)** o opłatach ponoszonych bezpośrednio przez konsumenta na rzecz pośrednika kredytu hipotecznego lub agenta za świadczone usługi, a w przypadku niemożności ustalenia tej opłaty – informację o sposobie jej obliczania.
 
 2. W przypadku gdy wysokość prowizji i innych wynagrodzeń, o których mowa w ust. 1 pkt 6, nie jest znana w chwili przekazywania informacji, konsument otrzymuje, na trwałym nośniku, informację, że kwota prowizji oraz innych wynagrodzeń zostanie podana w formularzu informacyjnym, o którym mowa w art. 11 ust. 2.
 
@@ -236,9 +250,9 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 1. Kredytodawca, ustalając rzeczywistą roczną stopę oprocentowania, uwzględnia:
 
 - **1)** całkowity koszt kredytu hipotecznego, z wyłączeniem opłat z tytułu niewykonania przez konsumenta zobowiązań wynikających z umowy o kredyt hipoteczny;
-- **2)** koszty prowadzenia rachunku, z którego są realizowane spłaty, koszty transakcji płatniczych w zakresie poleceń przelewu z tego rachunku i wpłat na ten rachunek oraz inne koszty związane z tymi transakcjami, chyba że otwarcie rachunku nie jest obowi ą zkowe, a koszty rachunku zostały w sposób jednoznaczny, zrozumiały i widoczny podane w umowie o kredyt hipoteczny lub w innej umowie zawartej z konsumentem.
+- **2)** koszty prowadzenia rachunku, z którego są realizowane spłaty, koszty transakcji płatniczych w zakresie poleceń przelewu z tego rachunku i wpłat na ten rachunek oraz inne koszty związane z tymi transakcjami, chyba że otwarcie rachunku nie jest obowiązkowe, a koszty rachunku zostały w sposób jednoznaczny, zrozumiały i widoczny podane w umowie o kredyt hipoteczny lub w innej umowie zawartej z konsumentem.
 
-2. Je ż eli z postanowie ń umowy o kredyt hipoteczny wynika mo ż liwo ść zmiany stopy oprocentowania kredytu hipotecznego i opłat uwzgl ę dnianych przy ustalaniu rzeczywistej rocznej stopy oprocentowania kredytu hipotecznego, których nie mo ż na okre ś li ć w chwili jej ustalania, rzeczywist ą roczn ą stop ę oprocentowania ustala si ę przy zało ż eniu, ż e stopa oprocentowania kredytu hipotecznego i opłaty te pozostaną niezmienione przez okres obowiązywania umowy o kredyt hipoteczny. W takim przypadku kredytodawca przedstawia konsumentowi w formularzu informacyjnym, o którym mowa w art. 11 ust. 2, dodatkową, przykładową rzeczywistą roczną stopę oprocentowania, która obrazuje ryzyka związane ze znacznym wzrostem stopy oprocentowania kredytu hipotecznego.
+2. Jeżeli z postanowień umowy o kredyt hipoteczny wynika możliwość zmiany stopy oprocentowania kredytu hipotecznego i opłat uwzględnianych przy ustalaniu rzeczywistej rocznej stopy oprocentowania kredytu hipotecznego, których nie można określić w chwili jej ustalania, rzeczywistą roczną stopę oprocentowania ustala się przy założeniu, że stopa oprocentowania kredytu hipotecznego i opłaty te pozostaną niezmienione przez okres obowiązywania umowy o kredyt hipoteczny. W takim przypadku kredytodawca przedstawia konsumentowi w formularzu informacyjnym, o którym mowa w art. 11 ust. 2, dodatkową, przykładową rzeczywistą roczną stopę oprocentowania, która obrazuje ryzyka związane ze znacznym wzrostem stopy oprocentowania kredytu hipotecznego.
 
 3. Sposób obliczania rzeczywistej rocznej stopy oprocentowania określa załącznik nr 3 do ustawy.
 
@@ -258,7 +272,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 3. Konsument przedstawia, na żądanie kredytodawcy i we wskazanym przez kredytodawcę terminie, dokumenty i informacje niezbędne do dokonania oceny zdolności kredytowej.
 
-4. Ocena zdolności kredytowej jest dokonywana zgodnie z art. 70 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+4. Ocena zdolności kredytowej jest dokonywana zgodnie z art. 70 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 5. Pośrednik kredytu hipotecznego oraz agent są obowiązani przekazać właściwemu kredytodawcy wszelkie informacje uzyskane od konsumenta, niezbędne do przeprowadzenia oceny zdolności kredytowej.
 
@@ -267,17 +281,17 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 7. Ocena zdolności kredytowej dokonywana przez kredytodawcę nie może opierać się w głównej mierze na założeniu, że wartość rynkowa nieruchomości:
 
 - **1)** przewyższa kwotę kredytu hipotecznego lub
-- **2)** wzrośnie, chyba że umowa o kredyt hipoteczny jest zawierana w celu budowy, przebudowy lub remontu nieruchomości w rozumieniu art. 3 pkt 6, 7a i 8 ustawy z dnia 7 lipca 1994 r. Prawo budowlane.
+- **2)** wzrośnie, chyba że umowa o kredyt hipoteczny jest zawierana w celu budowy, przebudowy lub remontu nieruchomości w rozumieniu art. 3 pkt 6, 7a i 8 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
-8. Jeżeli kredytodawca wymaga dokonania wyceny nieruchomości w związku z procedurą oceny zdolności kredytowej, wycena ta powinna spełniać wymagania określone w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, a w przypadku sporządzania ekspertyzy w celu ustalenia bankowo-hipotecznej wartości nieruchomości w rozumieniu art. 2 pkt 1 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2016 r. poz. 1771) wymagania określone w tej ustawie.
+8. Jeżeli kredytodawca wymaga dokonania wyceny nieruchomości w związku z procedurą oceny zdolności kredytowej, wycena ta powinna spełniać wymagania określone w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, a w przypadku sporządzania ekspertyzy w celu ustalenia bankowo-hipotecznej wartości nieruchomości w rozumieniu art. 2 pkt 4 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110) – wymagania określone w tej ustawie.
 
 9. Wycena nieruchomości jest dokonywana przez rzeczoznawcę majątkowego, o którym mowa w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, wskazanego w drodze porozumienia między kredytodawcą i konsumentem.
 
-10. Kredytodawca jest obowiązany przechowywać, na trwałym nośniku, dokumentację dotyczącą wyceny nieruchomo ś ci i ekspertyzy, o których mowa w ust. 8.
+10. Kredytodawca jest obowiązany przechowywać, na trwałym nośniku, dokumentację dotyczącą wyceny nieruchomości i ekspertyzy, o których mowa w ust. 8.
 
 **Art. 22.**
 
-1. Kredytodawca nie mo ż e rozwi ą za ć , w tym odst ą pi ć od umowy o kredyt hipoteczny, lub zmieni ć umowy o kredyt hipoteczny, w przypadku gdy ocena zdolno ś ci kredytowej nie została przeprowadzona prawidłowo, chyba ż e jest to korzystne dla konsumenta i konsument wyraził na to zgod ę .
+1. Kredytodawca nie może rozwiązać, w tym odstąpić od umowy o kredyt hipoteczny, lub zmienić umowy o kredyt hipoteczny, w przypadku gdy ocena zdolności kredytowej nie została przeprowadzona prawidłowo, chyba że jest to korzystne dla konsumenta i konsument wyraził na to zgodę.
 
 2. Przepisu ust. 1 nie stosuje się, w przypadku gdy konsument celowo odmówił ujawnienia informacji lub podał nieprawdziwe informacje niezbędne do przeprowadzenia oceny zdolności kredytowej.
 
@@ -299,7 +313,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 3. Kredytodawca jest obowiązany dokonywać ponownej oceny zdolności kredytowej na podstawie uaktualnionych informacji przed każdym znacznym zwiększeniem całkowitej kwoty kredytu hipotecznego po zawarciu umowy o kredyt hipoteczny, chyba że takie dodatkowe zwiększenie całkowitej kwoty kredytu hipotecznego przewidziano i uwzględniono w początkowej ocenie zdolności kredytowej.
 
-#### Rozdział 3 Ś wiadczenie usług doradczych
+#### Rozdział 3 Świadczenie usług doradczych
 
 **Art. 25.**
 
@@ -315,9 +329,9 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 **Art. 27.**
 
-1. W przypadku gdy kredytodawca, pośrednik kredytu hipotecznego lub agent świadczy usługi doradcze, konsument przekazuje temu podmiotowi niezb ę dne informacje dotycz ą ce jego potrzeb, sytuacji finansowej i osobistej, preferencji oraz celów, aby umo ż liwi ć rekomendacj ę odpowiednich umów o kredyt hipoteczny.
+1. W przypadku gdy kredytodawca, pośrednik kredytu hipotecznego lub agent świadczy usługi doradcze, konsument przekazuje temu podmiotowi niezbędne informacje dotyczące jego potrzeb, sytuacji finansowej i osobistej, preferencji oraz celów, aby umożliwić rekomendację odpowiednich umów o kredyt hipoteczny.
 
-2. Kredytodawca, powi ą zany po ś rednik kredytu hipotecznego oraz agent powi ą zanego po ś rednika kredytu hipotecznego, ś wiadcz ą cy usługi doradcze, s ą obowi ą zani przedstawi ć konsumentowi co najmniej 3 oferty umów o kredyt hipoteczny ł ą cznie z formularzami informacyjnymi, o których mowa w art. 11 ust. 2, oraz rekomendowa ć tak ą umow ę o kredyt hipoteczny, która najbardziej odpowiada potrzebom oraz sytuacji finansowej i osobistej konsumenta, uwzględniając preferencje i cele konsumenta.
+2. Kredytodawca, powiązany pośrednik kredytu hipotecznego oraz agent powiązanego pośrednika kredytu hipotecznego, świadczący usługi doradcze, są obowiązani przedstawić konsumentowi co najmniej 3 oferty umów o kredyt hipoteczny łącznie z formularzami informacyjnymi, o których mowa w art. 11 ust. 2, oraz rekomendować taką umowę o kredyt hipoteczny, która najbardziej odpowiada potrzebom oraz sytuacji finansowej i osobistej konsumenta, uwzględniając preferencje i cele konsumenta.
 
 3. Pośrednik kredytu hipotecznego niebędący powiązanym pośrednikiem kredytu hipotecznego oraz jego agent, świadczący usługi doradcze, są obowiązani przedstawić konsumentowi co najmniej 3 oferty umów o kredyt hipoteczny dostępnych na rynku oraz rekomendować taką umowę o kredyt hipoteczny, która najbardziej odpowiada potrzebom oraz sytuacji finansowej i osobistej konsumenta, uwzględniając preferencje i cele konsumenta.
 
@@ -333,7 +347,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 **Art. 29.**
 
-1. Umowa o kredyt hipoteczny określa elementy wymienione w art. 69 ust. 2 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe oraz:
+1. Umowa o kredyt hipoteczny określa elementy wymienione w art. 69 ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz:
 
 - **1)** opłaty i inne koszty związane z udzieleniem kredytu hipotecznego, w tym opłatę za rozpatrzenie wniosku kredytowego, przygotowanie i zawarcie umowy o kredyt hipoteczny, oraz warunki ich zmian;
 - **2)** całkowity koszt kredytu hipotecznego określony w dniu zawarcia umowy o kredyt hipoteczny;
@@ -348,17 +362,21 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 2. Jeżeli strony nie uzgodniły stałej stopy oprocentowania kredytu hipotecznego, sposób ustalania stopy procentowej, o którym mowa w ust. 1 pkt 8, określa się jako wartość wskaźnika referencyjnego oraz wysokość marży ustalonej w umowie o kredyt hipoteczny.
 
-3. W przypadku umów o kredyt hipoteczny ze stałą stopą oprocentowania kredytu hipotecznego w odniesieniu do co najmniej 5-letniego pocz ą tkowego okresu, po którym kredytodawca i konsument dokonuj ą ustalenia nowej stopy oprocentowania kredytu hipotecznego na dalszy okres obowi ą zywania umowy o kredyt hipoteczny, umowa o kredyt hipoteczny okre ś la równie ż sposób ustalania nowej stopy oprocentowania kredytu hipotecznego zgodnie z ust. 2 oraz warunki ustalania tej stopy na dalszy okres obowi ą zywania umowy o kredyt hipoteczny, je ż eli strony nie osi ą gn ą porozumienia co do nowej stopy oprocentowania kredytu hipotecznego na dalszy okres obowi ą zywania tej umowy.
+3. W przypadku umów o kredyt hipoteczny ze stałą stopą oprocentowania kredytu hipotecznego w odniesieniu do co najmniej 5-letniego początkowego okresu, po którym kredytodawca i konsument dokonują ustalenia nowej stopy oprocentowania kredytu hipotecznego na dalszy okres obowiązywania umowy o kredyt hipoteczny, umowa o kredyt hipoteczny określa również sposób ustalania nowej stopy oprocentowania kredytu hipotecznego zgodnie z ust. 2 oraz warunki ustalania tej stopy na dalszy okres obowiązywania umowy o kredyt hipoteczny, jeżeli strony nie osiągną porozumienia co do nowej stopy oprocentowania kredytu hipotecznego na dalszy okres obowiązywania tej umowy.
 
 4. W przypadku, o którym mowa w ust. 3, kredytodawca nie może pobierać od konsumenta opłat z tytułu ustalenia nowej stopy oprocentowania kredytu hipotecznego na kolejny okres obowiązywania umowy o kredyt hipoteczny lub zmiany tej umowy związanej z ustaleniem nowej stopy oprocentowania kredytu hipotecznego.
 
 5. W przypadku ustalenia nowej stopy oprocentowania kredytu hipotecznego pozostałe warunki umowy o kredyt hipoteczny pozostają niezmienione.
 
+5a. W przypadku udzielenia kredytu hipotecznego umowa o kredyt hipoteczny może określać dodatkowy koszt kredytu hipotecznego, związany z oczekiwaniem na wpis hipoteki do księgi wieczystej, ponoszony przez konsumenta do czasu dokonania wpisu hipoteki do księgi wieczystej.
+
+5b. Dodatkowy koszt kredytu hipotecznego, o którym mowa w ust. 5a, podlega zwrotowi konsumentowi lub zaliczeniu na poczet spłaty kredytu hipotecznego po dokonaniu wpisu hipoteki stanowiącej zabezpieczenie kredytu hipotecznego do księgi wieczystej, na warunkach określonych umową o kredyt hipoteczny.
+
 6. Kredytodawca, pośrednik kredytu hipotecznego oraz agent przez okres obowiązywania umowy o kredyt hipoteczny w sposób zrozumiały i precyzyjny udzielają konsumentowi wyjaśnień dotyczących poszczególnych postanowień tej umowy.
 
 7. Kredytodawca, pośrednik kredytu hipotecznego ani agent nie mogą pobierać opłat od konsumenta za udzielanie wyjaśnień, o których mowa w ust. 6.
 
-8. W przypadku umowy o kredyt hipoteczny w walucie obcej, w sytuacji gdy całkowita kwota do zapłaty przez konsumenta pozostająca do spłacenia lub kwota rat kredytu hipotecznego spłacanych zgodnie z warunkami określonymi w umowie o kredyt hipoteczny, są wyższe o ponad 20% od kwot, które byłyby ustalone przy zastosowaniu kursu wymiany waluty umowy o kredyt hipoteczny i waluty, w której konsument uzyskuje większość swoich dochodów lub posiada większość środków finansowych lub innych aktywów wycenianych w tej walucie, obowiązującego w chwili zawierania umowy o kredyt hipoteczny, kredytodawca, pośrednik kredytu hipotecznego oraz agent są obowiązani każdorazowo przekazać konsumentowi, na trwałym nośniku, ostrzeżenie o zwiększeniu kwoty pozostającej do spłaty przez konsumenta, a także, w stosownych przypadkach, o prawie przeliczenia na inną walutę i warunkach tego przeliczenia oraz mechanizmach ograniczania ryzyka kursowego, na które jest narażony konsument.
+8. W przypadku umowy o kredyt hipoteczny w walucie obcej, w sytuacji gdy całkowita kwota do zapłaty przez konsumenta pozostająca do spłacenia lub kwota rat kredytu hipotecznego spłacanych zgodnie z warunkami określonymi w umowie o kredyt hipoteczny, są wyższe o ponad 20 % od kwot, które byłyby ustalone przy zastosowaniu kursu wymiany waluty umowy o kredyt hipoteczny i waluty, w której konsument uzyskuje większość swoich dochodów lub posiada większość środków finansowych lub innych aktywów wycenianych w tej walucie, obowiązującego w chwili zawierania umowy o kredyt hipoteczny, kredytodawca, pośrednik kredytu hipotecznego oraz agent są obowiązani każdorazowo przekazać konsumentowi, na trwałym nośniku, ostrzeżenie o zwiększeniu kwoty pozostającej do spłaty przez konsumenta, a także, w stosownych przypadkach, o prawie przeliczenia na inną walutę i warunkach tego przeliczenia oraz mechanizmach ograniczania ryzyka kursowego, na które jest narażony konsument.
 
 **Art. 30.**
 
@@ -384,11 +402,16 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 1. Jeżeli konsument opóźnia się ze spłatą zobowiązania z tytułu udzielonego kredytu hipotecznego, kredytodawca wzywa go do dokonania spłaty, wyznaczając termin nie krótszy niż 14 dni roboczych.
 
-2. W wezwaniu, o którym mowa w ust. 1, kredytodawca informuje konsumenta o możliwości złożenia, w terminie 14 dni roboczych od dnia otrzymania wezwania, wniosku o restrukturyzacj ę zadłu ż enia.
+2. W wezwaniu, o którym mowa w ust. 1, kredytodawca informuje konsumenta o możliwości:
 
-3. Kredytodawca umo ż liwia restrukturyzacj ę zadłu ż enia, je ż eli jest to uzasadnione ocen ą sytuacji maj ą tkowej konsumenta.
+- **1)** złożenia, w terminie 14 dni roboczych od dnia otrzymania wezwania, wniosku o restrukturyzację zadłużenia;
+- **2)** w przypadku kredytu mieszkaniowego, o którym mowa w ustawie z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. z 2024 r. poz. 1385) – uzyskania odpowiednio wsparcia, promesy lub pożyczki na spłatę zadłużenia, o których mowa w tej ustawie, informując w sposób jednoznaczny i zrozumiały o:
+    - **a)** sposobie złożenia wniosku, o którym mowa w art. 6 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej, oraz o sposobie jego rozpatrywania przez kredytodawcę,
+    - **b)** miejscu publikacji informacji o Funduszu Wsparcia Kredytobiorców, o którym mowa w art. 14 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej, oraz o zasadach korzystania ze środków tego Funduszu.
 
-4. Restrukturyzacja zadłu ż enia jest dokonywana na warunkach uzgodnionych przez kredytodawc ę i konsumenta.
+3. Kredytodawca umożliwia restrukturyzację zadłużenia, jeżeli jest to uzasadnione oceną sytuacji majątkowej konsumenta.
+
+4. Restrukturyzacja zadłużenia jest dokonywana na warunkach uzgodnionych przez kredytodawcę i konsumenta.
 
 5. Kredytodawca dokonuje restrukturyzacji zadłużenia przez:
 
@@ -408,13 +431,13 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 - **1)** umożliwia spłatę pozostałego zadłużenia w ratach dostosowanych do sytuacji majątkowej konsumenta;
 - **2)** wyraża zgodę na wykreślenie hipoteki z księgi wieczystej kredytowanej nieruchomości, przy czym w odniesieniu do pozostałej części zadłużenia może żądać ustanowienia innego zabezpieczenia wierzytelności wynikających z umowy o kredyt hipoteczny.
 
-**Art. 36.** W przypadku gdy łączna wysokość opłat z tytułu zaległości w spłacie kredytu hipotecznego oraz odsetek za opóźnienie naliczonych konsumentowi przekracza kwotę odpowiadającą kwocie odsetek maksymalnych za opóźnienie w rozumieniu art. 481 § 2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, obliczonych od kwoty zaległości w spłacie kredytu hipotecznego, należnych na dzień pobrania tych opłat lub odsetek, należy się tylko kwota opłat i odsetek odpowiadająca kwocie tych odsetek maksymalnych za opóźnienie.
+**Art. 36.** W przypadku gdy łączna wysokość opłat z tytułu zaległości w spłacie kredytu hipotecznego oraz odsetek za opóźnienie naliczonych konsumentowi przekracza kwotę odpowiadającą kwocie odsetek maksymalnych za opóźnienie w rozumieniu art. 481 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, obliczonych od kwoty zaległości w spłacie kredytu hipotecznego, należnych na dzień pobrania tych opłat lub odsetek, należy się tylko kwota opłat i odsetek odpowiadająca kwocie tych odsetek maksymalnych za opóźnienie.
 
 **Art. 37.**
 
-1. W przypadku niedotrzymania przez konsumenta warunków udzielenia kredytu hipotecznego albo w przypadku utraty przez konsumenta zdolności kredytowej kredytodawca może obniżyć kwotę przyznanego kredytu hipotecznego albo wypowiedzieć umowę o kredyt hipoteczny, o ile przepisy ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2016 r. poz. 2171, 2260 i 2261 oraz z 2017 r. poz. 791) nie stanowią inaczej.
+1. W przypadku niedotrzymania przez konsumenta warunków udzielenia kredytu hipotecznego albo w przypadku utraty przez konsumenta zdolności kredytowej kredytodawca może obniżyć kwotę przyznanego kredytu hipotecznego albo wypowiedzieć umowę o kredyt hipoteczny, o ile przepisy ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614) nie stanowią inaczej.
 
-2. Termin wypowiedzenia, o którym mowa w ust. 1, wynosi 30 dni, a w razie zagrożenia upadłością konsumenta 7 dni, chyba że strony w umowie o kredyt hipoteczny określiły dłuższy termin.
+2. Termin wypowiedzenia, o którym mowa w ust. 1, wynosi 30 dni, a w razie zagrożenia upadłością konsumenta – 7 dni, chyba że strony w umowie o kredyt hipoteczny określiły dłuższy termin.
 
 3. Wypowiedzenie umowy o kredyt hipoteczny z powodu utraty przez konsumenta zdolności kredytowej lub zagrożenia upadłością nie może nastąpić w okresie restrukturyzacji zadłużenia, chyba że konsument nienależycie realizuje restrukturyzację zadłużenia.
 
@@ -428,8 +451,8 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 8. W przypadku gdy kwota uzyskana ze sprzedaży kredytowanej nieruchomości jest mniejsza niż wysokość zadłużenia konsumenta, kredytodawca:
 
-- **1)** umo ż liwia spłat ę pozostałego zadłu ż enia w ratach dostosowanych do sytuacji maj ą tkowej konsumenta;
-- **2)** wyra ż a zgod ę na wykre ś lenie hipoteki z ksi ę gi wieczystej kredytowanej nieruchomo ś ci, przy czym w odniesieniu do pozostałej cz ęś ci zadłu ż enia mo ż e żą da ć ustanowienia innego zabezpieczenia wierzytelno ś ci wynikaj ą cych z umowy o kredyt hipoteczny.
+- **1)** umożliwia spłatę pozostałego zadłużenia w ratach dostosowanych do sytuacji majątkowej konsumenta;
+- **2)** wyraża zgodę na wykreślenie hipoteki z księgi wieczystej kredytowanej nieruchomości, przy czym w odniesieniu do pozostałej części zadłużenia może żądać ustanowienia innego zabezpieczenia wierzytelności wynikających z umowy o kredyt hipoteczny.
 
 #### Rozdział 5 Spłata kredytu hipotecznego przed terminem
 
@@ -455,7 +478,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 2. W przypadku kredytu hipotecznego oprocentowanego zmienną stopą procentową kredytodawca może pobierać rekompensatę wyłącznie, gdy spłata całości lub części kredytu hipotecznego nastąpiła w okresie 36 miesięcy od dnia zawarcia umowy o kredyt hipoteczny.
 
-3. Rekompensata, o której mowa w ust. 2, nie może być większa niż wysokość odsetek, które byłyby naliczone od spłaconej przed terminem całości lub części kredytu hipotecznego w okresie roku od dnia faktycznej spłaty, ani większa niż 3% spłacanej kwoty kredytu hipotecznego.
+3. Rekompensata, o której mowa w ust. 2, nie może być większa niż wysokość odsetek, które byłyby naliczone od spłaconej przed terminem całości lub części kredytu hipotecznego w okresie roku od dnia faktycznej spłaty, ani większa niż 3 % spłacanej kwoty kredytu hipotecznego.
 
 4. Jeżeli do zakończenia obowiązywania umowy o kredyt hipoteczny oprocentowany zmienną stopą procentową zgodnie z terminem wskazanym w tej umowie pozostało mniej niż rok, rekompensata nie może być wyższa niż odsetki, które przypadałyby za okres pozostały do zakończenia umowy o kredyt hipoteczny.
 
@@ -465,7 +488,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 7. Rekompensata nie może być wyższa niż koszty kredytodawcy bezpośrednio związane z przedterminową spłatą.
 
-**Art. 41.** W przypadku kredytów hipotecznych, dla których uzgodniono stałą stopę oprocentowania kredytu hipotecznego w danym okresie, przepisów art. 359 § 2 –2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny o odsetkach maksymalnych nie stosuje się w tym okresie, jednakże kredytodawca jest obowiązany przestrzegać tych przepisów w chwili ustalania wysokości odsetek oraz zawierania umowy o kredyt hipoteczny.
+**Art. 41.** W przypadku kredytów hipotecznych, dla których uzgodniono stałą stopę oprocentowania kredytu hipotecznego w danym okresie, przepisów art. 359 § 2 –2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny o odsetkach maksymalnych nie stosuje się w tym okresie, jednakże kredytodawca jest obowiązany przestrzegać tych przepisów w chwili ustalania wysokości odsetek oraz zawierania umowy o kredyt hipoteczny.
 
 #### Rozdział 6 Odstąpienie od umowy o kredyt hipoteczny przez konsumenta
 
@@ -475,9 +498,9 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 2. Jeżeli umowa o kredyt hipoteczny nie określa elementów wymienionych w art. 29 ust. 1 i 3, konsument może odstąpić od umowy o kredyt hipoteczny w terminie 14 dni od dnia dostarczenia wszystkich elementów wymienionych w art. 29 ust. 1 i 3.
 
-3. Termin do odst ą pienia od umowy o kredyt hipoteczny jest zachowany, je ż eli konsument przed jego upływem zło ż y pod wskazany przez kredytodawc ę , po ś rednika kredytu hipotecznego lub agenta adres o ś wiadczenie o odst ą pieniu od tej umowy.
+3. Termin do odstąpienia od umowy o kredyt hipoteczny jest zachowany, jeżeli konsument przed jego upływem złoży pod wskazany przez kredytodawcę, pośrednika kredytu hipotecznego lub agenta adres oświadczenie o odstąpieniu od tej umowy.
 
-4. Dla zachowania terminu, o którym mowa w ust. 3, jest wystarczające nadanie przed jego upływem przesyłki poleconej zawierającej oświadczenie, o którym mowa w ust. 3, u operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2016 r. poz. 1113, 1250, 1823 i 1948).
+4. Dla zachowania terminu, o którym mowa w ust. 3, jest wystarczające nadanie przed jego upływem przesyłki poleconej zawierającej oświadczenie, o którym mowa w ust. 3, u operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366) albo wysłanie oświadczenia na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841).
 
 **Art. 43.** Kredytodawca, pośrednik kredytu hipotecznego oraz agent są obowiązani przy zawarciu umowy o kredyt hipoteczny przekazać konsumentowi, na trwałym nośniku, wzór oświadczenia o odstąpieniu od tej umowy, z oznaczeniem swojej firmy (nazwy) oraz siedziby (miejsca zamieszkania) i adresu, o którym mowa w art. 42 ust. 3.
 
@@ -495,7 +518,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 **Art. 46.** W przypadku odstąpienia od umowy o kredyt hipoteczny zawartej na odległość lub poza lokalem przedsiębiorstwa stosuje się odpowiednio przepisy niniejszego rozdziału.
 
-#### Rozdział 7 Wymogi dla po ś redników kredytu hipotecznego, agentów oraz personelu kredytodawcy, po ś rednika kredytu hipotecznego lub agenta
+#### Rozdział 7 Wymogi dla pośredników kredytu hipotecznego, agentów oraz personelu kredytodawcy, pośrednika kredytu hipotecznego lub agenta
 
 **Art. 47.** Działalność polegająca na świadczeniu usług pośrednictwa kredytu hipotecznego może być wykonywana wyłącznie przez pośredników kredytu hipotecznego oraz agentów.
 
@@ -505,15 +528,17 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 2. Za dzień rozpoczęcia działalności w zakresie pośrednictwa kredytu hipotecznego uważa się dzień dokonania wpisu do rejestru pośredników kredytowych.
 
+**Art. 48a.** Osoba prawna, spółka nieposiadająca osobowości prawnej albo osoba fizyczna, która składa wniosek o wydanie zezwolenia, powinna mieć w dniu składania wniosku oraz przez cały okres wykonywania działalności w zakresie pośrednictwa kredytu hipotecznego:
+
 **Art. 49.**
 
 1. Zezwolenie jest wydawane na wniosek, złożony w postaci papierowej lub w postaci elektronicznej:
 
 - **1)** osoby fizycznej:
     - **a)** która ma pełną zdolność do czynności prawnych,
-    - **b)** która nie była prawomocnie skazana za umyślne przestępstwo: przeciwko życiu i zdrowiu, przeciwko wymiarowi sprawiedliwości, przeciwko ochronie informacji, przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi, skarbowe,
-    - **c)** która posiada co najmniej wykształcenie ś rednie,
-    - **d)** która zło ż yła z wynikiem pozytywnym egzamin na po ś rednika kredytu hipotecznego, nie pó ź niej ni ż 2 lata przed dniem zło ż enia wniosku,
+    - **b)** która nie była prawomocnie skazana za umyślne przestępstwo: – przeciwko życiu i zdrowiu, – przeciwko wymiarowi sprawiedliwości, – przeciwko ochronie informacji, – przeciwko wiarygodności dokumentów, – przeciwko mieniu, – przeciwko obrotowi gospodarczemu, – przeciwko obrotowi pieniędzmi i papierami wartościowymi, – skarbowe,
+    - **c)** która posiada co najmniej wykształcenie średnie lub średnie branżowe,
+    - **d)** która złożyła z wynikiem pozytywnym egzamin na pośrednika kredytu hipotecznego, nie później niż 2 lata przed dniem złożenia wniosku,
     - **e)** która złożyła pisemne oświadczenie o zobowiązaniu się do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej lub umowy gwarancji bankowej lub ubezpieczeniowej, o których mowa w art. 55 ust. 1,
     - **f)** której personel spełnia warunki, o których mowa w lit. a i b;
 
@@ -523,7 +548,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
     - **c)** której personel spełnia warunki, o których mowa w pkt 1 lit. a i b;
 
 - **3)** spółki nieposiadającej osobowości prawnej:
-    - **a)** której wspólnicy, jeżeli są osobami fizycznymi, spełniają warunki, o których mowa w pkt 1 lit. a–d, a w przypadku gdy wspólnikiem tej spółki jest osoba prawna członkowie zarządu spełniają warunki, o których mowa w pkt 1 lit. a–d,
+    - **a)** której wspólnicy, jeżeli są osobami fizycznymi, spełniają warunki, o których mowa w pkt 1 lit. a–d, a w przypadku gdy wspólnikiem tej spółki jest osoba prawna – członkowie zarządu spełniają warunki, o których mowa w pkt 1 lit. a–d,
     - **b)** która złożyła pisemne oświadczenie o zobowiązaniu się do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej lub umowy gwarancji bankowej lub ubezpieczeniowej, o których mowa w art. 55 ust. 1,
     - **c)** której personel spełnia warunki, o których mowa w pkt 1 lit. a i b.
 
@@ -533,8 +558,8 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 1. Wniosek, o którym mowa w art. 49 ust. 1, zawiera dane, o których mowa:
 
-- **1)** w art. 63 ust. 1 pkt 2 i 3 w przypadku pośrednika kredytu hipotecznego będącego osobą fizyczną;
-- **2)** w art. 63 ust. 2 pkt 2 i 3 w przypadku pośrednika kredytu hipotecznego niebędącego osobą fizyczną.
+- **1)** w art. 63 ust. 1 pkt 2 i 3 – w przypadku pośrednika kredytu hipotecznego będącego osobą fizyczną;
+- **2)** w art. 63 ust. 2 pkt 2 i 3 – w przypadku pośrednika kredytu hipotecznego niebędącego osobą fizyczną.
 
 2. Jeżeli dane, o których mowa w ust. 1, dotyczą osób fizycznych, wniosek zawiera także numery Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) tych osób.
 
@@ -561,7 +586,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 - **3)** sekretarz;
 - **4)** dwóch członków.
 
-2. Osoby wchodz ą ce w skład Komisji posiadaj ą wy ż sze wykształcenie oraz wyró ż niaj ą si ę wysokim poziomem wiedzy o rynku finansowym.
+2. Osoby wchodzące w skład Komisji posiadają wyższe wykształcenie oraz wyróżniają się wysokim poziomem wiedzy o rynku finansowym.
 
 3. Osoby wchodzące w skład Komisji powołuje i odwołuje minister właściwy do spraw instytucji finansowych na wniosek Komisji Nadzoru Finansowego.
 
@@ -578,7 +603,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 7. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
 - **1)** regulamin Komisji, uwzględniając konieczność zapewnienia działania Komisji w sposób sprawny i skuteczny;
-- **2)** wysokość wynagrodzenia dla osób wchodzących w skład Komisji, uwzględniając nakład pracy i zakres obowiązków tych osób oraz mając na względzie, aby wysokość wynagrodzenia dla tych osób nie była wyższa niż 50% przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym przeprowadzenie egzaminu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2016 r. poz. 887, z późn. zm. ).
+- **2)** wysokość wynagrodzenia dla osób wchodzących w skład Komisji, uwzględniając nakład pracy i zakres obowiązków tych osób oraz mając na względzie, aby wysokość wynagrodzenia dla tych osób nie była wyższa niż 50 % przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym przeprowadzenie egzaminu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674).
 
 **Art. 53.**
 
@@ -604,7 +629,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 6. Po przeprowadzeniu egzaminu na pośrednika kredytu hipotecznego Komisja ustala wyniki uczestnika egzaminu w drodze uchwały i doręcza odpis uchwały uczestnikowi.
 
-7. W terminie 14 dni od dnia dor ę czenia uchwały, o której mowa w ust. 6, uczestnikowi egzaminu słu ż y odwołanie do Komisji, która rozpatruje je w drodze uchwały w terminie 30 dni od dnia otrzymania.
+7. W terminie 14 dni od dnia doręczenia uchwały, o której mowa w ust. 6, uczestnikowi egzaminu służy odwołanie do Komisji, która rozpatruje je w drodze uchwały w terminie 30 dni od dnia otrzymania.
 
 8. Urząd Komisji Nadzoru Finansowego przechowuje dokumentację prac Komisji przez okres 5 lat.
 
@@ -612,7 +637,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 10. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
-- **1)** wysokość opłat egzaminacyjnych dla osób składających egzaminy na pośrednika kredytu hipotecznego i sposób ich uiszczania, uwzględniając koszty przeprowadzenia tego egzaminu oraz mając na względzie, aby opłata ta nie była wyższa niż 20% przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym przeprowadzenie egzaminu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
+- **1)** wysokość opłat egzaminacyjnych dla osób składających egzaminy na pośrednika kredytu hipotecznego i sposób ich uiszczania, uwzględniając koszty przeprowadzenia tego egzaminu oraz mając na względzie, aby opłata ta nie była wyższa niż 20 % przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym przeprowadzenie egzaminu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
 - **2)** szczegółowy sposób i tryb oraz terminy przeprowadzania egzaminu na pośrednika kredytu hipotecznego oraz sposób kontroli przeprowadzenia egzaminu na pośrednika kredytu hipotecznego, uwzględniając konieczność sprawdzenia wiedzy, umiejętności i kompetencji kandydatów na pośredników kredytu hipotecznego, sprawnego przeprowadzenia egzaminów oraz działania Komisji w sposób sprawny i skuteczny.
 
 **Art. 54.**
@@ -627,18 +652,18 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 - **1)** osoba fizyczna, która:
     - **a)** posiada pełną zdolność do czynności prawnych,
-    - **b)** nie była prawomocnie skazana za umyślne przestępstwo: przeciwko życiu i zdrowiu, przeciwko wymiarowi sprawiedliwości, przeciwko ochronie informacji, przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi, skarbowe,
-    - **c)** posiada co najmniej średnie wykształcenie,
+    - **b)** nie była prawomocnie skazana za umyślne przestępstwo: – przeciwko życiu i zdrowiu, – przeciwko wymiarowi sprawiedliwości, – przeciwko ochronie informacji, – przeciwko wiarygodności dokumentów, – przeciwko mieniu, – przeciwko obrotowi gospodarczemu, – przeciwko obrotowi pieniędzmi i papierami wartościowymi, – skarbowe,
+    - **c)** posiada co najmniej wykształcenie średnie lub średnie branżowe,
     - **d)** odbyła organizowane przez pośrednika kredytu hipotecznego szkolenie i złożyła z wynikiem pozytywnym egzamin przeprowadzony przez pośrednika kredytu hipotecznego, obejmujący zagadnienia określone w art. 53 ust. 3 i 4;
 
 - **2)** osoba prawna, której członkowie zarządu spełniają warunki, o których mowa w pkt 1;
-- **3)** spółka nieposiadająca osobowości prawnej, której wspólnicy, jeżeli są osobami fizycznymi, spełniają warunki, o których mowa w pkt 1, a w przypadku gdy wspólnikiem tej spółki jest osoba prawna członkowie zarządu spełniają warunki, o których mowa w pkt 1.
+- **3)** spółka nieposiadająca osobowości prawnej, której wspólnicy, jeżeli są osobami fizycznymi, spełniają warunki, o których mowa w pkt 1, a w przypadku gdy wspólnikiem tej spółki jest osoba prawna – członkowie zarządu spełniają warunki, o których mowa w pkt 1.
 
 5. Wymogu, o którym mowa w ust. 4 pkt 1 lit. d, nie stosuje się do osób, które ukończyły wyższe studia ekonomiczne lub prawnicze i uzyskały tytuł magistra.
 
 **Art. 55.**
 
-1. Po ś rednik kredytu hipotecznego jest obowi ą zany zawrze ć umow ę ubezpieczenia odpowiedzialno ś ci cywilnej za szkody wyrz ą dzone w zwi ą zku z wykonywan ą działalno ś ci ą w zakresie po ś rednictwa kredytu hipotecznego lub umow ę gwarancji bankowej lub ubezpieczeniowej na wypadek odpowiedzialno ś ci wynikłej z niedochowania nale ż ytej staranności w związku z wykonywaniem tej działalności.
+1. Pośrednik kredytu hipotecznego jest obowiązany zawrzeć umowę ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z wykonywaną działalnością w zakresie pośrednictwa kredytu hipotecznego lub umowę gwarancji bankowej lub ubezpieczeniowej na wypadek odpowiedzialności wynikłej z niedochowania należytej staranności w związku z wykonywaniem tej działalności.
 
 2. Umowa ubezpieczenia odpowiedzialności cywilnej lub umowa gwarancji bankowej lub ubezpieczeniowej, o której mowa w ust. 1, obejmuje również szkody wyrządzone przez agenta w związku z wykonywaniem działalności w zakresie pośrednictwa kredytu hipotecznego.
 
@@ -675,9 +700,9 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 7. Przed rozpoczęciem działalności przez powiązanego pośrednika kredytu hipotecznego, o którym mowa w ust. 1, kredytodawca składa wniosek do Komisji Nadzoru Finansowego o dokonanie wpisu powiązanego pośrednika kredytu hipotecznego do rejestru pośredników kredytowych obejmujący:
 
-- **1)** firm ę po ś rednika;
-- **2)** numer w rejestrze przedsi ę biorców lub numer identyfikacji podatkowej (NIP);
-- **3)** siedzib ę (miejsce zamieszkania) i adres.
+- **1)** firmę pośrednika;
+- **2)** numer w rejestrze przedsiębiorców lub numer identyfikacji podatkowej (NIP);
+- **3)** siedzibę (miejsce zamieszkania) i adres.
 
 8. Kredytodawca jest obowiązany zapewnić, że jego powiązany pośrednik kredytu hipotecznego oraz agent i personel tego powiązanego pośrednika kredytu hipotecznego co najmniej raz na 3 lata odbywają szkolenie z zakresu zagadnień dotyczących opracowywania, oferowania lub zawierania umów o kredyt hipoteczny, a także świadczenia usług pośrednictwa w zakresie kredytu hipotecznego lub świadczenia usług doradczych.
 
@@ -689,11 +714,11 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 **Art. 61.** Przepisów art. 48–51, art. 55 oraz art. 57 nie stosuje się do działalności polegającej na świadczeniu usług w zakresie pośrednictwa kredytu hipotecznego wykonywanej przez kredytodawców.
 
-#### Rozdział 8 Rejestr po ś redników kredytowych
+#### Rozdział 8 Rejestr pośredników kredytowych
 
 **Art. 62.**
 
-1. Komisja Nadzoru Finansowego prowadzi rejestr pośredników kredytowych, do którego są wpisywani pośrednicy kredytu hipotecznego i agenci oraz pośrednicy kredytowi w rozumieniu art. 5 pkt 3 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2016 r. poz. 1528).
+1. Komisja Nadzoru Finansowego prowadzi rejestr pośredników kredytowych, do którego są wpisywani pośrednicy kredytu hipotecznego i agenci oraz pośrednicy kredytowi w rozumieniu art. 5 pkt 3 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2024 r. poz. 1497 oraz z 2025 r. poz. 146).
 
 2. Rejestr pośredników kredytowych jest prowadzony przez Komisję Nadzoru Finansowego w systemie teleinformatycznym.
 
@@ -716,13 +741,13 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
     - **d)** numer wpisu w ewidencji działalności gospodarczej,
     - **e)** firmę, pod którą wykonuje działalność gospodarczą;
 
-- **3)** informację, czy pośrednik kredytu hipotecznego jest powiązanym pośrednikiem kredytu hipotecznego, oraz firmy (nazwy) kredytodawców, na rzecz których działa ten po ś rednik;
+- **3)** informację, czy pośrednik kredytu hipotecznego jest powiązanym pośrednikiem kredytu hipotecznego, oraz firmy (nazwy) kredytodawców, na rzecz których działa ten pośrednik;
 - **4)** dane agenta:
-    - **a)** w przypadku gdy agentem jest osoba fizyczna: imi ę lub imiona i nazwisko, adres miejsca prowadzenia działalności, NIP, numer wpisu w ewidencji działalności gospodarczej, w przypadku gdy agent świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział nazwę państwa członkowskiego, w którym agent świadczy te usługi, firmę, pod którą wykonuje działalność gospodarczą,
-    - **b)** w przypadku gdy agentem jest podmiot niebędący osobą fizyczną: firmę podmiotu, wykaz wspólników lub członków zarządu zawierający dane określone w pkt 2 lit. a i c, siedzibę i adres, NIP, numer w rejestrze przedsiębiorców, w przypadku gdy agent świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział nazwę państwa członkowskiego, w którym agent świadczy te usługi;
+    - **a)** w przypadku gdy agentem jest osoba fizyczna: – imię lub imiona i nazwisko, – adres miejsca prowadzenia działalności, – NIP, – numer wpisu w ewidencji działalności gospodarczej, – w przypadku gdy agent świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział – nazwę państwa członkowskiego, w którym agent świadczy te usługi, – firmę, pod którą wykonuje działalność gospodarczą,
+    - **b)** w przypadku gdy agentem jest podmiot niebędący osobą fizyczną: – firmę podmiotu, – wykaz wspólników lub członków zarządu zawierający dane określone w pkt 2 lit. a i c, – siedzibę i adres, – NIP, – numer w rejestrze przedsiębiorców, – w przypadku gdy agent świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział – nazwę państwa członkowskiego, w którym agent świadczy te usługi;
 
 - **5)** numer polisy potwierdzającej zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej lub umowy gwarancji bankowej lub ubezpieczeniowej, o których mowa w art. 55 ust. 1, oraz okres obowiązywania tej umowy;
-- **6)** w przypadku gdy pośrednik kredytu hipotecznego świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział nazwę państwa członkowskiego, w którym pośrednik świadczy te usługi.
+- **6)** w przypadku gdy pośrednik kredytu hipotecznego świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział – nazwę państwa członkowskiego, w którym pośrednik świadczy te usługi.
 
 2. Dział pierwszy rejestru pośredników kredytowych zawiera w odniesieniu do pośredników kredytu hipotecznego niebędących osobami fizycznymi:
 
@@ -737,17 +762,19 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 - **3)** informację, czy pośrednik kredytu hipotecznego jest powiązanym pośrednikiem kredytu hipotecznego, oraz firmy (nazwy) kredytodawców, na rzecz których działa ten pośrednik;
 - **4)** dane agenta, o których mowa w ust. 1 pkt 4;
 - **5)** numer polisy potwierdzającej zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej lub umowy gwarancji bankowej lub ubezpieczeniowej, o których mowa w art. 55 ust. 1, oraz okres obowiązywania tej umowy;
-- **6)** w przypadku gdy pośrednik świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział nazwę państwa członkowskiego, w którym pośrednik świadczy te usługi.
+- **6)** w przypadku gdy pośrednik świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział – nazwę państwa członkowskiego, w którym pośrednik świadczy te usługi.
 
 3. Dział drugi rejestru pośredników kredytowych zawiera w odniesieniu do osób fizycznych będących pośrednikami kredytowymi w rozumieniu art. 5 pkt 3 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim:
 
 - **1)** numer wpisu do rejestru pośredników kredytowych;
-- **2)** dane pośrednika kredytowego w rozumieniu art. 5 pkt 3 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim obejmuj ą ce:
-    - **a)** imi ę lub imiona i nazwisko,
-    - **b)** adres miejsca prowadzenia działalno ś ci,
+- **2)** dane pośrednika kredytowego w rozumieniu art. 5 pkt 3 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim obejmujące:
+    - **a)** imię lub imiona i nazwisko,
+    - **b)** adres miejsca prowadzenia działalności,
     - **c)** NIP,
     - **d)** numer wpisu do ewidencji działalności gospodarczej,
-    - **e)** firmę, pod którą wykonuje działalność gospodarczą.
+    - **e)** firmę, pod którą wykonuje działalność gospodarczą;
+
+- **3)** wzmiankę o wykreśleniu z rejestru pośredników kredytowych.
 
 4. Dział drugi rejestru pośredników kredytowych zawiera w odniesieniu do pośredników kredytowych w rozumieniu art. 5 pkt 3 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim niebędących osobami fizycznymi:
 
@@ -758,7 +785,8 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
     - **c)** NIP,
     - **d)** numer w rejestrze przedsiębiorców;
 
-- **3)** wykaz wspólników lub członków zarządu zawierający dane określone w ust. 3 pkt 2 lit. a i c.
+- **3)** wykaz wspólników lub członków zarządu zawierający dane określone w ust. 3 pkt 2 lit. a i c;
+- **4)** wzmiankę o wykreśleniu z rejestru pośredników kredytowych.
 
 **Art. 64.**
 
@@ -776,7 +804,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 **Art. 66.** W przypadku wykreślenia pośrednika kredytu hipotecznego lub agenta z rejestru pośredników kredytowych Komisja Nadzoru Finansowego niezwłocznie, nie później niż w terminie 14 dni od dnia wykreślenia, informuje o tym właściwy organ prowadzący rejestr pośredników kredytowych w państwie członkowskim, w którym pośrednik kredytu hipotecznego lub agent wykonuje działalność.
 
-#### Rozdział 9 Ś wiadczenie usług po ś rednictwa kredytu hipotecznego w pa ń stwach członkowskich
+#### Rozdział 9 Świadczenie usług pośrednictwa kredytu hipotecznego w państwach członkowskich
 
 **Art. 67.**
 
@@ -786,8 +814,8 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 - **1)** nazwę państwa członkowskiego, na którego terytorium pośrednik kredytu hipotecznego zamierza utworzyć oddział lub prowadzić działalność transgranicznie;
 - **2)** firmę, siedzibę (miejsce zamieszkania) i adres pośrednika kredytu hipotecznego lub agenta;
-- **3)** firm ę , siedzib ę i adres oddziału, a tak ż e siedzib ę i adres głównego miejsca wykonywania działalno ś ci;
-- **4)** firmy (nazwy) kredytodawców, na rzecz których działa po ś rednik kredytu hipotecznego w przypadku powi ą zanych po ś redników kredytu hipotecznego.
+- **3)** firmę, siedzibę i adres oddziału, a także siedzibę i adres głównego miejsca wykonywania działalności;
+- **4)** firmy (nazwy) kredytodawców, na rzecz których działa pośrednik kredytu hipotecznego – w przypadku powiązanych pośredników kredytu hipotecznego.
 
 3. Komisja Nadzoru Finansowego przesyła zawiadomienie, o którym mowa w ust. 1, właściwym organom nadzorczym goszczącego państwa członkowskiego w terminie miesiąca od dnia jego otrzymania i jednocześnie powiadamia o tym zainteresowany podmiot.
 
@@ -801,13 +829,13 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 - **1)** firmy podmiotu lub firmy agenta, a także adresu na terytorium Rzeczypospolitej Polskiej, pod którym będzie możliwe uzyskanie dokumentów dotyczących jego działalności;
 - **2)** firmy oraz adresu głównego miejsca wykonywania działalności podmiotu w macierzystym państwie członkowskim;
-- **3)** firmy (nazwy) kredytodawców, na rzecz których działa pośrednik kredytu hipotecznego w przypadku powiązanych pośredników kredytu hipotecznego.
+- **3)** firmy (nazwy) kredytodawców, na rzecz których działa pośrednik kredytu hipotecznego – w przypadku powiązanych pośredników kredytu hipotecznego.
 
 3. Przed rozpoczęciem działalności na terytorium Rzeczypospolitej Polskiej przez pośrednika kredytu hipotecznego, o którym mowa w ust. 1, przez oddział lub w terminie 2 miesięcy od dnia otrzymania informacji, o których mowa w ust. 2, Komisja Nadzoru Finansowego przekazuje temu pośrednikowi informacje dotyczące dodatkowych warunków prowadzenia działalności pośrednictwa kredytu hipotecznego na terytorium Rzeczypospolitej Polskiej.
 
 4. Pośrednik kredytu hipotecznego, o którym mowa w ust. 1, wykonujący działalność przez oddział jest obowiązany zapewnić, że personel oddziału tego pośrednika odbył szkolenie zakończone egzaminem obejmującym zagadnienia określone w art. 53 ust. 3 i 4, uwzględniającym przepisy prawa polskiego w tym zakresie.
 
-#### Rozdział 10 Nadzór nad po ś rednikami kredytu hipotecznego i agentami
+#### Rozdział 10 Nadzór nad pośrednikami kredytu hipotecznego i agentami
 
 **Art. 69.**
 
@@ -825,8 +853,8 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 - **1)** nałożyć na osobę zarządzającą bezpośrednio odpowiedzialną za stwierdzone nieprawidłowości karę pieniężną w wysokości do trzykrotnego miesięcznego wynagrodzenia brutto tej osoby, wyliczonego na podstawie średniego wynagrodzenia brutto za ostatnie 3 miesiące przed nałożeniem kary;
 - **2)** nałożyć na ten podmiot karę pieniężną w wysokości do 500 000 zł;
 - **3)** wystąpić do tego podmiotu z wnioskiem o odwołanie osoby zarządzającej, o której mowa w pkt 1;
-- **4)** zawiesi ć w czynno ś ciach osob ę zarz ą dzaj ą c ą , o której mowa w pkt 1, do czasu podj ę cia rozstrzygni ę cia w sprawie wniosku, o którym mowa w pkt 3; zawieszenie w czynno ś ciach polega na wył ą czeniu z podejmowania decyzji w zakresie praw i obowi ą zków maj ą tkowych tego podmiotu;
-- **5)** cofn ąć zezwolenie albo wykre ś li ć z rejestru po ś redników kredytowych w przypadku agentów oraz powi ą zanych pośredników kredytu hipotecznego.
+- **4)** zawiesić w czynnościach osobę zarządzającą, o której mowa w pkt 1, do czasu podjęcia rozstrzygnięcia w sprawie wniosku, o którym mowa w pkt 3; zawieszenie w czynnościach polega na wyłączeniu z podejmowania decyzji w zakresie praw i obowiązków majątkowych tego podmiotu;
+- **5)** cofnąć zezwolenie albo wykreślić z rejestru pośredników kredytowych – w przypadku agentów oraz powiązanych pośredników kredytu hipotecznego.
 
 5. W razie stwierdzenia, że pośrednik kredytu hipotecznego lub agent nie wykonuje albo nieprawidłowo wykonuje obowiązki, o których mowa w ust. 3 pkt 2, Komisja Nadzoru Finansowego może nałożyć na ten podmiot sankcje, o których mowa w ust. 4 pkt 1, 2 i 5.
 
@@ -860,7 +888,14 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 - **2)** jest zagwarantowane, że przekazywanie udzielonych informacji poza organy, o których mowa w ust. 2, jest możliwe wyłącznie po uprzednim uzyskaniu zgody Komisji Nadzoru Finansowego;
 - **3)** nie narusza zasad ochrony informacji wynikających z przepisów odrębnych.
 
-5. W przypadku gdy właściwy organ nadzorczy państwa członkowskiego innego niż Rzeczpospolita Polska odmówił współpracy z Komisją Nadzoru Finansowego w zakresie, o którym mowa w ust. 1, lub nie przekazał informacji, o które Komisja Nadzoru Finansowego wystąpiła w związku z wykonywaniem zadań wynikających z ustawy, Komisja Nadzoru Finansowego może przekazać sprawę do Europejskiego Urzędu Nadzoru Bankowego oraz zwrócić się o pomoc do tego organu zgodnie z art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z pó ź n. zm. ).
+5. W przypadku gdy właściwy organ nadzorczy państwa członkowskiego innego niż Rzeczpospolita Polska odmówił współpracy z Komisją Nadzoru Finansowego w zakresie, o którym mowa w ust. 1, lub nie przekazał informacji, o które Komisja Nadzoru Finansowego wystąpiła w związku z wykonywaniem zadań wynikających z ustawy, Komisja Nadzoru Finansowego może przekazać sprawę do Europejskiego Urzędu Nadzoru Bankowego oraz zwrócić się o pomoc do tego organu zgodnie z art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm. ).
+
+6. Komisja Nadzoru Finansowego może odmówić przekazania informacji, o których mowa w ust. 2, właściwemu organowi nadzorczemu odpowiednio macierzystego państwa członkowskiego albo goszczącego państwa członkowskiego, jeżeli:
+
+- **1)** przekazanie tych informacji mogłoby wpłynąć niekorzystnie na suwerenność, bezpieczeństwo lub interes publiczny Rzeczypospolitej Polskiej, lub
+- **2)** żądanie udzielenia informacji dotyczy tych samych naruszeń przepisów prawa obowiązujących w innym niż Rzeczpospolita Polska państwie członkowskim przez ten sam podmiot, co do których na terytorium Rzeczypospolitej Polskiej toczy się już postępowanie sądowe lub administracyjne albo wydany został prawomocny wyrok lub została wydana przez Komisję Nadzoru Finansowego ostateczna decyzja administracyjna.
+
+7. W przypadku odmowy przekazania informacji, o której mowa w ust. 6, Komisja Nadzoru Finansowego w terminie 30 dni od dnia otrzymania żądania powiadamia o odmowie właściwy organ nadzorczy, który zwrócił się z żądaniem.
 
 **Art. 71.**
 
@@ -871,7 +906,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 2. Po bezskutecznym upływie terminu wyznaczonego w wezwaniu, o którym mowa w ust. 1 pkt 1, jeżeli zastosowanie procedury, o której mowa w ust. 1 pkt 2, skutkowałoby nadmierną zwłoką, mogącą bezpośrednio zagrażać ważnym interesom konsumentów, Komisja Nadzoru Finansowego może odpowiednio zastosować środki określone w art. 69 ust. 4 pkt 1, 3 i 4, zawiadamiając właściwe organy nadzorcze macierzystego państwa członkowskiego o stwierdzonych nieprawidłowościach i podjętych środkach.
 
-3. Jeżeli mimo zastosowania środków nadzoru przez właściwe organy nadzorcze macierzystego państwa członkowskiego pośrednik kredytu hipotecznego, o którym mowa w art. 68 ust. 1, lub jego agent nadal nie przestrzegają przepisów rozdziałów 2–4, Komisja Nadzoru Finansowego może zastosować odpowiednio środki określone w art. 69 ust. 4 pkt 1, 3 i 4.
+3. Jeżeli mimo zastosowania środków nadzoru przez właściwe organy nadzorcze macierzystego państwa członkowskiego pośrednik kredytu hipotecznego, o którym mowa w art. 68 ust. 1, lub jego agent nadal nie przestrzegają przepisów rozdziałów 2– 4, Komisja Nadzoru Finansowego może zastosować odpowiednio środki określone w art. 69 ust. 4 pkt 1, 3 i 4.
 
 4. Przepis ust. 3 stosuje się także w przypadku, gdy:
 
@@ -882,7 +917,9 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 6. W przypadku gdy Komisja Nadzoru Finansowego nie zgadza się ze środkami podjętymi przez goszczące państwo członkowskie w odniesieniu do pośrednika kredytu hipotecznego, o którym mowa w art. 67 ust. 1, może przekazać sprawę do Europejskiego Urzędu Nadzoru Bankowego oraz zwrócić się o pomoc do tego organu zgodnie z art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE.
 
-7. Do decyzji administracyjnych Komisji Nadzoru Finansowego wydawanych w przypadkach, o których mowa w ust. 2–4, przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996, 1579 i 2138) nie stosuje się.
+7. Do decyzji administracyjnych Komisji Nadzoru Finansowego wydawanych w przypadkach, o których mowa w ust. 2–4, przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz.
+
+- **572)** nie stosuje się.
 
 **Art. 72.**
 
@@ -893,7 +930,24 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 - **1)** zastosować odpowiednio środki określone w art. 69 ust. 4 pkt 1, 3 i 4, zawiadamiając właściwe organy nadzorcze macierzystego państwa członkowskiego o podjętych środkach;
 - **2)** przekazać sprawę do Europejskiego Urzędu Nadzoru Bankowego oraz zwrócić się do tego organu o pomoc zgodnie z art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE.
 
-3. O zastosowaniu ś rodków, o których mowa w ust. 2 pkt 1, Komisja Nadzoru Finansowego informuje niezwłocznie Komisj ę Europejsk ą oraz Europejski Urz ą d Nadzoru Bankowego.
+3. O zastosowaniu środków, o których mowa w ust. 2 pkt 1, Komisja Nadzoru Finansowego informuje niezwłocznie Komisję Europejską oraz Europejski Urząd Nadzoru Bankowego.
+
+**Art. 72a.**
+
+1. W przypadku gdy pośrednik kredytu hipotecznego oraz agent mający siedzibę lub miejsce zamieszkania w innym niż Rzeczpospolita Polska państwie członkowskim wykonują działalność w zakresie pośrednictwa kredytu hipotecznego na terytorium Rzeczypospolitej Polskiej przez oddział, właściwy organ nadzorczy macierzystego państwa członkowskiego, po uprzednim powiadomieniu Komisji Nadzoru Finansowego, może przeprowadzić kontrolę działalności tego oddziału.
+
+2. Komisja Nadzoru Finansowego może wystąpić do właściwego organu nadzorczego macierzystego państwa członkowskiego o uczestniczenie w przeprowadzanej w tym oddziale kontroli, o której mowa w ust. 1.
+
+3. W przypadku gdy pośrednik kredytu hipotecznego oraz agent wykonują działalność w zakresie pośrednictwa kredytu hipotecznego na terytorium goszczącego państwa członkowskiego przez oddział, Komisja Nadzoru Finansowego, po uprzednim powiadomieniu właściwego organu nadzorczego goszczącego państwa członkowskiego, może przeprowadzić kontrolę działalności tego oddziału.
+
+4. W przeprowadzanej przez Komisję Nadzoru Finansowego kontroli, o której mowa w ust. 3, może uczestniczyć właściwy organ nadzorczy goszczącego państwa członkowskiego lub jego upoważniony przedstawiciel, jeżeli organ ten złoży taki wniosek.
+
+5. Komisja Nadzoru Finansowego może nie uwzględnić wniosku, o którym mowa w ust. 4, jeżeli jego wykonanie:
+
+- **1)** mogłoby wpłynąć niekorzystnie na suwerenność, bezpieczeństwo lub interes publiczny Rzeczypospolitej Polskiej lub
+- **2)** żądanie udzielenia informacji dotyczy tych samych naruszeń przepisów prawa obowiązujących w innym niż Rzeczpospolita Polska państwie członkowskim przez ten sam podmiot, co do których na terytorium Rzeczypospolitej Polskiej toczy się już postępowanie sądowe lub administracyjne albo wydany został prawomocny wyrok lub została wydana przez Komisję Nadzoru Finansowego ostateczna decyzja administracyjna.
+
+6. W przypadku odmowy, o której mowa w ust. 5, Komisja Nadzoru Finansowego powiadamia w terminie 30 dni od dnia otrzymania żądania o odmowie właściwy organ, który zwrócił się z wnioskiem.
 
 **Art. 73.**
 
@@ -906,7 +960,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 - **1)** wstępu do pomieszczeń kontrolowanego podmiotu;
 - **2)** swobodnego dostępu do oddzielnego pomieszczenia biurowego i środków łączności;
 - **3)** wglądu do dokumentów kontrolowanego podmiotu oraz żądania sporządzenia kopii i odpisów tych dokumentów oraz wyciągów z nich;
-- **4)** wglądu do danych zawartych w systemie informatycznym kontrolowanego podmiotu oraz żądania sporządzenia kopii tych danych lub wyciągów z nich, w tym w postaci dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570).
+- **4)** wglądu do danych zawartych w systemie informatycznym kontrolowanego podmiotu oraz żądania sporządzenia kopii tych danych lub wyciągów z nich, w tym w postaci dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717).
 
 **Art. 74.**
 
@@ -925,14 +979,14 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 **Art. 75.**
 
-1. Pośrednicy kredytu hipotecznego są obowiązani do wnoszenia wpłat na pokrycie kosztów nadzoru w kwocie nieprzekraczającej 0,3% sumy przychodów z działalności pośrednictwa kredytu hipotecznego.
+1. Pośrednicy kredytu hipotecznego są obowiązani do wnoszenia wpłat na pokrycie kosztów nadzoru w kwocie nieprzekraczającej 0,3 % sumy przychodów z działalności pośrednictwa kredytu hipotecznego.
 
-2. Należności z tytułu wpłat, o których mowa w ust. 1, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2016 r. poz. 599, z późn. zm. ).
+2. Należności z tytułu wpłat, o których mowa w ust. 1, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620).
 
 3. Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
 - **1)** terminy wnoszenia, wysokość i sposób obliczania wpłat, o których mowa w ust. 1,
-- **2)** sposób i terminy rozliczenia należności z tytułu wpłat, o których mowa w ust. 1 mając na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, konieczność zapewnienia skuteczności sprawowanego nadzoru oraz możliwość rozliczania należności z tytułu wpłat na pokrycie kosztów nadzoru w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+- **2)** sposób i terminy rozliczenia należności z tytułu wpłat, o których mowa w ust. 1 – mając na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, konieczność zapewnienia skuteczności sprawowanego nadzoru oraz możliwość rozliczania należności z tytułu wpłat na pokrycie kosztów nadzoru w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 #### Rozdział 11 Przepisy karne
 
@@ -952,125 +1006,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 #### Rozdział 12 Zmiany w przepisach
 
-**Art. 79.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2016 r. poz. 1829, 1948, 1997 i 2255 oraz z 2017 r. poz. 460) w art. 75 w ust. 1 w pkt 31 kropkę zastępuje się średnikiem i dodaje się pkt 32 w brzmieniu: „32) ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. poz. 819).”.
-
-**Art. 80.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2017 r. poz. 196, 724 i 791) w art. 1 w ust. 2 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) nadzór nad pośrednikami kredytu hipotecznego oraz ich agentami, sprawowany zgodnie z przepisami ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. poz. 819).”.
-
-**Art. 81.** W ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2014 r. poz. 1015 i 1188, z 2015 r. poz. 396 oraz z 2016 r. poz. 1948) w art. 2 w ust. 2 pkt 5 otrzymuje brzmienie: „5) umowie o kredyt konsumencki rozumie się przez to umowę, o której mowa w art. 3 ust. 1 i 1a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2016 r. poz. 1528 oraz z 2017 r. poz. 819);”.
-
-**Art. 82.** W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2016 r. poz. 1528) wprowadza się następujące zmiany:
-
-**Art. 7b.**
-
-1. Kredytodawca lub pośrednik kredytowy w reklamach dotyczących kredytu konsumenckiego innych niż reklamy, o których mowa w art. 7 ust. 1, podaje konsumentowi rzeczywistą roczną stopę oprocentowania.
-
-2. Informację, o której mowa w ust. 1, podaje się konsumentowi w sposób co najmniej tak samo widoczny, czytelny i słyszalny jak pozostałe informacje przekazywane w reklamie.”;
-
-- **7)** w art. 8 ust. 1 otrzymuje brzmienie: „1. Informacje, o których mowa w art. 7 ust. 1–3 oraz art. 7b ust. 1, kredytodawca lub pośrednik kredytowy podaje na podstawie reprezentatywnego przykładu.”;
-- **8)** w art. 13 w ust. 1:
-    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Kredytodawca lub pośrednik kredytowy przed zawarciem umowy o kredyt konsumencki jest zobowiązany podać konsumentowi, na trwałym nośniku, w czasie umożliwiającym zapoznanie się z tymi informacjami:”,
-    - **b)** pkt 4 otrzymuje brzmienie: „4) stopę oprocentowania kredytu, warunki stosowania tej stopy oprocentowania oraz, jeżeli są dostępne, wszelkie indeksy lub stopy referencyjne mające zastosowanie do pierwotnej stopy oprocentowania kredytu, a także okresy, warunki i procedury zmian stopy oprocentowania kredytu; jeżeli umowa o kredyt konsumencki przewiduje różne stopy oprocentowania, informacje te podaje się dla wszystkich stosowanych stóp procentowych w danym okresie obowi ą zywania umowy;”,
-    - **c)** pkt 7 otrzymuje brzmienie: „7) całkowit ą kwot ę do zapłaty przez konsumenta;”,
-    - **d)** po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „7a) rzeczywistą roczną stopę oprocentowania przedstawioną za pomocą reprezentatywnego przykładu, który obejmuje wszystkie założenia przyjęte do obliczenia tej stopy; w przypadku gdy konsument poinformował kredytodawcę o co najmniej jednym ze składników preferowanego przez siebie kredytu, takim jak okres obowiązywania umowy o kredyt lub całkowita kwota kredytu, składniki te powinny być uwzględnione w reprezentatywnym przykładzie;
-
-- **7b)** informację, że inne mechanizmy dokonywania wypłat mogą spowodować zastosowanie wyższej rocznej stopy oprocentowania jeżeli umowa o kredyt przewiduje różne sposoby dokonywania wypłat, w odniesieniu do których obowiązują różne opłaty i stopy oprocentowania, a kredytodawca korzysta z założenia, o którym mowa w ust. 4 pkt 2 załącznika nr 4 do ustawy;”,
-    - **e)** pkt 8–10 otrzymują brzmienie: „8) zasady i terminy spłaty kredytu oraz, w odpowiednich przypadkach, kolejność zaliczania rat kredytu konsumenckiego na poczet należności kredytodawcy; jeżeli w ramach kredytu stosuje się różne stopy oprocentowania dla różnych należności kredytodawcy, należy także podać kolejność zaliczania rat kredytu konsumenckiego na poczet różnych należnych sald, dla których stosuje się różne stopy oprocentowania;
-
-- **9)** informację dotyczącą obowiązku zawarcia umowy dodatkowej, w szczególności umowy ubezpieczenia, w przypadku gdy zawarcie takiej umowy jest niezbędne do uzyskania kredytu lub do uzyskania go na oferowanych warunkach;
-- **10)** w odpowiednich przypadkach, informację o innych kosztach, które konsument jest zobowiązany ponieść w związku z umową o kredyt konsumencki, w szczególności o odsetkach, prowizjach, marżach, opłatach, w tym opłatach za prowadzenie jednego lub kilku rachunków, na których są zapisywane zarówno transakcje płatności, jak i wypłaty, łącznie z opłatami za korzystanie z instrumentów płatniczych zarówno dla transakcji płatności, jak i dla wypłat, oraz kosztach usług dodatkowych, w szczególności ubezpieczeń, jeżeli są znane kredytodawcy, oraz warunki, na jakich koszty te mogą ulec zmianie;”,
-    - **f)** pkt 18 otrzymuje brzmienie: „18) informację o prawie konsumenta do niezwłocznego otrzymania bezpłatnej informacji na temat wyników przeprowadzonej w celu oceny zdolności kredytowej weryfikacji w bazie danych;”;
-
-- **9)** w art. 17 ust. 1 otrzymuje brzmienie: „1. Kredytodawca lub pośrednik kredytowy przed zawarciem umowy o kredyt w rachunku oszczędnościowo-rozliczeniowym jest zobowiązany podać konsumentowi, na trwałym nośniku, dane, o których mowa w art. 13 ust. 1. Informacje te są podawane konsumentowi w czasie umożliwiającym mu zapoznanie się z nimi.”;
-- **10)** uchyla się art. 22 i art. 23;
-- **11)** w art. 30 w ust. 1:
-    - **a)** pkt 6 otrzymuje brzmienie: „6) stopę oprocentowania kredytu, warunki stosowania tej stopy, a także okresy, warunki i procedury zmiany stopy oprocentowania wraz z podaniem indeksu lub stopy referencyjnej, o ile ma zastosowanie do pierwotnej stopy oprocentowania kredytu; jeżeli umowa o kredyt konsumencki przewiduje różne stopy oprocentowania, informacje te podaje się dla wszystkich stosowanych stóp procentowych w danym okresie obowiązywania umowy;”,
-    - **b)** pkt 8 otrzymuje brzmienie: „8) zasady i terminy spłaty kredytu, w szczególności kolejność zaliczania rat kredytu konsumenckiego na poczet należności kredytodawcy, w tym informację o prawie, o którym mowa w art. 37 ust. 1; jeżeli w ramach kredytu stosuje się różne stopy oprocentowania dla różnych należności kredytodawcy, należy także podać kolejność zaliczania rat kredytu konsumenckiego na poczet różnych należnych sald, dla których stosuje się różne stopy oprocentowania;”,
-    - **c)** pkt 10 otrzymuje brzmienie: „10) informacj ę o innych kosztach, które konsument jest zobowi ą zany ponie ść w zwi ą zku z umow ą o kredyt konsumencki, w szczególno ś ci o opłatach, w tym opłatach za prowadzenie jednego lub kilku rachunków, na których s ą zapisywane zarówno transakcje płatno ś ci, jak i wypłaty, ł ą cznie z opłatami za korzystanie ze ś rodków płatniczych zarówno dla transakcji płatno ś ci, jak i dla wypłat, prowizjach, mar ż ach oraz kosztach usług dodatkowych, w szczególno ś ci ubezpiecze ń , je ż eli s ą znane kredytodawcy, oraz warunki, na jakich koszty te mogą ulec zmianie;”,
-    - **d)** pkt 16 i 17 otrzymują brzmienie: „16) prawo konsumenta do spłaty kredytu przed terminem oraz procedurę spłaty kredytu przed terminem;
-
-- **17)** informację o prawie kredytodawcy do otrzymania prowizji za spłatę kredytu przed terminem i o sposobie jej ustalania, o ile takie prawo zastrzeżono w umowie;”,
-    - **e)** pkt 19 otrzymuje brzmienie: „19) warunki rozwiązania umowy;”;
-
-- **12)** w art. 32 pkt 3 otrzymuje brzmienie: „3) całkowity koszt kredytu;”;
-- **13)** uchyla się art. 35;
-- **14)** art. 39 otrzymuje brzmienie: „Art. 39. Jeżeli znaczne przekroczenie salda na rachunku oszczędnościowo-rozliczeniowym konsumenta utrzymuje się dłużej niż miesiąc, konsument otrzymuje niezwłocznie, na trwałym nośniku, informację o wysokości tego przekroczenia oraz o stopie oprocentowania zadłużenia przeterminowanego, warunkach jej zmiany oraz ewentualnych innych opłatach z tytułu zaległości w spłacie kredytu.”;
-- **15)** w art. 42 ust. 2 otrzymuje brzmienie: „2. Jeżeli umowa o kredyt tak stanowi, kredytodawca ma prawo wypowiedzieć, na trwałym nośniku, umowę o kredyt odnawialny z zachowaniem co najmniej dwumiesięcznego okresu wypowiedzenia.”;
-- **16)** art. 43 otrzymuje brzmienie: „Art. 43. 1. Jeżeli umowa o kredyt tak stanowi, kredytodawca ma prawo wypowiedzieć, na trwałym nośniku, konsumentowi prawo do dokonywania wypłat na podstawie umowy o kredyt odnawialny w przypadku niedotrzymania przez niego zobowiązań dotyczących warunków udzielenia tego kredytu określonych w umowie oraz negatywnej oceny zdolności kredytowej konsumenta.
-
-2. Kredytodawca informuje konsumenta o wypowiedzeniu i jego przyczynach.
-
-3. Jeżeli istnieje taka możliwość, kredytodawca przekazuje informacje, o których mowa w ust. 2, przed złożeniem oświadczenia o wypowiedzeniu prawa do dokonywania wypłat na podstawie umowy o kredyt odnawialny, chyba że przekazanie tych informacji jest zabronione na podstawie przepisów szczególnych.”;
-
-- **17)** uchyla się art. 46;
-- **18)** w art. 54 ust. 4 otrzymuje brzmienie: „4. W przypadku odstąpienia od umowy, o którym mowa w art. 53, kredytodawcy nie przysługują żadne inne opłaty, z wyjątkiem bezzwrotnych kosztów poniesionych przez niego na rzecz organów administracji publicznej.”;
-- **19)** tytuł rozdziału 5a otrzymuje brzmienie: „Działalność instytucji pożyczkowych i rejestr instytucji pożyczkowych”;
-- **20)** po art. 59a dodaje się art. 59aa–59ag w brzmieniu: „Art. 59aa. 1. Instytucja pożyczkowa może podjąć wykonywanie działalności po uzyskaniu wpisu do rejestru instytucji pożyczkowych.
-
-2. Za dzień rozpoczęcia działalności przez instytucję pożyczkową uważa się dzień dokonania wpisu do rejestru instytucji pożyczkowych. Art. 59ab. 1. Rejestr instytucji pożyczkowych jest prowadzony przez Komisję Nadzoru Finansowego.
-
-2. Rejestr instytucji pożyczkowych jest prowadzony w systemie teleinformatycznym i udostępniany na stronie internetowej Komisji Nadzoru Finansowego. Art. 59ac. 1. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru instytucji pożyczkowych na wniosek podmiotu zamierzającego podjąć wykonywanie działalności instytucji pożyczkowej.
-
-2. Wniosek, o którym mowa w ust. 1, zawiera:
-
-- **1)** firm ę spółki z ograniczon ą odpowiedzialno ś ci ą albo spółki akcyjnej;
-- **2)** siedzib ę spółki i adres;
-- **3)** imiona i nazwiska oraz numery Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) członków zarządu;
-- **4)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym;
-- **5)** numer identyfikacji podatkowej (NIP).
-
-3. Do wniosku, o którym mowa w ust. 1, załącza się zaświadczenie z Krajowego Rejestru Karnego o niekaralności członka zarządu, rady nadzorczej, komisji rewizyjnej lub prokurenta instytucji pożyczkowej w zakresie przestępstw, o których mowa w art. 59a ust. 4, oraz dokumenty potwierdzające spełnianie warunków, o których mowa w art. 59a ust. 1 i 2, przez podmiot ubiegający się o wpis do rejestru instytucji pożyczkowych.
-
-4. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru instytucji pożyczkowych w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 1. Art. 59ad. 1. Podmiot składający wniosek, o którym mowa w art. 59ac ust. 1, jest obowiązany wnieść opłatę w wysokości 600 zł.
-
-2. Wniosek o zmianę wpisu w rejestrze instytucji pożyczkowych oraz wniosek o wykreślenie wpisu z rejestru instytucji pożyczkowych podlegają opłacie w wysokości 200 zł.
-
-3. Koszty prowadzenia rejestru instytucji pożyczkowych pokrywane są z opłat, o których mowa w ust. 1 i 2. Art. 59ae. Rejestr instytucji pożyczkowych zawiera:
-
-- **1)** numer wpisu do rejestru;
-- **2)** dane dotyczące instytucji pożyczkowej obejmujące: Art. 59af. Instytucja pożyczkowa informuje Komisję Nadzoru Finansowego o zmianie danych objętych wpisem do rejestru instytucji pożyczkowych niezwłocznie, nie później niż w terminie 7 dni od dnia zaistnienia tych zmian. Art. 59ag. 1. Komisja Nadzoru Finansowego odmawia wpisu do rejestru instytucji pożyczkowych, jeżeli podmiot ubiegający się o wpis do rejestru nie spełnia warunków, o których mowa w art. 59a.
-    - **a)** firmę,
-    - **b)** siedzibę i adres,
-    - **c)** numer w rejestrze przedsiębiorców,
-    - **d)** NIP.
-
-2. Komisja Nadzoru Finansowego dokonuje niezwłocznie wykreślenia wpisu z rejestru dotyczącego podmiotu, który przestał spełniać warunki, o których mowa w art. 59a.”;
-
-- **21)** po rozdziale 5a dodaje się rozdział 5aa w brzmieniu: „Rozdział 5aa Wpis do rejestru pośredników kredytowych Art. 59da. 1. Pośrednik kredytowy może podjąć wykonywanie działalności pośrednictwa w zakresie kredytów konsumenckich po uzyskaniu wpisu w dziale drugim rejestru pośredników kredytowych, o którym mowa w art. 62 ust. 4 pkt 2 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. poz. 819), zwanego dalej „rejestrem”.
-
-2. Pośrednikiem kredytowym może być wyłącznie:
-
-- **1)** osoba fizyczna, która nie była prawomocnie skazana za przestępstwo przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe;
-- **2)** osoba prawna, której członkowie zarządu spełniają warunek, o którym mowa w pkt 1;
-- **3)** spółka nieposiadająca osobowości prawnej, której wspólnicy albo członkowie zarządu spełniają warunek, o którym mowa w pkt 1.
-
-3. Za dzień rozpoczęcia działalności pośrednictwa w zakresie kredytów konsumenckich uważa się dzień dokonania wpisu do rejestru. Art. 59db. 1. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru na wniosek podmiotu zamierzaj ą cego podj ąć wykonywanie działalno ś ci po ś rednictwa w zakresie kredytów konsumenckich.
-
-2. Wniosek, o którym mowa w ust. 1, zawiera:
-
-- **1)** firmę przedsiębiorcy;
-- **2)** siedzibę (miejsce zamieszkania) i adres przedsiębiorcy;
-- **3)** imiona i nazwiska oraz numery PESEL członków zarządu w przypadku przedsiębiorcy będącego osobą prawną;
-- **4)** imiona i nazwiska oraz numery PESEL członków zarządu albo wspólników w przypadku przedsiębiorcy będącego spółką nieposiadającą osobowości prawnej;
-- **5)** numer w rejestrze przedsiębiorców albo w ewidencji działalności gospodarczej;
-- **6)** NIP przedsiębiorcy.
-
-3. Do wniosku, o którym mowa w ust. 1, dołącza się zaświadczenie z Krajowego Rejestru Karnego o niekaralności w zakresie przestępstw, o których mowa w art. 59da ust. 2 pkt 1.
-
-4. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 1. Art. 59dc. 1. Podmiot składający wniosek, o którym mowa w art. 59db ust. 1, jest obowiązany wnieść opłatę w wysokości 600 zł.
-
-2. Wniosek o zmianę wpisu w rejestrze oraz wniosek o wykreślenie wpisu z rejestru podlegają opłacie w wysokości 200 zł.
-
-3. Koszty prowadzenia rejestru są pokrywane z opłat, o których mowa w ust. 1 i 2. Art. 59dd. Pośrednik kredytowy informuje Komisję Nadzoru Finansowego o zmianie danych objętych wpisem do rejestru niezwłocznie, nie później niż w terminie 7 dni od dnia zaistnienia tych zmian. Art. 59de. 1. Komisja Nadzoru Finansowego odmawia, w drodze decyzji administracyjnej, wpisu do rejestru, jeżeli podmiot ubiegający się o wpis do rejestru nie spełnia warunków, o których mowa w art. 59da ust. 2.
-
-2. Komisja Nadzoru Finansowego dokonuje niezwłocznie wykreślenia wpisu z rejestru dotyczącego podmiotu, który przestał spełniać warunki, o których mowa w art. 59da ust. 2.”;
-
-- **22)** po art. 59g dodaje się art. 59h i art. 59i w brzmieniu: „Art. 59h. Kto, będąc kredytodawcą w rozumieniu art. 5 pkt 2a, prowadzi działalność bez wymaganego wpisu do rejestru instytucji pożyczkowych, podlega grzywnie do 500 000 zł.
-
-**Art. 59i.** Kto, będąc pośrednikiem kredytowym, prowadzi działalność w zakresie pośrednictwa kredytu konsumenckiego bez wymaganego wpisu do rejestru, podlega grzywnie do 100 000 zł.”;
-
-**Art. 83.** W ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2016 r. poz. 892 i 1823 oraz z 2017 r. poz. 245) wprowadza się następujące zmiany:
-
-#### Rozdział 13 Przepisy epizodyczne, przej ś ciowe, dostosowuj ą ce i ko ń cowe
+#### Rozdział 13 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 
 **Art. 84.**
 
@@ -1098,7 +1034,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 **Art. 88.**
 
-1. Podmioty prowadzące w dniu wejścia w życie ustawy działalność gospodarczą w zakresie pośrednictwa kredytu hipotecznego mogą kontynuować tę działalność na terytorium Rzeczypospolitej Polskiej bez spełnienia wymogu uzyskania zezwolenia, o którym mowa w art. 48 ust. 1, albo wpisu do rejestru po ś redników kredytowych, nie dłu ż ej jednak ni ż przez okres 6 miesi ę cy od dnia wej ś cia w ż ycie ustawy.
+1. Podmioty prowadzące w dniu wejścia w życie ustawy działalność gospodarczą w zakresie pośrednictwa kredytu hipotecznego mogą kontynuować tę działalność na terytorium Rzeczypospolitej Polskiej bez spełnienia wymogu uzyskania zezwolenia, o którym mowa w art. 48 ust. 1, albo wpisu do rejestru pośredników kredytowych, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
 
 2. Podmiot określony w ust. 1, który w terminie 6 miesięcy od dnia wejścia w życie ustawy złoży wniosek o wydanie zezwolenia, o którym mowa w art. 48 ust. 1, albo wniosek o wpis do rejestru pośredników kredytowych, może kontynuować działalność, o której mowa w ust. 1, na terytorium Rzeczypospolitej Polskiej bez tego zezwolenia albo wpisu do tego rejestru odpowiednio do dnia, w którym decyzja w sprawie zezwolenia, o którym mowa w art. 48 ust. 1, stała się ostateczna, albo do dnia rozpatrzenia wniosku o wpis do rejestru pośredników kredytowych.
 
@@ -1106,11 +1042,11 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 **Art. 89.**
 
-1. Instytucje pożyczkowe prowadzące w dniu wejścia w życie ustawy działalność gospodarczą w zakresie udzielania lub dawania przyrzeczenia udzielenia kredytu konsumenckiego mogą kontynuować tę działalność bez spełnienia wymogu uzyskania wpisu do rejestru instytucji pożyczkowych, o którym mowa w art. 59aa ustawy zmienianej w art. 82, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
+1. Instytucje pożyczkowe prowadzące w dniu wejścia w życie ustawy działalność gospodarczą w zakresie udzielania lub dawania przyrzeczenia udzielenia kredytu konsumenckiego mogą kontynuować tę działalność bez spełnienia wymogu uzyskania wpisu do rejestru instytucji pożyczkowych, o którym mowa w art. 59aa ustawy zmienianej w art. 82 , nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
 
-2. Podmiot określony w ust. 1, który w terminie 6 miesięcy od dnia wejścia w życie ustawy złoży wniosek o wpis do rejestru instytucji pożyczkowych, o którym mowa w art. 59aa ustawy zmienianej w art. 82, może kontynuować działalność, o której mowa w ust. 1, bez wpisu do tego rejestru do dnia rozpatrzenia tego wniosku.
+2. Podmiot określony w ust. 1, który w terminie 6 miesięcy od dnia wejścia w życie ustawy złoży wniosek o wpis do rejestru instytucji pożyczkowych, o którym mowa w art. 59aa ustawy zmienianej w art. 82 , może kontynuować działalność, o której mowa w ust. 1, bez wpisu do tego rejestru do dnia rozpatrzenia tego wniosku.
 
-3. Do wniosków, o których mowa w ust. 2, nie stosuje się art. 59ac ust. 4 ustawy zmienianej w art. 82. Wnioski te są rozpatrywane w terminie 6 miesięcy od dnia ich złożenia lub uzupełnienia.
+3. Do wniosków, o których mowa w ust. 2, nie stosuje się art. 59ac ust. 4 ustawy zmienianej w art. 82 . Wnioski te są rozpatrywane w terminie 6 miesięcy od dnia ich złożenia lub uzupełnienia.
 
 **Art. 90.**
 
@@ -1118,7 +1054,7 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 2. Podmiot określony w ust. 1, który w terminie 6 miesięcy od dnia wejścia w życie ustawy złoży wniosek o wpis do rejestru pośredników kredytowych, może kontynuować działalność, o której mowa w ust. 1, bez wpisu do tego rejestru do dnia rozpatrzenia wniosku o wpis do rejestru pośredników kredytowych.
 
-3. Do wniosków, o których mowa w ust. 2, nie stosuje się art. 59db ust. 4 ustawy zmienianej w art. 82. Wnioski te są rozpatrywane w terminie 6 miesięcy od dnia ich złożenia lub uzupełnienia.
+3. Do wniosków, o których mowa w ust. 2, nie stosuje się art. 59db ust. 4 ustawy zmienianej w art. 82 . Wnioski te są rozpatrywane w terminie 6 miesięcy od dnia ich złożenia lub uzupełnienia.
 
 **Art. 91.** Przepisy art. 4 pkt 28, art. 10 ust. 1 pkt 5, art. 31 ust. 1 i art. 32 stosuje się do umów o kredyt hipoteczny zawartych po dniu 30 czerwca 2018 r.
 
@@ -1128,25 +1064,27 @@ o kredycie hipotecznym oraz o nadzorze nad po ś rednikami kredytu hipotecznego 
 
 1. Maksymalny limit wydatków budżetu państwa z tytułu realizacji ustawy na lata 2017–2026 wynosi 19 285 tys. zł, z tym że w roku:
 
-- **1)** 2017 1015 tys. zł;
-- **2)** 2018 2030 tys. zł;
-- **3)** 2019 2030 tys. zł;
-- **4)** 2020 2030 tys. zł;
-- **5)** 2021 2030 tys. zł;
-- **6)** 2022 2030 tys. zł;
-- **7)** 2023 2030 tys. zł;
-- **8)** 2024 2030 tys. zł;
-- **9)** 2025 2030 tys. zł;
-- **10)** 2026 2030 tys. zł.
+- **1)** 2017 – 1015 tys. zł;
+- **2)** 2018 – 2030 tys. zł;
+- **3)** 2019 – 2030 tys. zł;
+- **4)** 2020 – 2030 tys. zł;
+- **5)** 2021 – 2030 tys. zł;
+- **6)** 2022 – 2030 tys. zł;
+- **7)** 2023 – 2030 tys. zł;
+- **8)** 2024 – 2030 tys. zł;
+- **9)** 2025 – 2030 tys. zł;
+- **10)** 2026 – 2030 tys. zł.
 
 2. W przypadku zagrożenia przekroczenia limitu wydatków, o którym mowa w ust. 1, na dany rok budżetowy zastosowany zostanie mechanizm korygujący polegający na:
 
-- **1)** ograniczeniu kosztów rzeczowych Urz ę du Komisji Nadzoru Finansowego zwi ą zanych z realizacj ą zada ń wynikaj ą cych ze sprawowania nadzoru nad po ś rednikami kredytu hipotecznego i agentami;
-- **2)** racjonalizacji cz ę stotliwo ś ci wykonywania czynno ś ci w ramach nadzoru sprawowanego przez Komisj ę Nadzoru Finansowego nad po ś rednikami kredytu hipotecznego i agentami.
+- **1)** ograniczeniu kosztów rzeczowych Urzędu Komisji Nadzoru Finansowego związanych z realizacją zadań wynikających ze sprawowania nadzoru nad pośrednikami kredytu hipotecznego i agentami;
+- **2)** racjonalizacji częstotliwości wykonywania czynności w ramach nadzoru sprawowanego przez Komisję Nadzoru Finansowego nad pośrednikami kredytu hipotecznego i agentami.
 
 3. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest Komisja Nadzoru Finansowego.
 
 4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest minister właściwy do spraw instytucji finansowych.
 
-**Art. 94.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+**Art. 94.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem:
+
+## Załącznik nr 3 — 𝑆 = ∑𝐴 (1 + 𝑋) Załączniki nr 4–6
 

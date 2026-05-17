@@ -8,6 +8,7 @@ pos: 433
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej

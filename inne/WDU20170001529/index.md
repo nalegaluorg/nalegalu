@@ -8,9 +8,12 @@ pos: 1529
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 sierpnia 2017 r.
+# o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Konstytucji Rzeczypospolitej Polskiej obowiązek prowadzenia przez władze publiczne polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli oraz wynikający z art. 5 Konstytucji Rzeczypospolitej Polskiej obowiązek kierowania się zasadą zrównoważonego rozwoju, a także zadania władz publicznych realizowane szczególności przez wprowadzanie instrumentów zwiększających dostępność mieszkań i kształtowanie stabilnych ram finansowania budownictwa mieszkaniowego, uchwala się niniejszą ustawę.
+
+*USTAWA z dnia 20 lipca 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,129 +27,173 @@ domain: null
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1529/text.pdf) |
 
-USTAWA z dnia 20 lipca 2017 r.
-o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Konstytucji Rzeczypospolitej Polskiej obowiązek prowadzenia przez władze publiczne polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli oraz wynikający z art. 5 Konstytucji Rzeczypospolitej Polskiej obowiązek kierowania się zasadą zrównoważonego rozwoju, a także zadania władz publicznych realizowane szczególności przez wprowadzanie instrumentów zwiększających dostępność mieszkań i kształtowanie stabilnych ram finansowania budownictwa mieszkaniowego, uchwala się niniejszą ustawę.
+Art. 112–128. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa określa:
+1. Ustawa określa zasady:
 
-- **1)** zasady utworzenia i funkcjonowania Krajowego Zasobu Nieruchomości;
-- **2)** zasady kwalifikowania i przekazywania nieruchomości, tym nieruchomości budynkowych i lokalowych, do Krajowego Zasobu Nieruchomości, które:
-    - **a)** stanowią przedmiot własności Skarbu Państwa, tym zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe, zwane dalej „Lasami Państwowymi”, oraz powierzonych Krajowemu Ośrodkowi Wsparcia Rolnictwa, a także powierzonych Agencji Mienia Wojskowego, i które nie zostały oddane użytkowanie wieczyste,
-    - **b)** są przedmiotem użytkowania wieczystego Skarbu Państwa którymi gospodarują właściwe organy;
+- **1)** utworzenia i funkcjonowania Krajowego Zasobu Nieruchomości, będącego państwową osobą prawną, zwanego dalej „KZN”;
+- **2)** gospodarowania nieruchomościami wchodzącymi skład Zasobu Nieruchomości, zwanego dalej „Zasobem”;
+- **3)** kwalifikowania i przekazywania nieruchomości do Zasobu, które stanowią przedmiot:
+    - **a)** własności Skarbu Państwa, tym powierzonych Krajowemu Ośrodkowi Wsparcia Rolnictwa oraz Agencji Mienia Wojskowego i nie zostały oddane użytkowanie wieczyste,
+    - **b)** użytkowania wieczystego Skarbu Państwa
+    - **c)** własności spółek Skarbu Państwa,
+    - **d)** własności Skarbu Państwa i są przedmiotem użytkowania wieczystego spółek Skarbu Państwa.
 
-- **3)** zasady gospodarowania nieruchomościami wchodzącymi skład Krajowego Zasobu Nieruchomości;
-- **4)** zasady gospodarowania mieszkaniami na wynajem.
+2. Przepisów ustawy nie stosuje się do nieruchomości zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe.
 
-2. Przepisów ustawy, dotyczących sprzedaży i najmu, nie stosuje się do mieszkań i lokali o czynszu innym niż czynsz normowany.
+3. Przepisów ustawy nie stosuje się do nieruchomości oddanych trwały zarząd na cele obronności i bezpieczeństwa państwa.
 
-3. Przepisów ustawy nie stosuje się do nieruchomości oddanych trwały zarząd na cele obronności i bezpieczeństwa państwa przed dniem ogłoszenia ustawy.
+4. Przepisów ustawy, z wyjątkiem przepisu art. 30, nie stosuje się do nieruchomości, o których mowa art. 98 ust. 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747).
 
-2. Zasób tworzą również nieruchomości nabyte przez Krajowy Zasób Nieruchomości na rzecz Skarbu Państwa.
+**Art. 2.**
 
-3. Zasobem gospodaruje państwowa osoba prawna Krajowy Zasób Nieruchomości, zwany dalej „KZN”, na zasadach określonych ustawie.
+1. Nieruchomości przekazane trybie ustawy tworzą Zasób.
 
-4. KZN jest obowiązany do gospodarowania nieruchomościami wchodzącymi do Zasobu z zachowaniem szczególnej staranności przy wykonywaniu gospodarowania nieruchomościami wchodzącymi skład Zasobu zgodnie z przeznaczeniem tego mienia i jego ochroną.
+2. Zasób tworzą również nieruchomości nabyte przez KZN na rzecz Skarbu Państwa.
 
-5. W celu realizacji zadań określonych art. 5 ust. 1 KZN uprawniony jest do bezpłatnego wykorzystywania danych zgromadzonych systemie ewidencji gruntów i budynków, o którym mowa ustawie z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2016 r. poz. 1629 i 1948 oraz z 2017 r. poz. 60 i 1509), oraz danych znajdujących się zasobach Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+3. Nieruchomościami wchodzącymi skład Zasobu gospodaruje KZN.
+
+4. KZN jest obowiązany do gospodarowania nieruchomościami wchodzącymi skład Zasobu z zachowaniem szczególnej staranności oraz zgodnie z zasadami prawidłowej gospodarki.
+
+5. W celu realizacji zadań określonych art. 5 ust. 1 KZN uprawniony jest do bezpłatnego wykorzystywania danych zgromadzonych systemie ewidencji gruntów i budynków, o którym mowa ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824), oraz danych znajdujących się zasobach Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
 **Art. 3.**
 
 1. Użyte ustawie określenia oznaczają:
 
-- **1)** czynsz normowany czynsz najmu określony zgodnie z przepisami rozdziału 7;
-- **2)** inwestycja mieszkaniowa przedsięwzięcie, wyniku którego powstanie budynek mieszkalny, którym zostanie wyodrębnione przynajmniej jedno mieszkanie;
-- **3)** mieszkanie samodzielny lokal mieszkalny rozumieniu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2015 r. poz. 1892), znajdujący się budynku mieszkalnym wielorodzinnym, albo budynek mieszkalny jednorodzinny rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2017 r. poz. 1332), którym wydzielono wyłącznie lokale mieszkalne;
-- **4)** mieszkanie na wynajem mieszkanie zlokalizowane inwestycji mieszkaniowej zrealizowanej na nieruchomości oddanej użytkowanie wieczyste lub sprzedanej trybie określonym przepisie art. 53 ust. 1 lub 2, przeznaczonym na wynajem o czynszu normowanym;
-- **5)** najem z opcją umowę najmu o czynszu normowanym związaną z prawem najemcy do nabycia prawa własności mieszkania;
-- **6)** najem bez opcji umowę najmu o czynszu normowanym niezwiązaną z prawem najemcy do nabycia prawa własności mieszkania;
-- **7)** najem bez bliższego określenia zarówno umowę najmu z opcją, jak i umowę najmu bez opcji;
-- **8)** najemca z opcją osobę, która zawarła umowę najmu z opcją;
-- **9)** najemca bez opcji osobę, która zawarła umowę najmu bez opcji;
-- **10)** najemca bez bliższego określenia zarówno najemcę z opcją, jak i najemcę bez opcji;
-- **11)** realizacja uzbrojenia technicznego budowę, przebudowę, rozbiórkę lub remont:
-    - **a)** sieci uzbrojenia terenu, rozumieniu art. 2 pkt 11 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, tym przyłączy,
+- **1)** (uchylony) 1a) cena nieruchomości – cenę nieruchomości ustaloną na podstawie wartości rynkowej określonej operacie szacunkowym sporządzonym przez rzeczoznawcę majątkowego;
+- **2)** inwestycja mieszkaniowa – przedsięwzięcie, wyniku którego powstanie budynek mieszkalny, którym zostanie wyodrębnione przynajmniej jedno mieszkanie; pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688), znajdujący się budynku mieszkalnym wielorodzinnym lub budynku mieszkalnym jednorodzinnym, albo budynek mieszkalny jednorodzinny rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418), którym nie wydzielono lokali mieszkalnych;
+- **4)** mieszkanie na wynajem – mieszkanie zrealizowane na nieruchomości pochodzącej z Zasobu, przeznaczone na wynajem na podstawie umowy najmu instytucjonalnego lub najmu instytucjonalnego z dojściem do własności albo będące przedmiotem spółdzielczego lokatorskiego prawa do lokalu mieszkalnego;
+- **5)** (uchylony)
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** (uchylony)
+- **10)** (uchylony)
+- **11)** realizacja uzbrojenia technicznego – budowę, przebudowę, rozbiórkę lub remont:
+    - **a)** sieci uzbrojenia terenu, rozumieniu art. 2 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, tym przyłączy,
     - **b)** dróg i zjazdów celu zapewnienia dostępu do drogi publicznej;
 
-- **12)** właściwy organ starostę wykonującego zadania z zakresu administracji rządowej, prezydenta miasta na prawach powiatu wykonującego zadania z zakresu administracji rządowej, Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, Prezesa Agencji Mienia Wojskowego lub Dyrektora Generalnego Lasów Państwowych.
+- **11a)** spółka Skarbu Państwa – spółkę z ograniczoną odpowiedzialnością albo spółkę akcyjną, której wszystkie udziały albo akcje należą do:
+    - **a)** Skarbu Państwa lub
+    - **b)** spółki z ograniczoną odpowiedzialnością albo spółki akcyjnej, której wszystkie udziały albo akcje należą do Skarbu Państwa;
 
-2. Do mieszkania rozumieniu ust. 1 pkt 3 stosuje się przepisy budowlane dotyczące lokalu mieszkalnego, tym przepisy dotyczące warunków technicznych dla pomieszczeń mieszkalnych.
+- **12)** właściwy organ – starostę wykonującego zadania z zakresu administracji rządowej, prezydenta miasta na prawach powiatu wykonującego zadania z zakresu administracji rządowej, Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa lub Prezesa Agencji Mienia Wojskowego.
 
-3. Ilekroć ustawie jest mowa o częściach nieruchomości lub udziałach nich, stosuje się odpowiednio przepisy dotyczące nieruchomości, jako przedmiotu odrębnej własności.
+2. (uchylony) nieruchomości oraz udziałów nieruchomości.
+
+4. Ilekroć ustawie jest mowa o staroście wykonującym zadania z zakresu administracji rządowej, należy przez to rozumieć również prezydenta miasta na prawach powiatu wykonującego zadania z zakresu administracji rządowej.
 
 #### Rozdział 2 Krajowy Zasób Nieruchomości
 
 **Art. 4.**
 
-1. KZN jest państwową osobą prawną rozumieniu art. 9 pkt 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm. ).
+1. KZN jest państwową osobą prawną rozumieniu art. 9 pkt 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39).
+
+2. Siedzibą KZN jest miasto stołeczne Warszawa.
 
 3. KZN działa na podstawie ustawy i statutu.
 
-4. Skarb Państwa powierza KZN wykonywanie prawa własności i innych praw rzeczowych na jego rzecz stosunku do mienia, o którym mowa art. 1 ust. 1 pkt 2, oraz nieruchomości nabytych na rzecz Skarbu Państwa, o których mowa art. 2 ust. 2.
+4. Skarb Państwa powierza KZN wykonywanie prawa własności i innych praw rzeczowych na jego rzecz stosunku do nieruchomości, o których mowa art. 1 ust. 1 pkt 3, oraz nieruchomości nabytych na rzecz Skarbu Państwa, o których mowa art. 2 ust. 2.
+
+4a. Prawa z udziałów lub akcji Skarbu Państwa objętych na jego rzecz przez KZN wykonuje KZN, chyba że Rada Ministrów, na wniosek ministra właściwego do spraw aktywów państwowych, powierzy ich wykonywanie organom administracji rządowej, państwowym jednostkom budżetowym, o których mowa art. 11 ust. 1 i art. 12 ust. 1 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, agencjom wykonawczym, o których mowa art. 18 tej ustawy, pełnomocnikom rządu lub państwowym osobom prawnym, tym jednoosobowym spółkom Skarbu Państwa.
 
 5. KZN, obejmując we władanie powierzone składniki mienia Skarbu Państwa, wykonuje we własnym imieniu prawa i obowiązki z nimi związane stosunku do osób trzecich, jak również we własnym imieniu wykonuje związane z tymi składnikami obowiązki publicznoprawne.
 
-6. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa porozumieniu z ministrem właściwym do spraw finansów publicznych nadaje KZN, drodze rozporządzenia, statut, mając na względzie potrzebę zapewnienia sprawnego działania KZN, właściwego wykorzystania środków publicznych zgromadzonych i gospodarowanych przez KZN celu realizacji jego zadań ustawowych oraz zgodności działalności KZN z przepisami o finansach publicznych.
+6. Minister właściwy do spraw rozwoju regionalnego porozumieniu z ministrem właściwym do spraw finansów publicznych nadaje KZN, drodze rozporządzenia, statut, mając na względzie potrzebę zapewnienia sprawnego działania KZN, właściwego wykorzystania środków publicznych zgromadzonych zgodności działalności KZN z przepisami o finansach publicznych.
 
 **Art. 5.**
 
 1. Do zadań KZN należy:
 
 - **1)** gospodarowanie nieruchomościami wchodzącymi skład Zasobu na zasadach określonych ustawie;
-- **2)** tworzenie warunków do zwiększania dostępności mieszkań, szczególności przez wykorzystywanie nieruchomości wchodzących skład Zasobu do realizacji inwestycji mieszkaniowych i mieszkań o czynszu normowanym;
-- **3)** podejmowanie działań celu realizacji, na nieruchomościach wchodzących skład Zasobu, inwestycji mieszkaniowych;
-- **4)** tworzenie warunków ułatwiających powstawanie mieszkań socjalnych lub współfinansowanie powstawania mieszkań socjalnych;
-- **5)** tworzenie warunków do poprawy funkcjonowania społecznego budownictwa czynszowego, o którym mowa art. 27 ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2017 r. poz. 1023);
+- **2)** tworzenie warunków do zwiększania dostępności mieszkań szczególności przez wykorzystywanie nieruchomości wchodzących skład Zasobu do realizacji inwestycji mieszkaniowych;
+- **3)** podejmowanie działań celu realizacji inwestycji mieszkaniowych, tym mieszkań na wynajem;
+- **4)** tworzenie warunków ułatwiających powstawanie mieszkań wchodzących skład mieszkaniowego zasobu gminy;
+- **5)** wspieranie rozwoju społecznego budownictwa czynszowego i komunalnego, ramach którego:
+    - **a)** dostęp do lokali mieszkalnych powstałych wyniku realizacji przedsięwzięcia budowlanego odbywa się na zasadach nierynkowych, na podstawie kryteriów określonych przez organy władzy publicznej,
+    - **b)** przedsięwzięcie budowlane jest realizowane przez społeczną inicjatywę mieszkaniową lub towarzystwo budownictwa społecznego, których udziałowcem jest jednostka samorządu terytorialnego lub Skarb Państwa, lub przedsięwzięcie budowlane jest realizowane przy wsparciu środkami publicznymi;
+
 - **6)** finansowanie lub współfinansowanie, na nieruchomościach wchodzących skład Zasobu, realizacji uzbrojenia technicznego terenu lub podejmowanie innych działań ułatwiających taką realizację;
 - **7)** przygotowanie nieruchomości wchodzących skład Zasobu, szczególności podejmowanie działań podnoszących walory gospodarcze tych nieruchomości, tym działań, których wynikiem będzie przygotowanie nieruchomości do zabudowy przez podział nieruchomości lub scalenie i podział nieruchomości adekwatny do jej przyszłej funkcji lub zrealizowanie uzbrojenia technicznego;
-- **8)** podejmowanie działań celu zapewnienia, że nieruchomości przeznaczone przez KZN pod budownictwo mieszkaniowe mogą być zabudowane budynkami mieszkaniowymi, a następnie użytkowane sposób prawidłowy i niezagrażający bezpieczeństwu oraz zdrowiu mieszkańców;
-- **9)** udzielanie, na zasadach określonych odrębnych ustawach, oparciu o przychody KZN, tym środki finansowe pochodzące z odpłatnego zbycia nieruchomości wchodzących skład Zasobu, finansowego wsparcia zwiększającego dostępność mieszkań dla gospodarstw domowych.
+- **8)** podejmowanie działań celu zapewnienia, że nieruchomości przeznaczone przez KZN pod budownictwo mieszkaniowe mogą być zabudowane budynkami bezpieczeństwu oraz zdrowiu mieszkańców;
+- **9)** wykonywanie praw z udziałów lub akcji należących do Skarbu Państwa.
 
-2. Realizacja uzbrojenia technicznego lub innych działań ułatwiających realizację inwestycji mieszkaniowej podejmowana jest przez KZN po analizie kosztów ich budowy, sposobu oraz źródeł ich finansowania, wpływu efektów realizacji tego uzbrojenia na poziom realizacji zadań KZN, o których mowa ust. 1, a także po uwzględnieniu zakresu niezbędnych do wykonania prac oraz poziomu współfinansowania kosztów tych prac przez gminę i operatora mieszkaniowego.
+2. Realizacja uzbrojenia technicznego lub innych działań ułatwiających realizację inwestycji mieszkaniowej podejmowana jest przez KZN po analizie kosztów i czasu ich realizacji, a także sposobu oraz źródeł ich finansowania.
 
-**Art. 6.** KZN prowadzi działania analityczne zakresie mieszkalnictwa, gospodarki nieruchomościami, budownictwa, planowania i zagospodarowania przestrzennego oraz rewitalizacji i tym zakresie współpracuje z instytutami badawczymi i szkołami wyższymi.
+**Art. 6.** KZN może prowadzić działania analityczne zakresie mieszkalnictwa, gospodarki nieruchomościami, budownictwa, planowania i zagospodarowania przestrzennego oraz rewitalizacji i tym zakresie współpracować szczególności z instytutami badawczymi i szkołami wyższymi.
 
 **Art. 7.**
 
-1. KZN może, za zgodą ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, celu realizacji zadań, o których mowa art. 5 ust. 1, tworzyć spółki celowe.
+1. KZN, za zgodą ministra właściwego do spraw rozwoju regionalnego, celu realizacji zadań, o których mowa art. 5 ust. 1, może tworzyć spółki celowe lub przystępować do spółek celowych utworzonych:
 
-2. Spółki, o których mowa ust. 1, KZN może tworzyć wyłącznie z jednostkami samorządu terytorialnego, a ich wspólnikami, udziałowcami lub akcjonariuszami mogą być wyłącznie KZN, jednostki samorządu terytorialnego lub związki jednostek samorządu terytorialnego.
+- **1)** ze Skarbem Państwa formie jednoosobowej spółki kapitałowej,
+- **2)** z państwową osobą prawną,
+- **3)** z jednostką samorządu terytorialnego,
+- **4)** (uchylony)
+- **5)** ze spółkami z większościowym udziałem państwowych osób prawnych,
+- **6)** z funduszem inwestycyjnym, którego portfelem inwestycyjnym zarządza podmiot, o którym mowa pkt 2 lub 5 – wnosząc nieruchomość wchodzącą skład Zasobu jako aport.
 
-3. Do inwestycji mieszkaniowej zrealizowanej przez spółkę celową na nieruchomości, o której mowa art. 52 ust. 1, stosuje się przepisy rozdziału 7, przy czym procentowy udział powierzchni użytkowej mieszkań na wynajem całkowitej powierzchni użytkowej budynkach objętych inwestycją mieszkaniową określa umowa spółki zatwierdzana przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+2. Do czasu zrealizowania celu spółki celowej wyłącznymi udziałowcami, akcjonariuszami lub wspólnikami mogą być wyłącznie podmioty, o których mowa ust. 1.
+
+3. (uchylony)
+
+4. Do lokali mieszkalnych na wynajem utworzonych przez spółkę celową przy udziale finansowego wsparcia na podstawie ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304 oraz z 2025 r. poz. 680), zakresie kryteriów przeznaczania i zasad gospodarowania lokalami mieszkalnymi, stosuje się przepisy tej ustawy obowiązujące dla danego typu przedsięwzięcia, na które udzielane jest finansowe wsparcie. mieszkaniowego zasobu gminy utworzonych przez spółkę celową przy udziale finansowego wsparcia, o którym mowa ust. 4, uprawnienia wynajmującego określone ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725) przysługują gminie.
+
+6. KZN może podejmować współpracę z organizacją pozarządową lub podmiotami wymienionymi art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), celu tworzenia wspólnych przedsięwzięć, szczególności o charakterze społecznym lub z zakresu ochrony środowiska naturalnego, społecznej odpowiedzialności biznesu i ładu korporacyjnego.
+
+**Art. 7a.**
+
+1. KZN, za zgodą ministra właściwego do spraw rozwoju regionalnego, może tworzyć społeczne inicjatywy mieszkaniowe, formach, o których mowa art. 23 ust. 1 pkt 1 i 2 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2024 r. poz. 1440 i 1635), albo przystępować do społecznych inicjatyw mieszkaniowych lub towarzystw budownictwa społecznego działających tych formach.
+
+2. Koszty związane z wynagrodzeniem reprezentującego KZN członka Rady Nadzorczej społecznej inicjatywy mieszkaniowej lub towarzystwa budownictwa społecznego ponosi KZN.
+
+**Art. 7b.** W przypadku tworzenia podmiotów, o których mowa art. 7 ust. 1 i art. 7a ust. 1, lub przystępowania do tych podmiotów, udziały tych podmiotach lub ich akcje KZN obejmuje na rzecz Skarbu Państwa.
+
+**Art. 8.** KZN może prowadzić działania popularyzujące innowacyjne rozwiązania zakresie mieszkalnictwa, gospodarki nieruchomościami, budownictwa, planowania i zagospodarowania przestrzennego oraz rewitalizacji.
 
 **Art. 9.**
 
-1. Organy administracji publicznej, spółki prawa handlowego z dominującym udziałem Skarbu Państwa, publiczne podmioty gospodarujące zasobem mieszkaniowym oraz podmioty gospodarujące nieruchomościami stanowiącymi własność Skarbu Państwa są obowiązane do nieodpłatnego udostępniania KZN danych niezbędnych do realizacji jego zadań, tym danych zawartych prowadzonych przez te organy i podmioty rejestrach, ewidencjach i wykazach.
+1. Organy administracji publicznej, spółki prawa handlowego z dominującym udziałem Skarbu Państwa, publiczne podmioty gospodarujące zasobem mieszkaniowym oraz podmioty gospodarujące nieruchomościami stanowiącymi własność Skarbu Państwa są obowiązane do nieodpłatnego udostępniania KZN danych niezbędnych do realizacji jego zadań, tym danych i wykazach.
 
 2. Udostępnienie danych, o którym mowa ust. 1, następuje na wniosek Prezesa KZN. Udostępnienie danych nie może naruszać przepisów dotyczących udostępniania danych objętych tajemnicą przedsiębiorstwa oraz innych tajemnic ustawowo chronionych.
 
 **Art. 10.**
 
-1. Właściwe organy prowadzą wykazy nieruchomości Skarbu Państwa, którymi gospodarują, położonych:
+1. Właściwe organy oraz spółki Skarbu Państwa sporządzają wykazy nieruchomości, o których mowa art. 1 ust. 1 pkt 3, którymi gospodarują.
 
-- **1)** granicach gmin miejskich, miast gminach miejsko-wiejskich, dzielnic m.st. Warszawy, delegatur i dzielnic innych gmin miejskich, o których mowa przepisach wydanych na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2016 r. poz. 1068 oraz z 2017 r. poz. 60);
-- **2)** poza granicami, o których mowa pkt 1, jeżeli przeznaczenie tych nieruchomości ustalone miejscowym planie zagospodarowania przestrzennego, a przypadku jego braku wynikające z funkcji terenu określonej studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy umożliwia ich zagospodarowanie na potrzeby realizacji inwestycji mieszkaniowych.
+1a. W wykazach, o których mowa ust. 1, nie zamieszcza się nieruchomości:
+
+- **1)** zajętych przez pas drogowy;
+- **2)** pokrytych śródlądowymi powierzchniowymi wodami płynącymi lub powierzchniowymi wodami stojącymi;
+- **3)** zajętych na prowadzenie działalności statutowej przez Pocztę Polską S.A., wykorzystywanych na świadczenie usług powszechnych;
+- **4)** zajętych pod infrastrukturę kolejową rozumieniu art. 4 pkt 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731);
+- **5)** zajętych pod dworce kolejowe rozumieniu art. 4 pkt 8a ustawy z dnia 28 marca 2003 r. o transporcie kolejowym.
 
 2. Wykazy nieruchomości, o których mowa ust. 1, zawierają informacje o:
 
 - **1)** położeniu i oznaczeniu nieruchomości według ewidencji gruntów i budynków;
 - **2)** numerze księgi wieczystej, o ile jest założona;
 - **3)** powierzchni nieruchomości według ewidencji gruntów i budynków;
-- **4)** przeznaczeniu nieruchomości ustalonym miejscowym planie zagospodarowania przestrzennego, a razie jego braku informacje zawarte studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, dotyczące kierunków zmian strukturze przestrzennej gminy oraz przeznaczeniu terenów, a także kierunków i wskaźników zagospodarowania terenów, na których położona jest nieruchomość;
-- **5)** stanie prawnym nieruchomości, szczególności o: poz. 1537, 1920 i 2003) i dotyczących lokalizacji regionalnej sieci szerokopasmowej, ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji zakresie budowli przeciwpowodziowych (Dz. U. z 2017 r. poz. 1377 i 1381) i dotyczących pozwolenia na realizację takich inwestycji, ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2017 r. poz. 552) i dotyczących lokalizacji inwestycji zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej, ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji zakresie sieci przesyłowych (Dz. U. z 2016 r. poz. 1812 oraz z 2017 r. poz. 635) i dotyczących lokalizacji lub realizacji inwestycji zakresie strategicznych inwestycji zakresie sieci przesyłowych, ustawy z dnia 24 lutego 2017 r. o inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. poz. 820) i realizacji inwestycji zakresie budowy tej drogi wodnej, ustawy z dnia 7 kwietnia 2017 r. o inwestycjach zakresie budowy lub przebudowy toru wodnego Świnoujście Szczecin do głębokości 12,5 metra (Dz. U. poz. 990) i realizacji inwestycji zakresie toru wodnego Świnoujście Szczecin,
-    - **a)** ograniczonych prawach rzeczowych ustanowionych na nieruchomości, tym hipotekach,
+- **4)** przeznaczeniu nieruchomości ustalonym miejscowym planie zagospodarowania przestrzennego, a razie jego braku – profilu funkcjonalnym strefy planistycznej obejmującej nieruchomość planie ogólnym gminy; [4a) podjętych uchwałach na podstawie ustawy z dnia 5 lipca 2018 r. o ułatwieniach przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195 oraz z 2025 r. poz. 527) oraz wydanych decyzjach o warunkach zabudowy i zagospodarowania terenu;] <4a) wydanych decyzjach o warunkach zabudowy i zagospodarowania terenu;>
+- **5)** stanie prawnym nieruchomości, szczególności o: tym hipotekach, z 2024 r. poz. 1112, 1881 i 1940), – ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464) i dotyczących zezwolenia na realizację inwestycji zakresie lotniska użytku publicznego, – ustawy z dnia 24 kwietnia 2009 r. o inwestycjach zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego Świnoujściu (Dz. U. z 2024 r. poz. 1286 i 1881) i dotyczących lokalizacji inwestycji zakresie terminalu oraz inwestycji towarzyszącej, telekomunikacyjnych (Dz. U. z 2025 r. poz. 311) i dotyczących lokalizacji regionalnej sieci szerokopasmowej, – ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274 oraz z 2025 r. poz. 680) i dotyczących pozwolenia na realizację takich inwestycji, – ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 1410 i 1572 oraz z 2025 r. poz.
     - **b)** użytkowaniu wieczystym,
     - **c)** umowach i porozumieniach dotyczących nieruchomości lub jej części, tym umowach zawartych przez właściwy organ,
     - **d)** zgłoszonych roszczeniach wobec nieruchomości lub jej części, których właściwy organ reprezentuje Skarb Państwa jako stronę lub jest świadkiem, lub posiada o nich informacje,
-    - **e)** toczących się, dotyczących nieruchomości lub sytuowanych na nich obiektów budowlanych, postępowaniach administracyjnych, tym prowadzonych na podstawie przepisów: ustawy z dnia 7 lipca 1994 r. Prawo budowlane, ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie dróg publicznych (Dz. U. z 2017 r. poz. 1496) i dotyczących zezwolenia na realizację inwestycji drogowej, ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2016 r. poz. 1727, z późn. zm. ) i dotyczących lokalizacji linii kolejowej, ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2017 r. poz. 1372) i dotyczących lokalizacji przedsięwzięć Euro 2012, ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2017 r. poz. 1405), ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie lotnisk użytku publicznego (Dz. U. z 2017 r. poz. 1122) i dotyczących zezwolenia na realizację inwestycji zakresie lotniska użytku publicznego, terminalu oraz inwestycji towarzyszącej, ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2016 r.
-    - **f)** toczących się, dotyczących nieruchomości lub sytuowanych na nich obiektów budowlanych, postępowaniach sądowych, których właściwy organ reprezentuje Skarb Państwa jako stronę lub jest świadkiem, lub posiada o nich informacje;
+    - **e)** toczących się, dotyczących nieruchomości lub sytuowanych na nich obiektów budowlanych, postępowaniach administracyjnych, tym prowadzonych na podstawie przepisów: – ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, – ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311) i dotyczących zezwolenia na realizację inwestycji drogowej, – ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej, – ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2020 r. poz. 2008) i dotyczących lokalizacji przedsięwzięć Euro 2012, – ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U.
+
+- **393)** i dotyczących lokalizacji inwestycji zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej, – ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199) i dotyczących lokalizacji lub realizacji inwestycji zakresie strategicznych inwestycji zakresie sieci przesyłowych, – ustawy z dnia 24 lutego 2017 r. o inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. z 2024 r. poz. 285) i realizacji inwestycji zakresie budowy tej drogi wodnej, – ustawy z dnia 7 kwietnia 2017 r. o inwestycjach zakresie budowy lub przebudowy toru wodnego Świnoujście – Szczecin do głębokości 12,5 metra (Dz. U. poz. 990) i realizacji inwestycji zakresie toru wodnego Świnoujście – Szczecin, – ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej Warszawie (Dz. U. z 2024 r. poz.
+- **578)** , – ustawy z dnia 5 lipca 2018 r. o ułatwieniach przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, – ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji sektorze naftowym (Dz. U. z 2024 r. poz.
+- **1839)** , obiektów budowlanych, postępowaniach sądowych, których właściwy organ reprezentuje Skarb Państwa jako stronę lub jest świadkiem, lub posiada o nich informacje,
+    - **g)** podstawie prawnej nabycia nieruchomości, o ile jest znana;
 
 - **6)** dotychczasowym sposobie zagospodarowania nieruchomości, tym informacje, czy nieruchomość jest wykorzystywana na cele publiczne, wraz ze wskazaniem tych celów;
 - **7)** ograniczeniach korzystaniu z nieruchomości wynikających z przepisów prawa lub rozstrzygnięć i decyzji;
-- **8)** wydanych pozwoleniach na budowę, pozwoleniach na rozbiórkę oraz decyzjach o zatwierdzeniu projektu budowlanego obejmujących całość lub część nieruchomości oraz zgłoszeń dotyczących domów jednorodzinnych, kontenerowych stacji transformatorowych oraz sieci, o których mowa odpowiednio art. 29 ust. 1 pkt 1a, 2b oraz 19a ustawy z dnia 7 lipca 1994 r. Prawo budowlane;
+- **8)** wydanych pozwoleniach na budowę, pozwoleniach na rozbiórkę oraz decyzjach o zatwierdzeniu projektu budowlanego albo projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego, obejmujących całość lub część nieruchomości oraz zgłoszeń dotyczących wolno stojących budynków mieszkalnych jednorodzinnych, sieci oraz kontenerowych stacji transformatorowych, o których mowa odpowiednio art. 29 ust. 1 pkt 1, 2 oraz 3 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
 - **9)** budowlach lub budynkach znajdujących się na tej nieruchomości, szczególności budynkach, których wyodrębniono lokale mieszkalne.
 
 3. Wykazy nieruchomości, o których mowa ust. 1, zawierają również informacje o tym, czy nieruchomość:
@@ -155,16 +202,17 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 - **2)** wymaga wyłączenia gruntów z produkcji leśnej;
 - **3)** stanowi grunty sklasyfikowane ewidencji gruntów i budynków jako grunty leśne zadrzewione i zakrzewione;
 - **4)** jest objęta decyzją o środowiskowych uwarunkowaniach dotyczącą inwestycji celu publicznego;
-- **5)** jest położona: dane takie są dostępne dla właściwego organu sporządzającego wykaz.
+- **5)** jest położona:
     - **a)** na obszarach szczególnego zagrożenia powodzią,
-    - **b)** na terenach osuwisk oraz terenach zagrożonych ruchami masowymi ziemi,
-    - **c)** odległości od elektrowni wiatrowej, innej niż mikroinstalacja odnawialnego źródła energii, mniejszej niż dziesięciokrotność całkowitej wysokości tej elektrowni, rozumieniu przepisów dotyczących lokalizacji i realizacji elektrowni wiatrowych,
+    - **b)** na terenach osuwisk oraz terenach zagrożonych ruchami masowymi ziemi, odnawialnego źródła energii, mniejszej niż dziesięcio-krotność całkowitej wysokości tej elektrowni, rozumieniu przepisów dotyczących lokalizacji i realizacji elektrowni wiatrowych,
     - **d)** na obszarze parku narodowego, rezerwatu przyrody, parku krajobrazowego, na obszarze chronionego krajobrazu lub na terenie obszaru Natura 2000,
     - **e)** na obszarze rewitalizacji lub jego sąsiedztwie,
     - **f)** na terenie specjalnej strefy ekonomicznej lub jej sąsiedztwie,
     - **g)** odległości mniejszej niż bezpieczna odległość od zakładu stwarzającego zagrożenie wystąpienia poważnej awarii przemysłowej.
 
-5. Wykaz nieruchomości sporządzany przez Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa oraz Dyrektora Generalnego Lasów Państwowych zawiera, oprócz informacji, o których mowa ust. 2–4, informacje o:
+4. Wykazy nieruchomości, o których mowa ust. 1, zawierają również informacje o tym, czy korzystanie z nieruchomości wiąże się z korzystaniem z pomocy finansowej pochodzącej ze środków finansowych Unii Europejskiej, o ile dane takie są dostępne dla właściwego organu sporządzającego wykaz.
+
+5. Wykaz nieruchomości sporządzany przez Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa zawiera, oprócz informacji, o których mowa ust. 2–4, informacje o:
 
 - **1)** umowach dzierżawy wraz z określeniem terminu zakończenia umowy;
 - **2)** sposobie używania gruntu wraz z określeniem, czy na terenie znajdują się uprawy wieloletnie lub sady.
@@ -172,74 +220,101 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 6. Wykaz nieruchomości sporządzany przez Prezesa Agencji Mienia Wojskowego zawiera, oprócz informacji, o których mowa ust. 2–5, informacje o:
 
 - **1)** położeniu nieruchomości na terenie zamkniętym;
-- **2)** położeniu nieruchomości obszarze strefy ochronnej terenu zamkniętego.
+- **2)** położeniu nieruchomości obszarze strefy ochronnej terenu zamkniętego;
+- **3)** zrealizowaniu na nieruchomości inwestycji mieszkaniowych albo rozpoczęciu procesu realizacji takich inwestycji.
 
 7. W przypadku gdy nieruchomość jest przedmiotem użytkowania wieczystego Skarbu Państwa, wykazie zawiera się również, wynikające z umowy o oddanie nieruchomości gruntowej użytkowanie wieczyste, informacje o celu, na który nieruchomość gruntowa została oddana użytkowanie wieczyste, oraz o sposobie korzystania z nieruchomości.
 
-**Art. 11.** Właściwy organ sporządzający wykaz nieruchomości oznacza nim nieruchomości, których przekazanie KZN może znacząco utrudnić realizację zadań ustawowych tego organu lub jego ocenie jest niezasadne, i dla każdej z nich sporządza opinię, której szczególności:
+**Art. 11.**
+
+1. Właściwy organ albo spółka Skarbu Państwa sporządzająca wykaz nieruchomości, o którym mowa art. 10, oznacza nim nieruchomości, których działalności gospodarczej, i dla każdej z nich przedstawia Prezesowi KZN stanowisko, którym szczególności określa:
+
+- **1)** negatywne skutki przekazania nieruchomości dla realizacji zadań lub prowadzenia działalności gospodarczej lub
+- **2)** termin, po upływie którego nieruchomość może zostać przekazana do KZN, lub
+- **3)** warunki, po spełnieniu których nieruchomość może zostać przekazana do KZN.
+
+2. Stanowisko, o którym mowa ust. 1, może być przedstawione również po przekazaniu wykazu nieruchomości, o którym mowa art. 10.
 
 **Art. 12.**
 
-1. W przypadku nieruchomości, która jest oznaczona wykazie nieruchomości jako nieruchomość, której przekazanie KZN może znacząco utrudnić realizację zadań ustawowych właściwego organu lub jest niezasadne, przed włączeniem takiej nieruchomości do Zasobu:
+1. W przypadku przedstawienia stanowiska, o którym mowa art. 11, przed przekazaniem do Zasobu Prezes KZN występuje z wnioskiem o sporządzenie opinii do:
 
-- **1)** która wchodzi skład Zasobu Własności Rolnej Skarbu Państwa, o którym mowa rozdziale 3 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2016 r. poz. 1491 i 2260 oraz z 2017 r. poz. 624) wymagane jest uzyskanie opinii ministra właściwego do spraw rozwoju wsi;
-- **2)** Skarbu Państwa powierzonej Agencji Mienia Wojskowego wymagane jest uzyskanie opinii Ministra Obrony Narodowej;
-- **3)** Skarbu Państwa zarządzanej przez Lasy Państwowe wymagane jest uzyskanie opinii ministra właściwego do spraw środowiska.
+- **1)** ministra właściwego do spraw rozwoju wsi – odniesieniu do nieruchomości powierzonej Krajowemu Ośrodkowi Wsparcia Rolnictwa;
+- **2)** Ministra Obrony Narodowej – odniesieniu do nieruchomości powierzonej Agencji Mienia Wojskowego;
+- **3)** podmiotu uprawnionego do wykonywania praw z udziałów albo akcji należących do Skarbu Państwa jednoosobowej spółce Skarbu Państwa albo spółce, której wszystkie udziały albo akcje należą do Skarbu Państwa i jednoosobowej spółki Skarbu Państwa – odniesieniu do nieruchomości oznaczonej wykazie nieruchomości, o którym mowa art. 10, sporządzonym przez jednoosobową spółkę Skarbu Państwa albo spółkę, której wszystkie udziały albo akcje należą do Skarbu Państwa i jednoosobowej spółki Skarbu Państwa;
+- **4)** podmiotu uprawnionego do wykonywania praw z udziałów albo akcji należących do Skarbu Państwa jednoosobowej spółce Skarbu Państwa – odniesieniu do nieruchomości oznaczonej wykazie nieruchomości, o którym mowa art. 10, sporządzonym przez spółkę, której wszystkie udziały albo akcje należą do jednoosobowej spółki Skarbu Państwa.
 
-2. Minister właściwy do spraw rozwoju wsi, Minister Obrony Narodowej oraz minister właściwy do spraw środowiska wydają opinie, o których mowa ust. 1, terminie 30 dni od dnia otrzymania wniosku Prezesa KZN o zajęcie stanowiska sprawie.
+2. Podmioty, o których mowa ust. 1 pkt 3 i 4, sporządzają opinie, o których mowa ust. 1, formie przewidzianej przepisach określających ich funkcjonowanie. otrzymania wniosku Prezesa KZN.
 
-3. W przypadku niezajęcia stanowiska terminie, o którym mowa ust. 2, nieruchomości opisane ust. 1 mogą zostać włączone do Zasobu.
+4. Przepisów ust. 1–3 nie stosuje się odniesieniu do spółek Skarbu Państwa nadzorowanych przez Prezesa Rady Ministrów.
 
 **Art. 13.**
 
-1. Jeżeli Prezes KZN zamierza wystąpić z wnioskiem o przekazanie do Zasobu nieruchomości, o których mowa art. 11 i art. 12 ust. 1, Prezes KZN występuje do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa z wnioskiem o wystąpienie do Prezesa Rady Ministrów o rozstrzygnięcie sprawy przekazania do Zasobu nieruchomości.
+1. W przypadku gdy spółki, o których mowa art. 12 ust. 4, przedstawiły stanowisko, o którym mowa art. 11, oraz przypadku negatywnej opinii, o której mowa art. 12 ust. 1, lub jej braku, Prezes KZN występuje do Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej o powołanie Komisji Rozjemczej przy Sądzie Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej celu rozstrzygnięcia sprawy przekazania nieruchomości do Zasobu.
 
-2. Przedstawiając sprawę do rozstrzygnięcia przez Prezesa Rady Ministrów, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przekazuje:
+2. Przedstawiając sprawę do rozstrzygnięcia przez Komisję Rozjemczą przy Sądzie Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej, Prezes KZN przekazuje:
 
-- **1)** wykaz nieruchomości dotyczący tej nieruchomości;
-- **2)** opinię, o której mowa art. 11;
-- **3)** opinię, o której mowa art. 12 ust. 1;
-- **4)** swoje stanowisko sprawie wraz z uzasadnieniem konieczności przekazania nieruchomości.
+- **1)** informacje zawarte wykazie nieruchomości, o którym mowa art. 10, dotyczące nieruchomości;
+- **2)** stanowisko, o którym mowa art. 11;
+- **3)** opinię, o której mowa art. 12 ust. 1.
 
-3. Rozstrzygnięcie Prezesa Rady Ministrów przekazywane jest ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa i właściwemu organowi oraz stanowi podstawę do sporządzenia protokołu zdawczo-odbiorczego i przekazania nieruchomości skład Zasobu. właściwego miejscowo wojewody.
+3. Rozstrzygnięcie Komisji Rozjemczej przy Sądzie Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej przekazywane jest Prezesowi KZN, właściwemu organowi albo spółce Skarbu Państwa. W przypadku rozstrzygnięcia nakazującego przekazanie nieruchomości, KZN sporządza protokół zdawczo-odbiorczy, który stanowi podstawę przekazania nieruchomości do Zasobu. Podpisanie protokołu zdawczo-odbiorczego przez właściwy organ albo spółkę Skarbu Państwa nie jest wymagane.
 
-**Art. 14.** Do rozstrzygnięcia lub wydania opinii, o których mowa art. 11, art. 12 ust. 1 i art. 13 ust. 3, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257) oraz ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369 i 1370).
+**Art. 13a.** W odniesieniu do nieruchomości, o których mowa art. 11, którymi gospodaruje starosta, Prezes KZN występuje do wojewody właściwego ze względu na miejsce położenia nieruchomości, zwanego dalej „wojewodą”, z wnioskiem o rozstrzygnięcie sprawy przekazania nieruchomości do Zasobu. Rozstrzygnięcie wojewody przekazywane jest Prezesowi KZN oraz właściwemu organowi. W przypadku rozstrzygnięcia nakazującego przekazanie nieruchomości, KZN sporządza protokół zdawczo-odbiorczy, który stanowi podstawę przekazania nieruchomości do Zasobu. W tym przypadku protokół zdawczo-odbiorczy podpisuje wojewoda zastępstwie właściwego organu. Przepis ust. 2 stosuje się odpowiednio. opinii, o której mowa art. 12 ust. 1, i wydania rozstrzygnięć, o których mowa art. 13 ust. 3 i art. 13a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) oraz ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
 
-**Art. 15.**
-
-1. Starostowie wykonujący zadania z zakresu administracji rządowej oraz prezydenci miast na prawach powiatu wykonujący zadania z zakresu administracji rządowej przekazują wykazy nieruchomości, o których mowa art. 10, do KZN niezwłocznie po stwierdzeniu kompletności tych wykazów przez wojewodów.
-
-2. Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, Prezes Agencji Mienia Wojskowego oraz Dyrektor Generalny Lasów Państwowych przekazują do KZN wykazy nieruchomości, o których mowa art. 10, sporządzone według stanu na dzień 31 grudnia danego roku, terminie do dnia 31 stycznia roku następującego po roku, którego dotyczy wykaz.
+**Art. 15.** (uchylony)
 
 **Art. 16.** Wykazy nieruchomości, o których mowa art. 10, dla obszarów, dla których sporządzono mapy formie wektorowej, sporządza się z wykorzystaniem państwowego systemu odniesień przestrzennych, a dla pozostałych obszarów wykaz z wykorzystaniem państwowego systemu odniesień przestrzennych sporządza się miarę możliwości.
 
-**Art. 17.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, drodze rozporządzenia, wzór wykazu nieruchomości przekazywanego KZN przez właściwe organy, sposób jego prowadzenia oraz przekazywania, kierując się potrzebą zagwarantowania poprawności i kompletności zawartych wykazie informacji oraz zapewnienia sporządzania i przekazywania wykazów sposób jednolity na obszarze całego kraju.
+**Art. 17.** Minister właściwy do spraw rozwoju regionalnego określi, drodze rozporządzenia, wzór wykazu nieruchomości przekazywanego KZN przez właściwe organy oraz spółki Skarbu Państwa, sposób jego prowadzenia oraz przekazywania, kierując się potrzebą zagwarantowania poprawności i kompletności zawartych wykazie informacji oraz zapewnienia sporządzania i przekazywania wykazów sposób jednolity na obszarze całego kraju.
 
-**Art. 18.** Starostowie wykonujący zadania z zakresu administracji rządowej oraz prezydenci miast na prawach powiatu wykonujący zadania z zakresu administracji rządowej przekazują wykazy nieruchomości, o których mowa art. 10, sporządzone według stanu na dzień 31 grudnia danego roku, wojewodom właściwym ze względu na miejsce położenia nieruchomości terminie do dnia 31 stycznia roku następującego po roku, którego dotyczy wykaz, wraz z opiniami, o których mowa art. 11 i art. 12 ust. 1.
+**Art. 18.**
+
+1. Starostowie przekazują wykazy nieruchomości, o których mowa art. 10, sporządzone według stanu na dzień 31 grudnia danego roku, wojewodom terminie do dnia 31 stycznia roku następującego po roku, którego dotyczy wykaz, wraz ze stanowiskami, o których mowa art. 11.
+
+2. Wojewoda dokonuje sprawdzenia wykazów nieruchomości pod względem ich zgodności z wymaganiami określonymi przepisach wykonawczych wydanych na podstawie art. 17 oraz kompletności danych, tym dołączenia stanowisk, o których mowa art. 11, terminie 60 dni od dnia ich otrzymania.
+
+3. W przypadku stwierdzenia zgodności i kompletności wykazu nieruchomości wojewoda informuje starostę o możliwości przekazania wykazu do KZN.
+
+4. W przypadku nieprzekazania wykazu terminie albo stwierdzenia niezgodności lub niekompletności wykazu wojewoda wzywa starostę do przekazania wykazu albo usunięcia niezgodności lub uzupełnienia wykazu terminie 21 dni od dnia doręczenia wezwania, wskazując zakres niezgodności lub niekompletności. o którym mowa ust. 4, wojewoda może wymierzyć, drodze decyzji, karę wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
+
+6. Karę uiszcza się terminie 14 dni od dnia doręczenia decyzji, o której mowa ust. 5.
+
+7. W przypadku nieuiszczenia kary podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji.
+
+8. Odwołanie od decyzji, o której mowa ust. 5, przysługuje do ministra właściwego do spraw rozwoju regionalnego.
+
+**Art. 18a.**
+
+1. Starostowie przekazują wykazy nieruchomości, o których mowa art. 10, do KZN niezwłocznie po otrzymaniu od wojewody informacji, o której mowa art. 18 ust. 3.
+
+2. Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, Prezes Agencji Mienia Wojskowego oraz spółki Skarbu Państwa przekazują wykazy nieruchomości, o których mowa art. 10, sporządzone według stanu na dzień 31 grudnia danego roku, do KZN, terminie do dnia 31 stycznia roku następującego po roku, którego dotyczy wykaz.
+
+3. W terminie do dnia 30 kwietnia danego roku, Prezes KZN przedstawia spółce Skarbu Państwa informacje o nieruchomościach, stosunku do których planuje wystąpić z wnioskiem o przekazanie do Zasobu danym roku kalendarzowym. Wniosek Prezesa KZN o przekazanie do Zasobu nieruchomości nieujętych informacji jest bezskuteczny.
 
 **Art. 19.**
 
-1. Wojewoda, a odniesieniu do wykazów sporządzonych przez właściwe organy, o których mowa art. 15 ust. 2, Prezes KZN dokonuje sprawdzenia wykazu nieruchomości pod względem zgodności z wymaganiami określonymi rozporządzeniu wydanym na podstawie art. 17 oraz pod względem kompletności danych określonych tym rozporządzeniu, a także dołączenia opinii, o których mowa art. 11 i art. 12 ust. 1, terminie 30 dni od dnia jego otrzymania.
+1. Prezes KZN dokonuje sprawdzenia wykazów nieruchomości pod względem ich zgodności z wymaganiami określonymi przepisach wykonawczych wydanych na podstawie art. 17 oraz kompletności danych, tym dołączenia stanowisk, o których mowa art. 11, terminie 60 dni od dnia ich otrzymania.
 
-2. W razie stwierdzenia niezgodności lub niekompletności wykazu lub braku opinii zakresie, o którym mowa ust. 1, wojewoda, a odniesieniu do wykazów sporządzonych przez właściwe organy, o których mowa art. 15 ust. 2, Prezes KZN wzywa organ, który sporządził wykaz nieruchomości, do usunięcia niezgodności lub uzupełnienia terminie 21 dni od dnia doręczenia wezwania, wskazując zakres niezgodności lub uzupełnienia.
+2. W przypadku nieprzekazania wykazu terminie albo stwierdzenia niezgodności lub niekompletności wykazu Prezes KZN wzywa właściwy organ lub spółkę Skarbu Państwa do przekazania wykazu albo usunięcia niezgodności lub uzupełnienia wykazu terminie 21 dni od dnia doręczenia wezwania, wskazując zakres niezgodności lub niekompletności.
 
-3. W przypadku stwierdzenia kompletności i zgodności wykazu nieruchomości przekazanego zgodnie z art. 15 oraz dołączenia wymaganych opinii wojewoda przekazuje, odpowiednio do starosty wykonującego zadania z zakresu administracji rządowej oraz prezydenta miasta na prawach powiatu wykonującego zadania z zakresu administracji rządowej, wykaz celem przekazania do KZN.
+3. (uchylony)
 
-4. W przypadku stwierdzenia niekompletności lub niezgodności wykazu nieruchomości przekazanego zgodnie z art. 15 albo niedołączenia opinii wojewoda, a odniesieniu do wykazów sporządzonych przez właściwe organy, o których mowa art. 15 ust. 2, Prezes KZN może żądać od właściwego organu uzupełnienia wykazu, wskazując termin i zakres uzupełnienia.
+5. W przypadku gdy właściwy organ lub spółka Skarbu Państwa nie przekaże lub nie uzupełni wykazu terminie, o którym mowa ust. 2, Prezes KZN może wymierzyć, drodze decyzji, karę wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
 
-5. W przypadku gdy organ, który sporządził wykaz nieruchomości, nie przekaże lub nie uzupełni wykazu terminie, o którym mowa ust. 4 albo art. 18, właściwy terytorialnie wojewoda, a odniesieniu do wykazów sporządzonych przez właściwe organy, o których mowa art. 15 ust. 2, Prezes KZN wymierza temu organowi, drodze decyzji, karę wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
-
-6. W przypadku gdy zwłoka przekazaniu wykazu nieruchomości, o którym mowa art. 10, nie przekracza 3 dni od dnia upływu terminu, o którym mowa ust. 4 albo art. 18, wojewoda, a odniesieniu do wykazów sporządzonych przez właściwe organy, o których mowa art. 15 ust. 2, Prezes KZN odstępuje od wymierzenia kary.
+6. (uchylony)
 
 7. Karę uiszcza się terminie 14 dni od dnia doręczenia decyzji, o której mowa ust. 5.
 
-9. Odwołanie od decyzji, o której mowa ust. 5, przysługuje do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+8. W przypadku nieuiszczenia kary podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji.
+
+9. Odwołanie od decyzji, o której mowa ust. 5, przysługuje do ministra właściwego do spraw rozwoju regionalnego.
 
 **Art. 20.**
 
-1. Każda nieruchomość wskazana wykazie nieruchomości przekazanym zgodnie z art. 15 może zostać przekazana do Zasobu.
+1. Nieruchomość ujęta wykazie nieruchomości, o którym mowa art. 10, przekazanym do KZN może zostać przekazana do Zasobu, z uwzględnieniem art. 13.
 
-2. Przekazaniu do Zasobu może podlegać również część nieruchomości wskazanej wykazie nieruchomości. Dokonanie podziału nieruchomości i założenie nowej księgi wieczystej dla nieruchomości powstałej wyniku podziału następuje na wniosek Prezesa KZN. W przypadku nieruchomości jednostek samorządu terytorialnego, dla których ustanowiono użytkowanie wieczyste Skarbu Państwa, podział nieruchomości następuje na wniosek właściciela nieruchomości złożony na wniosek Prezesa KZN.
+2. Przekazaniu do Zasobu może podlegać również część nieruchomości ujętej wykazie nieruchomości, o którym mowa art. 10. Dokonanie podziału nieruchomości i założenie nowej księgi wieczystej dla nieruchomości powstałej wyniku podziału następuje na wniosek Prezesa KZN. W przypadku nieruchomości jednostek samorządu terytorialnego, których użytkownikiem wieczystym jest Skarb Państwa, podział nieruchomości następuje na wniosek Prezesa KZN, który powiadamia właściwy organ lub spółkę Skarbu Państwa o złożeniu wniosku.
 
 3. W przypadku podziału albo scalenia nieruchomości wskazanej wykazie nieruchomości do Zasobu może być przekazana nieruchomość powstała wyniku podziału albo scalenia.
 
@@ -249,40 +324,62 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 1. Z wnioskiem o przekazanie do Zasobu nieruchomości, o których mowa art. 20, występuje Prezes KZN.
 
-2. Wniosek, o którym mowa ust. 1, nie może obejmować nieruchomości, co do których wykazie, o którym mowa art. 10, zawarto informacje o:
+2. Wniosek, o którym mowa ust. 1, nie może obejmować nieruchomości, co do których wykazie, o którym mowa art. 10, zawarto informacje o: się postępowaniach administracyjnych i sądowych dotyczących ustalenia własności nieruchomości lub użytkowania wieczystego;
 
-- **1)** zgłoszonych roszczeniach wobec nieruchomości lub jej części oraz o toczących się postępowaniach administracyjnych i sądowych dotyczących ustalenia własności nieruchomości lub użytkowania wieczystego;
 - **2)** tym, że korzystanie z nieruchomości wiąże się z korzystaniem z pomocy finansowej pochodzącej ze środków finansowych Unii Europejskiej.
 
 3. Dopuszcza się objęcie wnioskiem, o którym mowa ust. 1, nieruchomości, o których mowa ust. 2 pkt 2, jeżeli jest to niezbędne do realizacji inwestycji mieszkaniowej i zgodne z zasadami prawidłowej gospodarki.
 
+4. Od dnia doręczenia wniosku, o którym mowa ust. 1, do dnia przekazania nieruchomości do Zasobu albo wycofania przez Prezesa KZN wniosku, o którym mowa ust. 1, nieruchomości objęte tym wnioskiem nie mogą być przedmiotem czynności rozporządzających lub zobowiązujących. Na wniosek właściwego organu lub spółki Skarbu Państwa Prezes KZN terminie 30 dni od dnia otrzymania wniosku może wyrazić zgodę na dokonywanie tych czynności. Nieprzedstawienie stanowiska tym terminie uważa się za wyrażenie zgody na dokonanie czynności. Czynność rozporządzająca lub zobowiązująca dokonana z naruszeniem tego przepisu jest nieważna.
+
+5. Przepisu ust. 4 nie stosuje się, jeżeli do dnia doręczenia wniosku, o którym mowa ust. 1, został rozstrzygnięty przetarg na zagospodarowanie nieruchomości albo sporządzono protokół uzgodnień lub zawarto umowę przedwstępną, które będą stanowić podstawę dokonania czynności rozporządzających lub zobowiązujących.
+
 **Art. 22.**
 
-1. Przekazanie nieruchomości do Zasobu następuje protokołem zdawczo-odbiorczym, sporządzonym według wzoru zamieszczonego Biuletynie Informacji Publicznej KZN. Protokół podpisuje Prezes KZN oraz właściwy organ.
+1. Przekazanie nieruchomości do Zasobu przez właściwy organ następuje na podstawie protokołu zdawczo-odbiorczego, sporządzonego przez ten organ, według wzoru zamieszczonego Biuletynie Informacji Publicznej KZN. Protokół podpisują Prezes KZN oraz właściwy organ.
 
-2. Protokół zdawczo-odbiorczy, oprócz danych KZN identyfikujących go jako podmiot reprezentujący Skarb Państwa, zawiera informacje o:
+2. Protokół zdawczo-odbiorczy zawiera informacje o:
 
 - **1)** numerze księgi wieczystej, o ile jest założona;
 - **2)** położeniu i oznaczeniu nieruchomości według ewidencji gruntów i budynków;
 - **3)** powierzchni nieruchomości według ewidencji gruntów i budynków;
-- **4)** przeznaczeniu nieruchomości ustalonym miejscowym planie zagospodarowania przestrzennego albo, razie jego braku, informacje zawarte studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, dotyczące kierunków zagospodarowania terenów, na których położona jest nieruchomość;
-- **5)** podmiocie, który przekazał KZN wykonywanie prawa własności i innych praw rzeczowych na rzecz Skarbu Państwa.
+- **4)** przeznaczeniu nieruchomości;
+- **5)** właściwym organie, który przekazuje nieruchomość do Zasobu.
 
-3. Protokół zdawczo-odbiorczy zawiera również:
+3. Protokół zdawczo-odbiorczy zawiera również: prawach rzeczowych ustanowionych na nieruchomości, tym hipotekach, umowach dotyczących nieruchomości lub jej części, zgłoszonych roszczeniach wobec nieruchomości lub jej części oraz toczących się postępowaniach administracyjnych i sądowych dotyczących nieruchomości;
 
-- **1)** informacje o stanie prawnym nieruchomości, szczególności: ograniczonych prawach rzeczowych ustanowionych na nieruchomości, tym hipotekach, umowach dotyczących nieruchomości lub jej części, zawartych przez właściwy organ, zgłoszonych roszczeniach wobec nieruchomości lub jej części oraz o toczących się postępowaniach administracyjnych i sądowych dotyczących nieruchomości, których właściwy organ reprezentuje Skarb Państwa jako stronę lub jest świadkiem, lub posiada o nich informacje;
-- **2)** informacje o dotychczasowym sposobie zagospodarowania nieruchomości oraz korzystania z terenu i gruntu;
+- **2)** informacje o dotychczasowym sposobie zagospodarowania i korzystania z nieruchomości;
 - **3)** spis dokumentów dotyczących nieruchomości załączonych do protokołu.
 
 4. Do protokołu zdawczo-odbiorczego dołącza się dokumenty dotyczące nieruchomości.
 
 5. Termin podpisania protokołu zdawczo-odbiorczego ustala Prezes KZN.
 
-6. Z dniem podpisania przez strony protokołu zdawczo-odbiorczego Skarb Państwa powierza KZN wykonywanie prawa własności i innych praw rzeczowych na jego rzecz stosunku do nieruchomości wskazanej tym protokole. Powierzona nieruchomość wchodzi skład Zasobu.
+6. Z dniem podpisania protokołu zdawczo-odbiorczego przez właściwy organ i KZN nieruchomość zostaje przekazana do Zasobu, a Skarb Państwa powierza KZN wykonywanie prawa własności i innych praw rzeczowych na jego rzecz.
+
+6a. W przypadku nieruchomości przekazywanych do Zasobu przez spółki Skarbu Państwa protokół zdawczo-odbiorczy sporządza spółka Skarbu Państwa. Protokół zdawczo-odbiorczy podpisany przez Prezesa KZN i spółkę Skarbu Państwa stanowi podstawę sporządzenia protokołu przekazania nieruchomości, o którym mowa art. 22b. Przepisy ust. 2–5 stosuje się odpowiednio.
+
+7. (uchylony)
+
+**Art. 22a.** W przypadku niepodpisania przez właściwy organ albo spółkę Skarbu Państwa protokołu zdawczo-odbiorczego terminie 14 dni od dnia wystąpienia przez Prezesa KZN o jego podpisanie, przepisy art. 13 i art. 13a stosuje się odpowiednio.
+
+**Art. 22b.**
+
+1. Przekazanie nieruchomości do Zasobu przez spółkę Skarbu Państwa następuje na podstawie protokołu przekazania nieruchomości spisanego na wniosek KZN i zawierającego oświadczenie przedstawiciela KZN o przyjęciu nieruchomości do Zasobu. Protokół przekazania nieruchomości spisuje się formie aktu notarialnego. Przepisy art. 92 § 4 i 4 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001 oraz z 2025 r. poz. 479) stosuje się odpowiednio.
+
+2. Protokół przekazania nieruchomości zawiera szczególności oznaczenie nieruchomości według numeru księgi wieczystej i oznaczenie stron, zgodnie z treścią własności i innych praw rzeczowych na rzecz Skarbu Państwa i powierzenia wykonywania tych praw KZN.
+
+3. Do protokołu przekazania nieruchomości załącza się protokół zdawczo-odbiorczy.
+
+4. Z dniem podpisania protokołu przekazania nieruchomości:
+
+- **1)** prawo własności i inne prawa rzeczowe na przekazywanej nieruchomości przechodzą na rzecz Skarbu Państwa, który powierza KZN wykonywanie tych praw;
+- **2)** prawo użytkowania wieczystego nieruchomości Skarbu Państwa przysługujące spółce Skarbu Państwa wygasa, a istniejące obciążenia użytkowania wieczystego stają się obciążeniami nieruchomości;
+- **3)** nieruchomość zostaje przekazana do Zasobu.
 
 **Art. 23.**
 
-1. Protokół zdawczo-odbiorczy, o którym mowa art. 22 ust. 1, stanowi podstawę wpisu księdze wieczystej lub podstawę do założenia księgi wieczystej dla nieruchomości przekazywanej do Zasobu.
+1. Protokół zdawczo-odbiorczy, o którym mowa art. 22 ust. 1, albo protokół przekazania nieruchomości, o którym mowa art. 22b ust. 1, albo protokół zdawczo-odbiorczy, o którym mowa art. 13 ust. 3 albo art. 13a, stanowi podstawę wpisu księdze wieczystej albo podstawę założenia księgi wieczystej dla nieruchomości przekazanej do Zasobu. W przypadkach, o których mowa art. 13 ust. 3 i art. 13a, do protokołu zdawczo-odbiorczego załącza się rozstrzygnięcie Komisji Rozjemczej przy Sądzie Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej albo wojewody nakazujące przekazanie nieruchomości.
 
 2. Prezes KZN składa wniosek o wpis księdze wieczystej prowadzonej dla nieruchomości wchodzącej skład Zasobu albo o założenie księgi wieczystej dla takiej nieruchomości.
 
@@ -292,23 +389,29 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 - **1)** wygasa trwały zarząd;
 - **2)** KZN wstępuje ogół praw i obowiązków trwałego zarządcy i ponosi koszty związane z gospodarowaniem nieruchomością;
-- **3)** Prezes KZN może wypowiedzieć każdą umowę dotyczącą nieruchomości, tym umowy najmu, dzierżawy, użytkowania, z zachowaniem ustawowych terminów ich wypowiadania, jeżeli wypowiedzenie umowy jest konieczne lub umożliwi wykorzystanie nieruchomości na cel mieszkaniowy lub na realizację uzbrojenia technicznego niezbędnego do prawidłowego funkcjonowania inwestycji mieszkaniowych.
+- **3)** Prezes KZN może wypowiedzieć każdą umowę dotyczącą nieruchomości, tym umowę najmu, dzierżawy lub użyczenia, z zachowaniem umownych okresów wypowiedzenia, a przypadku ich braku okresów ustawowych, jeżeli nieruchomości na cel mieszkaniowy lub realizację uzbrojenia technicznego niezbędnego do prawidłowego funkcjonowania inwestycji mieszkaniowych.
 
 2. Wygaśnięcie trwałego zarządu, o którym mowa ust. 1 pkt 1, potwierdza właściwy organ drodze decyzji.
 
-3. W razie braku określonego terminu wypowiedzenia, o którym mowa ust. 1 pkt 3, wypowiedzenie następuje z zachowaniem trzymiesięcznego okresu wypowiedzenia, a odniesieniu do nieruchomości użytkowanych rolniczo z zachowaniem rocznego okresu wypowiedzenia.
+3. W przypadku gdy nie określono okresu wypowiedzenia, o którym mowa ust. 1 pkt 3, wypowiedzenie następuje z zachowaniem trzymiesięcznego okresu wypowiedzenia, a odniesieniu do dzierżawionych nieruchomości rolnych z zachowaniem rocznego okresu wypowiedzenia ze skutkiem na koniec roku dzierżawnego.
 
-4. Okres wypowiedzenia umów kończy się odniesieniu do:
+4. (uchylony)
 
-- **1)** nieruchomości użytkowanych rolniczo wraz z końcem roku kalendarzowego;
-- **2)** nieruchomości, dla których wskazano wykazie nieruchomości termin przekazania nieruchomości do KZN wraz z upływem tego terminu;
-- **3)** nieruchomości, dla których wskazano wykazie nieruchomości warunki przekazania nieruchomości do KZN wraz ze spełnieniem tych warunków.
+**Art. 24a.**
+
+1. Spółce Skarbu Państwa przysługuje rekompensata z tytułu przekazania nieruchomości do Zasobu. Wysokość i sposób wypłaty rekompensaty z tytułu przekazania nieruchomości do Zasobu Prezes KZN uzgadnia ze spółką Skarbu Państwa, która przekazała nieruchomość.
+
+2. Wypłata rekompensaty z tytułu przekazania nieruchomości obciąża KZN.
+
+3. Wysokość rekompensaty z tytułu przekazania nieruchomości ustala się na podstawie wartości rynkowej nieruchomości określonej operacie szacunkowym sporządzonym przez rzeczoznawcę majątkowego, według stanu i przeznaczenia nieruchomości oraz jej wartości dniu przekazania nieruchomości do Zasobu. Koszty operatu szacunkowego ponosi KZN.
+
+4. Jeżeli terminie 2 miesięcy od dnia przekazania nieruchomości do Zasobu nie dojdzie do uzgodnienia, o którym mowa ust. 1, wysokość rekompensaty i sposób jej zapłaty ustala, drodze decyzji, wojewoda.
+
+5. Decyzja o ustaleniu rekompensaty jest ostateczna. W terminie 2 miesięcy od dnia doręczenia decyzji o ustaleniu rekompensaty strona niezadowolona z wysokości rekompensaty może wnieść powództwo do sądu powszechnego. Wniesienie powództwa nie wstrzymuje wykonania decyzji.
 
 **Art. 25.**
 
-1. Koszty gospodarowania nieruchomościami wchodzącymi skład Zasobu, tym koszty administrowania, wycen nieruchomości, spłaty obciążających nieruchomość zobowiązań, realizacji uzbrojenia technicznego, ponosi KZN.
-
-2. W przypadku wypowiedzenia umów, o którym mowa art. 24 ust. 1 pkt 3, od KZN przysługuje wynagrodzenie za poniesione na nieruchomości nakłady konieczne i ulepszające.
+1. Koszty gospodarowania nieruchomościami wchodzącymi skład Zasobu, tym koszty administrowania, wycen nieruchomości, spłaty obciążających nieruchomość zobowiązań, realizacji uzbrojenia technicznego, ponosi KZN. KZN przysługuje wynagrodzenie za poniesione na nieruchomości nakłady konieczne i ulepszające.
 
 3. W przypadku gdy skutkiem wypowiedzenia umów, o których mowa art. 24 ust. 1 pkt 3, jest konieczność wypłaty odszkodowania, zapłaty kary umownej lub konieczność zwrotu przyznanych środków, tym środków pochodzących z Unii Europejskiej, przez stronę umowy niebędącą reprezentantem Skarbu Państwa, stronie tej przysługuje od KZN zwrot wypłaconych środków finansowych.
 
@@ -316,9 +419,11 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 **Art. 26.**
 
-1. Nieruchomość wchodząca skład Zasobu może zostać wyłączona z Zasobu i podlegać zwrotowi właściwemu organowi, który przekazał tę nieruchomość, jeżeli jest ona zbędna dla realizacji zadań KZN.
+1. Nieruchomość wchodząca skład Zasobu może zostać wyłączona z Zasobu przez Prezesa KZN, tym również na wniosek właściwego organu lub spółki Skarbu Państwa, jeżeli jest zbędna dla realizacji zadań KZN, albo odniesieniu do tej nieruchomości zostały zgłoszone roszczenia.
 
-2. Nieruchomość wchodząca skład Zasobu jest zwracana właściwemu organowi, który przekazał tę nieruchomość, jeżeli do tej nieruchomości zgłoszono roszczenia dotyczące prawa własności lub użytkowania wieczystego.
+2. W przypadku gdy wyłączeniu podlega nieruchomość przekazana uprzednio do Zasobu przez spółkę Skarbu Państwa, warunki przekazania oraz wysokość i sposób zwrotu rekompensaty, o której mowa art. 24a ust. 1, podlegają uzgodnieniu drodze umowy.
+
+3. W przypadku gdy zawarcie umowy ze spółką Skarbu Państwa nie dojdzie do skutku, Prezes KZN przekazuje nieruchomość do zasobu, którym gospodaruje starosta wykonujący zadania z zakresu administracji rządowej.
 
 **Art. 27.**
 
@@ -327,29 +432,31 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 - **1)** ministra lub wojewody złożony związku z potrzebą wykorzystania tej nieruchomości na cel publiczny;
 - **2)** Ministra Obrony Narodowej złożony związku z potrzebą wykorzystania tej nieruchomości na cele obronności i bezpieczeństwa państwa lub potrzeby mieszkaniowe żołnierzy;
 - **3)** ministra właściwego do spraw rozwoju wsi złożony związku z potrzebą wykorzystania tej nieruchomości na cele rolnicze;
-- **4)** ministra właściwego do spraw środowiska złożony związku z potrzebą wykorzystania tej nieruchomości na cele leśne. budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa z uzasadnionym wnioskiem o wystąpienie do Prezesa Rady Ministrów o rozstrzygnięcie sprawy wyłączenia z Zasobu takiej nieruchomości.
+- **4)** (uchylony) wykorzystania tej nieruchomości na cele transportowe.
 
-3. Przedstawiając sprawę do rozstrzygnięcia przez Prezesa Rady Ministrów, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przekazuje:
+2. W przypadku sporu dotyczącego zasadności wyłączenia nieruchomości z Zasobu, o których mowa ust. 1, Prezes KZN lub organ wnioskujący o wyłączenie może wystąpić do Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej o powołanie Komisji Rozjemczej przy Sądzie Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej celu rozstrzygnięcia sprawy wyłączenia takiej nieruchomości z Zasobu. W przypadku nieruchomości, o których mowa art. 26 ust. 1, o rozstrzygnięcie sporu może wystąpić właściwy organ lub spółka Skarbu Państwa, a odniesieniu do nieruchomości przekazanych do Zasobu przez Krajowy Ośrodek Wsparcia Rolnictwa i Agencję Mienia Wojskowego także Prezes KZN.
 
-- **1)** wykaz nieruchomości dotyczący tej nieruchomości;
-- **2)** uzasadniony wniosek, o którym mowa ust. 1;
-- **3)** uzasadniony wniosek, o którym mowa ust. 2.
+2a. Przepisów ust. 2 nie stosuje się odniesieniu do nieruchomości przekazanej uprzednio do Zasobu przez starostę wykonującego zadanie z zakresu administracji rządowej. Z wnioskiem o rozstrzygnięcie sporu dotyczącego wyłączenia takiej nieruchomości z Zasobu Prezes KZN lub starosta może wystąpić do wojewody.
 
-4. Rozstrzygnięcie Prezesa Rady Ministrów przekazywane jest ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa i właściwemu organowi i stanowi podstawę do sporządzenia protokołu zdawczo-odbiorczego i wyłączenia nieruchomości z Zasobu.
+3. Występując o rozstrzygnięcie sporu, podmiot wnioskujący o wyłączenie przedstawia uzasadniony wniosek o wyłączenie nieruchomości z Zasobu oraz informacje zawarte wykazie nieruchomości, o którym mowa art. 10.
 
-5. W odniesieniu do nieruchomości znajdujących się posiadaniu właściwych organów innych niż Lasy Państwowe, Agencja Mienia Wojskowego oraz Krajowy Ośrodek Wsparcia Rolnictwa wniosek, o którym mowa ust. 1, kieruje się do właściwego miejscowo wojewody.
+4. Rozstrzygnięcie Komisji Rozjemczej przy Sądzie Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej albo wojewody przekazywane jest stronom sporu. W przypadku rozstrzygnięcia nakazującego wyłączenie nieruchomości, KZN sporządza protokół zdawczo-odbiorczy, który stanowi podstawę wyłączenia nieruchomości z Zasobu. Podpisanie protokołu zdawczo-odbiorczego przez właściwy organ nie jest wymagane.
 
-6. Do rozstrzygnięcia, o którym mowa ust. 4, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego oraz ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+5. (uchylony)
+
+6. Do rozstrzygnięcia, o którym mowa ust. 4, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego oraz ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 **Art. 28.**
 
-1. Wyłączenie nieruchomości z Zasobu i zwrot nieruchomości następuje protokołem zdawczo-odbiorczym zawierającym informacje, o których mowa art. 22 ust. 2.
+1. Wyłączenie nieruchomości z Zasobu i przekazanie do zasobu właściwego organu następuje na podstawie protokołu zdawczo-odbiorczego sporządzanego przez Prezesa KZN. Protokół podpisują Prezes KZN oraz właściwy organ. Protokół zdawczo-odbiorczy stanowi podstawę wpisu księdze wieczystej. nieruchomości wyłączonej z Zasobu. Przepis art. 22 ust. 2 stosuje się odpowiednio.
 
-2. Protokół stanowi podstawę do ustanowienia prawa do dysponowania nieruchomością na podstawie przepisów działu II ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147 i 2260 oraz z 2017 r. poz. 624, 820 i 1509).
+2. (uchylony)
 
 3. Prezes KZN przekazuje protokół zdawczo-odbiorczy wraz z dokumentami określonymi spisie dokumentów dotyczących nieruchomości, o którym mowa art. 22 ust. 3 pkt 3.
 
-4. Zwrot nieruchomości następuje z dniem podpisania protokołu zdawczo-odbiorczego przez Prezesa KZN i organ, który wystąpił z wnioskiem. Z dniem podpisania protokołu zdawczo-odbiorczego Skarb Państwa przekazuje nieruchomość właściwemu organowi.
+4. Z dniem podpisania protokołu zdawczo-odbiorczego przez właściwy organ i Prezesa KZN nieruchomość zostaje przekazana do zasobu właściwego organu.
+
+5. W przypadku niepodpisania przez właściwy organ protokołu zdawczo-odbiorczego terminie 14 dni od dnia wystąpienia przez Prezesa KZN o jego podpisanie, przepisy art. 13 i art. 13a stosuje się odpowiednio.
 
 **Art. 29.**
 
@@ -357,7 +464,36 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 2. Nabycie nieruchomości, o którym mowa ust. 1, następuje po cenie rynkowej, uwzględniając wartość obciążeń nieruchomości.
 
-**Art. 30.** Jednostki samorządu terytorialnego, państwowe osoby prawne, spółki Skarbu Państwa, przypadku uznania, że nieruchomość nie jest niezbędna do realizacji ich zadań, mogą przekazywać na rzecz KZN, na własność Skarbu Państwa, nieruchomości.
+**Art. 30.** Jednostki samorządu terytorialnego, państwowe osoby prawne i spółki Skarbu Państwa, przypadku uznania, że nieruchomość nie jest niezbędna do realizacji ich zadań, mogą przekazywać nieruchomości do Zasobu, na własność Skarbu Państwa, za zgodą Prezesa KZN. Przekazanie następuje na podstawie protokołu przekazania nieruchomości na zasadach określonych art. 22b.
+
+**Art. 30a.**
+
+1. KZN przysługuje prawo pierwokupu na rzecz Skarbu Państwa nieruchomości stanowiącej własność lub przedmiot użytkowania wieczystego państwowej osoby prawnej, o której mowa art. 3 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940).
+
+2. Prawo pierwokupu, o którym mowa ust. 1, nie przysługuje przypadku sprzedaży:
+
+- **1)** lokalu mieszkalnego lub lokalu o innym przeznaczeniu wraz z pomieszczeniami przynależnymi rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali oraz udziału nieruchomości wspólnej; której przysługuje ustawowe prawo pierwszeństwa nabycia takiej nieruchomości.
+
+**Art. 30b.**
+
+1. Sprzedaż nieruchomości, o których mowa art. 30a ust. 1, oraz prawa użytkowania wieczystego tych nieruchomości następuje, jeżeli Prezes KZN nie wykona prawa pierwokupu.
+
+2. Prawo pierwokupu może być wykonane terminie miesiąca od dnia otrzymania przez Prezesa KZN zawiadomienia o treści umowy sprzedaży.
+
+3. Notariusz sporządzający umowę sprzedaży jest obowiązany do przekazania Prezesowi KZN wypisu aktu notarialnego obejmującego umowę sprzedaży, o której mowa ust. 2, terminie 3 dni od dnia zawarcia umowy.
+
+4. Prezes KZN wykonuje prawo pierwokupu przez złożenie oświadczenia formie aktu notarialnego u notariusza, o którym mowa ust. 3. W przypadku gdyby złożenie oświadczenia u tego notariusza było niemożliwe lub napotykało poważne trudności, może być ono złożone u innego notariusza.
+
+5. Z chwilą złożenia oświadczenia, o którym mowa ust. 4:
+
+- **1)** nieruchomość staje się własnością Skarbu Państwa, jeżeli wykonanie prawa pierwokupu dotyczyło sprzedaży nieruchomości;
+- **2)** prawo użytkowania wieczystego wygasa, jeżeli wykonanie prawa pierwokupu dotyczyło sprzedaży prawa użytkowania wieczystego nieruchomości stanowiącej własność Skarbu Państwa.
+
+6. Nieruchomości, o których mowa ust. 5, wchodzą do Zasobu.
+
+7. Wypis z aktu notarialnego obejmującego oświadczenie, o którym mowa ust. 4, notariusz doręcza sprzedawcy terminie 3 dni od dnia złożenia oświadczenia.
+
+**Art. 30c.** Prawo pierwokupu wykonuje się po cenie ustalonej pomiędzy stronami umowie sprzedaży.
 
 #### Rozdział 3 Organy Krajowego Zasobu Nieruchomości
 
@@ -365,65 +501,69 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 1. Organami KZN są Rada Nadzorcza KZN, zwana dalej „Radą Nadzorczą”, oraz Prezes KZN.
 
-2. Obsługę Rady Nadzorczej i Prezesa KZN zapewnia Biuro KZN, zwane dalej „Biurem”.
+2. Obsługę Rady Nadzorczej i Prezesa KZN zapewnia Biuro KZN, zwane dalej „Biurem”. regionalnego.
 
-3. Nadzór nad działalnością KZN sprawuje minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+4. W ramach nadzoru nad działalnością KZN minister właściwy do spraw rozwoju regionalnego jest uprawniony szczególności do żądania:
 
-4. W ramach nadzoru nad działalnością KZN minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa jest uprawniony szczególności do żądania:
+- **1)** udostępnienia przez KZN dokumentów związanych z działalnością KZN, tym gospodarowaniem nieruchomościami wchodzącymi skład Zasobu, lub ich kopii;
+- **2)** przekazania wszelkich informacji i wyjaśnień dotyczących działalności Prezesa KZN i Rady Nadzorczej oraz pracowników Biura.
 
-- **1)** udostępnienia przez KZN dokumentów związanych z działalnością KZN, tym gospodarowaniem Zasobem, lub ich kopii;
-- **2)** przekazania wszelkich informacji i wyjaśnień dotyczących działalności Prezesa KZN i Rady Nadzorczej oraz pracowników Biura. nia żądania.
+5. Minister właściwy do spraw rozwoju regionalnego, przedstawiając żądanie, o którym mowa ust. 4, wskazuje termin jego wykonania, nie krótszy niż 14 dni od dnia otrzymania żądania.
 
-6. Niezrealizowanie żądania terminie, o którym mowa ust. 5, stanowi podstawę odwołania Prezesa KZN.
+6. (uchylony)
 
 **Art. 32.**
 
-1. Rada Nadzorcza składa się z 9 członków.
+1. Rada Nadzorcza składa się z 8 członków.
 
 2. W skład Rady Nadzorczej wchodzi:
 
-- **1)** pięciu przedstawicieli ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
+- **1)** przedstawiciel ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
+- **1a)** 4 przedstawicieli ministra właściwego do spraw rozwoju regionalnego;
 - **2)** przedstawiciel ministra właściwego do spraw finansów publicznych;
 - **3)** przedstawiciel ministra właściwego do spraw rozwoju wsi;
-- **4)** przedstawiciel ministra właściwego do spraw środowiska;
-- **5)** przedstawiciel Ministra Obrony Narodowej.
+- **4)** przedstawiciel Ministra Obrony Narodowej.
+- **5)** (uchylony)
 
-3. Do kandydatów na członków Rady Nadzorczej stosuje się odpowiednio przepisy ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2259 oraz z 2017 r. poz. 624 i 1491).
+3. Do kandydatów na członków Rady Nadzorczej stosuje się odpowiednio przepisy ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
 
-4. Członków Rady Nadzorczej powołuje i odwołuje minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+4. Członków Rady Nadzorczej powołuje i odwołuje minister właściwy do spraw rozwoju regionalnego.
 
-5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa powołuje członków Rady Nadzorczej, o których mowa ust. 2 pkt 2–5, na wniosek odpowiednio ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw rozwoju wsi, ministra właściwego do spraw środowiska lub Ministra Obrony Narodowej.
+5. Minister właściwy do spraw rozwoju regionalnego powołuje członków Rady Nadzorczej, o których mowa ust. 2 pkt 2–4, na wniosek odpowiednio ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw rozwoju wsi i Ministra Obrony Narodowej.
 
-6. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa odwołuje członka Rady Nadzorczej na wniosek:
+6. Minister właściwy do spraw rozwoju regionalnego odwołuje członka Rady Nadzorczej na wniosek:
 
-- **1)** tego członka;
 - **2)** reprezentowanego ministra;
 - **3)** przewodniczącego Rady Nadzorczej, zaopiniowany przez reprezentowanego ministra;
-- **4)** z własnej inicjatywy, o ile dotyczy to osób, o których mowa ust. 2 pkt 1.
+- **4)** z własnej inicjatywy.
 
-7. Przewodniczącego Rady Nadzorczej wyznacza minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa spośród członków Rady Nadzorczej.
+7. Przewodniczącego Rady Nadzorczej wyznacza minister właściwy do spraw rozwoju regionalnego spośród członków Rady Nadzorczej będących jego przedstawicielami.
 
-8. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, drodze rozporządzenia, wysokość wynagrodzenia członków Rady Nadzorczej za udział jej pracach, mając na względzie zapewnienie proporcjonalności wysokości tego wynagrodzenia do zakresu i charakteru powierzonych obowiązków oraz efektywność prac Rady Nadzorczej, z uwzględnieniem przepisów o wynagrodzeniu członków rad nadzorczych spółek Skarbu Państwa.
+8. Minister właściwy do spraw rozwoju regionalnego określi, drodze rozporządzenia, wysokość wynagrodzenia członków Rady Nadzorczej za udział jej pracach, mając na względzie zapewnienie proporcjonalności wysokości tego wynagrodzenia do zakresu i charakteru powierzonych obowiązków oraz efektywność prac Rady Nadzorczej, z uwzględnieniem przepisów o wynagrodzeniu członków rad nadzorczych spółek Skarbu Państwa.
 
-9. Członkom Rady Nadzorczej zamieszkałym poza miejscowością, której odbywa się posiedzenie, i biorącym udział posiedzeniu przysługuje prawo do zwrotu kosztów podróży i noclegów na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962).
+9. Członkom Rady Nadzorczej zamieszkałym poza miejscowością, której odbywa się posiedzenie, i biorącym udział posiedzeniu przysługuje prawo do zwrotu kosztów podróży i noclegów na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277).
 
-10. Członkowie Rady Nadzorczej pobierają wynagrodzenie na zasadach określonych przepisami art. 8 pkt 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2017 r. poz. 1222), z tym że wysokość wynagrodzenia ustala minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wysokości nie wyższej niż 1/3 przewidzianej ustawie.
+10. Członkowie Rady Nadzorczej pobierają wynagrodzenie na zasadach określonych art. 8 pkt 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2019 r. poz. 2136), z tym że wysokość wynagrodzenia ustala minister, o którym mowa ust. 4.
 
 **Art. 33.**
 
 1. Do zadań Rady Nadzorczej należy:
 
-- **1)** zatwierdzanie, raz na 5 lat, wieloletniej strategii działania KZN, przedstawionej przez Prezesa KZN;
-- **2)** opiniowanie projektu rocznego planu finansowego KZN oraz kwartalnych sprawozdań z realizacji planu finansowego KZN i rocznego sprawozdania finansowego KZN;
+- **1)** zatwierdzenie przedstawionej przez Prezesa KZN wieloletniej strategii działania KZN;
+- **2)** opiniowanie projektu rocznego planu finansowego KZN i rocznego sprawozdania finansowego KZN;
+- **2a)** zatwierdzanie kwartalnych sprawozdań z realizacji planu finansowego KZN;
 - **3)** zatwierdzanie przedstawionego przez Prezesa KZN programu gospodarowania nieruchomościami wchodzącymi skład Zasobu oraz dokonywanie zmian tym programie;
-- **4)** zatwierdzanie kwartalnych sprawozdań z wykonanych czynności kontrolnych;
-- **6)** opiniowanie wniosków Prezesa KZN kierowanych do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa sprawach, o których mowa art. 35;
+- **4)** zatwierdzanie kwartalnych sprawozdań z wykonanych czynności kontrolnych; wartość nie przekracza 4 000 000 zł;
+- **5a)** wyrażanie zgody na nieodpłatne przekazanie nieruchomości, o którym mowa art. 52, gdy jej wartość nie przekracza 2 000 000 zł;
+- **6)** opiniowanie wniosków Prezesa KZN kierowanych do ministra właściwego do spraw rozwoju regionalnego sprawach, o których mowa art. 35;
 - **7)** zatwierdzanie wniosków Prezesa KZN sprawach:
     - **a)** zaciągania kredytów i pożyczek, gdy ich wartość nie przekracza 4 000 000 zł,
-    - **b)** dokonania czynności prawnej, której przedmiotem jest nieruchomość wchodząca skład Zasobu, przypadku gdy wartość tej nieruchomości nie przekracza 4 000 000 zł,
-    - **c)** wykorzystania mienia KZN, a także nieruchomości wchodzących skład Zasobu, do ustanawiania zabezpieczeń zaciągniętych zobowiązań finansowych, szczególności ustanowienia hipoteki na nieruchomości, gdy jego wartość nie przekracza 4 000 000 zł;
+    - **b)** dokonania czynności prawnej, której przedmiotem jest nieruchomość wchodząca skład Zasobu, innej niż zbycie,
+    - **c)** ustanawiania hipotek, celu zabezpieczenia zobowiązań finansowych KZN na nieruchomościach wchodzących skład Zasobu, gdy wartość nieruchomości nie przekracza 4 000 000 zł;
 
 - **8)** ustalanie zasad wynagradzania Prezesa KZN i pracowników Biura;
+- **8a)** reprezentowanie KZN umowach z zakresu prawa pracy zawieranych z Prezesem KZN oraz dokonywanie innych czynności prawnych wynikających z zatrudnienia Prezesa KZN;
+- **8b)** delegowanie członka Rady Nadzorczej do czynności, o których mowa pkt 8a;
 - **9)** sprawowanie nadzoru nad działalnością KZN;
 - **10)** udzielanie Prezesowi KZN wytycznych dotyczących działalności KZN, tym gospodarowania nieruchomościami wchodzącymi skład Zasobu;
 - **11)** uczestnictwo procedurze wyboru Prezesa KZN na zasadach określonych ustawie;
@@ -433,25 +573,19 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 **Art. 34.**
 
-1. Rada Nadzorcza uchyla decyzje Prezesa KZN niezgodne z przepisami prawa, statutem KZN lub wieloletnią strategią działania KZN, o której mowa art. 38 ust. 1 pkt 5.
+1. Rada Nadzorcza uchyla decyzje Prezesa KZN niezgodne z przepisami prawa, statutem KZN lub wieloletnią strategią działania KZN, o której mowa art. 38 ust. 1 pkt 5. pieniężnych.
 
-2. Przepisu ust. 1 nie stosuje się do decyzji sprawach administracyjnych kar pieniężnych.
-
-**Art. 35.** Pisemnej zgody ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wymaga:
+**Art. 35.** Pisemnej zgody ministra właściwego do spraw rozwoju regionalnego wymaga:
 
 **Art. 36.**
 
-1. Prezesa KZN powołuje, na wniosek ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zaopiniowany przez Radę Nadzorczą, Prezes Rady Ministrów spośród osób wyłonionych drodze otwartego i konkurencyjnego naboru.
+1. Prezesa KZN powołuje minister właściwy do spraw rozwoju regionalnego spośród osób wyłonionych drodze otwartego i konkurencyjnego naboru. podstawie powołania rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
-2. Powołanie, o którym mowa ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+3. Prezesa KZN odwołuje minister właściwy do spraw rozwoju regionalnego.
 
-3. Prezesa KZN odwołuje Prezes Rady Ministrów.
+4. (uchylony)
 
-4. Prezes Rady Ministrów może odwołać Prezesa KZN razie:
-
-- **1)** negatywnej opinii Rady Nadzorczej do projektu rocznego planu finansowego KZN;
-- **2)** odmowy zatwierdzenia projektu rocznego planu finansowego KZN;
-- **3)** odmowy zatwierdzenia kwartalnego lub rocznego sprawozdania z realizacji planu finansowego KZN. nemu z zastępców Prezesa KZN.
+5. W przypadku odwołania Prezesa KZN albo rezygnacji Prezesa KZN z pełnienia funkcji minister właściwy do spraw rozwoju regionalnego powierza kierowanie KZN jednemu z zastępców Prezesa KZN.
 
 **Art. 37.**
 
@@ -462,10 +596,10 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 - **3)** korzysta z pełni praw publicznych;
 - **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** posiada kompetencje kierownicze;
-- **6)** posiada co najmniej 6-letni staż pracy, tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
+- **6)** posiada co najmniej 6-letni okres zatrudnienia na podstawie umowy o pracę, powołania, wyboru, mianowania, spółdzielczej umowy o pracę, lub świadczenia usług na podstawie innej umowy, tym co najmniej 3-letni na stanowisku kierowniczym;
 - **7)** posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości KZN.
 
-2. Informację o naborze na stanowisko Prezesa KZN ogłasza się przez umieszczenie ogłoszenia miejscu powszechnie dostępnym siedzibie KZN oraz Biuletynie Informacji Publicznej KZN i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+2. Informację o naborze na stanowisko Prezesa KZN ogłasza się przez umieszczenie ogłoszenia miejscu powszechnie dostępnym siedzibie KZN oraz Biuletynie Informacji Publicznej KZN i Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego.
 
 3. Informacja, o której mowa ust. 2, zawiera:
 
@@ -475,9 +609,7 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 - **4)** zakres zadań wykonywanych na stanowisku;
 - **5)** wskazanie wymaganych dokumentów;
 - **6)** termin i miejsce składania dokumentów;
-- **7)** informację o sposobach oceny kandydatów.
-
-4. Termin, o którym mowa ust. 3 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+- **7)** informację o sposobach oceny kandydatów. dnia umieszczenia ogłoszenia Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego.
 
 5. Nabór na stanowisko Prezesa KZN przeprowadza Rada Nadzorcza. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
 
@@ -485,7 +617,7 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 7. Członek Rady Nadzorczej oraz osoba, o której mowa ust. 6, mają obowiązek zachowania tajemnicy informacji dotyczących osób ubiegających się o stanowisko, uzyskanych trakcie naboru.
 
-8. W toku naboru Rada Nadzorcza wyłania nie więcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa celu dokonania przez ministra wyboru jednego kandydata i wskazania go we wniosku, o którym mowa art. 36 ust. 1.
+8. W toku naboru Rada Nadzorcza wyłania nie więcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw rozwoju regionalnego celu dokonania wyboru jednego kandydata.
 
 9. Z przeprowadzonego naboru Rada Nadzorcza sporządza protokół zawierający:
 
@@ -494,22 +626,22 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 - **3)** informację o sposobach oceny kandydatów;
 - **4)** uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata.
 
-10. Informację o wyniku naboru ogłasza się niezwłocznie przez umieszczenie informacji miejscu powszechnie dostępnym siedzibie KZN oraz Biuletynie Informacji Publicznej KZN i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+10. Informację o wyniku naboru ogłasza się niezwłocznie przez umieszczenie informacji miejscu powszechnie dostępnym siedzibie KZN oraz Biuletynie Informacji Publicznej KZN i Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego.
 
 11. Informacja, o której mowa ust. 10, zawiera:
 
 - **1)** nazwę i adres KZN;
-- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132) albo informację o niewyłonieniu kandydata.
+- **2)** określenie stanowiska, na które był prowadzony nabór; rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237) albo informację o niewyłonieniu kandydata.
 
-12. Umieszczenie Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów informacji o naborze oraz o wyniku naboru jest bezpłatne.
+12. Umieszczenie Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego ogłoszenia o naborze oraz informacji o wyniku naboru jest bezpłatne.
 
-13. Do Prezesa KZN stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2017 r. poz. 1393) dotyczące pracowników agencji państwowych zajmujących stanowiska prezesa, wiceprezesa, dyrektora zespołu, dyrektora oddziału terenowego i jego zastępcy lub stanowiska równorzędne.
+13. Do Prezesa KZN stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2025 r. poz. 499) dotyczące pracowników agencji państwowych zajmujących stanowiska prezesa, wiceprezesa, dyrektora zespołu, dyrektora oddziału terenowego i jego zastępcy lub stanowiska równorzędne.
 
 14. Funkcji Prezesa KZN nie można łączyć z zatrudnieniem administracji rządowej albo samorządowej, a także z mandatem posła, senatora albo radnego jednostki samorządu terytorialnego.
 
 15. Wynagrodzenie dla Prezesa KZN i zastępców Prezesa KZN przysługuje na zasadach określonych przepisach ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi.
 
-16. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ustala wysokość miesięcznego wynagrodzenia przysługującego Prezesowi KZN i zastępcom Prezesa KZN, mając na względzie pełnioną funkcję i zakres obowiązków Prezesa KZN i jego zastępców.
+16. Minister właściwy do spraw rozwoju regionalnego ustala wysokość miesięcznego wynagrodzenia przysługującego Prezesowi KZN i zastępcom Prezesa KZN, mając na względzie pełnioną funkcję i zakres obowiązków Prezesa KZN i jego zastępców.
 
 **Art. 38.**
 
@@ -520,47 +652,45 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 - **3)** podejmowanie czynności zakresie gospodarowania nieruchomościami stanowiącymi własność KZN;
 - **4)** opracowywanie i przedstawianie do zatwierdzenia Radzie Nadzorczej programu gospodarowania nieruchomościami wchodzącymi skład Zasobu;
 - **5)** opracowywanie i przedstawianie do zatwierdzenia Radzie Nadzorczej projektów wieloletnich strategii działania KZN;
-- **6)** przedstawianie ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa do zaopiniowania dokumentów celem ich zatwierdzenia;
-- **7)** opracowywanie i przedstawianie do zaopiniowania Radzie Nadzorczej projektów rocznych planów finansowych KZN i rocznego sprawozdania finansowego KZN;
-- **8)** opracowywanie i przedstawianie do zaopiniowania Radzie Nadzorczej kwartalnych sprawozdań z realizacji planu finansowego KZN;
+- **6)** przedstawianie ministrowi właściwemu do spraw rozwoju regionalnego do zaopiniowania dokumentów celem ich zatwierdzenia; projektów rocznych planów finansowych KZN i rocznego sprawozdania finansowego KZN;
+- **8)** opracowywanie i przedstawianie do zatwierdzenia Radzie Nadzorczej kwartalnych sprawozdań z realizacji planu finansowego KZN;
+- **8a)** składanie Radzie Nadzorczej wniosków o:
+    - **a)** wyrażenie zgody na zbycie nieruchomości wchodzącej skład Zasobu, gdy jej wartość nie przekracza 4 000 000 zł,
+    - **b)** wyrażenie zgody na nieodpłatne przekazanie nieruchomości, o którym mowa art. 52, gdy jej wartość nie przekracza 2 000 000 zł;
+
 - **9)** składanie Radzie Nadzorczej do zatwierdzenia wniosków sprawach:
     - **a)** zaciągania kredytów i pożyczek, gdy ich wartość nie przekracza 4 000 000 zł,
-    - **b)** dokonania czynności prawnej, której przedmiotem jest nieruchomość wchodząca skład Zasobu, przypadku gdy wartość tej nieruchomości nie przekracza 4 000 000 zł,
-    - **c)** wykorzystania mienia KZN, a także nieruchomości wchodzących skład Zasobu, do ustanawiania zabezpieczeń zaciągniętych zobowiązań finansowych, szczególności ustanowienia hipoteki na nieruchomości, gdy jego wartość nie przekracza 4 000 000 zł;
+    - **b)** dokonania czynności prawnej, której przedmiotem jest nieruchomość wchodząca skład Zasobu, innej niż zbycie,
+    - **c)** ustanawiania hipotek, celu zabezpieczenia zobowiązań finansowych KZN na nieruchomościach wchodzących skład Zasobu, gdy wartość nieruchomości nie przekracza 4 000 000 zł;
 
-- **10)** składanie Radzie Nadzorczej do zaopiniowania wniosków o dokonanie czynności, o których mowa art. 35, kierowanych do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
-- **11)** gospodarowanie środkami KZN, tym środkami z działalności zakresie gospodarowania nieruchomościami wchodzącymi skład Zasobu, z zastrzeżeniem uprawnień Rady Nadzorczej oraz ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
-- **12)** kontrolowanie wykorzystania nieruchomości, które zostały oddane użytkowanie wieczyste przetargu, o którym mowa art. 53 ust. 1, oraz nieruchomości zbytych drodze przetargu;
-- **13)** podejmowanie czynności zakresie opracowywania analiz i ocen efektywności funkcjonowania KZN; analitycznych i popularyzujących innowacyjne rozwiązania zakresie mieszkalnictwa, gospodarki nieruchomościami, budownictwa, planowania i zagospodarowania przestrzennego oraz rewitalizacji, tym również na zlecenie ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
+- **10)** składanie Radzie Nadzorczej do zaopiniowania wniosków o dokonanie czynności, o których mowa art. 35, kierowanych do ministra właściwego do spraw rozwoju regionalnego;
+- **11)** gospodarowanie środkami KZN, tym środkami z działalności zakresie gospodarowania nieruchomościami wchodzącymi skład Zasobu, z zastrzeżeniem uprawnień Rady Nadzorczej oraz ministra właściwego do spraw rozwoju regionalnego;
+- **12)** kontrolowanie wykorzystania nieruchomości, które zostały sprzedane lub oddane użytkowanie wieczyste;
+- **13)** podejmowanie czynności zakresie opracowywania analiz i ocen efektywności funkcjonowania KZN;
+- **14)** podejmowanie czynności zakresie prowadzenia, we współpracy z instytutami naukowymi nadzorowanymi przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, działań analitycznych i popularyzujących innowacyjne rozwiązania zakresie i zagospodarowania przestrzennego oraz rewitalizacji, tym również na zlecenie ministra właściwego do spraw rozwoju regionalnego;
 - **15)** kierowanie wniosków sprawach dotyczących rozstrzygnięć, o których mowa art. 13 ust. 1 i art. 27 ust. 2;
 - **16)** przedstawianie Radzie Nadzorczej do zatwierdzenia kwartalnych sprawozdań z wykonanych czynności kontrolnych nie później niż po upływie 45 dni po kwartale, którego dotyczy sprawozdanie;
-- **17)** przedstawianie ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa kwartalnych sprawozdań z wykonanych czynności kontrolnych, zatwierdzonych przez Radę Nadzorczą, nie później niż po upływie 60 dni po kwartale, którego dotyczy sprawozdanie;
-- **18)** zamieszczanie Biuletynie Informacji Publicznej KZN informacji o:
-    - **a)** nabyciu i zbyciu nieruchomości wchodzących skład Zasobu,
-    - **b)** oddaniu nieruchomości wchodzących skład Zasobu użytkowanie wieczyste trybie art. 53 ust. 1,
-    - **c)** zawarciu pierwszej umowy najmu o czynszu normowanym, dla danej inwestycji mieszkaniowej, i związanym z tym dniem upływu 15 i 30 lat od dnia zawarcia takiej umowy;
-
+- **17)** przedstawianie ministrowi właściwemu do spraw rozwoju regionalnego kwartalnych sprawozdań z wykonanych czynności kontrolnych, zatwierdzonych przez Radę Nadzorczą, nie później niż po upływie 60 dni po kwartale, którego dotyczy sprawozdanie;
+- **18)** zamieszczanie Biuletynie Informacji Publicznej KZN informacji o nabyciu i zbyciu nieruchomości wchodzących skład Zasobu;
 - **19)** określanie i przedstawienie Prezesowi Urzędu Komunikacji Elektronicznej warunków zapewnienia dostępu, o którym mowa art. 30 ust. 1 i 3 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, oraz umieszczania na nieruchomości obiektów i urządzeń, o którym mowa art. 33 ust. 1 tej ustawy.
 
 2. Prezes KZN udostępnia Radzie Nadzorczej, na jej żądanie, dokumenty i materiały dotyczące jego działalności oraz działalności KZN, tym gospodarowania nieruchomościami wchodzącymi skład Zasobu.
 
-3. Dokumenty, o których mowa ust. 1 pkt 4 i 5, przedstawiane są ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa do zaopiniowania ciągu 7 dni od dnia zatwierdzenia przez Radę Nadzorczą.
+3. Dokumenty, o których mowa ust. 1 pkt 4 i 5, przedstawiane są ministrowi właściwemu do spraw rozwoju regionalnego do zaopiniowania ciągu 7 dni od dnia zatwierdzenia przez Radę Nadzorczą.
 
-4. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przedstawia opinię ciągu 21 dni od dnia otrzymania dokumentów, o których mowa ust. 1 pkt 4 i 5, zatwierdzonych przez Radę Nadzorczą.
+4. Minister właściwy do spraw rozwoju regionalnego przedstawia opinię ciągu 21 dni od dnia otrzymania dokumentów, o których mowa ust. 1 pkt 4 i 5, zatwierdzonych przez Radę Nadzorczą.
 
-5. W przypadku negatywnej opinii ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa Prezes KZN ponownie opracowuje dokumenty, o których mowa ust. 1 pkt 4 i 5. Przepisy ust. 3 i 4 stosuje się.
+5. W przypadku negatywnej opinii ministra właściwego do spraw rozwoju regionalnego Prezes KZN ponownie opracowuje dokumenty, o których mowa ust. 1 pkt 4 i 5. Przepisy ust. 3 i 4 stosuje się.
 
 **Art. 39.**
 
-1. Prezes KZN reprezentuje KZN na zewnątrz.
+1. Prezes KZN reprezentuje KZN na zewnątrz. większej niż dwóch. Zastępców Prezesa KZN powołuje i odwołuje minister właściwy do spraw rozwoju regionalnego.
 
-2. Prezes KZN działa przy pomocy zastępców Prezesa KZN liczbie nie większej niż dwóch. Zastępców Prezesa KZN powołuje i odwołuje minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-3. Powołanie, o którym mowa ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+3. Powołanie, o którym mowa ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 40.**
 
-1. Czynności prawnych zakresie praw i obowiązków majątkowych KZN, tym praw i obowiązków majątkowych wynikających z gospodarowania nieruchomościami wchodzącymi skład Zasobu, dokonuje Prezes KZN samodzielnie albo dwóch pełnomocników powołanych przez Prezesa KZN, działających łącznie, z zastrzeżeniem kompetencji Rady Nadzorczej oraz ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+1. Czynności prawnych zakresie praw i obowiązków majątkowych KZN, tym praw i obowiązków majątkowych wynikających z gospodarowania nieruchomościami wchodzącymi skład Zasobu, dokonuje Prezes KZN, albo pełnomocnik upoważniony przez Prezesa KZN, z zastrzeżeniem kompetencji Rady Nadzorczej oraz ministra właściwego do spraw rozwoju regionalnego.
 
 2. Czynności prawne dotyczące nieruchomości wchodzących skład Zasobu dokonane niezgodnie z przepisami ustawy są nieważne z mocy ustawy.
 
@@ -572,17 +702,20 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 3. Dyrektora Biura powołuje i odwołuje Prezes KZN.
 
-4. Powołanie, o którym mowa ust. 3, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+4. Powołanie, o którym mowa ust. 3, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 5. Prezes KZN dokonuje czynności sprawach z zakresu prawa pracy stosunku do pracowników Biura.
+
+**Art. 42.**
+
+1. Nabór kandydatów do zatrudnienia na wolne stanowiska pracy Biurze jest otwarty i konkurencyjny.
 
 2. Ogłoszenie o naborze kandydatów do zatrudnienia Biurze zamieszcza się miejscu powszechnie dostępnym siedzibie KZN oraz Biuletynie Informacji Publicznej KZN. Ogłoszenie o naborze zawiera:
 
 - **1)** nazwę i adres Biura;
 - **2)** określenie stanowiska pracy;
 - **3)** wymagania związane ze stanowiskiem pracy zgodnie z opisem danego stanowiska, ze wskazaniem wymagań:
-    - **a)** niezbędnych i koniecznych do podjęcia pracy na danym stanowisku pracy,
-    - **b)** dodatkowych pozwalających na optymalne wykonywanie zadań na danym stanowisku pracy;
+    - **a)** niezbędnych i koniecznych do podjęcia pracy na danym stanowisku pracy, stanowisku pracy;
 
 - **4)** zakres zadań wykonywanych na stanowisku pracy;
 - **5)** informację o warunkach pracy na danym stanowisku pracy;
@@ -595,7 +728,7 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 5. Po upływie terminu składania dokumentów, określonego ogłoszeniu o naborze, niezwłocznie ogłasza się listę kandydatów, którzy spełniają wymagania formalne określone ogłoszeniu o naborze, przez umieszczenie listy miejscu powszechnie dostępnym siedzibie KZN oraz publikację listy Biuletynie Informacji Publicznej KZN.
 
-6. Lista, o której mowa ust. 5, zawiera imiona i nazwiska kandydatów oraz ich miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+6. Lista, o której mowa ust. 5, zawiera imiona i nazwiska kandydatów oraz ich miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 7. Z przeprowadzonego naboru kandydatów do zatrudnienia na wolne stanowiska pracy Biurze sporządza się protokół.
 
@@ -605,15 +738,13 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 - **2)** informację o zastosowanych metodach i technikach naboru;
 - **3)** uzasadnienie dokonanego wyboru.
 
-9. Informację o wyniku naboru ogłasza się terminie 14 dni od dnia podpisania umowy o pracę z wybranym kandydatem albo od dnia zakończenia naboru, przypadku gdy nie doszło do podpisania umowy o pracę z żadnym kandydatem.
-
-10. Informację, o której mowa ust. 9, ogłasza się miejscu powszechnie dostępnym siedzibie KZN oraz Biuletynie Informacji Publicznej KZN.
+9. Informację o wyniku naboru ogłasza się terminie 14 dni od dnia podpisania umowy o pracę z wybranym kandydatem albo od dnia zakończenia naboru, przypadku gdy nie doszło do podpisania umowy o pracę z żadnym kandydatem. dostępnym siedzibie KZN oraz Biuletynie Informacji Publicznej KZN.
 
 11. Informacja, o której mowa ust. 9, zawiera:
 
 - **1)** nazwę i adres Biura;
 - **2)** określenie stanowiska pracy, na które był przeprowadzany nabór;
-- **3)** imię, nazwisko i miejsce zamieszkania kandydata rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny;
+- **3)** imię, nazwisko i miejsce zamieszkania kandydata rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
 - **4)** uzasadnienie dokonanego wyboru albo uzasadnienie niedokonania wyboru żadnego kandydata.
 
 12. Jeżeli stosunek pracy osoby wyłonionej drodze naboru ustał ciągu 3 miesięcy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowisku kolejną osobę spośród najlepszych kandydatów wymienionych protokole tego naboru. Przepisy ust. 9–11 stosuje się odpowiednio.
@@ -622,7 +753,9 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 **Art. 43.**
 
-1. KZN prowadzi samodzielną gospodarkę finansową na podstawie rocznego planu finansowego sporządzanego, zgodnie z niniejszą ustawą oraz z uwzględnieniem przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na okres roku obrotowego i dwa kolejne lata. Rokiem obrotowym jest rok kalendarzowy.
+1. KZN prowadzi samodzielną gospodarkę finansową na podstawie rocznego planu finansowego.
+
+2. KZN wyodrębnia planie, o którym mowa ust. 1:
 
 - **1)** przychody z prowadzonej działalności;
 - **2)** dotacje z budżetu państwa;
@@ -631,55 +764,94 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
     - **b)** płatności odsetkowe wynikające z zaciągniętych zobowiązań,
     - **c)** zakup towarów i usług;
 
+- **3a)** środki gromadzone na Funduszu Społecznej Inicjatywy Mieszkaniowej KZN;
 - **4)** środki na wydatki majątkowe;
 - **5)** stan należności i zobowiązań na początek i koniec roku;
 - **6)** stan środków pieniężnych na początek i koniec roku;
-- **7)** wartość planowanych inwestycji dotyczących realizacji uzbrojenia technicznego.
+- **7)** wartość planowanych inwestycji dotyczących realizacji uzbrojenia technicznego;
+- **8)** środki przyznane innym podmiotom.
 
-3. W planie, o którym mowa ust. 1, KZN wyodrębnia plan finansowy Zasobu, wskazujący szczególności:
-
-- **1)** przychody z działalności zakresie gospodarowania Zasobem;
-- **2)** koszty zakresie gospodarowania Zasobem;
-- **3)** informacje o nieruchomościach planowanych do przekazania przez właściwe organy do Zasobu, z uwzględnieniem ich powierzchni i liczby, a także danych dotyczących wartości ewentualnych zobowiązań;
-- **4)** wartość nieruchomości wchodzących skład Zasobu, z uwzględnieniem ich powierzchni i liczby.
-
-4. Prezes KZN sporządza plan finansowy układzie zadaniowym na rok budżetowy i dwa kolejne lata.
+3. (uchylony) budżetowy.
 
 **Art. 44.**
 
 1. Prezes KZN opracowuje projekt rocznego planu finansowego KZN i przekazuje go do zaopiniowania Radzie Nadzorczej.
 
-2. Prezes KZN, po uzyskaniu pozytywnej opinii Rady Nadzorczej, trybie określonym dla prac nad projektem ustawy budżetowej, przekazuje ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa do zatwierdzenia projekt rocznego planu finansowego KZN, z uwzględnieniem terminów określanych przez ministra właściwego do spraw budżetu dla przedłożenia materiałów do projektu ustawy budżetowej.
+1a. Rada Nadzorcza opiniuje projekt planu finansowego KZN terminie 14 dni od dnia jego otrzymania. Opinia Rady Nadzorczej jest:
 
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zatwierdza projekt rocznego planu finansowego KZN i przekazuje go ministrowi właściwemu do spraw finansów publicznych trybie i terminach określonych przepisach dotyczących prac nad projektem ustawy budżetowej.
+- **1)** pozytywna bez zastrzeżeń;
+- **2)** pozytywna z zastrzeżeniami;
+- **3)** negatywna.
 
-4. Zmian rocznego planu finansowego KZN dokonuje się trybie i na zasadach określonych ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zatwierdza zmiany rocznego planu finansowego KZN.
+1b. W przypadku wyrażenia przez Radę Nadzorczą opinii pozytywnej z zastrzeżeniami albo opinii negatywnej, Prezes KZN przekazuje, po dokonaniu korekty planu finansowego KZN, projekt do ponownego zaopiniowania Radzie Nadzorczej. Rada Nadzorcza ponownie opiniuje projekt planu finansowego terminie 14 dni.
+
+2. Prezes KZN, po uzyskaniu opinii, o której mowa ust. 1a pkt 1, trybie określonym dla prac nad projektem ustawy budżetowej, przekazuje ministrowi właściwemu do spraw rozwoju regionalnego do zatwierdzenia projekt rocznego planu finansowego KZN, z uwzględnieniem terminów określanych przez ministra właściwego do spraw budżetu dla przedłożenia materiałów do projektu ustawy budżetowej.
+
+3. Minister właściwy do spraw rozwoju regionalnego zatwierdza projekt rocznego planu finansowego KZN i przekazuje go ministrowi właściwemu do spraw finansów publicznych trybie i terminach określonych przepisach dotyczących prac nad projektem ustawy budżetowej.
+
+4. (uchylony)
+
+5. Prezes przekazuje ministrowi właściwemu do spraw rozwoju regionalnego, terminie wynikającym z harmonogramu prac nad projektem ustawy budżetowej, informacje o prognozowanych przychodach i kosztach oraz dochodach i wydatkach zawierające dane dotyczące przewidywanego wykonania roku bieżącego oraz prognozy na kolejne 4 lata.
+
+6. Przy sporządzaniu informacji, o których mowa ust. 5, przyjmuje się wieloletnie założenia makroekonomiczne, o których mowa art. 138 ust. 1a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. wskazuje się szczególności koszty działalności KZN, tym:
+
+- **1)** związane z przeznaczaniem środków na:
+    - **a)** podnoszenie walorów gospodarczych nieruchomości wchodzących skład Zasobu, tym podejmowanie działań, których wynikiem będzie przygotowanie nieruchomości do zabudowy, szczególności przez podział nieruchomości lub scalenie i podział nieruchomości adekwatne do jej przyszłej funkcji, lub realizację uzbrojenia technicznego,
+    - **b)** realizację uzbrojenia technicznego nieruchomości przekazanych do Zasobu lub nabytych przez KZN na rzecz Skarbu Państwa,
+    - **c)** finansowanie lub współfinansowanie realizacji uzbrojenia technicznego służącego nieruchomościom wykorzystywanym pod budownictwo socjalne lub społeczne budownictwo czynszowe,
+    - **d)** prowadzenie działań analitycznych, tym sporządzanie lub zlecanie opracowań, analiz, raportów i ekspertyz,
+    - **e)** działalność popularyzatorską zakresie innowacyjnych rozwiązań dotyczących mieszkalnictwa, gospodarki nieruchomościami, budownictwa, planowania i zagospodarowania przestrzennego oraz rewitalizacji,
+    - **f)** funkcjonowanie organów KZN i Biura KZN, tym wynagrodzenia;
+
+- **2)** amortyzację środków trwałych oraz wartości niematerialnych i prawnych.
 
 **Art. 45.**
 
-1. Roczne sprawozdanie finansowe KZN opracowane przez Prezesa KZN podlega badaniu przez firmę audytorską, zgodnie z wymogami przeprowadzania badań określonymi ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61, 245, 791 i 1089) i ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089).
+1. Roczne sprawozdanie finansowe KZN opracowane przez Prezesa KZN podlega badaniu przez firmę audytorską, zgodnie z wymogami przeprowadzania badań określonymi ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863) i ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035 i 1863).
 
-2. Prezes KZN przedstawia ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa do zatwierdzenia:
+2. Prezes KZN przedstawia ministrowi, o którym mowa art. 31 ust. 3:
 
-- **1)** kwartalne sprawozdania z realizacji planu finansowego KZN opracowane przez Prezesa KZN wraz z opinią Rady Nadzorczej terminie do końca miesiąca następującego po kwartale, którego dotyczy sprawozdanie;
-- **2)** roczne sprawozdanie finansowe KZN opracowane przez Prezesa KZN wraz ze sprawozdaniem z badania sporządzonym przez firmę audytorską i opinią Rady Nadzorczej terminie do dnia 30 czerwca roku następującego po roku, którego dotyczy sprawozdanie.
+- **1)** kwartalne sprawozdanie z realizacji planu finansowego KZN zatwierdzone przez Radę Nadzorczą – terminie do końca miesiąca następującego po kwartale, którego dotyczy sprawozdanie;
+- **2)** do zatwierdzenia – roczne sprawozdanie finansowe KZN opracowane przez Prezesa KZN wraz ze sprawozdaniem z badania sporządzonym przez firmę następującego po roku, którego dotyczy sprawozdanie.
+
+3. Kwartalne sprawozdanie z realizacji planu finansowego KZN zawiera co najmniej informacje o:
+
+- **1)** krótkoterminowych aktywach finansowych, środkach pieniężnych i innych aktywach pieniężnych;
+- **2)** rozliczeniach międzyokresowych;
+- **3)** stanie funduszy, o których mowa art. 48 ust. 1;
+- **4)** stanie zobowiązań i należności KZN z uwzględnieniem odpowiednio tytułów zobowiązań wymagalnych oraz tytułów należności wymagalnych.
+
+4. Kwartalne sprawozdanie z realizacji planu finansowego KZN sporządza się układzie informacji określonych planie finansowym.
+
+5. W kwartalnym sprawozdaniu z realizacji planu finansowego KZN dane wykazuje się za kwartał oraz narastająco od początku roku obrotowego do końca kwartału, którego sprawozdanie dotyczy.
+
+6. Kwartalne sprawozdanie z realizacji planu finansowego KZN, według stanu na koniec IV kwartału, zawiera omówienie wykonania planu finansowego KZN, a przypadku powstania rozbieżności między planem a jego faktycznym wykonaniem – informację o tych rozbieżnościach i przyczynach ich powstania.
+
+7. Do kwartalnego sprawozdania z realizacji planu finansowego KZN dołącza się część opisową wykonania planowanych przychodów i kosztów.
+
+8. Kwartalne sprawozdanie z realizacji planu finansowego KZN, sporządza się z uwzględnieniem danych wynikających z ewidencji księgowej.
+
+9. Kwartalne sprawozdanie z realizacji planu finansowego KZN sporządza się sposób rzetelny i prawidłowy pod względem merytorycznym i formalno-rachunkowym.
+
+10. Projekt planu finansowego KZN oraz kwartalne sprawozdanie z realizacji planu finansowego KZN sporządza się i przekazuje postaci papierowej i formie dokumentu elektronicznego za pośrednictwem adresu elektronicznego.
 
 **Art. 46.**
 
 1. Przychodami KZN są:
 
-- **1)** dotacje celowe z budżetu państwa, określane corocznie ustawie budżetowej, przeznaczone na realizację określonych ustawie zadań KZN;
-- **2)** dotacje podmiotowe z budżetu państwa przeznaczone na dofinansowanie bieżącej działalności KZN;
-- **3)** przychody z działalności zakresie gospodarowania nieruchomościami przekazanymi KZN;
+- **1)** dotacje celowe z budżetu państwa, które mogą być udzielane do wysokości określanej corocznie ustawie budżetowej, przeznaczone wyłącznie na pokrycie kosztów związanych bezpośrednio z wnoszeniem nieruchomości art. 7 ust. 1, oraz do społecznych inicjatyw mieszkaniowych lub towarzystw budownictwa społecznego;
+- **2)** dotacje podmiotowe oraz dotacje celowe z budżetu państwa przeznaczone na dofinansowanie bieżącej działalności KZN;
+- **3)** przychody z działalności zakresie gospodarowania nieruchomościami wchodzącymi skład Zasobu;
+- **4)** przychody z tytułu odsetek od wolnych środków przekazanych depozyt zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **5)** środki pochodzące z budżetu Unii Europejskiej oraz środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi, inne niż środki pochodzące z budżetu Unii Europejskiej;
 - **6)** dobrowolne wpłaty, zapisy i darowizny;
 - **7)** przychody ze sprzedaży mienia własnego KZN;
 - **8)** inne przychody z działalności KZN, tym związane z karami umownymi.
 
-2. Przychodami z działalności zakresie gospodarowania Zasobem są:
+2. Przychodami z działalności zakresie gospodarowania nieruchomościami wchodzącymi skład Zasobu są:
 
-- **1)** przychody z tytułu odpłatnego przekazania na cele mieszkaniowe nieruchomości, z przeznaczeniem na realizację inwestycji mieszkaniowych;
-- **2)** inne przychody z działalności zakresie gospodarowania nieruchomościami wchodzącymi skład Zasobu oraz nieruchomościami nabytymi do Zasobu przez KZN na rzecz Skarbu Państwa.
+- **1)** przychody uzyskane ze zbycia nieruchomości z Zasobu;
+- **2)** inne przychody z działalności zakresie gospodarowania nieruchomościami wchodzącymi skład Zasobu.
 
 **Art. 47.** KZN może zaciągać kredyty i pożyczki.
 
@@ -689,11 +861,12 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 - **1)** fundusz statutowy;
 - **2)** fundusz zasobowy;
-- **3)** fundusz rezerwowy.
+- **3)** fundusz rezerwowy;
+- **4)** Fundusz Społecznej Inicjatywy Mieszkaniowej KZN.
 
 2. Fundusz statutowy odzwierciedla wartość netto środków trwałych, wartości niematerialnych i prawnych oraz innych składników aktywów, stanowiących wyposażenie KZN na dzień rozpoczęcia przez niego działalności.
 
-3. Fundusz zasobowy odzwierciedla wartość nieruchomości, o których mowa art. 1 ust. 1 pkt 2, powierzonych KZN przez Skarb Państwa i przekazanych trybie określonym ustawie, oraz nieruchomości nabytych przez KZN na rzecz Skarbu Państwa, a także innych aktywów z działalności zakresie gospodarowania Zasobem.
+3. Fundusz zasobowy odzwierciedla wartość nieruchomości, o których mowa art. 1 ust. 1 pkt 2, powierzonych KZN przez Skarb Państwa i przekazanych trybie określonym ustawie, oraz nieruchomości nabytych przez KZN na rzecz Skarbu nieruchomościami wchodzącymi skład Zasobu.
 
 4. Fundusz zasobowy ulega:
 
@@ -713,70 +886,141 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 - **1)** zwiększa się o wartość zysku netto KZN;
 - **2)** zmniejsza się o wartość straty netto KZN.
 
-6. Decyzję sprawie podziału wyniku finansowego KZN za rok obrotowy, po zatwierdzeniu sprawozdania finansowego przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, podejmuje, po przedstawieniu propozycji przez Prezesa KZN, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+5a. Fundusz Społecznej Inicjatywy Mieszkaniowej KZN gromadzi środki KZN stanowiące:
+
+- **1)** 60 % dochodów ze zbycia nieruchomości;
+- **2)** 40 % przychodów KZN:
+    - **a)** z działalności zakresie gospodarowania nieruchomościami wchodzącymi skład Zasobu,
+
+6. Decyzję sprawie podziału wyniku finansowego KZN za rok obrotowy, po zatwierdzeniu sprawozdania finansowego przez ministra właściwego do spraw rozwoju regionalnego, podejmuje, po przedstawieniu propozycji przez Prezesa KZN, minister właściwy do spraw rozwoju regionalnego.
+
+**Art. 49.**
+
+1. Środki KZN przeznacza się na:
 
 - **1)** realizację zadań, o których mowa art. 5 ust. 1, szczególności:
-    - **a)** nabywanie nieruchomości na rzecz Skarbu Państwa,
-    - **b)** podnoszenie walorów gospodarczych nieruchomości wchodzących skład Zasobu, tym podejmowanie działań, których wynikiem będzie przygotowanie nieruchomości do zabudowy, szczególności przez podział nieruchomości lub scalenie i podział nieruchomości adekwatny do jej przyszłej funkcji lub realizację uzbrojenia technicznego,
+    - **a)** nabywanie nieruchomości na rzecz Skarbu Państwa, aa) obejmowanie udziałów lub akcji społecznych inicjatywach mieszkaniowych lub towarzystwach budownictwa społecznego,
+    - **b)** podnoszenie walorów gospodarczych nieruchomości wchodzących skład Zasobu, tym podejmowanie działań, których wynikiem będzie przygotowanie nieruchomości do zabudowy, szczególności przez podział nieruchomości lub scalenie i podział nieruchomości adekwatny do jej przyszłej funkcji lub realizację uzbrojenia technicznego, ba) pokrycie kosztów tworzenia spółek, o których mowa art. 7 ust. 1, oraz tworzenia społecznych inicjatyw mieszkaniowych i przystępowania do społecznych inicjatyw mieszkaniowych lub towarzystw budownictwa społecznego,
     - **c)** pokrycie kosztów realizacji uzbrojenia technicznego nieruchomości przekazanych do KZN lub nabytych przez KZN na rzecz Skarbu Państwa,
-    - **d)** finansowanie lub współfinansowanie realizacji uzbrojenia technicznego służącego nieruchomościom wykorzystywanym pod budownictwo socjalne lub społeczne budownictwo czynszowe,
-    - **e)** dofinansowanie Funduszu Dopłat, o którym mowa ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2017 r. poz. 650), oraz Funduszu Termomodernizacji i Remontów, o którym mowa ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów (Dz. U. z 2017 r. poz. 130);
+    - **d)** finansowanie lub współfinansowanie realizacji uzbrojenia technicznego służącego nieruchomościom przeznaczonym na cele mieszkaniowego zasobu gminy lub budownictwa czynszowego,
+    - **e)** dofinansowanie Funduszu Dopłat, o którym mowa ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2024 r. poz. 1368 i
 
+- **1473)** , oraz Funduszu Termomodernizacji i Remontów, o którym mowa ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2024 r. poz. 1446, 1473, 1572, 1635 i 1940 oraz z 2025 r. poz. 680) Mieszkaniowej KZN przeznacza się wyłącznie na realizację zadań, o których mowa art. 5 ust. 1 pkt 5;
 - **2)** pokrycie kosztów funkcjonowania KZN.
 
-2. Przeznaczając środki KZN na finansowanie lub współfinansowanie realizacji uzbrojenia technicznego służącego nieruchomościom wykorzystywanym pod budownictwo socjalne lub społeczne budownictwo czynszowe, uwzględnia się przyczynienie się tej realizacji do istotnego, na danym obszarze, zwiększenia ilości mieszkań socjalnych lub realizowanych ramach społecznego budownictwa czynszowego lub do istotnego zmniejszenia się ilości mieszkań socjalnych lub realizowanych ramach społecznego budownictwa czynszowego o poziomie wyposażenia nieodpowiadającemu warunkom technicznym dla pomieszczeń mieszkalnych, przyczynienie się do zwiększenia efektywności realizacji programów rewitalizacji danej gminie, a także występujące na danym obszarze istotne trudności uzyskaniu mieszkania socjalnego, szczególności sytuację, gdy prognozowany czas oczekiwania na mieszkanie socjalne przekracza 5 lat.
+2. Przeznaczając środki KZN na finansowanie lub współfinansowanie realizacji uzbrojenia technicznego służącego nieruchomościom przeznaczonym na cele mieszkaniowego zasobu gminy lub budownictwa czynszowego, uwzględnia się przyczynienie się tej realizacji do istotnego, na danym obszarze, zwiększenia liczby mieszkań wchodzących skład mieszkaniowego zasobu gminy lub realizowanych ramach budownictwa czynszowego lub do istotnego zmniejszenia się liczby mieszkań wchodzących skład mieszkaniowego zasobu gminy lub realizowanych ramach budownictwa czynszowego o poziomie wyposażenia nieodpowiadającemu warunkom technicznym dla pomieszczeń mieszkalnych, przyczynienie się do zwiększenia efektywności realizacji programów rewitalizacji danej gminie, a także występujące na danym obszarze istotne trudności uzyskaniu mieszkania z mieszkaniowego zasobu gminy, szczególności, gdy prognozowany czas oczekiwania na mieszkanie z mieszkaniowego zasobu gminy przekracza 5 lat.
 
-3. KZN może nabyć nieruchomość na swoją własność wyłącznie celu jej wykorzystywania na siedzibę KZN. Nabycie nieruchomości wymaga uzyskania zgody ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+3. KZN może nabyć własność nieruchomości wyłącznie z przeznaczeniem na siedzibę.
 
 4. Przekazanie przez KZN kapitału do spółki celowej, utworzonej zgodnie z art. 7, może nastąpić, o ile taka możliwość wynika z planu finansowego lub jest zgodna z tym planem:
 
-- **1)** celu realizacji inwestycji mieszkaniowej, wyniku której powstaną lokale wchodzące skład mieszkaniowego zasobu gminy, tym lokale socjalne;
+- **1)** celu realizacji inwestycji mieszkaniowej, wyniku której powstaną lokale wchodzące skład mieszkaniowego zasobu gminy;
 - **2)** celu realizacji działań rewitalizacyjnych;
 - **3)** na cele związane z realizacją inwestycji rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji zakresie budowli przeciwpowodziowych;
-- **4)** celu umożliwienia realizacji miejscowego planu odbudowy, o którym mowa ustawie z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku działania żywiołu (Dz. U. z 2016 r. poz. 1067);
-- **5)** celu finansowania lub współfinansowania realizacji uzbrojenia technicznego, tym uzbrojenia technicznego służącego nieruchomościom wykorzystywanym pod budownictwo socjalne lub społeczne budownictwo czynszowe;
+- **4)** celu umożliwienia realizacji miejscowego planu odbudowy, o którym mowa ustawie z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku działania żywiołu (Dz. U. z 2024 r. poz. 1190, 1473 i 1717 oraz z 2025 r. poz. 680); tym uzbrojenia technicznego służącego nieruchomościom przeznaczonym na cele mieszkaniowego zasobu gminy lub budownictwa czynszowego;
 - **6)** celu realizacji zadań, o których mowa art. 5 ust. 1, szczególności celu realizacji inwestycji mieszkaniowej.
 
-**Art. 50.** Rada Ministrów określi, drodze rozporządzenia, szczegółowy sposób prowadzenia gospodarki finansowej KZN oraz gospodarki finansowej Zasobu, tym:
+**Art. 49a.** KZN jest obowiązany do gospodarowania środkami finansowymi z zachowaniem szczególnej staranności oraz zgodnie z zasadami prawidłowej gospodarki.
+
+**Art. 49b.**
+
+1. KZN może zaciągać zobowiązania do wysokości środków ujętych planie finansowym KZN.
+
+2. KZN gospodaruje środkami finansowymi sposób zapewniający przestrzeganie zasad celowego i oszczędnego dokonywania wydatków, dokumentując wszystkie przepływy finansowe.
+
+**Art. 50.** (uchylony)
+
+#### Rozdział 5 Gospodarowanie nieruchomościami
 
 **Art. 51.**
 
 1. Nieruchomości wchodzące skład Zasobu mogą być przedmiotem:
 
-- **1)** umowy o oddanie użytkowanie wieczyste;
-- **2)** sprzedaży;
-- **3)** nieodpłatnego przekazania jednostce samorządu terytorialnego lub wniesienia, jako aportu, do spółki celowej z udziałem jednostki samorządu terytorialnego;
-- **4)** zamiany nieruchomości, także na nieruchomość budynkową lub lokalową;
-- **5)** zamiany nieruchomości miejsce odszkodowania, o którym mowa przepisach o gospodarowaniu nieruchomościami, przepisach ustaw, o których mowa art. 10 ust. 2 pkt 5 lit. e, oraz ustawach stanowiących podstawę do wydania aktu prawa miejscowego, o którym mowa lit. b, przysługującego od Skarbu Państwa, przypadku:
-    - **a)** wywłaszczeń,
-    - **b)** wejścia życie przepisów, tym przepisów prawa miejscowego, wskutek których korzystanie z nieruchomości lub jej części dotychczasowy sposób lub zgodny z dotychczasowym przeznaczeniem stało się niemożliwe bądź istotnie ograniczone.
+- **1)** sprzedaży;
+- **2)** oddania użytkowanie wieczyste;
+- **3)** nieodpłatnego przekazania jednostce samorządu terytorialnego, związkowi tych jednostek lub spółce celowej z wyłącznym udziałem jednostki samorządu terytorialnego;
+- **3a)** przekazania jednostce samorządu terytorialnego celu zbycia tej nieruchomości z rozliczeniem jej cenie ceny lokali lub budynków przekazywanych na własność tej jednostce przez nabywcę nieruchomości, o którym mowa ustawie z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt” (Dz. U. z 2023 r. poz. 1525);
+- **4)** aportu do spółki celowej, społecznej inicjatywy mieszkaniowej lub towarzystwa budownictwa społecznego;
+- **5)** umowy o partnerstwie publiczno-prywatnym;
+- **6)** zamiany nieruchomości. ograniczonymi prawami rzeczowymi lub oddawane najem lub dzierżawę.
 
-2. Nieruchomości wchodzące skład Zasobu mogą być obciążane ograniczonymi prawami rzeczowymi.
+3. Udzielanie wsparcia finansowego ze środków KZN jest możliwe, o ile przyczynia się to do istotnego na danym obszarze zaspokojenia potrzeb mieszkaniowych obywateli, zwiększenia liczby mieszkań wchodzących skład mieszkaniowego zasobu gminy lub realizowanych ramach budownictwa czynszowego i jest zgodne z zasadami prawidłowej gospodarki, z zachowaniem szczególnej staranności.
 
-3. Udzielanie wsparcia finansowego ze środków KZN, tym wnoszenie mienia Zasobu do spółek, o których mowa art. 7, możliwe jest, o ile przyczynia się to do istotnego na danym obszarze zaspokojenia potrzeb mieszkaniowych obywateli, zwiększenia ilości mieszkań socjalnych lub realizowanych ramach społecznego budownictwa czynszowego i jest to zgodne z zasadami prawidłowej gospodarki, z zachowaniem szczególnej staranności.
+4. (uchylony)
 
-4. Gospodarowanie nieruchomościami Zasobu oraz dysponowanie środkami finansowymi Zasobu odbywa się zgodnie z zasadami prawidłowej gospodarki, z zachowaniem szczególnej dbałości i staranności o majątek Skarbu Państwa, i ma przyczyniać się do istotnego zaspokojenia potrzeb mieszkaniowych obywateli.
+5. W przypadku wystąpienia o wyrażenie zgody, o której mowa art. 35 pkt 2a, 9 i 10, art. 51a ust. 3, art. 53 ust. 2 oraz art. 65 ust. 1, we wniosku o wyrażenie zgody wskazuje się:
+
+- **1)** przedmiot czynności prawnej;
+- **1a)** informację o danych ewidencyjnych identyfikujących składniki aktywów trwałych, z wyjątkiem wniosku o wyrażenie zgody, o której mowa art. 35 pkt 9 i 10, jeżeli ramach objętej nią czynności nie przewidziano wniesienia jako aportu nieruchomości wchodzącej skład Zasobu;
+- **2)** wartość nieruchomości, z wyjątkiem wniosku o wyrażenie zgody, o której mowa art. 35 pkt 9 i 10, jeżeli ramach objętej nią czynności nie przewidziano wniesienia jako aportu nieruchomości wchodzącej skład Zasobu;
+- **2a)** wysokość wnoszonych środków przypadku wniosku o wyrażenie zgody, o której mowa art. 35 pkt 9 i 10, jeżeli ramach objętej nią czynności przewidziano przeznaczenie tych środków na objęcie udziałów lub akcji społecznych inicjatywach mieszkaniowych lub towarzystwach budownictwa społecznego;
+- **3)** sposób dokonania czynności prawnej;
+- **4)** uzasadnienie gospodarcze czynności prawnej;
+- **5)** uzasadnienie powiązania celu publicznego z budownictwem mieszkaniowym – przypadku zgody, o której mowa art. 51a ust. 3.
+
+6. Do wniosku, o którym mowa ust. 5, dołącza się:
+
+- **1)** dokumenty potwierdzające:
+    - **a)** tytuł prawny do nieruchomości,
+    - **b)** wartość nieruchomości jeżeli ramach objętej nią czynności nie przewidziano wniesienia jako aportu nieruchomości wchodzącej skład Zasobu;
+
+- **2)** projekt umowy, na podstawie której ma być dokonana czynność prawna;
+- **3)** inne dokumenty potwierdzające dane i informacje zawarte we wniosku.
+
+**Art. 51a.**
+
+1. Nieruchomości wchodzące skład Zasobu mogą być sprzedawane lub oddawane użytkowanie wieczyste drodze przetargu.
+
+2. Nieruchomość jest zbywana drodze bezprzetargowej, jeżeli:
+
+- **1)** jest zbywana lub nieodpłatnie przekazywana na rzecz jednostki samorządu terytorialnego lub związku tych jednostek;
+- **2)** jest nieodpłatnie przekazywana spółce celowej z wyłącznym udziałem jednostki samorządu terytorialnego;
+- **3)** jest przedmiotem umowy zamiany;
+- **4)** sprzedaż nieruchomości następuje na rzecz jej użytkownika wieczystego;
+- **5)** ma być przedmiotem aportu do spółek lub wkładu własnego do spółek, o których mowa art. 7 ust. 1, oraz spółek, o których mowa art. 23 ust. 1 pkt 1 i 2 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, i spółek, o których mowa art. 14 ust. 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym;
+- **6)** jest sprzedawana partnerowi prywatnemu, a wybór partnera prywatnego nastąpił trybie przewidzianym art. 4 ust. 1 lub 2 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym.
+
+3. Minister właściwy do spraw rozwoju regionalnego może wyrazić zgodę na odstąpienie od obowiązku zbycia drodze przetargu nieruchomości przeznaczonych:
+
+- **1)** pod budownictwo mieszkaniowe;
+- **2)** na realizację uzbrojenia technicznego;
+- **3)** na cele publiczne związane z budownictwem mieszkaniowym.
+
+4. Zawarcie umów najmu lub dzierżawy na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony następuje drodze przetargu. Minister właściwy do spraw rozwoju regionalnego może wyrazić zgodę na odstąpienie od obowiązku zawarcia tych umów drodze przetargu. z przeprowadzonych negocjacji lub rokowań sprawie zbycia podpisany przez Prezesa KZN lub upoważnioną przez niego osobę.
+
+**Art. 51b.**
+
+1. W przypadku przekazania jednostce samorządu terytorialnego nieruchomości, której wartość przekracza 2 000 000 zł, celu, o którym mowa art. 51 ust. 1 pkt 3a, uchwałę, o której mowa art. 4 ust. 2 ustawy z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt”, podejmuje się po uzgodnieniu z ministrem, o którym mowa art. 31 ust. 3.
+
+2. W przypadku sprzedaży nieruchomości przekazanej jednostce samorządu terytorialnego celu, o którym mowa art. 51 ust. 1 pkt 3a, podlegająca zapłacie pieniężnej różnica, o której mowa art. 10 ustawy z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt”, stanowi przychód KZN ze zbycia tej nieruchomości.
+
+3. W przypadku gdy terminie 3 lat od dnia przekazania jednostce samorządu terytorialnego nieruchomości celu, o którym mowa art. 51 ust. 1 pkt 3a, nie dojdzie do sprzedaży tej nieruchomości na zasadach określonych uchwale, o której mowa art. 4 ust. 2 ustawy z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt”, KZN występuje do jednostki samorządu terytorialnego z żądaniem zwrotu tej nieruchomości do Zasobu albo zapłaty jej wartości rynkowej określonej na dzień żądania.
+
+4. Do umowy o przekazanie jednostce samorządu terytorialnego nieruchomości celu, o którym mowa art. 51 ust. 1 pkt 3a, przepis art. 52 ust. 8 stosuje się odpowiednio.
 
 **Art. 52.**
 
-1. Nieodpłatne przekazanie nieruchomości jednostce samorządu terytorialnego lub wniesienie jej jako aportu do spółki celowej, utworzonej zgodnie z art. 7, może nastąpić:
+1. Nieodpłatne przekazanie nieruchomości jednostce samorządu terytorialnego, związkowi jednostek samorządu terytorialnego lub spółce celowej z wyłącznym udziałem jednostki samorządu terytorialnego może nastąpić drodze umowy:
 
-- **1)** celu realizacji inwestycji mieszkaniowej, wyniku której powstaną lokale wchodzące skład mieszkaniowego zasobu gminy, tym lokale socjalne;
-- **2)** przypadku nieruchomości położonych na obszarze rewitalizacji lub jego sąsiedztwie celu realizacji działań rewitalizacyjnych;
-- **3)** na cele związane z realizacją inwestycji rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji zakresie budowli przeciwpowodziowych;
-- **4)** celu umożliwienia realizacji miejscowego planu odbudowy, o którym mowa ustawie z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku działania żywiołu;
+- **1)** celu realizacji inwestycji mieszkaniowej, wyniku której powstaną lokale wchodzące skład mieszkaniowego zasobu gminy;
+- **2)** przypadku nieruchomości położonych na obszarze rewitalizacji lub jego sąsiedztwie – celu realizacji działań rewitalizacyjnych; 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji zakresie budowli przeciwpowodziowych;
+- **4)** celu umożliwienia realizacji miejscowego planu odbudowy, o którym mowa ustawie z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku działania żywiołu;
 - **5)** jeżeli są przeznaczone miejscowym planie zagospodarowania przestrzennego na cele związane z realizacją inwestycji infrastrukturalnych służących wykonywaniu zadań własnych zakresie wodociągów i zaopatrzenia wodę, kanalizacji, usuwania i oczyszczania ścieków komunalnych, utrzymania czystości i porządku oraz urządzeń sanitarnych, wysypisk i unieszkodliwiania odpadów komunalnych, ochrony zdrowia, pomocy społecznej, edukacji publicznej, kultury i kultury fizycznej, zakładania lub rozszerzania cmentarzy komunalnych albo jeżeli położony jest na nich cmentarz;
 - **6)** jeżeli są przeznaczone miejscowym planie zagospodarowania przestrzennego pod drogi gminne, powiatowe i wojewódzkie oraz zajęte na te cele;
-- **7)** celu realizacji zadań, o których mowa art. 5 ust. 1, szczególności celu realizacji inwestycji mieszkaniowej.
+- **7)** celu realizacji zadań, o których mowa art. 7 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465, 1572, 1907 i 1940), art. 4 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107 i 1907) oraz art. 14 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2025 r. poz. 581).
+- **8)** (uchylony)
 
 2. Nieruchomości wchodzące skład Zasobu mogą być również przedmiotem umowy o nieodpłatnym przekazaniu nieruchomości jednostce samorządu terytorialnego lub związkowi jednostek samorządu terytorialnego celu realizacji na tej nieruchomości:
 
-- **1)** przedsięwzięcia mającego na celu utworzenie mieszkań chronionych, noclegowni, schroniska dla bezdomnych lub ogrzewalni;
-- **2)** obiektów infrastruktury technicznej lub infrastruktury społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz tereny zieleni publicznej wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania. z mocy prawa.
+- **1)** przedsięwzięcia mającego na celu utworzenie mieszkań treningowych lub wspomaganych, noclegowni, schroniska dla bezdomnych lub ogrzewalni;
+- **2)** obiektów infrastruktury technicznej lub infrastruktury społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz tereny zieleni funkcjonowania;
+- **3)** inwestycji uzupełniającej, o której mowa ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527 i 680).
 
-4. Umowa, na mocy której inny podmiot niż jednostka samorządu terytorialnego, której nieodpłatnie przekazano nieruchomość, o której mowa ust. 1 lub 2, lub spółka celowa, do której nieruchomość, o której mowa ust. 1 lub 2, została wniesiona aportem, nabył prawo własności takiej nieruchomości lub stał się uprawniony do władania tą nieruchomością jak właściciel, jest nieważna z mocy prawa.
+3. W przypadku zbycia lub przeznaczenia nieruchomości na inny cel, niż określony umowie, przed upływem 10 lat od dnia jej nieodpłatnego przekazania, KZN występuje do jednostki samorządu terytorialnego, związku jednostek samorządu terytorialnego lub spółki celowej z wyłącznym udziałem jednostki samorządu terytorialnego z żądaniem zwrotu wartości rynkowej nieruchomości, określonej na dzień żądania. KZN może odstąpić od żądania zwrotu, jeżeli nieruchomość zostanie zbyta lub przeznaczona na cele publiczne.
 
-5. Umowa, dająca prawo do dysponowania nieruchomością na cele budowlane innemu podmiotowi niż jednostka samorządu terytorialnego, której nieodpłatnie przekazano nieruchomość, o której mowa ust. 1 lub 2, lub spółka celowa, do której nieruchomość, o której mowa ust. 1 lub 2, została wniesiona aportem, jest nieważna z mocy prawa.
+4. (uchylony)
+
+5. (uchylony)
 
 6. W przypadku, o którym mowa ust. 1 pkt 3, zawarcie umowy następuje na wniosek właściwej miejscowo jednostki samorządu terytorialnego.
 
@@ -791,107 +1035,102 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 - **5)** kary umowne za wykorzystanie nieruchomości niezgodnie z celem, na jaki została przekazana, lub za naruszenie warunków wskazanych umowie;
 - **6)** warunki odstąpienia od umowy.
 
-9. Umowa wniesienia nieruchomości jako aportu do spółki celowej z udziałem jednostki samorządu terytorialnego określa szczególności:
+9. (uchylony)
 
-- **1)** strony umowy;
-- **2)** cel spółki;
-- **3)** czas trwania spółki;
-- **4)** przedmiot umowy, tym cel wykorzystania nieruchomości;
-- **5)** warunki wykorzystania nieruchomości, tym procentowy udział powierzchni użytkowej mieszkań na wynajem całkowitej powierzchni użytkowej budynkach objętych inwestycją mieszkaniową;
-- **6)** prawa i obowiązki stron umowy;
-- **7)** skutki rozwiązania spółki, szczególności dotyczące nieruchomości wniesionych do niej aportem;
-- **8)** ilość oraz wartość akcji lub udziałów związanych z przekazaniem nieruchomości, jako aportu, do spółki;
-- **9)** kary umowne za wykorzystanie nieruchomości niezgodnie z celem, na jaki została przekazana, lub za naruszenie warunków wskazanych umowie;
-- **10)** warunki odstąpienia od umowy.
+**Art. 52a.** Umowa spółki celowej, o której mowa art. 7 ust. 1, określa szczególności:
+
+**Art. 52b.** Umowa utworzenia przez KZN społecznej inicjatywy mieszkaniowej albo pokrycia udziałów lub akcji istniejącej społecznej inicjatywie mieszkaniowej lub towarzystwie budownictwa społecznego określa szczególności:
 
 **Art. 53.**
 
-1. Realizując zadanie, o którym mowa art. 5, Prezes KZN ogłasza Biuletynie Informacji Publicznej KZN przetarg na zawarcie umowy o oddanie użytkowanie wieczyste nieruchomości wchodzącej skład Zasobu, z przeznaczeniem utworzenia na tej nieruchomości mieszkań na wynajem.
+1. Realizując zadania, o których mowa art. 5, Prezes KZN ogłasza Biuletynie Informacji Publicznej KZN przetarg na sprzedaż lub zawarcie umowy o oddanie użytkowanie wieczyste nieruchomości wchodzącej skład Zasobu, celu realizacji inwestycji mieszkaniowych.
 
-2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, na wniosek Prezesa KZN, może wyrazić zgodę na przeprowadzenie przetargu na sprzedaż nieruchomości, przeznaczonej pod budownictwo mieszkaniowe miejscowym planie zagospodarowania przestrzennego lub decyzji o warunkach zabudowy i zagospodarowania terenu wskazano, iż zabudowa taka jest dopuszczalna, i przeznaczonej na realizację na niej mieszkań na wynajem, jeżeli jest to uzasadnione względami społeczno-gospodarczymi.
+2. W przypadku przetargu na sprzedaż nieruchomości, której wartość przekracza 4 000 000 zł, minister właściwy do spraw rozwoju regionalnego wyraża zgodę, o której mowa art. 35 pkt 2, przed ogłoszeniem o przetargu.
 
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa rozstrzyga o możliwości przeprowadzenia przetargu na sprzedaż nieruchomości terminie 60 dni od dnia otrzymania wniosku Prezesa KZN.
+3. (uchylony)
 
-5. Brak rozstrzygnięcia terminie, o którym mowa ust. 3, traktuje się jako brak wyrażenia zgody.
+4. (uchylony)
 
-6. KZN może także ogłosić przetarg na zawarcie umowy o oddanie użytkowanie wieczyste nieruchomości gruntowej albo na sprzedaż nieruchomości gruntowej, wchodzącej skład Zasobu, której powierzchnia nie przekracza 1500 m i jest przeznaczona pod zabudowę jednorodzinną.
+5. (uchylony)
 
-7. W przetargu, o którym mowa ust. 6, może wziąć udział wyłącznie osoba fizyczna:
+6. (uchylony)
 
-- **1)** która nie posiada lub przeszłości nie posiadała prawa własności do domu jednorodzinnego, innego mieszkania lub spółdzielczego własnościowego prawa do lokalu lub nie jest właścicielem lub współwłaścicielem budynku, jeżeli jej udział przypadku zniesienia współwłasności obejmowałby co najmniej jeden samodzielny lokal mieszkalny;
-- **2)** której członek gospodarstwa domowego nie posiada lub przeszłości nie posiadał prawa własności do domu jednorodzinnego, innego mieszkania lub spółdzielczego własnościowego prawa do lokalu lub nie jest właścicielem lub współwłaścicielem budynku, jeżeli jego udział przypadku zniesienia współwłasności obejmowałby co najmniej jeden samodzielny lokal mieszkalny.
+7. (uchylony)
 
-8. Przepis ust. 7 nie dotyczy nabywców nieruchomości, będących osobami fizycznymi, spełniających przesłanki określone art. 56 ust. 3 pkt 11 i 12.
+8. (uchylony)
 
-9. KZN przetargu, o którym mowa ust. 6, może zastosować kryteria oceny ofert, o których mowa art. 56 ust. 3 pkt 1–3 i 5–10.
+9. (uchylony)
 
-10. Do oferty składanej przetargu, o którym mowa ust. 6, uczestnik przetargu dołącza pisemne oświadczenie o spełnieniu warunków, o których mowa ust. 7–9.
+10. (uchylony)
 
-11. Oferty złożone przetargu, o którym mowa ust. 6, sprawdzane są pod względem spełnienia wymagań, o których mowa ust. 10 i art. 61 ust. 1 i ust. 2 pkt 1 lit. a i b.
+11. (uchylony)
 
-12. Jeżeli pierwszy przetarg, o którym mowa ust. 6, zakończył się wynikiem negatywnym, przepisów ust. 7–11 nie stosuje się do kolejnych przetargów.
+12. (uchylony)
 
-13. Do przetargu na zawarcie umowy o oddanie użytkowanie wieczyste nieruchomości gruntowej, o której mowa ust. 6, stosuje się przepisy ust. 3–5 oraz art. 54 ust. 1 pkt 1–5, 7, 8, 10, 11 lit. a, ust. 2–4 i 6–9, art. 55, art. 58, art. 59 pkt 1–4, art. 61 ust. 4–9, art. 62 ust. 1 pkt 2–4, 8, 9, 12 i ust. 2.
+13. (uchylony)
 
-14. Do przetargu na sprzedaż nieruchomości, o którym mowa ust. 6, stosuje się przepisy ust. 2 zakresie obowiązku uzyskania zgody ministra, ust. 13, z wyłączeniem art. 54 ust. 1 pkt 10 i pkt 11 lit. a oraz art. 62 ust. 1 pkt 9 i 12.
+14. (uchylony)
 
-15. W zakresie nieuregulowanym ust. 6–14 stosuje się odpowiednio przepisy działu II rozdziału 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, z wyłączeniem art. 28, art. 37 ust. 2, 3 i 4a, art. 38 i art. 39 oraz przepisów wydanych na podstawie art. 42 tej ustawy. W zakresie dotyczącym sposobu ustalania opłat z tytułu użytkowania wieczystego, trybu ich aktualizacji oraz organów jej dokonujących stosuje się przepisy działu II rozdziału 8 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+15. (uchylony)
 
-16. Umowa zbycia nieruchomości lub prawa użytkowania wieczystego nieruchomości, o której mowa ust. 6, przez osobę fizyczną, która je nabyła drodze przetargu, jest nieważna z mocy prawa.
+16. (uchylony)
 
-17. Umowa, na mocy której inny podmiot niż osoba fizyczna, która nabyła prawo własności nieruchomości, o której mowa ust. 6, lub prawo do użytkowania wieczystego takiej nieruchomości, staje się uprawniony do władania tą nieruchomością jak użytkownik wieczysty lub właściciel, jest nieważna z mocy prawa.
+17. (uchylony)
 
-18. Umowa dająca prawo do dysponowania nieruchomością na cele budowlane innemu podmiotowi niż osoba fizyczna, która nabyła prawo własności nieruchomości, o której mowa ust. 6, lub prawo do użytkowania wieczystego takiej nieruchomości, jest nieważna z mocy prawa.
+18. (uchylony)
 
 **Art. 54.**
 
-1. W ogłoszeniu o przetargu, o którym mowa art. 53 ust. 1, wskazuje się:
+1. Ogłoszenie o przetargu, o którym mowa art. 53, zawiera:
 
-- **1)** rodzaj przetargu;
+- **1)** informację o rodzaju przetargu;
 - **2)** czas, miejsce i warunki przetargu;
-- **3)** oznaczenie księgi wieczystej, o ile jest prowadzona dla nieruchomości;
-- **4)** dane dotyczące nieruchomości;
-- **5)** cenę nieruchomości; stronomicznych i innych nieuciążliwych usług dla mieszkańców, podstawowych urządzeń wypoczynku obejmujących urządzony park lub tereny zieleni, tereny z przeznaczeniem na zabawy dzieci;
-- **7)** informację o tym, czy inwestycja mieszkaniowa będzie realizowana na podstawie projektu budowlanego opracowanego przez KZN;
-- **8)** wysokość wadium;
-- **9)** wymagania zakresie dostępu do miejsc parkingowych, wind, dostępności dla osób o ograniczonej możliwości poruszania się lub osób niewidomych lub niedowidzących, głuchych lub niedosłyszących, wymagania dotyczące rodzajów materiałów budowlanych i rozwiązań architektonicznych;
-- **10)** przesłanki rozwiązania umowy użytkowania wieczystego;
-- **11)** kryteria oceny ofert obejmujące:
-    - **a)** wysokość stawki procentowej pierwszej opłaty z tytułu użytkowania wieczystego,
-    - **b)** dodatkowe kryteria oceny ofert,
-    - **c)** wysokość czynszu normowanego,
-    - **d)** kryteria pierwszeństwa zawarcia umowy najmu, wybrane spośród kryteriów wymienionych art. 56 ust. 3, które będą miały zastosowanie przy danej inwestycji,
-    - **e)** powierzchnię użytkową mieszkań budynku wyrażoną m .
+- **3)** oznaczenie nieruchomości według ewidencji gruntów i budynków oraz numeru księgi wieczystej;
+- **5)** opis nieruchomości;
+- **6)** przeznaczenie nieruchomości oraz sposób jej zagospodarowania;
+- **7)** powierzchnię użytkową mieszkań, które mają być zrealizowane na nieruchomości, wyrażoną m , tym powierzchnię użytkową mieszkań na wynajem, która nie może być mniejsza niż 50 % ogólnej powierzchni mieszkań danej inwestycji;
+- **8)** cenę nieruchomości lub stawkę procentową pierwszej opłaty z tytułu użytkowania wieczystego;
+- **9)** informację o tym, czy inwestycja mieszkaniowa będzie realizowana na podstawie projektu budowlanego opracowanego przez KZN, oraz o miejscu, którym można zapoznać się z tym projektem;
+- **10)** wysokość wadium;
+- **11)** terminy poprzednich przetargów razie ogłaszania kolejnego przetargu.
 
-2. Do ogłoszenia dołącza się decyzje o warunkach zabudowy i zagospodarowania terenu, których stroną jest KZN, a także, o ile są wydane, decyzje o pozwoleniu na budowę.
+2. Ogłoszenie o przetargu, o którym mowa art. 53, może również zawierać kryteria oceny ofert, którymi szczególności mogą być:
 
-3. W przypadku, o którym mowa ust. 1 pkt 7, do ogłoszenia dołącza się projekty budowlane.
+- **1)** oferowana cena;
+- **2)** termin zakończenia inwestycji mieszkaniowej lub terminy zakończenia jej etapów;
+- **3)** sposób kształtowania czynszu najmu;
+- **4)** przedstawienie koncepcji architektoniczno-budowlanej;
+- **5)** powierzchnia użytkowa mieszkań, które mają być zrealizowane na nieruchomości, wyrażona m ;
+- **6)** powierzchnia użytkowa mieszkań na wynajem, tym związana z umową najmu instytucjonalnego z dojściem do własności, wyrażona m lub jako udział całkowitej powierzchni użytkowej mieszkań, które mają być zrealizowane na nieruchomości;
+- **7)** zgodność planowanej inwestycji mieszkaniowej z programem, o którym mowa art. 38 ust. 1 pkt 4;
+- **8)** dodatkowe ułatwienia dla osób niepełnosprawnych;
+- **9)** wymagania zakresie dostępu do miejsc parkingowych i wind;
+- **10)** wymagania dotyczące rodzajów materiałów budowlanych i rozwiązań architektonicznych; budowie budynków jednorodzinnych i budynków wielorodzinnych;
+- **12)** zasoby ludzkie, organizacyjne, techniczne i finansowe umożliwiające realizację inwestycji mieszkaniowej;
+- **13)** proponowane przez oferenta rozwiązania zakresie zapewnienia dostępu nieruchomości do infrastruktury technicznej i społecznej;
+- **14)** zapewnienie oferenta przy zawieraniu umów najmu o stosowaniu pierwszeństwa wobec osób niepełnosprawnych.
 
-4. Cenę nieruchomości ustala się wysokości nie niższej niż wartość nieruchomości określona przez rzeczoznawcę majątkowego.
+3. (uchylony)
 
-5. Dodatkowe kryteria oceny ofert, o których mowa ust. 1 pkt 11 lit. b, obejmują:
+4. Ogłoszenie o przetargu, o którym mowa art. 53, zawiera również informacje o wydanych decyzjach o warunkach zabudowy i zagospodarowania terenu oraz decyzjach o pozwoleniu na budowę.
 
-- **1)** zgodność planowanej inwestycji mieszkaniowej z założeniami dotyczącymi gospodarowania nieruchomościami wchodzącymi skład Zasobu określonymi programie gospodarowania Zasobem, o którym mowa art. 38 ust. 1 pkt 4;
-- **2)** dodatkowe ułatwienia dla osób niepełnosprawnych;
-- **3)** doświadczenie przystępującego do przetargu realizacji inwestycji mieszkaniowych polegających na budowie domów jednorodzinnych i budynków wielorodzinnych;
-- **4)** dysponowanie przez przystępującego do przetargu zasobami ludzkimi, organizacyjnymi, technicznymi i finansowymi umożliwiającymi realizację inwestycji mieszkaniowej zgodnie z ustawą;
-- **5)** deklarowany wkład przystępującego do przetargu zapewnienie nieruchomości dostępu do infrastruktury technicznej i społecznej.
+5. Cenę nieruchomości ustala się wysokości nie niższej niż wartość nieruchomości określona przez rzeczoznawcę majątkowego.
 
-6. Wysokość wadium ustala Prezes KZN wysokości nie niższej niż 5% ceny wywoławczej i nie wyższej niż 10% tej ceny.
+6. Wysokość wadium ustala Prezes KZN wysokości nie niższej niż 5 % ceny wywoławczej i nie wyższej niż 10 % tej ceny.
 
 7. Wadium nie podlega zwrotowi:
 
 - **1)** jeżeli żaden z uczestników przetargu ustnego nie zgłosi postąpienia ponad cenę wywoławczą albo żaden z uczestników przetargu ofert nie zaoferuje co najmniej ceny wywoławczej;
 - **2)** uczestnikowi przetargu, który wygrał przetarg i uchyli się od zawarcia umowy.
 
-8. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, drodze rozporządzenia, sposób i tryb przeprowadzania przetargów dotyczących nieruchomości przeznaczonej na realizację na niej mieszkań na wynajem wchodzących skład Zasobu, uwzględniając konieczność zapewnienia jawności i jednolitości postępowania, równego dostępu do udziału przetargu, uzyskania najkorzystniejszego wyniku przetargu.
+8. Minister właściwy do spraw rozwoju regionalnego określi, drodze rozporządzenia, sposób i tryb przeprowadzania przetargów na sprzedaż lub zawarcie umowy o oddanie użytkowanie wieczyste nieruchomości wchodzących skład Zasobu, uwzględniając konieczność zapewnienia jawności i jednolitości postępowania, równego dostępu do udziału przetargu oraz uzyskania najkorzystniejszego wyniku przetargu.
 
-9. Wydając rozporządzenie, o którym mowa ust. 8, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ustali:
+9. Wydając rozporządzenie, o którym mowa ust. 8, minister właściwy do spraw rozwoju regionalnego ustali:
 
 - **1)** terminy i formy wnoszenia wadium i jego zwrotu,
+- **2)** tryb powoływania i sposób działania komisji przetargowej,
 - **3)** sposób sporządzania oraz treść protokołu z przeprowadzonego przetargu,
-- **4)** tryb postępowania przypadku zaskarżenia przetargu,
-- **5)** tryb postępowania przy przeprowadzaniu poszczególnych rodzajów przetargów oraz warunki organizowania przetargu ograniczonego kierując się zapewnieniem sprawności, efektywności oraz przejrzystości prowadzonych postępowań.
+- **4)** tryb postępowania przypadku zaskarżenia przetargu, oraz warunki organizowania przetargu ograniczonego – kierując się zapewnieniem sprawności, efektywności oraz przejrzystości prowadzonych postępowań.
 
 **Art. 55.**
 
@@ -899,109 +1138,37 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 2. W skład komisji przetargowej wchodzą:
 
-- **1)** pracownicy Biura;
-- **2)** przedstawiciel ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+- **1)** pracownicy Biura.
+- **2)** (uchylony)
 
-3. W skład komisji przetargowej wchodzą nie mniej niż 3 osoby, tym co najmniej jedna osoba posiadająca kwalifikacje, o których mowa art. 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2017 r. poz. 1073).
+3. W skład komisji przetargowej wchodzą nie mniej niż 3 osoby.
 
 4. Do każdego przetargu powołuje się odrębną komisję przetargową.
 
-**Art. 56.**
+**Art. 56.** (uchylony)
 
-1. Stosowanie kryteriów pierwszeństwa zawarcia umowy najmu nie narusza prawa wynajmującego do zawierania umów najmu wyłącznie z osobami ubiegającymi się o najem dającymi rękojmię terminowego uiszczania świadczeń pieniężnych wynikających z zawartych umów najmu.
+**Art. 57.** (uchylony)
 
-2. Kryteria pierwszeństwa zawarcia umowy najmu stosuje się, przypadku gdy liczba osób fizycznych ubiegających się o zawarcie umowy najmu mieszkania utworzonego wyniku inwestycji mieszkaniowej realizowanej na nieruchomości przekazanej z Zasobu, zwanych dalej „osobami ubiegającymi się o najem”, będzie przekraczała liczbę mieszkań na wynajem, jakie mają zostać utworzone ramach tej inwestycji.
+**Art. 58.** (uchylony)
 
-3. Kryteriami pierwszeństwa zawarcia umowy najmu są:
+**Art. 59.** (uchylony)
 
-- **1)** członkowie gospodarstwa domowego osoby ubiegającej się o najem osiągają względnie niższe dochody;
-- **2)** członkiem gospodarstwa domowego osoby ubiegającej się o najem jest co najmniej jedno dziecko legitymujące się orzeczeniem o umiarkowanym lub znacznym stopniu niepełnosprawności określonym przepisach ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2016 r. poz. 2046 i 1948 oraz z 2017 r. poz. 777, 935 i 1428);
-- **3)** członkiem gospodarstwa domowego osoby ubiegającej się o najem jest co najmniej jedno dziecko;
-- **4)** żaden członek gospodarstwa domowego osoby ubiegającej się o najem nie posiada oraz przeszłości nie posiadał prawa własności do domu jednorodzinnego, innego mieszkania lub spółdzielczego własnościowego prawa do lokalu oraz nie jest właścicielem lub współwłaścicielem budynku, jeżeli jego udział przypadku zniesienia współwłasności obejmowałby co najmniej jeden samodzielny lokal mieszkalny;
-- **5)** osoba ubiegająca się o najem lub członek gospodarstwa domowego osoby ubiegającej się o najem zmienia miejsce zamieszkania celu podjęcia pracy lub nauki poza miejscem obecnego zamieszkania;
-- **6)** osoba ubiegająca się o najem lub członek gospodarstwa domowego osoby ubiegającej się o najem wcześniej złożył wniosek o zawarcie umowy najmu mieszkania tej samej miejscowości, jednak nie zawarł umowy najmu z powodu większej liczby osób ubiegających się o najem niż liczba dostępnych mieszkań;
-- **7)** osoba ubiegająca się o najem lub członek gospodarstwa domowego osoby ubiegającej się o najem ma status repatrianta;
-- **8)** osoba ubiegająca się o najem ukończyła 65 rok życia;
-- **9)** osoba ubiegająca się o najem legitymuje się orzeczeniem o znacznym lub umiarkowanym stopniu niepełnosprawności określonym przepisach ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych;
-- **10)** osoba ubiegająca się o najem posiada Kartę Polaka, o której mowa ustawie z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2017 r. poz. 1459); ciła ten dom lub mieszkanie;
-- **12)** osoba ubiegająca się o najem lub członek gospodarstwa domowego osoby ubiegającej się o najem jest właścicielem lub współwłaścicielem nieruchomości obejmującej budynek mieszkalny lub budynek o funkcji mieszanej, obejmującej funkcję mieszkaniową, która podlegała lub podlega wywłaszczeniu.
-
-4. Przy określaniu kryteriów pierwszeństwa zawarcia umowy najmu zapewnia się pierwszeństwo zawarciu umowy najmu:
-
-- **1)** pierwszej kolejności osobom, o których mowa ust. 3 pkt 11;
-- **2)** drugiej kolejności osobom, o których mowa ust. 3 pkt 12.
-
-5. Prezes KZN, wskazując spośród kryteriów, o których mowa ust. 3, kryteria pierwszeństwa zawarcia umowy najmu, które będą miały zastosowanie przy danej inwestycji mieszkaniowej, bierze pod uwagę opinię właściwej miejscowo rady gminy, o której mowa art. 57 ust. 1, o ile została wydana, ograniczenia techniczne oraz uwarunkowania wynikające z lokalizacji inwestycji.
-
-**Art. 57.**
-
-1. Prezes KZN przed wskazaniem spośród kryteriów, o których mowa ust. 3, kryteriów pierwszeństwa zawarcia umowy najmu, które będą miały zastosowanie przy danej inwestycji mieszkaniowej, zwraca się do właściwej miejscowo rady gminy z wnioskiem o wydanie opinii zakresie potrzeb mieszkaniowych.
-
-2. Rada gminy wydaje opinię, o której mowa ust. 1, terminie 60 dni od dnia otrzymania wniosku.
-
-3. Brak wydania opinii terminie, o którym mowa ust. 2, nie stanowi przeszkody do określenia przez Prezesa KZN kryteriów pierwszeństwa.
-
-**Art. 58.**
-
-1. Przedmiotem przetargu, o którym mowa art. 53 ust. 1 i 2, jest nieruchomość, która spełnia warunki pozwalające na realizację inwestycji mieszkaniowej sposób racjonalny pod względem technicznym i ekonomicznym, szczególności:
-
-- **1)** jest przeznaczona miejscowym planie zagospodarowania przestrzennego albo studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy pod zabudowę mieszkaniową;
-- **2)** posiada dostęp do infrastruktury technicznej umożliwiającej realizację inwestycji mieszkaniowej oraz zapewniającej dogodne użytkowanie mieszkań utworzonych wyniku realizacji tej inwestycji;
-- **3)** cechy strukturalne nieruchomości, szczególności wielkość i cechy geometryczne, umożliwiają jej wykorzystanie pod zabudowę mieszkaniową.
-
-2. Przedmiotem przetargu, o którym mowa art. 53 ust. 1 i 2, nie mogą być nieruchomości, których lokalizacja znajduje się:
-
-- **1)** na terenach wymagających wyłączenia gruntów z produkcji rolniczej stanowiących użytki rolne wytworzone z gleb pochodzenia mineralnego i organicznego, zaliczonych do klas I, II, III, IIIa, IIIb, chyba że gleby tych klas łącznie przekraczają 80% gleb danej gminie;
-- **2)** na gruntach wymagających wyłączenia gruntów z produkcji leśnej;
-- **3)** na obszarach szczególnego zagrożenia powodzią;
-- **4)** na terenach osuwisk oraz terenach zagrożonych ruchami masowymi ziemi, a także terenach, na których występują te ruchy;
-- **5)** na obszarze parku narodowego, rezerwatu przyrody, parku krajobrazowego, na obszarze chronionego krajobrazu lub na terenie obszaru Natura 2000;
-- **6)** odległości od elektrowni wiatrowej, innej niż mikroinstalacja odnawialnego źródła energii, mniejszej niż dziesięciokrotność całkowitej wysokości tej elektrowni, rozumieniu przepisów dotyczących inwestycji zakresie elektrowni wiatrowych;
-- **7)** odległości mniejszej niż bezpieczna odległość rozumieniu przepisów o ochronie środowiska od zakładu stwarzającego zagrożenie wystąpienia poważnej awarii przemysłowej;
-- **8)** na nieruchomości, dla której została wydana decyzja o środowiskowych uwarunkowaniach dotycząca inwestycji celu publicznego.
-- **1)** występuje, przypadku braku miejscowego planu zagospodarowania przestrzennego, z wnioskiem o wydanie decyzji o warunkach zabudowy i zagospodarowaniu terenu;
-- **2)** może wystąpić o wydanie pozwolenia na budowę, jeżeli ułatwi to realizację inwestycji mieszkaniowej;
-- **3)** podejmuje działania celu:
-    - **a)** dokonania podziału nieruchomości sposób adekwatny do jej przyszłej funkcji,
-    - **b)** uzgodnienia zjazdów do drogi publicznej;
-
-- **4)** może podejmować działania dotyczące realizacji uzbrojenia technicznego celu zapewnienia nieruchomości będącej przedmiotem przetargu dostępu do sieci, o której mowa art. 3 ust. 1 pkt 11 lit. a, jeżeli podniesie to walory gospodarcze nieruchomości wchodzących skład Zasobu i spowoduje wzrost wartości tej nieruchomości o kwotę co najmniej równą nakładom poniesionym na realizację uzbrojenia technicznego;
-- **5)** dokonuje analiz zakresie lokalnych form architektonicznych, faktycznego dostępu z danej nieruchomości do obiektów świadczących usługi społeczne, tym obiektów opieki nad dzieckiem do lat 3, przedszkoli, szkół, placówek podstawowych usług handlowych, gastronomicznych i innych nieuciążliwych usług dla mieszkańców, podstawowych urządzeń wypoczynku obejmujących urządzony park lub tereny zieleni, tereny z przeznaczeniem na zabawy dzieci.
-
-**Art. 60.**
-
-1. Warunkiem przystąpienia do przetargu, o którym mowa art. 53 ust. 1 i 2, jest zobowiązanie się przez przystępującego do przetargu, że:
-
-- **1)** nie mniej niż 80% powierzchni użytkowej wszystkich lokali budynkach objętych inwestycją mieszkaniową realizowaną na nieruchomości nabytej tym przetargu będzie stanowiła powierzchnia mieszkań;
-- **2)** nie mniej niż 70% powierzchni użytkowej mieszkań, o których mowa pkt 1, będzie stanowiła powierzchnia mieszkań na wynajem;
-- **3)** nie więcej niż 20% powierzchni użytkowej kondygnacji nadziemnej budynku pozostanie niewyodrębniona na lokale, tym będzie przeznaczona na części wspólne;
-- **4)** nie później niż dniu zawarcia umowy najmu mieszkania, o którym mowa pkt 2, wynajmujący zawrze z najemcą umowę przedwstępną zobowiązującą do przeniesienia prawa własności mieszkania, zwaną dalej „umową przedwstępną”, o ile najemca wyraził taką wolę;
-- **5)** nie później niż terminie 21 dni od dnia wyrażenia woli o chęci zawarcia umowy najmu z opcją wynajmujący zawrze z najemcą umowę przedwstępną, o ile najemca wyraził taką wolę;
-- **6)** przy zawieraniu umów najmu mieszkań, o których mowa pkt 2, wynajmujący będzie stosował kryteria pierwszeństwa zawarcia umowy najmu, o których mowa art. 56 ust. 3;
-- **7)** przy zawieraniu umów najmu mieszkań, o których mowa pkt 2, wysokość czynszu normowanego nie przekroczy maksymalnej wysokości ustalonej przepisach wydanych na podstawie art. 82 ust. 6, a opłaty eksploatacyjne będą nie wyższe niż określone art. 82 ust. 3 lub wynikające z przepisów wydanych na podstawie art. 82 ust. 7;
-- **8)** przypadku najmu z opcją wypłaci najemcy kwotę wpłaconej przez niego części ceny zakupu mieszkania przypadku odstąpienia od umowy przedwstępnej;
-- **9)** co najmniej przez 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej mieszkania, o których mowa pkt 2, będą mieszkaniami na wynajem;
-- **10)** wyodrębni lokale mieszkalne przeznaczone na mieszkania na wynajem;
-- **11)** poinformuje następcę prawnego nieruchomości o uwarunkowaniach i zobowiązaniach dotyczących nieruchomości, najmie z opcją, najmie bez opcji oraz czynszu normowanym;
-- **12)** dokona naboru osób najmujących mieszkania na wynajem drodze ogłoszenia, zgodnie z przepisami ustawy.
-
-2. W przypadku mieszkań, dla których zawarto umowę najmu z opcją, termin, o którym mowa ust. 1 pkt 9, wynosi 30 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej, chyba że przed upływem tego terminu wszystkie mieszkania na wynajem zostały nabyte przez najemców.
-
-3. Powierzchnia użytkowa, o której mowa ust. 1 pkt 1 i 2, jest obliczana według Polskiej Normy dotyczącej określania i obliczania wskaźników powierzchniowych i kubaturowych.
+**Art. 60.** (uchylony)
 
 **Art. 61.**
 
-1. Oferty mogą być składane terminie 60 dni od daty ogłoszenia o przetargu, o którym mowa art. 53 ust. 1 i 2.
+1. Oferty mogą być składane terminie 60 dni od dnia ogłoszenia o przetargu, o którym mowa art. 53.
+
+2. Oferta, o której mowa ust. 1, zawiera szczególności:
 
 - **1)** podstawowe informacje o przystępującym do przetargu, tym:
     - **a)** nazwę przystępującego do przetargu,
     - **b)** dane teleadresowe,
-    - **c)** numer przystępującego do przetargu Krajowym Rejestrze Sądowym,
+    - **c)** numer przystępującego do przetargu Krajowym Rejestrze Sądowym, Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub innym właściwym rejestrze,
     - **d)** formę prawną prowadzenia działalności gospodarczej,
     - **e)** liczbę mieszkań zasobach przystępującego do przetargu, tym liczbę mieszkań na wynajem;
 
-- **2)** oświadczenia o zobowiązaniu się przystępującego do przetargu do spełnienia wymogów wskazanych art. 60 ust. 1;
-- **3)** dokumenty potwierdzające doświadczenie, zdolności organizacyjne oraz sytuację prawno-finansową przystępującego do przetargu umożliwiające mu realizację umowy.
+- **2)** oświadczenia o zobowiązaniu się przystępującego do przetargu do wykonania zobowiązań mających wpływ na wynik przetargu; sytuację prawno-finansową przystępującego do przetargu umożliwiające mu realizację umowy.
 
 3. Złożone oferty są sprawdzane pod względem spełnienia wymogów, o których mowa ust. 1 i 2.
 
@@ -1009,409 +1176,137 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 5. Jeżeli drugi przetarg zakończył się wynikiem negatywnym, Prezes KZN okresie nie krótszym niż 30 dni, ale nie dłuższym niż 2 miesiące, licząc od dnia jego zamknięcia, może ogłaszać kolejne przetargi.
 
-6. Organizując kolejne przetargi, KZN może obniżyć cenę wywoławczą nieruchomości ustaloną przy ogłoszeniu pierwszego przetargu, lecz cena ta nie może być niższa niż 70% wartości nieruchomości.
+6. Organizując kolejne przetargi, KZN może obniżyć cenę wywoławczą nieruchomości ustaloną przy ogłoszeniu pierwszego przetargu, lecz cena ta nie może być niższa niż 70 % wartości nieruchomości.
 
 7. Przetarg uważa się za zakończony wynikiem negatywnym, jeżeli nikt nie przystąpił do przetargu ustnego lub żaden z przystępujących do przetargu nie zaoferował postąpienia ponad cenę wywoławczą albo jeżeli przetargu pisemnym nie wpłynęła ani jedna oferta lub żaden z przystępujących do przetargu nie zaoferował ceny wyższej od wywoławczej, a także jeżeli komisja przetargowa stwierdziła, że żadna oferta nie spełnia warunków przetargu.
 
-8. Przystępujący do przetargu może, terminie 7 dni od dnia ogłoszenia wyniku przetargu ustnego lub doręczenia zawiadomienia o wyniku przetargu pisemnego, zaskarżyć czynności związane z przeprowadzeniem przetargu do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+8. Przystępujący do przetargu może, terminie 7 dni od dnia ogłoszenia wyniku przetargu ustnego lub doręczenia zawiadomienia o wyniku przetargu pisemnego, zaskarżyć czynności związane z przeprowadzeniem przetargu do ministra właściwego do spraw rozwoju regionalnego.
 
 9. W ogłoszeniu o przetargu dotyczącym zbycia nieruchomości można dopuścić podzielenie ceny nabycia nieruchomości na raty.
 
 **Art. 62.**
 
-1. Umowa, o której mowa art. 53 ust. 1, określa szczególności:
+1. Umowa sprzedaży lub o oddanie nieruchomości użytkowanie wieczyste określa szczególności:
 
 - **1)** strony umowy;
 - **2)** przedmiot umowy;
 - **3)** termin rozpoczęcia i zakończenia robót budowlanych;
 - **4)** rodzaj budynków lub urządzeń planowanych do budowy;
-- **5)** obowiązek utrzymania budynków lub urządzeń należytym stanie;
-- **6)** warunki i termin odbudowy razie zniszczenia albo rozbiórki budynków lub urządzeń czasie trwania umowy;
-- **7)** obowiązki wynikające z zawierania umów najmu bez opcji oraz umów najmu z opcją;
+- **5)** obowiązek utrzymania budynków lub urządzeń należytym stanie; urządzeń czasie trwania umowy;
+- **7)** (uchylony)
 - **8)** cenę nabycia;
 - **9)** opłaty za użytkowanie wieczyste;
 - **10)** prawa i obowiązki stron, tym:
-    - **a)** zobowiązania nabywcy nieruchomości, o których mowa art. 60 ust. 1,
-    - **b)** zobowiązania nabywcy nieruchomości wynikające z dodatkowych kryteriów oceny ofert, o których mowa art. 54 ust. 1 pkt 11 lit. b, mających wpływ na wynik przetargu,
-    - **c)** obowiązek przedkładania KZN informacji, o których mowa art. 70 i art. 101,
+    - **a)** (uchylona)
+    - **b)** zobowiązania nabywcy nieruchomości mające wpływ na wynik przetargu,
+    - **c)** obowiązek przedkładania KZN informacji, o których mowa art. 101,
     - **d)** obowiązki informacyjne wobec przyszłych najemców związane z planowanym przedsięwzięciem;
 
-- **11)** kary umowne za niewykonanie lub nienależyte wykonanie umowy wysokości nie niższej niż 10% wartości nieruchomości, na której realizowana jest inwestycja mieszkaniowa;
+- **11)** kary umowne za niewykonanie lub nienależyte wykonanie umowy wysokości nie niższej niż 10 % wartości nieruchomości stanowiącej przedmiot umowy;
 - **12)** okres, na jaki zawierana jest umowa.
+
+2. (uchylony)
 
 3. Wpływy z tytułu kar umownych, o których mowa ust. 1 pkt 11, stanowią przychód KZN i są wpłacane na jego rachunek bankowy.
 
-**Art. 63.** Do przetargu na sprzedaż nieruchomości wchodzących skład Zasobu z przeznaczeniem na cel mieszkaniowy i z przeznaczeniem utworzenia na tej nieruchomości mieszkań na wynajem stosuje się przepisy art. 53–62, z wyłączeniem art. 54 ust. 1 pkt 10 i pkt 11 lit. a oraz art. 62 ust. 1 pkt 9 i 12.
+4. W przypadku oddania nieruchomości użytkowanie wieczyste KZN wykonuje kompetencje właściwego organu określone dziale II ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. Przepisów art. 63–66 tej ustawy nie stosuje się.
 
-**Art. 64.** W zakresie nieuregulowanym art. 53–63, od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej, do umowy o oddanie użytkowanie wieczyste, o której mowa art. 53 ust. 1, i umowy sprzedaży, o której mowa art. 53 ust. 2, dotyczących nieruchomości wchodzących skład Zasobu, stosuje się odpowiednio przepisy działu II rozdziału 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, z wyłączeniem art. 28, art. 37 ust. 2, 3 i 4a, art. 38 i art. 39 oraz przepisów wydanych na podstawie art. 42 tej ustawy.
+**Art. 62a.** (uchylony)
+
+**Art. 63.** (uchylony)
+
+**Art. 64.** (uchylony)
 
 **Art. 65.**
 
-1. W celu pozyskania środków finansowych służących realizacji zadań, o których mowa art. 5, KZN może oddawać użytkowanie wieczyste i sprzedawać nieruchomości wchodzące skład Zasobu, tym nieruchomości budynkowe i lokalowe, a nieprzeznaczone na cele realizacji inwestycji mieszkaniowych.
+1. W celu pozyskania środków finansowych służących realizacji zadań, o których mowa art. 5, KZN może, za zgodą ministra właściwego do spraw rozwoju regionalnego, sprzedawać i oddawać użytkowanie wieczyste nieruchomości wchodzące skład Zasobu, nieprzeznaczone na cele realizacji inwestycji mieszkaniowych lub uzbrojenia technicznego.
 
 2. Do oddawania użytkowanie wieczyste i sprzedaży nieruchomości, o którym mowa ust. 1, stosuje się odpowiednio przepisy działu II rozdziału 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
+- **1)** nieruchomości nabytej uprzednio przez sprzedawcę od KZN na podstawie art. 53;
+- **2)** prawa użytkowania wieczystego nieruchomości nabytej uprzednio przez sprzedawcę od KZN na podstawie art. 53;
+- **3)** niezabudowanej nieruchomości nabytej uprzednio przez sprzedawcę od KZN na podstawie art. 65 ust. 1;
+- **4)** prawa użytkowania wieczystego niezabudowanej nieruchomości nabytej uprzednio przez sprzedawcę od KZN na podstawie art. 65 ust. 1.
+
+2. Prawo pierwokupu może być wykonane terminie miesiąca od dnia otrzymania przez KZN zawiadomienia o treści umowy sprzedaży.
+
+3. Notariusz sporządzający umowę sprzedaży jest obowiązany do przekazania KZN wypisu aktu notarialnego obejmującego umowę sprzedaży, terminie 3 dni od dnia zawarcia umowy.
+
+4. Prawo pierwokupu Prezes KZN wykonuje przez złożenie oświadczenia formie aktu notarialnego u notariusza, o którym mowa ust. 3. W przypadku gdyby złożenie oświadczenia u tego notariusza było niemożliwe lub napotykało poważne trudności, może być ono złożone u innego notariusza.
+
+5. Wypis z aktu notarialnego obejmującego oświadczenie, o którym mowa ust. 4, notariusz doręcza sprzedawcy terminie 3 dni od dnia złożenia oświadczenia.
+
+6. Z chwilą złożenia oświadczenia, o którym mowa ust. 4:
+
+- **1)** nieruchomość staje się własnością Skarbu Państwa i przechodzi do Zasobu, jeżeli wykonanie prawa pierwokupu dotyczyło sprzedaży nieruchomości;
+- **2)** prawo użytkowania wieczystego wygasa, jeżeli wykonanie prawa pierwokupu dotyczyło sprzedaży prawa użytkowania wieczystego.
+
+7. Prawo pierwokupu wykonuje się po cenie ustalonej między stronami umowie sprzedaży.
+
+**Art. 65b.**
+
+1. Sprzedaż nieruchomości na podstawie art. 53 następuje z zastrzeżeniem prawa odkupu.
+
+2. Prawo odkupu przysługuje KZN przypadku, gdy na sprzedanej nieruchomości nie zrealizowano celu, o którym mowa art. 53. kupującemu. Oświadczenie o wykonaniu prawa odkupu sporządza się formie aktu notarialnego.
+
+4. Z chwilą wykonania prawa odkupu nabywca jest obowiązany przenieść na rzecz Skarbu Państwa własność nieruchomości za zwrotem ceny i kosztów sprzedaży oraz za zwrotem nakładów. Zwrot nakładów, które nie stanowiły nakładów koniecznych, należy się nabywcy tylko granicach istniejącego zwiększenia wartości nieruchomości.
+
+5. Prawo odkupu przysługuje KZN okresie 5 lat od dnia sprzedaży nieruchomości.
+
 **Art. 66.** W celu realizacji zadań, o których mowa art. 5, KZN może dokonywać:
 
-#### Rozdział 6 Operator mieszkaniowy
+**Art. 66a.**
 
-**Art. 67.**
+1. KZN, za zgodą ministra, o którym mowa art. 31 ust. 3, może wykorzystywać mienie Zasobu do ustanawiania zabezpieczeń:
 
-1. Operatorem mieszkaniowym rozumieniu ustawy jest podmiot:
+- **1)** zaciąganych zobowiązań finansowych KZN celu pełnego pokrycia wydatków własnych;
+- **2)** zobowiązań finansowych podmiotów, o których mowa art. 7 ust. 1 i art. 7a ust. 1, jeżeli są związane z realizacją zadań wynikających z polityki państwa, szczególności zakresie tworzenia warunków do zwiększenia dostępności mieszkań na wynajem, wspierania rozwoju społecznego budownictwa czynszowego, wdrażania i stosowania instrumentów wsparcia rozwoju mieszkaniowego.
 
-- **1)** będący stroną zawartej z KZN umowy, o której mowa art. 53 ust. 1, lub umowy sprzedaży, o której mowa art. 53 ust. 2;
-- **2)** który nabył od podmiotu, o którym mowa pkt 1, nieruchomość nabytą zgodnie z przepisami art. 53 ust. 1 lub 2.
+2. Ustanowienie zabezpieczeń, o których mowa ust. 1, może polegać szczególności na ustanowieniu przez KZN hipotek na nieruchomościach Zasobu.
 
-2. Operatorem mieszkaniowym rozumieniu ustawy jest również każdy kolejny podmiot, który nabył nieruchomość, która pierwotnie została nabyta zgodnie z przepisami art. 53 ust. 1 lub 2.
+3. Sumy hipotek, o których mowa ust. 2, nie mogą łącznie przekroczyć kwoty 350 000 000 zł.
 
-3. W przypadku zbycia:
+#### Rozdział 6
 
-- **1)** nieruchomości nabytej zgodnie z przepisami art. 53 ust. 1 lub 2,
-- **2)** budynków lub lokali zlokalizowanych na nieruchomości, o której mowa pkt 1 podmiot, o którym mowa ust. 1 pkt 2 i ust. 2, wstępuje we wszystkie prawa i obowiązki dotychczasowego operatora mieszkaniowego.
-
-4. W przypadku, o którym mowa ust. 3, dotychczasowy operator mieszkaniowy jest obowiązany przekazać nabywcy nieruchomości całość dokumentacji związanej ze zbywaną nieruchomością, tym umowy:
-
-- **1)** zawarte z KZN;
-- **2)** zawarte z dostawcami mediów;
-- **3)** zawarte z najemcami wraz z informacjami o umowach najmu z opcją;
-- **4)** dotyczące zarządzania nieruchomością.
-
-**Art. 68.**
-
-1. Operator mieszkaniowy jest obowiązany zrealizować na nieruchomości, o której mowa art. 67 ust. 1 i 2, inwestycję mieszkaniową, spełniającą łącznie następujące kryteria:
-
-- **1)** nie mniej niż 80% powierzchni użytkowej wszystkich lokali budynkach objętych inwestycją mieszkaniową stanowi powierzchnia mieszkań;
-- **3)** nie więcej niż 20% powierzchni użytkowej kondygnacji nadziemnych budynku pozostanie niewyodrębniona na lokale, tym będzie przeznaczona na części wspólne.
-
-2. Operator mieszkaniowy jest również obowiązany:
-
-- **1)** nie później niż dniu zawarcia umowy najmu z opcją zawrzeć z najemcą umowę przedwstępną, o ile najemca wyraził taką wolę;
-- **2)** nie później niż terminie 21 dni od dnia wyrażenia woli o chęci zawarcia umowy najmu z opcją zawrzeć z najemcą umowę przedwstępną, o ile najemca wyraził taką wolę;
-- **3)** przy zawieraniu umów najmu mieszkań na wynajem stosować kryteria pierwszeństwa zawarcia umowy najmu, które będą miały zastosowanie przy danej inwestycji mieszkaniowej;
-- **4)** przy zawieraniu umów najmu stosować czynsz najmu bez opcji oraz czynsz najmu z opcją nieprzekraczający maksymalnej wysokości ustalonej przepisach wydanych na podstawie art. 82 ust. 6 oraz stosować opłaty eksploatacyjne nie wyższe niż określone art. 82 ust. 3 lub wynikające z przepisów wydanych na podstawie art. 82 ust. 7;
-- **5)** przypadku najmu z opcją wypłacić najemcy kwotę wpłaconej przez niego części ceny zakupu mieszkania przypadku odstąpienia od umowy przedwstępnej;
-- **6)** co najmniej przez 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej mieszkania, o których mowa ust. 1 pkt 2, będą mieszkaniami na wynajem;
-- **7)** wyodrębnić lokale mieszkalne przeznaczone na mieszkania na wynajem;
-- **8)** poinformować następcę prawnego nieruchomości o uwarunkowaniach i zobowiązaniach dotyczących nieruchomości, najmie z opcją, najmie bez opcji oraz o czynszu normowanym;
-- **9)** dokonać naboru osób najmujących na zasadach najmu o czynszu normowanym drodze ogłoszenia, zgodnie z przepisami ustawy.
-
-3. W przypadku mieszkań, dla których zawarto umowę najmu z opcją, termin, o którym mowa ust. 2 pkt 6, wynosi 30 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej, chyba że przed upływem tego terminu wszystkie mieszkania na wynajem zostały nabyte przez najemców.
-
-**Art. 69.**
-
-1. Przekształcenie prawa użytkowania wieczystego, nabytego trybie określonym art. 53 ust. 1, prawo własności nieruchomości może nastąpić po 15 latach od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej.
-
-2. W przypadku gdy danej inwestycji mieszkaniowej zawarto choćby jedną umowę najmu z opcją, termin, o którym mowa ust. 1, wynosi 30 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej.
-
-3. W przypadku gdy danej inwestycji mieszkaniowej zawarto choćby jedną umowę najmu z opcją, a przed upływem 30 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej wszystkie mieszkania na wynajem zostały nabyte przez najemców, przekształcenie prawa użytkowania wieczystego, o którym mowa ust. 1, prawo własności nieruchomości może nastąpić po przeniesieniu własności ostatniego z mieszkań na wynajem.
-
-**Art. 70.**
-
-1. Operator mieszkaniowy jest obowiązany informować, odniesieniu do danej inwestycji mieszkaniowej, Prezesa KZN o:
-
-- **1)** zawarciu pierwszej umowy najmu i związanym z tym dniem upływu 15 i 30 lat od dnia zawarcia takiej umowy;
-- **2)** zawarciu pierwszej umowy najmu z opcją;
-- **3)** wygaśnięciu lub rozwiązaniu ostatniej umowy najmu z opcją;
-- **4)** przeniesieniu własności ostatniego z mieszkań na wynajem.
-
-2. Informacje, o których mowa ust. 1, zamieszcza się Biuletynie Informacji Publicznej KZN.
-
-**Art. 71.**
-
-1. W przypadku ogłoszenia upadłości operatora mieszkaniowego, z dniem ogłoszenia tej upadłości wygasa użytkowanie wieczyste.
-
-2. W przypadku, o którym mowa ust. 1:
-
-- **1)** użytkownikowi wieczystemu przysługuje wynagrodzenie za wzniesione przez niego lub nabyte na własność budynki i inne urządzenia;
-- **2)** zwraca się sumę opłat rocznych wniesionych z tego tytułu za niewykorzystany okres użytkowania wieczystego. dzenie nie przysługuje.
-
-4. Maksymalna wysokość kwoty podlegającej zwrotowi nie może przekraczać wartości prawa użytkowania wieczystego określonej na dzień rozwiązania umowy.
-
-5. W przypadku gdy ogłoszenie upadłości operatora mieszkaniowego nastąpiło po zawarciu choćby jednej umowy najmu z opcją, na żądanie syndyka złożone formie pisemnej z datą pewną najemca, terminie trzech miesięcy od złożenia żądania, składa pisemne oświadczenie, czy żąda przeniesienia prawa własności mieszkania i wyznaczenia terminu do zapłaty ceny.
-
-6. Termin do zapłaty ceny nie może być krótszy niż 6 miesięcy od dnia złożenia oświadczenia.
-
-7. Po upływie terminu na złożenie oświadczenia wyznaczonego przez syndyka, o którym mowa ust. 5, roszczenie o przeniesienie prawa własności wygasa.
-
-**Art. 72.** W razie wszczęcia egzekucji z mieszkania będącego przedmiotem umowy przedwstępnej najemca terminie trzech miesięcy od zajęcia może złożyć pisemne oświadczenie z datą pewną o wykonaniu roszczenia o przeniesienie prawa własności. W razie uiszczenia reszty ceny terminie sześciu miesięcy od dnia złożenia oświadczenia egzekucja z mieszkania podlega umorzeniu.
-
-#### Rozdział 7 Najem i czynsz najmu
-
-**Art. 73.**
-
-1. Przepisy niniejszego rozdziału stosuje się do mieszkań, zrealizowanych przez operatora mieszkaniowego, przeznaczonych na wynajem z opcją oraz najem bez opcji.
-
-2. Możliwość zawarcia umów najmu z opcją dotyczy wszystkich mieszkań przeznaczonych na wynajem realizowanych przez operatorów mieszkaniowych na zasadach określonych ustawą.
-
-3. Najemcą może być wyłącznie osoba fizyczna.
-
-4. Najemca nie może podnajmować mieszkania.
-
-5. Przepisu ust. 4 nie stosuje się, jeżeli podnajem dotyczy osoby, wobec której najemca jest obciążony obowiązkiem alimentacyjnym.
-
-6. Umowa sprzedaży mieszkania, o którym mowa ust. 1, zawarta przez operatora mieszkaniowego przed upływem 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej jest nieważna z mocy prawa.
-
-**Art. 74.**
-
-1. Operator mieszkaniowy, nie później niż 14 dni od dnia uzyskania ostatecznej decyzji o pozwoleniu na budowę, ma obowiązek upowszechniać informacje o możliwości zawarcia umów najmu z opcją oraz umów najmu bez opcji przez:
-
-- **1)** przekazanie ogłoszenia o naborze na najemców do KZN celu zamieszczenia Biuletynie Informacji Publicznej KZN;
-- **2)** umieszczenie ogłoszenia o rozpoczęciu naboru na najemców:
-    - **a)** miejscu powszechnie dostępnym siedzibie operatora mieszkaniowego,
-    - **b)** obok tablicy informacyjnej zamieszczonej na terenie budowy,
-    - **c)** przez obwieszczenie prasie lokalnej,
-    - **d)** sposób zwyczajowo przyjęty danej miejscowości;
-
-- **3)** przekazanie ogłoszenia o naborze na najemców do KZN celem przekazania go właściwej miejscowo gminie, która może zamieścić ogłoszenie na swoich stronach internetowych oraz swoim Biuletynie Informacji Publicznej.
-
-2. Umieszczenie ogłoszenia o naborze na najemców Biuletynie Informacji Publicznej KZN oraz przez gminę na jej stronach internetowych oraz jej Biuletynie Informacji Publicznej jest bezpłatne.
-
-3. W przypadku gdy do ogłoszenia o przetargu dołączono decyzję o pozwoleniu na budowę, termin, o którym mowa ust. 1, liczy się od dnia zakończenia przetargu.
-
-**Art. 75.**
-
-1. Ogłoszenie o naborze na najemców zawiera:
-
-- **1)** dane dotyczące operatora mieszkaniowego;
-- **3)** informacje o terminie rozpoczęcia oraz zakończenia robót budowlanych;
-- **4)** informacje o liczbie mieszkań na wynajem, z podziałem na ich powierzchnię oraz liczbę pokoi;
-- **5)** informacje o liczbie mieszkań na wynajem, z podziałem na ich powierzchnię oraz liczbę pokoi, które są dostosowane do potrzeb osób o ograniczonej możliwości poruszania się lub osób niewidomych lub niedowidzących, głuchych lub niedosłyszących;
-- **6)** informację o maksymalnej wysokości czynszu normowanego za 1 m ;
-- **7)** informację o maksymalnej wysokości czynszu normowanego za 1 m związanego z prawem najemcy do nabycia prawa własności mieszkania;
-- **8)** informację, że przypadku, gdy liczba wniosków o najem przekracza liczbę mieszkań, których dotyczy ogłoszenie, decyduje kolejność wpływu wniosków, które nie wymagają uzupełnienia;
-- **9)** informacje o stosowanych kryteriach pierwszeństwa;
-- **10)** warunki rozwiązania umowy najmu;
-- **11)** termin składania dokumentów;
-- **12)** informację o tym, że dokumenty składa się do KZN.
-
-2. Do ogłoszenia, o którym mowa ust. 1, dołącza się, określony przepisach wydanych na podstawie ust. 7, wzór:
-
-- **1)** wniosku o zawarcie umowy najmu, zwany dalej „wnioskiem o najem”;
-- **2)** oświadczenia o rękojmi terminowego uiszczania należności pieniężnych wynikających z umowy najmu.
-
-3. Osoba ubiegająca się o najem składa:
-
-- **1)** wniosek o najem;
-- **2)** oświadczenie o rękojmi terminowego uiszczania należności pieniężnych wynikających z umowy najmu;
-- **3)** oświadczenie o adresie do korespondencji.
-
-4. Osoba ubiegająca się o najem we wniosku o najem wskazuje, czy zamierza zawrzeć umowę najmu bez opcji, czy umowę najmu z opcją.
-
-5. Osoba ubiegająca się o najem, która zamierza skorzystać z kryteriów pierwszeństwa, jest obowiązana do dołączenia do wniosku o najem kopii dokumentów potwierdzających spełnianie przesłanek umożliwiających skorzystanie z kryterium pierwszeństwa oraz oświadczenie o wyrażeniu zgody na przetwarzanie danych osobowych zakresie niezbędnym do przeprowadzenia kontroli przez Prezesa KZN.
-
-6. Termin do składania dokumentów, określony ogłoszeniu o naborze na najemcę, nie może być krótszy niż 60 dni od dnia opublikowania tego ogłoszenia Biuletynie Informacji Publicznej KZN.
-
-7. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, drodze rozporządzenia, wzór wniosku o najem, uwzględniający możliwość określenia pierwszeństwa wyborze lokali, wzór oświadczenia o rękojmi terminowego uiszczania należności pieniężnych wynikających z umowy najmu, celu zapewnienia kompletności i jednolitości przekazywanych informacji.
-
-**Art. 76.**
-
-1. Prezes KZN przekazuje wnioski o najem operatorowi mieszkaniowemu, który zamieścił ogłoszenie o naborze na najemców, terminie 14 dni od dnia upływu terminu składania wniosków o najem.
-
-2. Operator mieszkaniowy:
-
-- **1)** niezwłocznie po otrzymaniu wniosków o najem weryfikuje ich kompletność;
-- **2)** zawiadamia, na adres wskazany oświadczeniu o adresie do korespondencji, kandydatów na najemców o:
-    - **a)** konieczności uzupełnienia wniosków, określając termin tego uzupełnienia, lub o przyjęciu wniosku,
-    - **b)** stosowaniu kryteriów pierwszeństwa.
-
-3. Wniosek o najem nieuzupełniony terminie określonym przez operatora mieszkaniowego pozostawia się bez rozpoznania.
-
-4. Kandydat na najemcę jest obowiązany niezwłocznie zawiadomić operatora mieszkaniowego o każdej zmianie adresu do korespondencji. Zawiadomienia, o których mowa ust. 2 pkt 2, doręczone na adres wskazany oświadczeniu o adresie do korespondencji uznaje się za skuteczne. niej niż po upływie 90 dni od upływu terminu na składanie wniosków, ponawia ogłoszenie o naborze na najemców.
-
-2. W przypadku gdy wskutek ponownego naboru liczba wniosków o najem nadal nie przekracza liczby mieszkań, których dotyczy ogłoszenie, operator mieszkaniowy ponawia dwukrotnie, odstępach 60-dniowych, ogłoszenie o naborze na najemców.
-
-3. Pierwsze z ogłoszeń o naborze na najemców, o którym mowa ust. 2, operator mieszkaniowy przekazuje do KZN celu zamieszczenia Biuletynie Informacji Publicznej KZN nie później niż po upływie 14 dni od dnia oddania do użytkowania budynku, którego ogłoszenie dotyczy.
-
-**Art. 78.** Przepisy art. 74–77 stosuje się, przypadku gdy przed upływem 15 lat od zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej umowa najmu bez opcji uległa rozwiązaniu lub wygasła, przy czym terminy, o których mowa przepisach art. 74–77, liczy się od dnia rozwiązania lub wygaśnięcia tej umowy.
-
-**Art. 79.**
-
-1. W przypadku gdy wyniku ponownych naborów na najemców, o których mowa art. 77 lub art. 78, liczba wniosków o najem nadal jest mniejsza niż mieszkań, których dotyczył nabór, operator mieszkaniowy może zbyć mieszkanie, co do którego nie było zainteresowania, na zasadach ogólnych.
-
-2. Zbycie mieszkania, o którym mowa ust. 1, nie powoduje naruszenia warunków umowy dotyczącej nabycia nieruchomości przez operatora mieszkaniowego oraz przepisów ustawy, szczególności dotyczących udziału powierzchni mieszkań na wynajem ogólnej powierzchni mieszkań.
-
-3. Zbycie mieszkania, o którym mowa ust. 1, nie może wiązać się ze zmianą sposobu użytkowania nieruchomości, szczególności z przeznaczeniem mieszkania na prowadzenie działalności gospodarczej.
-
-**Art. 80.** Operator mieszkaniowy, nie później niż po upływie 14 dni od dnia złożenia wniosku o pozwolenie na użytkowanie, przekazuje do KZN, celu zamieszczenia Biuletynie Informacji Publicznej KZN, prospekt informacyjny, o którym mowa art. 17 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. z 2017 r. poz. 1468).
-
-**Art. 81.** Nie później niż 14 dni po uzyskaniu decyzji o pozwoleniu na użytkowanie operator mieszkaniowy przystępuje do zawierania umów najmu z kandydatami na najemców, których zawiadomił o przyjęciu wniosku.
-
-**Art. 82.**
-
-1. Czynsz najmu bez opcji oraz czynsz najmu z opcją i wysokość comiesięcznej raty za cenę mieszkania, przy założeniu 30-letniego terminu spłat, mieszkaniach zrealizowanych przez operatorów mieszkaniowych nie może przekraczać, skali miesiąca, kwot określanych dla 1 m powierzchni użytkowej mieszkania corocznie przepisach wydanych na podstawie ust. 6.
-
-2. Kwota, o której mowa ust. 1, jest ustalana przy łącznym uwzględnieniu:
-
-- **1)** ceny 1 m nieruchomości budowlanej;
-- **2)** kosztów budowy 1 m ;
-- **3)** wartości 1 m powierzchni odtworzeniowej mieszkania;
-- **4)** średniego miesięcznego wynagrodzenia;
-- **5)** kosztów administracyjnych;
-- **6)** rozsądnego dochodu operatora mieszkaniowego.
-
-3. Opłata eksploatacyjna obejmuje koszty zarządu nieruchomością wspólną, rozumieniu art. 14 ustawy z dnia 24 czerwca 1994 r. o własności lokali, i dla mieszkań na wynajem wynosi skali miesiąca maksymalnie:
-
-- **1)** na terenie m.st. Warszawy 10 zł za 1 m powierzchni użytkowej mieszkania;
-- **2)** na terenie miast będących siedzibą wojewody lub sejmiku województwa innych niż m.st. Warszawa 9 zł za 1 m powierzchni użytkowej mieszkania;
-- **3)** pozostałych lokalizacjach 6,50 zł za 1 m powierzchni użytkowej mieszkania.
-
-4. Opłata eksploatacyjna podlega waloryzacji nie rzadziej niż raz na 3 lata. Waloryzacja uwzględnia faktyczne aktualne koszty eksploatacji i remontów oraz zarządu nieruchomością wspólną.
-
-5. W przypadku mieszkań na wynajem będących przedmiotem umowy najmu z opcją, jeżeli zostanie podjęta przez właścicieli mieszkań uchwała, na podstawie ustawy z dnia 24 czerwca 1994 r. o własności lokali, ustalająca zwiększenie części kosztów związanych z eksploatacją urządzeń lub części budynków służących zarówno do użytku poszczególnych z czynszu normowanego ustalonego dla tego mieszkania. Przepisów art. 93 ust. 4 i art. 108 pkt 2 nie stosuje się.
-
-6. Rada Ministrów określi, corocznie do dnia 31 marca, drodze rozporządzenia, dla 1 m powierzchni użytkowej mieszkania:
-
-- **1)** maksymalny czynsz normowany dla najmu bez opcji,
-- **2)** maksymalny czynsz normowany dla najmu z opcją,
-- **3)** maksymalną wysokość comiesięcznej raty za cenę mieszkania, przy założeniu 30-letniego terminu spłat,
-- **4)** maksymalną cenę 1 m powierzchni użytkowej mieszkania na wynajem biorąc pod uwagę przepis ust. 2, lokalizację inwestycji, szczególności różnicując wysokość czynszu normowanego oraz maksymalną cenę 1 m powierzchni użytkowej mieszkania na wynajem dla miast będących siedzibą wojewody lub sejmiku województwa, gmin posiadających wspólną granicę z takimi miastami, gmin tworzących obszar metropolitalny, gmin znajdujących się granicach miejskiego obszaru funkcjonalnego ośrodka wojewódzkiego oraz waloryzację przeciętnych kosztów budowy 1 m powierzchni użytkowej mieszkania.
-
-7. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określa, nie rzadziej niż raz na 3 lata, drodze rozporządzenia, maksymalne stawki opłaty eksploatacyjnej, biorąc pod uwagę lokalizację inwestycji mieszkaniowej, szczególności różnicując wysokość opłaty dla m.st. Warszawy, miast będących siedzibą wojewody lub sejmiku województwa, gmin posiadających wspólną granicę z takimi miastami, gmin tworzących obszar metropolitalny, gmin znajdujących się granicach miejskiego obszaru funkcjonalnego ośrodka wojewódzkiego oraz faktyczne aktualne koszty eksploatacji i remontów oraz zarządu nieruchomością wspólną.
-
-**Art. 83.**
-
-1. Mieszkania na wynajem:
-
-- **1)** są przedmiotem najmu bez opcji przez 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej;
-- **2)** są przedmiotem najmu z opcją przez 30 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej;
-- **3)** mogą być przedmiotem sprzedaży nie wcześniej niż po upływie 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej.
-
-2. Umowa najmu może być wypowiedziana przez operatora mieszkaniowego wyłącznie przypadku, o którym mowa art. 11 ust. 2 pkt 1 i 2 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2016 r. poz. 1610 oraz z 2017 r. poz. 1442 i 1529) odniesieniu do:
-
-- **1)** najmu, o którym mowa ust. 1 pkt 1 okresie 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej;
-- **2)** najmu, o którym mowa ust. 1 pkt 2 okresie 30 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej.
-
-3. Operator mieszkaniowy przez 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej z tytułu najmu, oprócz czynszu normowanego oraz opłaty eksploatacyjnej, może pobierać wyłącznie opłaty od niego niezależne.
-
-4. Opłatami niezależnymi od operatora mieszkaniowego są wyłącznie opłaty za dostawę do mieszkania energii, gazu, wody, odbiór ścieków, odpadów i nieczystości ciekłych.
-
-**Art. 84.** W sprawach nieuregulowanych do najmu stosuje się przepisy rozdziału 2b ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego.
-
-**Art. 85.**
-
-1. Umowa najmu z opcją jest zawierana na czas oznaczony wynoszący 30 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej z możliwością przeniesienia własności na najemcę najwcześniej po upływie 15 lat od dnia zawarcia umowy najmu z opcją.
-
-2. Zawierając umowę najmu, o której mowa ust. 1, operator mieszkaniowy zawiera jednocześnie umowę przedwstępną.
-
-3. Umowę przedwstępną zawiera się, pod rygorem nieważności czynności prawnej, formie aktu notarialnego. Umowa najmu z opcją stanowi załącznik do tego aktu.
-
-5. Do wpisu roszczenia, o którym mowa ust. 4, przepisu art. 19 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2017 r. poz. 1007) nie stosuje się.
-
-6. W umowie przedwstępnej operator mieszkaniowy ustanawia hipotekę zabezpieczającą wierzytelność najemcy o zwrot zapłaconej ceny na wypadek niewykonania umowy przeniesienia własności.
-
-7. Najemca, który zawarł umowę najmu z opcją, jest obowiązany do zapłaty:
-
-- **1)** czynszu normowanego;
-- **2)** opłaty eksploatacyjnej;
-- **3)** ceny mieszkania płatnej comiesięcznych ratach;
-- **4)** opłat niezależnych od operatora mieszkaniowego.
-
-8. W umowie najmu z opcją określa się zasady potrącania zaległego czynszu z rat wpłaconych na poczet ceny mieszkania.
-
-**Art. 86.** W umowie przedwstępnej określa się szczególności:
-
-**Art. 87.**
-
-1. Po upływie 15 lat od dnia zawarcia umowy najmu z opcją najemca może złożyć do operatora mieszkaniowego, za pośrednictwem KZN, wniosek o przeniesienie własności mieszkania, którego dotyczy umowa.
-
-2. Operator mieszkaniowy zawiera umowę przeniesienia własności mieszkania terminie 30 dni od dnia otrzymania wniosku, o ile najemca uiścił pełną cenę mieszkania.
-
-**Art. 88.**
-
-1. Umowa najmu bez opcji jest zawierana na czas oznaczony, jednak nie dłuższy niż 15 lat.
-
-2. Najemca, który zawarł umowę najmu bez opcji, jest obowiązany do zapłaty:
-
-- **1)** czynszu normowanego;
-- **2)** opłaty eksploatacyjnej;
-- **3)** opłat niezależnych od operatora mieszkaniowego.
-
-3. W przypadku gdy operator mieszkaniowy zamierza zbyć mieszkanie, będące przedmiotem umowy, o której mowa ust. 1, operator mieszkaniowy proponuje najemcy zawarcie umowy sprzedaży mieszkania, wyznaczając mu termin do odpowiedzi na ofertę, nie krótszy niż 30 dni.
-
-**Art. 89.**
-
-1. Umowy najmu zawarte przed upływem terminu wskazanego art. 75 ust. 6 i terminów wynikających z art. 77 na złożenie wniosku o najem są nieważne z mocy prawa.
-
-2. W przypadkach, o których mowa ust. 1, najemcy przysługuje odszkodowanie od operatora mieszkaniowego.
-
-**Art. 90.**
-
-1. W przypadku umów najmu bez opcji najemca może złożyć pisemny wniosek o przekształcenie umowy najmu bez opcji umowę najmu z opcją oraz zawarcia umowy przedwstępnej.
-
-2. Wniosek, o którym mowa ust. 1, najemca może złożyć przed upływem 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej.
-
-4. Operator mieszkaniowy zawiera z najemcą umowę najmu z opcją oraz umowę przedwstępną nie później niż terminie 21 dni od dnia otrzymania wniosku.
-
-5. Operator mieszkaniowy odmawia przekształcenia umowy najmu bez opcji umowę najmu z opcją oraz zawarcia umowy przedwstępnej, jeśli wniosek złożono 6 miesięcy przed upływem 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej.
-
-6. W przypadku, o którym mowa ust. 5, operator mieszkaniowy proponuje najemcy bez opcji, który złożył wniosek, o którym mowa ust. 5, zawarcie umowy sprzedaży mieszkania.
-
-**Art. 91.** W przypadku, o którym mowa art. 88 ust. 3 i art. 90 ust. 6, stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące pierwokupu.
-
-**Art. 92.**
-
-1. W przypadku rozwiązania lub wygaśnięcia umowy najmu z opcją i opróżnienia mieszkania operator mieszkaniowy wypłaca byłemu najemcy lub jego spadkobiercom kwotę wpłaconej przez niego części ceny zakupu mieszkania, po potrąceniu zaległych kwot czynszu.
-
-2. Zwrot następuje terminie miesiąca od dnia opróżnienia mieszkania.
-
-3. Rada Ministrów określi, drodze rozporządzenia, sposób obliczania minimalnego zwrotu, o którym mowa ust. 1, mając na względzie ochronę wartości kapitału wpłaconego przez najemcę z opcją, z uwzględnieniem powierzchni użytkowej mieszkania, wartości początkowej kapitału wniesionego przez najemcę, sumę płatności dokonanych przez najemcę oraz aktualną wartość mieszkania.
-
-**Art. 93.**
-
-1. Jeżeli umowie najmu bez opcji operator mieszkaniowy oprócz czynszu, opłaty eksploatacyjnej i opłat od niego niezależnych określił inne opłaty umowa najmu tej części jest nieważna z mocy prawa.
-
-2. Jeżeli umowie najmu z opcją operator mieszkaniowy oprócz czynszu, opłaty eksploatacyjnej, raty i opłat od niego niezależnych określił inne opłaty umowa najmu tej części jest nieważna z mocy prawa.
-
-3. W przypadku gdy operator mieszkaniowy ustalił umowie najmu czynsz na poziomie przekraczającym maksymalne kwoty czynszu normowanego określone przepisach wydanych na podstawie art. 82 ust. 6, czynsz najmu, z mocy prawa, jest równy czynszowi wynikającemu z tych przepisów.
-
-4. W przypadku gdy operator mieszkaniowy ustalił najemcy wysokość opłaty eksploatacyjnej wyższą niż określona art. 82 ust. 3 lub wynikającą z przepisów wydanych na podstawie art. 82 ust. 7, opłata ta, z mocy prawa, jest równa opłacie wynikającej z tych przepisów.
-
-**Art. 94.** Przedmiotem umowy przeniesienia własności mieszkania przez operatora mieszkaniowego może być jedynie mieszkanie wolne od hipotek i roszczeń ujawnionych księgach wieczystych.
-
-**Art. 95.** W przypadku mieszkań będących przedmiotem umowy najmu z opcją, prawa i obowiązki operatora mieszkaniowego, będącego właścicielem mieszkania, wynikające z art. 18, art. 20, art. 21, art. 22 ust. 2 i 4, art. 23 ust. 1, 2, 2b i 3, art. 24–28, art. 29 ust. 1b i 1d–3, art. 31 i art. 32 ustawy z dnia 24 czerwca 1994 r. o własności lokali przysługują wyłącznie najemcy z opcją.
+#### Rozdział 7 (uchylony)
 
 #### Rozdział 8 Kontrola
 
 **Art. 96.** Prezes KZN uprawniony jest do przeprowadzania kontroli:
 
-**Art. 98.** Operator mieszkaniowy informuje Prezesa KZN o zakończeniu budowy inwestycji mieszkaniowej objętej umową z KZN terminie 14 dni od dnia zakończenia budowy. Do zawiadomienia załącza się geodezyjną inwentaryzację powykonawczą, wykonaną przez osobę posiadającą odpowiednie uprawnienia, obejmującą szczególności pomiar powierzchni użytkowej lokali.
+**Art. 97.** Prezes KZN każdym czasie może zwrócić się do organów nadzoru budowlanego z wnioskiem o przeprowadzenie kontroli zgodności realizowanej inwestycji z przepisami prawa. Prezes KZN może uczestniczyć kontroli prowadzonej przez organ nadzoru budowlanego.
 
-**Art. 99.**
-
-1. Kontrolę, o której mowa art. 96 pkt 2, Prezes KZN przeprowadza obowiązkowo po zakończeniu budowy, a przed złożeniem wniosku przez operatora mieszkaniowego o wydanie decyzji o pozwoleniu na użytkowanie obiektu budowlanego.
-
-2. W razie stwierdzenia naruszenia warunków umowy Prezes KZN zwraca się do organów nadzoru budowlanego z wnioskiem o przeprowadzenie kontroli zgodności realizowanej inwestycji z przepisami prawa. Prezes KZN może uczestniczyć kontroli prowadzonej przez organ nadzoru budowlanego.
-
-3. W przypadku stwierdzenia braku naruszenia warunków umowy Prezes KZN wydaje operatorowi mieszkaniowemu zaświadczenie o braku zastrzeżeń.
-
-4. Informację o stwierdzeniu naruszenia warunków umowy lub o braku zastrzeżeń Prezes KZN zamieszcza Biuletynie Informacji Publicznej KZN.
+**Art. 98.** Nabywca albo użytkownik wieczysty nieruchomości z Zasobu informuje Prezesa KZN o zakończeniu budowy inwestycji mieszkaniowej objętej umową z KZN terminie 14 dni od dnia zakończenia budowy. Do zawiadomienia załącza się geodezyjną inwentaryzację powykonawczą, wykonaną przez osobę posiadającą odpowiednie uprawnienia, obejmującą szczególności pomiar powierzchni użytkowej lokali. obowiązkowo po zakończeniu budowy, a przed złożeniem wniosku przez nabywcę albo użytkownika wieczystego nieruchomości z Zasobu o wydanie decyzji o pozwoleniu na użytkowanie obiektu budowlanego. 2. W razie stwierdzenia naruszenia warunków umowy Prezes KZN zwraca się do organów nadzoru budowlanego z wnioskiem o przeprowadzenie kontroli zgodności realizowanej inwestycji z przepisami prawa. Prezes KZN może uczestniczyć kontroli prowadzonej przez organ nadzoru budowlanego. 3. W przypadku stwierdzenia braku naruszenia warunków umowy lub ustawy Prezes KZN wydaje nabywcy albo użytkownikowi wieczystemu nieruchomości z Zasobu zaświadczenie o braku zastrzeżeń. 4. Informację o stwierdzeniu naruszenia warunków umowy lub o braku zastrzeżeń Prezes KZN zamieszcza Biuletynie Informacji Publicznej KZN.
 
 **Art. 100.**
 
-1. W przypadku stwierdzenia, po wydaniu decyzji o pozwoleniu na użytkowanie, naruszenia warunków umowy, Prezes KZN wzywa operatora mieszkaniowego do złożenia wyjaśnień oraz usunięcia stwierdzonych uchybień, wyznaczając mu odpowiedni termin.
+1. W przypadku stwierdzenia naruszenia warunków umowy lub ustawy, po wydaniu decyzji o pozwoleniu na użytkowanie obiektu budowlanego, Prezes KZN wzywa nabywcę albo użytkownika wieczystego nieruchomości z Zasobu do złożenia wyjaśnień oraz usunięcia stwierdzonych uchybień, wyznaczając mu odpowiedni termin.
 
-2. Prezes KZN, biorąc pod uwagę stopień naruszenia warunków umów zawartych z operatorem mieszkaniowym, może je rozwiązać i nałożyć na operatora kary wynikające z tych umów.
+2. Prezes KZN, biorąc pod uwagę stopień naruszenia warunków umowy zawartej z nabywcą albo użytkownikiem wieczystym nieruchomości z Zasobu, może ją rozwiązać i nałożyć kary wynikające z tej umowy.
 
 **Art. 101.**
 
-1. Operator mieszkaniowy przedkłada corocznie Prezesowi KZN do dnia 15 listopada, według stanu na dzień 31 października, informację dotyczącą:
+1. Do zakończenia realizacji inwestycji nabywca albo użytkownik wieczysty nieruchomości z Zasobu przedkłada corocznie Prezesowi KZN do dnia 15 listopada, według stanu na dzień 31 października, informację dotyczącą:
 
 - **1)** postępów prowadzonych robót budowlanych;
-- **2)** liczby zawartych umów najmu, tym umów najmu z opcją;
-- **3)** liczby umów najmu, które zostały zawarte przy zastosowaniu kryteriów pierwszeństwa, o których mowa art. 56 ust. 3;
-- **4)** powierzchni użytkowej mieszkań, z podziałem na mieszkania na wynajem,
-- **5)** powierzchni użytkowej mieszkań utworzonych ramach inwestycji mieszkaniowej realizowanej na nieruchomości, o której mowa art. 53 ust. 1 lub 2, i udziału tej powierzchni powierzchni użytkowej wszystkich lokali znajdujących się budynku objętym tą inwestycją;
-- **6)** powierzchni użytkowej mieszkań utworzonych ramach inwestycji mieszkaniowej realizowanej na nieruchomości, o której mowa art. 53 ust. 1 lub 2, użytkowanych na zasadach najmu i udziału tej powierzchni powierzchni użytkowej mieszkań, o których mowa pkt 5;
-- **7)** wysokości czynszu najmu bez opcji oraz czynszu najmu z opcją, wysokości comiesięcznej raty za cenę mieszkania, przy założeniu 30-letniego terminu spłaty, i ceny 1 m powierzchni użytkowej mieszkania na wynajem;
-- **8)** wypełnienia zobowiązań wynikających z dodatkowych kryteriów oceny ofert, o których mowa art. 54 ust. 1 pkt 11 lit. b, mających wpływ na wynik przetargu.
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** powierzchni użytkowej mieszkań, z podziałem na mieszkania na wynajem;
+- **5)** powierzchni użytkowej mieszkań utworzonych ramach inwestycji mieszkaniowej realizowanej na nieruchomości zbytej lub oddanej użytkowanie wieczyste; mieszkaniowej realizowanej na nieruchomości zbytej lub oddanej użytkowanie wieczyste użytkowanych na zasadach najmu i udziału tej powierzchni powierzchni użytkowej mieszkań, o których mowa pkt 5;
+- **7)** (uchylony)
+- **8)** wykonania zobowiązań mających wpływ na wynik przetargu.
 
-2. Obowiązki informacyjne wynikające z ust. 1 realizowane są przez operatorów mieszkaniowych do czasu zakończenia realizacji umów zawartych z KZN.
+2. (uchylony)
 
-3. Kontroli stosowanych stawek czynszu nie przeprowadza się po upływie 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej.
+3. (uchylony)
 
-4. W przypadku mieszkań, dla których zawarto umowę najmu z opcją, termin, o którym mowa ust. 3, wynosi 30 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej, chyba że przed upływem tego terminu wszystkie mieszkania na wynajem, dla których zawarto umowę najmu z opcją, zostały nabyte przez najemców.
+4. (uchylony)
 
-5. Po przeniesieniu przez operatora mieszkaniowego własności ostatniego mieszkania na wynajem z opcją na najemcę kontroli nie przeprowadza się. niego upoważnionej.
+5. (uchylony)
+
+**Art. 102.**
+
+1. Czynności kontrolne są wykonywane bezpośrednio przez pracowników Biura na podstawie upoważnienia do wykonywania tych czynności wydanego przez Prezesa KZN, obecności nabywcy albo użytkownika wieczystego nieruchomości z Zasobu lub osoby przez niego upoważnionej.
 
 2. Upoważnienie, o którym mowa ust. 1, zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, miejsce i zakres wykonywania tych czynności oraz podstawę prawną do ich wykonywania.
 
@@ -1419,140 +1314,21 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 **Art. 103.** Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:
 
-**Art. 104.** W stosunku do osób upoważnionych do przeprowadzania kontroli operator mieszkaniowy ma obowiązek:
-
 **Art. 105.**
 
 1. Osoba wykonująca czynności kontrolne sporządza pisemny raport z tych czynności.
 
-2. Raport, o którym mowa ust. 1, jest sporządzany dwóch egzemplarzach i podpisywany przez osobę wykonującą czynności kontrolne oraz operatora mieszkaniowego lub osobę przez niego upoważnioną.
+2. Raport, o którym mowa ust. 1, jest sporządzany dwóch egzemplarzach i podpisywany przez osobę wykonującą czynności kontrolne oraz nabywcę albo użytkownika wieczystego nieruchomości z Zasobu lub osobę przez niego upoważnioną.
 
-3. W przypadku odmowy podpisania raportu, o którym mowa ust. 1, przez operatora mieszkaniowego lub osobę przez niego upoważnioną raport jest podpisywany przez osobę wykonującą czynności kontrolne, która dokonuje raporcie adnotacji o odmowie podpisania.
+3. W przypadku odmowy podpisania raportu, o którym mowa ust. 1, przez nabywcę albo użytkownika wieczystego nieruchomości z Zasobu lub osobę przez niego upoważnioną raport jest podpisywany przez osobę wykonującą czynności kontrolne, która dokonuje nim adnotacji o odmowie podpisania.
 
 4. Raport, o którym mowa ust. 1, jest przekazywany przez osobę wykonującą czynności kontrolne Prezesowi KZN niezwłocznie po jego sporządzeniu.
 
-**Art. 106.** Prezes KZN sporządza kwartalne sprawozdania z wykonanych czynności kontrolnych do końca miesiąca następującego po kwartale, którego dotyczy sprawozdanie.
+**Art. 106.** Prezes KZN sporządza kwartalne sprawozdania z wykonanych czynności kontrolnych do końca miesiąca następującego po kwartale, którego dotyczy sprawozdanie. kwartalne sprawozdania z wykonanych czynności kontrolnych nie później niż po upływie 45 dni po kwartale, którego dotyczy sprawozdanie. 2. Prezes KZN przedstawia ministrowi właściwemu do spraw rozwoju regionalnego kwartalne sprawozdania z wykonanych czynności kontrolnych, zatwierdzone przez Radę Nadzorczą, nie później niż po upływie 60 dni po kwartale, którego dotyczy sprawozdanie.
 
-**Art. 107.**
-
-1. Prezes KZN przedstawia Radzie Nadzorczej do zatwierdzenia kwartalne sprawozdania z wykonanych czynności kontrolnych nie później niż po upływie 45 dni po kwartale, którego dotyczy sprawozdanie.
-
-2. Prezes KZN przedstawia ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa kwartalne sprawozdania z wykonanych czynności kontrolnych, zatwierdzone przez Radę Nadzorczą, nie później niż po upływie 60 dni po kwartale, którego dotyczy sprawozdanie.
-
-#### Rozdział 9 Administracyjne kary pieniężne
-
-**Art. 108.** Kto:
-
-**Art. 109.**
-
-1. Administracyjną karę pieniężną nakłada, drodze decyzji, Prezes KZN.
-
-2. Odwołanie od decyzji przysługuje do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-**Art. 110.**
-
-1. Wysokość administracyjnej kary pieniężnej ustala się jako:
-
-- **1)** przypadku, o którym mowa art. 108 pkt 1, iloczyn, wyrażonej metrach kwadratowych, powierzchni mieszkań, co do których zawarto umowy najmu z pominięciem kryteriów pierwszeństwa, oraz 2-krotności maksymalnej wysokości czynszu normowanego bez opcji za 1 m mieszkania na wynajem za każdy dzień niezgodności trwania umowy najmu zawartej z pominięciem kryteriów pierwszeństwa;
-- **2)** przypadku, o którym mowa art. 108 pkt 2, iloczyn, wyrażonej metrach kwadratowych, powierzchni mieszkań, co do których, umowach najmu, ustalono stawki czynszu normowanego lub opłaty eksploatacyjnej przekraczające maksymalną ich wysokość, przypadku czynszu normowanego wynikającą z przepisów wydanych na podstawie art. 82 ust. 6, a przypadku opłaty eksploatacyjnej określoną art. 82 ust. 3 lub wynikającą z przepisów wydanych na podstawie art. 82 ust. 7, oraz 2-krotności maksymalnej wysokości czynszu normowanego bez opcji za 1 m mieszkania na wynajem za każdy dzień, dla którego ustalono takie stawki;
-- **3)** przypadku, o którym mowa art. 108 pkt 3, iloczyn, wyrażonej metrach kwadratowych, powierzchni mieszkań, co do których, umowach najmu z opcją, ustalono wysokość raty sposób przekraczający maksymalną jej wysokość wynikającą z przepisów wydanych na podstawie art. 82 ust. 6, oraz 2-krotności maksymalnej wysokości czynszu normowanego bez opcji za 1 m mieszkania na wynajem za każdy dzień, dla którego ustalono taką wysokość raty;
-- **4)** przypadku, o którym mowa art. 108 pkt 4, iloczyn, wyrażonej metrach kwadratowych, różnicy między powierzchnią użytkową mieszkań na wynajem wynikającą z zobowiązań ujętych umowie i powierzchnią użytkową mieszkań faktycznie przeznaczonych na wynajem oraz 2-krotności maksymalnej wysokości czynszu normowanego bez opcji za 1 m mieszkania na wynajem za każde 30 dni niezgodności z ustawą;
-- **5)** przypadku, o którym mowa art. 108 pkt 5, iloczyn, wyrażonej metrach kwadratowych, różnicy między powierzchnią użytkową lokali innych niż mieszkania wynikającą z zobowiązań ujętych umowie i faktyczną powierzchnią użytkową lokali innych niż mieszkania oraz 2-krotności maksymalnej wysokości czynszu normowanego bez opcji za 1 m mieszkania na wynajem za każde 30 dni niezgodności z ustawą;
-- **6)** przypadku, o którym mowa art. 108 pkt 6, iloczyn, wyrażonej metrach kwadratowych, różnicy między powierzchnią użytkową kondygnacji nadziemnych niewyodrębnionej na lokale wynikającą z zobowiązań ujętych umowie i faktyczną powierzchnią użytkową tych kondygnacji oraz 2-krotności maksymalnej wysokości czynszu normowanego bez opcji za 1 m mieszkania na wynajem za każde 30 dni niezgodności z ustawą;
-- **7)** przypadku, o którym mowa art. 108 pkt 7, iloczyn, wyrażonej metrach kwadratowych, powierzchni mieszkań, co do których utrudniano lub uniemożliwiano najemcom zawieranie umów przenoszących własność mieszkań, mimo zawarciem;
-- **8)** przypadku, o którym mowa art. 108 pkt 8 i 9, iloczyn, wyrażonej metrach kwadratowych, powierzchni mieszkań na wynajem, wynikający z zobowiązań ujętych umowie, których dotyczy niewypełnienie obowiązków, oraz 2-krotności maksymalnej wysokości czynszu normowanego bez opcji za 1 m mieszkania na wynajem;
-- **9)** przypadku, o którym mowa art. 108 pkt 10, iloczyn, wyrażonej metrach kwadratowych, powierzchni mieszkań na wynajem, wynikający z zobowiązań ujętych umowie, których dotyczy utrudnianie lub uniemożliwianie przeprowadzenia czynności kontrolnych, oraz 2-krotności maksymalnej wysokości czynszu normowanego bez opcji za 1 m mieszkania na wynajem.
-
-2. Przed wydaniem decyzji, o której mowa art. 109 ust. 1, Prezes KZN wzywa operatora mieszkaniowego do usunięcia naruszeń, wyznaczając jednocześnie termin ich usunięcia.
-
-3. Termin, o którym mowa ust. 2, nie może być krótszy niż 30 dni od dnia doręczenia wezwania.
-
-4. Po bezskutecznym upływie terminu, o którym mowa ust. 2, Prezes KZN wydaje decyzję, o której mowa art. 109 ust. 1.
-
-5. Administracyjną karę pieniężną, o której mowa ust. 1 pkt 1–7, wymierza się od dnia upływu terminu, o którym mowa ust. 2, do dnia usunięcia naruszenia, nie dłużej jednak niż przez 15 lat od dnia zawarcia pierwszej umowy najmu dla danej inwestycji mieszkaniowej.
-
-**Art. 111.**
-
-1. Administracyjna kara pieniężna stanowi dochód budżetu państwa.
-
-2. W sprawach nieuregulowanych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768, 935 i 1428), z tym że uprawnienia organów podatkowych przysługują wójtowi (burmistrzowi, prezydentowi miasta). Przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego dotyczących kar nie stosuje się.
+#### Rozdział 9
 
 #### Rozdział 10 Zmiany przepisach obowiązujących
-
-**Art. 112.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2016 r. poz. 617 i 1579 oraz z 2017 r. poz. 624 i 1282) art. 12 ust. 2 pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 brzmieniu: „7) Krajowy Zasób Nieruchomości, zakresie nieruchomości wchodzących skład Zasobu Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529).”.
-
-**Art. 113.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2016 r. poz. 716, 1579 i 1923 oraz z 2017 r. poz. 624, 1282 i 1428) art. 2 dodaje się ust. 4 brzmieniu: „4. Opodatkowaniu podatkiem od nieruchomości nie podlegają również nieruchomości stanowiące własność Skarbu Państwa, które wchodzą skład Zasobu Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529).”.
-
-**Art. 114.** W ustawie z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2015 r. poz. 1892) wprowadza się następujące zmiany:
-
-**Art. 116.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147 i 2260 oraz z 2017 r. poz. 624, 820 i 1509) wprowadza się następujące zmiany:
-
-**Art. 117.** W ustawie z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2017 r. poz. 680) art. 39 po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Nieruchomości PKP SA mogą być:
-
-**Art. 119.** W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2016 r. poz. 1610 oraz z 2017 r. poz. 1442) wprowadza się następujące zmiany:
-
-**Art. 19f.**
-
-1. Umową najmu instytucjonalnego lokalu jest umowa najmu lokalu mieszkalnego zawierana przez osobę fizyczną, osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, prowadzącą działalność gospodarczą zakresie wynajmowania lokali.
-
-2. Umowa najmu instytucjonalnego lokalu zawierana jest na czas oznaczony. Przepisu art. 661 § 1 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132) nie stosuje się.
-
-3. Do umowy najmu instytucjonalnego lokalu załącza się oświadczenie najemcy formie aktu notarialnego, którym najemca poddał się egzekucji i zobowiązał się do opróżnienia i wydania lokalu używanego na podstawie umowy najmu instytucjonalnego lokalu terminie wskazanym żądaniu, o którym mowa art. 19i ust. 3, oraz przyjął do wiadomości, że razie konieczności wykonania powyższego zobowiązania prawo do lokalu socjalnego ani pomieszczenia tymczasowego nie przysługuje. opróżnienia lokalu oraz ewentualnych kosztów egzekucji obowiązku opróżnienia lokalu.
-
-5. Kaucja nie może przekraczać trzykrotności miesięcznego czynszu za dany lokal, obliczonego według stawki czynszu obowiązującej dniu zawarcia umowy najmu instytucjonalnego lokalu.
-
-6. Kaucja podlega zwrotowi ciągu miesiąca od dnia opróżnienia lokalu, po potrąceniu należności właściciela, o których mowa ust. 4.
-
-**Art. 19g.**
-
-1. Umowa najmu instytucjonalnego lokalu oraz zmiany tej umowy wymagają formy pisemnej pod rygorem nieważności.
-
-2. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy sporządzeniu oświadczenia, o którym mowa art. 19f ust. 3, wynosi nie więcej niż maksymalna kwota czynszu normowanego bez opcji za 1 m mieszkania na wynajem, o którym mowa przepisach ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, określona dla miasta stołecznego Warszawy.
-
-**Art. 19h.**
-
-1. Z tytułu najmu instytucjonalnego lokalu, oprócz czynszu, właściciel pobiera jedynie opłaty niezależne od właściciela, chyba że umowa stanowi inaczej.
-
-2. Właściciel może podwyższyć czynsz wyłącznie zgodnie z warunkami określonymi umowie.
-
-**Art. 19i.**
-
-1. Umowa najmu instytucjonalnego lokalu wygasa po upływie czasu, na jaki była zawarta, lub ulega rozwiązaniu po upływie okresu wypowiedzenia tej umowy.
-
-2. Po wygaśnięciu lub rozwiązaniu umowy najmu instytucjonalnego lokalu, jeżeli najemca dobrowolnie nie opróżnił lokalu, właściciel doręcza najemcy żądanie opróżnienia lokalu sporządzone na piśmie opatrzonym urzędowo poświadczonym podpisem właściciela.
-
-3. Żądanie opróżnienia lokalu zawiera szczególności:
-
-- **1)** oznaczenie właściciela oraz najemcy, którego żądanie dotyczy;
-- **2)** wskazanie umowy najmu instytucjonalnego lokalu i przyczynę ustania stosunku z niej wynikającego;
-- **3)** termin, nie krótszy niż 14 dni od dnia doręczenia żądania najemcy, którym najemca i osoby z nim zamieszkujące mają opróżnić lokal.
-
-4. Wynajmujący może powoływać się tylko na przyczyny ustania stosunku najmu wskazane piśmie, o którym mowa ust. 3.
-
-5. W przypadku bezskutecznego upływu terminu, o którym mowa ust. 3 pkt 3, właściciel składa do sądu wniosek o nadanie klauzuli wykonalności aktowi notarialnemu, o którym mowa art. 19f ust. 3.
-
-6. Do wniosku, o którym mowa ust. 5, załącza się:
-
-- **1)** żądanie opróżnienia lokalu wraz z dowodem jego doręczenia najemcy albo dowodem wysłania go przesyłką poleconą;
-- **2)** dokument potwierdzający przysługujący właścicielowi tytuł prawny do lokalu, którego opróżnienia dotyczy żądanie właściciela.
-
-**Art. 19j.** Do najmu instytucjonalnego lokalu stosuje się przepisy art. 2, art. 6 ust. 3, art. 10 ust. 1–3, art. 11 ust. 2 pkt 1–3, art. 13, art. 18 ust. 1 i 2 oraz art. 25d pkt 4.”;
-
-**Art. 120.** W ustawie z dnia 30 października 2002 r. o podatku leśnym (Dz. U. z 2016 r. poz. 374 i 1579 oraz z 2017 r. poz. 624 i 1282) art. 7 ust. 2 pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 brzmieniu: „7) Krajowy Zasób Nieruchomości, zakresie nieruchomości wchodzących skład Zasobu Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529).”.
-
-**Art. 121.** W ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2017 r. poz. 650) art. 5 ust. 2 po pkt 4 dodaje się pkt 4a brzmieniu: „4a) środki przekazane przez Krajowy Zasób Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529);”. „8) wydanie zaświadczenia przez Prezesa Krajowego Zasobu Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529), sprawach z zakresu wykonywania zadań własnych.”.
-
-**Art. 123.** W ustawie z dnia 5 września 2008 r. o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska” (Dz. U. poz. 1109, z 2012 r. poz. 1529, z 2013 r. poz. 1036 oraz z 2016 r. poz. 2260) art. 17 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Nieruchomości Spółki mogą być zbywane trybie bezprzetargowym według ceny rynkowej na rzecz Skarbu Państwa celu włączenia do Zasobu Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529).”.
-
-**Art. 124.** W ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów (Dz. U. z 2017 r. poz. 130) art. 24 ust. 1 po pkt 1 dodaje się pkt 1a brzmieniu: „1a) środki przekazane przez Krajowy Zasób Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529);”.
-
-**Art. 125.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm. ) art. 274 ust. 1 pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 brzmieniu: „9) Krajowym Zasobie Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529).”.
-
-**Art. 126.** W ustawie z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2016 r. poz. 1537, 1920 i 2003) art. 35a ust. 1 pkt 3 na końcu dodaje się przecinek i dodaje się pkt 4 brzmieniu: „4) Prezesa Krajowego Zasobu Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529)”.
-
-**Art. 127.** W ustawie z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2017 r. poz. 1023) art. 17 ust. 2 pkt 4 lit. a dodaje się tiret dziesiąte brzmieniu: „– Krajowy Zasób Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529) zakresie sposobu zagospodarowania oraz przedsięwzięć związanych z nieruchomościami wchodzącymi skład Zasobu Nieruchomości,”.
-
-**Art. 128.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2259 oraz z 2017 r. poz. 624 i 1491) art. 5 dodaje się ust. 3 brzmieniu: „3. Państwowe osoby prawne mogą zbywać nieruchomości trybie bezprzetargowym według ceny odpowiadającej cenie rynkowej na rzecz Skarbu Państwa celu włączenia do Zasobu Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. poz. 1529).”.
 
 #### Rozdział 11 Przepisy dostosowujące, przejściowe i końcowe
 
@@ -1566,19 +1342,13 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 3. Do dnia powołania Prezesa KZN Pełnomocnik wykonuje zadania, o których mowa ust. 1, przy pomocy komórki organizacyjnej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa właściwej sprawach mieszkalnictwa.
 
-5. Z chwilą powołania Prezesa KZN Pełnomocnik kończy swoją działalność.
+4. Do zadań Pełnomocnika należy zorganizowanie KZN, zatrudnienie pracowników oraz podjęcie innych czynności niezbędnych do rozpoczęcia działalności przez KZN.
 
-6. Pełnomocnik okresie sprawowania funkcji wykonuje zadania Prezesa KZN oraz dyrektora Biura KZN na zasadach określonych ustawie.
+5. Z chwilą powołania Prezesa KZN Pełnomocnik kończy swoją działalność. oraz dyrektora Biura KZN na zasadach określonych ustawie.
 
 7. Nadzór nad działalnością Pełnomocnika sprawuje minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 
-**Art. 131.**
-
-1. Prezes Rady Ministrów na wniosek ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa powołuje pierwszego Prezesa KZN.
-
-2. Do powołania, o którym mowa ust. 1, nie stosuje się przepisów art. 36 ust. 1 oraz art. 37 ust. 2–12.
-
-3. Prezes KZN powołany trybie, o którym mowa ust. 1, pełni funkcję nie dłużej niż 3 lata od dnia powołania.
+**Art. 131.** (uchylony)
 
 **Art. 132.**
 
@@ -1586,32 +1356,24 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 2. Do pierwszego naboru pracowników Biura KZN nie stosuje się przepisów art. 42.
 
-**Art. 133.**
-
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wyposaży KZN środki trwałe, wartości niematerialne i prawne oraz inne składniki aktywów niezbędne do rozpoczęcia przez niego działalności.
-
-2. Środki na pokrycie wyposażenia KZN środki trwałe, wartości niematerialne i prawne oraz inne składniki aktywów niezbędne do rozpoczęcia przez niego działalności 2017 roku pochodzą z rezerwy celowej budżetu państwa, część 83, poz. 65 rezerwa na sfinansowanie wypłat z Funduszu Dopłat wsparcia dla nabywców lokali mieszkalnych albo domów jednorodzinnych Mieszkanie dla Młodych (MdM), oraz 200 000 tys. zł na realizację „Narodowego Programu Mieszkaniowego”.
-
-3. Koszty organizacji i funkcjonowania KZN, począwszy od 2018 r., tym wydatki na wynagrodzenia pracowników, oraz koszty realizacji zadań KZN ponoszone do czasu osiągnięcia przez KZN przychodów niezbędnych do pokrycia powyższych kosztów pokrywane będą z rezerwy celowej budżetu państwa.
-
-4. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa informuje KZN o zaprzestaniu finansowania kosztów, o których mowa ust. 3, po ustaleniu, na podstawie analizy kwartalnych sprawozdań z realizacji planu finansowego KZN, że zachodzą przesłanki, o których mowa ust. 3. Analiza, o której mowa zdaniu pierwszym, sporządzana jest terminie 60 dni od dnia otrzymania sprawozdania.
+**Art. 133.** (uchylony)
 
 **Art. 134.** Pełnomocnik terminie miesiąca od dnia wejścia życie niniejszego artykułu sporządza i przedstawia do zatwierdzenia ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa projekt planu finansowego KZN na okres od dnia wejścia życie ustawy do dnia 31 grudnia 2017 r.
 
-**Art. 135.** Prezes KZN, nie później niż terminie 2 miesięcy od dnia powołania, przedstawia Radzie Nadzorczej do uchwalenia pierwszy, po utworzeniu KZN, program gospodarowania Zasobem, uzgodniony z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+**Art. 135.** Prezes KZN, nie później niż terminie 2 miesięcy od dnia powołania, przedstawia Radzie Nadzorczej do uchwalenia pierwszy, po utworzeniu KZN, program gospodarowania nieruchomościami wchodzącymi skład Zasobu, uzgodniony z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 
 **Art. 136.**
 
 1. Starostowie wykonujący zadania z zakresu administracji rządowej oraz prezydenci miast na prawach powiatu wykonujący zadania z zakresu administracji rządowej sporządzają pierwsze wykazy nieruchomości, o których mowa art. 10 ust. 1, i przekazują je wojewodom właściwym ze względu na miejsce położenia nieruchomości terminie:
 
-- **1)** 60 dni od dnia wejścia życie ustawy przypadku wykazów nieruchomości, o których mowa art. 10 ust. 1 pkt 1;
-- **2)** 180 dni od dnia wejścia życie ustawy przypadku wykazów nieruchomości, o których mowa art. 10 ust. 1 pkt 2.
+- **1)** 60 dni od dnia wejścia życie ustawy – przypadku wykazów nieruchomości, o których mowa art. 10 ust. 1 pkt 1;
+- **2)** 180 dni od dnia wejścia życie ustawy – przypadku wykazów nieruchomości, o których mowa art. 10 ust. 1 pkt 2.
 
-2. Terminy, o których mowa ust. 1, stosuje się odpowiednio przypadku przekazania do KZN pierwszych wykazów nieruchomości, o których mowa art. 10 ust. 1, przez Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, Prezesa Agencji Mienia Wojskowego oraz Dyrektora Generalnego Lasów Państwowych.
+2. Terminy, o których mowa ust. 1, stosuje się odpowiednio przypadku przekazania do KZN pierwszych wykazów nieruchomości, o których mowa Rolnictwa, Prezesa Agencji Mienia Wojskowego oraz Dyrektora Generalnego Lasów Państwowych.
 
 3. Do sporządzenia pierwszych wykazów nieruchomości, o których mowa art. 10 ust. 1, stosuje się wzór określony przepisach wydanych na podstawie art. 17.
 
-4. Wojewodowie, a odniesieniu do pierwszych wykazów nieruchomości, o których mowa art. 10 ust. 1, sporządzonych przez właściwe organy, o których mowa ust. 2, Prezes KZN dokonują sprawdzenia wykazów nieruchomości
+4. Wojewodowie, a odniesieniu do pierwszych wykazów nieruchomości, o których mowa art. 10 ust. 1, sporządzonych przez właściwe organy, o których mowa ust. 2, Prezes KZN dokonują sprawdzenia wykazów nieruchomości pod względem zgodności i kompletności danych określonych przepisach wydanych na podstawie art. 17 terminie 30 dni od dnia otrzymania wykazu.
 
 5. W przypadku stwierdzenia niekompletności lub niezgodności pierwszego wykazu nieruchomości, o którym mowa art. 10 ust. 1, przekazanego zgodnie z ust. 1 lub 2, albo niedołączenia opinii, o której mowa art. 11 lub art. 12 ust. 1, wojewoda, a odniesieniu do wykazów sporządzonych przez właściwe organy, o których mowa ust. 2, Prezes KZN może żądać od tego organu uzupełnienia wykazu, wskazując termin i zakres uzupełnienia.
 
@@ -1621,9 +1383,7 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 8. Karę uiszcza się terminie 14 dni od dnia doręczenia decyzji, o której mowa ust. 6.
 
-9. W przypadku nieuiszczenia kary podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji.
-
-10. Odwołanie od decyzji, o której mowa ust. 6, przysługuje do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+9. W przypadku nieuiszczenia kary podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji. właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 
 11. Starostowie wykonujący zadania z zakresu administracji rządowej oraz prezydenci miast na prawach powiatu wykonujący zadania z zakresu administracji rządowej przekazują pierwsze wykazy nieruchomości, o których mowa art. 10 ust. 1, do KZN niezwłocznie po zatwierdzeniu tych wykazów przez wojewodów.
 
@@ -1631,11 +1391,11 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 1. Do spraw wszczętych i niezakończonych przed dniem wejścia życie ustawy stosuje się przepisy dotychczasowe.
 
-2. Do umów najmu okazjonalnego, o którym mowa art. 19a ustawy zmienianej art. 119, zawartych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+2. Do umów najmu okazjonalnego, o którym mowa art. 19a ustawy zmienianej art. 119 , zawartych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-3. Do zgłoszeń, o których mowa art. 30 ustawy zmienianej art. 115, dokonanych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+3. Do zgłoszeń, o których mowa art. 30 ustawy zmienianej art. 115 , dokonanych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 138.** Do projektów gminnych programów rewitalizacji, wobec których uchwałę o przystąpieniu do sporządzenia programu podjęto po dniu wejścia życie niniejszej ustawy, stosuje się przepis art. 17 ust. 2 pkt 4 lit. a ustawy zmienianej art. 127, brzmieniu nadanym niniejszą ustawą.
+**Art. 138.** Do projektów gminnych programów rewitalizacji, wobec których uchwałę o przystąpieniu do sporządzenia programu podjęto po dniu wejścia życie niniejszej ustawy, stosuje się przepis art. 17 ust. 2 pkt 4 lit. a ustawy zmienianej art. 127 , brzmieniu nadanym niniejszą ustawą.
 
 **Art. 139.** Do dnia 31 sierpnia 2017 r. uprawnienia, zadania i obowiązki przewidziane przepisami niniejszej ustawy dla Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa realizuje Prezes Agencji Nieruchomości Rolnych.
 
@@ -1643,24 +1403,25 @@ o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Kon
 
 1. Maksymalny limit środków budżetu państwa, do wysokości których mogą być udzielone KZN dotacje, o których mowa art. 43 ust. 2 pkt 2 i art. 46 ust. 1 pkt 1 i 2, nie może przekroczyć poszczególnych latach:
 
-- **1)** 2017 r. 25 mln zł;
-- **2)** 2018 r. 125 mln zł;
-- **3)** 2019 r. 50 mln zł;
-- **4)** 2020 r. 0 mln zł;
-- **5)** 2021 r. 0 mln zł;
-- **6)** 2022 r. 0 mln zł;
-- **7)** 2023 r. 0 mln zł;
-- **8)** 2024 r. 0 mln zł;
-- **9)** 2025 r. 0 mln zł;
-- **10)** 2026 r. 0 mln zł.
+- **1)** 2017 r. – 25 mln zł;
+- **2)** 2018 r. – 125 mln zł;
+- **3)** 2019 r. – 50 mln zł;
+- **5)** 2021 r. – 0 mln zł;
+- **6)** 2022 r. – 0 mln zł;
+- **7)** 2023 r. – 0 mln zł;
+- **8)** 2024 r. – 0 mln zł;
+- **9)** 2025 r. – 0 mln zł;
+- **10)** 2026 r. – 0 mln zł.
 
-2. W budżecie państwa tworzy się rezerwę celową na sfinansowanie wydatków, o których mowa ust. 1.
+2. (uchylony)
 
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, oraz wdraża mechanizm korygujący, o którym mowa ust. 4. jąca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału, została przekroczona:
+3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, oraz wdraża mechanizm korygujący, o którym mowa ust. 4.
 
-- **1)** po pierwszym kwartale co najmniej o 20%,
-- **2)** po dwóch kwartałach co najmniej o 15%,
-- **3)** po trzech kwartałach co najmniej o 10% minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zobowiązuje Prezesa KZN do stosowania mechanizmu korygującego polegającego na obniżeniu kosztów realizacji zadań przez KZN.
+4. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego ust. 1 oraz przypadku gdy część planowanych wydatków, o których mowa ust. 1, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału, została przekroczona:
 
-**Art. 141.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 4 ust. 6, art. 17, art. 129, art. 130, art. 132–134 i art. 140, które wchodzą życie dniu następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+- **1)** po pierwszym kwartale – co najmniej o 20 %,
+- **2)** po dwóch kwartałach – co najmniej o 15 %,
+- **3)** po trzech kwartałach – co najmniej o 10 % – minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zobowiązuje Prezesa KZN do stosowania mechanizmu korygującego polegającego na obniżeniu kosztów realizacji zadań przez KZN.
+
+**Art. 141.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 4 ust. 6, art. 17, art. 129, art. 130, art. 132–134 i art. 140, które wchodzą życie dniu następującym po dniu ogłoszenia.
 

@@ -8,9 +8,12 @@ pos: 720
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 grudnia 1996 r.
+# o zmianie ustawy o kontroli skarbowej i niektórych innych ustaw
+
+*USTAWA z dnia 7 listopada 1996 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,390 +27,345 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961520720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/720/text.pdf) |
 
-Poz.: 719
-USTAWA z dnia 24 1996 r.
-o zmianie ustawy o do oprocentowania niektórych kredytów bankowych.
-
-**Art. 1.** W ustawie z dnia 5 stycznia 1995 r. o tach do oprocentowania niektórych kredytów banko wych (Dz. U. 13, poz. 60 i 83, poz. 418) wart. 6 w ust. 1 i 2 wyrazy "stopy oprocentowania kredytu re dyskontowego" skontowej weksli przyjmowanych od banków do redy skonta przez Narodowy Bank Polski". Art. wyrazami "stopy redy2. Ustawa wchodzi w po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: A. USTAWA z dnia 7 listopada 1996 r. o zmianie ustawy o kontroli skarbowej i niektórych innych ustaw.
-
-**Art. 1.** W ustawie z dnia 28 1991 r. o kon troli skarbowej (Dz. U. 100, poz. 442, z 1992 r. 21, poz. 85 i z 1996 r. 106, poz. 496) wprowadza na zmiany: wart. 2:
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz.U. Nr 100, poz. 442, z 1992 r. Nr 21, poz. 85 i z 1996 r. Nr 106, poz. 496) wprowadza się następujące zmiany:
 
 **Art. 14.**
 
-1. faktyczne uzasad niezwtoczne kontroli, po kontrolne po okazaniu legitymacji bowej osobom wymienionym wart. 13 ust. 1 i 2.
+1. Jeżeli okoliczności faktyczne uzasadniają niezwłoczne podjęcie kontroli, postępowanie kontrolne może być wszczęte po okazaniu legitymacji służbowej osobom wymienionym w art. 13 ust. 1 i 2.
 
-2. W przypadku, o którym mowa w ust. 1, kontrolowanemu niezwtocznie do przeprowa dzenia kontroli oraz zawiadomienie o kontrolne go; niedopetnienie tych powoduje kontrolnego. O przepro wadzonego kontrolnego informuje kontrolowanego, a mate riaty z kontroli zniszczone.
+2. W przypadku, o którym mowa w ust. 1, kontrolowanemu należy niezwłocznie doręczyć upoważnienie do przeprowadzenia kontroli oraz zawiadomienie o wszczęciu postępowania kontrolnego; niedopełnienie tych obowiązków powoduje nieważność postępowania kontrolnego. O nieważności przeprowadzonego postępowania kontrolnego informuje się kontrolowanego, a materiały pochodzące z kontroli zostają zniszczone.
 
-3. kontrolnych dokonuje w kontrolowanego; w przy padku jego przepis art. 13 ust. 2 stosuje odpowiednio. ustalenie danych kontrolowanego jest przedstawienia dokumen tów, o których mowa w ust. 2, dokonu je po ustaleniu tych danych.
+3. Czynności kontrolnych dokonuje się w obecności kontrolowanego; w przypadku jego nieobecności przepis art. 13 ust. 2 stosuje się odpowiednio. niemożliwe, przedstawienia dokumentów, o których mowa w ust. 2, dokonuje się po ustaleniu tych danych.
 
-5. Inspektor nie, w okresie 14 dni od nie ustali danych ozna kontrolo wanego. Z tych samych przyczyn in spektor od co najmniej 30 dni; umorzone jednak w czasie, gdy ustali w stosunku do której prowa dzone kontrolne.
+5. Inspektor może zawiesić postępowanie, jeżeli w okresie 14 dni od wszczęcia postępowania nie ustali danych oznaczających (identyfikujących) kontrolowanego. Z tych samych przyczyn inspektor może umorzyć postępowanie, jeżeli od wszczęcia postępowania upłynęło co najmniej 30 dni; postępowanie umorzone może być jednak podjęte w każdym czasie, gdy ustali się osobę, w stosunku do której może być prowadzone postępowanie kontrolne.
 
 **Art. 15.**
 
-1. Inspektor ma kon trolowanego z jego prawami i kami z ustawy; kontrolo wany potwierdza podpisem na zawia domieniu o z tymi prawami i obo
+1. Inspektor ma obowiązek zapoznać kontrolowanego z jego prawami i obowiązkami wynikającymi z ustawy; kontrolowany potwierdza podpisem na zawiadomieniu o wszczęciu postępowania, że zapoznał się z tymi prawami i obowiązkami.
 
-2. Kontrolowany ma na w dniu wania kontrolnego, do w jego imieniu, cza w czasie jego
+2. Kontrolowany ma obowiązek wskazać na piśmie, w dniu wszczęcia postępowania kontrolnego, osobę upoważnioną do działania w jego imieniu, zwłaszcza w czasie jego nieobecności.
 
 **Art. 16.**
 
-1. kontrolne prowadzone przede wszystkim w siedzibie kontrolo wanego oraz w innych miejscach zanych z przez niego dzia i w godzinach jej prowadze nia.
+1. Czynności kontrolne prowadzone są przede wszystkim w siedzibie kontrolowanego oraz w innych miejscach związanych z prowadzoną przez niego działalnością i w godzinach jej prowadzenia.
 
-2. Przepis ust. 1 stosuje w przypadku, gdy kontrolowany prowa dzi w lokalu mieszkalnym.
+2. Przepis ust. 1 stosuje się również w przypadku, gdy kontrolowany prowadzi działalność w lokalu mieszkalnym.
 
-3. Na inspektora kontrolowany jest o stanie wym na z cego wynika, nie wszystkich obrotów lub przy chodów istotne znaczenie do ustalenia po datkowego; do tych stosuje przepis art. 247 Kodeksu karnego, o czym kontrolowane go.
+3. Na żądanie inspektora kontrolowany będący osobą fizyczną jest obowiązany złożyć oświadczenie o stanie majątkowym na określony dzień, jeżeli z toczącego się postępowania wynika, że nie ujawnił wszystkich obrotów lub przychodów mających istotne znaczenie do ustalenia wysokości zobowiązania podatkowego; do oświadczeń tych stosuje się przepis art. 247 Kodeksu karnego, o czym należy pouczyć kontrolowanego.
 
-4. Inspektor za prokuratora, kontrolnych w lo kalu, w którym zamieszkuje osoba fi zyczna do uiszczenia nao których mowa wart.2 ust. 1 pkt 1 i la, w razie cia wiarygodnych oso ba ta nie przycho dów do opodatkowania lub je w Z tych który wymaga zatwierdzenia przez prokuratora. Przepi sy Kodeksu karnego o przeszukaniu clo Policji zastosowanie do inspek torów.
+4. Inspektor może, za zgodą prokuratora, dokonywać czynności kontrolnych w lokalu, w którym zamieszkuje osoba fizyczna zobowiązana do uiszczenia należności pieniężnych, o których mowa w art. 2 ust. 1 pkt 1 i 1a, w razie powzięcia wiarygodnych wiadomości, że osoba ta nie zgłosiła osiąganych przychodów do opodatkowania lub zgłosiła je w niepełnej wysokości. Z czynności tych sporządza się protokół, który wymaga zatwierdzenia przez prokuratora. Przepisy Kodeksu postępowania karnego o przeszukaniu odnoszące się do Policji mają również zastosowanie do inspektorów.
 
 **Art. 17.**
 
-1. Kontrolowany jest inspektorowi dokonanie kontrolnych, a w
+1. Kontrolowany jest obowiązany umożliwić inspektorowi dokonanie czynności kontrolnych, a w szczególności:
 
-- **1)** obiekty, i których bada nie wchodzi w zakres kontroli skar bowej.
-- **2)** w i prowadzone ewidencje zakre sem kontroli,
-- **3)** kopie dokumentów okre przez
-- **4)** warunki do pracy, w tym, w samodzielne pomieszczenie i miejsce do przecho wywania dokumentów,
-- **5)** filmowanie i fotografowa nie oraz dokonywanie kowych, film, fotografia lub na granie dowód lub do utrwalenia dowodu w sprawie przedmiotem kontroli,
-- **6)** a w przypadku gdy kontrolowanym jest podmiot gospodarczy inne konieczne techniczne, ja kimi dysponuje w zakresie nym do wykonywania
-- **7)** na inspektora, tlumaczenie na polski dzonej w obcym dokumenta cji
-- **8)** na danie i w zakresie okre przez inspektora.
+- **1)** udostępnić obiekty, urządzenia i składniki majątkowe, których badanie wchodzi w zakres kontroli skarbowej,
+- **2)** zapewnić wgląd w dokumentację i prowadzone ewidencje objęte zakresem kontroli,
+- **3)** sporządzać kopie dokumentów określonych przez kontrolującego,
+- **4)** zapewnić warunki do pracy, w tym, w miarę możliwości, samodzielne pomieszczenie i miejsce do przechowywania dokumentów,
+- **5)** umożliwić filmowanie i fotografowanie oraz dokonywanie nagrań dźwiękowych, jeżeli film, fotografia lub nagranie może stanowić dowód lub przyczynić się do utrwalenia dowodu w sprawie będącej przedmiotem kontroli, gospodarczy - także inne konieczne środki techniczne, jakimi dysponuje w zakresie niezbędnym do wykonywania czynności kontrolnych,
+- **7)** przedstawić, na żądanie inspektora, tłumaczenie na język polski sporządzonej w języku obcym dokumentacji finansowo-księgowej,
+- **8)** przeprowadzić inwentaryzację na żądanie i w niezbędnym zakresie określonym przez inspektora.
 
-2. w ust. 1 kontrolo wany jest nieod
+2. Czynności określone w ust. 1 kontrolowany jest obowiązany wykonać nieodpłatnie.
 
-3. W przypadku gdy kontrolowany nie jest w stanie warunków pracy, o których mowa w ust. 1 pkt 4, jest obo na inspektora, stosowne ewidencje i dokumenty na czas trwania kontrolne·· go; w tym zakresie prze prowadzane w jednostce organizacyj nej kontroli skarbowej. Z wydania ewi dencji i dokumentów który podpisuje kon trolowany.
+3. W przypadku gdy kontrolowany nie jest w stanie zapewnić warunków pracy, o których mowa w ust. 1 pkt 4, jest obowiązany, na żądanie inspektora, wydać stosowne ewidencje i dokumenty na czas trwania postępowania kontrolnego; czynności w tym zakresie są przeprowadzane w jednostce organizacyjnej kontroli skarbowej. Z wydania ewidencji i dokumentów sporządza się protokół, który podpisuje również kontrolowany.
 
-4. W sprawach zakresem kontro li, kontrolowany ma w wy znaczonym terminie, wyja lub dokument inspektorowi lub innym osobom doko kontrolnych.
+4. W sprawach objętych zakresem kontroli, kontrolowany ma obowiązek, w wyznaczonym terminie, udzielić wyjaśnień lub dostarczyć żądany dokument inspektorowi lub innym osobom dokonującym czynności kontrolnych.
 
-5. Inspektor oraz osoby czyn kontrolnych uprawnione do oraz poruszania po terenie jednostki kontrolowanej na podstawie legitymacji bez potrzeby uzyskiwania przepustki, oraz nie podle rewizji osobistej przewidzianej w regulaminie tej jed nostki; natomiast przepisom o i higienie pracy obo w kontrolowanej jednost ce.
+5. Inspektor oraz osoby dokonujące czynności kontrolnych są uprawnione do wstępu oraz poruszania się po terenie jednostki kontrolowanej na podstawie legitymacji służbowej, bez potrzeby uzyskiwania przepustki, oraz nie podlegają rewizji osobistej przewidzianej w regulaminie wewnętrznym tej jednostki; podlegają natomiast przepisom o bezpieczeństwie i higienie pracy obowiązującym w kontrolowanej jednostce.
 
 **Art. 18.**
 
-1. W toku kontrolnego in spektor w
+1. W toku postępowania kontrolnego inspektor może w szczególności:
 
-- **1)** doku menty i ewidencje, te zakresem kontroli,
-- **2)** zebrane dowody,
-- **3)** wraz z roz liczeniem jej wyniku,
-- **4)**
-- **5)** osoby w celu ustalenia jest to dla potrzeb kontroli,
-- **6)**
-- **7)** opinii
-- **8)** inne w zakresie
-- **9)** kontrolowanego w charakterze strony, po wyczer paniu dowodowych lub z powodu ich braku nie wy znacze
+- **1)** badać dokumenty i ewidencje, objęte zakresem kontroli,
+- **2)** zabezpieczać zebrane dowody,
+- **3)** zarządzać inwentaryzację wraz z rozliczeniem jej wyniku,
+- **4)** dokonywać oględzin,
+- **5)** legitymować osoby w celu ustalenia tożsamości, jeżeli jest to niezbędne dla potrzeb kontroli,
+- **6)** przesłuchiwać świadków,
+- **7)** zasięgać opinii biegłych,
+- **8)** zbierać inne niezbędne materiały w zakresie objętym kontrolą,
+- **9)** przesłuchiwać kontrolowanego w charakterze strony, jeżeli po wyczerpaniu środków dowodowych lub z powodu ich braku pozostały nie wyjaśnione okoliczności mające znaczenie dla postępowania kontrolnego.
 
-2. W razie niestawienia kontrolowa nego, lub na wezwa nie inspektora w z prowadzo nym kontrolnym, sto suje odpowiednio przepisy art. 110 2 i art. 115 2 ustawy karnej skarbo wej z dnia 26 1971 r. (Dz. U. z 1984 r. 22, poz. 103, z 1985 r. 23, poz. 100, z 1990 r. 14, poz. 84 i 86, poz. 503, z 1991 r. 100, poz. 442 i 107, poz. 458, z 1992 r.
+2. W razie niestawienia się kontrolowanego, świadka lub biegłego na wezwanie inspektora w związku z prowadzonym postępowaniem kontrolnym, stosuje się odpowiednio przepisy art. 110 § 2 i art. 115 § 2 ustawy karnej skarbowej z dnia 26 października 1971 r. (Dz.U. z 1984 r. Nr 22, poz. 103, z 1985 r. Nr 23, poz. 100, z 1990 r. Nr 14, poz. 84 i Nr 86, poz. 503, z 1991 r. Nr 100, poz. 442 i Nr 107, poz. 458, z 1992 r. Nr 21, poz. 85 i Nr 68, poz. 341, z 1994 r. Nr 43, poz. 160, Nr 126, poz. 615 i Nr 136, poz. 703 oraz z 1995 r. Nr 132, poz. 641), o czym należy uprzedzić osobę wezwaną.";
 
-21. poz. 85 i 68, poz. 341, z 1994 r. 43, poz. 160, 126, poz. 615 i 136, poz. 703 oraz z 1995 r. 132, poz. 641). o czym oso
+- **11)** w art. 19 ust. 2 i 3 otrzymują brzmienie: świadków, biegłych lub oględzin w sposób umożliwiający kontrolowanemu udział w przeprowadzeniu tych dowodów nie później niż przed podjęciem tych czynności.
 
-- **11)** wart. 19 ust. 2 i 3 brzmienie: ,,2. Kontrolowany powinien powiadomiony o miejscu i terminie przeprowadzania dowodu ze lub w sposób kontrolowanemu w prze prowadzeniu tych dowodów nie przed tych Przepisu ust. nie stosuje faktyczne natychmiastowe a kontrolowany jest nieobecny."; w art. ust. 3, i w terminie 3 dni kontrolowanego o sposobie ich twienia.
-    - **a)** ust. 2 otrzymuje brzmienie: ,,2. Inspektor, w z prowadzonym u kon trolowanego kontrolnym, po okazaniu legitymacji do sprawdzenia i rzetel badanych dokumentów u kontrahen tów kontrolowanego bez na ich siedzi z tych który osoby obecne przy dokony waniu tych Przepis art. 9 ust. 4 nie ma w tym przypadku zastosowania.",
-    - **b)** w ust. wyrazy "art. wyra zami "art. i wart. w ust. wyrazy lub art. otrzymuje brzmienie: "Art. Inspektor jest o których mowa wart.
+3. Przepisu ust. 2 nie stosuje się, jeżeli okoliczności faktyczne uzasadniają natychmiastowe podjęcie czynności, a kontrolowany jest nieobecny.";
 
-2. Po rozpatrzeniu o których mowa w ust. l, inspektor wydaje:
+- **12)** w art. 20:
+    - **a)** ust. 2 otrzymuje brzmienie: "2. Inspektor, w związku z prowadzonym u kontrolowanego postępowaniem kontrolnym, może po okazaniu legitymacji służbowej dokonać sprawdzenia prawidłowości i rzetelności badanych dokumentów u kontrahentów kontrolowanego prowadzących działalność gospodarczą, bez względu na ich siedzibę; z czynności tych sporządza się protokół, który podpisują osoby obecne przy dokonywaniu tych czynności. Przepis art. 9 ust. 4 nie ma w tym przypadku zastosowania.",
+    - **b)** w ust. 3 wyrazy "art. 13-19" zastępuje się wyrazami "art. 17 i 19";
 
-- **1)** lub decyzje w rozumieniu Kodeksu administra cyjnego gdy ustalenia po datków i innych wych, których lub ustala nie do skarbowych,
-- **2)** wynik kontroli gdy ustalenia do innych wymienione w pkt 1 lub gdy niepra nie stwierdzono.
+- **13)** w art. 23 w ust. 3 skreśla się wyrazy "niezwłocznie lub najpóźniej";
+- **14)** art. 24 otrzymuje brzmienie: "Art. 24. 1. Inspektor jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w art. 23 ust. 3, i w terminie 3 dni zawiadomić kontrolowanego o sposobie ich załatwienia.
 
-3. Przy ustalaniu podatko wych organowi kontroli skarbowej uprawnienia organu po datkowego, w zakresie obliczania po datku w drodze szacunkowej, przewi dziane w przepisach podatkowych oraz uprawnienia przewidziane wart. 2 i art. 2 Kodeksu administracyjnego." ; art. brzmienie: "Art. kontrolowanemu oraz skarbowemu Skarb który staje wierzycielem wyni z tej decyzji.
+2. Po rozpatrzeniu zastrzeżeń, o których mowa w ust. 1, inspektor wydaje:
+
+- **1)** decyzję lub decyzje w rozumieniu Kodeksu postępowania administracyjnego - gdy ustalenia dotyczą podatków i innych należności budżetowych, których określanie lub ustalanie należy do właściwości urzędów skarbowych,
+- **2)** wynik kontroli - gdy ustalenia dotyczą nieprawidłowości innych niż wymienione w pkt 1 lub gdy nieprawidłowości nie stwierdzono.
+
+3. Przy ustalaniu zobowiązań podatkowych organowi kontroli skarbowej przysługują uprawnienia organu podatkowego, w zakresie obliczania podatku w drodze szacunkowej, przewidziane w przepisach podatkowych oraz uprawnienia przewidziane w art. 168 § 2 i art. 169 § 2 Kodeksu postępowania administracyjnego.";
+
+- **15)** art. 25-28 otrzymują brzmienie: "Art. 25. Decyzję doręcza się kontrolowanemu oraz właściwemu urzędowi skarbowemu reprezentującemu Skarb Państwa, który staje się wierzycielem obowiązków wynikających z tej decyzji.
 
 **Art. 26.**
 
-1. Od decyzji, o której mowa wart. 24 ust. 2 pkt 1, do:
+1. Od decyzji, o której mowa w art. 24 ust. 2 pkt 1, służy odwołanie do:
 
-- **1)** izby skarbowej dla podat nika, lub inkasenta, deinspektor zatrudniony w kontroli skFlrbowej, Generalnego Inspektora Kontroli Skarbowej, in spektor zatrudniony w Ministerstwie Finansów.
+- **1)** izby skarbowej właściwej dla podatnika, płatnika lub inkasenta, jeżeli decyzję wydał inspektor zatrudniony w urzędzie kontroli skarbowej,
+- **2)** Generalnego Inspektora Kontroli Skarbowej, jeżeli decyzję wydał inspektor zatrudniony w Ministerstwie Finansów.
 
-2. wnosi za twem inspektora, który w terminie 14 dni od dnia jej nia. Do uchylenia, zmiany Itlb stwierdzenia decyzji ostatecznej in spektora jest Generalny In spektor Kontroli Skarbowej; do wzno wienia stosuje prze pisy Kodeksu admini stracyjnego. Art. Wynik kontroli powinien oznaczenie organu kontroli skarbowej, oznaczenie kontrolowanego, wydania, zakres kontroli, podstawy prawnej, ustalenia i wnioski w zakre sie w Llrt. ust. pkt termin wskazanych przez inspektora, i podpis inspekto ra.
+2. Odwołanie wnosi się za pośrednictwem inspektora, który wydał decyzję, w terminie 14 dni od dnia jej doręczenia.
 
-2. Wynik kontroli kontrolowa nemu, a organowi lub dysponentowi ponadto z kontrolnych; wynik kontroli za wiera ustalenia zagadnie nia do organów, z tych organów do i zawie ustalenia w sprawie, w której jest ten organ.
+3. Do uchylenia, zmiany lub stwierdzenia nieważności decyzji ostatecznej inspektora właściwy jest Generalny Inspektor Kontroli Skarbowej; do wznowienia postępowania stosuje się przepisy Kodeksu postępowania administracyjnego.
 
-3. Kontrolowany jest w gu dni po terminll nego w list. 1 pkt 7, or gan kontroli skarbowej o sposobie usu wskazanych Art. Przepisu art. ust. pkt nie stosuje ustalenia inspektora spraw zakor'lczonych organu podatko wego. W tym przypadku organ kontroli skarbowej wynik kontroli, który przekazuje organowi podat kowemu i kontrolowanemu."; art. i wart.
+- **1)** oznaczenie organu kontroli skarbowej,
+- **2)** oznaczenie kontrolowanego,
+- **3)** datę wydania,
+- **4)** zakres kontroli,
+- **5)** powołanie podstawy prawnej,
+- **6)** końcowe ustalenia i wnioski w zakresie określonym w art. 24 ust. 2 pkt 2,
+- **7)** termin usunięcia nieprawidłowości wskazanych przez inspektora,
+- **8)** pieczęć urzędową i podpis inspektora.
 
-- **a)** w ust. wyrazy "organ kontroli skarbowej" za w odpowiednim prlypadku wyrazami "Generalny Inspektor Kontroli Skar bowej lub dyrektor kontroli skarbowej",
-- **b)** ust. 4;
-- **18)** art. 33 otrzymuje brzmienie: "Art. 33.1. Na pisemne Generalnego In spektora Kontroli Skarbowej lub dyrek tora kontroli skarbowej, wydane w z niem przygotowawczym w sprawie kar nej skarbowej, banki do i przekazywania informa cji podejrzanego w zakre sie:
-- **1)** posiadanych rachunków bankowych lub rachunków liczby tych rachunków, a obro tów i stanów tych rachunków,
-- **2)** posiadanych rachunków nych lub rachunków papierów war liczby tych rachunków, a obrotów i stanów tych ra chunków,
-- **3)** zawartych umów kredytowych lub umów a umów depo zytowych,
-- **4)** nabytych za banków akcji Skarbu lub obligacji Skarbu a obrotu tymi papierami
-- **5)** obrotu wydawanymi przez banki cer tyfikatami depozytowymi lub innymi papierami
+2. Wynik kontroli doręcza się kontrolowanemu, a właściwemu organowi lub dysponentowi części budżetu doręcza się ponadto dokumentację z czynności kontrolnych; jeżeli wynik kontroli zawiera ustalenia obejmujące zagadnienia należące do właściwości różnych organów, każdemu z tych organów doręcza się wyciąg i dokumentację zawierającą ustalenia w sprawie, w której właściwy jest ten organ.
 
-2. Przepisy ust. 1 pkt 2 i 4 stosuje rów do innych banki podmiotów ma klerskie.
+3. Kontrolowany jest obowiązany, w ciągu 30 dni po upływie terminu określonego w ust. 1 pkt 7, poinformować organ kontroli skarbowej o sposobie usunięcia wskazanych nieprawidłowości.
 
-3. Towarzystwa funduszy powierniczych, na pisemne Generalnego In spektora Kontroli Skarbowej lub dyrek tora kontroli skarbowej. obo do i przekazywa nia informacji o umorzonych jednost kach uczestnictwa; przepis ust. 1, w z stosuje odpowiednio.
-
-4. W o którym mowa w ust. 1-3, Generalny Inspektor Kontroli Skarbo wej lub dyrektor kontroli skar bowej zakres informacji oraz termin ich przekazania; ozna cza "Tajemnica skarbowa", a jego przekazanie w trybie przewidzianym dla dokumentów za w rozumieniu przepisów o ochronie tajemnicy stwowej i
-
-- **19)** po art. 33 dodaje art. 33a i 33b w brzmieniu: "Art. 33a. 1. Z i przekaza nia informacji w zakresie, o którym mowa wart. 33 ust. 1-3, Generalny In spektor Kontroli Skarbowej lub dyrek tor kontroli skarbowej w z powaniem kontrolnym przez inspektora na podstawie wyda nego po uprzednim wezwaniu podatnika przez inspektora do udzielenia informacji z tego zakre su albo do instytucji fi nansowych do przekazania tych infor macji, podatnik uprzednio:
-- **1)** nie wyrazi zgody na udzielenie tych informacji albo
-- **2)** nie inspektora do pienia do instytucji finansowych wymienionych wart. 33 ust. 1-3 o przekazanie tych informacji, albo
-- **3)** w terminie wyznaczonym przez in spektora nie udzieli informacji lub o których mowa w pkt 1 lub 2.
-
-2. Żądanie, o którym mowa w ust. 1, za wiera:
-
-- **1)** wskazanie cych uzysl:ania tych informacji,
-- **2)** dowody
-    - **a)** podatnik udzielenia in formacji lub
-    - **b)** podatnik nie zgody na udzielenie inspektorowi upo do tych in formacji, lub
-    - **c)** w terminie przez inspektora podatnik nie informacji albo
-
-3. Instytucje finansowe wymienione wart. 33 ust. 1-3 udziele nia informacji, General nego Inspektora Kontroli Skarbowej lub dyrektora kontroli skarbo wej nie wymogów formal nych, o których mowa w ust. 2.
-
-4. z o którym mowa w ust. 1, Generalny Inspektor Kontroli Skarbowej lub dyrektor du kontroli skarbowej powinien zwra na wza jemnego zaufania instytu cjami finansowymi a ich klientami; przepis art. 33 ust. 4 stosuje odpo wiednio.
-
-5. Generalny Inspektor Kontroli Skarbo wej i dyrektorzy kontroli skarbowej Ministrowi Finan sów sprawozdania zawiera informacje o liczbie w danym kar nych skarbowych i kontrolnych w po równaniu z spraw, w których o przekazanie informacji wart. 33.
-
-6. Informacje, o których mowa w ust. 5, corocznie Sejmowi, ze sprawozdaniem z wykona nia
+**Art. 28.** Przepisu art. 24 ust. 2 pkt 1 nie stosuje się, jeżeli ustalenia inspektora dotyczą spraw zakończonych decyzją organu podatkowego. W tym przypadku organ kontroli skarbowej sporządza wynik kontroli, który przekazuje właściwemu organowi podatkowemu i kontrolowanemu.";
 
 **Art. 33b.**
 
-1. W toku karnego skar bowego lub kontrolnego prowadzo nego przez inspektora do infor macji, o których mowa wart. 33, przy pracownikowi pro jego prze oraz Generalnemu Inspekto rowi Kontroli Skarbowej.
+1. W toku postępowania karnego skarbowego lub kontrolnego prowadzonego przez inspektora dostęp do informacji, o których mowa w art. 33, przysługuje wyłącznie pracownikowi prowadzącemu postępowanie, jego przełożonym oraz Generalnemu Inspektorowi Kontroli Skarbowej.
 
-2. Akta sprawy w pomieszczeniu zabezpieczonym zgodnie z przepisami o ochronie ta jemnicy i
+2. Akta sprawy należy przechowywać w pomieszczeniu zabezpieczonym zgodnie z przepisami o ochronie tajemnicy państwowej i służbowej.
 
-3. Po karne go skarbowego lub kontrolnego infor macje, o których mowa wart. 33, z akt sprawy i przechowy wane w kasach pancernych lub sza fach pancernych; Generalny Inspektor Kontroli Skarbowej lub dyrektor du kontroli skarbowej dokonuje w ak tach sprawy adnotacji o informacji.
+3. Po zakończeniu postępowania karnego skarbowego lub kontrolnego informacje, o których mowa w art. 33, są wyłączane z akt sprawy i przechowywane w kasach pancernych lub szafach pancernych; Generalny Inspektor Kontroli Skarbowej lub dyrektor urzędu kontroli skarbowej dokonuje w aktach sprawy adnotacji o wyłączeniu informacji.
 
-4. Ponowne do akt sprawy in formacji, o których mowa wart. 33, w przypadkach wart. 34a.";
+4. Ponowne włączenie do akt sprawy informacji, o których mowa w art. 33, następuje wyłącznie w przypadkach określonych w art. 34a.";
 
-- **20)** art. 34 brzmienie: "Art. 34.1. Informacje gromadzone i przetwarzane w ramach kontroli skarbowej
+- **20)** art. 34 otrzymuje brzmienie: "Art. 34. 1. Informacje gromadzone i przetwarzane w ramach kontroli skarbowej stanowią tajemnicę skarbową.
 
-2. Do przestrzegania tajemnicy skarbowej
+2. Do przestrzegania tajemnicy skarbowej obowiązani są:
 
-- **1)** pracownicy kontroli skarbo wej,
-- **2)** Generalny Inspektor Kontroli Skarbo wej oraz pracownicy Ministerstwa Fi nansów, o których mowa wart. 10 list. 3,
-- **3)** osoby, które na podstawie nych przepisów pr w kontroli skar bowej.
+- **1)** pracownicy urzędów kontroli skarbowej,
+- **2)** Generalny Inspektor Kontroli Skarbowej oraz pracownicy Ministerstwa Finansów, o których mowa w art. 10 ust. 3,
+- **3)** osoby, które na podstawie odrębnych przepisów odbywają praktykę zawodową w urzędach kontroli skarbowej.
 
-3. Osoby wymienione w ust. 2 zalle do na przyrzecze nia "Przyrzekam, ta jemnicy skarbowej. mi znane przepisy () karnej za ujawnienie tajemnicy skarbo wej."
+3. Osoby wymienione w ust. 2 są obowiązane do złożenia na piśmie przyrzeczenia następującej treści: "Przyrzekam, że będę przestrzegał tajemnicy skarbowej. Oświadczam, że są mi znane przepisy o odpowiedzialności karnej za ujawnienie tajemnicy skarbowej.".
 
-4. Zachowanie tajemnicy skarbowej obo po ustaniu zatrudnie nia lub praktyki zawodowej.
+4. Zachowanie tajemnicy skarbowej obowiązuje również po ustaniu zatrudnienia lub praktyki zawodowej.
 
-5. Do przestrzegania tajemnicy skarbowej inne osoby, któ rym informacje ta chyba na ich ujawnienie zezwala przepis prawa.
+5. Do przestrzegania tajemnicy skarbowej obowiązane są również inne osoby, którym udostępniono informacje objęte tajemnicą skarbową, chyba że na ich ujawnienie zezwala przepis prawa.
 
-6. Przepisu ust. 5 nie stosuje do osób, których informacje ta
+6. Przepisu ust. 5 nie stosuje się do osób, których dotyczą informacje objęte tajemnicą skarbową.";
 
-- **21)** po art. 34 dodaje art. 34a-34c w brzmieniu: "Art. 34a. 1. Akta informacje wymie nione wart. 33 organy kontroli skar bowej
-- **1)** Ministrowi Finansów, Generalne mu Inspektorowi Kontroli Skarbo wej, izbie skarbowej lub podatko wej komisji w toku administracyjnego lub karnego skarbowego,
-- **2)** skarbowym albo innym organom kontroli skarbowej w z na podsta wie uprzednio wydanego postano wienia, admini stracyjnym albo w z kontro lnym lub karnym skarbowym,
-- **3)** Naczelnemu Administra cyjnemu w razie przez skargi w rozumieniu przepi sów o Naczelnym Admini stracyjnym,
-- **4)** Ministrowi Pierw szemu Prezesowi go, Prezesowi Naczelnego Administracyjnego w z badaniem sprawy w celu rewIzJI nadzwyczajnej, a Rzecznikowi Praw Obywatelskich, strona wniesie podanie o rewizji nadzwyczajnej, Prokuratorowi Generalnemu:
-    - **a)** w z badaniem sprawy w celu rewizji nadzwy czajnej,
-    - **b)** na wniosek proku ratora, w przypadkach w dziale IV Kodeksu wania administracyjnego, w z proku ratora w przed Naczelnym Admini stracyjnym,
+- **21)** po art. 34 dodaje się art. 34a-34c w brzmieniu: "Art. 34a. 1. Akta zawierające informacje wymienione w art. 33 organy kontroli skarbowej udostępnią wyłącznie:
+- **1)** Ministrowi Finansów, Generalnemu Inspektorowi Kontroli Skarbowej, izbie skarbowej lub podatkowej komisji odwoławczej - w toku postępowania administracyjnego lub karnego skarbowego, wszczętym, na podstawie uprzednio wydanego postanowienia, postępowaniem administracyjnym albo w związku z wszczętym postępowaniem kontrolnym lub karnym skarbowym,
+- **3)** Naczelnemu Sądowi Administracyjnemu - w razie złożenia przez stronę skargi w rozumieniu przepisów o Naczelnym Sądzie Administracyjnym,
+- **4)** Ministrowi Sprawiedliwości, Pierwszemu Prezesowi Sądu Najwyższego, Prezesowi Naczelnego Sądu Administracyjnego - w związku z badaniem sprawy w celu złożenia rewizji nadzwyczajnej, a także Rzecznikowi Praw Obywatelskich, jeżeli strona wniesie podanie o złożenie rewizji nadzwyczajnej,
+- **5)** Prokuratorowi Generalnemu:
+    - **a)** w związku z badaniem sprawy w celu złożenia rewizji nadzwyczajnej,
+    - **b)** na wniosek właściwego prokuratora, - w przypadkach określonych w Dziale IV Kodeksu postępowania administracyjnego, - w związku z udziałem prokuratora w postępowaniu przed Naczelnym Sądem Administracyjnym,
 
-- **6)** w ku z rozpoznaniem rewizji nadzwy czajnej.
+- **6)** Sądowi Najwyższemu - w związku z rozpoznaniem rewizji nadzwyczajnej.
 
-2. W przypadkach w ust. 1 pkt 1 i 2 stosuje odpowiednio prze pisy art. 33b ust. 1.
+2. W przypadkach określonych w ust. 1 pkt 1 i 2 stosuje się odpowiednio przepisy art. 33b ust. 1.
 
-3. W przypadkach, o których mowa w ust. 1, akta spraw oznaczane oraz przekazywane w sposób przewidziany wart. 33 ust. 4.
+3. W przypadkach, o których mowa w ust. 1, akta spraw są oznaczane oraz przekazywane w sposób przewidziany w art. 33 ust. 4.
 
-4. Generalny Inspektor Kontroli Skarbo wej lub dyrektor kontroli skar bowej Izbie Kontroli, w z po kontrolnym, akta, o któ rych mowa w ust. 1, po z nich informacji wymienionych w art. 33, chyba informacje takie zo uprzednio udzielone Izbie Kontroli na podstawie nych przepisów.
+4. Generalny Inspektor Kontroli Skarbowej lub dyrektor urzędu kontroli skarbowej udostępnia Najwyższej Izbie Kontroli, w związku z toczącym się postępowaniem kontrolnym, akta, o których mowa w ust. 1, po wyłączeniu z nich informacji wymienionych w art. 33, chyba że informacje takie zostały uprzednio udzielone Najwyższej Izbie Kontroli na podstawie odrębnych przepisów.
 
-5. Akta nie informacji, o któ rych mowa wart. 33, organy kontroli skarbowej
+5. Akta nie zawierające informacji, o których mowa w art. 33, organy kontroli skarbowej udostępniają:
 
-- **1)** Ministrowi Finansów lub General nemu Inspektorowi Kontroli Skar bowej,
+- **1)** Ministrowi Finansów lub Generalnemu Inspektorowi Kontroli Skarbowej,
 - **2)** organom podatkowym,
-- **3)** innym organom kontroli skarbo wej,
-- **4)** Izbie Kontroli w za kresie i na zasadach w przepisach o Izbie Kontroli,
-- **5)** albo prokuratorowi w z waniem,
-- **6)** w toku powania kontrolnego w zakresie przez organ kontroli skarbowej,
-- **7)** innym organom w przypadkach i na zasadach w od ustawach.
+- **3)** innym organom kontroli skarbowej,
+- **4)** Najwyższej Izbie Kontroli - w zakresie i na zasadach określonych w przepisach o Najwyższej Izbie Kontroli,
+- **5)** sądowi albo prokuratorowi - w związku z toczącym się postępowaniem,
+- **6)** biegłym powołanym w toku postępowania kontrolnego - w zakresie określonym przez organ kontroli skarbowej,
+- **7)** innym organom - w przypadkach i na zasadach określonych w odrębnych ustawach.
 
 **Art. 34b.**
 
-1. Organy kontroli skarbowej informacje z akt kon troli, z informacji okre wart. 33, organom podatko wym, innym organom kontroli skar bowej, Generalnemu Inspektorowi Kontroli Skarbowej i Ministrowi Fi nansów.
+1. Organy kontroli skarbowej udostępniają informacje wynikające z akt kontroli, z wyłączeniem informacji określonych w art. 33, organom podatkowym, innym organom kontroli skarbowej, Generalnemu Inspektorowi Kontroli Skarbowej i Ministrowi Finansów. obowiązane są udostępniać informacje wynikające z akt kontroli skarbowych.
 
-2. W zakresie i na zasadach przepisami organy kontro li skarbowej informacje z akt kon troli skarbowych.
-
-3. Informacje, o których mowa w ust. 1,
+3. Informacje, o których mowa w ust. 1, udostępniane są również:
 
 - **1)** organom celnym,
-- **2)** rejonowym pracy,
-- **3)** jednostkom organizacyjnym du
-- **4)** Policji, Ochrony Granicznej,
-- **5)** innym organom w przypadkach i na zasadach wart. 27
+- **2)** rejonowym urzędom pracy,
+- **3)** jednostkom organizacyjnym Zakładu Ubezpieczeń Społecznych,
+- **4)** Policji, Urzędowi Ochrony Państwa, Straży Granicznej,
+- **5)** innym organom - w przypadkach i na zasadach określonych w art. 27 ust. 2.
 
-4. Dokumenty informacje przekazywane zgodnie z przepisami ust. 2 oznacza "Tajemnica skarbowa".
+4. Dokumenty zawierające informacje przekazywane zgodnie z przepisami ust. 2 oznacza się klauzulą "Tajemnica skarbowa".
 
-**Art. 34c.** Przepisy art. 34a i 34b nie strony przewidzianych wart. 73 i 74 Kodeksu admini stracyjnego oraz wart. 150 "Art. 35. Na 1 i 2 ustawy karnej skarbowej.";
+**Art. 34c.** Przepisy art. 34a i 34b nie naruszają uprawnień strony przewidzianych w art. 73 i 74 Kodeksu postępowania administracyjnego oraz w art. 150 § 1 i 2 ustawy karnej skarbowej.";
 
 **Art. 35a.**
 
-1. Kto, do zachowa nia tajemnicy skarbowej, ujawnia infor macje podlega karze pozbawienia wolno do lat 3.
+1. Kto, będąc obowiązanym do zachowania tajemnicy skarbowej, ujawnia informacje objęte tą tajemnicą, podlega karze pozbawienia wolności do lat 3.
 
-2. Kto, do zachowa nia tajemnicy skarbowej, ujawnia infor macje wart. 33 ust. 1-3, podlega karze pozbawienia wolno od 6 do lat 5.
+2. Kto, będąc obowiązanym do zachowania tajemnicy skarbowej, ujawnia informacje określone w art. 33 ust. 1-3, podlega karze pozbawienia wolności od 6 miesięcy do lat 5.
 
-3. sprawca czynu w ust. 1 lub 2 podlega karze pozbawienia wolno do lat 2.
+3. Jeżeli sprawca czynu określonego w ust. 1 lub 2 działa nieumyślnie, podlega karze pozbawienia wolności do lat 2.
 
-4. pokrzywdzonym nie jest Skarb na wnio sek pokrzywdzonego. 3b Szczególny nadzór podatkowy
+4. Jeżeli pokrzywdzonym nie jest Skarb Państwa, ściganie następuje na wniosek pokrzywdzonego.
+
+#### Rozdział 3b Szczególny nadzór podatkowy
 
 **Art. 35b.**
 
-1. Szczególnemu nadzorowi podatkowe mu podlega produkcja, import, eksport oraz obrót niektórymi wyrobami akcy zowymi, a nio z nimi jak wytwarzanie, uszlachetnianie, przerabianie, nie, rozlew, przyjmowanie, magazynowanie, wydawanie, przewóz oraz stosowanie i oznaczanie tych wy robów znakami skarbowymi akcyzy, zgodnie z przepisami.
+1. Szczególnemu nadzorowi podatkowemu podlega produkcja, import, eksport oraz obrót niektórymi wyrobami akcyzowymi, a także czynności bezpośrednio z nimi związane, jak wytwarzanie, uszlachetnianie, przerabianie, zużywanie, skażanie, rozlew, przyjmowanie, magazynowanie, wydawanie, przewóz oraz stosowanie i oznaczanie tych wyrobów znakami skarbowymi akcyzy, zgodnie z odrębnymi przepisami.
 
-2. Przepis art. 5 ust. 1 stosuje odpo wiednio.
+2. Przepis art. 5 ust. 1 stosuje się odpowiednio.
 
 **Art. 35c.**
 
-1. Szczególny nadzór podatkowy wykonu jednostki organizacyjne kontroli skar bowej przez swoich pracowników, zwa nych dalej pracownikami szczególnego nadzoru podatkowego, w formie kon troli okresowych, lub przez sprawowanie nadzoru.
+1. Szczególny nadzór podatkowy wykonują jednostki organizacyjne kontroli skarbowej przez swoich pracowników, zwanych dalej pracownikami szczególnego nadzoru nadzoru.
 
-2. Do wykonywania szczególnego nadzo ru podatkowego stosuje odpowied nio przepisy wart. 9 ust. 4, 4a,5i6,art.10ust.2pkt5i7,art.16-20, art. 31, ali. 34 i art. 34a-34c oraz przepi sy 3a.
+2. Do wykonywania szczególnego nadzoru podatkowego stosuje się odpowiednio przepisy określone w art. 9 ust. 4, 4a, 5 i 6, art. 10 ust. 2 pkt 5 i 7, art. 16-20, art. 31, art. 34 i art. 34a-34c oraz przepisy rozdziału 3a.
 
 **Art. 35d.**
 
-1. Pracownicy szczególnego nadzoru po datkowego uprawnieni do:
+1. Pracownicy szczególnego nadzoru podatkowego są uprawnieni do:
 
-- **1)** powtórzenia, to we, w której wyni ku uzyskuje dane o przyjmowanych, wydawanych lub wprowadza nych do procesu produkcyjnego su rowcach, produkcji w toku i oraz uzyska nych produktach, wyrobach goto wych i strat produkcyj nych,
-- **2)** pobierania próbek surowców, brykatów i wyrobów gotowych w ce lu ich zbadania,
-- **3)** wych. Przepisy art. 16 ust. 1, 2 i 4 oraz art. 18 stosuje odpowiednio.
+- **1)** żądania powtórzenia, jeżeli to możliwe, każdej czynności, w której wyniku uzyskuje się dane o przyjmowanych, wydawanych lub wprowadzanych do procesu produkcyjnego surowcach, materiałach, produkcji w toku i półfabrykatach oraz uzyskanych produktach, wyrobach gotowych i wysokości strat produkcyjnych,
+- **2)** pobierania próbek surowców, półfabrykatów i wyrobów gotowych w celu ich zbadania,
+- **3)** nakładania zabezpieczeń urzędowych,
+- **4)** przepisy art. 16 ust. 1, 2 i 4 oraz art. 18 stosuje się odpowiednio.
 
-2. kontrolne, o których mowa w ust. 1, wykonywane na podstawie przez Mini stra Finansów, wydawanego przez dy rektora kontroli skarbowej lub Generalnego Inspektora Kontroli Skar bowej.
+2. Czynności kontrolne, o których mowa w ust. 1, są wykonywane na podstawie upoważnienia określonego przez Ministra Finansów, wydawanego przez dyrektora urzędu kontroli skarbowej lub Generalnego Inspektora Kontroli Skarbowej.
 
-3. Uprawnienia, o których mowa w ust. 1, pracownikom szczególne go nadzoru podatkowego w sto sunku do podmiotów wart. 35b, bez za chowania warunków oraz form przewi dzianych przepisami prawa.
+3. Uprawnienia, o których mowa w ust. 1, przysługują pracownikom szczególnego nadzoru podatkowego także w stosunku do podmiotów wykonujących czynności określone w art. 35b, bez zachowania warunków oraz form przewidzianych przepisami prawa.
 
 **Art. 35e.**
 
-1. Podmioty szczególnemu nadzorowi podatkowemu warunki i do spraw nego przeprowadzenia kontroli, w tym:
+1. Podmioty podlegające szczególnemu nadzorowi podatkowemu obowiązane są zapewnić warunki i środki do sprawnego przeprowadzenia kontroli, w tym:
 
-- **1)** do kontroli skarbo wej co najmniej na 14 dni przed roz o której mo wa w art. 35b, oraz doku tej w zakresie przez Mini stra Finansów,
-- **2)** i pomiesz czenia do
-- **3)** legalizowane pomiarowe, odczynniki oraz techniczny, do kontroli i surowców, katów i wyrobów gotowych,
-- **4)** i pomieszczenia do szcze gólnym nadzorem podatkowym w sposób przez Ministra Finansów,
-- **5)** kon troli skarbowej albo nadzo rowi podatkowemu, o ile jest w da nym podmiocie sprawowany, przy padki zniszczenia lub wyro bów szczególnym nadzo rem podatkowym znaków skar bowych akcyzy,
-- **6)** kontroli skarbo wej albo nadzorowi podatkowemu informacje o terminach o których mowa w art. 35b, w zakresie przez Ministra Finansów,
-- **7)** i ewiden cje zgodnie z wzorami ustalonymi przez Ministra Finansów.
+- **1)** przesłać do urzędu kontroli skarbowej co najmniej na 14 dni przed rozpoczęciem działalności, o której mowa w art. 35b, zgłoszenie oraz dokumentację dotyczącą tej działalności w zakresie określonym przez Ministra Finansów,
+- **2)** dostosować urządzenia i pomieszczenia do nakładania zabezpieczeń urzędowych,
+- **3)** dostarczyć legalizowane przyrządy pomiarowe, odczynniki oraz sprzęt techniczny, niezbędne do kontroli ilości i jakości surowców, półfabrykatów i wyrobów gotowych,
+- **4)** oznaczyć urządzenia i pomieszczenia służące do działalności objętej szczególnym nadzorem podatkowym w sposób określony przez Ministra Finansów,
+- **5)** zgłaszać niezwłocznie urzędowi kontroli skarbowej albo stałemu nadzorowi podatkowemu, o ile jest w danym podmiocie sprawowany, przypadki zniszczenia lub kradzieży wyrobów objętych szczególnym nadzorem podatkowym bądź znaków skarbowych akcyzy,
+- **6)** zgłaszać urzędowi kontroli skarbowej albo stałemu nadzorowi podatkowemu informacje o terminach czynności, o których mowa w art. 35b, w zakresie określonym przez Ministra Finansów,
+- **7)** prowadzić dokumentację i ewidencje zgodnie ze wzorami ustalonymi przez Ministra Finansów.
 
-2. Przepisy art. 17 ust. 1,3,4 i 5 stosuje odpowiednio.
+2. Przepisy art. 17 ust. 1, 3, 4 i 5 stosuje się odpowiednio.
 
-3. Koszty z ków w ust. 1 i 2 podmioty szczególnemu nadzorowi podatkowemu.
-
-**Art. 35f.** W podmiotach szczególne mu nadzorowi podatkowemu przeprowa dza sprawdzenie przed roz wykonywania o któ rych mowa wart. 35b, w zakresie i na za sadach przez Ministra Finan sów.
+3. Koszty związane z realizacją obowiązków określonych w ust. 1 i 2 obciążają podmioty podlegające szczególnemu nadzorowi podatkowemu. urzędowe sprawdzenie przed rozpoczęciem wykonywania czynności, o których mowa w art. 35b, w zakresie i na zasadach określonych przez Ministra Finansów.
 
 **Art. 35g.**
 
-1. Wyroby akcyzowe szczególnym nadzorem podatkowym, wytworzone lub przedmiotem o których mowa wart. 35b, bez nia wart. 35f,
+1. Wyroby akcyzowe objęte szczególnym nadzorem podatkowym, wytworzone lub będące przedmiotem czynności, o których mowa w art. 35b, bez spełnienia obowiązków określonych w art. 35f, podlegają zajęciu.
 
-2. Do stosuje odpo wiednio przepisy Kodeksu nia karnego oraz przepisy o waniu egzekucyjnym w administracji.
+2. Do czynności zajęcia stosuje się odpowiednio przepisy Kodeksu postępowania karnego oraz przepisy o postępowaniu egzekucyjnym w administracji.
 
 **Art. 35h.**
 
-1. Minister Finansów w drodze
+1. Minister Finansów określi, w drodze rozporządzenia:
 
-- **1)** wyroby akcyzowe, które w z wykonywaniem o któ rych mowa wart. 35b, szczególnym nadzorem podatko wym,
-- **2)** zakres i zasady wykonywania szcze gólnego nadzoru podatkowego w stosunku do poszczególnych wy robów akcyzowych temu nadzorowi,
-- **3)** zakres i zasady wykonywania szcze gólnego nadzoru podatkowego w oznaczaniu wyrobów znakami skarbowymi akcyzy,
-- **4)** zasady i tryb zabezpie oraz rodzaje lub formy tych o których mowa wart. 35d ust. 1 pkt 3,
-- **5)** zakres i zasady spraw dzenia, o których mowa wart. 35f,
-- **6)** zasady i tryb przepro wadzania i okresowych kontroli oraz sprawowania nadzoru przez pracowników szcze gólnego nadzoru podatkowego,
-- **7)** wzór pisemnego upowaznlenia, o którym mowa wart. 35d ust. 2,
-- **8)** zasady i tryb pobiera nia próbek, o których mowa wart. 35d ust. 1 pkt 2,
-- **9)** rodzaje i wzory prowadzonej doku mentacji i ewidencji, o której mowa wart. 35e ust. 1 pkt 1 i 7,
-- **10)** sposób i warunki czynno o których mowa wart. 35e ust. 1 pkt 6.
+- **1)** wyroby akcyzowe, które w związku z wykonywaniem czynności, o których mowa w art. 35b, są objęte szczególnym nadzorem podatkowym,
+- **2)** zakres i zasady wykonywania szczególnego nadzoru podatkowego w stosunku do poszczególnych wyrobów akcyzowych podlegających temu nadzorowi,
+- **3)** zakres i zasady wykonywania szczególnego nadzoru podatkowego w oznaczaniu wyrobów znakami skarbowymi akcyzy,
+- **4)** zasady i tryb nakładania zabezpieczeń urzędowych oraz rodzaje lub formy tych zabezpieczeń, o których mowa w art. 35d ust. 1 pkt 3,
+- **5)** zakres i zasady urzędowego sprawdzenia, o których mowa w art. 35f,
+- **6)** szczegółowe zasady i tryb przeprowadzania doraźnych i okresowych kontroli oraz sprawowania stałego nadzoru przez pracowników szczególnego nadzoru podatkowego,
+- **7)** wzór pisemnego upoważnienia, o którym mowa w art. 35d ust. 2,
+- **8)** szczegółowe zasady i tryb pobierania próbek, o których mowa w art. 35d ust. 1 pkt 2,
+- **9)** rodzaje i wzory prowadzonej dokumentacji i ewidencji, o której mowa w art. 35e ust. 1 pkt 1 i 7,
+- **10)** sposób i warunki zgłaszania czynności, o których mowa w art. 35e ust. 1 pkt 6.
 
-2. Minister Finansów w drodze
+2. Minister Finansów może określić, w drodze rozporządzenia:
 
-- **1)** tryb niszczenia wyrobów akcyzo wych szczególnym nadzo rem podatkowym w przypadku stwierdzenia ich do dalszego przerobu lub zu
-- **2)** zasady i warunki przyjmowania, ma gazynowania, wydawania i przewo wyrobów akcyzowych tych szczególnym nadzorem podat kowym.";
-- **24)** art. 36 otrzymuje brzmienie: "Art. 36. 1. Kontrola skarbowa, w granicach swo ich uzyskuje, w tym w drodze operacyjno-rozpo znawczych, gromadzi, przetwarza i wy korzystuje informacje o dochodach, ob rotach, rzeczach i prawach wych kontroli w celu ustalenia o których mowa wart. 2 ust. 1 pkt 1, la i ust. 2, oraz w sprawach wymienionych wart. 2 ust. 1 pkt 5 i art. 3.
+- **1)** tryb niszczenia wyrobów akcyzowych objętych szczególnym nadzorem podatkowym w przypadku stwierdzenia ich nieprzydatności do spożycia, dalszego przerobu lub zużycia,
+- **2)** zasady i warunki przyjmowania, magazynowania, wydawania i przewożenia wyrobów akcyzowych objętych szczególnym nadzorem podatkowym.";
+- **24)** art. 36 otrzymuje brzmienie: "Art. 36. 1. Kontrola skarbowa, w granicach swoich zadań, uzyskuje, w tym również w drodze czynności operacyjno-rozpoznawczych, gromadzi, przetwarza i wykorzystuje informacje o dochodach, obrotach, rzeczach i prawach majątkowych podlegających kontroli w celu ustalenia należności, o których mowa w art. 2 ust. 1 pkt 1, 1a i ust. 2, oraz w sprawach wymienionych w art. 2 ust. 1 pkt 5 i art. 3.
 
-2. Przy wykonywaniu w ust. 1 dokonywane czyn operacyjno-rozpoznawcze uzyskiwanie informacji oraz utrwalanie i dowodów w spo sób tajny lub poufny.
+2. Przy wykonywaniu zadań określonych w ust. 1 mogą być dokonywane czynności operacyjno-rozpoznawcze umożliwiające uzyskiwanie informacji oraz utrwalanie śladów i dowodów w sposób tajny lub poufny.
 
-3. W celu wykrycia
+- **1)** gospodarczych, powodujących znaczną szkodę majątkową,
+- **2)** przeciwko mieniu znacznej wartości,
+- **3)** skarbowych, polegających na uszczupleniu podatku lub innej należności Skarbu Państwa znacznej wartości - Generalny Inspektor Kontroli Skarbowej, po uzyskaniu zgody Prokuratora Generalnego, może zarządzić na czas określony stosowanie środków technicznych, umożliwiających w sposób tajny uzyskiwanie informacji oraz utrwalanie śladów i dowodów.
 
-- **1)** gospodarczych, zna
-- **2)** przeciwko mieniu znacznej warto
-- **3)** skarbowych, na usz czupleniu podatku lub innej Skarbu znacznej war Generalny Inspektor Kontroli Skar bowej, po uzyskaniu zgody Prokurato ra Generalnego, na czas stosowanie technicznych, w spo sób tajny uzyskiwanie informacji oraz utrwalanie i dowodów.
+4. Czynności operacyjno-rozpoznawcze, o których mowa w ust. 1 i 2, wykonują pracownicy operacyjni zatrudnieni w jednostkach organizacyjnych kontroli skarbowej.
 
-4. operacyjno-rozpoznawcze, o których mowa w ust. 1 i 2, pracownicy operacyjni zatrudnieni w jednostkach organizacyjnych kontro li skarbowej.
+5. Czynności operacyjno-rozpoznawcze określone w ust. 1 i 2 mogą być podjęte tylko wówczas, gdy inne środki okazały się bezskuteczne albo zachodzi wysokie prawdopodobieństwo, że będą nieskuteczne lub nieprzydatne do wykrycia przestępstwa, ujawnienia jego sprawców i ujawnienia oraz zabezpieczenia dowodów.
 
-5. operacyjno-rozpoznawcze w ust. 1 i 2 te tylko wówczas, gdy inne okabezskuteczne albo zachodzi wy sokie nieskuteczne lub nieprzydatne do wy krycia ujawnienia jego sprawców i ujawnienia oraz zabezpie czenia dowodów.
+6. Materiały uzyskane w wyniku czynności operacyjno-rozpoznawczych, które nie stanowią informacji potwierdzających zaistnienie przestępstwa, podlegają niezwłocznemu, protokolarnemu, komisyjnemu zniszczeniu.
 
-6. uzyskane w wyniku czynno operacyjno-rozpoznawczych, które nie informacji cych zaistnienie podle protokolarnemu, komisyjnemu zniszczeniu.
+7. Przy wykonywaniu zadań, o których mowa w ust. 1, kontrola skarbowa współdziała z Policją, Urzędem Ochrony Państwa, Głównym Urzędem Ceł oraz Strażą Graniczną.
 
-7. Przy wykonywaniu o których mowa w ust. 1, kontrola skarbowa z Ochro ny oraz
+8. Informacje uzyskiwane w czasie wykonywania czynności operacyjno-rozpoznawczych są tajne i mogą być wykorzystane wyłącznie przez organy kontroli skarbowej dla celów postępowania kontrolnego.";
 
-8. Informacje uzyskiwane w czasie wyko nywania operacyjno-rozpo znawczych tajne i wyko rzystane przez organy kon troli skarbowej dla celów nia kontrolnego.";
+- **25)** art. 37 otrzymuje brzmienie: "Art. 37. 1. Pracownik operacyjny przy wykonywaniu zadań, o których mowa w art. 36, może korzystać z pomocy osób nie będących pracownikami jednostek organizacyjnych kontroli skarbowej.
 
-- **25)** art. 37 otrzymuje brzmienie: "Art. 37.1. Pracownik operacyjny przy wykonywa niu o których mowa wart. 36, z pomocy osób nie pracownikami jednostek orga nizacyjnych kontroli skarbowej.
+2. Minister Finansów jest obowiązany ujawnić dane o osobie, o której mowa w ust. 1, na wniosek Pierwszego Prezesa Sądu Najwyższego w przypadku wszczęcia postępowania karnego o przestępstwo wymienione w art. 109 Kodeksu karnego lub o zbrodnię godzącą w życie ludzkie albo o występek przeciwko życiu i zdrowiu, gdy jego następstwem była śmierć człowieka, a także w przypadku uzasadnionego podejrzenia popełnienia przez tę osobę przestępstwa ściganego z oskarżenia publicznego w związku z wykonywaniem czynności operacyjno-rozpoznawczych.
 
-2. Minister Finansów jest dane o osobie, o której mowa w ust. 1, na wn iosek Pierwszego Preze sa w przypadku karnego o wymienione wart. 109 Kodeksu karnego lub o w ludzkie albo o przeciwko i zdrowiu, gdy jego na a w przypadku uzasadnionego podejrzenia przez z publicznego w z wykonywa niem operacyjno-rozpo znawczych.
+3. Osobom udzielającym pomocy pracownikom operacyjnym w wykonywaniu zadań, o których mowa w art. 36, może być przyznane wynagrodzenie.
 
-3. Osobom pomocy pra cownikom operacyjnym w wykonywa niu o których mowa wart. 36, przyznane wynagrodzenie.
+4. Jeżeli w czasie udzielania pomocy lub w związku z pomocą, o której mowa w ust. 1, osoby udzielające pomocy utraciły życie lub poniosły uszczerbek na zdrowiu, osobom tym lub członkom ich rodzin odszkodowanie przysługuje na zasadach i w trybie określonych przez Ministra Finansów w drodze rozporządzenia.
 
-4. w czasie udzielania pomocy lub w z o której mowa w ust. 1, osoby pomocy lub uszczerbek na zdrowiu, osobom tym lub ich rodzin odszkodowanie na zasadach i w trybie przez Ministra Finansów w drodze roz
+5. Tworzy się fundusz operacyjny przeznaczony na wypłatę wynagrodzeń lub odszkodowań, o których mowa w ust. 3 i 4; ustawa budżetowa, w części dotyczącej Ministerstwa Finansów, określa wysokość funduszu w danym roku. w drodze zarządzeń:
 
-5. Tworzy fundusz operacyjny prze znaczony na lub o których mowa w ust. 3 i 4; ustawa w dotyMinisterstwa Finansów, funduszu w danym roku.
-
-6. Minister Finansów, przepisy o ochronie tajemnicy stwowej, w drodze
-
-- **1)** w porozumieniu z Ministrem Spraw i Administracji spo sób prowadzenia operacyj no-rozpoznawczych oraz rodzaje sto sowanych technicznych, o których mowa wart. 36 ust. 1-3,
+- **1)** w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji - sposób prowadzenia czynności operacyjno-rozpoznawczych oraz rodzaje stosowanych środków technicznych, o których mowa w art. 36 ust. 1-3,
 - **2)** zasady dysponowania funduszem operacyjnym, o którym mowa w ust. 5.";
 - **26)** w art. 38 w ust. 3:
-    - **a)** po pkt 2 dodaje pkt 2a w brzmieniu: ,,2a) kontrolowanego w cha rakterze strony,"
-    - **b)** pkt 5 otrzymuje brzmienie: ,,5) wydawania decyzji,"
-    - **c)** pkt 7 i 8 brzmienie: ,,7) podpisywania aktów lub wnio sków o ukaranie,
+    - **a)** po pkt 2 dodaje się pkt 2a w brzmieniu: "2a) przesłuchiwania kontrolowanego w charakterze strony,",
+    - **b)** pkt 5 otrzymuje brzmienie: "5) wydawania decyzji,",
+    - **c)** pkt 7 i 8 otrzymują brzmienie: "7) podpisywania aktów oskarżenia lub wniosków o ukaranie,
 
-- **8)** o których mowa wart. 16 ust. 4.";
+- **8)** czynności, o których mowa w art. 16 ust. 4.";
 - **27)** w art. 39:
-    - **a)** w ust. 1 pkt 4 otrzymuje brzmienie: ,,4) jest zatrudniony w jednostkach organizacyj nych kontroli skarbowej i posiada co naj mniej 5-letni pracy w organach admini stracji podatkowej albo w jednostkach organizacyjnych kontroli ska rbowej,"
-    - **b)** po ust. 2 dodaje ust. 2a w brzmieniu: ,,2a. Inspektorzy corocznej ocenie kwalifikacyjnej." ;
+    - **a)** w ust. 1 pkt 4 otrzymuje brzmienie: "4) jest zatrudniony w jednostkach organizacyjnych kontroli skarbowej i posiada co najmniej 5letni staż pracy w organach administracji podatkowej albo 3-letnią praktykę w jednostkach organizacyjnych kontroli skarbowej,",
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: "2a. Inspektorzy podlegają corocznej ocenie kwalifikacyjnej.";
 
-- **28)** w art. 40 po ust. 1 dodaje nowe ust. 1 a i 1b w brzmieniu: " 1a . Pracownikom jednostek organizacyjnych kon troli skarbowej, którzy nie inspektorami, a wy kontrolne lub czyn operacyjno-rozpoznawcze, dodatek skarbowy do wynagrodze nia, w do 50% wynagrodzenia.
+- **28)** w art. 40 po ust. 1 dodaje się nowe ust. 1a i 1b w brzmieniu: "1a. Pracownikom jednostek organizacyjnych kontroli skarbowej, którzy nie są inspektorami, a wykonują osobiście czynności kontrolne lub czynności operacyjno-rozpoznawcze, przysługuje miesięczny dodatek skarbowy do wynagrodzenia, w wysokości do 50% wynagrodzenia.
 
-1b. Minister Finansów, w drodze zasady, i tryb przyznawania dodatku, o którym mowa w ust. 1 a.";
+1b. Minister Finansów, w drodze rozporządzenia, określi zasady, wysokość i tryb przyznawania dodatku, o którym mowa w ust. 1a.";
 
-- **29)** art. 42 i 43 brzmienie: "Art. 42. 1. Generalny Inspektor Kontroli Skarbo wej inspektora z zajmowane go stanowiska, inspektor:
-- **1)** z zajmowanego stanowiska,
-- **2)** nie warunków wart. 39 ust. 1 pkt 1 lub 2,
-- **3)** kwalifikacyj nie po trzech od poprzed niej oceny,
-- **4)** lub psy do pracy na zajmowanym stanowisku, orzecza niem komisji lekarskiej do spraw in walidztwa i zatrudnienia,
-- **5)** prawo do emerytury na pod stawie ogólnie prze pisów.
+- **29)** art. 42 i 43 otrzymują brzmienie: "Art. 42. 1. Generalny Inspektor Kontroli Skarbowej odwołuje inspektora z zajmowanego stanowiska, jeżeli inspektor:
+- **1)** złożył rezygnację z zajmowanego stanowiska,
+- **2)** nie spełnia warunków określonych w art. 39 ust. 1 pkt 1 lub 2,
+- **3)** otrzymał ujemną ocenę kwalifikacyjną, potwierdzoną ponowną ujemną oceną dokonaną nie wcześniej niż po upływie trzech miesięcy od poprzedniej oceny,
+- **4)** utracił zdolność fizyczną lub psychiczną do pracy na zajmowanym stanowisku, stwierdzoną orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia,
+- **5)** nabył prawo do emerytury na podstawie ogólnie obowiązujących przepisów.
 
-2. inspektora z przyczyn okre w ust. 1 pkt 1, 3 i 4 nie stanowi stosunku pracy; nowe wa runki pracy i proponuje mu inspektorowi dyrektor kon troli skarbowej inspektor jest zatrudniony w tym albo Mini ster Finansów inspektor jest za trudniony w Ministerstwie Finansów.
+2. Odwołanie inspektora z przyczyn określonych w ust. 1 pkt 1, 3 i 4, nie stanowi rozwiązania stosunku pracy; nowe warunki pracy i płacy proponuje odwołanemu inspektorowi dyrektor urzędu kontroli skarbowej - jeżeli inspektor jest zatrudniony w Ministerstwie Finansów.
 
-3. Generalny Inspektor Kontroli Skarbo wej inspektora, przyczyny nie stosunku pracy bez wypowiedze nia, w ustawie o pracowni kach nie w tym trybie jest równoznaczne z umowy o bez wy powiedzenia.
+3. Generalny Inspektor Kontroli Skarbowej odwołuje inspektora, jeżeli wystąpiły przyczyny uzasadniające rozwiązanie stosunku pracy bez wypowiedzenia, określone w ustawie o pracownikach urzędów państwowych; odwołanie w tym trybie jest równoznaczne z rozwiązaniem umowy o pracę bez wypowiedzenia.
 
-**Art. 43.** W sprawach z zakresu stosunku pracy, nie uregulowanych w niniejszej ustawie, do inspektorów oraz innych pracowników kontroli skarbowej stosuje przepisy o pracownikach stwowych."
+**Art. 43.** W sprawach z zakresu stosunku pracy, nie uregulowanych w niniejszej ustawie, do inspektorów oraz innych pracowników urzędów kontroli skarbowej stosuje się przepisy o pracownikach urzędów państwowych.".
 
-**Art. 2.** W Kodeksie karnego wart. 265 w 2 wyrazy "w toku kontroli".
+**Art. 2.** W Kodeksie postępowania karnego w art. 265 w § 2 skreśla się wyrazy "w toku kontroli".
 
-**Art. 3.** W ustawie karnej skarbowej z dnia 26 dziernika 1971 r. (Dz. U. z 1984 r. 22, poz. 103, z 1985 r. 23, poz. 100, z 1990 r. 14, poz. 84 i 86, poz. 503, z 1991 r. 100, poz. 442 i 107, poz. 458, z 1992 r. 21, poz. 85 i 68, poz. 341, z 1994 r. 43, poz. 160, 126, poz. 615 i 136, poz. 703 oraz z 1995 r. 132, poz. 641) wprowadza zmiany:
+**Art. 3.** W ustawie karnej skarbowej z dnia 26 października 1971 r. (Dz.U. z 1984 r. Nr 22, poz. 103, z 1985 r. Nr 23, poz. 100, z 1990 r. Nr 14, poz. 84 i Nr 86, poz. 503, z 1991 r. Nr 100, poz. 442 i Nr 107, poz. 458, z 1992 r. Nr 21, poz. 85 i Nr 68, poz. 341, z 1994 r. Nr 43, poz. 160, Nr 126, poz. 615 i Nr 136, poz. 703 oraz z 1995 r. Nr 132, poz. 641) wprowadza się następujące zmiany:
 
 **Art. 4.**
 
-1. Żądania, o których mowa wart. 1 pkt 18 i 19 niniejszej ustawy, nie informacji o zda rzeniach przed dniem 1 stycznia 1997 r.
+1. Żądania, o których mowa w art. 1 pkt 18 i 19 niniejszej ustawy, nie mogą dotyczyć informacji o zdarzeniach zaistniałych przed dniem 1 stycznia 1997 r.
 
-2. Przepisów, o których mowa w ust. 1, nie stosuje do wymienionych wart. 1 pkt 18 niniejszej ustawy, w zakresie informacji o zdarze niach wart. 33 ust.
+2. Przepisów, o których mowa w ust. 1, nie stosuje się do żądań wymienionych w art. 1 pkt 18 niniejszej ustawy, w zakresie dotyczącym informacji o zdarzeniach określonych w art. 33 ust. 1.
 
 **Art. 5.**
 
-1. W okresie trzech lat od dnia w cie niniejszej ustawy instytucje finansowe wymienione wart. 1 pkt 17 z wnioskiem do General nego Inspektora Kontroli Skarbowej lub dyrektora kontroli skarbowej, w od tego, kto przekazania informacji, o ograniczenie ich za kresu.
+1. W okresie trzech lat od dnia wejścia w życie niniejszej ustawy instytucje finansowe wymienione w art. 1 pkt 18 mogą wystąpić z wnioskiem do Generalnego Inspektora Kontroli Skarbowej lub dyrektora urzędu kontroli skarbowej, w zależności od tego, kto zażądał przekazania informacji, o ograniczenie ich zakresu.
 
-2. Wniosek, o którym mowa w ust. 1, jest w terminie 14 dni od dnia otrzymania i wyma ga uzasadnieniu.
+2. Wniosek, o którym mowa w ust. 1, składany jest w terminie 14 dni od dnia otrzymania żądania i wymaga uzasadnienia.
 
-3. Generalny Inspektor Kontroli Skarbowej lub dy rektor kontroli skarbowej, w terminie 30 dnia otrzymania wniosku, postanawia ostatecznie o za kresie dni od informacji.
+3. Generalny Inspektor Kontroli Skarbowej lub dyrektor urzędu kontroli skarbowej, w terminie 30 dni od dnia otrzymania wniosku, postanawia ostatecznie o zakresie żądanych informacji.
 
-**Art. 6.** Sprawy a nie do dnia w ustawy, prowadzi na zasa dach i w trybie przez przepisy dotych czasowe.
+**Art. 6.** Sprawy wszczęte, a nie zakończone do dnia wejścia w życie ustawy, prowadzi się na zasadach i w trybie określonych przez przepisy dotychczasowe.
 
-**Art. 7.** Minister Finansów w Dzienniku Rzeczypospolitej Polskiej jednolity tekst ustawy o kontroli skarbowej, z zmian wynika z przepisów przed dniem wydania jednolitego tekstu.
+**Art. 7.** Minister Finansów ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy o kontroli skarbowej, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
 
 **Art. 8.**
 
-1. Ustawa wchodzi w z dniem 1 stycz nia 1997 r. Przepisy art. pkt i w z dniem stycznia 1998 r. Prezydent Rzeczypospolitej Polskiej: A. 721 USTAWA z dnia 7 listopada 1996 r. o zmianie ustawy o podatku od spadków i darowizn.
+1. Ustawa wchodzi w życie z dniem 1 stycznia 1997 r.
 
-**Art. 1.** W ustawie z dnia 28 lipca ·1983 r. o podatku od spadków i darowizn (Dz. U. 45, poz. 207, z 1989 r. 74, poz. 443 oraz z 1995 r. 85, poz. 428 i 133, poz. wart. w ust. pkt 13 otrzymuje brzmienie: ,,13) nabycie w drodze spadku lub darowizny budyn ku w przez osoby trzecie na podsta wie umów najmu, do których przepisy o czynszu regulowanym, zastosowanie w ustawie o najmie lokali mieszkalnych i dodat kach mieszkaniowych,".
-
-**Art. 2.** Ustawa wchodzi w po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: A. 722 USTAWA z dnia 7 listopada 1996 r. o egzemplarzach bibliotecznych.
-
-**Art. 1.** Ustawa wydawców w za kresie przekazywania oraz bibliotek w zakresie gromadzenia dorobku wydawniczego.
-
-**Art. 2.**
-
-1. Przez "wydawca" rozu nie po prawnej oraz która prowadzi na obszarze Rzeczypospolitej Polskiej na publikowaniu domnie mywa jest osoba, której lub na zwisko uwidoczniono w tym charakterze na egzempla rZiJch publikacji.
-
-2. Przez "publikacja" dziela zwielokrotnione w celu rozpo wszechnienia, n w jak: broszury, gazety, czasopi sma i inne wydawnictwa druki ulotne, afi sze, graficzne i jak: mapy, pla katy, plany, wykresy, tabele, rysunki, ilustracje, nu ty,
-
-- **3)** audiowizualne obraz lub obraz i jak: kasety, mi krofilmy, mikrofisze,
-- **4)** zapisane na elektronicznych,
-- **5)** oprogramowanie komputerowe.
-
-**Art. 3.**
-
-1. Wydawca, który publicznie eg zemplarze publikacji na obszarze Rzeczypospolitej Pol skiej lub za jest do
+2. Przepisy art. 1 pkt 24 i 25 wchodzą w życie z dniem 1 stycznia 1998 r.
 
 

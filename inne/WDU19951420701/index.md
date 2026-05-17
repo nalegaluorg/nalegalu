@@ -8,9 +8,10 @@ pos: 701
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, dnia 12 grudnia 1995r.
+# U S T A W A z dnia 29 czerwca 1995 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,37 +25,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951420701) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/701/text.pdf) |
 
-142 POZ.: USTAWY: 701 - dnia czerwca o zmianie ustawy o radiofonii telewizji oraz o zmianie niektórych innych ustaw 702 - dnia r. o zasadach ewidencji identyfikacji podatników 703 - dnia r. o zmianie ustawy o podatku od towarów oraz o podatku akcyzowym .
-704 - dnia o zmianie ustawy o podatku dochodowym od osób prawnych oraz o zmianie niektórych innych ustaw ROZPORZĄDZENIE RADY MINISTRÓW 705 - dnia grudnia r. sprawie nadania statutu Nadzoru 701
-USTAWA dnia 29 czerwca 1995 r.
-o zmianie ustawy o radiofonii telewizji oraz o zmianie niektórych innych ustaw.
+o zmianie ustawy o radiofonii telewizji oraz o zmianie niektórych innych ustaw
 
-**Art. 1.** W ustawie dnia 29 grudnia 1992 r. o radio fonii telewizji (Dz. U. 1993 r. 7, poz. 34 1995 r. 66, poz. 335) wprowadza zmiany:
+**Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii telewizji (Dz.U. z 1993 r. Nr 7, poz. 34 z 1995 r. Nr 66, poz.
+
+**Art. 2.** W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz.U. Nr 20, poz. 101, z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 22, poz. 98 Nr 50, poz. 262, z 1987 r. Nr 21, poz. 123, z 1989 r. Nr 34, poz. 178, z 1991 r. Nr 100, poz. 443, z 1993 r. Nr 1, poz. 1 z 1995 r. Nr 34, poz.
 
 **Art. 3.**
 
-1. Krajowa Rada Radiofonii Telewizji dosto suje do przepisów ustawy termi nie jednego od dnia ustawy
+1. Krajowa Rada Radiofonii Telewizji dostosuje swoją organizację do przepisów ustawy terminie jednego miesiąca od dnia wejścia ustawy życie.
 
-2. Posiedzenie sprawie wyboru Krajowej Rady Radiofonii Telewizji przewod niczy mu najstarszy wiekiem Krajowej Rady.
+2. Posiedzenie sprawie wyboru Przewodniczącego Krajowej Rady Radiofonii Telewizji zwołuje przewodniczy mu najstarszy wiekiem członek Krajowej Rady.
 
 **Art. 4.**
 
-1. Krajowa Rada Radiofonii Telewizji, ter minie do dni od dnia ustawy powo rady programowe tych publicznej radio fonii telewizji, których nie one dotychczas
+1. Krajowa Rada Radiofonii Telewizji, terminie do 60 dni od dnia wejścia ustawy życie, powoła rady programowe tych spółkach publicznej radiofonii telewizji, których nie zostały one dotychczas powołane.
 
-2. Kadencja rad programowych na podstawie dotychczasowych przepisów po czterech latach od dnia ich
+2. Kadencja rad programowych powołanych na podstawie dotychczasowych przepisów upływa po czterech latach od dnia ich powołania.
 
-**Art. 5.** Ustawa wchodzi po dni od dnia Prezydent Rzeczypospolitej Polskiej: L. 702 USTAWA dnia r. o zasadach ewidencji identyfikacji podatników. 1 Przepisy ogólne
-
-**Art. 1.** Ustawa zasady ewidencji podatni ków, zasady tryb nadawania numerów identyfikacji podatkowej oraz zasady tymi nume rami.
-
-**Art. 2.** Osoby fizyczne, osoby prawne, jednostki or ganizacyjne nie prawnej oraz za osób prawnych, które na podstawie przepisów podatnikami, obo ewidencyjnemu oraz numery identyfikacji podatkowej, zwane dalej" NIP".
-
-**Art. 3.**
-
-1. Ewidencji podatników skarbowe.
-
-2. Nadanie NIP drodze decyzji admini stracyjnej skarbowego.
-
-3. NIP nie ukrytego lub jawnego charak teru pewne cechy podatnika.
-
+**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

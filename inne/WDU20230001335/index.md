@@ -8,9 +8,12 @@ pos: 1335
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lipca 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy dodatkach mieszkaniowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001335) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1335/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 lipca 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy dodatkach mieszkaniowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 czerwca 2001 r. dodatkach mieszkaniowych (Dz. U. z 2021 r. poz. 2021), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 7 lipca 2022 r. zmianie niektórych ustaw zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561),
 2) ustawą z dnia 29 września 2022 r. zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 czerwca 2023 r.
@@ -78,7 +79,7 @@ dodatkach mieszkaniowych
 - **1)** jednoosobowym 40%,
 - **2)** wieloosobowym 30% przeciętnego wynagrodzenia gospodarce narodowej, obowiązującego dniu złożenia wniosku, z uwzględnieniem art. 6 ust. 8 i art. 7 ust. 6.
 
-1a. Rada gminy, drodze uchwały, może podwyższyć wskaźniki procentowe przeciętnego wynagrodzenia gospodarce narodowej, których mowa ust. 1. Przepis art. 6 ust. 8 stosuje się odpowiednio. gospodarce narodowej, obowiązującego dniu złożenia wniosku, ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504, 1504 i 2461).
+1a. Rada gminy, drodze uchwały, może podwyższyć wskaźniki procentowe przeciętnego wynagrodzenia gospodarce narodowej, których mowa ust. 1. Przepis art. 6 ust. 8 stosuje się odpowiednio. Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504, 1504 i 2461).
 
 3. Za dochód uważa się dochód rozumieniu art. 3 pkt 1 ustawy z dnia 28 listopada 2003 r. świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390, 658 i 852).
 
@@ -103,7 +104,7 @@ dodatkach mieszkaniowych
 - **5)** 65 m dla 5 osób;
 - **6)** 70 m dla 6 osób, a razie zamieszkiwania lokalu mieszkalnym większej liczby osób dla każdej kolejnej osoby zwiększa się normatywną powierzchnię tego lokalu 5 m .
 
-2. W wypadku najmu albo podnajmu części lokalu mieszkalnego za powierzchnię użytkową lokalu mieszkalnego lub części tego lokalu zajmowanego przez gospodarstwo domowe najemcy albo podnajemcy uważa się powierzchnię zajmowanych pokoi, wynikającą z umowy najmu lub podnajmu, oraz część powierzchni kuchni, łazienki, korytarzy i innych pomieszczeń wspólnych znajdujących się tym lokalu, odpowiadającą stosunkowi liczby członków gospodarstwa domowego najemcy albo podnajemcy do liczby osób zajmujących cały lokal. Za powierzchnię użytkową lokalu mieszkalnego zamieszkiwaną przez wynajmującego uważa się powierzchnię pokoi zajmowanych przez gospodarstwo domowe wynajmującego oraz część powierzchni kuchni, łazienki, korytarzy i innych pomieszczeń wspólnych wchodzących skład tego lokalu, odpowiadającą stosunkowi liczby członków gospodarstwa domowego wynajmującego do liczby osób zajmujących cały lokal. poruszająca się na wózku inwalidzkim lub osoba niepełnosprawna, której niepełnosprawność wymaga zamieszkiwania oddzielnym pokoju. Normatywną powierzchnię powiększa się niezależnie od liczby członków gospodarstwa domowego. O wymogu zamieszkiwania oddzielnym pokoju orzekają powiatowe zespoły do spraw orzekania niepełnosprawności, których mowa ustawie z dnia 27 sierpnia 1997 r. rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240 i 852).
+2. W wypadku najmu albo podnajmu części lokalu mieszkalnego za powierzchnię użytkową lokalu mieszkalnego lub części tego lokalu zajmowanego przez gospodarstwo domowe najemcy albo podnajemcy uważa się powierzchnię zajmowanych pokoi, wynikającą z umowy najmu lub podnajmu, oraz część powierzchni kuchni, łazienki, korytarzy i innych pomieszczeń wspólnych znajdujących się tym lokalu, odpowiadającą stosunkowi liczby członków gospodarstwa domowego najemcy albo podnajemcy do liczby osób zajmujących cały lokal. Za powierzchnię użytkową lokalu mieszkalnego zamieszkiwaną przez wynajmującego uważa się powierzchnię pokoi zajmowanych przez gospodarstwo domowe wynajmującego oraz część powierzchni kuchni, łazienki, korytarzy i innych pomieszczeń wspólnych wchodzących skład tego lokalu, odpowiadającą stosunkowi liczby członków gospodarstwa domowego wynajmującego do liczby osób zajmujących cały lokal. oddzielnym pokoju. Normatywną powierzchnię powiększa się niezależnie od liczby członków gospodarstwa domowego. O wymogu zamieszkiwania oddzielnym pokoju orzekają powiatowe zespoły do spraw orzekania niepełnosprawności, których mowa ustawie z dnia 27 sierpnia 1997 r. rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240 i 852).
 
 4. Wydatki na normatywną powierzchnię zajmowanego lokalu mieszkalnego oblicza się, dzieląc wydatki za ten lokal przez jego powierzchnię użytkową i mnożąc uzyskany ten sposób wskaźnik przez normatywną powierzchnię, której mowa ust. 1.
 
@@ -180,7 +181,7 @@ dodatkach mieszkaniowych
 
 1. Dodatek mieszkaniowy przyznaje, na wniosek osoby uprawnionej do dodatku mieszkaniowego, wójt, burmistrz lub prezydent miasta, drodze decyzji administracyjnej. Do wniosku dołącza się deklarację dochodach gospodarstwa domowego za okres 3 miesięcy poprzedzających dzień złożenia wniosku oraz dokumenty potwierdzające wysokość ponoszonych miesiącu poprzedzającym dzień złożenia wniosku wydatków związanych z zajmowaniem lokalu mieszkalnego.
 
-1a. Organ, którym mowa ust. 1, może upoważnić inną osobę do wydawania decyzji sprawach dodatku mieszkaniowego. kalny potwierdza podpisem prawdziwość informacji we wniosku przyznanie dodatku mieszkaniowego, których mowa ust. 1c pkt 2–5 oraz 7 i 9.
+1a. Organ, którym mowa ust. 1, może upoważnić inną osobę do wydawania decyzji sprawach dodatku mieszkaniowego. ust. 1c pkt 2–5 oraz 7 i 9.
 
 1c. Wniosek przyznanie dodatku mieszkaniowego zawiera:
 
@@ -215,7 +216,7 @@ dodatkach mieszkaniowych
 3. Organ, którym mowa ust. 1, odmawia przyznania dodatku mieszkaniowego, jeżeli wyniku przeprowadzenia wywiadu środowiskowego ustali, że:
 
 - **1)** występuje rażąca dysproporcja pomiędzy niskimi dochodami wykazanymi złożonej deklaracji, której mowa ust. 1, a faktycznym stanem majątkowym wnioskodawcy, wskazującym, że jest on stanie uiszczać wydatki związane z zajmowaniem lokalu mieszkalnego (domu jednorodzinnego) wykorzystując własne środki i posiadane zasoby majątkowe lub
-- **2)** faktyczna liczba wspólnie stale zamieszkujących i gospodarujących z wnioskodawcą jest mniejsza niż wykazana deklaracji, której mowa ust. 1. do odmowy przyznania dodatku mieszkaniowego.
+- **2)** faktyczna liczba wspólnie stale zamieszkujących i gospodarujących z wnioskodawcą jest mniejsza niż wykazana deklaracji, której mowa ust. 1.
 
 4. Upoważniony przez organ, którym mowa ust. 1, pracownik przeprowadzający wywiad środowiskowy może żądać od wnioskodawcy i innych członków gospodarstwa domowego złożenia, pod rygorem odpowiedzialności karnej, oświadczenia stanie majątkowym, zawierającego szczególności dane dotyczące posiadanych:
 
@@ -290,7 +291,7 @@ dodatkach mieszkaniowych
 
 **Art. 17.**
 
-1. W latach 2003 i 2004 dodatek mieszkaniowy przysługuje osobom, których mowa art. 2 ust. 1, jeżeli średni miesięczny dochód na jednego członka gospodarstwa domowego okresie 3 miesięcy poprzedzających datę złożenia wniosku przyznanie dodatku mieszkaniowego nie przekracza 160% kwoty najniższej emerytury gospodarstwie jednoosobowym lub 110% tej kwoty gospodarstwie wieloosobowym, obowiązującej dniu złożenia wniosku, z zastrzeżeniem art. 6 ust. 8. gospodarstwie jednoosobowym i 100% tej kwoty gospodarstwie wieloosobowym, lecz nie przekracza odpowiednich wysokości średnich miesięcznych dochodów wymienionych ust. 1, wówczas dla celów obliczenia dodatku mieszkaniowego przyjmuje się wydatki poniesione przez osobę otrzymującą dodatek mieszkaniowy wysokości:
+1. W latach 2003 i 2004 dodatek mieszkaniowy przysługuje osobom, których mowa art. 2 ust. 1, jeżeli średni miesięczny dochód na jednego członka gospodarstwa domowego okresie 3 miesięcy poprzedzających datę złożenia wniosku przyznanie dodatku mieszkaniowego nie przekracza 160% kwoty najniższej emerytury gospodarstwie jednoosobowym lub 110% tej kwoty gospodarstwie wieloosobowym, obowiązującej dniu złożenia wniosku, z zastrzeżeniem art. 6 ust. 8. wysokości średnich miesięcznych dochodów wymienionych ust. 1, wówczas dla celów obliczenia dodatku mieszkaniowego przyjmuje się wydatki poniesione przez osobę otrzymującą dodatek mieszkaniowy wysokości:
 
 - **1)** 20% dochodów gospodarstwa domowego gospodarstwie jednoosobowym;
 - **2)** 15% dochodów gospodarstwa domowego gospodarstwie 2–4-osobowym;

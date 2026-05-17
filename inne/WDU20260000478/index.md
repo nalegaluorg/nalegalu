@@ -8,9 +8,12 @@ pos: 478
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 kwietnia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o podatku od spadków i darowizn
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000478) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/478/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o podatku od spadków i darowizn
 1. Na podstawie 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 1837), z uwzględnieniem stanu prawnego na dzień 19 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769);
 2) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy o podatku od spadków i darowizn (Dz. U. poz. 1064);

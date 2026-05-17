@@ -8,9 +8,12 @@ pos: 1464
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 października 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach przygotowania i realizacji inwestycji zakresie lotnisk użytku publicznego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-10-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001464) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1464/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach przygotowania i realizacji inwestycji zakresie lotnisk użytku publicznego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie lotnisk użytku publicznego (Dz. U. z 2023 r. poz. 979), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 czerwca 2023 r.
 o zmianie ustawy Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 września 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 60 i art. 76 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), które stanowią: „Art. 60. Do postępowań sprawach o wydanie decyzji o zezwoleniu na realizację inwestycji zakresie lotniska użytku publicznego wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 15 brzmieniu dotychczasowym.” „Art. 76. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
@@ -82,7 +83,7 @@ o szczególnych zasadach przygotowania i realizacji inwestycji zakresie lotnisk 
     - **e)** dyrektora właściwego urzędu morskiego odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani,
     - **f)** właściwego organu nadzoru górniczego odniesieniu do terenów górniczych, fa) ministra właściwego do spraw środowiska odniesieniu do złóż strategicznych,
     - **g)** dyrektora właściwego regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach bezpośredniego zagrożenia powodzią,
-    - **h)** dyrektora właściwej regionalnej dyrekcji Lasów Państwowych odniesieniu do nieruchomości leśnych stanowiących własność Skarbu Państwa, będących zarządzie Lasów Państwowych, odrębnych przepisów,
+    - **h)** dyrektora właściwej regionalnej dyrekcji Lasów Państwowych odniesieniu do nieruchomości leśnych stanowiących własność Skarbu Państwa, będących zarządzie Lasów Państwowych,
     - **j)** właściwego zarządcy infrastruktury kolejowej odniesieniu do linii kolejowej;
 
 - **10)** informację dotyczącą prognozy, rodzaju i wielkości ruchu pasażerskiego i towarowego z tego lotniska, organizacji ruchu lotniczego na lotnisku i jego rejonie ze wskazaniem wpływu na ruch prowadzony z istniejących sąsiednich lotnisk, a także odnośnie do rodzaju, sposobu i kosztów zapewniania służb żeglugi powietrznej przypadku, gdy wnioskodawcą jest Polska Agencja Żeglugi Powietrznej;

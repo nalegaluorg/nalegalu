@@ -8,9 +8,12 @@ pos: 1088
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 czerwca 2023 r.
+# o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw
+
+*USTAWA z dnia 14 kwietnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1088/text.pdf) |
 
-USTAWA z dnia 14 kwietnia 2023 r.
-o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw
-
 **Art. 1.**
 
 1. Szkole Głównej Służby Pożarniczej nadaje się nazwę „Akademia Pożarnicza”.
@@ -34,16 +34,6 @@ o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właśc
 2. Wyższej Szkole Policji Szczytnie nadaje się nazwę „Akademia Policji Szczytnie”.
 
 **Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 34j.**
-
-1. Policjant, który ukończył szkolenie, o którym mowa 34 ust. 8 pkt 1, otrzymuje świadectwo ukończenia szkolenia lub świadectwo ukończenia szkolenia z wyróżnieniem.
-
-2. W przypadku, o którym mowa 34 ust. 10, policjant otrzymuje świadectwo zdania egzaminu końcowego lub świadectwo zdania egzaminu końcowego z wyróżnieniem.
-
-3. Policjant, który ukończył szkolenie, o którym mowa 30 ust. 2a, otrzymuje świadectwo ukończenia szkolenia dla policjantów służbie kandydackiej.
-
-4. Policjant, który ukończył doskonalenie zawodowe, o którym mowa 34h ust. 2 pkt 1 i ust. 3, otrzymuje świadectwo ukończenia doskonalenia zawodowego centralnego.
 
 **Art. 34k.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia:
 
@@ -53,21 +43,21 @@ o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właśc
 
 **Art. 5.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, 919 i 1053) 129fc ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wojewódzki inspektor transportu drogowego, komendant wojewódzki Policji, Komendant Stołeczny Policji, Komendant-Rektor Akademii Policji Szczytnie, komendant szkoły policyjnej, komendant oddziału Straży Granicznej, Rektor-Komendant Wyższej Szkoły Straży Granicznej i dyrektor Krajowej Szkoły Skarbowości, każdy zakresie swojej właściwości:”.
+**Art. 6.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, 919 i 1053) 129fc ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wojewódzki inspektor transportu drogowego, komendant wojewódzki Policji, Komendant Stołeczny Policji, Komendant-Rektor Akademii Policji Szczytnie, komendant szkoły policyjnej, komendant oddziału Straży Granicznej, Rektor-Komendant Wyższej Szkoły Straży Granicznej i dyrektor Krajowej Szkoły Skarbowości, każdy zakresie swojej właściwości:”.
 
-**Art. 7.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz. 202, 547 i 1053) 35 ust. 4 pkt 2 otrzymuje brzmienie: „2) Straży Granicznej kierownik jednostki organizacyjnej Straży Granicznej albo osoby przez niego upoważnione, a razie ich nieobecności dyżurny operacyjny lub kierownik zmiany;”.
+**Art. 7.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz. 202, 547 i 1053) 35 ust. 4 pkt 2 otrzymuje brzmienie: „2) Straży Granicznej – kierownik jednostki organizacyjnej Straży Granicznej albo osoby przez niego upoważnione, a razie ich nieobecności – dyżurny operacyjny lub kierownik zmiany;”.
 
 **Art. 8.** W ustawie z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032) 34 ust. 2:
 
-**Art. 9.** W ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742) 444 ust. 6 pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) funkcjonariuszy Straży Granicznej służbie stałej skierowanych na te studia przez właściwego przełożonego, o którym mowa 36 ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080 i 1088).”.
+**Art. 9.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742) 444 ust. 6 pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) funkcjonariuszy Straży Granicznej służbie stałej skierowanych na te studia przez właściwego przełożonego, o którym mowa 36 ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080 i 1088).”.
 
-**Art. 10.** W ustawie z dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej (Dz. U. poz. 1992 oraz z 2023 r. poz. 185) 9 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. W przypadku realizacji inwestycji z udziałem środków, o których mowa 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. ), stosuje się procedury określone umowach międzynarodowych, deklaracjach dawcy lub innych procedurach obowiązujących przy ich wykorzystaniu, szczególności ustawę z dnia 11 września 2019 r. Prawo zamówień publicznych.”.
+**Art. 10.** W ustawie z dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej (Dz. U. poz. 1992 oraz z 2023 r. poz. 185) 9 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. W przypadku realizacji inwestycji z udziałem środków, o których mowa 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. ), stosuje się procedury określone umowach międzynarodowych, deklaracjach dawcy lub innych procedurach obowiązujących przy ich wykorzystaniu, szczególności ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych.”.
 
 **Art. 11.** W ustawie z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości (Dz. U. poz. 2447 oraz z 2022 r. poz. 2666) 17 ust. 5 otrzymuje brzmienie: „5. Komendant Centralnego Biura Zwalczania Cyberprzestępczości, za zgodą Komendanta Głównego Policji, okresie do 2 lat od dnia wejścia życie niniejszej ustawy może powierzyć komendantom wojewódzkim Policji, Komendantowi Stołecznemu Policji, Komendantowi-Rektorowi Akademii Policji Szczytnie albo komendantom szkół policyjnych, przeprowadzenie poszczególnych etapów postępowania kwalifikacyjnego stosunku do kandydatów do służby Policji, o których mowa 25 ust. 2, 5, 12, 13 i 14 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą, ubiegających się o przyjęcie do służby Centralnym Biurze Zwalczania Cyberprzestępczości, z wyłączeniem sprawdzenia wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny.”.
 
 **Art. 12.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2023 r. poz. 103, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185 i 547) wprowadza się następujące zmiany:
 
-**Art. 56a.** Do dnia 31 sierpnia 2024 r. godziny ponadwymiarowe wymiarze wyższym niż określony 35 ust. 1 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela mogą być przydzielone nauczycielowi języka polskiego, za jego zgodą, także szkole, której nie utworzono dodatkowego oddziału celu zapewnienia kształcenia, wychowania i opieki dzieciom i uczniom będącym obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. związku z działaniami wojennymi prowadzonymi na terytorium tego państwa.”;
+**Art. 56a.** Do dnia 31 sierpnia 2024 r. godziny ponadwymiarowe wymiarze wyższym niż określony 35 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela mogą być przydzielone nauczycielowi języka polskiego, za jego zgodą, także szkole, której nie utworzono dodatkowego oddziału celu zapewnienia kształcenia, wychowania i opieki dzieciom i uczniom będącym obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. związku z działaniami wojennymi prowadzonymi na terytorium tego państwa.”;
 
 **Art. 14.** Osoby, które przed dniem wejścia życie ustawy nabyły kwalifikacje lub uprawnienia potwierdzone odpowiednimi dokumentami uzyskanymi Szkole Głównej Służby Pożarniczej, zachowują te kwalifikacje i uprawnienia.
 
@@ -102,7 +92,7 @@ o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właśc
 
 1. Należności i zobowiązania Centralnego Ośrodka Szkolenia Straży Granicznej stają się należnościami i zobowiązaniami Wyższej Szkoły Straży Granicznej.
 
-2. Postępowania sprawach o udzielenie zamówienia publicznego, wszczęte i niezakończone przed dniem wejścia życie przepisów, o których mowa 29 pkt 2, prowadzone przez Centralny Ośrodek Szkolenia Straży Granicznej przejmuje do prowadzenia Wyższa Szkoła Straży Granicznej. nej lub Komendant Centralnego Ośrodka Szkolenia Straży Granicznej, wszczętych i niezakończonych przed dniem wejścia życie przepisów, o których mowa 29 pkt 2, prawa i obowiązki strony przejmuje odpowiednio Wyższa Szkoła Straży Granicznej lub Rektor-Komendant Wyższej Szkoły Straży Granicznej.
+2. Postępowania sprawach o udzielenie zamówienia publicznego, wszczęte i niezakończone przed dniem wejścia życie przepisów, o których mowa 29 pkt 2, prowadzone przez Centralny Ośrodek Szkolenia Straży Granicznej przejmuje do prowadzenia Wyższa Szkoła Straży Granicznej. życie przepisów, o których mowa 29 pkt 2, prawa i obowiązki strony przejmuje odpowiednio Wyższa Szkoła Straży Granicznej lub Rektor-Komendant Wyższej Szkoły Straży Granicznej.
 
 4. W postępowaniach egzekucyjnych, których wierzycielem był Centralny Ośrodek Szkolenia Straży Granicznej, wierzycielem staje się Wyższa Szkoła Straży Granicznej.
 
@@ -144,15 +134,15 @@ o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właśc
 
 2. Wszystkie czynności podjęte sprawach, o których mowa ust. 1, pozostają mocy.
 
-3. W sprawach wznowienia postępowania sprawach ze stosunku służbowego funkcjonariuszy Straży Granicznej zakończonych przez Komendanta Centralnego Ośrodka Straży Granicznej przed dniem wejścia życie przepisów, o których mowa 29 pkt 2, właściwy jest Rektor-Komendant Wyższej Szkoły Straży Granicznej. Straży Granicznej.
+3. W sprawach wznowienia postępowania sprawach ze stosunku służbowego funkcjonariuszy Straży Granicznej zakończonych przez Komendanta Centralnego Ośrodka Straży Granicznej przed dniem wejścia życie przepisów, o których mowa 29 pkt 2, właściwy jest Rektor-Komendant Wyższej Szkoły Straży Granicznej.
 
 2. Do dnia wybrania Senatu Wyższej Szkoły Straży Granicznej na pierwszą kadencję jego zadania wykonuje Rektor-Komendant Wyższej Szkoły Straży Granicznej.
 
 3. Pierwsza kadencja Senatu Wyższej Szkoły Straży Granicznej kończy się z dniem 31 sierpnia 2024 r.
 
-4. Pierwszej kadencji Senatu Wyższej Szkoły Straży Granicznej nie wlicza się do liczby kadencji, o których mowa 30 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742).
+4. Pierwszej kadencji Senatu Wyższej Szkoły Straży Granicznej nie wlicza się do liczby kadencji, o których mowa 30 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742).
 
-**Art. 25.** W roku 2023 minister właściwy do spraw finansów publicznych, na wniosek ministra właściwego do spraw wewnętrznych, może dokonywać przeniesień wydatków, tym wynagrodzeń, zaplanowanych części 42 Sprawy wewnętrzne między działami i rozdziałami klasyfikacji wydatków budżetu państwa na realizację zadań związanych z działalnością Wyższej Szkoły Straży Granicznej.
+**Art. 25.** W roku 2023 minister właściwy do spraw finansów publicznych, na wniosek ministra właściwego do spraw wewnętrznych, może dokonywać przeniesień wydatków, tym wynagrodzeń, zaplanowanych części 42 – Sprawy wewnętrzne między działami i rozdziałami klasyfikacji wydatków budżetu państwa na realizację zadań związanych z działalnością Wyższej Szkoły Straży Granicznej.
 
 **Art. 26.** Pierwszy roczny plan rzeczowo-finansowy Wyższej Szkoły Straży Granicznej na 2023 r. sporządza się terminie 14 dni od dnia jej utworzenia.
 

@@ -8,9 +8,12 @@ pos: 1829
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 grudnia 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu kobiet ciąży i rodzin „Za życiem”
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 6 grudnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-12-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1829/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 6 grudnia 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu kobiet ciąży i rodzin „Za życiem”
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy dnia 4 listopada 2016 r. o wsparciu kobiet ciąży i rodzin „Za życiem” (Dz. U. 2023 r. poz. 1923), uwzględnieniem zmiany wprowadzonej ustawą dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) oraz zmian wynikających przepisów ogłoszonych przed dniem 28 listopada 2024 r.
 2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 121 ustawy dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), który stanowi: „Art. 121. Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, wyjątkiem:
 1) art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą życie dniem 1 stycznia 2025 r.;
@@ -52,7 +53,7 @@ o wsparciu kobiet ciąży i rodzin „Za życiem”
 6) innych świadczeń, tym zakresie wspierania rodziny i pieczy zastępczej.
 3. Ciężkie i nieodwracalne upośledzenie albo nieuleczalną chorobę zagrażającą życiu, które powstały prenatalnym okresie rozwoju dziecka lub czasie porodu, o których mowa ust. 2 pkt 2–4, stwierdza zaświadczeniu lekarz ubezpieczenia zdrowotnego, rozumieniu ustawy dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, posiadający specjalizację II stopnia lub tytuł specjalisty dziedzinie: położnictwa i ginekologii, perinatologii, neonatologii, neurologii dziecięcej, kardiologii dziecięcej lub chirurgii dziecięcej.
 4. Wsparcie, o którym mowa ust. 2 pkt 3–6, jest realizowane również na zasadach określonych przepisach odrębnych.
-właściwym spraw zabezpieczenia społecznego opracuje informator o uprawnieniach przysługujących na podstawie ustawy. Informator jest zamieszczany na stronach podmiotowych urzędów obsługujących tych ministrów.
+ustawy. Informator jest zamieszczany na stronach podmiotowych urzędów obsługujących tych ministrów.
 2. Podmiot udzielający świadczeń zdrowotnych jest obowiązany udzielania miejscu udzielania świadczeń informacji zakresie objętym informatorem, o którym mowa ust. 1.
 6. Uprawnienia, o których mowa art. 1 pkt 1, na rzecz kobiety ciąży oraz dziecka obejmują szczególności:
 1) diagnostykę prenatalną;
@@ -96,7 +97,6 @@ właściwym spraw zabezpieczenia społecznego opracuje informator o uprawnieniac
 12. Zwroty nienależnie pobranego jednorazowego świadczenia trakcie danego roku budżetowego nie mają wpływu na wysokość kosztów obsługi, o których mowa ust. 11.
 13. Przepisy art. 3 pkt 7, 11 i 15a, art. 7 pkt 2 i 6, art. 20–22, art. 23 ust. 2–3f, ust. 4 pkt 3, ust. 6a–13, art. 23a, art. 23b, art. 24a, art. 25 ust. 3, art. 27 ust. 1 i 2 i art. 29–32 ustawy dnia 28 listopada 2003 r. o świadczeniach rodzinnych stosuje się odpowiednio.
 14. Minister właściwy spraw rodziny określi, drodze rozporządzenia, wzór wniosku, o którym mowa ust. 3, kierując się koniecznością zapewnienia prawidłowego przebiegu postępowania sprawach o przyznanie jednorazowego świadczenia oraz dokumentacji niezbędnej sprawnej realizacji zadania, również drogą elektroniczną.
-2004 r. o pomocy społecznej (Dz. U. 2024 r. poz. 1283 i 1572).
 12. 1. Rada Ministrów terminie dnia 31 grudnia 2016 r. przyjmie program kompleksowego wsparcia dla rodzin „Za życiem”, opracowany na podstawie odrębnych przepisów.
 2. Program dotyczy szczególności:
 1) wczesnego wspomagania rozwoju dziecka;
