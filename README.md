@@ -23,7 +23,7 @@ Akty z największą liczbą powiązanych orzeczeń sądowych:
 
 ## Orzecznictwo
 
-Repozytorium zawiera kompaktowe indeksy orzecznictwa — łącznie **643 739** powiązań między orzeczeniami a aktami prawnymi.
+Repozytorium zawiera kompaktowe indeksy orzecznictwa — łącznie **646 440** powiązań między orzeczeniami a aktami prawnymi.
 
 Każdy akt prawny, na który powołują się orzeczenia, posiada plik `orzecznictwo.md` z listą cytujących orzeczeń pogrupowanych wg artykułu. Dla największych aktów (np. Kodeks cywilny) orzecznictwo jest podzielone na osobne pliki per artykuł.
 
@@ -69,13 +69,13 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 | [Prawo karne](prawo-karne/README.md) | 110 | [Pełna lista aktów →](prawo-karne/README.md) (38 z orzecznictwem) |
 | [Prawo konstytucyjne](prawo-konstytucyjne/README.md) | 2 | [Pełna lista aktów →](prawo-konstytucyjne/README.md) (1 z orzecznictwem) |
 | [Prawo morskie](prawo-morskie/README.md) | 6 | [Pełna lista aktów →](prawo-morskie/README.md) (2 z orzecznictwem) |
-| [Prawo ochrony środowiska](prawo-ochrony-srodowiska/README.md) | 46 | [Pełna lista aktów →](prawo-ochrony-srodowiska/README.md) (8 z orzecznictwem) |
-| [Prawo podatkowe](prawo-podatkowe/README.md) | 167 | [Pełna lista aktów →](prawo-podatkowe/README.md) (27 z orzecznictwem) |
-| [Prawo pracy](prawo-pracy/README.md) | 48 | [Pełna lista aktów →](prawo-pracy/README.md) (18 z orzecznictwem) |
+| [Prawo ochrony środowiska](prawo-ochrony-srodowiska/README.md) | 48 | [Pełna lista aktów →](prawo-ochrony-srodowiska/README.md) (9 z orzecznictwem) |
+| [Prawo podatkowe](prawo-podatkowe/README.md) | 169 | [Pełna lista aktów →](prawo-podatkowe/README.md) (28 z orzecznictwem) |
+| [Prawo pracy](prawo-pracy/README.md) | 49 | [Pełna lista aktów →](prawo-pracy/README.md) (18 z orzecznictwem) |
 | [Prawo telekomunikacyjne](prawo-telekomunikacyjne/README.md) | 6 | [Pełna lista aktów →](prawo-telekomunikacyjne/README.md) (2 z orzecznictwem) |
 | [Prawo upadłościowe](prawo-upadlosciowe/README.md) | 14 | [Pełna lista aktów →](prawo-upadlosciowe/README.md) (4 z orzecznictwem) |
 | [Prawo zamówień publicznych](prawo-zamowien/README.md) | 19 | [Pełna lista aktów →](prawo-zamowien/README.md) (7 z orzecznictwem) |
-| [Inne](inne/README.md) | 12282 | [Pełna lista aktów →](inne/README.md) (980 z orzecznictwem) |
+| [Inne](inne/README.md) | 12650 | [Pełna lista aktów →](inne/README.md) (983 z orzecznictwem) |
 
 ## Zakres i ograniczenia
 
@@ -85,4 +85,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*12944 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-17*
+*13317 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-17*

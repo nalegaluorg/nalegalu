@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo pracy**.
 
-Łącznie: **48** aktów
+Łącznie: **49** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -15,6 +15,7 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU20240000908](WDU20240000908/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20240001871](WDU20240001871/index.md) | Ustawa z dnia 6 grudnia 2024 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący |  |
 | [WDU20230000641](WDU20230000641/index.md) | Ustawa z dnia 9 marca 2023 r. o zmianie ustawy - Kodeks pracy oraz niektóry | Ustawa | obowiązujący |  |
+| [WDU20230000240](WDU20230000240/index.md) | Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący |  |
 | [WDU20190001043](WDU20190001043/index.md) | Ustawa z dnia 16 maja 2019 r. o zmianie ustawy - Kodeks pracy oraz niektóry | Ustawa | obowiązujący |  |
 | [WDU20180001608](WDU20180001608/index.md) | Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz  | Ustawa | obowiązujący |  |
 | [WDU20170001027](WDU20170001027/index.md) | Ustawa z dnia 11 maja 2017 r. o zmianie ustawy o systemie ubezpieczeń społe | Ustawa | obowiązujący |  |
@@ -55,4 +56,4 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU19740240142](WDU19740240142/index.md) | Ustawa z dnia 26 czerwca 1974 r. - Przepisy wprowadzające Kodeks pracy. | Ustawa | obowiązujący | [tak](WDU19740240142/orzecznictwo.md) |
 | [WDU19740240141](WDU19740240141/index.md) | Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19740240141/orzecznictwo.md) |
 
-*48 aktów • [← Powrót do spisu głównego](../README.md)*
+*49 aktów • [← Powrót do spisu głównego](../README.md)*

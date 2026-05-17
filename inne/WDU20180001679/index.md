@@ -1,0 +1,2372 @@
+---
+title: "Rozporządzenie Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. zmieniające rozporządzenie w sprawie podstawy programowej wychowania przedszkolnego oraz podstawy programowej kształcenia ogólnego dla szkoły podstawowej, w tym dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, kształcenia ogólnego dla branżowej szkoły I stopnia, kształcenia ogólnego dla szkoły specjalnej przysposabiającej do pracy oraz kształcenia ogólnego dla szkoły policealnej"
+address: WDU20180001679
+eli: DU/2018/1679
+publisher: DU
+year: 2018
+pos: 1679
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 sierpnia 2018 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 1679 |
+| ISAP | WDU20180001679 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-07-26 |
+| Data wydania | 2018-08-31 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1679/text.pdf) |
+
+PODSTAWA PROGRAMOWA KSZTAŁCENIA OGÓLNEGO DLA BRANŻOWEJ SZKOŁY I STOPNIA DLA UCZNIÓW BĘDĄCYCH ABSOLWENTAMI OŚMIOLETNIEJ SZKOŁY PODSTAWOWEJ Celem edukacji w branżowej szkole I stopnia jest przygotowanie uczniów do uzyskania kwalifikacji zawodowych, a także, jak w przypadku innych typów szkół, do pracy i życia w warunkach współczesnego świata. Poza kształceniem zawodowym, branżowa szkoła I stopnia ma za zadanie wyposażyć uczniów w odpowiedni zasób wiedzy ogólnej, która stanowi fundament wykształcenia, umożliwiający zdobycie podczas dalszej nauki zróżnicowanych kwalifikacji zawodowych oraz umożliwiający kontynuację kształcenia w branżowej szkole II stopnia w zawodzie, w którym wyodrębniono kwalifikację wspólną dla zawodu nauczanego w branżowej szkole I stopnia, lub w liceum ogólnokształcącym dla dorosłych (począwszy od klasy II), a następnie w szkołach policealnych lub szkołach wyższych.
+Celem kształcenia ogólnego w branżowej szkole I stopnia jest:
+1) traktowanie uporządkowanej, systematycznej wiedzy jako podstawy kształtowania umiejętności;
+2) doskonalenie umiejętności myślowo-językowych, takich jak: czytanie ze zrozumieniem, pisanie twórcze, formułowanie pytań i problemów, posługiwanie się kryteriami, uzasadnianie, wyjaśnianie, klasyfikowanie, wnioskowanie, definiowanie, posługiwanie się przykładami itp.;
+3) rozwijanie osobistych zainteresowań ucznia;
+4) zdobywanie umiejętności formułowania samodzielnych i przemyślanych sądów, uzasadniania własnych i cudzych sądów w procesie dialogu we wspólnocie dociekającej;
+5) łączenie zdolności krytycznego i logicznego myślenia z umiejętnościami wyobrażeniowo-twórczymi;
+6) rozwijanie wrażliwości społecznej, moralnej i estetycznej;
+7) rozwijanie narzędzi myślowych umożliwiających uczniom obcowanie z kulturą i jej rozumienie;
+8) rozwijanie u uczniów szacunku dla wiedzy, wyrabianie pasji poznawania świata i zachęcanie do praktycznego zastosowania zdobytych wiadomości.
+Do najważniejszych umiejętności zdobywanych przez ucznia w trakcie kształcenia ogólnego w branżowej szkole I stopnia należą: 1
+1) myślenie rozumiane jako złożony proces umysłowy polegający na tworzeniu nowych reprezentacji za pomocą transformacji dostępnych informacji, obejmującej interakcję wielu operacji umysłowych: wnioskowanie, abstrahowanie, rozumowanie, wyobrażanie, sądzenie, rozwiązywanie problemów, twórczość. Dzięki temu, że uczniowie szkoły ponadpodstawowej uczą się równocześnie różnych przedmiotów, możliwe jest rozwijanie następujących typów myślenia: analitycznego, syntetycznego, logicznego, komputacyjnego, przyczynowo-skutkowego, kreatywnego, abstrakcyjnego; zachowanie ciągłości kształcenia ogólnego rozwija zarówno myślenie percepcyjne, jak i myślenie pojęciowe. Synteza obu typów myślenia stanowi podstawę wszechstronnego rozwoju ucznia;
+2) czytanie umiejętność łącząca zarówno rozumienie sensów, jak i znaczeń symbolicznych wypowiedzi; kluczowa umiejętność lingwistyczna i psychologiczna prowadząca do rozwoju osobowego, aktywnego uczestnictwa we wspólnocie, przekazywania doświadczeń między pokoleniami;
+3) umiejętność komunikowania się w języku ojczystym i w językach obcych zarówno w mowie, jak i w piśmie jako podstawowa umiejętność społeczna, której podstawą jest znajomość norm językowych oraz tworzenie podstaw porozumienia się w różnych sytuacjach komunikacyjnych;
+4) kreatywne rozwiązywanie problemów z różnych dziedzin ze świadomym wykorzystaniem metod i narzędzi wywodzących się z informatyki, w tym programowanie;
+5) umiejętność sprawnego posługiwania się nowoczesnymi technologiami informacyjno-komunikacyjnymi, w tym dbałość o poszanowanie praw autorskich i bezpieczne poruszanie się w cyberprzestrzeni;
+6) umiejętność samodzielnego docierania do informacji, dokonywania ich selekcji, syntezy oraz wartościowania, rzetelnego korzystania ze źródeł;
+7) nabywanie nawyków systematycznego uczenia się, porządkowania zdobytej wiedzy i jej pogłębiania;
+8) umiejętność współpracy w grupie i działań indywidualnych.
+Jednym z najważniejszych zadań branżowej szkoły I stopnia jest rozwijanie kompetencji językowej i kompetencji komunikacyjnej stanowiących kluczowe narzędzie poznawcze we wszystkich dyscyplinach wiedzy. Istotne w tym zakresie jest łączenie teorii i praktyki językowej. Bogacenie słownictwa, w tym poznawanie terminologii właściwej dla danej dziedziny nauki, służy rozwojowi intelektualnemu ucznia, a wspomaganie i dbałość o ten rozwój należy do obowiązków każdego nauczyciela.
+Ważnym zadaniem szkoły jest przygotowanie uczniów do życia w społeczeństwie informacyjnym. Nauczyciele wszystkich przedmiotów powinni stwarzać uczniom warunki do nabywania umiejętności wyszukiwania, porządkowania i wykorzystywania informacji z różnych źródeł oraz dokumentowania swojej pracy, z uwzględnieniem prawidłowej kompozycji tekstu i zasad jego organizacji, z zastosowaniem technologii informacyjno-komunikacyjnych.
+Realizację powyższych celów powinna wspomagać dobrze wyposażona biblioteka szkolna, dysponująca aktualnymi zbiorami, zarówno w postaci księgozbioru, jak i w postaci zasobów multimedialnych. Nauczyciele wszystkich przedmiotów powinni odwoływać się do zasobów biblioteki szkolnej i współpracować z nauczycielami bibliotekarzami w celu wszechstronnego przygotowania uczniów do samokształcenia i świadomego wyszukiwania, selekcjonowania i wykorzystywania informacji.
+Ze względu na to, że środki społecznego przekazu odgrywają coraz większą rolę, zarówno w życiu społecznym, jak i indywidualnym, każdy nauczyciel powinien poświęcić dużo uwagi edukacji medialnej, czyli wychowaniu uczniów do właściwego odbioru i wykorzystania mediów.
+Ważnym celem działalności branżowej szkoły I stopnia jest skuteczne nauczanie języków obcych. Bardzo ważne jest dostosowanie zajęć do poziomu przygotowania ucznia, które uzyskał na wcześniejszych etapach edukacyjnych.
+Ważnym zadaniem szkoły jest także edukacja zdrowotna, której celem jest rozwijanie u uczniów postawy dbałości o zdrowie własne i innych ludzi oraz umiejętności tworzenia środowiska sprzyjającego zdrowiu.
+W procesie kształcenia ogólnego szkoła kształtuje u uczniów postawy sprzyjające ich dalszemu rozwojowi indywidualnemu i społecznemu, takie jak: uczciwość, wiarygodność, odpowiedzialność, wytrwałość, poczucie własnej wartości, szacunek dla innych ludzi, ciekawość poznawcza, kreatywność, przedsiębiorczość, kultura osobista, gotowość do uczestnictwa w kulturze, podejmowania inicjatyw oraz do pracy zespołowej. W rozwoju społecznym bardzo ważne jest kształtowanie postawy obywatelskiej, postawy poszanowania tradycji i kultury własnego narodu, a także postawy poszanowania dla innych kultur i tradycji.
+Kształcenie i wychowanie w branżowej szkole I stopnia sprzyja rozwijaniu postaw obywatelskich, patriotycznych i społecznych uczniów. Zadaniem szkoły jest wzmacnianie poczucia tożsamości narodowej, etnicznej i regionalnej, przywiązania do historii i tradycji narodowych, przygotowanie i zachęcanie do podejmowania działań na rzecz środowiska szkolnego i lokalnego, w tym do angażowania się w wolontariat. Szkoła dba o wychowanie młodzieży w duchu akceptacji i szacunku dla drugiego człowieka, kształtuje postawę szacunku dla środowiska przyrodniczego, motywuje do działań na rzecz ochrony środowiska oraz rozwija zainteresowanie ekologią.
+Duże znaczenie dla rozwoju młodego człowieka oraz jego sukcesów w dorosłym życiu ma nabywanie kompetencji społecznych, takich jak: komunikacja i współpraca w grupie, w tym w środowiskach wirtualnych, udział w projektach zespołowych lub indywidualnych oraz organizacja i zarządzanie projektami.
+Strategia uczenia się przez całe życie wymaga umiejętności podejmowania ważnych decyzji, poczynając od wyboru szkoły ponadpodstawowej, kierunku studiów lub konkretnej specjalizacji zawodowej, poprzez decyzje o wyborze miejsca pracy, sposobie podnoszenia oraz poszerzania swoich kwalifikacji, aż do ewentualnych decyzji o zmianie zawodu.
+Umiejętności te będą kształtowane w branżowej szkole I stopnia.
+Szkoła ma stwarzać uczniom warunki do nabywania wiedzy i umiejętności potrzebnych do rozwiązywania problemów z wykorzystaniem metod i technik wywodzących się z informatyki, w tym logicznego i algorytmicznego myślenia, programowania, posługiwania się aplikacjami komputerowymi, wyszukiwania i wykorzystywania informacji z różnych źródeł, posługiwania się komputerem i podstawowymi urządzeniami cyfrowymi oraz stosowania tych umiejętności na zajęciach z różnych przedmiotów, m.in. do pracy nad tekstem, wykonywania obliczeń, przetwarzania informacji i jej prezentacji w różnych postaciach.
+Każda sala lekcyjna powinna mieć dostęp do internetu. Uczniowie i nauczyciele powinni mieć zapewniony dostęp do pracowni stacjonarnej lub mobilnej oraz możliwość korzystania z własnego sprzętu. Wszystkie pracownie powinny być wyposażone w monitor interaktywny (z wbudowanym komputerem i oprogramowaniem) lub zestaw: komputer, projektor i tablica interaktywna lub ekran.
+Szkoła ma również przygotowywać uczniów do dokonywania świadomych i odpowiedzialnych wyborów w trakcie korzystania z zasobów dostępnych w internecie, krytycznej analizy informacji, bezpiecznego poruszania się w przestrzeni cyfrowej, w tym nawiązywania i utrzymywania opartych na wzajemnym szacunku relacji z innymi użytkownikami sieci.
+Szkoła oraz poszczególni nauczyciele podejmują działania mające na celu zindywidualizowane wspomaganie rozwoju każdego ucznia, stosownie do jego potrzeb i możliwości.
+Uczniom z niepełnosprawnościami szkoła zapewnia optymalne warunki pracy. Wybór form indywidualizacji nauczania powinien wynikać z rozpoznania potencjału każdego ucznia.
+Nauczyciel powinien tak dobierać zadania, aby z jednej strony nie przerastały one możliwości ucznia (uniemożliwiały osiągnięcie sukcesu), a z drugiej nie powodowały obniżenia motywacji do radzenia sobie z wyzwaniami.
+Zastosowanie metody projektu, oprócz wspierania w nabywaniu opisanych wyżej kompetencji, pomaga również rozwijać u uczniów przedsiębiorczość i kreatywność oraz umożliwia stosowanie w procesie kształcenia innowacyjnych rozwiązań programowych, organizacyjnych lub metodycznych.
+Opis wiadomości i umiejętności zdobytych przez ucznia w branżowej szkole I stopnia jest przedstawiany w języku efektów uczenia się, zgodnie z Polską Ramą Kwalifikacji .
+Działalność edukacyjna branżowej szkoły I stopnia jest określona przez:
+1) szkolny zestaw programów nauczania;
+2) program wychowawczo-profilaktyczny szkoły.
+Szkolny zestaw programów nauczania oraz program wychowawczo-profilaktyczny szkoły tworzą spójną całość i muszą uwzględniać wszystkie wymagania opisane w podstawie programowej. Ich przygotowanie i realizacja są zadaniem zarówno całej szkoły, jak i każdego nauczyciela.
+Obok zadań wychowawczych i profilaktycznych nauczyciele wykonują również działania opiekuńcze odpowiednio do istniejących potrzeb.
+Działalność wychowawcza szkoły należy do podstawowych celów polityki oświatowej państwa. Wychowanie młodego pokolenia jest zadaniem rodziny i szkoły, która w swojej działalności musi uwzględniać wolę rodziców, ale także i państwa, do którego obowiązków należy stwarzanie właściwych warunków wychowania. Zadaniem szkoły jest ukierunkowanie procesu wychowawczego na wartości, które wyznaczają cele wychowania i kryteria jego oceny. Wychowanie ukierunkowane na wartości zakłada przede wszystkim podmiotowe traktowanie ucznia, a wartości skłaniają człowieka do podejmowania odpowiednich wyborów czy decyzji. W realizowanym procesie dydaktyczno-wychowawczym szkoła podejmuje działania związane z miejscami ważnymi dla pamięci narodowej, formami upamiętniania postaci i wydarzeń z przeszłości, najważniejszymi świętami narodowymi i symbolami państwowymi.
+Przedmioty nauczania z zakresu kształcenia ogólnego w branżowej szkole I stopnia:
+1) język polski;
+2) język obcy nowożytny;
+3) historia;
+4) wiedza o społeczeństwie;
+5) podstawy przedsiębiorczości;
+6) geografia;
+7) biologia;
+8) chemia;
+9) fizyka;
+10) matematyka;
+11) informatyka;
+12) wychowanie fizyczne;
+13) edukacja dla bezpieczeństwa;
+14) wychowanie do życia w rodzinie ;
+15) etyka;
+16) język mniejszości narodowej lub etnicznej ;
+17) język regionalny język kaszubski .
+Język polski Język polski realizowany jako przedmiot kluczowy w branżowej szkole I stopnia pozwala uczniowi na poznawanie zarówno dzieł literackich wchodzących w skład dziedzictwa polskiej, europejskiej i światowej kultury, jak i utworów literatury współczesnej, których autorzy zdobyli uznanie.
+Cele kształcenia (wymagania ogólne) i treści nauczania (wymagania szczegółowe) przedmiotu język polski zostały sformułowane dla czterech obszarów, tj.: kształcenia literackiego i kulturowego, kształcenia językowego, tworzenia wypowiedzi i samokształcenia, a ich realizacja wymaga zintegrowania, które ma służyć osiągnięciu przez ucznia umiejętności świadomego odbioru dzieł literackich oraz ich interpretacji w różnych kontekstach. Szczególne znaczenie dla rozwoju kompetencji interpretacyjnych ma zintegrowanie kształcenia literackiego i kształcenia językowego. Wzbogacanie wiedzy o języku traktowanym jako rozwijający się system i narzędzie służące poznawaniu świata oraz wartościowaniu ma służyć kształtowaniu u ucznia refleksji porządkującej i pozwalać na świadome uczestnictwo w różnych sytuacjach komunikacyjnych związanych zarówno z odbiorem, jak i tworzeniem własnych tekstów. Służy temu również dalsze rozwijanie umiejętności retorycznych, które pozwalają nie tylko na tworzenie własnych wypowiedzi, ale pozwalają także rozpoznać próby manipulacji i skutecznie się im przeciwstawiać.
+Wspieranie rozwoju kultury językowej ucznia służy uwrażliwianiu go na piękno mowy ojczystej.
+Ważnym zagadnieniem w ramach nauczania języka polskiego jest rozwijanie i ukierunkowanie samokształcenia ucznia. Sprzyja ono realizacji własnych zainteresowań i ambicji, otwiera przed uczniem możliwość uczestnictwa w kulturze i życiu własnego regionu, kształtuje potrzebę samorozwoju. Stanowi również naturalne wsparcie dla zintegrowanego kształcenia kompetencji interpretacyjnej, językowej i komunikacyjnej ucznia.
+Wykaz lektur jest złożony z pozycji obowiązkowych i uzupełniających (do wyboru przez nauczyciela).
+Język obcy nowożytny Podstawa programowa kształcenia ogólnego w zakresie języka obcego nowożytnego jest wspólna dla wszystkich języków obcych nowożytnych.
+Uczniowie branżowej szkoły I stopnia obowiązkowo uczą się jednego języka obcego nowożytnego. Stworzonych zostało kilka wariantów podstawy programowej kształcenia ogólnego odpowiadających sytuacjom wynikającym z rozpoczynania lub kontynuacji nauki danego języka obcego nowożytnego w I klasie szkoły ponadpodstawowej, z zastrzeżeniem że zasadą powinno być zapewnienie uczniowi możliwości kontynuacji nauki tego samego języka obcego nowożytnego jako pierwszego na wszystkich etapach edukacyjnych, tj. od I klasy szkoły podstawowej do ostatniej klasy szkoły ponadpodstawowej.
+Poszczególne warianty podstawy programowej dla branżowej szkoły I stopnia oznaczone zostały symbolem, na który składają się:
+1) oznaczenie etapu edukacyjnego (cyfra rzymska III);
+2) oznaczenie stopnia szkoły branżowej (BS1 w przypadku branżowej szkoły I stopnia);
+3) oznaczenie wskazujące, czy język obcy nowożytny nauczany w branżowej szkole I stopnia jest językiem, który w szkole podstawowej był nauczany jako pierwszy albo jako drugi, albo którego naukę uczeń rozpoczął dopiero w branżowej szkole I stopnia (cyfra arabska 1 albo 2, albo 0).
+Wszystkie warianty podstawy programowej kształcenia ogólnego w zakresie języka obcego nowożytnego nawiązują do poziomów biegłości w zakresie poszczególnych umiejętności językowych określonych w Europejskim Systemie Opisu Kształcenia Językowego: uczenie się, nauczanie, ocenianie (ESOKJ), opracowanym przez Radę Europy. Powiązanie to nie stanowi żadnego formalnego odniesienia jednego dokumentu do drugiego. Ma wyłącznie ułatwić określenie orientacyjnego poziomu biegłości językowej oczekiwanego od ucznia kończącego dany etap edukacyjny.
+Warianty podstawy programowej kształcenia ogólnego w zakresie języka obcego nowożytnego w branżowej szkole I stopnia: Każdy z wyżej wymienionych wariantów podstawy programowej kształcenia ogólnego jest skonstruowany w taki sam sposób: zawiera cele kształcenia stanowiące wymagania ogólne, treści nauczania i umiejętności wyrażone w postaci wymagań szczegółowych oraz wspólne dla wszystkich wariantów warunki i sposób realizacji podstawy programowej kształcenia ogólnego na danym etapie edukacyjnym. Kluczowe dla poszczególnych wariantów są określenia zawarte w opisie poszczególnych wymagań ogólnych i szczegółowych (bardzo podstawowy, podstawowy; bardzo proste, proste itd.). Dotyczy to przede wszystkim wymagania I, tj. znajomości środków językowych. W wymaganiu tym w poszczególnych wariantach podstawy programowej kształcenia ogólnego powtarzane są przykładowe zakresy tematyczne w ramach jednego z kilkunastu tematów ogólnych. Zakresy te powtarzane są na kolejnych etapach edukacyjnych, co w sposób jednoznaczny wskazuje na konieczność stopniowego rozbudowywania zasobu i poprawności środków językowych w ramach danego tematu. Dla przykładu „bardzo podstawowy zasób środków językowych” w ramach zakresu tematycznego „posiłki” (podstawa programowa w wariancie III.BS1.0) to w języku angielskim np. breakfast, lunch, dinner, to cook. Natomiast „podstawowy zasób środków językowych” w ramach zakresu tematycznego „posiłki i ich przygotowanie” (podstawa programowa w wariancie III.BS1.1) to oprócz wyrazów wyżej wymienionych również np.
+to fry, a pot. W przypadku języków obcych innych niż język angielski słowa zaliczane do poszczególnych rodzajów zasobów mogą być różne, np. ze względu na podobieństwo danego słowa w języku obcym do słowa w języku polskim. W przypadku zakresów tematycznych takich jak np. przybory szkolne, pory roku, określanie czasu, tj. obejmujących stosunkowo ograniczony katalog wyrazów/zwrotów nauczanych na wczesnym etapie kształcenia językowego, nie jest konieczne rozbudowywanie zakresu leksykalnego w tym zakresie na III etapie edukacyjnym.
+Historia Nauczanie historii w branżowej szkole I stopnia zostało skoncentrowane na syntetycznym ujęciu dziejów państwa i narodu polskiego. Podstawa programowa dla tej szkoły stanowi kontynuację nauczania historii w szkole podstawowej, w większości stanowiącą pogłębienie i problematyzację treści poznanych w szkole podstawowej.
+Cele kształcenia zostały skupione wokół trzech zasadniczych wymagań ogólnych: chronologii historycznej, analizy i interpretacji historycznej oraz tworzenia narracji historycznej. Treści nauczania mają układ chronologiczny i obejmują całość dziejów Polski, z uwzględnieniem istotnych wątków historii powszechnej. Edukacja historyczna w branżowej szkole I stopnia ma służyć nie tylko kształtowaniu postaw patriotycznych, ale także doskonaleniu umiejętności ważnych w życiu codziennym: dostrzeganiu związków przyczynowo-skutkowych między współczesnością a przeszłością, oceną zjawisk i procesów, prezentowaniu ocen i opinii, wyszukiwaniu informacji w różnych źródłach, argumentacji opartej na wiedzy, a nie emocjach itp.
+Wiedza o społeczeństwie Wiedza o społeczeństwie to przedmiot interdyscyplinarny korzystający z dorobku nauk społecznych: nauk o polityce, nauk prawnych, nauk o polityce publicznej oraz elementów nauk o administracji. Podstawa programowa wiedzy o społeczeństwie dla branżowej szkoły I stopnia jest z założenia kontynuacją w tym nabudowywaniem i rozszerzaniem nauczania przedmiotu w szkole podstawowej. Przedmiot bazuje także na wiedzy i umiejętnościach z zakresu innych przedmiotów szkolnych, między innymi: historii i podstaw przedsiębiorczości.
+Cele kształcenia (wymagania ogólne) przedmiotu zostały sformułowane podobnie jak w szkole podstawowej dla czterech obszarów: wiedza i rozumienie; wykorzystanie i tworzenie informacji; rozumienie siebie oraz rozpoznawanie i rozwiązywanie problemów;
+komunikowanie i współdziałanie. Treści nauczania (wymagania szczegółowe) zostały podzielone na 4 działy. Szczegółowo rozpisane cele kształcenia i treści nauczania stanowią rozwinięcie wymagań określonych dla wcześniejszego etapu edukacyjnego. Ich realizacja ma służyć głównie wzmacnianiu postaw obywatelskich uczniów.
+Podstawy przedsiębiorczości Zmieniająca się dynamicznie gospodarka i jej otoczenie rynkowe, społeczne, polityczne i kulturowe sprawiają, że podstawowa edukacja ekonomiczna, przygotowująca młodego człowieka do przedsiębiorczego, a zarazem akceptowalnego pod względem moralnym życia w ewoluującym świecie, powinna dokonywać się poprzez kształtowanie aktywnych uczestników gospodarki rynkowej. Uczniowie szkół ponadpodstawowych, wkraczając w dorosłość, znajdą się w warunkach presji konkurencyjnej oraz zróżnicowanych wymagań rynku pracy. Powinni więc posiadać podstawową wiedzę nie tylko z zakresu nauk ścisłych, przyrodniczych, humanistycznych i przedmiotów zawodowych, ale także społecznych, a zwłaszcza ekonomicznych. Wiedza ta daje podstawy do kształtowania umiejętności oraz postaw przedsiębiorczych potrzebnych do funkcjonowania we współczesnej, globalnie uwarunkowanej gospodarce.
+Przedmiot podstawy przedsiębiorczości stanowi syntezę wybranych celowo elementów wiedzy z zakresu ekonomii, zarządzania i finansów, wzbogaconej elementami geografii społeczno-ekonomicznej, politologii, socjologii, psychologii oraz prawa. W ramach lekcji podstaw przedsiębiorczości uczniowie zapoznają się z podstawowymi kategoriami, mechanizmami i procesami ekonomicznymi oraz ich uwarunkowaniami instytucjonalnymi, behawioralnymi, kulturowymi i rynkowymi. Postawy przedsiębiorcze i wspierające je umiejętności powinny pośrednio z tej wiedzy wynikać. W procesie kształcenia uczniowie dowiadują się, jak realizując indywidualne cele ekonomiczne być przedsiębiorczym, a zarazem społecznie odpowiedzialnym w swoich dążeniach i działaniach.
+Przy przyjęciu powyższych założeń edukacyjnych jednym z głównych celów dydaktycznych przedmiotu jest przygotowanie uczniów do planowania swojej przyszłości oraz do aktywności zawodowej w roli pracowników najemnych lub osób prowadzących własną działalność gospodarczą. Uczniowie podczas edukacji w szkole ponadpodstawowej, z chwilą uzyskania pełnoletności, nabywają zdolność do czynności prawnych oraz podejmują świadome działania i ważne decyzje w odniesieniu do swojej kariery zawodowej. Podstawa programowa sprzyja więc przygotowaniu uczniów do aktywności społecznej i gospodarczej, a także do życia rodzinnego w znaczeniu ekonomicznym, dając podstawowe umiejętności konkurencyjnych zachowań na rynku, w tym ponoszenia konsekwencji swoich decyzji.
+Zakres przedmiotu jest zgodny z powszechnie przyjmowaną definicją przedsiębiorczości jako kompetencji kluczowej. Uzasadnia to konieczność przyjęcia jego szeroko zakrojonej koncepcji, w której dzięki wyposażeniu uczniów w wiedzę ekonomiczną i finansową kształtuje się ich umiejętności elastycznego zachowania na rynku pracy i zarządzania oraz rozwija cechy przywódcze. Ważne jest także kształtowanie u uczniów szacunku do wartości będących fundamentem gospodarki rynkowej i społecznie odpowiedzialnego biznesu, a także postaw etycznych i gotowości do ich przestrzegania w życiu zawodowym i społecznym.
+Lekcje podstaw przedsiębiorczości wspierają uczniów w samorozwoju oraz chęci inwestowania w siebie i uczenia się przez całe życie, w sytuacji dynamicznie zmieniających się warunków otoczenia i rozwoju gospodarki opartej na wiedzy. Takie szerokie ujęcie przedmiotu jest wyzwaniem edukacyjnym zarówno dla uczniów, jak i dla nauczycieli.
+W procesie kształcenia konieczne jest nabywanie przez uczniów wiedzy oraz kształtowanie umiejętności i postaw dotyczących: funkcjonowania gospodarki rynkowej, rynku finansowego, rynku pracy oraz przedsiębiorstwa.
+Geografia Ważnym założeniem podstawy programowej jest wykorzystanie potencjału edukacyjnego geografii w zakresie jej walorów poznawczych, kształcących i wychowawczych. Głównym celem geografii jako przedmiotu szkolnego jest poznawanie własnego kraju i świata jako zintegrowanej całości, w której zjawiska i procesy przyrodnicze oraz społeczno-ekonomiczne są ze sobą ściśle powiązane na zasadach wzajemnych uwarunkowań i zależności. Lekcje geografii powinny sprzyjać zrozumieniu przez ucznia istniejących powiązań i zależności w środowisku geograficznym, zarówno przyrodniczym i społeczno-gospodarczym, jak i we wzajemnych relacjach człowiek przyroda. Podstawa programowa tworzy ramy do zdobywania wiedzy przydatnej w życiu codziennym, kształtowania szeregu umiejętności oraz pozytywnych postaw ucznia w odniesieniu do własnego kraju i środowiska, w którym żyje.
+Ważne jest, aby uczniowie zrozumieli sens i warunki realizacji zasad zrównoważonego rozwoju, m.in. poprzez poznawanie przykładów racjonalnego gospodarowania w środowisku, znaczenia planowania przestrzennego, poprawy jakości życia człowieka, poczucia odpowiedzialności za tworzenie ładu i piękna w miejscach swego zamieszkania.
+Istotnym założeniem jest także stworzenie optymalnych warunków do kształtowania umiejętności. Szkolna edukacja powinna kształtować u uczniów, kluczową dla rozumienia wzajemnych relacji przyroda człowiek, umiejętność określania związków i zależności zachodzących w środowisku geograficznym między poszczególnymi jego elementami (przyrodniczymi, społeczno-gospodarczymi i kulturowymi), a także umiejętność:
+1) prowadzenia obserwacji i pomiarów w terenie, analizowania pozyskanych danych i formułowania wniosków na ich podstawie;
+2) korzystania z różnych źródeł informacji geograficznej;
+3) myślenia geograficznego, tj. całościowego i syntetyzującego, a także myślenia krytycznego i twórczego;
+4) formułowania hipotez, ich weryfikowania oraz rozwiązywania problemów praktycznych występujących w środowisku geograficznym;
+5) oceniania i wartościowania zjawisk i procesów geograficznych, formułowania twierdzeń o prawidłowościach, dokonywania uogólnień i prognozowania.
+Kolejnym ważnym założeniem podstawy programowej jest wykorzystanie walorów wychowawczych geografii. Dobór treści w podstawie programowej sprzyja między innymi kształtowaniu takich postaw, jak: rozumienie potrzeby racjonalnego gospodarowania w środowisku geograficznym zgodnie z zasadami zrównoważonego rozwoju, uwrażliwianie na wartość i znaczenie cennych obiektów przyrodniczych i kulturowych, należących do dziedzictwa lokalnego, regionalnego, narodowego, ponadnarodowego. Kształtowane powinny być także postawy solidarności społecznej, szacunku i empatii wobec przedstawicieli innych narodów i grup etnicznych, przyjmowania postawy patriotycznej, wspólnotowej i obywatelskiej, rozumienia pozautylitarnych wartości wybranych elementów środowiska przyrodniczego i kulturowego oraz rozwijania dociekliwości poznawczej, ukierunkowanej na poszukiwanie prawdy, dobra i piękna. W podstawie programowej zostało uwzględnione również podejście humanistyczne w geografii, podkreślające przede wszystkim aspekty odkrywania i rozumienia przez człowieka środowiska jego życia.
+Biologia Nauczanie biologii w branżowej szkole I stopnia stanowi ważny element kształcenia ogólnego i w naturalny sposób wspomaga kształcenie zawodowe. Biologia jest nauką przyrodniczą związaną z codzienną aktywnością człowieka, także z jego aktywnością zawodową. Celem kształcenia biologii jest pogłębienie wiedzy dotyczącej organizmu człowieka oraz zrozumienie zjawisk i procesów wpływających na różnorodność biologiczną.
+Bardzo ważne jest przygotowanie ucznia zarówno do samodzielnego, jak i zespołowego rozwiązywania problemów o tematyce biologicznej, analizy i interpretacji danych, dyskusji wyników prostych doświadczeń i obserwacji, formułowania wniosków i opinii. Istotne jest także rozwijanie umiejętności korzystania z różnych zasobów wiadomości i krytycznego odnoszenia się do informacji pozyskanych z różnych źródeł.
+Wiedza i umiejętności nabywane przez uczniów w trakcie kształcenia w branżowej szkole I stopnia powinny być odpowiedzią na wyzwania współczesnej rzeczywistości.
+Chemia Spiralny układ treści kształcenia pozwala na płynne łączenie ze sobą nowych treści z treściami znanymi uczniom z poprzedniego etapu edukacyjnego. W branżowej szkole I stopnia szczególnie ważne jest rozwijanie umiejętności naukowego myślenia, w tym dostrzegania związków i zależności przyczynowo-skutkowych, analizowania, uogólniania i wnioskowania. W związku z tym, że chemia jest przedmiotem eksperymentalnym, rozwijane są umiejętności związane z projektowaniem i przeprowadzaniem doświadczeń chemicznych. Interpretacja wyników doświadczenia i formułowanie wniosków na podstawie przeprowadzonych obserwacji ma służyć wykorzystaniu zdobytej wiedzy do identyfikowania i rozwiązywania problemów.
+Fizyka Fizyka jest nauką przyrodniczą, której prawa i zasady są wykorzystywane w codziennej aktywności człowieka, także w jego aktywności zawodowej. Elementy charakterystyczne dla tej dyscypliny naukowej znajdują praktyczne zastosowanie w urządzeniach i procesach technicznych, z których korzystamy. Dlatego też nauczanie fizyki w branżowej szkole I stopnia stanowi ważny element kształcenia ogólnego i w naturalny sposób wspomaga kształcenie zawodowe. Świadomość powiązań kompetencji, których korzenie tkwią w fizyce, z wiedzą i umiejętnościami charakterystycznymi dla określonych specjalności zawodowych czyni kształcenie pełniejszym i holistycznym. Fizyka jako jeden z przedmiotów związanych z przyrodą ma za zadanie pomóc uczniowi zrozumieć otaczający go świat, a co za tym idzie, lepiej w nim funkcjonować poprzez szersze rozumienie zjawisk zachodzących w przyrodzie.
+Matematyka Matematyka jest nauką, która stanowi istotne wsparcie dla innych dziedzin, zwłaszcza dla nauk przyrodniczych i informatycznych. Nauczanie matematyki w szkole opiera się na trzech fundamentach: nauce rozumowania matematycznego, kształceniu sprawności rachunkowej i przekazywaniu wiedzy o własnościach obiektów matematycznych.
+Rozumowanie matematyczne to umiejętność poszukiwania rozwiązania danego zagadnienia.
+Dobrze kształcona rozwija zdolność myślenia konstruktywnego, premiuje postępowanie nieschematyczne i twórcze. Ponadto rozumowanie matematyczne narzuca pewien rygor ścisłości: dowód matematyczny musi być poprawny. Dobre opanowanie umiejętności rozumowania matematycznego ułatwia w życiu codziennym odróżnianie prawdy od fałszu.
+Sprawność rachunkowa jest ważnym elementem nauczania matematyki nawet w sytuacji, gdy wiele rachunków wykonuje się za pomocą sprzętu elektronicznego. Ważnym celem ćwiczenia sprawności rachunkowej jest kształtowanie wyobrażenia o wielkościach liczb, a w konsekwencji doskonalenie umiejętności precyzyjnego szacowania wyników. Takie wyobrażenie ułatwia codzienne życie, na przykład planowanie budżetu domowego.
+Wiedza o właściwościach obiektów matematycznych pozwala na swobodne operowanie nimi i stosowanie obiektów matematycznych do opisu bądź modelowania zjawisk obserwowanych w rzeczywistości. Właściwości matematyczne modeli przekładają się często na konkretne własności obiektów rzeczywistych.
+Informatyka Na podstawę programową informatyki w branżowej szkole I stopnia należy patrzeć w powiązaniu ze zmianami, jakie nastąpiły w nauczaniu informatyki w szkole podstawowej.
+Wprowadzenie rozwiązywania problemów z pomocą komputerów i programowania od najmłodszych lat znacznie wydłużyło okres poznawania tych zagadnień, a przez to umożliwiło stopniowe i uporządkowane wprowadzanie elementów, które do tej pory uznawane były w informatyce za trudne.
+Najważniejszym celem kształcenia informatycznego uczniów jest rozwój umiejętności myślenia komputacyjnego, skupionego na kreatywnym rozwiązywaniu problemów z różnych dziedzin ze świadomym i bezpiecznym wykorzystaniem przy tym metod i narzędzi wywodzących się z informatyki. Takie podejście, rozpoczęte w szkole podstawowej, jest kontynuowane w branżowej szkole I stopnia.
+Większość dziedzin korzysta z gotowych algorytmów i rozwiązań informatycznych, istotą informatyki jest jednak twórcze odkrywanie algorytmów, poznawanie metod rozwiązywania problemów i badanie ich efektywności. Takie podejście wpływa na zwiększenie jakości oraz efektywności nie tylko edukacji informatycznej uczniów, ale również przynosi korzyści w nauczaniu innych przedmiotów, wspomaga kształtowanie myślenia matematycznego, uczy naukowego podejścia do rozwiązywania problemów. Umiejętność korzystania z nowych technologii w sposób twórczy i krytyczny jest obecnie podstawową umiejętnością przydatną nie tylko młodym ludziom, ale także osobom dorosłym i starszym. Jest to warunek konieczny do aktywnego i pełnego korzystania z e-usług, a posiadanie tej umiejętności ma na celu zapobieganie ryzyku wykluczenia z życia społecznego. Pomaga ponadto niwelować barierę pokoleniową, usprawnia komunikację między nauczycielami i uczniami, a w konsekwencji w całym społeczeństwie.
+Kształcenie informatyczne ma przygotować uczniów do bezpiecznego życia w społeczeństwie przepełnionym technologią i zachęcać uczniów do wybierania dalszego kształcenia się w zawodach informatycznych.
+Wychowanie fizyczne Wychowanie fizyczne pełni ważne funkcje edukacyjne, rozwojowe i zdrowotne: wspiera rozwój fizyczny, psychiczny, intelektualny i społeczny uczniów oraz kształtuje obyczaj aktywności fizycznej i troski o zdrowie w okresie całego życia, wspomaga efektywność procesu uczenia się oraz pełni wiodącą rolę w edukacji zdrowotnej uczniów.
+Uczeń powinien być przygotowany do całożyciowej aktywności fizycznej i troski o zdrowie.
+Wychowanie fizyczne to nie tylko przygotowanie sprawnościowe, ale przede wszystkim prozdrowotne. Pełni ono, oprócz swej funkcji doraźnej, również funkcję prospektywną (przygotowuje do dokonywania w życiu wyborów korzystnych dla zdrowia). W podstawie programowej została przyjęta personalistyczna koncepcja wychowania oraz koncepcja sprawności fizycznej ukierunkowanej na zdrowie.
+Zajęcia z wychowania fizycznego dla uczniów branżowej szkoły I stopnia są realizowane w formie zajęć klasowo-lekcyjnych i zajęć do wyboru przez ucznia, w tym: zajęć sportowych, zajęć rekreacyjno-zdrowotnych, zajęć tanecznych lub aktywnej turystyki. Wymagania szczegółowe podstawy programowej odnoszą się do zajęć prowadzonych w systemie klasowo-lekcyjnym.
+Edukacja dla bezpieczeństwa Przedmiot przygotowuje uczniów teoretycznie i praktycznie do właściwego zachowania oraz odpowiednich reakcji w sytuacjach trudnych i kryzysowych, stwarzających zagrożenie dla zdrowia i życia. Przedmiot obejmuje różnorodne treści kształcenia: z zakresu bezpieczeństwa państwa oraz treści dotyczące organizacji działań ratowniczych, edukacji zdrowotnej i udzielania pierwszej pomocy. Ważne jest kształcenie umiejętności praktycznych, powtarzanych możliwie często, szczególnie przy nauce udzielania pierwszej pomocy.
+Wyrabianie w ten sposób u uczniów odpowiednich nawyków ma istotne znaczenie w wykorzystywaniu przez nich zdobytych umiejętności w warunkach realnego zagrożenia, kiedy to naturalnie występujący wysoki poziom stresu utrudnia prowadzenie akcji ratunkowej.
+Bezpieczeństwo państwa jest obszarem wiedzy, który objaśnia działanie mechanizmów rządzących zapewnieniem ładu, porządku, stabilności społeczności ludzkich, towarzyszących temu koncepcji, metod, form postępowania. Ważna jest umiejętność skutecznego działania i radzenia sobie poszczególnych jednostek w sytuacjach określonych zagrożeń. Rozumienie problematyki bezpieczeństwa państwa posiada przy tym wieloaspektową wykładnię: kreuje zrozumienie przeszłości, tworzy obraz teraźniejszości i stanowi przesłanki do myślenia o przyszłości. Ujęta w treściach nauczania problematyka koncentruje się na zarządzaniu, polityce i strategii bezpieczeństwa, z uwzględnieniem także kontekstu międzynarodowego.
+Umiejętność udzielania pierwszej pomocy, jak również edukacja zdrowotna, z uwagi na największe prawdopodobieństwo wykorzystania ich w praktyce, w życiu codziennym należą do najważniejszych tematów w przedmiocie edukacja dla bezpieczeństwa. Za szczególnie ważne w tym zakresie należy uznać właściwe postępowanie z osobami, u których wystąpiło nagłe zatrzymanie krążenia. Podjęcie akcji ratunkowej przez świadka zdarzenia, prowadzenie jej do czasu przyjazdu karetki pogotowia jest w stanie uratować życie, natomiast zaniechanie działania w nieuchronny sposób prowadzi do śmierci chorego. Uczniów należy wdrażać do dbałości o bezpieczeństwo własne oraz innych, wskazując, w jaki sposób mogą uzyskać pomoc osób godnych zaufania i służb ratunkowych.
+Wychowanie do życia w rodzinie Wychowanie do życia w rodzinie należy postrzegać jako integralną część wychowania ogólnego. Nadrzędnym celem wprowadzenia tego przedmiotu jest takie oddziaływanie na uczniów, aby przemyślenia i wnioski płynące z zajęć pomogły im lepiej zrozumieć siebie i innych, a także rzutowały na podejmowanie właściwych decyzji obecnie i w przyszłości.
+Istotnym elementem współczesnego wychowania jest współpraca wszystkich środowisk kształtujących osobowość młodego człowieka. Najważniejszą rolę w wychowaniu odgrywa rodzina. Nie da się jednak pominąć wagi innych podmiotów wychowawczych, jakimi są: szkoła, grupa rówieśnicza, instytucje wychowawcze. Czas dojrzewania jest trudnym okresem, zarówno dla dziecka, jak i dorosłych: rodziców, wychowawców, nauczycieli. Rozchwianie emocjonalne, nasilenie krytycyzmu, zwłaszcza wobec dorosłych, brak doświadczenia, a jednocześnie ciekawość świata powodują, że wybory, jakich dokonują młodzi ludzie, nie zawsze są dobre dla nich samych.
+Etyka Cele kształcenia (wymagania ogólne) określone w podstawie programowej etyki odpowiadają specyfice tego przedmiotu i uwzględniają zarówno jego charakter praktyczno-wychowawczy (tożsamość, podmiotowość i rozwój moralny, tworzenie wypowiedzi o moralności, samokształcenie), jak i teoretyczno-filozoficzny (tworzenie wypowiedzi z akcentem na poprawność uzasadnień, samokształcenie).
+Treści nauczania (wymagania szczegółowe) przedmiotu etyka zostały podzielone na dwie części ogólną i teoretyczną (elementy etyki ogólnej) oraz szczegółową i praktyczną (wybrane zagadnienia etyki szczegółowej). Treści nauczania z części pierwszej mają dostarczać teoretycznych narzędzi, pozwalających uczniom w sposób rzetelny i pogłębiony podejmować zagadnienia szczegółowe opisane w części drugiej z zakresu etyki życia osobistego, bioetyki, etyki społecznej i politycznej, etyki środowiskowej, etyki nauki i etyk zawodowych.
+Specyfika edukacji etycznej pozwala zogniskować uwagę uczniów nie tylko na prakseologicznie pojętych celach kształcenia (mierzalne efekty kształcenia), ale przede wszystkim na celach związanych z rozumieniem siebie i świata (hermeneutyczny aspekt kształcenia) oraz na wzmacnianiu autonomii ucznia (emancypacyjny aspekt kształcenia).
+Praktyczno-wychowawczy charakter etyki, szerokie spektrum zagadnień stanowiących przedmiot rozważań etycznych oraz mocny akcent położony w podstawie programowej na rozwijanie zdolności samodzielnego, krytycznego myślenia sprawiają, że etyka może pełnić funkcję przedmiotu integrującego procesy edukacyjne realizowane w ramach nauczania przedmiotowego.
+Język mniejszości narodowej lub etnicznej Podstawa programowa umożliwia rozwój młodzieży, należącej do mniejszości narodowej lub etnicznej w zakresie świadomości i tożsamości narodowej lub etnicznej oraz komunikacji językowej. Przewiduje ona uczestnictwo uczniów w życiu środowiska lokalnego i kulturze narodowej lub etnicznej.
+Zadaniem nauczyciela jest motywowanie ucznia do poznawania tekstów kultury narodowej lub etnicznej.
+Jednym z najważniejszych zadań nauczyciela jest również rozwijanie w uczniach postaw ciekawości, otwartości na otaczający świat i poszanowania kultury własnego narodu lub grupy etnicznej.
+Podstawa programowa dzieli wymagania na ogólne i szczegółowe. Do wymagań ogólnych należą: świadomość własnego dziedzictwa narodowego lub etnicznego, kształcenie językowe, kształcenie literackie i kulturowe, tworzenie wypowiedzi.
+Jest to kompleksowe ujęcie nadrzędnych celów kształcenia, które informują jak rozumieć podporządkowane im treści nauczania, które odwołują się do konkretnych umiejętności oraz ściśle określonych wiadomości. Spełnianie wymagań szczegółowych służy osiąganiu wymagań ogólnych.
+Język regionalny język kaszubski Celem edukacji kaszubskiej jest kształtowanie i rozwój językowej, kulturowej i tożsamościowej świadomości młodego człowieka w jego relacjach z regionem, państwem, Europą i światem. Istotnym zadaniem jest rozwijanie w uczniach ciekawości, otwartości i szacunku dla innych kultur.
+Podstawa programowa umożliwia rozwój młodzieży na wielu płaszczyznach: w zakresie świadomości i tożsamości regionalnej, języka i kultury. Przewiduje ona znaczne poszerzenie wiedzy o regionie i aktywne uczestnictwo w życiu społecznym.
+Zadaniem nauczyciela jest motywowanie ucznia do poznawania literatury regionalnej i innych tekstów kultury, zdobywania wiedzy o regionie oraz rozwijania sprawności językowych. Dla osiągnięcia celów ważna jest współpraca ze środowiskiem lokalnym.
+JĘZYK POLSKI Cele kształcenia wymagania ogólne I. Kształcenie literackie i kulturowe.
+1. Rozwijanie dojrzałości intelektualnej, emocjonalnej i moralnej uczniów.
+2. Rozumienie konieczności zachowania i rozwoju literatury i kultury w życiu jednostki oraz społeczeństwa.
+3. Rozwijanie umiejętności rozróżniania kultury wysokiej i niskiej, elitarnej i popularnej.
+4. Kształcenie świadomego odbioru utworów literackich i tekstów kultury na poziomie dosłownym i przenośnym.
+5. Kształcenie umiejętności rozumienia roli mediów oraz ich wpływu na zachowania i postawy ludzi, a także właściwego korzystania z nich.
+6. Rozwijanie wrażliwości estetycznej oraz kształtowanie potrzeby uczestnictwa w kulturze poprzez udział w wydarzeniach kulturalnych.
+7. Wspieranie uczniów w budowaniu własnego systemu wartości na fundamencie prawdy, dobra i piękna oraz szacunku dla człowieka.
+II. Kształcenie językowe.
+1. Pogłębianie funkcjonalnej wiedzy na temat wybranych zagadnień z zakresu kształcenia językowego.
+2. Doskonalenie umiejętności komunikowania się (słuchania, czytania, mówienia i pisania) oraz stosownego wykorzystania języka w różnych sytuacjach komunikacyjnych.
+3. Uwrażliwianie na piękno mowy ojczystej, rozwijanie kultury językowej i umiejętności posługiwania się poprawną polszczyzną.
+4. Doskonalenie umiejętności poprawnego mówienia oraz pisania zgodnego z zasadami ortofonii oraz pisowni polskiej.
+III. Tworzenie wypowiedzi.
+1. Doskonalenie umiejętności wyrażania własnych sądów i udziału w dyskusji.
+2. Wykorzystanie kompetencji językowych w wypowiedziach ustnych i pisemnych.
+3. Rozwijanie umiejętności stosowania podstawowych zasad retoryki, w szczególności argumentowania, oraz rozpoznawania manipulacji językowej.
+IV. Samokształcenie.
+1. Doskonalenie umiejętności korzystania z różnych źródeł informacji, w tym zasobów cyfrowych, oceny ich rzetelności, wiarygodności i poprawności merytorycznej.
+2. Kształcenie nawyków systematycznego uczenia się, porządkowania zdobytej wiedzy i jej pogłębiania.
+3. Wyrabianie nawyku samodzielnej lektury.
+4. Rozwijanie uzdolnień i zainteresowań poprzez udział w różnych formach aktywności.
+5. Umacnianie postawy poszanowania dla cudzej własności intelektualnej.
+6. Rozwijanie umiejętności efektywnego posługiwania się technologią informacyjną w poszukiwaniu, porządkowaniu i wykorzystywaniu pozyskanych informacji.
+Treści nauczania wymagania szczegółowe Na III etapie edukacyjnym w branżowej szkole I stopnia obowiązuje: utrwalanie, poszerzanie i doskonalenie wiadomości i umiejętności nabytych w szkole podstawowej.
+I. Kształcenie literackie i kulturowe.
+1. Czytanie utworów literackich. Uczeń: rozumie podstawy periodyzacji literatury, poznaje okresy literackie (starożytność, średniowiecze, renesans, barok, oświecenie, romantyzm, pozytywizm, Młoda Polska, dwudziestolecie międzywojenne, literatura wojny i okupacji, literatura lat 1945–1989 krajowa i emigracyjna, literatura po 1989 r.);
+rozróżnia gatunki epickie, liryczne, dramatyczne, w tym: gatunki poznane w szkole podstawowej oraz epos, tragedię antyczną, a także odmiany powieści i dramatu, rozpoznaje podstawowe cechy gatunkowe czytanych utworów literackich;
+rozpoznaje problematykę poznanych tekstów oraz jej związek ze zjawiskami społecznymi i historycznymi;
+rozpoznaje w utworze elementy świata przedstawionego (fabuła, bohaterowie, akcja, wątek, motyw), narrację, sytuację liryczną;
+przedstawia odczytanie utworu w kontekście własnych doświadczeń;
+określa w poznawanych utworach problematykę egzystencjalną i poddaje ją refleksji;
+rozpoznaje obecne w utworach literackich wartości uniwersalne i narodowe, określa ich rolę i związek z problematyką utworu oraz znaczenie dla budowania własnego systemu wartości.
+2. Odbiór tekstów kultury. Uczeń:
+1) wyszukuje i przetwarza informacje z tekstów, np. publicystycznych, popularnonaukowych;
+2) odczytuje pozaliterackie teksty kultury, rozumie ich odmienny język;
+3) odróżnia dzieła kultury wysokiej od tekstów kultury popularnej;
+4) rozpoznaje specyfikę tekstów informacyjnych, publicystycznych, reklamowych;
+wśród tekstów prasowych rozróżnia wiadomość i komentarz;
+5) wyszukuje w tekście informacje wyrażone wprost i pośrednio, porządkuje je, określa ich funkcję w przekazie;
+6) odróżnia informacje od opinii;
+7) określa temat i główną myśl tekstu.
+II. Kształcenie językowe.
+1. Gramatyka języka polskiego. Uczeń:
+1) określa formy fleksyjne odmiennych części mowy i ich funkcje w tekście;
+2) rozpoznaje w tekstach nieodmienne części mowy i określa ich funkcje znaczeniowe i składniowe;
+3) rozumie rolę budowy słowotwórczej wyrazów i określa znaczenie różnych konstrukcji słowotwórczych w tekście;
+4) określa funkcje zdań pojedynczych i różnego typu zdań złożonych w tekstach;
+5) wykorzystuje wiedzę z dziedziny fleksji, słowotwórstwa, frazeologii i składni w tworzeniu własnych wypowiedzi.
+2. Zróżnicowanie języka. Uczeń:
+1) rozróżnia style funkcjonalne polszczyzny oraz rozumie potrzebę funkcjonalnego ich stosowania;
+2) rozpoznaje rodzaje stylizacji (archaizacja, dialektyzacja, kolokwializacja, stylizacja środowiskowa) oraz określa ich funkcje w tekście;
+3) odróżnia słownictwo neutralne od słownictwa o zabarwieniu emocjonalnym, oficjalne od potocznego.
+3. Komunikacja językowa i kultura języka. Uczeń:
+1) rozumie pojęcie znaku językowego oraz języka jako systemu znaków; rozróżnia typy znaków i określa ich funkcje w tekście;
+2) zna pojęcie aktu komunikacji językowej oraz jego składowe (komunikat, nadawca, odbiorca, kod, kontekst, kontakt);
+3) posługuje się różnymi odmianami polszczyzny w zależności od sytuacji komunikacyjnej;
+4) stosuje zasady etyki wypowiedzi; wartościuje wypowiedzi językowe, wykorzystując kryteria, np. prawda fałsz, poprawność niepoprawność;
+5) stosuje zasady etykiety językowej w wypowiedziach ustnych i pisemnych odpowiednie do sytuacji;
+6) charakteryzuje zmiany w komunikacji językowej związane z rozwojem jej form (np. komunikacji internetowej).
+4. Ortografia i interpunkcja. Uczeń wykorzystuje wiedzę o zasadach pisowni oraz interpunkcji w tworzonych przez siebie tekstach.
+III. Tworzenie wypowiedzi.
+1. Elementy retoryki. Uczeń:
+1) formułuje tezy i argumenty w wypowiedzi ustnej i pisemnej;
+2) rozróżnia typy argumentów;
+3) rozumie, na czym polega logika i konsekwencja toku rozumowania w wypowiedziach argumentacyjnych;
+4) odróżnia dyskusję od sporu i kłótni.
+2. Mówienie i pisanie. Uczeń:
+1) buduje wypowiedzi w sposób świadomy, ze znajomością ich funkcji językowej, z uwzględnieniem celu i adresata, z zachowaniem zasad retoryki;
+2) reaguje na przejawy agresji językowej, np. prosząc o rozwinięcie lub uzasadnienie stanowiska;
+3) zgodnie z normami formułuje pytania, odpowiedzi, oceny, redaguje informacje, uzasadnienia, komentarze, głos w dyskusji;
+4) tworzy formy użytkowe, np. CV, podanie, wniosek, protokół, opinię, zażalenie;
+5) tworzy spójne wypowiedzi w następujących formach: opis, charakterystyka, rozprawka, definicja, hasło encyklopedyczne, notatka syntetyzująca, referat;
+6) tworzy plan własnej wypowiedzi;
+7) tworzy wypowiedź, stosując odpowiednią dla danej formy gatunkowej kompozycję i układ graficzny oraz zasady spójności tekstu;
+8) stosuje zasady poprawności językowej i stylistycznej w tworzeniu własnego tekstu;
+9) wygłasza mowę, z uwzględnieniem środków pozajęzykowych.
+IV. Samokształcenie. Uczeń:
+1) dokonuje krytycznej selekcji informacji;
+2) wykorzystuje mulitmedialne źródła informacji; rozwija umiejętność oceny przekazywanych przez nie informacji;
+3) posługuje się słownikami różnego typu;
+4) gromadzi i przetwarza informacje;
+5) korzysta z zasobów multimedialnych, np. z: bibliotek, słowników on-line, wydawnictw e-book, autorskich stron intenetowych twórców; dokonuje wyboru źródeł internetowych, uwzględniając kryterium poprawności rzeczowej oraz krytycznie ocenia ich zawartość.
+Lektura obowiązkowa:
+1) Biblia, fragmenty: Księgi Rodzaju, Księgi Hioba;
+2) Jan Parandowski, Mitologia, cz. I Grecja mity nieomawiane w szkole podstawowej;
+3) Homer, Iliada (fragmenty);
+4) Sofokles, Antygona;
+5) Bogurodzica;
+6) Rozmowa Mistrza Polikarpa ze Śmiercią (fragmenty);
+7) Pieśń o Rolandzie (fragmenty);
+8) Jan Kochanowski, wybrane pieśni, w tym: Pieśń IX ks. I, Pieśń V ks. II;
+9) wybrane wiersze: Mikołaj Sęp-Szarzyński, Jan Andrzej Morsztyn;
+10) Jan Chryzostom Pasek, Pamiętniki (fragmenty);
+11) William Szekspir, Romeo i Julia;
+12) Molier, Skąpiec;
+13) Ignacy Krasicki, Hymn do miłości ojczyzny, wybrane satyry;
+14) Adam Mickiewicz, Oda do młodości, wybrane ballady, wybrane wiersze;
+15) Juliusz Słowacki, wybrane wiersze;
+16) Cyprian Kamil Norwid, wybrane wiersze;
+17) Bolesław Prus, Z legend dawnego Egiptu;
+18) Eliza Orzeszkowa, Gloria victis;
+19) Henryk Sienkiewicz, Potop;
+20) wybrane wiersze: Kazimierz Przerwa-Tetmajer, Leopold Staff;
+21) Władysław Stanisław Reymont, Chłopi (tom I Jesień);
+22) wybrane wiersze następujących poetów: Julian Tuwim, Jan Lechoń, Maria Pawlikowska-Jasnorzewska, Kazimiera Iłłakowiczówna, Julian Przyboś, Krzysztof Kamil Baczyński, Tadeusz Gajcy;
+23) Tadeusz Borowski, Proszę państwa do gazu; Ludzie, którzy szli;
+24) Hanna Krall, Zdążyć przed Panem Bogiem;
+25) wybrane wiersze następujących poetów: Stanisław Baliński, wybrane wiersze z okresu emigracyjnego, Kazimierz Wierzyński, wybrane wiersze z okresu emigracyjnego, Czesław Miłosz, w tym wybrane wiersze z tomu Ocalenie, Wisława Szymborska, Zbigniew Herbert, w tym wybrane wiersze z tomu Raport z oblężonego miasta, Marcin Świetlicki;
+26) Sławomir Mrożek, Tango;
+27) Marek Nowakowski, Raport o stanie wojennym (wybrane opowiadanie); Górą „Edek” (z tomu Prawo prerii);
+28) Jacek Dukaj, Katedra (z tomu W kraju niewiernych);
+29) Olga Tokarczuk, Profesor Andrews w Warszawie (z tomu Gra na wielu bębenkach);
+30) powojenna piosenka literacka wybrane utwory Jacka Kaczmarskiego, Agnieszki Osieckiej.
+Lektura uzupełniająca do wyboru przez nauczyciela.
+Warunki i sposób realizacji Klasy I–III branżowej szkoły I stopnia to okres dalszego rozwijania przez uczniów sposobów poznawania świata i postaw wobec niego, określania celów życiowych, dojrzewania intelektualnego i emocjonalnego, kształtowania się światopoglądu i hierarchii wartości.
+Rozwojowi towarzyszy poznawanie kultury i jej wytworów. Szczególne miejsce w kształceniu umiejętności ucznia branżowej szkoły I stopnia ma rozwijanie umiejętności komunikowania się z innymi ludźmi, doskonalenie myślenia konkretnego oraz abstrakcyjnego. Kształcone i rozwijane kompetencje językowe i komunikacyjne stanowią podstawę rozwoju osobowego i nawiązywania kontaktów, rozwiązywania problemów oraz zaspakajania potrzeb duchowych i materialnych człowieka.
+Zadaniem nauczyciela języka polskiego w branżowej szkole I stopnia jest przede wszystkim:
+1) rozwijanie świadomości ucznia, że książka jest inspiracją dla wyobraźni oraz źródłem wiedzy o świecie i zachowaniach ludzkich;
+2) stymulowanie i rozwijanie zainteresowań ucznia;
+3) kształtowanie systemu wartości i umiejętności ich hierarchizowania;
+4) inspirowanie refleksji i dyskusji na różne tematy;
+5) pogłębianie świadomości językowej i komunikacyjnej ucznia;
+6) rozwijanie kompetencji językowych i komunikacyjnych ucznia, umożliwiających mu sprawne i odpowiedzialne funkcjonowania we współczesnym świecie;
+7) dalsze rozwijanie jego sprawności wypowiadania się w różnych formach;
+8) inspirowanie i rozbudzanie potrzeby samokształcenia ucznia.
+Nauczyciel w organizowaniu procesu dydaktycznego jest zobowiązany do stosowania rozwiązań metodycznych, które zapewnią integrację kształcenia literackiego, kulturowego, językowego i samokształcenia.
+Nauczyciel w branżowej szkole I stopnia odwołuje się do wiedzy i umiejętności, które uczeń nabył na wcześniejszych etapach edukacyjnych. Motywuje ucznia do lektury utworów ważnych dla rozwijania wiedzy o człowieku i świecie, wspiera kształtowanie systemu wartości na gruncie prawdy, dobra i piękna, inspiruje do refleksji wypływającej z poznawania dzieł. Literatura antyczna i staropolska stanowi źródło i fundament tożsamości narodowej i kulturowej. Aby umożliwić uczniom zrozumienie związków między dziełami antyku i literatury dawnej a współczesną kulturą, nauczyciel w omawianiu lektur przyjmuje zasadę łączenia ich problematyki z problematyką tekstów współczesnych, obecnych zarówno w kulturze wysokiej, jak i kulturze masowej.
+Nauczyciel w branżowej szkole I stopnia wspiera rozwój zainteresowań ucznia, rozumienie przez niego współczesnej kultury i jej źródeł, a także roli nowoczesnych środków przekazywania informacji w kontekście tradycji.
+JĘZYK OBCY NOWOŻYTNY Podstawa programowa wariant III.BS1.1 Język obcy nowożytny nauczany w branżowej szkole I stopnia (kontynuacja języka obcego nowożytnego nauczanego jako pierwszy w szkole podstawowej) Cele kształcenia wymagania ogólne I. Znajomość środków językowych.
+Uczeń posługuje się podstawowym zasobem środków językowych (leksykalnych, gramatycznych, ortograficznych oraz fonetycznych), umożliwiającym realizację pozostałych wymagań ogólnych w zakresie tematów wskazanych w wymaganiach szczegółowych.
+II. Rozumienie wypowiedzi.
+Uczeń rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka, a także proste wypowiedzi pisemne, w tym ustne i pisemne wypowiedzi dotyczące wykonywania typowych czynności zawodowych, w zakresie opisanym w wymaganiach szczegółowych.
+III. Tworzenie wypowiedzi.
+Uczeń samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne, w tym wypowiedzi umożliwiające komunikowanie się w środowisku pracy, w zakresie opisanym w wymaganiach szczegółowych.
+IV. Reagowanie na wypowiedzi.
+Uczeń uczestniczy w rozmowie i w typowych sytuacjach, w tym związanych z komunikowaniem się w środowisku pracy, reaguje w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub pisemnie w formie prostego tekstu, w zakresie opisanym w wymaganiach szczegółowych.
+V. Przetwarzanie wypowiedzi.
+Uczeń zmienia formę przekazu ustnego lub pisemnego, w tym prostych tekstów związanych z wykonywaniem typowych czynności zawodowych, w zakresie opisanym w wymaganiach szczegółowych.
+Treści nauczania wymagania szczegółowe I. Uczeń posługuje się podstawowym zasobem środków językowych (leksykalnych, gramatycznych, ortograficznych oraz fonetycznych), umożliwiającym realizację pozostałych wymagań ogólnych w zakresie następujących tematów:
+1) człowiek (np. dane personalne, okresy życia, wygląd zewnętrzny, cechy charakteru, rzeczy osobiste, uczucia i emocje, umiejętności i zainteresowania);
+2) miejsce zamieszkania (np. dom i jego okolica, pomieszczenia i wyposażenie domu, prace domowe, wynajmowanie mieszkania, przeprowadzka);
+3) edukacja (np. szkoła i jej pomieszczenia, przedmioty nauczania, uczenie się w tym uczenie się przez całe życie, przybory szkolne, oceny szkolne, życie szkoły, zajęcia pozalekcyjne);
+4) praca (np. zawody i związane z nimi czynności i obowiązki, miejsce pracy, praca dorywcza, wybór zawodu, poszukiwanie pracy, warunki pracy i zatrudnienia);
+5) życie prywatne (np. rodzina, znajomi i przyjaciele, czynności życia codziennego, określanie czasu, formy spędzania czasu wolnego, święta i uroczystości, styl życia, konflikty i problemy);
+6) żywienie (np. artykuły spożywcze, posiłki i ich przygotowywanie, nawyki żywieniowe, lokale gastronomiczne);
+7) zakupy i usługi (np. rodzaje sklepów, towary i ich cechy, sprzedawanie i kupowanie, środki płatnicze, promocja i reklama, korzystanie z usług, reklamacja);
+8) podróżowanie i turystyka (np. środki transportu i korzystanie z nich, orientacja w terenie, baza noclegowa, wycieczki, zwiedzanie);
+9) kultura (np. dziedziny kultury, twórcy i ich dzieła, uczestnictwo w kulturze, tradycje i zwyczaje, media);
+10) sport (np. dyscypliny sportu, sprzęt sportowy, obiekty sportowe, imprezy sportowe, uprawianie sportu);
+11) zdrowie (np. tryb życia, samopoczucie, choroby, ich objawy i leczenie, pierwsza pomoc w nagłych wypadkach);
+12) nauka i technika (np. odkrycia naukowe, wynalazki, korzystanie z podstawowych urządzeń technicznych i technologii informacyjno-komunikacyjnych);
+13) świat przyrody (np. pogoda, pory roku, klimat, rośliny i zwierzęta, krajobraz, zagrożenia i ochrona środowiska naturalnego);
+14) państwo i społeczeństwo (np. wydarzenia i zjawiska społeczne, problemy współczesnego świata);
+15) elementy wiedzy o bezpieczeństwie i higienie pracy oraz o podejmowaniu i prowadzeniu działalności gospodarczej (zakres tematyczny związany z efektami kształcenia wspólnymi dla wszystkich zawodów, określonymi w podstawie programowej kształcenia w zawodach).
+II. Uczeń rozumie proste wypowiedzi ustne, w tym dotyczące wykonywania typowych czynności zawodowych (np. rozmowy, wiadomości, komunikaty, ogłoszenia, instrukcje), artykułowane wyraźnie, w standardowej odmianie języka:
+1) reaguje na polecenia;
+2) określa główną myśl wypowiedzi lub fragmentu wypowiedzi;
+3) określa intencje nadawcy/autora wypowiedzi;
+4) określa kontekst wypowiedzi (np. formę, czas, miejsce, sytuację, uczestników);
+5) znajduje w wypowiedzi określone informacje;
+6) układa informacje w określonym porządku;
+7) rozróżnia formalny i nieformalny styl wypowiedzi.
+III. Uczeń rozumie proste wypowiedzi pisemne, w tym dotyczące wykonywania typowych czynności zawodowych (np. listy, e-maile, SMS-y, kartki pocztowe, napisy, broszury, ulotki, jadłospisy, ogłoszenia, instrukcje, rozkłady jazdy, historyjki obrazkowe z tekstem, artykuły, teksty narracyjne, recenzje, wywiady, wpisy na forach i blogach, teksty literackie):
+1) określa główną myśl tekstu lub fragmentu tekstu;
+2) określa intencje nadawcy/autora tekstu;
+3) określa kontekst wypowiedzi (np. nadawcę, odbiorcę, formę tekstu, czas, miejsce, sytuację);
+4) znajduje w tekście określone informacje;
+5) rozpoznaje związki między poszczególnymi częściami tekstu;
+6) układa informacje w określonym porządku;
+7) rozróżnia formalny i nieformalny styl tekstu.
+IV. Uczeń tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne, w tym wypowiedzi umożliwiające komunikowanie się w środowisku pracy:
+1) opisuje ludzi, zwierzęta, przedmioty, miejsca i zjawiska;
+2) opowiada o czynnościach, doświadczeniach i wydarzeniach z przeszłości i teraźniejszości;
+3) przedstawia fakty z przeszłości i teraźniejszości;
+4) przedstawia intencje, marzenia, nadzieje i plany na przyszłość;
+5) opisuje upodobania;
+6) wyraża i uzasadnia swoje opinie i poglądy, przedstawia opinie i poglądy innych osób;
+7) wyraża uczucia i emocje;
+8) przedstawia zalety i wady różnych rozwiązań;
+9) wyraża pewność, przypuszczenie, wątpliwości dotyczące zdarzeń z teraźniejszości i przyszłości;
+10) przedstawia sposób postępowania (np. udziela instrukcji, wskazówek, określa zasady);
+11) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji.
+V. Uczeń tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne, w tym wypowiedzi umożliwiające komunikowanie się w środowisku pracy (np. notatkę, ogłoszenie, zaproszenie, życzenia, wiadomość, SMS, kartkę pocztową, e-mail, historyjkę, list prywatny, życiorys, CV, list motywacyjny, wpis na blogu):
+1) opisuje ludzi, zwierzęta, przedmioty, miejsca i zjawiska;
+2) opowiada o czynnościach, doświadczeniach i wydarzeniach z przeszłości i teraźniejszości;
+3) przedstawia fakty z przeszłości i teraźniejszości;
+4) przedstawia intencje, marzenia, nadzieje i plany na przyszłość;
+5) opisuje upodobania;
+6) wyraża i uzasadnia swoje opinie i poglądy, przedstawia opinie i poglądy innych osób;
+7) wyraża uczucia i emocje;
+8) przedstawia zalety i wady różnych rozwiązań;
+9) wyraża pewność, przypuszczenie, wątpliwości dotyczące zdarzeń z teraźniejszości i przyszłości;
+10) przedstawia sposób postępowania (np. udziela instrukcji, wskazówek, określa zasady);
+11) stosuje zasady konstruowania tekstów o różnym charakterze;
+12) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji.
+VI. Uczeń reaguje ustnie w typowych sytuacjach, w tym związanych z komunikowaniem się w środowisku pracy:
+1) przedstawia siebie i inne osoby;
+2) nawiązuje kontakty towarzyskie; rozpoczyna, prowadzi i kończy rozmowę;
+podtrzymuje rozmowę w przypadku trudności w jej przebiegu (np. prosi o wyjaśnienie, powtórzenie, sprecyzowanie; upewnia się, że rozmówca zrozumiał jego wypowiedź);
+3) uzyskuje i przekazuje informacje i wyjaśnienia;
+4) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza się z opiniami innych osób;
+5) wyraża i uzasadnia swoje upodobania, intencje i pragnienia, pyta o upodobania, intencje i pragnienia innych osób;
+6) składa życzenia i gratulacje, odpowiada na życzenia i gratulacje;
+7) zaprasza i odpowiada na zaproszenie;
+8) proponuje, przyjmuje i odrzuca propozycje, zachęca; prowadzi proste negocjacje w sytuacjach życia codziennego;
+9) prosi o radę i udziela rady;
+10) pyta o pozwolenie, udziela i odmawia pozwolenia;
+11) ostrzega, nakazuje, zakazuje, instruuje;
+12) wyraża prośbę oraz zgodę lub odmowę spełnienia prośby;
+13) wyraża uczucia i emocje (np. radość, smutek, niezadowolenie, złość, zdziwienie, nadzieję, obawę);
+14) stosuje zwroty i formy grzecznościowe;
+15) dostosowuje styl wypowiedzi do sytuacji.
+VII. Uczeń reaguje w formie prostego tekstu pisanego (np. wiadomość, SMS, list prywatny, formularz, e-mail, komentarz, wpis na czacie/forum) w typowych sytuacjach, w tym związanych z komunikowaniem się w środowisku pracy:
+1) przedstawia siebie i inne osoby;
+2) nawiązuje kontakty towarzyskie; rozpoczyna, prowadzi i kończy rozmowę (np. podczas rozmowy na czacie);
+3) uzyskuje i przekazuje informacje i wyjaśnienia (np. wypełnia formularz/ankietę);
+4) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza się z opiniami innych osób;
+5) wyraża i uzasadnia swoje upodobania, intencje i pragnienia, pyta o upodobania, intencje i pragnienia innych osób;
+6) składa życzenia i gratulacje, odpowiada na życzenia i gratulacje;
+7) zaprasza i odpowiada na zaproszenie;
+8) proponuje, przyjmuje i odrzuca propozycje, zachęca; prowadzi proste negocjacje w sytuacjach życia codziennego;
+9) prosi o radę i udziela rady;
+10) pyta o pozwolenie, udziela i odmawia pozwolenia;
+11) ostrzega, nakazuje, zakazuje, instruuje;
+12) wyraża prośbę oraz zgodę lub odmowę spełnienia prośby;
+13) wyraża uczucia i emocje (np. radość, smutek, niezadowolenie, złość, zdziwienie, nadzieję, obawę);
+14) stosuje zwroty i formy grzecznościowe;
+15) dostosowuje styl wypowiedzi do odbiorcy.
+VIII. Uczeń przetwarza tekst ustnie lub pisemnie, w tym prosty tekst związany z wykonywaniem typowych czynności zawodowych:
+1) przekazuje w języku obcym nowożytnym informacje zawarte w materiałach wizualnych (np. wykresach, mapach, symbolach, piktogramach, schematach) lub audiowizualnych (np. filmach, reklamach);
+2) przekazuje w języku obcym nowożytnym lub w języku polskim informacje sformułowane w tym języku obcym;
+3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim;
+4) przedstawia publicznie w języku obcym nowożytnym wcześniej przygotowany materiał, np. prezentację, film.
+IX. Uczeń posiada:
+1) podstawową wiedzę o krajach, społeczeństwach i kulturach społeczności, które posługują się danym językiem obcym nowożytnym, oraz o kraju ojczystym, z uwzględnieniem kontekstu lokalnego, europejskiego i globalnego;
+2) świadomość związku między kulturą własną i obcą oraz wrażliwość międzykulturową.
+X. Uczeń dokonuje samooceny i wykorzystuje techniki samodzielnej pracy nad językiem (np. korzystanie ze słownika, poprawianie błędów, prowadzenie notatek, stosowanie mnemotechnik, korzystanie z tekstów kultury w języku obcym nowożytnym).
+XI. Uczeń współdziała w grupie (np. w lekcyjnych i pozalekcyjnych językowych pracach projektowych).
+XII. Uczeń korzysta ze źródeł informacji w języku obcym nowożytnym (np. z encyklopedii, mediów, instrukcji obsługi) również za pomocą technologii informacyjno-komunikacyjnych.
+XIII. Uczeń stosuje strategie komunikacyjne (np. domyślanie się znaczenia wyrazów z kontekstu, identyfikowanie słów kluczy lub internacjonalizmów) i strategie kompensacyjne, w przypadku gdy nie zna lub nie pamięta wyrazu (np. upraszczanie formy wypowiedzi, zastępowanie innym wyrazem, opis, wykorzystywanie środków niewerbalnych).
+XIV. Uczeń posiada świadomość językową (np. podobieństw i różnic między językami).
+Podstawa programowa wariant III.BS1.2 Język obcy nowożytny nauczany w branżowej szkole I stopnia (kontynuacja języka obcego nowożytnego nauczanego jako drugi w szkole podstawowej) Cele kształcenia wymagania ogólne I. Znajomość środków językowych.
+Uczeń posługuje się podstawowym zasobem środków językowych (leksykalnych, gramatycznych, ortograficznych oraz fonetycznych) umożliwiającym realizację pozostałych wymagań ogólnych w zakresie tematów wskazanych w wymaganiach szczegółowych.
+II. Rozumienie wypowiedzi.
+Uczeń rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka, a także proste wypowiedzi pisemne, w tym ustne i pisemne wypowiedzi dotyczące wykonywania najbardziej typowych czynności zawodowych, w zakresie opisanym w wymaganiach szczegółowych.
+III. Tworzenie wypowiedzi.
+Uczeń samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne, w tym wypowiedzi umożliwiające elementarne komunikowanie się w środowisku pracy, w zakresie opisanym w wymaganiach szczegółowych.
+IV. Reagowanie na wypowiedzi.
+Uczeń uczestniczy w rozmowie i w typowych sytuacjach, w tym związanych z elementarnym komunikowaniem się w środowisku pracy, reaguje w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub pisemnie w formie prostego tekstu, w zakresie opisanym w wymaganiach szczegółowych.
+V. Przetwarzanie wypowiedzi.
+Uczeń zmienia formę przekazu ustnego lub pisemnego, w tym bardzo prostych tekstów związanych z wykonywaniem najbardziej typowych czynności zawodowych, w zakresie opisanym w wymaganiach szczegółowych.
+Treści nauczania wymagania szczegółowe I. Uczeń posługuje się podstawowym zasobem środków językowych (leksykalnych, gramatycznych, ortograficznych oraz fonetycznych), umożliwiającym realizację pozostałych wymagań ogólnych w zakresie następujących tematów:
+1) człowiek (np. dane personalne, wygląd zewnętrzny, cechy charakteru, rzeczy osobiste, uczucia i emocje, umiejętności i zainteresowania);
+2) miejsce zamieszkania (np. dom i jego okolica, pomieszczenia i wyposażenie domu, prace domowe);
+3) edukacja (np. szkoła i jej pomieszczenia, przedmioty nauczania, uczenie się, przybory szkolne, oceny szkolne, życie szkoły, zajęcia pozalekcyjne);
+4) praca (np. popularne zawody i związane z nimi czynności, miejsce pracy, praca dorywcza, wybór zawodu);
+5) życie prywatne (np. rodzina, znajomi i przyjaciele, czynności życia codziennego, określanie czasu, formy spędzania czasu wolnego, święta i uroczystości);
+6) żywienie (np. artykuły spożywcze, posiłki i ich przygotowywanie, lokale gastronomiczne);
+7) zakupy i usługi (np. rodzaje sklepów, towary i ich cechy, sprzedawanie i kupowanie, środki płatnicze, promocje, korzystanie z usług);
+8) podróżowanie i turystyka (np. środki transportu i korzystanie z nich, orientacja w terenie, hotel, wycieczki, zwiedzanie);
+9) kultura (np. uczestnictwo w kulturze, tradycje i zwyczaje, media);
+10) sport (np. dyscypliny sportu, sprzęt sportowy, obiekty sportowe, imprezy sportowe, uprawianie sportu);
+11) zdrowie (np. samopoczucie, choroby, ich objawy i leczenie);
+12) nauka i technika (np. korzystanie z podstawowych urządzeń technicznych i technologii informacyjno-komunikacyjnych);
+13) świat przyrody (np. pogoda, pory roku, rośliny i zwierzęta, krajobraz);
+14) podstawowe elementy wiedzy o bezpieczeństwie i higienie pracy oraz o podejmowaniu i prowadzeniu działalności gospodarczej (zakres tematyczny związany z efektami kształcenia wspólnymi dla wszystkich zawodów, określonymi w podstawie programowej kształcenia w zawodach).
+II. Uczeń rozumie proste wypowiedzi ustne, w tym dotyczące wykonywania najbardziej typowych czynności zawodowych (np. rozmowy, wiadomości, komunikaty, ogłoszenia, instrukcje), artykułowane wyraźnie, w standardowej odmianie języka:
+1) reaguje na polecenia;
+2) określa główną myśl wypowiedzi;
+3) określa intencje nadawcy/autora wypowiedzi;
+4) określa kontekst wypowiedzi (np. czas, miejsce, sytuację, uczestników);
+5) znajduje w wypowiedzi określone informacje;
+6) rozróżnia formalny i nieformalny styl wypowiedzi.
+III. Uczeń rozumie proste wypowiedzi pisemne, w tym dotyczące wykonywania najbardziej typowych czynności zawodowych (np. listy, e-maile, SMS-y, kartki pocztowe, napisy, broszury, ulotki, jadłospisy, ogłoszenia, instrukcje, rozkłady jazdy, historyjki obrazkowe z tekstem, artykuły, teksty narracyjne, wywiady, wpisy na forach i blogach, teksty literackie):
+1) określa główną myśl tekstu lub fragmentu tekstu;
+2) określa intencje nadawcy/autora tekstu;
+3) określa kontekst wypowiedzi (np. nadawcę, odbiorcę, czas, miejsce, sytuację);
+4) znajduje w tekście określone informacje;
+5) układa informacje w określonym porządku;
+6) rozróżnia formalny i nieformalny styl tekstu.
+IV. Uczeń tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne, w tym wypowiedzi umożliwiające elementarne komunikowanie się w środowisku pracy:
+1) opisuje ludzi, zwierzęta, przedmioty, miejsca i zjawiska;
+2) opowiada o czynnościach, doświadczeniach i wydarzeniach z przeszłości i teraźniejszości;
+3) przedstawia fakty z przeszłości i teraźniejszości;
+4) przedstawia intencje, marzenia, nadzieje i plany na przyszłość;
+5) opisuje upodobania;
+6) wyraża i uzasadnia swoje opinie;
+7) wyraża uczucia i emocje;
+8) przedstawia sposób postępowania (np. udziela instrukcji, wskazówek, określa zasady);
+9) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji.
+V. Uczeń tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne, w tym wypowiedzi umożliwiające elementarne komunikowanie się w środowisku pracy (np. notatkę, ogłoszenie, zaproszenie, życzenia, wiadomość, SMS, kartkę pocztową, e-mail, historyjkę, wpis na blogu):
+1) opisuje ludzi, zwierzęta, przedmioty, miejsca i zjawiska;
+2) opowiada o czynnościach, doświadczeniach i wydarzeniach z przeszłości i teraźniejszości;
+3) przedstawia fakty z przeszłości i teraźniejszości;
+4) przedstawia intencje, marzenia, nadzieje i plany na przyszłość;
+5) opisuje upodobania;
+6) wyraża i uzasadnia swoje opinie;
+7) wyraża uczucia i emocje;
+8) przedstawia sposób postępowania (np. udziela instrukcji, wskazówek, określa zasady);
+9) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji.
+VI. Uczeń reaguje ustnie w typowych sytuacjach, w tym związanych z elementarnym komunikowaniem się w środowisku pracy:
+1) przedstawia siebie i inne osoby;
+2) nawiązuje kontakty towarzyskie; rozpoczyna, prowadzi i kończy rozmowę;
+podtrzymuje rozmowę w przypadku trudności w jej przebiegu (np. prosi o wyjaśnienie, powtórzenie, sprecyzowanie; upewnia się, że rozmówca zrozumiał jego wypowiedź);
+3) uzyskuje i przekazuje informacje i wyjaśnienia;
+4) wyraża swoje opinie, pyta o opinie, zgadza się lub nie zgadza się z opiniami innych osób;
+5) wyraża swoje upodobania, intencje i pragnienia, pyta o upodobania, intencje i pragnienia innych osób;
+6) składa życzenia i gratulacje, odpowiada na życzenia i gratulacje;
+7) zaprasza i odpowiada na zaproszenie;
+8) proponuje, przyjmuje i odrzuca propozycje; prowadzi proste negocjacje w sytuacjach życia codziennego;
+9) prosi o radę i udziela rady;
+10) pyta o pozwolenie, udziela i odmawia pozwolenia;
+11) nakazuje, zakazuje, instruuje;
+12) wyraża prośbę oraz zgodę lub odmowę spełnienia prośby;
+13) wyraża uczucia i emocje (np. radość, smutek);
+14) stosuje zwroty i formy grzecznościowe.
+VII. Uczeń reaguje w formie prostego tekstu pisanego (np. wiadomość, SMS, krótki list prywatny, e-mail, wpis na czacie/forum) w typowych sytuacjach, w tym związanych z elementarnym komunikowaniem się w środowisku pracy:
+1) przedstawia siebie i inne osoby;
+2) nawiązuje kontakty towarzyskie; rozpoczyna, prowadzi i kończy rozmowę (np. podczas rozmowy na czacie);
+3) uzyskuje i przekazuje informacje i wyjaśnienia (np. wypełnia formularz/ankietę);
+4) wyraża swoje opinie, pyta o opinie, zgadza się lub nie zgadza się z opiniami innych osób;
+5) wyraża swoje upodobania, intencje i pragnienia, pyta o upodobania, intencje i pragnienia innych osób;
+6) składa życzenia i gratulacje, odpowiada na życzenia i gratulacje;
+7) zaprasza i odpowiada na zaproszenie;
+8) proponuje, przyjmuje i odrzuca propozycje; prowadzi proste negocjacje w sytuacjach życia codziennego;
+9) prosi o radę i udziela rady;
+10) pyta o pozwolenie, udziela i odmawia pozwolenia;
+11) nakazuje, zakazuje, instruuje;
+12) wyraża prośbę oraz zgodę lub odmowę spełnienia prośby;
+13) wyraża uczucia i emocje (np. radość, smutek);
+14) stosuje zwroty i formy grzecznościowe.
+VIII. Uczeń przetwarza prosty tekst ustnie lub pisemnie, w tym bardzo prosty tekst związany z wykonywaniem najbardziej typowych czynności zawodowych:
+1) przekazuje w języku obcym nowożytnym informacje zawarte w materiałach wizualnych (np. mapach, symbolach, piktogramach) lub audiowizualnych (np. filmach, reklamach);
+2) przekazuje w języku obcym nowożytnym lub w języku polskim informacje sformułowane w tym języku obcym;
+3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim.
+IX. Uczeń posiada:
+1) podstawową wiedzę o krajach, społeczeństwach i kulturach społeczności, które posługują się danym językiem obcym nowożytnym, oraz o kraju ojczystym, z uwzględnieniem kontekstu lokalnego, europejskiego i globalnego;
+2) świadomość związku między kulturą własną i obcą oraz wrażliwość międzykulturową.
+X. Uczeń dokonuje samooceny i wykorzystuje techniki samodzielnej pracy nad językiem (np. korzystanie ze słownika, poprawianie błędów, prowadzenie notatek, stosowanie mnemotechnik, korzystanie z tekstów kultury w języku obcym nowożytnym).
+XI. Uczeń współdziała w grupie (np. w lekcyjnych i pozalekcyjnych językowych pracach projektowych).
+XII. Uczeń korzysta ze źródeł informacji w języku obcym nowożytnym (np. z encyklopedii, mediów, instrukcji obsługi), również za pomocą technologii informacyjno-komunikacyjnych.
+XIII. Uczeń stosuje strategie komunikacyjne (np. domyślanie się znaczenia wyrazów z kontekstu, identyfikowanie słów kluczy lub internacjonalizmów) i strategie kompensacyjne, w przypadku gdy nie zna lub nie pamięta wyrazu (np. upraszczanie formy wypowiedzi, zastępowanie innym wyrazem, opis, wykorzystywanie środków niewerbalnych).
+XIV. Uczeń posiada świadomość językową (np. podobieństw i różnic między językami).
+Podstawa programowa wariant III.BS1.0 Język obcy nowożytny nauczany w branżowej szkole I stopnia (język obcy nowożytny nauczany od początku w klasie I branżowej szkoły I stopnia) Cele kształcenia wymagania ogólne I. Znajomość środków językowych.
+Uczeń posługuje się bardzo podstawowym zasobem środków językowych (leksykalnych, gramatycznych, ortograficznych oraz fonetycznych), umożliwiającym realizację pozostałych wymagań ogólnych w zakresie tematów wskazanych w wymaganiach szczegółowych.
+II. Rozumienie wypowiedzi.
+Uczeń rozumie bardzo proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka, a także bardzo proste wypowiedzi pisemne, w zakresie opisanym w wymaganiach szczegółowych.
+III. Tworzenie wypowiedzi.
+Uczeń samodzielnie tworzy bardzo krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne, w zakresie opisanym w wymaganiach szczegółowych.
+IV. Reagowanie na wypowiedzi.
+Uczeń uczestniczy w rozmowie i w typowych sytuacjach reaguje w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub pisemnie w formie bardzo prostego tekstu, w zakresie opisanym w wymaganiach szczegółowych.
+V. Przetwarzanie wypowiedzi.
+Uczeń zmienia formę przekazu ustnego lub pisemnego w zakresie opisanym w wymaganiach szczegółowych.
+Treści nauczania wymagania szczegółowe I. Uczeń posługuje się bardzo podstawowym zasobem środków językowych (leksykalnych, gramatycznych, ortograficznych oraz fonetycznych), umożliwiającym realizację pozostałych wymagań ogólnych w zakresie następujących tematów:
+1) człowiek (np. dane personalne, wygląd zewnętrzny, cechy charakteru, rzeczy osobiste, uczucia i emocje, umiejętności i zainteresowania);
+2) miejsce zamieszkania (np. dom i jego okolica, pomieszczenia i wyposażenie domu, prace domowe);
+3) edukacja (np. szkoła i jej pomieszczenia, przedmioty nauczania, uczenie się, przybory szkolne, życie szkoły);
+4) praca (np. popularne zawody, miejsce pracy);
+5) życie prywatne (np. rodzina, znajomi i przyjaciele, czynności życia codziennego, określanie czasu, formy spędzania czasu wolnego, urodziny, święta);
+32
+6) żywienie (np. artykuły spożywcze, posiłki, lokale gastronomiczne);
+7) zakupy i usługi (np. rodzaje sklepów, towary i ich cechy, sprzedawanie i kupowanie, środki płatnicze, korzystanie z usług);
+8) podróżowanie i turystyka (np. środki transportu i korzystanie z nich, orientacja w terenie, hotel, wycieczki);
+9) kultura (np. uczestnictwo w kulturze, tradycje i zwyczaje);
+10) sport (np. dyscypliny sportu, sprzęt sportowy, obiekty sportowe, uprawianie sportu);
+11) zdrowie (np. samopoczucie, choroby, ich objawy i leczenie);
+12) świat przyrody (np. pogoda, pory roku, rośliny i zwierzęta, krajobraz).
+II. Uczeń rozumie bardzo proste wypowiedzi ustne (np. rozmowy, wiadomości, komunikaty, ogłoszenia) artykułowane wyraźnie, w standardowej odmianie języka:
+1) reaguje na polecenia;
+2) określa główną myśl wypowiedzi;
+3) określa intencje nadawcy/autora wypowiedzi;
+4) określa kontekst wypowiedzi (np. czas, miejsce, uczestników);
+5) znajduje w wypowiedzi określone informacje;
+6) rozróżnia formalny i nieformalny styl wypowiedzi.
+III. Uczeń rozumie bardzo proste wypowiedzi pisemne (np. listy, e-maile, SMS-y, kartki pocztowe, napisy, ulotki, jadłospisy, ogłoszenia, rozkłady jazdy, historyjki obrazkowe z tekstem, teksty narracyjne, wpisy na forach i blogach):
+1) określa główną myśl tekstu;
+2) określa intencje nadawcy/autora tekstu;
+3) określa kontekst wypowiedzi (np. nadawcę, odbiorcę);
+4) znajduje w tekście określone informacje;
+5) rozróżnia formalny i nieformalny styl tekstu.
+IV. Uczeń tworzy bardzo krótkie, proste, spójne i logiczne wypowiedzi ustne:
+1) opisuje ludzi, przedmioty, miejsca i zjawiska;
+2) opowiada o czynnościach i wydarzeniach z przeszłości i teraźniejszości;
+3) przedstawia intencje i plany na przyszłość;
+4) przedstawia upodobania;
+5) wyraża swoje opinie;
+6) wyraża uczucia i emocje;
+7) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji.
+V. Uczeń tworzy bardzo krótkie, proste, spójne i logiczne wypowiedzi pisemne (np. notatkę, ogłoszenie, zaproszenie, życzenia, wiadomość, SMS, kartkę pocztową, e-mail, historyjkę, wpis na blogu):
+1) opisuje ludzi, przedmioty, miejsca i zjawiska;
+2) opowiada o czynnościach i wydarzeniach z przeszłości i teraźniejszości;
+3) przedstawia intencje i plany na przyszłość;
+4) przedstawia upodobania;
+5) wyraża swoje opinie;
+6) wyraża uczucia i emocje;
+7) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji.
+VI. Uczeń reaguje ustnie w typowych sytuacjach:
+1) przedstawia siebie i inne osoby;
+2) nawiązuje kontakty towarzyskie; rozpoczyna, prowadzi i kończy rozmowę;
+podtrzymuje rozmowę w przypadku trudności w jej przebiegu (np. prosi o wyjaśnienie, powtórzenie, sprecyzowanie; upewnia się, że rozmówca zrozumiał jego wypowiedź);
+3) uzyskuje i przekazuje informacje i wyjaśnienia;
+4) wyraża swoje opinie, pyta o opinie, zgadza się lub nie zgadza się z opiniami innych osób;
+5) wyraża swoje upodobania, intencje i pragnienia, pyta o upodobania, intencje i pragnienia innych osób;
+6) składa życzenia, odpowiada na życzenia;
+7) zaprasza i odpowiada na zaproszenie;
+8) proponuje, przyjmuje i odrzuca propozycje;
+9) pyta o pozwolenie, udziela i odmawia pozwolenia;
+10) nakazuje, zakazuje;
+11) wyraża prośbę oraz zgodę lub odmowę spełnienia prośby;
+12) wyraża uczucia i emocje (np. radość, smutek);
+13) stosuje zwroty i formy grzecznościowe.
+VII. Uczeń reaguje w formie bardzo prostego tekstu pisanego (np. wiadomość, SMS, e-mail, wpis na czacie/forum) w typowych sytuacjach:
+1) przedstawia siebie i inne osoby;
+2) nawiązuje kontakty towarzyskie; rozpoczyna, prowadzi i kończy rozmowę (np. podczas rozmowy na czacie);
+3) uzyskuje i przekazuje informacje i wyjaśnienia (np. wypełnia formularz/ankietę);
+4) wyraża swoje opinie, pyta o opinie, zgadza się lub nie zgadza się z opiniami innych osób;
+5) wyraża swoje upodobania, intencje i pragnienia, pyta o upodobania, intencje i pragnienia innych osób;
+6) składa życzenia, odpowiada na życzenia;
+7) zaprasza i odpowiada na zaproszenie;
+8) proponuje, przyjmuje i odrzuca propozycje;
+9) pyta o pozwolenie, udziela i odmawia pozwolenia;
+10) nakazuje, zakazuje;
+11) wyraża prośbę oraz zgodę lub odmowę spełnienia prośby;
+12) wyraża uczucia i emocje (np. radość, smutek);
+13) stosuje zwroty i formy grzecznościowe.
+VIII. Uczeń przetwarza bardzo prosty tekst ustnie lub pisemnie:
+1) przekazuje w języku obcym nowożytnym podstawowe informacje zawarte w materiałach wizualnych (np. mapach, symbolach, piktogramach) lub audiowizualnych (np. filmach, reklamach);
+2) przekazuje w języku obcym nowożytnym lub w języku polskim informacje sformułowane w tym języku obcym;
+3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim.
+IX. Uczeń posiada:
+1) podstawową wiedzę o krajach, społeczeństwach i kulturach społeczności, które posługują się danym językiem obcym nowożytnym, oraz o kraju ojczystym, z uwzględnieniem kontekstu lokalnego, europejskiego i globalnego;
+2) świadomość związku między kulturą własną i obcą oraz wrażliwość międzykulturową.
+X. Uczeń dokonuje samooceny i wykorzystuje techniki samodzielnej pracy nad językiem (np. korzystanie ze słownika, poprawianie błędów, prowadzenie notatek, stosowanie mnemotechnik, korzystanie z tekstów kultury w języku obcym nowożytnym).
+XI. Uczeń współdziała w grupie (np. w lekcyjnych i pozalekcyjnych językowych pracach projektowych).
+XII. Uczeń korzysta ze źródeł informacji w języku obcym nowożytnym (np. z encyklopedii, mediów), również za pomocą technologii informacyjno-komunikacyjnych.
+XIII. Uczeń stosuje strategie komunikacyjne (np. domyślanie się znaczenia wyrazów z kontekstu, identyfikowanie słów kluczy lub internacjonalizmów) i strategie kompensacyjne, w przypadku gdy nie zna lub nie pamięta wyrazu (np. upraszczanie formy wypowiedzi, wykorzystywanie środków niewerbalnych).
+XIV. Uczeń posiada świadomość językową (np. podobieństw i różnic między językami).
+Warunki i sposób realizacji Skuteczne porozumiewanie się w języku obcym nowożytnym zarówno w mowie, jak i w piśmie stanowi nadrzędny cel kształcenia językowego na wszystkich etapach edukacyjnych wyodrębnionych w podstawie programowej. Tak zarysowany cel sprawia, że język obcy nowożytny powinien być przede wszystkim traktowany jako narzędzie umożliwiające uczniowi osiągnięcie różnych, właściwych dla danej sytuacji i motywacji, celów komunikacyjnych. Założenie to nie wyklucza jednoczesnego dążenia do osiągania przez ucznia coraz wyższego stopnia poprawności językowej, choć z pewnością, zwłaszcza na początkowych etapach procesu kształcenia językowego, będzie to poprawność w zakresie kilku lub kilkunastu najprostszych struktur.
+Rozwijanie kompetencji w zakresie języka obcego nowożytnego należy z założenia traktować jako proces wieloletni, naznaczony nierównomiernym rozwojem w zakresie poszczególnych umiejętności, zależny od warunków, w których kształcenie to się odbywa. Zadaniem szkoły jest zapewnienie takich warunków, w których godziny przeznaczone na kształcenie językowe zostaną wykorzystane w sposób optymalny.
+W kształceniu językowym na III etapie edukacyjnym niezbędne jest:
+1) zapewnienie przez szkołę zajęć z języka obcego nowożytnego, którego uczeń uczył się w szkole podstawowej. Zmiana języka nauczanego jako pierwszy w szkole podstawowej na inny język obcy nowożytny nauczany w branżowej szkole I stopnia jest dopuszczalna:
+a) w przypadku oddziałów wielozawodowych, w których zapewnienie wszystkim uczniom kontynuacji kształcenia w zakresie języka obcego nowożytnego nauczanego jako pierwszy w szkole podstawowej może okazać się niemożliwe,
+b) w przypadku gdy konieczność kontynuacji nauczania danego języka obcego nowożytnego jako pierwszego wiązałaby się z ograniczeniem możliwości wyboru szkoły ponadpodstawowej.
+Decydując się w branżowej szkole I stopnia na zmianę języka obcego nowożytnego względem języka nauczanego w szkole podstawowej jako pierwszego, należy mieć świadomość, że wyłącznie podstawa programowa w wariancie III.BS2.1 zapewnia przygotowanie ucznia do przystąpienia do egzaminu maturalnego na poziomie podstawowym;
+2) zapewnienie przez szkołę kształcenia uczniów w grupach o zbliżonym poziomie biegłości w zakresie języka obcego nowożytnego. Realizacja tego wymagania może wiązać się z podziałem klasy na grupy bądź stworzeniem grup językowych międzyoddziałowych;
+3) wzbogacanie treści kształcenia o aspekty nawiązujące do zakresu tematycznego związanego z wybranymi efektami kształcenia, określonymi w podstawie programowej kształcenia w zawodach, np. bezpieczeństwo i higiena pracy, kompetencje personalne i społeczne, podejmowanie i prowadzenie działalności gospodarczej. Kształcenie w zakresie języka obcego nowożytnego ukierunkowanego zawodowo (JOZ w podstawie programowej kształcenia w zawodach) musi odbywać się w ramach języka obcego nowożytnego nauczanego jako przedmiot obowiązkowy w szkole;
+4) prowadzenie zajęć z języka obcego nowożytnego w odpowiednio wyposażonej sali, z dostępem do słowników, pomocy wizualnych, odtwarzacza płyt CD/plików dźwiękowych, komputera ze stałym łączem internetowym, umożliwiającej przeprowadzanie ćwiczeń językowych w parach i grupach;
+5) używanie języka obcego nowożytnego nie tylko jako treści swoistej dla przedmiotu nauczania, ale również jako języka komunikacji podczas zajęć w różnych rodzajach interakcji, tj. zarówno nauczyciel uczeń, jak i uczeń uczeń;
+6) tworzenie i wykorzystywanie takich zadań językowych, które będą stanowiły ilustrację przydatności języka obcego nowożytnego do realizacji własnych celów komunikacyjnych, w tym związanych z zawodem, w którym kształci się uczeń, oraz stwarzanie sytuacji edukacyjnych sprzyjających poznawaniu i rozwijaniu przez uczniów własnych zainteresowań oraz pasji. Wszystkie te działania powinny docelowo służyć rozwijaniu u uczniów świadomości znaczenia języków obcych nowożytnych w różnych dziedzinach życia społecznego, w tym w pracy, również w odniesieniu do własnej ścieżki kariery zawodowej;
+7) wykorzystywanie autentycznych materiałów źródłowych (zdjęć, filmów, nagrań audio, tekstów), w tym z użyciem narzędzi związanych z technologiami informacyjno-komunikacyjnymi, takich jak np. tablice interaktywne z oprogramowaniem, urządzenia mobilne;
+8) przeprowadzanie na bieżąco nieformalnej oraz formalnej diagnozy oraz systematyczne przekazywanie uczniowi i jego rodzicom w sposób zrozumiały i czytelny dla odbiorcy informacji zwrotnej na temat poziomu osiągnięć/postępów ucznia w zakresie poszczególnych umiejętności językowych;
+9) zachęcanie uczniów do samooceny własnej pracy i stosowania różnych technik służących uczeniu się. Jest to szczególne zadanie nauczycieli i szkoły. Nauczyciele powinni zachęcać uczniów do pracy własnej z wykorzystaniem filmów, zasobów internetu, książek (np. uproszczonych lektur), komunikatorów i mediów społecznościowych w odpowiednim zakresie i stosownie do wieku uczniów. W szkole powinny być organizowane wydarzenia związane z językami obcymi nowożytnymi, np. konkursy, wystawy, seanse filmowe, spotkania czytelnicze, dni języków obcych, zajęcia teatralne, udział w programach europejskich typu eTwinning, umożliwiające uczniom kontakt z rodzimymi użytkownikami języka oraz innymi użytkownikami języka docelowego;
+10) wykorzystanie zajęć z języka obcego nowożytnego do rozwijania wrażliwości międzykulturowej oraz kształtowania postawy ciekawości, tolerancji i otwartości wobec innych kultur, niekoniecznie tylko tych związanych z językiem docelowym, np. poprzez zachęcanie uczniów do refleksji nad zjawiskami typowymi dla kultur innych niż własna, stosowanie odniesień do kultury, tradycji i historii kraju pochodzenia uczniów oraz tworzenie sytuacji komunikacyjnych umożliwiających uczniom rozwijanie umiejętności interkulturowych.
+Kształcenie w zakresie języka obcego nowożytnego nie odbywa się w edukacyjnej próżni powinno ono wspierać i być wspierane przez kształcenie w zakresie pozostałych przedmiotów oraz umiejętności ogólnych. Należy mieć świadomość, że wiele technik stosowanych podczas zajęć z języka obcego nowożytnego, np. planowanie i analizowanie zasobu środków i umiejętności językowych posiadanych i wymaganych do wykonania danego zadania językowego, twórcze wykorzystywanie języka, traktowanie popełnionego błędu jako narzędzia rozwoju własnych umiejętności językowych, wykorzystywanie domysłu językowego w procesie rozumienia tekstu słuchanego i czytanego, odkrywanie wzorców i formułowanie reguł sprzyja nie tylko rozwojowi umiejętności językowych, ale przyczynia się do rozwoju umiejętności rozumowania ogólnego. Zajęcia z języka obcego nowożytnego, dla których naturalne i pożądane są ćwiczenia bazujące na pracy w parach lub w grupach (w tym debata/dyskusja), dają również doskonałą możliwość rozwijania tzw. umiejętności miękkich, w tym umiejętności współpracy, oceny mocnych i słabych stron własnych oraz kolegów/koleżanek, doceniania wkładu pracy kolegów/koleżanek, np. w ramach pracy projektowej.
+HISTORIA Cele kształcenia wymagania ogólne I. Chronologia historyczna.
+1. Sytuowanie faktów, zjawisk i procesów historycznych w czasie.
+2. Porządkowanie wybranych faktów w obrębie zjawisk i procesów historycznych.
+3. Wskazywanie przejawów zmian i kontynuacji w różnych wymiarach dziejów.
+4. Określanie tempa zmian w wybranych zjawiskach i procesach historycznych.
+II. Analiza i interpretacja historyczna.
+1. Porównywanie i analizowanie informacji pochodzących z różnych źródeł.
+2. Wyciąganie wniosków oraz formułowanie ocen i opinii.
+3. Sytuowanie faktów, zjawisk i procesów historycznych w przestrzeni.
+4. Wskazywanie i wyjaśnianie związków przyczynowo-skutkowych.
+5. Wyodrębnianie elementów procesu dziejowego.
+6. Zachowanie krytycznej postawy wobec różnych interpretacji historii.
+7. Posługiwanie się wiedzą i doskonalonymi umiejętnościami do rozumienia współczesnych realiów.
+III. Narracja historyczna.
+1. Łączenie informacji pochodzących z różnych źródeł w samodzielną wypowiedź.
+2. Uzasadnianie formułowanych ocen i opinii.
+3. Tworzenie różnych form opisu zjawisk i procesów historycznych (z zachowaniem poprawności językowej).
+Treści nauczania wymagania szczegółowe I. Antyczne dziedzictwo cywilizacji europejskiej. Uczeń:
+1) sytuuje w czasie i przestrzeni cywilizacje starożytne;
+2) charakteryzuje trwałe osiągnięcia cywilizacji grecko-rzymskiej;
+3) opisuje genezę i etapy rozwoju chrześcijaństwa.
+II. Średniowieczne kręgi kulturowe. Uczeń:
+1) charakteryzuje łaciński, bizantyjski i arabski krąg kulturowy;
+2) opisuje na wybranych przykładach relacje między Europą a światem islamu w średniowieczu;
+3) wyjaśnia uniwersalny charakter kultury średniowiecza.
+III. Polska Piastów. Uczeń:
+1) wyjaśnia uwarunkowania narodzin państwa polskiego i znaczenie jego chrystianizacji;
+2) charakteryzuje przykłady wzmacniania i decentralizacji państwa polskiego w okresie monarchii wczesnopiastowskiej;
+3) ocenia sytuację polityczną, społeczną i gospodarczą na ziemiach polskich w okresie rozbicia dzielnicowego;
+4) opisuje proces jednoczenia ziem polskich, ze szczególnym uwzględnieniem roli Władysława Łokietka;
+5) charakteryzuje i ocenia rządy Kazimierza Wielkiego w zakresie polityki wewnętrznej i zagranicznej.
+IV. Królestwo Polskie w czasach unii personalnych u schyłku średniowiecza. Uczeń:
+1) wyjaśnia istotę unii personalnej i wskazuje przykłady takich unii w dziejach Polski średniowiecznej;
+2) przedstawia okoliczności zawarcia unii polsko-litewskiej w XIV wieku i ocenia jej znaczenie;
+3) charakteryzuje i ocenia stosunki polsko-krzyżackie w XV wieku;
+4) ocenia wpływ przywilejów zdobytych przez szlachtę do końca XV wieku na życie społeczne, polityczne i gospodarcze w Królestwie Polskim;
+5) charakteryzuje kulturę polską okresu średniowiecza, odwołując się do wybranych przykładów.
+V. Wyzwania czasów nowożytnych. Uczeń:
+1) przedstawia przyczyny i skutki zamorskiej ekspansji Europejczyków od czasu wielkich odkryć geograficznych;
+2) opisuje podziały wyznaniowe i podaje przykłady wojen na tle religijnym w nowożytnej Europie;
+3) charakteryzuje kulturę renesansu oraz baroku, odwołując się do wybranych przykładów.
+VI. Rzeczpospolita Obojga Narodów. Uczeń:
+1) przedstawia postanowienia i ocenia znaczenie unii lubelskiej;
+2) charakteryzuje ustrój polityczny i strukturę demograficzną Rzeczypospolitej Obojga Narodów;
+3) porównuje gospodarkę Rzeczypospolitej i krajów Europy Zachodniej;
+4) wyjaśnia specyfikę tolerancji religijnej w Rzeczypospolitej do początku XVII wieku;
+5) charakteryzuje kulturę polskiego renesansu, odwołując się do wybranych przykładów.
+VII. Rzeczpospolita a państwa sąsiednie w XVII i na początku XVIII wieku Uczeń:
+1) przedstawia główne przyczyny i następstwa wojen toczonych przez Rzeczpospolitą w XVII wieku;
+2) podaje przykłady ingerencji państw ościennych w sprawy wewnętrzne Rzeczypospolitej w XVII i na początku XVIII wieku;
+3) charakteryzuje położenie międzynarodowe Rzeczypospolitej w czasach saskich.
+VIII. Upadek Rzeczypospolitej na tle oświeceniowych przełomów. Uczeń:
+1) identyfikuje główne idee oświecenia i charakteryzuje zmiany cywilizacyjne w Europie Zachodniej w XVIII wieku;
+2) wyjaśnia wpływ idei oświeceniowych na powstanie Stanów Zjednoczonych oraz wybuch rewolucji francuskiej;
+3) charakteryzuje reformy oświeceniowe w Rzeczypospolitej, ze szczególnym uwzględnieniem reform Sejmu Wielkiego i postanowień Konstytucji 3 maja;
+4) charakteryzuje przyczyny i opisuje zasięg terytorialny kolejnych rozbiorów Rzeczypospolitej;
+5) wyjaśnia zewnętrzne i wewnętrzne przyczyny upadku Rzeczypospolitej.
+IX. Sprawa polska w I połowie XIX wieku. Uczeń:
+1) charakteryzuje genezę i losy Legionów Polskich;
+2) przedstawia politykę Napoleona wobec sprawy polskiej, z uwzględnieniem dziejów Księstwa Warszawskiego;
+3) charakteryzuje postanowienia kongresu wiedeńskiego w sprawie ziem polskich;
+4) wyjaśnia genezę i charakteryzuje następstwa powstania listopadowego;
+5) przedstawia udział Polaków w wydarzeniach Wiosny Ludów.
+X. Ziemie polskie w czasach rozwoju cywilizacji przemysłowej. Uczeń:
+1) wyjaśnia genezę i charakteryzuje następstwa powstania styczniowego;
+2) charakteryzuje postawy społeczeństwa polskiego wobec polityki germanizacyjnej i rusyfikacyjnej władz zaborczych;
+3) charakteryzuje specyfikę tzw. autonomii galicyjskiej;
+4) charakteryzuje zróżnicowanie gospodarcze ziem polskich i główne zmiany społeczne;
+5) porównuje programy polityczne ruchu narodowego, socjalistycznego i ludowego;
+6) określa istotne następstwa ekspansji kolonialnej państw uprzemysłowionych.
+XI. I wojna światowa. Uczeń:
+1) wyjaśnia przyczyny wybuchu wojny i opisuje charakter działań wojennych na różnych frontach;
+2) porównuje założenia polskich orientacji politycznych i charakteryzuje przykłady ich realizacji;
+3) wyjaśnia okoliczności przystąpienia USA do wojny i ich rolę w konflikcie;
+4) określa bezpośrednie skutki rewolucji 1917 roku w Rosji;
+5) przedstawia społeczne i gospodarcze następstwa wojny.
+XII. Ustanowienie i zagrożenia ładu wersalskiego w Europie. Uczeń:
+1) przedstawia zmiany terytorialne w Europie po I wojnie światowej;
+2) charakteryzuje postanowienia traktatu wersalskiego, z uwzględnieniem Ligi Narodów;
+3) wyjaśnia okoliczności i następstwa objęcia władzy w Niemczech przez Hitlera;
+4) charakteryzuje początki systemu stalinowskiego w ZSRS;
+5) charakteryzuje przemiany gospodarcze i kulturalne oraz osiągnięcia naukowe okresu międzywojennego.
+XIII. Problemy i osiągnięcia II Rzeczypospolitej. Uczeń:
+1) charakteryzuje proces kształtowania się granic niepodległej Polski (z uwzględnieniem powstania wielkopolskiego, powstań śląskich, wojny polsko-bolszewickiej i plebiscytów);
+2) porównuje ustrój II Rzeczypospolitej przed i po zamachu majowym;
+3) charakteryzuje główne założenia polityki zagranicznej II Rzeczypospolitej;
+4) ocenia znaczenie głównych osiągnięć gospodarczych niepodległej Polski, uwzględniając zniszczenia wojenne i kryzys ekonomiczny;
+5) charakteryzuje strukturę społeczną, narodowościową i wyznaniową obywateli II Rzeczypospolitej;
+6) opisuje główne osiągnięcia niepodległej Polski w dziedzinie nauki i kultury.
+XIV. Geneza i charakter II wojny światowej. Uczeń:
+1) charakteryzuje położenie międzynarodowe Polski w przededniu wybuchu II wojny światowej;
+2) wyjaśnia przyczyny przegrania przez Polskę wojny obronnej;
+3) sytuuje w czasie i przestrzeni przełomowe wydarzenia II wojny światowej (polityczne i militarne);
+4) charakteryzuje przejawy eksterminacji narodów (ze szczególnym uwzględnieniem Holokaustu i zagłady Romów);
+5) przedstawia przykłady bohaterstwa żołnierzy polskich na frontach II wojny światowej;
+6) opisuje uwarunkowania militarne i polityczne konferencji Wielkiej Trójki (Teheran, Jałta, Poczdam) i przedstawia ich ustalenia.
+XV. Obywatele i władze Rzeczypospolitej Polskiej w czasie II wojny światowej. Uczeń:
+1) charakteryzuje podział ziem polskich dokonany przez Niemcy i ZSRS;
+2) porównuje politykę okupantów wobec obywateli Rzeczypospolitej Polskiej i wymienia przykłady największych zbrodni niemieckich i sowieckich;
+3) wyjaśnia znaczenie funkcjonowania władz Rzeczypospolitej Polskiej na obczyźnie;
+4) charakteryzuje cele i organizację Polskiego Państwa Podziemnego;
+5) charakteryzuje genezę i następstwa powstania warszawskiego;
+6) wyjaśnia okoliczności powstania komunistycznego ośrodka władzy w Polsce.
+XVI. Europa i świat w dobie zimnowojennych podziałów. Uczeń:
+1) charakteryzuje polityczne, społeczne, gospodarcze i kulturowe skutki II wojny światowej;
+2) wyjaśnia genezę zimnej wojny i identyfikuje główne kryzysy międzynarodowe okresu zimnowojennego;
+3) charakteryzuje politykę ZSRS wobec państw bloku wschodniego (z uwzględnieniem interwencji zbrojnej na Węgrzech i w Czechosłowacji);
+4) wyjaśnia genezę i charakter integracji europejskiej;
+5) przedstawia cele i rolę Organizacji Narodów Zjednoczonych w powojennym świecie;
+6) charakteryzuje przemiany społeczne i gospodarcze w II połowie XX wieku, z uwzględnieniem zjawiska kultury masowej.
+XVII. Polska pod dominacją ZSRS. Uczeń:
+1) porównuje kształt terytorialny Polski przed wybuchem II wojny światowej i po jej zakończeniu;
+2) charakteryzuje proces przejmowania przez komunistów władzy w Polsce i opisuje postawy Polaków wobec terroru komunistycznego;
+3) charakteryzuje przemiany gospodarcze, społeczne i kulturowe w powojennej Polsce;
+4) przedstawia kryzysy społeczne w PRL, uwzględniając ich charakter i następstwa;
+5) ocenia rolę Kościoła katolickiego w powojennej Polsce;
+6) charakteryzuje ruch społeczny „Solidarność” i rozpoznaje jego przywódców;
+7) opisuje następstwa wprowadzenia stanu wojennego w Polsce.
+XVIII. Narodziny III Rzeczypospolitej i jej miejsce w świecie. Uczeń:
+1) charakteryzuje przemiany w Polsce w 1989 r. i ocenia ich wpływ na przemiany w Europie Środkowo-Wschodniej;
+2) przedstawia kierunki zmian politycznych, gospodarczych i społecznych w Polsce w pierwszych latach transformacji;
+3) wyjaśnia znaczenie przystąpienia Polski do NATO i do Unii Europejskiej;
+4) charakteryzuje nowe zagrożenia dla ładu międzynarodowego.
+Warunki i sposób realizacji Podstawa programowa kształcenia ogólnego historii dla branżowej szkoły I stopnia ujmuje syntetyczny całokształt dziejów Polski, ukazany jednak w szerszym kontekście, głównie na tle istotnych zjawisk i procesów z historii Europy. Treści nauczania mają układ chronologiczny, co powinno dać uczniom spójny i uporządkowany obraz ojczystych dziejów.
+Treści nauczania wskazują także na różne wymiary historii Polski.
+Treści nauczania wymagania szczegółowe obejmują 18 działów. Poszczególne działy tematyczne są realizowane następująco:
+1) klasa I działy od I do VIII;
+2) klasa II działy od IX do XIII;
+3) klasa III działy od XIV do XVIII.
+Aby zagwarantować atrakcyjność i efektywność edukacji historycznej na tym etapie edukacyjnym, należy korzystać z szerokiego spektrum metod i środków dydaktycznych.
+Nauczyciel winien stosować nauczanie problemowe i metody aktywizujące. Oprócz podręczników istotną rolę w procesie kształcenia powinny odgrywać również teksty źródłowe, materiały ikonograficzne, filmy, mapy czy też wystawy multimedialne. Olbrzymie możliwości edukacyjne stwarza w tym obszarze internet.
+Kształcenie w branżowej szkole I stopnia podejmują uczniowie o bardzo zróżnicowanych oczekiwaniach i predyspozycjach. Niektórzy z nich zapewne już na tym etapie zakończą szkolną edukację, inni będą kształcić się dalej. Będzie to wymagać indywidualizacji pracy z uczniem oraz stosowania skutecznych metod nauczania, nie tylko w celu realizacji wymogów programowych, ale również rozbudzania zainteresowań historycznych młodzieży.
+WIEDZA O SPOŁECZEŃSTWIE Cele kształcenia wymagania ogólne I. Wiedza i rozumienie. Uczeń:
+1) charakteryzuje zasady i formy demokracji oraz wyjaśnia konsekwencje łamania tych zasad;
+2) przedstawia funkcjonowanie systemu politycznego Rzeczypospolitej Polskiej;
+3) wyjaśnia specyfikę praw i wolności człowieka oraz podstawowe mechanizmy ich ochrony;
+4) charakteryzuje instytucje polskiego systemu prawnego;
+5) wykorzystuje swą wiedzę do interpretacji wydarzeń życia społecznego, w tym politycznego.
+II. Wykorzystanie i tworzenie informacji. Uczeń:
+1) pozyskuje i wykorzystuje informacje na temat życia społecznego, w tym politycznego;
+2) wykorzystuje informacje do tworzenia własnej wypowiedzi na temat zjawisk życia społecznego, w tym politycznego, oraz ich oceny.
+III. Rozumienie siebie oraz rozpoznawanie i rozwiązywanie problemów. Uczeń:
+1) analizuje kwestię godności ludzkiej i przedstawia prawa, które mu przysługują, oraz mechanizmy ich dochodzenia;
+2) rozwija w sobie postawy obywatelskie;
+3) rozpoznaje przypadki łamania praw człowieka;
+4) rozpoznaje różne aspekty, także prawne, problemów życia codziennego i podaje możliwe sposoby ich rozwiązania.
+IV. Komunikowanie i współdziałanie. Uczeń:
+1) współpracuje w grupie, z uwzględnieniem podziału zadań oraz wartości obowiązujących w życiu społecznym;
+2) korzysta z procedur i możliwości, jakie stwarzają obywatelom instytucje życia publicznego, w tym instytucje prawne sporządza proste pisma do organów władz.
+Treści nauczania wymagania szczegółowe I. Organy władzy publicznej w Rzeczypospolitej Polskiej. Uczeń:
+1) charakteryzuje zasady ustrojowe zawarte w Konstytucji Rzeczypospolitej Polskiej (demokratycznego państwa prawnego, unitarnej formy państwa, zwierzchnictwa narodu, gwarancji praw i wolności jednostki, konstytucjonalizmu, podziału i równowagi władz, republikańskiej formy rządu, pluralizmu, decentralizacji, samorządności, społecznej gospodarki rynkowej); analizuje sformułowania preambuły Konstytucji Rzeczypospolitej Polskiej;
+2) charakteryzuje formy demokracji bezpośredniej; przedstawia specyfikę referendum ogólnokrajowego i rodzajów referendów lokalnych w Rzeczypospolitej Polskiej;
+wyjaśnia, jakie warunki muszą zostać spełnione, aby referendum się odbyło oraz aby jego wyniki były wiążące (w przypadku lokalnych: aby było ważne); wyjaśnia na wybranym przykładzie wpływ konsultacji publicznych na kształtowanie prawa w Rzeczypospolitej Polskiej;
+3) wyjaśnia, jak przeprowadzane są powszechne i bezpośrednie wybory organów władzy publicznej; na przykładzie wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej porównuje ordynację proporcjonalną i większościową; analizuje wady i zalety każdego z tych systemów wyborczych;
+4) przedstawia strukturę oraz organizację pracy Sejmu Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej (prezydium, komisje, kluby i koła; kworum, rodzaje większości) oraz status posła, w tym instytucje mandatu wolnego i immunitetu; wymienia kompetencje Sejmu Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej oraz Zgromadzenia Narodowego Rzeczypospolitej Polskiej;
+5) wykazuje znaczenie, jakie dla pozycji ustrojowej Prezydenta Rzeczypospolitej Polskiej ma fakt wyborów powszechnych; przedstawia kompetencje Prezydenta Rzeczypospolitej Polskiej: ceremonialno-reprezentacyjne, w stosunku do rządu, parlamentu i władzy sądowniczej, w polityce zagranicznej oraz bezpieczeństwa państwa; analizuje z wykorzystaniem badań opinii publicznej poziom legitymizacji społecznej władzy prezydenckiej;
+6) przedstawia kompetencje Rady Ministrów Rzeczypospolitej Polskiej; wymienia podstawowe działy administracji rządowej i zadania wojewody; wyjaśnia rolę Prezesa Rady Ministrów Rzeczypospolitej Polskiej; przedstawia procedury powoływania i odwoływania rządu, używając określeń: wotum zaufania, konstruktywne wotum nieufności, wotum nieufności wobec ministra, dymisja;
+7) przedstawia zakres działania poszczególnych poziomów samorządu terytorialnego (gmina, powiat, województwo) w Rzeczypospolitej Polskiej, z uwzględnieniem struktury głównych kierunków wydatków budżetowych na te działania oraz źródeł ich finansowania;
+8) przedstawia organy stanowiące i wykonawcze samorządu terytorialnego w Rzeczypospolitej Polskiej na poziomie gminy i miasta na prawach powiatu oraz powiatu i województwa; charakteryzuje kompetencje tych organów i zależności między nimi;
+9) przygotowuje opracowanie promujące działania organów wybranego samorządu terytorialnego w Rzeczypospolitej Polskiej na poziomie powiatu lub województwa;
+10) przedstawia strukturę sądownictwa powszechnego i administracyjnego w Rzeczypospolitej Polskiej oraz zadania Sądu Najwyższego; uzasadnia potrzebę niezależności sądów i niezawisłości sędziów;
+11) przedstawia kompetencje Najwyższej Izby Kontroli, Trybunału Konstytucyjnego, Trybunału Stanu i prokuratury w Rzeczypospolitej Polskiej; uzasadnia znaczenie tych instytucji dla funkcjonowania państwa prawa.
+II. Prawa człowieka i ich ochrona. Uczeń:
+1) wymienia zasady ogólne i katalog praw człowieka zapisane w Konstytucji Rzeczypospolitej Polskiej;
+2) przedstawia sądowe środki ochrony praw i wolności w Rzeczypospolitej Polskiej oraz sposób działania Rzecznika Praw Obywatelskich; pisze skargę do Rzecznika Praw Obywatelskich (według wzoru dostępnego na stronie internetowej); wykazuje znaczenie skargi konstytucyjnej;
+3) uzasadnia znaczenie Konwencji o ochronie praw człowieka i podstawowych wolności w kontekście Europejskiego Trybunału Praw Człowieka; przedstawia warunki, jakie muszą zaistnieć, aby rozpatrzył on skargę obywatela; analizuje wybrany wyrok tego trybunału;
+4) przedstawia prawa obywatela Unii Europejskiej;
+5) znajduje w środkach masowego przekazu (między innymi na stronach organizacji pozarządowych broniących praw człowieka) informacje o przypadkach naruszania praw człowieka i przygotowuje analizę na ten temat.
+III. Prawo w Rzeczypospolitej Polskiej. Uczeń:
+1) wyjaśnia, czym różnią się normy prawne od innych typów norm; wymienia podstawowe zasady prawa (prawo nie działa wstecz, domniemanie niewinności, nie ma winy bez prawa, nieznajomość prawa szkodzi) i wyjaśnia konsekwencje ich łamania;
+2) przedstawia źródła prawa w Rzeczypospolitej Polskiej wykazuje szczególną moc konstytucji; przedstawia drogę ustawodawczą;
+3) rozpoznaje sprawy regulowane przez prawo cywilne, rodzinne, administracyjne i karne; wskazuje, w jakim kodeksie obowiązującym w Rzeczypospolitej Polskiej można znaleźć przepisy dotyczące konkretnej sprawy; interpretuje przepisy prawne;
+4) wyjaśnia podstawowe instytucje prawne części ogólnej prawa cywilnego i prawa zobowiązaniowego w Rzeczypospolitej Polskiej (osoba fizyczna, zdolność prawna a zdolność do czynności prawnych, zobowiązanie);
+5) wyjaśnia podstawowe instytucje prawne prawa rzeczowego i spadkowego w Rzeczypospolitej Polskiej (własność, formy nabycia własności, spadek, dziedziczenie ustawowe i testamentowe, zachowek);
+6) wyjaśnia podstawowe instytucje prawne prawa rodzinnego w Rzeczypospolitej Polskiej (małżeństwo, wspólnota majątkowa, prawa i obowiązki rodziców oraz dziecka, w tym pełnoletniego, obowiązek alimentacyjny);
+7) przedstawia przebieg postępowania cywilnego w Rzeczypospolitej Polskiej oraz uczestniczące w nim strony; znajduje wzory pozwów i je analizuje;
+8) odróżnia akty administracyjne od innego rodzaju dokumentów; rozpoznaje, kiedy decyzja administracyjna w Rzeczypospolitej Polskiej jest ważna;
+9) wyjaśnia, jak odwołać się od decyzji organów administracyjnych w Rzeczypospolitej Polskiej; pisze odwołanie od decyzji administracyjnej;
+10) przedstawia przebieg postępowania administracyjnego w Rzeczypospolitej Polskiej; analizuje wzory zażaleń na postanowienia organów administracji oraz wzory skarg do wojewódzkiego sądu administracyjnego;
+11) przedstawia przebieg postępowania karnego w Rzeczypospolitej Polskiej oraz uczestniczące w nim strony; wymienia główne prawa, jakie przysługują ofierze, sprawcy i świadkowi przestępstwa; pisze zawiadomienie o popełnieniu przestępstwa;
+12) wskazuje, do jakich organów i instytucji można się zwrócić w Rzeczypospolitej Polskiej o pomoc prawną w konkretnych sytuacjach; przedstawia zadania notariuszy, radców prawnych, adwokatów i prokuratury.
+IV. Wybrane problemy polityki publicznej w Rzeczypospolitej Polskiej. Uczeń:
+1) przedstawia funkcjonowanie systemu obowiązkowych ubezpieczeń społecznych w Rzeczypospolitej Polskiej, rozróżniając ubezpieczenia: emerytalne, rentowe, chorobowe i wypadkowe; wymienia zadania Zakładu Ubezpieczeń Społecznych;
+2) wyjaśnia specyfikę obowiązkowych i dobrowolnych ubezpieczeń zdrowotnych w Rzeczypospolitej Polskiej; przedstawia cele i zadania centralnej instytucji koordynującej funkcjonowanie służby zdrowia; wyjaśnia kwestię korzystania z publicznej opieki zdrowotnej;
+3) przedstawia działania w celu ograniczenia bezrobocia i wykluczenia społecznego na przykładzie działalności urzędu pracy w swoim powiecie;
+4) przedstawia możliwości kontynuacji swojej edukacji; wyjaśnia, w jaki sposób podnosić swoje kwalifikacje zawodowe.
+Warunki i sposób realizacji Celem kształcenia w zakresie wiedzy o społeczeństwie w branżowej szkole I stopnia jest kształtowanie postaw obywatelskich. Konieczna jest taka realizacja treści nauczania przedmiotu, aby uczniowie rozumieli przydatność poszczególnych zagadnień w codziennym życiu człowieka. Treści nauczania zostały określone tak, aby uczeń miał świadomość wpływu obywateli na życie publiczne, ale jednocześnie rozumiał konieczność brania odpowiedzialności za własne wybory i decyzje. Musi przy tym mieć świadomość możliwości korzystania ze swoich praw.
+Wskazane jest korzystanie z szerokiego spektrum metod dydaktycznych. Nauczyciel powinien stosować nauczanie problemowe i metody kształcące umiejętności społeczne, twórczego myślenia i rozwiązywania problemów. Oprócz podręczników istotną rolę w procesie kształcenia powinny odgrywać również teksty źródłowe, słowniki, leksykony.
+W celu rozwijania umiejętności współdziałania powinno się stosować różne metody pracy grupowej, w tym uczniowskie projekty edukacyjne (każdy uczeń powinien uczestniczyć w minimum jednym projekcie, np. w realizacji wymagań szczegółowych określonych w dziale I pkt 9 czy dziale II pkt 5).
+W kształceniu kompetencji pozyskiwania, gromadzenia, porządkowania, analizy i prezentacji informacji o życiu publicznym powinna być wykorzystywana technologia informacyjno-komunikacyjna. Istotne jest korzystanie ze stron internetowych instytucji publicznych, w tym organów samorządowych i organów władzy publicznej. Niezbędna jest również praca z różnymi typami przekazu, w tym interaktywnymi.
+Ważne jest również pozyskiwanie informacji w toku wycieczki edukacyjnej (w tym wirtualnej, wykorzystując dedykowane aplikacje) do wybranych instytucji, na przykład do urzędu marszałkowskiego, parlamentu, sądu. Można także realizować niektóre treści nauczania poprzez lekcje organizowane we współpracy z urzędami administracji rządowej i samorządowej oraz z organizacjami pozarządowymi.
+PODSTAWY PRZEDSIĘBIORCZOŚCI Cele kształcenia wymagania ogólne I. Wiedza.
+1. Posługiwanie się elementarnymi pojęciami z zakresu podstaw przedsiębiorczości.
+2. Rozumienie istoty przedsiębiorczości oraz poznanie jej roli w gospodarce i życiu człowieka.
+3. Wyjaśnianie mechanizmów funkcjonowania gospodarki rynkowej, powiązań między jej podmiotami oraz poznanie roli państwa w procesach gospodarczych.
+4. Zaznajomienie się z prawami i instytucjami chroniącymi konsumenta.
+5. Rozumienie roli pieniądza i rynków finansowych w gospodarce, funkcjonowaniu przedsiębiorstw i życiu człowieka.
+6. Poznanie rodzajów podatków, ich wpływu na budżety państwa, przedsiębiorstw i gospodarstw domowych.
+7. Dostrzeganie znaczenia ubezpieczeń w działalności gospodarczej i życiu człowieka.
+8. Rozumienie funkcjonowania rynku pracy, zasad aktywnego poszukiwania pracy, przygotowania się do rozmowy kwalifikacyjnej, poznanie praw oraz obowiązków pracownika i pracodawcy.
+9. Poznanie zasad funkcjonowania przedsiębiorstwa w gospodarce rynkowej, form organizacyjno-prawnych, innowacyjnych modeli biznesowych i procedury rejestracji działalności gospodarczej.
+10. Rozumienie zasad zarządzania, roli marketingu oraz społecznej odpowiedzialności w funkcjonowaniu przedsiębiorstwa.
+II. Umiejętności i stosowanie wiedzy w praktyce.
+1. Wyszukiwanie informacji z różnych źródeł, ich selekcja i analizowanie.
+2. Stosowanie w praktyce kluczowych pojęć związanych z przedsiębiorczością.
+3. Podejmowanie przemyślanych decyzji na podstawie wskaźników ekonomicznych oraz samodzielne obserwacje zjawisk zachodzących w gospodarce.
+4. Odpowiedzialne gospodarowanie pieniędzmi, analizowanie, ocenianie i świadome korzystanie z usług finansowych oraz inwestowanie kapitału z wykorzystaniem wiedzy na temat praw klienta usług finansowych.
+5. Podejmowanie niezależnych, odpowiedzialnych decyzji finansowych w odniesieniu do własnych zasobów.
+6. Podnoszenie kompetencji osobistych i społecznych niezbędnych na rynku pracy oraz wzmacnianie motywacji do pracy.
+7. Analizowanie oferty rynku pracy, sporządzanie dokumentów aplikacyjnych, dokonywanie autoprezentacji oraz korzystne prezentowanie się podczas rozmowy kwalifikacyjnej.
+8. Rozróżnianie skutków wynikających z nawiązania i rozwiązania stosunku pracy oraz wykonywania czynności na podstawie umów cywilnoprawnych i analizowanie przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2018 r.
+poz. 917, z późn. zm.).
+9. Analizowanie otoczenia przedsiębiorstwa, w tym rynku, na którym przedsiębiorstwo działa.
+10. Projektowanie działań w zakresie zakładania własnego przedsiębiorstwa lub podejmowania innych przedsięwzięć o charakterze społeczno-ekonomicznym.
+11. Przygotowanie do prowadzenia własnej działalności gospodarczej.
+12. Efektywne uczestniczenie w pracy zespołowej, z wykorzystaniem umiejętności w zakresie komunikacji interpersonalnej, oraz wdrażanie zasad skutecznego przywództwa w organizacji.
+13. Rozpoznawanie działań etycznych i nieetycznych w życiu gospodarczym oraz przejawów społecznej odpowiedzialności biznesu.
+III. Kształtowanie postaw.
+1. Wykorzystanie zdobytej wiedzy ekonomicznej do rozwijania własnej postawy przedsiębiorczej jako jednego z podstawowych warunków aktywnego uczestnictwa w życiu społeczno-gospodarczym, w tym skutecznego wykonywania pracy najemnej i prowadzenia własnej działalności gospodarczej.
+2. Korzystanie z szans pojawiających się na rynku, podejmowanie inicjatywy, pomysłowość oraz zdolność do pokonywania barier wewnętrznych i zewnętrznych.
+3. Docenianie postaw przedsiębiorczych w życiu codziennym, gotowość do czynnego uczestnictwa w życiu społeczno-gospodarczym kraju oraz współodpowiedzialność za jego rozwój.
+4. Docenianie roli przedsiębiorców budujących w sposób odpowiedzialny konkurencyjną gospodarkę oraz dostrzeganie znaczenia wolności gospodarczej i własności prywatnej jako filarów gospodarki rynkowej.
+5. Przyjmowanie postaw patriotyzmu gospodarczego, rozumianego jako odpowiedzialność konsumentów i ludzi biznesu za dobrobyt gospodarczy i społeczny kraju.
+6. Rozumienie konsekwencji działań nieetycznych związanych z finansami, w tym obowiązkami podatkowymi.
+7. Kształtowanie w sobie odpowiedzialnych postaw jako przyszłych pracowników i pracodawców oraz należytego wypełnienia obowiązków, a także sprawiedliwego, opartego na prawości i dążeniu do prawdy traktowania pracowników.
+8. Kształtowanie proaktywności, odpowiedzialności za siebie i innych oraz umiejętnego godzenia własnego dobra z dobrem innych ludzi.
+9. Zainteresowanie prowadzeniem własnej działalności gospodarczej oraz motywacja do ciągłego samorozwoju i inwestowania w siebie.
+10. Kształtowanie postawy otwartości i szacunku do innych osób oraz zdolności podejmowania dialogu i współpracy.
+11. Przyjmowanie postaw etycznych, społecznej solidarności i odpowiedzialności w życiu gospodarczym.
+Treści nauczania wymagania szczegółowe I. Gospodarka rynkowa: przedsiębiorczość w gospodarce rynkowej, gospodarka nakazowo-rozdzielcza (centralnie planowana) i rynkowa, rodzaje rynków, podmioty gospodarki rynkowej, struktury rynkowe, mechanizm rynkowy, fazy cyklu koniunkturalnego, rola państwa w gospodarce, konsument na rynku. Uczeń:
+1) identyfikuje cechy człowieka o postawie przedsiębiorczej, rozpoznaje je u siebie oraz określa związek zachowania się osoby przedsiębiorczej z szansami, jakie stwarza gospodarka rynkowa;
+2) rozumie rolę umiejętności w zakresie komunikacji interpersonalnej jako elementu postawy przedsiębiorczej oraz stosuje różne formy komunikacji werbalnej i niewerbalnej we współdziałaniu z innymi uczestnikami rynku;
+3) dostrzega znaczenie przedsiębiorczości, w tym innowacyjności i kreatywności, w życiu osobistym i rozwoju społeczno-gospodarczym w skali lokalnej, regionalnej, krajowej i globalnej;
+4) na tle cech gospodarki nakazowo-rozdzielczej (centralnie planowanej) wykazuje zalety gospodarki opartej na mechanizmie rynkowym, doceniając fundamentalne wartości, na jakich się opiera (wolność gospodarcza, prywatna własność);
+5) analizuje funkcje rynku i rozróżnia rodzaje rynków;
+6) charakteryzuje podmioty gospodarki rynkowej, w tym gospodarstwa domowe i przedsiębiorstwa, określa zależności między nimi, rozróżnia struktury rynkowe: monopol, oligopol, konkurencja monopolistyczna, konkurencja doskonała oraz dostrzega negatywne skutki ograniczonej konkurencji na rynku;
+7) wyjaśnia prawo popytu i podaży, posługując się wykresami uwzględniającymi zmianę ceny, oraz charakteryzuje czynniki wpływające na popyt i podaż;
+8) opisuje zachowania gospodarki w kolejnych fazach cyklu koniunkturalnego, charakteryzuje narzędzia oddziaływania państwa na gospodarkę oraz dyskutuje na temat metod przeciwdziałania zjawiskom kryzysowym w gospodarce krajowej i światowej;
+9) wyróżnia podstawowe źródła wpływów i kierunki wydatków budżetu państwa oraz wyjaśnia wpływ deficytu budżetowego i długu publicznego na funkcjonowanie gospodarki;
+10) charakteryzuje organizacje i instytucje prokonsumenckie, w tym rzecznika konsumenta i Urząd Ochrony Konkurencji i Konsumentów, oraz wyjaśnia zakres ich działania na podstawie materiałów źródłowych;
+11) posługując się prawami przysługującymi konsumentom, określa drogę ich egzekwowania, w tym zasady składania reklamacji.
+II. Rynek finansowy: pieniądz i jego obieg, instytucje rynku finansowego, formy inwestowania, bank centralny i polityka pieniężna, bankowość komercyjna i spółdzielcza, podatki, ubezpieczenia, umowy bankowe i ubezpieczeniowe, ochrona klienta usług finansowych, etyka w finansach. Uczeń:
+1) omawia funkcje i formy pieniądza oraz jego obieg w gospodarce;
+2) charakteryzuje ważniejsze instytucje rynku finansowego w Polsce (Narodowy Bank Polski, Komisja Nadzoru Finansowego, Rzecznik Finansowy, Giełda Papierów Wartościowych w Warszawie, Bankowy Fundusz Gwarancyjny, banki komercyjne i spółdzielcze, spółdzielcze kasy oszczędnościowo-kredytowe, fundusze inwestycyjne, Ubezpieczeniowy Fundusz Gwarancyjny, zakłady ubezpieczeń, podmioty świadczące usługi płatnicze) oraz objaśnia ich znaczenie w funkcjonowaniu gospodarki narodowej, przedsiębiorstw i życiu człowieka;
+3) rozróżnia formy oszczędzania i inwestowania, ocenia je z punktu widzenia ryzyka i przewidywanych zysków oraz przeprowadza symulowaną inwestycję w wybraną formę;
+4) charakteryzuje rodzaje papierów wartościowych oraz objaśnia mechanizm inwestowania na giełdzie papierów wartościowych na przykładzie Giełdy Papierów Wartościowych w Warszawie;
+5) dyskutuje nad wyborem rodzaju funduszu inwestycyjnego, uwzględniając potencjalne zyski oraz ryzyko wystąpienia strat;
+6) dostrzega konieczność wczesnego rozpoczęcia systematycznego oszczędzania i inwestowania środków finansowych na emeryturę;
+7) identyfikuje najważniejsze funkcje i zadania Narodowego Banku Polskiego, charakteryzuje instrumenty polityki pieniężnej oraz omawia rolę Rady Polityki Pieniężnej w realizacji celu inflacyjnego poprzez kształtowanie stóp procentowych;
+8) analizuje oferty usług banków komercyjnych i spółdzielczych oraz spółdzielczych kas oszczędnościowo-kredytowych w zakresie kont osobistych, kart bankowych, lokat terminowych, kredytów i pożyczek oraz oferty pozabankowych instytucji pożyczkowych, uwzględniając realną stopę procentową, a także dostrzega zagrożenia i rozumie zasady bezpieczeństwa przy korzystaniu z bankowości elektronicznej;
+9) identyfikuje rodzaje podatków według różnych kryteriów oraz wyjaśnia ich wpływ na gospodarkę kraju, przedsiębiorstwa i gospodarstwa domowe;
+10) wyjaśnia zasady składania rocznej deklaracji i obliczania podatku dochodowego od osób fizycznych;
+11) formułuje argumenty za i przeciw stosowaniu podatku dochodowego progresywnego i liniowego;
+12) charakteryzuje rodzaje ubezpieczeń według różnych kryteriów i porównuje oferty zakładów ubezpieczeń na przykładzie ubezpieczenia nieruchomości lub pojazdów mechanicznych;
+13) krytycznie analizuje przykładową umowę kredytu lub pożyczki;
+14) analizuje postanowienia ogólnych warunków ubezpieczenia na przykładzie ubezpieczenia na życie lub ubezpieczenia od następstw nieszczęśliwych wypadków;
+15) formułuje reklamację do instytucji rynku finansowego i pisze skargę do Rzecznika Finansowego na przykładzie wybranego produktu finansowego;
+16) jest świadomy, że należy korzystać z różnorodnych i wiarygodnych źródeł informacji przed podjęciem decyzji finansowych;
+17) ocenia przykłady praktyk i zachowań etycznych oraz nieetycznych na rynku finansowym.
+III. Rynek pracy: mierniki i wskaźniki, popyt i podaż na rynku pracy, kariera zawodowa, poszukiwanie pracy, rozmowa kwalifikacyjna, formy zatrudnienia, systemy płac, prawa i obowiązki pracownika i pracodawcy, bhp i organizacja pracy, związki zawodowe, etyka w pracy. Uczeń:
+1) analizuje podstawowe mierniki i wskaźniki rynku pracy, w tym współczynnik aktywności zawodowej, wskaźnik zatrudnienia i stopę bezrobocia;
+2) wyjaśnia mechanizm popytu i podaży na rynku pracy oraz identyfikuje czynniki wpływające na równowagę na rynku pracy;
+3) rozpoznaje motywy aktywności zawodowej człowieka oraz analizuje szanse i możliwości rozwoju własnej kariery zawodowej, dostrzegając rolę procesu uczenia się przez całe życie;
+4) rozróżnia metody poszukiwania pracy oraz ocenia ich przydatność i efektywność z punktu widzenia własnej ścieżki rozwoju zawodowego;
+5) analizuje własne kompetencje i możliwości zdobycia doświadczenia zawodowego w formie wolontariatu, praktyk lub stażu oraz znalezienia pracy na rynku lokalnym, regionalnym, krajowym i międzynarodowym;
+6) opracowuje dokumenty aplikacyjne dotyczące konkretnej oferty pracy;
+7) przygotowuje się do rozmowy kwalifikacyjnej i uczestniczy w niej w warunkach symulowanych, eksponując swoje zalety, oraz dostrzega podstawowe błędy popełniane podczas rozmowy;
+8) rozróżnia formy zatrudnienia i rodzaje umów o pracę, określa korzyści z wyboru konkretnej formy i umowy oraz wymienia sposoby rozwiązywania stosunku pracy;
+9) charakteryzuje różne systemy płac, rodzaje i formy wynagrodzeń oraz identyfikuje koszty płacy i oblicza wynagrodzenie netto;
+10) analizuje prawa i obowiązki pracownika (w tym młodocianego) i pracodawcy oraz omawia specyfikę zatrudnienia osób niepełnosprawnych;
+11) na podstawie analizy przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy wymienia rodzaje urlopów przysługujące pracownikowi;
+12) przedstawia zasady dobrej organizacji oraz bezpieczeństwa i higieny pracy na przykładzie konkretnego stanowiska;
+13) dostrzega rolę związków zawodowych w ochronie praw pracowniczych, ocenia zachowania etyczne i nieetyczne zarówno pracodawcy, jak i pracowników, oraz rozpoznaje przejawy mobbingu i konsekwencje zatrudniania bez umowy.
+IV. Przedsiębiorstwo: klasyfikacje przedsiębiorstw, biznesplan, otoczenie przedsiębiorstwa, formy organizacyjno-prawne, procedury rejestracji i likwidacji, źródła finansowania działalności, analiza rynku, zarządzanie przedsiębiorstwem, praca zespołowa, marketing, wynik finansowy, formy opodatkowania, księgowość, negocjacje, etyka w biznesie i społeczna odpowiedzialność przedsiębiorstw, funkcjonowanie przedsiębiorstwa. Uczeń:
+1) klasyfikuje przedsiębiorstwa według kryteriów rodzaju prowadzonej działalności, wielkości i formy własności oraz charakteryzuje innowacyjne modele biznesu, w tym startupy;
+2) uzasadnia przydatność sporządzania i przedstawia strukturę biznesplanu oraz objaśnia poszczególne jego elementy;
+3) inspirując się doświadczeniami własnymi i znanych przedsiębiorców oraz bazując na zebranych informacjach z rynku, znajduje pomysł na własną działalność gospodarczą lub przedsięwzięcie społeczne, oceniając go pod względem innowacyjności;
+4) sporządza w postaci biznesplanu projekt własnego przedsiębiorstwa lub innego przedsięwzięcia o charakterze społeczno-ekonomicznym oraz przedstawia go w formie pisemnej albo w postaci prezentacji;
+5) analizuje mikro- i makrootoczenie przedsiębiorstwa, identyfikuje mocne i słabe strony oraz szanse i zagrożenia projektowanego przedsięwzięcia, wybierając jego lokalizację;
+6) charakteryzuje podstawowe formy organizacyjno-prawne przedsiębiorstw (indywidualna działalność gospodarcza, spółka cywilna, spółki prawa handlowego) i przedsiębiorczości społecznej (w tym spółdzielnia pracy, spółdzielnia socjalna, stowarzyszenie, fundacja) oraz, uwzględniając odpowiedzialność prawną i majątkową właścicieli, dobiera formę do projektowanego przedsiębiorstwa lub przedsięwzięcia;
+7) przedstawia procedury związane z rejestracją indywidualnej działalności gospodarczej i jej likwidacją;
+8) znajduje możliwości finansowania działalności gospodarczej lub projektowanego przedsięwzięcia (w tym ze środków instytucji finansowych, urzędów pracy, funduszy unijnych i venture capital, „aniołów biznesu”) oraz określa funkcje inkubatorów przedsiębiorczości w powstawaniu i rozwoju małych firm, w tym startupów;
+9) zbiera, analizuje i prezentuje informacje o rynku, na którym działa przedsiębiorstwo;
+10) wyjaśnia istotę procesu zarządzania różnymi zasobami przedsiębiorstwa, w tym zasady skutecznego zarządzania ludźmi oparte na koncepcji przywództwa;
+11) stosuje zasady pracy zespołowej, wyjaśnia rolę oraz identyfikuje cechy dobrego lidera i wykonawcy;
+12) charakteryzuje główne instrumenty marketingowe, rozumie ich rolę w funkcjonowaniu przedsiębiorstwa oraz wykorzystuje posiadaną wiedzę w tym zakresie do projektowania działań marketingowych w planowanym przedsiębiorstwie lub przedsięwzięciu;
+13) wykazując się kreatywnością, projektuje działania promocyjne, uzasadnia ich rolę w planowanym przedsięwzięciu oraz dyskutuje nad pozytywnymi i negatywnymi przykładami wpływu reklamy na klientów;
+14) prognozuje efekty finansowe projektowanego przedsiębiorstwa lub przedsięwzięcia na podstawie zestawienia planowanych przychodów i kosztów;
+15) ocenia wady i zalety poszczególnych form opodatkowania indywidualnej działalności gospodarczej w zakresie podatku dochodowego oraz wymienia inne podatki, którymi może być objęty przedsiębiorca;
+16) omawia funkcje dowodów księgowych i podstawowe zasady księgowości oraz wypełnia dowody księgowe i książkę przychodów i rozchodów na potrzeby rozliczenia podatku dochodowego;
+17) wyjaśnia zasady skutecznych negocjacji, uwzględniając strategię „wygrana-wygrana”, przedstawia przykłady technik manipulacyjnych stosowanych podczas negocjacji oraz podaje negatywne skutki ich stosowania;
+18) rozróżnia zachowania etyczne i nieetyczne w biznesie, w tym przejawy korupcji w życiu gospodarczym, oraz rozumie istotę i cele społecznej odpowiedzialności przedsiębiorstw;
+19) na podstawie danych Głównego Urzędu Statystycznego określa rozmiary „szarej strefy” w Polsce oraz przyczyny i negatywne skutki jej rozwoju;
+20) analizuje przebieg kariery zawodowej osoby, która w zgodzie z zasadami etycznymi odniosła sukces jako przedsiębiorca;
+21) dostrzega możliwości rozwoju przedsiębiorstwa i osiągnięcia sukcesu rynkowego przy pełnym poszanowaniu zasad etycznych w biznesie;
+22) wyszukuje i analizuje informacje o sukcesach polskich przedsiębiorstw, w tym ze swojego regionu, na rynku krajowym i międzynarodowym, osiąganych zgodnie z prawem i etyką biznesu;
+23) obserwuje proces funkcjonowania lokalnego przedsiębiorstwa w trakcie ćwiczeń terenowych lub dyskutuje na tematy związane z prowadzeniem biznesu podczas spotkania z przedsiębiorcą, na podstawie informacji o podejmowanych przez niego działaniach innowacyjnych i w zakresie społecznej odpowiedzialności biznesu.
+Warunki i sposób realizacji Na realizację działu I należy przeznaczyć minimum 8 godz., działu II 13 godz., działu III 12 godz., działu IV 19 godz., czyli łącznie 52 godz., co stanowi ok. 80% godz., które ma do dyspozycji nauczyciel. Pozostałe godziny nauczyciel może przeznaczyć na rozszerzenie określonych treści według własnego uznania. Taki rozkład godzin i odpowiadających im wymagań między działy wynika z przyjętego założenia, że w nauczaniu przedsiębiorczości fundamentalne są umiejętności związane z podejmowaniem aktywności zawodowej w ramach pracy etatowej lub samozatrudnienia, zaś podstawą tej aktywności jest wiedza ekonomiczna wraz z problematyką funkcjonowania rynku finansowego.
+Kształcenie w zakresie przedsiębiorczości powinno rozpocząć się od przedstawienia, czym są, jak funkcjonują i rozwijają się narodowe systemy gospodarek rynkowych. W dziale I zostały wyjaśnione ich odmienności, wynikające z realizowanych celów, różnej roli państwa i rynku w tych systemach oraz wykorzystywanych przez nie podstawowych czynników wzrostu i rozwoju, takich jak: surowce, praca, inwestycje rzeczowe i kapitałowe, innowacje, handel czy konsumpcja. Uczniowie dowiadują się, jak w tych różnych systemach ekonomicznych funkcjonują podstawowe podmioty gospodarki gospodarstwa domowe (ze szczególnym uwzględnieniem praw członków tych gospodarstw jako konsumentów na rynku) i przedsiębiorstwa. Stanowi to punkt wyjścia do pokazania, czym są i jak funkcjonują różnego typu przedsiębiorstwa. Szczegółowe przedstawienie, w jaki sposób są tworzone, zarządzane, przekształcane i likwidowane przedsiębiorstwa oraz co z tego wynika dla ich pracowników i właścicieli, zostało zawarte w dziale III i IV, czyli na dalszym etapie edukacji. Problematyka ta powinna być wprowadzana jak najpóźniej.
+Realizacja działu II i III służy pokazaniu, jak na kluczowych dla gospodarki rynkach finansowym i rynku pracy funkcjonują gospodarstwa domowe i przedsiębiorstwa.
+Wyeksponowanie tych dwóch rynków oraz spojrzenie przez ich pryzmat na gospodarkę i przedsiębiorczość wynikają z tego, że uczniowie, tak jak inni uczestnicy rynku, staną się pracownikami albo pracodawcami i będą musieli pozyskiwać środki pieniężne, a następnie świadomie nimi zarządzać, nabywając dobra konsumpcyjne lub czynniki produkcji, oszczędzając je lub inwestując korzystnie i bezpiecznie.
+W dziale II „Rynek finansowy” wymagania odnoszą się do wiedzy dotyczącej podstaw finansów oraz umiejętności związanych z funkcjonowaniem na tym rynku człowieka jako świadomego konsumenta oraz przedsiębiorcy. Podczas realizacji tego działu uczeń na realnych przykładach powinien poznawać i dokonywać oceny produktów finansowych oraz podejmować dojrzałe decyzje, rozumiejąc ich rozmaite konsekwencje.
+Celem działu III „Rynek pracy” jest przygotowanie uczniów do aktywnego zachowania się na rynku pracy. Osiągnięcia uczniów są realizowane przez analizę mocnych i słabych stron każdego z nich, możliwości wyboru drogi zawodowej oraz sytuacji na rynku pracy w celu nabycia umiejętności skutecznego jej poszukiwania. Niezbędne jest poznanie form zatrudnienia, obowiązków i praw pracownika oraz pracodawcy, jak i innych elementów prawa pracy. W wyniku realizacji tego działu uczeń zrozumie konieczność inwestowania w siebie, będzie potrafił przygotować dokumenty aplikacyjne na konkretne stanowisko, dostrzeże również, że inne osoby, w tym osoby niepełnosprawne, poszukują pracy i ją wykonują. Będzie umiał także ocenić korzyści i koszty wynikające ze współpracy z instytucjami rynku pracy.
+ekonomicznym, społecznym, a nawet kulturalnym, artystycznym czy też sportowym, jest dla uczniów ważnym doświadczeniem biznesowym. Uczniowie powinni osiągnąć te same efekty kształcenia, co przy planowaniu własnego biznesu, w dodatku wzmacniając je doświadczeniami praktycznymi.
+Ze względu na zmieniającą się dynamicznie rzeczywistość, w związku z informatyzacją obiegu wielu dokumentów i ich częste zmiany, w podstawie programowej nie zostało określonych zbyt wiele efektów związanych z wypełnianiem różnego typu formularzy, np.
+poleceń przelewu, faktur czy deklaracji rocznej podatku dochodowego. Decyzję o tym, w jakim zakresie ćwiczyć te umiejętności, będą podejmować autorzy programu nauczania i realizujący go nauczyciel. W celu realizacji niektórych wymagań konieczne jest zapewnienie uczniom możliwości korzystania z pracowni komputerowej z dostępem do internetu. Zadaniem szkoły jest umożliwienie realizacji takich zajęć.
+Szczególną rolę w kształceniu w zakresie przedsiębiorczości odgrywają ćwiczenia terenowe w przedsiębiorstwie, gdzie możliwa jest bezpośrednia obserwacja procesu jego funkcjonowania i zadań poszczególnych działów. Alternatywnie, w przypadku braku możliwości wyjścia do przedsiębiorstwa, można zorganizować spotkanie z przedsiębiorcą, w trakcie którego uczniowie będą mogli dyskutować na tematy związane z funkcjonowaniem przedsiębiorstwa. Jeżeli pozwalają na to możliwości organizacyjne, należy zastosować obydwie formy poszerzenia wiedzy w zakresie funkcjonowania przedsiębiorstwa z praktycznego punktu widzenia. Zadaniem szkoły, przy wsparciu organu prowadzącego, jest zapewnienie kontaktów z przedstawicielami życia gospodarczego i możliwości realizacji części zajęć poza szkołą w przedsiębiorstwach lub instytucjach otoczenia przedsiębiorczości.
+W osiąganiu wielu efektów kształcenia istotną rolę odgrywa kształtowanie umiejętności czytania fragmentów aktów prawnych, takich jak: ustawa z dnia 26 czerwca 1974 r. Kodeks pracy, ustawa z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2018 r. poz. 1025, z późn. zm.) czy ustawa z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. poz. 646, z późn. zm.). Nie jest możliwe, aby uczniowie zapoznawali się na lekcji w całości z tymi aktami prawnymi, dlatego też konieczny jest staranny, celowy dobór niewielkich fragmentów, np. związanych z urlopami przysługującymi pracownikowi czy ramami prawnymi funkcjonowania spółki cywilnej. W realizacji tematów związanych z ochroną konsumentów i klientów usług finansowych należy wykorzystać przykładowe umowy, regulaminy, zapisy ogólnych warunków ubezpieczenia itp. i kształtować umiejętność ich analizy. Uczeń mający za sobą kształcenie w ramach lekcji podstaw przedsiębiorczości powinien być przekonany, że nie zawiera umów i nie kupuje produktów finansowych, których nie rozumie i z których warunkami oferty i realizacji nie zapoznał się dokładnie. Podczas realizacji wymagania odnoszącego się do budżetu państwa również można skorzystać z fragmentu ustawy budżetowej lub jej omówienia przygotowywanego przez Ministerstwo Finansów, dokonując analizy wpływów i wydatków konkretnego budżetu z danego roku.
+Przy realizacji poszczególnych tematów, szczególnie tych dotyczących obowiązków pracownika i pracodawcy, finansów i prowadzenia biznesu, należy zwracać uwagę na kształtowanie postaw uczniów związanych głównie z rozumieniem roli etyki w życiu społeczno-gospodarczym. Uczniowie powinni mieć świadomość, że identyfikacja i przestrzeganie standardów etycznych nie stoi w sprzeczności z osiąganiem sukcesu rynkowego. Ważne jest także formowanie postawy, która pozwala docenić rolę przedsiębiorcy w życiu społeczno-gospodarczym.
+GEOGRAFIA Cele kształcenia wymagania ogólne I. Wiedza geograficzna.
+1. Poznawanie terminologii geograficznej.
+2. Zaznajomienie z różnorodnymi źródłami i metodami pozyskiwania informacji geograficznej.
+3. Poznanie zróżnicowania środowiska geograficznego, głównych zjawisk i procesów geograficznych oraz ich uwarunkowań i konsekwencji.
+4. Poznanie podstawowych relacji między elementami przestrzeni geograficznej (przyrodniczej, społeczno-gospodarczej i kulturowej) w skali lokalnej, regionalnej, krajowej i globalnej.
+5. Rozumienie prawidłowości w zakresie funkcjonowania środowiska geograficznego oraz wzajemnych zależności w systemie człowiek przyroda.
+6. Rozumienie zasad racjonalnego gospodarowania zasobami przyrody i zachowania dziedzictwa kulturowego.
+7. Integrowanie wiedzy przyrodniczej, społecznej, ekonomicznej i humanistycznej.
+II. Umiejętności i stosowanie wiedzy w praktyce.
+1. Korzystanie z planów, map fizyczno-geograficznych i społeczno-gospodarczych, fotografii, zdjęć lotniczych i satelitarnych, rysunków, wykresów, diagramów, danych statystycznych, tekstów źródłowych, technologii informacyjno-komunikacyjnych w celu zdobywania, przetwarzania i prezentowania informacji geograficznych.
+2. Interpretowanie treści różnych map.
+3. Identyfikowanie relacji między poszczególnymi elementami środowiska geograficznego (przyrodniczego, społeczno-gospodarczego i kulturowego).
+4. Ocenianie zjawisk i procesów politycznych, społeczno-kulturowych oraz gospodarczych zachodzących w Polsce i w różnych regionach świata.
+5. Dostrzeganie problemów w środowisku geograficznym i proponowanie ich rozwiązań.
+6. Prognozowanie przemian zachodzących w środowisku przyrodniczym i społeczno-gospodarczym.
+7. Wykorzystywanie zdobytej wiedzy i umiejętności geograficznych w życiu codziennym i zawodowym zgodnie z zasadami zrównoważonego rozwoju.
+III. Kształtowanie postaw.
+1. Rozwijanie zainteresowań geograficznych, budzenie ciekawości świata.
+2. Podejmowanie refleksji nad pięknem i harmonią świata przyrody, krajobrazów przyrodniczych i kulturowych oraz osiągnięciami cywilizacyjnymi ludzkości.
+3. Rozumienie potrzeby racjonalnego gospodarowania w środowisku geograficznym zgodnie z zasadami zrównoważonego rozwoju oraz konieczności rekultywacji i rewitalizacji obszarów zdegradowanych.
+4. Przyjmowanie postawy patriotycznej, wspólnotowej i obywatelskiej.
+5. Kształtowanie więzi emocjonalnych z najbliższym otoczeniem, regionem oraz krajem ojczystym.
+6. Rozwijanie poczucia odpowiedzialności za stan środowiska geograficznego, kształtowanie ładu przestrzennego oraz przyszły rozwój społeczno-kulturowy i gospodarczy własnego regionu, Polski i świata.
+7. Przełamywanie stereotypów i kształtowanie postaw solidarności, szacunku i empatii wobec Polaków oraz przedstawicieli innych narodów i społeczności.
+Treści nauczania wymagania szczegółowe I. Źródła informacji geograficznych oraz metody prezentacji danych przestrzennych: obserwacje, pomiary, mapy, fotografie, zdjęcia satelitarne, dane liczbowe oraz graficzna i kartograficzna ich prezentacja. Uczeń:
+1) przedstawia możliwości wykorzystywania różnych źródeł informacji geograficznej i ocenia ich przydatność;
+2) wyróżnia graficzne i kartograficzne metody przedstawiania informacji geograficznych i podaje przykłady zastosowania różnych rodzajów map;
+3) czyta i interpretuje treści różnych map;
+4) interpretuje dane liczbowe przedstawione w postaci tabel i wykresów.
+II. Ziemia we Wszechświecie: Ziemia jako planeta, następstwa ruchów Ziemi, ciała niebieskie, Układ Słoneczny, budowa Wszechświata. Uczeń:
+1) charakteryzuje Ziemię jako planetę Układu Słonecznego;
+2) podaje cechy ruchów Ziemi i charakteryzuje ich następstwa;
+3) przedstawia i porównuje ciała niebieskie tworzące Układ Słoneczny oraz charakteryzuje budowę Wszechświata;
+4) dostrzega piękno i harmonię Wszechświata oraz Ziemi widzianej z kosmosu.
+III. Atmosfera: czynniki klimatotwórcze, ogólna cyrkulacja atmosferyczna, rozkład temperatury powietrza i opadów atmosferycznych, strefy klimatyczne i typy klimatów.
+Uczeń:
+1) przedstawia czynniki klimatotwórcze decydujące o zróżnicowaniu klimatu na Ziemi;
+2) omawia mechanizm cyrkulacji atmosferycznej;
+3) wyjaśnia nierównomierny rozkład temperatury powietrza i opadów atmosferycznych na Ziemi;
+4) wykazuje zróżnicowanie typów klimatów na Ziemi na podstawie map stref klimatycznych.
+IV. Hydrosfera: zasoby wód na Ziemi, prądy morskie, sieć rzeczna, lodowce. Uczeń:
+1) wyjaśnia zróżnicowanie rodzajów i wielkości zasobów wód na Ziemi;
+2) omawia układ powierzchniowych prądów morskich oraz ocenia ich wpływ na życie i gospodarkę człowieka;
+3) wyjaśnia zróżnicowanie sieci rzecznej na Ziemi;
+4) podaje przykłady miejsc występowania lodowców na świecie i ocenia wpływ współczesnych zmian klimatycznych na ich zasięg.
+V. Litosfera: związek budowy wnętrza Ziemi z tektoniką płyt litosfery, procesy wewnętrzne i zewnętrzne kształtujące powierzchnię Ziemi i ich skutki, skały. Uczeń:
+1) wyjaśnia związek budowy wnętrza Ziemi z ruchem płyt litosfery;
+2) wyjaśnia przebieg głównych procesów wewnętrznych prowadzących do urozmaicenia powierzchni Ziemi (ruchy górotwórcze, wulkanizm, trzęsienia ziemi);
+3) charakteryzuje główne procesy zewnętrzne modelujące powierzchnię Ziemi (erozja, transport, akumulacja) oraz skutki rzeźbotwórczej działalności rzek, wiatru, lodowców, lądolodu i mórz oraz wietrzenia;
+4) rozpoznaje wybrane rodzaje skał oraz przedstawia ich gospodarcze zastosowanie.
+VI. Pedosfera i biosfera: typy gleb, strefowość roślinności. Uczeń:
+1) wyróżnia cechy głównych typów gleb w Polsce oraz ocenia ich przydatność rolniczą;
+2) wyjaśnia zależności między klimatem a występowaniem formacji roślinnych w układzie strefowym na Ziemi.
+VII. Regionalne zróżnicowanie środowiska przyrodniczego Polski: podział na regiony fizyczno-geograficzne, zasoby surowcowe, warunki klimatyczne, sieć wodna, formy ochrony przyrody. Uczeń:
+1) wskazuje na mapie główne regiony fizyczno-geograficzne Polski;
+2) charakteryzuje na podstawie map rozmieszczenie głównych zasobów surowców mineralnych Polski oraz określa ich znaczenie gospodarcze;
+3) charakteryzuje klimat Polski, posługując się mapami elementów klimatu i danymi klimatycznymi;
+4) charakteryzuje sieć wodną Polski;
+5) wyjaśnia przyczyny i skutki niedoboru wody w wybranych regionach Polski;
+6) uzasadnia konieczność działań na rzecz ochrony środowiska przyrodniczego w Polsce oraz przedstawia różne formy ochrony przyrody w Polsce.
+VIII. Podział polityczny i zróżnicowanie poziomu rozwoju społeczno-gospodarczego świata: mapa podziału politycznego, procesy integracyjne na świecie, konflikty zbrojne i terroryzm, podstawowe wskaźniki rozwoju. Uczeń:
+1) posługuje się mapą podziału politycznego świata do analizy procesów społeczno-ekonomicznych;
+2) przedstawia pozytywne i negatywne skutki procesów integracji politycznej i gospodarczej na świecie, ze szczególnym uwzględnieniem Unii Europejskiej;
+3) wskazuje na mapie miejsca ważniejszych konfliktów zbrojnych i podaje przykłady aktów terrorystycznych w wybranych regionach świata w XXI wieku;
+4) analizuje zróżnicowanie przestrzenne państw świata według wskaźników rozwoju PKB na jednego mieszkańca, Wskaźnika Rozwoju Społecznego (HDI), Wskaźnika Ubóstwa Społecznego (HPI).
+IX. Przemiany struktur demograficznych i społecznych oraz procesy osadnicze: rozmieszczenie i liczba ludności, przemiany demograficzne, migracje, zróżnicowanie narodowościowe i etniczne, procesy urbanizacji, rozwój obszarów wiejskich. Uczeń:
+1) wskazuje obszary koncentracji ludności i małej gęstości zaludnienia oraz określa czynniki i prawidłowości w zakresie rozmieszczenia ludności świata;
+2) analizuje i wyjaśnia zmiany liczby ludności świata oraz przestrzenne zróżnicowanie wielkości wskaźników: urodzeń, zgonów i przyrostu naturalnego;
+3) wykazuje znaczenie struktury wieku i wykształcenia ludności w rozwoju gospodarczym państw;
+4) omawia przyczyny procesu starzenia się ludności oraz zróżnicowanie tego procesu na świecie;
+5) charakteryzuje główne kierunki, przyczyny i konsekwencje migracji ludności na świecie;
+6) charakteryzuje strukturę narodowościową ludności świata i Polski, analizuje zróżnicowanie etniczne w wybranych regionach świata oraz uzasadnia potrzebę przeciwdziałania dyskryminacji rasowej, ksenofobii i pokrewnym formom nietolerancji na świecie;
+7) określa główne przyczyny i skutki urbanizacji oraz analizuje zróżnicowanie wskaźnika urbanizacji na świecie i w Polsce;
+8) identyfikuje główne czynniki i skutki rozwoju obszarów wiejskich na świecie i w Polsce oraz wyjaśnia przyczyny depopulacji niektórych wsi.
+X. Uwarunkowania rozwoju gospodarki światowej: rola poszczególnych sektorów gospodarki w rozwoju cywilizacyjnym, procesy globalizacji, gospodarka oparta na wiedzy, społeczeństwo informacyjne. Uczeń:
+1) wyjaśnia przyczyny zmiany roli sektorów gospodarki (rolnictwa, przemysłu i usług) w rozwoju cywilizacyjnym dla wybranych krajów świata, w tym Polski;
+2) charakteryzuje przejawy procesów globalizacji w aspekcie gospodarczym, społecznym i politycznym, dyskutuje na temat skutków tego procesu dla Polski i podaje ich przykłady na podstawie własnych obserwacji;
+3) wnioskuje na podstawie dostarczonych informacji o kierunkach rozwoju gospodarczego Polski;
+4) dyskutuje na temat problemów rynku pracy w Polsce;
+5) charakteryzuje główne cechy gospodarki opartej na wiedzy oraz społeczeństwa informacyjnego;
+6) uzasadnia znaczenie kapitału ludzkiego w rozwoju gospodarczym;
+7) poddaje refleksji problem wpływu konsumpcjonizmu, pracoholizmu i presji gospodarczej związanej z maksymalizacją zysków na zdrowie i życie człowieka oraz jego więzi rodzinne.
+XI. Rolnictwo, leśnictwo i rybactwo: czynniki rozwoju rolnictwa, obszary upraw i chów zwierząt, leśnictwo, rybactwo (morskie i śródlądowe, akwakultura). Uczeń:
+1) wyjaśnia wpływ czynników przyrodniczych i pozaprzyrodniczych na rozwój rolnictwa na świecie;
+2) wyjaśnia zasięg geograficzny głównych upraw i chowu zwierząt na świecie;
+3) wyjaśnia zróżnicowanie przestrzenne wskaźnika lesistości na świecie i w Polsce oraz uzasadnia konieczność racjonalnego gospodarowania zasobami leśnymi;
+4) dyskutuje na temat możliwości wykorzystania zasobów biologicznych morza i wód śródlądowych, rozwoju akwakultury w kontekście zachowania równowagi ekosystemów wodnych.
+XII. Przemysł i budownictwo: czynniki lokalizacji przemysłu, przemysł tradycyjny i zaawansowanych technologii, deindustrializacja i reindustrializacja, struktura produkcji energii, rola budownictwa w gospodarce. Uczeń:
+1) wyjaśnia zmieniającą się rolę czynników lokalizacji przemysłu oraz ich wpływ na rozmieszczenie i rozwój wybranych działów przemysłu;
+2) porównuje cechy przemysłu tradycyjnego i przemysłu zaawansowanych technologii oraz analizuje gospodarcze i społeczne korzyści rozwoju nowoczesnego przemysłu;
+3) analizuje przebieg i konsekwencje procesów deindustrializacji w wybranych państwach świata oraz uzasadnia rolę procesów reindustrializacji na świecie, ze szczególnym uwzględnieniem Europy i Polski;
+4) charakteryzuje zmiany w strukturze zużycia energii, z uwzględnieniem podziału na źródła odnawialne i nieodnawialne, porównuje strukturę produkcji energii w Polsce ze strukturą w innych krajach oraz wyjaśnia wpływ struktury przemysłu i źródeł energii na środowisko przyrodnicze;
+5) przedstawia rolę budownictwa w gospodarce Polski i podaje argumenty przemawiające za koniecznością dostosowania stylu budownictwa do danego krajobrazu.
+XIII. Usługi: zróżnicowanie sektora usług, rola usług komunikacyjnych, edukacyjnych, finansowych i turystycznych w rozwoju społeczno-gospodarczym świata, rodzaje transportu, atrakcyjność regionów turystycznych świata. Uczeń:
+1) charakteryzuje zróżnicowanie sektora usługowego i analizuje jego strukturę w Polsce i innych wybranych krajach świata;
+2) wyjaśnia znaczenie usług komunikacyjnych (transportu i łączności), edukacyjnych, finansowych i turystycznych w rozwoju społeczno-gospodarczym świata;
+3) przedstawia zalety i wady różnych rodzajów transportu oraz charakteryzuje uwarunkowania ich rozwoju w Polsce;
+4) na podstawie zebranych informacji, danych statystycznych i map formułuje wnioski dotyczące atrakcyjności wybranych regionów turystycznych świata.
+XIV. Społeczeństwo i gospodarka Polski: rozmieszczenie ludności i struktura demograficzna, saldo migracji, struktura zatrudnienia i bezrobocie, urbanizacja, warunki rozwoju rolnictwa, restrukturyzacja przemysłu, gospodarka morska, sieć transportowa, atrakcyjność turystyczna.
+Uczeń:
+1) wyjaśnia rozmieszczenie ludności w Polsce;
+2) analizuje strukturę demograficzną ludności Polski na podstawie danych liczbowych i piramidy wieku i płci oraz wyjaśnia zmiany liczby ludności, przyrostu naturalnego i rzeczywistego ludności Polski;
+3) podaje przyczyny migracji wewnętrznych i zewnętrznych, główne kierunki emigracji Polaków oraz przedstawia sytuację migracyjną w swoim regionie;
+4) wyjaśnia zmiany w strukturze zatrudnienia, podaje przyczyny bezrobocia i analizuje przestrzenne zróżnicowanie rynku pracy w Polsce;
+5) omawia procesy urbanizacyjne i zmiany osadnictwa wiejskiego w Polsce, wiążąc je z przemianami społecznymi i gospodarczymi;
+6) analizuje wpływ czynników przyrodniczych i pozaprzyrodniczych na rozwój i rozmieszczenie produkcji rolnej w Polsce;
+7) podaje przyczyny i kierunki przemian strukturalnych w przemyśle Polski po 1989 r.
+oraz ocenia możliwości rozwoju przemysłu zaawansowanych technologii w Polsce;
+8) ocenia stan gospodarki morskiej Polski;
+9) analizuje przyczyny zmian i zróżnicowanie sieci transportu w Polsce;
+10) przedstawia główne walory turystyczne Polski.
+XV. Zróżnicowanie społeczno-kulturowe Polski: regiony etnograficzne, poziom życia, wady i zalety życia na wsi i w mieście, zaangażowanie w działalność społeczną, ubóstwo i wykluczenie społeczne. Uczeń:
+1) przedstawia zróżnicowanie etnograficzne Polski;
+2) porównuje poziom życia ludności (w zakresie stanu środowiska, warunków mieszkaniowych, infrastruktury komunalnej, dostępu do kultury, oświaty i ochrony zdrowia) w wybranych regionach Polski;
+3) dyskutuje na temat zalet i wad życia na wsi i w miastach różnej wielkości oraz w wybranych regionach;
+4) identyfikuje cechy indywidualne wybranych miast w Polsce;
+5) dostrzega wartość partycypacji społecznej w działaniach na rzecz rozwoju lokalnego i regionalnego, w tym poprawy jakości życia;
+6) analizuje dane dotyczące regionalnego zróżnicowania ubóstwa, wykazuje znaczenie solidarności społecznej oraz proponuje działania na rzecz ograniczania biedy i wykluczenia społecznego w Polsce.
+XVI. Uwarunkowania przyrodnicze gospodarczej działalności człowieka na przykładzie wybranych obszarów: związki rolnictwa z klimatem, ukształtowaniem powierzchni, żyznością gleb i zasobami wodnymi, związek przemysłu i struktury towarowej handlu zagranicznego z zasobami surowców mineralnych, wpływ sposobów pokonywania przez człowieka przyrodniczych ograniczeń na zrównoważony rozwój obszarów, zmiany znaczenia środowiska przyrodniczego w rozwoju społeczno-gospodarczym regionów. Uczeń:
+1) wykazuje związki kierunków produkcji rolnej, w tym struktury upraw i chowu zwierząt, z klimatem, ukształtowaniem powierzchni, żyznością gleb i zasobami wodnymi;
+2) wyjaśnia związki między występowaniem surowców mineralnych a kierunkami rozwoju przemysłu i strukturą towarową handlu zagranicznego;
+3) prezentuje przykłady sposobów pokonywania przyrodniczych ograniczeń działalności gospodarczej człowieka i ocenia ich zgodność z zasadami zrównoważonego rozwoju;
+4) przedstawia zmiany znaczenia czynników przyrodniczych w rozwoju społeczno-gospodarczym regionów w przeszłości i współcześnie.
+XVII. Człowiek a środowisko geograficzne konflikty interesów: wpływ działalności człowieka na atmosferę na przykładzie smogu, inwestycji hydrologicznych na środowisko geograficzne, rolnictwa i górnictwa na środowisko przyrodnicze, konflikt interesów człowiek środowisko, działania proekologiczne. Uczeń:
+1) wykazuje na przykładzie wybranych miejscowości wpływ działalności człowieka na powstawanie smogu, podaje przyczyny jego powstawania oraz proponuje sposoby zapobiegania jego występowaniu;
+2) ocenia korzyści i negatywny wpływ wielkich inwestycji hydrologicznych (np.
+Zapory Trzech Przełomów na Jangcy, Wysokiej Tamy na Nilu, zapory na rzece Omo zasilającej Jezioro Turkana) na środowisko geograficzne;
+3) analizuje na przykładach ze świata i z Polski wpływ działalności rolniczej, w tym płodozmianu i monokultury rolnej, chemizacji i mechanizacji rolnictwa, melioracji i nadmiernego wypasu zwierząt, na środowisko przyrodnicze;
+4) wyjaśnia wpływ górnictwa na środowisko przyrodnicze na przykładzie odkrywkowych i głębinowych kopalni w Polsce i na świecie oraz dostrzega konieczność rekultywacji terenów pogórniczych;
+5) analizuje przykłady degradacji krajobrazu kulturowego miast i terenów wiejskich oraz wyjaśnia rolę planowania przestrzennego w jego kształtowaniu i ochronie;
+6) identyfikuje konflikty interesów w relacjach człowiek środowisko oraz podaje przykłady proekologicznych rozwiązań w działalności rolniczej, przemysłowej i usługowej, podejmowanych na wybranych obszarach, w tym cennych przyrodniczo.
+Warunki i sposób realizacji Treści kształcenia (wymagania szczegółowe) zostały podzielone na działy tematyczne oznaczone cyframi rzymskimi od I do XVII i są realizowane w klasach I–III w wymiarze 1 godziny tygodniowo w każdej klasie. Taki rozkład godzin w ramowym planie nauczania determinuje szczegółowy rozkład treści nauczania.
+Realizacja poszczególnych działów tematycznych w danej klasie (w nawiasie została podana orientacyjna liczba godzin, jaką należy przeznaczyć na realizację danego działu): Klasa I: Działy I–VII (łącznie 26 godz.), w tym: dział I 2 godz., dział II 3 godz., dział III 4 godz., dział IV 4 godz., dział V 5 godz., dział VI 2 godz. i dział VII 6 godz.
+Klasa II: Działy VIII–XIII (łącznie 26 godz.), w tym: dział VIII 4 godz., dział IX 7 godz., dział X 3 godz., dział XI 4 godz., dział XII 4 godz. i dział XIII 4 godz.
+Klasa III: Działy XIV–XVII (łącznie 26 godz.), w tym: dział XIV 10 godz., dział XV 6 godz., dział XVI 4 godz. i dział XVII 6 godz.
+Przypisana liczba godzin stanowi 80% ogólnej liczby godzin w danej klasie przeznaczenie pozostałych 20% należy do decyzji nauczyciela.
+W klasie I uczniowie powinni rozszerzyć swoje umiejętności pracy z różnymi źródłami informacji geograficznej oraz doskonalić umiejętności ich interpretacji. Poszerzają także swoją wiedzę ze szkoły podstawowej o pragmatycznym zastosowaniu tych źródeł, jak posługiwanie się mapą topograficzną, zastosowanie map w planowaniu przestrzennym czy interpretowanie danych liczbowych przedstawianych w różnej formie, jak tabele, wykresy, schematy, z którymi spotykają się w życiu codziennym, zwłaszcza w komunikacji społecznej.
+W tej klasie orientacji w szeroko pojętej przestrzeni służy także zapoznanie uczniów z podstawami wiedzy o wszechświecie i Układzie Słonecznym (dział II). Poznaniu geograficznemu służy również usystematyzowana wiedza o poszczególnych sferach przyrodniczych Ziemi (działy III–VI). Uczniowie poznają podstawowe cechy tych sfer i genezę głównych zjawisk oraz procesów, które w nich zachodzą. Treści działu VII, odnoszące się do regionalnego zróżnicowania środowiska przyrodniczego Polski, nawiązują do wiedzy i umiejętności uczniów nabytych w szkole podstawowej. Kluczowym zadaniem kształcenia geograficznego jest poznanie zasobów środowiska przyrodniczego, najważniejszych zależności między elementami środowiska przyrodniczego kraju oraz zwrócenie uwagi na jego stan i potrzebę ochrony.
+Realizowany w klasie II dział VIII dotyczący podziału politycznego i zróżnicowania poziomu rozwoju społeczno-gospodarczego świata powinien koncentrować uwagę uczniów na współczesnych problemach integracyjnych i dezintegracyjnych, ze szczególnym uwzględnieniem współczesnych zagrożeń świata, takich jak: konflikty, terroryzm i nierówności społeczno-gospodarcze. Szczególnie w tym dziale nauczyciel powinien wykorzystywać w pracy na lekcji metodę dyskusji uczniów i kształtować zdolność zajmowania stanowiska wobec trudnych problemów świata oraz kształcić umiejętność uzasadniania prezentowanego stanowiska.
+W klasie II najwięcej czasu zostało przeznaczone na realizację działu odnoszącego się do przemian struktur demograficznych i społecznych oraz procesów urbanizacyjnych na świecie (dział IX). Należy tu wykorzystać umiejętności uczniów w pracy z mapą fizyczno-geograficzną i mapą podziału politycznego oraz innymi mapami tematycznymi w charakteryzowaniu i wyjaśnianiu rozmieszczenia ludności na świecie oraz przestrzennego zróżnicowania ruchu naturalnego ludności. Istotnym elementem kształcenia uczniów w zakresie demografii jest zwrócenie szczególnej uwagi na zachodzące na świecie tendencje zmian demograficznych, takie jak starzenie się demograficzne ludności i zmiany kierunków i natężenia migracji ludności, z uwzględnieniem aspektów wpływu tych procesów na życie społeczne i gospodarcze państw i regionów. Społecznie pożądanym celem edukacyjnym jest przełamywanie stereotypów i kształtowanie postaw solidarności, szacunku i empatii wobec przedstawicieli innych narodów i społeczności, ich kultur i tradycji. Należy wykorzystać dojrzałość młodzieży na tym etapie kształcenia do prowadzenia dyskusji, odwoływania się do wiarygodnych doniesień medialnych o bieżących wydarzeniach społecznych na świecie. Rola nauczyciela jest tu istotna, gdyż z jednej strony powinien ułatwić uczniom orientację w wydarzeniach społecznych, ale także kształcić umiejętność obiektywnych ocen i kształtować otwarte postawy wobec innych narodów i społeczności. Z punktu widzenia przygotowania do wejścia na rynek pracy, istotnym jest przekazanie uczniom wiedzy o uwarunkowaniach rozwoju gospodarki i nowoczesnych trendach jej rozwoju (dział X).
+Uczniowie powinni poznać uwarunkowania rozwoju poszczególnych sektorów gospodarki na świecie i w Polsce oraz rozumieć podstawowe procesy gospodarcze charakteryzujące te sektory gospodarki (działy XI–XIII).
+W klasie III najwięcej czasu zostało przeznaczone na treści dotyczące społeczeństwa i gospodarki Polski (dział XIV). Realizacja treści tego działu powinna odbywać się głównie poprzez analizę i wyjaśnianie zmian demograficznych, osadniczych oraz zjawisk i procesów zachodzących w gospodarce kraju. Uczeń powinien mieć możliwość zrozumienia uwarunkowań rozwoju gospodarczego Polski. Uczniowie powinni też odwoływać się do zdobytej wcześniej wiedzy o zjawiskach społecznych i gospodarczych świata w celu tworzenia wyobrażeń o skali i poziomie rozwoju społeczno-gospodarczego Polski na tle innych krajów świata. Kontynuacją treści odnoszących się do Polski jest dział dotyczący zróżnicowania społeczno-kulturowego kraju ojczystego (dział XV). Realizacja treści tego działu powinna służyć między innymi uwrażliwieniu ucznia na problemy społeczne, związane z istnieniem różnic w poziomie życia, powstawaniem obszarów biedy, wykluczeniem społecznym. Ważne jest przy tym kształtowanie postaw i realizacja celów wychowawczych takich jak: ukazanie znaczenia solidarności społecznej, potrzeby zaangażowania i partycypacji społecznej. W klasie III uczniowie poznają także wzajemne relacje człowiek środowisko (działy XVI i XVII). Dział dotyczący wpływu środowiska przyrodniczego na gospodarczą działalność człowieka na przykładzie wybranych obszarów ukazać powinien zarówno przyrodnicze ograniczenia gospodarczej działalności człowieka, jak i sposoby pokonywania przez człowieka tych ograniczeń zgodnie z zasadami zrównoważonego rozwoju. W dziale XVII należy tworzyć wyobrażenia uczniów o skutkach działalności gospodarczej człowieka w różnych sferach środowiska przyrodniczego, odwołując się do przykładów konkretnych obiektów gospodarczych funkcjonujących na świecie i w Polsce.
+Skutecznym sposobem tworzenia tych wyobrażeń mogą być mentalne łańcuchy przyczynowo-skutkowe ilustrujące relacje człowiek środowisko przyrodnicze. Obok identyfikacji przyczyn i skutków działalności gospodarczej człowieka, istotne jest także poszukiwanie proekologicznych sposobów ich rozwiązywania. Głównym celem realizacji treści działu XVI i XVII jest uświadomienie uczniom, przed podjęciem pracy zawodowej, realnych interakcji zachodzących w środowisku geograficznym.
+BIOLOGIA Cele kształcenia wymagania ogólne I. Pogłębianie wiedzy z zakresu budowy i funkcjonowania organizmu człowieka. Uczeń:
+1) wyjaśnia zjawiska i procesy biologiczne zachodzące w organizmie człowieka;
+2) wykazuje związki między strukturą i funkcją na różnych poziomach złożoności organizmu;
+3) objaśnia funkcjonowanie organizmu człowieka na poszczególnych etapach ontogenezy.
+II. Pogłębianie znajomości uwarunkowań zdrowia człowieka. Uczeń:
+1) planuje działania prozdrowotne;
+2) rozumie znaczenie badań profilaktycznych i rozpoznaje sytuacje wymagające konsultacji lekarskiej;
+3) rozumie znaczenie poradnictwa genetycznego i transplantologii;
+4) dostrzega znaczenie osiągnięć współczesnej nauki w profilaktyce zdrowia;
+5) rozumie zagrożenia wynikające ze stosowania środków dopingujących i psychoaktywnych.
+III. Doskonalenie umiejętności planowania i przeprowadzania obserwacji i doświadczeń oraz wnioskowania w oparciu o wyniki badań. Uczeń:
+1) określa problem badawczy, formułuje hipotezy, planuje i przeprowadza oraz dokumentuje obserwacje i proste doświadczenia biologiczne;
+2) określa warunki doświadczenia, rozróżnia próbę kontrolną i badawczą;
+3) opracowuje, analizuje i interpretuje wyniki badań oraz formułuje wnioski;
+4) przeprowadza celowe obserwacje mikroskopowe i makroskopowe.
+IV. Posługiwanie się informacjami pochodzącymi z analizy materiałów źródłowych. Uczeń:
+1) wykorzystuje różnorodne źródła i metody pozyskiwania informacji;
+2) odczytuje, analizuje, interpretuje i przetwarza informacje tekstowe, graficzne, liczbowe;
+3) odróżnia fakty od opinii;
+4) objaśnia i komentuje informacje, posługując się terminologią biologiczną;
+5) odnosi się krytycznie do informacji pozyskanych z różnych źródeł, w tym internetowych.
+V. Rozumowanie i zastosowanie nabytej wiedzy do rozwiązywania problemów biologicznych. Uczeń:
+1) interpretuje informacje i wyjaśnia związki przyczynowo-skutkowe między procesami i zjawiskami, formułuje wnioski;
+2) przedstawia opinie i argumenty związane z omawianymi zagadnieniami biologicznymi;
+3) wyjaśnia zależności między organizmami oraz między organizmem a środowiskiem;
+4) wykazuje, że różnorodność organizmów jest wynikiem procesów ewolucyjnych.
+VI. Rozwijanie postawy szacunku wobec przyrody i środowiska. Uczeń:
+1) objaśnia zasadność ochrony przyrody;
+2) prezentuje postawę szacunku wobec wszystkich istot żywych oraz odpowiedzialnego i świadomego korzystania z dóbr przyrody;
+3) rozumie zasady zrównoważonego rozwoju.
+Treści nauczania wymagania szczegółowe I. Chemizm życia.
+1. Składniki nieorganiczne. Uczeń:
+1) przedstawia znaczenie biologiczne makroelementów, w tym pierwiastków biogennych;
+2) przedstawia znaczenie biologiczne wybranych mikroelementów (Fe, J, F);
+3) wyjaśnia rolę wody w życiu organizmów w oparciu o jej właściwości fizyczne i chemiczne.
+2. Składniki organiczne. Uczeń:
+1) rozróżnia monosacharydy (glukoza, fruktoza, galaktoza, ryboza, deoksyryboza), disacharydy (sacharoza, laktoza, maltoza), polisacharydy (skrobia, glikogen, celuloza) i określa znaczenie biologiczne węglowodanów; planuje i przeprowadza doświadczenie wykazujące obecność monosacharydów i polisacharydów w materiale biologicznym;
+2) rozróżnia białka proste i złożone; przedstawia wpływ czynników fizycznych i chemicznych na białko (zjawisko koagulacji i denaturacji); określa biologiczne znaczenie białek (kolagen, keratyna, hemoglobina, mioglobina); planuje i przeprowadza doświadczenie wykazujące obecność białek w materiale biologicznym; przeprowadza obserwacje wpływu wybranych czynników fizycznych i chemicznych na białko;
+3) rozróżnia lipidy proste i złożone, przedstawia właściwości lipidów oraz określa ich znaczenie biologiczne; planuje i przeprowadza doświadczenie wykazujące obecność lipidów w materiale biologicznym;
+4) przedstawia strukturę cząsteczek DNA i RNA; określa ich znaczenie biologiczne.
+II. Komórka. Uczeń:
+1) rozpoznaje, pod mikroskopem, na mikrofotografii, rysunku lub na schemacie, elementy budowy komórki eukariotycznej;
+2) przedstawia budowę i funkcje błony biologicznej, rybosomów, mitochondriów i jądra komórkowego;
+3) przedstawia organizację materiału genetycznego w jądrze komórkowym;
+4) określa znaczenie podziałów komórkowych w rozmnażaniu i funkcjonowaniu organizmu człowieka.
+III. Energia i metabolizm. Uczeń:
+1) przedstawia charakterystyczne cechy budowy i rolę enzymów;
+2) przedstawia wpływ czynników fizycznych i chemicznych na aktywność enzymu;
+planuje i przeprowadza doświadczenie badające wpływ temperatury na aktywność wybranych enzymów (katalaza);
+3) wyróżnia substraty i produkty oddychania komórkowego; przedstawia znaczenie oddychania komórkowego w pozyskiwaniu energii użytecznej biologicznie;
+4) wyróżnia substraty i produkty fermentacji mleczanowej oraz określa warunki jej przebiegu.
+IV. Budowa i fizjologia człowieka.
+1. Podstawowe zasady budowy i funkcjonowania organizmu człowieka. Uczeń:
+1) rozpoznaje na preparacie mikroskopowym, na schemacie, mikrofotografii, na podstawie opisu, tkanki zwierzęce i określa ich funkcje;
+2) przedstawia powiązania funkcjonalne między narządami w obrębie układu;
+3) przedstawia powiązania funkcjonalne między układami narządów w obrębie organizmu;
+4) przedstawia procesy warunkujące homeostazę (termoregulacja, osmoregulacja, stałość składu płynów ustrojowych, ciśnienie krwi, rytmy dobowe).
+2. Odżywianie się. Uczeń:
+1) przedstawia rolę nieorganicznych i organicznych składników pokarmowych w odżywianiu, w szczególności białek pełnowartościowych i niepełnowartościowych, NNKT, błonnika, witamin;
+2) przedstawia związek budowy odcinków przewodu pokarmowego z pełnioną przez nie funkcją;
+3) przedstawia rolę wydzielin gruczołów i komórek gruczołowych w obróbce pokarmu;
+4) przedstawia proces trawienia poszczególnych składników pokarmowych w przewodzie pokarmowym człowieka; planuje i przeprowadza doświadczenie sprawdzające warunki trawienia skrobi;
+5) wyjaśnia rolę mikrobiomu układu pokarmowego w funkcjonowaniu organizmu;
+6) przedstawia proces wchłaniania poszczególnych produktów trawienia składników pokarmowych w przewodzie pokarmowym;
+7) przedstawia rolę wątroby w przemianach substancji wchłoniętych w przewodzie pokarmowym;
+8) przedstawia rolę ośrodka głodu i sytości w przyjmowaniu pokarmu;
+9) przedstawia zasady racjonalnego żywienia;
+10) przedstawia zaburzenia odżywiania (anoreksja, bulimia) i przewiduje ich skutki zdrowotne;
+11) podaje przyczyny (w tym uwarunkowania genetyczne) otyłości oraz sposoby jej profilaktyki;
+12) przedstawia znaczenie badań diagnostycznych (gastroskopia, kolonoskopia, USG, próby wątrobowe, badania krwi i kału) w profilaktyce i leczeniu chorób układu pokarmowego, w tym raka żołądka, raka jelita grubego, zespołów złego wchłaniania, choroby Crohna.
+3. Odporność. Uczeń:
+1) rozróżnia odporność wrodzoną (nieswoistą) i nabytą (swoistą); opisuje sposoby nabywania odporności swoistej (czynny i bierny);
+2) przedstawia narządy i komórki układu odpornościowego;
+3) wyjaśnia, na czym polega zgodność tkankowa i przedstawia jej znaczenie w transplantologii;
+4) wyjaśnia istotę konfliktu serologicznego;
+5) analizuje zaburzenia funkcjonowania układu odpornościowego (nadmierna i osłabiona odpowiedź immunologiczna) oraz podaje sytuacje wymagające immunosupresji (przeszczepy, alergie, choroby autoimmunologiczne).
+4. Wymiana gazowa i krążenie. Uczeń:
+1) wykazuje związek między budową i funkcją elementów układu oddechowego człowieka;
+2) wyjaśnia mechanizm wentylacji płuc;
+3) opisuje wymianę gazową w tkankach i płucach; planuje i przeprowadza doświadczenie wykazujące różnice w zawartości dwutlenku węgla w powietrzu wdychanym i wydychanym;
+4) analizuje wpływ czynników zewnętrznych na funkcjonowanie układu oddechowego (tlenek węgla, pyłowe zanieczyszczenie powietrza, dym tytoniowy, smog);
+5) przedstawia znaczenie badań diagnostycznych w profilaktyce chorób układu oddechowego (RTG klatki piersiowej, spirometria, bronchoskopia);
+6) przedstawia rolę krwi w transporcie gazów oddechowych;
+7) wykazuje związek między budową i funkcją naczyń krwionośnych;
+8) przedstawia budowę serca oraz krążenie krwi w obiegu płucnym i ustrojowym;
+9) przedstawia automatyzm pracy serca;
+10) wykazuje związek między stylem życia i chorobami układu krążenia (miażdżyca, zawał mięśnia sercowego, choroba wieńcowa serca, nadciśnienie tętnicze, udar, żylaki); przedstawia znaczenie badań diagnostycznych w profilaktyce chorób układu krążenia (EKG, USG serca, angiokardiografia, badanie Holtera, pomiar ciśnienia tętniczego, badania krwi);
+11) przedstawia funkcje elementów układu limfatycznego i rolę limfy.
+5. Wydalanie i osmoregulacja. Uczeń:
+1) przedstawia związek między budową i funkcją narządów układu moczowego;
+2) przedstawia istotę procesu wydalania oraz wymienia substancje, które są wydalane z organizmu;
+3) przedstawia proces tworzenia moczu oraz wyjaśnia znaczenie regulacji hormonalnej w tym procesie;
+4) analizuje znaczenie badań diagnostycznych w profilaktyce chorób układu moczowego (badania moczu, USG jamy brzusznej, urografia);
+5) przedstawia dializę jako metodę postępowania medycznego przy niewydolności nerek.
+6. Regulacja hormonalna. Uczeń:
+1) podaje lokalizacje gruczołów dokrewnych i wymienia hormony przez nie produkowane;
+2) wyjaśnia mechanizm sprzężenia zwrotnego ujemnego na osi podwzgórze przysadka gruczoł na przykładzie regulacji wydzielania hormonów płciowych;
+3) przedstawia antagonistyczne działanie hormonów na przykładzie regulacji poziomu glukozy we krwi;
+4) wyjaśnia rolę hormonów w reakcji na stres;
+5) przedstawia rolę hormonów w regulacji wzrostu, tempa metabolizmu i rytmu dobowego;
+6) określa skutki niedoczynności i nadczynności gruczołów dokrewnych.
+7. Regulacja nerwowa. Uczeń:
+1) wyjaśnia istotę powstawania i przewodzenia impulsu nerwowego;
+2) przedstawia działanie synapsy chemicznej;
+3) przedstawia drogę impulsu nerwowego w łuku odruchowym;
+4) porównuje rodzaje odruchów i przedstawia rolę odruchów warunkowych w procesie uczenia się;
+5) przedstawia budowę i funkcje mózgu, rdzenia kręgowego i nerwów;
+6) przedstawia rolę autonomicznego układu nerwowego w utrzymaniu homeostazy;
+7) wyróżnia rodzaje receptorów ze względu na rodzaj odbieranego bodźca;
+8) przedstawia budowę oraz działanie oka i ucha; omawia podstawowe zasady higieny wzroku i słuchu;
+9) przedstawia budowę i rolę zmysłu smaku i węchu;
+10) wykazuje biologiczne znaczenie snu;
+11) określa wpływ substancji psychoaktywnych, w tym dopalaczy, na funkcjonowanie organizmu;
+12) przedstawia wybrane choroby układu nerwowego (depresja, choroba Alzheimera, choroba Parkinsona, schizofrenia) oraz znaczenie ich wczesnej diagnostyki dla ograniczenia społecznych skutków tych chorób.
+8. Poruszanie się. Uczeń:
+1) rozpoznaje rodzaje kości ze względu na ich kształt (długie, krótkie, płaskie, różnokształtne);
+2) rozpoznaje (na modelu, schemacie, rysunku) rodzaje połączeń kości i określa ich funkcje;
+3) rozpoznaje (na modelu, schemacie, rysunku) kości szkieletu osiowego, obręczy i kończyn;
+4) opisuje współdziałanie mięśni, ścięgien, stawów i kości w ruchu;
+5) przedstawia budowę mięśnia szkieletowego;
+6) podaje źródła energii niezbędnej do pracy mięśni;
+7) przedstawia antagonizm i współdziałanie mięśni w wykonywaniu ruchów;
+8) wyjaśnia wpływ odżywiania się (w tym suplementacji) i aktywności fizycznej na rozwój oraz stan kości i mięśni człowieka;
+9) przedstawia wpływ substancji stosowanych w dopingu na organizm człowieka.
+9. Skóra i termoregulacja. Uczeń:
+1) wykazuje związek między budową i funkcją skóry;
+2) przedstawia rolę skóry w syntezie prowitaminy D; określa związek między nadmierną ekspozycją na promieniowanie UV a procesem starzenia się skóry oraz zwiększonym ryzykiem wystąpienia chorób i zmian skórnych.
+10. Rozmnażanie i rozwój. Uczeń:
+1) przedstawia budowę i funkcje narządów układu rozrodczego męskiego i żeńskiego;
+2) przedstawia przebieg cyklu menstruacyjnego, z uwzględnieniem działania hormonów przysadkowych i jajnikowych w jego regulacji;
+3) przedstawia rolę syntetycznych hormonów (progesteronu i estrogenów) w regulacji cyklu menstruacyjnego;
+4) przedstawia przebieg ciąży, z uwzględnieniem funkcji łożyska i błon płodowych;
+analizuje wpływ czynników wewnętrznych i zewnętrznych na przebieg ciąży;
+wyjaśnia istotę i znaczenie badań prenatalnych;
+5) przedstawia wybrane choroby układu rozrodczego (rak szyjki macicy, rak jądra, rak jajnika, przerost gruczołu krokowego) oraz znaczenie ich wczesnej diagnostyki;
+6) przedstawia wybrane choroby przenoszone drogą płciową (kiła, rzeżączka, chlamydioza, rzęsistkowica, zakażenia HPV, grzybice narządów płciowych) oraz sposoby ich profilaktyki;
+7) przedstawia etapy ontogenezy, uwzględniając skutki wydłużającego się okresu starości.
+V. Genetyka. Uczeń:
+1) wyjaśnia pojęcie genu;
+2) rozróżnia kod genetyczny od informacji genetycznej; przedstawia cechy kodu genetycznego;
+3) opisuje przebieg ekspresji informacji genetycznej; przedstawia istotę regulacji ekspresji genów;
+4) przedstawia znaczenie badań Mendla w odkryciu podstawowych praw dziedziczenia cech;
+5) zapisuje i analizuje krzyżówki (w tym krzyżówki testowe) oraz określa prawdopodobieństwo wystąpienia określonych genotypów i fenotypów oraz stosunek fenotypowy w pokoleniach potomnych, w tym cech warunkowanych przez allele wielokrotne;
+6) przedstawia dziedziczenie jednogenowe i dwugenowe (dominacja pełna, dominacja niepełna, kodominacja);
+7) przedstawia determinację płci u człowieka oraz dziedziczenie płci i cech sprzężonych z płcią;
+8) analizuje rodowody i na ich podstawie ustala sposób dziedziczenia danej cechy.
+VI. Zmienność i ewolucja organizmów. Uczeń:
+1) opisuje zmienność jako różnorodność fenotypową osobników w populacji;
+2) przedstawia typy zmienności: środowiskowa i genetyczna (rekombinacyjna i mutacyjna);
+3) przedstawia źródła zmienności rekombinacyjnej;
+4) określa przyczyny i skutki mutacji genowych oraz aberracji chromosomowych;
+5) określa, na podstawie analizy rodowodu lub kariotypu, podłoże genetyczne chorób człowieka (albinizm, pląsawica Huntingtona, hemofilia, daltonizm, zespół Klinefeltera, zespół Turnera, zespół Downa);
+6) przedstawia transformację nowotworową komórek jako następstwo uszkodzenia genów;
+7) przedstawia historię myśli ewolucyjnej;
+8) przedstawia podstawowe źródła wiedzy o mechanizmach i przebiegu ewolucji;
+9) wyjaśnia mechanizm działania doboru naturalnego; wykazuje, że dzięki doborowi naturalnemu organizmy zyskują nowe cechy adaptacyjne; wyjaśnia, dlaczego mimo działania doboru naturalnego w populacji ludzkiej utrzymują się allele warunkujące choroby genetyczne;
+10) określa warunki, w jakich zachodzi dryf genetyczny;
+11) przedstawia gatunek jako izolowaną pulę genową;
+12) przedstawia istotę mechanizmów powstawania gatunków;
+13) porządkuje chronologicznie wydarzenia z historii życia na Ziemi; wykazuje, że zmiany warunków środowiskowych miały wpływ na przebieg ewolucji;
+14) porządkuje chronologicznie formy kopalne człowiekowatych, wskazując na ich cechy charakterystyczne;
+15) przedstawia podobieństwa między człowiekiem i innymi naczelnymi;
+16) przedstawia cechy odróżniające człowieka od małp człekokształtnych.
+VII. Biotechnologia. Uczeń:
+1) rozróżnia biotechnologię tradycyjną i molekularną;
+2) przedstawia współczesne zastosowania metod biotechnologii tradycyjnej w przemyśle farmaceutycznym, spożywczym, rolnictwie, biodegradacji i oczyszczaniu ścieków;
+3) wyjaśnia, czym jest organizm transgeniczny i GMO;
+4) przedstawia potencjalne korzyści i zagrożenia wynikające z zastosowania organizmów modyfikowanych genetycznie w rolnictwie, przemyśle, medycynie i badaniach naukowych; podaje przykłady produktów otrzymanych z wykorzystaniem modyfikowanych genetycznie organizmów;
+5) opisuje klonowanie organizmów i przedstawia znaczenie tego procesu;
+6) przedstawia przykłady zastosowania komórek macierzystych w medycynie;
+7) przedstawia sytuacje, w których zasadne jest korzystanie z poradnictwa genetycznego;
+8) wyjaśnia istotę terapii genowej;
+9) przedstawia szanse i zagrożenia wynikające z zastosowań biotechnologii molekularnej;
+10) dyskutuje o problemach społecznych i etycznych związanych z rozwojem biotechnologii molekularnej oraz formułuje własne opinie w tym zakresie.
+VIII. Ekologia. Uczeń:
+1) rozróżnia czynniki biotyczne i abiotyczne oddziałujące na organizmy;
+2) przedstawia elementy niszy ekologicznej organizmu; rozróżnia niszę ekologiczną od siedliska;
+3) wyjaśnia, czym jest tolerancja ekologiczna;
+4) wykazuje znaczenie organizmów o wąskim zakresie tolerancji ekologicznej w bioindykacji; planuje i przeprowadza doświadczenie mające na celu zbadanie zakresu tolerancji ekologicznej w odniesieniu do wybranego czynnika środowiska;
+5) charakteryzuje populację, określając jej cechy (liczebność, zagęszczenie, struktura przestrzenna, wiekowa i płciowa); dokonuje obserwacji cech populacji wybranego gatunku;
+6) wyjaśnia znaczenie zależności nieantagonistycznych (mutualizm obligatoryjny i fakultatywny, komensalizm) w ekosystemie i podaje ich przykłady;
+7) przedstawia skutki konkurencji wewnątrzgatunkowej i międzygatunkowej;
+8) planuje i przeprowadza doświadczenie wykazujące oddziaływania antagonistyczne między osobnikami wybranych gatunków;
+9) przedstawia zmiany liczebności populacji w układzie zjadający i zjadany;
+10) przedstawia adaptacje drapieżników, pasożytów i roślinożerców do zdobywania pokarmu;
+11) przedstawia obronne adaptacje ofiar drapieżników, żywicieli pasożytów oraz zjadanych roślin;
+12) określa zależności pokarmowe w ekosystemie, na podstawie analizy fragmentów sieci pokarmowych; przedstawia zależności pokarmowe w biocenozie w postaci łańcuchów pokarmowych;
+13) przedstawia przepływ energii i obieg materii w ekosystemie;
+14) przedstawia sukcesję jako proces przemiany ekosystemu w czasie skutkujący zmianą składu gatunkowego.
+IX. Różnorodność biologiczna, jej zagrożenia i ochrona. Uczeń:
+1) przedstawia typy różnorodności biologicznej: genetyczną, gatunkową i ekosystemową;
+2) wymienia główne czynniki geograficzne kształtujące różnorodność gatunkową i ekosystemową Ziemi (klimat, ukształtowanie powierzchni); podaje przykłady miejsc charakteryzujących się szczególnym bogactwem gatunkowym;
+3) wyjaśnia związek między rozmieszczeniem biomów a warunkami klimatycznymi na kuli ziemskiej;
+4) wykazuje wpływ działalności człowieka na różnorodność biologiczną;
+5) wyjaśnia znaczenie restytucji i reintrodukcji gatunków dla zachowania różnorodności biologicznej; podaje przykłady restytuowanych gatunków;
+6) uzasadnia konieczność zachowania tradycyjnych odmian roślin i tradycyjnych ras zwierząt dla zachowania różnorodności genetycznej;
+7) uzasadnia konieczność stosowania różnych form ochrony przyrody, w tym Natura 2000;
+8) uzasadnia konieczność współpracy międzynarodowej: CITES, Konwencja z dnia 25 października 1993 r. o Różnorodności Biologicznej (Dz. Urz. UE L 309, str. 3), Agenda 21, dla ochrony różnorodności biologicznej;
+9) przedstawia istotę zrównoważonego rozwoju.
+Warunki i sposób realizacji Nauczanie biologii w branżowej szkole I stopnia służy w szczególności pogłębieniu wiedzy dotyczącej organizmu człowieka, aby uczeń kończący edukację biologiczną był świadomy budowy i funkcji swojego organizmu. Ważna jest edukacja prozdrowotna, aby przygotować ucznia do podejmowania działań na rzecz ochrony zdrowia, zwłaszcza w odniesieniu do chorób cywilizacyjnych. Należy także zwrócić uwagę na fakt znacznego wydłużania się czasu życia człowieka. Uczeń powinien uzyskać przygotowanie do w pełni świadomego funkcjonowania w społeczeństwie oraz posiąść wiedzę pozwalającą na zrozumienie zjawisk zachodzących w środowisku życia człowieka, ze szczególnym uwzględnieniem potrzeby ochrony środowisk naturalnych.
+Należy także rozwijać kompetencje krytycznego myślenia, zwłaszcza w kontekście szans i zagrożeń związanych z zastosowaniem biotechnologii molekularnej, dlatego należy stworzyć warunki do dyskusji na ten temat.
+Uczeń kończący branżową szkołę I stopnia powinien odróżniać wiedzę potoczną od tej, potwierdzonej metodami naukowymi; powinien odróżniać fakty od opinii, umiejętnie korzystać z dóbr osiągnięć współczesnych technologii, a przede wszystkim świadomie korzystać ze źródeł internetowych.
+W nauczaniu treści z zakresu ekologii oraz różnorodności biologicznej, jej zagrożeń i ochrony należy brać pod uwagę uniwersalne i najważniejsze zasady funkcjonowania ekosystemów, uwzględniając współczesne problemy z zakresu ochrony różnorodności biologicznej w aspekcie zrównoważonego rozwoju. Istotnym elementem edukacji przyrodniczej jest zilustrowanie praw ekologii i problemów ochrony różnorodności biologicznej obserwacjami prowadzonymi w terenie. Dobierając tematykę zajęć terenowych (np. w lasach, parkach narodowych, obszarach Natura 2000), należy zwrócić uwagę na poznane gatunki rodzime, a także na proces sukcesji, jako istotę występowania oraz ustępowania gatunku z przestrzeni przyrodniczej.
+Należy rozwijać u uczniów umiejętność planowania i przeprowadzania doświadczeń i obserwacji oraz wnioskowania na ich podstawie. Ważne jest, aby doświadczenia i obserwacje były możliwe do wykonania w pracowni szkolnej lub w warunkach domowych, aby nie wymagały skomplikowanych urządzeń́ i drogich materiałów. Podczas planowania i przeprowadzania doświadczeń́ oraz obserwacji należy stworzyć́ warunki umożliwiające uczniom zadawanie pytań i konstruowanie odpowiedzi na zadane pytania.
+Zajęcia z biologii powinny być prowadzone we właściwie wyposażonej pracowni. Ważnym elementem jej wyposażenia powinien być projektor multimedialny, tablica interaktywna oraz komputer z zestawem głośników i z dostępem do internetu, a także odpowiednie umeblowanie, w którym będzie można gromadzić́ sprzęt laboratoryjny oraz pomoce dydaktyczne. Istotne jest, aby w pracowni znajdował się̨ sprzęt niezbędny do przeprowadzania wskazanych w podstawie doświadczeń́ i obserwacji, tj. przyrządy pomiarowe, przyrządy optyczne, szkło laboratoryjne, szkiełka mikroskopowe, odczynniki chemiczne, środki czystości, środki ochrony (fartuchy i rękawice ochronne, apteczka). Ważne jest także wykorzystywanie podczas zajęć różnorodnych materiałów źródłowych tj. zdjęć, filmów, plansz poglądowych, tekstów popularnonaukowych, danych, będących wynikiem badań naukowych, prezentacji multimedialnych, animacji, zasobów cyfrowych dostępnych lokalnie oraz w sieci.
+CHEMIA Cele kształcenia wymagania ogólne I. Pozyskiwanie, przetwarzanie i tworzenie informacji. Uczeń:
+1) pozyskuje i przetwarza informacje z różnorodnych źródeł z wykorzystaniem technologii informacyjno-komunikacyjnych;
+2) odczytuje i interpretuje dane przedstawione za pomocą wykresów, tabel i schematów;
+3) konstruuje wykresy, tabele i schematy na podstawie dostępnych informacji;
+4) ocenia wiarygodność uzyskanych danych.
+II. Rozumowanie i zastosowanie nabytej wiedzy do rozwiązywania problemów. Uczeń:
+1) opisuje właściwości substancji i wyjaśnia przebieg prostych procesów chemicznych;
+2) wskazuje na związek właściwości różnorodnych substancji z ich zastosowaniami i ich wpływem na środowisko naturalne;
+3) respektuje podstawowe zasady ochrony środowiska;
+4) wykorzystuje wiedzę i dostępne informacje do rozwiązywania problemów chemicznych;
+5) stosuje poprawną terminologię chemiczną;
+6) wykonuje proste obliczenia dotyczące praw chemicznych.
+III. Opanowanie czynności praktycznych. Uczeń:
+1) bezpiecznie posługuje się sprzętem laboratoryjnym i odczynnikami chemicznymi;
+2) projektuje i przeprowadza doświadczenia chemiczne; rejestruje ich wyniki w różnej formie, formułuje obserwacje, wnioski oraz wyjaśnienia;
+3) stawia hipotezy oraz proponuje sposoby ich weryfikacji;
+4) przestrzega zasad bezpieczeństwa i higieny pracy.
+Treści nauczania wymagania szczegółowe I. Metale i niemetale. Uczeń:
+1) opisuje budowę układu okresowego, wskazuje położenie (numer grupy i okresu) w układzie okresowym metali i niemetali; podaje liczbę atomową oraz masę atomową pierwiastka;
+2) opisuje i przewiduje wpływ rodzaju wiązania na właściwości fizyczne substancji;
+3) określa właściwości fizyczne metali (np. barwę, gęstość, temperaturę topnienia, przewodnictwo cieplne i elektryczne), wyjaśnia je na podstawie znajomości natury wiązania metalicznego oraz wymienia zastosowania wybranych metali (np. miedzi, cynku, żelaza);
+4) opisuje właściwości fizyczne i chemiczne glinu; wyjaśnia, na czym polega pasywacja glinu i tłumaczy znaczenie tego zjawiska w zastosowaniu glinu w technice;
+5) rozróżnia stopy metali, np. mosiądz, brąz, duraluminium, stal, żeliwo, stopy cyny (odlewniczy, lutowniczy); opisuje ich właściwości i zastosowania;
+6) stosuje pojęcia: utleniacz, reduktor, utlenianie, redukcja; półogniwo, anoda, katoda, ogniwo galwaniczne, pisze i rysuje schemat ogniwa odwracalnego;
+7) wyjaśnia przebieg korozji elektrochemicznej stali i żeliwa; wskazuje sposoby zapobiegania korozji;
+8) wskazuje zastosowania współczesnych źródeł prądu stałego (np. akumulator, bateria, ogniwo paliwowe);
+9) określa właściwości fizyczne (np. stan skupienia, barwa, gęstość, rozpuszczalność w wodzie) oraz zastosowania wybranych niemetali (np. wodoru, tlenu, azotu, chloru, jodu, gazów szlachetnych);
+10) wyjaśnia pojęcie alotropii pierwiastków; opisuje właściwości fizyczne i zastosowania odmian alotropowych węgla i węgla.
+II. Związki nieorganiczne i ich znaczenie. Uczeń:
+1) na podstawie wzoru sumarycznego, opisu budowy lub właściwości fizykochemicznych klasyfikuje dany związek chemiczny do tlenków, wodorków, wodorotlenków, kwasów, soli;
+2) na podstawie wzoru sumarycznego związku nieorganicznego pisze jego nazwę, na podstawie nazwy pisze jego wzór sumaryczny;
+3) wnioskuje o charakterze chemicznym tlenku na podstawie wyników doświadczenia;
+4) opisuje właściwości fizyczne i chemiczne wybranych tlenków (np. CaO, MgO, N O, SO , SO , CO, CO ,) oraz ich zastosowania;
+5) określa wybrane właściwości fizyczne i chemiczne oraz zastosowania wybranych wodorków (np. HCl, H S, NH );
+6) przedstawia wybrane właściwości fizyczne i chemiczne wodorotlenków (np. NaOH, KOH, Mg(OH) , Ca(OH) ) oraz ich zastosowania; na podstawie tabeli rozpuszczalności wskazuje, które wodorotlenki są rozpuszczalne w wodzie;
+7) przedstawia wybrane właściwości fizyczne i chemiczne kwasu: chlorowodorowego, siarkowego(VI), azotowego(V), fosforowego(V); wymienia zastosowania tych kwasów;
+8) opisuje właściwości fizyczne wybranych soli (np. Na SO , MgSO , NaCl, NaNO ) oraz ich zastosowania; na podstawie tabeli rozpuszczalności wskazuje na sole, które są trudno rozpuszczalne w wodzie;
+9) przygotowuje roztwór nasycony w określonej temperaturze na podstawie danych uzyskanych z wykresu lub tabeli rozpuszczalności;
+10) przygotowuje roztwór o określonym stężeniu procentowym.
+III. Materiały pochodzenia mineralnego. Uczeń:
+1) bada i opisuje właściwości SiO ; wymienia odmiany SiO występujące w przyrodzie i wskazuje ich zastosowania;
+2) opisuje proces produkcji szkła; jego rodzaje, właściwości i zastosowania;
+3) wymienia rodzaje skał wapiennych (wapień, marmur, kreda), opisuje ich właściwości i zastosowania; projektuje wykrycie skał wapiennych wśród innych skał i minerałów;
+4) wymienia zastosowania skał gipsowych; wyjaśnia proces twardnienia zaprawy gipsowej.
+IV. Chemia gleby. Uczeń:
+1) klasyfikuje związki chemiczne na elektrolity i nieelektrolity na podstawie wyników doświadczeń;
+2) bada pH wodnych roztworów związków chemicznych za pomocą wskaźników lub pehametru;
+3) uzasadnia przyczynę kwasowego odczynu kwasów, zasadowego odczynu wodnych roztworów niektórych wodorotlenków (zasad) i amoniaku;
+4) projektuje i przeprowadza badanie kwasowości gleby; opisuje wpływ pH gleby na wzrost wybranych roślin;
+5) tłumaczy, na czym polegają sorpcyjne właściwości gleby; planuje i przeprowadza badanie właściwości sorpcyjnych gleby; opisuje znaczenie tego zjawiska;
+6) podaje przykłady nawozów naturalnych i sztucznych, uzasadnia potrzebę ich stosowania;
+7) wymienia źródła chemicznego zanieczyszczenia gleb oraz podstawowe rodzaje zanieczyszczeń;
+8) tłumaczy konieczność eliminowania fosforanów(V) ze składu proszków do prania (proces eutrofizacji);
+9) wymienia podstawowe rodzaje zanieczyszczeń powietrza, wody oraz ich źródła;
+10) opisuje sposoby pozyskiwania wody pitnej;
+11) proponuje sposoby ochrony środowiska naturalnego przed zanieczyszczeniem i degradacją.
+V. Paliwa obecnie i w przyszłości. Uczeń:
+1) podaje nazwy systematyczne węglowodorów (alkanów, alkenów i alkinów do 8 atomów węgla w cząsteczce) na podstawie wzorów strukturalnych lub półstrukturalnych (grupowych); rysuje wzory strukturalne, półstrukturalne (grupowe) węglowodorów na podstawie ich nazw;
+2) określa tendencje zmian właściwości fizycznych (np. temperatura topnienia, temperatura wrzenia, rozpuszczalność w wodzie) w szeregach homologicznych węglowodorów; porównuje właściwości chemiczne węglowodorów należących do różnych szeregów homologicznych (np. reakcja spalania, substytucji, addycji, polimeryzacji);
+3) przedstawia na wybranych przykładach właściwości fizyczne węglowodorów oraz ich zastosowania;
+4) przedstawia na wybranych przykładach reakcje spalania węglowodorów oraz wskazuje na zagrożenia związane z gazami powstającymi w wyniku ich spalania;
+5) podaje przykłady procesów egzoenergetycznych i endoenergetycznych; wskazuje znaczenie wybranych procesów egzoenergetycznych jako sposobów pozyskiwania energii;
+6) wskazuje przykłady surowców mineralnych wykorzystywanych do uzyskiwania energii;
+7) opisuje przebieg destylacji ropy naftowej i pirolizy węgla kamiennego; wymienia nazwy produktów tych procesów i ich zastosowania;
+8) wyjaśnia pojęcie liczby oktanowej (LO) i podaje sposoby zwiększania LO benzyny;
+tłumaczy, na czym polega kraking oraz reforming, i uzasadnia konieczność prowadzenia tych procesów w przemyśle;
+9) proponuje alternatywne źródła energii analizuje możliwości ich zastosowań (np. biopaliwa, wodór, energia słoneczna, wodna, jądrowa, geotermalna);
+10) analizuje wpływ różnorodnych sposobów uzyskiwania energii na stan środowiska przyrodniczego.
+VI. Chemia środków czystości. Uczeń:
+1) rozróżnia układy homogeniczne i heterogeniczne; wymienia różnice we właściwościach roztworów właściwych, koloidów i zawiesin;
+2) opisuje sposoby rozdzielenia roztworów właściwych (ciał stałych w cieczach, cieczy w cieczach) na składniki;
+3) projektuje i przeprowadza doświadczenie pozwalające rozdzielić mieszaninę niejednorodną (ciał stałych w cieczach) na składniki;
+4) opisuje sposób tworzenia się emulsji, ich zastosowania; analizuje skład kosmetyków (na podstawie etykiety np. kremu, balsamu, pasty do zębów) i wyszukuje w dostępnych źródłach informacje na temat ich działania;
+5) przedstawia budowę tłuszczów stałych i ciekłych (jako estrów glicerolu i długołańcuchowych kwasów tłuszczowych) oraz ich właściwości i zastosowania;
+6) wyjaśnia, w jaki sposób z glicerydów otrzymuje się kwasy tłuszczowe lub mydła;
+7) porównuje rozpuszczalność substancji w rozpuszczalnikach polarnych (np. woda) i niepolarnych (np. benzyna); wskazuje cząsteczki i fragmenty cząsteczek, które są polarne, oraz te, które są niepolarne;
+8) wyjaśnia na czym polega proces usuwania brudu i bada wpływ twardości wody na powstawanie związków trudno rozpuszczalnych;
+9) wskazuje na charakter chemiczny składników środków do mycia szkła, przetykania rur, czyszczenia metali i biżuterii w aspekcie zastosowań tych produktów; stosuje te środki, z uwzględnieniem zasad bezpieczeństwa; wyjaśnia, na czym polega proces usuwania zanieczyszczeń za pomocą tych środków.
+VII. Chemia wspomaga nasze zdrowie. Chemia w kuchni. Uczeń:
+1) na podstawie wzoru sumarycznego, półstrukturalnego (grupowego), opisu budowy lub właściwości fizykochemicznych klasyfikuje dany związek chemiczny do węglowodorów, związków jednofunkcyjnych (fluorowcopochodnych, alkoholi, aldehydów, kwasów karboksylowych, estrów), związków wielofunkcyjnych (aminokwasów, peptydów, białek, cukrów);
+2) porównuje na wybranych przykładach właściwości fizyczne (np. stan skupienia, zapach, temperaturę wrzenia, rozpuszczalność w wodzie) jednofunkcyjnych pochodnych węglowodorów oraz ich zastosowania;
+3) opisuje na wybranych przykładach właściwości fizyczne wielofunkcyjnych pochodnych węglowodorów oraz ich zastosowania;
+4) tłumaczy, na czym mogą polegać i od czego zależeć lecznicze i toksyczne właściwości substancji chemicznych (dawka, rozpuszczalność w wodzie, rozdrobnienie, sposób przenikania do organizmu), np. leków, nikotyny, etanolu;
+5) wyszukuje informacje na temat działania składników popularnych leków (np. węgla aktywowanego, aspiryny, środków neutralizujących nadmiar kwasów w żołądku);
+6) wyszukuje informacje na temat składników napojów dnia codziennego (np. kawa, herbata, mleko, woda mineralna, napoje typu cola) w aspekcie ich działania na organizm ludzki;
+7) opisuje procesy zachodzące podczas wyrabiania ciasta i pieczenia chleba, produkcji wina, otrzymywania kwaśnego mleka, jogurtów, serów;
+8) przedstawia przebieg procesu utwardzania tłuszczów ciekłych;
+9) wyjaśnia przyczyny psucia się żywności i proponuje sposoby zapobiegania temu procesowi; przedstawia znaczenie i konsekwencje stosowania dodatków do żywności w tym konserwantów.
+VIII. Chemia opakowań i odzieży. Uczeń:
+1) porównuje procesy polimeryzacji i polikondensacji; klasyfikuje tworzywa sztuczne w zależności od ich właściwości (termoplasty i duroplasty); określa ich zastosowania oraz wskazuje na zagrożenia związane z gazami powstającymi w wyniku spalania np. PVC;
+2) klasyfikuje włókna na naturalne (białkowe i celulozowe), sztuczne i syntetyczne, wskazuje ich zastosowania; opisuje wady i zalety; uzasadnia potrzebę stosowania tych włókien;
+3) projektuje doświadczenie pozwalające zidentyfikować włókna białkowe i celulozowe, sztuczne i syntetyczne;
+4) podaje przykłady opakowań (celulozowych, szklanych, metalowych, z tworzyw sztucznych) stosowanych w życiu codziennym; opisuje ich wady i zalety;
+5) uzasadnia potrzebę zagospodarowania odpadów pochodzących z różnych opakowań.
+Warunki i sposób realizacji Podstawa programowa chemii ma układ spiralny, a zagadnienia wprowadzone w szkole podstawowej są na tym etapie rozwijane i uzupełniane o nowe treści. Podczas realizacji podstawy programowej powinno się rozwijać szczególnie te umiejętności, które są zgodne ze specyfiką danej branżowej szkoły I stopnia i stanowią podbudowę do kształcenia zawodowego. Pozostawia się nauczycielowi możliwość realizacji wymagań szczegółowych podstawy programowej w dowolnej kolejności, tak aby zapewnić najlepszą korelację z przedmiotami zawodowymi.
+Dobór wiadomości i umiejętności wskazuje na konieczność łączenia wiedzy teoretycznej, zawodowej z doświadczalną. Treści nauczania opracowano tak, aby uczniowie mogli sami obserwować i badać właściwości substancji i zjawiska oraz przeprowadzać doświadczenia chemiczne, interpretować ich wyniki i formułować uogólnienia. Istotne jest również samodzielne wykorzystywanie i przetwarzanie informacji oraz kształtowanie nawyków ich krytycznej oceny.
+Istotną funkcję w nauczaniu chemii jako przedmiotu przyrodniczego pełni eksperyment chemiczny. Umożliwia on rozwijanie aktywności uczniów i kształtowanie samodzielności w działaniu. Dzięki samodzielnemu wykonywaniu doświadczeń lub ich aktywnej obserwacji, uczniowie poznają metody badawcze oraz sposoby opisu i prezentacji wyników.
+Aby edukacja w zakresie chemii była możliwie najbardziej skuteczna, należy zajęcia prowadzić w niezbyt licznych grupach (podział na grupy) w salach wyposażonych w niezbędne sprzęty i odczynniki chemiczne. Nauczyciele mogą w doświadczeniach wykorzystywać substancje znane uczniom z życia codziennego (np. naturalne wskaźniki kwasowo-zasadowe, ocet, mąkę, cukier) oraz z przedmiotów zawodowych, pokazując w ten sposób obecność chemii w ich otoczeniu.
+Zakres treści nauczania stwarza możliwości pracy metodą projektu edukacyjnego (szczególnie o charakterze badawczym związanym ściśle z profilem zawodowym danej szkoły), metodą eksperymentu chemicznego lub innymi metodami pobudzającymi aktywność poznawczą uczniów, co pozwoli im na pozyskiwanie i przetwarzanie informacji na różne sposoby i z różnych źródeł. Obserwowanie, wyciąganie wniosków, stawianie hipotez i ich weryfikacja mogą nauczyć uczniów krytycznego myślenia i łączenia wiedzy teoretycznej z praktyką zawodową. Może to pomóc w kształtowaniu właściwej postawy przyszłego pracownika, umiejącego weryfikować poprawność pozyskiwanych nowych informacji.
+W pozyskiwaniu niezbędnych informacji, wykonywaniu obliczeń, interpretowaniu wyników, bardzo pomocnym narzędziem może okazać się komputer z celowo dobranym oprogramowaniem oraz dostępnymi w internecie zasobami cyfrowymi.
+Minimalny zestaw doświadczeń do wykonania samodzielnie przez uczniów lub w formie pokazu nauczycielskiego:
+1) badanie właściwości fizycznych substancji tworzących kryształy jonowe, kowalencyjne, molekularne i metaliczne;
+2) badanie wpływu różnych czynników: stężenia albo ciśnienia substratów, temperatury, obecności katalizatora i stopnia rozdrobnienia substratów, na szybkość reakcji;
+3) badanie efektu energetycznego reakcji chemicznej;
+4) sporządzanie roztworów o określonym stężeniu procentowym;
+5) rozdzielanie mieszaniny niejednorodnej i jednorodnej na składniki;
+6) badanie odczynu oraz pH wodnych roztworów: kwasów, wodorotlenków i soli, gleby i środków spożywczych i myjąco-czyszczących;
+7) badanie charakteru chemicznego wybranych tlenków, wodorotlenków, kwasów i soli;
+8) otrzymywanie kwasów, wodorotlenków i soli różnymi metodami;
+9) badanie aktywności chemicznej metali;
+10) badanie właściwości metali (reakcje z tlenem, wodą, kwasami);
+11) budowa i pomiar napięcia ogniwa galwanicznego;
+12) obserwowanie korozji metali, badanie czynników wpływających na proces korozji;
+13) odróżnianie skał wapiennych od innych skał i minerałów;
+14) badanie reaktywności węglowodorów nasyconych i nienasyconych ze zwróceniem uwagi na różnice w ich właściwościach, np. spalanie, zachowanie wobec chlorowca, wodnego roztworu manganianu(VII) potasu;
+15) badanie właściwości fizycznych i chemicznych wybranych pochodnych węglowodorów;
+16) porównywanie mocy kwasów karboksylowych i nieorganicznych;
+17) otrzymywanie mydeł;
+18) identyfikacja tworzyw sztucznych; badanie i rozróżnianie włókien roślinnych, zwierzęcych i włókien chemicznych.
+FIZYKA Cele kształcenia wymagania ogólne I. Wykorzystanie pojęć i wielkości fizycznych do opisu zjawisk oraz wskazywanie ich przykładów w otaczającej rzeczywistości.
+II. Rozwiązywanie problemów z wykorzystaniem praw i zależności fizycznych.
+III. Planowanie i przeprowadzanie obserwacji i doświadczeń oraz wnioskowanie na podstawie ich wyników.
+IV. Posługiwanie się informacjami pochodzącymi z analizy materiałów źródłowych, w tym tekstów popularnonaukowych.
+Treści nauczania wymagania szczegółowe I. Wymagania przekrojowe. Uczeń:
+1) wyodrębnia z tekstów, tabel, diagramów lub wykresów, rysunków schematycznych lub blokowych informacje kluczowe dla opisywanego zjawiska bądź problemu;
+przedstawia te informacje w różnych postaciach;
+2) wyodrębnia zjawisko z kontekstu, nazywa je oraz wskazuje czynniki istotne i nieistotne dla jego przebiegu;
+3) przeprowadza wybrane obserwacje, pomiary i doświadczenia, korzystając z ich opisów;
+4) opisuje przebieg doświadczenia lub pokazu; wyróżnia kluczowe kroki i sposób postępowania oraz wskazuje rolę użytych przyrządów;
+5) ilustruje prawa i zależności fizyczne z wykorzystaniem modelu fizycznego;
+6) rozróżnia wielkości wektorowe i skalarne;
+7) wyznacza średnią z kilku pomiarów jako końcowy wynik pomiaru powtarzalnego;
+8) posługuje się pojęciem niepewności pomiarowej; zapisuje wynik pomiaru wraz z jego jednostką oraz z uwzględnieniem informacji o niepewności;
+9) przeprowadza obliczenia i zapisuje wynik zgodnie z zasadami zaokrąglania oraz zachowaniem liczby cyfr znaczących wynikającej z dokładności pomiaru lub z danych;
+10) prowadzi obliczenia szacunkowe i poddaje analizie otrzymany wynik;
+11) rozpoznaje zależność rosnącą bądź malejącą na podstawie danych z tabeli lub na podstawie wykresu; rozpoznaje proporcjonalność prostą na podstawie wykresu;
+12) przestrzega zasad bezpieczeństwa podczas wykonywania obserwacji, pomiarów i doświadczeń;
+13) przedstawia własnymi słowami główne tezy tekstu popularnonaukowego z dziedziny fizyki, biofizyki lub astronomii.
+II. Mechanika i grawitacja. Uczeń:
+1) rozróżnia ruchy postępowe i obrotowe;
+2) posługuje się pojęciami położenie, tor i droga;
+3) opisuje ruchy prostoliniowe jednostajne i zmienne; analizuje ruchy jednostajnie zmienne: przyspieszony oraz opóźniony;
+4) stosuje zasady dynamiki do opisu zachowania się ciał;
+5) opisuje ruch jednostajny po okręgu, posługując się pojęciami okresu, częstotliwości i prędkości wraz z ich jednostkami;
+6) analizuje jakościowo przykłady ruchu jednostajnego po okręgu, posługując się pojęciem siły dośrodkowej;
+7) rozróżnia opory ruchu (opory ośrodka i tarcie) oraz opisuje jakościowo ich wpływ na ruch ciał;
+8) posługuje się pojęciem siły bezwładności, opisując przykłady jej występowania;
+9) wyjaśnia zasadę działania dźwigni jednostronnej i dwustronnej i stosuje ją do obliczeń;
+10) posługuje się pojęciami pracy mechanicznej, mocy, energii kinetycznej wraz z ich jednostkami;
+11) omawia prawo powszechnego ciążenia;
+12) wskazuje siłę grawitacji jako przyczynę spadania ciał;
+13) oblicza pracę mechaniczną przy zmianie wysokości w pobliżu powierzchni Ziemi;
+posługuje się pojęciem energii potencjalnej grawitacji;
+14) wyjaśnia wpływ siły grawitacji Słońca na ruch planet i siły grawitacji planet na ruch ich księżyców;
+15) opisuje stan nieważkości oraz wskazuje przykłady jego występowania;
+16) opisuje budowę Układu Słonecznego i jego miejsce w Galaktyce;
+17) opisuje Wielki Wybuch jako początek znanego nam Wszechświata; zna przybliżony wiek Wszechświata, opisuje rozszerzanie się Wszechświata (ucieczkę galaktyk);
+18) doświadczalnie:
+a) demonstruje działanie siły bezwładności,
+b) bada warunki równowagi dźwigni jednostronnej i dwustronnej.
+III. Elektryczność i magnetyzm. Uczeń:
+1) posługuje się pojęciami natężenia prądu elektrycznego i napięcia elektrycznego;
+2) opisuje zasadę dodawania napięć w układzie ogniw połączonych szeregowo;
+3) stosuje do obliczeń proporcjonalność natężenia prądu do napięcia (prawo Ohma) dla przewodników;
+4) opisuje sieć domową jako przykład obwodu rozgałęzionego; posługuje się I prawem Kirchhoffa;
+5) wskazuje funkcję bezpieczników i przewodu uziemiającego w sieci domowej;
+6) posługuje się pojęciem pola magnetycznego; rysuje linie pola magnetycznego w pobliżu magnesów stałych i przewodników z prądem;
+7) opisuje jakościowo oddziaływanie pola magnetycznego na przewodniki z prądem;
+8) opisuje zjawisko indukcji elektromagnetycznej;
+9) opisuje cechy prądu przemiennego;
+10) opisuje zastosowanie transformatorów;
+11) doświadczalnie:
+a) ilustruje I prawo Kirchhoffa,
+b) bada zjawisko indukcji elektromagnetycznej w przypadku względnego ruchu magnesu i zwojnicy lub zmiany natężenia prądu w elektromagnesie.
+IV. Ciepło. Uczeń:
+1) odróżnia przekaz energii w formie pracy mechanicznej od przekazu energii w postaci ciepła między układami o różnych temperaturach;
+2) stosuje zasadę zachowania energii do opisu zjawisk cieplnych i mechanicznych;
+3) analizuje przepływ ciepła i wykonywaną pracę w silnikach cieplnych i chłodziarkach;
+4) posługuje się pojęciem wartości energetycznej paliw i żywności;
+5) doświadczalnie: demonstruje rozszerzalność cieplną gazów.
+V. Fale. Uczeń:
+1) opisuje rozchodzenie się fal na podstawie obrazu powierzchni falowych, posługując się przykładami fal na wodzie i dźwięku w powietrzu;
+2) opisuje jakościowo dyfrakcję fali na przeszkodzie;
+3) opisuje jakościowo efekt Dopplera;
+4) ilustruje prostoliniowe rozchodzenie się światła w ośrodku jednorodnym;
+5) opisuje jakościowo zjawisko jednoczesnego odbicia i załamania światła na granicy dwóch ośrodków;
+6) opisuje jakościowo zjawisko całkowitego wewnętrznego odbicia (światłowody);
+7) opisuje widmo światła białego jako mieszaniny fal o różnych częstotliwościach;
+8) analizuje na wybranych przykładach zjawiska optyczne w przyrodzie;
+9) doświadczalnie:
+a) demonstruje zjawisko ugięcia fali na przeszkodzie lub szczelinie,
+b) bada zjawisko całkowitego wewnętrznego odbicia,
+c) demonstruje jednoczesne odbicie i załamania światła na granicy dwóch ośrodków.
+VI. Atom i jego jądro. Uczeń:
+1) analizuje na wybranych przykładach promieniowanie termiczne ciał i jego zależność od temperatury;
+2) opisuje pochodzenie widm emisyjnych rozrzedzonych gazów;
+3) opisuje zjawisko jonizacji;
+4) posługuje się pojęciami: pierwiastek, elektron, jądro atomowe, proton, neutron, izotop; opisuje skład jądra atomowego na podstawie liczby masowej i atomowej;
+5) posługuje się pojęciem jądra stabilnego i niestabilnego; opisuje rozpad jądra izotopu promieniotwórczego; wymienia rodzaje i właściwości promieniowania jądrowego;
+6) wskazuje wpływ promieniowania jonizującego na materię oraz na organizmy żywe;
+7) wymienia przykłady zastosowania zjawiska promieniotwórczości w technice i medycynie;
+8) opisuje reakcję rozszczepienia jądra uranu 235U zachodzącą w wyniku pochłonięcia neutronu; wymienia warunki zajścia reakcji łańcuchowej;
+9) opisuje zasadę działania elektrowni jądrowej oraz wymienia korzyści i zagrożenia płynące z energetyki jądrowej;
+10) doświadczalnie: obserwuje widmo ciągłe i liniowe.
+VII. Moduły fakultatywne.
+1. Moduł A. Tematy:
+1) eksploracja Kosmosu: uwarunkowania i ograniczenia, loty kosmiczne, pojazdy i aparatura pomiarowa;
+2) narzędzia obserwacyjne astronomii;
+3) elementy kosmologii: ewolucja i struktura Wszechświata, budowa i ewolucja gwiazd, fale grawitacyjne.
+2. Moduł B. Tematy:
+1) ruchy ciał, z uwzględnieniem oporów ośrodka;
+2) mechanika cieczy i gazów: warunki pływania, urządzenia wykorzystujące prawa hydrostatyki, mechanika lotu;
+3) silniki: spalinowe, odrzutowe oraz napędy hybrydowe.
+3. Moduł C. Tematy:
+1) fizyka w medycynie: metody diagnozowania i terapii;
+2) fizyka w sporcie;
+3) fizyka w domu: np. kuchenka mikrofalowa, płyta indukcyjna, systemy alarmowe.
+4. Moduł D. Tematy:
+1) elementy elektroniki: półprzewodniki i ich rola, bramki i elementy logiczne, układy scalone i procesory;
+2) materiały magnetyczne: właściwości i charakterystyki, zapis i przechowywanie informacji;
+3) fale radiowe: zakresy i zastosowania, metody modulacji, zabezpieczenie przed szkodliwym wpływem.
+5. Moduł E. Tematy:
+1) własności materii: sprężystość, plastyczność i wytrzymałość materiałów, rozszerzalność;
+2) budowa materii: kryształy i ich zastosowania, grafen, nadprzewodniki, plazma;
+3) elementarne składniki materii: kwarki, leptony, nośniki oddziaływań.
+6. Moduł F. Tematy:
+1) mechanizmy widzenia: widzenie barwne, wady wzroku, widzenie przestrzenne, projekcja 3D;
+2) zjawisko polaryzacji światła i jego zastosowania;
+3) przyrządy optyczne: lupa, mikroskop, teleskop, światłowód, itp.
+7. Moduł G. Tematy:
+1) odnawialne źródła energii;
+2) fizyka Ziemi i atmosfery: wyładowania atmosferyczne, ruchy powietrza, ruchy tektoniczne, pływy i prądy morskie;
+3) elementy akustyki: instrumenty muzyczne, akustyka pomieszczeń, ochrona przed hałasem.
+8. Moduł H. Tematy:
+1) polscy badacze przyrody i ich odkrycia;
+2) wynalazki, które zmieniły świat;
+3) laboratoria i metody badawcze współczesnej fizyki: akcelerator, reaktor jądrowy, spektroskopia.
+Warunki i sposób realizacji Podstawę programową fizyki dla branżowej szkoły I stopnia otwierają cele kształcenia wymagania ogólne określające główne zadania kształcenia fizycznego na tym etapie edukacyjnym. Ze względu na spiralny charakter kształcenia do podstawy programowej wprowadzone zostały nowe treści tak, aby powiększany zasób wiedzy i umiejętności przedmiotowych przybliżał ucznia do rozwiązywania problemów w szerszej perspektywie poznawczej.
+Treści nauczania wymagania szczegółowe zostały podzielone na: część obowiązkową (działy I–VI) oraz część fakultatywną (dział VII). Część fakultatywna zawiera listę zagadnień tematycznych pogrupowanych w moduły, z których w całym etapie edukacyjnym należy zrealizować co najmniej dwa. Nauczanie w ramach części fakultatywnej powinno mieć głównie charakter popularyzatorski. Sposób realizacji tematów w module fakultatywnym i określenie celów szczegółowych kształcenia w tym zakresie należy do zadań nauczyciela.
+Cele te powinny być skorelowane z celami kształcenia wymaganiami ogólnymi (przekrojowymi) i stanowić sposobność do ich ugruntowania.
+MATEMATYKA Cele kształcenia wymagania ogólne I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, wykonywanie działań na wyrażeniach algebraicznych oraz wykorzystywanie tych umiejętności przy badaniu sytuacji rzeczywistych.
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście matematycznym oraz w formie wykresów, diagramów, tabel.
+2. Używanie języka matematycznego do tworzenia tekstów matematycznych, w tym do opisu prowadzonych rozumowań i uzasadniania wniosków, a także do przedstawiania danych.
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych.
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, podawanie argumentów uzasadniających poprawność rozumowania.
+2. Dostrzeganie regularności, podobieństw oraz analogii, formułowanie wniosków na ich podstawie i uzasadnianie ich poprawności.
+3. Dobieranie argumentów do uzasadnienia poprawności rozwiązywania problemów, gwarantujących poprawność rozwiązania.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań.
+Treści nauczania wymagania szczegółowe I. Liczby rzeczywiste. Uczeń:
+1) wykonuje działania (dodawanie, odejmowanie, mnożenie, dzielenie) w zbiorze liczb rzeczywistych;
+2) posługuje się pojęciem przedziału liczbowego, zaznacza przedziały na osi liczbowej;
+3) stosuje własności pierwiastków dowolnego stopnia, w tym pierwiastków stopnia nieparzystego z liczb ujemnych;
+4) stosuje prawa działań na potęgach i pierwiastkach;
+5) wykorzystuje własności potęgowania i pierwiastkowania w sytuacjach praktycznych, w tym do obliczania procentów składanych, zysków z lokat i kosztów kredytów.
+II. Wyrażenia algebraiczne. Uczeń:
+1) stosuje wzory skróconego mnożenia na: ( a + b ) , ( a − b ) , ;
+2) dodaje, odejmuje i mnoży wyrażenia algebraiczne;
+3) wyłącza poza nawias jednomian z sumy algebraicznej.
+III. Równania i nierówności. Uczeń:
+1) przekształca równania i nierówności w sposób równoważny;
+2) interpretuje równania i nierówności sprzeczne i tożsamościowe;
+3) rozwiązuje nierówności liniowe z jedną niewiadomą;
+4) rozwiązuje równania i nierówności kwadratowe.
+IV. Układy równań. Uczeń:
+1) rozwiązuje układy równań liniowych z dwiema niewiadomymi, podaje interpretację geometryczną układów oznaczonych, nieoznaczonych i sprzecznych;
+2) stosuje układy równań liniowych do rozwiązywania zadań tekstowych.
+V. Funkcje. Uczeń:
+1) określa funkcje jako jednoznaczne przyporządkowanie za pomocą opisu słownego, tabeli, wykresu i wzoru (również różnymi wzorami na różnych przedziałach);
+2) oblicza wartość funkcji zadanej wzorem algebraicznym;
+3) odczytuje z wykresu funkcji: dziedzinę, zbiór wartości, miejsca zerowe, przedziały monotoniczności, przedziały, w których funkcja przyjmuje wartości większe (nie mniejsze) lub mniejsze (nie większe) od danej liczby, największe i najmniejsze wartości funkcji (o ile istnieją) w danym przedziale domkniętym oraz argumenty, dla których wartości największe i najmniejsze są przez funkcję przyjmowane;
+4) interpretuje współczynniki występujące we wzorze funkcji liniowej;
+5) wyznacza wzór funkcji liniowej na podstawie informacji o jej wykresie lub o jej własnościach;
+6) szkicuje wykres funkcji kwadratowej zadanej wzorem;
+7) interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci ogólnej, kanonicznej i iloczynowej (jeżeli istnieje);
+8) wyznacza wzór funkcji kwadratowej na podstawie informacji o tej funkcji lub o jej wykresie;
+9) wyznacza największą i najmniejszą wartość funkcji kwadratowej w przedziale domkniętym;
+10) wykorzystuje własności funkcji liniowej i kwadratowej do interpretacji zagadnień geometrycznych, fizycznych itp., także osadzonych w kontekście praktycznym;
+11) posługuje się funkcją ( ) , w tym jej wykresem, do opisu i interpretacji zagadnień związanych z wielkościami odwrotnie proporcjonalnymi, również w zastosowaniach praktycznych;
+12) na podstawie wykresu funkcji y = f ( x ) szkicuje wykresy funkcji y= f ( x−a ) , y = f ( x ) + b , y =− f ( x ) , y = f ( − x ) .
+VI. Trygonometria. Uczeń:
+1) wykorzystuje definicje funkcji: sinus, cosinus i tangens dla kątów od 0° do 90° , w szczególności wyznacza wartości funkcji trygonometrycznych dla kątów 30°, 45°, 60°;
+2) znajduje przybliżone wartości funkcji trygonometrycznych, korzystając z tablic lub kalkulatora;
+3) znajduje za pomocą tablic lub kalkulatora przybliżoną wartość kąta, jeżeli dana jest wartość funkcji trygonometrycznej;
+4) korzysta ze wzorów ; ;
+5) oblicza kąty trójkąta prostokątnego i długości jego boków przy odpowiednich danych (rozwiązuje trójkąty prostokątne).
+VII. Planimetria. Uczeń:
+1) rozpoznaje trójkąty ostrokątne, prostokątne i rozwartokątne przy danych długościach boków (m.in. stosuje twierdzenie odwrotne do twierdzenia Pitagorasa);
+2) rozpoznaje wielokąty foremne i korzysta z ich podstawowych własności;
+3) korzysta z własności kątów i przekątnych w prostokątach, równoległobokach, rombach i trapezach;
+4) stosuje własności kątów wpisanych i środkowych;
+5) oblicza pole wycinka koła i długość łuku okręgu;
+6) korzysta z cech podobieństwa trójkątów;
+7) wykorzystuje zależności między obwodami oraz między polami figur podobnych;
+8) wskazuje podstawowe punkty szczególne w trójkącie: środek okręgu wpisanego w trójkąt, środek okręgu opisanego na trójkącie, ortocentrum, środek ciężkości oraz korzysta z ich własności;
+9) stosuje funkcje trygonometryczne do wyznaczania długości odcinków w figurach płaskich oraz obliczania pól figur.
+VIII. Geometria analityczna. Uczeń:
+1) rozpoznaje wzajemne położenie prostych na płaszczyźnie na podstawie ich równań, w tym znajduje wspólny punkt dwóch prostych, jeżeli taki istnieje;
+2) posługuje się równaniami prostych na płaszczyźnie w postaci kierunkowej, w tym wyznacza równanie prostej o zadanych własnościach (takich jak na przykład przechodzenie przez dwa dane punkty, znany współczynnik kierunkowy, równoległość lub prostopadłość do innej prostej);
+3) oblicza odległość dwóch punktów w układzie współrzędnych.
+IX. Stereometria. Uczeń:
+1) posługuje się pojęciem kąta między prostą a płaszczyzną;
+2) oblicza objętości i pola powierzchni graniastosłupów, ostrosłupów, walca, stożka i kuli, również z wykorzystaniem trygonometrii i poznanych twierdzeń.
+X. Kombinatoryka. Uczeń:
+1) zlicza obiekty w prostych sytuacjach kombinatorycznych;
+2) zlicza obiekty, stosując reguły mnożenia i dodawania (także łącznie) dla dowolnej liczby czynności.
+XI. Rachunek prawdopodobieństwa i statystyka. Uczeń:
+1) oblicza prawdopodobieństwo w modelu klasycznym w prostych sytuacjach;
+2) oblicza średnią arytmetyczną i średnią ważoną oraz znajduje medianę i dominantę;
+3) stosuje skalę centylową.
+Warunki i sposób realizacji Oznaczenia. Uczeń powinien używać powszechnie przyjętego oznaczenia zbiorów liczbowych, a w szczególności: dla liczb całkowitych symbolu Z, dla liczb wymiernych Q, dla liczb rzeczywistych R.
+Przedziały. Uczeń powinien wykorzystywać przedziały do opisu zbioru rozwiązań nierówności. Najważniejsza w odpowiedzi jest jej poprawność. Na przykład rozwiązanie nierówności może być zapisane na każdy z poniższych sposobów: rozwiązaniem nierówności może być każda liczba , która jest mniejsza od 4 lub większa od 5;
+rozwiązaniami są wszystkie liczby mniejsze od 4 i wszystkie liczby większe od 5;
+   x < 4 lub x > 5 ;
+x∈ ( −∞,4 ) lub x∈ ( 5,∞ ) ;
+x∈ ( −∞,4 ) ∪ ( 5,∞ ) .
+Postać kanoniczna. Przy omawianiu funkcji kwadratowej należy podkreślać znaczenie postaci kanonicznej i wynikających z tej postaci własności. Wzory na pierwiastki trójmianu kwadratowego oraz na współrzędne wierzchołka paraboli są jedynie wnioskami z postaci kanonicznej. Wiele zagadnień związanych z funkcją kwadratową daje się rozwiązać bezpośrednio z tej postaci. W szczególności postać kanoniczna pozwala znajdować najmniejszą lub największą wartość funkcji kwadratowej, a także oś symetrii jej wykresu.
+Planimetria. Rozwiązywanie klasycznych problemów geometrycznych jest skutecznym sposobem kształtowania świadomości matematycznej. Uczeń, który poznaje sposoby konstruowania figur, nabywa przez to wprawy w rozwiązywaniu zadań geometrycznych różnego typu. Konstrukcje można przeprowadzać w sposób klasyczny, za pomocą linijki i cyrkla, można też używać specjalistycznych programów komputerowych takich, jak np. GeoGebra.
+INFORMATYKA Cele kształcenia wymagania ogólne I. Rozumienie, analizowanie i rozwiązywanie problemów na bazie logicznego i abstrakcyjnego myślenia, myślenia algorytmicznego i sposobów reprezentowania informacji.
+II. Programowanie i rozwiązywanie problemów z wykorzystaniem komputera oraz innych urządzeń cyfrowych: układanie i programowanie algorytmów, organizowanie, wyszukiwanie i udostępnianie informacji, posługiwanie się aplikacjami komputerowymi.
+III. Posługiwanie się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi, w tym: znajomość zasad działania urządzeń cyfrowych i sieci komputerowych oraz wykonywania obliczeń i programów.
+IV. Rozwijanie kompetencji społecznych, takich jak: komunikacja i współpraca w grupie, w tym w środowiskach wirtualnych, udział w projektach zespołowych oraz zarządzanie projektami.
+V. Przestrzeganie prawa i zasad bezpieczeństwa. Respektowanie prywatności informacji i ochrony danych, praw własności intelektualnej, etykiety w komunikacji i norm współżycia społecznego, ocena zagrożeń związanych z technologią i ich uwzględnienie dla bezpieczeństwa swojego i innych.
+Treści nauczania wymagania szczegółowe I. Rozumienie, analizowanie i rozwiązywanie problemów. Uczeń:
+1) planuje kolejne kroki rozwiązywania problemu, z uwzględnieniem podstawowych etapów myślenia komputacyjnego (określenie problemu, definicja modeli i pojęć, znalezienie rozwiązania, zaprogramowanie i testowanie rozwiązania);
+2) stosuje przy rozwiązywaniu problemów z różnych dziedzin algorytmy poznane w szkole podstawowej oraz algorytmy:
+a) na liczbach: zamiany reprezentacji liczb między pozycyjnymi systemami liczbowymi, działań na ułamkach z wykorzystaniem NWD i NWW,
+b) na tekstach: porównywania tekstów, szyfrowania tekstu metodą Cezara;
+3) sprawdza poprawność działania algorytmów dla przykładowych danych.
+II. Programowanie i rozwiązywanie problemów, z wykorzystaniem komputera i innych urządzeń cyfrowych. Uczeń:
+1) projektuje i programuje rozwiązania problemów z różnych dziedzin, stosuje przy tym: instrukcje wejścia/wyjścia, wyrażenia arytmetyczne i logiczne, instrukcje warunkowe, instrukcje iteracyjne, funkcje z parametrami i bez parametrów, testuje poprawność programów dla różnych danych; w szczególności programuje algorytmy z działu I pkt 2;
+2) przygotowuje opracowania rozwiązań problemów, posługując się wybranymi aplikacjami:
+a) tworzy i edytuje projekty w grafice rastrowej i wektorowej, wykorzystuje różne formaty obrazów, przekształca pliki graficzne, uwzględniając wielkość i jakość obrazów,
+b) opracowuje dokumenty o różnorodnej tematyce, w tym informatycznej, i o rozbudowanej strukturze, posługując się przy tym konspektem dokumentu, dzieli tekst na sekcje i kolumny, tworzy spisy treści, rysunków i tabel,
+c) gromadzi dane pochodzące z różnych źródeł w tabeli arkusza kalkulacyjnego, korzysta z różnorodnych funkcji arkusza w zależności od rodzaju danych, filtruje dane według kilku kryteriów, dobiera odpowiednie wykresy do zaprezentowania danych,
+d) tworzy rozbudowane prezentacje, w tym z wykorzystaniem technik multimedialnych, ustala parametry pokazu;
+3) wyszukuje w sieci potrzebne informacje i zasoby, ocenia ich przydatność oraz wykorzystuje w rozwiązywanych problemach.
+III. Posługiwanie się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi.
+Uczeń:
+1) zapoznaje się z możliwościami nowych urządzeń cyfrowych i towarzyszącego im oprogramowania;
+2) objaśnia funkcje innych niż komputer urządzeń cyfrowych i korzysta z ich możliwości;
+3) charakteryzuje sieć internet, jej ogólną budowę i usługi.
+IV. Rozwijanie kompetencji społecznych. Uczeń:
+1) aktywnie uczestniczy w realizacji projektów informatycznych rozwiązujących problemy z różnych dziedzin, posługuje się przy tym środowiskiem w chmurze;
+2) podaje przykłady wpływu informatyki i technologii komputerowej na najważniejsze sfery życia osobistego i zawodowego; korzysta z wybranych e-usług dotyczących e-urzędu;
+3) bezpiecznie buduje swój wizerunek w przestrzeni medialnej.
+V. Przestrzeganie prawa i zasad bezpieczeństwa. Uczeń:
+1) postępuje zgodnie z zasadami netykiety oraz regulacjami prawnymi dotyczącymi: ochrony danych osobowych, ochrony informacji oraz prawa autorskiego i ochrony własności intelektualnej w dostępie do informacji; jest świadomy konsekwencji łamania tych zasad;
+2) respektuje obowiązujące prawo autorskie dotyczące oprogramowania komputerowego i stosuje się do jego przepisów;
+3) opisuje szkody, jakie mogą spowodować działania pirackie w sieci, w odniesieniu do indywidualnych osób i społeczeństwa.
+Warunki i sposób realizacji Treści podstawy programowej z informatyki mają charakter przyrostowy, sugerując w ten sposób spiralny rozwój wiedzy, umiejętności i kompetencji uczniów przez wszystkie lata nauki szkolnej.
+Najważniejszym celem kształcenia informatycznego uczniów jest rozwój umiejętności myślenia komputacyjnego, skupionego na kreatywnym rozwiązywaniu problemów z różnych dziedzin ze świadomym wykorzystaniem przy tym metod i narzędzi wywodzących się z informatyki, w tym programowania. Takie podejście jest kontynuowane w branżowej szkole I stopnia.
+Na podstawę programową informatyki w branżowej szkole I stopnia należy patrzeć w powiązaniu ze zmianami, jakie nastąpiły w nauczaniu informatyki w szkole podstawowej. Wprowadzenie rozwiązywania problemów z pomocą komputerów i programowania od najmłodszych lat znacznie wydłużyło okres poznawania tych zagadnień, a przez to umożliwiło stopniowe i uporządkowane kształtowanie myślenia algorytmicznego/komputacyjnego. Wspólne wymagania ogólne i spiralny układ wymagań szczegółowych podstawy programowej na przestrzeni wszystkich etapów edukacyjnych stworzyły możliwość ciągłego utrwalania wcześniej kształtowanych umiejętności i przemyślanego rozszerzania ich o nowe, odpowiednio do naturalnego rozwoju ucznia.
+Stopniowe wprowadzanie uczniów w świat informatyki i jej zastosowań w różnych przedmiotach i dziedzinach życia kładzie solidne podwaliny pod umiejętności rozwiązywania w branżowej szkole I stopnia zagadnień związanych z wybranym zawodem.
+W branżowej szkole I stopnia realizowane są zagadnienia, które wyposażą absolwenta tej szkoły w umiejętności świadomego, efektywnego i bezpiecznego korzystania z technologii podczas rozwiazywania problemów w wykonywanym w przyszłości zawodzie.
+Zagadnienia algorytmiczne wyszczególnione w podstawie są dobrane świadomie, wiążą się bowiem z problemami z innych przedmiotów, na przykład z matematyki, jak i dotyczą problemów związanych z funkcjonowaniem w społeczeństwie cyfrowym. Algorytmy nawiązują między innymi do efektywnych poszukiwań w internecie, porządkowania informacji, działań antyplagiatowych oraz zachowania bezpieczeństwa informacji.
+Programując rozwiązania problemów, uczeń stosuje odpowiednie metody i nadaje rozwiązaniom wymiar praktyczny, łącząc aspekty programistyczne z elementami sterowania rzeczywistymi obiektami, np. robotami.
+Rozwiązywanie problemów leży również u podstaw pracy z aplikacjami użytkowymi.
+Projektując grafikę, opracowując dokumenty, analizując dane i wyszukując informacje, uczeń poznaje możliwości gotowych aplikacji i ich przydatne funkcje.
+Absolwent branżowej szkoły I stopnia powinien sprawnie posługiwać się współczesnymi urządzeniami cyfrowymi, sieciami oraz systemami operacyjnymi zarządzającymi ich pracą. Przy korzystaniu z serwisów społecznościowych, zasobów otwartych i wszelkich zasobów umieszczonych w chmurze, uczeń powinien przestrzegać ogólnie przyjętych zasad netykiety, jak i bezpieczeństwa w przestrzeni cyfrowej.
+W branżowej szkole I stopnia treści informatyczne powinny być realizowane w formie projektów, tematycznie uwzględniających zainteresowania uczniów, także z innych dziedzin. Uczniowie powinni mieć możliwość korzystania z komputerów w zależności od potrzeb wynikających z charakteru zajęć oraz realizowanych tematów i celów.
+Podczas zajęć z informatyki, uczeń ma do swojej dyspozycji osobny komputer z dostępem do internetu i aplikacji użytkowych zapewniających realizację zagadnień podstawy programowej.
+Pracownie komputerowe powinny być wyposażone w sposób zapewniający możliwość realizacji wymagań określonych w podstawie programowej.
+WYCHOWANIE FIZYCZNE Cele kształcenia wymagania ogólne I. Wzmacnianie potrzeby podejmowania aktywności fizycznej przez całe życie.
+II. Doskonalenie umiejętności stosowania w życiu codziennym zasad prozdrowotnego stylu życia, ze szczególnym uwzględnieniem specyfiki zawodu.
+III. Rozwijanie umiejętności sprzyjających zapobieganiu chorobom i doskonaleniu zdrowia fizycznego, psychicznego i społecznego, ze szczególnym uwzględnieniem specyfiki zawodu.
+IV. Rozwijanie umiejętności działania jako krytyczny konsument (odbiorca) sportu oraz produktów i usług rekreacyjnych i zdrowotnych.
+V. Kształtowanie umiejętności osobistych i społecznych sprzyjających całożyciowej aktywności fizycznej.
+Treści nauczania wymagania szczegółowe I. Rozwój fizyczny i sprawność fizyczna.
+1. W zakresie wiedzy. Uczeń:
+1) wyjaśnia związek między sprawnością fizyczną a zdrowiem i dobrym samopoczuciem;
+2) wskazuje mocne i słabe strony własnej sprawności fizycznej;
+3) definiuje pojęcie wskaźnik wagowo-wzrostowy (BMI).
+2. W zakresie umiejętności. Uczeń:
+1) wylicza oraz interpretuje wskaźnik wagowo-wzrostowy (BMI) na tle indywidualnych potrzeb i norm zdrowotnych;
+2) ocenia reakcje własnego organizmu na wysiłek fizyczny o różnej intensywności;
+3) dokonuje samooceny sprawności fizycznej na tle indywidualnych potrzeb i norm zdrowotnych;
+4) dobiera sposoby kształtowania sprawności fizycznej w zależności od charakteru pracy zawodowej.
+II. Aktywność fizyczna.
+1. W zakresie wiedzy. Uczeń:
+1) omawia zalecenia dotyczące aktywności fizycznej w zależności od płci, okresu życia, rodzaju pracy zawodowej, pory roku, środowiska;
+2) wskazuje związek między odpoczynkiem a efektywnością skutecznego działania (uczenia się, pracy);
+3) opisuje wybrane techniki relaksacyjne;
+4) wskazuje możliwości wykorzystania nowoczesnych technologii do oceny tygodniowej aktywności fizycznej.
+2. W zakresie umiejętności. Uczeń:
+1) stosuje poznane elementy techniki i taktyki w wybranych indywidualnych i zespołowych formach aktywności fizycznej (z uwzględnieniem form nowoczesnych w tym także przy muzyce);
+2) planuje i współorganizuje szkolne rozgrywki sportowe według systemu pucharowego i „każdy z każdym”;
+3) opracowuje i wykonuje zestaw ćwiczeń w zakresie treningu funkcjonalnego, ze szczególnym uwzględnieniem profilaktyki bólów kręgosłupa;
+4) wykonuje ćwiczenia kształtujące i kompensacyjne w celu przeciwdziałania negatywnym dla zdrowia skutkom pracy zawodowej;
+5) wykonuje ćwiczenia relaksacyjne dostosowane do indywidualnych potrzeb;
+6) wykonuje podstawowe elementy samoobrony;
+7) diagnozuje, planuje i organizuje własną tygodniową aktywność fizyczną, wykorzystując nowoczesne technologie (urządzenia monitorujące, aplikacje internetowe) z uwzględnieniem rekomendacji (np. WHO);
+8) przeprowadza rozgrzewkę ukierunkowaną na wybraną formę aktywności fizycznej.
+III. Bezpieczeństwo w aktywności fizycznej.
+1. W zakresie wiedzy. Uczeń:
+1) wyjaśnia, na czym polega umiejętność oceny stopnia ryzyka związanego z niektórymi sportami lub wysiłkami fizycznymi;
+2) opisuje zasady ergonomicznej (odciążającej kręgosłup) organizacji stanowiska pracy (siedzącej, stojącej i w ruchu).
+2. W zakresie umiejętności. Uczeń:
+1) stosuje zasady samoasekuracji, asekuracji i pomocy w różnych sytuacjach życiowych (osobom młodszym, seniorom, z niepełnosprawnością);
+2) potrafi zachować się w sytuacji wypadków i urazów w czasie zajęć ruchowych udzielić pierwszej pomocy przedmedycznej (wykorzystanie wiedzy z przedmiotu edukacja dla bezpieczeństwa).
+IV. Edukacja zdrowotna.
+1. W zakresie wiedzy. Uczeń:
+1) wyjaśnia, na czym polega prozdrowotny styl życia;
+2) wyjaśnia zależności między jakością odżywania a wysiłkiem fizycznym i rodzajem pracy zawodowej;
+3) wymienia choroby cywilizacyjne uwarunkowane niedostatkiem ruchu, w szczególności choroby układu krążenia, układu ruchu i otyłość, oraz omawia sposoby zapobiegania im;
+4) wyjaśnia, co oznacza odpowiedzialność za zdrowie własne i innych ludzi;
+5) omawia zasady racjonalnego gospodarowania czasem i dostosowania formy aktywnego wypoczynku do rodzaju pracy zawodowej;
+6) wyjaśnia, na czym polega samobadanie i samokontrola zdrowia oraz dlaczego należy poddawać się badaniom profilaktycznym w okresie całego życia;
+7) omawia szkody zdrowotne i społeczne związane z paleniem tytoniu, nadużywaniem alkoholu i używaniem innych substancji psychoaktywnych;
+wyjaśnia, dlaczego i w jaki sposób należy opierać się presji oraz namowom do używania substancji psychoaktywnych i innych zachowań ryzykownych.
+2. W zakresie umiejętności. Uczeń:
+1) opracowuje indywidualny, tygodniowy plan treningu zdrowotnego uwzględniającego rekomendacje aktywności fizycznej;
+2) opracowuje indywidualny, jednodniowy plan żywienia, z uwzględnieniem bilansu energetycznego;
+3) wykonuje ćwiczenia kompensacyjne w celu przeciwdziałania negatywnym biologicznym skutkom wykonywania pracy o różnym charakterze.
+V. Kompetencje społeczne. Uczeń:
+1) wymienia i interpretuje przykłady konstruktywnego i destrukcyjnego zachowania się kibiców sportowych;
+2) wyjaśnia, na czym polega praca nad sobą dla zwiększenia wiary w siebie, poczucia własnej wartości i umiejętności podejmowania decyzji;
+3) wyjaśnia, na czym polega konstruktywne przekazywanie i odbieranie pozytywnych i negatywnych informacji zwrotnych oraz radzenie sobie z krytyką;
+4) pełni rolę organizatora, zawodnika, sędziego i kibica w zawodach sportowych;
+5) podejmuje inicjatywy indywidualne i zespołowe.
+Warunki i sposób realizacji Szkoła zapewnia warunki realizacji określonych w podstawie programowej wymagań szczegółowych, które należy traktować jako wskaźniki rozwoju dyspozycji osobowych niezbędnych do realizacji celów kształcenia na danym etapie edukacyjnym.
+Wymagania szczegółowe odnoszą się do następujących bloków tematycznych: Rozwój fizyczny i sprawność fizyczna.
+W tym bloku tematycznym są zawarte treści związane z diagnozowaniem i interpretowaniem rozwoju fizycznego i sprawności fizycznej. Podkreśla się znaczenie tych zagadnień w kontekście zdrowia, a nie oceny z wychowania fizycznego. Ważne jest rozróżnienie pojęć diagnozowanie i ocenianie. Pomiar sprawności fizycznej nie powinien być przedmiotem (kryterium) oceny z wychowania fizycznego. Powinien służyć do wskazania mocnych i słabych przejawów sprawności ucznia w celu planowania ich zmian w kontekście całożyciowej aktywności fizycznej.
+Aktywność fizyczna.
+W tym bloku tematycznym są zawarte treści doskonalące indywidualne i zespołowe formy rekreacyjno-sportowe. Treści bloku określają nowoczesne formy ruchu oraz wykorzystanie nowoczesnych technologii w celu monitorowania i planowania całożyciowej aktywności fizycznej ze szczególnym uwzględnieniem potrzeb wynikających z pracy zawodowej.
+Bezpieczeństwo w aktywności fizycznej.
+W tym bloku tematycznym są zawarte treści dotyczące działań związanych z umiejętnością określenia ryzyka związanego z planowaniem i organizacją form aktywności fizycznej dla siebie i innych. W treściach są zawarte zagadnienia dotyczące zasad ergonomicznej organizacji stanowiska pracy oraz udzielania pierwszej pomocy przedmedycznej w sytuacji wypadków i urazów.
+Edukacja zdrowotna.
+W tym bloku tematycznym są zawarte treści dotyczące zdrowia i jego diagnozowania w kontekście przeciwdziałania chorobom cywilizacyjnym i zawodowym. Łączenie treści z tego bloku z wdrażaniem kompetencji społecznych sprzyja rozwijaniu poczucia odpowiedzialności za zdrowie własne i innych ludzi, wzmacnianiu poczucia własnej wartości i wiary w swoje możliwości.
+Kompetencje społeczne.
+Kompetencje społeczne dotyczą rozwijania w toku uczenia się zdolności kształtowania własnego rozwoju oraz autonomicznego i odpowiedzialnego uczestniczenia w życiu społecznym, z uwzględnieniem etycznego kontekstu własnego postępowania.
+Zajęcia wychowania fizycznego powinny być prowadzone w sali sportowej, w specjalnie przygotowanym pomieszczeniu zastępczym bądź na boisku szkolnym. Ważne są zajęcia ruchowe na zewnątrz budynku szkolnego, w środowisku naturalnym, również w okresie jesienno-zimowym.
+Szkoła powinna zapewnić urządzenia i sprzęt sportowy niezbędny do zdobycia przez uczniów umiejętności i wiadomości oraz kompetencji społecznych określonych w podstawie programowej.
+Realizacja podstawy programowej w zakresie edukacji zdrowotnej powinna być dostosowana do potrzeb uczniów (po przeprowadzeniu diagnozy tych potrzeb) oraz do możliwości organizacyjnych szkoły. Warunkiem skuteczności realizacji bloku tematycznego: edukacja zdrowotna jest integrowanie treści z innymi przedmiotami, w tym np. biologii, wychowania do życia w rodzinie, wiedzy o społeczeństwie, edukacji dla bezpieczeństwa. Wymaga to współdziałania nauczycieli różnych przedmiotów, współpracy z pielęgniarką albo higienistką szkolną oraz z rodzicami. Niezbędne jest także skoordynowanie tych zajęć z programami edukacyjnymi dotyczącymi zdrowia i profilaktyki zachowań ryzykownych lub chorób, oferowanymi szkołom przez różne podmioty.
+Do realizacji treści nauczania należy włączać uczniów czasowo lub częściowo zwolnionych z ćwiczeń fizycznych. Dotyczy to kompetencji z zakresu wiedzy w każdym bloku tematycznym oraz wybranych kompetencji z zakresu umiejętności ze szczególnym uwzględnieniem bloku tematycznego: edukacja zdrowotna.
+EDUKACJA DLA BEZPIECZEŃSTWA Cele kształcenia wymagania ogólne Bezpieczeństwo państwa.
+II. Przygotowanie do działań ratowniczych w sytuacjach nadzwyczajnych zagrożeń (wypadków masowych i katastrof).
+III. Podstawy pierwszej pomocy.
+IV. Edukacja zdrowotna. Zdrowie w wymiarze indywidualnym i zbiorowym. Zachowania prozdrowotne.
+Treści nauczania wymagania szczegółowe I. Bezpieczeństwo państwa.
+1. Znajomość struktury obronności państwa. Uczeń:
+1) identyfikuje wyzwania dla bezpieczeństwa indywidualnego i zbiorowego, kategoryzuje je, przypisuje właściwe znaczenie w kontekście bezpieczeństwa lokalnego i całego państwa;
+2) zna i wymienia zadania parlamentu, prezydenta, rady ministrów w dziedzinie obronności oraz elementy systemu obronnego państwa;
+3) omawia zadania, struktury oraz podstawowe uzbrojenie i wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej;
+4) rozumie istotę oraz zna elementy składowe systemu bezpieczeństwa, jego poszczególne instytucje, charakter związków między nimi;
+5) zna i wymienia nazwy formacji służb mundurowych (w tym obrony terytorialnej) zapewniających bezpieczeństwo państwa oraz wyjaśnia zadania tych służb;
+6) zna i określa zakres działania wybranych stowarzyszeń i organizacji, takich jak np. Liga Obrony Kraju, Polski Czerwony Krzyż, Związek Strzelecki „Strzelec”;
+7) wymienia i uzasadnia geopolityczne, militarne i gospodarcze aspekty bezpieczeństwa państwa;
+8) potrafi identyfikować wyzwania dla bezpieczeństwa indywidualnego i zbiorowego, kategoryzować je, przypisywać właściwe znaczenie w kontekście bezpieczeństwa lokalnego i całego państwa;
+9) zna i rozumie rolę świadczeń obywateli na rzecz obronności oraz zadań i kompetencji władz państwowych i samorządowych w tym zakresie;
+10) rozróżnia zagrożenia czasu pokoju i czasu wojny;
+11) podaje przykłady zarządzeń, jakie mogą wydać władze w związku z kryzysem;
+12) orientuje się w podstawowych zasadach zarządzania kryzysowego i rozumie jego istotę; wyjaśnia znaczenie pojęcia siatka bezpieczeństwa i infrastruktura krytyczna;
+13) w oparciu o właściwą terminologię dokonuje analizy wybranych zjawisk społecznych (stany nadzwyczajne);
+14) w zakresie zagrożenia terrorystycznego wyjaśnia pojęcie terroryzmu;
+wymienia przykłady skutków użycia środków biologicznych, chemicznych i wybuchowych oraz omawia zasady zachowania się w przypadku zdarzeń terrorystycznych (np. w razie wtargnięcia uzbrojonej osoby do szkoły, centrum handlowego);
+15) wyjaśnia znaczenie cyberprzemocy i zna procedury postępowania w przypadku jej wystąpienia oraz wskazuje niewłaściwe zachowania dotyczące cyberprzemocy i wie, jaka powinna być na nie właściwa reakcja.
+II. Przygotowanie do działań ratowniczych w sytuacjach nadzwyczajnych zagrożeń (wypadków masowych i katastrof).
+1. Ochrona ludności i obrona cywilna. Uczeń:
+1) wyjaśnia podstawowe zasady międzynarodowego prawa humanitarnego oraz wymienia podstawowe dokumenty ONZ regulujące funkcjonowanie obrony cywilnej w świecie;
+2) omawia podstawy prawne funkcjonowania ochrony ludności i obrony cywilnej w Rzeczypospolitej Polskiej;
+3) wyjaśnia rolę i zasady funkcjonowania Państwowej Straży Pożarnej oraz Państwowego Ratownictwa Medycznego;
+4) wymienia i charakteryzuje ochotnicze służby i podmioty ratownicze, takie jak: Ochotnicza Straż Pożarna, Górskie Ochotnicze Pogotowie Ratunkowe, Tatrzańskie Ochotnicze Pogotowie Ratunkowe, Wodne Ochotnicze Pogotowie Ratunkowe;
+5) opisuje obowiązki pieszego i kierowcy w zakresie zachowania się na drodze w momencie przejazdu karetki pogotowia lub innego pojazdu z włączonymi sygnałami uprzywilejowania;
+6) identyfikuje obiekty opatrzone międzynarodowymi znakami ochrony zabytków;
+7) rozpoznaje zagrożenia i ich źródła; zna zasady postępowania podczas pożaru, w przypadku wypadków komunikacyjnych, w czasie zagrożenia powodzią, w przypadku katastrofy budowlanej, wycieku gazu z instalacji w budynku mieszkalnym, odnalezienia niewypału lub niewybuchu, zagrożenia lawiną, intensywnej śnieżycy;
+8) przedstawia typowe zagrożenia zdrowia i życia podczas powodzi, pożaru lub innych klęsk żywiołowych;
+9) wyjaśnia zasady postępowania w przypadku awarii instalacji chemicznej, środka transportu lub rozszczelnienia zbiorników z substancjami toksycznymi;
+10) omawia zasady ewakuacji ludności i zwierząt z terenów zagrożonych;
+11) wyjaśnia zasady zaopatrzenia ludności ewakuowanej w wodę i żywność;
+12) charakteryzuje zagrożenia pożarowe w domu, w szkole i w najbliższej okolicy;
+wymienia rodzaje i zasady użycia podręcznego sprzętu gaśniczego oraz potrafi dobrać odpowiedni rodzaj środka gaśniczego w zależności od rodzaju pożaru (np. płonąca patelnia, komputer);
+13) wyznacza strefę bezpieczeństwa w sytuacji zagrożenia;
+14) uzasadnia potrzebę przeciwdziałania panice.
+2. Źródła promieniowania jądrowego i jego skutki. Uczeń:
+1) wymienia rodzaje znaków substancji toksycznych i miejsca ich eksponowania;
+2) rozpoznaje znaki substancji toksycznych na pojazdach i budowlach;
+3) omawia wpływ środków promieniotwórczych na ludzi, zwierzęta, żywność i wodę oraz wie, jakie materiały można wykorzystywać jako zastępcze środki ochrony dróg oddechowych i skóry;
+4) wymienia sposoby zabezpieczenia żywności i wody przed skażeniami;
+5) wyjaśnia zasady postępowania w przypadku awarii instalacji chemicznej, środka transportu lub rozszczelnienia zbiorników z substancjami toksycznymi;
+6) wyjaśnia znaczenie pojęć: odkażanie, dezaktywacja, dezynfekcja, deratyzacja;
+7) wyjaśnia, na czym polegają zabiegi specjalne i sanitarne.
+3. Ostrzeganie ludności o zagrożeniach, alarmowanie. Uczeń:
+1) definiuje i rozpoznaje rodzaje alarmów i sygnałów alarmowych;
+2) charakteryzuje zasady zachowania się ludności po ogłoszeniu alarmu;
+3) omawia zasady ewakuacji ludności i środków materiałowych;
+4) wskazuje drogi ewakuacji w szkole;
+5) potrafi zainstalować w telefonie komórkowym dostępny w miejscu swojego zamieszkania system ostrzegania o lokalnych zagrożeniach.
+III. Podstawy pierwszej pomocy. Uczeń:
+1) opisuje rolę układu oddychania, krążenia i nerwowego dla prawidłowego funkcjonowania organizmu; rozumie, jakie są następstwa zaburzeń czynności tych układów;
+2) podaje definicję, wymienia cele i zadania pierwszej pomocy; wymienia działania wchodzące w zakres pierwszej pomocy;
+3) rozumie znaczenie podejmowania działań z zakresu udzielania pierwszej pomocy przez świadka zdarzenia oraz przedstawia jego rolę;
+4) zna zasady bezpiecznego postępowania w miejscu zdarzenia, w tym:
+a) unikania narażania własnego zdrowia,
+b) oceniania własnych możliwości,
+c) rozpoznawania potencjalnych źródeł zagrożenia w kontakcie z poszkodowanym,
+d) wskazywania sposobu zabezpieczenia się przed zakażeniem w kontakcie z krwią i płynami ustrojowymi, stosowania uniwersalnych środków ochrony osobistej;
+5) podaje przykłady zagrożeń w środowisku domowym, ulicznym, wodnym, w przestrzeniach podziemnych, w lasach;
+6) przedstawia metody zapewnienia bezpieczeństwa własnego, osoby poszkodowanej i otoczenia w sytuacjach symulowanych podczas zajęć;
+7) potrafi rozpoznać osobę w stanie zagrożenia życia:
+a) wyjaśnia pojęcie „stan zagrożenia życia”,
+b) wskazuje przyczyny i okoliczności prowadzące do szybkiego pogorszenia stanu zdrowia lub zagrożenia życia,
+c) wyjaśnia rolę układu nerwowego, układu krążenia i układu oddechowego w utrzymywaniu podstawowych funkcji życiowych;
+8) wie, jak prawidłowo wezwać pomoc:
+a) wymienia nazwy służb ratunkowych i podaje ich numery alarmowe,
+b) wskazuje, kiedy wezwać pomoc i w jaki sposób przekazać informacje o zdarzeniu;
+9) podaje przykład aplikacji na telefon komórkowy wspierającej udzielanie pierwszej pomocy;
+10) zna wyposażenie apteczki pierwszej pomocy; wymienia przedmioty, jakie powinny znaleźć się w apteczce np. domowej, samochodowej;
+11) zna zasady postępowania z osobą nieprzytomną:
+a) wymienia objawy utraty przytomności,
+b) ocenia przytomność poszkodowanego,
+c) ocenia czynność oddychania u osoby nieprzytomnej (trzema zmysłami, przez okres do 10 sekund),
+d) wyjaśnia mechanizm niedrożności dróg oddechowych u osoby nieprzytomnej,
+e) udrażnia drogi oddechowe rękoczynem czoło żuchwa,
+f) układa osobę nieprzytomną w pozycji bocznej bezpiecznej,
+g) zapewnia osobie nieprzytomnej komfort termiczny,
+h) systematycznie ponawia ocenę oddychania u osoby nieprzytomnej;
+12) zna i wykonuje podstawowe czynności resuscytacji krążeniowo-oddechowej:
+a) wyjaśnia pojęcie „nagłe zatrzymanie krążenia”; wymienia jego oznaki,
+b) podaje przykłady zdarzeń, w których dochodzi do nagłego zatrzymania krążenia,
+c) opisuje algorytm podstawowych czynności resuscytacyjnych u osoby dorosłej,
+d) wymienia warunki i czynniki zapewniające resuscytację wysokiej jakości,
+e) omawia uniwersalny algorytm w nagłym zatrzymaniu krążenia,
+f) wykonuje na manekinie uciski klatki piersiowej i sztuczne oddychanie samodzielnie i we współpracy z drugą osobą,
+g) opisuje zastosowanie automatycznego defibrylatora zewnętrznego (AED) oraz wskazuje na jego znaczenie dla zwiększenia skuteczności akcji resuscytacyjnej; zna algorytm podstawowych czynności resuscytacyjnych z użyciem AED,
+h) przedstawia sytuacje, w których można prowadzić resuscytację z wyłącznym uciskaniem klatki piersiowej;
+13) wykonuje podstawowe czynności pierwszej pomocy w zadławieniu:
+a) wyjaśnia pojęcie i mechanizm zadławienia,
+b) omawia schemat postępowania w przypadku zadławienia,
+c) wykonuje na manekinie rękoczyny ratunkowe w przypadku zadławienia,
+d) wymienia przykłady działań zapobiegających zadławieniu u małych dzieci;
+14) zna zasady pierwszej pomocy w urazach kończyn:
+a) wymienia objawy związane z najczęstszymi obrażeniami narządu ruchu,
+b) opisuje metody udzielania pierwszej pomocy w urazach kończyn,
+c) wyjaśnia cel doraźnego unieruchomienia kończyny (ograniczenie ruchu, zmniejszenie bólu, ograniczenie ryzyka pogłębiania urazu, umożliwienie bezpiecznego transportu),
+d) zna i stosuje zasady unieruchomienia złamań kości długich i stawów (zasada Potta),
+e) wykonuje opatrunek osłaniający na ranę w obrębie kończyny oraz opatrunek uciskowy,
+f) w sytuacjach symulowanych prawidłowo unieruchamia kończynę po urazie w zastanej pozycji, wykorzystuje dostępny sprzęt do unieruchomienia złamanej kończyny,
+g) wymienia sytuacje, w których może dojść do urazów kręgosłupa,
+h) opisuje przykłady powikłań wynikających z urazu kręgosłupa,
+i) przedstawia metody przenoszenia poszkodowanych z urazem kręgosłupa,
+j) wymienia przykłady zapobiegania urazom w sporcie, w domu, w pracy;
+15) rozumie, na czym polega udzielanie pierwszej pomocy w oparzeniach:
+a) wyjaśnia pojęcie „oparzenie”, wymienia przyczyny i rodzaje oparzeń,
+b) omawia zasady postępowania w przypadku oparzenia termicznego,
+c) demonstruje metodę chłodzenia w przypadku oparzenia kończyny,
+d) wymienia przykłady zapobiegania oparzeniom, ze szczególnym uwzględnieniem środowiska domowego i małych dzieci;
+16) rozumie, na czym polega udzielenie pierwszej pomocy we wstrząsie:
+a) zna najważniejsze przyczyny wstrząsu, wymienia zagrożenia z niego wynikające,
+b) stosuje zasady postępowania przeciwstrząsowego (ułożenie, ochrona przed wychłodzeniem, wsparcie psychiczne poszkodowanego);
+17) rozumie, na czym polega udzielenie pierwszej pomocy osobie podtopionej:
+a) opisuje sytuacje, w jakich dochodzi do tonięcia, wyjaśnia zagrożenia związane z wodą,
+b) wyjaśnia różnicę między podtopieniem a utonięciem,
+c) odtwarza etapy pomocy w podtopieniach, podejmuje w sytuacji symulowanej czynności pierwszej pomocy po wydobyciu poszkodowanego z wody (pozycja bezpieczna, zapobieganie zachłyśnięciu i wychłodzeniu),
+d) wyjaśnia, jak zapobiegać tonięciu i wypadkom w akwenach wodnych;
+18) rozumie, na czym polega udzielenie pierwszej pomocy w zatruciach:
+a) omawia zatrucie tlenkiem węgla (czadem), lekami lub środkami odurzającymi; wymienia ich objawy,
+b) opisuje zasady bezpieczeństwa w pomieszczeniach skażonych tlenkiem węgla, gazami toksycznymi,
+c) w sytuacji symulowanej podejmuje prawidłowe działania wobec osoby podejrzanej o zatrucie.
+IV. Edukacja zdrowotna. Zdrowie w wymiarze indywidualnym oraz zbiorowym. Zachowania prozdrowotne. Uczeń:
+1. Choroby cywilizacyjne. Uczeń:
+1) zna czynniki ryzyka chorób cywilizacyjnych, takich jak: nadciśnienie tętnicze, cukrzyca, zaburzenia gospodarki lipidowej, otyłość; definiuje pojęcie zespołu metabolicznego (nadciśnienie tętnicze, otyłość, cukrzyca, zaburzenia lipidowe); dokonuje pomiaru ciśnienia tętniczego;
+2) potrafi ocenić korzyści kontroli czynników ryzyka miażdżycy w populacji;
+3) zna pojęcie wskaźnika masy ciała (BMI) i potrafi określić, do czego służy; zna tendencje związane z otyłością wśród dzieci, młodzieży i dorosłych w Polsce.
+2. Elementy zdrowia psychicznego. Uczeń:
+1) wyjaśnia zależności między zdrowiem fizycznym, psychicznym, emocjonalnym a społecznym; wyjaśnia wpływ stresu na zdrowie;
+2) wymienia rzetelne źródła informacji o zdrowiu, chorobach, świadczeniach i usługach zdrowotnych;
+3) ocenia własne zachowania związane ze zdrowiem, ustala indywidualny plan działania na rzecz własnego zdrowia;
+4) zna podstawowe sygnały i objawy problemów ze zdrowiem psychicznym (stres fizyczny i emocjonalny, zaburzenia odżywiania, depresja kliniczna);
+5) opisuje konstruktywne i niekonstruktywne sposoby radzenia sobie z emocjami, w tym negatywnymi;
+6) określa, gdzie w okolicy swojego miejsca zamieszkania działają instytucje i organizacje świadczące leczenie, pomoc i wsparcie w przypadkach problemów zdrowia psychicznego, w szczególności świadczące usługi dla młodzieży;
+7) dobiera i demonstruje umiejętności komunikacji interpersonalnej istotne dla zdrowia i bezpieczeństwa (odmowa, zachowania asertywne, negocjowanie).
+3. Aktywność fizyczna. Uczeń:
+1) wymienia zachowania, które sprzyjają zdrowiu (prozdrowotne) oraz zagrażają zdrowiu oraz wskazuje te, które szczególnie często występują wśród nastolatków;
+2) odróżnia czynniki środowiskowe i społeczne (korzystne i szkodliwe), na które człowiek może mieć wpływ, od takich, na które nie może;
+3) omawia krótkoterminowe i długoterminowe konsekwencje zachowań sprzyjających (prozdrowotnych) i zagrażających zdrowiu;
+4) wyjaśnia zagadnienia związane z właściwą i racjonalną aktywnością fizyczną;
+uzasadnia jej znaczenie dla zdrowia i rozwoju, w tym ochrony przed chorobami przewlekłymi;
+5) analizuje tendencje związane z brakiem aktywności fizycznej wśród dzieci, młodzieży i dorosłych w Polsce;
+6) potrafi ocenić intensywność wysiłku fizycznego (np. na podstawie pomiaru częstości akcji serca w czasie i po wysiłku);
+7) potrafi analizować wartość odżywczą produktów żywnościowych np. na podstawie informacji o ich składzie umieszczanych przez producenta na opakowaniu.
+4. Odżywianie. Uczeń:
+1) wyjaśnia związki między aktywnością fizyczną zwyczajami żywieniowymi i dobrostanem emocjonalnym;
+2) wyjaśnia zagadnienia związane z właściwym, racjonalnym żywieniem;
+uzasadnia jego znaczenie dla zdrowia i rozwoju, w tym ochrony przed chorobami przewlekłymi;
+3) definiuje pojęcia bulimia i anoreksja; wyjaśnia ich następstwa;
+4) wyjaśnia zagadnienia związane z właściwym, racjonalnym odżywianiem;
+uzasadnia jego znaczenie dla zdrowia i rozwoju, w tym ochrony przed chorobami przewlekłymi.
+5. Uzależnienia. Uczeń:
+1) analizuje objawy różnych rodzajów uzależnień behawioralnych, w tym uzależnienie od komputera, internetu, hazardu;
+2) wie, jakie przekonania dotyczące spożycia alkoholu, palenia tytoniu, brania dopalaczy i narkotyków przez młodzież mogą mieć wpływ na podejmowanie wymienionych zachowań;
+3) zna wiarygodne źródła informacji na temat tendencji i skutków dotyczących spożycia alkoholu, palenia tytoniu, brania dopalaczy i narkotyków przez młodzież w Polsce; wyjaśnia, w jaki sposób można unikać picia alkoholu, palenia tytoniu, brania dopalaczy i narkotyków;
+4) zna zasady odpowiedniego stosowania leków (produktów leczniczych) i suplementów diety;
+5) ustala, co sam może zrobić, aby tworzyć warunki środowiskowe i społeczne, które są korzystne dla zdrowia (ochrona środowiska przyrodniczego, wsparcie społeczne, komunikacja interpersonalna, współpraca osób, instytucji i organizacji na rzecz zdrowia itp.);
+6) wyjaśnia wpływ substancji psychoaktywnych na sprawność kierowcy, zna przepisy prawa dotyczące używania substancji psychoaktywnych i prowadzenia pojazdów.
+Warunki i sposób realizacji W ramach przedmiotu edukacja dla bezpieczeństwa uczniowie zdobywają wiedzę oraz umiejętności umożliwiające zrozumienie zróżnicowanej natury mechanizmów oraz zmiennych wpływających na szeroko pojmowane bezpieczeństwo państwa, ich dynamikę oraz wzajemne zależności wynikające m.in. ze struktury i funkcjonowania państwa. Zadaniem nauczyciela jest też wyrabianie u uczniów nawyków oraz opanowanie zasad działania ratowniczego zarówno w przypadku zagrożeń nadzwyczajnych (wypadki masowe, katastrofy), jak i elementarnej pierwszej pomocy.
+Tempo zachodzących przeobrażeń powinno stanowić dla nauczyciela bodziec do stałego uzupełniania swojej wiedzy, monitorowania zmian, w tym organizacyjno-prawnych, samodoskonalenia, tak by przekazywane uczniom informacje były aktualne, rzetelne (ważna jest tu kontrola materiałów źródłowych innych niż podręcznik oraz materiały opracowane dla nauczyciela, dbałość o wiarygodność informacji).
+Wskazane jest zaplecze umożliwiające przechowywanie pomocy, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów.
+Niezbędny jest sprzęt audiowizualny i prezentacyjny (komputer, rzutnik; zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której realizowane są zajęcia, powinny być zagwarantowane wymienione elementy bazowe.
+Osiągnięcie przez uczniów umiejętności praktycznego udzielania pierwszej pomocy wymaga realizacji zajęć w blokach po dwie godziny lekcyjne. W celu zapewnienia efektywnej nauki przedmiotu klasę należy podzielić na grupy o liczebności nie większej niż 15 uczniów, w szczególności podczas ćwiczeń z resuscytacji krążeniowo-oddechowej.
+Ćwiczenia na manekinach szkoleniowych wymagają zapewnienia uniwersalnych warunków i środków higieny i dezynfekcji (mycie rąk, wymiana worków oddechowych w manekinach, używanie środka odkażającego, maseczek).
+Ze względów bezpieczeństwa uczniowie nie mogą wykonywać ćwiczeń, które mogłyby spowodować przeciążenie kręgosłupa. Dlatego niedozwolone jest podczas zajęć ćwiczenie dźwigania poszkodowanych w ramach doraźnej ewakuacji z miejsca zdarzenia.
+Lekcje w szkole powinny być uzupełniane innymi formami zajęć, wśród których wymienić można:
+1) wizyty w: instytucjach państwa, Centrum Zarządzania Kryzysowego, Straży Pożarnej, stacjach Pogotowia Ratunkowego;
+2) specjalistyczne obozy szkoleniowo-wypoczynkowe realizowane podczas ferii letnich lub krótsze, kilkudniowe kursy;
+3) wycieczki;
+4) zajęcia plenerowe;
+5) tworzenie wystaw prac własnych, klasowych i szkolnych, promujących zdrowy tryb życia i właściwe zachowania w razie zagrożeń;
+6) zwiedzanie wystaw powiązanych z treściami przedmiotu;
+7) spotkania (np. udział w zajęciach), prelekcje, wykłady z pracownikami kluczowych instytucji bezpieczeństwa Policji, Państwowej Straży Pożarnej i Sił Zbrojnych RP oraz pracownikami straży miejskiej, pogotowia, kombatantami, ekologami, psychologami;
+8) udział w konkursach, których zakres zgodny jest bądź zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa.
+Wskazane jest nawiązywanie współpracy między szkołami a lokalnymi jednostkami Policji, Państwową Strażą Pożarną, ośrodkami szkolenia, jednostkami wojskowymi i organizacjami, np. Ochotniczą Strażą Pożarną, Polskim Czerwonym Krzyżem, Ligą Obrony Kraju, zarówno we wspomnianym zakresie prowadzenia zajęć, jak i udostępnianiu specjalistycznego sprzętu czy pomocy dydaktycznych.
+Ważne znaczenie w rozwoju ma też wychowanie mające na celu kształtowanie tzw. postawy patriotycznej oraz poczucia odpowiedzialności za dorobek minionych pokoleń. Trwający proces globalizacyjny we wszystkich obszarach życia generuje nowe problemy, zagrożenia, nakłania do stawiania pytań. Nauczyciel powinien stwarzać warunki sprzyjające swobodnej wymianie myśli i poglądów, z zachowaniem niezbędnej dyscypliny i porządku zajęć.
+Warunki bazowe do realizacji programu: pracownia lub klasa do prowadzenia zajęć z przedmiotu edukacja dla bezpieczeństwa o wielkości umożliwiającej aranżację do ćwiczeń praktycznych, zaplecze lub zabezpieczone miejsce umożliwiające przechowywanie pomocy, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Szkoła powinna posiadać sprzęt audiowizualny i prezentacyjny (komputer, rzutnik; zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której realizowane są zajęcia, powinny być zagwarantowane wymienione elementy bazowe.
+WYCHOWANIE DO ŻYCIA W RODZINIE Cele kształcenia wymagania ogólne I. Pogłębianie wiedzy związanej z funkcjami rodziny, miłością, przyjaźnią, pełnieniem ról małżeńskich i rodzicielskich, seksualnością człowieka i prokreacją; umiejętność podejmowania odpowiedzialnych decyzji dotyczących wyboru drogi życiowej, małżeństwa i rodziny.
+II. Rozwijanie umiejętności rozwiązywania problemów związanych z okresem dojrzewania, dorastania i wyborem drogi życiowej; umiejętność świadomego kreowania własnej osobowości.
+III. Uzyskanie lepszego rozumienia siebie i najbliższego otoczenia; umiejętność poszukiwania i udzielania odpowiedzi na pytania o istotę człowieczeństwa, sens, cele i zadania życiowe.
+IV. Przyjęcie pozytywnej postawy wobec życia ludzkiego, osób niepełnosprawnych i chorych;
+przygotowanie, na podstawie wiedzy i wykształconych umiejętności, do poszanowania godności życia ludzkiego i dojrzałego funkcjonowania w rodzinie.
+V. Znajomość podstawowych zasad postępowania w sferze ludzkiej płciowości i płodności;
+kształtowanie postaw prozdrowotnych, prospołecznych i prorodzinnych.
+Treści nauczania wymagania szczegółowe I. Rodzina. Uczeń:
+1) zna i rozumie konstytucyjnie chronione wartości związane z funkcjonowaniem jednostki w społeczeństwie: małżeństwo, rodzina, macierzyństwo, rodzicielstwo;
+2) rozumie, jakie znaczenie ma zawarcie małżeństwa i jego trwałość dla rozwoju społeczeństwa;
+3) wyjaśnia, na czym polega dojrzałość do małżeństwa (fizyczna, prawna, psychiczna, umysłowa, uczuciowa, społeczna, socjalna), omawia przyczyny niedojrzałości wyboru małżonka (np. chęć ucieczki z domu, nieplanowana ciąża, kwestie materialne);
+4) opisuje fundamenty, na których powinno opierać się dobre małżeństwo;
+5) przedstawia wizję swojego małżeństwa, opisuje fundamenty, na których powinno się ono opierać;
+6) określa znaczenie zobowiązania podejmowanego podczas aktu zaślubin;
+7) odróżnia separację od rozwodu;
+8) rozpoznaje typy struktury rodziny: rodzina wielopokoleniowa, rodzina pełna, rodzina niepełna, rodzina zrekonstruowana;
+9) zna i rozumie funkcje rodziny: prokreacyjna, opiekuńcza, wychowawcza, ekonomiczna i profilaktyczna oraz ich znaczenie na poszczególnych etapach rozwoju człowieka;
+10) przyswaja wartości i tradycje ważne w rodzinie, w tym wspólne świętowanie, organizacja i przeżywanie wolnego czasu;
+11) rozumie, na czym polega wierność, zaufanie i dialog w rodzinie; omawia relacje osobowe w rodzinie, wskazuje czynniki je osłabiające;
+12) wyjaśnia miejsce dziecka w rodzinie;
+13) wskazuje źródło konfliktów i określa ich przyczyny; zna sposoby rozwiązywania konfliktów;
+14) zna prawodawstwo dotyczące rodziny;
+15) omawia prawa i obowiązki małżonków i rodziców, prawa dziecka oraz obowiązki państwa wobec rodziny;
+16) wie, na czym polega instytucjonalna pomoc rodzinie w sytuacji: choroby, uzależnienia, ubóstwa, bezrobocia, zachowań ryzykownych, problemów pedagogicznych, psychologicznych, prawnych.
+II. Dojrzewanie. Uczeń:
+1) rozpoznaje zmiany fizyczne i psychiczne, zróżnicowane, indywidualne tempo rozwoju;
+2) rozumie i akceptuje kryteria dojrzałości biologicznej, psychicznej i społecznej;
+3) zna podstawy higieny okresu dojrzewania; troszczy się o zdrowie: właściwe odżywianie, odpowiedni strój, sen i aktywność fizyczną;
+4) rozumie, czym jest cielesność, płciowość, integracja seksualna;
+5) wskazuje różnice w rozwoju psychoseksualnym dziewcząt i chłopców;
+6) wyjaśnia, na czym polega identyfikacja z własną płcią;
+7) zna zagrożenia okresu dojrzewania: uzależnienia chemiczne behawioralne, presja seksualna, pornografia, prostytucja nieletnich, ekshibicjonizm, także w internecie;
+8) omawia problemy wieku młodzieńczego i sposoby radzenia sobie z nimi;
+9) rozumie, jak budowane są relacje międzyosobowe, wyjaśnia ich znaczenie w rozwoju społeczno-emocjonalnym, w tym: istota koleżeństwa i przyjaźni, sympatie młodzieńcze, pierwsze fascynacje, zakochanie, miłość, wzajemny szacunek, udzielanie sobie pomocy, współpraca, empatia.
+III. Seksualność człowieka. Uczeń:
+1) określa pojęcia związane z seksualnością człowieka: męskość, kobiecość, miłość, małżeństwo, rodzicielstwo;
+2) rozumie znaczenie odpowiedzialności w przeżywaniu własnej płciowości oraz budowaniu trwałych i szczęśliwych więzi;
+3) określa główne funkcje płciowości: wyrażanie miłości, budowanie więzi i rodzicielstwo, wzajemna pomoc i uzupełnianie, integralna współpraca płci;
+4) rozumie, na czym polega odpowiedzialność za sferę seksualną i prokreację;
+5) wie, na czym polega macierzyństwo i ojcostwo, posiada podstawową wiedzę dotyczącą budowy i funkcjonowania układu rozrodczego człowieka;
+6) rozumie związek między aktywnością seksualną a miłością i odpowiedzialnością;
+7) omawia problemy związane z przedmiotowym traktowaniem człowieka w dziedzinie seksualnej;
+8) rozumie, na czym polega prawo człowieka do intymności i ochrona tego prawa;
+9) przedstawia przyczyny, skutki i profilaktykę przedwczesnej inicjacji seksualnej;
+10) zna choroby przenoszone drogą płciową; rozumie ich specyfikę, rozwój i objawy;
+wie, jakie są drogi przenoszenia zakażenia, zna zasady profilaktyki.
+IV. Życie jako fundamentalna wartość. Uczeń:
+1) rozumie potrzebę planowania dzietności rodziny;
+2) rozumie potrzebę przygotowania kobiety i mężczyzny na poczęcie dziecka i wie, czym jest odpowiedzialne rodzicielstwo;
+3) rozumie, czym jest opieka prekoncepcyjna i prenatalna;
+4) ma szacunek dla ludzkiego życia od poczęcia do naturalnej śmierci;
+5) rozumie, na czym polega gotowość członków rodziny na przyjęcie dziecka z niepełnosprawnością aspekt medyczny, psychologiczny, społeczny.
+V. Płodność. Uczeń:
+1) rozumie, że płodność jest wspólną sprawą mężczyzny i kobiety;
+2) wyjaśnia fizjologię płodności i jej neurohormonalne uwarunkowania;
+3) zna metody rozpoznawania płodności;
+4) określa problemy niepłodności: rodzaje, przyczyny, skutki; profilaktyka i leczenie;
+5) wie, czym jest ciąża i poród oraz przyjęcie dziecka jako nowego członka rodziny;
+6) omawia antykoncepcję i wskazuje jej rodzaje i skutki w aspekcie medycznym, psychologicznym i moralnym.
+VI. Postawy. Uczeń:
+1) potrafi komunikować swoje uczucia i budować prawidłowe relacje w rodzinie i grupie społecznej;
+2) rozumie, na czym polega odpowiedzialność wszystkich członków za atmosferę panującą w rodzinie;
+3) radzi sobie w sytuacji konfliktu, presji grupy, stresu; umie obronić własne poglądy;
+4) zna zasady savoir-vivre'u w domu rodzinnym i różnych sytuacjach społecznych;
+5) rozumie zasady komunikacji werbalnej i niewerbalnej i jej znaczenie w relacjach interpersonalnych; bierze udział w życiu społecznym poprzez wolontariat, stowarzyszenia, grupy nieformalne i aktywność indywidualną; jest wrażliwy na osoby potrzebujące pomocy i konkretne sposoby jej udzielania;
+6) rozumie, że osoby z niepełnosprawnością mogą być kolegami i przyjaciółmi;
+świadomie korzysta ze środków społecznego przekazu;
+7) jest odpowiedzialny za własny rozwój i samowychowanie.
+Warunki i sposób realizacji Punktem wyjścia przedmiotu wychowanie do życia w rodzinie jest założenie, że zdolność człowieka do miłości jest rezultatem szacunku i miłości do samego siebie. Zmiany psychiczne, dokonujące się w procesie dojrzewania, wyrażające się we wzroście samoświadomości, krytycyzmie, zdolności do abstrakcyjnego myślenia, stanowią podstawę dojrzałości, która umożliwia człowiekowi odpowiedzialne podejmowanie decyzji prowadzących do założenia rodziny. Zagadnienia te są związane z samookreślaniem się jednostki, tworzeniem poczucia własnej wartości, szacunku dla samego siebie, ochrony własnego „ja” i stanowią podstawę refleksji na temat odpowiedzialności za własne życie.
+Kolejny blok zagadnień jest związany ze zrozumieniem istoty procesu dojrzewania.
+Świadome przeżywanie i akceptacja zmian biologicznych związanych z dojrzewaniem płciowym, spostrzeganie ich w perspektywie całości ludzkiego życia umożliwi przeciwstawianie się szkodliwym stereotypom dotyczącym ciała, zdrowia, rozumienia seksualności, dorosłości, wolności i miłości. Poznanie i zrozumienie ważności zmian w funkcjonowaniu własnego ciała, budzącej się seksualności i zdolności do prokreacji (w sensie biologicznym) oraz mechanizmów nią rządzących, powinny stać się w przyszłości podstawą świadomego macierzyństwa i ojcostwa.
+Podstawa programowa obejmuje ponadto zagadnienia związane z tworzeniem pozytywnych relacji z innymi ludźmi. Treści są skoncentrowane wokół pozytywnych aspektów płciowości, seksualności, życia w grupie rówieśniczej i w rodzinie oraz mają budować poczucie odpowiedzialności za siebie i innych. Poznanie podstawowych zasad komunikacji i przełożenie ich na konkretne zachowania w relacjach koleżeńskich i rodzinnych powinny uświadomić uczniom bogactwo form wyrażania pozytywnych uczuć i umożliwić w przyszłości budowanie wartościowych, intymnych więzi z płcią przeciwną w fazie tworzenia związku i zakładania rodziny.
+Ze względu na konieczność podziału klasy na grupy dziewcząt i chłopców przy realizacji niektórych tematów oraz ze względu na zapewnienie młodzieży dobrowolności uczestnictwa wskazane byłoby przeprowadzanie tych zajęć na pierwszej lub ostatniej godzinie lekcyjnej.
+Nauczyciel powinien stworzyć w czasie lekcji atmosferę otwartości, szczerości, zaufania i dyskrecji.
+ETYKA Cele kształcenia wymagania ogólne I. Tożsamość, podmiotowość i rozwój moralny.
+1. Rozwijanie wrażliwości moralnej.
+2. Identyfikowanie i rozumienie wartości, norm oraz postaw moralnych związanych z różnymi dziedzinami życia indywidualnego i społecznego.
+3. Rozwijanie postawy szacunku wobec każdego człowieka.
+4. Rozwijanie postawy odpowiedzialności za siebie oraz swoje społeczne i przyrodnicze otoczenie.
+5. Rozwijanie umiejętności krytycznego myślenia.
+6. Identyfikowanie i analizowanie problemów i dylematów moralnych.
+7. Tworzenie aksjologiczno-moralnego komponentu własnego światopoglądu.
+8. Rozwijanie postaw społecznych, obywatelskich i patriotycznych.
+II. Tworzenie wypowiedzi.
+1. Formułowanie pytań dotyczących sfery aksjologiczno-moralnej.
+2. Formułowanie sądów wartościujących oraz ich uzasadnianie.
+3. Doskonalenie umiejętności uczestniczenia w dialogu i umiejętności dyskutowania o zagadnieniach moralnych.
+III. Samokształcenie.
+1. Rozwijanie umiejętności samodzielnego poszukiwania i wartościowania informacji oraz odpowiedzialnego korzystania z wiedzy.
+2. Kształcenie umiejętności uczenia się.
+3. Rozwijanie samoświadomości moralnej.
+Treści nauczania wymagania szczegółowe I. Elementy etyki ogólnej.
+1. Podstawy etyki. Uczeń:
+1) wie i wyjaśnia, czym jest etyka;
+2) analizuje i wyjaśnia relacje między etyką, moralnością, obyczajami, prawem i religią;
+3) wyjaśnia, na czym polega uniwersalny charakter norm moralnych;
+4) wyjaśnia różnicę między dobrem i złem moralnym a dobrem i złem pozamoralnym;
+5) objaśnia pojęcia: dobro i zło, wartość, godność, prawda, wolność, odpowiedzialność oraz rozważa rolę tych pojęć w etyce;
+6) objaśnia klasyczne rozumienie osoby oraz wymienia i wyjaśnia specyficzne zdolności osoby ludzkiej: intelektualne poznanie, wolność, miłość.
+2. Analiza ludzkiego działania w aspekcie moralnym. Uczeń:
+1) identyfikuje główne elementy struktury ludzkiego działania: podmiot (sprawca), adresat, przedmiot (wewnętrzna treść), motyw, intencja, skutki, okoliczności;
+2) rozpoznaje i nazywa podstawowe emocje oraz uczucia; posługuje się nazwami emocji i uczuć do charakteryzowania przeżyć własnych oraz przeżyć innych osób rzeczywistych i fikcyjnych;
+3) zna różne kryteria moralnego wartościowania i posługuje się nimi przy wyznaczaniu moralnej wartości czynów;
+4) zna, objaśnia i stosuje główne kategorie deontyczne: działania nakazane, zakazane, dozwolone, chwalebne (supererogacyjne);
+5) zna, objaśnia i stosuje główne kategorie aretyczne: cnota, wada, charakter, wzór osobowy;
+6) charakteryzuje roztropność jako zdolność usprawniającą podmiot do podejmowania trafnych decyzji; rozwija cnotę roztropności;
+7) zna i wyjaśnia klasyczną koncepcję sumienia, kształtuje sumienie;
+8) wykorzystuje pojęcia dyskursu etycznego do analizowania przeżyć, działań i postaw bohaterów powieści, opowiadań, filmów, spektakli teatralnych, gier komputerowych.
+II. Wybrane zagadnienia etyki szczegółowej (praktycznej, stosowanej, zawodowej).
+1. Etyka życia osobistego (indywidualnego). Uczeń:
+1) identyfikuje i analizuje problem sensu życia w kontekście klasycznego pytania etycznego: „jak należy żyć?”;
+2) identyfikuje i analizuje problem szczęścia, rozważa relację szczęścia do moralności;
+3) identyfikuje i analizuje moralne aspekty przyjaźni, charakteryzuje przyjaźń jako relację międzyosobową, ocenia wartość przyjaźni;
+4) identyfikuje i analizuje moralne aspekty miłości, charakteryzuje miłość jako relację międzyosobową, rozważa relację miłości do moralności;
+5) wyjaśnia ideę rozwoju moralnego i podaje przykłady działań egoistycznych, konformistycznych, altruistycznych;
+6) wyjaśnia, na czym polega autonomia człowieka, podaje przykłady działań i postaw autonomicznych i nieautonomicznych;
+7) podaje przykłady działań, które są wyrazem troski o własne zdrowie i życie;
+wyjaśnia, dlaczego należy odnosić się z szacunkiem do własnego ciała;
+8) analizuje problem stosowania środków psychoaktywnych i formułuje ocenę moralną dotyczącą tego typu działań (m.in. na przykładzie skutków ich stosowania przez uczestników ruchu drogowego);
+9) identyfikuje i analizuje moralne aspekty ludzkiej seksualności, rozpoznaje biologiczne, psychiczne, społeczne i kulturowe uwarunkowania ludzkiej seksualności, formułuje ocenę moralną różnych zachowań seksualnych;
+10) identyfikuje i analizuje moralne aspekty życia rodzinnego, zna i porównuje różne historyczne i kulturowe modele rodziny, wyjaśnia znaczenie relacji rodzinnych w kontekście rozwoju moralnego człowieka, ocenia wartość rodziny;
+11) wyjaśnia, dlaczego człowiekowi należy okazywać szacunek; kształtuje postawę szacunku wobec każdego człowieka;
+12) analizuje fenomen śmierci, rozpoznaje biologiczne, psychiczne, społeczno-kulturowe aspekty śmierci i umierania.
+2. Bioetyka. Uczeń identyfikuje i rozważa problemy moralne związane z:
+1) początkiem ludzkiego życia (np. sztuczne zapłodnienie, aborcja);
+2) trwaniem i rozwojem ludzkiego życia (np. transplantacje, inżynieria genetyczna klonowanie);
+3) końcem ludzkiego życia (np. uporczywa terapia, opieka paliatywna, eutanazja, samobójstwo).
+3. Etyka społeczna i polityczna. Uczeń:
+1) charakteryzuje relację: polityka moralność;
+2) rozważa zagadnienie relacji: jednostka społeczeństwo w kontekście sporu między indywidualizmem a kolektywizmem;
+3) rozważa zagadnienie naczelnych wartości w życiu społecznym w kontekście sporu między liberalizmem kulturowym a konserwatyzmem;
+4) wyjaśnia pojęcie dobra wspólnego oraz podaje przykłady realizacji tego rodzaju dobra; angażuje się w realizację dobra wspólnego;
+5) wyjaśnia znaczenie zasady solidaryzmu i kształtuje postawę solidarności (m.in. na przykładzie relacji do osób niepełnosprawnych);
+6) wyjaśnia pojęcie sprawiedliwości; kształtuje cnotę sprawiedliwości;
+7) rozważa zagadnienie granic tolerancji, kształtuje postawę otwartości i tolerancji;
+8) wyjaśnia pojęcie praw człowieka, analizuje wybrane artykuły Powszechnej Deklaracji Praw Człowieka, wskazuje przykłady łamania praw człowieka oraz rozważa różne sposoby ich ochrony;
+9) rozważa wady i zalety demokracji;
+10) rozważa znaczenie prawdy w życiu indywidualnym, społecznym i politycznym, kształtuje postawę uczciwości;
+11) rozpoznaje różne przejawy kłamstwa, zna społeczne skutki kłamstwa, dokonuje moralnej oceny kłamstwa;
+12) identyfikuje i analizuje problemy moralne dotyczące kwestii wolności słowa i jej granic;
+13) analizuje problem relacji między sztuką a moralnością, rozważa zagadnienie wolności artystycznej i jej granic;
+14) wyjaśnia pojęcie feminizmu, zna i rozważa wybrane postulaty feminizmu;
+15) rozważa kwestię różnorodności kulturowej Europy i świata, wartościowania kultur i dialogu międzykulturowego, identyfikuje i analizuje problemy moralne dotyczące kwestii imigrantów i uchodźców;
+16) rozważa moralne aspekty wojny i pokoju, rozważa zjawisko terroryzmu i formułuje jego ocenę moralną;
+17) wyjaśnia pojęcie kary kryminalnej, zna główne koncepcje kary kryminalnej, rozważa kwestię uzasadnienia stosowania kary kryminalnej; rozważa argumenty za i przeciw karze śmierci, formułuje ocenę moralną kary śmierci.
+4. Etyka a nauka i technika. Uczeń:
+1) podaje przykłady właściwego i niewłaściwego wykorzystywania nowych technologii w szczególności technologii informatycznych;
+2) jest świadomy, że postęp cywilizacyjny dokonuje się dzięki wiedzy; wyjaśnia, dlaczego wiedza jest dobrem (wartością);
+3) identyfikuje i analizuje wybrane problemy moralne związane z postępem naukowo-technicznym (np. problem ochrony prywatności, problem ochrony praw autorskich, problem cyberprzemocy, rozwój sztucznej inteligencji, transhumanizm).
+5. Etyka środowiskowa. Uczeń:
+1) określa, czym jest bioróżnorodność, uzasadnia potrzebę ochrony bioróżnorodności;
+2) rozważa zagadnienie moralnego statusu zwierząt;
+3) formułuje argumenty na rzecz ochrony przyrody, angażuje się w działania na rzecz ochrony środowiska.
+6. Etyki zawodowe. Uczeń:
+1) wyjaśnia związek między uczeniem się a wykonywaną pracą, wyjaśnia znaczenie pracy zarobkowej;
+2) objaśnia, czym jest społeczna odpowiedzialność biznesu;
+3) wyjaśnia pojęcie etyki zawodowej oraz kodeksu etyki zawodowej;
+4) w analizie wybranych zagadnień z zakresu etyk zawodowych wykorzystuje zapisy stosownych kodeksów etycznych;
+5) rozważa zalety i wady kodeksów etycznych;
+6) tworzy kodeks etyczny klasy (szkoły).
+Warunki i sposób realizacji Podstawa programowa etyki dla branżowej szkoły I stopnia opiera się na określonych założeniach dotyczących warunków (podmiotowych, przedmiotowych i organizacyjnych) oraz sposobu jej realizacji.
+Uczniowie uczęszczający na zajęcia z etyki będą zmagali się z typowymi zadaniami rozwojowymi okresu dorastania, takimi jak: psychiczne usamodzielnianie się wobec rodziców i innych dorosłych, interioryzowanie określonych wartości, zasad, wzorców, wypracowywanie satysfakcjonujących relacji z innymi (przede wszystkim z rówieśnikami), przygotowanie się do wyboru i pełnienia doniosłych ról społecznych (partnerskich, małżeńskich, rodzicielskich, zawodowych, obywatelskich). Zazwyczaj z tego typu zadaniami idą w parze takie postawy, przeżycia i zachowania jak: niepewność, kontestacja, zmienność emocjonalna i poznawcza, krytycyzm, ciekawość, skłonność do poszukiwań i eksperymentowania. Lekcje etyki mają dopomóc uczniowi w jego samoidentyfikacji jako podmiotu moralnego i stymulować jego rozwój moralny na poziomie kognitywno-afektywnym i behawioralnym. Nauczyciel powinien stworzyć takie warunki na lekcjach etyki, aby uczniowie mogli uświadamiać sobie różne aspekty podmiotowości, aby mogli swobodnie wyrażać swoje przekonania, konfrontować je z przekonaniami innych i uczestniczyć we wspólnym, krytycznym i odpowiedzialnym analizowaniu zachowań, postaw i poglądów własnych oraz innych osób rzeczywistych i fikcyjnych.
+Treści nauczania zawarte w podstawie programowej zostały podzielone na dwie zasadnicze części. Część pierwsza obejmuje wybrane najważniejsze pojęcia i wybrane koncepcje z zakresu etyki ogólnej. Treści określone w części pierwszej mają dostarczać uczniom ogólnego, teoretycznego instrumentarium, pozwalającego w sposób rzetelny, podejmować namysł nad zagadnieniami szczegółowymi opisanymi w części drugiej.
+Wyszczególnione w tej części podstawy programowej treści nauczania nie obejmują wszystkich istotnych zagadnień ogólnych składających się na wiedzę o etyce ograniczono się do kluczowych kwestii, inne jedynie zostały zasygnalizowane. Część z tych zagadnień została określona w podstawie programowej etyki dla II etapu edukacyjnego. Nauczyciel etyki powinien zdiagnozować, czy uczniowie uczestniczący w prowadzonych przez niego zajęciach dysponują wiedzą z zakresu tego przedmiotu opisaną w podstawie programowej dla II etapu edukacyjnego. Jeżeli nauczyciel uzna, że należy rozbudować określone zagadnienia z zakresu etyki ogólnej, może skorzystać z treści zawartych w podstawie programowej etyki dla II etapu edukacyjnego. W podstawie programowej nie określono treści z zakresu historii etyki. Nauczyciel może takie treści wprowadzać najlepiej w kontekście omawianych pojęć i problemów etycznych.
+kompetencji kluczowych oraz z zakresu etyki życia osobistego, ze względu na opisane już warunki podmiotowe podstawy programowej. Ze względu na dużą doniosłość praktyczną w podstawie programowej wyszczególniono także wybrane zagadnienia bioetyczne oraz zagadnienia z zakresu etyki środowiskowej, etyki nauki i etyk zawodowych. Określona w tej części podstawy programowej lista zagadnień ma charakter otwarty. Nauczyciel, a przede wszystkim sami uczniowie, mogą uzupełniać ową listę o zagadnienia w niej niewymienione, a będące przedmiotem szczególnego zainteresowania uczestników zajęć.
+W ramach edukacji etycznej uczniowie powinni wykorzystywać nowoczesne technologie informatyczno-komunikacyjne, respektując prawo autorskie i zasady bezpieczeństwa w sieci.
+W szczególności stałym komponentem metodycznym edukacji etycznej powinna być racjonalna, respektująca wymogi logiki, ale i etyki dyskusja. Stałą praktyką dydaktyczną powinno być również odwoływanie się do różnorodnych codziennych doświadczeń uczestników zajęć oraz do różnych tekstów kultury.
+JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ Cele kształcenia wymagania ogólne I. Świadomość własnego dziedzictwa narodowego lub etnicznego.
+1. Rozumienie znaczenia literatury i kultury w kształtowaniu poczucia tożsamości narodowej lub etnicznej.
+2. Rozwijanie wiedzy z zakresu kultury narodowej lub etnicznej.
+II. Kształcenie językowe.
+1. Rozumienie wartości języka ojczystego oraz jego funkcji w budowaniu wspólnoty rodzinnej, narodowej i kulturowej.
+2. Kształtowanie odpowiedzialności za świadome posługiwanie się językiem ojczystym.
+3. Zdobycie funkcjonalnej wiedzy na temat wybranych zagadnień z zakresu gramatyki opisowej.
+4. Rozwijanie umiejętności poprawnego mówienia i pisania zgodnego z zasadami poprawności językowej.
+III. Kształcenie literackie i kulturowe.
+1. Rozwijanie umiejętności analizy i interpretacji utworów literackich i innych tekstów kultury z wykorzystaniem podstawowej terminologii.
+2. Rozumienie zależności między wydarzeniami historycznymi a literaturą i kulturą.
+3. Rozwijanie poczucia odpowiedzialności za przyjmowaną hierarchię wartości.
+IV. Tworzenie wypowiedzi.
+1. Rozwijanie umiejętności wypowiadania się w różnych formach.
+2. Doskonalenie umiejętności wygłaszania, recytacji i interpretacji głosowej tekstów.
+3. Doskonalenie umiejętności tworzenia wypowiedzi pisemnych.
+4. Wyrażanie własnych poglądów i opinii.
+5. Tworzenie wypowiedzi pisemnych, z uwzględnieniem estetyki tekstu i zasad jego organizacji, również z wykorzystaniem nowoczesnych technologii.
+Treści nauczania wymagania szczegółowe I. Świadomość własnego dziedzictwa narodowego lub etnicznego. Uczeń:
+1) analizuje różne wzorce postaw społecznych, narodowych, obywatelskich, obyczajowych, kulturowych, moralnych, religijnych i w ich kontekście kształtuje swoją tożsamość;
+2) rozumie tematy, motywy, toposy charakterystyczne dla literatury narodowej;
+3) rozumie związek poznanych utworów z życiem narodu i różnych grup wspólnotowych.
+II. Kształcenie językowe.
+1. Gramatyka. Uczeń:
+1) odmienia części mowy;
+2) wskazuje funkcje składniowe wyrazów użytych w zdaniu;
+3) analizuje zdania złożone współrzędnie i podrzędnie, rozpoznaje równoważniki zdań.
+2. Zróżnicowanie języka. Uczeń rozumie pojęcie stylu, rozpoznaje styl potoczny, urzędowy, artystyczny, naukowy, publicystyczny.
+3. Komunikacja językowa i kultura języka. Uczeń:
+1) posługuje się oficjalną i nieoficjalną odmianą języka narodowego lub etnicznego;
+2) świadomie korzysta z zasobów internetu, w tym multimedialnych, np.
+bibliotek, słowników on-line, wydawnictw e-book, autorskich stron internetowych twórców; dokonuje wyboru źródeł internetowych, uwzględniając kryterium poprawności rzeczowej oraz krytycznie ocenia ich wartość, przestrzega praw autorskich;
+3) stosuje uczciwe zabiegi perswazyjne, zdając sobie sprawę z ich wartości i funkcji;
+4) rozpoznaje typ nadawcy i adresata tekstu;
+5) stosuje zasady etyki i etykiety językowej, wie, w jaki sposób zwracać się do rozmówcy w zależności od sytuacji i relacji z rozmówcą.
+4. Odbiór przekazu językowego. Uczeń:
+1) odczytuje sens tekstów artystycznych, publicystycznych (artykuł, reportaż), popularnonaukowych, prasowych (wiadomość, komentarz), również tych umieszczonych w internecie, uwzględniając zawarte w nich informacje zarówno jawne, jak i ukryte;
+2) nazywa swoje reakcje czytelnicze (np. wrażenia).
+5. Ortografia i interpunkcja. Uczeń pisze poprawnie pod względem ortograficznym i interpunkcyjnym.
+III. Kształcenie literackie i kulturowe. Analiza i interpretacja utworów literackich. Uczeń:
+1) rozpoznaje podstawowe motywy (np. ojczyzny, poety, matki, ziemi) oraz ich funkcje w utworze;
+2) wykorzystuje w interpretacji utworu konteksty: literacki, biograficzny;
+3) dostrzega obecne w utworach literackich oraz innych tekstach kultury wartości narodowe i uniwersalne.
+IV. Tworzenie wypowiedzi.
+1. Mówienie. Uczeń:
+1) tworzy samodzielną wypowiedź argumentacyjną według podstawowych zasad logiki i retoryki (stawia tezę lub hipotezę, dobiera argumenty, porządkuje je, hierarchizuje, dokonuje ich selekcji pod względem użyteczności wypowiedzi, podsumowuje, dobiera przykłady ilustrujące wywód myślowy, przeprowadza prawidłowe wnioskowanie);
+2) publicznie wygłasza przygotowaną przez siebie wypowiedź, dbając o dźwiękową wyrazistość przekazu (w tym także tempo mowy i donośność, poprawny akcent wyrazowy oraz poprawną intonację zdania).
+2. Pisanie. Uczeń:
+1) tworzy dłuższy tekst pisany (podanie, rozprawka, recenzja, referat, interpretacja utworu literackiego lub jego fragmentu) zgodnie z podstawowymi regułami jego organizacji, przestrzegając zasad spójności znaczeniowej i logicznej, w tym celu posługuje się również technologią informacyjno-komunikacyjną;
+2) tworzy samodzielną wypowiedź argumentacyjną według podstawowych zasad logiki i retoryki (stawia tezę lub hipotezę, dobiera argumenty, porządkuje je, hierarchizuje, dokonuje ich selekcji pod względem użyteczności wypowiedzi, podsumowuje, dobiera przykłady ilustrujące wywód myślowy, przeprowadza prawidłowe wnioskowanie);
+3) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi).
+Warunki i sposób realizacji Szkoła ponadpodstawowa to czas budowania poczucia własnej świadomości narodowej lub etnicznej, poznawania kultury, doskonalenia umiejętności komunikacyjnych, myślenia konkretnego i abstrakcyjnego. To również okres intensywnego rozwoju osobowości ucznia, zarówno pod względem intelektualnym, jak i emocjonalnym, jego zainteresowań, wyznaczania sobie celów, do których dąży. Na tym etapie edukacyjnym uczeń tworzy fundamenty swojego światopoglądu, kształtuje hierarchię wartości, samodzielnie analizuje i porządkuje rzeczywistość. Staje się świadomym odbiorcą kultury, potrafi dostrzegać i rozumieć wartości narodowe lub etniczne i uniwersalne.
+Zadaniem nauczyciela języka mniejszości narodowej lub etnicznej jest przede wszystkim:
+1) pogłębianie poczucia tożsamości narodowej lub etnicznej, szacunku do kultury i tradycji;
+2) rozwijanie motywacji do poznawania języka, kultury, tradycji;
+3) zapoznanie z najważniejszymi tendencjami w kulturze współczesnej mniejszości narodowej lub etnicznej;
+4) kształtowanie postawy otwartości wobec innych kultur i szacunku dla ich dorobku;
+5) rozwijanie umiejętności sprawnego posługiwania się językiem mniejszości narodowej lub etnicznej w różnych sytuacjach komunikacyjnych z zachowaniem norm kultury, etyki i etykiety językowej;
+6) rozwijanie umiejętności posługiwania się różnymi gatunkami wypowiedzi ustnych i pisemnych, które są niezbędne w edukacji szkolnej oraz w różnych sytuacjach życiowych;
+7) inspirowanie ucznia do samodzielnego poszukiwania źródeł wiedzy, również z wykorzystaniem środowiska wirtualnego z zachowaniem zasad bezpieczeństwa w sieci.
+Nauczyciel odwołuje się do wiedzy i umiejętności, które uczeń nabył na wcześniejszych etapach edukacyjnych. Uczy świadomego, krytycznego odbioru tekstów kultury. Zwraca uwagę na specyfikę życia mniejszości narodowej lub etnicznej. Stwarza warunki do samodzielnego rozwoju intelektualnego oraz inspiruje do pogłębiania wiedzy. W tym celu stosuje wybrane metody wspierające rozwój ucznia, w tym metodę projektu, polegającą na szerokiej współpracy między uczniami.
+JĘZYK REGIONALNY JĘZYK KASZUBSKI Cele kształcenia wymagania ogólne I. Świadomość własnego dziedzictwa regionalnego.
+1. Rozumienie znaczenia literatury i kultury w kształtowaniu poczucia tożsamości regionalnej.
+2. Pogłębianie znajomości literatury, języka, historii i kultury regionu.
+3. Przygotowanie do świadomego uczestnictwa w życiu społeczności lokalnej.
+II. Kształcenie językowe.
+1. Kształcenie umiejętności posługiwania się leksykalnymi zasobami języka.
+2. Świadome wykorzystanie języka regionalnego do wzmacniania poczucia tożsamości i uczestnictwa w życiu wspólnoty regionalnej.
+3. Pogłębianie wiedzy na temat zagadnień z zakresu nauki o języku.
+4. Wzbogacanie umiejętności komunikacyjnych, wykorzystywanie języka kaszubskiego w różnych sytuacjach.
+5. Stosowanie szeroko pojętej indywidualizacji nauczania w wyrównywaniu kompetencji językowych uczniów.
+6. Wyrabianie szacunku do lokalnych odmian języka regionalnego.
+III. Kształcenie literackie i kulturowe.
+1. Poznawanie i poszerzanie zakresu znajomości literatury kaszubskiej.
+2. Kształcenie umiejętności analizy i interpretacji dzieł literackich i innych tekstów kultury.
+3. Kształtowanie umiejętności świadomego uczestniczenia w kulturze: regionalnej, polskiej, europejskiej i światowej.
+4. Kształcenie szacunku dla kultury własnej i innych.
+5. Rozwijanie zainteresowania kulturą w środowisku lokalnym i rozwijanie potrzeby uczestnictwa w wydarzeniach kulturalnych.
+IV. Tworzenie wypowiedzi.
+Rozwijanie umiejętności wypowiadania się w języku kaszubskim w różnych formach wypowiedzi ustnych i pisemnych.
+2. Szerokie wykorzystywanie kompetencji językowych w różnych sytuacjach.
+Doskonalenie umiejętności wyrażania własnych sądów, poglądów i opinii.
+Treści nauczania wymagania szczegółowe I. Świadomość własnego dziedzictwa regionalnego. Uczeń:
+1) analizuje różne wzorce postaw i w ich kontekście kształtuje swoją tożsamość;
+2) rozumie tematy, motywy, toposy charakterystyczne dla literatury kaszubskiej;
+3) rozumie kontekst kulturowy poznawanych utworów literackich.
+II. Kształcenie językowe.
+1. Gramatyka. Uczeń:
+1) wykazuje się wiedzą z zakresu fonetyki, fleksji, słowotwórstwa i składni;
+2) odnosi się z szacunkiem do lokalnych odmian języka regionalnego;
+3) stosuje w tekście zasady ortografii i interpunkcji.
+2. Zróżnicowanie języka. Uczeń:
+1) wie, że język jest systemem znaków, a komunikacja odbywa się na poziomie werbalnym i niewerbalnym;
+2) rozpoznaje wyrazy wieloznaczne i rozumie ich znaczenia w tekście;
+3) rozumie pojęcie stylu i potrafi rozpoznać różne jego rodzaje;
+4) rozpoznaje funkcje języka w tekście.
+3. Komunikacja językowa i kultura języka. Uczeń:
+1) posługuje się literacką odmianą języka w piśmie oraz literacką lub lokalną odmianą w mowie;
+2) stosuje poprawne formy wyrazów w komunikowaniu się za pomocą środków elektronicznych;
+3) świadomie korzysta z zasobów internetu oraz krytycznie ocenia ich wartość;
+4) stosuje zasady etyki i etykiety językowej, wie, w jaki sposób zwracać się do rozmówcy w zależności od sytuacji i relacji z rozmówcą.
+4. Odbiór przekazu językowego. Uczeń odczytuje sens tekstu (np. znaczenia wyrazów, związków frazeologicznych, zdań, grup zdań porządkowanych w akapicie), potrafi wydzielić jego fragmenty i objaśnić ich sens oraz funkcję na tle całości.
+III. Kształcenie literackie i kulturowe.
+1. Analiza i interpretacja utworów literackich. Uczeń:
+1) rozpoznaje rodzaje i gatunki literackie, potrafi wymienić ich cechy;
+2) rozpoznaje zastosowane w utworze językowe środki wyrazu artystycznego oraz inne wyznaczniki poetyki danego utworu i określa ich funkcje;
+3) rozpoznaje w utworze sposoby kreowania bohatera i świata przedstawionego;
+4) rozpoznaje podstawowe motywy i toposy (np. ojczyzny, poety, matki, ziemi, wędrówki) oraz ich funkcje w utworze.
+2. Odbiór tekstów kultury. Uczeń:
+1) interpretuje dzieła sztuki;
+2) określa wartości poznawanych tekstów kultury.
+IV. Tworzenie wypowiedzi.
+1. Mówienie. Uczeń:
+1) tworzy samodzielną wypowiedź argumentacyjną według podstawowych zasad logiki i retoryki;
+2) wypowiada się na tematy poruszane w toku edukacji;
+3) publicznie wygłasza przygotowaną przez siebie wypowiedź.
+2. Pisanie. Uczeń:
+1) hierarchizuje informacje zawarte w tekście;
+2) tworzy tekst własny, stosując adekwatną do tematu formę wypowiedzi;
+3) opracowuje redakcyjnie własny tekst (dokonuje przeróbek, uzupełnień, transformacji, skrótów, eliminuje przypadkową niejednoznaczność wypowiedzi).
+Lista lektur Proza:
+1) Budzisz Alojzy, wybrany utwór lub jego fragment;
+2) Ceynowa Florian, Rozmòwa Kaszëbë z Pòlôchã, (fragmenty);
+3) Derdowski Hieronim, O panu Czôrlińsczim, co do Pùcka pò sécë jachôł, (fragmenty);
+4) Labuda Aleksander, Guczów Mack gôdô (wybrane felietony);
+5) Łajming Anna, Czterolistna koniczyna (wybrane opowiadania lub ich fragmenty);
+6) Majkowski Aleksander, Żëcé i przigòdë Remùsa (fragmenty);
+7) Walkusz Jan, Sztrądã słowa (fragmenty).
+Poezja: Wybrane utwory następujących poetów: Bieszk Stefan, Derdowski Hieronim, Drzeżdżon Jan, Fopke Tomasz, Janke Stanisław, Karnowski Jan, Sędzicki Franciszek, Trepczyk Jan.
+Dramat:
+1) Karnowski Jan, Scynanié kani (fragmenty);
+2) Sychta Bernard, wybrany dramat (we fragmentach).
+Przekłady:
+1) Mickiewicz Adam, Pón Tadeùsz to je òstatny najachùnk na Lëtwie. Szlacheckô historiô z rokù 1811 i 1812 w dwanôsce knégach wiérszã, tł. S. Janke (fragmenty do wyboru);
+2) Kryłow Iwan, Pòwiôstczi, tł. L. Szulc (wybrane utwory).
+Warunki i sposób realizacji Podstawa programowa języka regionalnego języka kaszubskiego dla branżowej szkoły I stopnia kontynuuje cele i założenia podstawy programowej z I i II etapu edukacyjnego.
+W nauczaniu języka i kultury kaszubskiej w branżowej szkole I stopnia należy uwzględniać szczególnie treści związane z wybranym kierunkiem kształcenia zawodowego.
+Celem edukacji kaszubskiej jest kształtowanie i rozwój językowej, kulturowej i tożsamościowej świadomości młodego człowieka, o czym nie należy zapominać także i na tym etapie. Umacnianie i rozwój tożsamości kaszubskiej powinny być realizowane przez zaangażowanie w relacje ze środowiskiem i uczestnictwo w przedsięwzięciach kulturalnych.
+Nieodłączną częścią edukacji kaszubskiej jest jej realizacja poza szkołą, w naturalnym środowisku językowym i kulturowym Kaszub. Należy zadbać o stworzenie warunków dydaktycznych dla uczenia się i nauczania w działaniu i poprzez działanie. Jej celem jest tworzenie możliwości bezpośredniego rozmawiania w języku kaszubskim z osobami, które uczestniczą w codzienności za pośrednictwem języka kaszubskiego także podczas wspólnej pracy. Ponadto pretekstem do uczestniczenia w zdarzeniach językowych mogą być konteksty społeczno-historyczne powstania tekstów kultury, miejsca związane z biografiami twórców czy miejsca związane z historią opowiadaną przez teksty kultury. Kształcenie koncentruje się na wprowadzaniu ucznia w relację między społeczeństwem i jego kulturą, ze szczególnym akcentem na tematykę związaną z poznawanymi zawodami/poznawanym zawodem.
+Podstawa programowa zakłada konieczność realizowania edukacji skoncentrowanej na rozwoju ucznia w zakresie wiedzy, umiejętności i postaw społecznych. Nauka literatury kaszubskiej powinna być prowadzona w języku kaszubskim, przy zastosowaniu metod rozwijających rozumienie i umiejętności analizy oraz interpretacji dzieł literackich i innych tekstów kultury.
+PODSTAWA PROGRAMOWA KSZTAŁCENIA OGÓLNEGO DLA SZKOŁY POLICEALNEJ WYCHOWANIE FIZYCZNE Wychowanie fizyczne pełni ważne funkcje edukacyjne, rozwojowe i zdrowotne: wspiera rozwój fizyczny, psychiczny, intelektualny i społeczny słuchaczy oraz kształtuje obyczaj aktywności fizycznej i troski o zdrowie w okresie całego życia, wspomaga efektywność procesu uczenia się oraz pełni wiodącą rolę w edukacji zdrowotnej słuchaczy.
+Oczekiwania wobec współczesnego wychowania fizycznego wymagają nowych standardów przygotowania ucznia do całożyciowej aktywności fizycznej i troski o zdrowie. Wychowanie fizyczne to nie tylko przygotowanie sprawnościowe, ale przede wszystkim prozdrowotne.
+Pełni ono, oprócz swej funkcji doraźnej, również funkcję prospektywną (przygotowuje do dokonywania w życiu wyborów korzystnych dla zdrowia). W podstawie programowej widoczna jest personalistyczna koncepcja wychowania oraz koncepcja sprawności fizycznej ukierunkowanej na zdrowie.
+Cele kształcenia wymagania ogólne I. Wzmacnianie potrzeby podejmowania aktywności fizycznej przez całe życie.
+II. Wzmacnianie potrzeby stosowania w życiu codziennym zasad prozdrowotnego stylu życia.
+III. Doskonalenie umiejętności zapobiegania negatywnym skutkom cywilizacji w obszarze zdrowia fizycznego, psychicznego i społecznego.
+IV. Utrwalanie umiejętności działania jako krytyczny konsument (odbiorca) sportu oraz produktów i usług rekreacyjnych i zdrowotnych.
+Treści nauczania wymagania szczegółowe I. Sprawność fizyczna.
+1. W zakresie wiedzy. Słuchacz:
+1) wyjaśnia związek między sprawnością fizyczną a zdrowiem fizycznym, psychicznym i społecznym;
+2) wskazuje zdolności motoryczne niezbędne do utrzymania zdrowia przez całe życie;
+1
+3) omawia sposoby utrzymania odpowiedniej masy ciała w kontekście różnych obciążeń pracą fizyczną i odpowiednich sposobów wypoczynku.
+2. W zakresie umiejętności. Słuchacz:
+1) dokonuje samokontroli i samooceny sprawności fizycznej w odniesieniu do zdolności motorycznych niezbędnych do utrzymania zdrowia przez całe życie;
+2) wykorzystuje środowisko do planowania treningu sprawnościowego (np. programowanie ścieżki zdrowia, biegi terenowe).
+II. Aktywność fizyczna.
+1. W zakresie wiedzy. Słuchacz:
+1) wyjaśnia związek między aktywnością fizyczną a zdrowiem fizycznym, psychicznym i społecznym;
+2) omawia zalecenia dotyczące aktywności fizycznej, z uwzględnieniem własnych indywidulanych potrzeb;
+3) charakteryzuje sporty całego życia, z uwzględnieniem indywidulanych potrzeb;
+4) opisuje nowe formy aktywności fizycznej zgodne z indywidualnymi zainteresowaniami.
+2. W zakresie umiejętności. Słuchacz:
+1) stosuje elementy techniki i taktyki w różnych indywidualnych i zespołowych formach aktywności fizycznej, z uwzględnieniem form nowoczesnych i form z innych kręgów kulturowych;
+2) planuje i organizuje własną roczną aktywność fizyczną (trening zdrowotny), z uwzględnieniem sportów całego życia przy wykorzystaniu nowoczesnych technologii (urządzenia monitorujące, aplikacje internetowe) i rekomendacji zdrowotnych, a także biorąc pod uwagę indywidualne potrzeby, pory roku, warunki środowiskowe i ekonomiczne;
+3) planuje i organizuje szkolną imprezę sportowo-rekreacyjną promującą sporty całego życia lub szkolną imprezę turystyczną.
+III. Bezpieczeństwo w aktywności fizycznej.
+1. W zakresie wiedzy. Słuchacz:
+1) wyjaśnia, na czym polega planowanie bezpiecznej aktywności i umiejętność oceny stopnia ryzyka wystąpienia urazu związanego z niektórymi sportami lub wysiłkami fizycznymi (uwzględniając także nowoczesny sprzęt sportowy);
+2) opisuje zasady ergonomicznej organizacji stanowiska pracy i czynności życia codziennego;
+3) wyjaśnia konsekwencje braku należytego zabezpieczenia sprzętu sportowego i miejsca ćwiczeń, nadmiernego obciążenia oraz niestosowania się do regulaminów obiektów sportowych oraz zasad ruchu drogowego;
+4) określa warunki bezpiecznego przebiegu imprez sportowych i rekreacyjnych z pozycji organizatora i kibica.
+2. W zakresie umiejętności. Słuchacz:
+1) stosuje zasady samoochrony, samoobrony, samoasekuracji i asekuracji w różnych sytuacjach życiowych;
+2) potrafi zachować się w sytuacji wypadków (w tym komunikacyjnych) i urazów w różnych sytuacjach życiowych oraz udzielić pierwszej pomocy przedmedycznej;
+3) dobiera obciążenie (wagę) przyborów (ćwiczenia siłowe, crossfit) zgodnie z indywidualnymi możliwościami i zasadami bezpieczeństwa;
+4) demonstruje sposoby zabezpieczania sprzętu sportowego, miejsca ćwiczeń i imprezy sportowej lub rekreacyjnej.
+IV. Edukacja zdrowotna.
+1. W zakresie wiedzy. Słuchacz:
+1) rozróżnia pojęcia „nadwaga” i „otyłość” oraz wymienia ich rodzaje i stopnie;
+2) wyjaśnia możliwe negatywne skutki zdrowotne wybranego przez siebie zawodu;
+3) wyjaśnia, dlaczego należy poddawać się badaniom okresowym związanym z wykonywanym zawodem;
+4) omawia zasady prawidłowego odżywiania się w zależności od podejmowanego indywidualnego treningu;
+5) omawia zasady racjonalnego gospodarowania czasem i dostosowania formy aktywnego wypoczynku do rodzaju pracy zawodowej.
+2. W zakresie umiejętności. Słuchacz:
+1) dobiera rodzaje form aktywności w zależności od wieku, sprawności fizycznej i proporcji wagowo-wzrostowych;
+2) dobiera ćwiczenia kompensujące negatywne skutki zdrowotne wykonywanego zawodu;
+3) dobiera ćwiczenia relaksacyjne redukujące napięcia emocjonalne i stres wynikający z życia codziennego;
+4) dobiera ćwiczenia kształtujące i kompensacyjne w zakresie treningu funkcjonalnego ze szczególnym uwzględnieniem profilaktyki bólów kręgosłupa;
+5) opracowuje indywidualny, tygodniowy plan żywienia, z uwzględnieniem bilansu energetycznego i zgodny z planem treningu zdrowotnego.
+V. Kompetencje społeczne. Słuchacz:
+1) przyjmuje na siebie odpowiedzialność za zdrowie własne i innych, w tym także własnej rodziny;
+2) wyjaśnia konsekwencje zaniedbań w zakresie własnego zdrowia w kontekście osobistym, rodzinnym i społecznym;
+3) pełni rolę propagatora, inicjatora i organizatora imprez sportowo-rekreacyjnych i turystycznych.
+4 Warunki i sposób realizacji Szkoła policealna zapewnia warunki realizacji określonych w podstawie programowej wymagań szczegółowych, które należy traktować jako wskaźniki rozwoju dyspozycji osobowych niezbędnych do realizacji celów kształcenia na danym etapie edukacyjnym.
+Wymagania szczegółowe odnoszą się do zajęć prowadzonych w następujących blokach tematycznych: Sprawność fizyczna.
+W tym bloku tematycznym zostały zawarte treści związane z samokontrolą i samooceną rozwoju fizycznego i sprawności fizycznej w kontekście wybranej, całożyciowej aktywności fizycznej z wykorzystaniem nowoczesnych technologii. Ważne są zagadnienia dotyczące sprawności w aspekcie pełnionych ról społecznych i funkcji zawodowych.
+Aktywność fizyczna.
+W tym bloku tematycznym zostały zawarte treści związane z doskonaleniem umiejętności technicznych i taktycznych w kontekście wybranej, całożyciowej aktywności fizycznej, z uwzględnieniem indywidualnych zainteresowań, jak również treści związane z doskonaleniem umiejętności w zakresie indywidualnych i zespołowych form rekreacyjno-sportowych oraz turystycznych.
+Bezpieczeństwo w aktywności fizycznej.
+W tym bloku tematycznym ważne są treści dotyczące bezpiecznego korzystania ze sprzętu sportowego i miejsc podejmowania aktywności fizycznej. Podkreśla się znaczenie odpowiedzialności i konsekwencji niewłaściwego zachowania.
+Edukacja zdrowotna.
+W tym bloku tematycznym zostały zawarte treści dotyczące zdrowia i jego diagnozowania w kontekście przeciwdziałania negatywnym skutkom cywilizacji i wybranego przez siebie zawodu. Łączenie treści z tego bloku z wdrażaniem kompetencji społecznych sprzyja rozwijaniu poczucia odpowiedzialności za zdrowie własne, rodziny i innych ludzi. Treści w tym bloku wzmacniają poczucie znaczenia aktywnego i zdrowego trybu życia w celu jak najdłuższego zachowania sprawności i zdrowia.
+Kompetencje społeczne.
+Dotyczą rozwijania w toku uczenia się zdolności kształtowania własnego rozwoju oraz autonomicznego i odpowiedzialnego uczestniczenia w życiu społecznym, z uwzględnieniem etycznego kontekstu własnego postępowania.
+Zajęcia wychowania fizycznego powinny być prowadzone w sali sportowej, w specjalnie przygotowanym pomieszczeniu zastępczym bądź na boisku szkolnym. Ważne są zajęcia ruchowe na zewnątrz budynku szkolnego, w środowisku naturalnym, również w okresie jesienno-zimowym.
+Szkoła powinna zapewnić urządzenia i sprzęt sportowy niezbędny do zdobycia przez słuchaczy umiejętności i wiadomości oraz kompetencji społecznych określonych w podstawie programowej.
+Realizacja podstawy programowej kształcenia ogólnego dla szkoły policealnej w zakresie edukacji zdrowotnej powinna być dostosowana do potrzeb słuchaczy (po przeprowadzeniu diagnozy tych potrzeb) oraz do możliwości organizacyjnych szkoły.
+Do realizacji treści wychowania fizycznego należy włączać słuchaczy czasowo lub częściowo zwolnionych z ćwiczeń fizycznych. Dotyczy to kompetencji z zakresu wiedzy w każdym bloku tematycznym oraz wybranych kompetencji z zakresu umiejętności ze szczególnym uwzględnieniem bloku edukacja zdrowotna.
+PODSTAWY PRZEDSIĘBIORCZOŚCI Realizacja tego przedmiotu jest przewidziana dla słuchaczy, którzy nie realizowali go na wcześniejszym etapie edukacyjnym.
+Zmieniająca się dynamicznie gospodarka i jej otoczenie rynkowe, społeczne, polityczne i kulturowe sprawiają, że podstawowa edukacja ekonomiczna, przygotowująca młodego człowieka do przedsiębiorczego, a zarazem akceptowalnego pod względem moralnym życia w ewoluującym świecie, powinna dokonywać się przez kształtowanie aktywnych uczestników gospodarki rynkowej. Słuchacze szkół policealnych jako osoby dorosłe znajdują się w warunkach presji konkurencyjnej oraz zróżnicowanych wymagań rynku pracy. Powinni więc posiadać podstawową wiedzę nie tylko z zakresu nauk ścisłych, przyrodniczych, humanistycznych i przedmiotów zawodowych, ale także społecznych, a zwłaszcza ekonomicznych. Wiedza ta daje podstawy do kształtowania umiejętności oraz postaw przedsiębiorczych potrzebnych do funkcjonowania we współczesnej, globalnie uwarunkowanej gospodarce.
+Przedmiot podstawy przedsiębiorczości stanowi syntezę wybranych celowo elementów wiedzy z zakresu ekonomii, zarządzania i finansów, wzbogaconej elementami geografii społeczno-ekonomicznej, politologii, socjologii, psychologii oraz prawa. W ramach lekcji podstaw przedsiębiorczości słuchacze zapoznają się z podstawowymi kategoriami, mechanizmami i procesami ekonomicznymi oraz ich uwarunkowaniami instytucjonalnymi, behawioralnymi, kulturowymi i rynkowymi. Postawy przedsiębiorcze i wspierające je umiejętności powinny zatem pośrednio z tej wiedzy wynikać. W procesie kształcenia słuchacze dowiadują się, jak realizując indywidualne cele ekonomiczne być przedsiębiorczym, a zarazem społecznie odpowiedzialnym w swoich dążeniach i działaniach.
+Przy przyjęciu powyższych założeń edukacyjnych jednym z głównych celów dydaktycznych przedmiotu jest przygotowanie słuchaczy do planowania swojej przyszłości oraz do aktywności zawodowej w roli pracowników najemnych lub osób prowadzących własną działalność gospodarczą. Słuchacze szkół policealnych mają zdolność do czynności prawnych oraz podejmują świadome działania i ważne decyzje w odniesieniu do swojej kariery zawodowej. Podstawa programowa sprzyja więc przygotowaniu słuchaczy do aktywności społecznej i gospodarczej, a także do życia rodzinnego w znaczeniu ekonomicznym, dając podstawowe umiejętności konkurencyjnych zachowań na rynku, w tym ponoszenia konsekwencji swoich decyzji.
+Zakres przedmiotu jest zgodny z powszechnie przyjmowaną definicją przedsiębiorczości jako kompetencji kluczowej. Uzasadnia to konieczność przyjęcia jego szeroko zakrojonej koncepcji, w której dzięki wyposażeniu słuchaczy w wiedzę ekonomiczną i finansową kształtuje się ich umiejętności elastycznego zachowania na rynku pracy i zarządzania oraz rozwija cechy przywódcze. Ważne jest także kształtowanie u słuchaczy szacunku do wartości będących fundamentem gospodarki rynkowej i społecznie odpowiedzialnego biznesu, a także postaw etycznych i gotowości do ich przestrzegania w życiu zawodowym i społecznym.
+Lekcje podstaw przedsiębiorczości wspierają słuchaczy w samorozwoju oraz chęci inwestowania w siebie i uczenia się przez całe życie, w sytuacji dynamicznie zmieniających się warunków otoczenia i rozwoju gospodarki opartej na wiedzy. Takie szerokie ujęcie przedmiotu jest wyzwaniem edukacyjnym zarówno dla słuchaczy, jak i dla nauczycieli.
+Wynika ono z wieloletnich dyskusji nad jego kształtem, a także jest uwarunkowane możliwością realizacji treści z zakresu przedsiębiorczości w ramach innych przedmiotów. Za konieczne w procesie kształcenia uznano nabywanie przez słuchaczy wiedzy oraz kształtowanie umiejętności i postaw dotyczących: funkcjonowania gospodarki rynkowej, rynku finansowego, rynku pracy oraz przedsiębiorstwa.
+Cele kształcenia wymagania ogólne I. Wiedza.
+1. Posługiwanie się elementarnymi pojęciami z zakresu podstaw przedsiębiorczości.
+2. Rozumienie istoty przedsiębiorczości oraz poznanie jej roli w gospodarce i życiu człowieka.
+3. Wyjaśnianie mechanizmów funkcjonowania gospodarki rynkowej, powiązań między jej podmiotami oraz poznanie roli państwa w procesach gospodarczych.
+4. Zaznajomienie się z prawami i instytucjami chroniącymi konsumenta.
+5. Rozumienie roli rynków finansowych w gospodarce, funkcjonowaniu przedsiębiorstw i życiu człowieka.
+6. Poznanie rodzajów podatków, ich wpływu na budżety przedsiębiorstw i gospodarstw domowych.
+7. Dostrzeganie znaczenia ubezpieczeń w działalności gospodarczej i życiu człowieka.
+8. Pogłębienie wiedzy z zakresu aktywnego poszukiwania pracy i uczestniczenia w rozmowie kwalifikacyjnej, poznanie praw oraz obowiązków pracownika i pracodawcy.
+9. Poznanie zasad funkcjonowania przedsiębiorstwa w gospodarce rynkowej, form organizacyjno-prawnych, innowacyjnych modeli biznesowych i procedury rejestracji działalności gospodarczej.
+10. Rozumienie zasad zarządzania, roli marketingu oraz społecznej odpowiedzialności w funkcjonowaniu przedsiębiorstwa.
+II. Umiejętności i stosowanie wiedzy w praktyce.
+1. Wyszukiwanie informacji z różnych źródeł, ich selekcja i analizowanie.
+2. Stosowanie w praktyce kluczowych pojęć związanych z przedsiębiorczością.
+3. Podejmowanie przemyślanych decyzji na podstawie wskaźników ekonomicznych oraz samodzielne obserwacje zjawisk zachodzących w gospodarce.
+4. Odpowiedzialne gospodarowanie pieniędzmi, analizowanie, ocenianie i świadome korzystanie z usług finansowych oraz inwestowanie kapitału, z wykorzystaniem wiedzy na temat praw klienta usług finansowych.
+5. Podejmowanie niezależnych, odpowiedzialnych decyzji finansowych w odniesieniu do własnych zasobów.
+6. Analizowanie oferty rynku pracy, sporządzanie dokumentów aplikacyjnych oraz korzystne prezentowanie się podczas rozmowy kwalifikacyjnej;
+7. Rozróżnianie skutków wynikających z nawiązania i rozwiązania stosunku pracy oraz wykonywania czynności na podstawie umów cywilnoprawnych i analizowanie przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2018 r.
+poz. 917, z późn. zm.).
+8. Analizowanie otoczenia przedsiębiorstwa, w tym rynku, na którym działa.
+9. Projektowanie działań w zakresie zakładania własnego przedsiębiorstwa i przygotowanie do prowadzenia własnej działalności gospodarczej.
+10. Efektywne uczestniczenie w pracy zespołowej, z wykorzystaniem umiejętności w zakresie komunikacji interpersonalnej, oraz wdrażanie zasad skutecznego przywództwa w organizacji.
+11. Rozpoznawanie działań etycznych i nieetycznych w życiu gospodarczym oraz przejawów społecznej odpowiedzialności biznesu.
+III. Kształtowanie postaw.
+1. Wykorzystanie zdobytej wiedzy ekonomicznej do rozwijania własnej postawy przedsiębiorczej jako jednego z podstawowych warunków aktywnego uczestnictwa w życiu społeczno-gospodarczym, w tym skutecznego wykonywania pracy najemnej i prowadzenia własnej działalności gospodarczej.
+2. Korzystanie z szans pojawiających się na rynku, podejmowanie inicjatywy, pomysłowość oraz zdolność do pokonywania barier wewnętrznych i zewnętrznych.
+3. Docenianie postaw przedsiębiorczych w życiu codziennym, gotowość do czynnego uczestnictwa w życiu społeczno-gospodarczym kraju oraz współodpowiedzialność za jego rozwój.
+4. Docenianie roli przedsiębiorców budujących w sposób odpowiedzialny konkurencyjną gospodarkę oraz dostrzeganie znaczenia wolności gospodarczej i własności prywatnej jako filarów gospodarki rynkowej.
+5. Przyjmowanie postaw patriotyzmu gospodarczego, rozumianego jako odpowiedzialność konsumentów i ludzi biznesu za dobrobyt gospodarczy i społeczny kraju.
+6. Rozumienie konsekwencji działań nieetycznych związanych z finansami, w tym obowiązkami podatkowymi.
+7. Kształtowanie w sobie odpowiedzialnych postaw jako przyszłych pracowników i pracodawców oraz należytego wypełnienia obowiązków, a także sprawiedliwego, opartego na prawości i dążeniu do prawdy traktowania pracowników.
+8. Kształtowanie proaktywności, odpowiedzialności za siebie i innych oraz umiejętnego godzenia własnego dobra z dobrem innych ludzi.
+9. Zainteresowanie prowadzeniem własnej działalności gospodarczej oraz motywacja do ciągłego samorozwoju i inwestowania w siebie.
+10. Kształtowanie postawy otwartości i szacunku do innych osób oraz zdolności podejmowania dialogu i współpracy.
+11. Przyjmowanie postaw etycznych, społecznej solidarności i odpowiedzialności w życiu gospodarczym.
+Treści nauczania wymagania szczegółowe I. Gospodarka rynkowa: przedsiębiorczość w gospodarce rynkowej, rodzaje rynków, podmioty gospodarki rynkowej, struktury rynkowe, mechanizm rynkowy, fazy cyklu koniunkturalnego, rola państwa w gospodarce, konsument na rynku. Słuchacz:
+1) dostrzega znaczenie przedsiębiorczości, w tym innowacyjności i kreatywności, w życiu osobistym i rozwoju społeczno-gospodarczym w skali lokalnej, regionalnej, krajowej i globalnej;
+2) analizuje funkcje rynku i rozróżnia rodzaje rynków;
+3) charakteryzuje podmioty gospodarki rynkowej, w tym gospodarstwa domowe i przedsiębiorstwa, określa zależności między nimi, rozróżnia struktury rynkowe: monopol, oligopol, konkurencja monopolistyczna, konkurencja doskonała oraz dostrzega negatywne skutki ograniczonej konkurencji na rynku;
+4) wyjaśnia prawo popytu i podaży, posługując się wykresami uwzględniającymi zmianę ceny, oraz charakteryzuje czynniki wpływające na popyt i podaż;
+5) opisuje zachowania gospodarki w kolejnych fazach cyklu koniunkturalnego, charakteryzuje narzędzia oddziaływania państwa na gospodarkę oraz dyskutuje na temat metod przeciwdziałania zjawiskom kryzysowym w gospodarce krajowej i światowej;
+6) posługując się prawami przysługującymi konsumentom, określa drogę ich egzekwowania, w tym zasady składania reklamacji oraz możliwość skorzystania z pozasądowych metod rozwiązywania sporów konsumenckich.
+II. Rynek finansowy: instytucje rynku finansowego, formy inwestowania, bank centralny, bankowość komercyjna i spółdzielcza, podatki, ubezpieczenia, umowy bankowe i ubezpieczeniowe, ochrona klienta usług finansowych, etyka w finansach. Słuchacz:
+1) charakteryzuje ważniejsze instytucje rynku finansowego w Polsce (Narodowy Bank Polski, Komisja Nadzoru Finansowego, Rzecznik Finansowy, Giełda Papierów Wartościowych w Warszawie, Bankowy Fundusz Gwarancyjny, banki komercyjne i spółdzielcze, spółdzielcze kasy oszczędnościowo-kredytowe, fundusze inwestycyjne, Ubezpieczeniowy Fundusz Gwarancyjny, zakłady ubezpieczeń, podmioty świadczące usługi płatnicze) oraz objaśnia ich znaczenie w funkcjonowaniu gospodarki narodowej, przedsiębiorstw i życiu człowieka;
+2) rozróżnia formy oszczędzania i inwestowania, ocenia je z punktu widzenia ryzyka i przewidywanych zysków;
+3) dostrzega konieczność wczesnego rozpoczęcia systematycznego oszczędzania i inwestowania środków finansowych na emeryturę;
+4) identyfikuje najważniejsze funkcje i zadania Narodowego Banku Polskiego oraz omawia rolę Rady Polityki Pieniężnej w realizacji celu inflacyjnego poprzez kształtowanie stóp procentowych;
+5) analizuje oferty usług banków komercyjnych i spółdzielczych oraz spółdzielczych kas oszczędnościowo-kredytowych w zakresie kont osobistych, kart bankowych, lokat terminowych, kredytów i pożyczek oraz oferty pozabankowych instytucji pożyczkowych, uwzględniając realną stopę procentową, a także dostrzega zagrożenia i rozumie zasady bezpieczeństwa przy korzystaniu z bankowości elektronicznej;
+6) identyfikuje rodzaje podatków według różnych kryteriów oraz wyjaśnia ich wpływ na gospodarkę kraju, przedsiębiorstwa i gospodarstwa domowe;
+7) wyjaśnia zasady składania rocznej deklaracji i obliczania podatku dochodowego od osób fizycznych;
+8) charakteryzuje rodzaje ubezpieczeń według różnych kryteriów i porównuje oferty zakładów ubezpieczeń na przykładzie ubezpieczenia nieruchomości lub pojazdów mechanicznych;
+9) krytycznie analizuje przykładową umowę kredytu lub pożyczki;
+10) jest świadomy, że należy korzystać z różnorodnych i wiarygodnych źródeł informacji przed podjęciem decyzji finansowych;
+11) ocenia przykłady praktyk i zachowań etycznych oraz nieetycznych na rynku finansowym.
+III. Rynek pracy: kariera zawodowa, poszukiwanie pracy, rozmowa kwalifikacyjna, formy zatrudnienia, prawa i obowiązki pracownika i pracodawcy, bhp i organizacja pracy, etyka w pracy. Słuchacz:
+1) analizuje szanse i możliwości rozwoju własnej kariery zawodowej oraz znalezienia lub zmiany pracy na rynku lokalnym, regionalnym, krajowym i międzynarodowym;
+2) opracowuje dokumenty aplikacyjne dotyczące konkretnej oferty pracy;
+3) przygotowuje się do rozmowy kwalifikacyjnej i uczestniczy w niej w warunkach symulowanych, eksponując swoje zalety, oraz dostrzega podstawowe błędy popełniane podczas rozmowy;
+4) rozróżnia formy zatrudnienia i rodzaje umów o pracę, określa korzyści z wyboru konkretnej formy i umowy oraz wymienia sposoby rozwiązywania stosunku pracy;
+5) charakteryzuje różne systemy płac, rodzaje i formy wynagrodzeń oraz identyfikuje koszty płacy i oblicza wynagrodzenie netto;
+6) analizuje prawa i obowiązki pracownika i pracodawcy oraz omawia specyfikę zatrudnienia osób niepełnosprawnych;
+7) przedstawia zasady bezpieczeństwa i higieny oraz dobrej organizacji pracy na przykładzie konkretnego stanowiska;
+8) dostrzega rolę Państwowej Inspekcji Pracy oraz związków zawodowych w ochronie praw pracowniczych, ocenia zachowania etyczne i nieetyczne zarówno pracodawcy, jak i pracowników oraz rozpoznaje przejawy mobbingu i konsekwencje zatrudniania bez umowy.
+IV. Przedsiębiorstwo: klasyfikacje przedsiębiorstw, biznesplan, otoczenie przedsiębiorstwa, formy organizacyjno-prawne, procedury rejestracji i likwidacji, źródła finansowania działalności, analiza rynku, zarządzanie przedsiębiorstwem, praca zespołowa, marketing, wynik finansowy, formy opodatkowania, księgowość, negocjacje, etyka w biznesie i społeczna odpowiedzialność przedsiębiorstw, funkcjonowanie przedsiębiorstwa. Słuchacz:
+1) klasyfikuje przedsiębiorstwa według kryteriów rodzaju prowadzonej działalności, wielkości i formy własności oraz charakteryzuje innowacyjne modele biznesu, w tym startupy;
+2) uzasadnia przydatność sporządzania i przedstawia strukturę biznesplanu oraz objaśnia poszczególne jego elementy;
+3) inspirując się doświadczeniami własnymi i znanych przedsiębiorców oraz bazując na zebranych informacjach z rynku, znajduje pomysł na własną działalność gospodarczą lub przedsięwzięcie społeczne, oceniając go pod względem innowacyjności;
+4) analizuje mikro- i makrootoczenie przykładowego przedsiębiorstwa, identyfikuje jego mocne i słabe strony oraz szanse i zagrożenia rozwoju;
+5) charakteryzuje podstawowe formy organizacyjno-prawne przedsiębiorstw (indywidualna działalność gospodarcza, spółka cywilna, spółki prawa handlowego) i przedsiębiorczości społecznej (w tym spółdzielnia pracy, spółdzielnia socjalna, stowarzyszenie, fundacja), uwzględniając odpowiedzialność prawną i majątkową właścicieli;
+6) przedstawia procedury związane z rejestracją indywidualnej działalności gospodarczej i jej likwidacją;
+7) znajduje możliwości finansowania działalności gospodarczej (w tym ze środków instytucji finansowych, urzędów pracy, funduszy unijnych i venture capital, „aniołów biznesu”) oraz określa funkcje inkubatorów przedsiębiorczości w powstawaniu i rozwoju małych firm, w tym startupów;
+8) zbiera, analizuje i prezentuje informacje o rynku, na którym działa przedsiębiorstwo;
+9) wyjaśnia istotę procesu zarządzania różnymi zasobami przedsiębiorstwa, w tym zasady skutecznego zarządzania ludźmi oparte na koncepcji przywództwa;
+10) stosuje zasady pracy zespołowej, wyjaśnia rolę oraz identyfikuje cechy dobrego lidera i wykonawcy;
+11) charakteryzuje główne instrumenty marketingowe, rozumie ich rolę w funkcjonowaniu przedsiębiorstwa oraz wykorzystuje posiadaną wiedzę w tym zakresie do projektowania działań marketingowych;
+12) prognozuje efekty finansowe działalności przykładowego przedsiębiorstwa na podstawie zestawienia przychodów i kosztów;
+13) ocenia wady i zalety poszczególnych form opodatkowania indywidualnej działalności gospodarczej w zakresie podatku dochodowego oraz wymienia inne podatki, którymi może być objęty przedsiębiorca;
+14) omawia funkcje dowodów księgowych i podstawowe zasady księgowości oraz wypełnia dowody księgowe i książkę przychodów i rozchodów na potrzeby rozliczenia podatku dochodowego;
+15) rozróżnia zachowania etyczne i nieetyczne w biznesie, w tym przejawy korupcji w życiu gospodarczym, oraz rozumie istotę i cele społecznej odpowiedzialności przedsiębiorstw;
+16) dostrzega możliwości rozwoju przedsiębiorstwa i osiągnięcia sukcesu rynkowego przy pełnym poszanowaniu zasad etycznych w biznesie.
+Warunki i sposób realizacji W szkole policealnej dla dorosłych prowadzącej zajęcia w formie stacjonarnej, na dział I należy przeznaczyć minimum 4 godz., na dział II 6 godz., dział III 6 godz., dział IV 12 godz., czyli łącznie 28 godz., co stanowi ok. 85% godz., które ma do dyspozycji nauczyciel. Pozostałe godziny nauczyciel może przeznaczyć na rozszerzenie określonych treści według własnego uznania.
+Taki rozkład godzin i odpowiadających im wymagań pomiędzy działy wynika z przyjętego założenia, że w nauczaniu przedsiębiorczości fundamentalne są umiejętności związane z podejmowaniem aktywności zawodowej w ramach pracy etatowej lub samozatrudnienia, zaś podstawą tej aktywności jest wiedza ekonomiczna wraz z problematyką funkcjonowania rynku finansowego.
+Kształcenie w zakresie przedsiębiorczości powinno rozpocząć się od przedstawienia, czym są, jak funkcjonują i rozwijają się narodowe systemy gospodarek rynkowych. W dziale I wyjaśnia się ich odmienności, wynikające z realizowanych celów, różnej roli państwa i rynku w tych systemach oraz wykorzystywanych przez nie podstawowych czynników wzrostu i rozwoju, takich jak: surowce, praca, inwestycje rzeczowe i kapitałowe, innowacje, handel czy konsumpcja. Słuchacze dowiadują się, jak w tych różnych systemach ekonomicznych funkcjonują podstawowe podmioty gospodarki gospodarstwa domowe (ze szczególnym uwzględnieniem praw członków tych gospodarstw jako konsumentów na rynku) i przedsiębiorstwa. Stanowi to punkt wyjścia do pokazania, czym są i jak funkcjonują różnego typu przedsiębiorstwa.
+Realizacja działu II i III służy pokazaniu, jak na kluczowych dla gospodarki rynkach finansowym i rynku pracy funkcjonują gospodarstwa domowe i przedsiębiorstwa.
+Wyeksponowanie tych dwóch rynków oraz spojrzenie przez ich pryzmat na gospodarkę i przedsiębiorczość wynikają z tego, że słuchacze, tak jak inni uczestnicy rynku, są lub staną się pracownikami albo pracodawcami i będą musieli pozyskiwać środki pieniężne, a następnie świadomie nimi zarządzać, nabywając dobra konsumpcyjne lub czynniki produkcji, oszczędzając je lub inwestując korzystnie i bezpiecznie.
+W dziale II „Rynek finansowy” wymagania odnoszą się do wiedzy dotyczącej podstaw finansów oraz umiejętności związanych z funkcjonowaniem na tym rynku człowieka jako świadomego konsumenta oraz przedsiębiorcy. Słuchacz powinien na realnych przykładach poznawać i dokonywać oceny produktów finansowych oraz podejmować dojrzałe decyzje, rozumiejąc ich rozmaite konsekwencje. W realizacji tego działu należy odwoływać się do doświadczeń słuchaczy, jako ludzi dorosłych, w zakresie korzystania z różnego typu usług finansowych.
+Celem III działu „Rynek pracy” jest przygotowanie słuchacza do aktywnego zachowania się na rynku pracy. Osiągnięcia słuchaczy realizowane są przez analizę sytuacji na rynku pracy w celu nabycia umiejętności skutecznego jej poszukiwania. Niezbędne jest poznanie form zatrudnienia, obowiązków i praw pracownika oraz pracodawcy, jak i innych elementów prawa pracy. W wyniku realizacji tego działu słuchacz zrozumie konieczność inwestowania w siebie, będzie potrafił przygotować dokumenty aplikacyjne na konkretne stanowisko, dostrzeże również, że inne osoby, w tym osoby niepełnosprawne, poszukują pracy i ją wykonują. Będzie umiał także ocenić korzyści i koszty wynikające ze współpracy z instytucjami rynku pracy. Jednocześnie można przyjąć, że osoby dorosłe mają już pewne doświadczenie zawodowe w pracy, co powinno być uwzględnione przez nauczyciela, po odpowiednim rozpoznaniu sytuacji w tym zakresie wśród słuchaczy. Pozwoli to na ewentualne położenie akcentu bardziej na pogłębianie, a nie zdobywanie wiedzy i umiejętności.
+Ze względu na zmieniającą się dynamicznie rzeczywistość, w związku z informatyzacją obiegu wielu dokumentów i ich częste zmiany, w podstawie programowej nie określono zbyt wielu efektów związanych z wypełnianiem różnego typu formularzy, np. poleceń przelewu, faktur czy deklaracji rocznej podatku dochodowego. Decyzję o tym, w jakim zakresie ćwiczyć te umiejętności, pozostawia się nauczycielowi. W celu realizacji niektórych wymagań konieczne jest skorzystanie z pracowni komputerowej z dostępem do internetu.
+Zadaniem szkoły jest umożliwienie realizacji takich zajęć.
+W osiąganiu wielu efektów kształcenia istotną rolę odgrywa kształtowanie umiejętności czytania fragmentów aktów prawnych, takich jak: ustawa z dnia 26 czerwca 1974 r. Kodeks pracy, ustawa z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2018 r. poz. 1025, z późn. zm.) czy ustawa z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. poz. 646, z późn. zm.). Nie jest możliwe, aby słuchacze zapoznawali się na lekcji w całości z tymi aktami prawnymi, dlatego też konieczny jest staranny, celowy dobór niewielkich fragmentów, np. związanych z urlopami przysługującymi pracownikowi czy ramami prawnymi funkcjonowania spółki cywilnej. W realizacji tematów związanych z ochroną konsumentów i klientów usług finansowych należy wykorzystać przykładowe umowy, regulaminy, zapisy ogólnych warunków ubezpieczenia itp. i kształtować umiejętność ich analizy. Ważne jest, aby słuchacz mający za sobą kształcenie w ramach lekcji podstaw przedsiębiorczości był przekonany, że nie zawiera umów i nie kupuje produktów finansowych, których nie rozumie i z których warunkami oferty i realizacji nie zapoznał się dokładnie.
+Przy realizacji poszczególnych tematów, szczególnie tych dotyczących obowiązków pracownika i pracodawcy, finansami i prowadzeniem biznesu, należy zwracać uwagę na kształtowanie postaw słuchaczy związanych głównie z rozumieniem roli etyki w życiu społeczno-gospodarczym. Ważne jest, aby słuchacze mieli świadomość, że identyfikacja i przestrzeganie standardów etycznych nie stoi w sprzeczności z osiąganiem sukcesu rynkowego. Ważne jest także formowanie postawy, która pozwala docenić rolę przedsiębiorcy w życiu społeczno-gospodarczym.
+
+### Dział IV „Przedsiębiorstwo” jest przeznaczony przede wszystkim do realizacji wymagań związanych z pogłębieniem wiedzy na temat funkcjonowania przedsiębiorstwa w otoczeniu wraz z przygotowaniem do prowadzania własnej działalności gospodarczej. Służy temu poznanie zasad i kształtowanie umiejętności sporządzania biznesplanu. Biznesplan powinien być przygotowany w formie pracy projektowej (wykonywanej indywidualnie lub w grupach) na zajęciach trwających przez co najmniej jeden semestr. Treści nauczania w tym dziale zostały tak ułożone, aby w trakcie ich realizacji uczniowie zapoznawali się z kolejnymi elementami przygotowywanej pracy projektowej, tj. nabywali wiedzę i umiejętności z zakresu wyboru formy organizacyjno-prawnej, rejestracji, analizy rynku, zarządzania, marketingu oraz spraw finansowych. Jako alternatywę dla opracowania planu biznesowego można opracować inne przedsięwzięcie, w planowaniu którego będzie można wykorzystać ideę biznesplanu. Realizacja takiego przedsięwzięcia o dowolnym charakterze, np.
+
+## Część druga obejmuje wybrane zagadnienia szczegółowe z zakresu szeroko rozumianej etyki praktycznej. Treści w podstawie programowej koncentrują się na zarysowaniu spektrum problematyki moralnej podejmowanej w różnych typach refleksji etycznej bardziej rozbudowana lista zagadnień szczegółowych dotyczy problematyki społeczno-politycznej, ze względu na potrzebę rozwijania kompetencji społecznych i obywatelskich jako tzw.
+
+### Dział IV „Przedsiębiorstwo” jest przeznaczony przede wszystkim do realizacji wymagań związanych z pogłębieniem wiedzy na temat funkcjonowania przedsiębiorstwa w otoczeniu wraz z przygotowaniem do prowadzania własnej działalności gospodarczej. Służy temu poznanie zasad i kształtowanie umiejętności sporządzania biznesplanu. Zdając sobie sprawę z ograniczeń czasowych, nie wymaga się jego sporządzenia. Jednak w miarę możliwości powinien być on przygotowany w formie pracy projektowej wykonywanej indywidualnie lub w grupach, szczególnie jeżeli w ramach realizacji przedmiotów zawodowych słuchacz nie będzie miał okazji do jego przygotowania. Biznesplan powinien dotyczyć działalności w zawodzie, w którym kształcą się słuchacze. Treści nauczania w tym dziale zostały tak ułożone, aby w trakcie ich realizacji słuchacze zapoznawali się z kolejnymi elementami przygotowywanej pracy projektowej, tj. nabywali wiedzę i umiejętności z zakresu wyboru formy organizacyjno-prawnej, rejestracji, analizy rynku, zarządzania, marketingu oraz spraw finansowych. Choć na realizację tego działu powinno się przeznaczyć najwięcej godzin, to decyzję o wymaganiu opracowania biznesplanu pozostawia się do decyzji nauczyciela, gdyż zasadnicza część pracy musiałaby być wykonana przez słuchaczy poza godzinami zajęć w szkole. Jeżeli nie ma możliwości przygotowania biznesplanu, należy wykonać szczegółową analizę przykładowych, wzorcowych pod względem metodycznym, biznesplanów.
+
