@@ -8,9 +8,12 @@ pos: 334
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 9 stycznia 2009 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne
+# o zmianie ustawy - Prawo geodezyjne i kartograficzne
+
+*USTAWA z dnia 9 stycznia 2009 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090420334) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/334/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, zpóên. zm.
+**Art. 1.** W ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz.U. z 2005 r. Nr 240, poz. 2027, z późn. zm. ) w art. 24:
 
-**Art. 2.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 334 USTAWA zdnia 9 stycznia 2009 r. ozmianie ustawy — Prawo geodezyjne ikartograficzne ———————
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

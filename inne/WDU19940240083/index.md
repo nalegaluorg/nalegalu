@@ -8,6 +8,7 @@ pos: 83
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o prawie autorskim i prawach pokrewnych
@@ -23,7 +24,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1994-02-04 |
 | Data wydania | 1994-02-23 |
-| Ostatnia zmiana | 2025-03-07 |
+| Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940240083) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/83/text.pdf) |
 
 #### Rozdział 1 Przedmiot prawa autorskiego

@@ -8,9 +8,12 @@ pos: 1172
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 sierpnia 2025 r.
+# o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks cywilny oraz niektórych innych ustaw
+
+*USTAWA z dnia 5 sierpnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,7 @@ domain: null
 | Ostatnia zmiana | 2025-09-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001172) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1172/text.pdf) |
 
-USTAWA z dnia 5 sierpnia 2025 r.
-o zmianie ustawy Kodeks postępowania cywilnego, ustawy Kodeks cywilny oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620) wprowadza się następujące zmiany:
 
 **Art. 125².**
 
@@ -45,23 +45,25 @@ o zmianie ustawy Kodeks postępowania cywilnego, ustawy Kodeks cywilny oraz niek
 
 **Art. 125⁴.** Minister Sprawiedliwości porozumieniu z ministrem właściwym do spraw informatyzacji określi, drodze rozporządzenia, treść dokumentu postaci elektronicznej potwierdzającego wniesienie pisma procesowego do sądu, sposób i zakres informowania o ograniczeniu dostępności portalu informacyjnego, sposób wnoszenia do sądu pism procesowych i ich załączników za pośrednictwem portalu informacyjnego oraz ich elektroniczną postać, tym wymagania dotyczące dokumentów składanych postaci elektronicznej, jak również sposób poświadczania dokumentów portalu informacyjnym, mając na względzie skuteczność ich wnoszenia oraz konieczność zapewnienia sprawnego toku postępowania, a także ochronę praw osób wnoszących pisma procesowe.”;
 
-**Art. 3.** W ustawie z dnia 26 maja 1982 r. Prawo o adwokaturze (Dz. U. z 2024 r. poz. 1564) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2024 r. poz. 1564) wprowadza się następujące zmiany:
 
 **Art. 4.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2024 r. poz. 499) wprowadza się następujące zmiany:
 
 **Art. 5.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2024 r. poz. 749) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085 i 1170) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085 i 1170) wprowadza się następujące zmiany:
 
 **Art. 8.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych sprawach cywilnych (Dz. U. z 2024 r. poz. 959 i 1237 oraz z 2025 r. poz. 769 i 1157) art. 79 ust. 1 pkt 2 po lit. aa dodaje się lit. ab brzmieniu: „ab) apelacji, jeżeli toku postępowania przed sądem drugiej instancji zawarto ugodę przed mediatorem,”.
 
 **Art. 9.** W ustawie z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796) art. 7aa dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. Jeżeli z treści umowy, która ma być zawarta, nie wynika, czy ma ona charakter zawodowy dla osoby fizycznej, o której mowa ust. 1, osoba ta najpóźniej chwili zawarcia umowy może złożyć oświadczenie, że umowa ma dla niej charakter zawodowy albo że nie ma takiego charakteru. Druga strona umowy nie może jednak uzależnić zawarcia umowy od złożenia takiego oświadczenia.”.
 
-**Art. 10.** W ustawie z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085 i 1170) art. 209 ust. 1 skreśla się wyrazy „art. 130 ,”.
+**Art. 10.** W ustawie z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085 i 1170) art. 209 ust. 1 skreśla się wyrazy „art. 130 ,”.
 
 **Art. 11.** W ustawie z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1192) wprowadza się następujące zmiany:
 
-**Art. 12.** W ustawie z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458 oraz z 2025 r. poz. 1018) po art. 35 dodaje się art. 35a brzmieniu: „Art. 35a. Komornik jest obowiązany posiadać konto portalu informacyjnym, o którym mowa art. 53e § 1 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907 oraz z 2025 r. poz. 526, 820 i 1172).”.
+**Art. 12.** W ustawie z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458 oraz z 2025 r. poz. 1018) po art. 35 dodaje się art. 35a brzmieniu: „Art. 35a. Komornik jest obowiązany posiadać konto portalu informacyjnym, o którym mowa art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907 oraz z 2025 r. poz. 526, 820 i 1172).”.
 
 **Art. 13.** Do umów zawartych przed dniem wejścia życie niniejszego przepisu stosuje się przepisy ustaw zmienianych art. 2 i art. 9, brzmieniu dotychczasowym.
 
@@ -84,7 +86,7 @@ o zmianie ustawy Kodeks postępowania cywilnego, ustawy Kodeks cywilny oraz niek
 
 3. Do pism procesowych, o których mowa art. 130 § 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, wniesionych przed dniem wejścia życie niniejszego przepisu, które nie mogły otrzymać prawidłowego biegu wskutek niezachowania warunków formalnych, stosuje się przepis art. 130 ustawy zmienianej art. 1.
 
-4. Do doręczeń dokonanych przed dniem wejścia życie niniejszego przepisu stosuje się przepisy art. 131 § 2 oraz art. 131 § 2 ustawy zmienianej art. 1, brzmieniu dotychczasowym. suje się przepisy ustawy zmienianej art. 1, brzmieniu dotychczasowym.
+4. Do doręczeń dokonanych przed dniem wejścia życie niniejszego przepisu stosuje się przepisy art. 131 § 2 oraz art. 131 § 2 ustawy zmienianej art. 1, brzmieniu dotychczasowym.
 
 6. Do spraw wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy przepisy art. 103 ustawy zmienianej art. 1 stosuje się brzmieniu dotychczasowym.
 

@@ -8,9 +8,12 @@ pos: 526
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 kwietnia 2026 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000526) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/526/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673), z uwzględnieniem stanu prawnego na dzień 24 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834);
 2) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
@@ -93,7 +94,7 @@ Prognozowane emisje w podziale na kategorie źródeł według NFR SO , NO , NH ,
 7) w stosownych przypadkach, informacje na temat powodów odejścia od ścieżki redukcji emisji, o której mowa w art. 16b ust. 3 pkt 3, jak również środków służących zapewnieniu zbliżenia do tej ścieżki;
 8) streszczenie.
 2. Raport metodyczny IIR zawiera informacje określone w tabeli nr 4, które są przekazywane w terminie wskazanym w tej tabeli.
-Tabela nr 4 Termin przekazywania Rodzaj informacji Zanieczyszczenia Szereg czasowy informacji Raport metodyczny IIR SO , NO , NMLZO, NH , CO, PM , PM metale ciężkie (Cd, Hg, Pb) i sadza TZO (ogółem WWA, benzo(a)piren, benzo(b)fluoranten, benzo(k)fluoranten, indeno (1,2,3-cd)piren, dioksyny/furany, HCB, PCB, HCB) metale ciężkie (As, Cr, Cu, Ni, Se i Zn oraz ich związki) i TSP, jeżeli dane są dostępne Wszystkie lata (jak podano w części 1 ust. 6 i 7, części 2 ust. 4) 15 marca
+Tabela nr 4 Rodzaj informacji Zanieczyszczenia Szereg czasowy Termin przekazywania informacji Raport metodyczny IIR SO , NO , NMLZO, NH , CO, PM , PM metale ciężkie (Cd, Hg, Pb) i sadza TZO (ogółem WWA, benzo(a)piren, benzo(b)fluoranten, benzo(k)fluoranten, indeno (1,2,3-cd)piren, dioksyny/furany, HCB, PCB, HCB) metale ciężkie (As, Cr, Cu, Ni, Se i Zn oraz ich związki) i TSP, jeżeli dane są dostępne Wszystkie lata (jak podano w części 1 ust. 6 i 7, części 2 ust. 4) 15 marca
 1. W przypadku wnioskowania o skorygowanie inwentaryzacji emisji, przekazanej zgodnie z art. 11 ust. 1 pkt 3, składa się wniosek do Komisji Europejskiej, który zawiera, w szczególności, następującą dokumentację uzupełniającą:
 1) dowody na to, że odnośne krajowe zobowiązanie lub zobowiązania w zakresie redukcji emisji substancji zostały przekroczone;
 2) określenie, na ile skorygowanie inwentaryzacji emisji zmniejsza przekroczenie oraz przyczynia się do wypełnienia danego krajowego zobowiązania lub zobowiązań w zakresie redukcji emisji substancji;

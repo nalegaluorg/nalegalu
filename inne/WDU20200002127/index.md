@@ -8,9 +8,12 @@ pos: 2127
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 grudnia 2020 r.
+# o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych innych ustaw
+
+*USTAWA z dnia 28 października 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,32 +27,29 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002127) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2127/text.pdf) |
 
-USTAWA z dnia 28 października 2020 r.
-o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów (Dz. U. z 2020 r. poz. 22, 284 i 412) wprowadza się następujące zmiany:
 
 **Art. 27a.**
 
 1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa prowadzi centralną ewidencję emisyjności budynków, zwaną dalej „ewidencją”, oraz jest administratorem danych zgromadzonych tej ewidencji.
 
-2. W ewidencji gromadzi się:
-
-- **1)** dane i informacje o budynkach i lokalach zakresie: z 2020 r. poz. 1439), zakresie kontroli gospodarowania odpadami komunalnymi lub odprowadzania nieczystości ciekłych, art. 9 ust. 1 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2020 r. poz. 995, 1339 i 2127), zakresie wprowadzania gazów lub pyłów do powietrza przez przedsiębiorcę rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495 oraz z 2020 r. poz. 424 i 1086), art. 3 ust. 1 i 2 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2020 r. poz. 213 i 471), zakresie objętym świadectwem charakterystyki energetycznej budynków, art. 23 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków, zakresie kontroli stanu technicznego systemu ogrzewania, art. 62 ust. 1 pkt 1 lit. c ustawy z dnia 7 lipca 1994 r. Prawo budowlane, zakresie kontroli przewodów kominowych (dymowych, spalinowych i wentylacyjnych), przepisach wydanych na podstawie art. 13 ust. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2020 r. poz. 961 i 1610), zakresie usuwania zanieczyszczenia z przewodów dymowych i spalinowych,
+- **1)** dane i informacje o budynkach i lokalach zakresie: z 2020 r. poz. 1439), zakresie kontroli gospodarowania odpadami komunalnymi lub odprowadzania nieczystości ciekłych, – art. 9 ust. 1 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2020 r. poz. 995, 1339 i 2127), zakresie wprowadzania gazów lub pyłów do powietrza przez przedsiębiorcę rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495 oraz z 2020 r. poz. 424 i 1086), – art. 3 ust. 1 i 2 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2020 r. poz. 213 i 471), zakresie objętym świadectwem charakterystyki energetycznej budynków, – art. 23 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków, zakresie kontroli stanu technicznego systemu ogrzewania, – art. 62 ust. 1 pkt 1 lit. c ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, zakresie kontroli przewodów kominowych (dymowych, spalinowych i wentylacyjnych), – przepisach wydanych na podstawie art. 13 ust. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2020 r. poz. 961 i 1610), zakresie usuwania zanieczyszczenia z przewodów dymowych i spalinowych,
     - **a)** źródła ciepła, tym zasilania z sieci ciepłowniczej, wykorzystywanego na potrzeby budynku lub lokalu,
-    - **b)** źródła energii elektrycznej, wykorzystywanego na potrzeby budynku lub lokalu celu ogrzewania lub podgrzania wody użytkowej, ochrony środowiska, o nominalnej mocy cieplnej mniejszej niż 1 MW, niewymagającego pozwolenia, o którym mowa art. 181 ust. 1 pkt 1 i 2 tej ustawy, albo zgłoszenia, o którym mowa art. 152 ust. 1 tej ustawy,
-    - **d)** przeprowadzonej kontroli lub czynności, o której mowa w: art. 379 ust. 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, zakresie kontroli źródła spalania paliw o nominalnej mocy cieplnej mniejszej niż 1 MW, niewymagającego pozwolenia, o którym mowa art. 181 ust. 1 pkt 1 i 2 tej ustawy, albo zgłoszenia, o którym mowa art. 152 ust. 1 tej ustawy, lub spełnienia wymagań określonych uchwale, o której mowa art. 96 ust. 1 tej ustawy, lub ustalenia wysokości należnej opłaty za korzystanie ze środowiska, o której mowa art. 284 ust. 1 tej ustawy, art. 9u ust. 1 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku gminach (Dz. U.
+    - **b)** źródła energii elektrycznej, wykorzystywanego na potrzeby budynku lub lokalu celu ogrzewania lub podgrzania wody użytkowej,
+    - **c)** źródła spalania paliw, rozumieniu art. 157a ust. 1 pkt 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, o nominalnej mocy cieplnej mniejszej niż 1 MW, niewymagającego pozwolenia, o którym mowa art. 181 ust. 1 pkt 1 i 2 tej ustawy, albo zgłoszenia, o którym mowa art. 152 ust. 1 tej ustawy,
+    - **d)** przeprowadzonej kontroli lub czynności, o której mowa w: – art. 379 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, zakresie kontroli źródła spalania paliw o nominalnej mocy cieplnej mniejszej niż 1 MW, niewymagającego pozwolenia, o którym mowa art. 181 ust. 1 pkt 1 i 2 tej ustawy, albo zgłoszenia, o którym mowa art. 152 ust. 1 tej ustawy, lub spełnienia wymagań określonych uchwale, o której mowa art. 96 ust. 1 tej ustawy, lub ustalenia wysokości należnej opłaty za korzystanie ze środowiska, o której mowa art. 284 ust. 1 tej ustawy, – art. 9u ust. 1 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku gminach (Dz. U.
     - **e)** przekazanej premii termomodernizacyjnej, przekazanej premii remontowej oraz zwrotu takich premii,
     - **f)** ulgi podatkowej, o której mowa art. 26h ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm. ),
-    - **g)** udzielonego ze środków publicznych finansowania albo dofinansowania: przedsięwzięć termomodernizacyjnych, przedsięwzięć niskoemisyjnych lub przedsięwzięć remontowych, odnawialnych źródeł energii, o których mowa art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, innych przedsięwzięć związanych z ochroną powietrza,
-    - **h)** przyznanych świadczeń z pomocy społecznej lub innych form wsparcia finansowego ze środków publicznych zakresie: dodatku mieszkaniowego, o którym mowa ustawie z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, dodatku energetycznego, o którym mowa art. 5c ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2020 r. poz. 833, 843, 1086, 1378 i 1565), zasiłku celowego z przeznaczeniem na ogrzewanie, o którym mowa art. 39 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
+    - **g)** udzielonego ze środków publicznych finansowania albo dofinansowania: – przedsięwzięć termomodernizacyjnych, przedsięwzięć niskoemisyjnych lub przedsięwzięć remontowych, – odnawialnych źródeł energii, o których mowa art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, – innych przedsięwzięć związanych z ochroną powietrza,
+    - **h)** przyznanych świadczeń z pomocy społecznej lub innych form wsparcia finansowego ze środków publicznych zakresie: – dodatku mieszkaniowego, o którym mowa ustawie z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, – dodatku energetycznego, o którym mowa art. 5c ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2020 r. poz. 833, 843, 1086, 1378 i 1565), – zasiłku celowego z przeznaczeniem na ogrzewanie, o którym mowa art. 39 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
 
 - **2)** dane osób uprawnionych, o których mowa art. 27b ust. 1, do wprowadzania danych i informacji do ewidencji, o których mowa art. 27b ust. 4;
-- **3)** dane właścicieli lub zarządców budynków lub lokali:
     - **a)** imię i nazwisko albo nazwę właściciela lub zarządcy oraz adres jego miejsca zamieszkania lub siedziby,
     - **b)** adres nieruchomości, obrębie której eksploatowane jest źródło ciepła lub źródło spalania paliw, o których mowa odpowiednio pkt 1 lit. a i c,
     - **c)** numer telefonu, o ile posiada,
     - **d)** adres poczty elektronicznej, o ile posiada.
+
+3. Dane i informacje są:
 
 - **1)** wprowadzane przez osoby uprawnione, o których mowa art. 27b ust. 1;
 - **2)** pozyskiwane automatycznie przez system teleinformatyczny obsługujący ewidencję z:
@@ -66,37 +66,38 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 
 1. Uprawnionymi do wprowadzania danych i informacji do ewidencji są osoby:
 
-- **1)** przeprowadzające kontrolę, o której mowa art. 379 ust. 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska:
+- **1)** przeprowadzające kontrolę, o której mowa art. 379 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska:
     - **a)** źródła spalania paliw o nominalnej mocy cieplnej mniejszej niż 1 MW, niewymagającego pozwolenia, o którym mowa art. 181 ust. 1 pkt 1 i 2 tej ustawy, albo zgłoszenia, o którym mowa art. 152 ust. 1 tej ustawy,
     - **b)** spełnienia wymagań określonych uchwale, o której mowa art. 96 ust. 1 tej ustawy,
-    - **c)** uiszczenia należnej opłaty za korzystanie ze środowiska, o której mowa art. 284 ust. 1 tej ustawy zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret pierwsze,
+    - **c)** uiszczenia należnej opłaty za korzystanie ze środowiska, o której mowa art. 284 ust. 1 tej ustawy – zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret pierwsze,
 
 - **2)** przeprowadzające kontrolę, o której mowa art. 9u ust. 1 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku gminach:
     - **a)** gospodarowania odpadami komunalnymi,
-    - **b)** odprowadzania nieczystości ciekłych zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret drugie,
+    - **b)** odprowadzania nieczystości ciekłych – zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret drugie,
 
-- **3)** przeprowadzające kontrolę, o której mowa art. 9 ust. 1 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, zakresie emisji gazów i pyłów wprowadzanych do powietrza przez przedsiębiorcę rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret trzecie,
-- **4)** przeprowadzające kontrolę przewodów kominowych (dymowych, spalinowych i wentylacyjnych), o której mowa art. 62 ust. 1 pkt 1 lit. c ustawy z dnia 7 lipca 1994 r. Prawo budowlane, zakresie tej kontroli odniesieniu do danych, o których mowa art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret szóste,
-- **5)** wskazane przez BGK, realizujące czynności zakresie premii termomodernizacyjnych i premii remontowych zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. e,
-- **6)** wskazane przez organy realizujące czynności zakresie ulgi podatkowej, o której mowa art. 26h ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. f,
-- **7)** wskazane przez organy lub inne podmioty udzielające ze środków publicznych finansowania albo dofinansowania:
+- **3)** przeprowadzające kontrolę, o której mowa art. 9 ust. 1 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, zakresie emisji gazów i pyłów wprowadzanych do powietrza przez przedsiębiorcę rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców – zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret trzecie,
+- **4)** przeprowadzające kontrolę przewodów kominowych (dymowych, spalinowych i wentylacyjnych), o której mowa art. 62 ust. 1 pkt 1 lit. c ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, zakresie tej kontroli – odniesieniu do danych, o których mowa art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret szóste,
+- **5)** wskazane przez BGK, realizujące czynności zakresie premii termomodernizacyjnych i premii remontowych – zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. e,
+- **6)** wskazane przez organy realizujące czynności zakresie ulgi podatkowej, o której mowa art. 26h ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych – zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. f,
     - **a)** przedsięwzięć termomodernizacyjnych, przedsięwzięć niskoemisyjnych lub przedsięwzięć remontowych,
     - **b)** odnawialnych źródeł energii, o których mowa art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii,
-    - **c)** innych przedsięwzięć związanych z ochroną powietrza zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. g,
-    - **a)** przyznanych świadczeń z pomocy społecznej lub innych form wsparcia finansowego ze środków publicznych zakresie: dodatku mieszkaniowego, o którym mowa ustawie z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, dodatku energetycznego, o którym mowa art. 5c ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, zasiłku celowego z przeznaczeniem na ogrzewanie, o którym mowa art. 39 ust. 1 i 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. h,
+    - **c)** innych przedsięwzięć związanych z ochroną powietrza – zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. g,
+
+- **8)** wskazane przez wójta, burmistrza lub prezydenta miasta zakresie:
+    - **a)** przyznanych świadczeń z pomocy społecznej lub innych form wsparcia finansowego ze środków publicznych zakresie: – dodatku mieszkaniowego, o którym mowa ustawie z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, – dodatku energetycznego, o którym mowa art. 5c ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, – zasiłku celowego z przeznaczeniem na ogrzewanie, o którym mowa art. 39 ust. 1 i 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej – zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. h,
     - **b)** deklaracji i przypadku, o których mowa odpowiednio art. 27g ust. 2 pkt 2 i ust. 5,
 
-- **9)** usuwające zanieczyszczenia z przewodów dymowych i spalinowych, stosownie do przepisów wydanych na podstawie art. 13 ust. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret siódme zwane dalej „osobami uprawnionymi”.
+- **9)** usuwające zanieczyszczenia z przewodów dymowych i spalinowych, stosownie do przepisów wydanych na podstawie art. 13 ust. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej – zakresie danych, o których mowa art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret siódme – zwane dalej „osobami uprawnionymi”.
 
 2. Dane osób uprawnionych gromadzi się wykazie osób uprawnionych, zwanym dalej „wykazem”.
 
 3. Dane osób uprawnionych wpisuje się do wykazu za pomocą systemu teleinformatycznego obsługującego ewidencję na wniosek:
 
-- **1)** starosty, marszałka województwa przypadku osób, o których mowa ust. 1 pkt 1;
-- **2)** wójta, burmistrza, prezydenta miasta przypadku osób, o których mowa ust. 1 pkt 1, 2 i 8;
-- **3)** Głównego Inspektora Ochrony Środowiska lub wojewódzkiego inspektora ochrony środowiska przypadku osób, o których mowa ust. 1 pkt 3;
-- **4)** tych osób przypadku osób, o których mowa ust. 1 pkt 4 i 9;
-- **5)** właściwego organu lub podmiotu przypadku osób, o których mowa ust. 1 pkt 5–7.
+- **1)** starosty, marszałka województwa – przypadku osób, o których mowa ust. 1 pkt 1;
+- **2)** wójta, burmistrza, prezydenta miasta – przypadku osób, o których mowa ust. 1 pkt 1, 2 i 8;
+- **3)** Głównego Inspektora Ochrony Środowiska lub wojewódzkiego inspektora ochrony środowiska – przypadku osób, o których mowa ust. 1 pkt 3;
+- **4)** tych osób – przypadku osób, o których mowa ust. 1 pkt 4 i 9;
+- **5)** właściwego organu lub podmiotu – przypadku osób, o których mowa ust. 1 pkt 5–7.
 
 4. Wykaz zawiera:
 
@@ -104,7 +105,7 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 - **2)** adres do korespondencji, tym adres poczty elektronicznej;
 - **3)** informacje o odpowiednich:
     - **a)** kwalifikacjach rzemiośle kominiarskim, tym ich numer,
-    - **b)** uprawnieniach budowlanych, tym ich numer, specjalność i zakres odniesieniu do osób, które te kwalifikacje lub uprawnienia posiadają;
+    - **b)** uprawnieniach budowlanych, tym ich numer, specjalność i zakres – odniesieniu do osób, które te kwalifikacje lub uprawnienia posiadają;
 
 - **4)** numer legitymacji służbowej lub upoważnienia i datę jego wydania;
 - **5)** identyfikator systemowy oraz datę jego nadania.
@@ -116,11 +117,12 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 - **1)** oświadczenie o zgodności danych zawartych we wniosku ze stanem faktycznym;
 - **2)** kopie dokumentów potwierdzających nadanie odpowiednich:
     - **a)** kwalifikacji rzemiośle kominiarskim,
-    - **b)** uprawnień budowlanych.
 
 7. Oświadczenie, o którym mowa ust. 6 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
 
-8. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przyznaje osobie uprawnionej dostęp do systemu teleinformatycznego obsługującego ewidencję. lub podmiot przypadku osób, o których mowa ust. 1 pkt 5–7, składa do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wniosek o zmianę tych danych, terminie 14 dni od dnia zaistnienia zmiany, przekazując kopię dokumentów potwierdzających zaistniałą zmianę za pomocą systemu teleinformatycznego obsługującego ewidencję.
+8. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przyznaje osobie uprawnionej dostęp do systemu teleinformatycznego obsługującego ewidencję.
+
+9. W przypadku zmiany danych, o których mowa ust. 4, osoba, o której mowa ust. 1 pkt 4 i 9, albo organ lub podmiot przypadku osób, o których mowa ust. 1 pkt 5–7, składa do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wniosek o zmianę tych danych, terminie 14 dni od dnia zaistnienia zmiany, przekazując kopię dokumentów potwierdzających zaistniałą zmianę za pomocą systemu teleinformatycznego obsługującego ewidencję.
 
 10. W przypadku, o którym mowa ust. 9, przepis ust. 7 stosuje się odpowiednio.
 
@@ -154,13 +156,13 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 - **4)** Narodowemu Funduszowi;
 - **5)** wojewódzkim funduszom ochrony środowiska i gospodarki wodnej;
 - **6)** Głównemu Urzędowi Statystycznemu;
-- **7)** podmiotom, o których mowa art. 7 ust. 1 pkt 1–7 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086);
-- **8)** Krajowemu Ośrodkowi Bilansowania i Zarządzania Emisjami Instytutowi Ochrony Środowiska Państwowemu Instytutowi Badawczemu;
+- **7)** podmiotom, o których mowa art. 7 ust. 1 pkt 1–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086);
 - **9)** ministrowi właściwemu do spraw energii;
 - **10)** ministrowi właściwemu do spraw finansów publicznych;
 - **11)** organom Krajowej Administracji Skarbowej;
 - **12)** ministrowi właściwemu do spraw wewnętrznych;
 - **13)** ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
+- **14)** ośrodkom pomocy społecznej lub centrom usług społecznych;
 - **15)** BGK;
 - **16)** wójtom, burmistrzom lub prezydentom miasta;
 - **17)** starostom;
@@ -189,21 +191,21 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 
 5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, drodze rozporządzenia, rodzaj i zakres danych i informacji udostępnianych na podstawie ust. 1 oraz sposób udostępniania danych z systemu teleinformatycznego obsługującego ewidencję, uwzględniając konieczność zapewnienia bezpieczeństwa i ochrony danych i informacji, tym danych osobowych przetwarzanych ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem.
 
-6. Udostępnianie danych i informacji Głównemu Urzędowi Statystycznemu odbywa się na zasadach określonych art. 13 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486).
-
-**Art. 27e.**
-
-1. Właścicielom budynków lub lokali, po podaniu informacji określonych przepisach wydanych na podstawie ust. 2, udostępnia się dane dotyczące ich budynków lub lokali, zgromadzone ewidencji, postaci elektronicznej przy użyciu systemu teleinformatycznego obsługującego ewidencję.
+6. Udostępnianie danych i informacji Głównemu Urzędowi Statystycznemu odbywa się na zasadach określonych art. 13 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486). tronicznej przy użyciu systemu teleinformatycznego obsługującego ewidencję.
 
 2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, drodze rozporządzenia, szczegółowy zakres udostępnianych danych oraz informacje, których podanie jest wymagane, mając na uwadze konieczność zapewnienia bezpieczeństwa tych danych.
 
-- **1)** art. 379 ust. 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska zakresie:
+**Art. 27f.**
+
+1. Wójt, burmistrz, prezydent miasta po przeprowadzeniu kontroli, o której mowa w:
+
+- **1)** art. 379 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska zakresie:
     - **a)** źródła spalania paliw o nominalnej mocy cieplnej mniejszej niż 1 MW, niewymagającego pozwolenia, o którym mowa art. 181 ust. 1 pkt 1 i 2 tej ustawy, albo zgłoszenia, o którym mowa art. 152 ust. 1 tej ustawy,
     - **b)** spełnienia wymagań określonych uchwale, o której mowa art. 96 ust. 1 tej ustawy,
 
 - **2)** art. 9u ust. 1 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku gminach zakresie:
     - **a)** gospodarowania odpadami komunalnymi,
-    - **b)** pozbywania się nieczystości ciekłych sporządza protokół, o którym mowa art. 380 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, z wykorzystaniem systemu teleinformatycznego obsługującego ewidencję.
+    - **b)** pozbywania się nieczystości ciekłych – sporządza protokół, o którym mowa art. 380 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, z wykorzystaniem systemu teleinformatycznego obsługującego ewidencję.
 
 2. Protokół kontroli zawiera:
 
@@ -231,12 +233,13 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 - **1)** imię i nazwisko albo nazwę właściciela lub zarządcy budynku lub lokalu oraz adres miejsca zamieszkania lub siedziby;
 - **2)** adres nieruchomości, obrębie której eksploatowane jest źródło ciepła lub źródło spalania paliw, o których mowa odpowiednio art. 27a ust. 2 pkt 1 lit. a i c;
 - **3)** numer telefonu właściciela lub zarządcy budynku lub lokalu, o ile posiada;
-- **4)** adres poczty elektronicznej właściciela lub zarządcy budynku lub lokalu, o ile posiada;
-- **5)** informacje o liczbie i rodzaju eksploatowanych obrębie nieruchomości źródeł ciepła lub źródeł spalania paliw, o których mowa odpowiednio art. 27a ust. 2 pkt 1 lit. a i c, oraz o ich przeznaczeniu i wykorzystywanych nich paliwach.
+- **4)** adres poczty elektronicznej właściciela lub zarządcy budynku lub lokalu, o ile posiada; nich paliwach.
 
 4. W przypadku zmiany danych, o których mowa ust. 3 pkt 5, właściciel lub zarządca budynku lub lokalu jest obowiązany złożyć nową deklarację terminie 14 dni od dnia, którym zaistniała zmiana.
 
-5. W terminie 30 dni od dnia otrzymania deklaracji postaci pisemnej wójt, burmistrz lub prezydent miasta wprowadza do ewidencji dane i informacje zawarte deklaracji z wykorzystaniem systemu teleinformatycznego obsługującego ewidencję. nictwa porozumieniu z ministrem właściwym do spraw klimatu określi wzór formularza deklaracji formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+5. W terminie 30 dni od dnia otrzymania deklaracji postaci pisemnej wójt, burmistrz lub prezydent miasta wprowadza do ewidencji dane i informacje zawarte deklaracji z wykorzystaniem systemu teleinformatycznego obsługującego ewidencję.
+
+6. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa porozumieniu z ministrem właściwym do spraw klimatu określi wzór formularza deklaracji formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 #### Rozdział 5b Przepis karny
 
@@ -246,25 +249,25 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 
 2. Nie podlega karze, o której mowa ust. 1, sprawca, który złożył deklarację po terminie, jeżeli złożenie deklaracji nastąpiło przed dniem, którym wójt, burmistrz lub prezydent miasta powziął wiadomość o popełnieniu wykroczenia.
 
-3. Orzekanie sprawach o czyn określony ust. 1 następuje na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956, 1423 i 2112).”.
+3. Orzekanie sprawach o czyn określony ust. 1 następuje na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956, 1423 i 2112).”.
 
 **Art. 2.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2020 r. poz. 995 i 1339) wprowadza się następujące zmiany:
 
 **Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm. ) użyte art. 5a pkt 18a i 18c oraz art. 21 ust. 1 pkt 133 wyrazy „o wspieraniu termomodernizacji i remontów” zastępuje się wyrazami „o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków”.
 
-**Art. 4.** W ustawie z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2020 r. poz. 1333) art. 62a dodaje się ust. 5 i 6 brzmieniu: „5. Protokół, o którym mowa ust. 1, zakresie kontroli przewodów kominowych (dymowych, spalinowych i wentylacyjnych) przeprowadzanej na podstawie art. 62 ust. 1 pkt 1 lit. c, jest sporządzany formie dokumentu elektronicznego, z wykorzystaniem systemu teleinformatycznego obsługującego centralną ewidencję emisyjności budynków, o której mowa art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2020 r. poz. 22, 284, 412 i 2127). 6. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi wzór protokołu, o którym mowa ust. 5, formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
+**Art. 4.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333) art. 62a dodaje się ust. 5 i 6 brzmieniu: „5. Protokół, o którym mowa ust. 1, zakresie kontroli przewodów kominowych (dymowych, spalinowych i wentylacyjnych) przeprowadzanej na podstawie art. 62 ust. 1 pkt 1 lit. c, jest sporządzany formie dokumentu elektronicznego, z wykorzystaniem systemu teleinformatycznego obsługującego centralną ewidencję emisyjności budynków, o której mowa art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2020 r. poz. 22, 284, 412 i 2127). nictwa określi wzór protokołu, o którym mowa ust. 5, formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
 
 **Art. 5.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2020 r. poz. 122, 568, 1086 i 1747) art. 34a ust. 1 pkt 3 na końcu dodaje się przecinek i dodaje się pkt 4 brzmieniu: „4) z zakresu ochrony środowiska”.
 
-**Art. 6.** W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2020 r. poz. 1465) użyte art. 48 ust. 1 wyrazy „o wspieraniu termomodernizacji i remontów” zastępuje się wyrazami „o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków”. wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2020 r. poz. 1465) użyte art. 48 ust. 1 wyrazy „o wspieraniu termomodernizacji i remontów” zastępuje się wyrazami „o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków”.
+
+**Art. 7.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378 i 1565) wprowadza się następujące zmiany:
 
 **Art. 421l.**
 
 1. W Banku Gospodarstwa Krajowego działa Ekologiczny Fundusz Poręczeń i Gwarancji.
 
 2. Środki Ekologicznego Funduszu Poręczeń i Gwarancji przeznacza się na pokrycie kosztów i wydatków związanych z udzielaniem poręczeń lub gwarancji, tym wypłat z tytułu udzielonych poręczeń lub gwarancji, na rzecz kredytobiorców lub pożyczkobiorców ramach wskazanych przez Narodowy Fundusz rządowych programów poręczeniowo-gwarancyjnych obejmujących projekty z zakresu ochrony środowiska, o których mowa art. 34a ust. 1 pkt 4 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne.
-
-3. Poręczenie lub gwarancja, udzielone ramach Ekologicznego Funduszu Poręczeń i Gwarancji, obejmują nie więcej niż 80% pozostającej do spłaty kwoty pożyczki lub kredytu, objętej poręczeniem lub gwarancją.
 
 4. Środki Ekologicznego Funduszu Poręczeń i Gwarancji pochodzą z:
 
@@ -273,7 +276,9 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 - **3)** wpływów z tytułu odzyskanych kwot zapłaconych przez Bank Gospodarstwa Krajowego wykonaniu umowy poręczenia lub gwarancji udzielonej ramach Ekologicznego Funduszu Poręczeń i Gwarancji;
 - **4)** odsetek z tytułu oprocentowania środków Ekologicznego Funduszu Poręczeń i Gwarancji;
 - **5)** środków, o których mowa ust. 5;
-- **6)** wpływów z innych tytułów. pokrycie kosztów i wydatków, o których mowa ust. 2, które nie znajdują pokrycia ze środków, o których mowa ust. 4 pkt 1–4 i 6.
+- **6)** wpływów z innych tytułów.
+
+5. Minister właściwy do spraw klimatu przekazuje do Ekologicznego Funduszu Poręczeń i Gwarancji środki na pokrycie kosztów i wydatków, o których mowa ust. 2, które nie znajdują pokrycia ze środków, o których mowa ust. 4 pkt 1–4 i 6.
 
 6. Minister właściwy do spraw klimatu zawiera z Bankiem Gospodarstwa Krajowego umowę określającą warunki i tryb przekazywania środków, o których mowa ust. 5.
 
@@ -296,15 +301,11 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 
 **Art. 8.** W ustawie z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2020 r. poz. 264 i 284) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2020 r. poz. 1100) użyte art. 49 ust. 1 pkt 1 lit. e wyrazy „o wspieraniu termomodernizacji i remontów” zastępuje się wyrazami „o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków”. oraz ustawy o Krajowej Administracji Skarbowej (Dz. U. poz. 1654) art. 3 otrzymuje brzmienie: „Art. 3. Przegląd, o którym mowa art. 3a ust. 2a ustawy zmienianej art. 1, jest wykonywany po raz pierwszy nie później niż do dnia 1 lipca 2021 r.”.
+**Art. 9.** W ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2020 r. poz. 1100) użyte art. 49 ust. 1 pkt 1 lit. e wyrazy „o wspieraniu termomodernizacji i remontów” zastępuje się wyrazami „o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków”.
+
+**Art. 10.** W ustawie z dnia 5 lipca 2018 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz ustawy o Krajowej Administracji Skarbowej (Dz. U. poz. 1654) art. 3 otrzymuje brzmienie: „Art. 3. Przegląd, o którym mowa art. 3a ust. 2a ustawy zmienianej art. 1, jest wykonywany po raz pierwszy nie później niż do dnia 1 lipca 2021 r.”.
 
 **Art. 11.** W ustawie z dnia 6 grudnia 2018 r. o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 51) wprowadza się następujące zmiany:
-
-**Art. 12.**
-
-1. Do porozumień, o których mowa art. 11c ust. 1 ustawy zmienianej art. 1 brzmieniu dotychczasowym, zawartych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą. Strony tych porozumień dostosują je do przepisów zmienionych niniejszą ustawą terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
-
-2. Do wniosków, o których mowa art. 11c ust. 4 ustawy zmienianej art. 1 brzmieniu dotychczasowym, złożonych przed dniem wejścia życie niniejszej ustawy i nierozpatrzonych przed tym dniem, stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej wzywa wnioskodawcę do dostosowania wniosku do przepisów zmienionych niniejszą ustawą terminie nie krótszym niż 14 dni od dnia wejścia życie niniejszej ustawy. Jeżeli wnioskodawca nie dostosuje wniosku zgodnie z wezwaniem, wniosek pozostawia się bez rozpoznania, o czym Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej informuje wnioskodawcę wezwaniu. niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą. Strony tych umów zawrą do nich aneksy celu dostosowania tych umów do przepisów zmienionych niniejszą ustawą terminie 3 miesięcy od dnia dostosowania porozumień do przepisów zmienionych niniejszą ustawą, o którym mowa ust. 1. W przypadku niezawarcia aneksów tym terminie umowy wygasają.
 
 **Art. 13.**
 
@@ -330,9 +331,13 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 
 2. W terminie 6 miesięcy od dnia otrzymania deklaracji postaci pisemnej wójt, burmistrz lub prezydent miasta wprowadza do centralnej ewidencji emisyjności budynków dane i informacje zawarte deklaracji z wykorzystaniem systemu teleinformatycznego obsługującego tę ewidencję, sposób określony art. 27g ust. 5 ustawy zmienianej art. 1.
 
-**Art. 16.** Tworzy się centralną ewidencję emisyjności budynków celu gromadzenia jednolitych, ustandaryzowanych i spójnych danych dotyczących budynków i lokali oraz eksploatowanych nich:
+- **1)** źródeł ciepła, tym zasilania z sieci ciepłowniczej,
+- **2)** źródeł energii elektrycznej,
+- **3)** źródeł spalania paliw, rozumieniu art. 157a ust. 1 pkt 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378, 1565 i 2127), o nominalnej mocy cieplnej mniejszej niż 1 MW, niewymagającego pozwolenia, o którym mowa art. 181 ust. 1 pkt 1 i 2 tej ustawy, albo zgłoszenia, o którym mowa art. 152 ust. 1 tej ustawy – na potrzeby identyfikacji i diagnozowania źródeł niskiej emisji oraz planowania i podejmowania efektywnych działań publicznych eliminujących źródła tej emisji oparciu o utworzoną ewidencję.
 
-**Art. 18.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ogłasza Dzienniku Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających:
+**Art. 17.** W Banku Gospodarstwa Krajowego tworzy się Ekologiczny Fundusz Poręczeń i Gwarancji.
+
+**Art. 18.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ogłasza Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających:
 
 **Art. 19.** Komunikaty, o których mowa art. 18, ogłasza się terminie co najmniej 3 miesięcy przed dniem wdrożenia rozwiązań technicznych określonych danym komunikacie.
 
@@ -340,32 +345,32 @@ o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych inn
 
 **Art. 21.**
 
-1. W latach 2020 ̶ 2029 maksymalny limit wydatków budżetu państwa dla części budżetowej 51 klimat będący skutkiem finansowym wejścia życie niniejszej ustawy wynosi 2,5 mln zł, z tym że nie może kolejnych latach przekroczyć:
+1. W latach 2020 ̶ 2029 maksymalny limit wydatków budżetu państwa dla części budżetowej 51 – klimat będący skutkiem finansowym wejścia życie niniejszej ustawy wynosi 2,5 mln zł, z tym że nie może kolejnych latach przekroczyć:
 
-- **1)** 2020 r. 0 mln zł;
-- **2)** 2021 r. 0 mln zł;
-- **3)** 2022 r. 0 mln zł;
-- **4)** 2023 r. 0 mln zł;
-- **5)** 2024 r. 0 mln zł;
-- **6)** 2025 r. 0,5 mln zł;
-- **7)** 2026 r. 0,5 mln zł;
-- **8)** 2027 r. 0,5 mln zł;
-- **9)** 2028 r. 0,5 mln zł;
-- **10)** 2029 r. 0,5 mln zł.
+- **1)** 2020 r. – 0 mln zł;
+- **2)** 2021 r. – 0 mln zł;
+- **3)** 2022 r. – 0 mln zł;
+- **4)** 2023 r. – 0 mln zł;
+- **5)** 2024 r. – 0 mln zł;
+- **7)** 2026 r. – 0,5 mln zł;
+- **8)** 2027 r. – 0,5 mln zł;
+- **9)** 2028 r. – 0,5 mln zł;
+- **10)** 2029 r. – 0,5 mln zł.
 
-2. W latach 2020–2029 maksymalny limit wydatków budżetu państwa dla części budżetowej 18 budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo będący skutkiem finansowym wejścia życie niniejszej ustawy wynosi 22,8 mln zł, z tym że nie może kolejnych latach przekroczyć:
+2. W latach 2020–2029 maksymalny limit wydatków budżetu państwa dla części budżetowej 18 – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo będący skutkiem finansowym wejścia życie niniejszej ustawy wynosi 22,8 mln zł, z tym że nie może kolejnych latach przekroczyć:
 
-- **1)** 2020 r. 0,2 mln zł;
-- **2)** 2021 r. 0,8 mln zł;
-- **4)** 2023 r. 2,3 mln zł;
-- **5)** 2024 r. 3 mln zł;
-- **6)** 2025 r. 3 mln zł;
-- **7)** 2026 r. 3 mln zł;
-- **8)** 2027 r. 3 mln zł;
-- **9)** 2028 r. 3 mln zł;
-- **10)** 2029 r. 3 mln zł.
+- **1)** 2020 r. – 0,2 mln zł;
+- **2)** 2021 r. – 0,8 mln zł;
+- **3)** 2022 r. – 1,5 mln zł;
+- **4)** 2023 r. – 2,3 mln zł;
+- **5)** 2024 r. – 3 mln zł;
+- **6)** 2025 r. – 3 mln zł;
+- **7)** 2026 r. – 3 mln zł;
+- **8)** 2027 r. – 3 mln zł;
+- **9)** 2028 r. – 3 mln zł;
+- **10)** 2029 r. – 3 mln zł.
 
-3. Minister właściwy do spraw klimatu zakresie części budżetowej 51 klimat oraz minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zakresie części budżetowej 18 budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo monitorują wykorzystanie limitów wydatków oraz wdrażają mechanizm korygujący, o którym mowa ust. 4.
+3. Minister właściwy do spraw klimatu zakresie części budżetowej 51 – klimat oraz minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zakresie części budżetowej 18 – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo monitorują wykorzystanie limitów wydatków oraz wdrażają mechanizm korygujący, o którym mowa ust. 4.
 
 4. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa ust. 1 i 2, odpowiednio minister właściwy do spraw klimatu albo minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa stosują mechanizm korygujący polegający na ograniczeniu wydatków przeznaczonych na sfinansowanie zadań, o których mowa ustawie zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 

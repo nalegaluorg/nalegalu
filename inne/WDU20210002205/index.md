@@ -8,9 +8,12 @@ pos: 2205
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 grudnia 2021 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 29 października 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +27,20 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2205/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 29 października 2021 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411 i Nr 245, poz. 1775), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej (Dz. U. poz. 1662),
 2) ustawą z dnia 19 lipca 2019 r. o zmianie ustawy Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U.
 poz. 1655, z 2020 r. poz. 288 oraz z 2021 r. poz. 187) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 października 2021 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411 i Nr 245, poz. 1775), który stanowi: „Art. 21. W ustawie z dnia 30 kwietnia 2004 r. o postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291) wprowadza się następujące zmiany:
+1) art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411 i Nr 245, poz. 1775), który stanowi: „Art. 21. W ustawie z dnia 30 kwietnia 2004 r. o postępowaniu sprawach dotyczących pomocy publicznej (Dz.
+U. Nr 123, poz. 1291) wprowadza się następujące zmiany:
 1) art. 2:
 a) pkt 12 otrzymuje brzmienie: „12) podmiocie udzielającym pomocy należy przez to rozumieć organ administracji publicznej lub inny podmiot, który jest uprawniony do udzielania pomocy publicznej, tym przedsiębiorcę publicznego, o którym mowa art. 2 ust. 1 pkt 4 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411);”,
 b) uchyla się pkt 14,
 c) dodaje się pkt 17 brzmieniu: „17) działalności gospodarczej należy przez to rozumieć działalność gospodarczą, do której mają zastosowanie reguły konkurencji określone przepisach części trzeciej tytułu VI rozdziału 1 Traktatu ustanawiającego Wspólnotę Europejską.”;
+2) art. 40 uchyla się ust. 3 i 4;
 3) art. 44 ust. 1 otrzymuje brzmienie: „1. Za niewykonanie lub nienależyte wykonanie obowiązków, o których mowa art. 21 ust. 2 i art. 39, oraz za utrudnianie przeprowadzenia kontroli u beneficjenta pomocy, Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie minister właściwy do spraw rolnictwa, może, drodze decyzji, nałożyć na beneficjenta karę pieniężną do wysokości równowartości 10 000 euro.”.”;
-2) art. 41 ustawy z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej (Dz. U. poz. 1662), który stanowi: „Art. 41. Ustawa wchodzi życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 1, art. 32 i art. 33, które wchodzą życie z dniem 1 kwietnia 2015 r.”;
+2) art. 41 ustawy z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej (Dz. U. poz. 1662), który stanowi:
 3) art. 36 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1655, z 2020 r. poz. 288 oraz z 2021 r. poz. 187), który stanowi: „Art. 36. Ustawa wchodzi życie z dniem 1 lipca 2021 r., z wyjątkiem art. 1 pkt 9, 10, 12, 13, 17–27, art. 15, art. 28 i art. 35, które wchodzą życie z dniem 1 marca 2020 r.”.
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 22 września 2006 r.
@@ -56,13 +59,12 @@ o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przeds
     - **a)** przedsiębiorców publicznych, na których działalność organy publiczne wywierają decydujący wpływ sposób bezpośredni organ publiczny sprawujący nadzór nad działalnością danego przedsiębiorcy publicznego na mocy odrębnych przepisów, a stosunku do: spółek z udziałem Skarbu Państwa organ publiczny wykonujący prawa z akcji lub z udziałów należących do Skarbu Państwa, spółek z udziałem jednostek samorządu terytorialnego lub ich związków organ publiczny wykonujący prawa z akcji lub z udziałów należących do jednostek samorządu terytorialnego lub ich związków, przedsiębiorstw państwowych organ założycielski, przedsiębiorstw komunalnych organ jednostki samorządu terytorialnego albo jej jednostki pomocniczej utworzonej na podstawie odrębnych przepisów, pełniący funkcję organu założycielskiego,
     - **b)** przedsiębiorców publicznych, na których działalność przedsiębiorca publiczny, o którym mowa lit. a, wywiera decydujący wpływ organ nadzorujący tego przedsiębiorcę;
 
-- **3)** decydującym wpływie należy przez to rozumieć bezpośrednie lub pośrednie oddziaływanie na działalność danego przedsiębiorcy, polegające na:
+- **3)** decydującym wpływie należy przez to rozumieć bezpośrednie lub pośrednie oddziaływanie na działalność danego przedsiębiorcy, polegające na: wywiera decydujący wpływ, niezależnie od wpływu wywieranego na niego przez inne podmioty;
     - **a)** dysponowaniu większością głosów organach przedsiębiorcy (zależnego), także na podstawie porozumień z innymi podmiotami lub
     - **b)** uprawnieniu do powoływania lub odwoływania większości członków organów przedsiębiorcy (zależnego), także na podstawie porozumień z innymi podmiotami, lub
     - **c)** sytuacji, której więcej niż połowa członków zarządu drugiego przedsiębiorcy (zależnego) jest jednocześnie członkami zarządu, prokurentami lub osobami pełniącymi funkcje kierownicze pierwszego przedsiębiorcy bądź innego przedsiębiorcy pozostającego z tym pierwszym stosunku zależności, lub
     - **d)** zdolności do decydowania inny sposób o kierunkach działalności przedsiębiorcy (zależnego), szczególności na podstawie umowy przewidującej zarządzanie tym przedsiębiorcą;
 
-- **4)** przedsiębiorcy publicznym należy przez to rozumieć każdy podmiot prowadzący działalność gospodarczą, bez względu na sposób działania oraz formę organizacyjno-prawną, szczególności spółkę handlową, spółdzielnię, przedsiębiorstwo państwowe, towarzystwo ubezpieczeń wzajemnych oraz bank państwowy, na którego działalność organ publiczny wywiera decydujący wpływ, niezależnie od wpływu wywieranego na niego przez inne podmioty;
 - **5)** przedsiębiorcy lub działalności gospodarczej należy przez to rozumieć odpowiednio przedsiębiorcę lub działalność gospodarczą, do których mają zastosowanie reguły konkurencji określone przepisach części trzeciej tytułu VI rozdziału 1 Traktatu ustanawiającego Wspólnotę Europejską;
 - **6)** przysporzeniu ze środków publicznych należy przez to rozumieć przysporzenie dokonane na rzecz określonego przedsiębiorcy zakresie prowadzonej przez niego działalności gospodarczej, jeżeli jest realizowane bezpośrednio ze środków publicznych lub z takich środków przekazanych innym podmiotom, albo przysporzenie, które pomniejsza lub może pomniejszyć środki publiczne należne od tego przedsiębiorcy;
 - **7)** środkach publicznych należy przez to rozumieć również środki przedsiębiorcy publicznego;
@@ -89,9 +91,6 @@ o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przeds
 - **1)** dokonane na jego rzecz przysporzenia ze środków publicznych;
 - **2)** rzeczywisty sposób wykorzystania przysporzenia ze środków publicznych;
 - **3)** bezpośrednie lub pośrednie powiązania organizacyjne i finansowe pomiędzy nim a organami publicznymi.
-
-2. Obowiązek, o którym mowa ust. 1, dotyczy szczególności przysporzenia ze środków publicznych polegającego na:
-
 - **1)** pokryciu strat wynikających z prowadzenia działalności gospodarczej lub nieuczestniczeniu zyskach;
 - **2)** dokapitalizowaniu przedsiębiorcy, tym przez nabycie akcji i udziałów podwyższonym kapitale zakładowym spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej albo nowych akcji prostej spółki akcyjnej;
 - **3)** udzieleniu dotacji;
@@ -124,11 +123,7 @@ o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przeds
 1. Organ nadzorujący dokonuje, ramach swojej właściwości, weryfikacji i oceny działalności:
 
 - **1)** przedsiębiorcy publicznego zakresie, o którym mowa art. 3 ust. 1 oraz art. 4 ust. 1 i 4;
-- **2)** przedsiębiorcy zakresie, o którym mowa art. 4 ust. 3.
-
-2. W razie stwierdzenia, że:
-
-- **1)** przedsiębiorca publiczny nie wykonuje lub nienależycie wykonuje obowiązki, o których mowa art. 3 ust. 1 oraz art. 4 ust. 1 i 4,
+- **2)** przedsiębiorcy zakresie, o którym mowa art. 4 ust. 3. 4 ust. 1 i 4,
 - **2)** przedsiębiorca nie wykonuje lub nienależycie wykonuje obowiązki, o których mowa art. 4 ust. 3 organ nadzorujący może, drodze decyzji, zobowiązać tego przedsiębiorcę do podjęcia, wyznaczonym terminie, określonych działań niezbędnych do wykonania lub należytego wykonania tych obowiązków.
 
 3. W przypadku gdy niewykonanie lub nienależyte wykonanie obowiązków, o których mowa art. 3 ust. 1 oraz art. 4 ust. 1, 3 i 4, dotyczy stosunków finansowych pomiędzy przedsiębiorcą albo przedsiębiorcą publicznym a określonym organem publicznym innym niż organ nadzorujący, przed wydaniem decyzji, o której mowa ust. 2, organ nadzorujący zwraca się do tego organu publicznego o zajęcie stanowiska, zawiadamiając o tym przedsiębiorcę.
@@ -150,11 +145,7 @@ o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przeds
 - **1)** prowadzenia odrębnej ewidencji dla działalności związanej z realizacją praw wyłącznych, praw specjalnych lub usług ogólnym interesie gospodarczym oraz dla pozostałej działalności gospodarczej, tym do prawidłowego przypisywania przychodów i kosztów na podstawie konsekwentnie stosowanych i mających obiektywne uzasadnienie metod, oraz
 - **2)** jasnego określenia dokumentacji, o której mowa art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217), zasad prowadzenia odrębnej ewidencji oraz metod przypisywania kosztów i przychodów, o których mowa pkt 1.
 
-2. Decyzja, umowa lub inny akt prawny, na podstawie którego organ publiczny powierza przedsiębiorcy realizację określonych usług ogólnym interesie gospodarczym związaną z dokonywaniem przysporzenia ze środków publicznych,
-
-**Art. 9.**
-
-1. Przedsiębiorca, o którym mowa art. 8 ust. 1, terminie 30 dni od dnia zatwierdzenia sprawozdania finansowego, przekazuje organowi publicznemu, który udzielił mu praw specjalnych lub praw wyłącznych lub powierzył realizację usług ogólnym interesie gospodarczym:
+2. Decyzja, umowa lub inny akt prawny, na podstawie którego organ publiczny powierza przedsiębiorcy realizację określonych usług ogólnym interesie gospodarczym związaną z dokonywaniem przysporzenia ze środków publicznych, powinien sposób jasny i przejrzysty określać zakres oraz zasady realizacji powierzanych usług. realizację usług ogólnym interesie gospodarczym:
 
 - **1)** dokumenty i materiały dotyczące sytuacji prawnej oraz ekonomiczno-finansowej, zasad jego organizacji oraz sposobu finansowania, przedstawiające sposób wykonania obowiązków określonych art. 8 ust. 1;
 - **2)** informację zawierającą szczegółowe dane dotyczące przedsiębiorcy, jego organizacji oraz prowadzonej działalności gospodarczej, tym: dane o przychodach uzyskanych z działalności, której dotyczą prawa specjalne, prawa wyłączne lub powierzone do realizacji usługi oraz o innych źródłach finansowania tej działalności, tym dane o uzyskanych związku z tą działalnością przysporzeniach ze środków publicznych oraz dane o kosztach tej działalności.
@@ -177,8 +168,6 @@ o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przeds
 
 **Art. 13.** Przepisów art. 8–12 nie stosuje się do:
 
-**Art. 14.** W przypadku gdy z mocy prawa przysługują przedsiębiorcy prawa specjalne lub prawa wyłączne lub następuje powierzenie przedsiębiorcy realizacji usług ogólnym interesie gospodarczym albo innych zadań związanej z dokonywaniem przysporzenia ze środków publicznych, a przedsiębiorca ten prowadzi lub może prowadzić również inny rodzaj działalności gospodarczej niż działalność, której dotyczą te prawa lub usługi albo zadania, kompetencje i obowiązki organu publicznego, o których mowa art. 9 ust. 1 i 3 oraz art. 11, wykonuje organ, do właściwości którego należą sprawy z zakresu realizacji tych praw lub usług albo zadań.
-
 **Art. 15.** Przepisów art. 8–14 nie stosuje się, przypadku gdy zasady dotyczące zachowania przejrzystości finansowej przez przedsiębiorców, o których mowa art. 8 ust. 1 oraz art. 12, zostały uregulowane odrębnych przepisach.
 
 #### Rozdział 4 Przechowywanie i przekazywanie dokumentów, materiałów i informacji
@@ -199,9 +188,7 @@ o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przeds
 
 5. Przekazanie Komisji Europejskiej odpowiedzi, o których mowa ust. 1 i 2, oraz dokumentów, materiałów i informacji, o których mowa art. 4 ust. 1, 3 i 4, art. 5, art. 9 ust. 1 i 3 oraz art. 17, jest dokonywane za pośrednictwem Stałego Przedstawicielstwa Rzeczypospolitej Polskiej przy Unii Europejskiej Brukseli.
 
-6. Organy jednostek samorządu terytorialnego lub związków tych jednostek przedstawiają odpowiedzi, o których mowa ust. 1 i 2, oraz dokumenty, materiały i informacje, o których mowa art. 4 ust. 1, 3 i 4, art. 5, art. 9 ust. 1 i 3 oraz art. 17, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, który przekazuje je Komisji Europejskiej na jej
-
-**Art. 19.** W przypadku gdy z mocy prawa przysługują przedsiębiorcy prawa specjalne lub prawa wyłączne lub następuje powierzenie przedsiębiorcy realizacji usług ogólnym interesie gospodarczym albo innych zadań, związanej z dokonywaniem przysporzenia ze środków publicznych, a przedsiębiorca ten prowadzi lub może prowadzić również inny rodzaj działalności gospodarczej niż działalność, której dotyczą te prawa lub usługi albo zadania, kompetencje i obowiązki organu publicznego, o których mowa art. 16 pkt 2 oraz art. 18 ust. 2–6, wykonuje organ, do właściwości którego należą sprawy z zakresu realizacji tych praw lub usług albo zadań.
+6. Organy jednostek samorządu terytorialnego lub związków tych jednostek przedstawiają odpowiedzi, o których mowa ust. 1 i 2, oraz dokumenty, materiały i informacje, o których mowa art. 4 ust. 1, 3 i 4, art. 5, art. 9 ust. 1 i 3 oraz art. 17, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, który przekazuje je Komisji Europejskiej na jej wniosek. łalności gospodarczej niż działalność, której dotyczą te prawa lub usługi albo zadania, kompetencje i obowiązki organu publicznego, o których mowa art. 16 pkt 2 oraz art. 18 ust. 2–6, wykonuje organ, do właściwości którego należą sprawy z zakresu realizacji tych praw lub usług albo zadań.
 
 **Art. 20.**
 

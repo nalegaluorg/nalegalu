@@ -8,6 +8,7 @@ pos: 872
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Przepisy wprowadzające ustawy reformujące administrację publiczną

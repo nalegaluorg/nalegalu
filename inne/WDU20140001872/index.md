@@ -8,9 +8,12 @@ pos: 1872
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 grudnia 2014 r.
+# o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
+
+*USTAWA z dnia 23 października 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001872) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1872/text.pdf) |
 
-Poz. 1872
-USTAWA z dnia 23 października 2014 r.
-o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
-
 **Art. 1.** W ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2012 r. poz. 86 oraz z 2013 r. poz. 1537) wprowadza się następujące zmiany:
 
 **Art. 2.**
@@ -36,5 +35,5 @@ o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodars
 
 2. Zaświadczenia, o których mowa w ust. 1, uznaje się za decyzje administracyjne o wpisie producenta do ewidencji producentów.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r.
 

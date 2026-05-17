@@ -8,11 +8,12 @@ pos: 110
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# ousługach detektywistycznych.
+# o usługach detektywistycznych
 
-*USTAWA zdnia 6 lipca 2001 r.*
+*USTAWA z dnia 6 lipca 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,173 +27,428 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020120110) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/110/text.pdf) |
 
-ści polegające na uzyskiwaniu informacji osobach, przedmiotach izdarzeniach, realizowane na podstawie umowy zawartej ze zleceniodawcą, formach i zakresie niezastrzeżonych dla organów i instytucji państwowych na mocy odrębnych przepisów, a szczególności:
-1) zbieranie informacji wsprawach cywilnych,
-2) zbieranie informacji dotyczących majątku, zdolności płatniczych oraz wiarygodności stosunkach gospodarczych osób i jednostek organizacyjnych,
-3) zbieranie informacji dotyczących bezprawnego wykorzystywania działalności gospodarczej nazw handlowych i znaków towarowych, nieuczciwej konkurencji oraz ujawnienia wiadomości stanowiących tajemnicę handlową,
-4) sprawdzanie wiarygodności informacji dotyczących szkód zgłaszanych zakładom ubezpieczeniowym,
-5) poszukiwanie osób zaginionych ukrywających się,
-6) poszukiwanie mienia,
-7) zbieranie informacji sprawie, której toczy się postępowanie karne, postępowanie sprawach przestępstwa skarbowe i wykroczenia skarbowe i inne, jeśli toku postępowania można zastosować przepisy prawa karnego.
-Zleceniodawcą czynności, których mowa wust.1 pkt 7, nie mogą być organy prowadzące inadzorujące postępowania wtych sprawach.
-3.Podjęcie działalności gospodarczej wzakresie usług detektywistycznych wymaga uzyskania zezwolenia.
-4.1. Wykonywanie czynności, októrych mowa wart. 2 ust. wramach prowadzonej działalności gospodarczej, wymaga posiadania licencji detektywa, zwanej dalej Ńlicencją”.
-Detektywem wrozumieniu ustawy jest osoba posiadająca licencję.
-3. Tytułu zawodowego Ńdetektyw” może używać wyłącznie osoba posiadająca licencję.
-5. Czynności, których mowa art. 2 ust.
-mogą być wykonywane przez detektywa:
-1) przedsiębiorcę, we własnym imieniu, pod warunkiem posiadania zezwolenia na wykonywanie usług detektywistycznych,
-2) na podstawie stosunku pracy umowy zlecenia cego usługę iszczególną starannością, by nie naruszyć wolności ipraw człowieka iobywatela.
-7. Wykonując usługi detektywistyczne, których mowa wart. 2 ust. detektyw nie może stosować środków technicznych oraz metod i czynności operacyjno-rozpoznawczych, zastrzeżonych dla upoważnionych organów na mocy odrębnych przepisów.
-8.1. Detektyw jest uprawniony przetwarzania danych osobowych, zebranych wtoku wykonywanych przez niego czynności detektywa, bez zgody osób, których dane dotyczą.
-Detektyw uprawniony przetwarzania danych osobowych, związku z wykonywaniem przez niego czynności detektywa, nie może powierzać przetwarzania danych innemu podmiotowi.
-3. Detektyw ma obowiązek zniszczyć przetwarzane dane osobowe, zebrane wtoku wykonywania czynności detektywa, najpóêniej bezpośrednio po zaprzestaniu korzystania zuprawnień detektywa.
-4. Detektyw jest obowiązany przy przetwarzaniu danych osobowych stosować przepisy ustawy z dnia 29 sierpnia 1997 r. ochronie danych osobowych (Dz.U. 133, poz. 883, z2000 r. 12, poz. 136, 50, poz. 580 i 116, poz. 1216 oraz z 2001 r. 42, poz. 474, 49, poz. 509 i 100, poz. 1087), z wyłączeniem art. 25 ust. 1 iart. 32—35.
-9. Oile przepisy innych ustaw nie stanowią inaczej, detektyw, trakcie wykonywania czynności, których mowa art. 2 ust. może uzyskiwać informacje od osób fizycznych, przedsiębiorców, instytucji, a także organów administracji rządowej samorządowej.
-10.Detektyw podczas wykonywania czynności obowiązany jest posiadać przy sobie licencję oraz okazywać ją na żądanie osoby, której czynności dotyczą, wtaki sposób, aby zainteresowany miał możliwość odczytać izanotować imię inazwisko detektywa oraz nazwę organu, który wydał licencję.
-11.Detektyw jest obowiązany:
-1) ustalić tożsamość osoby zlecającej wykonanie czynności, októrych mowa wart. 2 ust.
-2) zachować należytą staranność wykonywaniu czynności, októrych mowa wart. 2 ust.
-3) przestrzegać przy wykonywaniu czynności, których mowa art. 2 ust. przepisów prawa oraz odmówić wykonania czynności nieetycznej niezgodnej zprawem.
-12. 1. Detektyw jest obowiązany zachować tajemnicy êródła informacji oraz okoliczności spra13.1. Detektyw ma obowiązek sporządzić końcowe pisemne sprawozdanie zwykonanych czynności, obejmujące ustalony stan faktyczny, które powinno zawierać wszczególności:
-1) datę zawarcia umowy,
-2) opis przedmiotu umowy,
-3) określenie zakresu i przebiegu przeprowadzonych czynności,
-4) opis stanu faktycznego,
-5) datę zakończenia czynności wsprawie.
-Sprawozdanie, októrym mowa wust. sporządza się wjednym egzemplarzu iwraz zmateriałami dokumentującymi opis stanu faktycznego przekazuje zleceniodawcy.
-14. Detektyw ponosi odpowiedzialność za szkody wyrządzone podczas wykonywania czynności, których mowa art. 2 ust. oraz wskutek podania nieprawdziwych informacji, na zasadach określonych wKodeksie cywilnym.
-15.1. Organem właściwym wydania, odmowy wydania oraz cofnięcia zezwolenia na wykonywanie działalności gospodarczej zakresie usług detektywistycznych, zwanego dalej Ńzezwoleniem”, jest minister właściwy spraw wewnętrznych, zwany dalej Ńorganem zezwalającym”.
-Wydanie zezwolenia następuje po zasięgnięciu opinii wojewody właściwego ze względu na siedzibę miejsce zamieszkania przedsiębiorcy ubiegającego się ozezwolenie.
-16. Zezwolenie wydaje się na wniosek:
-1) przedsiębiorcy będącego osobą fizyczną, jeżeli posiada licencję,
-2) przedsiębiorcy innego niż osoba fizyczna, jeżeli licencję posiada co najmniej jeden członek organu zarządzającego przedsiębiorcy zwanego dalej Ńwnioskodawcą”.
-17.1. Ozezwolenie może ubiegać się wnioskodawca, októrym mowa wart. 16, jeżeli nie jest wpisany rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego inie zalega zwpłatami należności budżetowych oraz z opłacaniem składek na rzecz Zakładu Ubezpieczeń Społecznych.
-ści:
-1) oznaczenie wnioskodawcy ijego siedziby oraz jego adres,
-2) numer wnioskodawcy wrejestrze przedsiębiorców,
-3) wskazanie adresów stałych miejsc wykonywania działalności gospodarczej,
-4) określenie zasięgu terytorialnego świadczenia usług detektywistycznych,
-5) datę podjęcia działalności gospodarczej,
-6) dane osobowe wnioskodawcy, którym mowa wart. 16 pkt awprzypadku wnioskodawcy, októrym mowa art. 16 pkt 2, dane członków organu zarządzającego przedsiębiorcy oraz ustanowionych przez ten organ prokurentów i pełnomocników, zawierające: imię i nazwisko, datę i miejsce urodzenia, obywatelstwo, numer PESEL, awprzypadku osoby posiadającej obywatelstwo innego państwa członkowskiego Unii Europejskiej—serię inumer paszportu,oraz adresy zameldowania tych osób na pobyt stały iczasowy.
-Wnioskodawca może wystąpić owydanie zezwolenia na czas oznaczony.
-3. Do wniosku należy dołączyć następujące dokumenty:
-1) określające formę prawną wnioskodawcy, wszczególności umowę spółki inny przewidziany przepisami prawa dokument dotyczący ustanowienia działalności iorganizacji przedsiębiorcy,
-2) odpis zrejestru przedsiębiorców,
-3) listę udziałowców albo akcjonariuszy posiadających nie mniej niż 30% akcji udziałów,
-4) określające proporcje udziału kapitału polskiego i zagranicznego spółce oraz jego wysokość, z oznaczeniem adresów siedziby miejsca zamieszkania wspólnika wspólników zagranicznych, gdy spółka jest podmiotem zudziałem zagranicznym,
-5) dokument potwierdzający posiadanie licencji przez osoby, októrych mowa wart. 16 pkt 1 2,
-6) zaświadczenia oniekaralności wszystkich osób wymienionych we wniosku,
-7) zaświadczenie właściwego organu podatkowego stwierdzające, że przedsiębiorca nie zalega zwpłatami należności budżetowych, oraz zaświadczenie zZakładu Ubezpieczeń Społecznych oniezaleganiu zopłaceniem składek,
-8) odpis z rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego.
-1) imię i nazwisko oraz numer licencji przedsiębiorcy osób wymienionych wart. 16 pkt 2,
-2) oznaczenie przedsiębiorcy ijego siedziby oraz jego adres,
-3) wskazanie adresu stałego miejsca wykonywania działalności gospodarczej,
-4) określenie terminu ważności zezwolenia,
-5) określenie zasięgu terytorialnego wykonywania działalności gospodarczej zakresie świadczenia usług detektywistycznych,
-6) datę wydania zezwolenia.
-W zezwoleniu zamieszcza się pouczenie obowiązku podjęcia działalności gospodarczej terminie 6 miesięcy od daty wydania zezwolenia.
-3. Przedsiębiorca jest obowiązany powiadomić organ zezwalający, terminie 14 dni, zmianach stanu faktycznego i prawnego zakresie danych zawartych we wniosku iwdokumentach stanowiących załączniki wniosku powstałych po dacie wydania zezwolenia.
-21. Organ zezwalający odmawia wydania zezwolenia:
-1) jeżeli przedsiębiorcy uprzednio cofnięto zezwolenie z przyczyn, których mowa art. 26 pkt 2 lit. a)—f) pkt 3, a od dnia cofnięcia zezwolenia dnia złożenia następnego wniosku nie upłynęły 3 lata,
-2) jeżeli przedsiębiorca nie spełnia warunków, których mowa wart. 16 17,
-3) ze względu na zagrożenie bezpieczeństwa powszechnego iporządku publicznego.
-22. Przedsiębiorca jest obowiązany podjąć działalność gospodarczą zakresie usług detektywistycznych terminie 6 miesięcy od daty wydania zezwolenia.
-23. 1. Przedsiębiorca prowadzący działalność gospodarczą wzakresie usług detektywistycznych jest obowiązany:
-1) powiadomić organ zezwalający podjęciu działalności, terminie 14 dni od dnia jej podjęcia, nie póêniej jednak niż ciągu 6 miesięcy od daty wydania zezwolenia,
-2) zachowywać formę pisemną umów dotyczących prowadzonej działalności gospodarczej,
-3) prowadzić iprzechowywać dokumentację dotyczącą zatrudnianych detektywów oraz zawieranych irealizowanych umów, atakże sprawozdań sporządzanych po zakończeniu spraw,
-4) przedstawiać dokumentację, októrej mowa wpkt3, gólności wykaz zatrudnionych przez przedsiębiorcę detektywów, rejestr zawartych umów wraz z opisem ich realizacji, a także sprawozdanie kończące postępowanie wsprawie.
-24. 1. Przedsiębiorca jest obowiązany zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone podczas wykonywania czynności detektywa.
-Minister właściwy spraw instytucji finansowych, porozumieniu z ministrem właściwym spraw wewnętrznych, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, drodze rozporządzenia, szczegółowe zasady spełnienia obowiązku ubezpieczenia, którym mowa ust. tym szczególności termin powstania obowiązku zawarcia umowy ubezpieczenia oraz minimalną sumę gwarancyjną. Minister właściwy spraw instytucji finansowych, wydając rozporządzenie, uwzględnia konieczność zapewnienia gwarancji spełnienia obowiązku zawarcia umowy ubezpieczenia.
-25.Przedsiębiorca jest obowiązany, niezwłocznie po zawarciu umowy, októrej mowa wart. 2 ust.
-powiadomić na piśmie ojej zawarciu organ prowadzący postępowanie karne postępowanie wsprawach przestępstwa skarbowe i wykroczenia skarbowe, jeżeli ztreści tej umowy wynika, że może się ona wiązać ze sprawą, wktórej prowadzone jest postępowanie.
-26. Zezwolenie na prowadzenie działalności gospodarczej wzakresie usług detektywistycznych cofa się, jeżeli:
-1) upłynął termin 6 miesięcy od dnia wydania zezwolenia, aprzedsiębiorca nie podjął nie powiadomił organu zezwalającego podjęciu działalności gospodarczej,
-2) przedsiębiorca:
-a) przestał spełniać warunki, których mowa wart.16 17,
-b) poprzez swoje działanie stwarza zagrożenie dla obronności bezpieczeństwa państwa albo zagrożenie dla bezpieczeństwa dóbr osobistych obywateli,
-c) wykonuje czynności zastrzeżone dla organów iinstytucji państwowych,
-d) nie wykonuje obowiązków, których mowa art. 23 ust. bądê uniemożliwia przeprowadzenie kontroli swojej działalności przez uprawnione organy,
-e) nie wykonał obowiązku, którym mowa wart.24 ust.
-f) nie usunął innych stwierdzonych uchybień łalności gospodarczej.
-27.1. Kontrolę działalności gospodarczej wzakresie usług detektywistycznych przeprowadza organ zezwalający.
-Organ zezwalający może upoważnić przeprowadzenia kontroli działalności gospodarczej wzakresie usług detektywistycznych inny organ państwowy wyspecjalizowany wkontroli danego rodzaju działalności.
-28. W sprawach wydania, odmowy wydania cofnięcia zezwolenia oraz kontroli działalności gospodarczej zakresie usług detektywistycznych nieuregulowanych wustawie stosuje się przepisy ustawy zdnia 19 listopada 1999 r. Prawo działalności gospodarczej (Dz. U. 101, poz. 1178, z 2000 r. 86, poz. 958 i 114, poz. 1193, z 2001 r. 49, poz. 509, 67, poz. 679, 102, poz. 1115 i 147, poz. 1643 oraz z 2002 r. poz. 2).
-29.1. Owydanie licencji może ubiegać się osoba, jeżeli:
-1) posiada obywatelstwo polskie obywatelstwo innego państwa członkowskiego Unii Europejskiej oraz biegłą znajomość języka polskiego,
-2) ukończyła 21 lat,
-3) posiada wykształcenie co najmniej średnie,
-4) ma pełną zdolność czynności prawnych,
-5) nie toczy się przeciwko niej postępowanie karne postępowanie wsprawach oprzestępstwa skarbowe popełnione zwiny umyślnej,
-6) nie była skazana prawomocnym wyrokiem sądu za przestępstwo przestępstwo skarbowe popełnione zwiny umyślnej,
-7) nie została zwolniona dyscyplinarnie zPolicji, Straży Granicznej, Urzędu Ochrony Państwa, wojska, prokuratury, sądu zinnego urzędu administracji publicznej Rzeczypospolitej Polskiej innym państwie członkowskim Unii Europejskiej wciągu ostatnich 5 lat,
-8) posiada nienaganną opinię wydaną przez komendanta powiatowego (miejskiego) Policji właściwego ze względu na jej miejsce zamieszkania.
-Okoliczności, których mowa ust. 1 pkt 4—7, potwierdzają odpowiednio: pisemne oświadczenie osoby ubiegającej się owydanie licencji, zaświadczenie niekaralności oraz świadectwo pracy. Dokumenty te osoba ubiegająca się owydanie licencji jest
-4. Minister właściwy spraw wewnętrznych określi, wdrodze rozporządzenia, tryb składania wniosku wydanie licencji oraz dokumenty potwierdzające spełnienie wymogów, których mowa ust. 1 pkt1—3, uwzględniając potrzebę zapewnienia sprawności postępowania.
-30.1. Egzamin dla osób ubiegających się owydanie licencji, zwany dalej Ńegzaminem”, przeprowadza nie rzadziej niż raz na 6 miesięcy komisja powoływana przez komendanta wojewódzkiego Policji.
-Członkowie komisji za udział wjej pracach otrzymują wynagrodzenie wysokości nieprzekraczającej 50% przeciętnego miesięcznego wynagrodzenia z ostatniego kwartału ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”.
-31. Za egzamin pobiera się opłatę od osoby składającej egzamin wysokości zapewniającej pokrycie kosztów egzaminu.
-32. 1. Minister właściwy spraw wewnętrznych, porozumieniu z ministrem właściwym spraw finansów publicznych, określi, drodze rozporządzenia:
-1) tryb wnoszenia opłaty, októrej mowa wart. 31,
-2) jej wysokość,
-3) stawki wynagrodzenia egzaminatorów.
-Wrozporządzeniu, októrym mowa wust. należy uwzględnić wszczególności podmiot uprawniony pobierania opłaty, termin jej wnoszenia, kalkulację kosztów egzaminów obejmującą ich koszty organizacyjno-techniczne, a także funkcje pełnione przez egzaminatorów wkomisji egzaminacyjnej iczas trwania egzaminów.
-33. Egzamin obejmuje zagadnienia z zakresu Konstytucji Rzeczypospolitej Polskiej oraz przepisów dotyczących Policji, Urzędu Ochrony Państwa, Straży Granicznej, ochrony danych osobowych, ochrony informacji niejawnych, a także z zakresu prawa cywilnego ikarnego (materialnego iprocesowego), kryminalistyki, kryminologii iwiktymologii oraz psychologii sądowej.
-34. 1. Minister właściwy spraw wewnętrznych, porozumieniu z ministrem właściwym spraw oświaty iwychowania, określi, wdrodze rozporządzenia:
-1) zakres obowiązujących tematów egzaminacyjnych,
-2) skład komisji egzaminacyjnej i sposób przeprowadzania egzaminów, ministra właściwego spraw wewnętrznych, ministra właściwego spraw oświaty iwychowania oraz środowiska naukowe zdziedziny kryminalistyki, kryminologii, wiktymologii ipsychologii sądowej.
-35. 1. Licencję wydaje, odmawia jej wydania, zawiesza cofa, drodze decyzji administracyjnej, komendant wojewódzki Policji właściwy ze względu na miejsce zamieszkania osoby ubiegającej się owydanie licencji.
-Licencję wydaje się na czas nieoznaczony.
-3. Za wydanie licencji pobiera się opłatę.
-4. Minister właściwy spraw wewnętrznych, porozumieniu z ministrem właściwym spraw finansów publicznych, określi, wdrodze rozporządzenia, wysokość opłaty za licencję oraz tryb jej wnoszenia, uwzględniając szczególności termin wnoszenia opłaty ipodmiot uprawniony jej pobierania, atakże okoliczność, że opłata powinna zapewniać pokrycie kosztów związanych zwydaniem licencji.
-36.1. Licencja zawiera:
-1) imię inazwisko posiadacza,
-2) fotografię posiadacza,
-3) datę imiejsce urodzenia,
-4) numer ewidencyjny PESEL wprzypadku obywateli polskich,
-5) numer licencji, datę jej wystawienia ioznaczenie organu wystawiającego.
-Minister właściwy spraw wewnętrznych określi, wdrodze rozporządzenia, wzór itryb wydawania licencji.
-37.1. Komendant wojewódzki Policji odmawia wydania licencji, jeżeli osoba ubiegająca się jej wydanie nie spełnia wymogów, októrych mowa wart. 29 ust. 1 i3.
-Komendant wojewódzki Policji cofa izatrzymuje licencję, jeżeli detektyw:
-1) przestał spełniać choćby jeden z warunków, których mowa art. 29 ust. 1 pkt 4—6 ust. 3 pkt1,
-2) wniósł zawiadomienie na piśmie zaprzestaniu wykonywania czynności detektywa.
-38. 1. Komendant wojewódzki Policji, przypadku powzięcia wiadomości owszczęciu postępowania karnego przeciwko detektywowi przestępstwo przeciwko Rzeczypospolitej Polskiej, życiu, zdrowiu, mieniu, obrotowi gospodarczemu wolności, zawiemocnego orzeczenia wsprawie.
-3. Komendant wojewódzki Policji, wprzypadku zawieszenia praw wynikających z licencji, zatrzymuje licencję.
-39.Organy uprawnione prowadzenia postępowań karnych oraz postępowań sprawach przestępstwa skarbowe mają obowiązek powiadomić komendanta wojewódzkiego Policji właściwego ze względu na miejsce zamieszkania detektywa owszczęciu postępowania karnego przeciwko osobie posiadającej licencję.
-40. 1. Minister właściwy spraw wewnętrznych prowadzi rejestr osób, którym wydano licencje, zwanydalej Ńrejestrem detektywów”.
-Rejestr detektywów obejmuje następujące dane:
-1) imię inazwisko,
-2) adres zamieszkania,
-3) numer licencji idatę jej wydania,
-4) datę zawieszenia cofnięcia licencji.
-3. Rejestr detektywów jest jawny.
-41.Osoby posiadające licencję są obowiązane poddawać się okresowym badaniom lekarskim i psychologicznym.
-42. 1. Minister właściwy spraw zdrowia, wporozumieniu zministrem właściwym spraw wewnętrznych oraz ministrem właściwym spraw finansów publicznych, określi, drodze rozporządzenia:
-1) zakres badań lekarskich ipsychologicznych, którym jest obowiązana poddać się osoba ubiegająca się owydanie licencji, oraz zakres iczęstotliwość przeprowadzania tych badań odniesieniu osób posiadających licencję,
-2) kwalifikacje oraz dodatkowe wymogi dotyczące lekarzy i psychologów upoważnionych przeprowadzania badań oraz wydawania orzeczeń, których mowa wart. 29 ust. 3 pkt
-3) warunki itryb:
-a) odwoływania się od orzeczeń lekarskich,
-b) uzyskiwania iutraty przez lekarzy ipsychologów uprawnień przeprowadzania badań lekarskich ipsychologicznych,
-c) kontroli wykonywania idokumentowania badań lekarskich i psychologicznych oraz wydawania orzeczeń lekarskich,
-4) sposób postępowania z dokumentacją związaną z badaniami lekarskimi i psychologicznymi oraz wzory stosowanych dokumentów, powinny zapewniać zwrot kosztów przeprowadzonych 30 czerwca 2003 r., a po upływie tego terminu tracą badań. moc.
-43. Koszty związane z przeprowadzeniem ba- Przedsiębiorcy ubiegający się owymianę zezwodań potwierdzających zdolność fizyczną i psychiczną lenia, októrym mowa wust. są obowiązani złożyć orwykonywania czynności detektywa ponosi osoba ganowi zezwalającemu wniosek wymianę zezwolepoddana badaniu. nia, wterminie dnia 31 grudnia 2002 r.
-44. Kto, wbrew obowiązkowi, którym mowa 48.Postępowania wszczęte wsprawach wydaart. 25, nie wypełnia obowiązku zawiadomienia or- nia zezwoleń i niezakończone dnia wejścia życie ganu prowadzącego postępowanie karne postępo- niniejszej ustawy ostateczną decyzją administracyjną wanie sprawach przestępstwa skarbowe i wykro- podlegają umorzeniu.
-czenia skarbowe zawarciu umowy mającej związek ze sprawą, której prowadzone jest postępowanie 49. Osoby wykonujące czynności detektywa karne postępowanie sprawach przestępstwa skarbowe i wykroczenia skarbowe, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności lat
-45. Kto podczas świadczenia usług detektywistycznych wykonuje czynności ustawowo zastrzeżone dla organów iinstytucji państwowych, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności lat 3.
-46. 1. Kto prowadzi działalność gospodarczą wzakresie usług detektywistycznych bez wymaganego zezwolenia, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności lat Tej samej karze podlega osoba wykonująca czynności detektywa ramach prowadzonej działalności gospodarczej bez wymaganej licencji.
-47. 1. Koncesje na działalność gospodarczą zakresie usług detektywistycznych, udzielone przed dniem 1 stycznia 2001 r., które na podstawie art. 96 ust.2 pkt 2 lit. b) wzwiązku zust. 3 ustawy zdnia 19 listopada 1999 r. Prawo działalności gospodarczej (Dz. U. 101, poz. 1178, z 2000 r. 86, poz. 958 przed dniem wejścia życie ustawy są obowiązane uzyskać licencję wterminie dnia 30 czerwca 2003 r., awprzypadku nieuzyskania licencji tego dnia zaprzestać wykonywania tych czynności, nie póêniej niż dnia 1 lipca 2003 r.
-50. Przepisy art. 29 ust. 1 pkt 1 i 7 zakresie, jakim dotyczą obywateli innych państw członkowskich Unii Europejskiej, stosuje się od dnia uzyskania przez Rzeczpospolitą Polską statusu członka Unii Europejskiej.
-51.* Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski —————— 111 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 22 stycznia 2002 r.
-wsprawie szczegółowych warunków isposobu postępowania przy użyciu broni palnej przez funkcjonariuszy Biura Ochrony Rządu.
+Art. 47–49. (pominięte)
 
-#### Rozdział 1 Przepisy ogólne nych, prawa iobowiązki detektywów oraz zasady itryb nabywania uprawnień wykonywania usług detektywistycznych.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 3 Zasady wykonywania działalności gospodarczej wzakresie usług detektywistycznych
+**Art. 1.**
+
+1. Ustawa określa zasady wykonywania działalności gospodarczej w zakresie usług detektywistycznych, prawa i obowiązki detektywów oraz zasady i tryb nabywania uprawnień do wykonywania usług detektywistycznych.
+
+2. Przepisów ustawy nie stosuje się do osób lub instytucji, które na podstawie odrębnych przepisów mogą podejmować działania posiadające charakter czynności, o których mowa w art. 2 ust. 1.
+
+3. Przepisów ustawy nie stosuje się do działalności gospodarczej polegającej na uzyskiwaniu, przetwarzaniu i przekazywaniu informacji, jeżeli pochodzą one ze zbiorów danych ogólnie dostępnych.
+
+**Art. 2.**
+
+1. Usługami detektywistycznymi są czynności polegające na uzyskiwaniu, przetwarzaniu i przekazywaniu informacji o osobach, przedmiotach i zdarzeniach, realizowane na podstawie umowy zawartej ze zleceniodawcą, w formach i w zakresach niezastrzeżonych dla organów i instytucji państwowych na mocy odrębnych przepisów, a w szczególności:
+
+- **1)** w sprawach wynikających ze stosunków prawnych dotyczących osób fizycznych;
+- **2)** w sprawach wynikających ze stosunków gospodarczych dotyczących:
+    - **a)** wykonania zobowiązań majątkowych, zdolności płatniczych lub wiarygodności w tych stosunkach,
+    - **b)** bezprawnego wykorzystywania nazw handlowych lub znaków towarowych, nieuczciwej konkurencji lub ujawnienia wiadomości stanowiących tajemnicę przedsiębiorstwa lub tajemnicę handlową;
+
+- **3)** sprawdzanie wiarygodności informacji dotyczących szkód zgłaszanych zakładom ubezpieczeniowym;
+- **4)** poszukiwanie osób zaginionych lub ukrywających się;
+- **5)** poszukiwanie mienia;
+- **6)** zbieranie informacji w sprawie, w której toczy się postępowanie karne, postępowanie w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe albo inne, jeżeli w toku postępowania można zastosować przepisy prawa karnego.
+
+2. Zleceniodawcą czynności, o których mowa w ust. 1 pkt 6, nie mogą być organy prowadzące lub nadzorujące postępowania w tych sprawach.
+
+**Art. 3.** Wykonywanie działalności gospodarczej w zakresie usług detektywistycznych jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495) i wymaga uzyskania wpisu do rejestru działalności detektywistycznej, zwanego dalej „rejestrem”.
+
+**Art. 3a.**
+
+1. Przedsiębiorcy z innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz przedsiębiorcy z państw, które zawarły ze Wspólnotą Europejską i jej państwami członkowskimi umowy regulujące swobodę świadczenia usług, przed rozpoczęciem czasowego świadczenia usług detektywistycznych na terytorium Rzeczypospolitej Polskiej są obowiązani do złożenia zgłoszenia ministrowi właściwemu do spraw wewnętrznych zamiaru rozpoczęcia czasowego świadczenia usług detektywistycznych.
+
+2. O zakończeniu czasowego świadczenia usług detektywistycznych na terytorium Rzeczypospolitej Polskiej przedsiębiorca informuje ministra właściwego do spraw wewnętrznych.
+
+**Art. 4.**
+
+1. Wykonywanie czynności, o których mowa w art. 2 ust. 1, w ramach prowadzonej działalności gospodarczej, wymaga posiadania licencji detektywa, zwanej dalej „licencją”.
+
+2. Detektywem w rozumieniu ustawy jest osoba posiadająca licencję.
+
+3. Tytułu zawodowego „detektyw” może używać wyłącznie osoba posiadająca licencję.
+
+**Art. 5.** (uchylony)
+
+#### Rozdział 2 Prawa i obowiązki detektywa
+
+**Art. 6.** Detektyw powinien, przy wykonywaniu czynności, o których mowa w art. 2 ust. 1, kierować się zasadami etyki, lojalnością wobec zlecającego usługę i szczególną starannością, aby nie naruszyć wolności i praw człowieka i obywatela.
+
+**Art. 7.** Wykonując usługi detektywistyczne, o których mowa w art. 2 ust. 1, detektyw nie może stosować środków technicznych oraz metod i czynności operacyjno-rozpoznawczych, zastrzeżonych dla upoważnionych organów na mocy odrębnych przepisów.
+
+**Art. 8.** (uchylony)
+
+**Art. 9.** O ile przepisy innych ustaw nie stanowią inaczej, detektyw, w trakcie wykonywania czynności, o których mowa w art. 2 ust. 1, może uzyskiwać informacje od osób fizycznych, przedsiębiorców, instytucji, a także organów administracji rządowej lub samorządowej.
+
+**Art. 10.** Detektyw podczas wykonywania czynności obowiązany jest posiadać przy sobie licencję oraz okazywać ją na żądanie osoby, której czynności dotyczą, w taki sposób, aby zainteresowany miał możliwość odczytać i zanotować imię i nazwisko detektywa oraz nazwę organu, który wydał licencję.
+
+**Art. 11.** Detektyw przy wykonywaniu czynności, o których mowa w art. 2 ust. 1, jest obowiązany:
+
+**Art. 11a.** Detektyw jest obowiązany zawiadomić organ prowadzący rejestr osób, którym wydano licencje, zwany dalej „rejestrem detektywów”, o zmianie danych, o których mowa w art. 40 ust. 2 pkt 1 lub 2, w terminie 7 dni od dnia zmiany tych danych.
+
+**Art. 12.**
+
+1. Detektyw jest obowiązany zachować w tajemnicy źródła informacji oraz okoliczności sprawy, o których powziął wiadomość w trakcie wykonywania czynności, o których mowa w art. 2 ust. 1.
+
+2. Obowiązek zachowania tajemnicy ciąży na detektywie także po zaprzestaniu wykonywania czynności, o których mowa w art. 2 ust. 1.
+
+3. Detektyw może zostać zwolniony z zachowania tajemnicy na zasadach określonych w Kodeksie postępowania karnego.
+
+**Art. 13.** Detektyw ma obowiązek sporządzić i przekazać zatrudniającemu go przedsiębiorcy końcowe pisemne sprawozdanie z wykonanych w danej sprawie czynności, o których mowa w art. 2 ust. 1, obejmujące:
+
+**Art. 14.** Detektyw ponosi odpowiedzialność za szkody wyrządzone podczas wykonywania czynności, o których mowa w art. 2 ust. 1, oraz wskutek podania nieprawdziwych informacji, na zasadach określonych w Kodeksie cywilnym.
+
+#### Rozdział 3 Zasady wykonywania działalności gospodarczej w zakresie usług detektywistycznych
+
+**Art. 15.** Przedsiębiorca może wykonywać działalność, o której mowa w art. 3, jeżeli:
+
+**Art. 16.**
+
+1. Wpisu do rejestru dokonuje się na wniosek przedsiębiorcy, który powinien zawierać następujące dane:
+
+- **1)** firmę przedsiębiorcy, jego siedzibę i adres albo adres zamieszkania;
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **3)** numer identyfikacji podatkowej (NIP);
+- **4)** imię i nazwisko, datę urodzenia, adres zamieszkania oraz w przypadku posiadania licencji – numer licencji:
+    - **a)** przedsiębiorcy oraz pełnomocnika, jeżeli został ustanowiony – w przypadku przedsiębiorcy będącego osobą fizyczną,
+    - **b)** członków organu zarządzającego, prokurentów i pełnomocników ustanowionych do kierowania wnioskowaną działalnością przedsiębiorcy – w przypadku przedsiębiorcy niebędącego osobą fizyczną;
+
+- **5)** adres stałego miejsca wykonywania działalności.
+
+2. Wraz z wnioskiem przedsiębiorca składa oświadczenie następującej treści: „Oświadczam, że:
+
+- **1)** dane zawarte we wniosku o wpis do rejestru działalności detektywistycznej są kompletne i zgodne z prawdą;
+- **2)** znane mi są i spełniam warunki wykonywania działalności w zakresie usług detektywistycznych, określone w ustawie z dnia 6 lipca 2001 r. o usługach detektywistycznych.”.
+
+3. Oświadczenie powinno również zawierać:
+
+- **1)** firmę przedsiębiorcy, jego siedzibę i adres albo adres zamieszkania;
+- **2)** oznaczenie miejsca i datę złożenia oświadczenia;
+- **3)** podpis osoby uprawnionej do reprezentowania przedsiębiorcy, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
+
+4. Minister właściwy do spraw wewnętrznych określi wzór wniosku, o którym mowa w ust. 1, zawierającego oświadczenie, o którym mowa w ust. 2, oraz wzory wniosków o zmianę danych zawartych w rejestrze i o wykreślenie z rejestru, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730, 848, 1590 i 2294).
+
+**Art. 16a.**
+
+1. Zgłoszenie, o którym mowa w art. 3a, składa się w formie pisemnej lub elektronicznej.
+
+2. Zgłoszenie powinno zawierać następujące dane:
+
+- **1)** firmę przedsiębiorcy, jego siedzibę i adres albo adres miejsca zamieszkania;
+- **2)** dane kontaktowe ze wskazaniem numeru telefonu i faksu oraz adres poczty elektronicznej;
+- **3)** wskazanie organu, który wydał uprawnienia do stałego wykonywania przez przedsiębiorcę usług detektywistycznych;
+- **4)** informację o posiadanej polisie ubezpieczeniowej lub innych środkach indywidualnego lub zbiorowego ubezpieczenia w związku z wykonywaniem działalności detektywistycznej;
+- **5)** informację o zapoznaniu się z przepisami regulującymi świadczenie usług detektywistycznych na terytorium Rzeczypospolitej Polskiej;
+- **6)** adres biura na terytorium Rzeczypospolitej Polskiej, jeżeli takie posiada.
+
+**Art. 16b.** Minister właściwy do spraw wewnętrznych określi wzór zgłoszenia zamiaru rozpoczęcia czasowego świadczenia usług detektywistycznych oraz wzór zgłoszenia zakończenia czasowego świadczenia usług detektywistycznych, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+**Art. 17.**
+
+1. Organem prowadzącym rejestr jest minister właściwy do spraw wewnętrznych.
+
+2. Organ prowadzący rejestr wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru lub zaświadczenie o zmianie wpisu w rejestrze.
+
+**Art. 18.**
+
+1. Rejestr prowadzi się w formie księgi ewidencyjnej.
+
+2. Rejestr może być prowadzony w systemie informatycznym.
+
+3. Do księgi ewidencyjnej załącza się w porządku chronologicznym wnioski, oświadczenia oraz inne dokumenty.
+
+4. Organ prowadzący rejestr zamieszcza w sieci teleinformatycznej informacje zawierające firmę oraz numer identyfikacji podatkowej (NIP) przedsiębiorcy wpisanego do rejestru.
+
+5. Organ prowadzący rejestr prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+
+6. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych.
+
+**Art. 19.** Wpisowi do rejestru podlegają następujące dane:
+
+**Art. 19a.**
+
+1. Organ prowadzący rejestr jest obowiązany dokonać wpisu przedsiębiorcy do tego rejestru w terminie 7 dni od dnia wpływu do tego organu wniosku o wpis wraz z oświadczeniem o spełnieniu warunków wymaganych prawem do wykonywania działalności gospodarczej, dla której rejestr jest prowadzony.
+
+2. Jeżeli organ prowadzący rejestr nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy organ wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
+
+**Art. 19b.**
+
+1. Organ prowadzący rejestr wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
+
+- **1)** przedsiębiorca złożył oświadczenie, o którym mowa w art. 16 ust. 2, niezgodne ze stanem faktycznym;
+- **2)** przedsiębiorca nie usunął nieprawidłowości w wykonywanej działalności gospodarczej w zakresie usług detektywistycznych w wyznaczonym przez organ terminie;
+- **3)** stwierdzi rażące naruszenie warunków wymaganych prawem do wykonywania działalności regulowanej przez przedsiębiorcę.
+
+2. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.
+
+3. W przypadku wydania decyzji, o której mowa w ust. 1, organ z urzędu wykreśla przedsiębiorcę z rejestru.
+
+**Art. 19c.**
+
+1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 19b ust. 1.
+
+2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 19a ust. 2.
+
+**Art. 19d.** Organ prowadzący rejestr wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+
+**Art. 20.** (uchylony)
+
+**Art. 21.** (uchylony)
+
+**Art. 22.** (uchylony)
+
+**Art. 23.**
+
+1. Przedsiębiorca wykonujący działalność gospodarczą w zakresie usług detektywistycznych jest obowiązany:
+
+- **1)** (uchylony)
+- **2)** zachowywać formę pisemną umów dotyczących wykonywanej działalności gospodarczej w zakresie usług detektywistycznych;
+- **3)** prowadzić i przechowywać dokumentację dotyczącą zatrudnianych detektywów oraz zawieranych i realizowanych umów;
+- **4)** przedstawiać dokumentację, o której mowa w pkt 3, na żądanie organu upoważnionego do kontroli.
+
+2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, rodzaj dokumentacji, o której mowa w ust. 1 pkt 3, formy jej prowadzenia oraz okres przechowywania, uwzględniając w szczególności wykaz zatrudnionych przez przedsiębiorcę detektywów, rejestr zawartych umów wraz z opisem ich realizacji, a także sprawozdanie kończące postępowanie w sprawie.
+
+**Art. 23a.**
+
+1. Przedsiębiorca wykonujący działalność gospodarczą w zakresie usług detektywistycznych, będący osobą fizyczną, jest obowiązany zachować w tajemnicy źródło informacji oraz okoliczności sprawy, o których powziął wiadomość w związku z wykonywaniem umowy zawartej ze zleceniodawcą, o której mowa w art. 2 ust. 1.
+
+2. W przypadku przedsiębiorcy wykonującego działalność gospodarczą w zakresie usług detektywistycznych, niebędącego osobą fizyczną, obowiązek, o którym mowa w ust. 1, spoczywa na wszystkich osobach, które działając na rzecz przedsiębiorcy powzięły wiadomość o źródłach informacji oraz okolicznościach sprawy będącej przedmiotem umowy zawartej pomiędzy przedsiębiorcą a zleceniodawcą, o której mowa w art. 2 ust. 1.
+
+3. Przedsiębiorca, o którym mowa w ust. 1, albo osoby, o których mowa w ust. 2, mogą zostać zwolnieni z zachowania tajemnicy na zasadach określonych w Kodeksie postępowania karnego.
+
+**Art. 23b.**
+
+1. Przedsiębiorca wykonujący działalność gospodarczą w zakresie usług detektywistycznych ma obowiązek sporządzić końcowe pisemne sprawozdanie z wykonanych czynności, o których mowa w art. 2 ust. 1, zawierające w szczególności:
+
+- **1)** datę zawarcia umowy;
+- **2)** opis przedmiotu umowy;
+- **3)** określenie zakresu i przebiegu przeprowadzonych czynności;
+- **4)** opis stanu faktycznego;
+- **5)** datę zakończenia czynności w sprawie.
+
+2. Sprawozdanie, o którym mowa w ust. 1, wraz z materiałami dokumentującymi opis stanu faktycznego przekazuje się zleceniodawcy.
+
+3. W przypadku gdy sprawozdanie, o którym mowa w ust. 1, zawiera informacje dotyczące przeprowadzonych czynności w sprawach, o których mowa w art. 2 ust. 1 pkt 6, przedsiębiorca wykonujący działalność gospodarczą w zakresie usług detektywistycznych sporządza jego kopię i przechowuje ją przez okres 2 lat od dnia sporządzenia, jednak nie dłużej niż do dnia zaprzestania przez przedsiębiorcę wykonywania działalności gospodarczej w zakresie usług detektywistycznych.
+
+**Art. 23c.** Przedsiębiorca wykonujący działalność gospodarczą w zakresie usług detektywistycznych ponosi odpowiedzialność za szkody wyrządzone podczas wykonywania tych usług oraz wskutek podania nieprawdziwych informacji, na zasadach określonych w Kodeksie cywilnym.
+
+**Art. 24.**
+
+1. Przedsiębiorca wykonujący działalność gospodarczą w zakresie usług detektywistycznych jest obowiązany do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone podczas wykonywania czynności detektywa.
+
+2. Minister właściwy do spraw instytucji finansowych, w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań.
+
+**Art. 25.** Przedsiębiorca wykonujący działalność gospodarczą w zakresie usług detektywistycznych jest obowiązany, niezwłocznie po zawarciu umowy, o której mowa w art. 2 ust. 1, powiadomić na piśmie o jej zawarciu organ prowadzący postępowanie karne lub postępowanie w sprawach o przestępstwa skarbowe i wykroczenia skarbowe, jeżeli z treści tej umowy wynika, że może się ona wiązać ze sprawą, w której prowadzone jest postępowanie.
+
+**Art. 25a.** (uchylony)
+
+**Art. 25b.** Przedsiębiorca jest uprawniony do żądania od zleceniodawcy dokumentów, w tym okazania dokumentów stwierdzających tożsamość, koniecznych do oceny, czy zawarcie umowy i jej wykonanie będzie zgodne z wymaganiami określonymi w art. 6 oraz art. 11.
+
+**Art. 26.** (uchylony)
+
+**Art. 27.**
+
+1. Kontrolę działalności w zakresie usług detektywistycznych przeprowadza organ prowadzący rejestr.
+
+2. Organ, o którym mowa w ust. 1, może upoważnić do przeprowadzenia kontroli działalności gospodarczej w zakresie usług detektywistycznych Komendanta Głównego Policji oraz komendantów wojewódzkich Policji.
+
+3. Wykonywanie działalności regulowanej podlega kontroli organu prowadzącego rejestr w zakresie:
+
+- **1)** przestrzegania warunków wykonywania działalności;
+- **2)** obronności lub bezpieczeństwa państwa, ochrony bezpieczeństwa lub dóbr osobistych obywateli.
+
+4. Osoby upoważnione przez organ prowadzący rejestr do przeprowadzania kontroli są uprawnione do:
+
+- **1)** wstępu na teren nieruchomości, obiektu, lokalu lub ich części, gdzie jest wykonywana działalność gospodarcza objęta wpisem do rejestru, w dniach i w godzinach, w których ta działalność jest wykonywana lub powinna być wykonywana;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych mających związek z przedmiotem kontroli.
+
+5. Protokół kontroli zawiera w szczególności:
+
+- **1)** oznaczenie przedsiębiorcy i jego adres;
+- **2)** imię i nazwisko kontrolującego lub kontrolujących;
+- **3)** datę rozpoczęcia i zakończenia czynności kontrolnych;
+- **4)** określenie zakresu kontroli;
+- **5)** opis stwierdzonego w wyniku kontroli stanu faktycznego, w tym stwierdzonych nieprawidłowości.
+
+**Art. 27a.** Organ prowadzący rejestr, w przypadku stwierdzenia nieprawidłowości w wykonywanej działalności gospodarczej w zakresie usług detektywistycznych, może wezwać przedsiębiorcę do ich usunięcia, w wyznaczonym terminie.
+
+**Art. 27b.** Organ prowadzący rejestr, w przypadku posiadania informacji o możliwych nieprawidłowościach w wykonywanej działalności gospodarczej w zakresie usług detektywistycznych, może wezwać przedsiębiorcę do złożenia pisemnych wyjaśnień oraz przekazania dokumentów celem zweryfikowania posiadanych informacji oraz ustalenia, czy przedsiębiorca spełnia warunki wykonywania działalności gospodarczej objętej wpisem do rejestru działalności gospodarczej w zakresie usług detektywistycznych.
+
+**Art. 27c.** Organ prowadzący rejestr może zwracać się do sądów, prokuratury, Policji oraz innych organów administracji publicznej o przekazanie informacji, materiałów i danych będących w ich posiadaniu, istotnych dla prowadzonego postępowania administracyjnego lub postępowania wyjaśniającego, w celu potwierdzenia spełniania warunków wymaganych prawem do wykonywania działalności gospodarczej w zakresie usług detektywistycznych.
+
+**Art. 28.** W sprawach działalności w zakresie usług detektywistycznych nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
+#### Rozdział 3a Przetwarzanie danych osobowych
+
+**Art. 28a.** Detektyw lub zatrudniający go przedsiębiorca przetwarza dane osobowe zebrane w toku wykonywania czynności, o których mowa w art. 2 ust. 1, bez zgody osób, których dane dotyczą, wyłącznie w zakresie realizacji usługi detektywistycznej.
+
+**Art. 28b.**
+
+1. Po zrealizowaniu usługi detektywistycznej detektyw lub zatrudniający go przedsiębiorca obowiązany jest przekazać zleceniodawcy dane osobowe zebrane podczas wykonywania czynności, o których mowa w art. 2 ust. 1.
+
+2. W przypadku rezygnacji zleceniodawcy z odbioru danych osobowych zebranych podczas wykonywania czynności, o których mowa w art. 2 ust. 1, albo nieodebrania ich w ustalonym terminie dane te podlegają zniszczeniu po upływie 5 lat od dnia zakończenia realizacji usługi detektywistycznej, nie później niż bezpośrednio po wykreśleniu przedsiębiorcy z rejestru.
+
+3. Z czynności, o których mowa w ust. 1 i 2, detektyw lub zatrudniający go przedsiębiorca sporządza notatkę, którą dołącza do księgi realizacji umowy. Notatka zawiera:
+
+- **1)** informację o przekazaniu albo zniszczeniu przetwarzanych danych osobowych oraz opis tej czynności;
+- **2)** datę przekazania lub zniszczenia przetwarzanych danych osobowych;
+- **3)** podpis zleceniodawcy, w przypadku odebrania przetwarzanych danych osobowych, oraz podpis sporządzającego notatkę.
+
+4. Niszczenie przetwarzanych danych osobowych przez detektywa odbywa się w obecności przedsiębiorcy lub wyznaczonej przez niego osoby. Przedsiębiorca lub wyznaczona przez niego osoba podpisuje notatkę, o której mowa w ust. 3.
+
+5. Detektyw lub zatrudniający go przedsiębiorca może przekazać dane osobowe zebrane w toku wykonywania czynności, o których mowa w art. 2 ust. 1, wyłącznie innemu detektywowi wyznaczonemu przez przedsiębiorcę do współdziałania w ramach realizowanej usługi detektywistycznej albo do przejęcia dalszej realizacji usługi detektywistycznej.
+
+**Art. 28c.** Do przetwarzania danych osobowych zebranych w toku wykonywania czynności, o których mowa w art. 2 ust. 1, nie stosuje się przepisów art. 13 ust. 1 i 2 oraz art. 15 ust. 1 lit. a, c i g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
+
+**Art. 28d.** Przedsiębiorca realizujący usługi detektywistyczne informuje o ograniczeniach, o których mowa w art. 28c, na swojej stronie internetowej lub przez wywieszenie w stałym miejscu wykonywania swojej działalności.
 
 #### Rozdział 4 Wymagania kwalifikacyjne detektywów
 
-#### Rozdział 5 3. Do wniosku wymianę zezwolenia stosuje się odpowiednio przepisy art. 18, dotyczące wydania zePrzepisy karne zwolenia.
+**Art. 29.**
 
-#### Rozdział 6 Przepisy przejściowe ikońcowe
+1. O wydanie licencji może ubiegać się osoba, jeżeli:
+
+- **1)** posiada obywatelstwo polskie lub obywatelstwo innego państwa członkowskiego Unii Europejskiej lub przysługuje jej, na podstawie umów międzynarodowych lub przepisów prawa Unii Europejskiej, prawo do podjęcia zatrudnienia lub wykonywania działalności gospodarczej na terytorium Rzeczypospolitej Polskiej;
+- **2)** ukończyła 21 lat;
+- **3)** posiada wykształcenie co najmniej średnie lub średnie branżowe;
+- **4)** ma pełną zdolność do czynności prawnych;
+- **5)** nie toczy się przeciwko niej postępowanie o umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **6)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **7)** nie została zwolniona dyscyplinarnie z Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Biura Ochrony Rządu, Służby Ochrony Państwa, wojska, prokuratury, sądu lub z innego urzędu administracji publicznej w Rzeczypospolitej Polskiej lub innym państwie, w okresie ostatnich 5 lat;
+- **8)** posiada pozytywną opinię komendanta powiatowego (rejonowego, miejskiego) Policji właściwego ze względu na jej miejsce zamieszkania, sporządzoną na podstawie aktualnie posiadanych informacji przez Policję albo – w przypadku obywatela innego państwa – przez organ odpowiedniego szczebla i kompetencji państwa, właściwego ze względu na miejsce jej zamieszkania;
+- **9)** posiada zdolność psychiczną do wykonywania czynności, o których mowa w art. 2 ust. 1, stwierdzoną orzeczeniem lekarskim;
+- **10)** legitymuje się dokumentem potwierdzającym odbycie szkolenia w zakresie zagadnień ochrony danych osobowych, ochrony informacji niejawnych, przepisów regulujących prawa i obowiązki detektywa oraz zasad wykonywania działalności gospodarczej w zakresie usług detektywistycznych.
+
+2. Okoliczności, o których mowa w ust. 1 pkt 4–6 i 10, potwierdzają odpowiednio: pisemne oświadczenie osoby ubiegającej się o wydanie licencji oraz zaświadczenie o niekaralności, zaświadczenie o odbyciu szkolenia, o którym mowa w ust. 1 pkt 10, albo decyzja o uznaniu kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej w sprawie uznania kwalifikacji w zawodzie detektywa. Dokumenty te osoba ubiegająca się o wydanie licencji jest obowiązana złożyć wraz z wnioskiem o jej wydanie.
+
+3. (uchylony)
+
+4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb składania wniosku o wydanie licencji oraz dokumenty potwierdzające spełnienie wymogów, o których mowa w ust. 1 pkt 1–3, uwzględniając potrzebę zapewnienia sprawności postępowania.
+
+5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wymagania w zakresie szkolenia, w tym szczegółową tematykę i formę jego prowadzenia, jednostki właściwe do jego prowadzenia i wzór zaświadczenia o ukończeniu szkolenia, mając na względzie zapewnienie właściwego szkolenia detektywa, prawidłowego wykonywania usług detektywistycznych i wykonywania obowiązków wynikających z niniejszej ustawy oraz bezpieczeństwo przetwarzanych danych osobowych.
+
+**Art. 30.** (uchylony)
+
+**Art. 30a.** (uchylony)
+
+**Art. 30b.** (uchylony)
+
+**Art. 30c.** (uchylony)
+
+**Art. 31.** (uchylony)
+
+**Art. 32.** (uchylony)
+
+**Art. 33.** (uchylony)
+
+**Art. 33a.** (uchylony)
+
+**Art. 33b.** (uchylony)
+
+**Art. 33c.** (uchylony)
+
+**Art. 34.** (uchylony)
+
+**Art. 35.**
+
+1. Licencję wydaje, odmawia jej wydania, zawiesza lub cofa, w drodze decyzji administracyjnej, komendant wojewódzki Policji właściwy ze względu na miejsce zamieszkania osoby ubiegającej się o wydanie licencji, a w przypadku osoby niemającej miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – Komendant Stołeczny Policji.
+
+2. Licencję wydaje się na czas nieoznaczony.
+
+3. Za wydanie licencji pobiera się opłatę.
+
+4. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość opłaty za licencję oraz tryb jej wnoszenia, uwzględniając w szczególności termin wnoszenia opłaty i podmiot uprawniony do jej pobierania, a także okoliczność, że opłata powinna zapewniać pokrycie kosztów związanych z wydaniem licencji.
+
+**Art. 36.**
+
+1. Licencja zawiera:
+
+- **1)** imię i nazwisko posiadacza;
+- **2)** fotografię posiadacza;
+- **3)** numer licencji, datę jej wystawienia i oznaczenie organu wystawiającego.
+
+2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór licencji oraz tryb jej wydawania, uwzględniając wymiary i elementy graficzne wzoru licencji oraz potrzebę zapewnienia sprawności postępowania w sprawie jej wydania.
+
+**Art. 37.**
+
+1. Komendant wojewódzki Policji odmawia wydania licencji, jeżeli osoba ubiegająca się o jej wydanie nie spełnia wymogów, o których mowa w art. 29 ust. 1.
+
+2. Komendant wojewódzki Policji cofa i zatrzymuje licencję, jeżeli detektyw:
+
+- **1)** przestał spełniać jeden z warunków, o których mowa w art. 29 ust. 1 pkt 4, 6 lub 9;
+- **2)** wniósł zawiadomienie na piśmie o zaprzestaniu wykonywania czynności detektywa.
+
+**Art. 38.**
+
+1. Komendant wojewódzki Policji, w przypadku powzięcia wiadomości o wszczęciu postępowania karnego przeciwko detektywowi o przestępstwo przeciwko Rzeczypospolitej Polskiej, życiu, zdrowiu, mieniu, obrotowi gospodarczemu lub wolności, zawiesza prawa wynikające z licencji do czasu wydania prawomocnego orzeczenia w sprawie.
+
+2. Komendant wojewódzki Policji, w przypadku powzięcia wiadomości o wszczęciu postępowania karnego przeciwko detektywowi o przestępstwo umyślne inne niż wymienione w ust. 1 lub postępowania w sprawie o umyślne przestępstwo skarbowe, może zawiesić prawa wynikające z licencji do czasu wydania prawomocnego orzeczenia w sprawie.
+
+3. Komendant wojewódzki Policji, w przypadku zawieszenia praw wynikających z licencji, zatrzymuje licencję.
+
+**Art. 39.** Organy uprawnione do prowadzenia postępowań karnych oraz postępowań w sprawach o przestępstwa skarbowe mają obowiązek powiadomić komendanta wojewódzkiego Policji właściwego ze względu na miejsce zamieszkania detektywa o wszczęciu postępowania karnego przeciwko osobie posiadającej licencję.
+
+**Art. 39a.**
+
+1. Komendant wojewódzki Policji właściwy ze względu na miejsce zamieszkania detektywa, a w przypadku detektywa niemającego miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – Komendant Stołeczny Policji, jest obowiązany zawiadomić niezwłocznie organ prowadzący rejestr detektywów, o którym mowa w art. 40 ust. 1, o wydaniu licencji detektywa.
+
+2. Zawiadomienie, o którym mowa w ust. 1, obejmuje dane określone w art. 40 ust. 2 pkt 1–3.
+
+3. Komendant wojewódzki Policji lub Komendant Stołeczny Policji, w przypadku podjęcia decyzji, o których mowa w art. 37 ust. 2 albo w art. 38 ust. 1 albo 2, jest obowiązany zawiadomić o tym organ prowadzący rejestr detektywów, w terminie 7 dni od dnia, w którym decyzja stała się ostateczna.
+
+**Art. 40.**
+
+1. Minister właściwy do spraw wewnętrznych prowadzi rejestr detektywów.
+
+2. Rejestr detektywów obejmuje następujące dane:
+
+- **1)** imię i nazwisko;
+- **2)** adres zamieszkania;
+- **3)** numer licencji i datę jej wydania;
+- **4)** datę zawieszenia lub cofnięcia licencji.
+
+3. Rejestr detektywów jest jawny w zakresie potwierdzania posiadania przez wskazaną osobę uprawnień detektywa. W pozostałym zakresie dane są udostępniane sądom, organom prokuratury oraz organom administracji publicznej, a także podmiotom, które udokumentują posiadanie w tym interesu prawnego.
+
+**Art. 41.** Osoby posiadające licencję są obowiązane poddawać się okresowym badaniom lekarskim i psychologicznym.
+
+**Art. 41a.** W stosunku do osób, wobec których zostało wydane orzeczenie:
+
+**Art. 42.**
+
+1. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia:
+
+- **1)** zakres badań lekarskich i psychologicznych, którym jest obowiązana poddać się osoba ubiegająca się o wydanie licencji, oraz zakres i częstotliwość przeprowadzania tych badań w odniesieniu do osób posiadających licencję;
+- **2)** kwalifikacje oraz dodatkowe wymogi dotyczące lekarzy i psychologów upoważnionych do przeprowadzania badań oraz wydawania orzeczeń, o których mowa w art. 29 ust. 1 pkt 9;
+- **3)** warunki i tryb:
+    - **a)** odwoływania się od orzeczeń lekarskich,
+    - **b)** uzyskiwania i utraty przez lekarzy i psychologów uprawnień do przeprowadzania badań lekarskich i psychologicznych,
+    - **c)** kontroli wykonywania i dokumentowania badań lekarskich i psychologicznych oraz wydawania orzeczeń lekarskich;
+
+- **4)** sposób postępowania z dokumentacją związaną z badaniami lekarskimi i psychologicznymi oraz wzory stosowanych dokumentów;
+- **5)** maksymalne stawki opłat za badania lekarskie i psychologiczne.
+
+2. W rozporządzeniu, o którym mowa w ust. 1, należy uwzględnić okoliczność, aby wyniki badań odzwierciedlały stan zdrowia psychicznego osób, o których mowa w ust. 1 pkt 1, oraz kwalifikacje lekarzy odpowiednio do rodzaju badań, a także okoliczność, że stawki opłat, o których mowa w ust. 1 pkt 5, powinny zapewniać zwrot kosztów przeprowadzonych badań.
+
+**Art. 43.** Koszty związane z przeprowadzeniem badań potwierdzających zdolność psychiczną do wykonywania czynności detektywa ponosi osoba poddająca się badaniu.
+
+#### Rozdział 5 Przepisy karne
+
+**Art. 44.** Kto, wbrew obowiązkowi, o którym mowa w art. 25, nie wypełnia obowiązku zawiadomienia organu prowadzącego postępowanie karne lub postępowanie w sprawach o przestępstwa skarbowe i wykroczenia skarbowe o zawarciu umowy mającej związek ze sprawą, w której prowadzone jest postępowanie karne lub postępowanie w sprawach o przestępstwa skarbowe i wykroczenia skarbowe, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+**Art. 45.** Kto podczas świadczenia usług detektywistycznych wykonuje czynności ustawowo zastrzeżone dla organów i instytucji państwowych, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 3.
+
+**Art. 46.**
+
+1. Kto wykonuje działalność w zakresie usług detektywistycznych bez wymaganego wpisu do rejestru, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+2. Tej samej karze podlega osoba wykonująca czynności detektywa w ramach prowadzonej działalności gospodarczej bez wymaganej licencji.
+
+#### Rozdział 6 Przepisy przejściowe i końcowe
+
+**Art. 50.** (uchylony)
+
+**Art. 51.** (pominięty)
 

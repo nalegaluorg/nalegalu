@@ -8,6 +8,7 @@ pos: 400
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o Państwowej Straży Pożarnej
@@ -23,7 +24,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1991-08-24 |
 | Data wydania | 1991-10-08 |
-| Ostatnia zmiana | 2026-04-22 |
+| Ostatnia zmiana | 2026-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910880400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/400/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

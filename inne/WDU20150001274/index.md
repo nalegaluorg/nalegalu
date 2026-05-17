@@ -8,9 +8,12 @@ pos: 1274
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 sierpnia 2015 r.
+# Prawo konsularne
+
+*USTAWA z dnia 25 czerwca 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,11 +24,10 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-25 |
 | Data wydania | 2015-08-31 |
-| Ostatnia zmiana | 2025-12-15 |
+| Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1274/text.pdf) |
 
-USTAWA z dnia 25 czerwca 2015 r.
-Prawo konsularne
+Art. 138–149. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -37,11 +39,11 @@ Prawo konsularne
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** państwie przyjmującym oznacza to państwo przyjmujące w rozumieniu Konwencji wiedeńskiej o stosunkach konsularnych, sporządzonej w Wiedniu dnia 24 kwietnia 1963 r. (Dz. U. z 1982 r. Nr 13, poz. 98);
-- **2)** okręgu konsularnym − oznacza to obszar wykonywania funkcji konsularnych w rozumieniu Konwencji wiedeńskiej o stosunkach konsularnych, sporządzonej w Wiedniu dnia 24 kwietnia 1963 r.;
-- **3)** personelu dyplomatyczno-konsularnym oznacza to personel dyplomatyczno-konsularny w rozumieniu ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. Nr 128, poz. 1403, z późn. zm. );
-- **4)** urzędzie konsularnym oznacza to konsulat generalny, konsulat, wicekonsulat albo agencję konsularną, jak też wydział konsularny lub inną komórkę organizacyjną wyodrębnioną w strukturze przedstawicielstwa dyplomatycznego Rzeczypospolitej Polskiej, obsługujące konsula;
-- **5)** pracowniku konsularnym oznacza to członka personelu pomocniczego, w rozumieniu ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej, w urzędzie konsularnym.
+- **1)** państwie przyjmującym – oznacza to państwo przyjmujące w rozumieniu Konwencji wiedeńskiej o stosunkach konsularnych, sporządzonej w Wiedniu dnia 24 kwietnia 1963 r. (Dz. U. z 1982 r. poz. 98);
+- **2)** okręgu konsularnym – oznacza to obszar wykonywania funkcji konsularnych w rozumieniu Konwencji wiedeńskiej o stosunkach konsularnych, sporządzonej w Wiedniu dnia 24 kwietnia 1963 r.;
+- **3)** personelu dyplomatyczno-konsularnym – oznacza to personel dyplomatyczno-konsularny w rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2023 r. poz. 406);
+- **4)** urzędzie konsularnym – oznacza to konsulat generalny, konsulat, wicekonsulat albo agencję konsularną, jak też wydział konsularny lub inną komórkę organizacyjną wyodrębnioną w strukturze przedstawicielstwa dyplomatycznego Rzeczypospolitej Polskiej, obsługujące konsula.
+- **5)** (uchylony)
 
 2. Ilekroć w ustawie jest mowa o obywatelach polskich, odnosi się to, z wyłączeniem art. 20, art. 26 ust. 1, art. 36, art. 39, art. 48 i art. 120, odpowiednio do osób prawnych i jednostek organizacyjnych niebędących osobami prawnymi, które mają siedzibę na terytorium Rzeczypospolitej Polskiej.
 
@@ -72,9 +74,22 @@ Prawo konsularne
 
 3. Przed przystąpieniem do egzaminu konsularnego kandydat na urzędnika konsularnego uczestniczy w szkoleniu przedegzaminacyjnym z zakresu wiedzy, o którym mowa w ust. 2.
 
+4. Dyrektor generalny służby zagranicznej może zwolnić kandydata na urzędnika konsularnego z obowiązku uczestniczenia w całości lub części szkolenia przedegzaminacyjnego, jeżeli posiadana przez niego wiedza, doświadczenie zawodowe i umiejętności praktyczne dają gwarancję właściwego wykonywania funkcji konsularnych w państwie przyjmującym.
+
+**Art. 6a.**
+
+1. Z obowiązku uczestniczenia w szkoleniu przedegzaminacyjnym i złożenia egzaminu konsularnego zwolniony jest kandydat na urzędnika konsularnego, który:
+
+- **1)** w okresie 12 miesięcy przed datą wyznaczenia złożył egzamin konsularny z wynikiem pozytywnym w związku z wcześniejszym wyznaczeniem na urzędnika konsularnego;
+- **2)** w okresie nie dłuższym niż 12 miesięcy przed datą wyznaczenia na urzędnika konsularnego zaprzestał wykonywania funkcji konsularnych, z wyłączeniem wykonywania funkcji na podstawie upoważnienia udzielonego w trybie art. 16 ust. 3.
+
+2. Kandydat na urzędnika konsularnego zwolniony z obowiązku uczestniczenia w szkoleniu przedegzaminacyjnym i złożenia egzaminu konsularnego uczestniczy w szkoleniu przedwyjazdowym z zakresu wiedzy i umiejętności praktycznych niezbędnych do właściwego wykonywania funkcji konsularnych w państwie przyjmującym.
+
+3. Dyrektor generalny służby zagranicznej może zwolnić kandydata na urzędnika konsularnego z obowiązku uczestniczenia w szkoleniu przedwyjazdowym, jeżeli posiadana przez niego wiedza, doświadczenie zawodowe i umiejętności praktyczne dają gwarancję właściwego wykonywania funkcji konsularnych w państwie przyjmującym.
+
 **Art. 7.**
 
-1. Egzamin konsularny przeprowadza komisja egzaminacyjna powoływana przez dyrektora generalnego służby zagranicznej spośród członków personelu dyplomatyczno-konsularnego posiadających stopień dyplomatyczny co najmniej I sekretarza.
+1. Egzamin konsularny przeprowadza komisja egzaminacyjna powoływana przez dyrektora generalnego służby zagranicznej spośród członków służby zagranicznej, w tym osób zajmujących stanowiska kierownicze w urzędzie obsługującym ministra właściwego do spraw zagranicznych, wyróżniających się wiedzą, doświadczeniem zawodowym oraz umiejętnościami praktycznymi z zakresu niezbędnego do prawidłowego wykonywania funkcji konsularnych.
 
 2. Egzamin konsularny składa się z części pisemnej i ustnej. Do złożenia z wynikiem pozytywnym egzaminu konsularnego jest konieczne zaliczeniu obydwu części.
 
@@ -97,7 +112,7 @@ Prawo konsularne
 
 #### Rozdział 2 Konsulowie
 
-**Art. 10.** Konsulem jest kierownik urzędu konsularnego, a w okręgu konsularnym, w którym nie utworzono urzędu konsularnego powołany urzędnik konsularny w przedstawicielstwie dyplomatycznym.
+**Art. 10.** Konsulem jest kierownik urzędu konsularnego, a w okręgu konsularnym, w którym nie utworzono urzędu konsularnego – powołany urzędnik konsularny w przedstawicielstwie dyplomatycznym.
 
 **Art. 11.** Na konsula powołuje się urzędnika konsularnego dającego rękojmię należytego wykonywania funkcji konsularnych.
 
@@ -117,7 +132,7 @@ Prawo konsularne
 
 4. Wytyczne oraz zalecenia, o których mowa w ust. 3, nie mogą dotyczyć rozstrzygnięć co do istoty sprawy załatwianej przez konsula.
 
-**Art. 14.** Minister właściwy do spraw zagranicznych, za zgodą państwa przyjmującego, może pisemnie upoważnić konsula do wykonywania funkcji konsularnych poza wyznaczonym okręgiem konsularnym.
+**Art. 14.** Minister właściwy do spraw zagranicznych, za zgodą państwa przyjmującego, może na piśmie upoważnić konsula do wykonywania funkcji konsularnych poza wyznaczonym okręgiem konsularnym.
 
 **Art. 15.**
 
@@ -129,9 +144,12 @@ Prawo konsularne
 
 1. Konsul wykonuje funkcje konsularne osobiście.
 
-2. Konsul może pisemnie upoważnić podległych mu urzędników konsularnych do wykonywania funkcji konsularnych w jego imieniu.
+2. Konsul może na piśmie upoważnić podległych mu urzędników konsularnych do wykonywania funkcji konsularnych w jego imieniu.
 
-3. W szczególnie uzasadnionych przypadkach, za zgodą ministra właściwego do spraw zagranicznych, konsul może pisemnie upoważnić na czas określony podległych mu pracowników konsularnych do wykonywania określonych czynności.
+3. W uzasadnionych przypadkach, za zgodą ministra właściwego do spraw zagranicznych, konsul może na piśmie upoważnić na czas określony do wykonywania określonych czynności:
+
+- **1)** członków personelu dyplomatyczno-konsularnego albo personelu pomocniczego w rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej;
+- **2)** osoby zatrudnione w placówce zagranicznej Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej na podstawie umowy o pracę zawartej zgodnie z prawem państwa przyjmującego oraz na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641), w tym osoby zatrudnione na czas wykonywania funkcji w placówce przez członka rodziny.
 
 #### Rozdział 3 Funkcje konsularne
 
@@ -146,6 +164,8 @@ Prawo konsularne
 1. Konsul udziela pomocy obywatelowi polskiemu, w szczególności w razie poważnego wypadku lub ciężkiej choroby, aresztowania lub zatrzymania tego obywatela, w razie aktu przemocy, którego ofiarą padł obywatel polski, w razie zgonu obywatela polskiego lub konieczności nagłego powrotu obywatela polskiego pozbawionego środków finansowych do Rzeczypospolitej Polskiej albo do państwa zamieszkania (pomoc konsularna).
 
 2. Pomoc konsularna jest udzielana w niezbędnym zakresie i z zastosowaniem środków koniecznych do ochrony istotnych praw i interesów obywatela polskiego.
+
+3. Konsul może żądać od organów władzy publicznej, sądów, prokuratury, organizacji lub instytucji udzielenia informacji lub udostępnienia dokumentów, w tym zawierających dane osobowe, niezbędne do ochrony istotnych praw i interesów obywatela polskiego, jeżeli jest to konieczne do udzielenia pomocy konsularnej.
 
 **Art. 21.**
 
@@ -168,7 +188,7 @@ Prawo konsularne
 
 2. Konsul odmawia przyjęcia do depozytu rzeczy, których przechowanie byłoby niemożliwe ze względu na ich właściwości lub znacznie utrudniałoby pracę urzędu konsularnego albo przedstawicielstwa dyplomatycznego Rzeczypospolitej Polskiej.
 
-3. Niepodjęte depozyty podlegają likwidacji zgodnie z przepisami ustawy z dnia 18 października 2006 r. o likwidacji niepodjętych depozytów (Dz. U. Nr 208, poz. 1537 oraz z 2009 r. Nr 157, poz. 1241).
+3. Niepodjęte depozyty podlegają likwidacji zgodnie z przepisami ustawy z dnia 18 października 2006 r. o likwidacji niepodjętych depozytów (Dz. U. poz. 1537 oraz z 2009 r. poz. 1241).
 
 **Art. 24.**
 
@@ -178,7 +198,7 @@ Prawo konsularne
 
 3. Rzeczy niezwrócone właścicielowi podlegają likwidacji. Przepisy ustawy z dnia 18 października 2006 r. o likwidacji niepodjętych depozytów stosuje się odpowiednio.
 
-**Art. 25.** Konsul przesyła przekazane mu polskie dokumenty paszportowe, dowody osobiste, dokumenty stwierdzające uprawnienia do kierowania pojazdami i dowody rejestracyjne pojazdów do organu, który je wydał, za zwrotnym potwierdzeniem odbioru, pocztą dyplomatyczną lub przy użyciu innych środków łączności będących w dyspozycji urzędów konsularnych lub przedstawicielstw dyplomatycznych Rzeczypospolitej Polskiej.
+**Art. 25.** Konsul przesyła znalezione i przekazane mu dokumenty wydane przez polski organ, w szczególności: dokumenty paszportowe, dowody osobiste, dokumenty stwierdzające uprawnienia do kierowania pojazdami i dowody rejestracyjne pojazdów, do organu, który je wydał, za zwrotnym potwierdzeniem odbioru, pocztą dyplomatyczną lub przy użyciu innych środków łączności będących w dyspozycji urzędów konsularnych lub przedstawicielstw dyplomatycznych Rzeczypospolitej Polskiej.
 
 **Art. 26.**
 
@@ -186,15 +206,16 @@ Prawo konsularne
 
 - **1)** doręcza pisma i inne dokumenty;
 - **2)** przesłuchuje strony, uczestników postępowania, świadków i podejrzanych;
+- **2a)** jest obecny w miejscu przebywania świadka przesłuchiwanego w sposób określony w art. 177 § 1a ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. );
 - **3)** przekazuje wnioski o udzielenie pomocy prawnej sądom i innym organom państwa przyjmującego.
 
 2. Czynności wymienione w ust. 1 pkt 1 i 2 konsul wykonuje, stosując odpowiednio właściwe przepisy prawa polskiego, jeżeli odbiorca pisma lub innego dokumentu albo osoba, która ma być przesłuchana, jest obywatelem polskim i zgadza się dobrowolnie przyjąć pismo lub inny dokument albo złożyć zeznanie lub wyjaśnienie.
 
-**Art. 27.** Na wniosek obywatela polskiego konsul:
+**Art. 27.** Na wniosek obywatela polskiego, organu administracji publicznej w Rzeczypospolitej Polskiej, sądu lub prokuratora konsul:
 
 **Art. 28.**
 
-1. Na wniosek obywatela polskiego lub organu administracji publicznej w Rzeczypospolitej Polskiej konsul w szczególności:
+1. Na wniosek obywatela polskiego lub organu administracji publicznej w Rzeczypospolitej Polskiej konsul:
 
 - **1)** sporządza i poświadcza wypisy, odpisy, wyciągi i kopie dokumentów;
 - **2)** poświadcza własnoręczność podpisu i znaku ręcznego;
@@ -202,11 +223,11 @@ Prawo konsularne
 
 2. Konsul może wykonać czynności, o których mowa w ust. 1, również na wniosek cudzoziemca lub organu administracji publicznej w państwie przyjmującym, jeżeli mają one wywrzeć skutek na terytorium Rzeczypospolitej Polskiej.
 
-3. Konsul może sporządzić akt notarialny po uzyskaniu od Ministra Sprawiedliwości pisemnego upoważnienia, udzielonego mu na wniosek ministra właściwego do spraw zagranicznych.
+3. Konsul może sporządzić akt notarialny po uzyskaniu od Ministra Sprawiedliwości upoważnienia na piśmie, udzielonego mu na wniosek ministra właściwego do spraw zagranicznych.
 
-**Art. 29.** Do czynności, o których mowa w art. 28, stosuje się odpowiednio przepisy ustawy z dnia 14 lutego 1991 r. Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm. ). Mają one taką samą moc prawną jak czynności wykonane przez notariusza w Rzeczypospolitej Polskiej.
+**Art. 29.** Do czynności, o których mowa w art. 28, stosuje się odpowiednio przepisy ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz.
 
-**Art. 30.** Konsul nie sporządza aktu poświadczenia dziedziczenia, nie przyjmuje wykazu inwentarza oraz nie dokonuje czynności dotyczących europejskich poświadczeń spadkowych.
+**Art. 30.** Konsul nie sporządza aktu poświadczenia dziedziczenia, nie przyjmuje wykazu inwentarza, nie dokonuje czynności dotyczących europejskich poświadczeń spadkowych oraz nie sporządza elektronicznych wypisów i wyciągów z aktów notarialnych.
 
 **Art. 31.**
 
@@ -215,7 +236,7 @@ Prawo konsularne
 - **1)** sporządza i poświadcza tłumaczenia dokumentów z języka polskiego na język urzędowy lub powszechnie używany w państwie przyjmującym oraz z języka urzędowego lub powszechnie używanego w państwie przyjmującym na język polski, a także sprawdza i poświadcza tłumaczenia tych dokumentów sporządzone przez tłumacza lub inne osoby;
 - **2)** sporządza i poświadcza odpisy dokumentów sporządzonych w języku urzędowym lub powszechnie używanym w państwie przyjmującym, a także sprawdza i poświadcza odpisy dokumentów sporządzonych w języku urzędowym lub powszechnie używanym w państwie przyjmującym, sporządzone przez tłumacza lub inne osoby.
 
-2. Do czynności, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2015 r. poz. 487).
+2. Do czynności, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2019 r. poz. 1326).
 
 3. Czynności, o których mowa w ust. 1, mają taką samą moc prawną jak czynności wykonane przez tłumacza przysięgłego w Rzeczypospolitej Polskiej.
 
@@ -227,7 +248,7 @@ Prawo konsularne
 
 **Art. 33.**
 
-1. Konsul wykonuje czynności na podstawie pisemnego upoważnienia udzielonego przez ministra właściwego do spraw zagranicznych, a czynności określone w art. 28 ust. 1, art. 31 i art. 32 − na podstawie pisemnego upoważnienia ministra właściwego do spraw zagranicznych udzielonego w porozumieniu z Ministrem Sprawiedliwości.
+1. Konsul wykonuje czynności na podstawie upoważnienia udzielonego na piśmie przez ministra właściwego do spraw zagranicznych, a czynności określone w art. 28 ust. 1, art. 31 i art. 32 – na podstawie upoważnienia udzielonego na piśmie przez ministra właściwego do spraw zagranicznych w porozumieniu z Ministrem Sprawiedliwości.
 
 2. W uzasadnionych przypadkach minister właściwy do spraw zagranicznych może upoważnić konsula do wykonywania wyłącznie określonych czynności.
 
@@ -247,11 +268,30 @@ Prawo konsularne
 
 **Art. 36.** W przypadku wystąpienia zdarzeń mogących powodować zagrożenie dla życia lub bezpieczeństwa obywateli polskich przebywających w okręgu konsularnym konsul podejmuje działania w celu wsparcia bezpiecznego i sprawnego opuszczenia przez nich zagrożonego obszaru. Przepis art. 21 stosuje się odpowiednio.
 
-**Art. 37.**
+**Art. 37.** (uchylony)
 
-1. Konsul może prowadzić wykaz obywateli polskich przebywających w okręgu konsularnym, w celu sprawnego przeprowadzenia działań, o których mowa w art. 36.
+**Art. 37a.**
 
-2. Na wniosek obywatela polskiego w wykazie, o którym mowa w ust. 1, zamieszcza jego imię, nazwisko, datę urodzenia, adres miejsca pobytu, informacje umożliwiające nawiązanie z nim bezpośredniego kontaktu oraz przewidywany okres pobytu w okręgu konsularnym.
+1. Minister właściwy do spraw zagranicznych prowadzi w systemie teleinformatycznym rejestr obywateli polskich przebywających za granicą, zwany dalej „rejestrem podróżujących”.
+
+2. Minister właściwy do spraw zagranicznych jest administratorem danych osobowych przetwarzanych w rejestrze podróżujących.
+
+3. Na wniosek obywatela polskiego lub jego przedstawiciela ustawowego w rejestrze podróżujących zamieszcza się, aktualizuje lub usuwa jego dane obejmujące:
+
+- **1)** imię (imiona);
+- **2)** nazwisko;
+- **3)** numer PESEL, jeżeli został nadany;
+- **4)** adres miejsca pobytu za granicą;
+- **5)** przewidywany okres pobytu za granicą, nie dłuższy niż 5 lat;
+- **6)** adres poczty elektronicznej lub numer telefonu komórkowego.
+
+4. Wniosek o umieszczenie, aktualizację lub usunięcie danych z rejestru podróżujących składa się przy użyciu usługi elektronicznej udostępnionej przez ministra właściwego do spraw zagranicznych w systemie teleinformatycznym, o którym mowa w ust. 1.
+
+5. Minister właściwy do spraw zagranicznych udostępnia konsulom w systemie teleinformatycznym, o którym mowa w ust. 1, zgodnie z ich właściwością terytorialną, dane z rejestru podróżujących.
+
+6. Konsul lub minister właściwy do spraw zagranicznych mogą udostępniać dane z rejestru podróżujących organom innych państw lub innym podmiotom w zakresie niezbędnym do prowadzenia przez konsula działań, o których mowa w art. 36.
+
+7. Dane są usuwane z rejestru podróżujących po upływie 14 dni od dnia zakończenia przewidywanego pobytu obywatela polskiego za granicą.
 
 **Art. 38.**
 
@@ -276,7 +316,9 @@ Prawo konsularne
     - **b)** opłacenie biletu powrotnego przez osobę trzecią,
     - **c)** odroczenie przez przewoźnika płatności za bilet powrotny,
     - **d)** skorzystanie z kart płatniczych lub innych form zapłaty bezgotówkowej,
-    - **e)** uzyskanie środków na pokrycie kosztów powrotu do Rzeczypospolitej Polskiej na podstawie przepisów ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2014 r. poz. 196, z późn. zm. ).
+    - **e)** pokrycie kosztów powrotu do Rzeczypospolitej Polskiej na podstawie przepisów ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2022 r. poz. 511 i
+
+- **2185)** .
 
 4. W wyjątkowych przypadkach pomoc finansowa może zostać udzielona z urzędu.
 
@@ -287,9 +329,19 @@ Prawo konsularne
 1. Pomoc finansowa może być udzielona, jeżeli:
 
 - **1)** osoba trzecia wpłaci na rachunek bankowy urzędu konsularnego, przedstawicielstwa dyplomatycznego Rzeczypospolitej Polskiej albo ministra właściwego do spraw zagranicznych kwotę przeznaczoną dla wnioskodawcy w wysokości stanowiącej równowartość udzielanej pomocy finansowej;
-- **2)** wnioskodawca złoży oświadczenie o zobowiązaniu się do zwrotu całości lub części otrzymanej kwoty.
+- **2)** wnioskodawca złoży oświadczenie o zobowiązaniu się do zwrotu otrzymanej kwoty.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 2, zwrot kwoty pomocy finansowej następuje w terminie wskazanym przez konsula. Termin zwrotu nie może być krótszy niż miesiąc i dłuższy niż trzy miesiące od dnia udzielenia pomocy finansowej.
+
+**Art. 40a.**
+
+1. W ramach pomocy konsularnej konsul może przekazać obywatelowi polskiemu przebywającemu w okręgu konsularnym, w szczególności aresztowanemu lub odbywającemu karę pozbawienia wolności, kwotę pieniężną, która pozwala na zabezpieczenie podstawowych potrzeb tego obywatela, jeżeli osoba trzecia wpłaci na rachunek bankowy urzędu konsularnego, przedstawicielstwa dyplomatycznego Rzeczypospolitej Polskiej albo ministra właściwego do spraw zagranicznych równowartość tej kwoty.
+
+2. Minister właściwy do spraw zagranicznych określi, w drodze rozporządzenia:
+
+- **1)** sposób przekazania przez konsula kwoty stanowiącej równowartość kwoty wpłaconej przez osobę trzecią,
+- **2)** sposób przeliczania równowartości kwoty, która ma być przekazana,
+- **3)** wzór potwierdzenia przekazania kwoty stanowiącej równowartość kwoty wpłaconej przez osobę trzecią – mając na uwadze konieczność zapewnienia sprawności prowadzonego postępowania, efektywnego udzielania pomocy konsularnej oraz transparentność działań konsula.
 
 **Art. 41.**
 
@@ -313,7 +365,7 @@ Prawo konsularne
 
 **Art. 45.**
 
-1. Niespłacone w terminie zobowiązania wynikające z decyzji konsula o udzieleniu pomocy finansowej obywatelowi polskiemu, wydanej po złożeniu oświadczenia, o którym mowa w art. 40 ust. 1 pkt 2, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm. ), przy czym wierzycielem zobowiązania wynikającego z tej decyzji jest minister właściwy do spraw zagranicznych.
+1. Niespłacone w terminie zobowiązania wynikające z decyzji konsula o udzieleniu pomocy finansowej obywatelowi polskiemu, wydanej po złożeniu oświadczenia, o którym mowa w art. 40 ust. 1 pkt 2, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ), przy czym wierzycielem zobowiązania wynikającego z tej decyzji jest minister właściwy do spraw zagranicznych.
 
 2. Zobowiązanie wynikające z decyzji, o której mowa w ust. 1, przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym upłynął termin zwrotu kwoty udzielonej pomocy finansowej.
 
@@ -331,11 +383,164 @@ Prawo konsularne
 
 3. Zapomogi w gotówce udziela się za pokwitowaniem.
 
+**Art. 48a.**
+
+1. Konsul, na wniosek obywatela państwa członkowskiego Unii Europejskiej, o którym mowa w art. 21 ust. 1, wydaje unijny tymczasowy dokument podróży, zwany dalej „TDP”, w przypadkach gdy:
+
+- **1)** utracił on paszport lub inny dokument podróży;
+- **2)** jego paszport lub inny dokument podróży uległ zniszczeniu;
+- **3)** państwo członkowskie Unii Europejskiej, którego jest on obywatelem, zwane dalej „państwem obywatelstwa”, nie może w rozsądnym terminie wydać mu paszportu lub innego dokumentu podróży.
+
+2. TDP wydaje się w celu umożliwienia powrotu do państwa obywatelstwa albo do państwa zamieszkania, a w szczególnie uzasadnionych okolicznościach – do innego miejsca docelowego.
+
+3. TDP wydaje się na okres niezbędny do powrotu, o którym mowa w ust. 2, obejmujący czas przejazdu, w tym niezbędnych postojów nocnych i połączeń w podróży, oraz dodatkowe dwa dni, nie dłużej jednak niż na okres piętnastu dni od daty jego wydania, o ile nie zachodzą wyjątkowe okoliczności.
+
+**Art. 48b.**
+
+1. Wniosek o wydanie TDP obywatel państwa członkowskiego Unii Europejskiej, o którym mowa w art. 21 ust. 1, składa osobiście konsulowi.
+
+2. Konsul może odstąpić od wymogu, o którym mowa w ust. 1, w przypadku gdy szczególne okoliczności uniemożliwiają lub znacznie utrudniają osobiste złożenie wniosku o wydanie TDP.
+
+3. Wniosek o wydanie TDP zawiera:
+
+- **1)** wizerunek twarzy zgodny z wymogami określonymi w art. 41 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. z 2024 r. poz. 1063);
+- **2)** imię (imiona) i nazwisko;
+- **3)** datę, miejsce i państwo urodzenia;
+- **4)** płeć;
+- **5)** posiadane obywatelstwa;
+- **6)** krajowy numer ewidencyjny lub numer ubezpieczenia społecznego – jeżeli zostały nadane;
+- **7)** informacje o zastępowanym dokumencie podróży – jeżeli są dostępne;
+- **8)** informacje na temat rodziców lub opiekunów prawnych – w przypadku osób, które nie ukończyły 18. roku życia;
+- **9)** dane kontaktowe;
+- **10)** informacje o kraju docelowym, w tym informacje, czy jest on państwem obywatelstwa, państwem zamieszkania czy innym miejscem docelowym;
+- **11)** informacje o krajach tranzytu między krajem wyjazdu a krajem docelowym;
+- **12)** informację o przewidywanym czasie trwania podróży;
+- **13)** informację o obowiązku zwrotu TDP po powrocie do kraju docelowego;
+- **14)** podpis.
+
+4. Wniosek o wydanie TDP składa się na formularzu, którego wzór jest określony w załączniku I do decyzji wykonawczej Komisji (UE) 2024/2662 z dnia 14 października 2024 r. ustanawiającej standardowy formularz wniosku o wydanie unijnego tymczasowego dokumentu podróży i zmieniającej decyzję wykonawczą (UE) 2022/2452 (Dz. Urz. UE L 2024/2662 z 15.10.2024). Formularz wniosku o wydanie TDP udostępnia się w języku polskim, angielskim lub francuskim.
+
+**Art. 48c.**
+
+1. Konsul niezwłocznie, nie później jednak niż w terminie dwóch dni roboczych liczonych od dnia złożenia wniosku o wydanie TDP, informuje o jego przyjęciu najbliższe przedstawicielstwo dyplomatyczne lub urząd konsularny państwa obywatelstwa oraz zwraca się z zapytaniem o potwierdzenie danych osoby, której dotyczy wniosek.
+
+2. Za dzień roboczy uznaje się dzień inny niż sobota lub niedziela lub dzień uznany ustawowo za wolny od pracy, przy czym za dzień ustawowo wolny od pracy uznaje się również dzień wolny od pracy obowiązujący organ zobowiązany do działania.
+
+3. Do zapytania, o którym mowa w ust. 1, załącza się:
+
+- **1)** odwzorowanie cyfrowe wniosku o wydanie TDP;
+- **2)** odwzorowanie cyfrowe wizerunku twarzy osoby, której dotyczy wniosek, utrwalonego w trakcie składania wniosku, a w przypadku gdy nie jest to możliwe – wykonanego zgodnie z wymogami określonymi w art. 41 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych;
+- **3)** odwzorowanie cyfrowe dostępnych dokumentów tożsamości oraz innych dokumentów istotnych dla weryfikacji i potwierdzenia danych osoby, której dotyczy wniosek.
+
+**Art. 48d.**
+
+1. Zapytanie, o którym mowa w art. 48c ust. 1, konsul przekazuje z wykorzystaniem dostępnych mu środków komunikacji zapewniających natychmiastowe przekazywanie i pozyskiwanie informacji, z uwzględnieniem warunków bezpieczeństwa przetwarzania danych.
+
+2. W przypadku braku środków komunikacji spełniających wymagania, o których mowa w ust. 1, konsul może przekazać zapytanie, o którym mowa w art. 48c ust. 1, za pośrednictwem ministra właściwego do spraw zagranicznych.
+
+3. W wyjątkowych przypadkach, jeżeli zostały wyczerpane środki komunikacji z państwem obywatelstwa, konsul może odstąpić od wymogu potwierdzenia danych osoby, której dotyczy wniosek, o ile niezwłocznie poinformuje państwo obywatelstwa o wydaniu TDP tej osobie, prześle temu państwu odwzorowanie cyfrowe tego dokumentu oraz przekaże temu państwu dane, o których mowa w art. 48h ust. 6.
+
+**Art. 48e.**
+
+1. W przypadku wyrażenia sprzeciwu przez państwo obywatelstwa wobec wydania TDP albo braku potwierdzenia danych osoby, której dotyczy wniosek, o których mowa w art. 48b ust. 3 pkt 1–8, przez to państwo w terminie trzech dni roboczych liczonych od dnia przekazania zapytania, o którym mowa w art. 48c ust. 1, TDP nie jest wydawane.
+
+2. Konsul informuje osobę, której dotyczy wniosek, o odmowie wydania TDP oraz możliwości skorzystania z pomocy konsularnej państwa obywatelstwa zgodnie z zobowiązaniami prawnymi i praktyką tego państwa.
+
+3. Przepisu ust. 1 nie stosuje się, jeżeli państwo obywatelstwa poinformuje konsula w terminie, o którym mowa w tym przepisie, o planowanym terminie potwierdzenia danych osoby, której dotyczy wniosek. W takim przypadku konsul przekazuje tę informację osobie, której dotyczy wniosek.
+
+**Art. 48f.**
+
+1. Konsul wydaje TDP niezwłocznie, nie później jednak niż w terminie dwóch dni roboczych liczonych od dnia otrzymania potwierdzenia przez państwo obywatelstwa danych osoby, której dotyczy wniosek, o których mowa w art. 48b ust. 3 pkt 1–8, o ile to państwo nie sprzeciwi się jego wydaniu.
+
+2. W uzasadnionych przypadkach termin, o którym mowa w ust. 1, może zostać przekroczony.
+
+3. Osoba, której wydano TDP, jest uprawniona do zweryfikowania danych w nim zawartych, a w razie potrzeby – wystąpienia o ich skorygowanie przez wydanie nowego dokumentu.
+
+4. Konsul niezwłocznie informuje państwo obywatelstwa o wydaniu TDP, przesyłając temu państwu odwzorowanie cyfrowe tego dokumentu.
+
+**Art. 48g.** Do postępowania przed konsulem w sprawie o wydanie TDP nie mają zastosowania przepisy działu III rozdziałów 7–9.
+
+**Art. 48h.**
+
+1. TDP ma formę jednolitego formularza TDP z polem personalizacyjnym przeznaczonym na wklejenie wypełnionej jednolitej naklejki TDP.
+
+2. Specyfikację jednolitego formularza TDP, w tym sposób umieszczenia na nim wypełnionej jednolitej naklejki TDP, określa załącznik I do dyrektywy Rady (UE) 2019/997 z dnia 18 czerwca 2019 r. ustanawiającej unijny tymczasowy dokument podróży oraz uchylającej decyzję 96/409/WPZiB (Dz. Urz. UE L 163 z 20.06.2019, str. 1, z późn. zm. ), zwanej dalej „dyrektywą 2019/997”.
+
+3. W TDP nie zamieszcza się żadnych informacji w formie do odczytu maszynowego, o ile informacje te nie widnieją również w sekcjach, o których mowa w pkt 6 załącznika II do dyrektywy 2019/997.
+
+4. Specyfikację jednolitej naklejki TDP, w tym zakres sekcji i pól, które należy wypełnić, określa załącznik II do dyrektywy 2019/997.
+
+5. Dodatkowe specyfikacje techniczne dotyczące TDP są zawarte w decyzji wykonawczej Komisji (UE) 2022/2452 z dnia 8 grudnia 2022 r. określającej dodatkowe specyfikacje techniczne dotyczące unijnego tymczasowego dokumentu podróży ustanowionego dyrektywą Rady (UE) 2019/997 (Dz. Urz. UE L 320 z 14.12.2022, str. 47, z późn. zm. ).
+
+6. W warstwie graficznej jednolitej naklejki TDP zamieszcza się dane dotyczące:
+
+- **1)** osoby:
+    - **a)** imię (imiona),
+    - **b)** nazwisko,
+    - **c)** obywatelstwo,
+    - **d)** datę urodzenia,
+    - **e)** płeć,
+    - **f)** wizerunek twarzy;
+
+- **2)** dokumentu:
+    - **a)** numer jednolitego formularza TDP,
+    - **b)** oznaczenie państwa wydającego,
+    - **c)** oznaczenie organu wydającego,
+    - **d)** datę wydania,
+    - **e)** datę ważności,
+    - **f)** uwagi;
+
+- **3)** kraju docelowego oraz krajów tranzytu.
+
+7. Wpisy na jednolitej naklejce TDP, w tym wizerunek twarzy, nanosi się drukiem. Na wydrukowanej jednolitej naklejce TDP nie dokonuje się zmian.
+
+8. W wyjątkowych przypadkach związanych z wystąpieniem problemów technicznych o charakterze siły wyższej konsul może wypełnić jednolitą naklejkę TDP odręcznie i dołączyć do niej odwzorowanie cyfrowe wizerunku twarzy, o którym mowa w art. 48c ust. 3 pkt 2, w sposób uniemożliwiający jego zamianę. Na wypełnionej w ten sposób jednolitej naklejce TDP nie dokonuje się zmian.
+
+**Art. 48i.**
+
+1. W przypadku ubiegania się przez obywatela polskiego o wydanie TDP przez inne państwo członkowskie Unii Europejskiej, zwane dalej „państwem udzielającym pomocy”, konsul na zapytanie tego państwa weryfikuje na podstawie Rejestru Dokumentów Paszportowych dane tego obywatela w zakresie, o którym mowa w art. 48b ust. 3 pkt 1–8.
+
+2. Konsul niezwłocznie, nie później jednak niż w terminie trzech dni roboczych liczonych od dnia otrzymania zapytania, potwierdza dane obywatela polskiego, o których mowa w art. 48b ust. 3 pkt 1–8, albo informuje państwo udzielające pomocy o braku możliwości potwierdzenia tych danych w sposób określony w art. 48d ust. 1 i 2.
+
+3. W uzasadnionych przypadkach termin, o którym mowa w ust. 2, może zostać przekroczony. W takim przypadku konsul informuje państwo udzielające pomocy o planowanym terminie potwierdzenia danych obywatela polskiego, o których mowa w art. 48b ust. 3 pkt 1–8, lub braku możliwości potwierdzenia tych danych.
+
+**Art. 48j.** Osoba, której wydano TDP, po powrocie do kraju docelowego zwraca ten dokument wybranemu konsulowi. Przepisu art. 53 ust. 2 nie stosuje się.
+
+**Art. 48k.**
+
+1. Konsul niezwłocznie fizycznie anuluje przez przedziurkowanie i przecięcie:
+
+- **1)** błędnie spersonalizowany jednolity formularz TDP lub błędnie spersonalizowaną jednolitą naklejkę TDP;
+- **2)** TDP zwrócony przez osobę, której go wydano.
+
+2. Konsul prowadzi ewidencję dokumentów, o których mowa w ust. 1.
+
+**Art. 48l.**
+
+1. Konsul przetwarza dane dotyczące wydania TDP, o których mowa w art. 48b ust. 3 pkt 1–8, wyłącznie do celów udzielenia pomocy konsularnej przez okres nie dłuższy niż 180 dni, licząc od dnia złożenia wniosku o wydanie TDP.
+
+2. Konsul usuwa dane z prowadzonych rejestrów czynności i rejestrów spraw po upływie terminu, o którym mowa w ust. 1, oraz poddaje brakowaniu dokumentację tworzącą akta sprawy.
+
+**Art. 48m.**
+
+1. Minister właściwy do spraw zagranicznych zapewnia blankiety jednolitych formularzy TDP i jednolitych naklejek TDP.
+
+2. Konsul przechowuje niewypełnione blankiety jednolitych formularzy TDP i jednolitych naklejek TDP w miejscu zabezpieczonym przed ich utratą, zniszczeniem, uszkodzeniem lub dostępem do nich osób nieuprawnionych.
+
+**Art. 48n.**
+
+1. Minister właściwy do spraw zagranicznych przetwarza dane dotyczące liczby:
+
+- **1)** wydanych TDP, ze wskazaniem obywatelstwa osób, którym je wydano;
+- **2)** przypadków podrabiania i fałszowania TDP.
+
+2. Dane, o których mowa w ust. 1, minister właściwy do spraw zagranicznych przekazuje corocznie Komisji Europejskiej.
+
 **Art. 49.**
 
 1. Przepisów art. 20 i art. 39 nie stosuje się do obywateli polskich posiadających obywatelstwo państwa przyjmującego.
 
-2. Przepisów art. 21 nie stosuje się do obywateli państw członkowskich Unii Europejskiej posiadających obywatelstwo państwa przyjmującego.
+2. Przepisów art. 21, art. 41 oraz art. 48a–48n nie stosuje się do obywateli państw członkowskich Unii Europejskiej posiadających obywatelstwo państwa przyjmującego.
 
 ### DZIAŁ III Postępowanie przed konsulem
 
@@ -345,11 +550,13 @@ Prawo konsularne
 
 **Art. 51.** Konsul załatwia sprawę poprzez wykonanie czynności lub wydanie decyzji.
 
+**Art. 51a.** Sprawy załatwia się na piśmie utrwalonym w postaci papierowej lub elektronicznej. Pisma utrwalone w postaci papierowej opatruje się podpisem własnoręcznym. Pisma utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
 **Art. 52.**
 
-1. Konsul prowadzi korespondencję z obywatelem polskim w języku polskim, a z cudzoziemcem, osobą prawną, jednostką organizacyjną niebędącą osobą prawną i instytucją państwa przyjmującego w języku urzędowym lub powszechnie używanym w państwie przyjmującym. Na korespondencję w języku polskim konsul odpowiada w języku polskim.
+1. Konsul prowadzi korespondencję z obywatelem polskim w języku polskim, a z cudzoziemcem, osobą prawną, jednostką organizacyjną niebędącą osobą prawną i instytucją państwa przyjmującego – w języku urzędowym lub powszechnie używanym w państwie przyjmującym. Na korespondencję w języku polskim konsul odpowiada w języku polskim.
 
-2. Korespondencję z konsulem można prowadzić za pomocą elektronicznej skrzynki podawczej, jeżeli została udostępniona.
+2. Korespondencję z konsulem można prowadzić za pomocą adresu do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285).
 
 **Art. 53.**
 
@@ -379,7 +586,7 @@ Prawo konsularne
 
 6. Poniesionych przez stronę kosztów stawiennictwa nie zwraca się.
 
-**Art. 56.** Do postępowania w sprawie zaginięcia lub zniszczenia akt stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm. ).
+**Art. 56.** Do postępowania w sprawie zaginięcia lub zniszczenia akt stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ).
 
 **Art. 57.**
 
@@ -399,7 +606,11 @@ Prawo konsularne
 
 **Art. 59.** Konsul udziela informacji w sprawach z zakresu funkcji konsularnych niezwłocznie, jednak nie później niż w terminie czternastu dni od dnia otrzymania wniosku o udzielenie takiej informacji.
 
-**Art. 60.** Konsul zwraca się do organów administracji publicznej w Rzeczypospolitej Polskiej lub w państwie przyjmującym o przekazanie dodatkowych informacji lub opinii albo o podjęcie określonych działań, jeżeli jest to niezbędne do załatwienia sprawy. W takim przypadku termin, o których mowa w art. 58 ust. 1, ulega wydłużeniu do trzech miesięcy.
+**Art. 60.**
+
+1. Konsul zwraca się do organów administracji publicznej w Rzeczypospolitej Polskiej lub w państwie przyjmującym o przekazanie dodatkowych informacji lub opinii albo o podjęcie określonych działań, jeżeli jest to niezbędne do załatwienia sprawy. W takim przypadku termin, o których mowa w art. 58 ust. 1, ulega wydłużeniu do trzech miesięcy.
+
+2. Jeżeli załatwienie sprawy w terminie, o którym mowa w ust. 1, nie jest możliwe, stosuje się przepis art. 58 ust. 2.
 
 **Art. 61.** Jeżeli sprawa wniesiona za pośrednictwem konsula podlega rozpatrzeniu przez organ w Rzeczypospolitej Polskiej, konsul przekazuje sprawę do właściwego organu i informuje stronę o przewidywanym terminie jej załatwienia.
 
@@ -409,6 +620,8 @@ Prawo konsularne
 
 2. Strona ma prawo do sporządzania odwzorowań cyfrowych i notatek z akt sprawy.
 
+3. Stronie, na jej wniosek, wydaje się odpłatnie uwierzytelnione odpisy lub kopie z akt sprawy, o ile jest to uzasadnione ważnym interesem strony.
+
 #### Rozdział 3 Terminy
 
 **Art. 63.**
@@ -417,7 +630,7 @@ Prawo konsularne
 
 2. Terminy określone w tygodniach kończą się z upływem tego dnia w ostatnim tygodniu, który nazwą odpowiada początkowemu dniowi terminu.
 
-3. Terminy określone w miesiącach kończą się z upływem tego dnia w ostatnim miesiącu, który odpowiada początkowemu dniowi terminu, a gdy takiego dnia w ostatnim miesiącu nie ma w ostatnim dniu tego miesiąca.
+3. Terminy określone w miesiącach kończą się z upływem tego dnia w ostatnim miesiącu, który odpowiada początkowemu dniowi terminu, a gdy takiego dnia w ostatnim miesiącu nie ma – w ostatnim dniu tego miesiąca.
 
 **Art. 64.**
 
@@ -425,8 +638,8 @@ Prawo konsularne
 
 2. Termin uważa się za zachowany, jeżeli przed jego upływem pismo zostało:
 
-- **1)** przesłane za zwrotnym potwierdzeniem odbioru;
-- **2)** złożone w sposób, o którym mowa w art. 75 ust. 2.
+- **1)** nadane jako przesyłka rejestrowana w placówce pocztowej operatora pocztowego świadczącego usługi powszechne;
+- **2)** wysłane na adres do doręczeń elektronicznych, a nadawca otrzymał dowód otrzymania, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 
 **Art. 65.**
 
@@ -438,7 +651,7 @@ Prawo konsularne
 
 #### Rozdział 4 Doręczenia
 
-**Art. 66.** Dokumenty lub pisma mające wpływ na przebieg postępowania lub je kończące, w tym decyzje i postanowienia, doręcza się stronie, a jeśli strona ustanowiła pełnomocnika − pełnomocnikowi, chyba że nie ma on miejsca zamieszkania lub siedziby w okręgu konsularnym.
+**Art. 66.** Dokumenty lub pisma mające wpływ na przebieg postępowania lub je kończące, w tym decyzje i postanowienia, doręcza się stronie, a jeśli strona ustanowiła pełnomocnika – pełnomocnikowi, chyba że nie ma on miejsca zamieszkania lub siedziby w okręgu konsularnym.
 
 **Art. 67.**
 
@@ -448,25 +661,13 @@ Prawo konsularne
 
 3. W przypadku nieskutecznego powtórnego doręczenia doręczenie uważa się za dokonane po upływie dwudziestu jeden dni od dnia nadania przesyłki albo w dniu otrzymania zwróconej przesyłki, jeżeli jej zwrot nastąpi wcześniej, a dokumenty lub pisma pozostawia się w aktach sprawy.
 
+4. W przypadku doręczeń kierowanych do kraju konsul może korzystać z doręczeń za pokwitowaniem przez operatora wyznaczonego z wykorzystaniem publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+
 **Art. 68.**
 
-1. Konsul doręcza pisma za pomocą środków komunikacji elektronicznej w rozumieniu przepisów ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422), jeżeli strona złoży wniosek o wszczęcie postępowania w formie dokumentu elektronicznego i wystąpi we wniosku o doręczanie pism za pomocą środków komunikacji elektronicznej oraz wskaże adres elektroniczny. Konsul dokonuje doręczenia w systemie teleinformatycznym konsula służącym do obsługi doręczeń.
+1. Jeżeli strona lub pełnomocnik strony posiada adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy, konsul może dokonać doręczenia na ten adres niezależnie od miejsca zamieszkania lub siedziby strony lub pełnomocnika.
 
-2. W celu doręczenia stronie pisma w formie dokumentu elektronicznego konsul przesyła na adres elektroniczny strony zawiadomienie zawierające:
-
-- **1)** wskazanie, że strona może odebrać pismo w formie dokumentu elektronicznego;
-- **2)** wskazanie adresu elektronicznego, z którego strona może pobrać pismo i pod którym potwierdza odbiór doręczanego pisma;
-- **3)** pouczenie dotyczące sposobu odbioru pisma, a w szczególności sposobu identyfikacji pod wskazanym adresem elektronicznym w systemie teleinformatycznym konsula służącym do obsługi doręczeń, oraz informację o wymogu podpisania urzędowego poświadczenia odbioru w sposób wskazany w art. 20a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114)
-
-3. W przypadku doręczenia pisma za pomocą środków komunikacji elektronicznej doręczenie jest skuteczne, jeżeli strona potwierdzi odbiór pisma w sposób, o którym mowa w ust. 2 pkt 3.
-
-4. W przypadku nieodebrania pisma w formie dokumentu elektronicznego w sposób, o którym mowa w ust. 2 pkt 3, konsul po upływie siedmiu dni, licząc od dnia wysłania zawiadomienia, przesyła powtórne zawiadomienie o możliwości odebrania tego pisma.
-
-5. W przypadku nieodebrania pisma doręczenie uważa się za dokonane po upływie czternastu dni, licząc od dnia przesłania pierwszego zawiadomienia.
-
-6. Zawiadomienia, o których mowa w ust. 2 i 4, mogą być automatycznie tworzone i przesyłane przez system teleinformatyczny konsula służący do obsługi doręczeń, a odbioru tych zawiadomień nie potwierdza się.
-
-7. W przypadku uznania pisma w formie dokumentu elektronicznego za doręczone na podstawie ust. 5, konsul umożliwia stronie dostęp do treści pisma w formie dokumentu elektronicznego przez okres co najmniej trzech miesięcy od dnia uznania pisma w formie dokumentu elektronicznego za doręczone oraz do informacji o dacie uznania pisma za doręczone i datach wysłania zawiadomień, o których mowa w ust. 2 i 4, w systemie teleinformatycznym konsula służącym do obsługi doręczeń.
+2. Doręczenie elektroniczne jest skuteczne, jeżeli zostanie wystawiony dowód otrzymania, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 
 **Art. 69.** Jeżeli strona odmawia przyjęcia dokumentu lub pisma, konsul załącza je do akt sprawy z adnotacją o odmowie przyjęcia i dacie odmowy. W takim przypadku przyjmuje się, że dokument lub pismo zostały doręczone w dniu, w którym nastąpiła odmowa przyjęcia.
 
@@ -492,15 +693,15 @@ Prawo konsularne
 
 1. Datą wszczęcia postępowania na wniosek strony jest dzień doręczenia wniosku konsulowi.
 
-2. Datą wszczęcia postępowania na wniosek strony wniesiony za pomocą elektronicznej skrzynki podawczej jest dzień wprowadzenia wniosku do systemu teleinformatycznego konsula.
+2. Datą wszczęcia postępowania na żądanie strony wniesione drogą elektroniczną jest dzień wystawienia dowodu otrzymania, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 
-**Art. 74.** Wniosek o wszczęcie postępowania składa się ustnie lub pisemnie.
+**Art. 74.** Wniosek o wszczęcie postępowania składa się ustnie lub na piśmie, chyba że charakter czynności lub przepis szczególny wymagają złożenia wniosku na piśmie utrwalonym w postaci papierowej.
 
 **Art. 75.**
 
-1. We wniosku składanym pisemnie zamieszcza się żądanie, imię i nazwisko strony, jej podpis oraz adres zamieszkania.
+1. We wniosku składanym na piśmie zamieszcza się żądanie, imię i nazwisko strony, jej podpis oraz adres zamieszkania.
 
-2. Wniosek w formie dokumentu elektronicznego wniesiony za pomocą elektronicznej skrzynki podawczej opatruje się podpisem potwierdzonym profilem zaufanym ePUAP lub bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu.
+2. Wniosek lub pisma utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Wniosek lub pisma utrwalone w postaci papierowej opatruje się podpisem własnoręcznym.
 
 3. Jeżeli wniosek nie czyni zadość wymaganiom, o których mowa w ust. 1 lub 2, pozostawia się go bez rozpoznania.
 
@@ -510,7 +711,7 @@ Prawo konsularne
 
 2. Jeżeli charakter sprawy tego wymaga, z wniosku składanego ustnie sporządza się protokół, który podpisują konsul i strona. Przepis art. 75 ust. 1 stosuje się odpowiednio.
 
-**Art. 77.** Jeżeli wniosek nie czyni zadość innym wymogom ustalonym w przepisach prawa właściwych dla danej czynności lub nie załączono do niego niezbędnych dokumentów, konsul wzywa pisemnie składającego wniosek do usunięcia braków w terminie czternastu dni od daty wezwania, z pouczeniem, że nieusunięcie braków spowoduje pozostawienie wniosku bez rozpoznania.
+**Art. 77.** Jeżeli wniosek nie czyni zadość innym wymogom ustalonym w przepisach prawa właściwych dla danej czynności lub nie załączono do niego niezbędnych dokumentów, konsul wzywa na piśmie składającego wniosek do usunięcia braków w terminie czternastu dni od daty wezwania, z pouczeniem, że nieusunięcie braków spowoduje pozostawienie wniosku bez rozpoznania.
 
 #### Rozdział 6 Dowody
 
@@ -534,7 +735,7 @@ Prawo konsularne
 
 **Art. 81.**
 
-1. Decyzja zawiera oznaczenie konsula, datę wydania, oznaczenie strony, powołanie podstawy prawnej, rozstrzygnięcie, uzasadnienie prawne i faktyczne, pouczenie o możliwości i trybie wniesienia odwołania od decyzji oraz podpis urzędnika konsularnego z podaniem imienia i nazwiska oraz zajmowanego stanowiska; jeżeli decyzja została wydana w formie dokumentu elektronicznego, urzędnik konsularny opatruje decyzję bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu.
+1. Decyzja zawiera oznaczenie konsula, datę wydania, oznaczenie strony, powołanie podstawy prawnej, rozstrzygnięcie, uzasadnienie prawne i faktyczne, pouczenie o możliwości i trybie wniesienia odwołania od decyzji oraz podpis urzędnika konsularnego z podaniem imienia i nazwiska oraz zajmowanego stanowiska.
 
 2. Przepis szczególny może określać inne składniki, które powinny być zawarte w decyzji.
 
@@ -552,13 +753,13 @@ Prawo konsularne
 
 2. Decyzja konsula podlega wykonaniu przed upływem terminu do wniesienia odwołania, gdy jest zgodna z żądaniem strony.
 
-**Art. 84.** Na żądanie strony złożone w terminie czternastu dni od dnia doręczenia decyzji konsul może, w drodze postanowienia, uzupełnić decyzję co do rozstrzygnięcia lub prawa do wniesienia odwołania.
+**Art. 84.** Konsul z urzędu lub na żądanie strony złożone w terminie czternastu dni od dnia doręczenia decyzji może, w drodze postanowienia, uzupełnić decyzję co do rozstrzygnięcia lub prawa do wniesienia odwołania.
 
 **Art. 85.** Konsul z urzędu lub na żądanie strony może sprostować, w drodze postanowienia, błędy pisarskie oraz inne oczywiste omyłki w wydanej decyzji.
 
 **Art. 86.** Konsul wydaje postanowienia:
 
-**Art. 87.** Do postanowień konsula stosuje się odpowiednio przepisy art. 81−85.
+**Art. 87.** Do postanowień konsula stosuje się odpowiednio przepisy art. 81– 85.
 
 #### Rozdział 8 Odwołania, zażalenia i wnioski o ponowne rozpatrzenie sprawy
 
@@ -566,13 +767,13 @@ Prawo konsularne
 
 1. Od decyzji konsula stronie służy odwołanie do organu wyższego stopnia.
 
-2. Organem wyższego stopnia w stosunku do konsula w rozumieniu ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm. ) jest minister właściwy do spraw zagranicznych, chyba że przepis szczególny stanowi inaczej.
+2. Organem wyższego stopnia w stosunku do konsula w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) jest minister właściwy do spraw zagranicznych, chyba że przepis szczególny stanowi inaczej.
 
 3. Odwołanie wnosi się w terminie czternastu dni od dnia doręczenia decyzji stronie.
 
 **Art. 89.**
 
-1. Odwołanie wnosi się pisemnie za pośrednictwem konsula, który wydał decyzję. Przepisy art. 73 i art. 75 stosuje się odpowiednio.
+1. Odwołanie wnosi się na piśmie za pośrednictwem konsula, który wydał decyzję. Przepisy art. 73 i art. 75 stosuje się odpowiednio.
 
 2. Konsul przesyła odwołanie wraz z aktami sprawy do właściwego organu wyższego stopnia w Rzeczypospolitej Polskiej, za zwrotnym potwierdzeniem odbioru, pocztą dyplomatyczną lub przy użyciu innych środków łączności będących w dyspozycji urzędów konsularnych lub przedstawicielstw dyplomatycznych Rzeczypospolitej Polskiej.
 
@@ -598,7 +799,7 @@ Prawo konsularne
 
 1. W przypadkach przewidzianych w przepisach szczególnych stronie służy wniosek o ponowne rozpatrzenie sprawy przez konsula.
 
-2. Wniosek, o którym mowa w ust. 1, składa się pisemnie w terminie czternastu dni od dnia doręczenia stronie decyzji.
+2. Wniosek, o którym mowa w ust. 1, składa się na piśmie w terminie czternastu dni od dnia doręczenia stronie decyzji.
 
 3. Decyzja konsula podjęta w wyniku ponownego rozpatrzenia sprawy jest ostateczna.
 
@@ -608,17 +809,23 @@ Prawo konsularne
 
 **Art. 95.** W sprawie zakończonej decyzją ostateczną albo wykonaniem czynności wznawia się postępowanie, jeżeli:
 
-**Art. 96.** Uchylenie decyzji lub czynności konsula z przyczyn określonych w art. 95 pkt 1 i 2 nie może nastąpić, jeżeli od dnia wykonania czynności lub doręczenia decyzji upłynęło pięć lat, zaś z przyczyn określonych w art. 95 pkt 3−8 − jeżeli od dnia wykonania czynności lub doręczenia decyzji upłynęły trzy lata.
+**Art. 96.** Uchylenie decyzji lub czynności konsula z przyczyn określonych w art. 95 pkt 1 i 2 nie może nastąpić, jeżeli od dnia wykonania czynności lub doręczenia decyzji upłynęło pięć lat, zaś z przyczyn określonych w art. 95 pkt 3– 9 – jeżeli od dnia wykonania czynności lub doręczenia decyzji upłynęły trzy lata.
 
-**Art. 97.** Wznowienie postępowania następuje z urzędu lub na wniosek strony. Wznowienie postępowania z przyczyn określonych w art. 95 pkt 3, 7 i 8 następuje tylko na żądanie strony.
+**Art. 97.** Wznowienie postępowania następuje z urzędu lub na wniosek strony. Wznowienie postępowania z przyczyn określonych w art. 95 pkt 3 i 7–9 następuje tylko na żądanie strony.
 
 **Art. 98.**
 
-1. Wniosek o wznowienie postępowania wnosi się do konsula, który wydał decyzję ostateczną lub wykonał czynność, w terminie trzydziestu dni od dnia, w którym strona dowiedziała się o okoliczności stanowiącej podstawę do wznowienia postępowania, a w przypadku, o którym mowa w art. 95 pkt 3 od dnia, w którym strona dowiedziała się o decyzji lub o wykonaniu czynności.
+1. Wniosek o wznowienie postępowania wnosi się do konsula, który wydał decyzję ostateczną lub wykonał czynność, w terminie trzydziestu dni od dnia, w którym strona dowiedziała się o okoliczności stanowiącej podstawę do wznowienia postępowania, a w przypadku, o którym mowa w art. 95 pkt 3 – od dnia, w którym strona dowiedziała się o decyzji lub o wykonaniu czynności.
 
 2. W sytuacji określonej w art. 95 pkt 7 wniosek o wznowienie postępowania wnosi się w terminie miesiąca od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego.
 
-**Art. 99.** Wznowienie postępowania lub odmowa wznowienia postępowania następuje w drodze postanowienia.
+3. W sytuacji określonej w art. 95 pkt 9 wniosek o wznowienie postępowania wnosi się w terminie miesiąca od dnia publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii Europejskiej.
+
+**Art. 99.**
+
+1. Wznowienie postępowania lub odmowa wznowienia postępowania następuje w drodze postanowienia.
+
+2. Na postanowienie o wznowieniu postępowania zażalenie nie przysługuje.
 
 **Art. 100.** Konsul przeprowadza postępowanie co do przyczyn wznowienia postępowania oraz co do rozstrzygnięcia istoty sprawy.
 
@@ -658,7 +865,8 @@ Prawo konsularne
 - **5)** związanych z uzyskiwaniem i przekazywaniem dokumentów;
 - **6)** legalizacyjnych, notarialnych i związanych ze sporządzaniem lub poświadczaniem tłumaczeń;
 - **7)** dotyczących stanu cywilnego;
-- **8)** z zakresu żeglugi morskiej i śródlądowej.
+- **8)** z zakresu żeglugi morskiej i śródlądowej;
+- **9)** związanych z wydaniem uwierzytelnionych odpisów lub kopii z akt sprawy.
 
 4. Konsul pobiera opłaty konsularne za szczególny sposób wykonywania czynności.
 
@@ -706,7 +914,7 @@ Prawo konsularne
 
 **Art. 113.**
 
-1. Nie pobiera się opłaty konsularnej za przyjęcie i rozpatrzenie wniosku o wydanie wizy od członka rodziny obywatela Unii Europejskiej w rozumieniu art. 2 pkt 4 w związku z pkt 3 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2014 r. poz. 1525).
+1. Nie pobiera się opłaty konsularnej za przyjęcie i rozpatrzenie wniosku o wydanie wizy od członka rodziny obywatela Unii Europejskiej w rozumieniu art. 2 pkt 4 w związku z pkt 3 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697 oraz z 2023 r. poz. 547).
 
 2. Nie pobiera się opłaty konsularnej za przyjęcie i rozpatrzenie wniosku o wydanie wizy oraz opłaty za ponowne rozpatrzenie wniosku o wydanie wizy złożonego przez małżonka obywatela polskiego, jego małoletniego bezpośredniego zstępnego lub małoletniego bezpośredniego zstępnego jego małżonka, jego bezpośredniego wstępnego lub bezpośredniego wstępnego jego małżonka, jeżeli wstępny lub zstępny pozostaje na utrzymaniu obywatela polskiego lub jego małżonka.
 
@@ -714,11 +922,7 @@ Prawo konsularne
 
 **Art. 115.** W sprawach pobierania opłat konsularnych za przyjęcie i rozpatrzenie wniosku o wydanie wizy jednolitej oraz w sprawach dotyczących kategorii osób zwolnionych od opłaty za przyjęcie i rozpatrzenie wniosku o wydanie wizy jednolitej stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, z późn. zm.) oraz postanowienia umów o ułatwieniach wizowych zawartych przez Unię Europejską z państwami trzecimi.
 
-**Art. 116.**
-
-1. Do zwolnień, ulg i zasad obniżania opłat konsularnych za wydanie paszportu, jak również do zwrotu opłaty konsularnej za wydanie paszportu w przypadku wydania decyzji o unieważnieniu paszportu stosuje się odpowiednio przepisy ustawy z dnia 13 lipca 2006 r. o dokumentach paszportowych (Dz. U. z 2013 r. poz. 268 i 1038 oraz z 2014 r. poz. 1863).
-
-2. Zwrotu opłaty konsularnej za wydanie paszportu w przypadku wydania decyzji o unieważnieniu paszportu dokonuje się po dostarczeniu konsulowi unieważnionego paszportu.
+**Art. 116.** Do pobierania obniżonych opłat konsularnych za wydanie paszportu lub paszportu tymczasowego oraz zwolnień z opłaty stosuje się odpowiednio przepisy ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. z 2023 r. poz. poz. 410 i 547).
 
 **Art. 117.**
 
@@ -727,7 +931,7 @@ Prawo konsularne
 2. Konsul pobiera przedpłatę na poczet wydatków w szczególności z tytułu:
 
 - **1)** opłat należnych organom administracji publicznej państwa przyjmującego lub organom wymiaru sprawiedliwości tego państwa;
-- **2)** kosztów wykonywania przez adwokatów, notariuszy, tłumaczy i biegłych oraz inne osoby, powierzonych im czynności, w tym niezbędnych kosztów podróży w wysokości odpowiadającej stawkom obowiązującym w miejscu wykonania czynności, a w uzasadnionych przypadkach, za zgodą strony lub ministra właściwego do spraw zagranicznych w wysokości odpowiadającej stawkom wynikającym z umów zawartych między osobami wykonującymi powierzone czynności i konsulem;
+- **2)** kosztów wykonywania przez adwokatów, notariuszy, tłumaczy i biegłych oraz inne osoby, powierzonych im czynności, w tym niezbędnych kosztów podróży – w wysokości odpowiadającej stawkom obowiązującym w miejscu wykonania czynności, a w uzasadnionych przypadkach, za zgodą strony lub ministra właściwego do spraw zagranicznych – w wysokości odpowiadającej stawkom wynikającym z umów zawartych między osobami wykonującymi powierzone czynności i konsulem;
 - **3)** kosztów bankowych;
 - **4)** kosztów zlecanych przez stronę doręczeń dokumentów, w tym dokumentów paszportowych.
 
@@ -842,30 +1046,6 @@ Prawo konsularne
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
 
-**Art. 138.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2011 r. Nr 118, poz. 687, z późn. zm. ) w art. 20a ust. 2 otrzymuje brzmienie: „2. Do postępowania prowadzonego na podstawie niniejszej ustawy, w zakresie w niej nieuregulowanym, stosuje się przepisy Kodeksu postępowania administracyjnego, z tym że do postępowania w sprawie sprowadzenia zwłok i szczątków z zagranicy stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. Prawo konsularne (Dz. U. poz. 1274).”.
-
-**Art. 139.** W ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 140.** W ustawie z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583, z późn. zm. ) art. 59 otrzymuje brzmienie: „Art. 59. W ciągu trzech miesięcy od chwili uprawomocnienia się orzeczenia rozwodu małżonek rozwiedziony, który w skutek zawarcia małżeństwa zmienił swoje dotychczasowe nazwisko, może przez oświadczenie złożone przed kierownikiem urzędu stanu cywilnego lub konsulem powrócić do nazwiska, które nosił przed zawarciem małżeństwa.”.
-
-**Art. 141.** W ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392) wprowadza się następujące zmiany:
-
-**Art. 142.** W ustawie z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. Nr 128, poz. 1403, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 143.** W ustawie z dnia 13 lipca 2006 r. o dokumentach paszportowych (Dz. U. z 2013 r. poz. 268 i 1038 oraz z 2014 r. poz. 1863) wprowadza się następujące zmiany:
-
-**Art. 144.** W ustawie z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2014 r. poz. 1525) wprowadza się następujące zmiany:
-
-**Art. 145.** W ustawie z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2014 r. poz. 1187) w art. 4 ust. 2 otrzymuje brzmienie: „2. Do postępowań w sprawach należących do właściwości konsulów stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. Prawo konsularne (Dz. U. poz. 1274).”.
-
-**Art. 146.** W ustawie z dnia 17 października 2008 r. o zmianie imienia i nazwiska (Dz. U. Nr 220, poz. 1414 oraz z 2014 r. poz. 1741) uchyla się art. 14a.
-
-**Art. 147.** W ustawie z dnia 2 kwietnia 2009 r. o obywatelstwie polskim (Dz. U. z 2012 r. poz. 161 oraz z 2013 r. poz. 1650) w art. 10 ust. 2 otrzymuje brzmienie: „2. W sprawach uregulowanych w ustawie należących do właściwości konsulów stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. Prawo konsularne (Dz. U. poz. 1274), o ile przepisy szczególne nie stanowią inaczej.”.
-
-**Art. 148.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463 i 1004) wprowadza się następujące zmiany:
-
-**Art. 149.** W ustawie z dnia 28 listopada 2014 r. Prawo o aktach stanu cywilnego (Dz. U. poz. 1741, z późn. zm. ) wprowadza się następujące zmiany:
-
 #### Rozdział 2 Przepisy przejściowe i końcowe
 
 **Art. 150.** Do dnia 30 kwietnia 2018 r. konsul może udzielić pomocy finansowej obywatelowi Unii Europejskiej, o którym mowa w art. 21 ust. 1, jeżeli państwo członkowskie Unii Europejskiej, którego obywatelem jest osoba wnioskująca o udzielenie pomocy, wyrazi zgodę na jej udzielenie. W szczególnie uzasadnionych przypadkach pomoc taka może być udzielona także bez uzyskania zgody.
@@ -874,5 +1054,5 @@ Prawo konsularne
 
 **Art. 152.** Traci moc ustawa z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 389, 539 i 1137).
 
-**Art. 153.** Ustawa wchodzi w życie z dniem 1 listopada 2015 r., z wyjątkiem art. 21 ust. 2 i 3, art. 41, art. 42 i art. 45 ust. 3, które wchodzą w życie z dniem 1 maja 2018 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 153.** Ustawa wchodzi w życie z dniem 1 listopada 2015 r., z wyjątkiem art. 21 ust. 2 i 3, art. 41, art. 42 i art. 45 ust. 3, które wchodzą w życie z dniem 1 maja 2018 r.
 

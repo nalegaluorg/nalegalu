@@ -8,9 +8,12 @@ pos: 780
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 czerwca 2025 r.
+# o Radzie Ministrów
+
+*USTAWA z dnia 8 sierpnia 1996 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,14 +26,6 @@ domain: null
 | Data wydania | 2025-06-17 |
 | Ostatnia zmiana | 2026-03-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000780) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/780/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Radzie Ministrów
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 maja 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 74 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), który stanowi: „Art. 74. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 8 sierpnia 1996 r.
-o Radzie Ministrów
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -64,7 +59,7 @@ o Radzie Ministrów
 
 1. Członek Rady Ministrów uczestniczy, na zasadach określonych w Konstytucji Rzeczypospolitej Polskiej, w ustalaniu polityki państwa, ponosząc za treść i za realizację działań Rządu odpowiedzialność w trybie i na zasadach określonych w odrębnych przepisach.
 
-2. Członek Rady Ministrów jest obowiązany, w zakresie swojego działania, do inicjowania i opracowywania polityki Rządu, a także przedkładania inicjatyw, projektów założeń projektów ustaw i projektów aktów normatywnych na posiedzenia Rady Ministrów na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów.
+2. Członek Rady Ministrów jest obowiązany, w zakresie swojego działania, do inicjowania i opracowywania polityki Rządu, a także przedkładania inicjatyw, projektów założeń projektów ustaw i projektów aktów normatywnych na posiedzenia Rady Ministrów – na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów.
 
 3. Członek Rady Ministrów realizuje politykę ustaloną przez Radę Ministrów.
 
@@ -77,6 +72,34 @@ o Radzie Ministrów
 - **5)** po zawiadomieniu Prezesa Rady Ministrów powołuje rady i zespoły, jako organy pomocnicze w sprawach należących do zakresu jego działania.
 
 **Art. 8.** Członek Rady Ministrów reprezentuje w swoich wystąpieniach stanowisko zgodne z ustaleniami przyjętymi przez Radę Ministrów.
+
+**Art. 8a.**
+
+1. Rada Ministrów prowadzi wykaz prac legislacyjnych i programowych Rady Ministrów, zwany dalej „wykazem”, obejmujący projekty:
+
+- **1)** ustaw;
+- **2)** rozporządzeń Rady Ministrów;
+- **3)** innych dokumentów rządowych dotyczących planowanych działań Rady Ministrów, w szczególności strategii albo programów.
+
+2. Wykaz zawiera w szczególności:
+
+- **1)** zwięzłą informację o przyczynach i potrzebie wprowadzenia rozwiązań, które planuje się zawrzeć w projekcie;
+- **2)** wskazanie istoty rozwiązań, które planuje się zawrzeć w projekcie;
+- **3)** wskazanie organu odpowiedzialnego za opracowanie projektu;
+- **4)** wskazanie organu odpowiedzialnego za przedłożenie projektu Radzie Ministrów;
+- **5)** termin planowanego przyjęcia projektu przez Radę Ministrów.
+
+3. W wykazie zamieszcza się imię i nazwisko oraz stanowisko lub funkcję osoby odpowiedzialnej za opracowanie projektu.
+
+4. W przypadku rezygnacji z prac nad projektem w wykazie zamieszcza się informację o rezygnacji, z podaniem przyczyny tej rezygnacji.
+
+5. Wykaz podlega udostępnieniu w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+
+**Art. 8b.**
+
+1. Prezes Rady Ministrów i ministrowie prowadzą odpowiednio wykazy prac legislacyjnych obejmujące projekty rozporządzeń Prezesa Rady Ministrów i ministrów.
+
+2. W wykazach, o których mowa w ust. 1, określa się planowany termin wydania rozporządzenia i zamieszcza się imię i nazwisko oraz stanowisko lub funkcję osoby odpowiedzialnej za opracowanie projektu. Przepisy art. 8a ust. 2 pkt 1 i 2 oraz ust. 4 i 5 stosuje się odpowiednio.
 
 **Art. 9.**
 
@@ -93,17 +116,21 @@ o Radzie Ministrów
 
 5. Zasady i tryb udzielania odpowiedzi na interpelacje i zapytania poselskie regulują odrębne przepisy.
 
-**Art. 9a.**
+**Art. 9a.** W przypadku konieczności usunięcia skutków związanych z wystąpieniem klęski żywiołowej, sytuacji kryzysowej lub innych zdarzeń powodujących potrzebę odbudowy, w szczególności infrastruktury drogowej, kolejowej, energetycznej, telekomunikacyjnej oraz urządzeń wodnych, zadania związane z:
 
-- **1)** W przypadku konieczności usunięcia skutków związanych z wystąpieniem klęski żywiołowej, sytuacji kryzysowej lub innych zdarzeń powodujących potrzebę odbudowy, w szczególności infrastruktury drogowej, kolejowej, energetycznej, telekomunikacyjnej oraz urządzeń wodnych, zadania związane z:
-- **1)** inicjowaniem i koordynowaniem działań w zakresie odbudowy,
-- **2)** opracowaniem projektu planu odbudowy mogą zostać powierzone powołanemu w tym celu ministrowi.
+**Art. 9b.**
+
+1. Koordynację realizacji obowiązków Rządu wobec Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej oraz uczestnictwa przedstawicieli Rządu w pracach parlamentarnych zapewnia Sekretarz do Spraw Parlamentarnych w Kancelarii Prezesa Rady Ministrów.
+
+2. Funkcję Sekretarza do Spraw Parlamentarnych pełni wyznaczony przez Prezesa Rady Ministrów minister, sekretarz stanu albo podsekretarz stanu w Kancelarii Prezesa Rady Ministrów albo pracownik Kancelarii Prezesa Rady Ministrów.
+
+3. Do zadań Sekretarza do Spraw Parlamentarnych należy w szczególności monitorowanie terminowej realizacji obowiązków Rządu wobec Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej, przygotowania i przedstawiania stanowiska Rządu, a także zapewnienia właściwej reprezentacji Rządu w pracach parlamentarnych.
 
 **Art. 10.**
 
 1. Rada Ministrów może ustanowić pełnomocnika Rządu do określonych spraw, których przekazanie członkom Rady Ministrów nie jest celowe.
 
-2. Pełnomocnikiem Rządu może być sekretarz stanu lub podsekretarz stanu, a w szczególnie uzasadnionych wypadkach, w zakresie zadań o zasięgu regionalnym wojewoda.
+2. Pełnomocnikiem Rządu może być sekretarz stanu lub podsekretarz stanu, a w szczególnie uzasadnionych wypadkach, w zakresie zadań o zasięgu regionalnym – wojewoda.
 
 3. Pełnomocnika Rządu powołuje i odwołuje Prezes Rady Ministrów.
 
@@ -133,83 +160,7 @@ o Radzie Ministrów
 
 4. Rada Ministrów określi, w drodze rozporządzenia, sposób używania wizerunku orła ustalonego dla godła oraz barw Rzeczypospolitej Polskiej do celów wspólnej identyfikacji wizualnej oraz wzory znaków graficznych i typograficznych lub sposób tworzenia takich znaków oraz zakres i sposób ich stosowania, mając na uwadze zapewnienie jednolitości i spójności w ich prezentowaniu przy zachowaniu nienaruszalności wzorów symboli Rzeczypospolitej Polskiej.
 
-**Art. 10c.**
-
-1. Prezes Rady Ministrów może powierzać podmiotom zobowiązanym do udostępniania lub przekazywania informacji sektora publicznego w celu ponownego wykorzystania, o których mowa w przepisach o ponownym wykorzystaniu informacji sektora publicznego, zwanym dalej „zleceniobiorcami”, realizację zadań z zakresu informatyzacji sektora publicznego, innowacji cyfrowych i rozwoju społeczeństwa informacyjnego oraz przeciwdziałania wykluczeniu cyfrowemu, zwanych dalej „projektami”, w tym:
-
-- **1)** budowę, rozwój i utrzymanie systemów teleinformatycznych;
-- **2)** świadczenie usług towarzyszących i doradztwa specjalistycznego;
-- **3)** prowadzenie działań informacyjnych;
-- **4)** zwiększanie lub poszerzanie zakresu oddziaływania innych wykonywanych przez zleceniobiorców zadań na sektor publiczny;
-- **5)** zwiększanie lub utrzymanie zdolności zleceniobiorców do realizacji zlecanych zadań;
-- **6)** wspieranie podmiotów wykonujących zadania publiczne w ich realizacji.
-
-2. Powierzenie realizacji projektu następuje w drodze decyzji Prezesa Rady Ministrów w sprawie powierzenia realizacji projektu, zwanej dalej „decyzją”. Do decyzji nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
-
-3. Zleceniobiorcami nie mogą być: Kancelaria Sejmu, Kancelaria Senatu, Kancelaria Prezydenta Rzeczypospolitej Polskiej, Trybunał Konstytucyjny, Najwyższa Izba Kontroli, Sąd Najwyższy, Naczelny Sąd Administracyjny, wojewódzkie sądy administracyjne, Krajowa Rada Sądownictwa, sądy powszechne, Rzecznik Praw Obywatelskich, Rzecznik Praw Dziecka, Krajowa Rada Radiofonii i Telewizji, Prezes Urzędu Ochrony Danych Osobowych, Instytut Pamięci Narodowej Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu, Krajowe Biuro Wyborcze, Państwowa Inspekcja Pracy, Narodowy Bank Polski i jednostki samorządu terytorialnego.
-
-4. Przed powierzeniem realizacji projektu Prezes Rady Ministrów:
-
-- **1)** uzyskuje akceptację:
-    - **a)** zleceniobiorcy dla realizacji projektu, a w przypadku gdy jego realizacja jest powierzana więcej niż jednemu zleceniobiorcy, również dla wspólnej realizacji projektu przez wszystkich zleceniobiorców,
-    - **b)** podmiotu zapewniającego, w zakresie swoich zadań, finansowanie realizacji projektu, zwanego dalej „zleceniodawcą” dla zapewnienia tego finansowania ze środków będących w jego dyspozycji, a w przypadku gdy realizacja projektu ma być finansowana przez więcej niż jednego zleceniodawcę, również dla wspólnego finansowania projektu przez wszystkich zleceniodawców;
-
-- **2)** może wystąpić do ministra właściwego do spraw informatyzacji z wnioskiem o wydanie opinii o projekcie decyzji lub o wyznaczenie osób, które będą udzielać wsparcia merytorycznego podczas realizacji projektu;
-- **3)** udziela zleceniobiorcy, zleceniodawcy i ministrowi właściwemu do spraw informatyzacji informacji dotyczących warunków realizacji projektu niezbędnych odpowiednio do oceny możliwości akceptacji jego realizacji albo finansowania albo do wydania opinii o projekcie decyzji.
-
-5. Minister właściwy do spraw informatyzacji wydaje opinię o projekcie decyzji lub wskazuje osoby, o których mowa w ust. 4 pkt 2, nie później niż w terminie 14 dni od dnia otrzymania wniosku o wydanie opinii lub wyznaczenie tych osób.
-
-6. Decyzja zawiera w szczególności:
-
-- **1)** oznaczenie:
-    - **a)** zleceniobiorcy, a w przypadku gdy realizacja projektu jest powierzana więcej niż jednemu zleceniobiorcy zleceniobiorców,
-    - **b)** zleceniodawcy, a w przypadku gdy realizacja projektu jest finansowana przez więcej niż jednego zleceniodawcę zleceniodawców;
-
-- **2)** wskazanie źródła finansowania realizacji projektu lub sposobu jego określenia;
-- **3)** określenie:
-    - **a)** czasu realizacji projektu, w tym najpóźniejszego możliwego terminu rozpoczęcia jego realizacji,
-    - **b)** ramowego zakresu projektu i sposobu jego realizacji,
-    - **c)** podziału działań w ramach realizacji projektu pomiędzy zleceniobiorcami albo sposobu dokonania takiego podziału w przypadku gdy realizacja projektu jest powierzana więcej niż jednemu zleceniobiorcy,
-    - **d)** zakresu i sposobu finansowania realizacji projektu przez każdego ze zleceniodawców w przypadku gdy realizacja projektu jest finansowana przez więcej niż jednego zleceniodawcę,
-    - **e)** kosztu realizacji projektu, a jeżeli projekt jest realizowany w formule wariantowej maksymalnego kosztu realizacji projektu, albo sposobu wyliczenia odpowiednio kosztu albo maksymalnego kosztu realizacji projektu.
-
-7. Powierzenie realizacji projektu zleceniobiorcy może nastąpić w każdym czasie. Przepisy dotyczące zmian w planie finansowym jednostki sektora finansów publicznych stosuje się odpowiednio.
-
-8. Zleceniodawca zapewnia zleceniobiorcy środki na realizację projektu ze środków będących w jego dyspozycji.
-
-9. Na realizację projektu zleceniobiorca może otrzymać dotację celową. Tryb oraz zasady udzielenia i rozliczenia dotacji celowej określają przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39).
-
-10. Termin wykorzystania dotacji celowej, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego, i sposób rozliczenia dotacji celowej określony jest w umowie, z uwzględnieniem elementów określonych w ust. 14. Art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio.
-
-11. Do finansowania projektu ze środków dotacji celowej, o której mowa w ust. 9, nie stosuje się art. 24 ust. 5 zdanie pierwsze oraz art. 29 ust. 10 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w zakresie dotyczącym zwiększenia dotacji z budżetu państwa.
-
-12. Koszty realizacji projektu:
-
-- **1)** nie mogą przewyższać koniecznych i rzeczywistych kosztów bezpośrednich i pośrednich, które poniósł zleceniobiorca;
-- **2)** nie mogą obejmować finansowania albo dofinansowania działalności gospodarczej zleceniobiorcy;
-- **3)** mogą być ustalane w formule zakładającej realizację elementów projektu na określonych warunkach w miarę pojawiających się udokumentowanych potrzeb.
-
-13. Zleceniobiorca prowadzi odrębną ewidencję środków otrzymanych na realizację projektu, w tym jest obowiązany do prawidłowego przypisywania przychodów i kosztów na podstawie metod mających obiektywne uzasadnienie.
-
-14. Podstawą finansowania projektu jest umowa zawarta, w formie pisemnej, przez zleceniodawcę albo zleceniodawców ze zleceniobiorcą, a w przypadku gdy realizacja projektu została powierzona więcej niż jednemu zleceniobiorcy ze zleceniobiorcami. Umowa zawiera w szczególności:
-
-- **1)** ramowy harmonogram realizacji projektu;
-- **2)** zasady odbiorów i wzajemnych rozliczeń projektu, z uwzględnieniem w przypadkach, w których jest to możliwe odbiorów częściowych;
-- **3)** przeniesienie autorskich praw majątkowych do utworów wytworzonych w ramach realizacji projektu lub zasady korzystania z utworów wytworzonych w ramach realizacji projektu, o ile takie utwory powstaną;
-- **4)** zasady komunikacji w ramach realizacji projektu, z uwzględnieniem że podstawowym kanałem komunikacji są środki komunikacji elektronicznej;
-- **5)** zasady ponoszenia odpowiedzialności za funkcjonowanie, utrzymanie oraz rozwój wytworzonych w toku realizacji projektu narzędzi cyfrowych, o ile takie powstaną;
-- **6)** metodykę pracy, w tym wykonywania nadzoru nad realizacją projektu;
-- **7)** tryb wprowadzania zmian do umowy.
-
-15. Strony umowy współpracują ze sobą, w szczególności przez wzajemne udostępnianie w przypadkach, w których jest to możliwe informacji, danych oraz innych zasobów pomocnych przy realizacji projektu.
-
-16. O zawarciu umowy zleceniodawca albo zleceniodawcy niezwłocznie zawiadamiają Prezesa Rady Ministrów oraz ministra właściwego do spraw informatyzacji.
-
-17. Stroną umowy może być także podmiot pełniący funkcję organu założycielskiego lub podmiotu kontrolującego zleceniobiorcy lub w inny sposób sprawujący nadzór lub kontrolę nad działalnością zleceniobiorcy.
-
-18. W celu realizacji projektu Prezes Rady Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych dochodów i wydatków, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
-
-19. W przypadku gdy zleceniobiorcą i zleceniodawcą jest ten sam podmiot, nie stosuje się przepisów ust. 4 pkt 1 lit. a, ust. 9–11 i 14–17.
+**Art. 10c.** (uchylony)
 
 #### Rozdział 3 Organy wewnętrzne Rady Ministrów
 
@@ -270,17 +221,17 @@ o Radzie Ministrów
 
 2e. Członkom Rady Legislacyjnej przysługują miesięczne wynagrodzenie ryczałtowe za udział w posiedzeniach Rady Legislacyjnej oraz wynagrodzenie za sporządzanie opinii, ekspertyz oraz innych opracowań, stanowiących przedmiot prawa autorskiego i objętych jego ochroną na podstawie odrębnych przepisów.
 
-2f. Członkom Rady Legislacyjnej, mającym inne miejsce zamieszkania niż miejsce posiedzeń Rady, przysługują diety, zwrot kosztów przejazdów i noclegów związanych z uczestnictwem w tych posiedzeniach, na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277).
+2f. Członkom Rady Legislacyjnej, mającym inne miejsce zamieszkania niż miejsce posiedzeń Rady, przysługują diety, zwrot kosztów przejazdów i noclegów związanych z uczestnictwem w tych posiedzeniach, na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277).
 
 2g. W posiedzeniach Rady Legislacyjnej bierze udział, bez prawa głosowania, Prezes Rządowego Centrum Legislacji lub jego zastępca.
 
-2h. W posiedzeniach Rady Legislacyjnej biorą także udział, bez prawa głosowania, właściwi ze względu na przedmiot rozpatrywanej sprawy ministrowie, kierownicy urzędów centralnych, lub upoważnieni przez nich przedstawiciele w przypadku ich zaproszenia do udziału w posiedzeniach Rady Legislacyjnej.
+2h. W posiedzeniach Rady Legislacyjnej biorą także udział, bez prawa głosowania, właściwi ze względu na przedmiot rozpatrywanej sprawy ministrowie, kierownicy urzędów centralnych, lub upoważnieni przez nich przedstawiciele – w przypadku ich zaproszenia do udziału w posiedzeniach Rady Legislacyjnej.
 
 2i. Do udziału w posiedzeniach Rady Legislacyjnej mogą być zaproszeni, bez prawa głosowania, przedstawiciele organów państwa, w szczególności: Prezes Trybunału Konstytucyjnego, Pierwszy Prezes Sądu Najwyższego, Prezes Naczelnego Sądu Administracyjnego, Prezes Narodowego Banku Polskiego, lub ich zastępcy albo upoważnieni przez nich przedstawiciele, a także przedstawiciele innych instytucji państwowych.
 
 2j. Do udziału w pracach Rady Legislacyjnej mogą być zaproszeni przedstawiciele organizacji społecznych, zawodowych i samorządowych.
 
-2k. Osobom zaproszonym do udziału w pracach Rady Legislacyjnej przysługują wynagrodzenie ryczałtowe za udział w posiedzeniu Rady Legislacyjnej oraz wynagrodzenie za sporządzanie opinii i ekspertyz, a także diety, zwrot kosztów przejazdów i noclegów związanych z uczestnictwem w tych posiedzeniach, na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+2k. Osobom zaproszonym do udziału w pracach Rady Legislacyjnej przysługują wynagrodzenie ryczałtowe za udział w posiedzeniu Rady Legislacyjnej oraz wynagrodzenie za sporządzanie opinii i ekspertyz, a także diety, zwrot kosztów przejazdów i noclegów związanych z uczestnictwem w tych posiedzeniach, na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 2l. Wysokość wynagrodzenia ryczałtowego, o którym mowa w ust. 2e i 2k, nie może być wyższa niż sześciokrotność kwoty bazowej dla członków korpusu służby cywilnej, której wysokość określa ustawa budżetowa.
 
@@ -303,7 +254,7 @@ o Radzie Ministrów
 
 **Art. 14c.** Centrum zapewnia obsługę prawną Rady Ministrów poprzez:
 
-**Art. 14d.** Centrum współdziała z podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), oraz innymi jednostkami organizacyjnymi prowadzącymi działalność związaną z zadaniami Centrum.
+**Art. 14d.** Centrum współdziała z podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), oraz innymi jednostkami organizacyjnymi prowadzącymi działalność związaną z zadaniami Centrum.
 
 **Art. 14e.**
 
@@ -433,7 +384,7 @@ o Radzie Ministrów
 2. W szczególnie uzasadnionych przypadkach Prezes Rady Ministrów może zdecydować o odbyciu posiedzenia Rady Ministrów przy użyciu środków komunikacji elektronicznej, co obejmuje w szczególności:
 
 - **1)** transmisję posiedzenia w czasie rzeczywistym pomiędzy uczestnikami posiedzenia Rady Ministrów,
-- **2)** wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia Rady Ministrów mogą wypowiadać się w toku posiedzenia z zachowaniem niezbędnych zasad bezpieczeństwa.
+- **2)** wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia Rady Ministrów mogą wypowiadać się w toku posiedzenia – z zachowaniem niezbędnych zasad bezpieczeństwa.
 
 **Art. 18.**
 
@@ -485,7 +436,7 @@ o Radzie Ministrów
 - **5)** (uchylony)
 - **6)** Szefa Służby Cywilnej.
 
-2. Kancelaria może obsługiwać również pełnomocnika Rządu oraz wskazane przez Prezesa Rady Ministrów organy pomocnicze, komisje i komisje wspólne, o których mowa w art. 12, 12a i 13.
+2. Kancelaria może obsługiwać również ministra pełnomocnika Rządu oraz wskazane przez Prezesa Rady Ministrów organy pomocnicze, komisje i komisje wspólne, o których mowa w art. 12, 12a i 13.
 
 **Art. 27.** Kancelarią kieruje Szef Kancelarii Prezesa Rady Ministrów, powoływany i odwoływany przez Prezesa Rady Ministrów.
 
@@ -511,8 +462,8 @@ o Radzie Ministrów
 
 1. Prezes Rady Ministrów ustala, w drodze rozporządzenia:
 
-- **1)** szczegółowy zakres działania ministra, niezwłocznie po powołaniu Rady Ministrów, a jeżeli minister został powołany w innym czasie niezwłocznie po jego powołaniu;
-- **2)** ministerstwo lub inny urząd administracji rządowej, który ma obsługiwać ministra, a w wypadku ministra kierującego określonym działem administracji rządowej również organy jemu podległe lub przez niego nadzorowane, z zastrzeżeniem art. 34 ust. 2.
+- **1)** szczegółowy zakres działania ministra, niezwłocznie po powołaniu Rady Ministrów, a jeżeli minister został powołany w innym czasie – niezwłocznie po jego powołaniu;
+- **2)** ministerstwo lub inny urząd administracji rządowej, który ma obsługiwać ministra, a w wypadku ministra kierującego określonym działem administracji rządowej – również organy jemu podległe lub przez niego nadzorowane, z zastrzeżeniem art. 34 ust. 2.
 
 1a. Prezes Rady Ministrów określając szczegółowy zakres działania ministra, w wypadku ministra kierującego określonym działem administracji rządowej:
 
@@ -537,7 +488,7 @@ o Radzie Ministrów
 - **2)** powołuje i odwołuje kierowników jednostek organizacyjnych, chyba że przepisy odrębne stanowią inaczej.
 - **3)** (uchylony)
 
-2. Minister nadzoruje i kontroluje działalność organów i jednostek, w stosunku do których uzyskał uprawnienia nadzorcze na podstawie przepisów ustawowych na zasadach określonych w tych przepisach. Przepis ust. 1 stosuje się odpowiednio.
+2. Minister nadzoruje i kontroluje działalność organów i jednostek, w stosunku do których uzyskał uprawnienia nadzorcze na podstawie przepisów ustawowych – na zasadach określonych w tych przepisach. Przepis ust. 1 stosuje się odpowiednio.
 
 3. Rada Ministrów może powołać przy ministrze komitet doradczy i określić zakres jego zadań.
 
@@ -559,10 +510,8 @@ o Radzie Ministrów
 
 - **1)** składa Prezesowi Rady Ministrów wniosek o nadanie urzędowi centralnemu statutu;
 - **2)** składa Prezesowi Rady Ministrów wnioski o powołanie i odwołanie kierownika urzędu centralnego;
-- **3)** powołuje zastępców kierownika urzędu centralnego;
-- **4)** wykonuje w stosunku do urzędu centralnego uprawnienia określone w art. 34 ust. 1 pkt 3.
-
-2a. Prezes Rady Ministrów, w drodze zarządzenia, nadaje statut, o którym mowa w ust. 2 pkt 1.
+- **3)** powołuje zastępców kierownika urzędu centralnego.
+- **4)** (uchylony) 2a. Prezes Rady Ministrów, w drodze zarządzenia, nadaje statut, o którym mowa w ust. 2 pkt 1.
 
 3. Minister zapewnia współdziałanie podległych urzędów centralnych.
 
@@ -588,16 +537,14 @@ o Radzie Ministrów
 
 1. Ministerstwo tworzy, znosi lub przekształca Rada Ministrów, w drodze rozporządzenia.
 
-1a. W razie zniesienia lub przekształcenia ministerstwa, Prezes Rady Ministrów określa, w drodze zarządzenia, przeznaczenie składników majątkowych, będących w posiadaniu tego ministerstwa, chyba że odrębne przepisy stanowią inaczej, oraz ustala podmiot i sposób przekazania spraw wszczętych i niezakończonych przed dniem jego zniesienia lub przekształcenia. 1aa. W razie utworzenia ministerstwa Prezes Rady Ministrów może określić, w drodze zarządzenia, przeznaczenie składników majątkowych będących w posiadaniu Kancelarii Prezesa Rady Ministrów. Wydając zarządzenie, Prezes Rady Ministrów uwzględnia potrzebę zapewnienia składników majątkowych do realizacji zadań przez utworzone ministerstwo.
-
-1b. (uchylony) 1c. (uchylony) 1d. (uchylony)
+1a. W razie utworzenia, zniesienia lub przekształcenia ministerstwa Prezes Rady Ministrów określa, w drodze zarządzenia, przeznaczenie składników majątkowych, będących w posiadaniu ministerstwa lub innego urzędu administracji rządowej obsługującego ministra, służących do realizacji zadań utworzonego, zniesionego lub przekształconego ministerstwa, chyba że odrębne przepisy stanowią inaczej, a także ustala podmiot i sposób przekazania spraw wszczętych i niezakończonych przed dniem jego utworzenia, zniesienia lub przekształcenia. 1aa. (uchylony) 1b. (uchylony) 1c. (uchylony) 1d. (uchylony)
 
 2. W skład ministerstwa wchodzą komórki organizacyjne:
 
-- **1)** departamenty do realizacji merytorycznych zadań ministerstwa;
-- **2)** biura do realizacji zadań w zakresie obsługi ministerstwa;
-- **3)** sekretariaty do obsługi ministra oraz komitetów, rad i zespołów;
-- **4)** wydziały, referaty, zespoły jako komórki organizacyjne wewnątrz komórek wymienionych w pkt 1 i 2.
+- **1)** departamenty – do realizacji merytorycznych zadań ministerstwa;
+- **2)** biura – do realizacji zadań w zakresie obsługi ministerstwa;
+- **3)** sekretariaty – do obsługi ministra oraz komitetów, rad i zespołów;
+- **4)** wydziały, referaty, zespoły – jako komórki organizacyjne wewnątrz komórek wymienionych w pkt 1 i 2.
 
 3. W każdym ministerstwie mogą być tworzone w szczególności:
 
@@ -653,5 +600,5 @@ o Radzie Ministrów
 
 #### Rozdział 7 Przepis końcowy
 
-**Art. 40.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej.
+**Art. 40.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie – Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej.
 

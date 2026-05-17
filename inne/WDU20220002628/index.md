@@ -8,9 +8,12 @@ pos: 2628
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 grudnia 2022 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 listopada 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002628) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2628/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 listopada 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 września 2013 r. pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi (Dz. U. z 2019 r. poz. 1116), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2022 r. zmianie niektórych ustaw zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 listopada 2022 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 45 ustawy z dnia 7 lipca 2022 r. zmianie niektórych ustaw zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi: „Art. 45. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 1 i art. 30, które wchodzą życie po upływie 3 miesięcy od dnia ogłoszenia;
@@ -58,7 +59,7 @@ pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi
     - **b)** osobą, której przysługuje spółdzielcze własnościowe prawo do lokalu, którego przedmiotem jest lokal mieszkalny lub dom jednorodzinny,
     - **c)** właścicielem lub współwłaścicielem budynku, jeżeli jego udział przypadku zniesienia współwłasności obejmowałby co najmniej jeden lokal mieszkalny.
 
-2. W przypadku gdy nabywcą są małżonkowie, warunek, którym mowa ust. 1 pkt 1, dotyczy młodszego małżonka, zaś warunek, którym mowa ust. 1 pkt 2, dotyczy obojga małżonków. zobowiązuje się on do:
+2. W przypadku gdy nabywcą są małżonkowie, warunek, którym mowa ust. 1 pkt 1, dotyczy młodszego małżonka, zaś warunek, którym mowa ust. 1 pkt 2, dotyczy obojga małżonków.
 
 - **1)** rozwiązania umowy najmu i opróżnienia lokalu mieszkalnego,
 - **2)** zrzeczenia się spółdzielczego lokatorskiego prawa do lokalu mieszkalnego na rzecz spółdzielni mieszkaniowej i opróżnienia tego lokalu terminie 6 miesięcy od dnia zawarcia umowy ustanowieniu lub przeniesieniu własności mieszkania, którym mowa art. 3.
@@ -130,7 +131,7 @@ pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi
 
 2. Spłata części kredytu może zostać przyznana nabywcy raz.
 
-3. Spłata części kredytu nie przysługuje nabywcy, jeżeli wystąpienie zdarzenia, którym mowa ust. 1, dotyczącego tego samego dziecka, było podstawą do udzielenia dodatkowego finansowego wsparcia, którym mowa ust. 1, innemu nabywcy. wysokości udzielonego dofinansowania wkładu własnego oraz powierzchni ustalonej stosownie do powierzchni użytkowej zakupionego mieszkania, na zasadach określonych art. 7 ust. 1 i 1a.
+3. Spłata części kredytu nie przysługuje nabywcy, jeżeli wystąpienie zdarzenia, którym mowa ust. 1, dotyczącego tego samego dziecka, było podstawą do udzielenia dodatkowego finansowego wsparcia, którym mowa ust. 1, innemu nabywcy. zakupionego mieszkania, na zasadach określonych art. 7 ust. 1 i 1a.
 
 5. W przypadku spłaty części kredytu instytucja kredytująca nie pobiera od nabywcy opłat z tego tytułu.
 
@@ -169,7 +170,7 @@ pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi
 
 6. Instytucja kredytująca dokonuje weryfikacji i stwierdza, na podstawie dokumentów i oświadczeń złożonych przez nabywcę, że spełnione są warunki, których mowa art. 4 ust. 1 i 2, art. 5 oraz art. 7 ust. 1a.
 
-7. Powierzchnię użytkową mieszkania, której mowa art. 5 ust. 1 pkt 3, a także cenę zakupu lub wkład budowlany, których mowa art. 5 ust. 1 pkt 4, przyjmuje się odpowiednio na podstawie umowy ustanowieniu lub przeniesieniu własności mieszkania lub umowy deweloperskiej, a jeżeli umowa taka nie została zawarta do dnia złożenia wniosku na podstawie odpowiedniej umowy określającej zobowiązanie do zawarcia umowy ustanowieniu lub przeniesieniu własności mieszkania lub umowy deweloperskiej (umowa przedwstępna) albo na podstawie umowy budowę lokalu. sie spełnienia warunków, których mowa art. 5 ust. 1 pkt 3 i 4 lit. a, na podstawie danych zawartych prospekcie informacyjnym dotyczącym przedsięwzięcia deweloperskiego.
+7. Powierzchnię użytkową mieszkania, której mowa art. 5 ust. 1 pkt 3, a także cenę zakupu lub wkład budowlany, których mowa art. 5 ust. 1 pkt 4, przyjmuje się odpowiednio na podstawie umowy ustanowieniu lub przeniesieniu własności mieszkania lub umowy deweloperskiej, a jeżeli umowa taka nie została zawarta do dnia złożenia wniosku na podstawie odpowiedniej umowy określającej zobowiązanie do zawarcia umowy ustanowieniu lub przeniesieniu własności mieszkania lub umowy deweloperskiej (umowa przedwstępna) albo na podstawie umowy budowę lokalu. macyjnym dotyczącym przedsięwzięcia deweloperskiego.
 
 9. Instytucja kredytująca po dokonaniu weryfikacji i stwierdzeniu spełnienia warunków, których mowa art. 4 ust. 1 i 2, art. 5 oraz art. 7 ust. 1a, terminie nie dłuższym niż 60 dni od dnia złożenia wniosku dofinansowanie wkładu własnego, przekazuje do Banku Gospodarstwa Krajowego wniosek dofinansowanie wkładu własnego.
 
@@ -195,7 +196,7 @@ pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi
 - **4)** niewystąpienia przez instytucję kredytującą z wnioskiem, którym mowa art. 11 ust. 1, roku, który został wskazany we wniosku dofinansowanie wkładu własnego jako termin wypłaty wsparcia z Funduszu Dopłat;
 - **5)** uzyskania od instytucji kredytującej informacji utracie uprawnienia nabywcy do uzyskania dofinansowania wkładu własnego związku ze zdarzeniem, którym mowa ust. 5, z wyłączeniem przypadku, gdy naruszenie warunku, którym mowa art. 4 ust. 1 pkt 2, miało miejsce po dniu zawarcia umowy kredytu i było związane z uzyskaniem prawa wskazanego tym przepisie drodze spadku;
 - **6)** uzyskania od instytucji kredytującej informacji konieczności zwrotu wniosku dofinansowanie wkładu własnego z uwagi na niespełnienie warunku, którym mowa ust. 12;
-- **7)** uzyskania od instytucji kredytującej informacji rezygnacji nabywcy z ubiegania się finansowe wsparcie. nabywcę zwrotu środków z tytułu dofinansowania wkładu własnego.
+- **7)** uzyskania od instytucji kredytującej informacji rezygnacji nabywcy z ubiegania się finansowe wsparcie.
 
 **Art. 11.**
 
@@ -222,7 +223,7 @@ pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi
 
 7. W przypadku odstąpienia przez jedną ze stron od umowy deweloperskiej po dokonaniu przez instytucję kredytującą czynności, której mowa ust. 3 pkt 2, bank prowadzący mieszkaniowy rachunek powierniczy, terminie 2 dni roboczych od dnia złożenia oświadczenia odstąpieniu od umowy, zwraca na rachunek instytucji kredytującej, imieniu i na rzecz nabywcy, kwotę równowartości otrzymanego dofinansowania wkładu własnego. W pozostałym zakresie przepisy art. 13 i art. 14 ustawy z dnia 16 września 2011 r. ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego stosuje się odpowiednio.
 
-8. W przypadku odstąpienia przez jedną ze stron od umowy deweloperskiej po dokonaniu przez instytucję kredytującą czynności, której mowa ust. 3 pkt 3, nabywca dniu roboczym następującym po dniu otrzymania zwrotu środków od dewelopera zwraca na rachunek instytucji kredytującej równowartość otrzymanego dofinansowania wkładu własnego. przez instytucję kredytującą czynności, której mowa ust. 3 pkt 4, nabywca dniu roboczym następującym po dniu otrzymania zwrotu wkładu budowlanego od spółdzielni mieszkaniowej lub środków z tytułu zbycia ekspektatywy odrębnej własności lokalu zwraca na rachunek instytucji kredytującej równowartość otrzymanego dofinansowania wkładu własnego.
+8. W przypadku odstąpienia przez jedną ze stron od umowy deweloperskiej po dokonaniu przez instytucję kredytującą czynności, której mowa ust. 3 pkt 3, nabywca dniu roboczym następującym po dniu otrzymania zwrotu środków od dewelopera zwraca na rachunek instytucji kredytującej równowartość otrzymanego dofinansowania wkładu własnego. otrzymania zwrotu wkładu budowlanego od spółdzielni mieszkaniowej lub środków z tytułu zbycia ekspektatywy odrębnej własności lokalu zwraca na rachunek instytucji kredytującej równowartość otrzymanego dofinansowania wkładu własnego.
 
 9. Instytucja kredytująca, nie później niż terminie 2 dni roboczych od dnia otrzymania środków, których mowa ust. 7–8a, przekazuje otrzymane kwoty na rachunek Funduszu Dopłat. Termin określony zdaniu pierwszym stosuje się odpowiednio przypadku, gdy mieszkaniowy rachunek powierniczy jest prowadzony przez instytucję kredytującą.
 
@@ -321,7 +322,7 @@ pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi
 
 1. Zwrot wydatków dotyczy wydatków poniesionych na zakup materiałów budowlanych, które do dnia 30 kwietnia 2004 r. były opodatkowane stawką podatku od towarów i usług wysokości 7%, a od dnia 1 maja 2004 r. są opodatkowane podatkiem VAT, udokumentowanych fakturami wystawionymi dla osoby fizycznej od dnia wydania pozwolenia na budowę albo dokonania zgłoszenia budowy, których mowa art. 20 ust. 3 pkt 2, do dnia 30 września 2018 r.
 
-2. Dokumentem stanowiącym podstawę do obliczenia kwoty zwrotu wydatków jest faktura wystawiona dla osoby fizycznej. mieszkalnego, przyjmowanej na potrzeby obliczenia premii gwarancyjnej od wkładów oszczędnościowych na książeczkach mieszkaniowych, ostatnio ogłoszonej przed kwartałem złożenia wniosku zwrot wydatków.
+2. Dokumentem stanowiącym podstawę do obliczenia kwoty zwrotu wydatków jest faktura wystawiona dla osoby fizycznej. mieszkaniowych, ostatnio ogłoszonej przed kwartałem złożenia wniosku zwrot wydatków.
 
 4. W przypadku gdy stawka podatku VAT wynosi więcej niż 22%, kwota zwrotu wydatków jest równa odpowiednio:
 
@@ -364,7 +365,7 @@ pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi
 - **3)** rodzaj poniesionych wydatków, zgodnie z art. 20 ust. 3 pkt 1;
 - **4)** rok rozpoczęcia inwestycji;
 - **5)** wykaz faktur oraz wartość poniesionych wydatków na cele, których mowa art. 20 ust. 3 pkt 1;
-- **6)** kwotę zwrotu wydatków, obliczoną zgodnie z art. 21 ust. 3–6; ków numeru rachunku obojga lub jednego z nich, na który ma być dokonany zwrot wydatków;
+- **6)** kwotę zwrotu wydatków, obliczoną zgodnie z art. 21 ust. 3–6;
 - **8)** podpis osoby fizycznej ubiegającej się zwrot wydatków, a przypadku małżonków podpisy obojga małżonków składających wspólnie wniosek zwrot wydatków albo podpis małżonka składającego odrębnie wniosek zwrot wydatków;
 - **9)** oświadczenie osoby fizycznej spełnieniu warunku, którym mowa art. 20 ust. 3 pkt 5.
 
@@ -443,7 +444,7 @@ pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi
 
 2. W budżecie państwa tworzy się rezerwę celową na sfinansowanie z Funduszu Dopłat wypłat finansowego wsparcia, którym mowa ust. 1.
 
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa monitoruje wykorzystanie limitu środków, którym mowa ust. 1. zasadach, których mowa art. 10 ust. 9, osiągnie równowartość:
+3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa monitoruje wykorzystanie limitu środków, którym mowa ust. 1.
 
 - **1)** kwoty zaplanowanej na wypłatę finansowego wsparcia ustawie budżetowej, pomniejszonej wypłacone od początku roku oraz przyznane i podlegające wypłacie danym roku dodatkowe finansowe wsparcie, którym mowa art. 8 ust. 1 przypadku wniosków z terminem wypłaty wsparcia przypadającym roku przekazania do Banku Gospodarstwa Krajowego wniosku, lub
 - **2)** 50% kwoty limitu środków, określonego dla roku wypłaty wsparcia art. 36 ust. 1 przypadku wniosków z terminem wypłaty wsparcia przypadającym po roku przekazania do Banku Gospodarstwa Krajowego wniosku Bank Gospodarstwa Krajowego ogłasza Biuletynie Informacji Publicznej informację wstrzymaniu przyjmowania wniosków dofinansowanie wkładu własnego z terminem wypłaty wsparcia przypadającym na dany rok, a instytucje kredytujące wstrzymują przyjmowanie takich wniosków dofinansowanie wkładu własnego, począwszy od dnia następującego po dniu ogłoszenia informacji przez Bank Gospodarstwa Krajowego.

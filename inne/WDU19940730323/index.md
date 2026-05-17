@@ -8,6 +8,7 @@ pos: 323
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej

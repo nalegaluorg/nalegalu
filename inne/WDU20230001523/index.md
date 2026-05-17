@@ -8,9 +8,12 @@ pos: 1523
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 sierpnia 2023 r.
+# o delegowaniu kierowców w transporcie drogowym
+
+*USTAWA z dnia 28 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,7 @@ domain: null
 | Ostatnia zmiana | 2025-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001523) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1523/text.pdf) |
 
-USTAWA z dnia 28 lipca 2023 r.
-o delegowaniu kierowców w transporcie drogowym
+Art. 37–44. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -40,7 +42,7 @@ o delegowaniu kierowców w transporcie drogowym
 - **5)** współpracy z właściwymi organami innych państw członkowskich dotyczącej delegowania kierowców w transporcie drogowym na terytorium Rzeczypospolitej Polskiej i z tego terytorium;
 - **6)** postępowania związanego z realizacją lub składaniem wniosków o powiadomienie o decyzji o nałożeniu na przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej i z tego terytorium administracyjnej kary pieniężnej lub grzywny administracyjnej oraz o egzekucję takiej kary lub grzywny.
 
-2. W sprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy art. 9–16 ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2021 r. poz. 1140 oraz z 2023 r. poz. 641).
+2. W sprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy art. 9–16 ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2024 r. poz. 73 oraz z 2025 r. poz. 621).
 
 **Art. 2.**
 
@@ -73,7 +75,7 @@ o delegowaniu kierowców w transporcie drogowym
 - **5)** w trakcie przewozu dwustronnego osób dodatkowo jednokrotnie zabiera pasażerów lub jednokrotnie wysadza pasażerów na terytorium Rzeczypospolitej Polskiej, innego państwa członkowskiego lub państwa trzeciego, przez które przejeżdża, pod warunkiem że przewóz osób nie jest wykonywany między dwoma miejscami położonymi na terytorium tego samego państwa członkowskiego; to samo dotyczy przejazdu powrotnego;
 - **6)** wykonuje przewóz drogowy rzeczy na początkowym lub końcowym odcinku transportu kombinowanego, jeżeli ten odcinek sam w sobie składa się z przewozów dwustronnych rzeczy.
 
-2. Wyłączenia, o których mowa w ust. 1 pkt 3–5, stosuje się wyłącznie do kierowców pojazdów wyposażonych w inteligentne tachografy zgodnie z art. 8–10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 165/2014 z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz. UE L 60 z 28.02.2014, str. 1 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 1), zwanego dalej „rozporządzeniem (UE) nr 165/2014”.
+2. Wyłączenia, o których mowa w ust. 1 pkt 3–5, stosuje się wyłącznie do kierowców pojazdów wyposażonych w inteligentne tachografy zgodnie z art. 8– 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 165/2014 z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz. UE L 60 z 28.02.2014, str. 1 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 1), zwanego dalej „rozporządzeniem (UE) nr 165/2014”.
 
 3. Kierowcy, o których mowa w ust. 1 i 2, nie są pracownikami delegowanymi w rozumieniu przepisów ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług.
 
@@ -91,7 +93,7 @@ o delegowaniu kierowców w transporcie drogowym
 
 1. Przewoźnik drogowy delegujący kierowcę na terytorium Rzeczypospolitej Polskiej zapewnia takiemu kierowcy warunki zatrudnienia, o których mowa w art. 4–4b ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług.
 
-2. Przewoźnik drogowy z państwa trzeciego delegujący kierowcę na terytorium Rzeczypospolitej Polskiej zapewnia takiemu kierowcy warunki zatrudnienia, o których mowa w art. 4–4b ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług, z zastrzeżeniem art. 139a ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547).
+2. Przewoźnik drogowy z państwa trzeciego delegujący kierowcę na terytorium Rzeczypospolitej Polskiej zapewnia takiemu kierowcy warunki zatrudnienia, o których mowa w art. 4–4b ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług, z zastrzeżeniem art. 139a ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619, 621 i 622).
 
 **Art. 8.**
 
@@ -224,8 +226,8 @@ o delegowaniu kierowców w transporcie drogowym
 
 1. Główny Inspektor Transportu Drogowego, na podstawie danych uzyskanych od wojewódzkich inspektorów transportu drogowego, opracowuje i przekazuje Głównemu Inspektorowi Pracy za pośrednictwem elektronicznej platformy usług administracji publicznej informację zawierającą zbiorcze dane statystyczne dotyczące kontroli drogowych, o których mowa w art. 17 ust. 1 oraz art. 23 ust. 1, w terminie:
 
-- **1)** do dnia 31 lipca danego roku za pierwsze półrocze;
-- **2)** do dnia 31 stycznia roku następnego za drugie półrocze.
+- **1)** do dnia 31 lipca danego roku – za pierwsze półrocze;
+- **2)** do dnia 31 stycznia roku następnego – za drugie półrocze.
 
 2. W przypadku przekazywania informacji, o których mowa w ust. 1, za pośrednictwem elektronicznej skrzynki podawczej Głównego Inspektora Pracy lub adresu do doręczeń elektronicznych z wykorzystaniem Publicznej Usługi Rejestrowanego Doręczenia Elektronicznego, informacje te podpisuje się przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego.
 
@@ -275,22 +277,24 @@ o delegowaniu kierowców w transporcie drogowym
 
 5. Kaucję przekazuje się:
 
-- **1)** na rachunek bankowy, o którym mowa w art. 33 ust. 6 w terminie 7 dni od dnia, w którym decyzja o nałożeniu administracyjnej kary pieniężnej stała się wykonalna;
-- **2)** na rachunek bankowy podmiotu, który ją wpłacił w terminie 30 dni od dnia doręczenia decyzji o uchyleniu lub stwierdzeniu nieważności decyzji o nałożeniu administracyjnej kary pieniężnej albo doręczenia prawomocnego orzeczenia sądu administracyjnego o uchyleniu lub stwierdzeniu nieważności takiej decyzji.
+- **1)** na rachunek bankowy, o którym mowa w art. 33 ust. 6 – w terminie 7 dni od dnia, w którym decyzja o nałożeniu administracyjnej kary pieniężnej stała się wykonalna;
+- **2)** na rachunek bankowy podmiotu, który ją wpłacił – w terminie 30 dni od dnia doręczenia decyzji o uchyleniu lub stwierdzeniu nieważności decyzji o nałożeniu administracyjnej kary pieniężnej albo doręczenia prawomocnego orzeczenia sądu administracyjnego o uchyleniu lub stwierdzeniu nieważności takiej decyzji.
 
 6. W przypadku gdy wysokość nałożonej administracyjnej kary pieniężnej jest niższa od wysokości pobranej kaucji, do powstałej różnicy stosuje się odpowiednio przepis ust. 5 pkt 2.
 
-7. Jeżeli w przypadku, o którym mowa w ust. 1, nie pobrano kaucji, inspektor Inspekcji Transportu Drogowego kieruje lub usuwa pojazd, na koszt przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej na najbliższy parking strzeżony, o którym mowa w art. 130a ust. 5c ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ).
+7. Jeżeli w przypadku, o którym mowa w ust. 1, nie pobrano kaucji, inspektor Inspekcji Transportu Drogowego kieruje lub usuwa pojazd, na koszt przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej na najbliższy parking strzeżony, o którym mowa w art. 130a ust. 5c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251).
 
-8. W zakresie postępowania w związku z usuwaniem pojazdu stosuje się odpowiednio przepisy art. 130a ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+8. W zakresie postępowania w związku z usuwaniem pojazdu stosuje się odpowiednio przepisy art. 130a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
-9. Zwrot pojazdu z parkingu następuje po okazaniu dowodu uiszczenia opłaty, o której mowa w art. 130a ust. 5c ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, oraz dowodu uiszczenia kaucji na zasadach określonych w ust. 2.
+9. Zwrot pojazdu z parkingu następuje po okazaniu dowodu uiszczenia opłaty, o której mowa w art. 130a ust. 5c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, oraz dowodu uiszczenia kaucji na zasadach określonych w ust. 2.
 
-10. Jeżeli pojazd nie zostanie odebrany z parkingu w terminie 30 dni od dnia, w którym decyzja o nałożeniu administracyjnej kary pieniężnej stała się ostateczna, stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ) dotyczące egzekucji należności pieniężnych z ruchomości.
+10. Jeżeli pojazd nie zostanie odebrany z parkingu w terminie 30 dni od dnia, w którym decyzja o nałożeniu administracyjnej kary pieniężnej stała się ostateczna, stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i
+
+- **620)** dotyczące egzekucji należności pieniężnych z ruchomości.
 
 **Art. 26.**
 
-1. Minister właściwy do spraw transportu opracowuje, co 2 lata, w terminie do dnia 31 grudnia roku poprzedniego, jednolitą krajową strategię kontroli przepisów w zakresie kontroli delegowania kierowców w transporcie drogowym na podstawie informacji przekazanych przez Głównego Inspektora Pracy oraz Głównego Inspektora Transportu Drogowego. Strategia uwzględnia system oceny ryzyka podmiotów wykonujących przewóz drogowy.
+1. Minister właściwy do spraw transportu opracowuje, co 2 lata, w terminie do dnia 31 grudnia roku poprzedniego, jednolitą krajową strategię kontroli przepisów w zakresie kontroli delegowania kierowców w transporcie drogowym – na podstawie informacji przekazanych przez Głównego Inspektora Pracy oraz Głównego Inspektora Transportu Drogowego. Strategia uwzględnia system oceny ryzyka podmiotów wykonujących przewóz drogowy.
 
 2. Główny Inspektor Pracy oraz Główny Inspektor Transportu Drogowego przekazują informacje niezbędne do opracowania jednolitej krajowej strategii co najmniej na 3 miesiące przed upływem terminu, o którym mowa w ust. 1.
 
@@ -308,8 +312,8 @@ o delegowaniu kierowców w transporcie drogowym
 
 3. Przewoźnik drogowy delegujący kierowcę z terytorium Rzeczypospolitej Polskiej jest obowiązany do niezwłocznego przekazania na wniosek:
 
-- **1)** Państwowej Inspekcji Pracy kopii dokumentów, o których mowa w ust. 1, lub
-- **2)** wojewódzkiego inspektora transportu drogowego kopii dokumentów, o których mowa w ust. 1 pkt 1 i 2 nie później niż w terminie 7 dni od dnia otrzymania wniosku.
+- **1)** Państwowej Inspekcji Pracy – kopii dokumentów, o których mowa w ust. 1, lub
+- **2)** wojewódzkiego inspektora transportu drogowego – kopii dokumentów, o których mowa w ust. 1 pkt 1 i 2 – nie później niż w terminie 7 dni od dnia otrzymania wniosku.
 
 4. Odpowiedź na wniosek, o którym mowa w ust. 1, Państwowa Inspekcja Pracy przekazuje właściwemu organowi innego państwa członkowskiego w terminie 25 dni roboczych od dnia otrzymania wniosku.
 
@@ -375,7 +379,7 @@ o delegowaniu kierowców w transporcie drogowym
 
 3. Prawo do nakładania i pobierania kary grzywny w drodze mandatu karnego za czyny, o których mowa w ust. 1 i 2, przysługuje inspektorom Inspekcji Transportu Drogowego.
 
-4. Orzekanie w sprawach nałożenia kar grzywny, o których mowa w ust. 1 i 2, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+4. Orzekanie w sprawach nałożenia kar grzywny, o których mowa w ust. 1 i 2, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620 i 621).
 
 5. Naruszenie, o którym mowa w ust. 1, wypełnia znamiona grupy naruszeń nr 14.4 oraz stanowi bardzo poważne naruszenie (BPN), zgodnie z wagą naruszeń wskazanych w załączniku I do rozporządzenia Komisji (UE) 2016/403 z dnia 18 marca 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1071/2009 w odniesieniu do klasyfikacji poważnych naruszeń przepisów unijnych, które mogą prowadzić do utraty dobrej reputacji przez przewoźnika drogowego, oraz zmieniającego załącznik III do dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 74 z 19.03.2016, str. 8 oraz Dz. Urz. UE L 129 z 03.05.2022, str. 22), zwanego dalej „rozporządzeniem Komisji (UE) 2016/403”.
 
@@ -398,7 +402,7 @@ o delegowaniu kierowców w transporcie drogowym
 1. Przewoźnik drogowy delegujący kierowcę z terytorium Rzeczypospolitej Polskiej, który dwukrotnie w ciągu roku bez wskazania uzasadnionych okoliczności:
 
 - **1)** nie przekazuje dokumentów określonych we wniosku, o którym mowa w art. 27 ust. 3, w terminie, o którym mowa w tym przepisie,
-- **2)** nie udziela informacji na żądanie Państwowej Inspekcji Pracy, o których mowa w art. 27 ust. 5 podlega karze pieniężnej w wysokości 3000 zł.
+- **2)** nie udziela informacji na żądanie Państwowej Inspekcji Pracy, o których mowa w art. 27 ust. 5 – podlega karze pieniężnej w wysokości 3000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, właściwy organ, który wystąpił z wnioskiem, o którym mowa w art. 27 ust. 3, lub z żądaniem Państwowej Inspekcji Pracy, o którym mowa w art. 12 ust. 1 ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług.
 
@@ -420,81 +424,6 @@ o delegowaniu kierowców w transporcie drogowym
 
 #### Rozdział 8 Przepisy zmieniające
 
-**Art. 37.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 38.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) w art. 21:
-
-**Art. 39.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201 oraz z 2023 r. poz. 760, 919, 1123, 1193 i 1195) wprowadza się następujące zmiany:
-
-**Art. 28c.**
-
-1. Zagraniczny podmiot wykonujący przewóz drogowy rzeczy, w przypadku, o którym mowa w art. 28b ust. 1 lub 2, przed rozpoczęciem przewozu na terytorium Rzeczypospolitej Polskiej, jest obowiązany przekazać kierującemu numer referencyjny, dokument zastępujący zgłoszenie, o którym mowa w art. 9 ust. 5 pkt 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwany dalej „dokumentem zastępującym zgłoszenie”, i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie.
-
-2. W przypadku nieotrzymania przez kierującego numeru referencyjnego, dokumentu zastępującego zgłoszenie i potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie, kierujący jest obowiązany odmówić rozpoczęcia przewozu towaru.”;
-
-- **5)** w art. 46 w ust. 1 pkt 2 otrzymuje brzmienie: „2) wydania zezwolenia EKMT,”;
-- **6)** w art. 50 dodaje się pkt 6 w brzmieniu: „6) wykonywanie zadań wynikających z ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym.”;
-- **7)** w art. 51 w ust. 5 wyrazy „art. 50 pkt 1 i 4” zastępuje się wyrazami „art. 50 pkt 1, 4 i 6”;
-- **8)** w art. 55 w ust. 1 po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) kontroli spełnienia obowiązku, o którym mowa w art. 10a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi w przypadku, o którym mowa w art. 28b ust. 1 lub 2;”;
-- **9)** w art. 55b w ust. 1 w pkt 13 dodaje się przecinek i dodaje się pkt 14 w brzmieniu: „14) Państwowej Inspekcji Pracy”;
-- **10)** w art. 56:
-    - **a)** w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) zgodnie z przepisami ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym.”,
-    - **b)** w ust. 3 w zdaniu drugim wyrazy „o których mowa w ust. 1 pkt 1–4, 6 i 7” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1–4 oraz 6–8”;
-
-- **11)** w art. 87 w ust. 1:
-    - **a)** w pkt 3 w lit. j średnik zastępuje się przecinkiem i dodaje się lit. k w brzmieniu: „k) zezwolenie na odstępstwo;”,
-    - **b)** w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) w przypadku, o którym mowa w art. 28b ust. 1 lub 2 numer referencyjny albo dokument zastępujący zgłoszenie i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie.”;
-
-- **12)** w art. 89 w ust. 1 pkt 5 otrzymuje brzmienie: „5) upoważnieni pracownicy zarządców dróg publicznych z wyłączeniem dokumentów, o których mowa w art. 87 ust. 1 pkt 1, pkt 2 lit. a i pkt 8 oraz ust. 4;”;
-- **13)** w art. 89a po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. W przypadku ujawnienia w trakcie kontroli wykonywania przewozu drogowego rzeczy bez wymaganego zgłoszenia, o którym mowa w art. 28b ust. 1 lub 2, organ uprawniony do kontroli kieruje lub usuwa pojazd samochodowy, na koszt podmiotu wykonującego przewóz, na najbliższy parking strzeżony. Przewóz może być kontynuowany po przesłaniu przez zagraniczny podmiot wykonujący przewóz drogowy rzeczy zgłoszenia i uzyskaniu dla niego numeru referencyjnego.
-
-1b. W przypadku ujawnienia w trakcie kontroli wykonywania międzynarodowego przewozu drogowego rzeczy bez wymaganego zgłoszenia, o którym mowa w art. 28b ust. 1, przepis ust. 1 pkt 1 i ust. 3 stosuje się odpowiednio.”;
-
-- **14)** w art. 92a po ust. 10 dodaje się ust. 10a w brzmieniu: „10a. W przypadku stwierdzenia nieprawidłowości związanych z przewozem towarów, o których mowa w art. 3 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, w pierwszej kolejności stosuje się przepisy ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi.”;
-- **15)** po art. 92e dodaje się art. 92f w brzmieniu: „Art. 92f. 1. Kto, będąc kierującym, nie okazuje uprawnionym organom kontroli zezwolenia na odstępstwo podlega karze grzywny w wysokości 2000 zł za każde naruszenie.
-
-2. Kto, wykonując przewóz drogowy, narusza zakazy, o których mowa w art. 1zc rozporządzenia 765/2006 lub art. 3l rozporządzenia 833/2014, podlega karze pieniężnej w wysokości 100 000 zł za każdy przewóz drogowy.”;
-
-- **16)** w art. 93 w ust. 1 wyrazy „o której mowa w art. 92a ust. 1 i 2, art. 92d oraz art. 92e” zastępuje się wyrazami „o której mowa w art. 92a ust. 1 i 2 oraz art. 92d, art. 92e i art. 92f ust. 2”;
-- **17)** w art. 94 ust. 3 otrzymuje brzmienie: „3. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie obowiązków lub warunków przewozu drogowego przez zagraniczny podmiot mający siedzibę lub miejsce zamieszkania w państwie, z którym Rzeczpospolita Polska nie jest związana umową lub porozumieniem o współpracy we wzajemnym dochodzeniu należności bądź możliwość egzekucji należności nie wynika wprost z przepisów międzynarodowych oraz przepisów tego państwa, funkcjonariusz lub pracownik organu przeprowadzającego kontrolę pobiera kaucję w wysokości odpowiadającej przewidywanej karze pieniężnej, określonej w art. 92f ust. 2 lub załączniku nr 3 lub 4 do ustawy.”;
-- **18)** w załączniku nr 1 po lp. 2 dodaje się lp. 2a w brzmieniu: „2a. Wykonywanie przewozu drogowego rzeczy bez okazania numeru referencyjnego, dokumentu zastępującego zgłoszenie lub potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie, w przypadku, o którym mowa w art. 28b ustawy o transporcie drogowym 1500 ”;
-- **19)** w załączniku nr 3 w lp. 3 po pkt 3.2 dodaje się pkt 3.2a i 3.2b w brzmieniu: „3.2a. Wykonywanie przewozu drogowego rzeczy bez zgłoszenia do rejestru zgłoszeń, w przypadku o którym mowa w art. 28b ustawy o transporcie drogowym 12 000 albo zgłoszenie danych i informacji niekompletnych lub niezgodnych ze stanem faktycznym
-
-3. 2b. Wykonywanie przewozu drogowego rzeczy, w przypadku o którym mowa w art. 28b ustawy o transporcie drogowym z naruszeniem obowiązku, o którym mowa w art. 10a ust. 1 ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi 10 000 ”.
-
-**Art. 40.** W ustawie z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2022 r. poz. 1473) wprowadza się następujące zmiany:
-
-**Art. 26f.**
-
-1. Kierowca wykonujący zadania służbowe w ramach międzynarodowych przewozów drogowych nie jest w podróży służbowej w rozumieniu art. 77 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
-
-2. Do kierowcy, o którym mowa w ust. 1, stosuje się odpowiednio, w zakresie ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe, przepisy wydane na podstawie art. 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych dotyczące pracowników zatrudnionych za granicą u polskich pracodawców.
-
-**Art. 26g.** W przypadku kierowców wykonujących zadania służbowe w ramach międzynarodowych przewozów drogowych, których miesięczny przychód jest wyższy niż przeciętne wynagrodzenie, w skład przychodu stanowiącego podstawę wymiaru składki na ubezpieczenie społeczne, o której mowa w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych nie wchodzą:
-
-**Art. 26h.**
-
-1. Do dni pobytu za granicą, o których mowa w art. 26g, oraz do dni pobytu za granicą, o których mowa w art. 21 ust. 1 pkt 23d ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, nie zalicza się:
-
-- **1)** dni urlopu wypoczynkowego;
-- **2)** okresu przebywania na zwolnieniu lekarskim od pracy z powodu choroby;
-- **3)** okresu korzystania z urlopu bezpłatnego.
-
-2. Jeżeli okres pobytu kierowcy wykonującego międzynarodowe przewozy drogowe za granicą jest krótszy niż 12 godzin, kwoty, o których mowa w art. 26g niniejszej ustawy i art. 21 ust. 1 pkt 23d ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ulegają zmniejszeniu do:
-
-- **1)** 1/3 w przypadku pobytu do 8 godzin;
-- **2)** 1/2 w przypadku pobytu ponad 8 do 12 godzin.
-
-**Art. 26i.** W drodze odstępstwa od art. 85 § 1 i 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, wynagrodzenie za pracę kierowcy wykonującego międzynarodowe przewozy drogowe, uznanego za pracownika delegowanego do celów dyrektywy 96/71/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 1996 r. dotyczącej delegowania pracowników w ramach świadczenia usług (Dz. Urz. WE L 18 z 21.01.1997, str. 1 Dz. Urz. UE Polskie wydanie specjalne rozdz. 5, t. 2, str. 431, Dz. Urz. UE L 252 z 19.09.2012, str. 59 oraz Dz. Urz. UE L 173 z 09.07.2018, str. 16), w rozumieniu krajowych przepisów państwa, na terytorium którego kierowca jest delegowany, może być płatne w dwóch ratach, w stałym i ustalonym z góry terminie:
-
-**Art. 41.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2022 r. poz. 1614) wprowadza się następujące zmiany:
-
-**Art. 42.** W ustawie z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2021 r. poz. 1140 oraz z 2023 r. poz. 641) w art. 2:
-
-**Art. 43.** W ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104) wprowadza się następujące zmiany:
-
-**Art. 44.** W ustawie z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2023 r. poz. 324) wprowadza się następujące zmiany:
-
 #### Rozdział 9 Przepisy dostosowujące, przejściowe i końcowe
 
 **Art. 45.** Główny Inspektor Transportu Drogowego przekaże Głównemu Inspektorowi Pracy informację, o której mowa w art. 20 ust. 1, dotyczącą kontroli drogowych przeprowadzonych w 2023 r., do dnia 31 stycznia 2024 r.
@@ -505,5 +434,7 @@ o delegowaniu kierowców w transporcie drogowym
 
 **Art. 48.** Przepisy art. 38 stosuje się do dochodów (przychodów) uzyskanych od dnia wejścia w życie ustawy.
 
-**Art. 49.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+**Art. 48a.** Przepisy art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, w zakresie dotyczącym wykonywania międzynarodowego przewozu drogowego rzeczy, o którym mowa w art. 28 ust. 1a ustawy zmienianej w art. 39, stosuje się od dnia 1 stycznia 2025 r.
+
+**Art. 49.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
 

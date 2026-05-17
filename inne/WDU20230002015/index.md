@@ -8,9 +8,12 @@ pos: 2015
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 września 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 sierpnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002015) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2015/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 sierpnia 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą (Dz. U. z 2022 r. poz. 1032), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 sierpnia 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 29 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088), który stanowi: „Art. 29. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, z wyjątkiem przepisów:
 1) art. 2 pkt 21 i 22, które wchodzą w życie z dniem 1 stycznia 2024 r.;

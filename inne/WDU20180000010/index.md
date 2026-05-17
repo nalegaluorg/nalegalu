@@ -8,9 +8,12 @@ pos: 10
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 stycznia 2018 r.
+# o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o ochronie przyrody
+
+*USTAWA z dnia 24 listopada 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000010) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/10/text.pdf) |
 
-Poz. 10
-USTAWA z dnia 24 listopada 2017 r.
-o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o ochronie przyrody
-
 **Art. 1.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2017 r. poz. 2187) w art. 36 w ust. 1:
 
 **Art. 2.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm. ) wprowadza się następujące zmiany:
@@ -40,5 +39,5 @@ o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o ochro
 
 2. W przypadku zezwoleń na usunięcie drzewa lub krzewu, wydanych przed dniem wejścia w życie niniejszej ustawy, decyzje w sprawach, o których mowa w art. 84 ust. 4, 5 i 7 ustawy zmienianej w art. 2, wydaje organ, który wydał zezwolenie.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

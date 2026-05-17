@@ -8,9 +8,12 @@ pos: 1716
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 września 2019 r.
+# o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
+
+*USTAWA z dnia 19 lipca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +27,16 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001716) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1716/text.pdf) |
 
-USTAWA z dnia 19 lipca 2019 r.
-o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2017 r. poz. 1933) wprowadza się następujące zmiany:
 
 **Art. 2b.**
 
 1. Podmiot wykonujący transporcie morskim lub wodnym śródlądowym usługę przeładunku lub usługę obsługi pasażerów, jeżeli miejsce rozpoczęcia lub zakończenia podróży znajduje się granicach portu lub przystani morskiej, przekazuje podmiotowi zarządzającemu dane dotyczące:
 
-- **1)** wielkości potencjału przeładunkowego wyrażonej odpowiednio tonach lub jednostkach standardowych odpowiadających pojemności 20-stopowego kontenera ISO (TEU) oraz wielkości potencjału zakresie obsługi pasażerów wyrażonej liczbie pasażerów do dnia 31 marca każdego roku według stanu na dzień 31 grudnia roku poprzedniego;
-- **2)** liczby obsłużonych pasażerów, z podziałem na pasażerów obsłużonych ruchu krajowym i międzynarodowym, oraz wielkości przeładunków wyrażonej odpowiednio tonach lub TEU, z uwzględnieniem, oraz bez uwzględnienia, masy własnej jednostek ładunkowych, a także podziale na ładunki przywożone oraz wywożone do dnia 31 marca każdego roku za rok poprzedni.
+- **1)** wielkości potencjału przeładunkowego wyrażonej odpowiednio tonach lub jednostkach standardowych odpowiadających pojemności 20-stopowego kontenera ISO (TEU) oraz wielkości potencjału zakresie obsługi pasażerów wyrażonej liczbie pasażerów – do dnia 31 marca każdego roku według stanu na dzień 31 grudnia roku poprzedniego;
+- **2)** liczby obsłużonych pasażerów, z podziałem na pasażerów obsłużonych ruchu krajowym i międzynarodowym, oraz wielkości przeładunków wyrażonej odpowiednio tonach lub TEU, z uwzględnieniem, oraz bez uwzględnienia, masy własnej jednostek ładunkowych, a także podziale na ładunki przywożone oraz wywożone – do dnia 31 marca każdego roku za rok poprzedni.
 
-2. Centrum Monitorowania Rybołówstwa, o którym mowa art. 69 ust. 6 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim, przekazuje podmiotowi zarządzającemu dane dotyczące ilości wyładowanych danym porcie lub przystani morskiej ryb, wyrażonej tonach do dnia 31 marca każdego roku za rok poprzedni.
+2. Centrum Monitorowania Rybołówstwa, o którym mowa art. 69 ust. 6 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim, przekazuje podmiotowi zarządzającemu dane dotyczące ilości wyładowanych danym porcie lub przystani morskiej ryb, wyrażonej tonach – do dnia 31 marca każdego roku za rok poprzedni.
 
 **Art. 2c.**
 
@@ -48,11 +48,11 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
     - **a)** ust. 1 otrzymuje brzmienie: „1. Zgody ministra właściwego do spraw gospodarki morskiej, udzielonej drodze decyzji administracyjnej, wymaga:
 
 - **1)** przeniesienie własności, użytkowania wieczystego, udziału we własności albo użytkowaniu wieczystym albo oddanie użytkowanie wieczyste całości albo części nieruchomości,
-- **2)** oddanie całości albo części nieruchomości użytkowanie, dzierżawę lub najem albo zawarcie innej umowy uprawniającej do korzystania lub pobierania pożytków z całości nieruchomości albo jej części przez okres powyżej 10 lat, także jeżeli strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość, albo zawarcie takiej umowy na czas nieoznaczony, której termin wypowiedzenia wynosi powyżej 10 lat przypadku nieruchomości stanowiących własność Skarbu Państwa, jednostki samorządu terytorialnego albo podmiotu zarządzającego portem lub przystanią morską, położonych granicach portów i przystani morskich.”,
+- **2)** oddanie całości albo części nieruchomości użytkowanie, dzierżawę lub najem albo zawarcie innej umowy uprawniającej do korzystania lub pobierania pożytków z całości nieruchomości albo jej części przez okres powyżej 10 lat, także jeżeli strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość, albo zawarcie takiej umowy na czas nieoznaczony, której termin wypowiedzenia wynosi powyżej 10 lat – przypadku nieruchomości stanowiących własność Skarbu Państwa, jednostki samorządu terytorialnego albo podmiotu zarządzającego portem lub przystanią morską, położonych granicach portów i przystani morskich.”,
     - **b)** ust. 4 po pkt 3 dodaje się pkt 3a i 3b brzmieniu: „3a) opinię właściwego dyrektora urzędu morskiego;
 
-- **3b)** opinię Ministra Obrony Narodowej odniesieniu do nieruchomości graniczących z terenami zamkniętymi, o których mowa art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2019 r. poz. 725, 730 i 1309), ustalonymi przez Ministra Obrony Narodowej;”, „5. W przypadku umów, o których mowa ust. 1 pkt 2, dołączona do wniosku umowa przedwstępna określa szczególności zasady rozliczeń nakładów poniesionych na nieruchomość oraz warunki rozwiązania przyrzeczonej umowy przed upływem terminu, na który zostanie zawarta.”,
-    - **d)** po ust. 5 dodaje się ust. 5a brzmieniu: „5a. Przed wydaniem zgody, o której mowa ust. 1, minister właściwy do spraw gospodarki morskiej może zażądać od wnioskodawcy przedstawienia dodatkowych dokumentów i informacji niezbędnych do rozpatrzenia wniosku oraz wystąpić do właściwych organów o opinię zakresie wpływu rozporządzenia nieruchomością będącą przedmiotem wniosku na zagrożenie obronności, bezpieczeństwa państwa, bezpieczeństwa publicznego lub porządku publicznego.”,
+- **3b)** opinię Ministra Obrony Narodowej odniesieniu do nieruchomości graniczących z terenami zamkniętymi, o których mowa art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2019 r. poz. 725, 730 i 1309), ustalonymi przez Ministra Obrony Narodowej;”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. W przypadku umów, o których mowa ust. 1 pkt 2, dołączona do wniosku umowa przedwstępna określa szczególności zasady rozliczeń nakładów poniesionych na nieruchomość oraz warunki rozwiązania przyrzeczonej umowy przed upływem terminu, na który zostanie zawarta.”, wniosku oraz wystąpić do właściwych organów o opinię zakresie wpływu rozporządzenia nieruchomością będącą przedmiotem wniosku na zagrożenie obronności, bezpieczeństwa państwa, bezpieczeństwa publicznego lub porządku publicznego.”,
     - **e)** ust. 6 otrzymuje brzmienie: „6. Odmowa udzielenia zgody, o której mowa ust. 1, następuje ze względu na:
 
 - **1)** zagrożenie obronności, bezpieczeństwa państwa, bezpieczeństwa publicznego, bezpieczeństwa morskiego lub porządku publicznego;
@@ -66,17 +66,16 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
 - **4)** po art. 3 dodaje się art. 3a–3c brzmieniu: „Art. 3a. 1. Zgoda, o której mowa art. 3 ust. 1, nie jest wymagana przypadku:
 - **1)** przeniesienia własności, użytkowania wieczystego, udziału we własności albo użytkowaniu wieczystym albo oddania użytkowanie wieczyste całości albo części nieruchomości, a także oddania całości albo części nieruchomości użytkowanie, dzierżawę lub najem albo zawarcia innej umowy uprawniającej do korzystania lub pobierania pożytków, o której mowa art. 3 ust. 1 pkt 2: poz. 737, 1309 i 1469), samodzielnego lokalu użytkowego o przeznaczeniu garażowym lub udziału prawie do takiego budynku lub lokalu;
     - **a)** na rzecz podmiotu zarządzającego portem lub przystanią morską, granicach których położona jest nieruchomość,
-    - **b)** przypadku budynku mieszkalnego jednorodzinnego rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2019 r. poz. 1186, 1309, 1524, 1696 i 1712), samodzielnego lokalu mieszkalnego rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2019 r.
+    - **b)** przypadku budynku mieszkalnego jednorodzinnego rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, 1309, 1524, 1696 i 1712), samodzielnego lokalu mieszkalnego rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2019 r.
 
 - **2)** oddania użytkowanie gruntów pokrytych morskimi wodami będących trwałym zarządzie dyrektora urzędu morskiego.
 
-2. Przepisu ust. 1 nie stosuje się do nieruchomości graniczących z terenami zamkniętymi, o których mowa art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, ustalonymi przez Ministra Obrony Narodowej.
+2. Przepisu ust. 1 nie stosuje się do nieruchomości graniczących z terenami zamkniętymi, o których mowa art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustalonymi przez Ministra Obrony Narodowej.
 
 **Art. 3b.**
 
-1. Zgody ministra właściwego do spraw gospodarki morskiej, udzielonej drodze decyzji administracyjnej, wymaga uzyskanie statusu podmiotu dominującego względem osoby prawnej lub jednostki organizacyjnej nieposiadającej zdolności prawnej, której ustawa przyznaje zdolność prawną, będącej użytkownikiem wieczystym lub współużytkownikiem wieczystym nieruchomości położonych granicach portów i przystani morskich. ka organizacyjna nieposiadająca osobowości prawnej, której ustawa przyznaje zdolność prawną, która:
+1. Zgody ministra właściwego do spraw gospodarki morskiej, udzielonej drodze decyzji administracyjnej, wymaga uzyskanie statusu podmiotu dominującego względem osoby prawnej lub jednostki organizacyjnej nieposiadającej zdolności prawnej, której ustawa przyznaje zdolność prawną, będącej użytkownikiem wieczystym lub współużytkownikiem wieczystym nieruchomości położonych granicach portów i przystani morskich. cyjnej nieposiadającej osobowości prawnej, której ustawa przyznaje zdolność prawną, także na podstawie porozumień z innymi osobami lub
 
-- **1)** dysponuje bezpośrednio lub pośrednio większością głosów organach osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, której ustawa przyznaje zdolność prawną, także na podstawie porozumień z innymi osobami lub
 - **2)** posiada uprawnienie do powoływania większości członków organów osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, której ustawa przyznaje zdolność prawną, także na podstawie porozumień z innymi osobami, lub
 - **3)** dysponuje bezpośrednio lub pośrednio większością głosów spółce osobowej, także na podstawie porozumień z innymi osobami.
 
@@ -92,13 +91,13 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
 
 5. Do wniosku, o którym mowa ust. 3, dołącza się dokumenty potwierdzające dane i informacje zawarte we wniosku, szczególności tytuł prawny do nieruchomości, oraz opinię dotyczącą uzyskania statusu podmiotu dominującego, o którym mowa ust. 1:
 
-- **1)** podmiotu zarządzającego przypadku gdy wnioskodawcą jest inny podmiot niż podmiot zarządzający;
+- **1)** podmiotu zarządzającego – przypadku gdy wnioskodawcą jest inny podmiot niż podmiot zarządzający;
 - **2)** właściwego dyrektora urzędu morskiego.
 
 6. W przypadku nabycia albo objęcia akcji lub praw z akcji:
 
 - **1)** z naruszeniem ust. 1 albo
-- **2)** mimo odmowy udzielenia zgody na uzyskanie statusu podmiotu dominującego, o którym mowa ust. 1 z akcji tych nie może być wykonywane prawo głosu.
+- **2)** mimo odmowy udzielenia zgody na uzyskanie statusu podmiotu dominującego, o którym mowa ust. 1 – z akcji tych nie może być wykonywane prawo głosu.
 
 7. Uchwały walnego zgromadzenia albo zgromadzenia wspólników podmiocie, stosunku do którego uzyskano status podmiotu dominującego, o którym mowa ust. 1, z naruszeniem ust. 1 albo mimo odmowy udzielenia zgody na uzyskanie statusu podmiotu dominującego, o którym mowa ust. 1, które wywołują skutki odniesieniu do nieruchomości położonych granicach portów i przystani morskich, są nieważne. Prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia albo zgromadzenia wspólników przysługuje również podmiotowi zarządzającemu.
 
@@ -112,10 +111,9 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
 
 2. Podmiot zarządzający wyraża zgodę, o której mowa ust. 1, albo odmawia jej wyrażenia drodze decyzji administracyjnej, od której przysługuje odwołanie do ministra właściwego do spraw gospodarki morskiej.
 
-3. Przepisy art. 3 ust. 5a–6b oraz art. 3b ust. 3–8 stosuje się odpowiednio.”;
+3. Przepisy art. 3 ust. 5a–6b oraz art. 3b ust. 3–8 stosuje się odpowiednio.”; przysługuje gminie właściwej ze względu na położenie nieruchomości.”,
 
-- **a)** ust. 3 otrzymuje brzmienie: „3. W przypadku niepowołania podmiotu zarządzającego portem lub przystanią morską prawo pierwokupu przysługuje gminie właściwej ze względu na położenie nieruchomości.”,
-- **b)** po ust. 3 dodaje się ust. 3a–3c brzmieniu: „3a. Prawa, o których mowa ust. 1, odniesieniu do nieruchomości położonych granicach morskiego portu wojennego lub graniczących z terenami zamkniętymi, o których mowa art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, ustalonymi przez Ministra Obrony Narodowej, są wykonywane przez właściwe tych sprawach jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane przed uprawnieniami podmiotów, o których mowa ust. 1 lub 3. Notariusz przekazuje wypis aktu notarialnego Ministrowi Obrony Narodowej.
+- **b)** po ust. 3 dodaje się ust. 3a–3c brzmieniu: „3a. Prawa, o których mowa ust. 1, odniesieniu do nieruchomości położonych granicach morskiego portu wojennego lub graniczących z terenami zamkniętymi, o których mowa art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustalonymi przez Ministra Obrony Narodowej, są wykonywane przez właściwe tych sprawach jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane przed uprawnieniami podmiotów, o których mowa ust. 1 lub 3. Notariusz przekazuje wypis aktu notarialnego Ministrowi Obrony Narodowej.
 
 3b. W przypadku gdy prawo własności lub użytkowania wieczystego nieruchomości położonej granicach portu lub przystani morskiej, lub udział takim prawie, jest przedmiotem egzekucji sądowej, postanowienie o przybiciu po jego uprawomocnieniu się sąd doręcza uprawnionemu do wykonania praw określonych ust. 1. W przypadku gdy uprawniony wykona swoje prawo, sąd uchyla postanowienie o przybiciu i udziela przybicia na rzecz uprawnionego.
 
@@ -125,7 +123,7 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
 
 5. Podmiot zarządzający oraz odpowiednio Skarb Państwa, gmina, jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane wykonują prawo pierwokupu, prawo pierwszeństwa przy oddaniu użytkowanie wieczyste lub przeniesieniu prawa użytkowania wieczystego przez złożenie oświadczenia formie aktu notarialnego terminie 6 miesięcy od dnia otrzymania od notariusza wypisu aktu notarialnego. Termin 6 miesięcy dotyczy łącznie wszystkich uprawnionych podmiotów.”;
 
-- **6)** po art. 4a dodaje się art. 4b brzmieniu: „Art. 4b. 1. Podmiot zarządzający może żądać rozwiązania umowy użytkowania wieczystego nieruchomości lub jej części, położonych granicach portu lub przystani morskiej, przed upływem ustalonego okresu stosownie do art. 240 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495), przypadku gdy użytkownik wieczysty korzysta z tej nieruchomości sposób sprzeczny z umową.
+- **6)** po art. 4a dodaje się art. 4b brzmieniu: „Art. 4b. 1. Podmiot zarządzający może żądać rozwiązania umowy użytkowania wieczystego nieruchomości lub jej części, położonych granicach portu lub przystani morskiej, przed upływem ustalonego okresu stosownie do art. 240 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495), przypadku gdy użytkownik wieczysty korzysta z tej nieruchomości sposób sprzeczny z umową.
 
 2. Przepis ust. 1 stosuje się odpowiednio do prawa użytkowania wieczystego nabytego inny sposób niż drodze umowy zawartej formie aktu notarialnego.”;
 
@@ -133,7 +131,7 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
     - **a)** ust. 1 pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 i 8 brzmieniu: „7) koordynację korzystania z infrastruktury portowej, z wyjątkiem kompetencji administracji morskiej;
 
 - **8)** działania zmierzające do rozwoju działalności gospodarczej prowadzonej porcie oraz promocję takiej działalności.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Przedmiotem działalności przedsiębiorstwa podmiotu zarządzającego, a także spółek prawa handlowego, których podmiot zarządzający posiada udziały lub akcje, nie może być świadczenie granicach portu usług portowych, o których mowa art. 1 ust. 2 lit. b oraz lit. d rozporządzenia nr 2017/352, tym magazynowania, rozformowywania, przepakowywania oraz innych usług przedstawiających wartość dodaną dotyczących ładunku.”, „2a. W ramach działalności, o której mowa ust. 1 pkt 2, podmiot zarządzający opracowuje szczególności plan rozwoju portu publikowany na stronie podmiotowej Biuletynu Informacji Publicznej podmiotu zarządzającego.
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Przedmiotem działalności przedsiębiorstwa podmiotu zarządzającego, a także spółek prawa handlowego, których podmiot zarządzający posiada udziały lub akcje, nie może być świadczenie granicach portu usług portowych, o których mowa art. 1 ust. 2 lit. b oraz lit. d rozporządzenia nr 2017/352, tym magazynowania, rozformowywania, przepakowywania oraz innych usług przedstawiających wartość dodaną dotyczących ładunku.”, dzającego.
 
 2b. Plan, o którym mowa ust. 2a, jest sporządzany na okres nie krótszy niż 5 lat i zawiera co najmniej:
 
@@ -158,9 +156,8 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
 - **1)** grunty będące zarządzie państwowych jednostek organizacyjnych nieposiadających osobowości prawnej,
 - **2)** grunty położone granicach przystani plażowych oraz
 - **3)** grunty portach i przystaniach morskich, przypadku których zadania i uprawnienia podmiotu zarządzającego powierzono zgodnie z art. 25 ust. 5.”;
-- **12)** art. 25 otrzymuje brzmienie: „Art. 25. 1. W przypadku niepowołania podmiotu zarządzającego trybie art. 23 ust. 1 zadania i uprawnienia podmiotu zarządzającego wykonuje gmina, granicach której położona jest większa część nieruchomości gruntowych, z wyłączeniem gruntów pokrytych wodami, znajdujących się granicach portu lub przystani morskiej. znajdujących się granicach portu lub przystani morskiej stanowi przedmiot:
-- **1)** własności Skarbu Państwa i nie została oddana użytkowanie wieczyste lub
-- **2)** użytkowania wieczystego Skarbu Państwa zadania i uprawnienia podmiotu zarządzającego wykonuje właściwy dyrektor urzędu morskiego.
+- **12)** art. 25 otrzymuje brzmienie: „Art. 25. 1. W przypadku niepowołania podmiotu zarządzającego trybie art. 23 ust. 1 zadania i uprawnienia podmiotu zarządzającego wykonuje gmina, granicach której położona jest większa część nieruchomości gruntowych, z wyłączeniem gruntów pokrytych wodami, znajdujących się granicach portu lub przystani morskiej.
+- **2)** użytkowania wieczystego Skarbu Państwa – zadania i uprawnienia podmiotu zarządzającego wykonuje właściwy dyrektor urzędu morskiego.
 
 3. Wpływy z tytułu opłat portowych pobieranych przez gminę przypadku, o którym mowa ust. 1, stanowią dochód gminy.
 
@@ -180,11 +177,17 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
 
 **Art. 6.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2018 r. poz. 1945, z późn. zm. ) wprowadza się następujące zmiany:
 
+**Art. 7.** W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie dróg publicznych (Dz. U. z 2018 r. poz. 1474) art. 11d ust. 1 pkt 8 po lit. g dodaje się lit. ga brzmieniu: „ga) podmiotu zarządzającego rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2017 r. poz. 1933 oraz z 2019 r. poz. 1716) – odniesieniu do obszaru portu lub przystani morskiej,”.
+
 **Art. 8.** W ustawie z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2019 r. poz. 1124, 1495 i 1527) wprowadza się następujące zmiany:
 
 **Art. 9.** W ustawie z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. poz. 1137) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53 i 1091) art. 5 ust. 2 po pkt 31 dodaje się pkt 31a brzmieniu: „31a) dokument rejestracyjny, o którym mowa art. 4 ust. 1 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. poz. 1137 oraz z 2019 r. poz. 1716);”. (Dz. U. z 2017 r. poz. 1933 oraz z 2019 r. poz. 1716), zwane dalej „podmiotami zarządzającymi”, zarządzające portami niemającymi podstawowego znaczenia dla gospodarki narodowej oraz przystaniami morskimi utworzone na podstawie art. 23 ustawy zmienianej art. 1, brzmieniu dotychczasowym, zachowują status podmiotu zarządzającego. 2. Podmioty stanowiące całości własność powiatu, które dniu wejścia życie niniejszej ustawy wykonują działalność zakresie zarządzania portami morskimi, zachowują status podmiotu zarządzającego, nie dłużej niż do czasu utraty przez powiat co najmniej 51% sumy głosów służących całemu kapitałowi.
+**Art. 11.**
+
+1. Podmioty zarządzające rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2017 r. poz. 1933 oraz z 2019 r. poz. 1716), zwane dalej „podmiotami zarządzającymi”, zarządzające portami niemającymi podstawowego znaczenia dla gospodarki narodowej oraz przystaniami morskimi utworzone na podstawie art. 23 ustawy zmienianej art. 1, brzmieniu dotychczasowym, zachowują status podmiotu zarządzającego.
+
+2. Podmioty stanowiące całości własność powiatu, które dniu wejścia życie niniejszej ustawy wykonują działalność zakresie zarządzania portami morskimi, zachowują status podmiotu zarządzającego, nie dłużej niż do czasu utraty przez powiat co najmniej 51% sumy głosów służących całemu kapitałowi.
 
 **Art. 12.**
 
@@ -196,8 +199,8 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
 
 1. Podmiot wykonujący transporcie morskim lub wodnym śródlądowym usługę przeładunku lub usługę obsługi pasażerów, jeżeli miejsce rozpoczęcia lub zakończenia podróży znajduje się granicach portu lub przystani morskiej, przekazuje podmiotowi zarządzającemu dane dotyczące:
 
-- **1)** wielkości potencjału przeładunkowego wyrażonej odpowiednio tonach lub jednostkach standardowych odpowiadających pojemności 20-stopowego kontenera ISO (TEU) oraz wielkości potencjału zakresie obsługi pasażerów wyrażonej liczbie pasażerów według stanu na dzień 31 grudnia 2018 r.,
-- **2)** liczby obsłużonych pasażerów, z podziałem na pasażerów obsłużonych ruchu krajowym i międzynarodowym, oraz wielkości przeładunków wyrażonej odpowiednio tonach lub TEU, z uwzględnieniem, oraz bez uwzględnienia, masy własnej jednostek ładunkowych, a także podziale na ładunki przywożone oraz wywożone za 2018 r. terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
+- **1)** wielkości potencjału przeładunkowego wyrażonej odpowiednio tonach lub jednostkach standardowych odpowiadających pojemności 20-stopowego kontenera ISO (TEU) oraz wielkości potencjału zakresie obsługi pasażerów wyrażonej liczbie pasażerów – według stanu na dzień 31 grudnia 2018 r.,
+- **2)** liczby obsłużonych pasażerów, z podziałem na pasażerów obsłużonych ruchu krajowym i międzynarodowym, oraz wielkości przeładunków wyrażonej odpowiednio tonach lub TEU, z uwzględnieniem, oraz bez uwzględnienia, masy własnej jednostek ładunkowych, a także podziale na ładunki przywożone oraz wywożone – za 2018 r. – terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 2. Centrum Monitorowania Rybołówstwa, o którym mowa art. 69 ust. 6 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2019 r. poz. 586, 642 i 730), przekazuje podmiotowi zarządzającemu dane dotyczące ilości wyładowanych danym porcie lub przystani morskiej ryb, wyrażonej tonach, za 2018 r., terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
 
@@ -213,15 +216,17 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
 
 - **1)** sporządzenia studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy,
 - **2)** sporządzenia miejscowego planu zagospodarowania przestrzennego,
-- **3)** wydania decyzji o ustaleniu lokalizacji inwestycji celu publicznego stosuje się przepisy ustawy zmienianej art. 6 brzmieniu nadanym niniejszą ustawą.
+- **3)** wydania decyzji o ustaleniu lokalizacji inwestycji celu publicznego – stosuje się przepisy ustawy zmienianej art. 6 brzmieniu nadanym niniejszą ustawą.
 
 2. Wójt, burmistrz albo prezydent miasta, po podjęciu przez radę gminy uchwały o przystąpieniu do sporządzania studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, występuje o opinie dotyczące rozwiązań przyjętych projekcie studium do podmiotu zarządzającego zakresie zagospodarowania portu lub przystani morskiej.
 
 3. Wójt, burmistrz albo prezydent miasta, po podjęciu przez radę gminy uchwały o przystąpieniu do sporządzania miejscowego planu zagospodarowania przestrzennego, występuje o uzgodnienie projektu planu z podmiotem zarządzającym zakresie zagospodarowania właściwego portu lub przystani morskiej.
 
-4. Organy właściwe sprawie wydania decyzji o ustaleniu lokalizacji inwestycji celu publicznego występują o uzgodnienie tej decyzji do podmiotu zarządzającego odniesieniu do obszaru właściwego portu lub przystani, z wyłączeniem morskich portów wojennych i terenów zamkniętych zlokalizowanych granicach portu lub przystani morskiej, terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
+4. Organy właściwe sprawie wydania decyzji o ustaleniu lokalizacji inwestycji celu publicznego występują o uzgodnienie tej decyzji do podmiotu zarządzającego odniesieniu do obszaru właściwego portu lub przystani, z wyłączeniem i kierunków zagospodarowania przestrzennego gminy lub projekt miejscowego planu zagospodarowania przestrzennego zostały wyłożone do publicznego wglądu przed dniem wejścia życie niniejszej ustawy.
 
-5. Nie występuje się o opinie i uzgodnienia, o których mowa ust. 2 i 3, jeżeli projekt studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy lub projekt miejscowego planu zagospodarowania przestrzennego zostały wyłożone do publicznego wglądu przed dniem wejścia życie niniejszej ustawy. i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 7 brzmieniu nadanym niniejszą ustawą.
+**Art. 16.**
+
+1. Do postępowań sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 7 brzmieniu nadanym niniejszą ustawą.
 
 2. Właściwy zarządca drogi występuje o opinię podmiotu zarządzającego odniesieniu do obszaru portu lub przystani morskiej, terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
 
@@ -235,16 +240,16 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
 
 1. W latach 2019–2028 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 0,944 mln zł, tym w:
 
-- **1)** 2019 r. 0,08 mln zł;
-- **2)** 2020 r. 0,096 mln zł;
-- **3)** 2021 r. 0,096 mln zł;
-- **4)** 2022 r. 0,096 mln zł;
-- **5)** 2023 r. 0,096 mln zł;
-- **6)** 2024 r. 0,096 mln zł;
-- **7)** 2025 r. 0,096 mln zł;
-- **8)** 2026 r. 0,096 mln zł;
-- **9)** 2027 r. 0,096 mln zł;
-- **10)** 2028 r. 0,096 mln zł.
+- **1)** 2019 r. – 0,08 mln zł;
+- **2)** 2020 r. – 0,096 mln zł;
+- **3)** 2021 r. – 0,096 mln zł;
+- **4)** 2022 r. – 0,096 mln zł;
+- **5)** 2023 r. – 0,096 mln zł;
+- **6)** 2024 r. – 0,096 mln zł;
+- **7)** 2025 r. – 0,096 mln zł;
+- **8)** 2026 r. – 0,096 mln zł;
+- **9)** 2027 r. – 0,096 mln zł;
+- **10)** 2028 r. – 0,096 mln zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa ust. 1, stosuje się mechanizm korygujący polegający na obniżeniu kosztów utrzymania nowo powstałych stanowisk pracy.
 
@@ -254,18 +259,17 @@ o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
 
 1. W latach 2019–2028 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 2000 mln zł, tym w:
 
-- **1)** 2019 r. 0 zł;
-- **2)** 2020 r. 1,5 mln zł;
-- **3)** 2021 r. 5 mln zł;
-- **4)** 2022 r. 15 mln zł;
-- **5)** 2023 r. 1,5 mln zł;
-- **6)** 2024 r. 66 mln zł;
-- **7)** 2025 r. 265 mln zł;
-- **8)** 2026 r. 580 mln zł;
-- **9)** 2027 r. 760 mln zł;
-- **10)** 2028 r. 306 mln zł. wydatków, o którym mowa ust. 1, stosuje się mechanizm korygujący polegający na rezygnacji z części zadań bądź ograniczenie ich zakresu rzeczowego.
+- **1)** 2019 r. – 0 zł;
+- **2)** 2020 r. – 1,5 mln zł;
+- **3)** 2021 r. – 5 mln zł;
+- **4)** 2022 r. – 15 mln zł;
+- **5)** 2023 r. – 1,5 mln zł;
+- **6)** 2024 r. – 66 mln zł;
+- **7)** 2025 r. – 265 mln zł;
+
+2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa ust. 1, stosuje się mechanizm korygujący polegający na rezygnacji z części zadań bądź ograniczenie ich zakresu rzeczowego.
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa ust. 1, oraz odpowiedzialnym za wdrożenie mechanizmu korygującego, o którym mowa ust. 2, jest minister właściwy do spraw transportu.
 
-**Art. 20.** Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 12 zakresie art. 25 ust. 5, który wchodzi życie z dniem 1 stycznia 2020 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 20.** Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 12 zakresie art. 25 ust. 5, który wchodzi życie z dniem 1 stycznia 2020 r.
 

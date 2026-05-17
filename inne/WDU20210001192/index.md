@@ -8,9 +8,12 @@ pos: 1192
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 lipca 2021 r.
+# o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+
+*USTAWA z dnia 24 czerwca 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +27,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001192) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1192/text.pdf) |
 
-USTAWA z dnia 24 czerwca 2021 r.
-o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2021 r. poz. 178) po art. 10b dodaje się art. 10c brzmieniu: „Art. 10c. 1. Prezes Rady Ministrów może powierzać podmiotom zobowiązanym do udostępniania lub przekazywania informacji sektora publicznego celu ponownego wykorzystania, o których mowa przepisach o ponownym wykorzystaniu informacji sektora publicznego, zwanym dalej „zleceniobiorcami”, realizację zadań z zakresu informatyzacji sektora publicznego, innowacji cyfrowych i rozwoju społeczeństwa informacyjnego oraz przeciwdziałania wykluczeniu cyfrowemu, zwanych dalej „projektami”, tym:
 
 **Art. 3.** W ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383) art. 37:
 
-**Art. 4.** W ustawie z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. z 2021 r. poz. 737) art. 93 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. W 2021 r. określonego art. 38 pkt 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej warunku posiadania uregulowanego stosunku do służby wojskowej nie stosuje się do osób ubiegających się o przyjęcie do służby kandydackiej, podlegających obowiązkowi stawienia się do kwalifikacji wojskowej tym roku, które z powodu wydłużenia czasu trwania tej kwalifikacji nie stawiły się do niej przed upływem terminu zakończenia rekrutacji do służby kandydackiej.”. z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, 1086, 2255 i 2320 oraz z 2021 r. poz. 159 i 981) art. 58 ust. 1:
+**Art. 4.** W ustawie z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. z 2021 r. poz. 737) art. 93 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. W 2021 r. określonego art. 38 pkt 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej warunku posiadania uregulowanego stosunku do służby wojskowej nie stosuje się do osób ubiegających się o przyjęcie do służby kandydackiej, podlegających obowiązkowi stawienia się do kwalifikacji wojskowej tym roku, które z powodu wydłużenia czasu trwania tej kwalifikacji nie stawiły się do niej przed upływem terminu zakończenia rekrutacji do służby kandydackiej.”. art. 58 ust. 1:
 
 **Art. 6.**
 
@@ -63,7 +63,7 @@ o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, prz
 
 **Art. 10.**
 
-1. Do pożyczek udzielonych na podstawie art. 15zzd oraz art. 15zzda ustawy zmienianej art. 1, przed dniem ogłoszenia niniejszej ustawy, stosuje się przepisy art. 15zzd oraz art. 15zzda ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą. przed dniem ogłoszenia niniejszej ustawy, ulegają zmianie z mocy prawa zakresie określonym art. 15zzd oraz art. 15zzda ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+1. Do pożyczek udzielonych na podstawie art. 15zzd oraz art. 15zzda ustawy zmienianej art. 1, przed dniem ogłoszenia niniejszej ustawy, stosuje się przepisy art. 15zzd oraz art. 15zzda ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą. ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
 3. Powiatowy urząd pracy niezwłocznie informuje mikroprzedsiębiorców, organizacje pozarządowe i podmioty, o których mowa art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, o zmianie, o której mowa ust. 2, przez ogłoszenie na tablicy informacyjnej siedzibie urzędu pracy oraz postaci elektronicznej z wykorzystaniem strony internetowej urzędu.
 

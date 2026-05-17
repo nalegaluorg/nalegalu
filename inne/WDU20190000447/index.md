@@ -8,9 +8,12 @@ pos: 447
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 marca 2019 r.
+# o Agencji Badań Medycznych
+
+*USTAWA z dnia 21 lutego 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +27,13 @@ domain: null
 | Ostatnia zmiana | 2025-03-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000447) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/447/text.pdf) |
 
-USTAWA z dnia 21 lutego 2019 r.
-o Agencji Badań Medycznych
+Art. 34–40. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Agencja Badań Medycznych, zwana dalej „Agencją”, jest państwową osobą prawną, o której mowa w art. 9 pkt 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm. ).
+1. Agencja Badań Medycznych, zwana dalej „Agencją”, jest państwową osobą prawną, o której mowa w art. 9 pkt 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39).
 
 2. Agencja działa na podstawie ustawy i statutu. Statut określa szczegółowy zakres zadań organów Agencji oraz liczbę i zakres zadań zastępców Prezesa Agencji, strukturę organizacyjną Agencji, a także główne procesy zarządcze.
 
@@ -43,7 +45,7 @@ o Agencji Badań Medycznych
 
 6. Nazwa „Agencja Badań Medycznych” przysługuje wyłącznie Agencji.
 
-7. Celem działalności Agencji jest wspieranie działalności innowacyjnej w ochronie zdrowia, ze szczególnym uwzględnieniem rozwoju niekomercyjnych badań klinicznych.
+7. Celem działalności Agencji jest wspieranie działalności innowacyjnej w ochronie zdrowia, ze szczególnym uwzględnieniem rozwoju niekomercyjnych badań klinicznych i eksperymentów badawczych.
 
 **Art. 2.** Działalność Agencji polega na:
 
@@ -66,16 +68,16 @@ o Agencji Badań Medycznych
 - **3)** rezygnacji z pełnionej funkcji;
 - **4)** działania niezgodnego z zasadami rzetelności i gospodarności;
 - **5)** niezatwierdzenia rocznego sprawozdania finansowego Agencji lub jego nieprzedstawienia w terminie;
-- **6)** złożenia niezgodnego z prawdą oświadczenia, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2019 r. poz. 430 i 399), albo informacji, o której mowa w art. 7 ust. 3a tej ustawy, stwierdzonego prawomocnym orzeczeniem sądu.
+- **6)** złożenia niezgodnego z prawdą oświadczenia, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i 1940), albo informacji, o której mowa w art. 7 ust. 3a tej ustawy, stwierdzonego prawomocnym orzeczeniem sądu.
 
 4. Zastępców Prezesa w liczbie nie większej niż trzech powołuje Prezes w drodze konkursu. Prezes może odwołać zastępcę w każdym czasie.
 
-5. Powołanie, o którym mowa w ust. 1 i 4, stanowi nawiązanie stosunku pracy na podstawie powołania, o którym mowa w przepisach ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm. ).
+5. Powołanie, o którym mowa w ust. 1 i 4, stanowi nawiązanie stosunku pracy na podstawie powołania, o którym mowa w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878, 1222, 1871 i 1965).
 
 6. Wynagrodzenie:
 
-- **1)** Prezesa ustala minister właściwy do spraw zdrowia;
-- **2)** zastępców Prezesa ustala Prezes.
+- **1)** Prezesa – ustala minister właściwy do spraw zdrowia;
+- **2)** zastępców Prezesa – ustala Prezes.
 
 7. Prezes oraz zastępcy Prezesa, za zgodą odpowiednio ministra właściwego do spraw zdrowia lub Prezesa, mogą podejmować dodatkowe zatrudnienie, jeżeli wykonywanie tego zatrudnienia nie przeszkadza w pełnieniu obowiązków Prezesa lub zastępcy Prezesa.
 
@@ -87,7 +89,7 @@ o Agencji Badań Medycznych
 9. Minister właściwy do spraw zdrowia ogłasza konkurs na stanowisko Prezesa:
 
 - **1)** co najmniej na 8 tygodni przed upływem kadencji Prezesa;
-- **2)** niezwłocznie w przypadku odwołania albo śmierci Prezesa.
+- **2)** niezwłocznie – w przypadku odwołania albo śmierci Prezesa.
 
 10. Informację o naborze na stanowisko Prezesa ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Agencji oraz na stronie podmiotowej Biuletynu Informacji Publicznej Agencji i na stronie podmiotowej Biuletynu Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
 
@@ -120,7 +122,7 @@ o Agencji Badań Medycznych
 
 - **1)** nazwę i adres Agencji;
 - **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2018 r. poz. 1025, 1104, 1629, 2073 i 2244 oraz z 2019 r. poz. 80) albo informację o niewyłonieniu kandydata.
+- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237) albo informację o niewyłonieniu kandydata.
 
 17. Umieszczenie na stronie podmiotowej Biuletynu Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
 
@@ -183,7 +185,7 @@ o Agencji Badań Medycznych
 
 1. W skład Rady wchodzi od 15 do 20 członków powoływanych i odwoływanych przez ministra właściwego do spraw zdrowia. Członków Rady w liczbie nie większej niż ośmiu wskazuje minister właściwy do spraw zdrowia. Pozostałych członków Rady minister właściwy do spraw zdrowia powołuje spośród kandydatów, których zgłaszają:
 
-- **1)** dwóch minister właściwy do spraw szkolnictwa wyższego i nauki;
+- **1)** dwóch – minister właściwy do spraw szkolnictwa wyższego i nauki;
 - **2)** po jednym:
     - **a)** minister właściwy do spraw gospodarki,
     - **b)** Minister Obrony Narodowej,
@@ -217,6 +219,11 @@ o Agencji Badań Medycznych
 - **2)** utraty zdolności do pełnienia obowiązków z powodu choroby lub innej przeszkody trwale uniemożliwiającej pełnienie obowiązków przez co najmniej 6 miesięcy;
 - **3)** zaprzestania spełniania któregokolwiek z wymagań określonych w art. 9 ust. 2.
 
+3a. Minister właściwy do spraw zdrowia może odwołać członka Rady przed upływem kadencji Rady:
+
+- **1)** na wniosek podmiotu, który zgłosił go jako kandydata do pełnienia tej funkcji;
+- **2)** z własnej inicjatywy, przy czym w takim przypadku informuje o odwołaniu podmiot, który zgłosił go jako kandydata do pełnienia tej funkcji.
+
 4. W przypadku odwołania lub śmierci członka Rady przed upływem kadencji minister właściwy do spraw zdrowia niezwłocznie powołuje na jego miejsce inną osobę na okres do końca kadencji Rady, z uwzględnieniem art. 9 ust. 1.
 
 5. Kadencja członka Rady rozpoczyna się z dniem jego powołania i kończy wraz z upływem kadencji Rady.
@@ -239,8 +246,8 @@ o Agencji Badań Medycznych
 
 4. W przypadku Przewodniczącego i członków Rady:
 
-- **1)** będących jednocześnie członkami korpusu służby cywilnej wynagrodzenie, o którym mowa w ust. 3, nie może przekroczyć jednokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;
-- **2)** innych niż określeni w pkt 1 wynagrodzenie, o którym mowa w ust. 3, nie może przekroczyć dwukrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+- **1)** będących jednocześnie członkami korpusu służby cywilnej – wynagrodzenie, o którym mowa w ust. 3, nie może przekroczyć jednokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;
+- **2)** innych niż określeni w pkt 1 – wynagrodzenie, o którym mowa w ust. 3, nie może przekroczyć dwukrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 **Art. 13.**
 
@@ -282,32 +289,34 @@ o Agencji Badań Medycznych
 - **3)** ocena wniosków i zawieranie umów z beneficjentami;
 - **4)** nadzór i kontrola realizacji projektów, w tym projektów interdyscyplinarnych;
 - **5)** prowadzenie własnych badań naukowych i prac rozwojowych;
-- **6)** dofinansowanie projektów niekomercyjnych badań klinicznych.
+- **6)** dofinansowanie projektów niekomercyjnych badań klinicznych i eksperymentów badawczych;
+- **7)** obsługa administracyjno-biurowa Naczelnej Komisji Bioetycznej, o której mowa w rozdziale 4 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi;
+- **8)** prowadzenie działań o charakterze edukacyjnym i szkoleniowym w zakresie innowacji w ochronie zdrowia, ze szczególnym uwzględnieniem badań naukowych i prac rozwojowych w dziedzinie nauk medycznych i nauk o zdrowiu.
 
 2. Do zadań Agencji w zakresie działalności określonej w art. 2 należy także:
 
 - **1)** dofinansowywanie projektów, w tym projektów interdyscyplinarnych, zgodnych z programem, wyłonionych w drodze konkursu;
-- **2)** organizacja i finansowanie badań naukowych lub prac rozwojowych ad hoc w dziedzinie nauk medycznych i nauk o zdrowiu, ze szczególnym uwzględnieniem badań klinicznych, obserwacyjnych i epidemiologicznych, w tym projektów interdyscyplinarnych;
+- **2)** organizacja i finansowanie badań naukowych lub prac rozwojowych ad hoc w dziedzinie nauk medycznych i nauk o zdrowiu, ze szczególnym uwzględnieniem badań klinicznych, obserwacyjnych i epidemiologicznych oraz eksperymentów badawczych, w tym projektów interdyscyplinarnych;
 - **3)** upowszechnianie efektów zrealizowanych zadań;
 - **4)** wspieranie przedsiębiorstw w prowadzeniu i rozwijaniu działalności innowacyjnej w dziedzinie nauk medycznych i nauk o zdrowiu oraz projektów interdyscyplinarnych.
 
 3. Agencja przetwarza następujące dane osobowe niezbędne do prowadzenia badań naukowych i prac rozwojowych:
 
-- **1)** numer PESEL osoby uczestniczącej w badaniu naukowym lub pracy rozwojowej lub świadczeniobiorcy w rozumieniu art. 2 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm. ), a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **1)** numer PESEL osoby uczestniczącej w badaniu naukowym lub pracy rozwojowej lub świadczeniobiorcy w rozumieniu art. 2 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ), a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 - **2)** numer kodu pocztowego adresu miejsca zamieszkania osoby uczestniczącej w badaniu naukowym lub pracy rozwojowej lub świadczeniobiorcy;
 - **3)** informacje o świadczeniach finansowanych ze środków publicznych udzielonych na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub na podstawie badania naukowego finansowanego przez Agencję.
 
 4. W zakresie danych osobowych, o którym mowa w ust. 3, Agencja ma prawo dostępu do:
 
 - **1)** danych gromadzonych przez Narodowy Fundusz Zdrowia oraz do baz danych dotyczących świadczeń opieki zdrowotnej finansowanych ze środków publicznych, prowadzonych przez podmioty inne niż Narodowy Fundusz Zdrowia;
-- **2)** rejestrów medycznych, o których mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408);
+- **2)** rejestrów medycznych, o których mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465 oraz z 2024 r. poz. 1897);
 - **3)** dokumentacji medycznej.
 
 5. Agencja przetwarza następujące dane osobowe w zakresie wdrażania konkursów i rozliczania projektów:
 
 - **1)** imię i nazwisko osoby uprawnionej do reprezentowania wnioskodawców i beneficjentów;
 - **2)** imię i nazwisko osoby wskazanej do kontaktów roboczych ze strony beneficjenta;
-- **3)** imię i nazwisko, adres zamieszkania oraz numer PESEL osób otrzymujących wynagrodzenie w ramach realizacji projektu, a w przypadku braku numeru PESEL rodzaj, serię i numer dokumentu potwierdzającego tożsamość.
+- **3)** imię i nazwisko, adres zamieszkania oraz numer PESEL osób otrzymujących wynagrodzenie w ramach realizacji projektu, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość.
 
 6. Przy przetwarzaniu danych osobowych, o których mowa w ust. 3, administrator danych wdraża odpowiednie zabezpieczenia techniczne i organizacyjne praw i wolności osób fizycznych, których dane osobowe są przetwarzane, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), w szczególności przez pseudonimizację albo szyfrowanie danych, nadawanie uprawnień do przetwarzania minimalnej liczbie osób niezbędnych do prowadzenia badań naukowych i prac rozwojowych, kontrolę dostępu do pomieszczeń, w których przechowywane są dokumenty zawierające dane osobowe, oraz opracowanie procedury określającej sposób zabezpieczenia danych.
 
@@ -341,10 +350,10 @@ o Agencji Badań Medycznych
 
 1. W konkursie mogą brać udział:
 
-- **1)** podmioty, o których mowa w art. 7 ust. 1 pkt 1–6 i 8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
-- **2)** Centrum Medyczne Kształcenia Podyplomowego, o którym mowa w ustawie z dnia 13 września 2018 r. o Centrum Medycznym Kształcenia Podyplomowego (Dz. U. poz. 2024);
-- **3)** podmioty lecznicze, dla których podmiotem tworzącym jest publiczna uczelnia medyczna albo uczelnia prowadząca działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, albo Centrum Medyczne Kształcenia Podyplomowego;
-- **4)** przedsiębiorcy mający status centrum badawczo-rozwojowego w rozumieniu art. 17 ust. 2 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2018 r. poz. 141 i 1669);
+- **1)** podmioty, o których mowa w art. 7 ust. 1 pkt 1–6 i 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **2)** Centrum Medycznego Kształcenia Podyplomowego, o którym mowa w ustawie z dnia 13 września 2018 r. o Centrum Medycznego Kształcenia Podyplomowego (Dz. U. z 2024 r. poz. 570 i 1897);
+- **3)** podmioty lecznicze, dla których podmiotem tworzącym jest publiczna uczelnia medyczna albo uczelnia prowadząca działalność dydaktyczną i badawczą w dziedzinie nauk medycznych i nauk o zdrowiu, albo Centrum Medycznego Kształcenia Podyplomowego;
+- **4)** przedsiębiorcy mający status centrum badawczo-rozwojowego w rozumieniu art. 17 ust. 2 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2022 r. poz. 2474);
 - **5)** prowadzące badania naukowe i prace rozwojowe:
     - **a)** jednostki organizacyjne posiadające osobowość prawną i siedzibę na terytorium Rzeczypospolitej Polskiej,
     - **b)** przedsiębiorcy prowadzący działalność w innej formie organizacyjnej niż określone w pkt 3 i 4.
@@ -355,9 +364,11 @@ o Agencji Badań Medycznych
 
 1. Do każdego konkursu Prezes powołuje zespół oceny wniosków, w skład którego wchodzą pracownicy Agencji lub eksperci powołani przez Prezesa.
 
+1a. Eksperci, o których mowa w ust. 1, mogą dokonywać także innych ocen i sporządzać opinie dotyczące realizacji zadań Agencji, o których mowa w art. 15 ust. 1 pkt 1 i 3–6.
+
 2. Eksperci, o których mowa w ust. 1, są powoływani spośród przedstawicieli środowisk naukowych, gospodarczych i finansowych posiadających co najmniej 5-letnie doświadczenie w obszarze, którego dotyczy konkurs.
 
-3. Do prac zespołu oceny wniosków mogą być powoływani eksperci zagraniczni spełniający wymagania, o których mowa w ust. 2.
+3. Do wykonywania czynności, o których mowa w ust. 1 i 1a, mogą być powoływani eksperci zagraniczni spełniający wymagania, o których mowa w ust. 2.
 
 4. Prezes określa liczbę członków zespołu oceny wniosków, biorąc pod uwagę liczbę wniosków złożonych w konkursie.
 
@@ -376,11 +387,20 @@ o Agencji Badań Medycznych
 
 10. Prezes wyłącza członka zespołu oceny wniosków z udziału w pracach zespołu oceny wniosków w przypadku zaistnienia okoliczności, o których mowa w ust. 8.
 
-11. Prezes może zlecić przeprowadzenie zewnętrznego audytu w zakresie prawidłowości i rzetelności wykonywania zadań przez zespół oceny wniosków.
+10a. Ekspert wykonujący czynności, o których mowa w ust. 1a, nie może pozostawać z podmiotem, którego dotyczy przedmiot opinii lub oceny, w:
 
-12. Eksperci, o których mowa w ust. 1 i 3, otrzymują wynagrodzenie w wysokości określonej przez Prezesa.
+- **1)** stosunku służbowym lub innej formie współpracy w okresie sporządzania opinii lub dokonywania oceny i w okresie 3 lat poprzedzających sporządzenie opinii lub dokonanie oceny;
+- **2)** takim stosunku prawnym i faktycznym, że wynik opinii lub oceny może mieć wpływ na jego prawa lub obowiązki.
 
-13. Ekspertom, o których mowa w ust. 1 i 3, zamieszkałym poza miejscowością, w której odbywa się posiedzenie zespołu oceny wniosków, przysługuje zwrot kosztów podróży i noclegu na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+10b. Przed przystąpieniem do wykonywania czynności, o których mowa w ust. 1a, ekspert składa oświadczenie o niezachodzeniu okoliczności, o których mowa w ust. 10a. Przepis ust. 9 zdanie drugie i trzecie stosuje się.
+
+10c. Prezes wyłącza eksperta z udziału w czynnościach, o których mowa w ust. 1a, w przypadku zaistnienia okoliczności, o których mowa w ust. 10a.
+
+11. Prezes może zlecić przeprowadzenie zewnętrznego audytu w zakresie prawidłowości i rzetelności wykonywania zadań przez eksperta lub zespół oceny wniosków.
+
+12. Wysokość wynagrodzenia eksperta, o którym mowa w ust. 1 i 3, określa umowa zawierana z Prezesem. Do zawarcia umowy nie stosuje się przepisów o zamówieniach publicznych, z zastrzeżeniem zapewnienia przejrzystości wyboru ekspertów i równego ich traktowania.
+
+13. Ekspertom, o których mowa w ust. 1 i 3, zamieszkałym poza miejscowością, w której odbywa się posiedzenie zespołu oceny wniosków, przysługuje zwrot kosztów podróży i noclegu na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 19.**
 
@@ -409,9 +429,9 @@ o Agencji Badań Medycznych
 
 7. Prezes może zwiększyć kwotę środków finansowych przeznaczonych na konkurs na każdym etapie jego realizacji przy zachowaniu nieprzekraczalnej kwoty środków na program, o którym mowa w art. 15 ust. 1 pkt 1, lub do kwoty przeznaczonej na zadanie, o którym mowa w art. 15 ust. 2 pkt 2. W wyniku zwiększenia kwoty środków finansowych na dany konkurs Prezes może dokonać aktualizacji listy rankingowej, o której mowa w ust. 1, w zakresie informacji o rekomendowaniu projektu do dofinansowania.
 
-8. Wnioskodawcy od wyników konkursu przysługuje prawo złożenia protestu do Prezesa. Protest jest składany w terminie 14 dni od dnia doręczenia pisma o wynikach konkursu wniosków. Protest składany jest w formie pisemnej. Prezes w terminie 30 dni od dnia otrzymania protestu może go uwzględnić albo odrzucić. W celu rozpatrzenia protestu Prezes może skierować wniosek, którego dotyczy protest, do ponownej oceny przez komisję odwoławczą.
+8. Wnioskodawcy od wyniku konkursu wniosków, którego skutkiem jest nierekomendowanie jego projektu do dofinansowania, przysługuje prawo złożenia protestu do Prezesa. Protest jest składany w terminie 14 dni od dnia doręczenia pisma o wynikach konkursu wniosków. Protest jest składany w formie pisemnej. Prezes w terminie 30 dni od dnia otrzymania protestu może go uwzględnić albo odrzucić. W celu rozpatrzenia protestu Prezes może skierować wniosek, którego dotyczy protest, do ponownej oceny przez komisję odwoławczą.
 
-9. W skład komisji odwoławczej wchodzą pracownicy Agencji lub eksperci inni niż powołani do zespołu oceny wniosków, w ramach którego prowadzona była ocena wniosku, którego dotyczy protest. Przepisy art. 18 ust. 4, 5 i 8–10 stosuje się odpowiednio.
+9. W skład komisji odwoławczej wchodzą pracownicy Agencji lub eksperci inni niż powołani do zespołu oceny wniosków, w ramach którego prowadzona była ocena wniosku, którego dotyczy protest. Przepisy art. 18 ust. 4, 5 i 8–10c stosuje się odpowiednio.
 
 10. Wniesienie protestu nie wstrzymuje zakończenia procedury podpisywania umów na realizację i dofinansowanie projektu.
 
@@ -419,7 +439,9 @@ o Agencji Badań Medycznych
 
 12. W przypadku uwzględnienia protestów przepisy ust. 4–6 stosuje się.
 
-13. Do wyłączenia pracowników Agencji, ekspertów, o których mowa w art. 18 ust. 1 i 3, w zakresie nieuregulowanym ustawą, doręczeń oraz sposobu obliczania terminów w sprawach rozpatrywania protestu stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60) dotyczące wyłączenia pracowników organu, doręczeń i sposobu obliczania terminów.
+13. Do wyłączenia pracowników Agencji, ekspertów, o których mowa w art. 18 ust. 1 i 3, w zakresie nieuregulowanym ustawą, doręczeń oraz sposobu obliczania terminów w sprawach rozpatrywania protestu stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) dotyczące wyłączenia pracowników organu, doręczeń i sposobu obliczania terminów.
+
+**Art. 19a.** Przepisów o konkursie nie stosuje się w przypadku dofinansowywania badań naukowych lub prac rozwojowych podejmowanych przez podmioty, o których mowa w art. 17 ust. 1, w przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, jeżeli badania lub prace te dotyczą metod zwalczania zakażenia lub choroby zakaźnej będącej przyczyną ogłoszenia danego stanu.
 
 **Art. 20.**
 
@@ -432,14 +454,14 @@ o Agencji Badań Medycznych
 - **3)** sposób i tryb sprawowania przez Agencję nadzoru nad wykonaniem projektu;
 - **4)** termin i sposób rozliczenia finansowego projektu;
 - **5)** sposób i zakres końcowej oceny merytorycznej projektu;
-- **6)** sposób i warunki udostępniania i rozpowszechniania efektów projektu, z uwzględnieniem przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637);
+- **6)** sposób i warunki udostępniania i rozpowszechniania efektów projektu, z uwzględnieniem przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233);
 - **7)** tryb kontroli wykonywania projektu;
-- **8)** termin zwrotu niewykorzystanych środków, nie dłuższy niż 30 dni od określonego w umowie dnia zakończenia realizacji projektu, a w przypadku projektu realizowanego za granicą 60 dni od określonego w umowie dnia zakończenia jego realizacji;
+- **8)** termin zwrotu niewykorzystanych środków, nie dłuższy niż 30 dni od określonego w umowie dnia zakończenia realizacji projektu, a w przypadku projektu realizowanego za granicą – 60 dni od określonego w umowie dnia zakończenia jego realizacji;
 - **9)** zakres praw stron do praw autorskich, patentowych i pokrewnych oraz praw własności przemysłowej, w tym sposoby i warunki rozporządzania tymi prawami oraz ich wykorzystania dla celów komercyjnych i do dalszych badań.
 
 **Art. 21.**
 
-1. Agencja prowadzi system teleinformatyczny w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570, z 2018 r. poz. 1000, 1544 i 1669 oraz z 2019 r. poz. 60), zwany dalej „systemem teleinformatycznym”.
+1. Agencja prowadzi system teleinformatyczny w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717), zwany dalej „systemem teleinformatycznym”.
 
 2. System teleinformatyczny zapewnia elektroniczną realizację zadań, o których mowa w art. 15 ust. 1 i 2, w tym składanie wniosków, dokonywanie oceny formalnej i merytorycznej tych wniosków, rozliczanie umów oraz doręczanie pism.
 
@@ -454,7 +476,7 @@ o Agencji Badań Medycznych
 
 6. W przypadku, o którym mowa w ust. 5 pkt 2, środki finansowe na administrowanie systemem teleinformatycznym są przekazywane na podstawie porozumienia, o którym mowa w ust. 5 pkt 2.
 
-7. Prezes jest administratorem danych przetwarzanych w systemie teleinformatycznym.
+7. (uchylony)
 
 **Art. 22.** Nadzór Agencji nad realizacją projektu obejmuje:
 
@@ -469,7 +491,7 @@ o Agencji Badań Medycznych
 - **1)** przeznaczenie pomocy,
 - **2)** rodzaje kosztów kwalifikujących się do objęcia pomocą,
 - **3)** sposób kumulowania pomocy,
-- **4)** maksymalne wielkości pomocy uwzględniając warunki dotyczące dopuszczalnej pomocy publicznej określone w przepisach prawa Unii Europejskiej oraz konieczność zapewnienia efektywnego i skutecznego wykorzystania pomocy publicznej i pomocy de minimis oraz przejrzystości jej udzielania.
+- **4)** maksymalne wielkości pomocy – uwzględniając warunki dotyczące dopuszczalnej pomocy publicznej określone w przepisach prawa Unii Europejskiej oraz konieczność zapewnienia efektywnego i skutecznego wykorzystania pomocy publicznej i pomocy de minimis oraz przejrzystości jej udzielania.
 
 **Art. 25.**
 
@@ -487,7 +509,7 @@ o Agencji Badań Medycznych
 
 2. Roczny plan finansowy Agencji zawiera informacje o:
 
-- **1)** przychodach, w tym dotacjach, o których mowa w art. 28 ust. 1 pkt 1 i 2, oraz odpisie, o którym mowa w art. 28 ust. 1 pkt 3;
+- **1)** przychodach, w tym dotacjach, o których mowa w art. 28 ust. 1 pkt 1–2, oraz odpisie wymienionym w art. 28 ust. 1 pkt 3;
 - **2)** kosztach, w tym wynagrodzeniach pracowników Agencji, jej organów oraz ekspertów, o których mowa w art. 18 ust. 1 i 3, i składkach od nich naliczanych;
 - **3)** płatnościach odsetkowych wynikających z zaciągniętych zobowiązań;
 - **4)** zakupach towarów i usług;
@@ -514,18 +536,23 @@ o Agencji Badań Medycznych
 
 1. Przychodami Agencji są:
 
-- **1)** dotacja celowa na realizację i finansowanie zadań, o których mowa w art. 15 ust. 1 pkt 5 oraz ust. 2 pkt 1–4;
+- **1)** dotacja celowa na realizację i finansowanie zadań, o których mowa w art. 15 ust. 1 pkt 5 i 8 oraz ust. 2 pkt 1–4;
+- **1a)** dotacja celowa na finansowanie lub dofinansowanie kosztów inwestycji związanych z obsługą realizacji zadań określonych w pkt 1;
 - **2)** dotacja podmiotowa na pokrycie bieżących kosztów Agencji związanych z realizacją zadań określonych w ustawie, w tym związanych z realizacją zadań, o których mowa w art. 15 ust. 1 pkt 1–4;
-- **3)** odpis, o którym mowa w art. 97 ust. 3e ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na realizację i finansowanie zadania, o którym mowa w art. 15 ust. 1 pkt 6;
+- **3)** odpis, o którym mowa w art. 97 ust. 3e ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na realizację i finansowanie zadań, o których mowa w art. 15 ust. 1 pkt 5 i 6 oraz ust. 2 pkt 1 i 2;
 - **4)** środki finansowe pochodzące z innych źródeł, w szczególności z:
     - **a)** budżetu Unii Europejskiej,
     - **b)** międzynarodowych programów badawczych,
     - **c)** odsetek od wolnych środków przekazanych w depozyt zgodnie z przepisami o finansach publicznych,
     - **d)** zapisów i darowizn,
     - **e)** działalności gospodarczej,
-    - **f)** komercjalizacji wyników badań naukowych i prac rozwojowych.
+    - **f)** komercjalizacji wyników badań naukowych i prac rozwojowych;
 
-2. Dotacje, o których mowa w ust. 1 pkt 1 i 2, są przekazywane Agencji z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
+- **5)** wnoszone na rachunek bankowy Agencji opłaty, o których mowa w art. 58 ust. 2 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi.
+
+2. Dotacje, o których mowa w ust. 1 pkt 1–2, są przekazywane Agencji z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
+
+2a. Środki pochodzące z odpisu wymienionego w ust. 1 pkt 3 niewykorzystane w danym roku kalendarzowym pozostają w dyspozycji Agencji na lata następne z przeznaczeniem na cel, na jaki zostały przyznane.
 
 3. Kosztami Agencji są koszty:
 
@@ -534,7 +561,8 @@ o Agencji Badań Medycznych
 - **3)** działania Rady;
 - **4)** pozyskiwania danych niezbędnych do realizacji zadań wynikających z ustawy;
 - **5)** inicjowania i realizacji własnych badań naukowych i prac rozwojowych;
-- **6)** prowadzenia systemu teleinformatycznego.
+- **6)** prowadzenia systemu teleinformatycznego;
+- **7)** realizacji inwestycji przez Agencję.
 
 **Art. 29.** Agencja jest uprawniona, za zgodą Prezesa Rady Ministrów oraz ministra właściwego do spraw zdrowia, do tworzenia spółek, obejmowania lub nabywania udziałów w spółkach i akcji spółek mających siedzibę na terytorium Rzeczypospolitej Polskiej lub za granicą, w związku z działalnością badawczą Agencji.
 
@@ -542,7 +570,7 @@ o Agencji Badań Medycznych
 
 1. Agencja może prowadzić działalność gospodarczą, pod warunkiem że:
 
-- **1)** nie jest ona finansowana ze środków, o których mowa w art. 28 ust. 1 pkt 1–3 oraz pkt 4 lit. c;
+- **1)** nie jest ona finansowana ze środków, o których mowa w art. 28 ust. 1 pkt 1– 3 oraz pkt 4 lit. c;
 - **2)** dochód osiągany z jej prowadzenia jest przeznaczany wyłącznie na realizację zadań Agencji.
 
 2. Agencja może prowadzić działalność gospodarczą w zakresie:
@@ -582,7 +610,7 @@ o Agencji Badań Medycznych
 
 2. W ramach nadzoru minister właściwy do spraw zdrowia:
 
-- **1)** może dokonywać kontroli Agencji na zasadach i w trybie określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. poz. 1092);
+- **1)** może dokonywać kontroli Agencji na zasadach i w trybie określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224);
 - **2)** zatwierdza roczne sprawozdanie finansowe Agencji;
 - **3)** akceptuje corocznie podział środków określonych w rocznym planie finansowym Agencji na zadania zlecone i własne oraz zadania realizowane w trybie konkursu;
 - **4)** przyjmuje roczne sprawozdanie z działalności Agencji wraz z informacją o wynikach ewaluacji, o której mowa w art. 23;
@@ -591,20 +619,6 @@ o Agencji Badań Medycznych
 3. Dokumenty, informacje lub wyjaśnienia, o których mowa w ust. 2 pkt 5, przedstawia się w terminie wskazanym w żądaniu, nie później niż w terminie 30 dni od dnia zgłoszenia żądania.
 
 #### Rozdział 6 Przepisy zmieniające
-
-**Art. 34.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 35.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2019 r. poz. 430 i 399) wprowadza się następujące zmiany:
-
-**Art. 36.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 37.** W ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2019 r. poz. 175) wprowadza się następujące zmiany:
-
-**Art. 38.** W ustawie z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2018 r. poz. 1492) w art. 2 pkt 7 otrzymuje brzmienie: „7) inicjowanie i prowadzenie:
-
-**Art. 39.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2018 r. poz. 1182, z późn. zm. ) w art. 3 w ust. 1 po pkt 17 dodaje się pkt 17a w brzmieniu: „17a) Agencja Badań Medycznych;”.
-
-**Art. 40.** W ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, 2024 i 2245 oraz z 2019 r. poz. 276) w art. 7 w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) Agencja Badań Medycznych, działająca na podstawie ustawy z dnia 21 lutego 2019 r. o Agencji Badań Medycznych (Dz. U. poz. 447).”.
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i przepis końcowy
 
@@ -635,18 +649,22 @@ o Agencji Badań Medycznych
 
 1. W 2019 r. dotacje, o których mowa w art. 28 ust. 1 pkt 1 i 2, wynoszą łącznie 50 000 tys. zł i są przeznaczone na pokrycie kosztów utworzenia Agencji, w tym wydatki majątkowe, oraz na pokrycie bieżących kosztów Agencji związanych z realizacją zadań określonych w ustawie.
 
+1a. Dotacja, o której mowa w art. 28 ust. 1 pkt 1a, jest zawarta w rocznych limitach wydatków, o których mowa w ust. 2 pkt 3–10.
+
 2. W latach 2019–2029 maksymalny limit wydatków będących skutkiem finansowym ustawy będzie wynosić:
 
-- **1)** 50 000 tys. zł w 2019 r.;
-- **2)** 366 000 tys. zł w 2020 r.;
-- **3)** 480 000 tys. zł w 2021 r.;
-- **4)** 544 000 tys. zł w 2022 r.;
-- **5)** 609 000 tys. zł w 2023 r.;
-- **6)** 674 000 tys. zł w 2024 r.;
-- **7)** 741 000 tys. zł w 2025 r.;
-- **8)** 808 000 tys. zł w 2026 r.;
-- **9)** 876 000 tys. zł w 2027 r.;
-- **10)** 944 000 tys. zł w 2028 r.
+- **1)** 50 000 tys. zł – w 2019 r.;
+- **2)** 366 000 tys. zł – w 2020 r.;
+- **3)** 480 000 tys. zł – w 2021 r.;
+- **4)** 544 000 tys. zł – w 2022 r.;
+- **5)** 953 405 tys. zł – w 2023 r.;
+- **6)** 1 260 923 tys. zł – w 2024 r.;
+- **7)** 1 354 937 tys. zł – w 2025 r.;
+- **8)** 1 361 460 tys. zł – w 2026 r.;
+- **9)** 1 421 731 tys. zł – w 2027 r.;
+- **10)** 1 478 300 tys. zł – w 2028 r.
+
+2a. Limity wydatków, o których mowa w ust. 2 pkt 3–10, podwyższa się o środki niewykorzystane z lat ubiegłych pochodzące z odpisu wymienionego w art. 28 ust. 1 pkt 3.
 
 3. W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 2, zostanie zastosowany mechanizm korygujący polegający na zaprzestaniu realizacji przez Agencję nowych zadań wynikających z ustawy oraz na zmniejszeniu kosztów rzeczowych ponoszonych przez Agencję, związanych z realizacją zadań wynikających z ustawy.
 
@@ -655,5 +673,5 @@ o Agencji Badań Medycznych
 - **1)** monitorowanie wykorzystania wydatków, o których mowa w ust. 2, jest minister właściwy do spraw zdrowia;
 - **2)** wdrożenie mechanizmu korygującego, o którym mowa w ust. 3, jest Prezes.
 
-**Art. 46.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 46.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

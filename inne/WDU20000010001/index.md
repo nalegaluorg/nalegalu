@@ -8,6 +8,7 @@ pos: 1
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # o narodowym spisie powszechnym ludności i mieszkań w 2002 r.

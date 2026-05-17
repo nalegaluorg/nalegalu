@@ -8,9 +8,12 @@ pos: 4
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+
+*USTAWA dnia 19 grudnia 2008 o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090010004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/4/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. 98, poz. 1070, z póên. zm. ) wprowadza się następujące zmiany: wart. 55 uchyla się § 2a;
+**Art. 1.** W ustawie dnia 27 lipca 2001 – Prawo o ustroju sądów powszechnych (Dz. U. 2001 98, 1070, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z2008 r. 7, poz. 39) wprowadza się następujące zmiany: wart. 6ust. 1otrzymuje brzmienie: Ń1. Prokuratorami powszechnych jednostek organizacyjnych prokuratury są prokuratorzy Prokuratury Krajowej, prokuratur apelacyjnych, okręgowych irejonowych.”;
+**Art. 3.** W ustawie dnia 27 lipca 2001 o Krajowej Radzie Sądownictwa (Dz. U. 2001 100, 1082, późn. zm. ) uchyla się art. 2b.
 
-**Art. 5.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+**Art. 4.** Z dniem wejścia w życie niniejszej ustawy: jonowym sędziego sądu apelacyjnego w sądzie okręgowym stają się, odpowiednio, sędziami sądów rejonowych sędziami sądów okręgowych, które stanowią ich miejsce służbowe, zachowując prawo wynagrodzenia nabyte podstawie ustawy dnia 29 czerwca 2007 o zmianie ustawy – Prawo o ustroju sądów powszechnych niektórych innych ustaw (Dz. U. 136, 959);
+
+**Art. 5.** Ustawa wchodzi w życie upływie 14 dni od dnia ogłoszenia.
 

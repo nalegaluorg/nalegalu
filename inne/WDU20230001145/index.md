@@ -8,9 +8,12 @@ pos: 1145
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 czerwca 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy grupach producentów rolnych i ich związkach oraz zmianie innych ustaw Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2000 r. grupach producentów rolnych i ich związkach oraz zmianie innych ustaw (Dz. U. z 2022 r. poz. 395), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 maja 2023 r.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1145/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 maja 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy grupach producentów rolnych i ich związkach oraz zmianie innych ustaw Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2000 r. grupach producentów rolnych i ich związkach oraz zmianie innych ustaw (Dz. U. z 2022 r. poz. 395), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 maja 2023 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 154–156 i 169 ustawy z dnia 8 lutego 2023 r. Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), które stanowią: „Art. 154. Do postępowań sprawach określonych 7 ust. 1 1 ustawy zmienianej 122, wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia życie niniejszej stosuje się przepisy ustawy zmienianej brzmieniu nadanym niniejszą ustawą.
 Art. Ustawa określa zasady organizowania się producentów rolnych grupy producentów rolnych i ich związki.
 Art. 25–28. (pominięte)
@@ -88,7 +89,7 @@ Art. 25–28. (pominięte)
 
 **Art. 16.** Prezes Agencji wydaje decyzję uznaniu związku, jeżeli spełnia on warunki określone 14 i 15, i dokonuje wpisu związku do rejestru związków. 1a. W przypadku niespełniania wnioskodawcę warunków określonych 14 i 15 Prezes Agencji wydaje decyzję odmowie:
 
-**Art. 17.** Nadzór nad działalnością związków sprawuje Prezes Agencji. 2. Prezes Agencji ramach sprawowanego nadzoru przeprowadza kontrole zakresie spełniania związek warunków określonych 14 i 15. 3. Kontrole, których ust. 2, przeprowadza się co najmniej raz na 2 lata, licząc od dnia wydania decyzji, 16. 4. Do przeprowadzenia kontroli, których ust. 2, stosuje się odpowiednio przepisy 12 ust. 3–11. 5. Prezes Agencji przypadku gdy związek przestał spełniać co najmniej jeden z warunków uznania określonych 14 lub 15, wzywa związek na piśmie do spełnienia brakujących warunków oraz, biorąc pod uwagę ich rodzaj, określa termin na ich spełnienie nie dłuższy niż 12 miesięcy, licząc od początku roku działalności związku następującego po roku, którym wezwano związek do spełnienia tych warunków. 6. (uchylony) 7. (uchylony) informuje na piśmie Prezesa Agencji spełnieniu brakujących warunków i przedkłada dokumenty potwierdzające ich spełnienie albo kopie tych dokumentów potwierdzone tę osobę za zgodność z oryginałem. 9. Prezes Agencji przypadku gdy związek:
+**Art. 17.** Nadzór nad działalnością związków sprawuje Prezes Agencji. 2. Prezes Agencji ramach sprawowanego nadzoru przeprowadza kontrole zakresie spełniania związek warunków określonych 14 i 15. 3. Kontrole, których ust. 2, przeprowadza się co najmniej raz na 2 lata, licząc od dnia wydania decyzji, 16. 4. Do przeprowadzenia kontroli, których ust. 2, stosuje się odpowiednio przepisy 12 ust. 3–11. 5. Prezes Agencji przypadku gdy związek przestał spełniać co najmniej jeden z warunków uznania określonych 14 lub 15, wzywa związek na piśmie do spełnienia brakujących warunków oraz, biorąc pod uwagę ich rodzaj, określa termin na ich spełnienie nie dłuższy niż 12 miesięcy, licząc od początku roku działalności związku następującego po roku, którym wezwano związek do spełnienia tych warunków. 6. (uchylony) 7. (uchylony) albo kopie tych dokumentów potwierdzone tę osobę za zgodność z oryginałem. 9. Prezes Agencji przypadku gdy związek:
 
 **Art. 17a.** Związek składa Prezesowi Agencji na piśmie sprawozdanie z realizacji celów wybranych spośród celów, których 14, terminie 3 miesięcy od dnia zakończenia każdego roku jego działalności. 1a. Prezes Agencji przypadku gdy związek nie wypełnia obowiązku, którym ust. 1, wzywa związek na piśmie do wypełnienia tego obowiązku terminie 14 dni od dnia otrzymania związek wezwania. 2. Prezes Agencji przekazuje zbiorcze zestawienie informacji, których ust. 1, ministrowi właściwemu do spraw rynków rolnych.
 

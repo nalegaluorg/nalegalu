@@ -1,0 +1,113 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 grudnia 2017 r. w sprawie wprowadzenia programu wczesnego wykrywania występowania zakażeń wirusem klasycznego pomoru świń na lata 2018-2020"
+address: WDU20180000033
+eli: DU/2018/33
+publisher: DU
+year: 2018
+pos: 33
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 stycznia 2018 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 33 |
+| ISAP | WDU20180000033 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2017-12-18 |
+| Data wydania | 2018-01-05 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000033) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/33/text.pdf) |
+
+PROGRAM WCZESNEGO WYKRYWANIA WYSTĘPOWANIA ZAKAŻEŃ WIRUSEM KLASYCZNEGO POMORU ŚWIŃ NA LATA 2018–2020
+1. Identyfikacja programu wczesnego wykrywania występowania zakażeń wirusem klasycznego pomoru świń na lata 2018–2020 Państwo członkowskie: Rzeczpospolita Polska Choroba: klasyczny pomór świń (Clasical swine fever - CSF, Hog cholera) Okres realizacji: 1 stycznia 2018 r. 31 grudnia 2020 r.
+2. Dane historyczne dotyczące rozwoju epidemiologicznego klasycznego pomoru świń Klasyczny pomór świń (Clasical swine fever - CSF, Hog cholera), zwany dalej „CSF”, nie występuje na terytorium Rzeczypospolitej Polskiej od 1994 r.
+Przed 1994 r. zanotowano w Polsce na przestrzeni 20 lat następujące przypadki CSF:
+1) w latach 1973–1977 od kilku do maksymalnie dwudziestu ognisk choroby miesięcznie;
+2) w 1978 r. 1 ognisko (marzec);
+3) w 1989 r. 1 ognisko (grudzień);
+4) w 1992 r. 2 ogniska (kwiecień) i 7 ognisk (październik);
+5) w 1993 r. 3 ogniska (grudzień).
+W 1994 r. odnotowano 8 ognisk CSF na terytorium Rzeczypospolitej Polskiej, na obszarach obecnego województwa lubuskiego, wielkopolskiego, podlaskiego i lubelskiego.
+Ostatni przypadek choroby został wykryty we wrześniu 1994 r.
+W maju 2016 r. Światowa Organizacja Zdrowia Zwierząt (OIE) uznała Rzeczpospolitą Polską za kraj oficjalnie wolny od tej choroby.
+W celu potwierdzenia niewystępowania CSF na terytorium Rzeczypospolitej Polskiej są prowadzone badania kontrolne w kierunku tej choroby w populacji świń oraz dzików na podstawie rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 grudnia 2004 r. w sprawie określenia jednostek chorobowych, sposobu prowadzenia kontroli oraz zakresu badań kontrolnych zakażeń zwierząt (Dz. U. poz. 2813, z późn. zm.).
+W ramach badań kontrolnych nie stwierdzono występowania CSF na terytorium Rzeczypospolitej Polskiej.
+3. Opis programu wczesnego wykrywania występowania zakażeń wirusem klasycznego pomoru świń na lata 2018–2020 Program wczesnego wykrywania występowania zakażeń wirusem klasycznego pomoru świń na lata 2018 2020, zwany dalej „programem”, przewiduje badania kontrolne, których podstawowym celem jest wczesne wykrycie CSF w populacji świń lub dzików na terytorium Rzeczypospolitej Polskiej. Wczesne wykrycie CSF pozwoli natomiast na podjęcie szybkich działań mających na celu zwalczenie tej choroby i niedopuszczenie do jej rozprzestrzenienia na terytorium Rzeczypospolitej Polskiej i na inne państwa Unii Europejskiej.
+Powodem wdrożenia programu jest niekorzystny rozwój sytuacji epizootycznej związanej z CSF w państwach graniczących od wschodu z Rzeczpospolitą Polską, a tym samym z Unią Europejską.
+Program będzie realizowany w latach 2018–2020.
+Zgodnie z art. 41 ust. 1 pkt 1 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2017 r. poz. 1855), CSF należy do chorób zakaźnych zwierząt podlegających obowiązkowi zwalczania na terytorium Rzeczypospolitej Polskiej.
+Zgodnie z art. 57 ust. 7 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, na terytorium Rzeczypospolitej Polskiej program jest wprowadzany w drodze rozporządzenia ministra właściwego do spraw rolnictwa, po jego zatwierdzeniu przez Komisję Europejską.
+Szacowane ogólne koszty realizacji programu na terytorium Rzeczypospolitej Polskiej wyniosą w 2018 r. 755 806,53 zł (177 857,64 euro), w 2019 r. 755 806,53 zł (177 857,64 euro), a w 2020 r. 755 806,53 zł (177 857,64 euro). Są to zarazem koszty kwalifikowalne, o które Rzeczypospolita Polska będzie występowała do Komisji Europejskiej z wnioskiem o współfinansowanie ze środków Unii Europejskiej w każdym roku realizacji programu.
+Wszystkie szacunkowe koszty programu zostaną dostosowane do wielkości wydatków przewidzianych na zwalczanie chorób zakaźnych zwierząt w ustawach budżetowych na lata 2018–2020, w ramach limitu wydatków budżetowej części 83 rezerwy celowe oraz w części 85 budżety wojewodów.
+Szacunkowe koszty realizacji programu w latach 2018–2020, wyrażone w złotych zostały przeliczone na euro według prognozowanego kursu euro zawartego w wytycznych Ministra Finansów dotyczących stosowania jednolitych wskaźników makroekonomicznych będących podstawą oszacowania skutków finansowych projektowanych ustaw aktualizacja październik 2017 r.
+Finansowanie programu odbywa się ze środków budżetowych określonych w części 83 rezerwy celowe, działu 758 różne rozliczenia, rozdziału 75818 rezerwy ogólne i celowe poz. 12, przeznaczonej na zwalczanie chorób zakaźnych zwierząt, w tym finansowania programów zwalczania tych chorób, badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt, produktach pochodzenia zwierzęcego i paszach, finansowanie zadań zleconych przez Komisję Europejską oraz na dofinansowanie kosztów realizacji zadań Inspekcji Weterynaryjnej, a także w części 85 budżety wojewodów działu 010 rolnictwo i łowiectwo, rozdziału 01022 zwalczanie chorób zakaźnych zwierząt oraz badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt i produktach pochodzenia zwierzęcego ustaw budżetowych na lata 2018–2020.
+3.1. Cel programu Podstawowym celem programu jest wczesne wykrycie CSF w populacji świń lub dzików na terytorium Rzeczypospolitej Polskiej. Program obejmuje działania mające na celu wykrycie wirusa CSF, tj. badania laboratoryjne w kierunku CSF przeprowadzane na terytorium Rzeczypospolitej Polskiej w ramach tzw. monitoringu biernego.
+Monitoring bierny w rozumieniu programu polega na pobieraniu próbek do badań laboratoryjnych w kierunku wykrycia CSF od wszystkich padłych dzików zgodnie z § 4 ust. 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 grudnia 2004 r. w sprawie określenia jednostek chorobowych, sposobu prowadzenia kontroli oraz zakresu badań kontrolnych zakażeń zwierząt, odstrzelonych chorych dzików oraz świń padłych lub żywych w przypadku podejrzenia ewentualnego wystąpienia CSF u tych zwierząt, na zasadach określonych w programie.
+3.2. Realizacja programu
+3.2.1. Podział terytorium Rzeczypospolitej Polskiej na obszary według kryterium zagrożenia wystąpieniem wirusa CSF Z uwagi na niejasną sytuację epizootyczną w odniesieniu do CSF w państwach trzecich graniczących od wschodu z Rzeczpospolitą Polską, na terytorium Rzeczypospolitej Polskiej wyznacza się 2 strefy w zależności od ryzyka wystąpienia CSF:
+1) strefa pierwsza o zwiększonym ryzyku wystąpienia CSF obejmuje województwa graniczące od wschodu z państwami trzecimi, na których terytorium sytuacja dotycząca CSF nie jest do końca rozpoznana, tj. województwo lubelskie, mazowieckie, podkarpackie, podlaskie oraz warmińsko-mazurskie;
+2) strefa druga o niskim ryzyku wystąpienia CSF obejmuje pozostałe województwa na terytorium Rzeczypospolitej Polskiej.
+3.2.2. Kontrola stanu zdrowia świń i pobieranie próbek na obszarach wyznaczonych zgodnie z ust. 3.2.1 W przypadku zgłoszenia podejrzenia wystąpienia CSF do powiatowego lekarza weterynarii, zgodnie z art. 42 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, niezależnie od strefy, o której mowa w ust. 3.2.1, powiatowy lekarz weterynarii pobiera do badań laboratoryjnych w kierunku wykrycia CSF próbki od świń:
+1) padłych, u których nie można wykluczyć CSF,
+2) wykazujących nietypowe objawy kliniczne, na podstawie których nie można wykluczyć CSF, lub objawy wskazujące na zakażenie wirusem CSF, w tym w szczególności:
+a) gorączkę ze zwiększoną zachorowalnością i śmiertelnością świń w stadzie lub
+b) gorączkę i objawy zespołu krwotocznego lub
+c) gorączkę i objawy neurologiczne.
+Przed pobraniem próbek do badań laboratoryjnych w kierunku wykrycia CSF powiatowy lekarz weterynarii przeprowadza kontrolę stanu zdrowia świń w stadzie, w tym badanie kliniczne świń, i pobiera próbki do badań laboratoryjnych w kierunku wykrycia CSF od świń mających objawy chorobowe i gorączkę lub od świń padłych. W trakcie wystąpienia CSF w stadzie świń zachorowalność zwierząt wynosi do 100% (choroba wysoce zaraźliwa), natomiast śmiertelność w zależności od zjadliwości wirusa wynosi 80–100% pogłowia w stadzie przy wysokiej zjadliwości wirusa, oraz do 30–40% pogłowia w stadzie przy małej zjadliwości wirusa. Największa śmiertelność występuje wśród prosiąt oraz warchlaków.
+Szczegółowe zasady dotyczące uznania stada za podejrzane o wystąpienie CSF, przeprowadzania badania klinicznego zwierząt oraz pobierania próbek do badań laboratoryjnych w kierunku wykrycia CSF w tym stadzie w celu potwierdzenia lub wykluczenia CSF zostały określone w rozdziale III oraz IV lit. A załącznika do decyzji Komisji 2002/106/WE z dnia 1 lutego 2002 r. zatwierdzającej Podręcznik diagnostyczny ustanawiający procedury diagnostyczne, metody pobierania próbek oraz kryteria oceny wyników badań laboratoryjnych w celu potwierdzenia klasycznego pomoru świń (Dz. Urz.
+WE L 39 z 09.02.2002, str. 71 Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 35, str.
+139).
+Na obszarze strefy pierwszej, o której mowa w ust. 3.2.1, powiatowy lekarz weterynarii pobiera próbki do badań laboratoryjnych w kierunku wykrycia CSF od każdego dzika:
+1) padłego, w tym zabitego w wypadku komunikacyjnym, oraz którego zwłoki uległy autolizie;
+2) chorego odstrzelonego.
+Na obszarze strefy drugiej, o której mowa w ust. 3.2.1, powiatowy lekarz weterynarii pobiera próbki do badań laboratoryjnych w kierunku wykrycia CSF od każdego padłego dzika, z wyjątkiem dzika zabitego w wypadku komunikacyjnym, którego zwłoki uległy autolizie.
+Próbki do badań pobiera się na obszarach wszystkich powiatów. Tam, gdzie jest to możliwe pobieranie i badanie próbek w kierunku wykrycia CSF powinno być powiązane z pobieraniem i badaniem próbek w kierunku wykrycia ASF.
+Ponadto, niezależnie od realizacji programu, na terytorium Rzeczypospolitej Polskiej badaniu w kierunku wykrycia CSF podlegają świnie żywe oraz dziki odstrzelone, na zasadach określonych w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 grudnia 2004 r. w sprawie określenia jednostek chorobowych, sposobu prowadzenia kontroli oraz zakresu badań kontrolnych zakażeń zwierząt. Badania te nie są współfinansowane ze środków Unii Europejskiej.
+3.2.3. Rodzaj próbek pobieranych do badań laboratoryjnych w kierunku wykrycia CSF, przesyłanie próbek do badań laboratoryjnych w kierunku wykrycia CSF oraz wykonywanie badań laboratoryjnych Rodzaje pobieranych próbek do badań laboratoryjnych w kierunku wykrycia CSF, przesyłanie próbek do laboratorium oraz wykonywanie badań diagnostycznych w kierunku CSF w ramach programu jest określone w rozdziale V, VI i VII załącznika do decyzji Komisji 2002/106/WE z dnia 1 lutego 2002 r. zatwierdzającej Podręcznik diagnostyczny ustanawiający procedury diagnostyczne, metody pobierania próbek oraz kryteria oceny wyników badań laboratoryjnych w celu potwierdzenia klasycznego pomoru świń.
+Od żywych świń oraz odstrzelonych chorych dzików do badań laboratoryjnych w kierunku wykrycia CSF pobiera się próbki krwi. Od padłych świń i dzików do badań laboratoryjnych w kierunku CSF pobiera się próbki tkanek z migdałków, węzłów chłonnych lub śledziony. W przypadku dzików, których zwłoki uległy autolizie, do badań laboratoryjnych pobiera się kość długą lub mostek.
+Próbki pobrane od świń lub dzików bada się metodą PCR, a gdy wynik badania laboratoryjnego w kierunku wykrycia CSF przeprowadzonego metodą PCR jest dodatni przeprowadza się również badanie metodą ELISA.
+Wszystkie badania laboratoryjne w kierunku wykrycia CSF przeprowadzane w ramach programu są wykonywane w laboratoriach wyznaczonych przez Głównego Lekarza Weterynarii, zgodnie z art. 25 ust. 3 i 5 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2016 r. poz. 1077, z poźn. zm.).
+4. Środki przewidziane programem
+4.1. Podsumowanie środków przewidzianych programem Działania podejmowane w związku z realizacją programu Lata 2018–2020  kontrola, nadzór  badania
+4.2. Władza centralna odpowiedzialna za nadzór nad realizacją programu i koordynację realizacji programu Zgodnie z ustawą z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej Inspekcja wykonuje swoje zadania m.in. przez wykonywanie badań kontrolnych zakażeń zwierząt.
+Zgodnie z art. 57 ust. 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, Główny Lekarz Weterynarii nadzoruje realizację programu. W przypadku programu współfinansowanego ze środków Unii Europejskiej, informuje Komisję Europejską o postępach w jego realizacji zgodnie z przepisami dotyczacymi zwalczania chorób zakaźnych zwierząt obowiązującymi w Unii Europejskiej.
+4.3. Opis i określenie obszarów geograficznych i administracyjnych, na których program będzie realizowany Program wprowadza się na terytorium Rzeczypospolitej Polskiej. Program jest realizowany na obszarze 16 województw obejmujących 314 powiatów oraz 66 miast na prawach powiatów.
+Mapa 1. Podział administracyjny Rzeczypospolitej Polskiej Program wprowadza podział terytorium Rzeczypospolitej Polskiej na strefę pierwszą oraz drugą, w zależności od ryzyka wystąpienia CSF w tej strefie, zgodnie z poniższą mapą.
+Mapa 2. Podział terytorium Rzeczypospolitej Polskiej na strefy w zależności od ryzyka wystąpienia CSF
+4.4. Opis środków przewidzianych w programie
+4.4.1. Powiadomienie o podejrzeniu wystąpienia CSF Zgodnie z art. 42 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w przypadku podejrzenia wystąpienia choroby zakaźnej zwierząt, posiadacz zwierząt jest obowiązany do niezwłocznego zgłoszenia podejrzenia wystąpienia CSF. Obowiązek ten realizują również osoby mające kontakt ze zwierzętami, w szczególności przy wykonywaniu obowiązków służbowych lub zawodowych, z tym że lekarz weterynarii wezwany do zwierzęcia, w przypadku podejrzenia wystąpienia choroby zakaźnej zwierząt podlegającej obowiązkowi zwalczania, informuje posiadacza zwierzęcia o obowiązkach określonych w art. 42 ust. 1 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt i nadzoruje ich wykonanie do czasu przybycia powiatowego lekarza weterynarii lub osoby przez niego upoważnionej. Zgłoszenia należy dokonać do powiatowego lekarza weterynarii bezpośrednio albo za pośrednictwem najbliższego podmiotu świadczącego usługi z zakresu medycyny weterynaryjnej lub właściwego miejscowo organu samorządu terytorialnego (wójta, burmistrza, prezydenta miasta).
+Dodatkowo, posiadacz świni informuje urzędowego lekarza weterynarii o każdym przypadku padnięcia świni w gospodarstwie na obszarze zagrożenia, obszarze objętym ograniczeniami lub obszarze ochronnym, zgodnie z § 18 ust. 2 rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2015 r. w sprawie środków podejmowanych w związku z wystąpieniem afrykańskiego pomoru świń (Dz. U. poz. 711, z późn. zm.).
+Zgodnie z danymi Polskiego Związku Łowieckiego, w roku łowieckim 2015/2016 liczba dzików na terytorium Rzeczypospolitej Polskiej wynosiła około 229 000 sztuk. Liczbę dzików w poszczególnych województwach przedstawia tabela 2.
+Tabela 2. Liczba dzików w poszczególnych województwach (źródło: Polski Związek Łowiecki, stan marzec 2016 r.) Województwo Pogłowie dzików dolnośląskie 20 448 kujawsko-pomorskie 11 931 lubelskie 12 694 lubuskie 16 110 łódzkie 7970 małopolskie 4889 mazowieckie 17 808 opolskie 8878 podkarpackie 8670 podlaskie 6677 pomorskie 17 942 śląskie 8734 świętokrzyskie 5391 warmińsko-mazurskie 21 590 wielkopolskie 25 075 zachodniopomorskie 962 W sumie 228 769
+4.4.3. Identyfikacja i rejestracja zwierząt oraz gospodarstw Podstawa prawna identyfikacji i rejestracji zwierząt oraz gospodarstw:
+1) ustawa z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U.
+z 2017 r. poz. 546);
+2) ustawa z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2017 r.
+poz. 1853);
+3) rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 listopada 2007 r.
+w sprawie sposobu oznakowania bydła, owiec i kóz oraz świń, określenia wzorów znaków identyfikacyjnych oraz wymagań i warunków technicznych kolczyków dla zwierząt gospodarskich (Dz. U. poz. 1635, z późn. zm.).
+Numerem identyfikacyjnym świni jest numer siedziby stada, w której zwierzę się urodziło, albo innej siedziby stada, w której zwierzę przebywało powyżej 30 dni. W dokumentacji dotyczącej świń (np. w świadectwie zdrowia) stosuje się numer ostatniej siedziby stada, w której świnia przebywała powyżej 30 dni i została w tej siedzibie stada oznakowana.
+W przypadku świń urodzonych w danej siedzibie stada, istnieje obowiązek oznakowania tych zwierząt w terminie 30 dni od dnia ich urodzenia, przez założenie na lewą małżowinę uszną kolczyka zawierającego numer siedziby stada urodzenia. Fakt oznakowania świń należy zgłosić w terminie 7 dni od dnia dokonania oznakowania kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+W przypadku gdy świnia została przemieszczona do innej siedziby stada niż siedziba stada urodzenia i przebywa w tej siedzibie dłużej niż 30 dni, istnieje obowiązek dodatkowego oznakowania świni tatuażem zawierającym numer tej siedziby stada. Oznakowanie tatuażem musi być wykonane nie później niż przed opuszczeniem przez tę świnię siedziby stada. Fakt dodatkowego oznakowania należy zgłosić kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa w terminie 7 dni od dnia dokonania oznakowania.
+Zgodnie z art. 17 ust. 4 ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt, koszty związane z oznakowaniem świń ponosi ich posiadacz.
+Dodatkowo, świnie poddawane ocenie wartości użytkowej i hodowlanej zwierząt, zgodnie z przepisami o organizacji hodowli i rozrodzie zwierząt gospodarskich, są oznakowane w sposób umożliwiających ich identyfikację. Sposób oznakowania i identyfikacji do celów hodowlanych, w tym świń, określa związek hodowców lub inny podmiot upoważniony przez ministra właściwego do spraw rolnictwa do prowadzenia oceny wartości użytkowej. Świnie do celów hodowlanych znakuje się trwale i indywidualnie, używając kolczyków, identyfikatorów elektronicznych i znaków identyfikacyjnych lub stosując tatuaż.
+4.4.4. Kwalifikacja zwierząt i stad Została opisana w ust. 3.2.
+4.4.5. Zasady przemieszczania zwierząt Zgodnie z rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2015 r. w sprawie środków podejmowanych w związku z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej istnieje obowiązek zaopatrywania świń przemieszczanych w obrocie krajowym w świadectwo zdrowia wystawione przez urzędowego lekarza weterynarii na podstawie badania klinicznego świń przeprowadzonego nie wcześniej niż 24 godziny przed przemieszczeniem tych świń.
+Zgodnie z art. 3 ust. 2 pkt 5 lit. b ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, nadzór nad przemieszczaniem zwierząt sprawuje powiatowy lekarz weterynarii.
+4.4.6. Zastosowane badania i plany pobierania próbek do badań laboratoryjnych
+4.4.7. Zastosowanie szczepionki i plany szczepień Nie dotyczy.
+4.4.8. Informacje i ocena dotycząca środków bezpieczeństwa biologicznego (zarządzanie i infrastruktura) Wymagania weterynaryjne, w tym wymagania bioasekuracji, dla gospodarstw utrzymujących świnie umieszczane na rynku określa rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 września 2003 r. w sprawie szczegółowych warunków weterynaryjnych, jakie muszą spełniać gospodarstwa w przypadku, gdy zwierzęta lub środki spożywcze pochodzenia zwierzęcego pochodzące z tych gospodarstw są wprowadzane na rynek (Dz. U. poz. 1643).
+Ponadto, na obszarach objętych ograniczeniami w związku z występowaniem ASF obowiązują środki bioasekuracji określone w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 3 kwietnia 2015 r. w sprawie wprowadzenia „Programu bioasekuracji mającego na celu zapobieganie szerzeniu się afrykańskiego pomoru świń” na lata 2015–2018 (Dz. U. poz. 517, z późn. zm.).
+4.4.9. Środki podejmowane w przypadku uzyskania dodatniego wyniku badania laboratoryjnego w kierunku CSF W przypadku uzyskania dodatniego wyniku badania laboratoryjnego w kierunku CSF powiatowy lekarz weterynarii podejmuje działania określone w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 grudnia 2006 r. w sprawie zwalczania klasycznego pomoru świń (Dz. U. z 2007 r. poz. 17).
+4.4.10. System odszkodowań dla posiadaczy świń poddanych ubojowi lub zabitych Odszkodowania wypłaca się na podstawie art. 57c zgodnie z art. 49 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
+4.4.11. Kontrola realizacji programu i sprawozdawczość Na podstawie art. 57 ust. 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, Główny Lekarz Weterynarii nadzoruje realizację programu.
+W przypadku programu współfinansowanego ze środków Unii Europejskiej, Główny Lekarz Weterynarii informuje Komisję Europejską o postępach w jego realizacji, zgodnie z art. 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 652/2014 z dnia 15 maja 2014 r.
+ustanawiającego przepisy w zakresie zarządzania wydatkami odnoszącymi się do łańcucha żywnościowego, zdrowia zwierząt i dobrostanu zwierząt oraz dotyczącymi zdrowia roślin i materiału przeznaczonego do reprodukcji roślin, zmieniającego dyrektywy Rady 98/56/WE, 2000/29/WE i 2008/90/WE, rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 178/2002, (WE) nr 882/2004 i (WE) nr 396/2005, dyrektywę Parlamentu Europejskiego i Rady 2009/128/WE i rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1107/2009 oraz uchylającego decyzje Rady 66/399/EWG, 76/894/EWG i 2009/470/WE (Dz. Urz. UE L 189 z 27.06.2014, str. 1, z późn. zm.).
+

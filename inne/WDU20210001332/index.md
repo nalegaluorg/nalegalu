@@ -1,0 +1,184 @@
+---
+title: "Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 1 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej"
+address: WDU20210001332
+eli: DU/2021/1332
+publisher: DU
+year: 2021
+pos: 1332
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lipca 2021 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 1332 |
+| ISAP | WDU20210001332 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2021-07-01 |
+| Data wydania | 2021-07-21 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001332) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1332/text.pdf) |
+
+OBWIESZCZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ dnia 1 lipca 2021 r.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej
+1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. 2019 r. 1461) ogłasza się w załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów dnia 6 lutego 2018 r. w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej (Dz. 358), uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej dnia 23 listopada 2020 r. zmieniającym rozporządzenie w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej (Dz.
+2088).
+2. Podany w załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej dnia 23 listopada 2020 r. zmieniającego rozporządzenie w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej (Dz. 2088), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński ROZPORZĄDZENIE MINISTRA FINANSÓW dnia 6 lutego 2018 r.
+w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej Na podstawie art. 89 ust. 1 pkt 4 ustawy dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz.
+2021 r. 422, późn. zm. ) zarządza się, co następuje:
+1) warunki i sposób rekrutacji kandydatów na przewodników psów służbowych, zwanych dalej „kandydatami”;
+2) warunki hodowli, nabywania, szkolenia, wykorzystywania, żywienia, pielęgnacji i utrzymania psów służbowych, zwanych dalej „psami”, oraz pielęgnacji i utrzymania psów po wycofaniu ze służby.
+§ 3. 1. Komisję regionalną powołuje dyrektor izby administracji skarbowej.
+2. W skład komisji regionalnej wchodzi:
+1) przewodniczący komisji naczelnik urzędu celno-skarbowego albo zastępca naczelnika urzędu celno-skarbowego;
+2) dwóch członków, w tym funkcjonariusz Służby Celno-Skarbowej, zwany dalej „funkcjonariuszem”, albo pracownik izby administracji skarbowej, posiadający wiedzę i doświadczenie w zakresie hodowli, szkolenia, opieki i wykorzystania psów w służbie.
+§ 4. 1. Komisję centralną powołuje Szef Krajowej Administracji Skarbowej.
+2. W skład komisji centralnej wchodzą:
+1) przewodniczący komisji pracownik komórki organizacyjnej w urzędzie obsługującym ministra właściwego spraw finansów publicznych nadzorującej szkolenia przewodników psów albo wykonywanie kontroli celno-skarbowej użyciem psów albo funkcjonariusz pełniący służbę w tej komórce organizacyjnej;
+2) pracownik izby administracji skarbowej albo funkcjonariusz pełniący służbę w tej izbie, posiadający tytuł magistra psychologii;
+3) instruktor albo trener, posiadający uprawnienia prowadzenia szkoleń dla przewodników psów, będący pracownikiem izby administracji skarbowej albo funkcjonariuszem pełniącym służbę w tej izbie.
+§ 5. 1. Kandydatem może być funkcjonariusz mianowany służby stałej, który:
+1) uzyskał w ostatniej ocenie okresowej pozytywną ocenę albo opinię służbową oraz przeciwko któremu nie jest prowadzone postępowanie dyscyplinarne;
+2) nie został zawieszony w pełnieniu obowiązków służbowych;
+3) nie ma przeciwwskazań zdrowotnych pełnienia funkcji przewodnika psa;
+o przystąpienie rekrutacji.
+2. Do wniosku o przystąpienie rekrutacji należy dołączyć dokumenty poświadczające spełnienie warunków, o których mowa w ust. 1 pkt 1–4, w tym zaświadczenie lekarskie o braku przeciwwskazań zdrowotnych pełnienia funkcji przewodnika psa.
+3. W przypadku gdy wniosek jest składany w postaci elektronicznej, dokumenty poświadczające spełnienie warunków, o których mowa w ust. 1 pkt 1–4, mogą być złożone, po ich opatrzeniu podpisem wnioskodawcy, w postaci ich cyfrowych odwzorowań.
+4. Komisja regionalna weryfikuje spełnienie przez kandydata warunków określonych w ust. 1.
+§ 6. 1. Komisja regionalna ocenia kandydata, przyznając:
+1) 0–7 pkt za motywację pełnienia służby psem, w tym 0 pkt za brak motywacji pełnienia służby psem, 7 pkt za bardzo wysoki poziom tej motywacji;
+2) 0–2 pkt za warunki mieszkaniowe pozwalające zachować dobrą kondycję psa oraz zapewniające jego bezpieczeństwo, przy czym 0 pkt za brak samodzielnego lokalu mieszkalnego, 1 pkt za mieszkanie w domu wielorodzinnym, w tym w bloku mieszkalnym, 2 pkt za zamieszkiwanie w domu jednorodzinnym;
+3) 0–2 pkt za doświadczenie związane kontrolą towarów, w tym 0 pkt za brak doświadczenia związanego kontrolą towarów, 2 pkt za posiadanie co najmniej dwuletniego takiego doświadczenia;
+4) 0–2 pkt za znajomość przepisów dotyczących pracy psem, w tym 0 pkt za brak znajomości przepisów dotyczących pracy psem, 2 pkt za posiadanie dobrej znajomości tych przepisów.
+2. Oceny kandydata dokonuje się podczas rozmowy kwalifikacyjnej.
+3. Komisja regionalna ocenia pozytywnie kandydata, jeżeli uzyskał co najmniej 8 pkt.
+§ 7. 1. Kandydat, o którym mowa w § 6 ust. 3, jest kierowany przez dyrektora izby administracji skarbowej na miesięczną praktykę przy doświadczonym przewodniku psa, po zakończeniu której przewodnik psa wydaje opinię w formie pisemnej dotyczącą predyspozycji kandydata pracy ze zwierzętami.
+2. Warunkiem dopuszczenia kandydata oceny przez komisję centralną jest uzyskanie opinii stwierdzającej posiadanie predyspozycji pracy ze zwierzętami.
+§ 8. 1. Ocena kandydata przez komisję centralną obejmuje:
+1) ocenę umiejętności nawiązania i utrzymania kontaktu obcym psem;
+2) test wiedzy zakresu hodowli i szkolenia psów oraz zwalczania przestępczości, składający się 20 pytań jednokrotnego wyboru, zwany dalej „testem”;
+3) ocenę cech i umiejętności kandydata, zwaną dalej „oceną kompetencji”.
+2. Warunkiem przystąpienia testu i oceny kompetencji jest uzyskanie pozytywnej oceny umiejętności nawiązania i utrzymania kontaktu obcym psem.
+§ 9. 1. Komisja centralna ocenia kandydata, przyznając:
+1) w ramach testu 0–20 pkt, przy czym za udzielenie prawidłowej odpowiedzi kandydat otrzymuje 1 pkt, za udzielenie odpowiedzi nieprawidłowej bądź brak odpowiedzi kandydat otrzymuje 0 pkt;
+2) w ramach oceny kompetencji 0–25 pkt, czego:
+a) 0–5 pkt za odporność na stres,
+b) 0–5 pkt za umiejętność komunikowania się,
+c) 0–5 pkt za pewność i zdecydowanie w działaniu,
+d) 0–5 pkt za umiejętność pracy w zespole,
+e) 0–5 pkt za inicjatywę i kreatywność.
+2. Oceny kompetencji dokonuje się podczas rozmowy kwalifikacyjnej, przyznając punkty, o których mowa w ust. 1 oceny komisji centralnej co najmniej 30 pkt.
+2. Hodowla poprzez rozmnożenie psa wymaga uzyskania przez przewodnika psa zgody dyrektora izby administracji skarbowej.
+§ 12. Warunkiem nabycia psa jest:
+1) osiągnięcie przez psa wieku co najmniej 12 tygodni i nieprzekraczającego 18 miesięcy;
+2) właściwy stan zdrowia psa potwierdzony pisemnie przez lekarza weterynarii;
+3) prawidłowa budowa ciała psa;
+4) właściwa kondycja fizyczna psa;
+5) przejawianie przez psa predyspozycji pracy węchowej;
+6) przejawianie przez psa pasji aportowania;
+7) zadawalający poziom socjalizacji psa;
+8) odporność psa na huk i zastraszenie;
+9) niestwierdzenie ciąży u suki;
+10) brak wystąpienia u psa możliwych stwierdzenia w czasie nabywania:
+a) dysplazji,
+b) wady serca,
+c) agresji wobec ludzi lub zwierząt,
+d) alergii skóry lub alergii pokarmowej,
+e) choroby lokomocyjnej,
+f) wnętrostwa,
+g) wady wzroku lub słuchu,
+h) innych wad niewymienionych w lit. a–g, a mających negatywny wpływ na pracę psa.
+2. Przed rozpoczęciem wykonywania kontroli jest wymagane ukończenie przez psa szkolenia podstawowego o profilu wyroby tytoniowe, środki odurzające lub innym, zgodnym bieżącymi potrzebami kontroli.
+3. W celu zwiększenia skuteczności i efektywności kontroli psy są kierowane na szkolenie doskonalące, uzupełniające lub współpracy.
+§ 14. 1. Pies jest poddawany corocznej centralnej weryfikacji prowadzonej podczas szkolenia w celu sprawdzenia jego dalszej przydatności wykorzystywania podczas kontroli.
+w terminie 2 lat od:
+1) ostatniej weryfikacji albo
+2) ukończenia przez psa szkolenia podstawowego, w przypadku gdy pies nie był dotychczas poddany weryfikacji.
+§ 15. 1. Pies może być skierowany wykonywania kontroli wyłącznie przewodnikiem, któremu został przydzielony.
+2. Wykorzystywanie psa kontroli podczas nieobecności przewodnika psa w służbie trwającej powyżej sześciu miesięcy albo w przypadku braku możliwości dalszego pełnienia przez funkcjonariusza funkcji przewodnika psa wymaga przekazania psa innemu przewodnikowi, za zgodą dyrektora izby administracji skarbowej, której własnością jest pies.
+§ 16. 1. Wykorzystywanie psa kontroli nie może:
+1) zagrażać zdrowiu i bezpieczeństwu psa;
+2) nastąpić w przypadku występowania niekorzystnych warunków kontroli, takich jak temperatura powietrza powyżej +25°C albo poniżej –10°C, bardzo silne wiatry, intensywne opady, intensywne zapachy lub wysokie stężenia spalin.
+2. W trakcie wykonywania kontroli psu zapewnia się czas na wypoczynek i inne niezbędne czynności fizjologiczne, w wymiarze 60 minut podczas służby trwającej 8 godzin albo 90 minut podczas służby trwającej 12 godzin.
+§ 17. 1. Warunkiem wykorzystywania psa jest zapewnienie psu ubezpieczenia obejmującego:
+1) padnięcie;
+2) uśpienie;
+3) nieszczęśliwy wypadek;
+4) szkody wyrządzone przez psa.
+2. Umowę ubezpieczenia, o którym mowa w ust. 1, zawiera dyrektor izby administracji skarbowej.
+1) w wieku od 3 tygodni 3 miesięcy,
+2) w wieku powyżej 3 miesięcy 12 miesięcy,
+3) w wieku powyżej 12 miesięcy określa załącznik rozporządzenia.
+2. Dla psów ras:
+1) średnich stosuje się normę zmniejszoną o 30%,
+2) małych stosuje się normę zmniejszoną o 45%,
+3) miniaturowych stosuje się normę zmniejszoną o 60% w stosunku normy ustalonej zgodnie ust. 1.
+3. W przypadku suki karmiącej stosuje się normę zwiększoną o 30% w stosunku normy ustalonej zgodnie ust. 1 i 2.
+4. W okresie zimowym norma ustalona zgodnie ust. 1–3 może ulec zwiększeniu.
+§ 19. 1. Przewodnikowi, któremu przydzielono psa, przysługuje wypłacany góry miesięczny ryczałt tytułu zwrotu kosztów wyżywienia psa.
+2. Ryczałt, o którym mowa w ust. 1, oblicza się jako iloczyn liczby dni w danym miesiącu kalendarzowym i dziennej stawki pieniężnej. Przepisy § 18 ust. 2–4 stosuje się odpowiednio.
+31 marca roku następnego.
+4. Przy naliczaniu dziennej stawki pieniężnej dla normy przyjmuje się za podstawę średnią cenę profesjonalnych karm w sklepach zoologicznych i średnią cenę artykułów spożywczych w sprzedaży detalicznej okresu 2 miesięcy poprzedzających jej ogłoszenie.
+5. Przewodnik psa zobowiązany jest proporcjonalnego zwrotu wypłaconego ryczałtu miesięcznego w przypadku:
+1) padnięcia albo uśpienia psa;
+2) przekazania psa innemu przewodnikowi;
+3) zaprzestania pełnienia funkcji przewodnika psa;
+4) czasowego umieszczenia psa w hotelu dla psów zapewnionym wyżywieniem.
+§ 20. Prawidłowa pielęgnacja i utrzymanie psa obejmuje:
+1) racjonalne żywienie i utrzymanie w czystości;
+2) dbanie o stan zdrowia i kondycję fizyczną psa, w tym poddawanie:
+a) leczeniu,
+b) terminowym szczepieniom,
+c) profilaktycznym badaniom weterynaryjnym;
+3) dbanie o pomieszczenie dla psa i zaplecze gospodarcze, utrzymywanie ich w czystości i dobrym stanie;
+4) konserwowanie sprzętu szkoleniowego;
+5) doskonalenie sprawności użytkowej psa;
+6) doskonalenie umiejętności taktyk i techniki wykorzystania psa w służbie.
+§ 21. 1. Opiekę weterynaryjną psa, w tym szczepienia ochronne oraz leczenie, przeprowadza się w zakładach leczniczych dla zwierząt. O wyborze zakładu leczniczego decyduje przewodnik psa.
+2. Koszty opieki weterynaryjnej są pokrywane ze środków budżetowych izby administracji skarbowej, której własnością jest pies.
+§ 22. 1. Opieka nad psem w okresie odosobnienia wyznaczonym przez lekarza weterynarii albo w okresie adaptacji psa miejsca zamieszkania może być wykonywana przez przewodnika psa w miejscu jego zamieszkania i jest wliczana czasu służby funkcjonariusza, pod warunkiem pisemnej zgody bezpośredniego przełożonego.
+2. W celu uzyskania zgody na opiekę, o której mowa w ust. 1, przewodnik psa przedstawia zaświadczenie wydane przez lekarza weterynarii.
+3. Zgodę na opiekę, o której mowa w ust. 1, wydaje się na czas określony, nie dłuższy niż termin wskazany w zaświadczeniu lekarza weterynarii.
+§ 23. Dyrektor izby administracji skarbowej, której własnością jest pies, zapewnia w szczególności:
+1) odpowiednie wyposażenie w miejscu zamieszkania psa, w tym:
+a) kojec,
+b) budę,
+c) legowisko,
+d) miski metalowe,
+e) akcesoria tresury;
+2) paszport psa;
+3) środek transportu miejsca zamieszkania psa miejsca wykonywania czynności służbowych.
+są wliczane czasu służby.
+§ 25. 1. Psa wycofanego ze służby powodu starości połączonej ogólnym osłabieniem organizmu, całkowitej albo częściowej utraty węchu, słuchu lub wzroku, nieuleczalnych chorób zakaźnych, chorób nowotworowych, nieuleczalnych chorób pasożytniczych niebezpiecznych dla człowieka, przewlekłych lub nawracających chorób skóry, poważnych wad dyskwalifikujących psa dalszego pełnienia służby, konieczności ponownego przeszkolenia psa na kursie podstawowym w przypadku psa w wieku powyżej 6 roku życia, ukończenia przez psa co najmniej 10 roku życia, można powierzyć opiekunowi psa, którym może być:
+1) dotychczasowy przewodnik psa, o ile zaprzestanie wykorzystywania psa w służbie nie nastąpiło winy przewodnika;
+2) inny funkcjonariusz albo pracownik tej samej izby administracji skarbowej dający rękojmię należytej opieki nad psem.
+2. Przepisy § 17–19, § 20 pkt 1–3 oraz § 21 stosuje się odpowiednio.
+2. Szef Krajowej Administracji Skarbowej pierwszą dzienną stawkę pieniężną dla normy ustala na okres od dnia 1 marca 2017 r. dnia 31 marca 2018 r. i ogłasza w terminie 7 dni od dnia wejścia w życie rozporządzenia.
+3. Miesięczny ryczałt, o którym mowa w § 19, przysługuje począwszy od dnia 1 marca 2017 r. Środki wypłaconej miesięcznej stawki wyżywienia psów służbowych w okresie od dnia 1 marca 2017 r. dnia poprzedzającego dzień wejścia w życie rozporządzenia zalicza się na poczet miesięcznego ryczałtu, o którym mowa w § 19.
+4. Koszty opieki weterynaryjnej pokryte przez izbę administracji skarbowej w okresie od dnia 1 marca 2017 r.
+dnia poprzedzającego dzień wejścia w życie rozporządzenia uznaje się za koszty, o których mowa w § 21.
+5. Obowiązek, o którym mowa w § 23, uznaje się za spełniony, gdy wydanie wyposażenia, paszportu psa i środka transportu nastąpiło przed dniem wejścia w życie rozporządzenia.
+6. W odniesieniu psów wycofanych ze służby nie stosuje się przepisów ust. 3–5.
+7. W przypadku gdy zawarta umowa ubezpieczenia nie obejmuje pełnego zakresu ubezpieczenia określonego w § 17 ust. 1, dyrektor izby administracji skarbowej, w terminie 2 miesięcy od dnia wejścia w życie rozporządzenia, zawiera dodatkową umowę ubezpieczenia.
+§ 27. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+NORMA WYŻYWIENIA PSA Wiek od 3 tygodni powyżej 3 miesięcy powyżej 12 miesięcy Lp. Nazwa artykułu Jednostka 3 miesięcy 12 miesięcy miary okres okres okres letni zimowy letni zimowy letni zimowy 1 karma sucha gram 350 400 450 550 500 600 2 dodatek karmy* gram 50 50 50 50 50 50 3 dodatek przysmak szt. 0,5 0,5 0,5 0,5 0,5 0,5 pochodzenia zwierzęcego
+
+#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+
+#### Rozdział 2 Rekrutacja kandydatów § 2. Kandydaci są wyłaniani w drodze dwustopniowej rekrutacji przeprowadzanej przez komisję regionalną i komisję centralną, powoływane każdej rekrutacji.
+
+#### Rozdział 3 Hodowla i nabywanie psów § 11. 1. Wielkość hodowli psów oraz ich nabycie przez izbę administracji skarbowej jest uzależnione od zapotrzebowania na psy wyszkolone w określonych profilach. Liczbę psów, na które istnieje zapotrzebowanie, określa komórka organizacyjna nadzorująca wykonywanie kontroli celno-skarbowej użyciem psów w urzędzie obsługującym ministra właściwego spraw finansów publicznych.
+
+#### Rozdział 4 Szkolenie i wykorzystywanie psów § 13. 1. Pies przeznaczony wykonywania kontroli celno-skarbowej, zwanej dalej „kontrolą”, przechodzi szkolenie o określonym profilu.
+
+#### Rozdział 5 Żywienie, pielęgnacja i utrzymanie psów § 18. 1. Normę wyżywienia psa, stanowiącą dzienną ilość karmy i artykułów spożywczych niezbędnych prawidłowego żywienia jednego psa, zwaną dalej „normą”, dla psów ras dużych, takich jak owczarek niemiecki, owczarek belgijski Malinois, labrador retriever i ras zbliżonych nich wielkością:
+
+#### Rozdział 6 Przepisy przejściowe i przepis końcowy § 26. 1. Szkolenia i weryfikacje przeprowadzone od dnia 1 marca 2017 r. dnia poprzedzającego dzień wejścia w życie rozporządzenia uznaje się za szkolenia i weryfikacje w rozumieniu odpowiednio § 13 i § 14.
+

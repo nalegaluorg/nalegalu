@@ -8,9 +8,12 @@ pos: 1805
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# kalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego prawa do domu jednorodzinnego Art. 13. Ustawa wchodzi wżycie po upływie 6 miespółdzielni mieszkaniowej uważa za księgi wie- sięcy od dnia ogłoszenia, tym że przepisy art. 479 czyste prowadzone dla spółdzielczego własnościowego prawa do lokalu.
+# o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw
+
+*USTAWA z dnia 2 lipca 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,49 +27,52 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041721805) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1805/text.pdf) |
 
-2. W razie zakładania po dniu wejścia życie niniejszej ksiąg wieczystych dla istniejącego dniu 14 stycznia własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego prawa do domu jedno, art. 479 , art. 479 , art. 479 , art. 479 , art. 479 , art. 479 , art. 479 , art. 479 , art. 479 , art. 479 , art. 479 art. 479 ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą art. 2, art.9—12 niniejszej ustawy, wchodzą wżycie po upływie 14 dni od dnia ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
-USTAWA dnia 2 lipca o zmianie o ochronie granicy państwowej niektórych innych ustaw
-
-**Art. 1.** W ustawie dnia 12 paêdziernika 1990 o ochronie granicy państwowej (Dz. 78, 461, póên. zm. powietrzne określają przepisy dnia 3 lipca 2002 Prawo lotnicze ) wprowadza następujące (Dz. 130, 1112, póên. zm. zmiany:
+**Art. 1.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz.U. Nr 78, poz. 461, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 18a.**
 
-1. Przekroczenie granicy państwowej lot obcego wojskowego statku powietrznego wprzestrzeni powietrznej Rzeczypospolitej Polskiej może nastąpić podstawie zezwolenia wydanego przez Dowódcę Sił Powietrznych Sił Zbrojnych Rzeczypospolitej Polskiej, udzielonego wniosek zainteresowanego podmiotu.
+1. Przekroczenie granicy państwowej i lot obcego wojskowego statku powietrznego przestrzeni powietrznej Rzeczypospolitej Polskiej może nastąpić na podstawie zezwolenia wydanego przez Dowódcę Sił Powietrznych Sił Zbrojnych Rzeczypospolitej Polskiej, udzielonego na wniosek zainteresowanego podmiotu.
 
-2. Zezwolenia, októrym mowa wust. 1, nie wymaga przekroczenie granicy państwowej lot przestrzeni powietrznej Rzeczypospolitej Polskiej obcych wojskowych statków po——————— wietrznych wykonujących zadania wojskowego nadzoru przestrzeni powietrznej ramach Zintegrowanego Systemu Obrony Powietrznej Organiwa pkt 1,
+2. Zezwolenia, o którym mowa ust. 1, nie wymaga przekroczenie granicy państwowej i lot przestrzeni powietrznej Rzeczypospolitej Polskiej obcych wojskowych statków powietrznych wykoramach Zintegrowanego Systemu Obrony Powietrznej Organizacji Traktatu Północnoatlantyckiego.
 
+3. Zezwolenie, o którym mowa ust. 1, nie jest wymagane wobec obcego wojskowego statku powietrznego:
+
+- **1)** na którego pokładzie znajduje się przedstawiciel obcego państwa, składający oficjalną wizytę Rzeczypospolitej Polskiej;
+- **2)** stanowiącego honorową eskortę statku powietrznego, o którym mowa pkt 1;
 - **3)** wykonującego lot przestrzeni powietrznej Rzeczypospolitej Polskiej:
-    - **a)** związany prowadzeniem akcji poszukiwawczo-ratowniczej celu udzielenia pomocy ludziom albo statkowi powietrznemu statkowi morskiemu znajdującemu niebezpieczeństwie,
-    - **b)** związany niesieniem pomocy medycznej technicznej albo pomocy razie klęski żywiołowej zagrożenia środowiska,
-    - **c)** związany wykonywaniem zadań wynikających umów międzynarodowych, którymi Rzeczpospolita Polska jest związana, jeżeli obowiązek udostępnienia przestrzeni powietrznej Rzeczypospolitej Polskiej wynika ztych umów,
-    - **d)** przypadku gdy ten statek znajduje niebezpieczeństwie gdy wykonuje ten lot dla uniknięcia niebezpieczeństwa.
+    - **a)** związany z prowadzeniem akcji poszukiwawczoratowniczej celu udzielenia pomocy ludziom albo statkowi powietrznemu lub statkowi morskiemu znajdującemu się niebezpieczeństwie,
+    - **b)** związany z niesieniem pomocy medycznej lub technicznej albo pomocy razie klęski żywiołowej lub zagrożenia środowiska,
+    - **c)** związany z wykonywaniem zadań wynikających z umów międzynarodowych, którymi Rzeczpospolita Polska jest związana, jeżeli obowiązek udostępnienia przestrzeni powietrznej Rzeczypospolitej Polskiej wynika z tych umów,
+    - **d)** przypadku gdy ten statek znajduje się niebezpieczeństwie lub gdy wykonuje ten lot dla uniknięcia niebezpieczeństwa.
 
-4. Minister Obrony Narodowej, porozumieniu ministrem właściwym do spraw transportu, określi, drodze rozporządzenia, tryb postępowania zwnioskiem ozezwolenie przekroczenie granicy państwowej ilot obcego wojskowego statku powietrznego przestrzeni powietrznej Rzeczypospolitej Polskiej wzór wniosku tej sprawie, także warunki wykonywania lotów przez taki statek przestrzeni powietrznej Rzeczypospolitej Polskiej, mając względzie zapewnienie sprawności postępowania sprawach udzielania zezwoleń wykonanie lotów przestrzeni powietrznej Rzeczypospolitej Polskiej przez obce wojskowe statki powietrzne bezpieczeństwo ruchu lotniRzeczpospolita Polska jest związana, może być wezwany przez państwowy organ zarządzania ruchem lotniczym do:
+4. Minister Obrony Narodowej, porozumieniu z ministrem właściwym do spraw transportu, określi, drodze rozporządzenia, tryb postępowania z wnioskiem o zezwolenie na przekroczenie granicy państwowej i lot obcego wojskowego statku powietrznego przestrzeni powietrznej Rzeczypospolitej Polskiej oraz wzór wniosku tej sprawie, a także warunki wykonywania lotów przez taki statek przestrzeni powietrznej Rzeczypospolitej Polskiej, mając na względzie zapewnienie sprawności postępowania sprawach udzielania zezwoleń na wykonanie lotów przestrzeni powietrznej Rzeczypospolitej Polskiej przez obce wojskowe statki powietrzne oraz bezpieczeństwo ruchu lotniczego tej przestrzeni.”;
 
-- **1)** opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej,
-- **2)** odpowiedniej zmiany kierunku wysokości lotu,
-- **3)** wskazanym przez ten organ lotnisku,
-- **4)** wykonania innych poleceń, mających celu zaprzestanie naruszania przestrzeni powietrznej.
+- **3)** po art. 18a dodaje się art. 18b brzmieniu: „Art. 18b. 1. Obcy wojskowy statek powietrzny, który przekroczył granicę państwową albo wykonuje lot przestrzeni powietrznej Rzeczypospolitej Polskiej bez zezwolenia, o którym mowa art. 18a ust. 1, lub niezgodnie z warunkami tego zezwolenia, oraz obcy cywilny statek powietrzny, który przekroczył granicę państwową niezgodnie z przepisami ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze lub umowami międzynarodowymi, którymi Rzeczypospolita zarządzania ruchem lotniczym do:
+- **1)** opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej;
+- **2)** odpowiedniej zmiany kierunku lub wysokości lotu;
+- **3)** lądowania na wskazanym przez ten organ lotnisku;
+- **4)** wykonania innych poleceń, mających na celu zaprzestanie naruszania przestrzeni powietrznej.
 
-2. W przypadku niezastosowania do któregokolwiek wezwań poleceń, o których mowa ust. 1, obcy statek powietrzny może być:
+2. W przypadku niezastosowania się do któregokolwiek z wezwań i poleceń, o których mowa ust. 1, obcy statek powietrzny może być:
 
-- **1)** przechwycony przez wojskowy statek powietrzny, zwany dalej Ństatkiem przechwytującym”. Przechwycenie polega identyfikacji statku powietrznego, nawiązaniu nim łączności radiowej kontaktu wzrokowego naprowadzeniu go właściwy kierunek wysokość lotu albo wymuszeniu wskazanym lotnisku,
-- **2)** ostrzeżony strzałami ostrzegawczymi przez statek przechwytujący, przypadku dalszego niestosowania do wezwania zniszczony,
-- **3)** zniszczony bez dokonania czynności, o których mowa pkt 1 2, sytuacji:
-    - **a)** dokonywania zbrojnej napaści agresji przeciwko celom położonym terytorium Rzeczypospolitej Polskiej,
-    - **b)** gdy nie posiada załogi pokładzie,
-    - **c)** gdy wymagają tego względy bezpieczeństwa, organ dowodzenia obroną powietrzną, októrym mowa wust. 2 pkt 3 lit. c)— Minister Obrony Narodowej.
+- **1)** przechwycony przez wojskowy statek powietrzny, zwany dalej „statkiem przechwytującym”. Przechwycenie polega na identyfikacji statku powietrznego, nawiązaniu z nim łączności radiowej i kontaktu wzrokowego oraz naprowadzeniu go na właściwy kierunek lub wysokość lotu albo wymuszeniu lądowania na wskazanym lotnisku;
+- **2)** ostrzeżony strzałami ostrzegawczymi przez statek przechwytujący, a przypadku dalszego niestosowania się do wezwania - zniszczony;
+- **3)** zniszczony bez dokonania czynności, o których mowa pkt 1 i 2, sytuacji:
+    - **a)** dokonywania zbrojnej napaści lub agresji przeciwko celom położonym na terytorium Rzeczypospolitej Polskiej,
+    - **b)** gdy nie posiada załogi na pokładzie,
+    - **c)** gdy wymagają tego względy bezpieczeństwa, a organ dowodzenia obroną powietrzną, uwzględniając szczególności informacje przekazane przez państwowy organ zarządzania ruchem lotniczym, stwierdzi, że obcy statek powietrzny jest użyty do działań sprzecznych z prawem, a szczególności jako środek ataku terrorystycznego z powietrza.
 
-4. Zmuszony do lotnisku międzynarodowym obcy statek powietrzny, jego załogę ładunek pasażerów ich bagaże, podmiot zarządzający lotniskiem przekazuje Straży Granicznej.
+3. Decyzję o zastosowaniu środków, o których mowa ust. 2 pkt 1 i 2 oraz pkt 3 lit. a i b, podejmuje Dowódca Sił Powietrznych Sił Zbrojnych Rzeczypospolitej Polskiej, a środka, o którym mowa ust. 2 pkt 3 lit. c - Minister Obrony Narodowej.
 
-5. Obcy statek powietrzny zmuszony do lotnisku innym niż lotnisko międzynarodowe lądowisku, jego załogę ładunek pasażerów ich bagaże, podmiot zarządzający lotniskiem użytkownik lądowiska przekazuje właściwym organom, powiadamiając otym zdarzeniu organ Straży Granicznej.
+4. Zmuszony do lądowania na lotnisku międzynarodowym obcy statek powietrzny, jego załogę i ładunek oraz pasażerów i ich bagaże, podmiot zarządzający lotniskiem przekazuje Straży Granicznej.
 
-6. Rada Ministrów określi, wdrodze rozporządzenia, tryb postępowania przy stosowaniu środków, o których mowa ust. 2, zakres sposób współdziałania organu dowodzenia obroną powietrzną państwowym organem zarządzania ruchem lotniczym tych sprawach, mając względzie zapewnienie prawidłowego zastosowania środków, o których mowa ust. 2, tylko przypadku braku możliwości innego wymuszenia przestrzegania prawa polskiego, także sprawność skuteczność współdziałania organów chroniących przestrzeń powietrzną Rzeczypospolitej Polskiej.”.
+5. Obcy statek powietrzny zmuszony do lądowania na lotnisku innym niż lotnisko międzynarodowe lub na lądowisku, jego załogę i ładunek oraz pasażerów i ich bagaże, podmiot zarządzający lotniskiem lub użytkownik lądowiska przekazuje właściwym organom, powiadamiając o tym zdarzeniu organ Straży Granicznej. wania przy stosowaniu środków, o których mowa ust. 2, oraz zakres i sposób współdziałania organu dowodzenia obroną powietrzną z państwowym organem zarządzania ruchem lotniczym tych sprawach, mając na względzie zapewnienie prawidłowego zastosowania środków, o których mowa ust. 2, tylko przypadku braku możliwości innego wymuszenia przestrzegania prawa polskiego, a także sprawność i skuteczność współdziałania organów chroniących przestrzeń powietrzną Rzeczypospolitej Polskiej.”.
 
-**Art. 2.** W ustawie dnia 12 paêdziernika 1990 oStraży Granicznej (Dz. z2002 171, 1399, póên. zm. ) wprowadza następujące zmiany:
+**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz.U. z 2002 r. Nr 171, poz. 1399, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 3 lipca 2002 Prawo lotnicze (Dz. 130, 1112, póên. zm. ) wprowadza następujące zmiany:
+**Art. 3.** W ustawie z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz.U. Nr 93, poz. 1063 oraz z 2003 r. Nr 60, poz. 536 i Nr 210, poz. 2036) art. 4 dodaje się ust. 4 brzmieniu: „4. Przemieszczanie się obcego wojskowego statku powietrznego odbywa się na zasadach i trybie przepisów ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz.U. Nr 78, poz. 461 z późn. zm. ).”.
 
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni ).”; od dnia ogłoszenia.
+**Art. 4.** W ustawie z dnia 3 lipca 2002 r. - Prawo lotnicze (Dz.U. Nr 130, poz. 1112, z późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

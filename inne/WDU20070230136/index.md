@@ -8,9 +8,12 @@ pos: 136
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia
+# drogowych spółkach specjalnego przeznaczenia
+
+*USTAWA z dnia 12 stycznia 2007 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,113 +29,146 @@ domain: null
 
 **Art. 1.**
 
-1. Ustawa określa warunki tworzenia zasady działalności drogowych spółek specjalnego przeznaczenia do przygotowania lub realizacji przedsięwzięć zakresie budowy, przebudowy, remontu, utrzymania, ochrony izarządzania drogami krajowymi rozumieniu dnia 21 marca 1985 o drogach publicznych (Dz. 2007 19, 115), zwanych dalej Ńprzedsięwzięciami drogowymi”.
+1. Ustawa określa warunki tworzenia oraz zasady działalności drogowych spółek specjalnego przeznaczenia do przygotowania lub realizacji przedsięwzięć w zakresie budowy, przebudowy, remontu, utrzymania, ochrony i zarządzania drogami krajowymi w rozumieniu ustawy z dnia 21 marca 1985 r. drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm. ), zwanych dalej „przedsięwzięciami drogowymi”.
 
-2. Ustawy nie stosuje się do dróg krajowych miastach na prawach powiatu, zarządzanych przez prezydenta miasta.
+2. Ustawy nie stosuje się do dróg krajowych w miastach na prawach powiatu, zarządzanych przez prezydenta miasta.
 
 **Art. 2.**
 
-1. Minister właściwy do spraw transportu, tencje ministra właściwego do spraw Skarbu Państwa określone ustawie dnia 8 sierpnia 1996 o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. 106, 493, póên. zm. mając na uwadze kierunki rozwoju sieci drogowej, wtym wszczególności zobowiązania Rzeczypospolitej Polskiej wynikające zczłonkostwa wUnii Europejskiej, potrzebę przebudowy infrastruktury drogowej związaną zapewnieniem zrównoważonego rozwoju kraju, ustala przedsięwzięcia drogowe spośród zadań planowanych do wykonania przez Generalnego Dyrektora Dróg Krajowych Autostrad.
+1. Minister właściwy do spraw transportu, mając na uwadze kierunki rozwoju sieci drogowej, w tym w szczególności zobowiązania Rzeczypospolitej Polskiej wynikające z członkostwa w Unii Europejskiej, potrzebę przebudowy infrastruktury drogowej związaną z zapewnieniem zrównoważonego rozwoju kraju, ustala przedsięwzięcia drogowe spośród zadań planowanych do wykonania przez Generalnego Dyrektora Dróg Krajowych i Autostrad.
 
-2. W celu przygotowania lub realizacji przedsięwzięć drogowych ustalonych zgodnie zust. 1, minister właściwy do spraw transportu, działając imieniu Skarbu Państwa, tworzy drogowe spółki specjalnego przeznaczenia, zwane dalej Ńspółkami”.
+2. W celu przygotowania lub realizacji przedsięwzięć drogowych ustalonych zgodnie z ust. 1, minister właściwy do spraw transportu, działając w imieniu Skarbu Państwa, tworzy drogowe spółki specjalnego przeznaczenia, zwane dalej „spółkami”.
 
 **Art. 3.**
 
-1. Spółka może być zawiązana idziała wformie spółki akcyjnej.
+1. Spółka może być zawiązana i działa w formie spółki akcyjnej.
 
-2. Zawiązując spółkę minister właściwy do spraw transportu obejmuje, imieniu Skarbu Państwa, wszystkie akcje.
+2. Zawiązując spółkę minister właściwy do spraw transportu obejmuje, w imieniu Skarbu Państwa, wszystkie akcje. wkładem pieniężnym lub aportem, przy czym wkład pieniężny nie może być niższy niż 500 000 zł. [4. Akcje spółki są imienne.]
 
-3. Kapitał zakładowy spółki wynosi nie mniej niż 1 000 000zł ijest pokrywany wkładem pieniężnym lub aportem, przy czym wkład pieniężny nie może być niższy niż 500 000 zł.
-
-4. Akcje spółki są imienne.
-
-5. Minister właściwy do spraw transportu reprezentuje spółce Skarb Państwa, wykonując kompe).
+5. (uchylony)
 
 6. Minister właściwy do spraw transportu ustala statut spółki.
 
-7. Prywatyzacja spółki wymaga zgody Rady Ministrów.
+7. (uchylony)
 
-8. Zarząd spółki składa się nie mniej niż 3 nie więcej niż 5 osób. Członków zarządu spółki powołuje odwołuje minister właściwy do spraw transportu spośród osób posiadających odpowiednie kwalifikacje doświadczenie zakresie zarządzania, finansów, drogownictwa lub transportu drogowego.
+8. Zarząd spółki składa się z nie mniej niż 3 i nie więcej niż 5 osób. Członków zarządu spółki powołuje i odwołuje minister właściwy do spraw transportu spośród osób posiadających odpowiednie kwalifikacje i doświadczenie w zakresie zarządzania, finansów, drogownictwa lub transportu drogowego.
 
-9. Rada nadzorcza spółki jest powoływana iodwoływana przez ministra właściwego do spraw transportu iskłada się znie mniej niż 5 inie więcej niż 7 członków. Wskład rady nadzorczej spółki wchodzi po jednej osobie wyznaczonej przez ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw rozwoju regionalnego Generalnego Dyrektora Dróg Krajowych Autostrad. Do członków rady nadzorczej stosuje się odpowiednio przepisy art. 12 ust. 2 i7 zdnia 30 sierpnia 1996 okomercjalizacji iprywatyzacji (Dz. z2002 171, 1397, zpóên. zm. ).
+9. Rada nadzorcza spółki jest powoływana i odwoływana przez ministra właściwego do spraw transportu i składa się z nie mniej niż 5 i nie więcej niż 7 członków. W skład rady nadzorczej spółki wchodzi po jednej osobie wyznaczonej przez ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw rozwoju regionalnego oraz Generalnego Dyrektora Dróg Krajowych i Autostrad.
 
-10. Oświadczenia woli składane spółce przez Skarb Państwa wymagają zachowania formy pisemnej pod rygorem nieważności. Przepisu art. 303 § 2 dnia 15 września 2000 Kodeks spółek handlowych (Dz. 94, 1037, zpóên. zm. ) nie stosuje się. o drogowych spółkach specjalnego przeznaczenia ——————— ——————— wanie lub realizacja przedsięwzięcia drogowego.
+10. Oświadczenia woli składane spółce przez Skarb Państwa wymagają zachowania formy pisemnej pod rygorem nieważności. Przepisu art. 303 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i
 
-2. Spółka realizuje cel, o którym mowa ust. 1, przez:
+- **2320)** nie stosuje się.
 
-- **1)** budowę, przebudowę, remont, utrzymanie lub ochronę dróg, wrozumieniu zdnia 21marca 1985 odrogach publicznych;
-- **2)** wykonywanie obowiązków zarządcy drogi zakresie ustalonym wart. 20 pkt 2—7 i9—18 dnia 21 marca 1985 o drogach publicznych;
-- **3)** sporządzanie dokumentacji do decyzji: o ustaleniu lokalizacji drogi, o ustaleniu lokalizacji autostrady, o warunkach zabudowy zagospodarowania terenu albo o ustaleniu lokalizacji inwestycji celu publicznego dokumentacji do decyzji ośrodowiskowych uwarunkowaniach, o pozwoleniu na budowę, opozwoleniu na użytkowanie, atakże innej dokumentacji niezbędnej do przygotowania lub realizacji przedsięwzięcia drogowego;
-- **4)** występowanie wnioskami o wydanie decyzji, o których mowa pkt 3;
-- **5)** nabywanie nieruchomości pod drogi imieniu na rzecz Skarbu Państwa;
-- **6)** gospodarowanie nieruchomościami przeznaczonymi lub zajętymi pod drogi zakresie określonym umowie, o której mowa art. 6 ust. 1;
-- **7)** pobieranie opłat za przejazd autostradą, o których mowa ustawie dnia 27 paêdziernika 1994 o autostradach płatnych o Krajowym Funduszu Drogowym (Dz. 2004 256, 2571, póên. zm. określonej art. 6 ust. 1, wpływy tych opłat mogą stanowić przychód spółki, jeżeli umowa tak stanowi.
+11. W sprawach nieuregulowanych w ustawie do spółki stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
-6. Zysk spółki po opodatkowaniu spółka przeznacza na finansowanie realizacji powierzonego przedsięwzięcia drogowego lub przekazuje na rzecz Krajowego Funduszu Drogowego, o którym mowa ustawie zdnia 27 paêdziernika 1994 oautostradach płatnych o Krajowym Funduszu Drogowym.
+**Art. 4.**
 
-7. Przepisów zdnia 1 grudnia 1995 owypłatach zysku przez jednoosobowe spółki Skarbu Państwa (Dz. 154, 792 z2006 183,
+1. Celem działalności spółki jest przygotowanie lub realizacja przedsięwzięcia drogowego.
 
-- **1353)** nie stosuje się.
+2. Spółka realizuje cel, którym mowa w ust. 1, przez:
 
-**Art. 5.** Do udzielania przez spółkę zamówień, których przedmiotem są dostawy, usługi lub roboty bu);
+- **1)** budowę, przebudowę, remont, utrzymanie lub ochronę dróg, w rozumieniu ustawy z dnia 21 marca 1985 r. drogach publicznych;
+- **1a)** przygotowanie, wdrożenie, budowę lub eksploatację systemu elektronicznego poboru opłat elektronicznych, którym mowa w art. 13i ustawy z dnia 21 marca 1985 r. drogach publicznych;
+- **2)** wykonywanie obowiązków zarządcy drogi w zakresie ustalonym w art. 20 pkt 2–7 i 9–20 ustawy z dnia 21 marca 1985 r. drogach publicznych; lokalizacji autostrady, warunkach zabudowy i zagospodarowania terenu albo ustaleniu lokalizacji inwestycji celu publicznego oraz dokumentacji do decyzji środowiskowych uwarunkowaniach, pozwoleniu na budowę, pozwoleniu na użytkowanie, a także innej dokumentacji niezbędnej do przygotowania lub realizacji przedsięwzięcia drogowego;
+- **4)** występowanie z wnioskami wydanie decyzji, których mowa w pkt 3;
+- **5)** nabywanie nieruchomości pod drogi w imieniu i na rzecz Skarbu Państwa;
+- **6)** gospodarowanie nieruchomościami przeznaczonymi lub zajętymi pod drogi w zakresie określonym w umowie, której mowa w art. 6 ust. 1;
+- **7)** pobieranie opłat za przejazd autostradą, których mowa w ustawie z dnia 27 października 1994 r. autostradach płatnych oraz Krajowym Funduszu Drogowym (Dz. U. z 2020 r. poz. 2268 oraz z 2021 r. poz. 802 i 1005);
+- **8)** pobieranie opłat za przejazdy przez obiekty mostowe i tunele zlokalizowane w ciągach dróg krajowych;
+- **8a)** (uchylony)
+- **9)** organizację finansowania powierzonego spółce przedsięwzięcia drogowego;
+- **10)** inną działalność bezpośrednio związaną z przygotowaniem lub realizacją powierzonego spółce przedsięwzięcia drogowego, nienaruszającą zasad wolnej konkurencji.
+
+3. Spółce przysługuje wynagrodzenie prowizyjne za wykonanie powierzonego jej przedsięwzięcia drogowego, z wyłączeniem przypadku, w którym spółce powierzono pobieranie opłat stanowiących jej przychód.
+
+4. Wynagrodzenie, którym mowa w ust. 3, ustala się do wysokości do 3,5% wartości przedsięwzięcia drogowego uwzględniającej w szczególności wartość kosztorysową tego przedsięwzięcia.
+
+5. W przypadku powierzenia spółce pobierania opłat, których mowa w ust. 2 pkt 7 i 8, w umowie określonej w art. 6 ust. 1, wpływy z tych opłat mogą stanowić przychód spółki, jeżeli umowa tak stanowi.
+
+6. Zysk spółki po opodatkowaniu spółka przeznacza na finansowanie realizacji powierzonego przedsięwzięcia drogowego lub przekazuje na rzecz Krajowego Funduszu Drogowego, którym mowa w ustawie z dnia 27 października 1994 r. autostradach płatnych oraz Krajowym Funduszu Drogowym. jednoosobowe spółki Skarbu Państwa (Dz. U. z 2020 r. poz. 16) nie stosuje się.
+
+**Art. 5.**
+
+1. Do udzielania przez spółkę zamówień, których przedmiotem są dostawy, usługi lub roboty budowlane, stosuje się przepisy ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129), z uwzględnieniem ust. 2.
+
+2. Spółka może zawrzeć umowę koncesji na roboty budowlane lub usługi jako zamawiający w rozumieniu ustawy z dnia 21 października 2016 r. umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2021 r. poz. 541) lub umowę partnerstwie publiczno-prywatnym jako podmiot publiczny w rozumieniu ustawy z dnia 19 grudnia 2008 r. partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711 i 2275 oraz z 2021 r. poz. 868).
+
+**Art. 5a.** W przypadku gdy spółka wykonuje obowiązek zarządcy drogi, którym mowa w art. 20 pkt 12 ustawy z dnia 21 marca 1985 r. drogach publicznych, przepis art. 20h tej ustawy stosuje się odpowiednio.
 
 **Art. 6.**
 
-1. Minister właściwy do spraw transportu zawiera ze spółką umowę określającą zakres warunki przygotowania lub realizacji przedsięwzięcia drogowego.
+1. Minister właściwy do spraw transportu zawiera ze spółką umowę określającą zakres i warunki przygotowania lub realizacji przedsięwzięcia drogowego.
 
-2. Projekt umowy, októrej mowa wust. 1, opracowuje spółka terminie 2 miesięcy od dnia wpisania do Krajowego Rejestru Sądowego, na podstawie wytycznych co do technicznych ifinansowych warunków przedsięwzięcia drogowego ustalonych przez ministra właściwego do spraw transportu.
+2. Projekt umowy, której mowa w ust. 1, opracowuje spółka w terminie 2 miesięcy od dnia wpisania do Krajowego Rejestru Sądowego, na podstawie wytycznych co do technicznych i finansowych warunków przedsięwzięcia drogowego ustalonych przez ministra właściwego do spraw transportu.
 
-3. Generalny Dyrektor Dróg Krajowych Autostrad, terminie 30 dni od dnia otrzymania projektu umowy, októrym mowa wust. 2, opiniuje warunki tej umowy zakresie dotyczącym swoich zadań wynikających zodrębnych przepisów, apowierzanych na mocy umowy spółce.
+3. Generalny Dyrektor Dróg Krajowych i Autostrad, w terminie 30 dni od dnia otrzymania projektu umowy, którym mowa w ust. 2, opiniuje warunki tej umowy w zakresie dotyczącym swoich zadań wynikających z odrębnych przepisów, a powierzanych na mocy umowy spółce.
 
-4. Generalny Dyrektor Dróg Krajowych iAutostrad jest obowiązany do współdziałania ze spółką wwykonaniu umowy, o której mowa ust. 1, zakresie go dotyczącym, związanym realizacją przez spółkę przedsięwzięcia drogowego.
+4. Generalny Dyrektor Dróg Krajowych i Autostrad jest obowiązany do współdziałania ze spółką w wykonaniu umowy, której mowa w ust. 1, w zakresie go dotyczącym, związanym z realizacją przez spółkę przedsięwzięcia drogowego.
 
-5. Bank Gospodarstwa Krajowego opiniuje warunki projektu umowy, o którym mowa ust. 2, zakresie sposobu terminów wypłaty Krajowego Funduszu Drogowego wynagrodzenia spółki lub należności tytułu finansowania przedsięwzięcia drogowego.
+5. Bank Gospodarstwa Krajowego opiniuje warunki projektu umowy, którym mowa w ust. 2, w zakresie sposobu i terminów wypłaty z Krajowego Funduszu Drogowego wynagrodzenia spółki lub należności z tytułu finansowania przedsięwzięcia drogowego. właściwym do spraw finansów publicznych.
 
-**Art. 7.** Umowa, októrej mowa wart. 6 ust. 1, okre4) łączną wartość środków przewidzianych na przygotowanie lub realizację przedsięwzięcia drogowego będącego przedmiotem umowy, podaniem przewidywanych êródeł ich pochodzenia warunków ich przekazywania na finansowanie przedsięwzięcia drogowego;
+**Art. 7.** Umowa, której mowa w art. 6 ust. 1, odpowiednio do zakresu przedsięwzięcia drogowego, określa w szczególności:
+
+**Art. 7a.**
+
+1. Prawa i obowiązki wynikające z decyzji administracyjnych lub postanowień wydanych na rzecz Generalnego Dyrektora Dróg Krajowych i Autostrad dotyczących przygotowania lub realizacji przedsięwzięcia drogowego stanowiącego przedmiot umowy, której mowa w art. 6 ust. 1, przechodzą z mocy prawa na drogową spółkę specjalnego przeznaczenia, z dniem zawarcia tej umowy.
+
+2. W sprawach, których mowa w ust. 1, wszczętych przez Generalnego Dyrektora Dróg Krajowych i Autostrad i niezakończonych przed dniem zawarcia umowy, której mowa w art. 6 ust. 1, decyzją administracyjną lub postanowieniem w miejsce Generalnego Dyrektora Dróg Krajowych i Autostrad wstępuje z mocy prawa drogowa spółka specjalnego przeznaczenia, z dniem zawarcia tej umowy.
+
+3. Przepis ust. 1 stosuje się odpowiednio do umów lub porozumień zawartych przez Generalnego Dyrektora Dróg Krajowych i Autostrad dotyczących przygotowania lub realizacji przedsięwzięcia drogowego stanowiącego przedmiot umowy, której mowa w art. 6 ust. 1.
+
+4. Drogowa spółka specjalnego przeznaczenia staje się administratorem danych osobowych, których administratorem był Generalny Dyrektor Dróg Krajowych i Autostrad, w związku z decyzjami administracyjnymi i postanowieniami, których mowa w ust. 1, jak również sprawami, których mowa w ust. 2, oraz umowami i porozumieniami, których mowa w ust. 3.
 
 **Art. 8.**
 
-1. Przygotowanie lub realizację przedsięlub Skarb Państwa;
+1. Przygotowanie lub realizację przedsięwzięcia drogowego powierzonego spółce, w tym wynagrodzenie spółki, finansuje się:
 
-- **5)** emisji obligacji;
-- **6)** ze środków własnych spółki;
-- **7)** innych tytułów.
+- **1)** ze środków pochodzących z budżetu państwa ustalonych w ustawie budżetowej;
+- **2)** ze środków bezzwrotnych Unii Europejskiej;
+- **3)** ze środków Krajowego Funduszu Drogowego, którym mowa w ustawie z dnia 27 października 1994 r. autostradach płatnych oraz Krajowym Funduszu Drogowym;
+- **4)** z pożyczek lub kredytów zaciąganych przez spółkę lub Skarb Państwa;
+- **5)** z emisji obligacji;
+- **7)** z innych tytułów.
 
-2. Przygotowanie lub realizacja przedsięwzięcia drogowego powierzonego spółce może być finansowana wpływów opłat, o których mowa art. 4 ust.2 pkt 7 8, jeżeli umowa, o której mowa art. 6 ust. 1, tak stanowi.
+2. Przygotowanie lub realizacja przedsięwzięcia drogowego powierzonego spółce może być finansowana z wpływów z opłat, których mowa w art. 4 ust. 2 pkt 7 i 8, jeżeli umowa, której mowa w art. 6 ust. 1, tak stanowi.
 
-3. Spółce mogą być udzielone przez Skarb Państwa gwarancje poręczenia zgodnie przepisami zdnia 8 maja 1997 oporęczeniach igwarancjach udzielanych przez Skarb Państwa niektóre osoby prawne (Dz. 2003 174, 1689, póên. zm. wzięcia drogowego powierzonego spółce, tym wynagrodzenie spółki, finansuje się: ).
+3. Spółce mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2021 r. poz.
 
-4. Gwarancje iporęczenia, októrych mowa wust.3, są zwolnione zopłat prowizyjnych.
+- **442)** .
 
-5. Na zabezpieczenie spłaty kredytów lub pożyczek spółka może dokonywać na rzecz instytucji kredytujących cesji wpływów tytułu wykonywania prawa poboru opłat, o których mowa art. 4 ust. 2 pkt 7 8.
+4. Gwarancje i poręczenia, których mowa w ust. 3, są zwolnione z opłat prowizyjnych.
 
-6. Jeżeli przedsięwzięcie drogowe jest finansowane wykorzystaniem środków, o których mowa ust.1 pkt 3:
+5. Na zabezpieczenie spłaty kredytów lub pożyczek spółka może dokonywać na rzecz instytucji kredytujących cesji wpływów z tytułu wykonywania prawa poboru opłat, których mowa w art. 4 ust. 2 pkt 7 i 8.
 
-- **1)** uwzględnia się je Programie rzeczowo-finansowym dla inwestycji drogowych realizowanych wykorzystaniem środków Krajowego Funduszu Drogowego, o którym mowa ustawie dnia 27paêdziernika 1994 o autostradach płatnych o Krajowym Funduszu Drogowym;
-- **2)** spółka zawiera zBankiem Gospodarstwa Krajowego umowę określającą sposób terminy dokonywania wypłat na rzecz wykonawców przedsięwzięć drogowych ze środków Krajowego Funduszu Drogowego.
+6. Jeżeli przedsięwzięcie drogowe jest finansowane z wykorzystaniem środków, których mowa w ust. 1 pkt 3:
+
+- **1)** uwzględnia się je w planie finansowym Krajowego Funduszu Drogowego;
+- **2)** spółka zawiera z Bankiem Gospodarstwa Krajowego umowę określającą sposób i terminy wypłat na rzecz wykonawców przedsięwzięć drogowych ze środków Krajowego Funduszu Drogowego.
 
 **Art. 9.**
 
-1. W celu realizacji przedsięwzięcia drogowego lub jego części spółka może zawrzeć wykonawcą, zwanym dalej Ńoperatorem”, umowę na eksploatację drogi, zwaną dalej Ńumową operatorską”.
+1. W celu realizacji przedsięwzięcia drogowego lub jego części spółka może zawrzeć z wykonawcą umowę na eksploatację drogi, z zastrzeżeniem art. 9a.
 
-2. Do wyboru operatora do zawierania umów operatorskich stosuje się przepisy dnia 29stycznia 2004 Prawo zamówień publicznych, zastrzeżeniem art. 10. cję drogi powinno, oprócz elementów właściwych dla wybranego trybu postępowania o zamówienie publiczne, zawierać także informację o technicznych ekonomiczno-finansowych założeniach zamówienia.
+2. Do wyboru wykonawcy oraz do zawierania umów, których mowa w ust. 1, stosuje się przepisy ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, z zastrzeżeniem art. 10.
 
-2. Specyfikacja istotnych warunków zamówienia, o którym mowa ust. 1, powinna zawierać także:
+3. Spółka może powierzyć wykonawcy, którym mowa w ust. 1, pobieranie opłat, których mowa w art. 4 ust. 2 pkt 7–8a.
 
-- **1)** obowiązek złożenia oświadczenia przez uczestnika postępowania, że jego wspólnicy albo akcjonariusze, którzy dysponują bezpośrednio lub pośrednio co najmniej 20 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, lub którzy posiadają bezpośrednio co najmniej 20 % udziałów lub akcji innej spółce kapitałowej, nie ubiegają się o zawarcie umowy operatorskiej dotyczącej tego samego postępowania;
-- **2)** obowiązek złożenia przez uczestnika postępowania wykazu jednostek nim powiązanych rozumieniu przepisów o rachunkowości.
+**Art. 9a.** (uchylony)
 
-**Art. 11.** W ustawie dnia 21 marca 1985 o drogach publicznych (Dz. 2007 19, 115) wprowadza się następujące zmiany:
+**Art. 9b.** Warunki umowy, której mowa w art. 9, wymagają uzgodnienia z ministrem właściwym do spraw finansów publicznych.
 
-**Art. 12.** W ustawie dnia 27 paêdziernika 1994 o autostradach płatnych o Krajowym Funduszu Drogowym (Dz. 2004 256, 2571, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 10.**
 
-**Art. 13.** W ustawie dnia 10 kwietnia 2003 oszczególnych zasadach przygotowania irealizacji inwestycji zakresie dróg publicznych (Dz. 80, 721, póên. zm. ) art. 1 dodaje się ust. 3 brzmieniu: Ń3. Uprawnienia, obowiązki zadania Generalnego Dyrektora Dróg Krajowych Autostrad lub Generalnej Dyrekcji Dróg Krajowych iAutostrad stosuje się odpowiednio do drogowej spółki specjalnego przeznaczenia, tym że spółce tej przysługuje prawo nieodpłatnego użytkowania stosunku do nieruchomości nabytych trybie lub ——————— przejętych od Generalnej Dyrekcji Dróg Krajowych Autostrad.”. transportu, ze środków Krajowego Funduszu Drogośrednictwem Generalnego Dyrektora Dróg Krajo- wego, októrym mowa wustawie zdnia 27 paêdzierniwych iAutostrad albo drogowych spółek specjal- ka 1994 o autostradach płatnych o Krajowym nego przeznaczenia wodniesieniu do dróg krajo- Funduszu Drogowym. wych;”.
+1. Ogłoszenie zamówieniu na eksploatację drogi powinno, oprócz elementów właściwych dla wybranego trybu udzielania zamówień, zawierać także informację technicznych i ekonomiczno-finansowych założeniach zamówienia.
 
-**Art. 16.** Ustawa wchodzi wżycie po upływie 14 dni
+- **1)** obowiązek złożenia oświadczenia przez uczestnika postępowania, że jego wspólnicy albo akcjonariusze, którzy dysponują bezpośrednio lub pośrednio co najmniej 20% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub którzy posiadają bezpośrednio co najmniej 20% udziałów lub akcji w innej spółce kapitałowej, nie ubiegają się zawarcie umowy, której mowa w art. 9 ust. 1, dotyczącej tego samego postępowania;
+- **2)** obowiązek złożenia przez uczestnika postępowania wykazu jednostek z nim powiązanych w rozumieniu przepisów rachunkowości. Art. 11–14. (pominięte)
 
 **Art. 15.**
 
-1. Koszty utworzenia spółki, tym środki od dnia ogłoszenia. na pokrycie kapitału zakładowego koszty podjęcia działalności spółki środki na podwyższenie kapi- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 137 USTAWA dnia 12 stycznia 2007 o zmianie Prawo telekomunikacyjne
+1. Koszty utworzenia spółki, w tym środki na pokrycie kapitału zakładowego i koszty podjęcia działalności spółki oraz środki na podwyższenie kapitału zakładowego spółki, ponosi minister właściwy do spraw transportu.
 
-**Art. 1.** W ustawie dnia 16 lipca 2004 Prawo telekomunikacyjne (Dz. 171, 1800, póên. zm. ) wprowadza się następujące zmiany:
+2. Koszty, których mowa w ust. 1, mogą być pokrywane, na wniosek ministra właściwego do spraw transportu, ze środków Krajowego Funduszu Drogowego, którym mowa w ustawie z dnia 27 października 1994 r. autostradach płatnych oraz Krajowym Funduszu Drogowym.
+
+**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

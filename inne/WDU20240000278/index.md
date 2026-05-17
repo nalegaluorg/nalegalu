@@ -8,9 +8,12 @@ pos: 278
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lutego 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o rewitalizacji
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000278) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/278/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o rewitalizacji
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2021 r. poz. 485), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 4 listopada 2022 r. o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości celu wsparcia realizacji inwestycji mieszkaniowych (Dz. U. z 2023 r. poz. 28),
 2) ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 lutego 2024 r.
@@ -40,10 +41,11 @@ poz. 28), który stanowi: „Art. 39. Ustawa wchodzi życie z dniem 1 marca 2023
 5) diagnoz, o których mowa art. 10a ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r. poz. 1259 i 1273), przygotowywanych ramach opracowania projektu strategii rozwoju gminy lub strategii rozwoju ponadlokalnego;
 6) aktów planowania przestrzennego wraz z uzasadnieniem, o ile jego sporządzenie jest wymagane;
 7) uchwał o wyznaczeniu obszarów zdegradowanych i obszarów rewitalizacji, uchwał o przyjęciu gminnych programów rewitalizacji oraz uchwał sprawie ustanowienia na obszarze rewitalizacji Specjalnych Stref Rewitalizacji;
+8) uchwał o przyjęciu strategii rozwoju gminy lub strategii rozwoju ponadlokalnego;
 9) uchwał sprawie aktualności planów ogólnych gmin oraz miejscowych planów zagospodarowania przestrzennego i oceny, o których mowa art. 22 ustawy zmienianej art. 37;
 10) rozstrzygnięć nadzorczych wojewody stwierdzających nieważność aktów planowania przestrzennego;
 11) zarządzeń zastępczych wojewody sprawie uchwalenia aktu planowania przestrzennego.
-Do dnia 31 grudnia 2025 r. organy, o których mowa art. 67i ustawy zmienianej art. 1, udostępniają także, na zasadach określonych ust. 3–5, projekty: aktów planowania przestrzennego, gminnych programów rewitalizacji, uchwał sprawie wyznaczenia obszarów zdegradowanych i obszarów rewitalizacji, uchwał sprawie ustanowienia na obszarze rewitalizacji Specjalnych Stref Rewitalizacji oraz strategii rozwoju gminy lub strategii rozwoju ponadlokalnego.
+na obszarze rewitalizacji Specjalnych Stref Rewitalizacji oraz strategii rozwoju gminy lub strategii rozwoju ponadlokalnego.
 3. Do dnia 31 grudnia 2025 r. projekty aktów planowania przestrzennego, przekazywane do uzgodnień i opiniowania, poddawane konsultacjom społecznym lub przedstawiane radzie gminy albo sejmikowi województwa, udostępnia się Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego organ sporządzający projekt oraz jego siedzibie, a przypadku projektu zarządzenia, o którym mowa art. 37na ustawy zmienianej art. 1, również Biuletynie Informacji Publicznej na stronie podmiotowej urzędu gminy właściwej ze względu na położenie inwestycji oraz jej siedzibie, wraz z uzasadnieniem, wykazem, o którym mowa art. 8k ust. 1 ustawy zmienianej art. 1, raportem, o którym mowa art. 8k ust. 2 ustawy zmienianej art. 1, oraz prognozą oddziaływania na środowisko, o ile ich sporządzenie jest wymagane, najpóźniej dniu odpowiednio przekazania, ogłoszenia o rozpoczęciu konsultacji społecznych lub przedstawienia.
 4. Do dnia 31 grudnia 2025 r. projekty:
 1) gminnych programów rewitalizacji,
@@ -53,8 +55,9 @@ Do dnia 31 grudnia 2025 r. organy, o których mowa art. 67i ustawy zmienianej ar
 6. Do dnia 31 grudnia 2025 r. wójt, burmistrz albo prezydent miasta udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu oraz swojej siedzibie i przekazuje radzie gminy wniosek, o którym mowa art. 37ea ust. 1 ustawy zmienianej art. 1, oraz ogłasza o tych czynnościach, sposób określony art. 8h ust. 1 pkt 2–4 tej ustawy, terminie 3 dni roboczych od dnia otrzymania tego wniosku.
 7. Przepisy art. 8g ust. 1 i 6 oraz przepisy wykonawcze wydane na podstawie art. 8g ust. 5 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, zakresie wniosku, o którym mowa art. 8f tej ustawy, stosuje się od dnia 1 stycznia 2026 r.
 8. Do dnia 31 grudnia 2025 r. wójt, burmistrz albo prezydent miasta, na wniosek interesariusza, od dnia następującego po dniu otrzymania wniosku do dnia następującego po dniu otrzymania rezygnacji, przekazuje interesariuszowi za pomocą poczty elektronicznej informacje o każdorazowym udostępnieniu Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu oraz swojej siedzibie dokumentów, o których mowa ust. 1–5. Wniosek składa się na piśmie utrwalonym postaci papierowej lub elektronicznej, tym za pomocą środków komunikacji elektronicznej, szczególności poczty elektronicznej. Składając wniosek, interesariusz podaje swoje imię i nazwisko albo nazwę oraz adres zamieszkania albo siedziby oraz adres poczty elektronicznej, na który mają być przekazywane informacje.
-9. Do dnia 31 grudnia 2025 r. ilekroć ustawie zmienianej art. 1 brzmieniu nadanym niniejszą ustawą jest mowa o ponowieniu czynności polegającej na udostępnieniu dokumentu Rejestrze Urbanistycznym, należy przez to rozumieć udostępnienie, o którym mowa ust. 2–5.” Do dnia wejścia życie planu ogólnego gminy danej gminie, przepisach ustaw zmienianych niniejszą ustawą, z wyjątkiem ustawy zmienianej art. 26, odnoszących się do planu ogólnego gminy, przez plan ogólny gminy należy rozumieć studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, z wyjątkiem spraw uchwalania planów ogólnych gminy.
-3. Do dnia utraty mocy studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy danej gminie, przepisach ustawy zmienianej art. 15, art. 19 oraz art. 12 ustawy zmienianej art. 37 odnoszących się do strategii rozwoju gminy lub strategii rozwoju ponadlokalnego, przez strategię rozwoju gminy lub strategię rozwoju ponadlokalnego należy rozumieć studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
+9. Do dnia 31 grudnia 2025 r. ilekroć ustawie zmienianej art. 1 brzmieniu nadanym niniejszą ustawą jest mowa o ponowieniu czynności polegającej na udostępnieniu dokumentu Rejestrze Urbanistycznym, należy przez to rozumieć udostępnienie, o którym mowa ust. 2–5.” „Art. 64. 1. Do dnia wejścia życie planu ogólnego gminy danej gminie do opłaty skarbowej stosuje się przepisy ustawy zmienianej art. 26 brzmieniu dotychczasowym.
+Do dnia wejścia życie planu ogólnego gminy danej gminie, przepisach ustaw zmienianych niniejszą ustawą, z wyjątkiem ustawy zmienianej art. 26, odnoszących się do planu ogólnego gminy, przez plan ogólny gminy należy rozumieć studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, z wyjątkiem spraw uchwalania planów ogólnych gminy.
+ponadlokalnego należy rozumieć studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
 Art. 37–51. (pominięte)
 
 **Art. 65.**
@@ -87,8 +90,7 @@ Art. 37–51. (pominięte)
 
 1. W celu opracowania diagnoz służących:
 
-- **1)** wyznaczeniu obszaru zdegradowanego i obszaru rewitalizacji,
-- **3)** ocenie aktualności i stopnia realizacji gminnego programu rewitalizacji wójt, burmistrz albo prezydent miasta prowadzi analizy, których wykorzystuje obiektywne i weryfikowalne mierniki i metody badawcze dostosowane do lokalnych uwarunkowań. Podmioty, o których mowa art. 4 ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902), gromadzące i przetwarzające dane inne niż dane osobowe zakresie niezbędnym do opracowania diagnoz, o których mowa ust. 1, niezwłocznie udostępniają te dane właściwemu wójtowi, burmistrzowi albo prezydentowi miasta na zasadach określonych tej ustawie.
+- **1)** wyznaczeniu obszaru zdegradowanego i obszaru rewitalizacji, wójt, burmistrz albo prezydent miasta prowadzi analizy, których wykorzystuje obiektywne i weryfikowalne mierniki i metody badawcze dostosowane do lokalnych uwarunkowań. Podmioty, o których mowa art. 4 ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902), gromadzące i przetwarzające dane inne niż dane osobowe zakresie niezbędnym do opracowania diagnoz, o których mowa ust. 1, niezwłocznie udostępniają te dane właściwemu wójtowi, burmistrzowi albo prezydentowi miasta na zasadach określonych tej ustawie.
 
 #### Rozdział 2 Partycypacja społeczna
 
@@ -117,7 +119,7 @@ Art. 37–51. (pominięte)
 3. Formami konsultacji społecznych są:
 
 - **1)** zbieranie uwag postaci papierowej lub elektronicznej, tym za pomocą środków komunikacji elektronicznej, szczególności poczty elektronicznej lub formularzy zamieszczonych na stronie podmiotowej gminy Biuletynie Informacji Publicznej;
-- **2)** spotkania, debaty, warsztaty, spacery studyjne, ankiety, wywiady, wykorzystanie grup przedstawicielskich lub zbieranie uwag ustnych. pewniających jednoczesną transmisję wizji i dźwięku.
+- **2)** spotkania, debaty, warsztaty, spacery studyjne, ankiety, wywiady, wykorzystanie grup przedstawicielskich lub zbieranie uwag ustnych.
 
 3b. Ankiety i wywiady mogą być przeprowadzane również za pomocą środków porozumiewania się na odległość.
 
@@ -145,7 +147,7 @@ Art. 37–51. (pominięte)
 
 **Art. 7.**
 
-1. Komitet Rewitalizacji stanowi forum współpracy i dialogu interesariuszy z organami gminy sprawach dotyczących przygotowania, prowadzenia i oceny rewitalizacji oraz pełni funkcję opiniodawczo-doradczą wójta, burmistrza albo prezydenta miasta. Dopuszcza się powołanie osobnych Komitetów Rewitalizacji dla wyznaczonych podobszarów rewitalizacji. Zasady wyznaczania składu oraz zasady działania Komitetu Rewitalizacji ustala się, uwzględniając funkcję Komitetu, o której mowa ust. 1, oraz zapewniając wyłanianie przez interesariuszy ich przedstawicieli. rewitalizacji. Podjęcie uchwały jest poprzedzone konsultacjami społecznymi. Uchwała nie stanowi aktu prawa miejscowego.
+1. Komitet Rewitalizacji stanowi forum współpracy i dialogu interesariuszy z organami gminy sprawach dotyczących przygotowania, prowadzenia i oceny rewitalizacji oraz pełni funkcję opiniodawczo-doradczą wójta, burmistrza albo prezydenta miasta. Dopuszcza się powołanie osobnych Komitetów Rewitalizacji dla wyznaczonych podobszarów rewitalizacji. Zasady wyznaczania składu oraz zasady działania Komitetu Rewitalizacji ustala się, uwzględniając funkcję Komitetu, o której mowa ust. 1, oraz zapewniając wyłanianie przez interesariuszy ich przedstawicieli.
 
 4. Wójt, burmistrz albo prezydent miasta niezwłocznie po podjęciu przez radę gminy uchwały, o której mowa ust. 3, powołuje, drodze zarządzenia, Komitet Rewitalizacji.
 
@@ -174,7 +176,7 @@ Art. 37–51. (pominięte)
 
 **Art. 10.**
 
-1. Obszar obejmujący całość lub część obszaru zdegradowanego, cechujący się szczególną koncentracją negatywnych zjawisk, o których mowa art. 9 ust. 1, na którym z uwagi na istotne znaczenie dla rozwoju lokalnego gmina zamierza prowadzić rewitalizację, wyznacza się jako obszar rewitalizacji. 30% liczby mieszkańców gminy. Obszar rewitalizacji może być podzielony na podobszary, tym podobszary nieposiadające ze sobą wspólnych granic.
+1. Obszar obejmujący całość lub część obszaru zdegradowanego, cechujący się szczególną koncentracją negatywnych zjawisk, o których mowa art. 9 ust. 1, na którym z uwagi na istotne znaczenie dla rozwoju lokalnego gmina zamierza prowadzić rewitalizację, wyznacza się jako obszar rewitalizacji.
 
 3. Niezamieszkałe tereny poprzemysłowe, tym poportowe i powydobywcze, tereny powojskowe albo pokolejowe, na których występują negatywne zjawiska, o których mowa art. 9 ust. 1 pkt 1–4, mogą wejść skład obszaru rewitalizacji wyłącznie przypadku, gdy działania możliwe do przeprowadzenia na tych terenach przyczynią się do przeciwdziałania negatywnym zjawiskom społecznym, o których mowa art. 9 ust. 1.
 
@@ -205,7 +207,10 @@ Art. 37–51. (pominięte)
 
 3. W przypadku podziału obszaru rewitalizacji na podobszary, gminny program rewitalizacji jest opracowywany z podziałem na podobszary.
 
-- **1)** szczegółową diagnozę obszaru rewitalizacji, o której mowa art. 4 ust. 1 pkt 2, obejmującą analizę negatywnych zjawisk, o których mowa art. 9 ust. 1, oraz lokalnych potencjałów występujących na terenie tego obszaru;
+**Art. 15.**
+
+1. Gminny program rewitalizacji zawiera szczególności:
+
 - **2)** opis sposobu realizacji przez gminny program rewitalizacji dokumentów strategicznych gminy, tym strategii rozwoju gminy lub strategii rozwoju ponadlokalnego, oraz strategii rozwiązywania problemów społecznych;
 - **3)** opis wizji stanu obszaru po przeprowadzeniu rewitalizacji;
 - **4)** cele rewitalizacji oraz odpowiadające im kierunki działań służących eliminacji lub ograniczeniu negatywnych zjawisk, o których mowa art. 9 ust. 1;
@@ -226,7 +231,7 @@ Art. 37–51. (pominięte)
     - **b)** wskazanie miejscowych planów zagospodarowania przestrzennego koniecznych do uchwalenia albo zmiany,
     - **c)** przypadku wskazania konieczności uchwalenia miejscowego planu rewitalizacji, o którym mowa art. 37f ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym wskazanie granic obszarów, dla których plan ten będzie procedowany łącznie z procedurą scaleń i podziałów nieruchomości, a także wytyczne zakresie ustaleń tego planu;
 
-- **14)** załącznik graficzny przedstawiający podstawowe kierunki zmian funkcjonalno-przestrzennych obszaru rewitalizacji sporządzony na mapie skali co najmniej 1:5000 opracowanej z wykorzystaniem treści mapy zasadniczej, a przypadku jej braku z wykorzystaniem treści mapy ewidencyjnej rozumieniu ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne. W ramach opisu, o którym mowa ust. 1 pkt 5, gminnym programie rewitalizacji zamieszcza się przedsięwzięcia rewitalizacyjne służące realizacji celu publicznego określonego art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ) lub przedsięwzięcia prywatne. poza obszarem rewitalizacji, jeżeli wynika to z ich specyfiki i służą one realizacji celów i kierunków działań programu. Przedsięwzięcia takie wymagają uzasadnienia treści tego programu.
+- **14)** załącznik graficzny przedstawiający podstawowe kierunki zmian funkcjonalno-przestrzennych obszaru rewitalizacji sporządzony na mapie skali co najmniej 1:5000 opracowanej z wykorzystaniem treści mapy zasadniczej, a przypadku jej braku z wykorzystaniem treści mapy ewidencyjnej rozumieniu ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne. W ramach opisu, o którym mowa ust. 1 pkt 5, gminnym programie rewitalizacji zamieszcza się przedsięwzięcia rewitalizacyjne służące realizacji celu publicznego określonego art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ) lub przedsięwzięcia prywatne.
 
 4. W przypadku gdy związku z rewitalizacją następuje czasowa lub trwała zmiana miejsca zamieszkania osób na miejsce położone poza obszarem rewitalizacji, gminnym programie rewitalizacji uwzględnia się przedsięwzięcia rewitalizacyjne obejmujące te osoby.
 
@@ -246,7 +251,7 @@ Art. 37–51. (pominięte)
 - **2)** sporządza projekt gminnego programu rewitalizacji;
 - **3)** (uchylony)
 - **4)** przeprowadza konsultacje społeczne projektu gminnego programu rewitalizacji i występuje o zaopiniowanie projektu gminnego programu rewitalizacji:
-    - **a)** każdym przypadku przez: zarząd właściwego powiatu zakresie zgodności ze strategią rozwoju powiatu, zarząd właściwego województwa zakresie zgodności z planem zagospodarowania przestrzennego województwa i strategią rozwoju województwa, właściwego wojewodę zakresie zgodności z zadaniami rządowymi służącymi realizacji celu publicznego określonego art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, właściwe organy wojskowe, ochrony granic oraz bezpieczeństwa państwa zakresie wymagań bezpieczeństwa i obronności, właściwego komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej zakresie ochrony przeciwpożarowej, właściwego państwowego wojewódzkiego inspektora sanitarnego, właściwą gminną komisję urbanistyczno-architektoniczną, operatorów sieci uzbrojenia terenu, tym zarządców dróg oraz linii i terenów kolejowych, Komitet Rewitalizacji, jeżeli został powołany, Krajowy Zasób Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2023 r. poz. 1054, 1688 i 1693) zakresie sposobu zagospodarowania oraz przedsięwzięć związanych z nieruchomościami wchodzącymi skład Zasobu Nieruchomości, właściwego regionalnego dyrektora ochrony środowiska zakresie form ochrony przyrody, właściwego wojewódzkiego konserwatora zabytków zakresie form ochrony zabytków, właściwego dyrektora urzędu morskiego zakresie zagospodarowania pasa technicznego, pasa ochronnego oraz morskich portów i przystani, właściwy organ nadzoru górniczego zakresie zagospodarowania terenów górniczych, właściwy organ administracji geologicznej zakresie zagospodarowania terenów osuwisk, właściwego dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie zakresie zagospodarowania obszarów szczególnego zagrożenia powodzią, ministra właściwego do spraw zdrowia zakresie zagospodarowania obszarów ochrony uzdrowiskowej, Państwowe Gospodarstwo Leśne Lasy Państwowe zakresie nieruchomości Skarbu Państwa będących trwałym zarządzie tego Gospodarstwa;
+    - **a)** każdym przypadku przez: zarząd właściwego powiatu zakresie zgodności ze strategią rozwoju powiatu, zarząd właściwego województwa zakresie zgodności z planem zagospodarowania przestrzennego województwa i strategią rozwoju województwa, właściwego wojewodę zakresie zgodności z zadaniami rządowymi służącymi realizacji celu publicznego określonego art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, właściwe organy wojskowe, ochrony granic oraz bezpieczeństwa państwa zakresie wymagań bezpieczeństwa i obronności, właściwego komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej zakresie ochrony przeciwpożarowej, właściwego państwowego wojewódzkiego inspektora sanitarnego, właściwą gminną komisję urbanistyczno-architektoniczną, operatorów sieci uzbrojenia terenu, tym zarządców dróg oraz linii i terenów kolejowych, Komitet Rewitalizacji, jeżeli został powołany, Krajowy Zasób Nieruchomości, o którym mowa ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2023 r. poz. 1054, 1688 i 1693) zakresie sposobu zagospodarowania oraz przedsięwzięć związanych z nieruchomościami wchodzącymi skład Zasobu Nieruchomości, właściwego wojewódzkiego konserwatora zabytków zakresie form ochrony zabytków, właściwego dyrektora urzędu morskiego zakresie zagospodarowania pasa technicznego, pasa ochronnego oraz morskich portów i przystani, właściwy organ nadzoru górniczego zakresie zagospodarowania terenów górniczych, właściwy organ administracji geologicznej zakresie zagospodarowania terenów osuwisk, właściwego dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie zakresie zagospodarowania obszarów szczególnego zagrożenia powodzią, ministra właściwego do spraw zdrowia zakresie zagospodarowania obszarów ochrony uzdrowiskowej, Państwowe Gospodarstwo Leśne Lasy Państwowe zakresie nieruchomości Skarbu Państwa będących trwałym zarządzie tego Gospodarstwa;
 
 - **5)** wprowadza zmiany wynikające z przeprowadzonych konsultacji społecznych i uzyskanych opinii, a następnie przedstawia radzie gminy do uchwalenia projekt gminnego programu rewitalizacji wraz z raportem, o którym mowa art. 6 ust. 7.
 
@@ -270,7 +275,7 @@ Art. 37–51. (pominięte)
 
 **Art. 22.**
 
-1. Gminny program rewitalizacji podlega ocenie aktualności i stopnia realizacji, dokonywanej przez wójta, burmistrza albo prezydenta miasta co najmniej raz na 3 lata, zgodnie z systemem monitorowania i oceny określonym tym programie. oraz ogłoszeniu na stronie podmiotowej gminy Biuletynie Informacji Publicznej.
+1. Gminny program rewitalizacji podlega ocenie aktualności i stopnia realizacji, dokonywanej przez wójta, burmistrza albo prezydenta miasta co najmniej raz na 3 lata, zgodnie z systemem monitorowania i oceny określonym tym programie.
 
 3. W przypadku stwierdzenia, że gminny program rewitalizacji wymaga zmiany, wójt, burmistrz albo prezydent miasta występuje do rady gminy z wnioskiem o jego zmianę. Do wniosku załącza się opinię, o której mowa ust.
 
@@ -312,7 +317,7 @@ Art. 37–51. (pominięte)
 
 **Art. 27.**
 
-1. Budowa lub przebudowa budynków służących rozwojowi społecznego budownictwa czynszowego wykonywana na obszarze Strefy oraz przewidziana gminnym programie rewitalizacji ramach przedsięwzięć rewitalizacyjnych, o których mowa art. 15 ust. 1 pkt 5 lit. a, stanowi cel publiczny rozumieniu art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. art. 5 ust. 1 pkt 5 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości.
+1. Budowa lub przebudowa budynków służących rozwojowi społecznego budownictwa czynszowego wykonywana na obszarze Strefy oraz przewidziana gminnym programie rewitalizacji ramach przedsięwzięć rewitalizacyjnych, o których mowa art. 15 ust. 1 pkt 5 lit. a, stanowi cel publiczny rozumieniu art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 3. Lokalizację inwestycji wymienionych ust. 1 określa się miejscowym planie zagospodarowania przestrzennego, wskazując dla nieruchomości przeznaczonych pod zabudowę mieszkaniową, że realizacja zabudowy zgodnej z tym planem następuje ramach realizacji inwestycji celu publicznego rozumieniu art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
@@ -343,7 +348,7 @@ Art. 37–51. (pominięte)
 
 5. Do egzekucji obowiązku wynikającego z decyzji, o której mowa ust. 2, stosuje się przepisy o postępowaniu egzekucyjnym administracji. Egzekucję obowiązku wynikającego z decyzji przeprowadza się terminie 30 dni od dnia doręczenia lokatorowi zawiadomienia o wszczęciu postępowania egzekucyjnego, do lokalu zamiennego rozumieniu art. 2 pkt 6 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, wskazanego tym wniosku.
 
-**Art. 30.** W uchwale, o której mowa art. 25, rada gminy może ustanowić na obszarze Strefy zakaz wydawania decyzji o warunkach zabudowy, o której mowa art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dla wszystkich albo określonych tej uchwale zmian sposobu zagospodarowania terenu wymagających tej decyzji, tym zmian sposobu użytkowania obiektu budowlanego lub jego części, jeżeli stopień pokrycia obszaru Strefy miejscowymi planami zagospodarowania przestrzennego wskazuje, że nieustanowienie zakazu może doprowadzić do zmian zagospodarowaniu Strefy niezgodnych z gminnym programem rewitalizacji albo utrudniających jego realizację. darce nieruchomościami, położonych na obszarze Strefy, gmina przypadku wywłaszczenia nieruchomości nie składa do depozytu sądowego odszkodowania ustalonego zgodnie z przepisami tej ustawy. W przypadku ustalenia osób, którym przysługują prawa rzeczowe do nieruchomości podlegającej wywłaszczeniu, wypłata odszkodowania przez gminę następuje terminie 3 miesięcy od dnia wystąpienia przez te osoby z wnioskiem.
+**Art. 30.** W uchwale, o której mowa art. 25, rada gminy może ustanowić na obszarze Strefy zakaz wydawania decyzji o warunkach zabudowy, o której mowa art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dla wszystkich albo określonych tej uchwale zmian sposobu zagospodarowania terenu wymagających tej decyzji, tym zmian sposobu użytkowania obiektu budowlanego lub jego części, jeżeli stopień pokrycia obszaru Strefy miejscowymi planami zagospodarowania przestrzennego wskazuje, że nieustanowienie zakazu może doprowadzić do zmian zagospodarowaniu Strefy niezgodnych z gminnym programem rewitalizacji albo utrudniających jego realizację. W przypadku ustalenia osób, którym przysługują prawa rzeczowe do nieruchomości podlegającej wywłaszczeniu, wypłata odszkodowania przez gminę następuje terminie 3 miesięcy od dnia wystąpienia przez te osoby z wnioskiem.
 
 **Art. 32.**
 
@@ -377,7 +382,7 @@ Art. 37–51. (pominięte)
 
 3. Stosując zasadę równego traktowania podmiotów, o której mowa ust. 2, podmiot udzielający zamówienia bierze pod uwagę cel udzielenia zamówienia, którym jest aktywizacja osób mających miejsce zamieszkania na obszarze Strefy.
 
-4. Podmiot udzielający zamówienia, o którym mowa ust. 1, nie udostępnia informacji związanych z tym zamówieniem, stanowiących tajemnicę przedsiębiorstwa rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed dniem zawarcia umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być one udostępniane. Biuletynie Informacji Publicznej informację o udzieleniu zamówienia, podając nazwę (firmę) albo imię i nazwisko podmiotu, z którym zawarł umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia.
+4. Podmiot udzielający zamówienia, o którym mowa ust. 1, nie udostępnia informacji związanych z tym zamówieniem, stanowiących tajemnicę przedsiębiorstwa rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed dniem zawarcia umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być one udostępniane. miotu, z którym zawarł umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia.
 
 6. (uchylony)
 

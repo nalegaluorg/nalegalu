@@ -8,9 +8,12 @@ pos: 1281
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Ustawa z dnia 28 sierpnia 2009 r. o zmianie ustawy o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 oraz niektórych innych ustaw
+
+*USTAWA dnia 28 sierpnia 2009 o zmianie ustawy o przygotowaniu finałowego turnieju Mistrzostw Europy Piłce Nożnej UEFA EURO 2012 oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,66 +27,93 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091611281) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1281/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 7 września 2007r. oprzygotowaniu finałowego turnieju Mistrzostw Europy Piłce Nożnej UEFA EURO (Dz. U. 173, 1219, 2008 171, 1058 19, 100 68, 575) wprowadza następujące zmiany:
+**Art. 1.** W ustawie dnia 7 września 2007 o przygotowaniu finałowego turnieju Mistrzostw Europy Piłce Nożnej UEFA EURO 2012 (Dz. U. 173, 1219, 2008 171, 1058 oraz 2009 19, 100 68, 575) wprowadza się następujące zmiany:
 
-**Art. 24b.** Jeżeli przypadku, którym mowa art. 24a ust. 3, została przejęta część nieruchomości, a pozostała część nie nadaje prawidłowego wykorzystania na dotychczasowe cele, spółka celowa lub inny właściwy podmiot, nawojewody oustaleniu lokalizacji przedsięwzięcia Euro jest minister właściwy spraw budownictwa, gospodarki przestrzennej imieszkaniowej. 6. Termin, októrym mowa wust.1 pkt7, nie może być krótszy niż 30 dni od dnia, którym decyzja ustaleniu lokalizacji przedsięwzięcia Euro stała ostateczna.”;
+**Art. 24b.** Jeżeli przypadku, o którym mowa art. 24a ust. 3, została przewniosek właściciela lub użytkownika wieczystego nieruchomości, imieniu na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego tę część nieruchomości.
 
-**Art. 24c.** Do egzekucji obowiązków wynikających zdecyzji oustaleniu lokalizacji przedsięwzięcia Euro stosuje przepisy postępowaniu egzekucyjnym administracji.
+**Art. 24c.** Do egzekucji obowiązków wynikających decyzji o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stosuje się przepisy o postępowaniu egzekucyjnym administracji.
 
 **Art. 24d.**
 
-1. Decyzja ustaleniu lokalizacji przedsięwzięcia Euro stanowi podstawę wydania przez wojewodę decyzji owygaśnięciu trwałego zarządu ustanowionego na nieruchomoalbo jednostki samorządu terytorialnego została uprzednio wydzierżawiona, wynajęta lub użyczona, decyzja ustaleniu lokalizacji przedsięwzięcia Euro stanowi podstawę wypowiedzenia umowy dzierżawy, najmu lub użyczenia ze skutkiem natychmiastowym. Za straty poniesione na skutek rozwiązania umowy przysługuje odszkodowanie odpowiednio od Skarbu Państwa albo jednostki samorządu terytorialnego.
+1. Decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stanowi podstawę do wydania przez wojewodę decyzji o wygaśnięciu trwałego zarządu ustanowionego na nieruchomościach przeznaczonych dla realizacji przedsięwzięcia Euro 2012, stanowiących własność Skarbu Państwa, jednostki samorządu terytorialnego albo zarządu odniesieniu do gruntów będących zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe.
 
-3. Jeżeli nieruchomość przeznaczona dla realizacji przedsięwzięcia Euro stanowiąca własność SkarbuPaństwa albo jednostki samorządu terytorialnego została oddana użytkowanie wieczyste, użytkowanie to wygasa za odszkodowaniem, dniem którym decyzja ustaleniu lokalizacji przedsięwzięcia Euro stała ostateczna, ustalonym według zasad określonych przepisach gospodarce nieruchomościami, zastrzeżeniem art.24e.
+2. Jeżeli nieruchomość przeznaczona dla realizacji przedsięwzięcia Euro 2012 stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została uprzednio wydzierżawiona, wynajęta lub użyczona, decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stanowi podstawę do wypowiedzenia umowy dzierżawy, najmu lub użyczenia ze skutkiem natychmiastowym. Za straty poniesione na skutek rozwiązania umowy przysługuje odszkodowanie odpowiednio od Skarbu Państwa albo jednostki samorządu terytorialnego.
 
-4. Przepis ust. 3 stosuje odpowiednio użytkowania wieczystego nabytego sposób inny niż drodze umowy zawartej formie aktu notarialnego.
+3. Jeżeli nieruchomość przeznaczona dla realizacji przedsięwzięcia Euro 2012 stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została oddana użytkowanie wieczyste, użytkowanie to wygasa za odszkodowaniem, dniem którym decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stała się ostateczna, ustalonym według zasad określonych przepisach o gospodarce nieruchomościami, zastrzeżeniem art. 24e.
+
+4. Przepis ust. 3 stosuje się odpowiednio do użytkowania wieczystego nabytego sposób inny niż drodze umowy zawartej formie aktu notarialnego.
 
 **Art. 24e.**
 
-1. Za nieruchomości ograniczone prawa rzeczowe nieruchomości, októrych mowa wart.24a ust.3 wart.24d ust.3, przysługuje odszkodowanie wysokości uzgodnionej między spółką celową lub innym właściwym podmiotem, a dotychczasowym właścicielem lub użytkownikiem wieczystym nieruchomości, a także osobą, której przysługują ograniczone prawa rzeczowe nieruchomości.
+1. Za nieruchomości oraz ograniczone prawa rzeczowe do nieruchomości, o których mowa art. 24a ust. 3 oraz art. 24d ust. 3, przysługuje odszkodowanie wysokości uzgodnionej między spółką celową lub innym właściwym podmiotem, a dotychczasowym właścicielem lub użytkownikiem wieczystym nieruchomości, a także osobą, której przysługują ograniczone prawa rzeczowe do nieruchomości.
 
-2. Jeżeli wterminie 2 miesięcy od dnia, którym decyzja ustaleniu lokalizacji przedsięwzięcia Euro stała ostateczna, nie dojdzie uzgodnienia, którym mowa ust. 1, wysokość odszkodowania ustala wojewoda drodze decyzji, terminie 30dni od dnia wszczęcia postępowania. Postępowanie ustalenie wysokości odszkodowania wszczyna niezwłocznie po upływie terminu na dokonanie uzgodnienia, którym dniu wydania decyzji ustalającej wysokość odszkodowania. Odszkodowanie podlega waloryzacji na dzień wypłaty, według zasad obowiązujących przypadku zwrotu wywłaszczonych nieruchomości.
+2. Jeżeli terminie 2 miesięcy od dnia, którym decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stała się ostateczna, nie dojdzie do uzgodnienia, o którym mowa ust. 1, wysokość odszkodowania ustala wojewoda drodze decyzji, terminie 30 dni od dnia wszczęcia postępowania. Postępowanie o ustalenie wysokości odszkodowania wszczyna się niezwłocznie
 
-4. W przypadku, którym mowa wart.24a ust.4, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zmniejsza okwotę równą wartości wygaśniętych ograniczonych praw rzeczowych.
+3. Wysokość odszkodowania, o którym mowa ust. 1 2, ustala się na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego, według stanu nieruchomości dniu wydania decyzji o ustaleniu lokalizacji przedsięwzięcia Euro 2012 przez organ pierwszej instancji oraz według jej wartości dniu uzgodnienia, o którym mowa ust. 1, albo dniu wydania decyzji ustalającej wysokość odszkodowania. Odszkodowanie podlega waloryzacji na dzień wypłaty, według zasad obowiązujących przypadku zwrotu wywłaszczonych nieruchomości.
 
-5. Suma wysokości odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu, zwyłączeniem kwot, októrych mowa ust. 8 9, wysokości odszkodowania tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub na prawie użytkowania wieczystego nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego.
+4. W przypadku, o którym mowa art. 24a ust. 4, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zmniejsza się o kwotę równą wartości wygaśniętych ograniczonych praw rzeczowych.
 
-6. Jeżeli na nieruchomościach, których mowa art. 24a ust. 3, lub na prawie użytkowania wieczystego tych nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania tytułu wygaśnięcia hipoteki ustala wwysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, wraz zodsetkami zabezpieczonymi tą hipoteką. Odszkodowanie to podlega zaliczeniu na spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz zodsetkami.
+5. Suma wysokości odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu, wyłączeniem kwot, o których mowa ust. 8 9, wysokości odszkodowania tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub na prawie użytkowania wieczystego nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
-7. Odszkodowanie tytułu wygaśnięcia ograniczonych praw rzeczowych wysokości ustalonej na dzień, októrym mowa wust.3, wypłaca osobom, którym te prawa przysługiwały.
+6. Jeżeli na nieruchomościach, o których mowa art. 24a ust. 3, lub na prawie użytkowania wieczystego tych nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania tytułu wygaśnięcia hipoteki ustala się wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, wraz odsetkami zabezpieczonymi tą hipoteką. Odszkodowanie to podlega zaliczeniu na spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz odsetkami.
 
-8. Jeżeli dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją ustaleniu lokalizacji przedsięwzięcia Euro odpowiednio wyda tę nieruchomość lub wyda nieruchomość opróżni lokal inne pomieszczenia niezwłocznie, lecz nie póêniej niż terminie 14dni od dnia:
+7. Odszkodowanie tytułu wygaśnięcia ograniczonych praw rzeczowych wysokości ustalonej na dzień, o którym mowa ust. 3, wypłaca się osobom, którym te prawa przysługiwały.
 
-9. Wprzypadku gdy decyzja oustaleniu lokalizacji przedsięwzięcia Euro dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu tym budynku albo lokalu powiększa kwotę 10 000 zł odniesieniu tej nieruchomości.
+8. Jeżeli dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o ustaleniu lokalizacji przedsięwzięcia Euro 2012 odpowiednio wyda tę nieruchomość lub wyda nieruchomość opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż terminie 14 dni od dnia:
 
-10. Odszkodowanie za nieruchomości jest wypłacane odpowiednio ze środków budżetu państwa albo jednostki samorządu terytorialnego wterminie 14 dni od dnia, wktórym:
+- **1)** doręczenia zawiadomienia o wydaniu decyzji, o którym mowa art. 24 ust. 2, albo
+- **2)** którym decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stała się ostateczna – wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
-- **1)** została uzgodniona wysokość odszkodowania dotychczasowym właścicielem lub użytkownikiem wieczystym nieruchomości, a także osobą, której przysługują ograniczone prawa rzeczowe nieruchomości;
-- **2)** decyzja ustaleniu odszkodowania stała ostateczna.
+9. W przypadku gdy decyzja o ustaleniu lokalizacji przedsięwzięcia tychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu tym budynku albo lokalu powiększa się o kwotę 10 000 zł odniesieniu do tej nieruchomości.
 
-**Art. 24f.** W sprawach nieuregulowanych niniejszym rozdziale stosuje przepisy ustawy dnia 21 sierpnia 1997 gospodarce nieruchomościami (Dz. U. z2004r. Nr261, poz.2603, zpóên. zm. ).
+10. Odszkodowanie za nieruchomości jest wypłacane odpowiednio ze środków budżetu państwa albo jednostki samorządu terytorialnego terminie 14 dni od dnia, którym:
+
+- **1)** została uzgodniona wysokość odszkodowania dotychczasowym właścicielem lub użytkownikiem wieczystym nieruchomości, a także osobą, której przysługują ograniczone prawa rzeczowe do nieruchomości;
+- **2)** decyzja o ustaleniu odszkodowania stała się ostateczna.
+
+**Art. 24f.** W sprawach nieuregulowanych niniejszym rozdziale stosuje się przepisy ustawy dnia 21 sierpnia 1997 o gospodarce nieruchomościami (Dz. U. 2004 261, 2603, późn. zm. ).
 
 **Art. 24g.**
 
-1. Wprzypadku gdy decyzja oustaleniu lokalizacji przedsięwzięcia Euro dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, spółka celowa lub inny właściwy podmiot jest obowiązany terminie faktycznego objęcia rolnych leśnych, tym że określone tych przepisach należności jednorazowe odszkodowania razie dokonania przedwczesnego wyrębu drzewostanu odniesieniu gruntów leśnych przeznacza na Fundusz Leśny Państwowym Gospodarstwie Leśnym Lasy Państwowe tytułu wyłączenia gruntów Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe.
+1. W przypadku gdy decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, spółka celowa lub inny właściwy podmiot jest obowiązany terminie faktycznego objęcia nieruchomości posiadanie do wskazania lokalu zamiennego, zastrzeżeniem ust. 2.
 
-2. Należności jednorazowe odszkodowania wysokości ustalonej przez organy właściwe sprawach ochrony gruntów leśnych spółka celowa lub inny właściwy podmiot przekazuje na rachunek bankowy funduszu, którym mowa ust. 1, po przejęciu wszystkich gruntów danym obrębie katastru nieruchomości, wterminie dnia 30 czerwca każdego roku.
+2. W przypadku gdy faktyczne objęcie nieruchomości posiadanie następuje po upływie terminu, o którym mowa art. 24 ust. 6, spółka celowa lub inny właściwy podmiot nie ma obowiązku do wskazania lokalu zamiennego.
 
-**Art. 24i.** Jeżeli realizacja przedsięwzięcia Euro2012 wymaga wydania pozwolenia wodnoprawnego, odpowiednio marszałek województwa albo starosta wydają to pozwolenie terminie nie dłuższym niż 30 dni od dnia złożenia wniosku jego wydanie. Dla ustalenia stanu prawnego nieruchomości, których mowa wart.132 ust.2 pkt2 lit. ustawy zdnia 18 lipca 2001 Prawo wodne (Dz. U. z2005r. Nr239, poz.2019, zpóên. zm. nieruchomości posiadanie wskazania lokalu zamiennego, zastrzeżeniem ust.2. 2. W przypadku gdy faktyczne objęcie nieruchomości posiadanie następuje po upływie terminu, którym mowa wart.24 ust.6, spółka celowa lub inny właściwy podmiot nie ma obowiązku wskazania lokalu zamiennego. ), siedziby adresy właścicieli tych nieruchomości określa według katastru nieruchomości.”;
+3. Osoba, której wskazano lokal zamienny, jest obowiązana do jego opróżnienia najpóźniej dniu upływu terminu, o którym mowa art. 24 ust. 6.
 
-**Art. 3.** W ustawie dnia 12 lutego szczególnych zasadach przygotowania realizacji inwestycji wzakresie lotnisk użytku publicznego (Dz.U. Nr42, poz.340) wart.1 uchyla ust.3.
+**Art. 24h.**
 
-**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art.4 ustawy wymienionej wart.1 zachowują moc dnia wejścia życie przepisów wykonawczych wydanych na podstawie art.4 ustawy wymienionej wart.1, wbrzmieniu nadanym niniejszą ustawą imogą być zmieniane na tej podstawie.
+1. Do gruntów rolnych leśnych objętych decyzjami o ustaleniu lokalizacji przedsięwzięcia Euro 2012 nie stosuje się przepisów o ochronie gruntów rolnych leśnych, tym że określone tych przepisach należności oraz jednorazowe odszkodowania razie dokonania przedwczesnego wyrębu drzewostanu odniesieniu do gruntów leśnych przeznacza się na Fundusz Leśny Państwowym Gospodarstwie Leś nym Lasy Państwowe tytułu wyłączenia gruntów Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe.
+
+2. Należności oraz jednorazowe odszkodowania wysokości ustalonej przez organy właściwe sprawach ochrony gruntów leśnych spółka celowa lub inny właściwy podmiot przekazuje na rachunek bankowy funduszu, o którym mowa ust. 1, po przejęArt. 24i. Jeżeli realizacja przedsięwzięcia Euro 2012 wymaga wydania pozwolenia wodnoprawnego, odpowiednio marszałek województwa albo starosta wydają to pozwolenie terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jego wydanie. Dla ustalenia stanu prawnego nieruchomości, o których mowa art. 132 ust. 2 pkt 2 lit. c ustawy dnia 18 lipca 2001 – Prawo wodne (Dz. U. 2005 239, 2019, późn. zm. ), siedziby adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.”;
+
+- **8)** art. 25 otrzymuje brzmienie: „Art. 25. 1. W sprawach uregulowanych niniejszym rozdziale nie stosuje się przepisów o planowaniu zagospodarowaniu przestrzennym.
+
+2. Wojewoda wydaje decyzję o pozwoleniu na budowę przedsięwzięcia Euro 2012 oraz na przebudowę istniejących urządzeń infrastruktury technicznej na zasadach trybie przepisów prawa budowlanego, zastrzeżeniem przepisów niniejszego rozdziału.
+
+3. O wszczęciu postępowania o wydanie decyzji o pozwoleniu na budowę przedsięwzięcia Euro 2012 wojewoda zawiadamia, drodze obwieszczeń, urzędach gmin prasie lokalnej.
+
+4. Ilekroć przepisach prawa budowlanego jest mowa o decyzji o warunkach zabudowy zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji przedsięwzięcia Euro 2012.”;
+
+- **9)** po art. 25 dodaje się art. 25a brzmieniu: „Art. 25a. 1. Jeżeli decyzji o pozwoleniu na budowę przedsięwzięcia Euro 2012 wynika obowiązek dokonania przebudowy istniejących urządzeń infrastruktury technicznej wojewoda, na wniosek spółki celowej lub innego właściwego podmiotu, może ograniczyć, drodze decyzji, sposób korzystania nieruchomości przez udzielenie zezwolenia na zakładanie przeprowadzanie na nieruchomości ciągów drenażowych, przewodów urządzeń służących do przesyłania płynów, pary, gazów energii elektrycznej oraz urządzeń łączności publicznej sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów urządzeń niezbędnych do korzystania tych przewodów urządzeń, jeżeli właściciel lub użytkownik wieczysty nieruchomości nie wyraża na to zgody. Przepisy art. 124 ust. 2-7 oraz art. 124a ustawy dnia 21 sierpnia 1997 o gospodarce nieruchomościami stosuje się odpowiednio. administracji.”;
+- **10)** uchyla się rozdział 5;
+- **11)** art. 34 ust. 2 otrzymuje brzmienie: „2. Odwołanie od decyzji administracyjnej wydanej związku realizacją przedsięwzięć Euro 2012 wnosi się terminie 7 dni od dnia doręczenia decyzji stronie albo terminie 14 dni od dnia obwieszczenia lub doręczenia zawiadomienia o wydaniu decyzji.”;
+- **12)** art. 36 ust. 1 zdanie pierwsze otrzymuje brzmienie: „Nie stwierdza się nieważności ostatecznej decyzji o pozwoleniu na budowę wydanej związku realizacją przedsięwzięcia Euro 2012 na podstawie ustawy dnia 7 lipca 1994 - Prawo budowlane, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, którym decyzja stała się ostateczna, a budowa przedsięwzięcia Euro 2012 została rozpoczęta.”;
+- **13)** uchyla się art. 37.
+
+**Art. 2.** W ustawie dnia 21 sierpnia 1997 o gospodarce nieruchomościami (Dz. U. 2004 261, 2603, późn. zm. ) art. 37 ust. 2 dodaje się pkt 13 brzmieniu: „13) jest zbywana na rzecz spółki celowej utworzonej na podstawie przepisów ustawy dnia 7 września 2007 o przygotowaniu finałowego turnieju Mistrzostw Europy Piłce Nożnej UEFA EURO 2012 (Dz. U. 173, 1219, późn. zm. ) lub właściwych podmiotów wymienionych art. 17 ust. 2 tej ustawy, realizujących przedsięwzięcia Euro 2012, celu ich wykonania, sytuacji gdy jej nabycie przez Skarb Państwa lub jednostkę samorządu terytorialnego nastąpiło trybie przepisów ustawy dnia 7 września 2007 o przygotowaniu finałowego turnieju Mistrzostw Europy Piłce Nożnej UEFA EURO 2012.”.
+
+**Art. 3.** W ustawie dnia 12 lutego 2009 o szczególnych zasadach przygotowania realizacji inwestycji zakresie lotnisk użytku publicznego (Dz. U. 42, 340) art. 1 uchyla się ust. 3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 4 ustawy wymienionej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 4 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą mogą być zmieniane na tej podstawie.
 
 **Art. 5.**
 
-1. W sprawach wszczętych niezakończonych decyzją ostateczną prowadzonych przed dniem wejścia życie niniejszej ustawy na podstawie przepisów rozdziału 4 5 ustawy wymienionej art. 1, stosuje przepisy dotychczasowe, zastrzeżeniem ust.3.
+1. W sprawach wszczętych niezakończonych decyzją ostateczną prowadzonych przed dniem wejścia życie niniejszej ustawy na podstawie przepisów rozdziału 4 5 ustawy wymienionej art. 1, stosuje się przepisy dotychczasowe, zastrzeżeniem ust. 3.
 
-2. Do realizacji przedsięwzięć Euro 2012, dla których przed dniem wejścia życie niniejszej ustawy została wydana ostateczna decyzja ustaleniu lokalizacji przedsięwzięcia Euro 2012, stosuje przepisy dotychczasowe, zzastrzeżeniem ust.3.
+2. Do realizacji przedsięwzięć Euro 2012, dla których przed dniem wejścia życie niniejszej ustawy została wydana ostateczna decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012, stosuje się przepisy dotychczasowe, zastrzeżeniem ust. 3.
 
-3. W sprawach, których mowa ust. 1 2, na wniosek spółki celowej lub innego właściwego podmiotu, stosuje przepisy niniejszej ustawy.
+3. W sprawach, o których mowa ust. 1 2, na wniosek spółki celowej lub innego właściwego podmiotu, stosuje się przepisy niniejszej ustawy.
 
-**Art. 6.** W postępowaniach dotyczących realizacji przedsięwzięć Euro 2012, których mowa art. 5 ust. 1 2, zakresie ustalania wysokości wypłaty finansowania odszkodowań stosuje przepisy ustawy, októrej mowa wart.1, wbrzmieniu nadanym niniejszą ustawą.
+**Art. 6.** W postępowaniach dotyczących realizacji przedsięwzięć Euro 2012, o których mowa art. 5 ust. 1 2, zakresie ustalania wysokości wypłaty oraz finansowania odszkodowań stosuje się przepisy ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ———————
+**Art. 7.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

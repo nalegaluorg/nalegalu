@@ -8,9 +8,12 @@ pos: 546
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 marca 2022 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o mikroorganizmach i organizmach genetycznie zmodyfikowanych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 stycznia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/546/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 stycznia 2022 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o mikroorganizmach i organizmach genetycznie zmodyfikowanych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2021 r.
 poz. 117), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 stycznia 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 56 i art. 60 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718), które stanowią: „ Niniejsza ustawa:

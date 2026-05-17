@@ -8,9 +8,12 @@ pos: 1199
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 sierpnia 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji strategicznych inwestycji zakresie sieci przesyłowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-08-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1199/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji strategicznych inwestycji zakresie sieci przesyłowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 555), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 lipca 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 61–63 i art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), które stanowią: „Art. 61. 1. Do spraw wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że sprawy te toczą się przed organem, który przejął zadania i kompetencje na podstawie niniejszej ustawy.
 2. Organ, który przejął zadania i kompetencje na podstawie niniejszej ustawy, przejmuje związane z tymi zadaniami i kompetencjami prawa i obowiązki organu, który utracił te zadania i kompetencje, tym także wynikające z umów i porozumień.
@@ -36,7 +37,7 @@ Art. 29–32. (pominięte)
 
 **Art. 62.** Dyrektorzy generalni urzędów obsługujących organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, terminie 30 dni od dnia wejścia życie niniejszej ustawy, przekażą sprawy wszczęte i niezakończone dyrektorom generalnym urzędów obsługujących organy, które przejęły te zadania i kompetencje. Z czynności przekazania sporządza się protokół.
 
-**Art. 63.** Czynności dokonane przed dniem wejścia życie niniejszej ustawy przez organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, a także dokumenty sporządzone przed dniem wejścia życie niniejszej ustawy przez ten organ albo przy jego udziale, szczególności uzgodnienia, zatwierdzenia, akceptacje, wezwania, wpisy do rejestrów, zlecenia, wskazania, weryfikacje, notyfikacje, opinie i zaświadczenia, zachowują ważność, przy czym dokumenty wydane na czas określony zachowują ważność przez okres, na który zostały wydane.”
+**Art. 63.** Czynności dokonane przed dniem wejścia życie niniejszej ustawy przez organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, a także dokumenty sporządzone przed dniem wejścia życie niniejszej ustawy przez ten organ albo przy jego udziale, szczególności uzgodnienia, zatwierdzenia, akceptacje, wezwania, wpisy do rejestrów, zlecenia, wskazania, weryfikacje, notyfikacje, opinie i zaświadczenia, zachowują ważność, przy czym dokumenty wydane na czas określony zachowują ważność przez okres, na który zostały wydane.” „Art. 84. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -56,7 +57,7 @@ Art. 29–32. (pominięte)
 - **3)** sieć przesyłowa sieć przesyłową rozumieniu ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne;
 - **4)** strategiczna inwestycja zakresie sieci przesyłowej zadanie inwestycyjne wraz z wykonywaniem niezbędnych robót budowlanych rozumieniu ustawy z dnia 7 lipca 1994 r. Prawo budowlane, szczególności budowy lub przebudowy obiektów, urządzeń, sieci i instalacji niezbędnych do budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki linii stanowiących elementy sieci przesyłowej, tym stacji elektroenergetycznych, tymczasowych obiektów budowlanych, obiektów sieci gazowej, sieci i przyłączy elektroenergetycznych, wodociągowych, kanalizacyjnych, cieplnych, telekomunikacyjnych oraz infrastruktury drogowej lub kolejowej;
 - **4a)** strategiczna inwestycja zakresie sieci dystrybucyjnej zadanie inwestycyjne wraz z wykonywaniem niezbędnych robót budowlanych rozumieniu ustawy z dnia 7 lipca 1994 r. Prawo budowlane, szczególności budowy lub przebudowy obiektów, urządzeń, sieci i instalacji niezbędnych do budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki infrastruktury składającej się na sieć dystrybucyjną o napięciu wyższym niż 400 V, tym stacji elektroenergetycznych, tymczasowych obiektów budowlanych, obiektów sieci gazowej, sieci i przyłączy elektroenergetycznych, wodociągowych, kanalizacyjnych, cieplnych i telekomunikacyjnych oraz infrastruktury drogowej lub kolejowej, niebędące strategiczną inwestycją zakresie sieci przesyłowej i niebędące inwestycją towarzyszącą określoną wykazie, o którym mowa art. 2, lub określoną przepisach wykonawczych wydanych na podstawie art. 2a;
-- **5)** uzbrojenie terenu urządzenia infrastruktury technicznej, o których mowa art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ), oraz ropociągi. niem inwestycji towarzyszących polegających na przebudowie lub remoncie istniejących linii elektroenergetycznych stanowiących elementy sieci dystrybucyjnej o napięciu równym lub wyższym niż 110 kV, jest określony załączniku do ustawy.
+- **5)** uzbrojenie terenu urządzenia infrastruktury technicznej, o których mowa art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ), oraz ropociągi. wiących elementy sieci dystrybucyjnej o napięciu równym lub wyższym niż 110 kV, jest określony załączniku do ustawy.
 
 **Art. 2a.** Rada Ministrów określi, drodze rozporządzenia, wykaz inwestycji towarzyszących polegających na przebudowie lub remoncie istniejących linii elektroenergetycznych stanowiących elementy sieci dystrybucyjnej o napięciu równym lub wyższym niż 110 kV, biorąc pod uwagę:
 
@@ -93,7 +94,7 @@ Art. 29–32. (pominięte)
 - **9)** wskazanie ujawnionych ograniczonych praw rzeczowych obciążających nieruchomości wskazane zgodnie z pkt 8 i 8a;
 - **10)** wskazanie nieruchomości, stosunku do których decyzja o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej ma wywołać skutek, o którym mowa art. 22 ust. 1, tym gruntów stanowiących własność Skarbu Państwa pokrytych wodami, gruntów stanowiących pas drogowy lub gruntów objętych obszarem kolejowym, jeżeli strategiczna inwestycja zakresie sieci przesyłowej wymaga przejścia przez te grunty, oraz gruntów stanowiących pas drogowy, jeżeli strategiczna inwestycja zakresie sieci przesyłowej wymaga budowy lub przebudowy zjazdów na tych gruntach; jeżeli strategiczna inwestycja zakresie sieci przesyłowej wymaga przejścia przez grunty stanowiące własność Skarbu Państwa pokryte wodami, grunty stanowiące pas drogowy lub grunty objęte obszarem kolejowym, inwestor określa sposób, miejsce i warunki umieszczenia na tych gruntach obiektów lub urządzeń; przypadku gdy strategiczna inwestycja zakresie sieci przesyłowej wymaga budowy zjazdów, inwestor określa także lokalizację i parametry techniczne zjazdów, a gdy wymaga przebudowy zjazdów ich parametry techniczne;
 - **10a)** wskazanie podmiotów innych niż inwestor, na rzecz których ograniczenie sposobu korzystania z nieruchomości ma nastąpić zgodnie z art. 22 ust. 4, oraz zgodę tych podmiotów na takie ograniczenie;
-- **10b)** wskazanie okresu, jakim decyzja o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej ma wywoływać skutek, o którym mowa art. 22 ust. 1, przypadku gdy ograniczenie sposobu korzystania z nieruchomości, o którym mowa art. 22 ust. 1, ma nastąpić na czas określony; mowa art. 22 ust. 2, wraz z określeniem maksymalnej dopuszczalnej wysokości drzew, krzewów lub innej roślinności przypadku zakazu, o którym mowa art. 22 ust. 2 pkt 3;
+- **10b)** wskazanie okresu, jakim decyzja o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej ma wywoływać skutek, o którym mowa art. 22 ust. 1, przypadku gdy ograniczenie sposobu korzystania z nieruchomości, o którym mowa art. 22 ust. 1, ma nastąpić na czas określony; przypadku zakazu, o którym mowa art. 22 ust. 2 pkt 3;
 - **11)** opinie, o których mowa ust. 2;
 - **12)** (uchylony)
 - **13)** uzgodnienie, o którym mowa ust. 3b, albo informację o nieprzedstawieniu przez właściwego zarządcę drogi krajowej stanowiska terminie, o którym mowa ust. 3c;
@@ -126,7 +127,7 @@ Art. 29–32. (pominięte)
 
 2a. Do wystąpienia o opinie, o którym mowa ust. 2 pkt 2–2b, odniesieniu do inwestycji zakresie zespołu urządzeń służących do wyprowadzenia mocy rozumieniu art. 3 pkt 13 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej morskich farmach wiatrowych, stosuje się wymagania określone art. 27a ust. 1, 2, 2b i 4 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 
-2b. Oświadczenie o wpisie do właściwego rejestru, o którym mowa art. 27a ust. 2 pkt 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. wystąpienia o tę opinię. Niewydanie opinii tym terminie traktuje się jako brak zastrzeżeń odniesieniu do planowanej strategicznej inwestycji zakresie sieci przesyłowej.
+2b. Oświadczenie o wpisie do właściwego rejestru, o którym mowa art. 27a ust. 2 pkt 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. strategicznej inwestycji zakresie sieci przesyłowej.
 
 3a. Kopie opinii, o których mowa ust. 2, właściwy organ przekazuje wojewodzie.
 
@@ -220,7 +221,7 @@ Art. 29–32. (pominięte)
 - **9)** termin wydania nieruchomości lub opróżnienia lokali i innych pomieszczeń, nie krótszy niż 120 dni od dnia, którym decyzja o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej stała się ostateczna;
 - **10)** lokalizację sztucznych wysp, konstrukcji i urządzeń obszarach morskich Rzeczypospolitej Polskiej oraz kabli i rurociągów, określoną za pomocą współrzędnych geocentrycznych geodezyjnych, ich charakterystyczne parametry techniczne, szczegółowe warunki i wymagania wynikające z przepisów odrębnych, a szczególności zakresie, o którym mowa art. 23 ust. 3 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 
-2. Sporządzenie projektu decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej powierza się osobie, o której mowa art. 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, albo osobie wpisanej na listę izby samorządu zawodowego architektów posiadającej uprawnienia budowlane do projektowania bez ograniczeń specjalności architektonicznej albo uprawnienia budowlane do projektowania i kierowania robotami budowlanymi bez ograniczeń specjalności architektonicznej. strategicznej inwestycji zakresie sieci przesyłowej lub brak danych katastrze nieruchomości pozwalających na ustalenie danych osobowych, szczególności adresu zamieszkania, właściciela lub użytkownika wieczystego nieruchomości, nie stanowi przeszkody do wszczęcia i prowadzenia postępowania o ustalenie lokalizacji strategicznej inwestycji zakresie sieci przesyłowej oraz wydania i doręczenia decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej oraz zawiadomienia o jej wydaniu.
+2. Sporządzenie projektu decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej powierza się osobie, o której mowa art. 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, albo osobie wpisanej na listę izby samorządu zawodowego architektów posiadającej uprawnienia budowlane do projektowania bez ograniczeń specjalności architektonicznej albo uprawnienia budowlane do projektowania i kierowania robotami budowlanymi bez ograniczeń specjalności architektonicznej. danych osobowych, szczególności adresu zamieszkania, właściciela lub użytkownika wieczystego nieruchomości, nie stanowi przeszkody do wszczęcia i prowadzenia postępowania o ustalenie lokalizacji strategicznej inwestycji zakresie sieci przesyłowej oraz wydania i doręczenia decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej oraz zawiadomienia o jej wydaniu.
 
 2. Przez nieuregulowany stan prawny należy rozumieć także sytuację, kiedy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości nie żyje, a spadkobiercy nie wykazali prawa do spadku.
 
@@ -249,7 +250,7 @@ Art. 29–32. (pominięte)
 - **1)** zawiadamiania stron o wniesieniu odwołania od decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej lub o wniesieniu zażalenia na postanowienie wydane toku postępowania sprawie wydania decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej;
 - **2)** zawiadamiania stron o wszczęciu postępowania sprawie uchylenia lub zmiany decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej;
 - **3)** zawiadamiania stron o wznowieniu postępowania sprawie zakończonej ostateczną decyzją o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej;
-- **4)** zawiadamiania stron o wszczęciu postępowania sprawie stwierdzenia nieważności decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej; strategicznej inwestycji zakresie sieci przesyłowej;
+- **4)** zawiadamiania stron o wszczęciu postępowania sprawie stwierdzenia nieważności decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej;
 - **6)** doręczeń decyzji wydanych sprawach, o których mowa pkt 1–5, oraz do zawiadamiania o ich wydaniu;
 - **7)** doręczeń postanowień wydanych toku postępowań sprawach, o których mowa pkt 1–5, od których przysługuje zażalenie lub skarga do sądu administracyjnego, oraz do zawiadamiania o ich wydaniu.
 
@@ -364,7 +365,7 @@ Art. 29–32. (pominięte)
 
 **Art. 14b.**
 
-1. Zgłoszenie dotyczące robót budowlanych, o których mowa art. 29 ust. 1 i 3 oraz art. 31 ust. 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane, zakresie strategicznej inwestycji zakresie sieci przesyłowej dokonywane jest organowi administracji architektoniczno-budowlanej na zasadach i trybie określonych ustawie z dnia 7 lipca 1994 r. Prawo budowlane, z uwzględnieniem przepisów niniejszej ustawy. jest wojewoda.
+1. Zgłoszenie dotyczące robót budowlanych, o których mowa art. 29 ust. 1 i 3 oraz art. 31 ust. 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane, zakresie strategicznej inwestycji zakresie sieci przesyłowej dokonywane jest organowi administracji architektoniczno-budowlanej na zasadach i trybie określonych ustawie z dnia 7 lipca 1994 r. Prawo budowlane, z uwzględnieniem przepisów niniejszej ustawy.
 
 3. Organem wyższego stopnia stosunku do wojewody sprawach zgłoszenia, o którym mowa ust. 1, jest Główny Inspektor Nadzoru Budowlanego.
 
@@ -467,7 +468,7 @@ Art. 29–32. (pominięte)
 
 2. Jeżeli przeznaczona na strategiczną inwestycję zakresie sieci przesyłowej nieruchomość oznaczona treści decyzji zgodnie z art. 8 ust. 1 pkt 7 i 7a została uprzednio wydzierżawiona, wynajęta, użyczona lub oddana do używania osobie trzeciej, dzierżawa, najem, użyczenie lub oddanie nieruchomości do używania osobie trzeciej wygasają z upływem miesiąca od dnia, którym decyzja o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej stała się ostateczna.
 
-3. Za straty poniesione na skutek wygaśnięcia umów, o których mowa ust. 2, przysługuje odszkodowanie od inwestora. mowa art. 19 ust. 3–5, przysługuje odszkodowanie wysokości uzgodnionej między wojewodą a dotychczasowym właścicielem, użytkownikiem wieczystym lub osobą, której przysługuje ograniczone prawo rzeczowe do nieruchomości. Uzgodnienia dokonuje się formie pisemnej pod rygorem nieważności.
+3. Za straty poniesione na skutek wygaśnięcia umów, o których mowa ust. 2, przysługuje odszkodowanie od inwestora. cielem, użytkownikiem wieczystym lub osobą, której przysługuje ograniczone prawo rzeczowe do nieruchomości. Uzgodnienia dokonuje się formie pisemnej pod rygorem nieważności.
 
 2. Jeśli terminie 2 miesięcy od dnia, którym decyzja o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowej stała się ostateczna, nie dojdzie do uzgodnienia, o którym mowa ust. 1, wysokość odszkodowania ustala wojewoda drodze decyzji terminie 30 dni od dnia wszczęcia postępowania.
 
@@ -570,7 +571,7 @@ Art. 29–32. (pominięte)
 
 2. Odwołanie od decyzji administracyjnych, o których mowa niniejszej ustawie, wnosi się terminie 7 dni od dnia ich doręczenia stronie albo terminie 14 dni od dnia, którym zawiadomienie o ich wydaniu drodze obwieszczenia uważa się za dokonane.
 
-3. Odwołanie od decyzji administracyjnych, o których mowa niniejszej ustawie, powinno zawierać zarzuty odnoszące się do decyzji, określać istotę i zakres żądania będącego przedmiotem odwołania oraz wskazywać dowody uzasadniające to żądanie. 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się, z wyjątkiem odwołania od decyzji, o której mowa art. 13 ust. 1, przypadku gdy odwołanie zawiera wskazanie niezgodności tej decyzji z decyzją o środowiskowych uwarunkowaniach lub nieuwzględnienia postanowień decyzji o środowiskowych uwarunkowaniach, oraz odwołania od decyzji, o której mowa art. 14 ust. 1.
+3. Odwołanie od decyzji administracyjnych, o których mowa niniejszej ustawie, powinno zawierać zarzuty odnoszące się do decyzji, określać istotę i zakres żądania będącego przedmiotem odwołania oraz wskazywać dowody uzasadniające to żądanie. mowa art. 13 ust. 1, przypadku gdy odwołanie zawiera wskazanie niezgodności tej decyzji z decyzją o środowiskowych uwarunkowaniach lub nieuwzględnienia postanowień decyzji o środowiskowych uwarunkowaniach, oraz odwołania od decyzji, o której mowa art. 14 ust. 1.
 
 4. Odwołanie od decyzji administracyjnych, o których mowa niniejszej ustawie, rozpatruje się terminie 14 dni, z wyjątkiem decyzji, o których mowa art. 5 ust. 1, art. 13 ust. 1 i art. 14 ust. 1, od których odwołanie rozpatruje się terminie 60 dni.
 
@@ -600,7 +601,7 @@ Art. 29–32. (pominięte)
 
 9. Kary, o której mowa ust. 8, nie wymierza się, jeżeli organem wyższego stopnia właściwym do rozpatrzenia odwołania od decyzji, o której mowa art. 14 ust. 1, jest Generalny Dyrektor Ochrony Środowiska.
 
-10. Karę, o której mowa ust. 8, uiszcza się terminie 14 dni od dnia, którym postanowienie, o którym mowa ust. 8, stało się ostateczne. W przypadku nieuiszczenia kary, o której mowa ust. 8, podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji. Wpływy z tytułu kar pieniężnych stanowią dochód budżetu państwa. 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935), z wyłączeniem art. 61 § 3, art. 115–122 i art. 152 tej ustawy, z tym że:
+10. Karę, o której mowa ust. 8, uiszcza się terminie 14 dni od dnia, którym postanowienie, o którym mowa ust. 8, stało się ostateczne. W przypadku nieuiszczenia kary, o której mowa ust. 8, podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji. Wpływy z tytułu kar pieniężnych stanowią dochód budżetu państwa. art. 115–122 i art. 152 tej ustawy, z tym że:
 
 - **1)** przekazanie akt i odpowiedzi na skargę następuje terminie 15 dni od dnia wniesienia skargi;
 - **2)** skargę rozpoznaje się terminie 30 dni od dnia jej wpłynięcia do sądu.
@@ -803,7 +804,7 @@ Art. 29–32. (pominięte)
 
 31. Budowa linii 400 kV Chełm Lublin Systemowa.
 
-33. Budowa linii 220 kV Praga nacięcie linii Miłosna Mory.
+32. Budowa linii 220 kV Radkowice Kielce Piaski.
 
 34. Budowa linii 220 kV Pomorzany nacięcie linii Krajnik Glinki.
 
@@ -873,7 +874,7 @@ Art. 29–32. (pominięte)
 
 67. Budowa linii 400 kV stacja rejonie Torunia nacięcie linii Grudziądz Płock.
 
-69. Budowa linii 400 kV Kozienice stacja rejonie Stalowej Woli.
+68. Budowa linii 400 kV stacja rejonie Torunia nacięcie linii Grudziądz Jasiniec.
 
 70. Budowa linii 220 kV Stalowa Wola stacja rejonie Stalowej Woli.
 
@@ -935,7 +936,7 @@ Art. 29–32. (pominięte)
 
 14. Budowa linii 110 kV Grzmiąca Szczecinek Marcelin/Szczecinek Leśna.
 
-16. Budowa linii 110 kV nowa stacja rejonie Legnicy Legnica Strefa.
+15. Budowa linii 110 kV Gdańsk Błonia Maćkowy/Pruszcz.
 
 17. Budowa linii 110 kV nowa stacja rejonie Legnicy Komorniki.
 
@@ -1011,7 +1012,7 @@ Art. 29–32. (pominięte)
 
 53. Budowa linii 110 kV Jarosław nacięcie linii Munina Korczowa.
 
-55. Budowa linii 110 kV Jarosław nacięcie linii 110 kV Jarosław Północ Sieniawa.
+54. Budowa linii 110 kV Jarosław Jarosław Północ.
 
 56. Budowa linii 110 kV Jarosław nacięcie linii 110 kV Lubaczów Korczowa.
 

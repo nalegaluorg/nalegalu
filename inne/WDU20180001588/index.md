@@ -8,9 +8,12 @@ pos: 1588
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 sierpnia 2018 r.
+# o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o podatku leśnym
+
+*USTAWA z dnia 20 lipca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +27,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001588) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1588/text.pdf) |
 
-Poz. 1588
-USTAWA z dnia 20 lipca 2018 r.
-o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o podatku leśnym
+**Art. 1.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2017 r. poz. 1892) w art. 2 dodaje się ust. 3 i 4 w brzmieniu: „3. Za grunty zajęte na prowadzenie działalności gospodarczej innej niż działalność rolnicza nie uważa się gruntów sklasyfikowanych w ewidencji gruntów i budynków jako użytki rolne:
 
-**Art. 1.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2017 r. poz. 1892) art. 2 dodaje 3 i brzmieniu: „3. Za grunty zajęte na prowadzenie działalności gospodarczej innej niż działalność rolnicza nie uważa gruntów sklasyfikowanych ewidencji gruntów i budynków jako użytki rolne:
+**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2018 r. poz. 1445) w art. 1a:
 
-**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2018 r. poz. 1445) art. 1a:
+**Art. 3.** W ustawie z dnia 30 października 2002 r. o podatku leśnym (Dz. U. z 2017 r. poz. 1821) w art. 1 dodaje się ust. 4 i 5 w brzmieniu: „4. Za lasy zajęte na wykonywanie innej działalności gospodarczej niż działalność leśna nie uznaje się lasów:
 
-**Art. 3.** W ustawie z dnia 30 października 2002 r. o podatku leśnym (Dz. U. z 2017 r. poz. 1821) art. 1 dodaje i 5 brzmieniu: „4. Za lasy zajęte na wykonywanie innej działalności gospodarczej niż działalność leśna nie uznaje lasów:
-
-**Art. 4.** Ustawa wchodzi życie z dniem 1 stycznia 2019 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r.
 

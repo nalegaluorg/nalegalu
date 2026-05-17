@@ -8,9 +8,12 @@ pos: 434
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 kwietnia 2014 r.
+# o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw
+
+*USTAWA z dnia 21 lutego 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000434) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/434/text.pdf) |
 
-Poz. 434
-USTAWA z dnia 21 lutego 2014 r.
-o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz. U. z 2002 r. Nr 101, poz. 927, z późn. zm. ) w art. 35b ust. 1 otrzymuje brzmienie: „1. Koszty związane z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej są w roku 2014 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.”.
 
 **Art. 2.** W ustawie z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. Nr 32, poz. 217, z późn. zm. ) w art. 14a ust. 2 otrzymuje brzmienie: „2. Koszty związane z uczestnictwem organizacji rolników w organizacjach, o których mowa w ust. 1 pkt 2, są w roku 2014 dofinansowywane na zasadach określonych w przepisach o izbach rolniczych.”.
@@ -38,5 +37,5 @@ o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw
 
 **Art. 5.** W 2014 r. z dotacji celowej dofinansowane są koszty związane z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej, poniesione od dnia 1 stycznia 2014 r.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

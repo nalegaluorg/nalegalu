@@ -8,9 +8,12 @@ pos: 601
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Ustawa z dnia 29 kwietnia 2010 r. o utworzeniu Akademii Sztuki w Szczecinie
+
+*USTAWA z dnia 29 kwietnia o utworzeniu Akademii Sztuki Szczecinie*
 
 | Pole | Wartość |
 |---|---|
@@ -26,47 +29,42 @@ domain: null
 
 **Art. 1.**
 
-1. Tworzy się z dniem 1 września 2010 r. Akademię Sztuki w Szczecinie, zwaną dalej „Akademią”.
+1. Tworzy się z dniem 1 Akademię Sztuki Szczecinie, zwaną dalej „Akademią”.
 
 2. Akademia jest uczelnią publiczną.
 
 3. Siedzibą Akademii jest miasto Szczecin.
 
-**Art. 2.** Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie sztuk muzycznych, plastycznych, teatralnych i mieszczących się w nich dyscyplin artystycznych oraz w zakresie nauk humanistycznych.
+**Art. 2.** Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych sztuk muzycznych, plastycznych, teatralnych mieszczących się nich dyscyplin artystycznych oraz nauk humanistycznych.
 
-**Art. 3.** Nadzór nad Akademią sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
-
-**Art. 4.**
-
-1. Akademię tworzy się z Wydziału Edukacji Muzycznej Filii w Szczecinie Akademii Muzycznej w Poznaniu oraz Katedry Edukacji Artystycznej Wydziału Humanistycznego Uniwersytetu Szczecińskiego.
-
-2. Z dniem 1 września 2010 r. znosi się Wydział Edukacji Muzycznej Filii w Szczecinie Akademii Muzycznej w Poznaniu oraz Katedrę Edukacji Artystycznej Wydziału Humanistycznego Uniwersytetu Szczecińskiego.
-
-3. Akademia, z dniem 1 września 2010 r., przejmuje prawa i zobowiązania Akademii Muzycznej w Poznaniu dotyczące Wydziału Edukacji Muzycznej Filii w Szczecinie.
+**Art. 3.** Nadzór nad Akademią sprawuje minister właściwy do spraw kultury ochrony dziedzictwa narodowego. Art. 1. Akademię tworzy się z Wydziału Edukacji Muzycznej Filii Szczecinie Akademii Muzycznej Poznaniu oraz Katedry Edukacji Artystycznej Wydziału Humanistycznego Uniwersytetu Szczecińskiego. 2. Z dniem 1 znosi się Wydział Edukacji Muzycznej Filii Szczecinie Akademii Muzycznej Poznaniu oraz Katedrę Edukacji Artystycznej Wydziału Humanistycznego Uniwersytetu Szczecińskiego. 3. Akademia, z dniem 1 r., przejmuje prawa zobowiązania Akademii Muzycznej Poznaniu dotyczące Wydziału Edukacji Muzycznej Filii Szczecinie.
 
 **Art. 5.**
 
-1. W mienie obejmujące własność i inne prawa majątkowe wyposaży Akademię Gmina Miasto Szczecin i samorząd województwa zachodniopomorskiego.
-
-2. Ruchomości stanowiące wyposażenie Katedry Edukacji Artystycznej Wydziału Humanistycznego Uniwersytetu Szczecińskiego oraz ruchomości stanowiące wyposażenie Wydziału Edukacji Muzycznej Filii w Szczecinie Akademii Muzycznej w Poznaniu pozostają własnością Uniwersytetu Szczecińskiego i Akademii Muzycznej w Poznaniu.
+1. W mienie obejmujące własność inne prawa majątkowe wyposaży Akademię Gmina Miasto Szczecin samorząd województwa zachodniopomorskiego. Humanistycznego Uniwersytetu Szczecińskiego oraz ruchomości stanowiące wyposażenie Wydziału Edukacji Muzycznej Filii Szczecinie Akademii Muzycznej Poznaniu pozostają własnością Uniwersytetu Szczecińskiego Akademii Muzycznej Poznaniu.
 
 **Art. 6.**
 
-1. Z dniem 1 września 2010 r.:
+1. Z dniem 1 r.:
 
-- **1)** pracownicy Akademii Muzycznej w Poznaniu zatrudnieni w Wydziale Edukacji Muzycznej Filii w Szczecinie oraz pracownicy Uniwersytetu Szczecińskiego zatrudnieni w Katedrze Edukacji Artycownikami Akademii. Do pracowników stosuje się art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z późn. zm. );
-- **2)** studenci Wydziału Edukacji Muzycznej Filii w Szczecinie Akademii Muzycznej w Poznaniu oraz studenci Uniwersytetu Szczecińskiego kierunku edukacji artystycznej w zakresie sztuki muzycznej Wydziału Humanistycznego stają się, studentami Akademii;
-- **3)** słuchacze studiów podyplomowych muzyka, prowadzonych na Wydziale Humanistycznym Uniwersytetu Szczecińskiego stają się słuchaczami studiów podyplomowych tej samej nazwie w Akademii;
-- **4)** osoby przyjęte na pierwszy rok studiów na rok akademicki 2010/2011 na Wydział Edukacji Muzycznej Filii w Szczecinie Akademii Muzycznej w Poznaniu oraz na kierunek edukacja artystyczna w zakresie sztuki muzycznej prowadzony przez Wydział Humanistyczny Uniwersytetu Szczecińskiego stają się, osobami przyjętymi do Akademii.
+- **1)** pracownicy Akademii Muzycznej Poznaniu zatrudnieni Wydziale Edukacji Muzycznej Filii Szczecinie oraz pracownicy Uniwersytetu Szczecińskiego zatrudnieni Katedrze Edukacji Artystycznej Wydziału Humanistycznego stają się pracownikami Akademii. Do pracowników stosuje się art. 23 ustawy z dnia 26 czerwca 1974 – Kodeks pracy (Dz. U. z 1998 Nr 21, poz. 94, z późń. zm. );
+- **2)** studenci Wydziału Edukacji Muzycznej Filii Szczecinie Akademii Muzycznej Poznaniu oraz studenci Uniwersytetu Szczecińskiego kierunku edukacji artystycznej sztuki muzycznej Wydziału Humanistycznego stają się, studentami Akademii;
+- **3)** słuchacze studiów podyplomowych – muzyka, prowadzonych Wydziale Humanistycznym Uniwersytetu Szczecińskiego stają się słuchaczami studiów podyplomowych o tej samej nazwie Akademii;
+- **4)** osoby przyjęte pierwszy rok studiów rok akademicki 2010/2011 Wydział Edukacji Muzycznej Filii Szczecinie Akademii Muzycznej Poznaniu oraz kierunek edukacja artystyczna sztuki muzycznej prowadzony przez Wydział Humanistyczny Uniwersytetu Szczecińskiego stają się, osobami przyjętymi do Akademii.
 
-2. Rekrutacja w Akademii na poszczególne kierunki studiów w roku akademickim 2010/2011 odbywa się według zasad określonych w odpowiednich uchwałach senatów Akademii Muzycznej w Poznaniu i Uniwersytetu Szczecińskiego.
+2. Rekrutacja Akademii poszczególne kierunki studiów roku akademickim 2010/2011 odbywa się według zasad określonych odpowiednich uchwałach senatów Akademii Muzycznej Poznaniu Uniwersytetu Szczecińskiego.
 
-3. Wydział Edukacji Muzycznej Filii w Szczecinie Akademii Muzycznej w Poznaniu staje się podstawową jednostką organizacyjną Akademii.
+3. Wydział Edukacji Muzycznej Filii Szczecinie Akademii Muzycznej Poznaniu staje się podstawową jednostką organizacyjną Akademii. Katedra Edukacji Artystycznej Wydziału Humanistycznego Uniwersytetu Szczecińskiego staje się jednostką organizacyjną wydziału, o którym mowa ust. 3.
 
-4. Katedra Edukacji Artystycznej Wydziału Humanistycznego Uniwersytetu Szczecińskiego staje się jednostką organizacyjną wydziału, którym mowa w ust. 3. ganizacyjnych Akademii. lonych w Statucie Akademii.
+5. Wydział, o którym mowa ust. 3, zachowuje uprawnienia do prowadzenia studiów określonym kierunku poziomie kształcenia zakresie, jakim te uprawnienia posiadał przed dniem utworzenia Akademii. ganami jednostek organizacyjnych Akademii.
 
 **Art. 7.**
 
-1. Dotychczasowi przedstawiciele Wydziału Art. 9. Ustawa wchodzi w życie po upływie 14 dni Edukacji Muzycznej Filii w Szczecinie do Senatu Aka- od dnia ogłoszenia. demii Muzycznej w Poznaniu oraz przedstawiciele Wydziału Humanistycznego do Senatu Uniwersytetu Szczecińskiego zatrudnieni w Katedrze Edukacji Artystycznej pełnią funkcję Senatu Akademii do dnia wy- Marszałek Sejmu wykonujący obowiązki boru Senatu Akademii w trybie i na zasadach określo- Prezydenta Rzeczypospolitej Polskiej: nych w art. 8. B. Komorowski
+1. Dotychczasowi przedstawiciele Wydziału Edukacji Muzycznej Filii Szczecinie do Senatu Akademii Muzycznej Poznaniu oraz przedstawiciele Wydziału Humanistycznego do Senatu Uniwersytetu Szczecińskiego zatrudnieni Katedrze Edukacji Artystycznej pełnią funkcję Senatu Akademii do dnia wyboru Senatu Akademii trybie zasadach określonych art. 8.
 
+2. Pierwszego rektora Akademii powołuje minister właściwy do spraw kultury ochrony dziedzictwa narodowego.
+
+**Art. 8.** Wybory do Senatu Akademii oraz wybory dziekana rady wydziału zostaną przeprowadzone do dnia 30 trybie zasadach określonych Statucie Akademii.
+
+**Art. 9.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

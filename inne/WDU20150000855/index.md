@@ -8,9 +8,12 @@ pos: 855
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 czerwca 2015 r.
+# o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
+
+*USTAWA z dnia 9 kwietnia 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +27,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/855/text.pdf) |
 
-USTAWA z dnia 9 kwietnia 2015 r.
-o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 21a.**
 
-1. Prezes Głównego Urzędu Statystycznego i Prezes Narodowego Banku Polskiego współdziałają ze sobą, prowadząc badania statystyczne na podstawie niniejszej ustawy, ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036 oraz z 2015 r. poz. 855) oraz ustawy z dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. z 2012 r. poz. 826, z 2013 r. poz. 1036 oraz z 2015 r. poz. 855).
+1. Prezes Głównego Urzędu Statystycznego i Prezes Narodowego Banku Polskiego współdziałają ze sobą, prowadząc badania statystyczne na podstawie niniejszej ustawy, ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036 oraz z 2015 r. poz. 855) oraz ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2012 r. poz. 826, z 2013 r. poz. 1036 oraz z 2015 r. poz. 855).
 
 2. Współdziałanie, o którym mowa w ust. 1, polega w szczególności na:
 
@@ -44,7 +44,7 @@ o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
 
 4. Wymiana danych, o których mowa w ust. 3, następuje w trybie określonym w art. 23 ust. 11 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim.
 
-**Art. 21b.** Ujęcie w projekcie programu badań statystycznych statystyki publicznej badań statystycznych prowadzonych przez Narodowy Bank Polski następuje na wniosek Prezesa Narodowego Banku Polskiego skierowany do Prezesa Głównego Urzędu Statystycznego.”;
+**Art. 21b.** Ujęcie w projekcie programu badań statystycznych statystyki publicznej badań statystycznych prowadzonych przez Narodowy Bank Polski następuje na wniosek Prezesa Narodowego Banku Polskiego skierowany do Prezesa Głównego Urzędu Statystycznego.”; „Art. 22. Służby statystyki publicznej stanowią Prezes Głównego Urzędu Statystycznego, podlegli mu dyrektorzy urzędów statystycznych, jednostki przez niego nadzorowane utworzone na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ) oraz jednostki, o których mowa w art. 27.”;
 
 **Art. 35a.**
 
@@ -61,7 +61,6 @@ o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
 - **3)** płeć;
 - **4)** numer PESEL;
 - **5)** obywatelstwo;
-- **6)** narodowość;
 - **7)** pochodzenie etniczne;
 - **8)** pochodzenie rasowe;
 - **9)** wyznanie, przynależność do kościoła lub związku wyznaniowego;
@@ -106,7 +105,6 @@ o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
 - **22)** budżet czasu;
 - **23)** subiektywne oceny dotyczące jakości życia i sytuacji społeczno-ekonomicznej;
 - **24)** pomoc społeczną, w tym beneficjentów pomocy społecznej;
-- **25)** ubóstwo i wykluczenie społeczne;
 - **26)** wspieranie rodziny i pieczę zastępczą;
 - **27)** świadczenia na rzecz rodziny;
 - **28)** opiekę nad dziećmi i młodzieżą;
@@ -133,7 +131,7 @@ o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
 
 **Art. 35d.** Służby statystyki publicznej po opracowaniu zebranych danych osobowych, nie dłużej jednak niż po upływie 10 lat od zebrania tych danych, są obowiązane do przechowywania danych dotyczących osób fizycznych wyłącznie w postaci uniemożliwiającej identyfikację osoby, której dotyczą (anonimizacja), z wyjątkiem danych osobowych gromadzonych i przechowywanych w formie operatów do badań statystycznych, o których mowa w art. 35f.
 
-**Art. 35e.** Gromadzenie w jednym zbiorze danych wszystkich zebranych przez służby statystyki publicznej danych dotyczących konkretnej osoby fizycznej, pochodzących z różnych badań statystycznych i różnych źródeł, które w połączeniu mogłyby służyć do charakterystyki lub oceny tej osoby jest zabronione.
+**Art. 35e.** Gromadzenie w jednym zbiorze danych wszystkich zebranych przez służby statystyki publicznej danych dotyczących konkretnej osoby fizycznej, pochodzących z różnych badań statystycznych i różnych źródeł, które w połączeniu mogłyby służyć do charakterystyki lub oceny tej osoby – jest zabronione.
 
 **Art. 35f.**
 
@@ -156,29 +154,22 @@ o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
 2. Dane udostępnione zgodnie z ust. 1 mogą być wykorzystane wyłącznie w celu wskazanym we wniosku, z zachowaniem zasad, o których mowa w art. 38 ust. 1 oraz w rozporządzeniu nr 223/2009.”;
 
 - **28)** art. 39 otrzymuje brzmienie: „Art. 39. Prezes Głównego Urzędu Statystycznego zapewnia przechowywanie zgromadzonych danych zgodnie z zasadami określonymi w art. 10 i art. 35d–35f.”;
-- **29)** w art. 50:
     - **a)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Prezes Głównego Urzędu Statystycznego, przedstawiając Radzie projekt programu badań statystycznych statystyki publicznej zgodnie z art. 25 ust. 1 pkt 1, przedstawia także koszty badań statystycznych na kolejny rok, ze wskazaniem szczegółowo źródeł ich finansowania.
 
 1b. Koszty badań statystycznych, o których mowa w ust. 1a, są publikowane na stronie internetowej Głównego Urzędu Statystycznego, w formie skorygowanego planu wydatków na badania statystyczne, po ogłoszeniu ustawy budżetowej na dany rok.
 
 1c. Koszty badań statystycznych, o których mowa w ust. 1a, są szacowane na podstawie metodyki określonej przez Prezesa Głównego Urzędu Statystycznego, po uzyskaniu opinii Rady.”,
 
-- **b)** ust. 3 otrzymuje brzmienie: „3. Środki budżetu państwa na finansowanie określonych w ustawie zadań statystyki publicznej, w tym badań statystycznych prowadzonych przez Prezesa Głównego Urzędu Statystycznego, są ujmowane odpowiednio w części budżetowej dotyczącej Głównego Urzędu Statystycznego, a koszty poszczególnych badań statystycznych prowadzonych przez inny organ administracji publicznej w części budżetowej dotyczącej tego organu.”,
+- **b)** ust. 3 otrzymuje brzmienie: „3. Środki budżetu państwa na finansowanie określonych w ustawie zadań statystyki publicznej, w tym badań statystycznych prowadzonych przez Prezesa Głównego Urzędu Statystycznego, są ujmowane odpowiednio w części budżetowej dotyczącej Głównego Urzędu Statystycznego, a koszty poszczególnych badań statystycznych prowadzonych przez inny organ administracji publicznej – w części budżetowej dotyczącej tego organu.”,
 - **c)** dodaje się ust. 6a w brzmieniu: „6a. Narodowy Bank Polski, organy administracji publicznej oraz podmioty prowadzące lub współprowadzące na podstawie art. 20 ust. 2 określone w programie badań statystycznych statystyki publicznej badanie statystyczne mogą powierzyć, w drodze porozumienia, wykonanie badania lub określonych czynności badawczych Prezesowi Głównego Urzędu Statystycznego. Finansowanie prac następuje odpowiednio ze środków Narodowego Banku Polskiego, środków budżetowych organu administracji publicznej albo podmiotu prowadzącego lub współprowadzącego badanie statystyczne w ramach rachunku sum na zlecenie lub rachunku pomocniczego.”.
 
 **Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036) w art. 23 wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. z 2012 r. poz. 826 oraz z 2013 r. poz. 1036) art. 31 otrzymuje brzmienie: „Art. 31. Narodowy Bank Polski jest obowiązany do przestrzegania tajemnicy w zakresie danych jednostkowych uzyskanych od banków i rezydentów, w wykonaniu obowiązków określonych w art. 30 ust. 1, na zasadach określonych w art. 23 ust. 5–7 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036 oraz z 2015 r. poz. 855).”.
+**Art. 3.** W ustawie z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2012 r. poz. 826 oraz z 2013 r. poz. 1036) art. 31 otrzymuje brzmienie: „Art. 31. Narodowy Bank Polski jest obowiązany do przestrzegania tajemnicy w zakresie danych jednostkowych uzyskanych od banków i rezydentów, w wykonaniu obowiązków określonych w art. 30 ust. 1, na zasadach określonych w art. 23 ust. 5–7 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036 oraz z 2015 r. poz. 855).”.
 
 **Art. 4.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2015 r. poz. 45 i 357) art. 63 otrzymuje brzmienie: „Art. 63. Główny Urząd Statystyczny pozyskuje dane z bazy danych SIO zgodnie ze szczegółowym zakresem, w formie, postaci i terminach określonych w programie badań statystycznych statystyki publicznej, ustalonym na podstawie art. 18 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej.”.
 
-**Art. 5.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636 i 788) w art. 23 w ust. 2 pkt 1 otrzymuje brzmienie: „1) dane statystyczne, o których mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm. );”.
-
-**Art. 6.**
-
-1. Przepisy art. 18 i art. 18a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się po raz pierwszy do programu badań statystycznych statystyki publicznej na rok 2018.
-
-2. Format, o którym mowa w art. 18a ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, zostanie udostępniony po raz pierwszy do dnia 31 grudnia 2017 r. odpowiednio na stronie internetowej Głównego Urzędu Statystycznego i na stronie internetowej organu lub podmiotu, o których mowa w art. 20 ust. 2 pkt 1 ustawy zmienianej w art. 1.
+**Art. 5.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636 i 788) w art. 23 w ust. 2 pkt 1 otrzymuje brzmienie: „1) dane statystyczne, o których mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm. );”. raz pierwszy do programu badań statystycznych statystyki publicznej na rok 2018. 2. Format, o którym mowa w art. 18a ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, zostanie udostępniony po raz pierwszy do dnia 31 grudnia 2017 r. odpowiednio na stronie internetowej Głównego Urzędu Statystycznego i na stronie internetowej organu lub podmiotu, o których mowa w art. 20 ust. 2 pkt 1 ustawy zmienianej w art. 1.
 
 **Art. 7.** Program badań statystycznych statystyki publicznej na rok 2017 ustala Rada Ministrów, w drodze rozporządzenia, określając dla każdego badania:
 
@@ -186,5 +177,5 @@ o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
 
 **Art. 9.** Przepisy wykonawcze wydane na podstawie art. 31 ustawy zmienianej w art. 1, do czasu zakończenia realizacji badań statystycznych, w których są stosowane, zachowują moc i mogą być zmieniane w granicach określonych w tym przepisie.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 23 i art. 9, które wchodzą w życie z dniem 1 stycznia 2018 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 10.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 23 i art. 9, które wchodzą w życie z dniem 1 stycznia 2018 r.
 

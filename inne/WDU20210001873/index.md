@@ -8,9 +8,12 @@ pos: 1873
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 października 2021 r.
+# o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw
+
+*USTAWA z dnia 17 września 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +27,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1873/text.pdf) |
 
-USTAWA z dnia 17 września 2021 r.
-o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2021 r. poz. 610 i 1093) wprowadza się następujące zmiany:
 
 **Art. 184i.** Dla energii elektrycznej z odnawialnych źródeł energii wytworzonej do dnia 31 grudnia 2025 r. instalacji, o której mowa art. 44 ust. 8, z wyłączeniem energii elektrycznej z odnawialnych źródeł energii wytworzonej dedykowanej instalacji spalania wielopaliwowego, przysługuje świadectwo pochodzenia skorygowane współczynnikiem 0,5.”;
 
-**Art. 2.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561) art. 39 ust. 2 po pkt 2 dodaje się pkt 2a brzmieniu: „2a) nieruchomość jest wydzierżawiana spółkom kapitałowym, o których mowa art. 1 ust. 1 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. U. z 2020 r. poz. 2173), celu budowy, modernizacji lub rozbudowy urządzeń lub instalacji związanych z wytwarzaniem energii elektrycznej, zapewniających bezpieczeństwo i podtrzymujących funkcjonalność mienia ujawnionego jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących skład infrastruktury krytycznej, o którym mowa art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2020 r. poz. 1856 oraz z 2021 r. poz. 159);”.
+**Art. 2.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561) art. 39 ust. 2 po pkt 2 dodaje się pkt 2a brzmieniu: „2a) nieruchomość jest wydzierżawiana spółkom kapitałowym, o których mowa art. 1 ust. 1 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. U. z 2020 r. poz. 2173), celu budowy, modernizacji lub rozbudowy urządzeń lub instalacji związanych z wytwarzaniem energii elektrycznej, zapewniających bezpieczeństwo i podtrzymujących funkcjonalność mienia ujawnionego jednolitym wykazie z 2021 r. poz. 159);”.
 
 **Art. 3.** W ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2021 r. poz. 491) art. 7 po ust. 2 dodaje się ust. 2 brzmieniu: „2 . Ograniczenie, o którym mowa ust. 2, nie ma zastosowania do świadczenia usług portowych dotyczących obsługi budowy i eksploatacji morskich farm wiatrowych, o których mowa ustawie z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej morskich farmach wiatrowych (Dz. U. z 2021 r. poz. 234, 784, 1093 i 1642).”.
 
-**Art. 4.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2021 r. poz. 716, 868, 1093, 1505 i 1642) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, 868, 1093, 1505 i 1642) wprowadza się następujące zmiany:
 
 **Art. 5.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2021 r. poz. 741, 784 i 922) wprowadza się następujące zmiany:
 
@@ -45,9 +45,7 @@ o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych usta
 
 2. Koncesje, o których mowa ust. 1, wygasają z dniem dokonania wpisu do rejestru wytwórców energii małej instalacji, o którym mowa art. 7 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 
-3. Prezes Urzędu Regulacji Energetyki może wezwać wytwórcę, o którym mowa ust. 1, do uzupełnienia danych objętych zakresem wpisu, terminie 60 dni od dnia otrzymania tego wezwania.
-
-4. Po bezskutecznym upływie terminu, o którym mowa ust. 3, Prezes Urzędu Regulacji Energetyki wydaje decyzję o wykreśleniu wytwórcy, o którym mowa ust. 1, z rejestru wytwórców energii małej instalacji, o którym mowa art. 7 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+3. Prezes Urzędu Regulacji Energetyki może wezwać wytwórcę, o którym mowa ust. 1, do uzupełnienia danych objętych zakresem wpisu, terminie 60 dni od dnia otrzymania tego wezwania. art. 7 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 
 5. Prezes Urzędu Regulacji Energetyki potwierdza dokonanie wpisu do rejestru wytwórców energii małej instalacji, o którym mowa art. 7 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, przez wydanie zaświadczenia, nie później niż terminie 90 dni od dnia wejścia życie niniejszej ustawy.
 
@@ -72,9 +70,7 @@ o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych usta
 
 5. W przypadku określonym ust. 1 pkt 1, przy ustalaniu okresu, o którym mowa art. 70f ust. 3 ustawy zmienianej art. 1, nie uwzględnia się okresu od dnia upływu okresu, o którym mowa art. 44 ust. 5 ustawy zmienianej art. 1, do dnia wydania zaświadczenia, o którym mowa art. 70b ust. 8 ustawy zmienianej art. 1.
 
-6. W przypadku określonym ust. 1 pkt 2, przy ustalaniu okresu, o którym mowa art. 70f ust. 3 ustawy zmienianej art. 1, dla instalacji, o których mowa tym przepisie, nie uwzględnia się okresu od dnia upływu okresu, o którym mowa art. 77 ust. 1 ustawy zmienianej art. 1, do dnia wydania zaświadczenia, o którym mowa art. 70b ust. 8 ustawy zmienianej art. 1.
-
-7. Na potrzeby dokonania obliczenia ceny skorygowanej, o której mowa art. 39a ust. 5 ustawy zmienianej art. 1, przez wytwórców, o których mowa ust. 2, wartość „I” wynosi 0.
+6. W przypadku określonym ust. 1 pkt 2, przy ustalaniu okresu, o którym mowa art. 70f ust. 3 ustawy zmienianej art. 1, dla instalacji, o których mowa tym przepisie, nie uwzględnia się okresu od dnia upływu okresu, o którym mowa art. 77 ust. 1 ustawy zmienianej art. 1, do dnia wydania zaświadczenia, o którym mowa art. 70b ust. 8 ustawy zmienianej art. 1. przez wytwórców, o których mowa ust. 2, wartość „I” wynosi 0.
 
 **Art. 11.**
 
@@ -92,7 +88,7 @@ o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych usta
 
 7. Wytwórca, o którym mowa ust. 2, który przed dniem wejścia życie niniejszej ustawy sprzedawał na podstawie zaświadczenia, o którym mowa art. 70b ust. 8 ustawy zmienianej art. 1, niewykorzystaną energię elektryczną sprzedawcy zobowiązanemu może terminie 1 miesiąca od dnia wejścia życie niniejszej ustawy zmienić deklarację, o której mowa art. 70b ust. 1 ustawy zmienianej art. 1, zakresie sprzedawcy zobowiązanego lub wybranego podmiotu, o których mowa art. 70b ust. 3 pkt 7 ustawy zmienianej art. 1, ze skutkiem na dzień wejścia życie niniejszej ustawy. Przepis art. 70b ust. 9 ustawy zmienianej art. 1 stosuje się odpowiednio.
 
-**Art. 12.** Wytwórca, o którym mowa art. 10 ust. 2 i art. 11 ust. 1 lub 2, odniesieniu do instalacji odnawialnego źródła energii, o której mowa art. 70f ust. 3 ustawy zmienianej art. 1, o łącznej mocy zainstalowanej elektrycznej nie większej niż 1 MW, wchodzącej skład jednostki rynku mocy, o której mowa art. 2 ust. 1 pkt 12 ustawy z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2021 r. poz. 1854), ma prawo do pokrycia ujemnego salda, o którym mowa art. 93 ust. 1 pkt 4 i ust. 2 pkt 3 ustawy zmienianej art. 1, lub sprzedaży niewykorzystanej energii elektrycznej po stałej cenie zakupu ustalonej zgodnie z art. 70e ustawy zmienianej art. 1, na zasadach określonych art. 11 ust. 1 lub 2, wyłącznie dla miesięcy, których dostawcy mocy rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 8 grudnia 2017 r. o rynku mocy, nie przysługiwało uprawnienie do otrzymania wynagrodzenia, o którym mowa art. 60 tej ustawy, za wykonywanie obowiązku mocowego, o którym mowa art. 2 ust. 1 pkt 23 tej ustawy, odniesieniu do jednostki rynku mocy, skład której wchodzi ta instalacja odnawialnego źródła energii, potwierdzone informacją, o której mowa art. 58 ust. 6 tej ustawy, a także poza miesiącami, za które dostawcy mocy przysługuje premia, o której mowa art. 66 ust. 1 i 2 tej ustawy, odniesieniu do jednostki rynku mocy, skład której wchodzi ta instalacja odnawialnego źródła energii.
+**Art. 12.** Wytwórca, o którym mowa art. 10 ust. 2 i art. 11 ust. 1 lub 2, odniesieniu do instalacji odnawialnego źródła energii, o której mowa art. 70f ust. 3 ustawy zmienianej art. 1, o łącznej mocy zainstalowanej elektrycznej nie większej niż 1 MW, wchodzącej skład jednostki rynku mocy, o której mowa art. 2 ust. 1 pkt 12 ustawy z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2021 r. poz. 1854), ma prawo do pokrycia ujemnego salda, o którym mowa art. 93 ust. 1 pkt 4 i ust. 2 pkt 3 ustawy zmienianej art. 1, lub sprzedaży niewykorzystanej energii elektrycznej po stałej cenie zakupu ustalonej zgodnie z art. 70e ustawy zmienianej art. 1, na zasadach określonych art. 11 ust. 1 lub 2, wyłącznie dla miesięcy, których dostawcy mocy rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 8 grudnia 2017 r. o rynku mocy, nie przysługiwało uprawnienie do otrzymania wynagrodzenia, o którym mowa art. 60 tej ustawy, za wykonywanie obowiązku mocowego, o którym mowa art. 2 ust. 1 pkt 23 tej ustawy, odniesieniu do jednostki rynku mocy, skład której wchodzi ta instalacja odnawialnego źródła energii, potwierdzone informacją, o której mowa art. 66 ust. 1 i 2 tej ustawy, odniesieniu do jednostki rynku mocy, skład której wchodzi ta instalacja odnawialnego źródła energii.
 
 **Art. 13.** Przepis art. 73 ust. 5 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do aukcji organizowanych po dniu 1 stycznia 2022 r.
 
@@ -122,9 +118,7 @@ o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych usta
 
 **Art. 19.**
 
-1. Do studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin sporządzonych przed dniem wejścia życie niniejszej ustawy oraz projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin opracowanych przed dniem wejścia życie niniejszej ustawy, zaopiniowanych pozytywnie przez komisję urbanistyczno-architektoniczną, stosuje się przepisy ustawy zmienianej art. 5, brzmieniu dotychczasowym.
-
-2. Do zmiany studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin sporządzonych przed dniem wejścia życie niniejszej ustawy oraz studiów przyjętych na postawie projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin opracowanych oraz zaopiniowanych pozytywnie przez komisję urbanistyczno-architektoniczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą.
+1. Do studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin sporządzonych przed dniem wejścia życie niniejszej ustawy oraz projektów studiów uwarunkowań i kierunków zagospodarowania prze2. Do zmiany studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin sporządzonych przed dniem wejścia życie niniejszej ustawy oraz studiów przyjętych na postawie projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin opracowanych oraz zaopiniowanych pozytywnie przez komisję urbanistyczno-architektoniczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą.
 
 **Art. 20.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 72 ust. 2 i art. 77 ust. 3 ustawy zmienianej art. 1 zachowują moc i mogą być zmieniane na podstawie przepisów dotychczasowych.
 

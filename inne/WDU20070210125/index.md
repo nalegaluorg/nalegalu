@@ -8,9 +8,12 @@ pos: 125
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# niniejszej ustawy.
+# Ustawa z dnia 12 stycznia 2007 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw
+
+*USTAWA z dnia 12 stycznia 2007 o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,39 +27,39 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070210125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/125/text.pdf) |
 
-2. Raport, o którym mowa 1, będzie zawierał także:
-1) ocenę możliwości stosowania wysokosprawnej kogeneracji oraz barier utrudniających wykorzystanie krajowego potencjału wysokosprawnej kogeneracji;
-2) informację o zastosowanych środkach mających na celu zapewnienie niezawodności systemu wydawania świadectw pochodzenia kogeneracji.
+**Art. 1.** W ustawie z dnia 4 września 1997 o działach administracji rządowej (Dz. U. z 2003 159, 1548, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** Do wszczętych niezakończonych przed dniem wejścia wżycie niniejszej ustawy stosuje się przepisy tej ustawy.
+**Art. 2.** W ustawie z dnia 15 listopada 1956 o zmianie imion nazwisk (Dz. U. z 2005 233, 1992) 11a ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad sprawami objętymi niniejszą ustawą na zasadach określonych odrębnych przepisach.”.
 
-**Art. 13.** Przepisy 9a 8—8d, 9l 11—15, 9m, 23 2 pkt 3 lit. e pkt oraz 56 1 pkt 1a 2a pkt 3 ustawy wymienionej 1, brzmieniu nadanym niniejszą ustawą, zakresie obowiązków uzyskania przedstawienia umorzenia świadectw pochodzenia zkogeneracji oraz uiszczenia opłaty zastępczej, stosuje się dnia 31 marca 2013
+**Art. 3.** W ustawie z dnia 10 kwietnia 1974 o ewidencji ludności dowodach osobistych ściwy do spraw administracji publicznej” zastępuje się użytymi odpowiednim przypadku wyrazami „minister właściwy do spraw wewnętrznych”;
 
-**Art. 14.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
+**Art. 4.** W ustawie z dnia 18 kwietnia 1985 o rybactwie śródlądowym (Dz. U. z 1999 66, 750, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 11.** Wypełnienie iocena wypełnienia obowiązku zakupu energii elektrycznej wytworzonej skojarzeniu zwytwarzaniem ciepła za okres od dnia 1stycznia 2007 dnia 30 czerwca 2007 nałożonego na podstawie 9a 8 ustawy wymienionej wart. 1, brzmieniu dotychczasowym, następuje na podstawie przepisów dotychczasowych. 2a pkt 3 ustawy wymienionej 1, brzmieniu nadanym niniejszą ustawą, które wchodzą życie dniem 1 lipca 2007 r.;
+**Art. 5.** W ustawie z dnia 29 września 1986 – Prawo o aktach stanu cywilnego (Dz. U. z 2004 161, 1688) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 4 września 1997 o działach administracji rządowej (Dz. U. 2003 159, 1548, póên. zm.
+**Art. 6.** W ustawie z dnia 17 maja 1989 – Prawo geodezyjne kartograficzne (Dz. U. z 2005 240, 2027 oraz z 2006 170, 1217) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 15 listopada 1956 o zmianie imion nazwisk (Dz. U. 2005 233,
+**Art. 7.** W ustawie z dnia 21 marca 1991 o obszarach morskich Rzeczypospolitej Polskiej administracji morskiej (Dz. U. z 2003 153, 1502, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 10 kwietnia 1974 o ewidencji ludności idowodach osobistych (Dz. U. z2006r. 139, 993 144, 1043) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 23 maja 1991 o pracy na morskich statkach handlowych (Dz. U. 61, 258, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 18 kwietnia 1985 o rybactwie śródlądowym (Dz. U. z1999 66, 750, póên. zm.
+**Art. 9.** W ustawie z dnia 4 lutego 1994 – Prawo geologiczne górnicze (Dz. U. z 2005 228, 1947 ) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie dnia marca 1991 o obszarach morskich Rzeczypospolitej Polskiej iadministracji morskiej (Dz. U. 2003 153, 1502, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. U. z 2007 11, 74 17, 95) wprowadza się następujące zmiany:
 
-**Art. 8.** Wustawie zdnia 23 maja 1991 opracy na morskich statkach handlowych (Dz. U. 61, 258, póên. zm. gospodarki morskiej, ministrem właściwym pracy oraz ministrem właściwym zdrowia, ze względu na szczególne warunki pracy na statkach rybackich, określi, drodze rozporządzenia, wymagania higieniczne izdrowotne na statkach rybackich, mając na uwadze wymogi wzakresie konstrukcji wyposażenia statków rybackich, sprzętu ratowniczego, szkolenia załóg ratowania życia.”.
+**Art. 11.** W ustawie z dnia 18 lipca 2001 – Prawo wodne (Dz. U. z 2005 239, 2019, wyrazami „minister właściwy do spraw rybołówstwa”;
 
-**Art. 9.** W ustawie dnia 4 lutego 1994 Prawo geologiczne górnicze (Dz. U. 2005 228, 1947, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 12.** W ustawie z dnia 22 stycznia 2004 o organizacji rynku rybnego pomocy finansowej gospodarce rybnej (Dz. U. 34, 291 96, 959 oraz z 2006 12,
 
-**Art. 10.** W ustawie dnia 13 paêdziernika 1998 o systemie ubezpieczeń społecznych (Dz. U. 2007 11, 74 17, 95) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 19 lutego 2004 o rybołówstwie (Dz. U. 62, 574, z 2005 96, 807 oraz z 2006 220, 1600) wprowadza się następujące zmiany:
 
-**Art. 12.** W ustawie dnia 22 stycznia 2004 o organizacji rynku rybnego pomocy finansowej gospodarce rybnej (Dz. U. 34, 291 96, 959 oraz 2006 12, 64) wprowadza się następujące zmiany:
+**Art. 14.** Postępowania wszczęte niezakończone przed dniem wejścia życie niniejszej ustawy toczą się nadal przed organami, które przejęły kompetencje zgodnie z przepisami niArt. 15. Licencje, zezwolenia inne decyzje wydane na podstawie przepisów zmienianych niniejszą ustawą zachowują ważność do upływu określonych nich terminów ważności, chyba że na podstawie odrębnych przepisów zostaną wcześniej zmienione, cofnięte lub uchylone.
 
-**Art. 13.** W ustawie dnia 19 lutego 2004 o rybołówstwie (Dz. U. 62, 574, 2005 96, 807 oraz 2006 220, 1600) wprowadza się następujące zmiany:
+**Art. 16.** Rejestry prowadzone przez ministra właściwego do spraw rolnictwa na podstawie przepisów zmienianych niniejszą ustawą stają się rejestrami prowadzonymi przez ministra właściwego do spraw rybołówstwa.
 
-**Art. 14.** Postępowania wszczęte niezakończone przed dniem wejścia życie niniejszej ustawy toczą Art. 18. W celu wykonania przepisów ustawy Presię nadal przed organami, które przejęły kompetencje zes Rady Ministrów może dokonać, drodze rozpozgodnie przepisami niniejszej ustawy. rządzenia, przeniesienia niektórych planowanych dochodów wydatków budżetowych, tym wynagroArt. 15. Licencje, zezwolenia inne decyzje wyda- dzeń oraz limitów zatrudnienia, między częściami, ne na podstawie przepisów zmienianych niniejszą działami rozdziałami budżetu państwa, zachowaustawą zachowują ważność upływu określonych niem przeznaczania środków publicznych wynikająwnich terminów ważności, chyba że na podstawie od- cych ustawy budżetowej. rębnych przepisów zostaną wcześniej zmienione, cofnięte lub uchylone. Art. 19.Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia.
+**Art. 17.** Dotychczasowe przepisy wykonawcze wydane na podstawie 73a ust. 3 108 ust. 5 ustawy, o której mowa 9, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 73a ust. 3 108 ust. 5 tej ustawy, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 16.** Rejestry prowadzone przez ministra właściwego rolnictwa na podstawie przepisów zmienianych niniejszą ustawą stają się rejestrami pro- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 126 ROZPORZÑDZENIE PREZESA RADY MINISTRÓW dnia 1 lutego 2007 zmieniające rozporządzenie sprawie nadania statutu Głównemu Inspektoratowi Ochrony Ârodowiska Na podstawie 4 7 ustawy dnia 20 lipca 1991 o Inspekcji Ochrony Ârodowiska (Dz. U. 2002 112, 982, póên. zm.
+**Art. 18.** W celu wykonania przepisów ustawy Prezes Rady Ministrów może dokonać, drodze rozporządzenia, przeniesienia niektórych planowanych dochodów wydatków budżetowych, tym wynagrodzeń oraz limitów zatrudnienia, między częściami, działami rozdziałami budżetu państwa, z zachowaniem przeznaczania środków publicznych wynikających z ustawy budżetowej.
+
+**Art. 19.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

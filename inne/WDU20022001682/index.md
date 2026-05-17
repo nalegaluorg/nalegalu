@@ -8,9 +8,12 @@ pos: 1682
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# sów sporządzanych aktów notarialnych, dotyczących czynności, z tytułu których są płatnikami podatku.”;
+# o podatku leśnym
+
+*USTAWA z dnia 30 października 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,52 +27,145 @@ domain: null
 | Ostatnia zmiana | 2025-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001682) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1682/text.pdf) |
 
-11) wart. 19:
-a) ust. 3 otrzymuje brzmienie: Ń3. Osoby prawne jednostki organizacyjne niemające osobowości prawnej, będące dłużnikiem spadkodawcy, są obowiązane, przy zapłacie długu, potrącić przekazać właściwego urzędu skarbowego podatek nabycia spadku, należny spadkobiercy wysokości ustalonej przez ten urząd. Zapłata długu bez potrącenia podatku nabyktórego notariusz ma uwierzytelnić podpis, ma być zbycie praw spadku albo zbycie lub obciążenie rzeczy lub praw majątkowych uzyskanych przez zbywcę drodze spadku lub zasiedzenia, notariusz może sporządzić akt lub uwierzytelnić własnoręczność podpisu tylko za uprzednią pisemną zgodą urzędu skarbowego albo po stwierdzeniu przez urząd skarbowy, że nabycie spadku jest zwolnione podatku lub że należny podatek został zapłacony albo prawo wydania decyzji ustalającej wysokość zobowiązania podatkowego uległo przedawnieniu.”.
-cia spadku może nastąpić tylko za uprzednią pisemną zgodą urzędu skarbowego albo po stwierdzeniu przez urząd skarbowy, że nabycie spadku jest zwolnione podatku lub że
-2. Ustawa wchodzi życie z dniem 1 stycznia 2003 r.
-Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
-USTAWA zdnia 30 paêdziernika 2002 r.
-opodatku leśnym.
-1. 1. Opodatkowaniu podatkiem leśnym podle- 3) użytkownikami wieczystymi lasów;
-gają określone wustawie lasy, zwyjątkiem lasów zajętych wykonywanie innej działalności gospodarczej 4) posiadaczami lasów, stanowiących własność Skarniż działalność leśna. bu Państwa lub jednostki samorządu terytorialnego.
-2. Lasem rozumieniu ustawy są grunty leśne sklasyfikowane wewidencji gruntów ibudynków jako 2. Obowiązek podatkowy wzakresie podatku leśnelasy. go lasów pozostających wzarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, zwanego
-3. Za działalność leśną, wrozumieniu ustawy, uwa- dalej ŃLasami Państwowymi”, wchodzących ża się działalność właścicieli, posiadaczy lub zarząd- wskład Zasobu Własności Rolnej Skarbu Państwa, nieców lasów zakresie urządzania, ochrony zagospo- objętych obowiązkiem podatkowym podstawie darowania lasu, utrzymywania powiększania zasobów iupraw leśnych, gospodarowania zwierzyną, po- ust. 1 pkt 4, ciąży odpowiednio jednostkach organizyskiwania z wyjątkiem skupu drewna, żywicy, zacyjnych Agencji Własności Rolnej Skarbu Państwa choinek, karpiny, kory, igliwia, zwierzyny płodów iLasów Państwowych.
-runa leśnego, a także sprzedaż tych produktów stanie nieprzerobionym. 3. Jeżeli las znajduje się wposiadaniu samoistnym, obowiązek podatkowy wzakresie podatku leśnego cią2. 1. Podatnikami podatku leśnego, zzastrzeże- ży posiadaczu samoistnym.
-niem ust. 2, są osoby fizyczne, osoby prawne, jednostki organizacyjne, wtym spółki, nieposiadające osobo- 4. Jeżeli las jest współwłasnością lub znajduje się wości prawnej, będące: posiadaniu dwóch lub więcej podmiotów, stanowi wówczas odrębny przedmiot opodatkowania podat1) właścicielami lasów, zzastrzeżeniem ust. 3;
-pierwsze trzy kwartały roku poprzedzającego rok podatkowy.
-2. Do ceny, o której mowa ust. 1, nie wlicza się kwoty podatku towarów iusług.
-3. Dla lasów ochronnych lasów wchodzących skład rezerwatów przyrody parków narodowych stawka podatku leśnego, októrej mowa wust. 1, ulega obniżeniu o50%.
-4. Ârednią cenę sprzedaży drewna, o której mowa ust. 1, ustala się podstawie komunikatu Prezesa Głównego Urzędu Statystycznego, ogłaszanego Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” wterminie 20 dni po upływie trzeciego kwartału.
-5. Rada gminy może obniżyć kwotę stanowiącą średnią cenę sprzedaży drewna, określoną ust. 4, przyjmowaną jako podstawa obliczania podatku leśnego obszarze gminy.
-5. 1. Obowiązek podatkowy zakresie podatku leśnego powstaje pierwszego dnia miesiąca następującego po miesiącu, którym zaistniały okoliczności uzasadniające powstanie tego obowiązku.
-2. Obowiązek podatkowy wygasa ostatniego dnia miesiąca, którym przestały istnieć okoliczności uzasadniające ten obowiązek.
-3. Jeżeli obowiązek podatkowy powstał lub wygasł wtrakcie roku podatkowego, podatek leśny za ten rok ustala się proporcjonalnie liczby miesięcy, których istniał obowiązek.
-4. Jeżeli wtrakcie roku podatkowego las został zajęty wykonywanie działalności gospodarczej innej niż działalność leśna lub po zaprzestaniu wykonywania tej działalności przywrócono działalność leśną, albo z innych powodów jego powierzchnia uległa zmniejszeniu lub zwiększeniu kwota należnego podatku leśnego ulega obniżeniu lub podwyższeniu, poczynając pierwszego dnia miesiąca następującego po miesiącu, wktórym nastąpiła ta zmiana.
-6. 1. Organem podatkowym właściwym wsprawach podatku leśnego jest wójt (burmistrz, prezydent miasta).
-2. Osoby fizyczne, z zastrzeżeniem ust. 7, są obowiązane złożyć organowi podatkowemu, właściwemu ze względu miejsce położenia lasu, informacje olasach, sporządzone formularzach według ustaloneterminach dnia 15 marca, 15 maja, 15 września i15 listopada roku podatkowego.
-4. Jeżeli wtrakcie roku podatkowego nastąpiło wygaśnięcie obowiązku podatkowego wzakresie podatku leśnego lub zaistniały zmiany, októrych mowa wart. 5 ust. 4, organ podatkowy dokonuje zmiany decyzji, którą ustalono ten podatek.
-5. Osoby prawne, jednostki organizacyjne, tym spółki, nieposiadające osobowości prawnej, jednostki organizacyjne Lasów Państwowych, a także jednostki organizacyjne Agencji Własności Rolnej Skarbu Państwa są obowiązane:
-1) składać, terminie dnia 15 stycznia, organowi podatkowemu, właściwemu ze względu miejsce położenia lasów, deklaracje podatek leśny dany rok podatkowy, sporządzone formularzu według ustalonego wzoru, a jeżeli obowiązek podatkowy powstał po tym dniu terminie 14 dni dnia wystąpienia okoliczności uzasadniających powstanie tego obowiązku;
-2) odpowiednio skorygować deklaracje, wrazie zaistnienia zmian, októrych mowa wart. 5 ust. 4, wterminie 14 dni dnia zaistnienia tych zmian;
-3) wpłacać wratach proporcjonalnych czasu trwania obowiązku podatkowego obliczony deklaracji podatek leśny rachunek budżetu właściwej gminy, za poszczególne miesiące, dnia 15 każdego miesiąca.
-6. Obowiązek składania informacji olasach deklaracji podatek leśny, o którym mowa ust. 2 5 pkt 1, dotyczy również podatników korzystających ze zwolnień mocy przepisów ustawy.
-7. Jeżeli las stanowi współwłasność lub znajduje się wposiadaniu osób fizycznych osób prawnych, jednostek organizacyjnych, wtym spółek, nieposiadających osobowości prawnej osoby fizyczne składają deklarację podatek leśny opłacają podatek zasadach obowiązujących osoby prawne.
-8. Rada gminy, drodze uchwały, może zarządzić pobór podatku leśnego osób wymienionych ust. 2 drodze inkasa wyznaczyć inkasentów iokreślić wysokość wynagrodzenia za inkaso.
-9. Rada gminy określa, drodze uchwały, wzory formularzy, októrych mowa wust. 2 i5 pkt 1. Wformularzach będą zawarte dane dotyczące podmiotu
-1) szkoły wyższe, wyższe szkoły zawodowe wyższe szkoły wojskowe;
-2) szkoły, placówki, zakłady kształcenia iplacówki doskonalenia nauczycieli publiczne iniepubliczne, organy prowadzące te szkoły, placówki izakłady odpowiednio z tytułu zarządu, użytkowania lub użytkowania wieczystego nieruchomości szkolnych;
-3) placówki naukowe Polskiej Akademii Nauk;
-4) prowadzących zakłady pracy chronionej lub zakłady aktywności zawodowej zakresie lasów wymienionych wdecyzji wsprawie przyznania statunych pełni liczba hektarów przeliczeniowych, ustalana zgodnie z przepisami o podatku rolnym.”.
-10. Wustawie zdnia 26 listopada 1998 r. odochodach jednostek samorządu terytorialnego wlatach 1999—2002 (Dz. U. 150, poz. 983 162, poz. 1119, z2000 r. 95, poz. 1041 z2001 r. 39, poz. 459, 55, poz. 574 145, poz. 1623) art. 24 pkt 2 wlit. a tiret drugie otrzymuje brzmienie: Ń— art. 7 ust. 1 pkt 1 2 ust. 2 pkt 4 5 ustawy z dnia 30 paêdziernika 2002 r. o podatku leśnym (Dz. U. 200, poz. 1682),”.
-su zakładu pracy chronionej lub zakładu aktywno- 11. Wstosunku prowadzących zakłady praści zawodowej lub zgłoszonych wojewodzie za- cy chronionej lub zakłady aktywności zawodowej, któjętych prowadzenie tego zakładu, z wyłącze- rzy uzyskali status prowadzących te zakłady przed wejniem lasów, które znajdują się wposiadaniu zależ- ściem życie ustawy, zwolnienie z podatku leśnego nym podmiotów niebędących prowadzącymi za- stosuje się zasadach dotychczasowych nie dłużej kład pracy chronionej lub zakład aktywności zawo- niż upływu 3-letniego terminu wynikającego zdecydowej; zji wydanej przed dniem 1 stycznia 2003 r. przyznającej
-5) jednostki badawczo-rozwojowe. status prowadzącego zakład.
-3. Rada gminy, drodze uchwały, może wprowa- 12. Do ustalania wysokości podatku leśnego dzić inne zwolnienia przedmiotowe niż określone 2003 r. stosuje się średnią cenę sprzedaży drewna wust. 1. ogłoszoną podstawie przepisów dotychczasowych.
-8. Wustawie zdnia 28 września 1991 r. olasach 13. Ustawa wchodzi wżycie zdniem 1 stycznia (Dz. U. z2000 r. 56, poz. 679, 86, poz. 958 iNr 120, 2003 r., zwyjątkiem art. 6 ust. 9, który wchodzi wżycie poz. 1268, z2001 r. 110, poz. 1189 iNr 145, poz. 1623 zdniem ogłoszenia.
-z 2002 r. 25, poz. 253 113, poz. 984) wprowadza się następujące zmiany:
-1) wart. 6 uchyla się ust. 2;
-2) uchyla się rozdział 9. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1683
-USTAWA zdnia 30 paêdziernika 2002 r.
-ozmianie ustawy opodatkach iopłatach lokalnych ozmianie niektórych innych ustaw.
-1.Wustawie zdnia 12 stycznia 1991 r. opodat- wprowadza się następujące zmiany: kach iopłatach lokalnych (Dz. U. z2002 r. 9, poz. 84) ———————
+**Art. 1.**
+
+1. Opodatkowaniu podatkiem leśnym podlegają określone w ustawie lasy, z wyjątkiem lasów zajętych na wykonywanie innej działalności gospodarczej niż działalność leśna.
+
+2. Lasem w rozumieniu ustawy są grunty leśne sklasyfikowane w ewidencji gruntów i budynków jako lasy.
+
+3. Za działalność leśną, w rozumieniu ustawy, uważa się działalność właścicieli, posiadaczy lub zarządców lasów w zakresie urządzania, ochrony i zagospodarowania lasu, utrzymywania i powiększania zasobów i upraw leśnych, gospodarowania zwierzyną, pozyskiwania – z wyjątkiem skupu – drewna, żywicy, choinek, karpiny, kory, igliwia, zwierzyny oraz płodów runa leśnego, a także sprzedaż tych produktów w stanie nieprzerobionym.
+
+4. Za lasy zajęte na wykonywanie innej działalności gospodarczej niż działalność leśna nie uznaje się lasów:
+
+- **1)** przez które przebiegają urządzenia, o których mowa w art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), wchodzące w skład przedsiębiorstwa przedsiębiorcy prowadzącego działalność telekomunikacyjną, działalność w zakresie przesyłania lub dystrybucji płynów, pary, gazów lub energii elektrycznej lub zajmującego się transportem wydobytego gazu ziemnego lub ropy naftowej,
+- **2)** zajętych na pasy technologiczne stanowiące grunt w otoczeniu urządzeń, o których mowa w pkt 1, konieczny dla zapewnienia właściwej eksploatacji tych urządzeń,
+- **3)** zajętych na strefy bezpieczeństwa oraz strefy kontrolowane urządzeń, o których mowa w pkt 1, służących do przesyłania lub dystrybucji ropy naftowej, paliw ciekłych lub paliw gazowych, lub transportu wydobytego gazu ziemnego lub ropy naftowej, które zostały określone w odrębnych przepisach – chyba że lasy te są jednocześnie zajęte na prowadzenie działalności gospodarczej innej niż działalność leśna oraz innej niż działalność, o której mowa w pkt 1.
+
+5. Przepisu ust. 4 nie stosuje się do lasów będących w posiadaniu samoistnym, użytkowaniu wieczystym lub będących własnością przedsiębiorcy, o którym mowa w ust. 4 pkt 1.
+
+**Art. 2.**
+
+1. Podatnikami podatku leśnego, z zastrzeżeniem ust. 2, są osoby fizyczne, osoby prawne, jednostki organizacyjne, w tym spółki, nieposiadające osobowości prawnej, będące:
+
+- **1)** właścicielami lasów, z zastrzeżeniem ust. 3;
+- **2)** posiadaczami samoistnymi lasów;
+- **3)** użytkownikami wieczystymi lasów;
+- **4)** posiadaczami lasów, stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego.
+
+2. Obowiązek podatkowy w zakresie podatku leśnego od lasów pozostających w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, zwanego dalej „Lasami Państwowymi”, oraz wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, nieobjętych obowiązkiem podatkowym na podstawie ust. 1 pkt 4, ciąży odpowiednio na jednostkach organizacyjnych Krajowego Ośrodka Wsparcia Rolnictwa i Lasów Państwowych.
+
+3. Jeżeli las znajduje się w posiadaniu samoistnym, obowiązek podatkowy w zakresie podatku leśnego ciąży na posiadaczu samoistnym.
+
+4. Jeżeli las jest współwłasnością lub znajduje się w posiadaniu dwóch lub więcej podmiotów, stanowi wówczas odrębny przedmiot opodatkowania podatkiem leśnym, a obowiązek podatkowy ciąży solidarnie na wszystkich współwłaścicielach lub posiadaczach, z zastrzeżeniem ust. 5.
+
+5. Zasady odpowiedzialności solidarnej za zobowiązanie podatkowe, o której mowa w ust. 4, nie stosuje się, jeżeli jeden lub kilku współwłaścicieli lub posiadaczy jest zwolnionych od podatku leśnego. W takiej sytuacji obowiązek podatkowy ciąży solidarnie na współwłaścicielach lub posiadaczach, którzy nie są zwolnieni od tego podatku, w zakresie odpowiadającym ich łącznemu udziałowi w prawie własności lub posiadaniu.
+
+**Art. 3.** Podstawę opodatkowania podatkiem leśnym stanowi powierzchnia lasu, wyrażona w hektarach, wynikająca z ewidencji gruntów i budynków.
+
+**Art. 4.**
+
+1. Podatek leśny od 1 ha, za rok podatkowy wynosi, z zastrzeżeniem ust. 3, równowartość pieniężną 0,220 m drewna, obliczaną według średniej ceny sprzedaży drewna uzyskanej przez nadleśnictwa za pierwsze trzy kwartały roku poprzedzającego rok podatkowy.
+
+2. Do ceny, o której mowa w ust. 1, nie wlicza się kwoty podatku od towarów i usług.
+
+3. Dla lasów wchodzących w skład rezerwatów przyrody i parków narodowych stawka podatku leśnego, o której mowa w ust. 1, ulega obniżeniu o 50 %.
+
+4. Średnią cenę sprzedaży drewna, o której mowa w ust. 1, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego, ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie 20 dni po upływie trzeciego kwartału.
+
+5. Rada gminy może obniżyć kwotę stanowiącą średnią cenę sprzedaży drewna, określoną w ust. 4, przyjmowaną jako podstawa obliczania podatku leśnego na obszarze gminy.
+
+**Art. 5.**
+
+1. Obowiązek podatkowy w zakresie podatku leśnego powstaje od pierwszego dnia miesiąca następującego po miesiącu, w którym zaistniały okoliczności uzasadniające powstanie tego obowiązku.
+
+2. Obowiązek podatkowy wygasa ostatniego dnia miesiąca, w którym przestały istnieć okoliczności uzasadniające ten obowiązek.
+
+3. Jeżeli obowiązek podatkowy powstał lub wygasł w trakcie roku podatkowego, podatek leśny za ten rok ustala się proporcjonalnie do liczby miesięcy, w których istniał obowiązek.
+
+4. Jeżeli w trakcie roku podatkowego las został zajęty na wykonywanie działalności gospodarczej innej niż działalność leśna lub po zaprzestaniu wykonywania tej działalności przywrócono działalność leśną, albo z innych powodów jego powierzchnia uległa zmniejszeniu lub zwiększeniu – kwota należnego podatku leśnego ulega obniżeniu lub podwyższeniu, poczynając od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiła ta zmiana.
+
+**Art. 6.**
+
+1. Organem podatkowym właściwym w sprawach podatku leśnego jest wójt (burmistrz, prezydent miasta).
+
+2. Osoby fizyczne, z zastrzeżeniem ust. 7, są obowiązane złożyć organowi podatkowemu, właściwemu ze względu na miejsce położenia lasu, informacje o lasach, sporządzone na formularzach według ustalonego wzoru, w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie albo wygaśnięcie obowiązku w podatku leśnym, lub o zaistnieniu zmian, o których mowa w art. 5 ust. 4.
+
+3. Podatek leśny na rok podatkowy od osób fizycznych, z zastrzeżeniem ust. 7, ustala, w drodze decyzji, organ podatkowy właściwy ze względu na miejsce położenia lasu. Podatek jest płatny w ratach proporcjonalnych do czasu trwania obowiązku podatkowego, w terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada roku podatkowego.
+
+3a. Nie wszczyna się postępowania, a postępowanie wszczęte umarza, jeżeli wysokość zobowiązania podatkowego na dany rok podatkowy nie przekraczałaby, określonych na dzień 1 stycznia roku podatkowego, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717). W takim przypadku decyzję umarzającą postępowanie pozostawia się w aktach sprawy, a organ jest nią związany od chwili wydania. Do zmiany decyzji umarzającej postępowanie przepis art. 254 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879, 1685 i 1831) stosuje się odpowiednio.
+
+4. Jeżeli w trakcie roku podatkowego nastąpiło wygaśnięcie obowiązku podatkowego w zakresie podatku leśnego lub zaistniały zmiany, o których mowa w art. 5 ust. 4, organ podatkowy dokonuje zmiany decyzji, którą ustalono ten podatek.
+
+5. Osoby prawne, jednostki organizacyjne, w tym spółki, nieposiadające osobowości prawnej, jednostki organizacyjne Lasów Państwowych, a także jednostki organizacyjne Krajowego Ośrodka Wsparcia Rolnictwa są obowiązane:
+
+- **1)** składać, w terminie do dnia 15 stycznia, organowi podatkowemu, właściwemu ze względu na miejsce położenia lasów, deklaracje na podatek leśny na dany rok podatkowy, sporządzone na formularzu według ustalonego wzoru, a jeżeli obowiązek podatkowy powstał po tym dniu – w terminie 14 dni od dnia wystąpienia okoliczności uzasadniających powstanie tego obowiązku;
+- **2)** odpowiednio skorygować deklaracje, w razie zaistnienia zmian, o których mowa w art. 5 ust. 4, w terminie 14 dni od dnia zaistnienia tych zmian;
+- **3)** wpłacać w ratach proporcjonalnych do czasu trwania obowiązku podatkowego obliczony w deklaracji podatek leśny na rachunek budżetu właściwej gminy, za poszczególne miesiące, do dnia 15 każdego miesiąca.
+
+5a. Informacje o lasach oraz deklaracje na podatek leśny mogą być składane za pomocą środków komunikacji elektronicznej.
+
+6. Obowiązek składania informacji o lasach oraz deklaracji na podatek leśny, o którym mowa w ust. 2 i 5 pkt 1, dotyczy również podatników korzystających ze zwolnień na mocy przepisów ustawy.
+
+7. Jeżeli las stanowi współwłasność lub znajduje się w posiadaniu osób fizycznych oraz osób prawnych, jednostek organizacyjnych, w tym spółek, nieposiadających osobowości prawnej – osoby fizyczne składają deklarację na podatek leśny oraz opłacają podatek na zasadach obowiązujących osoby prawne.
+
+7a. W przypadku gdy kwota podatku nie przekracza 100 zł, podatek jest płatny jednorazowo w terminie płatności pierwszej raty.
+
+8. Rada gminy, w drodze uchwały, może zarządzić pobór podatku leśnego od osób wymienionych w ust. 2 w drodze inkasa oraz wyznaczyć inkasentów i określić wysokość wynagrodzenia za inkaso.
+
+9. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory formularzy, o których mowa w ust. 2 i ust. 5 pkt 1, wraz z załącznikami, oraz szczegółowy zakres zawartych w nich danych niezbędnych do wymiaru i poboru podatku leśnego, z uwzględnieniem możliwości wprowadzania przez rady gmin zwolnień od tego podatku, wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania oraz niezbędnymi pouczeniami, mając na uwadze prawidłowe obliczenie podatku.
+
+10. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
+
+- **1)** sposób przesyłania informacji o lasach oraz deklaracji na podatek leśny za pomocą środków komunikacji elektronicznej,
+- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje o lasach oraz deklaracje na podatek leśny – uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych informacjach i deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem.
+
+11. (uchylony)
+
+12. Poświadczenie przez organ podatkowy złożenia informacji o lasach lub deklaracji na podatek leśny za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+**Art. 6a.**
+
+1. Osobom fizycznym, na których ciąży obowiązek podatkowy w zakresie podatku leśnego oraz jednocześnie w zakresie podatku od nieruchomości lub podatku rolnego dotyczący przedmiotów opodatkowania położonych na terenie tej samej gminy, wysokość należnego zobowiązania podatkowego pobieranego w formie łącznego zobowiązania pieniężnego ustala organ podatkowy w jednej decyzji (nakazie płatniczym). Przepisy art. 6 ust. 3a i 7a stosuje się odpowiednio.
+
+2. Łączne zobowiązanie pieniężne należne od przedmiotów opodatkowania stanowiących współwłasność lub znajdujących się w posiadaniu dwóch lub więcej osób fizycznych ustala się w odrębnej decyzji (nakazie płatniczym), który wystawia się na któregokolwiek ze współwłaścicieli lub posiadaczy.
+
+**Art. 7.**
+
+1. Zwalnia się od podatku leśnego:
+
+- **1)** lasy z drzewostanem w wieku do 40 lat;
+- **2)** lasy wpisane indywidualnie do rejestru zabytków;
+- **3)** użytki ekologiczne.
+
+2. Od podatku leśnego zwalnia się również:
+
+- **1)** uczelnie;
+- **1a)** federacje podmiotów systemu szkolnictwa wyższego i nauki;
+- **2)** publiczne i niepubliczne jednostki organizacyjne objęte systemem oświaty oraz prowadzące je organy, w zakresie lasów zajętych na działalność oświatową;
+- **3)** instytuty naukowe i pomocnicze jednostki naukowe Polskiej Akademii Nauk;
+- **4)** prowadzących zakłady pracy chronionej spełniające warunek, o którym mowa w art. 28 ust. 1 pkt 1 lit. b ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165, 1494 i 1961), lub zakłady aktywności zawodowej w zakresie lasów wymienionych w decyzji w sprawie przyznania statusu zakładu pracy chronionej lub zakładu aktywności zawodowej lub zgłoszonych wojewodzie – zajętych na prowadzenie tego zakładu, z wyłączeniem lasów, które znajdują się w posiadaniu zależnym podmiotów niebędących prowadzącymi zakłady pracy chronionej spełniające warunek, o którym mowa w art. 28 ust. 1 pkt 1 lit. b ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zakłady aktywności zawodowej;
+- **5)** instytuty badawcze;
+- **6)** przedsiębiorców o statusie centrum badawczo-rozwojowego uzyskanym na zasadach określonych w przepisach o niektórych formach wspierania działalności innowacyjnej, w odniesieniu do przedmiotów opodatkowania zajętych na cele prowadzonych badań i prac rozwojowych;
+- **7)** Krajowy Zasób Nieruchomości, w zakresie nieruchomości wchodzących w skład Zasobu Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2024 r. poz. 1026 i 1089 oraz z 2025 r. poz. 39);
+- **8)** Centrum Łukasiewicz i instytuty działające w ramach Sieci Badawczej Łukasiewicz.
+
+3. Rada gminy, w drodze uchwały, może wprowadzić inne zwolnienia przedmiotowe niż określone w ust. 1, z uwzględnieniem przepisów dotyczących pomocy publicznej.
+
+4. Z tytułu zwolnienia od podatku leśnego, o którym mowa w ust. 2 pkt 6, jednostkom samorządu terytorialnego przysługuje z budżetu państwa zwrot utraconych dochodów.
+
+5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zasady i tryb zwrotu utraconych dochodów, o których mowa w ust. 4, kierując się potrzebą zabezpieczenia budżetów gmin przed utratą dochodów.
+
+6. Zwolnienie od podatku leśnego, o którym mowa w ust. 2 pkt 6, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.
+
+**Art. 8.** (pominięty)
+
+**Art. 9.** (pominięty)
+
+**Art. 10.** (uchylony)
+
+**Art. 11.** (pominięty)
+
+**Art. 12.** (pominięty)
+
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem art. 6 ust. 9, który wchodzi w życie z dniem ogłoszenia .
 

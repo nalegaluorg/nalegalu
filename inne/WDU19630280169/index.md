@@ -8,9 +8,12 @@ pos: 169
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# budowlanych obszarach ,wsi, nfe posiada tak'iej tej samej
+# o zagospodarowaniu wspólnot gruntowych
+
+*USTAWA z dnia 29 czerwca 1963 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,80 +27,304 @@ domain: null
 | Ostatnia zmiana | 2025-10-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19630280169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1963/169/text.pdf) |
 
-2) art. dodaje usL 3 w' brzmieniu: ,,3. Nabycłe nieruchomości drodze' dziedzt{;zenia. r~~ ,przepisy,"';
-3) wart., otrzy'muje brzmienie: ,,2;
-wego:.Funduszu Ziemi lub ,Banku Roln'ego nabycia ,drodze nadania aIbó Obrotowego ReformyR6Inej bez t9i czy jest ujawniona dze, wieczystej lub zbiorze dokumentqwi zbywana pod warunkiem' ,tej przez dotychczasowych wa-· runkach.";
-wart. dodaje brzmieniu: ,,3. Zbycie C'zęścLnieruchomości; o której mo'wa 2, pod warunkiem przez odpowiedniej' spraw ' pre-' zydium powiatowej. rady narod'owej;";
-5) tv art. 4 oznacza jako ,i dodaje brzmieniu: ,,2. WprzypadkJl nabycia gruptów przez ka bierze pod obszar na-' .do obu lub ich we .. yv dekrecie 8 Hstopada 1946 r. o ... Nr ·,r. :r-.J'r 38, poz. r. Nr poz. 172)iwprowadza zmiany go ..;,'
-3. W dekie.cie 8 listopada 1946, o postępowa •.
-J;1i,u nięsgo.rnym .zakresu prilwa rzeczowego U.~1946:r.
-Nr 63, po~ .. ~4S, :I: .1.ąSO. r.Nr. 3ą;.. ,poz. 349'pra.zR)9,57 .. r. Nr.;ag:(;,
-17.2), ·39 §.2,.
-4. W ustawie .dnia 12. marca 1958 r. o sprzedaży -pa.ft~ ,.0raz. nie-.' )ctórych .spraw, Nr poz.
-'wart.· art. otrzyrplJje brzmienie: ,,2. ,pkt' l jest .... wymagane .:db .nabycia ·określonej Vi przepiś~cho terenach 'budowlaąy~h'-~'<' ob~ziHach wsi, jezeli .nabYwcaniep?si~da ·ialdę,L ;'działki tej .'s'amej _miejstowoścL"; ' ' -, ' ..
-art'. 3.' '....... '" '"
-21. ,Ustawa narus.za prz-eplSOW ustawy 14 ,czerwca .1960r. o, lasów .niektóryc;hla.s6w t (Dz. ,U. Nr poz._ .166).
-28, Traci moc ustawa z.' 18 o zawieszen'iu niektórych spłat spadkowych' (Dz.
-poz.
-29, Ustaw.ay/chodzi z,dniem, Rady A. Zawadzki.
-Sekr:'etarz Ra<ly Państwa: J. Horodecki 169 czerwca r.
-o wspólnot ·'gruntowych.
-z-i Przepisy ogólne.
-Wspólnotami gruntowymi podlegającymi za gospodarowaniu trtbie, zasadach usta rolne, obszary wodne: 11 nadane wyniku mieszc7:an-rol ników we wspolne posiadanie lub wspoJnego pewnej grupie lub niektórym jednej albo kilku wsi, wydzielone wyna'grodzenia za zniesione ziemskiego mi.eszczan-rolników, ,wewspól ne .posiadanie lub wspólnego gminie, alba uprawnionych wykony" wania użY,tkowane wspólnie przez mieszkańców dawnyc~~k'O~ lic do\vspólnot urbarialnycl{ ::, otrzymane przez jednej lub kilku wsi wspólnego drodze przywilejów nabyte takim celu '-, ' ,,, zapisane 'w księgach wieczystych (grunt0:o/Ych) jąko wła-.·~ gminy (gromady), vi tych ,wpis o grup nl' (gromady) clo wieczystego .t ych
-7) dobro gromadzkie (gminne) nym terenach województW' go, krakowskieqo powiatu' cieszyńśkiego wdJewó(fz.' twa ..
-· ·-chomości--Iub.ich,'częśd określonych. .att·. "1', jeżeli .' 7.' J~Żeli. uprawni9nynl.doudziahl we wspóinoci~':Jes~ .:' piZ€ttdniem W.ejŚcill życie ustawy zostały prawnie lubfak- ,; pai'isfwowa jednostka,or.ganizacyJna, decy'zje, o których ' ł1 ł- 0 + tycznie'przekazalle -na cele'pubJic,2)n€ ,lub społecz,ne ':albo -te.ż '.' wa 'w 6., Q.orę<:zll ~wykłym trybie. ' ·końca 'ił gdy chodzi,.ó ,grunty leśne .UdziałY po:szczeiió!nych uprawnionych ..... ve: :c:Jnia .września zostały. podzielone działki·indy- "'wspólnocie gruntbwej określa 'idealnych (ułamkowych') widualne, za,,,ie- .. h "-dzeniu" ", ,. '2. uprawnionych .. korzystan+a .ze ., obszaru ustala ' ten sposób,.
-runlową wżniesione zostały przed dniem wejścia zycie \Vspólnoty dz'ieli się· P9między upr,awniciriych (art.
-.>-' ;;'l!sta,wy' .. budynki vi indywfdualilYI:n" .wJadimill, równyCh - propO'rcjonahife' budynku prawo' nabycia" grunt'ów '. dO. cil)s7;arów 'gruntó,w prze.z 'z·"upraw-' .;", pod budynkiem mieszkalnym' 'zabudowa-' obszarze tej' sameJ lub niami gospodarczynii wraz podwórzeI11;' (niiilsta,' osiedla). ,. '.
-,Ait. Wspólnoty gruntowe inogą. być dzielone p6~ WielkoŚć uaziałów we· wspólnocie. ·grlmtówej okre~ w' tych wart. ustala .podstawie dokumentów".
-· Art.' .Uprawnionymi udziału' ·.we .'wspólnocie rażie ich braku - według stanu faktycznego; lIdzii3ly gruntowej osoby fizyczne lub pra\"':ne. Qsób,' które stoso\\"nie. przepi.sów art. li ·.ust.
-darstwa rolne, ostatniego roku prze:l dniem uprawnienia korzystania ze wspólnoty, dzieii ustawy faktycznie tej wspól- \Iprawnionych równych noly. Przepisy stosuje Jeżeli wspólnotą.gruntową są lasy,' gruntv leśne albo korzyściach wynikających zagospodarowania nieruchoprzeznaczone zalesienia, uprawnionymi art. ust: takiej wspólnocie osoby fizyczlie lub prawne 10. W razie' potrzeby wydzielenia ze wspólnoty.
-lub ter&ilie gruntowej ten 'wydziela' pny której 'grunty wspólnoty gruntowej: by terenie prowa- zasadach i' s'posób przeWidziany pfzepigospodarstwo rolne, chyga. ze okreSIe 5 lat przed sach o sprzedaiy rolnych.
-ustawy osoby te faktycznie ze wspóln3ty 11. Dla grunprowadzi wieczystych: Dotychczasqwe '"
-3. Niekorzystanie ze wspólnoty gruntowe] okresie Inoc Wymienionym u.;t. powoduje utraty Przepisów art. art.
-uprawnxen, spowodowane to ' stosuje przypadków, których wypadkami losowymi lub innymi szczególnymi u.stawy ustalone prawa
-7. Ograniczenia wart. 5 6 za- podstawie przepisów dotychczasowych, stosowania spraw rolnych organy prezydiów powiatowych rad' narodowych stosownie przepisów art. które wspólgl'lllllu,l!,kie.
-2. Wykal upra wn.iollych ::lo· we wspóln.ocie grtln towej w:rkazóbszal'ów gospodarstw przez nich posiada nych im We wspóln::>eie ustala drodze decyzji spraw rolnych: le 'orCJan 'prezydium powiatowej rady narodowej. Nrl obszarze gromad, osiedli· miast powiatów projekty ·takich wykazów biura' gromadzkich rad narodowych organy prezydiów miejskich rud narodowych lub rad narodowych osiedli. .•
-3. wspóln0-ta gruntowa jest na' obszarze dwu lub terytorialnych jednostek administracyjnych, prezydium rady narodowej wyzszego stopnia prezydium rady narodowej, ktprego organ sprawach wyni.ienionych 2.
-4 •. Obszary osób· uprawnionych we wspólnocie. gruntowej danych uwidoczR o ze! 2.
-Zagospodarowanie.
-13. L Zagospodarowanie wspolnot grullto\vych uzytkowEmych rolniczo 'zagospoda rowania rolniczego przeprowadza sposóbprzewiclziany niniejszej ustawie.
-2. Zagospodarowanie wspólnot gruntowych cych grunty inne l (lasy, grunty przeznaczone zalesienia obszary wodne grunty kopa·lne, jak piaski, gliny, torfy) przeprowa dza stosownie tym zakresie pisów, braku takich przepisów - zgodnie charakterem
-14. Osoby uprawnione we wspólno cie gruntowej powinny sprawowania nad zagospodarowania· w· tej wspólnoty.
-2, Utworzenie po • ,"
-1) nazwę siedzibę spółki or~ prz,edmiot jej działalności,
-2) prawa spó1ki,
-3) organy spólki, sposób ich zakres dzia
-4) warunki dopuszczenia posiadaczy wspólnoty gruntowej, zatwiercJ'lenia uproszczony' pl;,p za gospodarowania takich spraw le organowi prezydium wojewódzkiej rady narodowej (rady narod<?wej miasta zwojewództwaJ,
-2. Organy prezydiów rad narodowych wymienione
-5) warunki dopuszcze,nia 'gruntów osób
-6) dochodów strat, uprawnione-do w' przedstawionych planach regulaminie 'zmian uzasadnio" 'nych gospodaI'czymi. ' sposób likwidacji' Statut jak jego. zmiany, za .t'fierdza spraw rolnych, organ pre:?:y dium powiatowej rady narodowej. Z chwil!! zatwierdzenia statutu nabywa
-2. Nazwa obszar wspólnoty gruntowej wykazy uprawnionych kovystania tej wspólnoty wpisowi ewidehcji gruntów. Wszelkie zmiany obszarze wspólnoty gr,untowej wykazie ' osób uprawnionych, jak zmiana statutu' zmiany osobowym sza ewidencji ' 19. Przy podejmowaniu' na' 'zebraniach ma prawo tylko bez jego tej wspólno cie (art. 9).
-20. Za odpowiada swoim - '
-2. za
-25. uprawnieni we wspólnocie gruntowej terminie trzech od driia ustalenia wy kazu uprawnionych (art. 8) zatwierdzenia d'o spraw rolnych organowi prezydium powiatowej rady narodowej statutu organ ten utworzy" nada jej wyznaczy organy osób uprawnionych we wspólno cie gruntowej.
-2. osoby \vybrane ·lub wyznaczone organów spójki uczestniCzenia tych organach lub jeielL tych organów celu, któ rym' utworzona, razie zagospódarowania wspólnoty, spraw rolnych or gan prezydium rady narodowe j organy sp<fsród osób • 3. Osobom wyznaczonym organów spraw rolnyi:h organ prezydium powiato\:Vej rady narodo'f'lej ustali odpo' wiednie wynagrodzenie, które • ki tylko ich tej wspól nocie, chudzi jednak o' ut worz nej zagospodarowania wart.
-u;;.l:. - odpowiednio, wysokości udziału korzyściach Rozporządzanie "'8póln~,tami gruntowymi.
-tych gruntów, 26. Zbycie, zamiana, jak przeznaczenie' uiszczonych cele publiczne hib wspólnot gruntowych lub terminie statutowych kosztów ich oraz, przez czego wykonania przewidzianych statucie podle- tylko za' s'praw rolwraz odsetkami za kosztami egzekucyjnymi nych organu' prezydium powiatowej rady narodoprzymuso,wemu trybie zasadach wej.
-nycn przepisach o egzekucji 2. W razie' wspólterenie miasta lub osiedla, 2, Przed egzekucji kieruje prawo' pierwokupu zasadach okreka upomnienie o terminie 7 dni od przepisach o gospodarce terenami miastach doreczenia upomnienia. osiedlach.
-3. D'lużnik moż€ ciągu 14 dni od upływu terminu 3. Przepis ma zastosowania razie zbycia upomnieniu (ust. 2) pozew wspólnoty gruntowej rzecz jak ra7ie o ustalenie, że należność całości lub C7:ęści istnieje. zamiany wchodzących skład wspólnoty ria' grunty udowodnienia istnienia spoczywa sporze spójce. 4. Przepis ma zastosowania tej grun4. O .prawie wnies.ienia pozwu tów wspólnoty gruntowej, która upomnieniu. wyznaczona cele bud.:>wlane podstawie' prze piwniosek 'sów o terenach budowlanych obszarach wsi miej ,razie niewniesienia. pozwu terminie lub scowym planie zagospodarowania przestrzennego.
-wn'iesionego pozwu albo razie oddalenia pozwu. 5. interes gospodarczy uzasadnia
-6. Tytuiy wykonawcze poszcze'gólnych sposobu wart. 2, ników wystawia podstawie ,wykazu za- ograniczonych praw rzeczo\vych osób upraw darstwa przez uprawrlionego we wspól nocie gruntowej tej wsp:ólnocie przechodzi tego gospodarstwa.
-razie zbycia - we wspólnocie gruntowej zachowuje d9tychczasowy chyb'a p09-stawie umowy swe upraw nienia llabywcy.' J jednak zbywca pozostawia sobie ob szar rolnych ha, we wspólnocie gruntowej przechodzi
-29. gospodarstwo rolne, którego niem we wspólnocie gruntowej, po'dzielone ' drodze spadku lub' ze 'we wspólnocie ulega proporcjonalnie obszaru tych Uprawnieni we wspólnocie gruntowej lub lasy, grunty lub przeznaczone zalesienia zrzec rzeczFailstwa we wspólnocie zakresie te lasy, ' grunty Zrzeczenie' trybie przepisu art.' o Przepisy 3ł. ,L Ilekroć ustawie jest' i~owa właściwym spraw o'ruanie prezydium powiatowej sprawach niniejszej ustawy wydawane .w porozumieniu spraw gospodarki Im-, munalnej mieszkaniowej organejn .prezydium po,wiatowej (miejskiej miasta powiat ,miasta nego województwa) rady narodowej.
-Z dniem ustawy dotyc;hczasowe zagospodarowania wspólnot gruntowych likwidacji zB.sadach prze'widzianych wich statutach, za dania zagos;Jouarowaniem wspólnot wyko c·zasu utworzen:a nowel. sto-' sownie 'do przepisów art. niniejszej zakresie not grllntowy-ch przed ,dniem wejscia ni niejszej ustawy powinno trybie przepisó_w dotychczasowych.
-Traci moc: art. lit. b) orllz art. 22 lit. a) art. 24 usta wy 31 lipca 1923 o scalaniu (Dz. U.
-1927 Nr 92, poz. 833 zmianami).
-ustawa maja o wspól not gruntowych (Dz. Nr 33, poz.
-Ustawa wchodzi dniem Rady A. Zawadzki Rady Pallstwa: J.
-170 USTA WA czerwca r.
-• o popi,eraniu melioracji 'Wodnych dla potrzeb rolnictwa.
-W ustawie 22 maja o popieraniu meliora:ji. wodnych dla pot~zeb rolnictwa (Dz. U. ż r.
-poz. Nr poz. wprowadza zmiany:
-1) wart. 1:
-a) pkt e) brzmienie: "e) stale stacje pomp,",
-b) pkt lit. b) otrzymuje brzmienie: "b) rówy ze zdrenowanych poza obszarem drenowania iub rowy - poza meliorowanym,",
-e) pkt 3 lit. otrzymuje brzmienie: zagospodarowa'nie zmeliorowanych, jak, wymagaJctcYchme-lioracji trwałych łąk pa stwisk przeznaczonych na" takie i'pastwiska po ich zmeliorowaniu,";
-a) lolrzymuje brzmienie: WykonywanifL melioracji wodnych - podstawo
-b) otrzymuje brzmienie: ,,2. Na wniosek wodnej, produk cyjnej lub zainteresowanych cieli zorganizowanych wud jak wniosek nie' zorganizowanych co najmnie:i ogólnego obszaru przewidzianych dcl' zmeliorowania - organ administracji rolnej pre zydium powiatowej rady narodowej o wykonaniu melimacji wo wych przez PaI1stwo za zwro tem kosztów,",
-c) po 3 dodaje 3a brzmieniu: ,,3a·. melioracje przeprowadzone gruntach terenów bagien n.ych lub. kompleksów jak terenach przewidzianych cdo rol niCzego wykorzystania Pailstwo za, zgo zBinteresowanego takich' gruntow zamiast od niego me
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.**
+
+1. Wspólnotami gruntowymi podlegającymi zagospodarowaniu w trybie i na zasadach określonych w ustawie są nieruchomości rolne, leśne oraz obszary wodne:
+
+- **1)** nadane w wyniku uwłaszczenia włościan i mieszczan-rolników na wspólną własność, we wspólne posiadanie lub do wspólnego użytkowania ogółowi, pewnej grupie lub niektórym mieszkańcom jednej albo kilku wsi;
+- **2)** wydzielone tytułem wynagrodzenia za zniesione służebności, wynikające z urządzenia ziemskiego włościan i mieszczan-rolników, na wspólną własność, we wspólne posiadanie lub do wspólnego użytkowania gminie, miejscowości albo ogółowi uprawnionych do wykonywania służebności;
+- **3)** powstałe w wyniku podziału pomiędzy zespoły mieszkańców poszczególnych wsi gruntów, które nadane zostały przy uwłaszczeniu włościan i mieszczan-rolników mieszkańcom kilku wsi na wspólną własność, we wspólne posiadanie lub do wspólnego użytkowania;
+- **4)** użytkowane wspólnie przez mieszkańców dawnych okolic i zaścianków oraz należące do wspólnot urbarialnych i spółek szałaśniczych;
+- **5)** otrzymane przez grupę mieszkańców jednej lub kilku wsi na wspólną własność i do wspólnego użytkowania w drodze przywilejów i darowizn bądź nabyte w takim celu;
+- **6)** zapisane w księgach wieczystych (gruntowych) jako własność gminy (gromady), jeżeli w księgach tych istnieje wpis o uprawnieniu określonych grup pożytków z tych nieruchomości;
+- **7)** stanowiące dobro gromadzkie (gminne) będące we wspólnym użytkowaniu na terenach województw rzeszowskiego, krakowskiego oraz powiatu cieszyńskiego województwa katowickiego.
+
+2. Oprócz wspólnot gruntowych (ust. 1) podlegają zagospodarowaniu w trybie i na zasadach określonych w niniejszej ustawie także nieruchomości rolne, leśne i obszary wodne, stanowiące mienie gromadzkie w rozumieniu przepisów o zarządzie takim mieniem, jeżeli przed dniem wejścia w życie tej ustawy były faktycznie użytkowane wspólnie przez mieszkańców wsi.
+
+3. Przepis ust. 2 nie dotyczy mienia gromadzkiego położonego na terenach miast i osiedli.
+
+**Art. 2.** Ilekroć w ustawie jest mowa o wsi, odnosi się to odpowiednio do osiedla lub miasta.
+
+**Art. 2a.** Przepisów ustawy nie stosuje się do gruntów pokrytych wodami publicznymi w rozumieniu przepisów ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960).
+
+**Art. 3.** Nie zalicza się do wspólnot gruntowych nieruchomości lub ich części określonych w art. 1 ust. 1, jeżeli:
+
+**Art. 4.** Jeżeli na części obszaru stanowiącego wspólnotę gruntową wzniesione zostały przed dniem wejścia w życie ustawy budynki pozostające w indywidualnym władaniu, właścicielowi budynku przysługuje prawo nabycia gruntów znajdujących się pod budynkiem mieszkalnym i zabudowaniami gospodarczymi wraz z podwórzem.
+
+**Art. 5.**
+
+1. Wspólnoty gruntowe nie mogą być dzielone pomiędzy uprawnionych do udziału w tych wspólnotach.
+
+2. Podział wspólnoty gruntowej następuje wyłącznie w razie objęcia jej gruntów scaleniem, za zgodą bezwzględnej większości osób uprawnionych do udziału w tej wspólnocie. lub prawne posiadające gospodarstwa rolne, jeżeli w ciągu ostatniego roku przed dniem wejścia w życie ustawy faktycznie korzystały z tej wspólnoty.
+
+2. Jeżeli wspólnotą gruntową są lasy, grunty leśne albo nieużytki przeznaczone do zalesienia, uprawnionymi do udziału w takiej wspólnocie są osoby fizyczne mające miejsce zamieszkania lub osoby prawne mające siedzibę na terenie miejscowości, w której znajdują się grunty stanowiące wspólnotę, lub osoby mające miejsce zamieszkania na terenie innej miejscowości, a prowadzące gospodarstwo rolne, chyba że w okresie 5 lat przed dniem wejścia w życie ustawy osoby te faktycznie ze wspólnoty nie korzystały.
+
+3. Niekorzystanie ze wspólnoty gruntowej w okresie wymienionym w ust. 1 bądź w ust. 2 nie powoduje utraty uprawnień, jeżeli spowodowane to było klęską żywiołową, wypadkami losowymi lub innymi szczególnymi względami.
+
+**Art. 6a.**
+
+1. Jeżeli nie jest możliwe ustalenie uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6 ust. 1 lub 2, uprawnionymi do udziału w tej wspólnocie są:
+
+- **1)** osoby fizyczne lub prawne, które posiadają gospodarstwa rolne i nieprzerwanie przez okres od dnia 1 stycznia 2006 r. do dnia 31 grudnia 2015 r. faktycznie korzystały ze wspólnoty gruntowej albo
+- **2)** osoby fizyczne, które mają miejsce zamieszkania na terenie miejscowości, w której znajdują się grunty stanowiące wspólnotę lub prowadzą w tej miejscowości gospodarstwo rolne – jeżeli wspólnotą gruntową są lasy, grunty leśne albo nieużytki przeznaczone do zalesienia, chyba że przez okres od dnia 1 stycznia 2006 r. do dnia 31 grudnia 2015 r. osoby te faktycznie nie korzystały ze wspólnoty.
+
+2. Niekorzystanie ze wspólnoty gruntowej w okresie wymienionym w ust. 1 pkt 1 nie powoduje utraty uprawnień, jeżeli spowodowane było klęską żywiołową, wypadkami losowymi lub innymi szczególnymi względami.
+
+**Art. 7.** Ograniczenia określone w art. 5 i 6 nie mają zastosowania do Państwa.
+
+**Art. 8.**
+
+1. Starosta wydaje decyzję o ustaleniu, które spośród nieruchomości, o których mowa w art. 1 ust. 2 i 3, stanowią mienie gromadzkie.
+
+2. (uchylony)
+
+3. (uchylony)
+
+5. (uchylony)
+
+6. Decyzję o ustaleniu, które nieruchomości stanowią mienie gromadzkie, podaje się do wiadomości w sposób zwyczajowo przyjęty w danej miejscowości oraz ogłasza wywieszając w urzędzie gminy oraz w starostwie powiatowym na okres 14 dni, a także zamieszcza się w Biuletynie Informacji Publicznej gminy i powiatu oraz w prasie lokalnej.
+
+7. (uchylony)
+
+**Art. 8a.**
+
+1. Ustalenie, które nieruchomości stanowią wspólnotę gruntową, ustalenie wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie następuje na wniosek złożony nie później niż do dnia 31 grudnia 2016 r. przez uprawnionego do udziału we wspólnocie gruntowej, o którym mowa w art. 6 ust. 1 lub 2, albo przez jego następcę prawnego.
+
+2. Wniosek, o którym mowa w ust. 1, zawiera:
+
+- **1)** określenie nieruchomości, która stanowi wspólnotę gruntową;
+- **2)** imię i nazwisko osoby fizycznej albo firmę osoby prawnej uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6 ust. 1 lub 2;
+- **3)** nazwę miejscowości, w której położone jest gospodarstwo rolne uprawnionego do udziału we wspólnocie gruntowej, o którym mowa w art. 6 ust. 1 lub 2;
+- **4)** wskazanie adresu do doręczeń.
+
+3. We wniosku, o którym mowa w ust. 1, wskazuje się dowody, które świadczą:
+
+- **1)** że nieruchomość stanowi wspólnotę gruntową;
+- **2)** o spełnieniu warunków do nabycia uprawnień do udziału we wspólnocie gruntowej.
+
+4. Starosta wydaje decyzję, o ustaleniu, które nieruchomości spośród nieruchomości, o których mowa w art. 1 ust. 1, stanowią wspólnotę gruntową.
+
+5. Starosta wydaje decyzję o ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie.
+
+6. Obszary gospodarstw rolnych osób uprawnionych do udziału we wspólnocie gruntowej określa się według danych zawartych w ewidencji gruntów i budynków.
+
+7. W przypadku gdy nie jest możliwe ustalenie uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6 ust. 1 lub 2, starosta wydaje decyzję ust. 1 lub 2.
+
+**Art. 8b.** Decyzje, postanowienia oraz inne pisma w sprawach, o których mowa w art. 8a ust. 4, 5 i 7, doręcza się poprzez ogłoszenie w sposób zwyczajowo przyjęty w danej miejscowości, wywieszenie w urzędzie gminy oraz starostwa na okres 14 dni. Po upływie tego okresu pismo uważa się za doręczone.
+
+**Art. 8c.**
+
+1. W przypadku gdy decyzja, o której mowa w art. 8a ust. 7, stała się ostateczna, ustalenie, które nieruchomości stanowią wspólnotę gruntową oraz ustalenie wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie gruntowej następuje na wniosek uprawnionego do udziału we wspólnocie gruntowej, o którym mowa w art. 6a.
+
+2. Starosta w terminie 7 dni od dnia, w którym decyzja, o której mowa w art. 8a ust. 7, stała się ostateczna, podaje do publicznej wiadomości informację o terminie składania wniosków przez osoby uprawnione do udziału we wspólnocie gruntowej, o których mowa w art. 6a.
+
+3. Informację, o której mowa w ust. 2, wywiesza się na okres 14 dni w starostwie powiatowym oraz urzędach gmin właściwych ze względu na położenie nieruchomości stanowiących wspólnotę gruntową, a ponadto podaje się ją do wiadomości w sposób zwyczajowo przyjęty w danej miejscowości, a także zamieszcza się ją na stronach internetowych gminy i starostwa powiatowego oraz w prasie lokalnej.
+
+4. Termin wyznaczony do składania wniosków nie może być krótszy niż 12 miesięcy od dnia podania do publicznej wiadomości informacji, o której mowa w ust. 2, przy czym termin ten liczy się od dnia wywieszenia tej informacji w starostwie powiatowym.
+
+5. Wniosek, o którym mowa w ust. 1, zawiera:
+
+- **1)** określenie nieruchomości, która stanowi wspólnotę gruntową;
+- **2)** imię i nazwisko osoby fizycznej albo firmę osoby prawnej uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6a;
+- **3)** nazwę miejscowości, w której położone jest gospodarstwo rolne uprawnionego do udziału we wspólnocie gruntowej, o którym mowa w art. 6a;
+- **4)** wskazanie adresu do doręczeń.
+
+6. We wniosku, o którym mowa w ust. 1, wskazuje się dowody, które świadczą:
+
+- **1)** że nieruchomość stanowi wspólnotę gruntową; gruntowej.
+
+**Art. 8d.** Starosta wydaje decyzję o ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6a, oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie.
+
+**Art. 8e.** W przypadku gdy nie jest możliwe ustalenie uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6a, starosta wydaje decyzję o nieustaleniu wykazu uprawnionych do udziału we wspólnocie.
+
+**Art. 8f.** Decyzje, postanowienia oraz inne pisma w sprawach, o których mowa w art. 6a oraz art. 8e, doręcza się poprzez ogłoszenie w sposób zwyczajowo przyjęty w danej miejscowości, wywieszenie w urzędzie gminy oraz starostwa na okres 14 dni. Po upływie tego okresu pismo uważa się za doręczone.
+
+**Art. 8g.**
+
+1. W przypadku wydania decyzji o nieustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej, o której mowa w art. 8e, gmina może nieodpłatnie nabyć na własność nieruchomości oznaczone w ewidencji gruntów i budynków jako wspólnota gruntowa na cele, o których mowa w art. 24 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080), związane z realizacją zadań własnych gminy.
+
+2. Nabycie nieruchomości, o których mowa w ust. 1, następuje na wniosek gminy.
+
+**Art. 8h.**
+
+1. Starosta w terminie 7 dni od dnia, w którym decyzja, o której mowa w art. 8e, stała się ostateczna, informuje gminę o możliwości nieodpłatnego nabycia nieruchomości, o których mowa w art. 8g ust. 1.
+
+2. W informacji o możliwości nieodpłatnego nabycia przez gminę nieruchomości podaje się dane dotyczące nieruchomości, o których mowa w art. 8g ust. 1, oraz określa się termin do złożenia przez gminę wniosku o nabycie tych nieruchomości.
+
+3. Termin wyznaczony do złożenia wniosku nie może być krótszy niż 6 miesięcy od dnia doręczenia gminie informacji, o której mowa w ust. 1.
+
+**Art. 8i.**
+
+1. Wojewoda wydaje decyzję w sprawie nieodpłatnego nabycia przez gminę własności nieruchomości, o których mowa w art. 8g ust. 1, w przypadku własności następuje z dniem, w którym decyzja stała się ostateczna.
+
+2. Wojewoda wydaje decyzję o odmowie nabycia przez gminę własności nieruchomości, o których mowa w ust. 1, jeżeli we wniosku o nabycie nie określono jednego z celów, o których mowa w art. 24 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, związanych z realizacją zadań własnych gminy.
+
+3. Odwołania od decyzji wojewody rozpatruje minister właściwy do spraw rozwoju wsi.
+
+**Art. 8j.** Ostateczna decyzja o nieodpłatnym nabyciu przez gminę własności nieruchomości, o których mowa w art. 8g ust. 1, stanowi podstawę do dokonania wpisu w księdze wieczystej.
+
+**Art. 8k.** Wojewoda wydaje decyzję o nieodpłatnym nabyciu przez Skarb Państwa nieruchomości oznaczonych w ewidencji gruntów i budynków jako wspólnota gruntowa w przypadku, gdy:
+
+**Art. 8l.** Ostateczna decyzja o nieodpłatnym nabyciu przez Skarb Państwa własności nieruchomości, o której mowa w art. 8k, stanowi podstawę do dokonania wpisu w księdze wieczystej.
+
+**Art. 8m.** W postępowaniu administracyjnym organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) w stosunku do starosty jest wojewoda.
+
+**Art. 8n.** W postępowaniach administracyjnych uregulowanych w niniejszym rozdziale nie stosuje się art. 97 § 1 pkt 1 i 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+**Art. 8o.**
+
+1. Do postępowań dotyczących wzruszenia decyzji ostatecznych wydanych na podstawie niniejszej ustawy nie stosuje się art. 145–145b, art. 154 oraz art. 155 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, jeżeli upłynęło 5 lat od dnia, w którym stała się ostateczna, decyzja o ustaleniu, które nieruchomości stanowią wspólnotę gruntową, ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie. stanowią wspólnotę gruntową, ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie, jeżeli od dnia, w którym decyzja stała się ostateczna, upłynęło 5 lat. Art. 158 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
+
+**Art. 9.**
+
+1. Udziały poszczególnych uprawnionych we wspólnocie gruntowej określa się w idealnych (ułamkowych) częściach.
+
+2. Wielkość udziałów uprawnionych do korzystania ze wspólnoty gruntowej ustala się w ten sposób, że połowę wspólnoty dzieli się pomiędzy uprawnionych, o których mowa w art. 6 ust. 1 oraz art. 6a pkt 1, w równych częściach, drugą zaś połowę – proporcjonalnie do obszarów gruntów posiadanych przez każdego z uprawnionych, a położonych na obszarze tej samej lub graniczącej z nią gminy.
+
+3. Wielkość udziałów we wspólnocie gruntowej, o której mowa w art. 6 ust. 2 oraz art. 6a pkt 2, ustala się na podstawie dokumentów, a w razie ich braku – według stanu faktycznego; udziały osób, które stosownie do przepisów art. 6 ust. 2 utraciły uprawnienia do korzystania ze wspólnoty, dzieli się pomiędzy uprawnionych w równych częściach.
+
+4. Przepisy ust. 1–3 stosuje się odpowiednio do udziału w korzyściach wynikających z zagospodarowania nieruchomości określonych w art. 1 ust. 2.
+
+**Art. 10.** W razie potrzeby wydzielenia ze wspólnoty gruntowej udziału Państwa udział ten wydziela się przy uwzględnieniu wartości wspólnoty gruntowej; wartość tę określa się na zasadach i w sposób przewidziany w przepisach o sprzedaży państwowych nieruchomości rolnych.
+
+**Art. 11.** (uchylony)
+
+**Art. 12.** Przepisów art. 6 ust. 1 i 2 oraz art. 9 ust. 2 i 3 nie stosuje się do przypadków, w których do dnia wejścia w życie ustawy zostały już ustalone prawa współwłasności na podstawie przepisów dotychczasowych.
+
+#### Rozdział 2 Zagospodarowanie
+
+**Art. 13.**
+
+1. Zagospodarowanie wspólnot gruntowych użytkowanych rolniczo oraz nadających się do zagospodarowania rolniczego przeprowadza się w sposób przewidziany w niniejszej ustawie. określone w ust. 1 (lasy, grunty leśne i nieużytki przeznaczone do zalesienia oraz obszary wodne i grunty kopalne, jak żwiry, piaski, gliny, torfy) przeprowadza się stosownie do obowiązujących w tym zakresie przepisów, a w braku takich przepisów – zgodnie z charakterem użytku.
+
+**Art. 14.**
+
+1. Osoby uprawnione do udziału we wspólnocie gruntowej powinny utworzyć spółkę do sprawowania zarządu nad wspólnotą i do właściwego zagospodarowania gruntów wchodzących w skład tej wspólnoty.
+
+2. Utworzenie spółki następuje w drodze uchwały powziętej większością głosów uprawnionych do udziału we wspólnocie przy obecności przynajmniej ich połowy.
+
+3. Jeżeli w skład wspólnoty wchodzą również lasy, grunty leśne lub nieużytki przeznaczone do zalesienia (art. 6 ust. 2), do zagospodarowania takich gruntów może być utworzona odrębna spółka.
+
+**Art. 15.**
+
+1. Spółka jest osobą prawną i działa na podstawie statutu.
+
+2. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, wzór statutu spółki, biorąc pod uwagę wymagania, o których mowa w art. 17.
+
+**Art. 16.**
+
+1. Członkami spółki są osoby uprawnione do udziału we wspólnocie gruntowej.
+
+2. Członkami spółki mogą być również posiadacze gruntów przyległych do wspólnoty gruntowej na warunkach określonych w statucie.
+
+**Art. 17.** Statut spółki powinien określać:
+
+**Art. 19.** Przy podejmowaniu uchwały na zebraniach członków spółki każdy członek ma prawo tylko do jednego głosu bez względu na wielkość jego udziału w tej wspólnocie (art. 9).
+
+**Art. 19a.**
+
+1. Powództwo o uchylenie uchwały spółki może być wniesione do sądu w terminie 30 dni od dnia otrzymania informacji o uchwale, jednak nie później niż w terminie 6 miesięcy od dnia jej podjęcia, jeżeli uchwała:
+
+- **1)** została podjęta z naruszeniem prawa lub statutu spółki;
+- **2)** narusza zasady prawidłowego gospodarowania gruntami wchodzącymi w skład wspólnoty gruntowej;
+- **3)** narusza interesy poszczególnych członków spółki.
+
+2. Prawo do wytoczenia powództwa przysługuje:
+
+- **1)** zarządowi, komisji rewizyjnej oraz poszczególnym ich członkom;
+- **2)** członkowi spółki, który głosował przeciwko uchwale, a po jej powzięciu zażądał zaprotokołowania sprzeciwu;
+- **3)** członkowi spółki bezzasadnie niedopuszczonemu do udziału w ogólnym zebraniu członków;
+- **4)** członkowi spółki, który nie był obecny na ogólnym zebraniu członków, jedynie w przypadku wadliwego zwołania ogólnego zebrania członków lub też podjęcia uchwały w sprawie nieobjętej porządkiem obrad.
+
+3. Prawo do wytoczenia powództwa przysługuje także właściwemu wójtowi (burmistrzowi, prezydentowi miasta) z zastrzeżeniem przypadku, o którym mowa w ust. 1 pkt 3.
+
+**Art. 20.**
+
+1. Za zobowiązania spółki odpowiada spółka całym swoim majątkiem.
+
+2. Członkowie spółki odpowiadają za zobowiązania spółki tylko do wysokości wartości ich udziałów w tej wspólnocie, jeżeli chodzi jednak o zobowiązania spółki do wysokości udziału w korzyściach osiąganych z tych gruntów.
+
+**Art. 21.**
+
+1. Należności spółek z tytułu nieuiszczonych w terminie opłat statutowych oraz z tytułu kosztów zastępczego wykonania świadczeń przewidzianych w statucie podlegają wraz z odsetkami za zwłokę i kosztami egzekucyjnymi przymusowemu ściągnięciu w trybie i na zasadach określonych w przepisach o egzekucji administracyjnej świadczeń pieniężnych.
+
+2. Przed wszczęciem egzekucji spółka kieruje do dłużnika upomnienie o zapłatę należności w terminie 7 dni od dnia doręczenia upomnienia.
+
+3. Dłużnik może w ciągu 14 dni od upływu terminu określonego w upomnieniu (ust. 2) wnieść do sądu pozew o ustalenie, że należność w całości lub w części nie istnieje. Ciężar udowodnienia istnienia należności spoczywa w sporze na spółce.
+
+4. O prawie wniesienia pozwu do sądu należy pouczyć dłużnika w upomnieniu.
+
+5. Wszczęcie egzekucji następuje na wniosek spółki w razie niewniesienia pozwu w przepisanym terminie lub cofnięcia wniesionego pozwu albo w razie oddalenia pozwu.
+
+6. Tytuły wykonawcze dotyczące poszczególnych dłużników wystawia spółka na podstawie wykazu zaległości zatwierdzonego przez właściwego wójta (burmistrza, prezydenta miasta).
+
+**Art. 22.** Spółka jest uprawniona do wznoszenia i utrzymywania na wspólnocie gruntowej urządzeń potrzebnych dla osiągnięcia celów spółki.
+
+**Art. 23.** Nadzór nad działalnością spółki sprawuje właściwy wójt (burmistrz, prezydent miasta).
+
+**Art. 24.**
+
+1. W terminie oznaczonym w statucie spółki organy spółki są obowiązane przedstawić właściwemu wójtowi (burmistrzowi, prezydentowi miasta) do zatwierdzenia plan zagospodarowania i regulamin użytkowania gruntów i urządzeń spółki. Jeżeli zagospodarowanie dotyczy gruntów określonych w art. 6 ust. 2 – organy spółki przedstawiają staroście do zatwierdzenia uproszczony plan zagospodarowania takich gruntów, po wcześniejszym uzyskaniu opinii właściwego terytorialnie nadleśniczego.
+
+2. Wójtowie (burmistrzowie, prezydenci miast) oraz starostowie są uprawnieni do wprowadzenia w przedstawionych planach oraz w regulaminie zmian i uzupełnień uzasadnionych względami gospodarczymi. trzech miesięcy od dnia ustalenia wykazu uprawnionych nie przedstawią do zatwierdzenia właściwemu wójtowi (burmistrzowi, prezydentowi miasta) statutu spółki, organ ten utworzy spółkę przymusową, nada jej statut oraz wyznaczy organy spółki spośród osób uprawnionych do udziału we wspólnocie gruntowej.
+
+2. Jeżeli osoby wybrane lub wyznaczone do organów spółki odmówią uczestniczenia w tych organach lub jeżeli działalność tych organów nie będzie osiągała celu, w którym spółka została utworzona, a w szczególności w razie nienależytego zagospodarowania gruntów wchodzących w skład wspólnoty, właściwy wójt (burmistrz, prezydent miasta) może powołać organy spółki spośród osób niebędących członkami spółki.
+
+3. Osobom niebędącym członkami spółki wyznaczonym do organów spółki właściwy wójt (burmistrz, prezydent miasta) ustali odpowiednie wynagrodzenie, które obciąża spółkę.
+
+#### Rozdział 3 Rozporządzanie wspólnotami gruntowymi
+
+**Art. 26.**
+
+1. (uchylony)
+
+2. W razie sprzedaży nieruchomości stanowiącej wspólnotę gruntową, gminie przysługuje prawo pierwokupu.
+
+3. (uchylony)
+
+4. (uchylony)
+
+5. Jeżeli interes gospodarczy Państwa uzasadnia zmianę sposobu użytkowania gruntów określonych w art. 1 ust. 2, wywłaszczenie ograniczonych praw rzeczowych osób uprawnionych następuje na zasadach i w trybie przepisów o wywłaszczeniu nieruchomości.
+
+**Art. 27.**
+
+1. Udział we wspólnocie gruntowej może być zbywany wyłącznie w całości i tylko na rzecz osoby posiadającej już udział w tej wspólnocie oraz na rzecz osób posiadających gospodarstwa rolne w tej samej wsi lub we wsiach przylegających do wspólnoty.
+
+2. Zbycie udziału we wspólnocie gruntowej wymaga formy aktu notarialnego.
+
+**Art. 28.**
+
+1. W razie zbycia wszystkich gruntów gospodarstwa rolnego przez uprawnionego do udziału we wspólnocie gruntowej udział w tej wspólnocie przechodzi na nabywcę tego gospodarstwa. gruntowej zachowuje dotychczasowy właściciel, chyba że na podstawie umowy odstąpi swe uprawnienia nabywcy. Jeżeli jednak zbywca pozostawia sobie obszar użytków rolnych nie większy niż 0,1 ha, udział we wspólnocie gruntowej przechodzi na nabywcę.
+
+**Art. 29.** Jeżeli gospodarstwo rolne, z którego posiadaniem był związany udział we wspólnocie gruntowej, zostało podzielone na części w drodze działu spadku lub wyjścia ze współwłasności, udział we wspólnocie ulega podziałowi proporcjonalnie do obszaru tych części.
+
+**Art. 30.** Uprawnieni do udziału we wspólnocie gruntowej stanowiącej w całości lub w części lasy, grunty leśne lub nieużytki przeznaczone do zalesienia mogą się zrzec na rzecz Państwa uprawnień do udziału we wspólnocie w zakresie obejmującym te lasy, grunty leśne i nieużytki. Zrzeczenie się udziału następuje w trybie przepisu art. 27 ust. 2.
+
+#### Rozdział 3a Przekształcanie wspólnot gruntowych we współwłasność
+
+**Art. 30a.**
+
+1. Uprawnieni do udziału we wspólnocie gruntowej mogą podjąć uchwałę o przekształceniu wspólnoty gruntowej we współwłasność w częściach ułamkowych.
+
+2. Uchwała, o której mowa w ust. 1, jest podejmowana jednogłośnie przez wszystkich uprawnionych do udziału we wspólnocie gruntowej. W przypadku braku jednomyślności stosuje się odpowiednio art. 199 zdanie drugie ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172).
+
+3. Uchwała, o której mowa w ust. 1, określa współwłaścicieli nieruchomości i wielkość przypadających im udziałów we współwłasności. Wielkość udziału jaki przysługuje współwłaścicielowi odpowiada wielkości udziału jaki przypadał mu we wspólnocie gruntowej.
+
+4. Uchwała, o której mowa w ust. 1, wymaga formy aktu notarialnego.
+
+**Art. 30b.** Z dniem podjęcia uchwały, o której mowa w art. 30a ust. 1, następuje otwarcie likwidacji spółki, o której mowa w art. 14.
+
+**Art. 30c.** Uchwała, o której mowa w art. 30a ust. 1, albo prawomocne orzeczenie sądu w przypadku, o którym mowa w art. 30a ust. 2, stanowi podstawę do dokonania wpisu w księdze wieczystej oraz ewidencji gruntów i budynków. Przepisy przejściowe i końcowe
+
+**Art. 31.** (pominięty)
+
+**Art. 32.** Z dniem wejścia w życie ustawy dotychczasowe spółki do zagospodarowania wspólnot gruntowych podlegają likwidacji na zasadach przewidzianych w ich statutach, a zadania związane z zagospodarowaniem wspólnot mogą wykonywać nie dłużej niż do czasu utworzenia nowej spółki stosownie do przepisów art. 14 i 25 niniejszej ustawy.
+
+**Art. 33.** Postępowanie w zakresie uporządkowania wspólnot gruntowych wszczęte przed dniem wejścia w życie niniejszej ustawy powinno być zakończone w trybie przepisów dotychczasowych.
+
+**Art. 34.** Traci moc:
+
+**Art. 35.** Ustawa wchodzi w życie z dniem ogłoszenia .
 

@@ -8,9 +8,12 @@ pos: 1099
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# 2) pokrycie bieżących kosztów utrzymania spółki. Rozdział 5
+# o giełdach towarowych
+
+*USTAWA z dnia 26 października 2000 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,612 +24,860 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2000-10-26 |
 | Data wydania | 2000-11-27 |
-| Ostatnia zmiana | 2026-04-15 |
+| Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001031099) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1099/text.pdf) |
 
-**Art. 21.** Zysk netto PRS SA przeznacza się na: Przepis końcowy
+Art. 62–66. (pominięte)
+Art. 67–69. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa reguluje funkcjonowanie giełd towarowych i obrót towarami giełdowymi, w tym również zasady tworzenia, ustrój organizacyjny i działalność giełd towarowych, giełdowych izb rozrachunkowych, działalność maklerów giełd towarowych, działalność towarowych domów maklerskich oraz nadzór nad tymi instytucjami.
+**Art. 1.** Ustawa reguluje funkcjonowanie giełd towarowych i obrót towarami giełdowymi, w tym również zasady tworzenia, ustrój organizacyjny i działalność giełd towarowych, giełdowych izb rozrachunkowych, działalność towarowych domów maklerskich oraz nadzór nad tymi instytucjami.
 
-**Art. 2.** Ilekroć wustawie jest mowa o:
+**Art. 2.** Ilekroć w ustawie jest mowa o:
 
-**Art. 3.**
+**Art. 3.** (uchylony)
 
-1. Z zastrzeżeniem ust. 2, dopuszczone do obrotu giełdowego prawa majątkowe, których cena zależy bezpośrednio lub pośrednio od oznaczonych co do gatunku rzeczy, określonych rodzajów energii, mierników ilimitów produkcji lub kursów walut istóp procentowych, mogą być przedmiotem obrotu wyłącznie na giełdzie towarowej, do obrotu na której zostały dopuszczone.
+**Art. 3a.**
 
-2. Oile przepisy innych ustaw nie stanowią inaczej, prawa majątkowe, októrych mowa wust. 1, mogą być przedmiotem obrotu dokonywanego poza giełdą towarową, do obrotu na której zostały dopuszczone w postępowaniu likwidacyjnym, upadłościowym i egzekucyjnym.
+1. Oświadczenia woli składane w związku z dokonywaniem czynności w zakresie obrotu towarami giełdowymi oraz prawami lub obowiązkami, o których mowa w ustawie z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2025 r. poz. 610), mogą być składane w postaci elektronicznej.
 
-3. Oile przepisy innych ustaw nie stanowią inaczej, proponowanie nabycia lub nabywanie praw majątkowych, których cena zależy bezpośrednio lub pośrednio od oznaczonych co do gatunku rzeczy, określonych rodzajów energii, mierników ilimitów produkcji lub kursów walut i stóp procentowych, przy wykorzystaniu środków masowego przekazu, albo winny sposób, jeżeli propozycja jest skierowana do więcej niż 300 osób albo do nieoznaczonego adresata, zwyjątkiem proponowania nabycia praw w postępowaniu likwidacyjnym, upadłościowym iegzekucyjnym, może być dokonywane pod warunkiem uprzedniego wprowadzenia tych praw do obrotu giełdowego iwyłącznie za pośrednictwem giełdy.
+2. Dokumenty związane z czynnościami, o których mowa w ust. 1, mogą być sporządzane na informatycznych nośnikach danych, jeżeli dokumenty te będą w sposób należyty utworzone, utrwalone, przechowywane i zabezpieczone.
 
-#### Rozdział 2 Tworzenie iustrój organizacyjny giełdy towarowej
+3. Jeżeli ustawa zastrzega dla czynności prawnej formę pisemną, uznaje się, że czynność dokonana w formie, o której mowa w ust. 1, spełnia wymagania formy pisemnej także wtedy, gdy forma pisemna została zastrzeżona pod rygorem nieważności.
 
-**Art. 4.** Spółka prowadząca giełdę towarową zapewnia:
+4. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, zasady tworzenia, utrwalania, przechowywania i zabezpieczania, w tym przy zastosowaniu podpisu elektronicznego, dokumentów, o których mowa w ust. 2, tak aby zapewnić bezpieczeństwo obrotu towarami giełdowymi.
 
-**Art. 6.**
+#### Rozdział 2 Tworzenie i ustrój organizacyjny giełdy towarowej
 
-1. Akcje spółki prowadzącej giełdę mogą być wyłącznie imienne.
+**Art. 4.** Celem działania spółki prowadzącej giełdę jest:
 
-2. Pokrycie obejmowanych akcji lub zapłata za nabywane akcje spółki prowadzącej giełdę nie może pochodzić zpożyczek, kredytów ani znieudokumentowanych êródeł.
+**Art. 5.**
 
-3. Kapitał zakładowy powinien być pokryty wcałości przed złożeniem wniosku ozarejestrowanie spółki.
+1. Giełda towarowa, zwana dalej „giełdą”, może być prowadzona wyłącznie przez spółkę akcyjną.
 
-4. Spółka prowadząca giełdę ma obowiązek i wyłączne prawo zamieszczania w firmie spółki wyrazów Ńgiełda towarowa”.
+2. Przedmiotem przedsiębiorstwa spółki, o której mowa w ust. 1, może być wyłącznie prowadzenie giełdy, z zastrzeżeniem ust. 2b, 2h, 2k, 2l i 3 oraz przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
-5. W zakresie nie uregulowanym w ustawie do utworzenia idziałania spółki prowadzącej giełdę stosuje się przepisy Kodeksu spółek handlowych dotyczące spółki akcyjnej.
+2a. Spółka, o której mowa w ust. 1, może również dokonywać łączenia rynków w celu umożliwienia członkom giełdy udziału w obrocie transgranicznym.
+
+2b. Spółka, o której mowa w ust. 1, może prowadzić rynek regulowany w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. Prowadzenie rynku regulowanego wymaga zezwolenia wydawanego z zachowaniem trybu określonego w art. 25 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+2c. Na rynku regulowanym, o którym mowa w ust. 2b, może być prowadzony obrót wyłącznie:
+
+- **1)** instrumentami finansowymi, o których mowa w art. 2 ust. 1 pkt 2 lit. d, e oraz i ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, których instrumentem bazowym jest towar giełdowy dopuszczony do obrotu na giełdzie towarowej, w tym derywatami elektroenergetycznymi i derywatami gazowymi;
+- **2)** instrumentami finansowymi, o których mowa w art. 2 ust. 1 pkt 2 lit. j ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **3)** instrumentami pochodnymi, których instrumentem bazowym jest instrument finansowy, o którym mowa w art. 2 ust. 1 pkt 2 lit. j ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **4)** pięciodniowymi kontraktami terminowymi typu future, o których mowa w art. 3 pkt 30b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+2d. (uchylony) 2e. Do spółki, o której mowa w ust. 1, oraz do rynku regulowanego, o którym mowa w ust. 2b, stosuje się odpowiednio przepisy ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, z wyłączeniem:
+
+- **1)** możliwości organizowania alternatywnego systemu obrotu;
+- **2)** art. 21 ust. 3a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+2f. Spółka, o której mowa w ust. 1, prowadząca rynek regulowany w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi może prowadzić platformę aukcyjną. Prowadzenie platformy aukcyjnej wymaga zezwolenia wydanego na podstawie art. 29a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+2g. W skład zarządu spółki, o której mowa w ust. 1, wchodzą osoby posiadające wykształcenie wyższe, co najmniej trzyletni staż pracy na stanowisku kierowniczym w podmiotach, których przedmiot działalności związany jest z obrotem hurtowym towarami giełdowymi dopuszczonymi do obrotu organizowanego przez tę spółkę, nieposzlakowaną opinię w związku ze sprawowanymi funkcjami oraz wiedzę, kompetencje i doświadczenie niezbędne do zarządzania tą spółką, z tym że co najmniej jeden członek zarządu spółki, o której mowa w ust. 1, zamiast stażu pracy w podmiotach, których przedmiot działalności związany jest z obrotem hurtowym towarami giełdowymi dopuszczonymi do obrotu organizowanego przez tę spółkę, powinien posiadać staż pracy w instytucjach rynku finansowego lub podmiotach świadczących usługi na rzecz instytucji rynku finansowego w zakresie podstawowej działalności tych instytucji.
+
+2h. Spółka, o której mowa w ust. 1, prowadząca rynek regulowany w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi może prowadzić zorganizowaną platformę obrotu w rozumieniu tej ustawy.
+
+2i. Na zorganizowanej platformie obrotu, o której mowa w ust. 2h, może być prowadzony obrót wyłącznie:
+
+- **1)** instrumentami finansowymi, o których mowa w art. 2 ust. 1 pkt 2 lit. d, e oraz i ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, których instrumentem bazowym jest towar giełdowy dopuszczony do obrotu na giełdzie towarowej, w tym derywatami elektroenergetycznymi i derywatami gazowymi;
+- **2)** instrumentami finansowymi, o których mowa w art. 2 ust. 1 pkt 2 lit. j ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **3)** instrumentami pochodnymi, których instrumentem bazowym jest instrument finansowy, o którym mowa w art. 2 ust. 1 pkt 2 lit. j ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **4)** produktami energetycznymi będącymi przedmiotem obrotu hurtowego, które muszą być wykonywane przez dostawę, w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+2j. Prowadzenie zorganizowanej platformy obrotu wymaga zezwolenia wydanego z zachowaniem trybu określonego w art. 25 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+2k. Spółka, o której mowa w ust. 1, może również organizować rynek transakcji na rynku wtórnym, o których mowa w art. 48 ust. 1 ustawy z dnia 8 grudnia 2017 r. o rynku mocy.
+
+2l. Spółka, o której mowa w ust. 1, może prowadzić działalność polegającą na świadczeniu usług finansowania społecznościowego w rozumieniu art. 2 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1), po uzyskaniu zezwolenia, o którym mowa w art. 12 ust. 1 tego rozporządzenia.
+
+3. Spółka, o której mowa w ust. 1, może dokonywać rozliczeń:
+
+- **1)** transakcji giełdowych,
+- **2)** transakcji zawartych poza giełdą przez będące jej członkami przedsiębiorstwa energetyczne, o których mowa w art. 9 ust. 3 pkt 4, jeżeli ich przedmiotem są określone rodzaje energii, paliwa gazowe, wodór lub prawa majątkowe, o których mowa w art. 2 pkt 2 lit. d i f,
+- **3)** transakcji zawartych w obrocie, o którym mowa w ust. 2i – jeżeli zasady dokonywania rozliczeń takich transakcji zostaną określone odpowiednio w regulaminie giełdy lub zorganizowanej platformy obrotu.
+
+3a. W przypadku prowadzenia działalności określonej w ust. 3 spółka prowadząca giełdę może być stroną transakcji wyłącznie w celu dokonania rozliczeń transakcji zawartych przez członków giełdy.
+
+3b. Spółka prowadząca giełdę może powierzyć rozliczanie transakcji określonych w ust. 3 giełdowej izbie rozrachunkowej, utworzonej z jej udziałem.
+
+3c. Spółka, o której mowa w ust. 1, może również dokonywać rozliczeń transakcji na rynku wtórnym, o których mowa w art. 48 ust. 1 ustawy z dnia 8 grudnia 2017 r. o rynku mocy, oraz dokonywać zgłoszeń tych transakcji do podmiotu prowadzącego właściwy rejestr lub system, a także przesyłać informacje o tych transakcjach do innych podmiotów, jeżeli taki obowiązek spoczywa na stronie transakcji zgodnie z przepisami prawa.
+
+4. (uchylony)
+
+5. Z zastrzeżeniem ust. 6, minimalna wysokość kapitału zakładowego spółki prowadzącej giełdę wynosi 3 000 000 zł.
+
+5a. Minimalna wysokość kapitału własnego spółki prowadzącej rynek regulowany, o której mowa w ust. 2b, wynosi 10 000 000 zł. Przepis art. 21 ust. 8 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi stosuje się odpowiednio.
+
+6. Minimalna wysokość kapitału zakładowego spółki prowadzącej giełdę, na której jest dokonywany obrót wyłącznie towarami, o których mowa w art. 2 pkt 2 lit. a, wynosi 1 000 000 zł.
+
+7. Na jedną akcję przypada tylko jeden głos na walnym zgromadzeniu.
+
+8. (uchylony)
+
+**Art. 6.** [1. Akcje spółki prowadzącej giełdę mogą być wyłącznie imienne.] 2. Pokrycie obejmowanych akcji lub zapłata za nabywane akcje spółki prowadzącej giełdę nie może pochodzić z pożyczek, kredytów ani z nieudokumentowanych źródeł. 3. Kapitał zakładowy powinien być pokryty w całości przed złożeniem wniosku o zarejestrowanie spółki. 4. Spółka prowadząca giełdę ma obowiązek i wyłączne prawo zamieszczania w firmie spółki wyrazów „giełda towarowa”. 5. W zakresie nieuregulowanym w ustawie do utworzenia i działania spółki prowadzącej giełdę stosuje się przepisy Kodeksu spółek handlowych dotyczące spółki akcyjnej. [6. Przepisu ust. 1 nie stosuje się w przypadku, gdy spółka prowadząca giełdę jest spółką publiczną w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.]
 
 **Art. 7.**
 
-1. Prowadzenie giełdy wymaga zezwolenia Komisji, wydanego na wniosek spółki.
+1. Prowadzenie giełdy wymaga zezwolenia, które wydaje minister właściwy do spraw gospodarki na wniosek spółki zaopiniowany przez Komisję.
 
 2. Wniosek o udzielenie zezwolenia powinien zawierać:
 
-- **1)** firmę, siedzibę iadres spółki,
-- **2)** dane osobowe członków zarządu, rady nadzorczej, komisji rewizyjnej, oile jest przewidziana, jak również innych osób, które odpowiadają za rozpoczęcie działalności giełdy lub będą nią kierować, ich dowych. kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej,
-- **3)** przewidywaną wysokość środków własnych, pożyczek i kredytów przeznaczonych na uruchomienie giełdy oraz określenie sposobu finansowania działalności,
-- **4)** dane owysokości istrukturze kapitałów spółki oraz êródeł ich pochodzenia,
-- **5)** listę akcjonariuszy, obejmującą dane, októrych mowa w pkt 1 i 2, wraz z procentowym określeniem posiadanych przez nich głosów na walnym zgromadzeniu,
-- **6)** informację opodmiotach dominujących izależnych wobec akcjonariuszy, obejmującą dane, o których mowa wpkt 1 i2,
-- **7)** dane oprzewidywanej lokalizacji giełdy oraz środkach technicznych umożliwiających funkcjonowanie giełdy, a w szczególności o posiadanych urządzeniach telekomunikacyjnych iwarunkach lokalowych,
-- **8)** informację orodzajach towarów giełdowych, mają3) domy maklerskie, które uzyskały zezwolenie, októrym mowa w art. 30 ust. 6 ustawy Prawo o publicznym obrocie papierami wartościowymi.
+- **1)** firmę, siedzibę i adres spółki;
+- **2)** dane osobowe członków zarządu, rady nadzorczej, komisji rewizyjnej, o ile jest przewidziana, jak również innych osób, które odpowiadają za rozpoczęcie działalności giełdy lub będą nią kierować, ich kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej;
+- **3)** przewidywaną wysokość środków własnych, pożyczek i kredytów przeznaczonych na uruchomienie giełdy oraz określenie sposobu finansowania działalności;
+- **4)** dane o wysokości i strukturze kapitałów spółki oraz źródeł ich pochodzenia;
+- **5)** listę akcjonariuszy, obejmującą w stosunku do osób:
+    - **a)** prawnych – dane, o których mowa w pkt 1 i 2,
+    - **b)** fizycznych – imię, nazwisko, adres, kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej – wraz z procentowym określeniem posiadanych przez nich głosów na walnym zgromadzeniu;
 
-4. Członkami giełdy prowadzącej obrót energią elektryczną mogą być również przedsiębiorstwa energetyczne posiadające koncesję na wytwarzanie, przesyłanie, dystrybucję oraz obrót energią elektryczną oraz odbiorcy uprawnieni do korzystaniazusług przesyłowych, zgodnie z postanowieniami ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. 54, poz. 348 i 158, poz. 1042, z 1998 r. 94, poz.594, Nr106, poz. 668 iNr 162, poz. 1126,z1999r. 88, poz. 980, 91, poz. 1042 iNr 110, poz.1255oraz z 2000 r. 43, poz. 489 i 48, poz. 555).
+- **6)** informację o podmiotach dominujących i zależnych wobec akcjonariuszy, obejmującą dane, o których mowa w pkt 1 i 2;
+- **7)** dane o przewidywanej lokalizacji giełdy oraz środkach technicznych umożliwiających funkcjonowanie giełdy, a w szczególności o posiadanych urządzeniach telekomunikacyjnych i warunkach lokalowych;
+- **8)** informację o rodzajach towarów giełdowych, mających być przedmiotem obrotu na giełdzie;
+- **9)** zobowiązania do prowadzenia działalności na danej giełdzie co najmniej:
+    - **a)** 5 towarowych domów maklerskich lub spółek handlowych, prowadzących działalność maklerską zgodnie z przepisami ustawy – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. a,
+    - **b)** 3 towarowych domów maklerskich albo 2 towarowych domów maklerskich oraz 4 przedsiębiorstw energetycznych posiadających koncesję na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną – w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne i spełniających warunki, o których mowa w art. 50b ust. 1 – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. b,
+    - **c)** 6 towarowych domów maklerskich lub domów maklerskich albo 2 towarowych domów maklerskich lub domów maklerskich oraz 6 przedsiębiorstw energetycznych posiadających koncesję na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną, i spełniających warunki, o których mowa w art. 50b ust. 1 – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. d.
+    - **d)** (uchylona)
 
-5. Stronami transakcji giełdowych zawieranych na rachunek własny, których wyłącznym przedmiotem jest energia elektryczna, mogą być poza podmiotami, o których mowa w ust. 3 również podmioty, októrych mowa wust. 4 pod warunkiem zatrudnienia maklera giełdy towarowej, który będzie reprezentował taki podmiot wtransakcjach giełdowych. cych być przedmiotem obrotu na giełdzie, 6. Wtransakcji giełdowej towarowy dom maklerski
+3. Do wniosku należy dołączyć statut spółki, regulamin giełdy oraz analizę ekonomiczno-finansową możliwości prowadzenia giełdy w okresie co najmniej 3 lat.
 
-- **9)** zobowiązania co najmniej 6 towarowych domów lub dom maklerski może być reprezentowany wyłączmaklerskich lub domów maklerskich do prowadze- nie przez maklera giełdy towarowej lub maklera papienia działalności na danej giełdzie. rów wartościowych.
+4. Wydając zezwolenie, minister właściwy do spraw gospodarki zatwierdza statut spółki i regulamin giełdy oraz regulamin giełdowej izby rozrachunkowej.
 
-7. Do domów maklerskich przepisy ustawy Pra3. Do wniosku należy dołączyć statut spółki, regu- wo o publicznym obrocie papierami wartościowymi lamin giełdy oraz analizę ekonomiczno-finansową stosuje się odpowiednio, zwyjątkiem art. 37. możliwości prowadzenia giełdy wokresie co najmniej 3 lat, a w przypadku utworzenia giełdowej izby rozra- 8. Transakcja giełdowa, dokonana przez podmioty chunkowej, októrej mowa wart. 14 ust. 2, także doku- inne niż określone wust. 2, 5 i6, jest nieważna. menty wymienione wart. 17 ust. 2.
-
-**Art. 10.** Transakcja giełdowa nie stanowi gry ani za4. Wydając zezwolenie, Komisja zatwierdza statut kładu w rozumieniu art. 413 Kodeksu cywilnego, ani spółki i regulamin giełdy oraz regulamin giełdowej też gry losowej lub zakładu wzajemnego wrozumieniu izby rozrachunkowej. przepisów o grach losowych, zakładach wzajemnych i grach na automatach, nawet jeżeli według wyraênej
-
-**Art. 8.** Komisja wydaje decyzję odmawiającą ze- lub dorozumianej woli stron rzeczywiste spełnienie zwolenia, jeżeli spółka nie daje rękojmi prowadzenia wzajemnych świadczeń jest wyłączone, a tylko jedna działalności wsposób należyty. lub druga ze stron jest obowiązana zapłacić różnicę między umówioną ceną sprzedaży a ceną rynkową
+**Art. 8.** Minister właściwy do spraw gospodarki wydaje decyzję odmawiającą zezwolenia na prowadzenie giełdy, jeżeli z analizy wniosku i dołączonych do niego dokumentów wynika, że spółka występująca z wnioskiem może prowadzić działalność w sposób nienależycie zabezpieczający interesy uczestników obrotu towarami giełdowymi lub zagrażający bezpieczeństwu obrotu towarami giełdowymi.
 
 **Art. 9.**
 
-1. Statut spółki, poza danymi, októrych mo- wczasie wykonania umowy. wa wart. 304 Kodeksu spółek handlowych, określa:
+1. Statut spółki, poza danymi, o których mowa w art. 304 Kodeksu spółek handlowych, określa:
+
+- **1)** podmioty mogące być akcjonariuszami spółki;
+- **2)** rodzaje towarów giełdowych, które mogą być dopuszczone do obrotu na danej giełdzie.
+
+2. Z zastrzeżeniem art. 5 ust. 3a, stronami transakcji giełdowych mogą być wyłącznie podmioty, o których mowa w art. 2 pkt 3, oraz giełdowa izba rozrachunkowa, Krajowy Depozyt Papierów Wartościowych S.A., zwany dalej „Krajowym Depozytem”, i spółka której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, a także spółki prowadzące giełdy towarowe lub giełdowe izby rozrachunkowe poza terytorium Rzeczypospolitej Polskiej.
+
+3. Członkami giełdy mogą być wyłącznie:
+
+- **1)** towarowe domy maklerskie;
+- **2)** domy maklerskie;
+- **3)** (uchylony)
+- **4)** przedsiębiorstwa energetyczne, w tym przedsiębiorcy, o których mowa w art. 33a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz będący osobami prawnymi odbiorcy uprawnieni do zmiany sprzedawcy w rozumieniu tej ustawy;
+- **5)** grupy producentów rolnych, o których mowa w ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145);
+- **6)** (uchylony)
+- **7)** zagraniczne osoby prawne, o których mowa w art. 50 ust. 1;
+- **8)** niebędące towarowymi domami maklerskimi spółki handlowe, prowadzące działalność, o której mowa w art. 38 ust. 2 pkt 2 i 4 w zakresie obrotu towarami giełdowymi, o których mowa w art. 2 pkt 2 lit. a.
+
+4. (uchylony)
+
+5. (uchylony)
+
+6. Podmioty, o których mowa w ust. 3 pkt 4, mogą być wyłącznie stronami zawieranych na własny rachunek transakcji giełdowych, których przedmiotem są towary giełdowe będące określonymi rodzajami energii, paliwami gazowymi, wodorem lub prawami majątkowymi, o których mowa w art. 2 pkt 2 lit. d i f, po spełnieniu warunków, o których mowa w art. 50b ust. 1.
+
+6a. Przepisów ust. 6 oraz rozdziału 7 nie stosuje się do czynności z zakresu działalności maklerskiej wykonywanych wyłącznie na rzecz podmiotów należących do tej samej grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863), do której należy podmiot wykonujący te czynności.
+
+7. Podmioty, o których mowa w ust. 3 pkt 5, mogą być wyłącznie stronami transakcji giełdowych zawieranych na rachunek własny, których przedmiotem są towary giełdowe, o których mowa w art. 2 pkt 2 lit. a.
+
+8. Podmioty, o których mowa w ust. 3 pkt 8, mogą być wyłącznie stronami transakcji giełdowych, których przedmiotem są towary giełdowe, o których mowa w art. 2 pkt 2 lit. a.
+
+9. Towarowy dom maklerski, dom maklerski, a także podmioty, które spełniają warunek, o którym mowa w art. 50b ust. 1 pkt 2, w transakcjach giełdowych są reprezentowane przez osoby, które spełniają wymagania określone w art. 41a ust. 1.
+
+10. Transakcja giełdowa dokonana przez podmioty inne niż określone w ust. 3 lub z naruszeniem ust. 6–9 jest nieważna.
+
+11. Podmioty, o których mowa w ust. 3 pkt 1 i 2, mogą być uczestnikami rynku, o którym mowa w art. 5 ust. 2k, w zakresie prowadzenia działalności brokerskiej polegającej na zawieraniu transakcji, o których mowa w art. 48 ust. 1 ustawy z dnia 8 grudnia 2017 r. o rynku mocy, w imieniu własnym na rachunek dającego zlecenie.
+
+**Art. 10.** Transakcja giełdowa nie stanowi gry ani zakładu w rozumieniu art. 413 Kodeksu cywilnego, ani też gry losowej lub zakładu wzajemnego w rozumieniu przepisów o grach hazardowych, nawet jeżeli według wyraźnej lub dorozumianej woli stron rzeczywiste spełnienie wzajemnych świadczeń jest wyłączone, a tylko jedna lub druga ze stron jest obowiązana zapłacić różnicę między umówioną ceną sprzedaży a ceną rynkową w czasie wykonania umowy.
 
 **Art. 11.**
 
-1. Regulamin giełdy uchwala rada nadzor1) podmioty mogące być akcjonariuszami spółki, cza giełdy.
+1. Regulamin giełdy uchwala rada nadzorcza giełdy.
 
-- **2)** rodzaje towarów giełdowych, które mogą być do- 2. Regulamin giełdy określa wszczególności: puszczone do obrotu na danej giełdzie.
-- **1)** rodzaje transakcji giełdowych zawieranych na da2. Z zastrzeżeniem ust. 5, stronami transakcji gieł- nej giełdzie, dowych mogą być wyłącznie członkowie giełdy, októ- 2) sposoby określenia wymagań jakościowych istanrych mowa wust. 3 pkt 1 i2, awprzypadku gdy przed- dardów przewidzianych dla towarów giełdowych miotem transakcji są prawa, o których mowa w art. 2 oraz sposoby kontroli ich jakości, w tym standarpkt 2 lit. d) ie) również członkowie giełdy, októrych dów przewidzianych dla transakcji dotyczących mowa wust. 3 pkt 3. praw, októrych mowa wart. 2 pkt 2 lit. d) ie),
+2. Regulamin giełdy określa w szczególności:
 
-3. Członkami giełdy mogą być, z zastrzeżeniem 3) zasady itryb dopuszczania towarów giełdowych do ust.4, wyłącznie: obrotu giełdowego,
+- **1)** rodzaje transakcji giełdowych zawieranych na danej giełdzie;
+- **2)** sposoby określenia wymagań jakościowych towarów giełdowych, o których mowa w art. 2 pkt 2 lit. a i b, i standardów przewidzianych dla transakcji dotyczących praw majątkowych, o których mowa w art. 2 pkt 2 lit. d, a także sposoby kontroli jakości towarów giełdowych;
+- **3)** zasady i tryb dopuszczania towarów giełdowych do obrotu giełdowego;
+- **4)** zasady wprowadzania towarów giełdowych do obrotu giełdowego, zawieszania notowań i wykluczania towarów z obrotu;
+- **5)** zasady i warunki dopuszczania podmiotów do zawierania transakcji na giełdzie oraz ich prawa i obowiązki (członkostwo giełdy);
+- **6)** zasady składania zleceń nabycia i zbycia towarów giełdowych;
+- **7)** systemy notowań giełdowych oraz zasady ustalania kursów i cen towarów giełdowych;
+- **8)** dni otwarcia danej giełdy i godziny sesji giełdowych;
+- **9)** formy zabezpieczenia transakcji giełdowych;
+- **10)** dane o systemie informacyjnym giełdy;
+- **11)** zasady ustalania, rodzaje i wysokość opłat giełdowych;
+- **12)** wymagania w zakresie oznaczeń kodowych towarów, według obowiązujących klasyfikacji statystycznych dla obrotu wewnętrznego i zagranicznego;
+- **13)** sposób i tryb rozstrzygania sporów wynikających z transakcji giełdowych;
+- **14)** środki dyscyplinarne i porządkowe, które mogą być stosowane wobec członków naruszających obowiązki wynikające z członkostwa bądź nieprzestrzegających zasad regulaminu, oraz zasady i tryb ich stosowania;
+- **15)** (uchylony)
+- **16)** wskazanie sposobu rozliczania transakcji.
 
-- **1)** towarowe domy maklerskie, 4) zasady wprowadzania towarów giełdowych do ob2) maklerzy niezależni, rotu giełdowego, zawieszania notowań iwykluczania towarów zobrotu,
-- **5)** zasady dopuszczania podmiotów do dokonywania transakcji na giełdzie oraz ich prawa i obowiązki (członkostwo giełdy), awprzypadku dopuszczania maklerów niezależnych z uwzględnieniem zasad, októrych mowa wust. 3,
-- **6)** zasady składania zleceń nabycia i zbycia towarów giełdowych,
-- **7)** systemy notowań giełdowych oraz zasady ustalania kursów icen towarów giełdowych,
-- **8)** dni otwarcia danej giełdy i godziny sesji giełdowych,
-- **9)** formy zabezpieczenia transakcji giełdowych,
-- **10)** dane osystemie informacyjnym giełdy,
-- **11)** zasady ustalania, rodzaje i wysokość opłat giełdowych,
-- **12)** wymagania w zakresie oznaczeń kodowych towarów, według obowiązujących klasyfikacji statystycznych dla obrotu wewnętrznego izagranicznego,
-- **13)** sposób i tryb rozstrzygania sporów wynikających ztransakcji giełdowych,
-- **14)** środki dyscyplinarne iporządkowe, które mogą być stosowane wobec uczestników naruszających obowiązki wynikające z uczestnictwa bądê nie przestrzegających zasad regulaminu,oraz zasady itryb ich stosowania,
-- **15)** wymagania techniczne ifinansowe, którym ma odpowiadać dom składowy wrozumieniu przepisów o domach składowych, i jego prowadzenie oraz warunki, jakie musi spełnić regulamin domu składowego, ubiegającego się o podpisanie umowy o obsługę transakcji z tą giełdą, oraz zasady i tryb zawierania takich umów,
-- **16)** wskazanie sposobu rozliczania transakcji giełdowych, w tym wskazanie giełdowej izby rozrachunkowej właściwej do rozliczania transakcji dokonywanych na danej giełdzie, dotyczących towarów, októrych mowa wart. 2 pkt 2 lit. d) ie).
-
-3. Regulamin określa również zasady dopuszczenia maklera niezależnego do dokonywania transakcji na danej giełdzie.
+3. (uchylony)
 
 **Art. 12.**
 
-1. Zmiany statutu spółki iregulaminu giełdowego wymagają dla swej ważności zgody Komisji.
+1. Zmiany statutu spółki i regulaminu giełdowego wymagają dla swej ważności zgody Komisji.
 
-2. Komisja odmawia udzielenia zgody na dokonanie zmian w statucie i regulaminie, jeżeli proponowane zmiany są sprzeczne zprzepisami prawa lub mogłyby naruszyć bezpieczeństwo obrotu.
+2. Komisja odmawia udzielenia zgody na dokonanie zmian w statucie i regulaminie, jeżeli proponowane zmiany są sprzeczne z przepisami prawa lub mogłyby naruszyć bezpieczeństwo obrotu.
 
-**Art. 13.**
+**Art. 12a.**
 
-1. Rada Ministrów określa, wdrodze rozporządzenia, szczególny tryb iwarunki wprowadzania do obrotu giełdowego praw, októrych mowa wart. 2 pkt2 lit. d) ie), wtym również kryteria, jakie muszą spełniać szczególne warunki, jakie w takim przypadku obowiązane są spełniać osoby zobowiązane do realizacji tych praw.
+1. Spółka prowadząca giełdę tworzy i utrzymuje skuteczne mechanizmy i procedury mające na celu przeciwdziałanie oraz identyfikację przypadków niezgodnego z prawem wykorzystywania informacji wewnętrznej, manipulacji na rynku lub próby manipulacji na rynku. Przez niezgodne z prawem wykorzystywanie informacji wewnętrznej rozumie się działania wbrew zakazom określonym w art. 3 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii.
 
-2. Rozporządzenie, októrym mowa wust. 1, powinno określać tryb i warunki wprowadzania do obrotu giełdowego praw, októrych mowa wart. 2 pkt 2 lit. d) i e), w sposób zapewniający odpowiedni poziom bezpieczeństwa w zakresie realizacji zobowiązań wynikających z tych praw. Rozporządzenie powinno ponadto określać zakres obowiązków informacyjnych, tak aby zapewnić nabywcom tych praw podstawowe dane niezbędne do oceny ryzyka związanego zinwestowaniem wte prawa.
+2. Spółka prowadząca giełdę, w sposób ciągły i adekwatny do ryzyka, prowadzi nadzór nad przestrzeganiem przez członków tego rynku wdrożonych przez tę spółkę mechanizmów i procedur, o których mowa w ust. 1.
 
-#### Rozdział 3 Tworzenie iustrój organizacyjny giełdowej izby rozrachunkowej
+3. Spółka prowadząca giełdę monitoruje składane zlecenia i transakcje zawierane na rynku towarów giełdowych przez jego członków w celu identyfikowania wszelkich przypadków naruszenia zasad uczciwego obrotu oraz przypadków uzasadniających podejrzenie wystąpienia manipulacji na rynku lub próby manipulacji na rynku lub wykorzystania informacji wewnętrznej wbrew zakazom, o których mowa w art. 3 i art. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii, a także przypadków naruszenia obowiązków wynikających z art. 4 tego rozporządzenia.
+
+4. Spółka prowadząca giełdę informuje niezwłocznie Prezesa Urzędu Regulacji Energetyki i Agencję do spraw Współpracy Organów Regulacji Energetyki, jednak niepóźniej niż w terminie czterech tygodni od dnia, w którym powzięła informację o wystąpieniu podejrzanego zdarzenia, o którym mowa w ust. 3. Informacja zawiera szczegółowy opis takiego przypadku.
+
+5. Spółka prowadząca giełdę ustala i wdraża procedury umożliwiające jej sprawowanie nadzoru, o którym mowa w ust. 2.
+
+**Art. 13.** (uchylony)
+
+#### Rozdział 3 Tworzenie i ustrój organizacyjny giełdowej izby rozrachunkowej
 
 **Art. 14.**
 
-1. Zezwolenie na prowadzenie giełdy, na której przedmiotem obrotu są prawa majątkowe, októrych mowa wart. 2 pkt 2 lit. d) ie), bądêzezwolenie na dopuszczenie do obrotu na istniejącej giełdzie praw majątkowych, októrych mowa wart. 2 pkt 2 lit.d) ie), wydaje się z zastrzeżeniem warunku utworzenia z udziałem wnioskodawcy, jako założyciela i akcjonariusza, giełdowej izby rozrachunkowej ipodjęcia przez tę izbę działalności wokreślonym terminie.
+1. Prowadzenie giełdowej izby rozrachunkowej wymaga zezwolenia, które wydaje minister właściwy do spraw gospodarki na wniosek spółki zaopiniowany przez Komisję.
 
-2. Giełdową izbę rozrachunkową tworzy się wyłącznie wformie spółki akcyjnej wcelu obsługi finansowej transakcji giełdowych, których przedmiotem są prawa, októrych mowa wart. 2 pkt 2 lit. d) ie), dokonywanych na danej giełdzie oraz w celu realizacji zadań określonych wart. 15 ust. 5 i6.
+1a. Do wniosku o udzielenie zezwolenia na prowadzenie giełdowej izby rozrachunkowej stosuje się odpowiednio art. 7 ust. 2 pkt 1–8 i ust. 4.
 
-3. Giełdowa izba rozrachunkowa nie może prowadzić działalności winnym zakresie niż wzakresie, októrym mowa wust. 2.
+1b. Do wniosku należy dołączyć statut spółki prowadzącej giełdową izbę rozrachunkową, regulamin tej izby, oraz analizę ekonomiczno-finansową możliwości prowadzenia przez izbę rozliczeń finansowych transakcji giełdowych w okresie co najmniej trzech lat.
 
-4. Poza wnioskodawcą akcjonariuszami spółki będącej giełdową izbą rozrachunkową mogą być wyłącznie akcjonariusze spółki prowadzącej giełdę, banki, Skarb Państwa oraz Krajowy Depozyt Papierów Wartościowych S.A., zwany dalej ŃKrajowym Depozytem”.
+2. Giełdową izbę rozrachunkową tworzy się wyłącznie w formie spółki akcyjnej. Giełdową izbę rozrachunkową tworzy się w celu dokonywania obsługi finansowej transakcji giełdowych oraz w celu realizacji zadań określonych w art. 15 ust. 5 i 6.
 
-5. Do spółki będącej giełdową izbą rozrachunkową stosuje się przepisy art. 5 ust. 7 i8 oraz art. 6 ust. 3.
+2a. (uchylony) 2b. Giełdowa izba rozrachunkowa może zawierać umowy określające tryb, terminy i warunki przekazywania zbywcom towarów giełdowych środków pieniężnych otrzymanych przez izbę od nabywców tych towarów.
 
-6. Warunek, o którym mowa w ust. 1, uważa się również za spełniony, jeżeli wnioskodawca uzyska członkostwo już istniejącej giełdowej izby rozrachunkowej.
+2c. Giełdowa izba rozrachunkowa może także dokonywać obsługi finansowej oraz wykonywać zadania określone w art. 15 ust. 5 i 6 w odniesieniu do transakcji innych niż transakcje giełdowe, jeżeli ich przedmiotem są określone rodzaje energii, paliwa gazowe, wodór lub prawa majątkowe, o których mowa w art. 2 pkt 2 lit. d i f.
+
+2d. Giełdowa izba rozrachunkowa może, na zlecenie jej członka, dokonywać zgłoszeń zawartych przez niego transakcji, których przedmiotem są określone rodzaje energii, paliwa gazowe, wodór lub prawa majątkowe, o których mowa w art. 2 pkt 2 lit. d i f, przekazując te zgłoszenia do podmiotu prowadzącego właściwy rejestr lub system, w ramach których są realizowane świadczenia niepieniężne wynikające z tych transakcji, a także przesyłać informacje o takich transakcjach do innych podmiotów, jeżeli taki obowiązek spoczywa na jej członku zgodnie z przepisami prawa.
+
+2e. Giełdowa izba rozrachunkowa może dokonywać obsługi finansowej transakcji zawartych w ramach obrotu na zorganizowanej platformie obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, której przedmiotem są produkty energetyczne będące przedmiotem obrotu hurtowego, które muszą być wykonywane przez dostawę w rozumieniu przepisów tej ustawy.
+
+3. Giełdowa izba rozrachunkowa nie może prowadzić działalności innej niż określona w ust. 2 i 2b–2e, z uwzględnieniem ust. 3a.
+
+3a. Spółka prowadząca giełdową izbę rozrachunkową może także dokonywać obsługi finansowej, wykonywać zadania określone w art. 15 ust. 5 i 6 oraz dokonywać zgłoszeń transakcji na rynku wtórnym, o których mowa w art. 48 ust. 1 ustawy z dnia 8 grudnia 2017 r. o rynku mocy.
+
+3b. Ogłoszenie upadłości, obwieszczenie o ustaleniu dnia układowego, otwarcie postępowania restrukturyzacyjnego, wszczęcie postępowania egzekucyjnego lub zabezpieczającego lub wydanie innego orzeczenia lub decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności:
+
+- **1)** Krajowego Depozytu lub spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
+- **2)** spółki prowadzącej giełdową izbę rozrachunkową lub pełniącej taką funkcję na podstawie obowiązujących przepisów – skutkujących zawieszeniem lub ograniczeniem dokonywania przez ten podmiot spłaty zadłużenia albo ograniczających jego zdolność swobodnego rozporządzania mieniem, nie wywołuje skutków prawnych wobec środków znajdujących się na rachunku pieniężnym, rachunku bankowym lub ewidencji towarów giełdowych tych podmiotów, służących do realizacji zobowiązań wynikających z rozliczeń transakcji w Krajowym Depozycie, spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, albo giełdowej izbie rozrachunkowej lub spółce pełniącej taką funkcję na podstawie obowiązujących przepisów, w zakresie, w jakim środki te są potrzebne do realizacji tych zobowiązań, chociażby postępowanie zostało wszczęte albo inne orzeczenie lub decyzja zostały wydane przed ich zrealizowaniem.
+
+4. Akcjonariuszami giełdowej izby rozrachunkowej mogą być wyłącznie spółki prowadzące giełdę, akcjonariusze spółki prowadzącej giełdę, banki, Skarb Państwa oraz Krajowy Depozyt.
+
+5. Do spółki będącej giełdową izbą rozrachunkową stosuje się przepisy art. 5 ust. 7 oraz art. 6 ust. 3.
+
+6. (uchylony)
 
 7. Minimalna wysokość kapitału zakładowego spółki prowadzącej giełdową izbę rozrachunkową wynosi 1 500 000 zł.
 
 **Art. 15.**
 
-1. Spółka będąca giełdową izbą rozrachunkową świadczy usługi na rzecz członków tej izby.
+1. (uchylony)
 
-2. Członkami giełdowej izby rozrachunkowej, z zate prawa, aby mogły być przedmiotem obrotu, oraz strzeżeniem ust. 3, mogą być wyłącznie akcjonariusze spółki będącej tą izbą, spółki prowadzące giełdy oraz towarowe domy maklerskie, atakże domy maklerskie, jeżeli uzyskały zezwolenie, o którym mowa w art. 30 ust. 6 ustawy Prawo opublicznym obrocie papierami wartościowymi.
+2. Członkami giełdowej izby rozrachunkowej mogą być wyłącznie jej akcjonariusze, spółki prowadzące giełdę towarową, zorganizowaną platformę obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi lub giełdową izbę rozrachunkową z siedzibą w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, towarowe domy maklerskie, domy maklerskie oraz podmioty, o których mowa w art. 9 ust. 3 pkt 4 i w art. 50 ust. 1.
 
-3. Członkami giełdowej izby rozrachunkowej mogą być również inne krajowe instytucje finansowe, w tym banki, jeżeli zamierzają współdziałać zizbą rozrachunkową wzakresie wykonywania jej zadań oraz, za zgodą ina warunkach określonych przez Komisję, osoby prawne lub inne jednostki organizacyjne z siedzibą za granicą, wykonujące zadania wzakresie rozliczania transakcji zawieranych wobrocie towarami giełdowymi.
+3. Członkami giełdowej izby rozrachunkowej mogą być również inne krajowe instytucje finansowe, w tym banki, jeżeli zamierzają współdziałać z giełdową izbą rozrachunkową w zakresie wykonywania jej zadań oraz, na warunkach określonych w regulaminie izby, o którym mowa w art. 16, osoby prawne lub inne jednostki organizacyjne z siedzibą za granicą, wykonujące zadania w zakresie rozliczania transakcji zawieranych w obrocie towarami giełdowymi.
 
-4. Giełda może być członkiem więcej niż jednej izby rozrachunkowej, jak również członkiem jednostek organizacyjnych z siedzibą za granicą, które wykonują rozliczenia transakcji zawieranych wobrocie towarami giełdowymi.
+4. Można być członkiem więcej niż jednej giełdowej izby rozrachunkowej, jak również członkiem osób prawnych lub innych jednostek organizacyjnych z siedzibą za granicą, które dokonują rozliczania transakcji zawieranych w obrocie towarami giełdowymi.
 
-5. Do zadań giełdowej izby rozrachunkowej należy organizacja i prowadzenie rozliczeń transakcji giełdowych, wszczególności:
+5. Do zadań giełdowej izby rozrachunkowej należy organizacja i prowadzenie rozliczeń transakcji giełdowych, w szczególności:
 
-- **1)** badanie stanu finansowego członków w zakresie możliwości terminowego wywiązywania się z zobowiązań wynikających ztransakcji giełdowych,
-- **2)** gromadzenie i utrzymywanie wadiów na rachunkach członków, w związku z przeprowadzaniem rozliczeń pomiędzy członkami,
-- **3)** wyrażanie zgody na zawarcie przez członka giełdowej izby rozrachunkowej z maklerem niezależnym umowy rozliczeniowo-gwarancyjnej.
+- **1)** badanie stanu finansowego członków w zakresie możliwości terminowego wywiązywania się z zobowiązań wynikających z transakcji giełdowych;
+- **2)** organizowanie i zarządzanie systemem gwarantującym prawidłowe wykonanie zobowiązań wynikających z transakcji;
+- **3)** (uchylony)
+- **4)** wyrażanie zgody na zawarcie przez członka giełdowej izby rozrachunkowej umowy o rozliczanie transakcji, o której mowa w art. 50b ust. 1 pkt 1.
 
-6. Giełdowa izba rozrachunkowa zapewnia przeprowadzanie rozliczeń członków z tytułu transakcji giełdowych, w szczególności przez zagwarantowanie ich zobowiązań i wierzytelności wynikających bezpośrednio ztych transakcji.
+6. Giełdowa izba rozrachunkowa zapewnia przeprowadzanie rozliczeń członków z tytułu transakcji giełdowych, w szczególności przez organizowanie i zarządzanie systemem gwarantującym prawidłowe wykonanie zobowiązań wynikających bezpośrednio z tych transakcji.
 
-7. Giełdowa izba rozrachunkowa może prowadzić rachunki pieniężne, dokonywać rozliczeń pieniężnych, udzielać pożyczek oraz uczestniczyć za pośrednictwem swojego banku w rozrachunkach dokonywanych przez Narodowy Bank Polski na zasadach stosowanych w przypadku rozrachunków międzybankowych, wzakresie niezbędnym do realizacji zadań określonych wust. 1 oraz wust. 5 i6.
+6a. Giełdowa izba rozrachunkowa może realizować zadania z zakresu rozliczeń i rozrachunku w odniesieniu do jednolitego łączenia rynków dnia następnego i jednolitego łączenia rynków dnia bieżącego na zasadach określonych w art. 68 rozporządzenia Komisji (UE) 2015/1222 z dnia 24 lipca 2015 r. ustanawiającego wytyczne dotyczące alokacji zdolności przesyłowych i zarządzania ograniczeniami przesyłowymi (Dz. Urz. UE L 197 z 25.07.2015, str. 24, z późn. zm. ).
+
+7. Giełdowa izba rozrachunkowa może prowadzić rachunki pieniężne, dokonywać rozliczeń pieniężnych, udzielać pożyczek oraz uczestniczyć w rozrachunkach dokonywanych przez Narodowy Bank Polski, na zasadach stosowanych w przypadku rozrachunków międzybankowych, w zakresie niezbędnym do realizacji zadań określonych w ust. 1, 5 i 6.
+
+8. Do spółki prowadzącej giełdową izbę rozrachunkową stosuje się odpowiednio art. 9.
 
 **Art. 16.**
 
 1. Prawa i obowiązki członków giełdowej izby rozrachunkowej określa regulamin izby uchwalony przez radę nadzorczą i zatwierdzony przez walne zgromadzenie. Przepisy art. 12 stosuje się odpowiednio.
 
-2. Regulamin giełdowej izby rozrachunkowej reguluje wszczególności:
+2. Regulamin giełdowej izby rozrachunkowej reguluje w szczególności:
 
-- **1)** tryb zgłaszania izbie i rejestracji przez izbę wierzytelności członków izby, wynikających z transakcji giełdowych,
-- **2)** terminy i sposoby zaspokojenia wierzytelności członków izby, wynikających z transakcji giełdo3) tryb postępowania przy wykonywaniu innych zleceń przekazanych izbie przez jej członków wzwiązku ztransakcjami giełdowymi,
-- **4)** zakres odpowiedzialności spółki będącej giełdową izbą rozrachunkową za terminowe i należyte przeprowadzenie czynności zleconych przez członków izby.
+- **1)** tryb zgłaszania izbie i rejestracji przez izbę wierzytelności członków izby, wynikających z transakcji przez nią obsługiwanych;
+- **2)** terminy i sposoby zaspokajania wierzytelności członków izby, wynikających z transakcji przez nią obsługiwanych, w tym w szczególności szczegółowe zasady rozliczania tych transakcji;
+- **3)** tryb postępowania przy wykonywaniu innych zleceń przekazanych izbie przez jej członków w związku z obsługiwanymi przez nią transakcjami;
+- **4)** zakres odpowiedzialności spółki będącej giełdową izbą rozrachunkową za terminowe i należyte przeprowadzenie czynności zleconych przez członków izby;
+- **5)** szczegółowe zasady postępowania przy gromadzeniu, utrzymywaniu i dokonywaniu zwrotu wadiów.
 
-**Art. 17.**
-
-1. Wniosek o wydanie zezwolenia na prowadzenie giełdy, na której przedmiotem obrotu są prawa, októrych mowa wart. 2 pkt 2 lit. d) ie), oprócz danych wymaganych dla wydania zezwolenia na prowadzenie giełdy, powinien zawierać dane, o których mowa wart. 7 ust. 2 pkt 1—6, odnoszące się odpowiednio do spółki będącej giełdową izbą rozrachunkową.
-
-2. Do wniosku należy dołączyć statut spółki prowadzącej giełdową izbę rozrachunkową, regulamin tej izby oraz analizę ekonomiczno-finansową możliwości prowadzenia przez izbę rozliczeń finansowych transakcji giełdowych wokresie co najmniej 3 lat. wych,
-
-3. Przepisy art. 9 ust. 1—3 iust. 7 oraz art. 12 stosuje się odpowiednio do spółki prowadzącej giełdową izbę rozrachunkową.
+**Art. 17.** (uchylony)
 
 **Art. 18.**
 
-1. Funkcję giełdowej izby rozrachunkowej może pełnić Krajowy Depozyt.
+1. Funkcję giełdowej izby rozrachunkowej może pełnić Krajowy Depozyt lub spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
-2. W przypadku gdy przedmiotem obrotu na danej giełdzie będą prawa, októrych mowa wart. 2 pkt 2 lit. d) ie),afunkcję giełdowej izby rozrachunkowej pełni Krajowy Depozyt, zezwolenie na prowadzenie giełdy, októrym mowa w art. 14 ust. 1, może być wydane, jeżeli wnioskodawca dołączy do wniosku umowę zKrajowym Depozytem wprzedmiocie rozliczania transakcji giełdowych wraz zregulaminem, októrym mowa wust. 4.
+1a. Funkcję giełdowej izby rozrachunkowej może pełnić również podmiot będący CCP, o którym mowa w art. 3 pkt 49 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowym. Przepisy ust. 3–5 stosuje się odpowiednio.
 
-3. Do rozliczania przez Krajowy Depozyt transakcji giełdowych wramach wykonywania funkcji giełdowej izby rozrachunkowej stosuje się odpowiednio przepisy ustawy Prawo opublicznym obrocie papierami wartościowymi.
+2. (uchylony)
 
-4. W przypadku gdy funkcję giełdowej izby rozrachunkowej pełni Krajowy Depozyt, prawa i obowiązki członków izby oraz zasady rozliczania transakcji giełdowych określa odrębny regulamin uchwalony przez Krajowy Depozyt.
+3. Do rozliczania przez podmiot, o którym mowa w ust. 1, transakcji giełdowych lub innych transakcji w ramach wykonywania funkcji giełdowej izby rozrachunkowej stosuje się odpowiednio przepisy art. 14 ust. 2 zdanie drugie, ust. 2b–2e oraz art. 15, a w pozostałym zakresie – przepisy ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
-5. Regulamin, októrym mowa wust. 4, jak również jego zmiany wymagają zatwierdzenia przez Komisję. Komisja odmawia zatwierdzenia zmiany regulaminu, jeżeli proponowane zmiany byłyby sprzeczne z prawem lub mogłyby naruszyć bezpieczeństwo obrotu.
+4. W przypadku gdy funkcję giełdowej izby rozrachunkowej pełni podmiot, o którym mowa w ust. 1, prawa i obowiązki członków giełdowej izby rozrachunkowej oraz zasady rozliczania transakcji giełdowych lub innych transakcji określa odrębny regulamin uchwalony przez radę nadzorczą danego podmiotu, na wniosek jego zarządu. Regulamin ten zawiera w szczególności elementy, o których mowa w art. 16 ust. 2.
 
-#### Rozdział 4 Zadania Komisji wzakresie instytucji rynku towarów giełdowych
+5. Regulamin, o którym mowa w ust. 4, jak również jego zmiany wymagają zatwierdzenia przez Komisję. Komisja odmawia zatwierdzenia regulaminu albo jego zmiany, jeżeli ich treść byłaby sprzeczna z prawem lub mogłaby naruszyć bezpieczeństwo obrotu.
 
-**Art. 19.**
+**Art. 18a.**
 
-1. Komisja wykonuje nadzór nad instytucjami rynku towarów giełdowych.
+1. Na potrzeby rozliczeń transakcji, o których mowa w art. 14 ust. 2c, giełdowa izba rozrachunkowa, Krajowy Depozyt, a także spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, mogą być stronami tych transakcji.
 
-2. Wzakresie tworzenia idziałalności giełd towarowych, giełdowych izb rozrachunkowych oraz działalności maklerów giełd towarowych do zadań Komisji należy:
+2. Na potrzeby rozliczeń transakcji, o których mowa w art. 14 ust. 2e, giełdowa izba rozrachunkowa może być stroną transakcji.
 
-- **1)** sprawowanie nadzoru nad przestrzeganiem reguł uczciwego obrotu i konkurencji w obrocie towarami giełdowymi oraz nad zapewnieniem powszechnego dostępu do rzetelnych informacji na rynku towarów giełdowych,
-- **2)** inspirowanie, organizowanie ipodejmowanie działań zapewniających sprawne funkcjonowanie rynku towarów giełdowych oraz ochronę uczestników obrotu,
-- **3)** współdziałanie zorganami administracji rządowej, uczestnikami obrotu towarami giełdowymi oraz innymi instytucjami w zakresie kształtowania polityki gospodarczej państwa, zapewniającej rozwój rynku towarów giełdowych,
-- **4)** upowszechnianie wiedzy ozasadach funkcjonowania rynku towarów giełdowych,
-- **5)** przygotowywanie projektów aktów prawnych związanych zfunkcjonowaniem rynku towarów giełdowych,
-- **6)** podejmowanie innych działań przewidzianych przepisami ustawy.
+#### Rozdział 4 Zadania Komisji w zakresie instytucji rynku towarów giełdowych
+
+**Art. 19.** (uchylony)
 
 **Art. 20.**
 
-1. Wzakresie nie uregulowanym wustawie do sposobu działania oraz zadań Komisji stosuje się przepisy ustawy Prawo opublicznym obrocie papierami wartościowymi.
+1. W zakresie nieuregulowanym w ustawie do sposobu działania oraz zadań Komisji stosuje się przepisy ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222 oraz z 2025 r. poz. 146) oraz ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640).
 
-2. Przewodniczący Komisji może występować do Rady Ministrów lub ministra właściwego do spraw finansów publicznych z wnioskami o wydanie przepisów wykonawczych do ustawy.
+2. (uchylony)
 
-**Art. 21.** W sprawach cywilnych z zakresu obrotu giełdowego Przewodniczącemu Komisji przysługują odpowiednio uprawnienia przewidziane dla prokuratora wprzepisach Kodeksu postępowania cywilnego.
+**Art. 21.** (uchylony)
 
 **Art. 22.**
 
 1. Upoważniony przedstawiciel Komisji ma prawo:
 
-- **1)** wstępu do siedziby i do lokalu spółki prowadzącej giełdę w celu wglądu do ksiąg, dokumentów i innych nośników informacji,
+- **1)** wstępu do siedziby i do lokalu spółki prowadzącej giełdę w celu wglądu do ksiąg, dokumentów i innych nośników informacji;
 - **2)** uczestniczenia w posiedzeniach rady nadzorczej giełdy oraz na walnych zgromadzeniach.
 
-2. Na żądanie Komisji lub jej upoważnionych przedstawicieli spółka prowadząca giełdę jest obowiązana do niezwłocznego sporządzenia iprzekazania kopii dokumentów oraz innych nośników informacji, októrych mowa wust. 1 pkt 1, oraz do udzielenia pisemnych lub ustnych wyjaśnień.
+2. Na żądanie Komisji lub jej upoważnionych przedstawicieli spółka prowadząca giełdę jest obowiązana do niezwłocznego sporządzenia i przekazania kopii dokumentów oraz innych nośników informacji, o których mowa w ust. 1 pkt 1, oraz do udzielenia pisemnych lub ustnych wyjaśnień.
 
 3. Na pisemne żądanie Komisji zarząd spółki prowadzącej giełdę jest obowiązany do:
 
-- **1)** zwołania nadzwyczajnego walnego zgromadzenia
-- **2)** umieszczenia spraw wskazanych przez Komisję wporządku obrad walnego zgromadzenia.
+- **1)** zwołania nadzwyczajnego walnego zgromadzenia lub
+- **2)** umieszczenia spraw wskazanych przez Komisję w porządku obrad walnego zgromadzenia.
 
-4. W przypadku niewykonania obowiązków, o których mowa wust. 3, do żądania Komisji stosuje się odpowiednio przepisy art. 401§ 1 i3 Kodeksu spółek handlowych.
+4. W przypadku niewykonania obowiązków, o których mowa w ust. 3, do żądania Komisji stosuje się odpowiednio przepisy art. 401 § 1 i 3 Kodeksu spółek handlowych.
 
-5. Komisja może nakazać radzie nadzorczej giełdy niezwłoczne podjęcie, jednak nie póêniej niż w terminie 10 dni roboczych od dnia otrzymania pisemnego stanowiska Komisji, uchwały wokreślonej sprawie.
+5. Komisja może nakazać radzie nadzorczej giełdy niezwłoczne podjęcie, jednak nie później niż w terminie 10 dni roboczych od dnia otrzymania pisemnego stanowiska Komisji, uchwały w określonej sprawie.
 
-6. Spółka prowadząca giełdę jest obowiązana do zawiadamiania Komisji owszystkich planowanych posiedzeniach rady nadzorczej giełdy oraz walnych zgromadzeniach.
+6. Spółka prowadząca giełdę jest obowiązana do zawiadamiania Komisji o wszystkich planowanych posiedzeniach rady nadzorczej giełdy oraz walnych zgromadzeniach.
 
 **Art. 23.**
 
 1. Komisja może wytoczyć przeciwko spółce prowadzącej giełdę powództwo o:
 
-- **1)** stwierdzenie nieważności uchwały walnego zgromadzenia lub rady nadzorczej giełdy sprzecznej lub z ustawą lub podjętej z naruszeniem przepisów ustawy,
-- **2)** uchylenie uchwały walnego zgromadzenia lub rady nadzorczej giełdy sprzecznej ze statutem spółki, regulaminem giełdy, naruszającej zasady bezpieczeństwa obrotu lub podjętej znaruszeniem postanowień statutu lub regulaminu.
+- **1)** stwierdzenie nieważności uchwały walnego zgromadzenia lub rady nadzorczej giełdy – sprzecznej z ustawą lub podjętej z naruszeniem przepisów ustawy;
+- **2)** uchylenie uchwały walnego zgromadzenia lub rady nadzorczej giełdy – sprzecznej ze statutem spółki, regulaminem giełdy, naruszającej zasady bezpieczeństwa obrotu lub podjętej z naruszeniem postanowień statutu lub regulaminu.
 
-2. Powództwo należy wnieść w terminie 30 dni od dnia otrzymania wiadomości o uchwale, nie póêniej jednak niż w terminie 6 miesięcy od dnia podjęcia uchwały.
+2. Powództwo należy wnieść w terminie 30 dni od dnia otrzymania wiadomości o uchwale, nie później jednak niż w terminie 6 miesięcy od dnia podjęcia uchwały.
 
 3. Wniesienie powództwa powoduje wstrzymanie wykonalności zaskarżonej uchwały.
 
 4. Prawomocny wyrok stwierdzający nieważność albo uchylający uchwałę walnego zgromadzenia ma moc obowiązującą w stosunkach między spółką a wszystkimi akcjonariuszami oraz między spółką a członkami organów spółki. W przypadkach, w których ważność czynności dokonanej przez spółkę jest zależna od uchwały walnego zgromadzenia, stwierdzenie nieważności takiej uchwały albo jej uchylenie nie ma skutku wobec osób trzecich działających w dobrej wierze.
 
-**Art. 24.** W przypadku gdy spółka prowadzi giełdę z naruszeniem prawa, Komisja może cofnąć zezwolenie na prowadzenie giełdy.
+**Art. 24.**
 
-**Art. 25.** Wzakresie nadzoru na działalnością giełdowych izb rozrachunkowych stosuje się przepisy art. 22 i23.
+1. Minister właściwy do spraw gospodarki, na wniosek Komisji, może cofnąć zezwolenie na prowadzenie giełdy, w przypadku gdy spółka prowadząca giełdę:
+
+- **1)** nie rozpoczęła prowadzenia działalności objętej zezwoleniem w terminie wskazanym w decyzji w sprawie udzielenia zezwolenia;
+- **2)** przez okres co najmniej 6 miesięcy nie prowadziła działalności objętej zezwoleniem;
+- **3)** otrzymała zezwolenie na podstawie fałszywych oświadczeń lub dokumentów zaświadczających nieprawdę;
+- **4)** przestała spełniać warunki, które były podstawą udzielenia zezwolenia;
+- **5)** prowadzi działalność z naruszeniem przepisów prawa, postanowień regulaminów lub procedur regulujących prowadzenie giełdy;
+- **6)** nie przestrzega zasad uczciwego obrotu;
+- **7)** narusza interesy uczestników obrotu.
+
+2. W przypadkach, o których mowa w ust. 1 pkt 3 lub 5–7, Komisja może:
+
+- **1)** odstąpić od wystąpienia z wnioskiem, o którym mowa w ust. 1 i nałożyć na spółkę prowadzącą giełdę towarową karę pieniężną do wysokości 10 % całkowitego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym, a w przypadku braku takiego sprawozdania karę pieniężną do wysokości 10 % prognozowanego przychodu określonego w załączonej do wniosku o udzielenie zezwolenia, zgodnie z art. 7 ust. 3, analizie ekonomiczno-finansowej, nie większą jednak niż do wysokości 10 000 000 zł,
+- **2)** wystąpić z wnioskiem, o którym mowa w ust. 1 i jednocześnie nałożyć na spółkę prowadzącą giełdę karę pieniężną, o której mowa w pkt 1, do wysokości 10 % całkowitego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym, a w przypadku braku takiego sprawozdania karę pieniężną do wysokości 10 % prognozowanego przychodu określonego w załączonej do wniosku o udzielenie zezwolenia, zgodnie z art. 7 ust. 3, analizie ekonomiczno-finansowej, nie większą jednak niż do wysokości 10 000 000 zł – jeżeli uzasadnia to stopień naruszeń, których dopuściła się spółka prowadząca giełdę.
+
+**Art. 25.** W zakresie nadzoru nad działalnością giełdowych izb rozrachunkowych stosuje się przepisy art. 22 i 23.
+
+**Art. 25a.** Przepisów niniejszego rozdziału nie stosuje się do sposobu organizowania łączenia rynków w obrocie transgranicznym.
 
 #### Rozdział 5 Opłaty
 
 **Art. 26.**
 
-1. Udzielenie zezwolenia przewidzianego w ustawie podlega stałej opłacie w wysokości nie większej niż równowartość w złotych 4 500 EURO, ustalanej przy zastosowaniu średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski.
+1. Udzielenie zezwolenia lub zgody przewidzianych niniejszą ustawą podlega opłacie w wysokości nie większej niż równowartość w złotych 4500 euro.
 
-2. Od spółek prowadzących giełdy pobiera się opłatę od każdej transakcji zawieranej na giełdzie, włącznej wysokości nie większej niż 0,015% wartości transakcji.
+2. Od spółki prowadzącej giełdę pobiera się roczną opłatę ustalaną na podstawie średniej wartości przychodów w okresie trzech lat poprzedzających rok, za który należna jest opłata, z wyłączeniem dywidend otrzymanych od jednostek zależnych i stowarzyszonych, w wysokości nie większej niż 3,5 % tej średniej, jednak nie mniej niż równowartość w złotych 6250 euro.
 
-3. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, wysokość, szczegółowy sposób naliczania oraz warunki iterminy uiszczania opłat, o których mowa w ust. 1 i 2, w tym sposób ustalania wartości transakcji, o których mowa wust. 2. Opłaty te nie powinny wistotny sposób wpływać na zwiększenie kosztów obrotu na giełdzie oraz powinny uwzględniać rodzaje transakcji podlegających opłatom.
+3. Od spółki prowadzącej giełdową izbę rozrachunkową pobiera się roczną opłatę ustalaną na podstawie średniej wartości przychodów w okresie trzech lat poprzedzających rok, za który należna jest opłata, z wyłączeniem dywidend otrzymanych od jednostek zależnych i stowarzyszonych, w wysokości nie większej niż 5,5 % tej średniej, jednak nie mniej niż równowartość w złotych 6250 euro.
 
-4. Przeznaczenie i rozdysponowanie wpływów zopłat, októrych mowa wust. 1 i2, następuje wtrybie i na zasadach określonych w art. 21 ustawy Prawo opublicznym obrocie papierami wartościowymi.
+4. Od towarowego domu maklerskiego pobiera się roczną opłatę ustalaną na podstawie średniej wartości przychodów ogółem w okresie trzech lat poprzedzających rok, za który należna jest opłata, w wysokości nie większej niż 0,5 % tej średniej, jednak nie mniej niż równowartość w złotych 750 euro. Wielkość przychodów ogółem, o których mowa w zdaniu pierwszym, stanowi suma następujących pozycji rachunku zysków i strat:
 
-#### Rozdział 6 Maklerzy giełd towarowych
+- **1)** przychody netto ze sprzedaży produktów, towarów i materiałów:
+    - **a)** przychody netto ze sprzedaży produktów,
+    - **b)** przychody netto ze sprzedaży towarów i materiałów;
 
-**Art. 27.**
+- **2)** pozostałe przychody operacyjne:
+    - **a)** zysk ze zbycia niefinansowych aktywów trwałych,
+    - **b)** dotacje,
+    - **c)** inne przychody operacyjne;
 
-1. Na listę maklerów giełd towarowych może być wpisana osoba fizyczna, która:
+- **3)** przychody finansowe:
+    - **a)** dywidendy i udziały w zyskach,
+    - **b)** odsetki,
+    - **c)** zysk ze zbycia inwestycji,
+    - **d)** aktualizacja wartości inwestycji,
+    - **e)** inne.
 
-- **1)** posiada pełną zdolność do czynności prawnych,
-- **2)** korzysta zpełni praw publicznych,
-- **3)** nie była skazana prawomocnym wyrokiem za przestępstwo przeciwko mieniu, przeciwko dokumentom, za przestępstwo gospodarcze, za fałszowanie pieniędzy, papierów wartościowych, znaków urzędowych, znaków towarowych, przestępstwo skarbowe, za przestępstwa określone wustawie Prawo opublicznym obrocie papierami wartościowymi, za przestępstwa określone wniniejszej ustawie lub za przestępstwa określone w przepisach o domach składowych,
-- **4)** posiada co najmniej średnie wykształcenie,
-- **5)** złożyła zwynikiem pozytywnym egzamin przed komisją egzaminacyjną dla maklerów giełd towarowych.
+5. Od zagranicznej osoby prawnej, o której mowa w art. 50 ust. 1, prowadzącej działalność na terytorium Rzeczypospolitej Polskiej w formie oddziału, pobiera się roczną opłatę ustalaną na podstawie przychodów oddziału w poprzednim roku kalendarzowym, w wysokości nie większej niż 0,15 % tych przychodów, jednak nie mniej niż równowartość w złotych 500 euro. Przychody, o których mowa w zdaniu pierwszym, są przychodami oddziału w rozumieniu przepisów o podatku dochodowym od osób prawnych.
 
-2. Uzyskanie uprawnień do wykonywania zawodu maklera giełd towarowych następuje zdniem wpisu na listę maklerów giełd towarowych.
+6. (uchylony)
 
-**Art. 28.**
+7. Przeznaczenie i rozdysponowanie wpływów z opłat, o których mowa w ust. 1– 5, oraz ustalenie wysokości, naliczanie i uiszczanie tych opłat następuje na zasadach, w trybie i na warunkach określonych w art. 17 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym.
 
-1. Wpisu na listę maklerów giełd towarowych dokonuje Komisja, na wniosek zainteresowanego, złożony wterminie 3 miesięcy od dnia złożenia egzaminu, októrym mowa wart. 27 ust.1 pkt 5. Wpis na listę maklerów giełd towarowych obejmuje: imię (imiona) i nazwisko oraz datę i miejsce urodzenia maklera.
-
-2. Osoba wpisana na listę maklerów giełd towarowych jest obowiązana do niezwłocznego pisemnego
-
-- **1)** podjęciu wykonywania zawodu wraz ze wskazaniem sposobu i miejsca wykonywania zawodu, a w przypadku maklera niezależnego wraz ze wskazaniem członka giełdowej izby rozrachunkowej, zktórym dany makler zawarł umowę rozliczeniowo-gwarancyjną,oraz adresutego podmiotu,
-- **2)** każdorazowej zmianie danych objętych wnioskiem, o którym mowa w ust. 1, oraz danych, o których mowa wpkt 1.
-
-3. Lista maklerów giełd towarowych, skreślenie zlisty oraz zawieszenie uprawnień do wykonywania zawodu maklera giełd towarowych podlegają ogłoszeniu wDzienniku Urzędowym Komisji Papierów Wartościowych iGiełd.
-
-4. Minister właściwy do spraw finansów publicznych określa, wdrodze rozporządzenia, wzór wniosku, o którym mowa w ust. 1. Wzór wniosku powinien zawierać odniesienia do danych, o których mowa w art. 27 ust. 1, a w przypadku danych dotyczących karalności, wykształcenia oraz wyniku egzaminu złożonego informowania Komisji o: przed komisją egzaminacyjną dla maklerów giełd towarowych powinien zawierać wymóg dołączenia odpowiednich dokumentów lub ich kopii.
-
-**Art. 29.**
-
-1. Przewodniczący Komisji:
-
-- **1)** powołuje komisję egzaminacyjną dla maklerów giełd towarowych oraz nadzoruje jej działalność,
-- **2)** ustala zakres tematyczny obowiązujący na egzaminach oraz tryb przeprowadzania egzaminów,
-- **3)** ustala wysokość opłat egzaminacyjnych oraz wynagrodzeń dla osób wchodzących w skład komisji egzaminacyjnej.
-
-2. Rozdysponowanie wpływów z opłat, o których mowa wust. 1 pkt 3, następuje wtrybie ina zasadach określonych wart. 24 ust. 2 ustawy Prawo opublicznym obrocie papierami wartościowymi.
-
-**Art. 30.**
-
-1. Przez wykonywanie zawodu maklera giełd towarowych rozumie się pozostawanie osoby wpisanej na listę maklerów giełd towarowych w stosunku pracy, zlecenia lub winnym stosunku prawnym opodobnym charakterze:
-
-- **1)** ztowarowym domem maklerskim,
-- **2)** ze spółką prowadzącą giełdę,
-- **3)** ze spółką będącą giełdową izbą rozrachunkową,
-- **4)** zdomem maklerskim wzakresie działalności objętej zezwoleniem, o którym mowa w art. 30 ust. 6 ustawy Prawo o publicznym obrocie papierami wartościowymi, lub pełnienie przez tę osobę funkcji w organach któregokolwiek ztych podmiotów.
-
-2. Przez wykonywanie zawodu maklera giełd towarowych rozumie się również pełnienie przez osobę wpisaną na listę maklerów giełd towarowych funkcji zwyboru worganach stowarzyszeń maklerów giełd towarowych, zrzeszających co najmniej 20% ogółu maklerów giełd towarowych wykonujących zawód.
-
-3. Przez wykonywanie zawodu maklera giełd towarowych rozumie się również zawieranie transakcji giełdowych przez maklera niezależnego lub pozostawanie przez maklera giełd towarowych wstosunku pracy lub stałego zlecenia zmaklerem niezależnym.
-
-4. Tytułu Ńmakler giełd towarowych” mogą używać wyłącznie osoby, które spełniają jeden z warunków określonych wust. 1—3.
-
-**Art. 31.**
-
-1. Skreślenie zlisty maklerów giełd towarowych następuje:
-
-- **1)** na wniosek danej osoby wpisanej na listę,
-- **2)** w razie całkowitego lub częściowego ubezwłasnowolnienia,
-- **3)** na skutek skazania prawomocnym wyrokiem za popełnienie przestępstwa, o którym mowa w art. 27 ust. 1 pkt 3, lub pozbawienia praw publicznych,
-- **4)** na skutek śmierci osoby wpisanej na listę,
-- **5)** wrazie niewykonywania zawodu maklera giełd towarowych przez 3 kolejne lata.
-
-2. Podjęcie wykonywania zawodu powoduje zawieszenie biegu terminu, o którym mowa w ust. 1 pkt 5, a nieprzerwane wykonywanie zawodu przez 6 kolejnych miesięcy powoduje przerwanie biegu tego terminu.
-
-**Art. 32.**
-
-1. Komisja może wydać decyzję o skreśleniu maklera giełd towarowych zlisty lub zawiesić jego uprawnienia do wykonywania zawodu na okres od 3 do 24 miesięcy na skutek nienależytego wykonywania zawodu lub naruszenia prawa wzwiązku zwykonywaniem zawodu.
-
-2. Komisja wydaje decyzję o skreśleniu z listy maklerów giełd towarowych albo o zawieszeniu uprawnień do wykonywania zawodu, po uprzednim przeprowadzeniu rozprawy. Komisja może nadać tej decyzji rygor natychmiastowej wykonalności.
-
-3. Wrazie konieczności zabezpieczenia interesu publicznego Komisja może, z chwilą wszczęcia postępowania wsprawach, októrych mowa wust. 1, zawiesić uprawnienia maklera giełd towarowych do czasu wydania decyzji wsprawie, jednak nie dłużej niż na okres 12 miesięcy.
-
-4. W przypadku wydania decyzji o zawieszeniu uprawnień maklera giełd towarowych do wykonywania zawodu, okres zawieszenia uprawnień, o którym mowa w ust. 3, wlicza się do okresu zawieszenia uprawnień, októrym mowa wust. 1.
-
-5. Osoba skreślona z listy maklerów giełd towarowych z przyczyn, o których mowa w ust. 1, nie może rowych przed upływem 10 lat od dnia wydania decyzji, lecz nie wcześniej niż nastąpi zatarcie skazania za przestępstwo, którego popełnienie stanowiło przesłankę faktyczną wydania decyzji o skreśleniu z listy maklerów.
-
-**Art. 33.** Makler giełd towarowych przy wykonywaniu zawodu jest obowiązany działać zgodnie z przepisami prawa, zasadami uczciwego obrotu oraz mieć na względzie słuszne interesy zleceniodawców.
-
-**Art. 34.**
-
-1. Maklerem niezależnym może być wyłącznie makler giełd towarowych, który uzyskał członkostwo giełdy towarowej izawarł zczłonkiem izby rozrachunkowej umowę rozliczeniowo-gwarancyjną.
-
-2. Makler niezależny nie może prowadzić innej działalności gospodarczej ani pozostawać wstosunku pracy, zlecenia lub innym tego rodzaju stosunku prawnym zinnym maklerem niezależnym lub członkiem giełdy.
-
-3. Makler niezależny może zatrudniać do dokonywania czynności na giełdzie wyłącznie maklerów giełd towarowych.
-
-4. Makler niezależny obowiązany jest prowadzić księgi rachunkowe.
-
-5. Makler niezależny obowiązany jest powiadomić Komisję o miejscu przechowywania ksiąg rachunkowych dla prowadzonej przez siebie działalności.
-
-6. Makler niezależny zawiera transakcje wyłącznie w imieniu własnym i na własny rachunek, w ramach prowadzonej przez siebie samodzielnie działalności gospodarczej.
-
-7. Makler niezależny może być członkiem tylko jednej giełdy.
-
-8. Transakcje zawierane przez maklera niezależnego będą rozliczane przez będący członkiem danej giełdy towarowy dom maklerski lub dom maklerski, który gwarantować będzie wywiązywanie się przez maklera zwszelkich zobowiązań ztytułu zawieranych transakcji giełdowych na podstawie umowy rozliczeniowo-gwarancyjnej.
-
-**Art. 35.**
-
-1. Umowa rozliczeniowo-gwarancyjna, jak również każda zmiana do tej umowy, wchodzi w życie z chwilą jej potwierdzenia przez giełdową izbę rozrachunkową.
-
-2. Umowa rozliczeniowo-gwarancyjna powinna być przesłana do Komisji w terminie 7 dni od dnia jej zawarcia przez towarowy dom maklerski. Obowiązek ten dotyczy także wszelkich zmian wprowadzanych przez strony do umowy.
-
-3. Umowa rozliczeniowo-gwarancyjna powinna zawierać postanowienia mające za przedmiot ustanowienie przez maklera niezależnego na rzecz członka giełdowej izby rozrachunkowej zabezpieczeń majątkowych, wszczególności poprzez: być ponownie wpisana na listę maklerów giełd towa- 1) wystawienie weksla własnego,
-
-- **2)** poręczenie cywilne lub wekslowe osoby trzeciej,
-- **3)** przedstawienie gwarancji bankowej, której beneficjentem jest członek giełdowej izby rozrachunkowej,
-- **4)** przedstawienie polisy ubezpieczeniowej, w której ubezpieczonym jest członek giełdowej izby rozrachunkowej,
-- **5)** ustanowienie hipoteki kaucyjnej,
-- **6)** ustanowienie zastawu na papierach wartościowych.
-
-**Art. 36.**
-
-1. W przypadku naruszania przez maklera niezależnego postanowień umowy rozliczeniowo-gwarancyjnej poprzez zawieranie transakcji giełdowych, zktórych zobowiązanie przekracza wartość gwarantowaną przez członka giełdowej izby rozrachunkowej,lub poprzez niewykonywanie wterminie zobowiązań wynikających z transakcji giełdowych, Komisja może nakazać członkowi giełdowej izby rozrachunkowej jednostronne odstąpienie od umowy rozliczeniowo-gwarancyjnej zawartej z tym maklerem niezależnym.
-
-2. W przypadku odstąpienia przez członka giełdowej izby rozrachunkowej od umowy rozliczeniowo-gwarancyjnej na żądanie Komisji, nie ponosi on jakiejkolwiek odpowiedzialności odszkodowawczej wobec maklera niezależnego, niezależnie od odmiennych postanowień zawartych wtej umowie.
+#### Rozdział 6 (uchylony)
 
 #### Rozdział 7 Towarowe domy maklerskie
 
 **Art. 37.**
 
-1. Oile ustawa nie stanowi inaczej, działalność maklerska może być prowadzona wyłącznie przez towarowy dom maklerski.
+1. O ile ustawa nie stanowi inaczej, działalność maklerska może być prowadzona wyłącznie przez towarowy dom maklerski. [2. Akcje towarowego domu maklerskiego, z wyłączeniem akcji zdematerializowanych zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, są akcjami imiennymi.]
 
-2. Akcje towarowego domu maklerskiego mogą być wyłącznie imienne, chyba że są dopuszczone do publicznego obrotu papierami wartościowymi.
+3. Zapłata za obejmowane lub nabywane udziały albo akcje towarowego domu maklerskiego, które nie są zdematerializowane, nie może pochodzić z pożyczek, kredytów ani z nieudokumentowanych źródeł.
 
-3. Zapłata za obejmowane lub nabywane akcje towarowego domu maklerskiego, które nie zostały dopuszczone do publicznego obrotu papierami wartościowymi, nie może pochodzić z pożyczek, kredytów, ani znie udokumentowanych êródeł.
+4. (uchylony)
 
-4. Osoba prawna może być jednoosobowym założycielem towarowego domu maklerskiego.
-
-5. Towarowy dom maklerski może wykonywać wyłącznie czynności określone wzezwoleniu.
+5. (uchylony)
 
 6. Towarowy dom maklerski może być członkiem więcej niż jednej giełdy towarowej.
 
-7. Towarowy dom maklerski ma wyłączne prawo iobowiązek używać wswej firmie określenia Ńtowarowy dom maklerski”.
+7. Towarowy dom maklerski ma wyłączne prawo i obowiązek używać w swej firmie określenia „towarowy dom maklerski”.
 
 **Art. 38.**
 
-1. Prowadzenie działalności maklerskiej wymaga zezwolenia Komisji, wydanego na wniosek
+1. Z zastrzeżeniem art. 50a, prowadzenie działalności maklerskiej wymaga zezwolenia Komisji, wydanego na wniosek zainteresowanego podmiotu.
 
-2. Działalność maklerska obejmuje wykonywanie czynności związanych z obrotem towarami giełdowymi, polegających na:
+2. Działalność, o której mowa w ust. 1, obejmuje wykonywanie czynności związanych z obrotem towarami giełdowymi, polegających na:
 
-- **1)** oferowaniu towarów giełdowych wobrocie giełdowym,
-- **2)** nabywaniu lub sprzedaży towarów giełdowych na zasadach określonych wart. 51,
-- **3)** prowadzeniu rachunków transakcji giełdowych dotyczących praw majątkowych, o których mowa wart. 2 pkt 2 lit. d) ie), oraz rachunków pieniężnych służących do ich obsługi,
-- **4)** dokonywaniu rozliczeń transakcji giełdowych zawieranych przez maklerów niezależnych,
-- **5)** dokonywaniu rozliczeń transakcji zleceniodawców, zwyłączeniem rozliczeń dokonywanych przez giełdowe izby rozrachunkowe oraz wzakresie, októrym mowa wart. 5 ust. 3 przez giełdy,
-- **6)** odpłatnym doradztwie wzakresie obrotu giełdowego,
-- **7)** zarządzaniu cudzym pakietem aktywów na zlecenie, w zakresie inwestycji dokonywanych na giełdach towarowych,
-- **8)** pośrednictwie w nabywaniu lub zbywaniu praw, októrych mowa wart. 2 pkt 2 lit. d) ie), wobrocie na zagranicznych giełdach towarowych,
-- **9)** prowadzeniu ewidencji towarów giełdowych wobrocie giełdowym.
+- **1)** (uchylony)
+- **2)** nabywaniu lub zbywaniu towarów giełdowych na cudzy rachunek na zasadach określonych w art. 38b, w tym dokonywaniu rozliczeń transakcji zleceniodawców;
+- **3)** prowadzeniu rachunków lub rejestrów towarów giełdowych w obrocie giełdowym, z wyłączeniem towarów, o których mowa w art. 2 pkt 2 lit. a;
+- **4)** doradztwie w zakresie obrotu giełdowego.
+- **5)** (uchylony)
+- **6)** (uchylony)
 
-3. Przez doradztwo w zakresie obrotu giełdowego, o którym mowa w ust. 2 pkt 6, rozumie się odpłatne udzielanie pisemnej lub ustnej rekomendacji nabycia lub zbycia oznaczonych towarów giełdowych albo powstrzymania się od zawarcia transakcji dotyczącej tych towarów.
+3. (uchylony)
 
-4. Za zezwoleniem Komisji ina warunkach przez nią określonych towarowe domy maklerskie mogą dokonywać w obrocie publicznym czynności związanych zobrotem papierami wartościowymi, októrych mowa w art. 3 ust. 3 ustawy Prawo o publicznym obrocie papierami wartościowymi, oraz prawami majątkowymi, októrych mowa wart. 97 tej ustawy.
+**Art. 38a.** (uchylony)
 
-5. Zezwolenie na wykonywanie czynności, o których mowa wust. 2 pkt 7, jest wydawane wporozumieniu z ministrem właściwym do spraw finansów publicznych iPrezesem Narodowego Banku Polskiego.
+**Art. 38b.**
 
-6. Do rachunku pieniężnego służącego do obsługi rachunku transakcji giełdowych dotyczących praw majątkowych, októrych mowa wart. 2 pkt 2 lit. d) ie), stosuje się odpowiednio przepisy art. 725—733 Kodeksu cywilnego, zwyłączeniem uprawnienia do czasowego obracania wolnymi środkami pieniężnymi na potrzeby gospodarki narodowej. Nie wyłącza to uprawnień Komisji wynikających zart. 39. zainteresowanego podmiotu.
+1. W umowie o świadczenie usług brokerskich w zakresie obrotu towarami giełdowymi towarowy dom maklerski zobowiązuje się wobec dającego zlecenie do zawierania umów nabycia lub zbycia towarów giełdowych w imieniu własnym, lecz na rachunek dającego zlecenie.
 
-7. Rada Ministrów może określić, w drodze rozporządzenia, inne niż określone wust. 2 czynności:
+2. W umowie o świadczenie usług brokerskich w zakresie obrotu towarami giełdowymi, o których mowa w art. 2 pkt 2 lit. b i d, towarowy dom maklerski zobowiązuje się do prowadzenia rachunku lub rejestru towarów giełdowych oraz rachunku pieniężnego, służącego do obsługi realizacji jego zobowiązań wobec dającego zlecenie.
 
-- **1)** których wykonywanie przez towarowy dom maklerski nie wymaga uzyskania zezwolenia, o ile czynności te związane są zobrotem towarowym,
-- **2)** które mogą być wykonywane przez towarowy dom maklerski po uzyskaniu zezwolenia Komisji, ustalając zakres iwarunki wykonywania tych czynności.
+3. Towarowy dom maklerski odpowiada wobec dającego zlecenie za wykonanie zobowiązania wynikającego z transakcji giełdowej, której przedmiotem są towary giełdowe, o których mowa w art. 2 pkt 2 lit. d.
+
+4. Umowy, o których mowa w ust. 1, powinny zostać zawarte w formie pisemnej pod rygorem nieważności.
+
+5. W zakresie nieuregulowanym w ust. 1–4 do umowy:
+
+- **1)** o świadczenie usług brokerskich w zakresie obrotu towarami giełdowymi – stosuje się odpowiednio przepisy Kodeksu cywilnego dotyczące umowy zlecenia, z wyłączeniem art. 737;
+- **2)** zlecenia nabycia lub zbycia towarów giełdowych – stosuje się odpowiednio przepisy Kodeksu cywilnego dotyczące umowy komisu, z wyłączeniem art. 768 § 3.
+
+6. Do umowy o prowadzenie rachunku pieniężnego, o którym mowa w ust. 2, stosuje się odpowiednio przepisy art. 725, art. 727, art. 728 § 3 oraz art. 729–733 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237 oraz z 2025 r. poz. 769), z zastrzeżeniem art. 38g ust. 5 i 6.
+
+**Art. 38c.** Przez doradztwo w zakresie obrotu giełdowego rozumie się odpłatne udzielanie pisemnej lub ustnej rekomendacji nabycia lub zbycia oznaczonych towarów giełdowych albo powstrzymania się od zawarcia transakcji dotyczącej tych towarów.
+
+**Art. 38d.** (uchylony)
+
+**Art. 38e.**
+
+1. Towarowy dom maklerski może nabywać towary giełdowe we własnym imieniu i na własny rachunek.
+
+2. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, inne niż określone w ust. 1 czynności:
+
+- **1)** których wykonywanie przez towarowy dom maklerski nie wymaga uzyskania zezwolenia, o ile czynności te są związane z obrotem towarowym,
+- **2)** które mogą być wykonywane przez towarowy dom maklerski po uzyskaniu zezwolenia Komisji – ustalając zakres i warunki wykonywania tych czynności. Rozporządzenie powinno uwzględniać zapewnienie bezpieczeństwa obrotu towarami giełdowymi oraz należyte zabezpieczenie interesów klientów.
+
+**Art. 38f.**
+
+1. Towarowy dom maklerski może wykonywać wyłącznie czynności określone w zezwoleniu oraz czynności, o których mowa w art. 38e.
+
+2. Towarowy dom maklerski może prowadzić działalność dotyczącą hurtowych produktów energetycznych, polegającą na:
+
+- **1)** nabywaniu lub zbywaniu hurtowych produktów energetycznych na rachunek własny;
+- **2)** wykonywaniu zleceń nabycia lub zbycia hurtowych produktów energetycznych, w tym dokonywaniu rozliczeń transakcji – pod warunkiem posiadania zezwolenia na wykonywanie działalności, o której mowa w art. 38 ust. 2 pkt 2;
+- **3)** doradztwie w zakresie obrotu hurtowymi produktami energetycznymi – pod warunkiem posiadania zezwolenia na wykonywanie działalności, o której mowa w art. 38 ust. 2 pkt 4;
+- **4)** prowadzeniu rachunków lub rejestrów hurtowych produktów energetycznych – pod warunkiem posiadania zezwolenia na wykonywanie działalności, o której mowa w art. 38 ust. 2 pkt 3.
+
+3. Do działalności, o której mowa w ust. 2, przepisy art. 73 ust. 4–5e i 5g–6a, art. 73a ust. 5, art. 83a ust. 3a–3c, art. 83b ust. 7 oraz art. 83c ust. 1 i 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi stosuje się odpowiednio.
+
+**Art. 38g.**
+
+1. Towarowy dom maklerski deponuje środki pieniężne powierzone mu w związku ze świadczeniem przez niego usług brokerskich, w sposób umożliwiający wyodrębnienie tych środków pieniężnych od jego własnych środków oraz ustalenie wysokości roszczeń o ich zwrot.
+
+2. W przypadku wszczęcia postępowania egzekucyjnego przeciwko towarowemu domowi maklerskiemu środki pieniężne powierzone mu w związku ze świadczeniem przez niego usług brokerskich nie podlegają zajęciu.
+
+3. W przypadku ogłoszenia upadłości towarowego domu maklerskiego środki pieniężne powierzone mu w związku ze świadczeniem przez niego usług brokerskich podlegają wyłączeniu z masy upadłości.
+
+4. Przepisy ust. 2 i 3 nie naruszają przepisów gwarantujących rozliczenie i rozrachunek zawartych transakcji.
+
+5. Towarowy dom maklerski nie może wykorzystywać na własny rachunek środków pieniężnych powierzonych mu w związku ze świadczeniem przez niego usług brokerskich.
+
+6. Przepisu ust. 5 nie stosuje się w przypadku, gdy wykonanie zlecenia wymaga ustanowienia przez towarowy dom maklerski zabezpieczenia w środkach pieniężnych.
+
+7. Zasady oprocentowania środków pieniężnych powierzonych towarowemu domowi maklerskiemu w związku ze świadczeniem przez niego usług brokerskich określa umowa o prowadzenie rachunku pieniężnego, o której mowa w art. 38b ust. 6.
 
 **Art. 39.**
 
-1. Wniosek oudzielenie zezwolenia na prowadzenie działalności maklerskiej powinien zawierać:
+1. Wniosek o udzielenie zezwolenia na prowadzenie działalności maklerskiej powinien zawierać:
 
-- **1)** dane osobowe (imiona, nazwiska, daty urodzenia, miejsca urodzenia oraz adresy zamieszkania) członków zarządu, rady nadzorczej, komisji rewizyjnej, o ile jest przewidziana, jak również innych osób, które odpowiadają za rozpoczęcie przez spółkę działalności maklerskiej lub będą nią kierować, ich kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej,
-- **2)** listę akcjonariuszy wraz z procentowym określeniem posiadanych przez nich głosów w walnym zgromadzeniu,
-- **3)** informację opodmiotach dominujących izależnych wobec wnioskodawcy,
-- **4)** zakres czynności, które wnioskodawca zamierza wykonywać,
-- **5)** określenie rodzajów towarów giełdowych, które będą przedmiotem czynności, o których mowa wpkt 4,
-- **6)** określenie giełdy lub giełd, na których wnioskodawca zamierza prowadzić działalność maklerską,
-- **7)** informację o wysokości kapitału własnego, ze wskazaniem êródeł jego pochodzenia,
-- **8)** analizę ekonomiczno-finansową możliwości prowadzenia działalności maklerskiej przez pierwsze trzy lata,
-- **9)** oświadczenia osób, które będą kierować działalnością maklerską, o niekaralności za przestępstwa określone wart. 27 ust. 1 pkt 3,
-- **10)** informacje oplanowanej organizacji spółki,
-- **11)** informacje oposiadanych urządzeniach telekomunikacyjnych iwarunkach lokalowych,
-- **12)** informacje opoprzednio prowadzonej przez wnioskodawcę działalności gospodarczej iprzyczynach zaprzestania tej działalności,
-- **13)** opis dotychczasowej iobecnej działalności gospodarczej akcjonariuszy posiadających co najmniej 5% głosów na walnym zgromadzeniu wnioskodawcy.
+- **1)** dane osobowe (imiona, nazwiska, daty urodzenia, miejsca urodzenia oraz adresy zamieszkania) członków zarządu, rady nadzorczej, komisji rewizyjnej, o ile jest przewidziana, jak również innych osób, które odpowiadają za rozpoczęcie przez spółkę działalności maklerskiej lub będą nią kierować, ich kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej;
+- **2)** listę wspólników albo akcjonariuszy wraz z procentowym określeniem posiadanych przez nich głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu;
+- **3)** informację o podmiotach dominujących i zależnych wobec wnioskodawcy;
+- **4)** zakres czynności, które wnioskodawca zamierza wykonywać;
+- **5)** określenie rodzajów towarów giełdowych lub innych instrumentów, które będą przedmiotem czynności, o których mowa w pkt 4;
+- **6)** określenie giełdy lub giełd, na których wnioskodawca zamierza prowadzić działalność maklerską;
+- **6a)** określenie zorganizowanej platformy obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, na której wnioskodawca zamierza prowadzić działalność;
+- **7)** informację o wysokości kapitału własnego, ze wskazaniem źródeł jego pochodzenia;
+- **8)** analizę ekonomiczno-finansową możliwości prowadzenia działalności maklerskiej przez pierwsze trzy lata;
+- **9)** oświadczenia osób, które będą kierować działalnością maklerską lub działalnością dotyczącą hurtowych produktów energetycznych, o niekaralności za przestępstwa lub wykroczenia określone w art. 41a ust. 1 pkt 4;
+- **10)** informacje o planowanej organizacji spółki;
+- **11)** informacje o posiadanych urządzeniach telekomunikacyjnych i warunkach lokalowych;
+- **12)** informacje o poprzednio prowadzonej przez wnioskodawcę działalności gospodarczej i przyczynach zaprzestania tej działalności;
+- **13)** w przypadku wspólników albo akcjonariuszy będących osobami fizycznymi, posiadających co najmniej 5 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub co najmniej 5 % kapitału zakładowego wnioskodawcy – dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej działalności gospodarczej oraz informacje o źródłach pochodzenia środków przeznaczonych na nabycie udziałów albo akcji towarowego domu maklerskiego;
+- **14)** w przypadku wspólników albo akcjonariuszy będących osobami prawnymi, posiadających co najmniej 5 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub co najmniej 5 % kapitału zakładowego spółki będącej wnioskodawcą – informację na temat wykonywanej działalności gospodarczej, zaświadczenie albo oświadczenie o wpisie do właściwego rejestru wraz z numerem wpisu oraz ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, jeżeli badanie jest wymagane przepisami prawa;
+- **15)** informację o podmiotach dominujących i zależnych wobec wspólników albo akcjonariuszy posiadających co najmniej 5 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub 5 % kapitału zakładowego spółki będącej wnioskodawcą obejmującą wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu lub miejsca zamieszkania oraz opisu prowadzonej działalności gospodarczej.
+
+1a. Oświadczenie, o którym mowa w ust. 1 pkt 14, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 2. Do wniosku dołącza się:
 
-- **1)** statut spółki iwyciąg zrejestru przedsiębiorców,
-- **2)** regulaminy określające sposób wykonywania czyn3) regulamin organizacyjny oraz regulamin kontroli wewnętrznej,
-- **4)** listę maklerów giełd towarowych, którzy będą zatrudnieni przy wykonywaniu czynności, o których mowa wust. 1 pkt 4,
-- **5)** ostatnie sprawozdanie finansowe wraz z opinią podmiotu uprawnionego do badania sprawozdań finansowych oraz raportem z badania, w przypadku gdy wnioskodawca wchwili składania wniosku prowadzi działalność winnej dziedzinie lub prowadził ją przed złożeniem wniosku,
-- **6)** listę maklerów papierów wartościowych, którzy będą zatrudnieni przy wykonywaniu czynności, októrych mowa wart. 38 ust. 2,wprzypadku gdy wnioskodawca ubiega się owykonywanie tych czynności.
+- **1)** umowę spółki albo statut spółki oraz wyciąg z rejestru przedsiębiorców;
+- **2)** regulaminy określające sposób wykonywania czynności, o których mowa w ust. 1 pkt 4;
+- **3)** regulamin organizacyjny oraz regulamin kontroli wewnętrznej;
+- **3a)** regulamin nadzoru zgodności działalności z prawem;
+- **3b)** regulamin ochrony przepływu informacji stanowiących tajemnicę zawodową oraz procedury wewnętrzne zapobiegające wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł;
+- **3c)** regulamin zarządzania konfliktami interesów;
+- **4)** listę osób, które będą zatrudnione do wykonywania czynności, o których mowa w art. 38 ust. 2 i art. 38e, zawierającą imiona i nazwiska, daty i miejsca urodzenia, miejsca zamieszkania i numery PESEL tych osób, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+- **5)** ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, w przypadku gdy wnioskodawca w chwili składania wniosku prowadzi działalność w innej dziedzinie lub prowadził ją przed złożeniem wniosku;
+- **6)** (uchylony)
+- **7)** regulacje wewnętrzne, o których mowa w art. 41a ust. 3.
 
-3. W celu ustalenia, czy wnioskodawca daje rękojmię należytego wykonywania działalności maklerskiej, Komisja może żądać przedstawienia innych danych dotyczących sytuacji finansowej i prawnej wnioskodawcy lub jego akcjonariuszy posiadających co najmniej 5% głosów na walnym zgromadzeniu.
+3. W przypadku powstania uzasadnionych wątpliwości, czy wnioskodawca będzie przestrzegać zasad uczciwego obrotu i prowadzić działalność w sposób należycie zabezpieczający interesy klientów, Komisja może, w zakresie niezbędnym do sprawdzenia faktów podanych we wniosku, żądać przedstawienia innych informacji dotyczących sytuacji finansowej i prawnej wnioskodawcy lub jego wspólników albo akcjonariuszy posiadających co najmniej 5 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu.
 
 **Art. 40.**
 
-1. Komisja, z zastrzeżeniem ust. 2, rozpoznaje wniosek ozezwolenie na prowadzenie działalności maklerskiej wterminie 2 miesięcy od dnia jego złożenia.
+1. Komisja, z zastrzeżeniem ust. 2, rozpoznaje wniosek o zezwolenie na prowadzenie działalności maklerskiej w terminie 2 miesięcy od dnia jego złożenia.
 
 2. W przypadku gdy Komisja zażąda przedstawienia dodatkowych danych, o których mowa w art. 39 ust. 3, do terminu 2 miesięcy nie wlicza się okresów oczekiwania na przedstawienie dodatkowych danych.
 
 3. Zezwolenie zawiera:
 
-- **1)** firmę, siedzibę oraz adres towarowego domu maklerskiego,
-- **2)** dozwolone czynności oraz wymaganą do ich wykonywania liczbę maklerów giełd towarowych,
-- **3)** minimalną wysokość środków własnych, ustaloną zgodnie zodrębnymi przepisami,
-- **4)** termin rozpoczęcia działalności maklerskiej,
+- **1)** firmę, siedzibę oraz adres towarowego domu maklerskiego;
+- **2)** wskazanie czynności, na wykonywanie których jest udzielone zezwolenie;
+- **3)** minimalną wysokość środków własnych, ustaloną zgodnie z odrębnymi przepisami;
+- **4)** termin rozpoczęcia działalności maklerskiej;
 - **5)** określenie warunków technicznych i organizacyjnych, wymaganych do prowadzenia działalności przez towarowy dom maklerski.
 
-4. Towarowy dom maklerski posiadający zezwolenie na prowadzenie działalności maklerskiej obowiązany jest zatrudniać maklerów wliczbie nie mniejszej niż wskazana wzezwoleniu.
+4. (uchylony)
 
-**Art. 41.** Komisja wydaje decyzję odmawiającą zezwolenia wprzypadku, gdy wniosek owydanie zezwolenia nie spełnia warunków określonych w art. 39 lub gdy z przedstawionych danych wynika, że spółka nie daje rękojmi należytego wykonywania działalności.
+**Art. 41.** Komisja wydaje decyzję odmawiającą zezwolenia w przypadku, gdy:
 
-**Art. 42.** ności, októrych mowa wust. 1 pkt 4, 1. Upoważniony przedstawiciel Komisji ma prawo wstępu do siedziby towarowego domu maklerskiego ido jego lokalu oraz wglądu do ksiąg, dokumentów iinnych nośników informacji. 2. Na żądanie Komisji lub jej upoważnionego przedstawiciela towarowy dom maklerski jest obowiązany do niezwłocznego sporządzenia iprzekazania kopii dokumentów iinnych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień. 3. W razie powzięcia wątpliwości co do prawidłowości lub rzetelności sprawozdań finansowych albo innych informacji finansowych, których obowiązek sporządzenia wynika z odrębnych przepisów, lub prawidłowości prowadzenia ksiąg rachunkowych, Komisja może zlecić kontrolę tych sprawozdań, informacji i ksiąg rachunkowych podmiotowi uprawnionemu do badania sprawozdań finansowych. W przypadku gdy kontrola wykaże, że wątpliwości były uzasadnione, towarowy dom maklerski zwraca Komisji koszty przeprowadzenia kontroli.
+**Art. 41a.**
+
+1. Towarowy dom maklerski posiadający zezwolenie na prowadzenie działalności maklerskiej jest obowiązany zatrudniać do wykonywania czynności, o których mowa w art. 38 ust. 2 i art. 38e, osoby, które:
+
+- **1)** dają rękojmię należytego wykonywania obowiązków, w szczególności mają odpowiednią wiedzę, kwalifikacje, umiejętności i doświadczenie,
+- **2)** mają pełną zdolność do czynności prawnych,
+- **3)** korzystają z pełni praw publicznych,
+- **4)** nie były uznane prawomocnym orzeczeniem za winne przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwa lub wykroczenia określonego w art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170), przestępstwa określonego w ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, przestępstwa określonego w ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym lub przestępstwa określonego w niniejszej ustawie – w liczbie odpowiedniej do rodzaju i rozmiaru prowadzonej działalności oraz wewnętrznej struktury organizacyjnej.
+
+2. Pełnia praw publicznych osoby niemającej obywatelstwa polskiego jest oceniana według prawa państwa, którego obywatelstwo ma dana osoba.
+
+3. Towarowy dom maklerski jest obowiązany wprowadzić i stosować regulacje wewnętrzne określające sposób weryfikacji spełniania wymogów określonych w ust. 1 przez osoby wykonujące czynności określone w art. 38 ust. 2 i art. 38e. Weryfikację potwierdza odpowiedni dokument określony w tych regulacjach.
+
+4. Osoby, o których mowa w ust. 1, powinny władać językiem polskim w stopniu niezbędnym do wykonywania czynności, o których mowa w art. 38 ust. 2 i art. 38e.
+
+**Art. 41b.**
+
+1. Z zastrzeżeniem ust. 2 i 3, środki własne na prowadzenie przez towarowy dom maklerski działalności maklerskiej wynoszą nie mniej niż 500 000 zł.
+
+2. Wymogu, o którym mowa w ust. 1, nie stosuje się, jeżeli towarowy dom maklerski prowadzi działalność maklerską wyłącznie w zakresie obrotu towarami giełdowymi, o których mowa w art. 2 pkt 2 lit. a.
+
+3. Środki własne na prowadzenie działalności maklerskiej przez towarowy dom maklerski, który nie prowadzi rachunków pieniężnych oraz rachunków lub rejestrów towarów giełdowych ani nie przyjmuje środków pieniężnych od klientów, wynoszą nie mniej niż 250 000 zł.
+
+**Art. 42.**
+
+1. Upoważniony przedstawiciel Komisji ma prawo wstępu do siedziby towarowego domu maklerskiego i do jego lokalu oraz wglądu do ksiąg, dokumentów i innych nośników informacji.
+
+2. Na żądanie Komisji lub jej upoważnionego przedstawiciela towarowy dom maklerski jest obowiązany do niezwłocznego sporządzenia i przekazania kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień.
+
+3. W razie powzięcia wątpliwości co do prawidłowości lub rzetelności sprawozdań finansowych albo innych informacji finansowych, których obowiązek sporządzenia wynika z odrębnych przepisów, lub prawidłowości prowadzenia ksiąg rachunkowych, Komisja może zlecić kontrolę tych sprawozdań, informacji i ksiąg rachunkowych firmie audytorskiej. W przypadku gdy kontrola wykaże, że wątpliwości były uzasadnione, towarowy dom maklerski zwraca Komisji koszty przeprowadzenia kontroli.
 
 **Art. 43.**
 
-1. Wprzypadku gdy towarowy dom maklerski narusza przepisy prawa, nie wypełnia warunków określonych wzezwoleniu, przekracza zakres zezwolenia, nie przestrzega zasad uczciwego obrotu lub narusza interesy zleceniodawcy, Komisja może podjąć decyzję o:
+1. W przypadku gdy towarowy dom maklerski narusza przepisy prawa, nie wypełnia warunków określonych w zezwoleniu, przekracza zakres zezwolenia, nie przestrzega zasad uczciwego obrotu lub narusza interesy klientów, Komisja może podjąć decyzję o:
 
 - **1)** cofnięciu zezwolenia albo ograniczeniu zakresu dozwolonych czynności, albo
 - **2)** nałożeniu kary pieniężnej do wysokości 500 000 zł, albo
-- **3)** zastosowaniu jednej z sankcji, o których mowa w pkt 1, i jednocześnie nałożeniu kary pieniężnej, októrej mowa wpkt 2.
+- **3)** zastosowaniu jednej z sankcji, o których mowa w pkt 1, i jednocześnie nałożeniu kary pieniężnej, o której mowa w pkt 2.
 
 2. Wydanie decyzji następuje po przeprowadzeniu rozprawy. Komisja może nadać decyzji rygor natychmiastowej wykonalności.
 
-3. Decyzja podlega ogłoszeniu wDzienniku Urzędowym Komisji Papierów Wartościowych i Giełd. Komisja może nakazać jej ogłoszenie w2 dziennikach ogólnopolskich na koszt towarowego domu maklerskiego.
+3. Decyzja podlega ogłoszeniu w Dzienniku Urzędowym Komisji Nadzoru Finansowego. Komisja może nakazać jej ogłoszenie w 2 dziennikach ogólnopolskich na koszt towarowego domu maklerskiego.
 
 **Art. 44.**
 
-1. Zezwolenie wygasa z dniem otwarcia likwidacji lub z dniem ogłoszenia upadłości towarowego domu maklerskiego.
+1. Zezwolenie wygasa z dniem otwarcia likwidacji lub z dniem ogłoszenia upadłości towarowego domu maklerskiego, a także w przypadku nierozpoczęcia przez towarowy dom maklerski prowadzenia działalności w terminie, o którym mowa w art. 40 ust. 3 pkt 4.
 
-2. Wpostępowaniu likwidacyjnym lub upadłościowym, jak również w przypadku cofnięcia zezwolenia, przepis art. 42 stosuje się odpowiednio.
+2. W postępowaniu likwidacyjnym lub upadłościowym, jak również w przypadku cofnięcia zezwolenia, przepis art. 42 stosuje się odpowiednio.
 
-3. Do czasu zakończenia likwidacji albo w przypadku cofnięcia zezwolenia do czasu zaprzestania prowadzenia działalności towarowy dom maklerski wykonuje wyłącznie czynności wynikające zjuż zawartych umów w obrocie towarami giełdowymi bez możliwości zawierania nowych umów,chyba że jest to niezbędne do realizacji umów już zawartych.
+3. Do czasu zakończenia likwidacji albo – w przypadku cofnięcia zezwolenia – do czasu zaprzestania prowadzenia działalności towarowy dom maklerski wykonuje wyłącznie czynności wynikające z już zawartych umów w obrocie towarami giełdowymi – bez możliwości zawierania nowych umów, chyba że jest to niezbędne do realizacji umów już zawartych.
 
-4. Wprzypadku wygaśnięcia zezwolenia lub cofnięcia zezwolenia Komisja może nakazać przeniesienie zprowadzeniem działalności maklerskiej, wtym związanych zprzechowywaniem tych środków iprowadzeniem ewidencji towarów giełdowych, do innego towarowego domu maklerskiego, który uprzednio wyraził na to zgodę. W innym przypadku do postępowania z dokumentami związanymi z prowadzeniem działalności maklerskiej stosuje się art. 476 § 3 Kodeksu spółek handlowych. Właściwy sąd niezwłocznie zawiadamia Komisję owyznaczonym przechowawcy.
+4. W przypadku wygaśnięcia lub cofnięcia zezwolenia, Komisja może nakazać przeniesienie środków pieniężnych, rachunków lub rejestrów towarów giełdowych, a także innych dokumentów związanych ze świadczeniem usług przez towarowy dom maklerski, do innego towarowego domu maklerskiego, który uprzednio wyraził na to zgodę. W innym przypadku do postępowania z dokumentami związanymi z prowadzeniem działalności maklerskiej stosuje się art. 288 § 3 albo art. 476 § 3 Kodeksu spółek handlowych. Właściwy sąd niezwłocznie zawiadamia Komisję o wyznaczonym przechowawcy.
 
 **Art. 45.**
 
-1. Spółka, która zaprzestała prowadzenia działalności maklerskiej, ma obowiązek archiwizowania i przechowywania, przez okres 5 lat, dokumentów oraz innych nośników informacji związanych zprowadzeniem tej działalności.
+1. Spółka, która zaprzestała prowadzenia działalności maklerskiej, ma obowiązek archiwizowania i przechowywania, przez okres 5 lat, dokumentów oraz innych nośników informacji związanych z prowadzeniem tej działalności.
 
-2. Upoważniony przedstawiciel Komisji ma prawo wstępu do siedziby lub lokalu podmiotu przechowującego dokumenty iinne nośniki informacji celem wglądu do tych dokumentów inośników.
+2. Upoważniony przedstawiciel Komisji ma prawo wstępu do siedziby lub lokalu podmiotu przechowującego dokumenty i inne nośniki informacji celem wglądu do tych dokumentów i nośników.
 
-3. Na pisemne żądanie Komisji lub jej upoważniośrodków pieniężnych oraz dokumentów związanych nego przedstawiciela podmiot przechowujący dokumenty jest obowiązany do niezwłocznego sporządzenia iprzekazania kopii tych dokumentów.
+3. Na pisemne żądanie Komisji lub jej upoważnionego przedstawiciela podmiot przechowujący dokumenty jest obowiązany do niezwłocznego sporządzenia i przekazania kopii tych dokumentów.
 
 **Art. 46.** Towarowy dom maklerski jest obowiązany niezwłocznie informować Komisję o:
 
-**Art. 47.**
-
-1. Zakazane jest:
-
-- **1)** posiadanie akcji więcej niż jednego towarowego domu maklerskiego,
-- **2)** posiadanie przez towarowy dom maklerski akcji innego towarowego domu maklerskiego.
-
-2. Naruszenie zakazu określonego wust. 1 powoduje obowiązek zbycia wciągu 6 miesięcy, licząc od dnia dokonania takiego naruszenia, akcji jednego ztowarowych domów maklerskich. Do czasu zbycia akcji nie można wykonywać prawa głosu zposiadanych akcji.
-
-3. Nie stanowi naruszenia zakazu określonego wust. 1:
-
-- **1)** nabycie lub objęcie akcji dokonywane wprzypadku łączenia się towarowych domów maklerskich,
-- **2)** nabycie lub objęcie dopuszczonych do publicznego obrotu akcji towarowego domu maklerskiego, oile podmiotem nabywającym nie jest towarowy dom maklerski.
+**Art. 47.** (uchylony)
 
 **Art. 48.**
 
-1. Nabycie lub objęcie akcji towarowego domu maklerskiego w liczbie, która spowoduje osiągnięcie lub przekroczenie 10%, 20%, 33% lub 50% głosów na walnym zgromadzeniu, wymaga zgody Komisji, przy czym nabycie lub objęcie akcji przez podmiot zależny uważa się za nabycie lub objęcie przez podmiot dominujący, a nabycie (objęcie) lub posiadanie akcji przez podmiot dominujący uważa się za nabycie (objęcie) lub posiadanie przez podmiot zależny.
+1. Nabycie lub objęcie udziałów lub akcji towarowego domu maklerskiego w liczbie, która spowoduje osiągnięcie lub przekroczenie 10 %, 20 %, 33 % lub 50 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, wymaga zgody Komisji, przy czym nabycie lub posiadanie udziałów lub akcji przez podmiot zależny uważa się za nabycie lub posiadanie przez podmiot dominujący, a nabycie lub posiadanie udziałów lub akcji przez podmiot dominujący uważa się za nabycie lub posiadanie przez podmiot zależny.
 
-2. Komisja nie udziela zgody, jeżeli według jej oceny podmiot zamierzający nabyć lub objąć akcje nie daje rękojmi prowadzenia działalności przez towarowy dom maklerski wsposób należyty.
+2. Komisja nie udziela zgody, jeżeli w jej ocenie podmiot zamierzający nabyć udziały albo akcje nie zapewnia wykonywania prawa głosu w sposób należycie zabezpieczający interesy uczestników obrotu towarami giełdowymi lub przestrzegania przez towarowy dom maklerski zasad uczciwego obrotu.
 
-3. Obowiązek uzyskania zgody Komisji, o którym mowa wust. 1, nie dotyczy nabycia akcji towarowego domu maklerskiego wdrodze dziedziczenia.
+3. Obowiązek uzyskania zgody Komisji, o którym mowa w ust. 1, nie dotyczy nabycia udziałów albo akcji towarowego domu maklerskiego w drodze dziedziczenia.
 
 **Art. 49.**
 
-1. Towarowe domy maklerskie, wliczbie co najmniej 15, mogą utworzyć, na zasadach określonych w odrębnej ustawie, izbę gospodarczą, zwaną dalej Ńizbą”.
+1. Towarowe domy maklerskie, w liczbie co najmniej 15, mogą utworzyć, na zasadach określonych w odrębnej ustawie, izbę gospodarczą, zwaną dalej „izbą”.
 
-2. Do obowiązków izby należy, w szczególności, określanie i kodyfikacja zasad uczciwego obrotu oraz przyjętych wobrocie zwyczajów.
+2. Do obowiązków izby należy, w szczególności, określanie i kodyfikacja zasad uczciwego obrotu oraz przyjętych w obrocie zwyczajów.
 
 3. Organizację władz izby, tryb ich powoływania, zakres kompetencji oraz zadania izby określa statut izby.
 
 **Art. 50.**
 
-1. O ile umowy międzynarodowe ratyfikowane przez Rzeczpospolitą Polską nie stanowią inaczej, zagraniczna osoba prawna prowadząca działalność maklerską w obcym państwie może prowadzić taką działalność na terytorium Rzeczypospolitej Polskiej wformie oddziału.
+1. O ile umowy międzynarodowe ratyfikowane przez Rzeczpospolitą Polską nie stanowią inaczej, zagraniczna osoba prawna prowadząca działalność maklerską w zakresie obrotu towarami giełdowymi w państwie będącym członkiem Unii Europejskiej może prowadzić taką działalność na terytorium Rzeczypospolitej Polskiej w formie oddziału.
 
-2. O ile umowy międzynarodowe ratyfikowane przez Rzeczpospolitą Polską nie stanowią inaczej, doradztwo w zakresie obrotu towarami giełdowymi może być wykonywane na terytorium Rzeczypospolitej Polskiej przez zagraniczne osoby prawne świadczące usługi o tym samym charakterze w obcym państwie, bez zachowania warunku określonego wust. 1.
+2. O ile umowy międzynarodowe ratyfikowane przez Rzeczpospolitą Polską nie stanowią inaczej, doradztwo w zakresie obrotu towarami giełdowymi może być wykonywane na terytorium Rzeczypospolitej Polskiej przez zagraniczne osoby prawne świadczące usługi o tym samym charakterze w obcym państwie, bez zachowania warunku określonego w ust. 1.
 
 3. Z wnioskiem o wydanie zezwolenia na prowadzenie działalności na terytorium Rzeczypospolitej Polskiej przez oddział zagranicznej osoby prawnej występuje organ zarządzający zagranicznej osoby prawnej.
 
-4. Do oddziału zagranicznej osoby prawnej, o której mowa wust. 1, stosuje się przepisy art. 37 ust. 5 i6, art. 38—46 iart. 49—52.
+4. Do oddziału zagranicznej osoby prawnej, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 37 ust. 6, art. 38–46, art. 49 i art. 52.
 
-**Art. 51.**
+**Art. 50a.**
 
-1. Towarowy dom maklerski zobowiązuje się wobec dającego zlecenie do sprzedaży lub zakupu towarów giełdowych w imieniu własnym, lecz na raodpowiada wobec dającego zlecenie za wykonanie zobowiązania wynikającego ztransakcji giełdowej.
+1. Działalność maklerska, o której mowa w art. 38 ust. 2 pkt 2 i 4, w zakresie obrotu towarami giełdowymi, o których mowa w art. 2 pkt 2 lit. a, może być prowadzona także przez niebędące towarowymi domami maklerskimi spółki handlowe.
 
-2. Umowa oświadczenie usług maklerskich powinna zostać zawarta wformie pisemnej pod rygorem nieważności.
+2. Spółki handlowe, o których mowa w ust. 1, mogą w obrocie giełdowym nabywać na rachunek własny towary giełdowe, o których mowa w art. 2 pkt 2 lit. a.
 
-3. W zakresie nie uregulowanym w ust. 1 i 2 do umowy:
+3. Spółki handlowe, o których mowa w ust. 1, mogą także zawierać z klientami, w imieniu zleceniodawców, umowy dotyczące towarów giełdowych, o których mowa w art. 2 pkt 2 lit. a, na zasadach określonych w art. 758–764 Kodeksu cywilnego, z zastrzeżeniem ust. 5.
 
-- **1)** oświadczenie usług maklerskich stosuje się odpowiednio przepisy Kodeksu cywilnego dotyczące umowy zlecenia, zwyłączeniem art. 737,
-- **2)** zlecenia nabycia lub zbycia towarów giełdowych stosuje się odpowiednio przepisy Kodeksu cywilnego dotyczące umowy komisu, z wyłączeniem art.768 § 3.
+4. Jeżeli regulamin giełdy tak stanowi, spółki handlowe, o których mowa w ust. 1, mogą pośredniczyć na rzecz zleceniodawców przy zawieraniu z klientami umów dotyczących towarów giełdowych, o których mowa w art. 2 pkt 2 lit. a, na zasadach określonych w art. 758–764 Kodeksu cywilnego, z zastrzeżeniem ust. 5.
 
-4. W granicach określonych w zezwoleniu na prowadzenie działalności maklerskiej towarowy dom maklerski może nabywać towary giełdowe we własnym imieniu ina własny rachunek celem dalszej odsprzedachunek dającego zlecenie. Towarowy dom maklerski ży.
+5. Zleceniodawcą może być również podmiot niebędący przedsiębiorcą.
 
-5. Jeżeli umowa o świadczenie usług maklerskich lub regulamin giełdy tak stanowi, oświadczenia woli składane w związku z dokonywaniem czynności maklerskich mogą być składane za pomocą elektronicznych nośników informacji, a dokumenty dotyczące czynności maklerskich mogą być sporządzone w formie elektronicznych nośników informacji, jeżeli dokumenty te zostaną wsposób należyty utrwalone izabezpieczone. Jeżeli ustawa zastrzega dla czynności prawnej formę pisemną, uznaje się, że czynność dokonana wformie, októrej mowa wzdaniu pierwszym, spełnia wymagania formy pisemnej.
+**Art. 50b.**
+
+1. Podmioty, o których mowa w art. 9 ust. 3 pkt 4, mogą zawierać na giełdzie, we własnym imieniu, transakcje, których przedmiotem są towary giełdowe będące określonymi rodzajami energii, paliwami gazowymi, wodorem lub prawami majątkowymi, o których mowa w art. 2 pkt 2 lit. d i f, pod warunkiem:
+
+- **1)** zawarcia z towarowym domem maklerskim lub domem maklerskim, będącymi członkami giełdowej izby rozrachunkowej, umowy o rozliczanie transakcji albo
+- **2)** członkostwa w giełdowej izbie rozrachunkowej.
+
+2. W przypadku zawarcia umowy o rozliczenie transakcji, o której mowa w ust. 1 pkt 1, transakcje zawierane przez podmioty, o których mowa w art. 9 ust. 3 pkt 4, będą rozliczane przez będący członkiem danej giełdy towarowy dom maklerski lub dom maklerski albo przez będący członkiem giełdowej izby rozrachunkowej towarowy dom maklerski lub dom maklerski, który na podstawie tej umowy będzie gwarantować wywiązywanie się przez te podmioty z wszelkich zobowiązań z tytułu zawieranych transakcji giełdowych lub transakcji zawieranych w obrocie transgranicznym.
+
+3. (uchylony)
+
+4. (uchylony)
+
+5. (uchylony)
+
+6. (uchylony)
+
+7. (uchylony)
+
+8. (uchylony)
+
+9. (uchylony)
+
+**Art. 50c.**
+
+1. Ogłoszenie upadłości, otwarcie postępowania restrukturyzacyjnego, wszczęcie postępowania egzekucyjnego lub zabezpieczającego lub wydanie innego orzeczenia lub decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności:
+
+- **1)** członka giełdowej izby rozrachunkowej prowadzonej przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub
+- **2)** członka innej giełdowej izby rozrachunkowej lub spółki pełniącej taką funkcję na podstawie obowiązujących przepisów – skutkujących zawieszeniem lub ograniczeniem dokonywania przez niego spłaty zadłużenia albo ograniczających jego zdolność swobodnego rozporządzania mieniem, nie wywołuje skutków prawnych wobec środków znajdujących się na rachunku pieniężnym, rachunku bankowym lub ewidencji towarów giełdowych, służących do realizacji zobowiązań tego członka wynikających z rozliczeń transakcji w Krajowym Depozycie, spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, albo giełdowej izbie rozrachunkowej lub spółce pełniącej taką funkcję na podstawie obowiązujących przepisów, w zakresie, w jakim środki te są potrzebne do realizacji tych zobowiązań, chociażby postępowanie zostało wszczęte albo inne orzeczenie lub decyzja zostały wydane przed ich zrealizowaniem.
+
+2. W celu doprowadzenia do wykonania zobowiązań określonych w ust. 1 Krajowy Depozyt, spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, giełdowa izba rozrachunkowa lub spółka pełniąca taką funkcję na podstawie obowiązujących przepisów są uprawnione do dysponowania środkami członka izby, o których mowa w ust. 1.
+
+3. Środki prawne, o których mowa w ust. 1, nie wywołują skutków prawnych wobec przedmiotu zabezpieczenia ustanowionego na zasadach określonych w regulaminach, o których mowa w art. 16 ust. 1 lub art. 18 ust. 4, przez członka giełdowej izby rozrachunkowej na rzecz Krajowego Depozytu, spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub giełdowej izby rozrachunkowej, jak również nie mają wpływu na uprawnienia tych podmiotów wynikające z ustanowienia takiego zabezpieczenia.
+
+**Art. 51.** (uchylony)
+
+**Art. 51a.**
+
+1. Podmioty nadzorowane, o których mowa w art. 5 pkt 1, 2, 12 i 13 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, są obowiązane do niezwłocznego, jednak niepóźniej niż w terminie czterech tygodni od dnia, w którym podmioty te powzięły informację o wystąpieniu podejrzanego zdarzenia, przekazania Prezesowi Urzędu Regulacji Energetyki i Agencji do spraw Współpracy Organów Regulacji Energetyki informacji o każdym uzasadnionym podejrzeniu manipulacji na rynku lub próby manipulacji na rynku, zawierającej:
+
+- **1)** szczegółowe dane dotyczące podejrzanej transakcji, ze wskazaniem:
+    - **a)** towaru giełdowego w rozumieniu art. 2 pkt 2, będącego przedmiotem transakcji,
+    - **b)** rodzaju transakcji i trybu jej zawarcia,
+    - **c)** daty i miejsca transakcji,
+    - **d)** ceny i wolumenu transakcji,
+    - **e)** rodzaju rynku i systemu notowań towarów giełdowych, których dotyczy transakcja,
+    - **f)** opisu zlecenia dotyczącego towarów giełdowych, których dotyczy transakcja, w tym jego typu i wielkości,
+    - **g)** osoby, która złożyła zlecenie lub zawarła transakcję, z określeniem w szczególności, czy działała ona na rachunek własny czy na rzecz osoby trzeciej;
+
+- **2)** opis powodów uzasadniających podejrzenie;
+- **3)** informacje pozwalające na identyfikację osób, na rachunek których zlecenie zostało złożone lub została zawarta transakcja, oraz innych osób mających związek z zawieraną transakcją;
+- **4)** określenie związku podmiotu nadzorowanego z podejrzaną transakcją i osobami, o których mowa w pkt 3, wynikającego z charakteru wykonywanych przez ten podmiot czynności;
+- **5)** inne informacje, które w ocenie podmiotu nadzorowanego, o którym mowa w art. 5 pkt 1, 2, 12 i 13 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, mogą mieć istotne znaczenie dla weryfikacji podejrzenia;
+- **6)** datę i miejsce sporządzenia informacji oraz podpis osoby przekazującej informację.
+
+2. W przypadku gdy wykonując obowiązek, o którym mowa w ust. 1, podmiot nadzorowany nie posiada wszystkich informacji, przekazuje te informacje, które są mu znane, co najmniej ze wskazaniem powodu powzięcia podejrzenia manipulacji na rynku lub próby manipulacji na rynku. Pozostałe informacje, w których posiadanie podmiot nadzorowany wszedł później, podmiot ten przekazuje niezwłocznie po ich uzyskaniu.
+
+3. Informacje, o których mowa w ust. 1 i 2, mogą być sporządzane i przekazywane przez podmiot nadzorowany pisemnie lub w inny sposób, w szczególności w postaci elektronicznej lub przy użyciu środków porozumiewania się na odległość, z zachowaniem poufności tych informacji. W takim przypadku podmiot nadzorowany, na żądanie Prezesa Urzędu Regulacji Energetyki, przedstawia dokument potwierdzający na piśmie fakt przekazania informacji.
+
+4. Podmiot wykonujący obowiązek, o którym mowa w ust. 1, zarówno o fakcie dokonania zgłoszenia, jak i jego treści, nie może informować podmiotów innych niż Prezes Urzędu Regulacji Energetyki, w szczególności osób, na których rachunek transakcje przeprowadzono, lub podmiotów powiązanych z tymi osobami, z wyłączeniem przypadków, w których obowiązek przekazania tych informacji wynika z przepisów innych ustaw.
+
+5. Podmioty nadzorowane, o których mowa w ust. 1, tworzą i utrzymują skuteczne mechanizmy i procedury mające na celu przeciwdziałanie oraz identyfikację przypadków niezgodnego z prawem wykorzystywania informacji wewnętrznej, manipulacji na rynku lub próby manipulacji na rynku.
+
+6. Do podmiotów, o których mowa w art. 9 ust. 3 pkt 4, stosuje się odpowiednio przepisy ust. 1–5.
 
 **Art. 52.**
 
-1. Rada Ministrów określi, wdrodze rozporządzenia:
+1. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
-- **1)** tryb i warunki postępowania towarowych domów maklerskich przy zawieraniu transakcji i dokonywaniu rozliczeń, przy prowadzeniu ewidencji i archiwizacji tych transakcji, przy ustanawianiu irealizacji zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie towarów giełdowych oraz w przypadku zabezpieczenia wierzytelności na towarach giełdowych; rozporządzenie określi szczegółowy tryb i warunki postępowania, tak aby zapewnić bezpieczeństwo obrotu, wiarygodność izupełność ewidencji, poufność transakcji oraz zapewnić możliwości prawidłowego wykonywania przez Komisję nadzoru nad prawidłowością transakcji irozliczeń,
-- **2)** minimalną wielkość środków własnych towarowego domu maklerskiego oraz warunki zaliczania zobowiązań do kapitałów własnych towarowego domu maklerskiego, w zależności od zakresu zezwolenia i rozmiarów tej działalności, oraz maksymalną wysokość kredytów, pożyczek iwyemitowanych dłużnych papierów wartościowych w stosunku do środków własnych; rozporządzenie powinno określić wielkość środków własnych towarowego domu maklerskiego, tak aby zapewnić pewność obrotu iwywiązanie się towarowego domu maklerskiego z podjętych zobowiązań wobec dających zlecenia,
-- **3)** zakres, tryb oraz terminy dostarczania innych niż wymienione wart. 39 ust. 1 i2 informacji dotyczących działalności isytuacji finansowej towarowych domów maklerskich; rozporządzenie powinno określać zakres informacji oraz częstotliwość ich przekazywania, tak aby umożliwić Komisji ocenę sytuacji finansowej i gospodarczej towarowego domu maklerskiego.
+- **1)** tryb i warunki postępowania towarowych domów maklerskich przy zawieraniu transakcji i dokonywaniu rozliczeń, przy prowadzeniu ewidencji i archiwizacji tych transakcji, przy ustanawianiu i realizacji zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie towarów giełdowych oraz w przypadku zabezpieczenia wierzytelności na towarach giełdowych; rozporządzenie określi szczegółowy tryb i warunki postępowania, tak aby zapewnić bezpieczeństwo obrotu, wiarygodność i zupełność ewidencji, poufność transakcji oraz zapewnić możliwości prawidłowego wykonywania przez Komisję nadzoru nad prawidłowością transakcji i rozliczeń;
+- **2)** minimalną wielkość środków własnych towarowego domu maklerskiego oraz warunki zaliczania zobowiązań do kapitałów własnych towarowego domu maklerskiego, w zależności od zakresu zezwolenia i rozmiarów tej działalności, oraz maksymalną wysokość kredytów, pożyczek i wyemitowanych dłużnych papierów wartościowych w stosunku do środków własnych; rozporządzenie powinno określić wielkość środków własnych towarowego domu maklerskiego, tak aby zapewnić pewność obrotu i wywiązanie się towarowego domu maklerskiego z podjętych zobowiązań wobec dających zlecenia;
+- **3)** zakres, tryb oraz terminy dostarczania innych niż wymienione w art. 39 ust. 1 i 2 informacji dotyczących działalności i sytuacji finansowej towarowych domów maklerskich; rozporządzenie powinno określać zakres informacji oraz częstotliwość ich przekazywania, tak aby umożliwić Komisji ocenę sytuacji finansowej i gospodarczej towarowego domu maklerskiego;
+- **4)** tryb postępowania w celu ochrony informacji stanowiących tajemnicę zawodową w towarowych domach maklerskich, a także nadzoru nad przepływem i wykorzystaniem tych informacji; rozporządzenie powinno szczegółowo określać procedurę postępowania, tak aby zapewnić ochronę informacji w towarowych domach maklerskich przed osobami trzecimi oraz umożliwić wykonywanie przez Komisję nadzoru w tym zakresie.
 
-2. Rada Ministrów może określić, w drodze rozporządzenia:
+2. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia:
 
-- **1)** liczbę maklerów wymaganą do wykonywania poszczególnych czynności przez towarowe domy maklerskie, przy uwzględnieniu skali prowadzonej przez nie działalności; rozporządzenie powinno w szczególności uzależniać minimalną liczbę maklerów od rodzaju wykonywanych czynności oraz wielkości planowanych rocznych obrotów towarowego domu maklerskiego,
-- **2)** tryb postępowania w celu ochrony informacji stanowiących tajemnicę zawodową w towarowych domach maklerskich, atakże nadzoru nad przepływem i wykorzystaniem tych informacji; rozporządzenie powinno szczegółowo określać procedurę postępowania, tak aby zapewnić ochronę informacji w towarowych domach maklerskich przed osobami trzecimi oraz umożliwić wykonywanie przez Komisję nadzoru wtym zakresie,
-- **3)** tryb postępowania towarowych domów maklerskich wcelu przeciwdziałania zawieraniu transakcji oraz wykonywaniu innych operacji na rynku towarów giełdowych, z wykorzystaniem środków pieniężnych, co do których ujawniono okoliczności wskazujące, że środki te mogą pochodzić z przestępstwa lub zuczestnictwa wjego popełnieniu albo że ich pochodzenie ma zostać ukryte zprzyczyn związanych z przestępstwem; rozporządzenie powinno określić przypadki, wktórych podmioty te są obowiązane rejestrować operacje finansowe uczestników obrotu, zakres oraz zasady pozyskiwania danych o tych uczestnikach, w celu ustalenia, czy środki pieniężne mogą pochodzić z przestępstwa lub uczestnictwa w jego popełnieniu albo że ich pochodzenie ma zostać ukryte zprzyczyn związanych zprzestępstwem.
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** tryb postępowania towarowych domów maklerskich w celu przeciwdziałania zawieraniu transakcji oraz wykonywaniu innych operacji na rynku towarów giełdowych, z wykorzystaniem środków pieniężnych, co do których ujawniono okoliczności wskazujące, że środki te mogą pochodzić z przestępstwa lub z uczestnictwa w jego popełnieniu albo że ich pochodzenie ma zostać ukryte z przyczyn związanych z przestępstwem; rozporządzenie powinno określić przypadki, w których podmioty te są obowiązane rejestrować operacje finansowe uczestników obrotu, zakres oraz zasady pozyskiwania danych o tych uczestnikach, w celu ustalenia, czy środki pieniężne mogą pochodzić z przestępstwa lub uczestnictwa w jego popełnieniu albo że ich pochodzenie ma zostać ukryte z przyczyn związanych z przestępstwem.
 
-#### Rozdział 8 Tajemnica zawodowa
+#### Rozdział 8 Tajemnica zawodowa oraz prowadzenie listy osób mających dostęp do informacji wewnętrznych
 
 **Art. 53.**
 
 1. Do zachowania tajemnicy zawodowej są obowiązani:
 
-- **1)** Przewodniczący Komisji, jego zastępcy, członkowie Komisji, pracownicy urzędu Komisji i osoby uczestniczące w posiedzeniach Komisji z głosem
-- **2)** maklerzy giełd towarowych,
-- **3)** osoby wchodzące wskład statutowych organów:
+- **1)** (uchylony)
+- **2)** (uchylony) 2a) (uchylony)
+- **3)** osoby wchodzące w skład statutowych organów:
     - **a)** towarowego domu maklerskiego,
     - **b)** spółki prowadzącej giełdę oraz spółki prowadzącej giełdową izbę rozrachunkową,
     - **c)** izby,
-    - **d)** stowarzyszeń maklerów giełd towarowych,
+    - **d)** (uchylona)
+    - **e)** domu maklerskiego,
+    - **f)** zagranicznej osoby prawnej, o której mowa w art. 50 ust. 1,
+    - **g)** spółek handlowych, o których mowa w art. 50a,
+    - **h)** Krajowego Depozytu,
+    - **i)** spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
 
-- **4)** osoby zatrudnione w podmiotach wymienionych w pkt 1 i 3 oraz pozostające z tymi podmiotami w stosunku zlecenia lub w innym stosunku prawnym opodobnym charakterze.
+- **4)** osoby pozostające z podmiotami, o których mowa w pkt 2a i 3, w stosunku pracy, zlecenia lub w innym stosunku prawnym o podobnym charakterze.
 
-2. Obowiązek zachowania tajemnicy zawodowej istnieje również po ustaniu stosunków prawnych, októrych mowa wust. 1 pkt 1, 3 i4.
+2. Obowiązek zachowania tajemnicy zawodowej istnieje również po ustaniu stosunków prawnych, o których mowa w ust. 1 pkt 3 i 4.
 
 **Art. 54.**
 
-1. Nie narusza obowiązku zachowania tajemnicy zawodowej złożenie zawiadomienia o popełdoradczym, nieniu przestępstwa.
+1. Z zastrzeżeniem art. 55–55b, informacje stanowiące tajemnicę zawodową mogą być ujawniane wyłącznie na żądanie:
 
-2. Zwolnienie z obowiązku zachowania tajemnicy zawodowej może również nastąpić w przypadkach określonych winnych ustawach.
+- **1)** sądu lub prokuratora:
+    - **a)** w związku z toczącym się przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej, postępowaniem karnym lub karnym skarbowym albo w związku z wykonaniem wniosku o udzielenie pomocy prawnej, pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udzielenie informacji objętych tajemnicą zawodową,
+    - **b)** w związku z toczącym się postępowaniem karnym lub karnym skarbowym o przestępstwo popełnione w związku z działaniem osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej;
 
-3. Osoba, która wprzypadku wymienionym wust.2 uzyskała informację stanowiącą tajemnicę zawodową,jest obowiązana do zachowania tej informacji wtajemnicy, chyba że na jej ujawnienie zezwala przepis prawa.
+- **2)** sądu – w związku z prowadzonym postępowaniem spadkowym lub o podział majątku między małżonkami albo prowadzoną przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej, sprawą o alimenty lub o rentę o charakterze alimentacyjnym;
+- **3)** organu Krajowej Administracji Skarbowej:
+    - **a)** w związku z toczącym się postępowaniem w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe: – przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej lub – popełnione w zakresie działalności osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej,
+    - **b)** jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. );
 
-4. Prezes Najwyższej Izby Kontroli może zwolnić z obowiązku zachowania tajemnicy zawodowej, jeżeli jest to niezbędne dla ustalenia stanu faktycznego wprowadzonym postępowaniu kontrolnym wzakresie danych dotyczących jednostki kontrolowanej.
+- **4)** Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera – w zakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego w prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki, określonym w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623);
+- **5)** biegłego rewidenta upoważnionego do badania sprawozdań finansowych podmiotu obowiązanego do zachowania tajemnicy zawodowej, na podstawie zawartej z nim umowy – jeżeli jest to niezbędne do celów tego badania;
+- **6)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służbie Ochrony Państwa i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy – w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
+- **7)** Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636 i 718);
+- **7a)** Szefa Agencji Bezpieczeństwa Wewnętrznego, w trybie i na zasadach określonych w art. 34a ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902);
+- **7b)** Żandarmerii Wojskowej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i
+- **179)** ;
+- **7c)** Straży Granicznej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 10c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914);
+- **8)** komornika sądowego – w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza;
+- **8a)** administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009), w zakresie wykonywania ich ustawowych zadań;
+- **9)** Prezesa Urzędu Regulacji Energetyki – w zakresie niezbędnym do kontroli wykonywania przez przedsiębiorstwa energetyczne oraz inne podmioty obowiązków określonych w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **10)** Inspektora Nadzoru Wewnętrznego – jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom lub wykrycia ich sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529).
+- **11)** (uchylony)
 
-**Art. 55.**
+2. Nie narusza obowiązku zachowania tajemnicy zawodowej:
 
-1. W związku z wykonywaniem zadań, o których mowa w art. 22, Komisja lub jej upoważnieni przedstawiciele mają dostęp do informacji stanowiących tajemnicę zawodową, będących wposiadaniu podmiotów zobowiązanych do zachowania tajemnicy.
+- **1)** przekazywanie, przechowywanie oraz ujawnianie danych w trybie i na warunkach określonych w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2025 r. poz. 85);
+- **1a)** przekazywanie informacji Komisji, w zakresie niezbędnym do wykonywania zadania określonego w art. 4 ust. 1 pkt 3b ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym;
+- **2)** przekazywanie informacji przez towarowy dom maklerski lub zagraniczną osobę prawną prowadzącą działalność maklerską w formie oddziału: z 2020 r. poz. 1413), zwanej dalej „ustawą o nadzorze uzupełniającym”,
+    - **a)** podmiotowi wiodącemu w rozumieniu art. 4 ust. 5 i 6 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U.
+    - **b)** koordynatorowi w rozumieniu art. 3 pkt 19 ustawy o nadzorze uzupełniającym,
+    - **c)** koordynatorowi zagranicznemu w rozumieniu art. 3 pkt 20 ustawy o nadzorze uzupełniającym – w wykonaniu obowiązków określonych ustawą o nadzorze uzupełniającym.
 
-2. Komisja może przekazać Prezesowi Narodowego Banku Polskiego oraz zagranicznemu organowi nadzoru nad rynkiem towarów giełdowych informacje stanowiące tajemnicę zawodową, na podstawie porozumienia zawartego uprzednio przez Komisję z tym organem, jeżeli przepisy prawa obowiązujące w państwie jego siedziby zapewniają wykorzystanie takich informacji wyłącznie wramach wykonywania nadzoru nad przestrzeganiem prawa i zasad uczciwego obrotu na rynkach towarów giełdowych.
+**Art. 55.** W związku z wykonywaniem ustawowo określonych zadań w zakresie nadzoru, Komisja oraz jej upoważnieni przedstawiciele mają prawo dostępu do informacji stanowiących tajemnicę zawodową, będących w posiadaniu podmiotów zobowiązanych do jej zachowania.
 
-3. Wcelu ustalenia stanu faktycznego wprowadzonym postępowaniu kontrolnym wzakresie danych dotyczących jednostki kontrolowanej dostęp do informacji stanowiących tajemnicę zawodową mają kontrolerzy Najwyższej Izby Kontroli na podstawie odrębnego upoważnienia wydanego przez Prezesa Najwyższej Izby Kontroli.
+**Art. 55a.** Nie narusza obowiązku zachowania tajemnicy zawodowej przekazywanie informacji stanowiących taką tajemnicę:
 
-#### Rozdział 9 Odpowiedzialność cywilna ikarna
+**Art. 55b.** Komisja może przekazać będące w jej posiadaniu informacje stanowiące tajemnicę zawodową:
 
-**Art. 56.**
+**Art. 55c.** Obowiązek zachowania tajemnicy zawodowej rozciąga się również na osoby, którym informacje stanowiące taką tajemnicę zostały ujawnione na podstawie art. 54–55b.
 
-1. Wprowadzający towar giełdowy do obrotu giełdowego odpowiada za szkodę wyrządzoną wskutek wady towaru giełdowego, chyba że on ani osoby, za które odpowiada, nie ponoszą winy.
+**Art. 55d.**
 
-2. Odpowiedzialność za szkodę wyrządzoną wskutek podania nieprawdziwej informacji lub przemilczenia informacji, która powinna być zawarta wdokumentach związanych z wprowadzaniem towarów giełdowych do obrotu giełdowego, ponosi wprowadzający towar giełdowy do obrotu giełdowego, jak również osoby, które informację sporządziły lub w jej sporządzeniu brały udział, chyba że wprowadzający towar giełdowy do obrotu giełdowego ani osoby, które informację sporządziły lub w jej sporządzeniu brały udział iza które wprowadzający towar do obrotu giełdowego odpowiada, nie ponoszą winy.
+1. Lista osób, o której mowa w art. 42 ust. 1 rozporządzenia 1031/2010, zawiera:
 
-3. Odpowiedzialność, o której mowa w ust. 2, ponoszą również osoby, które wykorzystują w swojej działalności w zakresie obrotu giełdowego informacje wskazane w tym przepisie, chyba że nieprawdziwość lub przemilczenie informacji nie była i nie mogła być im znana.
+- **1)** imię, nazwisko, serię i numer dokumentu tożsamości oraz adres zamieszkania osoby posiadającej dostęp do określonej informacji wewnętrznej;
+- **2)** wskazanie przyczyny wpisania na listę, z określeniem całokształtu stosunków prawnych łączących osobę wpisywaną na listę z podmiotem, o którym mowa w art. 42 ust. 1 rozporządzenia 1031/2010;
+- **3)** wskazanie daty uzyskania przez osobę, o której mowa w pkt 1, dostępu do określonej informacji wewnętrznej;
+- **4)** wzmiankę o pouczeniu osoby, o której mowa w pkt 1, o odpowiedzialności karnej i administracyjnej związanej z bezprawnym ujawnieniem lub wykorzystaniem informacji wewnętrznych, jak również nieodpowiednim zabezpieczeniem takich informacji;
+- **5)** wzmiankę o utracie przez osobę, o której mowa w pkt 1, dostępu do określonej informacji wewnętrznej, o której mowa w art. 37 lit. a rozporządzenia 1031/2010;
+- **6)** wskazanie daty utraty przez osobę, o której mowa w pkt 1, dostępu do określonej informacji wewnętrznej, o której mowa w art. 37 lit. a rozporządzenia 1031/2010;
+- **7)** datę sporządzenia listy oraz daty jej kolejnych aktualizacji.
 
-4. Odpowiedzialność osób określonych wust. 1—3 jest solidarna inie można jej ograniczyć lub zgóry wyłączyć.
+2. Aktualizacji listy dokonuje się w każdym przypadku zmiany danych określonych w ust. 1 pkt 1 i 2, niezwłocznie po uzyskaniu informacji o zmianie tych danych. Aktualizacja polega również na wpisaniu na listę kolejnej osoby mającej dostęp do określonej informacji wewnętrznej.
 
-**Art. 57.** Kto bez wymaganego zezwolenia lub wbrew jego warunkom prowadzi giełdę, giełdową izbę rozrachunkową lub przedsiębiorstwo maklerskie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+3. Lista może być prowadzona w postaci elektronicznej.
 
-**Art. 58.** Kto, będąc obowiązany do zachowania tajemnicy zawodowej,ujawnia lub wykorzystuje wobrocie towarami giełdowymi informacje stanowiące tajemnicę zawodową, podlega karze pozbawienia wolności do lat 3.
+4. Listę przechowuje się przez okres co najmniej 5 lat od dnia jej sporządzenia, a w przypadku jej aktualizacji – przez okres co najmniej 5 lat od dnia ostatniej aktualizacji, chyba że odrębne przepisy wymagają jej dłuższego przechowywania.
+
+#### Rozdział 9 Odpowiedzialność cywilna, administracyjna i karna
+
+**Art. 56.** (uchylony)
+
+**Art. 56a.** (uchylony)
+
+**Art. 56b.**
+
+1. Osoby, o których mowa w art. 53 oraz w art. 55c, ponoszą, z zastrzeżeniem ust. 2, odpowiedzialność za szkody wynikające z ujawnienia informacji stanowiącej tajemnicę zawodową i wykorzystania jej niezgodnie z przeznaczeniem.
+
+2. Osoby, o których mowa w art. 53, nie ponoszą odpowiedzialności za szkodę wynikającą z ujawnienia i wykorzystania niezgodnie z przeznaczeniem informacji stanowiącej tajemnicę zawodową przez osoby, którym informacje takie zostały przekazane na podstawie art. 54–55b.
+
+**Art. 57.** Kto bez wymaganego zezwolenia lub wbrew jego warunkom prowadzi giełdę, giełdową izbę rozrachunkową lub towarowy dom maklerski, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+**Art. 58.** Kto, będąc obowiązany do zachowania tajemnicy zawodowej, ujawnia lub wykorzystuje w obrocie towarami giełdowymi informacje stanowiące tajemnicę zawodową, podlega karze pozbawienia wolności do lat 3.
+
+**Art. 58a.**
+
+1. Kto wbrew zakazowi, o którym mowa w art. 38 ust. 1 rozporządzenia 1031/2010, wykorzystuje informację wewnętrzną, o której mowa w art. 37 lit. a rozporządzenia 1031/2010, poprzez składanie, zmianę lub wycofanie oferty, na własny rachunek lub w imieniu osoby trzeciej, bezpośrednio lub pośrednio, w odniesieniu do produktów sprzedawanych na aukcji, których informacja ta dotyczy, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 3 miesięcy do lat 5, albo obu tym karom łącznie.
+
+2. Jeżeli czynu określonego w ust. 1 dopuszcza się osoba, o której mowa w art. 38 ust. 1 lit. a rozporządzenia 1031/2010, podlega ona grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 8, albo obu tym karom łącznie.
+
+**Art. 58b.** Kto wbrew zakazowi, o którym mowa w art. 39 lit. a rozporządzenia 1031/2010, ujawnia informację wewnętrzną, o której mowa w art. 37 lit. a tego rozporządzenia, jakiejkolwiek innej osobie, podlega grzywnie do 2 000 000 zł albo karze pozbawienia wolności do lat 4, albo obu tym karom łącznie.
+
+**Art. 58c.** Kto wbrew zakazowi, o którym mowa w art. 39 lit. b rozporządzenia 1031/2010, zaleca innej osobie złożenie lub nakłania ją, na podstawie informacji wewnętrznej, o której mowa w art. 37 lit. a tego rozporządzenia, do złożenia, zmiany lub wycofania oferty na produkty sprzedawane na aukcji, których dotyczą te informacje, podlega grzywnie do 2 000 000 zł albo karze pozbawienia wolności do lat 4, albo obu tym karom łącznie.
+
+**Art. 58d.**
+
+1. Na osobę, która nie wykonała obowiązku lub nienależycie wykonała obowiązek, o którym mowa w art. 42 ust. 2 rozporządzenia 1031/2010, Komisja może nałożyć, w drodze decyzji, karę pieniężną do wysokości 100 000 zł.
+
+2. Wydanie decyzji przez Komisję następuje po przeprowadzeniu rozprawy.
 
 **Art. 59.**
 
@@ -634,39 +885,71 @@ domain: null
 
 2. Kto wchodzi w porozumienie mające na celu sztuczne podwyższenie lub obniżenie ceny towarów giełdowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
-**Art. 60.**
+**Art. 59a.**
 
-1. Kto, będąc odpowiedzialnym za informacje zawarte w dokumencie związanym z wprowadzaniem do obrotu giełdowego praw, o których mowa wart. 2 pkt 2 lit d) ie), podaje nieprawdziwe lub zataja prawdziwe dane, w sposób istotny wpływające na treść informacji, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+1. Kto dokonuje manipulacji na rynku, o której mowa w art. 37 lit. b pkt i, ii, iii zdanie drugie rozporządzenia 1031/2010, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 3 miesięcy do lat 5, albo obu tym karom łącznie.
 
-2. Tej samej karze podlega, kto dopuszcza się czynu sie osoby prawnej lub jednostki nie posiadającej osobowości prawnej.
+2. Kto wchodzi w porozumienie z inną osobą mające na celu manipulację na rynku, o której mowa w art. 37 lit. b pkt i, ii, iii zdanie drugie rozporządzenia 1031/2010, podlega grzywnie do 2 000 000 zł.
+
+**Art. 59b.**
+
+1. Na każdego kto dokonuje manipulacji na rynku, o której mowa w art. 37 lit. b pkt iii zdanie pierwsze rozporządzenia 1031/2010, Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 200 000 zł lub karę pieniężną do wysokości dziesięciokrotności uzyskanej korzyści majątkowej.
+
+2. Tej samej karze podlega, kto wchodzi w porozumienie mające na celu dokonanie manipulacji na rynku, o której mowa w art. 37 lit. b pkt iii zdanie pierwsze rozporządzenia 1031/2010.
+
+3. Wydanie decyzji przez Komisję następuje po przeprowadzeniu rozprawy.
+
+4. Rozstrzygnięcie, o którym mowa w ust. 1, Komisja w całości lub w części ogłasza w Dzienniku Urzędowym Komisji Nadzoru Finansowego lub nakazuje jego ogłoszenie w 2 dziennikach ogólnopolskich, na koszt strony, chyba że spowodowałoby to poniesienie przez uczestników obrotu niewspółmiernej szkody lub naraziłoby na poważne niebezpieczeństwo rynki finansowe.
+
+**Art. 59c.**
+
+1. W przypadku gdy wymaga tego bezpieczeństwo przebiegu aukcji dwudniowymi kontraktami na rynku kasowym lub zagrożony jest interes uczestników rynku, spółka prowadząca platformę aukcyjną, na żądanie Komisji, unieważnia aukcję.
+
+2. W przypadku gdy aukcja zostaje unieważniona na podstawie ust. 1, wolumen uprawnień do sprzedania na aukcji jest rozdzielany na zasadach określonych w art. 32 ust. 5 rozporządzenia 1031/2010.
+
+3. Żądanie, o którym mowa w ust. 1, powinno wskazywać szczegółowe przyczyny, które je uzasadniają.
+
+4. Spółka prowadząca platformę aukcyjną przekazuje niezwłocznie do publicznej wiadomości, za pośrednictwem agencji informacyjnej, o której mowa w art. 58 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, informację o unieważnieniu aukcji i rozdzieleniu wolumenu uprawnień do sprzedania, zgodnie z zasadami, o których mowa w ust. 2.
+
+5. Komisja podaje niezwłocznie do publicznej wiadomości informację o wystąpieniu z żądaniem, o którym mowa w ust. 1, oraz informację o sposobie podziału wolumenu uprawnień do sprzedania na aukcji, o którym mowa w ust. 2.
+
+6. Spółka prowadząca platformę aukcyjną nie ponosi opłat za czynności agencji informacyjnej wynikające z przekazywania informacji, o których mowa w ust. 4.
+
+**Art. 59d.**
+
+1. W przypadku gdy obrót określonymi dwudniowymi kontraktami na rynku kasowym jest dokonywany w okolicznościach wskazujących na możliwość zagrożenia prawidłowego funkcjonowania lub bezpieczeństwa tego obrotu lub naruszenia interesów jego uczestników, na żądanie Komisji, spółka prowadząca platformę aukcyjną zawiesza obrót tymi dwudniowymi kontraktami na rynku kasowym, na okres nie dłuższy niż miesiąc.
+
+2. Na żądanie Komisji, spółka prowadząca platformę aukcyjną wyklucza z obrotu wskazane przez Komisję dwudniowe kontrakty na rynku kasowym, w przypadku gdy obrót nimi zagraża w sposób istotny prawidłowemu funkcjonowaniu obrotu lub bezpieczeństwu obrotu na tej platformie, albo powoduje naruszenie interesów uczestników tego obrotu.
+
+3. Żądanie, o którym mowa w ust. 1 i 2, powinno wskazywać szczegółowe przyczyny, które je uzasadniają.
+
+4. Komisja, w przypadku otrzymania od organu nadzoru nad platformą aukcyjną w innym państwie członkowskim Unii Europejskiej informacji o wystąpieniu przez ten organ z żądaniem zawieszenia lub wykluczenia z obrotu określonych dwudniowych kontraktów na rynku kasowym, występuje do spółki prowadzącej platformę aukcyjną z żądaniem odpowiednio zawieszenia lub wykluczenia z obrotu tych dwudniowych kontraktów na rynku kasowym, o ile nie spowoduje to znaczącego naruszenia interesów uczestników obrotu ani nie zagrozi bezpieczeństwu obrotu.
+
+5. Spółka prowadząca platformę aukcyjną przekazuje niezwłocznie do publicznej wiadomości, za pośrednictwem agencji informacyjnej, o której mowa w art. 58 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, informację o zawieszeniu lub wykluczeniu z obrotu określonych dwudniowych kontraktów na rynku kasowym.
+
+6. Komisja podaje niezwłocznie do publicznej wiadomości informację o wystąpieniu z żądaniem, o którym mowa w ust. 1 i 2.
+
+7. Spółka prowadząca platformę aukcyjną nie ponosi opłat za czynności agencji informacyjnej wynikające z przekazywania informacji, o których mowa w ust. 5.
+
+**Art. 60.** (uchylony)
 
 **Art. 61.**
 
-1. Kto uniemożliwia bądê utrudnia przeprowadzenie czynności, októrych mowa wart. 22 ust. 1 i3, art. 25 w związku z art. 22 ust. 1 i 3 oraz art. 42 ust. 1, podlega karze aresztu, ograniczenia wolności albo grzywnie.
+1. Kto uniemożliwia bądź utrudnia przeprowadzenie czynności, o których mowa w art. 22 ust. 1 i 3, art. 25 w związku z art. 22 ust. 1 i 3 oraz art. 42 ust. 1, podlega karze aresztu, ograniczenia wolności albo grzywnie.
 
-2. Tej samej karze podlega, kto działając wimieniu lub w interesie osoby prawnej wbrew obowiązkowi, o którym mowa w art. 22 ust. 2, art. 25 w związku z art. 22 ust. 2 oraz art. 39 ust. 2, nie przekazuje niezwłocznie kopii dokumentów lub innych nośników informacji albo nie udziela wyjaśnień.
+2. Tej samej karze podlega, kto działając w imieniu lub w interesie osoby prawnej wbrew obowiązkowi, o którym mowa w art. 22 ust. 2, art. 25 w związku z art. 22 ust. 2 oraz art. 39 ust. 2, nie przekazuje niezwłocznie kopii dokumentów lub innych nośników informacji albo nie udziela wyjaśnień.
 
-3. Tej samej karze podlega, kto wbrew nakazowi określonemu w art. 44 ust. 4 nie dokonuje przeniesienia środków pieniężnych lub dokumentów związanych zprowadzeniem ewidencji towarów giełdowych.
+3. Tej samej karze podlega, kto, wbrew nakazowi określonemu w art. 44 ust. 4, nie dokonuje przeniesienia środków pieniężnych, rachunków lub rejestrów towarów giełdowych oraz dokumentów związanych ze świadczeniem usług maklerskich w zakresie obrotu towarami giełdowymi.
 
-4. Tej samej karze podlega, kto wbrew obowiązkowi, októrym mowa wart. 45 ust. 1, nie archiwizuje lub określonego wust. 1, działając wimieniu lub winterenie przechowuje dokumentów lub innych nośników informacji związanych zprowadzeniem działalności maklerskiej.
+4. Tej samej karze podlega, kto wbrew obowiązkowi, o którym mowa w art. 45 ust. 1, nie archiwizuje lub nie przechowuje dokumentów lub innych nośników informacji związanych z prowadzeniem działalności maklerskiej.
 
-5. Rozpoznawanie spraw o czyny przewidziane wniniejszym artykule następuje wpostępowaniu przewidzianym dla spraw owykroczenia.
+5. Rozpoznawanie spraw o czyny przewidziane w niniejszym artykule następuje w postępowaniu przewidzianym dla spraw o wykroczenia.
 
-#### Rozdział 10 Zmiany wprzepisach obowiązujących
+**Art. 61a.** (uchylony)
 
-**Art. 62.** W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. 86, poz. 959) wart. 9 dodaje się pkt 9awbrzmieniu: Ń9a) sprzedaż towarów giełdowych na giełdach towarowych,”.
+#### Rozdział 10 Zmiany w przepisach obowiązujących
 
-**Art. 63.** Wustawie zdnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. 54, poz. 348 i 158, poz. 1042, z 1998 r. 94, poz. 594, 106, poz. 668 i 162, poz. 1126, z 1999 r. 88, poz. 980, 91, poz. 1042 i 110, poz. 1255 oraz z 2000 r. 43, poz.489 iNr 48, poz. 555) wart. 32 wust. 1 wpkt 4 na końcu kropkę zastępuje się przecinkiem idodaje wyrazy Ńjak również obrotu paliwami gazowymi i energią elektryczną dokonywanego na giełdach towarowych przez towarowe domy maklerskie prowadzące działalność maklerską wzakresie obrotu towarami giełdowymi na podstawie ustawy zdnia 26 paêdziernika 2000 r. ogiełdach towarowych (Dz. U. 103, poz. 1099).”
+#### Rozdział 11 Przepisy przejściowe i końcowe
 
-**Art. 64.** Wustawie zdnia 21 sierpnia 1997 r. Prawo o publicznym obrocie papierami wartościowymi (Dz. U. 118, poz. 754 i 141, poz. 945, z 1998 r. Nr107, poz. 669 iNr 113, poz. 715 oraz z2000 r. 22, poz. 270, 60, poz. 702 i 703 i 94, poz. 1037) wart.25 wust. 1 wprowadza się następujące zmiany:
-
-**Art. 65.** Wustawie zdnia 28 sierpnia 1997 r. ofunduszach inwestycyjnych (Dz. U. 139, poz. 933 Art. 68. Przedsiębiorcy prowadzący wdniu wejścia iz1999 r. 72, poz. 801) wart. 98 wust. 1 wpkt 6 na w życie ustawy giełdę towarową i używający dotychkońcu dodaje się przecinek oraz dodaje się pkt 7 czas w swojej nazwie określenia Ńgiełda” lub Ńgiełda wbrzmieniu: towarowa” mogą prowadzić swoją działalność pod dotychczasową nazwą przez okres nie dłuższy niż 18 mieŃ7) towary giełdowe, októrych mowa wart. 2 pkt2 sięcy od dnia wejścia wżycie ustawy, chyba że uzyskaustawy zdnia 26 paêdziernika 2000 r. ogiełdach ją zezwolenie, októrym mowa wart. 7 ust. 1. towarowych (Dz. U. 103, poz. 1099)”.
-
-**Art. 69.** Przedsiębiorcy prowadzący wdniu wejścia
-
-**Art. 66.** Wustawie zdnia 18 grudnia 1998 r. Pra- wżycie ustawy giełdową izbę rozrachunkową lub dziawo dewizowe (Dz. U. 160, poz. 1063 oraz z 1999 r. łalność maklerską wzakresie obrotu towarami giełdoNr83, poz. 931) wart. 9 pkt 3 otrzymuje brzmienie: wymi mogą prowadzić taką działalność bez spełnienia warunków, o których mowa w rozdziale 3 oraz w rozŃ3) dokonywanie inwestycji portfelowych wzakresie krótkoterminowych papierów wartościowych oraz pochodnych instrumentów finansowych, z wyłączeniem pochodnych instrumentów finansowych będących przedmiotem obrotu na Giełdzie Papierów Wartościowych S.A. wWarszawie, Polskiej Giełdzie Finansowej S.A. w Warszawie, Centralnej Tabeli Ofert S.A. w Warszawie oraz na giełdach towarowych działających na podstawie przepisów ustawy zdnia 26 paêdziernika 2000 r. ogiełdach towarowych (Dz. U. 103, poz. 1099),”. dziale 6 i7, wokresie 18 miesięcy od dnia wejścia wżycie ustawy.
-
-**Art. 70.** Ustawa wchodzi wżycie po upływie 6 miesięcy od dnia ogłoszenia, zwyjątkiem:
-
-**Art. 1.** W ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 1991 r. 44, poz. 194 i 107, poz. 464, z 1992 r. 54, poz. 254, z 1994 r. 1, poz. 3 i 43, poz. 163, z 1996 r. 41, poz. 175 i 89, poz. 402, z 1997 r. 43, poz. 272, Nr75, poz. 467 i469, 104, poz. 661, 121, poz.769 i 770 i 141, poz. 943, z 1998 r. 117, poz. 756 iNr162, poz. 1118 oraz z1999 r. 49, poz.484) wprowadza się następujące zmiany:
+**Art. 70.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem:
 

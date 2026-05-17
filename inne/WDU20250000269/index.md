@@ -8,9 +8,12 @@ pos: 269
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 marca 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy Centrum Medycznego Kształcenia Podyplomowego Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 września 2018 r. Centrum Medycznym Kształcenia Podyplomowego (Dz. U. z 2024 r. poz. 570), z uwzględnieniem zmian wprowadzonych ustawą z dnia 27 listopada 2024 r. zmianie ustawy Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lutego 2025 r.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000269) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/269/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy Centrum Medycznego Kształcenia Podyplomowego Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 września 2018 r. Centrum Medycznym Kształcenia Podyplomowego (Dz. U. z 2024 r. poz. 570), z uwzględnieniem zmian wprowadzonych ustawą z dnia 27 listopada 2024 r. zmianie ustawy Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lutego 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 23–33 i 41 ustawy z dnia 27 listopada 2024 r. zmianie ustawy Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897), które stanowią: „Art. 23. Z dniem wejścia życie niniejszej ustawy likwiduje się Centrum Kształcenia Podyplomowego Pielęgniarek i Położnych, zwane dalej „Centrum”.
 2. Z dniem wejścia życie niniejszej ustawy mienie, należności, zobowiązania, prawa i obowiązki Centrum będącego państwową jednostką budżetową stają się mieniem, należnościami, zobowiązaniami, prawami i obowiązkami Centrum Medycznego Kształcenia Podyplomowego działającego na podstawie ustawy zmienianej brzmieniu nadanym niniejszą ustawą, zwanego dalej „CMKP”.
 3. Zawarte przed dniem wejścia życie niniejszej ustawy przez dyrektora Centrum działającego imieniu Skarbu Państwa umowy zachowują moc do dnia ich wygaśnięcia albo rozwiązania, z tym że wynikające z tych umów prawa i obowiązki stają się z dniem wejścia życie niniejszej ustawy odpowiednio prawami i obowiązkami CMKP, które staje się stroną tych umów.
@@ -34,7 +35,7 @@ Art. Ustawa określa zasady działania Centrum Medycznego Kształcenia Podyplomo
 
 **Art. 24.** Z dniem wejścia życie niniejszej ustawy:
 
-**Art. 25.** W terminie dwóch miesięcy od dnia wejścia życie niniejszej ustawy minister właściwy do spraw zdrowia ogłasza konkurs na dyrektora CMKP trybie 6a ust. 3–11 ustawy zmienianej 2. Dyrektor CMKP powołany zgodnie z ust. pozostaje na stanowisku do końca kadencji rozpoczętej z dniem września 2024 r. 3. Okres kadencji dyrektora CMKP, ust. 2, wlicza się do liczby kadencji, 6b ust. 3 ustawy zmienianej 4. Do czasu powołania dyrektora CMKP zgodnie z ust. obowiązki dyrektora CMKP pełni dotychczasowy dyrektor. 5. Rada Naukowa CMKP wybrana zgodnie z 24 2 pełni funkcję przez okres do końca kadencji rozpoczętej z dniem września 2024 r.
+**Art. 25.** W terminie dwóch miesięcy od dnia wejścia życie niniejszej ustawy minister właściwy do spraw zdrowia ogłasza konkurs na dyrektora CMKP trybie 6a ust. 3–11 ustawy zmienianej 2. Dyrektor CMKP powołany zgodnie z ust. pozostaje na stanowisku do końca kadencji rozpoczętej z dniem września 2024 r. 3. Okres kadencji dyrektora CMKP, ust. 2, wlicza się do liczby kadencji, 6b ust. 3 ustawy zmienianej 4. Do czasu powołania dyrektora CMKP zgodnie z ust. obowiązki dyrektora CMKP pełni dotychczasowy dyrektor. 5. Rada Naukowa CMKP wybrana zgodnie z 24 2 pełni funkcję przez okres do końca kadencji rozpoczętej
 
 **Art. 26.** Z dniem wejścia życie niniejszej ustawy zadania Centrum stają się zadaniami CMKP. 2. Do dnia 31 grudnia 2026 r. zadania dotyczące przeprowadzenia egzaminu państwowego, którym 67 ust. 2 ustawy zmienianej 9, są realizowane przez CMKP.
 
@@ -228,7 +229,7 @@ Art. Ustawa określa zasady działania Centrum Medycznego Kształcenia Podyplomo
 
 **Art. 20.** Rada Naukowa Centrum Medycznego Kształcenia Podyplomowego Warszawie utworzonego na podstawie przepisów dotychczasowych staje się z dniem wejścia życie ustawy Radą Naukową Centrum Medycznego Kształcenia Podyplomowego, a jej członkowie wybrani na kadencję, która rozpoczęła się z dniem września 2017 r., stają się z dniem wejścia życie ustawy członkami Rady Naukowej pierwszej kadencji Centrum Medycznego Kształcenia Podyplomowego. 2. Kierownicy jednostek organizacyjnych Centrum Medycznego Kształcenia Podyplomowego Warszawie utworzonego na podstawie przepisów dotychczasowych oraz ich zastępcy, wybrani na podstawie przepisów dotychczasowych na kadencję rozpoczynającą się z dniem września 2018 r., stają się z dniem wejścia życie ustawy kierownikami jednostek organizacyjnych Centrum Medycznego Kształcenia Podyplomowego oraz ich zastępcami. 3. Pierwsza kadencja organów Centrum Medycznego Kształcenia Podyplomowego i kierowników jednostek organizacyjnych oraz ich zastępców trwa do dnia 31 sierpnia 2020 r. 4. Pierwszy statut Centrum Medycznego Kształcenia Podyplomowego nadaje minister właściwy do spraw zdrowia. 5. Z dniem wejścia życie ustawy wygasają kadencje rad podstawowych jednostek organizacyjnych Centrum Medycznego Kształcenia Podyplomowego Warszawie utworzonego na podstawie przepisów dotychczasowych.
 
-**Art. 21.** Zachowują ważność czynności podejmowane na podstawie przepisów odrębnych przez dyrektora Centrum Medycznego Kształcenia Podyplomowego Warszawie utworzonego na podstawie przepisów dotychczasowych, tym czynności podejmowane na podstawie:
+**Art. 21.** Zachowują ważność czynności podejmowane na podstawie przepisów odrębnych przez dyrektora Centrum
 
 **Art. 22.** Ustawa wchodzi życie z dniem stycznia 2019 r., z wyjątkiem 18 ust. 3, który wchodzi życie po upływie 14 dni od dnia ogłoszenia .
 

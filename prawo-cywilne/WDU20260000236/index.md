@@ -8,9 +8,12 @@ pos: 236
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lutego 2026 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy Kodeks rodzinny i opiekuńczy
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-03-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/236/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Kodeks rodzinny i opiekuńczy
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 24 czerwca 2025 r. o zmianie ustawy Kodeks rodzinny i opiekuńczy (Dz. U. poz. 897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 lutego 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 24 czerwca 2025 r. o zmianie ustawy Kodeks rodzinny i opiekuńczy (Dz. U. poz. 897), które stanowią: „Art. 2. Jeżeli termin do złożenia przez małżonka oświadczenia o powrocie do nazwiska, które nosił przed zawarciem małżeństwa, wskazany w art. 59 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, nie upłynął przed dniem wejścia w życie niniejszej ustawy, podlega on wydłużeniu do roku.
 3. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
@@ -45,8 +46,7 @@ Kodeks rodzinny i opiekuńczy Tytuł I Małżeństwo
 2. Zaświadczenie traci moc po upływie sześciu miesięcy od dnia jego wydania.
 3. Wydając zaświadczenie kierownik urzędu stanu cywilnego informuje strony o dalszych czynnościach koniecznych do zawarcia małżeństwa.
 5. Kierownik urzędu stanu cywilnego, który dowiedział się o istnieniu okoliczności wyłączającej zawarcie zamierzonego małżeństwa, odmówi przyjęcia oświadczeń o wstąpieniu w związek małżeński lub wydania zaświadczenia, o którym mowa w art. 4 , a w razie wątpliwości zwróci się do sądu o rozstrzygnięcie, czy małżeństwo może być zawarte.
-czenie przewidziane w art. 1 2 zostało złożone przez pełnomocnika.
-2. Pełnomocnictwo powinno być udzielone na piśmie z podpisem urzędowo poświadczonym i wymieniać osobę, z którą małżeństwo ma być zawarte.
+6. 1. Z ważnych powodów sąd może zezwolić, żeby oświadczenie o wstąpieniu w związek małżeński lub oświadczenie przewidziane w art. 1 2 zostało złożone przez pełnomocnika.
 7. 1. Jeżeli małżeństwo jest zawierane przed kierownikiem urzędu stanu cywilnego, oświadczenia o wstąpieniu w związek małżeński powinny być złożone publicznie w obecności dwóch pełnoletnich świadków.
 2. Kierownik urzędu stanu cywilnego zapytuje mężczyznę i kobietę, czy zamierzają zawrzeć ze sobą małżeństwo, a gdy oboje odpowiedzą na to pytanie twierdząco, wzywa ich do złożenia oświadczeń o wstąpieniu w związek małżeński oraz oświadczeń w sprawie nazwisk małżonków i ich dzieci.
 3. Każda z osób zawierających małżeństwo składa oświadczenie o wstąpieniu w związek małżeński, powtarzając za kierownikiem urzędu stanu cywilnego treść oświadczenia lub odczytując je na głos: „Świadomy/Świadoma praw i obowiązków wynikających z zawarcia małżeństwa uroczyście oświadczam, że wstępuję w związek małżeński z (imię i nazwisko drugiej z osób wstępujących w związek małżeński) i przyrzekam, że uczynię wszystko, aby nasze małżeństwo było zgodne, szczęśliwe i trwałe.”.
@@ -61,8 +61,8 @@ Osoba niemogąca mówić składa oświadczenie o wstąpieniu w związek małże�
 2. Unieważnienia małżeństwa zawartego przez mężczyznę, który nie ukończył lat osiemnastu, oraz przez kobietę, która nie ukończyła lat szesnastu albo bez zezwolenia sądu zawarła małżeństwo po ukończeniu lat szesnastu, lecz przed ukończeniem lat osiemnastu, może żądać każdy z małżonków.
 3. Nie można unieważnić małżeństwa z powodu braku przepisanego wieku, jeżeli małżonek przed wytoczeniem powództwa ten wiek osiągnął.
 4. Jeżeli kobieta zaszła w ciążę, jej mąż nie może żądać unieważnienia małżeństwa z powodu braku przepisanego wieku.
+11. 1. Nie może zawrzeć małżeństwa osoba ubezwłasnowolniona całkowicie.
 2. Unieważnienia małżeństwa z powodu ubezwłasnowolnienia może żądać każdy z małżonków.
-3. Nie można unieważnić małżeństwa z powodu ubezwłasnowolnienia, jeżeli ubezwłasnowolnienie zostało uchylone.
 12. 1. Nie może zawrzeć małżeństwa osoba dotknięta chorobą psychiczną albo niedorozwojem umysłowym.
 Jeżeli jednak stan zdrowia lub umysłu takiej osoby nie zagraża małżeństwu ani zdrowiu przyszłego potomstwa i jeżeli osoba ta nie została ubezwłasnowolniona całkowicie, sąd może jej zezwolić na zawarcie małżeństwa.
 2. Unieważnienia małżeństwa z powodu choroby psychicznej albo niedorozwoju umysłowego jednego z małżonków może żądać każdy z małżonków.
@@ -88,8 +88,7 @@ Jednakże z ważnych powodów sąd może zezwolić na zawarcie małżeństwa mi�
 18. Nie można unieważnić małżeństwa po jego ustaniu. Nie dotyczy to jednak unieważnienia z powodu pokrewieństwa między małżonkami oraz z powodu pozostawania przez jednego z małżonków w chwili zawarcia małżeństwa w zawartym poprzednio związku małżeńskim.
 19. 1. Jeżeli jeden z małżonków wytoczył powództwo o unieważnienie małżeństwa, unieważnienie może nastąpić także po śmierci drugiego małżonka, na którego miejsce w procesie wstępuje kurator ustanowiony przez sąd.
 2. W razie śmierci małżonka, który wytoczył powództwo o unieważnienie małżeństwa, unieważnienia mogą dochodzić jego zstępni.
-w złej wierze.
-2. Za będącego w złej wierze uważa się małżonka, który w chwili zawarcia małżeństwa wiedział o okoliczności stanowiącej podstawę jego unieważnienia.
+20. 1. Orzekając unieważnienie małżeństwa, sąd orzeka także, czy i który z małżonków zawarł małżeństwo w złej wierze.
 21. Do skutków unieważnienia małżeństwa w zakresie stosunku małżonków do wspólnych dzieci oraz w zakresie stosunków majątkowych między małżonkami stosuje się odpowiednio przepisy o rozwodzie, przy czym małżonek, który zawarł małżeństwo w złej wierze, traktowany jest tak, jak małżonek winny rozkładu pożycia małżeńskiego.
 22. Powództwo o unieważnienie oraz ustalenie istnienia lub nieistnienia małżeństwa może wytoczyć także prokurator.
 23. Małżonkowie mają równe prawa i obowiązki w małżeństwie. Są obowiązani do wspólnego pożycia, do wzajemnej pomocy i wierności oraz do współdziałania dla dobra rodziny, którą przez swój związek założyli.
@@ -132,7 +131,7 @@ o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843) każ
 34 . Każdy z małżonków jest uprawniony do współposiadania rzeczy wchodzących w skład majątku wspólnego oraz do korzystania z nich w takim zakresie, jaki daje się pogodzić ze współposiadaniem i korzystaniem z rzeczy przez drugiego małżonka.
 35. W czasie trwania wspólności ustawowej żaden z małżonków nie może żądać podziału majątku wspólnego.
 Nie może również rozporządzać ani zobowiązywać się do rozporządzania udziałem, który w razie ustania wspólności przypadnie mu w majątku wspólnym lub w poszczególnych przedmiotach należących do tego majątku.
-udzielać sobie wzajemnie informacji o stanie majątku wspólnego, o wykonywaniu zarządu majątkiem wspólnym i o zobowiązaniach obciążających majątek wspólny.
+wiązaniach obciążających majątek wspólny.
 2. Każdy z małżonków może samodzielnie zarządzać majątkiem wspólnym, chyba że przepisy poniższe stanowią inaczej. Wykonywanie zarządu obejmuje czynności, które dotyczą przedmiotów majątkowych należących do majątku wspólnego, w tym czynności zmierzające do zachowania tego majątku.
 3. Przedmiotami majątkowymi służącymi małżonkowi do wykonywania zawodu lub prowadzenia działalności zarobkowej małżonek ten zarządza samodzielnie. W razie przemijającej przeszkody drugi małżonek może dokonywać niezbędnych bieżących czynności.
 36 . 1. Małżonek może sprzeciwić się czynności zarządu majątkiem wspólnym zamierzonej przez drugiego małżonka, z wyjątkiem czynności w bieżących sprawach życia codziennego lub zmierzającej do zaspokojenia zwykłych potrzeb rodziny albo podejmowanej w ramach działalności zarobkowej.
@@ -211,7 +210,7 @@ Ustanie małżeństwa
 4. Orzekając o wspólnym mieszkaniu małżonków sąd uwzględnia przede wszystkim potrzeby dzieci i małżonka, któremu powierza wykonywanie władzy rodzicielskiej.
 59. W ciągu roku od chwili uprawomocnienia się orzeczenia rozwodu małżonek rozwiedziony, który wskutek zawarcia małżeństwa zmienił swoje dotychczasowe nazwisko, może przez oświadczenie złożone przed kierownikiem urzędu stanu cywilnego lub konsulem powrócić do nazwiska, które nosił przed zawarciem małżeństwa.
 60. 1. Małżonek rozwiedziony, który nie został uznany za wyłącznie winnego rozkładu pożycia i który znajduje się w niedostatku, może żądać od drugiego małżonka rozwiedzionego dostarczania środków utrzymania w zakresie odpowiadającym usprawiedliwionym potrzebom uprawnionego oraz możliwościom zarobkowym i majątkowym zobowiązanego.
-pogorszenie sytuacji materialnej małżonka niewinnego, sąd na żądanie małżonka niewinnego może orzec, że małżonek wyłącznie winny obowiązany jest przyczyniać się w odpowiednim zakresie do zaspokajania usprawiedliwionych potrzeb małżonka niewinnego, chociażby ten nie znajdował się w niedostatku.
+wyłącznie winny obowiązany jest przyczyniać się w odpowiednim zakresie do zaspokajania usprawiedliwionych potrzeb małżonka niewinnego, chociażby ten nie znajdował się w niedostatku.
 3. Obowiązek dostarczania środków utrzymania małżonkowi rozwiedzionemu wygasa w razie zawarcia przez tego małżonka nowego małżeństwa. Jednakże gdy zobowiązanym jest małżonek rozwiedziony, który nie został uznany za winnego rozkładu pożycia, obowiązek ten wygasa także z upływem pięciu lat od orzeczenia rozwodu, chyba że ze względu na wyjątkowe okoliczności sąd, na żądanie uprawnionego, przedłuży wymieniony termin pięcioletni.
 61. Z zastrzeżeniem przepisu artykułu poprzedzającego do obowiązku dostarczania środków utrzymania przez jednego z małżonków rozwiedzionych drugiemu stosuje się odpowiednio przepisy o obowiązku alimentacyjnym między krewnymi.
 2. Jednakże mimo zupełnego rozkładu pożycia orzeczenie separacji nie jest dopuszczalne, jeżeli wskutek niej miałoby ucierpieć dobro wspólnych małoletnich dzieci małżonków albo jeżeli z innych względów orzeczenie separacji byłoby sprzeczne z zasadami współżycia społecznego.
@@ -228,7 +227,6 @@ pogorszenie sytuacji materialnej małżonka niewinnego, sąd na żądanie małż
 61 . (uchylony) 61 . 1. Na zgodne żądanie małżonków sąd orzeka o zniesieniu separacji.
 2. Z chwilą zniesienia separacji ustają jej skutki.
 3. Znosząc separację, sąd rozstrzyga o władzy rodzicielskiej nad wspólnym małoletnim dzieckiem małżonków.
-Tytuł II Pokrewieństwo i powinowactwo
 2. Stopień pokrewieństwa określa się według liczby urodzeń, wskutek których powstało pokrewieństwo.
 mimo ustania małżeństwa.
 2. Linię i stopień powinowactwa określa się według linii i stopnia pokrewieństwa.
@@ -250,7 +248,7 @@ Jeżeli dziecko dowiedziało się o tej okoliczności przed dniem osiągnięcia 
 2. Przepisy art. 64 i 65 stosuje się odpowiednio.
 61 . 1. Zaprzeczenie macierzyństwa nie jest dopuszczalne po śmierci dziecka, chyba że dziecko zmarło po wszczęciu postępowania.
 2. W razie śmierci dziecka, które wytoczyło powództwo, zaprzeczenia macierzyństwa mogą dochodzić jego zstępni.
-tego dobro dziecka lub ochrona interesu społecznego. Jeżeli dziecko zmarło przed osiągnięciem pełnoletności, prokurator może wytoczyć powództwo o zaprzeczenie macierzyństwa do dnia, w którym dziecko osiągnęłoby pełnoletność. Wytoczenie przez prokuratora powództwa o zaprzeczenie macierzyństwa nie jest dopuszczalne, jeżeli dziecko zmarło po osiągnięciu pełnoletności.
+może wytoczyć powództwo o zaprzeczenie macierzyństwa do dnia, w którym dziecko osiągnęłoby pełnoletność. Wytoczenie przez prokuratora powództwa o zaprzeczenie macierzyństwa nie jest dopuszczalne, jeżeli dziecko zmarło po osiągnięciu pełnoletności.
 62. 1. Jeżeli dziecko urodziło się w czasie trwania małżeństwa albo przed upływem trzystu dni od jego ustania lub unieważnienia, domniemywa się, że pochodzi ono od męża matki. Domniemania tego nie stosuje się, jeżeli dziecko urodziło się po upływie trzystu dni od orzeczenia separacji.
 2. Jeżeli dziecko urodziło się przed upływem trzystu dni od ustania lub unieważnienia małżeństwa, lecz po zawarciu przez matkę drugiego małżeństwa, domniemywa się, że pochodzi ono od drugiego męża. Domniemanie to nie dotyczy przypadku, gdy dziecko urodziło się w następstwie procedury medycznie wspomaganej prokreacji, na którą wyraził zgodę pierwszy mąż matki.
 3. Domniemania powyższe mogą być obalone tylko na skutek powództwa o zaprzeczenie ojcostwa.
@@ -267,7 +265,6 @@ tego dobro dziecka lub ochrona interesu społecznego. Jeżeli dziecko zmarło pr
 70. 1. Dziecko po osiągnięciu pełnoletności może wytoczyć powództwo o zaprzeczenie ojcostwa w ciągu roku od dnia, w którym dowiedziało się, że nie pochodzi od męża swojej matki. Jeżeli dziecko dowiedziało się o tej okoliczności przed dniem osiągnięcia pełnoletności, termin do wytoczenia powództwa biegnie od dnia osiągnięcia pełnoletności.
 2. Dziecko powinno wytoczyć powództwo przeciwko mężowi swojej matki i matce, a jeżeli matka nie żyje przeciwko jej mężowi. Jeżeli mąż matki nie żyje, powództwo powinno być wytoczone przeciwko kuratorowi ustanowionemu przez sąd opiekuńczy.
 3. Przepisy art. 64 i 65 stosuje się odpowiednio.
-postępowania.
 2. W razie śmierci dziecka, które wytoczyło powództwo, zaprzeczenia ojcostwa mogą dochodzić jego zstępni.
 71. (utracił moc)
 72. 1. Jeżeli nie zachodzi domniemanie, że ojcem dziecka jest mąż jego matki, albo gdy domniemanie takie zostało obalone, ustalenie ojcostwa może nastąpić albo przez uznanie ojcostwa albo na mocy orzeczenia sądu.
@@ -288,7 +285,6 @@ postępowania.
 4. Przepisów art. 73 1 i 4 oraz art. 74 nie stosuje się.
 76. 1. Uznanie ojcostwa nie może nastąpić po osiągnięciu przez dziecko pełnoletności.
 2. Jeżeli dziecko zmarło przed osiągnięciem pełnoletności, uznanie ojcostwa może nastąpić w ciągu roku od dnia, w którym mężczyzna składający oświadczenie o uznaniu dowiedział się o śmierci dziecka, niepóźniej jednak niż do dnia, w którym dziecko osiągnęłoby pełnoletność.
-istnieją podstawy do jej całkowitego ubezwłasnowolnienia.
 2. Osoba, o której mowa w 1, jeżeli nie ma pełnej zdolności do czynności prawnych, może złożyć oświadczenie konieczne do uznania ojcostwa tylko przed sądem opiekuńczym.
 78. 1. Mężczyzna, który uznał ojcostwo, może wytoczyć powództwo o ustalenie bezskuteczności uznania w terminie roku od dnia, w którym dowiedział się, że dziecko od niego nie pochodzi. W razie uznania ojcostwa przed urodzeniem się dziecka już poczętego bieg tego terminu nie może rozpocząć się przed urodzeniem się dziecka.
 2. Przepisy art. 64 i 65 stosuje się odpowiednio.
@@ -323,7 +319,7 @@ a niepóźniej niż w sto osiemdziesiątym pierwszym dniu przed urodzeniem się 
 4. Dziecku nieznanych rodziców nazwisko nadaje sąd opiekuńczy.
 89 . Dzieci pochodzące od tych samych rodziców noszą takie samo nazwisko, z zastrzeżeniem przepisów, które do zmiany nazwiska dziecka wymagają jego zgody.
 90. 1. Jeżeli matka małoletniego dziecka zawarła małżeństwo z mężczyzną, który nie jest ojcem tego dziecka, małżonkowie mogą złożyć przed kierownikiem urzędu stanu cywilnego lub przed konsulem zgodne oświadczenia, że dziecko będzie nosiło takie samo nazwisko, jakie zgodnie z art. 88 nosi albo nosiłoby ich wspólne dziecko. Do zmiany nazwiska dziecka, które ukończyło trzynaście lat, jest potrzebna jego zgoda.
-nazwisko utworzone na podstawie zgodnych oświadczeń rodziców dziecka przez połączenie nazwiska matki z nazwiskiem ojca dziecka.
+ojca dziecka.
 3. Przepisy 1 i 2 stosuje się odpowiednio, gdy ojciec małoletniego dziecka zawarł małżeństwo z kobietą, która nie jest matką tego dziecka.
 90 . Nazwisko dziecka utworzone przez połączenie nazwiska matki z nazwiskiem ojca dziecka albo przez połączenie nazwiska jednego z rodziców z nazwiskiem jego małżonka, od którego dziecko nie pochodzi, nie może składać się z więcej niż dwóch członów; w skład nazwiska dziecka wchodzą pierwsze człony nazwisk podlegających połączeniu, chyba że w wyniku połączenia powstałoby nazwisko, którego człony są jednakowe.
 91. 1. Dziecko, które ma dochody z własnej pracy, powinno przyczyniać się do pokrywania kosztów utrzymania rodziny, jeżeli mieszka u rodziców.
@@ -343,7 +339,7 @@ nazwisko utworzone na podstawie zgodnych oświadczeń rodziców dziecka przez po
 96 . Osobom wykonującym władzę rodzicielską oraz sprawującym opiekę lub pieczę nad małoletnim zakazuje się stosowania kar cielesnych.
 97. 1. Jeżeli władza rodzicielska przysługuje obojgu rodzicom, każde z nich jest obowiązane i uprawnione do jej wykonywania.
 2. Jednakże o istotnych sprawach dziecka rodzice rozstrzygają wspólnie; w braku porozumienia między nimi rozstrzyga sąd opiekuńczy.
-dziecko pozostaje pod władzą rodzicielską obojga rodziców, każde z nich może działać samodzielnie jako przedstawiciel ustawowy dziecka.
+ustawowy dziecka.
 2. Jednakże żadne z rodziców nie może reprezentować dziecka:
 1) przy czynnościach prawnych między dziećmi pozostającymi pod ich władzą rodzicielską;
 2) przy czynnościach prawnych między dzieckiem a jednym z rodziców lub jego małżonkiem, chyba że czynność prawna polega na bezpłatnym przysporzeniu na rzecz dziecka albo że dotyczy należnych dziecku od drugiego z rodziców środków utrzymania i wychowania.
@@ -378,7 +374,7 @@ Prawo o adwokaturze lub art. 22 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach p
 2. Sąd opiekuńczy może w uzasadnionych wypadkach ustalić wartość rozporządzeń dotyczących ruchomości, pieniędzy i papierów wartościowych, których dziecko lub rodzice mogą dokonywać każdego roku bez zezwolenia sądu opiekuńczego, z zastrzeżeniem art. 103.
 105. Po ustaniu zarządu rodzice obowiązani są oddać dziecku lub jego przedstawicielowi ustawowemu zarządzany przez nich majątek dziecka. Na żądanie dziecka lub jego przedstawiciela ustawowego, zgłoszone przed upływem roku od ustania zarządu, rodzice obowiązani są złożyć rachunek z zarządu. Żądanie to nie może jednak dotyczyć dochodów z majątku pobranych w czasie wykonywania władzy rodzicielskiej.
 106. Jeżeli wymaga tego dobro dziecka, sąd opiekuńczy może zmienić orzeczenie o władzy rodzicielskiej i sposobie jej wykonywania zawarte w wyroku orzekającym rozwód, separację bądź unieważnienie małżeństwa, albo ustalającym pochodzenie dziecka.
-ze względu na dobro dziecka określić sposób jej wykonywania i utrzymywania kontaktów z dzieckiem. Sąd pozostawia władzę rodzicielską obojgu rodzicom, jeżeli przedstawili zgodne z dobrem dziecka pisemne porozumienie o sposobie wykonywania władzy rodzicielskiej i utrzymywaniu kontaktów z dzieckiem. Rodzeństwo powinno wychowywać się wspólnie, chyba że dobro dziecka wymaga innego rozstrzygnięcia.
+władzę rodzicielską obojgu rodzicom, jeżeli przedstawili zgodne z dobrem dziecka pisemne porozumienie o sposobie wykonywania władzy rodzicielskiej i utrzymywaniu kontaktów z dzieckiem. Rodzeństwo powinno wychowywać się wspólnie, chyba że dobro dziecka wymaga innego rozstrzygnięcia.
 2. W braku porozumienia, o którym mowa w 1, sąd, uwzględniając prawo dziecka do wychowania przez oboje rodziców, rozstrzyga o sposobie wspólnego wykonywania władzy rodzicielskiej i utrzymywaniu kontaktów z dzieckiem.
 Sąd może powierzyć wykonywanie władzy rodzicielskiej jednemu z rodziców, ograniczając władzę rodzicielską drugiego do określonych obowiązków i uprawnień w stosunku do osoby dziecka, jeżeli dobro dziecka za tym przemawia.
 3. Na zgodny wniosek stron sąd nie orzeka o utrzymywaniu kontaktów z dzieckiem.
@@ -415,7 +411,7 @@ Pozostałe obowiązki i prawa wynikające z władzy rodzicielskiej należą do r
 3. Sąd umieszcza dziecko w instytucjonalnej pieczy zastępczej, jeżeli brak jest możliwości umieszczenia dziecka w rodzinnej pieczy zastępczej lub z innych ważnych względów nie jest to zasadne.
 4. Umieszczając dziecko w pieczy zastępczej, sąd bierze pod uwagę możliwość wywiązania się z obowiązku zapewnienia przez pieczę zastępczą pracy z rodziną, o której mowa w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, oraz możliwość utrzymywania przez małoletniego kontaktów z rodzicami, o ile sąd ich nie zakazał.
 5. Sąd, po umieszczeniu dziecka w pieczy zastępczej, informuje starostę powiatu zapewniającego temu dziecku pieczę zastępczą o przyczynach umieszczenia dziecka w pieczy zastępczej.
-opiekuńczo-wychowawczej lub regionalnej placówce opiekuńczo-terapeutycznej, chyba że byłoby to sprzeczne z dobrem dziecka.
+dziecka.
 113. 1. Niezależnie od władzy rodzicielskiej rodzice oraz ich dziecko mają prawo i obowiązek utrzymywania ze sobą kontaktów.
 2. Kontakty z dzieckiem obejmują w szczególności przebywanie z dzieckiem (odwiedziny, spotkania, zabieranie dziecka poza miejsce jego stałego pobytu) i bezpośrednie porozumiewanie się, utrzymywanie korespondencji, korzystanie z innych środków porozumiewania się na odległość, w tym ze środków komunikacji elektronicznej.
 113 . 1. Jeżeli dziecko przebywa stale u jednego z rodziców, sposób utrzymywania kontaktów z dzieckiem przez drugiego z nich rodzice określają wspólnie, kierując się dobrem dziecka i biorąc pod uwagę jego rozsądne życzenia; w braku porozumienia rozstrzyga sąd opiekuńczy.
@@ -456,7 +452,7 @@ opiekuńczo-wychowawczej lub regionalnej placówce opiekuńczo-terapeutycznej, c
 3. Przepisy o przysposobieniu za zgodą rodziców bez wskazania osoby przysposabiającego stosuje się odpowiednio również wtedy, gdy rodzice przysposabianego są nieznani albo nie żyją, jeżeli sąd opiekuńczy w orzeczeniu o przysposobieniu tak postanowi.
 119 . Rodzice mogą przed sądem opiekuńczym wskazać osobę przysposabiającego, którą może być wyłącznie krewny rodziców dziecka za zgodą tej osoby złożoną przed tym sądem. Osobą wskazaną może być również małżonek jednego z rodziców.
 119 . Zgoda rodziców na przysposobienie dziecka nie może być wyrażona wcześniej niż po upływie sześciu tygodni od urodzenia się dziecka.
-kuńczy może, ze względu na szczególne okoliczności, orzec przysposobienie nawet mimo braku zgody opiekuna, jeżeli wymaga tego dobro dziecka.
+wymaga tego dobro dziecka.
 120 . 1. Przed orzeczeniem przysposobienia sąd opiekuńczy może określić sposób i okres osobistej styczności przysposabiającego z przysposabianym.
 2. W wypadku określenia styczności w formie pieczy nad dzieckiem stosuje się odpowiednio przepisy o rodzinach zastępczych, z tym że całkowite koszty utrzymania przysposabianego obciążają przysposabiającego.
 3. Jeżeli jednak przez przysposobienie przysposabiany ma zmienić dotychczasowe miejsce zamieszkania w Rzeczypospolitej Polskiej na miejsce zamieszkania w innym państwie, przysposobienie może być orzeczone po upływie określonego przez sąd opiekuńczy okresu osobistej styczności przysposabiającego z przysposabianym, niekrótszego niż 14 dni, w dotychczasowym miejscu zamieszkania przysposabianego lub w innej miejscowości w Rzeczypospolitej Polskiej.
@@ -492,7 +488,7 @@ bienie bez wskazania osoby przysposabiającego, nie jest dopuszczalne ustalenie 
 132. Obowiązek alimentacyjny zobowiązanego w dalszej kolejności powstaje dopiero wtedy, gdy nie ma osoby zobowiązanej w bliższej kolejności albo gdy osoba ta nie jest w stanie uczynić zadość swemu obowiązkowi lub gdy uzyskanie od niej na czas potrzebnych uprawnionemu środków utrzymania jest niemożliwe lub połączone z nadmiernymi trudnościami.
 133. 1. Rodzice obowiązani są do świadczeń alimentacyjnych względem dziecka, które nie jest jeszcze w stanie utrzymać się samodzielnie, chyba że dochody z majątku dziecka wystarczają na pokrycie kosztów jego utrzymania i wychowania.
 2. Poza powyższym wypadkiem uprawniony do świadczeń alimentacyjnych jest tylko ten, kto znajduje się w niedostatku.
-z nadmiernym dla nich uszczerbkiem lub jeżeli dziecko nie dokłada starań w celu uzyskania możności samodzielnego utrzymania się.
+mania się.
 134. W stosunku do rodzeństwa zobowiązany może uchylić się od świadczeń alimentacyjnych, jeżeli są one połączone z nadmiernym uszczerbkiem dla niego lub dla jego najbliższej rodziny.
 135. 1. Zakres świadczeń alimentacyjnych zależy od usprawiedliwionych potrzeb uprawnionego oraz od zarobkowych i majątkowych możliwości zobowiązanego.
 2. Wykonanie obowiązku alimentacyjnego względem dziecka, które nie jest jeszcze w stanie utrzymać się samodzielnie albo wobec osoby niepełnosprawnej może polegać w całości lub w części na osobistych staraniach o utrzymanie lub o wychowanie uprawnionego; w takim wypadku świadczenie alimentacyjne pozostałych zobowiązanych polega na pokrywaniu w całości lub w części kosztów utrzymania lub wychowania uprawnionego.
@@ -520,7 +516,6 @@ Nie dotyczy to roszczeń matki, gdy dziecko urodziło się nieżywe.
 2. Mąż matki dziecka, niebędący jego ojcem, może żądać od dziecka świadczeń alimentacyjnych, jeżeli przyczyniał się do wychowania i utrzymania dziecka, a żądanie jego odpowiada zasadom współżycia społecznego. Takie samo uprawnienie przysługuje żonie ojca dziecka, niebędącej matką dziecka.
 3. Do obowiązku świadczeń przewidzianego w poprzedzających paragrafach stosuje się odpowiednio przepisy o obowiązku alimentacyjnym między krewnymi.
 144 . Zobowiązany może uchylić się od wykonania obowiązku alimentacyjnego względem uprawnionego, jeżeli żądanie alimentów jest sprzeczne z zasadami współżycia społecznego. Nie dotyczy to obowiązku rodziców względem ich małoletniego dziecka.
-Tytuł III Opieka i kuratela
 145. 1. Opiekę ustanawia się dla małoletniego w wypadkach przewidzianych w tytule II niniejszego kodeksu.
 2. Opiekę ustanawia sąd opiekuńczy, skoro tylko poweźmie wiadomość, że zachodzi prawny po temu powód.
 146. Opiekę sprawuje opiekun. Wspólne sprawowanie opieki nad dzieckiem sąd może powierzyć tylko małżonkom.
@@ -531,7 +526,6 @@ Tytuł III Opieka i kuratela
 149. 1. Gdy wzgląd na dobro pozostającego pod opieką nie stoi temu na przeszkodzie, opiekunem małoletniego powinna być ustanowiona przede wszystkim osoba wskazana przez ojca lub matkę, jeżeli nie byli pozbawieni władzy rodzicielskiej.
 2. Jeżeli opiekunem nie została ustanowiona osoba wymieniona w paragrafie poprzedzającym, opiekun powinien być ustanowiony spośród krewnych lub innych osób bliskich pozostającego pod opieką albo jego rodziców.
 3. W braku takich osób sąd opiekuńczy zwraca się o wskazanie osoby, której opieka mogłaby być powierzona, do właściwej jednostki organizacyjnej pomocy społecznej albo do organizacji społecznej, do której należy piecza nad małoletnimi, a jeżeli pozostający pod opieką przebywa w placówce opiekuńczo-wychowawczej albo innej podobnej placówce, w zakładzie poprawczym lub w schronisku dla nieletnich sąd może się zwrócić także do tej placówki albo do tego zakładu lub schroniska.
-wowanie opieki, przede wszystkim:
 1) w przypadku umieszczenia dziecka w rodzinie zastępczej rodzicom zastępczym,
 2) w przypadku umieszczenia dziecka w rodzinnym domu dziecka osobom prowadzącym ten dom,
 3) w przypadku umieszczenia dziecka w placówce opiekuńczo-wychowawczej typu rodzinnego osobom prowadzącym tę placówkę,
@@ -553,8 +547,8 @@ wowanie opieki, przede wszystkim:
 2. Przepisy powyższe stosuje się odpowiednio w postępowaniu przed sądem lub innym organem państwowym.
 160. 1. Niezwłocznie po objęciu opieki opiekun obowiązany jest sporządzić inwentarz majątku osoby pozostającej pod opieką i przedstawić go sądowi opiekuńczemu. Przepis powyższy stosuje się odpowiednio w razie późniejszego nabycia majątku przez osobę pozostającą pod opieką.
 2. Sąd opiekuńczy może zwolnić opiekuna od obowiązku sporządzenia inwentarza, jeżeli majątek jest nieznaczny.
-wartościowych i innych dokumentów należących do pozostającego pod opieką. Przedmioty te nie mogą być odebrane bez zezwolenia sądu opiekuńczego.
-2. Gotówka pozostającego pod opieką, jeżeli nie jest potrzebna do zaspokajania jego uzasadnionych potrzeb, powinna być złożona przez opiekuna w instytucji bankowej. Opiekun może podejmować ulokowaną gotówkę tylko za zezwoleniem sądu opiekuńczego.
+161. 1. Sąd opiekuńczy może zobowiązać opiekuna do złożenia do depozytu sądowego kosztowności, papierów wartościowych i innych dokumentów należących do pozostającego pod opieką. Przedmioty te nie mogą być odebrane bez zezwolenia sądu opiekuńczego.
+być złożona przez opiekuna w instytucji bankowej. Opiekun może podejmować ulokowaną gotówkę tylko za zezwoleniem sądu opiekuńczego.
 162. 1. Sąd opiekuńczy przyzna opiekunowi za sprawowanie opieki na jego żądanie stosowne wynagrodzenie okresowe albo wynagrodzenie jednorazowe w dniu ustania opieki lub zwolnienia go od niej.
 2. Wynagrodzenia nie przyznaje się, jeżeli nakład pracy opiekuna jest nieznaczny lub gdy sprawowanie opieki jest związane z pełnieniem funkcji rodziny zastępczej albo czyni zadość zasadom współżycia społecznego.
 3. Wynagrodzenie pokrywa się z dochodów lub z majątku osoby, dla której opieka została ustanowiona, a jeżeli osoba ta nie ma odpowiednich dochodów lub majątku, wynagrodzenie jest pokrywane ze środków publicznych na podstawie przepisów o pomocy społecznej.
@@ -572,8 +566,8 @@ wartościowych i innych dokumentów należących do pozostającego pod opieką. 
 169. 1. Z ważnych powodów sąd opiekuńczy może na żądanie opiekuna zwolnić go z opieki.
 2. Sąd opiekuńczy zwolni opiekuna, jeżeli z powodu przeszkód faktycznych lub prawnych opiekun jest niezdolny do sprawowania opieki albo dopuszcza się czynów lub zaniedbań, które naruszają dobro pozostającego pod opieką.
 3. Jeżeli sąd opiekuńczy nie postanowił inaczej, opiekun obowiązany jest prowadzić nadal pilne sprawy związane z opieką aż do czasu jej objęcia przez nowego opiekuna.
-ustaje z mocy prawa.
-171. Jeżeli w chwili ustania opieki zachodzi przeszkoda do natychmiastowego przejęcia zarządu majątkiem przez osobę, która pozostawała pod opieką, albo przez jej przedstawiciela ustawowego lub spadkobierców, opiekun obowiązany jest nadal prowadzić pilne sprawy związane z zarządem majątku, chyba że sąd opiekuńczy postanowi inaczej.
+170. Gdy małoletni osiągnie pełnoletność albo gdy przywrócona zostanie nad nim władza rodzicielska, opieka ustaje z mocy prawa.
+osobę, która pozostawała pod opieką, albo przez jej przedstawiciela ustawowego lub spadkobierców, opiekun obowiązany jest nadal prowadzić pilne sprawy związane z zarządem majątku, chyba że sąd opiekuńczy postanowi inaczej.
 172. 1. W razie zwolnienia opiekuna lub ustania opieki opiekun obowiązany jest złożyć w ciągu trzech miesięcy rachunek końcowy z zarządu majątkiem.
 2. Do rachunku końcowego stosuje się odpowiednio przepisy o rachunku rocznym.
 173. Sąd opiekuńczy może zwolnić opiekuna od obowiązku składania rachunku końcowego.
@@ -593,8 +587,8 @@ ustaje z mocy prawa.
 183. 1. Jeżeli pełnoletnia osoba niepełnosprawna potrzebuje wsparcia w prowadzeniu wszelkich spraw, spraw określonego rodzaju albo załatwieniu określonej sprawy, ustanawia się dla niej kuratora. Zakres obowiązków i uprawnień kuratora określa sąd opiekuńczy.
 1 . Kurator dla osoby niepełnosprawnej jest powołany do jej reprezentowania tylko wtedy, gdy sąd tak postanowi.
 Sąd opiekuńczy może określić sprawę lub zakres spraw wskazanych w postanowieniu o ustanowieniu kuratora, w których jest on uprawniony do reprezentowania osoby niepełnosprawnej.
-uzasadniają przekonanie, że będzie należycie wywiązywała się z powierzonych jej obowiązków kuratora osoby niepełnosprawnej. Osoba niepełnosprawna może wskazać kandydata na kuratora.
-1 . Przy wyborze kuratora i określeniu zakresu jego obowiązków oraz uprawnień sąd opiekuńczy uwzględnia w szczególności sposób funkcjonowania osoby niepełnosprawnej, w tym w zakresie jej funkcji intelektualnych oraz sposobu porozumiewania się z otoczeniem.
+1 . Kuratorem może zostać ustanowiona osoba pełnoletnia, która wyraziła na to zgodę i której kwalifikacje osobiste uzasadniają przekonanie, że będzie należycie wywiązywała się z powierzonych jej obowiązków kuratora osoby niepełnosprawnej. Osoba niepełnosprawna może wskazać kandydata na kuratora.
+miewania się z otoczeniem.
 1 . Kurator uzgadnia z osobą niepełnosprawną sposób prowadzenia lub załatwienia spraw, o których mowa w 1, i informuje osobę niepełnosprawną o podjętych działaniach oraz ich wynikach, tak aby mogła podejmować decyzje i działania odpowiednie do aktualnego stanu sprawy.
 2. Kuratelę uchyla się na żądanie osoby niepełnosprawnej, dla której była ustanowiona.
 184. 1. Dla ochrony praw osoby, która z powodu nieobecności nie może prowadzić swoich spraw, a nie ma pełnomocnika, ustanawia się kuratora. To samo dotyczy wypadku, gdy pełnomocnik nieobecnego nie może wykonywać swoich czynności albo gdy je wykonywa nienależycie.
@@ -619,6 +613,8 @@ uzasadniają przekonanie, że będzie należycie wywiązywała się z powierzony
 
 ### DZIAŁ V Separacja 61 . 1. Jeżeli między małżonkami nastąpił zupełny rozkład pożycia, każdy z małżonków może żądać, ażeby sąd orzekł separację.
 
+## Tytuł II Pokrewieństwo i powinowactwo
+
 ### DZIAŁ I Przepisy ogólne 61 . 1. Krewnymi w linii prostej są osoby, z których jedna pochodzi od drugiej. Krewnymi w linii bocznej są osoby, które pochodzą od wspólnego przodka, a nie są krewnymi w linii prostej.
 
 ### DZIAŁ IA Rodzice i dzieci
@@ -640,6 +636,8 @@ uzasadniają przekonanie, że będzie należycie wywiązywała się z powierzony
 ### DZIAŁ II Przysposobienie
 
 ### DZIAŁ III Obowiązek alimentacyjny
+
+## Tytuł III Opieka i kuratela
 
 ### DZIAŁ I Opieka nad małoletnim
 

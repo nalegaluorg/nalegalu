@@ -1,0 +1,55 @@
+---
+title: Rozporządzenie Ministra Zdrowia z dnia 10 grudnia 2024 r. w sprawie zapotrzebowania na szczepionki służące do przeprowadzania szczepień obowiązkowych
+address: WDU20240001838
+eli: DU/2024/1838
+publisher: DU
+year: 2024
+pos: 1838
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 grudnia 2024 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 1838 |
+| ISAP | WDU20240001838 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-12-10 |
+| Data wydania | 2024-12-12 |
+| Ostatnia zmiana | 2024-12-13 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001838) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1838/text.pdf) |
+
+Poz. 1838 ROZPORZĄDZENIE MINISTRA ZDROWIA dnia 10 grudnia 2024 r.
+sprawie zapotrzebowania na szczepionki służące przeprowadzania szczepień obowiązkowych Na podstawie art. 18 ust. 11 ustawy dnia 5 grudnia 2008 r. zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. 2024 r. poz. 924) zarządza się, co następuje: § 1. Rozporządzenie określa:
+1) podmioty zobowiązane sporządzania ilościowego zapotrzebowania na szczepionki służące przeprowadzania szczepień obowiązkowych, zwane dalej „szczepionkami”, wraz harmonogramem dostaw, przechowywania i dystrybucji tych szczepionek;
+2) zadania zakresie sporządzania ilościowego zapotrzebowania na szczepionki służące przeprowadzania szczepień obowiązkowych wraz harmonogramem dostaw, przechowywania i dystrybucji szczepionek służących przeprowadzania szczepień obowiązkowych wraz ze wskazaniem podmiotów odpowiedzialnych za ich realizację oraz sprawozdawczości realizacji raportów rodzajów, liczby posiadanych szczepionek, numerów seryjnych oraz terminów ważności;
+3) sposób i terminy wykonywania zadań, pkt § 1. Główny Inspektor Sanitarny dnia 30 czerwca każdego roku sporządza i przekazuje ministrowi właściwemu spraw zdrowia ilościowe zapotrzebowanie na szczepionki dla terytorium Rzeczypospolitej Polskiej, zwane dalej „zapotrzebowaniem krajowym”.
+Zapotrzebowanie krajowe zawiera oszacowanie liczby szczepionek, która jest niezbędna dla zapewnienia nieprzerwanego zaopatrzenia świadczeniodawców te szczepionki, obejmujące okres od dnia sporządzenia tego zapotrzebowania dnia:
+1) 31 grudnia danego roku – oszacowanie krótkoterminowe;
+2) 31 grudnia roku następnego – oszacowanie średnioterminowe;
+3) 31 marca oraz 30 czerwca roku następującego po roku, którym pkt 2 – oszacowania długoterminowe.
+3. Do zapotrzebowania krajowego Główny Inspektor Sanitarny dołącza uzasadnienie, które zawiera dane lub informacje o:
+1) metodyce zastosowanej oszacowania ilościowego zapotrzebowania na szczepionki oraz przesłankach jej przyjęcia;
+2) łącznej oraz średniej miesięcznej liczbie i rodzajach szczepionek, które zostały wydane świadczeniodawcom ze stacji sanitarno-epidemiologicznych okresie 12 miesięcy poprzedzających miesiąc, którym sporządzono zapotrzebowanie krajowe;
+3) bieżącej liczbie i rodzajach szczepionek dostępnych łącznie magazynach powiatowych stacji sanitarno-epidemiologicznych, wojewódzkich stacji sanitarno-epidemiologicznych i Centralnej Bazie Rezerw Sanitarno-Przeciwepidemicznych;
+4) zmianach przepisach prawa oraz innych okolicznościach, które mogą wpłynąć na zwiększenie lub zmniejszenie zapotrzebowania na szczepionki stosunku zapotrzebowania krajowego obejmującego poprzedni rok.
+Dziennik Ustaw – 2 – Poz. 1838
+4. Zapotrzebowanie krajowe może być każdym czasie inicjatywy Głównego Inspektora Sanitarnego lub ministra właściwego spraw zdrowia aktualizowane każdym okresów wskazanych ust.
+§ 3. 1. Główny Inspektor Sanitarny przekazuje dnia 21 grudnia roku poprzedzającego realizację programu szczepień ochronnych, którym art. 17 ust. 11 ustawy dnia 5 grudnia 2008 r. zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, zwanego dalej „PSO”, dyrektora Centralnej Bazy Rezerw Sanitarno-Przeciwepidemicznych prognozę dystrybucji szczepionek objętych zapotrzebowaniem krajowym podziale na województwa dla poszczególnych kwartałów realizacji PSO.
+Prognoza dystrybucji szczepionek, której ust. 1, może być każdym czasie aktualizowana inicjatywy Głównego Inspektora Sanitarnego lub ministra właściwego spraw zdrowia.
+§ 4. 1. Właściwy terytorialnie państwowy powiatowy inspektor sanitarny, uwzględniając zapotrzebowania na szczepionki składane przez świadczeniodawców oraz liczbę poszczególnych rodzajów szczepionek, które są dostępne magazynie powiatowej stacji sanitarno-epidemiologicznej, sporządza bieżące ilościowe zapotrzebowania na szczepionki dla obszaru powiatu wraz harmonogramem dostaw, przechowywania i dystrybucji szczepionek, które przekazuje właściwego terytorialnie państwowego wojewódzkiego inspektora sanitarnego.
+Państwowy wojewódzki inspektor sanitarny, uwzględniając zapotrzebowania na szczepionki składane przez państwowych powiatowych inspektorów sanitarnych oraz liczbę poszczególnych rodzajów szczepionek, które są dostępne magazynie wojewódzkiej stacji sanitarno-epidemiologicznej, sporządza bieżące ilościowe zapotrzebowania na szczepionki dla obszaru województwa wraz harmonogramem dostaw, przechowywania i dystrybucji szczepionek, które przekazuje dyrektora Centralnej Bazy Rezerw Sanitarno-Przeciwepidemicznych.
+§ 5. 1. Państwowi powiatowi inspektorzy sanitarni, państwowi wojewódzcy inspektorzy sanitarni oraz dyrektor Centralnej Bazy Rezerw Sanitarno-Przeciwepidemicznych monitorują na bieżąco, nie rzadziej niż raz miesiącu, wykorzystaniem Elektronicznego Systemu Nadzoru nad Dystrybucją Szczepionek (ESNDS), zwanego dalej „systemem teleinformatycznym ESNDS”, rodzaje, liczbę, numery seryjne oraz terminy ważności szczepionek przechowywanych magazynach kierowanych przez nich powiatowych stacji sanitarno-epidemiologicznych, wojewódzkich stacji sanitarno-epidemiologicznych i Centralnej Bazy Rezerw Sanitarno-Przeciwepidemicznych.
+Podmioty, ust. 1, sporządzają sprawozdania, wskazują błędy, które wystąpiły związku generowaniem raportów rodzajów, liczby, numerów seryjnych oraz terminów ważności posiadanych szczepionek, przy wykorzystaniu systemu teleinformatycznego ESNDS.
+3. Sprawozdania, ust. 2, są przekazywane Głównemu Inspektorowi Sanitarnemu niezwłocznie, nie później niż następnym dniu roboczym po dniu, którym stwierdzono wystąpienie błędów, ust.
+§ 6. Do dnia przekazania po raz pierwszy zapotrzebowania krajowego ministrowi właściwemu spraw zdrowia Główny Inspektor Sanitarny może dokonywać, zależności od potrzeb, aktualizacji sporządzonego i przekazanego na podstawie przepisów dotychczasowych ilościowego zapotrzebowania na szczepionki na rok następny dla całego kraju.
+§ 7. Traci moc rozporządzenie Ministra Zdrowia dnia 21 kwietnia 2017 r. sprawie zapotrzebowania na szczepionki służące przeprowadzania szczepień obowiązkowych (Dz. U. poz. 848).
+§ 8. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+Minister Zdrowia: wz. W. Konieczny
+

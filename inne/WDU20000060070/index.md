@@ -8,6 +8,7 @@ pos: 70
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # o zmianie ustawy o gospodarce nieruchomościami oraz innych ustaw
@@ -23,7 +24,6 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2000-01-07 |
 | Data wydania | 2000-01-31 |
-| Wejście w życie | 2000-02-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000060070) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/70/text.pdf) |
 
@@ -47,7 +47,5 @@ domain: null
 
 **Art. 7.** W ustawie z dnia 13 października 1998 r. - Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz.U. Nr 133, poz. 872 i Nr 162, poz. 1126) art. 73 ust. 4 wyrazy „odrębnej ustawie” zastępuje się wyrazami „przepisach o odszkodowaniach za wywłaszczone nieruchomości”.
 
-**Art. 8.** Prezes Rady Ministrów ogłosi Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
-
-**Art. 9.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 1 pkt 94 lit. a) i c) oraz pkt 96 lit. b), które wchodzą życie z dniem ogło-
+**Art. 8.**
 

@@ -8,9 +8,12 @@ pos: 303
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 29 lutego 2008 r. o zmianie ustawy o organizacji niektórych rynków rolnych oraz ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego
+# o zmianie ustawy o organizacji niektórych rynków rolnych oraz ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego
+
+*USTAWA z dnia 29 lutego 2008 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,37 +27,32 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080520303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/303/text.pdf) |
 
-**Art. 1.** Akademii Rolniczej im. Hugona Kołłątaja Art. 3. Akademii Rolniczej im. Augusta CieszkowKrakowie nadaje się nazwę ŃUniwersytet Rolniczy skiego Poznaniu nadaje się nazwę ŃUniwersytet im. Hugona Kołłątaja Krakowie”. Przyrodniczy Poznaniu”.
+**Art. 1.** W ustawie z dnia 20 grudnia 2002 r. o organizacji niektórych rynków rolnych (Dz. U. Nr 240, poz. 2059, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Akademii Rolniczej Lublinie nadaje się Art. 4. Ustawa wchodzi życie po upływie 14 dni nazwę ŃUniwersytet Przyrodniczy Lublinie”. od dnia ogłoszenia. USTAWA z dnia 7 lutego 2008 r. o nadaniu nowych nazw niektórym akademiom rolniczym Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 301 USTAWA z dnia 7 lutego 2008 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Chile o współpracy i wzajemnej pomocy sprawach celnych, podpisanej Brukseli dnia 28 czerwca 2007 r.
-
-**Art. 1.** Wyraża się zgodę na dokonanie przez Prezy- Art. 2. Ustawa wchodzi życie po upływie 14 dni denta Rzeczypospolitej Polskiej ratyfikacji Umowy od dnia ogłoszenia. między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Chile o współpracy i wzajemnej pomocy sprawach celnych, podpisanej Brukseli dnia 28 czerwca 2007 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 302 USTAWA z dnia 7 lutego 2008 r. o ratyfikacji Umowy o udziale Republiki Bułgarii i Rumunii Europejskim Obszarze Gospodarczym, podpisanej Brukseli dnia 25 lipca 2007 r.
-
-**Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Umowy o udziale Republiki Bułgarii i Rumunii Europejskim
-
-**Art. 2.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Obszarze Gospodarczym, podpisanej Brukseli dnia 25 lipca 2007 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA z dnia 29 lutego 2008 r. ozmianie ustawy oorganizacji niektórych rynków rolnych oraz ustawy oorganizacji rynków owoców iwarzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego Ń7) rozporządzenie Rady (WE) nr 1673/2000 z dnia 27 lipca 2000 r. sprawie wspólnej organizacji rynków lnu i konopi uprawianych na włókno (Dz. Urz. WE L 193 z 29.07.2000, str. 16, z póên. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 30, str. 131, zpóên. zm.), zwane dalej Ńrozporządzeniem Rady 1673/2000”;”;
+**Art. 2.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. z 2008 r. Nr 11, poz. 70) wprowadza się następujące zmiany:
 
 **Art. 3.**
 
-1. Przedsiębiorcy wpisani dniu wejścia wżycie niniejszej ustawy rejestru pierwszych przetwórców surowca tytoniowego przekazują dyrektorowi oddziału terenowego Agencji Rynku Rolnego, terminie 30 dni od dnia wejścia życie niniejszej ustawy, informację o miejscu położenia obiektów będących ich posiadaniu, których przechowują surowiec tytoniowy oraz surowiec tytoniowy po pierwszym przetworzeniu.
+1. Przedsiębiorcy wpisani w dniu wejścia w życie niniejszej ustawy do rejestru pierwszych przetwórców surowca tytoniowego przekazują dyrektorowi oddziału terenowego Agencji Rynku Rolnego, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, informację o miejscu położenia obiektów będących w ich posiadaniu, w których przechowują surowiec tytoniowy oraz surowiec tytoniowy po pierwszym przetworzeniu.
 
-2. Jeżeli informacja, októrej mowa wust. 1, nie zostanie przekazana wterminie określonym wust. 1, dyrektor oddziału terenowego Agencji Rynku Rolnego wydaje decyzję o skreśleniu pierwszego przetwórcy surowca tytoniowego z rejestru pierwszych przetwórców surowca tytoniowego.
+2. Jeżeli informacja, o której mowa w ust. 1, nie zostanie przekazana w terminie określonym w ust. 1, dyrektor oddziału terenowego Agencji Rynku Rolnego wydaje decyzję o skreśleniu pierwszego przetwórcy surowca tytoniowego z rejestru pierwszych przetwórców surowca tytoniowego.
 
-3. Decyzja o skreśleniu pierwszego przetwórcy surowca tytoniowego z rejestru pierwszych przetwórców surowca tytoniowego podlega natychmiastowemu wykonaniu. tych umów na uprawę tytoniu oraz przetwarza surowiec tytoniowy odebrany na podstawie tych umów;
+3. Decyzja o skreśleniu pierwszego przetwórcy surowca tytoniowego z rejestru pierwszych przetwórców surowca tytoniowego podlega natychmiastowemu wykonaniu. surowca tytoniowego podmiot skreślony z tego rejestru:
 
+- **1)** wykonuje prawa i obowiązki wynikające z zawartych umów na uprawę tytoniu oraz przetwarza surowiec tytoniowy odebrany na podstawie tych umów;
 - **2)** nie zawiera nowych umów na uprawę tytoniu.
 
 **Art. 4.**
 
-1. Niezwiązana z produkcją część płatności uzupełniającej, októrej mowa wart. 1 ust. 1 pkt 2 ustawy wymienionej art. 2, przysługuje również za 2007 r.
+1. Niezwiązana z produkcją część płatności uzupełniającej, o której mowa w art. 1 ust. 1 pkt 2 ustawy wymienionej w art. 2, przysługuje również za 2007 r.
 
-2. Przyznanie niezwiązanej z produkcją części płatności uzupełniającej za 2007 r. następuje trybie i na zasadach określonych ustawie wymienionej wart.2, wbrzmieniu nadanym niniejszą ustawą, ztym że wnioski o przyznanie tej części płatności składa się terminie 60 dni od dnia wejścia życie niniejszej ustawy.
+2. Przyznanie niezwiązanej z produkcją części płatności uzupełniającej za 2007 r. następuje w trybie i na zasadach określonych w ustawie wymienionej w art. 2, w brzmieniu nadanym niniejszą ustawą, z tym że wnioski o przyznanie tej części płatności składa się w terminie 60 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 5.** W przypadku gdy podmiot, który nabył z mocy ustawy prawo uzyskania niezwiązanej z produkcją części płatności uzupełniającej, o której mowa art. 1 ust. 1 pkt 2 ustawy wymienionej art. 2, zbył swoje prawo uzyskania tej płatności uzupełniającej na podstawie przepisów dotychczasowych, może zbyć także prawo niezwiązanej z produkcją części płatności uzupełniającej, o której mowa art. 1 ust. 1 pkt 2 ustawy wymienionej art. 2, temu podmiotowi, który nabył od niego prawo uzyskania tej płatności uzupełniającej.
+**Art. 5.** W przypadku gdy podmiot, który nabył z mocy ustawy prawo do uzyskania niezwiązanej z produkcją części płatności uzupełniającej, o której mowa w art. 1 ust. 1 pkt 2 ustawy wymienionej w art. 2, zbył swoje prawo do uzyskania tej płatności uzupełniającej na podstawie przepisów dotychczasowych, może zbyć także prawo do niezwiązanej z produkcją części płatności uzupełniającej, o której mowa w art. 1 ust. 1 pkt 2 ustawy wymienionej w art. 2, temu podmiotowi, który nabył od niego prawo do uzyskania tej płatności uzupełniającej.
 
-**Art. 6.** Prawa uzyskania płatności uzupełniającej, októrej mowa wart. 1 ust. 1 pkt 2 ustawy wymienionej art. 2, nabyte na podstawie dotychczasowych przepisów z dniem wejścia życie niniejszej ustawy stają się prawami uzyskania związanej z produkcją części tej płatności uzupełniającej.
+**Art. 6.** Prawa do uzyskania płatności uzupełniającej, o której mowa w art. 1 ust. 1 pkt 2 ustawy wymienionej w art. 2, nabyte na podstawie dotychczasowych przepisów z dniem wejścia w życie niniejszej ustawy stają się prawami do uzyskania związanej z produkcją części tej płatności uzupełniającej.
 
-**Art. 7.** Przepisy wykonawcze wydane na podstawie art. 33f ust. 5, ust. 6 pkt 1 i ust. 7 ustawy, o której mowa art. 2:
+**Art. 7.** Przepisy wykonawcze wydane na podstawie art. 33f ust. 5, ust. 6 pkt 1 i ust. 7 ustawy, o której mowa w art. 2:
 
-**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, zwyjątkiem art. 2 pkt 3, art. 2 pkt5
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 3, art. 2 pkt 5 lit. a i c oraz art. 2 pkt 7 lit. b, które wchodzą w życie z dniem 1 września 2008 r.
 

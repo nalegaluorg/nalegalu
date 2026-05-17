@@ -8,9 +8,12 @@ pos: 199
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 lutego 2026 r.
+# o systemie ubezpieczeń społecznych
+
+*USTAWA z dnia 13 października 1998 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,40 +24,10 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2026-02-09 |
 | Data wydania | 2026-02-23 |
-| Ostatnia zmiana | 2026-04-07 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/199/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o systemie ubezpieczeń społecznych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
-2) ustawą z dnia 4 kwietnia 2025 r. o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej (Dz. U. poz. 622),
-3) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820),
-4) ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769),
-5) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 1083),
-6) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1160),
-7) ustawą z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216),
-8) ustawą z dnia 12 września 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych (Dz. U. poz. 1409),
-9) ustawą z dnia 12 września 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych (Dz. U. poz. 1413),
-10) ustawą z dnia 26 września 2025 r. o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1423),
-11) ustawą z dnia 18 grudnia 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. z 2026 r. poz. 26) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 lutego 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 433 ust. 1, art. 450, art. 459 ust. 1 i art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), które stanowią:
 Art. 99–106. (pominięte)
-
-**Art. 433.** „1. Postępowania w sprawach indywidualnych, wszczęte i niezakończone decyzją ostateczną do dnia wejścia w życie ustawy, są prowadzone na podstawie dotychczasowych przepisów.” „Art. 450. 1. Do osób pobierających stypendium w okresie odbywania studiów podyplomowych, o których mowa w art. 6 ust. 1 pkt 9b ustawy zmienianej w art. 380, w zakresie podlegania ubezpieczeniom emerytalnemu i rentowym oraz wypadkowemu, stosuje się przepisy ustawy zmienianej w art. 380 w brzmieniu dotychczasowym. 2. Do wypadków zaistniałych podczas pobierania stypendium w okresie odbywania studiów podyplomowych, o którym mowa w art. 3 ust. 3 pkt 4 ustawy zmienianej w art. 386, stosuje się przepisy ustawy zmienianej w art. 386 w brzmieniu dotychczasowym.”
-
-**Art. 459.** „1. Dotychczasowe przepisy wykonawcze wydane na podstawie:
-
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
-
-**Art. 35.** W okresie od dnia wejścia w życie niniejszej ustawy do dnia poprzedzającego dzień wejścia w życie art. 1 pkt 2 lit. b niniejszej ustawy Zakład Ubezpieczeń Społecznych zawiera umowy, o których mowa w art. 85b ust. 1 ustawy zmienianej w art. 1, z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
-
-**Art. 36.** Do postępowań w sprawie kierowania na rehabilitację leczniczą w ramach prewencji rentowej, o której mowa w art. 69 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
-
-**Art. 37.** W terminie miesiąca od dnia wejścia w życie niniejszej ustawy Prezes Zakładu Ubezpieczeń Społecznych dostosuje wynagrodzenie osób, o których mowa w art. 85b ust. 1 i 2 ustawy zmienianej w art. 1, z którymi jest zawarta umowa o pracę, do zasad, o których mowa w art. 85b ust. 3–5 ustawy zmienianej w art. 1.”
-
-**Art. 38.** „1. Do wydawania orzeczeń lekarzy orzeczników Zakładu Ubezpieczeń Społecznych oraz komisji lekarskich Zakładu Ubezpieczeń Społecznych w sprawach wszczętych i niezakończonych przed dniem wejścia w życie art. 1 pkt 9 w zakresie art. 85a ust. 1 i art. 85c–85j niniejszej ustawy stosuje się przepisy art. 85c–85j ustawy zmienianej w art. 1.” „Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -127,7 +100,7 @@ Art. 99–106. (pominięte)
 - **3)** członkami rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych, zwanymi dalej „członkami spółdzielni”;
 - **4)** osobami wykonującymi pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia, zwanymi dalej „zleceniobiorcami”, oraz osobami z nimi współpracującymi, z zastrzeżeniem ust. 4;
 - **5)** osobami prowadzącymi pozarolniczą działalność oraz osobami z nimi współpracującymi;
-- **5a)** osobami współpracującymi z osobami fizycznymi, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców;
+- **5a)** osobami współpracującymi z osobami fizycznymi, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
 - **6)** posłami i senatorami pobierającymi uposażenie oraz posłami do Parlamentu Europejskiego, o których mowa w art. 1 ust. 1 ustawy z dnia 30 lipca 2004 r. o uposażeniu posłów do Parlamentu Europejskiego wybranych w Rzeczypospolitej Polskiej, zwanymi dalej „posłami i senatorami”;
 - **7)** osobami pobierającymi stypendium sportowe, zwanymi dalej „stypendystami sportowymi”;
 - **7a)** pobierającymi stypendium słuchaczami Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego;
@@ -152,12 +125,12 @@ Art. 99–106. (pominięte)
 - **23)** małżonkiem Prezydenta Rzeczypospolitej Polskiej;
 - **24)** marynarzami.
 
-2. Zasady podlegania ubezpieczeniom emerytalnemu i rentowym osób rezygnujących z zatrudnienia w związku z koniecznością sprawowania bezpośredniej, osobistej opieki nad długotrwale lub ciężko chorym członkiem rodziny oraz wspólnie niezamieszkującymi matką, ojcem lub rodzeństwem, za które ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrum usług społecznych, opłaca składkę, regulują przepisy o pomocy społecznej.
+2. Zasady podlegania ubezpieczeniom emerytalnemu i rentowym osób rezygnujących z zatrudnienia w związku z koniecznością sprawowania bezpośredniej, osobistej opieki nad długotrwale lub ciężko chorym członkiem rodziny oraz wspólnie niezamieszkującymi matką, ojcem lub rodzeństwem, za które ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, opłaca składkę, regulują przepisy o pomocy społecznej.
 
 2a. Za osobę pobierającą świadczenie pielęgnacyjne, specjalny zasiłek opiekuńczy albo zasiłek dla opiekuna wójt, burmistrz lub prezydent miasta opłaca składkę na ubezpieczenia emerytalne i rentowe od podstawy odpowiadającej wysokości odpowiednio:
 
 - **1)** pobieranego świadczenia pielęgnacyjnego albo pobieranego specjalnego zasiłku opiekuńczego przysługujących na podstawie przepisów o świadczeniach rodzinnych,
-- **2)** pobieranego zasiłku dla opiekuna przysługującego na podstawie przepisów o ustaleniu i wypłacie zasiłków dla opiekunów przez okres niezbędny do uzyskania okresu ubezpieczenia (składkowego i nieskładkowego) odpowiednio 20-letniego przez kobietę i 25-letniego przez mężczyznę.
+- **2)** pobieranego zasiłku dla opiekuna przysługującego na podstawie przepisów o ustaleniu i wypłacie zasiłków dla opiekunów – przez okres niezbędny do uzyskania okresu ubezpieczenia (składkowego i nieskładkowego) odpowiednio 20-letniego przez kobietę i 25-letniego przez mężczyznę.
 
 2b. Wójt, burmistrz lub prezydent miasta nie opłaca składki na ubezpieczenia emerytalne i rentowe:
 
@@ -188,9 +161,9 @@ Art. 99–106. (pominięte)
 1. Obowiązkowo ubezpieczeniom emerytalnemu i rentowym podlegają, z zastrzeżeniem art. 8 i 9, osoby sprawujące osobistą opiekę nad dzieckiem, które na obszarze Rzeczypospolitej Polskiej są:
 
 - **1)** osobami, które prowadziły pozarolniczą działalność gospodarczą przez okres co najmniej 6 miesięcy i zaprzestały jej prowadzenia albo zawiesiły wykonywanie działalności gospodarczej na podstawie art. 36aa ust. 1;
-- **2)** osobami, które prowadziły inną niż określona w przepisach ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców pozarolniczą działalność, o której mowa w art. 8 ust. 6, przez okres co najmniej 6 miesięcy i które zaprzestały jej prowadzenia;
+- **2)** osobami, które prowadziły inną niż określona w przepisach ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców pozarolniczą działalność, o której mowa w art. 8 ust. 6, przez okres co najmniej 6 miesięcy i które zaprzestały jej prowadzenia;
 - **3)** zleceniobiorcami, którzy wykonywali pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia, przez okres co najmniej 6 miesięcy i którzy zaprzestali jej wykonywania;
-- **4)** osobami współpracującymi, o których mowa w art. 8 ust. 11, przez okres co najmniej 6 miesięcy z osobami, o których mowa w pkt 1–3 lub art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, i które zaprzestały tej współpracy;
+- **4)** osobami współpracującymi, o których mowa w art. 8 ust. 11, przez okres co najmniej 6 miesięcy z osobami, o których mowa w pkt 1–3 lub art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, i które zaprzestały tej współpracy;
 - **5)** osobami duchownymi, podlegającymi z tego tytułu ubezpieczeniom społecznym przez okres co najmniej 6 miesięcy.
 
 2. Warunek prowadzenia pozarolniczej działalności, działalności zarobkowej i współpracy lub bycia osobą duchowną przez okres co najmniej 6 miesięcy uważa się za spełniony, jeżeli osoby, o których mowa w ust. 1, podlegały z tych tytułów nieprzerwanie ubezpieczeniom emerytalnemu i rentowym bezpośrednio przed dniem rozpoczęcia sprawowania osobistej opieki nad dzieckiem i opłacały składki na te ubezpieczenia.
@@ -221,19 +194,19 @@ Art. 99–106. (pominięte)
 
 1. Za pracownika uważa się osobę pozostającą w stosunku pracy, z zastrzeżeniem ust. 2 i 2a.
 
-2. Jeżeli pracownik spełnia kryteria określone dla osób współpracujących, o których mowa w ust. 11 dla celów ubezpieczeń społecznych jest traktowany jako osoba współpracująca.
+2. Jeżeli pracownik spełnia kryteria określone dla osób współpracujących, o których mowa w ust. 11 – dla celów ubezpieczeń społecznych jest traktowany jako osoba współpracująca.
 
 2a. Za pracownika, w rozumieniu ustawy, uważa się także osobę wykonującą pracę na podstawie umowy agencyjnej, umowy zlecenia lub innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia, albo umowy o dzieło, jeżeli umowę taką zawarła z pracodawcą, z którym pozostaje w stosunku pracy, lub jeżeli w ramach takiej umowy wykonuje pracę na rzecz pracodawcy, z którym pozostaje w stosunku pracy.
 
 3. Za osobę wykonującą pracę nakładczą uważa się osobę zatrudnioną na podstawie umowy o pracę nakładczą.
 
-4. Za członka spółdzielni uważa się członka rolniczej spółdzielni produkcyjnej, innej spółdzielni zajmującej się produkcją rolną oraz spółdzielni kółek rolniczych, zajmujących się produkcją rolną, działających zgodnie z art. 138–178 oraz art. 180 § 3 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593 oraz z 2025 r. poz. 1556), który wykonuje pracę na rzecz spółdzielni na innej podstawie niż stosunek pracy lub wytwarza na jej rzecz produkty rolne w prowadzonym przez siebie gospodarstwie.
+4. Za członka spółdzielni uważa się członka rolniczej spółdzielni produkcyjnej, innej spółdzielni zajmującej się produkcją rolną oraz spółdzielni kółek rolniczych, zajmujących się produkcją rolną, działających zgodnie z art. 138–178 oraz art. 180 § 3 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593 oraz z 2025 r. poz. 1556), który wykonuje pracę na rzecz spółdzielni na innej podstawie niż stosunek pracy lub wytwarza na jej rzecz produkty rolne w prowadzonym przez siebie gospodarstwie.
 
 5. Na równi z członkiem spółdzielni, o którym mowa w ust. 4, traktuje się inne osoby, które wykonują pracę w spółdzielni lub w gospodarstwie rolnym spółdzielni na innej podstawie niż stosunek pracy, niebędące jej członkami i wynagradzane według zasad obowiązujących członków spółdzielni, w tym kandydatów na członka spółdzielni.
 
 6. Za osobę prowadzącą pozarolniczą działalność uważa się:
 
-- **1)** osobę prowadzącą pozarolniczą działalność gospodarczą na podstawie przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców lub innych przepisów szczególnych, z wyjątkiem ust. 6a;
+- **1)** osobę prowadzącą pozarolniczą działalność gospodarczą na podstawie przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców lub innych przepisów szczególnych, z wyjątkiem ust. 6a;
 - **2)** twórcę i artystę;
 - **3)** osobę prowadzącą działalność w zakresie wolnego zawodu:
     - **a)** w rozumieniu przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne,
@@ -242,9 +215,9 @@ Art. 99–106. (pominięte)
 - **4)** wspólnika jednoosobowej spółki z ograniczoną odpowiedzialnością oraz wspólników spółki jawnej, komandytowej lub partnerskiej;
 - **4a)** akcjonariusza prostej spółki akcyjnej wnoszącego do spółki wkład, którego przedmiotem jest świadczenie pracy lub usług;
 - **4b)** komplementariusza w spółce komandytowo-akcyjnej;
-- **5)** osobę prowadzącą publiczną lub niepubliczną szkołę, inną formę wychowania przedszkolnego, placówkę lub ich zespół, na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837).
+- **5)** osobę prowadzącą publiczną lub niepubliczną szkołę, inną formę wychowania przedszkolnego, placówkę lub ich zespół, na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837).
 
-6a. Za osobę prowadzącą pozarolniczą działalność nie uważa się w rozumieniu niniejszej ustawy osoby fizycznej, o której mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+6a. Za osobę prowadzącą pozarolniczą działalność nie uważa się w rozumieniu niniejszej ustawy osoby fizycznej, o której mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 7. Za twórcę, o którym mowa w ust. 6 pkt 2, uważa się osobę, która tworzy dzieła w zakresie architektury, architektury wnętrz, architektury krajobrazu, urbanistyki, literatury pięknej, sztuk plastycznych, muzyki, fotografiki, twórczości audiowizualnej, choreografii i lutnictwa artystycznego oraz sztuki ludowej, będące przedmiotem prawa autorskiego.
 
@@ -254,7 +227,7 @@ Art. 99–106. (pominięte)
 
 10. Minister właściwy do spraw kultury w uzgodnieniu z ministrem właściwym do spraw zabezpieczenia społecznego powołuje, w drodze rozporządzenia, komisję, o której mowa w ust. 9, oraz szczegółowo określa jej zadania, a także skład i tryb działania.
 
-11. Za osobę współpracującą z osobami prowadzącymi pozarolniczą działalność, zleceniobiorcami oraz z osobami fizycznymi, wskazanymi w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, o której mowa w art. 6 ust. 1 pkt 4–5a, uważa się małżonka, dzieci własne, dzieci drugiego małżonka i dzieci przysposobione, rodziców, macochę i ojczyma oraz osoby przysposabiające, jeżeli pozostają z nimi we wspólnym gospodarstwie domowym i współpracują przy prowadzeniu tej działalności lub wykonywaniu umowy agencyjnej lub umowy zlecenia; nie dotyczy to osób, z którymi została zawarta umowa o pracę w celu przygotowania zawodowego.
+11. Za osobę współpracującą z osobami prowadzącymi pozarolniczą działalność, zleceniobiorcami oraz z osobami fizycznymi, wskazanymi w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, o której mowa w art. 6 ust. 1 pkt 4–5a, uważa się małżonka, dzieci własne, dzieci drugiego małżonka i dzieci przysposobione, rodziców, macochę i ojczyma oraz osoby przysposabiające, jeżeli pozostają z nimi we wspólnym gospodarstwie domowym i współpracują przy prowadzeniu tej działalności lub wykonywaniu umowy agencyjnej lub umowy zlecenia; nie dotyczy to osób, z którymi została zawarta umowa o pracę w celu przygotowania zawodowego.
 
 12. Za stypendystę sportowego uważa się osobę pobierającą stypendium sportowe, z wyjątkiem osób uczących się lub studiujących, jeśli nie podlegają ubezpieczeniom emerytalnemu i rentowym z innego tytułu.
 
@@ -279,12 +252,12 @@ Art. 99–106. (pominięte)
 
 17. Zaświadczenie, o którym mowa w ust. 16, wydaje marynarzowi:
 
-- **1)** niekorzystającemu z pośrednictwa w zawarciu marynarskiej umowy o pracę lub innej umowy dotyczącej świadczenia pracy na morzu z armatorem dyrektor urzędu morskiego, o którym mowa w ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu, właściwy dla miejsca zamieszkania marynarza albo
-- **2)** korzystającemu z pośrednictwa w zawarciu marynarskiej umowy o pracę lub innej umowy dotyczącej świadczenia pracy na morzu z armatorem agencja zatrudnienia, o której mowa w art. 18 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu, pośrednicząca w zawarciu umowy.
+- **1)** niekorzystającemu z pośrednictwa w zawarciu marynarskiej umowy o pracę lub innej umowy dotyczącej świadczenia pracy na morzu z armatorem – dyrektor urzędu morskiego, o którym mowa w ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu, właściwy dla miejsca zamieszkania marynarza albo
+- **2)** korzystającemu z pośrednictwa w zawarciu marynarskiej umowy o pracę lub innej umowy dotyczącej świadczenia pracy na morzu z armatorem – agencja zatrudnienia, o której mowa w art. 18 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu, pośrednicząca w zawarciu umowy.
 
-18. Podmioty, o których mowa w ust. 17, potwierdzają w zaświadczeniu, o którym mowa w ust. 16, posiadanie statusu marynarza oraz datę jego uzyskania w celu zgłoszenia do ubezpieczeń społecznych, a także datę rozpoczęcia i datę planowanego zakończenia pracy na statku morskim na podstawie przedłożonych przez marynarza dokumentów w postaci marynarskiej umowy o pracę lub innej umowy dotyczącej świadczenia przez marynarza pracy na morzu, wpisów do książeczki żeglarskiej lub praktyki pływania potwierdzonej zgodnie z przepisami wydanymi na podstawie art. 68 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2025 r. poz. 883 i 1535).
+18. Podmioty, o których mowa w ust. 17, potwierdzają w zaświadczeniu, o którym mowa w ust. 16, posiadanie statusu marynarza oraz datę jego uzyskania w celu zgłoszenia do ubezpieczeń społecznych, a także datę rozpoczęcia i datę planowanego zakończenia pracy na statku morskim – na podstawie przedłożonych przez marynarza dokumentów w postaci marynarskiej umowy o pracę lub innej umowy dotyczącej świadczenia przez marynarza pracy na morzu, wpisów do książeczki żeglarskiej lub praktyki pływania potwierdzonej zgodnie z przepisami wydanymi na podstawie art. 68 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2025 r. poz. 883 i 1535).
 
-19. Do terminów i trybu wydawania zaświadczenia, o którym mowa w ust. 16, stosuje się przepisy działu VII ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+19. Do terminów i trybu wydawania zaświadczenia, o którym mowa w ust. 16, stosuje się przepisy działu VII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 20. Zaświadczenie, o którym mowa w ust. 16, jest ważne przez okres 1 miesiąca od dnia jego wydania.
 
@@ -304,7 +277,7 @@ Art. 99–106. (pominięte)
 
 1e. Osoba, o której mowa w art. 6 ust. 1 pkt 23, spełniająca jednocześnie warunki do objęcia obowiązkowo ubezpieczeniami emerytalnym i rentowymi z tytułu pobierania zasiłku macierzyńskiego lub zasiłku w wysokości zasiłku macierzyńskiego, podlega obowiązkowo ubezpieczeniom emerytalnemu i rentowym z obu tytułów.
 
-2. Osoba spełniająca warunki do objęcia obowiązkowo ubezpieczeniami emerytalnym i rentowymi z kilku tytułów, o których mowa w art. 6 ust. 1 pkt 2, 4–6 i 10, jest objęta obowiązkowo ubezpieczeniami z tego tytułu, który powstał najwcześniej. Może ona jednak dobrowolnie, na swój wniosek, być objęta ubezpieczeniami emerytalnym i rentowymi także z pozostałych, wszystkich lub wybranych, tytułów lub zmienić tytuł ubezpieczeń, z zastrzeżeniem ust. 2c i 7.
+2. Osoba spełniająca warunki do objęcia obowiązkowo ubezpieczeniami emerytalnym i rentowymi z kilku tytułów, o których mowa w art. 6 ust. 1 pkt 2, 4– 6 i 10, jest objęta obowiązkowo ubezpieczeniami z tego tytułu, który powstał najwcześniej. Może ona jednak dobrowolnie, na swój wniosek, być objęta ubezpieczeniami emerytalnym i rentowymi także z pozostałych, wszystkich lub wybranych, tytułów lub zmienić tytuł ubezpieczeń, z zastrzeżeniem ust. 2c i 7.
 
 2a. Osoba, o której mowa w art. 6 ust. 1 pkt 4, prowadząca jednocześnie pozarolniczą działalność, podlega obowiązkowo ubezpieczeniom emerytalnemu i rentowym z tytułu tej działalności, jeżeli z tytułu wykonywania umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia, oraz współpracy przy wykonywaniu tych umów podstawa wymiaru składek na ubezpieczenia emerytalne i rentowe jest niższa od najniższej podstawy wymiaru składek dla osób prowadzących pozarolniczą działalność, o której mowa w art. 18 ust. 8. Może ona dobrowolnie, na swój wniosek, być objęta ubezpieczeniami emerytalnym i rentowymi również z tytułu, o którym mowa w art. 6 ust. 1 pkt 4. Osoba, o której mowa w art. 6 ust. 1 pkt 4, prowadząca jednocześnie pozarolniczą działalność, dla której właściwa jest podstawa wymiaru składek na ubezpieczenia emerytalne i rentowe, o której mowa w art. 18a albo art. 18c, podlega obowiązkowo ubezpieczeniom emerytalnemu i rentowym z obu tytułów, z zastrzeżeniem ust. 2c.
 
@@ -399,7 +372,7 @@ Art. 99–106. (pominięte)
 - **9)** osób współpracujących ze zleceniobiorcami,
 - **10)** (uchylony)
 - **11)** osób odbywających służbę zastępczą,
-- **12)** członków rad nadzorczych finansują z własnych środków, w równych częściach, ubezpieczeni i płatnicy składek.
+- **12)** członków rad nadzorczych – finansują z własnych środków, w równych częściach, ubezpieczeni i płatnicy składek.
 
 1a. Składki na ubezpieczenia emerytalne osób pobierających świadczenie szkoleniowe po ustaniu zatrudnienia finansują z własnych środków, w równych częściach, ubezpieczeni i płatnicy składek.
 
@@ -419,20 +392,20 @@ Art. 99–106. (pominięte)
 
 - **1)** osób prowadzących pozarolniczą działalność,
 - **2)** osób, o których mowa w art. 7,
-- **3)** marynarzy finansują w całości, z własnych środków, sami ubezpieczeni.
+- **3)** marynarzy – finansują w całości, z własnych środków, sami ubezpieczeni.
 
 4a. Składki na ubezpieczenia emerytalne, rentowe, chorobowe i wypadkowe za miesiąc kalendarzowy objęty zwolnieniem z opłacenia składek, o których mowa w art. 17a, są finansowane w ramach dotacji z budżetu państwa do FUS, o której mowa w art. 53.
 
 5. Składki na ubezpieczenia emerytalne i rentowe żołnierzy niezawodowych pełniących czynną służbę wojskową są finansowane z budżetu państwa z części, której dysponentem jest Minister Obrony Narodowej.
 
-5a. Składki na ubezpieczenia emerytalne i rentowe, chorobowe i wypadkowe osób współpracujących finansuje w całości z własnych środków osoba prowadząca pozarolniczą działalność lub osoba fizyczna, o której mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+5a. Składki na ubezpieczenia emerytalne i rentowe, chorobowe i wypadkowe osób współpracujących finansuje w całości z własnych środków osoba prowadząca pozarolniczą działalność lub osoba fizyczna, o której mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
-6. Składki na ubezpieczenia emerytalne i rentowe osób rezygnujących z zatrudnienia w związku z koniecznością sprawowania bezpośredniej, osobistej opieki nad długotrwale lub ciężko chorym członkiem rodziny oraz wspólnie niezamieszkującymi matką, ojcem lub rodzeństwem finansują w całości ośrodki pomocy społecznej, a w przypadku ich przekształcenia w centra usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centra usług społecznych.
+6. Składki na ubezpieczenia emerytalne i rentowe osób rezygnujących z zatrudnienia w związku z koniecznością sprawowania bezpośredniej, osobistej opieki nad długotrwale lub ciężko chorym członkiem rodziny oraz wspólnie niezamieszkującymi matką, ojcem lub rodzeństwem finansują w całości ośrodki pomocy społecznej, a w przypadku ich przekształcenia w centra usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centra usług społecznych.
 
 6a. (uchylony) 6b. Składki na ubezpieczenia emerytalne i rentowe osób pobierających:
 
 - **1)** świadczenie pielęgnacyjne albo specjalny zasiłek opiekuńczy na podstawie przepisów o świadczeniach rodzinnych,
-- **2)** zasiłek dla opiekuna na podstawie przepisów o ustaleniu i wypłacie zasiłków dla opiekunów finansuje w całości wójt, burmistrz lub prezydent miasta.
+- **2)** zasiłek dla opiekuna na podstawie przepisów o ustaleniu i wypłacie zasiłków dla opiekunów – finansuje w całości wójt, burmistrz lub prezydent miasta.
 
 7. (uchylony) 7a. (uchylony)
 
@@ -446,8 +419,8 @@ Art. 99–106. (pominięte)
 
 10. Składki na ubezpieczenia emerytalne, rentowe i wypadkowe osób, o których mowa w art. 6 ust. 1 pkt 10 podlegających obowiązkowo tym ubezpieczeniom, finansują:
 
-- **1)** duchowni w wysokości 20 % składki oraz Fundusz Kościelny w wysokości 80 % składki;
-- **2)** Fundusz Kościelny w wysokości 100 % składki za członków zakonów kontemplacyjnych klauzurowych, misjonarzy w okresach pracy na terenach misyjnych.
+- **1)** duchowni – w wysokości 20 % składki oraz Fundusz Kościelny – w wysokości 80 % składki;
+- **2)** Fundusz Kościelny – w wysokości 100 % składki za członków zakonów kontemplacyjnych klauzurowych, misjonarzy w okresach pracy na terenach misyjnych.
 
 10a. Składki na ubezpieczenia emerytalne i rentowe duchownych, o których mowa w art. 9 ust. 1a, finansuje Fundusz Kościelny, zgodnie z ust. 10 pkt 1, w części obliczonej od różnicy podstawy wymiaru składek określonej w art. 18 ust. 4 pkt 5 i podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe z tytułu stosunku pracy.
 
@@ -497,7 +470,7 @@ Art. 99–106. (pominięte)
 
 1. Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe ubezpieczonych wymienionych w art. 6 ust. 1 pkt 1–3 stanowi przychód, o którym mowa w art. 4 pkt 9 i 10, z zastrzeżeniem ust. 1a, 2, ust. 4 pkt 5 i ust. 12.
 
-1a. W przypadku ubezpieczonych, o których mowa w art. 8 ust. 2a, w podstawie wymiaru składek na ubezpieczenia emerytalne i rentowe uwzględnia się również przychód z tytułu umowy agencyjnej, umowy zlecenia lub innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia albo umowy o dzieło.
+1a. W przypadku ubezpieczonych, o których mowa w art. 8 ust. 2a, w podstawie wymiaru składek na ubezpieczenia emerytalne i rentowe uwzględnia się również przychód z tytułu umowy agencyjnej, umowy zlecenia lub innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia albo umowy o dzieło. <1b. Za podstawę wymiaru składek na ubezpieczenia społeczne ubezpieczonego wymienionego w art. 6 ust. 1 pkt 1, wobec którego stwierdzono istnienie stosunku pracy decyzją, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. ), przyjmuje się kwoty wykazane z tytułu, o którym mowa w art. 6 ust. 1 pkt 4 albo 5, w okresie od dnia wydania decyzji do dnia, w którym decyzja ta stała się ostateczna, a w przypadku wniesienia odwołania do sądu – do dnia, w którym orzeczenie sądu stało się prawomocne.>
 
 2. W podstawie wymiaru składek na ubezpieczenia emerytalne i rentowe osób, o których mowa w art. 6 ust. 1 pkt 1–3, nie uwzględnia się wynagrodzenia za czas niezdolności do pracy wskutek choroby lub odosobnienia w związku z chorobą zakaźną oraz zasiłków.
 
@@ -505,16 +478,16 @@ Art. 99–106. (pominięte)
 
 4. Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe:
 
-- **1)** posłów i senatorów stanowi kwota uposażenia,
-- **2)** stypendystów sportowych stanowi kwota stypendium, 2a) słuchaczy Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego stanowi kwota stypendium, 2b) otrzymujących stypendium doktoranckie doktorantów stanowi kwota stypendium doktoranckiego,
-- **3)** bezrobotnych stanowi kwota zasiłku, świadczenia integracyjnego lub stypendium,
-- **4)** osób, o których mowa w art. 6 ust. 1 pkt 20 stanowi kwota świadczenia socjalnego, zasiłku socjalnego lub wynagrodzenia przysługującego w okresie świadczenia górniczego lub w okresie stypendium na przekwalifikowanie,
-- **5)** żołnierzy niezawodowych pełniących czynną służbę wojskową, z wyjątkiem żołnierzy pełniących terytorialną służbę wojskową, stanowi kwota minimalnego wynagrodzenia za pracę obowiązującego w grudniu roku poprzedniego, ustalonego na podstawie odrębnych przepisów, z zastrzeżeniem ust. 9 i 10, a w przypadku żołnierzy pełniących terytorialną służbę wojskową rotacyjnie kwota uposażenia z tytułu tej służby, 5a) duchownych stanowi kwota minimalnego wynagrodzenia za pracę, ustalonego na podstawie odrębnych przepisów, zwana dalej „kwotą minimalnego wynagrodzenia”, z zastrzeżeniem ust. 9 i 10,
-- **6)** żołnierzy odbywających nadterminową służbę wojskową stanowi kwota uposażenia,
-- **7)** osób, o których mowa w art. 6 ust. 1 pkt 21 stanowi kwota świadczenia szkoleniowego,
-- **8)** osób, o których mowa w art. 6 ust. 1 pkt 9a stanowi kwota stypendium,
-- **9)** (uchylony) 9a) osób, o których mowa w art. 6 ust. 1 pkt 9c stanowi kwota stypendium,
-- **10)** osób, o których mowa w art. 6 ust. 1 pkt 22 stanowi przychód łącznie z kosztami uzyskania i kwotą podatku, o których mowa w przepisach o podatku dochodowym od osób fizycznych.
+- **1)** posłów i senatorów – stanowi kwota uposażenia,
+- **2)** stypendystów sportowych – stanowi kwota stypendium, 2a) słuchaczy Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego – stanowi kwota stypendium, 2b) otrzymujących stypendium doktoranckie doktorantów – stanowi kwota stypendium doktoranckiego,
+- **3)** bezrobotnych – stanowi kwota zasiłku, świadczenia integracyjnego lub stypendium,
+- **4)** osób, o których mowa w art. 6 ust. 1 pkt 20 – stanowi kwota świadczenia socjalnego, zasiłku socjalnego lub wynagrodzenia przysługującego w okresie świadczenia górniczego lub w okresie stypendium na przekwalifikowanie,
+- **5)** żołnierzy niezawodowych pełniących czynną służbę wojskową, z wyjątkiem żołnierzy pełniących terytorialną służbę wojskową, stanowi kwota minimalnego wynagrodzenia za pracę obowiązującego w grudniu roku poprzedniego, ustalonego na podstawie odrębnych przepisów, z zastrzeżeniem ust. 9 i 10, a w przypadku żołnierzy pełniących terytorialną służbę wojskową rotacyjnie – kwota uposażenia z tytułu tej służby, 5a) duchownych – stanowi kwota minimalnego wynagrodzenia za pracę, ustalonego na podstawie odrębnych przepisów, zwana dalej „kwotą minimalnego wynagrodzenia”, z zastrzeżeniem ust. 9 i 10,
+- **6)** żołnierzy odbywających nadterminową służbę wojskową – stanowi kwota uposażenia,
+- **7)** osób, o których mowa w art. 6 ust. 1 pkt 21 – stanowi kwota świadczenia szkoleniowego,
+- **8)** osób, o których mowa w art. 6 ust. 1 pkt 9a – stanowi kwota stypendium,
+- **9)** (uchylony) 9a) osób, o których mowa w art. 6 ust. 1 pkt 9c – stanowi kwota stypendium,
+- **10)** osób, o których mowa w art. 6 ust. 1 pkt 22 – stanowi przychód – łącznie z kosztami uzyskania i kwotą podatku, o których mowa w przepisach o podatku dochodowym od osób fizycznych.
 
 4a. Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe ubezpieczonych, o których mowa w art. 6 ust. 1 pkt 8, stanowi przysługujące im wynagrodzenie za pracę.
 
@@ -571,11 +544,11 @@ Art. 99–106. (pominięte)
 2. Przepisy ust. 1 nie mają zastosowania do osób, które:
 
 - **1)** prowadzą lub w okresie ostatnich 60 miesięcy kalendarzowych przed dniem rozpoczęcia wykonywania działalności gospodarczej prowadziły pozarolniczą działalność;
-- **2)** wykonują działalność gospodarczą na rzecz byłego pracodawcy, na rzecz którego przed dniem rozpoczęcia działalności gospodarczej w bieżącym lub w poprzednim roku kalendarzowym wykonywały w ramach stosunku pracy lub spółdzielczego stosunku pracy czynności wchodzące w zakres wykonywanej działalności gospodarczej. Art. 18aa. 1. Przedsiębiorca będący osobą fizyczną może zrezygnować z uprawnienia, o którym mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, przez zgłoszenie do ubezpieczeń społecznych na zasadach określonych w art. 18a ust. 1 i art. 36. W takim przypadku okres 24 miesięcy kalendarzowych liczy się od dnia objęcia ubezpieczeniami, a przepis art. 13 pkt 4 stosuje się.
+- **2)** wykonują działalność gospodarczą na rzecz byłego pracodawcy, na rzecz którego przed dniem rozpoczęcia działalności gospodarczej w bieżącym lub w poprzednim roku kalendarzowym wykonywały w ramach stosunku pracy lub spółdzielczego stosunku pracy czynności wchodzące w zakres wykonywanej działalności gospodarczej. Art. 18aa. 1. Przedsiębiorca będący osobą fizyczną może zrezygnować z uprawnienia, o którym mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, przez zgłoszenie do ubezpieczeń społecznych na zasadach określonych w art. 18a ust. 1 i art. 36. W takim przypadku okres 24 miesięcy kalendarzowych liczy się od dnia objęcia ubezpieczeniami, a przepis art. 13 pkt 4 stosuje się.
 
 2. W przypadku wskazanym w ust. 1 objęcie ubezpieczeniami następuje od dnia wskazanego we wniosku o objęcie tymi ubezpieczeniami, niewcześniej jednak niż od dnia, w którym wniosek został zgłoszony.
 
-3. Przepis art. 18a ust. 1 stosuje się również do przedsiębiorców będących osobami fizycznymi, którzy kontynuują działalność gospodarczą po upływie okresu, o którym mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców. W takim przypadku okres 24 miesięcy kalendarzowych liczy się od dnia objęcia ubezpieczeniami na zasadach określonych w art. 18a ust. 1 i art. 36.
+3. Przepis art. 18a ust. 1 stosuje się również do przedsiębiorców będących osobami fizycznymi, którzy kontynuują działalność gospodarczą po upływie okresu, o którym mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców. W takim przypadku okres 24 miesięcy kalendarzowych liczy się od dnia objęcia ubezpieczeniami na zasadach określonych w art. 18a ust. 1 i art. 36.
 
 **Art. 18b.** Podstawę wymiaru składek na ubezpieczenie emerytalne osób, o których mowa w art. 6b ust. 1, stanowi 75 % kwoty minimalnego wynagrodzenia.
 
@@ -587,7 +560,7 @@ Art. 99–106. (pominięte)
 
 3. Podstawę wymiaru składek, o której mowa w ust. 1, ubezpieczony ustala na dany rok kalendarzowy, mnożąc przeciętny miesięczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym, obliczony zgodnie z ust. 4, przez współczynnik 0,5. Otrzymany wynik jest zaokrąglany do pełnych groszy w górę, jeśli końcówka jest równa lub wyższa niż 0,5 grosza, lub w dół, jeśli jest niższa.
 
-4. Przeciętny miesięczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym jest obliczany według następującego wzoru: roczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym × 30 liczba dni kalendarzowych prowadzenia pozarolniczej działalności gospodarczej w poprzednim roku kalendarzowym i jest zaokrąglany do pełnych groszy w górę, jeśli końcówka jest równa lub wyższa niż 0,5 grosza, lub w dół, jeśli jest niższa.
+4. Przeciętny miesięczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym jest obliczany według następującego wzoru: roczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym liczba dni kalendarzowych prowadzenia pozarolniczej działalności gospodarczej w poprzednim roku kalendarzowym i jest zaokrąglany do pełnych groszy w górę, jeśli końcówka jest równa lub wyższa niż 0,5 grosza, lub w dół, jeśli jest niższa.
 
 4a. Jeżeli składki na ubezpieczenia społeczne ubezpieczonego, o którym mowa w ust. 1, oraz osób z nim współpracujących zostały zaliczone do kosztów uzyskania przychodu, roczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym, o którym mowa w ust. 4, powiększa się o kwoty tych składek zaliczone do kosztów uzyskania przychodu.
 
@@ -602,7 +575,7 @@ Art. 99–106. (pominięte)
 9. Ubezpieczony, o którym mowa w ust. 1, przekazuje informację o zastosowanych formach opodatkowania obowiązujących tego ubezpieczonego w poprzednim roku kalendarzowym, o rocznym przychodzie z pozarolniczej działalności gospodarczej i rocznym dochodzie z tej działalności uzyskanych w poprzednim roku kalendarzowym, w tym o przychodzie i dochodzie uzyskanych w okresie obowiązywania danej formy opodatkowania, oraz o podstawie wymiaru składek na ubezpieczenia emerytalne i rentowe ustalonej na dany rok kalendarzowy w:
 
 - **1)** imiennym raporcie miesięcznym albo
-- **2)** w deklaracji rozliczeniowej w przypadku, o którym mowa w art. 47 ust. 2 składanych za styczeń danego roku kalendarzowego lub za pierwszy miesiąc rozpoczęcia lub wznowienia prowadzenia pozarolniczej działalności gospodarczej w danym roku kalendarzowym.
+- **2)** w deklaracji rozliczeniowej – w przypadku, o którym mowa w art. 47 ust. 2 – składanych za styczeń danego roku kalendarzowego lub za pierwszy miesiąc rozpoczęcia lub wznowienia prowadzenia pozarolniczej działalności gospodarczej w danym roku kalendarzowym.
 
 10. Ubezpieczony, o którym mowa w ust. 1, może zrezygnować z uprawnienia do ustalenia podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe zgodnie z niniejszym artykułem. Rezygnacja oznacza, że za miesiąc, w którym zrezygnował z uprawnienia, oraz pozostałe miesiące kalendarzowe do końca danego roku kalendarzowego ustala podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe na zasadach określonych w art. 18 ust. 8.
 
@@ -621,8 +594,8 @@ Art. 99–106. (pominięte)
 
 12. W przypadku osób, do których w poprzednim roku kalendarzowym miały zastosowanie przepisy dotyczące zryczałtowanego podatku dochodowego w formie:
 
-- **1)** karty podatkowej, i które nie korzystały ze zwolnienia sprzedaży od podatku od towarów i usług na podstawie art. 113 ust. 1 i 9 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, przez: o podatku od towarów i usług, podlegającej opodatkowaniu tym podatkiem, bez kwoty tego podatku,
-    - **a)** roczny przychód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym, o którym mowa w ust. 1, należy rozumieć wartość sprzedaży, o której mowa w art. 2 pkt 22 ustawy z dnia 11 marca 2004 r.
+- **1)** karty podatkowej, i które nie korzystały ze zwolnienia sprzedaży od podatku od towarów i usług na podstawie art. 113 ust. 1 i 9 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, przez:
+    - **a)** roczny przychód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym, o którym mowa w ust. 1, należy rozumieć wartość sprzedaży, o której mowa w art. 2 pkt 22 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, podlegającej opodatkowaniu tym podatkiem, bez kwoty tego podatku,
     - **b)** roczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym, o którym mowa w ust. 4, należy rozumieć roczny przychód z pozarolniczej działalności gospodarczej, w rozumieniu lit. a, pomnożony przez współczynnik 0,5;
 
 - **2)** ryczałtu od przychodów ewidencjonowanych, przez roczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym, o którym mowa w ust. 4, należy rozumieć roczny przychód z pozarolniczej działalności gospodarczej, o którym mowa w ust. 1, pomnożony przez współczynnik 0,5.
@@ -633,7 +606,7 @@ Art. 99–106. (pominięte)
 
 **Art. 19.**
 
-1. Roczna podstawa wymiaru składek na ubezpieczenia emerytalne i rentowe osób, o których mowa w art. 6 i 7, w danym roku kalendarzowym nie może być wyższa od kwoty odpowiadającej trzydziestokrotności prognozowanego przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej na dany rok kalendarzowy, określonego w ustawie budżetowej, ustawie o prowizorium budżetowym lub ich projektach, jeżeli odpowiednie ustawy nie zostały uchwalone z zastrzeżeniem ust. 2 i 9.
+1. Roczna podstawa wymiaru składek na ubezpieczenia emerytalne i rentowe osób, o których mowa w art. 6 i 7, w danym roku kalendarzowym nie może być wyższa od kwoty odpowiadającej trzydziestokrotności prognozowanego przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej na dany rok kalendarzowy, określonego w ustawie budżetowej, ustawie o prowizorium budżetowym lub ich projektach, jeżeli odpowiednie ustawy nie zostały uchwalone – z zastrzeżeniem ust. 2 i 9.
 
 2. Jeżeli brak jest podstaw, o których mowa w ust. 1, dla ustalenia przeciętnego prognozowanego wynagrodzenia miesięcznego w gospodarce narodowej, wynagrodzenie to ustala się na podstawie przeciętnego miesięcznego wynagrodzenia z trzeciego kwartału roku poprzedniego.
 
@@ -673,10 +646,10 @@ Art. 99–106. (pominięte)
 
 1. Stopy procentowe składek wynoszą:
 
-- **1)** 19,52 % podstawy wymiaru na ubezpieczenie emerytalne, z zastrzeżeniem ust. 3 i 4;
-- **2)** 8,00 % podstawy wymiaru na ubezpieczenia rentowe;
-- **3)** 2,45 % podstawy wymiaru na ubezpieczenie chorobowe;
-- **4)** od 0,40 % do 8,12 % podstawy wymiaru na ubezpieczenie wypadkowe.
+- **1)** 19,52 % podstawy wymiaru – na ubezpieczenie emerytalne, z zastrzeżeniem ust. 3 i 4;
+- **2)** 8,00 % podstawy wymiaru – na ubezpieczenia rentowe;
+- **3)** 2,45 % podstawy wymiaru – na ubezpieczenie chorobowe;
+- **4)** od 0,40 % do 8,12 % podstawy wymiaru – na ubezpieczenie wypadkowe.
 
 2. Zasady różnicowania stopy procentowej składek na ubezpieczenie wypadkowe określają przepisy o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych.
 
@@ -686,7 +659,7 @@ Art. 99–106. (pominięte)
     - **a)** 2,92 % podstawy wymiaru składki jest odprowadzana przez Zakład do wybranego przez ubezpieczonego otwartego funduszu emerytalnego,
     - **b)** 4,38 % podstawy wymiaru składki jest ewidencjonowana przez Zakład na subkoncie, o którym mowa w art. 40a,
 
-- **2)** nieodprowadzania lub zaprzestania odprowadzania składki do otwartego funduszu emerytalnego, o którym mowa w ust. 3d, część składki na ubezpieczenie emerytalne wynosząca 7,3 % podstawy wymiaru składki jest ewidencjonowana przez Zakład na subkoncie, o którym mowa w art. 40a z uwzględnieniem art. 111.
+- **2)** nieodprowadzania lub zaprzestania odprowadzania składki do otwartego funduszu emerytalnego, o którym mowa w ust. 3d, część składki na ubezpieczenie emerytalne wynosząca 7,3 % podstawy wymiaru składki jest ewidencjonowana przez Zakład na subkoncie, o którym mowa w art. 40a – z uwzględnieniem art. 111.
 
 3a. Zakład nie odprowadza do otwartego funduszu emerytalnego i nie ewidencjonuje na subkoncie, o którym mowa w art. 40a, składek, o których mowa w ust. 3, w przypadku zawiadomienia przez właściwy organ emerytalny o ustaleniu prawa ubezpieczonego do emerytury obliczonej na podstawie:
 
@@ -696,7 +669,7 @@ Art. 99–106. (pominięte)
 3b. (uchylony) 3c. (uchylony) 3d. Zakład zaprzestaje odprowadzania do otwartego funduszu emerytalnego składek, o których mowa w ust. 3 pkt 1 lit. a, od dnia następującego po dniu poinformowania przez Zakład otwartego funduszu emerytalnego o obowiązku przekazania środków zgromadzonych na rachunku członka otwartego funduszu emerytalnego na fundusz emerytalny FUS w związku:
 
 - **1)** z ukończeniem przez ubezpieczonego wieku niższego o 10 lat od wieku emerytalnego, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, albo
-- **2)** ze złożeniem przez ubezpieczonego wniosku o emeryturę, o której mowa w art. 88a ust. 1 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela.
+- **2)** ze złożeniem przez ubezpieczonego wniosku o emeryturę, o której mowa w art. 88a ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 
 3e. Przepis ust. 3d stosuje się odpowiednio do części składki, o której mowa w ust. 3 pkt 1 lit. a, należnej za okres do dnia, o którym mowa w ust. 3d pkt 1, opłaconej lub zidentyfikowanej po tym dniu.
 
@@ -712,7 +685,7 @@ Art. 99–106. (pominięte)
 
 **Art. 23.**
 
-1. Od nieopłaconych w terminie składek należne są od płatnika składek odsetki za zwłokę, na zasadach i w wysokości określonych w ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) z wyłączeniem art. 56a.
+1. Od nieopłaconych w terminie składek należne są od płatnika składek odsetki za zwłokę, na zasadach i w wysokości określonych w ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) z wyłączeniem art. 56a.
 
 1a. Odsetek za zwłokę nie nalicza się, jeżeli ich wysokość nie przekraczałaby 1 % kwoty minimalnego wynagrodzenia, z zastrzeżeniem ust. 1b–1f.
 
@@ -721,7 +694,7 @@ Art. 99–106. (pominięte)
 1c. Odsetek za zwłokę nie nalicza się od nieopłaconych w terminie składek, jeżeli ich nieopłacenie wynika z:
 
 - **1)** błędnego zawiadomienia przez Zakład o stanie rozliczeń;
-- **2)** zastosowania się płatnika składek w danym okresie rozliczeniowym do utrwalonej praktyki interpretacyjnej Zakładu, z uwzględnieniem art. 34 ust. 15 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców;
+- **2)** zastosowania się płatnika składek w danym okresie rozliczeniowym do utrwalonej praktyki interpretacyjnej Zakładu, z uwzględnieniem art. 34 ust. 15 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
 - **3)** zastosowania się płatnika składek do pisma Zakładu w jego indywidualnej sprawie;
 - **4)** zastosowania się do utrwalonej praktyki interpretacyjnej Zakładu, która następnie uległa zmianie.
 
@@ -772,11 +745,11 @@ Art. 99–106. (pominięte)
 
 5f. Bieg terminu przedawnienia ulega zawieszeniu od dnia wszczęcia przez Zakład postępowania w sprawie wydania decyzji ustalającej obowiązek podlegania ubezpieczeniom społecznym, podstawę wymiaru składek lub obowiązek opłacania składek na te ubezpieczenia do dnia, w którym decyzja stała się prawomocna.
 
-5g. Bieg terminu przedawnienia nie rozpoczyna się, a rozpoczęty ulega zawieszeniu od dnia objęcia restrukturyzacją należności z tytułu składek, o których mowa w art. 160 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172), do dnia zapłaty ostatniej raty w przypadku rozłożenia na raty lub do dnia zapłaty w przypadku odroczenia terminu płatności.
+5g. Bieg terminu przedawnienia nie rozpoczyna się, a rozpoczęty ulega zawieszeniu od dnia objęcia restrukturyzacją należności z tytułu składek, o których mowa w art. 160 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172), do dnia zapłaty ostatniej raty w przypadku rozłożenia na raty lub do dnia zapłaty w przypadku odroczenia terminu płatności. <5h. Bieg terminu przedawnienia należności z tytułu składek ulega zawieszeniu od dnia wniesienia odwołania od decyzji w sprawie stwierdzenia istnienia stosunku pracy, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, do dnia, w którym decyzja ta stała się ostateczna, a w przypadku wniesienia odwołania do sądu – do dnia, w którym orzeczenie sądu stało się prawomocne.>
 
 6. Bieg terminu przedawnienia, o którym mowa w ust. 4, ulega zawieszeniu od dnia śmierci spadkodawcy do dnia uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowania aktu poświadczenia dziedziczenia, niedłużej jednak niż do dnia, w którym upłynęły 2 lata od śmierci spadkodawcy.
 
-6a. Nienależnie opłacone składki podlegają zaliczeniu przez Zakład z urzędu na poczet zaległych lub bieżących składek, a w razie ich braku na poczet przyszłych składek, chyba że płatnik składek złoży wniosek o zwrot składek, z zastrzeżeniem ust. 6c, 8 i 8d.
+6a. Nienależnie opłacone składki podlegają zaliczeniu przez Zakład z urzędu na poczet zaległych lub bieżących składek, a w razie ich braku – na poczet przyszłych składek, chyba że płatnik składek złoży wniosek o zwrot składek, z zastrzeżeniem ust. 6c, 8 i 8d.
 
 6b. Zakład zawiadamia płatnika składek o kwocie nienależnie opłaconych składek, które zgodnie z ust. 6a mogą być zwrócone, jeżeli kwota nienależnie opłaconych składek przekracza dziesięciokrotność kwoty kosztów upomnienia w postępowaniu egzekucyjnym w administracji.
 
@@ -795,10 +768,10 @@ Art. 99–106. (pominięte)
 
 6h. Bieg terminu przedawnienia, o którym mowa w ust. 6g, ulega zawieszeniu:
 
-- **1)** w przypadku wydania przez Zakład decyzji w sprawie nienależnie opłaconych składek od dnia wszczęcia postępowania do dnia, w którym decyzja stała się prawomocna;
-- **2)** jeżeli wydanie decyzji w sprawie nienależnie opłaconych składek jest uzależnione od rozstrzygnięcia zagadnienia wstępnego przez inny organ lub sąd do dnia, w którym decyzja innego organu stała się ostateczna lub orzeczenie sądu uprawomocniło się, niedłużej jednak niż na okres 2 lat;
+- **1)** w przypadku wydania przez Zakład decyzji w sprawie nienależnie opłaconych składek – od dnia wszczęcia postępowania do dnia, w którym decyzja stała się prawomocna;
+- **2)** jeżeli wydanie decyzji w sprawie nienależnie opłaconych składek jest uzależnione od rozstrzygnięcia zagadnienia wstępnego przez inny organ lub sąd – do dnia, w którym decyzja innego organu stała się ostateczna lub orzeczenie sądu uprawomocniło się, niedłużej jednak niż na okres 2 lat;
 - **3)** od dnia śmierci spadkodawcy do dnia uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowania aktu poświadczenia dziedziczenia, niedłużej jednak niż do dnia, w którym upłynęły 2 lata od śmierci spadkodawcy;
-- **4)** w przypadku wydania przez Zakład decyzji stwierdzającej brak obowiązku podlegania ubezpieczeniom społecznym lub obniżającej podstawę wymiaru składek na te ubezpieczenia od dnia wszczęcia postępowania do dnia, w którym decyzja stała się prawomocna.
+- **4)** w przypadku wydania przez Zakład decyzji stwierdzającej brak obowiązku podlegania ubezpieczeniom społecznym lub obniżającej podstawę wymiaru składek na te ubezpieczenia – od dnia wszczęcia postępowania do dnia, w którym decyzja stała się prawomocna.
 
 7. (utracił moc)
 
@@ -813,8 +786,8 @@ Art. 99–106. (pominięte)
 
 8e. Jeżeli nominalna wartość składki, o której mowa w ust. 8, jest:
 
-- **1)** wyższa od kwoty nienależnie otrzymanej składki, którą otwarty fundusz emerytalny jest zobowiązany zwrócić do Zakładu na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych różnica jest finansowana z funduszu emerytalnego, wyodrębnionego w ramach Funduszu Ubezpieczeń Społecznych;
-- **2)** niższa od kwoty nienależnie otrzymanej składki, którą otwarty fundusz emerytalny jest zobowiązany zwrócić do Zakładu na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych różnica stanowi przychody funduszu emerytalnego, wyodrębnionego w ramach Funduszu Ubezpieczeń Społecznych.
+- **1)** wyższa od kwoty nienależnie otrzymanej składki, którą otwarty fundusz emerytalny jest zobowiązany zwrócić do Zakładu na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych – różnica jest finansowana z funduszu emerytalnego, wyodrębnionego w ramach Funduszu Ubezpieczeń Społecznych;
+- **2)** niższa od kwoty nienależnie otrzymanej składki, którą otwarty fundusz emerytalny jest zobowiązany zwrócić do Zakładu na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych – różnica stanowi przychody funduszu emerytalnego, wyodrębnionego w ramach Funduszu Ubezpieczeń Społecznych.
 
 9. Odsetki za zwłokę, koszty egzekucyjne oraz dodatkowa opłata finansowane są w całości z własnych środków przez płatnika składek.
 
@@ -832,7 +805,7 @@ Art. 99–106. (pominięte)
 
 - **1)** część ułamkowa nieruchomości, jeżeli stanowi udział dłużnika;
 - **2)** nieruchomość stanowiąca przedmiot współwłasności łącznej dłużnika i jego małżonka;
-- **3)** nieruchomość stanowiąca przedmiot współwłasności łącznej wspólników spółki cywilnej lub część ułamkowa nieruchomości stanowiąca udział wspólników spółki cywilnej w przypadku gdy dłużnikiem jest spółka.
+- **3)** nieruchomość stanowiąca przedmiot współwłasności łącznej wspólników spółki cywilnej lub część ułamkowa nieruchomości stanowiąca udział wspólników spółki cywilnej – w przypadku gdy dłużnikiem jest spółka.
 
 3b. Przedmiotem hipoteki przymusowej może być także:
 
@@ -843,7 +816,7 @@ Art. 99–106. (pominięte)
 
 3c. Do hipoteki przymusowej określonej w ust. 3a i 3b stosuje się odpowiednio przepisy o hipotece na nieruchomości.
 
-4. Do hipoteki, o której mowa w ust. 3–3c, z uwzględnieniem ust. 5, stosuje się odpowiednio przepisy ustawy Ordynacja podatkowa, dotyczące hipoteki przymusowej.
+4. Do hipoteki, o której mowa w ust. 3–3c, z uwzględnieniem ust. 5, stosuje się odpowiednio przepisy ustawy – Ordynacja podatkowa, dotyczące hipoteki przymusowej.
 
 5. Na żądanie Zakładu lub kierownika terenowej jednostki organizacyjnej Zakładu będącego jednocześnie organem egzekucyjnym dłużnik obowiązany jest do wyjawienia nieruchomości oraz przysługujących mu praw majątkowych, które mogą być przedmiotem hipoteki przymusowej lub zastawu, jeżeli z dowodów zgromadzonych w postępowaniu wynika, że należności z tytułu składek mogą zostać nieopłacone.
 
@@ -860,9 +833,9 @@ Art. 99–106. (pominięte)
 
 1. Należności z tytułu składek są zabezpieczone ustawowym prawem zastawu na wszystkich będących własnością dłużnika oraz stanowiących współwłasność łączną dłużnika i jego małżonka rzeczach ruchomych oraz zbywalnych prawach majątkowych.
 
-2. Do zastawu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy ustawy Ordynacja podatkowa, dotyczące zastawów skarbowych.
+2. Do zastawu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy ustawy – Ordynacja podatkowa, dotyczące zastawów skarbowych.
 
-2a. Zastaw, o którym mowa w ust. 1, wpisuje się do Rejestru Zastawów Skarbowych prowadzonego na podstawie art. 43 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+2a. Zastaw, o którym mowa w ust. 1, wpisuje się do Rejestru Zastawów Skarbowych prowadzonego na podstawie art. 43 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 3. (uchylony)
 
@@ -875,12 +848,12 @@ Art. 99–106. (pominięte)
 3. Całkowita nieściągalność, o której mowa w ust. 2, zachodzi, gdy:
 
 - **1)** dłużnik zmarł nie pozostawiając żadnego majątku lub pozostawił ruchomości niepodlegające egzekucji na podstawie odrębnych przepisów albo pozostawił przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty stanowiącej trzykrotność przeciętnego wynagrodzenia i jednocześnie brak jest następców prawnych oraz nie ma możliwości przeniesienia odpowiedzialności na osoby trzecie;
-- **2)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika lub umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 13 i art. 361 pkt 1 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172);
-- **3)** nastąpiło zaprzestanie prowadzenia działalności przy jednoczesnym braku majątku, z którego można egzekwować należności, małżonka, następców prawnych, możliwości przeniesienia odpowiedzialności na osoby trzecie w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa;
+- **2)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika lub umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 13 i art. 361 pkt 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172);
+- **3)** nastąpiło zaprzestanie prowadzenia działalności przy jednoczesnym braku majątku, z którego można egzekwować należności, małżonka, następców prawnych, możliwości przeniesienia odpowiedzialności na osoby trzecie w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;
 - **4)** nie nastąpiło zaspokojenie należności w zakończonym postępowaniu likwidacyjnym;
 - **4a)** wysokość nieopłaconej składki nie przekracza kwoty kosztów upomnienia w postępowaniu egzekucyjnym;
 - **4b)** nie nastąpiło zaspokojenie należności w umorzonym postępowaniu upadłościowym;
-- **4c)** ogłoszono upadłość, o której mowa w części III w tytule V ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe;
+- **4c)** ogłoszono upadłość, o której mowa w części III w tytule V ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe;
 - **5)** naczelnik urzędu skarbowego lub komornik sądowy stwierdził brak majątku, z którego można prowadzić egzekucję;
 - **6)** jest oczywiste, że w postępowaniu egzekucyjnym nie uzyska się kwot przekraczających wydatki egzekucyjne.
 
@@ -908,9 +881,9 @@ Art. 99–106. (pominięte)
 
 2. Od składek, które rozłożono na raty, nie nalicza się odsetek za zwłokę począwszy od następnego dnia po dniu wpływu wniosku o udzielenie tych ulg.
 
-3. Jeżeli dłużnik nie spłaci w terminie ustalonych przez Zakład rat, pozostała kwota staje się natychmiast wymagalna wraz z odsetkami za zwłokę naliczonymi na zasadach określonych w ustawie Ordynacja podatkowa.
+3. Jeżeli dłużnik nie spłaci w terminie ustalonych przez Zakład rat, pozostała kwota staje się natychmiast wymagalna wraz z odsetkami za zwłokę naliczonymi na zasadach określonych w ustawie – Ordynacja podatkowa.
 
-4. W przypadkach, o których mowa w ust. 1, Zakład ustala opłatę prolongacyjną na zasadach i w wysokości przewidzianej w ustawie Ordynacja podatkowa dla podatków stanowiących dochód budżetu państwa.
+4. W przypadkach, o których mowa w ust. 1, Zakład ustala opłatę prolongacyjną na zasadach i w wysokości przewidzianej w ustawie – Ordynacja podatkowa dla podatków stanowiących dochód budżetu państwa.
 
 5. W przypadku odroczenia terminu płatności należności z tytułu składek lub rozłożenia należności na raty uznaje się, że płatnik składek nie posiada zadłużenia z tytułu należności z tytułu składek, jeżeli:
 
@@ -919,7 +892,7 @@ Art. 99–106. (pominięte)
 
 **Art. 30.** Do składek finansowanych przez ubezpieczonych niebędących płatnikami składek nie stosuje się przepisu art. 28, z wyłączeniem ust. 3 pkt 4c.
 
-**Art. 31.** Do należności z tytułu składek stosuje się odpowiednio: art. 7a, art. 12, art. 26, art. 29 § 1 i 2, art. 33–33b, art. 38a, art. 51 § 1, art. 55, art. 59 § 1 pkt 1, 3, 4, 8 i 9, art. 60 § 1, art. 61 § 1, art. 62 § 3 i 5, art. 62b § 1 pkt 2 i § 3, art. 72 § 1 pkt 1 i 4 i § 2, art. 73 § 1 pkt 1 i 5, art. 77b § 1 i 2, art. 91, art. 93, art. 93a–93c, art. 93e, art. 94, art. 97 § 1 i 1a, art. 97a § 1–3, art. 98 § 1 i § 2 pkt 1, 2, 5 i 7, art. 100, art. 101, art. 105 § 1 i 2, art. 106 § 1–3, art. 107 § 1, 1a, § 2 pkt 2 i 4 i § 3, art. 108 § 1, 3 i 4, art. 109 § 1 w zakresie art. 29, art. 109 § 2 pkt 1, art. 110 § 1, § 2 pkt 2 i § 3, art. 111 § 1–4 i § 5 pkt 1, art. 112 § 1–5, art. 112b–114, art. 115–117, art. 117d, art. 117e, art. 118 § 1 oraz art. 119 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+**Art. 31.** Do należności z tytułu składek stosuje się odpowiednio: art. 7a, art. 12, art. 26, art. 29 § 1 i 2, art. 33–33b, art. 38a, art. 51 § 1, art. 55, art. 59 § 1 pkt 1, 3, 4, 8 i 9, art. 60 § 1, art. 61 § 1, art. 62 § 3 i 5, art. 62b § 1 pkt 2 i § 3, art. 72 § 1 pkt 1 i 4 i § 2, art. 73 § 1 pkt 1 i 5, art. 77b § 1 i 2, art. 91, art. 93, art. 93a–93c, art. 93e, art. 94, art. 97 § 1 i 1a, art. 97a § 1–3, art. 98 § 1 i § 2 pkt 1, 2, 5 i 7, art. 100, art. 101, art. 105 § 1 i 2, art. 106 § 1–3, art. 107 § 1, 1a, § 2 pkt 2 i 4 i § 3, art. 108 § 1, 3 i 4, art. 109 § 1 w zakresie art. 29, art. 109 § 2 pkt 1, art. 110 § 1, § 2 pkt 2 i § 3, art. 111 § 1–4 i § 5 pkt 1, art. 112 § 1–5, art. 112b–114, art. 115–117, art. 117d, art. 117e, art. 118 § 1 oraz art. 119 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 **Art. 32.**
 
@@ -934,7 +907,7 @@ Art. 99–106. (pominięte)
 1. Zakład prowadzi:
 
 - **1)** konta ubezpieczonych, z których każde jest oznaczone numerem PESEL;
-- **2)** konta płatników składek oznaczone numerem NIP, a w przypadku gdy płatnik składek nie posiada numeru NIP, do czasu jego uzyskania numerem z krajowego rejestru urzędowego podmiotów gospodarki narodowej REGON, a jeżeli nie posiada również tego numeru numerem PESEL lub serią i numerem dowodu osobistego albo paszportu;
+- **2)** konta płatników składek oznaczone numerem NIP, a w przypadku gdy płatnik składek nie posiada numeru NIP, do czasu jego uzyskania – numerem z krajowego rejestru urzędowego podmiotów gospodarki narodowej REGON, a jeżeli nie posiada również tego numeru – numerem PESEL lub serią i numerem dowodu osobistego albo paszportu;
 - **3)** Centralny Rejestr Ubezpieczonych;
 - **4)** Centralny Rejestr Płatników Składek;
 - **5)** Centralny Rejestr Członków Otwartych Funduszy Emerytalnych;
@@ -945,14 +918,14 @@ Art. 99–106. (pominięte)
 
 1a. (uchylony)
 
-2. Jeżeli osoba ubezpieczona, o której mowa w ust. 1 pkt 1, nie posiada numeru PESEL, nie podała go lub podany numer budzi wątpliwości co do jego prawidłowości, konto ubezpieczonego oznacza się numerem NIP, a jeżeli nie posiada również tego numeru serią i numerem dowodu osobistego albo paszportu.
+2. Jeżeli osoba ubezpieczona, o której mowa w ust. 1 pkt 1, nie posiada numeru PESEL, nie podała go lub podany numer budzi wątpliwości co do jego prawidłowości, konto ubezpieczonego oznacza się numerem NIP, a jeżeli nie posiada również tego numeru – serią i numerem dowodu osobistego albo paszportu.
 
 3. (uchylony)
 
 4. Zakład jest uprawniony do nieodpłatnego korzystania z:
 
 - **1)** rejestru PESEL;
-- **2)** danych zgromadzonych w Centralnym Rejestrze Podmiotów Krajowej Ewidencji Podatników na zasadach przewidzianych w przepisach o zasadach ewidencji i identyfikacji podatników i płatników;
+- **2)** danych zgromadzonych w Centralnym Rejestrze Podmiotów – Krajowej Ewidencji Podatników na zasadach przewidzianych w przepisach o zasadach ewidencji i identyfikacji podatników i płatników;
 - **3)** danych zgromadzonych w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), prowadzonym przez Prezesa Głównego Urzędu Statystycznego.
 
 4a. Organ prowadzący rejestr PESEL przekazuje do Zakładu w formie elektronicznej:
@@ -988,10 +961,10 @@ Art. 99–106. (pominięte)
 
 1. We wszystkich dokumentach związanych z ubezpieczeniami społecznymi, w tym z rozliczaniem składek oraz przyznawaniem i wypłatą świadczeń określonych odrębnymi przepisami, podaje się:
 
-- **1)** w przypadku ubezpieczonych numer PESEL, a w razie gdy ubezpieczonemu nie nadano numeru PESEL serię i numer dowodu osobistego lub paszportu, z zastrzeżeniem ust. 1a;
-- **2)** w przypadku płatników składek numery NIP i REGON, a jeżeli płatnikowi składek nie nadano tych numerów lub jednego z nich numer PESEL lub serię i numer dowodu osobistego albo paszportu.
+- **1)** w przypadku ubezpieczonych – numer PESEL, a w razie gdy ubezpieczonemu nie nadano numeru PESEL – serię i numer dowodu osobistego lub paszportu, z zastrzeżeniem ust. 1a;
+- **2)** w przypadku płatników składek – numery NIP i REGON, a jeżeli płatnikowi składek nie nadano tych numerów lub jednego z nich – numer PESEL lub serię i numer dowodu osobistego albo paszportu.
 
-1a. W imiennych raportach miesięcznych, o których mowa w art. 41, należy podać numer PESEL, a w razie gdy ubezpieczonemu nie nadano tego numeru serię i numer dowodu osobistego lub paszportu.
+1a. W imiennych raportach miesięcznych, o których mowa w art. 41, należy podać numer PESEL, a w razie gdy ubezpieczonemu nie nadano tego numeru – serię i numer dowodu osobistego lub paszportu.
 
 1b. Do dokumentów płatniczych, o których mowa w art. 47 ust. 4a, nie stosuje się przepisu ust. 1.
 
@@ -1025,7 +998,7 @@ Art. 99–106. (pominięte)
 
 4c. Zgłoszeń, o których mowa w ust. 3, marynarze dokonują niepóźniej niż ostatniego dnia okresu, o którym mowa w art. 8 ust. 20.
 
-4d. W przypadku braku dokonania przez marynarza zgłoszenia do ubezpieczeń społecznych albo dokonania takiego zgłoszenia po terminie nie powstaje obowiązek podlegania ubezpieczeniom emerytalnemu i rentowym z tytułu, o którym mowa w art. 6 ust. 1 pkt 24.
+4d. W przypadku braku dokonania przez marynarza zgłoszenia do ubezpieczeń społecznych albo dokonania takiego zgłoszenia po terminie nie powstaje obowiązek podlegania ubezpieczeniom emerytalnemu i rentowym z tytułu, o którym mowa w art. 6 ust. 1 pkt 24. <4e. Zgłoszenia do ubezpieczeń społecznych osób określonych w art. 6 ust. 1 pkt 1, wobec których stwierdzono istnienie stosunku pracy decyzją, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, dokonuje się w terminie 7 dni od dnia, w którym decyzja ta stała się ostateczna, a w przypadku wniesienia odwołania do sądu – od dnia, w którym orzeczenie sądu stało się prawomocne.>
 
 5. Osoby, które są obejmowane ubezpieczeniami społecznymi na zasadach dobrowolności, zgłaszają wniosek o objęcie ich ubezpieczeniem w terminie przez nie wybranym. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 
@@ -1056,11 +1029,11 @@ Art. 99–106. (pominięte)
 14a. O zmianie w stosunku do danych wykazanych w zgłoszeniu, o którym mowa w ust. 10, dotyczącej tytułu ubezpieczenia związanego ze sposobem obliczania podstawy wymiaru składek, o którym mowa w art. 18c ust. 1, ubezpieczony zawiadamia Zakład przez złożenie zgłoszenia wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych zawierającego prawidłowe dane w terminie:
 
 - **1)** do końca stycznia danego roku kalendarzowego, jeżeli zmiana w stosunku do danych wykazanych w zgłoszeniu następuje w styczniu tego roku, przy czym jeżeli termin ten jest krótszy niż 7 dni, ubezpieczony dokonuje zgłoszenia do ubezpieczeń społecznych w terminie 7 dni od zaistnienia zmiany;
-- **2)** 7 dni od zaistnienia zmiany w pozostałych przypadkach.
+- **2)** 7 dni od zaistnienia zmiany – w pozostałych przypadkach.
 
 15. Osoby, o których mowa w art. 6a ust. 1 i art. 6b ust. 1, składają oświadczenie o zamiarze podlegania ubezpieczeniom emerytalnemu i rentowym lub odpowiednio ubezpieczeniu emerytalnemu, które zawiera:
 
-- **1)** imię i nazwisko osoby sprawującej osobistą opiekę nad dzieckiem oraz jej numer PESEL, a w razie gdy nie nadano numeru PESEL serię i numer dowodu osobistego lub paszportu;
+- **1)** imię i nazwisko osoby sprawującej osobistą opiekę nad dzieckiem oraz jej numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dowodu osobistego lub paszportu;
 - **2)** miejsce zamieszkania;
 - **3)** dzień rozpoczęcia sprawowania osobistej opieki nad dzieckiem;
 - **4)** dzień zakończenia sprawowania osobistej opieki nad dzieckiem;
@@ -1084,17 +1057,17 @@ Art. 99–106. (pominięte)
 
 **Art. 36a.**
 
-1. Ubezpieczenia emerytalne i rentowe w okresie zawieszenia wykonywania działalności gospodarczej, o którym mowa w art. 23 ust. 1–3 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, przez osoby prowadzące pozarolniczą działalność gospodarczą są dobrowolne. Przedsiębiorca w okresie zawieszenia wykonywania działalności gospodarczej nie opłaca ubezpieczenia chorobowego i wypadkowego.
+1. Ubezpieczenia emerytalne i rentowe w okresie zawieszenia wykonywania działalności gospodarczej, o którym mowa w art. 23 ust. 1–3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, przez osoby prowadzące pozarolniczą działalność gospodarczą są dobrowolne. Przedsiębiorca w okresie zawieszenia wykonywania działalności gospodarczej nie opłaca ubezpieczenia chorobowego i wypadkowego.
 
 2. Zawieszenie wykonywania działalności gospodarczej powoduje ustanie obowiązku ubezpieczeń społecznych od dnia, w którym rozpoczyna się zawieszenie wykonywania działalności gospodarczej, do dnia poprzedzającego dzień wznowienia wykonywania działalności gospodarczej.
 
 3. Za okres zawieszenia wykonywania działalności gospodarczej przedsiębiorca będący płatnikiem składek wyłącznie za siebie nie ma obowiązku składania deklaracji rozliczeniowej oraz opłacania składek na ubezpieczenia społeczne przewidzianych w ustawie.
 
-4. Wznowienie wykonywania działalności gospodarczej nie wymaga ponownego zgłoszenia do obowiązkowych ubezpieczeń emerytalnego, rentowych i wypadkowego, a w przypadku osób, które do dnia zawieszenia działalności podlegały dobrowolnemu ubezpieczeniu chorobowemu także do tego ubezpieczenia. Art. 36aa. 1. Osoba sprawująca osobistą opiekę nad dzieckiem, która prowadziła pozarolniczą działalność gospodarczą przez okres co najmniej 6 miesięcy, może zawiesić wykonywanie działalności gospodarczej na okres do 3 lat w celu sprawowania osobistej opieki nad dzieckiem, niedłużej jednak niż do zakończenia roku kalendarzowego, w którym dziecko kończy 6. rok życia, a w przypadku dziecka, które z powodu stanu zdrowia potwierdzonego orzeczeniem o niepełnosprawności lub stopniu niepełnosprawności wymaga osobistej opieki osoby prowadzącej działalność gospodarczą, na okres do 6 lat, niedłużej jednak niż do ukończenia przez dziecko 18. roku życia. Przepis art. 6a ust. 2 stosuje się odpowiednio.
+4. Wznowienie wykonywania działalności gospodarczej nie wymaga ponownego zgłoszenia do obowiązkowych ubezpieczeń emerytalnego, rentowych i wypadkowego, a w przypadku osób, które do dnia zawieszenia działalności podlegały dobrowolnemu ubezpieczeniu chorobowemu – także do tego ubezpieczenia. Art. 36aa. 1. Osoba sprawująca osobistą opiekę nad dzieckiem, która prowadziła pozarolniczą działalność gospodarczą przez okres co najmniej 6 miesięcy, może zawiesić wykonywanie działalności gospodarczej na okres do 3 lat w celu sprawowania osobistej opieki nad dzieckiem, niedłużej jednak niż do zakończenia roku kalendarzowego, w którym dziecko kończy 6. rok życia, a w przypadku dziecka, które z powodu stanu zdrowia potwierdzonego orzeczeniem o niepełnosprawności lub stopniu niepełnosprawności wymaga osobistej opieki osoby prowadzącej działalność gospodarczą, na okres do 6 lat, niedłużej jednak niż do ukończenia przez dziecko 18. roku życia. Przepis art. 6a ust. 2 stosuje się odpowiednio.
 
 2. Z uprawnienia, o którym mowa w ust. 1, można korzystać w całości lub w niewięcej niż 5 częściach.
 
-3. Do zawieszenia wykonywania działalności gospodarczej, o którym mowa w ust. 1, przepisy art. 22–25 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców stosuje się odpowiednio. Art. 36ab. 42) 1. Marynarz po zakończeniu wykonywania pracy na statku morskim może dokonać zawieszenia statusu marynarza na okres do 3 miesięcy w danym roku kalendarzowym, jeżeli w tym okresie nie wykonuje pracy na statku morskim.
+3. Do zawieszenia wykonywania działalności gospodarczej, o którym mowa w ust. 1, przepisy art. 22–25 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców stosuje się odpowiednio. Art. 36ab. 1. Marynarz po zakończeniu wykonywania pracy na statku morskim może dokonać zawieszenia statusu marynarza na okres do 3 miesięcy w danym roku kalendarzowym, jeżeli w tym okresie nie wykonuje pracy na statku morskim.
 
 2. Z uprawnienia, o którym mowa w ust. 1, można skorzystać w całości lub w 3 częściach niekrótszych niż pełny miesiąc kalendarzowy.
 
@@ -1102,19 +1075,17 @@ Art. 99–106. (pominięte)
 
 **Art. 36b.**
 
-1. Osoby, o których mowa w art. 6 ust. 1 pkt 5, będące przedsiębiorcami w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, mogą dokonywać zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach, z zastrzeżeniem art. 36 ust. 14, na podstawie ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy.
-
-2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w tych zgłoszeniach.
+1. Osoby, o których mowa w art. 6 ust. 1 pkt 5, będące przedsiębiorcami w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, mogą dokonywać zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach, z zastrzeżeniem art. 36 ust. 14, na podstawie ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy. [2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w tych zgłoszeniach.] <2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub wniosku o publikację informacji o spółce cywilnej w tej ewidencji wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w tych zgłoszeniach.>
 
 **Art. 36c.**
 
 1. Osoby niepodejmujące zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1, składają wniosek o zamiarze podlegania przez nie ubezpieczeniom emerytalnemu i rentowym oraz o zgłoszenie członków ich rodziny do ubezpieczenia zdrowotnego, który zawiera:
 
-- **1)** imię i nazwisko osoby niepodejmującej zatrudnienia lub innej pracy zarobkowej, datę urodzenia, adres miejsca zamieszkania, obywatelstwo, płeć, oraz jej numer PESEL, a w razie gdy nie nadano numeru PESEL serię i numer dokumentu potwierdzającego tożsamość, adres elektroniczny, numer telefonu;
+- **1)** imię i nazwisko osoby niepodejmującej zatrudnienia lub innej pracy zarobkowej, datę urodzenia, adres miejsca zamieszkania, obywatelstwo, płeć, oraz jej numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość, adres elektroniczny, numer telefonu;
 - **2)** dzień rozpoczęcia sprawowania opieki nad osobą pobierającą świadczenie wspierające;
 - **3)** dzień zakończenia sprawowania opieki nad osobą pobierającą świadczenie wspierające;
 - **4)** oświadczenie o wspólnym zamieszkiwaniu i gospodarowaniu;
-- **5)** imię i nazwisko osoby pobierającej świadczenie wspierające, datę jej urodzenia oraz jej numer PESEL, a w razie gdy nie nadano numeru PESEL serię i numer dokumentu potwierdzającego tożsamość;
+- **5)** imię i nazwisko osoby pobierającej świadczenie wspierające, datę jej urodzenia oraz jej numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość;
 - **6)** inne dane niezbędne do zgłoszenia do ubezpieczeń emerytalnego i rentowych oraz ubezpieczenia zdrowotnego osoby niepodejmującej zatrudnienia lub innej pracy zarobkowej, o której mowa w art. 6c ust. 1, oraz członków jej rodziny.
 
 2. Informacje przedstawione we wniosku, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywego oświadczenia. Składający wniosek jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie Zakładu o odpowiedzialności karnej za składanie fałszywych zeznań.
@@ -1163,7 +1134,7 @@ Art. 99–106. (pominięte)
 4. W przypadku:
 
 - **1)** rozstrzygnięcia, o którym mowa w ust. 1, które nie uwzględnia w całości wniosku, o którym mowa w art. 17a ust. 1, lub uwzględnia ten wniosek w części,
-- **2)** stwierdzenia w związku z przeprowadzonym postępowaniem wyjaśniającym lub kontrolą, że płatnik składek nie spełnia warunków, o których mowa w art. 17a lub art. 17b Zakład wydaje decyzję.
+- **2)** stwierdzenia w związku z przeprowadzonym postępowaniem wyjaśniającym lub kontrolą, że płatnik składek nie spełnia warunków, o których mowa w art. 17a lub art. 17b – Zakład wydaje decyzję.
 
 5. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma w sprawie zwolnienia z opłacenia składek, o których mowa w art. 17a, Zakład sporządza i doręcza wnioskodawcy w postaci elektronicznej na profilu informacyjnym.
 
@@ -1189,13 +1160,17 @@ Art. 99–106. (pominięte)
 
 3. Jeżeli podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych wypłacał świadczenia podlegające rozliczeniu w ciężar składek na ubezpieczenia społeczne za okres wskazany w decyzji, sporządzane przez Zakład dokumenty, o których mowa w ust. 2, uwzględniają te świadczenia.
 
-4. Składki nienależnie opłacone przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych za okres wskazany w decyzji, o której mowa w ust. 1, Zakład zalicza z urzędu na poczet należności z tytułu składek płatnika składek. Zakład dokonuje zaliczenia ustalonej do zaliczenia kwoty na poczet zaległych lub bieżących składek, a w razie ich braku na poczet przyszłych składek. Przepisów art. 24 ust. 6a–6f nie stosuje się.
+4. Składki nienależnie opłacone przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych za okres wskazany w decyzji, o której mowa w ust. 1, Zakład zalicza z urzędu na poczet należności z tytułu składek płatnika składek. Zakład dokonuje zaliczenia ustalonej do zaliczenia kwoty na poczet zaległych lub bieżących składek, a w razie ich braku – na poczet przyszłych składek. Przepisów art. 24 ust. 6a–6f nie stosuje się.
 
-5. Kwotę do zaliczenia na poczet należności z tytułu składek na ubezpieczenia społeczne ustala się dla okresów rozliczeniowych wskazanych w decyzji, o której mowa w ust. 1, dla wszystkich ubezpieczonych płatnika składek, zgłoszonych za dany okres rozliczeniowy przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych według następującego wzoru: wpłata podmiotu zgłaszającego ubezpieczonych do ubezpieczeń społecznych za dany okres kwota zadeklarowanych składek kwota do rozliczeniowy za ubezpieczonego przez podmiot zaliczenia za dany okres = x zgłaszający ubezpieczonych rozliczeniowy łączna suma składek wykazanych w deklaracji do ubezpieczeń społecznych rozliczeniowej przez podmiot zgłaszający za dany okres rozliczeniowy ubezpieczonych do ubezpieczeń społecznych za dany okres rozliczeniowy
+5. Kwotę do zaliczenia na poczet należności z tytułu składek na ubezpieczenia społeczne ustala się dla okresów rozliczeniowych wskazanych w decyzji, o której mowa w ust. 1, dla wszystkich ubezpieczonych płatnika składek, zgłoszonych za dany okres rozliczeniowy przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych według następującego wzoru: = x
 
 6. Kwotę do zaliczenia na poczet należności z tytułu składek na ubezpieczenia społeczne płatnika składek ustala się w zaokrągleniu do pełnych złotych w dół, a grosze pomija się.
 
-7. Do należności płatnika składek z tytułu składek na Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych oraz na ubezpieczenie zdrowotne ust. 4–6 stosuje się odpowiednio.
+7. Do należności płatnika składek z tytułu składek na Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych oraz na ubezpieczenie zdrowotne ust. 4–6 stosuje się odpowiednio. <Art. 38b. 1. Składki opłacone za osobę zgłoszoną do ubezpieczeń społecznych z tytułu, o którym mowa w art. 6 ust. 1 pkt 4 albo 5, wobec której wydano decyzję, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, stwierdzającą istnienie stosunku pracy, uznaje się za opłacone na poczet należności z tytułu, o którym mowa w art. 6 ust. 1 pkt 1.
+
+2. Płatnik składek jest obowiązany przekazać do Zakładu dokumenty związane z ubezpieczeniami społecznymi określone w ustawie za okres objęty decyzją, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, niepóźniej niż w terminie określonym w art. 36 ust. 4e.
+
+3. W przypadku, o którym mowa w ust. 1, nie stosuje się przepisów art. 24 ust. 6a–6g.>
 
 **Art. 39.**
 
@@ -1233,8 +1208,8 @@ Art. 99–106. (pominięte)
 
 5. Jeżeli ubezpieczony nie zawrze umowy z wpisanym w oświadczeniu, o którym mowa w ust. 1 pkt 1, otwartym funduszem emerytalnym, składka, o której mowa w art. 22 ust. 3:
 
-- **1)** pkt 1 lit. a, jest przekazywana do otwartego funduszu emerytalnego, którego ubezpieczony jest członkiem w przypadku ubezpieczonego będącego członkiem otwartego funduszu emerytalnego;
-- **2)** pkt 2, jest ewidencjonowana na subkoncie, o którym mowa w art. 40a w przypadku ubezpieczonego niebędącego członkiem otwartego funduszu emerytalnego.
+- **1)** pkt 1 lit. a, jest przekazywana do otwartego funduszu emerytalnego, którego ubezpieczony jest członkiem – w przypadku ubezpieczonego będącego członkiem otwartego funduszu emerytalnego;
+- **2)** pkt 2, jest ewidencjonowana na subkoncie, o którym mowa w art. 40a – w przypadku ubezpieczonego niebędącego członkiem otwartego funduszu emerytalnego.
 
 6. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzory oświadczeń, o których mowa w ust. 1, uwzględniając, że w jego treści znajduje się aktualny wykaz wszystkich nazw otwartych funduszy emerytalnych, oraz biorąc pod uwagę konieczność zapewnienia ochrony interesu ubezpieczonych, prawidłowości przekazywania lub ewidencjonowania składek oraz uwzględniając wymogi kompletności oświadczenia.
 
@@ -1242,19 +1217,19 @@ Art. 99–106. (pominięte)
 
 1. Na koncie ubezpieczonego ewidencjonuje się informacje o zwaloryzowanej wysokości składek na ubezpieczenie emerytalne, z wyłączeniem składek podlegających odprowadzeniu do otwartego funduszu emerytalnego i zewidencjonowaniu na subkoncie, o którym mowa w art. 40a:
 
-- **1)** należnych w przypadku ubezpieczonych niebędących płatnikami składek;
-- **2)** wpłaconych w przypadku ubezpieczonych będących płatnikami składek oraz osób współpracujących z osobami prowadzącymi pozarolniczą działalność lub z osobami fizycznymi wskazanymi w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+- **1)** należnych – w przypadku ubezpieczonych niebędących płatnikami składek;
+- **2)** wpłaconych – w przypadku ubezpieczonych będących płatnikami składek oraz osób współpracujących z osobami prowadzącymi pozarolniczą działalność lub z osobami fizycznymi wskazanymi w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 1a. Jeżeli ubezpieczony niebędący płatnikiem składek w ciągu 3 miesięcy od upływu terminu opłacenia składki, o której mowa w ust. 1 pkt 1, stwierdzi, że składka ta nie została opłacona, może zwrócić się do Zakładu o udzielenie informacji, czy Zakład podjął działania zmierzające do jej ściągnięcia.
 
 1b. Na koncie ubezpieczonego niebędącego płatnikiem składek ewidencjonuje się informacje o zwaloryzowanej wysokości należnych składek podlegających:
 
 - **1)** odprowadzeniu do otwartego funduszu emerytalnego,
-- **2)** zewidencjonowaniu na subkoncie, o którym mowa w art. 40a które uległy przedawnieniu zgodnie z art. 24.
+- **2)** zewidencjonowaniu na subkoncie, o którym mowa w art. 40a – które uległy przedawnieniu zgodnie z art. 24.
 
 1c. Na koncie ubezpieczonego ewidencjonuje się także informacje o zwaloryzowanej wysokości składek podlegających odprowadzeniu do otwartego funduszu emerytalnego lub zewidencjonowaniu na subkoncie, o którym mowa w art. 40a:
 
-- **1)** w przypadku ubezpieczonych, o których mowa w ust. 1 pkt 1, należnych za okres do dnia złożenia wniosku o emeryturę określoną w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych lub nabycia prawa do emerytury, jeżeli złożenie takiego wniosku nie jest wymagane nieopłaconych lub niezidentyfikowanych do tego dnia, także wówczas gdy nie uległy one przedawnieniu;
+- **1)** w przypadku ubezpieczonych, o których mowa w ust. 1 pkt 1, należnych za okres do dnia złożenia wniosku o emeryturę określoną w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych lub nabycia prawa do emerytury, jeżeli złożenie takiego wniosku nie jest wymagane – nieopłaconych lub niezidentyfikowanych do tego dnia, także wówczas gdy nie uległy one przedawnieniu;
 - **2)** w przypadku ubezpieczonych, o których mowa w ust. 1 pkt 2, opłaconych lub zidentyfikowanych po dniu złożenia wniosku o emeryturę określoną w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych lub nabycia prawa do emerytury, jeżeli złożenie takiego wniosku nie jest wymagane.
 
 1d. Jako datę zewidencjonowania na koncie ubezpieczonego składek, o których mowa w ust. 1b i 1c, przyjmuje się dzień zewidencjonowania na koncie ubezpieczonego składek, o których mowa w ust. 1 pkt 1, należnych za ten sam miesiąc kalendarzowy.
@@ -1263,7 +1238,7 @@ Art. 99–106. (pominięte)
 
 - **1)** osiągnięcia wieku emerytalnego wynoszącego 65 lat;
 - **2)** osiągnięcia wieku emerytalnego wynoszącego 60 lat przez osobę, która nie spełnia ustawowych warunków do ustalenia prawa do okresowej emerytury kapitałowej, z zastrzeżeniem ust. 1f;
-- **3)** o którym mowa w art. 88a ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela.
+- **3)** o którym mowa w art. 88a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 
 1f. Przepisu ust. 1e nie stosuje się do osób spełniających ustawowe warunki do ustalenia prawa do okresowej emerytury kapitałowej.
 
@@ -1346,16 +1321,16 @@ Art. 99–106. (pominięte)
 
 2. W przypadku ustalania wysokości emerytury:
 
-- **1)** w pierwszym kwartale danego roku ostatniej kwartalnej waloryzacji składek dokonuje się za trzeci kwartał poprzedniego roku;
-- **2)** w drugim kwartale danego roku ostatniej kwartalnej waloryzacji składek dokonuje się za czwarty kwartał poprzedniego roku;
-- **3)** w trzecim kwartale danego roku ostatniej kwartalnej waloryzacji składek dokonuje się za pierwszy kwartał danego roku;
-- **4)** w czwartym kwartale danego roku ostatniej kwartalnej waloryzacji składek dokonuje się za drugi kwartał danego roku.
+- **1)** w pierwszym kwartale danego roku – ostatniej kwartalnej waloryzacji składek dokonuje się za trzeci kwartał poprzedniego roku;
+- **2)** w drugim kwartale danego roku – ostatniej kwartalnej waloryzacji składek dokonuje się za czwarty kwartał poprzedniego roku;
+- **3)** w trzecim kwartale danego roku – ostatniej kwartalnej waloryzacji składek dokonuje się za pierwszy kwartał danego roku;
+- **4)** w czwartym kwartale danego roku – ostatniej kwartalnej waloryzacji składek dokonuje się za drugi kwartał danego roku.
 
 3. Waloryzacji kwartalnej podlega kwota składek, środków, odsetek za zwłokę i opłaty prolongacyjnej zewidencjonowanych na subkoncie na ostatni dzień pierwszego miesiąca kwartału, za który jest przeprowadzana waloryzacja, powiększona o kwoty z tytułu poprzednich waloryzacji kwartalnych.
 
 4. Waloryzacja kwartalna polega na pomnożeniu kwoty składek, środków, odsetek za zwłokę i opłaty prolongacyjnej zewidencjonowanych na subkoncie przez wskaźnik kwartalnej waloryzacji, o którym mowa w ust. 7. W wyniku przeprowadzonej waloryzacji stan subkonta nie może ulec obniżeniu.
 
-5. Wskaźnik kwartalnej waloryzacji jest obliczany na podstawie ostatnio ogłoszonego wskaźnika rocznej waloryzacji, o którym mowa w art. 40c ust. 6, według następującego wzoru: 𝑊𝑅𝑊−100 % 𝑊𝐾𝑊 = +100 % 4 gdzie poszczególne symbole oznaczają: WKW wskaźnik kwartalnej waloryzacji, WRW wskaźnik rocznej waloryzacji, o którym mowa w art. 40c ust. 6.
+5. Wskaźnik kwartalnej waloryzacji jest obliczany na podstawie ostatnio ogłoszonego wskaźnika rocznej waloryzacji, o którym mowa w art. 40c ust. 6, według następującego wzoru: 𝑊𝑅𝑊 −100 % 𝑊𝐾𝑊 = +100 % 4 – gdzie poszczególne symbole oznaczają: WKW – wskaźnik kwartalnej waloryzacji, WRW – wskaźnik rocznej waloryzacji, o którym mowa w art. 40c ust. 6.
 
 6. Wskaźnik kwartalnej waloryzacji ustala się z dokładnością do setnych części procentu.
 
@@ -1367,7 +1342,7 @@ Art. 99–106. (pominięte)
 
 1. Zwaloryzowane kwoty składek, środków, odsetek za zwłokę i opłaty prolongacyjnej, zewidencjonowane na subkoncie, podlegają podziałowi w razie rozwodu, unieważnienia małżeństwa albo w przypadku śmierci osoby, dla której Zakład prowadzi subkonto, na zasadach określonych w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych, dotyczących podziału środków zgromadzonych na rachunku w otwartym funduszu emerytalnym w razie rozwodu, unieważnienia małżeństwa albo śmierci.
 
-2. Część składek zewidencjonowanych na subkoncie, która w wyniku podziału przypada małżonkowi, z zastrzeżeniem ust. 3, jest ewidencjonowana na subkoncie tego małżonka. Jeżeli dla małżonka nie jest prowadzone subkonto Zakład zakłada subkonto.
+2. Część składek zewidencjonowanych na subkoncie, która w wyniku podziału przypada małżonkowi, z zastrzeżeniem ust. 3, jest ewidencjonowana na subkoncie tego małżonka. Jeżeli dla małżonka nie jest prowadzone subkonto – Zakład zakłada subkonto.
 
 3. W przypadku gdy małżonek osoby zmarłej, dla której Zakład prowadzi subkonto, nabywa prawo do środków zgromadzonych na rachunku w otwartym funduszu emerytalnym jako osoba uprawniona wskazana przez zmarłego albo jako jego spadkobierca, przypadającą mu w wyniku podziału część składek zewidencjonowanych na subkoncie ewidencjonuje się na jego subkoncie, jeżeli zażąda przekazania środków zmarłego zgromadzonych na rachunku w otwartym funduszu emerytalnym na jego rachunek w otwartym funduszu emerytalnym.
 
@@ -1384,7 +1359,7 @@ Art. 99–106. (pominięte)
 7. W zawiadomieniu, o którym mowa w ust. 5, otwarty fundusz emerytalny podaje dodatkowo informacje o:
 
 - **1)** żądaniu małżonka, o którym mowa w ust. 3;
-- **2)** terminach wypłaty rat jeżeli wypłata w otwartym funduszu emerytalnym następuje w ratach.
+- **2)** terminach wypłaty rat – jeżeli wypłata w otwartym funduszu emerytalnym następuje w ratach.
 
 8. W terminie 3 miesięcy od dnia otrzymania zawiadomienia, o którym mowa w ust. 5, Zakład:
 
@@ -1434,7 +1409,7 @@ Art. 99–106. (pominięte)
 - **9)** oświadczenie płatnika składek, że dane zawarte w raporcie są zgodne ze stanem faktycznym, potwierdzone podpisem płatnika składek lub osoby przez niego upoważnionej;
 - **10)** dane dotyczące wypłaconego przychodu niezbędne do ustalenia podstawy wymiaru emerytury lub renty;
 - **11)** dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego w placówkach, o których mowa w art. 2 pkt 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych, w określonym wymiarze obowiązkowego wymiaru zajęć, z wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do nauczycielskiego świadczenia kompensacyjnego na podstawie tej ustawy;
-- **12)** dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego w placówkach, o których mowa w art. 1 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela, w określonym wymiarze obowiązkowego wymiaru zajęć, z wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do emerytury na podstawie art. 88 lub art. 88a tej ustawy lub emerytury na podstawie art. 24 i art. 27–28 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+- **12)** dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego w placówkach, o których mowa w art. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, w określonym wymiarze obowiązkowego wymiaru zajęć, z wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do emerytury na podstawie art. 88 lub art. 88a tej ustawy lub emerytury na podstawie art. 24 i art. 27–28 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 4. Imienny raport miesięczny zawiera również datę sporządzenia raportu miesięcznego, podpis płatnika składek lub osoby przez niego upoważnionej.
 
@@ -1453,14 +1428,14 @@ Art. 99–106. (pominięte)
 
 7b. Jeżeli konieczność korekty danych podanych w imiennym raporcie miesięcznym jest wynikiem stwierdzenia nieprawidłowości przez Zakład w drodze:
 
-- **1)** decyzji imienny raport miesięczny korygujący powinien być złożony niepóźniej niż w terminie 7 dni od uprawomocnienia się decyzji;
-- **2)** kontroli imienny raport miesięczny korygujący powinien być złożony niepóźniej niż w terminie 30 dni od dnia otrzymania protokołu kontroli albo otrzymania aneksu do protokołu kontroli lub informacji o sposobie rozpatrzenia zastrzeżeń, z uwzględnieniem art. 48d.
+- **1)** decyzji – imienny raport miesięczny korygujący powinien być złożony niepóźniej niż w terminie 7 dni od uprawomocnienia się decyzji;
+- **2)** kontroli – imienny raport miesięczny korygujący powinien być złożony niepóźniej niż w terminie 30 dni od dnia otrzymania protokołu kontroli albo otrzymania aneksu do protokołu kontroli lub informacji o sposobie rozpatrzenia zastrzeżeń, z uwzględnieniem art. 48d.
 
-8. Informacje zawarte w raportach, o których mowa w ust. 1–6, płatnik składek przekazuje ubezpieczonemu w podziale na poszczególne miesiące, za rok ubiegły w terminie do dnia 28 lutego roku następnego, na piśmie lub za zgodą ubezpieczonego w formie dokumentu elektronicznego w celu ich weryfikacji.
+8. Informacje zawarte w raportach, o których mowa w ust. 1–6, płatnik składek przekazuje ubezpieczonemu w podziale na poszczególne miesiące, za rok ubiegły w terminie do dnia 28 lutego roku następnego, na piśmie lub za zgodą ubezpieczonego – w formie dokumentu elektronicznego – w celu ich weryfikacji.
 
 8a. Informacja, o której mowa w ust. 8, powinna zawierać także datę jej sporządzenia oraz podpis płatnika składek lub osoby przez niego upoważnionej.
 
-8b. Informacje, o których mowa w ust. 8, płatnik składek jest obowiązany przekazać na żądanie ubezpieczonego nieczęściej niż raz na miesiąc za miesiąc poprzedni.
+8b. Informacje, o których mowa w ust. 8, płatnik składek jest obowiązany przekazać na żądanie ubezpieczonego – nieczęściej niż raz na miesiąc – za miesiąc poprzedni.
 
 9. Przepisy ust. 1–8b stosuje się odpowiednio do składek na ubezpieczenie zdrowotne, z zastrzeżeniem ust. 9a–10a.
 
@@ -1468,7 +1443,7 @@ Art. 99–106. (pominięte)
 
 10. Płatnik składek jest zwolniony z obowiązku przekazywania informacji wynikającej z ust. 9 w przypadku pobierania wyłącznie składek na ubezpieczenie zdrowotne.
 
-10a. Płatnik składek jest obowiązany przekazać informacje wynikające z ust. 9 na żądanie ubezpieczonego nieczęściej niż raz na miesiąc za miesiąc poprzedni, z wyłączeniem przypadków pobierania składek z emerytur i rent.
+10a. Płatnik składek jest obowiązany przekazać informacje wynikające z ust. 9 na żądanie ubezpieczonego – nieczęściej niż raz na miesiąc – za miesiąc poprzedni, z wyłączeniem przypadków pobierania składek z emerytur i rent.
 
 11. Ubezpieczony zgłasza na piśmie lub do protokołu do płatnika składek wniosek o sprostowanie informacji zawartych w imiennym raporcie miesięcznym w terminie 3 miesięcy od otrzymania informacji, o których mowa w ust. 8, jeżeli, jego zdaniem, nie są one zgodne ze stanem faktycznym. O fakcie tym informuje Zakład. W razie nieuwzględnienia przez płatnika składek reklamacji w terminie jednego miesiąca od daty jej wpływu, na wniosek ubezpieczonego, Zakład po przeprowadzeniu postępowania wyjaśniającego wydaje decyzję.
 
@@ -1527,31 +1502,29 @@ Art. 99–106. (pominięte)
 
 **Art. 43.**
 
-1. Płatnicy składek, z zastrzeżeniem ust. 5a–5d, są zobowiązani do złożenia druku zgłoszenie płatnika składek w Zakładzie w terminie 7 dni od:
+1. Płatnicy składek, z zastrzeżeniem ust. 5a–5d, są zobowiązani do złożenia druku – zgłoszenie płatnika składek w Zakładzie w terminie 7 dni od:
 
 - **1)** daty zatrudnienia pierwszego pracownika lub powstania stosunku prawnego uzasadniającego objęcie ubezpieczeniami emerytalnym i rentowymi pierwszej osoby;
 - **2)** daty powstania obowiązku ubezpieczeń emerytalnego i rentowych dla ubezpieczonych wyłącznie zobowiązanych do płacenia składek na własne ubezpieczenia, albo na ubezpieczenia osób z nimi współpracujących.
 
 2. Osoby, o których mowa w art. 6 ust. 1 pkt 10, oraz osoby podlegające dobrowolnie ubezpieczeniom emerytalnemu i rentowym, z wyłączeniem osób wymienionych w art. 6 ust. 1 pkt 5, wyłącznie zobowiązane do opłacania składek na własne ubezpieczenia, dokonują zgłoszenia płatnika składek łącznie ze zgłoszeniem do ubezpieczeń społecznych.
 
-3. Płatnik składek jest obowiązany złożyć druk zgłoszenie płatnika składek, o którym mowa w ust. 1, według ustalonego wzoru we wskazanej przez Zakład jednostce organizacyjnej Zakładu.
+3. Płatnik składek jest obowiązany złożyć druk – zgłoszenie płatnika składek, o którym mowa w ust. 1, według ustalonego wzoru we wskazanej przez Zakład jednostce organizacyjnej Zakładu.
 
 3a. (uchylony)
 
-4. Zgłoszenie płatnika składek osoby fizycznej zawiera w szczególności następujące dane: numery NIP i REGON, a w razie gdy płatnikowi składek nie nadano tych numerów lub jednego z nich numer PESEL lub serię i numer dowodu osobistego albo paszportu, nazwisko, imię pierwsze i drugie, datę i miejsce urodzenia, obywatelstwo, rodzaj i numer uprawnienia, na podstawie którego prowadzona jest pozarolnicza działalność, nazwę organu wydającego uprawnienie oraz datę jego wydania, nazwę skróconą firmy, pod którą prowadzona jest pozarolnicza działalność, datę powstania obowiązku opłacania składek na ubezpieczenia społeczne, wykaz rachunków bankowych, adres siedziby, adres zamieszkania, jeżeli jest inny niż adres siedziby, adres do korespondencji, adres prowadzenia działalności.
+4. Zgłoszenie płatnika składek – osoby fizycznej zawiera w szczególności następujące dane: numery NIP i REGON, a w razie gdy płatnikowi składek nie nadano tych numerów lub jednego z nich – numer PESEL lub serię i numer dowodu osobistego albo paszportu, nazwisko, imię pierwsze i drugie, datę i miejsce urodzenia, obywatelstwo, rodzaj i numer uprawnienia, na podstawie którego prowadzona jest pozarolnicza działalność, nazwę organu wydającego uprawnienie oraz datę jego wydania, nazwę skróconą firmy, pod którą prowadzona jest pozarolnicza działalność, datę powstania obowiązku opłacania składek na ubezpieczenia społeczne, wykaz rachunków bankowych, adres siedziby, adres zamieszkania, jeżeli jest inny niż adres siedziby, adres do korespondencji, adres prowadzenia działalności.
 
-5. Zgłoszenie płatnika składek osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej zawiera w szczególności następujące dane: numery NIP i REGON, nazwę skróconą płatnika, nazwę zgodną z aktem prawnym konstytuującym płatnika, nazwę organu założycielskiego płatnika, występowanie obowiązku wpisu do rejestru lub ewidencji, nazwę organu rejestrowego lub ewidencyjnego, datę i numer wpisu do rejestru lub ewidencji, datę powstania obowiązku opłacania składek na ubezpieczenia społeczne, wykaz rachunków bankowych, adres siedziby i adres do korespondencji, adres prowadzenia działalności.
+5. Zgłoszenie płatnika składek – osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej zawiera w szczególności następujące dane: numery NIP i REGON, nazwę skróconą płatnika, nazwę zgodną z aktem prawnym konstytuującym płatnika, nazwę organu założycielskiego płatnika, występowanie obowiązku wpisu do rejestru lub ewidencji, nazwę organu rejestrowego lub ewidencyjnego, datę i numer wpisu do rejestru lub ewidencji, datę powstania obowiązku opłacania składek na ubezpieczenia społeczne, wykaz rachunków bankowych, adres siedziby i adres do korespondencji, adres prowadzenia działalności.
 
-5a. Zgłoszenie płatnika składek będącego przedsiębiorcą następuje na podstawie odrębnych przepisów.
-
-5b. Zgłoszenie płatnika składek wpisanego do Krajowego Rejestru Sądowego zawiera dane:
+5a. Zgłoszenie płatnika składek będącego przedsiębiorcą następuje na podstawie odrębnych przepisów. <5aa. Zgłoszenie płatnika składek będącego spółką cywilną, o której informacje są publikowane na podstawie art. 42a ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy następuje na podstawie przepisów tej ustawy.> 5b. Zgłoszenie płatnika składek wpisanego do Krajowego Rejestru Sądowego zawiera dane:
 
 - **1)** objęte treścią wpisu w Krajowym Rejestrze Sądowym, z wyłączeniem rejestru dłużników niewypłacalnych;
-- **2)** uzupełniające: nazwę skróconą płatnika, datę powstania obowiązku opłacania składek na ubezpieczenia społeczne, wykaz rachunków bankowych, adres do korespondencji, adres prowadzenia działalności, w przypadku osobowych spółek handlowych i podmiotów podlegających wpisowi do rejestru przedsiębiorców na zasadach określonych dla spółek osobowych dane dotyczące poszczególnych wspólników, w tym ich numer NIP.
+- **2)** uzupełniające: nazwę skróconą płatnika, datę powstania obowiązku opłacania składek na ubezpieczenia społeczne, wykaz rachunków bankowych, adres do korespondencji, adres prowadzenia działalności, w przypadku osobowych spółek handlowych i podmiotów podlegających wpisowi do rejestru przedsiębiorców na zasadach określonych dla spółek osobowych – dane dotyczące poszczególnych wspólników, w tym ich numer NIP.
 
 5c. Płatnicy składek wpisani do Krajowego Rejestru Sądowego dokonują zgłoszenia wyłącznie w zakresie danych uzupełniających określonych w ust. 5b pkt 2 do właściwego naczelnika urzędu skarbowego, w terminie określonym w ust. 1.
 
-5d. Utworzenie konta płatnika składek następuje po automatycznym zamieszczeniu za pośrednictwem systemu teleinformatycznego w Centralnym Rejestrze Płatników Składek danych przekazanych z Centralnego Rejestru Podmiotów Krajowej Ewidencji Podatników.
+5d. Utworzenie konta płatnika składek następuje po automatycznym zamieszczeniu za pośrednictwem systemu teleinformatycznego w Centralnym Rejestrze Płatników Składek danych przekazanych z Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników.
 
 6. (uchylony)
 
@@ -1573,7 +1546,7 @@ Art. 99–106. (pominięte)
 
 2. Dla płatników składek rozliczających składki w odrębnych deklaracjach Zakład generuje numer rachunku składkowego osobny dla każdego z zakresów numerów deklaracji.
 
-3. Informację o przydzielonym numerze rachunku składkowego Zakład niezwłocznie przekazuje płatnikowi składek w postaci papierowej za pośrednictwem operatora pocztowego jako przesyłkę rejestrowaną lub w przypadku płatnika składek, który w systemie teleinformatycznym udostępnionym przez Zakład utworzył profil informacyjny udostępnia numer rachunku składkowego w systemie teleinformatycznym udostępnionym przez Zakład.
+3. Informację o przydzielonym numerze rachunku składkowego Zakład niezwłocznie przekazuje płatnikowi składek w postaci papierowej za pośrednictwem operatora pocztowego jako przesyłkę rejestrowaną lub – w przypadku płatnika składek, który w systemie teleinformatycznym udostępnionym przez Zakład utworzył profil informacyjny – udostępnia numer rachunku składkowego w systemie teleinformatycznym udostępnionym przez Zakład.
 
 4. W przypadku nieotrzymania informacji o przydzielonym numerze rachunku składkowego płatnik składek jest obowiązany zwrócić się do terenowej jednostki organizacyjnej Zakładu o jej przekazanie, przed najbliższym terminem opłacania składek.
 
@@ -1585,18 +1558,17 @@ Art. 99–106. (pominięte)
 
 2. Płatnicy składek wpisani do Krajowego Rejestru Sądowego dokonują zgłoszenia aktualizacyjnego wyłącznie w zakresie zmiany danych uzupełniających określonych w art. 43 ust. 5b pkt 2 do właściwego naczelnika urzędu skarbowego, w terminie 7 dni od zaistnienia zmian.
 
-3. Zmiana zewidencjonowanych danych na koncie płatnika wpisanego do Krajowego Rejestru Sądowego następuje automatycznie za pośrednictwem systemu teleinformatycznego po przekazaniu z Centralnego Rejestru Podmiotów Krajowej Ewidencji Podatników danych, o których mowa w art. 43 ust. 5b pkt 1 lub pkt 2.
+3. Zmiana zewidencjonowanych danych na koncie płatnika wpisanego do Krajowego Rejestru Sądowego następuje automatycznie za pośrednictwem systemu teleinformatycznego po przekazaniu z Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników danych, o których mowa w art. 43 ust. 5b pkt 1 lub pkt 2.
 
 **Art. 45.**
 
 1. Na koncie płatnika składek:
 
-- **1)** ewidencjonuje się dane identyfikacyjne, numery rachunków składkowych, numer NIP i numer identyfikacyjny REGON, a jeżeli płatnikowi składek nie nadano tych numerów lub jednego z nich numer PESEL lub serię i numer dowodu osobistego albo paszportu, nazwy i numery rachunków bankowych płatnika składek, dane informacyjne płatnika składek, w tym szczególną formę prawną według krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), kod rodzaju działalności według Polskiej Klasyfikacji Działalności (PKD) oraz wszelkie inne dane konieczne do obsługi konta, a w szczególności do celów rozliczania należności z tytułu składek oraz do celów prowadzenia postępowania egzekucyjnego, w tym informacje dotyczące wspólników spółek cywilnych, jawnych i komandytowych oraz komplementariuszy w spółkach komandytowo-akcyjnych, w zakresie rejestrowanym w Centralnym Rejestrze Podmiotów Krajowej Ewidencji Podatników;
+- **1)** ewidencjonuje się dane identyfikacyjne, numery rachunków składkowych, numer NIP i numer identyfikacyjny REGON, a jeżeli płatnikowi składek nie nadano tych numerów lub jednego z nich – numer PESEL lub serię i numer dowodu osobistego albo paszportu, nazwy i numery rachunków bankowych płatnika składek, dane informacyjne płatnika składek, w tym szczególną formę prawną według krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), kod rodzaju działalności według Polskiej Klasyfikacji Działalności (PKD) oraz wszelkie inne dane konieczne do obsługi konta, a w szczególności do celów rozliczania należności z tytułu składek oraz do celów prowadzenia postępowania egzekucyjnego, w tym informacje dotyczące wspólników spółek cywilnych, jawnych i komandytowych oraz komplementariuszy w spółkach komandytowo-akcyjnych, w zakresie rejestrowanym w Centralnym Rejestrze Podmiotów – Krajowej Ewidencji Podatników;
 - **1a)** ewidencjonuje się liczbę pracowników, za których jest opłacana składka na Fundusz Emerytur Pomostowych;
 - **1b)** ewidencjonuje się informacje dotyczące zawartych umów o dzieło, o których mowa w art. 36 ust. 17;
 - **2)** prowadzone są rozliczenia należnych składek, wypłacanych przez płatnika zasiłków oraz zasiłków rodzinnych i pielęgnacyjnych podlegających zaliczeniu na poczet składek oraz innych składek pobieranych przez Zakład;
-- **3)** ewidencjonuje się dane niezbędne do realizacji przez Zakład zadań zleconych odrębnymi przepisami;
-- **4)** ewidencjonuje się informację o zgodzie, o której mowa w art. 50 ust. 28 i 31, wraz z danymi osoby lub podmiotu, któremu płatnik składek udzielił zgody na udostępnienie danych.
+- **3)** ewidencjonuje się dane niezbędne do realizacji przez Zakład zadań zleconych odrębnymi przepisami; <4) ewidencjonuje się informację o zgodzie, o której mowa w art. 50 ust. 28 i 31, wraz z danymi osoby lub podmiotu, któremu płatnik składek udzielił zgody na udostępnienie danych.>
 
 2. Zakład ma prawo uzupełniać dane na koncie płatnika składek o numery NIP i REGON oraz numery rachunków składkowych.
 
@@ -1610,7 +1582,7 @@ Art. 99–106. (pominięte)
 
 4. Deklaracja rozliczeniowa zawiera:
 
-- **1)** dane identyfikacyjne płatnika składek, a w szczególności dane, o których mowa w art. 35 ust. 1 pkt 2, nazwę skróconą firmy, a w przypadku płatników składek osób fizycznych nazwisko i imię;
+- **1)** dane identyfikacyjne płatnika składek, a w szczególności dane, o których mowa w art. 35 ust. 1 pkt 2, nazwę skróconą firmy, a w przypadku płatników składek – osób fizycznych – nazwisko i imię;
 - **2)** informacje o liczbie ubezpieczonych;
 - **2a)** informacje o uprawnieniu płatnika składek do wypłaty zasiłków;
 - **3)** zestawienie należnych składek na poszczególne rodzaje ubezpieczeń społecznych, z uwzględnieniem podziału na składki finansowane przez ubezpieczonego i przez płatnika oraz budżet państwa i Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych;
@@ -1628,7 +1600,7 @@ Art. 99–106. (pominięte)
 - **6b)** liczbę pracowników, za których jest opłacana składka na Fundusz Emerytur Pomostowych;
 - **6c)** liczbę stanowisk pracy w szczególnych warunkach lub o szczególnym charakterze;
 - **7)** zestawienie zbiorcze i wynikowe należnych składek i składek na ubezpieczenie zdrowotne oraz kwot do zapłaty;
-- **8)** dla osób, które w całości opłacają składki na ubezpieczenia z własnych środków tytuł ubezpieczenia, podstawę wymiaru i ewentualne pomniejszenia wynikające z art. 19 ust. 1;
+- **8)** dla osób, które w całości opłacają składki na ubezpieczenia z własnych środków – tytuł ubezpieczenia, podstawę wymiaru i ewentualne pomniejszenia wynikające z art. 19 ust. 1;
 - **9)** oświadczenie płatnika składek, że dane zawarte w deklaracji są zgodne ze stanem faktycznym, potwierdzone podpisem płatnika składek lub osoby przez niego upoważnionej albo podpisem elektronicznym.
 
 5. Płatnicy składek zobowiązani do wykazywania w dokumentach ubezpieczeniowych zasiłków oraz finansowanych z budżetu państwa zasiłków i innych świadczeń, podlegających rozliczeniu w ciężar składek lub wynagrodzeń z tytułu niezdolności do pracy, przekazują do Zakładu:
@@ -1643,9 +1615,9 @@ Art. 99–106. (pominięte)
 1. Płatnik składek przesyła w tym samym terminie deklarację rozliczeniową, imienne raporty miesięczne oraz opłaca składki za dany miesiąc, z zastrzeżeniem ust. 1a, niepóźniej niż:
 
 - **1)** (uchylony)
-- **2)** do 5 dnia następnego miesiąca dla jednostek budżetowych i samorządowych zakładów budżetowych;
-- **3)** do 15 dnia następnego miesiąca dla płatników składek posiadających osobowość prawną;
-- **4)** do 20 dnia następnego miesiąca dla pozostałych płatników składek.
+- **2)** do 5 dnia następnego miesiąca – dla jednostek budżetowych i samorządowych zakładów budżetowych;
+- **3)** do 15 dnia następnego miesiąca – dla płatników składek posiadających osobowość prawną;
+- **4)** do 20 dnia następnego miesiąca – dla pozostałych płatników składek.
 
 1a. Twórcy i artyści przesyłają deklaracje rozliczeniowe i imienne raporty miesięczne oraz opłacają składki za okres wykonywania działalności twórczej lub artystycznej przed dniem wydania decyzji Komisji do Spraw Zaopatrzenia Emerytalnego Twórców w terminie opłacania składek za miesiąc, w którym otrzymali decyzję.
 
@@ -1655,12 +1627,12 @@ Art. 99–106. (pominięte)
 
 2d. Duchowni opłacający składki wyłącznie za siebie są zwolnieni z obowiązku składania deklaracji rozliczeniowej za kolejny miesiąc, jeżeli w ostatnio złożonej deklaracji rozliczeniowej zadeklarowali do podstawy wymiaru składek:
 
-- **1)** na ubezpieczenia społeczne kwotę w wysokości określonej w art. 18 ust. 4 pkt 5a lub w ust. 4c;
-- **2)** na ubezpieczenia zdrowotne kwotę w wysokości określonej w art. 81 ust. 1 lub 10 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+- **1)** na ubezpieczenia społeczne – kwotę w wysokości określonej w art. 18 ust. 4 pkt 5a lub w ust. 4c;
+- **2)** na ubezpieczenia zdrowotne – kwotę w wysokości określonej w art. 81 ust. 1 lub 10 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-2e. Osoby wymienione w art. 7 opłacające składki wyłącznie za siebie są zwolnione z obowiązku składania deklaracji rozliczeniowej za kolejny miesiąc, jeżeli w ostatnio złożonej deklaracji rozliczeniowej zadeklarowały do podstawy wymiaru składek na ubezpieczenia społeczne kwotę w wysokości określonej w art. 18 ust. 7.
+2e. Osoby wymienione w art. 7 opłacające składki wyłącznie za siebie są zwolnione z obowiązku składania deklaracji rozliczeniowej za kolejny miesiąc, jeżeli w ostatnio złożonej deklaracji rozliczeniowej zadeklarowały do podstawy wymiaru składek na ubezpieczenia społeczne – kwotę w wysokości określonej w art. 18 ust. 7.
 
-2f. Płatnik składek zgłaszający do ubezpieczenia wyłącznie osobę, o której mowa w art. 6 ust. 2d jest zwolniony z obowiązku składania deklaracji rozliczeniowej oraz imiennych raportów miesięcznych za kolejny miesiąc, jeżeli w ostatnio złożonej deklaracji rozliczeniowej zadeklarował do podstawy wymiaru składek na ubezpieczenia społeczne kwotę w wysokości niewyższej niż minimalne wynagrodzenie. 2fa. Za miesiąc kalendarzowy objęty zwolnieniem z opłacenia składek, o których mowa w art. 17a, płatnik składek przesyła w terminie, o którym mowa w ust. 1 pkt 4:
+2f. Płatnik składek zgłaszający do ubezpieczenia wyłącznie osobę, o której mowa w art. 6 ust. 2d jest zwolniony z obowiązku składania deklaracji rozliczeniowej oraz imiennych raportów miesięcznych za kolejny miesiąc, jeżeli w ostatnio złożonej deklaracji rozliczeniowej zadeklarował do podstawy wymiaru składek na ubezpieczenia społeczne – kwotę w wysokości niewyższej niż minimalne wynagrodzenie. 2fa. Za miesiąc kalendarzowy objęty zwolnieniem z opłacenia składek, o których mowa w art. 17a, płatnik składek przesyła w terminie, o którym mowa w ust. 1 pkt 4:
 
 - **1)** deklarację rozliczeniową;
 - **2)** imienny raport miesięczny z informacją o składkach finansowanych przez budżet państwa za osobę opłacającą składki za siebie;
@@ -1685,20 +1657,20 @@ Art. 99–106. (pominięte)
 - **2)** ubezpieczenie zdrowotne;
 - **3)** Fundusz Pracy, Fundusz Solidarnościowy i Fundusz Gwarantowanych Świadczeń Pracowniczych;
 - **4)** (uchylony)
-- **5)** Fundusz Emerytur Pomostowych opłaca się jedną wpłatą na przydzielony przez Zakład numer rachunku składkowego.
+- **5)** Fundusz Emerytur Pomostowych – opłaca się jedną wpłatą na przydzielony przez Zakład numer rachunku składkowego.
 
 4a. Należności z tytułu składek, o których mowa w ust. 4, płatnik składek opłaca przy użyciu:
 
 - **1)** dokumentów płatniczych składanych za pośrednictwem dostawcy usług płatniczych według wzorów określonych przez dostawcę usług płatniczych,
 - **2)** dokumentu elektronicznego z oprogramowania, o którym mowa w art. 47a ust. 1, lub wydruku z tego oprogramowania,
 - **3)** dokumentu elektronicznego z programu informatycznego udostępnianego płatnikom składek przez dostawcę usług płatniczych,
-- **4)** dokumentu w postaci uzgodnionej z instytucją obsługującą wpłaty składek na ubezpieczenia społeczne zwanych dalej „dokumentami płatniczymi”.
+- **4)** dokumentu w postaci uzgodnionej z instytucją obsługującą wpłaty składek na ubezpieczenia społeczne – zwanych dalej „dokumentami płatniczymi”.
 
 4b. Płatnik składek jest obowiązany opłacać należności z tytułu składek, o których mowa w ust. 4, w formie bezgotówkowej w drodze obciążenia rachunku bankowego płatnika składek lub obciążenia rachunku płatniczego płatnika w instytucji płatniczej w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.
 
 4c. Przepisu ust. 4b nie stosuje się do płatników składek będących osobami fizycznymi, jeżeli nie prowadzą pozarolniczej działalności gospodarczej w rozumieniu przepisów o działalności gospodarczej lub innych przepisów szczególnych.
 
-4d. (uchylony) 4e. Płatnik składek będący mikroprzedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców może opłacać należności z tytułu składek również w formie przekazu pocztowego lub w formie przekazu pieniężnego za pośrednictwem instytucji płatniczej lub biura usług płatniczych w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.
+4d. (uchylony) 4e. Płatnik składek będący mikroprzedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców może opłacać należności z tytułu składek również w formie przekazu pocztowego lub w formie przekazu pieniężnego za pośrednictwem instytucji płatniczej lub biura usług płatniczych w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.
 
 5. Informacje zawarte w dokumentach płatniczych przekazywane są jako zlecenie płatnicze dla Zakładu poprzez system płatności lub poprzez system elektronicznych rozrachunków wewnątrzbankowych banku obsługującego rachunek bankowy Zakładu, w ramach którego są prowadzone rachunki składkowe. Zlecenie to powinno w szczególności zawierać numer rachunku składkowego oraz datę obciążenia rachunku bankowego płatnika, jeżeli wpłata jest dokonana w formie polecenia przelewu, lub datę dokonania wpłaty, jeżeli wpłata jest dokonana w formie gotówkowej.
 
@@ -1830,7 +1802,7 @@ Art. 99–106. (pominięte)
 - **6)** zgłoszeń danych o pracy w szczególnych warunkach lub o szczególnym charakterze, o którym mowa w ustawie z dnia 19 grudnia 2008 r. o emeryturach pomostowych oraz kody pracy w szczególnych warunkach lub o szczególnym charakterze,
 - **7)** raportów informacyjnych,
 - **8)** oświadczeń o zamiarze przekazania raportów informacyjnych,
-- **9)** informacji o zawartych umowach o dzieło, o których mowa w art. 36 ust. 17 z uwzględnieniem obowiązujących procedur prowadzenia rejestrów i wykazów w systemie ubezpieczeń społecznych.
+- **9)** informacji o zawartych umowach o dzieło, o których mowa w art. 36 ust. 17 – z uwzględnieniem obowiązujących procedur prowadzenia rejestrów i wykazów w systemie ubezpieczeń społecznych.
 
 3. (uchylony) 3a. (uchylony)
 
@@ -1848,8 +1820,8 @@ Art. 99–106. (pominięte)
 - **2)** hipotetycznej emerytury, z uwzględnieniem ust. 1c–1f i 2;
 - **2a)** kwot składek, środków, odsetek za zwłokę i opłaty prolongacyjnej, ogółem, zewidencjonowanych na subkoncie, według stanu na dzień 31 grudnia poprzedniego roku;
 - **3)** składek na ubezpieczenie emerytalne, z wyłączeniem składek podlegających odprowadzeniu do otwartego funduszu emerytalnego i zewidencjonowaniu na subkoncie:
-    - **a)** należnych w przypadku ubezpieczonych niebędących płatnikami składek,
-    - **b)** wpłaconych w przypadku ubezpieczonych będących płatnikami składek oraz osób współpracujących z osobami prowadzącymi pozarolniczą działalność za okres ostatnich 12 miesięcy kalendarzowych, według stanu na dzień 31 grudnia poprzedniego roku, w wysokości nominalnej w podziale na miesiące;
+    - **a)** należnych – w przypadku ubezpieczonych niebędących płatnikami składek,
+    - **b)** wpłaconych – w przypadku ubezpieczonych będących płatnikami składek oraz osób współpracujących z osobami prowadzącymi pozarolniczą działalność – za okres ostatnich 12 miesięcy kalendarzowych, według stanu na dzień 31 grudnia poprzedniego roku, w wysokości nominalnej w podziale na miesiące;
 
 - **4)** składek na otwarte fundusze emerytalne, należnych i odprowadzonych;
 - **5)** składek należnych i wpłaconych zewidencjonowanych na subkoncie, o których mowa w art. 40a ust. 4.
@@ -1875,8 +1847,8 @@ Art. 99–106. (pominięte)
 
 2. Wysokości hipotetycznej emerytury oblicza się:
 
-- **1)** w przypadku podawania informacji o wysokości hipotetycznej emerytury według zasad określonych w ust. 1c pkt 1 przez podzielenie sumy składek, o których mowa w ust. 1, i kapitału początkowego, o którym mowa w ust. 1a pkt 1 przez średnie dalsze trwanie życia dla osoby w wieku 60 lat w przypadku kobiety i 65 lat w przypadku mężczyzny lub w wieku, o którym mowa w ust. 1d i 1e, a wysokość hipotetycznej emerytury, jaką ubezpieczony uzyskałby w wieku przekraczającym wiek 60 lat lub 65 lat przez średnie dalsze trwanie życia dla tego wieku;
-- **2)** w przypadku podawania informacji o wysokości hipotetycznej emerytury według zasad określonych w ust. 1c pkt 2 przez podzielenie sumy składek, o których mowa w ust. 1, i kapitału początkowego, o którym mowa w ust. 1a pkt 1, zwiększonej o kwotę hipotetycznych składek, o których mowa w ust. 1c pkt 2, przez średnie dalsze trwanie życia dla osoby w wieku 60 lat w przypadku kobiety i 65 lat w przypadku mężczyzny lub w wieku, o którym mowa w ust. 1d i 1e, a wysokość hipotetycznej emerytury, jaką ubezpieczony uzyskałby w wieku przekraczającym wiek 60 lat lub 65 lat przez średnie dalsze trwanie życia dla tego wieku.
+- **1)** w przypadku podawania informacji o wysokości hipotetycznej emerytury według zasad określonych w ust. 1c pkt 1 – przez podzielenie sumy składek, o których mowa w ust. 1, i kapitału początkowego, o którym mowa w ust. 1a pkt 1 – przez średnie dalsze trwanie życia dla osoby w wieku 60 lat w przypadku kobiety i 65 lat w przypadku mężczyzny lub w wieku, o którym mowa w ust. 1d i 1e, a wysokość hipotetycznej emerytury, jaką ubezpieczony uzyskałby w wieku przekraczającym wiek 60 lat lub 65 lat – przez średnie dalsze trwanie życia dla tego wieku;
+- **2)** w przypadku podawania informacji o wysokości hipotetycznej emerytury według zasad określonych w ust. 1c pkt 2 – przez podzielenie sumy składek, o których mowa w ust. 1, i kapitału początkowego, o którym mowa w ust. 1a pkt 1, zwiększonej o kwotę hipotetycznych składek, o których mowa w ust. 1c pkt 2, przez średnie dalsze trwanie życia dla osoby w wieku 60 lat w przypadku kobiety i 65 lat w przypadku mężczyzny lub w wieku, o którym mowa w ust. 1d i 1e, a wysokość hipotetycznej emerytury, jaką ubezpieczony uzyskałby w wieku przekraczającym wiek 60 lat lub 65 lat – przez średnie dalsze trwanie życia dla tego wieku.
 
 2a. Średnie dalsze trwanie życia ustala się według tablicy trwania życia, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, obowiązującej w dniu 31 grudnia ostatniego roku.
 
@@ -1894,21 +1866,21 @@ Art. 99–106. (pominięte)
 
 2h. W przypadku nieuwzględnienia przez płatnika składek wniosku o sprostowanie danych oraz w przypadku gdy płatnik składek już nie istnieje, ubezpieczony powinien złożyć we wskazanej przez Zakład jednostce organizacyjnej Zakładu wniosek o przeprowadzenie postępowania wyjaśniającego, przedkładając jednocześnie dokumenty potwierdzające wysokość podstawy wymiaru składek na ubezpieczenie emerytalne oraz kopię informacji, o której mowa w ust. 2f.
 
-2i. Postępowanie wyjaśniające, o którym mowa w ust. 2h, Zakład powinien zakończyć niepóźniej niż w ciągu 3 miesięcy, a postępowanie szczególnie skomplikowane niepóźniej niż w ciągu 6 miesięcy od dnia otrzymania wniosku, o którym mowa w ust. 2h.
+2i. Postępowanie wyjaśniające, o którym mowa w ust. 2h, Zakład powinien zakończyć niepóźniej niż w ciągu 3 miesięcy, a postępowanie szczególnie skomplikowane – niepóźniej niż w ciągu 6 miesięcy od dnia otrzymania wniosku, o którym mowa w ust. 2h.
 
 2j. Wysokość podstawy wymiaru składek na ubezpieczenia społeczne nie może być udowadniana zeznaniami świadków.
 
 2k. Jeżeli w wyniku postępowania wyjaśniającego okaże się, że przyczyną niezewidencjonowania na koncie ubezpieczonego wszystkich należnych składek na ubezpieczenie emerytalne lub zewidencjonowania ich w niewłaściwej wysokości są:
 
-- **1)** błędy w danych podanych w zgłoszeniu do ubezpieczeń społecznych, w zgłoszeniu wyrejestrowania ubezpieczonego z ubezpieczeń społecznych, w zgłoszeniu płatnika składek lub w zgłoszeniu wyrejestrowania płatnika składek albo niezłożenie tych dokumentów Zakład dokonuje korekty tych danych z urzędu bezpośrednio na koncie ubezpieczonego lub na koncie płatnika składek, jeżeli uzna to za możliwe, albo po złożeniu przez płatnika składek dokumentów korygujących te dokumenty lub brakujących dokumentów;
-- **2)** błędy w danych podanych w imiennym raporcie miesięcznym lub w deklaracji rozliczeniowej albo niezłożenie tych dokumentów Zakład dokonuje korekty tych danych po złożeniu przez płatnika składek dokumentów korygujących te dokumenty albo brakujących dokumentów.
+- **1)** błędy w danych podanych w zgłoszeniu do ubezpieczeń społecznych, w zgłoszeniu wyrejestrowania ubezpieczonego z ubezpieczeń społecznych, w zgłoszeniu płatnika składek lub w zgłoszeniu wyrejestrowania płatnika składek albo niezłożenie tych dokumentów – Zakład dokonuje korekty tych danych z urzędu bezpośrednio na koncie ubezpieczonego lub na koncie płatnika składek, jeżeli uzna to za możliwe, albo po złożeniu przez płatnika składek dokumentów korygujących te dokumenty lub brakujących dokumentów;
+- **2)** błędy w danych podanych w imiennym raporcie miesięcznym lub w deklaracji rozliczeniowej albo niezłożenie tych dokumentów – Zakład dokonuje korekty tych danych po złożeniu przez płatnika składek dokumentów korygujących te dokumenty albo brakujących dokumentów.
 
 2l. Płatnik składek jest zobowiązany złożyć korygujące lub brakujące dokumenty, o których mowa w ust. 2k, w terminie 30 dni od otrzymania z Zakładu zawiadomienia o stwierdzonych w wyniku przeprowadzonego postępowania wyjaśniającego nieprawidłowościach w dokumentach związanych z ubezpieczeniami społecznymi określonych w ustawie.
 
 2m. Płatnik składek jest zobowiązany złożyć korygujące lub brakujące dokumenty, o których mowa w ust. 2k, w terminie 30 dni od dnia:
 
-- **1)** uprawomocnienia się decyzji jeżeli stwierdzenie nieprawidłowości następuje w drodze decyzji;
-- **2)** otrzymania protokołu kontroli jeżeli stwierdzenie nieprawidłowości następuje w drodze kontroli.
+- **1)** uprawomocnienia się decyzji – jeżeli stwierdzenie nieprawidłowości następuje w drodze decyzji;
+- **2)** otrzymania protokołu kontroli – jeżeli stwierdzenie nieprawidłowości następuje w drodze kontroli.
 
 2n. W przypadku gdy płatnik składek już nie istnieje lub uzyskanie korygujących lub brakujących dokumentów ubezpieczeniowych nie jest możliwe, Zakład dokonuje korekty danych z urzędu bezpośrednio na koncie ubezpieczonego lub na koncie płatnika składek, koryguje z urzędu błędy stwierdzone w dokumentach związanych z ubezpieczeniami społecznymi określonych w ustawie lub sporządza z urzędu brakujące dokumenty.
 
@@ -1925,16 +1897,17 @@ Art. 99–106. (pominięte)
 - **7)** ministrowi właściwemu do spraw rodziny,
 - **8)** ministrowi właściwemu do spraw zabezpieczenia społecznego,
 - **9)** organom realizującym świadczenia rodzinne, świadczenia z funduszu alimentacyjnego oraz świadczenia wychowawcze,
-- **10)** ośrodkom pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrom usług społecznych, powiatowym centrom pomocy rodzinie i publicznym służbom zatrudnienia,
+- **10)** ośrodkom pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrom usług społecznych, powiatowym centrom pomocy rodzinie i publicznym służbom zatrudnienia,
 - **11)** Komisji Nadzoru Finansowego,
 - **12)** (uchylony)
 - **13)** wojewodzie i Szefowi Urzędu do Spraw Cudzoziemców w zakresie prowadzonych postępowań dotyczących legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej,
-- **14)** ministrowi właściwemu do spraw zagranicznych oraz konsulowi w zakresie niezbędnym do przeprowadzenia postępowania w sprawie wydania, cofnięcia lub unieważnienia wizy z uwzględnieniem przepisów dotyczących ochrony danych osobowych.
+- **14)** ministrowi właściwemu do spraw zagranicznych oraz konsulowi – w zakresie niezbędnym do przeprowadzenia postępowania w sprawie wydania, cofnięcia lub unieważnienia wizy – z uwzględnieniem przepisów dotyczących ochrony danych osobowych.
 
 3a. Dane zgromadzone na koncie ubezpieczonego będącego uczestnikiem w rozumieniu załącznika I lub II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470, z późn. zm. ) w odniesieniu do projektu finansowanego z udziałem środków Europejskiego Funduszu Społecznego lub w rozumieniu załącznika I lub II do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1057 z dnia 24 czerwca 2021 r. ustanawiającego Europejski Fundusz Społeczny Plus (EFS+) oraz uchylającego rozporządzenie (UE) nr 1296/2013 (Dz. Urz. UE L 231 z 30.06.2021, str. 21, z późn. zm. ) w odniesieniu do projektu finansowanego z udziałem środków Europejskiego Funduszu Społecznego Plus oraz ubezpieczonego będącego beneficjentem w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/691 z dnia 28 kwietnia 2021 r. w sprawie Europejskiego Funduszu Dostosowania do Globalizacji dla Zwalnianych Pracowników (EFG) oraz uchylenia rozporządzenia (UE) nr 1309/2013 (Dz. Urz. UE L 153 z 03.05.2021, str. 48, z późn. zm. ) w odniesieniu do projektu finansowanego z udziałem środków Europejskiego Funduszu Dostosowania do Globalizacji, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być udostępniane, w zakresie niezbędnym, ministrowi właściwemu do spraw rozwoju regionalnego, ministrowi właściwemu do spraw pracy, ministrowi właściwemu do spraw zabezpieczenia społecznego oraz marszałkowi województwa w celu realizacji obowiązków wynikających z tych rozporządzeń dotyczących:
 
 - **1)** wyliczania wartości wskaźników odnoszących się do Europejskiego Funduszu Społecznego, Europejskiego Funduszu Społecznego Plus, Inicjatywy Na Rzecz Zatrudnienia Ludzi Młodych oraz Europejskiego Funduszu Dostosowania do Globalizacji,
-- **2)** weryfikacji kwalifikowalności uczestników projektów Europejskiego Funduszu Społecznego i Europejskiego Funduszu Społecznego Plus oraz Inicjatywy Na Rzecz Zatrudnienia Ludzi Młodych lub beneficjentów Europejskiego Funduszu Dostosowania do Globalizacji w zakresie gromadzonym w systemie teleinformatycznym, o którym mowa odpowiednio w art. 69 ust. 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) oraz w art. 4 ust. 2 pkt 6 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. z 2025 r. poz. 1733 i 1844), wraz z informacją o okresie zatrudnienia, kodzie tytułu zatrudnienia i wysokości składek odprowadzanych z tego tytułu.
+- **2)** weryfikacji kwalifikowalności uczestników projektów Europejskiego Funduszu Społecznego i Europejskiego Funduszu Społecznego Plus oraz Inicjatywy Na Rzecz Zatrudnienia Ludzi Młodych lub beneficjentów Europejskiego Funduszu Dostosowania do Globalizacji – w zakresie gromadzonym w systemie teleinformatycznym, o którym mowa odpowiednio w art. 69 ust. 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) oraz w art. 4 ust. 2 pkt 6 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. z 2025 r. poz. 1733 i
+- **1844)** , wraz z informacją o okresie zatrudnienia, kodzie tytułu zatrudnienia i wysokości składek odprowadzanych z tego tytułu.
 
 3b. Dane, o których mowa w ust. 3a, mogą być, za zgodą uczestnika projektu, udostępniane, w zakresie niezbędnym, beneficjentowi projektu finansowanego z udziałem środków Europejskiego Funduszu Społecznego lub Europejskiego Funduszu Społecznego Plus oraz, za zgodą beneficjenta, udostępniane realizatorowi projektu finansowanego z udziałem środków Europejskiego Funduszu Dostosowania do Globalizacji w celu, o którym mowa w ust. 3a pkt 2.
 
@@ -1945,9 +1918,9 @@ Art. 99–106. (pominięte)
 3e. Dane zgromadzone na koncie ubezpieczonego, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być bezpłatnie udostępniane:
 
 - **1)** Agencji Rozwoju Przemysłu Spółka Akcyjna z siedzibą w Warszawie,
-- **2)** Polskiemu Funduszowi Rozwoju Spółka Akcyjna z siedzibą w Warszawie dla celów związanych z realizacją zadań pomocowych dotyczących zapobiegania lub zwalczania ekonomicznych lub gospodarczych skutków epidemii wywołanej wirusem SARS-CoV-2. 3ea. Dane zgromadzone na koncie ubezpieczonego, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być bezpłatnie udostępniane podmiotom udzielającym pomocy publicznej, pomocy de minimis lub pomocy de minimis w rolnictwie lub rybołówstwie w celu weryfikacji możliwości udzielenia pomocy.
+- **2)** Polskiemu Funduszowi Rozwoju Spółka Akcyjna z siedzibą w Warszawie – dla celów związanych z realizacją zadań pomocowych dotyczących zapobiegania lub zwalczania ekonomicznych lub gospodarczych skutków epidemii wywołanej wirusem SARS-CoV-2. 3ea. Dane zgromadzone na koncie ubezpieczonego, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być bezpłatnie udostępniane podmiotom udzielającym pomocy publicznej, pomocy de minimis lub pomocy de minimis w rolnictwie lub rybołówstwie – w celu weryfikacji możliwości udzielenia pomocy.
 
-3f. Do zamówień na usługi lub dostawy udzielane przez Zakład Ubezpieczeń Społecznych w związku z zapewnieniem udostępnienia danych zgromadzonych na koncie ubezpieczonego, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, Prezesowi Rady Ministrów, Szefowi Kancelarii Prezesa Rady Ministrów lub pełnomocnikowi Prezesa Rady Ministrów właściwemu do spraw analiz i studiów z zakresu kluczowych polityk publicznych, Agencji Rozwoju Przemysłu Spółka Akcyjna z siedzibą w Warszawie lub Polskiemu Funduszowi Rozwoju Spółka Akcyjna z siedzibą w Warszawie, nie stosuje się ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych .
+3f. Do zamówień na usługi lub dostawy udzielane przez Zakład Ubezpieczeń Społecznych w związku z zapewnieniem udostępnienia danych zgromadzonych na koncie ubezpieczonego, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, Prezesowi Rady Ministrów, Szefowi Kancelarii Prezesa Rady Ministrów lub pełnomocnikowi Prezesa Rady Ministrów właściwemu do spraw analiz i studiów z zakresu kluczowych polityk publicznych, Agencji Rozwoju Przemysłu Spółka Akcyjna z siedzibą w Warszawie lub Polskiemu Funduszowi Rozwoju Spółka Akcyjna z siedzibą w Warszawie, nie stosuje się ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych .
 
 4. Dane, o których mowa w ust. 3, udostępnia się także na wniosek osób fizycznych i płatników składek, których dotyczą informacje zawarte na kontach, z zastrzeżeniem ust. 5 i 6.
 
@@ -1975,24 +1948,22 @@ Art. 99–106. (pominięte)
 
 6. Dane zgromadzone na koncie ubezpieczonego, udostępnione ustnie, na wniosek ubezpieczonego Zakład potwierdza pisemnie.
 
-7. W przypadkach, o których mowa w ust. 3–6, 12 i 13, wniosek powinien zawierać: W przypadkach, o których mowa w ust. 3–6, 12, 13 i 28, wniosek powinien zawierać:
+7. [W przypadkach, o których mowa w ust. 3–6, 12 i 13, wniosek powinien zawierać:] <W przypadkach, o których mowa w ust. 3–6, 12, 13 i 28, wniosek powinien zawierać:>
 
-- **1)** w przypadku danych zgromadzonych na koncie ubezpieczonego imię i nazwisko ubezpieczonego oraz numery, o których mowa w art. 35 ust. 1 pkt 1;
-- **2)** w przypadku danych zgromadzonych na koncie płatnika składek imię i nazwisko lub nazwę skróconą płatnika składek oraz numery, o których mowa w art. 35 ust. 1 pkt 2, lub jeden z nich, jeżeli jest wystarczający do identyfikacji płatnika składek.
+- **1)** w przypadku danych zgromadzonych na koncie ubezpieczonego – imię i nazwisko ubezpieczonego oraz numery, o których mowa w art. 35 ust. 1 pkt 1;
+- **2)** w przypadku danych zgromadzonych na koncie płatnika składek – imię i nazwisko lub nazwę skróconą płatnika składek oraz numery, o których mowa w art. 35 ust. 1 pkt 2, lub jeden z nich, jeżeli jest wystarczający do identyfikacji płatnika składek.
 
 8. Zakład nie udostępnia danych, jeżeli wniosek nie zawiera informacji określonych w ust. 7. W przypadku, gdy z wnioskiem występuje komornik sądowy, dane, o których mowa w ust. 3 udostępnia się w oparciu o informacje zawarte w tym wniosku, chyba że są niewystarczające do identyfikacji osoby, której wniosek dotyczy.
 
-9. Dane zgromadzone na kontach, o których mowa w ust. 3, udostępnia się bezpłatnie sądom, prokuratorom, organom podatkowym, Państwowej Inspekcji Pracy, Biuru Nadzoru Wewnętrznego, Policji, Straży Granicznej, komornikom sądowym w zakresie prowadzonej przez nich egzekucji świadczeń alimentacyjnych, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów, ministrowi właściwemu do spraw gospodarki w zakresie koniecznym do rozstrzygania spraw prowadzonych na podstawie art. 29, art. 32 oraz art. 34 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, ministrowi właściwemu do spraw rodziny, ministrowi właściwemu do spraw zabezpieczenia społecznego, organom realizującym świadczenia rodzinne, świadczenia z funduszu alimentacyjnego oraz świadczenia wychowawcze, ośrodkom pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrom usług społecznych, powiatowym centrom pomocy rodzinie, publicznym służbom zatrudnienia, Komisji Nadzoru Finansowego, Polskiemu Funduszowi Rozwoju Spółka Akcyjna z siedzibą w Warszawie, wojewodzie i Szefowi Urzędu do Spraw Cudzoziemców w zakresie prowadzonych postępowań dotyczących legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ministrowi właściwemu do spraw zagranicznych oraz konsulowi, w zakresie niezbędnym do przeprowadzenia postępowania w sprawie wydania, cofnięcia lub unieważnienia wizy, oraz ministrowi właściwemu do spraw rozwoju regionalnego w zakresie wynikającym z ust. 3a i 3c.
+9. Dane zgromadzone na kontach, o których mowa w ust. 3, udostępnia się bezpłatnie sądom, prokuratorom, organom podatkowym, Państwowej Inspekcji Pracy, Biuru Nadzoru Wewnętrznego, Policji, Straży Granicznej, komornikom sądowym w zakresie prowadzonej przez nich egzekucji świadczeń alimentacyjnych, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów, ministrowi właściwemu do spraw gospodarki w zakresie koniecznym do rozstrzygania spraw prowadzonych na podstawie art. 29, art. 32 oraz art. 34 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, ministrowi właściwemu do spraw rodziny, ministrowi właściwemu do spraw zabezpieczenia społecznego, organom realizującym świadczenia rodzinne, świadczenia z funduszu alimentacyjnego oraz świadczenia wychowawcze, ośrodkom pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrom usług społecznych, powiatowym centrom pomocy rodzinie, publicznym służbom zatrudnienia, Komisji Nadzoru Finansowego, Polskiemu Funduszowi Rozwoju Spółka Akcyjna z siedzibą w Warszawie, wojewodzie i Szefowi Urzędu do Spraw Cudzoziemców w zakresie prowadzonych postępowań dotyczących legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ministrowi właściwemu do spraw zagranicznych oraz konsulowi, w zakresie niezbędnym do przeprowadzenia postępowania w sprawie wydania, cofnięcia lub unieważnienia wizy, oraz ministrowi właściwemu do spraw rozwoju regionalnego w zakresie wynikającym z ust. 3a i 3c.
 
 10. Dane zgromadzone na kontach, o których mowa w ust. 3, udostępnia się komornikom sądowym, w zakresie niezbędnym do wykonywania zadań, o których mowa w art. 3 ust. 3 pkt 1–3, oraz czynności, o których mowa w art. 3 ust. 4 pkt 1a ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458, z 2025 r. poz. 1018 i 1172 oraz z 2026 r. poz. 26), odpłatnie, chyba że przepisy odrębne stanowią inaczej.
 
-10a. Wysokość opłaty, o której mowa w ust. 10, nie może przekraczać 2 % wysokości prognozowanego przeciętnego wynagrodzenia miesięcznego przyjętego do ustalenia kwoty ograniczenia rocznej podstawy wymiaru składek, ogłoszonego w trybie art. 19 ust. 10 na dany rok kalendarzowy. 10aa. Opłatę, o której mowa w ust. 10, wnosi się w terminie 14 dni od dnia wystawienia przez Zakład rachunku. 10ab. Od nieuiszczonej w terminie opłaty, o której mowa w ust. 10, należne są od komornika sądowego odsetki w wysokości odsetek ustawowych za opóźnienie określonych przepisami prawa cywilnego. Odsetek nie nalicza się, jeżeli ich wysokość nie przekraczałaby trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) za traktowanie przesyłki listowej jako przesyłki poleconej. 10ac. W sprawach o roszczenia z tytułu opłaty, o której mowa w ust. 10, i odsetek, o których mowa w ust. 10ab, stosuje się przepisy prawa cywilnego. 10ad. Udostępnienie danych, o których mowa w ust. 10, następuje w terminie 7 dni od dnia otrzymania wniosku komornika sądowego.
+10a. Wysokość opłaty, o której mowa w ust. 10, nie może przekraczać 2 % wysokości prognozowanego przeciętnego wynagrodzenia miesięcznego przyjętego do ustalenia kwoty ograniczenia rocznej podstawy wymiaru składek, ogłoszonego w trybie art. 19 ust. 10 na dany rok kalendarzowy. 10aa. Opłatę, o której mowa w ust. 10, wnosi się w terminie 14 dni od dnia wystawienia przez Zakład rachunku. 10ab. Od nieuiszczonej w terminie opłaty, o której mowa w ust. 10, należne są od komornika sądowego odsetki w wysokości odsetek ustawowych za opóźnienie określonych przepisami prawa cywilnego. Odsetek nie nalicza się, jeżeli ich wysokość nie przekraczałaby trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) za traktowanie przesyłki listowej jako przesyłki poleconej. 10ac. W sprawach o roszczenia z tytułu opłaty, o której mowa w ust. 10, i odsetek, o których mowa w ust. 10ab, stosuje się przepisy prawa cywilnego. 10ad. Udostępnienie danych, o których mowa w ust. 10, następuje w terminie 7 dni od dnia otrzymania wniosku komornika sądowego.
 
 10b. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 10, oraz sposób jej wnoszenia, uzależniając wysokość opłaty od formy złożenia wniosku, udostępnienia danych i wysokości ponoszonych przez Zakład kosztów związanych z udzielaniem informacji, w szczególności kosztów wyszukania informacji i sporządzenia zaświadczenia, oraz mając na względzie konieczność zapewnienia sprawnego poboru opłaty.
 
-11. Zakład przekazuje Straży Granicznej oraz Państwowej Inspekcji Pracy wykaz obejmujący dane płatników składek, którzy w ostatnim kwartale zgłosili do ubezpieczeń społecznych co najmniej jednego cudzoziemca, w terminie do końca ostatniego dnia roboczego miesiąca następującego po upływie kwartału, którego wykaz dotyczy.
-
-12. Zakład udostępnia Straży Granicznej oraz Państwowej Inspekcji Pracy, w postaci elektronicznej, dane płatnika składek, który zgłosił do ubezpieczeń społecznych cudzoziemca, oraz dane ubezpieczonego cudzoziemca, w zakresie niezbędnym do realizacji ich ustawowych zadań.
+11. Zakład przekazuje Straży Granicznej [oraz Państwowej Inspekcji Pracy] wykaz obejmujący dane płatników składek, którzy w ostatnim kwartale zgłosili do ubezpieczeń społecznych co najmniej jednego cudzoziemca, w terminie do końca ostatniego dnia roboczego miesiąca następującego po upływie kwartału, którego wykaz dotyczy. [12. Zakład udostępnia Straży Granicznej oraz Państwowej Inspekcji Pracy, w postaci elektronicznej, dane płatnika składek, który zgłosił do ubezpieczeń społecznych cudzoziemca, oraz dane ubezpieczonego cudzoziemca, w zakresie niezbędnym do realizacji ich ustawowych zadań.] <12. Zakład udostępnia Straży Granicznej, w postaci elektronicznej, dane płatnika składek, który zgłosił do ubezpieczeń społecznych cudzoziemca, oraz dane ubezpieczonego cudzoziemca, w zakresie niezbędnym do realizacji jej ustawowych zadań.>
 
 13. Dane:
 
@@ -2011,7 +1982,7 @@ Art. 99–106. (pominięte)
     - **l)** obywatelstwo (obywatelstwa) cudzoziemca,
     - **m)** tytuł ubezpieczenia cudzoziemca;
 
-- **2)** ubezpieczonego cudzoziemca, o których mowa w ust. 12, obejmują:
+- **2)** ubezpieczonego cudzoziemca, o których mowa w ust. 12, obejmują: <13a. Zakład udostępnia, w postaci elektronicznej, Państwowej Inspekcji Pracy dane:
     - **a)** rodzaj, serię i numer dokumentu tożsamości,
     - **b)** numer PESEL, jeżeli został nadany,
     - **c)** imię i nazwisko,
@@ -2028,11 +1999,57 @@ Art. 99–106. (pominięte)
     - **n)** wymiar czasu pracy,
     - **o)** podstawę wymiaru składki na ubezpieczenia emerytalne i rentowe oraz datę opłacenia składki.
 
+- **1)** ubezpieczonego obejmujące:
+    - **a)** imię i nazwisko,
+    - **b)** datę urodzenia,
+    - **c)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości,
+    - **d)** obywatelstwo,
+    - **e)** kod i nazwę tytułu ubezpieczenia,
+    - **f)** nazwę i dane identyfikacyjne płatnika składek,
+    - **g)** datę powstania obowiązku ubezpieczeń społecznych lub ubezpieczenia zdrowotnego,
+    - **h)** datę zgłoszenia do ubezpieczeń społecznych lub do ubezpieczenia zdrowotnego,
+    - **i)** datę wyrejestrowania z ubezpieczeń społecznych lub z ubezpieczenia zdrowotnego,
+    - **j)** rodzaje ubezpieczeń wraz z określeniem, czy są dobrowolne, czy obowiązkowe,
+    - **k)** kod wykonywanego zawodu,
+    - **l)** kod pracy i okres pracy w szczególnych warunkach lub o szczególnym charakterze,
+    - **m)** wymiar czasu pracy,
+    - **n)** informację o podstawie wymiaru składek na ubezpieczenia społeczne,
+    - **o)** opłacone składki na ubezpieczenia społeczne za osoby prowadzące pozarolniczą działalność i osoby z nimi współpracujące,
+    - **p)** wykazane w imiennym raporcie miesięcznym przerwy w opłacaniu składek,
+    - **q)** wypłacone świadczenia z ubezpieczenia chorobowego,
+    - **r)** wypłacone jednorazowe odszkodowanie z ubezpieczenia wypadkowego w powiązaniu z identyfikatorem podmiotu zatrudniającego, ustalonym procentem uszczerbku na zdrowiu, datą zaistnienia wypadku przy pracy albo stwierdzenia choroby zawodowej,
+    - **s)** informacje dotyczące wyrejestrowania z ubezpieczeń z kodem przyczyny, kodem wygaśnięcia lub trybu rozwiązania stosunku pracy lub stosunku służbowego oraz kodem podstawy prawnej,
+    - **t)** informacje zawarte w zaświadczeniu, o którym mowa w art. 83e ust. 1,
+
+- **2)** płatnika składek obejmujące:
+    - **a)** numer NIP,
+    - **b)** numer identyfikacyjny REGON,
+    - **c)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości,
+    - **d)** kod rodzaju działalności według Polskiej Klasyfikacji Działalności (PKD),
+    - **e)** dane identyfikacyjne osób ubezpieczonych określone w pkt 1,
+    - **f)** liczbę poszkodowanych w wypadkach przy pracy ogółem, w tym poszkodowanych śmiertelnie i ciężko,
+    - **g)** liczbę zatrudnionych w warunkach zagrożenia,
+    - **h)** serię i numer dowodu osobistego albo paszportu, jeżeli płatnikowi składek nie nadano numeru NIP i numeru identyfikacyjnego REGON lub jednego z nich,
+    - **i)** nazwę skróconą,
+    - **j)** imię i nazwisko,
+    - **k)** adres siedziby,
+    - **l)** adres do korespondencji,
+    - **m)** adres miejsca prowadzenia działalności,
+    - **n)** liczbę cudzoziemców zgłoszonych do ubezpieczeń społecznych,
+    - **o)** obywatelstwo (obywatelstwa) cudzoziemca,
+    - **p)** tytuł ubezpieczenia cudzoziemca,
+    - **q)** stopę procentową składek na ubezpieczenie wypadkowe,
+    - **r)** liczbę stanowisk pracy w szczególnych warunkach lub o szczególnym charakterze,
+    - **s)** informacje dotyczące zmian danych płatnika składek,
+    - **t)** informacje zawarte w zaświadczeniu, o którym mowa w art. 83e ust. 1,
+
+- **3)** dotyczące umów o dzieło, o których mowa w art. 36 ust. 17 – w celu niezbędnym do realizacji ustawowych zadań w zakresie kontroli przestrzegania przepisów prawa pracy i przepisów dotyczących zatrudnienia.>
+
 14. Zakład udostępnia publicznym służbom zatrudnienia, w postaci elektronicznej, dane zgromadzone na koncie ubezpieczonego, o których mowa w art. 40, obejmujące:
 
 - **1)** imię i nazwisko,
 - **2)** datę urodzenia,
-- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu tożsamości,
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości,
 - **4)** obywatelstwo,
 - **5)** kod i nazwę tytułu ubezpieczenia,
 - **6)** nazwę i dane identyfikacyjne płatnika,
@@ -2047,11 +2064,11 @@ Art. 99–106. (pominięte)
 - **15)** wykazane w imiennym raporcie miesięcznym przerwy w opłacaniu składek,
 - **16)** wypłacone świadczenia z ubezpieczenia chorobowego i z ubezpieczenia wypadkowego,
 - **17)** wypłacane świadczenia z ubezpieczenia emerytalnego i z ubezpieczeń rentowych,
-- **18)** imię i nazwisko oraz datę uzyskania lub utraty uprawnień do ubezpieczenia zdrowotnego przez członka rodziny w zakresie niezbędnym do realizacji zadań określonych w przepisach o rynku pracy i służbach zatrudnienia.
+- **18)** imię i nazwisko oraz datę uzyskania lub utraty uprawnień do ubezpieczenia zdrowotnego przez członka rodziny – w zakresie niezbędnym do realizacji zadań określonych w przepisach o rynku pracy i służbach zatrudnienia.
 
 14a. Zakład udostępnia publicznym służbom zatrudnienia, w postaci elektronicznej, dane zgromadzone na koncie płatnika składek, o których mowa w art. 45, obejmujące:
 
-- **1)** numer NIP lub numer identyfikacyjny REGON, a jeżeli nie nadano tych numerów lub jednego z nich numer PESEL lub serię i numer dowodu osobistego albo paszportu,
+- **1)** numer NIP lub numer identyfikacyjny REGON, a jeżeli nie nadano tych numerów lub jednego z nich – numer PESEL lub serię i numer dowodu osobistego albo paszportu,
 - **2)** nazwę skróconą lub imię i nazwisko,
 - **3)** stan rozliczeń należnych składek na:
     - **a)** ubezpieczenia społeczne,
@@ -2060,15 +2077,15 @@ Art. 99–106. (pominięte)
     - **d)** Fundusz Emerytur Pomostowych,
 
 - **4)** liczbę ubezpieczonych,
-- **5)** okres rozliczeniowy w zakresie niezbędnym do realizacji zadań określonych w przepisach o rynku pracy i służbach zatrudnienia.
+- **5)** okres rozliczeniowy – w zakresie niezbędnym do realizacji zadań określonych w przepisach o rynku pracy i służbach zatrudnienia.
 
-15. Zakład udostępnia powiatowym urzędom pracy i wojewódzkim urzędom pracy, w postaci elektronicznej, wykaz obejmujący dane osób ubezpieczonych, wymienionych w art. 6 ust. 1 pkt 9, 9a i 9c, które w poprzednim miesiącu zostały zgłoszone do ubezpieczeń społecznych lub ubezpieczenia zdrowotnego, także z innych tytułów w terminie do 10 dnia roboczego następnego miesiąca.
+15. Zakład udostępnia powiatowym urzędom pracy i wojewódzkim urzędom pracy, w postaci elektronicznej, wykaz obejmujący dane osób ubezpieczonych, wymienionych w art. 6 ust. 1 pkt 9, 9a i 9c, które w poprzednim miesiącu zostały zgłoszone do ubezpieczeń społecznych lub ubezpieczenia zdrowotnego, także z innych tytułów – w terminie do 10 dnia roboczego następnego miesiąca.
 
 16. Dane, o których mowa w ust. 15, obejmują:
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu tożsamości oraz datę urodzenia i obywatelstwo;
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości oraz datę urodzenia i obywatelstwo;
 - **4)** datę powstania obowiązku ubezpieczeń społecznych lub ubezpieczenia zdrowotnego z innego tytułu niż wymienione w art. 6 ust. 1 pkt 9, 9a i 9c;
 - **5)** datę wyrejestrowania z ubezpieczeń społecznych lub z ubezpieczenia zdrowotnego z innego tytułu niż wymienione w art. 6 ust. 1 pkt 9, 9a i 9c;
 - **6)** kod tytułu ubezpieczenia.
@@ -2076,10 +2093,10 @@ Art. 99–106. (pominięte)
 17. Zakład udostępnia ministrowi właściwemu do spraw finansów publicznych oraz organom Krajowej Administracji Skarbowej na ich żądanie dane:
 
 - **1)** dotyczące ubezpieczonego:
-    - **a)** numer PESEL, a w razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu tożsamości,
-    - **b)** identyfikator miejscowości według krajowego rejestru urzędowego podziału terytorialnego kraju (TERYT) adresu zameldowania do najniższego posiadanego poziomu,
-    - **c)** identyfikator miejscowości według krajowego rejestru urzędowego podziału terytorialnego kraju (TERYT) adresu korespondencji do najniższego posiadanego poziomu,
-    - **d)** numer NIP i numer identyfikacyjny REGON, a jeżeli płatnikowi składek nie nadano tych numerów lub jednego z nich numer PESEL lub serię i numer dowodu osobistego albo paszportu,
+    - **a)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości,
+    - **b)** identyfikator miejscowości według krajowego rejestru urzędowego podziału terytorialnego kraju (TERYT) adresu zameldowania – do najniższego posiadanego poziomu,
+    - **c)** identyfikator miejscowości według krajowego rejestru urzędowego podziału terytorialnego kraju (TERYT) adresu korespondencji – do najniższego posiadanego poziomu,
+    - **d)** numer NIP i numer identyfikacyjny REGON, a jeżeli płatnikowi składek nie nadano tych numerów lub jednego z nich – numer PESEL lub serię i numer dowodu osobistego albo paszportu,
     - **e)** numer płatnika w Krajowym Rejestrze Sądowym,
     - **f)** ustalone prawo do emerytury lub renty,
     - **g)** stopień niepełnosprawności,
@@ -2091,8 +2108,8 @@ Art. 99–106. (pominięte)
     - **m)** informacja o przekroczeniu rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe,
     - **n)** wymiar czasu pracy,
     - **o)** kod przyczyny wyrejestrowania ubezpieczonego,
-    - **p)** podstawa wymiaru składki na: ubezpieczenia emerytalne i rentowe, ubezpieczenie chorobowe, ubezpieczenie wypadkowe, ubezpieczenie zdrowotne,
-    - **q)** wysokość składki na: ubezpieczenie emerytalne, ubezpieczenia rentowe, ubezpieczenie chorobowe, ubezpieczenie wypadkowe, ubezpieczenie zdrowotne,
+    - **p)** podstawa wymiaru składki na: – ubezpieczenia emerytalne i rentowe, – ubezpieczenie chorobowe, – ubezpieczenie wypadkowe, – ubezpieczenie zdrowotne,
+    - **q)** wysokość składki na: – ubezpieczenie emerytalne, – ubezpieczenia rentowe, – ubezpieczenie chorobowe, – ubezpieczenie wypadkowe, – ubezpieczenie zdrowotne,
     - **r)** kwota obniżenia podstawy wymiaru składek na ubezpieczenia społeczne z tytułu opłacania składki w ramach pracowniczego programu emerytalnego, ra) kwota obniżenia podstawy wymiaru składek na ubezpieczenia społeczne z tytułu dokonania wpłaty w ramach pracowniczego planu kapitałowego w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych,
     - **s)** kod świadczenia lub kod przerwy wraz z kwotą wypłaty tego świadczenia,
     - **t)** liczba dni zasiłkowych oraz liczba wypłat,
@@ -2104,7 +2121,7 @@ Art. 99–106. (pominięte)
     - **d)** czy pozostaje we wspólnym gospodarstwie z osobą ubezpieczoną,
 
 - **3)** dotyczące płatników składek:
-    - **a)** numer NIP i numer identyfikacyjny REGON, a jeżeli płatnikowi składek nie nadano tych numerów lub jednego z nich numer PESEL lub serię i numer dowodu osobistego albo paszportu,
+    - **a)** numer NIP i numer identyfikacyjny REGON, a jeżeli płatnikowi składek nie nadano tych numerów lub jednego z nich – numer PESEL lub serię i numer dowodu osobistego albo paszportu,
     - **b)** data powstania obowiązku opłacania składek,
     - **c)** numer w Krajowym Rejestrze Sądowym,
     - **d)** liczba ubezpieczonych,
@@ -2117,38 +2134,40 @@ Art. 99–106. (pominięte)
 
 - **4)** dotyczące uprawnionych do świadczeń z ubezpieczeń społecznych oraz świadczeń wypłacanych przez Zakład na mocy odrębnych przepisów:
     - **a)** numer PESEL,
-    - **b)** identyfikator miejscowości według krajowego rejestru urzędowego podziału terytorialnego kraju (TERYT) adresu zamieszkania do najniższego posiadanego poziomu,
+    - **b)** identyfikator miejscowości według krajowego rejestru urzędowego podziału terytorialnego kraju (TERYT) adresu zamieszkania – do najniższego posiadanego poziomu,
     - **c)** stopień niezdolności do pracy,
     - **d)** symbol świadczenia,
     - **e)** wysokość świadczenia,
     - **f)** wysokość dodatków przysługujących do świadczenia,
 
-- **5)** dotyczące umów o dzieło, o których mowa w art. 36 ust. 17 w celu niezbędnym do wykonywania ustawowych zadań zmierzających do skutecznego poboru należności podatkowych i weryfikacji danych własnych oraz zadań analityczno-sprawozdawczych.
+- **5)** dotyczące umów o dzieło, o których mowa w art. 36 ust. 17 – w celu niezbędnym do wykonywania ustawowych zadań zmierzających do skutecznego poboru należności podatkowych i weryfikacji danych własnych oraz zadań analityczno-sprawozdawczych.
 
 17a. Zakład przekazuje do Centralnego Rejestru Danych Podatkowych, drogą elektroniczną, dane, o których mowa w ust. 17 pkt 1 lit. a, d, e, k–t oraz pkt 2 lit. a i b, za okres od stycznia do grudnia w terminie do końca stycznia roku następującego po roku, za który są przekazywane te dane.
 
 17b. W przypadku zmiany danych, o których mowa w ust. 17a, Zakład niezwłocznie, nierzadziej niż 2 razy w miesiącu, przekazuje zmienione dane. Zmienione dane Zakład przekazuje do dnia 20 kwietnia roku następującego po roku kalendarzowym.
 
-17c. Zakład udostępnia Szefowi Krajowej Administracji Skarbowej lub dyrektorowi izby administracji skarbowej w związku z prowadzonym audytem, o którym mowa w art. 95 ust. 1 pkt 1–1e ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863), na ich żądanie, dane zgromadzone na koncie płatnika składek, o których mowa w art. 45, obejmujące stan zaległości w opłacaniu należnych składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych.
+17c. Zakład udostępnia Szefowi Krajowej Administracji Skarbowej lub dyrektorowi izby administracji skarbowej w związku z prowadzonym audytem, o którym mowa w art. 95 ust. 1 pkt 1–1e ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i
+
+- **1863)** , na ich żądanie, dane zgromadzone na koncie płatnika składek, o których mowa w art. 45, obejmujące stan zaległości w opłacaniu należnych składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych.
 
 18. Zakład udostępnia ministrowi właściwemu do spraw rodziny lub ministrowi właściwemu do spraw zabezpieczenia społecznego, w postaci elektronicznej, wykaz zawierający dane wskazanych przez ministra osób pobierających świadczenia z pomocy społecznej, świadczenia rodzinne oraz świadczenia z funduszu alimentacyjnego, a także członków ich rodzin, którzy zostali zgłoszeni do ubezpieczeń społecznych lub ubezpieczenia zdrowotnego, w okresie wskazanym przez ministra właściwego do spraw rodziny lub ministra właściwego do spraw zabezpieczenia społecznego, obejmujące:
 
 - **1)** imię i nazwisko,
-- **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia,
+- **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia,
 - **3)** datę powstania obowiązku ubezpieczeń społecznych lub ubezpieczenia zdrowotnego,
 - **4)** datę wyrejestrowania z ubezpieczeń społecznych lub z ubezpieczenia zdrowotnego,
 - **5)** kod i nazwę tytułu ubezpieczenia,
 - **6)** okres rozliczeniowy,
 - **7)** dane dotyczące płatników składek:
-    - **a)** numer NIP, a jeżeli płatnikowi składek nie nadano tego numeru numer PESEL lub serię i numer dowodu osobistego albo paszportu,
-    - **b)** nazwę skróconą lub imię i nazwisko płatnika składek w celu umożliwienia ośrodkom pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrom usług społecznych, organom właściwym i wojewodom weryfikacji prawa do świadczeń z pomocy społecznej, świadczeń rodzinnych oraz świadczeń z funduszu alimentacyjnego, a także w celu monitorowania przez ministra właściwego do spraw rodziny, ministra właściwego do spraw zabezpieczenia społecznego oraz wojewodę realizacji świadczeń z pomocy społecznej, świadczeń rodzinnych oraz świadczeń z funduszu alimentacyjnego przez ośrodki pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych przez centra usług społecznych, organy właściwe oraz wojewodów.
+    - **a)** numer NIP, a jeżeli płatnikowi składek nie nadano tego numeru – numer PESEL lub serię i numer dowodu osobistego albo paszportu,
+    - **b)** nazwę skróconą lub imię i nazwisko płatnika składek – w celu umożliwienia ośrodkom pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrom usług społecznych, organom właściwym i wojewodom weryfikacji prawa do świadczeń z pomocy społecznej, świadczeń rodzinnych oraz świadczeń z funduszu alimentacyjnego, a także w celu monitorowania przez ministra właściwego do spraw rodziny, ministra właściwego do spraw zabezpieczenia społecznego oraz wojewodę realizacji świadczeń z pomocy społecznej, świadczeń rodzinnych oraz świadczeń z funduszu alimentacyjnego przez ośrodki pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – przez centra usług społecznych, organy właściwe oraz wojewodów.
 
 19. Zakład udziela bezpłatnie sądowi rejestrowemu prowadzącemu postępowania o rozwiązanie podmiotu wpisanego do Krajowego Rejestru Sądowego bez przeprowadzania postępowania likwidacyjnego informacji niezbędnych do ustalenia, czy podmiot wpisany do tego rejestru posiada zbywalny majątek i czy faktycznie prowadzi działalność.
 
 20. Zakład, na wniosek złożony w postaci elektronicznej, udostępnia komornikowi sądowemu, w postaci elektronicznej, wykaz zawierający dane zgromadzone na koncie ubezpieczonego wskazanych przez niego ubezpieczonych, będących dłużnikami uchylającymi się od zobowiązań alimentacyjnych, obejmujące:
 
 - **1)** imię i nazwisko,
-- **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu tożsamości,
+- **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości,
 - **3)** adres zameldowania, zamieszkania oraz do korespondencji,
 - **4)** datę zgłoszenia do ubezpieczeń społecznych lub do ubezpieczenia zdrowotnego,
 - **5)** datę wyrejestrowania z ubezpieczeń społecznych lub z ubezpieczenia zdrowotnego,
@@ -2162,8 +2181,8 @@ Art. 99–106. (pominięte)
 - **8)** kod świadczenia lub kod przerwy wraz z kwotą wypłaty tego świadczenia,
 - **9)** ustalone prawo do emerytury lub renty,
 - **10)** dane dotyczące płatnika składek:
-    - **a)** numer NIP, a jeżeli płatnikowi składek nie nadano tego numeru numer PESEL lub serię i numer dowodu osobistego albo paszportu,
-    - **b)** nazwę skróconą lub imię i nazwisko płatnika składek w celu sprawnej realizacji egzekucji świadczeń alimentacyjnych, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów, prowadzonej przez komornika sądowego.
+    - **a)** numer NIP, a jeżeli płatnikowi składek nie nadano tego numeru – numer PESEL lub serię i numer dowodu osobistego albo paszportu,
+    - **b)** nazwę skróconą lub imię i nazwisko płatnika składek – w celu sprawnej realizacji egzekucji świadczeń alimentacyjnych, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów, prowadzonej przez komornika sądowego.
 
 21. W przypadku zmiany danych, o których mowa w ust. 20, Zakład, nierzadziej niż raz w miesiącu, udostępnia komornikowi sądowemu w postaci elektronicznej zmienione dane.
 
@@ -2171,14 +2190,14 @@ Art. 99–106. (pominięte)
 
 23. Komornik sądowy jest obowiązany do informowania Zakładu, w postaci elektronicznej, nierzadziej niż co 6 miesięcy, o dalszym prowadzeniu egzekucji świadczeń alimentacyjnych, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów wobec ubezpieczonego, o którym mowa w ust. 20. Brak informacji skutkuje zaprzestaniem przekazywania przez Zakład danych, o których mowa w ust. 21.
 
-24. Zakład przekazuje ministrowi właściwemu do spraw oświaty i wychowania dane, o których mowa w art. 26b ust. 16 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, w celu prowadzenia monitoringu karier absolwentów, o którym mowa w art. 26b ust. 1 tej ustawy.
+24. Zakład przekazuje ministrowi właściwemu do spraw oświaty i wychowania dane, o których mowa w art. 26b ust. 16 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, w celu prowadzenia monitoringu karier absolwentów, o którym mowa w art. 26b ust. 1 tej ustawy.
 
-24a. Zakład przekazuje do bazy danych systemu informacji oświatowej, o której mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152, z późn. zm. ), dane, o których mowa w art. 43a tej ustawy, w celu prowadzenia analiz dotyczących sytuacji kadrowej w systemie oświaty oraz efektywności wykorzystania środków publicznych przeznaczonych na finansowanie zadań oświatowych w zakresie zatrudnienia w szkołach, placówkach oświatowych i innych jednostkach wykonujących zadania z zakresu oświaty: nauczycieli, wychowawców i innych pracowników pedagogicznych, o których mowa w art. 1 ust. 1 i ust. 2 pkt 1–3 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela, nauczycieli, o których mowa w art. 16 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, osób niebędących nauczycielami, o których mowa w art. 15 i art. 62 ust. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, a także osób, które wykonują zadania nauczyciela na podstawie umowy cywilnoprawnej.
+24a. Zakład przekazuje do bazy danych systemu informacji oświatowej, o której mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152, z późn. zm. ), dane, o których mowa w art. 43a tej ustawy, w celu prowadzenia analiz dotyczących sytuacji kadrowej w systemie oświaty oraz efektywności wykorzystania środków publicznych przeznaczonych na finansowanie zadań oświatowych w zakresie zatrudnienia w szkołach, placówkach oświatowych i innych jednostkach wykonujących zadania z zakresu oświaty: nauczycieli, wychowawców i innych pracowników pedagogicznych, o których mowa w art. 1 ust. 1 i ust. 2 pkt 1–3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, nauczycieli, o których mowa w art. 16 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, osób niebędących nauczycielami, o których mowa w art. 15 i art. 62 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, a także osób, które wykonują zadania nauczyciela na podstawie umowy cywilnoprawnej.
 
 25. Zakład udostępnia wojewódzkim zespołom do spraw orzekania o niepełnosprawności, drogą elektroniczną, w związku z postępowaniem o wydanie decyzji ustalającej poziom potrzeby wsparcia, o której mowa w art. 6b ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26), dane o posiadaniu przez osoby, które złożyły wniosek o wydanie tej decyzji, orzeczenia o niezdolności do pracy lub orzeczenia o niezdolności do samodzielnej egzystencji, o którym mowa w art. 5 tej ustawy, obejmujące:
 
 - **1)** imię i nazwisko;
-- **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
+- **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
 - **3)** datę wydania orzeczenia;
 - **4)** dane o niezdolności do pracy, jej stopniu oraz okresie, na który została ustalona;
 - **5)** dane o niezdolności do samodzielnej egzystencji oraz okresie, na który została ustalona.
@@ -2188,16 +2207,13 @@ Art. 99–106. (pominięte)
 27. Zakład udostępnia wojewódzkim zespołom do spraw orzekania o niepełnosprawności, w drodze pisemnej wymiany informacji, w związku z postępowaniem o wydanie decyzji ustalającej poziom potrzeby wsparcia, o której mowa w art. 6b ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, dane o posiadaniu przez osoby, które złożyły wniosek o wydanie tej decyzji, orzeczenia, o którym mowa w art. 62 ust. 1 i 2 tej ustawy, obejmujące:
 
 - **1)** imię i nazwisko;
-- **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
+- **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
 - **3)** datę wydania orzeczenia;
-- **4)** dane o zaliczeniu do jednej z grup inwalidów oraz o okresie, na który została ustalona.
-
-28. Zakład, na wniosek złożony w postaci elektronicznej, udostępnia bezpłatnie bankom, instytucjom finansowym, instytucjom kredytowym oraz instytucjom pożyczkowym, o których mowa w art. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2026 r. poz. 38), oraz osobom prawnym, jednostkom organizacyjnym lub osobom fizycznym będącym przedsiębiorcami, za zgodą płatnika składek, dane zgromadzone na koncie płatnika składek, o których mowa w art. 45, obejmujące:
-
-- **1)** numer NIP lub numer identyfikacyjny REGON, a jeżeli nie nadano tych numerów lub jednego z nich numer PESEL lub serię i numer dowodu osobistego albo paszportu,
+- **4)** dane o zaliczeniu do jednej z grup inwalidów oraz o okresie, na który została ustalona. <28. Zakład, na wniosek złożony w postaci elektronicznej, udostępnia bezpłatnie bankom, instytucjom finansowym, instytucjom kredytowym oraz instytucjom pożyczkowym, o których mowa w art. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38), oraz osobom prawnym, jednostkom organizacyjnym lub osobom fizycznym będącym przedsiębiorcami, za zgodą płatnika składek, dane zgromadzone na koncie płatnika składek, o których mowa w art. 45, obejmujące:
+- **1)** numer NIP lub numer identyfikacyjny REGON, a jeżeli nie nadano tych numerów lub jednego z nich – numer PESEL lub serię i numer dowodu osobistego albo paszportu,
 - **2)** nazwę skróconą lub imię i nazwisko,
 - **3)** okres rozliczeniowy,
-- **4)** stan rozliczeń należnych składek, do poboru których uprawniony jest Zakład w zakresie niezbędnym do zrealizowania przez banki, instytucje finansowe, instytucje kredytowe oraz instytucje pożyczkowe wniosku płatnika składek o udzielenie kredytu, pożyczki pieniężnej lub świadczenie innej usługi, o których mowa w art. 5 i art. 6 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo w zakresie niezbędnym do zweryfikowania sytuacji finansowej i gospodarczej płatnika składek przez osoby prawne, jednostki organizacyjne lub osoby fizyczne będące przedsiębiorcami.
+- **4)** stan rozliczeń należnych składek, do poboru których uprawniony jest Zakład – w zakresie niezbędnym do zrealizowania przez banki, instytucje finansowe, instytucje kredytowe oraz instytucje pożyczkowe wniosku płatnika składek o udzielenie kredytu, pożyczki pieniężnej lub świadczenie innej usługi, o których mowa w art. 5 i art. 6 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, albo w zakresie niezbędnym do zweryfikowania sytuacji finansowej i gospodarczej płatnika składek przez osoby prawne, jednostki organizacyjne lub osoby fizyczne będące przedsiębiorcami.
 
 29. Dane i informacje, o których mowa w ust. 28, udostępnia się wyłącznie w postaci elektronicznej, z uwzględnieniem przepisów dotyczących ochrony danych osobowych.
 
@@ -2205,35 +2221,26 @@ Art. 99–106. (pominięte)
 
 31. Zgoda jest udzielana osobie lub podmiotowi uprawnionemu, o których mowa w ust. 28, i jest przekazywana do Zakładu wraz z wnioskiem o udostępnienie danych albo jest udzielana bezpośrednio Zakładowi i zawiera dane płatnika składek oraz:
 
-- **1)** imię i nazwisko oraz numer PESEL, a w razie gdy nie nadano numeru PESEL serię i numer dowodu osobistego lub paszportu w przypadku, jeżeli zgoda jest udzielana osobie fizycznej;
-- **2)** nazwę oraz numer NIP albo numer identyfikacyjny REGON w przypadku, jeżeli zgoda jest udzielana podmiotowi innemu niż osoba fizyczna.
+- **1)** imię i nazwisko oraz numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dowodu osobistego lub paszportu – w przypadku, jeżeli zgoda jest udzielana osobie fizycznej;
+- **2)** nazwę oraz numer NIP albo numer identyfikacyjny REGON – w przypadku, jeżeli zgoda jest udzielana podmiotowi innemu niż osoba fizyczna.>
+
+32. Zakład udostępnia organom właściwym do spraw cyberbezpieczeństwa i Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Naukową i Akademicką Sieć Komputerową – Państwowy Instytut Badawczy, drogą elektroniczną, dane obejmujące roczną liczbę ubezpieczonych, którzy zostali zgłoszeni przez płatnika, w zakresie niezbędnym do realizacji ich ustawowych zadań. Dane, o których mowa w zdaniu pierwszym, obejmują ubezpieczonych zgłoszonych przez płatnika do Zakładu od dnia 1 stycznia do dnia 31 grudnia danego roku. Udostępnienie informacji następuje nieodpłatnie.
 
 **Art. 50a.** Zakład Ubezpieczeń Społecznych i Kasa Rolniczego Ubezpieczenia Społecznego w formie elektronicznej wymieniają dane niezbędne do ustalenia obowiązku ubezpieczenia społecznego i zdrowotnego.
 
-**Art. 50b.**
+**Art. 50b.** Zakład może udostępniać ubezpieczonemu, o którym mowa w art. 50 ust. 1ha:
 
-- **68)** Zakład może udostępniać ubezpieczonemu, o którym mowa w art. 50 ust. 1ha:
-- **1)** informacje dotyczące gromadzenia przez niego środków w ramach indywidualnego konta emerytalnego lub indywidualnego konta zabezpieczenia emerytalnego w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego, pracowniczych programów emerytalnych w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, otwartych funduszy emerytalnych w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych oraz pracowniczych planów kapitałowych w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, a także o ubezpieczeniu emerytalno-rentowym rolników w rozumieniu ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 1770);
-- **2)** dane o zewidencjonowanych składkach, wpłatach, wartości jednostek uczestnictwa w funduszu inwestycyjnym, wartości jednostek uczestnictwa w ubezpieczeniowym funduszu kapitałowym, wartości jednostek rozrachunkowych funduszu emerytalnego, wartości papierów wartościowych i wartości innych instrumentów finansowych;
-- **3)** informacje o innych środkach służących wyliczeniu jego przyszłych świadczeń.
-
-**Art. 50c.**
-
-- **68)** Kasa Rolniczego Ubezpieczenia Społecznego oraz podmioty zainteresowane mogą przekazywać do Zakładu w postaci elektronicznej dane i informacje, o których mowa w art. 50b, za zgodą osoby, której te dane i informacje dotyczą.
+**Art. 50c.** Kasa Rolniczego Ubezpieczenia Społecznego oraz podmioty zainteresowane mogą przekazywać do Zakładu w postaci elektronicznej dane i informacje, o których mowa w art. 50b, za zgodą osoby, której te dane i informacje dotyczą.
 
 **Art. 50d.**
 
-- **68)** 1. Zakład prowadzi w postaci elektronicznej ewidencję danych i informacji, o których mowa w art. 50b, otrzymanych z Kasy Rolniczego Ubezpieczenia Społecznego i od podmiotów zainteresowanych.
+1. Zakład prowadzi w postaci elektronicznej ewidencję danych i informacji, o których mowa w art. 50b, otrzymanych z Kasy Rolniczego Ubezpieczenia Społecznego i od podmiotów zainteresowanych.
 
 2. Zakład, w celu udostępnienia danych i informacji oraz świadczenia usług elektronicznych, przetwarza dane i informacje, o których mowa w art. 50b, otrzymane z Kasy Rolniczego Ubezpieczenia Społecznego i od podmiotów zainteresowanych.
 
-**Art. 50e.**
+**Art. 50e.** Zakład jest administratorem w rozumieniu art. 4 pkt 7 rozporządzenia 2016/679 danych i informacji, o których mowa w art. 50b, otrzymanych z Kasy Rolniczego Ubezpieczenia Społecznego i od podmiotów zainteresowanych.
 
-- **68)** Zakład jest administratorem w rozumieniu art. 4 pkt 7 rozporządzenia 2016/679 danych i informacji, o których mowa w art. 50b, otrzymanych z Kasy Rolniczego Ubezpieczenia Społecznego i od podmiotów zainteresowanych.
-
-**Art. 50f.**
-
-- **68)** Do danych i informacji, o których mowa w art. 50b, otrzymanych z Kasy Rolniczego Ubezpieczenia Społecznego i od podmiotów zainteresowanych stosuje się odpowiednio przepisy art. 34 i art. 79.
+**Art. 50f.** Do danych i informacji, o których mowa w art. 50b, otrzymanych z Kasy Rolniczego Ubezpieczenia Społecznego i od podmiotów zainteresowanych stosuje się odpowiednio przepisy art. 34 i art. 79.
 
 #### Rozdział 5 Fundusz Ubezpieczeń Społecznych
 
@@ -2272,7 +2279,7 @@ Art. 99–106. (pominięte)
 
 1. W granicach określonych w ustawie budżetowej FUS może otrzymywać z budżetu państwa dotacje i nieoprocentowane pożyczki.
 
-2. Dotacje i pożyczki, o których mowa w ust. 1, mogą być przeznaczone wyłącznie na uzupełnienie środków na wypłaty świadczeń gwarantowanych przez państwo, jeżeli przychody przekazywane na rachunek bankowy FUS nie zapewniają pełnej i terminowej wypłaty świadczeń finansowanych z przychodów FUS.
+2. Dotacje i pożyczki, o których mowa w ust. 1, mogą być przeznaczone na uzupełnienie środków na wypłaty świadczeń gwarantowanych przez państwo, jeżeli przychody przekazywane na rachunek bankowy FUS nie zapewniają pełnej i terminowej wypłaty świadczeń finansowanych z przychodów FUS. Dotacje mogą być przeznaczone także na rekompensatę składek przekazywanych na rzecz otwartych funduszy emerytalnych.
 
 3. Za zgodą ministra właściwego do spraw finansów publicznych FUS może zaciągać kredyty.
 
@@ -2451,28 +2458,17 @@ Art. 99–106. (pominięte)
     - **b)** ustalanie uprawnień do świadczeń z ubezpieczeń społecznych oraz wypłacanie tych świadczeń, chyba że na mocy odrębnych przepisów obowiązki te wykonują płatnicy składek,
     - **c)** wymierzanie i pobieranie składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych,
     - **d)** prowadzenie rozliczeń z płatnikami składek z tytułu należnych składek i wypłacanych przez nich świadczeń podlegających finansowaniu z funduszy ubezpieczeń społecznych lub innych źródeł,
-    - **e)** prowadzenie indywidualnych kont ubezpieczonych i kont płatników składek,
-    - **f)** orzekanie przez lekarzy orzeczników Zakładu oraz komisje lekarskie Zakładu dla potrzeb ustalania uprawnień do świadczeń z ubezpieczeń społecznych;
-    - **f)** (uchylona) 1a) opiniowanie projektów aktów prawnych z zakresu zabezpieczenia społecznego;
+    - **e)** prowadzenie indywidualnych kont ubezpieczonych i kont płatników składek, [f) orzekanie przez lekarzy orzeczników Zakładu oraz komisje lekarskie Zakładu dla potrzeb ustalania uprawnień do świadczeń z ubezpieczeń społecznych;] 1a) opiniowanie projektów aktów prawnych z zakresu zabezpieczenia społecznego;
 
 - **2)** realizacja umów i porozumień międzynarodowych w dziedzinie ubezpieczeń społecznych;
 - **2a)** wystawianie osobom uprawnionym do emerytur i rent z ubezpieczeń społecznych imiennych legitymacji emeryta–rencisty, potwierdzających status emeryta–rencisty;
 - **3)** dysponowanie środkami finansowymi funduszów ubezpieczeń społecznych oraz środkami Funduszu Alimentacyjnego ;
-- **4)** opracowywanie aktuarialnych analiz i prognoz w zakresie ubezpieczeń społecznych;
-- **5)** kontrola orzecznictwa o czasowej niezdolności do pracy;
-- **5)** orzekanie przez lekarzy orzeczników oraz osoby wykonujące samodzielny zawód medyczny dla potrzeb ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu oraz dla celów realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także kontrola orzecznictwa o czasowej niezdolności do pracy;
+- **4)** opracowywanie aktuarialnych analiz i prognoz w zakresie ubezpieczeń społecznych; [5) kontrola orzecznictwa o czasowej niezdolności do pracy;] <5) orzekanie przez lekarzy orzeczników oraz osoby wykonujące samodzielny zawód medyczny dla potrzeb ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu oraz dla celów realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także kontrola orzecznictwa o czasowej niezdolności do pracy;>
 - **6)** kontrola wykonywania przez płatników składek i przez ubezpieczonych obowiązków w zakresie ubezpieczeń społecznych oraz innych zadań zleconych Zakładowi;
-- **7)** wydawanie Biuletynu Informacyjnego;
 - **7)** informowanie o zadaniach wykonywanych przez Zakład;
-- **8)** popularyzacja wiedzy o ubezpieczeniach społecznych.
-- **8)** popularyzacja wiedzy o zabezpieczeniu społecznym i innych zadaniach wykonywanych przez Zakład.
-
-2. W ramach realizacji zadań określonych w ust. 1 pkt 1 lit. f i pkt 5 oraz zadań związanych z orzekaniem przez lekarzy orzeczników i komisji lekarskiej Zakładu dla potrzeb ustalania uprawnień do świadczeń innych niż z ubezpieczeń społecznych Zakład udziela zamówień na dodatkowe opinie lekarza konsultanta lub psychologa oraz wyniki czasowej obserwacji szpitalnej zgodnie z potrzebami orzecznictwa lekarskiego z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
-
-2. W ramach realizacji zadań określonych w ust. 1 pkt 5 Zakład:
-
+- **8)** popularyzacja wiedzy o zabezpieczeniu społecznym i innych zadaniach wykonywanych przez Zakład. [2. W ramach realizacji zadań określonych w ust. 1 pkt 1 lit. f i pkt 5 oraz zadań związanych z orzekaniem przez lekarzy orzeczników i komisji lekarskiej Zakładu dla potrzeb ustalania uprawnień do świadczeń innych niż z ubezpieczeń społecznych Zakład udziela zamówień na dodatkowe opinie lekarza konsultanta lub psychologa oraz wyniki czasowej obserwacji szpitalnej – zgodnie z potrzebami orzecznictwa lekarskiego z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).] <2. W ramach realizacji zadań określonych w ust. 1 pkt 5 Zakład:
 - **1)** udziela zamówień na opinie specjalistyczne lekarza konsultanta lub psychologa oraz wyniki obserwacji szpitalnej,
-- **2)** zawiera umowy, o których mowa w art. 85b ust. 1 z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+- **2)** zawiera umowy, o których mowa w art. 85b ust. 1 – z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 3. Przepis ust. 1 pkt 2a stosuje się odpowiednio do osób uprawnionych do emerytur i rent wypłacanych przez Zakład w ramach zadań zleconych na mocy odrębnych przepisów.
 
@@ -2510,19 +2506,23 @@ Art. 99–106. (pominięte)
 
 2. Zakład jest administratorem danych zgromadzonych w systemie, o którym mowa w ust. 1.
 
-3. Zakład udostępnia dane zgromadzone w systemie, o którym mowa w ust. 1, organom emerytalno-rentowym uprawnionym do ustalania prawa i wysokości oraz wypłaty świadczeń obsługiwanych przez te organy, rozliczeń z tytułu tych świadczeń pomiędzy tymi organami oraz do ustalenia zbiegu świadczeń, o którym mowa w ust. 1. Art. 68ab. 1. Zakład udostępnia usługę umożliwiającą ustalenie zbiegu świadczeń, o którym mowa w art. 95a ust. 1 i art. 95b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w wariantach określonych ustawą w celu zapewnienia pomocy osobie uprawnionej w wyborze najkorzystniejszego wariantu tego zbiegu.
+3. Zakład udostępnia dane zgromadzone w systemie, o którym mowa w ust. 1, organom emerytalno-rentowym uprawnionym do ustalania prawa i wysokości oraz wypłaty świadczeń obsługiwanych przez te organy, rozliczeń z tytułu tych świadczeń pomiędzy tymi organami oraz do ustalenia zbiegu świadczeń, o którym mowa w ust. 1. Art. 68ab. 1. Zakład udostępnia usługę umożliwiającą ustalenie zbiegu świadczeń, o którym mowa w art. 95a ust. 1 i art. 95b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w wariantach określonych ustawą – w celu zapewnienia pomocy osobie uprawnionej w wyborze najkorzystniejszego wariantu tego zbiegu.
 
-2. Zakład udostępnia usługę, o której mowa w ust. 1, organom wypłacającym świadczenia w zbiegu, o których mowa w art. 95a ust. 1 i art. 95b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w celu jej udostępniania na stronach podmiotowych tych organów.
+2. Zakład udostępnia usługę, o której mowa w ust. 1, organom wypłacającym świadczenia w zbiegu, o których mowa w art. 95a ust. 1 i art. 95b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w celu jej udostępniania na stronach podmiotowych tych organów. <Art. 68ac. 1. W Zakładzie jest prowadzony system teleinformatyczny służący do wymiany między Zakładem, Państwową Inspekcją Pracy oraz Szefem Krajowej Administracji Skarbowej danych i informacji niezbędnych do dokonywania analizy ryzyka naruszenia prawa i niewykonywania obowiązków z zakresu prawa pracy i legalności zatrudnienia, prawa podatkowego, ubezpieczeń społecznych i ubezpieczenia zdrowotnego.
+
+2. Dane i informacje, o których mowa w ust. 1, są wymieniane w drodze teletransmisji za pośrednictwem systemu teleinformatycznego, o którym mowa w ust. 1.
+
+3. Szczegółowy zakres danych i informacji, o których mowa w ust. 1, oraz sposób ich wymiany określają porozumienia zawarte między Zakładem a Państwową Inspekcją Pracy oraz Szefem Krajowej Administracji Skarbowej.>
 
 **Art. 68b.**
 
 1. Certyfikat umożliwiający podpisywanie dokumentów elektronicznych z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym Zakładu, o którym mowa w art. 54 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26), Zakład udostępnia:
 
-- **1)** pracownikom medycznym oraz osobom wykonującym: poz. 26) upoważnionym do wykonywania czynności określonych w art. 41a ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty lub art. 54a ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
+- **1)** pracownikom medycznym oraz osobom wykonującym: o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26) – upoważnionym do wykonywania czynności określonych w art. 41a ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty lub art. 54a ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
     - **a)** zawód medyczny, o których mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211),
-    - **b)** czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r.
+    - **b)** czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r.
 
-- **2)** lekarzom konsultantom dla celów wydawania opinii specjalistycznych w postępowaniach dotyczących realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5.
+- **2)** lekarzom konsultantom – dla celów wydawania opinii specjalistycznych w postępowaniach dotyczących realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5.
 
 2. Zakład ponosi odpowiedzialność jedynie za wykorzystanie certyfikatów, o których mowa w ust. 1, dla celów podpisywania zaświadczeń, o których mowa w art. 54 ust. 1 ustawy wymienionej w ust. 1, wystawianych w formie dokumentu elektronicznego za pośrednictwem systemu teleinformatycznego udostępnionego przez Zakład.
 
@@ -2547,7 +2547,7 @@ Art. 99–106. (pominięte)
 
 2a. Skierowanie na rehabilitację leczniczą w ramach prewencji rentowej nie wymaga wydania decyzji.
 
-3. Do zamówień, o których mowa w ust. 2 pkt 3, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych.
+3. Do zamówień, o których mowa w ust. 2 pkt 3, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 4. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb:
 
@@ -2593,14 +2593,14 @@ Art. 99–106. (pominięte)
 4. W przypadku, o którym mowa w ust. 2, na profilu informacyjnym w systemie teleinformatycznym Zakładu jest udostępniane urzędowe poświadczenie odbioru po:
 
 - **1)** odebraniu pisma na profilu informacyjnym;
-- **2)** upływie 14 dni od dnia umieszczenia pisma na profilu informacyjnym w przypadku jego nieodebrania.
+- **2)** upływie 14 dni od dnia umieszczenia pisma na profilu informacyjnym – w przypadku jego nieodebrania.
 
 5. Urzędowe poświadczenie odbioru jest równoważne dowodowi otrzymania, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 
 6. W przypadku, o którym mowa w ust. 2, pismo uznaje się za doręczone:
 
 - **1)** we wskazanej w urzędowym poświadczeniu odbioru chwili jego odbioru na profilu informacyjnym w systemie teleinformatycznym Zakładu;
-- **2)** po upływie 14 dni od dnia wskazanego w urzędowym poświadczeniu odbioru jego umieszczenia na profilu informacyjnym w systemie teleinformatycznym Zakładu w przypadku jego nieodebrania.
+- **2)** po upływie 14 dni od dnia wskazanego w urzędowym poświadczeniu odbioru jego umieszczenia na profilu informacyjnym w systemie teleinformatycznym Zakładu – w przypadku jego nieodebrania.
 
 7. Przepisy ust. 1, 1a i 3 stosuje się również w przypadku doręczania przez Zakład pisma stanowiącego odpowiedź na pismo przesłane z adresu do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, niewpisanego do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy. Art. 71ac. 1. Doręczanie pisma do Zakładu jest możliwe za pośrednictwem usługi online udostępnionej w systemie teleinformatycznym Zakładu i wymaga posiadania profilu informacyjnego w tym systemie.
 
@@ -2635,13 +2635,10 @@ Art. 99–106. (pominięte)
 - **1)** kierowanie pracami Zarządu;
 - **2)** koordynowanie współpracy Zakładu z urzędami administracji rządowej, w tym w szczególności z Komisją Nadzoru Finansowego, a także z innymi organami rentowymi;
 - **3)** tworzenie, przekształcanie i znoszenie terenowych jednostek organizacyjnych oraz określanie ich siedziby, właściwości terytorialnej i rzeczowej;
-- **4)** powoływanie i odwoływanie kierowników jednostek organizacyjnych Zakładu, ich zastępców oraz głównych księgowych;
-- **5)** zwierzchni nadzór nad orzecznictwem lekarskim dla celów ubezpieczeń społecznych;
-- **5)** zwierzchni nadzór nad:
+- **4)** powoływanie i odwoływanie kierowników jednostek organizacyjnych Zakładu, ich zastępców oraz głównych księgowych; [5) zwierzchni nadzór nad orzecznictwem lekarskim dla celów ubezpieczeń społecznych;] <5) zwierzchni nadzór nad:
     - **a)** wydawaniem orzeczeń dla potrzeb ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu oraz dla celów realizacji zadań zleconych Zakładowi na podstawie innych ustaw,
-    - **b)** kontrolą orzecznictwa o czasowej niezdolności do pracy;
+    - **b)** kontrolą orzecznictwa o czasowej niezdolności do pracy;> <5a) określanie właściwości terenowych jednostek organizacyjnych Zakładu w zakresie realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, biorąc pod uwagę w szczególności względy ich dostępności dla osób zainteresowanych i potrzebę zapewnienia odpowiedniej obsady kadrowej;>
 
-- **5a)** określanie właściwości terenowych jednostek organizacyjnych Zakładu w zakresie realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, biorąc pod uwagę w szczególności względy ich dostępności dla osób zainteresowanych i potrzebę zapewnienia odpowiedniej obsady kadrowej;
 - **6)** przyznawanie świadczeń w drodze wyjątku;
 - **6a)** przyznawanie rodzicielskich świadczeń uzupełniających, o których mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2025 r. poz. 1577);
 - **7)** spełnianie funkcji pracodawcy w rozumieniu przepisów Kodeksu pracy;
@@ -2688,13 +2685,13 @@ Art. 99–106. (pominięte)
 - **1)** bieżące zarządzanie funduszami, których dysponentem jest Zakład;
 - **2)** przygotowywanie projektów dotyczących administrowania środkami FRD;
 - **3)** prowadzenie gospodarki finansowej Zakładu;
-- **4)** opracowywanie projektu rocznego planu finansowego FUS i FRD oraz przekazywanie go w trybie określonym w przepisach dotyczących prac nad projektem budżetu państwa po zaopiniowaniu przez Radę Nadzorczą Zakładu ministrowi właściwemu do spraw zabezpieczenia społecznego;
-- **5)** sporządzanie rocznych sprawozdań finansowych Zakładu, FUS i FRD i przedkładanie ich po zaopiniowaniu przez biegłego rewidenta niebędącego pracownikiem Zakładu ministrowi właściwemu do spraw zabezpieczenia społecznego;
-- **5a)** sporządzanie rocznych sprawozdań z wykonania planów finansowych FUS i FRD i przedkładanie ich po zaopiniowaniu przez Radę Nadzorczą Zakładu ministrowi właściwemu do spraw zabezpieczenia społecznego;
-- **6)** przedstawianie Radzie Nadzorczej Zakładu informacji o pracy Zakładu w formie, zakresie i terminach określonych przez Radę Nadzorczą Zakładu;
+- **4)** opracowywanie projektu rocznego planu finansowego FUS i FRD oraz przekazywanie go w trybie określonym w przepisach dotyczących prac nad projektem budżetu państwa – po zaopiniowaniu przez Radę Nadzorczą Zakładu – ministrowi właściwemu do spraw zabezpieczenia społecznego;
+- **5)** sporządzanie rocznych sprawozdań finansowych Zakładu, FUS i FRD i przedkładanie ich – po zaopiniowaniu przez biegłego rewidenta niebędącego pracownikiem Zakładu – ministrowi właściwemu do spraw zabezpieczenia społecznego;
+- **5a)** sporządzanie rocznych sprawozdań z wykonania planów finansowych FUS i FRD i przedkładanie ich – po zaopiniowaniu przez Radę Nadzorczą Zakładu – ministrowi właściwemu do spraw zabezpieczenia społecznego;
+- **6)** przedstawianie Radzie Nadzorczej Zakładu informacji o pracy Zakładu – w formie, zakresie i terminach określonych przez Radę Nadzorczą Zakładu;
 - **7)** (uchylony)
-- **8)** sporządzanie planu finansowego Zakładu oraz zmian do planu i sprawozdań z jego wykonania oraz przedkładanie ich po zatwierdzeniu przez Radę Nadzorczą Zakładu ministrowi właściwemu do spraw zabezpieczenia społecznego;
-- **9)** opracowywanie rocznych sprawozdań z działalności Zakładu i przedkładanie ich po zatwierdzeniu przez Radę Nadzorczą Zakładu ministrowi właściwemu do spraw zabezpieczenia społecznego;
+- **8)** sporządzanie planu finansowego Zakładu oraz zmian do planu i sprawozdań z jego wykonania oraz przedkładanie ich – po zatwierdzeniu przez Radę Nadzorczą Zakładu – ministrowi właściwemu do spraw zabezpieczenia społecznego;
+- **9)** opracowywanie rocznych sprawozdań z działalności Zakładu i przedkładanie ich – po zatwierdzeniu przez Radę Nadzorczą Zakładu – ministrowi właściwemu do spraw zabezpieczenia społecznego;
 - **10)** sporządzanie wieloletniej prognozy kroczącej dochodów i wydatków funduszu emerytalnego, o której mowa w art. 61 ust. 3.
 
 3a. W sprawozdaniu z wykonania planu finansowego Zakładu, o którym mowa w ust. 3 pkt 8, podaje się także informację o kwocie składek należnych, o których mowa w art. 40 ust. 1 pkt 1, nieopłaconych przez płatników składek.
@@ -2766,7 +2763,7 @@ Art. 99–106. (pominięte)
 
 - **1)** uchwalanie regulaminu działania Zarządu Zakładu;
 - **2)** ustalanie wynagrodzenia członków Zarządu, z wyłączeniem Prezesa Zakładu;
-- **3)** okresowa ocena w przyjętym przez siebie trybie pracy Zarządu;
+- **3)** okresowa ocena – w przyjętym przez siebie trybie – pracy Zarządu;
 - **4)** zatwierdzanie rocznego planu finansowego Zakładu oraz zmian do planu i sprawozdania z jego wykonania, a także rocznego sprawozdania z działalności Zakładu;
 - **5)** opiniowanie projektów planów finansowych FUS i FRD oraz sprawozdań z ich wykonania;
 - **6)** opiniowanie projektów aktów prawnych z zakresu ubezpieczeń społecznych oraz zgłaszanie inicjatyw w tym zakresie kierowanych do ministra właściwego do spraw zabezpieczenia społecznego;
@@ -2795,7 +2792,7 @@ Art. 99–106. (pominięte)
     - **b)** Fundusz Gwarantowanych Świadczeń Pracowniczych,
     - **c)** (uchylona)
     - **d)** Fundusz Pracy,
-    - **e)** Fundusz Solidarnościowy których wysokość określają odrębne przepisy;
+    - **e)** Fundusz Solidarnościowy – których wysokość określają odrębne przepisy;
 
 - **3)** należności z tytułu poniesionych kosztów poboru i dochodzenia składek na otwarte fundusze emerytalne w wysokości niewyższej niż 0,4 % kwoty przekazanych do otwartych funduszy emerytalnych składek na to ubezpieczenie, z tym że wysokość należności ustala się corocznie w ustawie budżetowej;
 - **4)** wpływów z tytułu wykonywania innych zadań zlecanych Zakładowi;
@@ -2835,11 +2832,7 @@ Art. 99–106. (pominięte)
 
 3. Zakład dysponuje środkami finansowymi w walutach obcych pochodzących z wpłat instytucji zagranicznych przekazywanych na pokrycie wypłat świadczeń zagranicznych osobom uprawnionym zamieszkałym w Polsce.
 
-4. Zakład zwraca osobom wezwanym do osobistego stawiennictwa w sprawach świadczeń z ubezpieczeń społecznych i innych świadczeń wypłacanych przez Zakład poniesione koszty przejazdu. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, rodzaje i wysokość kosztów podlegających zwrotowi oraz warunki dokonywania ich zwrotu, uwzględniając uzasadniony interes osób wezwanych oraz możliwości finansowe Zakładu.
-
-5. W sprawach świadczeń z ubezpieczeń społecznych Zakład ma prawo do nieodpłatnego korzystania z dokumentacji medycznej zakładów opieki zdrowotnej.
-
-5. (uchylony)
+4. Zakład zwraca osobom wezwanym do osobistego stawiennictwa w sprawach świadczeń z ubezpieczeń społecznych i innych świadczeń wypłacanych przez Zakład poniesione koszty przejazdu. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, rodzaje i wysokość kosztów podlegających zwrotowi oraz warunki dokonywania ich zwrotu, uwzględniając uzasadniony interes osób wezwanych oraz możliwości finansowe Zakładu. [5. W sprawach świadczeń z ubezpieczeń społecznych Zakład ma prawo do nieodpłatnego korzystania z dokumentacji medycznej zakładów opieki zdrowotnej.]
 
 **Art. 77a.**
 
@@ -2847,8 +2840,8 @@ Art. 99–106. (pominięte)
 
 2. Należności cywilnoprawne mogą być z urzędu umarzane w całości, jeżeli:
 
-- **1)** osoba fizyczna zmarła, nie pozostawiając żadnego majątku, pozostawiła majątek niepodlegający egzekucji na podstawie odrębnych przepisów albo pozostawiła przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty 6000 zł;
-- **2)** osoba prawna została wykreślona z właściwego rejestru osób prawnych przy jednoczesnym braku majątku, z którego można by egzekwować należność, a odpowiedzialność z tytułu należności nie przechodzi z mocy prawa na osoby trzecie;
+- **1)** osoba fizyczna – zmarła, nie pozostawiając żadnego majątku, pozostawiła majątek niepodlegający egzekucji na podstawie odrębnych przepisów albo pozostawiła przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty 6000 zł;
+- **2)** osoba prawna – została wykreślona z właściwego rejestru osób prawnych przy jednoczesnym braku majątku, z którego można by egzekwować należność, a odpowiedzialność z tytułu należności nie przechodzi z mocy prawa na osoby trzecie;
 - **3)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty wyższej od kosztów dochodzenia i egzekucji należności cywilnoprawnej lub postępowanie egzekucyjne okazało się nieskuteczne;
 - **4)** jednostka organizacyjna nieposiadająca osobowości prawnej uległa likwidacji;
 - **5)** zachodzi interes publiczny.
@@ -2857,8 +2850,8 @@ Art. 99–106. (pominięte)
 
 4. Na wniosek dłużnika, w przypadkach uzasadnionych:
 
-- **1)** ważnym interesem dłużnika lub interesem publicznym należności cywilnoprawne mogą być umarzane w całości;
-- **2)** względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi dłużnika należności cywilnoprawne mogą być umarzane w części, termin spłaty całości albo części należności może zostać odroczony lub płatność całości albo części należności może zostać rozłożona na raty.
+- **1)** ważnym interesem dłużnika lub interesem publicznym – należności cywilnoprawne mogą być umarzane w całości;
+- **2)** względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi dłużnika – należności cywilnoprawne mogą być umarzane w części, termin spłaty całości albo części należności może zostać odroczony lub płatność całości albo części należności może zostać rozłożona na raty.
 
 5. Umorzenie należności cywilnoprawnych, odroczenie terminu spłaty całości lub części należności albo rozłożenie płatności całości lub części należności na raty następuje w formie pisemnej, na podstawie przepisów prawa cywilnego.
 
@@ -2959,7 +2952,7 @@ Art. 99–106. (pominięte)
 
 **Art. 83d.**
 
-1. Zakład wydaje interpretacje indywidualne, o których mowa w art. 34 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, w zakresie obowiązku podlegania ubezpieczeniom społecznym, zasad obliczania składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych oraz podstawy wymiaru tych składek. Interpretacje indywidualne wraz z wnioskiem o wydanie interpretacji, po usunięciu danych identyfikujących wnioskodawcę oraz inne podmioty wskazane w treści interpretacji, Zakład niezwłocznie zamieszcza w Biuletynie Informacji Publicznej.
+1. Zakład wydaje interpretacje indywidualne, o których mowa w art. 34 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, w zakresie obowiązku podlegania ubezpieczeniom społecznym, zasad obliczania składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych oraz podstawy wymiaru tych składek. Interpretacje indywidualne wraz z wnioskiem o wydanie interpretacji, po usunięciu danych identyfikujących wnioskodawcę oraz inne podmioty wskazane w treści interpretacji, Zakład niezwłocznie zamieszcza w Biuletynie Informacji Publicznej.
 
 2. Nie wydaje się interpretacji indywidualnych w zakresie tych elementów stanu faktycznego, które w dniu złożenia wniosku o interpretację są przedmiotem toczącego się postępowania wyjaśniającego lub kontroli albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji Zakładu.
 
@@ -2994,7 +2987,7 @@ Art. 99–106. (pominięte)
 
 **Art. 83g.**
 
-- **92)** 1. Zaświadczenia, decyzje oraz inne pisma w sprawie wydania zaświadczeń, o których mowa w art. 302 § 11–13 Kodeksu pracy, Zakład sporządza i doręcza wnioskodawcy w postaci elektronicznej na profilu informacyjnym udostępnionym przez Zakład.
+1. Zaświadczenia, decyzje oraz inne pisma w sprawie wydania zaświadczeń, o których mowa w art. 302 § 11–13 Kodeksu pracy, Zakład sporządza i doręcza wnioskodawcy w postaci elektronicznej na profilu informacyjnym udostępnionym przez Zakład.
 
 2. Do zaświadczeń, decyzji oraz innych pism, o których mowa w ust. 1, stosuje się odpowiednio art. 83f ust. 1.
 
@@ -3014,9 +3007,9 @@ Art. 99–106. (pominięte)
 - **2)** świadczenia przyznane lub wypłacone na podstawie nieprawdziwych zeznań lub fałszywych dokumentów albo w innych przypadkach świadomego wprowadzania w błąd organu wypłacającego świadczenia przez osobę pobierającą świadczenia;
 - **3)** świadczenia z tytułu niezdolności do pracy spowodowanej chorobą z ubezpieczenia chorobowego lub wypadkowego, co do których stwierdzono, że w okresie ich pobierania świadczeniobiorca wykonywał w okresie orzeczonej niezdolności do pracy pracę zarobkową lub wykorzystywał zwolnienie od pracy w sposób niezgodny z celem tego zwolnienia.
 
-3. Nie można żądać zwrotu kwot nienależnie pobranych świadczeń z ubezpieczeń społecznych za okres dłuższy niż ostatnie 12 miesięcy, jeżeli osoba pobierająca świadczenia zawiadomiła organ wypłacający świadczenia o zajściu okoliczności powodujących ustanie prawa do świadczeń albo wstrzymanie ich wypłaty, a mimo to świadczenia były nadal wypłacane, a w pozostałych przypadkach za okres dłuższy niż ostatnie 3 lata.
+3. Nie można żądać zwrotu kwot nienależnie pobranych świadczeń z ubezpieczeń społecznych za okres dłuższy niż ostatnie 12 miesięcy, jeżeli osoba pobierająca świadczenia zawiadomiła organ wypłacający świadczenia o zajściu okoliczności powodujących ustanie prawa do świadczeń albo wstrzymanie ich wypłaty, a mimo to świadczenia były nadal wypłacane, a w pozostałych przypadkach – za okres dłuższy niż ostatnie 3 lata.
 
-4. Kwoty nienależnie pobranych świadczeń ustalone prawomocną decyzją oraz kwoty odsetek i kosztów upomnienia, zwane dalej „należnościami z tytułu nienależnie pobranych świadczeń”, podlegają potrąceniu z wypłacanych świadczeń, a jeżeli prawo do świadczeń nie istnieje ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji lub egzekucji sądowej, z zastrzeżeniem ust. 8c.
+4. Kwoty nienależnie pobranych świadczeń ustalone prawomocną decyzją oraz kwoty odsetek i kosztów upomnienia, zwane dalej „należnościami z tytułu nienależnie pobranych świadczeń”, podlegają potrąceniu z wypłacanych świadczeń, a jeżeli prawo do świadczeń nie istnieje – ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji lub egzekucji sądowej, z zastrzeżeniem ust. 8c.
 
 4a. Nienależnie pobrane świadczenia mogą być zabezpieczane hipoteką przymusową i ustawowym prawem zastawu, z wyjątkiem przypadku, gdy podlegają potrąceniu z bieżąco wypłacanych świadczeń. Przepisy art. 26 i 27 stosuje się odpowiednio.
 
@@ -3051,7 +3044,7 @@ Art. 99–106. (pominięte)
 
 **Art. 85.**
 
-1. Jeżeli Zakład w terminach przewidzianych w przepisach określających zasady przyznawania i wypłacania świadczeń pieniężnych z ubezpieczeń społecznych lub świadczeń zleconych do wypłaty na mocy odrębnych przepisów albo umów międzynarodowych nie ustalił prawa do świadczenia lub nie wypłacił tego świadczenia, jest obowiązany do wypłaty odsetek od tego świadczenia w wysokości odsetek ustawowych za opóźnienie określonych przepisami prawa cywilnego. Nie dotyczy to przypadku, gdy opóźnienie w przyznaniu lub wypłaceniu świadczenia jest następstwem okoliczności, za które Zakład nie ponosi odpowiedzialności.
+1. Jeżeli Zakład – w terminach przewidzianych w przepisach określających zasady przyznawania i wypłacania świadczeń pieniężnych z ubezpieczeń społecznych lub świadczeń zleconych do wypłaty na mocy odrębnych przepisów albo umów międzynarodowych – nie ustalił prawa do świadczenia lub nie wypłacił tego świadczenia, jest obowiązany do wypłaty odsetek od tego świadczenia w wysokości odsetek ustawowych za opóźnienie określonych przepisami prawa cywilnego. Nie dotyczy to przypadku, gdy opóźnienie w przyznaniu lub wypłaceniu świadczenia jest następstwem okoliczności, za które Zakład nie ponosi odpowiedzialności.
 
 1a. Do odsetek, o których mowa w ust. 1, nie stosuje się przepisów o finansach publicznych.
 
@@ -3061,36 +3054,7 @@ Art. 99–106. (pominięte)
 
 #### Rozdział 9a Orzekanie dla celów świadczeń, zasady i tryb wydawania orzeczeń
 
-**Art. 85a.**
-
-1. Zadania, o których mowa w art. 68 ust. 1 pkt 5, są realizowane w terenowych jednostkach organizacyjnych Zakładu przez lekarzy orzeczników oraz przez osoby wykonujące samodzielny zawód medyczny.
-
-2. Fizjoterapeuta może wydawać orzeczenia w sprawach rehabilitacji leczniczej w ramach prewencji rentowej, o której mowa w art. 69 ust. 1 pkt 1, a pielęgniarka lub pielęgniarz w sprawach niezdolności do samodzielnej egzystencji, o której mowa w art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-
-3. Naczelnym Lekarzem Zakładu oraz zastępcą Naczelnego Lekarza Zakładu może być osoba posiadająca:
-
-- **1)** prawo wykonywania zawodu lekarza;
-- **2)** tytuł specjalisty w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim;
-- **3)** co najmniej trzyletnie doświadczenie w pracy w orzecznictwie lekarskim.
-
-4. Głównym lekarzem orzecznikiem, zastępcą głównego lekarza orzecznika oraz lekarzem inspektorem nadzoru orzecznictwa lekarskiego może być osoba posiadająca:
-
-- **1)** prawo wykonywania zawodu lekarza;
-- **2)** tytuł specjalisty w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim;
-- **3)** co najmniej dziesięcioletni okres wykonywania zawodu lekarza w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim.
-
-5. Lekarzem orzecznikiem może być osoba:
-
-- **1)** posiadająca prawo wykonywania zawodu lekarza;
-- **2)** posiadająca tytuł specjalisty, albo
-- **3)** odbywająca szkolenie specjalizacyjne w określonej dziedzinie medycyny, która ukończyła moduł podstawowy właściwy dla danego szkolenia specjalizacyjnego lub trzeci rok tego szkolenia w przypadku specjalizacji, dla których przewidziany został moduł jednolity szkolenia, albo
-- **4)** posiadająca co najmniej pięcioletni okres wykonywania zawodu lekarza z wyłączeniem okresów wykonywania zawodu w celu odbycia stażu podyplomowego, wykonywania zawodu na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu na podstawie prawa wykonywania zawodu na określony zakres czynności zawodowych, okres i miejsce zatrudnienia w podmiocie leczniczym.
-
-6. Osobą wykonującą samodzielny zawód medyczny może być osoba posiadająca:
-
-- **1)** prawo wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty;
-- **2)** tytuł specjalisty w dziedzinie pielęgniarstwa albo fizjoterapii;
-- **3)** co najmniej pięcioletni okres wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty, z wyłączeniem okresu wykonywania zawodu pielęgniarki albo pielęgniarza na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu przyznanego na określony zakres czynności zawodowych, okres i miejsce zatrudnienia w podmiocie wykonującym działalność leczniczą.
+**Art. 85a.** <1. Zadania, o których mowa w art. 68 ust. 1 pkt 5, są realizowane w terenowych jednostkach organizacyjnych Zakładu przez lekarzy orzeczników oraz przez osoby wykonujące samodzielny zawód medyczny.> 2. Fizjoterapeuta może wydawać orzeczenia w sprawach rehabilitacji leczniczej w ramach prewencji rentowej, o której mowa w art. 69 ust. 1 pkt 1, a pielęgniarka lub pielęgniarz w sprawach niezdolności do samodzielnej egzystencji, o której mowa w art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 3. Naczelnym Lekarzem Zakładu oraz zastępcą Naczelnego Lekarza Zakładu może być osoba posiadająca:
 
 **Art. 85b.**
 
@@ -3102,18 +3066,14 @@ Art. 99–106. (pominięte)
 
 4. Wynagrodzenie zasadnicze, o którym mowa w ust. 3, ustala się proporcjonalnie do wymiaru czasu pracy.
 
-5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, mnożniki do ustalenia wynagrodzenia zasadniczego, o którym mowa w ust. 3, mając na względzie charakter pracy osób, o których mowa w ust. 1 i 2, potrzebę zapewnienia odpowiedniego poziomu realizacji zadań przez Zakład oraz konieczność zapewnienia warunków obsady kadrowej orzecznictwa lekarskiego w Zakładzie.
-
-**Art. 85c.**
-
-- **94)** 1. Osoba zainteresowana jest kierowana na badania przeprowadzane przez lekarza orzecznika, osobę wykonującą samodzielny zawód medyczny, lekarza konsultanta lub psychologa, na badania dodatkowe lub na obserwację szpitalną w terminie wyznaczonym przez Zakład.
+5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, mnożniki do ustalenia wynagrodzenia zasadniczego, o którym mowa w ust. 3, mając na względzie charakter pracy osób, o których mowa w ust. 1 i 2, potrzebę zapewnienia odpowiedniego poziomu realizacji zadań przez Zakład oraz konieczność zapewnienia warunków obsady kadrowej orzecznictwa lekarskiego w Zakładzie. <Art. 85c. 1. Osoba zainteresowana jest kierowana na badania przeprowadzane przez lekarza orzecznika, osobę wykonującą samodzielny zawód medyczny, lekarza konsultanta lub psychologa, na badania dodatkowe lub na obserwację szpitalną w terminie wyznaczonym przez Zakład.
 
 2. Zakład zawiadamia osobę zainteresowaną o terminie badania, badania dodatkowego lub obserwacji szpitalnej za potwierdzeniem odbioru i informuje o skutkach niestawiennictwa lub uniemożliwienia przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej.
 
 3. Zawiadomienie, o którym mowa w ust. 2, Zakład doręcza:
 
-- **1)** w sposób wskazany w art. 71ab ust. 1 i 1a w przypadku osoby zainteresowanej posiadającej jednocześnie profil informacyjny w systemie teleinformatycznym Zakładu oraz adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych albo
-- **2)** przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), albo
+- **1)** w sposób wskazany w art. 71ab ust. 1 i 1a – w przypadku osoby zainteresowanej posiadającej jednocześnie profil informacyjny w systemie teleinformatycznym Zakładu oraz adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych albo
+- **2)** przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), albo
 - **3)** przez pracowników Zakładu lub przez inne upoważnione osoby.
 
 4. Zawiadomienie, o którym mowa w:
@@ -3124,18 +3084,14 @@ Art. 99–106. (pominięte)
 
 5. Zawiadomienie przekazane:
 
-- **1)** telefonicznie ma skutek doręczenia, jeżeli rozmowa była rejestrowana, a osoba zainteresowana wyraziła zgodę na nagranie;
-- **2)** za pomocą środków komunikacji elektronicznej ma skutek doręczenia, jeżeli doręczający otrzymał potwierdzenie jego otrzymania przez osobę zainteresowaną.
+- **1)** telefonicznie – ma skutek doręczenia, jeżeli rozmowa była rejestrowana, a osoba zainteresowana wyraziła zgodę na nagranie;
+- **2)** za pomocą środków komunikacji elektronicznej – ma skutek doręczenia, jeżeli doręczający otrzymał potwierdzenie jego otrzymania przez osobę zainteresowaną.
 
 6. Jeżeli stan zdrowia stwierdzony w zaświadczeniu lekarskim wydanym przez lekarza, pod którego opieką lekarską znajduje się osoba zainteresowana, wystawione niewcześniej niż na miesiąc przed datą złożenia wniosku o świadczenie, uniemożliwia osobiste zgłoszenie się na badanie, może ono być przeprowadzone w miejscu pobytu osoby zainteresowanej, za jej zgodą.
 
 7. W przypadku gdy osoba zainteresowana w terminie 7 dni od dnia wyznaczonego terminu badania, badania dodatkowego lub obserwacji szpitalnej albo ustania przyczyny niestawiennictwa lub uniemożliwienia przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej złoży wniosek, w którym uprawdopodobni, że niestawiennictwo lub uniemożliwienie przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej nastąpiło bez jej winy, Zakład wyznacza nowy termin badania, badania dodatkowego lub obserwacji szpitalnej.
 
-8. W przypadku niezłożenia wniosku, o którym mowa w ust. 7, albo złożenia go po terminie, o którym mowa w ust. 7, Zakład umarza postępowanie w sprawie albo wstrzymuje wypłatę świadczenia.
-
-**Art. 85d.**
-
-- **94)** 1. W ramach realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, lekarze orzecznicy oraz osoby wykonujące samodzielny zawód medyczny wydają orzeczenia.
+8. W przypadku niezłożenia wniosku, o którym mowa w ust. 7, albo złożenia go po terminie, o którym mowa w ust. 7, Zakład umarza postępowanie w sprawie albo wstrzymuje wypłatę świadczenia.> <Art. 85d. 1. W ramach realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, lekarze orzecznicy oraz osoby wykonujące samodzielny zawód medyczny wydają orzeczenia.
 
 2. Lekarz orzecznik przy orzekaniu jest związany:
 
@@ -3145,21 +3101,18 @@ Art. 99–106. (pominięte)
 3. Orzeczenie jest wydawane:
 
 - **1)** po przeprowadzeniu bezpośredniego badania osoby zainteresowanej oraz po analizie dokumentacji dołączonej do wniosku lub uzupełnionej w prowadzonym postępowaniu albo
-- **2)** na podstawie dokumentacji dołączonej do wniosku lub uzupełnionej w prowadzonym postępowaniu jeżeli umożliwia ona dokonanie prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie.
+- **2)** na podstawie dokumentacji dołączonej do wniosku lub uzupełnionej w prowadzonym postępowaniu – jeżeli umożliwia ona dokonanie prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie.
 
 4. Przed wydaniem orzeczenia dokumentacja dołączona do wniosku może zostać uzupełniona, w szczególności o dokumentację medyczną z przebiegu leczenia i rehabilitacji, opinię lekarza konsultanta lub psychologa, wyniki badań dodatkowych lub obserwacji szpitalnej.
 
 5. Lekarz konsultant i psycholog wydają opinie po przeprowadzeniu bezpośredniego badania osoby zainteresowanej oraz po analizie dokumentacji medycznej lub zawodowej.
 
-6. Badanie, o którym mowa w ust. 3 pkt 1 i ust. 5, może być przeprowadzone z wykorzystaniem systemów teleinformatycznych lub systemów łączności, jeżeli ten sposób badania umożliwi dokonanie prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie.
+6. Badanie, o którym mowa w ust. 3 pkt 1 i ust. 5, może być przeprowadzone z wykorzystaniem systemów teleinformatycznych lub systemów łączności, jeżeli ten sposób badania umożliwi dokonanie prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie.> <Art. 85e. 1. Orzeczenia, o których mowa w art. 85d ust. 1, zawierają:
 
-**Art. 85e.**
-
-- **94)** 1. Orzeczenia, o których mowa w art. 85d ust. 1, zawierają:
 - **1)** datę wydania;
 - **2)** oznaczenie terenowej jednostki organizacyjnej, w której zostało wydane orzeczenie;
 - **3)** identyfikator orzeczenia, nadawany przez system teleinformatyczny Zakładu;
-- **4)** imię i nazwisko, numer PESEL osoby zainteresowanej, a w razie gdy nie nadano numeru PESEL datę urodzenia, rodzaj, serię i numer dokumentu tożsamości;
+- **4)** imię i nazwisko, numer PESEL osoby zainteresowanej, a w razie gdy nie nadano numeru PESEL – datę urodzenia, rodzaj, serię i numer dokumentu tożsamości;
 - **5)** ustalenia orzecznicze odnoszące się do celu wydania orzeczenia, wskazanego we wniosku o jego wydanie;
 - **6)** uzasadnienie;
 - **7)** pouczenie o prawie do wniesienia sprzeciwu albo braku tego prawa;
@@ -3192,15 +3145,11 @@ Art. 99–106. (pominięte)
 
 13. Wydruk orzeczenia zawiera informację, że orzeczenie zostało wydane w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego Zakładu i opatrzone kwalifikowanym podpisem elektronicznym, kwalifikowaną pieczęcią elektroniczną, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład.
 
-14. Wydruk orzeczenia stanowi dowód tego, co zostało stwierdzone w orzeczeniu wydanym w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego Zakładu.
-
-**Art. 85f.**
-
-- **94)** 1. Od orzeczenia osobie zainteresowanej przysługuje sprzeciw, w terminie 14 dni od dnia doręczenia tego orzeczenia, z wyłączeniem orzeczeń wydawanych w postępowaniach, o których mowa w art. 59 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+14. Wydruk orzeczenia stanowi dowód tego, co zostało stwierdzone w orzeczeniu wydanym w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego Zakładu.> <Art. 85f. 1. Od orzeczenia osobie zainteresowanej przysługuje sprzeciw, w terminie 14 dni od dnia doręczenia tego orzeczenia, z wyłączeniem orzeczeń wydawanych w postępowaniach, o których mowa w art. 59 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 
 2. Sprzeciw, o którym mowa w ust. 1, wnosi się do Zakładu.
 
-3. Zakład nie rozpatruje sprzeciwu wniesionego po terminie, o którym mowa w ust. 1. W uzasadnionych przypadkach Zakład, na wniosek osoby zainteresowanej, może przywrócić termin na złożenie sprzeciwu, w szczególności w razie odrzucenia przez sąd odwołania od decyzji w przypadku określonym w art. 477 § 3 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ).
+3. Zakład nie rozpatruje sprzeciwu wniesionego po terminie, o którym mowa w ust. 1. W uzasadnionych przypadkach Zakład, na wniosek osoby zainteresowanej, może przywrócić termin na złożenie sprzeciwu, w szczególności w razie odrzucenia przez sąd odwołania od decyzji w przypadku określonym w art. 477 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ).
 
 4. Główny lekarz orzecznik albo zastępca głównego lekarza orzecznika, w terminie 14 dni od dnia wydania orzeczenia, może zgłosić zarzut wadliwości orzeczenia i przekazać sprawę do ponownego rozpatrzenia, z wyłączeniem orzeczeń wydawanych w postępowaniach, o których mowa w art. 59 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. O zgłoszeniu zarzutu wadliwości orzeczenia Zakład niezwłocznie zawiadamia osobę zainteresowaną lub podmiot uprawniony do otrzymania orzeczenia w przypadkach przewidzianych przepisami innych ustaw.
 
@@ -3212,7 +3161,7 @@ Art. 99–106. (pominięte)
 
 - **1)** posiadaną przez lekarza specjalizację;
 - **2)** potrzebę dokonania prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie;
-- **3)** konieczność skierowania sprawy do innego lekarza orzecznika niż wydający orzeczenie w przypadku gdy sprzeciw lub zarzut wadliwości dotyczy orzeczenia wydanego przez lekarza orzecznika.
+- **3)** konieczność skierowania sprawy do innego lekarza orzecznika niż wydający orzeczenie – w przypadku gdy sprzeciw lub zarzut wadliwości dotyczy orzeczenia wydanego przez lekarza orzecznika.
 
 8. W przypadku, o którym mowa w ust. 5, w sprawach szczególnie skomplikowanych główny lekarz orzecznik albo zastępca głównego lekarza orzecznika może skierować sprawę do ponownego rozpatrzenia przez trzech lekarzy orzeczników orzekających łącznie. Przepisy ust. 6 i 7 stosuje się odpowiednio.
 
@@ -3220,21 +3169,13 @@ Art. 99–106. (pominięte)
 
 10. Do orzeczeń wydawanych w wyniku ponownego rozpatrzenia sprawy stosuje się odpowiednio art. 85c–85e.
 
-11. Orzeczenie, wobec którego nie wniesiono sprzeciwu lub co do którego nie zgłoszono zarzutu wadliwości, albo orzeczenie wydane w wyniku ponownego rozpatrzenia sprawy stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw.
-
-**Art. 85g.**
-
-- **94)** 1. Jeżeli w wyniku kontroli, o której mowa w art. 85h ust. 3 pkt 1, zostanie stwierdzony brak zgodności orzeczenia ze stanem faktycznym, z zasadami orzekania, z zebranymi dokumentami lub z przepisami dotyczącymi orzekania dla celów ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu, realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także z przepisami dotyczącymi kontroli orzecznictwa o czasowej niezdolności do pracy, Prezes Zakładu uchyla orzeczenie i przekazuje sprawę do ponownego rozpatrzenia przez lekarza orzecznika.
+11. Orzeczenie, wobec którego nie wniesiono sprzeciwu lub co do którego nie zgłoszono zarzutu wadliwości, albo orzeczenie wydane w wyniku ponownego rozpatrzenia sprawy stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw.> <Art. 85g. 1. Jeżeli w wyniku kontroli, o której mowa w art. 85h ust. 3 pkt 1, zostanie stwierdzony brak zgodności orzeczenia ze stanem faktycznym, z zasadami orzekania, z zebranymi dokumentami lub z przepisami dotyczącymi orzekania dla celów ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu, realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także z przepisami dotyczącymi kontroli orzecznictwa o czasowej niezdolności do pracy, Prezes Zakładu uchyla orzeczenie i przekazuje sprawę do ponownego rozpatrzenia przez lekarza orzecznika.
 
 2. Do orzeczeń wydawanych w wyniku ponownego rozpatrzenia sprawy w przypadkach, o których mowa w ust. 1, stosuje się odpowiednio art. 85c–85e oraz art. 85f ust. 5–7.
 
 3. O uchyleniu orzeczenia poddanego kontroli lub o wydaniu orzeczenia w wyniku ponownego rozpatrzenia sprawy w przypadkach, o których mowa w ust. 1, Zakład informuje osobę zainteresowaną oraz podmiot uprawniony do otrzymania orzeczenia w przypadkach przewidzianych przepisami innych ustaw.
 
-4. Od orzeczenia wydanego przez lekarza orzecznika w wyniku ponownego rozpatrzenia sprawy, w przypadkach, o których mowa w ust. 1, nie przysługuje sprzeciw, o którym mowa w art. 85f ust. 1, oraz zarzut wadliwości, o którym mowa w art. 85f ust. 4. Orzeczenie to stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw.
-
-**Art. 85h.**
-
-- **94)** 1. Zwierzchni nadzór, o którym mowa w art. 73 ust. 3 pkt 5, nad wydawaniem orzeczeń dla celów, o których mowa w art. 68 ust. 1 pkt 5, w imieniu Prezesa Zakładu sprawuje Naczelny Lekarz Zakładu.
+4. Od orzeczenia wydanego przez lekarza orzecznika w wyniku ponownego rozpatrzenia sprawy, w przypadkach, o których mowa w ust. 1, nie przysługuje sprzeciw, o którym mowa w art. 85f ust. 1, oraz zarzut wadliwości, o którym mowa w art. 85f ust. 4. Orzeczenie to stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw.> <Art. 85h. 1. Zwierzchni nadzór, o którym mowa w art. 73 ust. 3 pkt 5, nad wydawaniem orzeczeń dla celów, o których mowa w art. 68 ust. 1 pkt 5, w imieniu Prezesa Zakładu sprawuje Naczelny Lekarz Zakładu.
 
 2. Zwierzchni nadzór Naczelny Lekarz Zakładu realizuje przy pomocy zastępcy Naczelnego Lekarza Zakładu oraz lekarzy inspektorów nadzoru orzecznictwa lekarskiego.
 
@@ -3245,19 +3186,12 @@ Art. 99–106. (pominięte)
 - **3)** określanie dobrych praktyk orzeczniczych dla lekarzy orzeczników i osób wykonujących samodzielny zawód medyczny;
 - **4)** prawo zlecenia uzupełnienia dokumentacji zgromadzonej w postępowaniu związanym z wydaniem orzeczenia o dokumentację medyczną z przebiegu leczenia lub rehabilitacji, o opinie specjalistyczne wydawane przez konsultantów Zakładu, o wyniki badań dodatkowych lub obserwacji szpitalnej, w wyniku kontroli, o której mowa w pkt 1.
 
-4. Dobre praktyki orzecznicze, o których mowa w ust. 3 pkt 3, Prezes Zakładu ogłasza w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).
+4. Dobre praktyki orzecznicze, o których mowa w ust. 3 pkt 3, Prezes Zakładu ogłasza w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).> <Art. 85i. 1. W celu realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, podmioty udzielające świadczeń zdrowotnych są obowiązane do nieodpłatnego udostępniania Zakładowi dokumentacji medycznej:
 
-**Art. 85i.**
+- **1)** w postaci papierowej – przez sporządzenie jej wyciągu, odpisu, kopii lub wydruku – poświadczonych za zgodność z oryginałem;
+- **2)** w postaci elektronicznej – za pośrednictwem środków komunikacji elektronicznej albo na informatycznym nośniku danych.
 
-- **94)** 1. W celu realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, podmioty udzielające świadczeń zdrowotnych są obowiązane do nieodpłatnego udostępniania Zakładowi dokumentacji medycznej:
-- **1)** w postaci papierowej przez sporządzenie jej wyciągu, odpisu, kopii lub wydruku poświadczonych za zgodność z oryginałem;
-- **2)** w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej albo na informatycznym nośniku danych.
-
-2. Podmiot udzielający świadczeń zdrowotnych udostępnia niezwłocznie dokumentację medyczną, o której mowa w ust. 1, niepóźniej niż w terminie 14 dni od dnia otrzymania wniosku o jej udostępnienie.
-
-**Art. 85j.**
-
-- **94)** 1. Zadania związane z wydawaniem orzeczeń oraz kontrolą orzecznictwa o czasowej niezdolności do pracy, o których mowa w art. 68 ust. 1 pkt 5, mogą być realizowane przy wsparciu osób upoważnionych, wykonujących czynności pomocnicze w postępowaniu związanym z wydaniem orzeczenia.
+2. Podmiot udzielający świadczeń zdrowotnych udostępnia niezwłocznie dokumentację medyczną, o której mowa w ust. 1, niepóźniej niż w terminie 14 dni od dnia otrzymania wniosku o jej udostępnienie.> <Art. 85j. 1. Zadania związane z wydawaniem orzeczeń oraz kontrolą orzecznictwa o czasowej niezdolności do pracy, o których mowa w art. 68 ust. 1 pkt 5, mogą być realizowane przy wsparciu osób upoważnionych, wykonujących czynności pomocnicze w postępowaniu związanym z wydaniem orzeczenia.
 
 2. Osoby upoważnione, o których mowa w ust. 1:
 
@@ -3266,7 +3200,7 @@ Art. 99–106. (pominięte)
 
 3. Obowiązek zachowania poufności przez osoby upoważnione, o których mowa w ust. 1, obowiązuje również po śmierci osoby, wobec której zostało wydane orzeczenie.
 
-4. Osoby upoważnione, o których mowa w ust. 1, dopuszcza się do przetwarzania danych osobowych zawartych w dokumentacji związanej z wydaniem orzeczenia, na podstawie pisemnego upoważnienia udzielonego przez Zakład, po odbyciu przez te osoby przeszkolenia w zakresie ochrony danych osobowych organizowanego przez Zakład oraz po złożeniu pisemnego zobowiązania do zachowania w poufności przetwarzanych danych osobowych.
+4. Osoby upoważnione, o których mowa w ust. 1, dopuszcza się do przetwarzania danych osobowych zawartych w dokumentacji związanej z wydaniem orzeczenia, na podstawie pisemnego upoważnienia udzielonego przez Zakład, po odbyciu przez te osoby przeszkolenia w zakresie ochrony danych osobowych organizowanego przez Zakład oraz po złożeniu pisemnego zobowiązania do zachowania w poufności przetwarzanych danych osobowych.>
 
 #### Rozdział 10 Kontrola wykonywania zadań z zakresu ubezpieczeń społecznych
 
@@ -3390,7 +3324,7 @@ Art. 99–106. (pominięte)
 
 2. Inspektor kontroli Zakładu jest obowiązany zachować w tajemnicy informacje, które uzyskał w związku z wykonywaniem obowiązków służbowych. Obowiązek zachowania tajemnicy trwa również po ustaniu zatrudnienia na stanowisku inspektora kontroli Zakładu.
 
-**Art. 92a.** Do kontroli płatnika składek będącego przedsiębiorcą stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 92a.** Do kontroli płatnika składek będącego przedsiębiorcą stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 93.**
 
@@ -3479,7 +3413,7 @@ Art. 99–106. (pominięte)
 5. Ilekroć w przepisach dotyczących zakładowego funduszu świadczeń socjalnych jest mowa o „przeciętnym wynagrodzeniu miesięcznym w gospodarce narodowej w roku poprzednim lub w drugim półroczu roku poprzedniego” lub „planowanych rocznych środkach przeznaczonych na wynagrodzenia osobowe” oznacza to:
 
 - **1)** przeciętne wynagrodzenie miesięczne w gospodarce narodowej w roku poprzednim lub drugim półroczu roku poprzedniego,
-- **2)** planowane roczne środki przeznaczone na wynagrodzenia osobowe pomniejszone o potrącone od ubezpieczonych składki na ubezpieczenia emerytalne, rentowe oraz chorobowe.
+- **2)** planowane roczne środki przeznaczone na wynagrodzenia osobowe – pomniejszone o potrącone od ubezpieczonych składki na ubezpieczenia emerytalne, rentowe oraz chorobowe.
 
 **Art. 111.**
 
@@ -3487,7 +3421,7 @@ Art. 99–106. (pominięte)
 
 2. Ubezpieczeni, o których mowa w ust. 1, są zobowiązani do zawarcia umowy z otwartym funduszem emerytalnym w terminie do dnia 30 września 1999 r. Przepis art. 39 ust. 2 stosuje się odpowiednio.
 
-3. Ubezpieczeni urodzeni po dniu 31 grudnia 1948 r., a przed dniem 1 stycznia 1969 r., z wyjątkiem osób pobierających emeryturę, mogą na swój wniosek przystąpić poprzez zawarcie umowy do wybranego otwartego funduszu emerytalnego.
+3. Ubezpieczeni urodzeni po dniu 31 grudnia 1948 r., a przed dniem 1 stycznia 1969 r., z wyjątkiem osób pobierających emeryturę, mogą na swój wniosek przystąpić – poprzez zawarcie umowy – do wybranego otwartego funduszu emerytalnego.
 
 4. Ubezpieczeni, o których mowa w ust. 3, mogą zawrzeć umowę z otwartym funduszem emerytalnym w terminie do dnia 31 grudnia 1999 r., z zastrzeżeniem ust. 6.
 
@@ -3525,7 +3459,7 @@ Art. 99–106. (pominięte)
 
 **Art. 112b.**
 
-- **97)** 1. Marynarz zamieszkujący na terytorium Rzeczypospolitej Polskiej może, na swój wniosek, złożony do Zakładu, opłacić składki na ubezpieczenia emerytalne i rentowe za wybrane miesiące w okresie od dnia 1 stycznia 2021 r. do dnia 31 grudnia 2025 r., w których nie podlegał ubezpieczeniom emerytalnemu i rentowym.
+1. Marynarz zamieszkujący na terytorium Rzeczypospolitej Polskiej może, na swój wniosek, złożony do Zakładu, opłacić składki na ubezpieczenia emerytalne i rentowe za wybrane miesiące w okresie od dnia 1 stycznia 2021 r. do dnia 31 grudnia 2025 r., w których nie podlegał ubezpieczeniom emerytalnemu i rentowym.
 
 2. Warunkiem opłacenia składek, o których mowa w ust. 1, jest złożenie wniosku w terminie do dnia 31 grudnia 2027 r. wraz z zaświadczeniem potwierdzającym posiadanie statusu marynarza przez przynajmniej 3 miesiące w każdym roku wskazanym w ust. 1, za który marynarz wnosi o opłacenie składki na ubezpieczenia emerytalne i rentowe.
 
@@ -3624,8 +3558,8 @@ Art. 99–106. (pominięte)
 
 3. Ilekroć przepisy:
 
-- **1)** odsyłają do przepisów o organizacji i finansowaniu ubezpieczeń społecznych, do przepisów o ubezpieczeniach społecznych lub do przepisów o ubezpieczeniach społecznych pracowników należy przez to rozumieć odesłanie do przepisów o systemie ubezpieczeń społecznych;
-- **2)** określają jako organ właściwy oddział Zakładu Ubezpieczeń Społecznych lub Biuro Rent Zagranicznych należy przez to rozumieć jednostkę organizacyjną Zakładu.
+- **1)** odsyłają do przepisów o organizacji i finansowaniu ubezpieczeń społecznych, do przepisów o ubezpieczeniach społecznych lub do przepisów o ubezpieczeniach społecznych pracowników – należy przez to rozumieć odesłanie do przepisów o systemie ubezpieczeń społecznych;
+- **2)** określają jako organ właściwy oddział Zakładu Ubezpieczeń Społecznych lub Biuro Rent Zagranicznych – należy przez to rozumieć jednostkę organizacyjną Zakładu.
 
 **Art. 123.** W sprawach uregulowanych ustawą stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że ustawa stanowi inaczej.
 

@@ -8,9 +8,12 @@ pos: 1839
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 grudnia 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji strategicznych inwestycji sektorze naftowym
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-12-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1839/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji strategicznych inwestycji sektorze naftowym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji sektorze naftowym (Dz. U.
 z 2024 r. poz. 405), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 61, art. 63 i art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), które stanowią: „Art. 61. 1. Do spraw wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że sprawy te toczą się przed organem, który przejął zadania i kompetencje na podstawie niniejszej ustawy.
@@ -118,7 +119,7 @@ Art. 41–46. (pominięte)
 - **2)** ministrów właściwych do spraw: aktywów państwowych, gospodarki morskiej, energii, gospodarki, gospodarki surowcami energetycznymi, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, wewnętrznych i Ministra Obrony Narodowej oraz właściwego dyrektora urzędu morskiego odniesieniu do wznoszenia lub wykorzystywania sztucznych wysp, konstrukcji i urządzeń na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125);
 - **3)** właściwego dyrektora urzędu morskiego oraz ministrów właściwych do spraw: energii, gospodarki, gospodarki surowcami energetycznymi, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej odniesieniu do układania i utrzymywania kabli lub rurociągów na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej; przypadku gdy kable lub rurociągi będą przebiegały również na odcinku lądowym, inwestor występuje także o opinię właściwego wójta, burmistrza albo prezydenta miasta;
 - **4)** właściwego dyrektora urzędu morskiego odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
-- **5)** organu właściwego sprawach terenów zagrożonych osuwaniem się mas ziemnych odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych; gruntów wykorzystywanych na cele rolne i leśne, zgodnie z przepisami ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82) oraz zgodnie z przepisami ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473);
+- **5)** organu właściwego sprawach terenów zagrożonych osuwaniem się mas ziemnych odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych; tów rolnych i leśnych (Dz. U. z 2024 r. poz. 82) oraz zgodnie z przepisami ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473);
 - **7)** właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej odniesieniu do wymagań dotyczących ochrony przeciwpożarowej, szczególności zapewnienia wody do celów przeciwpożarowych i dojazdu dla pojazdów jednostek ochrony przeciwpożarowej oraz wymagań dotyczących lokalizacji inwestycji bezpiecznej odległości od zakładów stwarzających zagrożenie wystąpienia poważnej awarii przemysłowej;
 - **8)** dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, zgodnie z przepisami ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2024 r. poz. 530 i 1473);
 - **9)** właściwego organu nadzoru nad gospodarką leśną odniesieniu do gruntów leśnych innych niż określone pkt 8;
@@ -219,7 +220,7 @@ Art. 41–46. (pominięte)
 
 1. Nieuregulowany stan prawny nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym lub brak danych katastrze nieruchomości pozwalających na ustalenie danych osobowych, szczególności adresu zamieszkania, właściciela lub użytkownika wieczystego nieruchomości, nie stanowi przeszkody do wszczęcia i prowadzenia postępowania o ustalenie lokalizacji strategicznej inwestycji sektorze naftowym oraz wydania i doręczenia decyzji o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym oraz zawiadomienia o jej wydaniu.
 
-2. Przez nieuregulowany stan prawny należy rozumieć także sytuację, kiedy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości nie żyje, a spadkobiercy nie wykazali prawa do spadku. dawcy oraz zawiadamia pozostałe strony o jej wydaniu, drodze obwieszczenia, urzędzie wojewódzkim i urzędach gmin właściwych ze względu na lokalizację tej inwestycji, Biuletynie Informacji Publicznej, na stronach podmiotowych urzędów tych gmin oraz urzędu wojewódzkiego, a także prasie o zasięgu ogólnopolskim. Właścicielom i użytkownikom wieczystym nieruchomości objętych decyzją o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym zawiadomienie o wydaniu decyzji wysyła się na adres określony katastrze nieruchomości. Doręczenie zawiadomienia na adres wskazany katastrze nieruchomości jest skuteczne.
+2. Przez nieuregulowany stan prawny należy rozumieć także sytuację, kiedy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości nie żyje, a spadkobiercy nie wykazali prawa do spadku. właściwych ze względu na lokalizację tej inwestycji, Biuletynie Informacji Publicznej, na stronach podmiotowych urzędów tych gmin oraz urzędu wojewódzkiego, a także prasie o zasięgu ogólnopolskim. Właścicielom i użytkownikom wieczystym nieruchomości objętych decyzją o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym zawiadomienie o wydaniu decyzji wysyła się na adres określony katastrze nieruchomości. Doręczenie zawiadomienia na adres wskazany katastrze nieruchomości jest skuteczne.
 
 1a. Zawiadomienie, o którym mowa ust. 1 zdanie pierwsze, uważa się za dokonane po upływie 14 dni od dnia, którym nastąpiło obwieszczenie urzędzie wojewódzkim.
 
@@ -249,7 +250,7 @@ Art. 41–46. (pominięte)
 
 2. W sprawach określonych niniejszym rozdziale nie mają zastosowania przepisy ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278).
 
-3. Decyzja o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym wiąże właściwe organy przy sporządzaniu planu ogólnego gminy oraz miejscowych planów zagospodarowania przestrzennego. Wojewoda przekazuje niezwłocznie wydane decyzje o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym właściwym wójtom (burmistrzom, prezydentom miasta). zakresie wydawania decyzji o warunkach zabudowy i zagospodarowania terenu, pozwolenia na budowę, decyzji o ustaleniu lokalizacji linii kolejowej oraz decyzji o zezwoleniu na realizację inwestycji drogowej.
+3. Decyzja o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym wiąże właściwe organy przy sporządzaniu planu ogólnego gminy oraz miejscowych planów zagospodarowania przestrzennego. Wojewoda przekazuje niezwłocznie wydane decyzje o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym właściwym wójtom (burmistrzom, prezydentom miasta). leniu lokalizacji linii kolejowej oraz decyzji o zezwoleniu na realizację inwestycji drogowej.
 
 **Art. 12.**
 
@@ -331,7 +332,7 @@ Art. 41–46. (pominięte)
 
 2. Do postępowań, o których mowa ust. 1, przepisy art. 6 ust. 1–2, 5 i 6, art. 7 oraz art. 9 stosuje się odpowiednio.
 
-3. (uchylony) wym następuje zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, z uwzględnieniem przepisów niniejszej ustawy.
+3. (uchylony) ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, z uwzględnieniem przepisów niniejszej ustawy.
 
 2. Organ właściwy do wydania decyzji, o której mowa ust. 1, niezwłocznie zawiadamia organ wyższego stopnia o złożeniu wniosku o wydanie decyzji o środowiskowych uwarunkowaniach oraz o wydaniu takiej decyzji.
 
@@ -442,7 +443,7 @@ Art. 41–46. (pominięte)
 - **3)** nieruchomości określonych wykazie nieruchomości, o którym mowa art. 40 ust. 2 pkt 9 i 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym;
 - **4)** nieruchomości oznaczonych decyzji o zezwoleniu na realizację inwestycji zakresie lotniska użytku publicznego zgodnie z art. 8 ust. 2 ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464).
 
-2. Linie rozgraniczające teren inwestycji ustalone decyzją o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym stanowią linie podziału nieruchomości zakresie, jakim inwestor wystąpił o zatwierdzenie podziału nieruchomości, przedstawiając mapy, o których mowa art. 4 ust. 1 pkt 7. o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym zgodnie z art. 8 ust. 1 pkt 7 stają się z mocy prawa własnością Skarbu Państwa z dniem, którym decyzja o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym stała się ostateczna, za odszkodowaniem.
+2. Linie rozgraniczające teren inwestycji ustalone decyzją o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym stanowią linie podziału nieruchomości zakresie, jakim inwestor wystąpił o zatwierdzenie podziału nieruchomości, przedstawiając mapy, o których mowa art. 4 ust. 1 pkt 7. nością Skarbu Państwa z dniem, którym decyzja o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym stała się ostateczna, za odszkodowaniem.
 
 4. Jeżeli nieruchomości, o których mowa ust. 3 lub 7, lub prawa użytkowania wieczystego tych nieruchomości są obciążone ograniczonymi prawami rzeczowymi, z dniem, którym decyzja o ustaleniu lokalizacji strategicznej inwestycji sektorze naftowym stała się ostateczna, prawa te wygasają za odszkodowaniem.
 
@@ -529,7 +530,7 @@ Art. 41–46. (pominięte)
 - **2)** wstrzymania ruchu kolejowego lub lotniczego;
 - **3)** zamknięcia dróg publicznych, chyba że istnieje możliwość zorganizowania objazdów;
 - **4)** zamknięcia śródlądowych dróg wodnych;
-- **5)** negatywnego wpływu na działanie urządzeń lotniczych. ciwy podmiot, o którym mowa art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne, właściwy zarządca drogi, właściwy zarządca infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym.
+- **5)** negatywnego wpływu na działanie urządzeń lotniczych. właściwy zarządca infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym.
 
 7. Do postępowania sprawie decyzji, o której mowa ust. 3, przepisy art. 3 ust. 4 i art. 5 stosuje się odpowiednio.
 

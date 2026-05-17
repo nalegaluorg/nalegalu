@@ -8,9 +8,12 @@ pos: 1207
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 sierpnia 2024 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 1 sierpnia 2024 sprawie ogłoszenia jednolitego tekstu ustawy dodatku węglowym
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 5 sierpnia 2022 dodatku węglowym (Dz. U. 2023 poz. 1630), uwzględnieniem zmian wprowadzonych ustawą dnia 23 maja 2024 bonie energetycznym oraz zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859) oraz zmian wynikających przepisów ogłoszonych przed dniem 1 sierpnia 2024
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 1 sierpnia 2024 sprawie ogłoszenia jednolitego tekstu ustawy dodatku węglowym*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-08-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001207) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1207/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 5 sierpnia 2022 dodatku węglowym (Dz. U. 2023 poz. 1630), uwzględnieniem zmian wprowadzonych ustawą dnia 23 maja 2024 bonie energetycznym oraz zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859) oraz zmian wynikających przepisów ogłoszonych przed dniem 1 sierpnia 2024
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 34 i art. 43 ustawy dnia 23 maja 2024 bonie energetycznym oraz zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859), które stanowią: „Art. 34. 1. Bank Gospodarstwa Krajowego, celu dostosowania planu finansowego Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 ust. 1 ustawy zmienianej art. 17, do przepisów:
 1) art. 5 ustawy zmienianej art. 20 brzmieniu nadanym niniejszą ustawą,
 2) art. 30 ustawy zmienianej art. 21 brzmieniu nadanym niniejszą ustawą,
@@ -63,7 +65,7 @@ USTAWA dnia 5 sierpnia 2022 dodatku węglowym
 
 5. Dodatek węglowy nie przysługuje osobie gospodarstwie domowym, na potrzeby którego zostało zakupione paliwo stałe, po cenie i od przedsiębiorcy, których mowa art. 2 ust. 1 ustawy dnia 23 czerwca 2022 szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku sytuacją na rynku tych paliw (Dz. U. poz. 1477 i 1692).
 
-5a. Dodatek węglowy nie przysługuje gospodarstwom domowym objętym pozytywnie rozpatrzonym wnioskiem wypłatę dodatku, którym mowa art. 24 ust. 1 ustawy dnia 15 września 2022 szczególnych rozwiązaniach zakresie tylko jednego gospodarstwa domowego.
+5a. Dodatek węglowy nie przysługuje gospodarstwom domowym objętym pozytywnie rozpatrzonym wnioskiem wypłatę dodatku, którym mowa art. 24 ust. 1 ustawy dnia 15 września 2022 szczególnych rozwiązaniach zakresie niektórych źródeł ciepła związku sytuacją na rynku paliw (Dz. U. 2023 poz. 1772, 1693 i 2760 oraz 2024 tylko jednego gospodarstwa domowego.
 
 7. Jeżeli umowy międzynarodowe nie stanowią inaczej, dodatek węglowy przysługuje:
 
@@ -98,7 +100,8 @@ USTAWA dnia 5 sierpnia 2022 dodatku węglowym
 
 - **1)** informacje wynikające deklaracji wysokości opłaty za gospodarowanie odpadami komunalnymi, której mowa art. 6m ustawy dnia 13 września 1996 utrzymaniu czystości i porządku gminach (Dz. U. 2024 poz. 399);
 - **2)** informacje uzyskane związku postępowaniem przyznanie:
-    - **a)** świadczeń rodzinnych oraz dodatków do zasiłku rodzinnego, których mowa odpowiednio art. 2 i art. 8 ustawy dnia 28 listopada 2003 świadczeniach rodzinnych (Dz. U. 2024 poz. 323 i 858), 2024 poz. 953),
+    - **a)** świadczeń rodzinnych oraz dodatków do zasiłku rodzinnego, których mowa odpowiednio art. 2 i art. 8 ustawy dnia 28 listopada 2003 świadczeniach rodzinnych (Dz. U. 2024 poz. 323 i 858),
+    - **b)** świadczenia wychowawczego, którym mowa art. 4 ustawy dnia 11 lutego 2016 pomocy państwa wycho2024 poz. 953),
     - **d)** dodatku mieszkaniowego, którym mowa art. 2 ustawy dnia 21 czerwca 2001 dodatkach mieszkaniowych (Dz. U. 2023 poz. 1335);
 
 - **3)** dane zgromadzone rejestrze PESEL oraz rejestrze mieszkańców, których mowa odpowiednio art. 6 ust. 1 i art. 6a ust. 1 ustawy dnia 24 września 2010 ewidencji ludności (Dz. U. 2024 poz. 736 i 854).
@@ -185,7 +188,7 @@ USTAWA dnia 5 sierpnia 2022 dodatku węglowym
 
 1. Bank Gospodarstwa Krajowego może zaciągać kredyty i emitować obligacje na rynku krajowym i na rynkach zagranicznych, których środki przeznaczone są na utworzenie linii kredytowej dla przedsiębiorców będących przedsiębiorstwami energetycznymi, których działalność jest całości lub przeważającej części związana wytwarzaniem ciepła i jest objęta wymogiem uzyskania koncesji, których mowa art. 32 ust. 1 ustawy dnia 10 kwietnia 1997 Prawo energetyczne (Dz. U. 2024 poz. 266, 834 i 859).
 
-2. Kredyty ramach linii kredytowej dla przedsiębiorców, których mowa ust. 1, trybie przewidzianym ustawie dnia 29 sierpnia 1997 Prawo bankowe (Dz. U. 2023 poz. 2488 oraz 2024 poz. 879) są udzielane celu zagwarantowania ciągłości dostaw ciepła do odbiorców na cele mieszkaniowe lub użyteczności publicznej, szczególności na potrzeby zakupu i rozliczenia węgla kamiennego, okresie od dnia wejścia życie niniejszej ustawy do dnia 30 czerwca 2024 r., ile po złożeniu przez przedsiębiorcę, którym mowa ust. 1, wniosku kredyt lub pożyczkę innej instytucji finansowej nie uzyskał on takiego finansowania, szczególności nie uzyskał kredytu zabezpieczonego poręczeniem lub gwarancją, których mowa art. 21a ust. 1 ustawy dnia 12 marca 2022 pomocy obywatelom Ukrainy związku konfliktem zbrojnym na terytorium tego państwa (Dz. U. 2024 poz. 167, 232, 834, 854, 858 i 1089). Wartość kredytu, ramach linii kredytowej, udzielonego przedsiębiorcy, którym mowa ust. 1, nie może przekroczyć kwoty 20 000 000 zł. Minister właściwy do spraw energii akceptuje regulamin udzielania kredytów ramach linii kredytowej przedstawiony przez Bank Gospodarstwa Krajowego. gwarancją Skarbu Państwa, reprezentowanego przez ministra właściwego do spraw finansów publicznych.
+2. Kredyty ramach linii kredytowej dla przedsiębiorców, których mowa ust. 1, trybie przewidzianym ustawie dnia 29 sierpnia 1997 Prawo bankowe (Dz. U. 2023 poz. 2488 oraz 2024 poz. 879) są udzielane celu zagwarantowania ciągłości dostaw ciepła do odbiorców na cele mieszkaniowe lub użyteczności publicznej, szczególności na potrzeby zakupu i rozliczenia węgla kamiennego, okresie od dnia wejścia życie niniejszej ustawy do dnia 30 czerwca 2024 r., ile po złożeniu przez przedsiębiorcę, którym mowa ust. 1, wniosku kredyt lub pożyczkę innej instytucji finansowej nie uzyskał on takiego finansowania, szczególności nie uzyskał kredytu zabezpieczonego poręczeniem lub gwarancją, których mowa art. 21a ust. 1 ustawy dnia 12 marca 2022 pomocy obywatelom Ukrainy związku konfliktem zbrojnym na terytorium tego państwa (Dz. U. 2024 poz. 167, 232, 834, 854, 858 i 1089). Wartość kredytu, ramach linii kredytowej, udzielonego przedsiębiorcy, którym mowa ust. 1, nie może przekroczyć kwoty 20 000 000 zł. Minister właściwy do spraw energii akceptuje regulamin udzielania kredytów ramach linii kredytowej przedstawiony przez Bank Gospodarstwa Krajowego.
 
 4. Do gwarancji, której mowa ust. 3, nie stosuje się przepisów ustawy dnia 8 maja 1997 poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. 2024 poz. 291), wyjątkiem przepisów art. 43b, art. 44, art. 45 i art. 46 tej ustawy, które stosuje się odpowiednio.
 

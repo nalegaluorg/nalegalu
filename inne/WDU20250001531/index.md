@@ -8,9 +8,12 @@ pos: 1531
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, dnia 7 listopada 2025 r.
+# zmianie ustawy Centralnym Porcie Komunikacyjnym
+
+*USTAWA z 24 września 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +27,9 @@ domain: null
 | Ostatnia zmiana | 2025-11-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001531) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1531/text.pdf) |
 
-USTAWA z dnia 24 września 2025 r.
-zmianie ustawy Centralnym Porcie Komunikacyjnym
+**Art. 1.** W ustawie z 10 maja 2018 r. Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 10 maja 2018 r. Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747) wprowadza następujące zmiany:
-
-**Art. 2.** Do spraw związanych z realizacją Inwestycji lub Inwestycji Towarzyszących rozumieniu art. 2 pkt 3 i 4 ustawy zmienianej art. 1 wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, szczególności:
+**Art. 2.** Do spraw związanych z realizacją Inwestycji lub Inwestycji Towarzyszących rozumieniu 2 pkt 3 i 4 ustawy zmienianej 1 wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, szczególności:
 
 **Art. 3.** Postępowania wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy decyzją niezwłocznym zajęciu nieruchomości wydaną przez organ pierwszej instancji umarza się.
 
@@ -37,13 +37,15 @@ zmianie ustawy Centralnym Porcie Komunikacyjnym
 
 1. Decyzje niezwłocznym zajęciu nieruchomości wydane przed dniem wejścia życie niniejszej ustawy pozostają mocy.
 
-2. W przypadku decyzji, których mowa 1:
+2. W przypadku decyzji, których mowa ust. 1:
 
-- **1)** wysokość odszkodowania powiększa kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego przypadku, gdy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją niezwłocznym zajęciu nieruchomości odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal inne pomieszczenia niezwłocznie, lecz nie później niż terminie 30 dni od dnia wejścia życie niniejszej ustawy; mowa pkt 2, nie później jednak niż terminie 120 dni, licząc od dnia, którym decyzja ustaleniu lokalizacji inwestycji zakresie Centralnego Portu Komunikacyjnego stała ostateczna; na wniosek Spółki Celowej organ wyznacza dłuższy termin dla obszarów określonych ustaleniu lokalizacji inwestycji zakresie Centralnego Portu Komunikacyjnego.
+- **1)** wysokość odszkodowania powiększa się kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego przypadku, gdy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją niezwłocznym zajęciu nieruchomości odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż terminie 30 dni od wejścia życie niniejszej ustawy;
+- **2)** terminie 60 dni od wejścia życie niniejszej ustawy wydaje się decyzję ustalającą wysokość odszkodowania; do postępowań sprawie ustalenia wysokości odszkodowania z tytułu wywłaszczenia nieruchomości stosuje się przepisy działu III rozdziału 6 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą;
+- **3)** wydanie nieruchomości, opróżnienie lokali i innych pomieszczeń oraz faktyczne objęcie nieruchomości posiadanie przez Spółkę Celową rozumieniu 2 pkt 10 ustawy zmienianej 1 może nastąpić nie wcześniej niż po upływie 120 dni od dnia, którym organ pierwszej instancji wydał decyzję ustalającą wysokość odszkodowania, której znacza dłuższy termin dla obszarów określonych decyzji inwestycji zakresie Centralnego Portu Komunikacyjnego.
 
-**Art. 5.** Jeżeli ustaleniu lokalizacji inwestycji zakresie Centralnego Portu Komunikacyjnego został nadany całości lub części rygor natychmiastowej wykonalności przed dniem wejścia życie niniejszej ustawy:
+**Art. 5.** Jeżeli decyzji inwestycji zakresie Centralnego Portu Komunikacyjnego został nadany całości lub części rygor natychmiastowej wykonalności przed dniem wejścia życie niniejszej ustawy:
 
-**Art. 6.** Zgody na wszczęcie postępowania wydanie ustaleniu lokalizacji inwestycji celu publicznego udzielone na podstawie art. 120b 2 ustawy zmienianej art. 1 brzmieniu dotychczasowym wydane przed dniem wejścia życie niniejszej ustawy pozostają mocy.
+**Art. 6.** Zgody na wszczęcie postępowania wydanie decyzji inwestycji celu publicznego udzielone na podstawie 120b ust. 2 ustawy zmienianej 1 brzmieniu dotychczasowym wydane przed dniem wejścia życie niniejszej ustawy pozostają mocy.
 
-**Art. 7.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 7.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.
 

@@ -8,6 +8,7 @@ pos: 155
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o gwarancjach wolności sumienia wyznania Sejm Rzeczypospolitej Polskiej: – wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia wyznania, – nawiązując do godnej trwałego szacunku kontynuacji tradycji tolerancji wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań światopoglądów w rozwoju pomyślności Ojczyzny, – uznając historyczny wkład kościołów innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie umacnianie podstawowych wartości moralnych, – kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji dyskryminacji z powodów religijnych lub przekonań, – umacniając warunki do czynnego równoprawnego uczestnictwa obywateli w życiu publicznym społecznym, bez względu na ich stosunek do religii, stanowi, co następuje: Wolność sumienia wyznania

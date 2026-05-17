@@ -8,9 +8,12 @@ pos: 2303
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 listopada 2019 r.
+# o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz ustawy o bezpieczeństwie morskim
+
+*USTAWA z dnia 16 października 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +27,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2303/text.pdf) |
 
-USTAWA z dnia 16 października 2019 r.
-o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz ustawy o bezpieczeństwie morskim
-
 **Art. 1.** W ustawie z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2017 r. poz. 2000) wprowadza się następujące zmiany:
 
-**Art. 20a.** Przepisów dotyczących postępowania z wodami balastowymi i osadami nie stosuje się do statków wymienionych 3 ust. 2 Konwencji BWM.
+**Art. 20a.** Przepisów dotyczących postępowania z wodami balastowymi i osadami nie stosuje się do statków wymienionych art. 3 ust. 2 Konwencji BWM.
 
 **Art. 20b.**
 
-1. Zabroniony jest zrzut do morza wód balastowych niespełniających wymogów Konwencji BWM oraz osadów, z uwzględnieniem 20c.
+1. Zabroniony jest zrzut do morza wód balastowych niespełniających wymogów Konwencji BWM oraz osadów, z uwzględnieniem art. 20c.
 
 2. W przypadku statku wskazanego prawidle A-5 załącznika do Konwencji BWM, jeżeli:
 
 - **1)** cechy konstrukcyjne tego statku nie pozwalają na zastosowanie wymagań określonych Konwencji BWM,
-- **2)** jest to uzasadnione ze względu na rejon lub warunki żeglugi możliwe jest, na wniosek armatora złożony do dyrektora urzędu morskiego właściwego ze względu na port macierzysty statku, zwolnienie tego statku z obowiązku spełniania wymagań określonych Konwencji BWM i wyrażenie zgody na zastosowanie rozwiązań równoważnych z wymaganiami Konwencji BWM, określonych przepisach wydanych na podstawie ust. 7.
+- **2)** jest to uzasadnione ze względu na rejon lub warunki żeglugi – możliwe jest, na wniosek armatora złożony do dyrektora urzędu morskiego właściwego ze względu na port macierzysty statku, zwolnienie tego statku z obowiązku spełniania wymagań określonych Konwencji BWM i wyrażenie zgody na zastosowanie rozwiązań równoważnych z wymaganiami Konwencji BWM, określonych przepisach wydanych na podstawie ust. 7.
+
+3. Wniosek, o którym mowa ust. 2, zawiera:
+
 - **1)** podstawowe dane o statku i armatorze:
     - **a)** nazwę i numer indentyfikacyjny statku,
-    - **b)** nazwę portu macierzystego statku,
     - **c)** pojemność brutto GT, długość kadłuba [m],
     - **d)** pojemność balastową statku [m ] (w odniesieniu do wszelkich zbiorników, przestrzeni lub przedziałów na statku używanych dla przewozu, załadunku lub zrzutu wód balastowych),
     - **e)** nazwę armatora;
@@ -84,10 +86,10 @@ o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz ustawy 
 - **3)** informację o terminie, na jaki wymagane jest zwolnienie (od MM-RRRR do MM-RRRR);
 - **4)** informację o przyczynie wnioskowania o zwolnienie;
 - **5)** informację o trasie objętej zwolnieniem (podanie nazwy portu/portów, których pobierane będą wody balastowe, oraz nazwy portu, gdzie zrzucane będą wody balastowe);
-- **6)** datę oraz godzinę rozpoczęcia i zakończenia podróży przypadku jednorazowej podróży;
-- **7)** informację o częstotliwości rejsów, regularności oraz przewidywanych ilościach wód balastowych, które będą zrzucane okresie zwolnienia przypadku wielokrotnych podróży;
-- **9)** informację o wszystkich portach, które statek planuje odwiedzić okresie zwolnienia, poza portami objętymi zwolnieniem;
-- **10)** informację na temat przewidywanej łącznej liczby podróży oraz ilości wód balastowych, które zostaną zrzucone ciągu okresu trwania zwolnienia przypadku wielokrotnych podróży.
+- **6)** datę oraz godzinę rozpoczęcia i zakończenia podróży – przypadku jednorazowej podróży;
+- **7)** informację o częstotliwości rejsów, regularności oraz przewidywanych ilościach wód balastowych, które będą zrzucane okresie zwolnienia – przypadku wielokrotnych podróży;
+- **8)** przewidywany czas oraz daty rozpoczęcia i zakończenia rejsów;
+- **10)** informację na temat przewidywanej łącznej liczby podróży oraz ilości wód balastowych, które zostaną zrzucone ciągu okresu trwania zwolnienia – przypadku wielokrotnych podróży.
 
 3. Do wniosku, o którym mowa ust. 1, dołącza się:
 
@@ -147,7 +149,7 @@ o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz ustawy 
 
 5. Jeżeli port przeznaczenia nie jest znany lub zmienia się podczas podróży, informacje są przekazywane niezwłocznie po uzyskaniu informacji o porcie przeznaczenia.”;
 
-- **16)** po 23a dodaje się 23b brzmieniu: „Art. 23b. 1. Podmiot zarządzający portem lub przystanią morską oraz podmiot prowadzący działalność i użytkujący nabrzeże granicach portu morskiego lub przystani morskiej, którego działalność może powodować zagrożenie zanieczyszczenia wód portowych, jest obowiązany do opracowania i aktualizacji planów zwalczania zagrożeń i zanieczyszczeń wód portowych.
+- **16)** po art. 23a dodaje się art. 23b brzmieniu: „Art. 23b. 1. Podmiot zarządzający portem lub przystanią morską oraz podmiot prowadzący działalność i użytkujący nabrzeże granicach portu morskiego lub przystani morskiej, którego działalność może powodować zagrożenie zanieczyszczenia wód portowych, jest obowiązany do opracowania i aktualizacji planów zwalczania zagrożeń i zanieczyszczeń wód portowych.
 
 2. Plany, o których mowa ust. 1, podlegają uzgodnieniu z dyrektorem Morskiej Służby Poszukiwania i Ratownictwa oraz właściwym komendantem wojewódzkim Państwowej Straży Pożarnej.
 
@@ -162,8 +164,10 @@ o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz ustawy 
 7. Wniosek, o którym mowa ust. 6, zawiera:
 
 - **1)** nazwę albo imię i nazwisko wnioskodawcy;
-- **2)** siedzibę i adres albo miejsce zamieszkania i adres wnioskodawcy;
-- **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy oraz numer identyfikacyjny krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) lub numer Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG), jeżeli zostały nadane.
+- **2)** siedzibę i adres albo miejsce zamieszkania i adres wnioskodawcy; ności Gospodarczej (CEIDG), jeżeli zostały nadane.
+
+8. Do wniosku, o którym mowa ust. 6, dołącza się:
+
 - **1)** dokument nabycia lub użytkowania nieruchomości;
 - **2)** kopię mapy zasadniczej z zaznaczonym obrysem działki lub działek oraz nabrzeża, na których użytkownik portu lub przystani morskiej prowadzi działalność;
 - **3)** informację o stosowanych rozwiązaniach chroniących środowisko.
@@ -178,33 +182,36 @@ o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz ustawy 
 
 13. Przepisu ust. 1 nie stosuje się do podmiotu prowadzącego działalność i użytkującego nabrzeże granicach portu morskiego lub przystani morskiej, przypadku gdy zagrożenia i działania związane z likwidacją zanieczyszczeń wynikających z działalności tego podmiotu zostały ujęte planie zwalczania zagrożeń i zanieczyszczeń wód portowych opracowanym przez podmiot zarządzający portem lub przystanią morską, na terenie których prowadzona jest działalność i użytkowane jest nabrzeże.”;
 
-- **17)** 26:
-    - **a)** pkt 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „w stosunku do statku o przynależności do państwa strony Konwencji MARPOL, Konwencji Helsińskiej 1992 lub Konwencji BWM:”, lit. a i b otrzymują brzmienie: „a) przeprowadzić, na statku porcie lub bazie przeładunkowej na morzu, inspekcje zakresie i trybie przewidzianym 28 oraz kontrole książek zapisów olejowych, ładunkowych, odpadów powstających na statku, zapisów balastowych oraz zapisów o każdorazowym przejściu na zasilanie paliwem innym niż aktualnie używane, celu ustalenia, czy ze statku nie dokonano zanieczyszczenia, z naruszeniem postanowień tych konwencji; wyniki inspekcji ujmuje się sprawozdaniu, które przekazuje się kapitanowi statku,
-    - **b)** odmówić statkowi o obcej przynależności zezwolenia na wejście do portu lub do bazy przeładunkowej na morzu albo podjąć działania zapewniające, że uprawianie żeglugi tym statkiem nie będzie stanowiło istotnego zagrożenia dla środowiska morskiego, jeżeli statek nie odpowiada wymaganiom określonym tych konwencjach; o odmowie dyrektor urzędu morskiego powiadamia konsula lub przedstawiciela dyplomatycznego państwa przynależności statku, a gdy jest to niemożliwe inny właściwy organ tego państwa,”,
-    - **b)** pkt 3: wprowadzenie do wyliczenia otrzymuje brzmienie: „w stosunku do statków o przynależności do obcego państwa niebędącego stroną Konwencji MARPOL lub Konwencji BWM:”, lit. a otrzymuje brzmienie: „a) przeprowadzić inspekcję statku celu sprawdzenia, czy stan statku odpowiada wymaganiom określonym tych konwencjach; razie stwierdzenia, że stan statku nie odpowiada tym wymaganiom, a uprawianie żeglugi tym statkiem stanowi istotne zagrożenie dla środowiska morskiego, może odmówić statkowi zezwolenia na wejście do portu lub do bazy przeładunkowej,”;
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Inspekcja statku o przynależności do państwa strony Konwencji MARPOL lub Konwencji BWM ogranicza się do sprawdzenia świadectw i innych dokumentów przewidzianych tych konwencjach.”,
-    - **b)** ust. 2: pkt 2 otrzymuje brzmienie: „2) treść dokumentów nie jest wystarczająca do potwierdzenia lub sprawdzenia podejrzanego naruszenia;”, pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) na statku nie wdrożono procedur postępowania z wodami balastowymi i osadami wymaganych Konwencją BWM.”;
+- **17)** art. 26:
+    - **a)** pkt 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „w stosunku do statku o przynależności do państwa strony Konwencji MARPOL, Konwencji Helsińskiej 1992 lub Konwencji BWM:”, – lit. a i b otrzymują brzmienie: „a) przeprowadzić, na statku porcie lub bazie przeładunkowej na morzu, inspekcje zakresie i trybie przewidzianym art. 28 oraz kontrole książek zapisów olejowych, ładunkowych, odpadów powstających na statku, zapisów balastowych oraz zapisów o każdorazowym przejściu na zasilanie paliwem innym niż aktualnie używane, celu ustalenia, czy ze statku nie dokonano zanieczyszczenia, z naruszeniem postanowień tych konwencji; wyniki inspekcji ujmuje się sprawozdaniu, które przekazuje się kapitanowi statku,
+    - **b)** odmówić statkowi o obcej przynależności zezwolenia na wejście do portu lub do bazy przeładunkowej na morzu albo podjąć działania zapewniające, że uprawianie żeglugi tym statkiem nie będzie stanowiło istotnego zagrożenia dla środowiska morskiego, jeżeli statek nie odpowiada wymaganiom określonym tych konwencjach; o odmowie dyrektor urzędu morskiego powiadamia konsula lub przedstawiciela dyplomatycznego państwa przynależności statku, a gdy jest to niemożliwe – inny właściwy organ tego państwa,”,
+    - **b)** pkt 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „w stosunku do statków o przynależności do obcego państwa niebędącego stroną Konwencji MARPOL lub Konwencji BWM:”, „a) przeprowadzić inspekcję statku celu sprawdzenia, czy stan statku odpowiada wymaganiom określonym tych konwencjach; razie stwierdzenia, że stan statku nie odpowiada tym wymaganiom, a uprawianie żeglugi tym statkiem stanowi istotne zagrożenie dla środowiska morskiego, może odmówić statkowi zezwolenia na wejście do portu lub do bazy przeładunkowej,”;
 
-- **19)** 28a:
+- **18)** art. 28:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Inspekcja statku o przynależności do państwa strony Konwencji MARPOL lub Konwencji BWM ogranicza się do sprawdzenia świadectw i innych dokumentów przewidzianych tych konwencjach.”,
+    - **b)** ust. 2: – pkt 2 otrzymuje brzmienie: „2) treść dokumentów nie jest wystarczająca do potwierdzenia lub sprawdzenia podejrzanego naruszenia;”, – pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) na statku nie wdrożono procedur postępowania z wodami balastowymi i osadami wymaganych Konwencją BWM.”;
+
+- **19)** art. 28a:
     - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Jeżeli przeprowadzona inspekcja wykaże, że wody balastowe statku stanowią zagrożenie dla środowiska, zdrowia ludzkiego, zasobów lub mienia, właściwy dyrektor urzędu morskiego zakazuje zrzutu wód balastowych do czasu usunięcia zagrożenia.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Jeżeli dyrektor urzędu morskiego otrzyma informację, że do portu morskiego znajdującego się terytorialnym zakresie jego działania zmierza statek, który opuścił inny port z naruszeniem przepisów zakresie informowania oraz zdawania odpadów i pozostałości ładunkowych lub był eksploatowany z naruszeniem postanowień Konwencji BWM, zapewnia przeprowadzenie inspekcji tego statku przed udzieleniem pozwolenia na jego wyjście morze.”;
 
-- **20)** 30 pkt 2 otrzymuje brzmienie: „2) organu państwa strony Konwencji MARPOL lub Konwencji BWM sprawie zrzutu, o którym mowa pkt 1, niezależnie od miejsca jego dokonania.”;
-- **21)** 35 otrzymuje brzmienie: „Art. 35. 1. Do postępowania określonego przepisach niniejszego rozdziału stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i 1133).
+- **20)** art. 30 pkt 2 otrzymuje brzmienie: „2) organu państwa strony Konwencji MARPOL lub Konwencji BWM sprawie zrzutu, o którym mowa pkt 1, niezależnie od miejsca jego dokonania.”;
+- **21)** art. 35 otrzymuje brzmienie: „Art. 35. 1. Do postępowania określonego przepisach niniejszego rozdziału stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i 1133).
 
-2. W przypadku konieczności natychmiastowego opuszczenia portu przez statek, stosunku do którego powzięto podejrzenie używania paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim, a znane są już wyniki badania laboratoryjnego próbki paliwa potwierdzające używanie przez ten statek takiego paliwa żeglugowego, nie stosuje się przepisów 10 § 1, 39 , 39 , 45, 49b, 79 i 79a ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2. W przypadku konieczności natychmiastowego opuszczenia portu przez statek, stosunku do którego powzięto podejrzenie używania paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim, a znane są już wyniki badania laboratoryjnego próbki paliwa potwierdzające używanie przez ten statek takiego paliwa żeglugowego, nie stosuje się przepisów art. 10 § 1, art. 39 , art. 39 , art. 45, art. 49b, art. 79 i art. 79a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-3. Decyzję dyrektora urzędu morskiego właściwego dla obszaru położenia portu zawierającą sankcję karną za używanie paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim doręcza się bezpośrednio kapitanowi statku lub jego przedstawicielowi na podstawie 39 i 40 § 1 lub 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.”;
+3. Decyzję dyrektora urzędu morskiego właściwego dla obszaru położenia portu zawierającą sankcję karną za używanie paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim doręcza się bezpośrednio kapitanowi statku lub jego przedstawicielowi na podstawie art. 39 i art. 40 § 1 lub 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.”;
 
-- **22)** 35a ust. 1 otrzymuje brzmienie: „1. Kto usuwa ze statku substancje objęte załącznikami I (olej) i II (szkodliwe substancje ciekłe) do Konwencji MARPOL takiej ilości lub takiej postaci, że może to doprowadzić do pogorszenia jakości wody, zagrażać życiu lub zdrowiu wielu osób lub spowodować zniszczenie fauny i flory morskiej znacznych rozmiarach, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”;
-- **23)** 36 otrzymuje brzmienie: „Art. 36. 1. Armatorowi statku, z którego podczas przebywania polskich obszarach morskich dokonano, z naruszeniem przepisów ustawy, zanieczyszczenia, związku z eksploatacją statku lub zatopieniem morzu odpadów i innych substancji wymierza się karę pieniężną o równowartości do 1 000 000 jednostek obliczeniowych, zwanych Specjalnym Prawem Ciągnienia (SDR), określanych przez Międzynarodowy Fundusz Walutowy.
+- **22)** art. 35a ust. 1 otrzymuje brzmienie: „1. Kto usuwa ze statku substancje objęte załącznikami I (olej) i II (szkodliwe substancje ciekłe) do Konwencji MARPOL takiej ilości lub takiej postaci, że może to doprowadzić do pogorszenia jakości wody, zagrażać życiu lub zdrowiu wielu osób lub spowodować zniszczenie fauny i flory morskiej znacznych rozmiarach, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”; „Art. 36. 1. Armatorowi statku, z którego podczas przebywania polskich obszarach morskich dokonano, z naruszeniem przepisów ustawy, zanieczyszczenia, związku z eksploatacją statku lub zatopieniem morzu odpadów i innych substancji – wymierza się karę pieniężną o równowartości do 1 000 000 jednostek obliczeniowych, zwanych Specjalnym Prawem Ciągnienia (SDR), określanych przez Międzynarodowy Fundusz Walutowy.
 
 2. Tej samej karze podlega również armator statku o polskiej przynależności, z którego dokonano, z naruszeniem przepisów ustawy, zanieczyszczenia poza polskimi obszarami morskimi, związku z eksploatacją statku lub zatopieniem morzu odpadów lub innych substancji, bez wymaganego zezwolenia lub wbrew jego warunkom.”;
 
-- **a)** po ust. 3 dodaje się ust. 3a brzmieniu: „3a. Jeżeli armator statku niezgodnie z prawidłem 14 załącznika VI do Konwencji MARPOL przewozi do celów spalania paliwo olejowe przeznaczone do napędu lub obsługi statku niespełniające wymogów dotyczących zawartości siarki, podlega karze pieniężnej do wysokości 600 000 SDR.”,
-- **b)** dodaje się ust. 6 brzmieniu: „6. Jeżeli armator statku nie wykonuje obowiązków zakresie gromadzenia i przekazywania danych o zużyciu paliwa, sposób zgodny z wymogami prawidła 22A załącznika VI do Konwencji MARPOL, podlega karze pieniężnej do wysokości 50 000 SDR.”;
-- **25)** 36c wyrazy „w 13e ust. 2–5” zastępuje się wyrazami „art. 13e ust. 2–6”;
-- **26)** 37:
+- **24)** art. 36aa:
+    - **a)** po ust. 3 dodaje się ust. 3a brzmieniu: „3a. Jeżeli armator statku niezgodnie z prawidłem 14 załącznika VI do Konwencji MARPOL przewozi do celów spalania paliwo olejowe przeznaczone do napędu lub obsługi statku niespełniające wymogów dotyczących zawartości siarki, podlega karze pieniężnej do wysokości 600 000 SDR.”,
+    - **b)** dodaje się ust. 6 brzmieniu: „6. Jeżeli armator statku nie wykonuje obowiązków zakresie gromadzenia i przekazywania danych o zużyciu paliwa, sposób zgodny z wymogami prawidła 22A załącznika VI do Konwencji MARPOL, podlega karze pieniężnej do wysokości 50 000 SDR.”;
+
+- **25)** art. 36c wyrazy „w art. 13e ust. 2–5” zastępuje się wyrazami „art. 13e ust. 2–6”;
+- **26)** art. 37:
     - **a)** po pkt 2 dodaje się pkt 2a brzmieniu: „2a) nie prowadzi zapisów balastowych sposób zgodny z wymogami prawidła B-2 załącznika do Konwencji BWM,”,
     - **b)** pkt 3 otrzymuje brzmienie: „3) nie zgłasza statku do przeglądu lub inspekcji, utrudnia bądź uniemożliwia przegląd lub inspekcję zakresie przewidzianym Konwencji MARPOL lub Konwencji BWM,”,
     - **c)** pkt 18 na końcu dodaje się przecinek i dodaje się pkt 19–22 brzmieniu: „19) nie posiada na statku dokumentów, wymaganych zgodnie z Konwencją BWM,
@@ -212,17 +219,17 @@ o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz ustawy 
 - **20)** nie stosuje procedur dotyczących postępowania z wodami balastowymi i osadami określonych planie postępowania z wodami balastowymi,
 - **21)** użytkuje niesprawny system obróbki wód balastowych lub system, którym dokonano zmian niezatwierdzonych przez administrację,
 - **22)** nie przekazuje kapitanowi portu informacji na temat aktualnej ilości wód balastowych na statku oraz przeprowadzonych operacji balastowych na statku”;
-- **27)** po 37a dodaje się 37b i 37c brzmieniu: „Art. 37b. Armator albo kapitan statku, który nie przestrzega warunków określonych decyzji sprawie zwolnienia, o którym mowa 20d ust. 1, podlega karze pieniężnej do wysokości 200 000 SDR.
+- **27)** po art. 37a dodaje się art. 37b i art. 37c brzmieniu: „Art. 37b. Armator albo kapitan statku, który nie przestrzega warunków określonych decyzji sprawie zwolnienia, o którym mowa art. 20d ust. 1, podlega karze pieniężnej do wysokości 200 000 SDR.
 
-**Art. 37c.** Podmiot zarządzający portem lub przystanią morską albo podmiot prowadzący działalność i użytkujący nabrzeże granicach portu morskiego lub przystani morskiej, który nie wykonuje obowiązków sporządzania nowych lub aktualizacji istniejących planów, zgodnie z 23b, podlega karze pieniężnej do wysokości 50 000 SDR.”;
+**Art. 37c.** Podmiot zarządzający portem lub przystanią morską albo podmiot prowadzący działalność i użytkujący nabrzeże granicach portu morskiego lub przystani morskiej, który nie wykonuje obowiązków sporządzania nowych lub aktualizacji istniejących planów, zgodnie z art. 23b, podlega karze pieniężnej do wysokości 50 000 SDR.”;
 
-**Art. 2.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, 1702 i 2197) 5 pkt 33 lit. i średnik zastępuje się przecinkiem i dodaje się lit. j brzmieniu: „j) Międzynarodową konwencję o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzoną dniu 13 lutego 2004 r. Londynie;”.
+**Art. 2.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, 1702 i 2197) art. 5 pkt 33 lit. i średnik zastępuje się przecinkiem i dodaje się lit. j brzmieniu: „j) Międzynarodową konwencję o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzoną dniu 13 lutego 2004 r. Londynie;”.
 
 **Art. 3.**
 
 1. Do statków o pojemności brutto (GT) poniżej 400 standardy określone prawidle D-2 załącznika do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej dniu 13 lutego 2004 r. Londynie, zwanej dalej „Konwencją BWM”, stosuje się od dnia 8 września 2024 r.
 
-2. Dla statków, o których mowa 20c ustawy zmienianej 1, standardy określone prawidle D-2 załącznika do Konwencji BWM stosuje się zgodnie z harmonogramem określonym prawidle B-3 załącznika do Konwencji BWM.
+2. Dla statków, o których mowa art. 20c ustawy zmienianej art. 1, standardy określone prawidle D-2 załącznika do Konwencji BWM stosuje się zgodnie z harmonogramem określonym prawidle B-3 załącznika do Konwencji BWM.
 
 **Art. 4.** Ustawa wchodzi życie z dniem 1 stycznia 2020 r., z wyjątkiem:
 

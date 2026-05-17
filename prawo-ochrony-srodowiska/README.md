@@ -2,13 +2,12 @@
 
 Akty prawne z dziedziny: **Prawo ochrony środowiska**.
 
-Łącznie: **49** aktów
+Łącznie: **46** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
 | [WDU20260000445](WDU20260000445/index.md) | Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy o zmianie ustawy o szczegó | Ustawa | obowiązujący |  |
 | [WDU20250000960](WDU20250000960/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000647](WDU20250000647/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 maja 2025  | Obwieszczenie | obowiązujący |  |
 | [WDU20250000216](WDU20250000216/index.md) | Ustawa z dnia 24 stycznia 2025 r. zmieniająca ustawę - Prawo wodne oraz ust | Ustawa | obowiązujący |  |
 | [WDU20250001812](WDU20250001812/index.md) | Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy - Prawo ochrony środowis | Ustawa | obowiązujący |  |
 | [WDU20240001940](WDU20240001940/index.md) | Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy - Prawo ochrony środowi | Ustawa | obowiązujący |  |
@@ -52,8 +51,6 @@ Akty prawne z dziedziny: **Prawo ochrony środowiska**.
 | [WDU20031901865](WDU20031901865/index.md) | Ustawa z dnia 3 października 2003 r. o zmianie ustawy - Prawo ochrony środo | Ustawa | obowiązujący |  |
 | [WDU20031751693](WDU20031751693/index.md) | Ustawa z dnia 29 sierpnia 2003 r. o zmianie ustawy o restrukturyzacji finan | Ustawa | obowiązujący |  |
 | [WDU20022331957](WDU20022331957/index.md) | Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy - Prawo ochrony środowi | Ustawa | obowiązujący |  |
-| [WDU20021431196](WDU20021431196/index.md) | Ustawa z dnia 18 lipca 2002 r. o zmianie ustawy o wprowadzeniu ustawy - Pra | Ustawa | obowiązujący |  |
-| [WDU20010620627](WDU20010620627/index.md) | Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska. | Ustawa | akt posiada tekst jednolity | [tak](WDU20010620627/orzecznictwo.md) |
 | [WDU20011001085](WDU20011001085/index.md) | Ustawa z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środow | Ustawa | obowiązujący | [tak](WDU20011001085/orzecznictwo.md) |
 
-*49 aktów • [← Powrót do spisu głównego](../README.md)*
+*46 aktów • [← Powrót do spisu głównego](../README.md)*

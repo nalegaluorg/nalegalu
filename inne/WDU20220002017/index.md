@@ -1,0 +1,48 @@
+---
+title: Rozporządzenie Ministra Rozwoju i Technologii z dnia 27 września 2022 r. zmieniające rozporządzenie w sprawie zasadniczych wymagań dotyczących ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym
+address: WDU20220002017
+eli: DU/2022/2017
+publisher: DU
+year: 2022
+pos: 2017
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 września 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2017 |
+| ISAP | WDU20220002017 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-09-27 |
+| Data wydania | 2022-09-29 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002017) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2017/text.pdf) |
+
+Poz. 2017 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII dnia 27 września 2022 r.
+zmieniające rozporządzenie w sprawie zasadniczych wymagań dotyczących ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym elektronicznym Na podstawie art. 9 ustawy dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. 2021 r. poz. 1344 oraz 2022 r. poz. 974) zarządza się, co następuje: Minister Rozwoju Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju Technologii (Dz. U. poz. 838).
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywy: dyrektywę delegowaną Komisji (UE) 2022/274 dnia 13 grudnia 2021 r.
+zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w lampach fluorescencyjnych zimną katodą w lampach fluorescencyjnych zewnętrzną katodą do celów specjalnych (Dz. Urz. UE L 43 24.02.2022, str. 25); dyrektywę delegowaną Komisji (UE) 2022/275 dnia 13 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w innych wysokoprężnych lampach sodowych na potrzeby oświetlenia ogólnego (Dz. Urz. UE L 43 24.02.2022, str. 29); dyrektywę delegowaną Komisji (UE) 2022/276 dnia 13 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w jednotrzonkowych (kompaktowych) lampach fluorescencyjnych na potrzeby oświetlenia ogólnego (Dz. Urz. UE L 43 24.02.2022, str. 32); dyrektywę delegowaną Komisji (UE) 2022/277 dnia 13 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w jednotrzonkowych (kompaktowych) lampach fluorescencyjnych na potrzeby oświetlenia ogólnego < 30 W okresem trwałości wynoszącym 20 000 godzin lub więcej (Dz. Urz. UE L 43 24.02.2022, str. 35); dyrektywę delegowaną Komisji (UE) 2022/278 dnia 13 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w lampach metalohalogenkowych (Dz. Urz. UE L 43
+24.02.2022, str. 38); dyrektywę delegowaną Komisji (UE) 2022/279 dnia 13 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w innych lampach wyładowczych do celów specjalnych (Dz. Urz. UE L 43 24.02.2022, str. 41); dyrektywę delegowaną Komisji (UE) 2022/280 dnia 13 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w innych niskoprężnych lampach wyładowczych (Dz. Urz. UE L 43 24.02.2022, str. 44); dyrektywę delegowaną Komisji (UE) 2022/281 dnia 13 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w jednotrzonkowych (kompaktowych) lampach fluorescencyjnych do celów specjalnych (Dz. Urz.
+UE L 43 24.02.2022, str. 47); dyrektywę delegowaną Komisji (UE) 2022/282 dnia 13 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w lampach innych niż liniowe luminoforem trójpasmowym (Dz. Urz. UE L 43 24.02.2022, str. 51); dyrektywę delegowaną Komisji (UE) 2022/283 dnia 13 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w wysokoprężnych lampach sodowych o podwyższonym wskaźniku oddawania barw na potrzeby oświetlenia ogólnego (Dz. Urz. UE L 43 24.02.2022, str. 54); dyrektywę delegowaną Komisji (UE) 2022/284 dnia 16 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w dwutrzonkowych liniowych lampach fluorescencyjnych na potrzeby oświetlenia ogólnego (Dz. Urz. UE L 43 24.02.2022, str. 57) oraz dyrektywę delegowaną Komisji (UE) 2022/287 dnia 13 grudnia 2021 r. zmieniającą, w celu dostosowania do postępu naukowo-technicznego, załącznik III do dyrektywy Parlamentu Europejskiego Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego stosowania rtęci w lampach fluorescencyjnych na inne potrzeby ogólnego oświetlenia do celów specjalnych (Dz. Urz. UE L 43 24.02.2022, str. 64).
+Dziennik Ustaw – 2 – Poz. 2017 § 1. W rozporządzeniu Ministra Rozwoju Finansów dnia 21 grudnia 2016 r. w sprawie zasadniczych wymagań dotyczących ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym elektronicznym (Dz. U.
+2021 r. poz. 1513 1924 oraz 2022 r. poz. 937 1361) wprowadza się następujące zmiany:
+1) odnośnik nr 2 otrzymuje brzmienie: „ Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego Rady 2011/65/UE dnia 8 czerwca 2011 r. w sprawie ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym elektronicznym (Dz. Urz. UE L 174 01.07.2011, str. 88, Dz. Urz. UE L 209 04.08.2012, str. 18, Dz. Urz. UE L 348 18.12.2012, str. 16 18, Dz. Urz. UE L 4 09.01.2014, str. 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 75, Dz. Urz. UE L 44 14.02.2014, str. 55, Dz. Urz. UE L 148 20.05.2014, str. 72, 74, 76, 78, 80, 82, 84 86, Dz. Urz. UE L 94 10.04.2015, str. 4 6, Dz. Urz. UE L 137 04.06.2015, str. 10, Dz. Urz. UE L 101
+16.04.2016, str. 12, Dz. Urz. UE L 168 25.06.2016, str. 13 15, Dz. Urz. UE L 153 16.06.2017, str. 21, 23 25, Dz. Urz. UE L 281 31.10.2017, str. 29, Dz. Urz. UE L 285 01.11.2017, str. 32, Dz. Urz. UE L 305 21.11.2017, str. 8, Dz. Urz. UE L 123 18.05.2018, str. 94, 97, 100, 103, 106, 109 112, Dz. Urz. UE L 33 05.02.2019, str. 5, 8, 11, 14, 17, 20, 23, 26, 29 32, Dz. Urz. UE L 283 05.11.2019, str. 38 41, Dz. Urz. UE L 67 05.03.2020, str. 109, 112, 122, 125 129, Dz. Urz. UE L 273 20.08.2020, str. 16, Dz. Urz. UE L 133 20.04.2021, str. 54, Dz. Urz.
+UE L 194 02.06.2021, str. 37, Dz. Urz. UE L 402 15.11.2021, str. 65, 69 73 oraz Dz. Urz. UE L 43 24.02.2022, str. 25, 29, 32, 35, 38, 41, 44, 47, 51, 54, 57 64).”;
+2) odnośnik nr 4 otrzymuje brzmienie: „ Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 209 04.08.2012, str. 18, Dz. Urz. UE L 348
+18.12.2012, str. 16 18, Dz. Urz. UE L 4 09.01.2014, str. 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 75, Dz. Urz. UE L 44 14.02.2014, str. 55, Dz. Urz. UE L 148 20.05.2014, str. 72, 74, 76, 78, 80, 82, 84 86, Dz. Urz. UE L 94 10.04.2015, str. 4 6, Dz. Urz. UE L 137 04.06.2015, str. 10, Dz. Urz. UE L 101
+16.04.2016, str. 12, Dz. Urz. UE L 168 25.06.2016, str. 13 15, Dz. Urz. UE L 153 16.06.2017, str. 21, 23 25, Dz. Urz. UE L 281 31.10.2017, str. 29, Dz. Urz. UE L 285 01.11.2017, str. 32, Dz. Urz. UE L 305
+21.11.2017, str. 8, Dz. Urz. UE L 123 18.05.2018, str. 94, 97, 100, 103, 106, 109 112, Dz. Urz. UE L 33
+05.02.2019, str. 5, 8, 11, 14, 17, 20, 23, 26, 29 32, Dz. Urz. UE L 283 05.11.2019, str. 38 41, Dz. Urz.
+UE L 67 05.03.2020, str. 109, 112, 122, 125 129, Dz. Urz. UE L 273 20.08.2020, str. 16, Dz. Urz. UE L 133
+20.04.2021, str. 54, Dz. Urz. UE L 194 02.06.2021, str. 37, Dz. Urz. UE L 402 15.11.2021, str. 65, 69 73 oraz Dz. Urz. UE L 43 24.02.2022, str. 25, 29, 32, 35, 38, 41, 44, 47, 51, 54, 57 64.”.
+§ 2. Rozporządzenie wchodzi w życie dniem 1 października 2022 r.
+Minister Rozwoju Technologii: W. Buda
+

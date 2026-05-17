@@ -8,9 +8,10 @@ pos: 1479
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# o zmianie ustawy Kodeks karny skarbowy oraz niektórych innych ustaw
+# o zmianie ustawy - Kodeks karny skarbowy oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 lipca 2005 r.*
 
@@ -26,9 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051781479) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1479/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. 83, poz. 930, z póên. zm. ) wprowadza się następujące zmiany:
-
-**Art. 2.** Postępowania przed sądami polubownymi Art. 3.Ustawa wchodzi wżycie po upływie miesiąoraz postępowania przed sądami co do stwierdzenia ca od dnia ogłoszenia. skuteczności wyroku sądu polubownego, stwierdzenia wykonalności wyroku sądu polubownego oraz ze skar- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ki organizacyjnej niemającej osobowości prawnej, której odrębne przepisy przyznają zdolność prawną.”;
+**Art. 1.** W ustawie z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz.U. Nr 83, poz. 930, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 43.**
 
@@ -46,26 +45,26 @@ domain: null
 
 § 4. Jeżeli sprawca dopuścił się czynu zabronionego w stanie niepoczytalności, sąd może orzec tytułem środka zabezpieczającego także zakaz prowadzenia określonej działalności gospodarczej, wykonywania określonego zawodu lub zajmowania określonego stanowiska, gdy jest to konieczne ze względu na ochronę porządku prawnego.
 
-§ 5. Wymienione w § 4 zakazy orzeka się bez wyznaczenia terminu; sąd uchyla zakaz, jeżeli ustały przyczyny jego orzeczenia.”;
+§ 5. Wymienione w § 4 zakazy orzeka si ę bez wyznaczenia terminu; sąd uchyla zakaz, jeżeli ustały przyczyny jego orzeczenia.”;
 
 - **34)** w art. 44:
-    - **a)** § 1 i 2 otrzymują brzmienie: Ń§ 1. Karalność przestępstwa skarbowego ustaje, jeżeli od czasu jego popełnienia upły1) 5 gdy czyn stanowi przestępstwo skarbowe zagrożone karą grzywny, karą ograniczenia wolności lub karą pozbawienia wolności nieprzekraczającą 3 lat,
+    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Karalność przestępstwa skarbowego ustaje, jeżeli od czasu jego popełnienia upłynęło lat:
 
-- **2)** 10 gdy czyn stanowi przestępstwo skarbowe zagrożone karą pozbawienia wolności przekraczającą 3 lata.
+- **1)** 5 - gdy czyn stanowi przestępstwo skarbowe zagrożone karą grzywny, karą ograniczenia wolności lub karą pozbawienia wolności nieprzekraczającą 3 lat, zbawienia wolności przekraczającą 3 lata.
 
 § 2. Karalność przestępstwa skarbowego polegającego na uszczupleniu lub narażeniu na uszczuplenie należności publicznoprawnej ustaje także wówczas, gdy nastąpiło przedawnienie tej należności.”,
 
-- **b)** § 5 i 6 otrzymują brzmienie: Ń§ 5. Jeżeli w okresie przewidzianym w § 1 lub § 2 wszczęto postępowanie przeciwko sprawcy, karalność popełnionego przez niego przestępstwa skarbowego określonego w § 1 pkt 1 ustaje z upływem 5 lat, a przestępstwa skarbowego określonego w § 1 pkt 2 z upływem 10 lat od zakończenia tego okresu.
+- **b)** § 5 i 6 otrzymują brzmienie: „§ 5. Jeżeli w okresie przewidzianym w § 1 lub § 2 wszczęto postępowanie przeciwko sprawcy, karalność popełnionego przez niego przestępstwa skarbowego określonego w § 1 pkt 1 ustaje z upływem 5 lat, a przestępstwa skarbowego określonego w § 1 pkt 2 - z upływem 10 lat od zakończenia tego okresu.
 
 § 6. W razie uchylenia prawomocnego orzeczenia przedawnienie biegnie od dnia wydania orzeczenia w tym przedmiocie, chyba że karalność przestępstwa skarbowego już ustała.”,
 
-- **c)** dodaje się § 7 w brzmieniu: Ń§ 7. Przedawnienie nie biegnie, jeżeli przepis ustawy nie pozwala na wszczęcie lub dalsze prowadzenie postępowania wsprawie o przestępstwo skarbowe.”;
-- **35)** w art. 45 po § 1 dodaje się § 1a w brzmieniu: Ń§ 1a. Ârodków zabezpieczających określonych w art. 22 § 3 nie można wykonać, jeżeli od uprawomocnienia się orzeczenia upłynęło 10 lat.”;
+- **c)** dodaje się § 7 w brzmieniu: „§ 7. Przedawnienie nie biegnie, jeżeli przepis ustawy nie pozwala na wszczęcie lub dalsze prowadzenie postępowania w sprawie o przestępstwo skarbowe.”;
+- **35)** w art. 45 po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Środków zabezpieczających określonych w art. 22 § 3 nie można wykonać, jeżeli od uprawomocnienia się orzeczenia upłynęło 10 lat.”;
 - **36)** w art. 47:
-    - **a)** § 3 otrzymuje brzmienie: Ń§ 3. Do środka karnego ściągnięcia równowartości pieniężnej przepadku przedmiotów stosuje się odpowiednio art. 31 § 4 i art.32.”,
-    - **b)** dodaje się § 4 w brzmieniu: Ń§ 4. Przepadek przedmiotów określony w § 2 pkt 2 można orzec tytułem środka zabezpieczającego; przepisy art. 31 § 1, art. 43 §1 pkt 1, 2 i 4 oraz § 2 i 3 stosuje się odpowiednio. Przepadek przedmiotów tytułem środka zabezpieczającego można orzec także, jeżeli nałożono karę grzywny w drodze mandatu karnego.”;
+    - **a)** § 3 otrzymuje brzmienie: „§ 3. Do środka karnego ściągnięcia równowartości pieniężnej przepadku przedmiotów stosuje się odpowiednio art. 31 § 4 i art. 32.”,
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. Przepadek przedmiotów określony w § 2 pkt 2 można orzec tytułem środka zabezpieczającego; przepisy art. 31 § 1, art. 43 § 1 pkt 1, 2 i 4 oraz § 2 i 3 stosuje się odpowiednio. Przepadek przedmiotów tytułem środka zabezpieczającego można orzec także, jeżeli nałożono karę grzywny w drodze mandatu karnego.”;
 
-- **37)** w art. 48 § 1—4 otrzymują brzmienie: Ń§ 1. Kara grzywny może być wymierzona w granicach od jednej dziesiątej do dwudziestonęło lat: krotnej wysokości minimalnego wynagrodzenia, chyba że kodeks stanowi inaczej.
+- **37)** w art. 48 § 1-4 otrzymują brzmienie: „§ 1. Kara grzywny może być wymierzona w granicach od jednej dziesiątej do dwudziestokrotnej wysokości minimalnego wynagrodzenia, chyba że kodeks stanowi inaczej.
 
 § 2. Mandatem karnym można nałożyć karę grzywny w granicach nieprzekraczających podwójnej wysokości minimalnego wynagrodzenia.
 
@@ -73,39 +72,38 @@ domain: null
 
 § 4. Wymierzając karę grzywny lub nakładając ją mandatem karnym, uwzględnia się także stosunki majątkowe i rodzinne sprawcy oraz jego dochody i możliwości zarobkowe.”;
 
-- **38)** w art. 49:
-    - **a)** § 1 i 2 otrzymują brzmienie: Ń§ 1. Do przepadku przedmiotów stosuje się odpowiednio przepisy art. 29, art. 30 § 1 i6 oraz art. 31, przy czym nie obejmuje on środka przewozowego stanowiącego przedmiot określony wart. 29 pkt 2, chyba że został on specjalnie przysposobiony do popełnienia czynu zabronionego jako przestępstwo skarbowe, wykroczenie skarbowe, przestępstwo lub wykroczenie.
+- **38)** w art. 49: „§ 1. Do przepadku przedmiotów stosuje się odpowiednio przepisy art. 29, art. 30 § 1 i 6 oraz art. 31, przy czym nie obejmuje on środka przewozowego stanowiącego przedmiot określony w art. 29 pkt 2, chyba że został on specjalnie przysposobiony do popełnienia czynu zabronionego jako przestępstwo skarbowe, wykroczenie skarbowe, przestępstwo lub wykroczenie.
 
-§ 2. W wypadkach określonych w art. 54 § 3, art. 55 § 3, art. 58 § 4, art. 59 § 4, art. 63 §5, art. 64 § 2, art. 66 § 2, art. 67 § 4, art. 68 §2 i 3, art. 70 § 5, art. 73 § 2 oraz art. 73a § 3, art.86 § 4, art. 87 § 4, art. 88 § 3, art. 89 §3, art. 90 § 3 przepadek obejmuje przedmioty określone w § 1.”,
+§ 2. W wypadkach określonych w art. 54 § 3, art. 55 § 3, art. 58 § 4, art. 59 § 4, art. 63 § 5, art. 64 § 2, art. 66 § 2, art. 67 § 4, art. 68 § 2 i 3, art. 70 § 5, art. 73 § 2 oraz art. 73a § 3, art. 86 § 4, art. 87 § 4, art. 88 § 3, art. 89 § 3, art. 90 § 3 przepadek obejmuje przedmioty określone w § 1.”, 89 § 3, art. 90 § 3 oraz w art. 91 § 4 w związku z art. 91 § 1 orzeka się przepadek przedmiotów wymienionych w art. 29 pkt 1 lub 2, a także można orzec przepadek przedmiotów wymienionych w art. 29 pkt 3.”,
 
-- **b)** po § 2 dodaje się § 2a w brzmieniu: Ń§ 2a. W wypadkach określonych w art. 86 § 4, art. 87 § 4, art. 88 § 3, art. 89 § 3, art. 90 §3 oraz w art. 91 § 4 w związku z art. 91 § 1 orzeka się przepadek przedmiotów wymienionych wart. 29 pkt 1 lub 2, atakże można orzec przepadek przedmiotów wymienionych w art. 29 pkt 3.”,
-- **c)** dodaje się § 4 i 5 w brzmieniu: Ń§ 4. W wypadkach określonych w art. 99 § 3 oraz w art. 106d § 2 orzeka się przepadek wartości dewizowych lub krajowych środków płatniczych, a także można orzec przepadek innych przedmiotów określonych w § 1.
+- **b)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. W wypadkach określonych w art. 86 § 4, art. 87 § 4, art. 88 § 3, art.
+- **c)** dodaje się § 4 i 5 w brzmieniu: „§ 4. W wypadkach określonych w art. 99 § 3 oraz w art. 106d § 2 orzeka się przepadek wartości dewizowych lub krajowych środków płatniczych, a także można orzec przepadek innych przedmiotów określonych w § 1.
 
-§ 5. W wypadkach określonych w art. 107 § 4 oraz wart. 107a§ 2 stosuje się odpowiednio przepis art. 30 § 5.”;
+§ 5. W wypadkach określonych w art. 107 § 4 oraz w art. 107a § 2 stosuje się odpowiednio przepis art. 30 § 5.”;
 
-- **39)** art. 50 i 51 otrzymują brzmienie: ŃArt. 50. § 1. Jeżeli jednocześnie orzeka się o ukaraniu za dwa albo więcej wykroczeń skarbowych, sąd wymierza łącznie karę grzywny wwysokości do górnej granicy ustawowego zagrożenia zwiększonego o połowę, co nie stoi na przeszkodzie orzeczeniu także innych środków za pozostające wzbie§ 2. W razie ukarania za dwa albo więcej wykroczeń skarbowych popełnionych przed wydaniem pierwszego orzeczenia, wykonaniu podlega najsurowsza kara; wykonaniu podlegają także inne środki orzeczone w każdym z orzeczeń.
+- **39)** art. 50 i 51 otrzymują brzmienie: „Art. 50. § 1. Jeżeli jednocześnie orzeka się o ukaraniu za dwa albo więcej wykroczeń skarbowych, sąd wymierza łącznie karę grzywny w wysokości do górnej granicy ustawowego zagrożenia zwiększonego o połowę, co nie stoi na przeszkodzie orzeczeniu także innych środków za pozostające w zbiegu wykroczenia.
+
+§ 2. W razie ukarania za dwa albo więcej wykroczeń skarbowych popełnionych przed wydaniem pierwszego orzeczenia, wykonaniu podlega najsurowsza kara; wykonaniu podlegają także inne środki orzeczone w każdym z orzeczeń.
 
 **Art. 51.**
 
-§ 1. Karalność wykroczenia skarbowego ustaje, jeżeli od czasu jego popełnienia upłynął rok. Przepisy art. 44 § 2—4 i6—7 stosuje się odpowiednio.
+§ 1. Karalność wykroczenia skarbowego ustaje, jeżeli od czasu jego popełnienia upłynął rok. Przepisy art. 44 § 2-4 i 6-7 stosuje się odpowiednio.
 
-§ 2. Jeżeli w okresie przewidzianym w §1 wszczęto postępowanie przeciwko sprawcy, karalność popełnionego przez niego wykroczenia skarbowego ustaje z upływem 2 lat od zakończenia tego okresu.
+§ 2. Jeżeli w okresie przewidzianym w § 1 wszczęto postępowanie przeciwko sprawcy, karalność popełnionego przez niego wykroczenia skarbowego ustaje z upływem 2 lat od zakończenia tego okresu.
 
-§ 3. Orzeczona kara lub środek karny wymieniony wart. 47 § 2 pkt 2 i3 nie podlega wykonaniu, jeżeli od daty upragu wykroczenia. womocnienia się orzeczenia upłynęły 3 lata.
+§ 3. Orzeczona kara lub środek karny wymieniony w art. 47 § 2 pkt 2 i 3 nie podlega wykonaniu, jeżeli od daty uprawomocnienia się orzeczenia upłynęły 3 lata. wykonać, jeżeli od uprawomocnienia się orzeczenia upłynęły 3 lata.”;
 
-§ 4. Ârodka zabezpieczającego określonego w art. 47 § 3 nie można wykonać, jeżeli od uprawomocnienia się orzeczenia upłynęły 3 lata.”;
-
-- **40)** w art. 52 § 3 i 4 otrzymują brzmienie: Ń§ 3. Jeżeli ukarany po rozpoczęciu, lecz przed upływem okresu przewidzianego w § 1 ponownie popełnił przestępstwo skarbowe, wykroczenie skarbowe, przestępstwo lub wykroczenie, za które orzeczono karę lub środek karny, wymieniony wart. 22 § 2 pkt 2—7 i 8 lit. b) lub w art. 47 § 2 pkt 2 i 3, lub w razie odstąpienia od ich wymierzenia, dopuszczalne jest tylko jednoczesne zatarcie wszystkich skazań.
+- **40)** w art. 52 § 3 i 4 otrzymują brzmienie: „§ 3. Jeżeli ukarany po rozpoczęciu, lecz przed upływem okresu przewidzianego w § 1 ponownie popełnił przestępstwo skarbowe, wykroczenie skarbowe, przestępstwo lub wykroczenie, za które orzeczono karę lub środek karny, wymieniony w art. 22 § 2 pkt 2-7 i 8 lit. b) lub w art. 47 § 2 pkt 2 i 3, lub w razie odstąpienia od ich wymierzenia, dopuszczalne jest tylko jednoczesne zatarcie wszystkich skazań.
 
 § 4. Nałożenie kary grzywny w drodze mandatu karnego uważa się za niebyłe z upływem roku od uiszczenia lub ściągnięcia tej grzywny albo od przedawnienia jej wykonania.”;
 
-- **41)** w art. 53: Określenie czynu zabronionego jako przestępstwa skarbowego lub wykroczenia skarbowego może nastąpić tylko w niniejszym kodeksie.”, Wykroczeniem skarbowym jest także inny czyn zabroniony, jeżeli kodeks tak stanowi.
-    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Czyn zabroniony jest to zachowanie oznamionach określonych wkodeksie, chociażby nie stanowiło ono przestępstwa skarbowego lub wykroczenia skarbowego.
-    - **b)** § 3 i 4 otrzymują brzmienie: Ń§ 3. Wykroczenie skarbowe jest to czyn zabroniony przez kodeks pod groêbą kary grzywny określonej kwotowo, jeżeli kwota uszczuplonej lub narażonej na uszczuplenie należności publicznoprawnej albo wartość przedmiotu czynu nie przekracza pięciokrotnej wysokości minimalnego wynagrodzenia w czasie jego popełnienia.
+- **41)** w art. 53:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Czyn zabroniony jest to zachowanie o znamionach określonych w kodeksie, chociażby nie stanowiło ono przestępstwa skarbowego lub wykroczenia skarbowego. Określenie czynu zabronionego jako przestępstwa skarbowego lub wykroczenia skarbowego może nastąpić tylko w niniejszym kodeksie.”,
+    - **b)** § 3 i 4 otrzymują brzmienie: „§ 3. Wykroczenie skarbowe jest to czyn zabroniony przez kodeks pod groźbą kary grzywny określonej kwotowo, jeżeli kwota uszczuplonej lub narażonej na uszczuplenie należności publicznoprawnej albo wartość przedmiotu czynu nie przekracza pięciokrotnej wysokości minimalnego wynagrodzenia w czasie jego popełnienia. Wykroczeniem skarbowym jest także inny czyn zabroniony, jeżeli kodeks tak stanowi.
 
-§ 4. Minimalne wynagrodzenie jest to wynagrodzenie za pracę ustalone na podstawie ustawy z dnia 10 paêdziernika 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. 200, poz. 1679, z 2004 r. 240, poz.2407 oraz z 2005 r. 157, poz.1314).”,
+§ 4. Minimalne wynagrodzenie jest to wynagrodzenie za pracę ustalone na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz.U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz. 1314).”,
 
-- **c)** § 13—17 otrzymują brzmienie: Ń§ 13. Korzyścią majątkową lub osobistą jest korzyść zarówno dla siebie, jak idla kogo innego.
+- **c)** § 13-17 otrzymują brzmienie: „§ 13. Korzyścią majątkową lub osobistą jest korzyść zarówno dla siebie, jak i dla kogo innego.
 
 § 14. Mała wartość jest to wartość, która w czasie popełnienia czynu zabronionego nie przekracza dwustukrotnej wysokości minimalnego wynagrodzenia.
 
@@ -113,9 +111,9 @@ domain: null
 
 § 16. Wielka wartość jest to wartość, która w czasie popełnienia czynu zabronionego przekracza tysiąckrotną wysokość minimalnego wynagrodzenia.
 
-§ 17. Jeżeli kodeks nie stanowi inaczej, jako wartość przedmiotu czynu zabronionego przyjmuje się jego wartość rynkową, ustaloną według przeciętnej ceny rynkowej na terytorium Rzeczypospolitej Polskiej, a w razie braku tych danych na podstawie oszacowania. O wartości rozstrzyga czas popełnienia czynu zabronionego, agdy nie można go ustalić czas jego ujawnienia, chyba że ustawa stanowi inaczej.”,
+§ 17. Jeżeli kodeks nie stanowi inaczej, jako wartość przedmiotu czynu zabronionego przyjmuje się jego wartość rynkową, ustaloną według a w razie braku tych danych - na podstawie oszacowania. O wartości rozstrzyga czas popełnienia czynu zabronionego, a gdy nie można go ustalić - czas jego ujawnienia, chyba że ustawa stanowi inaczej.”,
 
-- **d)** § 20 i 21 otrzymują brzmienie: Ń§ 20. Dokument jest to każdy przedmiot lub inny zapisany nośnik informacji, z którym jest związane określone prawo, albo który ze względu na zawartą wnim treść stanowi dowód prawa, stosunku prawnego lub okoliczności mającej znaczenie prawne.
+- **d)** § 20 i 21 otrzymują brzmienie: „§ 20. Dokument jest to każdy przedmiot lub inny zapisany nośnik informacji, z którym jest związane określone prawo, albo który ze względu na zawartą w nim treść stanowi dowód prawa, stosunku prawnego lub okoliczności mającej znaczenie prawne.
 
 § 21. Księgami są:
 
@@ -124,17 +122,18 @@ domain: null
 - **3)** ewidencja,
 - **4)** rejestr,
 - **5)** inne podobne urządzenia ewidencyjne, do których prowadzenia zobowiązuje ustawa, a w szczególności zapisy kasy rejestrującej.”,
-    - **e)** § 29 i 30 otrzymują brzmienie: Ń§ 29. Przepisy § 27 i 28 stosuje się odpowiednio do następujących określeń: Ńkwota zwrot należności celnej lub umorzenie należności celnej należnej do zapłacenia”, Ńnienależny zwrot należności podatkowej”, Ńnie pobiera podatku”, Ńnie wpłaca w terminie podatku”, Ńpobrany podatek”, Ńpobranego podatku nie wpłaca”, Ńpodatek” oraz Ńwypłata lub pobranie nienależnej, nadmiernej lub wykorzystanej niezgodnie z przeznaczeniem dotacji lub subwencji”.
+    - **e)** § 29 i 30 otrzymują brzmienie: „§ 29. Przepisy § 27 i 28 stosuje się odpowiednio do następujących określeń: „kwota niewpłaconego podatku”, „nienależny zwrot należności celnej lub umorzenie należności celnej nale¿nej do zapłacenia”, „nienależny zwrot należności podatkowej”, „nie pobiera podatku”, „nie wpłaca w terminie podatku”, „pobrany podatek”, „pobranego podatku nie wpłaca”, „podatek” oraz „wypłata lub pobranie nienależnej, nadmiernej lub wykorzystanej niezgodnie z przeznaczeniem dotacji lub subwencji”.
 
-§ 30. Użyte w rozdziale 6 kodeksu określenia, awszczególności: Ńczynności sprawdzające”, Ńdeklaracja”, Ńinformacja podatkowa”, Ńinkasent”, Ńkontrola podatkowa”, Ńobowiązek podatkowy”, Ńpodatek”, Ńpodatnik”, Ńpłatnik”, Ńzwrot podatku”, mają znaczenie nadane im w ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2005 r. Nr8, poz. 60, 85, poz. 727, 86, poz.732 i 143, poz. 1199), z tym że określenie Ńpodatek” oznacza również zaliczkę na podatek, ratę podatku, atakże opłaty oraz inne niepodatkowe należności budżetu państwa o podobnym charakterze daninowym; określenie Ńpodatnik” oznacza również osobę zobowiązaną do uiszczenia opłat oraz niepodatkowych należności budżetu państwa o podobnym charakterze daninowym.”, 156, poz. 1641 i 273, poz.2703 oraz niewpłaconego podatku”, Ńnienależny z 2005 r. 167, poz. 1399).”, 91, poz. 870 i 173, poz. 1808).
+§ 30. Użyte w rozdziale 6 kodeksu określenia, a w szczególności: „czynności sprawdzające”, „deklaracja”, „informacja podatkowa”, „inkasent”, „kontrola podatkowa”, „obowiązek podatkowy”, „podatek”, „podatnik”, „płatnik”, „zwrot podatku”, mają znaczenie nadane im w ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. z 2005 r. Nr 8, poz. 60, Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz.
 
-- **f)** po § 30b dodaje się § 30c w brzmieniu: Ń§ 30c. Użyte w rozdziale 6 kodeksu określenie Ńinformacja podsumowująca” ma znaczenie nadane mu w ustawie z dnia 11marca 2004 r. o podatku od towarów i usług (Dz. U. 54, poz. 535 oraz z2005 r. 14, poz. 113, 90, poz. 756 i 143, poz. 1199).”,
-- **g)** po § 31 dodaje się § 31a w brzmieniu: Ń§ 31a. Czynności kontrolne wzakresie szczególnego nadzoru podatkowego są to czynności określone wustawie zdnia 24lipca 1999 r. o Służbie Celnej (Dz. U. z 2004 r.
-- **h)** § 34 i 35 otrzymują brzmienie: Ń§ 34. Użyte w rozdziale 8 kodeksu określenia, a w szczególności: Ńdziałalność kantorowa”, Ńindywidualne zezwolenie dewizowe”, Ńjednostki uczestnictwa wfunduszu zbiorowego inwestowania”, Ńkontrola”, Ńkraj”, Ńkraje trzecie”, Ńkrajowe środki płatnicze”, Ńnierezydent”, Ńnierezydent z kraju trzeciego”, Ńobrót dewizowy”, Ńobrót dewizowy z zagranicą”, Ńpapiery wartościowe”, Ńrezydent”, Ńuprawniony bank”, Ńwartości dewizowe”, Ńwaluta polska”, Ńwaluta wymienialna”, Ńzagraniczne środki płatnicze”, Ńzezwolenie dewizowe”, mają znaczenie nadane im w ustawie z dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. 141, poz. 1178, z2003 r. 228, poz. 2260 oraz z 2004 r.
+- **1199)** , z tym że określenie „podatek” oznacza również zaliczkę na podatek, ratę podatku, a także opłaty oraz inne niepodatkowe należności budżetu państwa o podobnym charakterze daninowym; określenie „podatnik” oznacza również osobę zobowiązaną do uiszczenia opłat oraz niepodatkowych należności budżetu państwa o podobnym charakterze daninowym.”, Nr 14, poz. 113, Nr 90, poz. 756 i Nr 143, poz. 1199).”, 2260 oraz z 2004 r. Nr 91, poz. 870 i Nr 173, poz. 1808).
+    - **f)** po § 30b dodaje się § 30c w brzmieniu: „§ 30c. Użyte w rozdziale 6 kodeksu określenie „informacja podsumowująca” ma znaczenie nadane mu w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz.U. Nr 54, poz. 535 oraz z 2005 r.
+    - **g)** po § 31 dodaje się § 31a w brzmieniu: „§ 31a. Czynności kontrolne w zakresie szczególnego nadzoru podatkowego są to czynności określone w ustawie z dnia 24 lipca 1999 r. o 2703 oraz z 2005 r. Nr 167, poz. 1399).”,
+    - **h)** § 34 i 35 otrzymują brzmienie: „§ 34. Użyte w rozdziale 8 kodeksu określenia, a w szczególności: „działalność kantorowa”, „indywidualne zezwolenie dewizowe”, „jednostki uczestnictwa w funduszu zbiorowego inwestowania”, „kontrola”, „kraj”, „kraje trzecie”, „krajowe środki płatnicze”, „nierezydent”, „nierezydent z kraju trzeciego”, „obrót dewizowy”, „obrót dewizowy z zagranicą”, „papiery wartościowe”, „rezydent”, „uprawniony bank”, „wartości dewizowe”, „waluta polska”, „waluta wymienialna”, „zagraniczne środki płatnicze”, „zezwolenie dewizowe”, mają znaczenie nadane im w ustawie z dnia 27 lipca 2002 r. Prawo dewizowe (Dz.U. Nr 141, poz. 1178, z 2003 r. Nr 228, poz.
 
-§ 35. Użyte w rozdziale 9 kodeksu określenia, a w szczególności: Ńgra bingo fantowe”, Ńgra losowa”, Ńgra na automacie”, Ńgra na automacie o niskich wygranych”, Ńloteria audioteksowa”, Ńloteria fantowa”, Ńloteria promocyjna”, Ńzakłady wzajemne”, Ńzezwolenie”, mają znaczenie nadane im w ustawie z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U. z 2004 r. 4, poz. 27 i 273, poz. 2703 oraz z 2005 r. 132, poz. 1111).”,
+§ 35. Użyte w rozdziale 9 kodeksu określenia, a w szczególności: „gra bingo fantowe”, „gra losowa”, „gra na automacie”, „gra na automacie o niskich wygranych”, „loteria audioteksowa”, „loteria fantowa”, „loteria promocyjna”, „zakłady wzajemne”, „zezwolenie”, mają znaczenie nadane im w ustawie z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz.U. z 2004 r. Nr 4, poz. 27 i Nr 273, poz. 2703 oraz z 2005 r. Nr 132, poz. 1111).”,
 
-- **i)** § 37—39 otrzymują brzmienie: Ń§ 37. Finansowy organ postępowania przygotowawczego jest to:
+- **i)** § 37-39 otrzymują brzmienie: „§ 37. Finansowy organ postępowania przygotowawczego jest to:
 - **1)** urząd skarbowy,
 - **2)** inspektor kontroli skarbowej,
 - **3)** urząd celny.
@@ -144,79 +143,79 @@ domain: null
 - **1)** Straż Graniczna,
 - **2)** Policja,
 - **3)** Agencja Bezpieczeństwa Wewnętrznego,
-- **4)** ˚andarmeria Wojskowa.
+- **4)** Żandarmeria Wojskowa.
 
 § 39. Organ nadrzędny nad finansowym organem postępowania przygotowawczego jest to:
 
-- **1)** miejscowo właściwa izba celna w sprawach należących do właściwości urzędu celnego,
-- **2)** miejscowo właściwa izba skarbowa w sprawach należących do właściwości urzędu skarbowego, a jeżeli postępowanie przygotowawcze prowadzi inspektor kontroli skarbowej Generalny Inspektor Kontroli Skarbowej,
+- **1)** miejscowo wł aściwa izba celna - w sprawach należących do właściwości urzędu celnego,
+- **2)** miejscowo właściwa izba skarbowa - w sprawach należących do właściwości urzędu skarbowego, a jeżeli postępowanie przygotowawcze prowadzi inspektor kontroli skarbowej - Generalny Inspektor Kontroli Skarbowej,
 - **3)** minister właściwy do spraw finansów publicznych, jeżeli postanowienie lub zarządzenie wydał finansowy organ nadrzędny określony w pkt 1 i 2.”,
-    - **j)** po § 39 dodaje się § 39a w brzmieniu: Ń§ 39a. Organem nadrzędnym nad niefinansowymi organami postępowania przygotowawczego określonymi w § 38 pkt 1—3 jest prokurator, anad niefinansowym organem postępowania przygotowawczego określonym w § 38 pkt 4 prokurator wojskowy.”;
+    - **j)** po § 39 dodaje się § 39a w brzmieniu: przygotowawczego określonymi w § 38 pkt 1-3 jest prokurator, a nad niefinansowym organem postępowania przygotowawczego określonym w § 38 pkt 4 - prokurator wojskowy.”;
 
-- **42)** w art. 54 § 1 otrzymuje brzmienie: Ń§ 1. Podatnik, który uchylając się od opodatkowania, nie ujawnia właściwemu organowi lub nie składa deklaracji, przez co naraża podatek na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”,
-- **43)** w art. 55 § 1 otrzymuje brzmienie: Ń§ 1. Podatnik, który wcelu zatajenia prowadzenia działalności gospodarczej na własny rachunek lub rzeczywistych rozmiarów tej działalności, posługuje się imieniem i nazwiskiem, nazwą lub firmą innego podmiotu i przez to naraża podatek na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.”;
-- **44)** w art. 56 § 1 otrzymuje brzmienie: Ń§ 1. Podatnik, który składając organowi podatkowemu, innemu uprawnionemu organowi lub płatnikowi deklarację lub oświadczenie, poprzedmiotu lub podstawy opodatkowania daje nieprawdę lub zataja prawdę albo nie dopełnia obowiązku zawiadomienia o zmianie objętych nimi danych, przez co naraża podatek na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”;
-- **45)** w art. 57 § 2 otrzymuje brzmienie: Ń§ 2. Sąd może odstąpić od wymierzenia kary, jeżeli przed wszczęciem postępowania wsprawie owykroczenie skarbowe określone w§ 1 wpłacono wcałości należny podatek na rzecz właściwego organu.”;
+- **42)** w art. 54 § 1 otrzymuje brzmienie: „§ 1. Podatnik, który uchylając się od opodatkowania, nie ujawnia właściwemu organowi przedmiotu lub podstawy opodatkowania lub nie składa deklaracji, przez co naraża podatek na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”,
+- **43)** w art. 55 § 1 otrzymuje brzmienie: „§ 1. Podatnik, który w celu zatajenia prowadzenia działalności gospodarczej na własny rachunek lub rzeczywistych rozmiarów tej działalności, posługuje się imieniem i nazwiskiem, nazwą lub firmą innego podmiotu i przez to naraża podatek na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.”;
+- **44)** w art. 56 § 1 otrzymuje brzmienie: „§ 1. Podatnik, który składając organowi podatkowemu, innemu uprawnionemu organowi lub płatnikowi deklarację lub oświadczenie, podaje nieprawdę lub zataja prawdę albo nie dopełnia obowiązku zawiadomienia o zmianie objętych nimi danych, przez co naraża podatek na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”;
+- **45)** w art. 57 § 2 otrzymuje brzmienie: „§ 2. Sąd może odstąpić od wymierzenia kary, jeżeli przed wszczęciem postępowania w sprawie o wykroczenie skarbowe określone w § 1 wpłacono w całości należny podatek na rzecz właściwego organu.”;
 - **46)** w art. 58:
     - **a)** uchyla się § 1,
-    - **b)** § 4 otrzymuje brzmienie: Ń§ 4. Jeżeli kwota uszczuplonej opłaty skarbowej albo wartość użytego skasowanego znaku tej opłaty nie przekracza ustawowego progu, sprawca czynu zabronionego określonego w § 2 lub 3 podlega karze grzywny za wykroczenie skarbowe.”;
+    - **b)** § 4 otrzymuje brzmienie: „§ 4. Jeżeli kwota uszczuplonej opłaty skarbowej albo wartość użytego skasowanego znaku tej opłaty nie przekracza ustawowego progu, sprawca czynu zabronionego określonego w § 2 lub 3 podlega karze grzywny za wykroczenie skarbowe.”;
 
-- **47)** art. 59 otrzymuje brzmienie: ŃArt. 59. § 1. Kto w celu użycia w obrocie publicznym podrabia albo przerabia znak urzędowy mający stwierdzić uiszczenie opłaty skarbowej albo takiego znaku jako autentycznego używa, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+- **47)** art. 59 otrzymuje brzmienie: „Art. 59. § 1. Kto w celu użycia w obrocie publicznym podrabia albo przerabia znak urzędowy mający stwierdzić uiszczenie opłaty skarbowej albo takiego znaku jako autentycznego używa, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
 
-§ 2. Tej samej karze podlega ten, kto wobrocie publicznym podrobiony albo przerobiony znak urzędowy mający stwierdzić uiszczenie opłaty skarbowej puszcza w obieg, nabywa lub go używa albo przechowuje wcelu puszczenia wobieg.
+§ 2. Tej samej karze podlega ten, kto w obrocie publicznym podrobiony albo przerobiony znak urzędowy mający stwierdzić uiszczenie przechowuje w celu puszczenia w obieg.
 
 § 3. Karze określonej w § 1, podlega także ten, kto używa w obrocie dokumentu opatrzonego takim podrobionym lub przerobionym znakiem.
 
-§ 4. Wwypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1—3 podlega karze grzywny za wykroczenie skarbowe.”;
+§ 4. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1-3 podlega karze grzywny za wykroczenie skarbowe.”;
 
-- **48)** w art. 60 § 2—4 otrzymują brzmienie: Ń§ 2. Kto wbrew obowiązkowi nie przechowuje księgi w miejscu wykonywania działalności lub w miejscu wskazanym przez podatnika jako jego siedziba, przedstawicielstwo lub oddział, a jeżeli prowadzenie księgi zostało zlecone biuru rachunkowemu lub innemu uprawnionemu podmiotowi w miejscu określonym w umowie z biurem rachunkowym lub w miejscu wskazanym przez kierownika jednostki, podlega karze grzywny do 240 stawek dziennych.
+- **48)** w art. 60 § 2-4 otrzymują brzmienie: „§ 2. Kto wbrew obowiązkowi nie przechowuje księgi w miejscu wykonywania działalności lub w miejscu wskazanym przez podatnika jako jego siedziba, przedstawicielstwo lub oddział, a jeżeli prowadzenie księgi zostało zlecone biuru rachunkowemu lub innemu uprawnionemu podmiotowi - w miejscu określonym w umowie z biurem rachunkowym lub w miejscu wskazanym przez kierownika jednostki, podlega karze grzywny do 240 stawek dziennych.
 
-§ 3. Karze określonej w§ 2 podlega także ten podatnik lub płatnik, który nie zawiadamia w terminie właściwego organu o prowadzeniu księgi przez doradcę podatkowego, lub inny podmiot upoważniony do prowadzenia ksiąg w jego imieniu i na jego rzecz.
+§ 3. Karze określonej w § 2 podlega także ten podatnik lub płatnik, który nie zawiadamia w terminie właściwego organu o prowadzeniu księgi przez doradcę podatkowego, lub inny podmiot upoważniony do prowadzenia ksiąg w jego imieniu i na jego rzecz.
 
-§ 4. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1—3 podlega karze grzywny za wykroczenie skarbowe.”;
+§ 4. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1-3 podlega karze grzywny za wykroczenie skarbowe.”;
 
 - **49)** w art. 62:
-    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Kto wbrew obowiązkowi nie wystawia faktury lub rachunku za wykonanie świadczenia, wystawia je w sposób wadliwy albo odmawia ich wydania, podlega karze grzywny do 180 stawek dziennych.”,
-    - **b)** § 3 otrzymuje brzmienie: Ń§ 3. Karze określonej w § 1 podlega także ten, kto wbrew obowiązkowi nie przechowuje wystawionej lub otrzymanej faktury lub rachunku, bądê dowodu zakupu towarów.”;
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Kto wbrew obowiązkowi nie wystawia faktury lub rachunku za wykonanie świadczenia, wystawia je w sposób wadliwy albo odmawia ich wydania, podlega karze grzywny do 180 stawek dziennych.”,
+    - **b)** § 3 otrzymuje brzmienie: „§ 3. Karze określonej w § 1 podlega także ten, kto wbrew obowiązkowi nie przechowuje wystawionej lub otrzymanej faktury lub rachunku, bądź dowodu zakupu towarów.”;
 
-- **50)** w art. 64 § 1 otrzymuje brzmienie: Ń§ 1. Producent, który wydaje wyroby akcyzowe lub opakowania z tymi wyrobami przeznaczone do wywozu za granicę bez pisemnego zawiadomienia wterminie właściwego organu o zamiarze ich wywozu, podlega karze grzywny do 720 stawek
-- **51)** w art. 65 § 1 i 2 otrzymują brzmienie: Ń§ 1. Kto nabywa, przechowuje, przewozi, przesyła lub przenosi wyroby akcyzowe lub opakowania z tymi wyrobami stanowiące przedmiot czynu zabronionego określonego w art.63 lub 64, lub pomaga w ich zbyciu albo te wyroby lub opakowania z tymi wyrobami przyjmuje lub pomaga wich ukryciu, jeżeli ich rodzaj, ilość lub wartość wskazują na zamiar wprowadzenia do obrotu, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
+- **50)** w art. 64 § 1 otrzymuje brzmienie: „§ 1. Producent, który wydaje wyroby akcyzowe lub opakowania z tymi wyrobami przeznaczone do wywozu za granicę bez pisemnego zawiadomienia w terminie właściwego organu o zamiarze ich wywozu, podlega karze grzywny do 720 stawek dziennych.”;
+- **51)** w art. 65 § 1 i 2 otrzymują brzmienie: „§ 1. Kto nabywa, przechowuje, przewozi, przesyła lub przenosi wyroby akcyzowe lub opakowania z tymi wyrobami stanowiące przedmiot czynu zabronionego określonego w art. 63 lub 64, lub pomaga w ich zbyciu albo te wyroby lub opakowania z tymi wyrobami przyjmuje lub pomaga w wadzenia do obrotu, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
 
-§ 2. Kto nabywa, przechowuje, przewozi, przesyła lub przenosi wyroby akcyzowe, o których na podstawie towarzyszących okoliczności powinien i może przypuszczać, że stanowią przedmiot czynu zabronionego określonego wart. 63 lub 64, lub pomaga wich zbyciu albo te wyroby lub opakowania ztymi wyrobami przyjmuje lub pomaga w ich ukryciu, jeżeli ich rodzaj, ilość lub wartość wskazują na zamiar wprowadzenia do obrotu, podlega karze grzywny do 720 stawek dziennych.”;
+§ 2. Kto nabywa, przechowuje, przewozi, przesyła lub przenosi wyroby akcyzowe, o których na podstawie towarzyszących okoliczności powinien i może przypuszczać, że stanowią przedmiot czynu zabronionego określonego w art. 63 lub 64, lub pomaga w ich zbyciu albo te wyroby lub opakowania z tymi wyrobami przyjmuje lub pomaga w ich ukryciu, jeżeli ich rodzaj, ilość lub wartość wskazują na zamiar wprowadzenia do obrotu, podlega karze grzywny do 720 stawek dziennych.”;
 
-- **52)** w art. 66 § 1 otrzymuje brzmienie: Ń§ 1. Kto wyroby akcyzowe lub opakowania ztymi wyrobami oznacza nieprawidłowo lub nieodpowiednimi znakami akcyzy, wszczególności znakami uszkodzonymi, podrobionymi, przerobionymi lub nieważnymi, podlega karze grzywny do 720 stawek dziennych.”;
-- **53)** w art. 67 § 1—3 otrzymują brzmienie: Ń§ 1. Kto podrabia albo przerabia znak akcyzy albo upoważnienie do odbioru banderol, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.
+- **52)** w art. 66 § 1 otrzymuje brzmienie: „§ 1. Kto wyroby akcyzowe lub opakowania z tymi wyrobami oznacza nieprawidłowo lub nieodpowiednimi znakami akcyzy, w szczególności znakami uszkodzonymi, podrobionymi, przerobionymi lub nieważnymi, podlega karze grzywny do 720 stawek dziennych.”;
+- **53)** w art. 67 § 1-3 otrzymują brzmienie: „§ 1. Kto podrabia albo przerabia znak akcyzy albo upoważnienie do odbioru banderol, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.
 
-§ 2. Kto w celu popełnienia przestępstwa skarbowego określonego w§ 1 uzyskuje lub przysposabia środki, podlega karze grzywny do 240stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+§ 2. Kto w celu popełnienia przestępstwa skarbowego określonego w § 1 uzyskuje lub przysposabia środki, podlega karze grzywny do 240 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
 
 § 3. Nie podlega karze za przestępstwo skarbowe określone w § 2 sprawca, który odstąpił od jego dokonania, w szczególności zniszczył uzyskane lub przysposobione środki lub zapobiegł skorzystaniu z nich w przyszłości.”;
 
-- **54)** w art. 68 w § 1 pkt 2 otrzymuje brzmienie: Ń2) wystąpienia w obrocie wyrobów nieoznaczonych, oznaczonych nieprawidłowo lub nieodpowiednimi znakami akcyzy, w szczególności dziennych.”; znakami uszkodzonymi, podrobionymi, przerobionymi lub nieważnymi,”;
+- **54)** w art. 68 w § 1 pkt 2 otrzymuje brzmienie: „2) wystąpienia w obrocie wyrobów nieoznaczonych, oznaczonych nieprawidłowo lub nieodpowiednimi znakami akcyzy, w szczególności znakami uszkodzonymi, podrobionymi, przerobionymi lub nieważnymi,”;
 - **55)** w art. 70:
-    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Kto wbrew przepisom ustawy zbywa lub w inny sposób przekazuje znaki akcyzy osobie nieuprawnionej, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”,
-    - **b)** § 4 otrzymuje brzmienie: Ń§ 4. Karze określonej w § 1 podlega także ten, kto, nie będąc do tego uprawnionym, posiada, przechowuje, przewozi, przesyła lub przenosi znaki akcyzy.”;
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Kto wbrew przepisom ustawy zbywa lub w inny sposób przekazuje znaki akcyzy osobie nieuprawnionej, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”,
+    - **b)** § 4 otrzymuje brzmienie: „§ 4. Karze określonej w § 1 podlega także ten, kto, nie będąc do tego uprawnionym, posiada, przechowuje, przewozi, przesyła lub przenosi znaki akcyzy.”;
 
-- **56)** dodaje się art. 73a w brzmieniu: ŃArt. 73a. § 1. Kto w użyciu wyrobu akcyzowego zmienia jego przeznaczenie, wszczególności używa oleju opałowego jako oleju napędowego, przez co naraża podatek akcyzowy na uszczuplenie, podlega karze grzywny do 720stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+- **56)** dodaje się art. 73a w brzmieniu: szczególności używa oleju opałowego jako oleju napędowego, przez co naraża podatek akcyzowy na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
 
-§ 2. Jeżeli kwota narażonego na uszczuplenie podatku akcyzowego jest małej wartości, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny do 720 stawek dziennych.
+§ 2. Jeżeli kwota nara¿onego na uszczuplenie podatku akcyzowego jest małej wartości, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny do 720 stawek dziennych.
 
-§ 3. Jeżeli kwota narażonego na uszczuplenie podatku akcyzowego nie przekracza ustawowego progu, sprawca czynu zabronionego określonego w§ 1 podlega karze grzywny za wykroczenie skarbowe.”;
+§ 3. Jeżeli kwota nara¿onego na uszczuplenie podatku akcyzowego nie przekracza ustawowego progu, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.”;
 
-- **57)** w art. 74 § 1 otrzymuje brzmienie: Ń§ 1. Producent, importer lub inny podmiot, który wbrew obowiązkowi nie prowadzi ewidencji znaków akcyzy lub jej nie przechowuje, podlega karze grzywny do 240 stawek dziennych.”;
-- **58)** art. 75 otrzymuje brzmienie: ŃArt. 75. Importer, podmiot dokonujący nabycia wewnątrzwspólnotowego oraz przedstawiciel podatkowy, który nie dopełnia obowiązku uzyskania od podmiotu mającego siedzibę poza terytorium kraju rozliczenia z przekazanych mu znaków akcyzy, podlega karze grzywny do 180 stawek dziennych.”;
-- **59)** art. 76 otrzymuje brzmienie: ŃArt. 76. § 1. Kto przez podanie danych niezgodtajenie rzeczywistego stanu rzeczy wprowadza w błąd właściwy organ narażając na nienależny zwrot podatkowej należności publicznoprawnej, w szczególności podatku naliczonego wrozumieniu przepisów opodatku od towarów i usług, podatku akcyzowym, zwrot nadpłaty lub jej zaliczenie na poczet zaległości podatkowej lub bieżących albo przyszłych zobowiązań podatkowych, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.
+- **57)** w art. 74 § 1 otrzymuje brzmienie: „§ 1. Producent, importer lub inny podmiot, który wbrew obowiązkowi nie prowadzi ewidencji znaków akcyzy lub jej nie przechowuje, podlega karze grzywny do 240 stawek dziennych.”;
+- **58)** art. 75 otrzymuje brzmienie: „Art. 75. Importer, podmiot dokonujący nabycia wewnątrzwspólnotowego oraz przedstawiciel podatkowy, który niedopełnia obowiązku uzyskania od podmiotu mającego siedzibę poza terytorium kraju rozliczenia z przekazanych mu znaków akcyzy, podlega karze grzywny do 180 stawek dziennych.”;
+- **59)** art. 76 otrzymuje brzmienie: „Art. 76. § 1. Kto przez podanie danych niezgodnych ze stanem rzeczywistym lub zatajenie rzeczywistego stanu rzeczy wprowadza w błąd właściwy organ narażając na nienależny zwrot podatkowej należności publicznoprawnej, w szczególności podatku naliczonego w rozumieniu przepisów o podatku od towarów i usług, podatku akcyzowym, zwrot nadpłaty lub jej zaliczenie na poczet zaległości podatkowej lub bieżących albo przyszłych zobowiązań podatkowych, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.
 
 § 2. Jeżeli kwota narażona na nienależny zwrot podatku jest małej wartości, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny do 720 stawek dziennych.
 
 § 3. Jeżeli kwota narażona na nienależny zwrot podatku nie przekracza ustawowego progu, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.”;
 
 - **60)** w art. 77:
-    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Płatnik lub inkasent, który pobranego podatku nie wpłaca w terminie na rzecz właściwego organu, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.”,
-    - **b)** § 4 i 5 otrzymują brzmienie: Ń§ 4. Sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od wymierzenia kary lub środka karnego, jeżeli przed wszczęciem postępowania w sprawie o przestępstwo skarbowe określone w § 1 lub 2 wpłacono w całości pobrany podatek na rzecz właściwego organu.
+    - **a)** § 1 otrzymuje brzmienie: na rzecz właściwego organu, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.”,
+    - **b)** § 4 i 5 otrzymują brzmienie: „§ 4. Sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od wymierzenia kary lub środka karnego, jeżeli przed wszczęciem postępowania w sprawie o przestępstwo skarbowe określone w § 1 lub 2 wpłacono w całości pobrany podatek na rzecz właściwego organu.
 
 § 5. Sąd może odstąpić od wymierzenia kary, jeżeli przed wszczęciem postępowania w sprawie o wykroczenie skarbowe określone w § 3 wpłacono w całości pobrany podatek na rzecz właściwego organu.”;
 
-- **61)** art. 78 i 79 otrzymują brzmienie: ŃArt. 78. § 1. Płatnik, który nie pobiera podatku albo pobiera go w kwocie niższej od należnej, podlega karze grzywny do 720 stawek dziennych albo karze pozbanych ze stanem rzeczywistym lub zawienia wolności do lat 2, albo obu tym karom łącznie.
+- **61)** art. 78 i 79 otrzymują brzmienie: „Art. 78. § 1. Płatnik, który nie pobiera podatku albo pobiera go w kwocie niższej od należnej, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
 
 § 2. Jeżeli kwota niepobranego podatku jest małej wartości, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny do 720 stawek dziennych.
 
@@ -228,15 +227,14 @@ domain: null
 
 § 2. Tej samej karze podlega płatnik, który nie składa w terminie deklaracji.”;
 
-- **62)** po art. 80 dodaje się art. 80a w brzmieniu: ŃArt. 80a. § 1. Kto w informacji podsumowującej podaje nieprawdę lub zataja prawdę, podlega karze grzywny do 240 stawek dziennych.
+- **62)** po art. 80 dodaje się art. 80a w brzmieniu: „Art. 80a. § 1. Kto w informacji podsumowującej podaje nieprawdę lub zataja prawdę, podlega karze grzywny do 240 stawek dziennych.
 
-§ 2. Kto, wbrew obowiązkowi, nie składa wterminie właściwemu organowi informacji podsumowującej, podlega karze grzywny za wykroczenie skarbowe.”;
+§ 2. Kto, wbrew obowiązkowi, nie składa w terminie właściwemu organowi informacji podsumowującej, podlega karze grzywny za wykroczenie skarbowe.”;
 
-- **63)** w art. 81 w § 1 pkt 1 otrzymuje brzmienie: Ń1) nie dokonuje wterminie zgłoszenia identyfikacyjnego albo aktualizacji objętych nim danych albo też podaje w nim dane niezgodne ze stanem rzeczywistym lub niepełne,”;
-- **64)** w art. 82 uchyla się § 3;
-- **65)** art. 83 i 84 otrzymują brzmienie: ŃArt. 83. § 1. Kto osobie uprawnionej do przeprowadzenia czynności sprawdzających, kontroli podatkowej, kontroli skarbowej lub czynności kontrolnych w zakresie szczególnego nadzoru podatkowego udaremnia lub utrudnia wykonanie czynności służbowej, w szczególności kto wbrew żądaniu tej osoby nie okazuje księgi lub innego dokumentu dotyczącego prowaksięgę lub inny dokument niszczy, uszkadza, czyni bezużytecznymi, ukrywa lub usuwa, podlegakarze grzywny do 720 stawek dziennych.
+- **63)** w art. 81 w § 1 pkt 1 otrzymuje brzmienie: „1) nie dokonuje w terminie zgłoszenia identyfikacyjnego albo aktualizacji objętych nim danych albo też podaje w nim dane niezgodne ze stanem rzeczywistym lub niepełne,”;
+- **64)** w art. 82 uchyla się § 3; „Art. 83. § 1. Kto osobie uprawnionej do przeprowadzenia czynności sprawdzających, kontroli podatkowej, kontroli skarbowej lub czynności kontrolnych w zakresie szczególnego nadzoru podatkowego udaremnia lub utrudnia wykonanie czynności służbowej, w szczególności kto wbrew żądaniu tej osoby nie okazuje księgi lub innego dokumentu dotyczącego prowadzonej działalności gospodarczej lub księgę lub inny dokument niszczy, uszkadza, czyni bezużytecznymi, ukrywa lub usuwa, podlega karze grzywny do 720 stawek dziennych.
 
-§ 2. Wwypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
+§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
 
 **Art. 84.**
 
@@ -245,86 +243,89 @@ domain: null
 § 2. Przepisu § 1 nie stosuje się, jeżeli czyn sprawcy wyczerpuje znamiona innego przestępstwa skarbowego lub wykroczenia skarbowego określonego w tym rozdziale albo jeżeli niedopełnienie obowiązku nadzoru należy do ich znamion.”;
 
 - **66)** w art. 86:
-    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Kto, nie dopełniając ciążącego na nim obowiązku celnego, przywozi z zagranicy lub wywozi za granicę towar bez jego przedstawienia organowi celnemu lub zgłoszenia celnego, przez co naraża należność celną na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”,
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Kto, nie dopełniając ciążącego na nim obowiązku celnego, przywozi z zagranicy lub wywozi za granicę towar bez jego przedstawienia organowi celnemu lub zgłoszenia celnego, przez co naraża należność celną na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”,
     - **b)** uchyla się § 5;
 
-- **67)** w art. 87 § 1 otrzymuje brzmienie: Ń§ 1. Kto przez wprowadzenie w błąd organu uprawnionego do kontroli celnej naraża należność celną na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”;
-- **68)** w art. 90 § 1 i 2 otrzymują brzmienie: Ń§ 1. Kto usuwa towar lub środek przewozowy spod dozoru celnego, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia woldzonej działalności gospodarczej lub ności do lat 3, albo obu tym karom łącznie.
+- **67)** w art. 87 § 1 otrzymuje brzmienie: „§ 1. Kto przez wprowadzenie w błąd organu uprawnionego do kontroli celnej naraża należność celną na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”;
+- **68)** w art. 90 § 1 i 2 otrzymują brzmienie: „§ 1. Kto usuwa towar lub środek przewozowy spod dozoru celnego, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
 
 § 2. Tej samej karze podlega, kto bez zgody uprawnionego organu niszczy, uszkadza lub usuwa zamknięcie celne.”;
 
-- **69)** w art. 91 § 1 i 2 otrzymują brzmienie: Ń§ 1. Kto nabywa, przechowuje, przewozi, przesyła lub przenosi towar stanowiący przedmiot czynu zabronionego określonego w art. 86—90 § 1, lub pomaga wjego zbyciu albo ten towar przyjmuje lub pomaga wjego ukryciu, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
+- **69)** w art. 91 § 1 i 2 otrzymują brzmienie: wiący przedmiot czynu zabronionego określonego w art. 86-90 § 1, lub pomaga w jego zbyciu albo ten towar przyjmuje lub pomaga w jego ukryciu, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
 
-§ 2. Kto nabywa, przechowuje, przewozi, przesyła lub przenosi towar, októrym na podstawie towarzyszących okoliczności powinien i może przypuszczać, że stanowi przedmiot czynu zabronionego określonego wart. 86—90 § 1, lub pomaga w jego zbyciu albo ten towar przyjmuje lub pomaga w jego ukryciu, podlega karze grzywny do 720 stawek dziennych.”;
+§ 2. Kto nabywa, przechowuje, przewozi, przesyła lub przenosi towar, o którym na podstawie towarzyszących okoliczności powinien i może przypuszczać, że stanowi przedmiot czynu zabronionego określonego w art. 86-90 § 1, lub pomaga w jego zbyciu albo ten towar przyjmuje lub pomaga w jego ukryciu, podlega karze grzywny do 720 stawek dziennych.”;
 
-- **70)** art. 92 otrzymuje brzmienie: ŃArt. 92. § 1. Kto przez podanie danych niezgodnych ze stanem rzeczywistym lub zatajenie rzeczywistego stanu rzeczy wprowadza w błąd właściwy organ narażając na nienależny zwrot należności celnej lub umorzenie należności celnej należnej do zapłacenia, podlegakarze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.
+- **70)** art. 92 otrzymuje brzmienie: „Art. 92. § 1. Kto przez podanie danych niezgodnych ze stanem rzeczywistym lub zatajenie rzeczywistego stanu rzeczy wprowadza w błąd właściwy organ nara¿ając na nienależny zwrot należności celnej lub umorzenie należności celnej należnej do zapłacenia, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.
 
-§ 2. Jeżeli kwota narażona na nienależny zwrot lub umorzenie należności celnej jest małej wartości, sprawca czynu zabronionego określonego w § 1 podlegakarze grzywny do 720 stawek dziennych.
+§ 2. Jeżeli kwota narażona na nienależny zwrot lub umorzenie należności celnej jest małej wartości, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny do 720 stawek dziennych.
 
-§ 3. Jeżeli kwota narażona na nienależny zwrot lub umorzenie należności celnej nie przekracza ustawowego progu, sprawca czynu zabronionego określonego w § 1 podlegakarze grzywny za wykroczenie skarbowe.”;
+§ 3. Jeżeli kwota narażona na nienależny zwrot lub umorzenie należności celnej nie przekracza ustawowego progu, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.”;
 
-- **71)** w art. 94 dodaje się § 3 w brzmieniu: Ń§ 3. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 lub 2 podlega karze grzywny za wykroczenie skarbowe.”;
-- **72)** art. 96 otrzymuje brzmienie: ŃArt. 96. § 1. Kto, nie dopełniając obowiązku nadzoru nad przestrzeganiem reguł obowiązujących wdziałalności danego przedcyjnej, dopuszcza, chociażby nieumyślnie, do popełnienia czynu zabronionego określonego wtym rozdziale, podlegakarze grzywny za wykroczenie skarbowe.
+- **71)** w art. 94 dodaje się § 3 w brzmieniu: „§ 3. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 lub 2 podlega karze grzywny za wykroczenie skarbowe.”;
+- **72)** art. 96 otrzymuje brzmienie: „Art. 96. § 1. Kto, nie dopełniając obowiązku nadzoru nad przestrzeganiem reguł obowiązujących w działalności danego przedsiębiorcy lub innej jednostki organizacyjnej, dopuszcza, chociażby nieumyślnie, do popełnienia czynu zabronionego określonego w tym rozdziale, podlega karze grzywny za wykroczenie skarbowe.
 
 § 2. Przepisu § 1 nie stosuje się, jeżeli czyn sprawcy wyczerpuje znamiona innego przestępstwa skarbowego lub wykroczenia skarbowego określonego w tym rozdziale albo jeżeli niedopełnienie obowiązku nadzoru należy do ich znamion.”;
 
-- **73)** w art. 97 § 1 otrzymuje brzmienie: Ń§ 1. Kto wyłudza indywidualne zezwolenie dewizowe przez podstępne wprowadzenie wbłąd organu uprawnionego do udzielania takich zezwoleń, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”;
+- **73)** w art. 97 § 1 otrzymuje brzmienie: „§ 1. Kto wyłudza indywidualne zezwolenie dewizowe przez podstępne wprowadzenie w błąd organu uprawnionego do udzielania takich zezwoleń, nia wolności do lat 2, albo obu tym karom łącznie.”;
 - **74)** w art. 99:
-    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Kto bez wymaganego zezwolenia dewizowego albo wbrew jego warunkom wywozi lub wysyła za granicę wartości dewizowe lub krajowe środki płatnicze, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.”,
-    - **b)** dodaje się § 3 w brzmieniu: Ń§ 3. Jeżeli wartość przedmiotu obrotu, o którym mowa w § 1, nie przekracza ustawowego progu, sprawca podlegakarze grzywny za wykroczenie skarbowe.”;
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Kto bez wymaganego zezwolenia dewizowego albo wbrew jego warunkom wywozi lub wysyła za granicę wartości dewizowe lub krajowe środki płatnicze, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.”,
+    - **b)** dodaje się § 3 w brzmieniu: „§ 3. Jeżeli wartość przedmiotu obrotu, o którym mowa w § 1, nie przekracza ustawowego progu, sprawca podlega karze grzywny za wykroczenie skarbowe.”;
 
-- **75)** w art. 101 § 1 otrzymuje brzmienie: Ń§ 1. Nierezydent z kraju trzeciego, który bez wysiębiorcy lub innej jednostki organizamaganego zezwolenia dewizowego albo wbrew jego warunkom nabywa lub zbywa w kraju, zarówno bezpośrednio, jak i za pośrednictwem innych podmiotów, papiery wartościowe, jednostki uczestnictwa w funduszach zbiorowego inwestowania albo wierzytelności lub inne prawa, których wykonywanie wiąże się z dokonywaniem rozliczeń pieniężnych, podlega karze grzywny do 720 stawek dziennych.”;
-- **76)** w art. 106d dotychczasową treść oznacza się jako § 1 oraz dodaje się § 2 w brzmieniu: Ń§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.”;
-- **77)** art. 106j otrzymuje brzmienie: ŃArt. 106j. § 1. Rezydent, który wbrew obowiązkowi dokonuje przekazu pieniężnego za granicę lub rozliczenia w kraju z nierezydentem bez pośrednictwa uprawnionego banku, podlegakarze grzywny do 480 stawek dziennych.
+- **75)** w art. 101 § 1 otrzymuje brzmienie: „§ 1. Nierezydent z kraju trzeciego, który bez wymaganego zezwolenia dewizowego albo wbrew jego warunkom nabywa lub zbywa w kraju, zarówno bezpośrednio, jak i za pośrednictwem innych podmiotów, papiery wartościowe, jednostki uczestnictwa w funduszach zbiorowego inwestowania albo wierzytelności lub inne prawa, których wykonywanie wiąże się z dokonywaniem rozliczeń pieniężnych, podlega karze grzywny do 720 stawek dziennych.”;
+- **76)** w art. 106d dotychczasową treść oznacza się jako § 1 oraz dodaje się § 2 w brzmieniu: „§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.”;
+- **77)** art. 106j otrzymuje brzmienie: „Art. 106j. § 1. Rezydent, który wbrew obowiązkowi dokonuje przekazu pieniężnego za granicę lub rozliczenia w kraju z nierezydentem bez pośrednictwa uprawnionego banku, podlega karze grzywny do 480 stawek dziennych.
 
 § 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.”;
 
-- **78)** w art. 106l dotychczasową treść oznacza się jako § 1 oraz dodaje się § 2 w brzmieniu: Ń§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.”;
-- **79)** art. 106ł otrzymuje brzmienie: ŃArt. 106ł. § 1. Kto, nie dopełniając obowiązku nadzoru nad przestrzeganiem reguł obowiązujących w działalności danego przedsiębiorcy lub innej jednostki organizacyjnej, dopuszcza, chociażby nieumyślnie, do popełnienia czynu zabronionego określonego w tym rozdziale, podlega karze grzywny za wykroczenie skarbowe.
+- **78)** w art. 106l dotychczasową treść oznacza się jako § 1 oraz dodaje się § 2 w brzmieniu: „§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.”;
+- **79)** art. 106ł otrzymuje brzmienie „Art. 106ł. § 1. Kto, nie dopełniając obowiązku nadzoru nad przestrzeganiem reguł obowiązujących w działalności danego przedsiębiorcy umyślnie, do popełnienia czynu zabronionego określonego w tym rozdziale, podlega karze grzywny za wykroczenie skarbowe.
 
 § 2. Przepisu § 1 nie stosuje się, jeżeli czyn sprawcy wyczerpuje znamiona innego przestępstwa skarbowego lub wykroczenia skarbowego określonego w tym rozdziale albo jeżeli niedopełnienie obowiązku nadzoru należy do ich znamion.”;
 
-- **80)** tytuł rozdziału 9 otrzymuje brzmienie: ŃPrzestępstwa skarbowe i wykroczenia skarbowe nionego określonego w § 1 lub 2 w celu osiągnięcia korzyści majątkowej z organizowania zbiorowego uczestnictwa w grze losowej, grze na automacie, grze na automacie o niskich wygranych lub zakładzie wzajemnym, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”;
-- **82)** po art. 107 dodaje się art. 107a w brzmieniu: ŃArt. 107a. § 1. Kto urządza lub prowadzi gry podlegające szczególnemu nadzorowi podatkowemu bez urzędowego sprawdzenia lub bez nałożenia wymaganych urzędowych zabezpieczeń, podlegakarze grzywny do 720 stawek dziennych albo karze pozbaprzeciwko organizacji gier i zakładów wzajemnych”;
+- **80)** tytuł rozdziału 9 otrzymuje brzmienie: „Przestępstwa skarbowe i wykroczenia skarbowe przeciwko organizacji gier i zakładów wzajemnych”;
 - **81)** w art. 107:
-    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Kto wbrew przepisom ustawy lub warunkom zezwolenia urządza lub prowadzi grę losową, grę na automacie, grę na automacie o niskich wygranych lub zakład wzajemny, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.”,
-    - **b)** § 3 otrzymuje brzmienie: Ń§ 3. Jeżeli sprawca dopuszcza się czynu zabrowienia wolności do lat 2, albo obu tym karom łącznie.
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Kto wbrew przepisom ustawy lub warunkom zezwolenia urządza lub prowadzi grę losową, grę na automacie, grę na automacie o niskich wygranych lub zakład wzajemny, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.”,
+    - **b)** § 3 otrzymuje brzmienie: „§ 3. Jeżeli sprawca dopuszcza się czynu zabronionego określonego w § 1 lub 2 w celu osiągnięcia korzyści majątkowej z organizowania zbiorowego uczestnictwa w grze losowej, grze na automacie, grze na automacie o niskich wygranych lub zakładzie wzajemnym, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”;
+
+- **82)** po art. 107 dodaje się art. 107a w brzmieniu: „Art. 107a. § 1. Kto urządza lub prowadzi gry podlegające szczególnemu nadzorowi podatkowemu bez urzędowego sprawdzenia lub bez nałożenia wymaganych urzędowych zabezpieczeń, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
 
 § 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.”;
 
-- **83)** w art. 108 § 2 otrzymuje brzmienie: Ń§ 2. Jeżeli nadwyżka z loterii fantowej, gry bingo fantowe, loterii promocyjnej lub loterii audioteksowej była przeznaczona na cel społecznie użyteczny, w szczególności dobroczynny, sprawca czynu zabronionego określonego w§ 1 podlega karze grzywny do 120 stawek dziennych.”;
-- **84)** art. 111 otrzymuje brzmienie: ŃArt. 111. § 1. Kto, nie dopełniając obowiązku nadzoru nad przestrzeganiem reguł obowiązujących w działalności danego przedsiębiorcy lub innej jednostki organizacyjnej, dopuszcza, chociażby nieumyślnie, do popełnienia czynu zabronionego określonego w tym rozdziale, podlega karze grzywny za wykroczenie skarbowe.
+- **83)** w art. 108 § 2 otrzymuje brzmienie: „§ 2. Jeżeli nadwyżka z loterii fantowej, gry bingo fantowe, loterii promocyjnej lub loterii audioteksowej była przeznaczona na cel społecznie użyteczny, w szczególności dobroczynny, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny do 120 stawek dziennych.”;
+- **84)** art. 111 otrzymuje brzmienie: „Art. 111. § 1. Kto, nie dopełniając obowiązku nadzoru nad przestrzeganiem reguł obowiązujących w działalności danego przedsiębiorcy lub innej jednostki organizacyjnej, dopuszcza, chociażby nieumyśldziale, podlega karze grzywny za wykroczenie skarbowe.
 
 § 2. Przepisu § 1 nie stosuje się, jeżeli czyn sprawcy wyczerpuje znamiona innego przestępstwa skarbowego lub wykroczenia skarbowego określonego w tym rozdziale albo jeżeli niedopełnienie obowiązku nadzoru należy do ich znamion.”;
 
 - **85)** uchyla się rozdział 10;
-- **86)** w art. 113 § 2 i 3 otrzymują brzmienie: Ń§ 2. Nie stosuje się przepisów:
+- **86)** w art. 113 § 2 i 3 otrzymują brzmienie: „§ 2. Nie stosuje się przepisów:
 - **1)** Kodeksu postępowania karnego dotyczących pokrzywdzonego i mediacji,
 - **2)** art. 325f Kodeksu postępowania karnego.
 
-§ 3. Wpostępowaniu wsprawach owykroczenia skarbowe nie stosuje się przepisów:
+§ 3. W postępowaniu w sprawach o wykroczenia skarbowe nie stosuje się przepisów:
 
 - **1)** Kodeksu postępowania karnego dotyczących środków zapobiegawczych, poszukiwania oskarżonego i listu gończego,
-- **2)** art. 18 § 1, art. 325c, 400, 562 § 2 i art. 589a—589f, art. 590—607zc, art. 611g—611s oraz art. 615 Kodeksu postępowania karnego.”;
-- **87)** art. 114 otrzymuje brzmienie: ŃArt. 114. § 1. Przepisy kodeksu mają ponadto na celu takie ukształtowanie postępowania w sprawach o przestępstwa skarbowe i wykroczenia skarbowe, aby osiągnięte zostały cele tego postępowania wzakresie wyrównania uszczerbku finansowego Skarbu Państwa, jednostki samorządu terytorialnego lub innego uprawnionego podmiotu, spowodowanego takim czynem zabronionym.
+- **2)** art. 18 § 1, art. 325c, 400, 562 § 2 i art. 589a-589f, art. 590-607zc, art. 611g-611s oraz art. 615 Kodeksu postępowania karnego.”;
+- **87)** art. 114 otrzymuje brzmienie: „Art. 114. § 1. Przepisy kodeksu mają ponadto na celu takie ukształtowanie postępowania w sprawach o przestępstwa skarbowe i wykroczenia skarbowe, aby osiągnięte zostały cele tego postępowania w zakresie wyrównania uszczerbku finansowego Skarbu Państwa, jednostki samorządu terytorialnego lub innego uprawnionego podmiotu, spowodowanego takim czynem zabronionym.
 
-§ 2. Organ prowadzący postępowanie jest obowiązany także pouczyć sprawcę o przysługujących mu uprawnieniach wrazie wyrównania uszczerbku finansowego Skarbu Państwa, jednostki samorządu terytorialnego lub innego uprawnionego podmiotu.”;
+§ 2. Organ prowadzący postępowanie jest obowiązany także pouczyć sprawcę o przysługujących mu uprawnieniach w razie wyrównania uszczerbku finansowego Skarbu Państwa, jednostki samorządu terytorialnego lub innego uprawnionego podmiotu.”;
 
-- **88)** w art. 115 po § 1 dodaje się § 1a w brzmieniu: Ń§ 1a. Sądy wojskowe orzekają w sprawach o przestępstwa skarbowe i wykroczenia skarbowe osób, o których mowa w art. 53 § 36.”;
+- **88)** w art. 115 po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Sądy wojskowe orzekają w sprawach o przestępstwa skarbowe i wykroczenia skarbowe osób, o których mowa w art. 53 § 36.”;
 - **89)** w art. 116:
-    - **a)** § 2 i 3 otrzymują brzmienie: Ń§ 2. Przepis § 1 nie wyłącza wstosunku do żołnierzy wczynnej służbie wojskowej postępowania mandatowego na zasadach i w trybie określonych w niniejszym kodeksie, ztym że wrazie odmowy przyjęcia mandatu karnego lub nieuiszczenia w terminie kary grzywny nałożonej w drodze mandatu karnego właściwy do rozpoznania sprawy jest wojskowy sąd garnizonowy.
+    - **a)** § 2 i 3 otrzymują brzmienie: „§ 2. Przepis § 1 nie wyłącza w stosunku do żołnierzy w czynnej służbie wojskowej postępowania mandatowego na zasadach i w trybie określonych w niniejszym kodeksie, z tym że w razie odmowy przyjęcia mandatu karnego lub nieuiszczenia w terminie kary grzywny nałożonej w drodze mandatu karnego - właściwy do rozpoznania sprawy jest wojskowy sąd garnizonowy.
 
-§ 3. O popełnieniu przez żołnierza w czynnej służbie wojskowej wykroczenia skarbowego zawiadamia się prokuratora wojskowego. Dotyczy to również wypadku przewiprzyjęcia mandatu karnego lub nieuiszczenia w terminie kary grzywny nałożonej w drodze mandatu karnego.”,
+§ 3. O popełnieniu przez żołnierza w czynnej służbie wojskowej wykroczenia skarbowego zawiadamia się prokuratora wojskowego. Dotyczy to również wypadku przewidzianego w § 2, ale tylko w razie odmowy nałożonej w drodze mandatu karnego.”,
 
-- **b)** § 5 otrzymuje brzmienie: Ń§ 5. Jeżeli przepisy § 1—4 nie stanowią inaczej, postępowanie w sprawach o wykroczenia skarbowe odbywa się według przepisów niniejszego kodeksu, mających zastosowanie wsprawach karnych podlegających orzecznictwu sądów wojskowych, które stosuje się odpowiednio; w szczególności w sprawach o wykroczenia skarbowe stosuje się odpowiednio przepisy Kodeksu postępowania karnego o postępowaniu uproszczonym, z wyjątkiem art. 325b—325d oraz 483.”;
-- **90)** po art. 116 dodaje się art. 116a w brzmieniu: ŃArt. 116a. Jeżeli rozpoznanie sprawy w sądzie miejscowo właściwym nie jest możliwe wczasie zapewniającym uniknięcie przedawnienia karalności przestępstwa skarbowego w terminie określonym wart. 44 § 1 lub 2 albo wykroczenia skarbowego w terminie określonym wart. 51 § 1, uwzględniając wniosek sądu właściwego, sąd okręgowy może przekazać taką sprawę do rozpoznania innemu sądowi równorzędnemu.”;
-- **91)** art. 117 i 118 otrzymują brzmienie: ŃArt. 117. § 1. Orzekanie w sprawach o wykroczenia skarbowe następuje wyłącznie w postępowaniu:
-- **1)** wprzedmiocie udzielenia zezwolenia na dobrowolne poddanie się odpowiedzialności,
+- **b)** § 5 otrzymuje brzmienie: „§ 5. Jeżeli przepisy § 1-4 nie stanowią inaczej, postępowanie w sprawach o wykroczenia skarbowe odbywa się według przepisów niniejszego kodeksu, mających zastosowanie w sprawach karnych podlegających orzecznictwu sądów wojskowych, które stosuje się odpowiednio; w szczególności w sprawach o wykroczenia skarbowe stosuje się odpowiednio przepisy Kodeksu postępowania karnego o postępowaniu uproszczonym, z wyjątkiem art. 325b-325d oraz 483.”;
+- **90)** po art. 116 dodaje się art. 116a w brzmieniu: „Art. 116a. Jeżeli rozpoznanie sprawy w sądzie miejscowo właściwym nie jest możliwe w czasie zapewniającym uniknięcie przedawnienia karalności przestępstwa skarbowego w terminie określonym w art. 44 § 1 lub 2 albo wykroczenia skarbowego w terminie określonym w art. 51 § 1, uwzględniając wniosek sądu właściwego, sąd okręgowy może przekazać taką sprawę do rozpoznania innemu sądowi równorzędnemu.”;
+- **91)** art. 117 i 118 otrzymują brzmienie: „Art. 117. § 1. Orzekanie w sprawach o wykroczenia skarbowe następuje wyłącznie w postępowaniu:
+- **1)** w przedmiocie udzielenia zezwolenia na dobrowolne poddanie się odpowiedzialności,
 - **2)** nakazowym,
 - **3)** uproszczonym,
-- **4)** w stosunku do nieobecnych. dzianego w § 2, ale tylko w razie odmowy § 2. Orzekanie w sprawach o przestępstwa skarbowe następuje także w postępowaniu zwyczajnym, jeżeli prowadzone było śledztwo.
+- **4)** w stosunku do nieobecnych.
 
-§ 3. W wypadkach wskazanych w kodeksie ina zasadach wnim określonych upoważniony organ postępowania przygotowawczego lub jego przedstawiciel może nakładać za wykroczenia skarbowe karę grzywny w drodze mandatu karnego.
+§ 2. Orzekanie w sprawach o przestępstwa skarbowe następuje także w postępowaniu zwyczajnym, jeżeli prowadzone było śledztwo.
+
+§ 3. W wypadkach wskazanych w kodeksie i na zasadach w nim określonych upoważniony organ postępowania przygotowawczego lub jego przedstawiciel może nakładać za wykroczenia skarbowe karę grzywny w drodze mandatu karnego.
 
 **Art. 118.**
 
@@ -335,54 +336,52 @@ domain: null
 - **3)** urząd celny,
 - **4)** Straż Graniczna,
 - **5)** Policja,
-- **6)** ˚andarmeria Wojskowa.
+- **6)** Żandarmeria Wojskowa.
 
-§ 2. Organem postępowania przygotowawczego w sprawach o przestępstwa skarbowe jest także Agencja Bezpieczeństwa Wewnętrznego.
+§ 2. Organem postępowania przygotowawczego w sprawach o przestępstwa skarbowe jest także Agencja Bezpieczeństwa Wewnętrznego. i § 2, wykonują upoważnieni przedstawiciele tych organów.
 
-§ 3. Czynności procesowe organów, o których mowa w § 1 pkt 1, 3—6 i §2, wykonują upoważnieni przedstawiciele tych organów.
+§ 4. W granicach koniecznych do zabezpieczenia śladów i dowodów przestępstwa skarbowego lub wykroczenia skarbowego, niezbędnych czynności procesowych w sprawach, o których mowa w art. 133 § 1 pkt 1, mogą dokonywać także upoważnieni przez urząd celny funkcjonariusze celni pełniący służbę w izbie celnej. Po dokonaniu tych czynności przekazuje się sprawę urzędowi celnemu do dalszego prowadzenia, chyba że za wykroczenie skarbowe nałożono karę grzywny w drodze mandatu karnego, a nie zachodzi potrzeba złożenia do sądu wniosku o orzeczenie przepadku przedmiotów tytułem środka zabezpieczającego.”;
 
-§ 4. Wgranicach koniecznych do zabezpieczenia śladów i dowodów przestępstwa skarbowego lub wykroczenia skarbowego, niezbędnych czynności procesowych w sprawach, o których mowa w art. 133 §1 pkt 1, mogą dokonywać także upoważnieni przez urząd celny funkcjonariusze celni pełniący służbę w izbie celnej. Po dokonaniu tych czynności przekazuje się sprawę urzędowi celnemu do dalszego prowadzenia, chyba że za wykroczenie skarbowe nałożono karę grzywny w drodze mandatu karnego, anie zachodzi potrzeba złożenia do sądu wniosku oorzeczenie przepadku przedmiotów tytułem środka zabezpieczającego.”;
+- **92)** po art. 118 dodaje się art. 118a w brzmieniu: „Art. 118a. § 1. W razie potrzeby dokonania czynności procesowej poza siedzibą organu prowadzącego postępowanie przygotowawcze można zwrócić się do innego organu postępowania przygotowawczego o udzielenie pomocy prawnej.
 
-- **92)** po art. 118 dodaje się art. 118a w brzmieniu: ŃArt. 118a. § 1. W razie potrzeby dokonania czynności procesowej poza siedzibą organu prowadzącego postępowanie przygotowawcze można zwrócić się do innego organu postępowania przygotowawczego o udzielenie pomocy prawnej.
+§ 2. We wniosku o udzielenie pomocy prawnej należy określić czynności, jakie mają być dokonane, oraz wskazać okoliczności wymagające wyjaśnienia. Do wniosku powinny być dołączone niezbędne odpisy akt sprawy. Akta lub odpowiednią ich część przesyła się tylko w razie istotnej potrzeby.
 
-§ 2. We wniosku o udzielenie pomocy prawnej należy określić czynności, jakie mają być dokonane, oraz wskazać okoliczności wymagające wyjaśnienia. Do wniosku powinny być dołączone niezbędne odpisy akt sprawy. Akta lub odpowiednią ich część przesyła się tylko wrazie istotnej potrzeby.
+§ 3. Organ postępowania przygotowawczego wezwany do udzielenia pomocy prawnej powinien niezwłocznie dokonać czynności tak, aby nie zachodziła konieczność ich powtarzania lub uzupełnienia, a także z własnej inicjatywy wykonać inne niezbędne czynności.
 
-§ 3. Organ postępowania przygotowawczego wezwany do udzielenia pomocy prawnej powinien niezwłocznie dokonać czynności tak, aby nie zachodziła konieczność ich powtarzania lub uzupełnienia, atakże zwłasnej inicjatywy wykonać inne niezbędne czynności.
+§ 4. Jeżeli zleconych czynności nie można wykonać w ciągu 30 dni, należy niezwłocznie zawiadomić organ wzywający do udzielenia pomocy prawnej o przyczynie zwłoki, z podaniem terminu wykonania czynności.”;
 
-§ 4. Jeżeli zleconych czynności nie należy niezwłocznie zawiadomić organ wzywający do udzielenia pomocy prawnej o przyczynie zwłoki, zpodaniem terminu wykonania czynności.”;
+- **93)** w art. 119 § 2 otrzymuje brzmienie: „§ 2. W razie prawomocnego orzeczenia przepadku przedmiotów, co do których podmiot określony w § 1 nie zgłosił interwencji we właściwym czasie z przyczyn od siebie niezależnych, odpowiedzialność Skarbu Państwa ocenia się według przepisów o bezpodstawnym wzbogaceniu.”;
+- **94)** tytuł rozdziału 12 otrzymuje brzmienie: „Strony i ich procesowi przedstawiciele”;
+- **95)** w art. 121 § 2 otrzymuje brzmienie: „§ 2. Organy postępowania przygotowawczego określone w art. 133 § 1 i art. 134 § 1 pkt 1 i 2 mają w sprawach o wykroczenia skarbowe uprawnienia do sporządzania i wnoszenia aktu oskarżenia oraz do popierania go przed sądem, a także do występowania w toku całego postępowania, nie wyłączając czynności po uprawomocnieniu się orzeczenia.”;
+- **96)** w art. 122 § 1 i 2 otrzymują brzmienie: jest uprawniony do prowadzenia takiego postępowania, a następnie do wniesienia i popierania aktu oskarżenia przed sądem:
+- **1)** przez wyrażenie „prokurator” w art. 18 § 2, art. 19 § 1 zdanie pierwsze i § 2, art. 20 § 1, art. 23, 46, 71 § 2, art. 87 § 3, art. 93 § 3, art. 100 § 2, art. 135, 158, 160 § 4, art. 192 § 2, art. 215, 218 § 1 zdanie pierwsze, art. 231 § 1, art. 281, 282 § 1 pkt 1, art. 288 § 1, art. 290 § 1, art. 298 § 1, art. 299 § 3, art. 306 § 2 zdanie pierwsze, art. 308 § 1, art. 317 § 2, art. 323 § 1 i 3, art. 324 § 1 i 2, art. 325e § 2 zdanie drugie, art. 327 § 1 i 3, art. 330 § 1 i § 2 zdanie pierwsze, art. 331 § 1, art. 333 § 2, art. 336 § 1 i 3, art. 339 § 1 pkt 1, § 3 pkt 4 i § 5, art. 340 § 2, art. 341 § 1 i 2, art. 343 § 5, art. 345 § 1 i 2, art. 354, art. 359 pkt 1, art. 380, art. 387 § 2, art. 441 § 4, art. 446 § 2, art. 448, 450 § 1, art. 461 § 1, art. 505, art. 526 § 2, art. 527 § 1, art. 530 § 4 i 5, art. 545 § 2, art. 550 § 2, art. 570, 571 § 2 oraz w art. 618 § 1 pkt 2 Kodeksu postępowania karnego rozumie się także „finansowy organ postępowania przygotowawczego”,
+- **2)** przez wyrażenie „prokurator” w art. 15 § 1, art. 48 § 1, art. 156 § 5, art. 179 § 3, art. 306 § 2, art. 325, art. 325e § 2 zdanie pierwsze i § 3, art. 326 § 1-3 oraz w art. 327 § 2 i 3 Kodeksu postępowania karnego rozumie się także „organ nadrzędny nad finansowym organem postępowania przygotowawczego”, z tym że z tytułu sprawowanego nadzoru organ nadrzędny nie może przejąć sprawy do swego prowadzenia,
+- **3)** przez wyrażenie „Prokurator Generalny” w art. 328 Kodeksu postępowania karnego rozumie się także „ministra właściwego do spraw finansów publicznych”, gdy potrzeba uchylenia prawomocnego postanowienia zachodzi w sprawie o wykroczenie skarbowe.
 
-- **93)** w art. 119 § 2 otrzymuje brzmienie: Ń§ 2. W razie prawomocnego orzeczenia przepadku przedmiotów, co do których podmiot określony w § 1 nie zgłosił interwencji we właściwym czasie zprzyczyn od siebie niezależnych, odpowiedzialność Skarbu Państwa ocenia się według przepisów o bezpodstawnym wzbogaceniu.”;
-- **94)** tytuł rozdziału 12 otrzymuje brzmienie: ŃStrony i ich procesowi przedstawiciele”;
-- **95)** w art. 121 § 2 otrzymuje brzmienie: Ń§ 2. Organy postępowania przygotowawczego określone wart. 133 § 1 iart. 134 § 1 pkt 1 i2 można wykonać w ciągu 30 dni, mają w sprawach o wykroczenia skarbowe uprawnienia do sporządzania i wnoszenia aktu oskarżenia oraz do popierania go przed sądem, a także do występowania w toku całego postępowania, nie wyłączając czynności po uprawomocnieniu się orzeczenia.”;
-- **96)** w art. 122 § 1 i 2 otrzymują brzmienie: Ń§ 1. Wsprawach, wktórych finansowy organ postępowania przygotowawczego jest uprawniony do prowadzenia takiego postępowania, a następnie do wniesienia i popierania aktu oskarżenia przed sądem:
-- **1)** przez wyrażenie Ńprokurator” w art. 18 § 2, art. 19 § 1 zdanie pierwsze i § 2, art. 20 § 1, art. 23, 46, 71 § 2, art. 87 § 3, art. 93 § 3, art. 100 § 2, art. 135, 158, 160 § 4, art. 192 § 2, art. 215, 218 § 1 zdanie pierwsze, art. 231 § 1, art. 281, 282 § 1 pkt 1, art. 288 § 1, art. 290 § 1, art. 298 § 1, art. 299 § 3, art. 306 § 2 zdanie pierwsze, art. 308 § 1, art. 317 § 2, art. 323 § 1 i 3, art. 324 § 1 i2, art. 325e§ 2 zdanie drugie, art. 327 § 1 i 3, art. 330 § 1 i § 2 zdanie pierwsze, art. 331 § 1, art. 333 § 2, art. 336 § 1 i 3, art. 339 § 1 pkt 1, § 3 pkt 4 i § 5, art. 340 § 2, art. 341 § 1 i 2, art. 343 § 5, art. 345 § 1 i 2, art. 354, art. 359 pkt 1, art. 380, art. 387 § 2, art. 441 § 4, art. 446 § 2, art. 448, 450 § 1, art. 461 § 1, art. 505, art. 526 § 2, art. 527 § 1, art. 530 § 4 i 5, art. 545 § 2, art. 550 § 2, art. 570, 571 § 2 oraz wart. 618 § 1 pkt 2 Kodeksu postępowania karnego rozumie się także Ńfinansowy organ postępowania przygotowawczego”,
-- **2)** przez wyrażenie Ńprokurator” w art. 15 § 1, art. 48 § 1, art. 156 § 5, art. 179 § 3, art. 306 § 2, art. 325, art. 325e § 2 zdanie pierwsze i § 3, art. 326 § 1—3 oraz w art. 327 § 2 i 3 Kodeksu postępowania karnego rozumie się także Ńorgan nadrzędny nad finansowym organem postępowania przygotowawczego”, z tym że z tytułu sprawowanego nadzoru organ nadrzędny nie może przejąć sprawy do swego prowadzenia,
-- **3)** przez wyrażenie ŃProkurator Generalny” w art. 328 Kodeksu postępowania karnego rozumie się także Ńministra właściwego do spraw finansów publicznych”, gdy potrzeba uchylenia prawomocnego postanowienia zachodzi w sprawie o wykroczenie skarbowe.
+§ 2. Finansowy organ postępowania przygotowawczego może wystąpić z wnioskiem do prokuratora o podjęcie czynności, o których mowa w art. 73 § 2 i 3, art. 180 § 1, art. 202 § 1, art. 203 § 2, art. 214 § 1 i 8, art. 218 § 1 zdanie drugie, art. 220 § 1, art. 226 zdanie drugie, art. 237 § 1 i 2, art. 247 § 1, art. 250 § 2-4, art. 263 § 2, art. 270 § 1 oraz w art. 293 § 1 Kodeksu postępowania karnego. Jeżeli w wypadku, o którym mowa w art. 202 § 1 Kodeksu postępowania karnego, prokurator powołuje biegłych lekarzy psychiatrów, a także w wypadku, o którym mowa w art. 250 § 2 Kodeksu postępowania karnego, prokurator występuje do sądu o zastosowanie tymczasowego aresztowania, z mocy prawa obejmuje postępowanie przygotowawcze nadzorem.”;
 
-§ 2. Finansowy organ postępowania przygotowawczego może wystąpić z wnioskiem do prokuratora o podjęcie czynności, o których mowa w art. 73 § 2 i 3, art. 180 § 1, art. 202 § 1, art. 203 § 2, art. 214 § 1 i 8, art. 218 § 1 zdanie drugie, art. 220 § 1, art. 226 zdanie drugie, art. 237 § 1 i 2, art. 247 § 1, art. 250 § 2—4, art. 263 § 2, art. 270 § 1 oraz wart. 293 § 1 Kodeksu postępowania karnego. Jeżeli w wypadku, o którym mowa wart. 202 § 1 Kodeksu postępowania karnego, prokurator powołuje biegłych lekarzy psychiatrów, a także w wypadku, o którym mowa w art. 250 § 2 Kodeksu postępowania karnego, prokurator występuje do sądu ozastosowanie tymczasowego aresztowania, z mocy prawa obejmuje postępowanie przygotowawcze nadzorem.”;
-
-- **97)** po art. 122 dodaje się art. 122a w brzmieniu: ŃArt. 122a. § 1. W sprawach o wykroczenia skarbowe oskarżony może korzystać z pomocy jednego obrońcy.
+- **97)** po art. 122 dodaje się art. 122a w brzmieniu: „Art. 122a. § 1. W sprawach o wykroczenia skarbowe oskarżony może korzystać z pomocy jednego obrońcy.
 
 § 2. Obrońcą w sprawie o wykroczenie skarbowe może być także radca prawny.”;
 
-- **98)** w art. 124 dodaje się § 5 w brzmieniu: Ń§ 5. Po wniesieniu aktu oskarżenia prezes sądu kieruje sprawę na posiedzenie także wtedy, gdy zachodzi potrzeba rozważenia kwestii pociągnięcia do odpowiedzialności posiłkowej.”;
-- **99)** art. 125 otrzymuje brzmienie: ŃArt. 125. § 1. Do podmiotu pociągniętego do odpowiedzialności posiłkowej oraz jego pełnomocnika stosuje się odpowiednio dotyczące podejrzanego, oskarżonego i obrońcy przepisy: art. 72, 74 § 1, art. 75—79, 81, 84—86, 157 § 1 i2, art. 174—176, 300, 301, 315 § 1, art.316, 321, 323 § 2, art. 334 § 2, art.337, 338 § 1, art. 343 § 5, art. 353 § 2, art. 386, 389 i390, 391 § 2, 431 §2 i 3, art. 434—435, 440, 443, 453 § 3, art. 454 § 1, art. 455, 475, 480, 482 § 1, art. 524 § 3, art. 540 § 2 i 3, art. 542 624 § 1, art. 627, 630, 632—633 oraz art. 636 § 1 Kodeksu postępowania karnego.
+- **98)** w art. 124 dodaje się § 5 w brzmieniu: „§ 5. Po wniesieniu aktu oskarżenia prezes sądu kieruje sprawę na posiedzenie także wtedy, gdy zachodzi potrzeba rozważenia kwestii pociągnięcia do odpowiedzialności posiłkowej.”;
+- **99)** art. 125 otrzymuje brzmienie: oraz jego pełnomocnika stosuje się odpowiednio dotyczące podejrzanego, oskarżonego i obrońcy przepisy: art. 72, 74 § 1, art. 75-79, 81, 84-86, 157 § 1 i 2, art. 174-176, 300, 301, 315 § 1, art. 316, 321, 323 § 2, art. 334 § 2, art. 337, 338 § 1, art. 343 § 5, art. 353 § 2, art. 386, 389 i 390, 391 § 2, 431 § 2 i 3, art. 434-435, 440, 443, 453 § 3, art. 454 § 1, art. 455, 475, 480, 482 § 1, art. 524 § 3, art. 540 § 2 i 3, art. 542 § 2, art. 545 § 1, art. 547 § 3, art. 548, 624 § 1, art. 627, 630, 632-633 oraz art. 636 § 1 Kodeksu postępowania karnego.
 
-§ 2. Do osób najbliższych podmiotu pociągniętego do odpowiedzialności posiłkowej będącego osobą fizyczną stosuje się odpowiednio art.182, 185 i 186 Kodeksu postępowania karnego.
+§ 2. Do osób najbliższych podmiotu pociągniętego do odpowiedzialności posiłkowej będącego osobą fizyczną stosuje się odpowiednio art. 182, 185 i 186 Kodeksu postępowania karnego.
 
-§ 3. Od chwili wydania postanowienia, októrym mowa wart. 124 § 1, podmiot pociągnięty do odpowiedzialności posiłkowej może być w tym charakterze wezwany do udziału w czynnościach procesowych.
+§ 3. Od chwili wydania postanowienia, o którym mowa w art. 124 § 1, podmiot pociągnięty do odpowiedzialności posiłkowej może być w tym charakterze wezwany do udziału w czynnościach procesowych.
 
-§ 4. Podmiot pociągnięty do odpowiedzialności posiłkowej nie może być przesłuchany w charakterze świadka, także wwypadku, gdy jest interwenientem lub podmiotem obowiązanym do zwrotu korzyści majątkowej, o którym mowa w art. 24 § 5.
+§ 4. Podmiot pociągnięty do odpowiedzialności posiłkowej nie może być przesłuchany w charakterze świadka, także w wypadku, gdy jest interwenientem lub podmiotem obowiązanym do zwrotu korzyści majątkowej, o którym mowa w art. 24 § 5.
 
-§ 5. Do podmiotu, który uzyskał korzyść majątkową, przepisy art. 333 § 4, 370 § 1, art. 416, art. 422 § 1 i art. 444 Kodeksu postępowania karnego stosuje się odpowiednio, z tym że przez wyrażenie Ńprokurator” należy rozumieć także Ńfinansowy organ postępowania przygotowawczego”.”;
+§ 5. Do podmiotu, który uzyskał korzyść majątkową, przepisy art. 333 § 4, 370 § 1, art. 416, art. 422 § 1 i art. 444 Kodeksu postępowania karnego stosuje się odpowiednio, z tym że przez wyrażenie „prokurator” należy rozumieć także „finansowy organ postępowania przygotowawczego”.”;
 
-- **100)** w art. 126 § 2 otrzymuje brzmienie: Ń§ 2. Jeżeli interwenient w zgłoszeniu nie podał miejsca swego zamieszkania, pobytu lub siedziby lub podał co do tego nieprawdziwe dane, zgłoszenie jest bezskuteczne.”;
+- **100)** w art. 126 § 2 otrzymuje brzmienie: „§ 2. Jeżeli interwenient w zgłoszeniu nie podał miejsca swego zamieszkania, pobytu lub siedziby lub podał co do tego nieprawdziwe dane, zgłoszenie jest bezskuteczne.”;
 - **101)** w art. 128:
-    - **a)** § 1 otrzymuje brzmienie: §2, art. 545 § 1, art. 547 § 3, art. 548, Ń§ 1. Do interwenienta oraz jego pełnomocnika stosuje się odpowiednio przepisy art.232 § 3, art. 305 § 4, art. 315 § 1, art.316 § 1, art. 318, 321, 323 § 2, art. 334 § 2, art. 338 § 1, art. 343 § 5, art. 475, 482 § 1 zdanie pierwsze, art. 549 oraz 550 § 2 Kodeksu postępowania karnego.”,
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Do interwenienta oraz jego pełnomocnika stosuje się odpowiednio przepisy art. 232 § 3, art. 305 § 4, art. 315 § 1, art. 316 § 1, art. 318, 321, 323 § 2, art. 334 § 2, art. 338 § 1, art. 343 § 5, art. 475, 482 § 1 zdanie pierwsze, art. 549 oraz 550 § 2 Kodeksu postępowania karnego.”,
     - **b)** uchyla się § 4;
 
-- **102)** użyty w art. 129, 130, 147 oraz art. 181 § 1 w różnych przypadkach wyraz Ńdochodzenie” zastępuje się użytymi w odpowiednich przypadkach wyrazami Ńpostępowanie przygotowawcze”;
-- **103)** art. 131 i 132 otrzymują brzmienie: ŃArt. 131. § 1. W razie popełnienia przestępstwa skarbowego lub wykroczenia skarbowego zabezpieczyć można także środek karny przepadku przedmiotów lub ściągnięcia ich równowartości pieniężnej oraz uiszczenie należności publicznoprawnej uszczuplonej czynem zabronionym.
+- **102)** użyty w art. 129, 130, 147 oraz art. 181 § 1 w różnych przypadkach wyraz „dochodzenie” zastępuje się użytymi w odpowiednich przypadkach wyrazami „postępowanie przygotowawcze”;
+- **103)** art. 131 i 132 otrzymują brzmienie: „Art. 131. § 1. W razie popełnienia przestępstwa skarbowego lub wykroczenia skarbowego zabezpieczyć można także środek karny przepadku przedmiotów lub ściągnięcia ich równowartości pieniężnej oraz bronionym.
 
 § 2. Przepis § 1 stosuje się odpowiednio do zabezpieczenia grożącego środka karnego przepadku korzyści majątkowej i ściągnięcia jej równowartości pieniężnej.
 
@@ -394,27 +393,26 @@ domain: null
 
 **Art. 134.**
 
-§ 1. Postępowanie przygotowawcze prowadzą także:
+§ 1. Postępowanie przygotowawcze prowadzą także: kroczenia skarbowe określone w art. 63-71, 85-96 § 1, art. 99, 100 oraz art. 106e-106h, ujawnione w zakresie swego działania przez Straż Graniczną,
 
-- **1)** Straż Graniczna w sprawach oprzestępstwa skarbowe iwykroczenia skarbowe określone w art. 63—71, 85—96 § 1, art. 99, 100 oraz art. 106e—106h, ujawnione w zakresie swego działania przez Straż Graniczną,
-- **2)** Policja w sprawach o przestępstwa skarbowe i wykroczenia skarbowe ujawnione w zakresie swego działania przez Policję,
-- **3)** Agencja Bezpieczeństwa Wewnętrznego w sprawach o przestępstwa skarbowe ujawnione w zakresie swego działania przez ten organ,
-- **4)** ˚andarmeria Wojskowa w sprawach o przestępstwa skarbowe iwykroczenia skarbowe popełnione przez osoby określone w art. 53 § 36.
+- **2)** Policja - w sprawach o przestępstwa skarbowe i wykroczenia skarbowe ujawnione w zakresie swego działania przez Policję,
+- **3)** Agencja Bezpieczeństwa Wewnętrznego - w sprawach o przestępstwa skarbowe ujawnione w zakresie swego działania przez ten organ,
+- **4)** Żandarmeria Wojskowa - w sprawach o przestępstwa skarbowe i wykroczenia skarbowe popełnione przez osoby określone w art. 53 § 36.
 
-§ 2. Organy określone w § 1 pkt 1—3 zawiadamiają niezwłocznie o prowadzeniu postępowania przygotowawczego właściwe finansowe organy postępowania przygotowawczego przez przesłanie odpisu postanowienia o jego wszczęciu, chyba że ograniczą swoje czynności do zabezpieczenia śladów i dowodów przestępstwa skarbowego lub wykroczenia skarbowego oraz przekazania sprawy do dalszego prowadzenia tym organom.
+§ 2. Organy określone w § 1 pkt 1-3 zawiadamiają niezwłocznie o prowadzeniu postępowania przygotowawczego właściwe finansowe organy postępowania przygotowawczego przez przesłanie odpisu postanowienia o jego wszczęciu, chyba że ograniczą swoje czynności do zabezpieczenia śladów i dowodów przestępstwa skarbowego lub wykroczenia skarbowego oraz przekazania sprawy do dalszego prowadzenia tym organom.
 
-§ 3. Organ określony w § 1 pkt 4 owszczęciu postępowania przygotowawczego zawiadamia niezwłocznie właściwego prokuratora wojskowego.
+§ 3. Organ określony w § 1 pkt 4 o wszczęciu postępowania przygotowawczego zawiadamia niezwłocznie właściwego prokuratora wojskowego.
 
 § 4. W razie zgłoszenia przez sprawcę czynu zabronionego wniosku o zezwolenie na dobrowolne poddanie się odpowiedzialności i po otrzymaniu przez niego pisemnego pouczenia o warunkach dopuszczalności tego środka karnego, przekazanie sprawy właściwemu finansowemu organowi postępowania przygotowawczego jest obowiązkowe.
 
-§ 5. Przepisy § 1, 2 i 4 stosuje się odpowiednio wwypadku, gdy organ określony w§ 1 pkt 1—3 jest właściwy do prowadzenia postępowania przygotowawczego wsprawie oczyn zabroniony jako przestępstwo lub wykroczenie określone w przepisach karnych innej ustawy, który wyczerpuje zarazem znamiona przestępstwa skarbowego lub wykroczenia skarbowego.”;
+§ 5. Przepisy § 1, 2 i 4 stosuje się odpowiednio w wypadku, gdy organ określony w § 1 pkt 1-3 jest właściwy do prowadzenia postępowania przygotowawczego w sprawie o czyn zabroniony jako przestępstwo lub wykroczenie określone w przepisach karnych innej ustawy, który wyczerpuje zarazem znamiona przestępstwa skarbowego lub wykroczenia skarbowego.”;
 
-- **107)** po art. 134 dodaje się art. 134a w brzmieniu: ŃArt. 134a. Prokurator prowadzi postępowanie przygotowawcze, jeżeli przepis ustawy tak stanowi.”;
-- **108)** art. 135—140 otrzymują brzmienie: ŃArt. 135. § 1. W wypadku gdy sprawcy zarzucono kilka przestępstw skarbowych albo wykroczeń skarbowych, względnie gdy zachodzi zbieg przepisów określony w art. 7 § 1, a sprawy należą do właściwości różnych organów postępowania przygotowawczego, właściwy jest organ, który pierwszy wszczął postępowanie.
+- **107)** po art. 134 dodaje się art. 134a w brzmieniu: „Art. 134a. Prokurator prowadzi postępowanie przygotowawcze, jeżeli przepis ustawy tak stanowi.”;
+- **108)** art. 135-140 otrzymują brzmienie: „Art. 135. § 1. W wypadku gdy sprawcy zarzucono kilka przestępstw skarbowych albo wykroczeń skarbowych, względnie gdy zachodzi zbieg przepisów określony w art. 7 § 1, a sprawy należą do właściwości różnych organów postępowania przygotowawczego, właściwy jest organ, który pierwszy wszczął postępowanie.
 
-§ 2. Jeżeli sprawcy zarzucono przestępstwo skarbowe i wykroczenie skarbowe, a sprawy należą do właściwości różnych finansowych organów postępowania przygotowawczego, właściwy jest organ, który wszczął postępowanie wsprawie oprzestępstwo skarbowe.
+§ 2. Jeżeli sprawcy zarzucono przestępstwo skarbowe i wykroczenie skarbowe, a sprawy należą do właściwości różnych finansowych który wszczął postępowanie w sprawie o przestępstwo skarbowe.
 
-§ 3. Jeżeli sprawa o przestępstwo skarbowe iwykroczenie skarbowe należy do właściwości finansowych i niefinansowych organów postępowania przygotowawczego, postępowanie prowadzi finansowy organ postępowania przygotowawczego, chyba że postępowanie przygotowawcze prowadzi ˚andarmeria Wojskowa. Spór o właściwość między finansowystępowania przygotowawczego rozstrzyga prokurator właściwy ze względu na siedzibę organu niefinansowego.
+§ 3. Jeżeli sprawa o przestępstwo skarbowe i wykroczenie skarbowe należy do właściwości finansowych i niefinansowych organów postępowania przygotowawczego, postępowanie prowadzi finansowy organ postępowania przygotowawczego, chyba że postępowanie przygotowawcze prowadzi Żandarmeria Wojskowa. Spór o właściwość między finansowymi i niefinansowymi organami postępowania przygotowawczego rozstrzyga prokurator właściwy ze względu na siedzibę organu niefinansowego.
 
 § 4. Spór o właściwość między finansowymi organami postępowania przygotowawczego rozstrzyga organ nadrzędny nad tymi organami. Jeżeli spór toczy się między finansowymi organami postępowania przygotowawczego niemającymi wspólnego organu nadrzędnego, rozstrzyga go minister właściwy do spraw finansów publicznych.
 
@@ -422,27 +420,26 @@ domain: null
 
 **Art. 136.**
 
-§ 1. Postępowanie mandatowe prowami iniefinansowymi organami podzi finansowy organ postępowania przygotowawczego lub jego upoważniony przedstawiciel albo osoba, o której mowa w art. 118 § 4, a także niefinansowy organ postępowania przygotowawczego, gdy przepis szczególny tak stanowi; postępowaniu temu nie stoi na przeszkodzie uprzednie wszczęcie postępowania przygotowawczego.
+§ 1. Postępowanie mandatowe prowadzi finansowy organ postępowania przygotowawczego lub jego upoważniony przedstawiciel albo osoba, o której mowa w art. 118 § 4, a także niefinansowy organ postępowania przygotowawczego, gdy przepis szczególny tak stanowi; postępowaniu temu nie stoi na przeszkodzie uprzednie wszczęcie postępowania przygotowawczego.
 
-§ 2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i sposób wydawania funkcjonariuszom finansowych organów postępowania przygotowawczego i niefinansowych organów postępowania przygotowawczego upoważnienia do nakładania kary grzywny w drodze mandatu karnego za wykroczenia skarbowe, szczegółowe zasady jej nakładania isposób uiszczania, sposób ewidencjonowania grzywien nałożonych wdrodze mandatu karnego, organy właściwe w sprawach rozliczania formularzy mandatu karnego oraz wzory formularzy mandatu karnego, mając na względzie potrzebę szybkiej reakcji na fakt popełnienia wykroczenia skarbowego oraz potrzebę ujednolicenia zasad nakładania przez funkcjonariuszy uprawnionych organów kary grzywny wdrodze mandatu karnego, atakże pouczenia osób karanych oich prawach i obowiązkach.
+§ 2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i sposób wydawania funkcjonariuszom finansowych organów postępowania przygotowawczego i niefinansowych organów postępowania przygotowawczego upoważnienia do nakładania kary grzywny w drodze mandatu karnego za wykroczenia skarbowe, szczegółowe zasady jej nakładania i sposób uiszczania, sposób ewidencjonowania grzywien nałożonych w drodze mandatu karnego, organy właściwe w sprawach rozliczania formularzy mandatu karnego oraz wzory formularzy mandatu karnego, mając na względzie potrzebę szybkiej reakcji na fakt popełnienia wykroczenia skarbowego oraz potrzebę ujednolicenia zasad nakładania przez funkcjonariuszy uprawnionych organów kary grzywny w drodze mandatu karnego, a także pouczenia osób karanych o ich prawach i obowiązkach.
 
 **Art. 137.**
 
-§ 1. W postępowaniu mandatowym, jeżeli kodeks nie stanowi inaczej, karę grzywny w drodze mandatu karnego nałożyć można jedynie, gdy osoba sprawcy iokoliczności popełnienia wykroczenia skarbowego nie budzą wątpliwości, a nie zachodzi potrzeba wymierzenia kary surowszej niż ta, która jest określona w art. 48 § 2.
+§ 1. W postępowaniu mandatowym, jeżeli kodeks nie stanowi inaczej, karę grzywny w drodze mandatu karnego nałożyć można jedynie, gdy osoba sprawcy i okoliczności popełnienia wykroczenia skarbowego nie budzą wątpliwości, a nie zachodzi potrzeba wymierzenia kary surowszej niż ta, która jest określona w art. 48 § 2.
 
 § 2. Postępowania mandatowego nie stosuje się, jeżeli:
 
-- **1)** w związku z wykroczeniem skarbowym nastąpiło uszczuplenie należności publicznoprawnej, chyba że do chwili przyjęcia mandatu karnego wymagalna należność została w całości uiszczona,
-- **2)** zachodzi zbieg przepisów określony wart. 7 § 1, aten sam czyn sprawcy wykroczenia skarbowego wyczerpuje zarazem znamiona przestępstwa skarbowego,
+- **1)** w związku z wykroczeniem skarbowym nastąpiło uszczuplenie należności publicznoprawnej, chyba że do chwili przyjęcia mandatu karnego wymagalna należność została w całości uiszczona, czyn sprawcy wykroczenia skarbowego wyczerpuje zarazem znamiona przestępstwa skarbowego,
 - **3)** zgłoszono interwencję co do przedmiotu podlegającego przepadkowi.
 
-§ 3. Warunkiem nałożenia kary grzywny w drodze mandatu karnego jest wyrażenie przez sprawcę wykroczenia skarbowego zgody na przyjęcie mandatu, a jeżeli za wykroczenie skarbowe przewidziane jest obowiązkowe orzeczenie przepadku przedmiotów także zgody na ich przepadek; zgodę tę odnotowuje się w protokole przesłuchania lub na dokumencie mandatu karnego.
+§ 3. Warunkiem nałożenia kary grzywny w drodze mandatu karnego jest wyrażenie przez sprawcę wykroczenia skarbowego zgody na przyjęcie mandatu, a jeżeli za wykroczenie skarbowe przewidziane jest obowiązkowe orzeczenie przepadku przedmiotów - także zgody na ich przepadek; zgodę tę odnotowuje się w protokole przesłuchania lub na dokumencie mandatu karnego.
 
 § 4. Upoważniony organ postępowania przygotowawczego lub jego przedstawiciel, wymierzając karę grzywny w drodze mandatu karnego, obowiązany jest określić wykroczenie skarbowe zarzucane sprawcy oraz pouczyć go o warunkach dopuszczalności postępowania mandatowego, a zwłaszcza o skutkach prawnych braku zgody, o której mowa w § 3.
 
 **Art. 138.**
 
-§ 1. W postępowaniu mandatowym można nałożyć karę grzywny wdrodze mandatu karnego:
+§ 1. W postępowaniu mandatowym można nałożyć karę grzywny w drodze mandatu karnego:
 
 - **1)** wydanego ukaranemu po uiszczeniu kary grzywny bezpośrednio upoważnionemu podmiotowi, który ją nałożył,
 - **2)** kredytowanego, wydawanego za potwierdzeniem odbioru ukaranemu.
@@ -451,7 +448,7 @@ domain: null
 
 § 3. Przepis § 2 stosuje się odpowiednio do osób stale przebywających na terytorium Rzeczypospolitej Polskiej, które czasowo opuszczają to terytorium.
 
-§ 4. Mandat karny, o którym mowa w § 1 pkt 1, staje się prawomocny z chwilą uiszczenia kary grzywny upoważnionemu podmiotowi, który ją nałożył, zaś mandat karny kredytowany z chwilą pokwitowania jego odbioru przez ukaranego.
+§ 4. Mandat karny, o którym mowa w § 1 pkt 1, staje się prawomocny z chwilą uiszczenia kary grzywny upoważnionemu podmiotowi, który ją nałożył, zaś mandat karny kredytowany - z chwilą pokwitowania jego odbioru przez ukaranego.
 
 § 5. Mandat karny kredytowany powinien zawierać pouczenie o obowiązku uiszczenia nałożonej kary grzywny w terminie 7 dni od daty przyjęcia mandatu oraz o skutkach jej nieuiszczenia w tym terminie.
 
@@ -459,9 +456,9 @@ domain: null
 
 **Art. 139.**
 
-§ 1. Wrazie braku zgody, októrej mowa w art. 137 § 3, sprawa podlega rozpoznaniu na zasadach ogólnych.
+§ 1. W razie braku zgody, o której mowa w art. 137 § 3, sprawa podlega rozpoznaniu na zasadach ogólnych.
 
-§ 2. W sytuacji, o której mowa w § 1, azwłaszcza gdy sprawca wykroczenia skarbowego przebywa stale za granicą albo gdy nie można ustalić jego miejsca zamieszkania lub pobytu w kraju, organ postępowania przygotowawczego lub jego przedstawiciel może dokonać tymczasowego zajęcia mienia ruchomego sprawcy, w szczególności przedmiotów zagrożonych przepadkiem.
+§ 2. W sytuacji, o której mowa w § 1, a zwłaszcza gdy sprawca wykroczenia skarbowego przebywa stale za granicą albo gdy nie gan postępowania przygotowawczego lub jego przedstawiciel może dokonać tymczasowego zajęcia mienia ruchomego sprawcy, w szczególności przedmiotów zagrożonych przepadkiem.
 
 **Art. 140.**
 
@@ -474,112 +471,113 @@ domain: null
 § 4. W razie uchylenia mandatu karnego sprawa podlega rozpoznaniu na zasadach ogólnych.”;
 
 - **109)** w art. 142:
-    - **a)** § 1 i 2 otrzymują brzmienie: Ń§ 1. W postępowaniu prowadzonym przez finansowy organ postępowania przygotowawczego, zanim wniesiono akt oskarżenia, sprawca przestępstwa skarbowego lub wykroczenia skarbowego może zgłosić wniosek ozezwolenie na dobrowolne poddanie się odpowiedzialności.
+    - **a)** § 1 i 2 otrzymują brzmienie : „§ 1. W postępowaniu prowadzonym przez finansowy organ postępowania przygotowawczego, zanim wniesiono akt oskarżenia, sprawca przestępstwa skarbowego lub wykroczenia skarbowego może zgłosić wniosek o zezwolenie na dobrowolne poddanie się odpowiedzialności.
 
 § 2. Przed pierwszym przesłuchaniem finansowy organ postępowania przygotowawczego jest obowiązany pouczyć sprawcę także o prawie złożenia takiego wniosku.”,
 
-- **b)** dodaje się § 5 w brzmieniu: Ń§ 5. Do sprawcy, o którym mowa w § 1, stosuje się odpowiednio przepisy o podejrzanym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.”;
+- **b)** dodaje się § 5 w brzmieniu: „§ 5. Do sprawcy, o którym mowa w § 1, stosuje się odpowiednio przepisy o podejrzanym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.”;
 - **110)** w art. 143:
-    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Składając wniosek, o którym mowa w art. 142 § 1, należy łącznie uiścić:
+    - **a)** § 1 otrzymuje brzmienie : „§ 1. Składając wniosek, o którym mowa w art. 142 § 1, należy łącznie uiścić: skarbowym lub wykroczeniem skarbowym nastąpiło uszczuplenie tej należności, chyba że do chwili zgłoszenia wniosku ta wymagalna należność została w całości uiszczona,
 
-- **1)** należność publicznoprawną, jeżeli w związku z przestępstwem skarbowym lub wykroczeniem skarbowym nastąpiło uszczuplenie tej należności, chyba że do chwili zgłoszenia wniosku ta wymagalna należność została w całości uiszczona,
-- **2)** tytułem kary grzywny kwotę odpowiadającą co najmniej jednej trzeciej minimalnego wynagrodzenia, a za wywiadającą co najmniej jednej dziesiątej tego wynagrodzenia,
+- **2)** tytułem kary grzywny kwotę odpowiadającą co najmniej jednej trzeciej minimalnego wynagrodzenia, a za wykroczenie skarbowe - kwotę odpowiadającą co najmniej jednej dziesiątej tego wynagrodzenia,
 - **3)** co najmniej zryczałtowaną równowartość kosztów postępowania.”,
-    - **b)** § 6 otrzymuje brzmienie: Ń§ 6. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość zryczałtowanych kosztów postępowania związanych ze zgłoszeniem wniosku o zezwolenie na dobrowolne poddanie się odpowiedzialności w wysokości nie wyższej niż jedna dziesiąta minimalnego wynagrodzenia, mając na uwadze w szczególności przeciętne wydatki finansowego organu postępowania przygotowawczego, poniesione w związku z jego rozpoznaniem.”;
+    - **b)** § 6 otrzymuje brzmienie: „§ 6. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość zryczałtowanych kosztów postępowania związanych ze zgłoszeniem wniosku o zezwolenie na dobrowolne poddanie się odpowiedzialności w wysokości nie wyższej niż jedna dziesiąta minimalnego wynagrodzenia, mając na uwadze w szczególności przeciętne wydatki finansowego organu postępowania przygotowawczego, poniesione w związku z jego rozpoznaniem.”;
 
-- **111)** po art. 143 dodaje się art. 143a w brzmieniu: ŃArt. 143a. § 1. Jeżeli wniosek, o którym mowa wart. 142 § 1, nie odpowiada wymaganiom formalnym, a brak jest tego rodzaju, że wniosek nie może otrzymać biegu, wzywa się osobę, od której wniosek pochodzi, do usunięcia braku w terminie 7 dni.
+- **111)** po art. 143 dodaje się art. 143a w brzmieniu: „Art. 143a. § 1. Jeżeli wniosek, o którym mowa w art. 142 § 1, nie odpowiada wymaganiom formalnym, a brak jest tego rodzaju, że wniosek nie może otrzymać biegu, wzywa się osobę, od której wniosek pochodzi, do usunięcia braku w terminie 7 dni.
 
 § 2. W razie uzupełnienia braku w terminie, wniosek wywołuje skutki od dnia jego wniesienia. W razie nieuzupełnienia braku w terminie, wniosek uznaje się za bezskuteczny, o czym należy pouczyć przy doręczeniu wezwania.”;
 
-- **112)** w art. 144 § 1 otrzymuje brzmienie: Ń§ 1. Cofnięcie wniosku, o którym mowa w art. 142 § 1, nie jest możliwe przed upływem 1 miesiąca od jego złożenia, a także po wniesieniu do sądu przez finansowy organ postępowania przygotowawczego wniosku o udzielenie zezwolenia na dobrowolne poddanie się odpowiedzialności.”;
+- **112)** w art. 144 § 1 otrzymuje brzmienie: „§ 1. Cofnięcie wniosku, o którym mowa w art. 142 § 1, nie jest możliwe przed upływem 1 miesiąca od jego złożenia, a także po wniesieniu do sądu przez finansowy organ postępowania przygotowawczego wniosku o udzielenie zezwolenia na dobrowolne poddanie się odpowiedzialności.”;
 - **113)** w art. 145:
-    - **a)** § 1—3 otrzymują brzmienie: Ń§ 1. W razie wystąpienia przez sprawcę o zezwolenie na dobrowolne poddanie się odpowiedzialności finansowy organ postępowania przygotowawczego może zamiast aktu oskarżenia wnieść niezwłocznie do sądu wniosek oudzielenie takiego zezwolenia.
+    - **a)** § 1-3 otrzymują brzmienie: „§ 1. W razie wystąpienia przez sprawcę o zezwolenie na dobrowolne poddanie się odpowiedzialności finansowy organ postępowania przygotowawczego może zamiast aktu oskarżenia wnieść niezwłocznie do sądu wniosek o udzielenie takiego zezwolenia.
 
-§ 2. Wniosek finansowego organu postępowania przygotowawczego powinien zawierać: kroczenie skarbowe kwotę odpo1) imię inazwisko sprawcy oraz inne dane określające jego tożsamość,
+§ 2. Wniosek finansowego organu postępowania przygotowawczego powinien zawierać:
 
-- **2)** dokładne określenie czynu zarzucanego sprawcy ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia, a zwłaszcza wysokości uszczuplonej lub narażonej na uszczuplenie należności publicznoprawnej,
+- **1)** imię i nazwisko sprawcy oraz inne dane określające jego tożsamość,
+- **2)** dokładne określenie czynu zarzucanego sprawcy ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia, a należności publicznoprawnej,
 - **3)** wskazanie przepisów kodeksu, pod które zarzucany czyn podpada,
-- **4)** dokładne określenie wykonanych przez sprawcę obowiązków, o których mowa w art. 143 § 1—3,
+- **4)** dokładne określenie wykonanych przez sprawcę obowiązków, o których mowa w art. 143 § 1-3,
 - **5)** wskazanie sądu właściwego do udzielenia zezwolenia na dobrowolne poddanie się odpowiedzialności.
 
-§ 3. Uzasadnienie wniosku może być ograniczone do wskazania dowodów świadczących otym, że wina sprawcy iokoliczności popełnienia czynu zabronionego nie budzą wątpliwości, a ponadto innych okoliczności świadczących o tym, że w danej sprawie można zezwolić na dobrowolne poddanie się odpowiedzialności, wszczególności ze względu na to, że jest to wystarczające dla zaspokojenia uzasadnionego interesu finansowego Skarbu Państwa, jednostki samorządu terytorialnego lub innego uprawnionego podmiotu.”,
+§ 3. Uzasadnienie wniosku może być ograniczone do wskazania dowodów świadczących o tym, że wina sprawcy i okoliczności popełnienia czynu zabronionego nie budzą wątpliwości, a ponadto innych okoliczności świadczących o tym, że w danej sprawie można zezwolić na dobrowolne poddanie się odpowiedzialności, w szczególności ze względu na to, że jest to wystarczające dla zaspokojenia uzasadnionego interesu finansowego Skarbu Państwa, jednostki samorządu terytorialnego lub innego uprawnionego podmiotu.”,
 
-- **b)** § 5 otrzymuje brzmienie: Ń§ 5. Owniesieniu do sądu wniosku, októrym mowa w § 1, finansowy organ postępowania przygotowawczego zawiadamia niezwłocznie sprawcę, jak również przedstawiciela ustawowego, o którym mowa w art. 142 § 3.”;
-- **114)** art. 146 otrzymuje brzmienie: ŃArt. 146. § 1. Złożenie wniosku o udzielenie zezwolenia na dobrowolne poddanie się odpowiedzialności finansowy organ postępowania przygotowawczego uzależnia od wykonania obowiązku uiszczenia w całości wymagalnej należności publicznoprawnej, jeżeli w związku z przestępstwem skarbowym lub wykroczeniem skarbowym nastąpiło uszczuplenie tej należności, ado tej chwili należność ta nie została uiszczona.
+- **b)** § 5 otrzymuje brzmienie: „§ 5. O wniesieniu do sądu wniosku, o którym mowa w § 1, finansowy organ postępowania przygotowawczego zawiadamia niezwłocznie sprawcę, jak również przedstawiciela ustawowego, o którym mowa w art. 142 § 3.”;
+- **114)** art. 146 otrzymuje brzmienie: „Art. 146. § 1. Złożenie wniosku o udzielenie zezwolenia na dobrowolne poddanie się odpowiedzialności finansowy organ postępowania przygotowawczego uzależnia od wykonania obowiązku uiszczenia w całości wymagalnej należności publicznoprawnej, jeżeli w związku z przestępstwem skarbowym lub wykroczeniem skarbowym nastąpiło uszczuplenie tej należności, a do tej chwili należność ta nie została uiszczona.
 
-§ 2. Złożenie wniosku, o którym mowa w§ 1, finansowy organ postępowania przygotowawczego może uzależnić:
+§ 2. Złożenie wniosku, o którym mowa w § 1, finansowy organ postępowania przygotowawczego może uzależnić:
 
-- **1)** od uiszczenia tytułem kary grzywny dodatkowej kwoty, nieprzekraczającej jednak łącznie z kwotą już wpłaconą wysokości połowy sumy odpowiadającej górnej granicy ustawowego zagrożenia za dany czyn zabronio2) od wyrażenia zgody na przepadek przedmiotów nieobjętych wnioskiem sprawcy, o którym mowa w art. 142 § 1, a w razie niemożności ich złożenia od uiszczenia równowartości pieniężnej tych przedmiotów, chyba że przepadek dotyczy przedmiotów określonych w art. 29 pkt 4,
+- **1)** od uiszczenia tytułem kary grzywny dodatkowej kwoty, nieprzekraczającej jednak łącznie z kwotą już wpłaconą wysokości połowy sumy odpowiadającej górnej granicy ustawowego zagrożenia za dany czyn zabroniony,
+- **2)** od wyrażenia zgody na przepadek przedmiotów nieobjętych wnioskiem sprawcy, o którym mowa w art. 142 § 1, a w razie niemożności ich złożenia - od uiszczenia równowartości pieniężnej tych przedmiotów, chyba że przepadek dotyczy przedmiotów określonych w art. 29 pkt 4,
 - **3)** od uiszczenia pozostałych kosztów postępowania.
 
-§ 3. Czas, rodzaj i sposób wykonania obowiązków, októrych mowa w§ 1 lub 2, finansowy organ postępowania przygotowawczego określa po wysłuchaniu sprawcy, jak również przedstawiciela ustawowego, októrym mowa w art. 142 § 3.”;
+§ 3. Czas, rodzaj i sposób wykonania obowiązków, o których mowa w § 1 lub 2, finansowy organ postępowania przygotowawczego określa po wysłuchaniu sprawcy, jak również przedstawiciela ustawowego, o którym mowa w art. 142 § 3.”;
 
-- **115)** w art. 148:
-    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Wkwestii udzielenia zezwolenia na dobrowolne poddanie się odpowiedzialności sąd orzeka niezwłocznie na posiedzeniu.”,
-    - **b)** § 4 i 5 otrzymują brzmienie: Ń§ 4. Stawiennictwo na posiedzenie finansowego organu postępowania przygotowawczego lub jego przedstawiciela, w szczególności tego, który złożył wniosek, jest obowiązkowe, jeżeli prezes sądu lub sąd tak zarządzi.
+- **115)** w art. 148: „§ 1. W kwestii udzielenia zezwolenia na dobrowolne poddanie się odpowiedzialności sąd orzeka niezwłocznie na posiedzeniu.”,
+    - **b)** § 4 i 5 otrzymują brzmienie: „§ 4. Stawiennictwo na posiedzenie finansowego organu postępowania przygotowawczego lub jego przedstawiciela, w szczególności tego, który złożył wniosek, jest obowiązkowe, jeżeli prezes sądu lub sąd tak zarządzi.
 
-§ 5. Sąd, uwzględniając wniosek, orzeka wyrokiem.”,
+§ 5. Sąd, uwzględniając wniosek, orzeka wyrokiem.
 
-- **c)** dodaje się § 6 w brzmieniu: Ń§ 6. Jeżeli sąd uzna, że nie zachodzą podstawy do uwzględnienia wniosku, niezwłocznie zwraca sprawę finansowemu organowi postępowania przygotowawczego. Przepis art. 144 § 3 stosuje się odpowiednio.”;
-- **116)** art. 149 otrzymuje brzmienie: ŃArt. 149. § 1. W razie zaskarżenia wyroku o zezwoleniu na dobrowolne poddanie się odpowiedzialności ulega on uchyleniu lub zmianie w postępowaniu odwoławczym tylko wtedy, gdy sąd orzekł:
+- **c)** dodaje się § 6 w brzmieniu: § 6. Jeżeli sąd uzna, że nie zachodzą podstawy do uwzględnienia wniosku, niezwłocznie zwraca sprawę finansowemu organowi postępowania przygotowawczego. Przepis art. 144 § 3 stosuje się odpowiednio.”;
+- **116)** art. 149 otrzymuje brzmienie: „Art. 149. § 1. W razie zaskarżenia wyroku o zezwoleniu na dobrowolne poddanie się odpowiedzialności ulega on uchyleniu lub zmianie w postępowaniu odwoławczym tylko wtedy, gdy sąd orzekł:
 - **1)** tytułem kary grzywny kwotę inną niż uiszczona przez sprawcę,
 - **2)** przepadek przedmiotów lub uiszczenie ich równowartości pieniężnej w zakresie nieobjętym zgodą sprawcy.
 
-§ 2. Sąd odwoławczy orzeka na posiedzeniu jednoosobowo, chyba że sąd pierwszej instancji orzekał ny, w składzie jednego sędziego i dwóch ławników.”;
+§ 2. Sąd odwoławczy orzeka na posiedzeniu jednoosobowo, chyba że sąd pierwszej instancji orzekał w składzie jednego sędziego i dwóch ławników.”;
 
-- **117)** w art. 150 § 3 i 4 otrzymują brzmienie: Ń§ 3. Czynności, o których mowa w art. 75 § 2 oraz art. 285 § 2 Kodeksu postępowania karnego, są dokonywane przez Policję, Straż Graniczną, Agencję Bezpieczeństwa Wewnętrznego lub ˚andarmerię Wojskową, a gdy postępowanie przygotowawcze prowadzone jest przez finansowy organ postępowania przygotowawczego przez Policję na żądanie tego organu.
+- **117)** w art. 150 § 3 i 4 otrzymują brzmienie: „§ 3. Czynności, o których mowa w art. 75 § 2 oraz art. 285 § 2 Kodeksu postępowania karnego, są dokonywane przez Policję, Straż Graniczną, Agencję Bezpieczeństwa Wewnętrznego lub Żandarmerię Wojskową, a gdy postępowanie przygotowawcze prowadzone jest przez finansowy organ postępowania przygotowawczego - przez Policję na żądanie tego organu.
 
-§ 4. Oprócz Policji czynność, o której mowa w art. 244 § 1 Kodeksu postępowania karnego, może być dokonana także przez Straż Graniczną, Agencję Bezpieczeństwa Wewnętrznego lub ˚andarmerię Wojskową.”;
+§ 4. Oprócz Policji czynność, o której mowa w art. 244 § 1 Kodeksu postępowania karnego, może być dokonana także przez Straż Graniczną, Agencję Bezpieczeństwa Wewnętrznego lub Żandarmerię Wojskową.”;
 
-- **118)** po art. 151 dodaje się art. 151a i 151b w brzmieniu: ŃArt. 151a. § 1. Âledztwo prowadzi się w sprawach o przestępstwa skarbowe:
+- **118)** po art. 151 dodaje si ę art. 151a i 151b w brzmieniu: „Art. 151a. § 1. Śledztwo prowadzi się w sprawach o przestępstwa skarbowe:
 - **1)** popełnione w warunkach określonych w art. 37 § 1 lub w art. 38 § 2,
 - **2)** jeżeli osobą podejrzaną jest sędzia, prokurator, funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu,
-- **3)** jeżeli osobą podejrzaną jest funkcjonariusz Straży Granicznej, ˚andarmerii Wojskowej, finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego,
-- **4)** jeżeli oskarżony lub osoba podejrzana jest pozbawiona wolności w tej lub w innej sprawie, chyba że zastosowano zatrzymanie lub tymczasowe aresztowanie wobec sprawcy ujętego na gorącym uczynku lub bezpośrednio potem,
-- **5)** jeżeli zachodzą okoliczności określone wart. 79 § 1 Kodeksu postępowania karnego, chyba że zaistnieją przesłanki zart. 79 § 4 Kodeksu postępowania karnego.
+- **3)** jeżeli osobą podejrzaną jest funkcjonariusz Straży Granicznej, Żandarmerii Wojskowej, finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego, ności w tej lub w innej sprawie, chyba że zastosowano zatrzymanie lub tymczasowe aresztowanie wobec sprawcy ujętego na gorącym uczynku lub bezpośrednio potem,
+- **5)** jeżeli zachodzą okoliczności określone w art. 79 § 1 Kodeksu postępowania karnego, chyba że zaistnieją przesłanki z art. 79 § 4 Kodeksu postępowania karnego.
 
 § 2. W pozostałych sprawach o przestępstwa skarbowe prowadzi się dochodzenie, chyba że finansowy organ postępowania przygotowawczego odmiennie zarządzi ze względu na wagę lub zawiłość sprawy.
 
 **Art. 151b.**
 
-§ 1. Prokurator prowadzi śledztwo w wypadkach określonych wtedy, gdy uzna, że wymagają tego okoliczności sprawy.
+§ 1. Prokurator prowadzi śledztwo w wypadkach określonych w art. 151a § 1 pkt 2 i 3, a także wtedy, gdy uzna, że wymagają tego okoliczności sprawy.
 
-§ 2. Jeżeli prokurator wszczął śledztwo, może powierzyć organowi określonemu w art. 118 § 1 pkt 1—5 albo w§ 2 jego przeprowadzenie w całości albo w określonym zakresie lub dokonanie poszczególnych czynności śledztwa; w wypadkach określonych w art. 151a § 1 pkt 2 i 3 prokurator nie może jednak powierzyć innemu organowi prowadzenia śledztwa wcałości. Organ, któremu prokurator powierzył przeprowadzenie poszczególnych czynności, może dokonać także innych czynności, jeżeli wyłoni się taka potrzeba.
+§ 2. Jeżeli prokurator wszczął śledztwo, może powierzyć organowi określonemu w art. 118 § 1 pkt 1-5 albo w § 2 jego przeprowadzenie w całości albo w określonym zakresie lub dokonanie poszczególnych czynności śledztwa; w wypadkach określonych w art. 151a § 1 pkt 2 i 3 prokurator nie może jednak powierzyć innemu organowi prowadzenia śledztwa w całości. Organ, któremu prokurator powierzył przeprowadzenie poszczególnych czynności, może dokonać także innych czynności, jeżeli wyłoni się taka potrzeba.
 
-§ 3. Prokurator może zastrzec do osobistego wykonania jakąkolwiek w art. 151a § 1 pkt 2 i 3, a także czynność śledztwa, w szczególności czynności wymagające postanowienia, związane z przedstawieniem zarzutów, pociągnięciem do odpowiedzialności posiłkowej, zmianą postanowienia o przedstawieniu zarzutów lub o pociągnięciu do odpowiedzialności posiłkowej albo z zamknięciem śledztwa.”;
+§ 3. Prokurator może zastrzec do osobistego wykonania jakąkolwiek czynność śledztwa, w szczególności czynności wymagające postanowienia, związane z przedstawieniem zarzutów, pociągnięciem do odpowiedzialności posiłkowej, zmianą postanowienia o przedstawieniu zarzutów lub o pociągnięciu do odpowiedzialności posiłkowej albo z zamknięciem śledztwa.”;
 
-- **119)** art. 152 i 153 otrzymują brzmienie: ŃArt. 152. W sprawach o wykroczenia skarbowe prowadzi się dochodzenie. Ogranicza się ono do przesłuchania podejrzanego oraz w razie potrzeby także do innych czynności w zakresie niezbędnym do wniesienia aktu oskarżenia lub innego zakończenia postępowania.
+- **119)** art. 152 i 153 otrzymują brzmienie: „Art. 152. W sprawach o wykroczenia skarbowe prowadzi się dochodzenie. Ogranicza się ono do przesłuchania podejrzanego oraz w razie potrzeby także do innych czynności w zakresie niezbędnym do wniesienia aktu oskarżenia lub innego zakończenia postępowania.
 
 **Art. 153.**
 
-§ 1. Postępowanie przygotowawcze wsprawie oprzestępstwo skarbowe powinno być zakończone wciągu 3 miesięcy. Wrazie niezakończenia postępowania w tym terminie organ nadrzędny nad organem prowadzącym postępowanie może przedłużyć je na okres do 6 miesięcy. W szczególnie uzasadnionych wypadkach właściwy prokurator może przedłużyć okres postępowania na dalszy czas oznaczony.
+§ 1. Postępowanie przygotowawcze w sprawie o przestępstwo skarbowe powinno być zakończone w ciągu 3 miesięcy. W razie niezakończenia postępowania w tym terminie organ nadrzędny nad organem prowadzącym postępowanie może przedłużyć je na okres do 6 miesięcy. W szczególnie uzasadnionych wypadkach właściwy prokurator może przedłużyć okres postępowania na dalszy czas oznaczony.
 
 § 2. Dochodzenie w sprawie o przestępstwo skarbowe po jego przedłużeniu toczy się nadal jako dochodzenie.
 
-§ 3. Wrazie niezakończenia dochodzenia wsprawie owykroczenie skarbowe prowadzonego przez organ postępowania przygotowawczego w ciągu 2 miesięcy, organ nadrzędny nad tym organem może przedłużyć dochodzenie na czas oznaczony.”;
+§ 3. W razie niezakończenia dochodzenia w sprawie o wykroczenie skarbowe prowadzonego przez organ postępowania przygotowawczego w ciągu 2 miesięcy, organ nadrzędny nad tym organem może przedłużyć dochodzenie na czas oznaczony.”;
 
-- **120)** uchyla się art. 154;
-- **121)** art. 155 i 156 otrzymują brzmienie: ŃArt. 155. § 1. Wciągu 14 dni od daty zamknięcia dochodzenia finansowy organ postępowania przygotowawczego sporządza akt oskarżenia i wnosi do właściwego sądu oraz popiera go przed tym sądem albo wydaje postanowienie o umorzeniu, o zawieszeniu postępowania przygotowawczego albo o uzupełnieniu dochodzenia. O wniesieniu aktu oskarżenia w sprawie o przestępstwo skarbowe finansowy organ postępowania przygotowawczego zawiadamia niezwłocznie prokuratora przez doręczenie odpisu tego aktu.
+- **121)** art. 155 i 156 otrzymują brzmienie: „Art. 155. § 1. W ciągu 14 dni od daty zamknięcia dochodzenia finansowy organ postępowania przygotowawczego sporządza akt oskarżenia i wnosi do właściwego sądu oraz popiera go przed tym sądem albo wydaje postanowienie o umorzeniu, o zawieszeniu postępowania przygotowawczego albo o uzupełnieniu dochodzenia. O wniesieniu aktu oskarżenia w sprawie o przestępstwo skarbowe finansowy organ postępowania przygotowawczego zawiadamia niezwłocznie prokuratora przez doręczenie odpisu tego aktu.
 
-§ 2. Wsprawie oprzestępstwo skarbowe podlegające rozpoznaniu wpostępowaniu zwyczajnym finansowy organ postępowania przygotowawczego w ciągu 14 dni od zakończenia śledztwa sporządza akt oskarżenia iprzesyła go wraz zaktami prokuratorowi, przekazując jednocześnie dowody rzeczowe. Akt oskarżenia zatwierdza i wnosi do sądu prokurator. Wakcie oskarżenia należy także wskazać finansowy organ postępowania przygotowawczego, któremu przysługują uprawnienia oskarżyciela publicznego. Organ ten zawiadamia się niezwłocznie o wniesieniu aktu oskarżenia przez doręczenie jego odpisu.
+§ 2. W sprawie o przestępstwo skarbowe podlegające rozpoznaniu w postępowaniu zwyczajnym finansowy organ postępowania przygotowawczego w ciągu 14 dni od zakończenia śledztwa sporządza akt oskarżenia i przesyła go wraz z aktami prokuratorowi, przekazując jednocześnie dowody rzeczowe. Akt oskarżenia zatwierdza i wnosi do sądu prokurator. W akcie oskarżenia należy także wskazać finansowy organ postępowania przygotowawczego, któremu przysługują uprawnienia oskarżyciela publicznego. Organ ten zawiadamia się niezwłocznie o wniesieniu aktu oskarżenia przez doręczenie jego odpisu.
 
 § 3. Jeżeli podejrzany jest tymczasowo aresztowany, terminy określone w § 1 i 2 wynoszą 7 dni.
 
-§ 4. W sprawie, w której wobec podejrzanego stosowane jest tymczasowe aresztowanie, akt oskarżenia należy wnieść nie póêniej niż 14 dni przed upływem dotychczas określonego terminu stosowania tego środka.
+§ 4. W sprawie, w której wobec podejrzanego stosowane jest tymczasowe aresztowanie, akt oskarżenia należy wnieść nie później niż 14 dni przed upływem dotychczas określonego terminu stosowania tego środka.
 
-§ 5. Do aktu oskarżenia można dołączyć wniosek o nałożenie odpowiedzialności posiłkowej, a także wniosek o zobowiązanie podmiotu określonego w art. 24 § 5 do zwrotu na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego uzyskanej korzyści majątArt. 156. § 1. Prokurator, a także finansowy organ postępowania przygotowawczego może umieścić w akcie oskarżenia wniosek o wydanie wyroku skazującego i orzeczenie uzgodnionych z oskarżonym kary lub środka karnego za zarzucane mu przestępstwo skarbowe lub wykroczenie skarbowe, jeżeli okoliczności popełnienia czynu zabronionego nie budzą wątpliwości, a postawa oskarżonego wskazuje, że cele postępowania zostaną osiągnięte.
+§ 5. Do aktu oskarżenia można dołączyć wniosek o nałożenie odpowiedzialności posiłkowej, a także wniosek o zobowiązanie podmiotu określonego w art. 24 § 5 do zwrotu na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego uzyskanej korzyści majątkowej.
+
+**Art. 156.**
+
+§ 1. Prokurator, a także finansowy organ postępowania przygotowawczego może umieścić w akcie oskarżenia wniosek o wydanie wyroku skazującego i orzeczenie uzgodnionych z oskarżonym kary lub środka karnego za zarzucane mu przestępstwo skarbowe lub wykroczenie skarbowe, jeżeli okoliczności popełnienia czynu zabronionego nie budzą wątpliwości, a postawa oskarżonego wskazuje, że cele postępowania zostaną osiągnięte.
 
 § 2. Wniosek może dotyczyć:
 
-- **1)** wsprawie oprzestępstwo skarbowe wymierzenia oskarżonemu kary z zastosowaniem nadzwyczajnego jej złagodzenia, orzeczenia środka karnego określonego w art. 22 § 2 pkt 2—6, odstąpienia od ich wymierzenia lub warunkowego zawieszenia wykonania kary; przepisu nie stosuje się do sprawcy przestępstwa skarbowego popełnionego w warunkach określonych w art. 37 § 1 lub w art. 38 § 2, z zastrzeżeniem art. 37 § 2 i 3 albo art. 38 § 3,
-- **2)** w sprawie o wykroczenie skarbowe wymierzenia oskarżonemu kary grzywny nieprzekraczającej dziesięciokrotności minimalnego wynagrodzenia albo orzeczenia środka karnego określonego w art. 47 § 2 pkt 2 lub 3 albo z odstąpieniem od ich wymierzenia.
+- **1)** w sprawie o przestępstwo skarbowe - wymierzenia oskarżonemu kary z zastosowaniem nadzwyczajnego jej złagodzenia, orzeczenia środka karnego określonego w art. 22 § 2 pkt 2-6, odstąpienia od ich wymierzenia lub warunkowego zawieszenia wykonania kary; przepisu nie stosuje się do sprawcy przestępstwa skarbowego popełnionego w warunkach określonych w art. 37 § 1 lub w art. 38 § 2, z zastrzeżeniem art. 37 § 2 i 3 albo art. 38 § 3, nemu kary grzywny nieprzekraczającej dziesięciokrotności minimalnego wynagrodzenia albo orzeczenia środka karnego określonego w art. 47 § 2 pkt 2 lub 3 albo z odstąpieniem od ich wymierzenia.
 
-§ 3. Przepisy art. 335 § 2 i 3, art. 339 § 1 pkt 3 iart. 343 § 4—7 Kodeksu postępowania karnego stosuje się odpowiednio; jeżeli w związku kowej. z przestępstwem skarbowym lub wykroczeniem skarbowym nastąpiło uszczuplenie należności publicznoprawnej, a nie została ona w całości uiszczona, sąd uzależnia uwzględnienie wniosku od uiszczenia tej wymagalnej należności w całości w wyznaczonym terminie.
+§ 3. Przepisy art. 335 § 2 i 3, art. 339 § 1 pkt 3 i art. 343 § 4-7 Kodeksu postępowania karnego stosuje się odpowiednio; jeżeli w związku z przestępstwem skarbowym lub wykroczeniem skarbowym nastąpiło uszczuplenie należności publicznoprawnej, a nie została ona w całości uiszczona, sąd uzależnia uwzględnienie wniosku od uiszczenia tej wymagalnej należności w całości w wyznaczonym terminie.
 
-§ 4. Nie można uwzględnić wniosku oorzeczenie przepadku przedmiotów, jeżeli interwenient temu się sprzeciwi na piśmie albo ustnie do protokołu.”;
+§ 4. Nie można uwzględnić wniosku o orzeczenie przepadku przedmiotów, jeżeli interwenient temu się sprzeciwi na piśmie albo ustnie do protokołu.”;
 
-- **122)** w art. 157 § 1 otrzymuje brzmienie: Ń§ 1. Jeżeli akt oskarżenia wniósł finansowy organ postępowania przygotowawczego, udział tego organu lub jego przedstawiciela w rozprawie jest obowiązkowy w postępowaniu uproszczonym.”;
-- **123)** art. 161 otrzymuje brzmienie: ŃArt. 161. § 1. Jeżeli w związku z przestępstwem skarbowym lub wykroczeniem skarbowym nastąpiło uszczuplenie należności publicznoprawnej, a nie została ona w całości uiszczona, sąd uzależnia uwzględnienie wniosku oskarżonego, o którym mowa w art. 387 § 1 Kodeksu postępowania karnego, od uiszczenia tej wymagalnej należności w całości w wyznaczonym terminie.
+- **122)** w art. 157 § 1 otrzymuje brzmienie: „§ 1. Jeżeli akt oskarżenia wniósł finansowy organ postępowania przygotowawczego, udział tego organu lub jego przedstawiciela w rozprawie jest obowiązkowy w postępowaniu uproszczonym.”;
+- **123)** art. 161 otrzymuje brzmienie: „Art. 161. § 1. Jeżeli w związku z przestępstwem skarbowym lub wykroczeniem skarbowym nastąpiło uszczuplenie należności publicznoprawnej, a nie została ona w całości uiszczona, sąd uzależnia uwzględnienie wniosku oskarżonego, o którym mowa w art. 387 § 1 Kodeksu postępowania karnego, od uiszczenia tej wymagalnej należności w całości w wyznaczonym terminie.
 
 § 2. Jeżeli w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe zgłoszono interwencję, sąd nie może przychylić się do wniosku, o którym mowa w art. 387 § 1 Kodeksu postępowania karnego, dotyczącego orzeczenia przepadku przedmiotów, gdy interwenient temu się sprzeciwi na piśmie albo ustnie do protokołu.
 
@@ -587,65 +585,70 @@ domain: null
 
 § 4. O terminie posiedzenia zawiadamia się strony, przesyłając im odpis wniosku.
 
-§ 5. Nieusprawiedliwione niestawiennictwo oskarżyciela publicznego, podmiotu pociągniętego do odpowiedzialności posiłkowej lub interwenienta na rozprawę bądê posiedzenie nie stoi na przeszkodzie uwzględnieniu wniosku, jeżeli pozostałe warunki określone w art.387 Kodeksu postępowania karnego iw§ 1 są spełnione.”;
+§ 5. Nieusprawiedliwione niestawiennictwo oskarżyciela publicznego, podmiotu pociągniętego do odpowiedzialności posiłkowej lub interwenienta na rozprawę bądź posiedzenie nie stoi na przeszkodzie uwzględnieniu wniosku, jeżeli pozostałe warunki określone w art. 387 Kodeksu postępowania karnego i w § 1 są spełnione.”;
 
-- **124)** po art. 161 dodaje się art. 161a w brzmieniu: ŃArt. 161a. Jeżeli po rozpoczęciu przewodu sądowego ujawni się, że czyn oskarżonego stanowi wykroczenie skarbowe, sąd rozpoznaje sprawę w dalszym ciągu, w tym samym składzie.”;
-- **125)** art. 163 otrzymuje brzmienie: ŃArt. 163. Orzeczenie kończące postępowanie powinno w miarę potrzeby zawierać także rozstrzygnięcie co do przepadku przedmiotów i ściągnięcia ich równoprzepadku korzyści majątkowej i ściągnięcia jej równowartości pieniężnej, należności publicznoprawnej uszczuplonej czynem zabronionym, odpowiedzialności posiłkowej lub roszczeń interwenienta.”;
-- **126)** po art. 163 dodaje się art. 163a w brzmieniu: ŃArt. 163a. Po ogłoszeniu lub przy doręczeniu orzeczenia należy oskarżonego, októrym mowa w art. 36 § 3, art. 156 lub art. 161, pouczyć o treści art. 443 Kodeksu postępowania karnego w związku z art. 434 § 3 Kodeksu postępowania karnego.”;
-- **127)** art. 164 i 165 otrzymują brzmienie: ŃArt. 164. Jeżeli ukarany za wykroczenie skarbowe jest osobą przebywającą jedynie czasowo na terytorium Rzeczypospolitej Polskiej albo nie ma na tym terytorium stałego miejsca zamieszkania lub wartości pieniężnej, środka karnego stałego miejsca pobytu, sąd może orzec natychmiastową wykonalność orzeczenia wymierzającego karę grzywny; jednocześnie sąd orzeka zastępczą karę pozbawienia wolności na wypadek nieuiszczenia orzeczonej kary grzywny w terminie 3 dni, a ponadto zarządza zatrzymanie paszportu lub innego dokumentu uprawniającego do przekroczenia granicy, na czas do uiszczenia orzeczonej kary grzywny lub wykonania zastępczej kary pozbawienia wolności.
+- **124)** po art. 161 dodaje się art. 161a w brzmieniu: „Art. 161a. Jeżeli po rozpoczęciu przewodu sądowego ujawni się, że czyn oskarżonego stanowi wykroczenie skarbowe, sąd rozpoznaje sprawę w dalszym ciągu, w tym samym składzie.”; „Art. 163. Orzeczenie kończące postępowanie powinno w miarę potrzeby zawierać także rozstrzygnięcie co do przepadku przedmiotów i ściągnięcia ich równowartości pieniężnej, środka karnego przepadku korzyści majątkowej i ściągnięcia jej równowartości pieniężnej, należności publicznoprawnej uszczuplonej czynem zabronionym, odpowiedzialności posiłkowej lub roszczeń interwenienta.”;
+- **126)** po art. 163 dodaje się art. 163a w brzmieniu: „Art. 163a. Po ogłoszeniu lub przy doręczeniu orzeczenia należy oskarżonego, o którym mowa w art. 36 § 3, art. 156 lub art. 161, pouczyć o treści art. 443 Kodeksu postępowania karnego w związku z art. 434 § 3 Kodeksu postępowania karnego.”;
+- **127)** art. 164 i 165 otrzymują brzmienie: „Art. 164. Jeżeli ukarany za wykroczenie skarbowe jest osobą przebywającą jedynie czasowo na terytorium Rzeczypospolitej Polskiej albo nie ma na tym terytorium stałego miejsca zamieszkania lub stałego miejsca pobytu, sąd może orzec natychmiastową wykonalność orzeczenia wymierzającego karę grzywny; jednocześnie sąd orzeka zastępczą karę pozbawienia wolności na wypadek nieuiszczenia orzeczonej kary grzywny w terminie 3 dni, a ponadto zarządza zatrzymanie paszportu lub innego dokumentu uprawniającego do przekroczenia granicy, na czas do uiszczenia orzeczonej kary grzywny lub wykonania zastępczej kary pozbawienia wolności.
 
 **Art. 165.** Do finansowego organu postępowania przygotowawczego stosuje się odpowiednio przepis art. 157 także na rozprawie w sądzie odwoławczym lub na posiedzeniu sądu w kwestii wznowienia postępowania, chyba że prezes sądu lub sąd zarządzi inaczej.”;
 
 **Art. 172.**
 
-§ 1. Wyrokiem nakazowym można orzec za przestępstwo skarbowe karę grzywny określoną w art. 23 § 2 albo karę ograniczenia wolności, a za wykroczenie skarbowe karę grzywny określoną w art. 48 § 3.
+§ 1. Wyrokiem nakazowym można orzec za przestępstwo skarbowe karę grzywny określoną w art. 23 § 2 albo karę ograniczenia wolności, a za wykroczenie skarbowe - karę grzywny określoną w art. 48 § 3.
 
-§ 2. Obok kary określonej w § 1 można, w wypadkach przewidzianych w kodeksie, orzec środek karny określony w art. 22 § 2 pkt 2—6 lub w art. 47 § 2 pkt 2 lub 3.”;
+§ 2. Obok kary określonej w § 1 można, w wypadkach przewidzianych w kodeksie, orzec środek karny określony w art. 22 § 2 pkt 2-6 lub w art. 47 § 2 pkt 2 lub 3.”;
 
-- **132)** w art. 173 w § 2 pkt 2 otrzymuje brzmienie: Ń2) oskarżony oprzestępstwo skarbowe ukrył się po wniesieniu do sądu aktu oskarżenia, atakże wówczas, gdy wtoku postępowania przed sądem ustalono jego miejsce zamieszkania lub pobytu w kraju.”;
-- **133)** art. 174 otrzymuje brzmienie: ŃArt. 174. W postępowaniu w stosunku do nieobecnych nie stosuje się przepisów, których stosowanie wymaga obecności oskarżonego lub podmiotu pociągniętego do odpowiedzialności posił134) w art. 175 § 2 otrzymuje brzmienie: Ń§ 2. Postanowienia ozastosowaniu postępowania wstosunku do nieobecnych nie ogłasza się nieobecnej stronie.”;
-- **135)** art. 177 otrzymuje brzmienie: ŃArt. 177. W razie osobistego zgłoszenia się skazanego do dyspozycji sądu lub ujęcia skazanego doręcza mu się odpis prawomocnego wyroku. Na wniosek skazanego złożony na piśmie w zawitym terminie 14 dni od daty doręczenia sąd, którego wyrok się uprawomocnił, wyznacza niezwłocznie rozprawę, a wydany w tej instancji wyrok traci moc z chwilą stawienia się skazanego na rozprawie.”;
-- **136)** w art. § 2 otrzymuje brzmienie: Ń§ 2. W postępowaniu wykonawczym w sprawach o przestępstwa skarbowe i wykroczenia skarbowe przez wyrażenie Ńprokurator” użyte w przepisach Kodeksu karnego wykonawczego rozumie się także Ńfinansowy organ postępowania przygotowawczego”.”;
-- **137)** w art. 179 § 4 i 5 otrzymują brzmienie: Ń§ 4. Jeżeli zabezpieczenia majątkowego dokonał uprzednio urząd celny, sąd kieruje orzeczenie do tego organu w celu wykonania w tej części.
+- **132)** w art. 173 w § 2 pkt 2 otrzymuje brzmienie: „2) oskarżony o przestępstwo skarbowe ukrył się po wniesieniu do sądu aktu oskarżenia, a także wówczas, gdy w toku postępowania przed sądem ustalono jego miejsce zamieszkania lub pobytu w kraju.”;
+- **133)** art. 174 otrzymuje brzmienie: „Art. 174. W postępowaniu w stosunku do nieobecnych nie stosuje się przepisów, których stosowanie wymaga obecności oskarżonego lub podmiotu pociągniętego do odpowiedzialności posiłkowej.”;
+- **134)** w art. 175 § 2 otrzymuje brzmienie: „§ 2. Postanowienia o zastosowaniu postępowania w stosunku do nieobecnych nie ogłasza się nieobecnej stronie.”;
+- **135)** art. 177 otrzymuje brzmienie: „Art. 177. W razie osobistego zgłoszenia się skazanego do dyspozycji sądu lub ujęcia skazanego doręcza mu się odpis prawomocnego wyroku. Na wniosek skazanego złożony na piśmie w zawitym terminie 14 dni od daty doręczenia sąd, którego wyrok się uprawomocnił, wyznacza niezwłocznie rozprawę, a wydany w tej instancji wyrok traci moc z chwilą stawienia się skazanego na rozprawie.”;
+- **136)** w art. 178 § 2 otrzymuje brzmienie: „§ 2. W postępowaniu wykonawczym w sprawach o przestępstwa skarbowe i wykroczenia skarbowe przez wyrażenie „prokurator” użyte w przepisach Kodeksu karnego wykonawczego rozumie się także „finansowy organ postępowania przygotowawczego”.”; „§ 4. Jeżeli zabezpieczenia majątkowego dokonał uprzednio urząd celny, sąd kieruje orzeczenie do tego organu w celu wykonania w tej części.
 
 § 5. W razie orzeczenia środka karnego przepadku korzyści majątkowej lub ściągnięcia jej równowartości pieniężnej organ egzekucyjny określony w § 1 lub art. 27 Kodeksu karnego wykonawczego prowadzi także egzekucję orzeczonej równocześnie kary grzywny, środka karnego przepadku przedmiotów lub ściągnięcia ich równowartości pieniężnej, jeżeli dokonał uprzednio ich zabezpieczenia.”;
 
-- **138)** po art. 179 dodaje się art. 179a w brzmieniu: ŃArt. 179a. § 1. Jeżeli w orzeczeniu o przepadku przedmiotów zarządzono ich zniszczenie, sąd określa warunki i tryb niezwłocznego zniszczenia przedmiotów przez odpowiedni organ postępowania wykonawczego.
+- **138)** po art. 179 dodaje się art. 179a w brzmieniu: „Art. 179a. § 1. Jeżeli w orzeczeniu o przepadku przedmiotów zarządzono ich zniszczenie, sąd określa warunki i tryb niezwłocznego zniszczenia przedmiotów przez odpowiedni organ postępowania wykonawczego.
 
-§ 2. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowe warunki i tryb niezwłocznego zniszczenia przedmiotów, o których kowej.”; mowa w § 1, mając na uwadze w szczególności rodzaj przedmiotów i podmioty wyspecjalizowane w ich niszczeniu, a także zapewnienie sprawności postępowania wykonawczego i jego koszty, jak również konieczność właściwego zabezpieczenia wykonywanych czynności likwidacyjnych.”;
+§ 2. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowe warunki i tryb niezwłocznego zniszczenia przedmiotów, o których mowa w § 1, mając na uwadze w szczególności rodzaj przedmiotów i podmioty wyspecjalizowane w ich niszczeniu, a także zapewnienie sprawności postępowania wykonawczego i jego koszty, jak również konieczność właściwego zabezpieczenia wykonywanych czynności likwidacyjnych.”;
 
-- **139)** art. 180 otrzymuje brzmienie: ŃArt. 180. § 1. Do zabezpieczenia i egzekucji środka karnego ściągnięcia równowartości pieniężnej przepadku przedmiotów, środka karnego ściągnięcia równowartości pieniężnej przepadku korzyści majątkowej lub należności publicznoprawnej uszczuplonej czynem zabronionym stosuje się odpowiednio art. 179 § 1 niniejszego kodeksu oraz art. 27 Kodeksu karnego wykonawczego.
+- **139)** art. 180 otrzymuje brzmienie: „Art. 180. § 1. Do zabezpieczenia i egzekucji środka karnego ściągnięcia równowartości pieniężnej przepadku przedmiotów, środka karnego ściągnięcia równowartości pieniężnej przepadku korzyści majątkowej lub należności publicznoprawnej uszczuplonej czynem zabronionym stosuje się odpowiednio art. 179 § 1 niniejszego kodeksu oraz art. 27 Kodeksu karnego wykonawczego.
 
 § 2. Interwenient roszczący sobie prawo do przedmiotów objętych zabezpieczeniem lub egzekucją przepadku przedmiotów lub ściągnięcia ich równowartości pieniężnej może dochodzić swych roszczeń tylko w trybie określonym w art. 119.”;
 
-- **140)** po art. 180 dodaje się art. 180a w brzmieniu: ŃArt. 180a. Do zabezpieczenia i egzekucji środka karnego przepadku korzyści majątkowej lub ściągnięcia jej równowartości pieniężnej stosuje się odpowiednio art. 33 § 2—4.”;
-- **141)** w art. 184 dodaje się § 6 w brzmieniu: Ń§ 6. Przepisy § 1, 2 i5 stosuje się odpowiednio do środka karnego ściągnięcia równowartości pieniężnej przepadku przedmiotów.”;
-- **142)** w art. 185 § 1 otrzymuje brzmienie: Ń§ 1. Jeżeli ukarany za wykroczenie skarbowe nie uiści w terminie wymierzonej kary grzywny, anie można jej ściągnąć wdrodze egzekucji, sąd po uprzednim wyrażeniu zgody przez ukaranego może zamienić karę grzywny na pracę społecznie użyteczną, określając jej rodzaj i czas trwania. Praca społecznie użyteczna trwa najkrócej 7 dni, najdłużej 3 miesiące; określa się ją w dniach i miesiącach.”;
-- **143)** w art. 186 § 3 otrzymuje brzmienie: Ń§ 3. Wymiar zastępczej kary pozbawienia wolności nie może przekroczyć 3 miesięcy
-- **144)** art. 188 otrzymuje brzmienie: ŃArt. 188. W razie skazania sprawcy na karę ograniczenia wolności za przestępstwo skarbowe, w związku z którym nastąpiło uszczuplenie należności publicznoprawnej, uchylaniem się skazanego od odbywania kary ograniczenia wolności jest również nieuiszczenie tej wymagalnej należności w wyznaczonym terminie.”;
-- **145)** art. 189 otrzymuje brzmienie: ŃArt. 189. Do wykonania orzeczenia w części dotyczącej środka karnego ściągnięcia równowartości pieniężnej przepadku przedmiotów lub środka karnego ściągnięcia równowartości pieniężnej przepadku korzyści majątkowej stosuje się odpowiednio art. 179 § 1 niniejszego kodeksu oraz art. 27, 44, 49—51 i art. 187—195a Kodeksu karnego wykonawczego.”.
+- **140)** po art. 180 dodaje się art. 180a w brzmieniu: „Art. 180a. Do zabezpieczenia i egzekucji środka karnego przepadku korzyści mają tkowej lub ściągnięcia jej równowartości pieniężnej stosuje się odpowiednio art. 33 § 2-4.”;
+- **141)** w art. 184 dodaje się § 6 w brzmieniu: „§ 6. Przepisy § 1, 2 i 5 stosuje się odpowiednio do środka karnego ściągnięcia równowartości pieniężnej przepadku przedmiotów.”;
+- **142)** w art. 185 § 1 otrzymuje brzmienie: „§ 1. Jeżeli ukarany za wykroczenie skarbowe nie uiści w terminie wymierzonej kary grzywny, a nie można jej ściągnąć w drodze egzekucji, sąd po uprzednim wyrażeniu zgody przez ukaranego może zamienić karę grzywny na pracę społecznie użyteczną, określając jej rodzaj i czas trwania. Praśla się ją w dniach i miesiącach.”;
+- **143)** w art. 186 § 3 otrzymuje brzmienie: „§ 3. Wymiar zastępczej kary pozbawienia wolności nie może przekroczyć 3 miesięcy - wymierza się ją w dniach i miesiącach.”;
+- **144)** art. 188 otrzymuje brzmienie: „Art. 188. W razie skazania sprawcy na karę ograniczenia wolności za przestępstwo skarbowe, w związku z którym nastąpiło uszczuplenie należności publicznoprawnej, uchylaniem się skazanego od odbywania kary ograniczenia wolności jest również nieuiszczenie tej wymagalnej należności w wyznaczonym terminie.”;
+- **145)** art. 189 otrzymuje brzmienie: „Art. 189. Do wykonania orzeczenia w części dotyczącej środka karnego ściągnięcia równowartości pieniężnej przepadku przedmiotów lub środka karnego ściągnięcia równowartości pieniężnej przepadku korzyści majątkowej stosuje się odpowiednio art. 179 § 1 niniejszego kodeksu oraz art. 27, 44, 49-51 i art. 187-195a Kodeksu karnego wykonawczego.”.
 
-**Art. 2.** Wustawie zdnia 29 listopada 1990 r. opaszportach (Dz. U. z 1991 r. 2, poz. 5, z 1997 r. 114, poz. 739 oraz z 2002 r. 62, poz. 557) w art. 6 ust. 1 otrzymuje brzmienie: Ń1. Wydania paszportu wkraju odmawia się na wniosek:
+**Art. 2.** W ustawie z dnia 29 listopada 1990 r. o paszportach (Dz.U. z 1991 r. Nr 2, poz. 5, z 1997 r. Nr 114, poz. 739 oraz z 2002 r. Nr 62, poz. 557) w art. 6 ust. 1 otrzymuje brzmienie: „1. Wydania paszportu w kraju odmawia się na wniosek:
 
-**Art. 3.** W ustawie z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U. z 2004 r. 4, poz. 27 i 273, poz. 2703 oraz z 2005 r. 132, poz. 111) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz.U. z 2004 r. Nr 4, poz. 27 i Nr 273, poz. 2703 oraz z 2005 r. Nr 132, poz. 1111) wprowadza się następujące zmiany:
 
-**Art. 4.** Wustawie zdnia 30 sierpnia 1996 r. okomercjalizacji iprywatyzacji (Dz. U. z2002 r. 171, poz. 1397, z póên. zm. ) po art. 69ddodaje się art.69ewbrzmieniu: ŃArt. 69e. Kto składa fałszywe oświadczenie w celu wyłudzenia od Skarbu Państwa nieodpłatnie zbywanych akcji spółek należących do Skarbu Państwa, innych papierów wartościowych lub innego świadczenia określonego w przepisach o prywatyzacji mienia Skarbu Państwa, do którego otrzymania nie jest uprawniony, podlega karze grzywny albo karze aresztu, albo obu tym karom łącznie.”.
+**Art. 4.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz.U. z 2002 r. Nr 171, poz. 1397, z późn. zm. ) po art. 69d dodaje się art. 69e w brzmieniu: „Art. 69e. Kto składa fałszywe oświadczenie w celu wyłudzenia od Skarbu Państwa nieodpłatnie zbywanych akcji spółek należących do Skarbu Państwa, innych papierów wartościowych lub innego świadczenia określonego w przepisach o prywatyzacji mienia Skarbu Państwa, do którego otrzymania nie jest uprawniony, podlega karze grzywny albo karze aresztu, albo obu tym karom łącznie.”.
 
-**Art. 5.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. 88, poz. 553, z póên. zm. ) w art. 115 w § 13 pkt 3 otrzymuje brzmienie: Ń3) sędzia, ławnik, prokurator, funkcjonariusz finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego, notariusz, komornik, kurator sądowy, osoba orzekająca w organach dyscyplinarnych działających na podstawie ustawy,”.
+**Art. 5.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny (Dz.U. Nr 88, poz. 553, z późn. zm. ) w art. 115 w § 13 pkt 3 otrzymuje brzmienie: „3) sędzia, ławnik, prokurator, funkcjonariusz finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego, notariusz, komornik, kurator sądowy, osoba orzekająca w organach dyscyplinarnych działających na podstawie ustawy,”.
 
-**Art. 6.** W ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. 89, poz. 555, z póên. zm.
+**Art. 6.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz.U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. 90, poz. 557, z póên. zm. ——————— ) wprowadza się następujące zmiany: ———————
+**Art. 7.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy (Dz.U. Nr 90, poz. 557, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. 98, poz. 1070, zpóên. zm. ) wart. 13 w§ 2 pkt 2 otrzymuje brzmienie: Ń2) o wykroczenia skarbowe oraz o przestępstwa skarbowe, z wyjątkiem spraw podlegających rozpoznaniu w postępowaniu zwyczajnym,”.
+**Art. 8.** W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz.U. Nr 98, poz. 1070, z późn. zm. ) w art. 13 w § 2 pkt 2 otrzymuje brzmienie: „2) o wykroczenia skarbowe oraz o przestępstwa skarbowe, z wyjątkiem spraw podlegających rozpoznaniu w postępowaniu zwyczajnym,”.
 
-**Art. 9.** W ustawie z dnia 28 paêdziernika 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groêbą kary (Dz. U. 197, poz. 1661, z póên. zm. określone w art. 54 § 1 i 2, art. 55 § 1 i 2, art. 56 § 1 i 2, art. 58 § 2 i 3, art. 59 § 1—3, art. 60 § 1—3, art. 61 § 1, art. 62 § 1—4, art. 63 § 1—4, art. 64 § 1, art. 65 § 1—3, art. 66 § 1, art. 67 § 1 i 2, art. 68 § 1, art. 69 § 1—3, art. 70 § 1—4, art. 71—72, art. 73 § 1, art. 73a§ 1 i2, art. 74 § 1—3, art. 75 § 1 i 2, art. 76 § 1 i 2, art. 77 § 1 i 2, art. 78 § 1 i2, art. 80 § 1—3, art. 80a§ 1, art. 82 § 1 oraz art. 83 § 1 Kodeksu karnego skarbowego;
+**Art. 9.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz.U. Nr 197, poz. 1661, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** Przepisy niniejszej ustawy o przedawnieniu stosuje się także do czynów popełnionych przed ) wprowadza się następujące jej wejściem w życie, chyba że termin przedawnienia zmiany: już upłynął.
+**Art. 10.** Przepisy niniejszej ustawy o przedawnieniu stosuje się także do czynów popełnionych przed jej wejściem w życie, chyba że termin przedawnienia już upłynął.
 
-**Art. 13.** Przepisy niniejszej ustawy stosuje się takŃ2. Podmiot zbiorowy podlega również odpowie- że przy wykonywaniu orzeczeń, które stały się wykodzialności na podstawie ustawy, jeżeli osoba, nalne przed dniem jej wejścia w życie. októrej mowa wart. 3, popełniła przestępstwo skarbowe: Art. 14. Do czasu wydania przepisów wykonaw1) przeciwko obowiązkom podatkowym i roz- czych na podstawie niniejszej ustawy zachowują moc liczeniom z tytułu dotacji lub subwencji, przepisy wydane przed jej wejściem wżycie, jeżeli nie są sprzeczne z przepisami tej ustawy. ———————
+**Art. 11.** Czynności procesowe dokonane przed wejściem w życie niniejszej ustawy są skuteczne, jeżeli dokonano ich z zachowaniem przepisów dotychczasowych.
+
+**Art. 12.** Wyłączony z mocy prawa od udziału w sprawie jest także sędzia, który brał udział w wydaniu postanowienia o zezwoleniu na dobrowolne poddanie się odpowiedzialności.
+
+**Art. 13.** Przepisy niniejszej ustawy stosuje się także przy wykonywaniu orzeczeń, które stały się wykonalne przed dniem jej wejścia w życie.
+
+**Art. 14.** Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy zachowują moc przepisy wydane przed jej wejściem w życie, jeżeli nie są sprzeczne z przepisami tej ustawy.
 
 **Art. 15.** W razie wątpliwości, czy stosować prawo dotychczasowe, czy przepisy niniejszej ustawy, stosuje się tę ustawę.
 
-**Art. 16.** Ustawa wchodzi wżycie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
+**Art. 16.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

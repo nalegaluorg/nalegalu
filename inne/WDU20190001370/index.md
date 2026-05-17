@@ -8,9 +8,12 @@ pos: 1370
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 lipca 2019 r.
+# 1. Na podstawie 16 ust. zdanie pierwsze z 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 poz. 1523 oraz z 2018 poz. 2243) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst z 27 lutego 2003 o utworzeniu Akademii im. Bohaterów Westerplatte (Dz. U. Nr 60, poz. 533), z uwzględnieniem zmian wprowadzonych:
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z 5 lipca 2019 sprawie ogłoszenia jednolitego tekstu o utworzeniu Akademii im. Bohaterów Westerplatte*
 
 | Pole | Wartość |
 |---|---|
@@ -24,55 +27,24 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001370) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1370/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 5 lipca 2019 r.
-sprawie ogłoszenia jednolitego tekstu o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte
-1. Na 16 ust. zdanie pierwsze dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2017 r. poz. 1523 oraz 2018 r. poz. 2243) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst dnia 27 lutego 2003 r. o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte (Dz. U. Nr 60, poz. 533), uwzględnieniem zmian wprowadzonych:
-1) ustawą dnia 28 maja 2004 r. o zmianie o szkolnictwie wyższym, o wyższych szkołach zawodowych, o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw (Dz. U. Nr 152, poz. 1598),
-2) ustawą dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365 oraz 2006 r. Nr 46, poz. 328),
-3) ustawą dnia 3 lipca 2018 r. Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym i nauce (Dz. U.
-poz. 1669) oraz zmian wynikających przepisów ogłoszonych przed 4 lipca 2019 r.
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:
-1) 7–9 i 14 dnia 28 maja 2004 r. o zmianie o szkolnictwie wyższym, o wyższych szkołach zawodowych, o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw (Dz. U.
-Nr 152, poz. 1598), które stanowią: „Art. 7. 1. Do dnia 30 września 2004 r. studenci lub słuchacze studiów wieczorowych, zaocznych i eksternistycznych:
+1) ustawą z 28 maja 2004 o zmianie o szkolnictwie wyższym, o wyższych szkołach zawodowych, o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw (Dz. U. Nr 152, poz. 1598),
+2) ustawą z 27 lipca 2005 Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365 oraz z 2006 Nr 46, poz. 328),
+3) ustawą z 3 lipca 2018 Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym i nauce (Dz. U.
+poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 lipca 2019 Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:
+1) 7–9 i 14 z 28 maja 2004 o zmianie o szkolnictwie wyższym, o wyższych szkołach zawodowych, o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw (Dz. U.
+Nr 152, poz. 1598), które stanowią: „Art. 7. 1. Do 30 września 2004 studenci lub słuchacze studiów wieczorowych, zaocznych i eksternistycznych:
 1) uczelni, o których mowa ustawie wymienionej 1, mogą otrzymywać świadczenia pomocy materialnej, o których mowa ustawie wymienionej 1,
 2) uczelni, o których mowa ustawie wymienionej 2, mogą otrzymywać świadczenia pomocy materialnej, o których mowa ustawie wymienionej 2,
-3) uczelni, o których mowa ustawach wymienionych 4–6, będący osobami cywilnymi mogą otrzymywać świadczenia pomocy materialnej, o których mowa ustawie wymienionej zastrzeżeniem ust. 2.
-2. Świadczenia pomocy materialnej przyznawane ust. nie obejmują dopłat do zakwaterowania,
-4. Do dnia 30 września 2004 r. studentom studiów dziennych uczelni niepaństwowych mogą być wypłacane dopłaty do zakwaterowania, dopłaty do posiłków, stypendia za wyniki nauce oraz stypendia specjalne dla osób niepełnosprawnych.
+3) uczelni, o których mowa ustawach wymienionych 4–6, będący osobami cywilnymi mogą otrzymywać świadczenia pomocy materialnej, o których mowa ustawie wymienionej z zastrzeżeniem ust.
+Świadczenia pomocy materialnej przyznawane na podstawie ust. nie obejmują dopłat do zakwaterowania, dopłat do posiłków oraz stypendium ministra za osiągnięcia nauce.
+3. Do 30 września 2004 osoby cywilne będące studentami lub słuchaczami studiów dziennych uczelniach, o których mowa ustawach wymienionych 4–6, mogą otrzymywać świadczenia pomocy materialnej, o których mowa ustawie wymienionej 1. Świadczenia pomocy materialnej nie obejmują stypendium ministra za osiągnięcia nauce.
+4. Do 30 września 2004 studentom studiów dziennych uczelni niepaństwowych mogą być wypłacane dopłaty do zakwaterowania, dopłaty do posiłków, stypendia za wyniki nauce oraz stypendia specjalne dla osób niepełnosprawnych.
 
-**Art. 8.** Do dnia 30 września 2004 r. do przyznawania, wypłacania i określania wysokości świadczeń pomocy materialnej, dla studentów, o których mowa:
-
-**Art. 9.**
-
-1. Do dnia 30 września 2004 r. świadczenia pomocy materialnej dla studentów, przyznawane wniosek osób uprawnionych, o których mowa 7, mogą być wypłacane za okres od dnia stycznia 2004 r.
-
-2. Do dnia 30 września 2004 r. świadczenia pomocy materialnej, o których mowa ust. 1, mogą być przyznane okres do 7 miesięcy.” „Art. 14. Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
-
-- **1)** lit. b oraz 2–4, 5, zakresie dotyczącym 152 ust. 1–3 i 5, oraz 6 i 7 oraz 2 1–3, 4, zakresie dotyczącym 75 ust. 1–3 i 5, oraz 5 i 6, które wchodzą października 2004 r.;
-- **2)** 5, zakresie dotyczącym 152 ust. 4, oraz 2 4, zakresie dotyczącym 75 ust. 4, które wchodzą stycznia 2005 r.”;
-- **2)** 252 i 277 dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365 oraz 2006 r. Nr 46, poz. 328), które stanowią: „Art. 252. 1. Istniejące dniu wejścia państwowe i niepaństwowe szkoły wyższe stają się odpowiednio uczelniami publicznymi i niepublicznymi rozumieniu ustawy.
-
-2. Istniejące dniu wejścia państwowe i niepaństwowe wyższe szkoły zawodowe stają się odpowiednio uczelniami publicznymi i niepublicznymi rozumieniu niniejszej ustawy.
-
-3. Istniejące dniu wejścia akademie wojskowe stają się uczelniami wojskowymi publicznymi uczelniami akademickimi.
-
-4. Istniejące dniu wejścia wyższe szkoły oficerskie stają się uczelniami wojskowymi publicznymi uczelniami zawodowymi.
-
-5. Istniejące dniu wejścia Wyższa Szkoła Policji Szczytnie i Szkoła Główna Służby Pożarniczej Warszawie stają się uczelniami służb państwowych.
-
-6. Ilekroć odrębnych przepisach jest mowa o wyższych szkołach państwowych lub niepaństwowych, należy przez to rozumieć odpowiednio uczelnie publiczne i niepubliczne.” „Art. 277. Ustawa wchodzi września 2005 r., tym że:
-
-- **1)** 94, 151, 155 oraz 157 wchodzą stycznia 2007 r.;
-- **2)** 107–150 i 152–154, 156 oraz 158 wchodzą września 2006 r.;
-- **3)** 99 ust. 3 i 4 oraz 199 wchodzą października 2006 r.”;
-- **3)** 350 dnia 3 lipca 2018 r. Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „Art. 350. Ustawa wchodzi października 2018 r., wyjątkiem:
-- **1)** 1, 42 2 lit. b oraz 334 ust. 2, które wchodzą następującym po dniu ogłoszenia; USTAWA dnia 27 lutego 2003 r. o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte
+**Art. 8.** Do 30 września 2004 do przyznawania, wypłacania i określania wysokości świadczeń pomocy materialnej, dla studentów, o których mowa: Do 30 września 2004 świadczenia pomocy materialnej, o których mowa ust. 1, mogą być przyznane na okres do 7 miesięcy.” „Art. 14. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia, z wyjątkiem:
 
 **Art. 1.**
 
-1. Akademia Marynarki Wojennej im. Bohaterów Westerplatte działająca 54 4 dnia 31 marca 1965 r. o wyższym szkolnictwie wojskowym (Dz. U. 1992 r. poz. 40, późn. zm. ) , zwana dalej „AMW”, staje się Akademią Marynarki Wojennej im. Bohaterów Westerplatte rozumieniu niniejszej ustawy, zwaną dalej „Akademią”.
-
-2. Siedzibą Akademii jest Gdynia.
+1. Akademia im. Bohaterów Westerplatte działająca na podstawie 54 pkt 4 z 31 marca 1965 o wyższym szkolnictwie wojskowym (Dz. U. z 1992 poz. 40, z późn. zm. ) , zwana dalej „AMW”, staje się Akademią im. Bohaterów Westerplatte rozumieniu niniejszej ustawy, zwaną dalej „Akademią”. Siedzibą Akademii jest Gdynia.
 
 3. Akademia jest uczelnią państwową posiadającą osobowość prawną.
 
@@ -80,17 +52,11 @@ Nr 152, poz. 1598), które stanowią: „Art. 7. 1. Do dnia 30 września 2004 r.
 
 5. Akademia kształci żołnierzy oraz osoby cywilne.
 
-**Art. 2.**
-
-1. Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych, prac wdrożeniowych i modernizacyjnych zakresie nauk wojskowych i technicznych oraz kształcenie i prowadzenie badań naukowych zakresie nauk ekonomicznych i humanistycznych.
-
-2. (uchylony)
+**Art. 1.** Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych, prac wdrożeniowych i modernizacyjnych zakresie nauk wojskowych i technicznych oraz kształcenie i prowadzenie badań naukowych zakresie nauk ekonomicznych i humanistycznych. (uchylony)
 
 **Art. 3.**
 
-1. Nadzór nad Akademią sprawuje Minister Obrony Narodowej.
-
-2. W zakresie realizacji kierunkach podstawowych dla żeglugi morskiej postanowień Międzynarodowej Konwencji o wymaganiach zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej Londynie dnia 7 lipca 1978 r. (Dz. U. 1984 r. poz. 201 i 202, 1999 r. poz. 286, 2013 r. poz. 1092 i 1093, 2018 r. poz. 1866 i 2088 oraz 2019 r. poz. 103) nadzór nad Akademią sprawuje Minister Obrony Narodowej, porozumieniu ministrem właściwym do spraw gospodarki morskiej.
+1. Nadzór nad Akademią sprawuje Minister Obrony Narodowej. W zakresie realizacji na kierunkach podstawowych dla żeglugi morskiej postanowień Międzynarodowej Konwencji o wymaganiach zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej Londynie 7 lipca 1978 (Dz. U. z 1984 poz. 201 i 202, z 1999 poz. 286, z 2013 poz. 1092 i 1093, z 2018 poz. 1866 i 2088 oraz z 2019 poz. 103) nadzór nad Akademią sprawuje Minister Obrony Narodowej, porozumieniu z ministrem właściwym do spraw gospodarki morskiej.
 
 3. (uchylony)
 
@@ -100,13 +66,11 @@ Nr 152, poz. 1598), które stanowią: „Art. 7. 1. Do dnia 30 września 2004 r.
 
 **Art. 4.**
 
-1. Mienie obejmujące własność i inne prawa majątkowe AMW staje się mieniem Akademii.
-
-2. Akademia przejmuje prawa i zobowiązania AMW.
+1. Mienie obejmujące własność i inne prawa majątkowe AMW staje się mieniem Akademii. Akademia przejmuje prawa i zobowiązania AMW.
 
 **Art. 5.**
 
-1. Z wejścia ustawy:
+1. Z dniem wejścia życie ustawy:
 
 - **1)** żołnierze zawodowi pełniący służbę wojskową AMW pełnią tę służbę Akademii;
 - **2)** pracownicy AMW stają się pracownikami Akademii;
@@ -114,7 +78,5 @@ Nr 152, poz. 1598), które stanowią: „Art. 7. 1. Do dnia 30 września 2004 r.
 - **4)** podstawowe jednostki organizacyjne AMW stają się podstawowymi jednostkami organizacyjnymi Akademii;
 - **5)** dotychczasowe organy kolegialne i jednoosobowe AMW stają się organami Akademii.
 
-2. Jednostki organizacyjne AMW, które przed wejścia posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Akademii, jako jednostki organizacyjne Akademii.
-
-**Art. 6.** Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia .
+**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia .
 

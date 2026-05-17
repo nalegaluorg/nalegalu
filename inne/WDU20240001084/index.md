@@ -1,0 +1,60 @@
+---
+title: Rozporządzenie Ministra Klimatu i Środowiska z dnia 15 lipca 2024 r. w sprawie obowiązku zakupu ciepła lub chłodu oraz ciepła odpadowego oraz sposobu załatwiania reklamacji w zakresie przyłączania do sieci ciepłowniczej
+address: WDU20240001084
+eli: DU/2024/1084
+publisher: DU
+year: 2024
+pos: 1084
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 lipca 2024 Poz. 1084 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA dnia 15 lipca 2024 w sprawie obowiązku zakupu lub chłodu oraz odpadowego oraz sposobu załatwiania reklamacji w zakresie przyłączania do sieci ciepłowniczej Na podstawie art. 116 ust. 3 ustawy dnia 20 lutego 2015 o odnawialnych źródłach energii 2023 1436, 1597, 1681 i 1762 oraz 2024 834) zarządza się, co następuje: § 1. Rozporządzenie określa:
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 1084 |
+| ISAP | WDU20240001084 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-07-15 |
+| Data wydania | 2024-07-22 |
+| Ostatnia zmiana | 2024-07-23 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1084/text.pdf) |
+
+1) warunki techniczne i szczegółowy zakres realizacji obowiązku, o którym mowa w art. 116 ust. 1 ustawy dnia 20 lutego 2015 o odnawialnych źródłach energii, zwanego dalej „obowiązkiem zakupu”;
+2) sposób ustalania rzeczywistej ilości i chłodu oraz odpadowego w rozumieniu art. 3 20i ustawy dnia 10 kwietnia 1997 – Prawo energetyczne 2024 266, 834 i 859), zwanego dalej „ciepłem odpadowym”, objętych obowiązkiem zakupu;
+3) sposób prowadzenia przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, kontroli warunków technicznych określonych w 1;
+4) sposób uwzględniania kosztów realizacji obowiązku zakupu w kalkulacji cen ustalanych w taryfach przedsiębiorstwa energetycznego, o którym mowa w art. 116 ust. 1 ustawy dnia 20 lutego 2015 o odnawialnych źródłach energii;
+5) sposób załatwiania reklamacji w zakresie przyłączania do sieci ciepłowniczej.
+§ 2. Obowiązek zakupu jest realizowany przy zapewnieniu minimalizacji ilości strat ciepła, chłodu lub odpadowego w połączonych ze sobą urządzeniach i instalacjach, służących do przesyłania i dystrybucji ciepła, chłodu lub odpadowego ze źródeł ciepła, chłodu lub odpadowego przyłączonych do sieci ciepłowniczej.
+§ 3. 1. Obowiązek zakupu jest realizowany przed zakupem lub chłodu innych źródeł lub chłodu, przyłączonych do sieci ciepłowniczej, niebędących instalacjami odnawialnego źródła energii, instalacjami termicznego przekształcania odpadów lub źródłami odpadowego.
+2. Obowiązek zakupu jest realizowany w przypadku, gdy oferowana cena ciepła, chłodu lub odpadowego jest nie wyższa niż średnioroczna ubiegłego roku kalendarzowego cena lub chłodu innych źródeł lub chłodu, przyłączonych do sieci ciepłowniczej, niebędących instalacjami odnawialnego źródła energii, instalacjami termicznego przekształcania odpadów lub źródłami odpadowego, powiększona o średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, określony w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, dla roku poprzedzającego rok zatwierdzenia taryfy albo rok ustalenia cen dla ciepła, chłodu lub odpadowego objętych obowiązkiem zakupu.
+3. W przypadku gdy wskaźnik, o którym mowa w ust. 2, jest ujemny, obowiązek zakupu jest realizowany, jeżeli oferowana cena ciepła, chłodu lub odpadowego jest nie wyższa niż średnioroczna cena, o której mowa w ust. 2.
+Dziennik Ustaw – 2 – Poz. 1084
+4. W przypadku gdy ciepło lub chłód zostaną wytworzone w instalacji odnawialnego źródła energii, w której są spalane biomasa, biopłyny, biogaz lub biogaz rolniczy wspólnie innymi paliwami, obowiązek zakupu lub chłodu jest realizowany w odniesieniu do części wytworzonego lub chłodu odpowiadającej wartości energetycznej biomasy, biopłynów, biogazu lub biogazu rolniczego w łącznej wartości energetycznej wszystkich spalonych paliw zużytych do wytworzenia lub chłodu w tej instalacji.
+§ 4. 1. Rzeczywistą ilość zakupionego ciepła, chłodu oraz odpadowego objętych obowiązkiem zakupu ustala się na podstawie wskazań zespołu urządzeń służących do pomiaru ich ilości i parametrów ich nośników, dopuszczonego do stosowania zgodnie przepisami o miarach, który jest zainstalowany w miejscu dostarczania lub chłodu odnawialnych źródeł energii lub odpadowego do sieci ciepłowniczej określonym w umowie sprzedaży, o której mowa w art. 5 ust. 1 ustawy dnia 10 kwietnia 1997 – Prawo energetyczne.
+2. Ustalenie rzeczywistej ilości zakupionego ciepła, chłodu oraz odpadowego, o której mowa w ust. 1, następuje w sposób określony przez przedsiębiorstwo energetyczne, o którym mowa w art. 116 ust. 1 ustawy dnia 20 lutego 2015 o odnawialnych źródłach energii, w umowie sprzedaży, o której mowa w art. 5 ust. 1 ustawy dnia 10 kwietnia 1997 – Prawo energetyczne, lub w umowie kompleksowej, o której mowa w art. 5 ust. 3 tej ustawy.
+§ 5. 1. Kontrolę warunków technicznych realizacji obowiązku zakupu przeprowadza się na podstawie pisemnego upoważnienia wydanego przez Prezesa URE, które zawiera:
+1) oznaczenie organu kontrolującego;
+2) oznaczenie kontrolowanego przedsiębiorstwa energetycznego – nazwę i adres siedziby;
+3) podstawę prawną przeprowadzenia kontroli;
+4) wskazanie zakresu przedmiotowego kontroli;
+5) oznaczenie osoby przeprowadzającej kontrolę;
+6) datę rozpoczęcia i przewidywany termin zakończenia kontroli;
+7) podpis osoby wystawiającej upoważnienie;
+8) datę i miejsce wystawienia upoważnienia;
+9) pouczenie o prawach i obowiązkach kontrolowanego przedsiębiorstwa energetycznego.
+2. Kontrolę warunków technicznych realizacji obowiązku zakupu przeprowadza się w siedzibie Prezesa URE lub w siedzibie kontrolowanego przedsiębiorstwa energetycznego.
+3. Kontrola warunków technicznych realizacji obowiązku zakupu polega na analizie dokumentów dotyczących realizacji obowiązku zakupu. W trakcie przeprowadzania kontroli osoba przeprowadzająca kontrolę może żądać ustnych lub pisemnych wyjaśnień w zakresie przeprowadzanej kontroli.
+4. Z przeprowadzonej kontroli warunków technicznych realizacji obowiązku zakupu sporządza się protokół, który przedstawia się uprawnionym przedstawicielom kontrolowanego przedsiębiorstwa energetycznego.
+5. Kontrolowane przedsiębiorstwo energetyczne ma prawo do wniesienia zastrzeżeń do treści protokołu w terminie 14 dni od dnia, w którym przedstawiono protokół jego uprawnionym przedstawicielom.
+§ 6. Koszty realizacji obowiązku zakupu uwzględnia się w kalkulacji cen ustalanych w taryfach przedsiębiorstw energetycznych realizujących ten obowiązek, przyjmując, że każda jednostka zamówionej mocy cieplnej, i nośnika sprzedawanych przez dane przedsiębiorstwo energetyczne wszystkim odbiorcom końcowym przyłączonym do sieci ciepłowniczej jest równomiernie obciążona tymi kosztami, umożliwiając ustalenie jednakowych cen za zamówioną moc cieplną, i nośnika dla wszystkich odbiorców końcowych przyłączonych do danej sieci ciepłowniczej.
+§ 7. 1. Reklamacja w zakresie przyłączania do sieci ciepłowniczej jest rozpatrywana przez dystrybutora w terminie 14 dni od dnia jej złożenia w formie pisemnej w postaci papierowej albo elektronicznej.
+2. Reklamację rozpatruje się w postaci papierowej, w przypadku gdy reklamacja została złożona w postaci papierowej, a w postaci elektronicznej, w przypadku gdy składający reklamację złożył oświadczenie, że wyraża zgodę na prowadzenie sprawy w postaci elektronicznej.
+§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Klimatu i Środowiska: P. Hennig-Kloska
+

@@ -8,9 +8,12 @@ pos: 556
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 kwietnia 2024 r.
+# o pracowniczych programach emerytalnych
+
+*USTAWA z dnia 20 kwietnia 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-02-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000556) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/556/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o pracowniczych programach emerytalnych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2023 r. poz. 710), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej (Dz. U. poz. 1941) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 marca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 52 ustawy z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej (Dz. U. poz. 1941), który stanowi: „Art. 52. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 4 ust. 3, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia ustawy;
-2) art. 36 pkt 1–5, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia ustawy.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 20 kwietnia 2004 r.
-o pracowniczych programach emerytalnych
 Art. 51–55. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -43,39 +37,41 @@ Art. 51–55. (pominięte)
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** program program zakładowy albo program międzyzakładowy;
-- **2)** pracownik osobę zatrudnioną, w pełnym lub niepełnym wymiarze czasu pracy, na podstawie umowy o pracę, powołania, wyboru, mianowania, spółdzielczej umowy o pracę, osobę zatrudnioną na podstawie umowy zawartej w wyniku powołania lub wyboru do organu reprezentującego osobę prawną oraz członka rolniczej spółdzielni produkcyjnej lub spółdzielni kółek rolniczych, a jeżeli umowa zakładowa tak stanowi, także: poz. 1610, 1615, 1890 i 1933) stosuje się przepisy dotyczące zlecenia, lub
-    - **a)** osobę wykonującą pracę nakładczą, o której mowa w przepisach wykonawczych wydanych na podstawie art. 303 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465), lub
-    - **b)** osobę fizyczną wykonującą pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z art. 750 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2023 r.
+- **1)** program – program zakładowy albo program międzyzakładowy;
+- **2)** pracownik – osobę zatrudnioną, w pełnym lub niepełnym wymiarze czasu pracy, na podstawie umowy o pracę, powołania, wyboru, mianowania, spółdzielczej umowy o pracę, osobę zatrudnioną na podstawie umowy zawartej w wyniku powołania lub wyboru do organu reprezentującego osobę prawną oraz członka rolniczej spółdzielni produkcyjnej lub spółdzielni kółek rolniczych, a jeżeli umowa zakładowa tak stanowi, także: z 2023 r. poz. 1610, 1615, 1890 i 1933) stosuje się przepisy dotyczące zlecenia, lub
+    - **a)** osobę wykonującą pracę nakładczą, o której mowa w przepisach wykonawczych wydanych na podstawie art. 303 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465), lub
+    - **b)** osobę fizyczną wykonującą pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z art. 750 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U.
     - **c)** członka rady nadzorczej wynagradzanego z tytułu pełnienia tej funkcji;
 
-- **3)** zakład ubezpieczeń zakład ubezpieczeń prowadzący działalność, o której mowa w dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2023 r. poz. 656, 614, 825, 1723, 1843 i 1941);
-- **4)** fundusz inwestycyjny fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941);
-- **5)** towarzystwo emerytalne pracownicze towarzystwo emerytalne w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2023 r. poz. 930, 1672 i 1941);
-- **6)** fundusz emerytalny pracowniczy fundusz emerytalny w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
-- **7)** instytucja finansowa zakład ubezpieczeń, fundusz inwestycyjny lub zarządzający zagraniczny, który zarządza środkami gromadzonymi w programie na podstawie umowy z pracodawcą;
-- **8)** instytucja finansowa prowadząca IKE instytucję finansową prowadzącą IKE uczestnika w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2022 r. poz. 1792 oraz z 2023 r. poz. 1843 i 1941);
-- **9)** zarządzający instytucję finansową lub fundusz emerytalny;
-- **10)** konwersja jednoczesne odkupienie jednostek uczestnictwa w jednym funduszu inwestycyjnym i nabycie jednostek uczestnictwa w innym funduszu inwestycyjnym zarządzanym przez to samo towarzystwo za środki pieniężne uzyskane z odkupienia jednostek uczestnictwa, pod warunkiem że jednostki odkupywane i nabywane są rejestrowane jako stanowiące środki uczestnika odpowiednio ze składki podstawowej lub dodatkowej;
-- **11)** uczestnik pracownika lub inną osobę, która przystąpiła do programu;
-- **11a)** potencjalny uczestnik pracownika, który ma prawo do przystąpienia do programu i nie jest jego uczestnikiem;
-- **12)** osoba uprawniona osobę wskazaną przez uczestnika w deklaracji, która otrzyma środki z programu w przypadku jego śmierci, osobę, o której mowa w art. 832 § 2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, oraz spadkobiercę uczestnika;
-- **13)** środki środki finansowe gromadzone w celu realizacji programu, inwestowane w jednostki uczestnictwa funduszy inwestycyjnych, jednostki ubezpieczeniowego funduszu kapitałowego działającego na podstawie przepisów o działalności ubezpieczeniowej, jednostki rozrachunkowe funduszy emerytalnych albo jednostki wyodrębnione przez zarządzającego zagranicznego na rachunku uczestnika prowadzonym przez zarządzającego lub środki pieniężne na rachunku uczestnika, prowadzonym na podstawie zakładowej umowy emerytalnej przez zarządzającego;
-- **14)** organ nadzoru Komisję Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135);
-- **15)** wynagrodzenie podstawę wymiaru składek na ubezpieczenie emerytalne i rentowe uczestnika w rozumieniu ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230, 1429, 1672 i 1941), bez stosowania ograniczenia, o którym mowa w art. 19 ust. 1 tej ustawy;
-- **16)** rachunek zapis w rejestrze uczestników funduszu inwestycyjnego, rachunek, na który są wpłacane składki do funduszu emerytalnego, lub rachunek w ubezpieczeniowym funduszu kapitałowym prowadzony na zasadach określonych w ustawie, a w zakresie nieuregulowanym w ustawie na zasadach określonych w przepisach właściwych dla tych rejestrów i rachunków;
-- **17)** IKE indywidualne konto emerytalne w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego;
-- **18)** wypłata dokonaną przez uczestnika lub osobę uprawnioną wypłatę gotówkową lub realizację przelewu środków zgromadzonych w ramach programu na wskazany przez uczestnika lub tę osobę rachunek bankowy na warunkach określonych w umowie zakładowej, w przypadku spełnienia warunków określonych w ustawie;
-- **19)** wypłata transferowa przekazanie środków na warunkach określonych w ustawie do innego programu, na IKE uczestnika albo osoby uprawnionej, z PPK zmarłego uczestnika PPK, lub z IKE uczestnika albo osoby uprawnionej do programu w przypadkach i na warunkach, o których mowa w przepisach o pracowniczych planach kapitałowych i w przepisach o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego;
-- **20)** zwrot wycofanie środków zgromadzonych w ramach programu w przypadku jego likwidacji, jeżeli nie zachodzą przesłanki do wypłaty bądź wypłaty transferowej;
-- **21)** dyspozycja polecenie dokonania wypłaty albo wypłaty transferowej składane przez uczestnika zarządzającemu;
-- **22)** NIP numer identyfikacji podatkowej nadany zgodnie z przepisami o zasadach ewidencji i identyfikacji podatników i płatników;
-- **23)** zagraniczny organ nadzoru krajowe władze państwa członkowskiego Unii Europejskiej wyznaczone przez to państwo do wykonywania zadań związanych z nadzorowaniem realizacji programu emerytalnego przez pracodawcę mającego siedzibę w innym państwie członkowskim Unii Europejskiej;
-- **24)** zarządzający zagraniczny podmiot, niezależnie od jego formy prawnej, mający swoją siedzibę na terytorium państwa członkowskiego Unii Europejskiej, podlegający nadzorowi organu nadzoru tego państwa, którego przedmiotem działalności jest gromadzenie środków pieniężnych i ich lokowanie, z przeznaczeniem na wypłatę uczestnikom programu emerytalnego po osiągnięciu przez nich wieku emerytalnego;
-- **25)** PPK pracowniczy plan kapitałowy w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2023 r. poz. 46, 1723 i 1941);
+- **3)** zakład ubezpieczeń – zakład ubezpieczeń prowadzący działalność, o której mowa w dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2023 r. poz. 656, 614, 825, 1723, 1843 i 1941);
+- **4)** fundusz inwestycyjny – fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941);
+- **5)** towarzystwo emerytalne – pracownicze towarzystwo emerytalne w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2023 r. poz. 930, 1672 i 1941);
+- **6)** fundusz emerytalny – pracowniczy fundusz emerytalny w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **7)** instytucja finansowa – zakład ubezpieczeń, fundusz inwestycyjny lub zarządzający zagraniczny, który zarządza środkami gromadzonymi w programie na podstawie umowy z pracodawcą;
+- **8)** instytucja finansowa prowadząca IKE – instytucję finansową prowadzącą IKE uczestnika w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2022 r. poz. 1792 oraz z 2023 r. poz. 1843 i 1941);
+- **9)** zarządzający – instytucję finansową lub fundusz emerytalny;
+- **10)** konwersja – jednoczesne odkupienie jednostek uczestnictwa w jednym funduszu inwestycyjnym i nabycie jednostek uczestnictwa w innym funduszu inwestycyjnym zarządzanym przez to samo towarzystwo za środki pieniężne uzyskane z odkupienia jednostek uczestnictwa, pod warunkiem że jednostki odkupywane i nabywane są rejestrowane jako stanowiące środki uczestnika odpowiednio ze składki podstawowej lub dodatkowej;
+- **11)** uczestnik – pracownika lub inną osobę, która przystąpiła do programu;
+- **11a)** potencjalny uczestnik – pracownika, który ma prawo do przystąpienia do programu i nie jest jego uczestnikiem;
+- **12)** osoba uprawniona – osobę wskazaną przez uczestnika w deklaracji, która otrzyma środki z programu w przypadku jego śmierci, osobę, o której mowa w art. 832 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, oraz spadkobiercę uczestnika;
+- **13)** środki – środki finansowe gromadzone w celu realizacji programu, inwestowane w jednostki uczestnictwa funduszy inwestycyjnych, jednostki ubezpieczeniowego funduszu kapitałowego działającego na podstawie przepisów o działalności ubezpieczeniowej, jednostki rozrachunkowe funduszy emerytalnych albo jednostki wyodrębnione przez zarządzającego zagranicznego – na rachunku uczestnika prowadzonym przez zarządzającego lub środki pieniężne na rachunku uczestnika, prowadzonym na podstawie zakładowej umowy emerytalnej przez zarządzającego;
+- **14)** organ nadzoru – Komisję Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135);
+- **15)** wynagrodzenie – podstawę wymiaru składek na ubezpieczenie emerytalne i rentowe uczestnika w rozumieniu ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230, 1429, 1672 i
+- **1941)** , bez stosowania ograniczenia, o którym mowa w art. 19 ust. 1 tej ustawy;
+- **16)** rachunek – zapis w rejestrze uczestników funduszu inwestycyjnego, rachunek, na który są wpłacane składki do funduszu emerytalnego, lub rachunek w ubezpieczeniowym funduszu kapitałowym prowadzony na zasadach określonych w ustawie, a w zakresie nieuregulowanym w ustawie – na zasadach określonych w przepisach właściwych dla tych rejestrów i rachunków;
+- **17)** IKE – indywidualne konto emerytalne w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego;
+- **18)** wypłata – dokonaną przez uczestnika lub osobę uprawnioną wypłatę gotówkową lub realizację przelewu środków zgromadzonych w ramach programu na wskazany przez uczestnika lub tę osobę rachunek bankowy – na warunkach określonych w umowie zakładowej, w przypadku spełnienia warunków określonych w ustawie;
+- **19)** wypłata transferowa – przekazanie środków na warunkach określonych w ustawie do innego programu, na IKE uczestnika albo osoby uprawnionej, z PPK zmarłego uczestnika PPK, lub z IKE uczestnika albo osoby uprawnionej do programu w przypadkach i na warunkach, o których mowa w przepisach o pracowniczych planach kapitałowych i w przepisach o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego;
+- **20)** zwrot – wycofanie środków zgromadzonych w ramach programu w przypadku jego likwidacji, jeżeli nie zachodzą przesłanki do wypłaty bądź wypłaty transferowej;
+- **21)** dyspozycja – polecenie dokonania wypłaty albo wypłaty transferowej składane przez uczestnika zarządzającemu;
+- **22)** NIP – numer identyfikacji podatkowej nadany zgodnie z przepisami o zasadach ewidencji i identyfikacji podatników i płatników;
+- **23)** zagraniczny organ nadzoru – krajowe władze państwa członkowskiego Unii Europejskiej wyznaczone przez to państwo do wykonywania zadań związanych z nadzorowaniem realizacji programu emerytalnego przez pracodawcę mającego siedzibę w innym państwie członkowskim Unii Europejskiej;
+- **24)** zarządzający zagraniczny – podmiot, niezależnie od jego formy prawnej, mający swoją siedzibę na terytorium państwa członkowskiego Unii Europejskiej, podlegający nadzorowi organu nadzoru tego państwa, którego przedmiotem działalności jest gromadzenie środków pieniężnych i ich lokowanie, z przeznaczeniem na wypłatę uczestnikom programu emerytalnego po osiągnięciu przez nich wieku emerytalnego;
+- **25)** PPK – pracowniczy plan kapitałowy w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2023 r. poz. 46, 1723 i
+- **1941)** ;
 - **26)** trwały nośnik informacji ‒ instrument pozwalający uczestnikowi na przechowywanie informacji kierowanych osobiście do tego uczestnika w sposób, który umożliwia przyszłe korzystanie z tych informacji, przez okres odpowiedni do ich celów, i który pozwala na niezmienione odtworzenie przechowywanej informacji;
-- **27)** przeniesienie przekazanie przez dotychczasowego zarządzającego środków zgromadzonych w ramach programu do nowego zarządzającego w związku ze zmianą formy programu lub zarządzającego;
-- **28)** rachunek dodatkowy rachunek pracodawcy, na który uczestnicy nieotrzymujący wynagrodzenia od pracodawcy mogą przekazać środki pieniężne przeznaczone na finansowanie składek dodatkowych na zasadach określonych w art. 25 ust. 5a–5c.
+- **27)** przeniesienie – przekazanie przez dotychczasowego zarządzającego środków zgromadzonych w ramach programu do nowego zarządzającego w związku ze zmianą formy programu lub zarządzającego;
+- **28)** rachunek dodatkowy – rachunek pracodawcy, na który uczestnicy nieotrzymujący wynagrodzenia od pracodawcy mogą przekazać środki pieniężne przeznaczone na finansowanie składek dodatkowych na zasadach określonych w art. 25 ust. 5a–5c.
 
 2. Do osób, o których mowa w ust. 1 pkt 2 lit. a–c, przepisy ustawy o stosunku pracy i pracodawcy stosuje się odpowiednio.
 
@@ -181,11 +177,11 @@ Art. 51–55. (pominięte)
 - **5)** wysokość wpłat w ciągu każdego roku kalendarzowego z podziałem na wpłaty z tytułu składki podstawowej i dodatkowej;
 - **6)** wysokość i daty wypłat transferowych przyjętych przez zarządzającego oraz dane identyfikujące zarządzającego lub nazwę instytucji finansowej prowadzącej IKE, dokonujących tych wypłat transferowych;
 - **7)** wysokość i datę dokonywanej wypłaty transferowej oraz dane identyfikujące zarządzającego lub nazwę instytucji finansowej prowadzącej IKE, do których dokonywana jest wypłata transferowa;
-- **8)** sumę wpłaconych po dniu 31 maja 2004 r. składek podstawowych w przypadku gdy wypłata transferowa jest dokonywana na IKE;
-- **8a)** aktualną wartość środków pochodzących z wpłat na IKE w przypadku gdy do programu przyjęto wypłatę transferową z IKE uczestnika;
+- **8)** sumę wpłaconych po dniu 31 maja 2004 r. składek podstawowych – w przypadku gdy wypłata transferowa jest dokonywana na IKE;
+- **8a)** aktualną wartość środków pochodzących z wpłat na IKE – w przypadku gdy do programu przyjęto wypłatę transferową z IKE uczestnika;
 - **9)** datę sporządzenia informacji oraz imię, nazwisko, funkcję i podpis osoby odpowiedzialnej za jej sporządzenie.
 
-3. Informację, o której mowa w ust. 1, zarządzający sporządza dla następnego zarządzającego albo instytucji finansowej prowadzącej IKE oraz dla uczestnika. Zarządzający udostępnia uczestnikowi informację, o której mowa w ust. 1, za pomocą systemu CIE, o którym mowa w art. 2 pkt 14 ustawy z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej (Dz. U. poz. 1941), a na jego wniosek sporządza tę informację w postaci papierowej.
+3. Informację, o której mowa w ust. 1, zarządzający sporządza dla następnego zarządzającego albo instytucji finansowej prowadzącej IKE oraz dla uczestnika. Na wniosek uczestnika informację, o której mowa w ust. 1, zarządzający sporządza w postaci papierowej.
 
 4. Zarządzający w przypadku dokonywania wypłaty transferowej przekazuje wraz z dokonaniem wypłaty transferowej następnemu zarządzającemu albo instytucji finansowej prowadzącej IKE oraz uczestnikowi informację, o której mowa w ust. 1, i informacje uzyskane od wszystkich poprzednich zarządzających oraz od instytucji finansowych prowadzących IKE uczestnika. Na wniosek uczestnika informację, o której mowa w ust. 1, zarządzający sporządza w postaci papierowej.
 
@@ -434,26 +430,26 @@ Art. 51–55. (pominięte)
 - **2)** dane identyfikacyjne uczestnika oraz wskazanie wieku uprawniającego do otrzymania wypłaty;
 - **3)** nazwę funduszu emerytalnego, jego adres do korespondencji oraz dane identyfikacyjne programu emerytalnego uczestnika;
 - **4)** informacje o wartości zgromadzonych środków;
-- **5)** wyszczególnienie kosztów odliczonych przez fundusz emerytalny w ciągu 12 miesięcy poprzedzających dzień sporządzenia informacji, o której mowa w ust. 1, a w przypadku gdy uczestnik jest w programie krócej niż 12 miesięcy informacja ta zawiera dane za faktyczny okres uczestnictwa w programie w danym roku;
+- **5)** wyszczególnienie kosztów odliczonych przez fundusz emerytalny w ciągu 12 miesięcy poprzedzających dzień sporządzenia informacji, o której mowa w ust. 1, a w przypadku gdy uczestnik jest w programie krócej niż 12 miesięcy – informacja ta zawiera dane za faktyczny okres uczestnictwa w programie w danym roku;
 - **6)** informacje o składkach wpłaconych w ramach programu przez pracodawcę i przez uczestnika, co najmniej w ciągu ostatnich 12 miesięcy;
 - **7)** dodatkowe informacje, w tym:
     - **a)** dotyczące opcji, jakimi dysponuje uczestnik w ramach programu emerytalnego,
     - **b)** gdzie można znaleźć roczne sprawozdania finansowe oraz deklarację zasad polityki inwestycyjnej funduszu emerytalnego;
 
-- **8)** informacje na temat prognoz dotyczących zgromadzonych środków, w oparciu o wiek emerytalny oraz zastrzeżenie, że prognozy te mogą się różnić od końcowej wartości zgromadzonego kapitału, a jeżeli te prognozy są oparte na scenariuszach ekonomicznych powinny zawierać również optymistyczny i pesymistyczny wariant, z uwzględnieniem specyfiki programu.
+- **8)** informacje na temat prognoz dotyczących zgromadzonych środków, w oparciu o wiek emerytalny oraz zastrzeżenie, że prognozy te mogą się różnić od końcowej wartości zgromadzonego kapitału, a jeżeli te prognozy są oparte na scenariuszach ekonomicznych – powinny zawierać również optymistyczny i pesymistyczny wariant, z uwzględnieniem specyfiki programu.
 
 8. Informację, o której mowa w ust. 1, fundusz emerytalny może przekazywać za pośrednictwem pracodawcy.
 
 9. Prognozy dotyczące zgromadzonych środków, o których mowa w ust. 7 pkt 8, są ustalane w przypadku złożenia przez uczestnika wniosku o wypłatę dokonywaną:
 
-- **1)** jednorazowo w oparciu o szacunki wartości zgromadzonych środków, określonej na ostatni dzień miesiąca poprzedzającego miesiąc dokonania wypłaty;
-- **2)** ratalnie w oparciu o szacunki ilorazu wartości zgromadzonych środków, określonej na ostatni dzień miesiąca poprzedzającego miesiąc dokonania wypłaty, oraz średniego dalszego trwania życia.
+- **1)** jednorazowo – w oparciu o szacunki wartości zgromadzonych środków, określonej na ostatni dzień miesiąca poprzedzającego miesiąc dokonania wypłaty;
+- **2)** ratalnie – w oparciu o szacunki ilorazu wartości zgromadzonych środków, określonej na ostatni dzień miesiąca poprzedzającego miesiąc dokonania wypłaty, oraz średniego dalszego trwania życia.
 
 10. Szacunki wartości zgromadzonych środków, określonej na ostatni dzień miesiąca poprzedzającego miesiąc dokonania wypłaty, o których mowa w ust. 9 pkt 1, są opracowywane zgodnie z art. 166, art. 167, art. 169 i art. 172 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, z uwzględnieniem wieku uczestnika w dniu opracowywania tych prognoz.
 
 11. Średnie dalsze trwanie życia, o którym mowa w ust. 9 pkt 2, jest ustalane zgodnie z art. 26 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672), z uwzględnieniem art. 42.
 
-12. Fundusz emerytalny udostępnia uczestnikowi programu informację, o której mowa w ust. 1, także za pomocą systemu CIE.
+12. (uchylony)
 
 **Art. 22c.**
 
@@ -491,11 +487,11 @@ Art. 51–55. (pominięte)
 
 1. Fundusz inwestycyjny w terminie do ostatniego dnia lutego każdego roku przekazuje uczestnikowi, w postaci elektronicznej pozwalającej na utrwalenie treści na trwałym nośniku informacji lub na wniosek uczestnika w postaci papierowej, informację o wysokości środków zgromadzonych na jego rachunku według stanu na dzień 31 grudnia poprzedniego roku kalendarzowego, o wysokości wpłat dokonanych na ten rachunek w poprzednim roku kalendarzowym oraz o innych transakcjach zrealizowanych na rachunku uczestnika w programie w poprzednim roku kalendarzowym. Przepisu art. 91 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi nie stosuje się.
 
-2. Zarządzający udostępnia uczestnikowi informację, o której mowa w ust. 1, za pomocą systemu CIE, o którym mowa w art. 2 pkt 14 ustawy z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej.
+2. (uchylony)
 
-**Art. 22f.**
+**Art. 22f.** (uchylony)
 
-- **6)** Zarządzający przekazuje do PFR Portal, o którym mowa w art. 2 pkt 6 ustawy z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej, za pomocą systemu CIE dane i informacje, o których mowa w art. 6 ust. 2 i 4 tej ustawy, w celu udostępnienia ich uczestnikowi programu.
+**Art. 22g.** Zarządzający może przekazywać do Zakładu Ubezpieczeń Społecznych w postaci elektronicznej dane i informacje, o których mowa w art. 50b ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w celu realizacji zadania, o którym mowa w tym przepisie.
 
 **Art. 23.**
 
@@ -531,8 +527,8 @@ Art. 51–55. (pominięte)
 
 4. Pracodawca nalicza i odprowadza składkę podstawową:
 
-- **1)** w odniesieniu do składników wynagrodzenia należnych za okresy nie dłuższe niż miesiąc w terminie wypłaty tych składników obowiązującym u pracodawcy, i odprowadza je w okresach miesięcznych;
-- **2)** w odniesieniu do składników wynagrodzenia należnych za okresy dłuższe niż miesiąc w terminie wypłaty tych składników, i odprowadza je również w tym terminie.
+- **1)** w odniesieniu do składników wynagrodzenia należnych za okresy nie dłuższe niż miesiąc – w terminie wypłaty tych składników obowiązującym u pracodawcy, i odprowadza je w okresach miesięcznych;
+- **2)** w odniesieniu do składników wynagrodzenia należnych za okresy dłuższe niż miesiąc – w terminie wypłaty tych składników, i odprowadza je również w tym terminie.
 
 5. Składka podstawowa nie jest wliczana do wynagrodzenia stanowiącego podstawę ustalenia obowiązkowych składek na ubezpieczenia społeczne.
 
@@ -605,7 +601,7 @@ Art. 51–55. (pominięte)
 
 - **1)** umowę międzyzakładową;
 - **2)** dokument określający zasady wyłonienia reprezentacji pracodawców i międzyzakładowej reprezentacji pracowników;
-- **3)** dokumenty potwierdzające umocowanie reprezentacji pracodawców i międzyzakładowej reprezentacji pracowników, wybranych zgodnie z przewidzianym trybem, obejmujące dane tych osób: imię, nazwisko i numer PESEL lub, w przypadku osób nieposiadających obywatelstwa polskiego numer paszportu;
+- **3)** dokumenty potwierdzające umocowanie reprezentacji pracodawców i międzyzakładowej reprezentacji pracowników, wybranych zgodnie z przewidzianym trybem, obejmujące dane tych osób: imię, nazwisko i numer PESEL lub, w przypadku osób nieposiadających obywatelstwa polskiego – numer paszportu;
 - **4)** umowę zawartą przez reprezentację pracodawców z instytucją finansową lub statut funduszu emerytalnego;
 - **5)** dotyczące każdego pracodawcy informacje i dokumenty, o których mowa w art. 30 ust. 1 i ust. 2 pkt 1–3, 7 i 8.
 - **6)** (uchylony)
@@ -667,7 +663,7 @@ Art. 51–55. (pominięte)
 
 **Art. 35.**
 
-1. Jeżeli wniosek o wpis programu do rejestru programów, o wpis zmian do rejestru programów albo o wykreślenie programu z rejestru programów nie spełnia warunków wynikających z przepisów ustawy, organ nadzoru w terminie miesiąca od dnia otrzymania wniosku spełniającego wymogi formalne, o których mowa w art. 30, art. 31 ust. 1 i 2, art. 32 ust. 1 i 2, art. 33 ust. 1 i art. 41 ust. 2 i 3 oraz w przepisach ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), wzywa pracodawcę albo reprezentację pracodawców, o której mowa w art. 15 ust. 1, do usunięcia nieprawidłowości, wyznaczając jednocześnie termin do ich usunięcia wynoszący co najmniej 14 dni.
+1. Jeżeli wniosek o wpis programu do rejestru programów, o wpis zmian do rejestru programów albo o wykreślenie programu z rejestru programów nie spełnia warunków wynikających z przepisów ustawy, organ nadzoru w terminie miesiąca od dnia otrzymania wniosku spełniającego wymogi formalne, o których mowa w art. 30, art. 31 ust. 1 i 2, art. 32 ust. 1 i 2, art. 33 ust. 1 i art. 41 ust. 2 i 3 oraz w przepisach ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), wzywa pracodawcę albo reprezentację pracodawców, o której mowa w art. 15 ust. 1, do usunięcia nieprawidłowości, wyznaczając jednocześnie termin do ich usunięcia wynoszący co najmniej 14 dni.
 
 2. Organ nadzoru odmawia wpisu programu do rejestru programów albo wpisu zmian do rejestru programów w przypadku:
 
@@ -678,7 +674,7 @@ Art. 51–55. (pominięte)
 3. Organ nadzoru odmawia wykreślenia programu z rejestru programów w przypadku:
 
 - **1)** gdy w wyznaczonym przez niego terminie nie zostaną usunięte nieprawidłowości;
-- **2)** niezgodności wniosku o wykreślenie programu z rejestru programów z art. 40–41a.
+- **2)** niezgodności wniosku o wykreślenie programu z rejestru programów z art. 40– 41a.
 
 **Art. 35a.** Organ nadzoru wpisuje program do rejestru programów niezwłocznie po otrzymaniu od zagranicznego organu nadzoru powiadomienia o akceptacji zamiaru przejęcia zarządzania pracowniczym programem emerytalnym przez zarządzającego zagranicznego, jeżeli wniosek o rejestrację programu spełnia warunki wynikające z przepisów ustawy.
 
@@ -724,10 +720,12 @@ Art. 51–55. (pominięte)
 
 - **1)** zawiesić naliczanie i odprowadzanie składek podstawowych albo
 - **2)** czasowo ograniczyć wysokość naliczanej składki podstawowej przez określenie obowiązującej w okresie tego ograniczenia zasady naliczania składki, zgodnie z art. 24 ust. 3, albo
-- **3)** nie finansować składki podstawowej: o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2023 r. poz. 1087), poz. 272 i 1688).
+- **3)** nie finansować składki podstawowej: poz. 1087),
     - **a)** w okresie przestoju ekonomicznego, o którym mowa w art. 2 pkt 1 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2019 r. poz. 669), oraz w okresie obniżonego wymiaru czasu pracy, o którym mowa w art. 2 pkt 2 tej ustawy,
-    - **b)** w przypadku zaistnienia przesłanek niewypłacalności pracodawcy, o których mowa w ustawie z dnia 13 lipca 2006 r.
-    - **c)** w okresie przejściowego zaprzestania prowadzenia działalności gospodarczej lub ograniczenia jej prowadzenia na skutek powodzi i braku środków na wypłatę wynagrodzeń dla pracowników, o których mowa w art. 23 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2023 r.
+    - **b)** w przypadku zaistnienia przesłanek niewypłacalności pracodawcy, o których mowa w ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2023 r.
+    - **c)** w okresie przejściowego zaprzestania prowadzenia działalności gospodarczej lub ograniczenia jej prowadzenia na skutek powodzi i braku środków na wypłatę wynagrodzeń dla pracowników, o których mowa w art. 23 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2023 r. poz. 272 i
+
+- **1688)** .
 
 2. W okresie obejmującym 12 kolejnych miesięcy kalendarzowych łączny okres jednostronnego zawieszenia, o którym mowa w ust. 1 pkt 1, nie może przekroczyć 3 miesięcy.
 
@@ -773,7 +771,7 @@ Art. 51–55. (pominięte)
 
 1. W okresie obejmującym 48 kolejnych miesięcy kalendarzowych łączny okres obowiązywania porozumienia zawartego na zasadach określonych w art. 38 nie może przekroczyć 24 miesięcy.
 
-2. Czas obowiązywania porozumienia może przekroczyć okres, o którym mowa w ust. 1, w przypadku gdy dalsze naliczanie i odprowadzanie składek podstawowych spowodowałoby konieczność złożenia wniosku, o którym mowa w art. 21 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825, 1723, 1843 i 1860).
+2. Czas obowiązywania porozumienia może przekroczyć okres, o którym mowa w ust. 1, w przypadku gdy dalsze naliczanie i odprowadzanie składek podstawowych spowodowałoby konieczność złożenia wniosku, o którym mowa w art. 21 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825, 1723, 1843 i 1860).
 
 3. W przypadku gdy porozumienie zostało zawarte na zasadach określonych w ust. 2, pracodawca, przekazując porozumienie organowi nadzoru, przedstawia dokumenty uzasadniające zaistnienie sytuacji, o której mowa w ust. 2.
 
@@ -787,7 +785,7 @@ Art. 51–55. (pominięte)
 - **2)** wystąpienia przesłanki do rozwiązania i w konsekwencji likwidacji wszystkich funduszy inwestycyjnych, w których były gromadzone składki w ramach programu, jeżeli nie nastąpi przejęcie któregokolwiek z tych funduszy przez inne towarzystwo funduszy inwestycyjnych,
 - **3)** otwarcia likwidacji funduszu emerytalnego, jeżeli nie nastąpi przejęcie tego funduszu przez inne towarzystwo emerytalne,
 - **4)** wymienionym w art. 7 ust. 1,
-- **5)** wypowiedzenia umowy przez instytucję finansową jeżeli reprezentacja pracowników nie wyrazi zgody na zmianę umowy zakładowej w trybie art. 41.
+- **5)** wypowiedzenia umowy przez instytucję finansową – jeżeli reprezentacja pracowników nie wyrazi zgody na zmianę umowy zakładowej w trybie art. 41.
 
 2. Likwidacja programu może nastąpić również w przypadku:
 
@@ -838,7 +836,7 @@ Art. 51–55. (pominięte)
 
 2. W przypadkach, o których mowa w ust. 1, organ nadzoru nie wydaje decyzji, o której mowa w art. 37 ust. 2, a adnotację o wykreśleniu programu pozostawia w aktach sprawy.
 
-3. W przypadkach, o których mowa w ust. 1, art. 20 ust. 5 i ust. 6 oraz art. 42–45 stosuje się odpowiednio.
+3. W przypadkach, o których mowa w ust. 1, art. 20 ust. 5 i ust. 6 oraz art. 42– 45 stosuje się odpowiednio.
 
 #### Rozdział 5 Zasady wypłat, wypłat transferowych, zwrotu z programu i przeniesienia
 
@@ -847,10 +845,7 @@ Art. 51–55. (pominięte)
 1. Wypłata następuje:
 
 - **1)** na wniosek uczestnika po osiągnięciu przez niego wieku 60 lat;
-- **2)** na wniosek uczestnika po przedstawieniu przez niego decyzji o przyznaniu prawa do emerytury i po ukończeniu
-
-55. roku życia;
-
+- **2)** na wniosek uczestnika po przedstawieniu przez niego decyzji o przyznaniu prawa do emerytury i po ukończeniu 55. roku życia;
 - **3)** w przypadku ukończenia przez uczestnika 70 lat, jeżeli wcześniej nie wystąpił z wnioskiem o wypłatę środków;
 - **4)** na wniosek osoby uprawnionej, w przypadku śmierci uczestnika.
 
@@ -894,7 +889,7 @@ Art. 51–55. (pominięte)
 
 5. W przypadku braku możliwości przekazania zwracanych środków, o których mowa w ust. 4, uczestnikowi, są one przekazywane do depozytu sądowego.
 
-6. W przypadku, o którym mowa w ust. 5, środki przekazane do depozytu sądowego stają się własnością Skarbu Państwa, po upływie 20 lat od chwili przekazania ich do depozytu sądowego, chyba że uczestnik przed upływem tego terminu wyda dyspozycję przekazania tych środków na wskazany przez siebie rachunek bankowy. Przepis art. 187 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny stosuje się odpowiednio.
+6. W przypadku, o którym mowa w ust. 5, środki przekazane do depozytu sądowego stają się własnością Skarbu Państwa, po upływie 20 lat od chwili przekazania ich do depozytu sądowego, chyba że uczestnik przed upływem tego terminu wyda dyspozycję przekazania tych środków na wskazany przez siebie rachunek bankowy. Przepis art. 187 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się odpowiednio.
 
 7. Przepisy ust. 5 i 6 stosuje się odpowiednio w przypadku braku możliwości dokonania wypłaty, w przypadku określonym w art. 42 ust. 1 pkt 3.
 
@@ -931,13 +926,13 @@ Art. 51–55. (pominięte)
 
 1. W deklaracji uczestnik może dokonać rozrządzenia środkami zgromadzonymi na jego rachunku w ramach programu przez wskazanie osoby fizycznej uprawnionej do odbioru środków na wypadek jego śmierci.
 
-2. Uczestnik może w każdej chwili zmienić lub odwołać rozrządzenie. Wskazanie osoby uprawnionej zawiera imię (imiona) i nazwisko oraz numer PESEL, o ile został nadany, oraz może zawierać informację o udziale w środkach, które przypadają tej osobie po śmierci uczestnika.
+2. Uczestnik może w każdej chwili zmienić lub odwołać rozrządzenie.
 
 3. Jeżeli uczestnik wskazał kilka osób uprawnionych do otrzymania środków po jego śmierci, a nie oznaczył ich udziału w tych środkach, uważa się, że udziały tych osób są równe.
 
 4. W przypadku braku rozrządzenia na wypadek śmierci uprawnieni są spadkobiercy na zasadach ogólnych, z zastrzeżeniem ust. 5. Wypłata na ich rzecz powinna nastąpić w terminie 1 miesiąca od dnia przedłożenia prawomocnego orzeczenia sądu o stwierdzeniu nabycia prawa do spadku oraz zgodnego oświadczenia wszystkich spadkobierców o sposobie podziału środków zgromadzonych przez uczestnika lub prawomocnego postanowienia sądu o dziale spadku.
 
-5. Jeżeli program prowadzony jest w formie, o której mowa w art. 6 ust. 1 pkt 3, stosuje się odpowiednio art. 831 i 832 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+5. Jeżeli program prowadzony jest w formie, o której mowa w art. 6 ust. 1 pkt 3, stosuje się odpowiednio art. 831 i 832 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 6. Uprawnionym do wypłaty świadczenia nie może być pracodawca, chyba że jest on członkiem najbliższej rodziny uczestnika. Członkami najbliższej rodziny uczestnika są: małżonek, dzieci, rodzice oraz wnuki.
 

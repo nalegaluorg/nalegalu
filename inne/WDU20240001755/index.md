@@ -8,9 +8,12 @@ pos: 1755
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 listopada 2024 r.
+# o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024
+
+*USTAWA z dnia 8 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-12-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1755/text.pdf) |
 
-Poz. 1755
-USTAWA dnia 8 listopada 2024 r.
-o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024
+**Art. 1.** W ustawie z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (Dz. U. poz. 123 i 834) po art. 31 dodaje się art. 31a w brzmieniu: „Art. 31a. 1. W roku 2024 jednostki samorządu terytorialnego w celu wsparcia realizacji zadań otrzymują dodatkowe dochody w łącznej wysokości 10 000 000 000 zł, z czego:
 
-**Art. 1.** W ustawie dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (Dz. U. poz. 123 i 834) po art. 31 dodaje się art. 31a brzmieniu: „Art. 31a. 1. W roku 2024 jednostki samorządu terytorialnego celu wsparcia realizacji zadań otrzymują dodatkowe dochody łącznej wysokości 10 000 000 000 zł, czego:
-
-**Art. 2.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -8,9 +8,12 @@ pos: 663
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 kwietnia 2018 r.
+# o zmianie ustawy o ochronie zwierząt oraz ustawy – Kodeks karny
+
+*USTAWA z dnia 6 marca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +27,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000663) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/663/text.pdf) |
 
-USTAWA z dnia 6 marca 2018 r.
-o zmianie ustawy o ochronie zwierząt oraz ustawy Kodeks karny
-
 **Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2017 r. poz. 1840 oraz z 2018 r. poz. 650) wprowadza się następujące zmiany:
 
 **Art. 38b.**
 
-1. W razie orzeczenia zakazu, o którym mowa w 35 4 lub 4a, przepis 84 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oraz przepisy 180, 181, 183, 184, 185 i 186a ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2018 r. poz. 652) stosuje się odpowiednio.
+1. W razie orzeczenia zakazu, o którym mowa art. 35 4 lub 4a, przepis art. 84 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oraz przepisy art. 180, art. 181, art. 183, art. 184, art. 185 i art. 186a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2018 r. poz. 652) stosuje się odpowiednio.
 
-2. W razie orzeczenia zakazu wykonywania określonych zawodów, prowadzenia określonej działalności lub wykonywania określonych czynności, o którym mowa w 35 4 lub 4a, przesyła odpis wyroku także powiatowemu lekarzowi weterynarii, właściwemu dla miejsca zamieszkania skazanego.”.
+2. W razie orzeczenia zakazu wykonywania określonych zawodów, prowadzenia określonej działalności lub wykonywania określonych czynności, o którym mowa art. 35 4 lub 4a, sąd przesyła odpis wyroku także powiatowemu lekarzowi weterynarii, właściwemu dla miejsca zamieszkania skazanego.”.
 
-**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20 i 305) 244 otrzymuje brzmienie: „Art. 244. Kto nie stosuje się do orzeczonego przez zakazu zajmowania stanowiska, wykonywania zawodu, prowadzenia działalności, wykonywania czynności wymagających zezwolenia, które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie, prowadzenia pojazdów, wstępu do ośrodków gier i uczestnictwa w grach hazardowych, wstępu na imprezę masową, przebywania w określonych środowiskach lub miejscach, nakazu okresowego opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym, zakazu kontaktowania się z określonymi osobami, zakazu zbliżania się do określonych osób lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu, zakazu posiadania wszelkich zwierz ą t albo okre ś lonej kategorii zwierz ą t albo nie wykonuje zarz ą dzenia s ą du o ogłoszeniu orzeczenia w sposób w nim przewidziany, podlega karze pozbawienia wolno ś ci od 3 miesi ę cy do lat 5.”.
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20 i 305) art. 244 otrzymuje brzmienie: „Art. 244. Kto nie stosuje się do orzeczonego przez sąd zakazu zajmowania stanowiska, wykonywania zawodu, prowadzenia działalności, wykonywania czynności wymagających zezwolenia, które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie, prowadzenia pojazdów, wstępu do ośrodków gier i uczestnictwa grach hazardowych, wstępu na imprezę masową, przebywania określonych środowiskach lub miejscach, nakazu okresowego opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym, zakazu kontaktowania się z określonymi osobami, zakazu zbliżania się do określonych osób lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu, zakazu posiadania wszelkich zwierząt albo określonej kategorii zwierząt albo nie wykonuje zarządzenia sądu o ogłoszeniu orzeczenia sposób nim przewidziany, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”.
 
-**Art. 3.** Przepisy 38a i 38b ustawy zmienianej w 1 stosuje się także do zakazu posiadania wszelkich zwierząt albo określonej kategorii zwierząt oraz zakazów, o których mowa w 35 4 lub 4a ustawy zmienianej w 1, w brzmieniu nadanym niniejszą ustawą, orzeczonych przed dniem wejścia w życie niniejszej ustawy.
+**Art. 3.** Przepisy art. 38a i art. 38b ustawy zmienianej art. 1 stosuje się także do zakazu posiadania wszelkich zwierząt albo określonej kategorii zwierząt oraz zakazów, o których mowa art. 35 4 lub 4a ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, orzeczonych przed dniem wejścia życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

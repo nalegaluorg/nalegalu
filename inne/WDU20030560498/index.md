@@ -8,9 +8,12 @@ pos: 498
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# nywaniu przeglądu, októrym mowa wust. 2, zuwzględnieniem kwalifikacji osób dokonujących przeglądu.”;
+# Ustawa z dnia 27 marca 2003 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+
+*USTAWA dnia 27 marca 2003 o zmianie ustawy o emeryturach rentach Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,61 +27,77 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030560498) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/498/text.pdf) |
 
-9) wart. 21 wpkt i3 po wyrazie Ńproduktów” dodaje się wyrazy Ńiurządzeń”;
-10) wart. 22 wust. 3 wyrazy Ńrecyklingowi iregeneracji” zastępuje się wyrazami Ńrecyklingowi regeneracji”;
-11) wart. 24 po dodaje się 1ai1bwbrzmieniu: Ń1a. Rozpatrując wniosek wydanie pozwolenia na przywóz zzagranicy substancji kontrolowa13) wart. 32 wust. pkt 2 otrzymuje brzmienie: Ń2) prowadzące działalność polegającą na niszczeniu substancji kontrolowanych produktów urządzeń je zawierających.”;
-14) załączniku nr 3 ustawy pozycji 16 wyrazy ŃR-142” zastępuje się wyrazami ŃR-142b”.
+**Art. 1.** W ustawie dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz.U. 162, 1118, późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** Rozporządzenie wydane na podstawie upoważnienia zmienionego wart. pkt 7 niniejszej ustawy zachowuje moc czasu wydania nowego rozporządzenia. nych wymienionych wzałącznikach nr 3 i5 Art. 3. Ustawa wchodzi życie po upływie 14 dni ustawy, uwzględnia się dotychczasowy udział od dnia ogłoszenia. podmiotu ubiegającego się owydanie pozwolenia wprzywozie tych substancji. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 27 marca 2003 ozmianie ustawy oemeryturach irentach zFunduszu Ubezpieczeń Społecznych niektórych innych ustaw
+**Art. 88.**
 
-**Art. 1.** W ustawie dnia 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, zpóên. zm.
+1. Emerytury renty podlegają corocznie waloryzacji od dnia 1 marca. Waloryzacja polega na pomnożeniu kwoty świadczenia podstawy jego wymiaru przez wskaźnik waloryzacji.
+
+2. Waloryzacji podlega kwota świadczenia podstawa jego wymiaru roku kalendarzowym powiększony o co najmniej 20% realnego wzrostu przeciętnego wynagrodzenia poprzednim roku kalendarzowym, uwzględnieniem art. 91.
+
+2. Wskaźnikiem cen towarów usług konsumpcyjnych, o którym mowa ust. 1, jest wskaźnik cen towarów usług konsumpcyjnych dla gospodarstw domowych emerytów rencistów albo wskaźnik cen towarów usług konsumpcyjnych ogółem, jeżeli jest on wyższy od wskaźnika cen towarów usług konsumpcyjnych dla gospodarstw domowych emerytów rencistów.
 
 **Art. 90.**
 
-1. Wskaênik waloryzacji, którym mowa wart. 89 1, jest corocznie przedmiotem negocjacji ramach Trójstronnej Komisji Spraw Społeczno-Gospodarczych.
+1. Wskaźnik waloryzacji, o którym mowa art. 89 ust. 1, jest corocznie przedmiotem negocjacji ramach Trójstronnej Komisji do Spraw Społeczno-Gospodarczych.
 
-2. Jeżeli Trójstronna Komisja Spraw Społeczno-Gospodarczych terminie 2 dni od dnia ogłoszenia przez Prezesa Głównego Urzędu Statystycznego wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” komunikatu, którym mowa art. 94 pkt 2, uzgodni, drodze uchwały, wysokość wskaênika waloryzacji, wskaênik ten podlega ogłoszeniu Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, drodze obwieszczenia Prezesa Rady Ministrów.
+2. Jeżeli Trójstronna Komisja do Spraw Społeczno-Gospodarczych terminie 2 dni od dnia ogłoszenia przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikatu, o którym mowa art. 94 ust. 1 pkt 1 2, uzgodni, drodze uchwały, wysokość wskaźnika waloryzacji, wskaźnik ten podlega ogłoszeniu Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, drodze obwieszczenia Prezesa Rady Ministrów.
 
-3. Jeżeli nie nastąpi uzgodnienie stanowiska Trójstronnej Komisji Spraw Społeczno-Gospodarczych trybie określonym wust. i2, Rada Ministrów określi, drodze rozporządzenia, wskaênik waloryzacji, biorąc pod uwagę wskaêniki, októrych mowa wart. 89.
+3. Jeżeli nie nastąpi uzgodnienie stanowiska Trójstronnej Komisji do Spraw Społeczno-Gospodarczych trybie określonym ust. 1 2, Rada Ministrów określi, drodze rozporządzenia, wskaźnik waloryzacji, biorąc pod uwagę wskaźniki, o których mowa art.
+
+89.
 
 **Art. 91.**
 
-1. Jeżeli wskaênik cen towarów iusług konsumpcyjnych ogółem czerwcu danego roku wstosunku grudnia poprzedniego roku wynosi co najmniej 105%, cyzji organu rentowego, nie wcześniej jednak niż od dnia września, dnia poprzedzającego termin kolejnej waloryzacji, zastrzeżeniem art. 101 i102.
+1. Jeżeli wskaźnik cen towarów usług konsumpcyjnych ogółem czerwcu danego roku stosunku do grudnia poprzedniego roku wynosi co najmniej 105%, świadczenia waloryzuje się dodatkowo od dnia 1 września, na poczet kolejnej waloryzacji, zastrzeżeniem ust. 3.
 
-5. Przepis 4 stosuje się odpowiednio podstawy wymiaru emerytury irenty.
+2. Dodatkowa waloryzacja polega na pomnożeniu kwoty świadczenia podstawy jego wymiaru przez wskaźnik cen towarów usług konsumpcyjnych, o którym mowa ust. 1.
 
-**Art. 92.** Jeżeli poprzednim roku kalendarzowym świadczenia waloryzowano dodatkowo, wskaênik bieżącej nie może być niższy niż wskaênik cen towarów usług konsumpcyjnych, októrym mowa wart. 91 1.
+3. Dodatkowa waloryzacja obejmuje emerytury renty przyznane przed terminem kolejnej waloryzacji.
 
-**Art. 93.** Zmiana wysokości emerytur rent ramach następuje urzędu, a jeżeli wypłata świadczenia była wstrzymana po jej wznowieniu, uwzględnieniem wszystkich kolejnych waloryzacji dodatkowych, przypadających wokresie wstrzymania wypłaty.
+4. Emerytury renty wysokości uwzględniającej podwyżkę, o której mowa ust. 2, przysługują od dnia nabycia prawa do świadczenia, ustalonego decyzji organu rentowego, nie wcześniej jednak niż od dnia 1 września, do dnia poprzedzającego termin kolejnej waloryzacji, zastrzeżeniem art. 101 102.
+
+5. Przepis ust. 4 stosuje się odpowiednio do podstawy wymiaru
+
+**Art. 93.** Zmiana wysokości emerytur rent ramach waloryzacji następuje urzędu, a jeżeli wypłata świadczenia była wstrzymana - po jej wznowieniu, uwzględnieniem wszystkich kolejnych waloryzacji waloryzacji dodatkowych, przypadających okresie wstrzymania wypłaty.
 
 **Art. 94.**
 
-1. Prezes Głównego Urzędu Statystycznego ogłasza, formie komunikatu, wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”:
+1. Prezes Głównego Urzędu Statystycznego ogłasza, formie komunikatu, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
-- **1)** wterminie końca stycznia:
-    - **a)** średnioroczny wskaênik cen towarów usług konsumpcyjnych ogółem,
-    - **b)** średnioroczny wskaênik cen towarów usług konsumpcyjnych dla gospodarstw domowych emerytów irencistów poprzednim roku kalendarzowym, terminie 9 roboczego dnia lutego każdego roku wskaênik przeciętnego wynagrodzenia gospodarce narodowej wpoprzednim roku kalendarzowym,
+- **1)** terminie do końca stycznia:
+    - **a)** średnioroczny wskaźnik cen towarów usług konsumpcyjnych ogółem,
+    - **b)** średnioroczny wskaźnik cen towarów usług konsumpcyjnych dla gospodarstw domowych emerytów rencistów - poprzednim roku kalendarzowym,
 
-- **3)** wterminie końca lipca wskaênik cen towarów iusług konsumpcyjnych ogółem czerwcu bieżącego roku stosunku grudnia poprzedniego roku.
-- **7)** wart. 103:
-    - **a)** 3 otrzymuje brzmienie: Ń3. Prawo emerytury, renty tytułu niezdolności pracy renty rodzinnej, której uprawniona jest jedna osoba, może ulec zawieszeniu również na wniosek emeryta rencisty.”,
-    - **b)** uchyla się 4;
+- **2)** terminie do 9 roboczego dnia lutego każdego roku wskaźnik przeciętnego wynagrodzenia gospodarce narodowej poprzednim roku kalendarzowym,
+- **3)** terminie do końca lipca wskaźnik cen towarów usług konsumpcyjnych ogółem czerwcu bieżącego roku stosunku do grudnia poprzedniego roku.
 
-- **8)** po art. 107 dodaje się art. 107awbrzmieniu: ŃArt. 107a. 1. Jeżeli renty rodzinnej uprawnionych jest więcej niż jedna osoba ijedna kilka tych osób zgłosi wniosek owyłączenie zkręgu osób uprawnionych renty, prawo renty rodzinnej ulegnie ponownemu ustaleniu zpominięciem tej osoby (osób).
+2. Prezes Zakładu ogłasza, formie komunikatu, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” co najmniej na 7 dni roboczych przed najbliższym terminem:
 
-2. Wniosek, którym mowa 1, jest okolicznością powodującą ustanie prawa renty rodzinnej osób wymienionych 1. Przepis art. 134 pkt iust. 2 pkt 2 stosuje się odpowiednio.
+- **1)** waloryzacji waloryzacji dodatkowej, o których mowa art. 88 ust. 1 art. 91 ust. 1, należne od tego dnia kwoty:
+    - **a)** najniższej emerytury renty,
+    - **b)** dodatku pielęgnacyjnego dodatku dla sieroty zupełnej,
 
-3. Ponowne ustalenie wysokości renty rodzinnej dla pozostałych osób uprawnionych renty następuje od miesiąca, od którego wstrzymano wypłatę renty osobie, której mowa wust. 1.
+- **2)** waloryzacji, o której mowa art. 88 ust. 1, obowiązujące od dnia 1 marca kwoty maksymalnych zmniejszeń obliczonych zgodnie art. 104 ust. 9.”;
+- **7)** art. 103:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Prawo do emerytury, renty tytułu niezdolności do pracy lub renty rodzinnej, do której uprawniona jest jedna osoba, może ulec zawieszeniu również na wniosek emeryta lub rencisty.”,
+    - **b)** uchyla się ust. 4;
 
-4. Na wniosek osoby, której mowa 1, prawo renty rodzinnej ulega ponownemu ustaleniu, nie wcześniej jednak niż od miesiąca zgłoszenia wniosku.”;
+- **8)** po art. 107 dodaje się art. 107a brzmieniu: Przepis art. 134 ust. 1 pkt 1 ust. 2 pkt 2 stosuje się odpowiednio.
 
-- **9)** wart. 133 wust. wpkt na końcu dodaje się wyrazy Ńzzastrzeżeniem art. 107aust. 3,”.
+3. Ponowne ustalenie wysokości renty rodzinnej dla pozostałych osób uprawnionych do renty następuje od miesiąca, od którego wstrzymano wypłatę renty osobie, o której mowa ust. 1.
 
-**Art. 2.** Wustawie zdnia 29 maja 1974 ozaopatrzeniu inwalidów wojennych iwojskowych rodzin (Dz. U. z2002 9, 87 181, 1515) wart. 64 po wyrazach Ń107,” dodaje się wyrazy Ń107a,”. miaru podlegają na zasadach terminach przewidzianych ustawie dnia 17 grudnia 1998 emeryturach irentach zFunduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, póên. zm.) , ztym że:
+4. Na wniosek osoby, o której mowa ust. 1, prawo do renty rodzinnej ulega ponownemu ustaleniu, nie wcześniej jednak niż od miesiąca zgłoszenia wniosku.”;
 
-**Art. 4.** W ustawie dnia 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej rodzin (Dz. U. 53, 214, póên. zm. dnia 17 grudnia 1998 emeryturach irentach zFunduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, póên. zm. ) wprowadza się następujące zmiany:
+- **9)** art. 133 ust. 1 pkt 1 na końcu dodaje się wyrazy „z zastrzeżeniem art. 107a ust. 3,”.
 
-**Art. 5.** W ustawie dnia 13 paêdziernika 1998 systemie ubezpieczeń społecznych (Dz. U. 137, 887, zpóên. zm. ) wart. 28:
+**Art. 2.** W ustawie dnia 29 maja 1974 o zaopatrzeniu inwalidów wojennych wojskowych oraz ich rodzin (Dz.U. 2002 9, 87 181, 1515) art. 64 po wyrazach „107,” dodaje się wyrazy „107a,”.
 
-**Art. 6.** W ustawie dnia 30 sierpnia 2002 restrukturyzacji niektórych należności publicznopraw- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 499 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 18 marca 2003 wsprawie szczegółowych zasad itrybu udzielania pomocy uczniom podejmującym naukę wklasach pierwszych szkół podstawowych wroku szkolnym 2003/2004 Na podstawie art. 33 2 ustawy dnia 29 listopada 1990 pomocy społecznej (Dz. U. 1998 64, 414, póên. zm. wart. 2aust. pkt 2aiart. 4 ustawy zdnia 29 listopada 1990 opomocy społecznej, zzastrzeżeniem 3. ) zarządza się, co następuje: 3. Wuzasadnionych przypadkach, wszczególności powodów, których mowa art. 3 ustawy dnia § 1. Rozporządzenie określa: 29 listopada 1990 opomocy społecznej, pomoc może być przyznana również uczniom zrodzin, wktórych
+**Art. 3.** W ustawie dnia 10 grudnia 1993 o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz.U. 2002 11, 108 74, 676) wprowadza się następujące zmiany:
+
+**Art. 4.** W ustawie dnia 18 lutego 1994 o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej oraz ich rodzin (Dz.U. 53, 214, późn. zm.) wprowadza się następujące zmiany:
+
+**Art. 6.** W ustawie dnia 30 sierpnia 2002 o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców (Dz.U. 155, 1287) art. 11 ust. 1 wyrazy „w terminie 6 miesięcy od dnia wejścia życie ustawy” zastępuje się wyrazami „w terminie 11 miesięcy od dnia otrzymania decyzji, o której mowa art. 18 ust. 1”.
+
+**Art. 7.** Ustawa wchodzi życie dniem 1 stycznia 2004 r., wyjątkiem:
 

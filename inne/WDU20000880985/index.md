@@ -8,6 +8,7 @@ pos: 985
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o referendum lokalnym
@@ -23,7 +24,6 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2000-09-15 |
 | Data wydania | 2000-10-20 |
-| Wejście w życie | 2000-11-04 |
 | Ostatnia zmiana | 2025-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000880985) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/985/text.pdf) |
 

@@ -8,9 +8,12 @@ pos: 1685
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 listopada 2024 r.
+# o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych
+
+*USTAWA z dnia 6 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,21 +24,18 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-06 |
 | Data wydania | 2024-11-19 |
-| Ostatnia zmiana | 2026-03-26 |
+| Ostatnia zmiana | 2026-04-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001685) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1685/text.pdf) |
 
-USTAWA z dnia 6 listopada 2024 r.
-o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych
 Art. 14zo. § 1. Rada GLOBE jest niezależnym organem, którego zadaniem jest opiniowanie spraw z zakresu przepisów dotyczących opodatkowania wyrównawczego, o którym mowa w ustawie o opodatkowaniu wyrównawczym, w tym ich stosowania w indywidualnych sprawach na gruncie przepisów prawa podatkowego, przepisów o rachunkowości oraz wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD.
 § 2. Zadaniem Rady GLOBE jest także opiniowanie projektów aktów normatywnych związanych z opodatkowaniem wyrównawczym.
-Art. 14zp. § 1. Radę GLOBE powołuje minister właściwy do spraw finansów publicznych na czteroletnią kadencję.
-Rada GLOBE działa do dnia powołania Rady GLOBE kolejnej kadencji, nie dłużej jednak niż przez 6 miesięcy od dnia upływu jej kadencji.
+Art. 14zp. § 1. Radę GLOBE powołuje minister właściwy do spraw finansów publicznych na czteroletnią kadencję. Rada GLOBE działa do dnia powołania Rady GLOBE kolejnej kadencji, nie dłużej jednak niż przez 6 miesięcy od dnia upływu jej kadencji.
 § 2. Minister właściwy do spraw finansów publicznych powołuje przewodniczącego Rady GLOBE spośród członków Rady GLOBE.
-§ 3. Przewodniczący pełni funkcję do końca kadencji Rady GLOBE. W razie złożenia przez niego rezygnacji z funkcji przewodniczącego, wygaśnięcia jego członkostwa lub jego odwołania przepis § 2 stosuje się odpowiednio.
+§ 3. Przewodniczący pełni funkcję do końca kadencji Rady GLOBE.
+W razie złożenia przez niego rezygnacji z funkcji przewodniczącego, wygaśnięcia jego członkostwa lub jego odwołania przepis § 2 stosuje się odpowiednio.
 Art. 14zq. § 1. W skład Rady GLOBE wchodzą:
 1) 4 osoby delegowane przez ministra właściwego do spraw finansów publicznych, będące pracownikami urzędu obsługującego tego ministra;
-2) 2 osoby powołane spośród pracowników uczelni, jednostek organizacyjnych Polskiej Akademii Nauk lub instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r.
-poz. 534);
+2) 2 osoby powołane spośród pracowników uczelni, jednostek organizacyjnych Polskiej Akademii Nauk lub instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534);
 3) 2 osoby będące doradcami podatkowymi, delegowane przez Krajową Radę Doradców Podatkowych, będące członkami Krajowej Izby Doradców Podatkowych;
 4) 2 osoby będące biegłymi rewidentami, delegowane przez Krajową Radę Biegłych Rewidentów, będące członkami Polskiej Izby Biegłych Rewidentów;
 5) 1 osoba posiadająca aktywny certyfikat wydany przez Instytut Audytorów Wewnętrznych, zrzeszona w tym Instytucie.
@@ -90,7 +90,7 @@ Art. 14zw. § 1. Przewodniczącemu, pozostałym członkom Rady GLOBE oraz sekret
 2) obowiązek przedstawienia dokumentów lub informacji, o których mowa w art. 14u § 2 i 10, nie dotyczy dokumentów lub informacji przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach realizacji umowy o współdziałanie.”;
 7) w art. 20zd:
 a) w pkt 1 wyrazy „w sprawie, o której mowa w art. 20zb pkt 1” zastępuje się wyrazami „w sprawach, o których mowa w art. 20zb pkt 1 i 1a”,
-b) w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) Rady GLOBE w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 1a, przy czym przepisy art. 14zf i art. 14zg stosuje się odpowiednio.”;
+b) w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) Rady GLOBE – w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 1a, przy czym przepisy art. 14zf i art. 14zg stosuje się odpowiednio.”;
 8) w art. 20zt po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) opinię w sprawie opodatkowania wyrównawczego, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14t oraz art. 14u § 1, 2 i 10;”;
 9) w art. 59 w § 1 w pkt 10 po wyrazach „art. 14m” dodaje się wyrazy „lub art. 14zl”;
 10) w art. 70 po § 1a dodaje się § 1b w brzmieniu: „§ 1b. Zobowiązanie podatkowe podatnika podatku dochodowego od osób prawnych podlegającego opodatkowaniu wyrównawczemu na podstawie przepisów ustawy o opodatkowaniu wyrównawczym przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym upłynął termin płatności podatku wynikającego z tego opodatkowania wyrównawczego.”;
@@ -104,7 +104,8 @@ Art. 119zfp. § 1. Zainteresowany może zwrócić się do Szefa Krajowej Adminis
 Art. 119zfq. § 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego powinien zawierać dane istotne dla określenia podatkowych skutków czynności, o których mowa w art. 119zfp § 3, oraz zastosowania do tych czynności art. 119a § 1, w tym:
 1) dane identyfikujące wnioskodawcę;
 2) wskazanie podmiotów dokonujących czynności, o których mowa w art. 119zfp § 3;
-3) wyczerpujący opis czynności, o których mowa w art. 119zfp § 3, wraz ze wskazaniem występujących pomiędzy podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
+3) wyczerpujący opis czynności, o których mowa w art. 119zfp § 3, wraz ze wskazaniem występujących pomiędzy podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r.
+o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
 4) NSP w rozumieniu przepisów działu III rozdziału 11a odnoszący się do uzgodnienia albo wyjaśnienie, z jakich powodów faktycznych lub prawnych uzgodnienie nie podlegało zgłoszeniu w celu nadania NSP;
 5) wskazanie celów, których realizacji mają służyć czynności, o których mowa w art. 119zfp § 3;
 6) wskazanie ekonomicznego lub gospodarczego uzasadnienia czynności, o których mowa w art. 119zfp § 3;
@@ -113,11 +114,11 @@ Art. 119zfq. § 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatko
 9) wskazanie innych czynności, o których mowa w art. 119zfp § 3, od których pośrednio jest uzależnione osiągnięcie korzyści podatkowych, o których mowa w pkt 7 i 8;
 10) przedstawienie własnego stanowiska w sprawie;
 11) inne dane, w tym:
-a) dane identyfikacyjne jednostek lub jednostek składowych w rozumieniu odpowiednio art. 2 ust. 1 pkt 11 i 20 ustawy o opodatkowaniu wyrównawczym, uczestniczących w czynnościach, o których mowa w art. 119zfp § 3, w tym: numery ich identyfikacji podatkowej, a jeżeli te numery nie zostały nadane inne numery identyfikacyjne wraz z określeniem ich rodzaju, dane dotyczące miejsca ich siedziby lub zarządu, dane dotyczące przedmiotu prowadzonej przez nie działalności,
+a) dane identyfikacyjne jednostek lub jednostek składowych w rozumieniu odpowiednio art. 2 ust. 1 pkt 11 i 20 ustawy o opodatkowaniu wyrównawczym, uczestniczących w czynnościach, o których mowa w art. 119zfp § 3, w tym: – numery ich identyfikacji podatkowej, a jeżeli te numery nie zostały nadane inne numery identyfikacyjne wraz z określeniem ich rodzaju, – dane dotyczące miejsca ich siedziby lub zarządu, – dane dotyczące przedmiotu prowadzonej przez nie działalności,
 b) wskazanie jurysdykcji w rozumieniu art. 2 ust. 1 pkt 22 ustawy o opodatkowaniu wyrównawczym, w których jednostki lub jednostki składowe uczestniczące w czynnościach, o których mowa w art. 119zfp § 3, są zlokalizowane,
 c) rodzaje jednostek lub jednostek składowych, których dotyczy wniosek,
 d) informację na temat ogólnej struktury korporacyjnej grupy w rozumieniu art. 2 ust. 1 pkt 6 ustawy o opodatkowaniu wyrównawczym, w tym w zakresie udziałów konsolidujących w rozumieniu art. 2 ust. 1 pkt 42 ustawy o opodatkowaniu wyrównawczym w jednostkach składowych tej grupy będących w posiadaniu innych jednostek składowych tej grupy,
-e) opis podstawowej działalności wnioskodawcy, w tym: wskazanie przedmiotu prowadzonej działalności, opis strategii gospodarczej,
+e) opis podstawowej działalności wnioskodawcy, w tym: – wskazanie przedmiotu prowadzonej działalności, – opis strategii gospodarczej,
 f) opis przyjętych zasad lub polityki rachunkowości w zakresie, w jakim mają one zastosowanie do czynności, o których mowa w art. 119zfp § 3, stosowanych przez wnioskodawcę i pozostałe jednostki składowe uczestniczące w tych czynnościach,
 g) wskazanie umów, porozumień wewnątrzgrupowych lub innych dokumentów dotyczących czynności, o których mowa w art. 119zfp § 3,
 h) wskazanie innych dokumentów lub informacji niezbędnych do dokonania oceny stanowiska wnioskodawcy.
@@ -126,8 +127,7 @@ h) wskazanie innych dokumentów lub informacji niezbędnych do dokonania oceny s
 § 4. Szef Krajowej Administracji Skarbowej może zwrócić się do zainteresowanego o wyjaśnienie wątpliwości co do treści wniosku o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego lub zorganizować z zainteresowanym spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.
 § 5. Ze spotkania uzgodnieniowego sporządza się protokół.
 Art. 119zfr. § 1. Szef Krajowej Administracji Skarbowej wydaje opinię zabezpieczającą w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, nie ma zastosowania przepis art. 119a § 1.
-§ 2. Szef Krajowej Administracji Skarbowej odmawia wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1.
-Odmawiając wydania opinii zabezpieczającej, wskazuje się okoliczności świadczące o tym, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1.
+§ 2. Szef Krajowej Administracji Skarbowej odmawia wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1. Odmawiając wydania opinii zabezpieczającej, wskazuje się okoliczności świadczące o tym, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1.
 § 3. Odmowa wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego zawiera pouczenie o prawie wniesienia skargi do sądu administracyjnego.
 Art. 119zfs. Złożenie wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
 Art. 119zft. Opinia zabezpieczająca w sprawie opodatkowania wyrównawczego zawiera w szczególności:
@@ -138,8 +138,8 @@ Art. 119zfu. § 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatko
 § 2. Do terminu określonego w § 1 nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
 Art. 119zfv. § 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego podlega opłacie w wysokości 65 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku.
 § 2. Opłata podlega zwrotowi w przypadku:
-1) wycofania wniosku w terminie 6 miesięcy od dnia jego złożenia w połowie;
-2) uiszczenia jej w wysokości większej od należnej w odpowiedniej części.
+1) wycofania wniosku w terminie 6 miesięcy od dnia jego złożenia – w połowie;
+2) uiszczenia jej w wysokości większej od należnej – w odpowiedniej części.
 § 3. W przypadku, o którym mowa w § 2, zwrot opłaty następuje nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
 § 4. Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają wnioskodawcę.
 Art. 119zfw. Szef Krajowej Administracji Skarbowej może, z urzędu, zmienić wydaną opinię zabezpieczającą w sprawie opodatkowania wyrównawczego albo odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
@@ -177,14 +177,14 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** akceptowalnym standardzie rachunkowości rozumie się przez to:
+- **1)** akceptowalnym standardzie rachunkowości – rozumie się przez to: zm. );
     - **a)** właściwe przepisy w zakresie rachunkowości lub inne ogólnie przyjęte zasady rachunkowości państw członkowskich Unii Europejskiej lub innych państw należących do Europejskiego Obszaru Gospodarczego, lub Związku Australijskiego, Federacyjnej Republiki Brazylii, Chińskiej Republiki Ludowej, Specjalnego Regionu Administracyjnego Hongkong Chińskiej Republiki Ludowej, Japonii, Kanady, Meksykańskich Stanów Zjednoczonych, Nowej Zelandii, Republiki Indii, Republiki Korei, Federacji Rosyjskiej, Republiki Singapuru, Stanów Zjednoczonych Ameryki, Konfederacji Szwajcarskiej i Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz
-    - **b)** Międzynarodowe Standardy Rachunkowości oraz Międzynarodowe Standardy Sprawozdawczości Finansowej (MSR/MSSF), o których mowa w rozporządzeniu (WE) nr 1606/2002 Parlamentu Europejskiego i Rady z dnia 19 lipca 2002 r. w sprawie stosowania międzynarodowych standardów rachunkowości (Dz. Urz. UE L 243 z 11.09.2002, str. 1, z późn. zm. );
+    - **b)** Międzynarodowe Standardy Rachunkowości oraz Międzynarodowe Standardy Sprawozdawczości Finansowej (MSR/MSSF), o których mowa w rozporządzeniu (WE) nr 1606/2002 Parlamentu Europejskiego i Rady z dnia 19 lipca 2002 r. w sprawie stosowania międzynarodowych standardów rachunkowości (Dz. Urz. UE L 243 z 11.09.2002, str. 1, z późn.
 
-- **2)** bezpaństwowej jednostce składowej rozumie się przez to jednostkę składową, która nie jest zlokalizowana w jakiejkolwiek jurysdykcji;
-- **3)** centrali rozumie się przez to jednostkę, która uwzględnia w swoim sprawozdaniu finansowym księgowy dochód (stratę) netto stałego zakładu;
-- **4)** dyrektywie 2022/2523 rozumie się przez to dyrektywę Rady (UE) 2022/2523 z dnia 15 grudnia 2022 r. w sprawie zapewnienia globalnego minimalnego poziomu opodatkowania międzynarodowych grup przedsiębiorstw oraz dużych grup krajowych w Unii (Dz. Urz. UE L 328 z 22.12.2022, str. 1, z późn. zm. );
-- **5)** funduszu inwestycyjnym rozumie się przez to osobę prawną lub porozumienie umowne, w tym jednostkę organizacyjną niemającą osobowości prawnej, które spełniają łącznie następujące warunki:
+- **2)** bezpaństwowej jednostce składowej – rozumie się przez to jednostkę składową, która nie jest zlokalizowana w jakiejkolwiek jurysdykcji;
+- **3)** centrali – rozumie się przez to jednostkę, która uwzględnia w swoim sprawozdaniu finansowym księgowy dochód (stratę) netto stałego zakładu;
+- **4)** dyrektywie 2022/2523 – rozumie się przez to dyrektywę Rady (UE) 2022/2523 z dnia 15 grudnia 2022 r. w sprawie zapewnienia globalnego minimalnego poziomu opodatkowania międzynarodowych grup przedsiębiorstw oraz dużych grup krajowych w Unii (Dz. Urz. UE L 328 z 22.12.2022, str. 1, z późn. zm. );
+- **5)** funduszu inwestycyjnym – rozumie się przez to osobę prawną lub porozumienie umowne, w tym jednostkę organizacyjną niemającą osobowości prawnej, które spełniają łącznie następujące warunki:
     - **a)** przedmiotem ich działalności jest zbieranie aktywów od wielu inwestorów, gdzie co najmniej jeden z tych inwestorów nie jest osobą powiązaną z innymi inwestorami,
     - **b)** lokują zebrane aktywa zgodnie z określoną polityką inwestycyjną,
     - **c)** wspólne inwestowanie za ich pośrednictwem pozwala inwestorom na obniżenie kosztów transakcji, badań i analiz lub dywersyfikację ryzyka inwestycyjnego,
@@ -193,112 +193,112 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
     - **f)** prowadzą działalność lub są zarządzane na podstawie przepisów zapewniających ochronę interesów inwestorów oraz przeciwdziałających praniu pieniędzy i finansowaniu terroryzmu, obowiązujących w jurysdykcji ich utworzenia lub jurysdykcji, w której posiada siedzibę osoba nimi zarządzająca,
     - **g)** są zarządzane przez osoby zawodowo zajmujące się ich zarządzaniem;
 
-- **6)** grupie rozumie się przez to:
+- **6)** grupie – rozumie się przez to:
     - **a)** co najmniej dwie jednostki, między którymi istnieją powiązania właścicielskie lub powiązania wynikające ze sprawowania kontroli, zgodnie z akceptowalnym standardem rachunkowości lub zatwierdzonym standardem rachunkowości stosowanym przez jednostkę dominującą najwyższego szczebla w celu sporządzenia skonsolidowanego sprawozdania finansowego, w tym jednostki nieuwzględnione w takim sprawozdaniu finansowym wyłącznie ze względu na ich niewielki rozmiar, nieistotność lub przeznaczenie do sprzedaży,
     - **b)** jednostkę posiadającą co najmniej jeden stały zakład, jeżeli nie wchodzi ona w skład innej grupy, o której mowa w lit. a;
 
-- **7)** grupie joint venture rozumie się przez to grupę co najmniej dwóch jednostek, z których jedna jest jednostką joint venture, a pozostałe są jednostkami zależnymi joint venture;
-- **8)** grupie krajowej rozumie się przez to grupę, w której wszystkie jednostki składowe są zlokalizowane na terytorium Rzeczypospolitej Polskiej;
-- **9)** grupie międzynarodowej rozumie się przez to grupę, w której co najmniej jedna jednostka lub stały zakład nie są zlokalizowane w jurysdykcji, w której jest zlokalizowana jednostka dominująca najwyższego szczebla;
-- **10)** hipotetycznym sprawozdaniu finansowym rozumie się przez to sprawozdanie finansowe, które zostałoby sporządzone przez jednostkę dominującą najwyższego szczebla, gdyby ta jednostka była obowiązana do sporządzenia takiego sprawozdania zgodnie z akceptowalnym standardem rachunkowości lub zatwierdzonym standardem rachunkowości z uwzględnieniem korekty w celu uniknięcia istotnej różnicy rachunkowej, jeżeli ta jednostka nie sporządza sprawozdania, o którym mowa w pkt 38 lit. a–c;
-- **11)** jednostce rozumie się przez to:
+- **7)** grupie joint venture – rozumie się przez to grupę co najmniej dwóch jednostek, z których jedna jest jednostką joint venture, a pozostałe są jednostkami zależnymi joint venture;
+- **8)** grupie krajowej – rozumie się przez to grupę, w której wszystkie jednostki składowe są zlokalizowane na terytorium Rzeczypospolitej Polskiej;
+- **9)** grupie międzynarodowej – rozumie się przez to grupę, w której co najmniej jedna jednostka lub stały zakład nie są zlokalizowane w jurysdykcji, w której jest zlokalizowana jednostka dominująca najwyższego szczebla;
+- **10)** hipotetycznym sprawozdaniu finansowym – rozumie się przez to sprawozdanie finansowe, które zostałoby sporządzone przez jednostkę dominującą najwyższego szczebla, gdyby ta jednostka była obowiązana do sporządzenia takiego sprawozdania zgodnie z akceptowalnym standardem rachunkowości lub zatwierdzonym standardem rachunkowości z uwzględnieniem korekty w celu uniknięcia istotnej różnicy rachunkowej, jeżeli ta jednostka nie sporządza sprawozdania, o którym mowa w pkt 38 lit. a– c;
+- **11)** jednostce – rozumie się przez to:
     - **a)** osobę prawną albo
     - **b)** porozumienie umowne, w tym jednostkę organizacyjną niemającą osobowości prawnej, które jest obowiązane do sporządzenia odrębnego sprawozdania finansowego lub sporządza takie odrębne sprawozdanie;
 
-- **12)** jednostce będącej właścicielem rozumie się przez to jednostkę składową, która posiada, bezpośrednio lub pośrednio, udział własnościowy w innej jednostce składowej tej samej grupy;
-- **13)** jednostce dominującej rozumie się przez to jednostkę dominującą najwyższego szczebla, która nie jest jednostką wyłączoną, jednostkę dominującą niższego szczebla oraz jednostkę dominującą w częściowym posiadaniu;
-- **14)** jednostce dominującej najwyższego szczebla rozumie się przez to:
+- **12)** jednostce będącej właścicielem – rozumie się przez to jednostkę składową, która posiada, bezpośrednio lub pośrednio, udział własnościowy w innej jednostce składowej tej samej grupy;
+- **13)** jednostce dominującej – rozumie się przez to jednostkę dominującą najwyższego szczebla, która nie jest jednostką wyłączoną, jednostkę dominującą niższego szczebla oraz jednostkę dominującą w częściowym posiadaniu;
+- **14)** jednostce dominującej najwyższego szczebla – rozumie się przez to:
     - **a)** jednostkę, która posiada, bezpośrednio lub pośrednio, udział konsolidujący w innej jednostce i w której inna jednostka nie posiada, bezpośrednio lub pośrednio, udziału konsolidującego, lub
     - **b)** jednostkę, o której mowa w pkt 6 lit. b;
 
-- **15)** jednostce dominującej niższego szczebla rozumie się przez to jednostkę składową, która posiada, bezpośrednio lub pośrednio, udział własnościowy w innej jednostce składowej tej samej grupy i która nie jest jednostką dominującą najwyższego szczebla, jednostką dominującą w częściowym posiadaniu, stałym zakładem, jednostką inwestycyjną lub ubezpieczeniową jednostką inwestycyjną;
-- **16)** jednostce dominującej w częściowym posiadaniu rozumie się przez to jednostkę składową, która spełnia łącznie następujące warunki:
+- **15)** jednostce dominującej niższego szczebla – rozumie się przez to jednostkę składową, która posiada, bezpośrednio lub pośrednio, udział własnościowy w innej jednostce składowej tej samej grupy i która nie jest jednostką dominującą najwyższego szczebla, jednostką dominującą w częściowym posiadaniu, stałym zakładem, jednostką inwestycyjną lub ubezpieczeniową jednostką inwestycyjną;
+- **16)** jednostce dominującej w częściowym posiadaniu – rozumie się przez to jednostkę składową, która spełnia łącznie następujące warunki:
     - **a)** posiada, bezpośrednio lub pośrednio, udział własnościowy w innej jednostce składowej tej samej grupy,
     - **b)** osoby niebędące jednostkami składowymi tej grupy posiadają, bezpośrednio lub pośrednio, więcej niż 20 % praw do udziału w zysku tej jednostki składowej,
     - **c)** nie jest jednostką dominującą najwyższego szczebla, stałym zakładem, jednostką inwestycyjną lub ubezpieczeniową jednostką inwestycyjną;
 
-- **17)** jednostce inwestującej w nieruchomości rozumie się przez to jednostkę, która spełnia łącznie następujące warunki:
+- **17)** jednostce inwestującej w nieruchomości – rozumie się przez to jednostkę, która spełnia łącznie następujące warunki:
     - **a)** własność udziałów w tej jednostce lub praw o podobnym charakterze jest rozproszona,
     - **b)** co najmniej 50 % wartości bilansowej jej aktywów, bezpośrednio lub pośrednio, stanowią nieruchomości,
     - **c)** dochód tej jednostki podlega opodatkowaniu podatkiem dochodowym przez tę jednostkę albo przez właścicieli udziałów w tej jednostce lub praw o podobnym charakterze, przy czym warunek uznaje się za spełniony w przypadku odroczenia takiego opodatkowania na okres nieprzekraczający 12 miesięcy;
 
-- **18)** jednostce inwestycyjnej rozumie się przez to:
+- **18)** jednostce inwestycyjnej – rozumie się przez to:
     - **a)** fundusz inwestycyjny lub
     - **b)** jednostkę inwestującą w nieruchomości, lub
-    - **c)** jednostkę spełniającą łącznie następujące warunki: co najmniej 95 % nominalnej wartości udziałów lub praw o podobnym charakterze, a w przypadku udziałów lub praw nieposiadających nominalnej wartości emisyjnej wartości takich udziałów lub praw w takiej jednostce, należy do funduszu inwestycyjnego lub jednostki inwestującej w nieruchomości, bezpośrednio lub za pośrednictwem funduszy inwestycyjnych lub jednostek inwestujących w nieruchomości, działalność takiej jednostki polega wyłącznie lub niemal wyłącznie na utrzymywaniu aktywów, w tym na zarządzaniu takimi aktywami, lub inwestowaniu, lub lokowaniu środków finansowych, w tym środków pochodzących z pożyczek lub kredytów, na rzecz funduszu inwestycyjnego lub jednostki inwestującej w nieruchomości, lub
-    - **d)** jednostkę, w której co najmniej 85 % nominalnej wartości udziałów lub praw o podobnym charakterze, a w przypadku udziałów lub praw nieposiadających nominalnej wartości emisyjnej wartości takich udziałów lub praw w takiej jednostce, należy bezpośrednio do funduszu inwestycyjnego lub jednostki inwestującej w nieruchomości, jeżeli jej prawie cały dochód pochodzi z dywidend wyłączonych, o których mowa w art. 43, lub z wyłączonych zysków (strat) kapitałowych, o których mowa w art. 44;
+    - **c)** jednostkę spełniającą łącznie następujące warunki: – co najmniej 95 % nominalnej wartości udziałów lub praw o podobnym charakterze, a w przypadku udziałów lub praw nieposiadających nominalnej wartości – emisyjnej wartości takich udziałów lub praw w takiej jednostce, należy do funduszu inwestycyjnego lub jednostki inwestującej w nieruchomości, bezpośrednio lub za pośrednictwem funduszy inwestycyjnych lub jednostek inwestujących w nieruchomości, – działalność takiej jednostki polega wyłącznie lub niemal wyłącznie na utrzymywaniu aktywów, w tym na zarządzaniu takimi aktywami, lub inwestowaniu, lub lokowaniu środków finansowych, w tym środków pochodzących z pożyczek lub kredytów, na rzecz funduszu inwestycyjnego lub jednostki inwestującej w nieruchomości, lub
+    - **d)** jednostkę, w której co najmniej 85 % nominalnej wartości udziałów lub praw o podobnym charakterze, a w przypadku udziałów lub praw nieposiadających nominalnej wartości – emisyjnej wartości takich udziałów lub praw w takiej jednostce, należy bezpośrednio do funduszu inwestycyjnego lub jednostki inwestującej w nieruchomości, jeżeli jej prawie cały dochód pochodzi z dywidend wyłączonych, o których mowa w art. 43, lub z wyłączonych zysków (strat) kapitałowych, o których mowa w art. 44;
 
-- **19)** jednostce joint venture rozumie się przez to jednostkę, której wyniki finansowe są uwzględniane w skonsolidowanym sprawozdaniu grupy zgodnie z metodą praw własności, pod warunkiem że jednostka dominująca najwyższego szczebla tej grupy posiada w tej jednostce, bezpośrednio lub pośrednio, co najmniej 50 % udziałów własnościowych, z wyłączeniem:
+- **19)** jednostce joint venture – rozumie się przez to jednostkę, której wyniki finansowe są uwzględniane w skonsolidowanym sprawozdaniu grupy zgodnie z metodą praw własności, pod warunkiem że jednostka dominująca najwyższego szczebla tej grupy posiada w tej jednostce, bezpośrednio lub pośrednio, co najmniej 50 % udziałów własnościowych, z wyłączeniem:
     - **a)** jednostki dominującej najwyższego szczebla, której jednostki składowe podlegają przepisom działu II lub kwalifikowanej zasadzie włączenia dochodu do opodatkowania,
     - **b)** jednostek wyłączonych,
-    - **c)** jednostki, której udziały własnościowe są posiadane bezpośrednio przez jednostkę składową będącą jednostką wyłączoną, jeżeli ta jednostka: prowadzi działalność polegającą wyłącznie lub niemal wyłącznie na utrzymywaniu aktywów, w tym na zarządzaniu takimi aktywami, lub inwestowaniu środków finansowych na rzecz jej inwestorów, w tym środków pochodzących z pożyczek lub kredytów na rzecz jej inwestorów, lub prowadzi wyłącznie działalność pomocniczą w stosunku do działalności prowadzonej przez jednostkę wyłączoną, lub osiąga prawie cały dochód z dywidend wyłączonych, o których mowa w art. 43, lub z wyłączonych zysków (strat) kapitałowych, o których mowa w art. 44, lub
+    - **c)** jednostki, której udziały własnościowe są posiadane bezpośrednio przez jednostkę składową będącą jednostką wyłączoną, jeżeli ta jednostka: – prowadzi działalność polegającą wyłącznie lub niemal wyłącznie na utrzymywaniu aktywów, w tym na zarządzaniu takimi aktywami, lub inwestowaniu środków finansowych na rzecz jej inwestorów, w tym środków pochodzących z pożyczek lub kredytów na rzecz jej inwestorów, lub – prowadzi wyłącznie działalność pomocniczą w stosunku do działalności prowadzonej przez jednostkę wyłączoną, lub – osiąga prawie cały dochód z dywidend wyłączonych, o których mowa w art. 43, lub z wyłączonych zysków (strat) kapitałowych, o których mowa w art. 44, lub
     - **d)** jednostki, której udziały własnościowe są posiadane wyłącznie przez jednostkę składową lub jednostki składowe należące do grupy, w skład której wchodzą tylko jednostki wyłączone, lub
     - **e)** jednostki zależnej joint venture;
 
-- **20)** jednostce składowej rozumie się przez to:
+- **20)** jednostce składowej – rozumie się przez to:
     - **a)** jednostkę, która wchodzi w skład grupy międzynarodowej lub grupy krajowej, lub
     - **b)** stały zakład centrali, która wchodzi w skład grupy międzynarodowej;
 
-- **21)** jednostce zależnej joint venture rozumie się przez to:
+- **21)** jednostce zależnej joint venture – rozumie się przez to:
     - **a)** jednostkę, której aktywa, zobowiązania, przychody, koszty i przepływy pieniężne są konsolidowane przez jednostkę joint venture zgodnie z akceptowalnym standardem rachunkowości lub byłyby konsolidowane, gdyby jednostka joint venture była obowiązana do konsolidacji takich aktywów, zobowiązań, przychodów, kosztów i przepływów pieniężnych zgodnie z takim standardem, lub
     - **b)** stały zakład, którego centralą jest jednostka joint venture albo jednostka, o której mowa w lit. a;
 
-- **22)** jurysdykcji rozumie się przez to państwo lub terytorium, które posiada autonomię fiskalną w zakresie podatku dochodowego od osób prawnych;
-- **23)** kwalifikowanej zasadzie niedostatecznie opodatkowanych zysków rozumie się przez to przepisy obowiązujące w jurysdykcji innej niż Rzeczpospolita Polska, jeżeli:
+- **22)** jurysdykcji – rozumie się przez to państwo lub terytorium, które posiada autonomię fiskalną w zakresie podatku dochodowego od osób prawnych;
+- **23)** kwalifikowanej zasadzie niedostatecznie opodatkowanych zysków – rozumie się przez to przepisy obowiązujące w jurysdykcji innej niż Rzeczpospolita Polska, jeżeli:
     - **a)** ta jurysdykcja nie zapewnia jakichkolwiek korzyści związanych z tymi przepisami oraz
-    - **b)** przepisy te są równoważne z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej z Modelowymi zasadami OECD, na których podstawie dana jurysdykcja opodatkowuje wyrównawczo nisko opodatkowane jednostki składowe grupy, które nie zostały opodatkowane na podstawie kwalifikowanej zasady włączenia dochodu do opodatkowania albo na podstawie przepisów o globalnym podatku wyrównawczym, oraz
-    - **c)** przepisy te są stosowane w sposób zgodny z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej zgodnie z Modelowymi zasadami OECD;
+    - **b)** przepisy te są równoważne z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej – z Modelowymi zasadami OECD, na których podstawie dana jurysdykcja opodatkowuje wyrównawczo nisko opodatkowane jednostki składowe grupy, które nie zostały opodatkowane na podstawie kwalifikowanej zasady włączenia dochodu do opodatkowania albo na podstawie przepisów o globalnym podatku wyrównawczym, oraz
+    - **c)** przepisy te są stosowane w sposób zgodny z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej – zgodnie z Modelowymi zasadami OECD;
 
-- **24)** kwalifikowanej zasadzie włączenia dochodu do opodatkowania rozumie się przez to przepisy obowiązujące w jurysdykcji innej niż Rzeczpospolita Polska, jeżeli:
+- **24)** kwalifikowanej zasadzie włączenia dochodu do opodatkowania – rozumie się przez to przepisy obowiązujące w jurysdykcji innej niż Rzeczpospolita Polska, jeżeli:
     - **a)** ta jurysdykcja nie zapewnia jakichkolwiek korzyści związanych z tymi przepisami oraz
-    - **b)** przepisy te są równoważne z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej z Modelowymi zasadami OECD, na których podstawie jednostka dominująca grupy międzynarodowej podlega opodatkowaniu wyrównawczemu z tytułu nisko opodatkowanych jednostek składowych tej grupy, oraz
-    - **c)** przepisy te są stosowane w sposób zgodny z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej zgodnie z Modelowymi zasadami OECD;
+    - **b)** przepisy te są równoważne z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej – z Modelowymi zasadami OECD, na których podstawie jednostka dominująca grupy międzynarodowej podlega opodatkowaniu wyrównawczemu z tytułu nisko opodatkowanych jednostek składowych tej grupy, oraz
+    - **c)** przepisy te są stosowane w sposób zgodny z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej – zgodnie z Modelowymi zasadami OECD;
 
-- **25)** kwalifikowanym globalnym podatku wyrównawczym rozumie się przez to podatek obowiązujący w jurysdykcji innej niż Rzeczpospolita Polska, który wynika ze stosowania kwalifikowanej zasady włączenia dochodu do opodatkowania;
-- **26)** kwalifikowanym krajowym podatku wyrównawczym rozumie się przez to podatek obowiązujący w jurysdykcji innej niż Rzeczpospolita Polska, jeżeli:
+- **25)** kwalifikowanym globalnym podatku wyrównawczym – rozumie się przez to podatek obowiązujący w jurysdykcji innej niż Rzeczpospolita Polska, który wynika ze stosowania kwalifikowanej zasady włączenia dochodu do opodatkowania;
+- **26)** kwalifikowanym krajowym podatku wyrównawczym – rozumie się przez to podatek obowiązujący w jurysdykcji innej niż Rzeczpospolita Polska, jeżeli:
     - **a)** ta jurysdykcja nie zapewnia jakichkolwiek korzyści związanych z przepisami regulującymi ten podatek oraz
-    - **b)** ten podatek przewiduje określenie nadwyżki zysku w odniesieniu do nisko opodatkowanych jednostek składowych zlokalizowanych w tej jurysdykcji i opodatkowanie tej nadwyżki z uwzględnieniem minimalnej stawki podatkowej, zgodnie z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej zgodnie z Modelowymi zasadami OECD, oraz
-    - **c)** ten podatek jest ustalany i pobierany w sposób zgodny z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej zgodnie z Modelowymi zasadami OECD;
+    - **b)** ten podatek przewiduje określenie nadwyżki zysku w odniesieniu do nisko opodatkowanych jednostek składowych zlokalizowanych w tej jurysdykcji i opodatkowanie tej nadwyżki z uwzględnieniem minimalnej stawki podatkowej, zgodnie z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej – zgodnie z Modelowymi zasadami OECD, oraz
+    - **c)** ten podatek jest ustalany i pobierany w sposób zgodny z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej – zgodnie z Modelowymi zasadami OECD;
 
-- **27)** minimalnej stawce podatkowej rozumie się przez to stawkę podatkową w wysokości 15 %;
-- **28)** mniejszościowej jednostce dominującej rozumie się przez to mniejszościową jednostkę składową, która posiada, bezpośrednio lub pośrednio, udziały konsolidujące w innej mniejszościowej jednostce składowej, z wyjątkiem przypadku, gdy udziały konsolidujące w tej pierwszej jednostce są w posiadaniu, bezpośrednio lub pośrednio, innej mniejszościowej jednostki składowej;
-- **29)** mniejszościowej jednostce składowej rozumie się przez to jednostkę składową, w której jednostka dominująca najwyższego szczebla posiada, bezpośrednio lub pośrednio, nie więcej niż 30 % udziałów własnościowych;
-- **30)** mniejszościowej jednostce zależnej rozumie się przez to mniejszościową jednostkę składową, której udziały konsolidujące znajdują się w posiadaniu, bezpośrednio lub pośrednio, mniejszościowej jednostki dominującej;
-- **31)** Modelowej konwencji OECD rozumie się przez to Modelową Konwencję Organizacji Współpracy Gospodarczej i Rozwoju (OECD) w sprawie podatku od dochodu i majątku;
-- **32)** Modelowych zasadach OECD rozumie się przez to przepisy i zasady opisane w dokumencie pt. „Wyzwania podatkowe wynikające z cyfryzacji gospodarki modelowe globalne zasady przeciwdziałania erozji podstawy opodatkowania (filar drugi)”, zatwierdzonym w dniu 14 grudnia 2021 r. przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD;
-- **33)** Ordynacji podatkowej rozumie się przez to ustawę z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879 i 1685);
-- **34)** osobie rozumie się przez to osobę fizyczną, osobę prawną lub porozumienie umowne, w tym jednostkę organizacyjną nieposiadającą osobowości prawnej;
-- **35)** podgrupie mniejszościowej rozumie się przez to grupę co najmniej dwóch jednostek składowych, w której jedną z tych jednostek jest mniejszościowa jednostka dominująca, a pozostałe jednostki składowe są mniejszościowymi jednostkami zależnymi;
-- **36)** przepisach o zagranicznych jednostkach kontrolowanych rozumie się przez to przepisy art. 24a ustawy o podatku dochodowym od osób prawnych albo przepisy o podatku dochodowym od osób prawnych obowiązujące w jurysdykcji innej niż Rzeczpospolita Polska, inne niż kwalifikowana zasada włączenia dochodu do opodatkowania, zgodnie z którymi bezpośredni lub pośredni udziałowiec lub uczestnik o podobnym charakterze w zagranicznej jednostce kontrolowanej będącej jednostką składową podlega opodatkowaniu od swojego udziału w odniesieniu do całości albo części dochodu osiągniętego przez tę jednostkę, niezależnie od tego, czy ten dochód jest wypłacany temu udziałowcowi lub uczestnikowi;
-- **37)** roku podatkowym rozumie się przez to:
+- **27)** minimalnej stawce podatkowej – rozumie się przez to stawkę podatkową w wysokości 15 %;
+- **28)** mniejszościowej jednostce dominującej – rozumie się przez to mniejszościową jednostkę składową, która posiada, bezpośrednio lub pośrednio, udziały konsolidujące w innej mniejszościowej jednostce składowej, z wyjątkiem przypadku, gdy udziały konsolidujące w tej pierwszej jednostce są w posiadaniu, bezpośrednio lub pośrednio, innej mniejszościowej jednostki składowej;
+- **29)** mniejszościowej jednostce składowej – rozumie się przez to jednostkę składową, w której jednostka dominująca najwyższego szczebla posiada, bezpośrednio lub pośrednio, nie więcej niż 30 % udziałów własnościowych;
+- **30)** mniejszościowej jednostce zależnej – rozumie się przez to mniejszościową jednostkę składową, której udziały konsolidujące znajdują się w posiadaniu, bezpośrednio lub pośrednio, mniejszościowej jednostki dominującej;
+- **31)** Modelowej konwencji OECD – rozumie się przez to Modelową Konwencję Organizacji Współpracy Gospodarczej i Rozwoju (OECD) w sprawie podatku od dochodu i majątku;
+- **32)** Modelowych zasadach OECD – rozumie się przez to przepisy i zasady opisane w dokumencie pt. „Wyzwania podatkowe wynikające z cyfryzacji gospodarki – modelowe globalne zasady przeciwdziałania erozji podstawy opodatkowania (filar drugi)”, zatwierdzonym w dniu 14 grudnia 2021 r. przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD;
+- **33)** Ordynacji podatkowej – rozumie się przez to ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879 i 1685);
+- **34)** osobie – rozumie się przez to osobę fizyczną, osobę prawną lub porozumienie umowne, w tym jednostkę organizacyjną nieposiadającą osobowości prawnej;
+- **35)** podgrupie mniejszościowej – rozumie się przez to grupę co najmniej dwóch jednostek składowych, w której jedną z tych jednostek jest mniejszościowa jednostka dominująca, a pozostałe jednostki składowe są mniejszościowymi jednostkami zależnymi;
+- **36)** przepisach o zagranicznych jednostkach kontrolowanych – rozumie się przez to przepisy art. 24a ustawy o podatku dochodowym od osób prawnych albo przepisy o podatku dochodowym od osób prawnych obowiązujące w jurysdykcji innej niż Rzeczpospolita Polska, inne niż kwalifikowana zasada włączenia dochodu do opodatkowania, zgodnie z którymi bezpośredni lub pośredni udziałowiec lub uczestnik o podobnym charakterze w zagranicznej jednostce kontrolowanej będącej jednostką składową podlega opodatkowaniu od swojego udziału w odniesieniu do całości albo części dochodu osiągniętego przez tę jednostkę, niezależnie od tego, czy ten dochód jest wypłacany temu udziałowcowi lub uczestnikowi;
+- **37)** roku podatkowym – rozumie się przez to:
     - **a)** rok ustalony dla celów rachunkowych, za który jednostka dominująca najwyższego szczebla grupy międzynarodowej lub grupy krajowej sporządza skonsolidowane sprawozdanie finansowe, albo
     - **b)** rok kalendarzowy, jeżeli jednostka dominująca najwyższego szczebla nie sporządza skonsolidowanego sprawozdania finansowego oraz są spełnione warunki dla hipotetycznego sprawozdania finansowego;
 
-- **38)** skonsolidowanym sprawozdaniu finansowym rozumie się przez to:
+- **38)** skonsolidowanym sprawozdaniu finansowym – rozumie się przez to:
     - **a)** sprawozdanie finansowe sporządzane przez jednostkę zgodnie z akceptowalnym standardem rachunkowości, w którym aktywa, zobowiązania, przychody, koszty i przepływy pieniężne tej jednostki oraz jednostek, w których posiada ona udział konsolidujący, są przedstawiane jako aktywa, zobowiązania, przychody, koszty i przepływy pieniężne jednej jednostki, lub
-    - **b)** sprawozdanie finansowe sporządzane przez jednostkę zgodnie z akceptowalnym standardem rachunkowości w przypadku grupy, o której mowa w pkt 6 lit. b, lub
+    - **b)** sprawozdanie finansowe sporządzane przez jednostkę zgodnie z akceptowalnym standardem rachunkowości – w przypadku grupy, o której mowa w pkt 6 lit. b, lub
     - **c)** sprawozdanie finansowe jednostki dominującej najwyższego szczebla, które nie zostało sporządzone zgodnie z akceptowalnym standardem rachunkowości, skorygowane w celu uniknięcia istotnej różnicy rachunkowej, lub
     - **d)** hipotetyczne sprawozdanie finansowe;
 
-- **39)** skonsolidowanym sprawozdaniu grupy rozumie się przez to skonsolidowane sprawozdanie finansowe sporządzane przez jednostkę dominującą najwyższego szczebla grupy międzynarodowej lub grupy krajowej;
-- **40)** stałym zakładzie rozumie się przez to miejsce prowadzenia działalności gospodarczej lub miejsce uznawane za miejsce prowadzenia działalności gospodarczej:
+- **39)** skonsolidowanym sprawozdaniu grupy – rozumie się przez to skonsolidowane sprawozdanie finansowe sporządzane przez jednostkę dominującą najwyższego szczebla grupy międzynarodowej lub grupy krajowej;
+- **40)** stałym zakładzie – rozumie się przez to miejsce prowadzenia działalności gospodarczej lub miejsce uznawane za miejsce prowadzenia działalności gospodarczej:
     - **a)** znajdujące się w jurysdykcji, w której jest ono traktowane jako zakład zgodnie z mającą zastosowanie umową o unikaniu podwójnego opodatkowania, pod warunkiem że ta jurysdykcja opodatkowuje dochód przypisany takiemu miejscu zgodnie z postanowieniami podobnymi do art. 7 Modelowej konwencji OECD,
-    - **b)** znajdujące się w jurysdykcji, która opodatkowuje dochód przypisany takiemu miejscu na zasadach właściwych dla podatku dochodowego w sposób porównywalny do opodatkowania takim podatkiem rezydentów podatkowych tej jurysdykcji w przypadku braku mającej zastosowanie umowy o unikaniu podwójnego opodatkowania,
-    - **c)** które byłoby traktowane jako zakład zgodnie z Modelową konwencją OECD, pod warunkiem że jurysdykcja, w której znajduje się takie miejsce, miałaby prawo do opodatkowania dochodu przypisanego temu miejscu zgodnie z postanowieniami podobnymi do art. 7 Modelowej konwencji OECD w przypadku braku w tej jurysdykcji systemu podatku dochodowego od osób prawnych,
+    - **b)** znajdujące się w jurysdykcji, która opodatkowuje dochód przypisany takiemu miejscu na zasadach właściwych dla podatku dochodowego w sposób porównywalny do opodatkowania takim podatkiem rezydentów podatkowych tej jurysdykcji – w przypadku braku mającej zastosowanie umowy o unikaniu podwójnego opodatkowania,
+    - **c)** które byłoby traktowane jako zakład zgodnie z Modelową konwencją OECD, pod warunkiem że jurysdykcja, w której znajduje się takie miejsce, miałaby prawo do opodatkowania dochodu przypisanego temu miejscu zgodnie z postanowieniami podobnymi do art. 7 Modelowej konwencji OECD – w przypadku braku w tej jurysdykcji systemu podatku dochodowego od osób prawnych,
     - **d)** inne niż miejsce wymienione w lit. a–c, w którym jest prowadzona działalność gospodarcza poza jurysdykcją, w której jest zlokalizowana centrala, pod warunkiem że jurysdykcja ta zwalnia lub wyłącza z podatku dochodowego dochód przypisany takiej działalności;
 
-- **41)** ubezpieczeniowej jednostce inwestycyjnej rozumie się przez to jednostkę, która byłaby jednostką inwestycyjną lub jednostką inwestującą w nieruchomości, gdyby:
+- **41)** ubezpieczeniowej jednostce inwestycyjnej – rozumie się przez to jednostkę, która byłaby jednostką inwestycyjną lub jednostką inwestującą w nieruchomości, gdyby:
     - **a)** nie została utworzona w związku z zobowiązaniami z tytułu umowy ubezpieczenia lub umowy okresowego świadczenia o podobnym charakterze oraz
     - **b)** wszystkie udziały własnościowe w tej jednostce nie należały do jednostki podlegającej w jurysdykcji jej lokalizacji przepisom regulującym działalność zakładów ubezpieczeń;
 
-- **42)** udziale konsolidującym rozumie się przez to posiadany, bezpośrednio lub pośrednio, udział własnościowy w jednostce, którego właściciel jest obowiązany do konsolidacji pełnej lub proporcjonalnej aktywów, zobowiązań, przychodów, kosztów i przepływów pieniężnych jednostki zgodnie z akceptowalnym standardem rachunkowości lub zatwierdzonym standardem rachunkowości lub byłby obowiązany do takiej konsolidacji, gdyby sporządzał skonsolidowane sprawozdanie finansowe, przy czym uznaje się, że centrala posiada udziały konsolidujące w swoich stałych zakładach;
-- **43)** udziałach własnościowych rozumie się przez to wszelkie udziały w kapitale dające prawa do zysków, kapitału lub rezerw jednostki lub stałego zakładu, przy czym udziały własnościowe w jednostce składowej przypisane do stałego zakładu uznaje się za udziały posiadane przez centralę;
-- **44)** ustawie o podatku dochodowym od osób prawnych rozumie się przez to ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm. );
-- **45)** ustawie o rachunkowości rozumie się przez to ustawę z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619 i 1685);
-- **46)** wartości księgowej netto rzeczowych aktywów trwałych rozumie się przez to połowę sumy wartości rzeczowych aktywów trwałych określonych w sprawozdaniu finansowym odpowiednio na pierwszy i ostatni dzień roku podatkowego, w szczególności z uwzględnieniem dokonanych odpisów amortyzacyjnych lub zmniejszenia lub utraty ich wartości, przy czym jeżeli dany standard rachunkowości uwzględnia w rzeczowych aktywach trwałych środki pieniężne lub ekwiwalenty tych środków, wartości niematerialne i prawne, lub aktywa finansowe, w celu ustalenia tej wartości księgowej nie uwzględnia się takich składników aktywów;
-- **47)** właścicielu rozumie się przez to osobę, która posiada, bezpośrednio lub pośrednio, udział własnościowy w jednostce składowej;
-- **48)** zagranicznej jednostce kontrolowanej rozumie się przez to jednostkę, o której mowa w art. 24a ust. 3 ustawy o podatku dochodowym od osób prawnych, albo podobną jednostkę określoną w przepisach o podatku dochodowym od osób prawnych obowiązujących w jurysdykcji innej niż Rzeczpospolita Polska;
-- **49)** zatwierdzonym standardzie rachunkowości rozumie się przez to właściwe przepisy w zakresie rachunkowości lub inne ogólnie przyjęte zasady rachunkowości, zatwierdzone przez organ dysponujący upoważnieniem prawnym do wydawania, ustanawiania lub przyjmowania standardów rachunkowości dla celów sprawozdawczości finansowej, obowiązujących w jurysdykcji lokalizacji danej jednostki.
+- **42)** udziale konsolidującym – rozumie się przez to posiadany, bezpośrednio lub pośrednio, udział własnościowy w jednostce, którego właściciel jest obowiązany do konsolidacji pełnej lub proporcjonalnej aktywów, zobowiązań, przychodów, kosztów i przepływów pieniężnych jednostki zgodnie z akceptowalnym standardem rachunkowości lub zatwierdzonym standardem rachunkowości lub byłby obowiązany do takiej konsolidacji, gdyby sporządzał skonsolidowane sprawozdanie finansowe, przy czym uznaje się, że centrala posiada udziały konsolidujące w swoich stałych zakładach;
+- **43)** udziałach własnościowych – rozumie się przez to wszelkie udziały w kapitale dające prawa do zysków, kapitału lub rezerw jednostki lub stałego zakładu, przy czym udziały własnościowe w jednostce składowej przypisane do stałego zakładu uznaje się za udziały posiadane przez centralę;
+- **44)** ustawie o podatku dochodowym od osób prawnych – rozumie się przez to ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm. );
+- **45)** ustawie o rachunkowości – rozumie się przez to ustawę z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619 i 1685);
+- **46)** wartości księgowej netto rzeczowych aktywów trwałych – rozumie się przez to połowę sumy wartości rzeczowych aktywów trwałych określonych w sprawozdaniu finansowym odpowiednio na pierwszy i ostatni dzień roku podatkowego, w szczególności z uwzględnieniem dokonanych odpisów amortyzacyjnych lub zmniejszenia lub utraty ich wartości, przy czym jeżeli dany standard rachunkowości uwzględnia w rzeczowych aktywach trwałych środki pieniężne lub ekwiwalenty tych środków, wartości niematerialne i prawne, lub aktywa finansowe, w celu ustalenia tej wartości księgowej nie uwzględnia się takich składników aktywów;
+- **47)** właścicielu – rozumie się przez to osobę, która posiada, bezpośrednio lub pośrednio, udział własnościowy w jednostce składowej;
+- **48)** zagranicznej jednostce kontrolowanej – rozumie się przez to jednostkę, o której mowa w art. 24a ust. 3 ustawy o podatku dochodowym od osób prawnych, albo podobną jednostkę określoną w przepisach o podatku dochodowym od osób prawnych obowiązujących w jurysdykcji innej niż Rzeczpospolita Polska;
+- **49)** zatwierdzonym standardzie rachunkowości – rozumie się przez to właściwe przepisy w zakresie rachunkowości lub inne ogólnie przyjęte zasady rachunkowości, zatwierdzone przez organ dysponujący upoważnieniem prawnym do wydawania, ustanawiania lub przyjmowania standardów rachunkowości dla celów sprawozdawczości finansowej, obowiązujących w jurysdykcji lokalizacji danej jednostki.
 
 2. Wielkość posiadanych pośrednio udziałów własnościowych lub praw o podobnym charakterze w danej jednostce oblicza się jako iloczyn wielkości takich udziałów lub praw bezpośrednio łączących jednostki uwzględniane przy ustalaniu pośredniego posiadania takich udziałów lub praw. Jeżeli jednostkę uwzględnianą przy ustalaniu pośredniego posiadania udziałów własnościowych lub praw o podobnym charakterze w danej jednostce bezpośrednio łączą takie udziały lub prawa z więcej niż jedną jednostką, sumuje się iloczyny wielkości tych udziałów lub praw posiadanych pośrednio w tej jednostce ustalone odrębnie dla każdego takiego bezpośrednio posiadanego udziału lub prawa.
 
@@ -310,8 +310,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 6. Ilekroć w ustawie są użyte wyrażenia:
 
-- **1)** niemal wyłącznie rozumie się przez to osiąganie określonych przychodów w wysokości nie mniejszej niż 90 % ogółu przychodów jednostki za rok podatkowy,
-- **2)** prawie cały dochód rozumie się przez to dochód w wysokości nie mniejszej niż 90 % całkowitego dochodu jednostki za rok podatkowy chyba że podatnik wykaże, że brak spełnienia przez jednostkę warunków, o których mowa w pkt 1 lub 2, wynika ze szczególnych zdarzeń gospodarczych, w tym z osiągnięcia przez jednostkę za dany rok podatkowy przychodów lub dochodów o szczególnym charakterze.
+- **1)** niemal wyłącznie – rozumie się przez to osiąganie określonych przychodów w wysokości nie mniejszej niż 90 % ogółu przychodów jednostki za rok podatkowy,
+- **2)** prawie cały dochód – rozumie się przez to dochód w wysokości nie mniejszej niż 90 % całkowitego dochodu jednostki za rok podatkowy – chyba że podatnik wykaże, że brak spełnienia przez jednostkę warunków, o których mowa w pkt 1 lub 2, wynika ze szczególnych zdarzeń gospodarczych, w tym z osiągnięcia przez jednostkę za dany rok podatkowy przychodów lub dochodów o szczególnym charakterze.
 
 7. Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz jurysdykcji innych niż Rzeczpospolita Polska, które wdrożyły kwalifikowaną zasadę włączenia dochodu do opodatkowania, kwalifikowaną zasadę niedostatecznie opodatkowanych zysków lub kwalifikowany krajowy podatek wyrównawczy lub spełniają wymagania bezpiecznych przystani dla kwalifikowanego krajowego podatku wyrównawczego, uwzględniając właściwe w tym zakresie wytyczne lub dokumenty przyjęte przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD.
 
@@ -323,8 +323,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 3. Jednostka pośrednicząca jest:
 
-- **1)** jednostką transparentną podatkowo w zakresie, w jakim jest przejrzysta podatkowo w odniesieniu do danego właściciela zgodnie z przepisami jurysdykcji lokalizacji tego właściciela;
-- **2)** odwróconą jednostką hybrydową w zakresie, w jakim nie jest przejrzysta podatkowo w odniesieniu do danego właściciela zgodnie z przepisami jurysdykcji lokalizacji tego właściciela.
+- **1)** jednostką transparentną podatkowo – w zakresie, w jakim jest przejrzysta podatkowo w odniesieniu do danego właściciela zgodnie z przepisami jurysdykcji lokalizacji tego właściciela;
+- **2)** odwróconą jednostką hybrydową – w zakresie, w jakim nie jest przejrzysta podatkowo w odniesieniu do danego właściciela zgodnie z przepisami jurysdykcji lokalizacji tego właściciela.
 
 4. Jednostką transparentną podatkowo jest również jednostka składowa, która nie jest rezydentem podatkowym w jakiejkolwiek jurysdykcji i nie podlega opodatkowaniu podatkiem kwalifikowanym, kwalifikowanym krajowym podatkiem wyrównawczym lub krajowym podatkiem wyrównawczym w jurysdykcji, w której została utworzona, posiada zarząd lub są spełnione kryteria o podobnym charakterze, jeżeli są spełnione łącznie następujące warunki:
 
@@ -348,7 +348,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 3. Minimalny przychód grupowy ustala się:
 
 - **1)** z uwzględnieniem przychodów jednostek wyłączonych;
-- **2)** z uwzględnieniem korekt dokonanych w celu uniknięcia istotnej różnicy rachunkowej w przypadku gdy skonsolidowane sprawozdanie grupy zostało sporządzone na podstawie zatwierdzonego standardu rachunkowości innego niż akceptowalny standard rachunkowości;
+- **2)** z uwzględnieniem korekt dokonanych w celu uniknięcia istotnej różnicy rachunkowej – w przypadku gdy skonsolidowane sprawozdanie grupy zostało sporządzone na podstawie zatwierdzonego standardu rachunkowości innego niż akceptowalny standard rachunkowości;
 - **3)** na podstawie rocznego skonsolidowanego przychodu wynikającego z hipotetycznego sprawozdania finansowego.
 
 4. W przypadku gdy grupa międzynarodowa lub grupa krajowa istnieje krócej niż 4 lata podatkowe, warunek, o którym mowa w ust. 1, uznaje się za spełniony, jeżeli grupa międzynarodowa lub grupa krajowa osiągnęły minimalny przychód grupowy w co najmniej 2 latach podatkowych dotychczasowego okresu funkcjonowania takiej grupy.
@@ -359,9 +359,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 - **1)** wykazanego w skonsolidowanym sprawozdaniu finansowym takiej połączonej grupy;
 - **2)** odpowiadającego sumie rocznych przychodów, ustalanych za rok podatkowy lub lata podatkowe poprzedzające rok, w którym nastąpiło połączenie, wykazanych:
-    - **a)** w skonsolidowanym sprawozdaniu finansowym każdej grupy uczestniczącej w połączeniu w przypadku, o którym mowa w ust. 8 pkt 1,
-    - **b)** w sprawozdaniu finansowym każdej jednostki uczestniczącej w połączeniu w przypadku, o którym mowa w ust. 8 pkt 2,
-    - **c)** odpowiednio w sprawozdaniu finansowym oraz skonsolidowanym sprawozdaniu finansowym każdej jednostki oraz grupy uczestniczących w połączeniu w przypadku, o którym mowa w ust. 8 pkt 3.
+    - **a)** w skonsolidowanym sprawozdaniu finansowym każdej grupy uczestniczącej w połączeniu – w przypadku, o którym mowa w ust. 8 pkt 1,
+    - **b)** w sprawozdaniu finansowym każdej jednostki uczestniczącej w połączeniu – w przypadku, o którym mowa w ust. 8 pkt 2,
+    - **c)** odpowiednio w sprawozdaniu finansowym oraz skonsolidowanym sprawozdaniu finansowym każdej jednostki oraz grupy uczestniczących w połączeniu – w przypadku, o którym mowa w ust. 8 pkt 3.
 
 7. W przypadku gdy grupa objęta przepisami ustawy podlega podziałowi na co najmniej dwie podzielone grupy, przepisy ustawy stosuje się do każdej takiej podzielonej grupy, która osiągnęła minimalny przychód grupowy:
 
@@ -390,12 +390,12 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **4)** fundusze emerytalne;
 - **5)** fundusze inwestycyjne będące jednostkami dominującymi najwyższego szczebla;
 - **6)** jednostki inwestujące w nieruchomości, jeżeli są jednostkami dominującymi najwyższego szczebla;
-- **7)** jednostki, w których co najmniej 95 % nominalnej wartości ich udziałów lub praw o podobnym charakterze, a w przypadku udziałów lub praw nieposiadających nominalnej wartości emisyjnej wartości takich udziałów lub praw, należy do jednostek, o których mowa w pkt 1–6, z wyjątkiem jednostek świadczących usługi emerytalne, bezpośrednio lub za pośrednictwem jednej lub kilku jednostek wyłączonych, jeżeli:
+- **7)** jednostki, w których co najmniej 95 % nominalnej wartości ich udziałów lub praw o podobnym charakterze, a w przypadku udziałów lub praw nieposiadających nominalnej wartości – emisyjnej wartości takich udziałów lub praw, należy do jednostek, o których mowa w pkt 1–6, z wyjątkiem jednostek świadczących usługi emerytalne, bezpośrednio lub za pośrednictwem jednej lub kilku jednostek wyłączonych, jeżeli:
     - **a)** prowadzą działalność polegającą wyłącznie lub niemal wyłącznie na utrzymywaniu aktywów, w tym na zarządzaniu takimi aktywami, lub inwestowaniu w tym środków pochodzących z pożyczek lub kredytów, na rzecz jednostek, o których mowa w pkt 1–6, lub
     - **b)** prowadzą wyłącznie działalność pomocniczą w stosunku do działalności prowadzonej przez jednostki, o których mowa w pkt 1–6, lub
     - **c)** prowadzą wyłącznie lub niemal wyłącznie działalność wymienioną w lit. a lub b;
 
-- **8)** jednostki, w których co najmniej 85 % nominalnej wartości ich udziałów lub praw o podobnym charakterze, a w przypadku udziałów lub praw nieposiadających nominalnej wartości emisyjnej wartości takich udziałów lub praw, należy do jednostek, o których mowa w pkt 1–6, z wyjątkiem jednostek świadczących usługi emerytalne, bezpośrednio lub za pośrednictwem jednej lub kilku jednostek wyłączonych, jeżeli ich prawie cały dochód pochodzi z dywidend wyłączonych, o których mowa w art. 43, lub z wyłączonych zysków (strat) kapitałowych, o których mowa w art. 44.
+- **8)** jednostki, w których co najmniej 85 % nominalnej wartości ich udziałów lub praw o podobnym charakterze, a w przypadku udziałów lub praw nieposiadających nominalnej wartości – emisyjnej wartości takich udziałów lub praw, należy do jednostek, o których mowa w pkt 1–6, z wyjątkiem jednostek świadczących usługi emerytalne, bezpośrednio lub za pośrednictwem jednej lub kilku jednostek wyłączonych, jeżeli ich prawie cały dochód pochodzi z dywidend wyłączonych, o których mowa w art. 43, lub z wyłączonych zysków (strat) kapitałowych, o których mowa w art. 44.
 
 3. Przez jednostki rządowe rozumie się jednostki, które spełniają łącznie następujące warunki:
 
@@ -417,7 +417,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 - **1)** prowadzą działalność na terytorium jurysdykcji ich utworzenia i zarządu oraz:
     - **a)** zostały utworzone wyłącznie do celów religijnych, charytatywnych, naukowych, artystycznych, kulturalnych, sportowych, edukacyjnych, zdrowia publicznego, ochrony praw człowieka, ochrony zwierząt, ochrony środowiska lub innych podobnych celów lub
-    - **b)** działają jako: organizacje zrzeszające zawody, w tym samorządy zawodowe, organizacje przedsiębiorców, w tym ligi przedsiębiorców, izby gospodarcze lub handlowe, organizacje pracy, w tym związki zawodowe, organizacje rolników lub ogrodników, w tym izby rolnicze, organizacje obywatelskie, organizacje prowadzone wyłącznie w celu promowania dobrobytu społecznego;
+    - **b)** działają jako: – organizacje zrzeszające zawody, w tym samorządy zawodowe, – organizacje przedsiębiorców, w tym ligi przedsiębiorców, izby gospodarcze lub handlowe, – organizacje pracy, w tym związki zawodowe, – organizacje rolników lub ogrodników, w tym izby rolnicze, – organizacje obywatelskie, – organizacje prowadzone wyłącznie w celu promowania dobrobytu społecznego;
 
 - **2)** prawie cały dochód z ich działalności jest zwolniony z podatku dochodowego;
 - **3)** nie posiadają udziałowców, członków lub innych uczestników o podobnym charakterze, którzy są właścicielami lub beneficjentami ich dochodu lub majątku;
@@ -468,12 +468,12 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **1)** jednostka, której lokalizacji nie można ustalić na podstawie ust. 1,
 - **2)** jednostka pośrednicząca będąca:
     - **a)** jednostką dominującą najwyższego szczebla lub
-    - **b)** jednostką dominującą, która jest podatnikiem globalnego podatku wyrównawczego albo jednostką obowiązaną do stosowania kwalifikowanej zasady włączenia dochodu do opodatkowania są zlokalizowane w jurysdykcji, w której zostały utworzone.
+    - **b)** jednostką dominującą, która jest podatnikiem globalnego podatku wyrównawczego albo jednostką obowiązaną do stosowania kwalifikowanej zasady włączenia dochodu do opodatkowania – są zlokalizowane w jurysdykcji, w której zostały utworzone.
 
 3. Uznaje się, że:
 
 - **1)** jednostka pośrednicząca inna niż jednostka określona w ust. 2 pkt 2,
-- **2)** stały zakład, o którym mowa w art. 2 ust. 1 pkt 40 lit. d nie są zlokalizowane w jakiejkolwiek jurysdykcji.
+- **2)** stały zakład, o którym mowa w art. 2 ust. 1 pkt 40 lit. d – nie są zlokalizowane w jakiejkolwiek jurysdykcji.
 
 4. Stałe zakłady, o których mowa w art. 2 ust. 1 pkt 40 lit. a–c, są zlokalizowane w jurysdykcjach określonych zgodnie z tym przepisem.
 
@@ -481,15 +481,15 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 1. Jeżeli jednostka składowa inna niż stały zakład jest zlokalizowana na podstawie art. 7 w dwóch jurysdykcjach, między którymi:
 
-- **1)** obowiązuje umowa o unikaniu podwójnego opodatkowania uznaje się, że ta jednostka jest zlokalizowana w jurysdykcji, w której jest rezydentem podatkowym zgodnie z taką umową;
-- **2)** nie obowiązuje umowa o unikaniu podwójnego opodatkowania uznaje się, że ta jednostka jest zlokalizowana w tej jurysdykcji, w której:
+- **1)** obowiązuje umowa o unikaniu podwójnego opodatkowania – uznaje się, że ta jednostka jest zlokalizowana w jurysdykcji, w której jest rezydentem podatkowym zgodnie z taką umową;
+- **2)** nie obowiązuje umowa o unikaniu podwójnego opodatkowania – uznaje się, że ta jednostka jest zlokalizowana w tej jurysdykcji, w której:
     - **a)** kwota jej podatków kwalifikowanych należnych do zapłaty za dany rok podatkowy jest wyższa, przy czym przy obliczeniu kwoty podatków kwalifikowanych nie uwzględnia się kwoty podatków zapłaconych na podstawie przepisów o zagranicznych jednostkach kontrolowanych,
-    - **b)** przysługuje jej wyższa kwota obniżenia z tytułu substratu majątkowo-osobowego w przypadku gdy kwota podatków kwalifikowanych należnych do zapłaty w tych jurysdykcjach wynosi zero lub jest taka sama.
+    - **b)** przysługuje jej wyższa kwota obniżenia z tytułu substratu majątkowo-osobowego – w przypadku gdy kwota podatków kwalifikowanych należnych do zapłaty w tych jurysdykcjach wynosi zero lub jest taka sama.
 
 2. W przypadku gdy nie można ustalić lokalizacji jednostki składowej zgodnie z ust. 1 pkt 2 lit. b, uznaje się, że taka jednostka:
 
-- **1)** jest zlokalizowana w jurysdykcji, w której została utworzona w przypadku jednostek dominujących najwyższego szczebla;
-- **2)** nie jest zlokalizowana w jakiejkolwiek jurysdykcji w przypadku jednostek składowych niebędących jednostkami dominującymi najwyższego szczebla.
+- **1)** jest zlokalizowana w jurysdykcji, w której została utworzona – w przypadku jednostek dominujących najwyższego szczebla;
+- **2)** nie jest zlokalizowana w jakiejkolwiek jurysdykcji – w przypadku jednostek składowych niebędących jednostkami dominującymi najwyższego szczebla.
 
 3. Przepisy ust. 1 pkt 2 i ust. 2 stosuje się odpowiednio w przypadku, gdy:
 
@@ -532,7 +532,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 3. Jurysdykcją o niskim poziomie opodatkowania jest jurysdykcja, w której grupa osiągnęła za rok podatkowy jurysdykcyjny kwalifikowany dochód netto oraz efektywna stawka podatkowa obliczona dla tej grupy jest niższa od minimalnej stawki podatkowej.
 
-4. Efektywną stawkę podatkową stanowi stawka procentowa obliczona według wzoru: ∙100 % .
+4. Efektywną stawkę podatkową stanowi stawka procentowa obliczona według wzoru: ∙100 %.
 
 5. Jurysdykcyjny kwalifikowany dochód (stratę) netto stanowi różnica między kwalifikowanym dochodem wszystkich jednostek składowych zlokalizowanych w danej jurysdykcji a kwalifikowaną stratą wszystkich jednostek składowych zlokalizowanych w danej jurysdykcji.
 
@@ -562,7 +562,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 13.**
 
-1. Jurysdykcyjny globalny podatek wyrównawczy oblicza się według wzoru: (indywidualna stawka podatkowa∙nadwyżka zysku)+ dodatkowy podatek wyrównawczy − kwalifikowany krajowy podatek wyrównawczy w części wymagalnej do zapłaty, gdzie:
+1. Jurysdykcyjny globalny podatek wyrównawczy oblicza się według wzoru: (indywidualna stawka podatkowa∙nadwyżka zysku)+ dodatkowy podatek wyrównawczy − kwalifikowany krajowy podatek wyrównawczy w części wymagalnej do zapłaty , gdzie:
 
 - **1)** indywidualną stawkę podatkową stanowi różnica między minimalną stawką podatkową a efektywną stawką podatkową;
 - **2)** nadwyżkę zysku stanowi różnica między jurysdykcyjnym kwalifikowanym dochodem netto a substratem majątkowo-osobowym.
@@ -630,7 +630,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 2. W przypadku gdy zgodnie z art. 98 w roku podatkowym w danej jurysdykcji powstanie dodatkowy podatek wyrównawczy:
 
-- **1)** przepisu art. 14 nie stosuje się, a jednostkowy globalny podatek wyrównawczy każdej zlokalizowanej w tej jurysdykcji jednostki składowej, która wykazuje kwotę ujemnych skorygowanych podatków kwalifikowanych mniejszych od iloczynu kwalifikowanego dochodu (straty) tych jednostek oraz minimalnej stawki podatkowej, oblicza się według wzoru: kwalifikowany dochód (strata)∙minimalna stawka podatkowa−skorygowane podatki kwalifikowane;
+- **1)** przepisu art. 14 nie stosuje się, a jednostkowy globalny podatek wyrównawczy każdej zlokalizowanej w tej jurysdykcji jednostki składowej, która wykazuje kwotę ujemnych skorygowanych podatków kwalifikowanych mniejszych od iloczynu kwalifikowanego dochodu (straty) tych jednostek oraz minimalnej stawki podatkowej, oblicza się według wzoru: kwalifikowany dochód (strata)∙minimalna stawka podatkowa− skorygowane podatki kwalifikowane;
 - **2)** udziałowy globalny podatek wyrównawczy oblicza się zgodnie z ust. 1 pkt 2.
 
 #### Rozdział 2 Jednostki o szczególnym charakterze
@@ -700,8 +700,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 2. Podatnik jest nisko opodatkowaną jednostką składową, jeżeli:
 
-- **1)** Rzeczpospolita Polska jest jurysdykcją o niskim poziomie opodatkowania dla grupy, w której podatnik jest jednostką składową w przypadku podatnika, o którym mowa w art. 24 pkt 1;
-- **2)** podatnik osiągnął kwalifikowany dochód za rok podatkowy i efektywna stawka podatkowa obliczona dla tego podatnika jest niższa od minimalnej stawki podatkowej w przypadku podatnika, o którym mowa w art. 24 pkt 2;
+- **1)** Rzeczpospolita Polska jest jurysdykcją o niskim poziomie opodatkowania dla grupy, w której podatnik jest jednostką składową – w przypadku podatnika, o którym mowa w art. 24 pkt 1;
+- **2)** podatnik osiągnął kwalifikowany dochód za rok podatkowy i efektywna stawka podatkowa obliczona dla tego podatnika jest niższa od minimalnej stawki podatkowej – w przypadku podatnika, o którym mowa w art. 24 pkt 2;
 - **3)** podatnikowi przydzielono w danym roku podatkowym dodatkowy podatek wyrównawczy.
 
 3. Rzeczpospolita Polska jest jurysdykcją o niskim poziomie opodatkowania, jeżeli w odniesieniu do Rzeczypospolitej Polskiej grupa osiągnęła za rok podatkowy jurysdykcyjny kwalifikowany dochód netto oraz efektywna stawka podatkowa jest niższa od minimalnej stawki podatkowej.
@@ -812,7 +812,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 2. Istotna różnica rachunkowa to przekraczająca 75 000 000 euro łącznie dla jednostek składowych grupy, o których mowa w ust. 1, różnica między:
 
 - **1)** kwotą przychodów, kosztów lub innych pozycji ustaloną w odniesieniu do określonego rodzaju transakcji zgodnie z właściwą zasadą lub procedurą określoną w standardzie rachunkowości zastosowanym w skonsolidowanym sprawozdaniu grupy a
-- **2)** kwotą przychodów, kosztów lub innych pozycji ustaloną w odniesieniu do tego rodzaju transakcji zgodnie z właściwą zasadą lub procedurą określoną w MSR/MSSF przy czym tę różnicę ustala się w wartości bezwzględnej, z uwzględnieniem wyłącznie przychodów, kosztów i innych pozycji stanowiących podstawę obliczenia kwalifikowanego dochodu (straty), skorygowanych podatków kwalifikowanych lub substratu majątkowo-osobowego.
+- **2)** kwotą przychodów, kosztów lub innych pozycji ustaloną w odniesieniu do tego rodzaju transakcji zgodnie z właściwą zasadą lub procedurą określoną w MSR/MSSF – przy czym tę różnicę ustala się w wartości bezwzględnej, z uwzględnieniem wyłącznie przychodów, kosztów i innych pozycji stanowiących podstawę obliczenia kwalifikowanego dochodu (straty), skorygowanych podatków kwalifikowanych lub substratu majątkowo-osobowego.
 
 3. W przypadku gdy zastosowanie zasady lub procedury określonej w zatwierdzonym standardzie rachunkowości, innym niż akceptowalny standard rachunkowości, powoduje istotne różnice rachunkowe, kwoty przychodów, kosztów i innych pozycji ustalone w odniesieniu do transakcji z zastosowaniem tej zasady lub procedury ustala się w odniesieniu do tej transakcji zgodnie z zasadą lub procedurą określoną w MSR/MSSF.
 
@@ -827,7 +827,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 2. Trwałe różnice rachunkowe, o których mowa w ust. 1 pkt 3, to przekraczające 1 000 000 euro trwałe różnice między:
 
 - **1)** kwotą przychodów, kosztów lub innych pozycji ustaloną w odniesieniu do określonego rodzaju transakcji zgodnie z właściwą zasadą lub procedurą określoną w standardzie rachunkowości, innym niż akceptowalny standard rachunkowości lub zatwierdzony standard rachunkowości zastosowany w skonsolidowanym sprawozdaniu grupy, a
-- **2)** kwotą przychodów, kosztów lub innych pozycji ustaloną w odniesieniu do tego rodzaju transakcji zgodnie z właściwą zasadą lub procedurą określoną w akceptowalnym standardzie rachunkowości lub zatwierdzonym standardzie rachunkowości zastosowanym w skonsolidowanym sprawozdaniu grupy przy czym różnicę tę ustala się w wartości bezwzględnej, z uwzględnieniem wyłącznie przychodów, kosztów i innych pozycji stanowiących podstawę obliczenia kwalifikowanego dochodu (straty), skorygowanych podatków kwalifikowanych lub substratu majątkowo-osobowego.
+- **2)** kwotą przychodów, kosztów lub innych pozycji ustaloną w odniesieniu do tego rodzaju transakcji zgodnie z właściwą zasadą lub procedurą określoną w akceptowalnym standardzie rachunkowości lub zatwierdzonym standardzie rachunkowości zastosowanym w skonsolidowanym sprawozdaniu grupy – przy czym różnicę tę ustala się w wartości bezwzględnej, z uwzględnieniem wyłącznie przychodów, kosztów i innych pozycji stanowiących podstawę obliczenia kwalifikowanego dochodu (straty), skorygowanych podatków kwalifikowanych lub substratu majątkowo-osobowego.
 
 **Art. 40.** Jednostka składowa jest obowiązana obliczyć księgowy dochód (stratę) netto na podstawie akceptowalnego standardu rachunkowości lub zatwierdzonego standardu rachunkowości zastosowanego w skonsolidowanym sprawozdaniu grupy z uwzględnieniem korekt, o których mowa w art. 38 i art. 39, jeżeli:
 
@@ -882,9 +882,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 - **1)** udziałów własnościowych:
     - **a)** w jednostce składowej posiadanych przez inne jednostki składowe grupy, które dają prawa do mniej niż 10 % zysków, kapitału, rezerw lub praw głosu w tej jednostce w dniu płatności lub naliczenia zysków lub zbycia tych udziałów (inwestycja portfelowa) oraz
-    - **b)** które stanowią dla jednostki składowej otrzymującej lub naliczającej w księgach tę dywidendę lub inną płatność, ekonomiczną własność nieprzerwanie przez okres krótszy niż 12 miesięcy liczony na dzień otrzymania lub naliczenia tej dywidendy lub innej płatności, przy czym uznaje się, że: udziały własnościowe stanowią ekonomiczną własność jednostki składowej w danym okresie, jeżeli jednostka ta posiada wszystkie albo prawie wszystkie prawa i obowiązki albo jest uprawniona do wszystkich albo prawie wszystkich praw i obowiązków, które wynikają z posiadania tych udziałów, w tym prawa do zysków, kapitału, rezerw lub prawa głosu, i jednostka ta w tym okresie nie zrzekła się tych praw ani ich nie przeniosła na inną osobę, nie przerywa okresu, w którym udziały własnościowe stanowią ekonomiczną własność jednostki składowej, przeniesienie tych udziałów na inną jednostkę składową grupy w drodze reorganizacji, zgodnie z przepisami działu VIII rozdziału 2;
+    - **b)** które stanowią dla jednostki składowej otrzymującej lub naliczającej w księgach tę dywidendę lub inną płatność, ekonomiczną własność nieprzerwanie przez okres krótszy niż 12 miesięcy liczony na dzień otrzymania lub naliczenia tej dywidendy lub innej płatności, przy czym uznaje się, że: – udziały własnościowe stanowią ekonomiczną własność jednostki składowej w danym okresie, jeżeli jednostka ta posiada wszystkie albo prawie wszystkie prawa i obowiązki albo jest uprawniona do wszystkich albo prawie wszystkich praw i obowiązków, które wynikają z posiadania tych udziałów, w tym prawa do zysków, kapitału, rezerw lub prawa głosu, i jednostka ta w tym okresie nie zrzekła się tych praw ani ich nie przeniosła na inną osobę, – nie przerywa okresu, w którym udziały własnościowe stanowią ekonomiczną własność jednostki składowej, przeniesienie tych udziałów na inną jednostkę składową grupy w drodze reorganizacji, zgodnie z przepisami działu VIII rozdziału 2;
 
-- **2)** udziałów własnościowych w jednostce inwestycyjnej, dla której został dokonany wybór w zakresie stosowania metody opodatkowania wypłaty zysków zgodnie z art. 119, lub która podlega równoważnym przepisom jurysdykcji jej lokalizacji odpowiadającym art. 43 dyrektywy 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej Modelowym zasadom OECD odpowiadającym tym przepisom.
+- **2)** udziałów własnościowych w jednostce inwestycyjnej, dla której został dokonany wybór w zakresie stosowania metody opodatkowania wypłaty zysków zgodnie z art. 119, lub która podlega równoważnym przepisom jurysdykcji jej lokalizacji odpowiadającym art. 43 dyrektywy 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej – Modelowym zasadom OECD odpowiadającym tym przepisom.
 
 **Art. 44.**
 
@@ -911,8 +911,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 2. Charakter czynności i działań, o których mowa w ust. 1 pkt 1, ocenia się na podstawie przepisów jurysdykcji lokalizacji:
 
-- **1)** jednostki składowej, która ujęła koszty lub rezerwy, o których mowa w ust. 1, w księgach w przypadku krajowego podatku wyrównawczego obliczanego zgodnie z art. 29 ust. 1 lub 2;
-- **2)** jednostki dominującej najwyższego szczebla w przypadku obliczania podatków, o których mowa w art. 1 ust. 1, zgodnie z akceptowalnym standardem rachunkowości lub zatwierdzonym standardem rachunkowości, stosowanym w celu sporządzenia skonsolidowanego sprawozdania grupy.
+- **1)** jednostki składowej, która ujęła koszty lub rezerwy, o których mowa w ust. 1, w księgach – w przypadku krajowego podatku wyrównawczego obliczanego zgodnie z art. 29 ust. 1 lub 2;
+- **2)** jednostki dominującej najwyższego szczebla – w przypadku obliczania podatków, o których mowa w art. 1 ust. 1, zgodnie z akceptowalnym standardem rachunkowości lub zatwierdzonym standardem rachunkowości, stosowanym w celu sporządzenia skonsolidowanego sprawozdania grupy.
 
 3. Kwotę, o której mowa w ust. 1 pkt 2, odnosi się do:
 
@@ -1105,10 +1105,10 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 2. Przychody (dochody) z tytułu zwolnienia z długu, o których mowa w ust. 1, ustala się w wysokości wartości zobowiązań wobec:
 
-- **1)** osób powiązanych i osób niepowiązanych z jednostką składową, będących stronami postępowania, układu lub porozumienia, w części faktycznie umorzonej w przypadku, o którym mowa w ust. 1 pkt 1;
+- **1)** osób powiązanych i osób niepowiązanych z jednostką składową, będących stronami postępowania, układu lub porozumienia, w części faktycznie umorzonej – w przypadku, o którym mowa w ust. 1 pkt 1;
 - **2)** osób, które nie są osobami powiązanymi z jednostką składową, w części faktycznie umorzonej, nie wyższej niż niższa z kwot:
     - **a)** nadwyżki zobowiązań jednostki składowej nad wartością rynkową jej aktywów określoną na dzień poprzedzający to umorzenie,
-    - **b)** zmniejszenia aktywów, zobowiązań, przychodów, kosztów, w tym podatków kwalifikowanych i ulg podatkowych, jakie wynikają z umorzenia zobowiązań oraz przysługują jednostce składowej na podstawie prawa podatkowego jurysdykcji jej lokalizacji w przypadku, o którym mowa w ust. 1 pkt 2.
+    - **b)** zmniejszenia aktywów, zobowiązań, przychodów, kosztów, w tym podatków kwalifikowanych i ulg podatkowych, jakie wynikają z umorzenia zobowiązań oraz przysługują jednostce składowej na podstawie prawa podatkowego jurysdykcji jej lokalizacji – w przypadku, o którym mowa w ust. 1 pkt 2.
 
 3. Przez prawdopodobieństwo niewypłacalności jednostki składowej, o którym mowa w ust. 1 pkt 1 lit. b, rozumie się utratę zdolności tej jednostki do wykonywania własnych zobowiązań pieniężnych w terminie, w jakim te zobowiązania stają się wymagalne, która została stwierdzona przez niezależną, niepowiązaną i wykwalifikowaną osobę, na podstawie wartości majątku jednostki składowej nieuwzględniającego zobowiązań (długów) wobec jednostek składowych tej samej grupy oraz innych osób powiązanych z tą jednostką.
 
@@ -1120,24 +1120,24 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 3. Przez zysk (stratę), o którym mowa w ust. 1, rozumie się:
 
-- **1)** zysk (stratę) z tytułu zmiany wartości godziwej oraz utraty wartości takich udziałów własnościowych w przypadku gdy:
+- **1)** zysk (stratę) z tytułu zmiany wartości godziwej oraz utraty wartości takich udziałów własnościowych – w przypadku gdy:
     - **a)** zmiany tej wartości godziwej oraz utrata wartości są uwzględniane przez jednostkę składową przy obliczaniu podatku dochodowego, będącego podatkiem kwalifikowanym, w części bieżącej, albo
     - **b)** jednostka składowa podlega opodatkowaniu dopiero na moment zbycia posiadanych udziałów własnościowych, a rezerwa lub aktywo z tytułu podatku dochodowego określane w oparciu o zmianę bieżącej wartości godziwej tych udziałów lub utratę wartości są wykazywane jako podatek dochodowy w części odroczonej;
 
-- **2)** zysk (stratę) przypisany do tych udziałów własnościowych w przypadku gdy jednostka składowa rozlicza udziały własnościowe posiadane, bezpośrednio lub pośrednio, w jednostkach transparentnych podatkowo metodą praw własności;
-- **3)** zysk (stratę) ze zbycia tych udziałów własnościowych w przypadku gdy zbywająca jednostka składowa uwzględniła ten zysk (stratę) przy opodatkowaniu podatkiem kwalifikowanym, z wyłączeniem tych zysków (strat), które podlegały zwolnieniu lub wyłączeniu z opodatkowania podatkiem kwalifikowanym, w tym przez dowolne odliczenie lub podobną ulgę.
+- **2)** zysk (stratę) przypisany do tych udziałów własnościowych – w przypadku gdy jednostka składowa rozlicza udziały własnościowe posiadane, bezpośrednio lub pośrednio, w jednostkach transparentnych podatkowo metodą praw własności;
+- **3)** zysk (stratę) ze zbycia tych udziałów własnościowych – w przypadku gdy zbywająca jednostka składowa uwzględniła ten zysk (stratę) przy opodatkowaniu podatkiem kwalifikowanym, z wyłączeniem tych zysków (strat), które podlegały zwolnieniu lub wyłączeniu z opodatkowania podatkiem kwalifikowanym, w tym przez dowolne odliczenie lub podobną ulgę.
 
 4. Jeżeli jednostka składowa objęta wyborem, o którym mowa w ust. 1, posiada udziały własnościowe w jednostce transparentnej podatkowo, w związku z którymi powstaje prawo do ulgi podatkowej, ulgę tę uwzględnia się przy obliczaniu kwalifikowanego dochodu (straty) zgodnie z art. 64–66 lub skorygowanych podatków kwalifikowanych tej jednostki składowej zgodnie z art. 80 ust. 1 pkt 3.
 
 5. Jeżeli jednostka składowa posiada kwalifikowane udziały własnościowe, o których mowa w ust. 1, oraz bezpośrednio z nimi związane kwalifikowane pośrednie aktywa podatkowe zgodnie z wyborem, o którym mowa w ust. 1, to ta jednostka dokonuje pomniejszeń lub zwiększeń skorygowanych podatków kwalifikowanych zgodnie z art. 83 ust. 1, przy czym przez kwalifikowane pośrednie aktywa podatkowe rozumie się wynikające z działalności jednostki transparentnej podatkowo, w której dokonano inwestycji w kwalifikowane udziały własnościowe:
 
 - **1)** ulgi podatkowe inne niż kwalifikowane zwrotne ulgi,
-- **2)** podlegające odliczeniu dla celów podatku kwalifikowanego straty podatkowe tej jednostki transparentnej podatkowo, w której dokonano inwestycji, w wysokości odpowiadającej iloczynowi takiej straty oraz stawki podatku dochodowego, jaka ma zastosowanie do jednostki składowej dokonującej tej inwestycji w zakresie, w jakim te ulgi i straty obniżają kwotę tej inwestycji i są rozliczane w księgach przez jednostkę składową dokonującą inwestycji lub jednostkę składową posiadającą udziały własnościowe w jednostce transparentnej podatkowo, w której dokonano inwestycji, przez inne jednostki transparentne podatkowo niebędące jednostkami składowymi grupy, do której należy ta jednostka transparentna podatkowo.
+- **2)** podlegające odliczeniu dla celów podatku kwalifikowanego straty podatkowe tej jednostki transparentnej podatkowo, w której dokonano inwestycji, w wysokości odpowiadającej iloczynowi takiej straty oraz stawki podatku dochodowego, jaka ma zastosowanie do jednostki składowej dokonującej tej inwestycji – w zakresie, w jakim te ulgi i straty obniżają kwotę tej inwestycji i są rozliczane w księgach przez jednostkę składową dokonującą inwestycji lub jednostkę składową posiadającą udziały własnościowe w jednostce transparentnej podatkowo, w której dokonano inwestycji, przez inne jednostki transparentne podatkowo niebędące jednostkami składowymi grupy, do której należy ta jednostka transparentna podatkowo.
 
 6. Przez kwotę inwestycji, o której mowa w ust. 5, rozumie się ujętą w księgach jednostki składowej dokonującej tej inwestycji wartość:
 
 - **1)** udziałów własnościowych, o których mowa w ust. 3;
-- **2)** pożyczki, jeżeli ta jednostka wykazuje w księgach taką inwestycję w kwalifikowane udziały własnościowe jako pożyczkę, a zwrot z tej inwestycji jako spłatę pożyczki w części kapitałowej i odsetkowej oraz zgodnie z akceptowalnym lub zatwierdzonym standardem rachunkowości w jurysdykcji, w której jest zlokalizowana jednostka transparentna podatkowo, w której dokonano inwestycji, ta pożyczka jest traktowana jako udział własnościowy w przypadku gdy jednostka dokonująca tej inwestycji posiada rzeczywisty cel ekonomiczny w tej inwestycji oraz nie jest chroniona od strat z tej inwestycji.
+- **2)** pożyczki, jeżeli ta jednostka wykazuje w księgach taką inwestycję w kwalifikowane udziały własnościowe jako pożyczkę, a zwrot z tej inwestycji jako spłatę pożyczki w części kapitałowej i odsetkowej oraz zgodnie z akceptowalnym lub zatwierdzonym standardem rachunkowości w jurysdykcji, w której jest zlokalizowana jednostka transparentna podatkowo, w której dokonano inwestycji, ta pożyczka jest traktowana jako udział własnościowy – w przypadku gdy jednostka dokonująca tej inwestycji posiada rzeczywisty cel ekonomiczny w tej inwestycji oraz nie jest chroniona od strat z tej inwestycji.
 
 7. Przez kwalifikowane udziały własnościowe rozumie się inwestycję w jednostce transparentnej podatkowo, która jest wykazywana w księgach jednostki składowej dokonującej inwestycji jako udziały własnościowe, pod warunkiem że:
 
@@ -1148,8 +1148,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 1. Korekta w zakresie kwalifikowanej zwrotnej ulgi oraz niekwalifikowanej zwrotnej ulgi, o której mowa w art. 41 ust. 1 pkt 3 lit. a, polega na:
 
-- **1)** nieuwzględnieniu niekwalifikowanej zwrotnej ulgi przez pomniejszenie księgowego dochodu (straty) netto o kwotę całkowitego zwrotu lub odliczenia z tytułu takiej ulgi w przypadku gdy jednostka składowa uwzględniła tę ulgę w księgowym dochodzie (stracie) netto jako przychód lub podobny zapis;
-- **2)** uwzględnieniu kwalifikowanej zwrotnej ulgi przez zwiększenie księgowego dochodu (straty) netto o kwotę całkowitego zwrotu lub odliczenia z tytułu takiej ulgi w przypadku gdy jednostka składowa nie uwzględniła tej ulgi w księgowym dochodzie (stracie) netto jako przychodu lub podobnego zapisu.
+- **1)** nieuwzględnieniu niekwalifikowanej zwrotnej ulgi przez pomniejszenie księgowego dochodu (straty) netto o kwotę całkowitego zwrotu lub odliczenia z tytułu takiej ulgi – w przypadku gdy jednostka składowa uwzględniła tę ulgę w księgowym dochodzie (stracie) netto jako przychód lub podobny zapis;
+- **2)** uwzględnieniu kwalifikowanej zwrotnej ulgi przez zwiększenie księgowego dochodu (straty) netto o kwotę całkowitego zwrotu lub odliczenia z tytułu takiej ulgi – w przypadku gdy jednostka składowa nie uwzględniła tej ulgi w księgowym dochodzie (stracie) netto jako przychodu lub podobnego zapisu.
 
 2. Przez niekwalifikowaną zwrotną ulgę rozumie się ulgę podatkową polegającą na zwrocie lub odliczeniu, w całości albo części, podatku dochodowego, w tym w kwocie przewyższającej taki podatek, niespełniającą warunków kwalifikowanej zwrotnej ulgi.
 
@@ -1172,8 +1172,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 2. Jeżeli prawo do kwalifikowanej zbywalnej ulgi zostało objęte przez jednostkę składową po raz pierwszy na podstawie przepisów obowiązujących w jurysdykcji jej lokalizacji (prawo pierwotne do ulgi), uwzględnienie tej ulgi polega na:
 
 - **1)** zwiększeniu księgowego dochodu (straty) netto o kwotę:
-    - **a)** całkowitego zwrotu oraz odliczenia z tytułu takiej ulgi za rok podatkowy, w którym jednostka ta objęła prawo pierwotne do ulgi w przypadku gdy kwota tego zwrotu oraz odliczenia nie została uwzględniona w księgowym dochodzie (stracie) netto jako przychód lub podobny zapis,
-    - **b)** zwrotu lub odliczenia z tytułu takiej ulgi za rok podatkowy, w którym nastąpiło przedawnienie prawa pierwotnego do ulgi, jeżeli to prawo: nie zostało wykorzystane oraz ta jednostka poniosła kwalifikowaną stratę za rok podatkowy, w którym ta jednostka objęła prawo pierwotne do tej ulgi i uwzględniła tę ulgę w księgowym dochodzie (stracie) netto jako przychód lub podobny zapis;
+    - **a)** całkowitego zwrotu oraz odliczenia z tytułu takiej ulgi za rok podatkowy, w którym jednostka ta objęła prawo pierwotne do ulgi – w przypadku gdy kwota tego zwrotu oraz odliczenia nie została uwzględniona w księgowym dochodzie (stracie) netto jako przychód lub podobny zapis,
+    - **b)** zwrotu lub odliczenia z tytułu takiej ulgi za rok podatkowy, w którym nastąpiło przedawnienie prawa pierwotnego do ulgi, jeżeli to prawo: – nie zostało wykorzystane oraz – ta jednostka poniosła kwalifikowaną stratę za rok podatkowy, w którym ta jednostka objęła prawo pierwotne do tej ulgi i uwzględniła tę ulgę w księgowym dochodzie (stracie) netto jako przychód lub podobny zapis;
 
 - **2)** zmniejszeniu księgowego dochodu (straty) netto o kwotę zwrotu lub odliczenia z tytułu takiej ulgi za rok podatkowy, w którym nastąpiło przedawnienie prawa pierwotnego do tej ulgi, jeżeli to prawo:
     - **a)** nie zostało wykorzystane oraz
@@ -1193,8 +1193,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 6. Jeżeli prawo do kwalifikowanej zbywalnej ulgi zostało nabyte przez jednostkę składową od innej osoby (prawo wtórne do ulgi), jednostka ta uwzględnia w roku podatkowym:
 
-- **1)** zysk z tytułu wykorzystania prawa do ulgi liczony jako różnica między całkowitą kwotą zwrotu oraz odliczenia z tytułu takiej ulgi a ceną nabycia prawa wtórnego do tej ulgi, w proporcji, w jakiej pozostaje wartość dokonanego w tym roku podatkowym odliczenia lub zwrotu z tytułu tej ulgi do całkowitej wartości takiego odliczenia i zwrotu możliwego do wykorzystania w przypadku gdy prawo do ulgi zostało w tym roku wykorzystane przez tę jednostkę w całości albo części;
-- **2)** stratę z tytułu przedawnienia prawa do ulgi liczoną jako nadwyżka sumy ceny nabycia prawa wtórnego do tej ulgi oraz zysku z tytułu wykorzystania prawa do ulgi, liczonego zgodnie z pkt 1, nad sumą dokonanych odliczeń i zwrotów z tytułu ulgi w przypadku gdy w roku podatkowym prawo do ulgi w całości albo części wygasło w drodze przedawnienia;
+- **1)** zysk z tytułu wykorzystania prawa do ulgi liczony jako różnica między całkowitą kwotą zwrotu oraz odliczenia z tytułu takiej ulgi a ceną nabycia prawa wtórnego do tej ulgi, w proporcji, w jakiej pozostaje wartość dokonanego w tym roku podatkowym odliczenia lub zwrotu z tytułu tej ulgi do całkowitej wartości takiego odliczenia i zwrotu możliwego do wykorzystania – w przypadku gdy prawo do ulgi zostało w tym roku wykorzystane przez tę jednostkę w całości albo części;
+- **2)** stratę z tytułu przedawnienia prawa do ulgi liczoną jako nadwyżka sumy ceny nabycia prawa wtórnego do tej ulgi oraz zysku z tytułu wykorzystania prawa do ulgi, liczonego zgodnie z pkt 1, nad sumą dokonanych odliczeń i zwrotów z tytułu ulgi – w przypadku gdy w roku podatkowym prawo do ulgi w całości albo części wygasło w drodze przedawnienia;
 - **3)** zysk (stratę) ze sprzedaży prawa wtórnego do ulgi liczony jako różnica między ceną sprzedaży a sumą ceny nabycia prawa wtórnego do tej ulgi i zysku z tytułu wykorzystania prawa do ulgi, liczonego zgodnie z pkt 1, uwzględnionego w księgowym dochodzie (stracie) netto od tej części prawa do ulgi, która została wykorzystana przed tym zbyciem.
 
 7. Jeżeli zwrot lub odliczenie podatku przysługuje w odniesieniu tylko do części prawa do kwalifikowanej zbywalnej ulgi lub zbyciu podlega tylko prawo do części zwrotu lub odliczenia z tytułu kwalifikowanej zbywalnej ulgi, przepis ust. 6 stosuje się odpowiednio tylko do tej części.
@@ -1230,8 +1230,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 12. W przypadku gdy w roku podatkowym prawo pierwotne do ulgi dotyczące kwalifikowanej zbywalnej ulgi rozliczanej zgodnie z ust. 11:
 
-- **1)** wygaśnie w drodze przedawnienia wartość bilansową składnika aktywów objętego tą ulgą podwyższa się o kwotę nieuzyskanego w związku z tym wygaśnięciem zwrotu lub odliczenia;
-- **2)** zostanie zbyte jednostka składowa kontynuuje to rozliczenie do końca okresu użytkowania składnika aktywów, a różnicę między rynkową ceną sprzedaży i kwotą zwrotu oraz odliczenia z tytułu tej ulgi odnosi proporcjonalnie do tego okresu użytkowania, jaki pozostaje po roku, w którym składnik ten został zbyty.
+- **1)** wygaśnie w drodze przedawnienia – wartość bilansową składnika aktywów objętego tą ulgą podwyższa się o kwotę nieuzyskanego w związku z tym wygaśnięciem zwrotu lub odliczenia;
+- **2)** zostanie zbyte – jednostka składowa kontynuuje to rozliczenie do końca okresu użytkowania składnika aktywów, a różnicę między rynkową ceną sprzedaży i kwotą zwrotu oraz odliczenia z tytułu tej ulgi odnosi proporcjonalnie do tego okresu użytkowania, jaki pozostaje po roku, w którym składnik ten został zbyty.
 
 **Art. 66.**
 
@@ -1253,8 +1253,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 2. Przy dokonywaniu korekty z tytułu żeglugi międzynarodowej nie uwzględnia się w szczególności kosztów jednostki składowej przypisanych do dochodu (straty) tej jednostki z działalności w zakresie żeglugi międzynarodowej oraz z działalności dodatkowej w zakresie żeglugi międzynarodowej, przy czym koszty te przypisuje się:
 
-- **1)** odpowiednio do tych działalności w przypadku kosztów bezpośrednio związanych z dochodami z tych działalności;
-- **2)** proporcjonalnie do udziału przychodów z takiej działalności w łącznych przychodach jednostki składowej w przypadku kosztów pośrednio związanych z dochodami z tych działalności.
+- **1)** odpowiednio do tych działalności – w przypadku kosztów bezpośrednio związanych z dochodami z tych działalności;
+- **2)** proporcjonalnie do udziału przychodów z takiej działalności w łącznych przychodach jednostki składowej – w przypadku kosztów pośrednio związanych z dochodami z tych działalności.
 
 3. Przez zarządzanie strategiczne rozumie się podejmowanie decyzji w zakresie znaczących wydatków kapitałowych i zbycia aktywów, znaczących zamówień, umów o sojuszach strategicznych i wspólnych przedsięwzięciach w korzystaniu ze statków oraz w zakresie kierowania placówkami zagranicznymi.
 
@@ -1323,7 +1323,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 2. Kwalifikowana strata stałego zakładu pomniejsza księgowy dochód (stratę) netto centrali za rok podatkowy w takiej części, w jakiej strata stałego zakładu:
 
 - **1)** może zostać uznana za koszt przy obliczaniu dochodu podlegającego opodatkowaniu podatkiem kwalifikowanym tej centrali oraz
-- **2)** nie została uwzględniona przy obliczaniu dochodu podlegającego opodatkowaniu podatkiem kwalifikowanym, na podstawie przepisów jurysdykcji lokalizacji centrali oraz lokalizacji stałego zakładu bez względu na rok podatkowy rozliczenia takiej straty albo jej części.
+- **2)** nie została uwzględniona przy obliczaniu dochodu podlegającego opodatkowaniu podatkiem kwalifikowanym, na podstawie przepisów jurysdykcji lokalizacji centrali oraz lokalizacji stałego zakładu – bez względu na rok podatkowy rozliczenia takiej straty albo jej części.
 
 3. Kwalifikowany dochód osiągany przez stały zakład w latach podatkowych następujących po roku podatkowym, o którym mowa w ust. 2, podwyższa księgowy dochód (stratę) centrali do wysokości kwalifikowanej straty, która była rozliczona jako koszt centrali na podstawie ust. 2.
 
@@ -1347,8 +1347,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 1. Księgowy dochód (stratę) netto jednostki pośredniczącej obliczony zgodnie z art. 73 i art. 74 przydziela się:
 
-- **1)** jednostkom będącym właścicielami proporcjonalnie do ich udziału własnościowego w jednostce pośredniczącej w przypadku gdy ta jednostka pośrednicząca jest jednostką transparentną podatkowo niebędącą jednostką dominującą najwyższego szczebla albo
-- **2)** tej jednostce pośredniczącej w przypadku gdy jest ona jednostką transparentną podatkowo będącą jednostką dominującą najwyższego szczebla albo odwróconą jednostką hybrydową.
+- **1)** jednostkom będącym właścicielami proporcjonalnie do ich udziału własnościowego w jednostce pośredniczącej – w przypadku gdy ta jednostka pośrednicząca jest jednostką transparentną podatkowo niebędącą jednostką dominującą najwyższego szczebla albo
+- **2)** tej jednostce pośredniczącej – w przypadku gdy jest ona jednostką transparentną podatkowo będącą jednostką dominującą najwyższego szczebla albo odwróconą jednostką hybrydową.
 
 2. Przydziału, o którym mowa w ust. 1, dokonuje się odrębnie w odniesieniu do każdego właściciela posiadającego udział własnościowy w jednostce pośredniczącej, o której mowa w ust. 1.
 
@@ -1374,7 +1374,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 - **1)** podatki nakładane z tytułu:
     - **a)** dochodu lub zysku tej jednostki składowej lub udziału tej jednostki w dochodzie lub zysku innej jednostki składowej, w której posiada ona udział własnościowy,
-    - **b)** wypłaconego lub przeznaczonego do wypłaty zysku, wypłat równoważnych wypłacie zysku oraz kosztów niezwiązanych z działalnością gospodarczą lub kosztów o podobnym charakterze, jeżeli są naliczone w ramach systemu opartego na opodatkowaniu wypłaty zysków, o którym mowa w art. 115 w tym podatki dochodowe pobierane u źródła i inne podobne podatki;
+    - **b)** wypłaconego lub przeznaczonego do wypłaty zysku, wypłat równoważnych wypłacie zysku oraz kosztów niezwiązanych z działalnością gospodarczą lub kosztów o podobnym charakterze, jeżeli są naliczone w ramach systemu opartego na opodatkowaniu wypłaty zysków, o którym mowa w art. 115 – w tym podatki dochodowe pobierane u źródła i inne podobne podatki;
 
 - **2)** podatki nakładane w miejsce podatku dochodowego od osób prawnych, w przypadku gdy w jurysdykcji lokalizacji tej jednostki składowej nie obowiązuje system podatku dochodowego od osób prawnych;
 - **3)** podatki naliczone z tytułu zysków zatrzymanych lub kapitału własnego jednostki składowej, w tym podatki naliczone od całości albo części składników opartych na dochodzie lub kapitale własnym.
@@ -1412,7 +1412,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **1)** beneficjenta rzeczywistego dywidendy, w przypadku gdy:
     - **a)** ten podatek jest zwracany lub zaliczany zgodnie z przepisami innej jurysdykcji niż jurysdykcja, w której jednostka podlega podatkowi kwalifikowanemu, lub
     - **b)** dywidenda, o której mowa w ust. 3, podlega opodatkowaniu według stawki nominalnej nie niższej niż minimalna stawka podatkowa, lub
-    - **c)** beneficjent rzeczywisty dywidendy jest osobą fizyczną i rezydentem podatkowym jurysdykcji, w której: jednostka składowa wypłacająca tę dywidendę podlega podatkowi kwalifikowanemu oraz ta osoba fizyczna podlega opodatkowaniu według stawki nominalnej co najmniej równej standardowej stawce podatkowej mającej zastosowanie do zwykłego dochodu lub
+    - **c)** beneficjent rzeczywisty dywidendy jest osobą fizyczną i rezydentem podatkowym jurysdykcji, w której: – jednostka składowa wypłacająca tę dywidendę podlega podatkowi kwalifikowanemu oraz – ta osoba fizyczna podlega opodatkowaniu według stawki nominalnej co najmniej równej standardowej stawce podatkowej mającej zastosowanie do zwykłego dochodu lub
 
 - **2)** jednostki rządowej, organizacji międzynarodowej, organizacji nienastawionej na zysk lub funduszu emerytalnego będących rezydentami podatkowymi jurysdykcji, w których zostały utworzone i posiadają zarząd, lub
 - **3)** jednostki inwestycyjnej będącej rezydentem podatkowym jurysdykcji, w której została utworzona i podlega nadzorowi, jeżeli ta jednostka nie wchodzi w skład grupy międzynarodowej lub grupy krajowej, lub
@@ -1433,7 +1433,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **3)** zwiększenia i zmniejszenia z tytułu kwalifikowanych udziałów własnościowych i kwalifikowanych pośrednich aktywów podatkowych, o których mowa w art. 83;
 - **4)** korzyści związane z rozliczeniem zysku lub straty, o których mowa w art. 84;
 - **5)** zwiększenia z tytułu całkowitej korekty podatku odroczonego, o której mowa w art. 85 ust. 1, ustalonej dla tej jednostki zgodnie z przepisami oddziału 2, z zastrzeżeniem art. 91;
-- **6)** podatki kwalifikowane ujęte w kapitale własnym lub w innych całkowitych dochodach w części, w jakiej odnoszą się do dochodów lub zysków uwzględnionych w kwalifikowanym dochodzie (stracie), jeżeli te dochody lub zyski podlegają opodatkowaniu podatkiem kwalifikowanym na podstawie przepisów podatkowych obowiązujących na terytorium Rzeczypospolitej Polskiej albo w innej niż Rzeczpospolita Polska jurysdykcji lokalizacji tej jednostki w przypadku gdy te podatki nie zostały jednocześnie naliczone jako koszt lub jako obciążenie wyniku finansowego z tytułu podatku dochodowego.
+- **6)** podatki kwalifikowane ujęte w kapitale własnym lub w innych całkowitych dochodach w części, w jakiej odnoszą się do dochodów lub zysków uwzględnionych w kwalifikowanym dochodzie (stracie), jeżeli te dochody lub zyski podlegają opodatkowaniu podatkiem kwalifikowanym na podstawie przepisów podatkowych obowiązujących na terytorium Rzeczypospolitej Polskiej albo w innej niż Rzeczpospolita Polska jurysdykcji lokalizacji tej jednostki – w przypadku gdy te podatki nie zostały jednocześnie naliczone jako koszt lub jako obciążenie wyniku finansowego z tytułu podatku dochodowego.
 
 2. Przy obliczaniu skorygowanych podatków kwalifikowanych kwota podatku kwalifikowanego jest uwzględniana jeden raz przez jedną jednostkę składową, choćby kwota ta mogła zostać rozliczona w więcej niż jednej pozycji z tytułów wymienionych w ust. 1.
 
@@ -1455,8 +1455,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 2. Zmniejszenia, o którym mowa w ust. 1 pkt 3, dokonuje się z tytułu:
 
 - **1)** niekwalifikowanej zbywalnej ulgi, jeżeli prawo do tej ulgi zostało:
-    - **a)** objęte przez jednostkę składową po raz pierwszy na podstawie przepisów obowiązujących w jurysdykcji jej lokalizacji, w kwocie odpowiadającej sumie: kwoty dokonanego z tytułu tej ulgi zwrotu lub odliczenia zaliczonego na poczet własnych zobowiązań podatkowych należnych za rok przyjęty dla celów podatku dochodowego tej jednostki, jeżeli ten rok kończy się w trakcie roku podatkowego przyjętego dla celów ustawy, oraz kwoty otrzymanej w trakcie roku podatkowego w zamian za niewykorzystany zwrot oraz odliczenie z tytułu tej ulgi,
-    - **b)** nabyte przez jednostkę składową od innej osoby, w kwocie odpowiadającej: nadwyżce kwoty całkowitego zwrotu oraz odliczenia z tytułu tej ulgi nad jej ceną nabycia, proporcjonalnie do kwoty zwrotu oraz odliczenia z tytułu tej ulgi zaliczonego na poczet własnych zobowiązań podatkowych należnych za rok przyjęty dla celów podatku dochodowego tej jednostki, jeżeli ten rok kończy się w trakcie roku podatkowego przyjętego dla celów ustawy, zyskowi ze sprzedaży tej ulgi, jaki ta jednostka osiągnęła w roku podatkowym, jeżeli strata poniesiona z takiego zbycia innej niekwalifikowanej zbywalnej ulgi zostanie uwzględniona w sposób określony w art. 66 ust. 3;
+    - **a)** objęte przez jednostkę składową po raz pierwszy na podstawie przepisów obowiązujących w jurysdykcji jej lokalizacji, w kwocie odpowiadającej sumie: – kwoty dokonanego z tytułu tej ulgi zwrotu lub odliczenia zaliczonego na poczet własnych zobowiązań podatkowych należnych za rok przyjęty dla celów podatku dochodowego tej jednostki, jeżeli ten rok kończy się w trakcie roku podatkowego przyjętego dla celów ustawy, oraz – kwoty otrzymanej w trakcie roku podatkowego w zamian za niewykorzystany zwrot oraz odliczenie z tytułu tej ulgi,
+    - **b)** nabyte przez jednostkę składową od innej osoby, w kwocie odpowiadającej: – nadwyżce kwoty całkowitego zwrotu oraz odliczenia z tytułu tej ulgi nad jej ceną nabycia, proporcjonalnie do kwoty zwrotu oraz odliczenia z tytułu tej ulgi zaliczonego na poczet własnych zobowiązań podatkowych należnych za rok przyjęty dla celów podatku dochodowego tej jednostki, jeżeli ten rok kończy się w trakcie roku podatkowego przyjętego dla celów ustawy, – zyskowi ze sprzedaży tej ulgi, jaki ta jednostka osiągnęła w roku podatkowym, jeżeli strata poniesiona z takiego zbycia innej niekwalifikowanej zbywalnej ulgi zostanie uwzględniona w sposób określony w art. 66 ust. 3;
 
 - **2)** ulg innych niż kwalifikowana zwrotna ulga, kwalifikowana zbywalna ulga oraz niekwalifikowana zbywalna ulga w kwocie równej dokonanemu z tytułu takiej ulgi zwrotowi lub odliczeniu zaliczonemu na poczet własnych zobowiązań podatkowych należnych za rok przyjęty dla celów podatku dochodowego jednostki składowej, jeżeli ten rok kończy się w trakcie roku podatkowego przyjętego dla celów ustawy.
 
@@ -1465,10 +1465,10 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 1. Jeżeli jednostka składowa posiada kwalifikowane udziały własnościowe, o których mowa w art. 63, i związane z nimi bezpośrednio kwalifikowane pośrednie aktywa podatkowe:
 
 - **1)** kwota takich kwalifikowanych pośrednich aktywów podatkowych:
-    - **a)** zwiększa podatki kwalifikowane w zakresie, w jakim te kwalifikowane pośrednie aktywa podatkowe są wykazywane w księgach tej jednostki jako zmniejszające obciążenie z tytułu podatku dochodowego w przypadku gdy kwalifikowana kwota zwrotu jest mniejsza niż kwota inwestycji lub równa kwocie inwestycji, o której mowa w art. 63 ust. 5,
-    - **b)** zmniejsza podatki kwalifikowane w przypadku gdy kwalifikowana kwota zwrotu jest większa od kwoty inwestycji, o której mowa w art. 63 ust. 5;
+    - **a)** zwiększa podatki kwalifikowane w zakresie, w jakim te kwalifikowane pośrednie aktywa podatkowe są wykazywane w księgach tej jednostki jako zmniejszające obciążenie z tytułu podatku dochodowego – w przypadku gdy kwalifikowana kwota zwrotu jest mniejsza niż kwota inwestycji lub równa kwocie inwestycji, o której mowa w art. 63 ust. 5,
+    - **b)** zmniejsza podatki kwalifikowane – w przypadku gdy kwalifikowana kwota zwrotu jest większa od kwoty inwestycji, o której mowa w art. 63 ust. 5;
 
-- **2)** pozycje kwot z tytułu wszelkich wypłat na rzecz tej jednostki, w tym zwrotu kapitału, zysku ze sprzedaży części lub wszystkich kwalifikowanych udziałów własnościowych oraz kwalifikowanych zwrotnych ulg zmniejszają podatki kwalifikowane w zakresie, w jakim wcześniej te pozycje podwyższały te podatki w przypadku gdy kwalifikowana kwota zwrotu jest większa od kwoty inwestycji, o której mowa w art. 63 ust. 5.
+- **2)** pozycje kwot z tytułu wszelkich wypłat na rzecz tej jednostki, w tym zwrotu kapitału, zysku ze sprzedaży części lub wszystkich kwalifikowanych udziałów własnościowych oraz kwalifikowanych zwrotnych ulg zmniejszają podatki kwalifikowane w zakresie, w jakim wcześniej te pozycje podwyższały te podatki – w przypadku gdy kwalifikowana kwota zwrotu jest większa od kwoty inwestycji, o której mowa w art. 63 ust. 5.
 
 2. Przy obliczaniu skorygowanych podatków kwalifikowanych w przypadku, o którym mowa w ust. 1 pkt 2, nie uwzględnia się nadwyżki tej kwoty ponad kwotę uwzględnioną na podstawie ust. 1 pkt 1 lit. a.
 
@@ -1491,8 +1491,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 1. Całkowitą korektę podatku odroczonego stanowi podatek dochodowy za rok podatkowy w części odroczonej przypadający na podatki kwalifikowane jednostki składowej w wysokości odpowiadającej kwocie tego podatku:
 
-- **1)** ujętej w księgach w przypadku gdy stawka podatkowa stosowana do celów obliczania tego podatku w części odroczonej nie przekracza minimalnej stawki podatkowej;
-- **2)** przeliczonej według minimalnej stawki podatkowej w przypadku gdy stawka podatkowa stosowana do celów obliczania tego podatku w części odroczonej jest wyższa od minimalnej stawki podatkowej.
+- **1)** ujętej w księgach – w przypadku gdy stawka podatkowa stosowana do celów obliczania tego podatku w części odroczonej nie przekracza minimalnej stawki podatkowej;
+- **2)** przeliczonej według minimalnej stawki podatkowej – w przypadku gdy stawka podatkowa stosowana do celów obliczania tego podatku w części odroczonej jest wyższa od minimalnej stawki podatkowej.
 
 2. Całkowita korekta podatku odroczonego zwiększa skorygowane podatki kwalifikowane jednostki składowej.
 
@@ -1566,7 +1566,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 3. Zastępcze aktywo z tytułu podatku odroczonego tworzy się w wysokości równej niższej z następujących kwot:
 
 - **1)** kwoty ulgi podatkowej w odniesieniu do podatku dochodowego zapłaconego przez zagraniczną jednostkę kontrolowaną w jurysdykcji jej lokalizacji, którą przepisy obowiązujące w jurysdykcji lokalizacji tej jednostki pozwalają przenieść do rozliczenia na kolejne lata podatkowe począwszy od roku, w którym jednostka składowa wykazała stratę podatkową z krajowych źródeł dochodów,
-- **2)** kwoty stanowiącej iloczyn wykazanej straty podatkowej z krajowych źródeł dochodów i nominalnej stawki podatkowej obowiązującej w jurysdykcji jednostki składowej przeliczonej według minimalnej stawki podatkowej.
+- **2)** kwoty stanowiącej iloczyn wykazanej straty podatkowej z krajowych źródeł dochodów i nominalnej stawki podatkowej obowiązującej w jurysdykcji jednostki składowej – przeliczonej według minimalnej stawki podatkowej.
 
 **Art. 91.** Przepisów art. 85–90 nie stosuje się do jednostek składowych zlokalizowanych w jurysdykcji, w odniesieniu do której dokonano wyboru dotyczącego kwalifikowanej straty określonego w oddziale 3.
 
@@ -1616,7 +1616,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **3)** czynszu,
 - **4)** opłat licencyjnych,
 - **5)** umownego prawa do płatności przez czas określony, w szczególności renty,
-- **6)** dochodów z nieruchomości (majątku), który jest źródłem płatności, o których mowa w pkt 1–5, innych niż kwoty dochodów wymienione w pkt 1–5 w zakresie, w jakim jednostka będąca właścicielem tej jednostki podlegała z tego tytułu opodatkowaniu zgodnie z przepisami o zagranicznych jednostkach kontrolowanych lub w związku z posiadaniem udziałów własnościowych w jednostce hybrydowej.
+- **6)** dochodów z nieruchomości (majątku), który jest źródłem płatności, o których mowa w pkt 1–5, innych niż kwoty dochodów wymienione w pkt 1–5 – w zakresie, w jakim jednostka będąca właścicielem tej jednostki podlegała z tego tytułu opodatkowaniu zgodnie z przepisami o zagranicznych jednostkach kontrolowanych lub w związku z posiadaniem udziałów własnościowych w jednostce hybrydowej.
 
 4. Jeżeli po zastosowaniu ust. 1 jednostce składowej nie zostanie przydzielona pełna kwota podatków kwalifikowanych jednostki będącej właścicielem, naliczonych w związku z dochodem pasywnym tej jednostki składowej, pozostałą kwotę takich podatków uznaje się za podatki kwalifikowane tego właściciela.
 
@@ -1636,7 +1636,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
     - **a)** podwyższenia tych podatków kwalifikowanych albo
     - **b)** nieistotnego obniżenia podatków kwalifikowanych, jeżeli dokonano wyboru w tym zakresie, przy czym przez nieistotne obniżenie podatków kwalifikowanych rozumie się łączne obniżenie skorygowanych podatków kwalifikowanych ustalonych w odniesieniu do danej jurysdykcji za rok podatkowy o mniej niż 1 000 000 euro;
 
-- **2)** uwzględnia się w podatkach kwalifikowanych, których ta zmiana dotyczy, odpowiednio za poprzedni rok podatkowy lub lata podatkowe oraz ponownie ustala się za takie lata efektywną stawkę podatkową i oblicza dodatkowy podatek wyrównawczy zgodnie z art. 16 w przypadku obniżenia podatków kwalifikowanych, uwzględnionych w skorygowanych podatkach kwalifikowanych, innego niż nieistotne obniżenie podatków kwalifikowanych.
+- **2)** uwzględnia się w podatkach kwalifikowanych, których ta zmiana dotyczy, odpowiednio za poprzedni rok podatkowy lub lata podatkowe oraz ponownie ustala się za takie lata efektywną stawkę podatkową i oblicza dodatkowy podatek wyrównawczy zgodnie z art. 16 – w przypadku obniżenia podatków kwalifikowanych, uwzględnionych w skorygowanych podatkach kwalifikowanych, innego niż nieistotne obniżenie podatków kwalifikowanych.
 
 2. Przepis ust. 1 stosuje się odpowiednio w przypadku, gdy jednostka składowa:
 
@@ -1673,8 +1673,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 3. Saldo ujemnych skorygowanych podatków kwalifikowanych za rok podatkowy, w którym je utworzono, jest równe wartości bezwzględnej następujących kwot:
 
-- **1)** kwoty dodatkowego podatku wyrównawczego, obliczonego zgodnie z art. 98 ust. 2 w przypadku, o którym mowa w ust. 1;
-- **2)** ujemnej kwoty skorygowanych podatków kwalifikowanych ustalonych za ten rok w przypadku, o którym mowa w ust. 2.
+- **1)** kwoty dodatkowego podatku wyrównawczego, obliczonego zgodnie z art. 98 ust. 2 – w przypadku, o którym mowa w ust. 1;
+- **2)** ujemnej kwoty skorygowanych podatków kwalifikowanych ustalonych za ten rok – w przypadku, o którym mowa w ust. 2.
 
 4. Za rok podatkowy, w którym utworzono saldo ujemnych skorygowanych podatków kwalifikowanych koryguje się sumę skorygowanych podatków kwalifikowanych o kwotę tego salda przez zwiększenie sumy skorygowanych podatków kwalifikowanych stanowiącej kwotę ujemną. W przypadku, o którym mowa w ust. 2, saldo ujemnych skorygowanych podatków kwalifikowanych stanowi zwiększenie sumy skorygowanych podatków kwalifikowanych do zera.
 
@@ -1701,8 +1701,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 4. W ramach wyłączenia z tytułu płac kwalifikowane koszty płac można uwzględnić:
 
-- **1)** w pełnej wysokości w przypadku gdy kwalifikowany pracownik znajduje się na terytorium jurysdykcji lokalizacji danej jednostki składowej przez ponad 50 % swojego ogólnego czasu pracy lub przez ponad 50 % swojego czasu przeznaczonego na realizację zadań na zasadach współpracy innych niż umowa o pracę;
-- **2)** w części proporcjonalnie do czasu, w jakim kwalifikowany pracownik znajduje się na terytorium jurysdykcji lokalizacji danej jednostki składowej, w stosunku do jego ogólnego czasu pracy lub do jego czasu przeznaczonego na realizację zadań na zasadach współpracy innych niż umowa o pracę w przypadku innym niż określony w pkt 1.
+- **1)** w pełnej wysokości – w przypadku gdy kwalifikowany pracownik znajduje się na terytorium jurysdykcji lokalizacji danej jednostki składowej przez ponad 50 % swojego ogólnego czasu pracy lub przez ponad 50 % swojego czasu przeznaczonego na realizację zadań na zasadach współpracy innych niż umowa o pracę;
+- **2)** w części – proporcjonalnie do czasu, w jakim kwalifikowany pracownik znajduje się na terytorium jurysdykcji lokalizacji danej jednostki składowej, w stosunku do jego ogólnego czasu pracy lub do jego czasu przeznaczonego na realizację zadań na zasadach współpracy innych niż umowa o pracę – w przypadku innym niż określony w pkt 1.
 
 5. Kwota wyłączenia z tytułu rzeczowych aktywów trwałych dla jednostki składowej za rok podatkowy nie może przekroczyć 5 % wartości bilansowej netto rzeczowych aktywów trwałych tej jednostki, przy czym w wartości bilansowej netto rzeczowych aktywów trwałych nie uwzględnia się:
 
@@ -1718,8 +1718,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 8. W celu obliczenia wartości bilansowej netto kwalifikowanych rzeczowych aktywów trwałych uwzględnia się wartości bilansowe tych aktywów:
 
-- **1)** w pełnej wysokości w przypadku gdy kwalifikowane rzeczowe aktywo trwałe znajduje się na terytorium jurysdykcji lokalizacji danej jednostki składowej przez ponad 50 % roku podatkowego;
-- **2)** w części proporcjonalnie do czasu, w jakim kwalifikowane rzeczowe aktywo trwałe znajduje się na terytorium jurysdykcji lokalizacji danej jednostki składowej, w stosunku do czasu jego używania w danym roku podatkowym w przypadku innym niż określony w pkt 1.
+- **1)** w pełnej wysokości – w przypadku gdy kwalifikowane rzeczowe aktywo trwałe znajduje się na terytorium jurysdykcji lokalizacji danej jednostki składowej przez ponad 50 % roku podatkowego;
+- **2)** w części – proporcjonalnie do czasu, w jakim kwalifikowane rzeczowe aktywo trwałe znajduje się na terytorium jurysdykcji lokalizacji danej jednostki składowej, w stosunku do czasu jego używania w danym roku podatkowym – w przypadku innym niż określony w pkt 1.
 
 9. W przypadku leasingu finansowego środki trwałe będące przedmiotem umowy leasingu zalicza się do kwalifikowanych rzeczowych aktywów trwałych korzystającego.
 
@@ -2035,7 +2035,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **2)** w kwalifikowanym dochodzie i w skorygowanych podatkach kwalifikowanych jednostki będącej właścicielem jednostki inwestycyjnej lub ubezpieczeniowej jednostki inwestycyjnej uwzględnia się kwotę naliczonych przez taką jednostkę inwestycyjną lub ubezpieczeniową jednostkę inwestycyjną podatków kwalifikowanych, które podlegają zaliczeniu na poczet zobowiązania podatkowego jej właściciela z tytułu wypłaty zysku z tej jednostki;
 - **3)** ustala się kwalifikowany dochód jednostki inwestycyjnej lub ubezpieczeniowej jednostki inwestycyjnej za rok podatkowy w wysokości odpowiadającej udziałowi jednostki będącej właścicielem tej jednostki w niewypłaconym kwalifikowanym dochodzie netto jednostki inwestycyjnej lub ubezpieczeniowej jednostki inwestycyjnej, o którym mowa w art. 121, naliczonym za trzeci rok bezpośrednio poprzedzający ten rok podatkowy.
 
-2. Hipotetyczna wypłata kwalifikowanego dochodu powstaje w przypadku, gdy bezpośredni lub pośredni udział własnościowy w jednostce inwestycyjnej lub ubezpieczeniowej jednostce inwestycyjnej zostaje przeniesiony na jednostkę nienależącą do grupy, i odpowiada części niewypłaconego kwalifikowanego dochodu netto, o którym mowa w art. 121 ust. 1, przypadającej na ten udział własnościowy w wysokości tego udziału ustalonej bezpośrednio przed dokonaniem jego przeniesienia.
+2. Hipotetyczna wypłata kwalifikowanego dochodu powstaje w przypadku, gdy bezpośredni lub pośredni udział własnościowy w jednostce inwestycyjnej lub ubezpieczeniowej jednostce inwestycyjnej zostaje przeniesiony na jednostkę nienależącą do grupy, i odpowiada części niewypłaconego kwalifikowanego dochodu netto, o którym mowa w art. 121 ust. 1, przypadającej na ten udział własnościowy – w wysokości tego udziału ustalonej bezpośrednio przed dokonaniem jego przeniesienia.
 
 **Art. 121.**
 
@@ -2133,7 +2133,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 1. Jednostki składowe grupy międzynarodowej zlokalizowane na terytorium Rzeczypospolitej Polskiej nie obliczają:
 
 - **1)** krajowego podatku wyrównawczego oraz
-- **2)** podatku wyrównawczego od niedostatecznie opodatkowanych zysków za pierwsze 5 lat podatkowych początkowego okresu działalności tej grupy, w których nieprzerwanie są spełnione warunki wymienione w art. 128 ust. 1.
+- **2)** podatku wyrównawczego od niedostatecznie opodatkowanych zysków – za pierwsze 5 lat podatkowych początkowego okresu działalności tej grupy, w których nieprzerwanie są spełnione warunki wymienione w art. 128 ust. 1.
 
 2. Przepisu ust. 1 pkt 1 nie stosuje się w przypadku jednostek składowych grupy międzynarodowej, w odniesieniu do których jakakolwiek jednostka dominująca stosuje kwalifikowaną zasadę włączenia dochodu do opodatkowania.
 
@@ -2196,24 +2196,24 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 7. W przypadku, o którym mowa w ust. 4, jednostka składowa grupy międzynarodowej zlokalizowana na terytorium Rzeczypospolitej Polskiej lub jednostka, o której mowa w ust. 3, jeżeli została ustanowiona, jest obowiązana, w terminie do końca 15. miesiąca po zakończeniu roku podatkowego, o którym mowa w ust. 1, złożyć właściwemu naczelnikowi urzędu skarbowego zawiadomienie o danych jednostki składowej składającej informację, o której mowa w ust. 4, wraz ze wskazaniem jurysdykcji, w której ta jednostka jest zlokalizowana.
 
-8. Minister właściwy do spraw finansów publicznych udostępni w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzór informacji, o której mowa w ust. 1.
+8. (uchylony)
 
-9. Wzór informacji, o której mowa w ust. 1, zawiera pozycje umożliwiające prawidłowe określenie wysokości zobowiązań z tytułu podatków wyrównawczych, w tym:
+9. Informacja, o której mowa w ust. 1, zawiera:
 
-- **1)** dane identyfikacyjne jednostek składowych grupy, w tym ich numery identyfikacji podatkowej, jeżeli zostały nadane;
-- **2)** jurysdykcję, w której są zlokalizowane jednostki składowe grupy;
-- **3)** rodzaj jednostek składowych określony zgodnie z ustawą;
-- **4)** informację na temat ogólnej struktury korporacyjnej grupy, w tym w zakresie udziałów konsolidujących w jednostkach składowych tej grupy będących w posiadaniu innych jednostek składowych tej grupy;
-- **5)** informacje i dane niezbędne do obliczenia:
-    - **a)** efektywnej stawki podatkowej dla każdej jurysdykcji,
-    - **b)** jednostkowego globalnego podatku wyrównawczego,
-    - **c)** globalnego podatku wyrównawczego członka grupy joint venture,
-    - **d)** udziałowego globalnego podatku wyrównawczego i kwoty podatku wyrównawczego od niedostatecznie opodatkowanych zysków przydzielonego dla każdej jurysdykcji;
+- **1)** część ogólną dotyczącą grupy obejmującą:
+    - **a)** informacje dotyczące składania informacji o opodatkowaniu wyrównawczym,
+    - **b)** informacje dotyczące struktury korporacyjnej,
+    - **c)** ogólne podsumowanie stosowania przepisów o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych;
 
-- **6)** informację o dokonanych wyborach;
-- **7)** informacje niezbędne do ustalenia kwalifikowanego krajowego podatku wyrównawczego lub krajowego podatku wyrównawczego.
+- **2)** część jurysdykcyjną obejmującą informacje na temat bezpiecznych przystani, które mają zastosowanie w danej jurysdykcji, i wyłączeń przysługujących w ramach opodatkowania wyrównawczego oraz szczegółowe informacje na temat stosowania kwalifikowanej zasady włączenia dochodu do opodatkowania, kwalifikowanej zasady niedostatecznie opodatkowanych zysków, kwalifikowanego krajowego podatku wyrównawczego, globalnego podatku wyrównawczego, krajowego podatku wyrównawczego i podatku wyrównawczego od niedostatecznie opodatkowanych zysków, w odniesieniu do każdej jurysdykcji, w której grupa prowadzi działalność, w tym informacje:
+    - **a)** dla celów obliczenia: – efektywnej stawki podatkowej dla każdej jurysdykcji, – jednostkowego globalnego podatku wyrównawczego, – udziałowego globalnego podatku wyrównawczego,
+    - **b)** dla celów obliczenia podatku wyrównawczego od niedostatecznie opodatkowanych zysków,
+    - **c)** niezbędne do ustalenia kwalifikowanego krajowego podatku wyrównawczego lub krajowego podatku wyrównawczego,
+    - **d)** dotyczące przypisania podatku wyrównawczego w ramach kwalifikowanej zasady niedostatecznie opodatkowanych zysków.
 
 10. Informację, o której mowa w ust. 1, oraz zawiadomienie, o którym mowa w ust. 7, za pierwszy rok podatkowy, o którym mowa w art. 130, składa się w terminie do końca 18. miesiąca następującego po tym roku podatkowym.
+
+11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych, o których mowa w ust. 9, uwzględniając konieczność prawidłowego rozliczenia podatku, kontroli wykonania tego obowiązku przez organ podatkowy oraz obowiązek wymiany tych danych z innymi jurysdykcjami.
 
 **Art. 134.**
 
@@ -2221,7 +2221,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 - **1)** globalnego podatku wyrównawczego,
 - **2)** krajowego podatku wyrównawczego,
-- **3)** podatku wyrównawczego od niedostatecznie opodatkowanych zysków są obowiązani składać do właściwego naczelnika urzędu skarbowego zeznania, według ustalonych wzorów, o wysokości należnego podatku, w terminie do końca 18. miesiąca następującego po zakończeniu tego roku podatkowego i w tym terminie wpłacić na rachunek właściwego urzędu skarbowego podatek wynikający z tego zeznania.
+- **3)** podatku wyrównawczego od niedostatecznie opodatkowanych zysków – są obowiązani składać do właściwego naczelnika urzędu skarbowego zeznania, według ustalonych wzorów, o wysokości należnego podatku, w terminie do końca
+
+18. miesiąca następującego po zakończeniu tego roku podatkowego i w tym terminie wpłacić na rachunek właściwego urzędu skarbowego podatek wynikający z tego zeznania.
 
 2. Zeznania, o których mowa w ust. 1, za pierwszy rok podatkowy, o którym mowa w art. 130, składa się w terminie do końca 21. miesiąca następującego po zakończeniu tego roku podatkowego. W tym samym terminie podatnik jest obowiązany do zapłaty podatku wynikającego ze złożonego zeznania za ten rok podatkowy.
 
@@ -2270,7 +2272,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 139.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619) wprowadza się następujące zmiany:
 
-**Art. 140.** W ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879) wprowadza się następujące zmiany:
+**Art. 140.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879) wprowadza się następujące zmiany:
 
 **Art. 14t.**
 
@@ -2297,11 +2299,11 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **3)** określenie przedmiotu wniosku, w tym:
     - **a)** wyczerpujące przedstawienie opisu czynności, o których mowa w § 1,
     - **b)** własne stanowisko zainteresowanego w sprawie oceny prawnej czynności, o których mowa w § 1,
-    - **c)** dane identyfikacyjne jednostek lub jednostek składowych uczestniczących w czynnościach, o których mowa w § 1, w tym: numery identyfikacji podatkowej, a jeżeli nie zostały nadane inne numery identyfikacyjne wraz z określeniem ich rodzaju, dane dotyczące miejsca ich siedziby lub zarządu, dane dotyczące przedmiotu prowadzonej przez nie działalności,
+    - **c)** dane identyfikacyjne jednostek lub jednostek składowych uczestniczących w czynnościach, o których mowa w § 1, w tym: – numery identyfikacji podatkowej, a jeżeli nie zostały nadane – inne numery identyfikacyjne wraz z określeniem ich rodzaju, – dane dotyczące miejsca ich siedziby lub zarządu, – dane dotyczące przedmiotu prowadzonej przez nie działalności,
     - **d)** wskazanie jurysdykcji w rozumieniu art. 2 ust. 1 pkt 22 ustawy o opodatkowaniu wyrównawczym, w których jednostki lub jednostki składowe uczestniczące w czynnościach, o których mowa w § 1, są zlokalizowane,
     - **e)** wskazanie rodzaju jednostek lub jednostek składowych, których dotyczy wniosek,
     - **f)** informację na temat ogólnej struktury korporacyjnej grupy w rozumieniu art. 2 ust. 1 pkt 6 ustawy o opodatkowaniu wyrównawczym, w tym w zakresie udziałów konsolidujących w rozumieniu art. 2 ust. 1 pkt 42 ustawy o opodatkowaniu wyrównawczym w jednostkach składowych tej grupy będących w posiadaniu innych jednostek składowych tej grupy,
-    - **g)** opis podstawowej działalności zainteresowanego, w tym: wskazanie przedmiotu prowadzonej działalności, opis strategii gospodarczej,
+    - **g)** opis podstawowej działalności zainteresowanego, w tym: – wskazanie przedmiotu prowadzonej działalności, – opis strategii gospodarczej,
     - **h)** opis przyjętych zasad lub polityki rachunkowości w zakresie, w jakim mają one zastosowanie do czynności, o których mowa w § 1, stosowanych przez zainteresowanego i pozostałe jednostki składowe uczestniczące w tych czynnościach,
     - **i)** wskazanie umowy, porozumienia wewnątrzgrupowe lub innych dokumentów dotyczących czynności, o których mowa w § 1,
     - **j)** wskazanie innych dokumentów lub informacji niezbędnych do dokonania oceny stanowiska zainteresowanego, o którym mowa w lit. b.
@@ -2326,8 +2328,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 § 9. Dyrektor Krajowej Informacji Skarbowej wydaje opinię w sprawie opodatkowania wyrównawczego po uzyskaniu stanowiska:
 
-- **1)** ministra właściwego do spraw finansów publicznych w przypadku gdy zainteresowany jest stroną zawartego porozumienia inwestycyjnego, o którym mowa w art. 20zs § 1;
-- **2)** Szefa Krajowej Administracji Skarbowej w przypadku gdy zainteresowany jest stroną zawartej umowy o współdziałanie, o której mowa w art. 20s.
+- **1)** ministra właściwego do spraw finansów publicznych – w przypadku gdy zainteresowany jest stroną zawartego porozumienia inwestycyjnego, o którym mowa w art. 20zs § 1;
+- **2)** Szefa Krajowej Administracji Skarbowej – w przypadku gdy zainteresowany jest stroną zawartej umowy o współdziałanie, o której mowa w art. 20s.
 
 § 10. Dyrektor Krajowej Informacji Skarbowej może zwrócić się do zainteresowanego o wyjaśnienie wątpliwości co do treści wniosku o opinię w sprawie opodatkowania wyrównawczego lub zorganizować spotkanie uzgodnieniowe z zainteresowanym w celu wyjaśnienia tych wątpliwości.
 
@@ -2419,7 +2421,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 § 2. Zwolnienie, o którym mowa w § 1, obejmuje okres do końca roku podatkowego, w którym opublikowano zmienioną interpretację ogólną lub doręczono zmienioną opinię w sprawie opodatkowania wyrównawczego albo doręczono organowi podatkowemu odpis orzeczenia sądu administracyjnego uchylającego opinię w sprawie opodatkowania wyrównawczego ze stwierdzeniem jego prawomocności.
 
-§ 3. Na wniosek podatnika, który zastosował się do opinii w sprawie opodatkowania wyrównawczego, w decyzji określającej wysokość zobowiązania podatkowego organ podatkowy określa również wysokość podatku objętego zwolnieniem, o którym mowa w § 1, a w przypadku uiszczenia podatku w zakresie objętym tym zwolnieniem określa wysokość nadpłaty.
+§ 3. Na wniosek podatnika, który zastosował się do opinii w sprawie opodatkowania wyrównawczego, w decyzji określającej wysokość zobowiązania podatkowego organ podatkowy określa również wysokość podatku objętego zwolnieniem, o którym mowa w § 1, a w przypadku uiszczenia podatku w zakresie objętym tym zwolnieniem – określa wysokość nadpłaty.
 
 § 4. Organ podatkowy informuje podatnika na piśmie o dacie doręczenia odpisu orzeczenia, o którym mowa w § 2, podając jednocześnie informację, z jakim dniem kończy się okres zwolnienia z obowiązku zapłaty podatku wynikającego z opinii w sprawie opodatkowania wyrównawczego uchylonej przez orzeczenie. Art. 14zm. § 1. Przepisów art. 14zj–14zl nie stosuje się, jeżeli czynności będące przedmiotem opinii w sprawie opodatkowania wyrównawczego stanowią element czynności będących przedmiotem decyzji wydanej:
 
@@ -2430,11 +2432,11 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 #### Rozdział 1c Rada do spraw Opodatkowania Wyrównawczego
 
-**Art. 141.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646) w art. 192a wyrazy „do dnia 15 stycznia 2025 r.” zastępuje się wyrazami „do dnia 15 kwietnia 2025 r.”.
+**Art. 141.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646) w art. 192a wyrazy „do dnia 15 stycznia 2025 r.” zastępuje się wyrazami „do dnia 15 kwietnia 2025 r.”.
 
-**Art. 142.** W ustawie z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628, 850 i 879) wprowadza się następujące zmiany:
+**Art. 142.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628, 850 i 879) wprowadza się następujące zmiany:
 
-**Art. 143.** W ustawie z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935) wprowadza się następujące zmiany:
+**Art. 143.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935) wprowadza się następujące zmiany:
 
 **Art. 144.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -2532,8 +2534,8 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 19. Kwota jest uznana za wykazaną w sprawozdaniu finansowym, jeżeli jest wykazana w:
 
-- **1)** kwalifikowanym sprawozdaniu finansowym jednostki składowej w przypadku jednostki objętej wyborem, o którym mowa w ust. 1, albo
-- **2)** sprawozdaniu finansowym stanowiącym podstawę obliczenia kwalifikowanego dochodu (straty) w przypadku jednostki nieobjętej wyborem, o którym mowa w ust. 1.
+- **1)** kwalifikowanym sprawozdaniu finansowym jednostki składowej – w przypadku jednostki objętej wyborem, o którym mowa w ust. 1, albo
+- **2)** sprawozdaniu finansowym stanowiącym podstawę obliczenia kwalifikowanego dochodu (straty) – w przypadku jednostki nieobjętej wyborem, o którym mowa w ust. 1.
 
 20. Wydatek lub strata nie są uznawane za wykazane w sprawozdaniu finansowym jednostki pośredniczącej, jeżeli zostały wykazane w sprawozdaniu finansowym jej właścicieli.
 
@@ -2549,7 +2551,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 1. Jeżeli jednostka, która jest właścicielem innej jednostki składowej będącej zagraniczną jednostką kontrolowaną, jest zlokalizowana w jurysdykcji, w której obowiązuje mieszany system opodatkowania zagranicznych jednostek kontrolowanych, w latach podatkowych rozpoczynających się nie później niż w dniu 31 grudnia 2025 r. i kończących się nie później niż w dniu 30 czerwca 2027 r. takiej jednostce składowej będącej zagraniczną jednostką kontrolowaną przydziela się podatki kwalifikowane w wysokości ustalonej według wzoru: , gdzie:
 
-- **1)** klucz przydziału stanowi wartość obliczoną według wzoru: przypisany dochód zagranicznej jednostki kontrolowanej ∙ (stosowana stawka podatkowa − efektywna stawka podatkowa w kluczu przydziału), gdzie:
+- **1)** klucz przydziału stanowi wartość obliczoną według wzoru: przypisany dochód zagranicznej jednostki kontrolowanej ∙ (stosowana stawka podatkowa− efektywna stawka podatkowa w kluczu przydziału), gdzie:
     - **a)** przypisany dochód zagranicznej jednostki kontrolowanej stanowi tę część dochodu tej jednostki, jaka, zgodnie z przepisami o mieszanym systemie opodatkowania zagranicznych jednostek kontrolowanych, przypada bezpośredniemu lub pośredniemu udziałowcowi lub podobnemu uczestnikowi takiej zagranicznej jednostki kontrolowanej,
     - **b)** efektywna stawka podatkowa w kluczu przydziału stanowi stawkę obliczoną zgodnie z art. 11 ust. 4;
 
@@ -2604,10 +2606,7 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 4. W przypadku gdy jednostka dominująca najwyższego szczebla grupy jest zlokalizowana w jurysdykcji innej niż Rzeczpospolita Polska, oświadczenie, o którym mowa w ust. 1, składają wszystkie jednostki składowe tej grupy zlokalizowane na terytorium Rzeczypospolitej Polskiej i załączają do niego zgodę jednostki dominującej najwyższego szczebla grupy na złożenie takiego oświadczenia wraz z jego tłumaczeniem przysięgłym na język polski. Zgoda, o której mowa w zdaniu pierwszym, wymaga formy aktu notarialnego i może być udzielona przed terminem określonym w ust. 1.
 
-5. Oświadczenie, o którym mowa w ust. 1, składa się do naczelnika urzędu skarbowego właściwego ze względu na siedzibę:
-
-- **1)** jednostki dominującej najwyższego szczebla grupy w przypadku gdy jednostka ta jest zlokalizowana na terytorium Rzeczypospolitej Polskiej;
-- **2)** jednostki składowej w przypadku gdy jednostka dominująca najwyższego szczebla grupy nie jest zlokalizowana na terytorium Rzeczypospolitej Polskiej.
+5. Oświadczenie, o którym mowa w ust. 1, składa się do właściwego naczelnika urzędu skarbowego.
 
 **Art. 155.** W przypadku dokonania wyboru, o którym mowa w art. 154 ust. 1:
 
@@ -2623,30 +2622,30 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **1)** informacji, o której mowa w art. 133 ust. 1, lub zawiadomienia, o którym mowa w art. 129 ust. 4 lub 5 lub art. 133 ust. 7 lub 10, przypada w 2026 r., informację tę lub zawiadomienia te składa się nie wcześniej niż w dniu 1 kwietnia 2026 r.;
 - **2)** zeznania, o którym mowa w art. 134 ust. 1, przypada w 2026 r., zeznanie to składa się i wpłaty podatku wykazanego w tym zeznaniu dokonuje się nie wcześniej niż w dniu 1 lipca 2026 r.
 
-3. Przepisów art. 129 ust. 5, art. 133 ust. 10 i art. 134 ust. 2 nie stosuje się do grupy objętej przepisami obowiązującymi w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, które są równoważne z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej odpowiadają Modelowym zasadom OECD, w odniesieniu do jej roku podatkowego rozpoczynającego się w okresie od dnia 31 grudnia 2023 r. do dnia 31 grudnia 2024 r., jeżeli ta grupa posiadała w tym roku podatkowym jednostki składowe zlokalizowane na terytorium Rzeczypospolitej Polskiej i nie dokonała wyboru, o którym mowa w art. 154 ust. 1.
+3. Przepisów art. 129 ust. 5, art. 133 ust. 10 i art. 134 ust. 2 nie stosuje się do grupy objętej przepisami obowiązującymi w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, które są równoważne z zasadami określonymi w dyrektywie 2022/2523, a w przypadku jurysdykcji innej niż państwo członkowskie Unii Europejskiej – odpowiadają Modelowym zasadom OECD, w odniesieniu do jej roku podatkowego rozpoczynającego się w okresie od dnia 31 grudnia 2023 r. do dnia 31 grudnia 2024 r., jeżeli ta grupa posiadała w tym roku podatkowym jednostki składowe zlokalizowane na terytorium Rzeczypospolitej Polskiej i nie dokonała wyboru, o którym mowa w art. 154 ust. 1.
 
 **Art. 157.**
 
 1. Wartość procentowa stosowana w celu ustalenia substratu majątkowo-osobowego z tytułu kwalifikowanych kosztów płac, o której mowa w art. 101 ust. 3, wynosi, dla roku podatkowego rozpoczynającego się po dniu:
 
-- **1)** 31 grudnia 2024 r. 9,6 %;
-- **2)** 31 grudnia 2025 r. 9,4 %;
-- **3)** 31 grudnia 2026 r. 9,2 %;
-- **4)** 31 grudnia 2027 r. 9,0 %;
-- **5)** 31 grudnia 2028 r. 8,2 %;
-- **6)** 31 grudnia 2029 r. 7,4 %;
-- **7)** 31 grudnia 2030 r. 6,6 %;
-- **8)** 31 grudnia 2031 r. i nie później niż do dnia 31 grudnia 2032 r. 5,8 %.
+- **1)** 31 grudnia 2024 r. – 9,6 %;
+- **2)** 31 grudnia 2025 r. – 9,4 %;
+- **3)** 31 grudnia 2026 r. – 9,2 %;
+- **4)** 31 grudnia 2027 r. – 9,0 %;
+- **5)** 31 grudnia 2028 r. – 8,2 %;
+- **6)** 31 grudnia 2029 r. – 7,4 %;
+- **7)** 31 grudnia 2030 r. – 6,6 %;
+- **8)** 31 grudnia 2031 r. i nie później niż do dnia 31 grudnia 2032 r. – 5,8 %.
 
 2. Wartość procentowa stosowana w celu ustalenia substratu majątkowo-osobowego z tytułu kwalifikowanych rzeczowych aktywów trwałych, o której mowa w art. 101 ust. 5, wynosi, dla roku podatkowego rozpoczynającego się po dniu:
 
-- **1)** 31 grudnia 2024 r. 7,6 %;
-- **2)** 31 grudnia 2025 r. 7,4 %;
-- **3)** 31 grudnia 2026 r. 7,2 %;
-- **4)** 31 grudnia 2027 r. 7,0 %;
-- **5)** 31 grudnia 2028 r. 6,6 %;
-- **6)** 31 grudnia 2029 r. 6,2 %;
-- **7)** 31 grudnia 2030 r. 5,8 %;
+- **1)** 31 grudnia 2024 r. – 7,6 %;
+- **2)** 31 grudnia 2025 r. – 7,4 %;
+- **3)** 31 grudnia 2026 r. – 7,2 %;
+- **4)** 31 grudnia 2027 r. – 7,0 %;
+- **5)** 31 grudnia 2028 r. – 6,6 %;
+- **6)** 31 grudnia 2029 r. – 6,2 %;
+- **7)** 31 grudnia 2030 r. – 5,8 %;
 - **8)** 31 grudnia 2031 r. i nie później niż do dnia 31 grudnia 2032 r.– 5,4 %.
 
 **Art. 158.** Jeżeli grupa dokonała restrukturyzacji w rozumieniu przepisów działu VIII w okresie 4 lat poprzedzających dzień wejścia w życie ustawy, minimalny przychód grupowy, o którym mowa w art. 4, ustala się zgodnie z przepisami działu I rozdziału 2.
@@ -2674,21 +2673,21 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 1. W latach 2024–2034 maksymalny limit wydatków budżetu państwa przeznaczonych na wykonanie zadań związanych z wdrożeniem i realizacją rozwiązań, o których mowa w ustawie, wynosi 366 940 000 zł, w tym w:
 
-- **1)** 2024 r. 1 870 000 zł;
-- **2)** 2025 r. 41 650 000 zł;
-- **3)** 2026 r. 29 520 000 zł;
-- **4)** 2027 r. 30 900 000 zł;
-- **5)** 2028 r. 30 870 000 zł;
-- **6)** 2029 r. 40 930 000 zł;
-- **7)** 2030 r. 34 370 000 zł;
-- **8)** 2031 r. 35 840 000 zł;
-- **9)** 2032 r. 43 220 000 zł;
-- **10)** 2033 r. 37 070 000 zł;
-- **11)** 2034 r. 40 700 000 zł.
+- **1)** 2024 r. – 1 870 000 zł;
+- **2)** 2025 r. – 41 650 000 zł;
+- **3)** 2026 r. – 29 520 000 zł;
+- **4)** 2027 r. – 30 900 000 zł;
+- **5)** 2028 r. – 30 870 000 zł;
+- **6)** 2029 r. – 40 930 000 zł;
+- **7)** 2030 r. – 34 370 000 zł;
+- **8)** 2031 r. – 35 840 000 zł;
+- **9)** 2032 r. – 43 220 000 zł;
+- **10)** 2033 r. – 37 070 000 zł;
+- **11)** 2034 r. – 40 700 000 zł.
 
 2. W przypadku zagrożenia przekroczeniem albo przekroczenia przyjętych na dany rok budżetowy maksymalnych limitów wydatków, o których mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na obniżeniu wydatków związanych z realizacją zadań związanych z wdrożeniem i realizacją rozwiązań, o których mowa w ustawie.
 
 3. Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw finansów publicznych.
 
-**Art. 164.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem art. 140 pkt 4 w zakresie art. 14zq § 5 oraz art. 145 pkt 1–3, 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 164.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem art. 140 pkt 4 w zakresie art. 14zq § 5 oraz art. 145 pkt 1–3, 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
 

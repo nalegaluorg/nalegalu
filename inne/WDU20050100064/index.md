@@ -8,9 +8,12 @@ pos: 64
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 18 listopada 2004 r. o zmianie ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz o zmianie innych ustaw
+# zmianie ustawy utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz zmianie innych ustaw
+
+*USTAWA z dnia 18 listopada 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +27,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050100064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/64/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 29 grudnia 1993 outworzeniu Agencji Restrukturyzacji Modernizacji Rolnictwa (Dz. U. 1994 1, 2, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** ustawie z dnia 29 grudnia 1993 r. utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz.U. z 1994 r. Nr 1, poz. 2, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** Wustawie zdnia 19 lutego 2004 oorganizacji rynku przetworów owocowych iwarzywnych (Dz. U. 62, 572) wart. 2 wust. 1 uchyla się pkt 6. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 65 USTAWA dnia 16 grudnia 2004 zmianie ustawy zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin niektórych innych ustaw
+**Art. 11c.** Należności ustalane drodze decyzji administracyjnej lub wierzytelności wynikające z umów cywilnoprawnych z tytułów płatności określonych odrębnych przepisach, realizowanych przez Agencję ze środków Europejskiego Funduszu Orientacji i Gwarancji oraz środków krajowych przeznaczonych na współfinansowanie, nie podlegają zajęciu na podstawie przepisów ustawy Kodeks postępowania cywilnego oraz przepisów postępowaniu egzekucyjnym administracji.”.
 
-**Art. 1.** W dnia grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin (Dz. U. 2004 8, 66, 121, rodzin (Dz. U. 2002 9, 87, póên. zm. poz.1264 191, 1954) wart. 24 wprowadza się następujące zmiany:
+**Art. 2.** ustawie z dnia 28 listopada 2003 r. wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji (Dz.U. Nr 229, poz. 2273 oraz z 2004 r. Nr 42, poz. 386, Nr 148, poz. 1551 i Nr 162, poz. 1709) art. 5 ust. 2 otrzymuje brzmienie: „2. Pomoc, której mowa art. 1 ust. 1 pkt 1-7, jest udzielana, wstrzymywana, zawieszana lub zmniejszana drodze decyzji administracyjnej kierownika jednostki organizacyjnej Agencji, a pomoc, której mowa art. 1 ust. 1 pkt 8 - na podstawie umowy cywilnoprawnej.”.
 
-**Art. 2.** W dnia 29 maja 1974 zaopatrzeniu inwalidów wojennych wojskowych ich ) art. 44 otrzymuje brzmienie: ŃArt. 44. 1. Członkami rodziny uprawnionymi do świadczeń są: dzieci, wnuki, rodzeństwo, małżonek rodzice, jeżeli spełniają warunki wymagane do uzyskania renty rodzinnej myśl przepisów emeryturach rentach Funduszu Ubezpieczeń Społecznych, zastrzeżeniem ust. 2. 2. W razie śmierci albo zaginięcia żołnierza czasie wykonywania zadań służbowych poza granicami państwa, związanych realizacją celów, których mowa wart. 2 pkt 1 ustawy zdnia 17 grudnia 1998 zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. 162, 1117 2004 210, 2135), albo jeżeli śmierć żołnierza pozostająca związku ze służbą jest następstwem czynu karalnego, renta rodzinna przysługuje małżonkowi bez względu na wiek stan zdrowia.”.
+**Art. 3.** ustawie z dnia 19 grudnia 2003 r. organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz.U. Nr 223, poz. 2221 oraz z 2004 r. Nr 42, poz. 386 i Nr 96, poz. 959) art. 9 ust. 1 uchyla się pkt 9.
 
-**Art. 3.** Wustawie zdnia 18 lutego 1994 ozaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej ich rodzin (Dz. U. 2004 8, 67, 121, 1264 iNr 191, 1954) wart.24 wprowadza się następu——————— jące zmiany:
+**Art. 4.** ustawie z dnia 19 lutego 2004 r. organizacji rynku przetworów owocowych i warzywnych (Dz.U. Nr 62, poz. 572) art. 2 ust. 1 uchyla się pkt 6.
+
+**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

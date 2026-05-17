@@ -8,9 +8,12 @@ pos: 1123
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 czerwca 2023 r.
+# o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+
+*USTAWA z dnia 26 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-08-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1123/text.pdf) |
 
-USTAWA z dnia 26 maja 2023 r.
-o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, 919, 1053 i 1088) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, 919, 1053 i 1088) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201 oraz z 2023 r. poz. 760 i 919) wprowadza się następujące zmiany:
 
@@ -35,25 +35,15 @@ o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 **Art. 4.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57) po art. 4 dodaje się art. 4a i art. 4b brzmieniu: „Art. 4a. 1. Minister właściwy do spraw informatyzacji może realizować swoje zadania przy pomocy instytucji gospodarki budżetowej, wobec której wykonuje funkcje organu założycielskiego. 2. Realizacja zadań, o których mowa ust. 1, może być finansowana ze środków określonych w:
 
-**Art. 4b.**
-
-1. Minister właściwy do spraw informatyzacji może upoważnić do wykonywania zadań jego imieniu dyrektora instytucji, o której mowa art. 4a ust. 1.
-
-2. Upoważnienie, o którym mowa ust. 1, obejmuje uprawnienie do udzielania dalszych upoważnień osobom zatrudnionym tej instytucji.
-
-3. Upoważnienie, o którym mowa ust. 1 i 2, jest udzielane na piśmie drodze imiennego upoważnienia lub upoważnienia stanowiskowego.
-
-4. W przypadku wątpliwości co do udzielenia upoważnienia, o którym mowa ust. 1 i 2, lub jego zakresu minister właściwy do spraw informatyzacji może potwierdzić ważność podjętych czynności.”.
-
 **Art. 5.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2023 r. poz. 622) wprowadza się następujące zmiany:
 
 **Art. 6.** W ustawie z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2022 r. poz. 2147) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 9 maja 2018 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957, z 2019 r. poz. 730, z 2020 r. poz. 1517, z 2021 r. poz. 1997 i 2328 oraz z 2022 r. poz. 1002) po art. 13 dodaje się art. 13a i art. 13b brzmieniu: „Art. 13a. 1. W okresie od dnia wdrożenia rozwiązań technicznych umożliwiających funkcjonowanie profilu kandydata na kierowcę i profilu kierowcy zawodowego systemie teleinformatycznym obsługującym centralną ewidencję kierowców określonego komunikacie, o którym mowa ust. 2, do dnia wdrożenia rozwiązań technicznych umożliwiających wprowadzanie, przekazywanie, gromadzenie i udostępnianie na zasadach określonych art. 100aa‒100aq ustawy zmienianej art. 1, określonego komunikacie, o którym mowa art. 13 ust. 1:
+**Art. 7.** W ustawie z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957, z 2019 r. poz. 730, z 2020 r. poz. 1517, z 2021 r. poz. 1997 i 2328 oraz z 2022 r. poz. 1002) po art. 13 dodaje się art. 13a i art. 13b brzmieniu: „Art. 13a. 1. W okresie od dnia wdrożenia rozwiązań technicznych umożliwiających funkcjonowanie profilu kandydata na kierowcę i profilu kierowcy zawodowego systemie teleinformatycznym obsługującym centralną ewidencję kierowców określonego komunikacie, o którym mowa ust. 2, do dnia wdrożenia rozwiązań technicznych umożliwiających wprowadzanie, przekazywanie, gromadzenie i udostępnianie na zasadach określonych art. 100aa‒100aq ustawy zmienianej art. 1, określonego komunikacie, o którym mowa art. 13 ust. 1:
 
 **Art. 13b.** Organy właściwe sprawach wydawania uprawnień do kierowania pojazdami do dnia wskazanego komunikacie, o którym mowa art. 13 ust. 1, przekazują do centralnej ewidencji kierowców dane i informacje zgromadzone wygenerowanych profilach kandydata na kierowcę oraz profilach kierowcy zawodowego i nieprzekazane na podstawie art. 13a ust. 3, za pośrednictwem systemu teleinformatycznego wytwórcy praw jazdy, kart kwalifikacji kierowcy i pozwoleń na kierowanie tramwajem, o którym mowa art. 16a ustawy zmienianej art. 2.”.
 
-**Art. 8.** W ustawie z dnia 2 grudnia 2021 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 2328 oraz z 2022 r. poz. 1002 i 1715) art. 17:
+**Art. 8.** W ustawie z dnia 2 grudnia 2021 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 2328 oraz z 2022 r. poz. 1002 i 1715) art. 17:
 
 **Art. 9.** Do pobierania, przekazywania lub uiszczania opłat ewidencyjnych, o których mowa art. 80d ust. 4 pkt 2–4a ustawy zmienianej art. 1 brzmieniu dotychczasowym, oraz odsetek za zwłokę, o których mowa art. 80d ust. 3b ustawy zmienianej art. 1 brzmieniu dotychczasowym, należnych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
@@ -82,7 +72,7 @@ o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 **Art. 15.**
 
-1. Przedsiębiorcy posiadający licencje, o których mowa art. 5b ust. 1 pkt 1 i 2 ustawy zmienianej art. 2, spełniający dniu wejścia życie ustawy wymagania określone art. 5c ust. 1 pkt 4 i 6 oraz art. 8 ust. 3 pkt 3a ustawy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą, mogą prowadzić działalność do upływu okresu, na który zostały udzielone licencje. dniu wejścia życie ustawy wymagania określone art. 6 ust. 1 pkt 2 oraz art. 8 ust. 3 pkt 3a ustawy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą, mogą prowadzić działalność do upływu okresu, na który zostały udzielone licencje.
+1. Przedsiębiorcy posiadający licencje, o których mowa art. 5b ust. 1 pkt 1 i 2 ustawy zmienianej art. 2, spełniający dniu wejścia życie ustawy wymagania określone art. 5c ust. 1 pkt 4 i 6 oraz art. 8 ust. 3 pkt 3a ustawy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą, mogą prowadzić działalność do upływu okresu, na który zostały udzielone licencje. brzmieniu nadanym niniejszą ustawą, mogą prowadzić działalność do upływu okresu, na który zostały udzielone licencje.
 
 **Art. 16.** Do postępowań administracyjnych sprawie nałożenia kary pieniężnej, o której mowa art. 92a ust. 1 ustawy zmienianej art. 2, na podmiot wykonujący przewóz drogowy lub inne czynności związane z tym przewozem wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

@@ -8,9 +8,12 @@ pos: 524
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 kwietnia 2025 r.
+# o ratyfikacji Poprawek do Konwencji o pracy na morzu, przyjętej w Genewie dnia 23 lutego 2006 r., zatwierdzonych przez Międzynarodową Konferencję Pracy w Genewie w dniu 6 czerwca 2022 r.
+
+*USTAWA z dnia 20 marca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +27,7 @@ domain: null
 | Ostatnia zmiana | 2025-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000524) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/524/text.pdf) |
 
-Poz. 524
-USTAWA z dnia 20 marca 2025 r.
-o ratyfikacji Poprawek do Konwencji o pracy na morzu, przyjętej w Genewie dnia 23 lutego 2006 r., zatwierdzonych przez Międzynarodową Konferencję Pracy w Genewie w dniu 6 czerwca 2022 r.
-
 **Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Poprawek do Konwencji o pracy na morzu, przyjętej w Genewie dnia 23 lutego 2006 r., zatwierdzonych przez Międzynarodową Konferencję Pracy w Genewie w dniu 6 czerwca 2022 r.
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

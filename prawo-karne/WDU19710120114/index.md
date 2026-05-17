@@ -8,6 +8,7 @@ pos: 114
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # Kodeks wykroczeń
@@ -23,7 +24,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1971-05-20 |
 | Data wydania | 1971-05-31 |
-| Ostatnia zmiana | 2026-03-09 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710120114) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1971/114/text.pdf) |
 
 ## CZĘŚĆ OGÓLNA
@@ -1136,7 +1137,9 @@ domain: null
 
 - **3)** Kto, zajmując się zawodowo świadczeniem usług, żąda i pobiera za świadczenie zapłatę wyższą od obowiązującej albo umyślnie bez uzasadnionej przyczyny odmawia świadczenia, do którego jest obowiązany, podlega karze grzywny.
 
-**Art. 138a.** (uchylony) [Art. 138b. § 1. Kto, będąc zobowiązany na mocy orzeczenia sądu do zaniechania wykorzystywania lub do odwołania zalecenia stosowania ogólnych warunków umów albo wzoru umowy, nie stosuje się do tego obowiązku, zawierając w umowie niedozwolone postanowienia umowne, podlega karze grzywny.
+**Art. 138a.** (uchylony)
+
+**Art. 138b.** (uchylony)
 
 **Art. 138c.**
 

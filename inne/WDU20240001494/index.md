@@ -8,9 +8,12 @@ pos: 1494
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 października 2024 r.
+# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
+
+*USTAWA z dnia 25 września 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +26,6 @@ domain: null
 | Data wydania | 2024-10-08 |
 | Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1494/text.pdf) |
-
-Poz. 1494
-USTAWA z dnia 25 września 2024 r.
-o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i 1165) w art. 6bb uchyla się ust. 2.
 
@@ -50,11 +49,11 @@ o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób
 
 1. Do osób niepełnosprawnych, o których mowa w art. 6bb ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, które ukończyły 16 rok życia po dniu 30 września 2024 r. stosuje się art. 6bb ust. 1 ustawy zmienianej w art. 1.
 
-2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, dotyczących wniosków osób niepełnosprawnych, o których mowa w art. 6bb ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, dotyczących wydania orzeczenia o stopniu niepełnosprawności, stosuje się art. 6bb ust. 1 ustawy zmienianej w art. 1. Dziennik Ustaw – 2 – Poz. 1494
+2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, dotyczących wniosków osób niepełnosprawnych, o których mowa w art. 6bb ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, dotyczących wydania orzeczenia o stopniu niepełnosprawności, stosuje się art. 6bb ust. 1 ustawy zmienianej w art. 1.
 
 3. Osobom niepełnosprawnym, o których mowa w ust. 1 i 2, przewodniczący powiatowego zespołu do spraw orzekania o niepełnosprawności wydaje zaświadczenie określające nowy termin ważności dotychczasowego orzeczenia o niepełnosprawności, uwzględniając przepisy art. 6bb ust. 1 ustawy zmienianej w art. 1.
 
 **Art. 5.** W decyzjach, o których mowa w art. 6b ust. 1 ustawy zmienianej w art. 1, wydanych w wyniku rozpatrzenia wniosków złożonych w okresie od dnia 1 stycznia 2025 r. do dnia 31 grudnia 2025 r., poziom potrzeby wsparcia, o którym mowa w art. 4b ust. 3 ustawy zmienianej w art. 1, ustala się od dnia złożenia wniosku.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 1 i art. 4, które wchodzą w życie z dniem ogłoszenia, z mocą od dnia 30 września 2024 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 6.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 1 i art. 4, które wchodzą w życie z dniem ogłoszenia, z mocą od dnia 30 września 2024 r.
 

@@ -8,11 +8,12 @@ pos: 931
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Przepisy ogólne
+# Przepisy wprowadzające Kodeks karny skarbowy
 
-*USTAWA dnia 10 1999 Przepisy Kodeks karny skarbowy.*
+*USTAWA z dnia 10 września 1999 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,136 +27,140 @@ domain: null
 | Ostatnia zmiana | 2024-10-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990830931) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/931/text.pdf) |
 
-**Art. 1.** Kodeks karny skarbowy wchodzi dniem 17 1999
+#### Rozdział I Przepisy ogólne
 
-**Art. 2.** Traci moc ustawa karna skarbowa dnia 26 1971 (Dz. U. 1984 22, 103, 1985 23, 100, 1990 14, 84 86, 503, 1991 100, 442 107, 458, 1992 21, 85 68, 341, 1994 43, 160, 126, 615 136, 703, 1995 132, 641, 1996 132, 621, 137, 640 152, 720, 1997 71, 449, 79, 485, 102, 643, 121, 770, 137, 926,i 141, 945 oraz 1998 108, 682 160, 1063).
+**Art. 1.** Kodeks karny skarbowy wchodzi życie z dniem 17 października 1999 r.
+
+**Art. 2.** Traci moc ustawa karna skarbowa z dnia 26 października 1971 r. (Dz.U. z 1984 r. Nr 22, poz. 103, z 1985 r. Nr 23, poz. 100, z 1990 r. Nr 14, poz. 84 i Nr 86, poz. 503, z 1991 r. Nr 100, poz. 442 i Nr 107, poz. 458, z 1992 r. Nr 21, poz. 85 i Nr 68, poz. 341, z 1994 r. Nr 43, poz. 160, Nr 126, poz. 615 i Nr 136, poz. 703, z 1995 r. Nr 132, poz. 641, z 1996 r. Nr 132, poz. 621, Nr 137, poz. 640 i Nr 152, poz. 720, z 1997 r. Nr 71, poz. 449, Nr 79, poz. 485, Nr 102, poz. 643, Nr 121, poz. 770, Nr 137, poz. 926 i Nr 141, poz. 945 oraz z 1998 r. Nr 108, poz. 682 i Nr 160, poz. 1063).
 
 **Art. 3.**
 
-1. Uchyla art. 20-25 ustawy dnia 2 grudnia 1993 oznaczaniu wyrobów znakami skar bowymi akcyzy (Dz. U. 127, 584 oraz 1997 88, 554 121, 770).
+1. Uchyla się 20-25 ustawy z dnia 2 grudnia 1993 r. o oznaczaniu wyrobów znakami skarbowymi akcyzy (Dz.U. Nr 127, poz. 584 oraz z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770).
 
-2. Uchyla art. 19 ustawy dnia 2 grudnia 1993 zasadach szczególnej kontroli obrotu to warami technologiami porozumieniami (Dz. U. 129, 598, 1996 106, 496, 1997 88, 554 157, 1026 oraz 1999 70, 775).
+2. Uchyla się 19 ustawy z dnia 2 grudnia 1993 r. o zasadach szczególnej kontroli obrotu z zagranicą towarami i technologiami związku z porozumieniami i zobowiązaniami międzynarodowymi (Dz.U. Nr 129, poz. 598, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554 i Nr 157, poz. 1026 oraz z 1999 r. Nr 70, poz. 775).
 
-3. Uchyla art. 77 ust. ustawy dnia 29 wrze 1994 (Dz. U. 121, 591, 1997 32, 183, 43, 272, 88, 554, 141, 945, 1998 60, 382, 106, 668, 107, 669 155, 1014 oraz 1999 9, 75).
+3. Uchyla się 77 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz.U. Nr 121, poz. 591, z 1997 r. Nr 32, poz. 183, Nr 43, poz. 272, Nr 88, poz. 554, Nr 118, poz. 754, Nr 139, poz. 933 i 934, Nr 140, poz. 939 i Nr 141, poz. 945, z 1998 r. Nr 60, poz. 382, Nr 106, poz. 668, Nr 107, poz. 669 i Nr 155, poz. 1014 oraz z 1999 r. Nr 9, poz. 75). 702, z 1997 r. Nr 88, poz. 554 i z 1998 r. Nr 162, poz. 1118).
 
-4. Uchyla art. 16 17 ustawy dnia 13 dziernika 1995 zasadach ewidencji identyfikacji podatników (Dz. U. 142, 702, 1997 88, 554 1998 162, 1118). 2 Zmiany przepisach
+#### Rozdział 2 Zmiany przepisach obowiązujących
 
 **Art. 4.**
 
-1. W ustawie dnia 20 maja 1971 Ko deks (Dz. U. 12, 114, 1981 24, 124, 1982 16, 125, 1983 6, 35 44, 203, 1984 54, 275, 1985 14, 60 23, 100, 1986 39, 193, 1988 20, 135 41, 324, 1989 34, 180, 1990 51, 297, 72, 422 86, 504, 1991 75, 332 91, 408, 1992 24, 101, 1994 123, 600, 1995 6, 29, 60, 310 95, 475, 1997 54, 349, 60, 369, 85, 539, 98, 602, 104, 661, 106, 677, 111, 724, 123, 779, 133, 884 141, 942 oraz 1998 113,
+1. W ustawie z dnia 20 maja 1971 r. Kodeks wykroczeń (Dz. Nr 12, poz. 114, z 1981 r. Nr 24, poz. 124, z 1982 r. Nr 16, poz. 125, z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203, z 1984 r. Nr 54, poz. 275, z 1985 r. Nr 14, poz. 60 i Nr 23, poz. 100, z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135 i Nr 41, poz. 324, z 1989 r. Nr 34, poz. 180, z 1990 r. Nr 51, poz. 297, Nr 72, poz. 422 i Nr 86, poz. 504, z 1991 r. Nr 75, poz. 332 i Nr 91, poz. 408, z 1992 r. Nr 24, poz. 101, z 1994 r. Nr 123, poz. 600, z 1995 r. Nr 6, poz. 29, Nr 60, poz. 310 i Nr 95, poz. 475, z 1997 r. Nr 54, poz. 349, Nr 60 poz. 369, Nr 85, poz. 539, Nr 98, poz. 602, Nr 104, poz. 661, Nr 106, poz. 677, Nr 111, poz. 724, Nr 123, poz. 779, Nr 133, poz. 884 i Nr 141, poz. 942 oraz z 1998 r. Nr 113, poz. 717):
 
-- **2)** wart. 57 wart. 105 wyrazy stwo lub wykroczenie" wyrazami tym skarbowe, wykroczenie lub wykroczenie skarbowe".
+- **1)** 52a pkt 1 po wyrazie „przestępstwa” dodaje się przecinek i wyrazy „w tym i przestępstwa skarbowego”,
+- **2)** 57 1 i 105 1 wyrazy „przestępstwo lub wykroczenie” zastępuje się wyrazami „przestępstwo, tym i przestępstwo skarbowe, wykroczenie lub wykroczenie skarbowe”.
 
-2. W ustawie dnia 6 lipca 1982 radcach praw nych (Dz. U. 19, 145, 1989 33, 175, 1996 106, 496, 1997 75, 471, 1998 106, 668 oraz 1999 75, 853) wart. 4 ust. zdanie drugie otrzymuje brzmienie: to nie obejmuje sprawach karnych charakterze powoda cywilnego, je to instytucje lub albo oraz charakterze interwenienta podmiotu tego do sprawach skarbowe wykroczenia skarbowe."
+2. W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz.U. Nr 19, poz. 145, z 1989 r. Nr 33, poz. 175, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 75, poz. 471, z 1998 r. Nr 106, poz. 668 oraz z 1999 r. Nr 75, poz. 853) 4 ust. 1 zdanie drugie otrzymuje brzmienie: „Wyłączenie to nie obejmuje występowania sprawach karnych charakterze pełnomocnika oskarżyciela posiłkowego i powoda cywilnego, jeżeli są to instytucje państwowe lub społeczne albo przedsiębiorcy, oraz występowania charakterze pełnomocnika interwenienta i podmiotu pociągniętego do odpowiedzialności posiłkowej sprawach o przestępstwa skarbowe i wykroczenia skarbowe.”.
 
-3. W ustawie dnia 26 1982 posprawach nieletnich (Dz. U. 35, 228, 1992 24, 101, 1995 89, 443 1998 106, 668):
+3. W ustawie z dnia 26 października 1982 r. o postępowaniu sprawach nieletnich (Dz.U. Nr 35, poz. 228, z 1992 r. Nr 24, poz. 101, z 1995 r. Nr 89, poz. 443 i z 1998 r. Nr 106, poz. 668):
 
-- **1)** wart. 14 wyrazach "Kodeksu karnego" dodaje przecinek wyrazy "Kodeksu karnego skarbowego",
-- **2)** art. 30 5 wyrazy "organu finansowego, okre ustawie karnej skarbowej" wyrazami "finansowego organu dochodzenia, Kodeksie karnym skarbowym",
-- **3)** wart. 69 wart. 100 wyrazie "karnego" dodaje wyrazy ulub art. 5 2 Ko deksu karnego skarbowego",
-- **4)** wart. 73 wyrazie "karnego" dodaje wy razy "lub art. 5 2 Kodeksu karnego skarbowego",
-- **5)** wart. 99 pkt 2 wyrazy "ustawy karnej skar bowej przed wyrazami "Kodeksu karnego skarbowego".
+- **1)** 14 po wyrazach „Kodeksu karnego” dodaje się przecinek i wyrazy „Kodeksu karnego skarbowego”,
+- **2)** 30 5 wyrazy „organu finansowego, określonego ustawie karnej skarbowej” zastępuje się wyrazami „finansowego organu dochodzenia, określonego Kodeksie karnym skarbowym”,
+- **3)** 69 1 i 100 po wyrazie „karnego” skreśla się kropkę i dodaje wyrazy „lub 5 2 Kodeksu karnego skarbowego”,
+- **5)** 99 1 pkt 2 wyrazy „ustawy karnej skarbowej o postępowaniu przed sądem” zastępuje się wyrazami „Kodeksu karnego skarbowego”.
 
-4. W ustawie dnia 20 czerwca 1985 Prawo ustroju powszechnych (Dz. U. 1994 7, 25, Nr77, 355, Nr91, 421 105, 509, 1995 34, 163 81, 406, 1996 77, 367, 1997 75, 471, 98, 604, 106, 679, 117, 751-753, 121, 769, 124, 782 133, 882, 1998 98, 607, 160, 1064 162, 1118 1125 oraz 1999 20, 180, 60, f oz. 636 75, 853) art. 16 dodaje art. 16 brzmieniu: "Art. 16 1. Minister drodze siedzibie rejonowego lub za a lub zamiejscowe rejo nowych do rozpoznawania spraw:
+4. W ustawie z dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych (Dz.U. z 1994 r. Nr 7, poz. 25, Nr 77, poz. 355, Nr 91, poz. 421 i Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163 i Nr 81, poz. 406, z 1996 r. Nr 77, poz. 367, z 1997 r. Nr 75, poz. 471, Nr 98, poz. 604, Nr 106, poz. 679, Nr 117, poz. 751-753, Nr 121, poz. 769, Nr 124, poz. 782 i Nr 133, poz. 882, z 1998 r. Nr 98, poz. 607, Nr 160, poz. 1064 i Nr 162, poz. 1118 i 1125 oraz z 1999 r. Nr 20, poz. 180 i Nr 60, poz. 636 i Nr 75, poz.
 
-- **1)** wykroczenia skarbowe,
-- **2)** skarbowe zagro rejonowego."
+- **853)** po 16 dodaje się 16 brzmieniu: „Art. 16 . 1. Minister Sprawiedliwości może, drodze rozporządzenia, tworzyć siedzibie sądu rejonowego lub poza nią, a także znosić, wydziały lub wydziały zamiejscowe sądów rejonowych do rozpoznawania spraw:
+- **1)** o wykroczenia skarbowe,
+- **2)** o przestępstwa skarbowe zagrożone:
+    - **a)** karą grzywny,
+    - **b)** karą ograniczenia wolności albo karą pozbawienia wolności do lat 2.
 
-5. W ustawie dnia 28 1991 kontro li skarbowej (Dz. U. 1999 54, 572) wart. 36 ust. 3 pkt 3 otrzymuje brzmienie: ,,3) skarbowych, na uszczupleniu na publicznoprawnej albo gdy przedmiotu czynu zabronionego jest
+2. W rozporządzeniu określa się obszar właściwości wydzielony z obszaru właściwości sądu rejonowego.”.
 
-6. W ustawie dnia 6 czerwca 1997 Kodeks karny (Dz. U. 88, 553 128, 840 oraz 1999 64, 729):
+5. W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz.U. z 1999 r. Nr 54, poz. 572) 36 ust. 3 pkt 3 otrzymuje brzmienie: „3) skarbowych, polegających na uszczupleniu należności publicznoprawnej dużej wartości albo gdy wartość przedmiotu czynu zabronionego jest duża”.
 
-- **1)** art. 234 otrzymuje brzmienie: "Art. 234. Kto, przed organem do gania lub orzekania sprawach prze tym skarbo we, wykroczenie, wykroczenie skarbowe lub przewinienie dyscyplinarne, wie tych czynów zabronionych lub przewi nienia dyscyplinarnego, podlega grzyw nie, karze ograniczenia albo pozbawienia do lat 2.",
-- **2)** art. 235 wyrazy wykroczenie" za wyrazami tym prze skarbowe, wykroczenie, wykroczenie skarbowe",
-- **3)** art. 236 wyrazy wykrocze nia" wyrazami tym skarbowego, wykroczenia, wykro czenia skarbowego",
-- **4)** art. 238 wyrazie dodaje prze cinek wyrazy "Iub skarbowym",
-- **5)** art. 239 dwukrotnie wyrazie stwa" dodaje przecinek wyrazy "w tym prze skarbowego",
-- **6)** art. 255 wyrazie przecinek dodaje wyrazy "Iub skarbowego" ,
-- **7)** art. 258 wyrazie dodaje wyrazy "w tym skarbowych",
-- **8)** art. 259 wyrazie puje przecinkiem dodaje wyrazy "w tym skarbowego",
-- **9)** art. 314 wyrazie przecinek wyrazy "uiszczenie skarbowej".
+6. W ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz.U. Nr 88, poz. 553 i Nr 128, poz. 840 oraz z 1999 r. Nr 64, poz. 729):
 
-7. W ustawie dnia 6 czerwca 1997 Kodeks karnego (Dz. U. 89, 555):
+- **1)** 234 otrzymuje brzmienie: „Art. 234. Kto, przed organem powo łanym do ścigania lub orzekania sprawach o przestępstwo, tym i przestępstwo skarbowe, wykroczenie, wykroczenie skarbowe lub przewinienie dyscyplinarne, fałszywie oskarża inną osobę o popełnienie tych czynów zabronionych lub przewinienia dyscyplinarnego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.”,
+- **2)** 235 wyrazy „przestępstwo, wykroczenie” zastępuje się wyrazami „przestępstwo, tym i przestępstwo skarbowe, wykroczenie, wykroczenie skarbowe”, wykroczenia, wykroczenia skarbowego”,
+- **4)** 238 po wyrazie „przestępstwie” dodaje się przecinek i wyrazy „lub o przestępstwie skarbowym”,
+- **5)** 239 1 dwukrotnie po wyrazie „przestępstwa” dodaje się przecinek i wyrazy „w tym i przestępstwa skarbowego”,
+- **6)** 255 1 po wyrazie „występku” skreśla się przecinek i dodaje się wyrazy „lub przestępstwa skarbowego”,
+- **7)** 258 1 po wyrazie „przestępstw” dodaje się wyrazy „w tym i przestępstw skarbowych”,
+- **8)** 259 po wyrazie „przestępstwa” kropkę zastępuje się przecinkiem i dodaje się wyrazy „w tym i przestępstwa skarbowego”,
+- **9)** 314 po wyrazie „upoważnienie” skreśla się przecinek i wyrazy „uiszczenie opłaty skarbowej”.
 
-- **1)** wart. 183 wyrazy lub wykro czenie" wyrazami " skarbowe, wykroczenie lub wykro czenie skarbowe",
-- **2)** art. 213 2 wyrazie "karnego" przecinek dodaje wyrazy "albo skar bowe warunkach art. 37 pkt 4 Kodeksu karne go skarbowego",
-- **3)** art. 296 wyrazy "organów kontroli finansowej, je organy te wyrazami "finansowych organów dochodzenia, je organy te skarbowe lub wykroczenie skarbowe",
+7. W ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz.U. Nr 89, poz. 555):
 
-3. Po uprawomocnieniu postanowienia umorzeniu przygotowawcze go prokurator, razie istnienia podstaw okre wart. 99 1, art. 100 Kodeksu karne go lub wart. 43 2 oraz art. 47 3 Kodek su karnego skarbowego, do wnioskiem orzeczenie, za przepadku przedmiotów.",
+- **1)** 183 1 wyrazy „przestępstwo lub wykroczenie” zastępuje się wyrazami „przestępstwo, przestępstwo skarbowe, wykroczenie lub wykroczenie skarbowe”,
+- **2)** 213 2 po wyrazie „karnego” skreśla się przecinek i dodaje wyrazy „albo przestępstwo skarbowe warunkach 37 1 pkt 4 Kodeksu karnego skarbowego”,
+- **3)** 296 wyrazy „organów kontroli finansowej, jeżeli organy te ujawniły przestępstwo” zastępuje się wyrazami „finansowych organów dochodzenia, jeżeli organy te ujawniły przestępstwo, przestępstwo skarbowe lub wykroczenie skarbowe”,
+- **4)** 312 pkt 1 wyrazy „kontroli finansowej” zastępuje się wyrazami „finansowym organom dochodzenia”,
+- **5)** 323 3 otrzymuje brzmienie: „§3. Po uprawomocnieniu się postanowienia o umorzeniu postępowania przygotowawczego prokurator, razie istnienia podstaw określonych 99 1, 100 Kodeksu karnego lub 43 1 i 2 oraz 47 3 Kodeksu karnego skarbowego, występuje do sądu z wnioskiem o orzeczenie, tytułem środka zabezpieczającego, przepadku przedmiotów.”,
+- **6)** 332 1 pkt 3 skreśla się przecinek i dodaje wyrazy „albo 37 1 pkt 4 Kodeksu karnego skarbowego,”,
+- **7)** 340 2 otrzymuje brzmienie: „§2. W razie istnienia podstaw określonych 99 1 Kodeksu karnego lub 43 2 Kodeksu karnego skarbowego, sąd, umarzając postępowanie lub rozpoznając wniosek prokuratora wymieniony 323 3, orzeka przepadek przedmiotów.”,
+- **9)** 481 wyrazy „wymieniony 39 pkt 4 Kodeksu karnego” zastępuje się wyrazem „przedmiotów”.
 
-- **6)** art. 332 pkt 3 przecinek do daje wyrazy "albo art. 37 pkt 4 Kodeksu kar nego skarbowego,"
-- **7)** wart. 340 2 otrzymuje brzmienie:
+8. W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy (Dz.U. Nr 90, poz. 557 i Nr 160, poz. 1083) 1 1 wyrazy „karnym skarbowym” zastępuje się wyrazami „w postępowaniu sprawach o przestępstwa skarbowe i wykroczenia skarbowe”.
 
-2. W razie istnienia podstaw wart. 99 Kodeksu karnego lub wart. 43 2 Kodeksu karnego skarbowego, umarza lub wniosek prokuratora wymieniony wart. 323 3, orze ka przepadek przedmiotów.",
+9. W ustawie z dnia 6 czerwca 1997 r. o Inspekcji Celnej (Dz.U. Nr 71, poz. 449, z 1998 r. Nr 137, poz. 886 i z 1999 r. Nr 49, poz. 483) 28 ust. 1 wyrazy „należności Skarbu Państwa znacznej wartości” zastępuje się wyrazami „należności publicznoprawnej dużej wartości albo gdy wartość przedmiotu czynu zabronionego jest duża,”, a wyrazy „karnego skarbowego” zastępuje się wyrazami „postępowania sprawie o przestępstwo skarbowe”.
 
-- **8)** art. 414 3 wyrazie "karnego" dodaje wyrazy "Iub art. 43 2 Kodeksu karnego skarbo wego",
-- **9)** wart. 481 wyrazy "wymieniony art. 39 pkt 4 Ko deksu karnego" wyrazem "przedmio tów".
+10. W ustawie z dnia 25 czerwca 1997 r. o świadku koronnym (Dz.U. Nr 114, poz. 738 i Nr 160, poz. 1083) 1 ust. 1:
 
-8. W ustawie dnia 6 czerwca 1997 Kodeks karny wykonawczy (Dz. U. 90, 557 160,
+- **1)** pkt 3 otrzymuje brzmienie: „3) skarbowych, polegających na uszczupleniu należności publicznoprawnej dużej wartości albo gdy wartość przedmiotu czynu zabronionego jest duża,”,
+- **2)** pkt 5 otrzymuje brzmienie: „5) określone 67 i 70 ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz.U Nr 83, poz. 930).”.
 
-- **1083)** wart. wyrazy "karnym skarbowym" wyrazami "w sprawach skarbowe wykroczenia skarbowe".
+11. W ustawie z dnia 18 grudnia 1998 r. - Prawo dewizowe (Dz.U. Nr 160, poz. 1063):
 
-9. W ustawie dnia 6 czerwca 1997 Inspekcji Celnej (Dz. U. 71, 449, 1998 137, 886 1999 49, 483) wart. 28 ust. wyrazy "na Skarbu znacznej puje wyrazami publicznoprawnej albo gdy przedmiotu czynu zabronio nego jest a wyrazy "karnego skarbowego" za wyrazami sprawie prze skarbowe".
+- **1)** 7 ust. 2 dodaje się zdanie drugie brzmieniu: „Czynność dokonaną bez spełnienia któregokolwiek z tych warunków, szczególności czynność dokonaną na podstawie zezwolenia dewizowego, o którym podmiot wie, że zostało wykorzystane sposób niezgodny z określonymi warunkami, uważa się za czynność dokonaną bez zezwolenia.”,
+- **2)** 10 ust. 1 po wyrazie „skarbowe” stawia się przecinek i dodaje się wyraz „przestępstwo”, a po wyrazie „majątkowej” stawia się kropkę, natomiast pozostałą część skreśla się,
+- **3)** 21 ust. 2 wyrazy „karnym skarbowym” zastępuje się wyrazami „w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe”.
 
-10. W ustawie dnia 25 czerwca 1997 ku koronnym (Dz. U. 114, 738 160,
-
-- **1083)** wart. ust. 1:
-- **1)** pkt 3 otrzymuje brzmienie: ,,3) skarbowych, na uszczupleniu na publicznoprawnej albo gdy przedmiotu czynu zabronionego jest
-- **2)** pkt 5 otrzymuje brzmienie: ,,5) wart. 67 70 ustawy dnia 10 wrze 1999 Kodeks karny skarbowy (Dz. U. 83, 930)."
-
-11. W ustawie dnia 18 grudnia 1998 Prawo dewizowe (Dz. U. 160, 1063):
-
-- **1)** wart. 7 ust. 2 dodaje zdanie drugie brzmie niu: bez którego kolwiek tych warunków, na podstawie zezwolenia dewizowego, którym podmiot wie, wykorzystane sposób niezgodny warunkami, za bez zezwolenia.", skarbowe lub wykroczenie skarbowe". 3 Przepisy
+#### Rozdział 3 Przepisy przejściowe i końcowe
 
 **Art. 5.**
 
-1. Do czynów zabronionych przed dniem Kodeksu karnego skarbo wego stosuje jego przepisy przedawnieniu zatar ciu skazania, chyba termin przedawnie nia wart. 44 1,2,5 6 oraz wart. 51 2 Kodeksu karnego skarbowego.
+1. Do czynów zabronionych popełnionych przed dniem wejścia życie Kodeksu karnego skarbowego stosuje się jego przepisy o przedawnieniu i
 
-2. W sprawach 1, nie nie jest uregulowane innymi przepisami, orzeka na posiedzeniu do wykonania kary lub karnego; na postanowienie
+2. W sprawach określonych 1, jeżeli postępowanie nie jest uregulowane innymi przepisami, orzeka na posiedzeniu sąd właściwy do wykonania kary lub środka karnego; na postanowienie przysługuje zażalenie.
 
-**Art. 6.** Przepisy Kodeksu karnego skarbowego sto suje do spraw przed dniem jego przepisy nie stano inaczej.
+**Art. 6.** Przepisy Kodeksu karnego skarbowego stosuje się również do spraw wszczętych przed dniem wejścia jego życie, jeżeli przepisy poniższe nie stanowią inaczej.
 
-**Art. 7.** W sprawach skarbowe orze ka Kodeksu karnego skarbowe go, na podstawie jego przepisów uchy lenie dotychczasowej finansowego orga nu chyba przed dniem cie tego kodeksu organ ten orzeczenie karne.
+**Art. 7.** W sprawach o przestępstwa skarbowe orzeka sąd właściwy według Kodeksu karnego skarbowego, jeżeli na podstawie jego przepisów nastąpiło uchylenie dotychczasowej właściwości finansowego organu orzekającego, chyba że przed dniem wejścia życie tego kodeksu organ ten wydał orzeczenie karne.
 
-**Art. 8.** Sprawy skarbowe, których przed dniem Kodeksu karnego skarbo wego przewód do danej instancji przepisów dotychczasowych; razie odroczenia roz prawy lub ponownego rozpoznania sprawy albo wydaniu prawomocnego orzeczenia, to czy nowych przepisów.
+**Art. 8.** Sprawy o przestępstwa skarbowe, których przed dniem wejścia życie Kodeksu karnego skarbowego rozpoczęto przewód sądowy, toczą się do końca postępowania sądowego danej instancji według przepisów dotychczasowych; razie odroczenia rozprawy lub ponownego rozpoznania sprawy albo po wydaniu prawomocnego orzeczenia, postępowanie toczy się według nowych przepisów.
 
 **Art. 9.**
 
-1. W sprawach skarbowe wykroczenia skarbowe, których przed dniem wej Kodeksu karnego skarbowego danie skierowania sprawy na dowego, to stosuje dotych czasowe przepisy.
+1. W sprawach o przestępstwa skarbowe i wykroczenia skarbowe, których przed dniem wejścia życie Kodeksu karnego skarbowego złożono żądanie skierowania sprawy na drogę postępowania sądowego, sąd rozpoznając to żądanie stosuje dotychczasowe przepisy.
 
-2. uzna za uchylenie orzecze nia finansowego organu przekazuje publicznemu celu nia przygotowawczego.
+2. Jeżeli sąd uzna za niezbędne uchylenie orzeczenia finansowego organu orzekającego, przekazuje sprawę oskarżycielowi publicznemu celu uzupełnienia postępowania przygotowawczego.
 
 **Art. 10.**
 
-1. W sprawach wykroczenia skarbowe, których do dnia Kodeksu karnego skarbowego nie wydano jeszcze pierwszej instancji, stosuje dalszym waniu nowe przepisy.
+1. W sprawach o wykroczenia skarbowe, których do dnia wejścia życie Kodeksu karnego skarbowego nie wydano jeszcze rozstrzygnięcia pierwszej instancji, stosuje się dalszym postępowaniu nowe przepisy.
 
-2. W sprawach wykroczenia skarbowe, któ rych przed dniem Kodeksu karnego skarbowego do finansowego orga nu drugiej instancji, to traktuje je jako rozumieniu no wych przepisów.
+2. W sprawach o wykroczenia skarbowe, których przed wejściem życie Kodeksu karnego skarbowego zło żono odwołanie do finansowego organu orzekającego drugiej instancji, sąd rozpoznając to odwołanie traktuje je jako apelację rozumieniu nowych przepisów. kroczenia skarbowe rozpoznaje się stosując dotychczasowe przepisy.
 
-3. Nierozpoznane do dnia Kodeksu karnego skarbowego wnioski uchylenie prawomocne go sprawach wykroczenia skarbowe rozpoznaje dotychczasowe przepisy.
+**Art. 11.** Czynności procesowe, jak również czynności zakresie postępowania wykonawczego i inne czynności wykonawcze dokonane przed dniem wejścia życie Kodeksu karnego skarbowego są skuteczne, jeżeli dokonano ich z zachowaniem przepisów dotychczasowych.
 
-**Art. 11.** Czynności procesowe, jak nansowego organu dochodzenia, które uprawomocni przed dniem Kodeksu karnego skarbowego, stosuje nowe przepisy.
+**Art. 12.** Przy wykonywaniu orzeczeń sądu lub rozstrzygnięć finansowego organu orzekającego lub finansowego organu dochodzenia, które uprawomocniły się przed dniem wejścia życie Kodeksu karnego skarbowego, stosuje się nowe przepisy.
 
 **Art. 13.**
 
-1. W sprawach prawomoc nym których kara lub kar ny nie wykonany:
+1. W sprawach zakończonych prawomocnym rozstrzygnięciem, których kara lub środek karny nie został wykonany:
 
-- **1)** grzywny ograniczenia wykonuje przepisów dotych czasowych,
-- **2)** do osób, którym wykonanie kary warunkowo za wieszono, lub do osób warunkowo zwolnionych oraz do osób pozbawienia wol stosuje odpowiednio przepisy Kodeksu karnego skarbowego,
-- **3)** wymiar kar pozbawienia wolno za wykroczenia skarbowe 30 dni ulega do 30 dni,
-- **4)** kar pozbawienia nie wykonu je Kodeks karny skarbowy nie przewidu je ich zastosowania,
-- **5)** przepadku przedmiotów nie wykonuje Kodeks karny skarbowy nie przewiduje jego zastosowania,
-- **6)** zakazu prowadzenia gospo darczej lub pozbawienia praw publicznych nie wy konuje Kodeks karny skarbowy nie prze widuje ich zastosowania,
-- **7)** zakazy prowadzenia gospo darczej, wykonywania zawodu lub zajmowania stanowiska oraz pozba wienie praw publicznych wymiarze 5 lat do 5 lat.
+- **1)** karę pieniężną, karę grzywny i karę ograniczenia wolności wykonuje się według przepisów dotychczasowych,
+- **2)** do osób, którym wykonanie kary warunkowo zawieszono, lub do osób warunkowo zwolnionych oraz do osób odbywających karę pozbawienia wolności stosuje się odpowiednio przepisy Kodeksu karnego skarbowego,
+- **3)** łączny wymiar zastępczych kar pozbawienia wolności za wykroczenia skarbowe powyżej 30 dni ulega obniżeniu do 30 dni,
+- **4)** zastępczych kar pozbawienia wolności nie wykonuje się, jeżeli Kodeks karny skarbowy nie przewiduje możliwości ich zastosowania,
+- **5)** przepadku przedmiotów nie wykonuje się, jeżeli Kodeks karny skarbowy nie przewiduje możliwości jego zastosowania,
+- **6)** zakazu prowadzenia określonej działalności gospodarczej lub pozbawienia praw publicznych nie wykonuje się, jeżeli Kodeks karny skarbowy nie przewiduje możliwości ich zastosowania,
+- **7)** zakazy prowadzenia określonej działalności gospodarczej, wykonywania określonego zawodu lub zajmowania określonego stanowiska oraz pozbawienie praw publicznych wymiarze powyżej 5 lat ulegają obniżeniu do 5 lat.
 
-2. W sprawach orzeka na siedzeniu do wykonania kary lub karnego; na postanowienie
+2. W sprawach określonych 1 orzeka na posiedzeniu sąd właściwy do wykonania kary lub środka karnego; na postanowienie przysługuje zażalenie.
 
 **Art. 14.**
 
-1. przepisy na uchylone przepisy przedmiotów unor mowanych Kodeksie karnym skarbowym albo odsy ogólnie do przepisów ustawy, której mowa wart. 2, stosuje odpowiednie przepisy Kodeksu kar nego skarbowego.
+1. Jeżeli obowiązujące przepisy powołują się na uchylone przepisy dotyczące przedmiotów unormowanych Kodeksie karnym skarbowym albo odsyłają ogólnie do przepisów ustawy, o której mowa 2, stosuje się odpowiednie przepisy Kodeksu karnego skarbowego.
 
-2. Do czasu wydania przepisów wykonawczych prze widzianych Kodeksie karnym skarbowym, nie jednak przez 6 od dnia Kodek su karnego skarbowego, mocy dotychczaso we przepisy wykonawcze wydane na podstawie ustawy, której mowa wart. 2, zakresie, jakim nie one sprzeczne przepisami Kodeksu karnego skarbowego.
+2. Do czasu wydania przepisów wykonawczych przewidzianych Kodeksie karnym skarbowym, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie Kodeksu karnego skarbowego, pozostają mocy dotychczasowe przepisy wykonawcze wydane na podstawie ustawy, o której mowa 2, zakresie, jakim nie są one sprzeczne z przepisami Kodeksu karnego skarbowego.
 
-**Art. 15.** W razie czy przepisy Kodeksu karnego skarbowego, czy przepisy dotychczaso we, stosuje przepisy Kodeksu karnego skarbowego.
+**Art. 15.** W razie wątpliwości, czy stosować przepisy Kodeksu karnego skarbowego, czy przepisy dotychczasowe, stosuje się przepisy Kodeksu karnego skarbowego. [Art. 15a. Do czynów zabronionych określonych 85-96 1 Kodeksu karnego skarbowego, popełnionych przed dniem uzyskania przez Rzeczpospolitą Polską członkostwa Unii Europejskiej, stosuje się przepisy dotychczasowe.]
 
-**Art. 16.** W zakresie organizowaniem nowych jednostek orga nizacyjnych powszechnych spra wach karnych skarbowych nie stosuje 1999 wydatków nych wart. 96 ust. 2 3 ustawy dnia 26 listopada 1998 finansach publicznych (Dz. U. 155, 1014 oraz 1999 38, 360, 49, 485 Nr70, 778).
+**Art. 16.** W zakresie przedsięwzięć wdrożeniowych związanych z organizowaniem nowych jednostek organizacyjnych sądów powszechnych właściwych sprawach karnych skarbowych nie stosuje się 1999 r. ograniczeń dotyczących przeniesień wydatków określonych 96 ust. 2 i 3 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U. Nr 155, poz. 1014 oraz z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485 i Nr 70, poz. 778).
+
+**Art. 17.** Ustawa wchodzi życie z dniem 17 października 1999 r.
 
