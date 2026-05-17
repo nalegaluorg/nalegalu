@@ -8,9 +8,10 @@ pos: 296
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o dniach wolnych od pracy
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +25,9 @@ domain: null
 | Ostatnia zmiana | 2025-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000296) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/296/text.pdf) |
 
-Poz. 296 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o dniach wolnych od pracy
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2020 r. poz. 1920), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (Dz. U. poz. 1965) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 marca 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (Dz. U. poz. 1965), który stanowi: „Art. 5. Ustawa wchodzi w życie z dniem 1 lutego 2025 r.”.
-Marszałek Sejmu: S. Hołownia Dziennik Ustaw – 2 – Poz. 296
+Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 18 stycznia 1951 r.
 o dniach wolnych od pracy
 

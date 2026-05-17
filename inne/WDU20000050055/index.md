@@ -8,6 +8,7 @@ pos: 55
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # w sprawie przekształcenia Powszechnej Kasy Oszczędności banku państwowego w jednoosobową spółkę akcyjną Skarbu Państwa pod nazwą Powszechna Kasa Oszczędności Bank Państwowy Spółka Akcyjna.
@@ -22,7 +23,6 @@ domain: null
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 2000-01-18 |
-| Wejście w życie | 2000-01-28 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000050055) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/55/text.pdf) |
 

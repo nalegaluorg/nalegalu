@@ -8,9 +8,12 @@ pos: 1679
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 grudnia 2025 r.
+# o zmianie ustawy o rzecznikach patentowych
+
+*USTAWA z dnia 17 października 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1679/text.pdf) |
 
-Poz. 1679
-USTAWA z dnia 17 października 2025 r.
-o zmianie ustawy o rzecznikach patentowych
-
 **Art. 1.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2024 r. poz. 749 oraz z 2025 r. poz. 1172) wprowadza się następujące zmiany:
 
 **Art. 2.**
@@ -38,5 +37,5 @@ o zmianie ustawy o rzecznikach patentowych
 
 3. Urząd Patentowy Rzeczypospolitej Polskiej oraz Prezes Polskiej Izby Rzeczników Patentowych uzupełniają dane w systemach teleinformatycznych, w których prowadzone są listy, o których mowa w ust. 1 i 2, o numer PESEL niezwłocznie po uzyskaniu informacji, o której mowa w ust. 1 albo 2.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 3.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia.
 

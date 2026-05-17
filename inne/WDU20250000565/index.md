@@ -8,9 +8,12 @@ pos: 565
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 kwietnia 2025 r.
+# o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej
+
+*USTAWA z dnia 23 kwietnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000565) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/565/text.pdf) |
 
-Poz. 565
-USTAWA z dnia 23 kwietnia 2025 r.
-o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej
-
 **Art. 1.** W ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288 i 1831) wprowadza się następujące zmiany:
 
 **Art. 2.**
@@ -36,5 +35,5 @@ o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców
 
 2. W przypadku gdy w okresie od dnia 1 maja 2025 r. do dnia wejścia w życie niniejszej ustawy Prezes Urzędu Regulacji Energetyki poinformował Zarządcę Rozliczeń S.A., o którym mowa w rozdziale 7 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311), o wystąpieniu przesłanek, o których mowa w art. 51b ust. 3 ustawy zmienianej w art. 1, i zgodnie z tym przepisem została wstrzymana wypłata rekompensat, wznawia się wstrzymaną wypłatę tych rekompensat.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

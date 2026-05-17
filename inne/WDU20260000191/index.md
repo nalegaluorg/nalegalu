@@ -8,9 +8,12 @@ pos: 191
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lutego 2026 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od czynności cywilnoprawnych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 17 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-02-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000191) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/191/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 17 lutego 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od czynności cywilnoprawnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. 2024 r. poz. 295), uwzględnieniem zmian wprowadzonych:
 1) ustawą dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680),
 2) ustawą dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556) oraz zmian wynikających przepisów ogłoszonych przed dniem 16 lutego 2026 r.
@@ -275,7 +276,8 @@ o podatku od czynności cywilnoprawnych
 
 1. Organem podatkowym właściwym miejscowo w sprawach podatku od czynności cywilnoprawnych od umów, których przedmiotem są rzeczy znajdujące się na terytorium Rzeczypospolitej Polskiej lub prawa majątkowe wykonywane w kraju, jest:
 
-- **1)** od przeniesienia własności nieruchomości, własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego oraz wynikających przepisów prawa spółdzielczego: prawa do domu jednorodzinnego i prawa do lokalu w małym domu mieszkalnym, prawa do miejsca postojowego w garażu wielostanowiskowym lub prawa użytkowania wieczystego naczelnik urzędu skarbowego właściwy ze względu na miejsce położenia nierucho2) od przeniesienia własności rzeczy lub praw majątkowych, innych niż wymienione w pkt 1, oraz od pozostałych umów naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę podatnika, a w przypadku gdy obowiązek zapłaty ciąży solidarnie na kilku podmiotach naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę jednego tych podmiotów;
+- **1)** od przeniesienia własności nieruchomości, własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego oraz wynikających przepisów prawa spółdzielczego: prawa do domu jednorodzinnego i prawa do lokalu w małym domu mieszkalnym, prawa do miejsca postojowego w garażu wielostanowiskowym lub prawa użytkowania wieczystego naczelnik urzędu skarbowego właściwy ze względu na miejsce położenia nieruchomości;
+- **2)** od przeniesienia własności rzeczy lub praw majątkowych, innych niż wymienione w pkt 1, oraz od pozostałych umów naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę podatnika, a w przypadku gdy obowiązek zapłaty ciąży solidarnie na kilku podmiotach naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę jednego tych podmiotów;
 - **2a)** od ustanowienia hipoteki naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę składającego oświadczenie woli o ustanowieniu tego prawa, a w przypadku gdy oświadczenie woli składane jest przez kilka podmiotów naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę jednego tych podmiotów;
 - **3)** od umowy spółki naczelnik urzędu skarbowego właściwy ze względu na siedzibę spółki.
 - **4)** (uchylony)

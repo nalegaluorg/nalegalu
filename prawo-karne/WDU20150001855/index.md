@@ -8,9 +8,10 @@ pos: 1855
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 listopada
+# Ustawa z dnia 9 października 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +25,19 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1855/text.pdf) |
 
-USTAWA dnia 9 października o zmianie ustawy Kodeks karny oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 6 czerwca 1997 Kodeks karny (Dz. U. 88, 553, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 165a.** Kto gromadzi, przekazuje lub oferuje środki płatnicze, instrumenty finansowe, papiery wartościowe, wartości dewizowe, prawa majątkowe lub inne mienie ruchome lub nieruchomości w zamiarze sfinansowania przestępstwa o charakterze terrorystycznym albo udostępnienia ich zorganizowanej grupie lub związkowi mającym na celu popełnienie takiego przestępstwa lub osobie biorącej udział w takiej grupie lub związku, podlega karze pozbawienia wolności od lat 2 do 12. ” ;
 
-**Art. 2.** W ustawie dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, 555, późn. zm. ) po art. 304a dodaje się art. 304b brzmieniu: „Art. 304b. Na wniosek pokrzywdzonego składającego zawiadomienie o przestępstwie wydaje mu się potwierdzenie złożenia zawiadomienia, zawierające datę oraz miejsce jego przyjęcia, wskazanie organu przyjmującego wraz danymi do kontaktu, sygnaturę sprawy, dane określające tożsamość pokrzywdzonego, czas miejsce popełnienia czynu, którego dotyczy zawiadomienie, oraz zwięzły opis czynu wyrządzonej szkody. O prawie tym należy pokrzywdzonego pouczyć.”.
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) po art. 304a dodaje się art. 304b w brzmieniu: „
 
-**Art. 3.** W ustawie dnia 10 września 1999 Kodeks karny skarbowy (Dz. U. 2013 186, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 304b.** Na wniosek pokrzywdzonego składającego zawiadomienie o przestępstwie wydaje mu się potwierdzenie złożenia zawiadomienia, zawierające datę oraz miejsce jego przyjęcia, wskazanie organu przyjmującego wraz z danymi do kontaktu, sygnaturę sprawy, dane określające tożsamość pokrzywdzonego, czas i miejsce popełnienia czynu, którego dotyczy zawiadomienie, oraz zwięzły opis czynu i wyrządzonej szkody. O prawie tym należy pokrzywdzonego pouczyć. ” .
 
-**Art. 5.** W ustawie dnia 28 października 2002 o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. 1212 1844) art. 16 ust. 1 pkt 9 otrzymuje brzmienie: „9) przeciwko ludzkości określone art. 119 Kodeksu karnego oraz przeciwko wolności porządkowi publicznemu, określone art. 189a art. 252, art. 255, art. 256–258, art. 263 oraz art. 264 art. 264a Kodeksu karnego;”.
+**Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 6.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia, wyjątkiem art. 1 pkt 3, który wchodzi życie dniem 23 maja 2016 Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.) w art. 25 dodaje się § 5 w brzmieniu: „
+
+**Art. 5.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2015 r. poz. 1212 i 1844) w art. 16 w ust. 1 pkt 9 otrzymuje brzmienie: „
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3, który wchodzi w życie z dniem 23 maja 2016 r.
 

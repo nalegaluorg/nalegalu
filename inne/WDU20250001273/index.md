@@ -8,9 +8,12 @@ pos: 1273
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 września 2025 r.
+# o społecznych formach rozwoju mieszkalnictwa
+
+*USTAWA z dnia 26 października 1995 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +27,10 @@ domain: null
 | Ostatnia zmiana | 2026-01-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001273) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1273/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 września 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o społecznych formach rozwoju mieszkalnictwa
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2024 r. poz. 1440), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635),
-2) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw (Dz. U. poz. 1077) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 września 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 25 i art. 27 ustawy z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635), które stanowią: „Art. 25. Do spraw dotyczących udzielania pomocy de minimis wszczętych i niezakończonych przed dniem 1 lipca 2024 r. stosuje się przepisy ustaw zmienianych w art. 1–24 w brzmieniu nadanym niniejszą ustawą.” „Art. 27. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) art. 14–17, art. 25 i art. 28 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw (Dz. U. poz. 1077), które stanowią: „Art. 14. Do lokali mieszkalnych wybudowanych przy wykorzystaniu finansowania zwrotnego, o którym mowa w art. 15a ust. 1 ustawy zmienianej w art. 1:
-1) udzielonego na podstawie wniosków złożonych przed dniem wejścia w życie niniejszej ustawy lub
-2) utworzonych w ramach przedsięwzięcia inwestycyjno-budowlanego, na którego pokrycie części kosztów udzielono finansowego wsparcia, o którym mowa w art. 5 ust. 1 pkt 1 ustawy zmienianej w art. 5, na podstawie wniosku złożonego przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 33dk i art. 33ea ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, a także przepisy art. 33db i art. 33dc ustawy zmienianej w art. 1 oraz przepisy art. 9 i art. 54 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym.
 Art. 33da. 1. Wpłacona przez osobę fizyczną partycypacja w kosztach budowy lokalu mieszkalnego wybudowanego przy wykorzystaniu kredytu:
 1) o którym mowa w art. 15a ust. 1 albo
 2) udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosku złożonego do dnia 30 września 2009 r.
-podlega rozliczeniu.
+– podlega rozliczeniu.
 2. Rozliczenie partycypacji następuje na wniosek najemcy złożony nie wcześniej niż po dniu całkowitej spłaty kredytu przy wykorzystaniu którego wybudowano lokal mieszkalny.
 2a. SIM informuje najemcę będącego przez co najmniej 5 lat stroną obowiązującej umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego o spłacie kredytu, przy wykorzystaniu którego wybudowano ten lokal mieszkalny, na piśmie, w terminie 30 dni od dnia tej spłaty.
 2b. Na wniosek najemcy, o którym mowa w ust. 2a, SIM informuje na piśmie w terminie 14 dni od dnia złożenia wniosku, jaki okres został do spłaty kredytu, przy którego wykorzystaniu wybudowano lokal mieszkalny.
@@ -50,19 +43,20 @@ Art. 33db. 1. Z wnioskiem o zmianę dotychczasowej umowy najmu na umowę najmu u
 2) niezalegający w okresie co najmniej 5 lat poprzedzających złożenie wniosku z:
 a) zapłatą czynszu, o którym mowa w art. 28 ust. 1,
 b) opłatami z tytułu kosztów, o których mowa w art. 28 ust. 3 pkt 2,
-c) opłatami niezależnymi od SIM a przez nie pobieranymi za miesiąc przez łączny okres nie dłuższy niż 3 miesiące.
+c) opłatami niezależnymi od SIM a przez nie pobieranymi – za miesiąc przez łączny okres nie dłuższy niż 3 miesiące.
 2. W terminie 30 dni od dnia otrzymania wniosku SIM przedstawia najemcy na piśmie warunki umowy najmu uwzględniającej rozliczenie partycypacji i wyznacza mu termin, nie krótszy niż 30 dni od dnia otrzymania tych warunków, na ich przyjęcie albo zgłoszenie uwag.
 3. Uwagi najemcy zgłoszone do warunków umowy najmu uwzględniającej rozliczenie partycypacji SIM rozpatruje w terminie 14 dni od dnia ich otrzymania, a następnie informuje najemcę na piśmie o sposobie ich rozpatrzenia wyznaczając mu termin, nie krótszy niż 14 dni od dnia otrzymania tej informacji, na przyjęcie warunków. Brak oświadczenia najemcy w wyznaczonym terminie o przyjęciu warunków umowy najmu uwzględniającej rozliczenie partycypacji jest równoznaczny z nieprzyjęciem tych warunków.
-4. Nieprzyjęcie przez najemcę warunków umowy najmu uwzględniającej rozliczenie partycypacji w wyznaczonym terminie oznacza wycofanie wniosku. Z ponownym wnioskiem najemca może wystąpić nie wcześniej niż po upływie 12 miesięcy od dnia wycofania wniosku.
+4. Nieprzyjęcie przez najemcę warunków umowy najmu uwzględniającej rozliczenie partycypacji w wyznaczonym terminie oznacza wycofanie wniosku.
+Z ponownym wnioskiem najemca może wystąpić nie wcześniej niż po upływie 12 miesięcy od dnia wycofania wniosku.
 Art. 33dc. Wniosek o zmianę dotychczasowej umowy najmu na umowę, o której mowa w art. 33da ust. 3 pkt 1 lub 2, SIM może odrzucić, jeżeli przez okres co najmniej 5 lat poprzedzających dzień spłaty kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego pobierało od najemcy czynsz nieprzekraczający w skali roku:
-1) 3,5 % wartości odtworzeniowej, o której mowa w art. 28 ust. 2 pkt 1 w przypadku lokali mieszalnych, o których mowa w art. 28 ust. 2 pkt 1;
-2) 4,5 % wartości odtworzeniowej, o której mowa w art. 28 ust. 2 pkt 1 w przypadku lokali mieszalnych, o których mowa w art. 28 ust. 2 pkt 2;
-3) 3 % wartości odtworzeniowej, o której mowa w art. 28 ust. 2 pkt 1 w przypadku lokali mieszkalnych utworzonych w wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego, na pokrycie kosztów którego udzielono finansowego wsparcia, o którym mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, w wysokości przekraczającej 45 % tych kosztów.
+1) 3,5 % wartości odtworzeniowej, o której mowa w art. 28 ust. 2 pkt 1 – w przypadku lokali mieszalnych, o których mowa w art. 28 ust. 2 pkt 1;
+2) 4,5 % wartości odtworzeniowej, o której mowa w art. 28 ust. 2 pkt 1 – w przypadku lokali mieszalnych, o których mowa w art. 28 ust. 2 pkt 2;
+3) 3 % wartości odtworzeniowej, o której mowa w art. 28 ust. 2 pkt 1 – w przypadku lokali mieszkalnych utworzonych w wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego, na pokrycie kosztów którego udzielono finansowego wsparcia, o którym mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, w wysokości przekraczającej 45 % tych kosztów.
 Art. 33dd. 1. Rozliczenie partycypacji w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji następuje w częściach zaliczanych na poczet czynszu miesięcznego najemcy przez okres określony w umowie najmu uwzględniającej to rozliczenie.
 2. W przedstawionych warunkach umowy najmu uwzględniającej okresowe rozliczenie partycypacji SIM wskazuje:
-1) proponowaną wysokość części zaliczanej na poczet czynszu miesięcznego najemcy, nie niższą niż ustalona według stanu na dzień złożenia wniosku kwota obliczona według wzoru: P ={ 0,5 ∗ R , jeżeli <0,3∗ C 0,3 ∗ C , w pozostałych przypadkach , gdzie poszczególne symbole oznaczają: P część partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na postawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji, R średnią miesięczną wysokość raty spłaty kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego w okresie ostatnich 12 miesięcy spłaty tego kredytu, przypadającą na lokal, którego dotyczy rozliczenie partycypacji, C średni miesięczny czynsz za najem lokalu, którego dotyczy rozliczenie partycypacji, w okresie ostatnich 60 miesięcy;
+1) proponowaną wysokość części zaliczanej na poczet czynszu miesięcznego najemcy, nie niższą niż ustalona według stanu na dzień złożenia wniosku kwota obliczona według wzoru: P 0,5∗R = { , jeżeli < 0,3∗ C 0,3∗ C , w pozostałych przypadkach, gdzie poszczególne symbole oznaczają: P – część partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na postawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji, R – średnią miesięczną wysokość raty spłaty kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego w okresie ostatnich 12 miesięcy spłaty tego kredytu, przypadającą na lokal, którego dotyczy rozliczenie partycypacji, C – średni miesięczny czynsz za najem lokalu, którego dotyczy rozliczenie partycypacji, w okresie ostatnich 60 miesięcy;
 2) proponowany okres rozliczania partycypacji w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji, nie dłuższy niż 180 miesięcy;
-3) proponowaną kwotę partycypacji w kosztach budowy lokalu mieszkalnego po upływie okresu rozliczania partycypacji zgodnie z propozycjami określonymi w pkt 1 i 2, obliczoną według wzoru: P P = ∗C ∗(100 %−0,75 %∗ n 4 ) C − P ∗k, gdzie poszczególne symbole oznaczają: P nową kwotę partycypacji najemcy w kosztach budowy lokalu mieszkalnego po zakończeniu okresu rozliczania w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji, P kwotę wpłaconej partycypacji, C średnią arytmetyczną czterech kolejnych wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych dla kwartałów poprzedzających kwartał, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji, C średnią arytmetyczną wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego dla kwartału, w którym nastąpiło zawarcie umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, oraz dla trzech poprzedzających ten kwartał okresów kwartalnych, n liczbę pełnych kwartałów przypadających w okresie od dnia zawarcia umowy najmu lokalu do dnia, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji, P proponowaną miesięczną kwotę partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na podstawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji, k liczbę miesięcy w proponowanym okresie rozliczania partycypacji.
+3) proponowaną kwotę partycypacji w kosztach budowy lokalu mieszkalnego po upływie okresu rozliczania partycypacji zgodnie z propozycjami określonymi w pkt 1 i 2, obliczoną według wzoru: P P = ∗C ∗(100 %−0,75 %∗ ) C − P ∗k, gdzie poszczególne symbole oznaczają: P – nową kwotę partycypacji najemcy w kosztach budowy lokalu mieszkalnego po zakończeniu okresu rozliczania w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji, P – kwotę wpłaconej partycypacji, C – średnią arytmetyczną czterech kolejnych wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych dla kwartałów poprzedzających kwartał, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji, C – średnią arytmetyczną wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego dla kwartału, w którym nastąpiło zawarcie umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, oraz dla trzech poprzedzających ten kwartał okresów kwartalnych, n – liczbę pełnych kwartałów przypadających w okresie od dnia zawarcia umowy najmu lokalu do dnia, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji, P – proponowaną miesięczną kwotę partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na podstawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji, k – liczbę miesięcy w proponowanym okresie rozliczania partycypacji.
 Art. 33de. Kwota partycypacji określona w umowie najmu uwzględniającej okresowe rozliczenie partycypacji obliczana jest według wzoru, o którym mowa w art. 33dd ust. 2 pkt 3, na podstawie określonych w tej umowie:
 1) wysokości miesięcznej kwoty partycypacji, jaka jest zaliczana przez SIM na poczet czynszu miesięcznego najemcy;
 2) liczby miesięcy w przyjętym okresie rozliczania partycypacji.
@@ -73,7 +67,8 @@ Art. 33dg. Osoby wstępujące w stosunek najmu po śmierci najemcy będącego st
 Art. 33dh. Z wnioskiem o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą całkowite rozliczenie partycypacji może wystąpić do SIM najemca, który poza spełnieniem warunków, o których mowa w art. 33db ust. 1, osiągnął wiek emerytalny, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159).
 Art. 33di. 1. Rozliczenie partycypacji w ramach umowy najmu uwzględniającej całkowite rozliczenie partycypacji następuje w częściach zaliczanych na poczet czynszu miesięcznego najemcy do dnia wygaśnięcia jego praw jako strony umowy najmu, z uwzględnieniem art. 33dj ust. 4.
 2. W przedstawionych warunkach umowy najmu uwzględniającej całkowite rozliczenie partycypacji SIM wskazuje proponowaną wysokość części zaliczanej na poczet czynszu miesięcznego najemcy, nie niższą niż 80 % ustalonej według stanu na dzień złożenia wniosku kwoty obliczonej zgodnie z wzorem, o którym mowa w art. 33dd ust. 2 pkt 1.
-Art. 33dj. 1. Osoby wstępujące w stosunek najmu po śmierci najemcy będącego stroną umowy najmu uwzględniającej całkowite rozliczenie partycypacji wstępują w ten stosunek na zasadach określonych w tej umowie wyłącznie w przypadku zamieszkiwania w lokalu będącym przedmiotem tej umowy przez cały okres jej obowiązywania, a w dniu zawierania tej umowy osiągnęły wiek emerytalny, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z uwzględnieniem ust. 4.
+Art. 33dj. 1. Osoby wstępujące w stosunek najmu po śmierci najemcy będącego stroną umowy najmu uwzględniającej całkowite rozliczenie partycypacji wstępują w ten stosunek na zasadach określonych w tej umowie wyłącznie w przypadku zamieszkiwania w lokalu będącym przedmiotem tej umowy przez cały okres jej obowiązywania, a w dniu zawierania tej umowy osiągnęły wiek emerytalny, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r.
+o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z uwzględnieniem ust. 4.
 2. W przypadku:
 1) rozwiązania przez najemcę umowy najmu uwzględniającej całkowite rozliczenie partycypacji i opróżnienia lokalu albo
 2) rozwiązania umowy najmu w wyniku śmierci najemcy będącego stroną umowy najmu uwzględniającej całkowite rozliczenie partycypacji, albo
@@ -82,55 +77,20 @@ Art. 33dj. 1. Osoby wstępujące w stosunek najmu po śmierci najemcy będącego
 4. Jeżeli przy zawieraniu umowy najmu uwzględniającej całkowite rozliczenie partycypacji SIM nie dopełniła obowiązku, o którym mowa w ust. 3, w przypadku:
 1) o którym mowa w ust. 2 pkt 1 i 2, partycypację uznaje się za rozliczoną wyłącznie do łącznej wysokości części partycypacji zaliczonych w poczet czynszu najemcy w okresie obowiązywania umowy najmu uwzględniającej całkowite rozliczenie partycypacji;
 2) o którym mowa w ust. 2 pkt 3, osoba wstępująca w stosunek najmu po śmierci najemcy będącego stroną umowy najmu uwzględniającej całkowite rozliczenie partycypacji wstępuje w ten stosunek na zasadach określonych w tej umowie, z tym że rozliczenie partycypacji następuje z dniem, w którym łączna wysokość części partycypacji zaliczonych w poczet czynszu najemcy osiągnie równowartość kwoty ustalonej zgodnie z art. 29a ust. 3 dla kwoty partycypacji zwracanej na dzień zawarcia tej umowy.
-Art. 33dk. 16) 1. Z wnioskiem o zmianę dotychczasowej umowy najmu na umowę najmu instytucjonalnego z dojściem do własności uwzględniającej rozliczenie partycypacji może wystąpić do SIM najemca, który poza spełnieniem warunków, o których mowa w art. 33db ust. 1, partycypował w kosztach budowy lokalu wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego zlokalizowanego poza obszarem miasta będącego siedzibą wojewody lub sejmiku województwa albo miasta na prawach powiatu liczącego powyżej 100 tys. mieszkańców.
+Art. 33dk. 1. Z wnioskiem o zmianę dotychczasowej umowy najmu na umowę najmu instytucjonalnego z dojściem do własności uwzględniającej rozliczenie partycypacji może wystąpić do SIM najemca, który poza spełnieniem warunków, o których mowa w art. 33db ust. 1, partycypował w kosztach budowy lokalu wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego zlokalizowanego poza obszarem miasta będącego siedzibą wojewody lub sejmiku województwa albo miasta na prawach powiatu liczącego powyżej 100 tys.
+mieszkańców.
 2. Wysokość partycypacji uprawniająca do jej rozliczenia na zasadach niniejszego oddziału wynosi 20 % kosztów budowy tego lokalu, chyba że umowa albo statut SIM przewiduje niższą wysokość partycypacji uprawniającą do jej rozliczenia na zasadach niniejszego oddziału.
-3. W przypadku lokalu utworzonego w wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego, na pokrycie kosztów którego udzielono finansowego wsparcia, o którym mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, w wysokości przekraczającej 45 % tych kosztów, wysokość partycypacji uprawniająca do jej rozliczenia na zasadach niniejszego oddziału wynosi 15 % kosztów budowy tego lokalu, chyba że umowa albo statut SIM przewiduje niższą wysokość partycypacji uprawniającą do jej rozliczenia na zasadach niniejszego oddziału.
-Art. 33dl. 1. Rozliczenie partycypacji w ramach najmu instytucjonalnego z dojściem do własności następuje w częściach zaliczanych na poczet comiesięcznych rat, o których mowa w art. 19l ust. 4 pkt 4 ustawy z dnia 21 czerwca 2001 r.
-o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego. Rozliczenia partycypacji dokonuje się z dniem, w którym łączna, zaliczona w tym trybie na poczet rat kwota, osiągnie równowartość kwoty tej partycypacji.
-2. W przypadku zmiany umowy najmu na umowę najmu instytucjonalnego z dojściem do własności cenę lokalu mieszkalnego stanowi wartość rynkowa tego lokalu ustalona zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080), jednak nie wyższa niż obliczona według wzoru: C = Pz / u, gdzie poszczególne symbole oznaczają: C cenę lokalu mieszkalnego, Pz kwotę zwracanej partycypacji, ustaloną według stanu na dzień złożenia wniosku i obliczoną według wzoru określonego w art. 29a ust. 3, u udział kwoty partycypacji w kosztach budowy lokalu mieszkalnego.
+3. W przypadku lokalu utworzonego w wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego, na pokrycie kosztów którego udzielono finansowego wsparcia, o którym mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r.
+o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, w wysokości przekraczającej 45 % tych kosztów, wysokość partycypacji uprawniająca do jej rozliczenia na zasadach niniejszego oddziału wynosi 15 % kosztów budowy tego lokalu, chyba że umowa albo statut SIM przewiduje niższą wysokość partycypacji uprawniającą do jej rozliczenia na zasadach niniejszego oddziału.
+Art. 33dl. 1. Rozliczenie partycypacji w ramach najmu instytucjonalnego z dojściem do własności następuje w częściach zaliczanych na poczet comiesięcznych rat, o których mowa w art. 19l ust. 4 pkt 4 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego. Rozliczenia partycypacji dokonuje się z dniem, w którym łączna, zaliczona w tym trybie na poczet rat kwota, osiągnie równowartość kwoty tej partycypacji.
+2. W przypadku zmiany umowy najmu na umowę najmu instytucjonalnego z dojściem do własności cenę lokalu mieszkalnego stanowi wartość rynkowa tego lokalu ustalona zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r.
+o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080), jednak nie wyższa niż obliczona według wzoru: C = Pz / u, gdzie poszczególne symbole oznaczają: C – cenę lokalu mieszkalnego, Pz – kwotę zwracanej partycypacji, ustaloną według stanu na dzień złożenia wniosku i obliczoną według wzoru określonego w art. 29a ust. 3, u – udział kwoty partycypacji w kosztach budowy lokalu mieszkalnego.
 3. Określony w zawieranej umowie najmu instytucjonalnego z dojściem do własności termin dojścia do własności może upływać wcześniej niż 10 lat od dnia zawarcia umowy wyłącznie z inicjatywy wnioskodawcy.
 4. W przypadku lokalu wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego, z którego realizacją było związane zawarcie umowy, o której mowa w art. 5 ust. 2 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, określony w zawieranej umowie najmu instytucjonalnego z dojściem do własności termin dojścia do tej własności nie może upływać wcześniej niż w terminie wynikającym z art. 7e tej ustawy.
 Art. 33dm. W zakresie nieuregulowanym przepisami niniejszego oddziału do ustanowienia odrębnej własności lokalu na skutek zmiany umowy najmu na umowę najmu instytucjonalnego z dojściem do własności uwzględniającą rozliczenie partycypacji, stosuje się przepisy art. 33ea–33j.
 Art. 34–41. (pominięte)
 
-**Art. 15.** Do lokali mieszkalnych wybudowanych ze środków zlikwidowanego Krajowego Funduszu Mieszkaniowego, zgodnie z art. 18 pkt 1 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (w brzmieniu z dnia 30 maja 2009 r., Dz. U. z 2004 r. poz. 2157), stosuje się przepisy rozdziału 4b ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
-
-**Art. 16.** Do umów w sprawie partycypacji w kosztach budowy lokalu mieszkalnego zawartych przez społeczną inicjatywę mieszkaniową z osobą fizyczną w okresie od dnia 1 stycznia 2005 r. do dnia wejścia w życie niniejszej ustawy stosuje się przepisy art. 29 ust. 5a i 5b ustawy zmienianej w art. 1.
-
-**Art. 17.**
-
-1. Do wsparcia udzielonego na podstawie art. 33l ustawy zmienianej w art. 1 w brzmieniu dotychczasowym stosuje się przepisy art. 33p ust. 1–2 i 2ba–3, art. 33pa ust. 1–3 i 5 oraz art. 33q ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, z tym że środków, o których mowa w art. 33pa ust. 2 pkt 2 lit. b ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, nie przeznacza się na realizację przedsięwzięć, o których mowa w art. 1 pkt 1 lit. d ustawy zmienianej w art. 5, chyba że umorzenie udziałów lub akcji na podstawie art. 33pa ust. 1 pkt 2 i 3 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym nastąpiło przed dniem wejścia w życie niniejszej ustawy.
-
-2. Gmina informuje ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa o:
-
-- **1)** zawarciu umowy, o której mowa w art. 33p ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, oraz o określonym w tej umowie rodzaju, planowanym terminie rozpoczęcia i okresie realizacji usługi publicznej, o której mowa w art. 33p ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, oraz o planowanym terminie rozpoczęcia realizacji przedsięwzięcia inwestycyjno-budowlanego lub innego przedsięwzięcia służącego realizacji tej usługi w terminie 3 miesięcy od dnia zawarcia tej umowy;
-- **2)** rozpoczęciu realizacji usługi publicznej określonej w umowie, o której mowa w art. 33p ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, w terminie 3 miesięcy od dnia uzyskania informacji o rozpoczęciu realizacji tej usługi;
-- **3)** umorzeniu udziałów lub akcji na podstawie art. 33pa ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym oraz przeznaczeniu uzyskanych w związku z tym umorzeniem środków zgodnie z art. 33pa ust. 2 pkt 2 lit. b ustawy zmienianej w art. 1 w brzmieniu dotychczasowym w terminie 3 miesięcy od dnia tego zdarzenia.
-
-3. Do dochodzenia od gminy roszczeń Skarbu Państwa z tytułu:
-
-- **1)** niezrealizowania działania, w związku z którym udzielono wsparcia, o którym mowa w art. 33l ustawy zmienianej w art. 1 w brzmieniu dotychczasowym,
-- **2)** niedopełnienia obowiązku zawarcia umowy określającej rodzaj, okres realizacji i planowany termin rozpoczęcia realizacji usługi publicznej, o której mowa w art. 33p ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym,
-- **3)** niedopełnienia obowiązku, o którym mowa w art. 33pa ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym właściwy jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-4. Minister właściwy do spraw rozwoju regionalnego przekazuje niezwłocznie ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa dokumentację związaną z wykonywaniem zadań i kompetencji, o których mowa w art. 33qa ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, w tym także w postaci informatycznych nośników danych. Z czynności tych sporządza się protokół.
-
-5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może zlecić Bankowi Gospodarstwa Krajowego wykonywanie czynności, o których mowa w ust. 3. W przypadku takiego zlecenia koszt dochodzenia roszczeń, o których mowa w ust. 3, pokrywa się ze środków Funduszu Dopłat, o którym mowa w art. 5 ustawy zmienianej w art. 4.” „Art. 25. 1. Maksymalny limit środków budżetu państwa, do których wysokości może zostać zasilony Fundusz Dopłat, przeznaczonych na dopłatę dla Banku Gospodarstwa Krajowego, o której mowa w art. 15c ust. 2 pkt 2 ustawy zmienianej w art. 1, nie może przekroczyć w 2026 r. kwoty 344 600 000 zł.
-
-2. Organem właściwym do monitorowania wykorzystania limitu środków, o którym mowa w ust. 1, oraz wdrożenia mechanizmu korygującego wskazanego w ust. 3 jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-3. Finansowania zwrotnego, o którym mowa w art. 15a ust. 1 ustawy zmienianej w art. 1, Bank Gospodarstwa Krajowego udziela do wysokości nieprzekraczającej maksymalnej kwoty ustalonej w oparciu o kwotę zastosowanej dopłaty do oprocentowania, o której mowa w art. 15c ust. 2 pkt 2 ustawy zmienianej w art. 1, uwzględniającej limit środków budżetu państwa, o którym mowa w ust. 1.
-
-4. Szczegółowe zasady zapewniające zachowanie przyjętego na 2026 r. maksymalnego limitu środków budżetu państwa, o którym mowa w ust. 1, określają przepisy wydane na podstawie art. 15b ust. 5 ustawy zmienianej w art. 1 oraz umowa, o której mowa w art. 15c ust. 4 ustawy zmienianej w art. 1.” „Art. 28. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-
-- **1)** art. 5 pkt 15 lit. a w zakresie ust. 3a pkt 1 i lit. b, art. 8, art. 9, art. 13 pkt 11 i 12 oraz art. 19, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 2 pkt 1 w zakresie art. 192 ust. 4 i 5, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 18 ust. 1;
-- **3)** art. 2 pkt 1 w zakresie art. 192 ust. 3 i 6 oraz pkt 2, który wchodzi w życie po upływie 90 dni od dnia ogłoszenia;
-- **4)** art. 5 pkt 1 lit. a, pkt 2 lit. a i lit. b tiret drugie, pkt 3, 7, 9, pkt 10 lit. a–f, pkt 12, pkt 15 lit. a w zakresie ust. 3a pkt 2, pkt 16, 17, pkt 18 lit. a tiret drugie pierwsze podwójne tiret i lit. d, pkt 19 lit. a, pkt 20, 21, pkt 22 lit. a i c, pkt 23 lit. b i c, pkt 24, pkt 25 lit. a tiret drugie i pkt 26, art. 13 pkt 1–10 oraz art. 24, które wchodzą w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa
-
-**Art. 1.**
-
-- **1)** Ustawa określa zasady gromadzenia oszczędności, finansowania przez Bank Gospodarstwa Krajowego niektórych przedsięwzięć inwestycyjno-budowlanych mających na celu budowę lokali mieszkalnych, zasady działania społecznych agencji najmu oraz zasady działania społecznej inicjatywy mieszkaniowej.
+**Art. 1.** Ustawa określa zasady gromadzenia oszczędności, finansowania przez Bank Gospodarstwa Krajowego niektórych przedsięwzięć inwestycyjno-budowlanych mających na celu budowę lokali mieszkalnych, zasady działania społecznych agencji najmu oraz zasady działania społecznej inicjatywy mieszkaniowej.
 
 #### Rozdział 1 Kasy mieszkaniowe
 
@@ -140,8 +100,8 @@ Art. 34–41. (pominięte)
 
 2. Ilekroć w ustawie jest mowa o:
 
-- **1)** działaniach lub zdarzeniach dotyczących kasy mieszkaniowej należy przez to rozumieć działania i zdarzenia dotyczące banku prowadzącego kasę mieszkaniową;
-- **2)** rachunkach oszczędnościowo-kredytowych bądź kredytach kontraktowych należy przez to rozumieć wyłącznie rachunki i kredyty prowadzone i udzielane przez kasę mieszkaniową na zasadach określonych w ustawie.
+- **1)** działaniach lub zdarzeniach dotyczących kasy mieszkaniowej – należy przez to rozumieć działania i zdarzenia dotyczące banku prowadzącego kasę mieszkaniową;
+- **2)** rachunkach oszczędnościowo-kredytowych bądź kredytach kontraktowych – należy przez to rozumieć wyłącznie rachunki i kredyty prowadzone i udzielane przez kasę mieszkaniową na zasadach określonych w ustawie.
 
 3. Do działalności kas mieszkaniowych, o której mowa w ust. 1, stosuje się w sprawach nieuregulowanych ustawą przepisy prawa bankowego i Kodeksu cywilnego.
 
@@ -159,7 +119,7 @@ Art. 34–41. (pominięte)
 
 **Art. 4.**
 
-1. Środki zgromadzone na imiennych rachunkach oszczędnościowo-kredytowych w kasach mieszkaniowych są wkładami oszczędnościowymi. Wkłady te są objęte obowiązkowym systemem gwarantowania środków pieniężnych na rachunkach banków, a co do wysokości wkładów, które łącznie z należnymi odsetkami przekraczają kwoty gwarantowane gwarancją uzupełniającą Skarbu Państwa do wysokości określonej odrębnymi przepisami.
+1. Środki zgromadzone na imiennych rachunkach oszczędnościowo-kredytowych w kasach mieszkaniowych są wkładami oszczędnościowymi. Wkłady te są objęte obowiązkowym systemem gwarantowania środków pieniężnych na rachunkach banków, a co do wysokości wkładów, które łącznie z należnymi odsetkami przekraczają kwoty gwarantowane – gwarancją uzupełniającą Skarbu Państwa do wysokości określonej odrębnymi przepisami.
 
 2. Środki zgromadzone na imiennych rachunkach oszczędnościowo-kredytowych w kasach mieszkaniowych nie mogą być przeznaczone na finansowanie innych zobowiązań banków niż związane z działalnością kas mieszkaniowych.
 
@@ -216,13 +176,13 @@ Art. 34–41. (pominięte)
 
 - **1)** obowiązkowy zakres,
 - **2)** sposób sporządzania,
-- **3)** tryb przekazywania informacji dotyczących stanu oszczędności zgromadzonych na rachunkach oszczędnościowo-kredytowych, wysokości udzielonych kredytów kontraktowych i terminowości ich spłaty oraz przychodów i kosztów banku z tytułu prowadzenia kas mieszkaniowych, uwzględniając potrzebę zapewnienia skutecznego, prawidłowego i ostrożnego zarządzania bankiem.
+- **3)** tryb przekazywania – informacji dotyczących stanu oszczędności zgromadzonych na rachunkach oszczędnościowo-kredytowych, wysokości udzielonych kredytów kontraktowych i terminowości ich spłaty oraz przychodów i kosztów banku z tytułu prowadzenia kas mieszkaniowych, uwzględniając potrzebę zapewnienia skutecznego, prawidłowego i ostrożnego zarządzania bankiem.
 
 #### Rozdział 2 Umowa o kredyt kontraktowy
 
 **Art. 8.**
 
-1. Przez zawarcie umowy o kredyt kontraktowy osoba fizyczna zobowiązuje się do systematycznego gromadzenia oszczędności w kasie mieszkaniowej przez czas oznaczony, a bank prowadzący kasę mieszkaniową do przechowywania oszczędności i udzielenia po upływie tego okresu, z zastrzeżeniem art. 12 i 13, długoterminowego kredytu na cele mieszkaniowe.
+1. Przez zawarcie umowy o kredyt kontraktowy osoba fizyczna zobowiązuje się do systematycznego gromadzenia oszczędności w kasie mieszkaniowej przez czas oznaczony, a bank prowadzący kasę mieszkaniową – do przechowywania oszczędności i udzielenia po upływie tego okresu, z zastrzeżeniem art. 12 i 13, długoterminowego kredytu na cele mieszkaniowe.
 
 2. Celami mieszkaniowymi, o których mowa w ust. 1, są służące zaspokojeniu własnych potrzeb mieszkaniowych kredytobiorcy:
 
@@ -294,13 +254,13 @@ Art. 34–41. (pominięte)
 
 - **1)** społecznym inicjatywom mieszkaniowym spełniającym warunek, o którym mowa w art. 24 ust. 2,
 - **2)** spółdzielniom mieszkaniowym,
-- **3)** spółkom z ograniczoną odpowiedzialnością lub spółkom akcyjnym, w których gmina lub gminy dysponują odpowiednio ponad 50 % głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu, niedziałającym w formie społecznej inicjatywy mieszkaniowej, zwanym dalej „spółkami gminnymi” na przedsięwzięcia inwestycyjno-budowlane mające na celu budowę lokali mieszkalnych na wynajem lub budowę lokali mieszkalnych, do których ustanowione zostanie spółdzielcze lokatorskie prawo do lokalu mieszkalnego.
+- **3)** spółkom z ograniczoną odpowiedzialnością lub spółkom akcyjnym, w których gmina lub gminy dysponują odpowiednio ponad 50 % głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu, niedziałającym w formie społecznej inicjatywy mieszkaniowej, zwanym dalej „spółkami gminnymi” – na przedsięwzięcia inwestycyjno-budowlane mające na celu budowę lokali mieszkalnych na wynajem lub budowę lokali mieszkalnych, do których ustanowione zostanie spółdzielcze lokatorskie prawo do lokalu mieszkalnego.
 
 2a. Jeżeli finansowanie zwrotne jest udzielane podmiotowi, o którym mowa w ust. 2 pkt 1–3, zwanemu dalej „kredytobiorcą”, na przedsięwzięcia inwestycyjno-budowlane mające na celu budowę lokali mieszkalnych, których docelową grupę najemców będą stanowić również osoby starsze w rozumieniu art. 4 pkt 1 ustawy z dnia 11 września 2015 r. o osobach starszych (Dz. U. poz. 1705 oraz z 2024 r. poz. 834), finansowanie zwrotne jest udzielane także na budowę dodatkowych powierzchni użytkowych przeznaczonych na zaspokajanie potrzeb tych osób.
 
 2b. Koszty związane z utrzymaniem dodatkowych powierzchni użytkowych ponoszą najemcy w częściach równych, z uwzględnieniem art. 28 ust. 2 pkt 2, ust. 2a i 2b.
 
-2c. Uchwałę w sprawie wystąpienia przez spółdzielnię mieszkaniową z wnioskiem o udzielenie finansowania zwrotnego podejmuje zarząd tej spółdzielni. Przepisu art. 38 § 1 pkt 7 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593) nie stosuje się.
+2c. Uchwałę w sprawie wystąpienia przez spółdzielnię mieszkaniową z wnioskiem o udzielenie finansowania zwrotnego podejmuje zarząd tej spółdzielni. Przepisu art. 38 § 1 pkt 7 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593) nie stosuje się.
 
 3. Warunkiem udzielenia finansowania zwrotnego społecznym inicjatywom mieszkaniowym, w których gmina lub gminy dysponują odpowiednio ponad 50 % głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu, oraz spółkom gminnym jest zawarcie umowy z gminą właściwą miejscowo dla planowanego przedsięwzięcia inwestycyjno-budowlanego, określającej:
 
@@ -338,7 +298,7 @@ Art. 34–41. (pominięte)
 - **1)** rodzaje dokumentów składanych przez kredytobiorcę umożliwiających dokonanie oceny wniosku o udzielenie finansowania zwrotnego,
 - **2)** warunki i tryb udzielania finansowania zwrotnego,
 - **3)** minimalne wymagania, jakie powinny spełniać lokale powstałe przy wykorzystaniu finansowania zwrotnego, w zakresie wyposażenia technicznego,
-- **4)** kryteria oceny wniosku o udzielenie finansowania zwrotnego, w tym kryteria zapewniające preferowanie przedsięwzięć do których ma zastosowanie procedura otwartego konkursu przy sporządzaniu projektu architektonicznego mając na względzie zapewnienie wyboru przedsięwzięcia o najwyższej użyteczności społecznej, sprawność finansowania oraz konieczność zapewnienia zgodności przyznawanej rekompensaty z tytułu świadczenia usług publicznych z przepisami prawa Unii Europejskiej.
+- **4)** kryteria oceny wniosku o udzielenie finansowania zwrotnego, w tym kryteria zapewniające preferowanie przedsięwzięć do których ma zastosowanie procedura otwartego konkursu przy sporządzaniu projektu architektonicznego – mając na względzie zapewnienie wyboru przedsięwzięcia o najwyższej użyteczności społecznej, sprawność finansowania oraz konieczność zapewnienia zgodności przyznawanej rekompensaty z tytułu świadczenia usług publicznych z przepisami prawa Unii Europejskiej.
 
 **Art. 15c.**
 
@@ -347,7 +307,7 @@ Art. 34–41. (pominięte)
 2. Bank Gospodarstwa Krajowego otrzymuje do oprocentowania kredytu dopłatę:
 
 - **1)** w kwocie stanowiącej różnicę między częścią odsetkową 60 pierwszych miesięcznych rat tego kredytu, w tym rat obejmujących wyłącznie spłatę odsetek w okresie karencji w spłacie kapitału, obliczoną zgodnie ze stopą procentową określoną w ust. 1, a częścią odsetkową tych rat, obliczoną zgodnie z oprocentowaniem tego kredytu wynoszącym 2 %, jednak nie wyższą niż część odsetkowa tych rat obliczona zgodnie ze stopą procentową wynoszącą 7 %, oraz
-- **2)** wynoszącą 1,3 punktu procentowego powyżej stopy określonej w ust. 1 naliczaną i płatną na warunkach i w terminach wynikających z umowy, o której mowa w ust. 4.
+- **2)** wynoszącą 1,3 punktu procentowego powyżej stopy określonej w ust. 1 – naliczaną i płatną na warunkach i w terminach wynikających z umowy, o której mowa w ust. 4.
 
 2a. Bank Gospodarstwa Krajowego obniża kwoty 60 pierwszych rat kredytu objętego dopłatą, o której mowa w ust. 2 pkt 1, o kwotę stanowiącą różnicę między częścią odsetkową tych rat, w tym rat obejmujących wyłącznie spłatę odsetek w okresie karencji w spłacie kapitału, obliczoną zgodnie ze stopą procentową określoną w ust. 1, a częścią odsetkową tych rat, obliczoną zgodnie z oprocentowaniem tego kredytu wynoszącym 2 %, jednak nie wyższą niż część odsetkowa tych rat obliczona zgodnie ze stopą procentową wynoszącą 7 %.
 
@@ -377,7 +337,7 @@ Art. 34–41. (pominięte)
 
 **Art. 15g.** (uchylony)
 
-#### Rozdział 3 (uchylony)
+#### Rozdział 3
 
 #### Rozdział 3a Społeczne agencje najmu
 
@@ -395,7 +355,8 @@ Art. 34–41. (pominięte)
 2. Jako SAN może działać:
 
 - **1)** spółka z ograniczoną odpowiedzialnością lub spółka akcyjna, w których gmina lub gminy dysponują odpowiednio ponad 50 % głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu;
-- **2)** podmiot, o którym mowa w art. 3 ust. 2 lub 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940).
+- **2)** podmiot, o którym mowa w art. 3 ust. 2 lub 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940);
+- **3)** spółdzielnia mieszkaniowa.
 
 3. Dochody z działalności, o której mowa w ust. 1 i 1a, SAN przeznacza w całości na tę działalność.
 
@@ -431,8 +392,8 @@ Art. 34–41. (pominięte)
 
 4. Wypowiedzenie umowy dzierżawy następuje, z uwzględnieniem ust. 2, z zachowaniem co najmniej:
 
-- **1)** sześciomiesięcznego okresu wypowiedzenia w przypadku gdy umowę dzierżawy wypowiada SAN;
-- **2)** rocznego okresu wypowiedzenia w przypadku gdy umowę dzierżawy wypowiada właściciel lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego.
+- **1)** sześciomiesięcznego okresu wypowiedzenia – w przypadku gdy umowę dzierżawy wypowiada SAN;
+- **2)** rocznego okresu wypowiedzenia – w przypadku gdy umowę dzierżawy wypowiada właściciel lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego.
 
 5. Wypowiedzenie umowy dzierżawy wymaga formy pisemnej pod rygorem nieważności.
 
@@ -462,7 +423,7 @@ Art. 34–41. (pominięte)
 
 **Art. 22f.**
 
-1. Umowę najmu SAN zawiera na czas oznaczony z osobą fizyczną wskazaną przez gminę, a w przypadku dopuszczenia przez radę gminy możliwości kwalifikowania przez SAN osób fizycznych do zawarcia umowy na podstawie art. 22b ust. 1 pkt 5 umowę najmu SAN zawiera na czas oznaczony z osobą fizyczną wybraną w sposób określony w uchwale, o której mowa w art. 22e ust. 1.
+1. Umowę najmu SAN zawiera na czas oznaczony z osobą fizyczną wskazaną przez gminę, a w przypadku dopuszczenia przez radę gminy możliwości kwalifikowania przez SAN osób fizycznych do zawarcia umowy na podstawie art. 22b ust. 1 pkt 5 – umowę najmu SAN zawiera na czas oznaczony z osobą fizyczną wybraną w sposób określony w uchwale, o której mowa w art. 22e ust. 1.
 
 2. Umowa najmu ulega rozwiązaniu najpóźniej z dniem zakończenia umowy dzierżawy.
 
@@ -488,20 +449,20 @@ Art. 34–41. (pominięte)
 2. Gmina informuje ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa o:
 
 - **1)** liczbie i łącznej powierzchni użytkowej lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wynajmowanych przez SAN na terenie tej gminy,
-- **2)** liczbie osób używających lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wynajmowanych przez SAN w terminie do dnia 31 stycznia roku następującego po roku, którego dotyczy informacja.
+- **2)** liczbie osób używających lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wynajmowanych przez SAN – w terminie do dnia 31 stycznia roku następującego po roku, którego dotyczy informacja.
 
 **Art. 22i.**
 
 1. Wsparcie udzielane SAN w związku z działalnością, o której mowa w art. 22a ust. 1 i 1a:
 
 - **1)** na zasadach określonych zgodnie z art. 22b ust. 1 pkt 2,
-- **2)** na podstawie art. 17 ust. 1 pkt 44 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych stanowi rekompensatę z tytułu świadczenia usługi publicznej w rozumieniu przepisów prawa Unii Europejskiej dotyczących pomocy publicznej z tytułu świadczenia usług w ogólnym interesie gospodarczym.
+- **2)** na podstawie art. 17 ust. 1 pkt 44 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych – stanowi rekompensatę z tytułu świadczenia usługi publicznej w rozumieniu przepisów prawa Unii Europejskiej dotyczących pomocy publicznej z tytułu świadczenia usług w ogólnym interesie gospodarczym.
 
 2. W przypadku udzielania SAN wsparcia, o którym mowa w ust. 1, gmina określa w umowie o współpracy rodzaj i okres realizacji rekompensowanej tym działaniem usługi publicznej.
 
 3. Przepisy ust. 1 i 2 stosuje się z uwzględnieniem przepisów o pomocy publicznej.
 
-**Art. 22j.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego dotyczące najmu oraz przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) dotyczące dzierżawy oraz najmu.
+**Art. 22j.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego dotyczące najmu oraz przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) dotyczące dzierżawy oraz najmu.
 
 #### Rozdział 4 Społeczne inicjatywy mieszkaniowe
 
@@ -513,7 +474,7 @@ Art. 34–41. (pominięte)
 - **2)** spółek akcyjnych;
 - **3)** spółdzielni osób prawnych.
 
-2. Do społecznej inicjatywy mieszkaniowej, zwanej dalej „SIM”, stosuje się odpowiednio przepisy Kodeksu spółek handlowych lub ustawy z dnia 16 września 1982 r. Prawo spółdzielcze, ze zmianami wynikającymi z przepisów niniejszego rozdziału.
+2. Do społecznej inicjatywy mieszkaniowej, zwanej dalej „SIM”, stosuje się odpowiednio przepisy Kodeksu spółek handlowych lub ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze, ze zmianami wynikającymi z przepisów niniejszego rozdziału.
 
 **Art. 24.**
 
@@ -527,7 +488,7 @@ Art. 34–41. (pominięte)
 
 4. (uchylony)
 
-5. Ilekroć w ustawie jest mowa o społecznej inicjatywie mieszkaniowej należy przez to rozumieć także towarzystwo budownictwa społecznego utworzone przed dniem wejścia w życie ustawy z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (Dz. U. z 2021 r. poz. 11, z 2022 r. poz. 807 i 2666 oraz z 2024 r. poz. 1762).
+5. Ilekroć w ustawie jest mowa o społecznej inicjatywie mieszkaniowej – należy przez to rozumieć także towarzystwo budownictwa społecznego utworzone przed dniem wejścia w życie ustawy z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (Dz. U. z 2021 r. poz. 11, z 2022 r. poz. 807 i 2666 oraz z 2024 r. poz. 1762).
 
 **Art. 25.**
 
@@ -573,8 +534,8 @@ Art. 34–41. (pominięte)
 
 2. Czynsz, o którym mowa w ust. 1, w skali roku nie może przekraczać:
 
-- **1)** 4 % wartości odtworzeniowej lokalu, obliczonej według przepisów ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego w przypadku lokali mieszkalnych wybudowanych przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r.;
-- **2)** 5 % wartości odtworzeniowej, o której mowa w pkt 1 w przypadku lokali mieszkalnych wybudowanych przy wykorzystaniu finansowania zwrotnego lub lokali mieszkalnych znajdujących się w zasobach mieszkaniowych SIM utworzonej z udziałem Skarbu Państwa reprezentowanego przez Krajowy Zasób Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834), zwany dalej „KZN”.
+- **1)** 4 % wartości odtworzeniowej lokalu, obliczonej według przepisów ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego – w przypadku lokali mieszkalnych wybudowanych przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r.;
+- **2)** 5 % wartości odtworzeniowej, o której mowa w pkt 1 – w przypadku lokali mieszkalnych wybudowanych przy wykorzystaniu finansowania zwrotnego lub lokali mieszkalnych znajdujących się w zasobach mieszkaniowych SIM utworzonej z udziałem Skarbu Państwa reprezentowanego przez Krajowy Zasób Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834), zwany dalej „KZN”.
 
 2a. Dla gmin graniczących z miastami będącymi siedzibami wojewodów lub sejmików wojewódzkich wskaźnik wartości odtworzeniowej, o którym mowa w ust. 2 pkt 2, określa się przez wyznaczenie średniej arytmetycznej wskaźników dla tych miast oraz pozostałych miejscowości w województwie.
 
@@ -583,11 +544,11 @@ Art. 34–41. (pominięte)
 3. Do czynszu, o którym mowa w ust. 1, nie wlicza się:
 
 - **1)** spłaty zobowiązania związanego z umową, o której mowa w art. 29 ust. 2b;
-- **2)** niepodlegających zwrotowi lub refundacji kosztów ponoszonych przez SIM w związku z: o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2024 r. poz. 1446, z późn. zm. ),
+- **2)** niepodlegających zwrotowi lub refundacji kosztów ponoszonych przez SIM w związku z: o rewitalizacji (Dz. U. z 2024 r. poz. 278), lub przedsięwzięcia rewitalizacyjnego zgodnego z charakterystyką, o której mowa w art. 15 ust. 1 pkt 5 lit. b tej ustawy, i realizowanego na obszarze rewitalizacji – oraz kosztów zaciągniętego na te cele kredytu.
     - **a)** instalacją i konserwacją instalacji odnawialnych źródeł energii,
-    - **b)** realizacją przedsięwzięcia termomodernizacyjnego w rozumieniu art. 2 pkt 2 ustawy z dnia 21 listopada 2008 r.
+    - **b)** realizacją przedsięwzięcia termomodernizacyjnego w rozumieniu art. 2 pkt 2 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2024 r. poz. 1446, z późn. zm. ),
     - **c)** realizacją inwestycji, której celem jest zapewnienie dostępności osobom ze szczególnymi potrzebami lub jej poprawy, w rozumieniu ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2024 r. poz. 1411),
-    - **d)** realizacją przedsięwzięcia rewitalizacyjnego wpisanego na listę, o której mowa w art. 15 ust. 1 pkt 5 lit. a ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278), lub przedsięwzięcia rewitalizacyjnego zgodnego z charakterystyką, o której mowa w art. 15 ust. 1 pkt 5 lit. b tej ustawy, i realizowanego na obszarze rewitalizacji oraz kosztów zaciągniętego na te cele kredytu.
+    - **d)** realizacją przedsięwzięcia rewitalizacyjnego wpisanego na listę, o której mowa w art. 15 ust. 1 pkt 5 lit. a ustawy z dnia 9 października 2015 r.
 
 4. Najemca oprócz czynszu, o którym mowa w ust. 1, ponosi także opłaty z tytułu kosztów, o których mowa w ust. 3 pkt 2.
 
@@ -619,12 +580,12 @@ Art. 34–41. (pominięte)
 
 - **1)** zapłatą czynszu, o którym mowa w art. 28 ust. 1, lub
 - **2)** opłatami z tytułu kosztów, o których mowa w art. 28 ust. 3 pkt 2, lub
-- **3)** opłatami niezależnymi od SIM, a przez nią pobieranymi za miesiąc przez łączny okres co najmniej 3 miesięcy.
+- **3)** opłatami niezależnymi od SIM, a przez nią pobieranymi – za miesiąc przez łączny okres co najmniej 3 miesięcy.
 
 5a. W przypadku gdy przeniesienie praw i obowiązków wynikających z umowy, o której mowa w ust. 1, jest dokonywane na osobę:
 
 - **1)** zaliczaną do I albo II grupy podatkowej, o której mowa w art. 14 ust. 3 pkt 1 i 2 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 1837 oraz z 2025 r. poz. 769 i 1064), oraz
-- **2)** spełniającą warunki określone w art. 30 ust. 1 przepisu ust. 5 nie stosuje się, chyba że osoba ta jest najemcą tego lokalu.
+- **2)** spełniającą warunki określone w art. 30 ust. 1 – przepisu ust. 5 nie stosuje się, chyba że osoba ta jest najemcą tego lokalu.
 
 5b. W przypadku gdy SIM odmówiła wyrażenia zgody, o której mowa w ust. 5, po zakończeniu umowy najmu i opróżnieniu lokalu mieszkalnego, kwota partycypacji podlega zwrotowi na zasadach, o których mowa w art. 29a ust. 3 i 4, chyba że zakończenie umowy tego najmu nastąpiło po upływie 3 miesięcy od dnia tej odmowy.
 
@@ -640,7 +601,7 @@ Art. 34–41. (pominięte)
 
 2b. W przypadku gdy kwota partycypacji stanowi co najmniej 10 % kosztów budowy lokalu, umowę najmu zawiera się na czas nieoznaczony albo jako umowę najmu instytucjonalnego z dojściem do własności, o której mowa w art. 19k ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego.
 
-3. W przypadku zakończenia najmu i opróżnienia lokalu mieszkalnego wybudowanego przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r. lub przy wykorzystaniu finansowania zwrotnego, kwota partycypacji, o której mowa w ust. 1, podlega zwrotowi najemcy nie później niż w terminie 12 miesięcy od dnia opróżnienia lokalu. Kwotę zwracanej partycypacji, ustaloną według stanu na dzień opróżnienia lokalu, oblicza się według wzoru: 𝑃 =𝑃 𝐶 ∗ ∗(100 %−0,75 %∗n/4) 𝐶 gdzie poszczególne symbole oznaczają: P kwota zwracanej partycypacji, P kwota wpłaconej partycypacji, C średnia arytmetyczna czterech kolejnych wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2024 r. poz. 1774) dla kwartałów poprzedzających kwartał, w którym nastąpiło opróżnienie lokalu, C średnia arytmetyczna wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego dla kwartału, w którym nastąpiło zawarcie umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, oraz dla trzech poprzedzających ten kwartał okresów kwartalnych, n liczba pełnych kwartałów przypadających w okresie od dnia zawarcia umowy najmu lokalu do dnia, w którym nastąpiło opróżnienie lokalu.
+3. W przypadku zakończenia najmu i opróżnienia lokalu mieszkalnego wybudowanego przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r. lub przy wykorzystaniu finansowania zwrotnego, kwota partycypacji, o której mowa w ust. 1, podlega zwrotowi najemcy nie później niż w terminie 12 miesięcy od dnia opróżnienia lokalu. Kwotę zwracanej partycypacji, ustaloną według stanu na dzień opróżnienia lokalu, oblicza się według wzoru: P = P C ∗ ∗(100 %−0,75 %∗n/4) C gdzie poszczególne symbole oznaczają: P – kwota zwracanej partycypacji, P – kwota wpłaconej partycypacji, C – średnia arytmetyczna czterech kolejnych wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2024 r. poz. 1774) dla kwartałów poprzedzających kwartał, w którym nastąpiło opróżnienie lokalu, C – średnia arytmetyczna wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego dla kwartału, w którym nastąpiło zawarcie umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, oraz dla trzech poprzedzających ten kwartał okresów kwartalnych, n – liczba pełnych kwartałów przypadających w okresie od dnia zawarcia umowy najmu lokalu do dnia, w którym nastąpiło opróżnienie lokalu.
 
 4. W przypadku gdy umowa najmu uzależnia termin zwrotu kwoty partycypacji od zawarcia umowy najmu danego lokalu z następnym najemcą, zwrot kwoty partycypacji następuje z dniem zawarcia tej umowy, jednak nie później niż w terminie, o którym mowa w ust. 3.
 
@@ -651,22 +612,22 @@ Art. 34–41. (pominięte)
 1. SIM może wynająć lokal mieszkalny wybudowany przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r. lub przy wykorzystaniu finansowania zwrotnego osobie fizycznej, jeżeli:
 
 - **1)** osoba fizyczna oraz osoby zgłoszone do wspólnego zamieszkania, w dniu objęcia lokalu, nie posiadają tytułu prawnego do innego lokalu mieszkalnego w tej samej miejscowości,
-- **2)** średni miesięczny dochód gospodarstwa domowego w roku poprzedzającym rok, w którym jest zawierana umowa najmu lokalu wybudowanego przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r., w przypadku, gdy z budową lokalu było związane zawarcie umowy, o której mowa w art. 29 ust. 1 lub w art. 29a ust. 1, lub wybudowanego przy udziale finansowania zwrotnego, w przypadku, gdy z budową lokalu było związane zawarcie umowy, o której mowa w art. 29 ust. 2b, nie przekracza 1,5 ostatnio ogłoszonego przeciętnego wynagrodzenia miesięcznego brutto w gospodarce narodowej w województwie, na terenie którego położony jest lokal mieszkalny, więcej niż o:
+- **2)** średni miesięczny dochód gospodarstwa domowego w roku poprzedzającym rok, w którym jest zawierana umowa najmu lokalu wybudowanego przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r., w przypadku, gdy z budową lokalu było związane zawarcie umowy, o której mowa w art. 29 ust. 1 lub w art. 29a ust. 1, lub wybudowanego przy udziale finansowania zwrotnego, w przypadku, gdy z budową lokalu było związane zawarcie umowy, o której mowa w art. 29 ust. 2b, nie przekracza 1,5 ostatnio ogłoszonego przeciętnego wynagrodzenia miesięcznego brutto w gospodarce narodowej w województwie, na terenie którego położony jest lokal mieszkalny, więcej niż o: w innych przypadkach, niż wskazane w pkt 2, nie przekracza:
     - **a)** 5 % w jednoosobowym gospodarstwie domowym,
     - **b)** 55 % w dwuosobowym gospodarstwie domowym,
-    - **c)** dalsze 35 % na każdą dodatkową osobę w gospodarstwie domowym o większej liczbie osób, 2a) średni miesięczny dochód gospodarstwa domowego w roku poprzedzającym rok, w którym jest zawierana umowa najmu lokalu mieszkalnego wybudowanego przy wykorzystaniu finansowania zwrotnego lub przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r. w innych przypadkach, niż wskazane w pkt 2, nie przekracza:
+    - **c)** dalsze 35 % na każdą dodatkową osobę w gospodarstwie domowym o większej liczbie osób, 2a) średni miesięczny dochód gospodarstwa domowego w roku poprzedzającym rok, w którym jest zawierana umowa najmu lokalu mieszkalnego wybudowanego przy wykorzystaniu finansowania zwrotnego lub przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r.
     - **a)** 100 % w jednoosobowym gospodarstwie domowym,
     - **b)** 145 % w dwuosobowym gospodarstwie domowym,
     - **c)** 175 % w trzyosobowym gospodarstwie domowym,
     - **d)** 205 % w czteroosobowym gospodarstwie domowym,
-    - **e)** 205 % w gospodarstwie większym niż czteroosobowe, powiększone o dodatkowe 35 % na każdą kolejną osobę w gospodarstwie domowym iloczynu wysokości ostatnio ogłoszonego przeciętnego wynagrodzenia miesięcznego brutto w gospodarce narodowej w województwie, na terenie którego położony jest lokal mieszkalny, oraz współczynnika 1,4.
+    - **e)** 205 % w gospodarstwie większym niż czteroosobowe, powiększone o dodatkowe 35 % na każdą kolejną osobę w gospodarstwie domowym – iloczynu wysokości ostatnio ogłoszonego przeciętnego wynagrodzenia miesięcznego brutto w gospodarce narodowej w województwie, na terenie którego położony jest lokal mieszkalny, oraz współczynnika 1,4.
 
 - **3)** (uchylony) 1a. SIM może wynająć lokal mieszkalny w swoich zasobach osobie posiadającej tytuł prawny do lokalu w innej miejscowości lub osobie wchodzącej w skład gospodarstwa domowego, którego członek posiada tytuł prawny do lokalu w innej miejscowości, jeżeli zmiana miejsca zamieszkania jest związana z podjęciem przez członka gospodarstwa domowego pracy w pobliżu miejsca położenia zasobów SIM, w których znajduje się lokal, o którego wynajem się ubiega.
 
 1b. W przypadku wystąpienia ważnych przyczyn uzasadniających zamianę lokalu mieszkalnego, w szczególności takich jak powiększenie lub zmniejszenie się gospodarstwa domowego lub obniżenie się stanu technicznego lokalu utrudniającego użytkowanie lokalu do:
 
 - **1)** dotychczasowych najemców lokali mieszkalnych, z którymi po rozwiązaniu umowy najmu zostanie zawarta nowa umowa najmu lokalu mieszkalnego, przy ustalaniu dopuszczalnej wysokości średniego miesięcznego dochodu gospodarstwa domowego w roku poprzedzającym rok, w którym jest zawierana kolejna umowa najmu,
-- **2)** nowych umów najmu w zakresie zasad najmu innych niż wskazane w pkt 1 stosuje się przepisy obowiązujące w dniu zawarcia umowy najmu pierwszego lokalu.
+- **2)** nowych umów najmu w zakresie zasad najmu innych niż wskazane w pkt 1 – stosuje się przepisy obowiązujące w dniu zawarcia umowy najmu pierwszego lokalu.
 
 2. Prezes Głównego Urzędu Statystycznego ogłasza do końca IV kwartału każdego roku, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, wysokość przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach za ubiegły rok.
 
@@ -734,9 +695,9 @@ Art. 34–41. (pominięte)
 
 **Art. 32a.** W przypadku lokali mieszkalnych w zasobach SIM wybudowanych bez udziału kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r. lub finansowania zwrotnego SIM może zdecydować, że do najmu tych lokali będą stosowane odpowiednio przepisy art. 30 ust. 3, 3a, 5 i 7, jeżeli lokale te służą zaspokojeniu potrzeb mieszkaniowych wspólnoty samorządowej i zostały wybudowane z udziałem gminy.
 
-**Art. 33.** W sprawach nieuregulowanych w rozdziale 4 i rozdziale 4aa stosuje się odpowiednio przepisy ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące najmu.
+**Art. 33.** W sprawach nieuregulowanych w rozdziale 4 i rozdziale 4aa stosuje się odpowiednio przepisy ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny dotyczące najmu.
 
-#### Rozdział 4a (uchylony)
+#### Rozdział 4a
 
 #### Rozdział 4aa Rozliczenie partycypacji w okresie najmu lokalu mieszkalnego
 
@@ -756,7 +717,7 @@ Art. 34–41. (pominięte)
 
 1. (uchylony) 1a. Lokale mieszkalne, o których mowa w art. 33ea ust. 1, nie mogą być wyodrębniane na własność przed:
 
-- **1)** upływem 15 lat, licząc od dnia przekazania do użytkowania obiektu budowlanego, w którym znajdują się te lokale, zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080) oraz
+- **1)** upływem 15 lat, licząc od dnia przekazania do użytkowania obiektu budowlanego, w którym znajdują się te lokale, zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080) oraz
 - **2)** dniem całkowitej spłaty kredytu udzielonego w przypadku lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia, na które Bank Gospodarstwa Krajowego udzielił kredytu na podstawie wniosku złożonego do dnia 30 września 2009 r.
 
 1b. W przypadku lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego, na którego pokrycie części kosztów udzielono finansowego wsparcia, o którym mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, z wnioskiem o przeniesienie własności lokalu najemca może wystąpić po upływie 15 lat od dnia rozliczenia kosztów przedsięwzięcia.
@@ -785,7 +746,7 @@ Art. 34–41. (pominięte)
 
 - **1)** podlegających zgodnie z ust. 1 spłacie do Funduszu Dopłat,
 - **2)** z tytułu spłaty zadłużenia przypadającego na wyodrębniany na własność lokal,
-- **3)** z tytułu spłaty przypadającej na ten lokal części umorzenia dokonywana przez osobę fizyczną, o której mowa w art. 33ea ust. 2, następuje na będący w posiadaniu SIM rachunek powierniczy, prowadzony zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ).
+- **3)** z tytułu spłaty przypadającej na ten lokal części umorzenia – dokonywana przez osobę fizyczną, o której mowa w art. 33ea ust. 2, następuje na będący w posiadaniu SIM rachunek powierniczy, prowadzony zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ).
 
 3. SIM w terminie 7 dni od dnia otrzymania środków, o których mowa w ust. 2, przekazuje środki z tytułu spłaty zadłużenia przypadającego na wyodrębniany na własność lokal na rachunek Banku Gospodarstwa Krajowego, a środki podlegające, zgodnie z ust. 1, spłacie do Funduszu Dopłat oraz środki z tytułu spłaty przypadającej na ten lokal części umorzenia na rachunek Funduszu Dopłat.
 
@@ -805,11 +766,7 @@ Art. 34–41. (pominięte)
 
 3. W zakresie nieuregulowanym w ustawie do prawa odrębnej własności lokalu stosuje się odpowiednio przepisy ustawy z dnia 24 czerwca 1994 r. o własności lokali, z wyjątkiem przepisów art. 23 ust. 2a i 2b tej ustawy.
 
-**Art. 33k.**
-
-- **27)** Do wyodrębniania na własność lokali mieszkalnych wybudowanych na wynajem przez spółdzielnie mieszkaniowe lub spółki gminne przy wykorzystaniu finansowania zwrotnego przepisy art. 33ea ust. 1, 2, 4 i 5, art. 33f ust. 1a–3 i 5, art. 33h–33j stosuje się odpowiednio. Art. 33ka. 1. Do wyodrębniania na własność lokali mieszkalnych wybudowanych na wynajem przez SIM przy wykorzystaniu finansowania zwrotnego, przeniesionych do mieszkaniowego zasobu gminy w wyniku likwidacji SIM, przepisy art. 33ea ust. 1, 4 i 5, art. 33f ust. 1a–2 i 5, art. 33h ust. 1 oraz art. 33j stosuje się odpowiednio. Przepisu art. 33ea ust. 2 nie stosuje się.
-
-2. W przypadku, o którym mowa w ust. 1, bonifikata, o której mowa w art. 68 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, może być udzielona do wysokości odpowiadającej iloczynowi ceny sprzedaży oraz wskaźnika, o którym mowa w art. 33h ust. 1.
+**Art. 33k.** Do wyodrębniania na własność lokali mieszkalnych wybudowanych na wynajem przez spółdzielnie mieszkaniowe lub spółki gminne przy wykorzystaniu finansowania zwrotnego przepisy art. 33ea ust. 1, 2, 4 i 5, art. 33f ust. 1a–3 i 5, art. 33h–33j stosuje się odpowiednio. Art. 33ka. 1. Do wyodrębniania na własność lokali mieszkalnych wybudowanych na wynajem przez SIM przy wykorzystaniu finansowania zwrotnego, przeniesionych do mieszkaniowego zasobu gminy w wyniku likwidacji SIM, przepisy art. 33ea ust. 1, 4 i 5, art. 33f ust. 1a–2 i 5, art. 33h ust. 1 oraz art. 33j stosuje się odpowiednio. Przepisu art. 33ea ust. 2 nie stosuje się. 2. W przypadku, o którym mowa w ust. 1, bonifikata, o której mowa w art. 68 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, może być udzielona do wysokości odpowiadającej iloczynowi ceny sprzedaży oraz wskaźnika, o którym mowa w art. 33h ust. 1.
 
 #### Rozdział 4c (uchylony)
 

@@ -8,9 +8,12 @@ pos: 948
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 maja 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 kwietnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000948) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/948/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 kwietnia 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2105 i 2349 oraz z 2022 r. poz. 1265, 1301, 1719 i 2180),
 2) ustawą z dnia 1 grudnia 2022 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U.

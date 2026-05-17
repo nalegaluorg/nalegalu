@@ -8,9 +8,12 @@ pos: 515
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 kwietnia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy Karta Nauczyciela
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000515) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/515/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy Karta Nauczyciela
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2024 r. poz. 986), z uwzględnieniem stanu prawnego na dzień 9 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234 oraz z 2025 r. poz. 1019);
 2) ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871);
@@ -41,15 +42,21 @@ poz. 1792);
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 62–64, art. 66 i art. 84 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234 oraz z 2025 r. poz. 1019), które stanowią: „Art. 62. Legitymacja służbowa wydana nauczycielowi na podstawie art. 11a ustawy zmienianej art. 24, brzmieniu obowiązującym przed dniem 30 listopada 2025 r., zachowuje ważność do dnia wydania nauczycielowi nowej legitymacji, o której mowa art. 11c ust. 1 ustawy zmienianej art. 24, jednak nie dłużej niż do dnia upływu terminu, na który została wydana.
 
-**Art. 63.** Stwierdzenia nieważności, anulowania oraz zwrotu legitymacji służbowej wydanej nauczycielowi na podstawie art. 11a ustawy zmienianej art. 24, brzmieniu obowiązującym przed dniem 30 listopada 2025 r., dokonuje się zgodnie z przepisami wydanymi na podstawie art. 11a ust. 3 ustawy zmienianej art. 24, brzmieniu obowiązującym przed dniem 30 listopada 2025 r. ustawy zmienianej art. 24, dniu 30 listopada 2025 r., po uwierzytelnieniu przy użyciu certyfikatu podstawowego albo certyfikatu, o którym mowa art. 10 ust. 3 ustawy zmienianej art. 52, brzmieniu nadanym niniejszą ustawą, do dnia 15 grudnia 2025 r., wydaje się mLegitymację, o której mowa art. 11b ust. 1 ustawy zmienianej art. 24, chyba że przed wydaniem nauczycielowi mLegitymacji nastąpiło rozwiązanie albo wygaśnięcie stosunku pracy nauczyciela.” „Art. 66. Stwierdzenie nieważności legitymacji służbowej nauczyciela oraz utrata ważności tej legitymacji, wydanej przed dniem 30 listopada 2025 r., nie skutkują unieważnieniem mLegitymacji, o której mowa art. 11b ust. 1 ustawy zmienianej art. 24.” „Art. 84. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+**Art. 63.** Stwierdzenia nieważności, anulowania oraz zwrotu legitymacji służbowej wydanej nauczycielowi na podstawie art. 11a ustawy zmienianej art. 24, brzmieniu obowiązującym przed dniem 30 listopada 2025 r., dokonuje się zgodnie z przepisami wydanymi na podstawie art. 11a ust. 3 ustawy zmienianej art. 24, brzmieniu obowiązującym przed dniem 30 listopada 2025 r.
+
+**Art. 64.** Nauczycielom zatrudnionym jednostkach organizacyjnych, o których mowa art. 1 ust. 1 i ust. 2 pkt 2 ustawy zmienianej art. 24, dniu 30 listopada 2025 r., po uwierzytelnieniu przy użyciu certyfikatu podstawowego albo certyfikatu, o którym mowa art. 10 ust. 3 ustawy zmienianej art. 52, brzmieniu nadanym niniejszą ustawą, do dnia 15 grudnia 2025 r., wydaje się mLegitymację, o której mowa art. 11b ust. 1 ustawy zmienianej art. 24, chyba że przed wydaniem nauczycielowi mLegitymacji nastąpiło rozwiązanie albo wygaśnięcie stosunku pracy nauczyciela.” danej przed dniem 30 listopada 2025 r., nie skutkują unieważnieniem mLegitymacji, o której mowa art. 11b ust. 1 ustawy zmienianej art. 24.” „Art. 84. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 **Art. 8.** Do dokonywania oceny pracy nauczyciela, który rozpoczął odbywanie przygotowania do zawodu nauczyciela przed dniem 1 września 2025 r., stosuje się przepisy art. 6a ust. 1da i 1db ustawy zmienianej art. 1, brzmieniu dotychczasowym, z tym że przypadku, o którym mowa art. 6a ust. 1db ustawy zmienianej art. 1, brzmieniu dotychczasowym, oceny pracy dokonuje się terminie nie dłuższym niż 30 dni roboczych odpowiednio od dnia rozwiązania lub wygaśnięcia stosunku pracy.
 
 **Art. 9.** Nauczyciel, który rozpoczął odbywanie przygotowania do zawodu nauczyciela przed dniem 1 września 2025 r., odbywa je według przepisów dotychczasowych.
 
-**Art. 10.** Do nauczyciela nieposiadającego stopnia awansu zawodowego, który rozpoczął odbywanie przygotowania do zawodu nauczyciela przed dniem 1 września 2025 r., stosuje się przepisy art. 10 ust. 2–3a ustawy zmienianej art. 1, brzmieniu dotychczasowym. Przepisu art. 10 ust. 3aa ustawy zmienianej art. 1 nie stosuje się. 2. Przepis art. 47 ust. 1 pkt 6 ustawy zmienianej art. 1 ma zastosowanie do nauczycieli, którym okres 45 lat pracy upłynie po dniu 31 grudnia 2025 r.
+**Art. 10.** Do nauczyciela nieposiadającego stopnia awansu zawodowego, który rozpoczął odbywanie przygotowania do zawodu nauczyciela przed dniem 1 września 2025 r., stosuje się przepisy art. 10 ust. 2–3a ustawy zmienianej art. 1, brzmieniu dotychczasowym. Przepisu art. 10 ust. 3aa ustawy zmienianej art. 1 nie stosuje się.
 
-**Art. 12.** Przepisy art. 49 ust. 1a i 1b ustawy zmienianej art. 1 mają zastosowanie po raz pierwszy do ustalania środków, o których mowa art. 49 ust. 1 pkt 2 ustawy zmienianej art. 1, wyodrębnianych budżetach wojewodów planowanych na rok 2027.
+**Art. 11.**
+
+1. Przepis art. 47 ust. 1 pkt 5 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, ma zastosowanie do nauczycieli, którym okres 40 lat pracy upłynie po dniu 31 grudnia 2025 r.
+
+2. Przepis art. 47 ust. 1 pkt 6 ustawy zmienianej art. 1 ma zastosowanie do nauczycieli, którym okres 45 lat pracy upłynie po dniu 31 grudnia 2025 r. planowanych na rok 2027.
 
 **Art. 13.** Porozumienia między wojewodami i kuratorami oświaty powierzające prowadzenie imieniu wojewody spraw z zakresu odpowiedzialności dyscyplinarnej określonych rozdziale 10 ustawy zmienianej art. 1, zawarte na podstawie art. 20 ust. 2 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej województwie (Dz. U. z 2025 r. poz. 428), zachowują moc do dnia 31 sierpnia 2026 r.” „Art. 18. 1. Dotychczasowe regulaminy określone przez organy prowadzące szkoły będące jednostkami samorządu terytorialnego na podstawie art. 30 ust. 6 ustawy zmienianej art. 1, brzmieniu dotychczasowym, zachowują moc do dnia wejścia życie nowych regulaminów określonych przez te organy na podstawie art. 30 ust. 6 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane na podstawie tych przepisów. 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 30 ust. 7 i 7a ustawy zmienianej art. 1, brzmieniu dotychczasowym, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 30 ust. 7 i 7a ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane na podstawie tych przepisów. 3. Dotychczasowe akty wydane przez organy prowadzące szkoły na podstawie art. 42 ust. 7 ustawy zmienianej art. 1, brzmieniu dotychczasowym, zachowują moc zakresie art. 42 ust. 7 pkt 2 i 3 ustawy zmienianej art. 1, brzmieniu dotychczasowym, do dnia 1 września 2026 r. i mogą tym czasie być zmieniane na podstawie art. 42 ust. 7 pkt 2 i 3 ustawy zmienianej art. 1, brzmieniu dotychczasowym.
 
@@ -86,7 +93,7 @@ poz. 1792);
 - **1c)** nauczyciele skierowani przez ministra właściwego do spraw oświaty i wychowania do pracy szkołach działających na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej Luksemburgu dnia 21 czerwca 1994 r. (Dz. U. z 2005 r. poz. 10), zwanych dalej „szkołami europejskimi”;
 - **1d)** nauczyciele szkół za granicą;
 - **2)** nauczyciele zatrudnieni w:
-    - **a)** publicznych przedszkolach, szkołach i placówkach prowadzonych przez osoby fizyczne oraz osoby prawne niebędące jednostkami samorządu terytorialnego, nych i niepublicznych szkołach artystycznych o uprawnieniach publicznych szkół artystycznych,
+    - **a)** publicznych przedszkolach, szkołach i placówkach prowadzonych przez osoby fizyczne oraz osoby prawne niebędące jednostkami samorządu terytorialnego,
     - **c)** publicznych innych formach wychowania przedszkolnego prowadzonych przez osoby fizyczne oraz osoby prawne niebędące jednostkami samorządu terytorialnego oraz niepublicznych innych formach wychowania przedszkolnego;
 
 - **3)** nauczyciele urlopowani na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440 i 1661);
@@ -124,7 +131,7 @@ poz. 1792);
 - **1)** przed podjęciem pracy szkole był nauczycielem, o którym mowa art. 1 ust. 2 pkt 1b i 1c oraz art. 9ca ust. 10 oceny pracy nauczyciela, o którym mowa ust. 1dd, dokonuje się za okres pracy szkole, jednak niekrótszy niż 9 miesięcy;
 - **2)** zajmował stanowisko dyrektora szkoły, czasowo pełnił obowiązki dyrektora szkoły lub pełnił zastępstwie obowiązki dyrektora szkoły przez okres co najmniej 6 miesięcy, a dniu dokonania oceny pracy nie zajmuje już stanowiska dyrektora szkoły, nie pełni czasowo obowiązków dyrektora szkoły lub nie pełni zastępstwie obowiązków dyrektora szkoły oceny pracy nauczyciela, o którym mowa ust. 1dd, dokonuje się za okres pracy na stanowisku nauczyciela, jednak niekrótszy niż 9 miesięcy. 1df. W przypadku rozwiązania lub wygaśnięcia stosunku pracy lub przeniesienia do innej szkoły nauczyciela mianowanego dyrektor szkoły dokonuje oceny pracy nauczyciela za okres dotychczasowej pracy tej szkole po uzyskaniu stopnia nauczyciela mianowanego, terminie niedłuższym niż 30 dni roboczych odpowiednio od dnia rozwiązania lub wygaśnięcia stosunku pracy lub przeniesienia do innej szkoły. Jeżeli nauczyciel mianowany zmienił miejsce zatrudnienia okresie 3 lat przed dokonaniem oceny, o której mowa ust. 1dd, ocenę pracy z tego okresu z poprzedniego miejsca zatrudnienia uwzględnia się przy dokonywaniu oceny pracy, o której mowa ust. 1dd. 1dg. W przypadku udzielenia nauczycielowi mianowanemu urlopu bezpłatnego, o którym mowa art. 17 ust. 2 lub 2a, urlopowania go lub zwolnienia z obowiązku świadczenia pracy na podstawie ustawy z dnia 23 maja 1991 r. o związkach zawodowych dyrektor szkoły dokonuje oceny pracy nauczyciela za okres dotychczasowej pracy tej szkole po uzyskaniu stopnia nauczyciela mianowanego, terminie niedłuższym niż 30 dni roboczych od dnia zakończenia przez nauczyciela świadczenia pracy tej szkole. 1dh. Ocena pracy, o której mowa ust. 1da–1dd, 1df i 1dg, może być dokonana wcześniej niż po upływie roku od dokonania oceny poprzedniej. 1di. W przypadkach, o których mowa ust. 1db, 1dc, 1df lub 1dg, jeżeli dokonano oceny pracy nauczyciela okresie ostatnich 3 miesięcy, ocenę tę uważa się za ocenę pracy, o której mowa odpowiednio ust. 1db, 1dc, 1df lub 1dg.
 
-1e. Ocena pracy nauczyciela dotyczy stopnia realizacji obowiązków określonych art. 6 i art. 42 ust. 2 oraz art. 5 ustawy Prawo oświatowe zakresie wszystkich obszarów działalności szkoły. ust. 1, 5 i 6 ustawy Prawo oświatowe, a przypadku realizowania przez dyrektora szkoły zajęć dydaktycznych, wychowawczych i opiekuńczych także obowiązków określonych art. 42 ust. 2 oraz art. 5 ustawy Prawo oświatowe.
+1e. Ocena pracy nauczyciela dotyczy stopnia realizacji obowiązków określonych art. 6 i art. 42 ust. 2 oraz art. 5 ustawy Prawo oświatowe zakresie wszystkich obszarów działalności szkoły. wawczych i opiekuńczych także obowiązków określonych art. 42 ust. 2 oraz art. 5 ustawy Prawo oświatowe.
 
 1g. Na ocenę pracy nauczyciela i dyrektora szkoły nie mogą mieć wpływu jego przekonania religijne i poglądy polityczne, a także odmowa wykonania przez niego polecenia służbowego, gdy odmowa taka wynikała z uzasadnionego przekonania, że wydane polecenie było sprzeczne z dobrem ucznia albo dobrem publicznym.
 
@@ -159,7 +166,7 @@ poz. 1792);
 
 5d. W przypadku uzupełniania przez nauczyciela tygodniowego obowiązkowego wymiaru zajęć na podstawie art. 22 ust. 1 oceny pracy nauczyciela dokonuje dyrektor szkoły, której nauczyciel jest zatrudniony, porozumieniu z dyrektorem szkoły, której nauczyciel uzupełnia obowiązkowy wymiar zajęć.
 
-5e. (uchylony) 5f. (uchylony) dyrektor szkoły wyznaczony przez organ sprawujący nadzór pedagogiczny porozumieniu z dyrektorami szkół, których nauczyciel jest zatrudniony.
+5e. (uchylony) 5f. (uchylony) nauczyciel jest zatrudniony.
 
 6. Oceny pracy dyrektora szkoły, nauczyciela, któremu czasowo powierzono pełnienie obowiązków dyrektora szkoły, oraz nauczyciela pełniącego zastępstwie obowiązki dyrektora szkoły przez okres co najmniej 6 miesięcy dokonuje organ sprawujący nadzór pedagogiczny porozumieniu z organem prowadzącym szkołę, a przypadku gdy organ prowadzący szkołę jest jednocześnie organem sprawującym nadzór pedagogiczny oceny dokonuje ten organ. W przypadku placówek doskonalenia nauczycieli oceny pracy dyrektora placówki doskonalenia nauczycieli, nauczyciela, któremu czasowo powierzono pełnienie obowiązków dyrektora placówki doskonalenia nauczycieli, oraz nauczyciela pełniącego zastępstwie obowiązki dyrektora placówki doskonalenia nauczycieli przez okres co najmniej 6 miesięcy dokonuje kurator oświaty porozumieniu z organem prowadzącym placówkę.
 
@@ -190,7 +197,7 @@ poz. 1792);
 
 9. Od ustalonej oceny pracy, terminie 14 dni od dnia jej doręczenia, przysługuje:
 
-- **1)** nauczycielowi prawo wniesienia odwołania, za pośrednictwem dyrektora szkoły, do organu sprawującego nadzór pedagogiczny nad szkołą, a przypadku nauczycieli placówek doskonalenia nauczycieli prawo wniesienia odwołania, za pośrednictwem dyrektora placówki, do kuratora oświaty; nauczycielowi pełniącemu zastępstwie obowiązki dyrektora szkoły przez okres co najmniej 6 miesięcy, a także dyrektorowi placówki doskonalenia nauczycieli, nauczycielowi, któremu czasowo powierzono pełnienie obowiązków dyrektora placówki doskonalenia nauczycieli, oraz nauczycielowi pełniącemu zastępstwie obowiązki dyrektora placówki doskonalenia nauczycieli przez okres co najmniej 6 miesięcy prawo złożenia wniosku o ponowne ustalenie oceny jego pracy do organu, który tę ocenę ustalił.
+- **1)** nauczycielowi prawo wniesienia odwołania, za pośrednictwem dyrektora szkoły, do organu sprawującego nadzór pedagogiczny nad szkołą, a przypadku nauczycieli placówek doskonalenia nauczycieli prawo wniesienia odwołania, za pośrednictwem dyrektora placówki, do kuratora oświaty; dyrektorowi placówki doskonalenia nauczycieli, nauczycielowi, któremu czasowo powierzono pełnienie obowiązków dyrektora placówki doskonalenia nauczycieli, oraz nauczycielowi pełniącemu zastępstwie obowiązki dyrektora placówki doskonalenia nauczycieli przez okres co najmniej 6 miesięcy prawo złożenia wniosku o ponowne ustalenie oceny jego pracy do organu, który tę ocenę ustalił.
 
 9a. Odwołanie od oceny pracy nauczyciela rozpatruje powołany przez organ sprawujący nadzór pedagogiczny, a przypadku nauczyciela placówki doskonalenia nauczycieli kuratora oświaty, zespół oceniający składzie:
 
@@ -229,7 +236,7 @@ poz. 1792);
 - **2)** przedstawiciel organu prowadzącego;
 - **3)** przedstawiciel uczelni sprawującej opiekę naukowo-dydaktyczną nad kolegium wskazany przez rektora;
 - **4)** przedstawiciel rady programowej kolegium;
-- **5)** przedstawiciel zakładowej organizacji związkowej wskazanej przez ocenianego dyrektora kolegium powołany na wniosek tego dyrektora kolegium. czasowo powierzono pełnienie obowiązków dyrektora placówki doskonalenia nauczycieli, oraz nauczyciela pełniącego zastępstwie obowiązki dyrektora placówki doskonalenia nauczycieli przez okres co najmniej 6 miesięcy rozpatruje powołany przez kuratora oświaty zespół oceniający składzie:
+- **5)** przedstawiciel zakładowej organizacji związkowej wskazanej przez ocenianego dyrektora kolegium powołany na wniosek tego dyrektora kolegium. zastępstwie obowiązki dyrektora placówki doskonalenia nauczycieli przez okres co najmniej 6 miesięcy rozpatruje powołany przez kuratora oświaty zespół oceniający składzie:
 - **1)** przedstawiciel kuratora oświaty, jako przewodniczący zespołu;
 - **2)** przedstawiciel organu prowadzącego;
 - **3)** przedstawiciel zakładowej organizacji związkowej wskazanej przez ocenianego dyrektora placówki lub nauczyciela powołany na wniosek tego dyrektora placówki lub nauczyciela.
@@ -273,7 +280,7 @@ poz. 1792);
 - **1)** dydaktyczny i wychowawczy poziom szkoły;
 - **2)** realizację zadań zgodnie z uchwałami rady pedagogicznej i rady szkoły, podjętymi ramach ich kompetencji stanowiących, oraz zarządzeniami organów nadzorujących szkołę;
 - **3)** tworzenie warunków do rozwijania samorządnej i samodzielnej pracy uczniów i wychowanków;
-- **4)** zapewnienie pomocy nauczycielom realizacji ich zadań i ich doskonaleniu zawodowym; kuńczo-wychowawczych;
+- **4)** zapewnienie pomocy nauczycielom realizacji ich zadań i ich doskonaleniu zawodowym;
 - **6)** zapewnienie bezpieczeństwa uczniom i nauczycielom czasie zajęć organizowanych przez szkołę.
 
 3. (uchylony)
@@ -347,7 +354,7 @@ poz. 1792);
 
 - **1)** imię (imiona) i nazwisko, datę urodzenia oraz adres do korespondencji nauczyciela;
 - **2)** miejsce zatrudnienia i zajmowane stanowisko;
-- **3)** podpis nauczyciela. lub kopie dokumentów potwierdzających spełnianie warunków niezbędnych do uzyskania stopnia awansu zawodowego, o których mowa ust. 1 pkt 1–4, ust. 1a pkt 1–3 oraz ust. 1c, a przypadku wniosku o podjęcie postępowania kwalifikacyjnego także opis i analizę sposobu spełniania wymagań dotyczących realizowania zadań lub podejmowania działań na rzecz oświaty oraz ich efektów, określonych przepisach wydanych na podstawie art. 9g ust. 10.
+- **3)** podpis nauczyciela. o których mowa ust. 1 pkt 1–4, ust. 1a pkt 1–3 oraz ust. 1c, a przypadku wniosku o podjęcie postępowania kwalifikacyjnego także opis i analizę sposobu spełniania wymagań dotyczących realizowania zadań lub podejmowania działań na rzecz oświaty oraz ich efektów, określonych przepisach wydanych na podstawie art. 9g ust. 10.
 
 3. Nauczycielom, którzy złożą wnioski o podjęcie odpowiednio postępowania egzaminacyjnego lub postępowania kwalifikacyjnego do dnia 30 czerwca danego roku, właściwy organ, o którym mowa ust. 4, wydaje decyzję o nadaniu lub o odmowie nadania stopnia awansu zawodowego terminie do dnia 31 sierpnia danego roku.
 
@@ -422,7 +429,7 @@ poz. 1792);
 
 - **1)** wspieranie na bieżąco nauczyciela procesie wdrażania do pracy zawodzie, tym zapoznanie go z dokumentacją przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz innymi dokumentami obowiązującymi szkole;
 - **2)** udzielanie nauczycielowi pomocy doborze właściwych form doskonalenia zawodowego;
-- **3)** dzielenie się z nauczycielem wiedzą i doświadczeniem zakresie niezbędnym do efektywnej realizacji obowiązków nauczyciela; miarze co najmniej 1 godziny miesiącu pierwszym roku odbywania przygotowania do zawodu nauczyciela i co najmniej 4 godzin każdym kolejnym roku odbywania przygotowania do zawodu nauczyciela;
+- **3)** dzielenie się z nauczycielem wiedzą i doświadczeniem zakresie niezbędnym do efektywnej realizacji obowiązków nauczyciela; najmniej 4 godzin każdym kolejnym roku odbywania przygotowania do zawodu nauczyciela;
 - **5)** obserwowanie zajęć prowadzonych przez nauczyciela oraz omawianie z nim tych zajęć, wymiarze co najmniej 1 godziny miesiącu pierwszym roku odbywania przygotowania do zawodu nauczyciela i co najmniej 4 godzin każdym kolejnym roku odbywania przygotowania do zawodu nauczyciela, wliczając zajęcia, o których mowa art. 9fa ust. 1 i 5;
 - **6)** inspirowanie i zachęcanie nauczyciela do podejmowania wyzwań zawodowych.
 
@@ -588,9 +595,10 @@ poz. 1792);
 
 3. (uchylony)
 
-4. Nauczycielowi szkoły za granicą posiadającemu kwalifikacje, o których mowa art. 9 ust. 1 pkt 1 oraz przepisach wydanych na podstawie art. 9 ust. 2, oraz znaczący dorobek zawodowy, który okresie 20 lat poprzedzających złożenie wniosku o nadanie stopnia nauczyciela mianowanego przez co najmniej 15 lat szkolnych prowadził zajęcia szkole za granicą, minister właściwy do spraw oświaty i wychowania może nadać stopień nauczyciela mianowanego po przeprowadzeniu analizy dokumentów potwierdzających posiadanie wymaganych kwalifikacji, znaczącego dorobku zawodowego oraz okresu prowadzenia zajęć szkole za granicą. nięcia pracy dydaktycznej i wychowawczej nauczyciela:
+4. Nauczycielowi szkoły za granicą posiadającemu kwalifikacje, o których mowa art. 9 ust. 1 pkt 1 oraz przepisach wydanych na podstawie art. 9 ust. 2, oraz znaczący dorobek zawodowy, który okresie 20 lat poprzedzających złożenie wniosku o nadanie stopnia nauczyciela mianowanego przez co najmniej 15 lat szkolnych prowadził zajęcia szkole za granicą, minister właściwy do spraw oświaty i wychowania może nadać stopień nauczyciela mianowanego po przeprowadzeniu analizy dokumentów potwierdzających posiadanie wymaganych kwalifikacji, znaczącego dorobku zawodowego oraz okresu prowadzenia zajęć szkole za granicą.
 
-- **1)** zakresie jakości pracy prowadzonej z uczniami, współpracy z nauczycielami, kultury pedagogicznej nauczyciela, pracy na rzecz oświaty Polonii i Polaków zamieszkałych za granicą, promocji Polski, tym języka polskiego, historii, kultury i tradycji polskich za granicą;
+4a. Za znaczący dorobek zawodowy nauczyciela szkoły za granicą, o którym mowa ust. 4, mogą być uznane osiągnięcia pracy dydaktycznej i wychowawczej nauczyciela: kultury i tradycji polskich za granicą;
+
 - **2)** publikacje, tym materiały edukacyjne, dotyczące nauczania języka polskiego, historii, geografii oraz innych przedmiotów nauczanych języku polskim wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących oraz kultury polskiej.
 
 4b. Warunkiem nadania nauczycielowi szkoły za granicą posiadającemu stopień nauczyciela mianowanego stopnia nauczyciela dyplomowanego jest:
@@ -621,12 +629,13 @@ poz. 1792);
     - **e)** komunikowania się z mentorem i z pracownikami urzędu obsługującego ministra właściwego do spraw oświaty i wychowania albo pracownikami podległej temu ministrowi jednostki organizacyjnej, o której mowa art. 9u ust. 1, tym formie wideokonferencji,
     - **f)** udziału postępowaniu egzaminacyjnym albo postępowaniu kwalifikacyjnym formie wideokonferencji;
 
-- **2)** nauczyciele ubiegający się o wpisanie na listę nauczycieli mogących pełnić funkcję mentora i mentorzy nauczycieli szkół za granicą, zakresie: temu ministrowi jednostki organizacyjnej, o której mowa art. 9u ust. 1, zakresie:
+- **2)** nauczyciele ubiegający się o wpisanie na listę nauczycieli mogących pełnić funkcję mentora i mentorzy nauczycieli szkół za granicą, zakresie:
     - **a)** składania wniosków o wpisanie na listę nauczycieli mogących pełnić funkcję mentora nauczycieli szkół za granicą, o których mowa art. 9l ust. 5,
     - **b)** komunikowania się z pracownikami urzędu obsługującego ministra właściwego do spraw oświaty i wychowania albo pracownikami podległej temu ministrowi jednostki organizacyjnej, o której mowa art. 9u ust. 1,
     - **c)** komunikowania się z nauczycielem szkoły za granicą, stosunku do którego pełnią funkcję mentora, tym formie wideokonferencji,
     - **d)** przekazywania opinii, o których mowa art. 9p ust. 1 i 4a oraz art. 9q ust. 1;
-    - **a)** oceniania dokumentów, o których mowa art. 9j ust. 4, art. 9l ust. 1, art. 9q ust. 1 i art. 9r ust. 1–1e,
+
+- **3)** pracownicy urzędu obsługującego ministra właściwego do spraw oświaty i wychowania albo pracownicy podległej temu ministrowi jednostki organizacyjnej, o której mowa art. 9u ust. 1, zakresie:
     - **b)** realizacji przez nauczycieli szkół za granicą przygotowania do zawodu nauczyciela oraz oceny realizacji planu rozwoju zawodowego tych nauczycieli,
     - **c)** wpisywania nauczycieli na listę nauczycieli mogących pełnić funkcję mentora nauczycieli szkół za granicą, o której mowa art. 9l ust. 4,
     - **d)** wyznaczania mentorów nauczycielom szkół za granicą rozpoczynającym przygotowanie do zawodu nauczyciela,
@@ -664,8 +673,8 @@ poz. 1792);
 - **11)** okres prowadzenia zajęć szkole za granicą;
 - **12)** stopień naukowy, jeżeli nauczyciel posiada taki stopień;
 - **13)** dorobek zawodowy;
-- **14)** ocenę realizacji planu rozwoju zawodowego, o której mowa art. 9q ust. 2; kacyjnej;
-- **16)** informację o sprawozdaniu z realizacji planu rozwoju zawodowego;
+- **14)** ocenę realizacji planu rozwoju zawodowego, o której mowa art. 9q ust. 2;
+- **15)** informację o zdaniu przez nauczyciela egzaminu przed komisją egzaminacyjną lub uzyskaniu akceptacji komisji kwalifikacyjnej;
 - **17)** opinie, o których mowa art. 9p ust. 1 i 4a oraz art. 9q ust. 1;
 - **18)** informację o spełnieniu wymagań, o których mowa art. 9j ust. 2 pkt 5 i ust. 4b pkt 3;
 - **19)** informację o szczegółowych osiągnięciach pracy dydaktycznej i wychowawczej nauczyciela, o którym mowa art. 9j ust. 4;
@@ -701,9 +710,11 @@ poz. 1792);
 - **9a)** dokument potwierdzający posiadanie stopnia naukowego przypadku nauczyciela szkoły za granicą, o którym mowa art. 9m ust. 2;
 - **10)** (uchylony)
 - **11)** (uchylony)
-- **12)** oświadczenie, że nauczyciel nie został skazany prawomocnym wyrokiem za umyślne przestępstwo. ust. 2, terminie do dnia 31 sierpnia informuje nauczyciela o możliwości rozpoczęcia przygotowania do zawodu nauczyciela oraz wyznacza mu mentora.
+- **12)** oświadczenie, że nauczyciel nie został skazany prawomocnym wyrokiem za umyślne przestępstwo.
 
-4. Mentorem nauczyciela szkoły za granicą może być nauczyciel mianowany lub dyplomowany szkoły polskiej, o której mowa art. 4 pkt 29d ustawy Prawo oświatowe, szkoły i zespołu szkół, o których mowa art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe, szkoły europejskiej, a także innej szkoły Rzeczypospolitej Polskiej za zgodą dyrektora szkoły, wpisany na listę nauczycieli mogących pełnić funkcję mentora nauczycieli szkół za granicą prowadzoną przez ministra właściwego do spraw oświaty i wychowania.
+3. Minister właściwy do spraw oświaty i wychowania po sprawdzeniu, czy wniosek zawiera dane, o których mowa ust. 2, terminie do dnia 31 sierpnia informuje nauczyciela o możliwości rozpoczęcia przygotowania do zawodu nauczyciela oraz wyznacza mu mentora.
+
+4. Mentorem nauczyciela szkoły za granicą może być nauczyciel mianowany lub dyplomowany szkoły polskiej, o której mowa art. 4 pkt 29d ustawy Prawo oświatowe, szkoły i zespołu szkół, o których mowa art. 8 ust. 5 pkt 2 lit. c ustawy właściwego do spraw oświaty i wychowania.
 
 5. Nauczyciel zainteresowany pełnieniem funkcji mentora nauczyciela szkoły za granicą składa wniosek o wpisanie na listę, o której mowa ust. 4, za pośrednictwem systemu teleinformatycznego.
 
@@ -737,13 +748,13 @@ poz. 1792);
 
 5. Nauczyciel szkoły za granicą posiadający stopień nauczyciela mianowanego oraz stopień naukowy może złożyć wniosek o podjęcie postępowania kwalifikacyjnego na stopień nauczyciela dyplomowanego, jeżeli przez okres co najmniej 4 lat i 9 miesięcy od dnia nadania stopnia nauczyciela mianowanego prowadził zajęcia szkole za granicą.
 
-6. W przypadku nieprowadzenia przez nauczyciela szkoły za granicą zajęć przez okres trwający nieprzerwanie dłużej niż miesiąc przygotowanie do zawodu nauczyciela, o którym mowa ust. 1 i 2, oraz dodatkowe przygotowanie do zawodu nauczyciela, o którym mowa art. 9pa ust. 5 i 6 oraz art. 9s ust. 3, ulega przedłużeniu o czas nieprowadzenia zajęć. W przypadku nieprowadzenia zajęć przez okres trwający nieprzerwanie dłużej niż rok nauczyciel jest obowiązany do ponownego odbycia przygotowania do zawodu nauczyciela pełnym wymiarze. niż miesiąc okres prowadzenia zajęć, o którym mowa ust. 4 i 5 oraz art. 9s ust. 3a, ulega przedłużeniu o czas nieprowadzenia zajęć.
+6. W przypadku nieprowadzenia przez nauczyciela szkoły za granicą zajęć przez okres trwający nieprzerwanie dłużej niż miesiąc przygotowanie do zawodu nauczyciela, o którym mowa ust. 1 i 2, oraz dodatkowe przygotowanie do zawodu nauczyciela, o którym mowa art. 9pa ust. 5 i 6 oraz art. 9s ust. 3, ulega przedłużeniu o czas nieprowadzenia zajęć. W przypadku nieprowadzenia zajęć przez okres trwający nieprzerwanie dłużej niż rok nauczyciel jest obowiązany do ponownego odbycia przygotowania do zawodu nauczyciela pełnym wymiarze.
+
+7. W przypadku nieprowadzenia przez nauczyciela szkoły za granicą zajęć przez okres trwający nieprzerwanie dłużej niż miesiąc okres prowadzenia zajęć, o którym mowa ust. 4 i 5 oraz art. 9s ust. 3a, ulega przedłużeniu o czas nieprowadzenia zajęć.
 
 **Art. 9n.**
 
-1. (uchylony)
-
-2. Nauczyciel szkoły za granicą rozpoczyna przygotowanie do zawodu nauczyciela z początkiem roku szkolnego, niepóźniej jednak niż ciągu 30 dni od dnia rozpoczęcia zajęć szkole za granicą, na swój wniosek skierowany do ministra właściwego do spraw oświaty i wychowania złożony sposób określony art. 9l ust. 1.
+1. (uchylony) później jednak niż ciągu 30 dni od dnia rozpoczęcia zajęć szkole za granicą, na swój wniosek skierowany do ministra właściwego do spraw oświaty i wychowania złożony sposób określony art. 9l ust. 1.
 
 3. W przypadku rozpoczęcia przez nauczyciela prowadzenia zajęć szkole za granicą po upływie terminu, o którym mowa ust. 2, nauczyciel nie rozpoczyna przygotowania do zawodu nauczyciela do końca tego roku szkolnego.
 
@@ -780,7 +791,9 @@ poz. 1792);
 
 3. (uchylony)
 
-4. Nauczyciel szkoły za granicą, który okresie odbywania przygotowania do zawodu nauczyciela rozpoczął prowadzenie zajęć innej szkole za granicą, kontynuuje przygotowanie do zawodu nauczyciela po uprzedniej zmianie planu rozwoju zawodowego, na zasadach określonych niniejszym rozdziale. Mentorem tego nauczyciela pozostaje dotychczasowy mentor. szkole Rzeczypospolitej Polskiej, szkole polskiej, o której mowa art. 4 pkt 29d ustawy Prawo oświatowe, szkole lub zespole szkół, o których mowa art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe, lub szkole europejskiej, okres odbytego dotychczas szkole za granicą przygotowania do zawodu nauczyciela wlicza się do okresu przygotowania do zawodu nauczyciela, o którym mowa art. 9ca ust. 1, 2 albo 4, jeżeli za ten okres nauczyciel otrzymał pozytywną opinię mentora o stopniu realizacji planu rozwoju zawodowego, z tym że przypadku odbywania przygotowania do zawodu nauczyciela wymiarze, o którym mowa w:
+4. Nauczyciel szkoły za granicą, który okresie odbywania przygotowania do zawodu nauczyciela rozpoczął prowadzenie zajęć innej szkole za granicą, kontynuuje przygotowanie do zawodu nauczyciela po uprzedniej zmianie planu rozwoju zawodowego, na zasadach określonych niniejszym rozdziale. Mentorem tego nauczyciela pozostaje dotychczasowy mentor.
+
+4a. Jeżeli okresie odbywania przygotowania do zawodu nauczyciela nauczyciel szkoły za granicą podjął zatrudnienie szkole Rzeczypospolitej Polskiej, szkole polskiej, o której mowa art. 4 pkt 29d ustawy Prawo oświatowe, szkole lub zespole szkół, o których mowa art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe, lub szkole europejskiej, okres odbytego dotychczas szkole za granicą przygotowania do zawodu nauczyciela wlicza się do okresu przygotowania do zawodu nauczyciela, o którym mowa art. 9ca ust. 1, 2 albo 4, jeżeli za ten okres nauczyciel otrzymał pozytywną opinię ciela wymiarze, o którym mowa w:
 
 - **1)** art. 9ca ust. 1 wlicza się okres odbytego dotychczas szkole za granicą przygotowania do zawodu nauczyciela, niedłuższy jednak niż 3 lata;
 - **2)** art. 9ca ust. 2 i 4 wlicza się okres odbytego dotychczas szkole za granicą przygotowania do zawodu nauczyciela, niedłuższy jednak niż 2 lata.
@@ -801,9 +814,9 @@ poz. 1792);
 2. W skład komisji, o której mowa ust. 1, wchodzą:
 
 - **1)** dwaj eksperci z listy ekspertów, o której mowa art. 9g ust. 11, posiadający kwalifikacje z zakresu psychologii lub pedagogiki, tym pedagogiki specjalnej, spośród których jeden pełni funkcję przewodniczącego komisji;
-- **2)** mentor, o którym mowa art. 9l ust. 3. komisja wydaje opinię. Opinia może być pozytywna albo negatywna i jest ustalana na podstawie liczby punktów przyznanych przez komisję.
+- **2)** mentor, o którym mowa art. 9l ust. 3.
 
-4. Opinia, o której mowa ust. 3, jest sporządzana na piśmie i zawiera:
+3. Po omówieniu przeprowadzonych zajęć, o których mowa ust. 1, i przeprowadzeniu rozmowy z nauczycielem komisja wydaje opinię. Opinia może być pozytywna albo negatywna i jest ustalana na podstawie liczby punktów przyznanych przez komisję.
 
 - **1)** oznaczenie komisji wydającej opinię;
 - **2)** datę wydania opinii;
@@ -833,9 +846,11 @@ poz. 1792);
 
 4. Od oceny realizacji planu rozwoju zawodowego nauczycielowi nie służy odwołanie, jednakże nauczyciel niezadowolony z oceny może, terminie 14 dni od dnia jej doręczenia, zwrócić się o ponowne ustalenie oceny przez ministra właściwego do spraw oświaty i wychowania. Ocena realizacji planu rozwoju zawodowego nauczyciela ustalona wyniku wniosku o ponowne ustalenie oceny jest ostateczna.
 
-5. (uchylony) postępowania egzaminacyjnego.
+5. (uchylony)
 
-1a. Wniosek, o którym mowa ust. 1, zawiera:
+**Art. 9r.**
+
+1. Nauczyciel szkoły za granicą, który odbył przygotowanie do zawodu nauczyciela, składa wniosek o podjęcie postępowania egzaminacyjnego.
 
 - **1)** imię (imiona) i nazwisko, datę urodzenia oraz adres do korespondencji nauczyciela;
 - **2)** numer telefonu, jeżeli nauczyciel go posiada;
@@ -876,9 +891,9 @@ poz. 1792);
 
 3. Nauczycielom szkół za granicą, którzy złożą wnioski o podjęcie odpowiednio postępowania egzaminacyjnego lub kwalifikacyjnego do dnia 31 lipca danego roku, wydaje się decyzję o nadaniu lub o odmowie nadania stopnia awansu zawodowego terminie do dnia 30 września danego roku.
 
-4. Nauczycielom szkół za granicą, którzy złożą wnioski o podjęcie odpowiednio postępowania egzaminacyjnego lub kwalifikacyjnego do dnia 30 listopada danego roku, wydaje się decyzję o nadaniu lub o odmowie nadania stopnia awansu zawodowego terminie do dnia 31 stycznia następnego roku. właściwego do spraw oświaty i wychowania za pośrednictwem systemu teleinformatycznego. Wniosek może być złożony ciągu całego roku.
+4. Nauczycielom szkół za granicą, którzy złożą wnioski o podjęcie odpowiednio postępowania egzaminacyjnego lub kwalifikacyjnego do dnia 30 listopada danego roku, wydaje się decyzję o nadaniu lub o odmowie nadania stopnia awansu zawodowego terminie do dnia 31 stycznia następnego roku.
 
-6. Wniosek, o którym mowa ust. 5, zawiera:
+5. Nauczyciele, o których mowa art. 9j ust. 4, składają wniosek o nadanie stopnia awansu zawodowego do ministra właściwego do spraw oświaty i wychowania za pośrednictwem systemu teleinformatycznego. Wniosek może być złożony ciągu całego roku.
 
 - **1)** imię (imiona) i nazwisko nauczyciela;
 - **2)** datę urodzenia;
@@ -920,8 +935,12 @@ poz. 1792);
 - **5)** datę egzaminu, o którym mowa art. 9j ust. 2 pkt 5, lub przeprowadzenia rozmowy, o której mowa art. 9j ust. 4b pkt 3;
 - **6)** informację o zdaniu egzaminu przed komisją egzaminacyjną lub uzyskaniu akceptacji komisji kwalifikacyjnej;
 - **7)** imię i nazwisko oraz podpis przewodniczącego komisji.
+
+**Art. 9t.**
+
+1. Akt nadania stopnia awansu zawodowego nauczycielowi szkoły za granicą zawiera:
+
 - **1)** oznaczenie organu nadającego stopień awansu zawodowego nauczyciela;
-- **2)** datę wydania;
 - **3)** wskazanie podstawy prawnej;
 - **4)** oznaczenie komisji egzaminacyjnej albo komisji kwalifikacyjnej;
 - **5)** datę wydania zaświadczenia o zdaniu egzaminu przed komisją egzaminacyjną albo zaświadczenia o uzyskaniu akceptacji komisji kwalifikacyjnej;
@@ -1003,7 +1022,7 @@ poz. 1792);
 - **4)** został prawomocnie ukarany karą ograniczenia zakresu czynności wykonywaniu zawodu psychologa, o której mowa art. 94 ust. 1 pkt 4 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, okresie, którym obowiązuje to ograniczenie, jeżeli zakres czynności, które objęto ograniczeniem, należałby do zadań nauczyciela psychologa;
 - **5)** został prawomocnie ukarany karą zawieszenia prawa wykonywania zawodu psychologa, o której mowa art. 94 ust. 1 pkt 5 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, okresie, którym obowiązuje zawieszenie prawa wykonywania zawodu psychologa.
 
-8d. W celu potwierdzenia spełniania warunków, o których mowa ust. 8c, nauczyciel psycholog, przed nawiązaniem stosunku pracy, jest obowiązany przedstawić dyrektorowi szkoły zaświadczenie z rejestru, o którym mowa art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, z wyjątkiem przypadku gdy z nauczycielem jest nawiązywany kolejny stosunek pracy tej samej szkole ciągu 3 miesięcy od dnia rozwiązania albo wygaśnięcia na podstawie art. 20 ust. 5c poprzedniego stosunku pracy. kacje, można za zgodą organu sprawującego nadzór pedagogiczny zatrudnić nauczyciela, który nie spełnia warunku wymienionego ust. 5 pkt 5.
+8d. W celu potwierdzenia spełniania warunków, o których mowa ust. 8c, nauczyciel psycholog, przed nawiązaniem stosunku pracy, jest obowiązany przedstawić dyrektorowi szkoły zaświadczenie z rejestru, o którym mowa art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, z wyjątkiem przypadku gdy z nauczycielem jest nawiązywany kolejny stosunek pracy tej samej szkole ciągu 3 miesięcy od dnia rozwiązania albo wygaśnięcia na podstawie art. 20 ust. 5c poprzedniego stosunku pracy. nionego ust. 5 pkt 5.
 
 10. Do nauczycieli zatrudnionych na podstawie ust. 9 nie stosuje się przepisów rozdziału 3a. Dla celów płacowych nauczyciele ci są traktowani jak nauczyciele początkujący.
 
@@ -1043,7 +1062,7 @@ poz. 1792);
 
 18. Dyrektor szkoły prowadzonej przez jednostkę samorządu terytorialnego informuje kuratora oświaty o wolnych stanowiskach pracy dla nauczycieli.
 
-19. Informacje, o których mowa ust. 18, kurator oświaty udostępnia na stronie podmiotowej kuratorium oświaty. art. 1 ust. 2 pkt 2, nauczycieli zatrudnia się na podstawie umowy o pracę, zgodnie z ustawą z dnia 26 czerwca 1974 r. Kodeks pracy.
+19. Informacje, o których mowa ust. 18, kurator oświaty udostępnia na stronie podmiotowej kuratorium oświaty. Kodeks pracy.
 
 1a. Do zatrudniania nauczycieli, o których mowa ust. 1, którzy:
 
@@ -1128,7 +1147,7 @@ poz. 1792);
 
 11. Do wniosku, o którym mowa ust. 10 pkt 2, przepisy ust. 1 i 2 stosuje się.
 
-12. Minister właściwy do spraw oświaty i wychowania określi, drodze rozporządzenia, wzór legitymacji, uwzględniając konieczność zapewnienia identyfikacji nauczyciela, a także konieczność właściwego zabezpieczenia legitymacji przed jej przerobieniem lub podrobieniem. nemu innych przepisach prawnych dla mianowanych funkcjonariuszy państwowych.
+12. Minister właściwy do spraw oświaty i wychowania określi, drodze rozporządzenia, wzór legitymacji, uwzględniając konieczność zapewnienia identyfikacji nauczyciela, a także konieczność właściwego zabezpieczenia legitymacji przed jej przerobieniem lub podrobieniem.
 
 2. Nauczyciel realizacji programu nauczania ma prawo do swobody stosowania takich metod nauczania i wychowania, jakie uważa za najwłaściwsze spośród uznanych przez współczesne nauki pedagogiczne, oraz do wyboru spośród zatwierdzonych do użytku szkolnego podręczników i innych pomocy naukowych.
 
@@ -1236,7 +1255,7 @@ poz. 1792);
 - **3)** z końcem miesiąca, którym dyrektor szkoły otrzymał ostateczne orzeczenie lekarskie o niezdolności nauczyciela do wykonywania dotychczasowej pracy;
 - **4)** (uchylony)
 - **5)** z końcem tego miesiąca, którym upływa trzymiesięczne wypowiedzenie, licząc od otrzymania przez nauczyciela negatywnej oceny pracy;
-- **6)** z końcem tego miesiąca, którym nastąpiło cofnięcie skierowania do nauczania religii. szkoły, której organizacji pracy nie przewidziano ferii szkolnych.
+- **6)** z końcem tego miesiąca, którym nastąpiło cofnięcie skierowania do nauczania religii.
 
 4. Rozwiązanie stosunku pracy z nauczycielem zatrudnionym na podstawie mianowania może nastąpić również:
 
@@ -1281,7 +1300,7 @@ poz. 1792);
 
 **Art. 28.**
 
-1. Nauczycielowi zatrudnionemu na podstawie mianowania, z którym rozwiązano stosunek pracy z przyczyny określonej art. 23 ust. 1 pkt 3, przyznaje się odprawę pieniężną wysokości jednomiesięcznego wynagrodzenia zasadniczego ostatnio pobieranego czasie trwania stosunku pracy za każdy pełny rok pracy na stanowisku nauczyciela, jednostkach organizacyjnych, o których mowa art. 1 ust. 1 oraz ust. 2 pkt 1 i 1a, nieprzekraczającą jednak sześciomiesięcznego wynagrodzenia zasadniczego. nych art. 70 ust. 2, przyznaje się odprawę pieniężną na zasadach określonych ust. 1, nieprzekraczającą jednak:
+1. Nauczycielowi zatrudnionemu na podstawie mianowania, z którym rozwiązano stosunek pracy z przyczyny określonej art. 23 ust. 1 pkt 3, przyznaje się odprawę pieniężną wysokości jednomiesięcznego wynagrodzenia zasadniczego ostatnio pobieranego czasie trwania stosunku pracy za każdy pełny rok pracy na stanowisku nauczyciela, jednostkach organizacyjnych, o których mowa art. 1 ust. 1 oraz ust. 2 pkt 1 i 1a, nieprzekraczającą jednak sześciomiesięcznego wynagrodzenia zasadniczego.
 
 - **1)** trzymiesięcznego wynagrodzenia zasadniczego, jeżeli okres pracy nauczycielskiej nie przekroczył 10 lat;
 - **2)** sześciomiesięcznego wynagrodzenia zasadniczego, jeżeli okres pracy nauczycielskiej przekroczył 10 lat.
@@ -1377,7 +1396,7 @@ poz. 1792);
 
 3. Kwota różnicy, o której mowa ust. 2, jest dzielona między nauczycieli zatrudnionych i pobierających wynagrodzenie roku, dla którego ustalono kwotę różnicy, szkołach prowadzonych przez jednostkę samorządu terytorialnego i wypłacana terminie do dnia 31 stycznia roku kalendarzowego następującego po roku, dla którego wyliczono kwotę różnicy, formie jednorazowego dodatku uzupełniającego ustalanego proporcjonalnie do okresu zatrudnienia oraz osobistej stawki wynagrodzenia zasadniczego nauczyciela, zapewniając osiągnięcie średnich wynagrodzeń, o których mowa art. 30 ust. 3, danej jednostce samorządu terytorialnego roku, dla którego wyliczono kwotę różnicy.
 
-4. W terminie do dnia 10 lutego roku kalendarzowego następującego po roku, który podlegał analizie, organ prowadzący szkołę będący jednostką samorządu terytorialnego sporządza sprawozdanie z wysokości średnich wynagrodzeń nauczycieli początkujących, mianowanych i dyplomowanych szkołach i placówkach prowadzonych przez tę jednostkę samorządu terytorialnego, z uwzględnieniem wysokości kwoty różnicy, o której mowa ust. 2, o ile wystąpiła. ust. 4, terminie 7 dni od jego sporządzenia, regionalnej izbie obrachunkowej, a także organowi stanowiącemu tej jednostki samorządu terytorialnego, dyrektorom szkół prowadzonych przez tę jednostkę oraz związkom zawodowym zrzeszającym nauczycieli.
+4. W terminie do dnia 10 lutego roku kalendarzowego następującego po roku, który podlegał analizie, organ prowadzący szkołę będący jednostką samorządu terytorialnego sporządza sprawozdanie z wysokości średnich wynagrodzeń nauczycieli początkujących, mianowanych i dyplomowanych szkołach i placówkach prowadzonych przez tę jednostkę samorządu terytorialnego, z uwzględnieniem wysokości kwoty różnicy, o której mowa ust. 2, o ile wystąpiła. samorządu terytorialnego, dyrektorom szkół prowadzonych przez tę jednostkę oraz związkom zawodowym zrzeszającym nauczycieli.
 
 6. Jednorazowy dodatek uzupełniający, o którym mowa ust. 3, nie jest uwzględniany jako składnik poniesionych wydatków na wynagrodzenia nauczycieli odniesieniu do wysokości średnich wynagrodzeń, o których mowa art. 30 ust. 3, roku, którym został wypłacony.
 
@@ -1442,7 +1461,7 @@ poz. 1792);
 
 3c. W przypadku dyrektora i wicedyrektora szkoły, nauczyciela zajmującego inne stanowisko kierownicze szkole oraz nauczyciela, który obowiązki kierownicze pełni zastępstwie nauczyciela, któremu powierzono stanowisko kierownicze, miesięczną liczbę godzin obowiązującego nauczyciela tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych lub opiekuńczych, o której mowa ust. 3a, oblicza się jako iloczyn liczby godzin obowiązującego nauczyciela tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych lub opiekuńczych przed obniżeniem tygodniowego obowiązkowego wymiaru godzin zajęć albo zwolnieniem od obowiązku realizacji zajęć, o których mowa art. 42 ust. 2 pkt 1, i liczby 4,16, z zaokrągleniem do pełnych godzin ten sposób, że czas zajęć do pół godziny pomija się, a powyżej pół godziny liczy się za pełną godzinę.
 
-3d. Wynagrodzenie za godziny ponadwymiarowe przysługuje za przydzielone i zrealizowane godziny zajęć dydaktycznych, wychowawczych lub opiekuńczych. uczyciela przydzielonych godzin zajęć dydaktycznych, wychowawczych lub opiekuńczych nastąpiło z przyczyn niedotyczących nauczyciela, a nauczyciel był gotów do realizacji tych zajęć. W takim przypadku nauczycielowi można przydzielić do realizacji czasie, którym zostały zaplanowane godziny zajęć dydaktycznych, wychowawczych lub opiekuńczych, zajęcia i czynności wynikające z zadań statutowych szkoły, tym zajęcia opiekuńcze lub wychowawcze uwzględniające potrzeby i zainteresowania uczniów, o których mowa art. 42 ust. 2 pkt 2.
+3d. Wynagrodzenie za godziny ponadwymiarowe przysługuje za przydzielone i zrealizowane godziny zajęć dydaktycznych, wychowawczych lub opiekuńczych. czących nauczyciela, a nauczyciel był gotów do realizacji tych zajęć. W takim przypadku nauczycielowi można przydzielić do realizacji czasie, którym zostały zaplanowane godziny zajęć dydaktycznych, wychowawczych lub opiekuńczych, zajęcia i czynności wynikające z zadań statutowych szkoły, tym zajęcia opiekuńcze lub wychowawcze uwzględniające potrzeby i zainteresowania uczniów, o których mowa art. 42 ust. 2 pkt 2.
 
 3f. Dla ustalenia wynagrodzenia za godziny ponadwymiarowe tygodniach, których przypadają dni usprawiedliwionej nieobecności pracy nauczyciela, dni ustawowo wolne od pracy lub dni, których dla nauczyciela nie zaplanowano zajęć, o których mowa art. 42 ust. 2 pkt 1, oraz tygodniach danym miesiącu, których zajęcia rozpoczynają się lub kończą się trakcie tygodnia, za podstawę ustalenia liczby godzin ponadwymiarowych przyjmuje się tygodniowy obowiązkowy wymiar zajęć określony art. 42 ust. 3 lub ustalony na podstawie art. 42 ust. 4a albo ust. 7 albo obniżony na podstawie art. 42 ust. 6, pomniejszony o 1/5 tego wymiaru lub 1/4, gdy dla nauczyciela ustalono czterodniowy tydzień pracy, za każdy dzień usprawiedliwionej nieobecności pracy, dzień ustawowo wolny od pracy, dzień, którym dla nauczyciela nie zaplanowano zajęć, o których mowa art. 42 ust. 2 pkt 1, lub dzień danym tygodniu, który przypada innym miesiącu. Liczba godzin ponadwymiarowych, za które przysługuje wynagrodzenie takim tygodniu, nie może być większa niż liczba godzin ponadwymiarowych przydzielonych nauczycielowi.
 
@@ -1507,7 +1526,7 @@ poz. 1792);
 - **1)** zajęć, o których mowa ust. 2 pkt 1, nauczyciel jest obowiązany uczestniczyć przeprowadzaniu części ustnej egzaminu maturalnego;
 - **2)** innych zajęć i czynności wynikających z zadań statutowych szkoły, o których mowa ust. 2 pkt 2, nauczyciel jest obowiązany uczestniczyć przeprowadzaniu odpowiednio: egzaminu ósmoklasisty, egzaminu zawodowego, egzaminu potwierdzającego kwalifikacje zawodowe, egzaminu potwierdzającego kwalifikacje zawodzie i egzaminu maturalnego z wyjątkiem części ustnej.
 
-2c. Nauczyciel prowadzi zajęcia na kwalifikacyjnych kursach zawodowych ramach zajęć, o których mowa ust. 2 pkt 1. 2ca. Godziny doraźnych zastępstw nie mogą być realizowane czasie, którym zostały zaplanowane do realizacji przez nauczyciela zajęcia, o których mowa ust. 2 pkt 1. przez nauczyciela zajęcia dydaktyczne, wychowawcze lub opiekuńcze, przypadku gdy z przyczyn dotyczących szkoły danym dniu nauczyciel nie mógłby zrealizować zajęć wynikających z obowiązującego go tygodniowego obowiązkowego wymiaru godzin zajęć lub przydzielonych godzin ponadwymiarowych. W takim przypadku nauczyciel realizuje godziny doraźnych zastępstw ramach wynagrodzenia, jakie przysługuje mu za zaplanowane zajęcia dydaktyczne, wychowawcze lub opiekuńcze. 2cc. W szczególnie uzasadnionych przypadkach godziny doraźnych zastępstw mogą być realizowane, za zgodą nauczyciela, czasie, którym nauczyciel powinien realizować zajęcia, o których mowa ust. 2 pkt 1, z wyjątkiem zajęć dydaktycznych, wychowawczych i opiekuńczych prowadzonych bezpośrednio z uczniami lub wychowankami. W takim przypadku zaplanowane do realizacji przez nauczyciela zajęcia dydaktyczne, wychowawcze lub opiekuńcze prowadzone na rzecz uczniów lub wychowanków, czasie których nauczyciel realizował godziny doraźnych zastępstw, nauczyciel realizuje innym terminie przypadającym tym samym miesiącu.
+2c. Nauczyciel prowadzi zajęcia na kwalifikacyjnych kursach zawodowych ramach zajęć, o których mowa ust. 2 pkt 1. 2ca. Godziny doraźnych zastępstw nie mogą być realizowane czasie, którym zostały zaplanowane do realizacji przez nauczyciela zajęcia, o których mowa ust. 2 pkt 1. danym dniu nauczyciel nie mógłby zrealizować zajęć wynikających z obowiązującego go tygodniowego obowiązkowego wymiaru godzin zajęć lub przydzielonych godzin ponadwymiarowych. W takim przypadku nauczyciel realizuje godziny doraźnych zastępstw ramach wynagrodzenia, jakie przysługuje mu za zaplanowane zajęcia dydaktyczne, wychowawcze lub opiekuńcze. 2cc. W szczególnie uzasadnionych przypadkach godziny doraźnych zastępstw mogą być realizowane, za zgodą nauczyciela, czasie, którym nauczyciel powinien realizować zajęcia, o których mowa ust. 2 pkt 1, z wyjątkiem zajęć dydaktycznych, wychowawczych i opiekuńczych prowadzonych bezpośrednio z uczniami lub wychowankami. W takim przypadku zaplanowane do realizacji przez nauczyciela zajęcia dydaktyczne, wychowawcze lub opiekuńcze prowadzone na rzecz uczniów lub wychowanków, czasie których nauczyciel realizował godziny doraźnych zastępstw, nauczyciel realizuje innym terminie przypadającym tym samym miesiącu.
 
 2d. W ramach zajęć i czynności, o których mowa ust. 2 pkt 2, nauczyciel nie prowadzi zajęć świetlicowych oraz zajęć z zakresu pomocy psychologiczno-pedagogicznej.
 
@@ -1519,7 +1538,7 @@ poz. 1792);
 
 - **a)** zakładach opiekuńczo-leczniczych dla dzieci, 26
 - **b)** domach wczasów dziecięcych 26 tym na zajęcia dydaktyczne, 10
-- **c)** specjalnych ośrodkach szkolno-wychowawczych, okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich, świetlicach szkół specjalnych, młodzieżowych ośrodkach wychowawczych, zespołach pozalekcyjnych zajęć wychowawczych zorganizowanych podmiotach leczniczych 24 9 Nauczyciele pałaców młodzieży, młodzieżowych domów kultury, 18 ognisk pracy pozaszkolnej, pozaszkolnych placówek specjalistycznych, międzyszkolnych ośrodków sportowych 10 Nauczyciele bibliotekarze bibliotek szkolnych 30 11 Nauczyciele poradni psychologiczno-pedagogicznych 20 12 Nauczyciele posiadający kwalifikacje z zakresu pedagogiki specjalnej 20 zatrudniani dodatkowo celu współorganizowania kształcenia integracyjnego oraz współorganizowania kształcenia uczniów niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym 3a. (uchylony) 3b. (uchylony) 3c. (uchylony)
+- **c)** specjalnych ośrodkach szkolno-wychowawczych, okręgowych 24 ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich, świetlicach szkół specjalnych, młodzieżowych ośrodkach wychowawczych, zespołach pozalekcyjnych zajęć wychowawczych zorganizowanych podmiotach leczniczych 9 Nauczyciele pałaców młodzieży, młodzieżowych domów kultury, 18 ognisk pracy pozaszkolnej, pozaszkolnych placówek specjalistycznych, międzyszkolnych ośrodków sportowych 10 Nauczyciele bibliotekarze bibliotek szkolnych 30 11 Nauczyciele poradni psychologiczno-pedagogicznych 20 12 Nauczyciele posiadający kwalifikacje z zakresu pedagogiki specjalnej 20 zatrudniani dodatkowo celu współorganizowania kształcenia integracyjnego oraz współorganizowania kształcenia uczniów niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym 3a. (uchylony) 3b. (uchylony) 3c. (uchylony)
 
 4. (uchylony) 4a. Zajęcia dydaktyczne, opiekuńcze i wychowawcze mogą być realizowane, z zastrzeżeniem ust. 2a, wymiarze:
 
@@ -1653,7 +1672,7 @@ poz. 1792);
 
 2. Minister właściwy do spraw oświaty i wychowania porozumieniu z ministrem właściwym do spraw pracy określi, drodze rozporządzenia, szczegółowe zasady ustalania okresów pracy i innych okresów uprawniających nauczyciela do nagrody jubileuszowej oraz szczegółowe zasady jej obliczania i wypłacania.
 
-**Art. 48.** Nauczycielowi przysługuje dodatkowe wynagrodzenie roczne na zasadach i wysokości określonych ustawie z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. z 2025 r. poz. 560). wychowawczej i opiekuńczej:
+**Art. 48.** Nauczycielowi przysługuje dodatkowe wynagrodzenie roczne na zasadach i wysokości określonych ustawie z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. z 2025 r. poz. 560).
 
 **Art. 50.** (uchylony)
 
@@ -1671,7 +1690,7 @@ poz. 1792);
 
 **Art. 53.**
 
-1. Dla nauczycieli dokonuje się corocznie odpisu na zakładowy fundusz świadczeń socjalnych wysokości ustalanej jako iloczyn planowanej, przeciętnej danym roku kalendarzowym, liczby nauczycieli zatrudnionych pełnym i niepełnym wymiarze zajęć (po przeliczeniu na pełny wymiar zajęć) skorygowanej końcu roku do faktycznej przeciętnej liczby zatrudnionych nauczycieli (po przeliczeniu na pełny wymiar zajęć) i 110 % kwoty bazowej, o której mowa art. 30 ust. 3, obowiązującej dniu 1 stycznia danego roku. końca sierpnia każdego roku świadczenie urlopowe wysokości odpisu podstawowego, o którym mowa przepisach o zakładowym funduszu świadczeń socjalnych, ustalonego proporcjonalnie do wymiaru czasu pracy i okresu zatrudnienia nauczyciela danym roku szkolnym.
+1. Dla nauczycieli dokonuje się corocznie odpisu na zakładowy fundusz świadczeń socjalnych wysokości ustalanej jako iloczyn planowanej, przeciętnej danym roku kalendarzowym, liczby nauczycieli zatrudnionych pełnym i niepełnym wymiarze zajęć (po przeliczeniu na pełny wymiar zajęć) skorygowanej końcu roku do faktycznej przeciętnej liczby zatrudnionych nauczycieli (po przeliczeniu na pełny wymiar zajęć) i 110 % kwoty bazowej, o której mowa art. 30 ust. 3, obowiązującej dniu 1 stycznia danego roku. dowym funduszu świadczeń socjalnych, ustalonego proporcjonalnie do wymiaru czasu pracy i okresu zatrudnienia nauczyciela danym roku szkolnym.
 
 2. Dla nauczycieli będących emerytami lub rencistami oraz nauczycieli pobierających nauczycielskie świadczenie kompensacyjne dokonuje się odpisu na zakładowy fundusz świadczeń socjalnych wysokości ustalonej jako iloczyn planowanej, przeciętnej danym roku kalendarzowym liczby nauczycieli będących emerytami lub rencistami oraz nauczycieli pobierających nauczycielskie świadczenie kompensacyjne, skorygowanej końcu danego roku kalendarzowego do faktycznej, przeciętnej liczby tych nauczycieli i 42 % kwoty bazowej, o której mowa art. 30 ust. 3, obowiązującej dniu 1 stycznia danego roku.
 
@@ -1916,7 +1935,8 @@ poz. 1792);
 
 1. Nauczyciele teoretycznych przedmiotów zawodowych i nauczyciele praktycznej nauki zawodu, zatrudnieni szkołach prowadzących kształcenie zawodowe rozumieniu art. 4 pkt 28a lit. a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe oraz placówkach kształcenia ustawicznego i centrach kształcenia zawodowego, o których mowa art. 2 pkt 4 tej ustawy, są obowiązani doskonalić umiejętności i kwalifikacje zawodowe potrzebne do wykonywania pracy przez uczestniczenie szkoleniach branżowych realizowanych trzyletnich cyklach, łącznym wymiarze 40 godzin cyklu.
 
-- **1)** prowadzących działalność gospodarczą związaną z nauczanym zawodem albo indywidualne gospodarstwo rolne, którego działalność jest związana z nauczanym zawodem, lub
+2. Obowiązek, o którym mowa ust. 1, nie dotyczy nauczycieli:
+
 - **2)** zatrudnionych u pracodawców na stanowiskach związanych z nauczanym zawodem, lub
 - **3)** zatrudnionych indywidualnych gospodarstwach rolnych, których działalność jest związana z nauczanym zawodem, lub
 - **4)** realizujących wyłącznie obowiązkowe zajęcia edukacyjne z zakresu danej części efektów kształcenia obejmującej język obcy zawodowy, określonej podstawie programowej kształcenia zawodzie szkolnictwa branżowego, o której mowa przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe.
@@ -2028,7 +2048,7 @@ poz. 1792);
 
 1. Nauczyciele podlegają odpowiedzialności dyscyplinarnej za uchybienia godności zawodu nauczyciela lub obowiązkom, o których mowa art. 6.
 
-2. Za uchybienia przeciwko porządkowi pracy, rozumieniu art. 108 Kodeksu pracy, wymierza się nauczycielom kary porządkowe zgodnie z Kodeksem pracy. dziecka. O podejrzeniu popełnienia przez nauczyciela czynu naruszającego prawa i dobro dziecka dyrektor szkoły, a przypadku podejrzenia popełnienia takiego czynu przez dyrektora szkoły organ prowadzący szkołę, zawiadamia rzecznika dyscyplinarnego, o którym mowa art. 83, niepóźniej niż terminie 14 dni od dnia powzięcia wiadomości o podejrzeniu popełnienia takiego czynu, chyba że okoliczności bezspornie wskazują, że nie doszło do popełnienia takiego czynu.
+2. Za uchybienia przeciwko porządkowi pracy, rozumieniu art. 108 Kodeksu pracy, wymierza się nauczycielom kary porządkowe zgodnie z Kodeksem pracy. padku podejrzenia popełnienia takiego czynu przez dyrektora szkoły organ prowadzący szkołę, zawiadamia rzecznika dyscyplinarnego, o którym mowa art. 83, niepóźniej niż terminie 14 dni od dnia powzięcia wiadomości o podejrzeniu popełnienia takiego czynu, chyba że okoliczności bezspornie wskazują, że nie doszło do popełnienia takiego czynu.
 
 3. (uchylony)
 
@@ -2083,7 +2103,7 @@ poz. 1792);
 - **4)** który nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** który nie był prawomocnie ukarany karą dyscyplinarną;
 - **6)** wobec którego nie toczy się postępowanie karne sprawie o umyślne przestępstwo ścigane z oskarżenia publicznego lub postępowanie dyscyplinarne;
-- **7)** który posiada nieposzlakowaną opinię. odwoławczej komisji dyscyplinarnej powołuje, odwołuje oraz ustala ich liczbę, drodze zarządzenia, odpowiednio wojewoda, minister właściwy do spraw oświaty i wychowania lub minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+- **7)** który posiada nieposzlakowaną opinię. wojewoda, minister właściwy do spraw oświaty i wychowania lub minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
 
 3. Kandydatów na członków:
 
@@ -2273,9 +2293,11 @@ poz. 1792);
 
 2. Na postanowienie, o którym mowa ust. 1, rzecznikowi dyscyplinarnemu oraz obwinionemu lub jego obrońcy służy zażalenie do komisji odwoławczej, terminie 14 dni od dnia doręczenia postanowienia.
 
-3. Przewodniczący składu orzekającego podejmuje zawieszone postępowanie dyscyplinarne niepóźniej niż terminie 30 dni od dnia powzięcia wiadomości o ustaniu przeszkody, o której mowa ust. 1, albo o prawomocnym zakończeniu postępowania karnego albo postępowania sprawach o wykroczenia. waniu dyscyplinarnym przez komisję dyscyplinarną. Nie wyłącza to prawa do zgłoszenia wniosku dowodowego przez nauczyciela, którego dotyczy postępowanie wyjaśniające, lub obwinionego.
+3. Przewodniczący składu orzekającego podejmuje zawieszone postępowanie dyscyplinarne niepóźniej niż terminie 30 dni od dnia powzięcia wiadomości o ustaniu przeszkody, o której mowa ust. 1, albo o prawomocnym zakończeniu postępowania karnego albo postępowania sprawach o wykroczenia.
 
-2. W postępowaniu wyjaśniającym i postępowaniu dyscyplinarnym rzecznik dyscyplinarny lub komisja dyscyplinarna może przesłuchiwać świadków, zbierać i przeprowadzać wszelkie dowody konieczne dla wyjaśnienia sprawy, tym zasięgać opinii biegłych, oraz przeglądać akta osobowe odpowiednio nauczyciela, którego dotyczy postępowanie wyjaśniające, lub obwinionego, a także sporządzać z nich notatki i kopie.
+**Art. 85g.**
+
+1. W postępowaniu wyjaśniającym dowody są przeprowadzane przez rzecznika dyscyplinarnego, a postępowaniu dyscyplinarnym przez komisję dyscyplinarną. Nie wyłącza to prawa do zgłoszenia wniosku dowodowego przez nauczyciela, którego dotyczy postępowanie wyjaśniające, lub obwinionego. opinii biegłych, oraz przeglądać akta osobowe odpowiednio nauczyciela, którego dotyczy postępowanie wyjaśniające, lub obwinionego, a także sporządzać z nich notatki i kopie.
 
 3. W postępowaniu wyjaśniającym i postępowaniu dyscyplinarnym należy przesłuchać odpowiednio nauczyciela, którego dotyczy postępowanie wyjaśniające, lub obwinionego oraz umożliwić mu złożenie wyjaśnień mogących mieć znaczenie dla sprawy.
 
@@ -2320,10 +2342,9 @@ poz. 1792);
 5. Komisja dyscyplinarna wydaje orzeczenie o:
 
 - **1)** ukaraniu, mocą którego uznaje obwinionego winnym całości lub części zarzucanego mu czynu i wymierza karę dyscyplinarną, albo
+- **2)** uniewinnieniu, przypadku gdy:
     - **a)** postępowanie dyscyplinarne nie potwierdziło popełnienia przez nauczyciela zarzucanego mu czynu,
     - **b)** zarzucany czyn nie zawiera znamion uchybienia godności zawodu nauczyciela lub obowiązkom, o których mowa art. 6, albo
-
-- **3)** umorzeniu postępowania dyscyplinarnego, jeżeli:
     - **a)** za popełniony czyn nauczyciel został ukarany karą porządkową zgodnie z art. 108 Kodeksu pracy, chyba że popełniony czyn narusza prawa i dobro dziecka,
     - **b)** nauczyciel, chwili popełnienia zarzucanego czynu, nie był zatrudniony na stanowisku nauczyciela jednostkach organizacyjnych, o których mowa art. 1 ust. 1 oraz ust. 2 pkt 1a i 2,
     - **c)** nauczyciel zmarł,
@@ -2368,8 +2389,11 @@ poz. 1792);
 
 2. Do rozpatrzenia odwołania, o którym mowa ust. 1, stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego nie służy skarga kasacyjna.
 
-- **1)** związku z postępowaniem dopuszczono się rażącego naruszenia prawa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;
-- **2)** po wydaniu orzeczenia ujawniono nowe fakty lub dowody nieznane chwili jego wydania, wskazujące na to, że obwiniony jest niewinny, ukarano go za popełnienie innego czynu lub komisja dyscyplinarna bezpodstawnie umorzyła postępowanie;
+**Art. 85n.**
+
+1. Postępowanie dyscyplinarne zakończone prawomocnym orzeczeniem można wznowić, jeżeli:
+
+- **1)** związku z postępowaniem dopuszczono się rażącego naruszenia prawa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia; postępowanie;
 - **3)** trakcie postępowania naruszono przepisy, przez co uniemożliwiono lub poważnym stopniu utrudniono obwinionemu korzystanie z prawa do obrony, albo skład komisji dyscyplinarnej nie odpowiadał warunkom określonym art. 81 ust. 2–4 lub zasiadała niej osoba podlegająca wyłączeniu.
 
 2. Wznowienie nie może nastąpić z przyczyny wymienionej ust. 1 pkt 1, jeżeli była ona przedmiotem rozpoznania przez sąd apelacyjny sąd pracy i ubezpieczeń społecznych, o którym mowa art. 85m ust. 1.
@@ -2407,10 +2431,13 @@ poz. 1792);
 
 6. Jeżeli czyn stanowi przestępstwo, okresy, o których mowa ust. 1 i 4, nie mogą być krótsze niż okres przedawnienia karalności tego przestępstwa.
 
-7. (uchylony) rzecznicy dyscyplinarni i ich zastępcy otrzymują wynagrodzenie:
+7. (uchylony)
+
+**Art. 85p.**
+
+1. Przewodniczący komisji dyscyplinarnych i ich zastępcy, przewodniczący składów orzekających oraz rzecznicy dyscyplinarni i ich zastępcy otrzymują wynagrodzenie:
 
 - **1)** przewodniczący komisji dyscyplinarnej i jego zastępcy wynagrodzenie miesięczne;
-- **2)** przewodniczący składu orzekającego wynagrodzenie za rozpoznanie sprawy zakończonej wydaniem orzeczenia lub postanowienia;
 - **3)** rzecznik dyscyplinarny i jego zastępcy wynagrodzenie za przeprowadzenie postępowania wyjaśniającego oraz wynagrodzenie za udział postępowaniu dyscyplinarnym.
 
 2. Wysokość wynagrodzenia rzeczników dyscyplinarnych i ich zastępców ustala organ, który ich powołał, a wysokość wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców oraz przewodniczących składów orzekających organ, przy którym działa komisja dyscyplinarna.
@@ -2454,7 +2481,9 @@ poz. 1792);
 
 **Art. 85t.**
 
-1. Dyrektor szkoły może zawiesić pełnieniu obowiązków nauczyciela, a organ prowadzący szkołę nauczyciela pełniącego funkcję dyrektora szkoły, przeciwko któremu wszczęto postępowanie karne lub złożono wniosek o wszczęcie postępowania dyscyplinarnego, jeżeli ze względu na powagę i wiarygodność wysuniętych zarzutów celowe jest odsunięcie nauczyciela od wykonywania obowiązków szkole. W sprawach niecierpiących zwłoki nauczyciel i nauczyciel pełniący funkcję dyrektora szkoły mogą być zawieszeni przed złożeniem wniosku o wszczęcie postępowania dyscyplinarnego. funkcję dyrektora szkoły, jeżeli wszczęte postępowanie karne lub złożony wniosek o wszczęcie postępowania dyscyplinarnego dotyczy czynu naruszającego prawa i dobro dziecka, chyba że we wniosku o wszczęcie postępowania dyscyplinarnego rzecznik dyscyplinarny wnosi o wymierzenie kary dyscyplinarnej, o której mowa art. 76 ust. 1 pkt 1, i jednocześnie ze względu na powagę i wiarygodność zarzutów niecelowe jest odsunięcie odpowiednio nauczyciela albo nauczyciela pełniącego funkcję dyrektora szkoły od wykonywania obowiązków szkole.
+1. Dyrektor szkoły może zawiesić pełnieniu obowiązków nauczyciela, a organ prowadzący szkołę nauczyciela pełniącego funkcję dyrektora szkoły, przeciwko któremu wszczęto postępowanie karne lub złożono wniosek o wszczęcie postępowania dyscyplinarnego, jeżeli ze względu na powagę i wiarygodność wysuniętych zarzutów celowe jest odsunięcie nauczyciela od wykonywania obowiązków szkole. W sprawach niecierpiących zwłoki nauczyciel i nauczyciel pełniący funkcję dyrektora szkoły mogą być zawieszeni przed złożeniem wniosku o wszczęcie postępowania dyscyplinarnego.
+
+2. Dyrektor szkoły zawiesza pełnieniu obowiązków nauczyciela, a organ prowadzący szkołę nauczyciela pełniącego funkcję dyrektora szkoły, jeżeli wszczęte postępowanie karne lub złożony wniosek o wszczęcie postępowania dyscyplinarnego dotyczy czynu naruszającego prawa i dobro dziecka, chyba że we wniosku o wszczęcie postępowania dyscyplinarnego rzecznik dyscyplinarny wnosi o wymierzenie kary dyscyplinarnej, o której mowa art. 76 ust. 1 pkt 1, i jednocześnie ze
 
 3. Nauczyciel i nauczyciel pełniący funkcję dyrektora szkoły zostają z mocy prawa zawieszeni pełnieniu obowiązków razie ich tymczasowego aresztowania lub razie pozbawienia ich wolności związku z postępowaniem karnym.
 
@@ -2490,9 +2519,10 @@ poz. 1792);
 
 1. Minister właściwy do spraw oświaty i wychowania prowadzi centralny rejestr orzeczeń dyscyplinarnych, zwany dalej „rejestrem”, którym gromadzi się informacje o nauczycielach prawomocnie ukaranych karami dyscyplinarnymi, o których mowa art. 76 ust. 1 pkt 3 i 4, oraz informacje o zawieszeniu nauczyciela pełnieniu obowiązków, o którym mowa art. 85t ust. 1–3.
 
+2. Rejestr zawiera:
+
 - **1)** dane identyfikujące nauczyciela nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a przypadku braku tego numeru numer i serię dokumentu potwierdzającego tożsamość;
 - **2)** rodzaj orzeczonej kary dyscyplinarnej, o której mowa art. 76 ust. 1 pkt 3 albo 4, oraz okres ukarania;
-- **3)** oznaczenie komisji dyscyplinarnej, która wydała prawomocne orzeczenie o ukaraniu karą dyscyplinarną, oraz sygnaturę akt sprawy;
 - **4)** datę wydania oraz uprawomocnienia się orzeczenia, o którym mowa pkt 3;
 - **5)** datę i miejsce popełnienia czynu, którego dotyczy orzeczenie, o którym mowa pkt 3;
 - **6)** datę doręczenia nauczycielowi orzeczenia, o którym mowa pkt 3;
@@ -2536,11 +2566,11 @@ poz. 1792);
 - **2)** dane osobowe osoby, której dotyczy wniosek nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a przypadku braku tego numeru numer i serię dokumentu potwierdzającego tożsamość;
 - **3)** uzasadnienie uzyskania informacji;
 - **4)** wskazanie rodzaju i zakresu danych, które mają być przedmiotem informacji;
-- **5)** datę i miejsce sporządzenia wniosku. uwierzytelniony przy użyciu mechanizmów określonych art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne oraz zawierać adres elektroniczny wnioskodawcy.
+- **5)** datę i miejsce sporządzenia wniosku.
+
+4. Wniosek postaci papierowej zawiera podpis wnioskodawcy, a wniosek postaci elektronicznej powinien być uwierzytelniony przy użyciu mechanizmów określonych art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne oraz zawierać adres elektroniczny wnioskodawcy.
 
 5. Wniosek niespełniający warunków, o których mowa ust. 2, 3 lub 4, pozostawia się bez rozpoznania.
-
-6. Informacja z rejestru zawiera:
 
 - **1)** dane osobowe osoby, której dotyczy wniosek nazwisko, imię lub imiona, płeć, datę i miejsce urodzenia, imiona rodziców, obywatelstwo lub obywatelstwa, miejsce zamieszkania, numer PESEL, a przypadku braku tego numeru numer i serię dokumentu potwierdzającego tożsamość;
 - **2)** dane zakresie objętym wnioskiem albo stwierdzenie, że osoba, której dotyczy wniosek, nie figuruje rejestrze;
@@ -2576,29 +2606,11 @@ poz. 1792);
 
 4. Dane osób zmarłych usuwa się z rejestru po uzyskaniu informacji o ich zgonie.
 
-5. Zawiadomienia, o których mowa ust. 1 i 3, przesyła się do rejestru postaci elektronicznej. Zawiadomienie powinno być uwierzytelnione przy użyciu mechanizmów określonych art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne oraz zawierać adres elektroniczny organu. Uprawnienia emerytalne
+5. Zawiadomienia, o których mowa ust. 1 i 3, przesyła się do rejestru postaci elektronicznej. Zawiadomienie powinno być uwierzytelnione przy użyciu mechanizmów określonych art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne oraz zawierać adres elektroniczny organu.
+
+#### Rozdział 11 Uprawnienia emerytalne
 
 **Art. 86.** Nauczyciel oraz członek jego rodziny mają prawo do zaopatrzenia emerytalnego określonego przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z uwzględnieniem przepisów ustawy, z tym że nauczyciel zaliczany jest do pracowników wykonujących pracę szczególnym charakterze.
-
-**Art. 87.**
-
-1. W związku z przejściem na emeryturę, rentę z tytułu niezdolności do pracy lub nauczycielskie świadczenie kompensacyjne nauczycielowi przysługuje jednorazowa odprawa wysokości:
-
-- **1)** po 10 latach pracy dwumiesięcznego wynagrodzenia;
-- **2)** po 15 latach pracy trzymiesięcznego wynagrodzenia;
-- **3)** po 20 latach pracy sześciomiesięcznego wynagrodzenia.
-
-1a. Nauczyciel zatrudniony więcej niż jednej szkole odprawę, o której mowa ust. 1, otrzymuje szkole wskazanej jako podstawowe miejsce zatrudnienia.
-
-1b. Do okresów pracy uprawniających do odprawy, o której mowa ust. 1, wlicza się wszystkie poprzednio zakończone okresy zatrudnienia oraz inne okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
-
-2. (uchylony)
-
-3. Wynagrodzenie, o którym mowa ust. 1, oblicza się według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy.
-
-4. W razie zbiegu prawa do odprawy, o której mowa ust. 1, i odprawy, o której mowa art. 28, nauczycielowi przysługuje odprawa korzystniejsza.
-
-5. W razie zbiegu prawa do odprawy, o której mowa ust. 1, i odprawy, o której mowa art. 20 ust. 2, nauczycielowi przysługuje odprawa, o której mowa ust. 1, pełnej wysokości i odprawa, o której mowa art. 20 ust. 2, połowie jej wysokości.
 
 **Art. 88.**
 
@@ -2611,10 +2623,11 @@ poz. 1792);
 
 1b. Do okresu 20 lat wykonywania pracy szczególnym charakterze, o którym mowa ust. 1, zalicza się także okres skierowania, na podstawie odrębnych przepisów, do pracy pedagogicznej za granicą.
 
-2. Podstawę wymiaru emerytury lub renty dla nauczyciela zatrudnionego systemie oświaty i wychowania, przechodzącego na emeryturę lub rentę z tytułu niezdolności do pracy, ustala się na zasadach ogólnych, określonych przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z tym że do podstawy tej wlicza się również wynagrodzenie za godziny ponadwymiarowe, dodatki, świadczenia naturze, jeśli ze świadczeń tych nauczyciel nie korzysta po przejściu na emeryturę lub rentę, oraz wszystkie nagrody uzyskane przez nauczyciela za osiągnięcia zawodowe okresie, z którego wynagrodzenie stanowi podstawę wymiaru emerytury lub renty. na emeryturę bez względu na wiek, jeżeli:
+2. Podstawę wymiaru emerytury lub renty dla nauczyciela zatrudnionego systemie oświaty i wychowania, przechodzącego na emeryturę lub rentę z tytułu niezdolności do pracy, ustala się na zasadach ogólnych, określonych przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z tym że do podstawy tej wlicza się również wynagrodzenie za godziny ponadwymiarowe, dodatki, świadczenia naturze, jeśli ze świadczeń tych nauczyciel nie korzysta po przejściu na emeryturę lub rentę, oraz wszystkie nagrody uzyskane przez nauczyciela za osiągnięcia zawodowe okresie, z którego wynagrodzenie stanowi podstawę wymiaru emerytury lub renty.
 
-- **1)** spełnili warunki do uzyskania emerytury, określone ust. 1, ciągu dziesięciu lat od dnia wejścia życie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), z wyjątkiem warunku rozwiązania stosunku pracy, oraz
-- **2)** nie przystąpili do otwartego funduszu emerytalnego albo złożyli wniosek o przekazanie środków zgromadzonych na rachunku otwartym funduszu emerytalnym, za pośrednictwem Zakładu Ubezpieczeń Społecznych, na dochody budżetu państwa.
+2a. Nauczyciele urodzeni po dniu 31 grudnia 1948 r., a przed dniem 1 stycznia 1969 r. zachowują prawo do przejścia na emeryturę bez względu na wiek, jeżeli:
+
+- **1)** spełnili warunki do uzyskania emerytury, określone ust. 1, ciągu dziesięciu lat od dnia wejścia życie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), z wyjątkiem warunku rozwiązania stosunku pracy, oraz budżetu państwa.
 
 3. (uchylony)
 
@@ -2643,9 +2656,9 @@ poz. 1792);
 
 8. Wiek ubezpieczonego oraz średnie dalsze trwanie życia, o których mowa ust. 7, ustala się na zasadach określonych art. 26 ust. 2–5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-9. Prawo do emerytury, o której mowa ust. 1, ulega zawieszeniu lub świadczenie to ulega zmniejszeniu na zasadach określonych ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. przez osobę mającą ustalone prawo do tej emerytury, przypadku podjęcia przez tę osobę pracy na stanowisku nauczyciela, wychowawcy lub innego pracownika pedagogicznego przedszkolu, szkole, placówce lub innej jednostce organizacyjnej wymienionej art. 1, łącznym wymiarze wyższym niż 1/2 obowiązkowego wymiaru zajęć lub bez zgody organu sprawującego nadzór pedagogiczny.
+9. Prawo do emerytury, o której mowa ust. 1, ulega zawieszeniu lub świadczenie to ulega zmniejszeniu na zasadach określonych ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-11. Przepisu ust. 10 nie stosuje się do osób, które osiągnęły wiek emerytalny, o którym mowa art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+10. Prawo do emerytury, o której mowa ust. 1, ulega zawieszeniu bez względu na wysokość przychodu uzyskiwanego przez osobę mającą ustalone prawo do tej emerytury, przypadku podjęcia przez tę osobę pracy na stanowisku nauczyciela, wychowawcy lub innego pracownika pedagogicznego przedszkolu, szkole, placówce lub innej jednostce organizacyjnej wymienionej art. 1, łącznym wymiarze wyższym niż 1/2 obowiązkowego wymiaru zajęć lub bez zgody organu sprawującego nadzór pedagogiczny. z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 **Art. 89.** (uchylony)
 
@@ -2676,11 +2689,9 @@ poz. 1792);
 
 3. Nauczycielom urlopowanym na podstawie przepisów ustawy, o której mowa art. 1 ust. 2 pkt 3, przysługują uprawnienia wynikające z art. 9a–9i, art. 30, art. 31, art. 33, art. 49 ust. 1, art. 51, art. 73, art. 86–88a i art. 90.
 
-4. Do nauczycieli zatrudnionych szkołach polskich, o których mowa art. 4 pkt 29d ustawy Prawo oświatowe, oraz publicznych szkołach i zespołach szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych mają zastosowanie przepisy art. 6–9i, art. 9p ust. 4a–6b, art. 10, art. 11, art. 11c, art. 12–18, art. 20–23, art. 26–28, art. 28a, art. 28b, art. 31, art. 42 ust. 1, 2 i 7a, art. 51, art. 63–67 oraz rozdziałów 8–11. 4, 6 i 7, art. 9fa ust. 11 i 13 oraz art. 9g ust. 7b i 8, zalicza się okres zatrudnienia nauczyciela szkołach polskich, o których mowa art. 4 pkt 29d ustawy Prawo oświatowe, oraz publicznych szkołach i zespołach szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, bez względu na wymiar zatrudnienia.
+4. Do nauczycieli zatrudnionych szkołach polskich, o których mowa art. 4 pkt 29d ustawy Prawo oświatowe, oraz publicznych szkołach i zespołach szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych mają zastosowanie przepisy art. 6–9i, art. 9p ust. 4a–6b, art. 10, art. 11, art. 11c, art. 12–18, art. 20–23, art. 26–28, art. 28a, art. 28b, art. 31, art. 42 ust. 1, 2 i 7a, art. 51, art. 63–67 oraz rozdziałów 8–11.
 
-**Art. 91b.**
-
-1. Do nauczyciela zatrudnionego wymiarze niższym niż połowa obowiązującego wymiaru zajęć nie stosuje się przepisów art. 54 ust. 5, art. 72, art. 86, art. 88, art. 88a i art. 90.
+5. W przypadku nauczycieli, o których mowa art. 1 ust. 2 pkt 1a, do okresów, o których mowa art. 9ca ust. 1, 2, 4, 6 i 7, art. 9fa ust. 11 i 13 oraz art. 9g ust. 7b i 8, zalicza się okres zatrudnienia nauczyciela szkołach polskich, o których mowa art. 4 pkt 29d ustawy Prawo oświatowe, oraz publicznych szkołach i zespołach szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, bez względu na wymiar zatrudnienia.
 
 2. Do nauczycieli zatrudnionych w:
 
@@ -2703,11 +2714,17 @@ poz. 1792);
 
 5. W okresie wykonywania pracy szkołach, o których mowa ust. 4, nauczycielom przysługuje wynagrodzenie wysokości równej ekwiwalentowi pieniężnemu za urlop wypoczynkowy, ustalonemu według zasad określonych przepisach wydanych na podstawie art. 67 ust. 3. W pozostałym zakresie prawa i obowiązki tych nauczycieli określają odrębne przepisy.
 
-6. Okres wykonywania pracy szkołach, o których mowa ust. 4, jest zaliczany do okresu pracy, od którego zależą uprawnienia nauczyciela wynikające ze stosunku pracy. wanie przepisy Kodeksu pracy.
+6. Okres wykonywania pracy szkołach, o których mowa ust. 4, jest zaliczany do okresu pracy, od którego zależą uprawnienia nauczyciela wynikające ze stosunku pracy.
+
+**Art. 91c.**
+
+1. W zakresie spraw wynikających ze stosunku pracy, nieuregulowanych przepisami ustawy, mają zastosowanie przepisy Kodeksu pracy.
 
 2. Spory o roszczenia ze stosunku pracy nauczycieli, niezależnie od formy nawiązania stosunku pracy, rozpatrywane są przez sądy pracy.
 
-**Art. 91d.** W przypadku szkół i placówek prowadzonych przez jednostki samorządu terytorialnego, zadania i kompetencje organu prowadzącego określone w:
+- **1)** art. 30 ust. 6 i 10a, art. 42 ust. 7, art. 42a ust. 1, art. 49 ust. 2, art. 70a ust. 1 oraz art. 72 ust. 1 wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;
+- **2)** art. 9g ust. 2, art. 29 ust. 1, art. 30a oraz art. 53 ust. 3a i 4 wykonuje odpowiednio: wójt, burmistrz (prezydent miasta), zarząd powiatu, zarząd województwa;
+- **3)** art. 6a ust. 1 pkt 3 oraz ust. 6, art. 9b ust. 3, 3a i 4 pkt 2 oraz ust. 6, art. 9g ust. 3 pkt 1 i ust. 4, art. 18 ust. 4 i 5, art. 22 ust. 1, art. 26 ust. 2, art. 42 ust. 6a, art. 54 ust. 5, art. 63 ust. 2, art. 75 ust. 2a, art. 85s ust. 4, art. 85t ust. 1, 2 i 5 oraz art. 85z ust. 1 pkt 2 i ust. 3 pkt 2 wykonuje odpowiednio: wójt, burmistrz (prezydent miasta), starosta, marszałek województwa.
 
 #### Rozdział 12 Przepisy epizodyczne, przejściowe i końcowe
 
@@ -2739,44 +2756,9 @@ poz. 1792);
 
 2. Do podziału środków wykorzystuje się dane dotyczące nauczycieli pozostających stosunku pracy szkole dniu 20 września 2023 r., zgromadzone systemie informacji oświatowej, o których mowa art. 29 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej dniu 27 września 2023 r.
 
-3. Minister właściwy do spraw finansów publicznych, terminie do dnia 6 października 2023 r., na wnioski właściwych ministrów, o których mowa art. 8 ust. 4–14a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, zwiększa wydatki odpowiednich częściach budżetowych o środki z rezerwy celowej budżetu państwa, z przeznaczeniem na wypłatę nagrody, o której mowa art. 92a ust. 1. mowa art. 36 ust. 4 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586 i 2005), oraz części budżetowych, którymi dysponują ministrowie, o których mowa art. 8 ust. 4–14a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe.
+3. Minister właściwy do spraw finansów publicznych, terminie do dnia 6 października 2023 r., na wnioski właściwych ministrów, o których mowa art. 8 ust. 4–14a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, zwiększa wydatki odpowiednich częściach budżetowych o środki z rezerwy celowej budżetu państwa, z przeznaczeniem na wypłatę nagrody, o której mowa art. 92a ust. 1.
 
-**Art. 92d.**
-
-1. Organ rejestrujący, o którym mowa art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2023 r. poz. 1400 i 2005), oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udzielają dotacji celowej przeznaczonej na wypłatę nagrody, o której mowa art. 92a ust. 1.
-
-2. Dotacja celowa, o której mowa ust. 1, jest udzielana przedszkolu, innej formie wychowania przedszkolnego, szkole i placówce, których nauczyciel jest uprawniony do otrzymania nagrody, o której mowa art. 92a ust. 1, prowadzonym przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną.
-
-3. Przedszkole, inna forma wychowania przedszkolnego, szkoła i placówka, o których mowa ust. 2, terminie do dnia 2 października 2023 r., składają wniosek o udzielenie dotacji celowej, o której mowa ust. 1, do organu rejestrującego, o którym mowa art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, a przypadku szkół i placówek artystycznych do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
-
-4. Wniosek, o którym mowa ust. 3, zawiera:
-
-- **1)** nazwę, adres siedziby i numer REGON odpowiednio przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki, o których mowa ust. 2;
-- **2)** nazwę organu rejestrującego, o którym mowa art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, oraz jego kod z krajowego rejestru urzędowego podziału terytorialnego kraju TERYT, o którym mowa art. 41 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2023 r. poz. 773), a przypadku szkół i placówek artystycznych wskazanie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
-- **3)** wnioskowaną kwotę dotacji celowej;
-- **4)** numer rachunku bankowego, na który będzie przekazana dotacja celowa;
-- **5)** miejscowość i datę sporządzenia wniosku;
-- **6)** podpis dyrektora odpowiednio przedszkola, szkoły lub placówki, a przypadku innej formy wychowania przedszkolnego osoby kierującej daną inną formą wychowania przedszkolnego wyznaczonej przez osobę prowadzącą tę inną formę wychowania przedszkolnego.
-
-5. Kwota dotacji, o której mowa ust. 4 pkt 3, nie może być wyższa niż kwota stanowiąca iloczyn liczby uprawnionych nauczycieli ustalonej na podstawie danych dotyczących nauczycieli pozostających stosunku pracy szkole dniu 20 września 2023 r., zgromadzonych systemie informacji oświatowej, o których mowa art. 29 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej dniu 27 września 2023 r., i kwoty, o której mowa art. 92a ust. 1.
-
-6. Organ rejestrujący, o którym mowa art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dokonują naliczenia dotacji celowej, o której mowa ust. 1, na podstawie:
-
-- **1)** wniosku, o którym mowa ust. 3,
-- **2)** danych dotyczących nauczycieli pozostających stosunku pracy szkole dniu 20 września 2023 r., uprawnionych do otrzymania nagrody, o której mowa art. 92a ust. 1, zgromadzonych systemie informacji oświatowej, o których mowa art. 28 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej dniu 27 września 2023 r. i przekazują dotację celową na rachunek bankowy wskazany we wniosku, o którym mowa ust. 3, terminie do dnia 11 października 2023 r.
-
-7. Rozliczenia dotacji celowej, o której mowa ust. 1, dokonuje dyrektor, który podpisał wniosek, o którym mowa ust. 3, a przypadku innej formy wychowania przedszkolnego osoba kierująca inną formą wychowania przedszkolnego, wyznaczona przez osobę prowadzącą inną formę wychowania przedszkolnego, która podpisała wniosek, o którym mowa ust. 3.
-
-- **1)** nazwę, adres siedziby i numer REGON odpowiednio przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki;
-- **2)** nazwę organu rejestrującego, o którym mowa art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, oraz jego kod z krajowego rejestru urzędowego podziału terytorialnego kraju TERYT, o którym mowa art. 41 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, a przypadku szkół i placówek artystycznych wskazanie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
-- **3)** przyznaną kwotę dotacji celowej;
-- **4)** wykorzystaną kwotę dotacji celowej;
-- **5)** kwotę dotacji celowej podlegającej zwrotowi odpowiednio do budżetu jednostki samorządu terytorialnego albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
-- **6)** listę nauczycieli, którym wypłacono nagrodę, o której mowa art. 92a ust. 1, zawierającą nazwiska, imiona i numery PESEL tych nauczycieli, a przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, oraz ich własnoręczne podpisy stanowiące potwierdzenie otrzymania tej nagrody;
-- **7)** miejscowość i datę sporządzenia rozliczenia;
-- **8)** podpis dyrektora odpowiednio przedszkola, szkoły lub placówki, a przypadku innej formy wychowania przedszkolnego osoby kierującej daną inną formą wychowania przedszkolnego wyznaczonej przez osobę prowadzącą inną formę wychowania przedszkolnego.
-
-9. Rozliczenia dotacji celowej, o której mowa ust. 1, oraz zwrotu niewykorzystanej kwoty dotacji celowej dokonuje się do dnia 30 listopada 2023 r.
+**Art. 92c.** Środki na wypłatę nagrody, o której mowa art. 92a ust. 1, są przekazywane odpowiednio z rezerwy, o której mowa art. 36 ust. 4 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586 i 2005), oraz części budżetowych, którymi dysponują ministrowie, o których mowa art. 8 ust. 4–14a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe. zadań oświatowych (Dz. U. z 2023 r. poz. 1400 i 2005), oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udzielają dotacji celowej przeznaczonej na wypłatę nagrody, o której mowa art. 92a ust. 1. 2. Dotacja celowa, o której mowa ust. 1, jest udzielana przedszkolu, innej formie wychowania przedszkolnego, szkole i placówce, których nauczyciel jest uprawniony do otrzymania nagrody, o której mowa art. 92a ust. 1, prowadzonym przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną. 3. Przedszkole, inna forma wychowania przedszkolnego, szkoła i placówka, o których mowa ust. 2, terminie do dnia 2 października 2023 r., składają wniosek o udzielenie dotacji celowej, o której mowa ust. 1, do organu rejestrującego, o którym mowa art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, a przypadku szkół i placówek artystycznych do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. 4. Wniosek, o którym mowa ust. 3, zawiera:
 
 **Art. 92e.** W zakresie niezbędnym do naliczenia i rozliczenia dotacji celowej, o której mowa art. 92d ust. 1, odpowiednio organ rejestrujący, o którym mowa art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego przetwarzają dane osobowe nauczycieli określone art. 92d ust. 6 pkt 2 i ust. 8 pkt 6, tym z wykorzystaniem systemów teleinformatycznych służących do gromadzenia danych osobowych.
 
@@ -2792,7 +2774,9 @@ poz. 1792);
 
 1. W okresie od dnia 1 maja 2022 r. do dnia 31 grudnia 2022 r. średnie wynagrodzenie nauczycieli ustalone sposób określony art. 30 ust. 3 zwiększa się o 4,4 %.
 
-2. Ilekroć przepisach ustawy jest mowa o średnim wynagrodzeniu nauczycieli, o którym mowa art. 30 ust. 3, okresie od dnia 1 maja 2022 r. do dnia 31 grudnia 2022 r. należy przez to rozumieć średnie wynagrodzenie nauczycieli ustalone sposób określony art. 30 ust. 3, zwiększone o 4,4 %. ustawy Prawo oświatowe, nauczycielowi mogą być przydzielone, za jego zgodą, godziny ponadwymiarowe wymiarze wyższym niż określony art. 35 ust. 1.
+2. Ilekroć przepisach ustawy jest mowa o średnim wynagrodzeniu nauczycieli, o którym mowa art. 30 ust. 3, okresie od dnia 1 maja 2022 r. do dnia 31 grudnia 2022 r. należy przez to rozumieć średnie wynagrodzenie nauczycieli ustalone sposób określony art. 30 ust. 3, zwiększone o 4,4 %.
+
+**Art. 93b.** W roku szkolnym 2023/2024 szkole ponadpodstawowej, o której mowa art. 18 ust. 1 pkt 2 lit. a–c ustawy Prawo oświatowe, nauczycielowi mogą być przydzielone, za jego zgodą, godziny ponadwymiarowe wymiarze wyższym niż określony art. 35 ust. 1.
 
 **Art. 93c.** Na emeryturę, o której mowa art. 88a ust. 1, mogą przejść, począwszy od dnia:
 

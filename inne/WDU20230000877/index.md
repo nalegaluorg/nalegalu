@@ -8,9 +8,12 @@ pos: 877
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 maja 2023 r.
+# o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz niektórych innych ustaw
+
+*USTAWA z dnia 14 kwietnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2023-05-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000877) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/877/text.pdf) |
-
-USTAWA z dnia 14 kwietnia 2023 r.
-o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2020 r. poz. 1903) wprowadza się następujące zmiany:
 
@@ -53,7 +53,7 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 3. Wpływy z tytułu opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2, stanowią w wysokości 5% dochody budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych opłat i obsługę administracyjną systemu ich poboru.
 
-**Art. 3g.** W sprawach dotyczących opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+**Art. 3g.** W sprawach dotyczących opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 **Art. 3h.**
 
@@ -86,15 +86,15 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 1. Maksymalne stawki opłaty, o której mowa w art. 3k ust. 1 i 2, wynoszą:
 
-- **1)** 0,20 zł za 1 kg oddzielnie dla każdego rodzaju wprowadzonego do obrotu produktu jednorazowego użytku z tworzyw sztucznych wymienionego w sekcji I załącznika nr 9 do ustawy;
-- **2)** 0,03 zł za sztukę oddzielnie dla każdego rodzaju wprowadzonego do obrotu produktu jednorazowego użytku z tworzyw sztucznych wymienionego w sekcjach II i III załącznika nr 9 do ustawy.
+- **1)** 0,20 zł za 1 kg – oddzielnie dla każdego rodzaju wprowadzonego do obrotu produktu jednorazowego użytku z tworzyw sztucznych wymienionego w sekcji I załącznika nr 9 do ustawy;
+- **2)** 0,03 zł za sztukę – oddzielnie dla każdego rodzaju wprowadzonego do obrotu produktu jednorazowego użytku z tworzyw sztucznych wymienionego w sekcjach II i III załącznika nr 9 do ustawy.
 
 2. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, stawki opłaty, o której mowa w art. 3k ust. 1 i 2, dla każdego rodzaju produktu jednorazowego użytku z tworzyw sztucznych wymienionego w załączniku nr 9 do ustawy, kierując się rodzajami produktów objętych opłatą, koniecznością pokrycia, w niezbędnym zakresie, kosztów zagospodarowania odpadów powstałych z tych produktów oraz utworzenia i utrzymania publicznych systemów zbierania, a także proporcjonalnością stawki opłaty do kosztów, o których mowa w art. 3k ust. 1 i 2.
 
 3. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w:
 
 - **1)** sekcjach I i III załącznika nr 9 do ustawy albo
-- **2)** sekcji II załącznika nr 9 do ustawy wnosi opłatę, o której mowa odpowiednio w art. 3k ust. 1 albo 2, na odrębny rachunek bankowy prowadzony przez marszałka województwa w terminie do dnia 15 marca roku następującego po roku kalendarzowym, którego ta opłata dotyczy.
+- **2)** sekcji II załącznika nr 9 do ustawy – wnosi opłatę, o której mowa odpowiednio w art. 3k ust. 1 albo 2, na odrębny rachunek bankowy prowadzony przez marszałka województwa w terminie do dnia 15 marca roku następującego po roku kalendarzowym, którego ta opłata dotyczy.
 
 **Art. 3m.**
 
@@ -115,7 +115,7 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 3. Wpływy z tytułu opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3m ust. 2, stanowią w wysokości 5% dochody budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych opłat i obsługę administracyjną systemu ich poboru.
 
-4. W sprawach dotyczących opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3m ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+4. W sprawach dotyczących opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3m ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 **Art. 3o.**
 
@@ -162,15 +162,15 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 3. Przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do osiągnięcia minimalnego rocznego poziomu zbierania do celów recyklingu narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne w wysokości co najmniej:
 
-- **1)** 5% wagowo za rok 2024;
-- **2)** 10% wagowo za rok 2025;
-- **3)** 15% wagowo za rok 2026;
-- **4)** 20% wagowo za rok 2027;
-- **5)** 25% wagowo za rok 2028;
-- **6)** 27% wagowo za rok 2029;
-- **7)** 30% wagowo za rok 2030 i za każdy kolejny rok.
+- **1)** 5% wagowo – za rok 2024;
+- **2)** 10% wagowo – za rok 2025;
+- **3)** 15% wagowo – za rok 2026;
+- **4)** 20% wagowo – za rok 2027;
+- **5)** 25% wagowo – za rok 2028;
+- **6)** 27% wagowo – za rok 2029;
+- **7)** 30% wagowo – za rok 2030 i za każdy kolejny rok.
 
-4. Minimalny roczny poziom zbierania w danym roku kalendarzowym jest obliczany jako stosunek masy zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne do masy wprowadzonych do obrotu w poprzednim roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne, a w przypadku przedsiębiorcy, który w poprzednim roku kalendarzowym nie wprowadził do obrotu narzędzi połowowych zawierających tworzywa sztuczne do masy produktów wprowadzonych do obrotu w danym roku kalendarzowym.
+4. Minimalny roczny poziom zbierania w danym roku kalendarzowym jest obliczany jako stosunek masy zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne do masy wprowadzonych do obrotu w poprzednim roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne, a w przypadku przedsiębiorcy, który w poprzednim roku kalendarzowym nie wprowadził do obrotu narzędzi połowowych zawierających tworzywa sztuczne – do masy produktów wprowadzonych do obrotu w danym roku kalendarzowym.
 
 5. Przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do prowadzenia, w postaci papierowej albo elektronicznej, ewidencji zawierającej informacje o masie wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne oraz o masie zebranych w danym roku kalendarzowym narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne, zgodnie z formatem zgłaszania danych określonym w decyzji wykonawczej Komisji (UE) 2021/958 z dnia 31 maja 2021 r. ustanawiającej format zgłaszania danych i informacji dotyczących wprowadzonych do obrotu narzędzi połowowych oraz zebranych narzędzi połowowych stanowiących odpady w państwach członkowskich i format sprawozdania z kontroli jakości zgodnie z art. 13 ust. 1 lit. d i art. 13 ust. 2 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 (Dz. Urz. UE L 211 z 15.06.2021, str. 51, z późn. zm. ).
 
@@ -180,8 +180,8 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 8. W przypadku, o którym mowa w ust. 7, oszacowanie masy wprowadzonych do obrotu narzędzi połowowych zawierających tworzywa sztuczne następuje metodą porównawczą:
 
-- **1)** wewnętrzną polegającą na porównaniu masy wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne przez przedsiębiorcę wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne w poprzednich latach kalendarzowych, dla których jest znana wielkość tej masy;
-- **2)** zewnętrzną polegającą na porównaniu masy wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne przez przedsiębiorcę innego niż przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne, który prowadzi działalność gospodarczą o podobnej skali.
+- **1)** wewnętrzną – polegającą na porównaniu masy wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne przez przedsiębiorcę wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne w poprzednich latach kalendarzowych, dla których jest znana wielkość tej masy;
+- **2)** zewnętrzną – polegającą na porównaniu masy wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne przez przedsiębiorcę innego niż przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne, który prowadzi działalność gospodarczą o podobnej skali.
 
 9. Masę zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne ustala się na podstawie zaświadczenia, do którego sporządzenia jest obowiązany przedsiębiorca prowadzący portowe urządzenia do odbioru odpadów lub przedsiębiorca prowadzący inne równoważne systemy zbierania. Zaświadczenie jest sporządzane na wniosek przedsiębiorcy wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne.
 
@@ -215,9 +215,9 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 1. Administracyjne kary pieniężne wynoszą w przypadkach, o których mowa w art. 40a:
 
-- **1)** pkt 1–6 od 500 zł do 20 000 zł;
-- **2)** pkt 7 i 15 od 10 000 zł do 500 000 zł;
-- **3)** pkt 8–14 od 10 000 zł do 100 000 zł.
+- **1)** pkt 1–6 – od 500 zł do 20 000 zł;
+- **2)** pkt 7 i 15 – od 10 000 zł do 500 000 zł;
+- **3)** pkt 8–14 – od 10 000 zł do 100 000 zł.
 
 2. Administracyjne kary pieniężne za naruszenia, o których mowa w art. 40a pkt 1–3, wymierza, w drodze decyzji, właściwy wojewódzki inspektor Inspekcji Handlowej.
 
@@ -231,9 +231,9 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 **Art. 40c.**
 
-1. Do administracyjnych kar pieniężnych nie stosuje się przepisu art. 189f ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+1. Do administracyjnych kar pieniężnych nie stosuje się przepisu art. 189f ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
-2. Do administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organu podatkowego przysługują odpowiednio wojewódzkiemu inspektorowi Inspekcji Handlowej oraz wojewódzkiemu inspektorowi ochrony środowiska.”;
+2. Do administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organu podatkowego przysługują odpowiednio wojewódzkiemu inspektorowi Inspekcji Handlowej oraz wojewódzkiemu inspektorowi ochrony środowiska.”;
 
 - **19)** dodaje się załączniki nr 6–10 do ustawy w brzmieniu określonym w załącznikach nr 1–5 do niniejszej ustawy.
 
@@ -241,7 +241,7 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 **Art. 3.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2020 r. poz. 1706) w art. 3 w ust. 1 po pkt 2h dodaje się pkt 2ha w brzmieniu: „2ha) kontrola przestrzegania przepisów art. 3b ust. 1–3 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2020 r. poz. 1903 oraz z 2023 r. poz. 877) przez przedsiębiorców prowadzących jednostki handlu detalicznego, jednostki handlu hurtowego, jednostki gastronomiczne lub pakujących i oferujących napoje lub żywność za pomocą urządzenia vendingowego;”.
 
-**Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556 i 2687) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556 i 2687) wprowadza się następujące zmiany:
 
 **Art. 5.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2022 r. poz. 143, z późn. zm. ) art. 163e otrzymuje brzmienie: „Art. 163e. W okresie od dnia 1 lipca 2022 r. do dnia 31 lipca 2023 r. zwalnia się od akcyzy sprzedaż gminom oraz podmiotom, o których mowa w art. 5 ust. 5 pkt 1, 3 i 4 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236), wyrobów węglowych objętych pozycją CN2701 na podstawie tej ustawy.”.
 
@@ -258,8 +258,8 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 2. Do zakrętek i wieczek wykonanych z tworzyw sztucznych, o których mowa w art. 14a ust. 1 i art. 14b, nie zalicza się metalowych zakrętek i wieczek z uszczelką z tworzyw sztucznych.”;
 
 - **5)** po art. 21 dodaje się art. 21a w brzmieniu: „Art. 21a. 1. Wprowadzający produkty w opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, z wyłączeniem butelek, o których mowa w art. 14c ust. 1, jest obowiązany do osiągnięcia rocznego poziomu selektywnego zbierania odpadów opakowaniowych wynoszącego:
-- **1)** od 2025 r. 77%;
-- **2)** od 2029 r. 90%.
+- **1)** od 2025 r. – 77%;
+- **2)** od 2029 r. – 90%.
 
 2. Wprowadzający produkty w opakowaniach wykonuje obowiązek, o którym mowa w ust. 1, samodzielnie albo za pośrednictwem organizacji odzysku opakowań.
 
@@ -269,7 +269,7 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 - **6)** w art. 22 po ust. 1 dodaje się ust. 1a–1f w brzmieniu: „1a. Wprowadzający produkty w opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, z wyłączeniem butelek, o których mowa w art. 14c ust. 1, jest obowiązany do prowadzenia, w postaci papierowej lub elektronicznej, ewidencji obejmującej informacje o:
 - **1)** masie butelek, w których wprowadził do obrotu napoje w danym roku kalendarzowym,
-- **2)** udziale wagowym tworzyw sztucznych pochodzących z recyklingu w tych butelkach z podziałem na butelki, których głównym składnikiem jest politereftalan etylenu, oraz pozostałe butelki.
+- **2)** udziale wagowym tworzyw sztucznych pochodzących z recyklingu w tych butelkach – z podziałem na butelki, których głównym składnikiem jest politereftalan etylenu, oraz pozostałe butelki.
 
 1b. Masę opakowań wprowadzonych do obrotu wraz z produktami ustala się na podstawie ewidencji, o których mowa w ust. 1 i 1a.
 
@@ -279,8 +279,8 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 1e. Oszacowanie masy i określenie rodzaju opakowań, w których wprowadzono do obrotu produkty w tych opakowaniach, następuje metodą porównawczą:
 
-- **1)** wewnętrzną polegającą na oszacowaniu masy i określeniu rodzaju opakowań, w których wprowadzający produkty w opakowaniach wprowadził produkty do obrotu w danym roku kalendarzowym, na podstawie informacji o masie i rodzaju opakowań, w których ten wprowadzający wprowadził te produkty do obrotu w poprzednich latach kalendarzowych;
-- **2)** zewnętrzną polegającą na oszacowaniu masy i określeniu rodzaju opakowań, w których wprowadzający produkty w opakowaniach wprowadził produkty do obrotu w danym roku kalendarzowym, na podstawie informacji o masie i rodzaju opakowań, w których inny niż wskazany w ust. 1 wprowadzający, prowadzący działalność gospodarczą w podobnej skali, wprowadził produkty do obrotu w danym roku kalendarzowym.
+- **1)** wewnętrzną – polegającą na oszacowaniu masy i określeniu rodzaju opakowań, w których wprowadzający produkty w opakowaniach wprowadził produkty do obrotu w danym roku kalendarzowym, na podstawie informacji o masie i rodzaju opakowań, w których ten wprowadzający wprowadził te produkty do obrotu w poprzednich latach kalendarzowych;
+- **2)** zewnętrzną – polegającą na oszacowaniu masy i określeniu rodzaju opakowań, w których wprowadzający produkty w opakowaniach wprowadził produkty do obrotu w danym roku kalendarzowym, na podstawie informacji o masie i rodzaju opakowań, w których inny niż wskazany w ust. 1 wprowadzający, prowadzący działalność gospodarczą w podobnej skali, wprowadził produkty do obrotu w danym roku kalendarzowym.
 
 1f. W przypadku gdy wprowadzający produkty w opakowaniach nie prowadzi ewidencji, o której mowa w ust. 1a, w zakresie udziału wagowego tworzyw sztucznych pochodzących z recyklingu w butelkach jednorazowego użytku z tworzyw sztucznych na napoje o pojemności do trzech litrów albo prowadzi ją nierzetelnie, uznaje się, że ten udział nie został zapewniony.”;
 
@@ -292,16 +292,16 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 - **8)** w art. 35 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, szczegółowe stawki opłat produktowych dla poszczególnych rodzajów opakowań, kierując się negatywnym oddziaływaniem na środowisko odpadów opakowaniowych powstałych z tych opakowań, kosztami ich zagospodarowania oraz biorąc pod uwagę, że opłata produktowa powinna stanowić zachętę do zbierania oraz do poddawania odpadów opakowaniowych recyklingowi.”;
 - **9)** w art. 56 w ust. 1 po pkt 4a dodaje się pkt 4b w brzmieniu: „4b) wbrew przepisowi art. 14b wprowadza do obrotu produkty w jednorazowych opakowaniach na napoje będących pojemnikami z tworzyw sztucznych o pojemności do trzech litrów, których zakrętki i wieczka wykonane z tworzyw sztucznych nie pozostają przymocowane do nich podczas etapu zamierzonego użytkowania napoju;”;
-- **10)** w art. 57 pkt 1 otrzymuje brzmienie: „1) w przypadkach, o których mowa w art. 56 ust. 1 pkt 1–4, 4b, 5–10 i 14 od 10 000 zł do 500 000 zł;”;
+- **10)** w art. 57 pkt 1 otrzymuje brzmienie: „1) w przypadkach, o których mowa w art. 56 ust. 1 pkt 1–4, 4b, 5–10 i 14 – od 10 000 zł do 500 000 zł;”;
 - **11)** w załączniku nr 2 do ustawy dodaje się ust. 5 i 6 w brzmieniu: „5. Wysokość należnej opłaty produktowej z tytułu niewykonania obowiązku zapewnienia przez wprowadzającego produkty w opakowaniach poziomu udziału wagowego tworzyw sztucznych pochodzących z recyklingu w opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów oraz butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, których głównym składnikiem jest politereftalan etylenu, oblicza się według wzorów:
-- **1)** dla butelek jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów: OP P =M∙( −OZ )∙SO 100% gdzie: OP oznacza wysokość należnej opłaty produktowej w zł, M oznacza masę w kg butelek jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, w których zostały wprowadzone do obrotu napoje w danym roku kalendarzowym, P oznacza wymagany poziom udziału wagowego w %, określony w art. 14a ust. 1 pkt 2, OZ oznacza osiągnięty poziom udziału wagowego w %, obliczony zgodnie z art. 14a ust. 3, SO oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2. Jeżeli P OZ ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”;
-- **2)** dla butelek jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, których głównym składnikiem jest politereftalan etylenu: OP P =M∙( −OZ )∙SO 100% gdzie: OP oznacza wysokość należnej opłaty produktowej w zł, M oznacza masę w kg butelek jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, których głównym składnikiem jest politereftalan etylenu, w których zostały wprowadzone do obrotu napoje w danym roku kalendarzowym, P oznacza wymagany poziom udziału wagowego w %, określony w art. 14a ust. 1 pkt 1, OZ oznacza osiągnięty poziom udziału wagowego w %, obliczony zgodnie z art. 14a ust. 2, SO oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2. Jeżeli P OZ ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”.
+- **1)** dla butelek jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów: OP P =M∙( −OZ )∙SO 100% gdzie: OP – oznacza wysokość należnej opłaty produktowej w zł, M – oznacza masę w kg butelek jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, w których zostały wprowadzone do obrotu napoje w danym roku kalendarzowym, P – oznacza wymagany poziom udziału wagowego w %, określony w art. 14a ust. 1 pkt 2, OZ – oznacza osiągnięty poziom udziału wagowego w %, obliczony zgodnie z art. 14a ust. 3, SO – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2. Jeżeli P – OZ ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”;
+- **2)** dla butelek jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, których głównym składnikiem jest politereftalan etylenu: OP P =M∙( −OZ )∙SO 100% gdzie: OP – oznacza wysokość należnej opłaty produktowej w zł, M – oznacza masę w kg butelek jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, których głównym składnikiem jest politereftalan etylenu, w których zostały wprowadzone do obrotu napoje w danym roku kalendarzowym, P – oznacza wymagany poziom udziału wagowego w %, określony w art. 14a ust. 1 pkt 1, OZ – oznacza osiągnięty poziom udziału wagowego w %, obliczony zgodnie z art. 14a ust. 2, SO – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2. Jeżeli P – OZ ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”.
 
-6. Wysokość należnej opłaty produktowej z tytułu niewykonania obowiązku selektywnego zbierania odpadów opakowaniowych powstałych z opakowań na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów oblicza się według wzoru: OP P =M∙( −OZ )∙SO 100% gdzie: OP oznacza wysokość należnej opłaty produktowej w zł, M oznacza masę w kg butelek jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, w których zostały wprowadzone do obrotu napoje w danym roku kalendarzowym, P oznacza wymagany poziom zbierania w %, określony w art. 21a ust. 1, OZ oznacza osiągnięty poziom zbierania w %, obliczony zgodnie z art. 21a ust. 3, SO oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2. Jeżeli P OZ ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”.”.
+6. Wysokość należnej opłaty produktowej z tytułu niewykonania obowiązku selektywnego zbierania odpadów opakowaniowych powstałych z opakowań na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów oblicza się według wzoru: OP P =M∙( −OZ )∙SO 100% gdzie: OP – oznacza wysokość należnej opłaty produktowej w zł, M – oznacza masę w kg butelek jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, w których zostały wprowadzone do obrotu napoje w danym roku kalendarzowym, P – oznacza wymagany poziom zbierania w %, określony w art. 21a ust. 1, OZ – oznacza osiągnięty poziom zbierania w %, obliczony zgodnie z art. 21a ust. 3, SO – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2. Jeżeli P – OZ ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”.”.
 
-**Art. 8.** W ustawie z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687 oraz z 2023 r. poz. 295 i 412) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687 oraz z 2023 r. poz. 295 i 412) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 7 lipca 2022 r. o zmianie ustawy Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 1549) w art. 14:
+**Art. 9.** W ustawie z dnia 7 lipca 2022 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 1549) w art. 14:
 
 **Art. 10.** W ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -319,9 +319,9 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 1. Sprawozdanie, o którym mowa w art. 73 ust. 1 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, składane za rok 2023 przez:
 
-- **1)** przedsiębiorców, o których mowa w art. 3b ust. 1 i 2 ustawy zmienianej w art. 1 nie obejmuje informacji o wysokości należnej opłaty, o której mowa w art. 3b ust. 1 tej ustawy;
-- **2)** przedsiębiorców, o których mowa w art. 3k ust. 1 i 2 ustawy zmienianej w art. 1 nie obejmuje informacji o wysokości należnej opłaty, o której mowa w art. 3k ust. 1 i 2 tej ustawy;
-- **3)** przedsiębiorców, o których mowa w art. 11b ust. 1 pkt 1 ustawy zmienianej w art. 1 nie obejmuje informacji, o których mowa w art. 73 ust. 2 pkt 3a lit. h ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą.
+- **1)** przedsiębiorców, o których mowa w art. 3b ust. 1 i 2 ustawy zmienianej w art. 1 – nie obejmuje informacji o wysokości należnej opłaty, o której mowa w art. 3b ust. 1 tej ustawy;
+- **2)** przedsiębiorców, o których mowa w art. 3k ust. 1 i 2 ustawy zmienianej w art. 1 – nie obejmuje informacji o wysokości należnej opłaty, o której mowa w art. 3k ust. 1 i 2 tej ustawy;
+- **3)** przedsiębiorców, o których mowa w art. 11b ust. 1 pkt 1 ustawy zmienianej w art. 1 – nie obejmuje informacji, o których mowa w art. 73 ust. 2 pkt 3a lit. h ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą.
 
 2. W przypadku, o którym mowa w ust. 1, sprawozdanie za rok 2023 obejmuje okres od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2023 r.
 
@@ -333,7 +333,7 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 2. W przypadku, o którym mowa w ust. 1, przedsiębiorca prowadzący portowe urządzenia do odbioru odpadów lub przedsiębiorca prowadzący inne równoważne systemy zbierania sporządzają zaświadczenie, o którym mowa w art. 8d ust. 9 ustawy zmienianej w art. 1, w postaci papierowej, w terminie 2 dni od dnia otrzymania wniosku, o którym mowa w tym przepisie.
 
-**Art. 16.** Inspekcja Handlowa przeprowadza kontrole przestrzegania przepisów art. 3b ust. 1–3 ustawy zmienianej w art. 1 przez przedsiębiorców prowadzących jednostki handlu detalicznego, jednostki handlu hurtowego, jednostki gastronomiczne lub pakujących i oferujących napoje lub żywność za pomocą urządzenia vendingowego po raz pierwszy w roku 2024, przy czym kontrole przestrzegania przepisów art. 3b ust. 3 tej ustawy przeprowadza się od dnia 1 lipca 2024 r.
+**Art. 16.** Inspekcja Handlowa przeprowadza kontrole przestrzegania przepisów art. 3b ust. 1–3 ustawy zmienianej w art. 1 przez przedsiębiorców prowadzących jednostki handlu detalicznego, jednostki handlu hurtowego, jednostki gastronomiczne lub pakujących i oferujących napoje lub żywność za pomocą urządzenia vendingowego – po raz pierwszy w roku 2024, przy czym kontrole przestrzegania przepisów art. 3b ust. 3 tej ustawy przeprowadza się od dnia 1 lipca 2024 r.
 
 **Art. 17.**
 
@@ -359,29 +359,29 @@ o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niek
 
 1. W latach 2023–2032 maksymalny limit wydatków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej będący skutkiem finansowym wejścia w życie ustawy wynosi w:
 
-- **1)** 2023 r. 0 zł;
-- **2)** 2024 r. 0 zł;
-- **3)** 2025 r. 512 000 tys. zł;
-- **4)** 2026 r. 512 000 tys. zł;
-- **5)** 2027 r. 512 000 tys. zł;
-- **6)** 2028 r. 512 000 tys. zł;
-- **7)** 2029 r. 512 000 tys. zł;
-- **8)** 2030 r. 512 000 tys. zł;
-- **9)** 2031 r. 512 000 tys. zł;
-- **10)** 2032 r. 512 000 tys. zł.
+- **1)** 2023 r. – 0 zł;
+- **2)** 2024 r. – 0 zł;
+- **3)** 2025 r. – 512 000 tys. zł;
+- **4)** 2026 r. – 512 000 tys. zł;
+- **5)** 2027 r. – 512 000 tys. zł;
+- **6)** 2028 r. – 512 000 tys. zł;
+- **7)** 2029 r. – 512 000 tys. zł;
+- **8)** 2030 r. – 512 000 tys. zł;
+- **9)** 2031 r. – 512 000 tys. zł;
+- **10)** 2032 r. – 512 000 tys. zł.
 
 2. W latach 2023–2032 maksymalny limit wydatków budżetów samorządów województw będący skutkiem finansowym wejścia w życie ustawy wynosi w:
 
-- **1)** 2023 r. 0 zł;
-- **2)** 2024 r. 0 zł;
-- **3)** 2025 r. 27 000 tys. zł;
-- **4)** 2026 r. 27 000 tys. zł;
-- **5)** 2027 r. 27 000 tys. zł;
-- **6)** 2028 r. 27 000 tys. zł;
-- **7)** 2029 r. 27 000 tys. zł;
-- **8)** 2030 r. 27 000 tys. zł;
-- **9)** 2031 r. 27 000 tys. zł;
-- **10)** 2032 r. 27 000 tys. zł.
+- **1)** 2023 r. – 0 zł;
+- **2)** 2024 r. – 0 zł;
+- **3)** 2025 r. – 27 000 tys. zł;
+- **4)** 2026 r. – 27 000 tys. zł;
+- **5)** 2027 r. – 27 000 tys. zł;
+- **6)** 2028 r. – 27 000 tys. zł;
+- **7)** 2029 r. – 27 000 tys. zł;
+- **8)** 2030 r. – 27 000 tys. zł;
+- **9)** 2031 r. – 27 000 tys. zł;
+- **10)** 2032 r. – 27 000 tys. zł.
 
 3. Minister właściwy do spraw klimatu monitoruje wykorzystanie limitów wydatków, o których mowa w ust. 1 i 2, oraz wdraża mechanizm korygujący, o którym mowa w ust. 5, dla limitu wydatków, o którym mowa w ust. 1.
 

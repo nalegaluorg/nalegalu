@@ -8,9 +8,12 @@ pos: 65
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# )<' '(dzielnico~ch rad ńarodowych, wmia~ta~h wyłączonych , z; wojewód,ztw)'. .' ', " ';, .
+# Ustawa z dnia 9 kwietnia 1968 r. o dokonywaniu w księgach wieczystych wpisów na rzecz Skarbu Państwa w oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych.
+
+*USTAWA z dnia 9 1968 dokonywaniu księgach wieczystych wpisów rzecz Skarbu Państwa oparciu międzynarodowe umowy uregulowaniu finansowych*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +27,36 @@ domain: null
 | Ostatnia zmiana | 2025-11-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19680120065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1968/65/text.pdf) |
 
-:4) ,biura rad , , 'we6rgany, pre'zycJiów miejskJch' narOdowych miast " . ", :ńie 'stanowiący~hpQwiatów, dziełnicowychrad" narado ..
-, ' ',, : ' ,W:ych w miastach powiaty orazra'd naror , d<lwych osiedli, " • ), ',.
-'·5). oSCjlba bezbliższ,ego określenia,":;;', osoby prawne i fizycz-, . ' ne • oraz j.E)dńostU nie posijad,J~c,e oSobowo~ci ,pr~wnej.
-, Art. 29.' UsJawa nk naruszi'l przepisów dekretu dnia' 5 lipca utworzeniu Kon troI! i:.) U. j'4, poz. 210, zmianami).
-3,0., h: z dnia,27 nika, 1933 r.'l'tawoo publicznych rozryw\ kowych (Dz. U. Nr pdt.' 632). • '65 USTAW : z ,dnia , . o '4ok:OPPcudu 'W ,k8~;~~ wlec;zy~tyeh ~isów na' rzecz o uregulowaniu . l. do,. wpisów na rzeCz Sk<arb.u: w . 'obtych '.wy-nikają<;f.ch_!~_~wieczyst~o' Użytków~ia ti~tan~.wio-·.
-rzec,z' P.t:aw rzeczo" '! ,pra\\,a' przesz1y na rzecz 'p.odstawie umów " ,'o meYlrl:oweiu 'wzajemnvch tin'anspwych, 'zawar-przez Polski.
-; "., - ,7. 'P:rzeplsy ustaWy st:osuj~ się odpowiednio zagraf " n:iczny<;h osóbprawfiych. ' .' , ' ,~. 2. ,W;is do księgi ~iec.zystej Skarbu ,Państwa jako . ,lub uprawnionego do, ;: z albo' z ograniczonego -prawa rze ;ć)~wego następuj~ na podstawie decyzji Ministra Finansów, .• przejsciena $kar.bq ,nierucho (', n1óś~i(lub',prawa" Jla podstawi~ :rmiędzynaroOowej umowy i. -o ~ure,gUlow~u" w~ajemnych ,roszcze:nfinansowych. - .
-66 . RO~PORŹĄDZENIE " z dnia 9 kWietnia 8pr. . ~ Okr~l~a'ł'odDj~w.'pUblic~IU~.J dż~ałalności arty~trcznej" '!':'; .' w %akresie udzlelania . . .... , • "., r .' ':,' Na:'Pods~~~i~ 8rt. 'art.--5us'Ł. p~t, f ,ustawy • z' dnia 9',kwiet,nia,,1968 o "zezwoleniach na dzid-:Wł'lośC,~rty.s-tyĆzri.ą::i-ozryv.tko-wą' ]i sPOrfow4'~ (Dz. U. Nr '12, poz.~4)' zarządza' Slę, rillstępuje:- , ' , " PubIl.~nąl'dzialnościąartystysz~ą h,lb rozrywko-6)wystaw .wą Jest organiiow~ni~ pr,owadzenie pub~icznych: impr-ez :t-ea'kal'iry&;muJZyczn.ych,baletowych,' estrado" :wych oraz innych1!Dprezartystycmych, " , 'J
+**Art. 1.**
+
+1. Przepisy ustawy stosuje się do wpisów rzecz Skarbu Państwa księgach wieczystych tytułu własności nieruchomości obywateli państw obcych oraz uprawnień wynikających z wieczystego użytkowania lub z ustanowionych rzecz tych obywateli ograniczonych praw rzeczowych, które to nieruchomości i prawa przeszły rzecz Skarbu Państwa podstawie międzynarodowych umów uregulowaniu wzajemnych finansowych, zawartych z rządami tych państw przez Rząd Polski.
+
+2. Przepisy ustawy stosuje się odpowiednio do zagranicznych osób prawnych.
+
+**Art. 2.**
+
+1. Wpis do księgi wieczystej Skarbu Państwa jako właściciela nieruchomości lub uprawnionego do korzystania z wieczystego użytkowania albo z ograniczonego prawa rzeczowego następuje podstawie decyzji Ministra Finansów , stwierdzającej przejście rzecz Skarbu Państwa nieruchomości lub prawa podstawie międzynarodowej umowy uregulowaniu wzajemnych finansowych.
+
+2. Decyzja, której mowa ust. 1, jest ostateczna.
+
+**Art. 2a.**
+
+1. Minister Finansów prowadzi postępowanie administracyjne sprawie stwierdzenia przejścia rzecz Skarbu Państwa nieruchomości lub prawa podstawie międzynarodowej umowy uregulowaniu wzajemnych finansowych wniosek organu reprezentującego Skarb Państwa sprawach gospodarowania nieruchomościami właściwego ze względu położenie nieruchomości albo z urzędu.
+
+2. Stroną postępowania administracyjnego, którym mowa ust. 1, jest organ reprezentujący Skarb Państwa sprawach gospodarowania nieruchomościami właściwy ze względu położenie nieruchomości.
+
+3. Postępowanie administracyjne, którym mowa ust. 1, umarza się, jeżeli brak jest podstaw do stwierdzenia przejścia rzecz Skarbu Państwa nieruchomości lub prawa podstawie międzynarodowej umowy uregulowaniu wzajemnych finansowych.
+
+**Art. 2b.** Na postanowienie, które zgodnie z ustawą z dnia 14 czerwca 1960 – Kodeks postępowania administracyjnego (Dz. U. z 2024 poz. 572 oraz z 2025 poz. 769) służy zażalenie, strona niezadowolona z postanowienia może wnieść skargę do sądu administracyjnego.
+
+**Art. 3.** Minister Sprawiedliwości, porozumieniu z Ministrem Finansów , drodze rozporządzenia ustali tryb postępowania sprawie dokonywania księgach wieczystych wpisów wymienionych art. 1.
+
+**Art. 4.** Przepisy ustawy stosuje się odpowiednio do składania wniosków i dokumentów do zbioru dokumentów przypadku, gdy nieruchomość nie ma urządzonej księgi wieczystej albo gdy księga ta zaginęła lub uległa zniszczeniu.
+
+**Art. 5.**
+
+1. Ustawa wchodzi życie z dniem ogłoszenia .
+
+2. Ustawę stosuje się również do nieruchomości oraz praw, które przeszły rzecz Skarbu Państwa podstawie międzynarodowych umów uregulowaniu wzajemnych finansowych, zawartych przed ogłoszeniem ustawy.
+
 

@@ -8,9 +8,12 @@ pos: 82
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 stycznia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000082) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/82/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 listopada 2018 r. o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne (Dz. U. z 2019 r. poz. 33), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 25 lipca 2025 r. o zmianie ustawy o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne (Dz. U. poz. 1056) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 stycznia 2026 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 9 ustawy z dnia 9 listopada 2018 r. o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne (Dz. U. z 2019 r. poz. 33), który stanowi: „Art. 9. W ustawie z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2018 r. poz. 711 i 1507) art. 4 ust. 2 pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 brzmieniu: „13) dokonują oceny i akceptacji planów restrukturyzacji, o których mowa ustawie z dnia 9 listopada 2018 r.
@@ -167,7 +168,7 @@ o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne (Dz.
 
 4. Gwarancja jest terminowa i może być udzielona do wysokości kwoty przyznanego kredytu restrukturyzacyjnego wraz z odsetkami od tej kwoty, z wyłączeniem kwoty odsetek dopłat udzielanych przez Agencję do oprocentowania kredytów udzielonych przez banki, jeżeli takie zostały udzielone, przy czym kwota tej gwarancji nie może być większa niż suma hipoteki stanowiącej zabezpieczenie roszczeń Krajowego Ośrodka wynikających z tytułu wykonania obowiązków gwaranta i niewiększa niż wartość nieruchomości, na której hipoteka ta będzie ustanowiona.
 
-5. Gwarancja jest udzielana na okres, który obejmuje okres kredytowania oraz trzy miesiące od zakończenia okresu kredytowania. stanowi przychód Krajowego Ośrodka.
+5. Gwarancja jest udzielana na okres, który obejmuje okres kredytowania oraz trzy miesiące od zakończenia okresu kredytowania.
 
 7. Umowa o udzielenie gwarancji jest zawierana na wniosek podmiotu prowadzącego gospodarstwo rolne.
 
@@ -229,7 +230,7 @@ o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne (Dz.
 
 8. W terminie 30 dni od dnia zawarcia umowy przejęcia długu, o którym mowa ust. 1, podmiot prowadzący gospodarstwo rolne składa do oddziału terenowego Krajowego Ośrodka, do którego złożył wniosek o przejęcie tego długu, zgodę wierzycieli na przejęcie tego długu.
 
-9. Zawarcie umowy przenoszącej własność nieruchomości rolnej określonej umowie przejęcia długu, o którym mowa ust. 1, następuje terminie 30 dni od dnia złożenia zgody, o której mowa ust. 8. gospodarstwo rolne:
+9. Zawarcie umowy przenoszącej własność nieruchomości rolnej określonej umowie przejęcia długu, o którym mowa ust. 1, następuje terminie 30 dni od dnia złożenia zgody, o której mowa ust. 8.
 
 - **1)** nie złożył terminie określonym ust. 8 zgody wierzycieli na przejęcie długu, o którym mowa ust. 1, lub
 - **2)** nie zawarł terminie 30 dni od dnia złożenia zgody, o której mowa ust. 8, umowy przenoszącej własność nieruchomości rolnej określonej umowie przejęcia długu, o którym mowa ust. 1.

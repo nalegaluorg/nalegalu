@@ -8,9 +8,12 @@ pos: 2336
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 listopada 2022 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach wydobywczych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 października 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2336/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 października 2022 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach wydobywczych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. z 2021 r. poz. 1972), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 28 kwietnia 2022 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz niektórych innych ustaw (Dz. U. poz. 1261) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 października 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 ustawy z dnia 28 kwietnia 2022 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz niektórych innych ustaw (Dz. U. poz. 1261), który stanowi: „Art. 13. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Marszałek Sejmu: E. Witek

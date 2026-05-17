@@ -8,9 +8,12 @@ pos: 49
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 stycznia 2025 r.
+# o wspieraniu rodziny i systemie pieczy zastępczej Dla dobra dzieci, które potrzebują szczególnej ochrony i pomocy ze strony dorosłych, środowiska rodzinnego, atmosfery szczęścia, miłości i zrozumienia, w trosce o ich harmonijny rozwój i przyszłą samodzielność życiową, dla zapewnienia ochrony przysługujących im praw i wolności, dla dobra rodziny, która jest podstawową komórką społeczeństwa oraz naturalnym środowiskiem rozwoju, i dobra wszystkich jej członków, a w szczególności dzieci, w przekonaniu, że skuteczna pomoc dla rodziny przeżywającej trudności w opiekowaniu się i wychowywaniu dzieci oraz skuteczna ochrona dzieci i pomoc dla nich może być osiągnięta przez współpracę wszystkich osób, instytucji i organizacji pracujących z dziećmi i rodzicami – uchwala się, co następuje:
+
+*USTAWA z dnia 9 czerwca 2011 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +27,7 @@ domain: null
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000049) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/49/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 grudnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rodziny i systemie pieczy zastępczej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 26 kwietnia 2024 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz ustawy o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. poz. 742),
-2) ustawą z dnia 26 kwietnia 2024 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw (Dz. U. poz. 743),
-3) ustawą z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858),
-4) ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 grudnia 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 3 i art. 4 ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz ustawy o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. poz. 742), które stanowią: „Art. 3. Minister właściwy do spraw rodziny przekaże w 2024 r. na wyodrębniony rachunek wojewodów środki Funduszu Pracy w kwocie nie większej niż 62,5 mln zł na dofinansowanie, o którym mowa w art. 197 ust. 1 ustawy zmienianej w art. 1.
 Art. 201–225. (pominięte)
-
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -69,15 +61,15 @@ Art. 201–225. (pominięte)
     - **a)** mających miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej,
     - **b)** niemających miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej, ale przebywających na terytorium Rzeczypospolitej Polskiej;
 
-- **2)** mających miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członków ich rodzin w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688), posiadających prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej;
+- **2)** mających miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członków ich rodzin w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688), posiadających prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej;
 - **2a)** osób umieszczonych w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego za zgodą sądu polskiego;
 - **3)** cudzoziemców mających miejsce zamieszkania w Rzeczypospolitej Polskiej na podstawie:
     - **a)** zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej,
     - **b)** uzyskania w Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej;
 
-- **4)** cudzoziemców mających miejsce zamieszkania i przebywających na terytorium Rzeczypospolitej Polskiej na podstawie:
+- **4)** cudzoziemców mających miejsce zamieszkania i przebywających na terytorium Rzeczypospolitej Polskiej na podstawie: o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688);
     - **a)** zezwolenia na pobyt stały,
-    - **b)** zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688);
+    - **b)** zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r.
 
 - **5)** cudzoziemców przebywających na terytorium Rzeczypospolitej Polskiej, którym zostało wydane tymczasowe zaświadczenie tożsamości cudzoziemca;
 - **6)** mających miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz członków ich rodzin, o których mowa w art. 10 ust. 1 lit. b, d, e lub f Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm. ), posiadających prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
@@ -109,12 +101,12 @@ Art. 201–225. (pominięte)
 
 2. Informację o figurowaniu albo niefigurowaniu w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym sprawdza i potwierdza, w odniesieniu do:
 
-- **1)** osób tworzących rodziny wspierające i wolontariuszy w placówkach wsparcia dziennego wójt lub upoważniony przez niego kierownik jednostki organizacyjnej gminy w celu weryfikacji wymagań dotyczących osób tworzących rodziny wspierające i wolontariuszy w placówkach wsparcia dziennego;
-- **2)** kandydatów do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, osób tworzących rodziny zastępcze, osób prowadzących rodzinne domy dziecka, osób tworzących rodziny pomocowe i wolontariuszy w rodzinie zastępczej lub rodzinnym domu dziecka organizator rodzinnej pieczy zastępczej w celu weryfikacji wymagań dotyczących kandydatów do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, osób tworzących rodziny zastępcze, osób prowadzących rodzinne domy dziecka, osób tworzących rodziny pomocowe i wolontariuszy w rodzinie zastępczej lub rodzinnym domu dziecka;
-- **3)** kandydatów do przysposobienia dziecka ośrodek adopcyjny w celu weryfikacji wymagań dotyczących kandydatów do przysposobienia dziecka;
-- **4)** kierowników, dyrektorów lub innych osób zatrudnionych w jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, rodzinie zastępczej lub rodzinnym domu dziecka pracodawca w celu weryfikacji wymagań dotyczących kierowników, dyrektorów lub innych osób zatrudnionych w jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, rodzinie zastępczej lub rodzinnym domu dziecka;
-- **5)** osób świadczących usługi w jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, rodzinie zastępczej lub rodzinnym domu dziecka zleceniodawca w celu weryfikacji wymagań dotyczących osób świadczących usługi w jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, rodzinie zastępczej lub rodzinnym domu dziecka;
-- **6)** osób podejmujących się wspierania działań wychowawczych, o których mowa w art. 96, i wolontariuszy w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej lub interwencyjnym ośrodku preadopcyjnym dyrektor odpowiednio placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej albo interwencyjnego ośrodka preadopcyjnego w celu weryfikacji wymagań dotyczących osób podejmujących się wspierania działań wychowawczych, o których mowa w art. 96, i wolontariuszy w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej lub interwencyjnym ośrodku preadopcyjnym.
+- **1)** osób tworzących rodziny wspierające i wolontariuszy w placówkach wsparcia dziennego – wójt lub upoważniony przez niego kierownik jednostki organizacyjnej gminy – w celu weryfikacji wymagań dotyczących osób tworzących rodziny wspierające i wolontariuszy w placówkach wsparcia dziennego;
+- **2)** kandydatów do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, osób tworzących rodziny zastępcze, osób prowadzących rodzinne domy dziecka, osób tworzących rodziny pomocowe i wolontariuszy w rodzinie zastępczej lub rodzinnym domu dziecka – organizator rodzinnej pieczy zastępczej – w celu weryfikacji wymagań dotyczących kandydatów do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, osób tworzących rodziny zastępcze, osób prowadzących rodzinne domy dziecka, osób tworzących rodziny pomocowe i wolontariuszy w rodzinie zastępczej lub rodzinnym domu dziecka;
+- **3)** kandydatów do przysposobienia dziecka – ośrodek adopcyjny – w celu weryfikacji wymagań dotyczących kandydatów do przysposobienia dziecka;
+- **4)** kierowników, dyrektorów lub innych osób zatrudnionych w jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, rodzinie zastępczej lub rodzinnym domu dziecka – pracodawca – w celu weryfikacji wymagań dotyczących kierowników, dyrektorów lub innych osób zatrudnionych w jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, rodzinie zastępczej lub rodzinnym domu dziecka;
+- **5)** osób świadczących usługi w jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, rodzinie zastępczej lub rodzinnym domu dziecka – zleceniodawca – w celu weryfikacji wymagań dotyczących osób świadczących usługi w jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, rodzinie zastępczej lub rodzinnym domu dziecka;
+- **6)** osób podejmujących się wspierania działań wychowawczych, o których mowa w art. 96, i wolontariuszy w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej lub interwencyjnym ośrodku preadopcyjnym – dyrektor odpowiednio placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej albo interwencyjnego ośrodka preadopcyjnego – w celu weryfikacji wymagań dotyczących osób podejmujących się wspierania działań wychowawczych, o których mowa w art. 96, i wolontariuszy w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej lub interwencyjnym ośrodku preadopcyjnym.
 
 ### DZIAŁ II Wspieranie rodziny
 
@@ -141,7 +133,7 @@ Art. 201–225. (pominięte)
 
 **Art. 9.** Rodzina może otrzymać wsparcie przez działania:
 
-**Art. 9a.** Jeżeli obowiązujące przepisy uzależniają prawo do świadczeń i dodatków od dochodu dziecka, do dochodu dziecka nie wlicza się renty, o której mowa w art. 446 § 2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), oraz miesięcznego świadczenia na zapewnienie środków utrzymania, o którym mowa w art. 753 § 1 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568).
+**Art. 9a.** Jeżeli obowiązujące przepisy uzależniają prawo do świadczeń i dodatków od dochodu dziecka, do dochodu dziecka nie wlicza się renty, o której mowa w art. 446 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), oraz miesięcznego świadczenia na zapewnienie środków utrzymania, o którym mowa w art. 753 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568).
 
 #### Rozdział 2 Praca z rodziną
 
@@ -187,7 +179,7 @@ Art. 201–225. (pominięte)
     - **c)** wykształcenie średnie lub średnie branżowe i szkolenie z zakresu pracy z dziećmi lub rodziną, a także udokumentuje co najmniej 3-letni staż pracy z dziećmi lub rodziną;
 
 - **2)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie jest jej zawieszona ani ograniczona;
-- **3)** wypełnia obowiązek alimentacyjny w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
+- **3)** wypełnia obowiązek alimentacyjny – w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
 - **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym.
 
@@ -228,7 +220,7 @@ Art. 201–225. (pominięte)
 - **9)** udzielanie pomocy w poszukiwaniu, podejmowaniu i utrzymywaniu pracy zarobkowej;
 - **10)** motywowanie do udziału w zajęciach grupowych dla rodziców, mających na celu kształtowanie prawidłowych wzorców rodzicielskich i umiejętności psychospołecznych;
 - **11)** udzielanie wsparcia dzieciom, w szczególności poprzez udział w zajęciach psychoedukacyjnych;
-- **11a)** udzielanie wsparcia dziecku przez towarzyszenie mu podczas posiedzenia albo rozprawy z jego udziałem, o których mowa w art. 76a § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37, 1222 i 1248);
+- **11a)** udzielanie wsparcia dziecku przez towarzyszenie mu podczas posiedzenia albo rozprawy z jego udziałem, o których mowa w art. 76a § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37, 1222 i 1248);
 - **12)** podejmowanie działań interwencyjnych i zaradczych w sytuacji zagrożenia bezpieczeństwa dzieci i rodzin;
 - **13)** prowadzenie indywidualnych konsultacji wychowawczych dla rodziców i dzieci;
 - **13a)** realizacja zadań określonych w ustawie z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2023 r. poz. 1923 oraz z 2024 r. poz. 1572);
@@ -274,13 +266,13 @@ Art. 201–225. (pominięte)
 
 1. Asystenta rodziny zatrudnia kierownik jednostki organizacyjnej gminy, która organizuje pracę z rodziną, lub podmiot, któremu gmina na podstawie art. 190 zleciła organizację pracy z rodziną.
 
-2. Praca asystenta rodziny jest wykonywana w ramach stosunku pracy w systemie zadaniowego czasu pracy albo umowy o świadczenie usług, do której, zgodnie z ustawą z dnia 23 kwietnia 1964 r. Kodeks cywilny, stosuje się przepisy dotyczące zlecenia.
+2. Praca asystenta rodziny jest wykonywana w ramach stosunku pracy w systemie zadaniowego czasu pracy albo umowy o świadczenie usług, do której, zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny, stosuje się przepisy dotyczące zlecenia.
 
 3. Praca asystenta rodziny nie może być łączona z wykonywaniem obowiązków pracownika socjalnego na terenie gminy, w której praca ta jest prowadzona.
 
 4. Asystent rodziny nie może prowadzić postępowań z zakresu świadczeń realizowanych przez gminę.
 
-5. Podmiot, o którym mowa w ust. 1, na wezwanie sądu, o którym mowa w art. 76a § 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, przekazuje niezwłocznie listę asystentów rodziny wraz z danymi kontaktowymi.
+5. Podmiot, o którym mowa w ust. 1, na wezwanie sądu, o którym mowa w art. 76a § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, przekazuje niezwłocznie listę asystentów rodziny wraz z danymi kontaktowymi.
 
 #### Rozdział 3 Pomoc w opiece i wychowaniu dziecka
 
@@ -339,7 +331,7 @@ Art. 201–225. (pominięte)
 1. Jeżeli podmiot, któremu wydano zezwolenie na prowadzenie placówki wsparcia dziennego:
 
 - **1)** przestał spełniać warunki określone w ustawie,
-- **2)** nie przedstawi na żądanie wójta albo starosty, w wyznaczonym terminie, aktualnych dokumentów, o których mowa w art. 19 wójt albo starosta wyznacza dodatkowy termin na spełnienie tych warunków albo na dostarczenie wymaganych dokumentów lub informacji.
+- **2)** nie przedstawi na żądanie wójta albo starosty, w wyznaczonym terminie, aktualnych dokumentów, o których mowa w art. 19 – wójt albo starosta wyznacza dodatkowy termin na spełnienie tych warunków albo na dostarczenie wymaganych dokumentów lub informacji.
 
 2. Po bezskutecznym upływie dodatkowego terminu, o którym mowa w ust. 1, wójt albo starosta cofa zezwolenie na prowadzenie placówki wsparcia dziennego.
 
@@ -390,7 +382,7 @@ Art. 201–225. (pominięte)
     - **c)** na dowolnym kierunku oraz przygotowanie pedagogiczne uprawniające do wykonywania zawodu nauczyciela;
 
 - **2)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie jest jej zawieszona ani ograniczona;
-- **3)** wypełnia obowiązek alimentacyjny w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
+- **3)** wypełnia obowiązek alimentacyjny – w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
 - **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym.
 
@@ -401,20 +393,19 @@ Art. 201–225. (pominięte)
 1. Osobą pracującą z dziećmi w placówce wsparcia dziennego może być osoba posiadająca następujące kwalifikacje:
 
 - **1)** w przypadku wychowawcy:
-    - **a)** wykształcenie wyższe: na kierunku pedagogika, pedagogika specjalna, psychologia, socjologia, praca socjalna, nauki o rodzinie lub na innym kierunku, którego program obejmuje resocjalizację, pracę socjalną, pedagogikę opiekuńczo-wychowawczą lub na dowolnym kierunku, uzupełnione studiami podyplomowymi w zakresie psychologii, pedagogiki, nauk o rodzinie, resocjalizacji lub kursem kwalifikacyjnym z zakresu pedagogiki opiekuńczo-wychowawczej, lub na dowolnym kierunku oraz przygotowanie pedagogiczne uprawniające do wykonywania zawodu nauczyciela,
+    - **a)** wykształcenie wyższe: – na kierunku pedagogika, pedagogika specjalna, psychologia, socjologia, praca socjalna, nauki o rodzinie lub na innym kierunku, którego program obejmuje resocjalizację, pracę socjalną, pedagogikę opiekuńczo-wychowawczą lub – na dowolnym kierunku, uzupełnione studiami podyplomowymi w zakresie psychologii, pedagogiki, nauk o rodzinie, resocjalizacji lub kursem kwalifikacyjnym z zakresu pedagogiki opiekuńczowychowawczej, lub – na dowolnym kierunku oraz przygotowanie pedagogiczne uprawniające do wykonywania zawodu nauczyciela,
     - **b)** co najmniej wykształcenie średnie lub średnie branżowe i udokumentuje co najmniej 3-letni staż pracy z dziećmi lub rodziną;
 
-- **2)** w przypadku pedagoga tytuł zawodowy magistra na kierunku pedagogika albo pedagogika specjalna;
-- **3)** w przypadku psychologa prawo wykonywania zawodu psychologa w rozumieniu ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);
-- **4)** w przypadku osoby prowadzącej terapię udokumentowane przygotowanie do prowadzenia terapii o profilu potrzebnym w pracy z dzieckiem i rodziną;
+- **2)** w przypadku pedagoga – tytuł zawodowy magistra na kierunku pedagogika albo pedagogika specjalna; [3) w przypadku psychologa – prawo wykonywania zawodu psychologa w rozumieniu ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);] <3) w przypadku psychologa – prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);>
+- **4)** w przypadku osoby prowadzącej terapię – udokumentowane przygotowanie do prowadzenia terapii o profilu potrzebnym w pracy z dzieckiem i rodziną;
 - **5)** w przypadku opiekuna dziecięcego:
     - **a)** ukończoną szkołę przygotowującą do pracy w zawodzie opiekuna dziecięcego lub pielęgniarki lub
-    - **b)** wykształcenie wyższe: na kierunku studiów związanym z kształceniem w zakresie pedagogiki lub na dowolnym kierunku oraz przygotowanie pedagogiczne uprawniające do wykonywania zawodu nauczyciela.
+    - **b)** wykształcenie wyższe: – na kierunku studiów związanym z kształceniem w zakresie pedagogiki lub – na dowolnym kierunku oraz przygotowanie pedagogiczne uprawniające do wykonywania zawodu nauczyciela.
 
 2. W placówce wsparcia dziennego z dziećmi może pracować osoba, która:
 
 - **1)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie jest jej ograniczona ani zawieszona;
-- **2)** wypełnia obowiązek alimentacyjny w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
+- **2)** wypełnia obowiązek alimentacyjny – w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
 - **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **4)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym.
 
@@ -519,7 +510,7 @@ Art. 201–225. (pominięte)
 
 5. W opiniach, o których mowa w ust. 2 i 3, zamieszcza się w szczególności informacje o spełnianiu przez kandydatów warunków do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka oraz dołącza się pisemną zgodę kandydatów do pełnienia funkcji rodziny zastępczej albo prowadzenia rodzinnego domu dziecka.
 
-6. Zapewnienie sprowadzenia dziecka umieszczonego w pieczy zastępczej w Rzeczypospolitej Polskiej na podstawie orzeczenia sądu lub innego organu państwa obcego, a gdy umieszczenie ma nastąpić na czas określony także jego powrotu, należy do właściwego powiatowego centrum pomocy rodzinie. Nie wyłącza to uprawnienia w tym zakresie ustanowionej w ten sposób rodziny zastępczej.
+6. Zapewnienie sprowadzenia dziecka umieszczonego w pieczy zastępczej w Rzeczypospolitej Polskiej na podstawie orzeczenia sądu lub innego organu państwa obcego, a gdy umieszczenie ma nastąpić na czas określony – także jego powrotu, należy do właściwego powiatowego centrum pomocy rodzinie. Nie wyłącza to uprawnienia w tym zakresie ustanowionej w ten sposób rodziny zastępczej.
 
 **Art. 36.** Umieszczenie dziecka w rodzinie zastępczej albo rodzinnym domu dziecka następuje po uzyskaniu zgody, odpowiednio rodziców zastępczych albo prowadzącego rodzinny dom dziecka.
 
@@ -527,7 +518,9 @@ Art. 201–225. (pominięte)
 
 1. Objęcie dziecka jedną z form pieczy zastępczej następuje na okres nie dłuższy niż do osiągnięcia pełnoletności.
 
-2. Osoba, która osiągnęła pełnoletność przebywając w pieczy zastępczej, może przebywać w dotychczasowej rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej albo regionalnej placówce opiekuńczo-terapeutycznej za zgodą odpowiednio rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej, nie dłużej jednak niż do ukończenia 25. roku życia, jeżeli:
+2. Osoba, która osiągnęła pełnoletność przebywając w pieczy zastępczej, może przebywać w dotychczasowej rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej albo regionalnej placówce opiekuńczo-terapeutycznej za zgodą odpowiednio rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej, nie dłużej jednak niż do ukończenia
+
+25. roku życia, jeżeli:
 
 - **1)** uczy się w szkole;
 - **2)** uczy się w uczelni;
@@ -539,17 +532,17 @@ Art. 201–225. (pominięte)
 
 4. W szczególnie uzasadnionych przypadkach osoba, która osiągnęła pełnoletność przebywając w pieczy zastępczej i po osiągnięciu pełnoletności opuściła dotychczasową rodzinę zastępczą, rodzinny dom dziecka, placówkę opiekuńczo-wychowawczą albo regionalną placówkę opiekuńczo-terapeutyczną, może jeden raz powrócić, o ile spełnia wymagania określone w ust. 2, do dotychczasowej rodziny zastępczej, rodzinnego domu dziecka, placówki opiekuńczo-wychowawczej albo regionalnej placówki opiekuńczo-terapeutycznej za zgodą odpowiednio starosty albo marszałka województwa oraz odpowiednio rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej.
 
-5. Osoba, której pobyt w rodzinnej pieczy zastępczej ustał w okresie 6 miesięcy przed osiągnięciem przez tę osobę pełnoletności na skutek śmierci osób tworzących rodzinę zastępczą lub osoby prowadzącej rodzinny dom dziecka może, o ile spełnia wymagania określone w ust. 2, jeden raz powrócić do rodziny zastępczej, rodzinnego domu dziecka, placówki opiekuńczo-wychowawczej albo regionalnej placówki opiekuńczo-terapeutycznej za zgodą odpowiednio starosty albo marszałka województwa oraz odpowiednio rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej.
+5. Osoba, której pobyt w rodzinnej pieczy zastępczej ustał w okresie 6 miesięcy przed osiągnięciem przez tę osobę pełnoletności na skutek śmierci osób tworzących rodzinę zastępczą lub osoby prowadzącej rodzinny dom dziecka może, o ile spełnia wymagania określone w ust. 2, jeden raz powrócić do rodziny zastępczej, rodzinnego domu dziecka, placówki opiekuńczo-wychowawczej albo regionalnej placówki opiekuńczo-terapeutycznej za zgodą odpowiednio starosty albo marszałka województwa oraz odpowiednio rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczo--wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej.
 
-6. W przypadku odpowiednio rozwiązania albo likwidacji dotychczasowej rodziny zastępczej, rodzinnego domu dziecka, placówki opiekuńczo-wychowawczej albo regionalnej placówki opiekuńczo-terapeutycznej osoba, o której mowa w ust. 4 lub 5, o ile spełnia wymagania określone w ust. 2, może przebywać w innej niż dotychczasowa rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej albo regionalnej placówce opiekuńczo-terapeutycznej za zgodą odpowiednio starosty albo marszałka województwa oraz odpowiednio rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej.
+6. W przypadku odpowiednio rozwiązania albo likwidacji dotychczasowej rodziny zastępczej, rodzinnego domu dziecka, placówki opiekuńczo-wychowawczej albo regionalnej placówki opiekuńczo-terapeutycznej osoba, o której mowa w ust. 4 lub 5, o ile spełnia wymagania określone w ust. 2, może przebywać w innej niż dotychczasowa rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczowychowawczej albo regionalnej placówce opiekuńczo-terapeutycznej za zgodą odpowiednio starosty albo marszałka województwa oraz odpowiednio rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczowychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej.
 
 7. Starosta oraz marszałek województwa, wydając zgodę, o której mowa w ust. 3–6, uwzględniają w szczególności liczbę wolnych miejsc w pieczy zastępczej oraz brak negatywnego wpływu pobytu osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, oraz osoby, o której mowa w ust. 5 lub 6, na dzieci umieszczone w danej formie pieczy zastępczej lub na osoby przebywające w danej formie pieczy zastępczej.
 
-8. Informacja w przedmiocie zgody rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej, o której mowa odpowiednio w ust. 2–6, oraz informacja w przedmiocie zgody starosty albo marszałka województwa, o której mowa odpowiednio w ust. 3–6, jest wydawana pisemnie w postaci papierowej lub elektronicznej. W przypadku braku zgody dyrektora placówki opiekuńczo-wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej oraz braku zgody starosty albo marszałka województwa, o której mowa odpowiednio w ust. 3–6, informacja zawiera pouczenie strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
+8. Informacja w przedmiocie zgody rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej, o której mowa odpowiednio w ust. 2–6, oraz informacja w przedmiocie zgody starosty albo marszałka województwa, o której mowa odpowiednio w ust. 3–6, jest wydawana pisemnie w postaci papierowej lub elektronicznej. W przypadku braku zgody dyrektora placówki opiekuńczowychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej oraz braku zgody starosty albo marszałka województwa, o której mowa odpowiednio w ust. 3–6, informacja zawiera pouczenie strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
 
 **Art. 38.**
 
-1. Kierownik powiatowego centrum pomocy rodzinie powiatu obowiązanego do finansowania pobytu dziecka w pieczy zastępczej, po zasięgnięciu opinii asystenta rodziny, a w przypadku gdy rodzinie dziecka nie został przydzielony asystent rodziny po zasięgnięciu opinii podmiotu organizującego pracę z rodziną, może dochodzić na rzecz dziecka przebywającego w pieczy zastępczej świadczeń alimentacyjnych.
+1. Kierownik powiatowego centrum pomocy rodzinie powiatu obowiązanego do finansowania pobytu dziecka w pieczy zastępczej, po zasięgnięciu opinii asystenta rodziny, a w przypadku gdy rodzinie dziecka nie został przydzielony asystent rodziny – po zasięgnięciu opinii podmiotu organizującego pracę z rodziną, może dochodzić na rzecz dziecka przebywającego w pieczy zastępczej świadczeń alimentacyjnych.
 
 2. Kierownik powiatowego centrum pomocy rodzinie powiatu obowiązanego do finansowania pobytu dziecka w pieczy zastępczej jest obowiązany dochodzić świadczeń alimentacyjnych, w przypadku gdy od umieszczenia dziecka w pieczy zastępczej upłynął rok.
 
@@ -566,7 +559,7 @@ Art. 201–225. (pominięte)
 - **5)** dokumentację o stanie zdrowia dziecka, w tym kartę szczepień;
 - **6)** dokumenty szkolne, w szczególności świadectwa szkolne;
 - **7)** diagnozę psychofizyczną dziecka, w tym dziecka ze specjalnymi potrzebami edukacyjnymi, udziału w zajęciach rewalidacyjno-wychowawczych oraz konieczności objęcia dziecka pomocą profilaktyczno-wychowawczą lub resocjalizacyjną albo leczeniem i rehabilitacją;
-- **8)** plan pracy z rodziną, o którym mowa w art. 15 ust. 1 pkt 1, przekazany przez asystenta rodziny, a w przypadku gdy rodzinie dziecka nie został przydzielony asystent rodziny przekazaną przez gminę informację o sytuacji rodziny.
+- **8)** plan pracy z rodziną, o którym mowa w art. 15 ust. 1 pkt 1, przekazany przez asystenta rodziny, a w przypadku gdy rodzinie dziecka nie został przydzielony asystent rodziny – przekazaną przez gminę informację o sytuacji rodziny.
 
 2. W przypadku małoletniego cudzoziemca poza informacjami i dokumentacją, o których mowa w ust. 1, powiatowe centrum pomocy rodzinie oraz organizator rodzinnej pieczy zastępczej ponadto gromadzą i przekazują odpowiednio rodzinie zastępczej, prowadzącemu rodzinny dom dziecka, dyrektorowi placówki opiekuńczo-wychowawczej, dyrektorowi regionalnej placówki opiekuńczo-terapeutycznej, dyrektorowi interwencyjnego ośrodka preadopcyjnego oraz zespołowi do spraw okresowej oceny sytuacji dziecka umieszczonego w instytucjonalnej pieczy zastępczej dostępne informacje oraz dokumentację, a w szczególności:
 
@@ -599,7 +592,7 @@ Art. 201–225. (pominięte)
 8. Zarząd powiatu oraz odpowiednio zarząd województwa w związku z przeprowadzanym postępowaniem kontrolnym ma prawo do:
 
 - **1)** żądania informacji, dokumentów i danych, niezbędnych do sprawowania kontroli;
-- **2)** wstępu w ciągu doby, w tym w porze nocnej w przypadku zagrożenia zdrowia lub życia dziecka, do obiektów i pomieszczeń kontrolowanej jednostki, rodziny zastępczej lub osób prowadzących rodzinny dom dziecka, w których wykonywane są ich zadania;
+- **2)** wstępu w ciągu doby, w tym w porze nocnej – w przypadku zagrożenia zdrowia lub życia dziecka, do obiektów i pomieszczeń kontrolowanej jednostki, rodziny zastępczej lub osób prowadzących rodzinny dom dziecka, w których wykonywane są ich zadania;
 - **3)** przeprowadzania oględzin obiektów, składników majątku kontrolowanej jednostki oraz przebiegu określonych czynności objętych obowiązującym standardem;
 - **4)** przeprowadzania oględzin obiektów, w których kontrolowana rodzina zastępcza lub osoby prowadzące rodzinny dom dziecka sprawują pieczę zastępczą;
 - **5)** żądania od pracowników kontrolowanej jednostki, rodziny zastępczej lub osób prowadzących rodzinny dom dziecka udzielenia informacji w formie ustnej lub pisemnej w zakresie przeprowadzanej kontroli;
@@ -616,7 +609,7 @@ Art. 201–225. (pominięte)
 
 1. Minister właściwy do spraw rodziny tworzy rejestr obejmujący:
 
-- **1)** wykaz dzieci umieszczonych w pieczy zastępczej, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2–4 i 6, oraz osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6, z podziałem na dzieci umieszczone lub przebywające w poszczególnych formach rodzinnej pieczy zastępczej oraz poszczególnych formach instytucjonalnej pieczy zastępczej oraz na osoby, o których mowa w art. 37 ust. 2–4 i 6, i osoby opuszczające rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6, przebywające w poszczególnych formach rodzinnej pieczy zastępczej i poszczególnych formach instytucjonalnej pieczy zastępczej;
+- **1)** wykaz dzieci umieszczonych w pieczy zastępczej, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2– 4 i 6, oraz osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6, z podziałem na dzieci umieszczone lub przebywające w poszczególnych formach rodzinnej pieczy zastępczej oraz poszczególnych formach instytucjonalnej pieczy zastępczej oraz na osoby, o których mowa w art. 37 ust. 2–4 i 6, i osoby opuszczające rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6, przebywające w poszczególnych formach rodzinnej pieczy zastępczej i poszczególnych formach instytucjonalnej pieczy zastępczej;
 - **2)** wykaz osób posiadających pozytywną lub negatywną wstępną kwalifikację do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka;
 - **3)** wykaz kandydatów zakwalifikowanych do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka;
 - **4)** wykaz rodzin zastępczych z podziałem na rodziny zastępcze spokrewnione, niezawodowe i zawodowe;
@@ -633,7 +626,7 @@ Art. 201–225. (pominięte)
 - **3)** adres miejsca zamieszkania, ze wskazaniem powiatu i województwa, odpowiednio dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6;
 - **4)** datę i miejsce urodzenia odpowiednio dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6;
 - **5)** obywatelstwo dziecka;
-- **6)** numer PESEL, a w razie gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość odpowiednio dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, w przypadku gdy taki posiadają;
+- **6)** numer PESEL, a w razie gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość odpowiednio dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, w przypadku gdy taki posiadają;
 - **7)** dotyczące sytuacji prawnej, w szczególności informacje o:
     - **a)** ograniczeniu rodzicom władzy rodzicielskiej nad dzieckiem, ze wskazaniem sądu wydającego postanowienie lub zarządzenie, daty wydania postanowienia lub zarządzenia oraz sygnatury sprawy,
     - **b)** pozbawieniu rodziców władzy rodzicielskiej nad dzieckiem, ze wskazaniem sądu wydającego postanowienie, daty wydania postanowienia oraz sygnatury sprawy,
@@ -643,14 +636,14 @@ Art. 201–225. (pominięte)
     - **f)** zgłoszeniu dziecka do ośrodka adopcyjnego, w tym o dacie zgłoszenia, nazwie, adresie i województwie ośrodka adopcyjnego, do którego dziecko zostało zgłoszone, zakwalifikowaniu lub niezakwalifikowaniu dziecka do przysposobienia krajowego lub międzynarodowego wraz z ich datami;
 
 - **8)** dotyczące umieszczenia w pieczy zastępczej odpowiednio dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby niepełnoletniej opuszczającej rodzinną pieczę zastępczą, o której mowa w art. 37 ust. 5 i 6, ze wskazaniem:
-    - **a)** w przypadku umieszczenia dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, w rodzinnej pieczy zastępczej formy rodzinnej pieczy zastępczej, w której zostało umieszczone dziecko lub osoba, województwa, powiatu i adresu odpowiednio zamieszkania rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, powiatu, który zawarł umowę z rodziną zastępczą zawodową, lub powiatu organizującego rodzinny dom dziecka oraz imienia, nazwiska i numeru PESEL, a w razie gdy nie nadano numeru PESEL numeru i serii dokumentu potwierdzającego tożsamość odpowiednio osoby tworzącej rodzinę zastępczą lub osoby prowadzącej rodzinny dom dziecka,
-    - **b)** w przypadku umieszczenia dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, w instytucjonalnej pieczy zastępczej formy i typu instytucjonalnej pieczy zastępczej, w której zostało umieszczone dziecko lub osoba, województwa, powiatu, adresu, nazwy, numeru NIP i numeru REGON odpowiednio placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej lub interwencyjnego ośrodka preadopcyjnego oraz imienia, nazwiska i numeru PESEL, a w razie gdy nie nadano numeru PESEL numeru i serii dokumentu potwierdzającego tożsamość osoby kierującej odpowiednio tą placówką lub tym ośrodkiem, a w przypadkach, o których mowa w art. 97 ust. 1a, 1b i 2a również adresu, ze wskazaniem powiatu i województwa, numeru NIP i numeru REGON odpowiednio jednostki zapewniającej wspólną obsługę placówek opiekuńczo-wychowawczych, podmiotu, któremu zlecono realizację obsługi placówek opiekuńczo-wychowawczych lub podmiotu, któremu powiat zlecił prowadzenie placówek opiekuńczo-wychowawczych na podstawie art. 190, oraz imienia, nazwiska i numeru PESEL, a w razie gdy nie nadano numeru PESEL numeru i serii dokumentu potwierdzającego tożsamość dyrektora odpowiednio tej jednostki lub podmiotu,
-    - **c)** podstawy prawnej umieszczenia dziecka w pieczy zastępczej, ze wskazaniem rodzaju aktu, na podstawie którego dziecko zostało umieszczone, organu wydającego ten akt, daty aktu oraz sygnatury jeżeli akt taki został wydany,
+    - **a)** w przypadku umieszczenia dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, w rodzinnej pieczy zastępczej – formy rodzinnej pieczy zastępczej, w której zostało umieszczone dziecko lub osoba, województwa, powiatu i adresu odpowiednio zamieszkania rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, powiatu, który zawarł umowę z rodziną zastępczą zawodową, lub powiatu organizującego rodzinny dom dziecka oraz imienia, nazwiska i numeru PESEL, a w razie gdy nie nadano numeru PESEL – numeru i serii dokumentu potwierdzającego tożsamość odpowiednio osoby tworzącej rodzinę zastępczą lub osoby prowadzącej rodzinny dom dziecka,
+    - **b)** w przypadku umieszczenia dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, w instytucjonalnej pieczy zastępczej – formy i typu instytucjonalnej pieczy zastępczej, w której zostało umieszczone dziecko lub osoba, województwa, powiatu, adresu, nazwy, numeru NIP i numeru REGON odpowiednio placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej lub interwencyjnego ośrodka preadopcyjnego oraz imienia, nazwiska i numeru PESEL, a w razie gdy nie nadano numeru PESEL – numeru i serii dokumentu potwierdzającego tożsamość osoby kierującej odpowiednio tą placówką lub tym ośrodkiem, a w przypadkach, o których mowa w art. 97 ust. 1a, 1b i 2a – również adresu, ze wskazaniem powiatu i województwa, numeru NIP i numeru REGON odpowiednio jednostki zapewniającej wspólną obsługę placówek opiekuńczo-wychowawczych, podmiotu, któremu zlecono realizację obsługi placówek opiekuńczo-wychowawczych lub podmiotu, któremu powiat zlecił prowadzenie placówek opiekuńczo-wychowawczych na podstawie art. 190, oraz imienia, nazwiska i numeru PESEL, a w razie gdy nie nadano numeru PESEL – numeru i serii dokumentu potwierdzającego tożsamość dyrektora odpowiednio tej jednostki lub podmiotu,
+    - **c)** podstawy prawnej umieszczenia dziecka w pieczy zastępczej, ze wskazaniem rodzaju aktu, na podstawie którego dziecko zostało umieszczone, organu wydającego ten akt, daty aktu oraz sygnatury – jeżeli akt taki został wydany,
     - **d)** czy dziecko umieszczone w pieczy zastępczej przebywa w domu pomocy społecznej, specjalnym ośrodku szkolno-wychowawczym, młodzieżowym ośrodku wychowawczym, młodzieżowym ośrodku socjoterapii zapewniającym całodobową opiekę, specjalnym ośrodku wychowawczym, hospicjum stacjonarnym, oddziale medycyny paliatywnej, areszcie śledczym, schronisku dla nieletnich, zakładzie karnym, zakładzie poprawczym albo okręgowym ośrodku wychowawczym, ze wskazaniem adresu, powiatu i województwa tej instytucji;
 
 - **9)** szczegółowy opis przebiegu pobytu odpowiednio dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, w pieczy zastępczej, zawierający miejsca pobytu dziecka lub osoby w pieczy zastępczej, daty pobytu, ze wskazaniem daty umieszczenia dziecka lub osoby w pieczy zastępczej po raz pierwszy oraz daty umieszczenia w obecnej formie pieczy zastępczej, daty i przyczyny zmiany miejsca pobytu lub opuszczenia pieczy zastępczej, informacje wynikające z aktów, na podstawie których dziecko lub osoba były umieszczane lub opuszczały pieczę zastępczą, oznaczenie organu wydającego te akty, daty aktów oraz sygnatury sprawy;
 - **10)** dotyczące stanu zdrowia i rozwoju odpowiednio dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, w tym stanu zdrowia, rozwoju i funkcjonowania przed umieszczeniem w pieczy zastępczej;
-- **11)** imiona i nazwiska oraz numery PESEL, a w razie gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość rodziców odpowiednio dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6;
+- **11)** imiona i nazwiska oraz numery PESEL, a w razie gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość rodziców odpowiednio dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6;
 - **12)** adres miejsca zamieszkania rodziców dziecka, ze wskazaniem gminy;
 - **13)** daty urodzenia rodziców odpowiednio dziecka, osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoby opuszczającej rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6;
 - **14)** informacje na temat utrzymywania przez rodzinę biologiczną kontaktów z dzieckiem oraz informacje na temat pracy prowadzonej z rodziną biologiczną dziecka;
@@ -666,7 +659,7 @@ Art. 201–225. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość;
 - **4)** obywatelstwo;
 - **5)** adres miejsca zamieszkania, ze wskazaniem powiatu i województwa;
 - **6)** stan cywilny;
@@ -685,7 +678,7 @@ Art. 201–225. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość;
 - **4)** obywatelstwo;
 - **5)** adres miejsca zamieszkania, ze wskazaniem powiatu i województwa;
 - **6)** stan cywilny;
@@ -705,7 +698,7 @@ Art. 201–225. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość;
 - **4)** obywatelstwo;
 - **5)** adres miejsca zamieszkania, ze wskazaniem powiatu i województwa;
 - **6)** stan cywilny;
@@ -718,7 +711,7 @@ Art. 201–225. (pominięte)
 - **13)** zakres ukończonych szkoleń;
 - **14)** datę wstępnej kwalifikacji do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, z oznaczeniem organizatora rodzinnej pieczy zastępczej, który przeprowadził wstępną kwalifikację;
 - **15)** datę wydania zaświadczenia kwalifikacyjnego oraz oznaczenie organizatora rodzinnej pieczy zastępczej, który wydał to zaświadczenie;
-- **16)** liczbę umieszczonych w rodzinie zastępczej dzieci, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2–4 i 6, i osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6;
+- **16)** liczbę umieszczonych w rodzinie zastępczej dzieci, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2– 4 i 6, i osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6;
 - **17)** informacje o formie rodziny zastępczej, ze wskazaniem, w przypadku rodziny zastępczej zawodowej, czy jest to rodzina zastępcza zawodowa:
     - **a)** specjalistyczna,
     - **b)** specjalistyczna sprawująca pieczę zastępczą nad małoletnią matką z dzieckiem,
@@ -736,7 +729,7 @@ Art. 201–225. (pominięte)
 - **19)** informacje wynikające z każdej sporządzonej oceny, o której mowa w art. 134, wraz z datami przeprowadzenia oceny oraz datą, do której ma zostać przeprowadzona kolejna ocena;
 - **20)** informację o okresie, na który została zawarta umowa o pełnienie funkcji rodziny zastępczej zawodowej;
 - **21)** wskazanie starosty, który zawarł umowę o pełnienie funkcji rodziny zastępczej zawodowej;
-- **22)** informację, czy zawarto porozumienie, o którym mowa w art. 54 ust. 3b w przypadku zawarcia z rodziną zastępczą umowy, o której mowa w art. 54 ust. 3a;
+- **22)** informację, czy zawarto porozumienie, o którym mowa w art. 54 ust. 3b – w przypadku zawarcia z rodziną zastępczą umowy, o której mowa w art. 54 ust. 3a;
 - **23)** informacje o zaprzestaniu pełnienia funkcji rodziny zastępczej lub o rozwiązaniu umowy o pełnienie funkcji rodziny zastępczej, w tym o dacie i okresie wypowiedzenia umowy;
 - **24)** maksymalną liczbę dzieci, które można umieścić w danej rodzinie zastępczej;
 - **25)** oznaczenie organizatora rodzinnej pieczy zastępczej oraz koordynatora rodzinnej pieczy zastępczej właściwych dla danej rodziny zastępczej.
@@ -745,7 +738,7 @@ Art. 201–225. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość;
 - **4)** obywatelstwo;
 - **5)** adres miejsca zamieszkania, ze wskazaniem powiatu i województwa;
 - **6)** stan cywilny;
@@ -758,11 +751,11 @@ Art. 201–225. (pominięte)
 - **13)** zakres ukończonych szkoleń;
 - **14)** datę wstępnej kwalifikacji do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, z oznaczeniem organizatora rodzinnej pieczy zastępczej, który wydał zaświadczenie kwalifikacyjne;
 - **15)** datę wydania zaświadczenia kwalifikacyjnego;
-- **16)** liczbę umieszczonych w rodzinnym domu dziecka dzieci, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2–4 i 6, i osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6;
+- **16)** liczbę umieszczonych w rodzinnym domu dziecka dzieci, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2– 4 i 6, i osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6;
 - **17)** informacje wynikające z każdej sporządzonej oceny, o której mowa w art. 134, wraz z datami przeprowadzenia oceny oraz datą, do której ma zostać przeprowadzona kolejna ocena;
 - **18)** informację o okresie, na który została zawarta umowa o prowadzenie rodzinnego domu dziecka;
 - **19)** wskazanie odpowiednio starosty lub podmiotu, któremu powiat zlecił organizowanie rodzinnego domu dziecka, który zawarł umowę o prowadzenie rodzinnego domu dziecka;
-- **20)** informację, czy zawarto porozumienie, o którym mowa w art. 60 ust. 3 w przypadku gdy rodzinny dom dziecka jest organizowany na terenie powiatu innego niż powiat organizujący rodzinny dom dziecka;
+- **20)** informację, czy zawarto porozumienie, o którym mowa w art. 60 ust. 3 – w przypadku gdy rodzinny dom dziecka jest organizowany na terenie powiatu innego niż powiat organizujący rodzinny dom dziecka;
 - **21)** informacje o rozwiązaniu umowy o prowadzenie rodzinnego domu dziecka, w tym o dacie i okresie wypowiedzenia umowy;
 - **22)** maksymalną liczbę dzieci, które można umieścić w danym rodzinnym domu dziecka;
 - **23)** oznaczenie organizatora rodzinnej pieczy zastępczej oraz koordynatora rodzinnej pieczy zastępczej właściwych dla danego rodzinnego domu dziecka.
@@ -770,26 +763,26 @@ Art. 201–225. (pominięte)
 8. Wykaz, o którym mowa w ust. 1 pkt 6, zawiera następujące dane:
 
 - **1)** nazwę oraz typ placówki opiekuńczo-wychowawczej, nazwę regionalnej placówki opiekuńczo-terapeutycznej i nazwę interwencyjnego ośrodka preadopcyjnego;
-- **2)** adres, ze wskazaniem powiatu i województwa, numer NIP, numer REGON, adres poczty elektronicznej oraz numer telefonu placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej i interwencyjnego ośrodka preadopcyjnego, a w przypadkach, o których mowa w art. 97 ust. 1a, 1b i 2a również adres, ze wskazaniem powiatu i województwa, numer NIP, numer REGON, adres poczty elektronicznej oraz numer telefonu odpowiednio jednostki zapewniającej wspólną obsługę placówek opiekuńczo-wychowawczych, podmiotu, któremu zlecono realizację obsługi placówek opiekuńczo-wychowawczych lub podmiotu, któremu powiat zlecił prowadzenie placówek opiekuńczo-wychowawczych na podstawie art. 190;
-- **3)** imię, nazwisko i numer PESEL, a w razie gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość osoby kierującej odpowiednio placówką opiekuńczo-wychowawczą, regionalną placówką opiekuńczo-terapeutyczną lub interwencyjnym ośrodkiem preadopcyjnym, a w przypadkach, o których mowa w art. 97 ust. 1a, 1b i 2a również dyrektora odpowiednio jednostki zapewniającej wspólną obsługę placówek opiekuńczo-wychowawczych, podmiotu, któremu zlecono realizację obsługi placówek opiekuńczo-wychowawczych lub podmiotu, któremu powiat zlecił prowadzenie placówek opiekuńczo-wychowawczych na podstawie art. 190;
-- **4)** wynikającą z zezwolenia wydanego przez wojewodę liczbę miejsc w placówce opiekuńczo-wychowawczej, w tym liczbę miejsc przewidzianych dla każdego typu placówki w przypadku placówki opiekuńczo-wychowawczej łączącej zadania na podstawie art. 101 ust. 3, liczbę miejsc w regionalnej placówce opiekuńczo-terapeutycznej i liczbę miejsc w interwencyjnym ośrodku preadopcyjnym;
-- **5)** liczbę dzieci, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2–4 i 6, i osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6, umieszczonych lub przebywających w placówce opiekuńczo-wychowawczej, a w przypadku placówki opiekuńczo-wychowawczej łączącej zadania na podstawie art. 101 ust. 3 w poszczególnych typach placówek, w regionalnej placówce opiekuńczo-terapeutycznej i w interwencyjnym ośrodku preadopcyjnym;
-- **6)** liczbę wolnych miejsc w placówce opiekuńczo-wychowawczej, a w przypadku placówki opiekuńczo-wychowawczej łączącej zadania na podstawie art. 101 ust. 3 w poszczególnych typach placówek, w regionalnej placówce opiekuńczo-terapeutycznej i w interwencyjnym ośrodku preadopcyjnym;
+- **2)** adres, ze wskazaniem powiatu i województwa, numer NIP, numer REGON, adres poczty elektronicznej oraz numer telefonu placówki opiekuńczowychowawczej, regionalnej placówki opiekuńczo-terapeutycznej i interwencyjnego ośrodka preadopcyjnego, a w przypadkach, o których mowa w art. 97 ust. 1a, 1b i 2a – również adres, ze wskazaniem powiatu i województwa, numer NIP, numer REGON, adres poczty elektronicznej oraz numer telefonu odpowiednio jednostki zapewniającej wspólną obsługę placówek opiekuńczowychowawczych, podmiotu, któremu zlecono realizację obsługi placówek opiekuńczo-wychowawczych lub podmiotu, któremu powiat zlecił prowadzenie placówek opiekuńczo--wychowawczych na podstawie art. 190;
+- **3)** imię, nazwisko i numer PESEL, a w razie gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość osoby kierującej odpowiednio placówką opiekuńczo-wychowawczą, regionalną placówką opiekuńczo-terapeutyczną lub interwencyjnym ośrodkiem preadopcyjnym, a w przypadkach, o których mowa w art. 97 ust. 1a, 1b i 2a – również dyrektora odpowiednio jednostki zapewniającej wspólną obsługę placówek opiekuńczo-wychowawczych, podmiotu, któremu zlecono realizację obsługi placówek opiekuńczo-wychowawczych lub podmiotu, któremu powiat zlecił prowadzenie placówek opiekuńczo-wychowawczych na podstawie art. 190;
+- **4)** wynikającą z zezwolenia wydanego przez wojewodę liczbę miejsc w placówce opiekuńczo-wychowawczej, w tym liczbę miejsc przewidzianych dla każdego typu placówki – w przypadku placówki opiekuńczo-wychowawczej łączącej zadania na podstawie art. 101 ust. 3, liczbę miejsc w regionalnej placówce opiekuńczo-terapeutycznej i liczbę miejsc w interwencyjnym ośrodku preadopcyjnym;
+- **5)** liczbę dzieci, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2–4 i 6, i osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6, umieszczonych lub przebywających w placówce opiekuńczo-wychowawczej, a w przypadku placówki opiekuńczo-wychowawczej łączącej zadania na podstawie art. 101 ust. 3 – w poszczególnych typach placówek, w regionalnej placówce opiekuńczo-terapeutycznej i w interwencyjnym ośrodku preadopcyjnym;
+- **6)** liczbę wolnych miejsc w placówce opiekuńczo-wychowawczej, a w przypadku placówki opiekuńczo-wychowawczej łączącej zadania na podstawie art. 101 ust. 3 – w poszczególnych typach placówek, w regionalnej placówce opiekuńczo-terapeutycznej i w interwencyjnym ośrodku preadopcyjnym;
 - **7)** oznaczenie wojewody, który wydał zezwolenie na prowadzenie placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej lub interwencyjnego ośrodka preadopcyjnego;
-- **8)** informacje wynikające z porozumienia, o którym mowa w art. 93 ust. 2a w przypadku prowadzenia placówki opiekuńczo-wychowawczej na terenie innego powiatu;
+- **8)** informacje wynikające z porozumienia, o którym mowa w art. 93 ust. 2a – w przypadku prowadzenia placówki opiekuńczo--wychowawczej na terenie innego powiatu;
 - **9)** informację o likwidacji lub o cofnięciu zezwolenia na prowadzenie placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej i interwencyjnego ośrodka preadopcyjnego.
 
 9. Wykaz, o którym mowa w ust. 1 pkt 7, zawiera następujące dane:
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość;
 - **4)** adres miejsca zamieszkania, ze wskazaniem powiatu i województwa;
 - **5)** oznaczenie powiatu obowiązanego do finansowania pomocy na kontynuowanie nauki i usamodzielnienie;
 - **6)** oznaczenie powiatu właściwego ze względu na miejsce osiedlenia się osoby usamodzielnianej;
 - **7)** informacje o pieczy zastępczej, w której przebywała po raz ostatni osoba, o której mowa w art. 37 ust. 2–6, w tym o skorzystaniu z uprawnień, o których mowa w art. 37 ust. 4–6, w zakresie:
-    - **a)** w przypadku rodzinnej pieczy zastępczej: wskazania formy rodzinnej pieczy zastępczej, imienia i nazwiska odpowiednio osoby tworzącej rodzinę zastępczą lub osoby prowadzącej rodzinny dom dziecka, adresu miejsca zamieszkania odpowiednio rodziny zastępczej lub prowadzącego rodzinny dom dziecka, ze wskazaniem powiatu i województwa, wskazania odpowiednio starosty, który zawarł umowę o pełnienie funkcji rodziny zastępczej zawodowej, lub starosty, który organizuje rodzinny dom dziecka,
-    - **b)** w przypadku instytucjonalnej pieczy zastępczej: wskazania formy instytucjonalnej pieczy zastępczej, nazwy odpowiednio placówki opiekuńczo-wychowawczej lub regionalnej placówki opiekuńczo-terapeutycznej, adresu odpowiednio placówki opiekuńczo-wychowawczej lub regionalnej placówki opiekuńczo-terapeutycznej, ze wskazaniem powiatu i województwa;
+    - **a)** w przypadku rodzinnej pieczy zastępczej: – wskazania formy rodzinnej pieczy zastępczej, – imienia i nazwiska odpowiednio osoby tworzącej rodzinę zastępczą lub osoby prowadzącej rodzinny dom dziecka, – adresu miejsca zamieszkania odpowiednio rodziny zastępczej lub prowadzącego rodzinny dom dziecka, ze wskazaniem powiatu i województwa, – wskazania odpowiednio starosty, który zawarł umowę o pełnienie funkcji rodziny zastępczej zawodowej, lub starosty, który organizuje rodzinny dom dziecka,
+    - **b)** w przypadku instytucjonalnej pieczy zastępczej: – wskazania formy instytucjonalnej pieczy zastępczej, – nazwy odpowiednio placówki opiekuńczo-wychowawczej lub regionalnej placówki opiekuńczo-terapeutycznej, – adresu odpowiednio placówki opiekuńczo-wychowawczej lub regionalnej placówki opiekuńczo-terapeutycznej, ze wskazaniem powiatu i województwa;
 
 - **8)** formy udzielonej pomocy, o której mowa w art. 140 ust. 1;
 - **9)** informację o zawieszeniu udzielania pomocy, o której mowa w art. 140 ust. 1;
@@ -797,22 +790,22 @@ Art. 201–225. (pominięte)
 
 10. Dane, o których mowa w:
 
-- **1)** ust. 3 do rejestru wprowadza, aktualizuje i usuwa odpowiedni ze względu na umieszczenie dziecka:
-    - **a)** starosta powiatu właściwego ze względu na miejsce zamieszkania rodziny zastępczej, a jeżeli z rodziną zastępczą zawarto umowę o pełnienie funkcji rodziny zastępczej zawodowej, w przypadku, o którym mowa w art. 54 ust. 3a starosta powiatu, który zawarł tę umowę, chyba że porozumienie, o którym mowa w art. 54 ust. 3b, stanowi inaczej,
-    - **b)** starosta powiatu właściwego ze względu na miejsce zamieszkania prowadzącego rodzinny dom dziecka, a w przypadku rodzinnego domu dziecka organizowanego na terenie innego powiatu starosta organizujący rodzinny dom dziecka, chyba że porozumienie, o którym mowa w art. 60 ust. 3, stanowi inaczej,
+- **1)** ust. 3 – do rejestru wprowadza, aktualizuje i usuwa odpowiedni ze względu na umieszczenie dziecka: 3a – starosta powiatu, który zawarł tę umowę, chyba że porozumienie, o którym mowa w art. 54 ust. 3b, stanowi inaczej,
+    - **a)** starosta powiatu właściwego ze względu na miejsce zamieszkania rodziny zastępczej, a jeżeli z rodziną zastępczą zawarto umowę o pełnienie funkcji rodziny zastępczej zawodowej, w przypadku, o którym mowa w art. 54 ust.
+    - **b)** starosta powiatu właściwego ze względu na miejsce zamieszkania prowadzącego rodzinny dom dziecka, a w przypadku rodzinnego domu dziecka organizowanego na terenie innego powiatu – starosta organizujący rodzinny dom dziecka, chyba że porozumienie, o którym mowa w art. 60 ust. 3, stanowi inaczej,
     - **c)** starosta powiatu prowadzącego lub zlecającego prowadzenie placówki opiekuńczo-wychowawczej,
     - **d)** marszałek województwa właściwego ze względu na miejsce prowadzenia regionalnej placówki opiekuńczo-terapeutycznej lub interwencyjnego ośrodka preadopcyjnego;
 
-- **2)** ust. 4 do rejestru wprowadza, aktualizuje i usuwa organizator rodzinnej pieczy zastępczej, który przeprowadził wstępną kwalifikację kandydata do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka;
-- **3)** ust. 5 do rejestru wprowadza, aktualizuje i usuwa organizator rodzinnej pieczy zastępczej, który zakwalifikował kandydatów do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka;
-- **4)** ust. 6 do rejestru wprowadza, aktualizuje i usuwa starosta powiatu właściwego ze względu na miejsce zamieszkania rodziny zastępczej, a jeżeli z rodziną zastępczą zawarto umowę o pełnienie funkcji rodziny zastępczej zawodowej, w przypadku, o którym mowa w art. 54 ust. 3a starosta powiatu, który zawarł tę umowę, chyba że porozumienie, o którym mowa w art. 54 ust. 3b, stanowi inaczej;
-- **5)** ust. 7 do rejestru wprowadza, aktualizuje i usuwa starosta powiatu właściwego ze względu na miejsce zamieszkania prowadzącego rodzinny dom dziecka, a w przypadku rodzinnego domu dziecka organizowanego na terenie innego powiatu starosta organizujący rodzinny dom dziecka, chyba że porozumienie, o którym mowa w art. 60 ust. 3, stanowi inaczej;
-- **6)** ust. 8 do rejestru wprowadza, aktualizuje i usuwa:
-    - **a)** starosta powiatu prowadzącego lub zlecającego prowadzenie placówki opiekuńczo-wychowawczej w zakresie placówek opiekuńczo-wychowawczych,
-    - **b)** marszałek województwa, którego samorząd prowadzi lub zleca prowadzenie regionalnej placówki opiekuńczo-terapeutycznej lub interwencyjnego ośrodka preadopcyjnego w zakresie odpowiednio placówek opiekuńczo-terapeutycznych lub interwencyjnych ośrodków preadopcyjnych,
-    - **c)** wojewoda właściwy ze względu odpowiednio na powiat prowadzący lub zlecający prowadzenie placówki opiekuńczo-wychowawczej, na samorząd województwa prowadzący lub zlecający prowadzenie regionalnej placówki opiekuńczo-terapeutycznej lub na samorząd województwa prowadzący lub zlecający prowadzenie interwencyjnego ośrodka preadopcyjnego w zakresie wynikającym z zezwolenia na funkcjonowanie odpowiednio placówki lub ośrodka oraz w zakresie danych, o których mowa w ust. 8 pkt 4, 7 i 9, dotyczących tych placówek i ośrodków;
+- **2)** ust. 4 – do rejestru wprowadza, aktualizuje i usuwa organizator rodzinnej pieczy zastępczej, który przeprowadził wstępną kwalifikację kandydata do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka;
+- **3)** ust. 5 – do rejestru wprowadza, aktualizuje i usuwa organizator rodzinnej pieczy zastępczej, który zakwalifikował kandydatów do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka;
+- **4)** ust. 6 – do rejestru wprowadza, aktualizuje i usuwa starosta powiatu właściwego ze względu na miejsce zamieszkania rodziny zastępczej, a jeżeli z rodziną zastępczą zawarto umowę o pełnienie funkcji rodziny zastępczej zawodowej, w przypadku, o którym mowa w art. 54 ust. 3a – starosta powiatu, który zawarł tę umowę, chyba że porozumienie, o którym mowa w art. 54 ust. 3b, stanowi inaczej;
+- **5)** ust. 7 – do rejestru wprowadza, aktualizuje i usuwa starosta powiatu właściwego ze względu na miejsce zamieszkania prowadzącego rodzinny dom dziecka, a w przypadku rodzinnego domu dziecka organizowanego na terenie innego powiatu – starosta organizujący rodzinny dom dziecka, chyba że porozumienie, o którym mowa w art. 60 ust. 3, stanowi inaczej;
+- **6)** ust. 8 – do rejestru wprowadza, aktualizuje i usuwa:
+    - **a)** starosta powiatu prowadzącego lub zlecającego prowadzenie placówki opiekuńczo-wychowawczej – w zakresie placówek opiekuńczowychowawczych,
+    - **b)** marszałek województwa, którego samorząd prowadzi lub zleca prowadzenie regionalnej placówki opiekuńczo-terapeutycznej lub interwencyjnego ośrodka preadopcyjnego – w zakresie odpowiednio placówek opiekuńczo-terapeutycznych lub interwencyjnych ośrodków preadopcyjnych,
+    - **c)** wojewoda właściwy ze względu odpowiednio na powiat prowadzący lub zlecający prowadzenie placówki opiekuńczo--wychowawczej, na samorząd województwa prowadzący lub zlecający prowadzenie regionalnej placówki opiekuńczo-terapeutycznej lub na samorząd województwa prowadzący lub zlecający prowadzenie interwencyjnego ośrodka preadopcyjnego – w zakresie wynikającym z zezwolenia na funkcjonowanie odpowiednio placówki lub ośrodka oraz w zakresie danych, o których mowa w ust. 8 pkt 4, 7 i 9, dotyczących tych placówek i ośrodków;
 
-- **7)** ust. 9 do rejestru wprowadza, aktualizuje i usuwa odpowiednio starosta powiatu właściwego do ponoszenia wydatków na finansowanie pomocy na kontynuowanie nauki i usamodzielnienie osoby usamodzielnianej, a w zakresie pomocy na zagospodarowanie starosta powiatu właściwego ze względu na miejsce osiedlenia się osoby usamodzielnianej.
+- **7)** ust. 9 – do rejestru wprowadza, aktualizuje i usuwa odpowiednio starosta powiatu właściwego do ponoszenia wydatków na finansowanie pomocy na kontynuowanie nauki i usamodzielnienie osoby usamodzielnianej, a w zakresie pomocy na zagospodarowanie – starosta powiatu właściwego ze względu na miejsce osiedlenia się osoby usamodzielnianej.
 
 11. Starosta może upoważnić kierownika powiatowego centrum pomocy rodzinie, a także, na wniosek kierownika powiatowego centrum pomocy rodzinie, innego pracownika tego centrum do wprowadzania, aktualizowania i usuwania z rejestru danych, o których mowa w ust. 3, 6, 7, ust. 8 w zakresie placówek opiekuńczo-wychowawczych oraz ust. 9.
 
@@ -830,112 +823,114 @@ Art. 201–225. (pominięte)
 
 1. Dane z wykazu, o którym mowa w art. 38d ust. 1 pkt 1, w zakresie niezbędnym do realizacji zadań ustawowych, udostępnia się następującym podmiotom:
 
-- **1)** staroście powiatu i marszałkowi województwa, o których mowa w art. 38d ust. 10 pkt 1 dane dotyczące dzieci umieszczonych w pieczy zastępczej, o których mowa w art. 38d ust. 3, w celu zapewnienia dzieciom pieczy zastępczej;
-- **2)** staroście powiatu właściwego do finansowania pobytu dziecka w pieczy zastępczej dane, o których mowa w art. 38d ust. 3, w celu finansowania pobytu dziecka w pieczy zastępczej;
-- **3)** staroście powiatu właściwego ze względu na planowane osiedlenie się osoby usamodzielnianej dane, o których mowa w art. 38d ust. 3 pkt 1 i 21, w celu zapewnienia pomocy osobom usamodzielnianym;
-- **4)** staroście powiatu innego niż powiat, o którym mowa w pkt 1–3 dane, o których mowa w art. 38d ust. 3 pkt 8 lit. a i b w zakresie powiatu, na terenie którego dziecko zostało umieszczone odpowiednio w rodzinnej albo instytucjonalnej pieczy zastępczej, oraz pkt 11 w zakresie numeru PESEL, a w razie gdy nie nadano numeru PESEL numeru i serii dokumentu potwierdzającego tożsamość rodziców dziecka, w celu zapewnienia dzieciom pieczy zastępczej oraz zapewnienia im prawa do zachowania stosunków rodzinnych;
-- **5)** marszałkowi województwa innego niż województwo, o którym mowa w pkt 1 dane, o których mowa w art. 38d ust. 3 pkt 8 lit. a i b w zakresie powiatu, na terenie którego dziecko zostało umieszczone odpowiednio w rodzinnej albo instytucjonalnej pieczy zastępczej, oraz pkt 11 w zakresie numeru PESEL, a w razie gdy nie nadano numeru PESEL numeru i serii dokumentu potwierdzającego tożsamość rodziców dziecka, w celu zapewnienia dzieciom pieczy zastępczej oraz zapewnienia im prawa do zachowania stosunków rodzinnych;
-- **6)** wojewodzie właściwemu ze względu na miejsce sprawowania pieczy zastępczej dane, o których mowa w art. 38d ust. 3, w celu sprawowania kontroli nad realizacją zadań z zakresu wspierania rodziny i pieczy zastępczej wykonywanych przez jednostki organizacyjne wspierania rodziny i systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
-- **7)** gminie obowiązanej do współfinansowania pobytu dziecka w pieczy zastępczej dane, o których mowa w art. 38d ust. 3 pkt 1–18, w celu zapewnienia współfinansowania pobytu dziecka w pieczy zastępczej;
-- **8)** gminie miejsca zamieszkania rodziców dziecka umieszczonego w pieczy zastępczej oraz podmiotowi prowadzącemu pracę z rodziną dziecka dane, o których mowa w art. 38d ust. 3 pkt 8 lit. a i b w zakresie powiatu, na terenie którego dziecko zostało umieszczone odpowiednio w rodzinnej albo instytucjonalnej pieczy zastępczej, oraz pkt 11 w zakresie numeru PESEL, a w razie gdy nie nadano numeru PESEL numeru i serii dokumentu potwierdzającego tożsamość rodziców dziecka, w celu prowadzenia pracy z rodziną przeżywającą trudności w wypełnianiu funkcji opiekuńczo-wychowawczych;
-- **9)** ośrodkowi adopcyjnemu, do którego została zgłoszona informacja uzasadniająca zakwalifikowanie dziecka do przysposobienia dane, o których mowa w art. 38d ust. 3, w celu prowadzenia procedur przysposobienia;
-- **10)** sądowi dane, o których mowa w art. 38d ust. 3, w celu zapewnienia dziecku pieczy zastępczej, uregulowania sytuacji prawnej dziecka umieszczonego w pieczy zastępczej i oceny zasadności dalszego pobytu dziecka w pieczy zastępczej oraz w celu udzielenia albo nieudzielenia zgody na umieszczenie dziecka w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego;
-- **11)** ministrowi właściwemu do spraw rodziny dane, o których mowa w art. 38d ust. 3, w celu monitorowania realizacji niniejszej ustawy;
-- **12)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858 i 1615), i wojewodzie dane, o których mowa w art. 38d ust. 3 pkt 1 w zakresie danych dotyczących dziecka, pkt 4 w zakresie daty urodzenia dziecka, pkt 5, pkt 6 w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 8 lit. a w zakresie danych dotyczących dziecka, pkt 9 w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, osób pobierających świadczenia rodzinne oraz członków ich rodzin;
-- **13)** jednostkom organizacyjnym pomocy społecznej prowadzonym przez jednostki samorządu terytorialnego dane, o których mowa w art. 38d ust. 3 pkt 1, 3–5, 8, 10–12, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z pomocy społecznej, osób pobierających świadczenia z pomocy społecznej oraz członków ich rodzin, a także osób obowiązanych do ponoszenia odpłatności za świadczenia z pomocy społecznej;
-- **14)** organowi właściwemu wierzyciela, o którym mowa w art. 2 pkt 10 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2023 r. poz. 1993 oraz z 2024 r. poz. 1615) dane, o których mowa w art. 38d ust. 3 pkt 1 w zakresie danych dotyczących dziecka, pkt 4 w zakresie daty urodzenia dziecka, pkt 5, pkt 6 w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 9 w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z funduszu alimentacyjnego, osób pobierających świadczenia z funduszu alimentacyjnego oraz członków ich rodzin;
-- **15)** Zakładowi Ubezpieczeń Społecznych i wojewodzie dane, o których mowa w art. 38d ust. 3 pkt 1 w zakresie danych dotyczących dziecka, pkt 4 w zakresie daty urodzenia dziecka, pkt 5, pkt 6 w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 8 lit. a i b w zakresie danych dotyczących dziecka, pkt 9 w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin;
-- **16)** organowi realizującemu świadczenie dobry start dane, o których mowa w art. 38d ust. 3 pkt 1, 3, pkt 4 w zakresie daty urodzenia, pkt 5, pkt 6, pkt 7 lit. b i e, pkt 8 lit. a i b w zakresie danych dotyczących dziecka, pkt 9 w zakresie dat pobytu w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie dobry start, osób pobierających świadczenie dobry start oraz członków ich rodzin;
+- **1)** staroście powiatu i marszałkowi województwa, o których mowa w art. 38d ust. 10 pkt 1 – dane dotyczące dzieci umieszczonych w pieczy zastępczej, o których mowa w art. 38d ust. 3, w celu zapewnienia dzieciom pieczy zastępczej;
+- **2)** staroście powiatu właściwego do finansowania pobytu dziecka w pieczy zastępczej – dane, o których mowa w art. 38d ust. 3, w celu finansowania pobytu dziecka w pieczy zastępczej;
+- **3)** staroście powiatu właściwego ze względu na planowane osiedlenie się osoby usamodzielnianej – dane, o których mowa w art. 38d ust. 3 pkt 1 i 21, w celu zapewnienia pomocy osobom usamodzielnianym;
+- **4)** staroście powiatu innego niż powiat, o którym mowa w pkt 1–3 – dane, o których mowa w art. 38d ust. 3 pkt 8 lit. a i b – w zakresie powiatu, na terenie którego dziecko zostało umieszczone odpowiednio w rodzinnej albo instytucjonalnej pieczy zastępczej, oraz pkt 11 w zakresie numeru PESEL, a w razie gdy nie nadano numeru PESEL – numeru i serii dokumentu potwierdzającego tożsamość rodziców dziecka, w celu zapewnienia dzieciom pieczy zastępczej oraz zapewnienia im prawa do zachowania stosunków rodzinnych;
+- **5)** marszałkowi województwa innego niż województwo, o którym mowa w pkt 1 – dane, o których mowa w art. 38d ust. 3 pkt 8 lit. a i b – w zakresie powiatu, na terenie którego dziecko zostało umieszczone odpowiednio w rodzinnej albo instytucjonalnej pieczy zastępczej, oraz pkt 11 w zakresie numeru PESEL, a w razie gdy nie nadano numeru PESEL – numeru i serii dokumentu potwierdzającego tożsamość rodziców dziecka, w celu zapewnienia dzieciom pieczy zastępczej oraz zapewnienia im prawa do zachowania stosunków rodzinnych;
+- **6)** wojewodzie właściwemu ze względu na miejsce sprawowania pieczy zastępczej – dane, o których mowa w art. 38d ust. 3, w celu sprawowania kontroli nad realizacją zadań z zakresu wspierania rodziny i pieczy zastępczej wykonywanych przez jednostki organizacyjne wspierania rodziny i systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
+- **7)** gminie obowiązanej do współfinansowania pobytu dziecka w pieczy zastępczej – dane, o których mowa w art. 38d ust. 3 pkt 1–18, w celu zapewnienia współfinansowania pobytu dziecka w pieczy zastępczej;
+- **8)** gminie miejsca zamieszkania rodziców dziecka umieszczonego w pieczy zastępczej oraz podmiotowi prowadzącemu pracę z rodziną dziecka – dane, o których mowa w art. 38d ust. 3 pkt 8 lit. a i b – w zakresie powiatu, na terenie którego dziecko zostało umieszczone odpowiednio w rodzinnej albo instytucjonalnej pieczy zastępczej, oraz pkt 11 w zakresie numeru PESEL, a w razie gdy nie nadano numeru PESEL – numeru i serii dokumentu potwierdzającego tożsamość rodziców dziecka, w celu prowadzenia pracy z rodziną przeżywającą trudności w wypełnianiu funkcji opiekuńczo-wychowawczych;
+- **9)** ośrodkowi adopcyjnemu, do którego została zgłoszona informacja uzasadniająca zakwalifikowanie dziecka do przysposobienia – dane, o których mowa w art. 38d ust. 3, w celu prowadzenia procedur przysposobienia;
+- **10)** sądowi – dane, o których mowa w art. 38d ust. 3, w celu zapewnienia dziecku pieczy zastępczej, uregulowania sytuacji prawnej dziecka umieszczonego w pieczy zastępczej i oceny zasadności dalszego pobytu dziecka w pieczy zastępczej oraz w celu udzielenia albo nieudzielenia zgody na umieszczenie dziecka w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego;
+- **11)** ministrowi właściwemu do spraw rodziny – dane, o których mowa w art. 38d ust. 3, w celu monitorowania realizacji niniejszej ustawy;
+- **12)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858 i 1615), i wojewodzie – dane, o których mowa w art. 38d ust. 3 pkt 1 w zakresie danych dotyczących dziecka, pkt 4 w zakresie daty urodzenia dziecka, pkt 5, pkt 6 w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 8 lit. a w zakresie danych dotyczących dziecka, pkt 9 w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, osób pobierających świadczenia rodzinne oraz członków ich rodzin;
+- **13)** jednostkom organizacyjnym pomocy społecznej prowadzonym przez jednostki samorządu terytorialnego – dane, o których mowa w art. 38d ust. 3 pkt 1, 3–5, 8, 10–12, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z pomocy społecznej, osób pobierających świadczenia z pomocy społecznej oraz członków ich rodzin, a także osób obowiązanych do ponoszenia odpłatności za świadczenia z pomocy społecznej;
+- **14)** organowi właściwemu wierzyciela, o którym mowa w art. 2 pkt 10 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2023 r. poz. 1993 oraz z 2024 r. poz. 1615) – dane, o których mowa w art. 38d ust. 3 pkt 1 w zakresie danych dotyczących dziecka, pkt 4 w zakresie daty urodzenia dziecka, pkt 5, pkt 6 w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 9 w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z funduszu alimentacyjnego, osób pobierających świadczenia z funduszu alimentacyjnego oraz członków ich rodzin;
+- **15)** Zakładowi Ubezpieczeń Społecznych i wojewodzie – dane, o których mowa w art. 38d ust. 3 pkt 1 w zakresie danych dotyczących dziecka, pkt 4 w zakresie daty urodzenia dziecka, pkt 5, pkt 6 w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 8 lit. a i b – w zakresie danych dotyczących dziecka, pkt 9 w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin;
+- **16)** organowi realizującemu świadczenie dobry start – dane, o których mowa w art. 38d ust. 3 pkt 1, 3, pkt 4 w zakresie daty urodzenia, pkt 5, pkt 6, pkt 7 lit. b i e, pkt 8 lit. a i b – w zakresie danych dotyczących dziecka, pkt 9 w zakresie dat pobytu w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie dobry start, osób pobierających świadczenie dobry start oraz członków ich rodzin;
 - **17)** (uchylony)
 - **18)** (uchylony)
-- **19)** Zakładowi Ubezpieczeń Społecznych i wojewodzie dane, o których mowa w art. 38d ust. 3 pkt 1 w zakresie danych dotyczących dziecka, pkt 4 w zakresie daty urodzenia dziecka, pkt 5, pkt 6 w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 8 lit. a i b w zakresie danych dotyczących dziecka, pkt 9 w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywni rodzice w pracy”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858), osób pobierających to świadczenie oraz członków ich rodzin;
-- **20)** Zakładowi Ubezpieczeń Społecznych dane, o których mowa w art. 38d ust. 3 pkt 1 w zakresie danych dotyczących dziecka, pkt 4 w zakresie daty urodzenia dziecka, pkt 5, pkt 6 w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 8 lit. a i b w zakresie danych dotyczących dziecka, pkt 9 w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin;
-- **21)** Zakładowi Ubezpieczeń Społecznych i wojewodzie dane, o których mowa w art. 38d ust. 3 pkt 1 w zakresie danych dotyczących dziecka, pkt 4 w zakresie daty urodzenia dziecka, pkt 5, pkt 6 w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 9 w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywnie w domu”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin.
+- **19)** Zakładowi Ubezpieczeń Społecznych i wojewodzie – dane, o których mowa w art. 38d ust. 3 pkt 1 – w zakresie danych dotyczących dziecka, pkt 4 – w zakresie daty urodzenia dziecka, pkt 5, pkt 6 – w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 8 lit. a i b – w zakresie danych dotyczących dziecka, pkt 9 – w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywni rodzice w pracy”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), osób pobierających to świadczenie oraz członków ich rodzin;
+- **20)** Zakładowi Ubezpieczeń Społecznych – dane, o których mowa w art. 38d ust. 3 pkt 1 – w zakresie danych dotyczących dziecka, pkt 4 – w zakresie daty urodzenia dziecka, pkt 5, pkt 6 – w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 8 lit. a i b – w zakresie danych dotyczących dziecka, pkt 9 – w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin;
+- **21)** Zakładowi Ubezpieczeń Społecznych i wojewodzie – dane, o których mowa w art. 38d ust. 3 pkt 1 – w zakresie danych dotyczących dziecka, pkt 4 – w zakresie daty urodzenia dziecka, pkt 5, pkt 6 – w zakresie danych dotyczących dziecka, pkt 7 lit. b i e, pkt 9 – w zakresie dat pobytu dziecka w pieczy zastępczej, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywnie w domu”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin.
 
 2. Dane z wykazu, o którym mowa w art. 38d ust. 1 pkt 2, w zakresie niezbędnym do realizacji zadań ustawowych, udostępnia się następującym podmiotom:
 
-- **1)** organizatorowi rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 2, oraz staroście powiatu właściwego dla tego organizatora dane, o których mowa w art. 38d ust. 4, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
-- **2)** organizatorowi rodzinnej pieczy zastępczej innemu niż organizator rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 2, oraz staroście powiatu innego niż powiat organizatora rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 2 dane, o których mowa w art. 38d ust. 4 pkt 1, 3 i 13–15, oraz, za zgodą organizatora rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 2 dane, o których mowa w art. 38d ust. 4 pkt 2 i 4–12, w celu weryfikacji osób posiadających wstępną kwalifikację do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka;
-- **3)** wojewodzie właściwemu dla organizatora rodzinnej pieczy zastępczej, o którym mowa w pkt 1 dane, o których mowa w art. 38d ust. 4, w celu sprawowania kontroli nad realizacją zadań z zakresu pieczy zastępczej wykonywanych przez jednostki organizacyjne systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
-- **4)** ministrowi właściwemu do spraw rodziny dane, o których mowa w art. 38d ust. 4, w celu monitorowania realizacji niniejszej ustawy.
+- **1)** organizatorowi rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 2, oraz staroście powiatu właściwego dla tego organizatora – dane, o których mowa w art. 38d ust. 4, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
+- **2)** organizatorowi rodzinnej pieczy zastępczej innemu niż organizator rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 2, oraz staroście powiatu innego niż powiat organizatora rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 2 – dane, o których mowa w art. 38d ust. 4 pkt 1, 3 i 13–15, oraz, za zgodą organizatora rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 2 – dane, o których mowa w art. 38d ust. 4 pkt 2 i 4–12, w celu weryfikacji osób posiadających wstępną kwalifikację do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka;
+- **3)** wojewodzie właściwemu dla organizatora rodzinnej pieczy zastępczej, o którym mowa w pkt 1 – dane, o których mowa w art. 38d ust. 4, w celu sprawowania kontroli nad realizacją zadań z zakresu pieczy zastępczej wykonywanych przez jednostki organizacyjne systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
+- **4)** ministrowi właściwemu do spraw rodziny – dane, o których mowa w art. 38d ust. 4, w celu monitorowania realizacji niniejszej ustawy.
 
 3. Dane z wykazu, o którym mowa w art. 38d ust. 1 pkt 3, w zakresie niezbędnym do realizacji zadań ustawowych, udostępnia się następującym podmiotom:
 
-- **1)** organizatorowi rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 3, oraz staroście powiatu właściwego dla tego organizatora dane, o których mowa w art. 38d ust. 5, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
-- **2)** organizatorowi rodzinnej pieczy zastępczej właściwemu ze względu na miejsce zamieszkania kandydata do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka oraz staroście powiatu właściwego dla tego organizatora dane, o których mowa w art. 38d ust. 5, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
-- **3)** organizatorowi rodzinnej pieczy zastępczej innemu niż organizator rodzinnej pieczy zastępczej, o którym mowa w pkt 1 lub 2, oraz staroście powiatu innego niż powiat organizatora rodzinnej pieczy zastępczej, o którym mowa w pkt 1 lub 2 dane, o których mowa w art. 38d ust. 5 pkt 1 i 15–17, oraz, za zgodą organizatora rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 3 dane, o których mowa w art. 38d ust. 5 pkt 2–14, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
-- **4)** sądowi dane, o których mowa w art. 38d ust. 5, w celu zapewnienia dziecku rodzinnej pieczy zastępczej oraz w celu udzielenia albo nieudzielenia zgody na umieszczenie dziecka w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego;
-- **5)** wojewodzie właściwemu dla organizatora rodzinnej pieczy zastępczej, o którym mowa w pkt 1 dane, o których mowa w art. 38d ust. 5, w celu sprawowania kontroli nad realizacją zadań z zakresu pieczy zastępczej wykonywanych przez jednostki organizacyjne systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
-- **6)** ministrowi właściwemu do spraw rodziny dane, o których mowa w art. 38d ust. 5, w celu monitorowania realizacji niniejszej ustawy.
+- **1)** organizatorowi rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 3, oraz staroście powiatu właściwego dla tego organizatora – dane, o których mowa w art. 38d ust. 5, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
+- **2)** organizatorowi rodzinnej pieczy zastępczej właściwemu ze względu na miejsce zamieszkania kandydata do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka oraz staroście powiatu właściwego dla tego organizatora – dane, o których mowa w art. 38d ust. 5, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
+- **3)** organizatorowi rodzinnej pieczy zastępczej innemu niż organizator rodzinnej pieczy zastępczej, o którym mowa w pkt 1 lub 2, oraz staroście powiatu innego niż powiat organizatora rodzinnej pieczy zastępczej, o którym mowa w pkt 1 lub 2 – dane, o których mowa w art. 38d ust. 5 pkt 1 i 15–17, oraz, za zgodą organizatora rodzinnej pieczy zastępczej, o którym mowa w art. 38d ust. 10 pkt 3 – dane, o których mowa w art. 38d ust. 5 pkt 2–14, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
+- **4)** sądowi – dane, o których mowa w art. 38d ust. 5, w celu zapewnienia dziecku rodzinnej pieczy zastępczej oraz w celu udzielenia albo nieudzielenia zgody na umieszczenie dziecka w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego;
+- **5)** wojewodzie właściwemu dla organizatora rodzinnej pieczy zastępczej, o którym mowa w pkt 1 – dane, o których mowa w art. 38d ust. 5, w celu sprawowania kontroli nad realizacją zadań z zakresu pieczy zastępczej wykonywanych przez jednostki organizacyjne systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
+- **6)** ministrowi właściwemu do spraw rodziny – dane, o których mowa w art. 38d ust. 5, w celu monitorowania realizacji niniejszej ustawy.
 
 4. Dane z wykazu, o którym mowa w art. 38d ust. 1 pkt 4, w zakresie niezbędnym do realizacji zadań ustawowych, udostępnia się następującym podmiotom:
 
-- **1)** staroście powiatu, o którym mowa w art. 38d ust. 10 pkt 4 dane, o których mowa w art. 38d ust. 6, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
-- **2)** staroście powiatu właściwego do finansowania pobytu dziecka w danej rodzinie zastępczej dane, o których mowa w art. 38d ust. 6, w celu zapewnienia finansowania pobytu dziecka w rodzinnej pieczy zastępczej;
-- **3)** staroście powiatu innego niż powiat, o którym mowa w pkt 1 lub 2 dane, o których mowa w art. 38d ust. 6 pkt 1, 13, 15–18 i 24, oraz, za zgodą starosty, o którym mowa w art. 38d ust. 10 pkt 4 dane, o których mowa w art. 38d ust. 6 pkt 2, 5, 12, 14 i 20–23, w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
-- **4)** sądowi dane, o których mowa w art. 38d ust. 6, w celu zapewnienia dziecku pieczy zastępczej, uregulowania sytuacji prawnej dziecka umieszczonego w pieczy zastępczej i oceny zasadności dalszego pobytu dziecka w pieczy zastępczej oraz w celu udzielenia albo nieudzielenia zgody na umieszczenie dziecka w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego;
-- **5)** wojewodzie właściwemu ze względu na powiat, o którym mowa w pkt 1 lub 2 dane, o których mowa w art. 38d ust. 6, w celu sprawowania kontroli nad realizacją zadań z zakresu pieczy zastępczej wykonywanych przez jednostki organizacyjne systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
-- **6)** ministrowi właściwemu do spraw rodziny dane, o których mowa w art. 38d ust. 6, w celu monitorowania realizacji niniejszej ustawy;
-- **7)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, i wojewodzie dane, o których mowa w art. 38d ust. 6 pkt 1, 3 i 5, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie pielęgnacyjne lub świadczenie rodzicielskie, osób pobierających te świadczenia oraz członków ich rodzin;
-- **8)** Zakładowi Ubezpieczeń Społecznych i wojewodzie dane, o których mowa w art. 38d ust. 6 pkt 1, 3, 5 i 23, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin;
-- **9)** organowi realizującemu świadczenie dobry start dane, o których mowa w art. 38d ust. 6 pkt 1, 3, 5 i 23, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie dobry start, osób pobierających świadczenie dobry start oraz członków ich rodzin;
+- **1)** staroście powiatu, o którym mowa w art. 38d ust. 10 pkt 4 – dane, o których mowa w art. 38d ust. 6, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
+- **2)** staroście powiatu właściwego do finansowania pobytu dziecka w danej rodzinie zastępczej – dane, o których mowa w art. 38d ust. 6, w celu zapewnienia finansowania pobytu dziecka w rodzinnej pieczy zastępczej;
+- **3)** staroście powiatu innego niż powiat, o którym mowa w pkt 1 lub 2 – dane, o których mowa w art. 38d ust. 6 pkt 1, 13, 15–18 i 24, oraz, za zgodą starosty, o którym mowa w art. 38d ust. 10 pkt 4 – dane, o których mowa w art. 38d ust. 6 pkt 2, 5, 12, 14 i 20–23, w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
+- **4)** sądowi – dane, o których mowa w art. 38d ust. 6, w celu zapewnienia dziecku pieczy zastępczej, uregulowania sytuacji prawnej dziecka umieszczonego w pieczy zastępczej i oceny zasadności dalszego pobytu dziecka w pieczy zastępczej oraz w celu udzielenia albo nieudzielenia zgody na umieszczenie dziecka w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego;
+- **5)** wojewodzie właściwemu ze względu na powiat, o którym mowa w pkt 1 lub 2 – dane, o których mowa w art. 38d ust. 6, w celu sprawowania kontroli nad realizacją zadań z zakresu pieczy zastępczej wykonywanych przez jednostki organizacyjne systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
+- **6)** ministrowi właściwemu do spraw rodziny – dane, o których mowa w art. 38d ust. 6, w celu monitorowania realizacji niniejszej ustawy;
+- **7)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, i wojewodzie – dane, o których mowa w art. 38d ust. 6 pkt 1, 3 i 5, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie pielęgnacyjne lub świadczenie rodzicielskie, osób pobierających te świadczenia oraz członków ich rodzin;
+- **8)** Zakładowi Ubezpieczeń Społecznych i wojewodzie – dane, o których mowa w art. 38d ust. 6 pkt 1, 3, 5 i 23, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin;
+- **9)** organowi realizującemu świadczenie dobry start – dane, o których mowa w art. 38d ust. 6 pkt 1, 3, 5 i 23, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie dobry start, osób pobierających świadczenie dobry start oraz członków ich rodzin;
 - **10)** (uchylony)
-- **11)** Zakładowi Ubezpieczeń Społecznych i wojewodzie dane, o których mowa w art. 38d ust. 6 pkt 1, 3, 5 i 23, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywni rodzice w pracy”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin;
-- **12)** Zakładowi Ubezpieczeń Społecznych dane, o których mowa w art. 38d ust. 6 pkt 1, 3, 5 i 23, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin.
+- **11)** Zakładowi Ubezpieczeń Społecznych i wojewodzie – dane, o których mowa w art. 38d ust. 6 pkt 1, 3, 5 i 23, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywni rodzice w pracy”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin;
+- **12)** Zakładowi Ubezpieczeń Społecznych – dane, o których mowa w art. 38d ust. 6 pkt 1, 3, 5 i 23, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin.
 
 5. Dane z wykazu, o którym mowa w art. 38d ust. 1 pkt 5, w zakresie niezbędnym do realizacji zadań ustawowych, udostępnia się następującym podmiotom:
 
-- **1)** staroście powiatu, o którym mowa w art. 38d ust. 10 pkt 5 dane, o których mowa w art. 38d ust. 7, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
-- **2)** staroście powiatu właściwego do finansowania pobytu dziecka w danym rodzinnym domu dziecka dane, o których mowa w art. 38d ust. 7, w celu zapewnienia finansowania pobytu dziecka w rodzinnej pieczy zastępczej;
-- **3)** staroście powiatu innego niż powiat, o którym mowa w pkt 1 lub 2 dane, o których mowa w art. 38d ust. 7 pkt 1, 13, 15, 16 i 22, oraz, za zgodą starosty, o którym mowa w art. 38d ust. 10 pkt 5 dane, o których mowa w art. 38d ust. 7 pkt 2, 5, 12, 14 i 18–21, w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
-- **4)** sądowi dane, o których mowa w art. 38d ust. 7, w celu zapewnienia dziecku pieczy zastępczej, uregulowania sytuacji prawnej dziecka umieszczonego w pieczy zastępczej i oceny zasadności dalszego pobytu dziecka w pieczy zastępczej oraz w celu udzielenia albo nieudzielenia zgody na umieszczenie dziecka w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego;
-- **5)** wojewodzie właściwemu ze względu na powiat, o którym mowa w pkt 1 lub 2 dane, o których mowa w art. 38d ust. 7, w celu sprawowania kontroli nad realizacją zadań z zakresu pieczy zastępczej wykonywanych przez jednostki organizacyjne systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
-- **6)** ministrowi właściwemu do spraw rodziny dane, o których mowa w art. 38d ust. 7, w celu monitorowania realizacji niniejszej ustawy;
-- **7)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, i wojewodzie dane, o których mowa w art. 38d ust. 7 pkt 1, 3 i 5, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie pielęgnacyjne lub świadczenie rodzicielskie, osób pobierających te świadczenia oraz członków ich rodzin;
-- **8)** Zakładowi Ubezpieczeń Społecznych i wojewodzie dane, o których mowa w art. 38d ust. 7 pkt 1, 3, 5 i 21, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin;
-- **9)** organowi realizującemu świadczenie dobry start dane, o których mowa w art. 38d ust. 7 pkt 1, 3, 5 i 21, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie dobry start, osób pobierających świadczenie dobry start oraz członków ich rodzin;
+- **1)** staroście powiatu, o którym mowa w art. 38d ust. 10 pkt 5 – dane, o których mowa w art. 38d ust. 7, w celu zapewnienia tworzenia i funkcjonowania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych oraz w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
+- **2)** staroście powiatu właściwego do finansowania pobytu dziecka w danym rodzinnym domu dziecka – dane, o których mowa w art. 38d ust. 7, w celu zapewnienia finansowania pobytu dziecka w rodzinnej pieczy zastępczej;
+- **3)** staroście powiatu innego niż powiat, o którym mowa w pkt 1 lub 2 – dane, o których mowa w art. 38d ust. 7 pkt 1, 13, 15, 16 i 22, oraz, za zgodą starosty, o którym mowa w art. 38d ust. 10 pkt 5 – dane, o których mowa w art. 38d ust. 7 pkt 2, 5, 12, 14 i 18–21, w celu zapewnienia dzieciom rodzinnej pieczy zastępczej;
+- **4)** sądowi – dane, o których mowa w art. 38d ust. 7, w celu zapewnienia dziecku pieczy zastępczej, uregulowania sytuacji prawnej dziecka umieszczonego w pieczy zastępczej i oceny zasadności dalszego pobytu dziecka w pieczy zastępczej oraz w celu udzielenia albo nieudzielenia zgody na umieszczenie dziecka w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego;
+- **5)** wojewodzie właściwemu ze względu na powiat, o którym mowa w pkt 1 lub 2 – dane, o których mowa w art. 38d ust. 7, w celu sprawowania kontroli nad realizacją zadań z zakresu pieczy zastępczej wykonywanych przez jednostki organizacyjne systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
+- **6)** ministrowi właściwemu do spraw rodziny – dane, o których mowa w art. 38d ust. 7, w celu monitorowania realizacji niniejszej ustawy;
+- **7)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, i wojewodzie – dane, o których mowa w art. 38d ust. 7 pkt 1, 3 i 5, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie pielęgnacyjne lub świadczenie rodzicielskie, osób pobierających te świadczenia oraz członków ich rodzin;
+- **8)** Zakładowi Ubezpieczeń Społecznych i wojewodzie – dane, o których mowa w art. 38d ust. 7 pkt 1, 3, 5 i 21, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin;
+- **9)** organowi realizującemu świadczenie dobry start – dane, o których mowa w art. 38d ust. 7 pkt 1, 3, 5 i 21, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie dobry start, osób pobierających świadczenie dobry start oraz członków ich rodzin;
 - **10)** (uchylony)
-- **11)** Zakładowi Ubezpieczeń Społecznych i wojewodzie dane, o których mowa w art. 38d ust. 7 pkt 1, 3, 5 i 21, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywni rodzice w pracy”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin;
-- **12)** Zakładowi Ubezpieczeń Społecznych dane, o których mowa w art. 38d ust. 7 pkt 1, 3, 5 i 21, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin.
+- **11)** Zakładowi Ubezpieczeń Społecznych i wojewodzie – dane, o których mowa w art. 38d ust. 7 pkt 1, 3, 5 i 21, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywni rodzice w pracy”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin;
+- **12)** Zakładowi Ubezpieczeń Społecznych – dane, o których mowa w art. 38d ust. 7 pkt 1, 3, 5 i 21, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin.
 
 6. Dane z wykazu, o którym mowa w art. 38d ust. 1 pkt 6, w zakresie niezbędnym do realizacji zadań ustawowych, udostępnia się następującym podmiotom:
 
-- **1)** staroście powiatu, marszałkowi województwa i wojewodzie, o których mowa w art. 38d ust. 10 pkt 6 dane, o których mowa w art. 38d ust. 8, w celu zapewnienia tworzenia i funkcjonowania instytucjonalnych form pieczy zastępczej;
-- **2)** staroście powiatu właściwego do finansowania pobytu dziecka w danej placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej lub interwencyjnym ośrodku preadopcyjnym dane, o których mowa w art. 38d ust. 8, z wyłączeniem danych dotyczących numeru PESEL oraz numeru i serii dokumentu potwierdzającego tożsamość, w celu zapewnienia finansowania pobytu dziecka w instytucjonalnej pieczy zastępczej;
-- **3)** staroście powiatu innego niż powiat, o którym mowa w pkt 1 lub 2 dane, o których mowa w art. 38d ust. 8, z wyłączeniem danych dotyczących numeru PESEL oraz numeru i serii dokumentu potwierdzającego tożsamość, w celu zapewnienia dzieciom instytucjonalnej pieczy zastępczej;
-- **4)** sądowi dane, o których mowa w art. 38d ust. 8, z wyłączeniem danych dotyczących numeru PESEL oraz numeru i serii dokumentu potwierdzającego tożsamość, w celu zapewnienia dziecku pieczy zastępczej, uregulowania sytuacji prawnej dziecka umieszczonego w pieczy zastępczej i oceny zasadności dalszego pobytu dziecka w pieczy zastępczej oraz w celu udzielenia albo nieudzielenia zgody na umieszczenie dziecka w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego;
-- **5)** wojewodzie właściwemu ze względu na powiat, o którym mowa w pkt 1 lub 2 dane, o których mowa w art. 38d ust. 8, z wyłączeniem danych dotyczących numeru PESEL oraz numeru i serii dokumentu potwierdzającego tożsamość, w celu wydawania i cofania zezwoleń na prowadzenie placówek opiekuńczo-wychowawczych, regionalnych placówek opiekuńczo-terapeutycznych i interwencyjnych ośrodków preadopcyjnych, sprawowania kontroli nad realizacją zadań z zakresu pieczy zastępczej wykonywanych przez jednostki organizacyjne systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
-- **6)** ministrowi właściwemu do spraw rodziny dane, o których mowa w art. 38d ust. 8, z wyłączeniem danych dotyczących numeru PESEL oraz numeru i serii dokumentu potwierdzającego tożsamość, w celu monitorowania realizacji niniejszej ustawy;
-- **6a)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, i wojewodzie dane, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie pielęgnacyjne, osób pobierających świadczenie pielęgnacyjne oraz członków ich rodzin;
-- **7)** Zakładowi Ubezpieczeń Społecznych i wojewodzie dane, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin;
-- **8)** organowi realizującemu świadczenie dobry start dane dotyczące placówki opiekuńczo-wychowawczej i regionalnej placówki opiekuńczo-terapeutycznej, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie dobry start, osób pobierających świadczenie dobry start oraz członków ich rodzin;
+- **1)** staroście powiatu, marszałkowi województwa i wojewodzie, o których mowa w art. 38d ust. 10 pkt 6 – dane, o których mowa w art. 38d ust. 8, w celu zapewnienia tworzenia i funkcjonowania instytucjonalnych form pieczy zastępczej;
+- **2)** staroście powiatu właściwego do finansowania pobytu dziecka w danej placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej lub interwencyjnym ośrodku preadopcyjnym – dane, o których mowa w art. 38d ust. 8, z wyłączeniem danych dotyczących numeru PESEL oraz numeru i serii dokumentu potwierdzającego tożsamość, w celu zapewnienia finansowania pobytu dziecka w instytucjonalnej pieczy zastępczej;
+- **3)** staroście powiatu innego niż powiat, o którym mowa w pkt 1 lub 2 – dane, o których mowa w art. 38d ust. 8, z wyłączeniem danych dotyczących numeru PESEL oraz numeru i serii dokumentu potwierdzającego tożsamość, w celu zapewnienia dzieciom instytucjonalnej pieczy zastępczej;
+- **4)** sądowi – dane, o których mowa w art. 38d ust. 8, z wyłączeniem danych dotyczących numeru PESEL oraz numeru i serii dokumentu potwierdzającego tożsamość, w celu zapewnienia dziecku pieczy zastępczej, uregulowania sytuacji prawnej dziecka umieszczonego w pieczy zastępczej i oceny zasadności dalszego pobytu dziecka w pieczy zastępczej oraz w celu udzielenia albo nieudzielenia zgody na umieszczenie dziecka w pieczy zastępczej na podstawie orzeczenia sądu lub innego organu państwa obcego;
+- **5)** wojewodzie właściwemu ze względu na powiat, o którym mowa w pkt 1 lub 2 – dane, o których mowa w art. 38d ust. 8, z wyłączeniem danych dotyczących numeru PESEL oraz numeru i serii dokumentu potwierdzającego tożsamość, w celu wydawania i cofania zezwoleń na prowadzenie placówek opiekuńczowychowawczych, regionalnych placówek opiekuńczo-terapeutycznych i interwencyjnych ośrodków preadopcyjnych, sprawowania kontroli nad realizacją zadań z zakresu pieczy zastępczej wykonywanych przez jednostki organizacyjne systemu pieczy zastępczej oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
+- **6)** ministrowi właściwemu do spraw rodziny – dane, o których mowa w art. 38d ust. 8, z wyłączeniem danych dotyczących numeru PESEL oraz numeru i serii dokumentu potwierdzającego tożsamość, w celu monitorowania realizacji niniejszej ustawy;
+- **6a)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, i wojewodzie – dane, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie pielęgnacyjne, osób pobierających świadczenie pielęgnacyjne oraz członków ich rodzin;
+- **7)** Zakładowi Ubezpieczeń Społecznych i wojewodzie – dane, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin;
+- **8)** organowi realizującemu świadczenie dobry start – dane dotyczące placówki opiekuńczo-wychowawczej i regionalnej placówki opiekuńczo-terapeutycznej, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie dobry start, osób pobierających świadczenie dobry start oraz członków ich rodzin;
 - **9)** (uchylony)
-- **10)** Zakładowi Ubezpieczeń Społecznych dane, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin.
+- **10)** Zakładowi Ubezpieczeń Społecznych – dane, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, osób pobierających to świadczenie oraz członków ich rodzin.
 
 7. Dane z wykazu, o którym mowa w art. 38d ust. 1 pkt 7, w zakresie niezbędnym do realizacji zadań ustawowych, udostępnia się następującym podmiotom:
 
-- **1)** staroście powiatu, o którym mowa w art. 38d ust. 10 pkt 7 dane, o których mowa w art. 38d ust. 9, w celu zapewnienia pomocy osobom usamodzielnianym;
-- **2)** staroście powiatu właściwego ze względu na miejsce osiedlenia się osoby usamodzielnianej dane, o których mowa w art. 38d ust. 9, w celu zapewnienia pomocy osobom usamodzielnianym;
-- **3)** wojewodzie właściwemu ze względu na powiat, o którym mowa w pkt 1 lub 2 dane, o których mowa w art. 38d ust. 9, w celu sprawowania kontroli nad realizacją zadań z zakresu usamodzielnień pełnoletnich wychowanków oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
-- **4)** ministrowi właściwemu do spraw rodziny dane, o których mowa w art. 38d ust. 9, w celu monitorowania realizacji niniejszej ustawy;
-- **5)** jednostkom organizacyjnym pomocy społecznej prowadzonym przez jednostki samorządu terytorialnego dane, o których mowa w art. 38d ust. 9 pkt 1–6, pkt 7 w zakresie informacji dotyczących pieczy zastępczej w odniesieniu do osoby, która skorzystała z uprawnień, o których mowa w art. 37 ust. 4–6, oraz pkt 8, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z pomocy społecznej, osób pobierających świadczenia z pomocy społecznej oraz członków ich rodzin, a także osób obowiązanych do ponoszenia odpłatności za świadczenia z pomocy społecznej;
-- **6)** organowi realizującemu świadczenie dobry start dane, o których mowa w art. 38d ust. 9 pkt 1–4, 9 i 10, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie dobry start, osób pobierających świadczenie dobry start oraz członków ich rodzin.
+- **1)** staroście powiatu, o którym mowa w art. 38d ust. 10 pkt 7 – dane, o których mowa w art. 38d ust. 9, w celu zapewnienia pomocy osobom usamodzielnianym;
+- **2)** staroście powiatu właściwego ze względu na miejsce osiedlenia się osoby usamodzielnianej – dane, o których mowa w art. 38d ust. 9, w celu zapewnienia pomocy osobom usamodzielnianym;
+- **3)** wojewodzie właściwemu ze względu na powiat, o którym mowa w pkt 1 lub 2 – dane, o których mowa w art. 38d ust. 9, w celu sprawowania kontroli nad realizacją zadań z zakresu usamodzielnień pełnoletnich wychowanków oraz w celu zasięgania informacji o sposobie realizacji zadań w tym zakresie;
+- **4)** ministrowi właściwemu do spraw rodziny – dane, o których mowa w art. 38d ust. 9, w celu monitorowania realizacji niniejszej ustawy;
+- **5)** jednostkom organizacyjnym pomocy społecznej prowadzonym przez jednostki samorządu terytorialnego – dane, o których mowa w art. 38d ust. 9 pkt 1–6, pkt 7 – w zakresie informacji dotyczących pieczy zastępczej w odniesieniu do osoby, która skorzystała z uprawnień, o których mowa w art. 37 ust. 4–6, oraz pkt 8, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z pomocy społecznej, osób pobierających świadczenia z pomocy społecznej oraz członków ich rodzin, a także osób obowiązanych do ponoszenia odpłatności za świadczenia z pomocy społecznej;
+- **6)** organowi realizującemu świadczenie dobry start – dane, o których mowa w art. 38d ust. 9 pkt 1–4, 9 i 10, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie dobry start, osób pobierających świadczenie dobry start oraz członków ich rodzin.
 
 **Art. 38f.**
 
-1. Dane, o których mowa w art. 38d ust. 3–9, są przetwarzane przez ministra właściwego do spraw rodziny w celu monitorowania realizacji niniejszej ustawy, przez starostę, organizatora rodzinnej pieczy zastępczej, marszałka województwa i wojewodę w celu prowadzenia rejestru, o którym mowa w art. 38d ust. 1, oraz przez podmioty wymienione w art. 38e w celu, w jakim informacje te zostały im udostępnione.
+1. Dane, o których mowa w art. 38d ust. 3–9, są przetwarzane przez ministra właściwego do spraw rodziny w celu monitorowania realizacji niniejszej ustawy, przez starostę, organizatora rodzinnej pieczy zastępczej, marszałka województwa i wojewodę – w celu prowadzenia rejestru, o którym mowa w art. 38d ust. 1, oraz przez podmioty wymienione w art. 38e w celu, w jakim informacje te zostały im udostępnione.
 
 2. Administratorami danych osobowych, o których mowa w art. 38d ust. 3–9, są starosta, organizator rodzinnej pieczy zastępczej, marszałek województwa i wojewoda, z tym że administratorem danych osobowych w zakresie zapewnienia, utrzymania i rozwoju systemu teleinformatycznego, o którym mowa w art. 38d ust. 2, jest minister właściwy do spraw rodziny.
 
 3. Administrator danych osobowych dokonuje co najmniej raz na rok przeglądu danych osobowych, o których mowa w art. 38d ust. 3–9, i niezwłocznie po dokonaniu przeglądu usuwa dane osobowe, których przetwarzanie nie jest uzasadnione.
 
-4. Podmioty wymienione w art. 38e ust. 1 pkt 2–18 przechowują dane, o których mowa w art. 38d ust. 3, do dnia poddania ich pseudonimizacji, z zastrzeżeniem ust. 20. Dane, o których mowa w art. 38d ust. 3, usuwa się niezwłocznie po upływie okresów przechowywania.
+4. Podmioty wymienione w art. 38e ust. 1 pkt 2–18 przechowują dane, o których mowa w art. 38d ust. 3, do dnia poddania ich pseudonimizacji, z zastrzeżeniem ust.
+
+20. Dane, o których mowa w art. 38d ust. 3, usuwa się niezwłocznie po upływie okresów przechowywania.
 
 5. Podmiot, o którym mowa w art. 38d ust. 10 pkt 1, dokonuje w rejestrze, o którym mowa w art. 38d ust. 1, pseudonimizacji danych, o których mowa w art. 38d ust. 3, niezwłocznie po uchyleniu postanowienia o umieszczeniu dziecka w pieczy zastępczej lub opuszczeniu pieczy zastępczej przez osobę, o której mowa w art. 37 ust. 2–6. Podmiot ten przechowuje dane, o których mowa w art. 38d ust. 3, w tym dane poddane pseudonimizacji, przez okres:
 
-- **1)** miesiąca od dnia ukończenia przez daną osobę 18. roku życia w przypadku osoby, która nie osiągnęła pełnoletności przebywając w pieczy zastępczej;
-- **2)** roku od dnia ukończenia przez daną osobę 25. roku życia w przypadku osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej;
-- **3)** miesiąca od dnia uprawomocnienia się postanowienia o przysposobieniu dziecka w przypadku przysposobienia dziecka.
+- **1)** miesiąca od dnia ukończenia przez daną osobę 18. roku życia – w przypadku osoby, która nie osiągnęła pełnoletności przebywając w pieczy zastępczej;
+- **2)** roku od dnia ukończenia przez daną osobę 25. roku życia – w przypadku osoby, która osiągnęła pełnoletność przebywając w pieczy zastępczej;
+- **3)** miesiąca od dnia uprawomocnienia się postanowienia o przysposobieniu dziecka – w przypadku przysposobienia dziecka.
 
 6. W przypadku, o którym mowa w ust. 5, dane, o których mowa w art. 38d ust. 3, usuwa się niezwłocznie po upływie okresów przechowywania.
 
@@ -947,11 +942,15 @@ Art. 201–225. (pominięte)
 
 10. Podmiot, o którym mowa w art. 38d ust. 10 pkt 3, dokonuje w rejestrze, o którym mowa w art. 38d ust. 1, pseudonimizacji danych, o których mowa w art. 38d ust. 5, niezwłocznie po utracie ważności zaświadczenia kwalifikacyjnego wydanego kandydatowi do pełnienia funkcji rodziny zastępczej zawodowej, rodziny zastępczej niezawodowej lub prowadzenia rodzinnego domu dziecka lub wykreśleniu, na podstawie art. 45 ust. 3, kandydata do pełnienia funkcji rodziny zastępczej zawodowej, rodziny zastępczej niezawodowej lub prowadzenia rodzinnego domu dziecka z rejestru, o którym mowa w art. 38d ust. 1 pkt 3. Podmiot ten przechowuje dane, o których mowa w art. 38d ust. 5, do dnia upływu roku od dnia poddania ich pseudonimizacji. Dane, o których mowa w art. 38d ust. 5, usuwa się niezwłocznie po upływie okresów przechowywania.
 
-11. Podmioty wymienione w art. 38e ust. 4 pkt 2–10 przechowują dane, o których mowa w art. 38d ust. 6, do dnia poddania ich pseudonimizacji, z zastrzeżeniem ust. 20. Dane, o których mowa w art. 38d ust. 6, usuwa się niezwłocznie po upływie okresów przechowywania.
+11. Podmioty wymienione w art. 38e ust. 4 pkt 2–10 przechowują dane, o których mowa w art. 38d ust. 6, do dnia poddania ich pseudonimizacji, z zastrzeżeniem ust.
 
-12. Podmiot, o którym mowa w art. 38d ust. 10 pkt 4, dokonuje w rejestrze, o którym mowa w art. 38d ust. 1, pseudonimizacji danych, o których mowa w art. 38d ust. 6, niezwłocznie po opuszczeniu przez ostatnie powierzone dziecko danej rodziny zastępczej, a w przypadku gdy w rodzinie zastępczej przebywa osoba, która osiągnęła pełnoletność, przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoba opuszczająca rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6 niezwłocznie po ukończeniu 25. roku życia przez tę osobę. Podmiot ten przechowuje dane, o których mowa w art. 38d ust. 6, do dnia upływu roku od dnia poddania ich pseudonimizacji. Dane, o których mowa w art. 38d ust. 6, usuwa się niezwłocznie po upływie okresów przechowywania.
+20. Dane, o których mowa w art. 38d ust. 6, usuwa się niezwłocznie po upływie okresów przechowywania.
 
-13. Podmioty wymienione w art. 38e ust. 5 pkt 2–10 przechowują dane, o których mowa w art. 38d ust. 7, do dnia poddania ich pseudonimizacji, z zastrzeżeniem ust. 20. Dane, o których mowa w art. 38d ust. 7, usuwa się niezwłocznie po upływie okresów przechowywania.
+12. Podmiot, o którym mowa w art. 38d ust. 10 pkt 4, dokonuje w rejestrze, o którym mowa w art. 38d ust. 1, pseudonimizacji danych, o których mowa w art. 38d ust. 6, niezwłocznie po opuszczeniu przez ostatnie powierzone dziecko danej rodziny zastępczej, a w przypadku gdy w rodzinie zastępczej przebywa osoba, która osiągnęła pełnoletność, przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoba opuszczająca rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6 – niezwłocznie po ukończeniu 25. roku życia przez tę osobę. Podmiot ten przechowuje dane, o których mowa w art. 38d ust. 6, do dnia upływu roku od dnia poddania ich pseudonimizacji. Dane, o których mowa w art. 38d ust. 6, usuwa się niezwłocznie po upływie okresów przechowywania.
+
+13. Podmioty wymienione w art. 38e ust. 5 pkt 2–10 przechowują dane, o których mowa w art. 38d ust. 7, do dnia poddania ich pseudonimizacji, z zastrzeżeniem ust.
+
+20. Dane, o których mowa w art. 38d ust. 7, usuwa się niezwłocznie po upływie okresów przechowywania.
 
 14. Podmiot, o którym mowa w art. 38d ust. 10 pkt 5, dokonuje w rejestrze, o którym mowa w art. 38d ust. 1, pseudonimizacji danych, o których mowa w art. 38d ust. 7, niezwłocznie po rozwiązaniu umowy z prowadzącym rodzinny dom dziecka. Podmiot ten przechowuje dane, o których mowa w art. 38d ust. 7, do dnia upływu roku od dnia poddania ich pseudonimizacji. Dane, o których mowa w art. 38d ust. 7, usuwa się niezwłocznie po upływie okresów przechowywania.
 
@@ -961,7 +960,9 @@ Art. 201–225. (pominięte)
 
 17. Podmioty wymienione w art. 38e ust. 6 pkt 7–9 przechowują dane, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, przez okres 10 lat od dnia zaprzestania udzielania świadczenia, o którym mowa odpowiednio w art. 38e ust. 6 pkt 7–9, z wyjątkiem informacji dotyczących osób, którym świadczenie nie zostało przyznane, które przechowuje się przez okres roku od dnia, w którym decyzja w sprawie świadczenia stała się ostateczna, lub od dnia pozostawienia wniosku o ustalenie prawa do świadczenia bez rozpatrzenia. Dane, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, usuwa się niezwłocznie po upływie okresów przechowywania.
 
-18. Podmioty wymienione w art. 38e ust. 7 pkt 3–6 przechowują dane, o których mowa w art. 38d ust. 9, do dnia poddania ich pseudonimizacji, z zastrzeżeniem ust. 20. Dane, o których mowa w art. 38d ust. 9, usuwa się niezwłocznie po upływie okresów przechowywania.
+18. Podmioty wymienione w art. 38e ust. 7 pkt 3–6 przechowują dane, o których mowa w art. 38d ust. 9, do dnia poddania ich pseudonimizacji, z zastrzeżeniem ust.
+
+20. Dane, o których mowa w art. 38d ust. 9, usuwa się niezwłocznie po upływie okresów przechowywania.
 
 19. Podmiot, o którym mowa w art. 38d ust. 10 pkt 7, dokonuje w rejestrze, o którym mowa w art. 38d ust. 1, pseudonimizacji danych, o których mowa w art. 38d ust. 9, niezwłocznie po osiągnięciu przez osobę usamodzielnianą 26. roku życia. Podmiot ten przechowuje dane, o których mowa w art. 38d ust. 9, do dnia upływu roku od dnia poddania ich pseudonimizacji. Dane, o których mowa w art. 38d ust. 9, usuwa się niezwłocznie po upływie okresów przechowywania.
 
@@ -1015,10 +1016,10 @@ Art. 201–225. (pominięte)
 
 - **1)** dają rękojmię należytego sprawowania pieczy zastępczej;
 - **2)** nie są i nie były pozbawione władzy rodzicielskiej, oraz władza rodzicielska nie jest im ograniczona ani zawieszona;
-- **3)** wypełniają obowiązek alimentacyjny w przypadku gdy taki obowiązek w stosunku do nich wynika z tytułu egzekucyjnego;
+- **3)** wypełniają obowiązek alimentacyjny – w przypadku gdy taki obowiązek w stosunku do nich wynika z tytułu egzekucyjnego;
 - **4)** nie są ograniczone w zdolności do czynności prawnych;
-- **5)** są zdolne do sprawowania właściwej opieki nad dzieckiem, co zostało potwierdzone:
-    - **a)** zaświadczeniem lekarskim o stanie zdrowia wystawionym przez lekarza podstawowej opieki zdrowotnej, w rozumieniu przepisów ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz. 2527), oraz
+- **5)** są zdolne do sprawowania właściwej opieki nad dzieckiem, co zostało potwierdzone: poz. 2527), oraz
+    - **a)** zaświadczeniem lekarskim o stanie zdrowia wystawionym przez lekarza podstawowej opieki zdrowotnej, w rozumieniu przepisów ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r.
     - **b)** opinią o posiadaniu predyspozycji i motywacji do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka wystawioną przez psychologa, który posiada co najmniej wykształcenie wyższe magisterskie na kierunku psychologia oraz 2-letnie doświadczenie w poradnictwie rodzinnym;
 
 - **6)** przebywają na terytorium Rzeczypospolitej Polskiej, z tym że w przypadku cudzoziemców ich pobyt jest legalny;
@@ -1051,7 +1052,7 @@ Art. 201–225. (pominięte)
 
 2. Po przeprowadzeniu wstępnej kwalifikacji, o której mowa w ust. 1, organizator rodzinnej pieczy zastępczej sporządza dokument potwierdzający przeprowadzenie tej wstępnej kwalifikacji, który zawiera w szczególności datę przeprowadzenia wstępnej kwalifikacji oraz wskazanie, czy wstępna kwalifikacja jest pozytywna czy negatywna. Dokument potwierdzający przeprowadzenie wstępnej kwalifikacji jest wydawany pisemnie w postaci papierowej lub elektronicznej.
 
-3. W przypadku gdy wstępna kwalifikacja, o której mowa w ust. 1, jest negatywna, w dokumencie potwierdzającym przeprowadzenie tej wstępnej kwalifikacji organizator rodzinnej pieczy zastępczej szczegółowo uzasadnia przyczyny negatywnej wstępnej kwalifikacji i wskazuje obszary wymagające poprawy, z jednoczesnym pouczeniem strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+3. W przypadku gdy wstępna kwalifikacja, o której mowa w ust. 1, jest negatywna, w dokumencie potwierdzającym przeprowadzenie tej wstępnej kwalifikacji organizator rodzinnej pieczy zastępczej szczegółowo uzasadnia przyczyny negatywnej wstępnej kwalifikacji i wskazuje obszary wymagające poprawy, z jednoczesnym pouczeniem strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 4. Wstępna kwalifikacja, o której mowa w ust. 1, jest przeprowadzana przez organizatora rodzinnej pieczy zastępczej właściwego ze względu na miejsce zamieszkania kandydata do pełnienia funkcji rodziny zastępczej zawodowej, rodziny zastępczej niezawodowej lub prowadzenia rodzinnego domu dziecka.
 
@@ -1085,9 +1086,9 @@ Art. 201–225. (pominięte)
 
 2. Zaświadczenie kwalifikacyjne jest ważne 2 lata od dnia jego wydania i stanowi podstawę wpisu do wykazu, o którym mowa w art. 38d ust. 1 pkt 3.
 
-3. W przypadku gdy kandydat do pełnienia funkcji rodziny zastępczej zawodowej, rodziny zastępczej niezawodowej lub prowadzenia rodzinnego domu dziecka przestanie spełniać warunki, o których mowa w art. 42 ust. 1–3, organizator rodzinnej pieczy zastępczej, który pozytywnie wstępnie zakwalifikował kandydata do pełnienia funkcji rodziny zastępczej zawodowej, rodziny zastępczej niezawodowej lub prowadzenia rodzinnego domu dziecka, stwierdza nieaktualność wydanego zaświadczenia kwalifikacyjnego i wykreśla kandydata niezwłocznie z rejestru, o którym mowa w art. 38d ust. 1 pkt 3, oraz zawiadamia go o tym pisemnie w postaci papierowej lub elektronicznej, podając jednocześnie uzasadnienie, z jednoczesnym pouczeniem strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+3. W przypadku gdy kandydat do pełnienia funkcji rodziny zastępczej zawodowej, rodziny zastępczej niezawodowej lub prowadzenia rodzinnego domu dziecka przestanie spełniać warunki, o których mowa w art. 42 ust. 1–3, organizator rodzinnej pieczy zastępczej, który pozytywnie wstępnie zakwalifikował kandydata do pełnienia funkcji rodziny zastępczej zawodowej, rodziny zastępczej niezawodowej lub prowadzenia rodzinnego domu dziecka, stwierdza nieaktualność wydanego zaświadczenia kwalifikacyjnego i wykreśla kandydata niezwłocznie z rejestru, o którym mowa w art. 38d ust. 1 pkt 3, oraz zawiadamia go o tym pisemnie w postaci papierowej lub elektronicznej, podając jednocześnie uzasadnienie, z jednoczesnym pouczeniem strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
-4. W przypadku odmowy wydania zaświadczenia kwalifikacyjnego, o którym mowa w ust. 1, odmowa ta wydawana jest pisemnie w postaci papierowej lub elektronicznej, ze szczegółowym uzasadnieniem przyczyn odmowy i ewentualnym wskazaniem obszarów wymagających poprawy, z jednoczesnym pouczeniem strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+4. W przypadku odmowy wydania zaświadczenia kwalifikacyjnego, o którym mowa w ust. 1, odmowa ta wydawana jest pisemnie w postaci papierowej lub elektronicznej, ze szczegółowym uzasadnieniem przyczyn odmowy i ewentualnym wskazaniem obszarów wymagających poprawy, z jednoczesnym pouczeniem strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 **Art. 45a.** Kandydaci zakwalifikowani do pełnienia funkcji rodziny zastępczej zawodowej, rodziny zastępczej niezawodowej lub prowadzenia rodzinnego domu dziecka, rodziny zastępcze zawodowe, rodziny zastępcze niezawodowe i osoby prowadzące rodzinne domy dziecka są obowiązani do przedstawiania, co 2 lata, odpowiednio organizatorowi rodzinnej pieczy zastępczej, który przeprowadził wstępną kwalifikację kandydata do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, staroście powiatu właściwego ze względu na miejsce zamieszkania rodziny zastępczej lub prowadzącego rodzinny dom dziecka, staroście powiatu, który zawarł umowę o pełnienie funkcji rodziny zastępczej zawodowej, w przypadku, o którym mowa w art. 54 ust. 3a, albo staroście, który organizuje rodzinny dom dziecka na terenie innego powiatu, zaświadczenia lekarskiego o stanie zdrowia, wystawionego przez lekarza podstawowej opieki zdrowotnej w rozumieniu przepisów ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej, oraz opinii o posiadaniu predyspozycji i motywacji do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, wystawionej przez psychologa.
 
@@ -1188,11 +1189,11 @@ Art. 201–225. (pominięte)
 
 7b. W przypadku odmowy zawarcia przez starostę umowy, o której mowa w ust. 2, odmowa ta wydawana jest pisemnie w postaci papierowej lub elektronicznej, ze szczegółowym uzasadnieniem przyczyn odmowy.
 
-8. W zakresie nieuregulowanym ustawą do umowy mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące umowy zlecenia.
+8. W zakresie nieuregulowanym ustawą do umowy mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny dotyczące umowy zlecenia.
 
 **Art. 55.**
 
-1. Z kandydatami spełniającymi warunki do pełnienia funkcji rodziny zastępczej zawodowej lub prowadzenia rodzinnego domu dziecka, na ich wniosek, starosta może zawierać umowy o utworzeniu rodziny zastępczej zawodowej lub rodzinnego domu dziecka. Do umowy przepisy art. 54 ust. 3–8 i art. 62 ust. 2–5 stosuje się odpowiednio.
+1. Z kandydatami spełniającymi warunki do pełnienia funkcji rodziny zastępczej zawodowej lub prowadzenia rodzinnego domu dziecka, na ich wniosek, starosta może zawierać umowy o utworzeniu rodziny zastępczej zawodowej lub rodzinnego domu dziecka. Do umowy przepisy art. 54 ust. 3–8 i art. 62 ust. 2– 5 stosuje się odpowiednio.
 
 1a. Kandydat spełniający warunki do pełnienia funkcji rodziny zastępczej zawodowej lub prowadzenia rodzinnego domu dziecka składa wniosek, o którym mowa w ust. 1, do starosty powiatu, którego organizator rodzinnej pieczy zastępczej wydał mu zaświadczenie kwalifikacyjne, o którym mowa w art. 45 ust. 1.
 
@@ -1271,7 +1272,7 @@ Art. 201–225. (pominięte)
 
 **Art. 62.**
 
-1. Praca prowadzącego rodzinny dom dziecka jest wykonywana na podstawie umowy o świadczenie usług, do której zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny stosuje się przepisy dotyczące zlecenia.
+1. Praca prowadzącego rodzinny dom dziecka jest wykonywana na podstawie umowy o świadczenie usług, do której zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia.
 
 2. Z prowadzącym, o którym mowa w ust. 1, starosta lub podmiot, któremu powiat zlecił organizowanie rodzinnego domu dziecka, zawiera umowę, która określa w szczególności:
 
@@ -1316,14 +1317,14 @@ Art. 201–225. (pominięte)
 3. Osobę do pomocy przy sprawowaniu opieki nad dziećmi i przy pracach gospodarskich zatrudnia się na podstawie:
 
 - **1)** umowy o pracę albo
-- **2)** umowy o świadczenie usług, do której, zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, stosuje się przepisy dotyczące zlecenia.
+- **2)** umowy o świadczenie usług, do której, zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, stosuje się przepisy dotyczące zlecenia.
 
 4. Osoba do pomocy przy sprawowaniu opieki nad dziećmi i przy pracach gospodarskich, zatrudniona na podstawie umowy o pracę, może być zatrudniona w systemie zadaniowego czasu pracy.
 
 5. Osobą zatrudnioną do pomocy przy sprawowaniu opieki nad dziećmi i przy pracach gospodarskich może być wyłącznie osoba wskazana lub zaakceptowana przez prowadzącego rodzinny dom dziecka, która:
 
 - **1)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie jest jej ograniczona ani zawieszona;
-- **2)** wypełnia obowiązek alimentacyjny w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
+- **2)** wypełnia obowiązek alimentacyjny – w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
 - **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **4)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym.
 
@@ -1420,7 +1421,7 @@ Art. 201–225. (pominięte)
 
 4. Jeżeli umowę zawierają małżonkowie, świadczenie przysługuje małżonkowi wskazanemu w umowie.
 
-5. W zakresie nieuregulowanym ustawą do umowy mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące umowy zlecenia.
+5. W zakresie nieuregulowanym ustawą do umowy mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny dotyczące umowy zlecenia.
 
 6. Czas pobytu dziecka w rodzinie pomocowej nie może przekroczyć 2 miesięcy.
 
@@ -1468,7 +1469,7 @@ Art. 201–225. (pominięte)
 3. Do zadań koordynatora rodzinnej pieczy zastępczej należy w szczególności:
 
 - **1)** udzielanie pomocy rodzinom zastępczym i prowadzącym rodzinne domy dziecka w realizacji zadań wynikających z pieczy zastępczej;
-- **2)** przygotowanie, we współpracy z odpowiednio rodziną zastępczą lub prowadzącym rodzinny dom dziecka oraz asystentem rodziny, a w przypadku gdy rodzinie dziecka nie został przydzielony asystent rodziny we współpracy z podmiotem organizującym pracę z rodziną, planu pomocy dziecku;
+- **2)** przygotowanie, we współpracy z odpowiednio rodziną zastępczą lub prowadzącym rodzinny dom dziecka oraz asystentem rodziny, a w przypadku gdy rodzinie dziecka nie został przydzielony asystent rodziny – we współpracy z podmiotem organizującym pracę z rodziną, planu pomocy dziecku;
 - **3)** pomoc rodzinom zastępczym oraz prowadzącym rodzinne domy dziecka w nawiązaniu wzajemnego kontaktu;
 - **4)** zapewnianie rodzinom zastępczym oraz prowadzącym rodzinne domy dziecka dostępu do specjalistycznej pomocy dla dzieci, w tym psychologicznej, reedukacyjnej i rehabilitacyjnej;
 - **5)** zgłaszanie do ośrodków adopcyjnych informacji o dzieciach z uregulowaną sytuacją prawną, w celu poszukiwania dla nich rodzin przysposabiających;
@@ -1490,7 +1491,7 @@ Art. 201–225. (pominięte)
     - **b)** wykształcenie wyższe na dowolnym kierunku, uzupełnione studiami podyplomowymi w zakresie psychologii, pedagogiki, nauk o rodzinie, resocjalizacji lub kursem kwalifikacyjnym z zakresu pedagogiki opiekuńczo-wychowawczej oraz co najmniej roczne doświadczenie w pracy z dzieckiem i rodziną lub co najmniej roczne doświadczenie jako rodzina zastępcza lub prowadzący rodzinny dom dziecka;
 
 - **2)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie jest jej zawieszona ani ograniczona;
-- **3)** wypełnia obowiązek alimentacyjny w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
+- **3)** wypełnia obowiązek alimentacyjny – w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
 - **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym;
 - **6)** daje rękojmię należytej realizacji zadań koordynatora rodzinnej pieczy zastępczej.
@@ -1501,7 +1502,7 @@ Art. 201–225. (pominięte)
 
 1. Koordynator rodzinnej pieczy zastępczej jest zatrudniany przez organizatora rodzinnej pieczy zastępczej.
 
-2. Praca koordynatora rodzinnej pieczy zastępczej jest wykonywana w ramach stosunku pracy w systemie zadaniowego czasu pracy lub umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. Kodeks cywilny stosuje się przepisy dotyczące zlecenia.
+2. Praca koordynatora rodzinnej pieczy zastępczej jest wykonywana w ramach stosunku pracy w systemie zadaniowego czasu pracy lub umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia.
 
 3. Praca koordynatora rodzinnej pieczy zastępczej nie może być łączona z wykonywaniem obowiązków pracownika socjalnego.
 
@@ -1513,8 +1514,8 @@ Art. 201–225. (pominięte)
 
 1. Rodzinie zastępczej oraz prowadzącemu rodzinny dom dziecka, na każde umieszczone dziecko, przysługuje świadczenie na pokrycie kosztów jego utrzymania, nie niższe niż kwota:
 
-- **1)** 660 zł miesięcznie w przypadku dziecka umieszczonego w rodzinie zastępczej spokrewnionej;
-- **2)** 1000 zł miesięcznie w przypadku dziecka umieszczonego w rodzinie zastępczej zawodowej, rodzinie zastępczej niezawodowej lub rodzinnym domu dziecka.
+- **1)** 660 zł miesięcznie – w przypadku dziecka umieszczonego w rodzinie zastępczej spokrewnionej;
+- **2)** 1000 zł miesięcznie – w przypadku dziecka umieszczonego w rodzinie zastępczej zawodowej, rodzinie zastępczej niezawodowej lub rodzinnym domu dziecka.
 
 1a. (uchylony)
 
@@ -1541,7 +1542,7 @@ Art. 201–225. (pominięte)
 1b. W przypadku gdy po ukończeniu:
 
 - **1)** nauki w szkole ponadgimnazjalnej lub ponadpodstawowej osoba, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoba opuszczająca rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, została przyjęta w tym samym roku kalendarzowym na studia wyższe lub do zakładu kształcenia nauczycieli,
-- **2)** studiów pierwszego stopnia osoba, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoba opuszczająca rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, została przyjęta w tym samym roku kalendarzowym na studia drugiego stopnia świadczenia oraz dodatki przysługujące rodzinie zastępczej oraz prowadzącemu rodzinny dom dziecka przysługują także za wrzesień.
+- **2)** studiów pierwszego stopnia osoba, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2–4 i 6, lub osoba opuszczająca rodzinną pieczę zastępczą jako niepełnoletnia, o której mowa w art. 37 ust. 5 i 6, została przyjęta w tym samym roku kalendarzowym na studia drugiego stopnia – świadczenia oraz dodatki przysługujące rodzinie zastępczej oraz prowadzącemu rodzinny dom dziecka przysługują także za wrzesień.
 
 2. (uchylony)
 
@@ -1551,8 +1552,8 @@ Art. 201–225. (pominięte)
 
 - **1)** dofinansowanie do wypoczynku poza miejscem zamieszkania dziecka;
 - **2)** świadczenie na pokrycie:
-    - **a)** niezbędnych kosztów związanych z potrzebami przyjmowanego dziecka jednorazowo,
-    - **b)** kosztów związanych z wystąpieniem zdarzeń losowych lub innych zdarzeń mających wpływ na jakość sprawowanej opieki jednorazowo lub okresowo.
+    - **a)** niezbędnych kosztów związanych z potrzebami przyjmowanego dziecka – jednorazowo,
+    - **b)** kosztów związanych z wystąpieniem zdarzeń losowych lub innych zdarzeń mających wpływ na jakość sprawowanej opieki – jednorazowo lub okresowo.
 
 2. Rodzina zastępcza niezawodowa i zawodowa może otrzymywać środki finansowe na utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego w wysokości odpowiadającej kosztom ponoszonym przez rodzinę zastępczą niezawodową albo zawodową na czynsz, opłaty z tytułu najmu, opłaty za energię elektryczną i cieplną, opał, wodę, gaz, odbiór nieczystości stałych i płynnych, dźwig osobowy, antenę zbiorczą, abonament telewizyjny i radiowy, usługi telekomunikacyjne oraz związanym z kosztami eksploatacji, obliczonym przez podzielenie łącznej kwoty tych kosztów przez liczbę osób zamieszkujących w tym lokalu lub domu jednorodzinnym i pomnożenie przez liczbę dzieci, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2–4 i 6, oraz osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6, umieszczonych w rodzinie zastępczej wraz z osobami tworzącymi tę rodzinę zastępczą.
 
@@ -1613,7 +1614,7 @@ Art. 201–225. (pominięte)
 - **12)** schronisku dla nieletnich,
 - **13)** zakładzie karnym,
 - **14)** zakładzie poprawczym,
-- **15)** okręgowym ośrodku wychowawczym otrzymuje świadczenia, o których mowa w art. 80 ust. 1, w wysokości nie niższej niż 20 % przyznanych świadczeń.
+- **15)** okręgowym ośrodku wychowawczym – otrzymuje świadczenia, o których mowa w art. 80 ust. 1, w wysokości nie niższej niż 20 % przyznanych świadczeń.
 
 3. W przypadku, o którym mowa w ust. 2, rodzinie zastępczej lub prowadzącemu rodzinny dom dziecka dodatki, o których mowa w art. 81, nie przysługują.
 
@@ -1637,7 +1638,7 @@ Art. 201–225. (pominięte)
 
 **Art. 89.** Osoby otrzymujące świadczenia, dodatki, wynagrodzenia oraz dofinansowania do wypoczynku, o których mowa w niniejszym rozdziale, zwane dalej „świadczeniami pieniężnymi”, są obowiązane niezwłocznie poinformować organ, który przyznał świadczenie pieniężne, o każdej zmianie sytuacji osobistej, dochodowej i majątkowej ich oraz dziecka, która ma wpływ na prawo do tych świadczeń.
 
-**Art. 90.** W przypadku osób lub małżonków, niespełniających warunków dotyczących rodzin zastępczych w zakresie niezbędnych szkoleń, którym sąd powierzył tymczasowo pełnienie funkcji rodziny zastępczej na podstawie art. 109 § 2 pkt 5 ustawy z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809), przepisy art. 80–82, 86 i 87 stosuje się odpowiednio.
+**Art. 90.** W przypadku osób lub małżonków, niespełniających warunków dotyczących rodzin zastępczych w zakresie niezbędnych szkoleń, którym sąd powierzył tymczasowo pełnienie funkcji rodziny zastępczej na podstawie art. 109 § 2 pkt 5 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809), przepisy art. 80–82, 86 i 87 stosuje się odpowiednio.
 
 **Art. 91.** Rada powiatu może, w drodze uchwały, podnieść wysokość świadczeń pieniężnych, o których mowa w art. 80 ust. 1, art. 81, 83 i 85.
 
@@ -1707,7 +1708,7 @@ Art. 201–225. (pominięte)
 
 1. Osoba kierująca jednostką powstałą w wyniku połączenia, o którym mowa w art. 18c, art. 93 ust. 2b lub 3a, obowiązana jest spełniać obowiązujące wymagania do kierowania co najmniej jedną prowadzoną dotychczas działalnością realizowaną w połączonych jednostkach.
 
-2. Osoby zatrudnione na kierowniczych stanowiskach urzędniczych w jednostce powstałej w wyniku połączenia z wyłączeniem osoby kierującej jednostką, odpowiedzialne za wykonywanie zadań realizowanych dotychczas w połączonych jednostkach obowiązane są spełniać obowiązujące wymagania dla tych stanowisk.
+2. Osoby zatrudnione na kierowniczych stanowiskach urzędniczych w jednostce powstałej w wyniku połączenia – z wyłączeniem osoby kierującej jednostką, odpowiedzialne za wykonywanie zadań realizowanych dotychczas w połączonych jednostkach obowiązane są spełniać obowiązujące wymagania dla tych stanowisk.
 
 **Art. 94.**
 
@@ -1719,7 +1720,9 @@ Art. 201–225. (pominięte)
 
 **Art. 95.**
 
-1. W placówce opiekuńczo-wychowawczej typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego są umieszczane dzieci powyżej 10. roku życia, wymagające szczególnej opieki lub mające trudności w przystosowaniu się do życia w rodzinie.
+1. W placówce opiekuńczo-wychowawczej typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego są umieszczane dzieci powyżej
+
+10. roku życia, wymagające szczególnej opieki lub mające trudności w przystosowaniu się do życia w rodzinie.
 
 2. Umieszczenie dziecka poniżej 10. roku życia w placówce opiekuńczo-wychowawczej typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego jest możliwe w przypadku, gdy w danej placówce opiekuńczo-wychowawczej umieszczona jest matka lub ojciec tego dziecka oraz w innych wyjątkowych przypadkach, szczególnie gdy przemawia za tym stan zdrowia dziecka lub dotyczy to rodzeństwa.
 
@@ -1738,7 +1741,7 @@ Art. 201–225. (pominięte)
 - **9)** schronisku dla nieletnich,
 - **10)** zakładzie karnym,
 - **11)** zakładzie poprawczym,
-- **12)** okręgowym ośrodku wychowawczym dyrektor tej placówki może, pomimo przekroczenia dopuszczalnej liczby dzieci w placówce, za zezwoleniem wojewody, przyjąć kolejne dziecko.
+- **12)** okręgowym ośrodku wychowawczym – dyrektor tej placówki może, pomimo przekroczenia dopuszczalnej liczby dzieci w placówce, za zezwoleniem wojewody, przyjąć kolejne dziecko.
 
 4. W placówce opiekuńczo-wychowawczej typu rodzinnego można umieścić, w tym samym czasie, łącznie nie więcej niż 8 dzieci, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2–4 i 6, oraz osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6.
 
@@ -1752,9 +1755,9 @@ Art. 201–225. (pominięte)
 
 1. Placówką opiekuńczo-wychowawczą kieruje dyrektor.
 
-1a. W przypadku zapewnienia wspólnej obsługi placówek opiekuńczo-wychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego na podstawie przepisów o samorządzie powiatowym placówką opiekuńczo-wychowawczą może kierować dyrektor jednostki obsługującej, która prowadzi wspólną obsługę, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy.
+1a. W przypadku zapewnienia wspólnej obsługi placówek opiekuńczowychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistycznoterapeutycznego na podstawie przepisów o samorządzie powiatowym placówką opiekuńczo-wychowawczą może kierować dyrektor jednostki obsługującej, która prowadzi wspólną obsługę, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy.
 
-1b. W przypadku zlecenia realizacji obsługi placówek opiekuńczo-wychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego na podstawie art. 94 ust. 1 placówką opiekuńczo-wychowawczą może kierować dyrektor podmiotu, któremu zlecono realizację, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy.
+1b. W przypadku zlecenia realizacji obsługi placówek opiekuńczowychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistycznoterapeutycznego na podstawie art. 94 ust. 1 placówką opiekuńczo-wychowawczą może kierować dyrektor podmiotu, któremu zlecono realizację, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy.
 
 2. (uchylony) 2a. W przypadku prowadzenia więcej niż jednej placówki opiekuńczo-wychowawczej przez podmiot, któremu powiat zlecił realizację tego zadania na podstawie art. 190, placówkami tymi może kierować jeden dyrektor przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy.
 
@@ -1766,7 +1769,7 @@ Art. 201–225. (pominięte)
 
 - **2)** posiada co najmniej 3-letni staż pracy w instytucji zajmującej się pracą z dziećmi lub rodziną albo udokumentowane doświadczenie pracy z dziećmi lub rodziną;
 - **3)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie jest jej zawieszona ani ograniczona;
-- **4)** wypełnia obowiązek alimentacyjny w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
+- **4)** wypełnia obowiązek alimentacyjny – w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
 - **5)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5a)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym;
 - **6)** jest zdolna do kierowania placówką opiekuńczo-wychowawczą, co zostało potwierdzone zaświadczeniem lekarskim o braku przeciwwskazań do pełnienia tej funkcji.
@@ -1783,23 +1786,22 @@ Art. 201–225. (pominięte)
 
 1. Osobą pracującą z dziećmi w placówce opiekuńczo-wychowawczej może być osoba posiadająca następujące kwalifikacje:
 
-- **1)** w przypadku wychowawcy wykształcenie wyższe:
+- **1)** w przypadku wychowawcy – wykształcenie wyższe:
     - **a)** na kierunku pedagogika, pedagogika specjalna, psychologia, praca socjalna, nauki o rodzinie lub na innym kierunku, którego program obejmuje resocjalizację, pracę socjalną, pedagogikę opiekuńczo-wychowawczą albo
     - **b)** na dowolnym kierunku, uzupełnione studiami podyplomowymi w zakresie psychologii, pedagogiki, nauk o rodzinie lub resocjalizacji, albo
     - **c)** na dowolnym kierunku oraz przygotowanie pedagogiczne uprawniające do wykonywania zawodu nauczyciela;
 
-- **2)** w przypadku pedagoga tytuł zawodowy magistra na kierunku pedagogika albo pedagogika specjalna;
-- **3)** w przypadku psychologa prawo wykonywania zawodu psychologa w rozumieniu ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów;
-- **4)** w przypadku osoby prowadzącej terapię udokumentowane przygotowanie do prowadzenia terapii o profilu potrzebnym w pracy z dzieckiem i rodziną;
-- **5)** w przypadku opiekuna dziecięcego ukończoną szkołę przygotowującą do pracy w zawodzie opiekuna dziecięcego lub pielęgniarki albo studia pedagogiczne;
-- **6)** w przypadku pracownika socjalnego wykształcenie wyższe uprawniające do wykonywania zawodu.
+- **2)** w przypadku pedagoga – tytuł zawodowy magistra na kierunku pedagogika albo pedagogika specjalna; [3) w przypadku psychologa – prawo wykonywania zawodu psychologa w rozumieniu ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów;] <3) w przypadku psychologa – prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów;>
+- **4)** w przypadku osoby prowadzącej terapię – udokumentowane przygotowanie do prowadzenia terapii o profilu potrzebnym w pracy z dzieckiem i rodziną;
+- **5)** w przypadku opiekuna dziecięcego – ukończoną szkołę przygotowującą do pracy w zawodzie opiekuna dziecięcego lub pielęgniarki albo studia pedagogiczne;
+- **6)** w przypadku pracownika socjalnego – wykształcenie wyższe uprawniające do wykonywania zawodu.
 
 2. Przepisu ust. 1 pkt 1 nie stosuje się do wychowawcy w placówce opiekuńczo-wychowawczej typu rodzinnego posiadającego wykształcenie średnie lub średnie branżowe i pozytywną opinię organizatora rodzinnej pieczy zastępczej dotyczącą predyspozycji do pełnienia funkcji wychowawcy.
 
 3. W placówce opiekuńczo-wychowawczej z dziećmi może pracować osoba, która:
 
 - **1)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie jest jej zawieszona ani ograniczona;
-- **2)** wypełnia obowiązek alimentacyjny w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
+- **2)** wypełnia obowiązek alimentacyjny – w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
 - **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **3a)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym;
 - **4)** jest zdolna do pracy w placówce opiekuńczo-wychowawczej, co zostało potwierdzone zaświadczeniem lekarskim o braku przeciwwskazań do tej pracy.
@@ -1808,14 +1810,20 @@ Art. 201–225. (pominięte)
 
 5. W przypadku wszczęcia przeciwko osobie, o której mowa w ust. 1, postępowania karnego o umyślne przestępstwo ścigane z oskarżenia publicznego przepisy art. 13 stosuje się odpowiednio.
 
+6. Za zgodą wojewody oraz odpowiednio starosty lub marszałka województwa w instytucjonalnych formach pieczy zastępczej, w której są umieszczani małoletni beneficjenci ochrony czasowej, mogą być zatrudnieni jako:
+
+- **1)** wychowawcy lub opiekunowie dziecięcy,
+- **2)** psycholodzy,
+- **3)** pedagodzy – cudzoziemcy z kraju pochodzenia tego małoletniego, przebywający na terytorium Rzeczypospolitej Polskiej, których pobyt na terytorium Rzeczypospolitej Polskiej jest legalny, pomimo niespełniania wymogu, o którym mowa w art. 11 ust. 3 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2024 r. poz. 1135).
+
 **Art. 99.**
 
 1. Dyrektor placówki opiekuńczo-wychowawczej, z wyłączeniem sytuacji, o której mowa w art. 97 ust. 2, może pełnić równocześnie funkcję wychowawcy.
 
 2. Powiat lub podmiot prowadzący placówkę opiekuńczo-wychowawczą typu rodzinnego, na wniosek dyrektora tej placówki, zatrudnia w placówce:
 
-- **1)** co najmniej jedną osobę do pomocy przy sprawowaniu opieki nad dziećmi i przy pracach gospodarskich w przypadku gdy w placówce przebywa więcej niż 4 dzieci;
-- **2)** co najmniej dwie osoby do pomocy przy sprawowaniu opieki nad dziećmi i przy pracach gospodarskich w przypadku gdy w placówce przebywa więcej niż 8 dzieci. Przepis art. 98 ust. 3 stosuje się odpowiednio.
+- **1)** co najmniej jedną osobę do pomocy przy sprawowaniu opieki nad dziećmi i przy pracach gospodarskich – w przypadku gdy w placówce przebywa więcej niż 4 dzieci;
+- **2)** co najmniej dwie osoby do pomocy przy sprawowaniu opieki nad dziećmi i przy pracach gospodarskich – w przypadku gdy w placówce przebywa więcej niż 8 dzieci. Przepis art. 98 ust. 3 stosuje się odpowiednio.
 
 3. W placówce opiekuńczo-wychowawczej typu rodzinnego można zatrudnić tylko osobę wskazaną przez dyrektora. Może to być osoba z nim spokrewniona, spowinowacona lub jego małżonek.
 
@@ -1827,7 +1835,7 @@ Art. 201–225. (pominięte)
 
 **Art. 100.**
 
-1. Praca z dzieckiem w placówce opiekuńczo-wychowawczej jest prowadzona zgodnie z planem pomocy dziecku, sporządzonym i realizowanym przez wychowawcę we współpracy z asystentem rodziny, a w przypadku gdy rodzinie dziecka nie został przydzielony asystent rodziny we współpracy z podmiotem organizującym pracę z rodziną.
+1. Praca z dzieckiem w placówce opiekuńczo-wychowawczej jest prowadzona zgodnie z planem pomocy dziecku, sporządzonym i realizowanym przez wychowawcę we współpracy z asystentem rodziny, a w przypadku gdy rodzinie dziecka nie został przydzielony asystent rodziny – we współpracy z podmiotem organizującym pracę z rodziną.
 
 2. Pracę z grupą dzieci oraz pracę indywidualną z dzieckiem organizuje wychowawca.
 
@@ -1943,24 +1951,24 @@ Art. 201–225. (pominięte)
     - **g)** statut placówki opiekuńczo-wychowawczej lub jego projekt,
     - **h)** regulamin organizacyjny placówki opiekuńczo-wychowawczej lub jego projekt,
     - **i)** informację o sposobie finansowania placówki opiekuńczo-wychowawczej oraz o niezaleganiu w regulowaniu zobowiązań podatkowych i składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych,
-    - **j)** opinię Rzecznika Praw Dziecka o zasadności utworzenia placówki opiekuńczo-wychowawczej typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego w przypadku, o którym mowa w ust. 1a pkt 2.
+    - **j)** opinię Rzecznika Praw Dziecka o zasadności utworzenia placówki opiekuńczo-wychowawczej typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego – w przypadku, o którym mowa w ust. 1a pkt 2.
 
 5. Dokumenty, o których mowa w ust. 4 pkt 2 lit. f, są wymagane w przypadku, gdy wojewoda po przeprowadzeniu oględzin obiektu zażąda ich przedstawienia.
 
-5a. Wojewoda, wydając zezwolenie na prowadzenie placówki opiekuńczo-wychowawczej, kieruje się dobrem dziecka oraz przesłankami wskazującymi na brak możliwości zapewnienia dzieciom rodzinnej pieczy zastępczej, mimo podejmowanych działań na rzecz pozyskania kandydatów do prowadzenia rodzinnych form pieczy zastępczej.
+5a. Wojewoda, wydając zezwolenie na prowadzenie placówki opiekuńczowychowawczej, kieruje się dobrem dziecka oraz przesłankami wskazującymi na brak możliwości zapewnienia dzieciom rodzinnej pieczy zastępczej, mimo podejmowanych działań na rzecz pozyskania kandydatów do prowadzenia rodzinnych form pieczy zastępczej.
 
 6. Zezwolenie wydaje się po przeprowadzeniu oględzin obiektu, w którym placówka opiekuńczo-wychowawcza ma prowadzić działalność.
 
 7. Zezwolenie na prowadzenie placówki opiekuńczo-wychowawczej wydaje się na czas nieokreślony.
 
-7a. W zezwoleniu wojewoda określa liczbę miejsc w placówce opiekuńczo-wychowawczej, w tym liczbę miejsc przewidzianych dla każdego typu placówki w przypadku placówki opiekuńczo-wychowawczej łączącej zadania na podstawie art. 101 ust. 3.
+7a. W zezwoleniu wojewoda określa liczbę miejsc w placówce opiekuńczowychowawczej, w tym liczbę miejsc przewidzianych dla każdego typu placówki – w przypadku placówki opiekuńczo-wychowawczej łączącej zadania na podstawie art. 101 ust. 3.
 
 8. Po uzyskaniu zezwolenia placówka opiekuńczo-wychowawcza podlega wpisowi do rejestru placówek, o którym mowa w art. 186 pkt 1.
 
 9. Jeżeli podmiot, któremu wydano zezwolenie na prowadzenie placówki opiekuńczo-wychowawczej:
 
 - **1)** przestał spełniać warunki określone w ustawie i standardy usług określone w przepisach wydanych na podstawie art. 127,
-- **2)** nie przedstawi, na żądanie wojewody, w wyznaczonym terminie, aktualnych dokumentów, o których mowa w ust. 4 pkt 2 lit. b–g wojewoda wyznacza dodatkowy termin na spełnienie tych warunków lub standardów albo na dostarczenie wymaganych dokumentów lub informacji.
+- **2)** nie przedstawi, na żądanie wojewody, w wyznaczonym terminie, aktualnych dokumentów, o których mowa w ust. 4 pkt 2 lit. b–g – wojewoda wyznacza dodatkowy termin na spełnienie tych warunków lub standardów albo na dostarczenie wymaganych dokumentów lub informacji.
 
 10. Po bezskutecznym upływie dodatkowego terminu, o którym mowa w ust. 9, wojewoda cofa zezwolenie na prowadzenie placówki opiekuńczo-wychowawczej.
 
@@ -2040,10 +2048,13 @@ Art. 201–225. (pominięte)
 
 4. Zryczałtowana kwota, o której mowa w ust. 1 i 2, może zostać zwiększona o wydatki na:
 
-- **1)** dofinansowanie wypoczynku poza miejscem zamieszkania dziecka w wieku od 6. do 18. roku życia raz w roku;
+- **1)** dofinansowanie wypoczynku poza miejscem zamieszkania dziecka w wieku od
+
+6. do 18. roku życia – raz w roku;
+
 - **2)** pokrycie:
-    - **a)** niezbędnych wydatków związanych z potrzebami przyjmowanego dziecka jednorazowo,
-    - **b)** wydatków związanych z wystąpieniem zdarzeń losowych lub innych zdarzeń mających wpływ na jakość sprawowanej opieki jednorazowo lub okresowo.
+    - **a)** niezbędnych wydatków związanych z potrzebami przyjmowanego dziecka – jednorazowo,
+    - **b)** wydatków związanych z wystąpieniem zdarzeń losowych lub innych zdarzeń mających wpływ na jakość sprawowanej opieki – jednorazowo lub okresowo.
 
 **Art. 116.**
 
@@ -2090,11 +2101,11 @@ Art. 201–225. (pominięte)
 
 2. Monitoring może zostać wprowadzony przez dyrektora:
 
-- **1)** placówki opiekuńczo-wychowawczej w uzgodnieniu odpowiednio ze starostą albo kierownikiem podmiotu, któremu powiat zlecił prowadzenie placówki opiekuńczo-wychowawczej;
-- **2)** regionalnej placówki opiekuńczo-terapeutycznej w uzgodnieniu odpowiednio z marszałkiem województwa albo kierownikiem podmiotu, któremu samorząd województwa zlecił prowadzenie regionalnej placówki opiekuńczo-terapeutycznej;
-- **3)** interwencyjnego ośrodka preadopcyjnego w uzgodnieniu odpowiednio z marszałkiem województwa albo kierownikiem podmiotu, któremu samorząd województwa zlecił prowadzenie interwencyjnego ośrodka preadopcyjnego.
+- **1)** placówki opiekuńczo-wychowawczej – w uzgodnieniu odpowiednio ze starostą albo kierownikiem podmiotu, któremu powiat zlecił prowadzenie placówki opiekuńczo-wychowawczej;
+- **2)** regionalnej placówki opiekuńczo-terapeutycznej – w uzgodnieniu odpowiednio z marszałkiem województwa albo kierownikiem podmiotu, któremu samorząd województwa zlecił prowadzenie regionalnej placówki opiekuńczo-terapeutycznej;
+- **3)** interwencyjnego ośrodka preadopcyjnego – w uzgodnieniu odpowiednio z marszałkiem województwa albo kierownikiem podmiotu, któremu samorząd województwa zlecił prowadzenie interwencyjnego ośrodka preadopcyjnego.
 
-3. Monitoring nie stanowi środka nadzoru nad jakością wykonywania pracy przez pracowników placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej oraz interwencyjnego ośrodka preadopcyjnego.
+3. Monitoring nie stanowi środka nadzoru nad jakością wykonywania pracy przez pracowników placówki opiekuńczo--wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej oraz interwencyjnego ośrodka preadopcyjnego.
 
 4. Monitoring nie obejmuje pokoi mieszkalnych dzieci, pomieszczeń, w których odbywają się zajęcia dydaktyczne, wychowawcze i opiekuńcze, pomieszczeń, w których dzieciom jest udzielana pomoc psychologiczno-pedagogiczna, pomieszczeń przeznaczonych do odpoczynku i rekreacji dzieci lub osób zatrudnionych, pomieszczeń sanitarnohigienicznych, gabinetu profilaktyki zdrowotnej, szatni i przebieralni.
 
@@ -2108,7 +2119,7 @@ Art. 201–225. (pominięte)
 
 9. Dyrektor placówki opiekuńczo-wychowawczej, dyrektor regionalnej placówki opiekuńczo-terapeutycznej albo dyrektor interwencyjnego ośrodka preadopcyjnego przed dopuszczeniem osoby do wykonywania obowiązków służbowych informuje ją na piśmie o prowadzeniu monitoringu.
 
-10. W przypadku wprowadzenia monitoringu dyrektor placówki opiekuńczo-wychowawczej, dyrektor regionalnej placówki opiekuńczo-terapeutycznej albo dyrektor interwencyjnego ośrodka preadopcyjnego oznacza pomieszczenia i teren monitorowany w sposób widoczny i czytelny, za pomocą odpowiednich znaków lub ogłoszeń dźwiękowych, nie później niż dzień przed jego uruchomieniem.
+10. W przypadku wprowadzenia monitoringu dyrektor placówki opiekuńczowychowawczej, dyrektor regionalnej placówki opiekuńczo-terapeutycznej albo dyrektor interwencyjnego ośrodka preadopcyjnego oznacza pomieszczenia i teren monitorowany w sposób widoczny i czytelny, za pomocą odpowiednich znaków lub ogłoszeń dźwiękowych, nie później niż dzień przed jego uruchomieniem.
 
 11. Dyrektor placówki opiekuńczo-wychowawczej, dyrektor regionalnej placówki opiekuńczo-terapeutycznej albo dyrektor interwencyjnego ośrodka preadopcyjnego uzgadnia odpowiednio ze starostą albo z marszałkiem województwa, albo z odpowiednim podmiotem, o którym mowa w ust. 2, środki techniczne i organizacyjne w celu ochrony przechowywanych nagrań obrazu oraz danych osobowych dzieci, osób zatrudnionych i innych osób, które w wyniku tych nagrań można zidentyfikować, uzyskanych w wyniku monitoringu, a następnie wprowadza te środki techniczne.
 
@@ -2227,7 +2238,7 @@ Art. 201–225. (pominięte)
 
 5. Opinie, o których mowa w ust. 1 pkt 1–5, organizator rodzinnej pieczy zastępczej, zespół do spraw okresowej oceny sytuacji dziecka umieszczonego w instytucjonalnej pieczy zastępczej oraz dyrektor placówki opiekuńczo-wychowawczej typu rodzinnego przekazuje właściwemu ośrodkowi adopcyjnemu.
 
-**Art. 139b.** Do ocen oraz zastrzeżeń, o których mowa w niniejszym rozdziale, przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) nie stosuje się.
+**Art. 139b.** Do ocen oraz zastrzeżeń, o których mowa w niniejszym rozdziale, przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) nie stosuje się.
 
 ### DZIAŁ IV Pomoc dla osób usamodzielnianych
 
@@ -2251,19 +2262,23 @@ Art. 201–225. (pominięte)
 3. W przypadku gdy osoba usamodzielniana:
 
 - **1)** przebywa w domu pomocy społecznej albo placówce zapewniającej całodobową opiekę osobom niepełnosprawnym lub przewlekle chorym,
-- **2)** otrzymuje pomoc dla osób usamodzielnianych w rozumieniu przepisów o pomocy społecznej pomoc, o której mowa w ust. 1, nie przysługuje.
+- **2)** otrzymuje pomoc dla osób usamodzielnianych w rozumieniu przepisów o pomocy społecznej – pomoc, o której mowa w ust. 1, nie przysługuje.
 
 **Art. 141.**
 
 1. Pomoc na kontynuowanie nauki, na usamodzielnienie oraz na zagospodarowanie jest przyznawana osobie usamodzielnianej, która przebywała w pieczy zastępczej przez okres co najmniej:
 
-- **1)** 3 lat w przypadku osoby usamodzielnianej opuszczającej rodzinę zastępczą spokrewnioną;
-- **2)** roku w przypadku osoby usamodzielnianej opuszczającej rodzinę zastępczą niezawodową, rodzinę zastępczą zawodową, rodzinny dom dziecka, placówkę opiekuńczo-wychowawczą lub regionalną placówkę opiekuńczo-terapeutyczną.
+- **1)** 3 lat – w przypadku osoby usamodzielnianej opuszczającej rodzinę zastępczą spokrewnioną;
+- **2)** roku – w przypadku osoby usamodzielnianej opuszczającej rodzinę zastępczą niezawodową, rodzinę zastępczą zawodową, rodzinny dom dziecka, placówkę opiekuńczo-wychowawczą lub regionalną placówkę opiekuńczo-terapeutyczną.
 
 2. Do okresów pobytu w pieczy zastępczej, o których mowa w ust. 1, wlicza się również:
 
-- **1)** okresy pobytu w domu pomocy społecznej dla dzieci i młodzieży niepełnosprawnych intelektualnie, domu dla matek z małoletnimi dziećmi i kobiet w ciąży oraz w okręgowym ośrodku wychowawczym, zakładzie poprawczym, schronisku dla nieletnich, specjalnym ośrodku szkolno-wychowawczym, specjalnym ośrodku wychowawczym, młodzieżowym ośrodku socjoterapii, zapewniającym całodobową opiekę, i młodzieżowym ośrodku wychowawczym, jeżeli orzeczenie sądu o umieszczeniu w pieczy zastępczej nie zostało uchylone;
-- **2)** okres pobytu osoby pełnoletniej w rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej, na zasadach określonych w art. 37 ust. 2–6.
+- **1)** okresy pobytu w domu pomocy społecznej dla dzieci i młodzieży niepełnosprawnych intelektualnie, domu dla matek z małoletnimi dziećmi i kobiet w ciąży oraz w okręgowym ośrodku wychowawczym, zakładzie poprawczym, schronisku dla nieletnich, specjalnym ośrodku szkolnowychowawczym, specjalnym ośrodku wychowawczym, młodzieżowym ośrodku socjoterapii, zapewniającym całodobową opiekę, i młodzieżowym ośrodku wychowawczym, jeżeli orzeczenie sądu o umieszczeniu w pieczy zastępczej nie zostało uchylone;
+- **2)** okres pobytu osoby pełnoletniej w rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej, na zasadach określonych w art. 37 ust. 2– 6;
+- **3)** okres pobytu na terytorium Rzeczypospolitej Polskiej w zagranicznej instytucjonalnej pieczy zastępczej;
+- **4)** okres pobytu na terytorium Rzeczypospolitej Polskiej pod opieką opiekuna tymczasowego, o którym mowa w art. 113 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619, 621 i 1794 oraz z 2026 r. poz. 203), lub opiekuna wskazanego przez władze kraju pochodzenia, o którym mowa w art. 113a tej ustawy, jeżeli przed przybyciem na terytorium Rzeczypospolitej Polskiej małoletni był umieszczony w rodzinnej formie pieczy zastępczej na terytorium kraju pochodzenia i przybył do Rzeczypospolitej Polskiej z osobą sprawującą nad nim tę pieczę.
+
+**Art. 141a.** Pomoc, o której mowa w art. 141, przysługuje osobom, o których mowa w art. 2 pkt 14 lit. a i pkt 15 lit. a ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 142.** (uchylony)
 
@@ -2288,7 +2303,7 @@ Art. 201–225. (pominięte)
 
 2. Osoba usamodzielniana co najmniej rok przed osiągnięciem przez nią pełnoletności wskazuje osobę, która podejmuje się pełnienia funkcji opiekuna usamodzielnienia oraz przedstawia pisemną zgodę tej osoby.
 
-3. Opiekunem usamodzielnienia może być osoba tworząca rodzinę zastępczą, prowadząca rodzinny dom dziecka, koordynator rodzinnej pieczy zastępczej, pracownik socjalny powiatowego centrum pomocy rodzinie, osoba będąca w placówce opiekuńczo-wychowawczej albo regionalnej placówce opiekuńczo-terapeutycznej wychowawcą lub psychologiem, pracownik organizacji pozarządowej w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie lub inna osoba wyznaczona przez tę organizację do pełnienia funkcji opiekuna usamodzielnienia, lub inna osoba wskazana przez osobę usamodzielnianą i zaakceptowana przez kierownika powiatowego centrum pomocy rodzinie powiatu właściwego do ponoszenia wydatków na finansowanie pomocy na kontynuowanie nauki i usamodzielnienie.
+3. Opiekunem usamodzielnienia może być osoba tworząca rodzinę zastępczą, prowadząca rodzinny dom dziecka, koordynator rodzinnej pieczy zastępczej, pracownik socjalny powiatowego centrum pomocy rodzinie, osoba będąca w placówce opiekuńczo-wychowawczej albo regionalnej placówce opiekuńczoterapeutycznej wychowawcą lub psychologiem, pracownik organizacji pozarządowej w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie lub inna osoba wyznaczona przez tę organizację do pełnienia funkcji opiekuna usamodzielnienia, lub inna osoba wskazana przez osobę usamodzielnianą i zaakceptowana przez kierownika powiatowego centrum pomocy rodzinie powiatu właściwego do ponoszenia wydatków na finansowanie pomocy na kontynuowanie nauki i usamodzielnienie.
 
 4. Indywidualny program usamodzielnienia jest opracowywany przez osobę usamodzielnianą wspólnie z opiekunem usamodzielnienia co najmniej na miesiąc przed osiągnięciem przez osobę usamodzielnianą pełnoletności, a następnie jest zatwierdzany przez kierownika powiatowego centrum pomocy rodzinie powiatu właściwego do ponoszenia wydatków na finansowanie pomocy na kontynuowanie nauki i usamodzielnienie.
 
@@ -2297,7 +2312,7 @@ Art. 201–225. (pominięte)
 6. Osoba usamodzielniana wspólnie z opiekunem usamodzielnienia:
 
 - **1)** może dokonać, w przypadku zmiany sytuacji życiowej tej osoby,
-- **2)** dokonuje, w przypadkach, o których mowa w art. 37 ust. 4–6, po uzyskaniu zgody odpowiednio starosty albo marszałka województwa oraz zgody odpowiednio rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej zmian w indywidualnym programie usamodzielnienia.
+- **2)** dokonuje, w przypadkach, o których mowa w art. 37 ust. 4–6, po uzyskaniu zgody odpowiednio starosty albo marszałka województwa oraz zgody odpowiednio rodziny zastępczej, prowadzącego rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej albo dyrektora regionalnej placówki opiekuńczo-terapeutycznej – zmian w indywidualnym programie usamodzielnienia.
 
 6a. Zmiany indywidualnego programu usamodzielnienia wymagają zatwierdzenia przez kierownika powiatowego centrum pomocy rodzinie powiatu właściwego do ponoszenia wydatków na finansowanie pomocy na kontynuowanie nauki i usamodzielnienie.
 
@@ -2326,11 +2341,13 @@ Art. 201–225. (pominięte)
 5. W przypadku gdy po ukończeniu:
 
 - **1)** nauki w szkole ponadgimnazjalnej lub ponadpodstawowej osoba usamodzielniana została przyjęta w tym samym roku kalendarzowym na studia wyższe lub do zakładu kształcenia nauczycieli,
-- **2)** studiów pierwszego stopnia osoba usamodzielniana została przyjęta w tym samym roku kalendarzowym na studia drugiego stopnia pomoc, o której mowa w ust. 1, przysługuje także za wrzesień.
+- **2)** studiów pierwszego stopnia osoba usamodzielniana została przyjęta w tym samym roku kalendarzowym na studia drugiego stopnia – pomoc, o której mowa w ust. 1, przysługuje także za wrzesień.
 
 6. (uchylony)
 
 7. W przypadku gdy uprawnienie do pomocy na kontynuowanie nauki nie obejmuje pełnego miesiąca kalendarzowego, pomoc przyznaje się w wysokości proporcjonalnej do liczby dni w danym miesiącu kalendarzowym, w których przysługuje pomoc.
+
+**Art. 146a.** Do osób, o których mowa w art. 106 ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, opuszczających po osiągnięciu pełnoletności zagraniczną instytucjonalną pieczę zastępczą, które przebywały w zagranicznej instytucjonalnej pieczy zastępczej lub w zagranicznej rodzinnej pieczy zastępczej przez okres co najmniej roku oraz uczyły się w ramach polskiego systemu oświaty lub szkolnictwa wyższego stosuje się odpowiednio art. 38d–38f, art. 140–141, art. 143–153, art. 181 i art. 191.
 
 **Art. 147.** Pomoc na kontynuowanie nauki nie przysługuje w przypadku, gdy osoba usamodzielniana:
 
@@ -2347,11 +2364,11 @@ Art. 201–225. (pominięte)
 
 1. Wysokość pomocy na usamodzielnienie wynosi:
 
-- **1)** w przypadku osoby usamodzielnianej opuszczającej rodzinę zastępczą spokrewnioną nie mniej niż 3300 zł , jeżeli przebywała w pieczy zastępczej przez okres co najmniej 3 lat;
+- **1)** w przypadku osoby usamodzielnianej opuszczającej rodzinę zastępczą spokrewnioną – nie mniej niż 3300 zł , jeżeli przebywała w pieczy zastępczej przez okres co najmniej 3 lat;
 - **2)** w przypadku osoby usamodzielnianej opuszczającej rodzinę zastępczą niezawodową, rodzinę zastępczą zawodową, rodzinny dom dziecka, placówkę opiekuńczo-wychowawczą lub regionalną placówkę opiekuńczo-terapeutyczną:
-    - **a)** nie mniej niż 6600 zł jeżeli przebywała w pieczy zastępczej przez okres powyżej 3 lat,
-    - **b)** nie mniej niż 3300 zł jeżeli przebywała w pieczy zastępczej przez okres od 2 do 3 lat,
-    - **c)** nie mniej niż 1650 zł jeżeli przebywała w pieczy zastępczej przez okres poniżej 2 lat, nie krócej jednak niż przez okres roku.
+    - **a)** nie mniej niż 6600 zł – jeżeli przebywała w pieczy zastępczej przez okres powyżej 3 lat,
+    - **b)** nie mniej niż 3300 zł – jeżeli przebywała w pieczy zastępczej przez okres od 2 do 3 lat,
+    - **c)** nie mniej niż 1650 zł – jeżeli przebywała w pieczy zastępczej przez okres poniżej 2 lat, nie krócej jednak niż przez okres roku.
 
 2. Pomoc na usamodzielnienie może zostać wypłacona, w zależności od ustaleń indywidualnego programu usamodzielniania, jednorazowo lub w ratach, nie później jednak niż do ukończenia przez osobę usamodzielnianą 26. roku życia.
 
@@ -2399,7 +2416,7 @@ Art. 201–225. (pominięte)
 
 **Art. 155a.**
 
-1. Minister właściwy do spraw rodziny zapewnia system teleinformatyczny służący do prowadzenia procedur dotyczących spraw z zakresu przysposobienia dziecka i umożliwia dostęp do tego systemu marszałkom województw oraz ośrodkom adopcyjnym w celu realizacji ich zadań w zakresie procedur dotyczących spraw z zakresu przysposobienia dziecka, a także wojewodzie i zarządowi województwa w celu kontroli zapewnienia odpowiedniej jakości prowadzonych procedur przysposobienia.
+1. Minister właściwy do spraw rodziny zapewnia system teleinformatyczny służący do prowadzenia procedur dotyczących spraw z zakresu przysposobienia dziecka i umożliwia dostęp do tego systemu marszałkom województw oraz ośrodkom adopcyjnym – w celu realizacji ich zadań w zakresie procedur dotyczących spraw z zakresu przysposobienia dziecka, a także wojewodzie i zarządowi województwa – w celu kontroli zapewnienia odpowiedniej jakości prowadzonych procedur przysposobienia.
 
 2. Administratorami danych osobowych przetwarzanych w systemie, o którym mowa w ust. 1, są:
 
@@ -2435,7 +2452,7 @@ Art. 201–225. (pominięte)
 - **8)** prowadzenie działalności diagnostyczno-konsultacyjnej dla kandydatów do przysposobienia dziecka;
 - **9)** wspieranie psychologiczno-pedagogiczne kandydatów do przysposobienia dziecka oraz osób, które przysposobiły dziecko;
 - **10)** organizowanie szkoleń dla kandydatów do przysposobienia dziecka;
-- **11)** wydawanie świadectw ukończenia szkolenia dla kandydatów do przysposobienia dziecka, dokonywanie wstępnej oceny kandydatów do przysposobienia dziecka, sporządzanie opinii kwalifikacyjnej o kandydatach do przysposobienia dziecka oraz opinii, o której mowa w art. 586 § 4 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego;
+- **11)** wydawanie świadectw ukończenia szkolenia dla kandydatów do przysposobienia dziecka, dokonywanie wstępnej oceny kandydatów do przysposobienia dziecka, sporządzanie opinii kwalifikacyjnej o kandydatach do przysposobienia dziecka oraz opinii, o której mowa w art. 586 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
 - **11a)** prowadzenie szkoleń dla kandydatów do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka oraz wydawanie świadectw ukończenia tych szkoleń;
 - **11b)** prowadzenie szkoleń dla kandydatów do pełnienia funkcji dyrektora placówki opiekuńczo-wychowawczej typu rodzinnego oraz wydawanie świadectw ukończenia tych szkoleń;
 - **12)** zapewnienie pomocy psychologicznej kobietom w ciąży oraz pacjentkom oddziałów ginekologiczno-położniczych, które sygnalizują zamiar pozostawienia dziecka bezpośrednio po urodzeniu;
@@ -2460,7 +2477,7 @@ Art. 201–225. (pominięte)
 - **1)** posiada tytuł zawodowy magistra na kierunku psychologia, socjologia, pedagogika, nauki o rodzinie lub prawo;
 - **2)** posiada co najmniej 3-letni staż pracy w instytucji zajmującej się pracą z dziećmi lub rodziną;
 - **3)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie jest jej zawieszona ani ograniczona;
-- **4)** wypełnia obowiązek alimentacyjny w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
+- **4)** wypełnia obowiązek alimentacyjny – w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
 - **5)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **6)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym.
 
@@ -2476,7 +2493,7 @@ Art. 201–225. (pominięte)
 
 - **2)** posiada co najmniej roczne doświadczenie w zakresie pracy z dzieckiem lub rodziną;
 - **3)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie jest jej zawieszona ani ograniczona;
-- **4)** wypełnia obowiązek alimentacyjny w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
+- **4)** wypełnia obowiązek alimentacyjny – w przypadku gdy taki obowiązek w stosunku do niej wynika z tytułu egzekucyjnego;
 - **5)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **6)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym.
 
@@ -2519,7 +2536,7 @@ Art. 201–225. (pominięte)
 - **2)** obywatelstwo;
 - **3)** adres miejsca zamieszkania i zwykłego pobytu;
 - **3a)** data urodzenia;
-- **3b)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość;
+- **3b)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość;
 - **4)** stan cywilny;
 - **4a)** pozbawienie, zawieszenie lub ograniczenie władzy rodzicielskiej;
 - **5)** wykształcenie;
@@ -2530,8 +2547,8 @@ Art. 201–225. (pominięte)
 - **10)** dane o stanie zdrowia niezbędne do stwierdzenia, że osoba może sprawować właściwą opiekę nad dzieckiem, wynikające z zaświadczenia lekarskiego o stanie zdrowia wystawionego przez lekarza podstawowej opieki zdrowotnej;
 - **11)** informację o niekaralności z Krajowego Rejestru Karnego;
 - **12)** figurowanie albo niefigurowanie w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym;
-- **13)** dzieci pozostające na utrzymaniu, w tym pod władzą rodzicielską, wraz z danymi o ich wieku, stanie zdrowia i rozwoju w celu doboru rodziny przysposabiającej właściwej ze względu na potrzeby dziecka;
-- **14)** wyznanie i pochodzenie etniczne w celu doboru rodziny przysposabiającej właściwej ze względu na potrzeby dziecka;
+- **13)** dzieci pozostające na utrzymaniu, w tym pod władzą rodzicielską, wraz z danymi o ich wieku, stanie zdrowia i rozwoju – w celu doboru rodziny przysposabiającej właściwej ze względu na potrzeby dziecka;
+- **14)** wyznanie i pochodzenie etniczne – w celu doboru rodziny przysposabiającej właściwej ze względu na potrzeby dziecka;
 - **15)** dobrowolnie przedłożone przez kandydata referencje;
 - **16)** stosunek pokrewieństwa lub powinowactwa ze zgłoszonymi do przysposobienia dziećmi;
 - **17)** numer telefonu i adres poczty elektronicznej;
@@ -2542,7 +2559,7 @@ Art. 201–225. (pominięte)
 - **1)** imię i nazwisko dziecka;
 - **2)** adres miejsca zamieszkania dziecka;
 - **3)** datę i miejsce urodzenia dziecka;
-- **3a)** numer PESEL dziecka, a w przypadku gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość;
+- **3a)** numer PESEL dziecka, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość;
 - **4)** dane dotyczące sytuacji prawnej oraz aktualnego miejsca pobytu dziecka, w tym dane wynikające z orzeczenia o ustanowieniu opiekuna prawnego oraz dane wynikające z postanowienia potwierdzającego uregulowanie sytuacji prawnej dziecka;
 - **5)** szczegółowy opis przebiegu pobytu dziecka w pieczy zastępczej, zawierający również daty umieszczenia dziecka w pieczy zastępczej;
 - **6)** dane o stanie zdrowia i rozwoju dziecka;
@@ -2553,7 +2570,7 @@ Art. 201–225. (pominięte)
 - **11)** dane dotyczące stanu zdrowia rodziców dziecka oraz inne dotyczące ich informacje mające wpływ na zdrowie dziecka;
 - **12)** informacje na temat utrzymywania przez rodzinę biologiczną kontaktów z dzieckiem;
 - **13)** dane dotyczące rodzeństwa dziecka w zakresie imienia, nazwiska, daty i miejsca urodzenia, sytuacji prawnej oraz aktualnego miejsca pobytu;
-- **14)** wyznanie i pochodzenie etniczne dziecka w celu doboru rodziny przysposabiającej właściwej ze względu na potrzeby dziecka;
+- **14)** wyznanie i pochodzenie etniczne dziecka – w celu doboru rodziny przysposabiającej właściwej ze względu na potrzeby dziecka;
 - **15)** wizerunek dziecka.
 
 4. W celu realizacji zadań, o których mowa w art. 156 ust. 1, ośrodki adopcyjne mają prawo do uzyskania informacji oraz otrzymania lub wglądu do wszelkiej dostępnej dokumentacji dotyczących dziecka, w tym prawnej i medycznej.
@@ -2596,7 +2613,7 @@ Art. 201–225. (pominięte)
 
 - **1)** dokument potwierdzający zakwalifikowanie dziecka do przysposobienia krajowego,
 - **2)** kartę dziecka,
-- **3)** opinie i dokumentację, o których mowa w art. 139a zwane dalej „dokumentacją kwalifikacyjną”.
+- **3)** opinie i dokumentację, o których mowa w art. 139a – zwane dalej „dokumentacją kwalifikacyjną”.
 
 7. Ośrodek adopcyjny prowadzący wojewódzki bank danych, o którym mowa w ust. 6, w terminie 3 dni roboczych od dnia otrzymania dokumentacji kwalifikacyjnej, przekazuje tę dokumentację ośrodkom adopcyjnym na terenie województwa oraz ośrodkom adopcyjnym prowadzącym wojewódzkie banki danych w pozostałych województwach.
 
@@ -2606,7 +2623,7 @@ Art. 201–225. (pominięte)
 
 10. W przypadku nieznalezienia kandydata do przysposobienia dziecka w terminie 55 dni od dnia wysłania przez ośrodek adopcyjny prowadzący wojewódzki bank danych, o którym mowa w ust. 6, dokumentacji kwalifikacyjnej do ośrodków adopcyjnych na terenie województwa oraz do ośrodków adopcyjnych prowadzących wojewódzkie banki danych w pozostałych województwach, ośrodek adopcyjny prowadzący wojewódzki bank danych, o którym mowa w ust. 6, w terminie 3 dni roboczych, przekazuje dokumentację kwalifikacyjną dziecka ośrodkowi adopcyjnemu prowadzącemu centralny bank danych.
 
-10a. Ośrodek adopcyjny odpowiedzialny za kwalifikację dziecka do przysposobienia krajowego jest obowiązany do analizy sytuacji dziecka nie rzadziej niż co 3 miesiące w przypadku dzieci w wieku poniżej 3. roku życia, a w przypadku dzieci w wieku powyżej 3. roku życia nie rzadziej niż co 6 miesięcy. W przypadku zmian w sytuacji dziecka ośrodek adopcyjny odpowiedzialny za kwalifikację dziecka do przysposobienia krajowego aktualizuje dokumentację kwalifikacyjną i przesyła ją do właściwego miejscowo ośrodka adopcyjnego prowadzącego wojewódzki bank danych oraz do centralnego banku danych. Właściwe miejscowo ośrodki adopcyjne są obowiązane do uzupełnienia dotychczasowej dokumentacji o zaktualizowaną dokumentację kwalifikacyjną. Przepis ust. 7 stosuje się odpowiednio.
+10a. Ośrodek adopcyjny odpowiedzialny za kwalifikację dziecka do przysposobienia krajowego jest obowiązany do analizy sytuacji dziecka nie rzadziej niż co 3 miesiące – w przypadku dzieci w wieku poniżej 3. roku życia, a w przypadku dzieci w wieku powyżej 3. roku życia – nie rzadziej niż co 6 miesięcy. W przypadku zmian w sytuacji dziecka ośrodek adopcyjny odpowiedzialny za kwalifikację dziecka do przysposobienia krajowego aktualizuje dokumentację kwalifikacyjną i przesyła ją do właściwego miejscowo ośrodka adopcyjnego prowadzącego wojewódzki bank danych oraz do centralnego banku danych. Właściwe miejscowo ośrodki adopcyjne są obowiązane do uzupełnienia dotychczasowej dokumentacji o zaktualizowaną dokumentację kwalifikacyjną. Przepis ust. 7 stosuje się odpowiednio.
 
 11. Ośrodek adopcyjny prowadzący centralny bank danych, na podstawie opinii, o której mowa w art. 139a ust. 1 pkt 3, w terminie 7 dni roboczych od dnia otrzymania dokumentacji kwalifikacyjnej, dokonuje kwalifikacji dziecka do przysposobienia międzynarodowego oraz sporządza dokument potwierdzający zakwalifikowanie dziecka do przysposobienia międzynarodowego. Dokonując kwalifikacji dziecka do przysposobienia międzynarodowego, ośrodek adopcyjny prowadzący centralny bank danych może zasięgać opinii ministra właściwego do spraw rodziny.
 
@@ -2640,7 +2657,7 @@ Art. 201–225. (pominięte)
 - **1)** imię i nazwisko dziecka;
 - **2)** adres miejsca zamieszkania dziecka;
 - **3)** datę i miejsce urodzenia dziecka;
-- **3a)** numer PESEL dziecka, a w przypadku gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość;
+- **3a)** numer PESEL dziecka, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość;
 - **4)** dane dotyczące sytuacji prawnej oraz aktualnego miejsca pobytu dziecka, w tym dane wynikające z orzeczenia o ustanowieniu opiekuna prawnego oraz dane wynikające z postanowienia potwierdzającego uregulowanie sytuacji prawnej dziecka;
 - **5)** szczegółowy opis przebiegu pobytu dziecka w pieczy zastępczej, zawierający również daty umieszczenia dziecka w pieczy zastępczej;
 - **6)** dane o stanie zdrowia i rozwoju dziecka;
@@ -2682,7 +2699,7 @@ Art. 201–225. (pominięte)
 - **2)** analizę całościowej sytuacji dziecka w celu zbadania, czy przysposobienie międzynarodowe leży w jego najlepszym interesie, dokonywaną na podstawie opinii, o której mowa w art. 139a ust. 1 pkt 3;
 - **3)** analizę prawidłowości prowadzenia poszukiwania kandydata do przysposobienia na terenie kraju.
 
-2. Przy kwalifikowaniu dziecka do przysposobienia ośrodek adopcyjny współpracuje w szczególności z asystentem rodziny, a w przypadku gdy rodzinie dziecka nie został przydzielony asystent rodziny z podmiotem organizującym pracę z rodziną, koordynatorem rodzinnej pieczy zastępczej, organizatorem rodzinnej pieczy zastępczej, placówkami opiekuńczo-wychowawczymi, regionalnymi placówkami opiekuńczo-terapeutycznymi, interwencyjnymi ośrodkami preadopcyjnymi, podmiotami leczniczymi, placówkami oświatowymi, jednostkami organizacyjnymi pomocy społecznej, sądami oraz Policją.
+2. Przy kwalifikowaniu dziecka do przysposobienia ośrodek adopcyjny współpracuje w szczególności z asystentem rodziny, a w przypadku gdy rodzinie dziecka nie został przydzielony asystent rodziny – z podmiotem organizującym pracę z rodziną, koordynatorem rodzinnej pieczy zastępczej, organizatorem rodzinnej pieczy zastępczej, placówkami opiekuńczo-wychowawczymi, regionalnymi placówkami opiekuńczo-terapeutycznymi, interwencyjnymi ośrodkami preadopcyjnymi, podmiotami leczniczymi, placówkami oświatowymi, jednostkami organizacyjnymi pomocy społecznej, sądami oraz Policją.
 
 **Art. 166a.**
 
@@ -2705,7 +2722,7 @@ Art. 201–225. (pominięte)
 
 **Art. 169.**
 
-1. Po ukończeniu szkolenia, o którym mowa w art. 172 ust. 1, i otrzymaniu pozytywnej opinii kwalifikacyjnej o kandydatach do przysposobienia oraz zakwalifikowaniu dziecka do przysposobienia, ośrodek adopcyjny udostępnia informacje o dziecku tym kandydatom oraz umożliwia im kontakt z dzieckiem. Nie dotyczy to osoby przysposabiającego, o której mowa w art. 119 ustawy z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy.
+1. Po ukończeniu szkolenia, o którym mowa w art. 172 ust. 1, i otrzymaniu pozytywnej opinii kwalifikacyjnej o kandydatach do przysposobienia oraz zakwalifikowaniu dziecka do przysposobienia, ośrodek adopcyjny udostępnia informacje o dziecku tym kandydatom oraz umożliwia im kontakt z dzieckiem. Nie dotyczy to osoby przysposabiającego, o której mowa w art. 119 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy.
 
 2. W przypadku gdy kandydat do przysposobienia dziecka zamieszkuje poza granicami Rzeczypospolitej Polskiej, podmioty, o których mowa w art. 168 ust. 2:
 
@@ -2718,7 +2735,7 @@ Art. 201–225. (pominięte)
 
 - **1)** osoby spokrewnione lub spowinowacone z dzieckiem,
 - **2)** rodzina zastępcza lub prowadzący rodzinny dom dziecka, w których dziecko jest umieszczone,
-- **3)** osoby, które już przysposobiły brata lub siostrę małoletniego ośrodek adopcyjny nie wszczyna postępowania w zakresie poszukiwania kandydatów do przysposobienia dziecka, o którym mowa w art. 164 ust. 5–9 i 15, a wszczęte zawiesza.
+- **3)** osoby, które już przysposobiły brata lub siostrę małoletniego – ośrodek adopcyjny nie wszczyna postępowania w zakresie poszukiwania kandydatów do przysposobienia dziecka, o którym mowa w art. 164 ust. 5–9 i 15, a wszczęte zawiesza.
 
 2. Wszczęcie lub podjęcie postępowania, o którym mowa w art. 164, następuje, jeżeli osoby, o których mowa w ust. 1, nie uzyskają pozytywnej wstępnej oceny ośrodka adopcyjnego.
 
@@ -2738,7 +2755,7 @@ Art. 201–225. (pominięte)
 
 - **1)** spokrewnionych albo spowinowaconych z dzieckiem lub
 - **2)** którzy wcześniej przysposobili rodzeństwo dziecka, lub
-- **3)** sprawujących nad dzieckiem rodzinną pieczę zastępczą, z wyjątkiem osób lub małżonków, niespełniających warunków dotyczących rodzin zastępczych w zakresie niezbędnych szkoleń, którym sąd powierzył tymczasowo pełnienie funkcji rodziny zastępczej na podstawie art. 109 § 2 pkt 5 ustawy z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy.
+- **3)** sprawujących nad dzieckiem rodzinną pieczę zastępczą, z wyjątkiem osób lub małżonków, niespełniających warunków dotyczących rodzin zastępczych w zakresie niezbędnych szkoleń, którym sąd powierzył tymczasowo pełnienie funkcji rodziny zastępczej na podstawie art. 109 § 2 pkt 5 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy.
 
 3. Program szkolenia kandydatów do przysposobienia dziecka zatwierdza, na okres pięciu lat, minister właściwy do spraw rodziny, na wniosek podmiotu prowadzącego szkolenie.
 
@@ -2746,7 +2763,7 @@ Art. 201–225. (pominięte)
 
 5. Przed skierowaniem kandydata do przysposobienia dziecka na szkolenie ośrodek adopcyjny dokonuje jego wstępnej oceny, z uwzględnieniem:
 
-- **1)** kwalifikacji osobistych, o których mowa w art. 114 ustawy z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy;
+- **1)** kwalifikacji osobistych, o których mowa w art. 114 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy;
 - **2)** motywacji do podjęcia się wychowywania dziecka;
 - **3)** wywiadu adopcyjnego.
 
@@ -2759,12 +2776,12 @@ Art. 201–225. (pominięte)
 
 7. Do wniosku dołącza się odpowiednio:
 
-- **1)** odpis zupełny aktu małżeństwa, a w przypadku osoby niepozostającej w związku małżeńskim odpis zupełny aktu urodzenia;
+- **1)** odpis zupełny aktu małżeństwa, a w przypadku osoby niepozostającej w związku małżeńskim – odpis zupełny aktu urodzenia;
 - **2)** zdjęcie;
 - **3)** zaświadczenie o niekaralności z Krajowego Rejestru Karnego;
 - **4)** zaświadczenie lekarskie o stanie zdrowia wystawione przez lekarza podstawowej opieki zdrowotnej zawierające dane o stanie zdrowia niezbędne do stwierdzenia, że dana osoba może sprawować właściwą opiekę nad dzieckiem;
 - **5)** zaświadczenie o zatrudnieniu, oświadczenie o wykonywaniu działalności gospodarczej, oświadczenie o przychodowości gospodarstwa rolnego, a w przypadku osób pobierających emeryturę lub rentę kopię decyzji ustalającej prawo do emerytury lub renty, ze wskazaniem wysokości osiąganych z tych tytułów dochodów;
-- **6)** odpisy aktów stanu cywilnego potwierdzające stosunek pokrewieństwa lub powinowactwa ze zgłoszonym do przysposobienia dzieckiem o ile taki stosunek istnieje;
+- **6)** odpisy aktów stanu cywilnego potwierdzające stosunek pokrewieństwa lub powinowactwa ze zgłoszonym do przysposobienia dzieckiem – o ile taki stosunek istnieje;
 - **7)** oświadczenia dotyczące pozbawienia, zawieszenia lub ograniczenia władzy rodzicielskiej.
 
 8. Informacje składane przez kandydata do przysposobienia dziecka są składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Przedstawiający informacje jest obowiązany do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
@@ -2773,7 +2790,7 @@ Art. 201–225. (pominięte)
 
 10. Po przeprowadzeniu wstępnej oceny kandydata do przysposobienia dziecka ośrodek adopcyjny sporządza dokument potwierdzający przeprowadzenie wstępnej oceny, który zawiera w szczególności wskazanie, czy wstępna ocena jest pozytywna czy negatywna. Dokument potwierdzający przeprowadzenie wstępnej oceny jest wydawany pisemnie w postaci papierowej lub elektronicznej.
 
-11. W przypadku gdy wstępna ocena kandydata do przysposobienia dziecka jest negatywna, w dokumencie potwierdzającym przeprowadzenie wstępnej oceny ośrodek adopcyjny szczegółowo uzasadnia przyczyny negatywnej wstępnej oceny i wskazuje obszary wymagające poprawy, z jednoczesnym pouczeniem strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+11. W przypadku gdy wstępna ocena kandydata do przysposobienia dziecka jest negatywna, w dokumencie potwierdzającym przeprowadzenie wstępnej oceny ośrodek adopcyjny szczegółowo uzasadnia przyczyny negatywnej wstępnej oceny i wskazuje obszary wymagające poprawy, z jednoczesnym pouczeniem strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 **Art. 172a.**
 
@@ -2792,7 +2809,7 @@ Art. 201–225. (pominięte)
 
 4. Kandydat do przysposobienia dziecka jest obowiązany do niezwłocznego informowania ośrodka adopcyjnego o każdej zmianie istotnych okoliczności mających wpływ na uzyskanie kwalifikacji do przysposobienia dziecka.
 
-5. W przypadku wydania negatywnej opinii kwalifikacyjnej opinia ta zawiera szczegółowe uzasadnienie przyczyn wydania negatywnej opinii i ewentualne wskazanie obszarów wymagających poprawy, z jednoczesnym pouczeniem strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+5. W przypadku wydania negatywnej opinii kwalifikacyjnej opinia ta zawiera szczegółowe uzasadnienie przyczyn wydania negatywnej opinii i ewentualne wskazanie obszarów wymagających poprawy, z jednoczesnym pouczeniem strony o przysługującym prawie wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 **Art. 172b.** Minister właściwy do spraw rodziny może określić oraz zamieścić w Biuletynie Informacji Publicznej wzór opinii kwalifikacyjnej o kandydatach do przysposobienia dziecka.
 
@@ -2884,9 +2901,9 @@ Art. 201–225. (pominięte)
 1. Do zadań wojewody należy:
 
 - **1)** wprowadzanie danych do rejestru, o którym mowa w art. 38d ust. 1, ich aktualizacja i usuwanie;
-- **2)** wydawanie i cofanie zezwoleń na prowadzenie placówek opiekuńczo-wychowawczych, regionalnych placówek opiekuńczo-terapeutycznych i interwencyjnych ośrodków preadopcyjnych;
+- **2)** wydawanie i cofanie zezwoleń na prowadzenie placówek opiekuńczowychowawczych, regionalnych placówek opiekuńczo-terapeutycznych i interwencyjnych ośrodków preadopcyjnych;
 - **3)** kontrola:
-    - **a)** w tym przy użyciu systemów, o których mowa w art. 38d ust. 2 i art. 155a ust. 1, nad realizacją zadań z zakresu wspierania rodziny, pieczy zastępczej, usamodzielnień pełnoletnich wychowanków i adopcji wykonywanych przez: jednostki samorządu terytorialnego, jednostki organizacyjne wspierania rodziny i systemu pieczy zastępczej zwane dalej „kontrolowanymi jednostkami”,
+    - **a)** w tym przy użyciu systemów, o których mowa w art. 38d ust. 2 i art. 155a ust. 1, nad realizacją zadań z zakresu wspierania rodziny, pieczy zastępczej, usamodzielnień pełnoletnich wychowanków i adopcji wykonywanych przez: – jednostki samorządu terytorialnego, – jednostki organizacyjne wspierania rodziny i systemu pieczy zastępczej – zwane dalej „kontrolowanymi jednostkami”,
     - **b)** nad zgodnością zatrudnienia pracowników jednostek organizacyjnych wspierania rodziny i systemu pieczy zastępczej z wymaganymi kwalifikacjami;
 
 - **3a)** zasięganie informacji o sposobie realizacji zadań wynikających z niniejszej ustawy przez samorząd gminny, powiatowy i województwa;
@@ -2895,8 +2912,8 @@ Art. 201–225. (pominięte)
 - **4)** (uchylony)
 - **5)** (uchylony)
 - **6)** gromadzenie sprawozdań rzeczowo-finansowych z zakresu wspierania rodziny i systemu pieczy zastępczej przekazanych przez gminy, powiaty i samorządy województw oraz przekazywanie, sporządzonych zgodnie ze wzorami udostępnionymi drogą elektroniczną przez ministra właściwego do spraw rodziny, zbiorczych sprawozdań z wykonywania zadań przez gminy, powiaty i samorządy województw ministrowi właściwemu do spraw rodziny, w wersji elektronicznej, z zastosowaniem systemu teleinformatycznego, o którym mowa w art. 187 ust. 3, w terminie:
-    - **a)** do dnia 20 lutego danego roku za okres od dnia 1 lipca do dnia 31 grudnia poprzedniego roku,
-    - **b)** do dnia 20 sierpnia danego roku za okres od dnia 1 stycznia do dnia 30 czerwca danego roku;
+    - **a)** do dnia 20 lutego danego roku – za okres od dnia 1 lipca do dnia 31 grudnia poprzedniego roku,
+    - **b)** do dnia 20 sierpnia danego roku – za okres od dnia 1 stycznia do dnia 30 czerwca danego roku;
 
 - **7)** współdziałanie z ministrem właściwym do spraw rodziny przy opracowywaniu, realizacji i finansowaniu programów wspierania rodziny i systemu pieczy zastępczej.
 
@@ -2955,15 +2972,17 @@ Art. 201–225. (pominięte)
 
 - **1)** realizacja i obsługa świadczeń przyznanych na podstawie programu, o którym mowa w ust. 1, w tym w szczególności:
     - **a)** składanie wniosku i załączników do wniosku o przyznanie świadczeń, a także wnoszenie innych pism w sprawie świadczeń,
-    - **b)** doręczanie decyzji, informacji, postanowień, zawiadomień, wezwań, zaświadczeń i innych pism w sprawie świadczeń odbywają się wyłącznie w drodze elektronicznej, za pomocą systemów teleinformatycznych określonych w przepisach wydanych na podstawie ust. 2;
+    - **b)** doręczanie decyzji, informacji, postanowień, zawiadomień, wezwań, zaświadczeń i innych pism w sprawie świadczeń – odbywają się wyłącznie w drodze elektronicznej, za pomocą systemów teleinformatycznych określonych w przepisach wydanych na podstawie ust. 2;
 
-- **2)** decyzje, informacje, postanowienia, zawiadomienia, wezwania, zaświadczenia i inne pisma w sprawie świadczeń przyznanych na podstawie programu, o którym mowa w ust. 1, opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym, kwalifikowaną pieczęcią elektroniczną organu realizującego świadczenia albo zamieszcza się w nich imię, nazwisko i stanowisko służbowe osoby upoważnionej do ich wydania.
+- **2)** decyzje, informacje, postanowienia, zawiadomienia, wezwania, zaświadczenia i inne pisma w sprawie świadczeń przyznanych na podstawie programu, o którym mowa w ust. 1, opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym, kwalifikowaną pieczęcią elektroniczną organu realizującego świadczenia albo zamieszcza się w nich imię, nazwisko i stanowisko służbowe osoby upoważnionej do ich wydania;
+- **3)** prawo do świadczeń przyznanych na podstawie programu, o którym mowa w ust. 1, przysługuje tylko tym cudzoziemcom, o których mowa w art. 5 ust. 1 pkt 3–5, którzy spełniają warunki dotyczące aktywności zawodowej lub podlegania ubezpieczeniu zdrowotnemu, wymagane zgodnie z ustawą z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576 oraz z 2025 r. poz. 619 i 1301);
+- **4)** prawo do świadczeń przyznanych na podstawie programu, o którym mowa w ust. 1, przysługuje tylko tym cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie art. 106 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej lub przepisów wydanych na podstawie art. 107 ust. 1 tej ustawy, o ile posiadają numer PESEL ze statusem UKR, o którym mowa w art. 8 pkt 24a lit. d ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274, z późn. zm. ), którzy spełniają warunki dotyczące aktywności zawodowej lub podlegania ubezpieczeniu zdrowotnemu, wymagane zgodnie z ustawą z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci.
 
 2b. Składanie wniosku i załączników do wniosku o przyznanie świadczeń na podstawie programu, o którym mowa w ust. 1, a także wnoszenie innych pism w sprawie tych świadczeń, doręczanie decyzji, informacji, postanowień, zawiadomień, wezwań, zaświadczeń i innych pism w sprawie świadczeń na podstawie programu, o którym mowa w ust. 1, odbywają się wyłącznie w drodze elektronicznej, jeżeli Rada Ministrów tak postanowi w przepisach wydanych na podstawie ust. 2.
 
 2c. W przypadku gdy Rada Ministrów postanowi, że składanie wniosku i załączników do wniosku o przyznanie świadczeń na podstawie programu, o którym mowa w ust. 1, wnoszenie innych pism w sprawie tych świadczeń lub doręczanie decyzji, informacji, postanowień, zawiadomień, wezwań, zaświadczeń i innych pism w sprawie świadczeń na podstawie programu, o którym mowa w ust. 1, odbywa się wyłącznie w drodze elektronicznej:
 
-- **1)** w zakresie tym przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się;
+- **1)** w zakresie tym przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się;
 - **2)** organ realizujący świadczenia przyznane na podstawie programu, o którym mowa w ust. 1, jest obowiązany do zapewnienia, w swojej siedzibie, oddziale lub innej wyznaczonej jednostce organizacyjnej, dostępu do środków technicznych umożliwiających złożenie wniosku i załączników do wniosku o przyznanie świadczeń na podstawie programu, o którym mowa w ust. 1, wnoszenie innych pism w sprawie tych świadczeń oraz odbiór decyzji, informacji, postanowień, zawiadomień, wezwań, zaświadczeń i innych pism w sprawie tych świadczeń, a także do zapewnienia pomocy przy wnoszeniu i odbiorze tych dokumentów.
 
 2d. W przypadku gdy organem realizującym świadczenia przyznane na podstawie programu, o którym mowa w ust. 1, jest Zakład Ubezpieczeń Społecznych, organem wyższego stopnia w stosunku do Zakładu Ubezpieczeń Społecznych jest Prezes Zakładu Ubezpieczeń Społecznych.
@@ -2978,13 +2997,13 @@ Art. 201–225. (pominięte)
 
 5. (uchylony)
 
-6. Do rozpoznawania spraw sądowoadministracyjnych, w rozumieniu ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi, dotyczących świadczeń przyznanych na podstawie programu, o którym mowa w ust. 1, jest właściwy wojewódzki sąd administracyjny, na którego obszarze właściwości ma miejsce zamieszkania osoba ubiegająca się o świadczenia przyznane na podstawie programu, o którym mowa w ust. 1.
+6. Do rozpoznawania spraw sądowoadministracyjnych, w rozumieniu ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, dotyczących świadczeń przyznanych na podstawie programu, o którym mowa w ust. 1, jest właściwy wojewódzki sąd administracyjny, na którego obszarze właściwości ma miejsce zamieszkania osoba ubiegająca się o świadczenia przyznane na podstawie programu, o którym mowa w ust. 1.
 
 7. W celu realizacji programu, o którym mowa w ust. 1, Prezes Rady Ministrów może dokonać, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, między częściami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
 
 **Art. 187b.**
 
-- **12)** 1. Rada Ministrów może przyjąć rządowy program dofinansowania wynagrodzeń oraz kosztów składek od tych wynagrodzeń pracowników określonych w tym programie, zatrudnionych w jednostkach organizacyjnych wspierania rodziny i systemu pieczy zastępczej prowadzonych przez jednostki samorządu terytorialnego lub na ich zlecenie.
+1. Rada Ministrów może przyjąć rządowy program dofinansowania wynagrodzeń oraz kosztów składek od tych wynagrodzeń pracowników określonych w tym programie, zatrudnionych w jednostkach organizacyjnych wspierania rodziny i systemu pieczy zastępczej prowadzonych przez jednostki samorządu terytorialnego lub na ich zlecenie.
 
 2. Dofinansowanie wynagrodzeń, o którym mowa w ust. 1, może być wypłacane także w formie dodatku motywacyjnego.
 
@@ -3036,7 +3055,7 @@ Art. 201–225. (pominięte)
 5a. W przypadku gdy:
 
 - **1)** z mogącą przyjąć dziecko rodziną zastępczą niezawodową została zawarta umowa o pełnienie funkcji rodziny zastępczej zawodowej przez starostę powiatu innego niż powiat właściwy ze względu na miejsce zamieszkania tej rodziny,
-- **2)** mogący przyjąć dziecko rodzinny dom dziecka jest organizowany na terenie innego powiatu porozumienie w sprawie przyjęcia dziecka oraz warunków jego pobytu i wysokości wydatków, o których mowa w ust. 1 pkt 1 i 2, oraz kosztów objęcia rodziny zastępczej lub rodzinnego domu dziecka opieką koordynatora rodzinnej pieczy zastępczej zawiera z powiatem, o którym mowa w ust. 1–4, odpowiednio powiat, którego starosta zawarł umowę, chyba że porozumienie, o którym mowa w art. 54 ust. 3b, stanowi inaczej, albo powiat, który organizuje rodzinny dom dziecka na terenie innego powiatu, chyba że porozumienie, o którym mowa w art. 60 ust. 3, stanowi inaczej.
+- **2)** mogący przyjąć dziecko rodzinny dom dziecka jest organizowany na terenie innego powiatu – porozumienie w sprawie przyjęcia dziecka oraz warunków jego pobytu i wysokości wydatków, o których mowa w ust. 1 pkt 1 i 2, oraz kosztów objęcia rodziny zastępczej lub rodzinnego domu dziecka opieką koordynatora rodzinnej pieczy zastępczej zawiera z powiatem, o którym mowa w ust. 1–4, odpowiednio powiat, którego starosta zawarł umowę, chyba że porozumienie, o którym mowa w art. 54 ust. 3b, stanowi inaczej, albo powiat, który organizuje rodzinny dom dziecka na terenie innego powiatu, chyba że porozumienie, o którym mowa w art. 60 ust. 3, stanowi inaczej.
 
 5b. Powiat, o którym mowa w ust. 1–4, jest obowiązany do zawarcia porozumienia, o którym mowa w ust. 5 i 5a.
 
@@ -3051,19 +3070,19 @@ Art. 201–225. (pominięte)
 
 9. W przypadku umieszczenia dziecka w rodzinie zastępczej albo rodzinnym domu dziecka gmina właściwa ze względu na miejsce zamieszkania dziecka przed umieszczeniem go po raz pierwszy w pieczy zastępczej ponosi odpowiednio wydatki, o których mowa w ust. 1 pkt 1, w wysokości:
 
-- **1)** 10 % wydatków na opiekę i wychowanie dziecka w pierwszym roku pobytu dziecka w pieczy zastępczej;
-- **2)** 30 % wydatków na opiekę i wychowanie dziecka w drugim roku pobytu dziecka w pieczy zastępczej;
-- **3)** 50 % wydatków na opiekę i wychowanie dziecka w trzecim roku i następnych latach pobytu dziecka w pieczy zastępczej. Przepisy ust. 2–4 i 7 stosuje się odpowiednio.
+- **1)** 10 % wydatków na opiekę i wychowanie dziecka – w pierwszym roku pobytu dziecka w pieczy zastępczej;
+- **2)** 30 % wydatków na opiekę i wychowanie dziecka – w drugim roku pobytu dziecka w pieczy zastępczej;
+- **3)** 50 % wydatków na opiekę i wychowanie dziecka – w trzecim roku i następnych latach pobytu dziecka w pieczy zastępczej. Przepisy ust. 2–4 i 7 stosuje się odpowiednio.
 
 10. W przypadku umieszczenia dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej albo interwencyjnym ośrodku preadopcyjnym gmina właściwa ze względu na miejsce zamieszkania dziecka przed umieszczeniem go po raz pierwszy w pieczy zastępczej ponosi odpowiednio wydatki, o których mowa w ust. 1 pkt 2, w wysokości:
 
 - **1)** 10 % w pierwszym roku pobytu dziecka w pieczy zastępczej,
 - **2)** 30 % w drugim roku pobytu dziecka w pieczy zastępczej,
-- **3)** 50 % w trzecim roku i następnych latach pobytu dziecka w pieczy zastępczej średnich miesięcznych wydatków przeznaczonych na utrzymanie dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej albo interwencyjnym ośrodku preadopcyjnym. Przepisy ust. 2–4 i 7 stosuje się odpowiednio.
+- **3)** 50 % w trzecim roku i następnych latach pobytu dziecka w pieczy zastępczej – średnich miesięcznych wydatków przeznaczonych na utrzymanie dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej albo interwencyjnym ośrodku preadopcyjnym. Przepisy ust. 2–4 i 7 stosuje się odpowiednio.
 
 10a. Przepisów ust. 9 i 10 nie stosuje się w przypadku dzieci, o których mowa w ust. 8 pkt 2.
 
-11. Do okresów pobytu dziecka w pieczy zastępczej, o których mowa w ust. 9 i 10, wlicza się również okres przebywania tego dziecka, po osiągnięciu pełnoletności, w rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej lub regionalnej placówce opiekuńczo-terapeutycznej, na zasadach określonych w art. 37 ust. 2–6.
+11. Do okresów pobytu dziecka w pieczy zastępczej, o których mowa w ust. 9 i 10, wlicza się również okres przebywania tego dziecka, po osiągnięciu pełnoletności, w rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczowychowawczej lub regionalnej placówce opiekuńczo-terapeutycznej, na zasadach określonych w art. 37 ust. 2–6.
 
 12. Wydatki na dziecko, o którym mowa w ust. 8 pkt 1, w wysokości proporcjonalnej do liczby dni pobytu dziecka w rodzinie zastępczej pełniącej funkcję pogotowia rodzinnego albo placówce opiekuńczo-wychowawczej typu interwencyjnego, ponosi powiat, o którym mowa w ust. 1–4, albo powiat, który otrzymuje zwrot wydatków na utrzymanie dziecka.
 
@@ -3075,7 +3094,7 @@ Art. 201–225. (pominięte)
 
 15. Powiat właściwy ze względu na miejsce osiedlenia się osoby usamodzielnianej ponosi wydatki na finansowanie pomocy, o której mowa w art. 140 ust. 1 pkt 1 lit. c i pkt 2.
 
-16. W sprawach rozstrzygania sporów o właściwość powiatów oraz gmin obowiązanych do ponoszenia wydatków, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+16. W sprawach rozstrzygania sporów o właściwość powiatów oraz gmin obowiązanych do ponoszenia wydatków, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 17. Przepisów ust. 9 i 10 nie stosuje się w przypadku umieszczenia w pieczy zastępczej dziecka, o którym mowa w art. 5 ust. 1 pkt 1 lit. b i pkt 2a, oraz małoletnich cudzoziemców niewymienionych w art. 5 ust. 1 pkt 2–4.
 
@@ -3085,8 +3104,8 @@ Art. 201–225. (pominięte)
 
 1. Za pobyt dziecka w pieczy zastępczej rodzice ponoszą miesięczną opłatę w wysokości:
 
-- **1)** przyznanych świadczeń oraz dodatków, o których mowa w art. 80 ust. 1 i art. 81 w przypadku umieszczenia dziecka w rodzinie zastępczej spokrewnionej, rodzinie zastępczej zawodowej, rodzinie zastępczej niezawodowej lub rodzinnym domu dziecka;
-- **2)** średnich miesięcznych wydatków przeznaczonych na utrzymanie dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej oraz interwencyjnym ośrodku preadopcyjnym w przypadku umieszczenia dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej oraz interwencyjnym ośrodku preadopcyjnym.
+- **1)** przyznanych świadczeń oraz dodatków, o których mowa w art. 80 ust. 1 i art. 81 – w przypadku umieszczenia dziecka w rodzinie zastępczej spokrewnionej, rodzinie zastępczej zawodowej, rodzinie zastępczej niezawodowej lub rodzinnym domu dziecka;
+- **2)** średnich miesięcznych wydatków przeznaczonych na utrzymanie dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej oraz interwencyjnym ośrodku preadopcyjnym – w przypadku umieszczenia dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej oraz interwencyjnym ośrodku preadopcyjnym.
 
 1a. Opłatę, o której mowa w ust. 1, rodzice ponoszą od dnia umieszczenia dziecka w pieczy zastępczej.
 
@@ -3176,7 +3195,7 @@ Art. 201–225. (pominięte)
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
 - **2)** niewykorzystane,
 - **3)** pobrane nienależnie,
-- **4)** pobrane w nadmiernej wysokości podlegają zwrotowi na rachunek dysponenta Funduszu Pracy.
+- **4)** pobrane w nadmiernej wysokości – podlegają zwrotowi na rachunek dysponenta Funduszu Pracy.
 
 10. Środki Funduszu Pracy, o których mowa w ust. 9 pkt 1, 3 i 4, podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych.
 
@@ -3229,7 +3248,7 @@ Art. 201–225. (pominięte)
 
 5. W przypadku uwzględnienia zastrzeżeń przez wojewodę kontrolowana jednostka jest obowiązana, w terminie 30 dni od dnia otrzymania stanowiska wojewody, o którym mowa w ust. 3, do powiadomienia wojewody o realizacji zaleceń pokontrolnych, mając na uwadze zmiany wynikające z uwzględnionych zastrzeżeń.
 
-6. W przypadku stwierdzenia istotnych uchybień w działalności wojewoda, niezależnie od przysługujących mu innych środków, zawiadamia o stwierdzonych uchybieniach właściwy organ założycielski kontrolowanej jednostki oraz organ zlecający realizację zadania na podstawie art. 190 w przypadku jednostki, która działa na podstawie tego zlecenia.
+6. W przypadku stwierdzenia istotnych uchybień w działalności wojewoda, niezależnie od przysługujących mu innych środków, zawiadamia o stwierdzonych uchybieniach właściwy organ założycielski kontrolowanej jednostki oraz organ zlecający realizację zadania na podstawie art. 190 – w przypadku jednostki, która działa na podstawie tego zlecenia.
 
 7. Organ, o którym mowa w ust. 6, do którego skierowano zawiadomienie o stwierdzonych uchybieniach, jest obowiązany, w terminie 30 dni od dnia otrzymania zawiadomienia o stwierdzonych uchybieniach, powiadomić wojewodę o podjętych czynnościach.
 
@@ -3243,7 +3262,7 @@ Art. 201–225. (pominięte)
 
 **Art. 197f.** Minister właściwy do spraw rodziny określi, w drodze rozporządzenia:
 
-**Art. 197g.** W sprawach nieuregulowanych w niniejszym dziale stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+**Art. 197g.** W sprawach nieuregulowanych w niniejszym dziale stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 198.**
 
@@ -3293,7 +3312,7 @@ Art. 201–225. (pominięte)
 
 - **1)** pomocy pieniężnej na częściowe pokrycie kosztów utrzymania dziecka umieszczonego w rodzinie zastępczej,
 - **2)** opłaty za pobyt w rodzinie zastępczej dziecka lub osoby pełnoletniej, przebywającej w rodzinie zastępczej do czasu ukończenia szkoły, w której rozpoczęła naukę przed osiągnięciem pełnoletności, ponoszonej przez rodziców,
-- **3)** opłaty za pobyt w całodobowej placówce opiekuńczo-wychowawczej dziecka lub osoby pełnoletniej, przebywającej w całodobowej placówce opiekuńczo-wychowawczej do czasu ukończenia szkoły, w której rozpoczęła naukę przed osiągnięciem pełnoletności, ponoszonej przez rodziców zachowują moc do dnia wygaśnięcia, nie dłużej jednak niż przez okres 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **3)** opłaty za pobyt w całodobowej placówce opiekuńczo-wychowawczej dziecka lub osoby pełnoletniej, przebywającej w całodobowej placówce opiekuńczo-wychowawczej do czasu ukończenia szkoły, w której rozpoczęła naukę przed osiągnięciem pełnoletności, ponoszonej przez rodziców – zachowują moc do dnia wygaśnięcia, nie dłużej jednak niż przez okres 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 5. Sprawy o wynagrodzenia, dodatki oraz świadczenia na pokrycie kosztów utrzymania dziecka lub osoby przebywającej w rodzinie zastępczej lub placówce opiekuńczo-wychowawczej typu rodzinnego, do których prawo powstało przed dniem wejścia w życie niniejszej ustawy, podlegają, z zastrzeżeniem ust. 9, rozpatrzeniu na zasadach i w trybie określonych w przepisach dotychczasowych, na wniosek osoby otrzymującej te świadczenia, dodatki i wynagrodzenia. Przepisy art. 193 i art. 194 stosuje się odpowiednio.
 
@@ -3303,7 +3322,9 @@ Art. 201–225. (pominięte)
 
 8. W przypadku niezłożenia wniosku w terminie, o którym mowa w ust. 6, do spraw, o których mowa w ust. 5, stosuje się przepisy niniejszej ustawy.
 
-9. W przypadku gdy do spraw, o których mowa w ust. 5, stosuje się przepisy dotychczasowe, ukończenie przez dziecko, po dniu wejścia w życie niniejszej ustawy, 7. roku życia nie powoduje zmniejszenia wysokości świadczenia na pokrycie kosztów utrzymania dziecka lub osoby przebywającej w rodzinie zastępczej.
+9. W przypadku gdy do spraw, o których mowa w ust. 5, stosuje się przepisy dotychczasowe, ukończenie przez dziecko, po dniu wejścia w życie niniejszej ustawy,
+
+7. roku życia nie powoduje zmniejszenia wysokości świadczenia na pokrycie kosztów utrzymania dziecka lub osoby przebywającej w rodzinie zastępczej.
 
 **Art. 227.**
 
@@ -3366,7 +3387,7 @@ Art. 201–225. (pominięte)
 - **9)** schronisku dla nieletnich,
 - **10)** zakładzie karnym,
 - **11)** zakładzie poprawczym,
-- **12)** okręgowym ośrodku wychowawczym dyrektor tej placówki może, pomimo przekroczenia dopuszczalnej liczby dzieci w placówce, za zezwoleniem wojewody, przyjąć kolejne dziecko.
+- **12)** okręgowym ośrodku wychowawczym – dyrektor tej placówki może, pomimo przekroczenia dopuszczalnej liczby dzieci w placówce, za zezwoleniem wojewody, przyjąć kolejne dziecko.
 
 **Art. 231.** W placówkach opiekuńczo-wychowawczych, o których mowa w art. 229 ust. 1–3, w okresie 4 lat od dnia wejścia w życie niniejszej ustawy mogą być umieszczane dzieci powyżej 7. roku życia. Przepisy art. 95 ust. 2 stosuje się odpowiednio.
 
@@ -3426,7 +3447,7 @@ Art. 201–225. (pominięte)
 
 **Art. 237.**
 
-1. W stosunku do osób, o których mowa w art. 1 ust. 1a ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela, w brzmieniu obowiązującym do dnia wejścia w życie niniejszej ustawy, zatrudnionych w placówkach opiekuńczo-wychowawczych, o których mowa w art. 228 ust. 1 i art. 229 ust. 1–7, ustawę z dnia 26 stycznia 1982 r. Karta Nauczyciela stosuje się przez okres 2 lat od dnia wejścia w życie niniejszej ustawy.
+1. W stosunku do osób, o których mowa w art. 1 ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, w brzmieniu obowiązującym do dnia wejścia w życie niniejszej ustawy, zatrudnionych w placówkach opiekuńczo-wychowawczych, o których mowa w art. 228 ust. 1 i art. 229 ust. 1–7, ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela stosuje się przez okres 2 lat od dnia wejścia w życie niniejszej ustawy.
 
 2. Osoby, o których mowa w ust. 1, po upływie 2 lat od dnia wejścia w życie niniejszej ustawy, stają się pracownikami samorządowymi w rozumieniu ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2024 r. poz. 1135).
 
@@ -3458,8 +3479,8 @@ Art. 201–225. (pominięte)
 
 4. Podmiot prowadzący przed dniem wejścia w życie niniejszej ustawy ośrodek adopcyjno-opiekuńczy, w terminie do dnia 15 stycznia 2012 r., przekazuje za zgodą osób zainteresowanych właściwemu:
 
-- **1)** staroście dokumentację dotyczącą kandydatów do pełnienia funkcji rodziny zastępczej lub prowadzenia placówki rodzinnej oraz rodzin zastępczych i osób prowadzących placówki rodzinne;
-- **2)** marszałkowi województwa dokumentację dotyczącą osób zgłaszających gotowość przysposobienia dziecka oraz prowadzonych procedur przysposobienia.
+- **1)** staroście – dokumentację dotyczącą kandydatów do pełnienia funkcji rodziny zastępczej lub prowadzenia placówki rodzinnej oraz rodzin zastępczych i osób prowadzących placówki rodzinne;
+- **2)** marszałkowi województwa – dokumentację dotyczącą osób zgłaszających gotowość przysposobienia dziecka oraz prowadzonych procedur przysposobienia.
 
 5. W przypadku gdy na organizatora rodzinnej pieczy zastępczej został wyznaczony podmiot prowadzący przed dniem wejścia w życie niniejszej ustawy ośrodek adopcyjno-opiekuńczy, przepisu ust. 4 pkt 1 nie stosuje się.
 

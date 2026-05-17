@@ -8,11 +8,12 @@ pos: 164
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# zrekompensowaniu okresowego sferze utraty niektórych wzro stów lub dodatków emerytur rent.
+# o zrekompensowaniu okresowego niepodwyższania płac sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent
 
-*USTAWA 6 marca 1997 r.*
+*USTAWA z dnia 6 marca 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,152 +27,139 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970300164) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/164/text.pdf) |
 
-1 Przepisy ogólne
+Art. 26-30. (pominięte).
 
-**Art. 1.** Ustawa sposób zrekompensowania:
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 2.** Zrekompensowanie, którym mowa wart. 1, przez naby cie przez osoby uprawnione rekompensa cyjnych na zasadach trybie ustawie.
+**Art. 1.** Ustawa określa sposób zrekompensowania:
 
-**Art. 3.** Osobami uprawnionymi nabycia rekompensacyjnych, zwanymi da lej "uprawnionymi",
+**Art. 2.**
 
-**Art. 4.** Uprawnionemu re kompensacyjne nominalnej równej ustalonej zgodnie ustawy.
+1. Zrekompensowanie, o którym mowa art. 1, następuje przez wypłatę rekompensaty pieniężnej, zwanej dalej „rekompensatą”, na zasadach i trybie określonym ustawie.
+
+2. Do rekompensat nie stosuje się przepisów dotyczących świadczeń ze stosunku pracy i ubezpieczeń społecznych.
+
+**Art. 3.** Osobami uprawnionymi do rekompensaty, zwanymi dalej „uprawnionymi”, są:
+
+**Art. 4.** Uprawnionemu przysługuje rekompensata o łącznej wartości nominalnej równej należności ustalonej zgodnie z załącznikiem do ustawy.
 
 **Art. 5.**
 
-1. Przy ustalaniu podstawy wymiaru emery tury lub renty osobom, których mowa wart. 3 pkt 1 lit. a) c), wynagrodzenia, lub dochodu, wymiaru emerytury lub renty, uzyskanego okresie od 1 lipca 1991 28 czerwca 1992 r., dolicza dectw rekompensacyjnych, zgodnie nikiem ustawy.
+1. Przy ustalaniu podstawy wymiaru emerytury lub renty osobom, o których mowa art. 3 pkt 1 lit. a), c) i pkt 1a, do wynagrodzenia, uposażenia lub dochodu, stanowiącego podstawę wymiaru emerytury lub renty, uzyskanego okresie od dnia 1 lipca 1991 r. do dnia 28 czerwca 1992 r., dolicza się nominalną wartość rekompensaty, ustaloną zgodnie z załącznikiem do ustawy.
 
-2. Przepis ust. 1 stosuje osób, któ rych mowa wart. 3 pkt 1 lit. b), osoby te wniosek lub na podstawie przepi sów ustawy zaopatrzeniu emerytalnym pracowni ków ich rodzin.
+2. Przepis ust. 1 stosuje się również do osób, o których mowa art. 3 pkt 1 lit
 
-3. Wliczenia podstawy wymiaru emerytury lub renty rekompensacyjnych doko organy rentowe na wniosek osób uprawnionych. wniosek zostanie 31 grudnia 1997 r., emerytury renty, wyniku liczenia rekompensacyjnych podstawy wymiaru, od cie ustawy.
+- **b)** , jeżeli osoby te złożą wniosek o emeryturę lub rentę na podstawie przepisów ustawy o zaopatrzeniu emerytalnym pracowników i ich rodzin.
 
-**Art. 6.** Prawo nabycia re kompensacyjnych jest niezbywalne.
+3. Wliczenia do podstawy wymiaru emerytury lub renty nominalnej wartości rekompensaty dokonują organy rentowe na wniosek osób uprawnionych. Jeżeli wniosek zostanie zgłoszony do dnia 31 marca 1998 r., emerytury i renty, podwyższone wyniku doliczenia wartości świadectw rekompensacyjnych do podstawy wymiaru, wypłaca się od dnia wejścia życie ustawy.
 
-**Art. 7.** Prawo nabycia re kompensacyjnych nie osobom, których roszczenia wart. 1 za spokojone lub je przed dniem ustawy. Świadectwo rekompensacyjne
+**Art. 6.** Prawo do rekompensaty jest niezbywalne.
+
+**Art. 7.** Prawo do rekompensaty nie przysługuje osobom, których roszczenia z tytułów określonych art. 1 zostały zaspokojone lub rozpoczęto je zaspokajać przed dniem wejścia życie ustawy.
+
+**Art. 8.** Wypłata rekompensaty stanowi zaspokojenie wszelkich roszczeń z tytułów określonych art. 1.
+
+#### Rozdział 2 Zasady i tryb wypłaty rekompensat
 
 **Art. 9.**
 
-1. Świadectwo rekompensacyjne jest skar bowym papierem na okaziciela.
+1. Nominalna wartość rekompensaty podlega waloryzacji.
 
-2. nominalna rekompensacyj nego wynosi 1
+2. Wartość zwaloryzowanej rekompensaty na kolejny kwartał ustala się, mnożąc jej wartość nominalną przez wskaźnik cen towarów i usług konsumpcyjnych ogółem za poprzedni kwartał stosunku do IV kwartału 1995 r., zaokrąglając górę do pełnych groszy. kwartału, ogłasza Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wysokość wskaźnika, o którym mowa ust. 2.
 
-3. rekompensacyjne emituje Skarb za który Minister Skarbu
+**Art. 10.** Wypłata rekompensat nastąpi latach 2000-2004.
 
-4. Minister Skarbu porozumieniu Mi nistrem Pracy Polityki Socjalnej, na podstawie otrzy manych spisów uprawnionych, drodze roz emisji rekompensa cyjnych.
+**Art. 11.**
 
-**Art. 10.**
+1. Łączną kwotę przeznaczoną na wypłatę rekompensat danym roku ustala ustawa budżetowa.
 
-1. Świadectwa rekompensacyjne dopusz czone mocy prawa, publicznego obrotu papie rami
-
-2. Papierów Warszawie SA, na wniosek emitenta, rekom pensacyjne obrotu
-
-**Art. 11.** Przeniesienie re kompensacyjnego jest wolne od skarbowej.
-
-**Art. 12.**
-
-1. Za rekompensacyjne nabywane:
-
-- **1)** Skarbu akcje przezna czone zbywania za
-- **2)** zbywane przez Skarb
-- **3)** Zasobu Rolnej Skarbu tego Zasobu Funduszu Ziemi, zbywa ne przez Rolnej Skarbu stwa.
-
-2. rekompensacyjne te zwolnienia osoby ta kiego wobec Skarbu stwa, wykupienia banków odsetek od kredytów mieszka niowych. . 3. Agencja Rolnej Skarbu rekompensacyjnych zwolnienia przez nie zaspokojonych, ustawy, zlikwidowanych gospodarki rolnej wo bec na ubezpieczenie wraz odsetkami.
-
-**Art. 13.**
-
-1. Nie rekompensacyjnym za mienie, którym mowa wart. 12 ust. 1. nabywanego mie nia jest którymi doko nuje nabywca uiszcza rych mowa wart. 12 ust. 2 3. zobo przekracza rekompensa cyjnych, którymi dokonuje zwolnienie nabywcy odpowia
-
-**Art. 14.**
-
-1. Skarb Agencja Rol nej Skarbu nych, rekompensacyjne jako lub zwalo
-
-2. rekompen sacyjnego na kolejny ustala jego przez cen towarów konsumpcyjnych za miniony stosun ku IV 1995 r., nych groszy.
-
-3. Prezes Statystycznego, ter minie 15 dni po Dzienniku Rzeczypospolitej Polskiej "Monitor Polski" którym mowa ust. 2.
-
-4. Minister Finansów, terminie dni od czenia od którym konano emisji rekompensacyjnych, ustala rekompensacyj nego na obwieszcza Dzienniku Rzeczypospolitej Polskiej "Monitor Pol ski".
-
-**Art. 15.**
-
-1. W okresie 4 lat od ustawy akcji przeznaczonych zbywa nia za rekompensacyjne powinna co najmniej równa nominalnej wyemitowanych zwaloryzowanej zgodnie art. 14.
-
-2. Rada Ministrów drodze nia, które których akcje przeznaczone zbywania za rekom pensacyjne, a jaka akcji tych przeznaczona zbywania za
-
-**Art. 16.**
-
-1. Świadectwa rekompensacyjne ulegają umorzeniu dniem zapisania ich na rachunku papie rów Skarbu lub Ubez wykonaniem umów których mowa wart. 12.
-
-2. nie umorzone sposób ust. 1 umorzeniu, mocy prawa, wem 10 lat od emisji. 3 Dystrybucja rekompensacyjnych
+2. Minister właściwy do spraw Skarbu Państwa zapewni, okresie wskazanym art. 10, wpływy z prywatyzacji przeznaczone na finansowanie wypłat, o których mowa ust. 1. Art. 12-16. (skreślone).
 
 **Art. 17.**
 
-1. spisów uprawnionych na 31 grudnia 1991 r. od 1 stycznia 1992 r. 28 czerwca 1992 r. mi jednostkami sfery
+1. Sporządzenie spisów uprawnionych należy do:
 
-- **3)** kierowników jednostek organizacyj nych Ministerstw: Obrony Narodowej, Spraw We Administracji odniesieniu funkcjonariuszy,
-- **4)** kierowników organów sprawach emerytur rent,
-- **5)** ministrów lub wojewodów odnie sieniu osób, które okresie, którym mowa wart. 1, pracownikami jedno stek sfery zlikwidowanych lub prze jednostki organizacyjne inne pkt 1 2, zwanych dalej "organami spisy".
+- **1)** kierowników państwowych jednostek sfery budżetowej,
+- **2)** kierowników samorządowych jednostek sfery budżetowej, które okresie od dnia 1 lipca 1991 r. do dnia 31 grudnia 1991 r. oraz okresie od dnia 1 stycznia 1992 r. do dnia 28 czerwca 1992 r. były państwowymi jednostkami budżetowymi lub jednostkami, które przed 28 czerwca 1992 r. zostały przejęte przez gminy do prowadzenia jako zadanie własne lub zlecone zgodnie z ustawą z dnia 8 marca 1990 r. o samorządzie gminnym,
+- **3)** kierowników właściwych jednostek organizacyjnych Ministerstw: Obrony Narodowej, Spraw Wewnętrznych i Administracji oraz Sprawiedliwości odniesieniu do żołnierzy i funkcjonariuszy,
+- **4)** kierowników organów właściwych sprawach emerytur i rent,
+- **5)** właściwych ministrów lub wojewodów - odniesieniu do osób, które okresie, o którym mowa art. 1, były pracownikami państwowych jednostek sfery budżetowej zlikwidowanych lub przekształconych jednostki organizacyjne inne niż określone pkt. 1 i 2,
+- **6)** właściwych wójtów, burmistrzów lub prezydentów miast - odniesieniu do pracowników zlikwidowanych jednostek, o których mowa art. 3 pkt 1a zwanych dalej „organami sporządzającymi spisy”.
 
-2. W spisie uprawnionych przy uprawnionemu rekompensa cyjnych, jako iloraz uprawnionemu nominalnej
+2. W spisie uprawnionych określa się wartość nominalną rekompensaty, jaka przysługuje uprawnionemu. 1997 r.
 
-3. Organy spisy je ter minie 3 od ustawy.
-
-4. Minister Pracy Polityki Socjalnej porozumie niu Ministrem Skarbu drodze roz zakres danych zawartych spisach uprawnionych, wzory spisów wykonanych na wformie elektronicznej tryb dzania wprowadzania zmian spisów.
+4. Minister właściwy do spraw zabezpieczenia społecznego porozumieniu z ministrem właściwym do spraw Skarbu Państwa określi, drodze rozporządzenia, zakres danych zawartych spisach uprawnionych, wzory spisów wykonanych na piśmie i formie elektronicznej oraz szczegółowy tryb sporządzania i wprowadzania zmian do spisów.
 
 **Art. 18.**
 
-1. Uprawnionym, którzy zatrudnieni lub jednostkach wymienionych wart. 17 ust. 1 pkt 1-3, jednostki te zawarte spi sie informacje uprawnionego, sposób danej jednostce, przez okres 21 dni od spisu.
+1. Uprawnionym, którzy są zatrudnieni lub pełnią służbę jednostkach wymienionych art. 17 ust. 1 pkt 1-3, jednostki te udostępniają zawarte spisie informacje dotyczące uprawnionego, sposób przyjęty danej jednostce, przez okres 21 dni od dnia sporządzenia spisu.
 
-2. Uprawnionym, innym wymienieni ust. 1, organ spis zawiadomienie umieszczeniu spisie wraz liczbie rekompensacyjnych.
+2. Uprawnionym, innym niż wymienieni ust. 1, organ sporządzający spis doręcza zawiadomienie o umieszczeniu spisie wraz z informacją o nominalnej wartości rekompensaty.
 
-3. Uprawniony odpowiednio terminie 14 dni od okresu, którym mowa ust. 1, lub od zawiadomienia, którym mowa ust. 2, organu go spis pisemne lub ustne sprostowania da nych uprawnionego lub ustalenia wej liczby mu rekompen sacyjnych, albo zamieszczenia uprawnionego spisie.
+3. Uprawniony może odpowiednio terminie 14 dni od zakończenia okresu, o którym mowa ust. 1, lub od doręczenia zawiadomienia, o którym mowa ust. 2, wnieść do właściwego organu sporządzającego spis pisemne lub ustne żądanie sprostowania danych dotyczących uprawnionego lub ustalenia nominalnej wartości rekompensaty, albo zamieszczenia uprawnionego spisie.
 
-4. W przypadku zawiadomienia, którym mowa ust. 2, uprawniony termi nie 5 od ustawy, organu spis zamieszcze nia uprawnionego spisie. mienie powinno uzasadnienie pouczenie uprawnionemu prawie
+4. W przypadku niedoręczenia zawiadomienia, o którym mowa ust. 2, uprawniony może, terminie 8 miesięcy od dnia wejścia życie ustawy, wnieść do organu sporządzającego spis żądanie zamieszczenia uprawnionego spisie.
 
-6. Minister Pracy Polityki Socjalnej porozumie niu Ministrem Skarbu drodze roz wzory umieszczeniu spisie uprawnionych, a wzory lub odmowie którym mowa ust. 3 4.
+5. Organ sporządzający spis jest obowiązany rozpatrzyć żądanie, o którym mowa ust. 3 i 4, terminie 30 dni od dnia jego zgłoszenia. Zawiadomienie o uwzględnieniu lub odmowie uwzględnienia żądania doręcza się niezwłocznie uprawnionemu wnoszącemu żądanie. W razie nieuwzględnienia żądania, zawiadomienie powinno zawierać również uzasadnienie oraz pouczenie o przysługującym uprawnionemu prawie odwołania.
 
-**Art. 19.**
+6. Minister właściwy do spraw zabezpieczenia społecznego porozumieniu z ministrem właściwym do spraw Skarbu Państwa określi, drodze rozporządzenia, wzory zawiadomień o umieszczeniu spisie uprawnionych, a także wzory zawiadomień o uwzględnieniu lub odmowie uwzględnienia żądania, o którym mowa ust. 3 i 4. 4, uprawnionemu przysługuje prawo odwołania terminie 30 dni od dnia doręczenia zawiadomienia o odmowie uwzględnienia żądania. Uprawnionemu przysługuje również prawo odwołania razie nierozpatrzenia żądania terminie, o którym mowa art. 18 ust. 5.
 
-1. W razie któ rym mowa wart. 18 ust. 3 4, uprawnionemu guje prawo terminie dni od czenia zawiadomienia odmowie nia. Uprawnionemu prawo odwo razie nierozpatrzenia terminie, któ rym mowa wart. 18 ust. 5.
-
-2. podlega na zasadach trybie przewidzianych przepisach rozstrzygania sporów, odpowiednio zakre sie: emerytur rent.
+2. Odwołanie podlega rozstrzygnięciu na zasadach i trybie przewidzianych odrębnych przepisach dotyczących rozstrzygania sporów, odpowiednio zakresie: wynagrodzeń, uposażeń, emerytur i rent.
 
 **Art. 20.**
 
-1. Organy spisy, których mowa wart. 17 ust. 1 pkt 1-3 5, terminie 6 cy od ustawy, spisy spra wach których mowa wart. 18 ust. 3 4, od odmowy ich tym liczbie rekompensacyjnych przedmiotem
+1. Organy sporządzające spisy, o których mowa art. 17 ust. 1 pkt 1-3 i 5, terminie 9 miesięcy od dnia wejścia życie ustawy, przekażą spisy oraz informację o toczących się postępowaniach sprawach dotyczących żądań, o których mowa art. 18 ust. 3 i 4, oraz odwołań od odmowy ich uwzględnienia, tym o nominalnej wartości rekompensaty będących przedmiotem postępowań:
 
-- **1)** ministrowi przypadku wych jednostek sfery finansowanych resortu,
-- **2)** wojewodzie przypadku wych jednostek sfery finansowanych wojewody.
+- **1)** właściwemu ministrowi - przypadku państwowych jednostek sfery budżetowej finansowanych z budżetu resortu,
+- **2)** właściwemu wojewodzie - przypadku państwowych jednostek sfery budżetowej finansowanych z budżetu wojewody,
+- **3)** właściwemu wójtowi, burmistrzowi lub prezydentowi miasta - przypadku samorządowych jednostek budżetowych przejętych do prowadzenia przez gminy przed 28 czerwca 1992 r. jako zadanie własne lub zlecone.
 
-2. ministrowie wojewodowie nadzór nad spisów, a po otrzymaniu spisów ich wy rywkowej kontroli ich
+1a. Organy wymienione ust. 1 pkt 3 po dokonaniu wstępnej kontroli prawidłowości sporządzenia otrzymanych spisów niezwłocznie przekazują je właściwemu terytorialnie wojewodzie.
 
-3. Organy spisy, których mowa wart. 17 ust. 1 pkt 4, terminie 6 od wej ustawy, ministrowie woje wodowie, po dokonaniu kon troli, której mowa ust. 2, emitentowi dectw spisy wraz waniach sprawach których mowa wart. 18 ust. 3 4, od odmowy ich tym liczbie re kompensacyjnych przedmiotem
+2. Właściwi ministrowie i wojewodowie:
 
-4. Po przekazaniu spisów emitentowi organy spo spisy emitentowi wych formie odcinka zbiorczego, praw ze spisy uprawnio nych.
+- **1)** sprawują nadzór nad terminowością sporządzania spisów, a po otrzymaniu spisów dokonują ich przeglądu oraz wyrywkowej kontroli prawidłowości ich sporządzenia,
+- **2)** dokonują sprostowania błędów pisarskich i oczywistych omyłek.
 
-2. Krajowy Depozyt Papierów nie po otrzymaniu spisów uprawnionemu odebrania depozytowego sposobach wykorzystania
+3. Organy sporządzające spisy, o których mowa art. 17 ust. 1 pkt 4, terminie 9 miesięcy od dnia wejścia życie ustawy, oraz właściwi ministrowie i wojewodowie, niezwłocznie, po dokonaniu przeglądu i kontroli, o której mowa ust. 2, przekażą ministrowi właściwemu do spraw administracji publicznej spisy wraz z informacją o toczących się postępowaniach sprawach dotyczących żądań, o tym o łącznej nominalnej wartości rekompensat będących przedmiotem postępowań.
 
-3. Zadania ust. 2 Krajowy Depozyt Pa pierów wykonuje na podstawie umo wy zawartej emitentem
+4. Po przekazaniu spisów ministrowi właściwemu do spraw administracji publicznej organy sporządzające spisy niezwłocznie przekazują ministrowi właściwemu do spraw administracji publicznej lub osobie przez niego wskazanej informacje o zmianach spisach, wynikających szczególności z uwzględnienia żądań, o których mowa art. 18 ust. 3 i 4, oraz odwołań od odmowy ich uwzględnienia.
 
-**Art. 22.** Emitent udzieli uczestnikami Krajo wego Depozytu Papierów zamówie nia publicznego trybie przetargu na wykonanie czyn zakresie:
+**Art. 21.**
 
-**Art. 23.** Przeniesienia praw ze rekom pensacyjnego rejestru prowadzonego zgodnie art. 22 pkt 3 osoba wskazana rejestrze jako Przeniesienie na rzecz pod miotu rachunek papierów wych.
+1. Rada Ministrów określi, drodze rozporządzenia, tryb i harmonogram wypłat rekompensat według kryterium wieku uprawnionych oraz zadania poszczególnych podmiotów odpowiedzialnych za realizację zobowiązań Skarbu Państwa wobec uprawnionych.
 
-**Art. 24.** W zakresie nie uregulowanym ustawie stosuje przepisy publicznym obrocie papierami wa i.
+2. Minister właściwy do spraw Skarbu Państwa, celu realizacji wypłat rekompensat, wyłoni drodze przetargu podmiot prowadzący działalność bankową lub konsorcjum takich podmiotów lub inną instytucję, która spełni wymogi przetargowe.
 
-**Art. 25.** Minister Skarbu okresie przewi dzianym ustawie spisów uprawnio nych, poda publicznej sposobie zrekompensowania okresowego niepod sferze utraty niektó rych wzrostów lub dodatków emerytur rent, termi Zmiany przepisach
+3. Minister właściwy do spraw administracji publicznej przekaże wykazy uprawnionych, o których mowa art. 3, na informatycznym nośniku danych do podmiotu wyłonionego drodze przetargu, o którym mowa ust. 2.
 
-**Art. 26.** W ustawie 22 marca 1991 r. Prawo publicznym obrocie papierami fun duszach powierniczych (Dz. U. 1994 r. 58, poz. 239, 71, poz. 313 121, poz. 591 1996 r. 45, poz. 199, 75, poz. 357, 106, poz. 496 149, poz. 703) wprowadza zmiany:
+**Art. 21a.** Spadkobiercy uprawnionych odbierają rekompensatę instytucji, o której mowa art. 21 ust. 2, po uprzednim okazaniu prawomocnego postanowienia o stwierdzeniu nabycia spadku po osobie uprawnionej.
 
-**Art. 27.** W ustawie 26 lipca 1991 r. podatku dochodowym od osób fizycznych (Dz. U. 1993 r. 90, poz. 416 134, poz. 646, 1994 r. 43, poz. 163, 90, poz. 419, 113, poz. 547, 123, poz. 602 126, poz. 626, 1995 r. 5, poz. 25 133, poz. 654 1996 r. 25, poz. 113, 87, poz. 395, 137, poz. 638, 147, poz. 686 156, poz. 776) wprowa dza zmiany:
+**Art. 22.**
 
-**Art. 28.** W ustawie 17 1991 r. rewaloryzacji emerytur rent, zasadach ustalania emerytur rent zmianie niektórych ustaw (Dz. U. 104, poz. 450, 1992 r. 21, poz. 84, 1993 r. 127, poz. 583 129, poz. 602, 1994 84, poz. 385, 1995 r. 4, poz. 17, 95, poz. 473 138, poz. 681 1996 r. 87, poz. 395, 100, poz. 461, 136, poz. 636 147, poz. 687) wart. 7 ust. 8 za przecinkiem dodaje wyrazy "a rekompensacyjnych."
+1. Roszczenie o wypłatę rekompensaty przedawnia się z upływem pięciu lat.
 
-**Art. 29.** W ustawie kwietnia 1993 r. na rodowych funduszach inwestycyjnych ich prywatyza cji (Dz. U. 44, poz. 202 1994 r. 84, poz. 385) wprowadza zmiany:
+2. Bieg przedawnienia rozpoczyna się od pierwszego dnia, którym uprawniony lub jego spadkobierca mógł odebrać rekompensatę.
 
-**Art. 31.** Poczynając od ustawy, art. 19, nie wszczyna egzekucyjnych sprawach osób
+**Art. 22a.** (pominięty).
 
-**Art. 32.** Ustawa wchodzi po 14 dni od Prezydent Rzeczypospolitej Polskiej: A. 1. dla osób, których mowa wart. 3 pkt 1. za przepracowanie wymiarze czasu pracy Wyszczególnienie jednego dwóch trzech czterech
+**Art. 23.**
 
-**Art. 1.** Minister Finansów, terminie 1 kwietnia 1997 r., gminom 66.646 tys. na sfinansowanie jednorazo wego wyrównania poziomu pracowni kom podstawowych za drugie 1996 r., subwencji na zadania
+1. Minister właściwy do spraw administracji publicznej przekaże bankowi, na informatycznym nośniku danych, bazę danych adresowych uprawnionych, o których mowa art. 3. prześle każdemu uprawnionemu informację o możliwości i trybie odbioru rekompensaty.
 
-**Art. 2.** której mowa wart. 12a ust. 1 ustawy 10 grud kwoty wymienionej wart. 1 doko na Minister Edukacji Narodowej algorytmu, którym mowa wart. 12a ust. 2 pkt 2 wstawy finan sowaniu gmin, sposób przeznaczanych na wyrównanie poziomu wy pracowników podstawowych.
+**Art. 24.**
+
+1. Minister właściwy do spraw administracji publicznej aktualizuje spisy, na podstawie zebranych od organów sporządzających spisy danych aktualizacyjnych, przekazywanych na informatycznym nośniku danych, standardzie określonym przez ministra właściwego do spraw administracji publicznej.
+
+2. Minister właściwy do spraw administracji publicznej przekazuje instytucji, o której mowa art. 21 ust. 2, zaktualizowane spisy, o których mowa ust. 1.
+
+**Art. 25.** (pominięty).
+
+#### Rozdział 4 Zmiany przepisach obowiązujących
+
+#### Rozdział 5 Przepisy przejściowe i końcowe
+
+**Art. 31.** Poczynając od dnia wejścia życie ustawy, z zastrzeżeniem art. 19, nie wszczyna się postępowań sądowych i egzekucyjnych sprawach roszczeń osób uprawnionych z tytułów określonych art. 1, a wszczęte postępowania sądowe umarza się.
+
+**Art. 32.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Załącznik 1. Wysokość należności dla osób, o których mowa art. 3 pkt 1 i pkt 1a: Należności zł za przepracowanie pełnym wymiarze czasu pracy Wyszczególnienie
 

@@ -8,6 +8,7 @@ pos: 414
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # Prawo budowlane
@@ -23,7 +24,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1994-07-07 |
 | Data wydania | 1994-07-07 |
-| Ostatnia zmiana | 2026-04-17 |
+| Ostatnia zmiana | 2026-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940890414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/414/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -2593,7 +2594,7 @@ domain: null
 
 2. (uchylony)
 
-3. Protokoły z kontroli obiektu budowlanego, w tym protokoły z kontroli systemu ogrzewania i systemu klimatyzacji, o których mowa w art. 29 ust. 1 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków, oceny i ekspertyzy dotyczące jego stanu technicznego, świadectwo charakterystyki energetycznej oraz dokumenty, o których mowa w art. 60, są dołączone do książki obiektu budowlanego.
+3. Protokoły z kontroli obiektu budowlanego, w tym protokoły z kontroli systemu ogrzewania i systemu klimatyzacji, o których mowa w art. 29 ust. 1 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków, ocena ryzyka w wewnętrznym systemie wodociągowym i jej aktualizacja, o których mowa odpowiednio w art. 4i ust. 1 i 2 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757 oraz z 2026 r. poz. 605), oceny i ekspertyzy dotyczące stanu technicznego tego obiektu, świadectwo charakterystyki energetycznej oraz dokumenty, o których mowa w art. 60, są dołączone do książki obiektu budowlanego.
 
 4. (uchylony)
 

@@ -8,9 +8,12 @@ pos: 1485
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 października 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy dochodzeniu roszczeń postępowaniu grupowym
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 września 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001485) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1485/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 września 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy dochodzeniu roszczeń postępowaniu grupowym
 1. Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 grudnia 2009 r. dochodzeniu roszczeń postępowaniu grupowym (Dz. U. z 2023 r. poz. 1212), z uwzględnieniem zmian wprowadzonych ustawą z dnia 24 lipca 2024 r. zmianie ustawy dochodzeniu roszczeń postępowaniu grupowym oraz niektórych innych ustaw (Dz. U. poz. 1237) oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 września 2024 r.
 Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 6 i 9 ustawy z dnia 24 lipca 2024 r. zmianie ustawy dochodzeniu roszczeń postępowaniu grupowym oraz niektórych innych ustaw (Dz. U.
 poz. 1237), które stanowią: „Art. 6. Do spraw prowadzonych postępowaniu grupowym wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej 1, brzmieniu dotychczasowym.” „Art. 9. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
@@ -51,7 +52,7 @@ dochodzeniu roszczeń postępowaniu grupowym
 
 **Art. 1a.**
 
-- **5)** 1. Wytaczając powództwo postępowaniu grupowym sprawach stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów, powód żąda uznania praktyki za naruszającą ogólne interesy konsumentów i nakazania zaniechania jej stosowania, a przypadku gdy pozwany zaprzestał stosowania tej praktyki po wytoczeniu powództwa stwierdzenia zaniechania jej stosowania. czenia odpowiedniej formie i odpowiedniej treści stosowaniu pozwanego praktyki naruszającej ogólne interesy konsumentów.
+- **5)** 1. Wytaczając powództwo postępowaniu grupowym sprawach stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów, powód żąda uznania praktyki za naruszającą ogólne interesy konsumentów i nakazania zaniechania jej stosowania, a przypadku gdy pozwany zaprzestał stosowania tej praktyki po wytoczeniu powództwa stwierdzenia zaniechania jej stosowania. konsumentów.
 
 3. W przypadku gdy pozwany zaprzestał stosowania praktyki naruszającej ogólne interesy konsumentów przed wytoczeniem powództwa, przepisy ust. i 2 stosuje się, z tym że powód żąda uznania praktyki za naruszającą ogólne interesy konsumentów oraz stwierdzenia zaniechania jej stosowania.
 
@@ -78,7 +79,7 @@ dochodzeniu roszczeń postępowaniu grupowym
 
 3a. Wytaczając powództwo postępowaniu grupowym sprawach roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów, podmiot upoważniony prowadzi postępowanie imieniu własnym, na rzecz wszystkich członków grupy.
 
-3b. Jeżeli skutki stosowania praktyk naruszających ogólne interesy konsumentów mogą mieć miejsce różnych państwach członkowskich Unii Europejskiej, powództwo postępowaniu grupowym sprawach stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów lub sprawach roszczenia związane z ich stosowaniem mogą wytoczyć podmioty upoważnione z tych państw członkowskich Unii Europejskiej wpisane do wykazu podmiotów upoważnionych prowadzonego Komisję Europejską na podstawie 5 ust. dyrektywy 2020/1828. jest adwokatem lub radcą prawnym.
+3b. Jeżeli skutki stosowania praktyk naruszających ogólne interesy konsumentów mogą mieć miejsce różnych państwach członkowskich Unii Europejskiej, powództwo postępowaniu grupowym sprawach stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów lub sprawach roszczenia związane z ich stosowaniem mogą wytoczyć podmioty upoważnione z tych państw członkowskich Unii Europejskiej wpisane do wykazu podmiotów upoważnionych prowadzonego Komisję Europejską na podstawie 5 ust. dyrektywy 2020/1828.
 
 5. W przypadku gdy powodem jest Rzecznik Finansowy przepisu ust. 4 nie stosuje się.
 
@@ -158,7 +159,7 @@ dochodzeniu roszczeń postępowaniu grupowym
 
 **Art. 8.**
 
-1. Na żądanie pozwanego sąd może postanowieniem zobowiązać powoda do złożenia kaucji na zabezpieczenie kosztów procesu, jeżeli pozwany uprawdopodobni, że powództwo jest bezzasadne oraz że brak kaucji uniemożliwi lub poważnie utrudni wykonanie orzeczenia przedmiocie kosztów postępowania razie oddalenia powództwa. nie ma prawa domagać się złożenia kaucji, jeżeli uznana niego część roszczenia wystarcza na zabezpieczenie kosztów. O żądaniu pozwanego sąd rozstrzyga po uprawomocnieniu się postanowienia przedmiocie składu grupy.
+1. Na żądanie pozwanego sąd może postanowieniem zobowiązać powoda do złożenia kaucji na zabezpieczenie kosztów procesu, jeżeli pozwany uprawdopodobni, że powództwo jest bezzasadne oraz że brak kaucji uniemożliwi lub poważnie utrudni wykonanie orzeczenia przedmiocie kosztów postępowania razie oddalenia powództwa. O żądaniu pozwanego sąd rozstrzyga po uprawomocnieniu się postanowienia przedmiocie składu grupy.
 
 3. Sąd oznaczy termin złożenia kaucji, nie krótszy niż miesiąc, oraz jej wysokość, mając na względzie prawdopodobną sumę kosztów, które poniesie pozwany. Kaucję składa się gotówce. Kaucja nie może być wyższa niż 20 % wartości przedmiotu sporu.
 
@@ -231,7 +232,7 @@ dochodzeniu roszczeń postępowaniu grupowym
 
 4. Przepis ust. 3 stosuje się także do orzeczeń prawomocnie kończących postępowanie sprawie, wydanych po zarządzeniu ogłoszenia wszczęciu postępowania grupowego.
 
-**Art. 12.** W oświadczeniu przystąpieniu do grupy uprawniony powinien określić swe żądanie oraz wskazać okoliczności uzasadniające żądanie, a także przynależność do grupy oraz przedstawić dowody. Wykaz osób, które przystąpiły do grupy, sporządza powód i przedstawia sądowi, dołączając oświadczenia przystąpieniu do grupy. Sąd doręcza wykaz pozwanemu. nym powstaje skutek sprawy toku, co do roszczenia objętego postępowaniem grupowym. Osoba, która przed dniem wszczęcia postępowania grupowego wytoczyła przeciwko pozwanemu powództwo roszczenie, które może być objęte postępowaniem grupowym, nie później niż do dnia zakończenia postępowania pierwszej instancji może złożyć oświadczenie przystąpieniu do grupy. W takim przypadku sąd wydaje postanowienie umorzeniu postępowania.
+**Art. 12.** W oświadczeniu przystąpieniu do grupy uprawniony powinien określić swe żądanie oraz wskazać okoliczności uzasadniające żądanie, a także przynależność do grupy oraz przedstawić dowody. Wykaz osób, które przystąpiły do grupy, sporządza powód i przedstawia sądowi, dołączając oświadczenia przystąpieniu do grupy. Sąd doręcza wykaz pozwanemu. Osoba, która przed dniem wszczęcia postępowania grupowego wytoczyła przeciwko pozwanemu powództwo roszczenie, które może być objęte postępowaniem grupowym, nie później niż do dnia zakończenia postępowania pierwszej instancji może złożyć oświadczenie przystąpieniu do grupy. W takim przypadku sąd wydaje postanowienie umorzeniu postępowania.
 
 **Art. 14.** Interwencja uboczna członka grupy po stronie powoda jest niedopuszczalna.
 
@@ -261,7 +262,7 @@ dochodzeniu roszczeń postępowaniu grupowym
 - **1)** zakres, jakim wniosek wyjawienie lub wydanie środka dowodowego uzasadniają już stwierdzone fakty i dostępne dowody;
 - **2)** zakres i koszt wyjawienia lub wydania środka dowodowego, szczególności dla osoby trzeciej;
 - **3)** zapobieganie ogólnemu poszukiwaniu informacji, co do których jest mało prawdopodobne, aby miały znaczenie dla postępowania grupowego;
-- **4)** zakres, jakim środek dowodowy dotyczy informacji stanowiącej tajemnicę przedsiębiorstwa lub inną tajemnicę podlegającą ochronie prawnej na podstawie odrębnych przepisów, szczególności odnoszących się do osób trzecich, oraz dostępne środki ochrony takich informacji. konsumentów, tym organ ochrony konsumentów innego państwa członkowskiego Unii Europejskiej, dokonując oceny, ust. 2, sąd bierze pod uwagę także to, czy:
+- **4)** zakres, jakim środek dowodowy dotyczy informacji stanowiącej tajemnicę przedsiębiorstwa lub inną tajemnicę podlegającą ochronie prawnej na podstawie odrębnych przepisów, szczególności odnoszących się do osób trzecich, oraz dostępne środki ochrony takich informacji. ust. 2, sąd bierze pod uwagę także to, czy:
 - **1)** wniosek wyjawienie lub wydanie środka dowodowego określa precyzyjnie charakter, przedmiot oraz treść środka dowodowego;
 - **2)** strona, która złożyła wniosek wyjawienie lub wydanie środka dowodowego, rzeczywiście czyni to wyłącznie na potrzeby postępowania grupowego, którym złożono wniosek;
 - **3)** wyjawienie lub wydanie środka dowodowego nie wpłynie negatywnie na skuteczność postępowań prowadzonych Prezesa Urzędu Ochrony Konkurencji i Konsumentów, dotyczących naruszenia zbiorowych interesów konsumentów lub uznanie postanowień wzorca umowy za niedozwolone.
@@ -359,7 +360,7 @@ dochodzeniu roszczeń postępowaniu grupowym
 
 - **26)** 1. W razie uwzględnienia powództwa postępowaniu grupowym sprawach stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów sąd sentencji wyroku:
 - **1)** uznaje praktykę pozwanego za naruszającą ogólne interesy konsumentów, nakazuje pozwanemu zaniechanie jej stosowania i wyznacza termin, którym pozwany ma zaniechać stosowania tej praktyki, albo
-- **2)** uznaje praktykę pozwanego za naruszającą ogólne interesy konsumentów oraz wskazuje termin, którym pozwany zaniechał stosowania tej praktyki. Sąd sentencji wyroku, którym ust. 1, może również nałożyć na pozwanego obowiązek złożenia jednokrotnego albo wielokrotnego oświadczenia odpowiedniej formie i odpowiedniej treści stosowaniu pozwanego praktyki naruszającej ogólne interesy konsumentów. Sąd wyznacza termin wykonania nałożonego obowiązku. stosowania praktyk naruszających ogólne interesy konsumentów sąd postanowieniu może nałożyć na pozwanego grzywnę wysokości do 5 000 000 złotych. Na postanowienie nałożeniu grzywny, którym ust. 1, przysługuje zażalenie do sądu drugiej instancji.
+- **2)** uznaje praktykę pozwanego za naruszającą ogólne interesy konsumentów oraz wskazuje termin, którym pozwany zaniechał stosowania tej praktyki. Sąd sentencji wyroku, którym ust. 1, może również nałożyć na pozwanego obowiązek złożenia jednokrotnego albo wielokrotnego oświadczenia odpowiedniej formie i odpowiedniej treści stosowaniu pozwanego praktyki naruszającej ogólne interesy konsumentów. Sąd wyznacza termin wykonania nałożonego obowiązku. wysokości do 5 000 000 złotych. Na postanowienie nałożeniu grzywny, którym ust. 1, przysługuje zażalenie do sądu drugiej instancji.
 
 **Art. 23c.**
 

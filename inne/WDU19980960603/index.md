@@ -8,6 +8,7 @@ pos: 603
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa

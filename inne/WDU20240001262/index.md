@@ -8,9 +8,12 @@ pos: 1262
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 sierpnia 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy Prawo przewozowe
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 sierpnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-09-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1262/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 sierpnia 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy Prawo przewozowe
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z 2020 r. poz. 8), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 sierpnia 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720), który stanowi: „Art. 28. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 1 pkt 1 i 21–28 oraz art. 3, które wchodzą życie z dniem 1 stycznia 2026 r.;
@@ -208,7 +209,7 @@ Prawo przewozowe
 
 3. W razie uzasadnionego podejrzenia, przewoźnik może sprawdzić, czy zawartość przesyłki bagażowej nie narusza przepisu ust. 2; jeżeli podróżny nie zgłosi się do uczestnictwa sprawdzeniu lub nie można go odszukać, sprawdzenia dokonuje się obecności osób zaproszonych do tej czynności przez przewoźnika.
 
-4. W razie ujawnienia naruszenia przepisu ust. 2 koszty związane ze sprawdzeniem przesyłki ponosi podróżny. bezpośrednio środku transportowym, którym przesyłka ma być przewieziona.
+4. W razie ujawnienia naruszenia przepisu ust. 2 koszty związane ze sprawdzeniem przesyłki ponosi podróżny.
 
 2. Przewoźnik ustala masę i liczbę sztuk przesyłki oraz przypadające do zapłaty należności przewozowe i dowód przyjęcia przesyłki do przewozu oraz opłacenia należności wydaje podróżnemu kwit bagażowy.
 
@@ -258,7 +259,7 @@ Prawo przewozowe
 - **3)** zmiany umowy przewozu lub przeszkody przewozie;
 - **4)** ograniczeń wprowadzonych na podstawie przepisu art. 8.
 
-3. Opóźnienie dostarczeniu przesyłki bagażowej liczy się od zgłoszenia żądania jej wydania po upływie terminu określonego ust. 1, z uwzględnieniem okresów zatrzymania określonych ust. 2. wiązany do sprawdzenia, czy osoba zgłaszająca się z kwitem bagażowym jest uprawniona do odbioru przesyłki.
+3. Opóźnienie dostarczeniu przesyłki bagażowej liczy się od zgłoszenia żądania jej wydania po upływie terminu określonego ust. 1, z uwzględnieniem okresów zatrzymania określonych ust. 2.
 
 2. Przewoźnik może wydać przesyłkę bagażową osobie, która nie może okazać kwitu bagażowego, lecz udowodni swoje uprawnienia do odbioru; razie wątpliwości przewoźnik może żądać odpowiedniego zabezpieczenia.
 
@@ -339,7 +340,7 @@ Prawo przewozowe
     - **a)** nie nadają się do przewozu środkami transportowymi,
     - **b)** spowodowałoby naruszenie przepisów określających warunki wykonywania przewozów drogowych, przepisów określających warunki pracy kierowców, przepisów ruchu drogowego lub przepisów o drogach publicznych;
 
-- **3)** niebezpieczne rozumieniu odrębnych przepisów, chyba że zostały dopuszczone do przewozu na warunkach szczególnych. właściwym do spraw wewnętrznych, ministrem właściwym do spraw zdrowia oraz ministrem właściwym do spraw rolnictwa, drodze rozporządzenia, mogą określać szczególne warunki przewozu:
+- **3)** niebezpieczne rozumieniu odrębnych przepisów, chyba że zostały dopuszczone do przewozu na warunkach szczególnych. drodze rozporządzenia, mogą określać szczególne warunki przewozu:
 - **1)** rzeczy łatwo psujących się,
 - **2)** zwłok i szczątków zwłok ludzkich,
 - **3)** żywych zwierząt mając na względzie zapewnienie bezpieczeństwa przewozu, wymaganych warunków przewozu oraz warunków sanitarnych dla zapewnienia ochrony zdrowia i środowiska.
@@ -387,7 +388,7 @@ Prawo przewozowe
 
 1. Przewoźnik może odmówić przyjęcia do przewozu rzeczy, których stan jest wadliwy lub opakowanie niedostateczne albo niemających wymaganego opakowania.
 
-2. Przewoźnik może uzależnić przyjęcie do przewozu rzeczy, których opakowanie nie odpowiada warunkom określonym art. 41 lub ze śladami uszkodzenia, od zamieszczenia przez nadawcę liście przewozowym odpowiedniego oświadczenia o stanie przesyłki. obowiązków nadawcy lub odbiorcy.
+2. Przewoźnik może uzależnić przyjęcie do przewozu rzeczy, których opakowanie nie odpowiada warunkom określonym art. 41 lub ze śladami uszkodzenia, od zamieszczenia przez nadawcę liście przewozowym odpowiedniego oświadczenia o stanie przesyłki.
 
 2. Nadawca, odbiorca lub inny podmiot wykonujący czynności ładunkowe jest obowiązany wykonać je sposób zapewniający przewóz przesyłki towarowej zgodnie z przepisami ruchu drogowego i przepisami o drogach publicznych, a szczególności niepowodujący zagrożenia bezpieczeństwa ruchu drogowego, przekroczenia dopuszczalnej masy pojazdów lub przekroczenia dopuszczalnych nacisków osi.
 
@@ -440,7 +441,7 @@ Prawo przewozowe
 
 4. Przyczynę i czas przedłużenia oraz zawieszenia biegu terminu przewozu przewoźnik jest obowiązany wskazać liście przewozowym.
 
-5. Jeżeli termin przewozu upływa godzinach, których punkt odprawy przewoźnika nie jest otwarty dla czynności ekspedycyjnych, zakończenie terminu następuje po upływie dwóch godzin od najbliższego otwarcia punktu dla tych czynności. godzinie najbliższego dnia roboczego, chyba że przewoźnik dokonuje czynności ekspedycyjnych również dniu ustawowo wolnym od pracy.
+5. Jeżeli termin przewozu upływa godzinach, których punkt odprawy przewoźnika nie jest otwarty dla czynności ekspedycyjnych, zakończenie terminu następuje po upływie dwóch godzin od najbliższego otwarcia punktu dla tych czynności. wolnym od pracy.
 
 7. Termin przewozu przesyłki jest zachowany, jeżeli przed jego upływem przewoźnik:
 
@@ -497,7 +498,7 @@ Prawo przewozowe
 1. Nadawca może zamieścić liście przewozowym wskazówki co do postępowania z przesyłką na wypadek:
 
 - **1)** przeszkody przewozie powodującej niemożność wykonania umowy zgodnie z warunkami określonymi liście przewozowym;
-- **2)** przeszkody wydaniu powodującej niemożność wydania przesyłki miejscu przeznaczenia odbiorcy określonemu liście przewozowym. Jeżeli liście przewozowym brak takich wskazówek, przewoźnik zwraca się o nie do nadawcy. go odpowiadający tej drodze termin przewozu, chyba że przeszkody przewozie są zawinione przez przewoźnika.
+- **2)** przeszkody wydaniu powodującej niemożność wydania przesyłki miejscu przeznaczenia odbiorcy określonemu liście przewozowym. Jeżeli liście przewozowym brak takich wskazówek, przewoźnik zwraca się o nie do nadawcy.
 
 3. W razie usunięcia przeszkody przed otrzymaniem wskazówek od nadawcy, przewoźnik kieruje przesyłkę do miejsca przeznaczenia lub wydaje ją odbiorcy, zawiadamiając o tym nadawcę.
 
@@ -583,7 +584,7 @@ Prawo przewozowe
 
 1. Przewoźnik ponosi odpowiedzialność za utratę, ubytek lub uszkodzenie przesyłki powstałe od przyjęcia jej do przewozu aż do jej wydania oraz za opóźnienie przewozie przesyłki.
 
-2. Przewoźnik nie ponosi odpowiedzialności określonej ust. 1, jeżeli utrata, ubytek lub uszkodzenie albo opóźnienie przewozie przesyłki powstały z przyczyn występujących po stronie nadawcy lub odbiorcy, niewywołanych winą przewoźnika, z właściwości towaru albo wskutek siły wyższej. Dowód, że szkoda lub przekroczenie terminu przewozu przesyłki wynikło z jednej z wymienionych okoliczności, ciąży na przewoźniku. powstały co najmniej z jednej z następujących przyczyn:
+2. Przewoźnik nie ponosi odpowiedzialności określonej ust. 1, jeżeli utrata, ubytek lub uszkodzenie albo opóźnienie przewozie przesyłki powstały z przyczyn występujących po stronie nadawcy lub odbiorcy, niewywołanych winą przewoźnika, z właściwości towaru albo wskutek siły wyższej. Dowód, że szkoda lub przekroczenie terminu przewozu przesyłki wynikło z jednej z wymienionych okoliczności, ciąży na przewoźniku.
 
 - **1)** nadania pod nazwą niezgodną z rzeczywistością, nieścisłą lub niedostateczną rzeczy wyłączonych z przewozu lub przyjmowanych do przewozu na warunkach szczególnych albo niezachowania przez nadawcę tych warunków;
 - **2)** braku, niedostateczności lub wadliwości opakowania rzeczy, narażonych tych warunkach na szkodę wskutek ich naturalnych właściwości;

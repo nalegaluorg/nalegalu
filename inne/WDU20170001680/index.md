@@ -1,0 +1,154 @@
+---
+title: Rozporządzenie Ministra Obrony Narodowej z dnia 3 sierpnia 2017 r. w sprawie postępowania kwalifikacyjnego wobec żołnierzy ubiegających się o wyznaczenie na stanowiska służbowe w Służbie Wywiadu Wojskowego
+address: WDU20170001680
+eli: DU/2017/1680
+publisher: DU
+year: 2017
+pos: 1680
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# Warszawa, dnia 4 września 2017 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 1680 |
+| ISAP | WDU20170001680 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2017-08-03 |
+| Data wydania | 2017-09-04 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001680) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1680/text.pdf) |
+
+ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 3 sierpnia 2017 r.
+w sprawie postępowania kwalifikacyjnego wobec żołnierzy ubiegających się o wyznaczenie na stanowiska służbowe w Służbie Wywiadu Wojskowego Na podstawie art. 47 ust. 2 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2016 r. poz. 1318, 1955 i 2138 oraz z 2017 r. poz. 768) zarządza się, co następuje: § 1. Rozporządzenie określa:
+1) szczegółowe formy i tryb przeprowadzania postępowania kwalifikacyjnego wobec żołnierzy ubiegających się o wyznaczenie na stanowiska służbowe w Służbie Wywiadu Wojskowego, zwanych dalej „kandydatami”;
+2) wzór kwestionariusza osobowego kandydata.
+§ 2. Użyte w rozporządzeniu skróty oznaczają:
+1) SWW Służbę Wywiadu Wojskowego;
+2) ustawa ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego;
+3) ustawa o ochronie informacji niejawnych ustawę z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U.
+z 2016 r. poz. 1167 i 1948 oraz z 2017 r. poz. 935).
+§ 3. Postępowanie kwalifikacyjne jest prowadzone z uwzględnieniem przepisów ustawy o ochronie informacji niejawnych i ma na celu ustalenie, czy kandydat:
+1) spełnia określone w ustawie warunki do pełnienia służby w SWW;
+2) daje rękojmię zachowania tajemnicy w rozumieniu ustawy o ochronie informacji niejawnych.
+§ 4. 1. Postępowanie kwalifikacyjne wobec kandydata przeprowadza jednostka organizacyjna SWW właściwa w sprawach kadrowych.
+2. W razie konieczności zapewnienia szczególnej ochrony danych osobowych kandydata Szef SWW może wyznaczyć do przeprowadzenia postępowania kwalifikacyjnego inną jednostkę organizacyjną niż określona w ust. 1.
+3. Postępowanie sprawdzające przeprowadzane na podstawie ustawy o ochronie informacji niejawnych prowadzi pełnomocnik ochrony SWW.
+§ 5. 1. Postępowanie kwalifikacyjne rozpoczyna się po złożeniu przez kandydata pisemnego podania o wyznaczenie na stanowisko służbowe w SWW.
+2. Jednostka organizacyjna, o której mowa w § 4 ust. 1 albo ust. 2, w każdym czasie bez podania przyczyny może odstą2) życiorys zawodowy obejmujący przebieg zatrudnienia i nauki oraz kwalifikacje i poziom znajomości języków obcych;
+3) świadectwa stwierdzające posiadane wykształcenie i kwalifikacje zawodowe, w tym specjalistyczne, oraz inne dokumenty potwierdzające umiejętności i osiągnięcia zawodowe;
+4) dokumenty poświadczające poziom znajomości języków obcych;
+5) świadectwa służby lub świadectwa pracy z dotychczasowych miejsc służby lub pracy;
+6) kopię poświadczenia bezpieczeństwa lub wypełnioną ankietę bezpieczeństwa osobowego, o których mowa w przepisach o ochronie informacji niejawnych;
+7) trzy aktualne zdjęcia.
+§ 7. Odmowa wydania kandydatowi poświadczenia bezpieczeństwa, o którym mowa w przepisach ustawy o ochronie informacji niejawnych, skutkuje odstąpieniem od dalszego prowadzenia postępowania kwalifikacyjnego.
+§ 8. Zdolność fizyczną i psychiczną kandydata ustala wojskowa komisja lekarska, do której kieruje kandydata Szef SWW.
+§ 9. 1. Kandydat, który ubiega się o przyjęcie do służby w SWW na stanowisko wymagające szczególnych umiejętności lub predyspozycji, może być poddany w szczególności:
+1) egzaminowi sprawności fizycznej;
+2) badaniu psychofizjologicznemu;
+3) badaniu psychologicznemu.
+2. Na egzamin i badania, o których mowa w ust. 1, kieruje kandydata Szef SWW.
+§ 10. 1. Negatywny wynik przewidzianych w postępowaniu kwalifikacyjnym badań, sprawdzeń lub czynności albo odmowa poddania się im mogą powodować odstąpienie od dalszego prowadzenia postępowania kwalifikacyjnego wobec kandydata.
+2. Przepisu ust. 1 nie stosuje się do postępowań, o których mowa w § 4 ust. 3 i § 8.
+§ 11. 1. Rozmowę kwalifikacyjną z kandydatem przeprowadza kierownik jednostki organizacyjnej, o której mowa w § 4 ust. 1 albo ust. 2, lub osoba przez niego upoważniona.
+2. Przed rozpoczęciem rozmowy kwalifikacyjnej potwierdza się tożsamość kandydata.
+3. W toku rozmowy kwalifikacyjnej sprawdza się motywacje kandydata, jego cechy osobowe, umiejętności i predyspozycje do służby w SWW.
+4. Rozmowa kwalifikacyjna może być prowadzona etapowo, z udziałem osób dokonujących oceny umiejętności zawodowych i specjalistycznych kandydata.
+5. Wyniki rozmowy kwalifikacyjnej z kandydatem zamieszcza się w kwestionariuszu osobowym, o którym mowa w § 6 pkt 1.
+§ 12. 1. Na zakończenie postępowania kwalifikacyjnego kierownik jednostki organizacyjnej, o której mowa w § 4 ust. 1 albo ust. 2, lub osoba przez niego upoważniona sporządzają ocenę końcową kandydata, obejmującą ocenę jego przydatności do służby w SWW.
+2. Formułując ocenę końcową kandydata, bierze się pod uwagę w szczególności wyniki przeprowadzonego postępowa5) umiejętności posługiwania się technikami informatycznymi;
+6) posiadanie uprawnień do prowadzenia pojazdów mechanicznych.
+§ 13. 1. Ocenę końcową kandydata oraz wnioski dotyczące możliwości przyjęcia go do służby w jednostkach (komórkach) organizacyjnych SWW kierownik jednostki organizacyjnej, o której mowa w § 4 ust. 1 albo ust. 2, przedstawia Szefowi SWW, który podejmuje decyzję o dalszym postępowaniu wobec kandydata.
+2. Ocenę, wnioski i decyzję, o których mowa w ust. 1, zamieszcza się w kwestionariuszu osobowym.
+§ 14. Kierownik jednostki organizacyjnej, o której mowa w § 4 ust. 1, powiadamia pisemnie kandydata o odmowie przyjęcia go do służby w SWW.
+§ 15. Do postępowań kwalifikacyjnych wszczętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+§ 16. Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 26 lipca 2006 r. w sprawie postępowania kwalifikacyjnego wobec żołnierzy ubiegających się o wyznaczenie na stanowiska służbowe w Służbie Wywiadu Wojskowego (Dz. U. poz. 981).
+§ 17. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Obrony Narodowej: A. Macierewicz ………………………………………………….
+(pieczęć jednostki organizacyjnej SWW) ……………………………… KWESTIONARIUSZ OSOBOWY KANDYDATA DO SŁUŻBY W SŁUŻBIE WYWIADU WOJSKOWEGO Przed wypełnieniem należy przeczytać ankietę. W przypadku braku miejsca w rubryce wykorzystać wolne miejsca w formularzu lub dołączyć dodatkowe arkusze.
+14 Czy społecznościowych? posiada Pan(i) konta na portalach 15 Czy kiedykolwiek został(a) Pan(i) zwolniony(na) dyscyplinarnie z pracy?
+(w przypadku odpowiedzi twierdzącej proszę podać powód) 16 Aktualne miejsce służby lub pracy (pełna nazwa i adres korespondencyjny pracodawcy) 17 Adres korespondencyjny miejsca zameldowania na pobyt: − stały − czasowy − ewentualne faktyczne miejsce zamieszkania 18 okres rodzaj adres zameld.
+Kolejne adresy zamieszkania stałe i czasowe oraz okresy zameldowania 19 Numer telefonu kontaktowego: − służbowy − prywatny − inny Dokumenty tożsamości: 20 − legitymacja żołnierza zawodowego: seria i numer oraz kiedy i przez kogo wydana − dowód osobisty: seria i numer oraz kiedy i przez kogo wydany − paszport (paszporty): seria i numer oraz kiedy i przez kogo wydany − prawo jazdy: seria i numer, kategoria oraz kiedy i przez kogo wydane 21 Stosunek do powszechnego obowiązku obrony Rzeczypospolitej Polskiej (nie podlega, poborowy, przeniesiony do rezerwy bez odbycia zasadniczej służby wojskowej lub po jej odbyciu, odroczony), numer i seria książeczki wojskowej 22 Posiadany stopień wojskowy lub służbowy 23 Posiadany i numer rejestracyjny pojazd (pojazdy) jego marka Przebieg nauki, w tym za granicą: 24 ukończona uczelnia, szkoła, kurs, okres nauki i ewentualnie uzyskany tytuł 25 Czy w okresie nauki miał(a) Pan(i) osiągnięcia i wyróżnienia naukowe (stypendia naukowe, osiągnięcia w konkursach itp. powyżej szkoły średniej) 26 Przebieg pracy zawodowej (służby) kandydata: kolejne miejsca zatrudnienia, okres pracy oraz w każdym przypadku powód (powody) zmiany 27 Dodatkowe kwalifikacje specjalistyczne, uprawnienia, licencje, świadectwa oraz daty ich uzyskania 28 Ważne wydarzenia w życiu osobistym lub daty obchodzonych rocznic, wypadków losowych itp.
+29 Proszę wymienić wszystkie swoje zobowiązania finansowe:
+a) zaciągnięte kredyty (pożyczki): − bankowe − w innych instytucjach finansowych − od osób fizycznych
+b) inne, np. alimentacyjne, podając ich wysokość i termin spłaty (uregulowania) Czy ubiegał(a) się Pan(i) kiedykolwiek o pozwolenie na broń?
+30 Jeżeli tak, to kiedy i jak zakończyło się postępowanie; numer pozwolenia na broń (w przypadku jego otrzymania) Czy był(a) Pan(i) wzywany(na) lub 31 zatrzymany(na) przez Policję lub inny organ bezpieczeństwa krajowy lub zagraniczny?
+Jeżeli tak, to przez jaki organ, kiedy i w jakich sprawach?
+Czy był(a) Pan(i) karany(na) za popełnienie przestępstwa lub wykroczenia, przestępstwa skarbowego lub czy było prowadzone wobec Pana(ni) postępowanie egzekucyjne, 32 windykacyjne?
+Jeżeli tak, to: − kiedy?
+− przez jaki sąd lub inny organ?
+− za jaki czyn (czyny)?
+− rodzaj i wymiar kary 33 okres nazwa partii politycznej, organizacji społecznej lub pełnione od do związkowej, funkcje stowarzyszenia bądź fundacji Przynależność do partii politycznych, organizacji społecznych i związkowych, w tym także do korporacji gospodarczych i zawodowych oraz stowarzyszeń i fundacji (krajowych bądź zagranicznych), w przeszłości i obecnie
+34. Dane osobowe członków najbliższej rodziny kandydata, to jest:
+a) dzieci, rodziców i rodzeństwa,
+b) małżonki (małżonka) bądź partnerki (partnera) i jej (jego) dzieci, rodziców i rodzeństwa, w tym dzieci współmałżonka (konkubenta(tki)), przysposobione lub wzięte na wychowanie w ramach rodziny zastępczej,
+c) innych osób pozostających we wspólnym gospodarstwie domowym Imię, nazwisko, imię ojca i matki, Zawód i miejsce Stopień nazwisko Obywatelstwo pracy (nauki) Adres pokrewieństwa panieńskie matki, (obywatelstwa) nazwa instytucji zamieszkania data i miejsce lub firmy i jej adres urodzenia, numer korespondencyjny PESEL
+35. Czy po ukończeniu 18 roku życia przebywał(a) Pan(i) za granicą?
+Wypadki szczególne: Charakter (służbowy wypadki losowe, Kraj (kraje) pobytu Kiedy nastąpił wyjazd czy prywatny) i cel interwencje policji lub i na jaki czas pobytu innych służb państwa pobytu, utrata dokumentów
+36. Pobyty za granicą po ukończeniu 18 lat osób wymienionych w pkt 34 Wypadki szczególne: Kiedy nastąpił Charakter wypadki losowe, Osoba z pkt 34 Kraj (kraje) wyjazd i na jaki (służbowy czy interwencje pobytu czas prywatny) i cel policji lub innych pobytu służb państwa pobytu, utrata dokumentów
+37. Krewni za granicą osób wymienionych w pkt 34 Imię i nazwisko Kraj pobytu, Charakter Osoba z pkt 34 krewnego, rok Stopień adres i częstotliwość urodzenia pokrewieństwa korespondencyjny kontaktów i numer telefonu
+38. Kontakty Pana(ni) z obywatelami, instytucjami i organizacjami innych państw aktualne i byłe Imię, nazwisko, rok Adres urodzenia i zawód Płaszczyzna kontaktów korespondencyjny cudzoziemca lub (służbowe czy cudzoziemca lub Rok i okoliczności nazwa zagranicznej prywatne) siedziby zagranicznej nawiązania kontaktu organizacji bądź organizacji (instytucji) instytucji
+39. Kontakty osób wymienionych w pkt 34 z obywatelami, instytucjami i organizacjami innych państw aktualne i byłe Imię, nazwisko, Adres rok urodzenia korespondencyjny i zawód Płaszczyzna cudzoziemca lub Rok Osoba z pkt 34 cudzoziemca lub kontaktów siedziby i okoliczności nazwa (służbowe czy zagranicznej nawiązania zagranicznej prywatne) organizacji kontaktu organizacji bądź (instytucji) instytucji
+41 Czy wcześniej ubiegał(a) się Pan(i) o przyjęcie do służby (zatrudnienie) w Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Siłach Zbrojnych Rzeczypospolitej Polskiej, Agencji Wywiadu, Agencji Bezpieczeństwa Wewnętrznego, Centralnym Biurze Antykorupcyjnym, Wojskowych Służbach Informacyjnych, Policji, Straży Granicznej, Służbie Więziennej, Służbie Celnej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej, Urzędzie Ochrony Państwa lub innych (kiedy, gdzie oraz powód zwolnienia lub odmowy przyjęcia)?
+42 Czy aktualnie ubiega się Pan(i) o przyjęcie do służby w Służbie Wywiadu Wojskowego w wyniku czyjejś inspiracji?
+Czy kiedykolwiek był(a) Pan(i) 43 poddany(na) badaniu psychofizjologicznemu? Jeżeli tak, to kiedy i w związku z jaką sprawą?
+44 Czy psychofizjologiczne? wyraża Pan(i) zgodę na badanie
+Jeżeli tak, to czy trudność sprawia Panu(ni) powstrzymanie się od nałogu w miejscach publicznych, w których obowiązują określone zakazy?
+47 Czy kiedykolwiek Pan(i) zażywał(a) narkotyki lub inne substancje psychoaktywne (jeżeli tak, to jakie i jak często)?
+48 Czy jakichkolwiek narkotyki Pana(ni) były powodem kłopotów?
+49 Czy bierze Pan(i) udział w grach hazardowych (jeżeli tak, to w jakich i jak często)?
+50 Czy z powodu przegranej w grach hazardowych miał(a) Pan(i) kiedykolwiek długi lub inne kłopoty?
+51 Czy istnieją jakieś kompromitujące zdarzenia lub fakty z przeszłości, których ujawnienie może być podstawą do wywierania na Pana(ni) presji lub stosowania wobec Pana(ni) szantażu?
+Czy kiedykolwiek podejmował(a) Pan(i) 52 kroki zmierzające do odebrania sobie życia?
+Czy kiedykolwiek był(a) Pan(i) 53 leczony(na) z powodu chorób neurologicznych bądź zaburzeń psychicznych?
+54 Czy kiedykolwiek zażywał(a) Pan(i) leki psychoaktywne (np. przeciwlękowe, antydepresyjne). Jeżeli tak, to jakie i kiedy?
+55 Czy zażywa Pan(i) regularnie lekarstwa?
+Jeżeli tak, to jakiego typu i z jakiego powodu?
+56 Czy spożywa Pan(i) alkohol?
+Jeżeli tak, to jak często (okazjonalnie, często, nałogowo)?
+57 Czy alkohol był powodem jakichkolwiek Pana(ni) kłopotów (jeżeli tak, to jakich)?
+Czy kiedykolwiek prowadził(a) Pan(i) samochód pod wpływem alkoholu?
+58 Czy został(a) Pan(i) w takich okolicznościach zatrzymana przez Policję?
+59 Czy ma Pan(i) blizny lub tatuaże?
+Proszę opisać okoliczności ich powstania;
+w przypadku tatuaży określić ich treść i znaczenie.
+60 Czy ubiegał(a) się Pan(i) o przyznanie odszkodowania powypadkowego lub renty inwalidzkiej?
+Proszę opisać kiedy i gdzie?
+61 Jakie niezwiązane ma Pan(i) z pracą zainteresowania, zawodową? w tym 62 Czy nieformalnej kiedykolwiek grupy należał(a) (jakiej, kiedy, Pan(i) gdzie)? do 63 Czy szantażowany(na)? kiedykolwiek był(a) Pan(i) 64 Czy rodzinny? ma Pan(i) jakiś poważny problem 65 Czy często zdarza się Panu(ni) konfabulować przez dodawanie do swoich wypowiedzi szczegółów niezgodnych z prawdą?
+66 Czy w ciągu ostatnich dwóch lat okłamał(a) Pan(i) w ważnych sprawach osobę, na której Panu(ni) zależy?
+67 Czy potrafi Pan(i) w niespodziewanych sytuacjach „na poczekaniu” wymyślić wiarygodną historyjkę?
+68 Czy potrafi Pan(i) skutecznie wprowadzić kogoś w błąd?
+Czy w latach 1944–1990 był(a) Pan(i) pracownikiem lub tajnym współpracownikiem organów bezpieczeństwa państwa w rozumieniu ustawy z dnia 18 października 2006 r.
+69 o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2016 r. poz. 1721, z późn. zm.)?
+70 Czy kiedykolwiek podczas pobytu za granicą był(a) Pan(i) wypytywany(na) lub w inny sposób indagowany(na) przez obce władze (imigracyjne, skarbowe, inne) na tematy związane z zagadnieniami bezpieczeństwa lub obronności państwa?
+Czy wiadomo Panu(ni) coś o analogicznych działaniach wobec Pana(ni) współmałżonki(ka) lub innych osób pozostających we wspólnym gospodarstwie domowym bądź innych członków rodziny?
+71 Czy kiedykolwiek stwierdził(a) Pan(i) fakt zainteresowania Panem(nią)ze strony służb specjalnych lub innych obcych instytucji aparatu ścigania (Policji, Straży Granicznej) bądź grup zorganizowanej przestępczości (polskich lub zagranicznych)? Czy wiadomo Panu(ni) coś o analogicznym zainteresowaniu Pana(ni) współmałżonką(kiem), innymi osobami pozostającymi we wspólnym gospodarstwie domowym bądź innymi członkami rodziny?
+Wypełniony kwestionariusz osobowy kandydata nie podlega zwrotowi.
+Oświadczam, że zostałem(łam) poinformowany(na) o zasadach postępowania kwalifikacyjnego wiążących się z naborem do służby w Służbie Wywiadu Wojskowego. Wyrażam zgodę na przetwarzanie moich danych osobowych zamieszczonych w niniejszym kwestionariuszu w rozumieniu art. 7 pkt 2 i 5 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U.
+z 2016 r. poz. 922).
+Prawdziwość danych zawartych w kwestionariuszu stwierdzam własnoręcznym podpisem.
+Przyjmuję do wiadomości, że podanie nieprawdziwych albo niepełnych danych lub ich zatajenie może być powodem odmowy przyjęcia do służby w Służbie Wywiadu Wojskowego.
+.............................................................. ..............................................................
+Kwestionariusz osobowy przyjął i sprawdził na podstawie ................................................................
+....................................................................................................................................................................
+Wyniki rozmowy kwalifikacyjnej: ………………..…………………………………….
+( Ocena końcowa kandydata: ………………..…………………………………….
+Wnioski dotyczące możliwości przyjęcia kandydata do służby w jednostkach organizacyjnych Służby Wywiadu Wojskowego: ………………..…………………………………….
+Decyzja Szefa Służby Wywiadu Wojskowego: : ………………………
+
+## CZĘŚĆ I Lp. PYTANIE (ZAGADNIENIE) ODPOWIEDŹ 1 Imiona i nazwisko (imię używane podkreślić) 2 Imię ojca, imię i nazwisko panieńskie matki 3 Data i miejsce urodzenia 4 Numer PESEL 5 Numer identyfikacji podatkowej NIP 6 Narodowość i obywatelstwo, poprzednie obywatelstwa (data i powód zmiany) Poprzednio używane nazwiska i imiona 7 (zmienione urzędowo lub w inny sposób, data i powód zmiany) Używane pseudonimy (w przeszłości 8 i obecnie), kiedy i przez kogo zostały nadane 9 Stan cywilny 10 Wykształcenie 11 Znajomość języków obcych Zawód 12 wyuczony wykonywany 13 Czy korzysta Pan(i) z poczty elektronicznej?
+
+## CZĘŚĆ II
+
+## CZĘŚĆ III
+
+## CZĘŚĆ IV Lp. PYTANIE (ZAGADNIENIE) ODPOWIEDŹ 40 Czy posiada Pan(i) poświadczenie bezpieczeństwa? Jeżeli tak, to do jakiej klauzuli tajności, jego numer oraz kiedy i przez kogo zostało wydane?
+
+## CZĘŚĆ V Lp. PYTANIE (ZAGADNIENIE) ODPOWIEDŹ 45 Czy w czasie trudno wolnym się Panu(ni) od pracy? zrelaksować 46 Czy nałogowo korzysta Pan(i) z używek?
+

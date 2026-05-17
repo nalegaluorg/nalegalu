@@ -8,9 +8,12 @@ pos: 1411
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 września 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy zapewnianiu dostępności osobom ze szczególnymi potrzebami
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 18 września 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-09-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001411) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1411/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 18 września 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy zapewnianiu dostępności osobom ze szczególnymi potrzebami
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 lipca 2019 r. zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2022 r.
 poz. 2240), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 26 kwietnia 2024 r. zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731),
@@ -164,7 +165,7 @@ Art. 42–55. (pominięte)
 - **3)** śmierci;
 - **4)** niemożności sprawowania funkcji z powodu długotrwałej choroby stwierdzonej zaświadczeniem lekarskim;
 - **5)** skazania prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **6)** pozbawienia praw publicznych. członka Rady na okres pozostały do końca kadencji, spośród pozostałych kandydatów, zgłoszonych zgodnie z ust. 4, po potwierdzeniu aktualności zgłoszenia, lub spośród osób, których mowa ust. 6.
+- **6)** pozbawienia praw publicznych. po potwierdzeniu aktualności zgłoszenia, lub spośród osób, których mowa ust. 6.
 
 12. Przewodniczącym Rady jest minister właściwy do spraw rozwoju regionalnego.
 
@@ -334,7 +335,7 @@ Art. 42–55. (pominięte)
 - **1)** dane kontaktowe wnioskodawcy;
 - **2)** wskazanie bariery utrudniającej lub uniemożliwiającej dostępność zakresie architektonicznym lub informacyjno-komunikacyjnym;
 - **3)** wskazanie sposobu kontaktu z wnioskodawcą;
-- **4)** wskazanie preferowanego sposobu zapewnienia dostępności, jeżeli dotyczy. zbędnej zwłoki nie później jednak niż terminie 14 dni od dnia złożenia wniosku zapewnienie dostępności.
+- **4)** wskazanie preferowanego sposobu zapewnienia dostępności, jeżeli dotyczy.
 
 2. Jeżeli zapewnienie dostępności, zakresie określonym we wniosku zapewnienie dostępności, nie jest możliwe terminie, którym mowa ust. 1, podmiot, którym mowa art. 30 ust. 2, niezwłocznie powiadamia wnioskodawcę przyczynach opóźnienia i wskazuje nowy termin zapewnienia dostępności, nie dłuższy niż 2 miesiące od dnia złożenia wniosku zapewnienie dostępności.
 
@@ -458,9 +459,9 @@ Art. 42–55. (pominięte)
 
 **Art. 56.**
 
-1. W terminie 12 miesięcy od dnia wejścia życie ustawy, ministrowie kierujący działami administracji rządowej dokonują, zakresie swojej właściwości, przeglądu obowiązującego prawa pod kątem zapewnienia dostępności osobom ze szczególnymi potrzebami i sporządzą raporty zawierające propozycje zmian prawnych tym zakresie. ruje je do zaopiniowania przez Radę Dostępności. Raporty są opiniowane przez Radę Dostępności drodze uchwały, która może zawierać rekomendacje do zmian prawnych. Opinia Rady Dostępności nie jest wiążąca dla Rady Ministrów.
+1. W terminie 12 miesięcy od dnia wejścia życie ustawy, ministrowie kierujący działami administracji rządowej dokonują, zakresie swojej właściwości, przeglądu obowiązującego prawa pod kątem zapewnienia dostępności osobom ze szczególnymi potrzebami i sporządzą raporty zawierające propozycje zmian prawnych tym zakresie.
 
-3. Właściwy minister, na wniosek ministra właściwego do spraw rozwoju regionalnego, terminie 12 miesięcy od dnia otrzymania wniosku, przedstawia Radzie Ministrów informację planowanych działaniach zakresie określonym we wniosku, uwzględniającym rekomendacje, których mowa ust. 2.
+2. Raporty, których mowa ust. 1, są kierowane do ministra właściwego do spraw rozwoju regionalnego, który kieruje je do zaopiniowania przez Radę Dostępności. Raporty są opiniowane przez Radę Dostępności drodze uchwały, która może zawierać rekomendacje do zmian prawnych. Opinia Rady Dostępności nie jest wiążąca dla Rady Ministrów. dnia otrzymania wniosku, przedstawia Radzie Ministrów informację planowanych działaniach zakresie określonym we wniosku, uwzględniającym rekomendacje, których mowa ust. 2.
 
 **Art. 57.** Rządowy Program Dostępność Plus, przyjęty przez Radę Ministrów dniu 17 lipca 2018 r., z dniem wejścia życie ustawy staje się rządowym programem mającym na celu wsparcie działań na rzecz dostępności, którym mowa art. 10 ust. 2, i może być zmieniany.
 

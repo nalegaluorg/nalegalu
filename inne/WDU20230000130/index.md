@@ -8,9 +8,12 @@ pos: 130
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 stycznia 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o kinematografii
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 grudnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000130) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/130/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 grudnia 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o kinematografii
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2022 r. poz. 1066), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 grudnia 2022 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 63 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią: „Art. 63. Do postępowań sprawach należności z tytułu wpłat, o których mowa art. 19 ust. 1–5, 6a i 7 ustawy zmienianej art. 23, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 81. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 45 pkt 1, który wchodzi życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2021 r.;
@@ -99,7 +100,7 @@ Art. 31–33. (pominięte)
 - **2)** inspirowanie i wspieranie rozwoju wszystkich gatunków polskiej twórczości filmowej, a szczególności filmów artystycznych tym przygotowania projektów filmowych, produkcji filmów i rozpowszechniania filmów;
 - **3)** wspieranie działań mających na celu tworzenie warunków powszechnego dostępu do dorobku polskiej, europejskiej i światowej sztuki filmowej;
 - **4)** wspieranie debiutów filmowych oraz rozwoju artystycznego młodych twórców filmowych;
-- **5)** promocję polskiej twórczości filmowej; i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej, tym produkcji filmów podejmowanych przez środowiska polonijne;
+- **5)** promocję polskiej twórczości filmowej; filmów podejmowanych przez środowiska polonijne;
 - **7)** świadczenie usług eksperckich organom administracji publicznej;
 - **8)** wspieranie utrzymywania archiwów filmowych;
 - **9)** wspieranie rozwoju potencjału polskiego niezależnego przemysłu kinematograficznego, a szczególności małych i średnich przedsiębiorców działających kinematografii;
@@ -279,7 +280,7 @@ Art. 31–33. (pominięte)
 1. Podmiot prowadzący kino przekazuje Instytutowi:
 
 - **1)** dzienne dane o liczbie widzów, liczbie sprzedanych biletów i zaakceptowanych znakach legitymacyjnych oraz przychodach z tytułu sprzedaży biletów odniesieniu do każdego filmu wyświetlanego danym dniu;
-- **2)** miesięczne dane o przychodach z tytułu wyświetlania filmów i reklam kinie. każdego kina.
+- **2)** miesięczne dane o przychodach z tytułu wyświetlania filmów i reklam kinie.
 
 3. Dane, o których mowa ust. 1:
 
@@ -370,7 +371,7 @@ Art. 31–33. (pominięte)
 - **2)** znaczenie dla kultury narodowej oraz umacnianie tradycji polskiej i języka ojczystego;
 - **3)** wzbogacenie europejskiej różnorodności kulturalnej;
 - **4)** przewidywane skutki planowanego przedsięwzięcia;
-- **5)** warunki ekonomiczno-finansowe realizacji. przygotowania projektów filmowych i produkcji filmów również formie udzielenia pożyczki lub poręczenia.
+- **5)** warunki ekonomiczno-finansowe realizacji.
 
 2. Dofinansowanie przedsięwzięcia nie może przekroczyć 50% budżetu filmu, z wyjątkiem filmów, których treść i forma mają charakter ambitny artystycznie i które mają ograniczone walory komercyjne lub debiutów reżyserskich (film trudny) oraz filmów niskobudżetowych. W każdym przypadku kwota dofinansowania przedsięwzięcia nie może przekroczyć 90% budżetu przedsięwzięcia.
 

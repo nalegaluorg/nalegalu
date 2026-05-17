@@ -1,0 +1,61 @@
+---
+title: Rozporządzenie Rady Ministrów z dnia 31 sierpnia 2023 r. w sprawie współdziałania Straży Granicznej oraz oddziałów i pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej
+address: WDU20230001767
+eli: DU/2023/1767
+publisher: DU
+year: 2023
+pos: 1767
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 sierpnia 2023 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 1767 |
+| ISAP | WDU20230001767 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-08-31 |
+| Data wydania | 2023-08-31 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001767) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1767/text.pdf) |
+
+Poz. 1767 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 31 sierpnia 2023 r.
+w sprawie współdziałania Straży Granicznej oraz oddziałów pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej Na podstawie art. 11b ust. 11 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489 1723) zarządza się, co następuje: § 1. Rozporządzenie określa:
+1) podmioty organizujące współdziałanie oraz sposób organizacji współdziałania Straży Granicznej oraz oddziałów pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „Siłami Zbrojnymi”,
+2) sposób koordynowania działań podejmowanych przez Straż Graniczną oraz Siły Zbrojne,
+3) sposób wymiany informacji sposób logistycznego wsparcia działań Straży Granicznej prowadzonych z pomocą oddziałów pododdziałów Sił Zbrojnych – w przypadkach, o których mowa w art. 11b ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej, zwanej dalej „ustawą”.
+§ 2. Ilekroć w rozporządzeniu jest mowa o:
+1) dowódcy sił Straży Granicznej – należy przez to rozumieć – właściwego ze względu na miejsce działań podejmowanych przez Straż Graniczną oraz Siły Zbrojne:
+a) w obszarze właściwości miejscowej jednej placówki lub dywizjonu Straży Granicznej – komendanta tej placówki lub dywizjonu Straży Granicznej,
+b) wykraczających poza obszar właściwości miejscowej jednej placówki lub dywizjonu Straży Granicznej – właściwego komendanta oddziału Straży Granicznej,
+c) wykraczających poza obszar właściwości miejscowej jednego oddziału Straży Granicznej – funkcjonariusza Straży Granicznej wyznaczonego przez Komendanta Głównego Straży Granicznej;
+2) dowódcy Sił Zbrojnych – należy przez to rozumieć dowódcę oddziału lub pododdziału Sił Zbrojnych.
+§ 3. Minister Obrony Narodowej wyznacza dowódcę Sił Zbrojnych oraz w porozumieniu z ministrem właściwym do spraw wewnętrznych, po wydaniu postanowienia, o którym mowa w art. 11b ust. 2 ustawy, ustala niezwłocznie:
+1) skład Sił Zbrojnych, które mają być użyte, oraz ich zadania liczebność;
+2) obszar, na jakim Siły Zbrojne będą wykonywały zadania, oraz czas ich wykonywania;
+3) ograniczenia dotyczące użycia posiadanych środków własnych będących na wyposażeniu Sił Zbrojnych.
+§ 4. Działania podejmowane przez siły Straży Granicznej Siły Zbrojne w przypadkach, o których mowa w art. 11b ust. 1 ustawy, organizują dowódca sił Straży Granicznej dowódca Sił Zbrojnych.
+Dziennik Ustaw – 2 – Poz. 1767 § 5. 1. Koordynacja działań podejmowanych przez Straż Graniczną Siły Zbrojne polega na tym, że organ koordynujący, o którym mowa w art. 11b ust. 8 ustawy, Dowódca Operacyjny Rodzajów Sił Zbrojnych ustalają:
+1) wydzielenie adekwatnych do zagrożenia możliwości sił środków do podejmowanych działań;
+2) podział zadań stosownie do możliwości wykonawczych Straży Granicznej Sił Zbrojnych;
+3) plany harmonogramy niezbędne do wykonywania zadań;
+4) procedury niezbędne do wykonywania zadań;
+5) jakie informacje niezbędne do realizacji zadań, dotyczące w szczególności zagrożeń, przebiegu zdarzeń wyników dotychczasowych działań, jak też mające wpływ na metody formy skutecznego przeciwdziałania zagrożeniom dla bezpieczeństwa państwa, nienaruszalności granicy państwowej, bezpieczeństwa publicznego lub zakłócenia porządku publicznego oraz efektywnego jego przywracania będą przekazywane;
+6) obiekty miejsca, w których mogą zostać zakwaterowane Siły Zbrojne;
+7) zabezpieczenie przemieszczania Sił Zbrojnych w związku z udzielaniem pomocy Straży Granicznej;
+8) techniczne środki przeznaczone do wymiany informacji oraz metody ochrony poufności przekazu informacji;
+9) zakres wzajemnego wsparcia logistycznego działań Straży Granicznej Sił Zbrojnych.
+2. Organ koordynujący wyznacza funkcjonariusza Straży Granicznej lub zespół funkcjonariuszy Straży Granicznej do wykonywania funkcji łącznikowej w miejscu realizacji zadań wyznaczonych dla Sił Zbrojnych, wskazując zakres czynności w ramach tej funkcji.
+§ 6. 1. Wymianę informacji podczas działań Straży Granicznej prowadzonych z pomocą Sił Zbrojnych organizują dowódca sił Straży Granicznej dowódca Sił Zbrojnych.
+2. Wymiana informacji odbywa się z wykorzystaniem środków łączności przewodowej bezprzewodowej, pozostającej w dyspozycji Straży Granicznej Sił Zbrojnych, umożliwiających wzajemne komunikowanie się.
+§ 7. 1. Wsparcie logistyczne organizują dowódca sił Straży Granicznej dowódca Sił Zbrojnych, zgodnie z kompetencjami.
+2. Wsparcie logistyczne jest zapewniane na bazie sił środków będących na wyposażeniu Straży Granicznej oraz Sił Zbrojnych, w szczególności sprzętu specjalistycznego lub pojazdów służbowych, a także wykorzystywanych obiektów miejsc zakwaterowania, adekwatnie do potrzeb możliwości.
+§ 8. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Prezes Rady Ministrów: M. Morawiecki
+

@@ -8,9 +8,12 @@ pos: 2698
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 grudnia 2022 r.
+# o zaniechaniu ścigania za niektóre czyny związane z organizacją wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2020 r.
+
+*USTAWA z dnia 1 grudnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002698) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2698/text.pdf) |
 
-Poz. 2698
-USTAWA z dnia 1 grudnia 2022 r.
-o zaniechaniu ścigania za niektóre czyny związane z organizacją wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2020 r.
 Uznając, że podstawowym obowiązkiem organów władzy publicznej w państwie demokratycznym jest zachowanie ciągłości działalności państwa, mając na względzie, że Konstytucja Rzeczypospolitej Polskiej zobowiązuje organy władzy publicznej do przeprowadzenia wyborów w konstytucyjnie zakreślonym terminie, a organy władzy ustawodawczej, wykonawczej oraz organy jednostek samorządu terytorialnego znalazły się w 2020 r. w nieznanej wcześniej sytuacji zagrożenia życia i zdrowia obywateli Rzeczypospolitej Polskiej, przy czym ich konstytucyjnym obowiązkiem jest troska o życie i zdrowie obywateli, uchwala się niniejszą ustawę.
 
 **Art. 1.** Nie wszczyna się postępowania, a wszczęte umarza, o czyn popełniony w czasie obowiązywania stanu epidemii w rozumieniu ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657, 2280 i 2674), polegający na przekazaniu operatorowi pocztowemu będącemu operatorem wyznaczonym w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042), spisu wyborców w związku z zarządzonymi na dzień 10 maja 2020 r. wyborami Prezydenta Rzeczypospolitej Polskiej.
@@ -41,5 +41,5 @@ Uznając, że podstawowym obowiązkiem organów władzy publicznej w państwie d
 
 **Art. 4.** W zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, 1855, 2582 i 2600).
 
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

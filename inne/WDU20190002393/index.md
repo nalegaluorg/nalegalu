@@ -8,9 +8,12 @@ pos: 2393
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 grudnia 2019 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 listopada 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002393) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2393/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 listopada 2019 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym (Dz. U. poz. 2072), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 listopada 2019 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 102, art. 103 i art. 108 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), które stanowią: „ Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającej decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89).” „Art. 102. 1. W terminie 1 roku od dnia wejścia w życie niniejszej ustawy administrator dostosowuje zasady przetwarzania danych osobowych do środków technicznych i organizacyjnych, o których mowa w art. 39.
 2. Jeżeli wymaga to niewspółmiernie dużego wysiłku lub nakładów, administrator może dostosować zautomatyzowane systemy przetwarzania danych osobowych do środków technicznych i organizacyjnych, w terminie dłuższym niż wskazany w ust. 1, nie później jednak niż do dnia 6 maja 2023 r.

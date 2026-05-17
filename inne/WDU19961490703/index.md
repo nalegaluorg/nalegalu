@@ -8,6 +8,7 @@ pos: 703
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o zastawie rejestrowym i rejestrze zastawów

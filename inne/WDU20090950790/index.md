@@ -8,9 +8,12 @@ pos: 790
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Ustawa z dnia 21 maja 2009 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz ustawy o cudzoziemcach
+
+*USTAWA dnia 21 maja 2009 o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej ustawy o cudzoziemcach*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +27,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090950790) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/790/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 13 czerwca 2003 oudzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2006 234, poz. 1695, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 13 czerwca 2003 o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. 2006 1695, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 13 czerwca 2003 o cudzoziemcach (Dz. U. z 2006 234, poz. 1694, z póên. zm. konawczych wydanych na podstawie art. 89o ) po art. 133 dodaje się art. 133a zmienianej w art. 1, w brzmieniu nadanym niniejszą wbrzmieniu: ustawą, jednakże nie dłużej niż 12 miesięcy od dnia wejścia wżycie niniejszej ustawy. ŃArt. 133a. Przepisu art. 133 nie stosuje się do przetwarzania odcisków linii papilarnych po- Art. 4. Dokumenty podróży przewidziane w Konbranych od cudzoziemca w celu ich za- wencji Genewskiej wydane na podstawie dotychczamieszczenia w dokumencie podróży sowych przepisów zachowują ważność przez okres, przewidzianym wKonwencji Genewskiej, na jaki zostały wydane. ——————— Art. 5.Ustawa wchodzi wżycie zdniem 29 czerwca 2009 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+**Art. 2.** W ustawie dnia 13 czerwca 2003 o cudzoziemcach (Dz. U. 2006 1694, późn. zm. ) po art. 133 dodaje się art. 133a brzmieniu: „Art. 133a. Przepisu art. 133 nie stosuje się do przetwarzania odcisków linii papilarnych pobranych od cudzoziemca celu ich zamieszczenia dokumencie podróży przewidzianym Konwencji Genewskiej, przetwarzanych rejestrze spraw o nadanie statusu uchodźcy udzielenie ochrony uzupełniającej o udzielenie pomocy cudzoziemcom ubiegającym się o nadanie statusu uchodźcy.”.
+
+**Art. 3.** Przepisy wykonawcze wydane na podstawie art. 89o ustawy zmienianej art. 1 zachowują moc do czasu wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 89o ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, jednakże nie dłużej niż 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+
+**Art. 4.** Dokumenty podróży przewidziane Konwencji Genewskiej wydane na podstawie dotychczasowych przepisów zachowują ważność przez okres, na jaki zostały wydane.
+
+**Art. 5.** Ustawa wchodzi życie dniem 29 czerwca 2009
 

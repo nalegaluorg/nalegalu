@@ -8,9 +8,12 @@ pos: 1169
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 sierpnia 2025 r.
+# o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009–2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009–2019
+
+*USTAWA z dnia 5 sierpnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +26,6 @@ domain: null
 | Data wydania | 2025-08-25 |
 | Ostatnia zmiana | 2025-08-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1169/text.pdf) |
-
-Poz. 1169
-USTAWA z dnia 5 sierpnia 2025 r.
-o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009–2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009–2019
 
 **Art. 1.** Ustawa określa zasady ustalania wysokości:
 
@@ -48,11 +47,11 @@ o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych 
 
 2. Zakład Ubezpieczeń Społecznych podejmuje z urzędu postępowanie zawieszone z przyczyny określonej w ust. 1 w przypadku prawomocnego zakończenia postępowania w tej sprawie.
 
-**Art. 5.** Postępowania administracyjne i cywilne w sprawie ustalenia wysokości emerytury lub renty rodzinnej, o których mowa w art. 1, w celu uwzględnienia art. 25a ust. 2 pkt 2 oraz ust. 2a i 2b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, toczą się do czasu uprawomocnienia się kończących je decyzji lub orzeczeń. Dziennik Ustaw – 2 – Poz. 1169
+**Art. 5.** Postępowania administracyjne i cywilne w sprawie ustalenia wysokości emerytury lub renty rodzinnej, o których mowa w art. 1, w celu uwzględnienia art. 25a ust. 2 pkt 2 oraz ust. 2a i 2b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, toczą się do czasu uprawomocnienia się kończących je decyzji lub orzeczeń.
 
 **Art. 6.** Od dnia wejścia w życie niniejszej ustawy nie wszczyna się innych niż określone w niniejszej ustawie postępowań administracyjnych i cywilnych w sprawie ustalenia wysokości emerytury lub renty rodzinnej, o których mowa w art. 1, w celu uwzględnienia art. 25a ust. 2 pkt 2 oraz ust. 2a i 2b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 **Art. 7.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.
 

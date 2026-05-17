@@ -8,9 +8,12 @@ pos: 1264
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 sierpnia 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o Rzeczniku Praw Obywatelskich
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 sierpnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-09-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001264) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1264/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 sierpnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Rzeczniku Praw Obywatelskich
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich (Dz. U. z 2023 r. poz. 1058), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. poz. 928) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 sierpnia 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 62–64 ustawy z dnia 14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. poz. 928), które stanowią: „Art. 62. Sprawozdania, o których mowa w art. 47 ust. 1 i 4, za rok 2025 organ publiczny oraz Rzecznik Praw Obywatelskich sporządzają za okres od dnia rozpoczęcia przyjmowania zgłoszeń zewnętrznych.
 63. 1. Pierwsze sprawozdanie, o którym mowa w art. 47 ust. 4, Rzecznik Praw Obywatelskich przekazuje Sejmowi, Senatowi i Komisji Europejskiej nie później niż do dnia 31 grudnia roku następującego po roku, w którym niniejsza ustawa weszła w życie.
@@ -124,7 +125,7 @@ właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiaj�
 1b. Zarejestrowany obraz i dźwięk:
 1) przechowuje się w Biurze Rzecznika Praw Obywatelskich, w pomieszczeniach zabezpieczonych przed dostępem osób nieupoważnionych, przez okres niezbędny w danej sprawie, jednak nie dłużej niż przez 10 lat;
 2) udostępnia się osobie, która została zarejestrowana, a także jej przedstawicielowi ustawowemu lub pełnomocnikowi.
-lub umożliwianie Rzecznikowi wglądu do akt następuje na zasadach i w trybie określonych w przepisach o ochronie informacji niejawnych.
+informacji niejawnych.
 3. Rzecznik odmawia ujawnienia nazwiska i innych danych osobowych skarżącego, w tym także wobec organów władzy publicznej, jeżeli uzna to za niezbędne dla ochrony wolności, praw i interesów jednostki.
 14. Po zbadaniu sprawy Rzecznik może:
 1) wyjaśnić wnioskodawcy, że nie stwierdził naruszenia wolności i praw człowieka i obywatela;
@@ -150,7 +151,7 @@ lub umożliwianie Rzecznikowi wglądu do akt następuje na zasadach i w trybie o
 3) udzielać wyjaśnień dotyczących podstawy faktycznej i prawnej swoich rozstrzygnięć;
 4) ustosunkowywać się do ogólnych ocen, uwag i opinii Rzecznika.
 2. Rzecznik może określić termin, w jakim powinny być dokonane czynności, o których mowa w ust. 1.
-i fundacjami oraz z zagranicznymi i międzynarodowymi organami i organizacjami na rzecz ochrony wolności i praw człowieka i obywatela, także w zakresie równego traktowania.
+wieka i obywatela, także w zakresie równego traktowania.
 17b. Do zakresu działania Rzecznika, dotyczącego realizacji zasady równego traktowania, należy również:
 1) promowanie, analizowanie, monitorowanie i wspieranie równego traktowania wszystkich osób;
 2) prowadzenie niezależnych badań dotyczących dyskryminacji;

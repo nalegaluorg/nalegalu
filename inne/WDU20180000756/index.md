@@ -8,9 +8,12 @@ pos: 756
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 kwietnia 2018 r.
+# o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw
+
+*USTAWA z dnia 22 marca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-08-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/756/text.pdf) |
 
-USTAWA z dnia 22 marca 2018 r.
-o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych (Dz. U. z 2017 r. poz. 1392) wprowadza się następujące zmiany:
 
 **Art. 4.**
@@ -35,12 +35,12 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 
 - **1)** budowie budynku na nieruchomości stanowiącej własność albo będącej w użytkowaniu wieczystym gminy, jednoosobowej spółki gminnej, związku międzygminnego albo organizacji pożytku publicznego,
 - **2)** remoncie lub przebudowie budynku niemieszkalnego, przeznaczonego na pobyt ludzi, będącego własnością gminy, jednoosobowej spółki gminnej, związku międzygminnego albo organizacji pożytku publicznego, albo części takiego budynku,
-- **3)** remoncie lub przebudowie budynku mieszkalnego, będącego własnością gminy lub jednoosobowej spółki gminnej, albo części takiego budynku, jeżeli budynek mieszkalny albo jego część, ze względu na stan techniczny został wyłączony z użytkowania albo zakazano jego użytkowania na podstawie art. 66 ust. 2 albo art. 68 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane,
-- **4)** zmianie sposobu użytkowania budynku będącego własnością gminy, jednoosobowej spółki gminnej, związku międzygminnego albo organizacji pożytku publicznego, albo części takiego budynku, wymagającej dokonania remontu lub przebudowy w wyniku którego powstaną noclegownie lub schroniska dla bezdomnych, lub nastąpi zwiększenie powierzchni użytkowej pomieszczeń mieszkalnych, w tym sypialni, w istniejącej noclegowni lub istniejącym schronisku dla bezdomnych.
+- **3)** remoncie lub przebudowie budynku mieszkalnego, będącego własnością gminy lub jednoosobowej spółki gminnej, albo części takiego budynku, jeżeli budynek mieszkalny albo jego część, ze względu na stan techniczny został wyłączony z użytkowania albo zakazano jego użytkowania na podstawie art. 66 ust. 2 albo art. 68 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane,
+- **4)** zmianie sposobu użytkowania budynku będącego własnością gminy, jednoosobowej spółki gminnej, związku międzygminnego albo organizacji pożytku publicznego, albo części takiego budynku, wymagającej dokonania remontu lub przebudowy – w wyniku którego powstaną noclegownie lub schroniska dla bezdomnych, lub nastąpi zwiększenie powierzchni użytkowej pomieszczeń mieszkalnych, w tym sypialni, w istniejącej noclegowni lub istniejącym schronisku dla bezdomnych.
 
-2. Finansowego wsparcia udziela się również na pokrycie części kosztów przedsięwzięcia polegającego na remoncie lub przebudowie istniej ą cej noclegowni, istniej ą cego schroniska dla bezdomnych lub istniej ą cej ogrzewalni, w wyniku którego nast ą pi dostosowanie noclegowni, schroniska dla bezdomnych lub ogrzewalni do standardów, o których mowa w przepisach wykonawczych wydanych na podstawie art. 48a ust. 14 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
+2. Finansowego wsparcia udziela się również na pokrycie części kosztów przedsięwzięcia polegającego na remoncie lub przebudowie istniejącej noclegowni, istniejącego schroniska dla bezdomnych lub istniejącej ogrzewalni, w wyniku którego nastąpi dostosowanie noclegowni, schroniska dla bezdomnych lub ogrzewalni do standardów, o których mowa w przepisach wykonawczych wydanych na podstawie art. 48a ust. 14 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
 
-3. Finansowego wsparcia udziela si ę równie ż na pokrycie cz ęś ci kosztów przedsi ę wzi ę cia, je ż eli w wyniku tego przedsi ę wzi ę cia powstanie ogrzewalnia, z zastrze ż eniem ż e w przypadku, o którym mowa w ust. 1 pkt 1, w budynku powstanie równie ż noclegownia lub schronisko dla bezdomnych.
+3. Finansowego wsparcia udziela się również na pokrycie części kosztów przedsięwzięcia, jeżeli w wyniku tego przedsięwzięcia powstanie ogrzewalnia, z zastrzeżeniem że w przypadku, o którym mowa w ust. 1 pkt 1, w budynku powstanie również noclegownia lub schronisko dla bezdomnych.
 
 4. Organizacja pożytku publicznego realizuje przedsięwzięcia, o których mowa w ust. 1, na nieruchomościach stanowiących własność gminy, jednoosobowej spółki gminnej, związku międzygminnego, organizacji pożytku publicznego lub Skarbu Państwa.
 
@@ -74,9 +74,9 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 
 9. Finansowe wsparcie, o którym mowa w ust. 1, nie może przekraczać dopuszczalnej wysokości rekompensaty, o której mowa w ust. 5, ustalonej zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 19.
 
-10. Jeżeli finansowego wsparcia, o którym mowa w ust. 1, udziela się na tworzenie lokali mieszkalnych na wynajem z udziałem gminy albo związku międzygminnego przy wykorzystaniu finansowania zwrotnego, łączna wysoko ść finansowego wsparcia i finansowania zwrotnego nie mo ż e przekracza ć dopuszczalnej wysoko ś ci rekompensaty, o której mowa w ust. 5, ustalonej zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 15b ust. 5 ustawy z dnia 26 pa ź dziernika 1995 r. o niektórych formach popierania budownictwa mieszkaniowego.
+10. Jeżeli finansowego wsparcia, o którym mowa w ust. 1, udziela się na tworzenie lokali mieszkalnych na wynajem z udziałem gminy albo związku międzygminnego przy wykorzystaniu finansowania zwrotnego, łączna wysokość finansowego wsparcia i finansowania zwrotnego nie może przekraczać dopuszczalnej wysokości rekompensaty, o której mowa w ust. 5, ustalonej zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 15b ust. 5 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego.
 
-11. Bank, beneficjent wsparcia oraz inwestor przechowuj ą przez 10 lat od dnia zako ń czenia okresu, o którym mowa w ust. 8, dokumenty potwierdzaj ą ce zgodno ść przyznanej rekompensaty, o której mowa w ust. 5, z warunkami określonymi w przepisach wykonawczych wydanych na podstawie art. 19.”;
+11. Bank, beneficjent wsparcia oraz inwestor przechowują przez 10 lat od dnia zakończenia okresu, o którym mowa w ust. 8, dokumenty potwierdzające zgodność przyznanej rekompensaty, o której mowa w ust. 5, z warunkami określonymi w przepisach wykonawczych wydanych na podstawie art. 19.”;
 
 - **7)** po art. 5 dodaje się art. 5a w brzmieniu: „Art. 5a. 1. W przypadku gdy inwestorem jest towarzystwo budownictwa społecznego albo spółka gminna, finansowego wsparcia na pokrycie części kosztów przedsięwzięcia, o którym mowa w art. 5 ust. 1, udziela się również, jeżeli utworzone z udziałem gminy albo związku międzygminnego, jako beneficjenta wsparcia, lokale mieszkalne zostaną wynajęte przez gminę albo związek międzygminny z prawem do podnajmowania osobom fizycznym bez zgody towarzystwa budownictwa społecznego albo spółki gminnej.
 
@@ -99,11 +99,11 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 - **d)** ust. 5 otrzymuje brzmienie: „5. Powiat albo organizacja pożytku publicznego realizuje przedsięwzięcia, o których mowa w art. 3 ust. 1 pkt 1–4, na nieruchomościach stanowiących własność powiatu, organizacji pożytku publicznego, gminy, jednoosobowej spółki gminnej lub Skarbu Państwa.”;
 - **9)** uchyla się art. 6a;
 - **10)** po art. 6a dodaje się art. 6b w brzmieniu: „Art. 6b. W lokalach mieszkalnych utworzonych z wykorzystaniem finansowego wsparcia w ramach przedsięwzięć, o których mowa w art. 3 i art. 5–6, należy zainstalować:
-- **1)** wannę lub kabinę natryskową w łazience,
-- **2)** umywalkę w łazience,
-- **3)** miskę ustępową w łazience lub wydzielonym ustępie,
+- **1)** wannę lub kabinę natryskową – w łazience,
+- **2)** umywalkę – w łazience,
+- **3)** miskę ustępową – w łazience lub wydzielonym ustępie,
 - **4)** zlewozmywak,
-- **5)** czteropaleniskow ą kuchenk ę gazow ą lub na inne paliwo, lub równowa ż n ą u ż ytkowo kuchenk ę elektryczn ą z wył ą czeniem lokali pozyskanych w ramach przedsi ę wzi ęć , o których mowa w art. 3 ust. 1 pkt 5 i 6, je ż eli przedmiotem zakupu jest byłe mieszkanie zakładowe, budynek mieszkalny z byłymi mieszkaniami zakładowymi albo udział we współwłasności budynku mieszkalnego, w którym znajdują się byłe mieszkania zakładowe.”;
+- **5)** czteropaleniskową kuchenkę gazową lub na inne paliwo, lub równoważną użytkowo kuchenkę elektryczną – z wyłączeniem lokali pozyskanych w ramach przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 5 i 6, jeżeli przedmiotem zakupu jest byłe mieszkanie zakładowe, budynek mieszkalny z byłymi mieszkaniami zakładowymi albo udział we współwłasności budynku mieszkalnego, w którym znajdują się byłe mieszkania zakładowe.”;
 - **11)** art. 7 otrzymuje brzmienie: „Art. 7. Finansowe wsparcie nie przysługuje na dofinansowanie tych kosztów przedsięwzięcia, które są współfinansowane ze środków Unii Europejskiej.”;
 - **12)** po art. 7 dodaje się art. 7a–7f w brzmieniu: „Art. 7a. 1. W przypadku gdy z realizacją przedsięwzięcia było związane zawarcie umowy, o której mowa w art. 5 ust. 2, inwestor inny niż gmina albo związek międzygminny wynajmuje lokal mieszkalny utworzony z udziałem gminy albo związku międzygminnego osobie fizycznej, która spełnia warunki określone w art. 30 ust. 1 pkt 1 i 3 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, wskazanej przez gminę albo związek międzygminny.
 
@@ -131,9 +131,9 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 
 **Art. 7d.** Przepis art. 7c stosuje się również do lokali mieszkalnych utworzonych w wyniku przedsięwzięć realizowanych przy wykorzystaniu finansowania zwrotnego.
 
-**Art. 7e.** Lokale mieszkalne utworzone z udziałem gminy albo związku międzygminnego w przypadku, gdy z realizacją przedsięwzięcia było związane zawarcie umowy, o której mowa w art. 5 ust. 2, nie mogą być, pod rygorem niewa ż no ś ci, wyodr ę bniane na własno ść .
+**Art. 7e.** Lokale mieszkalne utworzone z udziałem gminy albo związku międzygminnego w przypadku, gdy z realizacją przedsięwzięcia było związane zawarcie umowy, o której mowa w art. 5 ust. 2, nie mogą być, pod rygorem nieważności, wyodrębniane na własność.
 
-**Art. 7f.** W sprawach nieuregulowanych w zakresie najmu lokali mieszkalnych, utworzonych z udziałem gminy albo zwi ą zku mi ę dzygminnego w przypadku, gdy z realizacj ą przedsi ę wzi ę cia było zwi ą zane zawarcie umowy, o której mowa w art. 5 ust. 2, stosuje si ę przepisy rozdziału 2 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132 oraz z 2018 r. poz. 398 i 650) o najmie lokalu.”;
+**Art. 7f.** W sprawach nieuregulowanych w zakresie najmu lokali mieszkalnych, utworzonych z udziałem gminy albo związku międzygminnego w przypadku, gdy z realizacją przedsięwzięcia było związane zawarcie umowy, o której mowa w art. 5 ust. 2, stosuje się przepisy rozdziału 2 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132 oraz z 2018 r. poz. 398 i 650) o najmie lokalu.”;
 
 **Art. 22.** Jeżeli realizacja przedsięwzięcia, na które zostało udzielone finansowe wsparcie, współfinansowana jest ze środków Unii Europejskiej niezgodnie z art. 7, stosuje się odpowiednio przepis art. 21 ust. 7.”.
 
@@ -141,7 +141,7 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 
 **Art. 21b.**
 
-1. Osoba ubiegająca się o zawarcie umowy najmu lub podnajmu lokalu i najmu socjalnego lokalu wchodz ą cego w skład mieszkaniowego zasobu gminy składa deklaracj ę o wysoko ś ci dochodów członków gospodarstwa domowego w okresie 3 miesi ę cy poprzedzaj ą cych zło ż enie deklaracji oraz o ś wiadczenie o stanie maj ą tkowym członków gospodarstwa domowego. W deklaracji o wysoko ś ci dochodów członków gospodarstwa domowego oraz o ś wiadczeniu o stanie maj ą tkowym członków gospodarstwa domowego uwzgl ę dnia si ę osoby b ę d ą ce członkami gospodarstwa domowego w dniu składania tych dokumentów.
+1. Osoba ubiegająca się o zawarcie umowy najmu lub podnajmu lokalu i najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy składa deklarację o wysokości dochodów członków gospodarstwa domowego w okresie 3 miesięcy poprzedzających złożenie deklaracji oraz oświadczenie o stanie majątkowym członków gospodarstwa domowego. W deklaracji o wysokości dochodów członków gospodarstwa domowego oraz oświadczeniu o stanie majątkowym członków gospodarstwa domowego uwzględnia się osoby będące członkami gospodarstwa domowego w dniu składania tych dokumentów.
 
 2. Deklarację o wysokości dochodów członków gospodarstwa domowego składa się zgodnie z wzorem określonym w przepisach wykonawczych wydanych na podstawie art. 9 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2017 r. poz. 180 oraz z 2018 r. poz. 756).
 
@@ -163,7 +163,7 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 
 4. W przypadku złożenia deklaracji po upływie terminu, o którym mowa w ust. 2, przepisy ust. 5–13 stosuje się odpowiednio.
 
-5. Jeżeli średni miesięczny dochód gospodarstwa domowego najemcy w przeliczeniu na członka gospodarstwa domowego w okresie 3 miesięcy poprzedzających złożenie deklaracji jest wyższy niż dochód określony na podstawie kryteriów zawartych w uchwale rady gminy, o której mowa w art. 21 ust. 1 pkt 2, dotyczących wysokości dochodu gospodarstwa domowego uzasadniającej oddanie w najem lub podnajem lokalu na czas oznaczony, wysokość czynszu ustala się, wypowiadając jego dotychczasową wysokość najpóźniej na koniec miesiąca kalendarzowego, zgodnie z poniższym wzorem: (cid:1) =(cid:1) (cid:6) +( −(cid:9) (cid:7) ) gdzie poszczególne symbole oznaczają: C nowa wysokość czynszu za najem lokalu mieszkalnego, C wysokość czynszu za najem lokalu mieszkalnego, jaka obowiązywałaby w przypadku, gdyby dla gospodarstwa domowego o danej liczbie członków wysokość dochodu nie przekraczała dochodu określonego na podstawie kryteriów zawartych w uchwale rady gminy, D średni miesięczny dochód gospodarstwa domowego najemcy w okresie 3 miesięcy poprzedzających złoż enie deklaracji, n liczba osób w gospodarstwie domowym najemcy, a w przypadku jednoosobowego gospodarstwa domowego warto ść 1,2, L okre ś lona na podstawie kryteriów zawartych w uchwale rady gminy wysoko ść dochodu gospodarstwa domowego o danej liczbie członków, w przeliczeniu na członka gospodarstwa domowego, uzasadniaj ą ca oddanie w najem lub podnajem lokalu na czas oznaczony.
+5. Jeżeli średni miesięczny dochód gospodarstwa domowego najemcy w przeliczeniu na członka gospodarstwa domowego w okresie 3 miesięcy poprzedzających złożenie deklaracji jest wyższy niż dochód określony na podstawie kryteriów zawartych w uchwale rady gminy, o której mowa w art. 21 ust. 1 pkt 2, dotyczących wysokości dochodu gospodarstwa domowego uzasadniającej oddanie w najem lub podnajem lokalu na czas oznaczony, wysokość czynszu ustala się, wypowiadając jego dotychczasową wysokość najpóźniej na koniec miesiąca kalendarzowego, zgodnie z poniższym wzorem: gdzie poszczególne symbole oznaczają: C – nowa wysokość czynszu za najem lokalu mieszkalnego, C – wysokość czynszu za najem lokalu mieszkalnego, jaka obowiązywałaby w przypadku, gdyby dla gospodarstwa domowego o danej liczbie członków wysokość dochodu nie przekraczała dochodu określonego na podstawie kryteriów zawartych w uchwale rady gminy, D – średni miesięczny dochód gospodarstwa domowego najemcy w okresie 3 miesięcy poprzedzających złożenie deklaracji, n – liczba osób w gospodarstwie domowym najemcy, a w przypadku jednoosobowego gospodarstwa domowego wartość 1,2, L – określona na podstawie kryteriów zawartych w uchwale rady gminy wysokość dochodu gospodarstwa domowego o danej liczbie członków, w przeliczeniu na członka gospodarstwa domowego, uzasadniająca oddanie w najem lub podnajem lokalu na czas oznaczony.
 
 6. Wysokość czynszu za najem lokalu mieszkalnego ustalona na podstawie wzoru, o którym mowa w ust. 5, nie może być niższa niż wysokość czynszu, jaka obowiązywałaby w przypadku, gdyby dla gospodarstwa domowego o danej liczbie członków wysokość dochodu nie przekraczała dochodu określonego na podstawie kryteriów zawartych w uchwale rady gminy. Wysokość czynszu nie może jednocześnie przekroczyć w skali roku 8% wartości odtworzeniowej lokalu.
 
@@ -197,15 +197,15 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 
 2. Umowa najmu socjalnego lokalu, z uwzględnieniem art. 14 ust. 1, może być zawarta z osobą, która nie ma tytułu prawnego do lokalu i której dochody gospodarstwa domowego nie przekraczają wysokości określonej w uchwale rady gminy podjętej na podstawie art. 21 ust. 1 pkt 2, z uwzględnieniem art. 21b.
 
-3. Umowę najmu socjalnego lokalu można po upływie oznaczonego w niej czasu przedłużyć na następny okres, jeżeli najemca nadal znajduje się w sytuacji uzasadniającej zawarcie takiej umowy. W razie wzrostu dochodów gospodarstwa domowego najemcy ponad wysokość określoną w uchwale rady gminy uzasadniającą zawarcie umowy najmu socjalnego lokalu od dnia ustania najmu do czasu opró ż nienia takiego lokalu, stosuje si ę przepisy art. 18 ust. 1 i 2.
+3. Umowę najmu socjalnego lokalu można po upływie oznaczonego w niej czasu przedłużyć na następny okres, jeżeli najemca nadal znajduje się w sytuacji uzasadniającej zawarcie takiej umowy. W razie wzrostu dochodów gospodarstwa domowego najemcy ponad wysokość określoną w uchwale rady gminy uzasadniającą zawarcie umowy najmu socjalnego lokalu od dnia ustania najmu do czasu opróżnienia takiego lokalu, stosuje się przepisy art. 18 ust. 1 i 2.
 
-4. Stawka czynszu w przypadku najmu socjalnego lokalu nie mo ż e przekracza ć połowy stawki najni ż szego czynszu obowi ą zuj ą cego w mieszkaniowym zasobie gminy.”;
+4. Stawka czynszu w przypadku najmu socjalnego lokalu nie może przekraczać połowy stawki najniższego czynszu obowiązującego w mieszkaniowym zasobie gminy.”;
 
-- **19)** uchyla si ę art. 24;
+- **19)** uchyla się art. 24;
 - **20)** art. 25 otrzymuje brzmienie: „Art. 25. Gmina może wypowiedzieć najemcy umowę najmu socjalnego lokalu bez zachowania terminu wypowiedzenia, jeżeli uzyskał on tytuł prawny do innego lokalu i może go używać.”;
 - **21)** art. 25c otrzymuje brzmienie: „Art. 25c. Umowę najmu tymczasowego pomieszczenia zawiera się z osobą, wobec której wszczęto egzekucję na podstawie tytułu wykonawczego, w którym orzeczono obowiązek opróżnienia lokalu służącego zaspokojeniu potrzeb mieszkaniowych, bez prawa do najmu socjalnego lokalu lub lokalu zamiennego, z uwzględnieniem art. 25d.”.
 
-**Art. 3.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ) w art. 1046 § 4 otrzymuje brzmienie: „§ 4. Wykonując obowiązek opróżnienia lokalu służącego zaspokojeniu potrzeb mieszkaniowych dłużnika na podstawie tytułu wykonawczego, z którego nie wynika uprawnienie dłużnika do zawarcia umowy najmu socjalnego lokalu lub prawo do lokalu zamiennego, komornik usunie dłużnika do innego lokalu lub pomieszczenia, do którego dłużnikowi przysługuje tytuł prawny i w którym może on zamieszkać. Jeżeli dłużnikowi nie przysługuje tytuł prawny do innego lokalu lub pomieszczenia, w którym może zamieszkać, komornik wstrzyma się z dokonaniem czynności do czasu, gdy gmina właściwa ze względu na miejsce położenia lokalu podlegającego opróżnieniu, na wniosek komornika, wskaże dłużnikowi tymczasowe pomieszczenie.”.
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ) w art. 1046 § 4 otrzymuje brzmienie: „§ 4. Wykonując obowiązek opróżnienia lokalu służącego zaspokojeniu potrzeb mieszkaniowych dłużnika na podstawie tytułu wykonawczego, z którego nie wynika uprawnienie dłużnika do zawarcia umowy najmu socjalnego lokalu lub prawo do lokalu zamiennego, komornik usunie dłużnika do innego lokalu lub pomieszczenia, do którego dłużnikowi przysługuje tytuł prawny i w którym może on zamieszkać. Jeżeli dłużnikowi nie przysługuje tytuł prawny do innego lokalu lub pomieszczenia, w którym może zamieszkać, komornik wstrzyma się z dokonaniem czynności do czasu, gdy gmina właściwa ze względu na miejsce położenia lokalu podlegającego opróżnieniu, na wniosek komornika, wskaże dłużnikowi tymczasowe pomieszczenie.”.
 
 **Art. 4.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 133 i 138) wprowadza się następujące zmiany:
 
@@ -227,8 +227,8 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 
 2. W przypadku przedsięwzięć, o których mowa w ust. 1, realizowanych na podstawie:
 
-- **1)** art. 5 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym gmina albo związek międzygminny nie mają obowi ą zku podnajmowania lokali, o których mowa w art. 5 ust. 3 pkt 1 lit. b ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, osobom spełniaj ą cym warunki otrzymania lokalu socjalnego oraz nie maj ą obowi ą zku pobierania opłat z tytułu u ż ywania tych lokali w wysoko ś ci, w jakiej opłaty te ponosz ą najemcy lokali socjalnych w gminie, na terenie której poło ż ony jest wynajmowany lokal;
-- **2)** art. 6a ust. 1 i 2 ustawy zmienianej w art. 1 inwestor nie ma obowiązku:
+- **1)** art. 5 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym – gmina albo związek międzygminny nie mają obowiązku podnajmowania lokali, o których mowa w art. 5 ust. 3 pkt 1 lit. b ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, osobom spełniającym warunki otrzymania lokalu socjalnego oraz nie mają obowiązku pobierania opłat z tytułu używania tych lokali w wysokości, w jakiej opłaty te ponoszą najemcy lokali socjalnych w gminie, na terenie której położony jest wynajmowany lokal;
+- **2)** art. 6a ust. 1 i 2 ustawy zmienianej w art. 1 – inwestor nie ma obowiązku:
     - **a)** powiększania zasobu lokali socjalnych lub mieszkań chronionych o lokale w liczbie co najmniej równej liczbie lokali utworzonych zgodnie z art. 6a ust. 1 i 2 ustawy zmienianej w art. 1 lub o lokale o łącznej powierzchni użytkowej co najmniej równej łącznej powierzchni użytkowej lokali utworzonych zgodnie z art. 6a ust. 1 i 2 ustawy zmienianej w art. 1,
     - **b)** przedkładania Bankowi Gospodarstwa Krajowego oświadczenia potwierdzającego wydzielenie przez gminę, zgodnie z art. 6a ust. 4 ustawy zmienianej w art. 1, z mieszkaniowego zasobu gminy części lokali z przeznaczeniem na lokale socjalne albo mieszkania chronione, a także jeżeli lokale te były zamieszkane, przedkładania Bankowi Gospodarstwa Krajowego oświadczenia o ustaniu, od dnia wydzielenia tych lokali, dotychczasowego stosunku najmu i opróżnienia lokali.
 
@@ -256,7 +256,7 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 
 6. Jeżeli w przypadku, o którym mowa w ust. 5, dwie pozostałe pule nie pokrywają wynikającego ze złożonych wniosków zapotrzebowania na wsparcie związanych z nimi typów przedsięwzięć, środki przewyższające zapotrzebowanie na wsparcie jednego z typów przedsięwzięć przeznacza się na wsparcie pozostałych typów przedsięwzięć, w wysokości proporcjonalnej do udziału poszczególnych pul w całkowitej kwocie środków dostępnych na udzielenie finansowego wsparcia w danym półroczu.
 
-7. W przypadku gdy zapotrzebowanie na finansowe wsparcie wynikaj ą ce ze wszystkich wniosków zło ż onych w pierwszym półroczu danego roku jest ni ż sze od kwoty przeznaczonej na finansowe wsparcie w tym półroczu, pozostałe ś rodki zwi ę kszaj ą kwot ę przeznaczon ą na finansowe wsparcie w drugim półroczu tego roku.
+7. W przypadku gdy zapotrzebowanie na finansowe wsparcie wynikające ze wszystkich wniosków złożonych w pierwszym półroczu danego roku jest niższe od kwoty przeznaczonej na finansowe wsparcie w tym półroczu, pozostałe środki zwiększają kwotę przeznaczoną na finansowe wsparcie w drugim półroczu tego roku.
 
 8. Zapotrzebowanie, o którym mowa w ust. 7, ustala się na podstawie wniosków złożonych zgodnie z wymogami określonymi w przepisach wykonawczych wydanych na podstawie art. 19 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
@@ -294,9 +294,17 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 
 4. Do umów, o których mowa w ust. 1, dotyczących lokali, które po dniu wejścia w życie art. 2 niniejszej ustawy zostały wyłączone z mieszkaniowego zasobu gminy, stosuje się przepisy ustawy zmienianej w art. 2 dotyczące mieszkaniowego zasobu gminy w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 17.** Uchwały, o których mowa w art. 21 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, podjęte przed dniem wej ś cia w ż ycie art. 2 niniejszej ustawy, zachowuj ą wa ż no ść i mog ą by ć zmieniane, jednak ż e nie dłu ż ej ni ż przez 24 miesi ą ce od dnia wej ś cia w ż ycie art. 2 niniejszej ustawy.
+**Art. 17.** Uchwały, o których mowa w art. 21 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, podjęte przed dniem wejścia w życie art. 2 niniejszej ustawy, zachowują ważność i mogą być zmieniane, jednakże nie dłużej niż przez 24 miesiące od dnia wejścia w życie art. 2 niniejszej ustawy.
 
-**Art. 18.** W celu realizacji orzecze ń s ą dowych przyznaj ą cych uprawnienie do otrzymania lokalu socjalnego wydanych przed dniem wej ś cia w ż ycie art. 2 i art. 4 niniejszej ustawy stosuje si ę przepisy ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+**Art. 17a.**
+
+1. Do umów najmu lokalu zamiennego, o którym mowa w art. 11 ust. 9 i art. 32 ustawy zmienianej w art. 2, zawartych po dniu wejścia w życie art. 2, z najemcami używającymi dotychczasowych lokali na podstawie umowy najmu zawartej przed dniem wejścia w życie art. 2, nie stosuje się przepisów art. 21 ust. 4a– 4c i art. 21a–21c ustawy zmienianej w art. 2.
+
+2. W przypadku zawarcia, po dniu wejścia w życie art. 2, umowy najmu w wyniku zamiany lokali z publicznego zasobu mieszkaniowego, do umów najmu zawieranych z osobami, które są najemcami na podstawie umowy najmu zawartej przed dniem wejścia w życie art. 2, nie stosuje się przepisów art. 21 ust. 4a–4c i art. 21a–21c ustawy zmienianej w art. 2.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do osób, które wstąpiły w stosunek najmu po zmarłym najemcy.
+
+**Art. 18.** W celu realizacji orzeczeń sądowych przyznających uprawnienie do otrzymania lokalu socjalnego wydanych przed dniem wejścia w życie art. 2 i art. 4 niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 19.**
 
@@ -304,32 +312,32 @@ o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszka ń c
 
 2. Do postępowań wszczętych na podstawie pozwu, o którym mowa w art. 45 ust. 3 ustawy zmienianej w art. 4 w brzmieniu dotychczasowym i niezakończonych przed dniem wejścia w życie art. 4 niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 20.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ustawy zmienianej w art. 6 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 24 miesiące od dnia wejścia w życie art. 6 niniejszej ustawy.
+**Art. 20.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ustawy zmienianej w art. 6 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 30 czerwca 2021 r..
 
 **Art. 21.**
 
-1. Maksymalny limit wydatków budżetu państwa, do wysokości których może zostać zasilony Fundusz Dopłat z przeznaczeniem na sfinansowanie wypłat finansowego wsparcia, o którym mowa w ustawie zmienianej w art. 1, wynosi w okresie do 2025 r. łącznie 6210 mln zł, a w poszczególnych latach nie może przekroczyć kwoty:
+1. Maksymalny limit wydatków budżetu państwa, do wysokości których może zostać zasilony Fundusz Dopłat z przeznaczeniem na sfinansowanie wypłat finansowego wsparcia, o którym mowa w ustawie zmienianej w art. 1, wynosi w okresie do 2025 r. łącznie 11 653,3 mln zł, a w poszczególnych latach nie może przekroczyć kwoty:
 
-- **1)** w 2018 r. 210 mln zł;
-- **2)** w 2019 r. 500 mln zł;
-- **3)** w 2020 r. 500 mln zł;
-- **4)** w 2021 r. 1000 mln zł;
-- **5)** w 2022 r. 1000 mln zł;
-- **6)** w 2023 r. 1000 mln zł;
-- **7)** w 2024 r. 1000 mln zł;
-- **8)** w 2025 r. 1000 mln zł.
+- **1)** w 2018 r. – 210 mln zł;
+- **2)** w 2019 r. – 500 mln zł;
+- **3)** w 2020 r. – 500 mln zł;
+- **4)** w 2021 r. – 1000 mln zł;
+- **5)** w 2022 r. – 1000 mln zł;
+- **6)** w 2023 r. – 1500 mln zł;
+- **7)** w 2024 r. – 2000 mln zł;
+- **8)** w 2025 r. – 4943,3 mln zł.
 
-2. W budżecie państwa, począwszy od 2019 r., tworzy się rezerwę celową na zasilenie Funduszu Dopłat, z przeznaczeniem na sfinansowanie wypłat finansowego wsparcia.
+2. (uchylony)
 
-3. W przypadku gdy łączna kwota finansowego wsparcia wynikająca z umów, o których mowa w art. 12 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, zawartych na podstawie wniosków złożonych do Banku Gospodarstwa Krajowego począwszy od dnia 1 marca 2018 r., osiągnie kwotę 6210 mln zł, Bank Gospodarstwa Krajowego ogłasza w Biuletynie Informacji Publicznej informację o wstrzymaniu przyjmowania wniosków o finansowe wsparcie.
+3. (uchylony)
 
-4. W przypadku gdy łączna kwota finansowego wsparcia, wynikająca z zawartych umów, o których mowa w art. 12 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, z przewidywanym terminem wypłaty wsparcia z Funduszu Dopłat przypadającym w danym roku, osiągnie równowartość kwoty limitu środków określonego dla tego roku zgodnie z ust. 1, Bank Gospodarstwa Krajowego ogłasza w Biuletynie Informacji Publicznej informację o osiągnięciu kwoty limitu środków przypadających na dany rok i wstrzymuje przyjmowanie wniosków o finansowe wsparcie.
+4. (uchylony)
 
-5. Informacje, o których mowa w ust. 3 i 4, Bank Gospodarstwa Krajowego przekazuje do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+5. (uchylony)
 
-6. W przypadku, o którym mowa w ust. 4, zawieranie przez Bank Gospodarstwa Krajowego kolejnych umów, o których mowa w art. 12 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, z przewidywanym terminem wypłaty wsparcia z Funduszu Dopłat przypadającym w danym roku, może nastąpić wyłącznie w przypadku zwolnienia się środków Funduszu Dopłat przeznaczonych na udzielanie finansowego wsparcia w ramach limitu roku, do którego odnosiło się ogłoszenie Banku Gospodarstwa Krajowego. Po wystąpieniu sytuacji wskazanej w zdaniu pierwszym, Bank Gospodarstwa Krajowego zawiera umowy w kolejności uwzględniającej terminy zarejestrowania przez Bank Gospodarstwa Krajowego kompletnych wniosków o finansowe wsparcie wyłącznie do wysokości zwolnionych środków z Funduszu Dopłat.
+6. (uchylony)
 
-7. W przypadku braku możliwości wypłaty finansowego wsparcia z Funduszu Dopłat w planowanym terminie określonym w umowie, o której mowa w art. 12 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, z przyczyn niezależnych od beneficjenta wsparcia, Bank Gospodarstwa Krajowego może, na uzasadniony wniosek beneficjenta wsparcia, dokonać wypłaty finansowego wsparcia w IV kwartale roku, który został wskazany w umowie o finansowym wsparciu jako przewidywany rok wypłaty, pod warunkiem zaanga ż owania ś rodków własnych beneficjenta wsparcia co najmniej na poziomie 20% przewidywanych kosztów przedsi ę wzi ę cia.
+7. (uchylony)
 
 **Art. 22.** Traci moc ustawa z dnia 29 kwietnia 2004 r. o finansowym wsparciu tworzenia w latach 2004–2006 lokali socjalnych, noclegowni i domów dla bezdomnych (Dz. U. poz. 1533 oraz z 2005 r. poz. 1241).
 

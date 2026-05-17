@@ -8,6 +8,7 @@ pos: 154
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej Sejm Polskiej Rzeczypospolitej Ludowej : – wypełniając zobowiązania określone w Konstytucji Polskiej Rzeczypospolitej Ludowej , – kierując się zasadami przyjętymi w Karcie Narodów Zjednoczonych, w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, – mając na celu dobro osoby ludzkiej oraz potrzebę współdziałania wszystkich obywateli dla rozwoju kraju, dla bezpieczeństwa narodu i państwa polskiego stanowi, co następuje:
@@ -23,7 +24,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1989-05-17 |
 | Data wydania | 1989-05-23 |
-| Ostatnia zmiana | 2025-10-21 |
+| Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890290154) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/154/text.pdf) |
 
 ### DZIAŁ I Kościół Katolicki w Polskiej Rzeczypospolitej Ludowej

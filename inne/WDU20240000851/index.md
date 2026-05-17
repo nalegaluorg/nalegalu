@@ -8,9 +8,12 @@ pos: 851
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 czerwca 2024 r.
+# o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r.
+
+*USTAWA z dnia 15 maja 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +27,7 @@ domain: null
 | Ostatnia zmiana | 2025-10-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000851) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/851/text.pdf) |
 
-Poz. 851
-USTAWA z dnia 15 maja 2024 r.
-o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r.
-
 **Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r., polegającej na:
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

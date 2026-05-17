@@ -8,9 +8,10 @@ pos: 1939
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 17 października 2003 r. o zmianie ustawy o Biurze Ochrony Rządu i niektórych innych ustaw
+# o zmianie ustawy o Biurze Ochrony Rządu i niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031991939) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1939/text.pdf) |
 
-**Art. 1.** W ustawie dnia 16 marca 2001 o Biurze Ochrony Rządu (Dz. U. 27, 298, wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz.U. Nr 27, poz. 298, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 17 listopada 1964 Kodeks postępowania cywilnego 477 § 2 pkt 3 otrzymuje brzmienie: Ń3) o odszkodowanie tytułu wypadku przy pracy gospodarstwie rolnym, wypadku drodze pracy zpracy, wypadku przy pracy choroby zawodowej, wypadku choroby zawodowej pozostającej związku czynną służbą wojskową albo służbą wPolicji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biurze Ochrony Rządu, Służbie Więziennej, Państwowej Straży Pożarnej Służbie Celnej,”.
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego art. 477 § 2 pkt 3 otrzymuje brzmienie: „3) o odszkodowanie z tytułu wypadku przy pracy gospodarstwie rolnym, wypadku drodze do pracy lub z pracy, wypadku przy pracy lub choroby zawodowej, wypadku lub choroby zawodowej pozostającej związku z czynną służbą wojskową albo służbą Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biurze Ochrony Rządu, Służbie Więziennej, Państwowej Straży Pożarnej i Służbie Celnej,”. nych Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu.”.
 
-**Art. 3.** Wustawie zdnia 28 września 1991 okontroli skarbowej (Dz. U. z1999 54, 572,
+**Art. 4.** W ustawie z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz.U. Nr 160, poz. 1080, z późn. zm. ) art. 1 ust. 3 otrzymuje brzmienie: „3. Przepisów ustawy nie stosuje się do żołnierzy oraz funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Służby Celnej, Państwowej Straży Pożarnej, Służby Więziennej oraz Biura Ochrony Rządu.”.
 
-**Art. 4.** Wustawie zdnia 12 grudnia 1997 ododatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. 160, 1080, 5 1 otrzymuje brzmienie: Ń1. Nie podlega kontroli skarbowej celowość sposób wykorzystywania środków budżetowych mienia państwowego na cele specjalne jednostkach organizacyjnych podległych, podporządkowanych nadzorowanych przez Ministra 1 3 otrzymuje brzmienie: Ń3. Przepisów ustawy nie stosuje się żołnierzy funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Służby Celnej, Państwowej Straży Pożarnej, Służby Więziennej Biura Ochrony Rządu.”.
+**Art. 5.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz.U. Nr 53, poz. 549, z późn. zm. ) art. 49 otrzymuje brzmienie : „Art. 49. Przepisów rozdziału nie stosuje się do strzelnic Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Służby Więziennej oraz Biura Ochrony Rządu.”.
 
-**Art. 5.** W ustawie dnia 21 maja o broni iamunicji (Dz. U. 53, 549, 49 otrzymuje brzmienie: ŃArt. 49. Przepisów rozdziału nie stosuje się strzelnic Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Służby Więziennej Biura Ochrony Rządu.”.
-
-**Art. 6.** Wustawie zdnia 23 grudnia okształtowaniu wynagrodzeń państwowej sferze budżetowej o zmianie niektórych ustaw (Dz. U. 110, 1255, 2 pkt 2 otrzymuje brzmienie: Ń2) pracownicy rozumie się osoby zatrudnione wjednostkach, októrych mowa wpkt 1, żołnierzy pełniących zawodową służbę wojskową, jako służbę stałą kontraktową, żołnierzy pełniących nadterminową zasadniczą służbę wojskową, funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu Państwowej Straży Pożarnej zwyjątkiem pełniących służbę kandydacką funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Więziennej Służby Celnej,”.
-
-**Art. 7.** Ustawa wchodzi życie dniem 1 stycznia 2004 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ——————— ———————
+**Art. 6.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz.U. Nr 110, poz. 1255, z późn. zm. ) art. 2 pkt 2 otrzymuje brzmienie: „2) pracownicy - rozumie się osoby zatrudnione jednostkach, o których mowa pkt 1, oraz żołnierzy pełniących zawodową służbę wojskową, jako służbę stałą lub kontraktową, żołnierzy pełniących nadterminową zasadni-
 

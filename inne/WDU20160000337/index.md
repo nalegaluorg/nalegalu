@@ -8,9 +8,12 @@ pos: 337
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 marca 2016 r.
+# o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
+
+*USTAWA z dnia 9 marca 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +27,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/337/text.pdf) |
 
-Poz. 337
-USTAWA z dnia 9 marca 2016 r.
-o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. poz. 1551) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 173 oraz z 2015 r. poz. 349) w art. 18 dodaje si ę ust. 4 w brzmieniu: „4. Je ż eli warunkiem przyznania pomocy jest posiadanie gospodarstwa rolnego lub gruntu i pomoc jest przyznawana do powierzchni gruntu, to taka pomoc do gruntu wchodz ą cego w skład Zasobu Własno ś ci Rolnej Skarbu Pa ń stwa przysługuje podmiotowi, który ma do tego gruntu tytuł prawny.”.
+**Art. 2.** W ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 173 oraz z 2015 r. poz. 349) w art. 18 dodaje się ust. 4 w brzmieniu: „4. Jeżeli warunkiem przyznania pomocy jest posiadanie gospodarstwa rolnego lub gruntu i pomoc jest przyznawana do powierzchni gruntu, to taka pomoc do gruntu wchodzącego w skład Zasobu Własności Rolnej Skarbu Państwa przysługuje podmiotowi, który ma do tego gruntu tytuł prawny.”.
 
-**Art. 3.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem ś rodków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 349 i 1888) w art. 20 dodaje si ę ust. 4 w brzmieniu: „4. Je ż eli warunkiem przyznania pomocy jest posiadanie gospodarstwa rolnego lub gruntu i pomoc jest przyznawana do powierzchni gruntu, to taka pomoc do gruntu wchodz ą cego w skład Zasobu Własno ś ci Rolnej Skarbu Państwa przysługuje podmiotowi, który ma do tego gruntu tytuł prawny.”.
+**Art. 3.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 349 i 1888) w art. 20 dodaje się ust. 4 w brzmieniu: „4. Jeżeli warunkiem przyznania pomocy jest posiadanie gospodarstwa rolnego lub gruntu i pomoc jest przyznawana do powierzchni gruntu, to taka pomoc do gruntu wchodzącego w skład Zasobu Własności Rolnej Skarbu Państwa przysługuje podmiotowi, który ma do tego gruntu tytuł prawny.”.
 
 **Art. 4.**
 
@@ -43,5 +42,4 @@ o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego or
 
 2. Do płatności, o których mowa w ustawie zmienianej w art. 1, przyznanych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 41a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 15 marca 2016 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

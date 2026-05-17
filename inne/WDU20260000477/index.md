@@ -8,9 +8,12 @@ pos: 477
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 kwietnia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o czasie pracy kierowców
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000477) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/477/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o czasie pracy kierowców
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2024 r. poz. 220), z uwzględnieniem stanu prawnego na dzień 25 marca 2026 r. oraz zmiany wprowadzonej ustawą z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz. 1661).
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 52, art. 53 i art. 58 ustawy z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz. 1661), które stanowią: „Art. 52. 1. Minister właściwy do spraw pracy tworzy KEUZP terminie 2 lat od dnia wejścia życie niniejszej ustawy.
 2. W terminie jednego roku od utworzenia KEUZP pracodawca objęty postanowieniami układu zbiorowego pracy lub porozumienia zbiorowego podlegającego zgłoszeniu do KEUZP dokonuje zgłoszenia do tej ewidencji informacji, o których mowa art. 33 ust. 1, wraz z cyfrowym odwzorowaniem treści układu zbiorowego pracy lub porozumienia zbiorowego oraz protokołów dodatkowych, z zastrzeżeniem że wskazywane informacje, o których mowa art. 33 ust. 1, są aktualne na dzień zgłoszenia.
@@ -87,7 +88,7 @@ z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25).
 2) nieusprawiedliwionych postojów czasie prowadzenia pojazdu;
 3) dobowego nieprzerwanego odpoczynku;
 4) przerwy pracy, o której mowa art. 16 ust. 1.
-bowych, przez dobę należy rozumieć 24 kolejne godziny, poczynając od godziny, której kierowca rozpoczyna pracę zgodnie z obowiązującym go rozkładem czasu pracy.
+z obowiązującym go rozkładem czasu pracy.
 2. Indywidualny rozkład czasu pracy pracownika ustalany przez pracodawcę może przewidywać różne godziny rozpoczynania i kończenia pracy; takim przypadku ponowne wykonywanie pracy przez pracownika tej samej dobie nie stanowi pracy godzinach nadliczbowych.
 3. Indywidualny rozkład czasu pracy, o którym mowa ust. 2, wprowadza się porozumieniu z zakładową organizacją związkową, a jeżeli pracodawca nie jest objęty działaniem takiej organizacji, po porozumieniu z przedstawicielami pracowników wyłonionymi trybie przyjętym u tego pracodawcy. Jeżeli porozumienie jest zawarte z organizacją związkową, informacja o nim podlega wpisowi do Krajowej Ewidencji Układów Zbiorowych Pracy na zasadach określonych ustawie z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz. 1661).
 4. Zastosowanie rozkładu czasu pracy, wskazanego ust. 1, nie może naruszać prawa pracownika do odpoczynków, o których mowa art. 14.
@@ -106,7 +107,7 @@ bowych, przez dobę należy rozumieć 24 kolejne godziny, poczynając od godziny
 12. 1. Tygodniowy czas pracy kierowcy, łącznie z godzinami nadliczbowymi, nie może przekraczać przeciętnie 48 godzin przyjętym okresie rozliczeniowym nieprzekraczającym 4 miesięcy.
 2. Tygodniowy czas pracy, o którym mowa ust. 1, może być przedłużony do 60 godzin, jeżeli średni tygodniowy czas pracy nie przekroczy 48 godzin przyjętym okresie rozliczeniowym nieprzekraczającym 4 miesięcy.
 3. Wymiar czasu pracy określony ust. 1 i 2 obowiązuje także kierowcę zatrudnionego u więcej niż jednego pracodawcy.
-miarze niekrótszym niż 30 minut, przypadku gdy liczba godzin pracy nie przekracza 9 godzin oraz wymiarze niekrótszym niż 45 minut, przypadku gdy liczba godzin pracy wynosi więcej niż 9 godzin. Przerwa może być dzielona na okresy krótsze trwające co najmniej 15 minut każdy, wykorzystywane trakcie sześciogodzinnego czasu pracy lub bezpośrednio po tym okresie.
+szym niż 45 minut, przypadku gdy liczba godzin pracy wynosi więcej niż 9 godzin. Przerwa może być dzielona na okresy krótsze trwające co najmniej 15 minut każdy, wykorzystywane trakcie sześciogodzinnego czasu pracy lub bezpośrednio po tym okresie.
 2. Przerwy, o których mowa ust. 1, ulegają skróceniu o przerwę pracy trwającą 15 minut, którą pracodawca jest obowiązany wprowadzić, jeżeli dobowy wymiar czasu pracy kierowcy wynosi co najmniej 6 godzin.
 14. 1. W każdej dobie kierowcy przysługuje prawo do co najmniej 11 godzin nieprzerwanego odpoczynku.
 Dobowy odpoczynek, z wyłączeniem odpoczynku kierowców, o których mowa rozdziale 4a, może być wykorzystany pojeździe, jeżeli pojazd znajduje się na postoju i jest wyposażony miejsce do spania.
@@ -126,7 +127,7 @@ Dobowy odpoczynek, z wyłączeniem odpoczynku kierowców, o których mowa rozdzi
 18. 1. Systemy i rozkłady czasu pracy oraz przyjęte okresy rozliczeniowe czasu pracy ustala się układzie zbiorowym pracy lub regulaminie pracy albo obwieszczeniu, jeżeli pracodawca nie jest objęty układem zbiorowym pracy lub nie jest obowiązany do ustalenia regulaminu pracy.
 2. Pracodawca, u którego nie działa zakładowa organizacja związkowa, a także pracodawca, u którego zakładowa organizacja związkowa nie wyraża zgody na ustalenie lub zmianę systemów i rozkładów czasu pracy oraz okresów rozliczeniowych czasu pracy, może stosować okresy rozliczeniowe określone art. 15 ust. 3–5 po uprzednim zawiadomieniu właściwego inspektora pracy.
 3. System przerywanego czasu pracy, o którym mowa art. 16, wprowadza się układzie zbiorowym pracy lub regulaminie pracy, a u pracodawcy, u którego nie działa zakładowa organizacja związkowa umowie o pracę.
-dopuszcza się stosowanie przerywanego czasu pracy określonego art. 16, według z góry ustalonego rozkładu czasu pracy oraz z uwzględnieniem przepisów o obowiązkowym dobowym odpoczynku; rozkład czasu pracy powinien obejmować okres co najmniej miesiąca.
+oraz z uwzględnieniem przepisów o obowiązkowym dobowym odpoczynku; rozkład czasu pracy powinien obejmować okres co najmniej miesiąca.
 20. 1. Praca wykonywana ponad obowiązujące pracownika normy czasu pracy, a także praca wykonywana ponad dobowy przedłużony wymiar czasu pracy, wynikający z obowiązującego kierowcę systemu i rozkładu czasu pracy, stanowi pracę godzinach nadliczbowych.
 2. Praca godzinach nadliczbowych jest dopuszczalna razie:
 1) sytuacji i zdarzeń wymagających od kierowcy podjęcia działań dla ochrony życia lub zdrowia ludzkiego oraz mienia albo usunięcia awarii;
@@ -149,7 +150,7 @@ c) osób, pojazdami skonstruowanymi lub trwale przystosowanymi i przeznaczonymi 
 a) o wymiarze zatrudnienia albo o niepozostawaniu zatrudnieniu u innego pracodawcy,
 b) o przeciętnej tygodniowej liczbie godzin wykonywanych przewozów drogowych lub innych czynności, na innej podstawie niż stosunek pracy, albo o ich niewykonywaniu.
 2. W przypadku kierowców wykonujących zadania służbowe ramach przewozów drogowych nie stosuje się art. 26 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
-jednoczesnego pozostawania stosunku prawnym będącym podstawą świadczenia pracy innym niż stosunek pracy, o ile jest to uzasadnione względami bezpieczeństwa transporcie drogowym lub koniecznością przestrzegania przepisów socjalnych transporcie drogowym.
+3. Pracodawca może zakazać kierowcy jednoczesnego pozostawania stosunku pracy z innym pracodawcą lub jednoczesnego pozostawania stosunku prawnym będącym podstawą świadczenia pracy innym niż stosunek pracy, o ile nych transporcie drogowym.
 4. W przypadku kierowców wykonujących zadania służbowe ramach przewozów rzeczy i okazjonalnych przewozów pasażerskich nie stosuje się art. 29 § 3 pkt 1 lit. b ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
 25. 1. Pracodawca prowadzi dla każdego kierowcy ewidencję czasu pracy do celów prawidłowego ustalenia jego wynagrodzenia i innych świadczeń związanych z pracą.
 2. Ewidencja czasu pracy obejmuje liczbę przepracowanych godzin oraz godzinę rozpoczęcia i zakończenia pracy, liczbę godzin przepracowanych porze nocnej, liczbę godzin nadliczbowych, dni wolne od pracy z oznaczeniem tytułu ich udzielenia, liczbę godzin dyżuru oraz godzinę rozpoczęcia i zakończenia dyżuru, ze wskazaniem, czy jest to dyżur pełniony domu, rodzaj i wymiar zwolnień od pracy, rodzaj i wymiar innych usprawiedliwionych nieobecności pracy, wymiar nieusprawiedliwionych nieobecności pracy, z uwzględnieniem:
@@ -170,7 +171,7 @@ jednoczesnego pozostawania stosunku prawnym będącym podstawą świadczenia pra
 2. Do czasu pracy osób, o których mowa art. 1 pkt 1b, wlicza się czas pozostawania gotowości, o której mowa art. 6 ust. 2.
 26c. 1. Tygodniowy czas pracy nie może przekraczać przeciętnie 48 godzin przyjętym okresie rozliczeniowym nieprzekraczającym 4 miesięcy.
 2. Tygodniowy czas pracy, o którym mowa ust. 1, może być przedłużony do 60 godzin, jeżeli średni tygodniowy czas pracy nie przekroczy 48 godzin przyjętym okresie rozliczeniowym nieprzekraczającym 4 miesięcy.
-1) przedsiębiorców, o których mowa art. 1 pkt 1a, i osoby, o których mowa art. 1 pkt 1b niezależnie od liczby podmiotów, na rzecz których wykonują przewóz drogowy;
+3. Czas pracy określony ust. 1 i 2 obowiązuje: miotów, na rzecz których wykonują przewóz drogowy;
 2) przedsiębiorców, o których mowa art. 1 pkt 1a, i osoby, o których mowa art. 1 pkt 1b jeżeli jednocześnie są zatrudnieni jako kierowcy na podstawie stosunku pracy.
 4. Przepisy art. 13 ust. 1, art. 21 i art. 27 ust. 4 stosuje się odpowiednio.
 5. Do określenia okresu odpoczynku stosuje się przepisy rozporządzenia (WE) 561/2006 albo umowy AETR.
@@ -191,7 +192,7 @@ d) korzystania z urządzeń sanitarnych, określonych na podstawie średnich nie
 1) dni urlopu wypoczynkowego;
 2) okresu przebywania na zwolnieniu lekarskim od pracy z powodu choroby;
 3) okresu korzystania z urlopu bezpłatnego.
-kwoty, o których mowa art. 26g niniejszej ustawy i art. 21 ust. 1 pkt 23d ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ulegają zmniejszeniu do:
+dowym od osób fizycznych, ulegają zmniejszeniu do:
 1) 1/3 przypadku pobytu do 8 godzin;
 2) 1/2 przypadku pobytu ponad 8 do 12 godzin.
 26i. W drodze odstępstwa od art. 85 § 1 i 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, wynagrodzenie za pracę kierowcy wykonującego międzynarodowe przewozy drogowe, uznanego za pracownika delegowanego do celów dyrektywy 96/71/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 1996 r. dotyczącej delegowania pracowników ramach świadczenia usług (Dz. Urz. WE L 18 z 21.01.1997, str. 1 Dz. Urz. UE Polskie wydanie specjalne rozdz. 5, t. 2, str. 431, Dz. Urz. UE L 252 z 19.09.2012, str. 59 oraz Dz. Urz. UE L 173 z 09.07.2018, str. 16), rozumieniu krajowych przepisów państwa, na terytorium którego kierowca jest delegowany, może być płatne dwóch ratach, stałym i ustalonym z góry terminie:
@@ -209,7 +210,7 @@ b) przypadku kierowców, których miesięczny przychód jest wyższy niż przeci
 2. Kategorie pojazdów, o których mowa ust. 1, są wyłączone z zakresu stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 z dnia 4 lutego 2014 r. sprawie tachografów stosowanych transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 sprawie urządzeń rejestrujących stosowanych transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz. UE L 60 z 28.02.2014, str. 1), zwanego dalej „rozporządzeniem (UE) nr 165/2014”.
 30. 1. W warunkach i na zasadach, o których mowa art. 14 ust. 1 i 2 rozporządzenia (WE) nr 561/2006, minister właściwy do spraw transportu może wprowadzić wyjątki lub zezwalać na tymczasowe odstępstwa od stosowania przepisów art. 6–9 tego rozporządzenia.
 2. Minister właściwy do spraw transportu informuje o wprowadzeniu wyjątków lub udzielonych tymczasowych odstępstwach, o których mowa ust. 1, drodze obwieszczenia, ogłaszanego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
-lub Umową AETR, przedsiębiorca wykonujący przewóz drogowy jest obowiązany wystawić kierowcy wykonującemu przewóz drogowy zatrudnionemu u tego przedsiębiorcy zaświadczenie, jeżeli kierowca:
+wóz drogowy zatrudnionemu u tego przedsiębiorcy zaświadczenie, jeżeli kierowca:
 1) przebywał na zwolnieniu lekarskim od pracy z powodu choroby;
 2) przebywał na urlopie wypoczynkowym;
 3) miał czas wolny od pracy;

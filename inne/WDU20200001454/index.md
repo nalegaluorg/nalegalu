@@ -8,9 +8,12 @@ pos: 1454
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 sierpnia 2020 r.
+# o wskazaniu organu prowadzącego punkt kontaktowy do spraw produktów oraz o odpowiedzialności za naruszenie przepisów rozporządzenia w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim
+
+*USTAWA z dnia 14 sierpnia 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +26,6 @@ domain: null
 | Data wydania | 2020-08-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1454/text.pdf) |
-
-Poz. 1454
-USTAWA z dnia 14 sierpnia 2020 r.
-o wskazaniu organu prowadzącego punkt kontaktowy do spraw produktów oraz o odpowiedzialności za naruszenie przepisów rozporządzenia w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim
 
 **Art. 1.** Ustawa określa:
 
@@ -47,9 +46,9 @@ o wskazaniu organu prowadzącego punkt kontaktowy do spraw produktów oraz o odp
 - **3)** uprzednie ukaranie administracyjną karą pieniężną, o której mowa w ust. 1;
 - **4)** działania podjęte przez stronę dobrowolnie w celu usunięcia skutków naruszenia prawa;
 - **5)** współpracę z organem prowadzącym postępowanie w sprawie nałożenia administracyjnej kary pieniężnej, w szczególności przyczynienie się do szybkiego i sprawnego przeprowadzenia postępowania;
-- **6)** w przypadku osoby fizycznej – warunki osobiste strony, na którą administracyjna kara pieniężna jest nakładana. Dziennik Ustaw – 2 – Poz. 1454
+- **6)** w przypadku osoby fizycznej – warunki osobiste strony, na którą administracyjna kara pieniężna jest nakładana.
 
 5. Administracyjna kara pieniężna podlega egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427).
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

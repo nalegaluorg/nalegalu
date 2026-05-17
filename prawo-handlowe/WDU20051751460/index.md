@@ -8,9 +8,12 @@ pos: 1460
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# 6. Waloryzacji, której ust. 5, dokonuje się według zasad określonych 5 ustawy dnia 21 sierpnia 1997 gospodarce nieruchomościami.
+# Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o lasach oraz ustawy o swobodzie działalności gospodarczej
+
+*USTAWA dnia 29 lipca 2005 zmianie ustawy lasach oraz ustawy swobodzie działalności gospodarczej*
 
 | Pole | Wartość |
 |---|---|
@@ -24,31 +27,25 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051751460) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1460/text.pdf) |
 
-**Art. 5.** Przekształcenie prawa użytkowania wieczystego prawo własności nieruchomości następuje nieodpłatnie rzecz użytkowników wieczystych lub ich następców prawnych: którym oddano nieruchomość wużytkowanie wieczyste zamian za wywłaszczenie lub przejęcie nieruchomości gruntowej rzecz Skarbu Państwa podstawie innych tytułów, przed dniem 5 grudnia 1990 r.; które uzyskały użytkowanie wieczyste podstawie 7 dekretu dnia 26 paêdziernika 1945 własności użytkowaniu gruntów obszarze m.st. Warszawy (Dz. 50, 279).
-
-**Art. 6.** W ustawie dnia 19 paêdziernika 1991 ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. 2004 208, 2128, póên. zm. 2603 281, 2782 oraz 2005 130, 1087 169, 1420) wart. 32 ust. 2otrzymuje brzmienie: Ń2. Zdniem zawarcia umowy sprzedaży nieruchomości wygasa, zmocy prawa, uprzednio ustanowione prawo użytkowania wieczystego. Przepisu 241 Kodeksu cywilnego nie stosuje się.”.
-
-**Art. 8.** Do spraw wszczętych podstawie ustaw, których 9, niezakończonych decyzją ostateczną, stosuje się przepisy niniejszej ustawy. ) 17b: ust. 1 po pkt 2 dodaje się pkt 2a brzmieniu: Ń2a) cele mieszkaniowe, realizację urządzeń infrastruktury technicznej oraz innych celów publicznych 1 %,”;
-
-**Art. 9.** Tracą moc: ustawa dnia 4 września 1997 przekształceniu prawa użytkowania wieczystego przysługującego osobom fizycznym prawo własności (Dz. 2001 120, 1299 oraz 2002 113,
-
-**Art. 10.** Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA dnia 29 lipca 2005 zmianie ustawy lasach oraz ustawy swobodzie działalności gospodarczej
-
-**Art. 1.** W ustawie dnia 28 września 1991 lasach (Dz. z2005 45, 435, 157, 1315 iNr 167, 1399 ) wprowadza się następujące zmiany: niem”. Decyzję sprawie wydania zezwolenia, odmowy wydania, zmiany cofnięcia zezwolenia wydaje minister właściwy do spraw środowiska. ———————
+**Art. 1.** W ustawie dnia 28 września 1991r. lasach (Dz.U. 2005 45, 435, 157, 1315 167, 1399) wprowadza się następujące zmiany:
 
 **Art. 58.**
 
-1. Ârodki funduszu leśnego przeznacza się dla nadleśnictw wyrównywanie niedoborów powstających przy realizacji zadań gospodarki leśnej.
+1. Środki funduszu leśnego przeznacza się dla nadleśnictw na wyrównywanie niedoborów powstających przy realizacji zadań gospodarki leśnej.
 
-2. Ârodki funduszu leśnego mogą być przeznaczone również na: wspólne przedsięwzięcia jednostek organizacyjnych Lasów Państwostanie przeznaczony usuwanie nadzwyczajnych zagrożeń dla lasów ramach długookresowego cyklu produkcji leśnej.
+2. Środki funduszu leśnego mogą być przeznaczone również na:
+
+- **1)** wspólne przedsięwzięcia jednostek organizacyjnych Lasów Państwowych, szczególności zakresie gospodarki le śnej;
+- **2)** badania naukowe;
+- **3)** tworzenie infrastruktury niezbędnej do prowadzenia gospodarki leśnej; Skarbu Państwa, realizację zadrzewień na tych gruntach inne prace związane usuwaniem skutków klęsk prowadzeniem gospodarki lasach niepaństwowych oraz na cele określone 2 pkt 2 6 lasach znajdujących się zarządzie parków narodowych, a także na cele określone art. 13a 1.
+
+4. Dyrektor Generalny może, wydzielonej części środków funduszu leśnego, utworzyć fundusz stabilizacji, który zostanie przeznaczony na usuwanie nadzwyczajnych zagrożeń dla lasów ramach długookresowego cyklu produkcji leśnej.
 
 5. Nadleśnictwa zasięgają opinii właściwych organów administracji samorządowej zakresie rocznego planu zalesiania gruntów niestanowiących własności Skarbu Państwa.”.
 
-**Art. 2.** Wustawie zdnia 2lipca 2004 oswobodzie działalności gospodarczej (Dz. 173, 1807, póên. zm. wych, szczególności zakresie gospodarki leśnej; badania naukowe;
+**Art. 2.** W ustawie dnia 2 lipca swobodzie działalności gospodarczej (Dz. U. 173, 1807, późn. zm. ) art. 75 1 dodaje się pkt 28 brzmieniu: „28) art. 19a ustawy dnia 28 września 1991 lasach (Dz. U. 2005 45, 435, 157, 1315, 167, 1399 175, 1460).”.
 
-**Art. 3.** Dotychczasowe akty wykonawcze wydane podstawie przepisów ustawy, której wart.1, zachowują moc do czasu wydania nowych aktów wykonawczych podstawie przepisów ustawy, której 1, brzmieniu nadanym niniejszą ustawą, ale nie dłużej niż przez 6miesięcy od dnia wejścia życie ustawy.
+**Art. 3.** Dotychczasowe akty wykonawcze wydane na podstawie przepisów ustawy, której art. 1, zachowują moc do czasu wydania nowych aktów wykonawczych na podstawie przepisów ustawy, której art. 1, brzmieniu nadanym niniejszą ustawą, ale nie dłużej niż przez 6 miesięcy od dnia wejścia życie ustawy.
 
-**Art. 4.** Ustawa wchodzi życie dniem 1 stycznia 2006 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1461 USTAWA dnia 29 lipca 2005 zmianie ustawy zawodach pielęgniarki położnej oraz ustawy zawodach lekarza lekarza dentysty
-
-**Art. 1.** Wustawie zdnia 5lipca 1996 ozawodach pielęgniarki ipołożnej (Dz. z2001 57, 602, 10d otrzymuje brzmienie: ŃArt. 10d. 1. Organizatorami kształcenia podyplo———————
+**Art. 4.** Ustawa wchodzi życie dniem 1 stycznia 2006 PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ
 

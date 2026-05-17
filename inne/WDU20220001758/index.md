@@ -8,9 +8,12 @@ pos: 1758
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 sierpnia 2022 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 22 lipca 2022 sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach wspierających realizację programów operacyjnych
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 3 kwietnia 2020 o szczególnych rozwiązaniach wspierających realizację programów operacyjnych związku wystąpieniem (Dz. U. 2021 poz. 986), uwzględnieniem zmian wprowadzonych ustawą dnia 28 kwietnia 2022 o zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) oraz zmian wynikających przepisów ogłoszonych przed dniem 21 lipca 2022
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 22 lipca 2022 sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach wspierających realizację programów operacyjnych*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001758) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1758/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 3 kwietnia 2020 o szczególnych rozwiązaniach wspierających realizację programów operacyjnych związku wystąpieniem (Dz. U. 2021 poz. 986), uwzględnieniem zmian wprowadzonych ustawą dnia 28 kwietnia 2022 o zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) oraz zmian wynikających przepisów ogłoszonych przed dniem 21 lipca 2022
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 146 ustawy dnia 28 kwietnia 2022 o zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), które stanowią: „ Niniejsza ustawa służy stosowaniu:
 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 dnia 24 czerwca 2021 ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 30.06.2021, str. 159 oraz Dz. Urz. UE L 261 22.07.2021, str. 58);
 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 dnia 24 czerwca 2021 sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności (Dz. Urz. UE L 231 30.06.2021, str. 60 oraz Dz. Urz. UE L 13 20.01.2022, str. 74);
@@ -32,14 +34,10 @@ domain: null
 UE L 231 30.06.2021, str. 21 oraz Dz. Urz. UE L 421 26.11.2021, str. 75);
 4) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1056 dnia 24 czerwca 2021 ustanawiającego Fundusz na rzecz Sprawiedliwej Transformacji (Dz. Urz. UE L 231 30.06.2021, str. 1 oraz Dz. Urz. UE L 421
 26.11.2021, str. 74);
-5) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 dnia 24 czerwca 2021 sprawie przepisów szczegółowych dotyczących celu „Europejska współpraca terytorialna” (Interreg) wspieranego
+5) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 dnia 24 czerwca 2021 sprawie przepisów szczegółowych dotyczących celu „Europejska współpraca terytorialna” (Interreg) wspieranego ramach Europejskiego Funduszu Rozwoju Regionalnego oraz instrumentów finansowania zewnętrznego (Dz. Urz. UE L 231 30.06.2021, str. 94).” „Art. 146. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
 1) art. 125 pkt 11 lit. b i pkt 13, które wchodzą życie dniem następującym po dniu ogłoszenia, mocą od dnia 1 lipca 2019 r.;
 2) art. 129, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od dnia 24 lutego 2022 r.;
 3) art. 111, art. 139 i art. 144, które wchodzą życie dniem następującym po dniu ogłoszenia;
-4) art. 84, który wchodzi życie dniem 1 lipca 2022 r.;
-5) art. 113 pkt 4 lit. b i pkt 5 oraz art. 140, które wchodzą życie po upływie 3 miesięcy od dnia ogłoszenia;
-6) art. 125 pkt 12, który wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia, mocą od dnia 1 lipca 2019 r.;
-7) art. 125 pkt 10, 17, 18 i 20, które wchodzą życie po upływie 6 miesięcy od dnia ogłoszenia;
 8) art. 113 pkt 19 i art. 142 ust. 4, które wchodzą życie po upływie 36 miesięcy od dnia ogłoszenia.”.
 Marszałek Sejmu: E. Witek
 USTAWA dnia 3 kwietnia 2020 o szczególnych rozwiązaniach wspierających realizację programów operacyjnych
@@ -58,7 +56,7 @@ USTAWA dnia 3 kwietnia 2020 o szczególnych rozwiązaniach wspierających realiz
 2. przypadku, o którym mowa ust. 1, przepisów art. 207 ustawy dnia 27 sierpnia 2009 o finansach publicznych (Dz. U. 2021 poz. 305, późn. zm. ) nie stosuje się.
 3. programie EWT, o którym mowa art. 2 pkt 17 lit. b ustawy wdrożeniowej, nie odzyskuje się od beneficjenta kwoty, o której mowa ust. 1.
 4. Kwota, o której mowa ust. 1, jest pokrywana ze środków budżetu państwa.
-kazuje do ministra właściwego do spraw finansów publicznych, po upływie każdego kwartału, sprawozdanie zawierające kwoty, o które zostały pomniejszone wydatki ujęte deklaracji wydatków oraz we wniosku o płatność przekazywanych do Komisji Europejskiej, za poszczególne miesiące danego kwartału, podziale na programy operacyjne i projekty.
+kwoty, o które zostały pomniejszone wydatki ujęte deklaracji wydatków oraz we wniosku o płatność przekazywanych do Komisji Europejskiej, za poszczególne miesiące danego kwartału, podziale na programy operacyjne i projekty.
 6. 1. przypadku gdy na skutek niemożliwa okazała się realizacja celu, na który został poniesiony wydatek, wydatkowane środki projekcie mogą zostać uznane za wydatki kwalifikowalne, jeżeli beneficjent wykaże, że dochowaniem należytej staranności i odpowiednim czasie podejmował niezbędne działania służące ich odzyskaniu, albo że ich odzyskanie nie było możliwe.
 2. Kwoty poniesione budżetu państwa lub budżetu środków europejskich na wydatek, o którym mowa ust. 1, podlegają monitorowaniu i kontroli okresie 3 lat od dnia uznania tego wydatku za wydatek kwalifikowalny.
 3. Środki odzyskane przez beneficjenta podlegają zwrotowi niezwłocznie, na rachunek bankowy wskazany przez właściwą instytucję.
@@ -75,7 +73,7 @@ kazuje do ministra właściwego do spraw finansów publicznych, po upływie każ
 11. związku wystąpieniem instytucja zarządzająca może każdym czasie dokonać aktualizacji harmonogramu naborów wniosków, o którym mowa art. 47 ust. 1 ustawy wdrożeniowej. takim przypadku przepisu art. 47 ust. 3 tej ustawy nie stosuje się.
 12. 1. przypadku gdy na skutek realizacja postanowień umowy o dofinansowanie projektu albo decyzji o dofinansowaniu projektu zakresie wynikającym zatwierdzonych kryteriów wyboru projektów jest niemożliwa lub znacznie utrudniona, odpowiednio umowa albo decyzja mogą zostać zmienione na uzasadniony wniosek beneficjenta.
 2. przypadku, o którym mowa ust. 1, przepisu art. 52a ustawy wdrożeniowej nie stosuje się.
-1) opracowanego przez ministra właściwego do spraw rozwoju regionalnego zmianę programu operacyjnego przyjmuje minister właściwy do spraw rozwoju regionalnego,
+minister właściwy do spraw rozwoju regionalnego,
 2) opracowanego przez zarząd województwa zmianę programu operacyjnego przyjmuje zarząd województwa drodze uchwały, po uzyskaniu opinii ministra właściwego do spraw rozwoju regionalnego i przekazuje Komisji Europejskiej.
 2. O przekazaniu Komisji Europejskiej zmiany programu operacyjnego, o którym mowa ust. 1 pkt 1, minister właściwy do spraw rozwoju regionalnego informuje Radę Ministrów.
 3. Do zmiany programu operacyjnego, o której mowa ust. 1, nie stosuje się przepisów:
@@ -91,12 +89,12 @@ kazuje do ministra właściwego do spraw finansów publicznych, po upływie każ
 1) wniesienie protestu, jego uzupełnienie lub poprawienie nim oczywistych omyłek, terminach, o których mowa odpowiednio art. 54 ust. 1 lub 3 ustawy wdrożeniowej właściwa instytucja może, na uzasadniony wniosek wnioskodawcy, przedłużyć termin odpowiednio na wniesienie protestu, jego uzupełnienie lub poprawienie nim oczywistych omyłek,
 2) rozpatrzenie przez właściwą instytucję protestu terminach, o których mowa art. 56 ust. 2 i art. 57 ustawy wdrożeniowej terminy te mogą zostać przedłużone jednak nie dłużej niż o 30 dni.
 2. przypadku gdy na skutek wniesienie protestu formie pisemnej jest niemożliwe lub znacznie utrudnione, protest może zostać wniesiony postaci elektronicznej pozwalającej na jej utrwalenie na trwałym nośniku lub systemie teleinformatycznym.
-3. przypadku, o którym mowa ust. 2, właściwa instytucja, informacji, o której mowa art. 45 ust. 4 ustawy sieniu do należności, o których mowa art. 60 pkt 6 ustawy dnia 27 sierpnia 2009 o finansach publicznych, jest niemożliwe lub utrudnione:
+3. przypadku, o którym mowa ust. 2, właściwa instytucja, informacji, o której mowa art. 45 ust. 4 ustawy możliwe lub utrudnione:
 1) terminy na załatwienie sprawy, określone art. 35 § 3 ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. 2021 poz. 735, 1491 i 2052 oraz 2022 poz. 1301), zwanej dalej „Kodeksem postępowania administracyjnego”, ulegają przedłużeniu o 3 miesiące;
 2) przepisów art. 36–38 Kodeksu postępowania administracyjnego nie stosuje się.
 20. 1. przypadku, o którym mowa art. 19, postępowanie może zostać zawieszone na uzasadniony wniosek strony albo urzędu, jednak nie dłużej niż na 180 dni.
 2. Przepisy art. 97 § 2, art. 99 i art. 101–103 Kodeksu postępowania administracyjnego stosuje się odpowiednio. Za okres od dnia wydania postanowienia o zawieszeniu postępowania do dnia doręczenia postanowienia o podjęciu zawieszonego postępowania nie nalicza się odsetek.
-21. 1. celu ograniczenia negatywnych skutków organy właściwe do wydania decyzji odniesieniu do należności, o których mowa art. 60 pkt 6 ustawy dnia 27 sierpnia 2009 o finansach publicznych, mogą, urzędu albo na wniosek strony, wstrzymać wykonanie tych decyzji, na okres nie dłuższy niż 180 dni.
+21. 1. celu ograniczenia negatywnych skutków organy właściwe do wydania decyzji odniesieniu do należności, o których mowa art. 60 pkt 6 ustawy dnia 27 sierpnia 2009 o finansach mogą, urzędu albo na wniosek strony, wstrzymać wykonanie tych decyzji, na okres nie dłuższy niż 180 dni.
 2. Wstrzymanie wykonania decyzji następuje drodze postanowienia, na które służy zażalenie.
 3. Postanowienie, o którym mowa ust. 2, może być każdym czasie uchylone, jeżeli ustąpiły przyczyny, dla których zostało wydane. Za okres od dnia wydania postanowienia o wstrzymaniu wykonania decyzji do dnia doręczenia postanowienia uchylającego to postanowienie nie nalicza się odsetek.
 22. przypadku gdy na skutek istnieje konieczność skorzystania wiedzy, umiejętności lub doświadczenia osoby, która nie jest wpisana do wykazu kandydatów na ekspertów, o którym mowa art. 68a ust. 11 ustawy wdrożeniowej, właściwa instytucja może powierzyć tej osobie funkcję eksperta. Przepisy art. 68a ust. 1–6 i 8–14 ustawy wdrożeniowej stosuje się odpowiednio.
@@ -105,8 +103,7 @@ kazuje do ministra właściwego do spraw finansów publicznych, po upływie każ
 3. Podmiotami wdrażającymi instrumenty finansowe, o których mowa ust. 1, realizowane ramach regionalnych programów operacyjnych mogą być podmioty wybrane zgodnie art. 38 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 dnia 17 grudnia 2013 ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz.
 UE L 347 20.12.2013, str. 320, późn. zm. ) lub regionalne fundusze rozwoju, o których mowa art. 13 ust. 1a ustawy dnia 5 czerwca 1998 o samorządzie województwa (Dz. U. 2022 poz. 547 i 583).
 24. Do zamówień udzielanych przez podmioty, którym powierzono zarządzanie środkami, o których mowa art. 3b ustawy dnia 6 grudnia 2006 o zasadach prowadzenia polityki rozwoju, szczególności regionalne fundusze rozwoju, o których mowa art. 13 ust. 1a ustawy dnia 5 czerwca 1998 o samorządzie województwa, odniesieniu do instrumentów wsparcia niezbędnych do przeciwdziałania negatywnym skutkom finansowanych tych środków, nie stosuje się przepisów ustawy dnia 29 stycznia 2004 Prawo zamówień publicznych (Dz. U. 2019 poz. 1843) .
-dnia 27 sierpnia 2009 o finansach publicznych, właściwy organ może na wniosek zobowiązanego stosować ulgi spłacie zobowiązań, o których mowa art. 64 ust. 1 pkt 2 tej ustawy.
-26. przypadku gdy beneficjentem projektu finansowanego ze środków europejskich jest jednostka sektora finansów publicznych, termin, o którym mowa art. 190 ustawy dnia 27 sierpnia 2009 o finansach publicznych, ulega wydłużeniu o 3 miesiące.
+26. przypadku gdy beneficjentem projektu finansowanego ze środków europejskich jest jednostka sektora finansów termin, o którym mowa art. 190 ustawy dnia 27 sierpnia 2009 o finansach ulega wydłużeniu o 3 miesiące.
 27. Przepisu art. 207 ust. 4 pkt 3 ustawy dnia 27 sierpnia 2009 o finansach publicznych nie stosuje się, jeżeli niedokonanie zwrotu środków przez beneficjenta było skutkiem COVID-19.
 28. celu ograniczenia negatywnych skutków terminy na dokonanie poszczególnych czynności, określone zgodnie przepisami ustawy lub wynikające przepisów ustawy wdrożeniowej, mogą zostać niezbędnym zakresie zmienione, przesunięte albo skrócone, inicjatywy właściwej instytucji lub na wniosek beneficjenta.
 29. Przepisy art. 19–21 i art. 25 stosuje się odpowiednio do postępowań administracyjnych prowadzonych i decyzji administracyjnych wydanych stosunku do beneficjentów programów operacyjnych, o których mowa ustawie dnia 6 grudnia 2006 o zasadach prowadzenia polityki rozwoju.

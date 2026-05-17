@@ -8,9 +8,12 @@ pos: 1676
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 września 2021 r.
+# o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
+
+*USTAWA z dnia 11 sierpnia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2021-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001676) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1676/text.pdf) |
-
-USTAWA z dnia 11 sierpnia 2021 r.
-o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
 
 **Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805) wprowadza się następujące zmiany:
 
@@ -40,13 +40,15 @@ o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
 - **1)** nazwie platformy udostępniania wideo;
 - **2)** imieniu i nazwisku, nazwie lub firmie podmiotu dostarczającego tę platformę;
 - **3)** adresie jego siedziby;
-- **4)** danych kontaktowych, tym adresie korespondencyjnym, adresie poczty elektronicznej oraz witryny internetowej. jest obowiązany do zapewnienia odbiorcom łatwego, bezpośredniego i stałego dostępu do informacji dotyczących imion i nazwisk lub nazw:
-- **1)** wspólników przypadku prowadzenia działalności formie spółki jawnej;
-- **2)** komplementariuszy przypadku prowadzenia działalności formie spółki komandytowej;
-- **3)** komplementariuszy oraz akcjonariuszy, których udziały przekraczają 5% kapitału zakładowego dostawcy przypadku prowadzenia działalności formie spółki komandytowo-akcyjnej;
-- **4)** wspólników, których udziały przekraczają 5% kapitału zakładowego dostawcy przypadku prowadzenia działalności formie spółki z ograniczoną odpowiedzialnością;
-- **5)** akcjonariuszy, których akcje przekraczają 5% kapitału zakładowego dostawcy przypadku prowadzenia działalności formie spółki akcyjnej;
-- **6)** akcjonariuszy, których akcje przekraczają 5% kapitału akcyjnego dostawcy przypadku prowadzenia działalności formie prostej spółki akcyjnej.
+
+2. Dostawca platformy udostępniania wideo prowadzący działalność gospodarczą formie spółki handlowej jest obowiązany do zapewnienia odbiorcom łatwego, bezpośredniego i stałego dostępu do informacji dotyczących imion i nazwisk lub nazw:
+
+- **1)** wspólników – przypadku prowadzenia działalności formie spółki jawnej;
+- **2)** komplementariuszy – przypadku prowadzenia działalności formie spółki komandytowej;
+- **3)** komplementariuszy oraz akcjonariuszy, których udziały przekraczają 5% kapitału zakładowego dostawcy – przypadku prowadzenia działalności formie spółki komandytowo-akcyjnej;
+- **4)** wspólników, których udziały przekraczają 5% kapitału zakładowego dostawcy – przypadku prowadzenia działalności formie spółki z ograniczoną odpowiedzialnością;
+- **5)** akcjonariuszy, których akcje przekraczają 5% kapitału zakładowego dostawcy – przypadku prowadzenia działalności formie spółki akcyjnej;
+- **6)** akcjonariuszy, których akcje przekraczają 5% kapitału akcyjnego dostawcy – przypadku prowadzenia działalności formie prostej spółki akcyjnej.
 
 3. Dostawca platformy udostępniania wideo jest obowiązany do zapewnienia odbiorcom łatwego, bezpośredniego i stałego dostępu do danych identyfikujących beneficjentów rzeczywistych danego dostawcy ujawnionych Centralnym Rejestrze Beneficjentów Rzeczywistych, o którym mowa art. 55 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
 
@@ -74,7 +76,11 @@ o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
 
 4. Dostawca platformy udostępniania wideo jest obowiązany zgłaszać Przewodniczącemu Krajowej Rady zmiany stanu faktycznego i prawnego objętego wpisem do wykazu, powstałe po dniu dokonania wpisu, terminie 14 dni od dnia ich powstania. Do zgłaszania zmian stosuje się odpowiednio przepisy o wpisie do wykazu.
 
-5. Krajowa Rada określi, drodze rozporządzenia, wzór wykazu platform udostępniania wideo i wzór zgłoszenia o wpis do wykazu, uwzględniając konieczność prowadzenia wykazu oraz zgłaszania do niego wniosków systemie teleinformatycznym, konieczność zapewnienia przejrzystości i kompletności informacji znajdujących się wykazie, a także nienakładanie na dostawców platform udostępniania wideo nadmiernych utrudnień zakresie wykonywanej działalności. przez użytkowników lub innych przekazów:
+5. Krajowa Rada określi, drodze rozporządzenia, wzór wykazu platform udostępniania wideo i wzór zgłoszenia o wpis do wykazu, uwzględniając konieczność prowadzenia wykazu oraz zgłaszania do niego wniosków wykonywanej działalności.
+
+**Art. 47o.**
+
+1. Zabronione jest umieszczanie na platformach udostępniania wideo audycji, wideo stworzonych przez użytkowników lub innych przekazów:
 
 - **1)** zagrażających prawidłowemu fizycznemu, psychicznemu lub moralnemu rozwojowi małoletnich, szczególności zawierających treści pornograficzne lub sposób nieuzasadniony eksponujących przemoc, bez stosowania skutecznych zabezpieczeń technicznych, o których mowa art. 47p ust. 1;
 - **2)** zawierających nawoływanie do przemocy lub nienawiści wobec grupy osób ze względu na płeć, rasę, kolor skóry, pochodzenie etniczne lub społeczne, cechy genetyczne, język, religię lub przekonania, poglądy polityczne lub wszelkie inne poglądy, przynależność państwową, przynależność do mniejszości narodowej, majątek, urodzenie, niepełnosprawność, wiek lub orientację seksualną;
@@ -99,14 +105,9 @@ o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
 
 1. Do przekazów handlowych umieszczanych na platformie udostępniania wideo przez jej dostawcę, a także przekazów handlowych promowanych lub sprzedawanych przez tego dostawcę, przepisy art. 16 ust. 1, art. 16b ust. 1–3, art. 16c pkt 1, art. 17 i art. 17a stosuje się odpowiednio.
 
-2. Krajowa Rada może określić, drodze rozporządzenia, sposób wyodrębniania i oznaczania przekazów handlowych audycjach, wideo stworzonych przez użytkowników oraz innych przekazach umieszczanych na platformie udostępniania wideo, przed ich rozpoczęciem oraz po ich zakończeniu, oraz przekazów handlowych umieszczanych na platformie udostępniania wideo, ale nieposiadających związku z audycjami lub wideo stworzonymi przez użytkowników, kierując się ochroną interesu odbiorców i samodzielności dostawców platform udostępniania wideo oraz uwzględniając rozwój technik reklamowych i specyfikę działalności dostawców platform udostępniania wideo. szczególności:
+2. Krajowa Rada może określić, drodze rozporządzenia, sposób wyodrębniania i oznaczania przekazów handlowych audycjach, wideo stworzonych przez użytkowników oraz innych przekazach umieszczanych na platformie udostępniania wideo, przed ich rozpoczęciem oraz po ich zakończeniu, oraz przekazów handlowych umieszczanych kowników, kierując się ochroną interesu odbiorców i samodzielności dostawców platform udostępniania wideo oraz uwzględniając rozwój technik reklamowych i specyfikę działalności dostawców platform udostępniania wideo.
 
-- **1)** informację o cechach oraz szczegółowych warunkach kwalifikowania i oznaczania audycji, wideo stworzonych przez użytkowników i innych przekazów oraz wzorach odpowiednich symboli graficznych, określonych rozporządzeniu wydanym na podstawie art. 47p ust. 3;
-- **2)** informację o rozporządzeniu, o którym mowa art. 47q ust. 2, a razie jego braku zasady umieszczania przekazów handlowych audycjach, wideo stworzonych przez użytkowników oraz innych przekazach umieszczanych na platformie udostępniania wideo przez użytkowników;
-- **3)** sposób zgłaszania, że treści umieszczone na platformie udostępniania wideo naruszają zakaz określony art. 47o ust. 1, oraz tryb rozpoznawania zgłoszeń, tym terminy i sposób udzielania odpowiedzi na zgłoszenia dokonane przez użytkowników;
-- **4)** kryteria dokonywania oceny zgodności audycji, wideo stworzonych przez użytkowników oraz innych przekazów z art. 47o;
-- **5)** informacje dotyczące możliwości składania skarg na rozstrzygnięcia dostawcy platformy udostępniania wideo, o których mowa art. 47t ust. 1 i 2 oraz art. 47u, oraz informacje dotyczące innych środków ochrony prawnej przysługujących użytkownikom platform udostępniania wideo wobec rozstrzygnięć dostawcy platformy udostępniania wideo;
-- **6)** informacje o zakresie i celu przetwarzania danych osobowych użytkowników platformy udostępniania wideo.
+**Art. 47r.** Dostawca platformy udostępniania wideo regulaminie świadczenia usług drogą elektroniczną określa szczególności:
 
 **Art. 47s.**
 
@@ -128,9 +129,9 @@ o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
 
 3. Dostawca platformy udostępniania wideo może bezterminowo uniemożliwić użytkownikowi umieszczanie audycji, wideo stworzonych przez użytkownika lub innych przekazów na platformie udostępniania wideo przypadku umieszczania audycji, wideo stworzonych przez użytkownika lub innych przekazów, o których mowa art. 47o ust. 1 pkt 3.
 
-4. Rozstrzygnięcie dostawcy platformy udostępniania wideo, o którym mowa ust. 1–3, zawiera uzasadnienie i jest niezwłocznie przekazywane jej użytkownikowi.
+5. Na rozstrzygnięcie dostawcy platformy udostępniania wideo, o którym mowa ust. 1–3, użytkownikowi platformy udostępniania wideo służy skarga do Krajowej Rady.
 
-5. Na rozstrzygnięcie dostawcy platformy udostępniania wideo, o którym mowa ust. 1–3, użytkownikowi platformy udostępniania wideo służy skarga do Krajowej Rady. platformy udostępniania wideo:
+6. Przewodniczący Krajowej Rady może, drodze decyzji, o której mowa art. 10 ust. 4, nakazać dostawcy platformy udostępniania wideo:
 
 - **1)** uniemożliwienie dostępu do umieszczonych na tej platformie audycji, wideo stworzonych przez użytkownika lub innych przekazów niezgodnych z art. 47o lub
 - **2)** przywrócenie dostępu do umieszczonych na tej platformie przez jej użytkownika audycji, wideo stworzonych przez użytkownika lub innych przekazów, lub
@@ -169,7 +170,7 @@ o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
 - **1)** 2022 r. co najmniej 5% audycji umieszczonych udostępnianym publicznie katalogu,
 - **2)** 2023 r. co najmniej 10% audycji umieszczonych udostępnianym publicznie katalogu,
 - **3)** latach 2024 i 2025 co najmniej 20% audycji umieszczonych udostępnianym publicznie katalogu,
-- **4)** od 2026 r. co najmniej 30% audycji umieszczonych udostępnianym publicznie katalogu posiadało takie udogodnienia.
+- **4)** od 2026 r. co najmniej 30% audycji umieszczonych udostępnianym publicznie katalogu – posiadało takie udogodnienia.
 
 2. W 2026 r. Przewodniczący Krajowej Rady Radiofonii i Telewizji przedstawi Sejmowi, Senatowi oraz ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego informację o realizacji obowiązku, o którym mowa art. 47g ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, oraz o możliwości zwiększenia poziomu udogodnień dla osób z niepełnosprawnościami udostępnianych publicznie katalogach audiowizualnych usług medialnych na żądanie.
 
@@ -179,7 +180,5 @@ o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
 
 2. Dostawcy platform udostępniania wideo, prowadzący działalność dniu wejścia życie niniejszej ustawy, są obowiązani do dokonania zgłoszenia, o którym mowa art. 47n ust. 1 ustawy zmienianej art. 1, terminie 3 miesięcy od dnia wejścia życie przepisów wydanych na podstawie art. 47n ust. 5 ustawy zmienianej art. 1.
 
-**Art. 6.** Przepisy wykonawcze wydane na podstawie art. 15a ust. 2 i 3, art. 18 ust. 6 oraz art. 47e ust. 4 ustawy zmienianej art. 1, brzmieniu dotychczasowym zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 15a ust. 6 i 7, art. 18 ust. 6 oraz art. 47e ust. 4 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
-
-**Art. 7.** Ustawa wchodzi życie z dniem 1 listopada 2021 r., z wyjątkiem art. 1 pkt 10, 31, pkt 32 zakresie art. 47g i pkt 33 lit. b, art. 2 oraz art. 4, które wchodzą życie z dniem 1 stycznia 2022 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 6.** Przepisy wykonawcze wydane na podstawie art. 15a ust. 2 i 3, art. 18 ust. 6 oraz art. 47e ust. 4 ustawy zmienianej art. 1, brzmieniu dotychczasowym zachowują moc do dnia wejścia życie przepisów wykonawczych wydaArt. 7. Ustawa wchodzi życie z dniem 1 listopada 2021 r., z wyjątkiem art. 1 pkt 10, 31, pkt 32 zakresie art. 47g i pkt 33 lit. b, art. 2 oraz art. 4, które wchodzą życie z dniem 1 stycznia 2022 r.
 

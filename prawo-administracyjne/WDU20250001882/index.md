@@ -8,9 +8,12 @@ pos: 1882
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 grudnia 2025 r.
+# o zmianie ustawy o doradztwie podatkowym oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+
+*USTAWA z dnia 4 grudnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2025-12-30 |
 | Ostatnia zmiana | 2026-03-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001882) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1882/text.pdf) |
-
-USTAWA z dnia 4 grudnia 2025 r.
-o zmianie ustawy o doradztwie podatkowym oraz ustawy Prawo o postępowaniu przed sądami administracyjnymi
 
 **Art. 1.** W ustawie z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2021 r. poz. 2117) wprowadza się następujące zmiany:
 
@@ -45,12 +45,12 @@ o zmianie ustawy o doradztwie podatkowym oraz ustawy Prawo o postępowaniu przed
 - **3)** przeprowadzania egzaminu na doradcę podatkowego;
 - **4)** realizacji innych zadań i czynności związanych z funkcjonowaniem Komisji Egzaminacyjnej i organizacją egzaminu na doradcę podatkowego.
 - **1)** kandydatów na doradców podatkowych,
-- **2)** członków Komisji Egzaminacyjnej będących użytkownikami tych kont.
+- **2)** członków Komisji Egzaminacyjnej – będących użytkownikami tych kont.
 
 4. Dostęp do konta użytkownika e-Doradcy jest możliwy do dnia:
 
-- **1)** upływu 2 miesięcy od dnia zakończenia cyklu egzaminacyjnego, o którym mowa art. 24a ust. 1 albo 2 przypadku kandydata na doradcę podatkowego;
-- **2)** ustania członkostwa Komisji Egzaminacyjnej przypadku członka Komisji Egzaminacyjnej.
+- **1)** upływu 2 miesięcy od dnia zakończenia cyklu egzaminacyjnego, o którym mowa art. 24a ust. 1 albo 2 – przypadku kandydata na doradcę podatkowego;
+- **2)** ustania członkostwa Komisji Egzaminacyjnej – przypadku członka Komisji Egzaminacyjnej.
 
 5. Warunkiem dostępu do e-Doradcy jest uwierzytelnienie się użytkownika konta, o którym mowa ust. 3, dokonywane z wykorzystaniem numeru PESEL.
 
@@ -60,8 +60,8 @@ o zmianie ustawy o doradztwie podatkowym oraz ustawy Prawo o postępowaniu przed
 
 8. Doręczenie pisma kandydatowi na doradcę podatkowego e-Doradcy następuje:
 
-- **1)** z chwilą odebrania pisma przez kandydata na doradcę podatkowego e-Doradcy przypadku gdy odebranie pisma nastąpiło okresie od dnia umieszczenia pisma na jego koncie do końca 7 dnia, licząc od dnia następującego po dniu umieszczenia tego pisma na jego koncie, albo
-- **2)** z upływem ostatniego dnia okresu, o którym mowa pkt 1 przypadku nieodebrania pisma przez kandydata na doradcę podatkowego e-Doradcy tym okresie.
+- **1)** z chwilą odebrania pisma przez kandydata na doradcę podatkowego e-Doradcy – przypadku gdy odebranie pisma nastąpiło okresie od dnia umieszczenia pisma na jego koncie do końca 7 dnia, licząc od dnia następującego po dniu umieszczenia tego pisma na jego koncie, albo
+- **2)** z upływem ostatniego dnia okresu, o którym mowa pkt 1 – przypadku nieodebrania pisma przez kandydata na doradcę podatkowego e-Doradcy tym okresie.
 
 9. Przez umieszczenie pisma na koncie e-Doradcy rozumie się zaistnienie warunków technicznych umożliwiających odebranie e-Doradcy przez kandydata na doradcę podatkowego pisma Komisji Egzaminacyjnej doręczanego na to konto.
 
@@ -73,9 +73,13 @@ o zmianie ustawy o doradztwie podatkowym oraz ustawy Prawo o postępowaniu przed
 
 **Art. 24c.** Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, sposób korzystania z e-Doradcy, tym:
 
-**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769 i 1427) art. 175 § 3 pkt 1 otrzymuje brzmienie: „1) doradcę podatkowego sprawach obowiązków, o których mowa art. 2 ust. 1 pkt 1 i 3a ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2021 r. poz. 2117 oraz z 2025 r. poz. 1882);”.
+**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769 i 1427) art. 175 § 3 pkt 1 otrzymuje brzmienie: „1) doradcę podatkowego – sprawach obowiązków, o których mowa art. 2 ust. 1 pkt 1 i 3a ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2021 r. poz. 2117 oraz z 2025 r. poz. 1882);”.
 
-**Art. 3.** Czynności, o których mowa art. 2 ust. 1:
+**Art. 4.**
+
+1. Wnioski podmiotów, o których mowa art. 4 ust. 1 pkt 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, o wpis do rejestru, o którym mowa art. 14 ustawy zmienianej art. 1, brzmieniu dotychczasowym, złożone i nierozpatrzone przed dniem wejścia życie niniejszej ustawy pozostawia się bez rozpatrzenia.
+
+2. W okresie 12 miesięcy od dnia wejścia życie niniejszej ustawy Krajowa Rada Doradców Podatkowych ramach nadzoru, o którym mowa art. 14 ust. 6 ustawy zmienianej art. 1, przeprowadzi weryfikację przestrzegania przez podmioty, o których mowa art. 4 ust. 1 pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, warunków określonych art. 4 ust. 1 pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 
 **Art. 5.**
 
@@ -105,12 +109,14 @@ o zmianie ustawy o doradztwie podatkowym oraz ustawy Prawo o postępowaniu przed
 
 3. Kandydat na doradcę podatkowego, o którym mowa ust. 1 pkt 2 i 3, może złożyć wniosek, o którym mowa art. 21 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, po zakończeniu cyklu egzaminacyjnego, o którym mowa ust. 1 pkt 2 albo 3, jednak nie wcześniej niż po dniu 30 czerwca 2026 r.
 
-4. Kandydaci na doradców podatkowych, o których mowa art. 24 ust. 5 ustawy zmienianej art. 1, brzmieniu dotychczasowym, którym przed dniem 1 lipca 2026 r. wyznaczono termin części ustnej egzaminu, na skutek złożenia wniosku, o którym mowa art. 24 ust. 6 ustawy zmienianej art. 1, brzmieniu dotychczasowym, i którzy przed tym dniem nie uzyskali pozytywnego wyniku z części ustnej egzaminu, albo którym nie upłynął okres, o którym mowa art. 24 ust. 6 ustawy zmienianej art. 1, brzmieniu dotychczasowym, są cyklu egzaminacyjnym, który kończy się z dniem:
+4. Kandydaci na doradców podatkowych, o których mowa art. 24 ust. 5 ustawy zmienianej art. 1, brzmieniu dotychczasowym, którym przed dniem 1 lipca 2026 r. wyznaczono termin części ustnej egzaminu, na skutek złożenia dniem nie uzyskali pozytywnego wyniku z części ustnej egzaminu, albo którym nie upłynął okres, o którym mowa art. 24 ust. 6 ustawy zmienianej art. 1, brzmieniu dotychczasowym, są cyklu egzaminacyjnym, który kończy się z dniem:
 
 - **1)** uzyskania przez kandydata na doradcę podatkowego pozytywnego wyniku z części ustnej tego egzaminu albo
 - **2)** upływu okresu, o którym mowa art. 24 ust. 6 ustawy zmienianej art. 1, brzmieniu dotychczasowym.
 
-5. Kandydat na doradcę podatkowego, o którym mowa ust. 4 pkt 2, może złożyć wniosek, o którym mowa art. 21 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, po zakończeniu cyklu egzaminacyjnego, o którym mowa ust. 4 pkt 2, jednak nie wcześniej niż po dniu 30 czerwca 2026 r. części pisemnej egzaminu i którzy przed tym dniem nie uzyskali pozytywnego wyniku z tej części egzaminu, cykl egzaminacyjny kończy się z dniem wejścia życie niniejszej ustawy, jeżeli przed tym dniem upłynęło 5 lat od dnia ostatniego wyznaczonego im terminu części pisemnej egzaminu na doradcę podatkowego, z którego uzyskali wynik negatywny albo do którego nie przystąpili i nie ubiegali się o wyznaczenie terminu ponownego egzaminu z tej części.
+5. Kandydat na doradcę podatkowego, o którym mowa ust. 4 pkt 2, może złożyć wniosek, o którym mowa art. 21 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, po zakończeniu cyklu egzaminacyjnego, o którym mowa ust. 4 pkt 2, jednak nie wcześniej niż po dniu 30 czerwca 2026 r.
+
+6. Kandydatom na doradców podatkowych, którym przed dniem wejścia życie niniejszej ustawy wyznaczono termin części pisemnej egzaminu i którzy przed tym dniem nie uzyskali pozytywnego wyniku z tej części egzaminu, cykl egzaminacyjny kończy się z dniem wejścia życie niniejszej ustawy, jeżeli przed tym dniem upłynęło 5 lat od dnia ostatniego wyznaczonego im terminu części pisemnej egzaminu na doradcę podatkowego, z którego uzyskali wynik negatywny albo do którego nie przystąpili i nie ubiegali się o wyznaczenie terminu ponownego egzaminu z tej części.
 
 **Art. 10.** W przypadku cyklu egzaminacyjnego, o którym mowa w:
 
@@ -130,13 +136,17 @@ o zmianie ustawy o doradztwie podatkowym oraz ustawy Prawo o postępowaniu przed
 
 **Art. 18.**
 
-1. Z dniem wejścia życie niniejszej ustawy kończy się kadencja Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego powołanej na podstawie przepisów dotychczasowych.
-
-2. Komisja Egzaminacyjna, o której mowa ust. 1, działa do czasu powołania Państwowej Komisji Egzaminacyjnej do spraw Doradztwa Podatkowego na zasadach i trybie określonych przepisach ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 3 miesiące od dnia wejścia życie niniejszej ustawy.
+1. Z dniem wejścia życie niniejszej ustawy kończy się kadencja Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego powołanej na podstawie przepisów dotychczasowych. niu nadanym niniejszą ustawą, jednak nie dłużej niż 3 miesiące od dnia wejścia życie niniejszej ustawy.
 
 3. Do powoływania i odwoływania członków Komisji Egzaminacyjnej, o której mowa ust. 1, okresie, o którym mowa ust. 2, stosuje się przepisy dotychczasowe.
 
-**Art. 19.** Pierwszy wykaz tytułów aktów prawnych oraz przykładowe pytania i zadania egzaminacyjne wraz z odpowiedziami, o których mowa art. 22 ust. 12 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, są publikowane nie później niż 3 miesiące przed wyznaczonym pierwszym terminem części pisemnej lub ustnej egzaminu na doradcę podatkowego, przeprowadzanego na podstawie art. 20 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, i mają zastosowanie do egzaminów na doradcę podatkowego przeprowadzanych po dniu 30 czerwca 2026 r. o którym mowa art. 22 ust. 12 ustawy zmienianej art. 1, brzmieniu dotychczasowym, podany do publicznej wiadomości przed dniem wejścia życie niniejszej ustawy, przy czym wykaz ten może być aktualizowany. 2. Zestawy pytań i zadań egzaminacyjnych na poszczególne egzaminy przygotowywane zgodnie z art. 23 ust. 1 pkt 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do egzaminów na doradcę podatkowego przeprowadzanych po dniu 30 czerwca 2026 r.
+**Art. 19.** Pierwszy wykaz tytułów aktów prawnych oraz przykładowe pytania i zadania egzaminacyjne wraz z odpowiedziami, o których mowa art. 22 ust. 12 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, są publikowane nie później niż 3 miesiące przed wyznaczonym pierwszym terminem części pisemnej lub ustnej egzaminu na doradcę podatkowego, przeprowadzanego na podstawie art. 20 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, i mają zastosowanie do egzaminów na doradcę podatkowego przeprowadzanych po dniu 30 czerwca 2026 r.
+
+**Art. 20.**
+
+1. Do egzaminów na doradcę podatkowego przeprowadzanych do dnia 30 czerwca 2026 r. stosuje się wykaz, o którym mowa art. 22 ust. 12 ustawy zmienianej art. 1, brzmieniu dotychczasowym, podany do publicznej wiadomości przed dniem wejścia życie niniejszej ustawy, przy czym wykaz ten może być aktualizowany.
+
+2. Zestawy pytań i zadań egzaminacyjnych na poszczególne egzaminy przygotowywane zgodnie z art. 23 ust. 1 pkt 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do egzaminów na doradcę podatkowego przeprowadzanych po dniu 30 czerwca 2026 r.
 
 **Art. 21.**
 
@@ -164,15 +174,14 @@ o zmianie ustawy o doradztwie podatkowym oraz ustawy Prawo o postępowaniu przed
 
 1. Doradcy podatkowi wpisani na listę doradców podatkowych na dzień wejścia życie niniejszej ustawy są obowiązani uzupełnić wiedzę zakresie dziedzin, o których mowa art. 20 ust. 1 pkt 4a i 4b ustawy zmienianej art. 1, ramach podnoszenia kwalifikacji, o którym mowa art. 36 pkt 2 ustawy zmienianej art. 1, terminie:
 
-- **1)** 12 miesięcy od dnia wejścia życie niniejszej ustawy przypadku doradców podatkowych, którzy dniu wejścia życie niniejszej ustawy wykonują zawód;
-- **2)** 12 miesięcy od dnia podjęcia wykonywania zawodu przypadku doradców podatkowych, którzy dniu wejścia życie niniejszej ustawy nie wykonują zawodu.
+- **1)** 12 miesięcy od dnia wejścia życie niniejszej ustawy – przypadku doradców podatkowych, którzy dniu wejścia życie niniejszej ustawy wykonują zawód;
+- **2)** 12 miesięcy od dnia podjęcia wykonywania zawodu – przypadku doradców podatkowych, którzy dniu wejścia życie niniejszej ustawy nie wykonują zawodu. dzę zakresie dziedzin, o których mowa art. 20 ust. 1 pkt 4a i 4b ustawy zmienianej art. 1, ramach podnoszenia kwalifikacji, o którym mowa art. 36 pkt 2 ustawy zmienianej art. 1, terminie:
+- **1)** 12 miesięcy od dnia wpisu na listę – przypadku doradców podatkowych podejmujących wykonywanie zawodu z dniem wpisu na listę;
+- **2)** 12 miesięcy od dnia podjęcia wykonywania zawodu – przypadku doradców podatkowych niepodejmujących wykonywania zawodu z dniem wpisu na listę.
 
-2. Doradcy podatkowi wpisani na listę doradców podatkowych po dniu wejścia życie niniejszej ustawy, którzy złożyli z wynikiem pozytywnym egzamin na doradcę podatkowego przed dniem 1 lipca 2026 r., są obowiązani uzupełnić wiedzę zakresie dziedzin, o których mowa art. 20 ust. 1 pkt 4a i 4b ustawy zmienianej art. 1, ramach podnoszenia kwalifikacji, o którym mowa art. 36 pkt 2 ustawy zmienianej art. 1, terminie:
+3. Nie później niż terminie 30 dni od dnia upływu terminu, o którym mowa ust. 1 pkt 1 albo 2, albo terminu, o którym mowa ust. 2 pkt 1 albo 2, doradcy podatkowi są obowiązani poinformować Krajową Radę Doradców Podatkowych o sposobie zrealizowania obowiązku, o którym mowa ust. 1 albo 2.
 
-- **1)** 12 miesięcy od dnia wpisu na listę przypadku doradców podatkowych podejmujących wykonywanie zawodu z dniem wpisu na listę;
-- **2)** 12 miesięcy od dnia podjęcia wykonywania zawodu przypadku doradców podatkowych niepodejmujących wykonywania zawodu z dniem wpisu na listę.
-
-3. Nie później niż terminie 30 dni od dnia upływu terminu, o którym mowa ust. 1 pkt 1 albo 2, albo terminu, o którym mowa ust. 2 pkt 1 albo 2, doradcy podatkowi są obowiązani poinformować Krajową Radę Doradców Podatkowych o sposobie zrealizowania obowiązku, o którym mowa ust. 1 albo 2. zmienianej art. 1, dotyczy rozpraw sądowych przeprowadzanych od dnia 1 stycznia 2027 r.
+**Art. 26.** Obowiązek używania przez doradcę podatkowego stroju urzędowego, o którym mowa art. 38a ust. 1 ustawy zmienianej art. 1, dotyczy rozpraw sądowych przeprowadzanych od dnia 1 stycznia 2027 r.
 
 **Art. 27.**
 
@@ -192,5 +201,5 @@ o zmianie ustawy o doradztwie podatkowym oraz ustawy Prawo o postępowaniu przed
 
 **Art. 31.** Pierwszy egzamin na doradcę podatkowego przy wykorzystaniu e-Doradcy jest przeprowadzany po dniu 30 czerwca 2026 r. po uruchomieniu usługi, o której mowa art. 27 ust. 1 pkt 3.
 
-**Art. 32.** Ustawa wchodzi życie z dniem 1 marca 2026 r., z wyjątkiem art. 1 pkt 12 lit. a i b, pkt 13 lit. i, pkt 14, pkt 15 lit. a zakresie art. 23 ust. 1 pkt 1 lit. b, pkt 16 lit. a, c, d i e, pkt 17, 18, 20 i 25, art. 21, art. 26 oraz art. 28, które wchodzą życie z dniem 1 lipca 2026 r. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 32.** Ustawa wchodzi życie z dniem 1 marca 2026 r., z wyjątkiem art. 1 pkt 12 lit. a i b, pkt 13 lit. i, pkt 14, pkt 15 lit. a zakresie art. 23 ust. 1 pkt 1 lit. b, pkt 16 lit. a, c, d i e, pkt 17, 18, 20 i 25, art. 21, art. 26 oraz art. 28, które wchodzą życie z dniem 1 lipca 2026 r.
 

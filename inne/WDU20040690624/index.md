@@ -8,9 +8,10 @@ pos: 624
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 4 marca 2004 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie innych ustaw
+# zmianie ustawy gospodarowaniu nieruchomościami rolnymi Skarbu Państwa zmianie innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +25,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040690624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/624/text.pdf) |
 
-**Art. 1.** W ustawie 19 paêdziernika 1991 ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z2001 57, 603, zpóên. zm.
+**Art. 1.** W ustawie dnia 19 października 1991 gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz.U. 2001 57, 603, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie 14 grudnia 1994 o zatrudnieniu iprzeciwdziałaniu bezrobociu (Dz. U. z2003 58, 514, póên. zm. ) art. 37o:
+**Art. 3.** W ustawie dnia 14 grudnia 1994 zatrudnieniu przeciwdziałaniu bezrobociu (Dz.U. 58, 514, późn. zm. ) 37o:
 
-**Art. 4.** W ustawie 4 września 1997 o działach administracji rządowej (Dz. U. 2003 159, 1548, 162, 1568 190, 1864 oraz 2004 19, 177) art.23:
+**Art. 4.** W ustawie dnia 4 września 1997 działach administracji rządowej (Dz.U. 159, 1548, 162, 1568 180, 1864) 23:
 
-**Art. 6.** W ustawie 13 czerwca 2003 o za- Art. 9. Dotychczasowe przepisy wykonawcze wytrudnieniu socjalnym (Dz. U. 122, 1143) wpro- dane na podstawie art. 20 ust. 6 wymienionej wadza się następujące zmiany: art. 1 zachowują moc wejścia życie nowych przepisów wykonawczych wydanych na podsta1) art. 7 uchyla się ust. 2; wie tego artykułu, brzmieniu nadanym niniejszą
+**Art. 7.** Umowy zawarte przed dniem wejścia życie niniejszej ustawy, na podstawie przepisów ustawy wymienionej 1, celu tworzenia miejsc pracy związku restrukturyzacją państwowej gospodarki rolnej, udzielania pomocy byłym pracownikom państwowych przedsiębiorstw gospodarki rolnej członkom ich rodzin przezwyciężaniu trudnych sytuacji życiowych, szczególności przez wspieranie zatrudnienia socjalnego, określonego odrębnych przepisach, pozostają mocy do dnia ich wygaśnięcia lub rozwiązania.
 
-**Art. 7.** Umowy zawarte przed dniem wejścia wżycie niniejszej ustawy, na podstawie przepisów wy- Art. 10.Ustawa wchodzi wżycie po upływie 14 dni mienionej art. 1, celu tworzenia miejsc pracy wzwiązku zrestrukturyzacją państwowej gospodarki rolnej, udzielania pomocy byłym pracownikom państwowych przedsiębiorstw gospodarki rolnej członkom ich od ogłoszenia, wyjątkiem art. 2, który wchodzi życie dniem 1 stycznia 2005 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 625 USTAWA 11 marca 2004 o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaênych zwierząt
+**Art. 8.** Do dnia 31 grudnia 2004 Agencja Nieruchomości Rolnych przyznaje wypłaca stypendia dzieciom byłych pracowników państwowych przedsiębiorstw gospodarki rolnej, uczącym się szkołach ponadgimnazjalnych lub kształcącym się szkołach wyższych, finansuje dożywianie tych dzieci szkołach podstawowych, gimnazjach szkołach ponadgimnazjalnych na dotychczasowych zasadach.
 
-#### Rozdział 1 Przepisy ogólne
+**Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie 20 6 ustawy wymienionej 1 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie tego artykułu, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od dnia wejścia życie niniejszej ustawy.
 
-**Art. 1.** Ustawa określa:
+**Art. 10.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem 2, który wchodzi życie dniem 1 stycznia 2005
 

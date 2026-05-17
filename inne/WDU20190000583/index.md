@@ -1,0 +1,32 @@
+---
+title: Rozporządzenie Rady Ministrów z dnia 27 marca 2019 r. w sprawie wykazu spółek służących do realizacji zadań Agencji Mienia Wojskowego
+address: WDU20190000583
+eli: DU/2019/583
+publisher: DU
+year: 2019
+pos: 583
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 marca 2019 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 583 |
+| ISAP | WDU20190000583 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2019-03-27 |
+| Data wydania | 2019-03-28 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000583) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/583/text.pdf) |
+
+Poz. 583 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 marca 2019 r.
+w sprawie wykazu spółek służących do realizacji zadań Agencji Mienia Wojskowego Na podstawie art. 60 ust. 4a ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2018 poz. 2308 oraz z 2019 r. poz. 492) zarządza się, co następuje: § 1. Ustala się wykaz spółek służących do realizacji zadań Agencji Mienia Wojskowego, stanowiący załącznik rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem 29 marca 2019 r.
+Prezes Rady Ministrów: M. Morawiecki Dziennik Ustaw – 2 – Poz. 583 WYKAZ SPÓŁEK SŁUŻĄCYCH DO REALIZACJI ZADAŃ AGENCJI MIENIA WOJSKOWEGO Lp. FIRMA SPÓŁKI NUMER KRS 1 AMW Towarzystwo Budownictwa Społecznego „KWATERA” spółka z ograniczoną 0000140528 odpowiedzialnością z siedzibą w Warszawie 2 AMW REWITA spółka z ograniczoną odpowiedzialnością z siedzibą w Warszawie 0000394569 3 AMW SINEVIA spółka z ograniczoną odpowiedzialnością z siedzibą w Nowym Dworze 0000392868 Mazowieckim 4 „MAZOWIECKI PORT LOTNICZY WARSZAWA-MODLIN spółka z ograniczoną 0000184990 odpowiedzialnością” z siedzibą w Nowym Dworze Mazowieckim 5 AMW INVEST spółka z ograniczoną odpowiedzialnością z siedzibą we Wrocławiu 0000003772
+

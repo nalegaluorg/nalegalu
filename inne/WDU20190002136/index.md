@@ -8,9 +8,12 @@ pos: 2136
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 listopada 2019 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy wynagradzaniu osób kierujących niektórymi podmiotami prawnymi Na podstawie 16 ust. zdanie pierwsze ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 3 marca 2000 r. wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 14 października 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002136) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2136/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 14 października 2019 r.
-sprawie ogłoszenia jednolitego tekstu ustawy wynagradzaniu osób kierujących niektórymi podmiotami prawnymi Na podstawie 16 ust. zdanie pierwsze ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 3 marca 2000 r. wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U.
 2018 r. poz. 1252), uwzględnieniem zmian wprowadzonych:
 1) ustawą dnia 4 października 2018 r. pracowniczych planach kapitałowych (Dz. U. poz. 2215),
 2) ustawą dnia 21 lutego 2019 r. zmianie ustawy zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw (Dz. U. poz. 492),
@@ -40,6 +41,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy wynagradzaniu osób kierujących n
 3) 133 ustawy dnia 21 lutego 2019 r. Sieci Badawczej Łukasiewicz (Dz. U. poz. 534), który stanowi: „Art. 133. Ustawa wchodzi życie dniem kwietnia 2019 r., wyjątkiem:
 1) 95, 96 3, 5, 9–11, 14 c, 21 a, 25, 26 39, 111 ust. 2, 128 130, które wchodzą życie dniem następującym po dniu ogłoszenia;
 2) 39, 41 ust. ust. 5 1, 74 84 c tiret drugie, które wchodzą życie dniem kwietnia 2020 r.”.
+Marszałek Sejmu: E. Witek
 USTAWA dnia 3 marca 2000 r.
 wynagradzaniu osób kierujących niektórymi podmiotami prawnymi
 Art. Ustawa ma zastosowanie do:
@@ -95,7 +97,7 @@ Art. Ustawa ma zastosowanie do:
 
 **Art. 29b.** W 2011 r. przeciętne miesięczne wynagrodzenie sektorze przedsiębiorstw bez wypłat nagród zysku czwartym kwartale roku poprzedniego, którym 8, ustala się wysokości przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród zysku czwartym kwartale 2009 r. 2. W 2011 r. indywidualne wynagrodzenie miesięczne osób wymienionych 2 przysługuje wysokości ustalonej 2010 r.
 
-**Art. 29c.** Przeciętne miesięczne wynagrodzenie sektorze przedsiębiorstw bez wypłat nagród zysku czwartym kwartale 2009 r. stanowi 2012 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, którym 8. 2. W przypadku członków organów nadzorczych jednostek, których 2 7, jednostkach organizacyjnych wymienionych 8, a szczególności rad nadzorczych komisji rewizyjnych, podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego stanowi 2013 r. przeciętne miesięczne wynagrodzenie sektorze przedsiębiorstw bez wypłat nagród zysku czwartym kwartale 2011 r.
+**Art. 29c.** Przeciętne miesięczne wynagrodzenie sektorze przedsiębiorstw bez wypłat nagród zysku czwartym kwartale 2009 r. stanowi 2012 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, którym 8. kwartale 2009 r. stanowi 2013 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, którym 8, zastrzeżeniem ust. 2. 2. W przypadku członków organów nadzorczych jednostek, których 2 7, jednostkach organizacyjnych wymienionych 8, a szczególności rad nadzorczych komisji rewizyjnych, podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego stanowi 2013 r. przeciętne miesięczne wynagrodzenie sektorze przedsiębiorstw bez wypłat nagród zysku czwartym kwartale 2011 r.
 
 **Art. 29e.** Przeciętne miesięczne wynagrodzenie sektorze przedsiębiorstw bez wypłat nagród zysku czwartym kwartale 2009 r. stanowi 2014 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, którym 8, zastrzeżeniem ust. 2. 2. W przypadku członków organów nadzorczych jednostek, których 2 7, jednostkach organizacyjnych wymienionych 8, a szczególności rad nadzorczych komisji rewizyjnych, podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego stanowi 2014 r. przeciętne miesięczne wynagrodzenie sektorze przedsiębiorstw bez wypłat nagród zysku czwartym kwartale 2011 r.
 

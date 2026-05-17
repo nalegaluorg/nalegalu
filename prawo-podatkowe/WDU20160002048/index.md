@@ -8,9 +8,12 @@ pos: 2048
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 grudnia 2016 r.
+# o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz ustawy o podatku dochodowym od osób fizycznych
+
+*USTAWA z dnia 21 października 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +27,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2048/text.pdf) |
 
-USTAWA dnia 21 października 2016 r.
-zmianie ustawy Agencji Restrukturyzacji Modernizacji Rolnictwa oraz ustawy podatku dochodowym od osób fizycznych
+**Art. 1.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2016 r. poz. 1512) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 9 maja 2008 r. Agencji Restrukturyzacji Modernizacji Rolnictwa (Dz. U. 2016 r. poz. 1512) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032) art. 21 ust. 1 po pkt 47d dodaje się pkt 47e brzmieniu: „47e) kwoty umorzonych wierzytelności, o których mowa art. 24 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2016 r. poz. 1512 i 2048);”.
 
-**Art. 2.** W ustawie dnia 26 lipca 1991 r. podatku dochodowym od osób fizycznych (Dz. U. 2016 r. poz. 2032) art. 21 1 po pkt 47d dodaje się pkt 47e brzmieniu: „47e) kwoty umorzonych wierzytelności, art. 24 ustawy dnia 9 maja 2008 r. Agencji Restrukturyzacji Modernizacji Rolnictwa (Dz. U. 2016 r. poz. 1512 2048);”.
+**Art. 3.** Do postępowań sprawach wszczętych na podstawie przepisów ustawy zmienianej art. 1 i niezakończonych dnia wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Do postępowań sprawach wszczętych podstawie przepisów ustawy zmienianej art. 1 niezakończonych do dnia wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
-
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

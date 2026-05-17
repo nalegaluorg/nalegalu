@@ -8,9 +8,12 @@ pos: 1135
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lipca 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach samorządowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 lipca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1135/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 lipca 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach samorządowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2022 r. poz. 530), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 lipca 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 4 i art. 5 ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721), które stanowią: „Art. 4. 1. Osoba wyznaczona przez Prezesa Rady Ministrów do pełnienia funkcji wójta (burmistrza, prezydenta miasta) przed dniem wejścia życie niniejszej ustawy, pełni tę funkcję do czasu objęcia obowiązków przez nowo wybranego wójta (burmistrza, prezydenta miasta).
 2. Do osób, o których mowa art. 4 ust. 3 ustawy zmienianej art. 2, wyznaczonych lub powołanych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy art. 4 ust. 3 i 4 ustawy zmienianej art. 2.
@@ -181,7 +182,7 @@ powinowactwa pierwszego stopnia oraz stosunku przysposobienia, opieki lub kurate
 3. Pracownik samorządowy, o którym mowa ust. 1, jest obowiązany złożyć kierownikowi jednostki, której jest zatrudniony, oświadczenie o prowadzeniu działalności gospodarczej, terminie 30 dni od dnia podjęcia działalności gospodarczej lub zmiany jej charakteru.
 4. W przypadku niezłożenia terminie oświadczenia o prowadzeniu działalności gospodarczej na pracownika samorządowego, o którym mowa ust. 1, jest nakładana kara upomnienia albo nagany. Przepisy art. 109 § 2 i art. 110–113 Kodeksu pracy stosuje się odpowiednio.
 5. Podanie nieprawdy lub zatajenie prawdy oświadczeniu o prowadzeniu działalności gospodarczej powoduje odpowiedzialność na podstawie art. 233 § 1 Kodeksu karnego.
-samorządowy zatrudniony na stanowisku urzędniczym, tym na kierowniczym stanowisku urzędniczym, jest obowiązany złożyć oświadczenie o stanie majątkowym.
+złożyć oświadczenie o stanie majątkowym.
 2. Analizy danych zawartych oświadczeniu dokonuje kierownik jednostki, której pracownik samorządowy jest zatrudniony.
 3. Pracownik samorządowy, o którym mowa ust. 1, składa oświadczenie o stanie majątkowym według wzoru oświadczenia majątkowego określonego na podstawie ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 609 i 721) dla wójta, zastępcy wójta, sekretarza gminy, skarbnika gminy, kierownika jednostki organizacyjnej gminy, osoby zarządzającej i członka organu zarządzającego gminną osobą prawną oraz osoby wydającej decyzje administracyjne imieniu wójta.
 33. (uchylony)
@@ -268,7 +269,7 @@ dzielnicy m.st. Warszawy i pozostałym członkom zarządu dzielnicy m.st. Warsza
 3) ciężkiego naruszenia podstawowych obowiązków pracowniczych.
 6. Stosunek pracy z pracownikiem samorządowym mianowanym ulega z mocy prawa rozwiązaniu bez wypowiedzenia przypadku utraty obywatelstwa polskiego.
 7. Rozwiązanie stosunku pracy z pracownikiem samorządowym mianowanym bez wypowiedzenia z winy pracownika nie może nastąpić po upływie miesiąca od dnia uzyskania wiadomości o okoliczności uzasadniającej rozwiązanie stosunku pracy.
-razie jego nieobecności pracy z powodu choroby trwającej dłużej niż rok, a także razie usprawiedliwionej nieobecności pracy z innych przyczyn po upływie okresów przewidzianych art. 53 § 1 Kodeksu pracy.
+obecności pracy z innych przyczyn po upływie okresów przewidzianych art. 53 § 1 Kodeksu pracy.
 9. W przypadku niezdolności do pracy z powodu choroby, o której mowa ust. 8, pracownik samorządowy mianowany zachowuje prawo do świadczeń pieniężnych przez okres przewidziany przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby i macierzyństwa.
 10. Pracownik samorządowy mianowany może rozwiązać stosunek pracy z zachowaniem trzymiesięcznego okresu wypowiedzenia. W okresie wypowiedzenia pracownik samorządowy mianowany może być zwolniony z pełnienia obowiązków, z zachowaniem prawa do wynagrodzenia.
 11. Stosunek pracy z pracownikiem samorządowym mianowanym może ulec rozwiązaniu drodze porozumienia stron.

@@ -8,9 +8,12 @@ pos: 581
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 kwietnia 2024 r.
+# o prawach pacjenta i Rzeczniku Praw Pacjenta
+
+*USTAWA z dnia 6 listopada 2008 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +27,14 @@ domain: null
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000581) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/581/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 kwietnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw (Dz. U. poz. 1675),
-2) ustawą z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692),
-3) ustawą z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 marca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 6–9 i art. 11 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw (Dz. U. poz. 1675), które stanowią: „Art. 6. 1. Tworzy się Fundusz Kompensacyjny Zdarzeń Medycznych, o którym mowa w art. 67zi ust. 1 ustawy zmienianej w art. 1.
-2. Pierwszy odpis, o którym mowa w art. 97 ust. 3i ustawy zmienianej w art. 3, jest przekazywany na rachunek bankowy Funduszu Kompensacyjnego Zdarzeń Medycznych w połowie wysokości wynikającej z tego przepisu w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
-3. Rzecznik Praw Pacjenta we współpracy z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych, ustali w terminie miesiąca od dnia wejścia w życie niniejszej ustawy pierwszy plan finansowy Funduszu Kompensacyjnego Zdarzeń Medycznych, o którym mowa w art. 67zi ust. 5 ustawy zmienianej w art. 1, obejmujący okres od 1. dnia miesiąca następującego po dniu wejścia w życie niniejszej ustawy do dnia 31 grudnia 2023 r.
-4. Pierwsze sprawozdanie, o którym mowa w art. 67zi ust. 6 ustawy zmienianej w art. 1, Rzecznik Praw Pacjenta składa do dnia 29 lutego 2024 r. za okres od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2023 r.
 Art. 67ze. 1. Od decyzji Rzecznika, o której mowa w art. 67za ust. 1, wnioskodawcy przysługuje odwołanie do Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, zwanej dalej „Komisją”, działającej przy Rzeczniku.
 2. Wniesienie odwołania podlega opłacie w wysokości 200 zł. Opłatę uiszcza się na rachunek bankowy Funduszu Kompensacyjnego Zdarzeń Medycznych.
 3. Do opłaty, o której mowa w ust. 2, stosuje się odpowiednio przepisy art. 67t ust. 6 i 7.
 4. W przypadku gdy odwołanie nie zostało należycie opłacone, Rzecznik wzywa wnioskodawcę do usunięcia tego braku w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że jego nieusunięcie spowoduje pozostawienie odwołania bez rozpoznania.
 5. W przypadku uchylenia decyzji na skutek wniesionego odwołania opłata, o której mowa w ust. 2, podlega zwrotowi na rachunek bankowy albo rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, albo adres, na który ma być dokonany przekaz pocztowy, wskazane we wniosku.
 Art. 67zf. 1. Obsługę administracyjną Komisji zapewnia Rzecznik.
-2. Orzeczenia Komisji zapadają na posiedzeniu niejawnym większością głosów. W przypadku równej liczby głosów decyduje głos przewodniczącego. Członek Komisji nie może wstrzymać się od głosu.
+2. Orzeczenia Komisji zapadają na posiedzeniu niejawnym większością głosów.
+W przypadku równej liczby głosów decyduje głos przewodniczącego. Członek Komisji nie może wstrzymać się od głosu.
 3. Komisja przetwarza dokumentację gromadzoną w związku z rozpatrzeniem odwołania w zakresie koniecznym do sporządzenia orzeczenia.
 Art. 67zg. 1. W skład Komisji wchodzi 9 członków posiadających wiedzę i doświadczenie dające rękojmię prawidłowego sprawowania tej funkcji, w tym:
 1) 2 członków wskazanych przez ministra właściwego do spraw zdrowia;
@@ -60,7 +53,7 @@ Art. 67zg. 1. W skład Komisji wchodzi 9 członków posiadających wiedzę i do�
 3) korzysta z pełni praw publicznych.
 6. Kandydat na członka Komisji składa ministrowi właściwemu do spraw zdrowia pisemne oświadczenie, pod rygorem odpowiedzialności karnej, że nie został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 7. Członek Komisji jest obowiązany do niezwłocznego poinformowania ministra właściwego do spraw zdrowia oraz Rzecznika o zaistnieniu okoliczności powodujących utratę wymagań koniecznych do pełnienia funkcji członka Komisji oraz powstaniu przeszkód uniemożliwiających wykonywanie zadań członka Komisji.
-8. Członkowi Komisji przysługuje wynagrodzenie za udział w posiedzeniu w wysokości nieprzekraczającej 20 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku ubiegłego, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie więcej jednak niż 120 % tego wynagrodzenia miesięcznie, a także zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+8. Członkowi Komisji przysługuje wynagrodzenie za udział w posiedzeniu w wysokości nieprzekraczającej 20 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku ubiegłego, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie więcej jednak niż 120 % tego wynagrodzenia miesięcznie, a także zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość wynagrodzenia członków Komisji, uwzględniając zakres jej zadań.
 10. Pracami Komisji kieruje przewodniczący przy pomocy wiceprzewodniczącego. Przewodniczący i wiceprzewodniczący są wybierani spośród członków Komisji na pierwszym posiedzeniu bezwzględną większością głosów w obecności co najmniej 2/3 jej członków w głosowaniu tajnym.
 11. Minister właściwy do spraw zdrowia odwołuje członka Komisji przed upływem kadencji w przypadku:
@@ -71,12 +64,13 @@ Art. 67zg. 1. W skład Komisji wchodzi 9 członków posiadających wiedzę i do�
 5) uchylania się od wykonywania obowiązków członka Komisji albo ich nieprawidłowego wykonywania;
 6) złożenia rezygnacji.
 12. Tryb pracy Komisji określa regulamin uchwalany przez Komisję.
-Art. 67zh. 1. Członek Komisji podlega wyłączeniu na zasadach i w trybie określonych w art. 24 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. Członek Komisji niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
+Art. 67zh. 1. Członek Komisji podlega wyłączeniu na zasadach i w trybie określonych w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Członek Komisji niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
 2. Członek Komisji jest obowiązany do zachowania w tajemnicy uzyskanych w toku postępowania informacji dotyczących wnioskodawcy, a także zmarłego pacjenta, w tym również po ustaniu członkostwa w Komisji.
 Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Funduszem”, jest państwowym funduszem celowym tworzonym w celu wypłacania świadczeń kompensacyjnych w przypadku wystąpienia zdarzeń medycznych.
 2. Dysponentem Funduszu jest Rzecznik.
 3. Przychody Funduszu pochodzą z:
-1) odpisu, o którym mowa w art. 97 ust. 3i ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+1) odpisu, o którym mowa w art. 97 ust. 3i ustawy z dnia 27 sierpnia 2004 r.
+o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 2) opłat, o których mowa w art. 67t ust. 4 i art. 67ze ust. 2;
 3) odsetek od zgromadzonych środków;
 4) zwiększenia odpisu, o którym mowa w art. 97 ust. 3j ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
@@ -90,51 +84,6 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 5. Roczny plan finansowy Funduszu, w terminie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej, opracowuje Rzecznik we współpracy z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych.
 6. Rzecznik sporządza sprawozdanie z wykonania rocznego planu finansowego Funduszu w terminie 2 miesięcy od dnia zakończenia okresu sprawozdawczego.
 
-**Art. 7.**
-
-1. Rzecznik Praw Pacjenta powoła co najmniej 20 członków Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, o którym mowa w art. 67x ust. 1 ustawy zmienianej w art. 1, w terminie 2 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-2. Minister właściwy do spraw zdrowia powoła członków pierwszej kadencji Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, o której mowa w art. 67ze ust. 1 ustawy zmienianej w art. 1, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 8.**
-
-1. Z dniem 1 lipca 2024 r. likwiduje się wojewódzkie komisje do spraw orzekania o zdarzeniach medycznych, o których mowa w art. 67e ust. 1 ustawy zmienianej w art. 1, zwane dalej „komisjami”.
-
-2. Kadencja komisji, o której mowa w art. 67e ust. 7 ustawy zmienianej w art. 1, która upływa w 2023 r., ulega przedłużeniu do czasu likwidacji tych komisji.
-
-3. Wniosek o ustalenie zdarzenia medycznego, o którym mowa w art. 67c ust. 1 ustawy zmienianej w art. 1, dotyczący zdarzenia medycznego mającego miejsce przed dniem wejścia w życie niniejszej ustawy może być złożony do komisji na zasadach dotychczasowych, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-4. Postępowania, o których mowa w art. 67i ust. 1 ustawy zmienianej w art. 1, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, a także w sprawie wniosku, o którym mowa w ust. 3, są prowadzone przez komisje na zasadach dotychczasowych, z wyłączeniem art. 67b ust. 2 pkt 1 ustawy zmienianej w art. 1.
-
-5. Komisje niezwłocznie podejmują postępowania, o których mowa w art. 67i ust. 1 ustawy zmienianej w art. 1, zawieszone na podstawie art. 67b ust. 2 pkt 1 tej ustawy.
-
-6. Orzeczenie, o którym mowa w art. 67j ust. 1 ustawy zmienianej w art. 1, w postępowaniu w sprawie wniosku, o którym mowa w ust. 3, jest wydawane nie później niż w terminie 2 miesięcy od dnia złożenia wniosku.
-
-7. Orzeczenie, o którym mowa w art. 67j ust. 1 ustawy zmienianej w art. 1, w postępowaniach, o których mowa w art. 67i ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, jest wydawane nie później niż w terminie 2 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-8. Postępowania przed komisjami, o których mowa w ust. 6 i 7, niezakończone do dnia 30 czerwca 2024 r., przejmuje do prowadzenia Rzecznik Praw Pacjenta.
-
-9. Do spraw, o których mowa w ust. 8, stosuje się odpowiednio przepisy art. 67a, art. 67b ust. 1 i ust. 2 pkt 2, art. 67c, art. 67d, art. 67f, art. 69g i art. 67i–67o ustawy zmienianej w art. 1. Skład orzekający jest wyznaczany przez Rzecznika Praw Pacjenta spośród pracowników Biura Rzecznika Praw Pacjenta oraz członków Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, o którym mowa w art. 67x ust. 1 ustawy zmienianej w art. 1, przy czym 2 członków składu orzekającego spełnia wymagania, o których mowa w art. 67e ust. 3 pkt 1 ustawy zmienianej w art. 1, a 2 członków składu orzekającego spełnia wymagania, o których mowa w art. 67e ust. 3 pkt 2 ustawy zmienianej w art. 1.
-
-**Art. 9.**
-
-1. Świadczenie kompensacyjne, o którym mowa w art. 67r ust. 1 ustawy zmienianej w art. 1, przyznaje się w odniesieniu do zdarzenia medycznego w rozumieniu art. 3 ust. 1 pkt 11 ustawy zmienianej w art. 1 zaistniałego po dniu wejścia w życie niniejszej ustawy.
-
-2. Wniosek o przyznanie świadczenia kompensacyjnego, o którym mowa w art. 67t ust. 1 ustawy zmienianej w art. 1, może również zostać wniesiony wtedy, gdy zdarzenie medyczne w rozumieniu art. 3 ust. 1 pkt 11 ustawy zmienianej w art. 1 miało miejsce przed dniem wejścia w życie niniejszej ustawy, jeżeli wnioskodawca dowiedział się o zakażeniu biologicznym czynnikiem chorobotwórczym, uszkodzeniu ciała lub rozstroju zdrowia albo o śmierci pacjenta po dniu wejścia w życie niniejszej ustawy.
-
-3. Do postępowania w sprawie wniosku, o którym mowa w ust. 2, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.” „Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-
-- **2)** art. 67 ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692), który stanowi: „Art. 67. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-- **1)** art. 26 ust. 1–3 i 5, art. 28–41, art. 44–53, art. 55, art. 56 i art. 66, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-- **2)** art. 22 ust. 6, który wchodzi w życie z dniem 1 stycznia 2025 r.;
-- **3)** art. 26 ust. 4 i 6 oraz art. 27, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia.”;
-- **3)** art. 108 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972), który stanowi: „Art. 108. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
-- **1)** art. 90, art. 93, art. 104 i art. 105, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 22 czerwca 2023 r.;
-- **2)** art. 89, art. 95 i art. 103, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **3)** art. 92 pkt 3, pkt 5 lit. a i c oraz pkt 6 i art. 96, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-- **4)** art. 87 i art. 106, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-- **5)** art. 92 pkt 1, pkt 2 lit. a, pkt 4 oraz pkt 5 lit. b, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
@@ -145,20 +94,20 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** opiekun faktyczny osobę sprawującą, bez obowiązku ustawowego, stałą opiekę nad pacjentem, który ze względu na wiek, stan zdrowia albo stan psychiczny opieki takiej wymaga;
-- **2)** osoba bliska małżonka, krewnego do drugiego stopnia lub powinowatego do drugiego stopnia w linii prostej, przedstawiciela ustawowego, osobę pozostającą we wspólnym pożyciu lub osobę wskazaną przez pacjenta;
-- **3)** osoba wykonująca zawód medyczny osobę wykonującą zawód medyczny, o której mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991, 1675 i 1972);
-- **4)** pacjent osobę zwracającą się o udzielenie świadczeń zdrowotnych lub korzystającą ze świadczeń zdrowotnych udzielanych przez podmiot udzielający świadczeń zdrowotnych lub osobę wykonującą zawód medyczny;
-- **5)** podmiot udzielający świadczeń zdrowotnych podmiot wykonujący działalność leczniczą, o którym mowa w art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
-- **6)** świadczenie zdrowotne świadczenie zdrowotne, o którym mowa w art. 2 ust. 1 pkt 10 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **1)** opiekun faktyczny – osobę sprawującą, bez obowiązku ustawowego, stałą opiekę nad pacjentem, który ze względu na wiek, stan zdrowia albo stan psychiczny opieki takiej wymaga;
+- **2)** osoba bliska – małżonka, krewnego do drugiego stopnia lub powinowatego do drugiego stopnia w linii prostej, przedstawiciela ustawowego, osobę pozostającą we wspólnym pożyciu lub osobę wskazaną przez pacjenta;
+- **3)** osoba wykonująca zawód medyczny – osobę wykonującą zawód medyczny, o której mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991, 1675 i 1972);
+- **4)** pacjent – osobę zwracającą się o udzielenie świadczeń zdrowotnych lub korzystającą ze świadczeń zdrowotnych udzielanych przez podmiot udzielający świadczeń zdrowotnych lub osobę wykonującą zawód medyczny;
+- **5)** podmiot udzielający świadczeń zdrowotnych – podmiot wykonujący działalność leczniczą, o którym mowa w art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **6)** świadczenie zdrowotne – świadczenie zdrowotne, o którym mowa w art. 2 ust. 1 pkt 10 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
 - **7)** (uchylony)
-- **8)** wyciąg skrótowy dokument zawierający wybrane informacje lub dane z całości dokumentacji medycznej;
-- **9)** odpis dokument wytworzony przez przepisanie tekstu z oryginału dokumentacji medycznej z wiernym zachowaniem zgodności co do treści z oryginałem;
-- **10)** kopia dokument wytworzony przez odwzorowanie oryginału dokumentacji medycznej, w formie kserokopii albo odwzorowania cyfrowego (skanu);
-- **11)** zdarzenie medyczne zaistniałe w trakcie udzielania lub w efekcie udzielenia bądź zaniechania udzielenia świadczenia zdrowotnego:
+- **8)** wyciąg – skrótowy dokument zawierający wybrane informacje lub dane z całości dokumentacji medycznej;
+- **9)** odpis – dokument wytworzony przez przepisanie tekstu z oryginału dokumentacji medycznej z wiernym zachowaniem zgodności co do treści z oryginałem;
+- **10)** kopia – dokument wytworzony przez odwzorowanie oryginału dokumentacji medycznej, w formie kserokopii albo odwzorowania cyfrowego (skanu);
+- **11)** zdarzenie medyczne – zaistniałe w trakcie udzielania lub w efekcie udzielenia bądź zaniechania udzielenia świadczenia zdrowotnego:
     - **a)** zakażenie pacjenta biologicznym czynnikiem chorobotwórczym,
     - **b)** uszkodzenie ciała lub rozstrój zdrowia pacjenta, albo
-    - **c)** śmierć pacjenta którego z wysokim prawdopodobieństwem można było uniknąć w przypadku udzielenia świadczenia zdrowotnego zgodnie z aktualną wiedzą medyczną albo zastosowania innej dostępnej metody diagnostycznej lub leczniczej, chyba że doszło do dających się przewidzieć normalnych następstw zastosowania metody, na którą pacjent wyraził świadomą zgodę.
+    - **c)** śmierć pacjenta – którego z wysokim prawdopodobieństwem można było uniknąć w przypadku udzielenia świadczenia zdrowotnego zgodnie z aktualną wiedzą medyczną albo zastosowania innej dostępnej metody diagnostycznej lub leczniczej, chyba że doszło do dających się przewidzieć normalnych następstw zastosowania metody, na którą pacjent wyraził świadomą zgodę.
 
 2. Ilekroć w ustawie jest mowa o lekarzu, rozumie się przez to także lekarza dentystę oraz felczera w zakresie wynikającym z przepisów o zawodzie felczera.
 
@@ -244,7 +193,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 #### Rozdział 3a Prawo do zgłaszania działań niepożądanych produktów leczniczych
 
-**Art. 12a.** Pacjent lub jego przedstawiciel ustawowy, lub opiekun faktyczny ma prawo zgłaszania osobom wykonującym zawód medyczny, Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działania niepożądanego produktu leczniczego zgodnie z ustawą z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605, 650, 1859 i 1938).
+**Art. 12a.** Pacjent lub jego przedstawiciel ustawowy, lub opiekun faktyczny ma prawo zgłaszania osobom wykonującym zawód medyczny, Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działania niepożądanego produktu leczniczego zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605, 650, 1859 i 1938).
 
 #### Rozdział 4 Prawo pacjenta do tajemnicy informacji z nim związanych
 
@@ -269,9 +218,9 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 5. Przed wyrażeniem sprzeciwu, o którym mowa w ust. 4, pacjent ma prawo do uzyskania informacji o skutkach złożenia sprzeciwu.
 
-6. W przypadku sporu między osobami bliskimi o ujawnienie tajemnicy lub o zakres jej ujawnienia, zgodę na ujawnienie tajemnicy wyraża sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ), w postępowaniu nieprocesowym na wniosek osoby bliskiej lub osoby wykonującej zawód medyczny. Osoba wykonująca zawód medyczny może wystąpić z wnioskiem do sądu także w przypadku uzasadnionych wątpliwości, czy osoba występująca o ujawnienie tajemnicy lub sprzeciwiająca się jej ujawnieniu jest osobą bliską. Sąd, wyrażając zgodę na ujawnienie tajemnicy, może określić zakres jej ujawnienia, o którym mowa w ust. 2b.
+6. W przypadku sporu między osobami bliskimi o ujawnienie tajemnicy lub o zakres jej ujawnienia, zgodę na ujawnienie tajemnicy wyraża sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ), w postępowaniu nieprocesowym na wniosek osoby bliskiej lub osoby wykonującej zawód medyczny. Osoba wykonująca zawód medyczny może wystąpić z wnioskiem do sądu także w przypadku uzasadnionych wątpliwości, czy osoba występująca o ujawnienie tajemnicy lub sprzeciwiająca się jej ujawnieniu jest osobą bliską. Sąd, wyrażając zgodę na ujawnienie tajemnicy, może określić zakres jej ujawnienia, o którym mowa w ust. 2b.
 
-7. W przypadku gdy pacjent za życia sprzeciwił się ujawnieniu tajemnicy, o której mowa w ust. 4, sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, w postępowaniu nieprocesowym na wniosek osoby bliskiej, może wyrazić zgodę na ujawnienie tajemnicy i określić zakres jej ujawnienia, jeżeli jest to niezbędne:
+7. W przypadku gdy pacjent za życia sprzeciwił się ujawnieniu tajemnicy, o której mowa w ust. 4, sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w postępowaniu nieprocesowym na wniosek osoby bliskiej, może wyrazić zgodę na ujawnienie tajemnicy i określić zakres jej ujawnienia, jeżeli jest to niezbędne:
 
 - **1)** w celu dochodzenia odszkodowania lub zadośćuczynienia, z tytułu śmierci pacjenta;
 - **2)** dla ochrony życia lub zdrowia osoby bliskiej.
@@ -309,9 +258,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 3. Przepisy art. 17 ust. 2–4 stosuje się odpowiednio.
 
-**Art. 19.**
-
-- **7)** Zasady przeprowadzenia badania lub udzielenia innych świadczeń zdrowotnych przez lekarza, ratownika medycznego, pielęgniarkę systemu oraz diagnostę laboratoryjnego mimo braku zgody albo wobec zgłoszenia sprzeciwu, o których mowa w art. 17 i art. 18, określają odpowiednio przepisy art. 33 i art. 34 ust. 6 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, art. 57 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. z 2023 r. poz. 2187), art. 12a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705 oraz z 2023 r. poz. 185 i 1234) oraz art. 23 i art. 24 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125).
+**Art. 19.** Zasady przeprowadzenia badania lub udzielenia innych świadczeń zdrowotnych przez lekarza, ratownika medycznego, pielęgniarkę systemu oraz diagnostę laboratoryjnego mimo braku zgody albo wobec zgłoszenia sprzeciwu, o których mowa w art. 17 i art. 18, określają odpowiednio przepisy art. 33 i art. 34 ust. 6 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, art. 57 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. z 2023 r. poz. 2187), art. 12a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705 oraz z 2023 r. poz. 185 i 1234) oraz art. 23 i art. 24 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125).
 
 #### Rozdział 6 Prawo do poszanowania intymności i godności pacjenta
 
@@ -377,8 +324,8 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
     - **b)** datę urodzenia,
     - **c)** oznaczenie płci,
     - **d)** adres miejsca zamieszkania,
-    - **e)** numer PESEL, jeżeli został nadany, w przypadku noworodka numer PESEL matki, a w przypadku osób, które nie mają nadanego numeru PESEL rodzaj i numer dokumentu potwierdzającego tożsamość,
-    - **f)** w przypadku gdy pacjentem jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody nazwisko i imię (imiona) przedstawiciela ustawowego oraz adres jego miejsca zamieszkania;
+    - **e)** numer PESEL, jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku osób, które nie mają nadanego numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość,
+    - **f)** w przypadku gdy pacjentem jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody – nazwisko i imię (imiona) przedstawiciela ustawowego oraz adres jego miejsca zamieszkania;
 
 - **2)** oznaczenie podmiotu udzielającego świadczeń zdrowotnych ze wskazaniem komórki organizacyjnej, w której udzielono świadczeń zdrowotnych;
 - **3)** opis stanu zdrowia pacjenta lub udzielonych mu świadczeń zdrowotnych;
@@ -396,9 +343,9 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 2. Po śmierci pacjenta dokumentacja medyczna jest udostępniana osobie upoważnionej przez pacjenta za życia lub osobie, która w chwili zgonu pacjenta była jego przedstawicielem ustawowym. Dokumentacja medyczna jest udostępniana także osobie bliskiej, chyba że udostępnieniu sprzeciwi się inna osoba bliska lub sprzeciwił się temu pacjent za życia, z zastrzeżeniem ust. 2a i 2b.
 
-2a. W przypadku sporu między osobami bliskimi o udostępnienie dokumentacji medycznej, zgodę na udostępnienie wyraża sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, w postępowaniu nieprocesowym na wniosek osoby bliskiej lub osoby wykonującej zawód medyczny. Osoba wykonująca zawód medyczny może wystąpić z wnioskiem do sądu także w przypadku uzasadnionych wątpliwości, czy osoba występująca o udostępnienie dokumentacji lub sprzeciwiająca się jej udostępnieniu jest osobą bliską.
+2a. W przypadku sporu między osobami bliskimi o udostępnienie dokumentacji medycznej, zgodę na udostępnienie wyraża sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w postępowaniu nieprocesowym na wniosek osoby bliskiej lub osoby wykonującej zawód medyczny. Osoba wykonująca zawód medyczny może wystąpić z wnioskiem do sądu także w przypadku uzasadnionych wątpliwości, czy osoba występująca o udostępnienie dokumentacji lub sprzeciwiająca się jej udostępnieniu jest osobą bliską.
 
-2b. W przypadku gdy pacjent za życia sprzeciwił się udostępnieniu dokumentacji medycznej, o którym mowa w ust. 2, sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, w postępowaniu nieprocesowym na wniosek osoby bliskiej, może wyrazić zgodę na udostępnienie dokumentacji medycznej i określić zakres jej udostępnienia, jeżeli jest to niezbędne:
+2b. W przypadku gdy pacjent za życia sprzeciwił się udostępnieniu dokumentacji medycznej, o którym mowa w ust. 2, sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w postępowaniu nieprocesowym na wniosek osoby bliskiej, może wyrazić zgodę na udostępnienie dokumentacji medycznej i określić zakres jej udostępnienia, jeżeli jest to niezbędne:
 
 - **1)** w celu dochodzenia odszkodowania lub zadośćuczynienia, z tytułu śmierci pacjenta;
 - **2)** dla ochrony życia lub zdrowia osoby bliskiej.
@@ -436,7 +383,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 4. Dokumentacja medyczna może być udostępniona także szkole wyższej lub instytutowi badawczemu do wykorzystania w celach naukowych, bez ujawniania nazwiska i innych danych umożliwiających identyfikację osoby, której dokumentacja dotyczy.
 
-5. Elektroniczna dokumentacja medyczna, o której mowa w art. 2 pkt 6 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, jest udostępniana na zasadach określonych w przepisach tej ustawy, ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne.
+5. Elektroniczna dokumentacja medyczna, o której mowa w art. 2 pkt 6 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, jest udostępniana na zasadach określonych w przepisach tej ustawy, ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 
 **Art. 27.**
 
@@ -463,11 +410,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 **Art. 28.**
 
-1. Za udostępnienie dokumentacji medycznej w sposób określony w art. 27 ust. 1 pkt 2 i 5 oraz w ust. 3 podmiot udzielający świadczeń zdrowotnych może pobierać opłatę.
-
-2. Przepis ust. 1 nie narusza uprawnień organów rentowych określonych w art. 77 ust. 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230, 1429, 1672 i 1941) i art. 121 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672).
-
-2a. Opłaty, o której mowa w ust. 1, nie pobiera się w przypadku udostępnienia dokumentacji medycznej:
+1. Za udostępnienie dokumentacji medycznej w sposób określony w art. 27 ust. 1 pkt 2 i 5 oraz w ust. 3 podmiot udzielający świadczeń zdrowotnych może pobierać opłatę. [2. Przepis ust. 1 nie narusza uprawnień organów rentowych określonych w art. 77 ust. 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230, 1429, 1672 i 1941) i art. 121 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672).] <2. Przepis ust. 1 nie narusza uprawnień Zakładu Ubezpieczeń Społecznych określonych w art. 85i ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ) i art. 121 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26).> 2a. Opłaty, o której mowa w ust. 1, nie pobiera się w przypadku udostępnienia dokumentacji medycznej:
 
 - **1)** pacjentowi albo jego przedstawicielowi ustawowemu po raz pierwszy w żądanym zakresie i w sposób, o którym mowa w art. 27 ust. 1 pkt 2 i 5 oraz ust. 3;
 - **1a)** w związku z postępowaniem, o którym mowa w art. 17d ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, prowadzonym przez Rzecznika Praw Pacjenta;
@@ -481,9 +424,9 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 4. Maksymalna wysokość opłaty za:
 
-- **1)** jedną stronę wyciągu albo odpisu dokumentacji medycznej nie może przekraczać 0,002,
-- **2)** jedną stronę kopii albo wydruku dokumentacji medycznej nie może przekraczać 0,00007,
-- **3)** udostępnienie dokumentacji medycznej na informatycznym nośniku danych nie może przekraczać 0,0004 przeciętnego wynagrodzenia w poprzednim kwartale, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, począwszy od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiło ogłoszenie.
+- **1)** jedną stronę wyciągu albo odpisu dokumentacji medycznej – nie może przekraczać 0,002,
+- **2)** jedną stronę kopii albo wydruku dokumentacji medycznej – nie może przekraczać 0,00007,
+- **3)** udostępnienie dokumentacji medycznej na informatycznym nośniku danych – nie może przekraczać 0,0004 – przeciętnego wynagrodzenia w poprzednim kwartale, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, począwszy od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiło ogłoszenie.
 
 5. Wysokość opłaty, o której mowa w ust. 4, uwzględnia podatek od towarów i usług, jeżeli na podstawie odrębnych przepisów usługa jest opodatkowana tym podatkiem.
 
@@ -496,7 +439,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 - **2)** zdjęć rentgenowskich przechowywanych poza dokumentacją medyczną pacjenta, które są przechowywane przez okres 10 lat, licząc od końca roku kalendarzowego, w którym wykonano zdjęcie;
 - **3)** skierowań na badania lub zleceń lekarza, które są przechowywane przez okres:
     - **a)** 5 lat, licząc od końca roku kalendarzowego, w którym udzielono świadczenia zdrowotnego będącego przedmiotem skierowania lub zlecenia lekarza,
-    - **b)** 2 lat, licząc od końca roku kalendarzowego, w którym wystawiono skierowanie w przypadku gdy świadczenie zdrowotne nie zostało udzielone z powodu niezgłoszenia się pacjenta w ustalonym terminie, chyba że pacjent odebrał skierowanie;
+    - **b)** 2 lat, licząc od końca roku kalendarzowego, w którym wystawiono skierowanie – w przypadku gdy świadczenie zdrowotne nie zostało udzielone z powodu niezgłoszenia się pacjenta w ustalonym terminie, chyba że pacjent odebrał skierowanie;
 
 - **4)** dokumentacji medycznej dotyczącej dzieci do ukończenia 2. roku życia, która jest przechowywana przez okres 22 lat.
 
@@ -518,9 +461,9 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 3. W przypadku braku podmiotu, o którym mowa w ust. 2, za przechowywanie i udostępnianie dokumentacji medycznej po zaprzestaniu udzielania świadczeń zdrowotnych odpowiada:
 
-- **1)** podmiot tworzący albo sprawujący nadzór w przypadku podmiotu leczniczego niebędącego przedsiębiorcą w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej albo instytutu badawczego, o którym mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych;
-- **2)** podmiot udzielający świadczeń zdrowotnych, z którym podmiot zaprzestający wykonywania działalności leczniczej zawarł umowę o przechowywanie dokumentacji medycznej w przypadku podmiotu leczniczego innego niż określony w pkt 1 oraz praktyki zawodowej w rozumieniu art. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
-- **3)** właściwa okręgowa izba lekarska albo okręgowa izba pielęgniarek i położnych albo Krajowa Izba Fizjoterapeutów albo Krajowa Rada Diagnostów Laboratoryjnych w przypadku śmierci odpowiednio lekarza albo pielęgniarki lub położnej albo fizjoterapeuty albo diagnosty laboratoryjnego wykonujących zawód w formie praktyki zawodowej w rozumieniu art. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
+- **1)** podmiot tworzący albo sprawujący nadzór – w przypadku podmiotu leczniczego niebędącego przedsiębiorcą w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej albo instytutu badawczego, o którym mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych;
+- **2)** podmiot udzielający świadczeń zdrowotnych, z którym podmiot zaprzestający wykonywania działalności leczniczej zawarł umowę o przechowywanie dokumentacji medycznej – w przypadku podmiotu leczniczego innego niż określony w pkt 1 oraz praktyki zawodowej w rozumieniu art. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **3)** właściwa okręgowa izba lekarska albo okręgowa izba pielęgniarek i położnych albo Krajowa Izba Fizjoterapeutów albo Krajowa Rada Diagnostów Laboratoryjnych – w przypadku śmierci odpowiednio lekarza albo pielęgniarki lub położnej albo fizjoterapeuty albo diagnosty laboratoryjnego wykonujących zawód w formie praktyki zawodowej w rozumieniu art. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 
 4. W przypadkach, o których mowa w art. 108 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, organ prowadzący rejestr podmiotów wykonujących działalność leczniczą wzywa podmiot udzielający świadczeń zdrowotnych podlegający wykreśleniu do wskazania, w wyznaczonym terminie, nazwy (firmy) i adresu podmiotu, z którym zawarł umowę o przechowywanie dokumentacji medycznej.
 
@@ -756,7 +699,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 - **9c)** prowadzenie szkoleń dla pełnomocników do spraw praw pacjenta;
 - **10)** analiza skarg pacjentów w celu określenia zagrożeń i obszarów w systemie ochrony zdrowia wymagających naprawy;
 - **10a)** wykonywanie zadań określonych w przepisach art. 17b ust. 2, 7 i 8, art. 17c ust. 5, art. 17d–17g i art. 17i ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi;
-- **10b)** prowadzenie wykazu stowarzyszeń posiadających wpis do Krajowego Rejestru Sądowego zgodnie z ustawą z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261) oraz fundacji, o których mowa w ustawie z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2023 r. poz. 166), do których celów statutowych należy ochrona praw pacjenta, zwanego dalej „wykazem organizacji pacjentów”;
+- **10b)** prowadzenie wykazu stowarzyszeń posiadających wpis do Krajowego Rejestru Sądowego zgodnie z ustawą z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261) oraz fundacji, o których mowa w ustawie z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2023 r. poz. 166), do których celów statutowych należy ochrona praw pacjenta, zwanego dalej „wykazem organizacji pacjentów”;
 - **11)** wykonywanie innych zadań określonych w przepisach prawa lub zleconych przez Prezesa Rady Ministrów.
 
 1a. Zadanie, o którym mowa w ust. 1 pkt 3a, Rzecznik realizuje w szczególności przy pomocy Rzeczników Praw Pacjenta Szpitala Psychiatrycznego, których zadania i zakres działania określa ustawa z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego.
@@ -881,7 +824,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 1. Przez praktykę naruszającą zbiorowe prawa pacjentów rozumie się:
 
 - **1)** bezprawne zorganizowane działania lub zaniechania podmiotów udzielających świadczeń zdrowotnych,
-- **2)** stwierdzone prawomocnym orzeczeniem sądu zorganizowanie wbrew przepisom o rozwiązywaniu sporów zbiorowych akcji protestacyjnej lub strajku przez organizatora strajku mające na celu pozbawienie pacjentów praw lub ograniczenie tych praw, w szczególności podejmowane celem osiągnięcia korzyści majątkowej. Nie jest zbiorowym prawem pacjentów suma praw indywidualnych.
+- **2)** stwierdzone prawomocnym orzeczeniem sądu zorganizowanie wbrew przepisom o rozwiązywaniu sporów zbiorowych akcji protestacyjnej lub strajku przez organizatora strajku – mające na celu pozbawienie pacjentów praw lub ograniczenie tych praw, w szczególności podejmowane celem osiągnięcia korzyści majątkowej. Nie jest zbiorowym prawem pacjentów suma praw indywidualnych.
 
 2. Zakazane jest stosowanie praktyk naruszających zbiorowe prawa pacjentów.
 
@@ -900,7 +843,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 - **3)** wskazanie terminu udzielenia informacji;
 - **4)** pouczenie o sankcjach za nieudzielenie informacji lub za udzielenie informacji nieprawdziwych lub wprowadzających w błąd.
 
-3. Każdy ma prawo składania na piśmie z własnej inicjatywy lub na prośbę Rzecznika wyjaśnień odnoszących się do istotnych okoliczności sprawy dotyczącej naruszenia praw pacjentów.
+3. Każdy ma prawo składania na piśmie – z własnej inicjatywy lub na prośbę Rzecznika – wyjaśnień odnoszących się do istotnych okoliczności sprawy dotyczącej naruszenia praw pacjentów.
 
 **Art. 62.** Rzecznik wydaje postanowienie o wszczęciu postępowania w sprawie stosowania praktyk naruszających zbiorowe prawa pacjentów i zawiadamia o tym strony.
 
@@ -932,7 +875,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 **Art. 67.** Nie wszczyna się postępowania w sprawie stosowania praktyk naruszających zbiorowe prawa pacjentów, jeżeli od końca roku, w którym zaprzestano ich stosowania, upłynął rok.
 
-#### Rozdział 13a (uchylony)
+#### Rozdział 13a
 
 #### Rozdział 13b Kompensacja szkód wynikających ze zdarzeń medycznych
 
@@ -950,9 +893,9 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 1. Wysokość świadczenia kompensacyjnego z tytułu jednego zdarzenia medycznego w odniesieniu do jednego wnioskodawcy wynosi w przypadku:
 
-- **1)** zakażenia biologicznym czynnikiem chorobotwórczym od 2000 zł do 200 000 zł;
-- **2)** uszkodzenia ciała lub rozstroju zdrowia od 2000 zł do 200 000 zł;
-- **3)** śmierci pacjenta od 20 000 zł do 100 000 zł.
+- **1)** zakażenia biologicznym czynnikiem chorobotwórczym – od 2000 zł do 200 000 zł;
+- **2)** uszkodzenia ciała lub rozstroju zdrowia – od 2000 zł do 200 000 zł;
+- **3)** śmierci pacjenta – od 20 000 zł do 100 000 zł.
 
 2. Wysokość świadczenia kompensacyjnego podlega co roku waloryzacji w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych za okres poprzedniego roku obliczonemu na podstawie średniorocznego wskaźnika cen towarów i usług konsumpcyjnych, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 94 ust. 1 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z zaokrągleniem do pełnych złotych w górę.
 
@@ -960,9 +903,9 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 4. Przy ustalaniu wysokości świadczenia kompensacyjnego uwzględnia się w przypadku:
 
-- **1)** zakażenia biologicznym czynnikiem chorobotwórczym charakter następstw zdrowotnych oraz stopień dolegliwości wynikających z zakażenia biologicznym czynnikiem chorobotwórczym, w tym w zakresie uciążliwości leczenia, uszczerbku na zdrowiu oraz pogorszenia jakości życia;
-- **2)** uszkodzenia ciała lub rozstroju zdrowia charakter następstw zdrowotnych oraz stopień dolegliwości wynikających ze zdarzenia medycznego, w tym w zakresie uciążliwości leczenia, uszczerbku na zdrowiu oraz pogorszenia jakości życia;
-- **3)** śmierci pacjenta pozostawanie w związku małżeńskim w chwili śmierci pacjenta, pokrewieństwo, pozostawanie w stosunku przysposobienia, pozostawanie we wspólnym pożyciu oraz wiek osoby, o której mowa w art. 67r ust. 2, i wiek zmarłego pacjenta.
+- **1)** zakażenia biologicznym czynnikiem chorobotwórczym – charakter następstw zdrowotnych oraz stopień dolegliwości wynikających z zakażenia biologicznym czynnikiem chorobotwórczym, w tym w zakresie uciążliwości leczenia, uszczerbku na zdrowiu oraz pogorszenia jakości życia;
+- **2)** uszkodzenia ciała lub rozstroju zdrowia – charakter następstw zdrowotnych oraz stopień dolegliwości wynikających ze zdarzenia medycznego, w tym w zakresie uciążliwości leczenia, uszczerbku na zdrowiu oraz pogorszenia jakości życia;
+- **3)** śmierci pacjenta – pozostawanie w związku małżeńskim w chwili śmierci pacjenta, pokrewieństwo, pozostawanie w stosunku przysposobienia, pozostawanie we wspólnym pożyciu oraz wiek osoby, o której mowa w art. 67r ust. 2, i wiek zmarłego pacjenta.
 
 5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Rzecznika, określi, w drodze rozporządzenia, sposób ustalania wysokości świadczenia kompensacyjnego z tytułu zakażenia biologicznym czynnikiem chorobotwórczym, uszkodzenia ciała lub rozstroju zdrowia albo śmierci pacjenta, kierując się koniecznością przejrzystości w ustalaniu wysokości świadczenia kompensacyjnego oraz zapewnienia ochrony interesów wnioskodawców.
 
@@ -972,7 +915,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 1. Wniosek o przyznanie świadczenia kompensacyjnego, zwany dalej „wnioskiem”, składa się do Rzecznika.
 
-2. Osobami uprawnionymi do złożenia wniosku są pacjent, a w przypadku śmierci pacjenta osoby, o których mowa w art. 67r ust. 2, zwani dalej „wnioskodawcą”.
+2. Osobami uprawnionymi do złożenia wniosku są pacjent, a w przypadku śmierci pacjenta – osoby, o których mowa w art. 67r ust. 2, zwani dalej „wnioskodawcą”.
 
 3. Wniosek może być złożony w terminie roku od dnia, w którym wnioskodawca dowiedział się o zakażeniu biologicznym czynnikiem chorobotwórczym, uszkodzeniu ciała lub rozstroju zdrowia albo śmierci pacjenta, jednakże termin ten nie może być dłuższy niż 3 lata od dnia, w którym nastąpiło zdarzenie skutkujące zakażeniem biologicznym czynnikiem chorobotwórczym, uszkodzeniem ciała lub rozstrojem zdrowia albo śmiercią pacjenta.
 
@@ -990,7 +933,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 - **1)** dane wnioskodawcy:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a w przypadku gdy wnioskodawcy nie nadano tego numeru rodzaj i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
+    - **b)** numer PESEL, a w przypadku gdy wnioskodawcy nie nadano tego numeru – rodzaj i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
 
 - **2)** imię i nazwisko przedstawiciela ustawowego, jeżeli dotyczy;
 - **3)** adres korespondencyjny;
@@ -1045,11 +988,11 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 6. Kandydat na członka Zespołu składa Rzecznikowi pisemne oświadczenie, pod rygorem odpowiedzialności karnej, że nie został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-7. Członek Zespołu podlega wyłączeniu na zasadach i w trybie określonych w art. 24 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803). Członek Zespołu niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
+7. Członek Zespołu podlega wyłączeniu na zasadach i w trybie określonych w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803). Członek Zespołu niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
 
 8. Członek Zespołu jest obowiązany do niezwłocznego poinformowania Rzecznika o zaistnieniu okoliczności powodujących utratę wymagań koniecznych do pełnienia funkcji członka Zespołu oraz powstaniu przeszkód uniemożliwiających wykonywanie zadań członka Zespołu.
 
-9. Członkowi Zespołu przysługuje wynagrodzenie za udział w sporządzeniu opinii, o której mowa w ust. 1, w wysokości nieprzekraczającej 15 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku ubiegłego, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie więcej jednak niż 120 % tego przeciętnego wynagrodzenia miesięcznie, a także zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+9. Członkowi Zespołu przysługuje wynagrodzenie za udział w sporządzeniu opinii, o której mowa w ust. 1, w wysokości nieprzekraczającej 15 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku ubiegłego, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie więcej jednak niż 120 % tego przeciętnego wynagrodzenia miesięcznie, a także zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
 
 10. Rzecznik odwołuje członka Zespołu w przypadku:
 
@@ -1066,7 +1009,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 - **1)** regulamin Zespołu określający jego szczegółowy tryb pracy oraz organizację,
 - **2)** szczegółowe zadania sekretarza Zespołu,
-- **3)** wysokość wynagrodzenia członków Zespołu mając na uwadze sprawność i terminowość działania Zespołu.
+- **3)** wysokość wynagrodzenia członków Zespołu – mając na uwadze sprawność i terminowość działania Zespołu.
 
 **Art. 67y.**
 
@@ -1105,9 +1048,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 **Art. 68.** Rzecznik nakłada na podmiot udzielający świadczeń zdrowotnych albo organizatora strajku, w drodze decyzji, karę pieniężną do wysokości 500 000 złotych w przypadku niepodjęcia działań określonych w decyzji, o której mowa w art. 64 ust. 1, w terminie w niej wskazanym.
 
-**Art. 69.**
-
-- **22)** W przypadku nieprzekazania na żądanie Rzecznika dokumentów oraz informacji, o których mowa w art. 61 lub art. 67z ust. 1 pkt 2, Rzecznik nakłada, w drodze decyzji, na podmiot, do którego skierowano żądanie, karę pieniężną do wysokości 50 000 złotych.
+**Art. 69.** W przypadku nieprzekazania na żądanie Rzecznika dokumentów oraz informacji, o których mowa w art. 61 lub art. 67z ust. 1 pkt 2, Rzecznik nakłada, w drodze decyzji, na podmiot, do którego skierowano żądanie, karę pieniężną do wysokości 50 000 złotych.
 
 **Art. 69a.**
 
@@ -1127,7 +1068,7 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 7. Przy ustalaniu wysokości kary pieniężnej organ prowadzący rejestr podmiotów wykonujących działalność leczniczą uwzględnia rodzaj i wagę stwierdzonych naruszeń.
 
-8. Do kary pieniężnej stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) dotyczące terminu przedawnienia zobowiązań podatkowych oraz odsetek za zwłokę od zaległości podatkowych.
+8. Do kary pieniężnej stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) dotyczące terminu przedawnienia zobowiązań podatkowych oraz odsetek za zwłokę od zaległości podatkowych.
 
 **Art. 70.** Przy ustalaniu wysokości kar pieniężnych, o których mowa w art. 68 i 69, należy uwzględnić w szczególności okres, stopień oraz okoliczności naruszenia przepisów ustawy, a także uprzednie naruszenie przepisów ustawy.
 
@@ -1137,13 +1078,13 @@ Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Fundusze
 
 1a. Środki finansowe pochodzące z kar pieniężnych, o których mowa w art. 69a, stanowią:
 
-- **1)** dochód budżetu państwa w przypadku podmiotów leczniczych;
-- **2)** przychód właściwej okręgowej izby lekarskiej w przypadku praktyk zawodowych lekarzy;
-- **3)** przychód właściwej okręgowej izby pielęgniarek i położnych w przypadku praktyk zawodowych pielęgniarek.
+- **1)** dochód budżetu państwa – w przypadku podmiotów leczniczych;
+- **2)** przychód właściwej okręgowej izby lekarskiej – w przypadku praktyk zawodowych lekarzy;
+- **3)** przychód właściwej okręgowej izby pielęgniarek i położnych – w przypadku praktyk zawodowych pielęgniarek.
 
 2. Kara pieniężna podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
 #### Rozdział 15 Przepis końcowy
 
-**Art. 72.** Ustawa wchodzi w życie w terminie określonym w ustawie Przepisy wprowadzające ustawę o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę o akredytacji w ochronie zdrowia oraz ustawę o konsultantach w ochronie zdrowia.
+**Art. 72.** Ustawa wchodzi w życie w terminie określonym w ustawie – Przepisy wprowadzające ustawę o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę o akredytacji w ochronie zdrowia oraz ustawę o konsultantach w ochronie zdrowia.
 

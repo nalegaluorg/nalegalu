@@ -8,6 +8,7 @@ pos: 538
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # sprawie ogłoszenia jednolitego tekstu ustawy o planowaniu i zagospodarowaniu przestrzennym
@@ -41,6 +42,18 @@ poz. 24).
 1) art. 51–52, art. 56 ust. 1, art. 59 ust. 2–4, art. 62, art. 65 ust. 1, art. 67 ust. 4 i art. 78 ustawy z dnia 7 lipca 2023 r.
 o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688, z 2024 r. poz. 1824 oraz z 2025 r. poz. 527, 1543 i 1668), które stanowią: „Art. 51. Ustalenia pierwszego planu ogólnego gminy danej gminie określa się, uwzględniając politykę przestrzenną gminy określoną strategii rozwoju gminy lub strategii rozwoju ponadlokalnego, o ile gmina dysponuje strategią rozwoju gminy lub strategią rozwoju ponadlokalnego, których opracowanie zostało wszczęte od dnia wejścia życie niniejszej ustawy.
 Art. 9–13. (uchylone)
+2. Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie uchwałę, o której mowa ust. 1, wraz z załącznikami oraz dokumentacją prac planistycznych celu oceny ich zgodności z przepisami prawnymi.
+3. Przez zgodność planu miejscowego z planem ogólnym rozumie się:
+1) ustalenie planie miejscowym:
+a) przeznaczenia terenu mieszczącego się profilu funkcjonalnym strefy planistycznej obejmującej teren,
+b) sposobu zagospodarowania i zabudowy terenów zakresie: minimalnego udziału powierzchni biologicznie czynnej niemniejszego niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren, maksymalnej nadziemnej intensywności zabudowy niewiększej niż maksymalna nadziemna intensywność zabudowy określona dla strefy planistycznej obejmującej teren;
+(uchylone)
+2) spełnienie wymogu, o którym mowa art. 13f ust. 4.
+1) terenu położonego obszarze zabudowy śródmiejskiej można ustalić minimalny udział powierzchni biologicznie czynnej niemniejszy niż 2/3 minimalnego udziału powierzchni biologicznie czynnej określonego dla strefy planistycznej obejmującej teren;
+2) terenu komunikacji można ustalić minimalny udział powierzchni biologicznie czynnej mniejszy niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren;
+3) terenu infrastruktury technicznej o powierzchni niewiększej niż 100 m można ustalić minimalny udział powierzchni biologicznie czynnej mniejszy niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren, jeżeli istniejące obiekty budowlane uniemożliwiają ustalenie minimalnego udziału powierzchni biologicznie czynnej niemniejszego niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren;
+4) terenu, na którym znajduje się zabytek nieruchomy objęty formą ochrony, o której mowa ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, lub ujęty wojewódzkiej lub gminnej ewidencji zabytków można ustalić minimalny udział powierzchni biologicznie czynnej mniejszy niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren, jeżeli wynika to z potrzeby ochrony tego zabytku;
+5) istniejącego budynku, którego obrys całości pokrywa się z granicami działki ewidencyjnej można ustalić minimalny udział powierzchni biologicznie czynnej mniejszy niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren.
 Art. 68–82. (pominięte)
 
 **Art. 51a.** Dopuszcza się stwierdzenie nieważności uchwały rady gminy sprawie planu ogólnego gminy części, również odniesieniu do pierwszego planu ogólnego gminy danej gminie.
@@ -608,22 +621,9 @@ Art. 68–82. (pominięte)
 
 **Art. 20.**
 
-1. Plan miejscowy uchwala rada gminy po stwierdzeniu zgodności z ustaleniami planu ogólnego, rozstrzygając jednocześnie o sposobie realizacji zapisanych planie miejscowym inwestycji z zakresu infrastruktury technicznej, które należą do zadań własnych gminy, oraz zasadach ich finansowania, zgodnie z przepisami o finansach publicznych. Część tekstowa planu miejscowego stanowi treść uchwały sprawie uchwalenia planu miejscowego, a część graficzna oraz wymagane rozstrzygnięcia stanowią załączniki do tej uchwały.
+1. Plan miejscowy uchwala rada gminy po stwierdzeniu zgodności z ustaleniami planu ogólnego, rozstrzygając jednocześnie o sposobie realizacji zapisanych planie miejscowym inwestycji z zakresu infrastruktury technicznej, które należą do zadań własnych gminy, oraz zasadach ich finansowania, zgodnie z przepisami o finansach publicznych.
 
-2. Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie uchwałę, o której mowa ust. 1, wraz z załącznikami oraz dokumentacją prac planistycznych celu oceny ich zgodności z przepisami prawnymi.
-
-3. Przez zgodność planu miejscowego z planem ogólnym rozumie się:
-
-- **1)** ustalenie planie miejscowym: (uchylone)
-    - **a)** przeznaczenia terenu mieszczącego się profilu funkcjonalnym strefy planistycznej obejmującej teren,
-    - **b)** sposobu zagospodarowania i zabudowy terenów zakresie: minimalnego udziału powierzchni biologicznie czynnej niemniejszego niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren, maksymalnej nadziemnej intensywności zabudowy niewiększej niż maksymalna nadziemna intensywność zabudowy określona dla strefy planistycznej obejmującej teren;
-
-- **2)** spełnienie wymogu, o którym mowa art. 13f ust. 4.
-- **1)** terenu położonego obszarze zabudowy śródmiejskiej można ustalić minimalny udział powierzchni biologicznie czynnej niemniejszy niż 2/3 minimalnego udziału powierzchni biologicznie czynnej określonego dla strefy planistycznej obejmującej teren;
-- **2)** terenu komunikacji można ustalić minimalny udział powierzchni biologicznie czynnej mniejszy niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren;
-- **3)** terenu infrastruktury technicznej o powierzchni niewiększej niż 100 m można ustalić minimalny udział powierzchni biologicznie czynnej mniejszy niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren, jeżeli istniejące obiekty budowlane uniemożliwiają ustalenie minimalnego udziału powierzchni biologicznie czynnej niemniejszego niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren;
-- **4)** terenu, na którym znajduje się zabytek nieruchomy objęty formą ochrony, o której mowa ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, lub ujęty wojewódzkiej lub gminnej ewidencji zabytków można ustalić minimalny udział powierzchni biologicznie czynnej mniejszy niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren, jeżeli wynika to z potrzeby ochrony tego zabytku;
-- **5)** istniejącego budynku, którego obrys całości pokrywa się z granicami działki ewidencyjnej można ustalić minimalny udział powierzchni biologicznie czynnej mniejszy niż minimalny udział powierzchni biologicznie czynnej określony dla strefy planistycznej obejmującej teren.
+## Część tekstowa planu miejscowego stanowi treść uchwały sprawie uchwalenia planu miejscowego, a część graficzna oraz wymagane rozstrzygnięcia stanowią załączniki do tej uchwały.
 
 **Art. 21.**
 

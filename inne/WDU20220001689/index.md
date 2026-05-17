@@ -8,9 +8,12 @@ pos: 1689
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 sierpnia 2022 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 lipca 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001689) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1689/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 lipca 2022 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2021 r. poz. 1638), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lipca 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośników nr 1 i nr 3 oraz art. 148 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), które stanowią: „ Niniejsza ustawa służy stosowaniu:
 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7);

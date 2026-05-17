@@ -8,9 +8,12 @@ pos: 326
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lutego 2023 r.
+# o fundacji rodzinnej
+
+*USTAWA z dnia 26 stycznia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,11 +24,8 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-26 |
 | Data wydania | 2023-02-21 |
-| Ostatnia zmiana | 2024-10-16 |
+| Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000326) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/326/text.pdf) |
-
-USTAWA z dnia 26 stycznia 2023 r.
-o fundacji rodzinnej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -53,11 +53,11 @@ o fundacji rodzinnej
 
 2. Rejestr fundacji rodzinnych prowadzi Sąd Okręgowy w Piotrkowie Trybunalskim, zwany dalej „sądem rejestrowym”.
 
-3. W postępowaniu przed sądem rejestrowym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o postępowaniu nieprocesowym, chyba że ustawa stanowi inaczej.
+3. W postępowaniu przed sądem rejestrowym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o postępowaniu nieprocesowym, chyba że ustawa stanowi inaczej.
 
 **Art. 5.**
 
-1. Fundacja rodzinna może wykonywać działalność gospodarczą w rozumieniu art. 3 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221) tylko w zakresie:
+1. Fundacja rodzinna może wykonywać działalność gospodarczą w rozumieniu art. 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221) tylko w zakresie:
 
 - **1)** zbywania mienia, o ile mienie to nie zostało nabyte wyłącznie w celu dalszego zbycia;
 - **2)** najmu, dzierżawy lub udostępniania mienia do korzystania na innej podstawie;
@@ -146,9 +146,9 @@ o fundacji rodzinnej
 
 3. Fundacja rodzinna w organizacji zarządza we własnym imieniu posiadanym majątkiem i zapewnia jego ochronę, w szczególności nabywa prawa, w tym własność nieruchomości i inne prawa rzeczowe, zaciąga zobowiązania, pozywa i jest pozywana.
 
-4. Fundacja rodzinna w organizacji jest reprezentowana przez fundatora lub pełnomocnika powołanego przez fundatora albo w przypadkach wskazanych w ustawie przez zarząd.
+4. Fundacja rodzinna w organizacji jest reprezentowana przez fundatora lub pełnomocnika powołanego przez fundatora albo w przypadkach wskazanych w ustawie – przez zarząd.
 
-5. Odpowiedzialność osób, o których mowa w ust. 4, wobec fundacji rodzinnej ustaje z chwilą zatwierdzenia ich czynności uchwałą zarządu, a w przypadku czynności zarządu z chwilą zatwierdzenia jego czynności. Podmiot uprawniony do zatwierdzenia czynności zarządu określa statut.
+5. Odpowiedzialność osób, o których mowa w ust. 4, wobec fundacji rodzinnej ustaje z chwilą zatwierdzenia ich czynności uchwałą zarządu, a w przypadku czynności zarządu – z chwilą zatwierdzenia jego czynności. Podmiot uprawniony do zatwierdzenia czynności zarządu określa statut.
 
 6. Do fundacji rodzinnej w organizacji w sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy dotyczące fundacji rodzinnej.
 
@@ -206,7 +206,7 @@ o fundacji rodzinnej
 2. Mienie wniesione do fundacji rodzinnej w drodze darowizny albo spadku przez:
 
 - **1)** fundatora lub jego małżonka, zstępnych, wstępnych lub rodzeństwo ‒ uważa się za wniesione przez fundatora;
-- **2)** inne osoby uważa się za wniesione przez fundację rodzinną.
+- **2)** inne osoby – uważa się za wniesione przez fundację rodzinną.
 
 3. W przypadku gdy do fundacji rodzinnej mienie wnosi wspólny zstępny, wstępny albo rodzeństwo więcej niż jednego fundatora, mienie uważa się za wniesione przez wszystkich tych fundatorów w równych częściach.
 
@@ -223,7 +223,7 @@ o fundacji rodzinnej
 1. Beneficjentem może być:
 
 - **1)** osoba fizyczna,
-- **2)** organizacja pozarządowa, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, prowadząca działalność pożytku publicznego w rozumieniu art. 3 ust. 1 tej ustawy która zgodnie ze statutem może otrzymać świadczenie od fundacji rodzinnej lub mienie w związku z rozwiązaniem fundacji rodzinnej.
+- **2)** organizacja pozarządowa, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, prowadząca działalność pożytku publicznego w rozumieniu art. 3 ust. 1 tej ustawy – która zgodnie ze statutem może otrzymać świadczenie od fundacji rodzinnej lub mienie w związku z rozwiązaniem fundacji rodzinnej.
 
 2. Beneficjentem może być fundator.
 
@@ -294,7 +294,7 @@ o fundacji rodzinnej
 1. Beneficjent ma prawo do uzyskania informacji o działalności fundacji rodzinnej osobiście lub przez upoważnioną przez siebie osobę, w szczególności do żądania:
 
 - **1)** wglądu do dokumentów fundacji rodzinnej, w tym statutu, sprawozdań finansowych i ksiąg rachunkowych, oraz sporządzania z nich kopii i notatek,
-- **2)** przedstawienia wyjaśnień od zarządu z uwzględnieniem przepisów dotyczących ochrony danych osobowych.
+- **2)** przedstawienia wyjaśnień od zarządu – z uwzględnieniem przepisów dotyczących ochrony danych osobowych.
 
 2. Zarząd może odmówić beneficjentowi przedstawienia wyjaśnień, w tym dotyczących realizacji obowiązków zarządu, lub wglądu do dokumentów, jeżeli istnieje uzasadniona obawa, że prawo to zostanie wykorzystane przez beneficjenta w celach sprzecznych z interesem i celem fundacji rodzinnej. Informacja o odmowie jest przekazywana beneficjentowi niezwłocznie, nie później jednak niż w terminie miesiąca od dnia zażądania przez beneficjenta przedstawienia wyjaśnień lub wglądu do dokumentów fundacji rodzinnej, o których mowa w ust. 1.
 
@@ -407,7 +407,7 @@ o fundacji rodzinnej
 
 1. Do pełnienia funkcji członka zarządu może być powołana osoba fizyczna posiadająca pełną zdolność do czynności prawnych.
 
-2. Członkiem zarządu nie może być osoba, która została skazana prawomocnym wyrokiem za przestępstwa określone w art. 228–231 oraz w przepisach rozdziałów XXXIII–XXXVII ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289).
+2. Członkiem zarządu nie może być osoba, która została skazana prawomocnym wyrokiem za przestępstwa określone w art. 228–231 oraz w przepisach rozdziałów XXXIII–XXXVII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289).
 
 3. Zakaz, o którym mowa w ust. 2, ustaje z upływem piątego roku od dnia uprawomocnienia się wyroku skazującego, chyba że wcześniej nastąpiło zatarcie skazania.
 
@@ -435,7 +435,7 @@ o fundacji rodzinnej
 
 2. Członek zarządu może być powołany na kolejne kadencje.
 
-3. O ile statut nie stanowi inaczej, powołania i odwołania członka zarządu dokonuje fundator, a po śmierci fundatora rada nadzorcza, jeżeli została ustanowiona. W przypadku śmierci fundatora i braku rady nadzorczej powołania i odwołania członka zarządu dokonuje zgromadzenie beneficjentów.
+3. O ile statut nie stanowi inaczej, powołania i odwołania członka zarządu dokonuje fundator, a po śmierci fundatora – rada nadzorcza, jeżeli została ustanowiona. W przypadku śmierci fundatora i braku rady nadzorczej powołania i odwołania członka zarządu dokonuje zgromadzenie beneficjentów.
 
 4. W przypadku gdy fundacja rodzinna jest ustanawiana w testamencie, fundator określa w nim osobę albo osoby, które zostaną powołane do pełnienia funkcji członka albo członków pierwszego zarządu.
 
@@ -494,7 +494,7 @@ o fundacji rodzinnej
 
 2. Członek rady nadzorczej może być powołany na kolejne kadencje.
 
-3. O ile statut nie stanowi inaczej, powołania i odwołania członków rady nadzorczej dokonuje fundator, a po śmierci fundatora zgromadzenie beneficjentów.
+3. O ile statut nie stanowi inaczej, powołania i odwołania członków rady nadzorczej dokonuje fundator, a po śmierci fundatora – zgromadzenie beneficjentów.
 
 4. W przypadku gdy fundacja rodzinna jest ustanawiana w testamencie, fundator może określić w nim osobę albo osoby, które zostaną powołane do pełnienia funkcji członka albo członków pierwszej rady nadzorczej.
 
@@ -574,7 +574,7 @@ o fundacji rodzinnej
 
 1. Audyt kończy się sporządzeniem raportu, który przekazywany jest zarządowi.
 
-2. Zarząd przedstawia raport radzie nadzorczej, a jeżeli nie została ustanowiona zgromadzeniu beneficjentów, na najbliższym posiedzeniu.
+2. Zarząd przedstawia raport radzie nadzorczej, a jeżeli nie została ustanowiona – zgromadzeniu beneficjentów, na najbliższym posiedzeniu.
 
 #### Rozdział 10 Kontrola sądowa i obowiązek informacyjny
 
@@ -586,7 +586,7 @@ o fundacji rodzinnej
 
 **Art. 83.**
 
-1. Fundator, beneficjent lub członek organu fundacji rodzinnej może wytoczyć przeciwko fundacji rodzinnej powództwo o stwierdzenie nieważności uchwały organu fundacji rodzinnej sprzecznej z ustawą. Przepisu art. 189 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego nie stosuje się.
+1. Fundator, beneficjent lub członek organu fundacji rodzinnej może wytoczyć przeciwko fundacji rodzinnej powództwo o stwierdzenie nieważności uchwały organu fundacji rodzinnej sprzecznej z ustawą. Przepisu art. 189 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się.
 
 2. Prawo do wniesienia powództwa wygasa z upływem sześciu miesięcy od dnia, w którym uprawniony powziął wiadomość o uchwale, nie później jednak niż z upływem dwóch lat od dnia podjęcia uchwały.
 
@@ -600,15 +600,15 @@ o fundacji rodzinnej
 
 **Art. 87.** Fundacja rodzinna ulega rozwiązaniu, w przypadku gdy:
 
-**Art. 88.** Sąd rejestrowy, wyznaczając odpowiedni termin, może wezwać zarząd do usunięcia naruszeń, o których mowa w art. 87 pkt 2, pod rygorem zastosowania grzywny przewidzianej w przepisach ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego o egzekucji świadczeń niepieniężnych. W przypadku gdy zarząd nie usunie naruszeń w terminie, sąd rejestrowy nakłada grzywnę na obowiązanych. Przepisu art. 1053 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego nie stosuje się.
+**Art. 88.** Sąd rejestrowy, wyznaczając odpowiedni termin, może wezwać zarząd do usunięcia naruszeń, o których mowa w art. 87 pkt 2, pod rygorem zastosowania grzywny przewidzianej w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o egzekucji świadczeń niepieniężnych. W przypadku gdy zarząd nie usunie naruszeń w terminie, sąd rejestrowy nakłada grzywnę na obowiązanych. Przepisu art. 1053 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się.
 
 **Art. 89.**
 
 1. W przypadku wystąpienia okoliczności, o których mowa w art. 87:
 
-- **1)** pkt 1 rozwiązanie fundacji rodzinnej następuje na podstawie uchwały zarządu;
-- **2)** pkt 3 rozwiązanie fundacji rodzinnej następuje na podstawie jednomyślnej uchwały zgromadzenia beneficjentów;
-- **3)** pkt 1–3 sąd rejestrowy orzeka o rozwiązaniu fundacji rodzinnej na wniosek beneficjenta albo z urzędu po przeprowadzeniu rozprawy, w szczególności gdy pomimo zastosowania grzywny, o której mowa w art. 88, zarząd nie usunie naruszeń w terminie wyznaczonym przez sąd.
+- **1)** pkt 1 – rozwiązanie fundacji rodzinnej następuje na podstawie uchwały zarządu;
+- **2)** pkt 3 – rozwiązanie fundacji rodzinnej następuje na podstawie jednomyślnej uchwały zgromadzenia beneficjentów;
+- **3)** pkt 1–3 – sąd rejestrowy orzeka o rozwiązaniu fundacji rodzinnej na wniosek beneficjenta albo z urzędu po przeprowadzeniu rozprawy, w szczególności gdy pomimo zastosowania grzywny, o której mowa w art. 88, zarząd nie usunie naruszeń w terminie wyznaczonym przez sąd.
 
 2. W przypadku gdy wymagana jest zgoda beneficjentów na rozwiązanie fundacji rodzinnej, wyrażenie zgody przez małoletniego beneficjenta wymaga zezwolenia sądu opiekuńczego.
 
@@ -676,7 +676,7 @@ o fundacji rodzinnej
 
 **Art. 98.**
 
-1. Likwidatorzy mają obowiązek zakończyć interesy bieżące fundacji rodzinnej, ściągnąć wierzytelności oraz wypełnić zobowiązania fundacji rodzinnej. Nowe interesy mogą podejmować tylko wówczas, gdy to jest potrzebne do ukończenia spraw w toku. Nieruchomości zbywa się w drodze publicznej licytacji, a z wolnej ręki jedynie na mocy uchwały zgromadzenia beneficjentów i po cenie nie niższej od ustalonej przez zgromadzenie beneficjentów.
+1. Likwidatorzy mają obowiązek zakończyć interesy bieżące fundacji rodzinnej, ściągnąć wierzytelności oraz wypełnić zobowiązania fundacji rodzinnej. Nowe interesy mogą podejmować tylko wówczas, gdy to jest potrzebne do ukończenia spraw w toku. Nieruchomości zbywa się w drodze publicznej licytacji, a z wolnej ręki – jedynie na mocy uchwały zgromadzenia beneficjentów i po cenie nie niższej od ustalonej przez zgromadzenie beneficjentów.
 
 2. W stosunkach wewnętrznych likwidatorzy są obowiązani stosować się do uchwał zgromadzenia beneficjentów. Zasady tej nie stosuje się do likwidatorów wyznaczonych przez sąd rejestrowy.
 
@@ -801,9 +801,9 @@ o fundacji rodzinnej
 
 - **1)** nazwę fundacji rodzinnej, jej siedzibę i adres;
 - **2)** wysokość funduszu założycielskiego fundacji rodzinnej;
-- **3)** imiona i nazwiska, numery PESEL członków zarządu, a w przypadku braku obowiązku posiadania takiego numeru datę urodzenia, oraz ich adresy do doręczeń, a także sposób reprezentowania fundacji rodzinnej;
-- **4)** imiona i nazwiska, numery PESEL członków rady nadzorczej, a w przypadku braku obowiązku posiadania takiego numeru datę urodzenia, oraz ich adresy do doręczeń, jeśli w fundacji rodzinnej ustanawia się radę nadzorczą;
-- **5)** imiona i nazwiska, numery PESEL beneficjentów będących osobami fizycznymi wchodzącymi w skład zgromadzenia beneficjentów, a w przypadku braku obowiązku posiadania takiego numeru datę urodzenia, oraz ich adresy do doręczeń, a w przypadku gdy beneficjentem jest podmiot inny niż osoba fizyczna nazwę lub firmę oraz numer identyfikacyjny REGON, a jeżeli podmiot ten jest zarejestrowany w Krajowym Rejestrze Sądowym także jego numer w tym rejestrze;
+- **3)** imiona i nazwiska, numery PESEL członków zarządu, a w przypadku braku obowiązku posiadania takiego numeru – datę urodzenia, oraz ich adresy do doręczeń, a także sposób reprezentowania fundacji rodzinnej;
+- **4)** imiona i nazwiska, numery PESEL członków rady nadzorczej, a w przypadku braku obowiązku posiadania takiego numeru – datę urodzenia, oraz ich adresy do doręczeń, jeśli w fundacji rodzinnej ustanawia się radę nadzorczą;
+- **5)** imiona i nazwiska, numery PESEL beneficjentów będących osobami fizycznymi wchodzącymi w skład zgromadzenia beneficjentów, a w przypadku braku obowiązku posiadania takiego numeru – datę urodzenia, oraz ich adresy do doręczeń, a w przypadku gdy beneficjentem jest podmiot inny niż osoba fizyczna – nazwę lub firmę oraz numer identyfikacyjny REGON, a jeżeli podmiot ten jest zarejestrowany w Krajowym Rejestrze Sądowym – także jego numer w tym rejestrze;
 - **6)** imię i nazwisko oraz adres do doręczeń fundatora, jeżeli fundator jest uprawniony do powołania zarządu;
 - **7)** czas trwania fundacji rodzinnej, jeżeli jest oznaczony.
 
@@ -811,7 +811,7 @@ o fundacji rodzinnej
 
 - **1)** akt założycielski fundacji rodzinnej albo protokół otwarcia i ogłoszenia testamentu, w którym ustanowiono fundację rodzinną;
 - **2)** statut fundacji rodzinnej;
-- **3)** oświadczenie fundatora o wniesieniu mienia na pokrycie funduszu założycielskiego w kwocie określonej w statucie, a w przypadku ustanowienia fundacji rodzinnej w testamencie oświadczenie członków zarządu, że fundusz założycielski zostanie wniesiony w terminie dwóch lat od dnia wpisania fundacji rodzinnej do rejestru fundacji rodzinnych;
+- **3)** oświadczenie fundatora o wniesieniu mienia na pokrycie funduszu założycielskiego w kwocie określonej w statucie, a w przypadku ustanowienia fundacji rodzinnej w testamencie – oświadczenie członków zarządu, że fundusz założycielski zostanie wniesiony w terminie dwóch lat od dnia wpisania fundacji rodzinnej do rejestru fundacji rodzinnych;
 - **4)** dowód ustanowienia organów fundacji rodzinnej, z wyszczególnieniem ich składu osobowego, jeżeli skład organów fundacji rodzinnej nie wynika z jej statutu oraz zgody na pełnienie funkcji członka organu fundacji rodzinnej.
 
 **Art. 115.** Zgłoszenie do rejestru fundacji rodzinnych jest wnioskiem o wpis do tego rejestru.
@@ -828,9 +828,9 @@ o fundacji rodzinnej
 
 - **1)** numer, pod którym fundacja rodzinna jest wpisana do rejestru fundacji rodzinnych;
 - **2)** nazwę fundacji rodzinnej;
-- **3)** siedzibę i adres, a jeżeli fundacja rodzinna posiada jednostkę terenową albo jednostki terenowe także ich siedziby i adresy;
+- **3)** siedzibę i adres, a jeżeli fundacja rodzinna posiada jednostkę terenową albo jednostki terenowe – także ich siedziby i adresy;
 - **4)** NIP albo informację o jego unieważnieniu albo uchyleniu;
-- **5)** w przypadku gdy fundacja rodzinna je posiada adres strony internetowej, adres poczty elektronicznej oraz adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285), wpisany do bazy adresów elektronicznych;
+- **5)** w przypadku gdy fundacja rodzinna je posiada – adres strony internetowej, adres poczty elektronicznej oraz adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285), wpisany do bazy adresów elektronicznych;
 - **6)** numer identyfikacyjny REGON;
 - **7)** wysokość funduszu założycielskiego;
 - **8)** dane, o których mowa w art. 118 pkt 1, adresy do doręczeń członków zarządu oraz sposób reprezentacji fundacji rodzinnej;
@@ -934,9 +934,9 @@ o fundacji rodzinnej
 
 #### Rozdział 14 Zmiany w przepisach
 
-**Art. 129.** W ustawie z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339) wprowadza się następujące zmiany:
+**Art. 129.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339) wprowadza się następujące zmiany:
 
-**Art. 130.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 130.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 131.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2021 r. poz. 1043 oraz z 2022 r. poz. 1846 i 2180) w art. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) nabycie własności rzeczy lub praw majątkowych będących przedmiotem świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326), oraz stanowiących mienie otrzymane w związku z rozwiązaniem fundacji rodzinnej albo fundacji rodzinnej w organizacji.”.
 
@@ -960,11 +960,12 @@ o fundacji rodzinnej
 
 - **6)** w art. 27:
     - **a)** w ust. 1 po wyrazach „z zastrzeżeniem ust. 1d” dodaje się wyrazy „i 1da”,
-    - **b)** po ust. 1d dodaje się ust. 1da w brzmieniu: „1da. Przepis ust. 1 stosuje się do fundacji rodzinnej w zakresie w jakim fundacja prowadzi działalność gospodarczą wykraczającą poza zakres określony w art. 5 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej.”;
+    - **b)** po ust. 1d dodaje się ust. 1da w brzmieniu: „1da. Przepis ust. 1 stosuje się do fundacji rodzinnej w zakresie nieobjętym zwolnieniem, o którym mowa w art. 6 ust. 1 pkt 25, z wyjątkiem wyłączenia określonego w art. 6 ust. 6.”;
 
-- **7)** w art. 28a w ust. 1 w pkt 1 po wyrazach „art. 24j ust. 1,” dodaje się wyrazy „art. 24s ust. 1,”.
+- **7)** w art. 28a w ust. 1 w pkt 1 po wyrazach „art. 24j ust. 1,” dodaje się wyrazy „art. 24s ust. 1,”;
+- **8)** w art. 28j w ust. 1 w pkt 4 po wyrazach „o charakterze powierniczym” dodaje się wyrazy „ , z wyłączeniem fundatorów i beneficjentów fundacji rodzinnej”.
 
-**Art. 134.** W ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180) wprowadza się następujące zmiany:
+**Art. 134.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180) wprowadza się następujące zmiany:
 
 **Art. 135.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, z późn. zm. ) w art. 31 po wyrazach „art. 117d,” dodaje się wyrazy „art. 117e,”.
 
@@ -1008,16 +1009,16 @@ o fundacji rodzinnej
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań wynikających z ustawy wynosi w roku:
 
-- **1)** 2023 2 500 000 zł;
-- **2)** 2024 0 zł;
-- **3)** 2025 0 zł;
-- **4)** 2026 0 zł;
-- **5)** 2027 0 zł;
-- **6)** 2028 0 zł;
-- **7)** 2029 0 zł;
-- **8)** 2030 0 zł;
-- **9)** 2031 0 zł;
-- **10)** 2032 0 zł.
+- **1)** 2023 – 2 500 000 zł;
+- **2)** 2024 – 0 zł;
+- **3)** 2025 – 0 zł;
+- **4)** 2026 – 0 zł;
+- **5)** 2027 – 0 zł;
+- **6)** 2028 – 0 zł;
+- **7)** 2029 – 0 zł;
+- **8)** 2030 – 0 zł;
+- **9)** 2031 – 0 zł;
+- **10)** 2032 – 0 zł.
 
 2. Minister właściwy do spraw finansów publicznych monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału.
 
@@ -1029,5 +1030,5 @@ o fundacji rodzinnej
 
 #### Rozdział 16 Przepis końcowy
 
-**Art. 145.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 145.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
 

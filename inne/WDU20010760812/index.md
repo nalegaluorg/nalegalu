@@ -8,9 +8,12 @@ pos: 812
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# 2) wrubryce ŃStawka” przy pkt47adodaje się kwotę Ń3400 zł”.
+# o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów
+
+*USTAWA z dnia 22 czerwca 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,212 +27,241 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010760812) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/812/text.pdf) |
 
-**Art. 72.** W ustawie dnia 9 listopada 2000 r. o dostępie informacji ośrodowisku ijego ochronie o ocenach oddziaływania na środowisko (Dz. U. 109, poz. 1157 i 2001 r. 73, poz. 761) art. 5 wust. 2:
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 74.** Do czasu wydania przepisów wykonawczych przewidzianych ustawie zachowuje moc rozporządzenie dotychczas obowiązujące, wydane na podstawie ustawy, o której mowa art. 73, nie dłużej jednak niż przez okres 9 miesięcy od dnia wejścia wżycie ustawy.
-
-**Art. 75.**
-
-1. Do spraw wszczętych przed dniem wejścia życie ustawy a niezakończonych decyzją ostateczną stosuje się przepisy ustawy.
-
-2. Decyzje ostateczne wydane przed dniem wejścia wżycie ustawy na podstawie dotychczasowych przepisów zachowują moc na okres, na jaki zostały wydane. produktów GMO, Art. 76.Ustawa wchodzi wżycie po upływie trzech
-
-- **d)** zezwolenia na wywóz tranzyt produk- miesięcy od dnia ogłoszenia, wyjątkiem przepisów tów GMO,”. art. 9, art. 10, art. 12 i art. 13, które wchodzą życie zdniem ogłoszenia.
-
-**Art. 73.** Traci moc art. 37a ustawy dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 22 czerwca 2001 r. owykonywaniu Konwencji ozakazie prowadzenia badań, produkcji, składowania iużycia broni chemicznej ozniszczeniu jej zapasów. 1 Przepisy ogólne
-
-**Art. 1.** Ustawa określa zasady wykonywania na terytorium Rzeczypospolitej Polskiej zobowiązań wynikających Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej ozniszczeniu jej zapasów, sporządzonej wParyżu dnia 13 stycznia 1993 r. (Dz. U. z1999 r. 63, poz.703), zwanej dalej ŃKonwencją”.
+**Art. 1.** Ustawa określa zasady wykonywania na terytorium Rzeczypospolitej Polskiej zobowiązań wynikających z Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów, sporządzonej w Paryżu dnia 13 stycznia 1993 r. (Dz. U. z 1999 r. poz. 703), zwanej dalej „Konwencją”.
 
 **Art. 2.**
 
-1. Przepisy ustawy stosuje się wobec osób fizycznych przebywających na terytorium Rzeczypospolitej Polskiej, osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej innych podmiotów mających siedzibę na terytorium Rzeczypospolitej Polskiej, a także przedsiębiorców zanostki pływające, o polskiej przynależności państwowej.
+1. Przepisy ustawy stosuje się wobec osób fizycznych przebywających na terytorium Rzeczypospolitej Polskiej, osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej oraz innych podmiotów mających siedzibę na terytorium Rzeczypospolitej Polskiej, a także przedsiębiorców zagranicznych prowadzących na terytorium Rzeczypospolitej Polskiej działalność z wykorzystaniem związków chemicznych i ich prekursorów, objętych postanowieniami Konwencji.
+
+2. Terytorium Rzeczypospolitej Polskiej stanowią również statki powietrzne oraz statki morskie i inne jednostki pływające, o polskiej przynależności państwowej.
 
 **Art. 3.**
 
-1. Ilekroć wustawie jest mowa oŃbroni chemicznej”, Ńtoksycznych związkach chemicznych”, Ńorganicznych związkach chemicznych”, Ńprekursorach”, Ńchemicznych środkach policyjnych”, Ńobiektach produkcji broni chemicznej” Ńcelach niezabronionych przez Konwencję”, pojęcia te należy rozumieć wznaczeniu użytym wKonwencji.
+1. Ilekroć w ustawie jest mowa o „broni chemicznej”, „toksycznych związkach chemicznych”, „organicznych związkach chemicznych”, „prekursorach”, „chemicznych środkach policyjnych”, „obiektach do produkcji broni chemicznej” oraz „celach niezabronionych przez Konwencję”, pojęcia te należy rozumieć w znaczeniu użytym w Konwencji.
 
-2. Użyte wustawie określenie Ńzespół eskortujący” oznacza wyrażenie Ńeskorta kraju” rozumieniu Konwencji. 2 Zakazy i ograniczenia
+2. Użyte w ustawie określenie „zespół eskortujący” oznacza wyrażenie „eskorta w kraju” w rozumieniu Konwencji.
 
-**Art. 4.** Zabrania się na terytorium Rzeczypospolitej środka prowadzenia działań wojennych,
+#### Rozdział 2 Zakazy i ograniczenia
 
-**Art. 5.** Produkcja, wytwarzanie, przetwarzanie, zużycie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie używanie toksycznych związków chemicznych ich prekursorów, wymienionych wWykazie nr 1 Załącznika Konwencji dotyczącego związków chemicznych, zwanym dalej ŃWykazem 1”, może być prowadzone wyłącznie celach niezabronionych przez Konwencję i ilościach przez nią dozwolonych zgodnie jej wymogami.
+**Art. 4.** Zabrania się na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem art. 5:
+
+**Art. 5.** Produkcja, wytwarzanie, przetwarzanie, zużycie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie toksycznych związków chemicznych lub ich prekursorów, wymienionych w Wykazie nr 1 Załącznika do Konwencji dotyczącego związków chemicznych, zwanym dalej „Wykazem 1”, może być prowadzone wyłącznie w celach niezabronionych przez Konwencję i w ilościach przez nią dozwolonych oraz zgodnie z jej wymogami.
 
 **Art. 6.**
 
-1. Produkcja, wytwarzanie, przetwarzanie, zużycie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie używanie toksycznych związków chemicznych ich prekursorów, wymienionych Wykazie 1, może być dokonywane na podstawie pozwolenia.
+1. Produkcja, wytwarzanie, przetwarzanie, zużycie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie toksycznych związków chemicznych lub ich prekursorów, wymienionych w Wykazie 1, może być dokonywane na podstawie pozwolenia.
 
-2. Pozwolenie, októrym mowa wust. 1, wydaje minister właściwy spraw gospodarki, zzastrzeżeniem ust. 3.
+2. Pozwolenie, o którym mowa w ust. 1, wydaje minister właściwy do spraw gospodarki, z zastrzeżeniem ust. 3.
 
-3. Dla jednostek ikomórek organizacyjnych podporządkowanych Ministrowi Obrony Narodowej przez niego nadzorowanych, a także dla przedsiębiorstw państwowych, dla których jest on organem założycielskim, pozwolenie, októrym mowa wust. 1, wydaje Minister Obrony Narodowej.
+3. Dla jednostek i komórek organizacyjnych podporządkowanych Ministrowi Obrony Narodowej oraz przez niego nadzorowanych, a także dla przedsiębiorstw państwowych, dla których jest on organem założycielskim, pozwolenie, o którym mowa w ust. 1, wydaje Minister Obrony Narodowej.
 
 **Art. 7.**
 
-1. Pozwolenie na produkcję, wytwarzanie, przetwarzanie, zużycie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie używanie toksycznych związków chemicznych ich prekursorów, wymienionych wWykazie 1, jest niezależne od wpisu rejestru przedsiębiorców od koncesji i zezwolenia, o których mowa przepisach o działalności gospodarczej.
+1. Pozwolenie na produkcję, wytwarzanie, przetwarzanie, zużycie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie toksycznych związków chemicznych lub ich prekursorów, wymienionych w Wykazie 1, jest niezależne od wpisu do rejestru przedsiębiorców oraz od koncesji i zezwolenia, o których mowa w przepisach o działalności gospodarczej.
 
-2. Udzielenie, odmowa udzielenia, zmiana icofnięcie pozwolenia ograniczenie jego zakresu stosunku wniosku następuje wdrodze decyzji administracyjnej.
+2. Udzielenie, odmowa udzielenia, zmiana i cofnięcie pozwolenia lub ograniczenie jego zakresu w stosunku do wniosku następuje w drodze decyzji administracyjnej.
 
-3. Pozwolenia udziela się na czas oznaczony, nie krótszy niż 2 lata inie dłuższy niż 50 lat.
+3. Pozwolenia udziela się na czas oznaczony, nie krótszy niż 2 lata i nie dłuższy niż 50 lat.
 
-4. Do udzielenia, odmowy udzielenia, zmiany icofnięcia pozwolenia ograniczenia jego zakresu wstowanie, przekazywanie używanie toksycznych związków chemicznych ich prekursorów, wymienionych Wykazie 1. Rozporządzenie to określi wszczególności:
+4. Do udzielenia, odmowy udzielenia, zmiany i cofnięcia pozwolenia lub ograniczenia jego zakresu w stosunku do wniosku stosuje się odpowiednio przepisy art. 16, art. 17 ust. 1 i 2, art. 18, art. 20, art. 21 ust. 1–5, art. 22, art. 23 i art. 26 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. poz. 1178, z 2000 r. poz. 958 i 1193 oraz z 2001 r. poz. 509 i 679) .
 
-- **1)** wzory wniosków owydanie pozwolenia na produkcję, wytwarzanie, przetwarzanie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie używanie toksycznych związków chemicznych ich prekursorów, wymienionych wWykazie 1,
-- **2)** dokumenty, które powinny być dołączone wniosków, októrych mowa wpkt 1,
-- **3)** wzory pozwolenia na produkcję, wytwarzanie, przetwarzanie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie używanie toksycznych związków chemicznych ich prekursorów, wymienionych wWykazie 1.
+**Art. 8.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, tryb wydawania pozwoleń na produkcję, wytwarzanie, przetwarzanie, zużycie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie toksycznych związków chemicznych lub ich prekursorów, wymienionych w Wykazie 1. Rozporządzenie to określi w szczególności:
 
 **Art. 9.**
 
-1. Minister Obrony Narodowej określi, wdrodze rozporządzenia, zakres iszczegółowe warunki produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów, wymienionych Wykazie 1, jednostkach i komórkach organizacyjnych jemu podporządkowanych przez niego nadzorowanych, atakże wprzedsiębiorstwach państwowych, dla których jest on organem założycielskim. Rozporządzenie to określi wszczególności:
+1. Minister Obrony Narodowej określi, w drodze rozporządzenia, zakres i szczegółowe warunki produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 1, w jednostkach i komórkach organizacyjnych jemu podporządkowanych oraz przez niego nadzorowanych, a także w przedsiębiorstwach państwowych, dla których jest on organem założycielskim. Rozporządzenie to określi w szczególności:
 
-- **1)** sposób przygotowania wniosków o wydanie pozwolenia na prowadzenie działalności, októrej mowa wart. 6, dokumenty, które powinny być dołączone wniosków,
-- **2)** jednostki organizacyjne upoważnione produkcji toksycznych związków chemicznych ich prekursorów celów ochronnych,
-- **3)** warunki prowadzenia produkcji toksycznych związków chemicznych ich prekursorów celów badawczych, medycznych farmaceutycznych,
-- **4)** tryb i terminy przekazywania informacji związanej produkcją, wytwarzaniem, przetwarzaniem, nabywaniem, gromadzeniem, przechowywaniem, zbywaniem, przekazywaniem i używaniem toksycznych związków chemicznych i ich prekursorów, wymienionych wWykazie 1,
-- **5)** warunki przeprowadzania szkolenia wojsk użyciem toksycznych związków chemicznych.
+- **1)** sposób przygotowania wniosków o wydanie pozwolenia na prowadzenie działalności, o której mowa w art. 6, oraz dokumenty, które powinny być dołączone do wniosków;
+- **2)** jednostki organizacyjne upoważnione do produkcji toksycznych związków chemicznych lub ich prekursorów do celów ochronnych;
+- **3)** warunki prowadzenia produkcji toksycznych związków chemicznych lub ich prekursorów do celów badawczych, medycznych lub farmaceutycznych;
+- **4)** tryb i terminy przekazywania informacji związanej z produkcją, wytwarzaniem, przetwarzaniem, nabywaniem, gromadzeniem, przechowywaniem, zbywaniem, przekazywaniem i używaniem toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 1;
+- **5)** warunki przeprowadzania szkolenia wojsk z użyciem toksycznych związków chemicznych.
 
-2. Minister Obrony Narodowej przekazuje ministrowi właściwemu spraw gospodarki kopie wydaArt. 10. 1. Dopuszcza się import, eksport tranzyt przez polski obszar celny toksycznych związków chemicznych i ich prekursorów wymienionych Wykazie 1, pod warunkiem uzyskania zezwolenia i zastrzeżeniem art. 11.
+2. Minister Obrony Narodowej przekazuje ministrowi właściwemu do spraw gospodarki kopie wydanych pozwoleń na produkcję, wytwarzanie, przetwarzanie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie w jednostkach i komórkach organizacyjnych, o których mowa w ust. 1, toksycznych związków chemicznych lub ich prekursorów.
 
-2. Zezwolenie na import, eksport tranzyt, októrym mowa ust. 1, wydaje minister właściwy spraw gospodarki na zasadach i trybie określonym wustawie zdnia 29 listopada 2000 r. oobrocie zzagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, atakże dla utrzymania międzynarodowego pokoju i bezpieczeństwa o zmianie niektórych ustaw (Dz. U. 119, poz. 1250).
+#### Rozdział 3 Obrót z zagranicą toksycznymi związkami chemicznymi i ich prekursorami
+
+**Art. 10.**
+
+1. Dopuszcza się import, eksport oraz tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów wymienionych w Wykazie 1, pod warunkiem uzyskania zezwolenia i z zastrzeżeniem art. 11.
+
+2. Zezwolenie na import, eksport oraz tranzyt, o którym mowa w ust. 1, wydaje minister właściwy do spraw gospodarki na zasadach i w trybie określonym w ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw (Dz. U. z 2017 r. poz. 1050).
 
 **Art. 11.**
 
-1. Eksport, import itranzyt przez polski obszar celny toksycznych związków chemicznych i ich prekursorów, wymienionych Wykazie 1, izpaństw niebędących Stronami Konwencji jest zakazany.
+1. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 1, do i z państw niebędących Stronami Konwencji jest zakazany.
 
-2. Eksport, import i tranzyt przez polski obszar celny toksycznych związków chemicznych iich prekursorów, wymienionych Wykazie 1, i państw będących Stronami Konwencji jest dopuszczalny jedynie celów niezabronionych przez Konwencję i ilościach przez nią dozwolonych zgodnie zjej wymogami.
+2. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 1, do i z państw będących Stronami Konwencji jest dopuszczalny jedynie do celów niezabronionych przez Konwencję i w ilościach przez nią dozwolonych oraz zgodnie z jej wymogami.
 
 **Art. 12.**
 
-1. Eksport, import itranzyt przez polski obszar celny toksycznych związków chemicznych i ich prekursorów, wymienionych Wykazie nr 2 Załącznika Konwencji dotyczącego związków chemicznych, zwanym dalej ŃWykazem 2”, jest dopuszczalny tylko izpaństw będących Stronami Konwencji.
+1. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie nr 2 Załącznika do Konwencji dotyczącego związków chemicznych, zwanym dalej „Wykazem 2”, jest dopuszczalny tylko do i z państw będących Stronami Konwencji.
 
-2. Eksport, import i tranzyt przez polski obszar celny toksycznych związków chemicznych iich prekursorów, wymienionych wWykazie nr 3 Załącznika Konwencji dotyczącego związków chemicznych, zwanym dalej ŃWykazem 3”, jest dopuszczalny tylko i państw będących Stronami Konwencji, zastrzeżeniem ust. 3.
+2. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie nr 3 Załącznika do Konwencji dotyczącego związków chemicznych, zwanym dalej „Wykazem 3”, jest dopuszczalny tylko do i z państw będących Stronami Konwencji, z zastrzeżeniem ust. 3.
 
-3. Eksport, import i tranzyt przez polski obszar celny toksycznych związków chemicznych iich prekursorów, wymienionych Wykazie 3, państw będących Stronami Konwencji jest dopuszczalny i państw niebędących Stronami Konwencji, ztym że wprzypadku eksportu itranzytu tych państw warunkiem jego dopuszczenia jest dostarczenie oświadczenia końcowego użytkownika, wydanego przez właściwe władze tych państw.
+3. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 3, z państw będących Stronami Konwencji jest dopuszczalny do i z państw niebędących Stronami Konwencji, z tym że w przypadku eksportu i tranzytu do tych państw warunkiem jego dopuszczenia jest dostarczenie oświadczenia końcowego użytkownika, wydanego przez właściwe władze tych państw.
 
-4. Oświadczenie, o którym mowa ust. 3, powinprowadzi krajowy system gromadzenia iprzetwarzania danych związanych zprowadzeniem działalności objętej postanowieniami Konwencji przygotowuje projekty deklaracji wymaganych przez Konwencję.
+4. Oświadczenie, o którym mowa w ust. 3, powinno zawierać dane określone w art. 23 ust. 4 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw.
 
-2. Projekty deklaracji, októrych mowa wust. 1, minister właściwy spraw gospodarki przekazuje ministrowi właściwemu spraw zagranicznych.
+#### Rozdział 4 Deklaracje i ich kontrola
+
+**Art. 13.**
+
+1. Minister właściwy do spraw gospodarki prowadzi krajowy system gromadzenia i przetwarzania danych związanych z prowadzeniem działalności objętej postanowieniami Konwencji oraz przygotowuje projekty deklaracji wymaganych przez Konwencję.
+
+2. Projekty deklaracji, o których mowa w ust. 1, minister właściwy do spraw gospodarki przekazuje ministrowi właściwemu do spraw zagranicznych.
 
 **Art. 14.**
 
-1. Podmioty iprzedsiębiorcy, októrych mowa wart. 2, prowadzący działalność zwykorzystaniem toksycznych związków chemicznych iich prekursorów, objętych postanowieniami Konwencji, są obowiązani przekazywać ministrowi właściwemu spraw gospodarki informacje otej działalności, związane z:
+1. Podmioty i przedsiębiorcy, o których mowa w art. 2, prowadzący działalność z wykorzystaniem toksycznych związków chemicznych i ich prekursorów, objętych postanowieniami Konwencji, są obowiązani przekazywać ministrowi właściwemu do spraw gospodarki informacje o tej działalności, związane z:
 
-- **1)** produkcją, wytwarzaniem, zużyciem, przetwarzaniem, nabywaniem, gromadzeniem, przechowywaniem, zbywaniem, przekazywaniem i używaniem związków chemicznych wymienionych Wykazie 1, uwzględnieniem postanowień części VI Załącznika Konwencji dotyczącego stosowania Konwencji iweryfikacji,
-- **2)** produkcją, zużyciem, przetwarzaniem obrotem związkami chemicznymi wymienionymi Wykazie2, zuwzględnieniem postanowień części VII Załącznika Konwencji dotyczącego stosowania Konwencji iweryfikacji,
-- **3)** produkcją obrotem związkami chemicznymi wymienionymi wWykazie 3, zuwzględnieniem postanowień części VIII Załącznika Konwencji dotyczącego stosowania Konwencji iweryfikacji,
-- **4)** produkcją określonych organicznych związków chemicznych niewymienionych Wykazie 1, Wykazie 2 iWykazie 3, zuwzględnieniem postanowień części IX Załącznika Konwencji dotyczącego stosowania Konwencji iweryfikacji,
-- **5)** obrotem zagranicą toksycznymi związkami chemicznymi i ich prekursorami, wymienionymi wWykazie 1, Wykazie 2 iWykazie 3,
+- **1)** produkcją, wytwarzaniem, zużyciem, przetwarzaniem, nabywaniem, gromadzeniem, przechowywaniem, zbywaniem, przekazywaniem i używaniem związków chemicznych wymienionych w Wykazie 1, z uwzględnieniem postanowień części VI Załącznika do Konwencji dotyczącego stosowania Konwencji i weryfikacji;
+- **2)** produkcją, zużyciem, przetwarzaniem lub obrotem związkami chemicznymi wymienionymi w Wykazie 2, z uwzględnieniem postanowień części VII Załącznika do Konwencji dotyczącego stosowania Konwencji i weryfikacji;
+- **3)** produkcją lub obrotem związkami chemicznymi wymienionymi w Wykazie 3, z uwzględnieniem postanowień części VIII Załącznika do Konwencji dotyczącego stosowania Konwencji i weryfikacji;
+- **4)** produkcją określonych organicznych związków chemicznych niewymienionych w Wykazie 1, Wykazie 2 i Wykazie 3, z uwzględnieniem postanowień części IX Załącznika do Konwencji dotyczącego stosowania Konwencji i weryfikacji;
+- **5)** obrotem z zagranicą toksycznymi związkami chemicznymi i ich prekursorami, wymienionymi w Wykazie 1, Wykazie 2 i Wykazie 3;
 - **6)** posiadaniem chemicznych środków policyjnych.
 
-2. Podmioty i przedsiębiorcy, o których mowa art. 2, są obowiązani przekazywać każdego roku informacje, októrych mowa wust. 1, wterminach:
+2. Podmioty i przedsiębiorcy, o których mowa w art. 2, są obowiązani przekazywać każdego roku informacje, o których mowa w ust. 1, w terminach:
 
-- **1)** dnia 30 września wprzypadku informacji, które dotyczą działalności planowanej następnym roku kalendarzowym,
-- **2)** dnia 28 lutego wprzypadku informacji, które dotyczą działalności prowadzonej poprzednim roku kalendarzowym. cje odziałalności zwykorzystaniem związków chemicznych i ich prekursorów objętych postanowieniami Konwencji,
+- **1)** do dnia 30 września – w przypadku informacji, które dotyczą działalności planowanej w następnym roku kalendarzowym;
+- **2)** do dnia 28 lutego – w przypadku informacji, które dotyczą działalności prowadzonej w poprzednim roku kalendarzowym.
+
+3. Informacje, o których mowa w ust. 1, powinny być prawdziwe, rzetelne i wyczerpujące oraz powinny spełniać wymogi określone w Konwencji.
+
+4. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw zagranicznych oraz Ministrem Obrony Narodowej, określi, w drodze rozporządzenia, szczegółowe dane, jakie powinny zawierać informacje, o których mowa w ust. 1. Rozporządzenie to określi w szczególności:
+
+- **1)** wzory deklaracji, które powinny zawierać informacje o działalności z wykorzystaniem związków chemicznych i ich prekursorów objętych postanowieniami Konwencji;
 - **2)** tryb i terminy przekazywania informacji dla celów przygotowania deklaracji.
 
 **Art. 15.**
 
-1. Informacje, o których mowa art. 14 ust.1—3, podlegają kontroli.
+1. Informacje, o których mowa w art. 14 ust. 1–3, podlegają kontroli.
 
-2. Organem właściwym wsprawach kontroli, októrej mowa wust. 1, jest minister właściwy spraw gospodarki, zwyjątkiem jednostek ikomórek organizacyjnych podporządkowanych Ministrowi Obrony Narodowej przez niego nadzorowanych, atakże przedsiębiorstw państwowych, dla których jest on organem założycielskim.
+2. Organem właściwym w sprawach kontroli, o której mowa w ust. 1, jest minister właściwy do spraw gospodarki, z wyjątkiem jednostek i komórek organizacyjnych podporządkowanych Ministrowi Obrony Narodowej oraz przez niego nadzorowanych, a także przedsiębiorstw państwowych, dla których jest on organem założycielskim.
 
-3. W jednostkach i komórkach organizacyjnych podporządkowanych Ministrowi Obrony Narodowej przez niego nadzorowanych, a także przedsiębiorstwach państwowych, dla których jest on organem założycielskim, kontrolę, o której mowa ust. 1, prowadzi Minister Obrony Narodowej.
+3. W jednostkach i komórkach organizacyjnych podporządkowanych Ministrowi Obrony Narodowej oraz przez niego nadzorowanych, a także w przedsiębiorstwach państwowych, dla których jest on organem założycielskim, kontrolę, o której mowa w ust. 1, prowadzi Minister Obrony Narodowej.
 
-4. Do kontroli, o której mowa ust. 1, stosuje się odpowiednio przepisy ustawy dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. 1999 r. 54, poz. 572 i 83, poz. 931, 2000 r. 70, poz. 816, Nr104, poz.1103 i 116, poz. 1216 z2001 r. Nr14, poz. 143) dotyczące postępowania kontrolnego przepisy art. 29—31 ustawy zdnia 29 listopada 2000 r. o obrocie zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa o zmianie niektórych ustaw. 5 Działalność inspekcyjna
+4. Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm. ) dotyczące kontroli celno-skarbowej oraz przepisy art. 29– 31 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw.
 
-**Art. 16.** Zespół inspekcyjny, granicach zadań określonych Załączniku Konwencji dotyczącym jej stosowania iweryfikacji, jest uprawniony do:
+#### Rozdział 5 Działalność inspekcyjna
+
+**Art. 16.** Zespół inspekcyjny, w granicach zadań określonych w Załączniku do Konwencji dotyczącym jej stosowania i weryfikacji, jest uprawniony do:
 
 **Art. 17.**
 
-1. Zespołowi inspekcyjnemu towarzyszy zespół eskortujący, powołany przez ministra właściwego ze względu na inspekcjonowany obiekt, wuzgodnieniu zministrem właściwym spraw zagranicznych.
+1. Zespołowi inspekcyjnemu towarzyszy zespół eskortujący, powołany przez ministra właściwego ze względu na inspekcjonowany obiekt, w uzgodnieniu z ministrem właściwym do spraw zagranicznych.
 
-2. Uprawnienia członków zespołu inspekcyjnego, o których mowa art. 16, przysługują odpowiednio członkom zespołu eskortującego.
+2. Uprawnienia członków zespołu inspekcyjnego, o których mowa w art. 16, przysługują odpowiednio członkom zespołu eskortującego.
 
 **Art. 18.**
 
-1. Podczas prowadzenia inspekcji kontrolowane podmioty i przedsiębiorcy, o których mowa art. 2, są obowiązani wobec zespołu inspekcyjnego izespołu eskortującego do:
+1. Podczas prowadzenia inspekcji kontrolowane podmioty i przedsiębiorcy, o których mowa w art. 2, są obowiązani wobec zespołu inspekcyjnego i zespołu eskortującego do:
 
-- **1)** udostępnienia obiektów i urządzeń, których jest prowadzona działalność wykorzystaniem związków chemicznych i ich prekursorów objętych postanowieniami Konwencji,
-- **2)** obecności podczas inspekcji,
-- **3)** udzielania niezbędnych informacji i umożliwienia wglądu dokumenty i rejestry dotyczące zakresu kontroli,
-- **4)** sporządzania kopii żądanych dokumentów i rejestrów,
-- **5)** pobierania próbek albo współdziałania pobieraniu próbek,
-- **6)** umożliwienia zespołowi inspekcyjnemu korzystania ze środków łączności oraz, oile jest to możliwe, innych urządzeń znajdujących się kontrolowanym obiekcie,
-- **7)** zapewnienia odpowiednich warunków pracy, tym samodzielnych pomieszczeń i miejsc przechowywania dokumentów.
+- **1)** udostępnienia obiektów i urządzeń, w których jest prowadzona działalność z wykorzystaniem związków chemicznych i ich prekursorów objętych postanowieniami Konwencji;
+- **2)** obecności podczas inspekcji;
+- **3)** udzielania niezbędnych informacji i umożliwienia wglądu w dokumenty i rejestry dotyczące zakresu kontroli;
+- **4)** sporządzania kopii żądanych dokumentów i rejestrów;
+- **5)** pobierania próbek albo współdziałania w pobieraniu próbek;
+- **6)** umożliwienia zespołowi inspekcyjnemu korzystania ze środków łączności oraz, o ile jest to możliwe, z innych urządzeń znajdujących się w kontrolowanym obiekcie;
+- **7)** zapewnienia odpowiednich warunków do pracy, w tym samodzielnych pomieszczeń i miejsc do przechowywania dokumentów.
 
-2. Podczas prowadzenia inspekcji stosuje się odpowiednio przepisy art. 17 ust. 2, 3 i 5 ustawy dnia 28września 1991 r. okontroli skarbowej.
+2. (uchylony)
 
-**Art. 19.** Podczas prowadzenia inspekcji kontrolowane podmioty i przedsiębiorcy, o których mowa wart. 2, mają prawo do:
+**Art. 19.** Podczas prowadzenia inspekcji kontrolowane podmioty i przedsiębiorcy, o których mowa w art. 2, mają prawo do:
 
-**Art. 21.** Rada Ministrów określi, wdrodze rozporządzenia, szczegółowy tryb przyjmowania inspekcji Organizacji na terytorium Rzeczypospolitej Polskiej. Rozporządzenie to określi wszczególności:
+**Art. 20.**
+
+1. Koszty związane z przeprowadzeniem inspekcji są ponoszone ze środków budżetu państwa, które zapewniają właściwi dysponenci odpowiednich części budżetu.
+
+2. Ministrowie właściwi ze względu na prowadzone inspekcje przedstawiają ministrowi właściwemu do spraw zagranicznych wniosek o refundację poniesionych kosztów, który jest przekazywany do Organizacji do spraw Zakazu Broni Chemicznej, zwanej dalej „Organizacją”.
+
+**Art. 21.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb przyjmowania inspekcji Organizacji na terytorium Rzeczypospolitej Polskiej. Rozporządzenie to określi w szczególności:
+
+#### Rozdział 6 Ochrona informacji
 
 **Art. 22.**
 
-1. Informacje uzyskane wzwiązku zrealizacją postanowień Konwencji, oznaczone klauzulą ŃOPCW restricted”, podlegają ochronie i są udostępniane na zasadach określonych ustawie dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz.U. 11, poz. 95, z2000 r. 12, poz. 136 i 39, poz. 462 2001 r. 22, poz. 247, 27, poz. 298 i 56, poz. 580), dla informacji niejawnych opatrzonych klauzulą Ńzastrzeżone”.
+1. Informacje uzyskane w związku z realizacją postanowień Konwencji, oznaczone klauzulą „OPCW restricted”, podlegają ochronie i są udostępniane na zasadach określonych w przepisach o ochronie informacji niejawnych, dla informacji niejawnych o klauzuli tajności „zastrzeżone”.
 
-2. Informacje uzyskane związku realizacją postanowień Konwencji, oznaczone klauzulą ŃOPCW protected”, podlegają ochronie isą udostępniane na zasadach określonych ustawie, o której mowa ust. 1, dla informacji niejawnych opatrzonych klauzulą Ńpoufne”.
+2. Informacje uzyskane w związku z realizacją postanowień Konwencji, oznaczone klauzulą „OPCW protected”, podlegają ochronie i są udostępniane na zasadach określonych w przepisach, o których mowa w ust. 1, dla informacji niejawnych o klauzuli tajności „poufne”.
 
-3. Informacje uzyskane związku realizacją postanowień Konwencji, oznaczone klauzulą ŃOPCW highly protected”, podlegają ochronie isą udostępniane na zasadach określonych wustawie, októrej mowa Kompetencje organów administracji publicznej
+3. Informacje uzyskane w związku z realizacją postanowień Konwencji, oznaczone klauzulą „OPCW highly protected”, podlegają ochronie i są udostępniane na zasadach określonych w przepisach, o których mowa w ust. 1, dla informacji niejawnych o klauzuli tajności „tajne”.
+
+4. Informacje uzyskane od podmiotów i przedsiębiorców, o których mowa w art. 2, w związku z obowiązkiem ustanowionym w art. 14, oraz oznaczone odpowiednimi klauzulami, podlegają ochronie i są udostępniane na zasadach określonych w przepisach, o których mowa w ust. 1, odpowiednio do przyznanej klauzuli tajności.
+
+#### Rozdział 7 Kompetencje organów administracji publicznej
 
 **Art. 23.**
 
-1. Funkcje Organu Krajowego, o którym mowa Konwencji, wykonuje minister właściwy spraw zagranicznych.
+1. Funkcje Organu Krajowego, o którym mowa w Konwencji, wykonuje minister właściwy do spraw zagranicznych.
 
-2. Do zadań ministra właściwego spraw zagranicznych, jako Organu Krajowego, należy:
+2. Do zadań ministra właściwego do spraw zagranicznych, jako Organu Krajowego, należy:
 
-- **1)** opracowywanie irealizacja założeń polityki Rzeczypospolitej Polskiej wobec Organizacji,
-- **2)** utrzymywanie kontaktów zOrganizacją zinnymi państwami będącymi Stronami Konwencji sprawach związanych realizacją jej postanowień,
-- **3)** współuczestniczenie przyjmowaniu inspekcji Organizacji na terytorium Rzeczypospolitej Polskiej,
-- **4)** koordynowanie działań podejmowanych na terytorium Rzeczypospolitej Polskiej związku wykonywaniem zobowiązań wynikających Konwencji,
-- **5)** udzielanie państwom będącym Stronami Konwencji, porozumieniu Ministrem Obrony Narodowej, za pośrednictwem Organizacji, pomocy innym przypadku zagrożenia użyciem użycia przeciwko nim broni chemicznej, zgodnie postanowieniami Konwencji.
+- **1)** opracowywanie i realizacja założeń polityki Rzeczypospolitej Polskiej wobec Organizacji;
+- **2)** utrzymywanie kontaktów z Organizacją oraz z innymi państwami będącymi Stronami Konwencji w sprawach związanych z realizacją jej postanowień;
+- **3)** współuczestniczenie w przyjmowaniu inspekcji Organizacji na terytorium Rzeczypospolitej Polskiej;
+- **4)** koordynowanie działań podejmowanych na terytorium Rzeczypospolitej Polskiej w związku z wykonywaniem zobowiązań wynikających z Konwencji;
+- **5)** udzielanie państwom będącym Stronami Konwencji, w porozumieniu z Ministrem Obrony Narodowej, za pośrednictwem Organizacji, pomocy innym w przypadku zagrożenia użyciem lub użycia przeciwko nim broni chemicznej, zgodnie z postanowieniami Konwencji.
 
 **Art. 24.**
 
-1. Minister właściwy spraw gospodarki nadzoruje działalność związaną realizacją postanowień Konwencji na terytorium Rzeczypospolitej Polskiej.
+1. Minister właściwy do spraw gospodarki nadzoruje działalność związaną z realizacją postanowień Konwencji na terytorium Rzeczypospolitej Polskiej.
 
-2. Nadzorując działalność, o której mowa ust. 1, minister właściwy spraw gospodarki:
+2. Nadzorując działalność, o której mowa w ust. 1, minister właściwy do spraw gospodarki:
 
-- **1)** prowadzi krajowy system gromadzenia i przetwarzania danych związanych działalnością, o której mowa art. 5—12, a także przygotowuje projekty deklaracji wymaganych przez Konwencję przekazuje je ministrowi właściwemu spraw zagranicznych,
-- **2)** kontroluje działalność podmiotów i przedsiębiorców, o których mowa art. 2, sferze realizacji Konwencji na terytorium Rzeczypospolitej Polskiej, wyłączeniem jednostek i komórek organizacyjnych podporządkowanych Ministrowi Obrony Narodowej przez niego nadzorowanych, a także przedsiębiorstw państwowych, dla których jest on organem założycielskim; szczególności zapewnia kontrolę obrotu zagranicą toksycznymi związkami chemicznymi i ich prekursocji Organizacji na terytorium Rzeczypospolitej Polskiej, zwyłączeniem jednostek ikomórek organizacyjnych podporządkowanych Ministrowi Obrony Narodowej przez niego nadzorowanych, atakże przedsiębiorstw państwowych, dla których jest on organem założycielskim, jak również organów ijednostek organizacyjnych podległych inadzorowanych przez ministra właściwego spraw wewnętrznych.
+- **1)** prowadzi krajowy system gromadzenia i przetwarzania danych związanych z działalnością, o której mowa w art. 5–12, a także przygotowuje projekty deklaracji wymaganych przez Konwencję oraz przekazuje je ministrowi właściwemu do spraw zagranicznych;
+- **2)** kontroluje działalność podmiotów i przedsiębiorców, o których mowa w art. 2, w sferze realizacji Konwencji na terytorium Rzeczypospolitej Polskiej, z wyłączeniem jednostek i komórek organizacyjnych podporządkowanych Ministrowi Obrony Narodowej oraz przez niego nadzorowanych, a także przedsiębiorstw państwowych, dla których jest on organem założycielskim; w szczególności zapewnia kontrolę obrotu z zagranicą toksycznymi związkami chemicznymi i ich prekursorami, wymienionymi w Wykazie 1, Wykazie 2 i Wykazie 3;
+- **3)** zapewnia, we współpracy z Ministrem Obrony Narodowej, możliwość prowadzenia analiz chemicznych związanych z realizacją postanowień Konwencji;
+- **4)** prowadzi, we współpracy z ministrem właściwym do spraw zagranicznych, Ministrem Obrony Narodowej oraz ministrem właściwym do spraw wewnętrznych, działalność związaną z przygotowywaniem, przyjmowaniem i prowadzeniem inspekcji Organizacji na terytorium Rzeczypospolitej Polskiej, z wyłączeniem jednostek i komórek organizacyjnych podporządkowanych Ministrowi Obrony Narodowej oraz przez niego nadzorowanych, a także przedsiębiorstw państwowych, dla których jest on organem założycielskim, jak również organów i jednostek organizacyjnych podległych i nadzorowanych przez ministra właściwego do spraw wewnętrznych.
 
 **Art. 25.**
 
-1. Minister Obrony Narodowej zapewnia realizację postanowień Konwencji przez jednostki ikomórki organizacyjne jemu podporządkowane przez niego nadzorowane, a także przedsiębiorstwa państwowe, dla których jest on organem założycielskim, poprzez:
+1. Minister Obrony Narodowej zapewnia realizację postanowień Konwencji przez jednostki i komórki organizacyjne jemu podporządkowane oraz przez niego nadzorowane, a także przedsiębiorstwa państwowe, dla których jest on organem założycielskim, poprzez:
 
-- **1)** kontrolowanie realizacji postanowień Konwencji,
-- **2)** zapewnianie, we współpracy ministrem właściwym spraw gospodarki, możliwości prowadzenia analiz chemicznych związanych zrealizacją postanowień Konwencji,
-- **3)** prowadzenie, we współpracy ministrem właściwym spraw zagranicznych, ministrem właściwym spraw gospodarki ministrem właściwym spraw wewnętrznych, działalności związanej przygotowywaniem, przyjmowaniem i prowadzeniem inspekcji Organizacji.
+- **1)** kontrolowanie realizacji postanowień Konwencji;
+- **2)** zapewnianie, we współpracy z ministrem właściwym do spraw gospodarki, możliwości prowadzenia analiz chemicznych związanych z realizacją postanowień Konwencji;
+- **3)** prowadzenie, we współpracy z ministrem właściwym do spraw zagranicznych, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw wewnętrznych, działalności związanej z przygotowywaniem, przyjmowaniem i prowadzeniem inspekcji Organizacji.
 
-2. Minister Obrony Narodowej może wydzielać, na wniosek ministra właściwego spraw zagranicznych, ramach posiadanych sił i środków przeznaczonych obrony przed bronią chemiczną, ich część celu udzielenia, za pośrednictwem Organizacji, pomocy innym państwom będącym Stronami Konwencji, wprzypadku zagrożenia użyciem użycia przeciwko nim broni chemicznej.
+2. Minister Obrony Narodowej może wydzielać, na wniosek ministra właściwego do spraw zagranicznych, w ramach posiadanych sił i środków przeznaczonych do obrony przed bronią chemiczną, ich część w celu udzielenia, za pośrednictwem Organizacji, pomocy innym państwom będącym Stronami Konwencji, w przypadku zagrożenia użyciem lub użycia przeciwko nim broni chemicznej.
 
 **Art. 26.**
 
-1. Minister właściwy spraw wewnętrznych sprawuje kontrolę realizacji postanowień Konwencji podległych mu i nadzorowanych przez niego organach i jednostkach organizacyjnych, a także określa zadania tych organów i jednostek tym zakresie.
+1. Minister właściwy do spraw wewnętrznych sprawuje kontrolę realizacji postanowień Konwencji w podległych mu i nadzorowanych przez niego organach i jednostkach organizacyjnych, a także określa zadania tych organów i jednostek w tym zakresie.
 
-2. Minister właściwy spraw wewnętrznych zapewnia:
+2. Minister właściwy do spraw wewnętrznych zapewnia:
 
-- **1)** przeprowadzanie kontroli granicznej zespołów inspekcyjnych według zasad przyjętych dla personelu dyplomatycznego wyznaczonych przejściach granicznych,
-- **2)** bezpieczeństwo członkom zespołów inspekcyjnych czasie pobytu na terytorium Rzeczypospolitej Przepisy karne
+- **1)** przeprowadzanie kontroli granicznej zespołów inspekcyjnych według zasad przyjętych dla personelu dyplomatycznego w wyznaczonych przejściach granicznych;
+- **2)** bezpieczeństwo członkom zespołów inspekcyjnych w czasie pobytu na terytorium Rzeczypospolitej Polskiej oraz w czasie przemieszczania się;
+- **3)** prowadzenie, we współpracy z ministrem właściwym do spraw zagranicznych i ministrem właściwym do spraw gospodarki, działalności związanej z przygotowaniem, przyjmowaniem i prowadzeniem inspekcji Organizacji w podległych mu i nadzorowanych przez niego jednostkach organizacyjnych.
 
-**Art. 27.** Kto używa chemicznych środków policyjnych jako środka prowadzenia działań wojennych, podlega karze pozbawienia wolności od roku lat10.
+#### Rozdział 8 Przepisy karne
+
+**Art. 27.** Kto używa chemicznych środków policyjnych jako środka prowadzenia działań wojennych, podlega karze pozbawienia wolności od roku do lat 10.
 
 **Art. 28.**
 
-1. Kto bez wymaganego pozwolenia wbrew jego warunkom, celach niezabronionych przez Konwencję, produkuje, wytwarza, przetwarza, nabywa, gromadzi, przechowuje, zbywa, przekazuje, używa posiada toksyczne związki chemiczne ich prekursory, wymienione wWykazie 1, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy lat5.
+1. Kto bez wymaganego pozwolenia lub wbrew jego warunkom, w celach niezabronionych przez Konwencję, produkuje, wytwarza, przetwarza, nabywa, gromadzi, przechowuje, zbywa, przekazuje, używa lub posiada toksyczne związki chemiczne lub ich prekursory, wymienione w Wykazie 1, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy do lat 5.
 
-2. Tej samej karze podlega, kto toksyczne związki chemiczne ich prekursory, wymienione Wykazie1, przekazuje osobie nieuprawnionej.
+2. Tej samej karze podlega, kto toksyczne związki chemiczne lub ich prekursory, wymienione w Wykazie 1, przekazuje osobie nieuprawnionej.
 
-**Art. 29.** Kto bez wymaganego zezwolenia wbrew jego warunkom dokonuje obrotu zagranicą toksycznymi związkami chemicznymi ich prekursorami, wymienionymi wWykazie 1, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy lat5.
+**Art. 29.** Kto bez wymaganego zezwolenia lub wbrew jego warunkom dokonuje obrotu z zagranicą toksycznymi związkami chemicznymi lub ich prekursorami, wymienionymi w Wykazie 1, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy do lat 5.
 
 **Art. 30.**
 
-1. Kto nie dopełnia obowiązku informowania uprawnionego organu bądê udziela informacji nieprawdziwych o prowadzonej działalności związanej zwykorzystaniem toksycznych związków chemicznych ich prekursorów, objętych postanowieniami Konwencji, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy lat5.
+1. Kto nie dopełnia obowiązku informowania uprawnionego organu bądź udziela informacji nieprawdziwych o prowadzonej działalności związanej z wykorzystaniem toksycznych związków chemicznych lub ich prekursorów, objętych postanowieniami Konwencji, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy do lat 5.
 
-2. Jeżeli sprawca czynu określonego ust. 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności roku.
+2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
 
-**Art. 31.** Kto odmawia dopuszczenia zespołu inspekcyjnego zespołu eskortującego kontrolowanego obiektu, udziela nieprawdziwych informacji członkom tych zespołów albo inny sposób uniemożliwia utrudnia przeprowadzenie inspekcji, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności lat 3.
+**Art. 31.** Kto odmawia dopuszczenia zespołu inspekcyjnego lub zespołu eskortującego do kontrolowanego obiektu, udziela nieprawdziwych informacji członkom tych zespołów albo w inny sposób uniemożliwia lub utrudnia przeprowadzenie inspekcji, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 3.
 
-**Art. 32.** W razie skazania za przestępstwo określoPrzepisy przejściowe ikońcowe sięcy od dnia ogłoszenia.
+**Art. 32.** W razie skazania za przestępstwo określone w art. 27–29 sąd może orzec przepadek towarów, technologii oraz innych przedmiotów służących lub przeznaczonych do popełnienia przestępstwa albo pochodzących bezpośrednio lub pośrednio z przestępstwa, nie wyłączając środków płatniczych, papierów wartościowych i wartości dewizowych oraz innych korzyści majątkowych, chociażby nie stanowiły one własności sprawcy.
 
-**Art. 33.** Podmioty i przedsiębiorcy prowadzący wdniu wejścia wżycie ustawy działalność bez pozwo- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 813 USTAWA zdnia 22 czerwca 2001 r. ozmianie ustawy ozamówieniach publicznych.
+#### Rozdział 9 Przepisy przejściowe i końcowe
 
-**Art. 1.** Wustawie zdnia 10 czerwca 1994 r. ozamówieniach publicznych (Dz. U. z1998 r. 119, poz. 773, z1999 r. 45, poz. 437, z2000 r. 12, poz. 136, 93, poz. 1027 i 110, poz. 1167 2001 r. 56, poz.580) wprowadza się następujące zmiany:
+**Art. 33.** Podmioty i przedsiębiorcy prowadzący w dniu wejścia w życie ustawy działalność bez pozwolenia, o którym mowa w art. 6 ust. 1, mogą w terminie 30 dni od dnia wejścia w życie ustawy wystąpić do właściwego organu o wydanie wymaganego pozwolenia.
+
+**Art. 34.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
 

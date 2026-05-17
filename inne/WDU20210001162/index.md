@@ -8,9 +8,12 @@ pos: 1162
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 czerwca 2021 r.
+# o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny
+
+*USTAWA z dnia 24 czerwca 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +27,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001162) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1162/text.pdf) |
 
-USTAWA z dnia 24 czerwca 2021 r.
-o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320) wprowadza się następujące zmiany:
-
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm. ) art. 411:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm. ) art. 411:
 
 **Art. 3.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2020 r. poz. 111) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2021 r. poz. 1100) po art. 10 dodaje się art. 10a brzmieniu: „Art. 10a. Przepisów art. 37 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735) nie stosuje się sprawach:
+**Art. 4.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2021 r. poz. 1100) po art. 10 dodaje się art. 10a brzmieniu: „Art. 10a. Przepisów art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735) nie stosuje się sprawach:
 
 **Art. 5.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2021 r. poz. 877) wprowadza się następujące zmiany:
 
@@ -63,21 +63,21 @@ o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny
 
 **Art. 15.**
 
-1. Przepis art. 21 5 ustawy zmienianej art. 3 zakresie, jakim istniejące rozwiązania techniczne nie umożliwiają wojewodzie odbioru i obsługi przekazywanych przez organy właściwe dokumentów, o których mowa tym przepisie ma zastosowanie po raz pierwszy po wdrożeniu rozwiązań technicznych umożliwiających odbiór i obsługę dokumentów.
+1. Przepis art. 21 5 ustawy zmienianej art. 3 – zakresie, jakim istniejące rozwiązania techniczne nie umożliwiają wojewodzie odbioru i obsługi przekazywanych przez organy właściwe dokumentów, o których mowa tym przepisie – ma zastosowanie po raz pierwszy po wdrożeniu rozwiązań technicznych umożliwiających odbiór i obsługę dokumentów.
 
 2. Przepis art. 21 6 ustawy zmienianej art. 3 ma zastosowanie po raz pierwszy po wdrożeniu rozwiązań technicznych umożliwiających ministrowi właściwemu do spraw zabezpieczenia społecznego odbiór i obsługę przekazywanych przez wojewodów dokumentów, o których mowa tym przepisie.
 
-3. Przepis art. 11 5 ustawy zmienianej art. 8 zakresie, jakim istniejące rozwiązania techniczne nie umożliwiają wojewodzie odbioru i obsługi przekazywanych przez organy właściwe dokumentów, o których mowa tym przepisie ma zastosowanie po raz pierwszy po wdrożeniu rozwiązań technicznych umożliwiających odbiór i obsługę dokumentów.
+3. Przepis art. 11 5 ustawy zmienianej art. 8 – zakresie, jakim istniejące rozwiązania techniczne nie umożliwiają wojewodzie odbioru i obsługi przekazywanych przez organy właściwe dokumentów, o których mowa tym przepisie – ma zastosowanie po raz pierwszy po wdrożeniu rozwiązań technicznych umożliwiających odbiór i obsługę dokumentów.
 
 4. Przepis art. 11 6 ustawy zmienianej art. 8 ma zastosowanie po raz pierwszy po wdrożeniu rozwiązań technicznych umożliwiających ministrowi właściwemu do spraw zabezpieczenia społecznego odbiór i obsługę przekazywanych przez wojewodów dokumentów, o których mowa tym przepisie.
 
-5. Minister właściwy do spraw rodziny ogłasza, drodze obwieszczenia, Dzienniku Rzeczypospolitej Polskiej termin wdrożenia rozwiązań technicznych, o których mowa 1–4.
+5. Minister właściwy do spraw rodziny ogłasza, drodze obwieszczenia, Dzienniku Ustaw Rzeczypospolitej Polskiej termin wdrożenia rozwiązań technicznych, o których mowa 1–4.
 
 6. Do czasu wdrożenia rozwiązań technicznych, o których mowa 2 i 4, komunikacja między wojewodą a ministrem właściwym do spraw zabezpieczenia społecznego zakresie, o którym mowa tych przepisach, odbywa się za pomocą elektronicznych skrzynek podawczych.
 
-7. Do czasu wdrożenia rozwiązań technicznych, o których mowa 1 i 3, komunikacja między organem właściwym a wojewodą zakresie, jakim istniejące rozwiązania techniczne nie umożliwiają wojewodzie odbioru i obsługi przekazywanych przez organy właściwe dokumentów, o których mowa tych przepisach odbywa się za pomocą elektronicznych skrzynek podawczych. niniejszą ustawą mają zastosowanie po raz pierwszy po wdrożeniu rozwiązań technicznych umożliwiających organom właściwym i wojewodom samodzielną weryfikację drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny, od organów emerytalno-rentowych informacji, o których mowa art. 23 8 pkt 1 lit. je ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą.
+7. Do czasu wdrożenia rozwiązań technicznych, o których mowa 1 i 3, komunikacja między organem właściwym a wojewodą – zakresie, jakim istniejące rozwiązania techniczne nie umożliwiają wojewodzie odbioru i obsługi przekazywanych przez organy właściwe dokumentów, o których mowa tych przepisach – odbywa się za pomocą elektronicznych skrzynek podawczych. niniejszą ustawą mają zastosowanie po raz pierwszy po wdrożeniu rozwiązań technicznych umożliwiających organom właściwym i wojewodom samodzielną weryfikację drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny, od organów emerytalno-rentowych informacji, o których mowa art. 23 8 pkt 1 lit. je ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą.
 
-2. Minister właściwy do spraw rodziny ogłasza, drodze obwieszczenia, Dzienniku Rzeczypospolitej Polskiej termin wdrożenia rozwiązań technicznych, o których mowa 1.
+2. Minister właściwy do spraw rodziny ogłasza, drodze obwieszczenia, Dzienniku Ustaw Rzeczypospolitej Polskiej termin wdrożenia rozwiązań technicznych, o których mowa 1.
 
 **Art. 17.**
 
@@ -85,7 +85,7 @@ o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny
 
 2. Przepis art. 15a 1 pkt 1a ustawy zmienianej art. 5 brzmieniu nadanym niniejszą ustawą ma zastosowanie po raz pierwszy po wdrożeniu rozwiązań technicznych umożliwiających organom właściwym wierzyciela, o których mowa ustawie zmienianej art. 5, samodzielne uzyskanie lub weryfikację drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny, od organów podatkowych lub ministra właściwego do spraw finansów publicznych informacji, o której mowa art. 15a 1 pkt 1a ustawy zmienianej art. 5 brzmieniu nadanym niniejszą ustawą.
 
-3. Minister właściwy do spraw rodziny ogłasza, drodze obwieszczenia, Dzienniku Rzeczypospolitej Polskiej termin wdrożenia rozwiązań technicznych, o których mowa 1 i 2.
+3. Minister właściwy do spraw rodziny ogłasza, drodze obwieszczenia, Dzienniku Ustaw Rzeczypospolitej Polskiej termin wdrożenia rozwiązań technicznych, o których mowa 1 i 2.
 
 **Art. 18.**
 
@@ -101,9 +101,9 @@ o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny
 
 **Art. 20.**
 
-1. Do ponagleń sprawach o świadczenia rodzinne realizowane związku z koordynacją systemów zabezpieczenia społecznego wniesionych na podstawie art. 37 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735) przed dniem wejścia życie art. 32 2 i 3 ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą, stosuje się przepisy dotychczasowe.
+1. Do ponagleń sprawach o świadczenia rodzinne realizowane związku z koordynacją systemów zabezpieczenia społecznego wniesionych na podstawie art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735) przed dniem wejścia życie art. 32 2 i 3 ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą, stosuje się przepisy dotychczasowe.
 
-2. Do ponagleń sprawach o świadczenie wychowawcze realizowane związku z koordynacją systemów zabezpieczenia społecznego wniesionych na podstawie art. 37 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego przed dniem wejścia życie art. 28 ustawy zmienianej art. 8 brzmieniu nadanym niniejszą ustawą, stosuje się przepisy dotychczasowe.
+2. Do ponagleń sprawach o świadczenie wychowawcze realizowane związku z koordynacją systemów zabezpieczenia społecznego wniesionych na podstawie art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego przed dniem wejścia życie art. 28 ustawy zmienianej art. 8 brzmieniu nadanym niniejszą ustawą, stosuje się przepisy dotychczasowe.
 
 **Art. 21.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 23 5 ustawy zmienianej art. 3 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 23 5 ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy.
 

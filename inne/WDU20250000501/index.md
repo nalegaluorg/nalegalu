@@ -8,9 +8,12 @@ pos: 501
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 kwietnia 2025 r.
+# o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa
+
+*USTAWA z dnia 25 czerwca 1999 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,16 +24,9 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-24 |
 | Data wydania | 2025-04-17 |
-| Ostatnia zmiana | 2026-04-02 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/501/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780), z uwzględnieniem zmian wprowadzonych ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 marca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 32 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871), który stanowi: „Art. 32. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 25 czerwca 1999 r.
-o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa
 Art. 71–80. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -45,7 +41,7 @@ Art. 71–80. (pominięte)
 
 **Art. 2a.**
 
-1. Świadczenia, o których mowa w art. 2 pkt 1, 2, 5 i 6, nie przysługują osobom prowadzącym pozarolniczą działalność i osobom z nimi współpracującym, osobom współpracującym z osobami fizycznymi, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222), duchownym będącym płatnikami składek na własne ubezpieczenia, w razie wystąpienia w dniu powstania prawa do świadczenia zadłużenia z tytułu składek na ubezpieczenia społeczne na kwotę przekraczającą 1 % minimalnego wynagrodzenia za pracę ustalonego na podstawie odrębnych przepisów, do czasu spłaty całości zadłużenia.
+1. Świadczenia, o których mowa w art. 2 pkt 1, 2, 5 i 6, nie przysługują osobom prowadzącym pozarolniczą działalność i osobom z nimi współpracującym, osobom współpracującym z osobami fizycznymi, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ), duchownym będącym płatnikami składek na własne ubezpieczenia oraz marynarzom, o których mowa w art. 6 ust. 1 pkt 24 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w razie wystąpienia w dniu powstania prawa do świadczenia zadłużenia z tytułu składek na ubezpieczenia społeczne na kwotę przekraczającą 1 % minimalnego wynagrodzenia za pracę ustalonego na podstawie odrębnych przepisów, do czasu spłaty całości zadłużenia.
 
 2. Prawo do świadczeń, o których mowa w art. 2 pkt 1, 2, 5 i 6, przedawnia się, jeżeli zadłużenie, o którym mowa w ust. 1, nie zostanie uregulowane w ciągu 6 miesięcy od dnia powstania prawa do świadczenia.
 
@@ -57,8 +53,8 @@ Art. 71–80. (pominięte)
 
 1. Ubezpieczony nabywa prawo do zasiłku chorobowego:
 
-- **1)** po upływie 30 dni nieprzerwanego ubezpieczenia chorobowego jeżeli podlega obowiązkowo temu ubezpieczeniu;
-- **2)** po upływie 90 dni nieprzerwanego ubezpieczenia chorobowego jeżeli jest ubezpieczony dobrowolnie.
+- **1)** po upływie 30 dni nieprzerwanego ubezpieczenia chorobowego – jeżeli podlega obowiązkowo temu ubezpieczeniu;
+- **2)** po upływie 90 dni nieprzerwanego ubezpieczenia chorobowego – jeżeli jest ubezpieczony dobrowolnie.
 
 2. Do okresów ubezpieczenia chorobowego, o których mowa w ust. 1, wlicza się poprzednie okresy ubezpieczenia chorobowego, jeżeli przerwa między nimi nie przekroczyła 30 dni lub była spowodowana urlopem wychowawczym, urlopem bezpłatnym albo odbywaniem czynnej służby wojskowej przez żołnierza niezawodowego.
 
@@ -68,7 +64,7 @@ Art. 71–80. (pominięte)
 - **2)** jeżeli niezdolność do pracy spowodowana została wypadkiem w drodze do pracy lub z pracy;
 - **3)** ubezpieczonym obowiązkowo, którzy mają wcześniejszy co najmniej 10-letni okres obowiązkowego ubezpieczenia chorobowego;
 - **4)** posłom i senatorom, którzy przystąpili do ubezpieczenia chorobowego w ciągu 90 dni od ukończenia kadencji;
-- **5)** funkcjonariuszom Służby Celnej, którzy przyjęli propozycję pracy na podstawie art. 165 ust. 7 i art. 167 ust. 2 ustawy z dnia 16 listopada 2016 r. Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948, z późn. zm. ) i stali się pracownikami w jednostkach organizacyjnych Krajowej Administracji Skarbowej.
+- **5)** funkcjonariuszom Służby Celnej, którzy przyjęli propozycję pracy na podstawie art. 165 ust. 7 i art. 167 ust. 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948, z późn. zm. ) i stali się pracownikami w jednostkach organizacyjnych Krajowej Administracji Skarbowej.
 
 **Art. 5.** (uchylony)
 
@@ -92,7 +88,7 @@ Art. 71–80. (pominięte)
 
 **Art. 8.**
 
-1. Zasiłek chorobowy przysługuje przez okres trwania niezdolności do pracy z powodu choroby lub niemożności wykonywania pracy z przyczyn określonych w art. 6 ust. 2 nie dłużej jednak niż przez 182 dni, a jeżeli niezdolność do pracy została spowodowana gruźlicą lub występuje w trakcie ciąży nie dłużej niż przez 270 dni.
+1. Zasiłek chorobowy przysługuje przez okres trwania niezdolności do pracy z powodu choroby lub niemożności wykonywania pracy z przyczyn określonych w art. 6 ust. 2 – nie dłużej jednak niż przez 182 dni, a jeżeli niezdolność do pracy została spowodowana gruźlicą lub występuje w trakcie ciąży – nie dłużej niż przez 270 dni.
 
 2. Za okres niezdolności do pracy lub niemożności wykonywania pracy z przyczyn określonych w art. 6 ust. 2 przypadający po ustaniu tytułu ubezpieczenia chorobowego zasiłek chorobowy przysługuje nie dłużej niż przez 91 dni. Nie dotyczy to niezdolności do pracy, o której mowa w art. 11 ust. 2 pkt 2, oraz spowodowanej gruźlicą lub występującej w trakcie ciąży.
 
@@ -102,7 +98,7 @@ Art. 71–80. (pominięte)
 
 2. Do okresu zasiłkowego wlicza się okresy poprzednich niezdolności do pracy, jeżeli przerwa pomiędzy ustaniem poprzedniej a powstaniem ponownej niezdolności do pracy nie przekraczała 60 dni. Do okresu zasiłkowego nie wlicza się okresów niezdolności do pracy przypadających przed przerwą nie dłuższą niż 60 dni, jeżeli po przerwie niezdolność do pracy wystąpiła w trakcie ciąży.
 
-3. Do okresu zasiłkowego nie wlicza się okresu niezdolności do pracy przypadającego w okresach, o których mowa w art. 4 ust. 1.
+3. Do okresu zasiłkowego nie wlicza się okresu niezdolności do pracy przypadającego w okresach, o których mowa w art. 4 ust. 1. <4. Niezależnie od liczby tytułów ubezpieczenia chorobowego ustala się jeden okres zasiłkowy. Dotyczy to również przypadku, o którym mowa w art. 17 ust. 1d.>
 
 **Art. 10.** (uchylony)
 
@@ -133,8 +129,8 @@ Art. 71–80. (pominięte)
 - **1)** urlopu bezpłatnego;
 - **2)** urlopu wychowawczego;
 - **3)** tymczasowego aresztowania lub odbywania kary pozbawienia wolności, z wyjątkiem przypadków, w których prawo do zasiłku wynika z ubezpieczenia chorobowego osób wykonujących odpłatnie pracę na podstawie skierowania do pracy w czasie odbywania kary pozbawienia wolności lub tymczasowego aresztowania;
-- **4)** usprawiedliwionej nieobecności w pracy, o której mowa w art. 63 § 8 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277);
-- **5)** urlopu opiekuńczego, o którym mowa w art. 173 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+- **4)** usprawiedliwionej nieobecności w pracy, o której mowa w art. 63 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277);
+- **5)** urlopu opiekuńczego, o którym mowa w art. 173 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 2a. Przepisu ust. 2 pkt 4 nie stosuje się, jeżeli niezdolność do pracy powstała do dnia śmierci pracodawcy i trwa nieprzerwanie po tym dniu.
 
@@ -166,11 +162,24 @@ Art. 71–80. (pominięte)
 
 **Art. 17.**
 
-1. Ubezpieczony wykonujący w okresie orzeczonej niezdolności do pracy pracę zarobkową lub wykorzystujący zwolnienie od pracy w sposób niezgodny z celem tego zwolnienia traci prawo do zasiłku chorobowego za cały okres tego zwolnienia.
+1. Ubezpieczony traci prawo do zasiłku chorobowego za cały okres zwolnienia od pracy, w przypadku gdy w okresie orzeczonej niezdolności do pracy:
+
+- **1)** wykonuje pracę zarobkową lub
+- **2)** podejmuje aktywność niezgodną z celem tego zwolnienia.
+
+1a. Pracą zarobkową, o której mowa w ust. 1 pkt 1, jest każda czynność mająca charakter zarobkowy, niezależnie od stosunku prawnego będącego podstawą jej wykonania, z wyłączeniem czynności incydentalnych, których podjęcia w okresie zwolnienia od pracy wymagają istotne okoliczności. Istotną okolicznością nie może być polecenie pracodawcy.
+
+1b. Aktywnością niezgodną z celem zwolnienia od pracy, o której mowa w ust. 1 pkt 2, są wszelkie działania utrudniające lub wydłużające proces leczenia lub rekonwalescencję, z wyłączeniem zwykłych czynności dnia codziennego lub czynności incydentalnych, których podjęcia w okresie zwolnienia od pracy wymagają istotne okoliczności.
+
+1c. W przypadku spełniania warunków podlegania ubezpieczeniom społecznym z co najmniej dwóch tytułów do tych ubezpieczeń niezdolność do pracy z powodu choroby dotyczy każdego z tych tytułów, dla których odrębnie wystawia się zwolnienie od pracy. <1d. Jeżeli jednak praca zarobkowa w ramach określonego tytułu może być wykonywana z uwagi na rodzaj tej pracy, na żądanie ubezpieczonego można nie wystawić zwolnienia od pracy z tego tytułu.
+
+1e. W przypadku, o którym mowa w ust. 1d, ubezpieczony jest obowiązany poinformować płatnika składek, o którym mowa w art. 61 ust. 1 pkt 1, o okresie, na który zostało mu wystawione zwolnienie od pracy z innego tytułu.>
 
 2. Zasiłek chorobowy nie przysługuje w przypadku, gdy zaświadczenie lekarskie zostało sfałszowane.
 
-3. Okoliczności, o których mowa w ust. 1 i 2, ustala się w trybie określonym w art. 68.
+3. (uchylony)
+
+4. Zasady określone w ust. 1–2 stosuje się odpowiednio do osoby uprawnionej do zasiłku chorobowego za okres po ustaniu tytułu ubezpieczenia chorobowego.
 
 #### Rozdział 3 Świadczenie rehabilitacyjne
 
@@ -178,15 +187,11 @@ Art. 71–80. (pominięte)
 
 1. Świadczenie rehabilitacyjne przysługuje ubezpieczonemu, który po wyczerpaniu zasiłku chorobowego jest nadal niezdolny do pracy, a dalsze leczenie lub rehabilitacja lecznicza rokują odzyskanie zdolności do pracy.
 
-2. Świadczenie rehabilitacyjne przysługuje przez okres niezbędny do przywrócenia zdolności do pracy, nie dłużej jednak niż przez 12 miesięcy.
-
-3. O okolicznościach, o których mowa w ust. 1 i 2, orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych.
-
-4. Od orzeczenia lekarza orzecznika ubezpieczonemu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych w terminie i na zasadach przewidzianych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+2. Świadczenie rehabilitacyjne przysługuje przez okres niezbędny do przywrócenia zdolności do pracy, nie dłużej jednak niż przez 12 miesięcy. [3. O okolicznościach, o których mowa w ust. 1 i 2, orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych.] <3. O okolicznościach, o których mowa w ust. 1 i 2, orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych. Orzeczenie lekarza orzecznika jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.> [4. Od orzeczenia lekarza orzecznika ubezpieczonemu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych w terminie i na zasadach przewidzianych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 5. Prezes Zakładu Ubezpieczeń Społecznych może zgłosić zarzut wadliwości orzeczenia lekarza orzecznika w terminie i na zasadach przewidzianych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-6. Orzeczenie lekarza orzecznika, od którego nie wniesiono sprzeciwu lub co do którego nie wniesiono zarzutu wadliwości, albo orzeczenie komisji lekarskiej Zakładu Ubezpieczeń Społecznych stanowi podstawę do wydania decyzji w sprawie świadczenia rehabilitacyjnego.
+6. Orzeczenie lekarza orzecznika, od którego nie wniesiono sprzeciwu lub co do którego nie wniesiono zarzutu wadliwości, albo orzeczenie komisji lekarskiej Zakładu Ubezpieczeń Społecznych stanowi podstawę do wydania decyzji w sprawie świadczenia rehabilitacyjnego.]
 
 7. Świadczenie rehabilitacyjne nie przysługuje osobie uprawnionej do emerytury lub renty z tytułu niezdolności do pracy, zasiłku dla bezrobotnych, zasiłku przedemerytalnego, świadczenia przedemerytalnego, rodzicielskiego świadczenia uzupełniającego, nauczycielskiego świadczenia kompensacyjnego oraz do urlopu dla poratowania zdrowia, udzielonego na podstawie odrębnych przepisów.
 
@@ -194,7 +199,7 @@ Art. 71–80. (pominięte)
 
 **Art. 19.**
 
-1. Świadczenie rehabilitacyjne wynosi 90 % podstawy wymiaru zasiłku chorobowego za okres pierwszych trzech miesięcy, 75 % tej podstawy za pozostały okres, a jeżeli niezdolność do pracy przypada w okresie ciąży 100 % tej podstawy.
+1. Świadczenie rehabilitacyjne wynosi 90 % podstawy wymiaru zasiłku chorobowego za okres pierwszych trzech miesięcy, 75 % tej podstawy za pozostały okres, a jeżeli niezdolność do pracy przypada w okresie ciąży – 100 % tej podstawy.
 
 2. Dla celów obliczenia świadczenia rehabilitacyjnego podstawa wymiaru zasiłku chorobowego przyjęta do obliczenia tego świadczenia podlega waloryzacji według następujących zasad:
 
@@ -229,9 +234,7 @@ Art. 71–80. (pominięte)
 - **1)** z dniem zakończenia rehabilitacji zawodowej i przesunięcia do innej pracy, nie później jednak niż po 24 miesiącach od dnia, w którym ubezpieczony będący pracownikiem podjął rehabilitację;
 - **2)** jeżeli z uwagi na stan zdrowia ubezpieczonego będącego pracownikiem rehabilitacja zawodowa stała się niecelowa.
 
-5. O okolicznościach, o których mowa w ust. 4 pkt 2, orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych.
-
-6. Do orzeczeń lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o których mowa w ust. 2 i 5, mają odpowiednie zastosowanie przepisy art. 18 ust. 4 i 5.
+5. O okolicznościach, o których mowa w ust. 4 pkt 2, orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych. [6. Do orzeczeń lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o których mowa w ust. 2 i 5, mają odpowiednie zastosowanie przepisy art. 18 ust. 4 i 5.] <6. Orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o których mowa w ust. 2 i 5, są wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.>
 
 **Art. 24.**
 
@@ -247,7 +250,7 @@ Art. 71–80. (pominięte)
 
 **Art. 26.** (uchylony)
 
-#### Rozdział 5 (uchylony)
+#### Rozdział 5
 
 #### Rozdział 6 Zasiłek macierzyński
 
@@ -257,21 +260,21 @@ Art. 71–80. (pominięte)
 
 - **1)** urodziła dziecko;
 - **2)** przyjęła na wychowanie dziecko w wieku do 14 roku życia i wystąpiła do sądu opiekuńczego w sprawie jego przysposobienia;
-- **3)** przyjęła na wychowanie w ramach rodziny zastępczej, z wyjątkiem rodziny zastępczej zawodowej, dziecko w wieku do 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego do 10 roku życia.
+- **3)** przyjęła na wychowanie w ramach rodziny zastępczej, z wyjątkiem rodziny zastępczej zawodowej, dziecko w wieku do 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego – do 10 roku życia.
 
 2. Przepisy ust. 1 pkt 2 i 3 stosuje się odpowiednio do ubezpieczonego.
 
-2a. Przepisy ust. 1 i 2 stosuje się odpowiednio do funkcjonariuszy Służby Celnej, którzy przyjęli propozycję pracy na podstawie art. 165 ust. 7 i art. 167 ust. 2 ustawy z dnia 16 listopada 2016 r. Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej i stali się pracownikami w jednostkach organizacyjnych Krajowej Administracji Skarbowej, i w dniu objęcia ubezpieczeniem chorobowym przebywali na urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, urlopie rodzicielskim albo urlopie ojcowskim.
+2a. Przepisy ust. 1 i 2 stosuje się odpowiednio do funkcjonariuszy Służby Celnej, którzy przyjęli propozycję pracy na podstawie art. 165 ust. 7 i art. 167 ust. 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej i stali się pracownikami w jednostkach organizacyjnych Krajowej Administracji Skarbowej, i w dniu objęcia ubezpieczeniem chorobowym przebywali na urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, urlopie rodzicielskim albo urlopie ojcowskim.
 
-3. W przypadku rezygnacji przez ubezpieczoną matkę dziecka z pobierania zasiłku macierzyńskiego, po wykorzystaniu przez nią tego zasiłku za okres co najmniej 14 tygodni po porodzie, zasiłek macierzyński przysługuje ubezpieczonemu ojcu dziecka, który uzyskał prawo do urlopu macierzyńskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem.
+3. W przypadku rezygnacji przez ubezpieczoną – matkę dziecka z pobierania zasiłku macierzyńskiego, po wykorzys-taniu przez nią tego zasiłku za okres co najmniej 14 tygodni po porodzie, zasiłek macierzyński przysługuje ubezpieczonemu – ojcu dziecka, który uzyskał prawo do urlopu macierzyńskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem.
 
 4. Przepis ust. 3 stosuje się odpowiednio do ubezpieczonych, o których mowa w ust. 1 pkt 2 i 3 oraz ust. 2.
 
-5. W przypadku rezygnacji przez ubezpieczoną matkę dziecka, legitymującą się orzeczeniem o niezdolności do samodzielnej egzystencji, z pobierania zasiłku macierzyńskiego, po wykorzystaniu przez nią tego zasiłku za okres co najmniej 8 tygodni po porodzie, zasiłek macierzyński przysługuje ubezpieczonemu ojcu dziecka albo ubezpieczonemu innemu członkowi najbliższej rodziny, który uzyskał prawo do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem.
+5. W przypadku rezygnacji przez ubezpieczoną – matkę dziecka, legitymującą się orzeczeniem o niezdolności do samodzielnej egzystencji, z pobierania zasiłku macierzyńskiego, po wykorzystaniu przez nią tego zasiłku za okres co najmniej 8 tygodni po porodzie, zasiłek macierzyński przysługuje ubezpieczonemu – ojcu dziecka albo ubezpieczonemu – innemu członkowi najbliższej rodziny, który uzyskał prawo do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem.
 
-6. Po wykorzystaniu przez ubezpieczoną matkę dziecka zasiłku macierzyńskiego za okres co najmniej 8 tygodni po porodzie, ubezpieczonemu ojcu dziecka albo innemu ubezpieczonemu członkowi najbliższej rodziny, który uzyskał prawo do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem, przysługuje prawo do zasiłku macierzyńskiego za okres, w którym ubezpieczona matka dziecka przebywa w szpitalu albo innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, ze względu na stan zdrowia uniemożliwiający jej sprawowanie osobistej opieki nad dzieckiem. Zasiłek macierzyński ubezpieczonej matki dziecka przerywa się na okres, w którym z zasiłku tego korzysta ubezpieczony ojciec dziecka albo inny ubezpieczony członek najbliższej rodziny.
+6. Po wykorzystaniu przez ubezpieczoną – matkę dziecka zasiłku macierzyńskiego za okres co najmniej 8 tygodni po porodzie, ubezpieczonemu – ojcu dziecka albo innemu ubezpieczonemu członkowi najbliższej rodziny, który uzyskał prawo do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem, przysługuje prawo do zasiłku macierzyńskiego za okres, w którym ubezpieczona – matka dziecka przebywa w szpitalu albo innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, ze względu na stan zdrowia uniemożliwiający jej sprawowanie osobistej opieki nad dzieckiem. Zasiłek macierzyński ubezpieczonej – matki dziecka przerywa się na okres, w którym z zasiłku tego korzysta ubezpieczony – ojciec dziecka albo inny ubezpieczony członek najbliższej rodziny.
 
-7. W przypadku zgonu ubezpieczonej matki dziecka albo porzucenia przez nią dziecka, zasiłek macierzyński przysługuje ubezpieczonemu ojcu dziecka albo innemu ubezpieczonemu członkowi najbliższej rodziny, który uzyskał prawo do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem. W przypadku porzucenia dziecka przez ubezpieczoną matkę dziecka, zasiłek macierzyński przysługuje ubezpieczonemu ojcu dziecka albo innemu ubezpieczonemu członkowi najbliższej rodziny, za okres przypadający po dniu porzucenia dziecka przez ubezpieczoną matkę dziecka, nie wcześniej jednak niż po wykorzystaniu przez nią 8 tygodni zasiłku macierzyńskiego po porodzie.
+7. W przypadku zgonu ubezpieczonej – matki dziecka albo porzucenia przez nią dziecka, zasiłek macierzyński przysługuje ubezpieczonemu – ojcu dziecka albo innemu ubezpieczonemu członkowi najbliższej rodziny, który uzyskał prawo do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem. W przypadku porzucenia dziecka przez ubezpieczoną – matkę dziecka, zasiłek macierzyński przysługuje ubezpieczonemu – ojcu dziecka albo innemu ubezpieczonemu członkowi najbliższej rodziny, za okres przypadający po dniu porzucenia dziecka przez ubezpieczoną – matkę dziecka, nie wcześniej jednak niż po wykorzystaniu przez nią 8 tygodni zasiłku macierzyńskiego po porodzie.
 
 8. Przepisy ust. 3–7 stosuje się odpowiednio w przypadku gdy matka albo ojciec dziecka korzysta z prawa do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego na podstawie przepisów odrębnych.
 
@@ -279,15 +282,15 @@ Art. 71–80. (pominięte)
 
 - **1)** zgonu matki dziecka nieobjętej ubezpieczeniem społecznym w razie choroby i macierzyństwa, określonym w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, albo nieposiadającej tytułu do objęcia takim ubezpieczeniem,
 - **2)** porzucenia dziecka przez matkę nieobjętą ubezpieczeniem, o którym mowa w pkt 1, albo nieposiadającą tytułu do objęcia takim ubezpieczeniem,
-- **3)** niemożności sprawowania osobistej opieki nad dzieckiem przez matkę nieobjętą ubezpieczeniem, o którym mowa w pkt 1, albo nieposiadającą tytułu do objęcia takim ubezpieczeniem, legitymującą się orzeczeniem o niezdolności do samodzielnej egzystencji zasiłek macierzyński przysługuje ubezpieczonemu ojcu dziecka albo innemu ubezpieczonemu członkowi najbliższej rodziny, który uzyskał prawo do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem, za okres przypadający po dniu zaistnienia tych okoliczności.
+- **3)** niemożności sprawowania osobistej opieki nad dzieckiem przez matkę nieobjętą ubezpieczeniem, o którym mowa w pkt 1, albo nieposiadającą tytułu do objęcia takim ubezpieczeniem, legitymującą się orzeczeniem o niezdolności do samodzielnej egzystencji – zasiłek macierzyński przysługuje ubezpieczonemu – ojcu dziecka albo innemu ubezpieczonemu członkowi najbliższej rodziny, który uzyskał prawo do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem, za okres przypadający po dniu zaistnienia tych okoliczności.
 
-10. W przypadku podjęcia przez matkę dziecka, nieposiadającą tytułu do objęcia ubezpieczeniem społecznym w razie choroby i macierzyństwa, określonym w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, zatrudnienia w wymiarze nie niższym niż połowa pełnego wymiaru czasu pracy, zasiłek macierzyński przysługuje ubezpieczonemu ojcu dziecka, który uzyskał prawo do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem, do wyczerpania wymiaru zasiłku, nie dłużej niż przez okres trwania zatrudnienia matki.
+10. W przypadku podjęcia przez matkę dziecka, nieposiadającą tytułu do objęcia ubezpieczeniem społecznym w razie choroby i macierzyństwa, określonym w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, zatrudnienia w wymiarze nie niższym niż połowa pełnego wymiaru czasu pracy, zasiłek macierzyński przysługuje ubezpieczonemu – ojcu dziecka, który uzyskał prawo do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego lub przerwał działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem, do wyczerpania wymiaru zasiłku, nie dłużej niż przez okres trwania zatrudnienia matki.
 
 **Art. 29a.**
 
 1. Zasiłek macierzyński przysługuje przez okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego oraz urlopu ojcowskiego.
 
-2. W przypadkach, o których mowa w art. 29 ust. 3–7, okres wypłaty zasiłku macierzyńskiego zmniejsza się o okres wypłaty tego zasiłku ubezpieczonej matce dziecka, a w przypadku, o którym mowa w art. 29 ust. 8, o okres, przez który matka dziecka korzystała, na podstawie przepisów odrębnych, z prawa do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego.
+2. W przypadkach, o których mowa w art. 29 ust. 3–7, okres wypłaty zasiłku macierzyńskiego zmniejsza się o okres wypłaty tego zasiłku ubezpieczonej – matce dziecka, a w przypadku, o którym mowa w art. 29 ust. 8, o okres, przez który matka dziecka korzystała, na podstawie przepisów odrębnych, z prawa do urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego albo urlopu rodzicielskiego.
 
 3. Z zasiłku macierzyńskiego za okres odpowiadający okresowi urlopu rodzicielskiego mogą jednocześnie korzystać ubezpieczeni rodzice dziecka. W takim przypadku łączny okres zasiłku macierzyńskiego nie może przekraczać wymiaru urlopu rodzicielskiego określonego przepisami Kodeksu pracy.
 
@@ -304,15 +307,15 @@ Art. 71–80. (pominięte)
 
 3. Ubezpieczonej będącej pracownicą, której umowa o pracę wygasła z powodu śmierci pracodawcy lub z którą rozwiązano stosunek pracy w okresie ciąży z powodu ogłoszenia upadłości lub likwidacji pracodawcy i której nie zapewniono innego zatrudnienia, przysługuje do dnia porodu zasiłek w wysokości zasiłku macierzyńskiego.
 
-4. Ubezpieczonej będącej pracownicą zatrudnioną na podstawie umowy o pracę na czas określony, z którą umowa o pracę na podstawie art. 177 § 3 Kodeksu pracy została przedłużona do dnia porodu przysługuje prawo do zasiłku macierzyńskiego po ustaniu ubezpieczenia.
+4. Ubezpieczonej będącej pracownicą zatrudnioną na podstawie umowy o pracę na czas określony, z którą umowa o pracę na podstawie art. 177 § 3 Kodeksu pracy została przedłużona do dnia porodu – przysługuje prawo do zasiłku macierzyńskiego po ustaniu ubezpieczenia.
 
 **Art. 30a.**
 
-1. Ubezpieczona matka dziecka, nie później niż 21 dni po porodzie, może złożyć pisemny wniosek o wypłacenie jej zasiłku macierzyńskiego za okres odpowiadający okresowi urlopu macierzyńskiego i urlopu rodzicielskiego w pełnym wymiarze, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy, przysługującego ojcu dziecka.
+1. Ubezpieczona – matka dziecka, nie później niż 21 dni po porodzie, może złożyć pisemny wniosek o wypłacenie jej zasiłku macierzyńskiego za okres odpowiadający okresowi urlopu macierzyńskiego i urlopu rodzicielskiego w pełnym wymiarze, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy, przysługującego ojcu dziecka.
 
 2. Ubezpieczony, nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka albo po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, może złożyć pisemny wniosek o wypłacenie mu zasiłku macierzyńskiego za okres odpowiadający okresowi urlopu na warunkach urlopu macierzyńskiego i urlopu rodzicielskiego w pełnym wymiarze, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy, przysługującego drugiemu rodzicowi dziecka.
 
-3. W przypadku złożenia wniosku, o którym mowa w ust. 1, ubezpieczona matka dziecka może dzielić się z ubezpieczonym ojcem dziecka korzystaniem z zasiłku macierzyńskiego za okres odpowiadający okresowi urlopu rodzicielskiego albo jego części, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy.
+3. W przypadku złożenia wniosku, o którym mowa w ust. 1, ubezpieczona – matka dziecka może dzielić się z ubezpieczonym – ojcem dziecka korzystaniem z zasiłku macierzyńskiego za okres odpowiadający okresowi urlopu rodzicielskiego albo jego części, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy.
 
 4. Przepis ust. 3 stosuje się odpowiednio do wniosku, o którym mowa w ust. 2.
 
@@ -334,7 +337,7 @@ Art. 71–80. (pominięte)
 
 3g. W przypadku niewykorzystania ani jednego dnia zasiłku macierzyńskiego za okres urlopu rodzicielskiego w pierwszym roku życia dziecka zasiłek macierzyński za okres urlopu rodzicielskiego przysługuje w wysokości 70 % podstawy wymiaru zasiłku.
 
-3h. Zasiłek macierzyński odpowiadający okresowi urlopu rodzicielskiego pobierany przez ubezpieczonego ojca dziecka, w przypadku gdy matka dziecka nie jest objęta ubezpieczeniem społecznym w razie choroby i macierzyństwa, podlega finansowaniu z budżetu państwa w ramach dotacji do Funduszu Ubezpieczeń Społecznych, o którym mowa w art. 51 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+3h. Zasiłek macierzyński odpowiadający okresowi urlopu rodzicielskiego pobierany przez ubezpieczonego – ojca dziecka, w przypadku gdy matka dziecka nie jest objęta ubezpieczeniem społecznym w razie choroby i macierzyństwa, podlega finansowaniu z budżetu państwa w ramach dotacji do Funduszu Ubezpieczeń Społecznych, o którym mowa w art. 51 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 4. W przypadku niewykorzystania w pierwszym roku życia dziecka ani jednego dnia zasiłku macierzyńskiego za okres odpowiadający okresowi urlopu rodzicielskiego w wysokości, o której mowa w art. 31 ust. 3, przysługuje jednorazowe wyrównanie pobranego zasiłku macierzyńskiego za okres urlopu macierzyńskiego do wysokości 100 % podstawy wymiaru zasiłku. Jednorazowe wyrównanie zasiłku macierzyńskiego następuje na wniosek ubezpieczonego.
 
@@ -361,7 +364,7 @@ Art. 71–80. (pominięte)
 
 - **3)** innym chorym członkiem rodziny.
 
-2. Za członków rodziny, o których mowa w ust. 1 pkt 3, uważa się małżonka, rodziców, rodzica dziecka, ojczyma, macochę, teściów, dziadków, wnuki, rodzeństwo oraz dzieci w wieku powyżej 14 lat jeżeli pozostają we wspólnym gospodarstwie domowym z ubezpieczonym w okresie sprawowania opieki.
+2. Za członków rodziny, o których mowa w ust. 1 pkt 3, uważa się małżonka, rodziców, rodzica dziecka, ojczyma, macochę, teściów, dziadków, wnuki, rodzeństwo oraz dzieci w wieku powyżej 14 lat – jeżeli pozostają we wspólnym gospodarstwie domowym z ubezpieczonym w okresie sprawowania opieki.
 
 3. Za dzieci w rozumieniu ust. 1 i 2 uważa się dzieci własne ubezpieczonego lub jego małżonka oraz dzieci przysposobione, a także dzieci przyjęte na wychowanie i utrzymanie.
 
@@ -371,7 +374,7 @@ Art. 71–80. (pominięte)
 
 - **1)** przebywa w szpitalu albo w innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne ze względu na stan zdrowia uniemożliwiający jej sprawowanie osobistej opieki nad dzieckiem albo
 - **2)** legitymuje się orzeczeniem o niezdolności do samodzielnej egzystencji, albo
-- **3)** porzuciła dziecko ubezpieczonemu ojcu dziecka przysługuje dodatkowo, niezależnie od zasiłku określonego w art. 32, zasiłek opiekuńczy w wymiarze do 8 tygodni, jeżeli przerwie zatrudnienie lub inną działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem.
+- **3)** porzuciła dziecko – ubezpieczonemu – ojcu dziecka przysługuje dodatkowo, niezależnie od zasiłku określonego w art. 32, zasiłek opiekuńczy w wymiarze do 8 tygodni, jeżeli przerwie zatrudnienie lub inną działalność zarobkową w celu sprawowania osobistej opieki nad dzieckiem.
 
 2. Przepis ust. 1 stosuje się odpowiednio do innego ubezpieczonego członka najbliższej rodziny.
 
@@ -493,10 +496,10 @@ Art. 71–80. (pominięte)
 
 1. Jeżeli niezdolność do pracy powstała przed upływem pełnego miesiąca kalendarzowego ubezpieczenia chorobowego, podstawę wymiaru zasiłku stanowi:
 
-- **1)** najniższa miesięczna podstawa wymiaru składek na ubezpieczenie chorobowe za miesiąc, w którym powstało prawo do zasiłku, po odliczeniach, o których mowa w art. 3 pkt 4 dla ubezpieczonych, dla których określono najniższą podstawę wymiaru składek;
-- **2)** kwota przychodu określona w umowie przypadająca za miesiąc, w którym powstało prawo do zasiłku, po odliczeniach, o których mowa w art. 3 pkt 4, a jeżeli kwota ta w umowie nie została określona, kwota przeciętnego miesięcznego przychodu innych ubezpieczonych, z którymi płatnik składek zawarł takie same lub podobne umowy dla ubezpieczonych wykonujących pracę na podstawie umowy agencyjnej lub umowy zlecenia;
-- **3)** przeciętny miesięczny przychód innych członków spółdzielni za miesiąc, w którym powstało prawo do zasiłku dla ubezpieczonych będących członkami rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych;
-- **4)** przeciętny miesięczny przychód osób wykonujących pracę nakładczą na rzecz danego płatnika składek za miesiąc, w którym powstało prawo do zasiłku dla osób wykonujących pracę nakładczą.
+- **1)** najniższa miesięczna podstawa wymiaru składek na ubezpieczenie chorobowe za miesiąc, w którym powstało prawo do zasiłku, po odliczeniach, o których mowa w art. 3 pkt 4 – dla ubezpieczonych, dla których określono najniższą podstawę wymiaru składek;
+- **2)** kwota przychodu określona w umowie przypadająca za miesiąc, w którym powstało prawo do zasiłku, po odliczeniach, o których mowa w art. 3 pkt 4, a jeżeli kwota ta w umowie nie została określona, kwota przeciętnego miesięcznego przychodu innych ubezpieczonych, z którymi płatnik składek zawarł takie same lub podobne umowy – dla ubezpieczonych wykonujących pracę na podstawie umowy agencyjnej lub umowy zlecenia;
+- **3)** przeciętny miesięczny przychód innych członków spółdzielni za miesiąc, w którym powstało prawo do zasiłku – dla ubezpieczonych będących członkami rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych;
+- **4)** przeciętny miesięczny przychód osób wykonujących pracę nakładczą na rzecz danego płatnika składek za miesiąc, w którym powstało prawo do zasiłku – dla osób wykonujących pracę nakładczą.
 
 2. Jeżeli niezdolność do pracy powstała przed upływem pełnego miesiąca kalendarzowego ubezpieczenia chorobowego, a okres ubezpieczenia chorobowego rozpoczął się po przerwie nieprzekraczającej 30 dni od ustania ubezpieczenia chorobowego z innego tytułu, przy ustaleniu podstawy wymiaru zasiłku chorobowego stosuje się odpowiednio przepis art. 37 ust. 1.
 
@@ -593,7 +596,7 @@ Art. 71–80. (pominięte)
 - **4)** imię, nazwisko i numer prawa wykonywania zawodu wystawiającego zaświadczenie lekarskie oraz adres miejsca udzielania świadczeń zdrowotnych;
 - **5)** okres orzeczonej czasowej niezdolności do pracy, w tym okres pobytu w szpitalu;
 - **6)** informacje o okolicznościach mających wpływ na prawo do zasiłku chorobowego lub jego wysokość, zgodnie z art. 7 pkt 2, art. 8, art. 9 ust. 2, art. 11 ust. 2 pkt 1 i art. 16, podane z zastosowaniem kodów literowych, o których mowa w art. 57 ust. 1;
-- **7)** wskazania lekarskie odpowiednio: chory powinien leżeć albo chory może chodzić;
+- **7)** wskazania lekarskie – odpowiednio: chory powinien leżeć albo chory może chodzić;
 - **8)** okres zwolnienia od wykonywania pracy z powodu konieczności sprawowania osobistej opieki nad chorym członkiem rodziny, datę urodzenia tego członka rodziny i stopień jego pokrewieństwa lub powinowactwa z ubezpieczonym;
 - **9)** numer statystyczny choroby ubezpieczonego ustalony według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych;
 - **10)** oznaczenie instytucji, w której ubezpieczony został zgłoszony do ubezpieczenia.
@@ -610,9 +613,9 @@ Art. 71–80. (pominięte)
 2. Zakład Ubezpieczeń Społecznych w celu wystawienia zaświadczenia lekarskiego udostępnia bezpłatnie wystawiającemu zaświadczenie lekarskie na jego profilu informacyjnym:
 
 - **1)** dane zgromadzone w prowadzonych na podstawie ustawy o systemie ubezpieczeń społecznych:
-    - **a)** Centralnym Rejestrze Ubezpieczonych pierwsze imię, nazwisko, datę urodzenia i adres zamieszkania ubezpieczonego,
-    - **b)** Centralnym Rejestrze Płatników Składek nazwę skróconą oraz NIP lub numer PESEL albo serię i numer paszportu płatnika składek, jeżeli nie ma obowiązku posługiwania się NIP i nie nadano numeru PESEL,
-    - **c)** Centralnym Rejestrze Członków Rodziny Ubezpieczonych Uprawnionych do Ubezpieczenia Zdrowotnego datę urodzenia chorego członka rodziny i stopień jego pokrewieństwa lub powinowactwa z ubezpieczonym;
+    - **a)** Centralnym Rejestrze Ubezpieczonych – pierwsze imię, nazwisko, datę urodzenia i adres zamieszkania ubezpieczonego,
+    - **b)** Centralnym Rejestrze Płatników Składek – nazwę skróconą oraz NIP lub numer PESEL albo serię i numer paszportu płatnika składek, jeżeli nie ma obowiązku posługiwania się NIP i nie nadano numeru PESEL,
+    - **c)** Centralnym Rejestrze Członków Rodziny Ubezpieczonych Uprawnionych do Ubezpieczenia Zdrowotnego – datę urodzenia chorego członka rodziny i stopień jego pokrewieństwa lub powinowactwa z ubezpieczonym;
 
 - **2)** informacje o wcześniejszych zaświadczeniach lekarskich wystawionych ubezpieczonemu, zgromadzone w rejestrze, o którym mowa w art. 55b ust. 1, oraz o zaświadczeniach, o których mowa w art. 59 ust. 8;
 - **3)** informacje, czy płatnik składek posiada profil informacyjny płatnika składek, o którym mowa w art. 58 ust. 1.
@@ -625,7 +628,7 @@ Art. 71–80. (pominięte)
 
 6. Na żądanie ubezpieczonego oraz w przypadku gdy z informacji udostępnionych na profilu informacyjnym wystawiającego zaświadczenie lekarskie wynika, że płatnik składek nie posiada profilu informacyjnego płatnika składek, o którym mowa w art. 58 ust. 1, wystawiający zaświadczenie lekarskie przekazuje ubezpieczonemu wydruk wystawionego zaświadczenia lekarskiego z systemu teleinformatycznego, o którym mowa w ust. 1, zawierający dane i informacje, o których mowa w art. 55 ust. 3 pkt 1–8 i 10, opatrzony jego podpisem i pieczątką.
 
-7. W przypadku gdy wystawienie zaświadczenia lekarskiego w formie dokumentu elektronicznego, o którym mowa w art. 55 ust. 1, nie jest możliwe, w szczególności w przypadku braku możliwości dostępu do Internetu lub braku możliwości podpisania zaświadczenia lekarskiego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych, wystawiający zaświadczenie lekarskie w dniu badania przekazuje ubezpieczonemu zaświadczenie lekarskie wystawione na formularzu zaświadczenia lekarskiego wydrukowanym z systemu teleinformatycznego, o którym mowa w art. 55 ust. 1, zawierające dane i informacje, o których mowa w art. 55 ust. 3 pkt 1–8 i 10, opatrzone jego podpisem i pieczątką. Dane i informacje, o których mowa w art. 55 ust. 3 pkt 2, 3 i 10, oraz dane i informacje dotyczące daty urodzenia członka rodziny i stopnia jego pokrewieństwa lub powinowactwa z ubezpieczonym, o których mowa w art. 55 ust. 3 pkt 8, wystawiający zaświadczenie lekarskie uzyskuje od ubezpieczonego.
+7. W przypadku gdy wystawienie zaświadczenia lekarskiego w formie dokumentu elektronicznego, o którym mowa w art. 55 ust. 1, nie jest możliwe, w szczególności w przypadku braku możliwości dostępu do Internetu lub braku możliwości podpisania zaświadczenia lekarskiego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych, wystawiający zaświadczenie lekarskie w dniu badania przekazuje ubezpieczonemu zaświadczenie lekarskie wystawione na formularzu zaświadczenia lekarskiego wydrukowanym z systemu teleinformatycznego, o którym mowa w art. 55 ust. 1, zawierające dane i informacje, o których mowa w art. 55 ust. 3 pkt 1– 8 i 10, opatrzone jego podpisem i pieczątką. Dane i informacje, o których mowa w art. 55 ust. 3 pkt 2, 3 i 10, oraz dane i informacje dotyczące daty urodzenia członka rodziny i stopnia jego pokrewieństwa lub powinowactwa z ubezpieczonym, o których mowa w art. 55 ust. 3 pkt 8, wystawiający zaświadczenie lekarskie uzyskuje od ubezpieczonego.
 
 8. W przypadkach, o których mowa w ust. 4, 5 i 7, ubezpieczony jest obowiązany przekazać wystawiającemu zaświadczenie lekarskie dane i informacje w zakresie niezbędnym do wystawienia zaświadczenia lekarskiego.
 
@@ -651,7 +654,7 @@ Art. 71–80. (pominięte)
 - **4)** rodzaj i stopień specjalizacji;
 - **5)** adres miejsca udzielania świadczeń zdrowotnych;
 - **6)** nazwę i siedzibę właściwej izby lekarskiej;
-- **7)** informację o cofnięciu upoważnienia, o którym mowa w art. 54 ust. 1.
+- **7)** informacje o posiadaniu upoważnienia, o którym mowa w art. 54 ust. 1.
 
 3. Lekarze, lekarze dentyści, felczerzy i starsi felczerzy, o których mowa w ust. 1, informują Zakład Ubezpieczeń Społecznych o zmianach w zakresie danych i informacji gromadzonych w rejestrze, o których mowa w ust. 2.
 
@@ -659,8 +662,13 @@ Art. 71–80. (pominięte)
 
 5. Zakład Ubezpieczeń Społecznych:
 
-- **1)** udostępnia Naczelnej Radzie Lekarskiej oraz systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, informacje zgromadzone w rejestrze, o którym mowa w ust. 1;
-- **2)** jest uprawniony do korzystania z informacji, o których mowa w ust. 2, zgromadzonych w rejestrach lekarzy prowadzonych przez okręgowe rady lekarskie oraz zgromadzonych w Centralnym Rejestrze Lekarzy i Lekarzy Dentystów prowadzonym przez Naczelną Radę Lekarską.
+- **1)** udostępnia właściwym jednostkom organizacyjnym samorządu zawodowego lekarzy i lekarzy dentystów oraz organom określonym w ustawie z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342 oraz z 2023 r. poz. 1234) dla celów postępowania w przedmiocie odpowiedzialności zawodowej lekarza i lekarza dentysty:
+    - **a)** informacje zgromadzone w rejestrze, o którym mowa w ust. 1, oraz w rejestrze, o którym mowa w art. 55b ust. 1,
+    - **b)** informacje dotyczące kontroli, o której mowa w art. 59 ust. 1, oraz dokumenty zgromadzone w postępowaniach związanych z kontrolą,
+    - **c)** informacje dotyczące cofnięcia upoważnienia do wystawiania zaświadczeń lekarskich, o którym mowa w art. 60 ust. 1–2, oraz dokumenty zgromadzone w tych postępowaniach;
+
+- **2)** udostępnia systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, informacje zgromadzone w rejestrze, o którym mowa w ust. 1;
+- **3)** jest uprawniony, w celu udzielenia upoważnienia, o którym mowa w art. 54 ust. 1, albo w celu weryfikacji danych zgromadzonych w rejestrze, o którym mowa w ust. 1, do korzystania z informacji zgromadzonych w Centralnym Rejestrze Lekarzy i Lekarzy Dentystów Rzeczypospolitej Polskiej, Centralnym Rejestrze Felczerów prowadzonym przez Naczelną Radę Lekarską oraz rejestrach lekarzy prowadzonych przez okręgowe rady lekarskie.
 
 6. (uchylony)
 
@@ -668,11 +676,11 @@ Art. 71–80. (pominięte)
 
 1. W zaświadczeniu lekarskim o czasowej niezdolności do pracy z powodu choroby lub pobytu w szpitalu albo innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne informacje o okolicznościach mających wpływ na prawo do zasiłku chorobowego lub jego wysokość zgodnie z art. 7 pkt 2, art. 8, art. 9 ust. 2, art. 11 ust. 2 pkt 1 i art. 16 podaje się z zastosowaniem następujących kodów literowych:
 
-- **1)** kod A oznacza niezdolność do pracy powstałą po przerwie nieprzekraczającej 60 dni spowodowaną tą samą chorobą, która była przyczyną niezdolności do pracy przed przerwą;
-- **2)** kod B oznacza niezdolność do pracy przypadającą w okresie ciąży;
-- **3)** kod C oznacza niezdolność do pracy spowodowaną nadużyciem alkoholu;
-- **4)** kod D oznacza niezdolność do pracy spowodowaną gruźlicą;
-- **5)** kod E oznacza niezdolność do pracy spowodowaną chorobą, o której mowa w art. 7 pkt 2.
+- **1)** kod A – oznacza niezdolność do pracy powstałą po przerwie nieprzekraczającej 60 dni – spowodowaną tą samą chorobą, która była przyczyną niezdolności do pracy przed przerwą;
+- **2)** kod B – oznacza niezdolność do pracy przypadającą w okresie ciąży;
+- **3)** kod C – oznacza niezdolność do pracy spowodowaną nadużyciem alkoholu;
+- **4)** kod D – oznacza niezdolność do pracy spowodowaną gruźlicą;
+- **5)** kod E – oznacza niezdolność do pracy spowodowaną chorobą, o której mowa w art. 7 pkt 2.
 
 2. W zaświadczeniu lekarskim, na pisemny wniosek ubezpieczonego, nie umieszcza się kodu „B” i „D”.
 
@@ -695,7 +703,7 @@ Art. 71–80. (pominięte)
 1. W przypadku gdy w zaświadczeniu lekarskim został popełniony błąd, wystawiający zaświadczenie lekarskie, który wystawił zaświadczenie lekarskie, w którym został popełniony błąd, albo inny wystawiający zaświadczenie lekarskie, w terminie 3 dni roboczych od dnia stwierdzenia błędu lub otrzymania informacji o stwierdzeniu błędu, w szczególności od płatnika składek, ubezpieczonego lub Zakładu Ubezpieczeń Społecznych, przekazuje na elektroniczną skrzynkę podawczą Zakładu Ubezpieczeń Społecznych, o której mowa w art. 55 ust. 2, odpowiednio:
 
 - **1)** informację o stwierdzeniu nieważności zaświadczenia lekarskiego, w którym został popełniony błąd, albo
-- **2)** informację, o której mowa w pkt 1, oraz nowe zaświadczenie lekarskie, zawierające identyfikator i datę jego wystawienia oraz dane i informacje, o których mowa w art. 55 ust. 3 pkt 2–10, zawarte w zaświadczeniu lekarskim, w którym został popełniony błąd, po sprostowaniu tego błędu podpisane kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.
+- **2)** informację, o której mowa w pkt 1, oraz nowe zaświadczenie lekarskie, zawierające identyfikator i datę jego wystawienia oraz dane i informacje, o których mowa w art. 55 ust. 3 pkt 2–10, zawarte w zaświadczeniu lekarskim, w którym został popełniony błąd, po sprostowaniu tego błędu – podpisane kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.
 
 1a. W przypadku, o którym mowa w ust. 1, przepisu art. 55 ust. 4 pkt 1 nie stosuje się.
 
@@ -718,29 +726,27 @@ Art. 71–80. (pominięte)
 
 **Art. 59.**
 
-1. Prawidłowość orzekania o czasowej niezdolności do pracy z powodu choroby oraz wystawiania zaświadczeń lekarskich podlega kontroli.
+1. Prawidłowość orzekania o czasowej niezdolności do pracy z powodu choroby albo orzekania o konieczności osobistego sprawowania przez ubezpieczonego opieki nad chorym członkiem rodziny oraz wystawiania zaświadczeń lekarskich podlega kontroli.
 
 2. Kontrolę wykonują lekarze orzecznicy Zakładu Ubezpieczeń Społecznych.
 
-3. W celu kontroli lekarz orzecznik Zakładu Ubezpieczeń Społecznych może:
+3. W celu kontroli Zakład Ubezpieczeń Społecznych może:
 
-- **1)** przeprowadzić badanie lekarskie ubezpieczonego:
-    - **a)** w wyznaczonym miejscu,
-    - **b)** w miejscu jego pobytu;
+- **1)** skierować ubezpieczonego na badanie do lekarza orzecznika Zakładu Ubezpieczeń Społecznych lub do lekarza konsultanta, o którym mowa w art. 68 ust. 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w wyznaczonym miejscu albo w miejscu jego pobytu;
+- **2)** skierować ubezpieczonego na badania pomocnicze;
+- **3)** zażądać od wystawiającego zaświadczenie lekarskie lub od podmiotu udzielającego świadczeń zdrowotnych, w którym wystawiono zaświadczenie lekarskie, udostępnienia dokumentacji medycznej dotyczącej ubezpieczonego lub chorego członka rodziny, stanowiącej podstawę wydania zaświadczenia lekarskiego lub udzielenia wyjaśnień i informacji w sprawie;
+- **4)** zażądać od ubezpieczonego udzielenia wyjaśnień i informacji w sprawie.
 
-- **2)** skierować ubezpieczonego na badanie specjalistyczne przez lekarza konsultanta Zakładu Ubezpieczeń Społecznych;
-- **3)** zażądać od wystawiającego zaświadczenie lekarskie udostępnienia dokumentacji medycznej dotyczącej ubezpieczonego stanowiącej podstawę wydania zaświadczenia lekarskiego lub udzielenia wyjaśnień i informacji w sprawie;
-- **4)** zlecić wykonanie badań pomocniczych w wyznaczonym terminie.
-
-4. Ubezpieczony jest obowiązany udostępnić posiadaną dokumentację medyczną lekarzowi przeprowadzającemu badanie, o którym mowa w ust. 3 pkt 1 i 2.
+4. Ubezpieczony jest obowiązany udostępnić posiadaną dokumentację medyczną lekarzowi przeprowadzającemu badanie, o którym mowa w ust. 3 pkt 1. <4a. Do udostępniania dokumentacji medycznej, o której mowa w ust. 3 pkt 3, stosuje się odpowiednio art. 85i ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.>
 
 5. Zakład Ubezpieczeń Społecznych zawiadamia ubezpieczonego o terminie badania przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych albo przez lekarza konsultanta lub dostarczenia posiadanych wyników badań pomocniczych. Zawiadomienie zawiera informację o skutkach, o których mowa w ust. 6 i 10.
 
 5a. Zawiadomienie, o którym mowa w ust. 5, Zakład Ubezpieczeń Społecznych doręcza:
 
-- **1)** w przypadku ubezpieczonego posiadającego jednocześnie profil informacyjny w systemie teleinformatycznym Zakładu Ubezpieczeń Społecznych oraz adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych w sposób wskazany w art. 71ab ust. 1 i 1a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych albo
+- **1)** w przypadku ubezpieczonego posiadającego jednocześnie profil informacyjny w systemie teleinformatycznym Zakładu Ubezpieczeń Społecznych oraz adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych – w sposób wskazany w art. 71ab ust. 1 i 1a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych albo
 - **2)** przez operatora wyznaczonego z wykorzystaniem publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, albo
-- **3)** przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717), albo
+- **3)** przez operatora pocztowego – w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i
+- **1717)** , albo
 - **4)** przez swoich pracowników lub przez inne upoważnione osoby, albo
 - **5)** przez pracodawcę.
 
@@ -786,7 +792,7 @@ Art. 71–80. (pominięte)
 9d. Lekarz orzecznik Zakładu Ubezpieczeń Społecznych przekazuje ubezpieczonemu w dniu badania:
 
 - **1)** wydruk zaświadczenia, o którym mowa w ust. 8, z systemu teleinformatycznego, o którym mowa w ust. 9, albo
-- **2)** zaświadczenie, o którym mowa w ust. 8, wystawione na formularzu zaświadczenia wydrukowanym z systemu teleinformatycznego, o którym mowa w ust. 9 opatrzone jego podpisem i pieczątką.
+- **2)** zaświadczenie, o którym mowa w ust. 8, wystawione na formularzu zaświadczenia wydrukowanym z systemu teleinformatycznego, o którym mowa w ust. 9 – opatrzone jego podpisem i pieczątką.
 
 9e. Ubezpieczony dostarcza płatnikowi składek:
 
@@ -812,17 +818,17 @@ Art. 71–80. (pominięte)
 1. W przypadku stwierdzenia nieprawidłowości w wystawianiu zaświadczeń lekarskich, w szczególności gdy zaświadczenie lekarskie zostało wystawione:
 
 - **1)** bez przeprowadzenia bezpośredniego badania ubezpieczonego,
-- **2)** bez udokumentowania rozpoznania stanowiącego podstawę orzeczonej czasowej niezdolności do pracy Zakład Ubezpieczeń Społecznych może, w formie decyzji, cofnąć upoważnienie, o którym mowa w art. 54 ust. 1, na okres nieprzekraczający 12 miesięcy od dnia, w którym decyzja stała się ostateczna.
+- **2)** bez udokumentowania rozpoznania stanowiącego podstawę orzeczonej czasowej niezdolności do pracy – Zakład Ubezpieczeń Społecznych może, w formie decyzji, cofnąć upoważnienie, o którym mowa w art. 54 ust. 1, na okres nieprzekraczający 12 miesięcy od dnia, w którym decyzja stała się ostateczna.
 
-2. W przypadku powtarzającego się naruszania zasad określonych w art. 55 ust. 1–3, art. 55a ust. 6, 7 i 9 oraz art. 57 Zakład Ubezpieczeń Społecznych może, w drodze decyzji, cofnąć upoważnienie, o którym mowa w art. 54 ust. 1, na okres nieprzekraczający 3 miesięcy od dnia, w którym decyzja stała się ostateczna.
+2. W przypadku powtarzającego się naruszania zasad określonych w art. 55 ust. 1–3, art. 55a ust. 6, 7 i 9, art. 57 oraz art. 59 ust. 3 pkt 3 Zakład Ubezpieczeń Społecznych może, w drodze decyzji, cofnąć upoważnienie, o którym mowa w art. 54 ust. 1, na okres nieprzekraczający 3 miesięcy od dnia, w którym decyzja stała się ostateczna.
 
 2a. Zakład Ubezpieczeń Społecznych stwierdza, w formie decyzji, wygaśnięcie upoważnienia, o którym mowa w art. 54 ust. 1, w przypadku uzyskania informacji o istnieniu przesłanek, o których mowa w art. 162 § 1 pkt 1 Kodeksu postępowania administracyjnego.
 
 3. (uchylony)
 
-4. Od decyzji, o której mowa w ust. 1–3, przysługuje odwołanie do ministra właściwego do spraw zabezpieczenia społecznego.
+4. Od decyzji, o której mowa w ust. 1–2a, stronie przysługuje prawo do wniesienia wniosku do Prezesa Zakładu Ubezpieczeń Społecznych o ponowne rozpatrzenie sprawy, na zasadach dotyczących decyzji wydanej w pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy dotyczące odwołań od decyzji, określone w Kodeksie postępowania administracyjnego.
 
-5. Do decyzji, o których mowa w ust. 1–3 i art. 54, stosuje się przepisy Kodeksu postępowania administracyjnego.
+5. Do decyzji, o których mowa w ust. 1–2a i art. 54, stosuje się przepisy Kodeksu postępowania administracyjnego.
 
 6. Przepisy ust. 2, 4 i 5 stosuje się w przypadku stwierdzenia nieprawidłowości w wystawianiu zaświadczeń lekarskich lub powtarzającego się naruszania zasad określonych w art. 55 ust. 1–3, art. 55a ust. 6 i 9 oraz art. 57 przez osoby upoważnione, o których mowa w art. 54a ust. 1.
 
@@ -850,7 +856,7 @@ Art. 71–80. (pominięte)
     - **d)** osobom uprawnionym do zasiłków za okres po ustaniu ubezpieczenia,
     - **e)** ubezpieczonym podlegającym ubezpieczeniu chorobowemu w Polsce z tytułu zatrudnienia u pracodawcy zagranicznego.
 
-2. Liczbę ubezpieczonych, o której mowa w ust. 1, ustala się według stanu na dzień 30 listopada poprzedniego roku kalendarzowego, a w stosunku do płatników składek, którzy na ten dzień nie zgłaszali nikogo do ubezpieczenia chorobowego według stanu na pierwszy miesiąc, w którym dokonali takiego zgłoszenia.
+2. Liczbę ubezpieczonych, o której mowa w ust. 1, ustala się według stanu na dzień 30 listopada poprzedniego roku kalendarzowego, a w stosunku do płatników składek, którzy na ten dzień nie zgłaszali nikogo do ubezpieczenia chorobowego – według stanu na pierwszy miesiąc, w którym dokonali takiego zgłoszenia.
 
 3. Jeżeli do wypłaty zasiłku obowiązany jest Zakład Ubezpieczeń Społecznych, płatnik składek przedkłada zaświadczenie zawierające zestawienie składników wynagrodzenia lub przychodu, stanowiących podstawę wymiaru zasiłku, którego wzór określi, w drodze rozporządzenia, minister właściwy do spraw zabezpieczenia społecznego.
 
@@ -862,38 +868,14 @@ Art. 71–80. (pominięte)
 
 2. Zakład Ubezpieczeń Społecznych, w celu ustalenia prawa do zasiłku i jego wypłaty, może pozyskiwać dane i informacje w zakresie niezbędnym do ustalenia prawa do zasiłków, ich wysokości, podstawy wymiaru oraz do ich wypłat od ubezpieczonych oraz płatników składek, którzy są obowiązani bezpłatnie je udostępnić.
 
-**Art. 61b.**
-
-1. Postępowanie w sprawie przyznania i wypłaty zasiłku wszczyna się na wniosek złożony w formie pisemnej lub w formie dokumentu elektronicznego podpisanego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych, na elektroniczną skrzynkę podawczą Zakładu Ubezpieczeń Społecznych lub na adres do doręczeń elektronicznych.
-
-2. Postępowanie w sprawie przyznania i wypłaty zasiłku chorobowego lub zasiłku opiekuńczego z tytułu opieki nad chorym członkiem rodziny wszczyna się:
-
-- **1)** jeżeli płatnikiem zasiłku jest płatnik składek:
-    - **a)** posiadający profil informacyjny płatnika składek, na podstawie: zaświadczenia lekarskiego w formie dokumentu elektronicznego, o którym mowa w art. 55 ust. 1, otrzymanego na tym profilu, wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, przekazanych przez ubezpieczonego,
-    - **b)** nieposiadający profilu informacyjnego płatnika składek na podstawie wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, przekazanych przez ubezpieczonego;
-
-- **2)** jeżeli płatnikiem zasiłku jest Zakład Ubezpieczeń Społecznych na podstawie wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, albo wniosku, o którym mowa w ust. 1, przekazanych przez ubezpieczonego albo płatnika składek upoważnionego przez ubezpieczonego.
-
-3. Wniosek, o którym mowa w ust. 1, zawiera:
-
-- **1)** dane ubezpieczonego pierwsze imię, nazwisko, numer PESEL albo serię i numer paszportu i datę urodzenia, jeżeli nie nadano numeru PESEL, oraz adres zamieszkania;
-- **2)** dane płatnika składek NIP lub numer PESEL albo serię i numer paszportu, jeżeli nie ma obowiązku posługiwania się NIP i nie nadano numeru PESEL;
-- **3)** informacje o okolicznościach mających wpływ na prawo do zasiłku lub jego wysokość.
-
-4. Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty niezbędne do przyznania i wypłaty zasiłku.
-
-4a. Do wniosku w sprawie przyznania i wypłaty zasiłku macierzyńskiego dla ubezpieczonego rodzica dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2024 r. poz. 1829), dołącza się oświadczenie tego ubezpieczonego o posiadaniu przez dziecko takiego zaświadczenia.
-
-5. W przypadku ubezpieczonych, o których mowa w art. 61 ust. 1 pkt 2 lit. a, płatnik składek przekazuje do Zakładu Ubezpieczeń Społecznych wniosek, wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenie lekarskie, o którym mowa w art. 55a ust. 7, wraz z dokumentami niezbędnymi do przyznania i wypłaty zasiłku niezwłocznie, nie później niż w terminie 7 dni od dnia ich otrzymania.
-
-6. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, zakres informacji o okolicznościach mających wpływ na prawo do zasiłku lub jego wysokość, o których mowa w ust. 3 pkt 3, oraz dokumenty niezbędne do przyznania i wypłaty zasiłków, o których mowa w ust. 4, mając na uwadze konieczność zapewnienia sprawnego i terminowego ustalania prawa do zasiłków i dokonywania ich wypłaty.
+**Art. 61b.** [1. Postępowanie w sprawie przyznania i wypłaty zasiłku wszczyna się na wniosek złożony w formie pisemnej lub w formie dokumentu elektronicznego podpisanego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych, na elektroniczną skrzynkę podawczą Zakładu Ubezpieczeń Społecznych lub na adres do doręczeń elektronicznych.] <1. Postępowanie w sprawie przyznania i wypłaty zasiłku wszczyna się na wniosek złożony:
 
 **Art. 62.**
 
 1. Ubezpieczony dostarcza wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenie lekarskie, o którym mowa w art. 55a ust. 7:
 
-- **1)** do Zakładu Ubezpieczeń Społecznych jeżeli płatnikiem zasiłku jest Zakład Ubezpieczeń Społecznych;
-- **2)** płatnikowi składek jeżeli płatnikiem zasiłku jest płatnik składek nieposiadający profilu informacyjnego płatnika składek.
+- **1)** do Zakładu Ubezpieczeń Społecznych – jeżeli płatnikiem zasiłku jest Zakład Ubezpieczeń Społecznych;
+- **2)** płatnikowi składek – jeżeli płatnikiem zasiłku jest płatnik składek nieposiadający profilu informacyjnego płatnika składek.
 
 2. Ubezpieczony, o którym mowa w art. 61 ust. 1 pkt 2 lit. a, który został poinformowany, w formie pisemnej, o obowiązku dostarczania płatnikowi składek wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, dostarcza odpowiednio wydruk zaświadczenia lekarskiego albo zaświadczenie lekarskie płatnikowi składek, który przekazuje je niezwłocznie do Zakładu Ubezpieczeń Społecznych, podając datę dostarczenia odpowiednio wydruku zaświadczenia lekarskiego albo zaświadczenia lekarskiego przez ubezpieczonego.
 
@@ -965,11 +947,114 @@ Art. 71–80. (pominięte)
 
 **Art. 68.**
 
-1. Zakład Ubezpieczeń Społecznych oraz płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, są uprawnieni do kontrolowania ubezpieczonych co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem oraz są upoważnieni do formalnej kontroli zaświadczeń lekarskich.
+1. Zakład Ubezpieczeń Społecznych jest uprawniony do przeprowadzania kontroli ubezpieczonych oraz osób po ustaniu tytułu ubezpieczenia chorobowego co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem.
 
-2. Minister właściwy do spraw zabezpieczenia społecznego, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, szczegółowe zasady i tryb kontroli prawidłowości wykorzystywania zwolnień od pracy oraz formalnej kontroli zaświadczeń lekarskich.
+1a. Płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, są uprawnieni do przeprowadzania kontroli ubezpieczonych, którym wypłacają zasiłki, co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem.
 
-**Art. 69.** Do świadczenia rehabilitacyjnego stosuje się odpowiednio przepisy art. 61, art. 61a, art. 61b ust. 1, 3 i 4 i art. 63–68 oraz przepisy wydane na podstawie art. 61b ust. 6.
+1b. Zakład Ubezpieczeń Społecznych przeprowadza kontrolę co do prawidłowości wykorzystywania zwolnień od pracy ubezpieczonych, którym zasiłki wypłacają płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, na wniosek tych płatników składek lub z urzędu.
+
+1c. Kontrolą, o której mowa w ust. 1–1b, obejmuje się również ubezpieczonych oraz osoby po ustaniu tytułu ubezpieczenia chorobowego, które nie mogą wykonywać pracy z przyczyn określonych w art. 6 ust. 2 pkt 1 i 1a.
+
+1d. Płatnicy składek są uprawnieni do przeprowadzania kontroli co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem dla celów wypłaty wynagrodzenia za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+1e. Wątpliwości, czy zwolnienie od pracy było wykorzystywane niezgodnie z jego celem, rozstrzyga właściwa jednostka organizacyjna Zakładu Ubezpieczeń Społecznych, uzyskując w miarę potrzeby opinię lekarza, który wystawił zwolnienie lekarskie, lub lekarza orzecznika.
+
+2. (uchylony)
+
+**Art. 68a.**
+
+1. Kontrola, o której mowa w art. 68, obejmuje zwolnienia z powodu niezdolności do pracy, za które przysługuje zasiłek chorobowy, świadczenie rehabilitacyjne albo wynagrodzenie za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz zwolnienia z powodu konieczności osobistego sprawowania opieki, za które przysługuje zasiłek opiekuńczy.
+
+2. Kontrola polega na ustaleniu, czy osoba kontrolowana nie podejmuje działań określonych w art. 17 ust. 1, a w przypadku zasiłku opiekuńczego również na ustaleniu, czy poza ubezpieczonym nie ma innych członków rodziny pozostających we wspólnym gospodarstwie domowym, mogących zapewnić opiekę, chyba że dotyczy to sprawowania opieki nad chorym dzieckiem w wieku do 2 lat.
+
+3. Kontrola jest dokonywana w miarę potrzeb, bez ustalania z góry stałych jej terminów, a nasilana szczególnie w okresach, w których występuje zwiększona absencja z powodu choroby lub sprawowania opieki.
+
+4. Kontrola jest dokonywana z wykorzystaniem środków adekwatnych i proporcjonalnych do celu kontroli, z poszanowaniem prywatności osoby kontrolowanej oraz innych osób przebywających w miejscu kontroli oraz w sposób wolny od ryzyka pogorszenia się stanu zdrowia osoby kontrolowanej i zakłócania procesu leczenia lub rekonwalescencji, a czas jej trwania jest ograniczony do okresu niezbędnego do dokonania ustaleń z tej kontroli.
+
+**Art. 68b.**
+
+1. Wszczęcie kontroli, o której mowa w art. 68, następuje z urzędu, na podstawie upoważnienia do przeprowadzenia kontroli udzielonego kontrolującemu.
+
+2. Wszczęcie kontroli następuje przez okazanie osobie kontrolowanej upoważnienia, o którym mowa w ust. 1.
+
+3. Upoważnienie, o którym mowa w ust. 1, zawiera:
+
+- **1)** wskazanie podstawy prawnej do przeprowadzenia kontroli;
+- **2)** oznaczenie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych albo płatnika składek;
+- **3)** datę i miejsce wystawienia upoważnienia;
+- **4)** imię i nazwisko kontrolującego wraz z podaniem:
+    - **a)** numeru legitymacji służbowej – w przypadku kontroli dokonywanej przez Zakład Ubezpieczeń Społecznych,
+    - **b)** numeru legitymacji pracowniczej lub dokumentu tożsamości i daty wydania tego dokumentu – w przypadku kontroli dokonywanej przez płatnika składek;
+
+- **5)** wskazanie zakresu kontroli;
+- **6)** podpis osoby udzielającej upoważnienia.
+
+**Art. 68c.**
+
+1. Czynności kontrolne są prowadzone w miejscu zamieszkania, miejscu pobytu, miejscu pracy osoby kontrolowanej lub w miejscu wykonywania przez nią pozarolniczej działalności lub w innym miejscu, jeżeli jest to konieczne ze względu na cel kontroli.
+
+2. Kontrolującemu przysługuje uprawnienie do:
+
+- **1)** wstępu do miejsca przeprowadzania kontroli,
+- **2)** legitymowania osoby kontrolowanej wyłącznie w celu ustalenia tożsamości,
+- **3)** żądania oraz odbierania informacji od osoby kontrolowanej, jej płatnika składek lub lekarza leczącego,
+- **4)** dostępu do danych ubezpieczonego i płatnika składek gromadzonych przez Zakład Ubezpieczeń Społecznych na koncie ubezpieczonego i koncie płatnika składek – jeżeli jest to uzasadnione celem prowadzonej kontroli.
+
+3. Kontrolujący jest obowiązany do:
+
+- **1)** okazania osobie kontrolowanej lub osobie przebywającej w miejscu przeprowadzania kontroli legitymacji służbowej albo pracowniczej oraz upoważnienia do przeprowadzenia kontroli;
+- **2)** poinformowania osoby kontrolowanej o jej uprawnieniach, w tym o możliwości zgłoszenia zastrzeżeń do protokołu kontroli;
+- **3)** zachowania w tajemnicy wszelkich informacji dotyczących prywatności osoby kontrolowanej pozyskanych w czasie kontroli.
+
+**Art. 68d.** Osoba kontrolowana jest obowiązana do:
+
+**Art. 68e.**
+
+1. Ustalenia kontroli opisuje się w protokole kontroli, który zawiera:
+
+- **1)** oznaczenie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych albo płatnika składek;
+- **2)** datę, godzinę i miejsce przeprowadzenia kontroli;
+- **3)** dane osoby kontrolowanej:
+    - **a)** imię i nazwisko,
+    - **b)** numer PESEL, a w razie gdy nie nadano numeru PESEL – datę urodzenia, rodzaj, serię i numer dokumentu tożsamości,
+    - **c)** miejsce zamieszkania lub pobytu,
+    - **d)** miejsce pracy;
+
+- **4)** dane osób kontrolujących:
+    - **a)** imię i nazwisko,
+    - **b)** numer legitymacji służbowej – w przypadku kontroli dokonywanej przez Zakład Ubezpieczeń Społecznych,
+    - **c)** numer legitymacji pracowniczej lub dokumentu tożsamości i datę wydania tego dokumentu – w przypadku kontroli dokonywanej przez płatnika składek;
+
+- **5)** okres orzeczonej niezdolności do pracy albo okres konieczności sprawowania opieki;
+- **6)** numer zaświadczenia lekarskiego o czasowej niezdolności do pracy albo oznaczenie decyzji o przyznaniu świadczenia rehabilitacyjnego;
+- **7)** imię i nazwisko lekarza, który wydał zaświadczenie o czasowej niezdolności do pracy;
+- **8)** opis dokonanych ustaleń;
+- **9)** pouczenie o prawie złożenia zastrzeżeń;
+- **10)** podpis osoby kontrolowanej;
+- **11)** wzmiankę o odmowie podpisania protokołu przez osobę kontrolowaną – w przypadku odmowy podpisania protokołu;
+- **12)** podpis osoby kontrolującej.
+
+2. Protokół kontroli sporządza się w dwóch egzemplarzach, z których jeden doręcza się osobie kontrolowanej.
+
+3. Zmiany protokołu kontroli dokonuje się przez wydanie aneksu do protokołu kontroli.
+
+4. Osoba kontrolowana ma prawo w terminie 7 dni od dnia otrzymania protokołu kontroli lub aneksu do protokołu kontroli złożyć zastrzeżenia do ustaleń w nich zawartych, wskazując równocześnie stosowne środki dowodowe.
+
+5. Zakład Ubezpieczeń Społecznych rozpatruje zgłoszone zastrzeżenia. O sposobie rozpatrzenia zastrzeżeń osobę kontrolowaną informuje się na piśmie.
+
+6. Do aneksu do protokołu kontroli sporządzonego w wyniku rozpatrzenia zgłoszonych zastrzeżeń nie stosuje się ust. 4.
+
+7. Protokół kontroli stanowi podstawę do wszczęcia przez Zakład Ubezpieczeń Społecznych postępowania w sprawie ustania prawa do zasiłku chorobowego, zasiłku opiekuńczego lub świadczenia rehabilitacyjnego oraz stanowi dowód w tym postępowaniu, chyba że z protokołu lub z uwzględnionych do niego zastrzeżeń nie wynika, że zwolnienie od pracy było wykorzystywane niezgodnie z jego celem.
+
+**Art. 68f.**
+
+1. Zakład Ubezpieczeń Społecznych, z urzędu lub na wniosek płatnika składek, jest uprawniony do formalnej kontroli zaświadczeń lekarskich obejmującej zwolnienia z powodu niezdolności do pracy, za które przysługuje zasiłek chorobowy lub wynagrodzenie za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz zwolnienia z powodu konieczności osobistego sprawowania opieki, za które przysługuje zasiłek opiekuńczy.
+
+2. Kontrola, o której mowa w ust. 1, polega na sprawdzeniu, czy zaświadczenie zostało wydane zgodnie z przepisami w sprawie zasad i trybu wystawiania zaświadczeń lekarskich.
+
+**Art. 68g.** Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór upoważnienia do przeprowadzenia kontroli prawidłowości wykorzystywania zwolnień od pracy i wzór protokołu tej kontroli, uwzględniając elementy upoważnienia i protokołu kontroli określone odpowiednio w art. 68b ust. 3 i art. 68e ust. 1.
+
+**Art. 69.** Do świadczenia rehabilitacyjnego stosuje się odpowiednio przepisy art. 61, art. 61a, [art. 61b ust. 1, 3 i 4] <art. 61b ust. 1, 3, 4 i 5b> i art. 63–68f oraz przepisy wydane na podstawie art. 61b ust. 6 i art. 68g.
 
 **Art. 70.**
 

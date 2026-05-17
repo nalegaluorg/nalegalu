@@ -8,9 +8,12 @@ pos: 1007
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 maja 2022 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy licencji doradcy restrukturyzacyjnego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 kwietnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1007/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 kwietnia 2022 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy licencji doradcy restrukturyzacyjnego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 czerwca 2007 r. licencji doradcy restrukturyzacyjnego (Dz. U. z 2020 r. poz. 242), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 18 listopada 2020 r. doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 1135),
 2) ustawą z dnia 28 maja 2021 r. zmianie ustawy Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw (Dz. U. poz. 1080) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 kwietnia 2022 r.
@@ -39,9 +40,10 @@ w sprawie ogłoszenia jednolitego tekstu ustawy licencji doradcy restrukturyzacy
 6) art. 122, który wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem pkt 5, który wchodzi w życie z dniem 1 stycznia 2026 r.;
 7) art. 58 ust. 1 pkt 4 i art. 63, które wchodzą w życie z dniem 1 października 2022 r.;
 8) art. 126 pkt 8, który wchodzi w życie z dniem 1 stycznia 2023 r.;
+9) art. 9 ust. 1 pkt 9, który wchodzi w życie z dniem 1 października 2026 r.;
 10) art. 82 pkt 2, w zakresie dodawanego art. 100b, i art. 159, które wchodzą w życie z dniem 1 października 2028 r.;
 11) art. 82 pkt 1, 2, w zakresie dodawanego art. 100a, i pkt 3–21, art. 93, art. 96 pkt 1–17 i 19, art. 105 oraz art. 162, które wchodzą w życie z dniem 1 października 2029 r.”;
-2) art. 11 i art. 12 ustawy z dnia 28 maja 2021 r. zmianie ustawy Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw (Dz. U. poz. 1080), które stanowią: „Art. 11. Do danych sprawach, w których wniosek ogłoszenie upadłości, wniosek wszczęcie wtórnego postępowania upadłościowego, wniosek uznanie orzeczenia wszczęciu zagranicznego postępowania upadłościowego, wniosek restrukturyzacyjny, wniosek stwierdzenie wykonania, zmianę albo uchylenie układu lub wniosek orzeczenie zakazu, którym mowa w art. 373 ust. 1 ustawy zmienianej w art. 2, wpłynął przed dniem wejścia w życie niniejszej ustawy, przepisu art. 17 ust. 3c ustawy zmienianej w art. 4 nie stosuje się.
+2) art. 11 i art. 12 ustawy z dnia 28 maja 2021 r. zmianie ustawy Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw (Dz. U. poz. 1080), które stanowią: wniosek restrukturyzacyjny, wniosek stwierdzenie wykonania, zmianę albo uchylenie układu lub wniosek orzeczenie zakazu, którym mowa w art. 373 ust. 1 ustawy zmienianej w art. 2, wpłynął przed dniem wejścia w życie niniejszej ustawy, przepisu art. 17 ust. 3c ustawy zmienianej w art. 4 nie stosuje się.
 
 **Art. 12.** Ustawa wchodzi w życie z dniem 1 grudnia 2021 r., z wyjątkiem:
 
@@ -205,8 +207,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy licencji doradcy restrukturyzacy
 
 - **1)** w okresie ostatnich 7 lat przed złożeniem wniosku, którym mowa w art. 16b ust. 2, przeprowadziła w całości co najmniej:
     - **a)** cztery postępowania upadłościowe przedsiębiorców zakończone prawomocnym postanowieniem zakończeniu postępowania upadłościowego oraz dwa postępowania restrukturyzacyjne lub postępowania upadłościowe z możliwością zawarcia układu lub postępowania naprawcze zakończone prawomocnym zatwierdzeniem układu albo
-    - **b)** sześć postępowań restrukturyzacyjnych lub postępowań upadłościowych z możliwością zawarcia układu lub postępowań naprawczych zakończonych prawomocnym zatwierdzeniem układu albo 3 lata majątkiem przedsiębiorcy będącym co najmniej średnim przedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 3 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24) jako członek zarządu spółki handlowej, wspólnik ponoszący odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem lub jako osoba fizyczna prowadząca działalność gospodarczą oraz przeprowadziła w całości co najmniej dwa postępowania restrukturyzacyjne lub postępowania upadłościowe z możliwością zawarcia układu lub postępowania naprawcze zakończone prawomocnym zatwierdzeniem układu, albo
+    - **b)** sześć postępowań restrukturyzacyjnych lub postępowań upadłościowych z możliwością zawarcia układu lub postępowań naprawczych zakończonych prawomocnym zatwierdzeniem układu albo
 
+- **2)** w okresie ostatnich 7 lat przed złożeniem wniosku, którym mowa w art. 16b ust. 2, zarządzała przez co najmniej 3 lata majątkiem przedsiębiorcy będącym co najmniej średnim przedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 3 ustawy swoim majątkiem lub jako osoba fizyczna prowadząca działalność gospodarczą oraz przeprowadziła w całości co najmniej dwa postępowania restrukturyzacyjne lub postępowania upadłościowe z możliwością zawarcia układu lub postępowania naprawcze zakończone prawomocnym zatwierdzeniem układu, albo
 - **3)** w okresie ostatnich 3 lat przed złożeniem wniosku, którym mowa w art. 16b ust. 2, przeprowadziła w całości co najmniej jedno postępowanie układowe lub sanacyjne zakończone prawomocnym zatwierdzeniem układu, w którym przyznanie ostatecznego wynagrodzenia nadzorcy lub zarządcy wynikało z ustalenia przez sąd, że w postępowaniu liczba wierzycieli będących uczestnikami postępowania była większa niż 100 oraz suma wierzytelności przysługujących wierzycielom będącym uczestnikami postępowania była większa niż 10 000 000 zł.
 
 2. Warunek przeprowadzenia w całości jednego z postępowań, których mowa w ust. 1, uznaje się za spełniony również w przypadku, gdy takie postępowanie przeprowadziła w całości spółka handlowa, której mowa w art. 157 ust. 2 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe lub w art. 24 ust. 1 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, w której osoba posiadająca licencję doradcy restrukturyzacyjnego była przez cały czas trwania tego postępowania wspólnikiem ponoszącym odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem albo członkiem zarządu reprezentującym spółkę.
@@ -330,7 +333,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy licencji doradcy restrukturyzacy
 
 4. Jeżeli dokumenty, których mowa w ust. 3 pkt 4 lit. c, nie znajdują się już w dyspozycji osoby posiadającej licencję doradcy restrukturyzacyjnego, obowiązek ich przedstawienia, w zakresie niezbędnym do podjęcia czynności nadzorczych, spoczywa na każdym podmiocie, który dysponuje tymi dokumentami.
 
-5. Jeżeli w wyniku przeprowadzenia wizytacji lub lustracji Minister Sprawiedliwości stwierdzi uchybienia w pełnieniu przez osobę posiadającą licencję doradcy restrukturyzacyjnego funkcji nadzorcy, zarządcy lub syndyka w toczących się postępowaniach restrukturyzacyjnych lub upadłościowych, informuje tych uchybieniach właściwego sędziego-komisarza. lub innych uchybieniach w działalności osoby posiadającej licencję doradcy restrukturyzacyjnego dotyczą toczącego się postępowania restrukturyzacyjnego lub upadłościowego, Minister Sprawiedliwości może przekazać sprawę do załatwienia sędziemu-komisarzowi w ramach nadzoru sprawowanego na podstawie przepisów ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe lub ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, chyba że sprzeciwia się temu charakter, waga oraz okoliczności wystąpienia możliwych nieprawidłowości.
+5. Jeżeli w wyniku przeprowadzenia wizytacji lub lustracji Minister Sprawiedliwości stwierdzi uchybienia w pełnieniu przez osobę posiadającą licencję doradcy restrukturyzacyjnego funkcji nadzorcy, zarządcy lub syndyka w toczących się postępowaniach restrukturyzacyjnych lub upadłościowych, informuje tych uchybieniach właściwego sędziego-komisarza. postępowania restrukturyzacyjnego lub upadłościowego, Minister Sprawiedliwości może przekazać sprawę do załatwienia sędziemu-komisarzowi w ramach nadzoru sprawowanego na podstawie przepisów ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe lub ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, chyba że sprzeciwia się temu charakter, waga oraz okoliczności wystąpienia możliwych nieprawidłowości.
 
 2. Sędzia-komisarz informuje Ministra Sprawiedliwości sposobie załatwienia sprawy przekazanej w trybie, którym mowa w ust. 1.
 

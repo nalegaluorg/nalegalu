@@ -8,9 +8,12 @@ pos: 183
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 stycznia 2022 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o izbach rolniczych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 grudnia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/183/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 grudnia 2021 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o izbach rolniczych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz. U. z 2018 r. poz. 1027), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw (Dz. U. poz. 1579) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 listopada 2021 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5–7 ustawy z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw (Dz. U. poz. 1579), które stanowią: „Art. 5. W latach 2021–2026 środki na dofinansowanie kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych odpowiednio w organizacjach, o których mowa w art. 35b ust. 1b ustawy zmienianej w art. 1, są ustalane w budżecie państwa w części, której dysponentem jest minister właściwy do spraw rolnictwa.
 Art. 50–55. (pominięte)

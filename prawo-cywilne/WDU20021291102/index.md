@@ -8,11 +8,12 @@ pos: 1102
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Zakaz praktyk naruszających zbiorowe interesy
+# o zmianie ustawy o ochronie konkurencji i konsumentów, ustawy - Kodeks postępowania cywilnego oraz ustawy o zwalczaniu nieuczciwej konkurencji
 
-*USTAWA zdnia 5 lipca 2002 ozmianie ustawy oochronie konkurencji ikonsumentów, ustawy Kodeks postępowania cywilnego oraz ustawy ozwalczaniu nieuczciwej konkurencji.*
+*USTAWA z dnia 5 lipca 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,88 +27,73 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021291102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1102/text.pdf) |
 
-#### Rozdział Praktyki naruszające zbiorowe interesy
+**Art. 1.** W ustawie z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz.U. Nr 122, poz. 1319 oraz z 2001 r. Nr 110, poz. 1189 i Nr 154, poz. 1800) wprowadza się następujące zmiany:
+
+#### Rozdział 1 Praktyki naruszające zbiorowe interesy konsumentów
 
 **Art. 23a.**
 
-1. Przez praktykę naruszającą zbiorowe interesy rozumie godzące nie bezprawne działanie przedsiębiorcy. Nie jest zbiorowym interesem suma indywidualnych interesów konsumentów.
+1. Przez praktykę naruszającą zbiorowe interesy konsumentów rozumie się godzące w nie bezprawne działanie przedsiębiorcy. Nie jest zbiorowym interesem konsumentów suma indywidualnych interesów konsumentów.
 
-2. Za praktykę naruszającą zbiorowe interesy uważa szczególności stosowanie postanowień wzorców umów, które zostały wpisane do rejestru postanowień wzorców umowy uznanych za niedozwolone, o którym mowa Kodeksu postępowania cywilnego, naruszanie obowiązku udzielania konsumentom rzetelnej, prawdziwej pełnej informacji, nieuczciwą wprowadzającą błąd reklamę inne czyny nieuczciwej konkurencji godzące zbiorowe interesy konsumentów.
+2. Za praktykę naruszającą zbiorowe interesy konsumentów uważa się w szczególności stosowanie postanowień wzorców umów, które zostały wpisane do rejestru postanowień wzorców umowy uznanych za niedozwolone, o którym mowa w art. 479 Kodeksu postępowania cywilnego, naruszanie obowiązku udzielania konsumentom rzetelnej, prawdziwej i pełnej informacji, nieuczciwą lub wprowadzającą w błąd reklamę i inne czyny nieuczciwej konkurencji godzące w zbiorowe interesy konsumentów.
 
-**Art. 23b.** Ochrona zbiorowych interesów konsumentów przewidziana ustawie nie wyłącza ochrony wynikającej innych ustaw, szczególności przepisów o zwalczaniu nieuczciwej konkurencji. Przepisów ustawy nie stosuje do spraw o uznanie postanowień wzorca umowy za niedozwolone.
+**Art. 23b.** Ochrona zbiorowych interesów konsumentów przewidziana w ustawie nie wyłącza ochrony wynikającej z innych ustaw, w szczególności z przepisów o zwalczaniu nieuczciwej postanowień wzorca umowy za niedozwolone.
 
-#### Rozdział 2 Decyzje praktyk naruszających zbiorowe interesy
+#### Rozdział 2 Decyzje w sprawach praktyk naruszających zbiorowe interesy konsumentów
 
 **Art. 23c.**
 
-1. Prezes decyzji o uznaniu praktyki za naruszającą zbiorowe interesy nakazuje zaniechanie jej stosowania.
+1. Prezes Urzędu w decyzji o uznaniu praktyki za naruszającą zbiorowe interesy konsumentów nakazuje zaniechanie jej stosowania.
 
-2. W decyzji, o której mowa ust. 1, Prezes określić środki wych interesów konsumentów.”;
+2. W decyzji, o której mowa w ust. 1, Prezes Urzędu może określić środki usunięcia trwających skutków naruszenia zbiorowych interesów konsumentów w celu zapewnienia wykonania nakazu, w szczególności zobowiązać przedsiębiorcę do złożenia jednokrotnego lub wielokrotnego oświadczenia o treści i w formie określonej w decyzji. Może również nakazać publikację decyzji w całości lub w części na koszt przedsiębiorcy.
 
-- **3)** 26 pkt 2 otrzymuje brzmienie: Ń2) wydawanie, przypadkach określonych ustawą, decyzji przeciwdziałania praktykom ograniczającym konkurencję, sprawach koncentracji podziału przedsiębiorców oraz przeciwdziałania praktykom naruszającym zbiorowe interesy konsumentów, atakże decyzji kar pieniężnych,”;
-- **4)** 27 ust. 2 otrzymuje brzmienie: Ń2. Decyzje ipostanowienia Prezesa Urzędu, atakże orzeczenia Sądu Okręgowego Warszawie sądu ochrony konkurencji konsumentów, zwanego dalej «sądem ochrony konkurencji konsumentów», oraz Sądu Najwyższego sprawach dotyczących kasacji od wyroków sądu ochrony konkurencji ich sentencje, zpominięciem informacji stanowiących tajemnicę przedsiębiorstwa, jak również innych tajemnic podlegających ochronie na podstawie odrębnych przepisów, mogą być wcałości wczęści publikowane wDzienniku Urzędowym Ochrony Konkurencji iKonsumentów.”;
-- **5)** po 38 dodaje 38awbrzmieniu: ŃArt. 38a. 1. Przy Prezesie tworzy Krajową Radę Rzeczników Konsumentów, zwaną dalej «Radą».
-
-2. Rada jest stałym organem opiniodawczo-doradczym Prezesa zakresie spraw związanych ochroną praw na szczeblu samorządu powiatowego.
-
-3. Do zadań należy szczególności: przedstawianie propozycji dotyczących kierunków zmian legislacyjnych przepisach dotyczących ochrony praw konsumentów,
-
-- **2)** wyrażanie opinii przedmiocie projektów aktów prawnych kierunków rządowej polityki konsumenckiej,
-- **3)** wyrażanie opinii innych sprakonsumentów. W przypadku odwołania funkcji rzecznika konsumentów, członkostwo wRadzie wygasa.
-
-6. Członek być odwołany przez Prezesa zpowodu: naruszenia obowiązków wynikających zczłonkostwa wRadzie,
-
-- **2)** choroby uniemożliwiającej wykonywanie zadań członka Rady,
-- **3)** złożenia rezygnacji.
-
-7. Obsługę administracyjną zapewnia Urząd.
-
-8. Urząd zwraca członkom koszty przejazdów na posiedzenia Rady, na zasadach określonych przepisach wsprawie należności przysługujących pracownikowi ztytułu podróży służbowej na obszarze kraju.
-
-9. Tryb pracy określa regulamin ustalony przez Prezesa Urzędu.”;
-
-- **6)** 42 ust. i2 otrzymują brzmienie: Ń1. Postępowanie przed Prezesem jest prowadzone jako postępowanie wyjaśniające, postępowanie antymonopolowe postępowanie sprawie praktyk naruszających zbiorowe interesy konsumentów.
-
-2. Postępowanie wyjaśniające poprzedzać wszczęcie postępowania antymonopolowego postępowania wsprawie praktyk naruszających zbiorowe interesy konsumentów.”;
-
-- **7)** 43 wust. 2 po pkt dodaje pkt 1awbrzmieniu: Ń1a) wstępne ustalenie, czy nastąpiło naruszenie uzasadniające wszczęcie postępowania sprawie zakazu stosowania praktyk naruszających zbiorowe interesy konsumentów,”;
-- **8)** 44 ust. otrzymuje brzmienie: Ń1. Postępowanie antymonopolowe sprawach praktyk ograniczających konkurencję oraz koncentracji, atakże postępowanie sprawach praktyk naruszających zbiorowe interesy wszczyna na wniosek zurzędu.”; sumentów,”;
-- **12)** 68 po wyrazach Ń zzastrzeżeniem 93” dodaje wyrazy Ńiart. 100g”;
-- **13)** dziale V po rozdziale 3 dodaje rozdział 4 wbrzmieniu: ŃRozdział 4 Postępowanie praktyk naruszających zbiorowe interesy
+**Art. 23d.** Jeżeli nie zachodzą okoliczności określone w art. 23a, Prezes Urzędu wydaje decyzję, w której stwierdza, że dana praktyka nie narusza zbiorowych interesów konsumentów.”;
 
 **Art. 100a.**
 
-1. Z wnioskiem o wszczęcie postępowania sprawie praktyki naruszającej zbiorowe interesy konsumentów wystąpić: Rzecznik Praw Obywatelskich,
+1. Z wnioskiem o wszczęcie postępowania w sprawie praktyki naruszającej zbiorowe interesy konsumentów może wystąpić:
 
-- **2)** rzecznik ubezpieczonych,
+- **1)** Rzecznik Praw Obywatelskich,
+- **2)** Rzecznik ubezpieczonych,
 - **3)** rzecznik konsumentów,
 - **4)** organizacja konsumencka.
 
-2. Z wnioskiem, o którym mowa wust. 1, także wystąpić zagraniczna organizacja wpisana na listę organizacji uprawnionych państwach Unii Europejskiej do złożenia wniosku owszczęcie postępowania, opublikowaną Dzienniku Urzędowym Wspólnot Europejskich, jeżeli cel jej działania uzasadnia wystąpienie przez nią zwnioskiem owszczęcie postępowania dotyczącego naruszenia wynikającego niezgodnych prawem zaniechań działań podjętych Polsce, zagrażających zbiorowym interesom konsumentów państwie członkowskim, którym organizacja ta ma swoją siedzibę.
+2. Z wnioskiem, o którym mowa w ust. 1, może także wystąpić zagraniczna organizacja wpisana na listę organizacji uprawnionych w państwach Unii Europejskiej do złożenia wniosku o wszczęcie postępowania, opublikowaną w Dzienniku Urzędowym Wspólnot Europejskich, jeżeli cel jej działania uzasadnia wystąpienie przez nią z wnioskiem o wszczęcie postępowania dotyczącego naruszenia wynikającego z niezgodnych z prawem zaniechań lub działań podjętych w Polsce, zagrażających zbiorowym interesom konsumentów w państwie członkowskim, w którym organizacja ta ma swoją siedzibę.
 
-3. Przepisy 84 ust. 2 i3 stosuje odpowiednio.
+3. Przepisy art. 84 ust. 2 i 3 stosuje się odpowiednio.
 
 **Art. 100b.**
 
-1. Prezes może, drodze decyzji, odmówić wszczęcia postępowania, jeżeli zawartych we wniosku oraz posiadanych przez Prezesa informacji wynika sposób oczywisty, że zbiorowe interesy nie uległy naruszeniu. Przepis 85 ust. 2 stosuje owszczęciu postępowania,
+1. Prezes Urzędu może, w drodze decyzji, odmówić wszczęcia postępowania, jeżeli z zawartych we wniosku oraz posiadanych przez Prezesa Urzędu informacji wynika w sposób oczywisty, że zbiorowe interesy konsumentów nie uległy naruszeniu. Przepis art. 85 ust. 2 stosuje się odpowiednio.
 
-- **2)** jeżeli wniosek nie spełnia wymogów, o których mowa 84 ust. 2.
+2. Prezes Urzędu, w drodze postanowienia, odmawia wszczęcia postępowania, jeżeli z wnioskiem wystąpiła osoba nieuprawniona na podstawie art. 100a ust. 1 lub 2.
 
-4. Na postanowienia, októrych mowa wust. 2 i3, wnioskodawcy przysługuje zażalenie.
+3. Prezes Urzędu może, w drodze postanowienia, odmówić wszczęcia postępowania:
 
-**Art. 100c.** Stroną postępowania jest każdy, kto wnosi o wydanie decyzji sprawie praktyki naruszającej zbiorowe interesy wobec kogo zostało wszczęte postępowanie ostosowanie takiej praktyki.
+- **1)** w przypadku niedostarczenia przez wnioskodawcę w wyznaczonym terminie informacji niezbędnych do rozstrzygnięcia o wszczęciu postępowania,
+- **2)** jeżeli wniosek nie spełnia wymogów, o których mowa w art. 84 ust. 2.
 
-**Art. 100d.** W postępowaniu przed Prezesem być zawarta ugoda, jeżeli przemawia za tym charakter sprawy, a ugoda nie zmierza do obejścia prawa albo nie narusza interesu publicznego słusznego interesu konsumentów.
+4. Na postanowienia, o których mowa w ust. 2 i 3, wnioskodawcy przysługuje zażalenie .
 
-**Art. 100e.** Prezes nadać decyzji całości części rygor natychmiastowej wykonalności, jeżeli wymaga tego ważny interes konsumentów.
+**Art. 100c.** Stroną postępowania jest każdy, kto wnosi o wydanie decyzji w sprawie praktyki naruszającej zbiorowe interesy konsumentów lub wobec kogo zostało wszczęte postępowanie o stosowanie takiej praktyki.
 
-**Art. 100f.** Postępowanie sprawie praktyki naruszającej zbiorowe interesy konsumentów powinno zakończyć nie póêniej niż ciągu dwóch miesięcy, a sprawie szczególnie skomplikowanej nie póêniej niż wciągu trzech miesięcy od dnia wszczęcia postępowania. Przepisy 35—38 Kodeksu postępowania administracyjnego stosuje odpowiednio.
+**Art. 100d.** W postępowaniu przed Prezesem Urzędu może być zawarta ugoda, jeżeli przemawia za tym charakter sprawy, a ugoda nie zmierza do interesu konsumentów.
 
-**Art. 100g.** Nie wszczyna postępowania sprawie stosowania praktyk naruszających zbiorowe interesy konsumentów, jeżeli od końca roku, którym zaprzestano ich stosowania, upłynął rok.
+**Art. 100e.** Prezes Urzędu może nadać decyzji w całości lub w części rygor natychmiastowej wykonalności, jeżeli wymaga tego ważny interes konsumentów.
 
-**Art. 100h.** Postępowanie sprawach praktyk naruszających zbiorowe interesy konsumentów jest wolne od opłat.”;
+**Art. 100f.** Postępowanie w sprawie praktyki naruszającej zbiorowe interesy konsumentów powinno się zakończyć nie później niż w ciągu dwóch miesięcy, a w sprawie szczególnie skomplikowanej - nie później niż w ciągu trzech miesięcy od dnia wszczęcia postępowania. Przepisy art. 35-38 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
-**Art. 2.** Wustawie zdnia 17 listopada 1964 Ko121, 769 770, 133, 882, 139, 934, 140, 940 141, 944, 1998 106, 668 117, 757, 1999 52, 532, z2000 22, 269 i271, 48, 552 i554, 55, 665, 73, 852, 94, 1037, 114, 1191 i1193 iNr 122, 1314, 1319 i1322, z2001 4, 27, 49, 508, 63, 635, 98, 1069, 1070 i1071, 123, 1353, 125, 1368 138, 1546 oraz 2002 25, 253, 26, 265, 74, 676, 84, poz.764 126, 1069 1070) wprowadza następujące zmiany: użyte § 1, , , iwart. wróżnych przypadkach wyrazy ŃSąd Okręgowy wWarszawie sąd antymonopolowy” zastępuje użytymi odpowiednich przypadkach wyrazami ŃSąd Okręgowy Warszawie sąd ochrony konkurencji ikonsumentów”;
+**Art. 100g.** Nie wszczyna się postępowania w sprawie stosowania praktyk naruszających zbiorowe interesy konsumentów, jeżeli od końca roku, w którym zaprzestano ich stosowania, upłynął rok.
 
-**Art. 3.** Wustawie zdnia 16 kwietnia 1993 ozwalsięcy od dnia ogłoszenia. Okręgowy Warszawie sąd ochrony konkurencji ikonsumentów. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1103 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 30 lipca 2002 wsprawie uznania miasta Krasnobród za uzdrowisko. Na podstawie ust. ustawy dnia 17 czerw- § 1. Miasto Krasnobród uznaje za uzdrowisko. ca 1966 o uzdrowiskach lecznictwie uzdrowiskowym (Dz. U. 23, 150, 1987 33, 180, § 2. Rozporządzenie wchodzi życie po upływie 1989 35, 192, 1990 34, 198, 14dni od dnia ogłoszenia. 1998 162, 1116 oraz 2000 120, poz.1268) zarządza się, co następuje: Prezes Ministrów: z. M. Pol 1104 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 6 sierpnia 2002 zmieniające rozporządzenie wsprawie szczegółowego trybu zbywania akcji Skarbu Państwa, zasad finansowania zbycia akcji oraz formy zapłaty za te akcje. Na podstawie 33 ust. 2 oraz 35 ust. 3 ustawy zdnia 30 sierpnia 1996 okomercjalizacji iprywatyzacji przedsiębiorstw państwowych (Dz. U. 118, 561 156, 775, 1997 32, 184, 98, 603, 106, 673, 121, 770, 137, 926 141, 945, 1998 106, 668, 1999 40, 400 101, 1178, z2000 15, 180, 26, 306, 31, 383, 60, 703, 84, 948 122, 1315, oraz formy zapłaty za te akcje (Dz. U. 95, 578 iz1998 74, 478) w§ 7: dotychczasowa treść otrzymuje oznaczenie ust. 1;
+**Art. 100h.** Postępowanie w sprawach praktyk naruszających zbiorowe interesy konsumentów jest wolne od opłat.”;
+
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz.U Nr 43, poz. 296, z 1965 r. Nr 15. poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546 oraz z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764 i Nr 126, poz. 1069 i 1070) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz.U. Nr 47, poz. 211, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 29, poz. 356 i Nr 93, poz. 1027 oraz z 2002 r. Nr 126, poz. 1068 i 1071) w art. 19 wprowadza się następujące zmiany:
+
+**Art. 4.** Ilekroć w odrębnych przepisach jest mowa o sądzie antymonopolowym, rozumie się przez to Sąd Okręgowy w Warszawie - sąd ochrony konkurencji i konsumentów.
+
+**Art. 5.** Z dniem wejścia w życie ustawy Krajowa Rada Rzeczników Konsumentów, powołana na podstawie dotychczasowych przepisów, staje się Radą, o której mowa w art. 38a ustawy zmienianej w art. 1 niniejszej ustawy.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia.
 

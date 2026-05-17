@@ -8,9 +8,12 @@ pos: 226
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# 14 J. Janiszewski 226 10 1999
+# sprawie bezpieczeństwa higieny pracy uboju zwierząt przetwórstwie mięsa.
+
+*ROZPORZĄDZENIE MINISTRA ROLNICTWA I GOSPODARKI ŻYWNOŚCIOWEJ dnia 10 marca 1999 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,46 +26,68 @@ domain: null
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990250226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/226/text.pdf) |
 
-1.
-2. 1.
-2.
-3. 1.
-4.
-5.
-6. 1. 2, wykonane z elastycznej gumy tworzywa, nie skóry. W ra zie dopuszcza stosowanie poganiaczy elektrycznych.
-9. W magazynie konie przeznaczo ne do uboju umieszczone kojcach do
-10. 1. swoim zachowaniem dla ludzi innych do prowadzane do uboju pierwszej
-2. W pomieszczeniu przeznaczonym do przedubo jowego konie do umieszczone ko morach ubojowych.
-11. 1. Pracownik zatrudniony na stanowisku przedubojowego powinien po kleszczami elektrodowymi zasilanymi z transformatora separacyjnego o nie 400 V przy sieciowej 50 Hz, których uchwyty warunki izolacji elek dla tego rodzaju
-2. sterowania z elektrod klesz czy, o których mowa ust. 1, od powi nien samoczynnie spadek po elektrodami V.
-12. W czasie przerw pracy po jej niu stosowane do przedubojowego miania zabezpieczo ne przed osób nie
-13. 1. Stanowiska pracy przy oparzelni ka poparzenie pracowników.
-2. Górna oparzelnika powinna znajdo na nie mniejszej 1,10 m od po ziomu stanowiska pracy, o którym mowa ust. 1.
-14. Stanowiska pracy przy
-1) doczyszczaniu tusz wieprzowych znajdo nie mniejszej 1,0 m od szczeciniarki,
-2) opalaniu tusz wieprzowych poparzenie pra cowników,
-16. 1. Przy ostrymi na stosowane ochrony in dywidualnej przedramienia, udo wej dolnych.
-2. Ostre o których mowa ust. 1, powin ny
-1) czasie przerw pracy zabezpieczone przed do do nich osób nie
-2) po pracy umyte, zdezynfekowane za bezpieczone przed do nich osób nie upo
-17.1. Popychanie surowca do roz drabniania powinno za specjal nego popychacza.
-2. Niedopuszczalne jest zgarnianie surowca z tarczy przepustowej o którym mowa ust. 1.
-18. W czasie pracy mieszalniczych po bieranie próbek masy powinno przy specjalnych
-19. 1. Komory parzelnicze szczelne stopniu przedosta wanie dymu pary wodnej do
-2. Niedopuszczalne jest otwieranie komór niczych bez uprzedniego ich przewietrzenia.
-20. W czasie pracy do porcjowania pakowania wyrobów gotowych niedopuszczalne jest
-1) do dozownika, podajnika
-2) przekraczanie dopuszczalnego go powietrza,
-3) blokowanie sterowania,
-4) czujników
-5) odchylanie zdejmowanie z
-21. Traci moc Ministra Rolnic twa Gospodarki z dnia 28 stycznia 227 z dnia 29 stycznia 1999 r.
-Na podstawie art. 22 ust. 2 pkt 1 art. 26 ust. 2 usta wy z dnia 7 1991 r. o systemie (Dz. U.
-z 1996 r. 67, poz. 329 106, poz. 496, z 1997 r.
-28, poz. 153 141, poz. 943 oraz z 1998 r. 117, poz. 759) co
-1. Ustala ramowe plany nauczania publicz nych medycznych dla zawodów klasyfikacji zawodów szkolnictwa zawodowego, sta do Ministra Eduka cji Narodowej z dnia 18 grudnia 1997 r. sprawie kla syfikacji zawodów szkolnictwa zawodowego (Dz. U.
-z 1998 r. 4, poz. 9), nr 1-4 do niniejszego
-2. liceach medycznych jest prowa dzone ramowych planów nauczania nych dotychczasowymi przepisami do cy klu
-3. Traci moc Ministra Zdrowia Opie ki z dnia 7 sierpnia 1993 r. sprawie ramo wych planów nauczania publicznych me dycznych (Dz. Urz. MZiOS 9, poz. 28 z 1994 r. 13, poz. 27).
-4. wchodzi po 14 dni od dnia Minister Zdrowia Opieki W. Maksymowicz
+Na podstawie art. 237 § 2 Kodeksu pracy zarządza się, co następuje: § Rozporządzenie określa wymagania bezpieczeństwa higieny pracy pracowników zatrudnionych uboju zwierząt przetwórstwie mięsa rzeźniach, przetwórniach mięsa masarniach, zwanych dalej „zakładami”.
+§ Pracownicy uszkodzonym naskórkiem rąk powinni być dopuszczeni pracy wymagającej bezpośredniej styczności przetwarzanym surowcem, półproduktem produktem.
+jest:
+1) wykonywanie czynności pracy długimi, polakierowanymi lub naklejonymi paznokciami u rąk,
+2) noszenie biżuterii ręcznych zegarków podczas pracy.
+§ 3.
+Punkty czerpania wody mycia należy wyposażyć urządzenia mieszania wody zimnej gorącej zaworami zwrotnymi lub dopływ ciepłej wody.
+Węże stosowane mycia powinny być zakończone końcówkami samozamykającymi zawieszone na specjalnych zwijaczach taki sposób, aby ich końcówki znajdowały się niżej niż 0,6 m od posadzki.
+3. W pomieszczeniach produkcyjnych umywalniach zawory wodne zainstalowane umywalkach powinny być przystosowane otwierania bez użycia rąk.
+§ 4.
+funkcję.
+§ 5.
+Wózki służące transportu wewnętrznego oraz pozostały sprzęt jezdny używany pomieszczeniach produkcyjnych, komorach wędzarniczych, chłodniach magazynach zakładów powinny być wyposażone koła wykonane materiału powodującego brudzenia posadzki oraz odpornego na działanie środków stosowanych mycia dezynfekcji.
+§ 6.
+Rurociągi, zastrzeżeniem ust. 2, powinny być:
+1) oznakowane zgodnie Polskimi Normami,
+2) usytuowane na wysokości co najmniej 2,50 m od podłoża stanowiska pracy lub drogi komunikacyjnej; jeżeli warunki techniczne pozwalają na usytuowanie rurociągów na wysokości 2,50 m, dopuszcza się ich instalowanie na wysokości mniejszej niż 2,0 m pod warunkiem ich widocznego oznakowania.
+Rurociągi przewodzące gorące lub żrące czynniki technologiczne, prowadzone nad stanowiskami pracy lub drogami komunikacyjnymi, powinny mieć zainstalowane miejscowe rynny odpływowe izolację termiczną.
+§ 7.
+Konfiskator odpadów produkcyjnych służących transportu magazynowania tych odpadów oraz jego wyposażenie powinny być zlokalizowane wydzielonym miejscu zakładu.
+Konfiskator odpadów produkcyjnych, miejsce składowania obornika zbiorniki gnojowicy, powinny być opróżniane, myte dezynfekowane rzadziej niż co trzy doby.
+§ 8.
+Do poganiania zwierząt na terenie zakładu należy stosować narzędzia wykonane elastycznej gumy lub tworzywa, powodujące uszkodzeń skóry. W razie konieczności dopuszcza się stosowanie poganiaczy elektrycznych.
+§ 9.
+W magazynie żywca bydło konie przeznaczone uboju powinny być umieszczone kojcach lub przywiązane uwiązów.
+§ 10.
+W pomieszczeniu przeznaczonym przedubojowego oszałamiania zwierząt, konie bydło powinny być przywiązane uwiązów lub umieszczone komorach ubojowych.
+§ 11.
+Pracownik zatrudniony na stanowisku przedubojowego oszałamiania zwierząt powinien posługiwać się kleszczami elektrodowymi zasilanymi transformatora separacyjnego prądem o napięciu przekraczającym 400 V częstotliwości sieciowej 50 Hz, których uchwyty powinny spełniać warunki określające rezystancje izolacji wytrzymałość elektryczną dla tego rodzaju urządzeń.
+Układ sterowania chwilą odjęcia elektrod kleszczy, o których mowa ust. 1, od ciała zwierzęcia powinien spowodować samoczynnie spadek napięcia pomiędzy elektrodami poniżej 25 V.
+§ 12.
+W czasie przerw pracy lub po jej zakończeniu urządzenia stosowane przedubojowego oszołamiania zwierząt powinny być wyłączone zabezpieczone przed dostępem osób upoważnionych.
+§ 13.
+Stanowiska pracy obsłudze oparzelnika powinny znajdować się odległości uniemożliwiającej poparzenie pracowników.
+Górna krawędź oparzelnika powinna znajdować się na wysokości mniejszej niż 1,10 m od poziomu podłogi stanowiska pracy, o którym mowa ust.
+§ 14.
+Stanowiska pracy ręcznym:
+1) doczyszczaniu tusz wieprzowych powinny znajdować się odległości mniejszej niż 1,0 m od szczeciniarki,
+2) opalaniu tusz wieprzowych powinny znajdować się odległości uniemożliwiającej poparzenie pracowników,
+3) zdejmowaniu skór tusz bydła koni powinny być wyposażone stoły lub inne urządzenia przeznaczone tego celu.
+§ 15.
+Podwieszone mechaniczne urządzenia ręcznego przepoławiania tusz zwierząt rzeźnych (przecinarki) powinny być wyposażone przeciwwagi oraz osłony chroniące pracowników przed odpryskami kości mięsa.
+ochrony indywidualnej dłoni, przedramienia, tułowia części udowej kończyn dolnych.
+Ostre narzędzia, o których mowa ust. 1, powinny być:
+1) czasie przerw pracy zabezpieczone przed dostępem nich osób upoważnionych,
+2) po zakończeniu pracy umyte, zdezynfekowane zabezpieczone przed dostępem nich osób upoważnionych.
+§ 17.
+Popychanie surowca urządzeniu rozdrabniania powinno odbywać się za pomocą specjalnego popychacza.
+jest zgarnianie ręką surowca tarczy przepustowej urządzenia, o którym mowa ust.
+§ 18.
+W czasie pracy urządzeń mieszalniczych pobieranie próbek masy mięsnej powinno odbywać się użyciu specjalnych łopatek.
+§ 19.
+Komory wędzarnicze parzelnicze powinny być szczelne stopniu uniemożliwiającym przedostawanie się dymu lub pary wodnej pomieszczeń.
+jest otwieranie komór wędzarniczych bez uprzedniego ich przewietrzenia.
+§ 20.
+W czasie pracy urządzenia porcjowania pakowania wyrobów gotowych niedopuszczalne jest szczególności:
+1) zbliżanie rak dozownika, podajnika lub szczęk zgrzewających,
+2) przekraczanie dopuszczalnego ciśnienia sprężonego powietrza,
+3) blokowanie wyłączników krańcowych układzie sterowania,
+4) wyłączanie czujników blokujących napęd,
+5) odchylanie lub zdejmowanie osłon urządzenia.
+§ 21.
+Traci moc rozporządzenie Ministra Rolnictwa Gospodarki Żywnościowej dnia 28 stycznia 1993 r. sprawie bezpieczeństwa higieny pracy uboju zwierząt przetwórstwa mięsa (Dz.U. Nr 12, poz. 58).
+Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

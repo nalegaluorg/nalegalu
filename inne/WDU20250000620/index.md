@@ -8,9 +8,12 @@ pos: 620
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 maja 2025 r.
+# o rynku pracy i służbach zatrudnienia
+
+*USTAWA z dnia 20 marca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,11 +24,8 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-20 |
 | Data wydania | 2025-05-12 |
-| Ostatnia zmiana | 2026-04-13 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000620) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/620/text.pdf) |
-
-USTAWA z dnia 20 marca 2025 r.
-o rynku pracy i służbach zatrudnienia
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -43,7 +43,7 @@ o rynku pracy i służbach zatrudnienia
 3. Ustawa ma zastosowanie do:
 
 - **1)** obywateli polskich poszukujących i podejmujących zatrudnienie lub inną pracę zarobkową na terytorium Rzeczypospolitej Polskiej oraz pracę za granicą u pracodawców zagranicznych;
-- **2)** cudzoziemców poszukujących i podejmujących zatrudnienie lub inną pracę zarobkową na terytorium Rzeczypospolitej Polskiej:
+- **2)** cudzoziemców poszukujących i podejmujących zatrudnienie lub inną pracę zarobkową na terytorium Rzeczypospolitej Polskiej: poz. 223, 389 i 619), o cudzoziemcach, lub zezwolenie na pobyt czasowy, o którym mowa w art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, albo przebywających na terytorium Rzeczypospolitej Polskiej w ramach ruchu bezwizowego w związku z wnioskiem wpisanym do ewidencji wniosków w sprawie pracy sezonowej, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), o cudzoziemcach, lub zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 186 ust. 1 pkt 9 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
     - **a)** obywateli państw członkowskich Unii Europejskiej,
     - **b)** obywateli państw Europejskiego Obszaru Gospodarczego nienależących do Unii Europejskiej,
     - **c)** obywateli państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, którzy mogą korzystać ze swobody przepływu osób na podstawie umów zawartych przez te państwa z Unią Europejską i jej państwami członkowskimi,
@@ -54,16 +54,16 @@ o rynku pracy i służbach zatrudnienia
     - **h)** którym udzielono ochrony uzupełniającej w Rzeczypospolitej Polskiej,
     - **i)** posiadających w Rzeczypospolitej Polskiej zgodę na pobyt ze względów humanitarnych lub zgodę na pobyt tolerowany,
     - **j)** korzystających w Rzeczypospolitej Polskiej z ochrony czasowej,
-    - **k)** będących stronami postępowania w sprawie udzielenia ochrony międzynarodowej, którzy posiadają zaświadczenie wydane na podstawie art. 35 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389 i 619),
+    - **k)** będących stronami postępowania w sprawie udzielenia ochrony międzynarodowej, którzy posiadają zaświadczenie wydane na podstawie art. 35 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r.
     - **l)** posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 127, art. 137a lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619),
     - **m)** posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 144, art. 151 ust. 1, art. 151b ust. 1, art. 159 ust. 1, art. 160, art. 161, art. 161b ust. 1, art. 176, art. 186 ust. 1 pkt 1, 2, 4, 5 i 7 lub art. 187 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub posiadających wizę krajową w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej, z adnotacją „student”, lub wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych,
     - **n)** posiadających zezwolenie na pobyt czasowy, o którym mowa w art. 114 ust. 1 albo 1a, albo art. 126 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, albo wizę wydaną w celu wykonywania pracy na terytorium Rzeczypospolitej Polskiej,
-    - **o)** posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 5a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub zezwolenie na pobyt czasowy, o którym mowa w art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, albo przebywających na terytorium Rzeczypospolitej Polskiej w ramach ruchu bezwizowego w związku z wnioskiem wpisanym do ewidencji wniosków w sprawie pracy sezonowej, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621),
-    - **p)** posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 23 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 186 ust. 1 pkt 9 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+    - **o)** posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 5a ustawy z dnia 12 grudnia 2013 r.
+    - **p)** posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 23 ustawy z dnia 12 grudnia 2013 r.
 
 - **3)** cudzoziemców towarzyszących na terytorium Rzeczypospolitej Polskiej cudzoziemcowi, o którym mowa w pkt 2 lit. a–c, jako członkowie rodziny w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688 oraz z 2025 r. poz. 619);
-- **4)** cudzoziemców członków rodzin cudzoziemców, o których mowa w pkt 2 lit. g–j;
-- **5)** cudzoziemców członków rodzin obywateli polskich, którzy uzyskali zezwolenie na pobyt czasowy na terytorium Rzeczypospolitej Polskiej albo po złożeniu wniosku o udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej przebywają na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, jeżeli bezpośrednio przed złożeniem wniosku o udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej posiadali zezwolenie na pobyt czasowy;
+- **4)** cudzoziemców – członków rodzin cudzoziemców, o których mowa w pkt 2 lit. g–j;
+- **5)** cudzoziemców – członków rodzin obywateli polskich, którzy uzyskali zezwolenie na pobyt czasowy na terytorium Rzeczypospolitej Polskiej albo po złożeniu wniosku o udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej przebywają na terytorium Rzeczypospolitej Polskiej [na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej] <na podstawie art. 108 ust. 1 pkt 2, art. 206 ust. 1 pkt 2 lub art. 222a ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach>, jeżeli bezpośrednio przed złożeniem wniosku o udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej posiadali zezwolenie na pobyt czasowy;
 - **6)** cudzoziemców towarzyszących na terytorium Rzeczypospolitej Polskiej obywatelowi polskiemu jako członek rodziny w rozumieniu art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
@@ -119,22 +119,19 @@ o rynku pracy i służbach zatrudnienia
 2. Do zakresu działania wojewódzkich rad rynku pracy należy:
 
 - **1)** inspirowanie przedsięwzięć zmierzających do pełnego i produktywnego zatrudnienia i rozwoju zasobów ludzkich, wzmacniania integracji i solidarności społecznej oraz zwiększania mobilności na rynku pracy;
-- **2)** ocena racjonalności gospodarki środkami Funduszu Pracy w województwie;
-- **3)** składanie wniosków i wydawanie opinii w sprawach dotyczących kierunków kształcenia, w tym opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, szkolenia zawodowego oraz zatrudnienia w województwie;
+- **2)** ocena racjonalności gospodarki środkami Funduszu Pracy w województwie; [3) składanie wniosków i wydawanie opinii w sprawach dotyczących kierunków kształcenia, w tym opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, szkolenia zawodowego oraz zatrudnienia w województwie;] <3) składanie wniosków i wydawanie opinii w sprawach dotyczących kierunków kształcenia, szkolenia zawodowego oraz zatrudnienia w województwie;>
 - **4)** ocenianie okresowych sprawozdań z działalności WUP oraz przedstawianie Radzie Rynku Pracy okresowych sprawozdań z działań wojewódzkich rad rynku pracy;
 - **5)** delegowanie przedstawicieli do komisji konkursowej dokonującej wyboru kandydata na stanowisko dyrektora WUP;
 - **6)** opiniowanie wniosków o odwołanie dyrektora WUP;
 - **7)** coroczne opiniowanie wykazu zawodów, w których za przygotowanie zawodowe młodocianych pracowników może być dokonywana refundacja, o której mowa w art. 348 ust. 1;
 - **8)** opiniowanie priorytetów wydatkowania środków KFS, o których mowa w art. 32 ust. 1 pkt 2 lit. b;
 - **9)** opiniowanie kryteriów podziału środków Funduszu Pracy przeznaczonych dla PUP w danym województwie na finansowanie form pomocy i zadań fakultatywnych;
-- **10)** delegowanie przedstawiciela do udziału w posiedzeniach organów instytucji lub organizacji, działających na podstawie odrębnych przepisów;
-- **11)** realizowanie innych zadań wynikających z odrębnych przepisów.
+- **10)** delegowanie przedstawiciela do udziału w posiedzeniach organów instytucji lub organizacji, działających na podstawie odrębnych przepisów; <10a) przedstawianie kandydatów na członków wojewódzkiego zespołu koordynacji do spraw polityki umiejętności, o których mowa w ustawie z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451);>
+- **11)** realizowanie innych zadań wynikających z odrębnych przepisów. [3. Przed wydaniem opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, wojewódzka rada rynku pracy może zasięgnąć opinii powiatowej rady rynku pracy.
 
-3. Przed wydaniem opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, wojewódzka rada rynku pracy może zasięgnąć opinii powiatowej rady rynku pracy.
+4. Wojewódzka rada rynku pracy wydaje opinię o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, po zapoznaniu się z prognozą zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy, o której mowa w art. 46b ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm.7 ).
 
-4. Wojewódzka rada rynku pracy wydaje opinię o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, po zapoznaniu się z prognozą zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy, o której mowa w art. 46b ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm. ).
-
-5. Opinia o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy jest wydawana na okres 5 lat. Po upływie tego okresu art. 68 ust. 7b ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe stosuje się.
+5. Opinia o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy jest wydawana na okres 5 lat. Po upływie tego okresu art. 68 ust. 7b ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe stosuje się.
 
 6. W przypadku wydawania opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, marszałek województwa lub przewodniczący wojewódzkiej rady rynku pracy może zaprosić do udziału w posiedzeniu wojewódzkiej rady rynku pracy:
 
@@ -144,7 +141,7 @@ o rynku pracy i służbach zatrudnienia
 - **4)** przedstawiciela kuratora oświaty;
 - **5)** przedstawiciela właściwej miejscowo powiatowej rady rynku pracy ze względu na siedzibę szkoły, która wystąpiła o wydanie opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy.
 
-7. W uzasadnionych przypadkach rozpatrywanie wniosków o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy może być prowadzone w formie obiegowej. Należy wówczas zapewnić możliwość zajęcia stanowiska przez przedstawicieli podmiotów wymienionych w ust. 6.
+7. W uzasadnionych przypadkach rozpatrywanie wniosków o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy może być prowadzone w formie obiegowej. Należy wówczas zapewnić możliwość zajęcia stanowiska przez przedstawicieli podmiotów wymienionych w ust. 6.]
 
 8. Do zakresu działania powiatowych rad rynku pracy stosuje się odpowiednio przepisy ust. 2 pkt 1–6, 10 i 11.
 
@@ -159,7 +156,7 @@ o rynku pracy i służbach zatrudnienia
 - **1)** osoby powoływane przez ministra właściwego do spraw pracy spośród przedstawicieli wszystkich organizacji związkowych i organizacji pracodawców, reprezentatywnych w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. );
 - **2)** jeden przedstawiciel Rady Działalności Pożytku Publicznego;
 - **3)** jeden przedstawiciel Krajowego Komitetu Rozwoju Ekonomii Społecznej, o którym mowa w art. 47 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej;
-- **4)** dwóch przedstawicieli Komisji Wspólnej Rządu i Samorządu Terytorialnego, reprezentujących stronę samorządową jeden z powiatu i jeden z województwa;
+- **4)** dwóch przedstawicieli Komisji Wspólnej Rządu i Samorządu Terytorialnego, reprezentujących stronę samorządową – jeden z powiatu i jeden z województwa;
 - **5)** jeden przedstawiciel Komendy Głównej OHP;
 - **6)** jeden przedstawiciel Ogólnopolskiego Konwentu Dyrektorów Powiatowych Urzędów Pracy;
 - **7)** jeden przedstawiciel Konwentu Dyrektorów Wojewódzkich Urzędów Pracy.
@@ -286,7 +283,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Marszałek województwa powołuje dyrektora WUP.
 
-2. Marszałek województwa odwołuje dyrektora WUP po zasięgnięciu opinii wojewódzkiej rady rynku pracy. Opinia wojewódzkiej rady rynku pracy nie jest wymagana w przypadkach, o których mowa w art. 52 i art. 53 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, oraz w przypadku odwołania dyrektora WUP na jego wniosek.
+2. Marszałek województwa odwołuje dyrektora WUP po zasięgnięciu opinii wojewódzkiej rady rynku pracy. Opinia wojewódzkiej rady rynku pracy nie jest wymagana w przypadkach, o których mowa w art. 52 i art. 53 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz w przypadku odwołania dyrektora WUP na jego wniosek.
 
 3. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie umowy o pracę.
 
@@ -308,7 +305,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Starosta powołuje dyrektora PUP.
 
-2. Starosta odwołuje dyrektora PUP po zasięgnięciu opinii powiatowej rady rynku pracy. Opinia powiatowej rady rynku pracy nie jest wymagana w przypadkach, o których mowa w art. 52 i art. 53 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, oraz w przypadku odwołania dyrektora PUP na jego wniosek.
+2. Starosta odwołuje dyrektora PUP po zasięgnięciu opinii powiatowej rady rynku pracy. Opinia powiatowej rady rynku pracy nie jest wymagana w przypadkach, o których mowa w art. 52 i art. 53 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz w przypadku odwołania dyrektora PUP na jego wniosek.
 
 3. Zastępców dyrektora PUP powołuje i odwołuje dyrektor PUP.
 
@@ -371,7 +368,7 @@ o rynku pracy i służbach zatrudnienia
     - **j)** promocję KFS i badanie wyników pomocy udzielonej ze środków KFS;
 
 - **2)** planowanie i realizowanie we współpracy z ministrem właściwym do spraw rozwoju regionalnego zadań wynikających z programów finansowanych z udziałem środków Europejskiego Funduszu Społecznego Plus, w zakresie należącym do kompetencji ministra właściwego do spraw pracy;
-- **3)** realizowanie zadań wynikających z prawa swobodnego przepływu pracowników między państwami, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, w tym: w sprawie swobodnego przepływu pracowników wewnątrz Unii (Dz. Urz. UE L 141 z 27.05.2011, str. 1, z późn. zm. ), w szczególności: zlecanie niezależnych sondaży i analiz oraz publikowanie niezależnych sprawozdań i zaleceń na temat nieuzasadnionych ograniczeń i przeszkód w zakresie prawa do swobodnego przepływu pracowników i ich dyskryminacji, inicjowanie i monitorowanie działań mających na celu przeciwdziałanie nieuzasadnionym ograniczeniom i przeszkodom w zakresie prawa do swobodnego przepływu pracowników oraz ich dyskryminacji, publikowanie informacji o przepisach dotyczących swobodnego przepływu pracowników i ich stosowaniu na terytorium Rzeczypospolitej Polskiej, pełnienie funkcji punktu kontaktowego dla odpowiadających mu punktów kontaktowych w innych państwach członkowskich w celu współpracy i wymiany informacji w sprawach swobodnego przepływu pracowników;
+- **3)** realizowanie zadań wynikających z prawa swobodnego przepływu pracowników między państwami, o których mowa w art. 1 ust. 3 pkt 2 lit. a– c, w tym: w sprawie swobodnego przepływu pracowników wewnątrz Unii (Dz. Urz. UE L 141 z 27.05.2011, str. 1, z późn. zm. ), w szczególności: – zlecanie niezależnych sondaży i analiz oraz publikowanie niezależnych sprawozdań i zaleceń na temat nieuzasadnionych ograniczeń i przeszkód w zakresie prawa do swobodnego przepływu pracowników i ich dyskryminacji, – inicjowanie i monitorowanie działań mających na celu przeciwdziałanie nieuzasadnionym ograniczeniom i przeszkodom w zakresie prawa do swobodnego przepływu pracowników oraz ich dyskryminacji, – publikowanie informacji o przepisach dotyczących swobodnego przepływu pracowników i ich stosowaniu na terytorium Rzeczypospolitej Polskiej, – pełnienie funkcji punktu kontaktowego dla odpowiadających mu punktów kontaktowych w innych państwach członkowskich w celu współpracy i wymiany informacji w sprawach swobodnego przepływu pracowników;
     - **a)** koordynowanie sieci EURES na terytorium Rzeczypospolitej Polskiej, udzielanie akredytacji do prowadzenia pośrednictwa pracy w ramach sieci EURES, zwanej dalej „akredytacją”, oraz realizację innych zadań wynikających z udziału w tej sieci,
     - **b)** monitorowanie, analizę i wspieranie równego traktowania osób, o których mowa w art. 1 ust. 3 pkt 2 lit. a i b, korzystających z prawa do swobodnego przepływu pracowników oraz członków ich rodzin w zakresie, o którym mowa w art. 1–10 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 492/2011 z dnia 5 kwietnia 2011 r.
 
@@ -405,8 +402,8 @@ o rynku pracy i służbach zatrudnienia
 - **4)** prowadzenie i udostępnianie informacji dotyczących ofert pracy, staży, praktyk studenckich, targów i giełd pracy oraz praktyk zawodowych, z wyłączeniem praktyk zawodowych organizowanych przez szkoły prowadzące kształcenie zawodowe;
 - **5)** prowadzenie przez WUP rejestrów, w tym rejestru agencji zatrudnienia, oraz prowadzenie przez ministra właściwego do spraw pracy rejestru podmiotów akredytowanych oraz publikowanie informacji o tych agencjach i podmiotach oraz o świadczonych przez nie usługach;
 - **6)** prowadzenie sprawozdawczości statystycznej z zakresu rynku pracy i działalności publicznych służb zatrudnienia, w tym w zakresie badań ujętych w programie badań statystycznych statystyki publicznej;
-- **7)** realizację zadań wynikających z przepisów innych ustaw, w tym:
-    - **a)** obsługę umów, o których mowa w art. 1 ustawy z dnia 16 listopada 2022 r. o systemie teleinformatycznym do obsługi niektórych umów (Dz. U. z 2024 r. poz. 1661 oraz z 2025 r. poz. 620),
+- **7)** realizację zadań wynikających z przepisów innych ustaw, w tym: o systemie teleinformatycznym do obsługi niektórych umów (Dz. U. z 2024 r. poz. 1661 oraz z 2025 r. poz. 620),
+    - **a)** obsługę umów, o których mowa w art. 1 ustawy z dnia 16 listopada 2022 r.
     - **b)** ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej,
     - **c)** ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy;
 
@@ -427,9 +424,9 @@ o rynku pracy i służbach zatrudnienia
 
 5. Minister właściwy do spraw pracy, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
 
-- **1)** sposób postępowania w zakresie ogłaszania opisu minimalnych wymagań dla systemu teleinformatycznego lub oprogramowania stosowanego w publicznych służbach zatrudnienia zawierającego strukturę, wymaganą minimalną funkcjonalność, wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu oraz zakres komunikacji między elementami struktury systemu, w tym zestawienie struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących, o których mowa w art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717),
+- **1)** sposób postępowania w zakresie ogłaszania opisu minimalnych wymagań dla systemu teleinformatycznego lub oprogramowania stosowanego w publicznych służbach zatrudnienia, zawierającego strukturę, wymaganą minimalną funkcjonalność, wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu oraz zakres komunikacji między elementami struktury systemu, w tym zestawienie struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących;
 - **2)** sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem minimalnych wymagań oraz ogłaszania terminu dostosowania oprogramowania,
-- **3)** sposób postępowania w zakresie ogłaszania opisu wymagań określających minimalny zakres informacji o rynku pracy udostępnianej przez publiczne służby zatrudnienia oraz standardów obowiązujących w zakresie prezentacji tej informacji na stronach internetowych publicznych służb zatrudnienia mając na uwadze zapewnienie spójności systemów teleinformatycznych stosowanych w publicznych służbach zatrudnienia, w szczególności w zakresie jednorodności zakresu i rodzaju danych, która umożliwi ich scalanie, a także zachowanie zgodności z minimalnymi wymaganiami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+- **3)** sposób postępowania w zakresie ogłaszania opisu wymagań określających minimalny zakres informacji o rynku pracy udostępnianej przez publiczne służby zatrudnienia oraz standardów obowiązujących w zakresie prezentacji tej informacji na stronach internetowych publicznych służb zatrudnienia – mając na uwadze zapewnienie spójności systemów teleinformatycznych stosowanych w publicznych służbach zatrudnienia, w szczególności w zakresie jednorodności zakresu i rodzaju danych, która umożliwi ich scalanie, a także zachowanie zgodności z minimalnymi wymaganiami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 **Art. 27.** Minister właściwy do spraw pracy pełni funkcję koordynatora publicznych służb zatrudnienia.
 
@@ -448,7 +445,7 @@ o rynku pracy i służbach zatrudnienia
 3. Minister właściwy do spraw pracy określi, w drodze rozporządzenia:
 
 - **1)** klasyfikację zawodów i specjalności na potrzeby rynku pracy,
-- **2)** zakres danych niezbędnych do wnioskowania o wprowadzenie zmian w klasyfikacji zawodów i specjalności na potrzeby rynku pracy mając na względzie potrzeby badań statystycznych i form pomocy określonych w ustawie świadczonych przez publiczne służby zatrudnienia oraz sprawne rozpatrywanie wniosków o wprowadzenie zmian w klasyfikacji zawodów i specjalności na potrzeby rynku pracy.
+- **2)** zakres danych niezbędnych do wnioskowania o wprowadzenie zmian w klasyfikacji zawodów i specjalności na potrzeby rynku pracy – mając na względzie potrzeby badań statystycznych i form pomocy określonych w ustawie świadczonych przez publiczne służby zatrudnienia oraz sprawne rozpatrywanie wniosków o wprowadzenie zmian w klasyfikacji zawodów i specjalności na potrzeby rynku pracy.
 
 4. Minister właściwy do spraw pracy opracowuje tabele powiązań klasyfikacji zawodów i specjalności na potrzeby rynku pracy z Międzynarodowym Standardem Klasyfikacji Zawodów ISCO i publikuje je w serwisie, o którym mowa w art. 26 ust. 3.
 
@@ -479,13 +476,13 @@ o rynku pracy i służbach zatrudnienia
 - **2)** realizacja zadań związanych z KFS, w szczególności:
     - **a)** dokonywanie podziału środków KFS na poszczególne PUP,
     - **b)** możliwość ustalenia w terminie do dnia 31 października każdego roku listy obejmującej nie więcej niż trzy priorytety wydatkowania KFS na kolejny rok właściwe dla danego województwa, po zasięgnięciu opinii wojewódzkiej rady rynku pracy,
-    - **c)** publikowanie na stronach internetowych WUP listy priorytetów, o których mowa w: art. 25 ust. 1 pkt 1 lit. b, lit. b oraz art. 38 ust. 1 pkt 19 lit. b o ile zostały ustalone,
+    - **c)** publikowanie na stronach internetowych WUP listy priorytetów, o których mowa w: – art. 25 ust. 1 pkt 1 lit. b, – lit. b oraz art. 38 ust. 1 pkt 19 lit. b – o ile zostały ustalone,
     - **d)** koordynacja wydatkowania środków KFS na terenie województwa,
     - **e)** wsparcie PUP w realizacji zadań związanych z wydatkowaniem środków KFS,
     - **f)** promocja KFS,
     - **g)** badanie wyników pomocy udzielonej ze środków KFS;
 
-- **3)** prowadzenie badań i analiz rynku pracy oraz badań i analiz dotyczących realizacji form pomocy i upowszechnianie ich wyników, w tym prowadzenie badania zapotrzebowania na zawody, kwalifikacje i umiejętności w celu poprawy efektywności prowadzonych działań na rzecz wzrostu i promocji zatrudnienia;
+- **3)** prowadzenie badań i analiz rynku pracy oraz badań i analiz dotyczących realizacji form pomocy i upowszechnianie ich wyników, w tym prowadzenie badania zapotrzebowania na zawody, kwalifikacje i umiejętności – w celu poprawy efektywności prowadzonych działań na rzecz wzrostu i promocji zatrudnienia;
 - **4)** prowadzenie sprawozdawczości z realizowanych zadań, w tym w zakresie badań ujętych w programie badań statystycznych statystyki publicznej, oraz realizowanie i koordynowanie na poziomie województwa spraw związanych z gromadzeniem danych, prowadzeniem badań, ewaluacji polityk rynku pracy i analiz rynku pracy, w tym na zlecenie ministra właściwego do spraw pracy w oparciu o jednolitą metodologię lub testujące metodologie;
 - **5)** współdziałanie z wojewódzką radą rynku pracy w określaniu i realizacji regionalnej polityki w zakresie aktywności zawodowej, wspierania zatrudnienia oraz rynku pracy;
 - **6)** programowanie i wykonywanie zadań finansowanych z udziałem środków Europejskiego Funduszu Społecznego Plus, w tym:
@@ -503,7 +500,7 @@ o rynku pracy i służbach zatrudnienia
     - **a)** pełnienie funkcji instytucji właściwej oraz innych instytucji określonych przepisami o koordynacji systemów zabezpieczenia społecznego, z wyłączeniem instytucji łącznikowej, wymienionej w art. 20 ust. 1 pkt 1, w tym przyjmowanie i rozpatrywanie wniosków o wydanie odpowiednich dokumentów i zaświadczeń w sprawach świadczeń z tytułu bezrobocia,
     - **b)** wydawanie decyzji w sprawach wymienionych w art. 35 ust. 1–3;
 
-- **12)** realizowanie zadań wynikających z prawa swobodnego przepływu pracowników między państwami, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, w szczególności:
+- **12)** realizowanie zadań wynikających z prawa swobodnego przepływu pracowników między państwami, o których mowa w art. 1 ust. 3 pkt 2 lit. a– c, w szczególności:
     - **a)** realizację działań sieci EURES na terenie województwa, w tym koordynowanie realizacji tych działań przez PUP, we współpracy z ministrem właściwym do spraw pracy, samorządami powiatowymi oraz innymi podmiotami uprawnionymi do realizacji działań sieci EURES,
     - **b)** realizowanie zadań związanych z udziałem w partnerstwach transgranicznych EURES na terenie działania tych partnerstw;
 
@@ -521,18 +518,18 @@ o rynku pracy i służbach zatrudnienia
 - **20)** prowadzenie działań informacyjnych dotyczących rozwoju umiejętności i wsparcia skierowanego do osób do 30. roku życia;
 - **21)** współpraca na terenie województwa z PUP oraz OHP w zakresie organizacji szkoleń i staży, w szczególności wspieranie metodyczne działań PUP w zakresie organizacji szkoleń i staży;
 - **22)** organizowanie, prowadzenie i finansowanie szkoleń pracowników WUP i PUP;
-- **23)** coroczne określanie i ogłaszanie w wojewódzkim dzienniku urzędowym, w terminie do dnia 30 kwietnia, po zasięgnięciu opinii wojewódzkiej rady rynku pracy na podstawie klasyfikacji zawodów i specjalności na potrzeby rynku pracy oraz klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, wykazu zawodów, w których za przygotowanie zawodowe młodocianych pracowników może być dokonywana refundacja, o której mowa w art. 348 ust. 1, przy uwzględnieniu zapotrzebowania na zawody na rynku pracy określonego w szczególności w prognozie zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy ogłoszonej w obwieszczeniu, o którym mowa w art. 46b ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe;
+- **23)** coroczne określanie i ogłaszanie w wojewódzkim dzienniku urzędowym, w terminie do dnia 30 kwietnia, po zasięgnięciu opinii wojewódzkiej rady rynku pracy na podstawie klasyfikacji zawodów i specjalności na potrzeby rynku pracy oraz klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, wykazu zawodów, w których za przygotowanie zawodowe młodocianych pracowników może być dokonywana refundacja, o której mowa w art. 348 ust. 1, przy uwzględnieniu zapotrzebowania na zawody na rynku pracy określonego w szczególności w prognozie zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy ogłoszonej w obwieszczeniu, o którym mowa w art. 46b ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
 - **24)** współdziałanie ze szkołami, uczelniami i innymi podmiotami w harmonizowaniu kształcenia i szkolenia zawodowego z potrzebami rynku pracy;
 - **25)** współpraca z ministrem właściwym do spraw pracy i innymi organami publicznych służb zatrudnienia w zakresie prowadzenia zbiorów danych;
 - **26)** udzielanie informacji o zakresie form pomocy;
 - **27)** inicjowanie programów regionalnych i ich realizowanie, w porozumieniu z PUP;
 - **28)** prowadzenie kampanii informacyjnych i promujących działania WUP i PUP;
-- **29)** inicjowanie i realizowanie przedsięwzięć mających na celu identyfikację, dotarcie z informacją o możliwościach skorzystania z form pomocy określonych w ustawie i zmotywowanie do aktywności zawodowej osób niezarejestrowanych, w tym osób biernych zawodowo, samodzielnie lub we współpracy, w szczególności z:
+- **29)** inicjowanie i realizowanie przedsięwzięć mających na celu identyfikację, dotarcie z informacją o możliwościach skorzystania z form pomocy określonych w ustawie i zmotywowanie do aktywności zawodowej osób niezarejestrowanych, w tym osób biernych zawodowo, samodzielnie lub we współpracy, w szczególności z: poz. 1571, 1871 i 1897 oraz z 2025 r. poz. 619 i 620), o ekonomii społecznej;
     - **a)** podmiotami ekonomii społecznej, o których mowa w art. 2 pkt 5 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej,
     - **b)** jednostkami organizacyjnymi pomocy społecznej,
-    - **c)** podmiotami systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe,
-    - **d)** uczelniami, o których mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897 oraz z 2025 r. poz. 619 i 620),
-    - **e)** podmiotami, o których mowa w art. 36 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej;
+    - **c)** podmiotami systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,
+    - **d)** uczelniami, o których mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r.
+    - **e)** podmiotami, o których mowa w art. 36 ustawy z dnia 5 sierpnia 2022 r.
 
 - **30)** rejestrowanie w systemie teleinformatycznym, o którym mowa w art. 26 ust. 1 pkt 1, działań, o których mowa w pkt 29;
 - **31)** prowadzenie rejestru agencji zatrudnienia;
@@ -546,9 +543,9 @@ o rynku pracy i służbach zatrudnienia
 
 1. Zadania, o których mowa w art. 32, są zadaniami własnymi samorządu województwa wykonywanymi przez WUP, będący jednostką organizacyjną samorządu województwa.
 
-2. Zadania, o których mowa w art. 32 ust. 1 pkt 1, pkt 2 lit. b–g, pkt 3, 5, 6, 8–10, pkt 11 lit. a oraz pkt 28–31, w imieniu samorządu województwa wykonuje dyrektor WUP.
+2. Zadania, o których mowa w art. 32 ust. 1 pkt 1, pkt 2 lit. b–g, pkt 3, 5, 6, 8– 10, pkt 11 lit. a oraz pkt 28–31, w imieniu samorządu województwa wykonuje dyrektor WUP.
 
-3. Marszałek województwa może, w formie pisemnej, upoważnić dyrektora WUP lub na jego wniosek innych pracowników tego urzędu do załatwiania w imieniu marszałka województwa spraw, w tym wydawania decyzji i postanowień w trybie ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+3. Marszałek województwa może, w formie pisemnej, upoważnić dyrektora WUP lub na jego wniosek innych pracowników tego urzędu do załatwiania w imieniu marszałka województwa spraw, w tym wydawania decyzji i postanowień w trybie ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 4. W zakresie zadań wynikających z programów współfinansowanych ze środków Europejskiego Funduszu Społecznego Plus i Funduszu Pracy w imieniu zarządu województwa zadania wykonuje dyrektor WUP.
 
@@ -578,7 +575,7 @@ o rynku pracy i służbach zatrudnienia
 
 5. W sprawach dotyczących koordynacji systemów zabezpieczenia społecznego państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–d, w zakresie świadczeń dla bezrobotnych, dyrektor WUP stwierdza zachowanie prawa do zasiłku nabytego w Rzeczypospolitej Polskiej przez bezrobotnego udającego się do innego państwa członkowskiego Unii Europejskiej lub państwa określonego w art. 1 ust. 3 pkt 2 lit. b–d, w drodze wydania dokumentu lub zaświadczenia, określonego w przepisach o koordynacji systemów zabezpieczenia społecznego.
 
-6. W sprawach, o których mowa w ust. 1–3 i 5, przepisów art. 37 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+6. W sprawach, o których mowa w ust. 1–3 i 5, przepisów art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 **Art. 36.** Samorząd województwa wymienia dane w zakresie świadczeń dla bezrobotnych w ramach Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego, wynikających z przepisów o koordynacji systemów zabezpieczenia społecznego, za pośrednictwem punktu kontaktowego, o którym mowa w art. 20 ust. 1 pkt 2.
 
@@ -612,7 +609,7 @@ o rynku pracy i służbach zatrudnienia
     - **f)** odroczeniu terminu spłaty, rozłożeniu na raty lub umorzeniu części albo całości nienależnie pobranego świadczenia udzielonego z Funduszu Pracy, albo należności z tytułu zwrotu środków przyznanych na finansowanie form pomocy, albo odmowie odroczenia terminu spłaty, rozłożenia na raty lub umorzenia;
 
 - **15)** realizowanie zadań wynikających z koordynacji systemów zabezpieczenia społecznego państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–d, oraz państw, z którymi Rzeczpospolita Polska zawarła dwustronne umowy międzynarodowe o zabezpieczeniu społecznym, w zakresie świadczeń dla bezrobotnych, w tym realizowanie decyzji, o których mowa w art. 35, a także wypłaty zasiłków zachowanych zgodnie z art. 35 ust. 5;
-- **16)** realizowanie zadań wynikających z prawa swobodnego przepływu pracowników między państwami, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, w szczególności:
+- **16)** realizowanie zadań wynikających z prawa swobodnego przepływu pracowników między państwami, o których mowa w art. 1 ust. 3 pkt 2 lit. a– c, w szczególności:
     - **a)** realizowanie działań sieci EURES na terenie powiatu we współpracy z ministrem właściwym do spraw pracy, samorządami województw oraz innymi podmiotami uprawnionymi do realizacji działań sieci EURES,
     - **b)** realizowanie zadań związanych z udziałem w partnerstwach transgranicznych EURES na terenie działania tych partnerstw;
 
@@ -635,8 +632,8 @@ o rynku pracy i służbach zatrudnienia
 - **25)** inicjowanie i realizowanie przedsięwzięć mających na celu identyfikację, dotarcie z informacją o możliwościach skorzystania z form pomocy określonych w ustawie i zmotywowanie do aktywności zawodowej osób niezarejestrowanych, w tym osób biernych zawodowo, samodzielnie lub we współpracy, w szczególności z:
     - **a)** podmiotami ekonomii społecznej, o których mowa w art. 2 pkt 5 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej,
     - **b)** jednostkami organizacyjnymi pomocy społecznej,
-    - **c)** podmiotami systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe,
-    - **d)** uczelniami, o których mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+    - **c)** podmiotami systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,
+    - **d)** uczelniami, o których mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 
 - **26)** rejestrowanie w systemie teleinformatycznym, o którym mowa w art. 26 ust. 1 pkt 1, działań, o których mowa w pkt 25;
 - **27)** realizowanie projektów w zakresie aktywności zawodowej, wspierania zatrudnienia oraz rynku pracy, wynikających z programów współfinansowanych ze środków Europejskiego Funduszu Społecznego Plus i Funduszu Pracy;
@@ -650,7 +647,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Zadania, o których mowa w art. 38 w ust. 1, są zadaniami własnymi samorządu powiatu wykonywanymi przez PUP wchodzące w skład powiatowej administracji zespolonej.
 
-2. Starosta może, w formie pisemnej, upoważnić dyrektora PUP lub na jego wniosek innych pracowników tego urzędu, do załatwiania w imieniu starosty spraw, w tym do wydawania decyzji, postanowień oraz zaświadczeń w trybie przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2. Starosta może, w formie pisemnej, upoważnić dyrektora PUP lub na jego wniosek innych pracowników tego urzędu, do załatwiania w imieniu starosty spraw, w tym do wydawania decyzji, postanowień oraz zaświadczeń w trybie przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 40.**
 
@@ -698,10 +695,10 @@ o rynku pracy i służbach zatrudnienia
 
 5. Zakładając indywidualne konto:
 
-- **1)** osoba fizyczna, o której mowa w ust. 1 pkt 1, podaje następujące dane:
+- **1)** osoba fizyczna, o której mowa w ust. 1 pkt 1, podaje następujące dane: w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. ), albo rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
     - **a)** imię (imiona) i nazwisko,
     - **b)** miejsce zamieszkania,
-    - **c)** numer PESEL, a w przypadku jego braku niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. ), albo rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+    - **c)** numer PESEL, a w przypadku jego braku – niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r.
 
 - **2)** osoba fizyczna, o której mowa w ust. 1 pkt 1, może podać adres elektroniczny i numer telefonu;
 - **3)** pracodawca, przedsiębiorca, agencja zatrudnienia lub inny podmiot, o którym mowa w ust. 1 pkt 2 i 3, podaje następujące dane:
@@ -741,7 +738,7 @@ o rynku pracy i służbach zatrudnienia
 3. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma uznaje się za doręczone:
 
 - **1)** w momencie ich odbioru na indywidualnym koncie;
-- **2)** po upływie 14 dni od dnia umieszczenia decyzji, postanowienia, zawiadomienia, wezwania, informacji lub innego pisma na indywidualnym koncie w przypadku ich nieodebrania.
+- **2)** po upływie 14 dni od dnia umieszczenia decyzji, postanowienia, zawiadomienia, wezwania, informacji lub innego pisma na indywidualnym koncie – w przypadku ich nieodebrania.
 
 4. Dyrektor WUP, dyrektor PUP, wojewoda i minister właściwy do spraw pracy gromadzą informacje lub dokumenty w sprawie statusu bezrobotnego, zasiłku, form pomocy określonych w ustawie albo agencji zatrudnienia w systemach teleinformatycznych, o których mowa w art. 26 ust. 1 pkt 1 i 5, w formie dokumentów elektronicznych oraz odwzorowania cyfrowe dokumentów papierowych.
 
@@ -749,7 +746,7 @@ o rynku pracy i służbach zatrudnienia
 
 6. System teleinformatyczny, o którym mowa w art. 26 ust. 1 pkt 2, generuje automatycznie urzędowe poświadczenie odbioru, o którym mowa w art. 3 pkt 20 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów publicznych.
 
-**Art. 46.** W sprawach nieuregulowanych w niniejszym dziale przepisy rozdziałów 8–10 działu I i rozdziału 1 działu II ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
+**Art. 46.** W sprawach nieuregulowanych w niniejszym dziale przepisy rozdziałów 8–10 działu I i rozdziału 1 działu II ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 ### DZIAŁ V Przetwarzanie danych osobowych
 
@@ -768,19 +765,19 @@ o rynku pracy i służbach zatrudnienia
 - **9)** płatników składek;
 - **10)** osób upoważnionych do reprezentowania podmiotów ubiegających się o pomoc określoną w ustawie lub korzystających z tej pomocy;
 - **11)** pracowników lub innych osób wskazanych przez organizatorów stażu na opiekunów stażysty;
-- **12)** pracowników PUP korzystających z systemów teleinformatycznych, o których mowa w art. 26 ust. 1 dane identyfikacyjne i uwierzytelniające pracownika.
+- **12)** pracowników PUP korzystających z systemów teleinformatycznych, o których mowa w art. 26 ust. 1 – dane identyfikacyjne i uwierzytelniające pracownika.
 
 2. PUP w celu realizacji zadań, o których mowa w art. 38 ust. 1, przetwarza następujące dane bezrobotnych:
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** obywatelstwo albo obywatelstwa;
-- **3)** numer PESEL, a w przypadku jego braku datę i miejsce urodzenia, płeć, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w przypadku jego braku – datę i miejsce urodzenia, płeć, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 - **4)** stan cywilny;
 - **5)** informacje o sytuacji rodzinnej, obejmujące:
-    - **a)** dane osobowe małżonka: imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość oraz informacje o posiadaniu statusu bezrobotnego albo poszukującego pracy,
-    - **b)** dane osobowe każdego dziecka pozostającego na utrzymaniu, obejmujące imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
-    - **c)** w przypadku opiekuna osób niepełnosprawnych opiekującego się osobą niepełnosprawną ze znacznym stopniem niepełnosprawności lub dzieckiem z orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji dane osobowe każdej osoby niepełnosprawnej lub każdego dziecka, obejmujące imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
-    - **d)** dane osobowe osoby lub osób zależnych, obejmujące dla każdej osoby: imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+    - **a)** dane osobowe małżonka: imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość oraz informacje o posiadaniu statusu bezrobotnego albo poszukującego pracy,
+    - **b)** dane osobowe każdego dziecka pozostającego na utrzymaniu, obejmujące imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
+    - **c)** w przypadku opiekuna osób niepełnosprawnych opiekującego się osobą niepełnosprawną ze znacznym stopniem niepełnosprawności lub dzieckiem z orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji – dane osobowe każdej osoby niepełnosprawnej lub każdego dziecka, obejmujące imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
+    - **d)** dane osobowe osoby lub osób zależnych, obejmujące dla każdej osoby: imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 
 - **6)** adres zamieszkania oraz adres do doręczeń;
 - **7)** adres elektroniczny lub numer telefonu lub inne dane kontaktowe, o ile je posiadają;
@@ -794,13 +791,13 @@ o rynku pracy i służbach zatrudnienia
 - **10)** dane dotyczące doświadczenia zawodowego;
 - **11)** informacje niezbędne do ustalenia statusu lub udzielenia formy pomocy;
 - **12)** informacje dotyczące:
-    - **a)** oddalenia od rynku pracy oznaczającego informacje o umiejętnościach, czasie pozostawania bez pracy, miejscu zamieszkania pod względem oddalenia od potencjalnych miejsc pracy i dostępności do nowoczesnych form komunikowania się z PUP i pracodawcami oraz
-    - **b)** gotowości do podjęcia pracy oznaczającej informacje o zaangażowaniu w samodzielne poszukiwanie pracy, gotowości do dostosowania się do wymagań rynku pracy, dyspozycyjności, powodach skłaniających do podjęcia pracy, powodach rejestracji w PUP, dotychczasowej oraz aktualnej gotowości do współpracy z PUP, innymi publicznymi służbami zatrudnienia lub pracodawcami;
+    - **a)** oddalenia od rynku pracy – oznaczającego informacje o umiejętnościach, czasie pozostawania bez pracy, miejscu zamieszkania pod względem oddalenia od potencjalnych miejsc pracy i dostępności do nowoczesnych form komunikowania się z PUP i pracodawcami oraz
+    - **b)** gotowości do podjęcia pracy – oznaczającej informacje o zaangażowaniu w samodzielne poszukiwanie pracy, gotowości do dostosowania się do wymagań rynku pracy, dyspozycyjności, powodach skłaniających do podjęcia pracy, powodach rejestracji w PUP, dotychczasowej oraz aktualnej gotowości do współpracy z PUP, innymi publicznymi służbami zatrudnienia lub pracodawcami;
 
 - **13)** informacje o pomocy udzielonej na podstawie ustawy, jej przyjęciu albo odmowie jej przyjęcia;
 - **14)** informacje o pomocy udzielonej przez:
-    - **a)** jednostki organizacyjne pomocy społecznej, obejmujące realizowane na rzecz bezrobotnego świadczenia z pomocy społecznej, informację o działaniach podejmowanych w ramach kontraktu socjalnego lub projektów socjalnych w zakresie niezbędnym do realizacji celów wynikających z ustawy, przekazywane przez ministra właściwego do spraw zabezpieczenia społecznego,
-    - **b)** jednostki obsługujące świadczenia rodzinne, obejmujące specjalny zasiłek opiekuńczy lub świadczenie pielęgnacyjne przyznawane na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych oraz zasiłek dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów w celu ustalenia statusu bezrobotnego, uprawnień do zasiłku lub uprawnień do skorzystania z form pomocy określonych w ustawie, przekazywane przez ministra właściwego do spraw rodziny,
+    - **a)** jednostki organizacyjne pomocy społecznej, obejmujące realizowane na rzecz bezrobotnego świadczenia z pomocy społecznej, informację o działaniach podejmowanych w ramach kontraktu socjalnego lub projektów socjalnych – w zakresie niezbędnym do realizacji celów wynikających z ustawy, przekazywane przez ministra właściwego do spraw zabezpieczenia społecznego,
+    - **b)** jednostki obsługujące świadczenia rodzinne, obejmujące specjalny zasiłek opiekuńczy lub świadczenie pielęgnacyjne przyznawane na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych oraz zasiłek dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów – w celu ustalenia statusu bezrobotnego, uprawnień do zasiłku lub uprawnień do skorzystania z form pomocy określonych w ustawie, przekazywane przez ministra właściwego do spraw rodziny,
     - **c)** ośrodki pomocy społecznej w związku z realizacją działań, o których mowa w art. 199,
     - **d)** agencje zatrudnienia w związku z realizacją działań, o których mowa w art. 197,
     - **e)** pośredników finansowych dokonujących umorzeń pożyczek, o których mowa w art. 187,
@@ -812,9 +809,9 @@ o rynku pracy i służbach zatrudnienia
     - **a)** udział w badaniach rynku pracy prowadzonych przez publiczne służby zatrudnienia, organy administracji rządowej, samorządowej lub na ich zlecenie,
     - **b)** przetwarzanie danych osobowych wraz z ich zakresem na podstawie przepisów Unii Europejskiej o sieci EURES;
 
-- **16)** informacje udostępniane przez: o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350 i 620), o ubezpieczeniu społecznym rolników;
-    - **a)** Zakład Ubezpieczeń Społecznych w zakresie określonym w art. 50 ust. 14 ustawy z dnia 13 października 1998 r.
-    - **b)** Kasę Rolniczego Ubezpieczenia Społecznego w zakresie określonym w art. 42 ustawy z dnia 20 grudnia 1990 r.
+- **16)** informacje udostępniane przez:
+    - **a)** Zakład Ubezpieczeń Społecznych w zakresie określonym w art. 50 ust. 14 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350 i 620),
+    - **b)** Kasę Rolniczego Ubezpieczenia Społecznego w zakresie określonym w art. 42 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników;
 
 - **17)** informację o byciu dłużnikiem alimentacyjnym w rozumieniu ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2025 r. poz. 438 i 620);
 - **18)** informację o posiadaniu Karty Dużej Rodziny, o której mowa w art. 1 ust. 1 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2024 r. poz. 1512);
@@ -825,18 +822,18 @@ o rynku pracy i służbach zatrudnienia
     - **c)** sytuację majątkową: wspólność majątkową, uzyskiwane dochody, aktualne zobowiązania finansowe, posiadany majątek;
 
 - **21)** numer rachunku służącego do wykonywania transakcji płatniczych, w tym rachunku bankowego oraz rachunku członka spółdzielczej kasy oszczędnościowo-kredytowej, zwany dalej „rachunkiem płatniczym”, w celu przekazywania przyznanych świadczeń;
-- **22)** informację o posiadanym statusie, o którym mowa w art. 1 ust. 3 pkt 2–6 w przypadku cudzoziemca.
+- **22)** informację o posiadanym statusie, o którym mowa w art. 1 ust. 3 pkt 2–6 – w przypadku cudzoziemca.
 
 3. PUP w celu realizacji zadań, o których mowa w art. 38 ust. 1, przetwarza, w przypadku:
 
-- **1)** poszukujących pracy dane, o których mowa w ust. 2 pkt 1–11, 13–15 i 20–22;
-- **2)** osób niezarejestrowanych, w tym osób biernych zawodowo, korzystających z form pomocy kategorie danych, o których mowa w ust. 2 pkt 1–13, pkt 14 lit. e, pkt 15, 20 i 22, a w przypadku:
-    - **a)** potrzeby ustanowienia zabezpieczenia przyznanej formy pomocy kategorie danych, o których mowa w ust. 2 pkt 1–13, pkt 14 lit. e, pkt 15 i 20,
-    - **b)** osób zgłoszonych we wnioskach o przyznanie środków KFS lub biorących udział w kształceniu ustawicznym finansowanym ze środków KFS kategorie danych, o których mowa w ust. 2 pkt 1–8, 10, 11, 13 i pkt 15 lit. a;
+- **1)** poszukujących pracy – dane, o których mowa w ust. 2 pkt 1–11, 13–15 i 20– 22;
+- **2)** osób niezarejestrowanych, w tym osób biernych zawodowo, korzystających z form pomocy – kategorie danych, o których mowa w ust. 2 pkt 1–13, pkt 14 lit. e, pkt 15, 20 i 22, a w przypadku:
+    - **a)** potrzeby ustanowienia zabezpieczenia przyznanej formy pomocy – kategorie danych, o których mowa w ust. 2 pkt 1–13, pkt 14 lit. e, pkt 15 i 20,
+    - **b)** osób zgłoszonych we wnioskach o przyznanie środków KFS lub biorących udział w kształceniu ustawicznym finansowanym ze środków KFS – kategorie danych, o których mowa w ust. 2 pkt 1–8, 10, 11, 13 i pkt 15 lit. a;
 
-- **3)** poręczycieli pomocy określonej w ustawie dane, o których mowa w ust. 2 pkt 1, 3, 4, pkt 5 lit. a, pkt 6 i 20;
-- **4)** cudzoziemców zamierzających wykonywać pracę na terytorium Rzeczypospolitej Polskiej na podstawie umów i porozumień, o których mowa w art. 25 ust. 1 pkt 4 dane, o których mowa w ust. 2 pkt 1–3, 7, pkt 8 lit. a i b, pkt 10 i 17, oraz dane w zakresie ukończonych szkoleń oraz państwa aktualnego pobytu;
-- **5)** przedsiębiorców dane, o których mowa w ust. 2 pkt 1–7, 11, pkt 15 lit. a i pkt 21, oraz:
+- **3)** poręczycieli pomocy określonej w ustawie – dane, o których mowa w ust. 2 pkt 1, 3, 4, pkt 5 lit. a, pkt 6 i 20;
+- **4)** cudzoziemców zamierzających wykonywać pracę na terytorium Rzeczypospolitej Polskiej na podstawie umów i porozumień, o których mowa w art. 25 ust. 1 pkt 4 – dane, o których mowa w ust. 2 pkt 1–3, 7, pkt 8 lit. a i b, pkt 10 i 17, oraz dane w zakresie ukończonych szkoleń oraz państwa aktualnego pobytu;
+- **5)** przedsiębiorców – dane, o których mowa w ust. 2 pkt 1–7, 11, pkt 15 lit. a i pkt 21, oraz:
     - **a)** numer identyfikacji podatkowej (NIP),
     - **b)** numer identyfikacyjny REGON,
     - **c)** adres prowadzenia działalności gospodarczej,
@@ -852,7 +849,7 @@ o rynku pracy i służbach zatrudnienia
     - **m)** informacje udostępnione przez organy Krajowej Administracji Skarbowej w zakresie określonym w art. 74 ust. 1 pkt 1,
     - **n)** informacje niezbędne do ustanowienia zabezpieczenia przyznanej formy pomocy, o których mowa w ust. 2 pkt 20;
 
-- **6)** innych podmiotów ubiegających się o formy pomocy lub korzystających z form pomocy dane, o których mowa w ust. 2 pkt 1–7, 11, pkt 15 lit. a i pkt 21, oraz:
+- **6)** innych podmiotów ubiegających się o formy pomocy lub korzystających z form pomocy – dane, o których mowa w ust. 2 pkt 1–7, 11, pkt 15 lit. a i pkt 21, oraz:
     - **a)** numer identyfikacji podatkowej (NIP), o ile go posiada,
     - **b)** numer identyfikacyjny REGON, o ile go posiada,
     - **c)** adres prowadzenia działalności,
@@ -866,20 +863,20 @@ o rynku pracy i służbach zatrudnienia
     - **k)** informacje udostępnione przez organy Krajowej Administracji Skarbowej w zakresie określonym w art. 74 ust. 1 pkt 1,
     - **l)** informacje niezbędne do ustanowienia zabezpieczenia przyznanej formy pomocy, o których mowa w ust. 2 pkt 20;
 
-- **7)** osób ubezpieczonych dane, o których mowa w art. 50 ust. 14 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, udostępniane przez Zakład Ubezpieczeń Społecznych lub dane o ubezpieczonych oraz emerytach i rencistach, o których mowa w art. 42 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, udostępniane przez Kasę Rolniczego Ubezpieczenia Społecznego;
-- **8)** płatników składek dane zgromadzone na koncie płatnika składek, udostępniane przez Zakład Ubezpieczeń Społecznych na podstawie art. 50 ust. 14a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych lub dane płatnika składek w zakresie określonym w art. 42 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników udostępniane przez Kasę Rolniczego Ubezpieczenia Społecznego;
-- **9)** pracowników lub innych osób wskazanych przez organizatorów stażu na opiekunów stażysty dane, o których mowa w ust. 2 pkt 1, 7, 8 i 10, oraz stanowisko pracy lub pełnioną funkcję;
-- **10)** osób upoważnionych do reprezentowania podmiotów ubiegających się o pomoc określoną w ustawie lub korzystających z tej pomocy albo osób uprawnionych do działania w ich imieniu dane, o których mowa w ust. 2 pkt 1, 3 i 7, oraz:
+- **7)** osób ubezpieczonych – dane, o których mowa w art. 50 ust. 14 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, udostępniane przez Zakład Ubezpieczeń Społecznych lub dane o ubezpieczonych oraz emerytach i rencistach, o których mowa w art. 42 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, udostępniane przez Kasę Rolniczego Ubezpieczenia Społecznego;
+- **8)** płatników składek – dane zgromadzone na koncie płatnika składek, udostępniane przez Zakład Ubezpieczeń Społecznych na podstawie art. 50 ust. 14a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych lub dane płatnika składek w zakresie określonym w art. 42 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników udostępniane przez Kasę Rolniczego Ubezpieczenia Społecznego;
+- **9)** pracowników lub innych osób wskazanych przez organizatorów stażu na opiekunów stażysty – dane, o których mowa w ust. 2 pkt 1, 7, 8 i 10, oraz stanowisko pracy lub pełnioną funkcję;
+- **10)** osób upoważnionych do reprezentowania podmiotów ubiegających się o pomoc określoną w ustawie lub korzystających z tej pomocy albo osób uprawnionych do działania w ich imieniu – dane, o których mowa w ust. 2 pkt 1, 3 i 7, oraz:
     - **a)** nazwę reprezentowanego podmiotu,
     - **b)** pełnioną funkcję,
     - **c)** adres do doręczeń;
 
-- **11)** pracowników PUP dane, o których mowa w ust. 2 pkt 1, oraz:
+- **11)** pracowników PUP – dane, o których mowa w ust. 2 pkt 1, oraz:
     - **a)** miejsce pracy i dane teleadresowe wykorzystywane do użytku służbowego,
     - **b)** nazwę i opis zajmowanego stanowiska,
     - **c)** ukończone szkolenia, a w przypadku szkoleń inicjowanych przez pracodawcę lub finansowanych albo współfinansowanych ze środków Funduszu Pracy, obejmujące numer PESEL lub datę i miejsce urodzenia, koszt szkolenia oraz źródło finansowania;
 
-- **12)** pracowników PUP korzystających z systemów teleinformatycznych, o których mowa w art. 26 ust. 1 dane identyfikacyjne i uwierzytelniające pracownika.
+- **12)** pracowników PUP korzystających z systemów teleinformatycznych, o których mowa w art. 26 ust. 1 – dane identyfikacyjne i uwierzytelniające pracownika.
 
 4. Administratorem danych zgromadzonych przez PUP jest PUP.
 
@@ -893,17 +890,17 @@ o rynku pracy i służbach zatrudnienia
 - **2)** nazwę i opis zajmowanego stanowiska;
 - **3)** ukończone szkolenia, a w przypadku szkoleń inicjowanych przez pracodawcę lub finansowanych albo współfinansowanych ze środków Funduszu Pracy, obejmujące numer PESEL lub datę i miejsce urodzenia, koszt szkolenia oraz źródło finansowania.
 
-3. WUP w celu realizacji zadań, o których mowa w art. 32 ust. 1 pkt 1–4, 8–12, 25, 26, 29–31 i 34, przetwarza dane identyfikacyjne i uwierzytelniające pracowników WUP korzystających z systemów teleinformatycznych, o których mowa w art. 26 ust. 1.
+3. WUP w celu realizacji zadań, o których mowa w art. 32 ust. 1 pkt 1–4, 8– 12, 25, 26, 29–31 i 34, przetwarza dane identyfikacyjne i uwierzytelniające pracowników WUP korzystających z systemów teleinformatycznych, o których mowa w art. 26 ust. 1.
 
 4. WUP w celu realizacji zadania, o którym mowa w art. 32 ust. 1 pkt 31, przetwarza dane:
 
-- **1)** osób zarządzających podmiotami ubiegającymi się o wpis do rejestru agencji zatrudnienia, agencjami zatrudnienia oraz je reprezentujących w zakresie, o którym mowa w art. 47 ust. 2 pkt 1–3, 6 i 7, oraz:
+- **1)** osób zarządzających podmiotami ubiegającymi się o wpis do rejestru agencji zatrudnienia, agencjami zatrudnienia oraz je reprezentujących – w zakresie, o którym mowa w art. 47 ust. 2 pkt 1–3, 6 i 7, oraz:
     - **a)** pełnionej funkcji,
-    - **b)** prawomocnego ukarania za wykroczenie, o którym mowa w art. 362–367, lub prawomocnego skazania za przestępstwo przeciwko prawom osób wykonujących pracę zarobkową, przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów oraz przestępstwo przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym lub prawomocnego ukarania za wykroczenie, o którym mowa w art. 84 ust. 1–12 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej,
+    - **b)** prawomocnego ukarania za wykroczenie, o którym mowa w art. 362– 367, lub prawomocnego skazania za przestępstwo przeciwko prawom osób wykonujących pracę zarobkową, przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów oraz przestępstwo przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym lub prawomocnego ukarania za wykroczenie, o którym mowa w art. 84 ust. 1–12 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej,
     - **c)** zaległości podatkowych, zaległości z tytułu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych oraz zaległości z wpłatami na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych albo składek na ubezpieczenie społeczne rolników, o ile był obowiązany do ich opłacania,
     - **d)** prawomocnego orzeczenia zakazującego wykonywania działalności gospodarczej objętej wpisem do rejestru agencji zatrudnienia;
 
-- **2)** podmiotów ubiegających się o wpis do rejestru agencji zatrudnienia lub agencji zatrudnienia w zakresie, o którym mowa w pkt 1 lit. b–d oraz w art. 47 ust. 2 pkt 1–3 i 7, oraz:
+- **2)** podmiotów ubiegających się o wpis do rejestru agencji zatrudnienia lub agencji zatrudnienia – w zakresie, o którym mowa w pkt 1 lit. b–d oraz w art. 47 ust. 2 pkt 1–3 i 7, oraz: z 2024 r. poz. 1045 i 1841), zwany dalej „adresem do doręczeń elektronicznych”;
     - **a)** numer identyfikacji podatkowej (NIP),
     - **b)** numer identyfikacyjny REGON,
     - **c)** adres prowadzenia działalności gospodarczej,
@@ -911,16 +908,16 @@ o rynku pracy i służbach zatrudnienia
     - **e)** nazwę lub firmę,
     - **f)** adres strony internetowej,
     - **g)** powiadomienia okręgowego inspektora pracy o stwierdzonych przypadkach naruszenia przepisów ustawy, w tym warunków prowadzenia agencji zatrudnienia,
-    - **h)** adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), zwany dalej „adresem do doręczeń elektronicznych”;
+    - **h)** adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U.
 
-- **3)** osób działających w imieniu podmiotów ubiegających się o wpis do rejestru agencji zatrudnienia lub agencji zatrudnienia w zakresie, o którym mowa w art. 47 ust. 2 pkt 1–3, 6 i 7;
-- **4)** pracowników agencji zatrudnienia w zakresie, o którym mowa w art. 47 ust. 2 pkt 1–3, 6 i 7.
+- **3)** osób działających w imieniu podmiotów ubiegających się o wpis do rejestru agencji zatrudnienia lub agencji zatrudnienia – w zakresie, o którym mowa w art. 47 ust. 2 pkt 1–3, 6 i 7;
+- **4)** pracowników agencji zatrudnienia – w zakresie, o którym mowa w art. 47 ust. 2 pkt 1–3, 6 i 7.
 
 5. Administratorem danych zgromadzonych przez WUP jest WUP.
 
 6. Wojewoda w celu realizacji zadania, o którym mowa w:
 
-- **1)** art. 30 ust. 1 pkt 2, przetwarza dane osobowe w zakresie, o którym mowa w art. 49 ust. 1 pkt 2;
+- **1)** art. 30 ust. 1 pkt 2, przetwarza dane osobowe – w zakresie, o którym mowa w art. 49 ust. 1 pkt 2;
 - **2)** art. 30 ust. 2 pkt 1, przetwarza dane o pracownikach urzędu wojewódzkiego oraz o pracownikach WUP i PUP; przepis ust. 2 stosuje się odpowiednio.
 
 7. Wojewoda jest administratorem przetwarzanych danych osobowych, o których mowa w ust. 6.
@@ -929,18 +926,18 @@ o rynku pracy i służbach zatrudnienia
 
 1. Minister właściwy do spraw pracy w celu realizacji zadań, o których mowa w:
 
-- **1)** art. 25 ust. 1 pkt 7, przetwarza dane osobowe pracowników publicznych służb zatrudnienia korzystających z systemów teleinformatycznych, o których mowa w art. 26 ust. 1 w zakresie, o którym mowa w art. 47 ust. 2 pkt 1, oraz następujące dane:
+- **1)** art. 25 ust. 1 pkt 7, przetwarza dane osobowe pracowników publicznych służb zatrudnienia korzystających z systemów teleinformatycznych, o których mowa w art. 26 ust. 1 – w zakresie, o którym mowa w art. 47 ust. 2 pkt 1, oraz następujące dane:
     - **a)** miejsce pracy i dane teleadresowe wykorzystywane do użytku służbowego,
     - **b)** nazwę i opis zajmowanego stanowiska,
     - **c)** ukończone szkolenia, a w przypadku szkoleń inicjowanych przez pracodawcę lub finansowanych albo współfinansowanych ze środków Funduszu Pracy, obejmujące numer PESEL lub datę i miejsce urodzenia, koszt szkolenia oraz źródło finansowania,
     - **d)** dane identyfikacyjne i uwierzytelniające pracownika;
 
-- **2)** art. 25 ust. 1 pkt 3 lit. a, przetwarza dane osobowe pracowników lub innych osób upoważnionych do reprezentowania podmiotów ubiegających się o akredytację lub pracowników podmiotów, którym udzielono akredytacji, zwanych dalej „podmiotami akredytowanymi”, korzystających z systemów teleinformatycznych, o których mowa w art. 26 ust. 1 w zakresie, o którym mowa w art. 47 ust. 2 pkt 1, oraz następujące dane:
+- **2)** art. 25 ust. 1 pkt 3 lit. a, przetwarza dane osobowe pracowników lub innych osób upoważnionych do reprezentowania podmiotów ubiegających się o akredytację lub pracowników podmiotów, którym udzielono akredytacji, zwanych dalej „podmiotami akredytowanymi”, korzystających z systemów teleinformatycznych, o których mowa w art. 26 ust. 1 – w zakresie, o którym mowa w art. 47 ust. 2 pkt 1, oraz następujące dane:
     - **a)** miejsce pracy i dane teleadresowe wykorzystywane do użytku służbowego,
     - **b)** nazwę zajmowanego stanowiska,
     - **c)** dane identyfikacyjne i uwierzytelniające pracownika;
 
-- **3)** art. 25 ust. 1 pkt 4, przetwarza dane osobowe cudzoziemców zamierzających wykonywać lub wykonujących pracę na terytorium Rzeczypospolitej Polskiej w zakresie, o którym mowa w art. 47 ust. 3 pkt 4.
+- **3)** art. 25 ust. 1 pkt 4, przetwarza dane osobowe cudzoziemców zamierzających wykonywać lub wykonujących pracę na terytorium Rzeczypospolitej Polskiej – w zakresie, o którym mowa w art. 47 ust. 3 pkt 4.
 
 2. Minister właściwy do spraw pracy jest administratorem przetwarzanych przez siebie danych osobowych.
 
@@ -955,10 +952,10 @@ o rynku pracy i służbach zatrudnienia
 
 2. Spełnienie zabezpieczeń, o których mowa w ust. 1, zapewniają w przypadku pracowników:
 
-- **1)** urzędu obsługującego ministra właściwego do spraw pracy minister właściwy do spraw pracy;
-- **2)** WUP dyrektor WUP;
-- **3)** PUP dyrektor PUP;
-- **4)** jednostek organizacyjnych pomocy społecznej i jednostek obsługujących świadczenia rodzinne, o których mowa w art. 51 ust. 1 pkt 13 administratorzy danych właściwi dla tych jednostek.
+- **1)** urzędu obsługującego ministra właściwego do spraw pracy – minister właściwy do spraw pracy;
+- **2)** WUP – dyrektor WUP;
+- **3)** PUP – dyrektor PUP;
+- **4)** jednostek organizacyjnych pomocy społecznej i jednostek obsługujących świadczenia rodzinne, o których mowa w art. 51 ust. 1 pkt 13 – administratorzy danych właściwi dla tych jednostek.
 
 3. Dane osobowe mogą być przetwarzane przez publiczne służby zatrudnienia oraz podmioty, o których mowa w ust. 2 pkt 4, które zapewniają niezbędne środki techniczne i organizacyjne służące zapewnieniu bezpieczeństwa przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), w tym:
 
@@ -976,23 +973,23 @@ o rynku pracy i służbach zatrudnienia
 
 1. W celu zapewnienia prawidłowej realizacji zadań przez publiczne służby zatrudnienia ministrowi właściwemu do spraw pracy udostępniane są następujące dane, w zakresie niezbędnym do realizacji tych zadań, przetwarzane przez:
 
-- **1)** ministra właściwego do spraw zabezpieczenia społecznego dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1, 2, 7–9, w zakresie określonym w art. 47 ust. 2 pkt 1–8, 10, 11, pkt 14 lit. a i pkt 18;
+- **1)** ministra właściwego do spraw zabezpieczenia społecznego – dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1, 2, 7–9, w zakresie określonym w art. 47 ust. 2 pkt 1–8, 10, 11, pkt 14 lit. a i pkt 18;
 - **2)** ministra właściwego do spraw rodziny:
     - **a)** dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1, 2, 8 i 9, w zakresie określonym w art. 47 ust. 2 pkt 1–7, 11, pkt 14 lit. b i pkt 18,
     - **b)** dane, o których mowa w art. 47 ust. 2 pkt 1–3 i 18, przetwarzane w systemie teleinformatycznym, o którym mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny, niezbędne do weryfikacji okoliczności, o których mowa w art. 55 ust. 3 pkt 6;
 
-- **3)** ministra właściwego do spraw gospodarki dane, o których mowa w art. 5 ust. 1 i 2, art. 38 i art. 44 ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r. poz. 1841), niezbędne do weryfikacji warunku, o którym mowa w art. 2 pkt 1 lit. c–e, art. 73 ust. 1, art. 148 ust. 1 pkt 2 i ust. 2 pkt 2, art. 153 ust. 6, art. 155 ust. 1 pkt 2 i 6 i ust. 2, art. 158 ust. 3, art. 162 ust. 1 pkt 2 i ust. 2 pkt 2, art. 220 ust. 1 pkt 4, art. 232, art. 233 ust. 5 pkt 6, art. 309 ust. 2 pkt 7, art. 316 i art. 332 ust. 1 pkt 6;
-- **4)** ministra właściwego do spraw informatyzacji:
-    - **a)** dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1–5 i 7–10, zawarte w rejestrze PESEL, o których mowa w art. 8 pkt 10, 22 i 24 z wyjątkiem organu wydającego dokument, oraz w art. 26 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274), niezbędne do weryfikacji warunków, o których mowa w art. 55 ust. 3 pkt 3, art. 142 ust. 9 pkt 3 i ust. 10 pkt 2 lit. c, art. 196 ust. 1 pkt 2 i pkt 10 lit. c, ust. 3 pkt 2 lit. b oraz ust. 4 pkt 2, art. 197 ust. 3 pkt 3 lit. b i art. 198 pkt 2 lit. b,
-    - **b)** dane, o których mowa w art. 100aa ust. 4 pkt 1–4 i 7 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251), niezbędne do weryfikacji danych, o których mowa w art. 55 ust. 3 pkt 12;
+- **3)** ministra właściwego do spraw gospodarki – dane, o których mowa w art. 5 ust. 1 i 2, art. 38 i art. 44 ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r. poz. 1841), niezbędne do weryfikacji warunku, o którym mowa w art. 2 pkt 1 lit. c–e, art. 73 ust. 1, art. 148 ust. 1 pkt 2 i ust. 2 pkt 2, art. 153 ust. 6, art. 155 ust. 1 pkt 2 i 6 i ust. 2, art. 158 ust. 3, art. 162 ust. 1 pkt 2 i ust. 2 pkt 2, art. 220 ust. 1 pkt 4, art. 232, art. 233 ust. 5 pkt 6, art. 309 ust. 2 pkt 7, art. 316 i art. 332 ust. 1 pkt 6;
+- **4)** ministra właściwego do spraw informatyzacji: poz. 1251), niezbędne do weryfikacji danych, o których mowa w art. 55 ust. 3 pkt 12;
+    - **a)** dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1–5 i 7–10, zawarte w rejestrze PESEL, o których mowa w art. 8 pkt 10, 22 i 24 – z wyjątkiem organu wydającego dokument, oraz w art. 26 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274), niezbędne do weryfikacji warunków, o których mowa w art. 55 ust. 3 pkt 3, art. 142 ust. 9 pkt 3 i ust. 10 pkt 2 lit. c, art. 196 ust. 1 pkt 2 i pkt 10 lit. c, ust. 3 pkt 2 lit. b oraz ust. 4 pkt 2, art. 197 ust. 3 pkt 3 lit. b i art. 198 pkt 2 lit. b,
+    - **b)** dane, o których mowa w art. 100aa ust. 4 pkt 1–4 i 7 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r.
 
-- **5)** Ministra Sprawiedliwości:
-    - **a)** dane podmiotów, o których mowa w art. 47 ust. 1 pkt 6, zawarte w rejestrze, o którym mowa w art. 1 ust. 2 pkt 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2024 r. poz. 979 i 1863), zwanym dalej „Krajowym Rejestrem Sądowym”, niezbędne do stwierdzenia okoliczności, o których mowa w art. 2 pkt 1, art. 59, art. 66 ust. 3, art. 127 ust. 1 pkt 2, art. 155 ust. 1 pkt 2, ust. 2, ust. 4 pkt 2, art. 163 ust. 1 pkt 5, art. 168 ust. 1 pkt 2, ust. 2 pkt 1, art. 307 ust. 1 pkt 4, art. 309 ust. 2, art. 316 i art. 322 ust. 2,
-    - **b)** dane zawarte w rejestrze, o którym mowa w art. 1 ust. 1 ustawy z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2024 r. poz. 276), zwanym dalej „Krajowym Rejestrem Karnym”, dotyczące osób, określonych w art. 1 ust. 2 pkt 1 oraz podmiotów zbiorowych określonych w art. 1 ust. 3 tej ustawy, niezbędne do stwierdzenia okoliczności, o których mowa w art. 18 ust. 4 pkt 3, art. 125 ust. 9 pkt 4, art. 138 ust. 3 pkt 1, art. 148 ust. 1 pkt 1, art. 155 ust. 1 pkt 1, art. 162 ust. 1 pkt 1, art. 177 ust. 1 pkt 1, art. 307 ust. 1 pkt 3, art. 331 ust. 3 pkt 2 i ust. 4 pkt 4 oraz art. 344 ust. 4 pkt 2;
+- **5)** Ministra Sprawiedliwości: poz. 979 i 1863), zwanym dalej „Krajowym Rejestrem Sądowym”, niezbędne do stwierdzenia okoliczności, o których mowa w art. 2 pkt 1, art. 59, art. 66 ust. 3, art. 127 ust. 1 pkt 2, art. 155 ust. 1 pkt 2, ust. 2, ust. 4 pkt 2, art. 163 ust. 1 pkt 5, art. 168 ust. 1 pkt 2, ust. 2 pkt 1, art. 307 ust. 1 pkt 4, art. 309 ust. 2, art. 316 i art. 322 ust. 2, poz. 276), zwanym dalej „Krajowym Rejestrem Karnym”, dotyczące osób, określonych w art. 1 ust. 2 pkt 1 oraz podmiotów zbiorowych określonych w art. 1 ust. 3 tej ustawy, niezbędne do stwierdzenia okoliczności, o których mowa w art. 18 ust. 4 pkt 3, art. 125 ust. 9 pkt 4, art. 138 ust. 3 pkt 1, art. 148 ust. 1 pkt 1, art. 155 ust. 1 pkt 1, art. 162 ust. 1 pkt 1, art. 177 ust. 1 pkt 1, art. 307 ust. 1 pkt 3, art. 331 ust. 3 pkt 2 i ust. 4 pkt 4 oraz art. 344 ust. 4 pkt 2;
+    - **a)** dane podmiotów, o których mowa w art. 47 ust. 1 pkt 6, zawarte w rejestrze, o którym mowa w art. 1 ust. 2 pkt 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2024 r.
+    - **b)** dane zawarte w rejestrze, o którym mowa w art. 1 ust. 1 ustawy z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2024 r.
 
-- **6)** Szefa Urzędu do Spraw Cudzoziemców dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1–4, zawarte w rejestrach, o których mowa w art. 449 ust. 2 pkt 4–13 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach w zakresie, o którym mowa w art. 47 ust. 2 pkt 1–3, oraz informacje o dokumentach uprawniających do wjazdu i legalnego pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej lub o dokumentach potwierdzających posiadanie prawa pobytu na tym terytorium, niezbędne do weryfikacji warunku, o którym mowa w art. 1 ust. 3 pkt 2–6;
+- **6)** Szefa Urzędu do Spraw Cudzoziemców – dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1–4, zawarte w rejestrach, o których mowa w art. 449 ust. 2 pkt 4–13 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach w zakresie, o którym mowa w art. 47 ust. 2 pkt 1–3, oraz informacje o dokumentach uprawniających do wjazdu i legalnego pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej lub o dokumentach potwierdzających posiadanie prawa pobytu na tym terytorium, niezbędne do weryfikacji warunku, o którym mowa w art. 1 ust. 3 pkt 2–6;
 - **7)** Kasę Rolniczego Ubezpieczenia Społecznego, w celu sprawdzenia okoliczności, o których mowa w art. 74 ust. 1 pkt 3, art. 83 ust. 13 pkt 3, art. 125 ust. 9 pkt 3, art. 138 ust. 3 pkt 2 lit. b, art. 155 ust. 1 pkt 4 lit. b, art. 178 ust. 1 pkt 2 lit. b, art. 307 ust. 1 pkt 2, art. 326 ust. 3 pkt 2 i art. 334 ust. 2 pkt 3;
-- **8)** Zakład Ubezpieczeń Społecznych dane, o których mowa w:
+- **8)** Zakład Ubezpieczeń Społecznych – dane, o których mowa w:
     - **a)** art. 47 ust. 1 pkt 1 i 2, w zakresie określonym w art. 50 ust. 14, 15 i 16 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
     - **b)** art. 47 ust. 1 pkt 6–9, w zakresie określonym w art. 50 ust. 14 i 14a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
 
@@ -1001,39 +998,39 @@ o rynku pracy i służbach zatrudnienia
     - **b)** art. 47 ust. 1 pkt 6, w zakresie określonym w art. 47 ust. 3 pkt 5,
     - **c)** art. 47 ust. 1 pkt 7, w zakresie określonym w art. 47 ust. 3 pkt 6;
 
-- **10)** wojewodę dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1–10, w zakresie określonym w art. 47 ust. 2 i ust. 3 pkt 1–8, 10 i 11 oraz art. 49 ust. 1 pkt 3;
-- **11)** WUP, a także ministra właściwego do spraw zabezpieczenia społecznego dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1–4, 6–8 i 10, w zakresie określonym w art. 47 ust. 2 i ust. 3 pkt 1–3 i 5–10 oraz dane, o których mowa w art. 48 ust. 2;
-- **12)** PUP dane osób fizycznych, o których mowa w art. 47 ust. 1, w zakresie określonym w art. 47 ust. 2 i 3;
-- **13)** jednostki organizacyjne pomocy społecznej w celu realizacji ich zadań ustawowych, w tym weryfikacji prawa do świadczeń i udzielania pomocy określonej w odrębnych przepisach dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1, 2 i 7–9, w zakresie określonym w art. 47 ust. 2 pkt 1–8, 10, 11 i 13;
-- **14)** organy Krajowej Administracji Skarbowej dane:
-    - **a)** osób fizycznych lub przedsiębiorców, o których mowa w art. 47 ust. 2 pkt 1 i 3 oraz ust. 3 pkt 5 lit. a i e w celu weryfikacji warunków, o których mowa w art. 74 ust. 1 pkt 1, art. 83 ust. 13 pkt 2, art. 125 ust. 9 pkt 2, art. 138 ust. 3 pkt 2 lit. c, art. 140 ust. 2 pkt 2, art. 155 ust. 1 pkt 5, art. 163 ust. 1 pkt 3, art. 177 ust. 1 pkt 4 i art. 178 ust. 1 pkt 3,
-    - **b)** innych podmiotów korzystających z form pomocy, o których mowa w art. 47 ust. 3 pkt 6 lit. a i e w celu weryfikacji warunków, o których mowa w art. 74 ust. 1 pkt 1, art. 125 ust. 9 pkt 2, art. 138 ust. 3 pkt 2 lit. c, art. 140 ust. 2 pkt 2, art. 155 ust. 1 pkt 5, art. 163 ust. 1 pkt 3 i art. 178 ust. 1 pkt 3,
-    - **c)** osób zarządzających podmiotami ubiegającymi się o wpis do rejestru agencji zatrudnienia, agencjami zatrudnienia oraz je reprezentujących, o których mowa w art. 47 ust. 2 pkt 1 i 3 w celu weryfikacji warunków, o których mowa w art. 307 ust. 1 pkt 1,
-    - **d)** podmiotów ubiegających się o wpis do rejestru agencji zatrudnienia lub agencji zatrudnienia, o których mowa w art. 47 ust. 2 pkt 1 i 3 oraz ust. 3 pkt 5 lit. a i b w celu weryfikacji warunków, o których mowa w art. 307 ust. 1 pkt 1,
-    - **e)** podmiotów, które ubiegają się o udzielenie akredytacji, oraz podmiotów akredytowanych, o których mowa w art. 47 ust. 2 pkt 1 i 3 oraz ust. 3 pkt 5 lit. a i b w celu weryfikacji warunków, o których mowa w art. 334 ust. 2 pkt 2;
+- **10)** wojewodę – dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1–10, w zakresie określonym w art. 47 ust. 2 i ust. 3 pkt 1–8, 10 i 11 oraz art. 49 ust. 1 pkt 3;
+- **11)** WUP, a także ministra właściwego do spraw zabezpieczenia społecznego – dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1–4, 6–8 i 10, w zakresie określonym w art. 47 ust. 2 i ust. 3 pkt 1–3 i 5–10 oraz dane, o których mowa w art. 48 ust. 2;
+- **12)** PUP – dane osób fizycznych, o których mowa w art. 47 ust. 1, w zakresie określonym w art. 47 ust. 2 i 3;
+- **13)** jednostki organizacyjne pomocy społecznej w celu realizacji ich zadań ustawowych, w tym weryfikacji prawa do świadczeń i udzielania pomocy określonej w odrębnych przepisach – dane osób fizycznych, o których mowa w art. 47 ust. 1 pkt 1, 2 i 7–9, w zakresie określonym w art. 47 ust. 2 pkt 1–8, 10, 11 i 13;
+- **14)** organy Krajowej Administracji Skarbowej – dane:
+    - **a)** osób fizycznych lub przedsiębiorców, o których mowa w art. 47 ust. 2 pkt 1 i 3 oraz ust. 3 pkt 5 lit. a i e – w celu weryfikacji warunków, o których mowa w art. 74 ust. 1 pkt 1, art. 83 ust. 13 pkt 2, art. 125 ust. 9 pkt 2, art. 138 ust. 3 pkt 2 lit. c, art. 140 ust. 2 pkt 2, art. 155 ust. 1 pkt 5, art. 163 ust. 1 pkt 3, art. 177 ust. 1 pkt 4 i art. 178 ust. 1 pkt 3,
+    - **b)** innych podmiotów korzystających z form pomocy, o których mowa w art. 47 ust. 3 pkt 6 lit. a i e – w celu weryfikacji warunków, o których mowa w art. 74 ust. 1 pkt 1, art. 125 ust. 9 pkt 2, art. 138 ust. 3 pkt 2 lit. c, art. 140 ust. 2 pkt 2, art. 155 ust. 1 pkt 5, art. 163 ust. 1 pkt 3 i art. 178 ust. 1 pkt 3,
+    - **c)** osób zarządzających podmiotami ubiegającymi się o wpis do rejestru agencji zatrudnienia, agencjami zatrudnienia oraz je reprezentujących, o których mowa w art. 47 ust. 2 pkt 1 i 3 – w celu weryfikacji warunków, o których mowa w art. 307 ust. 1 pkt 1,
+    - **d)** podmiotów ubiegających się o wpis do rejestru agencji zatrudnienia lub agencji zatrudnienia, o których mowa w art. 47 ust. 2 pkt 1 i 3 oraz ust. 3 pkt 5 lit. a i b – w celu weryfikacji warunków, o których mowa w art. 307 ust. 1 pkt 1,
+    - **e)** podmiotów, które ubiegają się o udzielenie akredytacji, oraz podmiotów akredytowanych, o których mowa w art. 47 ust. 2 pkt 1 i 3 oraz ust. 3 pkt 5 lit. a i b – w celu weryfikacji warunków, o których mowa w art. 334 ust. 2 pkt 2;
 
-- **15)** Polską Agencję Rozwoju Przedsiębiorczości dane podmiotów świadczących usługi rozwojowe, o których mowa w art. 6aa ust. 2 oraz ust. 4 pkt 1 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2025 r. poz. 98), w zakresie niezbędnym do weryfikacji warunków, o których mowa w art. 106 oraz art. 128 ust. 2.
+- **15)** Polską Agencję Rozwoju Przedsiębiorczości – dane podmiotów świadczących usługi rozwojowe, o których mowa w art. 6aa ust. 2 oraz ust. 4 pkt 1 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2025 r. poz. 98), w zakresie niezbędnym do weryfikacji warunków, o których mowa w art. 106 oraz art. 128 ust. 2.
 
 2. Dane, o których mowa w ust. 1, są udostępniane nieodpłatnie w drodze ich wymiany między systemem teleinformatycznym, o którym mowa w art. 26 ust. 1 pkt 10, a systemami teleinformatycznymi podmiotów wymienionych w ust. 1.
 
-3. W przypadku, o którym mowa w ust. 1 pkt 14, udostępnienie danych nie stanowi naruszenia przepisów o tajemnicy skarbowej, o których mowa w ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111 i 497).
+3. W przypadku, o którym mowa w ust. 1 pkt 14, udostępnienie danych nie stanowi naruszenia przepisów o tajemnicy skarbowej, o których mowa w ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111 i 497).
 
 4. Minister właściwy do spraw pracy udostępnia:
 
 - **1)** wojewodzie w celu realizacji zadań, o których mowa w art. 30 ust. 1, w tym weryfikacji prawa do świadczeń i udzielania pomocy określonej w ustawie, dane, o których mowa w art. 47 ust. 1 pkt 1–11, w zakresie określonym w art. 47 ust. 2 i ust. 3 pkt 1–11 oraz art. 49 ust. 1 pkt 3;
-- **2)** WUP w celu realizacji zadań, o których mowa w art. 32 ust. 1 pkt 1–14, 20–22, 27 i 31, w tym weryfikacji prawa do świadczeń i udzielania pomocy, dane, o których mowa w art. 47 ust. 1 pkt 1–3, 6–8 i 10, w zakresie określonym w art. 47 ust. 2 i ust. 3 pkt 1, 2, 5–7 i 10 oraz dane, o których mowa w art. 48 ust. 2;
-- **3)** ministrowi właściwemu do spraw zabezpieczenia społecznego w celu realizacji zadań, o których mowa w art. 20 ust. 1, w tym weryfikacji prawa do świadczeń i udzielania pomocy, dane, o których mowa w art. 47 ust. 1 pkt 1–3, 6–8 i 10, w zakresie określonym w art. 47 ust. 2 i ust. 3 pkt 1, 2, 5–7 i 10 oraz dane, o których mowa w art. 48 ust. 2;
+- **2)** WUP w celu realizacji zadań, o których mowa w art. 32 ust. 1 pkt 1–14, 20– 22, 27 i 31, w tym weryfikacji prawa do świadczeń i udzielania pomocy, dane, o których mowa w art. 47 ust. 1 pkt 1–3, 6–8 i 10, w zakresie określonym w art. 47 ust. 2 i ust. 3 pkt 1, 2, 5–7 i 10 oraz dane, o których mowa w art. 48 ust. 2;
+- **3)** ministrowi właściwemu do spraw zabezpieczenia społecznego w celu realizacji zadań, o których mowa w art. 20 ust. 1, w tym weryfikacji prawa do świadczeń i udzielania pomocy, dane, o których mowa w art. 47 ust. 1 pkt 1– 3, 6–8 i 10, w zakresie określonym w art. 47 ust. 2 i ust. 3 pkt 1, 2, 5–7 i 10 oraz dane, o których mowa w art. 48 ust. 2;
 - **4)** PUP w celu realizacji zadań, o których mowa w art. 38 ust. 1, w tym weryfikacji prawa do świadczeń i udzielania pomocy określonej w ustawie, dane osób fizycznych, o których mowa w art. 47 ust. 1, w zakresie określonym w art. 47 ust. 2 i 3;
-- **5)** Bankowi Gospodarstwa Krajowego w celu weryfikacji prawa do umorzenia pożyczki, o którym mowa w art. 187, dane określone w art. 47 ust. 2 pkt 1, 3 i 13 w zakresie skorzystania z formy pomocy, o której mowa w art. 147 ust. 1 lub art. 161;
-- **6)** organowi właściwemu dłużnika, o którym mowa w art. 2 pkt 9 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, i organowi właściwemu wierzyciela, o którym mowa w art. 2 pkt 10 tej ustawy w celu weryfikacji prawa do świadczeń z funduszu alimentacyjnego osób pobierających świadczenia z funduszu alimentacyjnego i członków ich rodzin oraz danych dotyczących dłużników alimentacyjnych w celu realizacji działań podejmowanych wobec dłużników alimentacyjnych dane w zakresie określonym w art. 47 ust. 2 pkt 1–3 i 13;
+- **5)** Bankowi Gospodarstwa Krajowego – w celu weryfikacji prawa do umorzenia pożyczki, o którym mowa w art. 187, dane określone w art. 47 ust. 2 pkt 1, 3 i 13 w zakresie skorzystania z formy pomocy, o której mowa w art. 147 ust. 1 lub art. 161;
+- **6)** organowi właściwemu dłużnika, o którym mowa w art. 2 pkt 9 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, i organowi właściwemu wierzyciela, o którym mowa w art. 2 pkt 10 tej ustawy – w celu weryfikacji prawa do świadczeń z funduszu alimentacyjnego osób pobierających świadczenia z funduszu alimentacyjnego i członków ich rodzin oraz danych dotyczących dłużników alimentacyjnych w celu realizacji działań podejmowanych wobec dłużników alimentacyjnych – dane w zakresie określonym w art. 47 ust. 2 pkt 1–3 i 13;
 - **7)** jednostkom świadczącym pomoc na podstawie ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej w celu realizacji ich zadań ustawowych, w tym weryfikacji prawa do świadczeń i udzielania pomocy określonej w odrębnych przepisach, dane, o których mowa w art. 47 ust. 1 pkt 1, 2, 8 i 9, w zakresie określonym w art. 47 ust. 2 pkt 1–7, 10, 11 i 18;
-- **8)** powiatowym i wojewódzkim zespołom do spraw orzekania o niepełnosprawności, w celu realizacji ich zadań określonych w ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, w tym weryfikacji danych dotyczących osób, które złożyły wniosek o ustalenie niepełnosprawności albo o ustalenie stopnia niepełnosprawności dane, o których mowa w art. 47 ust. 2 pkt 1–3, 8, 10, 11, 13 i pkt 14 lit. d–h, w zakresie dotyczącym osób, o których mowa w art. 47 ust. 1 pkt 1–3;
-- **9)** Szefowi Agencji Bezpieczeństwa Wewnętrznego, w celu realizacji ustawowych zadań Agencji Bezpieczeństwa Wewnętrznego dane, o których mowa w art. 47 ust. 2 i 3;
+- **8)** powiatowym i wojewódzkim zespołom do spraw orzekania o niepełnosprawności, w celu realizacji ich zadań określonych w ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, w tym weryfikacji danych dotyczących osób, które złożyły wniosek o ustalenie niepełnosprawności albo o ustalenie stopnia niepełnosprawności – dane, o których mowa w art. 47 ust. 2 pkt 1–3, 8, 10, 11, 13 i pkt 14 lit. d–h, w zakresie dotyczącym osób, o których mowa w art. 47 ust. 1 pkt 1–3;
+- **9)** Szefowi Agencji Bezpieczeństwa Wewnętrznego, w celu realizacji ustawowych zadań Agencji Bezpieczeństwa Wewnętrznego – dane, o których mowa w art. 47 ust. 2 i 3;
 - **10)** Szefowi Centralnego Biura Antykorupcyjnego, w celu realizacji ustawowych zadań Centralnego Biura Antykorupcyjnego, dane, o których mowa w art. 47 ust. 2 i 3;
 - **11)** Szefowi Służby Kontrwywiadu Wojskowego, w celu realizacji ustawowych zadań Służby Kontrwywiadu Wojskowego, dane, o których mowa w art. 47 ust. 3 pkt 4;
-- **12)** jednostkom organizacyjnym pomocy społecznej, w celu realizacji ich zadań ustawowych, w tym weryfikacji prawa do świadczeń z pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej dane, o których mowa w art. 47 ust. 1 pkt 1, 2, 7–9, w zakresie określonym w art. 47 ust. 2 pkt 1–3, 5–8, 10 i 13;
-- **13)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, i wojewodzie, w celu weryfikacji prawa do świadczeń rodzinnych osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin dane w zakresie określonym w art. 47 ust. 2 pkt 1–3 i 13;
-- **14)** Zakładowi Ubezpieczeń Społecznych dane, o których mowa w art. 47 ust. 1 pkt 1, w zakresie, o którym mowa w art. 47 ust. 2 pkt 1 i 3, oraz dane o okresie wypłacania zasiłku w celu sprawdzenia okoliczności, o których mowa w art. 13 ust. 1 pkt 4 lub art. 18 ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501);
+- **12)** jednostkom organizacyjnym pomocy społecznej, w celu realizacji ich zadań ustawowych, w tym weryfikacji prawa do świadczeń z pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej – dane, o których mowa w art. 47 ust. 1 pkt 1, 2, 7–9, w zakresie określonym w art. 47 ust. 2 pkt 1–3, 5–8, 10 i 13;
+- **13)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, i wojewodzie, w celu weryfikacji prawa do świadczeń rodzinnych osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin – dane w zakresie określonym w art. 47 ust. 2 pkt 1–3 i 13;
+- **14)** Zakładowi Ubezpieczeń Społecznych – dane, o których mowa w art. 47 ust. 1 pkt 1, w zakresie, o którym mowa w art. 47 ust. 2 pkt 1 i 3, oraz dane o okresie wypłacania zasiłku w celu sprawdzenia okoliczności, o których mowa w art. 13 ust. 1 pkt 4 lub art. 18 ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501);
 - **15)** Straży Granicznej, w celu realizacji ustawowych zadań Straży Granicznej, dane, o których mowa w art. 47 ust. 3 pkt 4.
 
 5. Dane, o których mowa w ust. 4 pkt 4, 6–8 i 12–14, są udostępniane na wniosek dotyczący określonej osoby fizycznej, złożony z wykorzystaniem systemów teleinformatycznych.
@@ -1103,7 +1100,7 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** obywatelstwo albo obywatelstwa;
-- **3)** numer PESEL, a w przypadku jego braku datę i miejsce urodzenia, płeć, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w przypadku jego braku – datę i miejsce urodzenia, płeć, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 - **4)** stan cywilny oraz informację o posiadaniu przez małżonka statusu bezrobotnego albo poszukującego pracy;
 - **5)** liczbę dzieci na utrzymaniu, daty ich urodzenia oraz informację o samotnym wychowywaniu dzieci;
 - **6)** informację o posiadaniu Karty Dużej Rodziny, o której mowa w art. 1 ust. 1 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny;
@@ -1124,12 +1121,12 @@ o rynku pracy i służbach zatrudnienia
 - **21)** fakty niezbędne do ustalenia możliwości przyznania statusu bezrobotnego, o których mowa w art. 2 pkt 1 ustawy;
 - **22)** numer rachunku płatniczego, w celu przekazywania przyznanych świadczeń;
 - **23)** informacje niezbędne do zgłoszenia bezrobotnego lub członka jego rodziny do ubezpieczenia zdrowotnego, o których mowa w art. 77 ust. 2 i 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
-- **24)** informację o posiadanym statusie, o którym mowa w art. 1 ust. 3 pkt 2–6 w przypadku cudzoziemca.
+- **24)** informację o posiadanym statusie, o którym mowa w art. 1 ust. 3 pkt 2–6 – w przypadku cudzoziemca.
 
 4. Wniosek o rejestrację jako poszukujący pracy zawiera:
 
 - **1)** dane, o których mowa w ust. 3 pkt 1–5, 7–17, 20 i 22;
-- **2)** informację o posiadanym statusie, o którym mowa w art. 1 ust. 3 w przypadku cudzoziemca.
+- **2)** informację o posiadanym statusie, o którym mowa w art. 1 ust. 3 – w przypadku cudzoziemca.
 
 5. Osoba ubiegająca się o zarejestrowanie jako bezrobotny albo poszukujący pracy w trybie określonym w ust. 2 pkt 1 do wniosku o rejestrację jako bezrobotny albo poszukujący pracy dołącza odwzorowanie cyfrowe:
 
@@ -1137,7 +1134,7 @@ o rynku pracy i służbach zatrudnienia
 - **2)** świadectw pracy i innych dokumentów niezbędnych do ustalenia jej uprawnień przysługujących na podstawie przepisów ustawy;
 - **3)** dokumentów stwierdzających przeciwwskazania do wykonywania określonych prac, jeżeli takie posiada.
 
-6. Osoba ubiegająca się o zarejestrowanie jako bezrobotny albo poszukujący pracy w trybie określonym w ust. 2 pkt 2, do wniosku o rejestrację jako bezrobotny albo poszukujący pracy przedkłada do wglądu pracownikowi PUP dokonującemu rejestracji dowód osobisty, a w przypadku jego braku inny dokument potwierdzający tożsamość oraz dokumenty, o których mowa w ust. 5.
+6. Osoba ubiegająca się o zarejestrowanie jako bezrobotny albo poszukujący pracy w trybie określonym w ust. 2 pkt 2, do wniosku o rejestrację jako bezrobotny albo poszukujący pracy przedkłada do wglądu pracownikowi PUP dokonującemu rejestracji dowód osobisty, a w przypadku jego braku – inny dokument potwierdzający tożsamość oraz dokumenty, o których mowa w ust. 5.
 
 7. Osoba niepełnosprawna ubiegająca się o zarejestrowanie jako bezrobotny albo poszukujący pracy w trybie określonym w:
 
@@ -1198,16 +1195,16 @@ o rynku pracy i służbach zatrudnienia
 
 1. Rejestracji osoby ubiegającej się o zarejestrowanie jako bezrobotny albo poszukujący pracy dokonuje się z dniem, w którym osoba:
 
-- **1)** wniosła kompletny wniosek o dokonanie rejestracji jako bezrobotny albo poszukujący pracy w przypadku określonym w art. 55 ust. 2 pkt 1;
-- **2)** zgłosiła się do PUP po poświadczeniu przez nią własnoręcznym podpisem przekazanych przez nią danych i złożeniu, w obecności pracownika PUP oświadczeń, o których mowa w art. 55 ust. 9 i art. 60 ust. 1 pkt 2 w przypadku określonym w art. 55 ust. 2 pkt 2.
+- **1)** wniosła kompletny wniosek o dokonanie rejestracji jako bezrobotny albo poszukujący pracy – w przypadku określonym w art. 55 ust. 2 pkt 1;
+- **2)** zgłosiła się do PUP – po poświadczeniu przez nią własnoręcznym podpisem przekazanych przez nią danych i złożeniu, w obecności pracownika PUP oświadczeń, o których mowa w art. 55 ust. 9 i art. 60 ust. 1 pkt 2 – w przypadku określonym w art. 55 ust. 2 pkt 2.
 
 2. Rejestracji osoby ubiegającej się o zarejestrowanie jako bezrobotny albo poszukujący pracy nie dokonuje się w przypadku:
 
 - **1)** odmowy przekazania wymaganych danych lub
 - **2)** odmowy poświadczenia przekazanych danych i oświadczenia o prawdziwości przekazanych danych oraz o zapoznaniu się z warunkami zachowania statusu, w sposób określony w ust. 1 pkt 2, lub
 - **3)** nieopatrzenia wniosku o dokonanie rejestracji, załączonych do niego dokumentów i oświadczenia o prawdziwości przekazanych danych oraz o zapoznaniu się z warunkami zachowania statusu:
-    - **a)** jednym z podpisów, o których mowa w art. 44 ust. 3 w przypadku wniosku o rejestrację jako bezrobotny albo poszukujący pracy złożonego w trybie określonym w art. 55 ust. 2 pkt 1,
-    - **b)** podpisem własnoręcznym w przypadku wniosku o rejestrację jako bezrobotny albo poszukujący pracy złożonego w trybie określonym w art. 55 ust. 2 pkt 2.
+    - **a)** jednym z podpisów, o których mowa w art. 44 ust. 3 – w przypadku wniosku o rejestrację jako bezrobotny albo poszukujący pracy złożonego w trybie określonym w art. 55 ust. 2 pkt 1,
+    - **b)** podpisem własnoręcznym – w przypadku wniosku o rejestrację jako bezrobotny albo poszukujący pracy złożonego w trybie określonym w art. 55 ust. 2 pkt 2.
 
 3. W szczególnie uzasadnionych przypadkach starosta, mając na uwadze obiektywne okoliczności lub przeszkody uniemożliwiające przedłożenie kompletu dokumentów oraz przekazanie wymaganych danych, może wyrazić zgodę na rejestrację jako bezrobotnego albo poszukującego pracy osoby nieposiadającej kompletu dokumentów lub która nie przekazała wymaganych danych.
 
@@ -1220,7 +1217,7 @@ o rynku pracy i służbach zatrudnienia
 1. Bezrobotny albo poszukujący pracy zawiadamia PUP:
 
 - **1)** za pośrednictwem formularza elektronicznego, udostępnionego w sposób określony w art. 55 ust. 2 pkt 1 albo
-- **2)** osobiście w PUP, w którym jest zarejestrowany o wszelkich zmianach w danych przekazanych w trakcie rejestracji oraz w złożonych oświadczeniach, w terminie 7 dni od dnia ich wystąpienia.
+- **2)** osobiście w PUP, w którym jest zarejestrowany – o wszelkich zmianach w danych przekazanych w trakcie rejestracji oraz w złożonych oświadczeniach, w terminie 7 dni od dnia ich wystąpienia.
 
 2. W terminie 7 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 1, PUP wprowadza dane do systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 2.
 
@@ -1270,7 +1267,7 @@ o rynku pracy i służbach zatrudnienia
 - **1)** matki dziecka albo
 - **2)** ojca dziecka,
 - **3)** bezrobotnego po przysposobieniu dziecka,
-- **4)** bezrobotnego po przyjęciu przez niego dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka lub po przyjęciu przez niego dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej z uwagi na brak zdolności i gotowości do podjęcia zatrudnienia spowodowany opieką nad tym dzieckiem przez okres, przez który przysługiwałby mu, zgodnie z odrębnymi przepisami, zasiłek macierzyński w okresie urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego oraz urlopu ojcowskiego, z wyłączeniem przypadku złożenia wniosku o pozbawienie tego statusu przez samego bezrobotnego.
+- **4)** bezrobotnego po przyjęciu przez niego dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka lub po przyjęciu przez niego dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej – z uwagi na brak zdolności i gotowości do podjęcia zatrudnienia spowodowany opieką nad tym dzieckiem przez okres, przez który przysługiwałby mu, zgodnie z odrębnymi przepisami, zasiłek macierzyński w okresie urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego oraz urlopu ojcowskiego, z wyłączeniem przypadku złożenia wniosku o pozbawienie tego statusu przez samego bezrobotnego.
 
 3. Starosta nie może pozbawić statusu bezrobotnego bezrobotnego będącego członkiem założycielem spółdzielni, która została wpisana do Krajowego Rejestru Sądowego po dniu zarejestrowania bezrobotnego w PUP, w związku z uwzględnieniem przez starostę jego wniosku o przyznanie środków na założenie spółdzielni socjalnej, do dnia następnego po dniu otrzymania tych środków.
 
@@ -1287,12 +1284,12 @@ o rynku pracy i służbach zatrudnienia
 
 2. Pozbawienie poszukującego pracy statusu poszukującego pracy z powodów, o których mowa w ust. 1:
 
-- **1)** pkt 1 i 2 następuje na okres 90 dni:
+- **1)** pkt 1 i 2 – następuje na okres 90 dni:
     - **a)** po upływie 90 dni od dnia ostatniego kontaktu z PUP,
     - **b)** od dnia następującego po dniu skierowania lub zawarcia umowy albo od dnia przerwania realizacji form pomocy;
 
-- **2)** pkt 3 następuje od dnia zaistnienia zdarzenia, o którym mowa w tym przepisie;
-- **3)** pkt 4 następuje od dnia złożenia wniosku.
+- **2)** pkt 3 – następuje od dnia zaistnienia zdarzenia, o którym mowa w tym przepisie;
+- **3)** pkt 4 – następuje od dnia złożenia wniosku.
 
 3. Wniosek o pozbawienie statusu, o którym mowa w ust. 1 pkt 4, złożony przez poszukującego pracy po skierowaniu do realizacji formy pomocy, pozostawia się bez rozpoznania.
 
@@ -1311,7 +1308,7 @@ o rynku pracy i służbach zatrudnienia
 1. Z form pomocy mogą korzystać na zasadach określonych w ustawie:
 
 - **1)** osoby, o których mowa w art. 1 ust. 3 pkt 1, pkt 2 lit. a–j oraz l oraz pkt 3, 5 i 6;
-- **2)** osoby, o których mowa w art. 1 ust. 3 pkt 2 lit. k, m, n oraz p z wyłączeniem prawa do świadczeń określonych w art. 111 i art. 234 ust. 1.
+- **2)** osoby, o których mowa w art. 1 ust. 3 pkt 2 lit. k, m, n oraz p – z wyłączeniem prawa do świadczeń określonych w art. 111 i art. 234 ust. 1.
 
 2. Na zasadach określonych w ustawie osoby, o których mowa w art. 1 ust. 3 pkt 2 lit. o, mogą korzystać z form pomocy określonych w ustawie dotyczących pracy sezonowej w rozumieniu art. 6 ust. 1 pkt 4 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, z wyłączeniem prawa do świadczeń określonych w art. 111 i art. 234 ust. 1.
 
@@ -1331,9 +1328,9 @@ o rynku pracy i służbach zatrudnienia
 
 1. PUP przed udzieleniem formy pomocy pozyskuje za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 1 i 10, od:
 
-- **1)** organów Krajowej Administracji Skarbowej informacje o zaległościach podatkowych;
-- **2)** Zakładu Ubezpieczeń Społecznych informacje o niedopełnieniu przez pracodawcę lub przedsiębiorcę obowiązku opłacania składek na ubezpieczenia społeczne, na ubezpieczenie zdrowotne, na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Solidarnościowy oraz na Fundusz Emerytur Pomostowych, lub niezgłoszeniu do ubezpieczeń społecznych pracowników lub innych osób podlegających obowiązkowi zgłoszenia do ubezpieczeń;
-- **3)** z systemu teleinformatycznego Kasy Rolniczego Ubezpieczenia Społecznego informacje o zaległościach z tytułu niepłacenia składek na ubezpieczenie społeczne rolników lub na ubezpieczenie zdrowotne.
+- **1)** organów Krajowej Administracji Skarbowej – informacje o zaległościach podatkowych;
+- **2)** Zakładu Ubezpieczeń Społecznych – informacje o niedopełnieniu przez pracodawcę lub przedsiębiorcę obowiązku opłacania składek na ubezpieczenia społeczne, na ubezpieczenie zdrowotne, na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Solidarnościowy oraz na Fundusz Emerytur Pomostowych, lub niezgłoszeniu do ubezpieczeń społecznych pracowników lub innych osób podlegających obowiązkowi zgłoszenia do ubezpieczeń;
+- **3)** z systemu teleinformatycznego Kasy Rolniczego Ubezpieczenia Społecznego – informacje o zaległościach z tytułu niepłacenia składek na ubezpieczenie społeczne rolników lub na ubezpieczenie zdrowotne.
 
 2. Starosta może odmówić przyznania formy pomocy, jeżeli uzyskał informację o naruszeniach, o których mowa w ust. 1.
 
@@ -1357,14 +1354,16 @@ o rynku pracy i służbach zatrudnienia
 
 2. W przypadku sfinansowania z Funduszu Pracy tych samych kosztów, na które zostały przekazane inne środki publiczne, środki Funduszu Pracy podlegają zwrotowi w terminie 14 dni od dnia doręczenia wezwania do ich zwrotu. Zwrot środków następuje z odsetkami w wysokości określonej jak dla zaległości podatkowych naliczonymi od dnia przekazania środków.
 
-3. Mikroprzedsiębiorca, o którym mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, w celu zatrudnienia osoby pozostającej z nim w stosunku małżeństwa, pokrewieństwa lub powinowactwa lub w stosunku przysposobienia, opieki lub kurateli może ubiegać się o udzielenie formy pomocy, w tym o:
+3. Mikroprzedsiębiorca, o którym mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, w celu zatrudnienia osoby pozostającej z nim w stosunku małżeństwa, pokrewieństwa lub powinowactwa lub w stosunku przysposobienia, opieki lub kurateli może ubiegać się o udzielenie formy pomocy, w tym o:
 
 - **1)** prace interwencyjne, o których mowa w art. 135;
 - **2)** refundację wynagrodzeń, nagród oraz składek na ubezpieczenia społeczne z tytułu zatrudnienia, o którym mowa w art. 143;
 - **3)** grant, o którym mowa w art. 144;
 - **4)** świadczenie aktywizacyjne, o którym mowa w art. 145;
 - **5)** refundację kosztów wyposażenia lub doposażenia jego stanowiska pracy, o którym mowa w art. 154 ust. 1 lub 2;
-- **6)** pożyczkę na utworzenie stanowiska pracy, o której mowa w art. 172 ust. 3 lub 4.
+- **6)** pożyczkę na utworzenie stanowiska pracy, o której mowa w art. 172 ust. 3 lub
+
+4.
 
 **Art. 80.**
 
@@ -1459,7 +1458,7 @@ o rynku pracy i służbach zatrudnienia
 
 2. Bezrobotny, poszukujący pracy i osoba niezarejestrowana, w tym osoba bierna zawodowo, otrzymują informację o ofertach pracy dopasowanych do ich życiorysów zawodowych na indywidualne konto, o którym mowa w art. 43 ust. 1 pkt 1 lit. a, i na wskazany przez nich adres elektroniczny lub numer telefonu.
 
-3. Pracodawca, który zgłosił ofertę pracy do ePracy, otrzymuje informację o dopasowanych do tej oferty pracy życiorysach zawodowych bezrobotnych, poszukujących pracy i osób niezarejestrowanych, w tym osób biernych zawodowo o ile osoby te wyraziły zgodę na przekazanie takiej informacji. Wyrażając zgodę bezrobotny, poszukujący pracy i osoba niezarejestrowana, w tym osoba bierna zawodowo, określa zakres przekazywanych danych.
+3. Pracodawca, który zgłosił ofertę pracy do ePracy, otrzymuje informację o dopasowanych do tej oferty pracy życiorysach zawodowych bezrobotnych, poszukujących pracy i osób niezarejestrowanych, w tym osób biernych zawodowo – o ile osoby te wyraziły zgodę na przekazanie takiej informacji. Wyrażając zgodę bezrobotny, poszukujący pracy i osoba niezarejestrowana, w tym osoba bierna zawodowo, określa zakres przekazywanych danych.
 
 4. Informacja, o której mowa w ust. 3, jest przekazywana na indywidualne konto, o którym mowa w art. 43 ust. 1 pkt 2, oraz na wskazany przez pracodawcę adres elektroniczny lub numer telefonu.
 
@@ -1485,9 +1484,7 @@ o rynku pracy i służbach zatrudnienia
 - **3)** pracodawcy;
 - **4)** pracodawcy z państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c.
 
-4. Pośrednictwo pracy w ramach sieci EURES prowadzone przez OHP jest skierowane do młodzieży w wieku od
-
-14. do 30. roku życia.
+4. Pośrednictwo pracy w ramach sieci EURES prowadzone przez OHP jest skierowane do młodzieży w wieku od 14. do 30. roku życia.
 
 5. W pośrednictwie pracy w ramach sieci EURES działania, o których mowa w art. 81 ust. 2 pkt 2 i 4, stosuje się również do pracodawców z państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c.
 
@@ -1497,15 +1494,17 @@ o rynku pracy i służbach zatrudnienia
 
 8. Wkłady do Krajowego Planu Działań sieci EURES oraz sprawozdania z jego realizacji w części działań planowanych i zrealizowanych przez:
 
-- **1)** WUP i PUP z terenu województwa przygotowuje WUP;
-- **2)** OHP przygotowuje Komendant Główny OHP;
-- **3)** podmiot akredytowany przygotowuje przedstawiciel tego podmiotu.
+- **1)** WUP i PUP z terenu województwa – przygotowuje WUP;
+- **2)** OHP – przygotowuje Komendant Główny OHP;
+- **3)** podmiot akredytowany – przygotowuje przedstawiciel tego podmiotu.
 
 9. Wkłady, o których mowa w ust. 8, WUP, Komendant Główny OHP oraz przedstawiciel podmiotu akredytowanego przekazują ministrowi właściwemu do spraw pracy w formie i terminie określonym przez tego ministra.
 
 10. Minister właściwy do spraw pracy prowadzi, w postaci elektronicznej, bazę monitoringu działań EURES, która zawiera sprawozdania z realizacji pośrednictwa pracy w ramach sieci EURES.
 
-11. Sprawozdania, o których mowa w ust. 10, uzupełniane są w terminie do 30. dnia miesiąca następującego po zakończeniu każdego kwartału przez:
+11. Sprawozdania, o których mowa w ust. 10, uzupełniane są w terminie do
+
+30. dnia miesiąca następującego po zakończeniu każdego kwartału przez:
 
 - **1)** WUP i PUP, które składają sprawozdania z realizacji działań własnych;
 - **2)** wojewódzkie jednostki OHP, które składają sprawozdania za działania własne oraz działania odpowiednich jednostek OHP z terenu województwa;
@@ -1532,12 +1531,12 @@ o rynku pracy i służbach zatrudnienia
 
 6. Koszt związany z organizacją przez PUP szkolenia z zakresu umiejętności poszukiwania pracy w wysokości nieprzekraczającej 40 % zasiłku, o którym mowa w art. 224 ust. 1 pkt 1, może być finansowany ze środków Funduszu Pracy.
 
-7. Starosta może zawrzeć z uczelnią umowę przewidującą sfinansowanie z Funduszu Pracy części kosztów wyposażenia akademickiego biura karier, o którym mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, w wysokości nieprzekraczającej 15-krotności przeciętnego wynagrodzenia. Do sfinansowania kosztów wyposażenia akademickiego biura karier prowadzącego działalność gospodarczą mają zastosowanie przepisy dotyczące udzielania pomocy de minimis.
+7. Starosta może zawrzeć z uczelnią umowę przewidującą sfinansowanie z Funduszu Pracy części kosztów wyposażenia akademickiego biura karier, o którym mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w wysokości nieprzekraczającej 15-krotności przeciętnego wynagrodzenia. Do sfinansowania kosztów wyposażenia akademickiego biura karier prowadzącego działalność gospodarczą mają zastosowanie przepisy dotyczące udzielania pomocy de minimis.
 
 8. Starosta, kierując bezrobotnego lub poszukującego pracy na szkolenie, o którym mowa w ust. 2 pkt 3, wydaje skierowanie zawierające:
 
 - **1)** nazwę PUP wystawiającego skierowanie oraz datę wydania skierowania;
-- **2)** imię (imiona) i nazwisko oraz numer PESEL osoby kierowanej, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość, i adres zamieszkania tej osoby;
+- **2)** imię (imiona) i nazwisko oraz numer PESEL osoby kierowanej, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, i adres zamieszkania tej osoby;
 - **3)** nazwę, termin i miejsce realizacji szkolenia;
 - **4)** informację o prawach i obowiązkach związanych z uczestnictwem w szkoleniu.
 
@@ -1552,8 +1551,8 @@ o rynku pracy i służbach zatrudnienia
 
 3. Przygotowanie IPD w przypadku, o którym mowa w:
 
-- **1)** ust. 1 pkt 1 następuje niezwłocznie po zaistnieniu okoliczności, o której mowa w tym przepisie;
-- **2)** ust. 1 pkt 2 następuje niezwłocznie po dniu zarejestrowania bezrobotnego lub poszukującego pracy.
+- **1)** ust. 1 pkt 1 – następuje niezwłocznie po zaistnieniu okoliczności, o której mowa w tym przepisie;
+- **2)** ust. 1 pkt 2 – następuje niezwłocznie po dniu zarejestrowania bezrobotnego lub poszukującego pracy.
 
 4. Przygotowanie IPD dla bezrobotnego może nastąpić przed upływem okresu, o którym mowa w ust. 1 pkt 1, na podstawie złożonego ustnie lub pisemnie wniosku bezrobotnego.
 
@@ -1610,9 +1609,9 @@ o rynku pracy i służbach zatrudnienia
 
 1. Zadania z zakresu pośrednictwa pracy w ramach sieci EURES realizują w:
 
-- **1)** PUP młodsi doradcy do spraw zatrudnienia, doradcy do spraw zatrudnienia i starsi doradcy do spraw zatrudnienia;
-- **2)** WUP i podmiotach akredytowanych asystenci EURES i doradcy EURES;
-- **3)** OHP asystenci EURES, doradcy EURES lub inni wyznaczeni pracownicy spełniający warunki, o których mowa w ust. 2.
+- **1)** PUP – młodsi doradcy do spraw zatrudnienia, doradcy do spraw zatrudnienia i starsi doradcy do spraw zatrudnienia;
+- **2)** WUP i podmiotach akredytowanych – asystenci EURES i doradcy EURES;
+- **3)** OHP – asystenci EURES, doradcy EURES lub inni wyznaczeni pracownicy spełniający warunki, o których mowa w ust. 2.
 
 2. Asystentem EURES może zostać osoba, która posiada:
 
@@ -1687,7 +1686,7 @@ o rynku pracy i służbach zatrudnienia
 - **3)** kosztów potwierdzenia nabycia wiedzy i umiejętności lub kosztów uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności;
 - **4)** bonu na kształcenie ustawiczne;
 - **5)** pożyczki edukacyjnej, o której mowa w art. 111, na sfinansowanie form kształcenia lub szkolenia, lub potwierdzenia nabycia wiedzy i umiejętności, lub uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności;
-- **6)** opłaty pobieranej za postępowanie nostryfikacyjne albo postępowanie, o którym mowa w art. 327 ust. 3 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **6)** opłaty pobieranej za postępowanie nostryfikacyjne albo postępowanie, o którym mowa w art. 327 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **7)** opłaty za przeprowadzenie postępowania i wydanie decyzji w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej, o której mowa w art. 14 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334 oraz z 2025 r. poz. 619).
 
 2. Starosta w celu udzielenia pomocy, o której mowa w:
@@ -1718,7 +1717,7 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 102.** Starosta, na wniosek bezrobotnego lub poszukującego pracy, może sfinansować koszty potwierdzenia nabycia wiedzy i umiejętności lub uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności do wysokości przeciętnego wynagrodzenia.
 
-**Art. 103.** Starosta, na wniosek bezrobotnego lub poszukującego pracy, może sfinansować opłatę pobieraną za postępowanie nostryfikacyjne albo postępowanie, o którym mowa w art. 327 ust. 3 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+**Art. 103.** Starosta, na wniosek bezrobotnego lub poszukującego pracy, może sfinansować opłatę pobieraną za postępowanie nostryfikacyjne albo postępowanie, o którym mowa w art. 327 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 **Art. 104.** Starosta, na wniosek bezrobotnego lub poszukującego pracy, może sfinansować opłatę za przeprowadzenie postępowania i wydanie decyzji w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej, o której mowa w art. 14 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej.
 
@@ -1742,9 +1741,9 @@ o rynku pracy i służbach zatrudnienia
 
 3. W ramach bonu starosta finansuje bezrobotnemu lub poszukującemu pracy:
 
-- **1)** koszt należny instytucji szkoleniowej za realizację jednego lub kilku szkoleń w formie wpłaty na rachunek płatniczy instytucji szkoleniowej;
-- **2)** koszt należny organizatorowi studiów podyplomowych w formie wpłaty na rachunek płatniczy organizatora studiów;
-- **3)** koszty potwierdzenia nabycia wiedzy i umiejętności lub koszty uzyskania dokumentów potwierdzających nabycie wiedzy i umiejętności w formie wpłaty na rachunek płatniczy instytucji potwierdzającej nabycie wiedzy i umiejętności lub instytucji wydającej dokumenty potwierdzające nabycie wiedzy i umiejętności.
+- **1)** koszt należny instytucji szkoleniowej za realizację jednego lub kilku szkoleń – w formie wpłaty na rachunek płatniczy instytucji szkoleniowej;
+- **2)** koszt należny organizatorowi studiów podyplomowych – w formie wpłaty na rachunek płatniczy organizatora studiów;
+- **3)** koszty potwierdzenia nabycia wiedzy i umiejętności lub koszty uzyskania dokumentów potwierdzających nabycie wiedzy i umiejętności – w formie wpłaty na rachunek płatniczy instytucji potwierdzającej nabycie wiedzy i umiejętności lub instytucji wydającej dokumenty potwierdzające nabycie wiedzy i umiejętności.
 
 4. Starosta finansuje koszty, o których mowa w ust. 3, do wysokości przeciętnego wynagrodzenia obowiązującego w dniu przyznania bonu, a koszty przekraczające ten limit finansuje bezrobotny lub poszukujący pracy.
 
@@ -1762,16 +1761,16 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** nie podjęła lub nie ukończyła szkolenia, o którym mowa w art. 99 ust. 1 pkt 1 i 2 i art. 107 ust. 3 pkt 1,
 - **2)** nie przystąpiła do procesu potwierdzenia nabycia wiedzy i umiejętności lub uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności, o których mowa w art. 101 ust. 1 pkt 2 i 3, art. 102 i art. 107 ust. 3 pkt 3,
-- **3)** przerwała postępowanie nostryfikacyjne lub postępowanie, o którym mowa w art. 327 ust. 3 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce,
+- **3)** przerwała postępowanie nostryfikacyjne lub postępowanie, o którym mowa w art. 327 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce,
 - **4)** przerwała postępowanie w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej, o której mowa w art. 14 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej,
-- **5)** nie podjęła lub nie ukończyła studiów podyplomowych, o których mowa w art. 107 ust. 3 pkt 2 zwraca na wyodrębniony rachunek bankowy PUP albo samorządu powiatu sfinansowane z Funduszu Pracy koszty należne instytucji szkoleniowej, instytucji potwierdzającej nabycie wiedzy i umiejętności, instytucji wydającej dokumenty potwierdzające nabycie wiedzy i umiejętności, instytucji pobierającej opłaty, o których mowa w art. 103 oraz art. 104, lub organizatorowi studiów podyplomowych.
+- **5)** nie podjęła lub nie ukończyła studiów podyplomowych, o których mowa w art. 107 ust. 3 pkt 2 – zwraca na wyodrębniony rachunek bankowy PUP albo samorządu powiatu sfinansowane z Funduszu Pracy koszty należne instytucji szkoleniowej, instytucji potwierdzającej nabycie wiedzy i umiejętności, instytucji wydającej dokumenty potwierdzające nabycie wiedzy i umiejętności, instytucji pobierającej opłaty, o których mowa w art. 103 oraz art. 104, lub organizatorowi studiów podyplomowych.
 
 2. Zwrot, o którym mowa w ust. 1, dotyczy również kosztów:
 
 - **1)** badań lekarskich lub psychologicznych, o których mowa w art. 205 ust. 1,
 - **2)** ubezpieczenia, o którym mowa w art. 241,
 - **3)** przejazdu, o którym mowa w art. 206 ust. 1,
-- **4)** zakwaterowania, o którym mowa w art. 206 ust. 2 o ile zostały poniesione.
+- **4)** zakwaterowania, o którym mowa w art. 206 ust. 2 – o ile zostały poniesione.
 
 3. Przepisów ust. 1 i 2 nie stosuje się w przypadku gdy przyczyną niezrealizowania działań, o których mowa w ust. 1, było podjęcie zatrudnienia, innej pracy zarobkowej lub prowadzenie działalności gospodarczej, trwające co najmniej miesiąc.
 
@@ -1807,9 +1806,9 @@ o rynku pracy i służbach zatrudnienia
 - **4)** rolnicza spółdzielnia produkcyjna;
 - **5)** pełnoletnia osoba fizyczna, nieposiadająca statusu bezrobotnego, zamieszkująca i prowadząca na terytorium Rzeczypospolitej Polskiej, osobiście i na własny rachunek, działalność w zakresie produkcji roślinnej lub zwierzęcej, w tym ogrodniczej, sadowniczej, pszczelarskiej i rybnej, w pozostającym w jej posiadaniu gospodarstwie rolnym lub prowadząca dział specjalny produkcji rolnej, o którym mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników.
 
-3. Staż może trwać od 3 do 6 miesięcy, a w przypadkach określonych w art. 119 ust. 1 od 3 do 12 miesięcy.
+3. Staż może trwać od 3 do 6 miesięcy, a w przypadkach określonych w art. 119 ust. 1 – od 3 do 12 miesięcy.
 
-4. Staż może być realizowany w formie zdalnej. Przepisy art. 67 , art. 67 § 3–5, art. 67 § 1 pkt 1, 2 i 4, § 2–5, art. 67 , art. 67 , art. 67 § 4, 7–9 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy stosuje się odpowiednio. Wymiar stażu w formie zdalnej oraz szczegółowe zasady odbywania stażu w formie zdalnej określa się w umowie o organizację stażu, o której mowa w ust. 5.
+4. Staż może być realizowany w formie zdalnej. Przepisy art. 67 , art. 67 § 3–5, art. 67 § 1 pkt 1, 2 i 4, § 2–5, art. 67 , art. 67 , art. 67 § 4, 7–9 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio. Wymiar stażu w formie zdalnej oraz szczegółowe zasady odbywania stażu w formie zdalnej określa się w umowie o organizację stażu, o której mowa w ust. 5.
 
 5. Staż odbywa się na podstawie umowy zawartej przez starostę z organizatorem stażu i bezrobotnym, według przygotowanego przez organizatora stażu programu określonego w umowie. Przy ustalaniu programu stażu powinny być uwzględnione predyspozycje psychofizyczne i zdrowotne, wykształcenie oraz dotychczasowa wiedza i umiejętności bezrobotnego.
 
@@ -1829,7 +1828,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Przed powierzeniem bezrobotnemu wykonania zadań przewidzianych programem stażu organizator stażu:
 
-- **1)** kieruje bezrobotnego, na własny koszt, na wstępne badania lekarskie, na zasadach przewidzianych dla pracowników, określonych w przepisach wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy;
+- **1)** kieruje bezrobotnego, na własny koszt, na wstępne badania lekarskie, na zasadach przewidzianych dla pracowników, określonych w przepisach wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **2)** zapoznaje bezrobotnego z obowiązującym regulaminem pracy;
 - **3)** przekazuje bezrobotnemu na piśmie zakres obowiązków i uprawnień.
 
@@ -1852,7 +1851,7 @@ o rynku pracy i służbach zatrudnienia
 6. W przypadku przerwania stażu przez:
 
 - **1)** starostę z powodu nierealizowania przez organizatora programu stażu lub niedotrzymywania warunków jego odbywania,
-- **2)** organizatora stażu bez uzasadnionej przyczyny organizator stażu nie może korzystać z form pomocy, z wyłączeniem pośrednictwa pracy i poradnictwa zawodowego, przez okres 12 miesięcy od dnia przerwania realizacji stażu przez starostę lub przerwania stażu przez organizatora stażu.
+- **2)** organizatora stażu bez uzasadnionej przyczyny – organizator stażu nie może korzystać z form pomocy, z wyłączeniem pośrednictwa pracy i poradnictwa zawodowego, przez okres 12 miesięcy od dnia przerwania realizacji stażu przez starostę lub przerwania stażu przez organizatora stażu.
 
 **Art. 117.**
 
@@ -1891,11 +1890,11 @@ o rynku pracy i służbach zatrudnienia
 
 2. W przypadku stażu, o którym mowa w ust. 1, program stażu dostosowany jest do wymagań potwierdzenia nabycia wiedzy i umiejętności.
 
-3. W przypadku stażu zakończonego egzaminem zawodowym, przeprowadzanym przez okręgową komisję egzaminacyjną, zgodnie z przepisami rozdziału 3b ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854, 1473 i 1933 oraz z 2025 r. poz. 620), program stażu uwzględnia wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego określonej w przepisach wydanych na podstawie art. 46 ust. 1 pkt 3 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe. Uczestnik stażu, który zdał egzamin zawodowy, otrzymuje certyfikat kwalifikacji zawodowej.
+3. W przypadku stażu zakończonego egzaminem zawodowym, przeprowadzanym przez okręgową komisję egzaminacyjną, zgodnie z przepisami rozdziału 3b ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854, 1473 i 1933 oraz z 2025 r. poz. 620), program stażu uwzględnia wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego określonej w przepisach wydanych na podstawie art. 46 ust. 1 pkt 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe. Uczestnik stażu, który zdał egzamin zawodowy, otrzymuje certyfikat kwalifikacji zawodowej.
 
-4. W przypadku stażu zakończonego egzaminem czeladniczym, przeprowadzanym przez komisje egzaminacyjne izb rzemieślniczych, zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159), program stażu uwzględnia standardy wymagań egzaminacyjnych ustalone przez Związek Rzemiosła Polskiego, będące podstawą przeprowadzania egzaminu czeladniczego, a w przypadku zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, określonej w przepisach wydanych na podstawie art. 46 ust. 1 pkt 3 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe. Uczestnik stażu, który zdał egzamin czeladniczy, otrzymuje świadectwo czeladnicze.
+4. W przypadku stażu zakończonego egzaminem czeladniczym, przeprowadzanym przez komisje egzaminacyjne izb rzemieślniczych, zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159), program stażu uwzględnia standardy wymagań egzaminacyjnych ustalone przez Związek Rzemiosła Polskiego, będące podstawą przeprowadzania egzaminu czeladniczego, a w przypadku zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego – wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, określonej w przepisach wydanych na podstawie art. 46 ust. 1 pkt 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe. Uczestnik stażu, który zdał egzamin czeladniczy, otrzymuje świadectwo czeladnicze.
 
-5. W przypadkach, o których mowa w ust. 3 i 4, opiekun stażysty musi posiadać kwalifikacje instruktora praktycznej nauki zawodu, określone w przepisach wydanych na podstawie art. 120 ust. 4 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe.
+5. W przypadkach, o których mowa w ust. 3 i 4, opiekun stażysty musi posiadać kwalifikacje instruktora praktycznej nauki zawodu, określone w przepisach wydanych na podstawie art. 120 ust. 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 6. W przypadku podjęcia zatrudnienia, innej pracy zarobkowej lub działalności gospodarczej przed ukończeniem programu stażu, bezrobotny ma prawo do potwierdzenia nabycia wiedzy i umiejętności oraz uzyskania dodatku do stypendium, o którym mowa w art. 121 ust. 1.
 
@@ -1915,7 +1914,7 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** badań lekarskich i psychologicznych, o których mowa w art. 205 ust. 1,
 - **2)** przejazdu, o którym mowa w art. 206 ust. 1,
-- **3)** zakwaterowania, o którym mowa w art. 206 ust. 2 o ile zostały poniesione.
+- **3)** zakwaterowania, o którym mowa w art. 206 ust. 2 – o ile zostały poniesione.
 
 3. Osoba, która z własnej winy nie podjęła albo przerwała realizację stażu, o którym mowa w art. 119 ust. 1, lub nie przystąpiła do procesu potwierdzenia nabycia wiedzy i umiejętności lub uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności, zwraca na wyodrębniony rachunek bankowy PUP albo samorządu powiatu koszty, o których mowa w ust. 2, oraz koszty potwierdzenia nabycia wiedzy i umiejętności.
 
@@ -2009,10 +2008,10 @@ o rynku pracy i służbach zatrudnienia
 
 3. Wysokość środków KFS dla jednego wnioskodawcy w roku kalendarzowym nie może przekroczyć kwoty:
 
-- **1)** 4-krotności przeciętnego wynagrodzenia w przypadku podmiotów niezatrudniających pracowników albo które zatrudniają w dniu złożenia wniosku o środki KFS w przeliczeniu na pełny wymiar czasu pracy nie więcej niż 9 osób;
-- **2)** 8-krotności przeciętnego wynagrodzenia w przypadku podmiotów, które zatrudniają w dniu złożenia wniosku o środki KFS w przeliczeniu na pełny wymiar czasu pracy więcej niż 9 osób, jednak nie więcej niż 49 osób;
-- **3)** 12-krotności przeciętnego wynagrodzenia w przypadku podmiotów, które zatrudniają w dniu złożenia wniosku o środki KFS w przeliczeniu na pełny wymiar czasu pracy więcej niż 49 osób, jednak nie więcej niż 249 osób;
-- **4)** 14-krotności przeciętnego wynagrodzenia w przypadku podmiotów, które zatrudniają w dniu złożenia wniosku o środki KFS w przeliczeniu na pełny wymiar czasu pracy więcej niż 249 osób.
+- **1)** 4-krotności przeciętnego wynagrodzenia – w przypadku podmiotów niezatrudniających pracowników albo które zatrudniają w dniu złożenia wniosku o środki KFS w przeliczeniu na pełny wymiar czasu pracy nie więcej niż 9 osób;
+- **2)** 8-krotności przeciętnego wynagrodzenia – w przypadku podmiotów, które zatrudniają w dniu złożenia wniosku o środki KFS w przeliczeniu na pełny wymiar czasu pracy więcej niż 9 osób, jednak nie więcej niż 49 osób;
+- **3)** 12-krotności przeciętnego wynagrodzenia – w przypadku podmiotów, które zatrudniają w dniu złożenia wniosku o środki KFS w przeliczeniu na pełny wymiar czasu pracy więcej niż 49 osób, jednak nie więcej niż 249 osób;
+- **4)** 14-krotności przeciętnego wynagrodzenia – w przypadku podmiotów, które zatrudniają w dniu złożenia wniosku o środki KFS w przeliczeniu na pełny wymiar czasu pracy więcej niż 249 osób.
 
 4. Podmiot ubiegający się o pomoc, o której mowa w ust. 1 i 2, składa wniosek w postaci elektronicznej za pośrednictwem indywidualnego konta, do PUP właściwego ze względu na jego siedzibę albo adres prowadzenia działalności.
 
@@ -2022,7 +2021,7 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** utrzymuje zatrudnienie osoby, na której kształcenie ustawiczne przyznano finansowanie, przez okres co najmniej 3 miesięcy od dnia ukończenia przez nią kształcenia, z wyjątkiem:
     - **a)** rozwiązania przez tę osobę umowy o pracę,
-    - **b)** rozwiązania z tą osobą umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy,
+    - **b)** rozwiązania z tą osobą umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy,
     - **c)** wygaśnięcia stosunku pracy,
     - **d)** otrzymania na tę osobę finansowania w przypadku, o którym mowa w art. 217;
 
@@ -2041,7 +2040,7 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 129.** Podmiot, który zawarł umowę o przyznanie środków KFS, nie może dokonać zakupu usług objętych umową, o której mowa w art. 126 ust. 1 i 2, od podmiotów powiązanych z nim osobowo lub kapitałowo. Przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między tym podmiotem a realizatorem działań finansowanych z udziałem środków KFS, polegające na:
 
-**Art. 130.** W przypadku finansowania pracownikowi ze środków KFS kosztów kształcenia ustawicznego przepisy działu czwartego rozdziału III ustawy z dnia 26 czerwca 1974 r. Kodeks pracy stosuje się odpowiednio.
+**Art. 130.** W przypadku finansowania pracownikowi ze środków KFS kosztów kształcenia ustawicznego przepisy działu czwartego rozdziału III ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 **Art. 131.**
 
@@ -2063,7 +2062,7 @@ o rynku pracy i służbach zatrudnienia
     - **a)** o której mowa w ust. 2 pkt 1,
     - **b)** wobec której nie dotrzymano zobowiązań, o których mowa w art. 127 ust. 1,
 
-- **2)** niezgodnie z umową wraz z odsetkami ustawowymi naliczonymi od tych kwot od dnia ich wypłaty.
+- **2)** niezgodnie z umową – wraz z odsetkami ustawowymi naliczonymi od tych kwot od dnia ich wypłaty.
 
 **Art. 132.**
 
@@ -2107,7 +2106,7 @@ o rynku pracy i służbach zatrudnienia
 
 5. Niewywiązanie się z warunku, o którym mowa w ust. 4, lub naruszenie innych istotnych warunków umowy wiąże się ze zwrotem uzyskanej pomocy wraz z odsetkami ustawowymi naliczonymi od całości uzyskanej pomocy od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty.
 
-6. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego, rozwiązania z nim umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy albo wygaśnięcia stosunku pracy skierowanego bezrobotnego w trakcie okresu objętego refundacją albo przed upływem okresu, o którym mowa w ust. 4, starosta kieruje na zwolnione stanowisko pracy odpowiedniego bezrobotnego.
+6. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego, rozwiązania z nim umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy albo wygaśnięcia stosunku pracy skierowanego bezrobotnego w trakcie okresu objętego refundacją albo przed upływem okresu, o którym mowa w ust. 4, starosta kieruje na zwolnione stanowisko pracy odpowiedniego bezrobotnego.
 
 7. W przypadku odmowy przyjęcia skierowanego bezrobotnego na zwolnione stanowisko pracy, pracodawca zwraca uzyskaną pomoc w całości wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty. W przypadku braku możliwości skierowania bezrobotnego przez PUP na zwolnione stanowisko pracy, pracodawca nie zwraca uzyskanej pomocy za okres, w którym uprzednio skierowany bezrobotny pozostawał w zatrudnieniu.
 
@@ -2137,7 +2136,7 @@ o rynku pracy i służbach zatrudnienia
 
 3. Wniosek o organizację prac interwencyjnych i robót publicznych może złożyć podmiot:
 
-- **1)** jeżeli osoby reprezentujące podmiot ubiegający się o organizację prac interwencyjnych lub robót publicznych lub osoby nim zarządzające w okresie ostatnich 2 lat nie były prawomocnie skazane za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym, przestępstwo przeciwko prawom osób wykonujących pracę zarobkową, na podstawie ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383), przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628, z późn. zm. ) lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
+- **1)** jeżeli osoby reprezentujące podmiot ubiegający się o organizację prac interwencyjnych lub robót publicznych lub osoby nim zarządzające w okresie ostatnich 2 lat nie były prawomocnie skazane za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym, przestępstwo przeciwko prawom osób wykonujących pracę zarobkową, na podstawie ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383), przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628, z późn. zm. ) lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
 - **2)** który na dzień złożenia wniosku nie zalega z:
     - **a)** wypłacaniem wynagrodzeń pracownikom, z opłacaniem należnych składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Solidarnościowy i Fundusz Emerytur Pomostowych oraz z wpłatami na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych,
     - **b)** opłacaniem należnych składek na ubezpieczenie społeczne rolników lub na ubezpieczenie zdrowotne,
@@ -2146,7 +2145,7 @@ o rynku pracy i służbach zatrudnienia
 4. Wniosek, o którym mowa w ust. 1 i 2, zawiera:
 
 - **1)** nazwę pracodawcy ubiegającego się o organizowanie prac interwencyjnych albo organizatora robót publicznych, adres siedziby i miejsce prowadzenia działalności;
-- **2)** wskazanie pracodawcy oraz adresu jego siedziby i miejsca prowadzenia działalności w przypadku gdy organizator robót publicznych nie będzie jednocześnie pracodawcą dla skierowanych bezrobotnych;
+- **2)** wskazanie pracodawcy oraz adresu jego siedziby i miejsca prowadzenia działalności – w przypadku gdy organizator robót publicznych nie będzie jednocześnie pracodawcą dla skierowanych bezrobotnych;
 - **3)** numer identyfikacyjny REGON;
 - **4)** numer identyfikacji podatkowej (NIP), jeżeli został nadany;
 - **5)** oznaczenie formy organizacyjno-prawnej prowadzonej działalności;
@@ -2178,7 +2177,7 @@ o rynku pracy i służbach zatrudnienia
 1. Starosta zwraca:
 
 - **1)** podmiotowi prowadzącemu dom pomocy społecznej, o którym mowa w art. 57 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zwanemu dalej „podmiotem prowadzącym DPS”,
-- **2)** jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, o której mowa w art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, zwanej dalej „jednostką organizacyjną WRiPZ” zatrudniającym skierowanych bezrobotnych lub poszukujących pracy w domu pomocy społecznej albo w jednostce organizacyjnej WRiPZ, przez okres do 12 miesięcy, część kosztów poniesionych na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne w wysokości uprzednio uzgodnionej w umowie, nieprzekraczającej kwoty ustalonej jako iloczyn liczby zatrudnionych w miesiącu w przeliczeniu na pełny wymiar czasu pracy oraz wysokości minimalnego wynagrodzenia za pracę.
+- **2)** jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, o której mowa w art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, zwanej dalej „jednostką organizacyjną WRiPZ” – zatrudniającym skierowanych bezrobotnych lub poszukujących pracy w domu pomocy społecznej albo w jednostce organizacyjnej WRiPZ, przez okres do 12 miesięcy, część kosztów poniesionych na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne w wysokości uprzednio uzgodnionej w umowie, nieprzekraczającej kwoty ustalonej jako iloczyn liczby zatrudnionych w miesiącu w przeliczeniu na pełny wymiar czasu pracy oraz wysokości minimalnego wynagrodzenia za pracę.
 
 2. Starosta nie dokonuje zwrotu kosztów, o których mowa w ust. 1, podmiotowi prowadzącemu DPS albo jednostce organizacyjnej WRiPZ, które:
 
@@ -2194,7 +2193,7 @@ o rynku pracy i służbach zatrudnienia
 - **1)** nazwę podmiotu prowadzącego DPS albo jednostki organizacyjnej WRiPZ, adres siedziby i adres prowadzenia działalności;
 - **2)** numer identyfikacyjny REGON, jeżeli został nadany;
 - **3)** numer identyfikacji podatkowej (NIP), jeżeli został nadany;
-- **4)** oznaczenie formy organizacyjno-prawnej prowadzonej działalności oraz w przypadku domów pomocy społecznej numer w rejestrze domów pomocy społecznej prowadzonym przez wojewodę;
+- **4)** oznaczenie formy organizacyjno-prawnej prowadzonej działalności oraz w przypadku domów pomocy społecznej – numer w rejestrze domów pomocy społecznej prowadzonym przez wojewodę;
 - **5)** liczbę bezrobotnych lub poszukujących pracy proponowanych do zatrudnienia oraz okres ich zatrudnienia;
 - **6)** miejsce i rodzaj prac, które mają być wykonywane przez skierowanych bezrobotnych lub poszukujących pracy, oraz niezbędne lub pożądane kwalifikacje;
 - **7)** wysokość proponowanego wynagrodzenia dla skierowanych bezrobotnych lub poszukujących pracy oraz wnioskowaną wysokość podlegających zwrotowi kosztów poniesionych na wynagrodzenia z tytułu zatrudnienia skierowanych bezrobotnych lub poszukujących pracy.
@@ -2226,13 +2225,13 @@ o rynku pracy i służbach zatrudnienia
 
 1. Starosta może, na podstawie zawartej umowy, przyznać pracodawcy lub przedsiębiorcy dofinansowanie wynagrodzenia za zatrudnienie skierowanego:
 
-- **1)** bezrobotnego, który ukończył 50. rok życia, a nie ukończył 60 lat w przypadku kobiety lub 65 lat w przypadku mężczyzny,
-- **2)** poszukującego pracy, który ukończył 60 lat w przypadku kobiety lub 65 lat w przypadku mężczyzny o ile nie był on zatrudniony lub nie wykonywał innej pracy zarobkowej u tego pracodawcy, bezpośrednio przed zarejestrowaniem jako bezrobotny albo poszukujący pracy.
+- **1)** bezrobotnego, który ukończył 50. rok życia, a nie ukończył 60 lat – w przypadku kobiety lub 65 lat – w przypadku mężczyzny,
+- **2)** poszukującego pracy, który ukończył 60 lat – w przypadku kobiety lub 65 lat – w przypadku mężczyzny – o ile nie był on zatrudniony lub nie wykonywał innej pracy zarobkowej u tego pracodawcy, bezpośrednio przed zarejestrowaniem jako bezrobotny albo poszukujący pracy.
 
 2. Dofinansowanie wynagrodzenia przysługuje przez okres:
 
-- **1)** 12 miesięcy w przypadku zatrudnienia osoby, o której mowa w ust. 1 pkt 1;
-- **2)** 1 miesiąca w przypadku zatrudnienia osoby, o której mowa w ust. 1 pkt 2.
+- **1)** 12 miesięcy – w przypadku zatrudnienia osoby, o której mowa w ust. 1 pkt 1;
+- **2)** 1 miesiąca – w przypadku zatrudnienia osoby, o której mowa w ust. 1 pkt 2.
 
 3. Dofinansowanie, o którym mowa w ust. 2 pkt 2, może być przyznane wielokrotnie.
 
@@ -2252,13 +2251,13 @@ o rynku pracy i służbach zatrudnienia
 
 8. W przypadku utrzymania zatrudnienia skierowanego bezrobotnego albo poszukującego pracy, o którym mowa w ust. 1, przez okres przysługiwania dofinansowania wynagrodzenia oraz przez co najmniej połowę okresu, o którym mowa w ust. 5, pracodawca lub przedsiębiorca zwraca 50 % łącznej kwoty, o której mowa w ust. 7, w terminie 30 dni od dnia doręczenia wezwania starosty.
 
-9. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego, o którym mowa w ust. 1 pkt 1, rozwiązania z nim umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy lub wygaśnięcia stosunku pracy w trakcie okresu objętego dofinansowaniem albo przed upływem okresu 6 miesięcy, o którym mowa w ust. 5 pkt 1, starosta kieruje na zwolnione stanowisko pracy innego bezrobotnego, o którym mowa w ust. 1 pkt 1.
+9. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego, o którym mowa w ust. 1 pkt 1, rozwiązania z nim umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy lub wygaśnięcia stosunku pracy w trakcie okresu objętego dofinansowaniem albo przed upływem okresu 6 miesięcy, o którym mowa w ust. 5 pkt 1, starosta kieruje na zwolnione stanowisko pracy innego bezrobotnego, o którym mowa w ust. 1 pkt 1.
 
 10. W przypadku braku odpowiedniego bezrobotnego, o którym mowa w ust. 1 pkt 1, w sytuacji określonej w ust. 9, pracodawca lub przedsiębiorca nie zwracają uzyskanego dofinansowania wynagrodzenia za okres zatrudniania skierowanego bezrobotnego.
 
 11. W przypadku odmowy przyjęcia skierowanego bezrobotnego, o którym mowa w ust. 1 pkt 1, na zwolnione stanowisko pracy, pracodawca lub przedsiębiorca zwraca uzyskaną pomoc w całości wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty. W przypadku gdy odmowa przyjęcia skierowanego bezrobotnego na zwolnione stanowisko pracy ma miejsce po utrzymaniu zatrudnienia przez okres przysługiwania dofinansowania wynagrodzenia oraz przez co najmniej połowę okresu, o którym mowa w ust. 5 pkt 1, pracodawca lub przedsiębiorca zwraca 50 % łącznej kwoty, o której mowa w ust. 7, w terminie 30 dni od dnia doręczenia wezwania starosty.
 
-12. W przypadku rozwiązania umowy o pracę przez skierowanego poszukującego pracy, o którym mowa w ust. 1 pkt 2, rozwiązania z nim umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy lub wygaśnięcia stosunku pracy w trakcie okresu objętego dofinansowaniem albo przed upływem okresu jednego miesiąca, o którym mowa w ust. 5, starosta nie kieruje na zwolnione stanowisko pracy innego poszukującego pracy a pracodawca lub przedsiębiorca nie zwraca uzyskanego dofinansowania.
+12. W przypadku rozwiązania umowy o pracę przez skierowanego poszukującego pracy, o którym mowa w ust. 1 pkt 2, rozwiązania z nim umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy lub wygaśnięcia stosunku pracy w trakcie okresu objętego dofinansowaniem albo przed upływem okresu jednego miesiąca, o którym mowa w ust. 5, starosta nie kieruje na zwolnione stanowisko pracy innego poszukującego pracy a pracodawca lub przedsiębiorca nie zwraca uzyskanego dofinansowania.
 
 13. Do dofinansowania, o którym mowa w ust. 1, przepisy art. 138 ust. 3, 5, 6 i 10 stosuje się odpowiednio.
 
@@ -2269,13 +2268,13 @@ o rynku pracy i służbach zatrudnienia
 - **1)** jednostkach organizacyjnych pomocy społecznej;
 - **2)** podmiotach ekonomii społecznej, o których mowa w art. 2 pkt 5 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej;
 - **3)** organizacjach lub instytucjach statutowo zajmujących się pomocą charytatywną lub na rzecz społeczności lokalnej;
-- **4)** podmiotach systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe.
+- **4)** podmiotach systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 2. Starosta może skierować do wykonywania prac społecznie użytecznych bezrobotnego bez prawa do zasiłku korzystającego ze świadczeń pomocy społecznej, jeżeli bezrobotny zamieszkuje lub przebywa na terenie gminy, która organizuje te prace.
 
 3. Wykonywanie prac społecznie użytecznych odbywa się bez nawiązywania stosunku pracy.
 
-4. Gmina do dnia 31 stycznia każdego roku sporządza roczny plan potrzeb w zakresie wykonywania prac społecznie użytecznych, który określa w szczególności rodzaj i miejsce wykonywania prac społecznie użytecznych wraz z oznaczeniem podmiotów, w których będą organizowane prace społecznie użyteczne, oraz liczbę stanowisk i godzin wykonywania prac społecznie użytecznych, i przesyła go właściwemu miejscowo dyrektorowi PUP i kierownikowi ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818 oraz z 2025 r. poz. 620) dyrektorowi centrum usług społecznych.
+4. Gmina do dnia 31 stycznia każdego roku sporządza roczny plan potrzeb w zakresie wykonywania prac społecznie użytecznych, który określa w szczególności rodzaj i miejsce wykonywania prac społecznie użytecznych wraz z oznaczeniem podmiotów, w których będą organizowane prace społecznie użyteczne, oraz liczbę stanowisk i godzin wykonywania prac społecznie użytecznych, i przesyła go właściwemu miejscowo dyrektorowi PUP i kierownikowi ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818 oraz z 2025 r. poz. 620) – dyrektorowi centrum usług społecznych.
 
 5. Kierowanie do prac społecznie użytecznych odbywa się na podstawie porozumienia w sprawie organizacji prac społecznie użytecznych zawieranego między starostą a wójtem lub burmistrzem lub prezydentem miasta.
 
@@ -2283,22 +2282,22 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** liczbę bezrobotnych, którzy w okresie objętym porozumieniem zostaną skierowani do wykonywania prac społecznie użytecznych;
 - **2)** liczbę stanowisk i godzin wykonywania prac społecznie użytecznych;
-- **3)** rodzaj i miejsce wykonywania prac społecznie użytecznych wraz z oznaczeniem podmiotów, w których będą organizowane te prace, a w przypadku prac społecznie użytecznych wykonywanych na rzecz opiekunów osób niepełnosprawnych zakres codziennych obowiązków domowych wykonywanych w ramach tych prac, obejmujących w szczególności prace o charakterze pomocniczym, z wyłączeniem prac związanych z bezpośrednią opieką nad osobą niepełnosprawną, w szczególności pielęgnacją tych osób, zabiegami higienicznymi i podawaniem leków;
+- **3)** rodzaj i miejsce wykonywania prac społecznie użytecznych wraz z oznaczeniem podmiotów, w których będą organizowane te prace, a w przypadku prac społecznie użytecznych wykonywanych na rzecz opiekunów osób niepełnosprawnych – zakres codziennych obowiązków domowych wykonywanych w ramach tych prac, obejmujących w szczególności prace o charakterze pomocniczym, z wyłączeniem prac związanych z bezpośrednią opieką nad osobą niepełnosprawną, w szczególności pielęgnacją tych osób, zabiegami higienicznymi i podawaniem leków;
 - **4)** kwoty i źródła finansowania świadczeń z tytułu wykonywania prac społecznie użytecznych;
 - **5)** terminy refundowania przez starostę z Funduszu Pracy świadczeń z tytułu wykonywania prac społecznie użytecznych wypłaconych bezrobotnym;
 - **6)** sposób przekazywania między stronami informacji o przebiegu realizacji prac społecznie użytecznych;
 - **7)** sposób kontroli i zakres monitorowania prac społecznie użytecznych;
 - **8)** inne dane niestanowiące danych osobowych.
 
-7. W miastach na prawach powiatu prace społecznie użyteczne organizuje się na wniosek kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych dyrektora centrum usług społecznych, skierowany do właściwego PUP, zawierający informacje, o których mowa w ust. 6.
+7. W miastach na prawach powiatu prace społecznie użyteczne organizuje się na wniosek kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektora centrum usług społecznych, skierowany do właściwego PUP, zawierający informacje, o których mowa w ust. 6.
 
-8. Kierownik ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych dyrektor centrum usług społecznych, na podstawie porozumienia, o którym mowa w ust. 5, sporządza listę bezrobotnych, którzy mogą być skierowani do wykonywania prac społecznie użytecznych na terenie gminy, i przesyła ją do właściwego miejscowo PUP.
+8. Kierownik ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektor centrum usług społecznych, na podstawie porozumienia, o którym mowa w ust. 5, sporządza listę bezrobotnych, którzy mogą być skierowani do wykonywania prac społecznie użytecznych na terenie gminy, i przesyła ją do właściwego miejscowo PUP.
 
 9. Lista, o której mowa w ust. 8, zawiera dane bezrobotnego:
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** miejsce zamieszkania lub pobytu;
-- **3)** numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość.
+- **3)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość.
 
 10. Gmina lub podmioty, o których mowa w ust. 1 pkt 2–4:
 
@@ -2306,10 +2305,10 @@ o rynku pracy i służbach zatrudnienia
 - **2)** prowadzą ewidencję prac społecznie użytecznych wykonywanych przez bezrobotnego, która zawiera dane:
     - **a)** imię (imiona) i nazwisko,
     - **b)** miejsce zamieszkania lub pobytu,
-    - **c)** numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+    - **c)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 
 - **3)** ustalają wysokość świadczenia przysługującego bezrobotnemu wykonującemu prace społecznie użyteczne z uwzględnieniem rodzaju wykonywanej pracy;
-- **4)** niezwłocznie zawiadamiają pisemnie dyrektora PUP i właściwego kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych dyrektora centrum usług społecznych, w przypadku gdy bezrobotny:
+- **4)** niezwłocznie zawiadamiają pisemnie dyrektora PUP i właściwego kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektora centrum usług społecznych, w przypadku gdy bezrobotny:
     - **a)** nie zgłosi się do wykonywania prac społecznie użytecznych,
     - **b)** nie podejmie przydzielonych prac społecznie użytecznych,
     - **c)** opuści miejsce wykonywania prac społecznie użytecznych,
@@ -2338,7 +2337,7 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 144.**
 
-1. Starosta może, na podstawie zawartej umowy, przyznać pracodawcy lub przedsiębiorcy środki Funduszu Pracy na utworzenie stanowiska pracy zdalnej w rozumieniu art. 67 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, dla skierowanego bezrobotnego, zwane dalej „grantem”.
+1. Starosta może, na podstawie zawartej umowy, przyznać pracodawcy lub przedsiębiorcy środki Funduszu Pracy na utworzenie stanowiska pracy zdalnej w rozumieniu art. 67 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, dla skierowanego bezrobotnego, zwane dalej „grantem”.
 
 2. Grant przysługuje w kwocie określonej w umowie zawartej ze starostą, nie wyższej jednak niż 3-krotność minimalnego wynagrodzenia za pracę obowiązującego w dniu zawarcia umowy, za każdego skierowanego bezrobotnego.
 
@@ -2348,12 +2347,12 @@ o rynku pracy i służbach zatrudnienia
 
 5. Zwrot grantu następuje w kwocie:
 
-- **1)** proporcjonalnej do okresu, w którym warunek określony w ust. 3 nie został spełniony, wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania grantu w przypadku niewywiązania się z tego warunku;
-- **2)** odpowiadającej niewykorzystanej części grantu albo w całości wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania grantu w przypadku wykorzystania grantu niezgodnie z umową lub jego niewykorzystania.
+- **1)** proporcjonalnej do okresu, w którym warunek określony w ust. 3 nie został spełniony, wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania grantu – w przypadku niewywiązania się z tego warunku;
+- **2)** odpowiadającej niewykorzystanej części grantu albo w całości wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania grantu – w przypadku wykorzystania grantu niezgodnie z umową lub jego niewykorzystania.
 
 6. Pracodawca lub przedsiębiorca jest obowiązany do zwrotu równowartości odliczonego lub zwróconego, zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911 oraz z 2025 r. poz. 222), podatku naliczonego dotyczącego zakupionych towarów i usług w ramach uzyskanych środków Funduszu Pracy na utworzenie stanowiska pracy zdalnej, w terminie określonym w umowie, o której mowa w ust. 1.
 
-7. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego, rozwiązania z nim umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy lub wygaśnięcia stosunku pracy skierowanego bezrobotnego przed upływem okresu, o którym mowa w ust. 3, starosta kieruje na zwolnione stanowisko pracy innego bezrobotnego.
+7. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego, rozwiązania z nim umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy lub wygaśnięcia stosunku pracy skierowanego bezrobotnego przed upływem okresu, o którym mowa w ust. 3, starosta kieruje na zwolnione stanowisko pracy innego bezrobotnego.
 
 8. W przypadku odmowy przyjęcia skierowanego bezrobotnego na zwolnione stanowisko pracy pracodawca lub przedsiębiorca zwraca grant w kwocie określonej w ust. 5 pkt 1. W przypadku braku możliwości skierowania odpowiedniego bezrobotnego przez PUP na zwolnione stanowisko pracy pracodawca lub przedsiębiorca nie zwraca wartości otrzymanego grant.
 
@@ -2375,7 +2374,7 @@ o rynku pracy i służbach zatrudnienia
 
 5. W przypadku utrzymania zatrudnienia skierowanego bezrobotnego lub poszukującego pracy przez okres uzyskiwania świadczenia aktywizacyjnego oraz przez co najmniej połowę okresu wymaganego utrzymania zatrudnienia po ustaniu prawa do świadczenia pracodawca zwraca 50 % łącznej kwoty, o której mowa w ust. 4, w terminie 30 dni od dnia doręczenia wezwania starosty.
 
-6. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego lub poszukującego pracy, rozwiązania z nim umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy lub wygaśnięcia stosunku pracy skierowanego bezrobotnego lub poszukującego pracy w trakcie przysługiwania świadczenia aktywizacyjnego albo przed upływem okresu 6 miesięcy, o którym mowa w ust. 3, starosta kieruje na zwolnione stanowisko pracy innego bezrobotnego lub poszukującego pracy.
+6. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego lub poszukującego pracy, rozwiązania z nim umowy o pracę na podstawie art. 52 albo art. 53 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy lub wygaśnięcia stosunku pracy skierowanego bezrobotnego lub poszukującego pracy w trakcie przysługiwania świadczenia aktywizacyjnego albo przed upływem okresu 6 miesięcy, o którym mowa w ust. 3, starosta kieruje na zwolnione stanowisko pracy innego bezrobotnego lub poszukującego pracy.
 
 7. W przypadku odmowy przyjęcia skierowanego bezrobotnego lub poszukującego pracy na zwolnione stanowisko pracy pracodawca zwraca otrzymane świadczenia aktywizacyjne wraz z odsetkami ustawowymi naliczonymi od całości kwoty świadczenia aktywizacyjnego od dnia wypłaty pierwszego świadczenia, w terminie 30 dni od dnia doręczenia wezwania starosty. W przypadku braku możliwości skierowania na zwolnione stanowisko pracy odpowiedniego bezrobotnego lub poszukującego pracy przez PUP, pracodawca nie zwraca uzyskanych środków za okres zatrudniania skierowanego bezrobotnego lub poszukującego pracy. W przypadku gdy odmowa przyjęcia skierowanego bezrobotnego lub poszukującego pracy na zwolnione stanowisko pracy ma miejsce po utrzymaniu zatrudnienia przez okres przysługiwania dofinansowania wynagrodzenia oraz przez co najmniej połowę okresu, o którym mowa w ust. 3, pracodawca zwraca 50 % łącznej kwoty, o której mowa w ust. 4, w terminie 30 dni od dnia doręczenia wezwania starosty.
 
@@ -2383,7 +2382,9 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 146.**
 
-1. Starosta może na podstawie umowy, po udokumentowaniu poniesionych kosztów, refundować bezrobotnemu koszty opieki nad dzieckiem do 7. roku życia, a w przypadku dziecka niepełnosprawnego do 18. roku życia, w wysokości określonej w tej umowie, nie wyższej jednak niż połowa zasiłku, o którym mowa w art. 224 ust. 1 pkt 1, na każde dziecko, na opiekę którego poniesiono koszty, jeżeli bezrobotny podejmie zatrudnienie, inną pracę zarobkową lub zostanie skierowany do innej formy pomocy, oraz pod warunkiem osiągania z tego tytułu miesięcznie przychodów nieprzekraczających minimalnego wynagrodzenia za pracę.
+1. Starosta może na podstawie umowy, po udokumentowaniu poniesionych kosztów, refundować bezrobotnemu koszty opieki nad dzieckiem do
+
+7. roku życia, a w przypadku dziecka niepełnosprawnego – do 18. roku życia, w wysokości określonej w tej umowie, nie wyższej jednak niż połowa zasiłku, o którym mowa w art. 224 ust. 1 pkt 1, na każde dziecko, na opiekę którego poniesiono koszty, jeżeli bezrobotny podejmie zatrudnienie, inną pracę zarobkową lub zostanie skierowany do innej formy pomocy, oraz pod warunkiem osiągania z tego tytułu miesięcznie przychodów nieprzekraczających minimalnego wynagrodzenia za pracę.
 
 2. Refundacja, o której mowa w ust. 1, przysługuje na okres do 6 miesięcy.
 
@@ -2401,7 +2402,7 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** bezrobotnemu,
 - **2)** absolwentowi centrum integracji społecznej, o którym mowa w art. 2 pkt 1a ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 83 i 620), zwanemu dalej „absolwentem CIS”, lub absolwentowi klubu integracji społecznej, o którym mowa w art. 2 pkt 1b tej ustawy, zwanemu dalej „absolwentem KIS”,
-- **3)** poszukującemu pracy niezatrudnionemu i niewykonującemu innej pracy zarobkowej opiekunowi osoby niepełnosprawnej jednorazowo środki na podjęcie działalności gospodarczej, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności, zwane dalej „dofinansowaniem podjęcia działalności gospodarczej”, w wysokości określonej w umowie, nie wyższej jednak niż 6-krotność przeciętnego wynagrodzenia obowiązującego w dniu zawarcia umowy.
+- **3)** poszukującemu pracy niezatrudnionemu i niewykonującemu innej pracy zarobkowej opiekunowi osoby niepełnosprawnej – jednorazowo środki na podjęcie działalności gospodarczej, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności, zwane dalej „dofinansowaniem podjęcia działalności gospodarczej”, w wysokości określonej w umowie, nie wyższej jednak niż 6-krotność przeciętnego wynagrodzenia obowiązującego w dniu zawarcia umowy.
 
 2. Starosta, uwzględniając specyfikę lokalnego rynku pracy, w tym wielkość i strukturę bezrobocia oraz kwotę środków na formy wsparcia, po uzyskaniu pozytywnej opinii powiatowej rady rynku pracy, może określić dodatkowe warunki dotyczące rodzaju planowanej działalności gospodarczej lub kategorii osób ubiegających się o dofinansowanie podjęcia działalności gospodarczej.
 
@@ -2409,7 +2410,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Wniosek o dofinansowanie podjęcia działalności gospodarczej może złożyć bezrobotny, który na dzień złożenia wniosku:
 
-- **1)** w okresie ostatnich 2 lat nie był prawomocnie skazany za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym na podstawie ustawy z dnia 6 czerwca 1997 r. Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
+- **1)** w okresie ostatnich 2 lat nie był prawomocnie skazany za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym na podstawie ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
 - **2)** w okresie ostatnich 12 miesięcy nie wykonywał działalności gospodarczej na terytorium Rzeczypospolitej Polskiej i nie pozostawał w okresie zawieszenia wykonywania działalności gospodarczej;
 - **3)** nie wykonuje za granicą działalności gospodarczej i nie pozostaje w okresie zawieszenia wykonywania tej działalności gospodarczej;
 - **4)** nie skorzystał z bezzwrotnych środków publicznych na podjęcie działalności gospodarczej, założenie lub przystąpienie do spółdzielni socjalnej;
@@ -2476,20 +2477,20 @@ o rynku pracy i służbach zatrudnienia
 
 7. Zwrot środków, o którym mowa w ust. 1–3 i 6, jest dokonywany na wyodrębniony rachunek bankowy PUP albo samorządu powiatu w terminie 30 dni od dnia doręczenia wezwania starosty.
 
-8. Dochodzenie roszczeń wynikających z zawartej umowy o dofinansowanie podjęcia działalności gospodarczej następuje na podstawie przepisów ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620).
+8. Dochodzenie roszczeń wynikających z zawartej umowy o dofinansowanie podjęcia działalności gospodarczej następuje na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620).
 
 **Art. 154.**
 
 1. Starosta może zrefundować z Funduszu Pracy koszty wyposażenia lub doposażenia stanowiska pracy dla skierowanego bezrobotnego lub skierowanego poszukującego pracy, o którym mowa w art. 147 ust. 1 pkt 3:
 
 - **1)** przedsiębiorcy;
-- **2)** niepublicznemu przedszkolu lub niepublicznej innej formie wychowania przedszkolnego, niepublicznej szkole, o których mowa w ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe;
+- **2)** niepublicznemu przedszkolu lub niepublicznej innej formie wychowania przedszkolnego, niepublicznej szkole, o których mowa w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe;
 - **3)** osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, zamieszkującej lub mającej siedzibę na terytorium Rzeczypospolitej Polskiej, będącej posiadaczem gospodarstwa rolnego w rozumieniu ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2024 r. poz. 1176, 1635 i 1757) lub prowadzącej dział specjalny produkcji rolnej, o którym mowa w ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub w ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, 340 i 620), zwanej dalej „producentem rolnym”.
 
 2. Starosta może zrefundować z Funduszu Pracy koszty wyposażenia lub doposażenia stanowiska pracy dla skierowanego bezrobotnego lub skierowanego poszukującego pracy, o którym mowa w art. 147 ust. 1 pkt 3:
 
-- **1)** związanego bezpośrednio ze sprawowaniem opieki nad dziećmi niepełnosprawnymi lub prowadzeniem dla nich zajęć żłobkom lub klubom dziecięcym tworzonym i prowadzonym przez osoby fizyczne, osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej, o których mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338, 743 i 858 oraz z 2025 r. poz. 620), zwanym dalej „żłobkiem lub klubem dziecięcym”;
-- **2)** związanego bezpośrednio ze świadczeniem usług rehabilitacyjnych dla dzieci niepełnosprawnych, w tym usług mobilnych przedsiębiorcy lub przedsiębiorstwu społecznemu, prowadzącym działalność polegającą na świadczeniu usług rehabilitacyjnych.
+- **1)** związanego bezpośrednio ze sprawowaniem opieki nad dziećmi niepełnosprawnymi lub prowadzeniem dla nich zajęć – żłobkom lub klubom dziecięcym tworzonym i prowadzonym przez osoby fizyczne, osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej, o których mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338, 743 i 858 oraz z 2025 r. poz. 620), zwanym dalej „żłobkiem lub klubem dziecięcym”;
+- **2)** związanego bezpośrednio ze świadczeniem usług rehabilitacyjnych dla dzieci niepełnosprawnych, w tym usług mobilnych – przedsiębiorcy lub przedsiębiorstwu społecznemu, prowadzącym działalność polegającą na świadczeniu usług rehabilitacyjnych.
 
 3. Starosta może zrefundować z Funduszu Pracy przedsiębiorcy koszty wyposażenia lub doposażenia stanowiska pracy dziennego opiekuna sprawującego opiekę nad co najmniej jednym dzieckiem niepełnosprawnym dla skierowanego bezrobotnego lub poszukującego pracy, o którym mowa w art. 147 ust. 1 pkt 3.
 
@@ -2506,9 +2507,9 @@ o rynku pracy i służbach zatrudnienia
 
 1. Wniosek o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o której mowa w art. 154 ust. 1, może złożyć przedsiębiorca, w tym żłobek lub klub dziecięcy lub podmiot świadczący usługi rehabilitacyjne, niepubliczne przedszkole lub niepubliczna inna forma wychowania przedszkolnego lub niepubliczna szkoła, jeżeli na dzień złożenia wniosku:
 
-- **1)** wnioskodawca, osoby reprezentujące wnioskodawcę i osoby zarządzające wnioskodawcą w okresie ostatnich 2 lat nie były prawomocnie skazane za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym na podstawie ustawy z dnia 6 czerwca 1997 r. Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
-- **2)** przez ostatnie 6 miesięcy przedsiębiorca, w tym żłobek lub klub dziecięcy lub podmiot świadczący usługi rehabilitacyjne, wykonywał działalność gospodarczą, a w przypadku niepublicznego przedszkola lub niepublicznej innej formy wychowania przedszkolnego lub niepublicznej szkoły działalność na podstawie ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe;
-- **3)** w okresie ostatnich 6 miesięcy wnioskodawca nie zmniejszył wymiaru czasu pracy i stanu zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn uzupełnił wymiar czasu pracy lub stan zatrudnienia;
+- **1)** wnioskodawca, osoby reprezentujące wnioskodawcę i osoby zarządzające wnioskodawcą w okresie ostatnich 2 lat nie były prawomocnie skazane za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym na podstawie ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
+- **2)** przez ostatnie 6 miesięcy przedsiębiorca, w tym żłobek lub klub dziecięcy lub podmiot świadczący usługi rehabilitacyjne, wykonywał działalność gospodarczą, a w przypadku niepublicznego przedszkola lub niepublicznej innej formy wychowania przedszkolnego lub niepublicznej szkoły – działalność na podstawie ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **3)** w okresie ostatnich 6 miesięcy wnioskodawca nie zmniejszył wymiaru czasu pracy i stanu zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn – uzupełnił wymiar czasu pracy lub stan zatrudnienia;
 - **4)** wnioskodawca nie zalega z:
     - **a)** wypłacaniem wynagrodzeń pracownikom, z opłacaniem należnych składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Solidarnościowy i Fundusz Emerytur Pomostowych oraz z wpłatami na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych,
     - **b)** opłacaniem należnych składek na ubezpieczenie społeczne rolników lub na ubezpieczenie zdrowotne;
@@ -2516,9 +2517,9 @@ o rynku pracy i służbach zatrudnienia
 - **5)** wnioskodawca nie zalega z opłacaniem innych danin publicznych;
 - **6)** wnioskodawca nie posiada nieuregulowanych w terminie zobowiązań cywilnoprawnych.
 
-2. Wniosek o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o której mowa w art. 154 ust. 2 i 3, może złożyć przedsiębiorca, w tym żłobek lub klub dziecięcy lub podmiot świadczący usługi rehabilitacyjne, który spełnia warunki określone w ust. 1 pkt 1 i 4–6, oraz nie zmniejszył wymiaru czasu pracy i stanu zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn uzupełnił wymiar czasu pracy lub stan zatrudnienia w okresie ostatnich 6 miesięcy lub w okresie swego funkcjonowania, w przypadku gdy wykonuje działalność gospodarczą krócej niż 6 miesięcy.
+2. Wniosek o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o której mowa w art. 154 ust. 2 i 3, może złożyć przedsiębiorca, w tym żłobek lub klub dziecięcy lub podmiot świadczący usługi rehabilitacyjne, który spełnia warunki określone w ust. 1 pkt 1 i 4–6, oraz nie zmniejszył wymiaru czasu pracy i stanu zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn – uzupełnił wymiar czasu pracy lub stan zatrudnienia w okresie ostatnich 6 miesięcy lub w okresie swego funkcjonowania, w przypadku gdy wykonuje działalność gospodarczą krócej niż 6 miesięcy.
 
-3. Wniosek o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o której mowa w art. 154 ust. 2 pkt 2, może złożyć przedsiębiorstwo społeczne, które spełnia warunki określone w ust. 1 pkt 1 i 4–6 oraz nie zmniejszyło wymiaru czasu pracy i stanu zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn uzupełniło wymiar czasu pracy lub stan zatrudnienia w okresie ostatnich 6 miesięcy lub w okresie posiadania statusu przedsiębiorstwa społecznego, w przypadku gdy posiada ten status krócej niż 6 miesięcy.
+3. Wniosek o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o której mowa w art. 154 ust. 2 pkt 2, może złożyć przedsiębiorstwo społeczne, które spełnia warunki określone w ust. 1 pkt 1 i 4–6 oraz nie zmniejszyło wymiaru czasu pracy i stanu zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn – uzupełniło wymiar czasu pracy lub stan zatrudnienia w okresie ostatnich 6 miesięcy lub w okresie posiadania statusu przedsiębiorstwa społecznego, w przypadku gdy posiada ten status krócej niż 6 miesięcy.
 
 4. Wniosek o refundację kosztów wyposażenia lub doposażenia stanowiska pracy może złożyć producent rolny, który:
 
@@ -2526,7 +2527,7 @@ o rynku pracy i służbach zatrudnienia
 - **2)** przez ostatnie 6 miesięcy posiadał gospodarstwo rolne lub prowadził dział specjalny produkcji rolnej;
 - **3)** w okresie ostatnich 6 miesięcy zatrudniał w każdym miesiącu co najmniej jednego pracownika w pełnym wymiarze czasu pracy.
 
-5. Warunek dotyczący niezmniejszenia wymiaru czasu pracy i zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn uzupełnienia wymiaru czasu pracy lub stanu zatrudnienia jest weryfikowany również na dzień podpisania umowy w odniesieniu do wniosków, o których mowa w ust. 1–4.
+5. Warunek dotyczący niezmniejszenia wymiaru czasu pracy i zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn – uzupełnienia wymiaru czasu pracy lub stanu zatrudnienia jest weryfikowany również na dzień podpisania umowy w odniesieniu do wniosków, o których mowa w ust. 1–4.
 
 **Art. 156.**
 
@@ -2541,10 +2542,10 @@ o rynku pracy i służbach zatrudnienia
 1. Do obowiązków podmiotu, który zawarł umowę o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, należy:
 
 - **1)** rozliczenie wydatków niezbędnych do wyposażenia lub doposażenia stanowiska pracy;
-- **2)** utrzymanie stanowiska pracy utworzonego w związku z przyznaną refundacją przez okres co najmniej 18 miesięcy, a w przypadku przyznania refundacji w kwocie nie większej niż 4-krotność przeciętnego wynagrodzenia co najmniej przez 12 miesięcy;
+- **2)** utrzymanie stanowiska pracy utworzonego w związku z przyznaną refundacją przez okres co najmniej 18 miesięcy, a w przypadku przyznania refundacji w kwocie nie większej niż 4-krotność przeciętnego wynagrodzenia – co najmniej przez 12 miesięcy;
 - **3)** zatrudnienie na wyposażonym lub doposażonym stanowisku pracy łącznie przez okres wskazany w pkt 2 w wymiarze czasu pracy określonym w umowie, nie mniejszym niż:
-    - **a)** pełny wymiar czasu pracy w przypadku skierowanego bezrobotnego zatrudnionego na stanowisku, o którym mowa w art. 154 ust. 1, lub
-    - **b)** połowa pełnego wymiaru czasu pracy w przypadku skierowanego poszukującego pracy, o którym mowa w art. 147 ust. 1 pkt 3, zatrudnionego na stanowisku, o którym mowa w art. 154 ust. 1, lub skierowanego bezrobotnego lub skierowanego poszukującego pracy, o którym mowa w art. 147 ust. 1 pkt 3, zatrudnionego na stanowisku pracy, o którym mowa w art. 154 ust. 2 lub 3.
+    - **a)** pełny wymiar czasu pracy – w przypadku skierowanego bezrobotnego zatrudnionego na stanowisku, o którym mowa w art. 154 ust. 1, lub
+    - **b)** połowa pełnego wymiaru czasu pracy – w przypadku skierowanego poszukującego pracy, o którym mowa w art. 147 ust. 1 pkt 3, zatrudnionego na stanowisku, o którym mowa w art. 154 ust. 1, lub skierowanego bezrobotnego lub skierowanego poszukującego pracy, o którym mowa w art. 147 ust. 1 pkt 3, zatrudnionego na stanowisku pracy, o którym mowa w art. 154 ust. 2 lub 3.
 
 2. Starosta przed dokonaniem refundacji kosztów wyposażenia lub doposażenia stanowiska pracy i skierowaniem bezrobotnego lub poszukującego pracy, o którym mowa w art. 147 ust. 1 pkt 3, do podmiotu, z którym zawarł umowę o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, stwierdza utworzenie stanowiska pracy, jego wyposażenie lub doposażenie.
 
@@ -2572,7 +2573,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Wniosek o środki na założenie spółdzielni socjalnej może złożyć bezrobotny lub poszukujący pracy, o którym mowa w art. 161 pkt 4, który na dzień złożenia wniosku:
 
-- **1)** w okresie ostatnich 2 lat nie był prawomocnie skazany za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym na podstawie ustawy z dnia 6 czerwca 1997 r. Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
+- **1)** w okresie ostatnich 2 lat nie był prawomocnie skazany za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym na podstawie ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
 - **2)** w okresie ostatnich 12 miesięcy nie wykonywał działalności gospodarczej na terytorium Rzeczypospolitej Polskiej i nie pozostawał w okresie zawieszenia wykonywania działalności gospodarczej;
 - **3)** nie wykonuje za granicą działalności gospodarczej i nie pozostaje w okresie zawieszenia wykonywania tej działalności gospodarczej;
 - **4)** nie skorzystał z bezzwrotnych środków publicznych na podjęcie działalności gospodarczej, założenie lub przystąpienie do spółdzielni socjalnej;
@@ -2605,7 +2606,7 @@ o rynku pracy i służbach zatrudnienia
 - **4)** nie posiada nieuregulowanych w terminie zobowiązań cywilnoprawnych;
 - **5)** nie znajduje się w stanie likwidacji.
 
-2. Osoba ubiegająca się o środki na przystąpienie do spółdzielni socjalnej może przystąpić do spółdzielni socjalnej, w której osoby reprezentujące spółdzielnię socjalną i osoby zarządzające tą spółdzielnią w okresie ostatnich 2 lat nie były prawomocnie skazane za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym na podstawie ustawy z dnia 6 czerwca 1997 r. Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego.
+2. Osoba ubiegająca się o środki na przystąpienie do spółdzielni socjalnej może przystąpić do spółdzielni socjalnej, w której osoby reprezentujące spółdzielnię socjalną i osoby zarządzające tą spółdzielnią w okresie ostatnich 2 lat nie były prawomocnie skazane za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym na podstawie ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego.
 
 **Art. 164.**
 
@@ -2650,13 +2651,13 @@ o rynku pracy i służbach zatrudnienia
 
 1. Wniosek o środki na utworzenie stanowiska pracy może złożyć spółdzielnia socjalna lub przedsiębiorstwo społeczne, które na dzień złożenia wniosku:
 
-- **1)** w okresie ostatnich 6 miesięcy nie zmniejszyły wymiaru czasu pracy i stanu zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn uzupełniły wymiar czasu pracy lub stan zatrudnienia;
+- **1)** w okresie ostatnich 6 miesięcy nie zmniejszyły wymiaru czasu pracy i stanu zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn – uzupełniły wymiar czasu pracy lub stan zatrudnienia;
 - **2)** przez ostatnie 6 miesięcy spółdzielnia socjalna wykonywała działalność gospodarczą, a przedsiębiorstwo społeczne posiadało status przedsiębiorstwa społecznego;
 - **3)** spełniają warunki, o których mowa w art. 163 ust. 1 pkt 2–5 i ust. 2.
 
 2. Wniosek o finansowanie kosztów wynagrodzenia może złożyć spółdzielnia socjalna lub przedsiębiorstwo społeczne, które:
 
-- **1)** nie zmniejszyły wymiaru czasu pracy i stanu zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn uzupełniły wymiar czasu pracy lub stan zatrudnienia w okresie ostatnich 6 miesięcy lub w okresie swego funkcjonowania, w przypadku gdy spółdzielnia socjalna wykonywała działalność gospodarczą krócej niż 6 miesięcy, a przedsiębiorstwo społeczne posiadało status przedsiębiorstwa społecznego krócej niż 6 miesięcy;
+- **1)** nie zmniejszyły wymiaru czasu pracy i stanu zatrudnienia pracowników z przyczyn dotyczących zakładu pracy, a w przypadku zmniejszenia wymiaru czasu pracy lub stanu zatrudnienia z innych przyczyn – uzupełniły wymiar czasu pracy lub stan zatrudnienia w okresie ostatnich 6 miesięcy lub w okresie swego funkcjonowania, w przypadku gdy spółdzielnia socjalna wykonywała działalność gospodarczą krócej niż 6 miesięcy, a przedsiębiorstwo społeczne posiadało status przedsiębiorstwa społecznego krócej niż 6 miesięcy;
 - **2)** spełniają warunki, o których mowa w art. 163 ust. 1 pkt 2–5 i ust. 2.
 
 **Art. 169.**
@@ -2715,12 +2716,12 @@ o rynku pracy i służbach zatrudnienia
 
 4. Z Funduszu Pracy lub ze środków pochodzących z budżetu Unii Europejskiej mogą być także finansowane pożyczki na utworzenie stanowiska pracy dla bezrobotnego lub poszukującego pracy, o którym mowa w art. 147 ust. 1 pkt 3:
 
-- **1)** związanego bezpośrednio ze sprawowaniem opieki nad dziećmi niepełnosprawnymi lub prowadzeniem dla nich zajęć udzielane żłobkom lub klubom dziecięcym;
-- **2)** związanego bezpośrednio ze świadczeniem usług rehabilitacyjnych dla dzieci niepełnosprawnych, w tym usług mobilnych udzielane podmiotom świadczącym usługi rehabilitacyjne.
+- **1)** związanego bezpośrednio ze sprawowaniem opieki nad dziećmi niepełnosprawnymi lub prowadzeniem dla nich zajęć – udzielane żłobkom lub klubom dziecięcym;
+- **2)** związanego bezpośrednio ze świadczeniem usług rehabilitacyjnych dla dzieci niepełnosprawnych, w tym usług mobilnych – udzielane podmiotom świadczącym usługi rehabilitacyjne.
 
 5. Z Funduszu Pracy lub ze środków pochodzących z budżetu Unii Europejskiej mogą być finansowane pożyczki na utworzenie stanowiska pracy dziennego opiekuna sprawującego opiekę nad co najmniej jednym dzieckiem niepełnosprawnym dla bezrobotnego lub poszukującego pracy, o którym mowa w art. 147 ust. 1 pkt 3, udzielane przedsiębiorcom.
 
-6. Z Funduszu Pracy mogą być finansowane pożyczki na dostosowanie stanowiska pracy do pracy zdalnej w rozumieniu art. 67 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy dla pracowników, o których mowa w art. 67 § 6 i 7 tej ustawy, udzielane przedsiębiorcom.
+6. Z Funduszu Pracy mogą być finansowane pożyczki na dostosowanie stanowiska pracy do pracy zdalnej w rozumieniu art. 67 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy dla pracowników, o których mowa w art. 67 § 6 i 7 tej ustawy, udzielane przedsiębiorcom.
 
 **Art. 173.**
 
@@ -2728,7 +2729,7 @@ o rynku pracy i służbach zatrudnienia
 
 2. Pośrednik finansowy przyjmuje wnioski o pożyczkę oraz dokonuje ich oceny, zawiera umowy pożyczki oraz dokonuje wypłat środków w ramach udzielonych pożyczek.
 
-3. Pośrednikiem finansowym może zostać bank lub instytucja finansowa w rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146, 222 i 525).
+3. Pośrednikiem finansowym może zostać bank lub instytucja finansowa w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146, 222 i 525).
 
 **Art. 174.**
 
@@ -2772,7 +2773,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Pożyczka na podjęcie działalności gospodarczej może zostać udzielona osobom, o których mowa w art. 172 ust. 1 pkt 1 lub ust. 2 pkt 1, które:
 
-- **1)** w okresie 2 lat przed wystąpieniem z wnioskiem o pożyczkę nie były prawomocnie skazane za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym, na podstawie ustawy z dnia 6 czerwca 1997 r. Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
+- **1)** w okresie 2 lat przed wystąpieniem z wnioskiem o pożyczkę nie były prawomocnie skazane za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym, na podstawie ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
 - **2)** w okresie 12 miesięcy przed wystąpieniem z wnioskiem o pożyczkę nie wykonywały na terytorium Rzeczypospolitej Polskiej działalności gospodarczej i nie pozostawały w okresie zawieszenia wykonywania tej działalności gospodarczej;
 - **3)** na dzień złożenia wniosku nie wykonują za granicą działalności gospodarczej i nie pozostają w okresie zawieszenia wykonywania tej działalności gospodarczej;
 - **4)** na dzień złożenia wniosku nie posiadają nieuregulowanych w terminie zobowiązań publicznoprawnych lub cywilnoprawnych.
@@ -2793,7 +2794,7 @@ o rynku pracy i służbach zatrudnienia
 - **3)** nie zalegają z opłacaniem innych danin publicznych;
 - **4)** nie posiadają nieuregulowanych w terminie zobowiązań cywilnoprawnych.
 
-2. Pożyczka na utworzenie stanowiska pracy lub pożyczka na dostosowanie stanowiska pracy do pracy zdalnej może zostać udzielona, jeżeli wnioskodawca, osoby reprezentujące wnioskodawcę i osoby zarządzające wnioskodawcą w okresie ostatnich 2 lat nie były prawomocnie skazane za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym na podstawie ustawy z dnia 6 czerwca 1997 r. Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego.
+2. Pożyczka na utworzenie stanowiska pracy lub pożyczka na dostosowanie stanowiska pracy do pracy zdalnej może zostać udzielona, jeżeli wnioskodawca, osoby reprezentujące wnioskodawcę i osoby zarządzające wnioskodawcą w okresie ostatnich 2 lat nie były prawomocnie skazane za przestępstwo składania fałszywych zeznań lub oświadczeń, przestępstwo przeciwko wiarygodności dokumentów lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym na podstawie ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, za przestępstwo skarbowe na podstawie ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego.
 
 3. Warunki, o których mowa w ust. 1 i 2, muszą być spełnione na dzień złożenia wniosku.
 
@@ -2921,7 +2922,7 @@ o rynku pracy i służbach zatrudnienia
 - **2)** niezaleganie ze spłatą rat pożyczki;
 - **3)** nieskorzystanie z dofinansowania podjęcia działalności gospodarczej lub innych bezzwrotnych środków publicznych na podjęcie działalności gospodarczej.
 
-3. Pośrednik finansowy informuje o umorzeniu pożyczki w terminie 7 dni od dnia umorzenia PUP, w którym bezrobotny lub poszukujący pracy był zarejestrowany przed udzieleniem pożyczki, a w przypadku absolwenta CIS lub absolwenta KIS PUP właściwy ze względu na aktualne miejsce zamieszkania.
+3. Pośrednik finansowy informuje o umorzeniu pożyczki w terminie 7 dni od dnia umorzenia PUP, w którym bezrobotny lub poszukujący pracy był zarejestrowany przed udzieleniem pożyczki, a w przypadku absolwenta CIS lub absolwenta KIS – PUP właściwy ze względu na aktualne miejsce zamieszkania.
 
 4. Przeciętne wynagrodzenie jest przyjmowane w wysokości obowiązującej w dniu zawarcia umowy pożyczki.
 
@@ -2974,7 +2975,7 @@ o rynku pracy i służbach zatrudnienia
 1. Pośrednicy finansowi przetwarzają dane osobowe osób składających wnioski o udzielenie pożyczki na podjęcie działalności gospodarczej, o której mowa w art. 172 ust. 1 pkt 1 lub ust. 2 pkt 1:
 
 - **1)** imię (imiona) i nazwisko;
-- **2)** numer PESEL, a w przypadku jego braku płeć, miejsce urodzenia, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **2)** numer PESEL, a w przypadku jego braku – płeć, miejsce urodzenia, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 - **3)** serię i numer dowodu osobistego, o ile posiada;
 - **4)** datę urodzenia;
 - **5)** wiek;
@@ -2985,7 +2986,7 @@ o rynku pracy i służbach zatrudnienia
 - **10)** informacje niezbędne do ustalenia statusu uprawniającego do złożenia wniosku o udzielenie pożyczki:
     - **a)** status na rynku pracy,
     - **b)** posiadanie statusu studenta,
-    - **c)** posiadanie statusu opiekuna osoby niepełnosprawnej oraz dane osobowe osoby niepełnosprawnej lub dziecka niepełnosprawnego, obejmujące: imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
+    - **c)** posiadanie statusu opiekuna osoby niepełnosprawnej oraz dane osobowe osoby niepełnosprawnej lub dziecka niepełnosprawnego, obejmujące: imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
     - **d)** informacje o uzyskiwanych dochodach,
     - **e)** informacje o zamieszkiwaniu za granicą w okresie ostatnich 24 miesięcy;
 
@@ -3003,16 +3004,16 @@ o rynku pracy i służbach zatrudnienia
 - **1)** stanu cywilnego;
 - **2)** małżonka:
     - **a)** imię (imiona) i nazwisko,
-    - **b)** numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
+    - **b)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
     - **c)** serię i numer dowodu osobistego, o ile posiada,
     - **d)** adres zamieszkania;
 
 - **3)** sytuacji majątkowej: wspólności majątkowej, uzyskiwanych dochodów, aktualnych zobowiązań finansowych, posiadanego majątku.
 
-4. W celu realizacji umowy pożyczki na utworzenie stanowiska pracy, pośrednik finansowy, a w przypadku wniosku o umorzenie pożyczki, o którym mowa w art. 186 ust. 1, w celu jego rozpatrzenia także Bank Gospodarstwa Krajowego i minister właściwy do spraw pracy przetwarzają, poza danymi wskazanymi w ust. 1 i 2, dane osobowe pracownika pożyczkobiorcy, zatrudnionego na utworzonym dzięki pożyczce stanowisku pracy:
+4. W celu realizacji umowy pożyczki na utworzenie stanowiska pracy, pośrednik finansowy, a w przypadku wniosku o umorzenie pożyczki, o którym mowa w art. 186 ust. 1, w celu jego rozpatrzenia – także Bank Gospodarstwa Krajowego i minister właściwy do spraw pracy przetwarzają, poza danymi wskazanymi w ust. 1 i 2, dane osobowe pracownika pożyczkobiorcy, zatrudnionego na utworzonym dzięki pożyczce stanowisku pracy:
 
 - **1)** imię (imiona) i nazwisko;
-- **2)** numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **2)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 - **3)** datę urodzenia;
 - **4)** adres zamieszkania oraz adres do doręczeń;
 - **5)** miejsce i okres zatrudnienia.
@@ -3042,7 +3043,7 @@ o rynku pracy i służbach zatrudnienia
 - **2)** tryb kierowania bezrobotnego do agencji zatrudnienia, w tym zasady uzupełniania liczby bezrobotnych, o których mowa w pkt 1, w przypadku niestawienia się bezrobotnego skierowanego przez PUP w agencji zatrudnienia lub rezygnacji bezrobotnego z udziału w tej formie pomocy;
 - **3)** zakres danych o bezrobotnym, przekazywanych agencji zatrudnienia przez PUP, obejmujący:
     - **a)** imię (imiona) i nazwisko,
-    - **b)** numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
+    - **b)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
     - **c)** adres zamieszkania,
     - **d)** wykształcenie, uprawnienia i doświadczenie zawodowe;
 
@@ -3054,12 +3055,12 @@ o rynku pracy i służbach zatrudnienia
 - **6)** warunki i tryb przekazania środków Funduszu Pracy przysługujących agencji zatrudnienia;
 - **7)** inne informacje niestanowiące danych osobowych.
 
-4. Wynagrodzenie należne agencji zatrudnienia, o którym mowa w ust. 3 pkt 5, nie może przekroczyć 150 % przeciętnego wynagrodzenia obowiązującego w dniu opublikowania ogłoszenia o wszczęciu postępowania w celu wyłonienia agencji zatrudnienia, a w przypadku długotrwale bezrobotnego oraz bezrobotnego, będącego osobą do 30. roku życia 200 % tego wynagrodzenia.
+4. Wynagrodzenie należne agencji zatrudnienia, o którym mowa w ust. 3 pkt 5, nie może przekroczyć 150 % przeciętnego wynagrodzenia obowiązującego w dniu opublikowania ogłoszenia o wszczęciu postępowania w celu wyłonienia agencji zatrudnienia, a w przypadku długotrwale bezrobotnego oraz bezrobotnego, będącego osobą do 30. roku życia – 200 % tego wynagrodzenia.
 
 5. Wypłata wynagrodzenia, o którym mowa w ust. 4, następuje w dwóch częściach:
 
-- **1)** 15 % wynagrodzenia po utrzymaniu przez osobę przez okres 30 dni zatrudnienia spełniającego warunki, o których mowa w ust. 1,
-- **2)** 85 % wynagrodzenia po utrzymaniu przez osobę przez okres kolejnych 150 dni zatrudnienia spełniającego warunki, o których mowa w ust. 1 niezwłocznie po pozyskaniu przez PUP informacji, o których mowa w ust. 7.
+- **1)** 15 % wynagrodzenia – po utrzymaniu przez osobę przez okres 30 dni zatrudnienia spełniającego warunki, o których mowa w ust. 1,
+- **2)** 85 % wynagrodzenia – po utrzymaniu przez osobę przez okres kolejnych 150 dni zatrudnienia spełniającego warunki, o których mowa w ust. 1 – niezwłocznie po pozyskaniu przez PUP informacji, o których mowa w ust. 7.
 
 6. W przypadku gdy okres, o którym mowa w ust. 5 pkt 2, jest krótszy niż 150 dni, wynagrodzenie jest obliczane proporcjonalnie do okresu utrzymania zatrudnienia z kwoty 85 % wynagrodzenia.
 
@@ -3074,11 +3075,11 @@ o rynku pracy i służbach zatrudnienia
 
 #### Rozdział 8 Wsparcie dla długotrwale bezrobotnych
 
-**Art. 198.** W celu zaplanowania i realizacji działań umożliwiających powrót na rynek pracy długotrwale bezrobotnych korzystających ze świadczeń pomocy społecznej starosta i kierownik ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych dyrektor centrum usług społecznych, zawierają porozumienie o współpracy, które określa zasady współpracy, zakres pomocy możliwej do udzielenia długotrwale bezrobotnemu oraz tryb wymiany informacji obejmujących:
+**Art. 198.** W celu zaplanowania i realizacji działań umożliwiających powrót na rynek pracy długotrwale bezrobotnych korzystających ze świadczeń pomocy społecznej starosta i kierownik ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektor centrum usług społecznych, zawierają porozumienie o współpracy, które określa zasady współpracy, zakres pomocy możliwej do udzielenia długotrwale bezrobotnemu oraz tryb wymiany informacji obejmujących:
 
 **Art. 199.**
 
-1. PUP może skierować długotrwale bezrobotnego do centrum integracji społecznej w celu realizacji indywidualnego programu zatrudnienia socjalnego, o którym mowa w ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, z powiadomieniem właściwego dla miejsca zamieszkania lub miejsca pobytu długotrwale bezrobotnego ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrum usług społecznych.
+1. PUP może skierować długotrwale bezrobotnego do centrum integracji społecznej w celu realizacji indywidualnego programu zatrudnienia socjalnego, o którym mowa w ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, z powiadomieniem właściwego dla miejsca zamieszkania lub miejsca pobytu długotrwale bezrobotnego ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych.
 
 2. Centrum integracji społecznej realizujące indywidualny program zatrudnienia socjalnego, o którym mowa w ust. 1, po zakończeniu jego realizacji przekazuje PUP zaświadczenie, o którym mowa w art. 13 ust. 5a ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym.
 
@@ -3130,7 +3131,7 @@ o rynku pracy i służbach zatrudnienia
 
 5. Nabycie umiejętności cyfrowych przez osoby do 30. roku życia może nastąpić w ramach:
 
-- **1)** szkolenia, o którym mowa w art. 99 ust. 1 pkt 1 i 2, albo szkolenia realizowanego w ramach bonu na kształcenie ustawiczne lub stażu w przypadku gdy program tego szkolenia albo stażu obejmuje nabycie umiejętności cyfrowych;
+- **1)** szkolenia, o którym mowa w art. 99 ust. 1 pkt 1 i 2, albo szkolenia realizowanego w ramach bonu na kształcenie ustawiczne lub stażu – w przypadku gdy program tego szkolenia albo stażu obejmuje nabycie umiejętności cyfrowych;
 - **2)** poradnictwa zawodowego, o którym mowa w art. 87.
 
 **Art. 203.** WUP, PUP lub OHP mogą utworzyć ze środków Funduszu Pracy lub innych środków publicznych punkt obsługi osób do 30. roku życia, oferujący:
@@ -3169,7 +3170,7 @@ o rynku pracy i służbach zatrudnienia
 - **1)** na podstawie:
     - **a)** skierowania lub informacji z PUP,
     - **b)** umowy ze starostą,
-    - **c)** skierowania agencji zatrudnienia w przypadku określonym w art. 197 podjął zatrudnienie, inną pracę zarobkową lub udział w formie pomocy poza miejscem zamieszkania w miejscowości, do której czas dojazdu i powrotu do miejsca zamieszkania wynosi łącznie ponad 3 godziny dziennie;
+    - **c)** skierowania agencji zatrudnienia w przypadku określonym w art. 197 – podjął zatrudnienie, inną pracę zarobkową lub udział w formie pomocy poza miejscem zamieszkania w miejscowości, do której czas dojazdu i powrotu do miejsca zamieszkania wynosi łącznie ponad 3 godziny dziennie;
 
 - **2)** mieszka w hotelu lub wynajętym mieszkaniu w miejscowości lub w pobliżu miejscowości, w której jest zatrudniony lub bierze udział w innej formie pomocy;
 - **3)** uzyskuje wynagrodzenie lub inny przychód w wysokości nieprzekraczającej 200 % minimalnego wynagrodzenia za pracę obowiązującego w miesiącu, za który jest dokonywany zwrot kosztów zakwaterowania.
@@ -3217,7 +3218,7 @@ o rynku pracy i służbach zatrudnienia
 - **3)** miejsce zatrudnienia, wykonywania innej pracy zarobkowej lub działalności gospodarczej;
 - **4)** formę i okres zatrudnienia, wykonywania innej pracy zarobkowej lub okres wykonywanej działalności gospodarczej;
 - **5)** informację o spełnieniu warunku, o którym mowa w ust. 4 pkt 2;
-- **6)** informację o odległości lub czasie dotarcia od miejsca dotychczasowego zamieszkania do miejscowości, w której bezrobotny zamieszkał w związku z podjęciem zatrudnienia, wykonywaniem innej pracy zarobkowej lub działalności gospodarczej.
+- **6)** informację o odległości lub czasie dotarcia – od miejsca dotychczasowego zamieszkania do miejscowości, w której bezrobotny zamieszkał w związku z podjęciem zatrudnienia, wykonywaniem innej pracy zarobkowej lub działalności gospodarczej.
 
 8. Oświadczenia, o których mowa w ust. 4 pkt 3, są składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenia jest obowiązany do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -3233,8 +3234,8 @@ o rynku pracy i służbach zatrudnienia
 
 12. Kwota bonu na zasiedlenie podlega zwrotowi na wezwanie starosty:
 
-- **1)** w całości w przypadku niewywiązania się osoby z któregokolwiek z warunków, o których mowa w ust. 1, 4 lub 5;
-- **2)** proporcjonalnie do okresu niepozostawania w zatrudnieniu, niewykonywania innej pracy zarobkowej lub działalności gospodarczej w przypadku gdy okres zatrudnienia, wykonywania innej pracy zarobkowej lub działalności gospodarczej jest krótszy niż 180 dni.
+- **1)** w całości – w przypadku niewywiązania się osoby z któregokolwiek z warunków, o których mowa w ust. 1, 4 lub 5;
+- **2)** proporcjonalnie do okresu niepozostawania w zatrudnieniu, niewykonywania innej pracy zarobkowej lub działalności gospodarczej – w przypadku gdy okres zatrudnienia, wykonywania innej pracy zarobkowej lub działalności gospodarczej jest krótszy niż 180 dni.
 
 13. Zwrot kwoty bonu, o której mowa w ust. 12, następuje bez odsetek ustawowych w terminie nie krótszym niż 30 dni od dnia doręczenia wezwania.
 
@@ -3251,7 +3252,7 @@ o rynku pracy i służbach zatrudnienia
 - **3)** podmiotami ekonomii społecznej,
 - **4)** podmiotami, o których mowa w art. 36 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej,
 - **5)** gminami,
-- **6)** pracodawcami na podstawie pisemnego porozumienia.
+- **6)** pracodawcami – na podstawie pisemnego porozumienia.
 
 3. W przypadku podmiotów ekonomii społecznej, o których mowa w art. 2 pkt 5 lit. b i c ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, pisemne porozumienie, o którym mowa w ust. 2, jest zawierane z jednostkami tworzącymi lub prowadzącym te podmioty.
 
@@ -3387,11 +3388,11 @@ o rynku pracy i służbach zatrudnienia
 - **2)** wysokość środków przeznaczonych na realizację zadania;
 - **3)** terminy i warunki realizacji zadania;
 - **4)** kryteria oceny ofert;
-- **5)** miejsce i termin składania ofert przy czym termin ten nie może być krótszy niż 7 dni od dnia ogłoszenia konkursu;
+- **5)** miejsce i termin składania ofert – przy czym termin ten nie może być krótszy niż 7 dni od dnia ogłoszenia konkursu;
 - **6)** termin rozstrzygnięcia konkursu ofert;
 - **7)** termin i sposób ogłoszenia wyników konkursu ofert;
 - **8)** informację o możliwości odwołania konkursu ofert przed upływem terminu na złożenie ofert oraz możliwości przedłużenia terminu złożenia ofert i terminu rozstrzygnięcia konkursu ofert;
-- **9)** dodatkowe warunki lub informacje o ile jest to konieczne.
+- **9)** dodatkowe warunki lub informacje – o ile jest to konieczne.
 
 2. Oferta złożona w konkursie ofert zawiera:
 
@@ -3411,7 +3412,7 @@ o rynku pracy i służbach zatrudnienia
 
 5. Minister właściwy do spraw pracy może powołać zespół do oceny ofert w składzie co najmniej trzech osób. W przypadku powołania zespołu minister właściwy do spraw pracy wyznacza przewodniczącego zespołu.
 
-6. Do członków zespołu biorących udział w przeprowadzaniu konkursu ofert oraz dokonywaniu wyboru najkorzystniejszych ofert stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, dotyczące wyłączenia pracownika.
+6. Do członków zespołu biorących udział w przeprowadzaniu konkursu ofert oraz dokonywaniu wyboru najkorzystniejszych ofert stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, dotyczące wyłączenia pracownika.
 
 **Art. 214.**
 
@@ -3439,7 +3440,7 @@ o rynku pracy i służbach zatrudnienia
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
 - **2)** niewykorzystane,
 - **3)** pobrane nienależnie,
-- **4)** pobrane w nadmiernej wysokości podlegają zwrotowi na rachunek bankowy dysponenta Funduszu Pracy.
+- **4)** pobrane w nadmiernej wysokości – podlegają zwrotowi na rachunek bankowy dysponenta Funduszu Pracy.
 
 3. Środki Funduszu Pracy, o których mowa w ust. 2 pkt 1, 3 i 4, podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych.
 
@@ -3547,7 +3548,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Prawo do zasiłku nie przysługuje bezrobotnemu, który przed rejestracją w PUP:
 
-- **1)** rozwiązał ostatni stosunek pracy lub stosunek służbowy za wypowiedzeniem, chyba że rozwiązanie stosunku pracy lub stosunku służbowego za wypowiedzeniem nastąpiło z powodu zmiany miejsca zamieszkania lub pracownik rozwiązał umowę o pracę w trybie art. 55 § 1 i 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy;
+- **1)** rozwiązał ostatni stosunek pracy lub stosunek służbowy za wypowiedzeniem, chyba że rozwiązanie stosunku pracy lub stosunku służbowego za wypowiedzeniem nastąpiło z powodu zmiany miejsca zamieszkania lub pracownik rozwiązał umowę o pracę w trybie art. 55 § 1 i 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **2)** spowodował rozwiązanie z własnej winy ostatniego stosunku pracy lub stosunku służbowego bez wypowiedzenia;
 - **3)** rozwiązał ostatni stosunek pracy zawarty na podstawie skierowania przez starostę do pracodawcy otrzymującego w związku z tym skierowaniem środki z Funduszu Pracy.
 
@@ -3571,9 +3572,9 @@ o rynku pracy i służbach zatrudnienia
 - **1)** po upływie okresu, za który otrzymał ekwiwalent, odprawę lub odszkodowanie, o których mowa w ust. 1 pkt 1 i 2;
 - **2)** po zakończeniu odbywania praktyki absolwenckiej i otrzymywania z tego tytułu miesięcznie świadczenia pieniężnego w wysokości przekraczającej połowę minimalnego wynagrodzenia za pracę;
 - **3)** po okresie 90 dni od dnia zarejestrowania się w PUP w przypadkach wymienionych w ust. 1 pkt 4 i 5;
-- **4)** po upływie okresu wskazanego w art. 65 ust. 1 pkt 2 w przypadku wymienionym w ust. 1 pkt 6;
-- **5)** po upływie okresu wskazanego w art. 65 ust. 1 pkt 3 w przypadku wymienionym w ust. 1 pkt 7;
-- **6)** po upływie okresu wskazanego w art. 65 ust. 1 pkt 12 w przypadku wymienionym w ust. 1 pkt 8.
+- **4)** po upływie okresu wskazanego w art. 65 ust. 1 pkt 2 – w przypadku wymienionym w ust. 1 pkt 6;
+- **5)** po upływie okresu wskazanego w art. 65 ust. 1 pkt 3 – w przypadku wymienionym w ust. 1 pkt 7;
+- **6)** po upływie okresu wskazanego w art. 65 ust. 1 pkt 12 – w przypadku wymienionym w ust. 1 pkt 8.
 
 3. Okresy zatrudnienia, innej pracy zarobkowej, prowadzenia pozarolniczej działalności, pobierania zasiłku chorobowego po ustaniu zatrudnienia, zaprzestaniu wykonywania innej pracy zarobkowej, prowadzenia pozarolniczej działalności oraz uzyskiwania przychodu, wymienione w art. 226 ust. 1, oraz okresy wymienione w art. 226 ust. 2, wlicza się do okresów, o których mowa w ust. 2.
 
@@ -3628,8 +3629,8 @@ o rynku pracy i służbach zatrudnienia
 
 3. Do okresu, od którego zależy wysokość i okres pobierania zasiłku, zalicza się również okresy pobierania gwarantowanego zasiłku okresowego, okresy zatrudnienia na podstawie umowy o pracę w celu przygotowania zawodowego młodocianych pracowników, okres zatrudnienia za granicą osoby, która przesiedliła się do kraju na warunkach repatriacji w rozumieniu przepisów ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2022 r. poz. 1105 oraz z 2025 r. poz. 620), oraz okresy urlopu bezpłatnego udzielonego na podstawie przepisów w sprawie bezpłatnych urlopów dla matek pracujących, opiekujących się małymi dziećmi, innych udzielonych w tym celu urlopów bezpłatnych, stanowiących przerwę w zatrudnieniu spowodowaną opieką nad dzieckiem:
 
-- **1)** w wieku do 4 lat w granicach do 3 lat na każde dziecko oraz łącznie z okresami, o których mowa w art. 218 ust. 2 pkt 2, bez względu na liczbę dzieci do 6 lat;
-- **2)** na które, ze względu na stan fizyczny, psychiczny lub psychofizyczny, przysługuje zasiłek pielęgnacyjny dodatkowo do 3 lat na każde dziecko.
+- **1)** w wieku do 4 lat – w granicach do 3 lat na każde dziecko oraz łącznie z okresami, o których mowa w art. 218 ust. 2 pkt 2, bez względu na liczbę dzieci – do 6 lat;
+- **2)** na które, ze względu na stan fizyczny, psychiczny lub psychofizyczny, przysługuje zasiłek pielęgnacyjny – dodatkowo do 3 lat na każde dziecko.
 
 4. Do okresu, od którego zależy wysokość i okres pobierania zasiłku, zalicza się również:
 
@@ -3643,12 +3644,12 @@ o rynku pracy i służbach zatrudnienia
 1. Okres pobierania zasiłku wynosi:
 
 - **1)** 180 dni albo
-- **2)** 365 dni dla bezrobotnych:
+- **2)** 365 dni – dla bezrobotnych: o Karcie Dużej Rodziny, roku życia, a w przypadku dziecka niepełnosprawnego do 24. roku życia, jeżeli kontynuuje naukę w szkole lub uczelni i legitymuje się orzeczeniem o umiarkowanym albo znacznym stopniu niepełnosprawności.
     - **a)** niepełnosprawnych,
-    - **b)** będących członkami rodzin wielodzietnych posiadających Kartę Dużej Rodziny, o której mowa w art. 1 ust. 1 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny,
+    - **b)** będących członkami rodzin wielodzietnych posiadających Kartę Dużej Rodziny, o której mowa w art. 1 ust. 1 ustawy z dnia 5 grudnia 2014 r.
     - **c)** powyżej 50. roku życia oraz posiadających jednocześnie co najmniej łącznie 20-letni okres wymieniony w art. 218 ust. 1, ust. 2 pkt 1, 2, 4 i 5,
     - **d)** którzy mają na utrzymaniu co najmniej jedno dziecko w wieku do 18. roku życia, a w przypadku dziecka niepełnosprawnego do 24. roku życia, jeżeli kontynuuje naukę w szkole lub uczelni i legitymuje się orzeczeniem o umiarkowanym albo znacznym stopniu niepełnosprawności, a małżonek bezrobotnego jest także bezrobotny i utracił prawo do zasiłku z powodu upływu okresu jego pobierania po dniu nabycia prawa do zasiłku przez tego bezrobotnego,
-    - **e)** samotnie wychowujących co najmniej jedno dziecko w wieku do 18. roku życia, a w przypadku dziecka niepełnosprawnego do 24. roku życia, jeżeli kontynuuje naukę w szkole lub uczelni i legitymuje się orzeczeniem o umiarkowanym albo znacznym stopniu niepełnosprawności.
+    - **e)** samotnie wychowujących co najmniej jedno dziecko w wieku do 18.
 
 2. W przypadku urodzenia dziecka przez kobietę pobierającą zasiłek w okresie, o którym mowa w ust. 1, lub w ciągu 30 dni po jego zakończeniu, okres ten ulega przedłużeniu o okres, przez który przysługiwałby jej, zgodnie z odrębnymi przepisami, zasiłek macierzyński.
 
@@ -3662,11 +3663,11 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** powołania do i zwolnienia z zawodowej służby wojskowej, zasadniczej służby wojskowej, służby w aktywnej rezerwie w dniach tej służby, odbywania ćwiczeń wojskowych w ramach pasywnej rezerwy lub służby wojskowej pełnionej w razie ogłoszenia mobilizacji i w czasie wojny oraz służby zastępczej, a także stawienia się do i zwolnienia z terytorialnej służby wojskowej pełnionej rotacyjnie,
 - **2)** bezrobotnych odbywających szkolenia lub staże organizowane przez inny podmiot niż PUP,
-- **3)** personelu obrony cywilnej, o którym mowa w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, w czasie wykonywania zadań obrony cywilnej przepis ust. 1 stosuje się odpowiednio.
+- **3)** personelu obrony cywilnej, o którym mowa w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, w czasie wykonywania zadań obrony cywilnej – przepis ust. 1 stosuje się odpowiednio.
 
 3. Osoba, która utraciła na okres krótszy niż 365 dni status bezrobotnego, a w dniu kolejnej rejestracji spełnia warunki określone w art. 218, uzyskuje prawo do zasiłku na okres skrócony o poprzedni okres pobierania zasiłku oraz o okresy, o których mowa w art. 225 ust. 3.
 
-**Art. 227.** Do obliczania okresu przysługiwania zasiłku nie stosuje się ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w zakresie dotyczącym terminów oraz ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237) w zakresie dotyczącym sposobu obliczania terminów.
+**Art. 227.** Do obliczania okresu przysługiwania zasiłku nie stosuje się ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w zakresie dotyczącym terminów oraz ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237) w zakresie dotyczącym sposobu obliczania terminów.
 
 **Art. 228.**
 
@@ -3687,11 +3688,11 @@ o rynku pracy i służbach zatrudnienia
 1. Bezrobotny przesyła do właściwego PUP:
 
 - **1)** oświadczenie o przychodach,
-- **2)** inne dokumenty niezbędne do ustalenia uprawnień do świadczeń przewidzianych w ustawie w terminie 7 dni od dnia uzyskania tych przychodów, przy czym przepis art. 62 ust. 1 stosuje się odpowiednio.
+- **2)** inne dokumenty niezbędne do ustalenia uprawnień do świadczeń przewidzianych w ustawie – w terminie 7 dni od dnia uzyskania tych przychodów, przy czym przepis art. 62 ust. 1 stosuje się odpowiednio.
 
 2. Oświadczenie o przychodach jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-**Art. 232.** Bezrobotny zawiadamia PUP w terminie 7 dni o podjęciu zatrudnienia, innej pracy zarobkowej lub o złożeniu wniosku o wpis do CEIDG oraz o zaistnieniu innych okoliczności powodujących utratę prawa do zasiłku. Przepis art. 62 stosuje się odpowiednio.
+**Art. 232.** Bezrobotny zawiadamia PUP w terminie 7 dni o podjęciu zatrudnienia, innej pracy zarobkowej lub o złożeniu wniosku o wpis do CEIDG <z informacją o podjęciu działalności gospodarczej> oraz o zaistnieniu innych okoliczności powodujących utratę prawa do zasiłku. Przepis art. 62 stosuje się odpowiednio.
 
 **Art. 233.**
 
@@ -3725,7 +3726,7 @@ o rynku pracy i służbach zatrudnienia
 
 4. Stypendium za okres szkolenia nie przysługuje za dni nieobecności na szkoleniu.
 
-5. Do bezrobotnych odbywających szkolenie stosuje się przepisy o usprawiedliwianiu nieobecności pracowników wydane na podstawie art. 298 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, a prawo do stypendium za okres usprawiedliwionej nieobecności bezrobotny zachowuje za okresy zwolnienia, za które pracownicy, zgodnie z tymi przepisami, zachowują prawo do wynagrodzenia.
+5. Do bezrobotnych odbywających szkolenie stosuje się przepisy o usprawiedliwianiu nieobecności pracowników wydane na podstawie art. 298 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, a prawo do stypendium za okres usprawiedliwionej nieobecności bezrobotny zachowuje za okresy zwolnienia, za które pracownicy, zgodnie z tymi przepisami, zachowują prawo do wynagrodzenia.
 
 6. Stypendium przysługuje za dni nieobecności na szkoleniu w przypadku usprawiedliwienia tej nieobecności obowiązkiem stawiennictwa przed sądem lub organem administracji publicznej.
 
@@ -3737,13 +3738,13 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 235.**
 
-1. Bezrobotnemu w okresie odbywania stażu, o którym mowa w art. 114 ust. 1 i art. 119 ust. 1, oraz osobie, o której mowa w art. 117 ust. 3, przysługuje stypendium wypłacane przez starostę. Przepisy art. 234 ust. 3–7 stosuje się.
+1. Bezrobotnemu w okresie odbywania stażu, o którym mowa w art. 114 ust. 1 i art. 119 ust. 1, oraz osobie, o której mowa w art. 117 ust. 3, przysługuje stypendium wypłacane przez starostę. Przepisy art. 234 ust. 3– 7 stosuje się.
 
 2. Wysokość stypendium, o którym mowa w ust. 1, wynosi miesięcznie 160 % zasiłku, o którym mowa w art. 224 ust. 1 pkt 1, jeżeli miesięczny wymiar stażu jest równy maksymalnemu wymiarowi określonemu w art. 118 ust. 1. W przypadku niższego miesięcznego wymiaru stażu wysokość stypendium ustala się proporcjonalnie.
 
 3. Stypendium, o którym mowa w ust. 1, przysługuje również za dni wolne, o których mowa w art. 118 ust. 5.
 
-4. W przypadku osoby, o której mowa w art. 117 ust. 3, stypendium określone w ust. 1 jest finansowane ze środków Funduszu Pracy. Jeżeli osoba, o której mowa w art. 117 ust. 3, jest osobą niepełnosprawną, stypendium jest finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, a w przypadku ich braku z Funduszu Pracy.
+4. W przypadku osoby, o której mowa w art. 117 ust. 3, stypendium określone w ust. 1 jest finansowane ze środków Funduszu Pracy. Jeżeli osoba, o której mowa w art. 117 ust. 3, jest osobą niepełnosprawną, stypendium jest finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, a w przypadku ich braku – z Funduszu Pracy.
 
 **Art. 236.**
 
@@ -3884,11 +3885,11 @@ o rynku pracy i służbach zatrudnienia
 
 2. Roszczenia do należnych a niepobranych kwot zasiłków i innych świadczeń finansowanych z Funduszu Pracy ulegają przedawnieniu z upływem 12 miesięcy od dnia postawienia ich do dyspozycji osobom uprawnionym do ich pobrania.
 
-3. Roszczenia z tytułu umów o dofinansowanie podjęcia działalności gospodarczej, środki na założenie lub przystąpienie do spółdzielni socjalnej, a także innych umów będących podstawą przyznania środków na finansowanie formy pomocy pracodawcy lub przedsiębiorcy ulegają przedawnieniu z upływem 3 lat od dnia wykonania umowy, a w przypadku jej niewykonania od dnia, w którym umowa powinna być wykonana.
+3. Roszczenia z tytułu umów o dofinansowanie podjęcia działalności gospodarczej, środki na założenie lub przystąpienie do spółdzielni socjalnej, a także innych umów będących podstawą przyznania środków na finansowanie formy pomocy pracodawcy lub przedsiębiorcy ulegają przedawnieniu z upływem 3 lat od dnia wykonania umowy, a w przypadku jej niewykonania – od dnia, w którym umowa powinna być wykonana.
 
 4. Roszczenia pracodawców z tytułu należności z Funduszu Pracy lub refundacji z Funduszu Pracy należnych świadczeń ulegają przedawnieniu z upływem 12 miesięcy od dnia, w którym roszczenie stało się wymagalne.
 
-5. W zakresie nieuregulowanym w ust. 1–4 przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące zawieszenia i przerwania biegu terminu przedawnienia stosuje się odpowiednio.
+5. W zakresie nieuregulowanym w ust. 1–4 przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny dotyczące zawieszenia i przerwania biegu terminu przedawnienia stosuje się odpowiednio.
 
 **Art. 252.** Roszczenia starosty z tytułu nienależnie pobranych zasiłków, stypendiów i innych świadczeń pieniężnych finansowanych z Funduszu Pracy przyznanych decyzją administracyjną w przypadku śmierci obowiązanego do zwrotu dłużnika wygasają, z wyjątkiem art. 246 ust. 2 pkt 11.
 
@@ -3938,10 +3939,10 @@ o rynku pracy i służbach zatrudnienia
 
 1. Obowiązkowe składki na Fundusz Pracy, ustalone od kwot stanowiących podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe bez stosowania ograniczenia, o którym mowa w art. 19 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, wynoszących w przeliczeniu na okres miesiąca co najmniej minimalne wynagrodzenie za pracę, opłacają:
 
-- **1)** pracodawcy oraz inne jednostki organizacyjne za:
+- **1)** pracodawcy oraz inne jednostki organizacyjne za: o opiece nad dziećmi w wieku do lat 3,
     - **a)** osoby pozostające w stosunku pracy lub stosunku służbowym,
     - **b)** osoby wykonujące pracę na podstawie umowy o pracę nakładczą,
-    - **c)** osoby wykonujące pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny stosuje się przepisy dotyczące zlecenia, oraz za osoby z nimi współpracujące, z wyłączeniem osób świadczących pracę na podstawie umowy uaktywniającej, o której mowa w art. 50 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3,
+    - **c)** osoby wykonujące pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia, oraz za osoby z nimi współpracujące, z wyłączeniem osób świadczących pracę na podstawie umowy uaktywniającej, o której mowa w art. 50 ustawy z dnia 4 lutego 2011 r.
     - **d)** osoby wykonujące pracę w okresie odbywania kary pozbawienia wolności lub tymczasowego aresztowania,
     - **e)** osoby pobierające stypendia sportowe,
     - **f)** osoby otrzymujące świadczenie socjalne przysługujące na urlopie energetycznym lub urlopie górniczym,
@@ -3949,12 +3950,12 @@ o rynku pracy i służbach zatrudnienia
     - **h)** funkcjonariuszy, którzy w chwili zwolnienia ze służby spełniają jedynie warunki do nabycia prawa do policyjnej renty inwalidzkiej, w przypadku przekazania składek na ubezpieczenia emerytalne i rentowe,
     - **i)** członków rad nadzorczych wynagradzanych z tytułu pełnienia tej funkcji;
 
-- **2)** rolnicze spółdzielnie produkcyjne, spółdzielnie kółek rolniczych lub spółdzielnie usług rolniczych za swoich członków;
-- **3)** Kancelaria Prezydenta Rzeczypospolitej Polskiej za małżonka Prezydenta Rzeczypospolitej Polskiej;
-- **4)** inne niż wymienione w pkt 1–3 osoby podlegające ubezpieczeniom emerytalnemu i rentowym lub zaopatrzeniu emerytalnemu, z wyjątkiem: o systemie ubezpieczeń społecznych,
+- **2)** rolnicze spółdzielnie produkcyjne, spółdzielnie kółek rolniczych lub spółdzielnie usług rolniczych – za swoich członków;
+- **3)** Kancelaria Prezydenta Rzeczypospolitej Polskiej – za małżonka Prezydenta Rzeczypospolitej Polskiej;
+- **4)** inne niż wymienione w pkt 1–3 osoby podlegające ubezpieczeniom emerytalnemu i rentowym lub zaopatrzeniu emerytalnemu, z wyjątkiem: o ustaleniu i wypłacie zasiłków dla opiekunów zasiłek dla opiekuna,
     - **a)** duchownych,
     - **b)** osób pobierających na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy,
-    - **c)** osób pobierających na podstawie ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów zasiłek dla opiekuna,
+    - **c)** osób pobierających na podstawie ustawy z dnia 4 kwietnia 2014 r.
     - **d)** osób podlegających ubezpieczeniu społecznemu rolników,
     - **e)** żołnierzy niezawodowych w służbie czynnej,
     - **f)** osób odbywających zastępcze formy służby wojskowej,
@@ -3965,7 +3966,7 @@ o rynku pracy i służbach zatrudnienia
     - **k)** osób otrzymujących stypendium doktoranckie,
     - **l)** pobierających stypendium słuchaczy Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego,
     - **m)** osób pobierających świadczenie szkoleniowe, o którym mowa w art. 217 ust. 6,
-    - **n)** osób niepodejmujących zatrudnienia lub innej pracy zarobkowej ze względu na potrzebę udzielenia wsparcia osobie pobierającej świadczenie wspierające, o których mowa w art. 6c ust. 1 ustawy z dnia 13 października 1998 r.
+    - **n)** osób niepodejmujących zatrudnienia lub innej pracy zarobkowej ze względu na potrzebę udzielenia wsparcia osobie pobierającej świadczenie wspierające, o których mowa w art. 6c ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
     - **o)** osób zwolnionych z opłacania składek na własne obowiązkowe ubezpieczenia emerytalne i rentowe, za wskazany jeden miesiąc kalendarzowy w danym roku kalendarzowym, o których mowa w art. 17a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 2. W przypadku gdy kwoty, o których mowa w ust. 1, pochodzą z różnych źródeł, obowiązek opłacania składek na Fundusz Pracy powstaje wtedy, gdy łączna kwota stanowiąca podstawę wymiaru składek, ustalona zgodnie z ust. 1, wynosi co najmniej minimalne wynagrodzenie za pracę.
@@ -3980,9 +3981,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Pracodawcy nie opłacają obowiązkowych składek na Fundusz Pracy przez okres 12 miesięcy, począwszy od pierwszego miesiąca po zawarciu umowy o pracę, za osoby zatrudnione, które ukończyły 50. rok życia i w okresie 30 dni przed dniem zatrudnienia pozostawały w ewidencji bezrobotnych PUP.
 
-2. Pracodawcy nie opłacają obowiązkowych składek na Fundusz Pracy przez okres 12 miesięcy, począwszy od pierwszego miesiąca po zawarciu umowy o pracę, za skierowanych przez PUP zatrudnionych bezrobotnych, którzy nie ukończyli
-
-30. roku życia.
+2. Pracodawcy nie opłacają obowiązkowych składek na Fundusz Pracy przez okres 12 miesięcy, począwszy od pierwszego miesiąca po zawarciu umowy o pracę, za skierowanych przez PUP zatrudnionych bezrobotnych, którzy nie ukończyli 30. roku życia.
 
 **Art. 263.** Pracodawcy nie opłacają składek na Fundusz Pracy za zatrudnionych pracowników powracających z urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego lub urlopu wychowawczego w okresie 36 miesięcy, począwszy od pierwszego miesiąca po powrocie z urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego lub urlopu wychowawczego.
 
@@ -4014,7 +4013,9 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 267.**
 
-1. Minister właściwy do spraw pracy przekazuje samorządom powiatów, na wyodrębnione rachunki bankowe, środki Funduszu Pracy na finansowanie w roku budżetowym kosztów realizacji form pomocy, o których mowa w art. 300 ust. 2, do wysokości kwot środków ustalonych zgodnie z ust. 2–8.
+1. Minister właściwy do spraw pracy przekazuje samorządom powiatów, na wyodrębnione rachunki bankowe, środki Funduszu Pracy na finansowanie w roku budżetowym kosztów realizacji form pomocy, o których mowa w art. 300 ust. 2, do wysokości kwot środków ustalonych zgodnie z ust. 2–
+
+8.
 
 2. Z kwoty środków ujętych w planie finansowym Funduszu Pracy na finansowanie form pomocy dla samorządów powiatów wyodrębnia się rezerwę Funduszu Pracy pozostającą w dyspozycji ministra właściwego do spraw pracy, stanowiącą 20 % tej kwoty środków.
 
@@ -4140,7 +4141,7 @@ o rynku pracy i służbach zatrudnienia
 1. Minister właściwy do spraw pracy może przeznaczyć w roku budżetowym środki Funduszu Pracy na dofinansowanie kosztów wynagrodzeń i składek na ubezpieczenia społeczne, składek na Fundusz Pracy i Fundusz Solidarnościowy oraz odpisów na zakładowy fundusz świadczeń socjalnych pracowników WUP wykonujących zadania wynikające z:
 
 - **1)** realizacji w województwie projektów EFS+ do wysokości 1,3 % kwoty środków Europejskiego Funduszu Społecznego Plus i Funduszu Pracy przeznaczonej w danym roku na realizację projektów EFS+ w województwie, przy czym środki te nie stanowią wydatków projektów EFS+;
-- **2)** obsługi KFS w województwie do wysokości 12-krotności 70 % przeciętnego wynagrodzenia za czwarty kwartał roku poprzedzającego rok, w którym sporządzany jest plan finansowy Funduszu Pracy.
+- **2)** obsługi KFS w województwie – do wysokości 12-krotności 70 % przeciętnego wynagrodzenia za czwarty kwartał roku poprzedzającego rok, w którym sporządzany jest plan finansowy Funduszu Pracy.
 
 2. Minister właściwy do spraw pracy zawiadamia dyrektora WUP o ustalonych na rok budżetowy kwotach środków Funduszu Pracy na finansowanie kosztów, o których mowa w ust. 1.
 
@@ -4152,8 +4153,8 @@ o rynku pracy i służbach zatrudnienia
 
 2. Dodatek motywacyjny może przyznać:
 
-- **1)** dyrektor WUP lub dyrektor PUP w przypadku pracowników WUP lub PUP;
-- **2)** kierownik danej jednostki w przypadku pracowników OHP.
+- **1)** dyrektor WUP lub dyrektor PUP – w przypadku pracowników WUP lub PUP;
+- **2)** kierownik danej jednostki – w przypadku pracowników OHP.
 
 3. Wysokość dodatku motywacyjnego określa się, biorąc pod uwagę:
 
@@ -4217,7 +4218,7 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 291.**
 
-1. Minister właściwy do spraw pracy na wniosek wojewody przekazuje, na wyodrębniony rachunek bankowy urzędu wojewódzkiego, środki Funduszu Pracy z przeznaczeniem dla gmin na dofinansowanie pracodawcom kosztów kształcenia młodocianych pracowników, o którym mowa w art. 122 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe.
+1. Minister właściwy do spraw pracy na wniosek wojewody przekazuje, na wyodrębniony rachunek bankowy urzędu wojewódzkiego, środki Funduszu Pracy z przeznaczeniem dla gmin na dofinansowanie pracodawcom kosztów kształcenia młodocianych pracowników, o którym mowa w art. 122 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 2. Minister właściwy do spraw pracy na wniosek wojewody przekazuje, na wyodrębniony rachunek bankowy urzędu wojewódzkiego, środki Funduszu Pracy z przeznaczeniem dla gmin na dofinansowanie pracodawcom kosztów praktyki, o którym mowa w art. 7a ust. 1 ustawy z dnia 17 lipca 2009 r. o praktykach absolwenckich.
 
@@ -4229,7 +4230,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Minister właściwy do spraw pracy może przekazać corocznie ministrowi właściwemu do spraw rodziny środki Funduszu Pracy na realizację zadań, o których mowa w art. 62 ust. 1, art. 63b ust. 1 i art. 63c ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3.
 
-2. Minister właściwy do spraw pracy może przekazać corocznie ministrowi właściwemu do spraw rodziny środki Funduszu Pracy na realizację zadań wynikających z ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619).
+2. Minister właściwy do spraw pracy może przekazać corocznie ministrowi właściwemu do spraw rodziny środki Funduszu Pracy na realizację zadań wynikających z ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619).
 
 3. Na zadania, o których mowa w ust. 1 i 2, przeznacza się środki w kwocie nie większej niż 250 mln zł rocznie.
 
@@ -4243,7 +4244,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Minister właściwy do spraw pracy przekazuje na wyodrębniony rachunek bankowy w Banku Gospodarstwa Krajowego środki Funduszu Pracy na finansowanie lub współfinansowanie:
 
-- **1)** pożyczek na podjęcie działalności gospodarczej, o których mowa w art. 172 ust. 1 pkt 1 lub ust. 2 pkt 1, wraz z usługami doradczymi i szkoleniowymi, o których mowa w 172 ust. 1 pkt 2 lub ust. 2 pkt 2, pożyczek na utworzenie stanowiska pracy, o których mowa w art. 172 ust. 3–5, oraz pożyczek na dostosowanie stanowiska pracy do pracy zdalnej, o których mowa w art. 172 ust. 6;
+- **1)** pożyczek na podjęcie działalności gospodarczej, o których mowa w art. 172 ust. 1 pkt 1 lub ust. 2 pkt 1, wraz z usługami doradczymi i szkoleniowymi, o których mowa w 172 ust. 1 pkt 2 lub ust. 2 pkt 2, pożyczek na utworzenie stanowiska pracy, o których mowa w art. 172 ust. 3– 5, oraz pożyczek na dostosowanie stanowiska pracy do pracy zdalnej, o których mowa w art. 172 ust. 6;
 - **2)** kosztów związanych z udzielaniem i obsługą pożyczek.
 
 2. Podstawę przekazywania środków finansowych stanowi umowa zawarta między ministrem właściwym do spraw pracy a Bankiem Gospodarstwa Krajowego.
@@ -4316,7 +4317,7 @@ o rynku pracy i służbach zatrudnienia
 2. Środki Funduszu Pracy przeznacza się na finansowanie kosztów realizacji następujących form pomocy:
 
 - **1)** szkoleń, potwierdzenia nabycia wiedzy i umiejętności lub uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności, o których mowa w art. 99, art. 101, art. 102, wraz ze stypendium, o którym mowa w art. 234 ust. 1, i składkami na ubezpieczenia społeczne opłacanymi od stypendium, o których mowa w art. 242 ust. 2, oraz ubezpieczeniem od następstw nieszczęśliwych wypadków, o którym mowa w art. 241;
-- **2)** opłat pobieranych za postępowanie nostryfikacyjne albo postępowanie, o którym mowa w art. 327 ust. 3 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, określonych w art. 103;
+- **2)** opłat pobieranych za postępowanie nostryfikacyjne albo postępowanie, o którym mowa w art. 327 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, określonych w art. 103;
 - **3)** opłat za przeprowadzenie postępowania i wydanie decyzji w sprawie uznania kwalifikacji zawodowych, o których mowa w art. 104;
 - **4)** bonu na kształcenie ustawiczne, o którym mowa w art. 107, wraz ze stypendium, o którym mowa w art. 234 ust. 1, i składkami na ubezpieczenia społeczne opłacanymi od stypendium, o których mowa w art. 242 ust. 2, oraz ubezpieczeniem od następstw nieszczęśliwych wypadków, o którym mowa w art. 241;
 - **5)** pożyczek edukacyjnych, o których mowa w art. 111;
@@ -4324,7 +4325,7 @@ o rynku pracy i służbach zatrudnienia
 - **7)** prac interwencyjnych, o których mowa w art. 135;
 - **8)** robót publicznych, o których mowa w art. 136;
 - **9)** zwrotu kosztów poniesionych przez podmiot prowadzący DPS, jednostkę organizacyjną WRiPZ albo dom pomocy społecznej z tytułu zatrudnienia bezrobotnych lub poszukujących pracy, o którym mowa w art. 140;
-- **10)** dofinansowania wynagrodzeń bezrobotnych, którzy ukończyli 50. rok życia, albo poszukujących pracy, którzy ukończyli 60 lat w przypadku kobiet lub 65 lat w przypadku mężczyzn, o którym mowa w art. 141 ust. 1;
+- **10)** dofinansowania wynagrodzeń bezrobotnych, którzy ukończyli 50. rok życia, albo poszukujących pracy, którzy ukończyli 60 lat – w przypadku kobiet lub 65 lat – w przypadku mężczyzn, o którym mowa w art. 141 ust. 1;
 - **11)** prac społecznie użytecznych, o których mowa w art. 142;
 - **12)** refundacji wynagrodzeń, nagród oraz składek na ubezpieczenia społeczne opiekunów osoby niepełnosprawnej, o której mowa w art. 143;
 - **13)** grantu, o którym mowa w art. 144;
@@ -4398,7 +4399,7 @@ o rynku pracy i służbach zatrudnienia
 - **6)** przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminu zawodowego, o których mowa w art. 290;
 - **7)** dofinansowania pracodawcom kosztów kształcenia młodocianych pracowników oraz dofinansowania pracodawcom kosztów praktyki, o których mowa w art. 291;
 - **8)** zadań, o których mowa w art. 62 ust. 1, art. 63b ust. 1 i art. 63c ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3;
-- **9)** zadań wynikających z ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic”;
+- **9)** zadań wynikających z ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”;
 - **10)** zadań, o których mowa w art. 15 ust. 1 pkt 13a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, oraz dofinansowania, o którym mowa w art. 197 ust. 1 tej ustawy;
 - **11)** programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, wraz z kosztami ich obsługi;
 - **12)** refundacji pracodawcom wynagrodzeń i składek na ubezpieczenia społeczne młodocianych pracowników, o której mowa w art. 348 ust. 1;
@@ -4408,7 +4409,9 @@ o rynku pracy i służbach zatrudnienia
 - **16)** szkoleń z języka polskiego organizowanych przez okręgowe izby lekarskie, o których mowa w art. 82 ust. 1 pkt 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej;
 - **17)** szkoleń z języka polskiego organizowanych przez okręgowe izby pielęgniarek i położnych, o których mowa w art. 82 ust. 1 pkt 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej;
 - **18)** programu wsparcia w sytuacji szczególnej, o którym mowa w art. 216, wraz z kosztami jego obsługi;
-- **19)** programu zatrudnienia i podnoszenia umiejętności kierowanego do osób do 30. roku życia, o którym mowa w art. 204, wraz z kosztami jego obsługi.
+- **19)** programu zatrudnienia i podnoszenia umiejętności kierowanego do osób do
+
+30. roku życia, o którym mowa w art. 204, wraz z kosztami jego obsługi.
 
 6. Środki Funduszu Pracy przeznacza się także na finansowanie kosztów:
 
@@ -4459,7 +4462,7 @@ o rynku pracy i służbach zatrudnienia
     - **b)** kierowanie cudzoziemców do zatrudnienia lub innej pracy zarobkowej do podmiotów prowadzących działalność na terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 337,
     - **c)** gromadzenie i udostępnianie informacji o wolnych i poszukiwanych miejscach pracy za pośrednictwem systemów teleinformatycznych,
 
-- **2)** pracy tymczasowej, polegającej na zatrudnianiu pracowników i kierowaniu tych pracowników oraz osób niebędących pracownikami do wykonywania pracy tymczasowej na rzecz i pod kierownictwem pracodawcy użytkownika, na zasadach określonych w przepisach o zatrudnianiu pracowników tymczasowych jest działalnością regulowaną w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców i wymaga wpisu do rejestru agencji zatrudnienia.
+- **2)** pracy tymczasowej, polegającej na zatrudnianiu pracowników i kierowaniu tych pracowników oraz osób niebędących pracownikami do wykonywania pracy tymczasowej na rzecz i pod kierownictwem pracodawcy użytkownika, na zasadach określonych w przepisach o zatrudnianiu pracowników tymczasowych – jest działalnością regulowaną w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców i wymaga wpisu do rejestru agencji zatrudnienia.
 
 3. Prowadzenie działalności gospodarczej w zakresie pośrednictwa pracy oraz pracy tymczasowej na rzecz cudzoziemców, od których wymagane jest posiadanie zezwolenia na pracę lub oświadczenia o powierzeniu pracy cudzoziemcowi, o których mowa w art. 6 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, jest możliwe po 2 latach od wpisu do rejestru agencji zatrudnienia i świadczeniu usługi, o której mowa w ust. 2 pkt 1 lub 2.
 
@@ -4483,7 +4486,7 @@ o rynku pracy i służbach zatrudnienia
 - **1)** OHP;
 - **2)** centra integracji społecznej oraz kluby integracji społecznej, o których mowa w ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym;
 - **3)** podmioty, o których mowa w art. 236 ust. 16 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny;
-- **4)** akademickie biura karier, o których mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, jeżeli uczelnie w tym zakresie nie prowadzą działalności gospodarczej;
+- **4)** akademickie biura karier, o których mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, jeżeli uczelnie w tym zakresie nie prowadzą działalności gospodarczej;
 - **5)** centra usług społecznych, o których mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych;
 - **6)** jednostki samorządu terytorialnego;
 - **7)** stowarzyszenia, fundacje, organizacje społeczne i zawodowe, jeśli nie prowadzą działalności gospodarczej.
@@ -4492,9 +4495,9 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** działalność w zakresie kierowania za granicę do pracodawców zagranicznych własnych pracowników, jeżeli wynika to z umów międzynarodowych, których stroną jest Rzeczpospolita Polska;
 - **2)** działalność w zakresie kierowania za granicę do zatrudnienia polegającego na czasowym przyjęciu do rodziny w zamian za określone świadczenia w celu doskonalenia umiejętności językowych lub zawodowych na okres do 2 lat;
-- **3)** działalność, o której mowa w art. 305 ust. 2 pkt 1 lit. a, prowadzona przez organy określone w przepisach ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, kierujące nauczycieli do pracy za granicą w środowiskach polonijnych;
+- **3)** działalność, o której mowa w art. 305 ust. 2 pkt 1 lit. a, prowadzona przez organy określone w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, kierujące nauczycieli do pracy za granicą w środowiskach polonijnych;
 - **4)** pomoc instytucji szkoleniowych udzielana nieodpłatnie uczestnikom lub absolwentom szkoleń, polegająca na informowaniu o sytuacji na rynku pracy i zapotrzebowaniu na zawody, kwalifikacje i umiejętności;
-- **5)** działalność w zakresie organizowania praktycznej nauki zawodu, o której mowa w przepisach ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe;
+- **5)** działalność w zakresie organizowania praktycznej nauki zawodu, o której mowa w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
 - **6)** działalność w zakresie kierowania osób do podmiotów w celu nabywania umiejętności praktycznych, w szczególności odbywania praktyki absolwenckiej, praktyki lub stażu zawodowego, niebędących zatrudnieniem lub inną pracą zarobkową.
 
 3. Podmioty, o których mowa w ust. 1 pkt 1–3, oraz podmioty prowadzące działalność, o której mowa w ust. 2, są obowiązane posiadać lokal, w którym są świadczone usługi.
@@ -4526,7 +4529,7 @@ o rynku pracy i służbach zatrudnienia
 3. Wpisu do rejestru agencji zatrudnienia dokonuje marszałek województwa:
 
 - **1)** właściwy ze względu na siedzibę lub adres stałego miejsca wykonywania działalności podmiotu ubiegającego się o wpis;
-- **2)** wskazany przez przedsiębiorcę zagranicznego spośród marszałków województw właściwych ze względu na adres miejsca świadczenia usług w przypadku przedsiębiorcy zagranicznego, o którym mowa w art. 305 ust. 5.
+- **2)** wskazany przez przedsiębiorcę zagranicznego spośród marszałków województw właściwych ze względu na adres miejsca świadczenia usług – w przypadku przedsiębiorcy zagranicznego, o którym mowa w art. 305 ust. 5.
 
 4. Marszałek województwa z urzędu prostuje wpis do rejestru agencji zatrudnienia zawierający błędy pisarskie oraz oczywiste omyłki. Sprostowanie następuje w formie czynności materialno-technicznej.
 
@@ -4541,8 +4544,8 @@ o rynku pracy i służbach zatrudnienia
 2. Wniosek, o którym mowa w ust. 1, zawiera następujące dane:
 
 - **1)** oznaczenie podmiotu zamierzającego prowadzić agencję zatrudnienia z podaniem pełnej nazwy podmiotu, a w przypadku gdy wniosek składa przedsiębiorca jako:
-    - **a)** osoba fizyczna prowadząca działalność gospodarczą imię (imiona) i nazwisko oraz nazwę firmy,
-    - **b)** wspólnik spółki cywilnej imiona i nazwiska, nazwę firmy lub nazwę wspólników;
+    - **a)** osoba fizyczna prowadząca działalność gospodarczą – imię (imiona) i nazwisko oraz nazwę firmy,
+    - **b)** wspólnik spółki cywilnej – imiona i nazwiska, nazwę firmy lub nazwę wspólników;
 
 - **2)** adres do doręczeń elektronicznych i adres siedziby lub adres stałego miejsca wykonywania działalności podmiotu zamierzającego prowadzić agencję zatrudnienia, oraz adresy lokali, w których będą świadczone usługi agencji zatrudnienia wraz z nazwą gminy, powiatu i województwa, numerem telefonu oraz adresem elektronicznym;
 - **3)** oznaczenie formy prawnej prowadzonej działalności;
@@ -4552,7 +4555,7 @@ o rynku pracy i służbach zatrudnienia
 
 - **5)** informację o świadczeniu pośrednictwa pracy w zakresie wykonywania wyłącznie usługi, o której mowa w art. 305 ust. 2 pkt 1 lit. c;
 - **6)** numer identyfikacji podatkowej (NIP), o ile posiada;
-- **7)** numer w Krajowym Rejestrze Sądowym albo informację o wpisie do CEIDG w przypadku przedsiębiorcy, o ile posiada.
+- **7)** numer w Krajowym Rejestrze Sądowym albo informację o wpisie do CEIDG – w przypadku przedsiębiorcy, o ile posiada.
 
 3. Do wniosku, o którym mowa w ust. 1, podmiot zamierzający prowadzić agencję zatrudnienia dołącza:
 
@@ -4610,7 +4613,7 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** zgłoszenia przez podmiot zmiany adresu siedziby lub adresu stałego miejsca wykonywania działalności podmiotu do innego marszałka województwa, przed zakończeniem postępowania administracyjnego w sprawie wpisu do rejestru agencji zatrudnienia lub wszczętego z urzędu postępowania administracyjnego w sprawie wykreślenia podmiotu z tego rejestru,
 - **2)** złożenia przez podmiot wniosku o wykreślenie z rejestru agencji zatrudnienia, w którym wskazano nowy adres siedziby lub adres stałego miejsca wykonywania działalności znajdujący się w innym województwie,
-- **3)** zmiany adresu siedziby lub adresu stałego miejsca wykonywania działalności podmiotu, bez złożenia wniosku, o którym mowa w ust. 4 właściwość miejscowa marszałka województwa nie ulega zmianie.
+- **3)** zmiany adresu siedziby lub adresu stałego miejsca wykonywania działalności podmiotu, bez złożenia wniosku, o którym mowa w ust. 4 – właściwość miejscowa marszałka województwa nie ulega zmianie.
 
 6. W przypadku złożenia wniosku o zmianę adresu miejsca świadczenia usług przez przedsiębiorcę zagranicznego przepisy ust. 4 i 5 stosuje się odpowiednio.
 
@@ -4637,7 +4640,7 @@ o rynku pracy i służbach zatrudnienia
 4. W przypadku wydania decyzji o:
 
 - **1)** odmowie wpisu do rejestru agencji zatrudnienia na podstawie art. 314,
-- **2)** wykreśleniu z rejestru agencji zatrudnienia na podstawie ust. 1, art. 316 albo art. 317 ust. 3 odmowa wpisu albo wykreślenie z tego rejestru następuje, gdy decyzja stanie się ostateczna.
+- **2)** wykreśleniu z rejestru agencji zatrudnienia na podstawie ust. 1, art. 316 albo art. 317 ust. 3 – odmowa wpisu albo wykreślenie z tego rejestru następuje, gdy decyzja stanie się ostateczna.
 
 **Art. 316.** Marszałek województwa z urzędu, w drodze decyzji, wykreśla podmiot z rejestru agencji zatrudnienia po sprawdzeniu informacji w CEIDG albo Krajowym Rejestrze Sądowym o wykreśleniu przedsiębiorcy z tej ewidencji albo tego rejestru. Wydanie decyzji o wykreśleniu następuje automatycznie, bez uprzedniego wszczynania postępowania administracyjnego.
 
@@ -4679,7 +4682,7 @@ o rynku pracy i służbach zatrudnienia
 - **1)** nie mogą pobierać kwot innych niż określone w art. 338 ust. 3 pkt 16 od osób, dla których poszukują zatrudnienia lub innej pracy zarobkowej oraz osób zatrudnionych lub niebędących pracownikami agencji pracy tymczasowej lub którym udzielają pomocy w wyborze lub zmianie zawodu, miejsca pracy, kierunku kształcenia lub szkolenia, a także w planowaniu rozwoju zawodowego;
 - **2)** przed skierowaniem osoby do pracy za granicą albo pracy tymczasowej, do podmiotu działającego poza terytorium Rzeczypospolitej Polskiej, przekazują jej na piśmie informację o kosztach, opłatach i innych należnościach, w tym określonych w art. 338 ust. 3 pkt 16, związanych z kierowaniem do pracy oraz podjęciem i wykonywaniem pracy za granicą.
 
-2. Do osób kierowanych za granicę w celu nabywania umiejętności praktycznych, w formie odbycia praktyki absolwenckiej, praktyki lub stażu zawodowego niebędących zatrudnieniem lub inną pracą zarobkową przepis ust. 1 pkt 2 stosuje się odpowiednio.
+2. Do osób kierowanych za granicę w celu nabywania umiejętności praktycznych, w formie odbycia praktyki absolwenckiej, praktyki lub stażu zawodowego – niebędących zatrudnieniem lub inną pracą zarobkową przepis ust. 1 pkt 2 stosuje się odpowiednio.
 
 **Art. 322.**
 
@@ -4697,7 +4700,7 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 323.**
 
-1. Agencja zatrudnienia przedstawia marszałkowi województwa informację o działalności agencji zatrudnienia w zakresie świadczenia na terytorium Rzeczypospolitej Polskiej usług, o których mowa w art. 305 ust. 2 w terminie do dnia 31 stycznia każdego roku za rok poprzedni.
+1. Agencja zatrudnienia przedstawia marszałkowi województwa informację o działalności agencji zatrudnienia w zakresie świadczenia na terytorium Rzeczypospolitej Polskiej usług, o których mowa w art. 305 ust. 2 – w terminie do dnia 31 stycznia każdego roku za rok poprzedni.
 
 2. Informacja, o której mowa w ust. 1, dotyczy również podmiotów, które zgłosiły zawieszenie wykonywania działalności gospodarczej i zawiera dane o:
 
@@ -4735,22 +4738,22 @@ o rynku pracy i służbach zatrudnienia
 1. Marszałek województwa właściwy ze względu na:
 
 - **1)** siedzibę lub adres stałego miejsca wykonywania działalności agencji zatrudnienia,
-- **2)** adres wskazany przez przedsiębiorcę zagranicznego jako adres miejsca świadczenia usług sprawuje kontrolę nad agencją zatrudnienia w zakresie przestrzegania warunków prowadzenia agencji zatrudnienia, o których mowa w art. 305 ust. 3, art. 307 ust. 1 pkt 1–4 i 9 i ust. 2, art. 323 oraz art. 324.
+- **2)** adres wskazany przez przedsiębiorcę zagranicznego jako adres miejsca świadczenia usług – sprawuje kontrolę nad agencją zatrudnienia w zakresie przestrzegania warunków prowadzenia agencji zatrudnienia, o których mowa w art. 305 ust. 3, art. 307 ust. 1 pkt 1–4 i 9 i ust. 2, art. 323 oraz art. 324.
 
 2. Marszałek województwa za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 1 i 10, pozyskuje z systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych dane, o których mowa w art. 50 ust. 14a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w odniesieniu do:
 
-- **1)** osób zarządzających podmiotem ubiegającym się o wpis do rejestru agencji zatrudnienia lub zarządzających agencją zatrudnienia oraz osób je reprezentujących, podmiotu składającego wniosek o wpis do rejestru agencji zatrudnienia przed dokonaniem wpisu,
-- **2)** agencji zatrudnienia co najmniej raz na kwartał w celu ustalenia, czy podmioty lub osoby wskazane w pkt 1 i 2 mają zaległości z tytułu niepłacenia składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Solidarnościowy i Fundusz Gwarantowanych Świadczeń Pracowniczych oraz Fundusz Emerytur Pomostowych, o ile były obowiązane do ich opłacania.
+- **1)** osób zarządzających podmiotem ubiegającym się o wpis do rejestru agencji zatrudnienia lub zarządzających agencją zatrudnienia oraz osób je reprezentujących, podmiotu składającego wniosek o wpis do rejestru agencji zatrudnienia – przed dokonaniem wpisu,
+- **2)** agencji zatrudnienia – co najmniej raz na kwartał – w celu ustalenia, czy podmioty lub osoby wskazane w pkt 1 i 2 mają zaległości z tytułu niepłacenia składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Solidarnościowy i Fundusz Gwarantowanych Świadczeń Pracowniczych oraz Fundusz Emerytur Pomostowych, o ile były obowiązane do ich opłacania.
 
 3. Marszałek województwa za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 1 i 10, może pozyskać:
 
 - **1)** od organów Krajowej Administracji Skarbowej, informacje o zaległościach podatkowych:
     - **a)** osób zarządzających podmiotem ubiegającym się o wpis do rejestru agencji zatrudnienia lub zarządzających agencją zatrudnienia oraz osób je reprezentujących,
-    - **b)** podmiotu ubiegającego się o wpis do rejestru agencji zatrudnienia lub agencji zatrudnienia w celu ustalenia okoliczności, o których mowa w art. 307 ust. 1 pkt 1 oraz ust. 2;
+    - **b)** podmiotu ubiegającego się o wpis do rejestru agencji zatrudnienia lub agencji zatrudnienia – w celu ustalenia okoliczności, o których mowa w art. 307 ust. 1 pkt 1 oraz ust. 2;
 
 - **2)** z systemu teleinformatycznego Kasy Rolniczego Ubezpieczenia Społecznego, informacje o zaległościach:
     - **a)** osób zarządzających podmiotem ubiegającym się o wpis do rejestru agencji zatrudnienia lub zarządzających agencją zatrudnienia oraz osób je reprezentujących,
-    - **b)** podmiotu ubiegającego się o wpis do rejestru agencji zatrudnienia lub agencji zatrudnienia z tytułu niepłacenia składek na ubezpieczenie społeczne rolników lub na ubezpieczenie zdrowotne w celu ustalenia okoliczności, o których mowa w art. 307 ust. 1 pkt 2 oraz ust. 2.
+    - **b)** podmiotu ubiegającego się o wpis do rejestru agencji zatrudnienia lub agencji zatrudnienia – z tytułu niepłacenia składek na ubezpieczenie społeczne rolników lub na ubezpieczenie zdrowotne w celu ustalenia okoliczności, o których mowa w art. 307 ust. 1 pkt 2 oraz ust. 2.
 
 **Art. 327.**
 
@@ -4777,7 +4780,7 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 328.** Podmiot przechowuje wszystkie dokumenty niezbędne do wykazania spełniania warunków wymaganych do wykonywania działalności objętej wpisem do rejestru agencji zatrudnienia przez cały okres posiadania wpisu do tego rejestru oraz przez okres 3 lat od dnia wykreślenia podmiotu z rejestru agencji zatrudnienia.
 
-**Art. 329.** W sprawach nieuregulowanych przepisami niniejszego rozdziału w zakresie działalności gospodarczej, o której mowa w art. 305 ust. 2, w tym przeprowadzania kontroli działalności gospodarczej przedsiębiorcy, stosuje się przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 329.** W sprawach nieuregulowanych przepisami niniejszego rozdziału w zakresie działalności gospodarczej, o której mowa w art. 305 ust. 2, w tym przeprowadzania kontroli działalności gospodarczej przedsiębiorcy, stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 #### Rozdział 2 Akredytacja
 
@@ -4822,16 +4825,16 @@ o rynku pracy i służbach zatrudnienia
 1. Wniosek o udzielenie akredytacji zawiera:
 
 - **1)** oznaczenie podmiotu z podaniem pełnej nazwy podmiotu, a w przypadku gdy wniosek składa przedsiębiorca jako:
-    - **a)** osoba fizyczna prowadząca działalność gospodarczą imię (imiona) i nazwisko oraz nazwę firmy,
-    - **b)** wspólnik spółki cywilnej imiona i nazwiska, nazwę firmy lub nazwę wspólników;
+    - **a)** osoba fizyczna prowadząca działalność gospodarczą – imię (imiona) i nazwisko oraz nazwę firmy,
+    - **b)** wspólnik spółki cywilnej – imiona i nazwiska, nazwę firmy lub nazwę wspólników;
 
 - **2)** adres, pod którym podmiot prowadzi działalność na terytorium Rzeczypospolitej Polskiej oraz poza tym terytorium, o ile taki przypadek występuje, wraz z podaniem formy organizacyjnej prowadzenia działalności poza tym terytorium;
 - **3)** adres, pod którym podmiot będzie prowadził pośrednictwo pracy w ramach sieci EURES wraz z planowanym zakresem działań i usług do realizacji w ramach tego pośrednictwa pod tym adresem, z podaniem nazwy gminy, powiatu, województwa i kraju, o ile dysponuje lokalem pod tym adresem;
 - **4)** oznaczenie formy prawnej prowadzonej działalności;
-- **5)** numer identyfikacji podatkowej (NIP) o ile podmiot taki numer posiada;
-- **6)** numer w Krajowym Rejestrze Sądowym albo informację o wpisie do CEIDG o ile podmiot posiada;
+- **5)** numer identyfikacji podatkowej (NIP) – o ile podmiot taki numer posiada;
+- **6)** numer w Krajowym Rejestrze Sądowym albo informację o wpisie do CEIDG – o ile podmiot posiada;
 - **7)** adres elektroniczny i inne dane teleadresowe;
-- **8)** informację o wpisie do rejestru agencji zatrudnienia o ile podmiot taki wpis posiada;
+- **8)** informację o wpisie do rejestru agencji zatrudnienia – o ile podmiot taki wpis posiada;
 - **9)** kategorię akredytacji, o którą podmiot wnioskuje;
 - **10)** planowany przez podmiot zakres działań i usług do realizacji w pośrednictwie pracy w ramach sieci EURES;
 - **11)** uzasadnienie, że podmiot nie może prowadzić wszystkich działań, o których mowa w art. 86 ust. 2, w przypadku gdy podmiot ubiega się o udzielenie akredytacji w kategorii partnera EURES;
@@ -4868,8 +4871,8 @@ o rynku pracy i służbach zatrudnienia
 
 8. Minister właściwy do spraw pracy odmawia, w drodze decyzji, udzielenia akredytacji, w przypadku gdy podmiot ubiegający się o udzielenie akredytacji:
 
-- **1)** w kategorii członka EURES nie spełnia kryteriów akredytacyjnych, o których mowa w art. 331 ust. 3;
-- **2)** w kategorii partnera EURES nie spełnia kryteriów akredytacyjnych, o których mowa w art. 331 ust. 4;
+- **1)** w kategorii członka EURES – nie spełnia kryteriów akredytacyjnych, o których mowa w art. 331 ust. 3;
+- **2)** w kategorii partnera EURES – nie spełnia kryteriów akredytacyjnych, o których mowa w art. 331 ust. 4;
 - **3)** nie przedstawi we wniosku o udzielenie akredytacji danych i informacji niezbędnych do oceny:
     - **a)** spełniania przez ten podmiot kryteriów akredytacyjnych, o których mowa w art. 331 ust. 3 i 4,
     - **b)** możliwości realizacji przez ten podmiot zobowiązań wynikających z umowy akredytacyjnej;
@@ -4906,8 +4909,8 @@ o rynku pracy i służbach zatrudnienia
 
 3. W przypadku gdy podmiot, który ubiegał się o udzielenie akredytacji w kategorii partnera EURES:
 
-- **1)** wybrał do realizacji rodzaje działań, o których mowa w art. 86 ust. 2 pkt 1 lub 2 umowa akredytacyjna zawiera zobowiązanie, o którym mowa w ust. 2 pkt 4 lit. b;
-- **2)** nie wybrał do realizacji rodzajów działań, o których mowa w art. 86 ust. 2 pkt 1 lub 2 umowa akredytacyjna nie zawiera zobowiązania, o którym mowa w ust. 2 pkt 4 lit. b.
+- **1)** wybrał do realizacji rodzaje działań, o których mowa w art. 86 ust. 2 pkt 1 lub 2 – umowa akredytacyjna zawiera zobowiązanie, o którym mowa w ust. 2 pkt 4 lit. b;
+- **2)** nie wybrał do realizacji rodzajów działań, o których mowa w art. 86 ust. 2 pkt 1 lub 2 – umowa akredytacyjna nie zawiera zobowiązania, o którym mowa w ust. 2 pkt 4 lit. b.
 
 4. Akredytacja jest udzielana na czas określony z możliwością jej przedłużenia na czas nieokreślony.
 
@@ -5070,7 +5073,7 @@ o rynku pracy i służbach zatrudnienia
 
 1. Okresy zatrudnienia obywateli polskich w byłej Niemieckiej Republice Demokratycznej i byłej Czechosłowackiej Republice Socjalistycznej na podstawie umów i porozumień międzynarodowych przypadające przed dniem 1 grudnia 1991 r. są traktowane jak okresy zatrudnienia w Państwie Polskim w zakresie uprawnień pracowniczych.
 
-2. Okres urlopu bezpłatnego udzielonego pracownikowi na okres skierowania do pracy za granicą na podstawie rozporządzenia Rady Ministrów z dnia 27 grudnia 1974 r. w sprawie niektórych praw i obowiązków pracowników skierowanych do pracy za granicą w celu realizacji budownictwa eksportowego i usług związanych z eksportem (Dz. U. z 1990 r. poz. 259, z 1991 r. poz. 346 oraz z 1993 r. poz. 452), a także przypadający bezpośrednio po zakończeniu tego urlopu okres niezdolności do pracy z powodu choroby lub odosobnienia w związku z chorobą zakaźną wlicza się do okresu pracy, od którego zależą uprawnienia pracownicze, jeżeli pracownik podjął zatrudnienie u macierzystego pracodawcy w terminie przewidzianym w tym rozporządzeniu.
+2. Okres urlopu bezpłatnego udzielonego pracownikowi na okres skierowania do pracy za granicą na podstawie rozporządzenia Rady Ministrów z dnia 27 grudnia 1974 r. w sprawie niektórych praw i obowiązków pracowników skierowanych do pracy za granicą w celu realizacji budownictwa eksportowego i usług związanych z eksportem (Dz. U. z 1990 r. poz. 259, z 1991 r. poz. 346 oraz z 1993 r. poz. 452), a także przypadający bezpośrednio po zakończeniu tego urlopu okres niezdolności do pracy z powodu choroby lub odosobnienia w związku z chorobą zakaźną – wlicza się do okresu pracy, od którego zależą uprawnienia pracownicze, jeżeli pracownik podjął zatrudnienie u macierzystego pracodawcy w terminie przewidzianym w tym rozporządzeniu.
 
 3. Okres zatrudnienia za granicą pracownika, który nie pozostawał w stosunku pracy przed skierowaniem do pracy za granicą na podstawie rozporządzenia, o którym mowa w ust. 2, jest traktowany jak okres zatrudnienia w Rzeczypospolitej Polskiej w zakresie uprawnień pracowniczych. Dotyczy to także pracownika, któremu udzielono urlopu bezpłatnego na okres skierowania do pracy za granicą, a który nie podjął pracy u macierzystego pracodawcy po zakończeniu pracy za granicą lub podjął pracę u macierzystego pracodawcy, lecz po upływie terminu przewidzianego w rozporządzeniu, o którym mowa w ust. 2.
 
@@ -5106,10 +5109,12 @@ o rynku pracy i służbach zatrudnienia
 - **1)** prowadzą działania środowiskowe mające na celu rozpoznanie problemów i identyfikację młodzieży wymagającej wsparcia oraz prowadzą jej rekrutację do objęcia wsparciem;
 - **2)** diagnozują indywidualne potrzeby młodzieży i planują dla niej formy wsparcia;
 - **3)** realizują działania wspierające rozwój osobisty i integrację społeczną młodzieży, w tym działania opiekuńcze, wychowawcze, profilaktyczne i socjalizacyjne;
-- **4)** ułatwiają młodzieży realizację obowiązku szkolnego lub obowiązku nauki do 18. roku życia oraz umożliwiają jej nabycie kwalifikacji zawodowych, w tym:
-    - **a)** kierują do pracodawców lub zatrudniają w celu odbycia przygotowania zawodowego,
-    - **b)** zapewniają pomoc wychowawców i pedagogów w okresie nauki;
+- **4)** ułatwiają młodzieży realizację obowiązku szkolnego lub obowiązku nauki do
 
+18. roku życia oraz umożliwiają jej nabycie kwalifikacji zawodowych, w tym:
+
+- **a)** kierują do pracodawców lub zatrudniają w celu odbycia przygotowania zawodowego,
+- **b)** zapewniają pomoc wychowawców i pedagogów w okresie nauki;
 - **5)** umożliwiają młodzieży nabycie dodatkowej wiedzy i umiejętności potrzebnych na rynku pracy, oferując pozaszkolne zajęcia edukacyjne lub kierując na szkolenia oraz kwalifikacyjne kursy zawodowe;
 - **6)** prowadzą pośrednictwo pracy oraz poradnictwo zawodowe na rzecz młodzieży zgodnie z przepisami art. 81 i art. 87 ust. 1–4;
 - **7)** współpracują ze szkołami podstawowymi, ponadpodstawowymi, uczelniami, jednostkami samorządu terytorialnego, stowarzyszeniami oraz fundacjami w zakresie realizacji poradnictwa zawodowego, w tym promowania uczenia się przez całe życie oraz działań informacyjnych dotyczących wsparcia skierowanego do osób do 30. roku życia;
@@ -5135,13 +5140,11 @@ o rynku pracy i służbach zatrudnienia
 9. OHP mogą objąć wsparciem młodzież:
 
 - **1)** uczęszczającą do szkół podstawowych z oddziałami przysposabiającymi do pracy, jeżeli najpóźniej w roku rozpoczęcia zajęć przewidzianych programem osoba objęta wsparciem OHP ukończy 14 lat;
-- **2)** uczęszczającą do szkół podstawowych dla dorosłych, jeżeli najpóźniej w roku rozpoczęcia zajęć przewidzianych programem osoba objęta wsparciem OHP ukończy 15 lat oraz ma opóźnienie w cyklu kształcenia lub nie rokuje ukończenia szkoły podstawowej kształcącej dzieci i młodzież albo ma uwarunkowania psychofizyczne lub trudną sytuację życiową ograniczającą możliwość nauki w szkole podstawowej kształcącej dzieci i młodzież;
+- **2)** uczęszczającą do szkół podstawowych dla dorosłych, jeżeli najpóźniej w roku rozpoczęcia zajęć przewidzianych programem osoba objęta wsparciem OHP ukończy 15 lat oraz ma opóźnienie w cyklu kształcenia lub nie rokuje ukończenia szkoły podstawowej kształcącej dzieci i młodzież albo ma uwarunkowania psychofizyczne lub trudną sytuację życiową – ograniczającą możliwość nauki w szkole podstawowej kształcącej dzieci i młodzież;
 - **3)** realizującą przygotowanie zawodowe młodocianych pracowników u pracodawców;
 - **4)** spełniającą obowiązek nauki przez uczęszczanie na kwalifikacyjne kursy zawodowe.
 
-10. OHP mogą udzielić pomocy osobie, która przez okres co najmniej ostatnich 12 miesięcy przed ukończeniem
-
-18. roku życia była objęta wsparciem opiekuńczo-wychowawczym OHP i nie uzyskała kwalifikacji zawodowych. W takim przypadku OHP mogą udzielić pomocy w formie pośrednictwa pracy i poradnictwa zawodowego do ukończenia 30. roku życia przez osobę objętą wsparciem oraz mogą zaproponować jej udział w szkoleniach, kwalifikacyjnych kursach zawodowych lub innych pozaszkolnych formach uzyskiwania wiedzy lub umiejętności w celu zdobycia kwalifikacji zawodowych lub zatrudnienia.
+10. OHP mogą udzielić pomocy osobie, która przez okres co najmniej ostatnich 12 miesięcy przed ukończeniem 18. roku życia była objęta wsparciem opiekuńczo-wychowawczym OHP i nie uzyskała kwalifikacji zawodowych. W takim przypadku OHP mogą udzielić pomocy w formie pośrednictwa pracy i poradnictwa zawodowego do ukończenia 30. roku życia przez osobę objętą wsparciem oraz mogą zaproponować jej udział w szkoleniach, kwalifikacyjnych kursach zawodowych lub innych pozaszkolnych formach uzyskiwania wiedzy lub umiejętności w celu zdobycia kwalifikacji zawodowych lub zatrudnienia.
 
 11. OHP w porozumieniu z osobą, o której mowa w ust. 10, mogą skierować ją do PUP, który w uzgodnieniu z OHP po zarejestrowaniu takiej osoby jako bezrobotnego kieruje ją do odpowiedniej formy pomocy.
 
@@ -5174,7 +5177,7 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** korzystająca z pełni praw publicznych;
 - **2)** która nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **3)** wobec której nie orzeczono prawomocnie zakazu, o którym mowa w art. 39 pkt 2 lub 2aa ustawy z dnia 6 czerwca 1997 r. Kodeks karny, lub zakazu pełnienia funkcji związanych z dysponowaniem środkami publicznymi.
+- **3)** wobec której nie orzeczono prawomocnie zakazu, o którym mowa w art. 39 pkt 2 lub 2aa ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub zakazu pełnienia funkcji związanych z dysponowaniem środkami publicznymi.
 
 5. Komendanta Głównego OHP powołuje i odwołuje minister właściwy do spraw pracy.
 
@@ -5189,8 +5192,8 @@ o rynku pracy i służbach zatrudnienia
 
 8. Do Komendanta Głównego OHP oraz osób wymienionych w ust. 6 przepisy art. 4, art. 5 ust. 1 pkt 2, art. 10 ust. 1 i 3 oraz art. 14 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2025 r. poz. 499) stosuje się odpowiednio, z tym że oświadczenie majątkowe:
 
-- **1)** Komendant Główny OHP składa ministrowi właściwemu do spraw pracy;
-- **2)** zastępcy Komendanta Głównego OHP, wojewódzcy komendanci OHP oraz ich zastępcy, dyrektorzy centrów kształcenia i wychowania OHP oraz dyrektorzy ośrodków szkolenia zawodowego OHP składają Komendantowi Głównemu OHP.
+- **1)** Komendant Główny OHP – składa ministrowi właściwemu do spraw pracy;
+- **2)** zastępcy Komendanta Głównego OHP, wojewódzcy komendanci OHP oraz ich zastępcy, dyrektorzy centrów kształcenia i wychowania OHP oraz dyrektorzy ośrodków szkolenia zawodowego OHP – składają Komendantowi Głównemu OHP.
 
 9. W przypadku, o którym mowa w ust. 6, Komendant Główny OHP pozyskuje nieodpłatnie dane z Krajowego Rejestru Karnego w celu stwierdzenia okoliczności, o których mowa w ust. 4 pkt 2.
 
@@ -5202,15 +5205,15 @@ o rynku pracy i służbach zatrudnienia
 
 1. Czynności w sprawach z zakresu prawa pracy w stosunku do:
 
-- **1)** pracowników Komendy Głównej OHP dokonuje Komendant Główny OHP;
-- **2)** wojewódzkich komendantów OHP i ich zastępców, dyrektorów centrów kształcenia i wychowania OHP oraz dyrektorów ośrodków szkolenia zawodowego OHP dokonuje Komendant Główny OHP;
-- **3)** pracowników wojewódzkiej komendy OHP dokonuje wojewódzki komendant OHP;
-- **4)** pracowników centrum kształcenia i wychowania OHP dokonuje dyrektor centrum kształcenia i wychowania OHP;
-- **5)** pracowników ośrodka szkolenia zawodowego OHP dokonuje dyrektor ośrodka szkolenia zawodowego OHP.
+- **1)** pracowników Komendy Głównej OHP – dokonuje Komendant Główny OHP;
+- **2)** wojewódzkich komendantów OHP i ich zastępców, dyrektorów centrów kształcenia i wychowania OHP oraz dyrektorów ośrodków szkolenia zawodowego OHP – dokonuje Komendant Główny OHP;
+- **3)** pracowników wojewódzkiej komendy OHP – dokonuje wojewódzki komendant OHP;
+- **4)** pracowników centrum kształcenia i wychowania OHP – dokonuje dyrektor centrum kształcenia i wychowania OHP;
+- **5)** pracowników ośrodka szkolenia zawodowego OHP – dokonuje dyrektor ośrodka szkolenia zawodowego OHP.
 
 2. Pracodawcą dla pracowników Komendy Głównej OHP jest Komenda Główna OHP.
 
-3. Pracownik OHP podczas pełnienia obowiązków służbowych lub w związku z ich pełnieniem korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. Kodeks karny.
+3. Pracownik OHP podczas pełnienia obowiązków służbowych lub w związku z ich pełnieniem korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 **Art. 346.** Do zadań Komendanta Głównego OHP należy:
 
@@ -5232,7 +5235,7 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 348.**
 
-1. OHP mogą dokonywać z Funduszu Pracy refundacji kosztów poniesionych przez pracodawcę na wynagrodzenia i składki na ubezpieczenia społeczne młodocianych pracowników zatrudnionych na podstawie umowy o pracę w celu przygotowania zawodowego z uwzględnieniem wykazu zawodów, o którym mowa w art. 32 ust. 1 pkt 23, do wysokości najniższych stawek określonych w przepisach wydanych na podstawie art. 191 § 3 i art. 195 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, obowiązujących w okresie, za który jest dokonywana refundacja na podstawie umowy zawartej z pracodawcą.
+1. OHP mogą dokonywać z Funduszu Pracy refundacji kosztów poniesionych przez pracodawcę na wynagrodzenia i składki na ubezpieczenia społeczne młodocianych pracowników zatrudnionych na podstawie umowy o pracę w celu przygotowania zawodowego z uwzględnieniem wykazu zawodów, o którym mowa w art. 32 ust. 1 pkt 23, do wysokości najniższych stawek określonych w przepisach wydanych na podstawie art. 191 § 3 i art. 195 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, obowiązujących w okresie, za który jest dokonywana refundacja na podstawie umowy zawartej z pracodawcą.
 
 2. Refundacji, o której mowa w ust. 1, za młodocianych pracowników zatrudnionych w OHP dokonują wojewódzkie komendy OHP. Informacja o dokonanych refundacjach udzielana jest zgodnie z art. 347 ust. 4.
 
@@ -5253,7 +5256,7 @@ o rynku pracy i służbach zatrudnienia
 1. Pracodawca zatrudniający młodocianych pracowników może wystąpić z wnioskiem o zawarcie umowy o refundację wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpieczenia społeczne od refundowanych wynagrodzeń, zwanym dalej „wnioskiem o zawarcie umowy o refundację”, jeżeli spełnia łącznie następujące warunki:
 
 - **1)** zatrudnia młodocianych pracowników w zawodach określonych w wykazie zawodów, o którym mowa w art. 32 ust. 1 pkt 23;
-- **2)** posiada kwalifikacje instruktora praktycznej nauki zawodu określone w przepisach wydanych na podstawie art. 120 ust. 4 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe lub osoba prowadząca zakład pracy w imieniu pracodawcy, lub osoba zatrudniona u pracodawcy posiada te kwalifikacje.
+- **2)** posiada kwalifikacje instruktora praktycznej nauki zawodu określone w przepisach wydanych na podstawie art. 120 ust. 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe lub osoba prowadząca zakład pracy w imieniu pracodawcy, lub osoba zatrudniona u pracodawcy posiada te kwalifikacje.
 
 2. Pracodawca zatrudniający wyłącznie młodocianych pracowników może wystąpić z wnioskiem o zawarcie umowy o refundację dotyczącym maksymalnie 3 młodocianych pracowników, a pracodawca zatrudniający także pracowników niebędących młodocianymi pracownikami może wystąpić z wnioskiem o zawarcie umowy o refundację dotyczącym młodocianych pracowników w liczbie nieprzekraczającej trzykrotnej liczby zatrudnionych w przeliczeniu na pełny wymiar czasu pracy na czas nieokreślony niebędących młodocianymi pracownikami.
 
@@ -5285,7 +5288,7 @@ o rynku pracy i służbach zatrudnienia
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** obywatelstwo albo obywatelstwa;
-- **3)** numer PESEL, a w przypadku jego braku datę i miejsce urodzenia, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w przypadku jego braku – datę i miejsce urodzenia, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 - **4)** adres do doręczeń i adres zamieszkania;
 - **5)** wykształcenie;
 - **6)** ukończone szkoły i szkolenia;
@@ -5309,12 +5312,12 @@ o rynku pracy i służbach zatrudnienia
     - **b)** jednostki organizacyjne pomocy społecznej w zakresie danych o przynależności do rodziny o dochodach nieprzekraczających dochodu uprawniającego do świadczeń z pomocy społecznej w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej,
     - **c)** jednostki organizacyjne wspierania rodziny i systemu pieczy zastępczej w zakresie danych o przebywaniu w pieczy zastępczej lub opuszczaniu pieczy zastępczej, określonym w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, przekazywane przez ministra właściwego do spraw rodziny lub te jednostki;
 
-- **20)** informacje gmin, podmiotów prowadzących szkoły lub organów systemu oświaty o nierealizowaniu obowiązku szkolnego lub obowiązku nauki w zakresie określonym w art. 35 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe.
+- **20)** informacje gmin, podmiotów prowadzących szkoły lub organów systemu oświaty o nierealizowaniu obowiązku szkolnego lub obowiązku nauki w zakresie określonym w art. 35 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 4. Dyrektor ośrodka szkolenia zawodowego OHP jako administrator danych przetwarza następujące dane osobowe osób fizycznych ubiegających się o wsparcie lub korzystających ze wsparcia OHP:
 
 - **1)** imię (imiona) i nazwisko;
-- **2)** numer PESEL, a w przypadku jego braku datę i miejsce urodzenia, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **2)** numer PESEL, a w przypadku jego braku – datę i miejsce urodzenia, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 - **3)** adres do doręczeń i adres zamieszkania;
 - **4)** wykształcenie;
 - **5)** adres elektroniczny i numer telefonu, jeżeli je posiadają.
@@ -5330,10 +5333,10 @@ o rynku pracy i służbach zatrudnienia
 
 8. Spełnienie zabezpieczeń, o których mowa w ust. 7, zapewniają w przypadku pracowników:
 
-- **1)** Komendy Głównej OHP Komendant Główny OHP;
-- **2)** wojewódzkiej komendy OHP wojewódzki komendant OHP;
-- **3)** centrum kształcenia i wychowania OHP dyrektor centrum kształcenia i wychowania OHP;
-- **4)** ośrodka szkolenia zawodowego OHP dyrektor ośrodka szkolenia zawodowego OHP.
+- **1)** Komendy Głównej OHP – Komendant Główny OHP;
+- **2)** wojewódzkiej komendy OHP – wojewódzki komendant OHP;
+- **3)** centrum kształcenia i wychowania OHP – dyrektor centrum kształcenia i wychowania OHP;
+- **4)** ośrodka szkolenia zawodowego OHP – dyrektor ośrodka szkolenia zawodowego OHP.
 
 9. Dane osobowe mogą być przetwarzane przez podmioty, o których mowa w ust. 8, które zapewniają niezbędne środki techniczne i organizacyjne służące zapewnieniu bezpieczeństwa przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), w tym:
 
@@ -5347,15 +5350,15 @@ o rynku pracy i służbach zatrudnienia
 
 12. Na wniosek Komendanta Głównego OHP, wojewódzkiego komendanta OHP, dyrektora centrum kształcenia i wychowania OHP oraz dyrektora ośrodka szkolenia zawodowego OHP, w celu zapewnienia dostępu do informacji niezbędnych do prawidłowej realizacji zadań OHP, udostępniane są nieodpłatnie następujące kategorie danych, w tym dane osobowe młodzieży, przetwarzane przez:
 
-- **1)** ministra właściwego do spraw pracy i publiczne służby zatrudnienia dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1–6, 12–15, 17 i pkt 19 lit. a;
-- **2)** ministra właściwego do spraw zabezpieczenia społecznego dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. b;
-- **3)** Państwową Inspekcję Pracy informacje o realizacji zadań, o których mowa w art. 10 ust. 1 pkt 1 i 4 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, oraz kontroli przestrzegania przepisów o delegowaniu pracowników w ramach świadczenia usług;
-- **4)** jednostki organizacyjne pomocy społecznej dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. b;
-- **5)** jednostki organizacyjne wspierania rodziny i systemu pieczy zastępczej dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. c;
-- **6)** gminy, podmioty prowadzące szkoły lub organy systemu oświaty dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4, 6, 7 i 20;
-- **7)** Zakład Ubezpieczeń Społecznych dane określone w art. 50 ust. 14 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+- **1)** ministra właściwego do spraw pracy i publiczne służby zatrudnienia – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1–6, 12–15, 17 i pkt 19 lit. a;
+- **2)** ministra właściwego do spraw zabezpieczenia społecznego – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. b;
+- **3)** Państwową Inspekcję Pracy – informacje o realizacji zadań, o których mowa w art. 10 ust. 1 pkt 1 i 4 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, oraz kontroli przestrzegania przepisów o delegowaniu pracowników w ramach świadczenia usług;
+- **4)** jednostki organizacyjne pomocy społecznej – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. b;
+- **5)** jednostki organizacyjne wspierania rodziny i systemu pieczy zastępczej – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. c;
+- **6)** gminy, podmioty prowadzące szkoły lub organy systemu oświaty – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4, 6, 7 i 20;
+- **7)** Zakład Ubezpieczeń Społecznych – dane określone w art. 50 ust. 14 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
-13. W celu realizacji przez OHP zadań, o których mowa w art. 342 ust. 2 pkt 4, 5 i 7, gmina lub podmiot prowadzący szkoły obowiązani są przekazać do właściwej ze względu na teren działalności wojewódzkiej komendy OHP informacje o młodzieży nierealizującej obowiązku szkolnego lub obowiązku nauki, w zakresie określonym w art. 35 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe.
+13. W celu realizacji przez OHP zadań, o których mowa w art. 342 ust. 2 pkt 4, 5 i 7, gmina lub podmiot prowadzący szkoły obowiązani są przekazać do właściwej ze względu na teren działalności wojewódzkiej komendy OHP informacje o młodzieży nierealizującej obowiązku szkolnego lub obowiązku nauki, w zakresie określonym w art. 35 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 14. Komendant Główny OHP, wojewódzki komendant OHP, dyrektor centrum kształcenia i wychowania OHP oraz dyrektor ośrodka szkolenia zawodowego OHP udostępniają na wniosek, w niezbędnym zakresie, przetwarzane dane osobowe osób fizycznych ubiegających się o wsparcie lub korzystających ze wsparcia OHP:
 
@@ -5370,7 +5373,7 @@ o rynku pracy i służbach zatrudnienia
 - **1)** posiadają możliwość identyfikacji osoby uzyskującej informacje oraz zakresu, daty i celu ich uzyskania;
 - **2)** posiadają zabezpieczenia, szczególnie środki techniczne i organizacyjne uniemożliwiające wykorzystanie informacji niezgodnie z celem ich uzyskania;
 - **3)** zapewniają, że dostęp do danych osobowych jest nadzorowany i rejestrowany zgodnie z przepisami o ochronie danych osobowych;
-- **4)** zapewniają, że przetwarzanie udostępnianie danych osobowych odbywa się zgodnie z przepisami o ochronie danych osobowych.
+- **4)** zapewniają, że przetwarzanie – udostępnianie danych osobowych odbywa się zgodnie z przepisami o ochronie danych osobowych.
 
 **Art. 352.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowe zadania OHP w zakresie kształcenia i wychowania oraz zatrudnienia i przeciwdziałania marginalizacji i wykluczeniu społecznemu młodzieży, strukturę i zadania wojewódzkich komend OHP, centrów kształcenia i wychowania OHP, ośrodków szkolenia zawodowego OHP oraz zadania kierowników wskazanych jednostek, mając na względzie zapewnienie efektywności i skuteczności realizacji zadań przez OHP.
 
@@ -5492,7 +5495,7 @@ o rynku pracy i służbach zatrudnienia
 - **3)** zawiera z cudzoziemcem umowę niezgodnie z warunkami określonymi w art. 337 ust. 3, lub
 - **4)** nie przedstawia cudzoziemcowi pisemnego tłumaczenia umowy, o którym mowa w art. 337 ust. 4, lub
 - **5)** nie przedstawia cudzoziemcowi lub podmiotowi, do którego agencja zatrudnienia kieruje cudzoziemców do zatrudnienia lub innej pracy zarobkowej, pisemnej informacji, o której mowa w art. 337 ust. 5, lub
-- **6)** nie prowadzi wykazów, o których mowa w art. 337 ust. 6 podlega karze grzywny od 3000 zł do 30 000 zł.
+- **6)** nie prowadzi wykazów, o których mowa w art. 337 ust. 6 – podlega karze grzywny od 3000 zł do 30 000 zł.
 
 **Art. 363.** Kto, od osoby kierowanej do podmiotu w celu nabywania umiejętności praktycznych, w szczególności odbycia praktyki absolwenckiej, praktyki lub stażu zawodowego, niebędących zatrudnieniem lub inną pracą zarobkową, pobiera dodatkowe opłaty inne niż wymienione w art. 338 ust. 3 pkt 16, podlega karze grzywny od 3000 zł do 30 000 zł.
 
@@ -5505,7 +5508,7 @@ o rynku pracy i służbach zatrudnienia
 1. Kto:
 
 - **1)** nie dopełnia obowiązku opłacania składek na Fundusz Pracy lub nie opłaca ich w przewidzianym przepisami terminie,
-- **2)** nie zgłasza wymaganych danych lub zgłasza nieprawdziwe dane mające wpływ na wymiar składek na Fundusz Pracy lub udziela w tym zakresie nieprawdziwych wyjaśnień albo odmawia ich udzielenia podlega karze grzywny do 46 000 zł.
+- **2)** nie zgłasza wymaganych danych lub zgłasza nieprawdziwe dane mające wpływ na wymiar składek na Fundusz Pracy lub udziela w tym zakresie nieprawdziwych wyjaśnień albo odmawia ich udzielenia – podlega karze grzywny do 46 000 zł.
 
 2. Sprawca nie podlega karze, jeżeli przed dniem rozpoczęcia kontroli w podmiocie kontrolowanym zaległe składki na Fundusz Pracy zostały opłacone w wymaganej wysokości.
 
@@ -5515,17 +5518,17 @@ o rynku pracy i służbach zatrudnienia
 
 1. Środki z tytułu orzeczonych i wyegzekwowanych kar grzywien, o których mowa w art. 362–367, stanowią przychód Funduszu Pracy.
 
-2. Orzeczone i wyegzekwowane kary grzywien, o których mowa w art. 362–367, sądy przekazują bezpośrednio właściwym ze względu na siedzibę lub miejsce zamieszkania ukaranego PUP na wyodrębniony rachunek bankowy PUP albo samorządu powiatu, w trybie i terminach określonych w przepisach dotyczących sposobu wykonywania budżetu państwa.
+2. Orzeczone i wyegzekwowane kary grzywien, o których mowa w art. 362– 367, sądy przekazują bezpośrednio właściwym ze względu na siedzibę lub miejsce zamieszkania ukaranego PUP na wyodrębniony rachunek bankowy PUP albo samorządu powiatu, w trybie i terminach określonych w przepisach dotyczących sposobu wykonywania budżetu państwa.
 
-3. Orzekanie w sprawach o czyny, o których mowa w art. 362–367, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620).
+3. Orzekanie w sprawach o czyny, o których mowa w art. 362–367, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620).
 
 ### DZIAŁ XIII Zmiany w przepisach
 
-**Art. 369.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841) w art. 833 § 1 otrzymuje brzmienie: „§ 1 . Przepisy art. 87 i art. 87 Kodeksu pracy stosuje się odpowiednio do zasiłków dla bezrobotnych, dodatków aktywizacyjnych oraz stypendiów, wypłacanych na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”.
+**Art. 369.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841) w art. 833 § 1 otrzymuje brzmienie: „§ 1 . Przepisy art. 87 i art. 87 Kodeksu pracy stosuje się odpowiednio do zasiłków dla bezrobotnych, dodatków aktywizacyjnych oraz stypendiów, wypłacanych na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”.
 
 **Art. 370.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132) w art. 9 § 1 otrzymuje brzmienie: „§ 1 . Przepis § 1 stosuje się odpowiednio do zasiłków dla bezrobotnych, dodatków aktywizacyjnych oraz stypendiów, wypłacanych na podstawie przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”.
 
-**Art. 371.** W ustawie z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i 1871) w art. 70c w ust. 11 pkt 2 otrzymuje brzmienie: „2) ze środków Krajowego Funduszu Szkoleniowego, o którym mowa w art. 125 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), na zasadach dotyczących kursów, lub”.
+**Art. 371.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i 1871) w art. 70c w ust. 11 pkt 2 otrzymuje brzmienie: „2) ze środków Krajowego Funduszu Szkoleniowego, o którym mowa w art. 125 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), na zasadach dotyczących kursów, lub”.
 
 **Art. 372.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917 oraz z 2025 r. poz. 39) wprowadza się następujące zmiany:
 
@@ -5545,13 +5548,13 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 380.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350) wprowadza się następujące zmiany:
 
-**Art. 381.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2024 r. poz. 776, 863 i 1593) w art. 25 w ust. 6 w pkt 2 lit. g otrzymuje brzmienie: „g) łącznie nie więcej niż trzech zatrudnionych bezrobotnych zarejestrowanych w urzędzie pracy, przy czym okres zarejestrowania w urzędzie pracy bezrobotnego musi trwać co najmniej 6 miesięcy w okresie bezpośrednio poprzedzającym jego zatrudnienie.”.
+**Art. 381.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2024 r. poz. 776, 863 i 1593) w art. 25 w ust. 6 w pkt 2 lit. g otrzymuje brzmienie: „g) łącznie nie więcej niż trzech zatrudnionych bezrobotnych – zarejestrowanych w urzędzie pracy, przy czym okres zarejestrowania w urzędzie pracy bezrobotnego musi trwać co najmniej 6 miesięcy w okresie bezpośrednio poprzedzającym jego zatrudnienie.”.
 
 **Art. 382.** W ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2022 r. poz. 1105) w art. 27 ust. 5 otrzymuje brzmienie: „5. W przypadku zawarcia przez starostę umowy, o której mowa w ust. 1, w okresie jej obowiązywania nie stosuje się form pomocy określonych w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”.
 
-**Art. 383.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. z 2023 r. poz. 1095) w art. 28 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów składkowych w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach o rynku pracy i służbach zatrudnienia.”.
+**Art. 383.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. z 2023 r. poz. 1095) w art. 28 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów składkowych w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych – na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach o rynku pracy i służbach zatrudnienia.”.
 
-**Art. 384.** W ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544) w art. 17 § 2 otrzymuje brzmienie: „§ 2. W sprawach o wykroczenia przeciwko prawom pracownika określonych w Kodeksie pracy, w sprawach o wykroczenia określonych w art. 27–27b ustawy z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. z 2025 r. poz. 236), w sprawach o wykroczenia określonych w art. 465 ust. 1a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619), w sprawach o wykroczenia określonych w art. 27–28b ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2024 r. poz. 73), w sprawach o wykroczenie określone w art. 8e ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), w sprawach o wykroczenia określonych w art. 10 ustawy z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni (Dz. U. z 2025 r. poz. 301), w sprawach o wykroczenia określonych w art. 362–365 i art. 367 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), w sprawach o wykroczenia określonych w art. 84 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), a także w sprawach o inne wykroczenia związane z wykonywaniem pracy zarobkowej, jeżeli ustawa tak stanowi, oskarżycielem publicznym jest inspektor pracy.”.
+**Art. 384.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544) w art. 17 § 2 otrzymuje brzmienie: „§ 2. W sprawach o wykroczenia przeciwko prawom pracownika określonych w Kodeksie pracy, w sprawach o wykroczenia określonych w art. 27–27b ustawy z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. z 2025 r. poz. 236), w sprawach o wykroczenia określonych w art. 465 ust. 1a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619), w sprawach o wykroczenia określonych w art. 27–28b ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2024 r. poz. 73), w sprawach o wykroczenie określone w art. 8e ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), w sprawach o wykroczenia określonych w art. 10 ustawy z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni (Dz. U. z 2025 r. poz. 301), w sprawach o wykroczenia określonych w art. 362–365 i art. 367 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), w sprawach o wykroczenia określonych w art. 84 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), a także w sprawach o inne wykroczenia związane z wykonywaniem pracy zarobkowej, jeżeli ustawa tak stanowi, oskarżycielem publicznym jest inspektor pracy.”.
 
 **Art. 385.** W ustawie z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz. U. z 2021 r. poz. 239) wprowadza się następujące zmiany:
 
@@ -5585,7 +5588,7 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 400.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2023 r. poz. 1199 oraz z 2025 r. poz. 39 i 321) w art. 12 w ust. 1a pkt 2 otrzymuje brzmienie: „2) nawiązanie stosunku pracy na okres nie dłuższy niż 6 miesięcy z osobą, która ukończyła w Agencji staż w rozumieniu art. 2 pkt 44 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”.
 
-**Art. 401.** W ustawie z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409) w art. 73 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach o rynku pracy i służbach zatrudnienia.”.
+**Art. 401.** W ustawie z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409) w art. 73 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych – na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach o rynku pracy i służbach zatrudnienia.”.
 
 **Art. 402.** W ustawie z dnia 19 grudnia 2008 r. o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego (Dz. U. z 2020 r. poz. 1696) w art. 123:
 
@@ -5609,17 +5612,17 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 412.** W ustawie z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140) w art. 34 pkt 2 i 3 otrzymują brzmienie: „2) bezrobotnych w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
 
-**Art. 413.** W ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619) wprowadza się następujące zmiany:
+**Art. 413.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619) wprowadza się następujące zmiany:
 
-**Art. 414.** W ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897 oraz z 2025 r. poz. 619) w art. 49 ust. 4 otrzymuje brzmienie: „4. W uczelni może działać akademickie biuro karier, do którego zadań należy w szczególności:
+**Art. 414.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897 oraz z 2025 r. poz. 619) w art. 49 ust. 4 otrzymuje brzmienie: „4. W uczelni może działać akademickie biuro karier, do którego zadań należy w szczególności:
 
-**Art. 415.** W ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051) w art. 2 pkt 3 otrzymuje brzmienie: „3) emeryturach i rentach oznacza to emerytury, renty rodzinne, renty inwalidzkie oraz renty z tytułu niezdolności do pracy, w tym renty szkoleniowe, określone w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, o ubezpieczeniu społecznym rolników, o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, uposażenia w stanie spoczynku określone w przepisach prawa o ustroju sądów powszechnych, o prokuraturze oraz o Sądzie Najwyższym, renty szkoleniowe i renty z tytułu niezdolności do pracy określone w przepisach o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, renty z tytułu niezdolności do pracy określone w przepisach o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, emerytury pomostowe określone w przepisach o emeryturach pomostowych, nauczycielskie świadczenia kompensacyjne określone w przepisach o nauczycielskich świadczeniach kompensacyjnych, zasiłki przedemerytalne i świadczenia przedemerytalne określone w przepisach o świadczeniach przedemerytalnych, renty socjalne określone w przepisach o rencie socjalnej, a także renty strukturalne określone w przepisach o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz okresowe emerytury kapitałowe określone w przepisach o emeryturach kapitałowych;”.
+**Art. 415.** W ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051) w art. 2 pkt 3 otrzymuje brzmienie: „3) emeryturach i rentach – oznacza to emerytury, renty rodzinne, renty inwalidzkie oraz renty z tytułu niezdolności do pracy, w tym renty szkoleniowe, określone w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, o ubezpieczeniu społecznym rolników, o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, uposażenia w stanie spoczynku określone w przepisach prawa o ustroju sądów powszechnych, o prokuraturze oraz o Sądzie Najwyższym, renty szkoleniowe i renty z tytułu niezdolności do pracy określone w przepisach o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, renty z tytułu niezdolności do pracy określone w przepisach o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, emerytury pomostowe określone w przepisach o emeryturach pomostowych, nauczycielskie świadczenia kompensacyjne określone w przepisach o nauczycielskich świadczeniach kompensacyjnych, zasiłki przedemerytalne i świadczenia przedemerytalne określone w przepisach o świadczeniach przedemerytalnych, renty socjalne określone w przepisach o rencie socjalnej, a także renty strukturalne określone w przepisach o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz okresowe emerytury kapitałowe określone w przepisach o emeryturach kapitałowych;”.
 
 **Art. 416.** W ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) w art. 2 w ust. 2 pkt 11 otrzymuje brzmienie: „11) ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);”.
 
-**Art. 417.** W ustawie z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320) wprowadza się następujące zmiany:
+**Art. 417.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320) wprowadza się następujące zmiany:
 
-**Art. 418.** W ustawie z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. z 2023 r. poz. 1330) w art. 2 pkt 1 otrzymuje brzmienie: „1) agencja zatrudnienia agencję zatrudnienia, o której mowa w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);”.
+**Art. 418.** W ustawie z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. z 2023 r. poz. 1330) w art. 2 pkt 1 otrzymuje brzmienie: „1) agencja zatrudnienia – agencję zatrudnienia, o której mowa w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);”.
 
 **Art. 419.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -5708,11 +5711,11 @@ o rynku pracy i służbach zatrudnienia
 
 **Art. 431.**
 
-1. Pracownik powiatowego urzędu pracy lub Ochotniczego Hufca Pracy zatrudniony w dniu wejścia w życie ustawy na stanowisku pośrednika pracy stażysty staje się młodszym doradcą do spraw zatrudnienia, o którym mowa w art. 89 ust. 1 pkt 1.
+1. Pracownik powiatowego urzędu pracy lub Ochotniczego Hufca Pracy zatrudniony w dniu wejścia w życie ustawy na stanowisku pośrednika pracy – stażysty staje się młodszym doradcą do spraw zatrudnienia, o którym mowa w art. 89 ust. 1 pkt 1.
 
 2. Pracownik powiatowego urzędu pracy lub Ochotniczego Hufca Pracy zatrudniony w dniu wejścia w życie ustawy na stanowisku pośrednika pracy staje się doradcą do spraw zatrudnienia lub starszym doradcą do spraw zatrudnienia, o których mowa w art. 89 ust. 1 pkt 2 lub 3.
 
-3. Pracownik wojewódzkiego urzędu pracy lub powiatowego urzędu pracy, lub pracownik Ochotniczego Hufca Pracy zatrudniony w dniu wejścia w życie ustawy na stanowisku doradcy zawodowego stażysty staje się młodszym doradcą zawodowym, o którym mowa w art. 92 ust. 1 pkt 1.
+3. Pracownik wojewódzkiego urzędu pracy lub powiatowego urzędu pracy, lub pracownik Ochotniczego Hufca Pracy zatrudniony w dniu wejścia w życie ustawy na stanowisku doradcy zawodowego – stażysty staje się młodszym doradcą zawodowym, o którym mowa w art. 92 ust. 1 pkt 1.
 
 4. Pracownik wojewódzkiego urzędu pracy lub powiatowego urzędu pracy, lub Ochotniczego Hufca Pracy zatrudniony w dniu wejścia w życie ustawy na stanowisku doradcy zawodowego staje się doradcą zawodowym lub starszym doradcą zawodowym, o których mowa w art. 92 ust. 1 pkt 2 lub 3.
 
@@ -5883,7 +5886,7 @@ o rynku pracy i służbach zatrudnienia
 - **1)** art. 4 ust. 2, art. 12 ust. 8, art. 16, art. 23 ust. 13, art. 36 ust. 8, art. 46 ust. 6 i 6a, art. 53 ust. 9, art. 69b ust. 7 i art. 71 ust. 8 ustawy uchylanej w art. 460, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 26 ust. 5, art. 350, art. 352, art. 14, art. 29 ust. 3, art. 160, art. 171, art. 124, art. 133 i art. 256 ust. 5,
 - **2)** art. 35 ust. 5 ustawy uchylanej w art. 460, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 98 i art. 113,
 - **3)** art. 108 ust. 3 i art. 109 ust. 11 ustawy uchylanej w art. 460, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 277,
-- **4)** art. 49 ust. 2 i 4 ustawy zmienianej w art. 380, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 49 ust. 2 i 4 ustawy zmienianej w art. 380 jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **4)** art. 49 ust. 2 i 4 ustawy zmienianej w art. 380, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 49 ust. 2 i 4 ustawy zmienianej w art. 380 – jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 

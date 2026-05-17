@@ -8,11 +8,12 @@ pos: 230
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 12 lutego 2010 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw
+# o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw
 
-*USTAWA dnia 12 lutego 2010 o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne niektórych innych ustaw*
+*USTAWA z dnia 12 lutego 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,60 +27,79 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100400230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/230/text.pdf) |
 
-**Art. 1.** W ustawie dnia 17 lutego 2005 o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. 64, 565, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 19b.**
 
-1. Minister właściwy do spraw informatyzacji ramach ePUAP prowadzi centralne repozytorium wzorów dokumentów elektronicznych, zwane dalej „centralnym repozytorium”.
+1. Minister właściwy do spraw informatyzacji w ramach ePUAP prowadzi centralne repozytorium wzorów dokumentów elektronicznych, zwane dalej „centralnym repozytorium”.
 
-2. W centralnym repozytorium umieszcza się, przechowuje udostępnia wzory pism, które uwzględniają niezbędne elementy struktury dokumentów elektronicznych określone przepisach wydanych na podstawie 5 ust. 2a ustawy dnia 14 lipca 1983 o narodowym zasobie archiwalnym archiwach (Dz. U. 2006 97, 673, późn. zm. udostępniają Biuletynie Informacji Publicznej wzory pism postaci dokumentów elektronicznych. Przy sporządzaniu wzorów pism stosuje się międzynarodowe standardy dotyczące sporządzania dokumentów elektronicznych przez organy administracji publicznej, uwzględnieniem konieczności podpisywania ich bezpiecznym podpisem elektronicznym.
+2. W centralnym repozytorium umieszcza się, przechowuje i udostępnia wzory pism, które uwzględniają niezbędne elementy struktury dokumentów elektronicznych określone w przepisach wydanych na podstawie art. 5 ust. 2a ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2006 r. Nr 97, poz. 673, z późn. zm. ).
 
-4. Jeżeli wzór podania określają odrębne przepisy, to umieszczenie wzoru dokumentu elektronicznego przez organy administracji publicznej centralnym repozytorium jest równoznaczne określeniem wzoru wnoszenia podań, o których mowa 63 § 3a ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. 2000 98, 1071, późn. zm. ). ).
+3. Organy administracji publicznej przekazują do centralnego repozytorium oraz udostępniają w Biuletynie Informacji Publicznej wzory pism w postaci dokumentów elektronicznych. Przy sporządzaniu wzorów pism stosuje się międzynarodowe standardy dotyczące sporządzania dokumentów elektronicznych przez organy administracji publicznej, z uwzględnieniem konieczności podpisywania ich bezpiecznym podpisem elektronicznym. wzoru dokumentu elektronicznego przez organy administracji publicznej w centralnym repozytorium jest równoznaczne z określeniem wzoru wnoszenia podań, o których mowa w art. 63 § 3a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm. ).
 
-5. Niezależnie od obowiązku wynikającego ust. 3 organy administracji publicznej mogą prowadzić własne lub wspólnie innymi organami administracji publicznej repozytoria wzorów dokumentów elektronicznych.”;
+5. Niezależnie od obowiązku wynikającego z ust. 3 organy administracji publicznej mogą prowadzić własne lub wspólnie z innymi organami administracji publicznej repozytoria wzorów dokumentów elektronicznych.”;
 
-- **19)** uchyla się 20;
-- **20)** dodaje się 20a 20b brzmieniu: „Art. 20a. 1. Identyfikacja użytkownika systemów teleinformatycznych udostępnianych przez podmioty określone 2 następuje przez zastosowanie kwalifikowanego certyfikatu przy zachowaniu zasad przewidzianych ustawie dnia 18 września 2001 o podpisie elektronicznym (Dz. U. 130, 1450, późn. zm. ), lub profilu zaufanego ePUAP.
+- **19)** uchyla się art. 20;
+- **20)** dodaje się art. 20a i art. 20b w brzmieniu: „Art. 20a. 1. Identyfikacja użytkownika systemów teleinformatycznych udostępnianych przez podmioty określone w art. 2 następuje przez zastosowanie kwalifikowanego certyfikatu przy zachowaniu zasad przewidzianych w ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm. ), lub profilu zaufanego ePUAP.
 
-2. Podmiot publiczny, który używa do realizacji zadań publicznych systemów teleinformatycznych, może umożliwiać użytkownikom identyfikację tym systemie przez zastosowanie innych technologii, chyba że przepisy odrębne przewidują obowiązek dokonania czynności siedzibie podmiotu publicznego. nia: „Art. 28. 1. Kontrolerem może być osoba pełnoletnia, która:
+2. Podmiot publiczny, który używa do realizacji zadań publicznych systemów teleinformatycznych, może umożliwiać użytkownikom identyfikację w tym systemie przez zastosowanie innych technologii, chyba że przepisy odrębne przewidują obowiązek dokonania czynności w siedzibie podmiotu publicznego.
 
-- **1)** szczegółowe warunki organizacyj- 1) posiada wykształcenie wyższe; ne techniczne, które powinien spełniać system teleinformatyczny 2) posiada obywatelstwo państwa służący do wydania certyfikatu członkowskiego Unii Europejskiej, stosowania technologii, o których Konfederacji Szwajcarskiej lub pańmowa ust. 1 2, stwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu
-- **2)** zasady potwierdzania, przedłużania (EFTA) strony umowy o Europejważności, wykorzystania unieważ- skim Obszarze Gospodarczym, chyniania profilu zaufanego ePUAP, ba że przepisy odrębne uzależniają tym: zatrudnienie jej jednostce kontrolowanej od posiadania obywatela) podmioty upoważnione do po- stwa polskiego; twierdzania, przedłużania unieważniania profilu zaufanego 3) ma pełną zdolność do czynności ePUAP, prawnych korzysta pełni praw publicznych; ePUAP, 5) posiada certyfikat, o którym mowa nuje się potwierdzenia profilu 2. Kontroler jest obowiązany zachować zaufanego ePUAP, tajemnicy informacje, które uzyskał nym ePUAP,
-    - **b)** okres ważności profilu zaufane- 4) nie była karana za umyślne przego ePUAP, stępstwo lub umyślne przestępstwo
-    - **c)** zawartość profilu zaufanego skarbowe;
-    - **d)** przypadki, których nie doko- ust. 3.
-    - **e)** przypadki, których profil za- związku wykonywaniem czynności ufany ePUAP traci ważność, kontroli. Obowiązek zachowania tajemnicy trwa również po ustaniu pełnienia
-    - **f)** warunki składania podpisu po- obowiązków kontrolera urzędzie obtwierdzonego profilem zaufa- sługującym organ dokonujący kontroli.
+3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
-3. Minister właściwy do spraw informatyg) warunki przechowywania zacji określi, drodze rozporządzenia, archiwizowania dokumentów wykaz certyfikatów uprawniających do danych bezpośrednio związa- prowadzenia kontroli rozumieniu nych potwierdzeniem profilu 25, uwzględniając zakres wiedzy zaufanego ePUAP, specjalistycznej wymaganej od osób biorąc pod uwagę konieczność za- 22) użyte 1 pkt 5, 3 pkt 10, tytule pewnienia bezpieczeństwa pewności rozdziału 3, 14 pkt 2, 16 ust. 2 procesie identyfikacji poufno- zdaniu wstępnym pkt 2, 18 pkt 1 ści kluczowych elementarnych czyn- lit. b pkt 2 25 ust. 1 pkt 3 ności. zdaniu końcowym, wyrazy „w formie elektroArt. 20b. 1. Podpis potwierdzony profilem zaufanym ePUAP wywołuje skutki prawne, jeżeli został utworzony lub złożony okresie ważności tego profilu.
+- **1)** szczegółowe warunki organizacyjne i techniczne, które powinien spełniać system teleinformatyczny służący do wydania certyfikatu oraz stosowania technologii, o których mowa w ust. 1 i 2,
+- **2)** zasady potwierdzania, przedłużania ważności, wykorzystania i unieważniania profilu zaufanego ePUAP, w tym:
+    - **a)** podmioty upoważnione do potwierdzania, przedłużania i unieważniania profilu zaufanego ePUAP,
+    - **b)** okres ważności profilu zaufanego ePUAP,
+    - **c)** zawartość profilu zaufanego ePUAP,
+    - **d)** przypadki, w których nie dokonuje się potwierdzenia profilu zaufanego ePUAP,
+    - **e)** przypadki, w których profil zaufany ePUAP traci ważność, ufanym ePUAP,
+    - **g)** warunki przechowywania oraz archiwizowania dokumentów i danych bezpośrednio związanych z potwierdzeniem profilu zaufanego ePUAP,
+    - **h)** wzory wniosku o potwierdzenie, przedłużenie i unieważnienie profilu zaufanego ePUAP – biorąc pod uwagę konieczność zapewnienia bezpieczeństwa i pewności w procesie identyfikacji oraz poufności kluczowych elementarnych czynności.
 
-- **h)** wzory wniosku o potwierdzenie, legitymujących się poszczególnymi przedłużenie unieważnienie certyfikatami zakres kontroli określoprofilu zaufanego ePUAP ny 25.”;
+**Art. 20b.**
 
-2. Dane postaci elektronicznej opatrzone podpisem potwierdzonym profilem zaufanym ePUAP są równoważne pod względem skutków prawnych dokumentowi opatrzonemu podpisem własnoręcznym, chyba że przepisy odrębne stanowią inaczej.
+1. Podpis potwierdzony profilem zaufanym ePUAP wywołuje skutki prawne, jeżeli został utworzony lub złożony w okresie ważności tego profilu.
 
-3. Nie można odmówić ważności skunicznej” zastępuje się wyrazami „w postaci elektronicznej”.
+2. Dane w postaci elektronicznej opatrzone podpisem potwierdzonym profilem zaufanym ePUAP są równoważne pod względem skutków prawnych dokumentowi opatrzonemu podpisem własnoręcznym, chyba że przepisy odrębne stanowią inaczej.
 
-**Art. 2.** W ustawie dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. 2000 98, 1071, późn. zm. ) wprowadza się następujące zmiany:
+3. Nie można odmówić ważności i skuteczności podpisowi potwierdzonemu profilem zaufanym ePUAP tylko na tej podstawie, że istnieje w postaci elektronicznej lub zmianie uległy dane inne niż służące do potwierdzenia profilu zaufanego.”;
 
-**Art. 3.** W ustawie dnia 14 lipca 1983 o narodowym zasobie archiwalnym archiwach (Dz. U. 2006 97, 673, późn. zm. ) wprowadza się następujące zmiany:
+- **21)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Kontrolerem może być osoba pełnoletnia, która:
+- **1)** posiada wykształcenie wyższe;
+- **2)** posiada obywatelstwo państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, chyba że przepisy odrębne uzależniają zatrudnienie jej w jednostce kontrolowanej od posiadania obywatelstwa polskiego;
+- **3)** ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
+- **4)** nie była karana za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **5)** posiada certyfikat, o którym mowa w ust. 3.
 
-**Art. 4.** W ustawie dnia 8 marca 1990 o samorządzie gminnym (Dz. U. 2001 142, 1591, poźn. zm. ) uchyla się 39a.
+2. Kontroler jest obowiązany zachować w tajemnicy informacje, które uzyskał w związku z wykonywaniem czynności kontroli. Obowiązek zachowania tajemnicy trwa również po ustaniu pełnienia obowiązków kontrolera w urzędzie obsługującym organ dokonujący kontroli.
 
-**Art. 5.** W ustawie dnia 20 czerwca 1997 Prawo o ruchu drogowym (Dz. U. 2005 108, 908, późn. zm. „3a. Każdy może uzyskać, nieodpłatnie, potwierdzenie lub zaprzeczenie zgodności danych zawartych dowodzie rejestracyjnym lub pozwoleniu czasowym danymi zgromadzonymi ewidencji, za pośrednictwem ePUAP, o której mowa 19a ustawy dnia 17 lutego 2005 o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. 64, 565, późn. zm. ) wprowadza się następujące zmiany: ). 3b. P otwierdzeniu lub zaprzeczeniu, o którym mowa ust. 3a, podlegają następujące dane:
+3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wykaz certyfikatów uprawniających do prowadzenia kontroli w rozumieniu art. 25, uwzględniając zakres wiedzy specjalistycznej wymaganej od osób legitymujących się poszczególnymi certyfikatami i zakres kontroli określony w art. 25.”; w art. 16 w ust. 2 w zdaniu wstępnym i w pkt 2, w art. 18 w pkt 1 w lit. b i w pkt 2 oraz w art. 25 w ust. 1 w pkt 3 w zdaniu końcowym, wyrazy „w formie elektronicznej” zastępuje się wyrazami „w postaci elektronicznej”.
 
-**Art. 6.** W ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 2005 8, 60, późn. zm. ) wprowadza się następujące zmiany: „13) dokumencie elektronicznym rozumie się przez to dokument elektroniczny, o którym mowa 3 pkt 2 ustawy dnia 17 lutego 2005 o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. 64, 565, późn. zm. zgodę.”;
+**Art. 2.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie dnia 5 czerwca 1998 o samorządzie województwa (Dz. U. 2001 142, 1590, późn. zm. ) 46 uchyla się ust. 4.
+**Art. 3.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2006 r. Nr 97, poz. 673, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie dnia 5 czerwca 1998 o samorządzie powiatowym (Dz. U. 2001 142, 1592, późn. zm. ) uchyla się 39.
+**Art. 4.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z poźn. zm. ) uchyla się art. 39a.
 
-**Art. 9.** W ustawie dnia 18 września 2001 o podpisie elektronicznym (Dz. U. 130, 1450, późn. zm. ) 58 uchyla się ust. 3.
+**Art. 5.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie dnia 23 stycznia o wojewodzie administracji rządowej województwie (Dz. U. 31, 206) uchyla się 21.
+**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 11.** Świadectwa kwalifikacji wydane przez ministra właściwego do spraw informatyzacji przed dniem wejścia życie niniejszej ustawy zachowują ważność na okres, na jaki zostały wydane.
+**Art. 7.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2001 r. Nr 142, poz. 1590, z późn. zm. ) w art. 46 uchyla się ust. 4.
 
-**Art. 12.** Rejestry publiczne prowadzone przez organy administracji rządowej spełnią wymogi określone 14 ust. 2 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą, najpóźniej do dnia 1 stycznia 2011
+**Art. 8.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2001 r. Nr 142, poz. 1592, z późn. zm. ) uchyla się art. 39.
 
-**Art. 13.** Dane zgromadzone na podstawie dotychczas obowiązujących przepisów Krajowej Ewidencji Systemów Teleinformatycznych Rejestrów Publicznych mogą być wykorzystywane przez ministra właściwego do spraw informatyzacji celu ustalania stanu systemów teleinformatycznych lub rejestrów publicznych Rzeczypospolitej Polskiej. rej mowa 1, zachowują moc do dnia wejścia 7, 8 10, które wchodzą życie dniem życie przepisów wykonawczych wydanych na pod- 1 stycznia 2011 stawie 16 ust. 3 18 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie ustawy. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+**Art. 9.** W ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm. ) w art. 58 uchyla się ust. 3.
+
+**Art. 10.** W ustawie z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie (Dz. U. Nr 31, poz. 206) uchyla się art. 21.
+
+**Art. 11.** Świadectwa kwalifikacji wydane przez ministra właściwego do spraw informatyzacji przed dniem wejścia w życie niniejszej ustawy zachowują ważność na okres, na jaki zostały wydane.
+
+**Art. 12.** Rejestry publiczne prowadzone przez organy administracji rządowej spełnią wymogi określone w art. 14 ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, najpóźniej do dnia 1 stycznia 2011 r.
+
+**Art. 13.** Dane zgromadzone na podstawie dotychczas obowiązujących przepisów w Krajowej Ewidencji Systemów Teleinformatycznych i Rejestrów Publicznych mogą być wykorzystywane przez ministra właściwego do spraw informatyzacji w celu ustalania stanu systemów teleinformatycznych lub rejestrów publicznych w Rzeczypospolitej Polskiej.
+
+**Art. 14.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16 ust. 3 i art. 18 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 3 i art. 18 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie ustawy.
+
+**Art. 15.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 3, art. 4, art. 7, art. 8 i art. 10, które wchodzą w życie z dniem 1 stycznia 2011 r.
 

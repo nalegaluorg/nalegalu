@@ -8,6 +8,7 @@ pos: 654
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o społecznych formach rozwoju mieszkalnictwa
@@ -23,7 +24,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1995-10-26 |
 | Data wydania | 1995-11-27 |
-| Ostatnia zmiana | 2026-01-21 |
+| Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951330654) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/654/text.pdf) |
 
 Art. 33da. 1. Wpłacona przez osobę fizyczną partycypacja w kosztach budowy lokalu mieszkalnego wybudowanego przy wykorzystaniu kredytu:

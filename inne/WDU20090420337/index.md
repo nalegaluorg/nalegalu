@@ -8,9 +8,12 @@ pos: 337
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Ustawa z dnia 23 stycznia 2009 r. o zmianie ustawy o Radzie Ministrów oraz niektórych innych ustaw
+
+*USTAWA dnia 23 stycznia 2009 o zmianie ustawy o Radzie Ministrów niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090420337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/337/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 8 sierpnia 1996r. oRadzie Ministrów (Dz. U. z 2003 r. 24, poz. 199, z póên. zm. Sądu Pierwszej Instancji w szczególności w zakresie wpływu na pol) wprowadza się następujące zmiany: ski system prawa;
+**Art. 1.** W ustawie dnia 8 sierpnia 1996 o Radzie Ministrów (Dz. U. 2003 24, 199, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 4 września 1997r. odziałach administracji rządowej (Dz. U. z 2007 r. 65, poz. 437, z póên. zm. ) w art. 34 ust. 1 otrzymuje brzmienie: Ń1. Minister jest obowiązany do inicjowania opracowywania polityki Rady Ministrów w stosunku do działu, którym kieruje, a także przedkładania w tym zakresie inicjatyw, projektów założeń projektów ustaw projektów aktów normatywnych na posiedzenia Rady Ministrów na zasadach iwtrybie określonych wregulaminie pracy Rady Ministrów. W zakresie działu, którym kieruje, minister wykonuje politykę Rady Ministrów koordynuje jej wykonywanie przez organy, urzędy jednostki organizacyjne, które jemu podlegają lub są przez niego nadzorowane.”. USTAWA zdnia 23 stycznia 2009r. ozmianie ustawy oRadzie Ministrów oraz niektórych innych ustaw ——————— ———————
+**Art. 2.** W ustawie dnia 4 września 1997 o działach administracji rządowej (Dz. U. 2007 65, 437, późn. zm. ) art. 34 ust. 1 otrzymuje brzmienie: „1. Minister jest obowiązany do inicjowania opracowywania polityki Rady Ministrów stosunku do działu, którym kieruje, a także przedkładania tym zakresie inicjatyw, projektów założeń projektów ustaw projektów aktów normatywnych na posiedzenia Rady Ministrów – na zasadach trybie określonych regulaminie pracy Rady Ministrów. W zakresie działu, którym kieruje, minister wykonuje politykę Rady Ministrów koordynuje jej wykonywanie przez organy, urzędy jednostki organizacyjne, które jemu podlegają lub są przez niego nadzorowane.”.
 
-**Art. 3.** W ustawie z dnia 7 lipca 2005 r. o działal- a jeżeli nie opracowywano projektu załoności lobbingowej w procesie stanowienia prawa żeń projektu ustawy do organu odpo(Dz.U. Nr169, poz.1414) wprowadza się następujące wiedzialnego za przedłożenie projektu zmiany: ustawy Radzie Ministrów;
+**Art. 3.** W ustawie dnia 7 lipca 2005 o działalności lobbingowej procesie stanowienia prawa (Dz. U. 169, 1414) wprowadza się następujące zmiany:
+
+**Art. 4.** Do projektów ustaw przekazanych do uzgodnień członkami Rady Ministrów przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

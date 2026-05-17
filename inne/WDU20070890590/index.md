@@ -8,9 +8,12 @@ pos: 590
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# rych oskarżycielem publicznym był inspektor właściwego urzędu wojewódzkiego z dniem wejścia życie ustawy oskarżycielem publicznym staje się właściwy inspektor pracy.
+# o zarządzaniu kryzysowym
+
+*USTAWA z dnia 26 kwietnia 2007 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,104 +24,210 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2007-04-26 |
 | Data wydania | 2007-05-21 |
-| Ostatnia zmiana | 2026-03-31 |
+| Ostatnia zmiana | 2026-05-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070890590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/590/text.pdf) |
 
-2. Niezakończone postępowania administracyjne toczą się nadal przed właściwymi okręgowymi inspektorami pracy.
-3. Minister właściwy do spraw administracji publicznej określi, drodze rozporządzenia, sposób i tryb przejęcia toczących się postępowań sądowych i administracyjnych, szczególności sposób przekazania dokumentacji dotyczącej tych postępowań, kierując się koniecznością zapewnienia sprawnego iefektywnego prowadzenia przejętych postępowań przez właściwego okręgowego inspektora pracy.
+**Art. 1.** Ustawa określa organy właściwe w sprawach zarządzania kryzysowego oraz ich zadania i zasady działania w tej dziedzinie, a także zasady finansowania zadań zarządzania kryzysowego.
 
-**Art. 110.** Kadencja Rady Ochrony Pracy, powołanej trybie określonym ustawie, o której mowa art. 115, trwa do jej zakończenia po dniu wejścia życie niniejszej ustawy.
+**Art. 2.** Zarządzanie kryzysowe to działalność organów administracji publicznej będąca elementem kierowania bezpieczeństwem narodowym, która polega na zapobieganiu sytuacjom kryzysowym, przygotowaniu do przejmowania nad nimi kontroli w drodze zaplanowanych działań, reagowaniu w przypadku wystąpienia sytuacji kryzysowych, usuwaniu ich skutków oraz odtwarzaniu zasobów i infrastruktury krytycznej.
 
-**Art. 111.** Rzeczoznawcy do spraw bezpieczeństwa wżycie niniejszej ustawy, stosuje się przepisy dotychczasowe.
-
-**Art. 113.** Do postępowań dyscyplinarnych wszczętych wobec pracowników Państwowej Inspekcji Pracy przed dniem wejścia wżycie niniejszej ustawy stosuje się przepisy dotychczasowe, jednakże należy stosować nowe przepisy, jeżeli są względniejsze dla sprawcy.
-
-**Art. 114.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust. 1 pkt 1 i2, art. 8 ust.4, art. 8a ust. 5, art. 12 i art. 21f ustawy, o której mowa art. 115, zachowują moc do czasu wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 6 ust. 1 pkt 1 i2, art. 9 ust. 9, art. 16 iart. 32 niniejszej ustawy, nie dłużej jednak niż przez okres 6miesięcy od dnia jej wejścia życie.
-
-**Art. 115.** Traci moc ustawa z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy (Dz. U. z 2001 r. 124, poz. 1362, 128, poz. 1405 i 154, poz. 1800, z 2002r. 166, poz. 1360, z 2003 r. 170, poz. 1652 ihigieny pracy, którym uprawnienia nadał Główny Inspektor Pracy wtrybie określonym wustawie, októrej mowa art. 115, zachowują te uprawnienia po dniu wejścia życie niniejszej ustawy.
-
-**Art. 112.** Do egzekucji wszczętych na podstawie ustawy, októrej mowa wart. 94, przed dniem wejścia iNr 213, poz. 2081, z2004 r. 173, poz. 1808, z2005r. 64, poz. 564, 110, poz. 926 i 167, poz. 1399).
-
-**Art. 116.** Ustawa wchodzi życie z dniem 1 lipca 2007 r., z wyjątkiem art. 108, który wchodzi życie z dniem 1 czerwca 2007 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym
-
-**Art. 1.** Ustawa określa organy właściwe spra- Art. 3. Ilekroć ustawie jest mowa o: wach zarządzania kryzysowego oraz ich zadania i zasady działania wtej dziedzinie, atakże zasady finanso- 1) sytuacji kryzysowej należy przez to rozumieć sywania zadań zarządzania kryzysowego. tuację będącą następstwem zagrożenia i prowadzącą konsekwencji do zerwania lub znacznego
-
-**Art. 2.** Zarządzanie kryzysowe to działalność orga- naruszenia więzów społecznych przy równoczesnów administracji publicznej będąca elementem kie- nym poważnym zakłóceniu funkcjonowaniu inrowania bezpieczeństwem narodowym, która polega stytucji publicznych, jednak takim stopniu, że użyte środki niezbędne do zapewnienia lub przyna zapobieganiu sytuacjom kryzysowym, przygotowa- wrócenia bezpieczeństwa nie uzasadniają wproniu do przejmowania nad nimi kontroli drodze za- wadzenia żadnego ze stanów nadzwyczajnych, planowanych działań, reagowaniu przypadku wy- o których mowa art. 228 ust. 1 Konstytucji stąpienia sytuacji kryzysowych oraz na odtwarzaniu Rzeczypospolitej Polskiej; infrastruktury lub przywróceniu jej pierwotnego charakteru. 2) infrastrukturze krytycznej należy przez to rozumieć systemy oraz wchodzące ich skład powią——————— zane ze sobą funkcjonalnie obiekty, wtym obiekty budowlane, urządzenia, instalacje, usługi kluczowe dla bezpieczeństwa państwa i jego obywateli oraz służące zapewnieniu sprawnego funkcjonoa) zaopatrzenia energię i paliwa,
+**Art. 3.** Ilekroć w ustawie jest mowa o:
 
 **Art. 4.**
 
 1. Zadania z zakresu planowania cywilnego obejmują:
 
-- **1)** gromadzenie i przetwarzanie informacji o możli2) opracowywanie procedur postępowania na wypadek zagrożeń;
-- **3)** przygotowywanie planów reagowania kryzysowego.
+- **1)** przygotowanie planów zarządzania kryzysowego;
+- **2)** przygotowanie struktur uruchamianych w sytuacjach kryzysowych;
+- **3)** przygotowanie i utrzymywanie zasobów niezbędnych do wykonania zadań ujętych w planie zarządzania kryzysowego;
+- **4)** utrzymywanie baz danych niezbędnych w procesie zarządzania kryzysowego;
+- **5)** przygotowanie rozwiązań na wypadek zniszczenia lub zakłócenia funkcjonowania infrastruktury krytycznej;
+- **6)** zapewnienie spójności między planami zarządzania kryzysowego a innymi planami sporządzanymi w tym zakresie przez właściwe organy administracji publicznej, których obowiązek wykonania wynika z odrębnych przepisów.
 
-2. Zadania, o których mowa ust. 1, powinny uwzględniać:
+2. Zadania, o których mowa w ust. 1, powinny uwzględniać:
 
-- **1)** zapewnienie funkcjonowania administracji publicznej;
-- **2)** zapewnienie funkcjonowania i możliwości odtworzenia infrastruktury lub przywrócenia jej pierwotnego charakteru;
-- **3)** racjonalne gospodarowanie siłami i środkami sytuacjach kryzysowych, czasie stanów nadzwyczajnych i czasie wojny;
-- **4)** zapewnienie ludziom warunków przetrwania wsytuacjach kryzysowych, czasie stanów nadzwyczajnych i czasie wojny.
+- **1)** zapewnienie funkcjonowania administracji publicznej w sytuacji kryzysowej;
+- **2)** zapewnienie funkcjonowania i możliwości odtworzenia infrastruktury krytycznej;
+- **3)** zapewnienie ciągłego monitorowania zagrożeń;
+- **4)** racjonalne gospodarowanie siłami i środkami w sytuacjach kryzysowych;
+- **5)** pomoc udzielaną ludności w zapewnieniu jej warunków przetrwania w sytuacjach kryzysowych.
 
 **Art. 5.**
 
-1. Na poziomie krajowym, wojewódzkim, powiatowym igminnym tworzy się plany reagowania kryzysowego.
+1. Tworzy się Krajowy Plan Zarządzania Kryzysowego oraz wojewódzkie, powiatowe i gminne plany zarządzania kryzysowego, zwane dalej „planami zarządzania kryzysowego”.
 
-2. W skład planów reagowania kryzysowego, o których mowa ust. 1, wchodzą następujące elementy:
+2. W skład planów zarządzania kryzysowego wchodzą następujące elementy:
 
 - **1)** plan główny zawierający:
-    - **a)** charakterystykę zagrożeń oraz ocenę ryzyka ich wystąpienia, tym mapy ryzyka i zagrożenia powodziowego,
-    - **b)** charakterystykę sił i środków, tym stan rezerw państwowych, oraz ocenę możliwości ich wykorzystania,
-    - **c)** analizę funkcjonowania administracji publicznej, jej skuteczności imożliwości wykorzystania sytuacjach kryzysowych,
-    - **d)** przewidywane warianty działań sytuacjach kryzysowych,
-    - **e)** wskazanie trybu aktualizacji planu oraz poszczególnych załączników funkcjonalnych;
+    - **a)** charakterystykę zagrożeń oraz ocenę ryzyka ich wystąpienia, w tym dotyczących infrastruktury krytycznej, oraz mapy ryzyka i mapy zagrożeń,
+    - **b)** zadania i obowiązki uczestników zarządzania kryzysowego w formie siatki bezpieczeństwa,
+    - **c)** zestawienie sił i środków planowanych do wykorzystania w sytuacjach kryzysowych,
+    - **d)** zadania określone planami działań krótkoterminowych, o których mowa w art. 92 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm. );
 
-- **2)** procedury reagowania kryzysowego określające zespół przedsięwzięć na wypadek sytuacji kryzysowych, wczasie stanów nadzwyczajnych iwczasie wojny, a tym:
-    - **a)** zadania zakresie monitorowania zagrożeń,
-    - **b)** bilans i tryb uruchamiania sił i środków niezbędnych do usuwania skutków zagrożeń,
-    - **c)** uruchamianie działań przewidzianych planie reagowania kryzysowego oraz zasady współdziałania, atakże sposoby ograniczania rozmiarów strat i usuwania skutków zagrożeń;
+- **2)** zespół przedsięwzięć na wypadek sytuacji kryzysowych, a w tym:
+    - **a)** zadania w zakresie monitorowania zagrożeń,
+    - **b)** tryb uruchamiania niezbędnych sił i środków, uczestniczących w realizacji planowanych przedsięwzięć na wypadek sytuacji kryzysowej,
+    - **c)** procedury reagowania kryzysowego, określające sposób postępowania w sytuacjach kryzysowych,
+    - **d)** współdziałanie między siłami, o których mowa w lit. b;
 
 - **3)** załączniki funkcjonalne planu głównego określające:
-    - **b)** organizację łączności między podmiotami, o których mowa lit. a,
+    - **a)** procedury realizacji zadań z zakresu zarządzania kryzysowego, w tym związane z ochroną infrastruktury krytycznej,
+    - **b)** organizację łączności,
     - **c)** organizację systemu monitorowania zagrożeń, ostrzegania i alarmowania,
     - **d)** zasady informowania ludności o zagrożeniach i sposobach postępowania na wypadek zagrożeń,
-    - **e)** organizację ewakuacji zobszarów zagrożonych,
-    - **f)** organizację opieki społecznej i medycznej, z uwzględnieniem planów zabezpieczenia ratownictwa medycznego,
-    - **g)** organizację ochrony przed zagrożeniami radiacyjnymi, biologicznymi i chemicznymi,
-    - **h)** wykaz zawartych umów i porozumień związanych z realizacją zadań zawartych planie reagowania kryzysowego,
-    - **i)** zasady oraz tryb oceniania i dokumentowania szkód.
+    - **e)** organizację ewakuacji z obszarów zagrożonych,
+    - **f)** organizację ratownictwa, opieki medycznej, pomocy społecznej oraz pomocy psychologicznej,
+    - **g)** organizację ochrony przed zagrożeniami charakterystycznymi dla danego obszaru,
+    - **h)** wykaz zawartych umów i porozumień związanych z realizacją zadań zawartych w planie zarządzania kryzysowego,
+    - **i)** zasady oraz tryb oceniania i dokumentowania szkód,
+    - **j)** procedury uruchamiania rezerw państwowych,
+    - **k)** wykaz infrastruktury krytycznej znajdującej się odpowiednio na terenie województwa, powiatu lub gminy, objętej planem zarządzania kryzysowego,
+    - **l)** priorytety w zakresie ochrony oraz odtwarzania infrastruktury krytycznej.
 
-3. Załączniki funkcjonalne planu głównego określające organizację ochrony przed zagrożeniami radiacyjnymi zawierają tylko plany reagowania kryzysowego, które są tworzone na poziomie krajowym i wojewódzkim.
+3. Plany zarządzania kryzysowego podlegają systematycznej aktualizacji, a cykl planowania nie może być dłuższy niż dwa lata.
 
-4. Plany reagowania kryzysowego, o których mowa ust. 1, są aktualizowane nie rzadziej niż co dwa lata.
+4. Cykl planowania realizują właściwe organy administracji publicznej oraz podmioty przewidywane do realizacji przedsięwzięć określonych w planie zarządzania kryzysowego, w zakresie ich dotyczącym.
+
+5. Plany zarządzania kryzysowego uzgadnia się z kierownikami jednostek organizacyjnych, w zakresie ich dotyczącym, planowanych do wykorzystania przy realizacji przedsięwzięć określonych w planie.
+
+**Art. 5a.**
+
+1. Na potrzeby Krajowego Planu Zarządzania Kryzysowego, ministrowie kierujący działami administracji rządowej, kierownicy urzędów centralnych oraz wojewodowie sporządzają Raport o zagrożeniach bezpieczeństwa narodowego, zwany dalej „Raportem”.
+
+2. Koordynację przygotowania Raportu zapewnia dyrektor Rządowego Centrum Bezpieczeństwa, natomiast w części dotyczącej zagrożeń o charakterze terrorystycznym, mogących doprowadzić do sytuacji kryzysowej, Szef Agencji Bezpieczeństwa Wewnętrznego, a w części dotyczącej zagrożeń cyberbezpieczeństwa mogących doprowadzić do sytuacji kryzysowej – Pełnomocnik Rządu do spraw Cyberbezpieczeństwa.
+
+3. Raport jest dokumentem zawierającym następujące elementy:
+
+- **1)** wskazanie najważniejszych zagrożeń przez stworzenie mapy ryzyka;
+- **2)** określenie celów strategicznych;
+- **3)** określenie priorytetów w reagowaniu na określone zagrożenia;
+- **4)** wskazanie sił i środków niezbędnych do osiągnięcia celów strategicznych;
+- **5)** programowanie zadań w zakresie poprawy bezpieczeństwa przez uwzględnianie regionalnych i lokalnych inicjatyw;
+- **6)** wnioski zawierające hierarchicznie uporządkowaną listę przedsięwzięć niezbędnych do osiągnięcia celów strategicznych.
+
+4. Raport przyjmuje Rada Ministrów w drodze uchwały.
+
+5. Kierunki działania wynikające z wniosków z Raportu stanowią element Krajowego Planu Zarządzania Kryzysowego oraz są uwzględniane w planach zarządzania kryzysowego.
+
+6. Rada Ministrów określi, w drodze rozporządzenia, sposób, tryb i terminy opracowywania Raportu, biorąc pod uwagę konieczność zapewnienia odpowiedniego poziomu bezpieczeństwa narodowego.
+
+**Art. 5b.**
+
+1. Rada Ministrów przyjmuje, w drodze uchwały, Narodowy Program Ochrony Infrastruktury Krytycznej, zwany dalej „programem”, którego celem jest stworzenie warunków do poprawy bezpieczeństwa infrastruktury krytycznej, w szczególności w zakresie:
+
+- **1)** zapobiegania zakłóceniom funkcjonowania infrastruktury krytycznej;
+- **2)** przygotowania na sytuacje kryzysowe mogące niekorzystnie wpłynąć na infrastrukturę krytyczną;
+- **3)** reagowania w sytuacjach zniszczenia lub zakłócenia funkcjonowania infrastruktury krytycznej;
+- **4)** odtwarzania infrastruktury krytycznej.
+
+2. Program określa:
+
+- **1)** narodowe priorytety, cele, wymagania oraz standardy, służące zapewnieniu sprawnego funkcjonowania infrastruktury krytycznej;
+- **2)** ministrów kierujących działami administracji rządowej i kierowników urzędów centralnych odpowiedzialnych za systemy, o których mowa w art. 3 pkt 2;
+- **3)** szczegółowe kryteria pozwalające wyodrębnić obiekty, instalacje, urządzenia i usługi wchodzące w skład systemów infrastruktury krytycznej, biorąc pod uwagę ich znaczenie dla funkcjonowania państwa i zaspokojenia potrzeb obywateli.
+
+3. Program przygotowuje dyrektor Rządowego Centrum Bezpieczeństwa we współpracy z ministrami i kierownikami urzędów centralnych odpowiedzialnymi za systemy, o których mowa w art. 3 pkt 2, oraz właściwymi w sprawach bezpieczeństwa narodowego.
+
+4. Programem obejmuje się infrastrukturę krytyczną w podziale na systemy, o których mowa w art. 3 pkt 2.
+
+5. Program podlega aktualizacji nie rzadziej niż raz na dwa lata.
+
+6. Do programu stosuje się przepisy o ochronie informacji niejawnych.
+
+7. Dyrektor Rządowego Centrum Bezpieczeństwa:
+
+- **1)** sporządza na podstawie szczegółowych kryteriów, o których mowa w ust. 2 pkt 3, we współpracy z odpowiednimi ministrami odpowiedzialnymi za systemy, jednolity wykaz obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej z podziałem na systemy. W wykazie wyróżnia się także europejską infrastrukturę krytyczną zlokalizowaną na terytorium Rzeczypospolitej Polskiej oraz europejską infrastrukturę krytyczną zlokalizowaną na terytorium innych państw członkowskich Unii Europejskiej, mogącą mieć istotny wpływ na Rzeczpospolitą Polską. Wykaz ma charakter niejawny;
+- **2)** opracowuje wyciągi z wykazu infrastruktury krytycznej, o którym mowa w pkt 1, znajdującej się w danym systemie oraz przekazuje je ministrom i kierownikom urzędów centralnych odpowiedzialnym za dany system;
+- **3)** opracowuje wyciągi z wykazu infrastruktury krytycznej, o którym mowa w pkt 1, znajdującej się na terenie województw oraz przekazuje je właściwym wojewodom;
+- **4)** informuje o ujęciu w wykazie, o którym mowa w pkt 1, obiektów, instalacji lub urządzeń – ich właścicieli, posiadaczy samoistnych i zależnych.
+
+8. Właściwi wojewodowie, jeżeli istnieje potrzeba wynikająca z wojewódzkiego planu zarządzania kryzysowego, są upoważnieni do przekazywania niezbędnej informacji o infrastrukturze krytycznej na terenie województwa właściwemu organowi administracji publicznej działającemu na tym terenie, z zachowaniem przepisów o ochronie informacji niejawnych.
+
+9. Rada Ministrów określi, w drodze rozporządzenia, sposób realizacji określonych w ustawie obowiązków i współpracy w zakresie programu przez organy administracji publicznej i służby odpowiedzialne za bezpieczeństwo narodowe z właścicielami oraz posiadaczami samoistnymi i zależnymi obiektów, instalacji, urządzeń i usług infrastruktury krytycznej oraz innymi organami i służbami publicznymi, biorąc pod uwagę konieczność zapewnienia odpowiedniego poziomu bezpieczeństwa infrastruktury krytycznej.
 
 **Art. 6.**
 
 1. Zadania z zakresu ochrony infrastruktury krytycznej obejmują:
 
-- **1)** gromadzenie i przetwarzanie informacji dotyczących infrastruktury krytycznej;
-- **2)** przygotowywanie i aktualizację planów ochrony infrastruktury krytycznej;
-- **3)** opracowywanie iwdrażanie procedur na wypadek wystąpienia zagrożeń infrastruktury krytycznej;
-- **4)** zapewnienie możliwości odtworzenia infrastruktury krytycznej;
-- **5)** współpracę między administracją publiczną awłaścicielami oraz posiadaczami samoistnymi i zależnymi obiektów, instalacji lub urządzeń infrastruktury krytycznej zakresie jej ochrony.
+- **1)** gromadzenie i przetwarzanie informacji dotyczących zagrożeń infrastruktury krytycznej;
+- **2)** (uchylony)
+- **3)** opracowywanie i wdrażanie procedur na wypadek wystąpienia zagrożeń infrastruktury krytycznej;
+- **4)** odtwarzanie infrastruktury krytycznej;
+- **5)** współpracę między administracją publiczną a właścicielami oraz posiadaczami samoistnymi i zależnymi obiektów, instalacji lub urządzeń infrastruktury krytycznej w zakresie jej ochrony.
 
-2. Plany ochrony infrastruktury krytycznej tworzy się na poziomie krajowym i wojewódzkim.
+2. (uchylony)
 
-3. W skład planów ochrony infrastruktury krytycznej wchodzą następujące elementy:
+3. (uchylony)
 
-- **1)** wykaz obiektów isystemów infrastruktury krytycznej;
-- **2)** charakterystyka zagrożeń dla infrastruktury krytycznej oraz ocena ryzyka ich wystąpienia;
-- **4)** warianty działania wsytuacji zagrożeń lub zakłócenia funkcjonowania infrastruktury krytycznej;
-- **5)** warianty odtwarzania infrastruktury krytycznej;
-- **6)** zasady współpracy administracji publicznej z właścicielami oraz posiadaczami samoistnymi i zależnymi obiektów, instalacji lub urządzeń infrastruktury krytycznej wzakresie jej ochrony, wtym zasady przekazywania informacji;
-- **7)** wskazanie terminów i trybu aktualizacji planu.
+4. (uchylony)
 
-4. Plany ochrony infrastruktury krytycznej, o których mowa ust. 2, są aktualizowane nie rzadziej niż co dwa lata.
+5. Właściciele oraz posiadacze samoistni i zależni obiektów, instalacji lub urządzeń infrastruktury krytycznej mają obowiązek ich ochrony, w szczególności przez przygotowanie i wdrażanie, stosownie do przewidywanych zagrożeń, planów ochrony infrastruktury krytycznej oraz utrzymywanie własnych systemów rezerwowych zapewniających bezpieczeństwo i podtrzymujących funkcjonowanie tej infrastruktury, do czasu jej pełnego odtworzenia.
 
-5. Właściciele oraz posiadacze samoistni i zależni obiektów, instalacji lub urządzeń infrastruktury krytycznej, obowiązani do jej ochrony, zgodnie z odrębnymi przepisami, mają obowiązek przygotowywać iwdrażać stosownie do zaistniałego zagrożenia, własne plany ochrony infrastruktury krytycznej oraz utrzymywać własne systemy rezerwowe zapewniające bezpieczeństwo i podtrzymujące funkcjonowanie tej infrastruktury, do czasu jej pełnego odtworzenia, atakże wyznaczyć osoby odpowiedzialne za utrzymywanie kontaktów zadministracją publiczną wzakresie ochrony infrastruktury krytycznej.
+5a. Właściciele, posiadacze samoistni i zależni, o których mowa w ust. 5, mają obowiązek wyznaczyć, w terminie 30 dni od dnia otrzymania informacji, o której mowa w art. 5b ust. 7 pkt 4, osobę odpowiedzialną za utrzymywanie kontaktów z podmiotami właściwymi w zakresie ochrony infrastruktury krytycznej.
 
-6. Plany, o których mowa ust. 5, są udostępniane na pisemny wniosek organu, do zadań którego należy ochrona infrastruktury krytycznej, terminie nie dłuższym niż 14 dni.
+5b. Właściciele, posiadacze samoistni i zależni, o których mowa w ust. 5, będący jednocześnie operatorami usług kluczowych w rozumieniu ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2022 r. poz. 1863), uwzględniają w planach ochrony infrastruktury krytycznej dokumentację dotyczącą cyberbezpieczeństwa systemów informacyjnych wykorzystywanych do świadczenia usług kluczowych zgodnie z zakresem informacji określonym w przepisach wydanych na podstawie art. 10 ust. 5 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
 
-7. Rada Ministrów określi, drodze rozporządzenia, sposób tworzenia i aktualizacji oraz strukturę planów, o których mowa ust. 5, uwzględniając potrzebę zapewnienia ciągłości funkcjonowania infrastruktury krytycznej.
+6. Jeżeli dla obiektów, instalacji, urządzeń i usług infrastruktury krytycznej istnieją, tworzone na podstawie innych przepisów, plany odpowiadające wymogom planu ochrony infrastruktury krytycznej, uznaje się, iż wymóg posiadania takiego planu jest spełniony.
+
+7. Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** sposób tworzenia, aktualizacji oraz strukturę planów, o których mowa w ust. 5,
+- **2)** warunki i tryb uznania spełnienia obowiązku posiadania planu odpowiadającego wymogom planu ochrony infrastruktury krytycznej – uwzględniając potrzebę zapewnienia ciągłości funkcjonowania infrastruktury krytycznej.
+
+**Art. 6a.**
+
+1. Dyrektor Rządowego Centrum Bezpieczeństwa, we współpracy z ministrami i kierownikami urzędów centralnych odpowiedzialnymi za systemy, o których mowa w art. 3 pkt 2a, na bieżąco rozpoznaje potencjalną europejską infrastrukturę krytyczną, badając, czy infrastruktura krytyczna spełnia kolejno następujące wymogi:
+
+- **1)** kryteria sektorowe – przybliżone progi liczbowe ustalone przez Komisję Europejską i państwa członkowskie Unii Europejskiej, charakteryzujące parametry, wchodzących w skład systemów infrastruktury krytycznej obiektów, urządzeń oraz instalacji lub funkcje realizowane przez te obiekty, urządzenia oraz instalacje, warunkujące identyfikację infrastruktury krytycznej;
+- **2)** stanowi składnik, system lub część infrastruktury, które mają podstawowe znaczenie dla utrzymania niezbędnych funkcji społecznych, zdrowia, bezpieczeństwa, ochrony, dobrobytu materialnego lub społecznego ludności, oraz których zakłócenie lub zniszczenie miałoby istotny wpływ na Rzeczpospolitą Polską w wyniku utraty tych funkcji;
+- **3)** jej zakłócenie lub zniszczenie miałoby istotny wpływ na co najmniej dwa państwa członkowskie Unii Europejskiej;
+- **4)** kryteria przekrojowe – w zakresie przybliżonych progów ustalonych przez Komisję Europejską i państwa członkowskie Unii Europejskiej – obejmujące:
+    - **a)** kryterium ofiar w ludziach – oceniane w odniesieniu do ewentualnej liczby ofiar śmiertelnych lub liczby rannych,
+    - **b)** kryterium skutków ekonomicznych – oceniane w odniesieniu do znaczenia strat ekonomicznych lub pogorszenia jakości towarów lub usług, w tym potencjalnych skutków ekologicznych,
+    - **c)** kryterium skutków społecznych – oceniane w odniesieniu do wpływu na zaufanie opinii publicznej, cierpień fizycznych osób i zakłócenia codziennego życia, w tym utraty podstawowych usług.
+
+2. Infrastruktura krytyczna jest uznawana za potencjalną europejską infrastrukturę krytyczną po spełnieniu łącznie kolejnych wymogów, o których mowa w ust. 1 pkt 1–3 oraz co najmniej jednego z wymogów, o których mowa w ust. 1 pkt
+
+4.
+
+**Art. 6b.**
+
+1. O potencjalnej europejskiej infrastrukturze krytycznej dyrektor Rządowego Centrum Bezpieczeństwa informuje właściwe organy państw członkowskich Unii Europejskiej, na które ta infrastruktura może mieć istotny wpływ. Dyrektor Rządowego Centrum Bezpieczeństwa podaje nazwę i lokalizację potencjalnej europejskiej infrastruktury krytycznej i przyczyny jej wyznaczenia.
+
+2. W celu wyznaczenia europejskiej infrastruktury krytycznej oraz dokładnych progów kryteriów, o których mowa w art. 6a ust. 1 pkt 1 i 4, dyrektor Rządowego Centrum Bezpieczeństwa prowadzi rozmowy z właściwymi organami państw członkowskich Unii Europejskiej:
+
+- **1)** na które potencjalna europejska infrastruktura krytyczna zlokalizowana na terytorium Rzeczypospolitej Polskiej może mieć istotny wpływ;
+- **2)** na terytorium których jest zlokalizowana potencjalna europejska infrastruktura krytyczna mogąca mieć istotny wpływ na Rzeczpospolitą Polską.
+
+3. Dyrektor Rządowego Centrum Bezpieczeństwa w rozmowach, o których mowa w ust. 2, przedstawia stanowisko uzgodnione z ministrami i kierownikami urzędów centralnych odpowiedzialnych za systemy, o których mowa w art. 3 pkt 2a, których przedstawiciele mogą brać udział w rozmowach.
+
+4. W przypadku gdy infrastruktura zlokalizowana na terytorium innego państwa członkowskiego Unii Europejskiej, która nie została rozpoznana jako europejska infrastruktura krytyczna, może mieć istotny wpływ na Rzeczpospolitą Polską, dyrektor Rządowego Centrum Bezpieczeństwa informuje Komisję Europejską o zamiarze przeprowadzenia rozmów na ten temat.
+
+5. Na podstawie ustaleń będących wynikiem rozmów, o których mowa w ust. 2, Rada Ministrów wyznacza, w drodze uchwały, z zakresu potencjalnej europejskiej infrastruktury krytycznej zlokalizowanej na terytorium Rzeczypospolitej Polskiej, europejską infrastrukturę krytyczną.
+
+6. Właściwym organom państw członkowskich Unii Europejskiej, na które ma wpływ europejska infrastruktura krytyczna zlokalizowana na terytorium Rzeczypospolitej Polskiej, dyrektor Rządowego Centrum Bezpieczeństwa przekazuje dane identyfikujące europejską infrastrukturę krytyczną, w tym jej nazwę i lokalizację.
+
+7. Dane, o których mowa w ust. 1 i 6, oraz uchwała, o której mowa w ust. 5, mają charakter niejawny.
+
+**Art. 6c.**
+
+1. Dyrektor Rządowego Centrum Bezpieczeństwa przekazuje Komisji Europejskiej:
+
+- **1)** co roku informacje o liczbie infrastruktur krytycznych:
+    - **a)** w odniesieniu do których prowadzono z właściwymi organami państw członkowskich Unii Europejskiej rozmowy na temat progów kryteriów przekrojowych, umożliwiających wyznaczenie europejskiej infrastruktury krytycznej zlokalizowanej na terytorium Rzeczypospolitej Polskiej,
+    - **b)** zlokalizowanych na terytorium Rzeczypospolitej Polskiej wchodzących w skład europejskiej infrastruktury krytycznej w poszczególnych systemach, o których mowa w art. 3 pkt 2a, oraz o liczbie państw członkowskich Unii Europejskiej, na które ma ona wpływ;
+
+- **2)** co 2 lata sprawozdanie zawierające ogólne dane dotyczące rodzajów ryzyka, zagrożeń i słabych punktów stwierdzonych w każdym z systemów, w których została wyznaczona europejska infrastruktura krytyczna zlokalizowana na terytorium Rzeczypospolitej Polskiej.
+
+2. Informacje, o których mowa w ust. 1, mają charakter niejawny.
+
+**Art. 6d.**
+
+1. W przypadku pracownika zatrudnionego na stanowisku umożliwiającym dostęp do informacji o bezpieczeństwie obiektu infrastruktury krytycznej i osoby ubiegającej się o zatrudnienie na tym stanowisku, operator infrastruktury krytycznej żąda od pracownika i tej osoby przedłożenia informacji dotyczących karalności, w tym informacji, czy ich dane osobowe są zgromadzone w Krajowym Rejestrze Karnym.
+
+2. Operator infrastruktury krytycznej żąda od pracownika danych biometrycznych w postaci odcisków palców, głosu, obrazu rogówki lub sieci żył palców, jeżeli podanie takich danych jest konieczne ze względu na kontrolę dostępu do informacji o bezpieczeństwie obiektu infrastruktury krytycznej i pomieszczeń.
+
+3. Operator infrastruktury krytycznej przechowuje informacje i dane, o których mowa w ust. 1 i 2, wyłącznie przez okres zatrudnienia pracownika, którego te dane dotyczą.
 
 **Art. 7.**
 
@@ -128,330 +237,611 @@ domain: null
 
 3. Decyzje podjęte przez ministra właściwego do spraw wewnętrznych podlegają rozpatrzeniu na najbliższym posiedzeniu Rady Ministrów.
 
-4. Prezes Rady Ministrów, drodze zarządzenia niepodlegającego ogłoszeniu, określa wykaz zadań iprocedur NSPK, wtym sposoby itryb ich uruchamiania, zwany dalej Ńwykazem przedsięwzięć NSPK”.
+4. Prezes Rady Ministrów, z zachowaniem przepisów o ochronie informacji niejawnych, określa, w drodze zarządzenia, wykaz przedsięwzięć i procedur systemu zarządzania kryzysowego z uwzględnieniem zobowiązań wynikających z członkostwa w Organizacji Traktatu Północnoatlantyckiego oraz organy odpowiedzialne za ich uruchamianie.
+
+**Art. 7a.**
+
+1. W sytuacji kryzysowej Prezes Rady Ministrów może, z własnej inicjatywy albo na wniosek ministra wydawać polecenia obowiązujące:
+
+- **1)** organy administracji rządowej;
+- **2)** państwowe osoby prawne oraz państwowe jednostki organizacyjne posiadające osobowość prawną;
+- **3)** organy samorządu terytorialnego, samorządowe osoby prawne oraz samorządowe jednostki organizacyjne nieposiadające osobowości prawnej;
+- **4)** osoby prawne, inne niż określone w pkt 2, i jednostki organizacyjne nieposiadające osobowości prawnej oraz przedsiębiorców.
+
+2. W sytuacji kryzysowej minister kierujący działem administracji rządowej, zwany dalej „ministrem wydającym polecenie”, może wydawać w zakresie swojego działania, określonego zgodnie z przepisami ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370), polecenia obowiązujące:
+
+- **1)** podległe mu lub przez niego nadzorowane organy administracji rządowej;
+- **2)** podległe mu lub przez niego nadzorowane państwowe osoby prawne oraz państwowe jednostki organizacyjne posiadające osobowość prawną;
+- **3)** spółki, w których prawa z akcji Skarbu Państwa wykonuje:
+    - **a)** minister wydający polecenie,
+    - **b)** państwowa osoba prawna lub państwowa jednostka organizacyjna posiadająca osobowość prawną, która jest podległa ministrowi wydającemu polecenie lub jest przez niego nadzorowana,
+    - **c)** inna spółka, w której prawa z akcji Skarbu Państwa wykonuje minister wydający polecenie.
+
+3. Polecenia, o których mowa w ust. 1 i 2, mogą być wydawane w celu:
+
+- **1)** przejęcia kontroli nad sytuacją kryzysową, której wpływ na poziom bezpieczeństwa ludzi, mienia lub środowiska, jest szczególnie negatywny;
+- **2)** zapewnienia właściwego funkcjonowania, ochrony, wzmocnienia lub odbudowy infrastruktury krytycznej;
+- **3)** usunięcia skutków sytuacji kryzysowej, o której mowa w pkt 1.
+
+4. Polecenia, o których mowa w ust. 1 i 2, nie mogą dotyczyć rozstrzygnięć co do istoty sprawy załatwianej w drodze decyzji administracyjnej, a także nie mogą dotyczyć czynności operacyjno-rozpoznawczych, dochodzeniowo-śledczych oraz czynności z zakresu ścigania wykroczeń i przestępstw.
+
+5. Wykonywanie poleceń, o których mowa w ust. 1, może być finansowane z budżetu państwa lub innych źródeł określonych na podstawie odrębnych przepisów. Polecenia, o których mowa w ust. 2, są finansowane z części budżetowej, której dysponentem jest minister wydający polecenie.
+
+6. W przypadku wydania polecenia, o którym mowa w ust. 1, minister właściwy do spraw finansów publicznych może utworzyć w celu finansowania nową rezerwę celową i przenieść do tej rezerwy kwoty wydatków zablokowanych na podstawie art. 177 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
+
+7. Wniosek, o którym mowa w ust. 1, zawiera co najmniej:
+
+- **1)** wskazanie podmiotu, wobec którego ma być wydane polecenie;
+- **2)** określenie zakresu przedmiotowego polecenia;
+- **3)** szczegółowe uzasadnienie wniosku, w tym określenie celu, o którym mowa w ust. 3;
+- **4)** określenie szacunkowych kosztów wykonania polecenia;
+- **5)** wskazanie źródeł finansowania wykonania polecenia;
+- **6)** określenie okresu, w jakim ma obowiązywać polecenie;
+- **7)** wskazanie ministra właściwego w sprawach wykonania oraz nadzorowania wykonania polecenia.
+
+8. W przypadku, gdy wniosek nie spełnia wymogów, o których mowa w ust. 7, Prezes Rady Ministrów może wystąpić do ministra składającego wniosek o jego uzupełnienie lub wyjaśnienie treści.
+
+9. Polecenia, o których mowa w ust. 1 i 2, są wydawane po uzyskaniu opinii Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej i podlegają natychmiastowemu wykonaniu z chwilą ich doręczenia.
+
+10. Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej wydaje opinię o projekcie polecenia niezwłocznie, nie później jednak niż po upływie 3 dni od dnia przekazania projektu polecenia.
+
+11. W uzasadnionych przypadkach polecenia, o których mowa w ust. 1, mogą być wydane bez wystąpienia o opinię, o której mowa w ust. 9, lub przed jej uzyskaniem.
+
+12. Do wydawania poleceń, o których mowa w ust. 1 i 2, ich zmiany oraz uchylenia, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), z wyjątkiem przepisów dotyczących doręczeń oraz sprostowań.
+
+13. Polecenia, o których mowa w ust. 1 i 2, zawierają w szczególności:
+
+- **1)** podstawę prawną wydania polecenia;
+- **2)** wskazanie na czyj wniosek polecenie jest wydawane, w przypadku poleceń wydawanych na wniosek;
+- **3)** wskazanie podmiotu, wobec którego polecenie jest wydawane;
+- **4)** określenie zakresu przedmiotowego polecenia;
+- **5)** wskazanie źródeł finansowania wykonania polecenia;
+- **6)** określenie okresu, w jakim ma obowiązywać polecenie;
+- **7)** wskazanie ministra właściwego w sprawach wykonania oraz nadzorowania wykonania polecenia, w przypadku poleceń, o których mowa w ust. 1.
+
+14. Do zmiany i uchylenia poleceń, o których mowa w ust. 1 i 2, stosuje się odpowiednio przepisy dotyczące wydawania poleceń.
+
+15. Polecenia, o których mowa w ust. 1, mogą być uchylone lub zmieniane, przez Prezesa Rady Ministrów, z własnej inicjatywy, na wniosek ministra lub innego podmiotu objętego poleceniem, o którym mowa w ust. 1.
+
+16. Wniosek podmiotu, o którym mowa w ust. 15, o zmianę lub uchylenie polecenia składany jest za pośrednictwem właściwego ministra, o którym mowa w ust. 1.
+
+17. Prezes Rady Ministrów może wystąpić o opinię w sprawie wniosku o uchylenie lub zmianę polecenia do ministra, o którym mowa w ust. 1 oraz w ust. 13 pkt 7.
+
+18. Od poleceń, o których mowa w ust. 1 i 2, oraz od ich uchylenia lub zmiany przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935). Stronami postępowania mogą być skarżący, podmiot objęty poleceniem lub minister, który złożył wniosek o wydanie, zmianę lub uchylenie polecenia.
+
+19. Do ministra, który złożył wniosek o wydanie polecenia, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi dotyczące organu, którego działanie jest przedmiotem skargi.
+
+20. Zadania nałożone w trybie, o którym mowa w ust. 1, są realizowane przez jednostki samorządu terytorialnego jako zadania zlecone z zakresu administracji rządowej.
+
+21. Minister wydający polecenie niezwłocznie informuje o wydaniu polecenia Prezesa Rady Ministrów, wskazując co najmniej:
+
+- **1)** adresata polecenia;
+- **2)** treść polecenia;
+- **3)** datę wydania polecenia;
+- **4)** treść opinii Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej.
+
+**Art. 7b.**
+
+1. Wykonywanie zadań objętych poleceniem, o którym mowa w art. 7a ust. 1, wydanym w stosunku do podmiotów, o których mowa w art. 7a ust. 1 pkt 4 oraz innych podmiotów, o ile przewiduje to polecenie, następuje na podstawie umowy zawartej z podmiotem wskazanym w poleceniu przez ministra wskazanego w poleceniu i jest finansowane z budżetu państwa lub innych źródeł wskazanych w poleceniu.
+
+2. Wykonywanie zadań objętych poleceniem, o którym mowa w art. 7a ust. 2, wydanym w stosunku do podmiotów, o których mowa w art. 7a ust. 2 pkt 3, następuje na podstawie umowy zawartej z podmiotem wskazanym w poleceniu przez ministra wydającego polecenie.
+
+3. W przypadku niezawarcia umowy, o której mowa w ust. 1 lub 2, zadania objęte poleceniem są wykonywane na podstawie polecenia, o którym mowa w art. 7a ust. 1 lub 2. Art. 7ba. (uchylony) Art. 7bb. (uchylony) Art. 7bc. 1. Jeżeli w stosunku do tego samego podmiotu wydano polecenie zarówno na podstawie art. 7a ust. 1, jak i 2, a wykonanie ich obu jest niemożliwe, znacząco utrudnione lub uniemożliwiłoby prawidłowe funkcjonowanie podmiotu będącego adresatem polecenia, wiążące wobec podmiotu jest polecenie wydane na podstawie art. 7a ust. 1.
+
+2. W sytuacji, o której mowa w ust. 1, Prezes Rady Ministrów, z własnej inicjatywy lub na wniosek podmiotu będącego adresatem poleceń, uchyla polecenie wydane na podstawie art. 7a ust. 2.
+
+**Art. 7c.**
+
+1. Do zamówień na usługi lub dostawy niezbędne do realizacji poleceń, o których mowa w art. 7a ust. 1 oraz 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320).
+
+2. Zamawiający, w terminie 7 dni od dnia udzielenia zamówienia, o którym mowa w ust. 1, zamieszcza w Biuletynie Zamówień Publicznych informację o udzieleniu tego zamówienia, w której podaje:
+
+- **1)** nazwę (firmę) i adres siedziby zamawiającego;
+- **2)** datę i miejsce zawarcia umowy lub informację o zawarciu umowy drogą elektroniczną;
+- **3)** opis przedmiotu umowy, z wyszczególnieniem odpowiednio ilości rzeczy lub innych dóbr oraz zakresu usług;
+- **4)** cenę albo cenę maksymalną, jeżeli cena nie jest znana w chwili zamieszczenia ogłoszenia;
+- **5)** wskazanie okoliczności faktycznych uzasadniających udzielenie zamówienia bez zastosowania przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych;
+- **6)** nazwę (firmę) podmiotu albo imię i nazwisko osoby, z którymi została zawarta umowa.
 
 **Art. 8.**
 
-1. Przy Radzie Ministrów tworzy się Rządowy Zespół Zarządzania Kryzysowego, zwany dalej ŃZespołem”, jako organ opiniodawczo-doradczy właś2. W skład Zespołu wchodzą: 4. Prezydent Rzeczypospolitej Polskiej może skierować do prac Zespołu, na prawach członka, Szefa
+1. Przy Radzie Ministrów tworzy się Rządowy Zespół Zarządzania Kryzysowego, zwany dalej „Zespołem”, jako organ opiniodawczo-doradczy właściwy w sprawach inicjowania i koordynowania działań podejmowanych w zakresie zarządzania kryzysowego.
 
-- **1)** Prezes Rady Ministrów przewodniczący; Biura Bezpieczeństwa Narodowego lub innego przed2) Minister Obrony Narodowej i minister właściwy stawiciela. do spraw wewnętrznych zastępcy przewodniczącego; 5. Przewodniczący może zapraszać do udziału posiedzeniach Zespołu, na prawach członka, inne
-- **3)** Minister Spraw Zagranicznych; osoby.
-- **4)** Minister Koordynator Służb Specjalnych jeżeli został powołany. 6. W przypadku nieobecności przewodniczącego, pracami Zespołu kieruje wyznaczony przez niego za3. W posiedzeniach Zespołu, na prawach członka, stępca albo członek Zespołu, którego właściwości biorą udział wyznaczone przez przewodniczącego, wynikającej z kierowania danym działem adminizależności od potrzeb, następujące organy admini- stracji rządowej pozostaje rodzaj zaistniałej sytuacji stracji rządowej: kryzysowej.
-- **1)** ministrowie kierujący działami administracji rzą- 7. Członkowie Zespołu mogą wyznaczać do udziadowej: łu jego pracach swoich przedstawicieli: kaniowa, 2) ministrowie sekretarza lub podsekretarza stanu;
-    - **a)** administracja publiczna, 1) Prezes Rady Ministrów wiceprezesa Rady Minib) budownictwo, gospodarka przestrzenna imiesz- strów;
+2. W skład Zespołu wchodzą:
+
+- **1)** Prezes Rady Ministrów – przewodniczący;
+- **2)** Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych – zastępcy przewodniczącego;
+- **2a)** minister właściwy do spraw administracji publicznej;
+- **3)** Minister Spraw Zagranicznych;
+- **4)** Minister Koordynator Służb Specjalnych – jeżeli został powołany.
+
+3. W posiedzeniach Zespołu, na prawach członka, biorą udział wyznaczone przez przewodniczącego, w zależności od potrzeb, następujące organy administracji rządowej:
+
+- **1)** ministrowie kierujący działami administracji rządowej:
+    - **a)** (uchylona) aa) aktywa państwowe,
+    - **b)** budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo,
     - **c)** finanse publiczne,
-
-- **3)** organy, októrych mowa wust. 3 pkt 2—14 swod) gospodarka, jego zastępcę.
+    - **d)** gospodarka,
     - **e)** gospodarka morska,
-    - **f)** gospodarka wodna, 8. Sekretarzem Zespołu jest dyrektor Rządowego Centrum Bezpieczeństwa, o którym mowa art. 10.
+    - **f)** gospodarka wodna,
     - **g)** instytucje finansowe,
-    - **h)** informatyzacja, Art. 9. 1. Do zadań Zespołu należy:
-    - **i)** kultura i ochrona dziedzictwa narodowego, 1) przygotowywanie propozycji użycia sił i środków
-    - **j)** łączność, niezbędnych do opanowania sytuacji kryzysowych;
+    - **h)** informatyzacja,
+    - **i)** kultura i ochrona dziedzictwa narodowego,
+    - **j)** łączność,
     - **k)** oświata i wychowanie,
-
-- **2)** doradzanie zakresie koordynacji działań orgal) rolnictwo, nów administracji rządowej, instytucji państwom) sprawiedliwość, wych i służb sytuacjach kryzysowych;
-    - **n)** środowisko, 3) opiniowanie sprawozdań końcowych zdziałań poo) transport, dejmowanych związku z zarządzaniem kryzysowym;
+    - **l)** rolnictwo,
+    - **m)** sprawiedliwość,
+    - **n)** środowisko,
+    - **o)** transport,
     - **p)** zdrowie,
-    - **r)** praca i zabezpieczenie społeczne; 4) opiniowanie potrzeb wzakresie odtwarzania infrastruktury lub przywrócenia jej pierwotnego cha2) Główny Geodeta Kraju; rakteru;
+    - **q)** praca,
+    - **r)** zabezpieczenie społeczne,
+    - **s)** (uchylona)
+    - **t)** energia,
+    - **u)** gospodarka surowcami energetycznymi,
+    - **v)** żegluga śródlądowa,
+    - **w)** klimatu;
 
-- **3)** Główny Inspektor Sanitarny; 5) opiniowanie i przedkładanie do zatwierdzenia Ra4) Główny Lekarz Weterynarii; dzie Ministrów krajowego planu reagowania kryzysowego;
+- **2)** Główny Geodeta Kraju;
+- **2a)** Główny Inspektor Ochrony Środowiska;
+- **3)** Główny Inspektor Sanitarny;
+- **4)** Główny Lekarz Weterynarii;
 - **5)** Komendant Główny Państwowej Straży Pożarnej;
-- **6)** opiniowanie i przedkładanie do zatwierdzenia Ra6) Komendant Główny Policji; dzie Ministrów krajowego i wojewódzkich planów
-- **7)** Komendant Główny Straży Granicznej; ochrony infrastruktury krytycznej;
-- **8)** Prezes Państwowej Agencji Atomistyki; 7) opiniowanie projektów zarządzeń Prezesa Rady Ministrów dotyczących wykazu przedsięwzięć
-- **9)** Prezes Urzędu Lotnictwa Cywilnego; NSPK;
-- **10)** Szef Agencji Bezpieczeństwa Wewnętrznego; 8) opiniowanie projektów decyzji Rady Ministrów do11) Szef Agencji Wywiadu; tyczących wprowadzania przedsięwzięć z wykazu przedsięwzięć NSPK;
-- **12)** Szef Obrony Cywilnej Kraju;
+- **6)** Komendant Główny Policji;
+- **7)** Komendant Główny Straży Granicznej;
+- **7a)** (uchylony)
+- **8)** Prezes Państwowej Agencji Atomistyki;
+- **9)** Prezes Urzędu Lotnictwa Cywilnego;
+- **10)** Szef Agencji Bezpieczeństwa Wewnętrznego;
+- **11)** Szef Agencji Wywiadu;
+- **12)** Szef Obrony Cywilnej;
+- **13)** Szef Służby Kontrwywiadu Wojskowego;
+- **14)** Szef Służby Wywiadu Wojskowego;
+- **15)** Pełnomocnik Rządu do Spraw Cyberbezpieczeństwa.
 
-2. Zespół realizuje, do czasu wprowadzenia stanu wojennego i uruchomienia systemu kierowania obroną państwa, zadania wynikające z Planu Reagowania Obronnego Rzeczypospolitej Polskiej, będącego dokumentem wykonawczym do Polityczno-Strategicznej Dyrektywy Obronnej Rzeczypospolitej Polskiej, o której mowa art. 4a ust. 1 pkt 2 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. 241, poz.2416, z póên. zm. ).
+4. Prezydent Rzeczypospolitej Polskiej może skierować do prac Zespołu, na prawach członka, Szefa Biura Bezpieczeństwa Narodowego lub innego przedstawiciela.
 
-3. Prezes Rady Ministrów określi, drodze zarządzenia, organizację i tryb pracy Zespołu, z uwzględnieniem rozwiązań pozwalających na niezwłoczne zebranie się Zespołu i zapewnienie uzyskania pełnej informacji ozdarzeniach będących przedmiotem posiedzenia.
+5. Przewodniczący może zapraszać do udziału w posiedzeniach Zespołu, na prawach członka, inne osoby.
+
+6. W przypadku nieobecności przewodniczącego, pracami Zespołu kieruje wyznaczony przez niego zastępca albo członek Zespołu, w którego właściwości – wynikającej z kierowania danym działem administracji rządowej – pozostaje rodzaj zaistniałej sytuacji kryzysowej.
+
+7. Członkowie Zespołu mogą wyznaczać do udziału w jego pracach swoich przedstawicieli:
+
+- **1)** Prezes Rady Ministrów – wiceprezesa Rady Ministrów;
+- **2)** ministrowie – sekretarza lub podsekretarza stanu;
+- **3)** organy, o których mowa w ust. 3 pkt 2–14 – swojego zastępcę.
+
+8. (uchylony)
+
+**Art. 9.**
+
+1. Do zadań Zespołu należy:
+
+- **1)** przygotowywanie propozycji użycia sił i środków niezbędnych do opanowania sytuacji kryzysowych;
+- **2)** doradzanie w zakresie koordynacji działań organów administracji rządowej, instytucji państwowych i służb w sytuacjach kryzysowych;
+- **3)** opiniowanie sprawozdań końcowych z działań podejmowanych w związku z zarządzaniem kryzysowym;
+- **4)** opiniowanie potrzeb w zakresie odtwarzania infrastruktury lub przywrócenia jej pierwotnego charakteru;
+- **5)** opiniowanie i przedkładanie Radzie Ministrów Krajowego Planu Zarządzania Kryzysowego;
+- **6)** (uchylony)
+- **7)** opiniowanie projektu zarządzenia Prezesa Rady Ministrów, o którym mowa w art. 7 ust. 4.
+- **8)** (uchylony)
+- **9)** (uchylony)
+
+2. (uchylony)
+
+3. Prezes Rady Ministrów określi, w drodze zarządzenia, organizację i tryb pracy Zespołu, z uwzględnieniem rozwiązań pozwalających na niezwłoczne zebranie się Zespołu i zapewnienie uzyskania pełnej informacji o zdarzeniach będących przedmiotem posiedzenia.
 
 **Art. 10.**
 
-1. Tworzy się Rządowe Centrum Bezpieczeństwa, zwane dalej ŃCentrum”, będące państwową jednostką budżetową podległą Prezesowi Rady Ministrów.
+1. Tworzy się Rządowe Centrum Bezpieczeństwa, zwane dalej „Centrum”, będące państwową jednostką budżetową podległą Prezesowi Rady Ministrów.
 
-2. Centrum kieruje dyrektor powoływany iodwoływany przez Prezesa Rady Ministrów.
+2. Centrum kieruje dyrektor powoływany i odwoływany przez Prezesa Rady Ministrów.
 
-- **2)** monitorowanie potencjalnych zagrożeń;
-- **3)** przygotowanie uruchamiania, przypadku zaistnienia zagrożeń, procedur związanych z zarządzaniem kryzysowym;
-- **4)** przygotowywanie projektów opinii i stanowisk Zespołu;
-- **5)** przygotowywanie i obsługa techniczno-organizacyjna prac Zespołu;
-- **6)** współpraca z komórkami i jednostkami organizacyjnymi Organizacji Traktatu Północnoatlantyckiego iUnii Europejskiej oraz innych organizacji międzynarodowych;
-- **7)** organizowanie i prowadzenie szkoleń i ćwiczeń z zakresu zarządzania kryzysowego oraz udział ćwiczeniach krajowych i międzynarodowych;
-- **8)** zapewnienie obiegu informacji między krajowymi i zagranicznymi organami i strukturami zarządza3. Zastępców dyrektora Centrum powołuje i odwołuje Prezes Rady Ministrów, na wniosek dyrektora Centrum.
+2a. Dyrektor Centrum pełni funkcję sekretarza Zespołu, o którym mowa w art. 8 ust. 1.
 
-4. Prezes Rady Ministrów określi, drodze rozporządzenia, organizację i tryb działania Centrum, uwzględniając potrzebę ciągłości funkcjonowania Centrum.
+3. Zastępców dyrektora Centrum powołuje i odwołuje Prezes Rady Ministrów, na wniosek dyrektora Centrum.
+
+4. Prezes Rady Ministrów określi, w drodze rozporządzenia, organizację i tryb działania Centrum, uwzględniając potrzebę ciągłości funkcjonowania Centrum.
 
 **Art. 11.**
 
-1. Centrum zapewnia obsługę Rady Ministrów, Prezesa Rady Ministrów i Zespołu sprawach zarządzania kryzysowego.
+1. Centrum zapewnia obsługę Rady Ministrów, Prezesa Rady Ministrów, Zespołu i ministra właściwego do spraw wewnętrznych w sprawach zarządzania kryzysowego oraz pełni funkcję krajowego centrum zarządzania kryzysowego.
+
+1a. Centrum zapewnia obsługę Zespołu do spraw Incydentów Krytycznych, o którym mowa w art. 36 ust. 1 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
 
 2. Do zadań Centrum należy:
 
-- **1)** planowanie cywilne, tym: nia kryzysowego;
-    - **a)** przedstawianie szczegółowych sposobów iśrodków reagowania na zagrożenia oraz ograniczania ich skutków,
-    - **b)** opracowywanie i aktualizowanie krajowego planu reagowania kryzysowego,
+- **1)** planowanie cywilne, w tym:
+    - **a)** przedstawianie szczegółowych sposobów i środków reagowania na zagrożenia oraz ograniczania ich skutków,
+    - **b)** opracowywanie i aktualizowanie Krajowego Planu Zarządzania Kryzysowego, we współpracy z właściwymi komórkami organizacyjnymi urzędów obsługujących ministrów oraz kierowników urzędów centralnych,
     - **c)** analiza i ocena możliwości wystąpienia zagrożeń lub ich rozwoju,
     - **d)** gromadzenie informacji o zagrożeniach i analiza zebranych materiałów,
     - **e)** wypracowywanie wniosków i propozycji zapobiegania i przeciwdziałania zagrożeniom,
-    - **f)** planowanie wykorzystania Sił Zbrojnych Rzeczypospolitej Polskiej do wykonywania zadań, o których mowa art. 25 ust. 3,
+    - **f)** planowanie wykorzystania Sił Zbrojnych Rzeczypospolitej Polskiej do wykonywania zadań, o których mowa w art. 25 ust. 3,
     - **g)** planowanie wsparcia przez organy administracji publicznej realizacji zadań Sił Zbrojnych Rzeczypospolitej Polskiej;
 
-- **9)** realizacja zadań stałego dyżuru wramach gotowości obronnej państwa;
-- **10)** realizacja zadań z zakresu przeciwdziałania, zapobiegania i likwidacji skutków zdarzeń o charakterze terrorystycznym;
-- **11)** realizacja zadań planistycznych i programowych zzakresu ochrony infrastruktury krytycznej, wtym opracowywanie i aktualizacja krajowego planu ochrony infrastruktury krytycznej oraz przedkładanie Zespołowi wojewódzkich planów ochrony infrastruktury krytycznej, a także współpraca, jako krajowy punkt kontaktowy, z instytucjami Unii Europejskiej i krajami członkowskimi zakresie ochrony infrastruktury krytycznej;
-- **12)** przygotowywanie projektów decyzji Rady Ministrów dotyczących wprowadzenia przedsięwzięć z wykazu przedsięwzięć NSPK;
-- **13)** przygotowywanie projektów zarządzeń Prezesa Rady Ministrów dotyczących wykazu przedsięwzięć NSPK.
+- **2)** monitorowanie potencjalnych zagrożeń;
+- **2a)** uzgadnianie planów zarządzania kryzysowego sporządzanych przez ministrów kierujących działami administracji rządowej i kierowników urzędów centralnych;
+- **3)** przygotowanie uruchamiania, w przypadku zaistnienia zagrożeń, procedur związanych z zarządzaniem kryzysowym;
+- **4)** przygotowywanie projektów opinii i stanowisk Zespołu;
+- **5)** przygotowywanie i obsługa techniczno-organizacyjna prac Zespołu;
+- **5a)** zapewnienie koordynacji polityki informacyjnej organów administracji publicznej w czasie sytuacji kryzysowej;
+- **6)** współdziałanie z podmiotami, komórkami i jednostkami organizacyjnymi Organizacji Traktatu Północnoatlantyckiego i Unii Europejskiej oraz innych organizacji międzynarodowych, odpowiedzialnymi za zarządzanie kryzysowe i ochronę infrastruktury krytycznej;
+- **7)** organizowanie, prowadzenie i koordynacja szkoleń i ćwiczeń z zakresu zarządzania kryzysowego oraz udział w ćwiczeniach krajowych i międzynarodowych;
+- **8)** zapewnienie obiegu informacji między krajowymi i zagranicznymi organami i strukturami zarządzania kryzysowego;
+- **9)** realizacja zadań stałego dyżuru w ramach gotowości obronnej państwa;
+- **10)** realizacja zadań z zakresu zapobiegania, przeciwdziałania i usuwania skutków zdarzeń o charakterze terrorystycznym;
+- **10a)** współdziałanie z Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie zapobiegania, przeciwdziałania i usuwania skutków zdarzeń o charakterze terrorystycznym;
+- **11)** realizacja zadań planistycznych i programowych z zakresu ochrony infrastruktury krytycznej oraz europejskiej infrastruktury krytycznej, w tym opracowywanie i aktualizacja załącznika funkcjonalnego do Krajowego Planu Zarządzania Kryzysowego dotyczącego ochrony infrastruktury krytycznej, a także współpraca, jako krajowy punkt kontaktowy, z instytucjami Unii Europejskiej i Organizacji Traktatu Północnoatlantyckiego oraz ich krajami członkowskimi w zakresie ochrony infrastruktury krytycznej;
+- **12)** (uchylony)
+- **13)** przygotowanie projektu zarządzenia Prezesa Rady Ministrów, o którym mowa w art. 7 ust. 4;
+- **14)** informowanie, zgodnie z właściwością, podmiotów, o których mowa w art. 8 ust. 2 i 3, o potencjalnych zagrożeniach oraz działaniach podjętych przez właściwe organy;
+- **15)** współdziałanie z centrami zarządzania kryzysowego organów administracji publicznej.
+
+2a. Koszty związane z funkcjonowaniem Centrum są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych.
 
 3. Rada Ministrów lub Prezes Rady Ministrów mogą zlecić Centrum dodatkowe zadania związane z zarządzaniem kryzysowym.
+
+**Art. 11a.** Centrum informuje Komisję Europejską i państwa członkowskie Unii Europejskiej o środkach zastosowanych w sytuacji kryzysowej w celu zabezpieczenia prawidłowego działania publicznej sieci telekomunikacyjnej oraz stacji nadawczych i odbiorczych używanych do zapewnienia bezpieczeństwa, w zakresie dotyczącym systemu łączności i sieci teleinformatycznych.
 
 **Art. 12.**
 
 1. Ministrowie kierujący działami administracji rządowej oraz kierownicy urzędów centralnych realizują, zgodnie z zakresem swojej właściwości, zadania dotyczące zarządzania kryzysowego.
 
-2. Ministrowie i kierownicy, o których mowa ust.1, tworzą swoich urzędach zespoły zarządzania kryzysowego, do zadań których należy:
+2. Ministrowie i kierownicy, o których mowa w ust. 1, opracowują plany zarządzania kryzysowego, w których w szczególności uwzględnia się:
 
-- **1)** realizacja zadań z zakresu planowania cywilnego: ———————
-    - **b)** wypracowywanie wniosków i propozycji dotyczących zapobiegania i przeciwdziałania zagrożeniom,
-    - **c)** przedstawianie szczegółowych sposobów iśrodków reagowania na zagrożenie oraz ograniczania ich skutków;
+- **1)** analizę i ocenę możliwości wystąpienia zagrożeń, w tym dla infrastruktury krytycznej uwzględnionej w wykazie, o którym mowa w art. 5b ust. 7 pkt 1;
+- **2)** szczegółowe sposoby i środki reagowania na zagrożenia oraz ograniczania i likwidacji ich skutków;
+- **3)** organizację monitoringu zagrożeń i realizację zadań stałego dyżuru w ramach podwyższania gotowości obronnej państwa;
+- **4)** organizację realizacji zadań z zakresu ochrony infrastruktury krytycznej.
 
-- **2)** realizacja zadań stałego dyżuru wramach gotowości obronnej państwa;
-- **3)** wykonywanie zadań z wykazu przedsięwzięć NSPK;
-- **4)** realizacja zadań z zakresu ochrony infrastruktury krytycznej.
+2a. Plany, o których mowa w ust. 2, są uzgadniane z dyrektorem Centrum i stanowią załączniki funkcjonalne do Krajowego Planu Zarządzania Kryzysowego.
 
-3. W skład zespołów, o których mowa ust. 2, wchodzą kierownicy właściwych komórek organizacyjnych ministerstwa lub urzędu, a także inne osoby wskazane przez ministrów lub kierowników urzędów centralnych.
+2b. Ministrowie i kierownicy, o których mowa w ust. 1, na potrzeby realizacji zadań z zakresu zarządzania kryzysowego tworzą zespoły zarządzania kryzysowego, w skład których wchodzą kierujący właściwymi komórkami organizacyjnymi urzędu obsługującego ministra lub kierownika, o których mowa w ust. 1, a także inne osoby przez nich wskazane.
 
-4. Ministrowie i kierownicy, o których mowa ust.1, określają, drodze zarządzenia, organizację, skład oraz miejsce i tryb pracy zespołów zarządzania kryzysowego.
+2c. Do zadań zespołów, o których mowa w ust. 2b, należy:
+
+- **1)** dokonywanie okresowej oceny zagrożeń na potrzeby Raportu;
+- **2)** opiniowanie projektów planów zarządzania kryzysowego, o których mowa w ust. 2;
+- **3)** opiniowanie wykazu obiektów, instalacji i urządzeń wchodzących w skład infrastruktury krytycznej w ramach swoich właściwości;
+- **4)** wypracowywanie wniosków i propozycji dotyczących zapobiegania i przeciwdziałania zagrożeniom.
+
+3. (uchylony)
+
+4. Ministrowie i kierownicy, o których mowa w ust. 1, określają, w drodze zarządzenia, organizację, skład oraz miejsce i tryb pracy zespołów zarządzania kryzysowego.
+
+**Art. 12a.** (uchylony)
 
 **Art. 13.**
 
-1. Ministrowie i centralne organy administracji rządowej, do których zakresu działania należą sprawy związane z zapewnieniem bezpieczeństwa zewnętrznego, wewnętrznego, tym ochrony ludności, lub gospodarczych podstaw bezpieczeństwa państwa, urzędach zapewniających ich obsługę, tworzą centra zarządzania kryzysowego.
+1. Ministrowie i centralne organy administracji rządowej, do których zakresu działania należą sprawy związane z zapewnieniem bezpieczeństwa narodowego, w tym ochrony ludności lub gospodarczych podstaw bezpieczeństwa państwa, tworzą centra zarządzania kryzysowego.
 
-2. Do zadań centrów, októrych mowa wust. 1, należy:
+2. Do zadań centrów, o których mowa w ust. 1, należy:
 
-- **1)** pełnienie całodobowego dyżuru celu zapewnienia przepływu informacji na potrzeby zarządzania kryzysowego;
+- **1)** pełnienie całodobowego dyżuru w celu zapewnienia przepływu informacji na potrzeby zarządzania kryzysowego;
 - **2)** współdziałanie z centrami zarządzania kryzysowego organów administracji publicznej;
 - **3)** nadzór nad funkcjonowaniem systemu wykrywania i alarmowania oraz systemu wczesnego ostrzegania ludności;
+- **4)** współpraca z podmiotami realizującymi monitoring środowiska;
+- **5)** współdziałanie z podmiotami prowadzącymi akcje ratownicze, poszukiwawcze i humanitarne;
+- **6)** dokumentowanie działań podejmowanych przez centrum;
+- **7)** realizacja zadań stałego dyżuru na potrzeby podwyższania gotowości obronnej państwa;
+- **8)** współdziałanie na wszystkich szczeblach administracji rządowej w zakresie informowania i przekazywania poleceń do wykonania w systemie całodobowym dla jednostek ochrony zdrowia w przypadkach awaryjnych, losowych, jak również zaburzeń funkcjonowania systemu.
 
-3. Rada Ministrów, wdrodze rozporządzenia, określi organy administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposób ich funkcjonowania, uwzględniając szczególności warunki techniczne i standardy ich wyposażenia oraz procedury współpracy z Rządowym Centrum Bezpieczeństwa i innymi organami administracji publicznej.
+2a. Obowiązek utworzenia centrum zarządzania kryzysowego uznaje się za spełniony jeżeli organ, o którym mowa w ust. 1, utworzył komórkę organizacyjną w urzędzie go obsługującym lub jednostkę organizacyjną jemu podległą lub nadzorowaną, odpowiedzialną za pełnienie całodobowych dyżurów i stwarzającą gwarancję realizacji zadań, o których mowa w ust. 2.
+
+3. Rada Ministrów, w drodze rozporządzenia, określi organy administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposób ich funkcjonowania, uwzględniając w szczególności warunki techniczne i standardy ich wyposażenia oraz procedury współpracy z Rządowym Centrum Bezpieczeństwa i innymi organami administracji publicznej.
 
 **Art. 14.**
 
-1. Organem właściwym wsprawach zarządzania kryzysowego na terenie województwa jest wojewoda.
+1. Organem właściwym w sprawach zarządzania kryzysowego na terenie województwa jest wojewoda.
 
-2. Do zadań wojewody sprawach zarządzania kryzysowego należy:
+2. Do zadań wojewody w sprawach zarządzania kryzysowego należy:
 
-- **1)** kierowanie działaniami związanymi zmonitorowaniem, planowaniem, reagowaniem i usuwaniem skutków zagrożeń na terenie województwa;
-- **2)** realizacja zadań z zakresu planowania cywilnego, tym:
-    - **a)** wydawanie starostom zaleceń do powiatowych planów reagowania kryzysowego,
-    - **b)** zatwierdzanie powiatowych planów reagowania kryzysowego,
-    - **c)** przygotowywanie i przedkładanie do zatwierdzenia ministrowi właściwemu do spraw wewnętrznych wojewódzkiego planu reagowania kryzysowego,
-    - **d)** realizacja wytycznych do wojewódzkich planów reagowania kryzysowego;
+- **1)** kierowanie monitorowaniem, planowaniem, reagowaniem i usuwaniem skutków zagrożeń na terenie województwa;
+- **2)** realizacja zadań z zakresu planowania cywilnego, w tym:
+    - **a)** wydawanie starostom zaleceń do powiatowych planów zarządzania kryzysowego,
+    - **b)** zatwierdzanie powiatowych planów zarządzania kryzysowego,
+    - **c)** przygotowywanie i przedkładanie do zatwierdzenia ministrowi właściwemu do spraw administracji publicznej wojewódzkiego planu zarządzania kryzysowego,
+    - **d)** realizacja wytycznych do wojewódzkich planów zarządzania kryzysowego;
 
-- **3)** zarządzanie, organizowanie iprowadzenie szkoleń, ćwiczeń i treningów z zakresu reagowania na potencjalne zagrożenia;
-- **4)** wnioskowanie o użycie pododdziałów lub oddziałów Sił Zbrojnych Rzeczypospolitej Polskiej do wykonywania zadań, októrych mowa wart. 25 ust. 3;
-- **5)** wykonywanie przedsięwzięć wynikających z dokumentów planistycznych wykonywanych wramach planowania operacyjnego realizowanego województwie;
-- **6)** zapobieganie, przeciwdziałanie i usuwanie skut4) współpraca z podmiotami realizującymi monito- ków zdarzeń o charakterze terrorystycznym; ring środowiska;
-- **7)** realizacja zadań z zakresu ochrony infrastruktury
-- **5)** współdziałanie zpodmiotami prowadzącymi akcje krytycznej, tym przygotowywanie i przedkładaratownicze, poszukiwawcze i humanitarne; nie Centrum wojewódzkiego planu ochrony infra6) dokumentowanie działań podejmowanych przez struktury krytycznej; centrum; 8) wykonywanie zadań z wykazu przedsięwzięć
-- **7)** realizacja zadań stałego dyżuru na potrzeby pod- NSPK. wyższania gotowości obronnej państwa;
+- **3)** zarządzanie, organizowanie i prowadzenie szkoleń, ćwiczeń i treningów z zakresu zarządzania kryzysowego;
+- **4)** wnioskowanie o użycie pododdziałów lub oddziałów Sił Zbrojnych Rzeczypospolitej Polskiej do wykonywania zadań, o których mowa w art. 25 ust. 3, oraz doraźnych zgrupowań zadaniowych do wykonywania zadań, o których mowa w art. 25b ust. 1;
+- **4a)** wnioskowanie o użycie Policji, Straży Granicznej lub Państwowej Straży Pożarnej do wykonywania zadań, o których mowa w art. 25a;
+- **5)** wykonywanie przedsięwzięć wynikających z dokumentów planistycznych wykonywanych w ramach planowania operacyjnego realizowanego w województwie;
+- **6)** zapobieganie, przeciwdziałanie i usuwanie skutków zdarzeń o charakterze terrorystycznym;
+- **6a)** współdziałanie z Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie zapobiegania, przeciwdziałania i usuwania skutków zdarzeń o charakterze terrorystycznym;
+- **7)** organizacja wykonania zadań z zakresu ochrony infrastruktury krytycznej.
+- **8)** (uchylony)
 
-3. Minister właściwy do spraw wewnętrznych wy8) współdziałanie na wszystkich szczeblach admini- daje wojewodom wytyczne do wojewódzkich planów stracji rządowej wzakresie informowania iprzeka- reagowania kryzysowego. zywania poleceń do wykonania systemie cało5. Zadania, o których mowa ust. 2, wojewoda wykonuje przy pomocy urzędu wojewódzkiego oraz zespolonych służb, inspekcji i straży.
+3. Minister właściwy do spraw administracji publicznej, w uzgodnieniu z ministrem właściwym do spraw wewnętrznych oraz po zasięgnięciu opinii dyrektora Centrum, wydaje, w drodze zarządzenia, wojewodom wytyczne do wojewódzkich planów zarządzania kryzysowego.
 
-6. Do zadań komórki organizacyjnej właściwej sprawach zarządzania kryzysowego urzędzie wojewódzkim należy szczególności:
+4. Minister właściwy do spraw administracji publicznej w uzgodnieniu z ministrem właściwym do spraw wewnętrznych zatwierdza wojewódzkie plany zarządzania kryzysowego i ich aktualizacje, po zasięgnięciu opinii dyrektora Centrum.
 
-- **1)** gromadzenie iprzetwarzanie danych oraz ocena zagrożeń występujących na obszarze województwa;
+5. Zadania, o których mowa w ust. 2, wykonuje wojewoda we współpracy z właściwymi organami administracji publicznej.
+
+6. Do zadań komórki organizacyjnej właściwej w sprawach zarządzania kryzysowego w urzędzie wojewódzkim należy w szczególności:
+
+- **1)** gromadzenie i przetwarzanie danych oraz ocena zagrożeń występujących na obszarze województwa;
 - **2)** monitorowanie, analizowanie i prognozowanie rozwoju zagrożeń na obszarze województwa;
-- **3)** dostarczanie niezbędnych informacji dotyczących aktualnego stanu bezpieczeństwa dla wojewódzkiego zespołu zarządzania kryzysowego, zespołu zarządzania kryzysowego działającego urzędzie obsługującym ministra właściwego do spraw wewnętrznych oraz Centrum;
-- **4)** współpraca zpowiatowymi zespołami zarządzania kryzysowego;
-- **5)** zapewnienie funkcjonowania wojewódzkiego zespołu zarządzania kryzysowego, tym dokumentowanie jego prac;
-- **6)** realizacja zadań stałego dyżuru wramach gotowości obronnej państwa;
-- **7)** opracowywanie i aktualizacja wojewódzkiego planu reagowania kryzysowego;
-- **8)** przygotowywanie, oparciu o analizę zagrożeń poszczególnych powiatach, wytycznych wojewody do powiatowych planów reagowania kryzysowego;
-- **9)** opiniowanie oraz przedkładanie do zatwierdzenia wojewodzie powiatowych planów reagowania kryzysowego;
-- **10)** opracowywanie i aktualizacja wojewódzkiego planu ochrony infrastruktury krytycznej;
-- **11)** planowanie wsparcia innych organów właściwych sprawach zarządzania kryzysowego;
-- **12)** planowanie użycia pododdziałów lub oddziałów Sił Zbrojnych Rzeczypospolitej Polskiej do wykonywania zadań, o których mowa art. 25 ust. 3;
+- **3)** dostarczanie niezbędnych informacji dotyczących aktualnego stanu bezpieczeństwa dla wojewódzkiego zespołu zarządzania kryzysowego, zespołu zarządzania kryzysowego działającego w urzędzie obsługującym ministra właściwego do spraw wewnętrznych oraz Centrum;
+- **4)** współpraca z powiatowymi zespołami zarządzania kryzysowego;
+- **5)** zapewnienie funkcjonowania wojewódzkiego zespołu zarządzania kryzysowego, w tym dokumentowanie jego prac;
+- **6)** realizacja zadań stałego dyżuru w ramach gotowości obronnej państwa;
+- **7)** opracowywanie i aktualizacja wojewódzkiego planu zarządzania kryzysowego;
+- **8)** przygotowywanie, w oparciu o analizę zagrożeń w poszczególnych powiatach, zaleceń wojewody do powiatowych planów zarządzania kryzysowego;
+- **9)** opiniowanie oraz przedkładanie do zatwierdzenia wojewodzie powiatowych planów zarządzania kryzysowego;
+- **10)** gromadzenie i przetwarzanie informacji dotyczących infrastruktury krytycznej zlokalizowanej na terenie województwa;
+- **11)** planowanie wsparcia innych organów właściwych w sprawach zarządzania kryzysowego;
+- **12)** planowanie użycia pododdziałów lub oddziałów Sił Zbrojnych Rzeczypospolitej Polskiej do wykonywania zadań, o których mowa w art. 25 ust. 3;
 - **13)** planowanie wsparcia przez organy administracji publicznej realizacji zadań Sił Zbrojnych Rzeczypospolitej Polskiej.
 
-7. Organem pomocniczym wojewody wzapewnieniu wykonywania zadań zarządzania kryzysowego jest wojewódzki zespół zarządzania kryzysowego, powoływany przez wojewodę, który określa jego skład, organizację, siedzibę oraz tryb pracy, zwany dalej Ńzespołem wojewódzkim”.
+7. Organem pomocniczym wojewody w zapewnieniu wykonywania zadań zarządzania kryzysowego jest wojewódzki zespół zarządzania kryzysowego, powoływany przez wojewodę, który określa jego skład, organizację, siedzibę oraz tryb pracy, zwany dalej „zespołem wojewódzkim”.
 
-8. Do zadań zespołu wojewódzkiego należy szczególności:
+8. Do zadań zespołu wojewódzkiego należy w szczególności:
 
-- **2)** przygotowywanie propozycji działań i przedstawianie wojewodzie wniosków dotyczących wykonania, zmiany lub zaniechania działań ujętych wojewódzkim planie reagowania kryzysowego;
+- **1)** ocena występujących i potencjalnych zagrożeń mogących mieć wpływ na bezpieczeństwo publiczne i prognozowanie tych zagrożeń;
+- **2)** przygotowywanie propozycji działań i przedstawianie wojewodzie wniosków dotyczących wykonania, zmiany lub zaniechania działań ujętych w wojewódzkim planie zarządzania kryzysowego;
 - **3)** przekazywanie do wiadomości publicznej informacji związanych z zagrożeniami;
-- **4)** opiniowanie wojewódzkiego planu reagowania kryzysowego;
-- **5)** opiniowanie wojewódzkiego planu ochrony infrastruktury krytycznej.
+- **4)** opiniowanie wojewódzkiego planu zarządzania kryzysowego.
+- **5)** (uchylony)
 
-9. Wskład zespołu wojewódzkiego wchodzą wojewoda jako przewodniczący, kierownik komórki organizacyjnej właściwej sprawach zarządzania kryzysowego urzędzie wojewódzkim jako zastępca przewodniczącego, a także inne osoby wskazane przez przewodniczącego zależności od potrzeb spośród:
+9. W skład zespołu wojewódzkiego wchodzą wojewoda jako przewodniczący, kierownik komórki organizacyjnej właściwej w sprawach zarządzania kryzysowego w urzędzie wojewódzkim jako zastępca przewodniczącego, a także inne osoby wskazane przez przewodniczącego w zależności od potrzeb spośród:
 
 - **1)** kierowników zespolonych służb, inspekcji i straży wojewódzkich;
-- **2)** osób zatrudnionych urzędzie wojewódzkim lub jednostkach organizacyjnych służb, inspekcji i straży wojewódzkich;
-- **3)** osób zatrudnionych wregionalnych zarządach gospodarki wodnej, wojewódzkich zarządach melioracji i urządzeń wodnych oraz Instytucie Meteorologii i Gospodarki Wodnej.
+- **2)** osób zatrudnionych w urzędzie wojewódzkim lub w jednostkach organizacyjnych służb, inspekcji i straży wojewódzkich;
+- **3)** osób zatrudnionych w Państwowym Gospodarstwie Wodnym Wody Polskie oraz Instytucie Meteorologii i Gospodarki Wodnej.
 
-10. Przewodniczący może postanowić o włączeniu skład zespołu wojewódzkiego Szefa Wojewódzkiego Sztabu Wojskowego lub jego przedstawiciela.
+10. W skład zespołu wojewódzkiego wchodzą również wyznaczeni przez Ministra Obrony Narodowej przedstawiciele Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 11. W skład zespołu wojewódzkiego może wchodzić przedstawiciel samorządu województwa, wyznaczony przez marszałka województwa.
 
 12. W skład zespołu wojewódzkiego mogą wchodzić inne osoby zaproszone przez przewodniczącego.
 
-**Art. 15.** Marszałek województwa uczestniczy realizacji zadań zzakresu zarządzania kryzysowego iplanowania cywilnego wynikających z jego kompetencji.
+**Art. 15.** Zarząd województwa uczestniczy w realizacji zadań z zakresu zarządzania kryzysowego, w tym planowania cywilnego, wynikających z jego kompetencji.
 
 **Art. 16.**
 
-1. Tworzy się wojewódzkie centra zarządzania kryzysowego, których obsługę zapewniają komórki organizacyjne właściwe sprawach zarządzania kryzysowego urzędach wojewódzkich.
+1. Tworzy się wojewódzkie centra zarządzania kryzysowego, których obsługę zapewniają komórki organizacyjne właściwe w sprawach zarządzania kryzysowego w urzędach wojewódzkich.
 
 2. Do zadań wojewódzkich centrów zarządzania kryzysowego należy:
 
-- **1)** pełnienie całodobowego dyżuru celu zapewnienia przepływu informacji na potrzeby zarządzania kryzysowego;
+- **1)** pełnienie całodobowego dyżuru w celu zapewnienia przepływu informacji na potrzeby zarządzania kryzysowego;
 - **2)** współdziałanie z centrami zarządzania kryzysowego organów administracji publicznej;
 - **3)** nadzór nad funkcjonowaniem systemu wykrywania i alarmowania oraz systemu wczesnego ostrzegania ludności;
-- **5)** współdziałanie zpodmiotami prowadzącymi akcje ratownicze, poszukiwawcze i humanitarne;
+- **4)** współpraca z podmiotami realizującymi monitoring środowiska;
+- **5)** współdziałanie z podmiotami prowadzącymi akcje ratownicze, poszukiwawcze i humanitarne;
 - **6)** dokumentowanie działań podejmowanych przez centrum;
-- **7)** realizacja zadań stałego dyżuru na potrzeby podwyższania gotowości obronnej państwa;
-- **8)** pełnienie całodobowego dyżuru lekarza koordynatora ratownictwa medycznego, o którym mowa wart. 25 ust. 1 pkt 2 iart. 29 ustawy zdnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. 191, poz. 1410).
+- **7)** realizacja zadań stałego dyżuru na potrzeby podwyższania gotowości obronnej państwa.
+- **8)** (uchylony)
+
+3. Wojewódzkie centra zarządzania kryzysowego wykonują zadania określone w art. 22 ust. 1 i 2 ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389).
+
+4. Wojewódzkie centra zarządzania kryzysowego wykonują zadania określone w art. 92 ust. 1d i art. 93 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 17.**
 
-1. Organem właściwym wsprawach zarządzania kryzysowego na obszarze powiatu jest starosta jako przewodniczący zarządu powiatu.
+1. Organem właściwym w sprawach zarządzania kryzysowego na obszarze powiatu jest starosta jako przewodniczący zarządu powiatu.
 
-2. Do zadań starosty sprawach zarządzania kryzysowego należy:
+2. Do zadań starosty w sprawach zarządzania kryzysowego należy:
 
-- **1)** kierowanie działaniami związanymi zmonitorowaniem, planowaniem, reagowaniem i usuwaniem
+- **1)** kierowanie monitorowaniem, planowaniem, reagowaniem i usuwaniem skutków zagrożeń na terenie powiatu;
+- **2)** realizacja zadań z zakresu planowania cywilnego, w tym:
+    - **a)** opracowywanie i przedkładanie wojewodzie do zatwierdzenia powiatowego planu zarządzania kryzysowego,
+    - **b)** realizacja zaleceń do powiatowych planów zarządzania kryzysowego,
+    - **c)** wydawanie organom gminy zaleceń do gminnego planu zarządzania kryzysowego,
+    - **d)** zatwierdzanie gminnego planu zarządzania kryzysowego;
 
-6. Wskład zespołu powiatowego, którego pracami kieruje starosta, wchodzą osoby powołane spośród:
+- **3)** zarządzanie, organizowanie i prowadzenie szkoleń, ćwiczeń i treningów z zakresu zarządzania kryzysowego;
+- **4)** wykonywanie przedsięwzięć wynikających z planu operacyjnego funkcjonowania powiatów i miast na prawach powiatu;
+- **5)** zapobieganie, przeciwdziałanie i usuwanie skutków zdarzeń o charakterze terrorystycznym;
+- **5a)** współdziałanie z Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie przeciwdziałania, zapobiegania i usuwania skutków zdarzeń o charakterze terrorystycznym;
+- **6)** organizacja i realizacja zadań z zakresu ochrony infrastruktury krytycznej.
 
-- **1)** osób zatrudnionych starostwie powiatowym, powiatowych jednostkach organizacyjnych lub jednostkach organizacyjnych stanowiących aparat pomocniczy kierowników zespolonych służb, inspekcji i straży powiatowych;
+3. Zadania, o których mowa w ust. 2, starosta wykonuje przy pomocy powiatowej administracji zespolonej i jednostek organizacyjnych powiatu.
+
+4. Starosta wykonuje zadania zarządzania kryzysowego przy pomocy powiatowego zespołu zarządzania kryzysowego powołanego przez starostę, który określa jego skład, organizację, siedzibę oraz tryb pracy, zwanego dalej „zespołem powiatowym”.
+
+5. Zespół powiatowy wykonuje na obszarze powiatu zadania przewidziane dla zespołu wojewódzkiego.
+
+6. W skład zespołu powiatowego, którego pracami kieruje starosta, wchodzą osoby powołane spośród:
+
+- **1)** osób zatrudnionych w starostwie powiatowym, powiatowych jednostkach organizacyjnych lub jednostkach organizacyjnych stanowiących aparat pomocniczy kierowników zespolonych służb, inspekcji i straży powiatowych;
 - **2)** przedstawicieli społecznych organizacji ratowniczych.
 
 7. W skład zespołu powiatowego mogą wchodzić inne osoby zaproszone przez starostę.
 
 **Art. 18.**
 
-1. Tworzy się powiatowe centra zarządzania kryzysowego, których obsługę zapewniają komórki organizacyjne, o których mowa art. 17 ust. 3.
+1. Tworzy się powiatowe centra zarządzania kryzysowego.
 
-2. Powiatowe centra zarządzania kryzysowego wykonują odpowiednio zadania, o których mowa art.16 ust. 2. skutków zagrożeń na terenie powiatu; Art. 19. 1. Organem właściwym wsprawach zarządzania kryzysowego na terenie gminy jest wójt, bur2) realizacja zadań z zakresu planowania cywilnego, mistrz, prezydent miasta. tym:
+2. Powiatowe centra zarządzania kryzysowego zapewniają przepływ informacji na potrzeby zarządzania kryzysowego oraz wykonują odpowiednio zadania, o których mowa w art. 16 ust. 2.
 
-- **a)** opracowywanie i przedkładanie wojewodzie do 2. Do zadań wójta, burmistrza, prezydenta miasta zatwierdzenia powiatowego planu reagowania sprawach zarządzania kryzysowego należy: kryzysowego,
-- **1)** kierowanie działaniami związanymi zmonitorowab) realizacja zaleceń do powiatowych planów re- niem, planowaniem, reagowaniem i usuwaniem agowania kryzysowego, skutków zagrożeń na terenie gminy;
-    - **c)** wydawanie organom gminy zaleceń do gmin- 2) realizacja zadań z zakresu planowania cywilnego, nego planu reagowania kryzysowego, tym:
-    - **d)** zatwierdzanie gminnego planu reagowania kry- a) realizacja zaleceń do gminnego planu reagowazysowego; nia kryzysowego,
+3. Organizację, siedzibę oraz tryb pracy powiatowego centrum zarządzania kryzysowego, w tym sposób całodobowego alarmowania członków zespołu zarządzania kryzysowego oraz sposób zapewnienia całodobowego obiegu informacji w sytuacjach kryzysowych, określa starosta.
 
-- **3)** zarządzanie, organizowanie i prowadzenie szko- b) opracowywanie iprzedkładanie staroście do zaleń, ćwiczeń i treningów z zakresu reagowania na twierdzenia gminnego planu reagowania kryzypotencjalne zagrożenia; sowego;
-- **4)** wykonywanie przedsięwzięć wynikających zplanu 3) zarządzanie, organizowanie iprowadzenie szkoleń, operacyjnego funkcjonowania powiatów i miast ćwiczeń i treningów z zakresu reagowania na pona prawach powiatu; tencjalne zagrożenia;
-- **5)** przeciwdziałanie skutkom zdarzeń o charakterze 4) wykonywanie przedsięwzięć wynikających z planu terrorystycznym; operacyjnego funkcjonowania gmin i gmin o statusie miasta;
-- **6)** realizacja zadań z zakresu ochrony infrastruktury krytycznej. 5) przeciwdziałanie skutkom zdarzeń o charakterze terrorystycznym;
+3a. Starosta może powierzyć wykonywanie zadań powiatowego centrum zarządzania kryzysowego komendantowi powiatowemu (miejskiemu) Państwowej Straży Pożarnej.
 
-3. Zadania, o których mowa ust. 2, starosta wykonuje przy pomocy komórki organizacyjnej staro- 6) realizacja zadań z zakresu ochrony infrastruktury stwa powiatowego właściwej wsprawach zarządzania krytycznej. kryzysowego.
+4. W miejscowościach będących jednocześnie siedzibami powiatów i miast na prawach powiatu, na podstawie porozumienia zawartego między tymi jednostkami samorządu terytorialnego, może być tworzone wspólne centrum zarządzania kryzysowego obejmujące zasięgiem działania obszar obu jednostek samorządu terytorialnego.
 
-3. Zadania, o których mowa ust. 2, wójt, bur4. Starosta wykonuje zadania zarządzania kryzyso- mistrz, prezydent miasta wykonuje przy pomocy kowego przy pomocy powiatowego zespołu zarządzania mórki organizacyjnej urzędu gminy (miasta) właścikryzysowego powołanego przez starostę, który okreś- wej sprawach zarządzania kryzysowego. la jego skład, organizację, siedzibę oraz tryb pracy, zwanego dalej Ńzespołem powiatowym”. 4. Organem pomocniczym wójta, burmistrza, prestrza, prezydenta miasta, który określa jego skład, organizację, siedzibę oraz tryb pracy, zwany dalej Ńzespołem gminnym”.
+**Art. 19.**
+
+1. Organem właściwym w sprawach zarządzania kryzysowego na terenie gminy jest wójt, burmistrz, prezydent miasta.
+
+2. Do zadań wójta, burmistrza, prezydenta miasta w sprawach zarządzania kryzysowego należy:
+
+- **1)** kierowanie monitorowaniem, planowaniem, reagowaniem i usuwaniem skutków zagrożeń na terenie gminy;
+- **2)** realizacja zadań z zakresu planowania cywilnego, w tym:
+    - **a)** realizacja zaleceń do gminnego planu zarządzania kryzysowego,
+    - **b)** opracowywanie i przedkładanie staroście do zatwierdzenia gminnego planu zarządzania kryzysowego;
+
+- **3)** zarządzanie, organizowanie i prowadzenie szkoleń, ćwiczeń i treningów z zakresu zarządzania kryzysowego;
+- **4)** wykonywanie przedsięwzięć wynikających z planu operacyjnego funkcjonowania gmin i gmin o statusie miasta;
+- **5)** zapobieganie, przeciwdziałanie i usuwanie skutków zdarzeń o charakterze terrorystycznym;
+- **5a)** współdziałanie z Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie przeciwdziałania, zapobiegania i usuwania skutków zdarzeń o charakterze terrorystycznym;
+- **6)** organizacja i realizacja zadań z zakresu ochrony infrastruktury krytycznej.
+
+3. Zadania, o których mowa w ust. 2, wójt, burmistrz, prezydent miasta wykonuje przy pomocy komórki organizacyjnej urzędu gminy (miasta) właściwej w sprawach zarządzania kryzysowego.
+
+4. Organem pomocniczym wójta, burmistrza, prezydenta miasta w zapewnieniu wykonywania zadań zarządzania kryzysowego jest gminny zespół zarządzania kryzysowego powoływany przez wójta, burmistrza, prezydenta miasta, który określa jego skład, organizację, siedzibę oraz tryb pracy, zwany dalej „zespołem gminnym”.
 
 5. Zespół gminny wykonuje na obszarze gminy zadania przewidziane dla zespołu wojewódzkiego.
 
 6. W skład zespołu gminnego, którego pracami kieruje wójt, burmistrz, prezydent miasta, wchodzą osoby powołane spośród:
 
-- **1)** osób zatrudnionych urzędzie gminy, gminnych jednostkach organizacyjnych lub jednostkach pomocniczych;
-- **2)** pracowników zespolonych służb, inspekcji istraży, skierowanych przez przełożonych do wykonywania zadań wtym zespole na wniosek wójta, burmistrza, prezydenta miasta;
+- **1)** osób zatrudnionych w urzędzie gminy, gminnych jednostkach organizacyjnych lub jednostkach pomocniczych;
+- **2)** pracowników zespolonych służb, inspekcji i straży, skierowanych przez przełożonych do wykonywania zadań w tym zespole na wniosek wójta, burmistrza, prezydenta miasta;
 - **3)** przedstawicieli społecznych organizacji ratowniczych.
 
-7. Wskład zespołu gminnego mogą wchodzić inne osoby zaproszone przez wójta, burmistrza, prezydenta miasta.
+7. W skład zespołu gminnego mogą wchodzić inne osoby zaproszone przez wójta, burmistrza, prezydenta miasta.
 
 **Art. 20.**
 
 1. Wójt, burmistrz, prezydent miasta zapewnia na obszarze gminy (miasta) realizację następujących zadań:
 
-- **1)** pełnienie całodobowego dyżuru celu zapewnienia przepływu informacji na potrzeby zarządzania kryzysowego;
+- **1)** całodobowe alarmowanie członków gminnego zespołu zarządzania kryzysowego, a w sytuacjach kryzysowych zapewnienie całodobowego dyżuru w celu zapewnienia przepływu informacji oraz dokumentowania prowadzonych czynności;
 - **2)** współdziałanie z centrami zarządzania kryzysowego organów administracji publicznej;
 - **3)** nadzór nad funkcjonowaniem systemu wykrywania i alarmowania oraz systemu wczesnego ostrzegania ludności;
 - **4)** współpracę z podmiotami realizującymi monitoring środowiska;
-- **5)** współdziałanie zpodmiotami prowadzącymi akcje ratownicze, poszukiwawcze i humanitarne;
+- **5)** współdziałanie z podmiotami prowadzącymi akcje ratownicze, poszukiwawcze i humanitarne;
 - **6)** realizację zadań stałego dyżuru na potrzeby podwyższania gotowości obronnej państwa.
 
-2. W celu realizacji zadań, o których mowa ust.1, wójt, burmistrz, prezydent miasta może tworzyć gminne (miejskie) centra zarządzania kryzysowego.
+2. W celu realizacji zadań, o których mowa w ust. 1, wójt, burmistrz, prezydent miasta może tworzyć gminne (miejskie) centra zarządzania kryzysowego.
 
-**Art. 21.** Obowiązek podjęcia działań wzakresie zarządzania kryzysowego spoczywa na tym organie właściwym sprawach zarządzania kryzysowego, który pierwszy otrzymał informację o wystąpieniu zagrożenia. Organ ten niezwłocznie informuje o zaistniałym zdarzeniu organy odpowiednio wyższego i niższego
+2a. W przypadku utworzenia, gminne (miejskie) centrum zarządzania kryzysowego wykonuje zadania określone w art. 22 ust. 1 i 2 ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach.
 
-**Art. 22.** Ministrowie kierujący działami administracji rządowej, kierownicy urzędów centralnych, wojewodowie, starostowie iwójtowie, burmistrzowie, prezydenci miast mogą powoływać ekspertów do udziału pracach zespołów, o których mowa art. 12 ust. 2, art. 14 ust. 7, art. 17 ust. 4 i art. 19 ust. 4.
+3. Art. 18 ust. 4 stosuje się odpowiednio.
 
-**Art. 23.** Prezes Rady Ministrów z własnej inicjatywy, na wniosek właściwego ministra, kierownika urzędu centralnego lub wojewody, może wprowadzić na całym terytorium Rzeczypospolitej Polskiej albo jego części, drodze zarządzenia, następujący stopień alarmowy:
+**Art. 20a.** Organy właściwe w sprawach zarządzania kryzysowego mają prawo żądania udzielenia informacji, gromadzenia i przetwarzania danych niezbędnych do realizacji zadań określonych w ustawie.
 
-**Art. 24.**
+**Art. 20b.** Ministrowie kierujący działami administracji rządowej, kierownicy urzędów centralnych, wojewodowie, starostowie, wójtowie, burmistrzowie, prezydenci miast, właściciele oraz posiadacze samoistni i zależni obiektów, instalacji, urządzeń i usług infrastruktury krytycznej są obowiązani do udzielania dyrektorowi Centrum, w wyznaczonym terminie, żądanych przez niego informacji i wyjaśnień niezbędnych do realizacji zadań Centrum określonych w ustawie.
 
-1. Wyższy stopień alarmowy może być wprowadzony z pominięciem niższych stopni.
+**Art. 21.** Obowiązek podjęcia działań w zakresie zarządzania kryzysowego spoczywa na tym organie właściwym w sprawach zarządzania kryzysowego, który pierwszy otrzymał informację o wystąpieniu zagrożenia. Organ ten niezwłocznie informuje o zaistniałym zdarzeniu organy odpowiednio wyższego i niższego szczebla, przedstawiając jednocześnie swoją ocenę sytuacji oraz informację o zamierzonych działaniach.
 
-2. Zadania realizowane poszczególnych stopniach alarmowych ujmuje się Planie Reagowania Obronnego Rzeczypospolitej Polskiej, októrym mowa wart. 9 ust. 2, irealizuje zgodnie zprocedurami ujętymi tym Planie.
+**Art. 21a.**
 
-3. Prezes Rady Ministrów, drodze zarządzenia, odwołuje albo zmienia stopień alarmowy.
+1. Ministrowie kierujący działami administracji rządowej, kierownicy urzędów centralnych oraz wojewodowie niezwłocznie informują dyrektora Centrum o zagrożeniu, które może skutkować wystąpieniem na wskazanym obszarze sytuacji kryzysowej, oraz o konieczności powiadomienia ludności o zagrożeniu.
+
+2. Właściciele oraz posiadacze samoistni i zależni obiektów, instalacji, urządzeń i usług infrastruktury krytycznej niezwłocznie informują dyrektora Centrum oraz właściwe terytorialnie wojewódzkie centrum zarządzania kryzysowego o zakłóceniu funkcjonowania tej infrastruktury, które może skutkować wystąpieniem na wskazanym obszarze sytuacji kryzysowej.
+
+3. Operator ruchomej publicznej sieci telekomunikacyjnej w rozumieniu przepisów ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221), zwany dalej „operatorem”, jest obowiązany, na żądanie dyrektora Centrum, do niezwłocznego, nieodpłatnego wysłania lub wysyłania, komunikatów do wszystkich lub określonych przez dyrektora Centrum grup użytkowników końcowych, w szczególności przebywających na określonym przez niego obszarze, jednorazowo lub przez wskazany przez dyrektora Centrum okres.
+
+3a. Obowiązek, o którym mowa w ust. 3, nie obejmuje wysyłania komunikatu użytkownikom końcowym, których karty SIM są zainstalowane i wykorzystywane w urządzeniach używanych wyłącznie do świadczenia usług komunikacji maszyna-maszyna.
+
+4. Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb współpracy dyrektora Centrum z operatorem w celu realizacji obowiązku, o którym mowa w ust. 3, niezbędne elementy komunikatu oraz sposób jego przekazywania użytkownikom końcowym, mając na uwadze konieczność:
+
+- **1)** zapewnienia efektywnego i niezakłóconego przepływu informacji między Centrum a operatorem;
+- **2)** zapewnienia sprawnej dystrybucji komunikatu na obszarze zagrożonym wystąpieniem sytuacji kryzysowej oraz łatwości zrozumienia treści zawartych w komunikacie i zastosowania się do nich.
+
+**Art. 21b.**
+
+1. Na potrzeby zapewnienia ochrony lokalnej społeczności w sytuacji kryzysowej lub możliwości wystąpienia sytuacji kryzysowej wójt, burmistrz, prezydent miasta określa szczególne formy udzielania pomocy dla lokalnej społeczności.
+
+2. Wójt, burmistrz, prezydent miasta sporządza wykaz szczególnych form udzielania pomocy dla lokalnej społeczności oraz informuje, w sposób zwyczajowo przyjęty oraz w tłumaczeniu na język migowy, mieszkańców o warunkach korzystania z pomocy.
+
+3. Uwzględnienie w wykazie, o którym mowa w ust. 2, następuje na wniosek osoby wymagającej wsparcia lub jej opiekuna prawnego.
+
+**Art. 22.** Ministrowie kierujący działami administracji rządowej, kierownicy urzędów centralnych, wojewodowie, starostowie i wójtowie, burmistrzowie, prezydenci miast mogą powoływać ekspertów do udziału w pracach właściwych zespołów zarządzania kryzysowego.
+
+**Art. 23.** (uchylony)
+
+**Art. 24.** (uchylony)
 
 **Art. 25.**
 
-1. Jeżeli sytuacji kryzysowej użycie innych sił i środków jest niemożliwe lub może okazać się niewystarczające, o ile inne przepisy nie stanowią inaczej, Minister Obrony Narodowej, na wniosek wojewody, może przekazać do jego dyspozycji pododdziały lub oddziały Sił Zbrojnych Rzeczypospolitej Polskiej, zwane dalej Ńoddziałami Sił Zbrojnych”, wraz ze
+1. Jeżeli w sytuacji kryzysowej użycie innych sił i środków jest niemożliwe lub może okazać się niewystarczające, o ile inne przepisy nie stanowią inaczej, Minister Obrony Narodowej, na wniosek wojewody, może przekazać do jego dyspozycji pododdziały lub oddziały Sił Zbrojnych Rzeczypospolitej Polskiej, zwane dalej „oddziałami Sił Zbrojnych”, wraz ze skierowaniem ich do wykonywania zadań z zakresu zarządzania kryzysowego.
 
-2. Wrealizacji zadań zzakresu zarządzania kryzysowego mogą uczestniczyć oddziały Sił Zbrojnych, stosownie do ich przygotowania specjalistycznego, zgodnie zwojewódzkim planem reagowania kryzysowego.
+2. W realizacji zadań z zakresu zarządzania kryzysowego mogą uczestniczyć oddziały Sił Zbrojnych, stosownie do ich przygotowania specjalistycznego, zgodnie z wojewódzkim planem zarządzania kryzysowego.
 
-3. Do zadań, o których mowa ust. 2, należy:
+3. Do zadań, o których mowa w ust. 2, należy:
 
-- **1)** współudział monitorowaniu zagrożeń;
+- **1)** współudział w monitorowaniu zagrożeń;
 - **2)** wykonywanie zadań związanych z oceną skutków zjawisk zaistniałych na obszarze występowania zagrożeń;
 - **3)** wykonywanie zadań poszukiwawczo-ratowniczych;
 - **4)** ewakuowanie poszkodowanej ludności i mienia;
-- **5)** wykonywanie zadań mających na celu przygotowanie warunków do czasowego przebywania ewakuowanej ludności wyznaczonych miejscach;
-- **6)** współudział ochronie mienia pozostawionego na obszarze występowania zagrożeń;
+- **5)** wykonywanie zadań mających na celu przygotowanie warunków do czasowego przebywania ewakuowanej ludności w wyznaczonych miejscach;
+- **6)** współudział w ochronie mienia pozostawionego na obszarze występowania zagrożeń;
 - **7)** izolowanie obszaru występowania zagrożeń lub miejsca prowadzenia akcji ratowniczej;
 - **8)** wykonywanie prac zabezpieczających, ratowniczych i ewakuacyjnych przy zagrożonych obiektach budowlanych i zabytkach;
-- **9)** prowadzenie prac wymagających użycia specjalistycznego sprzętu technicznego lub materiałów wybuchowych będących zasobach Sił Zbrojnych Rzeczypospolitej Polskiej;
-- **10)** usuwanie materiałów niebezpiecznych i ich unieszkodliwianie, zwykorzystaniem sił iśrodków będących na wyposażeniu Sił Zbrojnych Rzeczypospolitej Polskiej;
+- **9)** prowadzenie prac wymagających użycia specjalistycznego sprzętu technicznego lub materiałów wybuchowych będących w zasobach Sił Zbrojnych Rzeczypospolitej Polskiej;
+- **10)** usuwanie materiałów niebezpiecznych i ich unieszkodliwianie, z wykorzystaniem sił i środków będących na wyposażeniu Sił Zbrojnych Rzeczypospolitej Polskiej;
 - **11)** likwidowanie skażeń chemicznych oraz skażeń i zakażeń biologicznych;
 - **12)** usuwanie skażeń promieniotwórczych;
-- **13)** wykonywanie zadań związanych znaprawą iodbudową infrastruktury technicznej;
-- **14)** współudział wzapewnieniu przejezdności szlaków komunikacyjnych;
-- **15)** udzielanie pomocy medycznej i wykonywanie zadań sanitarnohigienicznych i przeciwepidemicznych;
+- **13)** wykonywanie zadań związanych z naprawą i odbudową infrastruktury technicznej;
+- **14)** współudział w zapewnieniu przejezdności szlaków komunikacyjnych;
+- **15)** udzielanie pomocy medycznej i wykonywanie zadań sanitarnohigienicznych i przeciwepidemicznych.
+- **16)** (uchylony)
 
-4. Plan, o którym mowa ust. 2, podlega uzgodnieniu z właściwymi organami wskazanymi przez Ministra Obrony Narodowej.
+4. Plan, o którym mowa w ust. 2, podlega uzgodnieniu z właściwymi organami wskazanymi przez Ministra Obrony Narodowej.
 
-5. Oddziały Sił Zbrojnych mogą być przekazane do dyspozycji wojewody składzie etatowym albo jako tworzone doraênie zgrupowania zadaniowe.
+5. Oddziały Sił Zbrojnych mogą być przekazane do dyspozycji wojewody w składzie etatowym albo jako tworzone doraźnie zgrupowania zadaniowe.
 
-6. Koordynowanie udziału oddziałów Sił Zbrojnych realizacji zadań, o których mowa ust. 3, zależności od obszaru występowania zagrożeń, zapewniają odpowiednio organy, o których mowa art.14 ust. 1, art. 17 ust. 1 i art. 19 ust. 1. Obejmuje ono przedsięwzięcia mające na celu sprawne włączenie oddziałów Sił Zbrojnych do realizacji zadań, zuwzględnieniem czasu imiejsca ich użycia oraz sposobu współdziałania z innymi podmiotami.
+6. Koordynowanie udziału oddziałów Sił Zbrojnych w realizacji zadań, o których mowa w ust. 3, w zależności od obszaru występowania zagrożeń, zapewniają odpowiednio organy, o których mowa w art. 14 ust. 1, art. 17 ust. 1 i art. 19 ust. 1. Obejmuje ono przedsięwzięcia mające na celu sprawne włączenie oddziałów Sił Zbrojnych do realizacji zadań, z uwzględnieniem czasu i miejsca ich użycia oraz sposobu współdziałania z innymi podmiotami.
 
-7. Zadania dla oddziałów Sił Zbrojnych organy, o których mowa art. 14 ust. 1, art. 17 ust. 1 i art. 19 ust. 1, przekazują wyłącznie ich dowódcom.
+7. Zadania dla oddziałów Sił Zbrojnych organy, o których mowa w art. 14 ust. 1, art. 17 ust. 1 i art. 19 ust. 1, przekazują wyłącznie ich dowódcom.
 
-8. Dowodzenie oddziałami Sił Zbrojnych odbywa się na zasadach określonych regulaminach wojskowych i według procedur obowiązujących Siłach Zbrojnych Rzeczypospolitej Polskiej.
+8. Dowodzenie oddziałami Sił Zbrojnych odbywa się na zasadach określonych w regulaminach wojskowych i według procedur obowiązujących w Siłach Zbrojnych Rzeczypospolitej Polskiej.
 
-9. Użycie oddziałów Sił Zbrojnych wsytuacji kryzysowej nie może zagrozić ich zdolności do realizacji zadań wynikających z Konstytucji Rzeczypospolitej Polskiej i ratyfikowanych umów międzynarodowych.
+9. Użycie oddziałów Sił Zbrojnych w sytuacji kryzysowej nie może zagrozić ich zdolności do realizacji zadań wynikających z Konstytucji Rzeczypospolitej Polskiej i ratyfikowanych umów międzynarodowych.
+
+**Art. 25a.**
+
+1. W przypadku nakazu wykonania odstrzału, o którym mowa w art. 28 ust. 4 pkt 12 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), jeżeli jest to niezbędne ze względu na rodzaj i skalę zagrożenia, minister właściwy do spraw wewnętrznych, na wniosek wojewody, może przekazać do dyspozycji wojewody doraźne zgrupowanie zadaniowe sformowane z policjantów, funkcjonariuszy Straży Granicznej lub funkcjonariuszy Państwowej Straży Pożarnej, którzy posiadają uprawnienia do wykonywania polowania, celem ich użycia do wykonania tego odstrzału w odniesieniu do zwierząt dzikich na określonych obszarach.
+
+2. Dowodzenie doraźnymi zgrupowaniami zadaniowymi, o których mowa w ust. 1, powierzane jest odpowiednio policjantowi, funkcjonariuszowi Straży Granicznej lub funkcjonariuszowi Państwowej Straży Pożarnej wskazanemu przez właściwego miejscowo komendanta odpowiednio Policji, Straży Granicznej lub Państwowej Straży Pożarnej, a w przypadku stworzenia doraźnego zgrupowania zadaniowego złożonego z policjantów, funkcjonariuszy Straży Granicznej lub funkcjonariuszy Państwowej Straży Pożarnej – policjantowi wskazanemu przez właściwego miejscowo komendanta Policji.
+
+**Art. 25b.**
+
+1. Jeżeli w sytuacji kryzysowej użycie innych sił i środków jest niemożliwe lub niewystarczające, Minister Obrony Narodowej, na wniosek wojewody, może przekazać do dyspozycji wojewody doraźne zgrupowanie zadaniowe sformowane z żołnierzy, którzy posiadają uprawnienia do wykonywania polowania, celem ich użycia do wykonania odstrzału, o którym mowa w art. 28 ust. 4 pkt 12 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt, w odniesieniu do zwierząt dzikich na określonych obszarach.
+
+2. Dowodzenie doraźnymi zgrupowaniami zadaniowymi, o których mowa w ust. 1, odbywa się na zasadach określonych w regulaminach wojskowych i według procedur obowiązujących w Siłach Zbrojnych Rzeczypospolitej Polskiej.
+
+3. Użycie doraźnych zgrupowań zadaniowych w sytuacji kryzysowej nie może zagrozić zdolności Sił Zbrojnych do realizacji zadań wynikających z Konstytucji Rzeczypospolitej Polskiej i ratyfikowanych umów międzynarodowych.
+
+**Art. 25c.**
+
+1. W przypadkach, o których mowa w art. 25a i art. 25b, odpowiednio policjanci, funkcjonariusze Straży Granicznej, funkcjonariusze Państwowej Straży Pożarnej i żołnierze używają broni myśliwskiej prywatnej lub użyczonej zgodnie z przepisami ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2020 r. poz. 955 oraz z 2022 r. poz. 275).
+
+2. Odpowiedzialność za szkody wyrządzone przez policjantów, funkcjonariuszy Straży Granicznej, funkcjonariuszy Państwowej Straży Pożarnej i żołnierzy realizujących zadania, o których mowa w ust. 1, ponosi wojewoda.
+
+3. W przypadkach, o których mowa w art. 25a i art. 25b:
+
+- **1)** nie stosuje się przepisów ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt dotyczących ryczałtu;
+- **2)** policjanci, funkcjonariusze Straży Granicznej, funkcjonariusze Państwowej Straży Pożarnej i żołnierze współpracują z zarządcą lub dzierżawcą obwodu łowieckiego.
+
+**Art. 25d.** W przypadkach, o których mowa w art. 25a i art. 25b, do obowiązków wojewody należy:
 
 **Art. 26.**
 
-1. Finansowanie wykonywania zadań własnych z zakresu zarządzania kryzysowego na poziomie gminnym, powiatowym i wojewódzkim planuje się ramach budżetów odpowiednio gmin, powiatów i samorządów województw.
+1. Finansowanie wykonywania zadań własnych z zakresu zarządzania kryzysowego na poziomie gminnym, powiatowym i wojewódzkim planuje się w ramach budżetów odpowiednio gmin, powiatów i samorządów województw.
 
-2. Finansowanie wykonywania zadań zzakresu zarządzania kryzysowego na poziomie krajowym planuje się ramach budżetu państwa częściach, którymi dysponują wojewodowie, minister właściwy do spraw wewnętrznych iinni ministrowie kierujący działami administracji rządowej oraz centralne organy administracji rządowej.
+2. Finansowanie wykonywania zadań z zakresu zarządzania kryzysowego na poziomie krajowym planuje się w ramach budżetu państwa w częściach, którymi dysponują wojewodowie, minister właściwy do spraw wewnętrznych i inni ministrowie kierujący działami administracji rządowej oraz centralne organy administracji rządowej.
 
-3. Na finansowanie zadań zleconych z zakresu administracji rządowej, o których mowa ust. 2, jednostki samorządu terytorialnego otrzymują z budżetu państwa dotacje celowe wysokości zapewniającej realizację tych zadań.
+3. Na finansowanie zadań zleconych z zakresu administracji rządowej, o których mowa w ust. 2, jednostki samorządu terytorialnego otrzymują z budżetu państwa dotacje celowe w wysokości zapewniającej realizację tych zadań.
 
-4. W budżecie jednostki samorządu terytorialnego tworzy się rezerwę celową na realizację zadań własnych z zakresu zarządzania kryzysowego wysokości do 1 % bieżących wydatków budżetu jednostki samo5. Na dofinansowanie zadań własnych z zakresu zarządzania kryzysowego jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa.
+4. W budżecie jednostki samorządu terytorialnego tworzy się rezerwę celową na realizację zadań własnych z zakresu zarządzania kryzysowego w wysokości nie mniejszej niż 0,5% wydatków budżetu jednostki samorządu terytorialnego, pomniejszonych o wydatki inwestycyjne, wydatki na wynagrodzenia i pochodne oraz wydatki na obsługę długu.
 
-6. Zasady otrzymywania irozliczania dotacji, októrych mowa ust. 3 i 5, określają przepisy ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz.U. 249, poz. 2104, zpóên. zm. ) iustawy zdnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. 203, poz. 1966, z póên. zm. ).
+5. Na dofinansowanie zadań własnych z zakresu zarządzania kryzysowego jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa.
 
-**Art. 27.** W dekrecie z dnia 23 kwietnia 1953 r. oświadczeniach wcelu zwalczania klęsk żywiołowych (Dz. U. 23, poz. 93, z póên. zm. ) uchyla się art. 2.
+6. Zasady otrzymywania i rozliczania dotacji, o których mowa w ust. 3 i 5, określają przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. ) i ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572).
 
-**Art. 28.** W ustawie z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. 5, poz. 24, z póên. zm. ) art.34 ust. 2 otrzymuje brzmienie: Ń2. Obowiązek określony ust. 1 dotyczy również:
+**Art. 27.** (pominięty)
 
-**Art. 29.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2002 r. 147, poz. 1229, z póên. zm. Ń4. Wojewoda i starosta wykonują swoje zadania przy pomocy odpowiednio wojewódzkiego i powiatowego zespołu zarządzania kryzysowego, działających na podstawie ustawy z dnia 26kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. 89, poz. 590).”.
+**Art. 28.** (pominięty)
 
-**Art. 30.** Wustawie zdnia 18 kwietnia 2002 r. ostanie klęski żywiołowej (Dz. U. 62, poz. 558 i 74, poz. 676 oraz z 2006 r. 50, poz. 360 i 191, poz.1410) uchyla się art. 12.
+**Art. 29.** (pominięty)
 
-**Art. 31.** Wustawie zdnia 8 września 2006 r. oPaństwowym Ratownictwie Medycznym (Dz. U. 191, poz. 1410) art. 29:
+**Art. 30.** (pominięty)
 
-**Art. 32.** Gminne zespoły reagowania, powiatowe zespoły reagowania kryzysowego i wojewódzkie zespoły reagowania kryzysowego, utworzone na podstawie ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej, stają się z dniem wejścia życie niniejszej ustawy odpowiednio gminnymi zespołami zarządzania kryzysowego, powiatowymi zespołami zarządzania kryzysowego i wojewódzkimi zespołami zarządzania kryzysowego. ) art. 14 ust. 4 otrzymuje brzmienie:
+**Art. 31.** (pominięty)
 
-**Art. 33.** Prezes Rady Ministrów powoła, drodze zarządzenia, Pełnomocnika Rządu do spraw organizacji Rządowego Centrum Bezpieczeństwa.
+**Art. 32.** Gminne zespoły reagowania, powiatowe zespoły reagowania kryzysowego i wojewódzkie zespoły reagowania kryzysowego, utworzone na podstawie ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej, stają się z dniem wejścia w życie niniejszej ustawy odpowiednio gminnymi zespołami zarządzania kryzysowego, powiatowymi zespołami zarządzania kryzysowego i wojewódzkimi zespołami zarządzania kryzysowego.
+
+**Art. 33.** Prezes Rady Ministrów powoła, w drodze zarządzenia, Pełnomocnika Rządu do spraw organizacji Rządowego Centrum Bezpieczeństwa.
 
 **Art. 34.**
 
-1. Plany, o których mowa art. 5 ust. 1 i art. 6 ust. 2, są sporządzane terminie 12 miesięcy od dnia wejścia życie ustawy.
+1. Plany, o których mowa w art. 5 ust. 1 i art. 6 ust. 2, są sporządzane w terminie 12 miesięcy od dnia wejścia w życie ustawy.
 
-2. Plany sporządzane terminie, o którym mowa ust. 1, mogą nie zawierać map, o których mowa art. 5 ust. 2 pkt 1 lit. a.
+2. Plany sporządzane w terminie, o którym mowa w ust. 1, mogą nie zawierać map, o których mowa w art. 5 ust. 2 pkt 1 lit. a.
 
-**Art. 35.** ——————— Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 33, który wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 35.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem art. 33, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
