@@ -1,6 +1,6 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 1324
+Acts excluded from publication due to quality issues. Total: 1315
 
 | Address | Reason |
 |---------|--------|
@@ -34,8 +34,6 @@ Acts excluded from publication due to quality issues. Total: 1324
 | WDU19600510297 | No text extracted from PDF — may be a scanned document |
 | WDU19640090060 | CID font encoding failure — unreadable glyphs (6541 occurrence(s)); missing Poli |
 | WDU19640150086 | No text extracted from PDF — may be a scanned document |
-| WDU19640160093 | excessive repetition — '### DZIAŁ I Przepisy ogólne' appears 6 times (likely PDF |
-| WDU19640430296 | excessive repetition — '#### Rozdział 1 Przepisy ogólne' appears 7 times (likely |
 | WDU19640430297 | CID font encoding failure — unreadable glyphs (7841 occurrence(s)); missing Poli |
 | WDU19690210151 | No text extracted from PDF — may be a scanned document |
 | WDU19700160138 | No text extracted from PDF — may be a scanned document |
@@ -218,7 +216,6 @@ Acts excluded from publication due to quality issues. Total: 1324
 | WDU19990210196 | CID font encoding failure — unreadable glyphs (29686 occurrence(s)); missing Pol |
 | WDU19990570618 | No text extracted from PDF — may be a scanned document |
 | WDU19990630727 | No text extracted from PDF — may be a scanned document |
-| WDU19990830930 | excessive repetition — '§ 2. W wypadku mniejszej wagi, sprawca czynu zabro…' app |
 | WDU20000020007 | CID font encoding failure — unreadable glyphs (127 occurrence(s)) |
 | WDU20000020009 | CID font encoding failure — unreadable glyphs (71 occurrence(s)) |
 | WDU20000020011 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
@@ -654,7 +651,6 @@ Acts excluded from publication due to quality issues. Total: 1324
 | WDU20160001792 | excessive repetition — '…………………………………………………………………………….....................…' app |
 | WDU20160001947 | excessive repetition — '- **1)** oznaczenie organu;' appears 6 times (likely PDF |
 | WDU20160001966 | excessive repetition — '..................................................…' app |
-| WDU20160002031 | excessive repetition — '# Księga Wieczysta nr PO1I/00017582/2, Sąd Rejonow…' app |
 | WDU20160002033 | excessive repetition — '1) mapę przeglądową z lokalizacją terenu przeprowa…' app |
 | WDU20160002115 | excessive repetition — 'a) zwiększenia (z tytułu) …' appears 14 times (likely PD |
 | WDU20160002166 | excessive repetition — '..................................................…' app |
@@ -722,7 +718,6 @@ Acts excluded from publication due to quality issues. Total: 1324
 | WDU20180001631 | excessive repetition — '..................................................…' app |
 | WDU20180001658 | excessive repetition — '…………………………………………………………………………………………………………………..' appears 1 |
 | WDU20180001679 | excessive repetition — 'II. Kształcenie językowe.' appears 6 times (likely PDF h |
-| WDU20180001693 | excessive repetition — '#### Rozdział 1 Przepisy ogólne' appears 6 times (likely |
 | WDU20180001730 | CID font encoding failure — unreadable glyphs (6 occurrence(s)) |
 | WDU20180001891 | CID font encoding failure — unreadable glyphs (6 occurrence(s)) |
 | WDU20180001953 | CID font encoding failure — unreadable glyphs (7821 occurrence(s)); missing Poli |
@@ -882,7 +877,7 @@ Acts excluded from publication due to quality issues. Total: 1324
 | WDU20190001406 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20190001425 | excessive repetition — '..................................................…' app |
 | WDU20190001483 | excessive repetition — 'Uchwała została podjęta jednogłośnie / za uchwałą …' app |
-| WDU20190001497 | excessive repetition — '#### Rozdział 1 Zastosowanie' appears 9 times (likely PD |
+| WDU20190001497 | excessive repetition — '2. Użyte w załączniku określenia oznaczają:' appears 6 t |
 | WDU20190001522 | excessive repetition — '3) służbowe usługi energia' appears 18 times (likely PDF |
 | WDU20190001573 | excessive repetition — '2. ZAJĘCIA I GRUPY ZAJĘĆ' appears 10 times (likely PDF h |
 | WDU20190001588 | excessive repetition — 'b) przejściowego wykupienia odsetek' appears 6 times (li |
@@ -1083,7 +1078,6 @@ Acts excluded from publication due to quality issues. Total: 1324
 | WDU20230000350 | excessive repetition — '1. Informacje ogólne:' appears 6 times (likely PDF heade |
 | WDU20230000425 | excessive repetition — '1. Dane binarne / nazwa pliku: 2. Typ pliku :' appears 2 |
 | WDU20230000431 | excessive repetition — '…………………………………………………………………………………………….......… …………………' app |
-| WDU20230000467 | excessive repetition — '§ 3. Rozporządzenie wchodzi w życie z dniem następ…' app |
 | WDU20230000495 | excessive repetition — '1) numer siedziby stada;' appears 11 times (likely PDF h |
 | WDU20230000655 | excessive repetition — '..................................................…' app |
 | WDU20230000708 | excessive repetition — '..................................................…' app |
@@ -1297,7 +1291,6 @@ Acts excluded from publication due to quality issues. Total: 1324
 | WDU20250000602 | excessive repetition — '- **1)** imię i nazwisko oraz adres zamieszkania a…' app |
 | WDU20250000611 | excessive repetition — '- **1)** postaci papierowej i opatrywane podpisem …' app |
 | WDU20250000620 | excessive repetition — '- **1)** imię (imiona) i nazwisko;' appears 7 times (lik |
-| WDU20250000633 | excessive repetition — '§ 2. W wypadku mniejszej wagi, sprawca czynu zabro…' app |
 | WDU20250000636 | excessive repetition — '- **1)** składa się z następujących etapów:' appears 6 t |
 | WDU20250000647 | excessive repetition — '4. W rozporządzeniu, o którym mowa w ust. 3, zosta…' app |
 | WDU20250000683 | excessive repetition — '- **c)** członka reprezentującego izby rolnicze, w…' app |
@@ -1305,7 +1298,6 @@ Acts excluded from publication due to quality issues. Total: 1324
 | WDU20250000750 | excessive repetition — '- **a)** imię i nazwisko,' appears 8 times (likely PDF h |
 | WDU20250000775 | excessive repetition — '1. Zwalnia się od podatku import:' appears 6 times (like |
 | WDU20250000825 | excessive repetition — '- **3)** numer PESEL;' appears 7 times (likely PDF heade |
-| WDU20250001071 | excessive repetition — '### DZIAŁ I Przepisy ogólne' appears 6 times (likely PDF |
 | WDU20250001079 | excessive repetition — '- **b)** nie dopełnia obowiązku opłacania składek …' app |
 | WDU20250001131 | excessive repetition — '- **1)** oznaczenie organu;' appears 6 times (likely PDF |
 | WDU20250001164 | excessive repetition — '- **a)** złożył wniosek zawierający nieprawdziwe d…' app |
@@ -1322,7 +1314,6 @@ Acts excluded from publication due to quality issues. Total: 1324
 | WDU20260000196 | excessive repetition — '- **c)** stanowisko,' appears 6 times (likely PDF header |
 | WDU20260000384 | excessive repetition — '- **1)** nazwisko i imię (imiona);' appears 6 times (lik |
 | WDU20260000412 | excessive repetition — '- **1)** następców prawnych lub podmiotów przekszt…' app |
-| WDU20260000468 | excessive repetition — '#### Rozdział 1 Przepisy ogólne' appears 7 times (likely |
 | WDU20260000524 | excessive repetition — '- **1)** postaci papierowej albo' appears 14 times (like |
 | WDU20260000612 | excessive repetition — '- **a)** imię i nazwisko,' appears 8 times (likely PDF h |
 | WDU20260000623 | excessive repetition — '- **1)** postaci papierowej i opatrywane podpisem …' app |

@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo karne**.
 
-Łącznie: **108** aktów
+Łącznie: **110** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -10,6 +10,7 @@ Akty prawne z dziedziny: **Prawo karne**.
 | [WDU20260000490](WDU20260000490/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000911](WDU20250000911/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000734](WDU20250000734/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 | Obwieszczenie | obowiązujący |  |
+| [WDU20250000633](WDU20250000633/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20250000383](WDU20250000383/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250001844](WDU20250001844/index.md) | Ustawa z dnia 4 grudnia 2025 r. zmieniająca ustawę o zmianie ustawy - Kodek | Ustawa | obowiązujący |  |
 | [WDU20250001818](WDU20250001818/index.md) | Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy - Kodeks karny, ustawy - | Ustawa | obowiązujący |  |
@@ -103,6 +104,7 @@ Akty prawne z dziedziny: **Prawo karne**.
 | [WDU20001221318](WDU20001221318/index.md) | Ustawa z dnia 15 grudnia 2000 r. zmieniająca ustawę o zmianie ustawy - Kode | Ustawa | obowiązujący |  |
 | [WDU20000931027](WDU20000931027/index.md) | Ustawa z dnia 9 września 2000 r. o zmianie ustawy - Kodeks karny, ustawy -  | Ustawa | obowiązujący | [tak](WDU20000931027/orzecznictwo.md) |
 | [WDU19990830931](WDU19990830931/index.md) | Ustawa z dnia 10 września 1999 r. Przepisy wprowadzające Kodeks karny skarb | Ustawa | obowiązujący | [tak](WDU19990830931/orzecznictwo.md) |
+| [WDU19990830930](WDU19990830930/index.md) | Ustawa z dnia 10 września 1999 r. Kodeks karny skarbowy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19990830930/orzecznictwo.md) |
 | [WDU19990640729](WDU19990640729/index.md) | Ustawa z dnia 8 lipca 1999 r. o zmianie ustawy - Kodeks karny oraz ustawy o | Ustawa | obowiązujący |  |
 | [WDU19981130717](WDU19981130717/index.md) | Ustawa z dnia 28 sierpnia 1998 r. o zmianie ustawy - Kodeks wykroczeń, usta | Ustawa | obowiązujący | [tak](WDU19981130717/orzecznictwo.md) |
 | [WDU19970900557](WDU19970900557/index.md) | Ustawa z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19970900557/orzecznictwo.md) |
@@ -115,4 +117,4 @@ Akty prawne z dziedziny: **Prawo karne**.
 | [WDU19910830371](WDU19910830371/index.md) | Ustawa z dnia 24 sierpnia 1991 r. o zmianie ustawy o Rzeczniku Praw Obywate | Ustawa | obowiązujący |  |
 | [WDU19710120114](WDU19710120114/index.md) | Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń. | Ustawa | akt posiada tekst jednolity | [tak](WDU19710120114/orzecznictwo.md) |
 
-*108 aktów • [← Powrót do spisu głównego](../README.md)*
+*110 aktów • [← Powrót do spisu głównego](../README.md)*
