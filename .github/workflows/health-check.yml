@@ -1,0 +1,140 @@
+name: Health Check
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Compare metrics
+        id: compare
+        run: |
+          # Get METRICS.json from PR branch
+          if [ ! -f METRICS.json ]; then
+            echo "body=No METRICS.json found in PR branch." >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Get METRICS.json from main
+          git show origin/main:METRICS.json > /tmp/main_metrics.json 2>/dev/null || {
+            echo "body=First publish — no baseline METRICS.json on main yet." >> "$GITHUB_OUTPUT"
+            exit 0
+          }
+
+          # Compare with Python
+          python3 << 'PYEOF' > /tmp/report.md
+          import json, sys
+
+          with open("/tmp/main_metrics.json") as f:
+              old = json.load(f)
+          with open("METRICS.json") as f:
+              new = json.load(f)
+
+          lines = ["## 📊 Health Check Report", ""]
+
+          # Act counts
+          op = old["acts"]["published"]
+          np_ = new["acts"]["published"]
+          or_ = old["acts"]["rejected"]
+          nr = new["acts"]["rejected"]
+          diff_p = np_ - op
+          diff_r = nr - or_
+          sign_p = "+" if diff_p > 0 else ""
+          sign_r = "+" if diff_r > 0 else ""
+
+          lines.append("### Acts")
+          lines.append(f"| Metric | main | PR | Δ |")
+          lines.append(f"|--------|------|----|---|")
+          lines.append(f"| Published | {op:,} | {np_:,} | {sign_p}{diff_p:,} |")
+          lines.append(f"| Rejected | {or_:,} | {nr:,} | {sign_r}{diff_r:,} |")
+          lines.append("")
+
+          # Content
+          oc = old["content"]["total_body_chars"]
+          nc = new["content"]["total_body_chars"]
+          oa = old["content"]["total_articles"]
+          na = new["content"]["total_articles"]
+          diff_c = nc - oc
+          diff_a = na - oa
+          ratio = nc / oc if oc else 0
+
+          lines.append("### Content")
+          lines.append(f"| Metric | main | PR | Δ |")
+          lines.append(f"|--------|------|----|---|")
+          lines.append(f"| Body chars | {oc:,} | {nc:,} | {'+' if diff_c>0 else ''}{diff_c:,} ({ratio:.2f}x) |")
+          lines.append(f"| Articles | {oa:,} | {na:,} | {'+' if diff_a>0 else ''}{diff_a:,} |")
+          lines.append(f"| Avg body/act | {old['content']['avg_body_chars']:,} | {new['content']['avg_body_chars']:,} | |")
+          lines.append(f"| Avg articles/act | {old['content']['avg_articles']} | {new['content']['avg_articles']} | |")
+          lines.append("")
+
+          # Sources
+          lines.append("### Sources")
+          lines.append(f"| Source | main | PR |")
+          lines.append(f"|--------|------|----|")
+          all_sources = sorted(set(list(old.get("sources", {}).keys()) + list(new.get("sources", {}).keys())))
+          for s in all_sources:
+              ov = old.get("sources", {}).get(s, 0)
+              nv = new.get("sources", {}).get(s, 0)
+              lines.append(f"| {s} | {ov:,} | {nv:,} |")
+          lines.append("")
+
+          # Quality
+          oq = old.get("quality", {})
+          nq = new.get("quality", {})
+          lines.append("### Quality")
+          lines.append(f"| Metric | main | PR |")
+          lines.append(f"|--------|------|----|")
+          lines.append(f"| Gate blocked | {oq.get('quality_gate_blocked', 0)} | {nq.get('quality_gate_blocked', 0)} |")
+          lines.append(f"| Rejected (scans) | {oq.get('rejected_scans', 0)} | {nq.get('rejected_scans', 0)} |")
+          lines.append(f"| Rejected (other) | {oq.get('rejected_other', 0)} | {nq.get('rejected_other', 0)} |")
+          lines.append("")
+
+          # Verdict
+          problems = []
+          if diff_p < 0:
+              problems.append(f"Lost {abs(diff_p)} published acts")
+          if diff_a < -100:
+              problems.append(f"Lost {abs(diff_a)} articles")
+          if ratio < 0.95:
+              problems.append(f"Content shrunk to {ratio:.2f}x")
+          if diff_r > 10:
+              problems.append(f"{diff_r} more rejected acts")
+
+          if problems:
+              lines.append("### ⚠️ Warnings")
+              for p in problems:
+                  lines.append(f"- {p}")
+              lines.append("")
+          else:
+              lines.append("### ✅ No regressions detected")
+              lines.append("")
+
+          # Rejected manifest diff
+          lines.append("---")
+          lines.append("*Check REJECTED.md diff for details on excluded acts.*")
+
+          print("\n".join(lines))
+          PYEOF
+
+          # Set output (handle multiline)
+          {
+            echo 'body<<GHEOF'
+            cat /tmp/report.md
+            echo 'GHEOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Post PR comment
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: health-check
+          message: ${{ steps.compare.outputs.body }}
